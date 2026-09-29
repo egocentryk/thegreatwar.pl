@@ -3,6 +3,7 @@ title: Austro-Węgry zarządzają częściową mobilizację przeciw Serbii
 summary: 26 lipca 1914 ruszała częściowa mobilizacja armii Austro-Węgier przeciw Serbii – pierwszy krok monarchii od dyplomacji ku wojnie.
 category: Wojsko
 date: 1914-07-26
+authors: [Natalia]
 dayOrder: 4
 tags: [mobilizacja, Austro-Węgry, Serbia, Franz Conrad von Hötzendorf]
 milestone: false

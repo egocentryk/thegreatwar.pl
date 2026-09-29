@@ -3,6 +3,7 @@ title: Belgia oświadcza, że obroni swoją neutralność
 summary: 24 lipca 1914 rząd Belgii ogłosił, że w razie wojny podtrzyma swoją neutralność bez względu na konsekwencje.
 category: Dyplomacja
 date: 1914-07-24
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [neutralność Belgii, Belgia]
 milestone: false

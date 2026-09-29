@@ -3,6 +3,7 @@ title: War Office ogłasza „okres przygotowawczy”
 summary: "29 lipca 1914 brytyjskie ministerstwo wojny rozesłało telegramy wprowadzające „okres przygotowawczy”: straże przy mostach, obsadzenie fortów, odwołanie urlopów."
 category: Wojsko
 date: 1914-07-29
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [Wielka Brytania, British Army, Herbert Henry Asquith]
 milestone: false

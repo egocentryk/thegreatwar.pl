@@ -3,6 +3,7 @@ title: Admiralicja brytyjska wstrzymuje rozproszenie floty
 summary: 26 lipca 1914 Pierwszy Lord Morski książę Ludwik Battenberg zatrzymał flotę w gotowości, zamiast rozesłać okręty do portów macierzystych.
 category: Wojsko
 date: 1914-07-26
+authors: [Natalia]
 dayOrder: 2
 tags: [Royal Navy, Wielka Brytania, Ludwik Battenberg, Winston Churchill]
 milestone: false

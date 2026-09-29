@@ -3,6 +3,7 @@ title: Austro-Węgry zarządzają powszechną mobilizację
 summary: 31 lipca 1914 Austro-Węgry, w odpowiedzi na mobilizację Rosji, zarządziły mobilizację powszechną. Jej pierwszym dniem był 4 sierpnia.
 category: Wojsko
 date: 1914-07-31
+authors: [Łukasz Skowroń]
 dayOrder: 5
 tags: [mobilizacja, Austro-Węgry, Franz Conrad von Hötzendorf]
 milestone: false

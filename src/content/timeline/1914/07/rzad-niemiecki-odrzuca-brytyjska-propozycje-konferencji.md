@@ -3,6 +3,7 @@ title: Rząd niemiecki odrzuca brytyjską propozycję konferencji
 summary: 28 lipca 1914 kanclerz Bethmann Hollweg potwierdził, że Niemcy nie wezmą udziału w konferencji mocarstw proponowanej przez Wielką Brytanię.
 category: Dyplomacja
 date: 1914-07-28
+authors: [Natalia]
 dayOrder: 2
 tags: [mediacja, Niemcy, Theobald von Bethmann Hollweg, Edward Grey]
 milestone: false

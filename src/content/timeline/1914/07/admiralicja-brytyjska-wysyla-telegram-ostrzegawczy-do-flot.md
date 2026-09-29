@@ -3,6 +3,7 @@ title: Admiralicja brytyjska wysyła „telegram ostrzegawczy” do flot
 summary: 29 lipca 1914 Admiralicja wysłała do okrętów Royal Navy uzgodniony wcześniej „telegram ostrzegawczy”, stawiając flotę w stan gotowości wojennej.
 category: Wojsko
 date: 1914-07-29
+authors: [Natalia]
 dayOrder: 2
 tags: [Royal Navy, Wielka Brytania, Winston Churchill]
 milestone: false

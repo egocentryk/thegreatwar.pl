@@ -3,6 +3,7 @@ title: Brytyjskie floty otrzymują rozkaz przejścia do baz wojennych
 summary: 28 lipca 1914 Winston Churchill nakazał Pierwszej Flocie przejście z Portland do wojennej bazy Scapa Flow na Orkadach.
 category: Wojsko
 date: 1914-07-28
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [Royal Navy, Wielka Brytania, Winston Churchill]
 milestone: false

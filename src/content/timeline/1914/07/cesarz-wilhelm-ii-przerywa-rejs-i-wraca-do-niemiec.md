@@ -3,6 +3,7 @@ title: Cesarz Wilhelm II przerywa rejs i wraca do Niemiec
 summary: 26 lipca 1914 Wilhelm II, wbrew radom kanclerza, przerwał rejs po fiordach Norwegii i płynął do Kilonii, by stamtąd wrócić do Poczdamu.
 category: Polityka
 date: 1914-07-26
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [Wilhelm II, Niemcy, Theobald von Bethmann Hollweg]
 milestone: false

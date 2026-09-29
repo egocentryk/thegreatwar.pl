@@ -3,6 +3,7 @@ title: Rząd niemiecki popiera austriackie ultimatum wobec Serbii
 summary: 24 lipca 1914 Berlin przekazał mocarstwom Ententy, że aprobuje ultimatum Austro-Węgier i traktuje spór z Serbią jako sprawę lokalną.
 category: Dyplomacja
 date: 1914-07-24
+authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [ultimatum wobec Serbii, Niemcy, Austro-Węgry]
 milestone: false

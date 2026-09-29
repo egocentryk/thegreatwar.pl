@@ -3,6 +3,7 @@ title: Giełda londyńska zamknięta
 summary: 31 lipca 1914 London Stock Exchange po raz pierwszy od 1801 roku zamknęła swoje podwoje. Otwarto ją ponownie dopiero w styczniu 1915 roku.
 category: Społeczeństwo
 date: 1914-07-31
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [gospodarka, Wielka Brytania, London Stock Exchange]
 milestone: false

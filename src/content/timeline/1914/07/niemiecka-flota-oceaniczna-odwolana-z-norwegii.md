@@ -3,6 +3,7 @@ title: Niemiecka Flota Oceaniczna odwołana z Norwegii do baz wojennych
 summary: 27 lipca 1914 niemiecka Flota Oceaniczna zebrała się u wybrzeży Norwegii i przerwała letni rejs, kierując się do swoich baz wojennych.
 category: Wojsko
 date: 1914-07-27
+authors: [Natalia]
 dayOrder: 1
 tags: [Hochseeflotte, Niemcy, Wilhelm II]
 milestone: false

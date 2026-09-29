@@ -3,6 +3,7 @@ title: Niemcy proponują porozumienie w sprawie neutralności Wielkiej Brytanii
 summary: Wieczorem 29 lipca 1914 kanclerz Bethmann Hollweg próbował zapewnić sobie neutralność Wielkiej Brytanii w razie wojny z Francją i Rosją.
 category: Dyplomacja
 date: 1914-07-29
+authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [Niemcy, Wielka Brytania, Theobald von Bethmann Hollweg, Edward Grey]
 milestone: false

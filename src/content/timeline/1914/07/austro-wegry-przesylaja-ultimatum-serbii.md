@@ -3,6 +3,7 @@ title: Austro-Węgry przesyłają ultimatum Serbii
 summary: 23 lipca 1914 Austro-Węgry wręczyły Serbii ultimatum z 48-godzinnym terminem, formułując żądania uderzające w jej suwerenność.
 category: Dyplomacja
 date: 1914-07-23
+authors: [Łukasz Skowroń]
 tags: [ultimatum wobec Serbii, Austro-Węgry, Serbia, Wladimir Giesl]
 milestone: false
 draft: false

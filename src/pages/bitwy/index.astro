@@ -1,0 +1,89 @@
+---
+import { getCollection } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { BATTLE_PHASES } from "@/data/battlePhases"
+import { formatDateRange } from "@/utils/formatDate"
+
+const battles = await getCollection("battles", ({ data }) => !data.draft)
+const byStartDate = [...battles].sort(
+  (a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf(),
+)
+
+// Phases in their defined order, each with its battles; empty phases are hidden.
+const phases = BATTLE_PHASES.map((phase) => ({
+  ...phase,
+  battles: byStartDate.filter((battle) => battle.data.phase === phase.slug),
+})).filter((phase) => phase.battles.length > 0)
+
+// Group phases by front, keeping the order in which fronts first appear.
+const fronts = [...new Set(phases.map((phase) => phase.front))].map(
+  (front) => ({
+    front,
+    phases: phases.filter((phase) => phase.front === front),
+  }),
+)
+---
+
+<BaseLayout
+  title="Bitwy"
+  description="Najważniejsze bitwy I wojny światowej, pogrupowane według frontów i etapów wojny."
+>
+  <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow="Bitwy" count={battles.length} />
+
+    <div class="space-y-16">
+      {
+        fronts.map(({ front, phases }) => (
+          <section>
+            <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
+              {front}
+            </h2>
+
+            <div class="mt-8 space-y-12">
+              {phases.map((phase) => (
+                <section>
+                  <h3 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
+                    {phase.title}
+                  </h3>
+                  <p class="text-ink-soft mt-1 font-mono text-xs">
+                    {phase.dates}
+                  </p>
+                  <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+                    {phase.intro}
+                  </p>
+
+                  <ul class="border-line mt-6 border-t">
+                    {phase.battles.map((battle) => (
+                      <li class="border-line hover:border-signal border-b transition-colors">
+                        <a
+                          href={`/bitwy/${battle.id}`}
+                          class="group grid gap-1 py-4 sm:grid-cols-[10rem_1fr] sm:gap-4"
+                        >
+                          <span class="text-ink-soft font-mono text-xs leading-6">
+                            {formatDateRange(
+                              battle.data.startDate,
+                              battle.data.endDate,
+                            )}
+                          </span>
+                          <span class="min-w-0">
+                            <span class="text-ink group-hover:text-signal block transition-colors">
+                              {battle.data.title}
+                            </span>
+                            <span class="text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs">
+                              {battle.data.summary}
+                            </span>
+                          </span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </section>
+              ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

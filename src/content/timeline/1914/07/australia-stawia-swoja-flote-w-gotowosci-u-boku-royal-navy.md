@@ -3,6 +3,7 @@ title: Australia stawia swoją flotę w gotowości u boku Royal Navy
 summary: 30 lipca 1914 do Melbourne dotarło brytyjskie ostrzeżenie o groźbie wojny. Australijska marynarka zajęła stanowiska wojenne, a 3 sierpnia oddano ją Admiralicji.
 category: Wojsko
 date: 1914-07-30
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [Australia, Royal Australian Navy, Joseph Cook]
 milestone: false

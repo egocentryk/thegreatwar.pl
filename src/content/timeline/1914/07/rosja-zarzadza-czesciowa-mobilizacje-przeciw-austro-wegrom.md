@@ -3,6 +3,7 @@ title: Rosja zarządza częściową mobilizację przeciw Austro-Węgrom
 summary: 29 lipca 1914 Rosja zarządziła mobilizację czterech okręgów wojskowych przeciw Austro-Węgrom. Wieczorem car wstrzymał już gotową mobilizację powszechną.
 category: Wojsko
 date: 1914-07-29
+authors: [Łukasz Skowroń]
 dayOrder: 5
 tags: [mobilizacja, Rosja, Mikołaj II, Siergiej Sazonow]
 milestone: false

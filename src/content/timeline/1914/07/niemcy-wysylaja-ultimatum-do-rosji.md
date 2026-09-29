@@ -3,6 +3,7 @@ title: Niemcy wysyłają ultimatum do Rosji
 summary: 31 lipca 1914 Niemcy zażądały od Rosji wstrzymania mobilizacji w ciągu 12 godzin. Równocześnie zapytały Francję, czy zachowa neutralność.
 category: Dyplomacja
 date: 1914-07-31
+authors: [Natalia]
 dayOrder: 4
 tags: [ultimatum wobec Rosji, Niemcy, Rosja, Francja]
 milestone: false

@@ -3,6 +3,7 @@ title: Francja i Włochy przyjmują brytyjską propozycję konferencji
 summary: 27 lipca 1914 Francja i Włochy poparły brytyjski plan konferencji ambasadorów w Londynie. Tego samego dnia Niemcy go odrzuciły.
 category: Dyplomacja
 date: 1914-07-27
+authors: [Łukasz Skowroń]
 dayOrder: 2
 tags: [mediacja, Edward Grey, Francja, Włochy]
 milestone: false

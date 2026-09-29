@@ -14,10 +14,11 @@ export const SITE = {
     { label: "LinkedIn", href: "https://www.linkedin.com/in/your-username" },
     { label: "X", href: "https://x.com/your-username" },
   ],
-  locale: "en",
+  locale: "pl",
 } as const
 
 export const NAV_LINKS = [
   { label: "Timeline", href: "/timeline" },
+  { label: "Bitwy", href: "/bitwy" },
   { label: "About", href: "/about" },
 ] as const

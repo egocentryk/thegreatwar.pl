@@ -3,6 +3,7 @@ title: Belgia zarządza mobilizację
 summary: 31 lipca 1914 rząd Belgii zarządził powszechną mobilizację armii, by bronić neutralności kraju przed każdym, kto zechce ją naruszyć.
 category: Wojsko
 date: 1914-07-31
+authors: [Natalia]
 dayOrder: 7
 tags: [Belgia, mobilizacja, neutralność Belgii, Albert I]
 milestone: false

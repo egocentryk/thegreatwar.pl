@@ -1,5 +1,10 @@
 ---
-import { getCollection, render, type CollectionEntry } from "astro:content"
+import {
+  getCollection,
+  getEntry,
+  render,
+  type CollectionEntry,
+} from "astro:content"
 import { Image } from "astro:assets"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import Button from "@/components/Button.astro"
@@ -38,12 +43,15 @@ const {
   category,
   front,
   date,
+  authors,
   tags,
   url,
   repo,
   image,
   milestone,
+  battle,
 } = entry.data
+const battleEntry = battle ? await getEntry(battle) : undefined
 const { Content } = await render(entry)
 
 const formattedDate = formatDate(date)
@@ -118,6 +126,37 @@ const headerImage = image
         <div>
           <dt class="inline">Data: </dt><dd class="inline">{formattedDate}</dd>
         </div>
+        <div>
+          <dt class="inline">{authors.length > 1 ? "Autorzy: " : "Autor: "}</dt>
+          <dd class="inline">
+            {authors.map((name, index) => (
+              <>
+                {index > 0 && ", "}
+                <a
+                  href={`/autor/${slugify(name)}`}
+                  class="text-ink hover:text-signal transition-colors"
+                >
+                  {name}
+                </a>
+              </>
+            ))}
+          </dd>
+        </div>
+        {
+          battleEntry && (
+            <div>
+              <dt class="inline">Bitwa: </dt>
+              <dd class="inline">
+                <a
+                  href={`/bitwy/${battleEntry.id}`}
+                  class="text-ink hover:text-signal transition-colors"
+                >
+                  {battleEntry.data.title}
+                </a>
+              </dd>
+            </div>
+          )
+        }
         {
           tags.length > 0 && (
             <div>

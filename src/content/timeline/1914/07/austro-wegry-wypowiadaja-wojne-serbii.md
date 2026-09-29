@@ -4,6 +4,7 @@ summary: 28 lipca 1914 Austro-Węgry wypowiedziały Serbii wojnę telegramem. Te
 category: Dyplomacja
 front: Front bałkański
 date: 1914-07-28
+authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [wypowiedzenie wojny, Austro-Węgry, Serbia, Franciszek Józef I]
 milestone: true

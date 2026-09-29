@@ -3,6 +3,7 @@ title: Rada ministrów Austro-Węgier decyduje o akcji przeciw Serbii
 summary: 14 lipca 1914 w Wiedniu zapadła polityczna decyzja o twardym kursie wobec Serbii i przygotowaniu ultimatum prowadzącego do wojny.
 category: Polityka
 date: 1914-07-14
+authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Serbia, István Tisza, Leopold Berchtold]
 milestone: false
 draft: false

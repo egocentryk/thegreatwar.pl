@@ -3,6 +3,7 @@ title: Wielka Brytania odrzuca niemiecką propozycję neutralności
 summary: 30 lipca 1914 Edward Grey odrzucił niemiecką ofertę. Uznał, że neutralność kosztem Francji i Belgii byłaby dla Wielkiej Brytanii hańbą.
 category: Dyplomacja
 date: 1914-07-30
+authors: [Natalia]
 dayOrder: 2
 tags: [Wielka Brytania, Niemcy, Edward Grey, Theobald von Bethmann Hollweg]
 milestone: false

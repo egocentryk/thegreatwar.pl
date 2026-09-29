@@ -3,6 +3,7 @@ title: Rada ministrów Austro-Węgier zatwierdza projekt ultimatum dla Serbii
 summary: 19 lipca 1914 Wiedeń zatwierdził projekt ultimatum dla Serbii, kończąc etap przygotowań do dyplomatycznego kroku, który miał otworzyć drogę do wojny.
 category: Polityka
 date: 1914-07-19
+authors: [Natalia]
 tags: [ultimatum wobec Serbii, Austro-Węgry, Serbia]
 milestone: false
 draft: false

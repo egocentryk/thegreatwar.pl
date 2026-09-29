@@ -3,6 +3,7 @@ title: Rząd Czarnogóry zarządza mobilizację
 summary: 26 lipca 1914 Czarnogóra zarządziła mobilizację armii, stając u boku Serbii w konflikcie z Austro-Węgrami.
 category: Wojsko
 date: 1914-07-26
+authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [mobilizacja, Czarnogóra, Mikołaj I Petrowić-Niegosz]
 milestone: false

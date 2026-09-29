@@ -3,6 +3,7 @@ title: Kajzer obiecuje Austro-Węgrom pełne poparcie
 summary: 5 lipca 1914 Wilhelm II obiecał Austro-Węgrom pełne wsparcie przeciw Serbii, dając polityczny impuls do dalszej eskalacji kryzysu.
 category: Dyplomacja
 date: 1914-07-05
+authors: [Natalia]
 tags: [czek in blanco, Wilhelm II, Niemcy, Austro-Węgry]
 milestone: false
 draft: false

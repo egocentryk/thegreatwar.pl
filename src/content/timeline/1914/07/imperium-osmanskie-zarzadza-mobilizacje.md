@@ -3,6 +3,7 @@ title: Imperium Osmańskie zarządza mobilizację
 summary: Na przełomie lipca i sierpnia 1914 rząd osmański zarządził mobilizację, która ruszyła 3 sierpnia. W tajemnicy zawarł też sojusz z Niemcami.
 category: Wojsko
 date: 1914-07-31
+authors: [Natalia]
 dayOrder: 2
 tags: [Imperium Osmańskie, mobilizacja, Enver Pasza]
 milestone: false

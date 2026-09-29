@@ -1,0 +1,36 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { slugify } from "@/utils/slugify"
+
+export async function getStaticPaths() {
+  const entries = await getCollection("timeline", ({ data }) => !data.draft)
+  const authors = new Map<
+    string,
+    { name: string; entries: CollectionEntry<"timeline">[] }
+  >()
+
+  for (const entry of entries) {
+    for (const name of entry.data.authors) {
+      const slug = slugify(name)
+      const author = authors.get(slug) ?? { name, entries: [] }
+      author.entries.push(entry)
+      authors.set(slug, author)
+    }
+  }
+
+  return [...authors].map(([slug, author]) => ({
+    params: { author: slug },
+    props: author,
+  }))
+}
+
+interface Props {
+  name: string
+  entries: CollectionEntry<"timeline">[]
+}
+
+const { name, entries } = Astro.props
+---
+
+<FilteredTimeline label="Autor" name={name} entries={entries} />

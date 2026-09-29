@@ -3,6 +3,7 @@ title: Niemcy ogłaszają stan zagrożenia wojennego
 summary: 31 lipca 1914 w Niemczech ogłoszono „stan zagrożenia wojennego” (Kriegsgefahr), który oddawał władzę wojsku i poprzedzał mobilizację.
 category: Polityka
 date: 1914-07-31
+authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [Niemcy, Wilhelm II, stan zagrożenia wojennego]
 milestone: false

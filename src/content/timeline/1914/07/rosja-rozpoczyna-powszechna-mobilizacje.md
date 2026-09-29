@@ -3,6 +3,7 @@ title: Rosja rozpoczyna powszechną mobilizację
 summary: 31 lipca 1914 był pierwszym dniem powszechnej mobilizacji w Rosji. Wiadomość o niej wywołała natychmiastową reakcję Berlina.
 category: Wojsko
 date: 1914-07-31
+authors: [Łukasz Skowroń]
 dayOrder: 6
 tags: [mobilizacja, Rosja, Mikołaj II]
 milestone: false

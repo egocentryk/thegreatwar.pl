@@ -4,6 +4,7 @@ summary: W nocy z 28 na 29 lipca 1914 austro-węgierskie monitory i artyleria os
 category: Działania zbrojne
 front: Front bałkański
 date: 1914-07-29
+authors: [Natalia]
 dayOrder: 4
 tags: [Belgrad, Austro-Węgry, Serbia]
 milestone: false

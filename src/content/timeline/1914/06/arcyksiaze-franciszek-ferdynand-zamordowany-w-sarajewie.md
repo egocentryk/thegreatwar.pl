@@ -3,6 +3,7 @@ title: Arcyksiążę Franciszek Ferdynand zamordowany w Sarajewie
 summary: 28 czerwca 1914 Gavrilo Princip zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię, uruchamiając kryzys lipcowy.
 category: Polityka
 date: 1914-06-28
+authors: [Łukasz Skowroń]
 tags: [zamach w Sarajewie, Franciszek Ferdynand, Austro-Węgry, Serbia]
 milestone: true
 draft: false

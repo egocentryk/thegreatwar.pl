@@ -3,6 +3,7 @@ title: Car zarządza powszechną mobilizację armii rosyjskiej
 summary: 30 lipca 1914 po południu Mikołaj II, przekonany przez Sazonowa, zgodził się na mobilizację powszechną. Jej pierwszym dniem był 31 lipca.
 category: Wojsko
 date: 1914-07-30
+authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [mobilizacja, Rosja, Mikołaj II, Siergiej Sazonow]
 milestone: false

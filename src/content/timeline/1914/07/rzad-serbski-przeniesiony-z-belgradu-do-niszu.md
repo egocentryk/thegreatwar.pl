@@ -3,6 +3,7 @@ title: Rząd serbski przeniesiony z Belgradu do Niszu
 summary: 25 lipca 1914 regent Aleksander zdecydował o przeniesieniu rządu, parlamentu i administracji Serbii do Niszu, który stał się wojenną stolicą kraju.
 category: Polityka
 date: 1914-07-25
+authors: [Łukasz Skowroń]
 dayOrder: 1
 tags: [Nisz, Aleksander Karađorđević, Serbia]
 milestone: false

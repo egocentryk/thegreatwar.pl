@@ -1,0 +1,158 @@
+---
+import { getCollection, render, type CollectionEntry } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import { BATTLE_PHASES } from "@/data/battlePhases"
+import { formatDateRange } from "@/utils/formatDate"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { slugify } from "@/utils/slugify"
+
+export async function getStaticPaths() {
+  const battles = await getCollection("battles", ({ data }) => !data.draft)
+  return battles.map((battle) => ({
+    params: { id: battle.id },
+    props: { battle },
+  }))
+}
+
+interface Props {
+  battle: CollectionEntry<"battles">
+}
+
+const { battle } = Astro.props
+const {
+  title,
+  summary,
+  front,
+  phase,
+  startDate,
+  endDate,
+  location,
+  sides,
+  result,
+  authors,
+  tags,
+  milestone,
+} = battle.data
+const { Content } = await render(battle)
+
+const phaseInfo = BATTLE_PHASES.find((item) => item.slug === phase)
+const relatedEntries = await getCollection(
+  "timeline",
+  ({ data }) => !data.draft && data.battle?.id === battle.id,
+)
+const relatedByYear = groupTimelineEntries(relatedEntries)
+---
+
+<BaseLayout title={title} description={summary}>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-3xl px-6">
+      <a
+        href="/bitwy"
+        class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+      >
+        ← Wszystkie bitwy
+      </a>
+
+      {
+        phaseInfo && (
+          <p class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase">
+            {phaseInfo.title}
+          </p>
+        )
+      }
+
+      <h1
+        class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl"
+      >
+        {title}
+      </h1>
+
+      <dl
+        class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]"
+      >
+        <dt>Daty:</dt>
+        <dd class="text-ink">{formatDateRange(startDate, endDate)}</dd>
+        <dt>Front:</dt>
+        <dd class="text-ink">{front}</dd>
+        <dt>Miejsce:</dt>
+        <dd class="text-ink">{location}</dd>
+        <dt>Strony:</dt>
+        <dd class="text-ink space-y-2">
+          {
+            sides.map((side) => (
+              <div>
+                <span>{side.name}</span>
+                {side.commanders.length > 0 && (
+                  <span class="text-ink-soft block">
+                    {side.commanders.join(", ")}
+                  </span>
+                )}
+              </div>
+            ))
+          }
+        </dd>
+        <dt>Wynik:</dt>
+        <dd class:list={["text-ink", milestone && "font-semibold"]}>{result}</dd>
+        <dt>{authors.length > 1 ? "Autorzy:" : "Autor:"}</dt>
+        <dd>
+          {
+            authors.map((name, index) => (
+              <>
+                {index > 0 && ", "}
+                <a
+                  href={`/autor/${slugify(name)}`}
+                  class="text-ink hover:text-signal transition-colors"
+                >
+                  {name}
+                </a>
+              </>
+            ))
+          }
+        </dd>
+        {
+          tags.length > 0 && (
+            <>
+              <dt>Tagi:</dt>
+              <dd>
+                {tags.map((tag, index) => (
+                  <>
+                    {index > 0 && ", "}
+                    <a
+                      href={`/tag/${slugify(tag)}`}
+                      class="text-ink hover:text-signal transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  </>
+                ))}
+              </dd>
+            </>
+          )
+        }
+      </dl>
+
+      <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl">
+        <Content />
+      </div>
+
+      {
+        relatedEntries.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading
+              eyebrow="Na osi czasu"
+              count={relatedEntries.length}
+            />
+            <TimelineArchive
+              timelineByYear={relatedByYear}
+              renderAllYears={true}
+              showYearNav={false}
+              showBackLink={false}
+            />
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>

@@ -3,6 +3,7 @@ title: Grey proponuje międzynarodową konferencję, aby powstrzymać wojnę
 summary: 24 lipca 1914 sir Edward Grey zaproponował konferencję mocarstw, licząc, że mediacja zatrzyma kryzys zanim przerodzi się on w wojnę europejską.
 category: Dyplomacja
 date: 1914-07-24
+authors: [Natalia]
 dayOrder: 2
 tags: [mediacja, Edward Grey, Wielka Brytania]
 milestone: false

@@ -3,6 +3,7 @@ title: Rząd serbski zarządza mobilizację
 summary: 25 lipca 1914, jeszcze przed odpowiedzią na ultimatum, Serbia ogłosiła powszechną mobilizację, a władze zaczęły opuszczać Belgrad.
 category: Wojsko
 date: 1914-07-25
+authors: [Łukasz Skowroń]
 dayOrder: 2
 tags: [mobilizacja, Radomir Putnik, Serbia]
 milestone: false

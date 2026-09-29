@@ -3,6 +3,7 @@ title: Austro-Węgry zrywają stosunki dyplomatyczne z Serbią
 summary: 25 lipca 1914 poseł Austro-Węgier baron Giesl uznał odpowiedź Serbii za niewystarczającą, zerwał stosunki dyplomatyczne i opuścił Belgrad.
 category: Dyplomacja
 date: 1914-07-25
+authors: [Natalia]
 dayOrder: 3
 tags: [Wladimir Giesl, Nikola Pašić, Austro-Węgry, Serbia]
 milestone: false
