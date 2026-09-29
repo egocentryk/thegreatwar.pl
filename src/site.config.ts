@@ -18,7 +18,7 @@ export const SITE = {
 } as const
 
 export const NAV_LINKS = [
-  { label: "Timeline", href: "/timeline" },
+  { label: "Oś czasu", href: "/timeline" },
   { label: "Bitwy", href: "/bitwy" },
-  { label: "About", href: "/about" },
+  { label: "O Projekcie", href: "/about" },
 ] as const

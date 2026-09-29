@@ -3,6 +3,14 @@ import ThemeToggle from '@/components/ThemeToggle.astro';
 import { SITE, NAV_LINKS } from '@/site.config';
 
 const currentPath = Astro.url.pathname;
+
+const links = [
+  ...NAV_LINKS.map((link) => ({
+    ...link,
+    isActive: currentPath === link.href || currentPath.startsWith(`${link.href}/`),
+  })),
+  { label: 'Kontakt', href: '/#contact', isActive: false },
+];
 ---
 
 <header class="border-line bg-paper/90 sticky top-0 z-40 border-b backdrop-blur">
@@ -11,31 +19,157 @@ const currentPath = Astro.url.pathname;
       {SITE.name}
     </a>
 
-    <nav class="flex items-center gap-5" aria-label="Primary">
-      {
-        NAV_LINKS.map((link) => {
-          const isActive = currentPath === link.href || currentPath.startsWith(`${link.href}/`);
-          return (
+    <div class="flex items-center gap-5">
+      {/* Desktop: links inline */}
+      <nav class="hidden items-center gap-5 sm:flex" aria-label="Primary">
+        {
+          links.map((link) => (
             <a
               href={link.href}
-              aria-current={isActive ? 'page' : undefined}
+              aria-current={link.isActive ? 'page' : undefined}
               class:list={[
                 'font-mono text-xs tracking-wide uppercase transition-colors',
-                isActive ? 'text-signal' : 'text-ink-soft hover:text-ink',
+                link.isActive ? 'text-signal' : 'text-ink-soft hover:text-ink',
               ]}
             >
               {link.label}
             </a>
-          );
-        })
-      }
-      <a
-        href="/#contact"
-        class="text-ink-soft hover:text-ink hidden font-mono text-xs tracking-wide uppercase transition-colors sm:inline"
-      >
-        Contact
-      </a>
+          ))
+        }
+      </nav>
+
       <ThemeToggle />
+
+      {/* Mobile: hamburger toggles the panel below */}
+      <button
+        type="button"
+        data-menu-toggle
+        aria-expanded="false"
+        aria-controls="mobile-menu"
+        aria-label="Otwórz menu"
+        class="text-ink-soft hover:border-signal hover:text-signal border-line flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center rounded-full border transition-colors sm:hidden"
+      >
+        <svg
+          data-menu-icon-open
+          class="h-4 w-4"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.75"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <path d="M4 7h16M4 12h16M4 17h16"></path>
+        </svg>
+        <svg
+          data-menu-icon-close
+          class="hidden h-4 w-4"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.75"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <path d="M6 6l12 12M18 6L6 18"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  {/* Slides open by animating the grid row from 0fr to 1fr; inert while closed. */}
+  <div
+    id="mobile-menu"
+    data-menu-panel
+    data-open="false"
+    inert
+    class="group grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 ease-out data-[open=true]:grid-rows-[1fr] motion-reduce:transition-none sm:hidden"
+  >
+    <nav aria-label="Primary" class="overflow-hidden">
+      <ul
+        class="border-line bg-paper mx-auto max-w-3xl -translate-y-2 border-t px-6 py-2 opacity-0 transition duration-300 ease-out group-data-[open=true]:translate-y-0 group-data-[open=true]:opacity-100 motion-reduce:transition-none"
+      >
+        {
+          links.map((link) => (
+            <li class="border-line border-b last:border-b-0">
+              <a
+                href={link.href}
+                aria-current={link.isActive ? 'page' : undefined}
+                class:list={[
+                  'block py-4 font-mono text-sm tracking-wide uppercase transition-colors',
+                  link.isActive ? 'text-signal' : 'text-ink-soft hover:text-ink',
+                ]}
+              >
+                {link.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
     </nav>
   </div>
 </header>
+
+<script>
+  // Document-level listeners from the previous page are dropped on each navigation.
+  let controller: AbortController | undefined;
+
+  function initMobileMenu() {
+    controller?.abort();
+    controller = new AbortController();
+    const { signal } = controller;
+
+    const button = document.querySelector<HTMLButtonElement>('[data-menu-toggle]');
+    const panel = document.querySelector<HTMLElement>('[data-menu-panel]');
+    if (!button || !panel) return;
+
+    const iconOpen = button.querySelector('[data-menu-icon-open]');
+    const iconClose = button.querySelector('[data-menu-icon-close]');
+
+    const isOpen = () => panel.dataset.open === 'true';
+    const setOpen = (open: boolean) => {
+      panel.dataset.open = String(open);
+      panel.inert = !open;
+      button.setAttribute('aria-expanded', String(open));
+      button.setAttribute('aria-label', open ? 'Zamknij menu' : 'Otwórz menu');
+      iconOpen?.classList.toggle('hidden', open);
+      iconClose?.classList.toggle('hidden', !open);
+    };
+
+    button.addEventListener('click', () => setOpen(!isOpen()), { signal });
+    panel.addEventListener(
+      'click',
+      (event) => {
+        if ((event.target as HTMLElement).closest('a')) setOpen(false);
+      },
+      { signal },
+    );
+    document.addEventListener(
+      'keydown',
+      (event) => {
+        if (event.key === 'Escape' && isOpen()) {
+          setOpen(false);
+          button.focus();
+        }
+      },
+      { signal },
+    );
+    // Close when the viewport grows to the desktop layout (Tailwind `sm`).
+    window
+      .matchMedia('(min-width: 40rem)')
+      .addEventListener('change', (event) => event.matches && setOpen(false), { signal });
+    document.addEventListener(
+      'click',
+      (event) => {
+        const target = event.target as Node;
+        if (isOpen() && !panel.contains(target) && !button.contains(target)) {
+          setOpen(false);
+        }
+      },
+      { signal },
+    );
+  }
+
+  // astro:page-load fires on the first load and after every client-side navigation.
+  document.addEventListener('astro:page-load', initMobileMenu);
+</script>
