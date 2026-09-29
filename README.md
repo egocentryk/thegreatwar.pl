@@ -27,7 +27,7 @@ something that looks intentional on day one, without a component library you did
 
 - **Astro 7** — static output, zero client-side JavaScript by default
 - **Tailwind CSS v4** — CSS-first config, no `tailwind.config.js` needed
-- **Content Collections** with a typed Zod schema — add a project by dropping a Markdown file in `src/content/work/`
+- **Content Collections** with a typed Zod schema — add a project by dropping a Markdown file in `src/content/timeline/`
 - **Light & dark mode** — class-based, no flash of unstyled theme on load
 - **Astro Fonts API** — self-hosted Google Fonts, zero layout shift, no third-party requests
 - **View Transitions** — smooth navigation between pages
@@ -68,21 +68,21 @@ Open `http://localhost:4321`.
 │   └── robots.txt
 ├── src/
 │   ├── assets/               # static images and assets
-│   ├── components/           # BaseHead, Button, Footer, Header, SectionHeading, ThemeToggle, WorkRow
+│   ├── components/           # BaseHead, Button, Footer, Header, SectionHeading, ThemeToggle, TimelineRow
 │   ├── content/
-│   │   └── work/*.md         # one file per project
+│   │   └── timeline/*.md     # one file per project
 │   ├── layouts/
 │   │   └── BaseLayout.astro  # <head>, SEO, fonts, theme script
 │   ├── pages/
 │   │   ├── index.astro
 │   │   ├── about.astro
-│   │   ├── work/[id].astro
+│   │   ├── timeline/[id].astro
 │   │   └── 404.astro
 │   ├── styles/
 │   │   └── global.css        # design tokens + Tailwind import
 │   ├── utils/
 │   │   └── formatDate.ts     # date formatting helpers
-│   ├── content.config.ts     # Zod schema for the "work" collection
+│   ├── content.config.ts     # Zod schema for the "timeline" collection
 │   └── site.config.ts        # name, bio, email, social links
 ├── astro.config.mjs
 └── tsconfig.json
@@ -100,7 +100,7 @@ these tokens, so changing them re-skins the whole site.
 **Fonts.** Swap the three families in the `fonts` array in `astro.config.mjs`. Any
 family available from Google Fonts works — Astro self-hosts it automatically.
 
-**Projects.** Add a Markdown file to `src/content/work/`. Required frontmatter is
+**Projects.** Add a Markdown file to `src/content/timeline/`. Required frontmatter is
 enforced by the schema in `src/content.config.ts`:
 
 ```md

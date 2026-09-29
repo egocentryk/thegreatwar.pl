@@ -1,0 +1,139 @@
+---
+import type { TimelineYearGroup } from "@/utils/groupTimelineEntries"
+
+interface Props {
+  activeYear?: number
+  activeMonth?: string
+  timelineByYear: TimelineYearGroup[]
+  showYearNav?: boolean
+  showBackLink?: boolean
+  renderAllYears?: boolean
+}
+
+const {
+  activeYear,
+  activeMonth,
+  timelineByYear,
+  showYearNav = true,
+  showBackLink = true,
+  renderAllYears = false,
+} = Astro.props
+const years = timelineByYear.map((yearGroup) => yearGroup.year)
+const activeGroup =
+  timelineByYear.find((yearGroup) => yearGroup.year === activeYear) ??
+  timelineByYear[0]
+const visibleYearGroups = renderAllYears
+  ? timelineByYear
+  : activeGroup
+    ? [activeGroup]
+    : []
+---
+
+{
+  visibleYearGroups.length > 0 && (
+    <>
+      {showYearNav && (
+        <nav
+          class="border-line mt-10 flex flex-wrap gap-x-4 gap-y-2 border-b pb-4 font-mono text-xs"
+          aria-label="Timeline years"
+        >
+          {years.map((year) => (
+            <a
+              href={`/timeline/${year}`}
+              aria-current={year === activeYear ? "page" : undefined}
+              class:list={[
+                "transition-colors",
+                year === activeYear
+                  ? "text-signal"
+                  : "text-ink-soft hover:text-ink",
+              ]}
+            >
+              {year}
+            </a>
+          ))}
+        </nav>
+      )}
+
+      <div class={showYearNav ? "mt-10" : "mt-6 space-y-12"}>
+        {visibleYearGroups.map((yearGroup) => {
+          const visibleMonths =
+            !renderAllYears && activeMonth
+              ? yearGroup.months.filter(
+                  (monthGroup) => monthGroup.slug === activeMonth,
+                )
+              : yearGroup.months
+
+          return (
+            <section>
+              <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
+                {yearGroup.year}
+              </h2>
+
+              <div class="mt-6 space-y-8">
+                {visibleMonths.map((monthGroup) => (
+                  <section>
+                    <h3>
+                      <a
+                        href={`/timeline/${yearGroup.year}/${monthGroup.slug}`}
+                        aria-current={
+                          !renderAllYears && monthGroup.slug === activeMonth
+                            ? "page"
+                            : undefined
+                        }
+                        class:list={[
+                          "font-mono text-[10px] tracking-[0.2em] uppercase transition-colors",
+                          !renderAllYears && monthGroup.slug === activeMonth
+                            ? "text-signal"
+                            : "text-signal hover:text-ink",
+                        ]}
+                      >
+                        {monthGroup.label}
+                      </a>
+                    </h3>
+
+                    <ul class="border-line mt-3 border-l pl-5">
+                      {monthGroup.entries.map((entry) => (
+                        <li class="border-line hover:border-signal border-b py-3 transition-colors last:border-b-0">
+                          <a
+                            href={`/${entry.id}`}
+                            class="group grid grid-cols-[3rem_1fr] gap-3"
+                          >
+                            <span class="text-ink-soft font-mono text-xs leading-6">
+                              {entry.data.date
+                                .getUTCDate()
+                                .toString()
+                                .padStart(2, "0")}
+                            </span>
+                            <span class="min-w-0">
+                              <span class="text-ink group-hover:text-signal block transition-colors">
+                                {entry.data.title}
+                              </span>
+                              <span class="text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs">
+                                {entry.data.summary}
+                              </span>
+                            </span>
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                ))}
+
+                {showBackLink && !renderAllYears && activeMonth && (
+                  <div>
+                    <a
+                      href={`/timeline/${yearGroup.year}`}
+                      class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+                    >
+                      wróć do roku {yearGroup.year}
+                    </a>
+                  </div>
+                )}
+              </div>
+            </section>
+          )
+        })}
+      </div>
+    </>
+  )
+}

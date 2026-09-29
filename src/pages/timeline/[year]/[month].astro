@@ -1,0 +1,51 @@
+---
+import { getCollection } from "astro:content"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import {
+  getTimelineMonthSlug,
+  groupTimelineEntries,
+} from "@/utils/groupTimelineEntries"
+
+export async function getStaticPaths() {
+  const entries = await getCollection("timeline", ({ data }) => !data.draft)
+  const timelineByYear = groupTimelineEntries(entries)
+
+  return timelineByYear.flatMap((yearGroup) =>
+    yearGroup.months.map((monthGroup) => ({
+      params: {
+        year: String(yearGroup.year),
+        month: monthGroup.slug,
+      },
+    })),
+  )
+}
+
+const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
+const timelineByYear = groupTimelineEntries(allTimeline)
+const activeYear = Number(Astro.params.year)
+const activeMonth = Astro.params.month ?? getTimelineMonthSlug(0)
+const activeGroup = timelineByYear.find(
+  (yearGroup) => yearGroup.year === activeYear,
+)
+const activeMonthLabel = activeGroup?.months.find(
+  (monthGroup) => monthGroup.slug === activeMonth,
+)?.label
+---
+
+<BaseLayout
+  title={activeMonthLabel
+    ? `Timeline ${activeYear} ${activeMonthLabel}`
+    : `Timeline ${activeYear}`}
+  description="Selected projects in product design and frontend engineering."
+>
+  <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow="Full timeline" count={allTimeline.length} />
+    <TimelineArchive
+      activeYear={activeYear}
+      activeMonth={activeMonth}
+      timelineByYear={timelineByYear}
+    />
+  </section>
+</BaseLayout>
