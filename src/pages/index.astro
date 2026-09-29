@@ -9,7 +9,15 @@ import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 
 const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
 const homepageTimeline = [...allTimeline]
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .sort((a, b) => {
+    const dateDifference = b.data.date.valueOf() - a.data.date.valueOf()
+
+    if (dateDifference !== 0) {
+      return dateDifference
+    }
+
+    return (b.data.dayOrder ?? 0) - (a.data.dayOrder ?? 0)
+  })
   .slice(0, 5)
 const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
 ---
@@ -31,7 +39,8 @@ const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
     </h1>
 
     <p class="text-ink-soft mt-6 max-w-md">
-      Chronologiczny zapis calego konfliktu z lat 1914-1918, od pierwszych kryzysow po jego zakonczenie.
+      Chronologiczny zapis calego konfliktu z lat 1914-1918, od pierwszych
+      kryzysow po jego zakonczenie.
     </p>
 
     <div class="mt-8 flex flex-wrap items-center gap-3">

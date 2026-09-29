@@ -19,14 +19,24 @@ const monthFormatter = new Intl.DateTimeFormat("pl-PL", {
   timeZone: "UTC",
 })
 
+function compareSameDayOrder(a: TimelineEntry, b: TimelineEntry) {
+  return (b.data.dayOrder ?? 0) - (a.data.dayOrder ?? 0)
+}
+
 export function getTimelineMonthSlug(month: number) {
   return String(month + 1).padStart(2, "0")
 }
 
 export function groupTimelineEntries(entries: TimelineEntry[]) {
-  const sortedEntries = [...entries].sort(
-    (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
-  )
+  const sortedEntries = [...entries].sort((a, b) => {
+    const dateDifference = a.data.date.valueOf() - b.data.date.valueOf()
+
+    if (dateDifference !== 0) {
+      return dateDifference
+    }
+
+    return compareSameDayOrder(a, b)
+  })
 
   return sortedEntries
     .reduce<TimelineYearGroup[]>((years, entry) => {
@@ -59,9 +69,15 @@ export function groupTimelineEntries(entries: TimelineEntry[]) {
         .sort((a, b) => a.month - b.month)
         .map((monthGroup) => ({
           ...monthGroup,
-          entries: [...monthGroup.entries].sort(
-            (a, b) => a.data.date.valueOf() - b.data.date.valueOf(),
-          ),
+          entries: [...monthGroup.entries].sort((a, b) => {
+            const dateDifference = a.data.date.valueOf() - b.data.date.valueOf()
+
+            if (dateDifference !== 0) {
+              return dateDifference
+            }
+
+            return compareSameDayOrder(a, b)
+          }),
         })),
     }))
 }

@@ -27,31 +27,86 @@ const visibleYearGroups = renderAllYears
   : activeGroup
     ? [activeGroup]
     : []
+
+function groupEntriesByDay(
+  entries: Props["timelineByYear"][number]["months"][number]["entries"],
+) {
+  return entries.reduce<Array<{ day: string; entries: typeof entries }>>(
+    (groups, entry) => {
+      const day = entry.data.date.getUTCDate().toString().padStart(2, "0")
+      const lastGroup = groups.at(-1)
+
+      if (lastGroup?.day === day) {
+        lastGroup.entries.push(entry)
+        return groups
+      }
+
+      groups.push({ day, entries: [entry] })
+      return groups
+    },
+    [],
+  )
+}
 ---
 
 {
   visibleYearGroups.length > 0 && (
     <>
       {showYearNav && (
-        <nav
-          class="border-line mt-10 flex flex-wrap gap-x-4 gap-y-2 border-b pb-4 font-mono text-xs"
-          aria-label="Timeline years"
-        >
-          {years.map((year) => (
-            <a
-              href={`/timeline/${year}`}
-              aria-current={year === activeYear ? "page" : undefined}
-              class:list={[
-                "transition-colors",
-                year === activeYear
-                  ? "text-signal"
-                  : "text-ink-soft hover:text-ink",
-              ]}
+        <div class="border-line mt-10 space-y-3 border-b pb-4 font-mono">
+          <nav
+            class="flex flex-wrap gap-x-4 gap-y-2 text-xs"
+            aria-label="Timeline years"
+          >
+            {years.map((year) => (
+              <a
+                href={`/timeline/${year}`}
+                aria-current={
+                  year === activeYear && !activeMonth ? "page" : undefined
+                }
+                class:list={[
+                  "transition-colors",
+                  year === activeYear
+                    ? "text-signal"
+                    : "text-ink-soft hover:text-ink",
+                ]}
+              >
+                {year}
+              </a>
+            ))}
+          </nav>
+
+          {activeGroup && (
+            <nav
+              class="flex flex-wrap items-center gap-x-2 gap-y-2 text-[9px] tracking-[0.2em] uppercase"
+              aria-label={`Miesiące ${activeGroup.year}`}
             >
-              {year}
-            </a>
-          ))}
-        </nav>
+              {activeGroup.months.map((monthGroup, index) => (
+                <>
+                  {index > 0 && (
+                    <span aria-hidden="true" class="text-ink-soft">
+                      ·
+                    </span>
+                  )}
+                  <a
+                    href={`/timeline/${activeGroup.year}/${monthGroup.slug}`}
+                    aria-current={
+                      monthGroup.slug === activeMonth ? "page" : undefined
+                    }
+                    class:list={[
+                      "transition-colors",
+                      monthGroup.slug === activeMonth
+                        ? "text-signal"
+                        : "text-ink-soft hover:text-ink",
+                    ]}
+                  >
+                    {monthGroup.label}
+                  </a>
+                </>
+              ))}
+            </nav>
+          )}
+        </div>
       )}
 
       <div class={showYearNav ? "mt-10" : "mt-6 space-y-12"}>
@@ -72,50 +127,89 @@ const visibleYearGroups = renderAllYears
               <div class="mt-6 space-y-8">
                 {visibleMonths.map((monthGroup) => (
                   <section>
-                    <h3>
-                      <a
-                        href={`/timeline/${yearGroup.year}/${monthGroup.slug}`}
-                        aria-current={
-                          !renderAllYears && monthGroup.slug === activeMonth
-                            ? "page"
-                            : undefined
-                        }
-                        class:list={[
-                          "font-mono text-[10px] tracking-[0.2em] uppercase transition-colors",
-                          !renderAllYears && monthGroup.slug === activeMonth
-                            ? "text-signal"
-                            : "text-signal hover:text-ink",
-                        ]}
-                      >
-                        {monthGroup.label}
-                      </a>
-                    </h3>
+                    {(() => {
+                      const dayGroups = groupEntriesByDay(monthGroup.entries)
 
-                    <ul class="border-line mt-3 border-l pl-5">
-                      {monthGroup.entries.map((entry) => (
-                        <li class="border-line hover:border-signal border-b py-3 transition-colors last:border-b-0">
-                          <a
-                            href={`/${entry.id}`}
-                            class="group grid grid-cols-[3rem_1fr] gap-3"
-                          >
-                            <span class="text-ink-soft font-mono text-xs leading-6">
-                              {entry.data.date
-                                .getUTCDate()
-                                .toString()
-                                .padStart(2, "0")}
-                            </span>
-                            <span class="min-w-0">
-                              <span class="text-ink group-hover:text-signal block transition-colors">
-                                {entry.data.title}
-                              </span>
-                              <span class="text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs">
-                                {entry.data.summary}
-                              </span>
-                            </span>
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
+                      return (
+                        <>
+                          <h3>
+                            <a
+                              href={`/timeline/${yearGroup.year}/${monthGroup.slug}`}
+                              aria-current={
+                                !renderAllYears &&
+                                monthGroup.slug === activeMonth
+                                  ? "page"
+                                  : undefined
+                              }
+                              class:list={[
+                                "font-mono text-[10px] tracking-[0.2em] uppercase transition-colors",
+                                !renderAllYears &&
+                                monthGroup.slug === activeMonth
+                                  ? "text-signal"
+                                  : "text-signal hover:text-ink",
+                              ]}
+                            >
+                              {monthGroup.label}
+                            </a>
+                          </h3>
+
+                          <ul class="border-line mt-3 border-l pl-5">
+                            {dayGroups.map((dayGroup) => (
+                              <li class="border-line has-[li:last-child:hover]:border-signal relative border-b py-3 transition-colors last:border-b-0">
+                                {/* Dot on the vertical line, level with the rule opening the day; larger with a halo on milestone days */}
+                                <span
+                                  aria-hidden="true"
+                                  class:list={[
+                                    "bg-signal absolute rounded-full",
+                                    dayGroup.entries.some(
+                                      (entry) => entry.data.milestone,
+                                    )
+                                      ? "ring-signal/25 top-[-6.5px] -left-[calc(1.25rem+6.5px)] size-3 ring-4"
+                                      : "top-[-4.5px] -left-[calc(1.25rem+4.5px)] size-2",
+                                  ]}
+                                />
+                                <div class="grid grid-cols-[3rem_1fr] gap-3">
+                                  <span class="text-ink-soft font-mono text-xs leading-6">
+                                    {dayGroup.day}
+                                  </span>
+                                  <div>
+                                    <ul>
+                                      {dayGroup.entries.map((entry) => (
+                                        <li class="border-line hover:border-signal transition-colors not-last:mb-3 not-last:border-b not-last:pb-3">
+                                          <a
+                                            href={`/${entry.id}`}
+                                            class="group block min-w-0"
+                                          >
+                                            {entry.data.milestone && (
+                                              <span class="text-signal mb-1 block font-mono text-[9px] tracking-[0.2em] uppercase">
+                                                Kluczowe wydarzenie
+                                              </span>
+                                            )}
+                                            <span
+                                              class:list={[
+                                                "block transition-colors",
+                                                entry.data.milestone
+                                                  ? "text-signal group-hover:text-ink font-semibold"
+                                                  : "text-ink group-hover:text-signal",
+                                              ]}
+                                            >
+                                              {entry.data.title}
+                                            </span>
+                                            <span class="text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs">
+                                              {entry.data.summary}
+                                            </span>
+                                          </a>
+                                        </li>
+                                      ))}
+                                    </ul>
+                                  </div>
+                                </div>
+                              </li>
+                            ))}
+                          </ul>
+                        </>
+                      )
+                    })()}
                   </section>
                 ))}
 

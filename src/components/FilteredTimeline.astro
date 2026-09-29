@@ -1,0 +1,45 @@
+---
+import type { CollectionEntry } from "astro:content"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+
+// Timeline page for a single tag or category.
+interface Props {
+  label: string
+  name: string
+  entries: CollectionEntry<"timeline">[]
+}
+
+const { label, name, entries } = Astro.props
+const timelineByYear = groupTimelineEntries(entries)
+---
+
+<BaseLayout
+  title={`${label}: ${name}`}
+  description={`Wydarzenia — ${label.toLowerCase()}: ${name}.`}
+>
+  <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+    <a
+      href="/timeline"
+      class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+    >
+      ← Full timeline
+    </a>
+
+    <h1
+      class="font-display text-ink mt-6 mb-10 text-3xl font-medium sm:text-4xl"
+    >
+      {name}
+    </h1>
+
+    <SectionHeading eyebrow={label} count={entries.length} />
+    <TimelineArchive
+      timelineByYear={timelineByYear}
+      renderAllYears={true}
+      showYearNav={false}
+      showBackLink={false}
+    />
+  </section>
+</BaseLayout>
