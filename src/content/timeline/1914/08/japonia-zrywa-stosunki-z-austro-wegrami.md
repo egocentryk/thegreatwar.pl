@@ -19,4 +19,4 @@ Dwa dni wcześniej Japonia wypowiedziała wojnę Niemcom (zob. [Japonia wypowiad
 
 ## Wyjazd ambasadora
 
-Ambasador Austro-Węgier w Tokio, baron Ladislaus Müller von Szentgyörgy, sprawujący tę funkcję od 1912 roku, zakończył misję i wrócił do Wiednia. Tego samego dnia Japonia ogłosiła, że pozostaje z Austro-Węgrami w stanie wojny (zob. [Japonia ogłasza stan wojny z Austro-Węgrami](/japonia-oglasza-stan-wojny-z-austro-wegrami)).
+Ambasador Austro-Węgier w Tokio, baron Ladislaus Müller von Szentgyörgy, sprawujący tę funkcję od 1912 roku, zakończył misję i wrócił do Wiednia. Tego samego dnia Japonia ogłosiła, że pozostaje z Austro-Węgrami w stanie wojny.

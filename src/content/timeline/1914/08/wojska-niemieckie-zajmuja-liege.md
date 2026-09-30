@@ -24,7 +24,7 @@ Rano 7 sierpnia Ludendorff ruszył na przestarzałą cytadelę górującą nad L
 
 Zajęcie miasta nie oznaczało jednak końca bitwy. Dowódca twierdzy, generał Gérard Leman, po niemieckim wypadzie na swoją kwaterę przeniósł się do fortu Loncin na zachód od miasta i stamtąd kierował dalszą obroną. Wszystkie dwanaście fortów wciąż się broniło, blokując linie kolejowe potrzebne armii niemieckiej. Król Albert I już wcześniej wycofał belgijską dywizję polową z Liège, by nie dopuścić do jej okrążenia.
 
-Niemcy musieli sprowadzić ciężką artylerię oblężniczą, w tym moździerze kalibru 420 mm. Ostatnie forty padły dopiero 16 sierpnia. Cały przebieg walk opisujemy w artykule o [bitwie pod Liège](/bitwy/bitwa-pod-liege).
+Niemcy musieli sprowadzić ciężką artylerię oblężniczą, w tym moździerze kalibru 420 mm. Ostatnie forty padły dopiero 16 sierpnia.
 
 ## Znaczenie
 

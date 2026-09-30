@@ -26,4 +26,4 @@ Następnego dnia walki rozgorzały na całej długości frontu. W Tamines, o kt�
 
 ## Co dalej
 
-Bitwa trwała do 23 sierpnia. Gdy niemiecka 3 Armia sforsowała Mozę pod Dinant i zagroziła prawemu skrzydłu Francuzów, Lanrezac nakazał odwrót. Klęska nad Sambrą, razem z porażkami w Ardenach i pod Mons, zapoczątkowała wielki odwrót wojsk sprzymierzonych, który zatrzymał się dopiero nad Marną. Pełny przebieg walk opisujemy w artykule o [bitwie pod Charleroi](/bitwy/bitwa-pod-charleroi).
+Bitwa trwała do 23 sierpnia. Gdy niemiecka 3 Armia sforsowała Mozę pod Dinant i zagroziła prawemu skrzydłu Francuzów, Lanrezac nakazał odwrót. Klęska nad Sambrą, razem z porażkami w Ardenach i pod Mons, zapoczątkowała wielki odwrót wojsk sprzymierzonych, który zatrzymał się dopiero nad Marną.

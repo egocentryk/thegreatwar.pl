@@ -28,6 +28,6 @@ Bonneau wydał rozkaz odwrotu i 10 sierpnia wojska francuskie opuściły Miluzę
 
 ## Znaczenie
 
-Joffre uznał odwrót za upokorzenie i natychmiast odsunął Bonneau od dowództwa, oskarżając go o brak zdecydowania. Był to pierwszy z wielu generałów usuniętych w pierwszych tygodniach wojny. Francuzi wrócili do Miluzy 19 sierpnia, ale i tym razem musieli ją opuścić. Pełny przebieg walk opisujemy w artykule o [bitwie pod Miluzą](/bitwy/bitwa-pod-miluza).
+Joffre uznał odwrót za upokorzenie i natychmiast odsunął Bonneau od dowództwa, oskarżając go o brak zdecydowania. Był to pierwszy z wielu generałów usuniętych w pierwszych tygodniach wojny. Francuzi wrócili do Miluzy 19 sierpnia, ale i tym razem musieli ją opuścić.
 
 Krótkie zajęcie Miluzy stało się symbolem nadziei i złudzeń pierwszych dni wojny. Pokazało, jak głęboko Francuzi pragnęli odzyskać utracone prowincje, ale też jak trudno będzie to osiągnąć. Miluza wróciła do Francji dopiero w listopadzie 1918 roku.

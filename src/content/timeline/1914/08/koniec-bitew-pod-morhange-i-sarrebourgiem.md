@@ -24,8 +24,6 @@ Pod Morhange 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wi
 
 Francuzi wycofali się za granicę, na zalesione wzgórza przed [Nancy](https://pl.wikipedia.org/wiki/Nancy). Tam w ostatnich dniach sierpnia zdołali powstrzymać niemiecki pościg, a na początku września obronili wzgórza Grand Couronné. Utrzymanie linii przed Nancy zabezpieczyło prawe skrzydło armii francuskiej w czasie bitwy nad Marną.
 
-Szczegółowy przebieg całej ofensywy opisujemy w artykule o [bitwie w Lotaryngii](/bitwy/bitwa-w-lotaryngii).
-
 ## Znaczenie
 
 Klęska pod Morhange i Sarrebourgiem była pierwszą wielką porażką francuskiej doktryny ofensywy za wszelką cenę. Pokazała, że nowoczesna broń maszynowa i artyleria sprawiają, iż natarcie piechoty na umocnione pozycje kończy się rzezią. Dla Francji był to początek najczarniejszych dni wojny: wkrótce przyszły klęski w Ardenach i pod Charleroi, a w końcu wielki odwrót w kierunku Paryża.

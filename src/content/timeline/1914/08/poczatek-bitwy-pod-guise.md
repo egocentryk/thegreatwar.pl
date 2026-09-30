@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-29 sierpnia 1914 roku francuska 5 Armia generała Charles'a Lanrezaca po raz pierwszy od klęski pod Charleroi przestała się cofać i uderzyła na Niemców. W dolinie rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), w rejonie miasteczka [Guise](https://pl.wikipedia.org/wiki/Guise) i miasta [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), rozpoczęła się [bitwa pod Guise](/bitwy/bitwa-pod-guise). Niemcy nazywają ją bitwą pod Saint-Quentin. Był to jedyny duży kontratak sprzymierzonych w czasie wielkiego odwrotu i jedno z najważniejszych starć, które poprzedziły bitwę nad Marną.
+29 sierpnia 1914 roku francuska 5 Armia generała Charles'a Lanrezaca po raz pierwszy od klęski pod Charleroi przestała się cofać i uderzyła na Niemców. W dolinie rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), w rejonie miasteczka [Guise](https://pl.wikipedia.org/wiki/Guise) i miasta [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), rozpoczęła się bitwa pod Guise. Niemcy nazywają ją bitwą pod Saint-Quentin. Był to jedyny duży kontratak sprzymierzonych w czasie wielkiego odwrotu i jedno z najważniejszych starć, które poprzedziły bitwę nad Marną.
 
 ## Odwrót, który trzeba było przerwać
 
@@ -32,7 +32,7 @@ Tymczasem na północ od Oise III i X Korpus francuski zmagały się z niemiecki
 
 ## Taktyczny sukces
 
-Wieczorem 29 sierpnia Francuzi mogli mówić o sukcesie pod Guise, choć nie pod Saint-Quentin. Po raz pierwszy od tygodni to Niemcy musieli się cofnąć. Sukces był jednak kruchy. Z północy i zachodu wciąż nadciągały niemieckie oddziały, a 5 Armii groziło oskrzydlenie. Późnym wieczorem Joffre zezwolił Lanrezacowi na przerwanie walki, odwrót i wysadzenie mostów na Oise. Następnego dnia bitwa dobiegła końca. Jej dalszy przebieg opisujemy w artykule [Koniec bitwy pod Guise](/koniec-bitwy-pod-guise).
+Wieczorem 29 sierpnia Francuzi mogli mówić o sukcesie pod Guise, choć nie pod Saint-Quentin. Po raz pierwszy od tygodni to Niemcy musieli się cofnąć. Sukces był jednak kruchy. Z północy i zachodu wciąż nadciągały niemieckie oddziały, a 5 Armii groziło oskrzydlenie. Późnym wieczorem Joffre zezwolił Lanrezacowi na przerwanie walki, odwrót i wysadzenie mostów na Oise. Następnego dnia bitwa dobiegła końca.
 
 ## Znaczenie
 

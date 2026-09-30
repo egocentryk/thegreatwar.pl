@@ -13,7 +13,7 @@ sides:
     commanders: [Karl von Bülow]
 result: Nierozstrzygnięta. Francuzi odrzucili Niemców pod Guise, ale nie zdobyli Saint-Quentin i wznowili odwrót. Bülow zatrzymał się na półtorej doby.
 authors: [Natalia]
-tags: [Francja, Niemcy, Charles Lanrezac, Karl von Bülow]
+tags: [Francja, Niemcy, Charles Lanrezac, wielki odwrót]
 milestone: false
 ---
 
@@ -49,4 +49,3 @@ Ważniejsze okazały się skutki pośrednie. Bülow, przekonany, że Francuzi zo
 
 Lanrezac nie doczekał tego zwycięstwa na stanowisku. 3 września Joffre odwołał go z dowództwa, zarzucając mu brak ducha ofensywnego i złą współpracę z Brytyjczykami. Jego następcą został Franchet d'Espérey, bohater walk pod Guise.
 
-Przebieg bitwy opisujemy także w artykułach [Początek bitwy pod Guise](/poczatek-bitwy-pod-guise) i [Koniec bitwy pod Guise](/koniec-bitwy-pod-guise).

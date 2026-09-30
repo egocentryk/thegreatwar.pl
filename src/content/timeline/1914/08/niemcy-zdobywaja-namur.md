@@ -28,4 +28,4 @@ Części obrońców udało się jednak ujść. Kolumna 4 Dywizji przebiła się 
 
 ## Znaczenie
 
-Upadek Namuru otworzył Niemcom drogę wzdłuż Mozy do Francji i odebrał sprzymierzonym ostatni punkt oparcia w dolinie tej rzeki. Zbiegł się z klęską Francuzów w [bitwie pod Charleroi](/koniec-bitwy-pod-charleroi) i odwrotem Brytyjczyków spod Mons. Pokazał też, podobnie jak wcześniej Liège, że twierdze z XIX wieku nie mogą się oprzeć nowoczesnej artylerii oblężniczej. Wkrótce ciężkie moździerze przerzucono pod francuską twierdzę Maubeuge. Pełny przebieg walk opisujemy w artykule o [oblężeniu Namuru](/bitwy/oblezenie-namuru).
+Upadek Namuru otworzył Niemcom drogę wzdłuż Mozy do Francji i odebrał sprzymierzonym ostatni punkt oparcia w dolinie tej rzeki. Zbiegł się z klęską Francuzów w [bitwie pod Charleroi](/koniec-bitwy-pod-charleroi) i odwrotem Brytyjczyków spod Mons. Pokazał też, podobnie jak wcześniej Liège, że twierdze z XIX wieku nie mogą się oprzeć nowoczesnej artylerii oblężniczej. Wkrótce ciężkie moździerze przerzucono pod francuską twierdzę Maubeuge.

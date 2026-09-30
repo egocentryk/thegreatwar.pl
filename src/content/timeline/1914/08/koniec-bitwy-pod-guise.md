@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-30 sierpnia 1914 roku zakończyła się [bitwa pod Guise](/bitwy/bitwa-pod-guise), nazywana przez Niemców bitwą pod Saint-Quentin. Francuska 5 Armia generała Charles'a Lanrezaca, która dzień wcześniej odrzuciła Niemców w dolinie [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), przerwała walkę i wznowiła odwrót na południe.
+30 sierpnia 1914 roku zakończyła się bitwa pod Guise, nazywana przez Niemców bitwą pod Saint-Quentin. Francuska 5 Armia generała Charles'a Lanrezaca, która dzień wcześniej odrzuciła Niemców w dolinie [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), przerwała walkę i wznowiła odwrót na południe.
 
 ## Sukces bez przyszłości
 

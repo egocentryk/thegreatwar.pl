@@ -26,4 +26,4 @@ Starcia miały gwałtowny i chaotyczny przebieg. Walczono w nocy, w lasach, na s
 
 ## Zwycięstwo
 
-19 sierpnia morale wojsk austro-węgierskich się załamało, a do 24 sierpnia wycofały się one za Drinę i Sawę. Serbia odniosła pierwsze zwycięstwo aliantów w I wojnie światowej, a Stepanović otrzymał za nie najwyższy stopień wojewody. Szczegółowy przebieg bitwy opisujemy w artykule o [bitwie na górze Cer](/bitwy/bitwa-na-gorze-cer).
+19 sierpnia morale wojsk austro-węgierskich się załamało, a do 24 sierpnia wycofały się one za Drinę i Sawę. Serbia odniosła pierwsze zwycięstwo aliantów w I wojnie światowej, a Stepanović otrzymał za nie najwyższy stopień wojewody.

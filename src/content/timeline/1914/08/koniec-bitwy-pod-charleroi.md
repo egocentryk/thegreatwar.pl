@@ -28,4 +28,4 @@ Większość współczesnych historyków, zarówno francuskich, jak i niemieckic
 
 ## Co dalej
 
-Odwrót 5 Armii odsłonił prawe skrzydło Brytyjczyków, którzy tego samego dnia również [wycofali się spod Mons](/brytyjczycy-wycofuja-sie-spod-mons). 25 sierpnia padły ostatnie forty [Namuru](/niemcy-zdobywaja-namur). Rozpoczął się wielki odwrót wojsk sprzymierzonych w stronę Marny. Pod koniec sierpnia armia Lanrezaca zatrzymała się jeszcze, by uderzyć na Niemców pod Guise. Pełny przebieg walk nad Sambrą opisujemy w artykule o [bitwie pod Charleroi](/bitwy/bitwa-pod-charleroi).
+Odwrót 5 Armii odsłonił prawe skrzydło Brytyjczyków, którzy tego samego dnia również [wycofali się spod Mons](/brytyjczycy-wycofuja-sie-spod-mons). 25 sierpnia padły ostatnie forty Namuru. Rozpoczął się wielki odwrót wojsk sprzymierzonych w stronę Marny. Pod koniec sierpnia armia Lanrezaca zatrzymała się jeszcze, by uderzyć na Niemców pod Guise.

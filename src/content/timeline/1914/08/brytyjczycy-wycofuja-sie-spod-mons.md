@@ -31,6 +31,6 @@ Według szacunków brytyjskich straty z 24 sierpnia wyniosły około 2 tysięcy 
 
 ## Długi marsz na południe
 
-Odwrót szybko okazał się wyczerpującym marszem w upale, prawie bez odpoczynku. Na drodze wycofujących się korpusów leżał rozległy las Mormal, który rozdzielił armię Haiga i Smith-Dorriena. 26 sierpnia II Korpus, zbyt zmęczony, by maszerować dalej, stanął do walki pod [Le Cateau](/bitwa-pod-le-cateau). Wielki odwrót zakończył się dopiero na początku września, gdy wojska sprzymierzone przeszły do kontrofensywy nad Marną. Brytyjczycy przeszli w tym czasie ponad 200 kilometrów.
+Odwrót szybko okazał się wyczerpującym marszem w upale, prawie bez odpoczynku. Na drodze wycofujących się korpusów leżał rozległy las Mormal, który rozdzielił armię Haiga i Smith-Dorriena. 26 sierpnia II Korpus, zbyt zmęczony, by maszerować dalej, stanął do walki pod Le Cateau. Wielki odwrót zakończył się dopiero na początku września, gdy wojska sprzymierzone przeszły do kontrofensywy nad Marną. Brytyjczycy przeszli w tym czasie ponad 200 kilometrów.
 
 Żołnierze, którzy walczyli we Francji i Belgii w pierwszych miesiącach wojny, otrzymali później [Gwiazdę 1914](https://pl.wikipedia.org/wiki/Gwiazda_1914), odznaczenie za służbę od 5 sierpnia do 22 listopada 1914 roku. Nazywano je potocznie Gwiazdą Mons, a jego posiadacze szczycili się mianem „Old Contemptibles”, czyli „starych pogardzanych”. Nazwa nawiązywała do rzekomego rozkazu cesarza Wilhelma II, który miał nazwać brytyjski korpus „nędzną, małą armią”. Autentyczność tego rozkazu budzi jednak wątpliwości historyków.

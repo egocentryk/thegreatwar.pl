@@ -50,4 +50,3 @@ Według belgijskich szacunków straty armii belgijskiej w pierwszym wypadzie prz
 
 Wypad nie przyniósł Belgom trwałych zdobyczy i pokazał słabości młodej, niedostatecznie wyszkolonej armii. Osiągnął jednak część celów: zaniepokoił Niemców i zmusił ich do pozostawienia w Belgii znacznych sił, których zabrakło potem na froncie francuskim. W kolejnych tygodniach armia belgijska jeszcze dwukrotnie wychodziła z Antwerpii, między innymi w dniach 9–13 września, w czasie bitwy nad Marną.
 
-Początek walk opisujemy w artykule [Początek bitwy pod Mechelen](/poczatek-bitwy-pod-mechelen), a ich zakończenie w artykule [Koniec bitwy pod Mechelen](/koniec-bitwy-pod-mechelen).

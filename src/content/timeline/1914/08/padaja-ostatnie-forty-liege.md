@@ -24,8 +24,6 @@ Od 12 sierpnia ich pociski, ważące setki kilogramów, spadały na forty jeden 
 
 Po upadku fortu Loncin opór pozostałych umocnień szybko słabł. 16 sierpnia poddały się ostatnie forty na zachód od miasta. Niemiecki marsz przez [Belgię](https://pl.wikipedia.org/wiki/Belgia) mógł ruszyć pełną siłą. Cztery dni później wojska niemieckie wkroczyły do Brukseli, a wkrótce potem stanęły pod Namurem i na granicy francuskiej.
 
-Cały przebieg walk o twierdzę opisujemy w artykule o [bitwie pod Liège](/bitwy/bitwa-pod-liege).
-
 ## Znaczenie
 
 Obrona Liège trwała dłużej, niż zakładali Niemcy, i stała się symbolem belgijskiego oporu. Upadek fortów pokazał jednak, że nowoczesna ciężka artyleria może zniszczyć nawet najsilniejsze umocnienia. Tę lekcję szybko wyciągnęły wszystkie armie: forty z XIX wieku przestały być gwarancją bezpieczeństwa, a wkrótce na froncie zachodnim ich miejsce zajęły sieci okopów.

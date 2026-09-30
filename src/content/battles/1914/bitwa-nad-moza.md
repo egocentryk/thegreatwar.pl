@@ -58,4 +58,3 @@ Bitwa nad Mozą nie zatrzymała Niemców, ale spełniła swoje zadanie. 4 Armia 
 
 Z lewego skrzydła 4 Armii utworzono pod koniec sierpnia nowe zgrupowanie pod dowództwem generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), z którego powstała 9 Armia. Na początku września odegrała ona ważną rolę w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). Generał Ruffey został 30 sierpnia odsunięty od dowództwa 3 Armii, a jego miejsce zajął generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail).
 
-Początek bitwy opisujemy w artykule [Początek bitwy nad Mozą](/poczatek-bitwy-nad-moza), a jej ostatni dzień w artykule [Koniec bitwy nad Mozą](/koniec-bitwy-nad-moza).

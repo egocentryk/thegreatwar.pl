@@ -22,4 +22,4 @@ Osłabiona Armia Alzacji generała [Paula Pau](https://pl.wikipedia.org/wiki/Pau
 
 ## Koniec nadziei
 
-Tak zakończyła się, po raz drugi w ciągu miesiąca, francuska próba odzyskania Miluzy. Pierwszy raz Niemcy odbili miasto już 10 sierpnia (zob. [Niemcy odbijają Miluzę](/niemcy-odbijaja-miluze)). Tym razem Miluza pozostała w rękach niemieckich do końca wojny. Francuzi wrócili do niej dopiero w listopadzie 1918 roku, po zawieszeniu broni. Cały przebieg walk opisujemy w artykule o [bitwie pod Miluzą](/bitwy/bitwa-pod-miluza).
+Tak zakończyła się, po raz drugi w ciągu miesiąca, francuska próba odzyskania Miluzy. Pierwszy raz Niemcy odbili miasto już 10 sierpnia (zob. [Niemcy odbijają Miluzę](/niemcy-odbijaja-miluze)). Tym razem Miluza pozostała w rękach niemieckich do końca wojny. Francuzi wrócili do niej dopiero w listopadzie 1918 roku, po zawieszeniu broni.

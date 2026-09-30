@@ -36,8 +36,6 @@ Walki szybko objęły całą linię rzeki. 27 sierpnia Niemcy przeszli do ogóln
 
 28 sierpnia 4 Armia przeprowadziła kontrnatarcie, próbując zepchnąć Niemców z powrotem za Mozę. W kilku miejscach odniosła lokalne sukcesy, ale wieczorem nadszedł rozkaz dalszego odwrotu na linię rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Zawiedzeni żołnierze musieli opuścić pozycje, których skutecznie bronili. Tego samego dnia na lewym skrzydle Dywizja Marokańska stoczyła krwawy bój pod [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) z wojskami Hausena, które próbowały wbić się między 4 i 5 Armię.
 
-Przebieg i zakończenie walk opisujemy w artykule o [bitwie nad Mozą](/bitwy/bitwa-nad-moza) oraz w relacji z jej [ostatniego dnia](/koniec-bitwy-nad-moza).
-
 ## Znaczenie
 
 Bitwa nad Mozą nie zatrzymała Niemców na długo, ale spełniła swoje zadanie. Po klęskach w bitwach granicznych francuskie armie pokazały, że potrafią skutecznie się bronić i kontratakować. Opór 4 Armii spowolnił marsz niemieckiego centrum i nie pozwolił rozerwać frontu między armiami francuskimi w najtrudniejszym momencie odwrotu. Z jej lewego skrzydła utworzono pod koniec sierpnia nowe zgrupowanie pod dowództwem generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), późniejszą 9 Armię, która odegrała ważną rolę w bitwie nad Marną.

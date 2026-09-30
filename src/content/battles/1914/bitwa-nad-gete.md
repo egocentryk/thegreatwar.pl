@@ -40,7 +40,7 @@ Albert I, który osobiście dowodził armią, uznał, że dalsza obrona nad Gete
 
 19 sierpnia belgijskie dywizje maszerowały na północny zachód, w kierunku rzeki Dyle i dalej do Antwerpii. Drogi zapchane były uciekinierami. Straże tylne osłaniały odwrót, a najcięższe walki toczyły się pod [Aarschot](https://pl.wikipedia.org/wiki/Aarschot), gdzie brygada 3 Dywizji przez kilka godzin zatrzymywała Niemców, zanim wobec ataku z trzech stron musiała się wycofać. Po zajęciu Aarschot Niemcy rozstrzelali ponad stu mieszkańców. Tego samego dnia wkroczyli do [Leuven](https://pl.wikipedia.org/wiki/Leuven).
 
-Do 20 sierpnia armia belgijska schroniła się za pierścieniem fortów Antwerpii. Tego dnia wojska Klucka wkroczyły do [Brukseli](https://pl.wikipedia.org/wiki/Bruksela). Przebieg obu dni opisujemy w artykułach [Bitwa nad Gete](/bitwa-nad-gete) i [Armia belgijska wycofuje się znad Gete do Antwerpii](/armia-belgijska-wycofuje-sie-do-antwerpii).
+Do 20 sierpnia armia belgijska schroniła się za pierścieniem fortów Antwerpii. Tego dnia wojska Klucka wkroczyły do [Brukseli](https://pl.wikipedia.org/wiki/Bruksela).
 
 ## Znaczenie
 

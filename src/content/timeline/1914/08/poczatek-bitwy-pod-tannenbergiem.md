@@ -22,6 +22,6 @@ Tego samego dnia do sztabu niemieckiej 8 Armii przybyli nowi dowódcy, Paul von 
 
 ## Daty bitwy
 
-Chronologie wojny często podają 23 sierpnia jako początek bitwy pod Tannenbergiem, bo tego dnia doszło do pierwszych starć. Większość historyków za właściwą bitwę uznaje jednak walki z 26–30 sierpnia, gdy Niemcy uderzyli na skrzydła rosyjskiej armii i zamknęli ją w okrążeniu. Pełny przebieg bitwy, jej bilans i znaczenie opisujemy w artykule o [bitwie pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem).
+Chronologie wojny często podają 23 sierpnia jako początek bitwy pod Tannenbergiem, bo tego dnia doszło do pierwszych starć. Większość historyków za właściwą bitwę uznaje jednak walki z 26–30 sierpnia, gdy Niemcy uderzyli na skrzydła rosyjskiej armii i zamknęli ją w okrążeniu.
 
 Walki toczyły się na terenach dzisiejszej Warmii i Mazur, w okolicach [Olsztynka](https://pl.wikipedia.org/wiki/Olsztynek), Nidzicy i Stębarka. Nazwa bitwy, nadana przez Niemców, nawiązywała do bitwy pod Grunwaldem z 1410 roku, zwanej w Niemczech bitwą pod Tannenbergiem.

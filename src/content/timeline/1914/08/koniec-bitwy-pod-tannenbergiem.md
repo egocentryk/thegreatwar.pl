@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-31 sierpnia 1914 roku generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) zameldował cesarzowi [Wilhelmowi II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern), że pierścień wokół głównych sił rosyjskiej 2 Armii zamknął się poprzedniego dnia. Tak zakończyła się [bitwa pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem), największe zwycięstwo Niemiec na froncie wschodnim w pierwszym roku wojny. Główne walki trwały od 26 do 30 sierpnia, ale dawna brytyjska chronologia, podobnie jak część ówczesnych źródeł, wskazuje jako datę zakończenia bitwy 31 sierpnia. Tego dnia niemiecka 8 Armia kończyła wyłapywanie rozbitych oddziałów rosyjskich, a jej dowództwo mogło ogłosić ostateczny wynik.
+31 sierpnia 1914 roku generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) zameldował cesarzowi [Wilhelmowi II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern), że pierścień wokół głównych sił rosyjskiej 2 Armii zamknął się poprzedniego dnia. Tak zakończyła się bitwa pod Tannenbergiem, największe zwycięstwo Niemiec na froncie wschodnim w pierwszym roku wojny. Główne walki trwały od 26 do 30 sierpnia, ale dawna brytyjska chronologia, podobnie jak część ówczesnych źródeł, wskazuje jako datę zakończenia bitwy 31 sierpnia. Tego dnia niemiecka 8 Armia kończyła wyłapywanie rozbitych oddziałów rosyjskich, a jej dowództwo mogło ogłosić ostateczny wynik.
 
 ## Ostatnie dni kotła
 

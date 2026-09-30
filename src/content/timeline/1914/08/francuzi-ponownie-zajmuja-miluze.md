@@ -24,7 +24,7 @@ Tym razem Francuzi posuwali się ostrożniej i w większej sile. 19 sierpnia na 
 
 Ponowne zajęcie Miluzy było jednym z nielicznych francuskich sukcesów w sierpniu 1914 roku. Radość znów trwała jednak krótko. Już następnego dnia w Lotaryngii załamała się ofensywa pod Morhange i Sarrebourgiem, a kilka dni później Francuzi ponieśli klęskę w Ardenach i pod Charleroi. Niemieckie armie maszerujące przez Belgię zagroziły północnej Francji.
 
-Joffre potrzebował wszystkich dostępnych sił do obrony kraju. Około 25 sierpnia Francuzi opuścili Miluzę, a Niemcy [ponownie weszli do miasta](/niemcy-ponownie-odbijaja-miluze). Armię Alzacji rozwiązano, a jej jednostki przerzucono na inne odcinki frontu. Cały przebieg walk opisujemy w artykule o [bitwie pod Miluzą](/bitwy/bitwa-pod-miluza).
+Joffre potrzebował wszystkich dostępnych sił do obrony kraju. Około 25 sierpnia Francuzi opuścili Miluzę, a Niemcy ponownie weszli do miasta. Armię Alzacji rozwiązano, a jej jednostki przerzucono na inne odcinki frontu.
 
 ## Znaczenie
 

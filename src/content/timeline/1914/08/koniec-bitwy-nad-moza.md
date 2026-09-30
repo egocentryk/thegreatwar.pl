@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-28 sierpnia 1914 roku, według brytyjskiej kroniki wojny, zakończyła się [bitwa nad Mozą](/bitwy/bitwa-nad-moza). Francuska 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) przez kilka dni broniła linii rzeki między Mézières a Stenay przed niemiecką 4 Armią księcia [Albrechta Wirtemberskiego](https://pl.wikipedia.org/wiki/Albrecht_Wirtemberski), wspieraną przez 3 Armię generała [Maxa von Hausena](https://pl.wikipedia.org/wiki/Max_von_Hausen).
+28 sierpnia 1914 roku, według brytyjskiej kroniki wojny, zakończyła się bitwa nad Mozą. Francuska 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) przez kilka dni broniła linii rzeki między Mézières a Stenay przed niemiecką 4 Armią księcia [Albrechta Wirtemberskiego](https://pl.wikipedia.org/wiki/Albrecht_Wirtemberski), wspieraną przez 3 Armię generała [Maxa von Hausena](https://pl.wikipedia.org/wiki/Max_von_Hausen).
 
 Po klęsce w Ardenach Francuzi cofnęli się za [Mozę](https://pl.wikipedia.org/wiki/Moza), o czym piszemy w artykule [Początek bitwy nad Mozą](/poczatek-bitwy-nad-moza). Niemcy przeprawili się przez rzekę w kilku miejscach, między innymi pod Donchery w pobliżu Sedanu, ale Francuzi kontratakowali i miejscami odrzucili ich z powrotem nad wodę. Walki były zacięte i kosztowne dla obu stron.
 

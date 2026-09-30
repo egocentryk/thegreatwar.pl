@@ -17,7 +17,7 @@ draft: false
 
 W nocie wypowiadającej wojnę rząd austro-węgierski przedstawił dwa zarzuty. Po pierwsze, Belgia odrzuciła niemieckie propozycje, a następnie podjęła współpracę wojskową z Francją i Wielką Brytanią, które prowadziły wojnę z Niemcami. Po drugie, obywatele Austro-Węgier przebywający w Belgii mieli być traktowani w sposób sprzeczny z podstawowymi zasadami człowieczeństwa. Wiedeń stwierdził, że w tej sytuacji musi zerwać stosunki dyplomatyczne i uważać się za pozostający w stanie wojny z Belgią.
 
-Notę podpisał poseł austro-węgierski w Brukseli, książę Siegfried von Clary-Aldringen. Źródła podają różne daty wypowiedzenia wojny: brytyjskie kroniki wskazują 22 sierpnia, ale według dokumentów belgijskich nota dotarła do rządu w Antwerpii dopiero 28 sierpnia, jako telegram wysłany z Hagi za pośrednictwem holenderskiego ministerstwa spraw zagranicznych. Piszemy o tym w artykule [Belgia otrzymuje wypowiedzenie wojny od Austro-Węgier](/belgia-otrzymuje-wypowiedzenie-wojny-austro-wegier).
+Notę podpisał poseł austro-węgierski w Brukseli, książę Siegfried von Clary-Aldringen. Źródła podają różne daty wypowiedzenia wojny: brytyjskie kroniki wskazują 22 sierpnia, ale według dokumentów belgijskich nota dotarła do rządu w Antwerpii dopiero 28 sierpnia, jako telegram wysłany z Hagi za pośrednictwem holenderskiego ministerstwa spraw zagranicznych.
 
 ## Austriackie moździerze nad Mozą
 

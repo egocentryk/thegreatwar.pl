@@ -24,8 +24,8 @@ Po drugiej stronie stanęło zgrupowanie generała [Maxa von Gallwitza](https://
 
 Ostrzał rozpoczął się 21 sierpnia. Ciężkie pociski przebijały betonowe sklepienia fortów, niszczyły wieże pancerne i zasypywały załogi w podziemnych pomieszczeniach. Forty, budowane z myślą o znacznie lżejszej artylerii, nie miały szans. Belgom nie pomogła też bliskość Francuzów: armia generała Lanrezaca toczyła w tym czasie ciężkie walki nad Sambrą, w bitwie pod Charleroi, i nie mogła udzielić twierdzy realnego wsparcia.
 
-23 sierpnia generał Michel uznał, że dalsza obrona miasta jest niemożliwa, i wyprowadził 4 Dywizję na południe. Tego samego dnia Niemcy wkroczyli do Namuru. [Ostatnie forty skapitulowały 25 sierpnia](/niemcy-zdobywaja-namur).
+23 sierpnia generał Michel uznał, że dalsza obrona miasta jest niemożliwa, i wyprowadził 4 Dywizję na południe. Tego samego dnia Niemcy wkroczyli do Namuru. Ostatnie forty skapitulowały 25 sierpnia.
 
 ## Znaczenie
 
-Namur padł znacznie szybciej niż Liège. Pokazało to, że twierdze budowane w XIX wieku nie są w stanie oprzeć się nowoczesnej artylerii oblężniczej. Części obrońców udało się jednak uniknąć niewoli. Około 12 tysięcy żołnierzy 4 Dywizji przedostało się przez Francję i drogą morską wróciło do Belgii, by dołączyć do armii broniącej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Pełny przebieg walk opisujemy w artykule o [oblężeniu Namuru](/bitwy/oblezenie-namuru).
+Namur padł znacznie szybciej niż Liège. Pokazało to, że twierdze budowane w XIX wieku nie są w stanie oprzeć się nowoczesnej artylerii oblężniczej. Części obrońców udało się jednak uniknąć niewoli. Około 12 tysięcy żołnierzy 4 Dywizji przedostało się przez Francję i drogą morską wróciło do Belgii, by dołączyć do armii broniącej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia).

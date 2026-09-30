@@ -26,11 +26,11 @@ Twierdzy broniła belgijska 4 Dywizja wraz z załogami fortów, łącznie około
 
 ## Przebieg
 
-20 sierpnia wojska niemieckie stanęły w pełnej sile przed fortami północno-wschodniego i południowo-wschodniego odcinka. Dlatego oblężenie datuje się zwykle od tego dnia, choć właściwy ostrzał rozpoczął się dzień później. 21 sierpnia artyleria otworzyła ogień, początkowo utrudniony przez mgłę. [Niemieckie natarcie na twierdzę](/niemcy-atakuja-twierdze-namur) zbiegło się z początkiem bitwy nad Sambrą, w której francuska 5 Armia broniła się przed pozostałymi siłami Bülowa. Francuzi zdołali przysłać do Namuru tylko niewielkie posiłki.
+20 sierpnia wojska niemieckie stanęły w pełnej sile przed fortami północno-wschodniego i południowo-wschodniego odcinka. Dlatego oblężenie datuje się zwykle od tego dnia, choć właściwy ostrzał rozpoczął się dzień później. 21 sierpnia artyleria otworzyła ogień, początkowo utrudniony przez mgłę. Niemieckie natarcie na twierdzę zbiegło się z początkiem bitwy nad Sambrą, w której francuska 5 Armia broniła się przed pozostałymi siłami Bülowa. Francuzi zdołali przysłać do Namuru tylko niewielkie posiłki.
 
 22 sierpnia 3 Dywizja Gwardii wdała się w walki pod fortem Marchovelette, co opóźniło główny szturm o jeden dzień. 23 sierpnia ciężkie pociski dosłownie rozbijały forty północno-wschodniego odcinka. Około południa padł fort Cognelée, niedługo później Marchovelette, a następnie Maizeret. Po południu Niemcy dotarli do północnych rogatek Namuru. Generał Michel uznał, że dalsza obrona jest niemożliwa, i wieczorem wyprowadził 4 Dywizję na południe, w stronę Francji. Tego dnia Niemcy wkroczyli do miasta.
 
-Forty broniły się jeszcze po odejściu dywizji. 24 sierpnia padły Andoy, Malonne, zdobyty z zaskoczenia, i Saint-Héribert. 25 sierpnia skapitulowały ostatnie trzy: [Emines, Dave i Suarlée](/niemcy-zdobywaja-namur). Zajęciu miasta towarzyszyły pożary, w których spłonął ratusz i część zabudowy centrum.
+Forty broniły się jeszcze po odejściu dywizji. 24 sierpnia padły Andoy, Malonne, zdobyty z zaskoczenia, i Saint-Héribert. 25 sierpnia skapitulowały ostatnie trzy: Emines, Dave i Suarlée. Zajęciu miasta towarzyszyły pożary, w których spłonął ratusz i część zabudowy centrum.
 
 ## Ucieczka 4 Dywizji
 

@@ -24,8 +24,6 @@ Przez pierwsze dni Francuzi posuwali się naprzód niemal bez przeszkód. Zajmow
 
 20 sierpnia Niemcy przeszli do zmasowanego kontrataku. Francuska piechota, nacierająca w zwartych szykach i w czerwonych spodniach, trafiła pod ogień ciężkiej artylerii i karabinów maszynowych z umocnionych pozycji. 2 Armia poniosła pod Morhange ciężką klęskę, a 1 Armia musiała wycofać się spod Sarrebourga. W walkach zginął między innymi syn generała Castelnau. Francuzi wycofali się za granicę, na wzgórza przed Nancy, gdzie powstrzymali niemiecki pościg.
 
-Szczegółowy przebieg tych walk opisujemy w artykule o [bitwie w Lotaryngii](/bitwy/bitwa-w-lotaryngii).
-
 ## Znaczenie
 
 Ofensywa w Lotaryngii była pierwszą wielką próbą francuskiej doktryny ofensywy za wszelką cenę i zakończyła się jej krwawą porażką. Francuskie straty były ogromne. Klęska pod Morhange i Sarrebourgiem, a kilka dni później w Ardenach, zmusiła Joffre'a do zmiany planów. W połączeniu z niemieckim uderzeniem przez Belgię doprowadziło to do wielkiego odwrotu, który zakończył się dopiero nad Marną.

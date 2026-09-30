@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku zakończyła się [bitwa pod Mechelen](/bitwy/bitwa-pod-mechelen), pierwszy wielki wypad armii belgijskiej z twierdzy [Antwerpia](https://pl.wikipedia.org/wiki/Antwerpia). Po trzech dniach walk na południe od miasta [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) (fr. Malines) belgijskie dywizje wycofały się z powrotem pod osłonę fortów.
+27 sierpnia 1914 roku zakończyła się bitwa pod Mechelen, pierwszy wielki wypad armii belgijskiej z twierdzy [Antwerpia](https://pl.wikipedia.org/wiki/Antwerpia). Po trzech dniach walk na południe od miasta [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) (fr. Malines) belgijskie dywizje wycofały się z powrotem pod osłonę fortów.
 
 Król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) wyprowadził armię z Antwerpii 25 sierpnia, o czym piszemy w artykule [Początek bitwy pod Mechelen](/poczatek-bitwy-pod-mechelen). Uderzenie miało związać niemieckie korpusy rezerwowe pilnujące twierdzy i odciążyć Francuzów i Brytyjczyków, którzy właśnie cofali się po bitwach granicznych. Belgowie początkowo zepchnęli Niemców, ale ci ściągnęli posiłki i przeszli do kontrataku. Wobec rosnącego oporu i strat król nakazał odwrót.
 

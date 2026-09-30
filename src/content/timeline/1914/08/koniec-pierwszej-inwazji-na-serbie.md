@@ -36,4 +36,4 @@ Straty obu stron różnią się w zależności od źródła. Według często prz
 
 Klęska w Serbii była upokorzeniem dla Austro-Węgier. Wielkie mocarstwo, które zamierzało pokonać małego sąsiada w kilka dni, zostało wyparte z jego terytorium w niecałe dwa tygodnie. Dla Ententy było to pierwsze zwycięstwo w tej wojnie, odniesione w czasie, gdy na froncie zachodnim alianci ponosili klęski i cofali się przed Niemcami.
 
-Serbia zapłaciła jednak wysoką cenę, a jej armia, osłabiona jeszcze wojnami bałkańskimi, cierpiała na brak amunicji i sprzętu. Potiorek nie zrezygnował. Już na początku września rozpoczął drugą inwazję, co doprowadziło do [bitwy nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną). Więcej o walkach z sierpnia piszemy w artykule o [bitwie na górze Cer](/bitwy/bitwa-na-gorze-cer).
+Serbia zapłaciła jednak wysoką cenę, a jej armia, osłabiona jeszcze wojnami bałkańskimi, cierpiała na brak amunicji i sprzętu. Potiorek nie zrezygnował. Już na początku września rozpoczął drugą inwazję, co doprowadziło do [bitwy nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną).

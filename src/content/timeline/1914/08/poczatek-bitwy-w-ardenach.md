@@ -28,4 +28,4 @@ Tego dnia na całym froncie bitew granicznych, w Ardenach, nad Sambrą i w Lotar
 
 ## Co dalej
 
-23 sierpnia francuskie armie zaczęły się wycofywać za [Mozę](https://pl.wikipedia.org/wiki/Moza). Klęska w Ardenach, razem z porażkami pod Charleroi i Mons, zmusiła wojska sprzymierzone do wielkiego odwrotu. Pełny przebieg walk opisujemy w artykule o [bitwie w Ardenach](/bitwy/bitwa-w-ardenach).
+23 sierpnia francuskie armie zaczęły się wycofywać za [Mozę](https://pl.wikipedia.org/wiki/Moza). Klęska w Ardenach, razem z porażkami pod Charleroi i Mons, zmusiła wojska sprzymierzone do wielkiego odwrotu.

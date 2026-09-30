@@ -26,4 +26,4 @@ Niemiecka 2 Armia generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Ka
 
 ## Co było dalej
 
-Bombardowanie fortów rozpoczęło się 29 sierpnia. Twierdza broniła się blisko dwa tygodnie, dłużej niż Liège i Namur, wiążąc znaczne siły niemieckie i blokując ważną linię kolejową. Skapitulowała 7 września, w czasie bitwy nad Marną, a do niewoli trafiło ponad 30 tysięcy jej obrońców. Pełny przebieg walk opisujemy w artykule o [oblężeniu Maubeuge](/bitwy/oblezenie-maubeuge).
+Bombardowanie fortów rozpoczęło się 29 sierpnia. Twierdza broniła się blisko dwa tygodnie, dłużej niż Liège i Namur, wiążąc znaczne siły niemieckie i blokując ważną linię kolejową. Skapitulowała 7 września, w czasie bitwy nad Marną, a do niewoli trafiło ponad 30 tysięcy jej obrońców.

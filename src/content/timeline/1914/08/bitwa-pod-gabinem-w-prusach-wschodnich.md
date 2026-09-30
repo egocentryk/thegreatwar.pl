@@ -24,6 +24,6 @@ Rano 20 sierpnia Niemcy zaatakowali. Na północnym skrzydle odnieśli sukces, a
 
 ## Nowi dowódcy
 
-Niemieckie naczelne dowództwo nie zgodziło się na oddanie Prus Wschodnich. 22 sierpnia Prittwitz został odwołany, a na jego miejsce przybyli generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) i Erich Ludendorff. Kilka dni później rozbili armię Samsonowa w [bitwie pod Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem). Pełny przebieg walk pod Gąbinem opisujemy w artykule o [bitwie pod Gąbinem](/bitwy/bitwa-pod-gabinem).
+Niemieckie naczelne dowództwo nie zgodziło się na oddanie Prus Wschodnich. 22 sierpnia Prittwitz został odwołany, a na jego miejsce przybyli generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) i Erich Ludendorff. Kilka dni później rozbili armię Samsonowa w [bitwie pod Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem).
 
 Dla polskich czytelników warto przypomnieć, że walki w Prusach Wschodnich toczyły się na terenach blisko związanych z historią Polski: na Mazurach i w pobliżu granicy Królestwa Polskiego. W armiach obu stron walczyli też Polacy.

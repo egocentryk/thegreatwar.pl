@@ -26,4 +26,4 @@ We Francji wiadomość przyjęto z goryczą. Radość z pierwszego zwycięstwa, 
 
 ## Dalsze walki
 
-Francuzi wrócili do Miluzy 19 sierpnia, tym razem w większej sile. Klęski w Lotaryngii i Ardenach oraz niemieckie uderzenie przez Belgię zmusiły ich jednak do wycofania się również po raz drugi, pod koniec sierpnia. Cały przebieg walk opisujemy w artykule o [bitwie pod Miluzą](/bitwy/bitwa-pod-miluza). Miluza pozostała w rękach niemieckich aż do końca wojny w listopadzie 1918 roku.
+Francuzi wrócili do Miluzy 19 sierpnia, tym razem w większej sile. Klęski w Lotaryngii i Ardenach oraz niemieckie uderzenie przez Belgię zmusiły ich jednak do wycofania się również po raz drugi, pod koniec sierpnia. Miluza pozostała w rękach niemieckich aż do końca wojny w listopadzie 1918 roku.

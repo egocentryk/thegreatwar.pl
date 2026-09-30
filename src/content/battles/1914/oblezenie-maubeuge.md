@@ -27,7 +27,7 @@ W sierpniu 1914 roku w pobliżu Maubeuge zbierał się [Brytyjski Korpus Ekspedy
 
 ## Okrążenie
 
-Brytyjska chronologia wojny notuje okrążenie twierdzy pod datą 25 sierpnia (zob. [Początek oblężenia Maubeuge](/poczatek-oblezenia-maubeuge)). Tego dnia, po upadku Namuru, niemiecka 2 Armia generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow) otrzymała zadanie odcięcia i zdobycia twierdzy, a jej oddziały zaczęły zamykać pierścień od północnego wschodu. Nowsze opracowania datują pełne okrążenie na 26–28 sierpnia. Oblężenie powierzono generałowi Hansowi von Zwehlowi i jego VII Korpusowi Rezerwowemu, wzmocnionemu artylerią oblężniczą przerzuconą spod Namuru.
+Brytyjska chronologia wojny notuje okrążenie twierdzy pod datą 25 sierpnia. Tego dnia, po upadku Namuru, niemiecka 2 Armia generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow) otrzymała zadanie odcięcia i zdobycia twierdzy, a jej oddziały zaczęły zamykać pierścień od północnego wschodu. Nowsze opracowania datują pełne okrążenie na 26–28 sierpnia. Oblężenie powierzono generałowi Hansowi von Zwehlowi i jego VII Korpusowi Rezerwowemu, wzmocnionemu artylerią oblężniczą przerzuconą spod Namuru.
 
 ## Bombardowanie
 

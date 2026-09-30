@@ -24,4 +24,4 @@ Bitwa rozpoczęła się 23 sierpnia, gdy dwie armie maszerujące sobie naprzeciw
 
 Po klęsce w Serbii Kraśnik był pierwszym zwycięstwem armii austro-węgierskiej w tej wojnie. Dankl stał się bohaterem, a wiadomość o sukcesie przyjęto w Wiedniu z ulgą. Po stronie rosyjskiej generał Salza stracił dowództwo, a jego miejsce zajął generał [Aleksiej Ewert](https://pl.wikipedia.org/wiki/Aleksiej_Ewert).
 
-Zwycięstwo zabezpieczyło też lewe skrzydło sąsiedniej austro-węgierskiej 4 Armii, która 26 sierpnia rozpoczęła [bitwę pod Komarowem](/poczatek-bitwy-pod-komarowem). Sukcesy na północy okazały się jednak nietrwałe. We wschodniej Galicji Rosjanie rozbijali słabsze armie austro-węgierskie, a na początku września zajęli Lwów. Pełny przebieg walk opisujemy w artykule o [bitwie pod Kraśnikiem](/bitwy/bitwa-pod-krasnikiem).
+Zwycięstwo zabezpieczyło też lewe skrzydło sąsiedniej austro-węgierskiej 4 Armii, która 26 sierpnia rozpoczęła bitwę pod Komarowem. Sukcesy na północy okazały się jednak nietrwałe. We wschodniej Galicji Rosjanie rozbijali słabsze armie austro-węgierskie, a na początku września zajęli Lwów.

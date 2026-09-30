@@ -32,7 +32,7 @@ Radość trwała krótko. Niemiecka 7 Armia generała [Josiasa von Heeringena](h
 
 14 sierpnia do natarcia ruszyła utworzona specjalnie w tym celu Armia Alzacji pod dowództwem generała [Paula Pau](https://pl.wikipedia.org/wiki/Paul_Pau). Tym razem Francuzi działali ostrożniej i w większej sile. 19 sierpnia ponownie zajęli Miluzę.
 
-Losy Alzacji rozstrzygnęły się jednak gdzie indziej. W Lotaryngii, Ardenach i Belgii armie francuskie ponosiły klęski, a niemieckie uderzenie przez Belgię zagrażało samej Francji. Joffre potrzebował każdego żołnierza na północy. Od 22 sierpnia jednostki Armii Alzacji przerzucano na inne odcinki frontu. Osłabione wojska Pau opuściły Miluzę bez walki i wycofały się na linię w pobliżu Belfortu, a 25 sierpnia Niemcy ponownie zajęli miasto (zob. [Niemcy ponownie odbijają Miluzę](/niemcy-ponownie-odbijaja-miluze)). Źródła podają różne daty ewakuacji, od 24 do 26 sierpnia. 28 sierpnia Armię Alzacji rozwiązano.
+Losy Alzacji rozstrzygnęły się jednak gdzie indziej. W Lotaryngii, Ardenach i Belgii armie francuskie ponosiły klęski, a niemieckie uderzenie przez Belgię zagrażało samej Francji. Joffre potrzebował każdego żołnierza na północy. Od 22 sierpnia jednostki Armii Alzacji przerzucano na inne odcinki frontu. Osłabione wojska Pau opuściły Miluzę bez walki i wycofały się na linię w pobliżu Belfortu, a 25 sierpnia Niemcy ponownie zajęli miasto. Źródła podają różne daty ewakuacji, od 24 do 26 sierpnia. 28 sierpnia Armię Alzacji rozwiązano.
 
 ## Znaczenie
 

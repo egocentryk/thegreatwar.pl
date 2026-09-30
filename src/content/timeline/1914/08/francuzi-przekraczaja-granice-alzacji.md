@@ -22,7 +22,7 @@ Wieczorem 8 sierpnia oddziały francuskie wkroczyły do [Miluzy](https://pl.wiki
 
 ## Krótki triumf
 
-Radość trwała krótko. 9 sierpnia niemiecka 7 Armia przeprowadziła kontratak, a Francuzom groziło okrążenie. Już następnego dnia Bonneau wydał rozkaz odwrotu w kierunku Belfortu. Joffre odsunął go od dowództwa i utworzył specjalną Armię Alzacji, która w drugiej połowie sierpnia ponownie zajęła Miluzę, ale wkrótce również musiała się wycofać. Cały przebieg walk opisujemy w artykule o [bitwie pod Miluzą](/bitwy/bitwa-pod-miluza).
+Radość trwała krótko. 9 sierpnia niemiecka 7 Armia przeprowadziła kontratak, a Francuzom groziło okrążenie. Już następnego dnia Bonneau wydał rozkaz odwrotu w kierunku Belfortu. Joffre odsunął go od dowództwa i utworzył specjalną Armię Alzacji, która w drugiej połowie sierpnia ponownie zajęła Miluzę, ale wkrótce również musiała się wycofać.
 
 ## Znaczenie
 

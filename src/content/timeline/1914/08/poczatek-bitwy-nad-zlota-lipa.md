@@ -16,7 +16,7 @@ draft: false
 
 ## Słabe prawe skrzydło
 
-Szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](https://pl.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf) skierował główne siły na północ, w głąb Królestwa Polskiego. Tam armia Dankla wygrała właśnie [bitwę pod Kraśnikiem](/bitwy/bitwa-pod-krasnikiem), a armia Auffenberga rozpoczynała [bitwę pod Komarowem](/poczatek-bitwy-pod-komarowem). Wschodnia Galicja miała być tylko osłaniana. Broniły jej 3 Armia Brudermanna i grupa armijna generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza). Część wojsk przewidzianych do obrony tego odcinka, zwłaszcza 2 Armia, wciąż jechała koleją znad granicy serbskiej.
+Szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](https://pl.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf) skierował główne siły na północ, w głąb Królestwa Polskiego. Tam armia Dankla wygrała właśnie [bitwę pod Kraśnikiem](/bitwy/bitwa-pod-krasnikiem), a armia Auffenberga rozpoczynała bitwę pod Komarowem. Wschodnia Galicja miała być tylko osłaniana. Broniły jej 3 Armia Brudermanna i grupa armijna generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza). Część wojsk przewidzianych do obrony tego odcinka, zwłaszcza 2 Armia, wciąż jechała koleją znad granicy serbskiej.
 
 Conrad sądził, że od wschodu nadciągają tylko słabe siły rosyjskie, i polecił Brudermannowi zaatakować. W rzeczywistości z Wołynia i Podola maszerowały na Lwów dwie silne rosyjskie armie: 3 Armia Ruzskiego i 8 Armia Brusiłowa. Rosjanie mieli wyraźną przewagę liczebną i dużo więcej artylerii.
 
@@ -30,4 +30,4 @@ Rano 26 sierpnia trzy austro-węgierskie korpusy ruszyły na wschód, w stronę 
 
 Walki toczyły się na ziemiach, które przed rozbiorami należały do Rzeczypospolitej, a w 1914 roku były częścią austriackiego [Królestwa Galicji i Lodomerii](https://pl.wikipedia.org/wiki/Królestwo_Galicji_i_Lodomerii). Mieszkali tu Polacy, Ukraińcy i Żydzi. W szeregach armii austro-węgierskiej, zwłaszcza w lwowskim XI Korpusie, służyło wielu Polaków z Galicji. Po drugiej stronie frontu walczyli Polacy z Królestwa Polskiego powołani do armii rosyjskiej. Ludność cywilna uciekała przed frontem albo ukrywała się we wsiach, przez które przetaczały się walki, rekwizycje i pożary.
 
-Klęska nad Złotą i Gniłą Lipą otworzyła Rosjanom drogę do Lwowa. 3 września wkroczyli do stolicy Galicji, rozpoczynając okupację, która miała trwać do czerwca 1915 roku. Więcej o przebiegu walk piszemy na stronie [bitwy nad Złotą Lipą](/bitwy/bitwa-nad-zlota-lipa).
+Klęska nad Złotą i Gniłą Lipą otworzyła Rosjanom drogę do Lwowa. 3 września wkroczyli do stolicy Galicji, rozpoczynając okupację, która miała trwać do czerwca 1915 roku.

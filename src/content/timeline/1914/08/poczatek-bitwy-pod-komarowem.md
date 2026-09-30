@@ -24,6 +24,6 @@ Pierwszy cios spadł na rosyjski XXV Korpus pod Zamościem. Austro-węgierski II
 
 ## Co przyniosły kolejne dni
 
-Bitwa trwała do 2 września. Austro-Węgrzy niemal okrążyli armię Plehwego, lecz Rosjanie w ostatniej chwili wymknęli się za Bug, tracąc wielu żołnierzy i jeńców. Auffenberg odniósł zwycięstwo, za które później otrzymał tytuł barona z przydomkiem „von Komarów”. Nie zmieniło ono jednak losów całej kampanii, bo na wschodzie Galicji Rosjanie w tym samym czasie spychali słabsze armie austro-węgierskie ku Lwowowi. Więcej piszemy na stronie bitwy: [Bitwa pod Komarowem](/bitwy/bitwa-pod-komarowem).
+Bitwa trwała do 2 września. Austro-Węgrzy niemal okrążyli armię Plehwego, lecz Rosjanie w ostatniej chwili wymknęli się za Bug, tracąc wielu żołnierzy i jeńców. Auffenberg odniósł zwycięstwo, za które później otrzymał tytuł barona z przydomkiem „von Komarów”. Nie zmieniło ono jednak losów całej kampanii, bo na wschodzie Galicji Rosjanie w tym samym czasie spychali słabsze armie austro-węgierskie ku Lwowowi.
 
 Walki toczyły się na ziemiach polskich, a w obu armiach służyli Polacy. Sześć lat później, w 1920 roku, w tej samej okolicy rozegrała się inna [bitwa pod Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem), tym razem między polską kawalerią a Armią Konną Budionnego.

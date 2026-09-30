@@ -26,4 +26,4 @@ Messimy, uważany przez kolegów za zbyt porywczego i bezpośredniego, musiał u
 
 ## Na froncie
 
-Messimy wrócił do wojska jako oficer rezerwy. Przez całą wojnę służył na froncie, dowodził kolejno batalionem, pułkiem i brygadą, był dwukrotnie ranny i wielokrotnie wyróżniany. Pod koniec wojny, już w stopniu generała, dowodził 162 Dywizją Piechoty. Po wojnie został senatorem. Zmarł w 1935 roku, a jego wspomnienia ukazały się pośmiertnie. O nowym ministrze wojny piszemy w artykule [Millerand ministrem wojny](/millerand-ministrem-wojny).
+Messimy wrócił do wojska jako oficer rezerwy. Przez całą wojnę służył na froncie, dowodził kolejno batalionem, pułkiem i brygadą, był dwukrotnie ranny i wielokrotnie wyróżniany. Pod koniec wojny, już w stopniu generała, dowodził 162 Dywizją Piechoty. Po wojnie został senatorem. Zmarł w 1935 roku, a jego wspomnienia ukazały się pośmiertnie.
