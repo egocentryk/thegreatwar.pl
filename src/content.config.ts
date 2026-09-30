@@ -47,7 +47,7 @@ const timeline = defineCollection({
       date: z.coerce.date(),
       authors: z.array(z.string()).min(1),
       dayOrder: z.number().int().nonnegative().default(0),
-      image: z.string().optional(),
+      headerImage: z.string().optional(),
       tags: z.array(z.string()).default([]),
       cover: image().optional(),
       url: z.url().optional(),

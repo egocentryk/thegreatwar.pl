@@ -47,7 +47,7 @@ const {
   tags,
   url,
   repo,
-  image,
+  headerImage,
   milestone,
   battle,
 } = entry.data
@@ -55,12 +55,12 @@ const battleEntry = battle ? await getEntry(battle) : undefined
 const { Content } = await render(entry)
 
 const formattedDate = formatDate(date)
-const headerImage = image
-  ? articleImages[`../assets/images/${image}`]?.default
+const headerImageAsset = headerImage
+  ? articleImages[`../assets/images/${headerImage}`]?.default
   : undefined
 ---
 
-<BaseLayout title={title} description={summary}>
+<BaseLayout title={title} description={summary} image={headerImageAsset?.src}>
   <article class="pt-16 pb-24 sm:pt-24">
     <div class="mx-auto max-w-3xl px-6">
       <a
@@ -90,10 +90,10 @@ const headerImage = image
     </div>
 
     {
-      headerImage && (
+      headerImageAsset && (
         <div class="mx-auto mt-8 max-w-5xl overflow-hidden rounded-sm">
           <Image
-            src={headerImage}
+            src={headerImageAsset}
             alt={title}
             class="h-auto w-full object-cover"
             sizes="(min-width: 1024px) 1024px, 100vw"

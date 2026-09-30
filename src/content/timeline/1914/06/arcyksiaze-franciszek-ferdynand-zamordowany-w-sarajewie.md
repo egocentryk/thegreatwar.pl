@@ -7,7 +7,7 @@ authors: [Łukasz Skowroń]
 tags: [zamach w Sarajewie, Franciszek Ferdynand, Austro-Węgry, Serbia]
 milestone: true
 draft: false
-image: "assassination-archduke-franz-ferdinand.jpg"
+headerImage: "assassination-archduke-franz-ferdinand.jpg"
 ---
 
 28 czerwca 1914 roku w [Sarajewie](https://pl.wikipedia.org/wiki/Sarajewo) zginęli [arcyksiążę Franciszek Ferdynand](https://pl.wikipedia.org/wiki/Franciszek_Ferdynand_Habsburg), następca tronu austro-węgierskiego, oraz jego żona [Zofia, księżna Hohenberg](https://pl.wikipedia.org/wiki/Zofia_von_Hohenberg). Zabójstwa dokonał [Gavrilo Princip](https://pl.wikipedia.org/wiki/Gavrilo_Princip), dziewiętnastoletni bośniacki Serb związany z ruchem [Młoda Bośnia](https://pl.wikipedia.org/wiki/Młoda_Bośnia). Sam [zamach](https://pl.wikipedia.org/wiki/Zamach_w_Sarajewie) nie był jeszcze początkiem [wojny światowej](https://pl.wikipedia.org/wiki/I_wojna_światowa) w sensie formalnym, ale stał się bezpośrednim zapalnikiem kryzysu lipcowego, który w ciągu pięciu tygodni doprowadził Europę od lokalnego zamachu politycznego do wojny między mocarstwami.

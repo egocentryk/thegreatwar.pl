@@ -17,7 +17,7 @@ const description = pageDescription || SITE.description;
 // without a trailing slash, so strip it (except for the root "/").
 const canonicalPath = Astro.url.pathname.replace(/(.)\/+$/, '$1');
 const canonicalURL = new URL(canonicalPath, Astro.site);
-const socialImage = new URL(image || '/og-image.png', Astro.site);
+const socialImage = image ? new URL(image, Astro.site) : undefined;
 ---
 
 {/* Global Metadata */}
@@ -40,14 +40,14 @@ const socialImage = new URL(image || '/og-image.png', Astro.site);
 <meta property="og:title" content={fullTitle} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={socialImage} />
+{socialImage && <meta property="og:image" content={socialImage} />}
 
 {/* Twitter */}
-<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:card" content={socialImage ? "summary_large_image" : "summary"} />
 <meta name="twitter:url" content={canonicalURL} />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
-<meta name="twitter:image" content={socialImage} />
+{socialImage && <meta name="twitter:image" content={socialImage} />}
 
 {/* Favicons */}
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
