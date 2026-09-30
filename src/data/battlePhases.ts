@@ -93,9 +93,17 @@ export const BATTLE_PHASES = [
     slug: "1914-przemysl-san-i-wisla",
     title: "1914: Przemyśl, San i Wisła",
     front: "Front wschodni",
-    dates: "wrzesień – listopad 1914",
+    dates: "wrzesień 1914 – marzec 1915",
     intro:
       "Po klęsce w bitwie galicyjskiej armie austro-węgierskie wycofały się za San i dalej na zachód, pozostawiając w okrążeniu twierdzę Przemyśl. Rosjanie wkroczyli w głąb Galicji i do przełęczy karpackich. Na pomoc sojusznikowi Niemcy utworzyły na Śląsku nową 9 Armię, która na przełomie września i października uderzyła przez ziemie Królestwa Polskiego na Warszawę i Dęblin. Jesienią 1914 roku na ziemiach polskich toczyły się wielkie bitwy nad Wisłą i Sanem, a Przemyśl został na krótko odblokowany, by wkrótce znów znaleźć się w oblężeniu.",
+  },
+  {
+    slug: "1914-lodz-i-krakow",
+    title: "1914: Bitwy pod Łodzią i Krakowem",
+    front: "Front wschodni",
+    dates: "listopad – grudzień 1914",
+    intro:
+      "Po niepowodzeniu jesiennej ofensywy nad Wisłą i Sanem armie państw centralnych wycofały się na zachód, a Rosjanie ruszyli w pościg, szykując uderzenie na Śląsk i Kraków. Hindenburg i Ludendorff uprzedzili ich zamiar. Przerzucili koleją 9 Armię na północ, w rejon Torunia, i uderzyli w bok rosyjskich armii, co doprowadziło do zaciętej bitwy pod Łodzią. W tym samym czasie na południu Rosjanie podeszli pod Kraków, a twierdza szykowała się do oblężenia. Walki toczone w listopadzie i grudniu 1914 roku na ziemiach polskich zatrzymały rosyjski marsz na zachód, a front na wschodzie zaczął zastygać w okopach.",
   },
   {
     slug: "1914-wojna-na-morzu",
@@ -104,6 +112,22 @@ export const BATTLE_PHASES = [
     dates: "sierpień – grudzień 1914",
     intro:
       "Przed wojną Wielka Brytania i Niemcy toczyły wyścig zbrojeń morskich, a obie strony spodziewały się wielkiej bitwy flot na Morzu Północnym. Do niej nie doszło. Brytyjska Grand Fleet zablokowała wyjścia z Morza Północnego, a niemiecka Flota Pełnomorska unikała otwartej walki z silniejszym przeciwnikiem. Zamiast tego rozgrywały się mniejsze starcia krążowników i niszczycieli, pościgi za niemieckimi rajderami na oceanach oraz pierwsze ataki okrętów podwodnych, które szybko pokazały, jak groźną stały się bronią.",
+  },
+  {
+    slug: "1914-afryka",
+    title: "1914: Wojna w Afryce",
+    front: "Afryka",
+    dates: "sierpień – grudzień 1914",
+    intro:
+      "Wojna szybko objęła kolonie w Afryce. Niemcy posiadały tu cztery kolonie: Togo, Kamerun, Niemiecką Afrykę Południowo-Zachodnią i Niemiecką Afrykę Wschodnią. Wielka Brytania, Francja i Belgia chciały je zająć, odebrać Niemcom porty i stacje radiowe oraz zabezpieczyć własne posiadłości. Togo padło już w sierpniu, a w Kamerunie alianci zajęli wybrzeże. Na wschodzie kontynentu niemieckie oddziały pułkownika Paula von Lettow-Vorbecka zadały Brytyjczykom dotkliwe porażki i rozpoczęły kampanię, która trwała aż do końca wojny. Ciężar walk w Afryce ponieśli głównie afrykańscy żołnierze i tragarze.",
+  },
+  {
+    slug: "1914-imperium-osmanskie",
+    title: "1914: Przystąpienie Imperium Osmańskiego",
+    front: "Bliski Wschód",
+    dates: "listopad – grudzień 1914",
+    intro:
+      "Pod koniec października 1914 roku flota osmańska pod dowództwem niemieckiego admirała Souchona zaatakowała rosyjskie porty nad Morzem Czarnym. W ciągu kilku dni Rosja, Wielka Brytania i Francja wypowiedziały Imperium Osmańskiemu wojnę, a sułtan ogłosił dżihad. Wojna objęła nowe obszary: Kaukaz, gdzie starły się armie rosyjska i osmańska, Mezopotamię, gdzie wojska z Indii wylądowały u ujścia Szatt al-Arab, a także Dardanele i Kanał Sueski. Przystąpienie Imperium Osmańskiego odcięło Rosję od sojuszników przez cieśniny czarnomorskie i rozszerzyło wojnę na cały Bliski Wschód.",
   },
 ] as const
 

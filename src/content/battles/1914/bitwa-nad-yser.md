@@ -1,29 +1,29 @@
 ---
 title: Bitwa nad Yser
-summary: Od 16 do 31 października 1914 Belgowie z pomocą Francuzów bronili linii Yser. Zalanie równiny zatrzymało Niemców i ocaliło skrawek wolnej Belgii.
+summary: Od 16 października do 10 listopada 1914 Belgowie i Francuzi bronili linii Yser. Zalanie równiny zatrzymało Niemców i ocaliło skrawek wolnej Belgii.
 front: Front zachodni
 phase: 1914-flandria
 startDate: 1914-10-16
-endDate: 1914-10-31
+endDate: 1914-11-10
 location: Rzeka Yser między Nieuwpoort a Diksmuide, zachodnia Flandria, Belgia
 sides:
   - name: Belgia, Francja i Wielka Brytania
     commanders: [Albert I, Émile Dossin, Pierre Ronarc'h, Paul Grossetti, Horace Hood]
   - name: Niemcy
     commanders: [Albrecht Wirtemberski, Hans von Beseler]
-result: Zwycięstwo obronne aliantów. Niemcy sforsowali Yser, ale zatrzymało ich zalanie równiny. Belgia zachowała skrawek terytorium, bronionego do 1918 roku.
+result: Zwycięstwo obronne aliantów. Niemcy sforsowali Yser i zdobyli Diksmuide, ale zatrzymało ich zalanie równiny. Belgia zachowała skrawek terytorium, bronionego do 1918 roku.
 authors: [Natalia]
 tags: [Belgia, Niemcy, Albert I, wyścig do morza]
 milestone: true
 ---
 
-[Bitwa nad Yser](https://pl.wikipedia.org/wiki/Bitwa_nad_Yser) była ostatnim akordem wyścigu do morza. W drugiej połowie października 1914 roku wyczerpana armia belgijska, która kilka dni wcześniej wymknęła się z Antwerpii, broniła linii niewielkiej rzeki [Yser](https://pl.wikipedia.org/wiki/IJzer) między [Nieuport](https://pl.wikipedia.org/wiki/Nieuwpoort_(Belgia)) a [Diksmuide](https://pl.wikipedia.org/wiki/Diksmuide) przed nową niemiecką 4 Armią. Wspierali ją francuscy fizylierzy marynarki, a od strony morza brytyjskie okręty. Po dwóch tygodniach walk, gdy Niemcy przeszli już przez rzekę, Belgowie otworzyli śluzy w Nieuport i wpuścili morze na nisko położoną równinę. Zalany pas ziemi zatrzymał natarcie. Ostatni skrawek wolnej Belgii przetrwał do końca wojny.
+[Bitwa nad Yser](https://pl.wikipedia.org/wiki/Bitwa_nad_Yser) była ostatnim akordem wyścigu do morza. W drugiej połowie października 1914 roku wyczerpana armia belgijska, która kilka dni wcześniej wymknęła się z Antwerpii, broniła linii niewielkiej rzeki [Yser](https://pl.wikipedia.org/wiki/IJzer) między [Nieuport](https://pl.wikipedia.org/wiki/Nieuwpoort_(Belgia)) a [Diksmuide](https://pl.wikipedia.org/wiki/Diksmuide) przed nową niemiecką 4 Armią. Wspierali ją francuscy fizylierzy marynarki, a od strony morza brytyjskie okręty. Po dwóch tygodniach walk, gdy Niemcy przeszli już przez rzekę, Belgowie otworzyli śluzy w Nieuport i wpuścili morze na nisko położoną równinę. Zalany pas ziemi zatrzymał natarcie. 10 listopada Niemcy zdobyli jeszcze Diksmuide, ostatni przyczółek aliantów na wschodnim brzegu, ale dalej już nie przeszli. Ostatni skrawek wolnej Belgii przetrwał do końca wojny.
 
 ## Nazwa i daty
 
-Polska i angielska Wikipedia podają dla bitwy daty 16–31 października 1914 roku. Początek wyznacza pierwsze starcie pod Diksmuide 16 października. Tak datuje bitwę tradycja belgijska, a brytyjska kronika wojny zaznacza, że jest to data przyjęta przez Belgów. Główne niemieckie natarcie ruszyło 18 października i od tego dnia liczą bitwę niektóre opracowania brytyjskie. Koniec wyznacza odwrót Niemców z zalanego terenu w nocy z 30 na 31 października i w kolejnych dniach, gdy ich oddziały wycofywały się na wschodni brzeg rzeki. Dlatego jako datę końcową przyjmujemy 31 października.
+Początek bitwy wyznacza pierwsze starcie pod Diksmuide 16 października. Tak datuje bitwę tradycja belgijska, a brytyjska kronika wojny zaznacza, że jest to data przyjęta przez Belgów. Główne niemieckie natarcie ruszyło 18 października i od tego dnia liczą bitwę niektóre opracowania.
 
-Nie wszystkie źródła tak zamykają bitwę. Część autorów wlicza do niej walki o Diksmuide, które padło dopiero 10 listopada, a brytyjski serwis greatwar.co.uk podaje daty 16 października – 10 listopada. Opracowania, które traktują bitwę nad Yser jako północny odcinek szerszych walk we Flandrii, przedłużają ją nawet do 30 listopada. Walki o Diksmuide w listopadzie stanowiły już jednak część [I bitwy pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres).
+Bardziej różnią się daty końca bitwy. Polska i angielska Wikipedia podają daty 16–31 października 1914 roku i zamykają bitwę odwrotem Niemców z zalanego terenu w nocy z 30 na 31 października i w kolejnych dniach. Za koniec uznaje się jednak często 10 listopada, gdy Niemcy zdobyli Diksmuide, ostatni przyczółek aliantów na wschodnim brzegu Yser. Brytyjska kronika wojny podaje tę datę jako francuską, a daty 16 (lub 18) października – 10 listopada przyjmują też liczne opracowania francuskie i belgijskie oraz brytyjski serwis greatwar.co.uk. Przyjmujemy tę szerszą datę, bo obrona Diksmuide była nieodłączną częścią obrony linii Yser. Opracowania, które traktują bitwę nad Yser jako północny odcinek szerszych walk we Flandrii, przedłużają ją nawet do 30 listopada. Na południe od Diksmuide walki w listopadzie zlewały się już z [I bitwą pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres).
 
 ## Tło: ostatnia linia
 
@@ -49,9 +49,11 @@ Naprzeciw stanęła nowa niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](
 
 **30–31 października.** 30 października Niemcy przypuścili ostatnie wielkie natarcie. Przełamali belgijską linię na nasypie i wdarli się do [Ramskapelle](https://pl.wikipedia.org/wiki/Ramskapelle_(Nieuwpoort)), a pod Pervijze podeszli pod samą wieś. Belgijsko-francuski kontratak odbił Ramskapelle 31 października. Tymczasem woda za plecami Niemców podnosiła się z godziny na godzinę. Dowództwo niemieckie odwołało natarcie planowane na następny dzień i w nocy z 30 na 31 października rozpoczęło odwrót. W kolejnych dniach niemieckie oddziały, brnąc przez zalane łąki i porzucając część sprzętu, wycofały się na wschodni brzeg Yser.
 
+**1–10 listopada.** 31 października i 1 listopada Niemcy próbowali jeszcze nacierać na południe wzdłuż wschodniego brzegu rzeki, by odciąć przyczółek w Diksmuide, ale i tam zatrzymała ich woda. W nocy z 1 na 2 listopada wycofali się za Yser. Zalanego odcinka od morza po Tervate strzegła odtąd tylko 4 Dywizja Zastępcza, a III Korpus Rezerwowy przesunięto na południe, w stronę Ypres. Diksmuide pozostało wysuniętym bastionem aliantów na wschodnim brzegu. Pod ciągłym ostrzałem broniły go bataliony fizylierów marynarki Ronarc'ha, oddziały belgijskie i tyralierzy senegalscy, którzy przybyli 26 października. 10 listopada, po nocnym bombardowaniu, dwie niemieckie dywizje uderzyły na miasto z trzech stron. Po zaciętych walkach ulicznych obrońcy wycofali się po południu na zachodni brzeg, a Belgowie wysadzili za nimi mosty. Tego samego dnia dalej na południe Niemcy zepchnęli Francuzów spod Bikschote nad kanał Yser. Zdobycie Diksmuide zamknęło walki o linię rzeki. Wyczerpanych fizylierów zluzowano 16 listopada.
+
 ## Po bitwie
 
-Diksmuide pozostało jeszcze przez kilka dni wysuniętym bastionem aliantów na wschodnim brzegu. 10 listopada Niemcy zdobyli ruiny miasta, a fizylierzy i Belgowie wycofali się za rzekę, wysadzając za sobą mosty. Walki na północnym skraju frontu zlały się wtedy z I bitwą pod Ypres. Na odcinku od morza po Diksmuide zalany teren oddzielał odtąd obie armie niemal przez całą wojnę. Na początku listopada flotylla Hooda odpłynęła, bo nadejście posiłków i powódź uczyniły jej obecność zbędną. Król Albert przeniósł kwaterę do [De Panne](https://pl.wikipedia.org/wiki/De_Panne), gdzie pozostał do 1918 roku.
+Po upadku Diksmuide front nad Yser zastygł. Na odcinku od morza po Diksmuide zalany teren oddzielał odtąd obie armie niemal przez całą wojnę. Na początku listopada flotylla Hooda odpłynęła, bo nadejście posiłków i powódź uczyniły jej obecność zbędną. Król Albert przeniósł kwaterę do [De Panne](https://pl.wikipedia.org/wiki/De_Panne), gdzie pozostał do 1918 roku.
 
 ## Straty
 

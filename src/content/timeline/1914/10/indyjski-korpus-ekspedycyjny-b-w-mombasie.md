@@ -13,7 +13,7 @@ draft: false
 
 Pod koniec października 1914 roku konwój z Indyjskim Korpusem Ekspedycyjnym „B”, który [16 października wypłynął z Bombaju](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki), dotarł do wybrzeży Afryki Wschodniej. Transportowce zakotwiczyły 30 października na morzu, poza zasięgiem wzroku z lądu. Do portu w [Mombasie](https://pl.wikipedia.org/wiki/Mombasa) wszedł tylko statek ze sztabem generała majora Arthura Aitkena.
 
-31 października w Mombasie odbyła się narada wojskowych i marynarzy. Ustalono na niej ostatecznie, że korpus uderzy na niemiecki port [Tanga](https://pl.wikipedia.org/wiki/Tanga), a równocześnie wojska stacjonujące w Brytyjskiej Afryce Wschodniej zaatakują Niemców na północ od Kilimandżaro. Zakładano, że Tanga jest słabo broniona, a główne siły niemieckie stoją daleko w głębi kolonii.
+31 października w Mombasie odbyła się narada wojskowych i marynarzy. Ustalono na niej ostatecznie, że korpus uderzy na niemiecki port [Tanga](https://pl.wikipedia.org/wiki/Tanga), a równocześnie wojska stacjonujące w Brytyjskiej Afryce Wschodniej zaatakują Niemców na północny zachód od Kilimandżaro. Zakładano, że Tanga jest słabo broniona, a główne siły niemieckie stoją daleko w głębi kolonii.
 
 Na naradzie wyszła na jaw kłopotliwa sprawa. W sierpniu dowódcy brytyjskich okrętów zawarli z niemieckimi władzami Tangi i Dar es Salaam lokalne rozejmy, których Londyn nigdy nie zatwierdził. Kapitan krążownika HMS Fox, Francis Caulfeild, uważał, że przed atakiem trzeba Niemców uprzedzić o ich zerwaniu. Aitken ustąpił, choć oznaczało to utratę zaskoczenia. W dodatku pancernik HMS Goliath, który eskortował konwój, uległ awarii i nie mógł popłynąć dalej. Uznano jednak, że poważnego oporu nie będzie, i postanowiono działać bez niego.
 
