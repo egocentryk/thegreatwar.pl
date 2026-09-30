@@ -3,7 +3,7 @@
 export const SITE = {
   name: "TheGreatWar.pl",
   role: "Product design & frontend engineering",
-  email: "johndoe@example.com",
+  email: "timelineof@thegreatwar.pl",
   tagline:
     "Wielka Wojna zapisana przez daty, wydarzenia, rozkazy i polityczne decyzje.",
   description:
