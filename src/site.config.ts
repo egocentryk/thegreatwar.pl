@@ -7,7 +7,7 @@ export const SITE = {
   tagline:
     "Wielka Wojna zapisana przez daty, wydarzenia, rozkazy i polityczne decyzje.",
   description:
-    "Portfolio of John Doe — product design and frontend engineering, with an emphasis on speed, clarity, and the details most people skip.",
+    "Polska kronika I wojny światowej. Wydarzenia z lat 1914–1918 dzień po dniu: bitwy, decyzje polityczne, rozkazy i losy ludzi.",
   status: "Projekt w ciągłym przygotowaniu · ETA / Q4 2027",
   social: [
     { label: "GitHub", href: "https://github.com/your-username" },

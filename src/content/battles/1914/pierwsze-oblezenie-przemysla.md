@@ -4,7 +4,7 @@ summary: Jesienią 1914 rosyjska 3 Armia obległa twierdzę Przemyśl. Załoga g
 front: Front wschodni
 phase: 1914-przemysl-san-i-wisla
 startDate: 1914-09-24
-endDate: 1914-10-11
+endDate: 1914-10-09
 location: Twierdza Przemyśl i jej przedpole nad Sanem, Galicja, Austro-Węgry
 sides:
   - name: Austro-Węgry
@@ -17,11 +17,11 @@ tags: [Austro-Węgry, Rosja, Galicja, Przemyśl]
 milestone: true
 ---
 
-Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w bitwie galicyjskiej armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Kilka dni później oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.
+Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w bitwie galicyjskiej armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Zaraz potem oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.
 
 ## Daty oblężenia
 
-Na tej stronie przyjmujemy daty 24 września – 11 października 1914 roku. Datę początkową podajemy za brytyjską chronologią wojny, która pod 24 września odnotowuje odcięcie Przemyśla. Polskie opracowania zaczynają zwykle oblężenie 17 września, gdy z fortu „Popowice” padł pierwszy strzał do rosyjskiego patrolu kawalerii, a anglojęzyczne często 16 września. Okrążanie twierdzy trwało kilka dni, a pierścień zamknął się całkowicie około 26 września. Koniec oblężenia także rozkłada się na kilka dni. Rosjanie zaczęli odchodzić od fortów 9 października, tego samego dnia do twierdzy dotarły pierwsze oddziały austro-węgierskiej kawalerii, a główne siły odsieczy nadeszły 11–12 października. Polskie źródła podają najczęściej jako datę końcową 10 października.
+Na tej stronie przyjmujemy daty 24 września – 9 października 1914 roku, za brytyjską chronologią wojny. Pod 24 września odnotowuje ona odcięcie Przemyśla, a pod 9 października jego odsiecz. Polskie opracowania zaczynają zwykle oblężenie 17 września, gdy z fortu „Popowice” padł pierwszy strzał do rosyjskiego patrolu kawalerii, a anglojęzyczne często 16 września. Okrążanie twierdzy trwało kilka dni, a pierścień zamknął się całkowicie około 26 września. Koniec oblężenia także rozkłada się na kilka dni. Rosjanie zaczęli odchodzić od fortów 9 października i tego samego dnia do twierdzy dotarły pierwsze oddziały austro-węgierskiej kawalerii. Dlatego za koniec oblężenia przyjmujemy ten dzień. Polskie źródła podają jednak najczęściej 10 października, gdy wojska rosyjskie wycofały się na całej linii, a część opracowań, zwłaszcza anglojęzycznych, 11 października. Główne siły odsieczy nadeszły 11–12 października.
 
 ## Twierdza
 

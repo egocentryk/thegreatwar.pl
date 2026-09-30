@@ -67,7 +67,7 @@ const headerImageAsset = headerImage
         href="/timeline"
         class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
       >
-        ← Full timeline
+        ← Oś czasu
       </a>
 
       {
@@ -107,7 +107,7 @@ const headerImageAsset = headerImage
         class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs"
       >
         <div>
-          <dt class="inline">Kategoria: </dt><dd class="inline">
+          <dt class="inline">Kategoria:</dt><dd class="inline">
             <a
               href={`/kategoria/${slugify(category)}`}
               class="text-ink hover:text-signal transition-colors"
@@ -119,27 +119,32 @@ const headerImageAsset = headerImage
         {
           front && (
             <div>
-              <dt class="inline">Front: </dt><dd class="inline">{front}</dd>
+              <>
+                <dt class="inline">Front: </dt>
+                <dd class="inline">{front}</dd>
+              </>
             </div>
           )
         }
         <div>
-          <dt class="inline">Data: </dt><dd class="inline">{formattedDate}</dd>
+          <dt class="inline">Data:</dt><dd class="inline">{formattedDate}</dd>
         </div>
         <div>
           <dt class="inline">{authors.length > 1 ? "Autorzy: " : "Autor: "}</dt>
           <dd class="inline">
-            {authors.map((name, index) => (
-              <>
-                {index > 0 && ", "}
-                <a
-                  href={`/autor/${slugify(name)}`}
-                  class="text-ink hover:text-signal transition-colors"
-                >
-                  {name}
-                </a>
-              </>
-            ))}
+            {
+              authors.map((name, index) => (
+                <>
+                  {index > 0 && ", "}
+                  <a
+                    href={`/autor/${slugify(name)}`}
+                    class="text-ink hover:text-signal transition-colors"
+                  >
+                    {name}
+                  </a>
+                </>
+              ))
+            }
           </dd>
         </div>
         {

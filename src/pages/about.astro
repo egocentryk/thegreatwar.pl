@@ -1,49 +1,106 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
-import Button from '@/components/Button.astro';
-import { SITE } from '@/site.config';
+import { getCollection } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import Button from "@/components/Button.astro"
+import { SITE } from "@/site.config"
+import { pluralPl } from "@/utils/pluralPl"
 
-const tools = ['TypeScript', 'Astro', 'React', 'Figma', 'Tailwind CSS', 'Node.js'];
+const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
+const allBattles = await getCollection("battles", ({ data }) => !data.draft)
+
+const progress = [
+  `${allTimeline.length} ${pluralPl(allTimeline.length, "wydarzenie", "wydarzenia", "wydarzeń")}`,
+  `${allBattles.length} ${pluralPl(allBattles.length, "bitwę", "bitwy", "bitew")}`,
+].join(" i ")
+
+const sections = [
+  {
+    label: "Oś czasu",
+    href: "/timeline",
+    text: "Wydarzenia dzień po dniu, od zamachu w Sarajewie.",
+  },
+  {
+    label: "Bitwy",
+    href: "/bitwy",
+    text: "Wielkie starcia opisane od tła po znaczenie, pogrupowane w etapy wojny.",
+  },
+]
 ---
 
-<BaseLayout title="About" description={`A bit about ${SITE.name} and how they work.`}>
+<BaseLayout
+  title="O projekcie"
+  description={`Czym jest ${SITE.name}, jak powstają nasze artykuły i kto je pisze.`}
+>
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
-    <p class="text-ink-soft mb-6 font-mono text-xs tracking-[0.2em] uppercase">About</p>
+    <p class="text-ink-soft mb-6 font-mono text-xs tracking-[0.2em] uppercase">
+      O projekcie
+    </p>
 
     <h1 class="font-display text-ink max-w-xl text-3xl font-medium sm:text-4xl">
-      {SITE.role}.
+      Polska kronika Wielkiej Wojny, spisywana dzień po dniu.
     </h1>
 
     <div class="prose prose-sm sm:prose-base mt-8 max-w-xl">
       <p>
-        I start most projects by trying to find the smallest version of the problem — the one
-        screen, one flow, or one fix that actually matters — and build that first, properly, before
-        expanding outward.
+        {SITE.name} opowiada historię I wojny światowej w takiej kolejności, w jakiej
+        rozgrywała się naprawdę. Zamiast jednego długiego wykładu budujemy oś czasu
+        z pojedynczych wydarzeń: bitew, wypowiedzeń wojny, rozkazów, decyzji rządów
+        i zdarzeń, które zmieniały życie zwykłych ludzi. Czytane po kolei pokazują,
+        jak z zamachu w Sarajewie wyrosła wojna, która objęła cały świat.
       </p>
       <p>
-        That usually means fewer features than a kickoff deck promises, and more attention to the
-        parts people interact with constantly: load times, empty states, error messages, the things
-        that quietly decide whether software feels good to use.
+        Piszemy po polsku i dla polskich czytelników. Dlatego szczególnie dużo
+        miejsca poświęcamy ziemiom polskim, przez które przetoczyła się znaczna
+        część walk na froncie wschodnim, i Polakom walczącym w trzech armiach
+        zaborców oraz w Legionach.
+      </p>
+
+      <h2>Jak powstają artykuły</h2>
+      <p>
+        Szkielet naszej osi czasu opiera się na brytyjskich kronikach wojny,
+        spisujących dzień po dniu jej najważniejsze wydarzenia. Każdy artykuł
+        sprawdzamy jednak w kilku niezależnych źródłach. Gdy źródła podają różne
+        daty, liczby czy godziny, nie wybieramy jednej wersji na ślepo: piszemy
+        o tej rozbieżności otwarcie albo formułujemy opis ostrożniej.
       </p>
       <p>
-        Outside of client and product work, I maintain a couple of small open-source tools and write
-        occasional notes on what I learn building them.
+        Długość tekstu zależy od wagi wydarzenia. Drobne epizody opisujemy w
+        kilku akapitach, a przełomowe momenty wojny, wyróżnione na osi czasu,
+        doczekały się obszernych artykułów. Odnośniki prowadzą do polskiej
+        Wikipedii, gdzie można poszerzyć wiedzę o ludziach, miejscach i
+        pojęciach.
+      </p>
+      <p>
+        Projekt jest w toku. Na razie opisaliśmy {progress}, a kolejne miesiące
+        wojny dopisujemy na bieżąco.
+      </p>
+
+      <h2>Autorzy</h2>
+      <p>
+        Artykuły piszą <a href="/autor/lukasz-skowron">Łukasz</a> i <a
+          href="/autor/natalia">Natalia</a
+        >. Pod każdym z tych imion znajdziesz listę jego lub jej tekstów.
       </p>
     </div>
 
-    <div class="mt-10">
-      <p class="text-ink-soft mb-3 font-mono text-xs tracking-[0.2em] uppercase">Tools</p>
-      <ul class="flex flex-wrap gap-2">
-        {
-          tools.map((tool) => (
-            <li class="border-line text-ink-soft rounded-full border px-3 py-1 font-mono text-xs">
-              {tool}
-            </li>
-          ))
-        }
-      </ul>
-    </div>
+    <ul
+      class="border-line mt-10 grid max-w-xl gap-4 border-t pt-6 sm:grid-cols-2"
+    >
+      {
+        sections.map((section) => (
+          <li>
+            <a
+              href={section.href}
+              class="text-ink hover:text-signal font-display text-lg transition-colors"
+            >
+              {section.label} →
+            </a>
+            <p class="text-ink-soft mt-1 text-sm">{section.text}</p>
+          </li>
+        ))
+      }
+    </ul>
 
-    <Button href={`mailto:${SITE.email}`} class="mt-10">Get in touch</Button>
+    <Button href="/timeline" class="mt-10">Przejdź do osi czasu</Button>
   </section>
 </BaseLayout>

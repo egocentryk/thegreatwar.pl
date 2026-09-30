@@ -20,6 +20,33 @@ const homepageTimeline = [...allTimeline]
   })
   .slice(0, 5)
 const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
+
+const allBattles = await getCollection("battles", ({ data }) => !data.draft)
+// Month of the latest entry, e.g. "VI–X 1914": how far the chronicle has got.
+const romanMonths = [
+  "I",
+  "II",
+  "III",
+  "IV",
+  "V",
+  "VI",
+  "VII",
+  "VIII",
+  "IX",
+  "X",
+  "XI",
+  "XII",
+]
+const firstDate = allTimeline.reduce(
+  (min, e) => (e.data.date < min ? e.data.date : min),
+  allTimeline[0].data.date,
+)
+const lastDate = homepageTimeline[0].data.date
+const monthLabel = (d: Date) => romanMonths[d.getUTCMonth()]
+const coveredUntil =
+  firstDate.getUTCFullYear() === lastDate.getUTCFullYear()
+    ? `${monthLabel(firstDate)}–${monthLabel(lastDate)} ${lastDate.getUTCFullYear()}`
+    : `${monthLabel(firstDate)} ${firstDate.getUTCFullYear()} – ${monthLabel(lastDate)} ${lastDate.getUTCFullYear()}`
 ---
 
 <BaseLayout title={SITE.name}>
@@ -39,13 +66,13 @@ const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
     </h1>
 
     <p class="text-ink-soft mt-6 max-w-md">
-      Chronologiczny zapis calego konfliktu z lat 1914-1918, od pierwszych
-      kryzysow po jego zakonczenie.
+      Chronologiczny zapis całego konfliktu z lat 1914–1918, od pierwszych
+      kryzysów po jego zakończenie.
     </p>
 
     <div class="mt-8 flex flex-wrap items-center gap-3">
-      <Button href="/timeline" variant="solid">View the timeline →</Button>
-      <Button href="#contact" variant="ghost">Say hello</Button>
+      <Button href="/timeline" variant="solid">Zobacz oś czasu →</Button>
+      <Button href="#contact" variant="ghost">Napisz do nas</Button>
     </div>
   </section>
 
@@ -75,15 +102,40 @@ const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
   </section>
 
   <section id="about" class="mx-auto max-w-3xl px-6 pb-20">
-    <SectionHeading eyebrow="About" />
-    <p class="text-ink-soft max-w-xl">
-      {SITE.description}
+    <SectionHeading eyebrow="O projekcie" />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
+      Polska kronika Wielkiej Wojny, spisywana dzień po dniu.
     </p>
+    <p class="text-ink-soft mt-6 max-w-xl">
+      Opisujemy wydarzenia z lat 1914–1918 w takiej kolejności, w jakiej
+      rozgrywały się naprawdę: bitwy, decyzje polityczne, rozkazy i losy ludzi.
+      Każdy fakt sprawdzamy w kilku źródłach, a gdy się one różnią, piszemy o
+      tym otwarcie. Szczególną uwagę poświęcamy ziemiom polskim, przez które
+      przetoczyła się znaczna część walk na froncie wschodnim.
+    </p>
+
+    <dl class="border-line mt-8 grid max-w-xl grid-cols-3 gap-4 border-t pt-6">
+      <div>
+        <dt class="text-ink-soft font-mono text-xs">Wydarzenia</dt>
+        <dd class="font-display text-ink mt-1 text-2xl">
+          {allTimeline.length}
+        </dd>
+      </div>
+      <div>
+        <dt class="text-ink-soft font-mono text-xs">Bitwy</dt>
+        <dd class="font-display text-ink mt-1 text-2xl">{allBattles.length}</dd>
+      </div>
+      <div>
+        <dt class="text-ink-soft font-mono text-xs">Opisany okres</dt>
+        <dd class="font-display text-ink mt-1 text-2xl">{coveredUntil}</dd>
+      </div>
+    </dl>
+
     <a
       href="/about"
-      class="text-signal mt-4 inline-block font-mono text-xs hover:underline"
+      class="text-signal mt-6 inline-block font-mono text-xs hover:underline"
     >
-      More about how I work →
+      Więcej o projekcie →
     </a>
   </section>
 

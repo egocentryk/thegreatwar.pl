@@ -32,4 +32,4 @@ Foch dotarł do kwatery Maud'huy w [Aubigny-en-Artois](https://pl.wikipedia.org/
 
 Francuzi obronili Arras, choć front zatrzymał się tuż za wschodnimi przedmieściami miasta, które odtąd było ostrzeliwane przez niemiecką artylerię. Niemcy utrzymali zdobyte wsie na wschód od Arras i zagłębie węglowe wokół Lens, a na przełomie 4 i 5 października walczyli już o wzgórza Vimy. Żadna ze stron nie osiągnęła swojego celu. Francuzi nie obeszli niemieckiego skrzydła, a Niemcy nie zdobyli Arras ani nie obeszli miasta od północy.
 
-Koniec bitwy pod Arras nie oznaczał końca walk w Artois. Lokalne starcia o wsie i wzgórza trwały mniej więcej do 10 października. Obie strony przerzucały tymczasem kolejne korpusy dalej na północ, między Lens a Lille, gdzie wyścig do morza wchodził w następny etap.
+Koniec bitwy pod Arras nie oznaczał końca walk w Artois. Lokalne starcia o wsie i wzgórza trwały jeszcze przez kilka dni, a brytyjska kronika wojny kończy całą bitwę w Artois 12 października. Obie strony przerzucały tymczasem kolejne korpusy dalej na północ, między Lens a Lille, gdzie wyścig do morza wchodził w następny etap.

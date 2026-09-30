@@ -42,6 +42,14 @@ export const BATTLE_PHASES = [
       "Po upadku Liège i odwrocie znad Gete armia belgijska schroniła się w twierdzy Antwerpia, tzw. redukcie narodowej. Stamtąd król Albert I prowadził wypady przeciw skrzydłu i tyłom niemieckich armii maszerujących na Francję, zmuszając Niemców do pozostawienia w Belgii znacznych sił. Pod koniec września Niemcy rozpoczęli oblężenie Antwerpii z użyciem ciężkiej artylerii. Mimo pomocy brytyjskiej twierdza padła 10 października, a armia belgijska wycofała się nad Yser.",
   },
   {
+    slug: "1914-flandria",
+    title: "1914: Walki we Flandrii",
+    front: "Front zachodni",
+    dates: "10 października – 22 listopada 1914",
+    intro:
+      "W październiku 1914 roku wyścig do morza dobiegł końca we Flandrii. Brytyjski Korpus Ekspedycyjny został przerzucony znad Aisne na północ, armia belgijska po upadku Antwerpii wycofała się nad Yser, a Niemcy skierowali tu nowe korpusy rezerwowe, złożone w dużej części z młodych ochotników. Od La Bassée przez Armentières i Messines aż po Ypres i ujście Yseru rozgorzał łańcuch zaciętych bitew, w których każda ze stron próbowała przełamać front lub obejść przeciwnika. Żadnej się to nie udało, a linia okopów sięgnęła Morza Północnego i zastygła na długie lata. Pierwsza bitwa pod Ypres stała się grobem starej, zawodowej armii brytyjskiej.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",

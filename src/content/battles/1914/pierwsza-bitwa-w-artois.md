@@ -1,10 +1,10 @@
 ---
 title: Pierwsza bitwa w Artois
-summary: Etap wyścigu do morza. Od 27 września do 10 października 1914 Francuzi i Niemcy walczyli o Arras, Lens i wzgórza Artois. Front ustalił się tuż pod Arras.
+summary: Etap wyścigu do morza. Od 27 września do 12 października 1914 Francuzi i Niemcy walczyli o Arras, Lens i wzgórza Artois. Front ustalił się tuż pod Arras.
 front: Front zachodni
 phase: 1914-nad-aisne-i-wyscig-do-morza
 startDate: 1914-09-27
-endDate: 1914-10-10
+endDate: 1914-10-12
 location: Artois między Arras, Lens i Douai (wzgórza Vimy i Notre-Dame-de-Lorette), Francja
 sides:
   - name: Francja
@@ -17,11 +17,11 @@ tags: [Francja, Niemcy, wyścig do morza, Arras]
 milestone: false
 ---
 
-Pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois) była kolejnym etapem tak zwanego wyścigu do morza, czyli serii prób obejścia skrzydła przeciwnika, które jesienią 1914 roku przesuwały front zachodni coraz dalej na północ. Toczyła się w dniach 27 września – 10 października 1914 roku wokół [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), [Lens](https://pl.wikipedia.org/wiki/Lens) i wzgórz na północ od miasta. Francuskie zgrupowanie generała Louisa de Maud'huy, z którego w czasie bitwy powstała 10 Armia, zamiast obejść Niemców musiało bronić się przed natarciem niemieckiej 6 Armii. Arras pozostało w rękach francuskich, ale Niemcy zajęli Lens oraz wzgórza Vimy i Lorette, z których przez następne lata panowali nad okolicą.
+Pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois) była kolejnym etapem tak zwanego wyścigu do morza, czyli serii prób obejścia skrzydła przeciwnika, które jesienią 1914 roku przesuwały front zachodni coraz dalej na północ. Toczyła się w dniach 27 września – 12 października 1914 roku wokół [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), [Lens](https://pl.wikipedia.org/wiki/Lens) i wzgórz na północ od miasta. Francuskie zgrupowanie generała Louisa de Maud'huy, z którego w czasie bitwy powstała 10 Armia, zamiast obejść Niemców musiało bronić się przed natarciem niemieckiej 6 Armii. Arras pozostało w rękach francuskich, ale Niemcy zajęli Lens oraz wzgórza Vimy i Lorette, z których przez następne lata panowali nad okolicą.
 
 ## Nazwa i daty bitwy
 
-Walki pod Arras jesienią 1914 roku opisuje się w literaturze pod różnymi nazwami i z różnymi datami. Na tej stronie przyjmujemy daty 27 września – 10 października, podawane przez brytyjski serwis greatwar.co.uk i część anglojęzycznych opracowań, które nazywają te walki pierwszą bitwą w Artois. Francuskie i brytyjskie źródła wyróżniają w nich zwykle najcięższą fazę, zwaną bitwą pod Arras, datowaną najczęściej na 1–4 października. Polska Wikipedia podaje dla bitwy pod Arras daty 2–9 października, a francuskie opisy działań 10 Armii wymieniają intensywne walki na tym odcinku w dniach 1–11 października.
+Walki pod Arras jesienią 1914 roku opisuje się w literaturze pod różnymi nazwami i z różnymi datami. Na tej stronie przyjmujemy daty 27 września – 12 października, za brytyjską chronologią wojny, na której opiera się nasza oś czasu. Nazwę „pierwsza bitwa w Artois” podaje też brytyjski serwis greatwar.co.uk i część anglojęzycznych opracowań, ale greatwar.co.uk kończy bitwę 10 października. Francuskie i brytyjskie źródła wyróżniają w nich zwykle najcięższą fazę, zwaną bitwą pod Arras, datowaną najczęściej na 1–4 października. Polska Wikipedia podaje dla bitwy pod Arras daty 2–9 października, a francuskie opisy działań 10 Armii wymieniają intensywne walki na tym odcinku w dniach 1–11 października.
 
 Nazwa „pierwsza bitwa w Artois” bywa też używana inaczej. Wiele opracowań, w tym anglojęzyczna Wikipedia, stosuje ją do francuskiej ofensywy z przełomu grudnia 1914 i stycznia 1915 roku. W tym ujęciu walki z przełomu września i października 1914 roku to bitwa pod Arras, a kolejne wielkie bitwy w Artois stoczono w maju i we wrześniu 1915 roku.
 
@@ -43,7 +43,7 @@ Po stronie niemieckiej szef sztabu generalnego, [Erich von Falkenhayn](https://p
 
 **4–6 października.** Joffre zareagował stanowczo. Wyłączył zgrupowanie Maud'huy spod dowództwa Castelnau i przekształcił je w samodzielną 10 Armię. Źródła francuskie datują jej utworzenie na 5 października. Zarówno Maud'huy, jak i Castelnau otrzymali zakaz wycofania się. Na zastępcę naczelnego wodza, odpowiedzialnego za koordynację armii na północ od Oise, Joffre wyznaczył generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), który natychmiast objechał swoje nowe dowództwo. 5 października Niemcy zajęli wzgórze [Notre-Dame-de-Lorette](https://pl.wikipedia.org/wiki/Notre-Dame-de-Lorette) na północny zachód od Arras. Do 6 października kryzys minął. Front 10 Armii ustabilizował się tuż za wschodnimi przedmieściami Arras i na zboczach wzgórz Vimy i Lorette.
 
-**6–10 października.** 6 października niemiecka artyleria zaczęła systematycznie ostrzeliwać Arras. Walki o pojedyncze wsie i wzgórza trwały dalej. Według części źródeł 9 października francuska piechota odbiła rejon kaplicy na wzgórzu Lorette. Tymczasem obie strony przerzucały kolejne siły dalej na północ, między Lens a Lille. Od 10 października główny ciężar walk przeniósł się pod [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée), a wkrótce do Flandrii.
+**6–12 października.** 6 października niemiecka artyleria zaczęła systematycznie ostrzeliwać Arras. Walki o pojedyncze wsie i wzgórza trwały dalej. Francuska piechota odbiła rejon kaplicy na wzgórzu Lorette, według części źródeł 9 października, według innych 12 października. Tymczasem obie strony przerzucały kolejne siły dalej na północ, między Lens a Lille. Od 10 października główny ciężar walk przeniósł się pod [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée), a wkrótce do Flandrii.
 
 ## Straty
 
