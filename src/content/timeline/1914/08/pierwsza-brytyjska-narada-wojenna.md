@@ -14,7 +14,7 @@ draft: false
 
 ## Kto zasiadł przy stole
 
-W naradzie wzięli udział między innymi minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey), Pierwszy Lord Admiralicji [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill) i lord [Richard Haldane](https://pl.wikipedia.org/wiki/Richard_Haldane). Stronę wojskową reprezentowali marszałek lord [Frederick Roberts](https://pl.wikipedia.org/wiki/Frederick_Roberts), naczelny dowódca korpusu ekspedycyjnego marszałek [John French](https://pl.wikipedia.org/wiki/John_French), generał [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) i inni wyżsi oficerowie. Obecny był także marszałek lord Kitchener, który tego samego dnia został ministrem wojny.
+W naradzie wzięli udział między innymi minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey), Pierwszy Lord Admiralicji [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill) i lord [Richard Haldane](https://pl.wikipedia.org/wiki/Richard_Haldane). Stronę wojskową reprezentowali marszałek lord [Frederick Roberts](https://pl.wikipedia.org/wiki/Frederick_Roberts), naczelny dowódca korpusu ekspedycyjnego marszałek [John French](https://pl.wikipedia.org/wiki/John_French), generał [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) i inni wyżsi oficerowie. Obecny był także marszałek [lord Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener), który tego samego dnia został ministrem wojny.
 
 ## Gdzie wysłać armię
 

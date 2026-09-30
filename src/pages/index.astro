@@ -50,7 +50,10 @@ const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
   </section>
 
   <section id="timeline" class="mx-auto max-w-3xl px-6 pb-20">
-    <SectionHeading eyebrow="Selected timeline" count={allTimeline.length} />
+    <SectionHeading
+      eyebrow="Ostatnio dodane wydarzenia"
+      count={allTimeline.length}
+    />
     <TimelineArchive
       timelineByYear={homepageTimelineByYear}
       renderAllYears={true}

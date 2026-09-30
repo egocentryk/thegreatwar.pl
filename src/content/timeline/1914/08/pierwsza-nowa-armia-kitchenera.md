@@ -14,7 +14,7 @@ draft: false
 
 ## Wizja Kitchenera
 
-Przed wojną [armia brytyjska](https://pl.wikipedia.org/wiki/British_Army) była niewielką armią zawodową, rozproszoną po całym imperium. Nowy minister wojny, lord Herbert Kitchener, w przeciwieństwie do większości polityków nie wierzył w krótką wojnę. Uważał, że potrwa ona latami, a Wielka Brytania będzie musiała wystawić armię liczoną w milionach żołnierzy. 7 sierpnia ogłosił apel o pierwszych sto tysięcy ochotników w wieku od 19 do 30 lat.
+Przed wojną [armia brytyjska](https://pl.wikipedia.org/wiki/British_Army) była niewielką armią zawodową, rozproszoną po całym imperium. Nowy minister wojny, [lord Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener), w przeciwieństwie do większości polityków nie wierzył w krótką wojnę. Uważał, że potrwa ona latami, a Wielka Brytania będzie musiała wystawić armię liczoną w milionach żołnierzy. 7 sierpnia ogłosił apel o pierwszych sto tysięcy ochotników w wieku od 19 do 30 lat.
 
 Odzew przerósł oczekiwania. Pod biurami werbunkowymi ustawiały się długie kolejki, a pod koniec sierpnia i na początku września do wojska zgłaszało się nawet kilkadziesiąt tysięcy ludzi dziennie.
 

@@ -33,7 +33,7 @@ Brytyjska chronologia wojny notuje okrążenie twierdzy pod datą 25 sierpnia. T
 
 29 sierpnia, po południu, Niemcy rozpoczęli bombardowanie fortów po północno-wschodniej stronie twierdzy. Użyli tej samej broni co w Belgii: niemieckich moździerzy kalibru 420 mm i austro-węgierskich moździerzy Škody kalibru 305 mm, a także licznych dział mniejszego kalibru. Pociski przebijały stropy fortów, niszcząc stanowiska i zabijając obrońców. Francuska załoga próbowała wypadów, ale nie zdołała przerwać okrążenia.
 
-Od 3–4 września ostrzał się nasilił. Kolejne forty i umocnienia padały jeden po drugim, a niemiecka piechota wdzierała się przez wyłomy w pierścieniu obrony. 7 września, gdy większość fortów po północno-wschodniej stronie była zniszczona, generał Fournier poprosił o rozejm i rozpoczął rokowania o kapitulację. Weszła ona w życie w południe 8 września.
+Od 3–4 września ostrzał się nasilił. Kolejne forty i umocnienia padały jeden po drugim, a niemiecka piechota wdzierała się przez wyłomy w pierścieniu obrony. 7 września, gdy większość fortów po północno-wschodniej stronie była zniszczona, generał Fournier poprosił o rozejm i rozpoczął rokowania o kapitulację. Twierdzę przekazano Niemcom 8 września (według różnych źródeł rano lub w południe).
 
 ## Straty
 

@@ -18,6 +18,22 @@ export const BATTLE_PHASES = [
       "Po klęskach w bitwach granicznych armie francuskie i Brytyjski Korpus Ekspedycyjny zaczęły się wycofywać na południe, w kierunku Paryża i Marny. Niemieckie prawe skrzydło parło za nimi w wielkim pościgu, próbując okrążyć sprzymierzonych. Odwrót nie był jednak bezładną ucieczką. Wycofujące się wojska stoczyły szereg bitew opóźniających, pod Le Cateau, nad Mozą i pod Guise, a w Lotaryngii Francuzi zatrzymali Niemców przed Nancy. Dzięki temu Joffre zdołał przegrupować siły i utworzyć nową armię, która na początku września przeszła do kontrofensywy nad Marną.",
   },
   {
+    slug: "1914-bitwa-nad-marna",
+    title: "1914: Bitwa nad Marną",
+    front: "Front zachodni",
+    dates: "4–13 września 1914",
+    intro:
+      "Na początku września niemieckie armie stanęły kilkadziesiąt kilometrów od Paryża. Niemieckie prawe skrzydło, zamiast obejść stolicę od zachodu, skręciło na wschód od niej, odsłaniając swoją flankę. Joffre wykorzystał tę okazję. 5 września nowa francuska 6 Armia uderzyła znad Paryża nad rzeką Ourcq, a następnego dnia do kontrofensywy przeszły wszystkie armie sprzymierzonych, razem z Brytyjskim Korpusem Ekspedycyjnym. Równocześnie w Lotaryngii Francuzi odparli niemieckie natarcie na Nancy. Po kilku dniach zaciętych walk Niemcy zaczęli się wycofywać nad Aisne. Plan szybkiego zwycięstwa na zachodzie upadł, a wojna zaczęła zmieniać się w długotrwałe zmagania.",
+  },
+  {
+    slug: "1914-nad-aisne-i-wyscig-do-morza",
+    title: "1914: Nad Aisne i wyścig do morza",
+    front: "Front zachodni",
+    dates: "12 września – październik 1914",
+    intro:
+      "Po klęsce nad Marną armie niemieckie wycofały się na północ i okopały na wzgórzach nad rzeką Aisne, zwłaszcza na grzbiecie Chemin des Dames. Nacierający Francuzi i Brytyjczycy nie zdołali ich stamtąd zepchnąć. Obie strony zaczęły budować coraz rozleglejsze okopy, a front na tym odcinku zastygł na lata. Następnie każda ze stron próbowała obejść przeciwnika od północy. Seria kolejnych starć, nazwana wyścigiem do morza, przesuwała front ku wybrzeżu, aż w październiku linia okopów sięgnęła Morza Północnego.",
+  },
+  {
     slug: "1914-obrona-antwerpii",
     title: "1914: Armia belgijska i obrona Antwerpii",
     front: "Front zachodni",
@@ -34,10 +50,18 @@ export const BATTLE_PHASES = [
       "Wojna zaczęła się od konfliktu Austro-Węgier z Serbią, a Wiedeń liczył na szybką rozprawę z sąsiadem. 12 sierpnia wojska austro-węgierskie przekroczyły Drinę i Sawę. Serbska armia, dowodzona przez wojewodę Radomira Putnika, choć słabiej uzbrojona, miała doświadczenie z wojen bałkańskich i dobrze znała teren. W ciągu dwóch tygodni rozbiła najeźdźców w bitwie na górze Cer i wyparła ich za rzeki, odnosząc pierwsze zwycięstwo aliantów w tej wojnie.",
   },
   {
+    slug: "1914-druga-inwazja-na-serbie",
+    title: "1914: Druga inwazja na Serbię",
+    front: "Front bałkański",
+    dates: "6 września – 4 października 1914",
+    intro:
+      "Na początku września, pod naciskiem Rosji, armia serbska przeszła do ofensywy i wkroczyła na terytorium Austro-Węgier, do Sremu. Równocześnie generał Potiorek rozpoczął drugą inwazję na Serbię przez Drinę. Serbowie musieli przerwać ofensywę i zawrócić wojska na zagrożony front. W górach nad Driną rozgorzały zacięte, wielotygodniowe walki, w których obie strony poniosły ogromne straty. Austro-Węgrom udało się utrzymać przyczółki na serbskim brzegu, ale nie zdołały rozbić armii serbskiej. Na froncie nastąpił okres wyczerpującej wojny pozycyjnej.",
+  },
+  {
     slug: "1914-prusy-wschodnie",
     title: "1914: Walki w Prusach Wschodnich",
     front: "Front wschodni",
-    dates: "17 sierpnia – 15 września 1914",
+    dates: "17 sierpnia – 29 września 1914",
     intro:
       "Rosja, zobowiązana wobec Francji do szybkiej ofensywy, uderzyła na Prusy Wschodnie już w połowie sierpnia, zanim zakończyła mobilizację. Od wschodu nacierała 1 Armia generała Rennenkampfa, od południa, z Królestwa Polskiego, 2 Armia generała Samsonowa. Broniła się niemiecka 8 Armia. Po początkowym sukcesie Rosjan pod Gąbinem Niemcy, pod nowym dowództwem Hindenburga i Ludendorffa, rozbili armię Samsonowa pod Tannenbergiem, a następnie wyparli Rennenkampfa znad jezior mazurskich. Rosyjska ofensywa zmusiła jednak Niemców do przerzucenia na wschód części sił z frontu zachodniego.",
   },
@@ -48,6 +72,22 @@ export const BATTLE_PHASES = [
     dates: "23 sierpnia – 11 września 1914",
     intro:
       "Równocześnie z walkami w Prusach Wschodnich na południu frontu starły się główne siły Austro-Węgier i Rosji. Armie austro-węgierskie uderzyły z Galicji na północ, na ziemie Królestwa Polskiego, i odniosły początkowe zwycięstwa pod Kraśnikiem i Komarowem. W tym samym czasie Rosjanie nacierali od wschodu na Lwów, który zajęli na początku września. Zagrożone okrążeniem wojska austro-węgierskie wycofały się za San, pozostawiając oblężoną twierdzę Przemyśl. Była to jedna z największych bitew całej wojny, a większość walk toczyła się na ziemiach polskich.",
+  },
+  {
+    slug: "1914-daleki-wschod-i-pacyfik",
+    title: "1914: Daleki Wschód i Pacyfik",
+    front: "Azja i Pacyfik",
+    dates: "sierpień – listopad 1914",
+    intro:
+      "Wojna szybko dotarła do Azji i na Pacyfik, gdzie Niemcy posiadały dzierżawę Kiautschou z portem Tsingtao oraz liczne wyspy. Japonia, sojuszniczka Wielkiej Brytanii, wypowiedziała Niemcom wojnę i obległa Tsingtao, a jej flota zajęła niemieckie wyspy na północ od równika. Na południe od równika niemieckie kolonie zajęły wojska Australii i Nowej Zelandii. Do końca 1914 roku Niemcy straciły wszystkie posiadłości na Dalekim Wschodzie i Pacyfiku.",
+  },
+  {
+    slug: "1914-przemysl-san-i-wisla",
+    title: "1914: Przemyśl, San i Wisła",
+    front: "Front wschodni",
+    dates: "wrzesień – listopad 1914",
+    intro:
+      "Po klęsce w bitwie galicyjskiej armie austro-węgierskie wycofały się za San i dalej na zachód, pozostawiając w okrążeniu twierdzę Przemyśl. Rosjanie wkroczyli w głąb Galicji i do przełęczy karpackich. Na pomoc sojusznikowi Niemcy utworzyły na Śląsku nową 9 Armię, która na przełomie września i października uderzyła przez ziemie Królestwa Polskiego na Warszawę i Dęblin. Jesienią 1914 roku na ziemiach polskich toczyły się wielkie bitwy nad Wisłą i Sanem, a Przemyśl został na krótko odblokowany, by wkrótce znów znaleźć się w oblężeniu.",
   },
   {
     slug: "1914-wojna-na-morzu",

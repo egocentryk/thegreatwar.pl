@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 sierpnia 1914 roku marszałek polny lord Herbert Kitchener objął urząd brytyjskiego ministra wojny. Nominację otrzymał dzień wcześniej, a teraz zastąpił w ministerstwie premiera [Herberta Henry'ego Asquitha](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith), który kierował resortem od 30 marca 1914 roku.
+6 sierpnia 1914 roku marszałek polny [lord Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) objął urząd brytyjskiego ministra wojny. Nominację otrzymał dzień wcześniej, a teraz zastąpił w ministerstwie premiera [Herberta Henry'ego Asquitha](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith), który kierował resortem od 30 marca 1914 roku.
 
 ## Premier w ministerstwie wojny
 
