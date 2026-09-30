@@ -13,7 +13,10 @@ const { title: pageTitle, description: pageDescription, image } = Astro.props;
 
 const fullTitle = pageTitle.includes(SITE.name) ? pageTitle : `${pageTitle} · ${SITE.name}`;
 const description = pageDescription || SITE.description;
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+// Static builds give directory-style paths ("/timeline/"); the site uses URLs
+// without a trailing slash, so strip it (except for the root "/").
+const canonicalPath = Astro.url.pathname.replace(/(.)\/+$/, '$1');
+const canonicalURL = new URL(canonicalPath, Astro.site);
 const socialImage = new URL(image || '/og-image.png', Astro.site);
 ---
 

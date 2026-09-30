@@ -10,6 +10,10 @@ const SITE_URL = 'https://thegreatwar.pl';
 export default defineConfig({
   site: SITE_URL,
 
+  // URLs never end with "/" (canonical, og:url, sitemap, dev server).
+  // vercel.json redirects "/path/" to "/path" in production.
+  trailingSlash: 'never',
+
   integrations: [sitemap()],
 
   // Prefetches internal links on hover/viewport entry for near-instant navigation.

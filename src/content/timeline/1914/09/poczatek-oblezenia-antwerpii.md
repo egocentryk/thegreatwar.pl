@@ -34,7 +34,7 @@ Po kapitulacji Maubeuge 7 września Niemcy mogli przerzucić pod Antwerpię cię
 
 ## Uderzenie na południowy odcinek
 
-Beseler nie zamierzał otaczać całej twierdzy. Postanowił uderzyć na jej południowo-wschodni odcinek, między [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) a [Lier](https://pl.wikipedia.org/wiki/Lier_(Belgia)), przełamać tam pierścień fortów, sforsować rzekę [Nete](https://pl.wikipedia.org/wiki/Nete) i zbliżyć się na odległość, z której jego działa dosięgną samego miasta. 27 września niemieckie oddziały ruszyły naprzód, spychając belgijskie placówki przed linią fortów, a artylerzyści ustawiali ciężkie działa na stanowiskach.
+Beseler nie zamierzał otaczać całej twierdzy. Postanowił uderzyć na jej południowo-wschodni odcinek, między [Mechelen](https://pl.wikipedia.org/wiki/Mechelen) a [Lier](https://pl.wikipedia.org/wiki/Lier_(Belgia)), przełamać tam pierścień fortów, sforsować rzekę [Nete](https://pl.wikipedia.org/wiki/Nete_(rzeka)) i zbliżyć się na odległość, z której jego działa dosięgną samego miasta. 27 września niemieckie oddziały ruszyły naprzód, spychając belgijskie placówki przed linią fortów, a artylerzyści ustawiali ciężkie działa na stanowiskach.
 
 28 września zaczęło się bombardowanie. Pierwszymi celami były forty Walem i [Sint-Katelijne-Waver](https://pl.wikipedia.org/wiki/Sint-Katelijne-Waver) oraz sąsiednie reduty. Ciężkie pociski przebijały sklepienia, niszczyły kopuły pancerne i magazyny amunicji. W ciągu kilku dni kolejne forty zewnętrznego pierścienia zamieniły się w ruiny, a ich załogi musiały je opuszczać.
 
