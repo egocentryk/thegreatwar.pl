@@ -9,6 +9,54 @@ export const BATTLE_PHASES = [
     intro:
       "W pierwszych tygodniach wojny na zachodzie zderzyły się dwa plany. Niemcy, zgodnie z planem Schlieffena, uderzyły przez Belgię, by obejść francuskie fortyfikacje i okrążyć armię francuską. Francja, realizując własny plan ofensywny, zaatakowała w Alzacji i Lotaryngii, a następnie w Ardenach. Po oporze Belgów pod Liège seria krwawych starć na granicach zakończyła się klęską Francuzów i Brytyjczyków, którzy rozpoczęli wielki odwrót w kierunku Marny.",
   },
+  {
+    slug: "1914-wielki-odwrot",
+    title: "1914: Wielki odwrót",
+    front: "Front zachodni",
+    dates: "24 sierpnia – 5 września 1914",
+    intro:
+      "Po klęskach w bitwach granicznych armie francuskie i Brytyjski Korpus Ekspedycyjny zaczęły się wycofywać na południe, w kierunku Paryża i Marny. Niemieckie prawe skrzydło parło za nimi w wielkim pościgu, próbując okrążyć sprzymierzonych. Odwrót nie był jednak bezładną ucieczką. Wycofujące się wojska stoczyły szereg bitew opóźniających, pod Le Cateau, nad Mozą i pod Guise, a w Lotaryngii Francuzi zatrzymali Niemców przed Nancy. Dzięki temu Joffre zdołał przegrupować siły i utworzyć nową armię, która na początku września przeszła do kontrofensywy nad Marną.",
+  },
+  {
+    slug: "1914-obrona-antwerpii",
+    title: "1914: Armia belgijska i obrona Antwerpii",
+    front: "Front zachodni",
+    dates: "18 sierpnia – 10 października 1914",
+    intro:
+      "Po upadku Liège i odwrocie znad Gete armia belgijska schroniła się w twierdzy Antwerpia, tzw. redukcie narodowej. Stamtąd król Albert I prowadził wypady przeciw skrzydłu i tyłom niemieckich armii maszerujących na Francję, zmuszając Niemców do pozostawienia w Belgii znacznych sił. Pod koniec września Niemcy rozpoczęli oblężenie Antwerpii z użyciem ciężkiej artylerii. Mimo pomocy brytyjskiej twierdza padła 10 października, a armia belgijska wycofała się nad Yser.",
+  },
+  {
+    slug: "1914-pierwsza-inwazja-na-serbie",
+    title: "1914: Pierwsza inwazja na Serbię",
+    front: "Front bałkański",
+    dates: "12–24 sierpnia 1914",
+    intro:
+      "Wojna zaczęła się od konfliktu Austro-Węgier z Serbią, a Wiedeń liczył na szybką rozprawę z sąsiadem. 12 sierpnia wojska austro-węgierskie przekroczyły Drinę i Sawę. Serbska armia, dowodzona przez wojewodę Radomira Putnika, choć słabiej uzbrojona, miała doświadczenie z wojen bałkańskich i dobrze znała teren. W ciągu dwóch tygodni rozbiła najeźdźców w bitwie na górze Cer i wyparła ich za rzeki, odnosząc pierwsze zwycięstwo aliantów w tej wojnie.",
+  },
+  {
+    slug: "1914-prusy-wschodnie",
+    title: "1914: Walki w Prusach Wschodnich",
+    front: "Front wschodni",
+    dates: "17 sierpnia – 15 września 1914",
+    intro:
+      "Rosja, zobowiązana wobec Francji do szybkiej ofensywy, uderzyła na Prusy Wschodnie już w połowie sierpnia, zanim zakończyła mobilizację. Od wschodu nacierała 1 Armia generała Rennenkampfa, od południa, z Królestwa Polskiego, 2 Armia generała Samsonowa. Broniła się niemiecka 8 Armia. Po początkowym sukcesie Rosjan pod Gąbinem Niemcy, pod nowym dowództwem Hindenburga i Ludendorffa, rozbili armię Samsonowa pod Tannenbergiem, a następnie wyparli Rennenkampfa znad jezior mazurskich. Rosyjska ofensywa zmusiła jednak Niemców do przerzucenia na wschód części sił z frontu zachodniego.",
+  },
+  {
+    slug: "1914-bitwa-galicyjska",
+    title: "1914: Bitwa galicyjska",
+    front: "Front wschodni",
+    dates: "23 sierpnia – 11 września 1914",
+    intro:
+      "Równocześnie z walkami w Prusach Wschodnich na południu frontu starły się główne siły Austro-Węgier i Rosji. Armie austro-węgierskie uderzyły z Galicji na północ, na ziemie Królestwa Polskiego, i odniosły początkowe zwycięstwa pod Kraśnikiem i Komarowem. W tym samym czasie Rosjanie nacierali od wschodu na Lwów, który zajęli na początku września. Zagrożone okrążeniem wojska austro-węgierskie wycofały się za San, pozostawiając oblężoną twierdzę Przemyśl. Była to jedna z największych bitew całej wojny, a większość walk toczyła się na ziemiach polskich.",
+  },
+  {
+    slug: "1914-wojna-na-morzu",
+    title: "1914: Wojna na morzu",
+    front: "Wojna na morzu",
+    dates: "sierpień – grudzień 1914",
+    intro:
+      "Przed wojną Wielka Brytania i Niemcy toczyły wyścig zbrojeń morskich, a obie strony spodziewały się wielkiej bitwy flot na Morzu Północnym. Do niej nie doszło. Brytyjska Grand Fleet zablokowała wyjścia z Morza Północnego, a niemiecka Flota Pełnomorska unikała otwartej walki z silniejszym przeciwnikiem. Zamiast tego rozgrywały się mniejsze starcia krążowników i niszczycieli, pościgi za niemieckimi rajderami na oceanach oraz pierwsze ataki okrętów podwodnych, które szybko pokazały, jak groźną stały się bronią.",
+  },
 ] as const
 
 export type BattlePhaseSlug = (typeof BATTLE_PHASES)[number]["slug"]

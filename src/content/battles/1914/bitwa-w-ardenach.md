@@ -4,7 +4,7 @@ summary: W zalesionych Ardenach francuskie armie zderzyły się z silniejszymi w
 front: Front zachodni
 phase: 1914-pierwsze-starcia
 startDate: 1914-08-21
-endDate: 1914-08-23
+endDate: 1914-08-24
 location: Ardeny, belgijska prowincja Luksemburg i pogranicze francuskie
 sides:
   - name: Francja
@@ -16,7 +16,7 @@ authors: [Łukasz Skowroń]
 tags: [Ardeny, Francja, Niemcy]
 ---
 
-Bitwa w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny), stoczona w dniach 21–23 sierpnia 1914 roku, była jednym z najkrwawszych epizodów [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)). W jej trakcie przypadł 22 sierpnia, dzień, w którym armia francuska poniosła największe straty w całej swojej historii.
+Bitwa w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny), stoczona w dniach 21–24 sierpnia 1914 roku, była jednym z najkrwawszych epizodów [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)). W jej trakcie przypadł 22 sierpnia, dzień, w którym armia francuska poniosła największe straty w całej swojej historii.
 
 ## Uderzenie w ciemno
 
@@ -32,7 +32,9 @@ Szczególnie ciężkie straty poniósł Korpus Kolonialny pod Rossignol, gdzie n
 
 ## Odwrót
 
-23 sierpnia francuskie armie zaczęły się wycofywać za [Mozę](https://pl.wikipedia.org/wiki/Moza). Klęska w Ardenach zbiegła się z porażkami pod Charleroi i Mons, co zmusiło całe lewe skrzydło wojsk sprzymierzonych do wielkiego odwrotu. Joffre obarczył odpowiedzialnością część dowódców: pod koniec sierpnia usunął między innymi generała Ruffeya.
+23 sierpnia francuskie armie zaczęły się wycofywać, prowadząc walki opóźniające. 24 sierpnia Joffre nakazał 4 Armii odwrót za [Mozę](https://pl.wikipedia.org/wiki/Moza), a 3 Armia, po nieudanej próbie kontrataku prawym skrzydłem, również cofnęła się w stronę rzeki i Verdun. W literaturze anglojęzycznej bitwę datuje się zwykle na 21–23 sierpnia, ale francuskie historie pułków obejmują nią także walki z 24 sierpnia, a Gabriel Hanotaux w 1917 roku przedłużał ją do 25 sierpnia. Więcej o ostatnim dniu walk piszemy w artykule [Koniec bitwy w Ardenach](/koniec-bitwy-w-ardenach).
+
+Klęska w Ardenach zbiegła się z porażkami pod Charleroi i Mons, co zmusiło całe lewe skrzydło wojsk sprzymierzonych do wielkiego odwrotu. Joffre obarczył odpowiedzialnością część dowódców: pod koniec sierpnia usunął między innymi generała Ruffeya. Kilka dni później 4 Armia stawiła Niemcom zacięty opór w [bitwie nad Mozą](/bitwy/bitwa-nad-moza).
 
 ## Znaczenie
 
