@@ -106,11 +106,11 @@
 .prose :where(h2, h3, h4) {
   font-family: var(--font-display);
 }
-.prose :where(a) {
+.prose :where(a):not(:where(.not-prose *)) {
   text-decoration: none;
   transition: color 150ms ease;
 }
 
-.prose :where(a:hover) {
+.prose :where(a:hover):not(:where(.not-prose *)) {
   color: var(--color-ink);
 }

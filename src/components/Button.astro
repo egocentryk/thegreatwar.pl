@@ -1,23 +1,31 @@
 ---
 interface Props {
   href?: string;
-  variant?: 'solid' | 'ghost';
+  target?: string;
+  rel?: string;
+  variant?: 'solid' | 'ghost' | 'accent';
+  size?: 'md' | 'responsive';
   class?: string;
 }
 
-const { href, variant = 'solid', class: className } = Astro.props;
+const { href, target, rel, variant = 'solid', size = 'md', class: className } = Astro.props;
 
-const base =
-  'inline-flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-medium transition-colors';
+const base = 'inline-flex items-center gap-2 rounded-full font-medium transition-colors';
+const sizes = {
+  md: 'px-5 py-2.5 text-sm',
+  // Smaller on phones, regular from the `sm` breakpoint up.
+  responsive: 'px-3.5 py-1.5 text-xs sm:px-5 sm:py-2.5 sm:text-sm',
+};
 const variants = {
   solid: 'bg-ink text-paper hover:bg-signal',
   ghost: 'border border-line text-ink hover:border-signal hover:text-signal',
+  accent: 'bg-signal text-white hover:bg-ink hover:text-paper',
 };
 
-const classes = [base, variants[variant], className].filter(Boolean).join(' ');
+const classes = [base, sizes[size], variants[variant], className].filter(Boolean).join(' ');
 const Tag = href ? 'a' : 'button';
 ---
 
-<Tag class={classes} href={href}>
+<Tag class={classes} href={href} target={target} rel={rel}>
   <slot />
 </Tag>

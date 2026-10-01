@@ -57,7 +57,7 @@ Według badań serbskiego historyka Danila Šarenaca w chwili rozpoczęcia kontr
 
 6 grudnia Potiorek nakazał 6 Armii odwrót za Kolubarę, a dwa dni później dalej na zachód. Odwrót szybko zamienił się w ucieczkę. Austro-Węgrzy porzucali działa, tabory i rannych, tysiące żołnierzy dostawały się do niewoli. 7–8 grudnia Serbowie odzyskali Valjevo, a wkrótce potem także [Užice](https://pl.wikipedia.org/wiki/Užice). Resztki 6 Armii wycofały się za Drinę do Bośni.
 
-Dłużej broniła się 5 Armia w rejonie Belgradu, gdzie próbowała jeszcze kontratakować. Oddziały obrony stolicy i 2 Armia Stepanovicia odepchnęły ją jednak ku miastu. 13 grudnia generał Frank uznał, że Belgradu nie da się utrzymać. W nocy z 14 na 15 grudnia, pod osłoną ciemności i rzecznych monitorów, ostatnie oddziały austro-węgierskie przeprawiły się przez [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), a 15 grudnia do stolicy wkroczyli Serbowie. Serbia została oczyszczona z wojsk najeźdźcy.
+Dłużej broniła się 5 Armia w rejonie Belgradu, gdzie próbowała jeszcze kontratakować. Oddziały obrony stolicy i 2 Armia Stepanovicia odepchnęły ją jednak ku miastu. 13 grudnia generał Frank meldował, że nie może zagwarantować ani utrzymania Belgradu, ani bezpiecznego odwrotu, a następnego dnia zapadła decyzja o opuszczeniu miasta. W nocy z 14 na 15 grudnia, pod osłoną ciemności i rzecznych monitorów, ostatnie oddziały austro-węgierskie przeprawiły się przez [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), a 15 grudnia do stolicy wkroczyli Serbowie. Serbia została oczyszczona z wojsk najeźdźcy.
 
 ## Straty
 

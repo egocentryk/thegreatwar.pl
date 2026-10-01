@@ -50,6 +50,14 @@ export const BATTLE_PHASES = [
       "W październiku 1914 roku wyścig do morza dobiegł końca we Flandrii. Brytyjski Korpus Ekspedycyjny został przerzucony znad Aisne na północ, armia belgijska po upadku Antwerpii wycofała się nad Yser, a Niemcy skierowali tu nowe korpusy rezerwowe, złożone w dużej części z młodych ochotników. Od La Bassée przez Armentières i Messines aż po Ypres i ujście Yseru rozgorzał łańcuch zaciętych bitew, w których każda ze stron próbowała przełamać front lub obejść przeciwnika. Żadnej się to nie udało, a linia okopów sięgnęła Morza Północnego i zastygła na długie lata. Pierwsza bitwa pod Ypres stała się grobem starej, zawodowej armii brytyjskiej.",
   },
   {
+    slug: "1914-zima-na-froncie-zachodnim",
+    title: "1914–1915: Zimowe ofensywy na froncie zachodnim",
+    front: "Front zachodni",
+    dates: "grudzień 1914 – marzec 1915",
+    intro:
+      "Gdy pod koniec listopada 1914 roku wygasły walki pod Ypres, front zachodni ciągnął się już nieprzerwaną linią okopów od Morza Północnego po granicę szwajcarską. Generał Joffre nie zamierzał jednak czekać do wiosny. Uważał, że Niemcy, przerzucając wojska na wschód, osłabili front we Francji, a sojusznicy na wschodzie potrzebują odciążenia. W grudniu Francuzi i Brytyjczycy uderzyli we Flandrii i w Artois, a przede wszystkim w Szampanii, gdzie rozpoczęła się pierwsza wielka ofensywa przeciw umocnionym pozycjom. Zimowe natarcia w błocie i deszczu przyniosły ciężkie straty i znikome zdobycze terenu. Pokazały, jak trudno przełamać front obsadzony karabinami maszynowymi i osłonięty zasiekami.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
@@ -109,9 +117,9 @@ export const BATTLE_PHASES = [
     slug: "1914-lodz-i-krakow",
     title: "1914: Bitwy pod Łodzią i Krakowem",
     front: "Front wschodni",
-    dates: "listopad – grudzień 1914",
+    dates: "listopad 1914 – lipiec 1915",
     intro:
-      "Po niepowodzeniu jesiennej ofensywy nad Wisłą i Sanem armie państw centralnych wycofały się na zachód, a Rosjanie ruszyli w pościg, szykując uderzenie na Śląsk i Kraków. Hindenburg i Ludendorff uprzedzili ich zamiar. Przerzucili koleją 9 Armię na północ, w rejon Torunia, i uderzyli w bok rosyjskich armii, co doprowadziło do zaciętej bitwy pod Łodzią. W tym samym czasie na południu Rosjanie podeszli pod Kraków, a twierdza szykowała się do oblężenia. Walki toczone w listopadzie i grudniu 1914 roku na ziemiach polskich zatrzymały rosyjski marsz na zachód, a front na wschodzie zaczął zastygać w okopach.",
+      "Po niepowodzeniu jesiennej ofensywy nad Wisłą i Sanem armie państw centralnych wycofały się na zachód, a Rosjanie ruszyli w pościg, szykując uderzenie na Śląsk i Kraków. Hindenburg i Ludendorff uprzedzili ich zamiar. Przerzucili koleją 9 Armię na północ, w rejon Torunia, i uderzyli w bok rosyjskich armii, co doprowadziło do zaciętej bitwy pod Łodzią. W tym samym czasie na południu Rosjanie podeszli pod Kraków, a twierdza szykowała się do oblężenia. Zagrożenie odsunęło dopiero grudniowe zwycięstwo Austro-Węgrów pod Limanową. Walki toczone w listopadzie i grudniu 1914 roku na ziemiach polskich zatrzymały rosyjski marsz na zachód, a front na wschodzie zaczął zastygać w okopach. Nad Rawką i Bzurą wojna pozycyjna trwała aż do lata 1915 roku.",
   },
   {
     slug: "1914-wojna-na-morzu",
@@ -119,7 +127,7 @@ export const BATTLE_PHASES = [
     front: "Wojna na morzu",
     dates: "sierpień – grudzień 1914",
     intro:
-      "Przed wojną Wielka Brytania i Niemcy toczyły wyścig zbrojeń morskich, a obie strony spodziewały się wielkiej bitwy flot na Morzu Północnym. Do niej nie doszło. Brytyjska Grand Fleet zablokowała wyjścia z Morza Północnego, a niemiecka Flota Pełnomorska unikała otwartej walki z silniejszym przeciwnikiem. Zamiast tego rozgrywały się mniejsze starcia krążowników i niszczycieli, pościgi za niemieckimi rajderami na oceanach oraz pierwsze ataki okrętów podwodnych, które szybko pokazały, jak groźną stały się bronią.",
+      "Przed wojną Wielka Brytania i Niemcy toczyły wyścig zbrojeń morskich, a obie strony spodziewały się wielkiej bitwy flot na Morzu Północnym. Do niej nie doszło. Brytyjska Grand Fleet zablokowała wyjścia z Morza Północnego, a niemiecka Flota Pełnomorska unikała otwartej walki z silniejszym przeciwnikiem. Zamiast tego rozgrywały się mniejsze starcia krążowników i niszczycieli, pościgi za niemieckimi rajderami na oceanach oraz pierwsze ataki okrętów podwodnych, które szybko pokazały, jak groźną stały się bronią. Najgłośniejszym epizodem roku była wędrówka niemieckiej eskadry admirała von Spee przez Pacyfik, zakończona zwycięstwem pod Coronelem i klęską pod Falklandami.",
   },
   {
     slug: "1914-afryka",
@@ -133,9 +141,9 @@ export const BATTLE_PHASES = [
     slug: "1914-imperium-osmanskie",
     title: "1914: Przystąpienie Imperium Osmańskiego",
     front: "Bliski Wschód",
-    dates: "listopad – grudzień 1914",
+    dates: "listopad 1914 – styczeń 1915",
     intro:
-      "Pod koniec października 1914 roku flota osmańska pod dowództwem niemieckiego admirała Souchona zaatakowała rosyjskie porty nad Morzem Czarnym. W ciągu kilku dni Rosja, Wielka Brytania i Francja wypowiedziały Imperium Osmańskiemu wojnę, a sułtan ogłosił dżihad. Wojna objęła nowe obszary: Kaukaz, gdzie starły się armie rosyjska i osmańska, Mezopotamię, gdzie wojska z Indii wylądowały u ujścia Szatt al-Arab, a także Dardanele i Kanał Sueski. Przystąpienie Imperium Osmańskiego odcięło Rosję od sojuszników przez cieśniny czarnomorskie i rozszerzyło wojnę na cały Bliski Wschód.",
+      "Pod koniec października 1914 roku flota osmańska pod dowództwem niemieckiego admirała Souchona zaatakowała rosyjskie porty nad Morzem Czarnym. W ciągu kilku dni Rosja, Wielka Brytania i Francja wypowiedziały Imperium Osmańskiemu wojnę, a sułtan ogłosił dżihad. Wojna objęła nowe obszary: Kaukaz, gdzie starły się armie rosyjska i osmańska, Mezopotamię, gdzie wojska z Indii wylądowały u ujścia Szatt al-Arab, a także Dardanele i Kanał Sueski. Zimą Enver Pasza poprowadził na Kaukazie ofensywę, która pod Sarykamyszem zakończyła się katastrofą jego armii. Przystąpienie Imperium Osmańskiego odcięło Rosję od sojuszników przez cieśniny czarnomorskie i rozszerzyło wojnę na cały Bliski Wschód.",
   },
 ] as const
 

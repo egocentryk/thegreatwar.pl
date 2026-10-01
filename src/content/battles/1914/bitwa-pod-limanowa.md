@@ -1,0 +1,72 @@
+---
+title: Bitwa pod Limanową
+summary: W grudniu 1914 Austriacy uderzyli z gór w bok Rosjan idących na Kraków. Po dziesięciu dniach walk pod Łapanowem i Limanową Rosjanie cofnęli się za Dunajec.
+front: Front wschodni
+phase: 1914-lodz-i-krakow
+startDate: 1914-12-01
+endDate: 1914-12-12
+location: Zachodnia Galicja między Wisłą a Beskidami, od Wieliczki, Łapanowa i Bochni po Limanową i Nowy Sącz
+sides:
+  - name: Austro-Węgry
+    commanders: [Franz Conrad von Hötzendorf, arcyksiążę Józef Ferdynand, Josef Roth, Svetozar Boroević]
+  - name: Niemcy
+    commanders: [Alfred von Besser]
+  - name: Rosja
+    commanders: [Nikołaj Iwanow, Radko Dimitriew, Aleksiej Brusiłow]
+result: Zwycięstwo Austro-Węgier. Rosyjska 3 Armia cofnęła się za Dunajec, a groźba obejścia twierdzy Kraków od południa minęła.
+authors: [Łukasz Skowroń]
+tags: [Austro-Węgry, Rosja, Galicja, Legiony Polskie]
+milestone: true
+---
+
+[Bitwa pod Limanową](https://pl.wikipedia.org/wiki/Bitwa_pod_Limanową), nazywana też bitwą limanowsko-łapanowską lub operacją limanowską, rozegrała się w pierwszej połowie grudnia 1914 roku na pogórzu i w górach na południowy wschód od Krakowa. Armia austro-węgierska, która od sierpnia ponosiła na wschodzie klęskę za klęską, uderzyła z doliny Raby w bok i na tyły rosyjskiej 3 Armii, idącej na Kraków. Walki toczyły się w śniegu i mrozie, na stromych zboczach [Beskidu Wyspowego](https://pl.wikipedia.org/wiki/Beskid_Wyspowy) i [Pogórza Wiśnickiego](https://pl.wikipedia.org/wiki/Pogórze_Wiśnickie), w okolicach [Łapanowa](https://pl.wikipedia.org/wiki/Łapanów), [Limanowej](https://pl.wikipedia.org/wiki/Limanowa) i [Nowego Sącza](https://pl.wikipedia.org/wiki/Nowy_Sącz). Po dziesięciu dniach, gdy z Karpat nadeszła druga armia austro-węgierska, Rosjanie musieli się wycofać za Dunajec. Był to jeden z ostatnich dużych sukcesów, które armia Austro-Węgier odniosła niemal bez pomocy niemieckiej.
+
+## Nazwa i daty
+
+Na tej stronie przyjmujemy daty 1–12 grudnia 1914 roku. Datę początkową podajemy za brytyjską chronologią wojny, na której opiera się nasza oś czasu i która pod 1 grudnia odnotowuje początek bitwy pod Limanową i Łapanowem. Według części opracowań tego dnia pierwsze oddziały austro-węgierskie walczyły już o wyjście z gór w rejonie Kasiny Wielkiej i Dobrej. Polska Wikipedia i większość polskich autorów za początek operacji uznają jednak 2 grudnia, a datę końcową wyznaczają na 12 grudnia, gdy Rosjanie opuścili Nowy Sącz, a od południa nadeszły tam wojska austro-węgierskiej 3 Armii.
+
+Inne źródła podają różne daty. Angielska Wikipedia datuje bitwę na 1–13 grudnia, niemiecka na 1–14 grudnia, a węgierska, która ujmuje całe działania w Karpatach, nawet na 28 listopada – 18 grudnia. Różnice wynikają głównie z tego, czy do bitwy wlicza się wcześniejsze przegrupowanie wojsk i późniejszy pościg za Rosjanami. W Austrii i na Węgrzech starcie znane jest jako bitwa pod Limanową i Łapanowem, od dwóch miejscowości, wokół których toczyły się najcięższe walki.
+
+## Tło
+
+Pod koniec listopada 1914 roku Austro-Węgry znalazły się w groźnym położeniu. [Bitwa pod Krakowem](/bitwy/bitwa-pod-krakowem) zakończyła się powrotem 4 Armii pod osłonę fortów. Przemyśl od kilku tygodni był [ponownie oblężony](/bitwy/drugie-oblezenie-przemysla), a w Karpatach rosyjskie oddziały po raz drugi [przeszły przez przełęcze na Węgry](/druga-rosyjska-inwazja-na-wegry). Między austro-węgierską 4 Armią pod Krakowem a 3 Armią generała [Svetozara Boroevicia](https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna) w Karpatach otworzyła się luka szeroka na kilkadziesiąt kilometrów.
+
+W tę lukę weszła rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew). Jej korpusy szły od Tarnowa na zachód, po obu stronach Raby i Stradomki. Około 30 listopada Rosjanie zajęli [Wieliczkę](https://pl.wikipedia.org/wiki/Wieliczka) i Dobczyce, a ich patrole dochodziły pod forty Krakowa. Dalej na południu, w Kotlinie Sądeckiej, stały oddziały 8 Armii generała [Aleksieja Brusiłowa](https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow), które zajęły Nowy Sącz. Rosjanie mogli obejść twierdzę od południa, odciąć ją i ruszyć dalej na zachód, w stronę Śląska i Moraw.
+
+Szef sztabu generalnego [Franz Conrad von Hötzendorf](https://pl.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf) zauważył, że rosyjskie armie rozciągnęły się w wielki łuk od Wisły po Karpaty, a ich południowe skrzydło jest słabo osłonięte. Rozpoznanie lotnicze potwierdziło, że oddziały 3 Armii przesuwają się w stronę Wieliczki i Krakowa. Conrad postanowił uderzyć w ich bok z gór. W dniach 28–30 listopada koleją przez Kraków przewieziono do Chabówki, [Mszany Dolnej](https://pl.wikipedia.org/wiki/Mszana_Dolna) i Jordanowa zwolnione spod Krakowa oddziały 4 Armii arcyksięcia [Józefa Ferdynanda](https://pl.wikipedia.org/wiki/Józef_Ferdynand). Trzonem grupy uderzeniowej był tyrolski XIV Korpus feldmarszałka-porucznika Josefa Rotha, wzmocniony przez niemiecką [47 Rezerwową Dywizję Piechoty](https://pl.wikipedia.org/wiki/47_Rezerwowa_Dywizja_Piechoty_(Cesarstwo_Niemieckie)) generała Alfreda von Bessera, kilka dywizji kawalerii i [Legiony Polskie](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)). Twierdzy Kraków miała tymczasem bronić jej własna załoga.
+
+## Siły
+
+Szacunki sił bardzo się różnią, bo autorzy różnie zakreślają granice bitwy. Polska Wikipedia, za Janem Dąbrowskim, podaje, że grupa Rotha liczyła około 90 tysięcy żołnierzy, a rosyjska 3 Armia od 110 do 120 tysięcy. Podobną proporcję, około 90 tysięcy przeciwko 120 tysiącom, podają opracowania lokalne. Rosyjski historyk Siergiej Nelipowicz, który liczy obie armie walczące także w Karpatach, mówi o ponad 270 tysiącach żołnierzy po stronie państw centralnych i ponad 280 tysiącach po stronie rosyjskiej.
+
+Po stronie rosyjskiej walczyły przede wszystkim korpusy 3 Armii: IX generała [Dmitrija Szczerbaczowa](https://pl.wikipedia.org/wiki/Dmitrij_Szczerbaczow), XI, a z czasem także X i XXI, ściągnięte znad Wisły. Z 8 Armii Brusiłowa przyszedł VIII Korpus generała Władimira Dragomirowa, który uderzył na Limanową od strony Nowego Sącza. Po stronie austro-węgierskiej, oprócz grupy Rotha, wzięły udział VI Korpus generała Arthura Arza von Straussenburga, przewieziony w czasie bitwy przez Kraków, oraz oddziały 3 Armii Boroevicia, w tym węgierska grupa generała Sándora Szurmaya.
+
+## Przebieg
+
+**1–4 grudnia.** Pierwsze oddziały grupy Rotha wyszły z gór od strony Kasiny Wielkiej i Dobrej, spychając rosyjską kawalerię. 2 i 3 grudnia natarcie ruszyło na północ i północny wschód, dolinami Raby, Stradomki i [Łososiny](https://pl.wikipedia.org/wiki/Łososina_(rzeka)). Austriacy zajęli [Tymbark](https://pl.wikipedia.org/wiki/Tymbark) i Skrzydlną. Rosjanie szybko się jednak otrząsnęli. Już 3–4 grudnia natarcie utknęło na przedpolach Łapanowa i [Rajbrotu](https://pl.wikipedia.org/wiki/Rajbrot), gdzie 3 Armia zbudowała front zwrócony na południe. Dimitriew ściągał z północy posiłki i prosił o pomoc sąsiednią 8 Armię. W tych samych dniach doszło do starć na południowo-wschodnim przedpolu Krakowa, w rejonie Wieliczki. Część polskich publikacji nazywa je drugą bitwą o Kraków, ale były to walki drugorzędne wobec tego, co działo się pod Łapanowem i Limanową. Rosyjskie oddziały zatrzymano jeszcze przed fortami, na wysuniętych pozycjach polowych, przy wsparciu artylerii fortecznej.
+
+**5–9 grudnia.** Walki zamieniły się w krwawe zmagania o każde wzgórze. Austriacy, wspierani przez Niemców, którzy nieraz szli do ataku na bagnety, posuwali się powoli w stronę Bochni. Obrona rosyjska pod Łapanowem pękła dopiero 7 grudnia, a i wtedy front przesunął się tylko o kilka kilometrów. Tymczasem od wschodu, znad Dunajca, nadszedł rosyjski VIII Korpus. Uderzył na odsłonięte prawe skrzydło Rotha pod Limanową, bronione przez słabą landwehrę i spieszone dywizje kawalerii, zwłaszcza 10 Dywizję Kawalerii hrabiego Herbersteina. Każda ze stron próbowała teraz przełamać skrzydło przeciwnika: Austriacy w stronę Bochni, Rosjanie w stronę Limanowej i Mszany Dolnej. Austriackie dowództwo rzuciło pod Limanową świeży VI Korpus z 39 Dywizją Honwedu. 9 grudnia Rosjanie zajęli górujące nad miastem od południa wzgórze [Golców](https://pl.wikipedia.org/wiki/Golców).
+
+**10–12 grudnia.** 10 grudnia był najtrudniejszym dniem bitwy dla Austriaków. Rosyjskie kontrataki odebrały część zdobytego terenu pod Łapanowem, a pod Limanową pojawiły się kolejne rosyjskie dywizje, w tym 48 Dywizja generała [Ławra Korniłowa](https://pl.wikipedia.org/wiki/Ławr_Korniłow). Rozstrzygnięcie przyszło jednak z innego kierunku. Od 7–8 grudnia przez przełęcze [Beskidu Niskiego](https://pl.wikipedia.org/wiki/Beskid_Niski) nacierała austro-węgierska 3 Armia. Jej kolumny szły na Nowy Żmigród, Duklę i Gorlice, a lewe skrzydło, czyli grupa Szurmaya z 38 Dywizją Honwedu, 10 grudnia stanęło pod Nawojową, kilka kilometrów od Nowego Sącza. Rosyjskim armiom zaczęło grozić odcięcie od tyłów. 11 grudnia, gdy pod Limanową trwał bój o wzgórze Jabłoniec, rosyjskie dowództwo zarządziło odwrót VIII Korpusu. 12 grudnia Rosjanie opuścili Nowy Sącz, do którego weszły oddziały węgierskie i polscy legioniści. W następnych dniach cała 3 Armia Dimitriewa cofnęła się za Dunajec.
+
+## Bój o Jabłoniec
+
+Najsłynniejszym epizodem bitwy stała się walka o [Jabłoniec](https://pl.wikipedia.org/wiki/Jabłoniec_(Beskid_Wyspowy)), bezleśne wzgórze nad drogą z Limanowej do Nowego Sącza. Broniły go spieszone pułki węgierskich huzarów. Na 11 grudnia zaplanowano zluzowanie wyczerpanych obrońców przez 9 Pułk Huzarów hrabiego Nádasdy'ego i 13 Pułk Huzarów Jászkun. Pierwszym z nich od 8 grudnia dowodził pułkownik Othmar Muhr, 54-letni oficer urodzony w Koszycach. Jeszcze przed świtem 11 grudnia rosyjska piechota z VIII Korpusu wdarła się do okopów na wzgórzu. Muhr, który właśnie prowadził swoich ludzi na stanowiska, poderwał ich do natychmiastowego kontrataku. Huzarzy odbili okopy w walce wręcz, kolbami i łopatkami. Muhr padł śmiertelnie ranny w czasie ataku.
+
+Rosjanie jeszcze kilka razy próbowali odzyskać wzgórze, ale bez powodzenia. Niektóre relacje przesuwają szturm na noc z 11 na 12 grudnia, a napis na pomniku węgierskich huzarów w Limanowej mówi o poległych 11 i 12 grudnia. Bój o Jabłoniec bywa przedstawiany jako punkt zwrotny całej bitwy. W rzeczywistości, jak zauważa polska Wikipedia, gdy toczyły się te walki, odwrót rosyjskich armii za Dunajec, wymuszony przez postępy 3 Armii w Karpatach, już się zaczynał. Na Węgrzech walka huzarów stała się legendą. Cesarz Franciszek Józef nadał Muhrowi pośmiertnie szlachectwo z przydomkiem „limanowski”, a Limanowa bywa nazywana węgierskim Monte Cassino. Na wzgórzu powstał później [cmentarz wojenny nr 368](https://pl.wikipedia.org/wiki/Cmentarz_wojenny_nr_368_–_Limanowa-Jabłoniec), na którym pochowano 409 żołnierzy, w tym 161 austro-węgierskich, jednego niemieckiego i 247 rosyjskich. W jego kaplicy-mauzoleum spoczywał Muhr, zanim w okresie międzywojennym jego szczątki przeniesiono na Węgry. W miejscu, w którym zginął, stoi pomnik.
+
+## Polacy w bitwie
+
+Bitwa toczyła się na ziemiach zamieszkanych przez Polaków, wśród wsi Limanowszczyzny i Sądecczyzny. Mieszkańcy przeżyli przemarsze obu armii, rekwizycje, ostrzał i pożary. Po walkach wójt Starej Wsi wraz z chłopami z okolicznych miejscowości chował setki poległych na zboczach Jabłońca. Po obu stronach frontu walczyli też Polacy: w armii austro-węgierskiej służyło wielu Galicjan, a w armii rosyjskiej poborowi z Królestwa Polskiego.
+
+W bitwie wziął udział także 1 Pułk Legionów Polskich, około 2 tysięcy żołnierzy pod osobistym dowództwem [Józefa Piłsudskiego](https://pl.wikipedia.org/wiki/Józef_Piłsudski). Pod koniec listopada legioniści dotarli w rejon Jurkowa, a w dniach 5–8 grudnia przeszli przez Limanową, Wysokie i Trzetrzewinę pod Marcinkowice. Piłsudski zamierzał uderzyć na zajęty przez Rosjan Nowy Sącz, ale natknął się na nadciągający właśnie VIII Korpus. W nocnej [bitwie pod Marcinkowicami](https://pl.wikipedia.org/wiki/Bitwa_pod_Marcinkowicami) z 5 na 6 grudnia legioniści stoczyli ciężki bój, po czym wycofali się. Według historyka Wacława Polakiewicza walka opóźniła rosyjski atak na Limanową o kilkanaście godzin, co pozwoliło obrońcom wykopać okopy i rozciągnąć zasieki. Później legionistów skierowano w dolinę Dunajca, a 12 grudnia weszli z oddziałami węgierskimi do Nowego Sącza. Piłsudski wkroczył do miasta na czele pułku dzień później. Tam, 19 grudnia, jego oddziały przekształcono w [I Brygadę Legionów Polskich](https://pl.wikipedia.org/wiki/I_Brygada_Legionów_Polskich).
+
+## Straty
+
+Dane o stratach są jeszcze bardziej rozbieżne niż dane o siłach. Według polskiej Wikipedii Austriacy stracili około 12 tysięcy zabitych i rannych, a Rosjanie około 30 tysięcy zabitych, rannych i jeńców. Opracowania regionalne mówią o około 11 tysiącach poległych po obu stronach. Rosyjscy historycy, liczący straty obu armii w całych grudniowych działaniach w zachodniej Galicji i Karpatach, podają liczby rzędu 100–145 tysięcy ludzi po każdej ze stron. Poległych pochowano na dziesiątkach cmentarzy wojennych, które w latach 1915–1918 zbudowały austriackie władze w zachodniej Galicji.
+
+## Znaczenie
+
+Bitwa pod Limanową zatrzymała rosyjski marsz na zachód. Groźba obejścia i odcięcia twierdzy Kraków minęła, a Rosjanie musieli cofnąć front także na północ od Wisły. Front przesunął się o kilkadziesiąt kilometrów na wschód i zatrzymał na linii Dunajca i Białej, gdzie z niewielkimi zmianami przetrwał do maja 1915 roku i [przełamania pod Gorlicami](https://pl.wikipedia.org/wiki/Bitwa_pod_Gorlicami). Polska Wikipedia porównuje jej znaczenie dla Austro-Węgier do znaczenia bitwy nad Marną dla Francji. Zwycięstwo odniosły armie wyczerpane miesiącami klęsk, zimą i w górskim terenie, przeciwko silniejszemu przeciwnikowi i przy niewielkiej pomocy Niemców.
+
+Sukces miał jednak granice. 3 Armia Boroevicia nie zdołała przebić się do oblężonego Przemyśla. Pod koniec grudnia Rosjanie ściągnęli posiłki, przeszli do kontrataku i zepchnęli ją z powrotem w Karpaty. W tych walkach, w dniach 22–25 grudnia, I Brygada Legionów stoczyła [bitwę pod Łowczówkiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Łowczówkiem). Ciężar walk na wschodzie przeniósł się w góry, gdzie zimą 1915 roku Austro-Węgry poniosły ogromne straty, próbując odblokować Przemyśl. Josef Roth otrzymał za Limanową Krzyż Rycerski [Orderu Marii Teresy](https://pl.wikipedia.org/wiki/Order_Marii_Teresy), a później przydomek „von Limanowa-Łapanów”.
