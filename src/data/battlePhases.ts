@@ -122,6 +122,14 @@ export const BATTLE_PHASES = [
       "Po niepowodzeniu jesiennej ofensywy nad Wisłą i Sanem armie państw centralnych wycofały się na zachód, a Rosjanie ruszyli w pościg, szykując uderzenie na Śląsk i Kraków. Hindenburg i Ludendorff uprzedzili ich zamiar. Przerzucili koleją 9 Armię na północ, w rejon Torunia, i uderzyli w bok rosyjskich armii, co doprowadziło do zaciętej bitwy pod Łodzią. W tym samym czasie na południu Rosjanie podeszli pod Kraków, a twierdza szykowała się do oblężenia. Zagrożenie odsunęło dopiero grudniowe zwycięstwo Austro-Węgrów pod Limanową. Walki toczone w listopadzie i grudniu 1914 roku na ziemiach polskich zatrzymały rosyjski marsz na zachód, a front na wschodzie zaczął zastygać w okopach. Nad Rawką i Bzurą wojna pozycyjna trwała aż do lata 1915 roku.",
   },
   {
+    slug: "1915-karpaty",
+    title: "1915: Zimowa wojna w Karpatach",
+    front: "Front wschodni",
+    dates: "styczeń – kwiecień 1915",
+    intro:
+      "Zimą 1915 roku Austro-Węgry, wspierane przez niemiecką Armię Południową, uderzyły w Karpatach, by odepchnąć Rosjan od przełęczy prowadzących na Węgry i uwolnić oblężony Przemyśl. Rosjanie odpowiedzieli własną ofensywą. Walki w górach, w śniegu i mrozie, przyniosły obu stronom ogromne straty, w dużej części z powodu chorób i odmrożeń. Przemyśla nie udało się odblokować, a twierdza skapitulowała w marcu.",
+  },
+  {
     slug: "1914-wojna-na-morzu",
     title: "1914: Wojna na morzu",
     front: "Wojna na morzu",
@@ -130,12 +138,20 @@ export const BATTLE_PHASES = [
       "Przed wojną Wielka Brytania i Niemcy toczyły wyścig zbrojeń morskich, a obie strony spodziewały się wielkiej bitwy flot na Morzu Północnym. Do niej nie doszło. Brytyjska Grand Fleet zablokowała wyjścia z Morza Północnego, a niemiecka Flota Pełnomorska unikała otwartej walki z silniejszym przeciwnikiem. Zamiast tego rozgrywały się mniejsze starcia krążowników i niszczycieli, pościgi za niemieckimi rajderami na oceanach oraz pierwsze ataki okrętów podwodnych, które szybko pokazały, jak groźną stały się bronią. Najgłośniejszym epizodem roku była wędrówka niemieckiej eskadry admirała von Spee przez Pacyfik, zakończona zwycięstwem pod Coronelem i klęską pod Falklandami.",
   },
   {
+    slug: "1915-wojna-na-morzu",
+    title: "1915: Wojna na morzu",
+    front: "Wojna na morzu",
+    dates: "od stycznia 1915",
+    intro:
+      "W 1915 roku wojna na morzu zmieniła charakter. Niemiecka Flota Pełnomorska nadal unikała walnej bitwy z Grand Fleet, a jej wypady na wybrzeże Anglii zakończyły się w styczniu starciem na Dogger Bank. Coraz większą rolę odgrywały okręty podwodne, które Niemcy zaczęli wysyłać przeciw statkom handlowym wokół Wysp Brytyjskich.",
+  },
+  {
     slug: "1914-afryka",
     title: "1914: Wojna w Afryce",
     front: "Afryka",
-    dates: "sierpień – grudzień 1914",
+    dates: "sierpień 1914 – styczeń 1915",
     intro:
-      "Wojna szybko objęła kolonie w Afryce. Niemcy posiadały tu cztery kolonie: Togo, Kamerun, Niemiecką Afrykę Południowo-Zachodnią i Niemiecką Afrykę Wschodnią. Wielka Brytania, Francja i Belgia chciały je zająć, odebrać Niemcom porty i stacje radiowe oraz zabezpieczyć własne posiadłości. Togo padło już w sierpniu, a w Kamerunie alianci zajęli wybrzeże. Na wschodzie kontynentu niemieckie oddziały pułkownika Paula von Lettow-Vorbecka zadały Brytyjczykom dotkliwe porażki i rozpoczęły kampanię, która trwała aż do końca wojny. Ciężar walk w Afryce ponieśli głównie afrykańscy żołnierze i tragarze.",
+      "Wojna szybko objęła kolonie w Afryce. Niemcy posiadały tu cztery kolonie: Togo, Kamerun, Niemiecką Afrykę Południowo-Zachodnią i Niemiecką Afrykę Wschodnią. Wielka Brytania, Francja i Belgia chciały je zająć, odebrać Niemcom porty i stacje radiowe oraz zabezpieczyć własne posiadłości. Togo padło już w sierpniu, a w Kamerunie alianci zajęli wybrzeże. Na wschodzie kontynentu niemieckie oddziały pułkownika Paula von Lettow-Vorbecka zadały Brytyjczykom dotkliwe porażki i rozpoczęły kampanię, która trwała aż do końca wojny. W styczniu 1915 roku odbiły jeszcze przygraniczny Jasin. Ciężar walk w Afryce ponieśli głównie afrykańscy żołnierze i tragarze.",
   },
   {
     slug: "1914-imperium-osmanskie",
