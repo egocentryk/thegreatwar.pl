@@ -66,6 +66,14 @@ export const BATTLE_PHASES = [
       "Na początku września, pod naciskiem Rosji, armia serbska przeszła do ofensywy i wkroczyła na terytorium Austro-Węgier, do Sremu. Równocześnie generał Potiorek rozpoczął drugą inwazję na Serbię przez Drinę. Serbowie musieli przerwać ofensywę i zawrócić wojska na zagrożony front. W górach nad Driną rozgorzały zacięte, wielotygodniowe walki, w których obie strony poniosły ogromne straty. Austro-Węgrom udało się utrzymać przyczółki na serbskim brzegu, ale nie zdołały rozbić armii serbskiej. Na froncie nastąpił okres wyczerpującej wojny pozycyjnej.",
   },
   {
+    slug: "1914-trzecia-inwazja-na-serbie",
+    title: "1914: Trzecia inwazja na Serbię",
+    front: "Front bałkański",
+    dates: "6 listopada – 15 grudnia 1914",
+    intro:
+      "Na początku listopada 1914 roku generał Potiorek po raz trzeci uderzył na Serbię, tym razem z przyczółków nad Driną i Sawą. Wyczerpana, pozbawiona amunicji armia serbska cofała się w głąb kraju, a 2 grudnia Austriacy wkroczyli do opuszczonego Belgradu. Wojewoda Putnik zatrzymał jednak odwrót w górach nad Kolubarą. Gdy nadeszła amunicja od sojuszników, Serbowie przeszli do kontrofensywy, rozbili siły Potiorka i do połowy grudnia wyparli je z całego kraju. Było to jedno z największych zwycięstw aliantów w pierwszym roku wojny.",
+  },
+  {
     slug: "1914-prusy-wschodnie",
     title: "1914: Walki w Prusach Wschodnich",
     front: "Front wschodni",

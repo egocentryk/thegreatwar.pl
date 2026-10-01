@@ -47,7 +47,7 @@ Osmańską 3 Armią, broniącą granicy kaukaskiej, dowodził generał [Hasan İ
 
 **11–12 listopada.** Do bitwy wszedł IX Korpus, który wyszedł na skrzydło wojsk Bergmanna. Rosjanie, zagrożeni okrążeniem, wycofali się spod Köprüköy na pozycje zajęte 4 listopada, w rejonie Azap. W tym czasie z Kaukazu nadeszły posiłki, między innymi oddział generała Przewalskiego, które ustabilizowały rosyjskie skrzydło.
 
-**13–21 listopada.** Na północnym krańcu frontu, bliżej Morza Czarnego, oddziały tureckie wyparły Rosjan z okolic Borczki i Artvinu. Między 17 a 20 listopada 3 Armia próbowała okrążyć Rosjan pod Azap, ale jej zmęczone i wykrwawione dywizje nie zdołały przebić się przez góry. 21 listopada Hasan İzzet, zaniepokojony meldunkami o nadciągających rosyjskich posiłkach, przerwał natarcie i cofnął się o kilkanaście kilometrów. Wkrótce potem nad polem bitwy przeszła śnieżyca, w której wielu żołnierzy zamarzło.
+**13–21 listopada.** Na północnym krańcu frontu, bliżej Morza Czarnego, oddziały tureckie i miejscowi ochotnicy nękali Rosjan w dolinie Czoruchu, w rejonie Artvinu (źródła różnie datują walki o samo miasto). Między 17 a 20 listopada 3 Armia próbowała okrążyć Rosjan pod Azap, ale jej zmęczone i wykrwawione dywizje nie zdołały przebić się przez góry. 21 listopada Hasan İzzet, zaniepokojony meldunkami o nadciągających rosyjskich posiłkach, przerwał natarcie i cofnął się o kilkanaście kilometrów. Wkrótce potem nad polem bitwy przeszła śnieżyca, w której wielu żołnierzy zamarzło.
 
 ## Straty
 
