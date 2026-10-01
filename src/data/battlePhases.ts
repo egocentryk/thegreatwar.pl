@@ -58,6 +58,14 @@ export const BATTLE_PHASES = [
       "Gdy pod koniec listopada 1914 roku wygasły walki pod Ypres, front zachodni ciągnął się już nieprzerwaną linią okopów od Morza Północnego po granicę szwajcarską. Generał Joffre nie zamierzał jednak czekać do wiosny. Uważał, że Niemcy, przerzucając wojska na wschód, osłabili front we Francji, a sojusznicy na wschodzie potrzebują odciążenia. W grudniu Francuzi i Brytyjczycy uderzyli we Flandrii i w Artois, a przede wszystkim w Szampanii, gdzie rozpoczęła się pierwsza wielka ofensywa przeciw umocnionym pozycjom. Zimowe natarcia w błocie i deszczu przyniosły ciężkie straty i znikome zdobycze terenu. Pokazały, jak trudno przełamać front obsadzony karabinami maszynowymi i osłonięty zasiekami.",
   },
   {
+    slug: "1915-ypres",
+    title: "1915: Druga bitwa pod Ypres",
+    front: "Front zachodni",
+    dates: "kwiecień – maj 1915",
+    intro:
+      "Wiosną 1915 roku walki wróciły pod Ypres, gdzie po jesiennej bitwie aliancki front tworzył głęboki łuk wysunięty w stronę niemieckich linii. W połowie kwietnia Brytyjczycy zaatakowali niewielkie Wzgórze 60 na południe od miasta. 22 kwietnia Niemcy po raz pierwszy na froncie zachodnim użyli chmury chloru, która otworzyła wyrwę w linii francuskiej na północnym skraju łuku. Kanadyjczycy, Brytyjczycy i Francuzi zdołali ją zamknąć, ale w kolejnych tygodniach, w serii bitew o grzbiety wokół miasta, musieli ustąpić z dużej części łuku. Ypres zostało niemal całkowicie zrujnowane ostrzałem, ale pozostało w rękach aliantów.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
@@ -176,6 +184,14 @@ export const BATTLE_PHASES = [
     dates: "od lutego 1915",
     intro:
       "Na początku 1915 roku rząd brytyjski postanowił przebić się flotą przez Dardanele, zdobyć Konstantynopol, wyłączyć Imperium Osmańskie z wojny i otworzyć drogę morską do Rosji. W lutym brytyjskie i francuskie okręty zaczęły ostrzeliwać forty strzegące wejścia do cieśniny. Wkrótce okazało się, że sama flota nie poradzi sobie z fortami i polami minowymi, a do Egiptu i na wyspę Lemnos zaczęto ściągać wojska lądowe.",
+  },
+  {
+    slug: "1915-bliski-wschod",
+    title: "1915: Mezopotamia, Persja i Kaukaz",
+    front: "Bliski Wschód",
+    dates: "od kwietnia 1915",
+    intro:
+      "Wiosną 1915 roku Imperium Osmańskie, mimo zimowej klęski pod Sarykamyszem, próbowało odzyskać inicjatywę na swoich wschodnich rubieżach. W Mezopotamii wojska osmańskie i plemienni sojusznicy uderzyli na Brytyjczyków broniących Basry, ale zostali pobici pod Szuajbą, co otworzyło drogę brytyjskiemu marszowi w górę Tygrysu i Eufratu. Na pograniczu z Persją i Rosją wojna przyniosła tragedię ludności cywilnej. Władze osmańskie rozpoczęły deportacje i masakry Ormian, a w Wanie Ormianie przez kilka tygodni bronili się przed oblężeniem, aż do nadejścia wojsk rosyjskich.",
   },
 ] as const
 

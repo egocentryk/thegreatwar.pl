@@ -1,0 +1,35 @@
+---
+title: Początek deportacji Ormian
+summary: 8 kwietnia 1915 z Zeytun w Cylicji wyruszył pierwszy konwój wysiedlonych Ormian. Deportacje z rozkazu władz osmańskich przerodziły się w ludobójstwo.
+category: Społeczeństwo
+date: 1915-04-08
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Imperium Osmańskie, ludobójstwo Ormian, Talat Pasza]
+milestone: false
+draft: false
+---
+
+Wiosną 1915 roku władze [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) rozpoczęły deportacje ludności ormiańskiej, które w ciągu następnych miesięcy przerodziły się w masowe mordy, nazywane dziś [ludobójstwem Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian). Brytyjska chronologia wojny, na której opiera się ten serwis, odnotowuje początek deportacji i masakr pod 8 kwietnia 1915 roku z zastrzeżeniem, że data jest przybliżona. Nie było bowiem jednego dnia, w którym wszystko się zaczęło. 8 kwietnia, według większości opracowań, wyruszył pierwszy konwój wysiedlonych z Zeytun, górskiego miasteczka w [Cylicji](https://pl.wikipedia.org/wiki/Cylicja), którego ludność jako pierwsza społeczność ormiańska w imperium została w całości wygnana ze swoich domów. Ormianie upamiętniają jednak ludobójstwo 24 kwietnia, w rocznicę aresztowań ormiańskiej elity w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol).
+
+## Tło
+
+Przed wojną w Imperium Osmańskim żyło od około 1,2–1,3 miliona [Ormian](https://pl.wikipedia.org/wiki/Ormianie) według osmańskich spisów do ponad 2 milionów według ormiańskiego patriarchatu, w większości we wschodniej Anatolii, przy granicy z Rosją i Persją, ale także w Cylicji i w miastach zachodniej części kraju. Od dziesięcioleci byli ofiarami przemocy. W latach 1894–1896, za panowania sułtana Abdülhamida II, w masakrach zginęło ich według różnych szacunków od kilkudziesięciu do kilkuset tysięcy, a w 1909 roku w Adanie i okolicach około 20 tysięcy. Władzę w Konstantynopolu sprawował od 1913 roku [Komitet Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu), a w nim triumwirat: minister wojny [Enver Pasza](https://pl.wikipedia.org/wiki/İsmail_Enver), minister marynarki Cemal Pasza i minister spraw wewnętrznych Mehmed Talat, znany później jako [Talat Pasza](https://pl.wikipedia.org/wiki/Mehmet_Talaat).
+
+Wojna z Rosją pogorszyła położenie Ormian. Po stronie rosyjskiej walczyły drużyny ochotników ormiańskich, w części złożone z uciekinierów z Turcji, a władze osmańskie przedstawiały to jako dowód zdrady całego narodu, choć tysiące Ormian służyły w armii sułtana. Po klęsce [pod Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) szukanie winnych wśród Ormian przybrało na sile. W lutym 1915 roku ministerstwo wojny nakazało rozbroić żołnierzy ormiańskich i przenieść ich do batalionów pracy. W marcu aresztowano ormiańskich mężczyzn z Dörtyol nad Zatoką Aleksandretty i również wysłano ich do batalionów roboczych.
+
+## Zeytun
+
+Zeytun, dziś Süleymanlı w prowincji Kahramanmaraş, leżał w górach Taurusu, na północ od Maraszu. Mieszkańcy, w zdecydowanej większości Ormianie, byli dumni ze swojej tradycji niezależności, a w latach 1895–1896 bronili się przed wojskiem, aż do mediacji wielkich mocarstw. Na przełomie zimy i wiosny 1915 roku w okolicy ukrywali się dezerterzy z armii osmańskiej. Według większości relacji w marcu doszło do starć między nimi a żandarmami, a grupa młodych Ormian i dezerterów zabarykadowała się w klasztorze pod miastem. Ormiańscy notable i duchowni wzywali do spokoju i współpracowali z władzami, ale do Zeytun ściągnięto kilka tysięcy żołnierzy. Obrońcy klasztoru, zadawszy wojsku straty, zdołali uciec w nocy. Władze uznały te wydarzenia za bunt całego miasta. Aresztowano kilkudziesięciu notabli, a ludności nakazano opuścić domy.
+
+Pierwszy konwój wyruszył według najczęściej podawanej daty 8 kwietnia. Część źródeł przesuwa początek wysiedleń na ostatnie dni marca. Mieszkańców Zeytun i okolicznych wsi wysyłano w kilku grupach. Pierwszych kierowano na zachód, przez przełęcze Taurusu do okolic [Konyi](https://pl.wikipedia.org/wiki/Konya), na pustkowia pod Sultaniye, w jedno z najbardziej niezdrowych miejsc Anatolii. Kolejnych pędzono na południe, do [Aleppo](https://pl.wikipedia.org/wiki/Aleppo), a dalej nad Eufrat, do [Rakki](https://pl.wikipedia.org/wiki/Ar-Rakka) i [Dajr az-Zaur](https://pl.wikipedia.org/wiki/Dajr_az-Zaur). Według historyków pod koniec kwietnia ministerstwo spraw wewnętrznych poleciło skierować także tych, których wysłano już w stronę Konyi, na pustynię syryjską. Liczba wysiedlonych z Zeytun i okolic nie jest pewna. Historyk Raymond Kévorkian pisze o około 18 tysiącach osób, inne szacunki mówią o 20–25 tysiącach. Do połowy maja miasto opustoszało. Domy Ormian zajęli muzułmańscy osadnicy, a w czerwcu Zeytun przemianowano na Süleymanlı.
+
+Wysiedleni szli pieszo, często w zimnie i deszczu, bez żywności i dachu nad głową. Amerykańscy misjonarze i dyplomaci, którzy widzieli ich w drodze, opisywali kobiety z dziećmi pędzone batem i ludzi umierających z głodu i chorób. Amerykański konsul generalny w Bejrucie przewidywał w czerwcu, że bez pomocy umrze z nich większość.
+
+## Od deportacji do ludobójstwa
+
+Historycy wciąż spierają się, kiedy przywódcy Komitetu Jedności i Postępu postanowili zniszczyć Ormian. Część badaczy, między innymi Kévorkian i Taner Akçam, łączy tę decyzję z naradami komitetu centralnego w drugiej połowie marca 1915 roku, gdy do Konstantynopola wrócił z frontu kaukaskiego jeden z przywódców tajnej Organizacji Specjalnej, doktor Bahaeddin Şakir. Inni, jak Ronald Suny, widzą raczej stopniową radykalizację, przyspieszoną w kwietniu i maju przez alianckie [lądowanie na Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli) i walki w Wanie. Wszyscy zgodnie uznają, że deportacje z Zeytun i Cylicji były pierwszym etapem tego procesu.
+
+Wieczorem 24 kwietnia, na rozkaz Talata, w Konstantynopolu aresztowano w pierwszej fali od około 240 do 270 ormiańskich przywódców politycznych, pisarzy, dziennikarzy, lekarzy, duchownych i kupców. Większość z nich zamordowano w kolejnych miesiącach. Podobne aresztowania przeprowadzono w miastach prowincji. W maju rząd wydał tymczasową ustawę o deportacjach, która dała podstawę prawną wysiedleniom prowadzonym już od kilku tygodni, a latem objęły nimi niemal wszystkie skupiska Ormian w imperium. Mężczyzn często mordowano na miejscu albo tuż za miastem, a kobiety, dzieci i starców pędzono w kolumnach na pustynię syryjską. Po drodze konwoje napadały oddziały Organizacji Specjalnej, Kurdowie i miejscowi bandyci.
+
+Liczba ofiar jest sporna. Według większości szacunków historyków w latach 1915–1916 zginęło od około 600 tysięcy do ponad miliona Ormian, a strona ormiańska mówi o 1,5 miliona. Ofiarami deportacji i masakr padli także [Asyryjczycy](https://pl.wikipedia.org/wiki/Asyryjczycy) i inni chrześcijanie wschodniej Anatolii. Wydarzenia te były jednym z przykładów, na których polski prawnik [Rafał Lemkin](https://pl.wikipedia.org/wiki/Rafał_Lemkin) oparł w czasie drugiej wojny światowej pojęcie ludobójstwa. Turcja do dziś nie uznaje ich za ludobójstwo, choć uznały je liczne państwa, w tym Polska.
