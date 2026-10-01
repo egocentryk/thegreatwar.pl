@@ -66,6 +66,14 @@ export const BATTLE_PHASES = [
       "Wiosną 1915 roku walki wróciły pod Ypres, gdzie po jesiennej bitwie aliancki front tworzył głęboki łuk wysunięty w stronę niemieckich linii. W połowie kwietnia Brytyjczycy zaatakowali niewielkie Wzgórze 60 na południe od miasta. 22 kwietnia Niemcy po raz pierwszy na froncie zachodnim użyli chmury chloru, która otworzyła wyrwę w linii francuskiej na północnym skraju łuku. Kanadyjczycy, Brytyjczycy i Francuzi zdołali ją zamknąć, ale w kolejnych tygodniach, w serii bitew o grzbiety wokół miasta, musieli ustąpić z dużej części łuku. Ypres zostało niemal całkowicie zrujnowane ostrzałem, ale pozostało w rękach aliantów.",
   },
   {
+    slug: "1915-artois",
+    title: "1915: Wiosenna ofensywa w Artois",
+    front: "Front zachodni",
+    dates: "maj – czerwiec 1915",
+    intro:
+      "W maju 1915 roku, gdy pod Ypres trwały jeszcze walki, alianci podjęli wielką wiosenną ofensywę w Artois. Francuska 10 Armia generała d'Urbala uderzyła 9 maja na grzbiet Vimy, a Brytyjczycy tego samego dnia zaatakowali na północ od niej grzbiet Aubers, by związać niemieckie odwody. Francuzi w pierwszych godzinach przełamali niemiecką linię i dotarli na skraj grzbietu, ale nie zdołali go utrzymać. Brytyjski atak załamał się w ciągu jednego dnia, a ponowione w połowie maja natarcie pod Festubert przyniosło jedynie niewielkie zdobycze. Walki w Artois ciągnęły się do połowy czerwca i kosztowały obie strony ogromne straty, nie przynosząc przełomu. Niepowodzenie pod Aubers wywołało w Wielkiej Brytanii skandal z brakiem pocisków artyleryjskich.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
@@ -144,6 +152,14 @@ export const BATTLE_PHASES = [
     dates: "luty 1915",
     intro:
       "W lutym 1915 roku Niemcy uderzyli na północnym skrzydle frontu wschodniego. Hindenburg i Ludendorff, wzmocnieni nowo utworzoną 10 Armią, zaatakowali w śniegu i mrozie rosyjską 10 Armię nad jeziorami mazurskimi i wyparli ją z Prus Wschodnich. W Puszczy Augustowskiej okrążony rosyjski XX Korpus musiał złożyć broń. Próba rozwinięcia sukcesu na południe, ku Narwi, zakończyła się jednak niepowodzeniem pod Przasnyszem, gdzie Rosjanie zmusili Niemców do odwrotu. Mimo wielkich strat po obu stronach front na północy ustabilizował się w pobliżu granicy Prus Wschodnich.",
+  },
+  {
+    slug: "1915-gorlice",
+    title: "1915: Gorlice i odwrót Rosjan z Galicji",
+    front: "Front wschodni",
+    dates: "od maja 1915",
+    intro:
+      "Wiosną 1915 roku Niemcy postanowili ratować słabnące Austro-Węgry i zadać Rosji cios, który wyłączyłby ją z wojny. W rejonie Gorlic i Tarnowa skoncentrowano nową niemiecką 11 Armię generała Augusta von Mackensena oraz austro-węgierską 4 Armię, wspierane przez potężną artylerię. 2 maja, po kilkugodzinnym ostrzale, uderzyły one na rosyjską 3 Armię i przełamały jej front. Rosjanie, którzy zimą wykrwawili się w Karpatach i cierpieli na brak amunicji, musieli porzucić przełęcze karpackie i cofać się przez całą Galicję. W ciągu kilku tygodni państwa centralne odzyskały linię Sanu, Jarosław i Przemyśl, a ofensywa przerodziła się w wielki odwrót armii rosyjskiej, który latem objął całe Królestwo Polskie.",
   },
   {
     slug: "1914-wojna-na-morzu",
