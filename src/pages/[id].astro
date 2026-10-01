@@ -8,6 +8,7 @@ import {
 import { Image } from "astro:assets"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import Button from "@/components/Button.astro"
+import CoffeeButton from "@/components/CoffeeButton.astro"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
 
@@ -60,7 +61,11 @@ const headerImageAsset = headerImage
   : undefined
 ---
 
-<BaseLayout title={title} description={summary} image={headerImageAsset?.src}>
+<BaseLayout
+  title={`${title} (${formattedDate})`}
+  description={summary}
+  image={headerImageAsset?.src}
+>
   <article class="pt-16 pb-24 sm:pt-24">
     <div class="mx-auto max-w-3xl px-6">
       <a
@@ -185,17 +190,7 @@ const headerImageAsset = headerImage
       </dl>
 
       <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
-        <div class="not-prose float-right mb-2 ml-4 sm:mb-3 sm:ml-6">
-          <Button
-            href="https://buymeacoffee.com/thegreatwar"
-            variant="accent"
-            size="responsive"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Kup nam kawę
-          </Button>
-        </div>
+        <CoffeeButton />
         <Content />
       </div>
 

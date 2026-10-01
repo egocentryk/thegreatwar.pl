@@ -1,0 +1,33 @@
+---
+import Button from "@/components/Button.astro"
+---
+
+<!-- Floats right inside a prose block so the text wraps around it. -->
+<div class="not-prose float-right mb-2 ml-4 sm:mb-3 sm:ml-6">
+  <Button
+    href="https://buymeacoffee.com/thegreatwar"
+    variant="accent"
+    size="responsive"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <svg
+      class="size-3.5 sm:size-4"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M10 2v2"></path>
+      <path d="M14 2v2"></path>
+      <path d="M6 2v2"></path>
+      <path
+        d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"
+      ></path>
+    </svg>
+    Kup nam kawę
+  </Button>
+</div>
