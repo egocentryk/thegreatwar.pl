@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Według ówczesnych kronik wojny 19 sierpnia 1914 roku w [Persji](https://pl.wikipedia.org/wiki/Iran) doszło do zmiany rządu. Premier Ala os-Saltane, który stał na czele gabinetu od stycznia 1913 roku, podał się do dymisji i objął w nowym rządzie stanowisko ministra spraw zagranicznych, zwolnione dzień wcześniej przez Wosuga od-Dole. Nowym premierem został Mostowfi ol-Mamalek. Źródła różnią się co do dokładnych dat tych zmian.
+Według ówczesnych kronik wojny 19 sierpnia 1914 roku w [Persji](https://pl.wikipedia.org/wiki/Iran) doszło do zmiany rządu. Premier Ala os-Saltane podał się do dymisji i objął w nowym rządzie stanowisko ministra spraw zagranicznych, zwolnione dzień wcześniej przez Wosuga od-Dole. Nowym premierem został Mostowfi ol-Mamalek. Źródła różnią się co do dokładnych dat tych zmian, a część opracowań kończy premierostwo Ala os-Saltane już w sierpniu 1913 roku.
 
 ## Nowy premier
 

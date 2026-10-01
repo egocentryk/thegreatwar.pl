@@ -130,6 +130,14 @@ export const BATTLE_PHASES = [
       "Zimą 1915 roku Austro-Węgry, wspierane przez niemiecką Armię Południową, uderzyły w Karpatach, by odepchnąć Rosjan od przełęczy prowadzących na Węgry i uwolnić oblężony Przemyśl. Rosjanie odpowiedzieli własną ofensywą. Walki w górach, w śniegu i mrozie, przyniosły obu stronom ogromne straty, w dużej części z powodu chorób i odmrożeń. Przemyśla nie udało się odblokować, a twierdza skapitulowała w marcu.",
   },
   {
+    slug: "1915-mazury-i-przasnysz",
+    title: "1915: Mazury i Przasnysz",
+    front: "Front wschodni",
+    dates: "luty 1915",
+    intro:
+      "W lutym 1915 roku Niemcy uderzyli na północnym skrzydle frontu wschodniego. Hindenburg i Ludendorff, wzmocnieni nowo utworzoną 10 Armią, zaatakowali w śniegu i mrozie rosyjską 10 Armię nad jeziorami mazurskimi i wyparli ją z Prus Wschodnich. W Puszczy Augustowskiej okrążony rosyjski XX Korpus musiał złożyć broń. Próba rozwinięcia sukcesu na południe, ku Narwi, zakończyła się jednak niepowodzeniem pod Przasnyszem, gdzie Rosjanie zmusili Niemców do odwrotu. Mimo wielkich strat po obu stronach front na północy ustabilizował się w pobliżu granicy Prus Wschodnich.",
+  },
+  {
     slug: "1914-wojna-na-morzu",
     title: "1914: Wojna na morzu",
     front: "Wojna na morzu",
@@ -157,9 +165,17 @@ export const BATTLE_PHASES = [
     slug: "1914-imperium-osmanskie",
     title: "1914: Przystąpienie Imperium Osmańskiego",
     front: "Bliski Wschód",
-    dates: "listopad 1914 – styczeń 1915",
+    dates: "listopad 1914 – luty 1915",
     intro:
-      "Pod koniec października 1914 roku flota osmańska pod dowództwem niemieckiego admirała Souchona zaatakowała rosyjskie porty nad Morzem Czarnym. W ciągu kilku dni Rosja, Wielka Brytania i Francja wypowiedziały Imperium Osmańskiemu wojnę, a sułtan ogłosił dżihad. Wojna objęła nowe obszary: Kaukaz, gdzie starły się armie rosyjska i osmańska, Mezopotamię, gdzie wojska z Indii wylądowały u ujścia Szatt al-Arab, a także Dardanele i Kanał Sueski. Zimą Enver Pasza poprowadził na Kaukazie ofensywę, która pod Sarykamyszem zakończyła się katastrofą jego armii. Przystąpienie Imperium Osmańskiego odcięło Rosję od sojuszników przez cieśniny czarnomorskie i rozszerzyło wojnę na cały Bliski Wschód.",
+      "Pod koniec października 1914 roku flota osmańska pod dowództwem niemieckiego admirała Souchona zaatakowała rosyjskie porty nad Morzem Czarnym. W ciągu kilku dni Rosja, Wielka Brytania i Francja wypowiedziały Imperium Osmańskiemu wojnę, a sułtan ogłosił dżihad. Wojna objęła nowe obszary: Kaukaz, gdzie starły się armie rosyjska i osmańska, Mezopotamię, gdzie wojska z Indii wylądowały u ujścia Szatt al-Arab, a także Dardanele i Kanał Sueski. Zimą Enver Pasza poprowadził na Kaukazie ofensywę, która pod Sarykamyszem zakończyła się katastrofą jego armii, a na początku lutego 1915 roku wojska osmańskie bezskutecznie zaatakowały Kanał Sueski. Przystąpienie Imperium Osmańskiego odcięło Rosję od sojuszników przez cieśniny czarnomorskie i rozszerzyło wojnę na cały Bliski Wschód.",
+  },
+  {
+    slug: "1915-dardanele",
+    title: "1915: Dardanele",
+    front: "Bliski Wschód",
+    dates: "od lutego 1915",
+    intro:
+      "Na początku 1915 roku rząd brytyjski postanowił przebić się flotą przez Dardanele, zdobyć Konstantynopol, wyłączyć Imperium Osmańskie z wojny i otworzyć drogę morską do Rosji. W lutym brytyjskie i francuskie okręty zaczęły ostrzeliwać forty strzegące wejścia do cieśniny. Wkrótce okazało się, że sama flota nie poradzi sobie z fortami i polami minowymi, a do Egiptu i na wyspę Lemnos zaczęto ściągać wojska lądowe.",
   },
 ] as const
 
