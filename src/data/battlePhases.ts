@@ -162,6 +162,14 @@ export const BATTLE_PHASES = [
       "Wiosną 1915 roku Niemcy postanowili ratować słabnące Austro-Węgry i zadać Rosji cios, który wyłączyłby ją z wojny. W rejonie Gorlic i Tarnowa skoncentrowano nową niemiecką 11 Armię generała Augusta von Mackensena oraz austro-węgierską 4 Armię, wspierane przez potężną artylerię. 2 maja, po kilkugodzinnym ostrzale, uderzyły one na rosyjską 3 Armię i przełamały jej front. Rosjanie, którzy zimą wykrwawili się w Karpatach i cierpieli na brak amunicji, musieli porzucić przełęcze karpackie i cofać się przez całą Galicję. W ciągu kilku tygodni państwa centralne odzyskały linię Sanu, Jarosław i Przemyśl, a ofensywa przerodziła się w wielki odwrót armii rosyjskiej, który latem objął całe Królestwo Polskie.",
   },
   {
+    slug: "1915-isonzo",
+    title: "1915: Front włoski i bitwy nad Isonzo",
+    front: "Front włoski",
+    dates: "od czerwca 1915",
+    intro:
+      "24 maja 1915 roku Włochy, związane tajnym paktem londyńskim z Ententą, rozpoczęły wojnę z Austro-Węgrami. Szef sztabu generał Luigi Cadorna skierował główne siły na wschód, nad rzekę Isonzo, skąd chciał uderzyć na Gorycję i Triest. Austro-Węgry, zajęte wojną z Rosją i Serbią, obsadziły jednak dogodne pozycje na wzgórzach i płaskowyżu Krasu, a ich 5 Armia generała Svetozara Boroevicia odpierała kolejne natarcia. Już pierwsze bitwy nad Isonzo latem 1915 roku pokazały, że wojna w górach i na skalistym Krasie będzie równie krwawa i statyczna jak we Francji. Do jesieni 1917 roku Włosi przeprowadzili nad tą rzeką jedenaście ofensyw.",
+  },
+  {
     slug: "1914-wojna-na-morzu",
     title: "1914: Wojna na morzu",
     front: "Wojna na morzu",
