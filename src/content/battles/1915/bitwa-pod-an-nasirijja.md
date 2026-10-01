@@ -1,0 +1,66 @@
+---
+title: Bitwa pod An-Nasirijją
+summary: 5–25 lipca 1915 wojska gen. Gorringe'a w upale i na rozlewiskach Eufratu przełamały pozycje tureckie pod An-Nasirijją i zajęły miasto.
+front: Bliski Wschód
+phase: 1915-bliski-wschod
+startDate: 1915-07-05
+endDate: 1915-07-25
+location: Kanał Akaika i dolny Eufrat między Suk asz-Szujuch a An-Nasirijją, rozlewiska na zachód od jeziora Hammar, dolna Mezopotamia (dzisiejszy Irak)
+sides:
+  - name: Wielka Brytania i Indie Brytyjskie
+    commanders: [John Nixon, George Gorringe, Charles Melliss, Wilfrid Nunn]
+  - name: Imperium Osmańskie
+    commanders: [Ahmed Bej]
+result: Zwycięstwo Wielkiej Brytanii. Turcy stracili wszystkie działa i ok. tysiąca jeńców, a 25 lipca Brytyjczycy zajęli An-Nasirijję, ostatnie ważne miasto wilajetu Basry.
+authors: [Łukasz Skowroń]
+tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania, Royal Navy]
+milestone: false
+---
+
+Bitwa pod An-Nasirijją zakończyła brytyjski podbój wilajetu Basry. Wojska brytyjskie i indyjskie generała George'a Gorringe'a, które pod koniec czerwca 1915 roku [ruszyły w górę Eufratu](/brytyjczycy-ruszaja-w-gore-eufratu), 5 lipca wywalczyły sobie wyjście z kanału Akaika na główny nurt rzeki. Kilka kilometrów przed [An-Nasirijją](https://pl.wikipedia.org/wiki/An-Nasirijja) natrafiły jednak na silne tureckie okopy, oparte skrzydłami o bagna, i przez blisko trzy tygodnie musiały czekać na posiłki, walcząc w upale, który zabijał i wyniszczał żołnierzy szybciej niż nieprzyjaciel. 24 lipca, po przybyciu dwóch kolejnych brygad, ciężkich dział i samolotów, Gorringe przełamał tureckie pozycje po obu brzegach [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). W nocy Turcy opuścili miasto, a rankiem 25 lipca Brytyjczycy weszli do An-Nasirijji.
+
+## Nazwa i daty
+
+Brytyjska historia oficjalna (Moberly, *The Campaign in Mesopotamia*) opisuje całą operację w rozdziale „Działania nad Eufratem i zajęcie Nasirii”, a brytyjskie zestawienia nazw bitew mówią o akcjach pod Nasirią. Angielska Wikipedia datuje bitwę na 27 czerwca – 25 lipca 1915 roku, licząc od wyruszenia wyprawy z Al-Kurny. Do 3 lipca Brytyjczycy jednak tylko przeciągali statki przez tamę na kanale Akaika i prowadzili rozpoznanie. Pierwsze starcia z Arabami stoczyli po południu 4 lipca, a pierwszą prawdziwą bitwę z Turkami 5 lipca, przy ujściu kanału do Eufratu. Dlatego przyjmujemy daty 5–25 lipca 1915 roku. Najważniejsze dni to 5 lipca (walka u ujścia Akaiki), 14 lipca (nieudany atak na wzgórza piaszczyste na prawym brzegu) i 24 lipca (rozstrzygające natarcie). Miasto zajęto 25 lipca.
+
+## Tło
+
+Po [zdobyciu Al-Amary](/bitwy/druga-bitwa-pod-al-kurna) nad Tygrysem dowódca wojsk brytyjskich w [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), generał John Nixon, chciał zająć także An-Nasirijję nad Eufratem. Miasto było tureckim ośrodkiem władzy w kraju potężnej konfederacji plemion Muntafik. Nixon obawiał się, że turecka załoga zdoła stamtąd znów poprowadzić Arabów na Basrę, jak wiosną [pod Szuajbą](/bitwy/bitwa-pod-szuajba). Zakładał też, że większość tureckich wojsk odeszła z miasta nad Tygrys, więc opór będzie słaby.
+
+Pustynią w pełni lata maszerować nie było można, więc 30 Brygada generała Charlesa Mellissa popłynęła rzecznymi parowcami i łodziami przez jezioro Hammar i kanał Akaika, odnogę Eufratu powyżej [Suk asz-Szujuch](https://pl.wikipedia.org/wiki/Suk_asz-Szujuch). Nie miała zwierząt jucznych, a całe zaopatrzenie szło wodą. Flotyllą [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) dowodził komandor Wilfrid Nunn, który miał uzbrojony kuter Sumana, stare parowce z kołem łopatkowym Shushan, Mahsoudi i Muzaffari oraz działa 4,7-calowe na łodziach. Przepchnięcie statków przez tamę na kanale zajęło kilka dni i dopiero wieczorem 3 lipca wszystkie jednostki znalazły się za nią.
+
+## Siły
+
+Według brytyjskiej historii oficjalnej 5 lipca Gorringe miał zaledwie 1719 karabinów: 1/4 Batalion pułku Hampshire, 2/7 Pułk Gurkhów, 24 i 76 Pułk Pendżabski, pół batalionu 48 Pułku Pionierów, saperów, baterię górską i polową. Wody jeziora Hammar opadały i każdy transport posiłków był coraz trudniejszy. 11–13 lipca nadeszła 12 Brygada (2 Batalion pułku Royal West Kent, 67 i 90 Pułk Pendżabski, 44 Pułk Piechoty Merwara), a 19 i 20 lipca 18 Brygada (2 Batalion pułku Norfolk, 110 Pułk Marathów, 120 Pułk Piechoty), dwa ciężkie działa 5-calowe, haubice, bateria karabinów maszynowych i bateria ochotników z Madrasu. 19 i 22 lipca przyleciały dwa samoloty. W dniu rozstrzygającego natarcia Brytyjczycy mieli około 4600 karabinów i 26 dział. Bataliony były jednak bardzo przerzedzone: batalion z Hampshire liczył tylko 140 ludzi.
+
+Po stronie tureckiej dowodził według brytyjskiej historii oficjalnej Ahmed Bej. 5 lipca u ujścia Akaiki Brytyjczycy mieli przed sobą około 300 tureckich żołnierzy, około 2000 Arabów i dwa działa, a w trakcie walki nadeszło z An-Nasirijji jeszcze około 700 żołnierzy z dwoma działami. Później Turcy stale się wzmacniali. 14 lipca Brytyjczycy szacowali ich na pięć–sześć tysięcy ludzi z dziesięcioma działami. Według ocen sporządzonych po bitwie 24 lipca Ahmed Bej miał około 4200 żołnierzy tureckich z 15 działami oraz wielu arabskich wojowników z plemion.
+
+## Przebieg: walka u ujścia Akaiki (4–5 lipca)
+
+4 lipca o czwartej rano kanonierki z 76 Pułkiem Pendżabskim zajęły budynek nazywany przez Brytyjczyków Domem Atiego (Ati's House), mniej więcej w połowie kanału. Po południu Gurkhowie wylądowali na południowym brzegu i przez gaje daktylowe, pod ogniem Arabów, doszli do szerokiej i głębokiej odnogi Szatra. Jej drugi brzeg był obsadzony, więc spędzili tam noc pod ostrzałem. Nocą dołączył do nich batalion z Hampshire.
+
+5 lipca rano Melliss z 24 i 76 Pułkiem Pendżabskim i baterią górską ruszył północnym brzegiem kanału. 76 Pułk utknął pod silnym ogniem zza glinianych murków. 24 Pułk podpłynął przez rozlewisko w arabskich łodziach (bellumach), ale i on dostał się pod ogień, wysiadł i dalej natarł lądem. Sumana, wysłana na pomoc, została dwukrotnie trafiona i wyłączona z walki. Przed południem Pendżabczycy dotarli do Eufratu i ogniem karabinowym, wspierani przez działa, zaczęli brać górę nad tureckimi okopami i baterią na przeciwległym brzegu. Około 13.20 Turcy wywiesili białe flagi. Żołnierze przenieśli łodzie na rękach przez kilkadziesiąt metrów suchego lądu, a Melliss przeprawił się przez rzekę i przejął jeńców i działa. W tym czasie pionierzy i batalion z Hampshire obeszli odnogę Szatra od góry, a Turcy wycofujący się w stronę Eufratu trafili na Brytyjczyków i się poddali. Ich arabscy sojusznicy uciekli. Do wieczora kanał oczyszczono z min, a flotylla zakotwiczyła u ujścia.
+
+Brytyjczycy wzięli 91 jeńców i dwa działa, a stracili 109 zabitych i rannych, w tym 25 zabitych. Połowa strat przypadła na 76 Pułk Pendżabski. Następnego dnia Nunn, któremu towarzyszył brytyjski polityczny oficer sir Percy Cox, popłynął do Suk asz-Szujuch, ważnego ośrodka handlu z około dwunastoma tysiącami mieszkańców. Nad miastem powiewały białe flagi. Brytyjczycy wywiesili flagę na komorze celnej i oddali miasto pod opiekę miejscowego szejka.
+
+## Przebieg: pod okopami Madżininy (6–23 lipca)
+
+6 lipca flotylla i wojsko ruszyły w górę Eufratu. Kilkanaście kilometrów przed An-Nasirijją, w zakolu rzeki nazwanym od pobliskiej wsi Asani, natrafiły na zaporę z zatopionych statków (nie zamykała jednak toru wodnego) i na silne tureckie okopy po obu brzegach. Na prawym brzegu kryły się za szeroką i głęboką odnogą Madżinina, do której prowadził zupełnie odkryty teren. Na lewym brzegu zaczynały się przy cyplu, który Brytyjczycy nazwali Thornycroft Point od tureckiej motorówki. Oba skrzydła tureckiej pozycji opierały się o bagna. Gorringe, mając około 1900 karabinów, z których wiele ze względu na upał nadawało się tylko do lekkiej służby, uznał, że bez posiłków nie zaatakuje. Odesłał wszystkie płytko zanurzone statki do Al-Kurny po kolejne oddziały, a w tym czasie nocami przesuwał swoje stanowiska coraz bliżej Turków.
+
+Pierwsze posiłki przybyły 11 lipca. W nocy z 12 na 13 lipca Turcy trzykrotnie zaatakowali brytyjskie okopy na lewym brzegu i za każdym razem zostali odparci. Zwiad w bellumie wykazał, że do grupy niskich wzgórz piaszczystych (Sandhills) na prawym brzegu, na zachód od ujścia Madżininy, da się podpłynąć łodziami przez bagna. Gorringe postanowił je zająć, by stamtąd ostrzelać tureckie okopy z boku i zagrozić ich tyłom. W nocy na 14 lipca 76 Pułk Pendżabski i pionierzy bez większego oporu przesunęli linię na prawym brzegu do wsi Szuchair. Jednocześnie 24 Pułk Pendżabski podpułkownika Climo popłynął w bellumach przez trzciny na wzgórza. Żołnierze musieli przepychać łodzie na rękach. O świcie, po krótkim ostrzale z dział górskich, ruszyli do szturmu, brodząc w wodzie po pas i wyżej, ale utknęli dwieście kilkadziesiąt metrów przed okopami. Z boku zaatakowali ich Arabowie z bagien, a z północy ostrzelały tureckie działa. Climo zarządził odwrót, który pod ciągłym ogniem, z rannymi na łodziach, trwał do dziesiątej rano. Z 436 ludzi pułk stracił 56 zabitych i 91 rannych, a z ośmiu brytyjskich oficerów przeżyło tylko dwóch.
+
+Gorringe odłożył planowany atak na lewym brzegu i poprosił o kolejne posiłki, zwłaszcza o samoloty i ciężkie działa. Nieudany atak przyniósł mu jednak korzyść: zaniepokojeni Turcy przesunęli część wojsk z lewego brzegu na prawy, co według samego Gorringe'a w dużej mierze przesądziło o późniejszym zwycięstwie. Przez kolejne dni obie strony toczyły drobne, uporczywe walki, a Brytyjczycy kopali okopy coraz bliżej nieprzyjaciela. Według historii oficjalnej od 6 do 23 lipca stracili w walce 302 ludzi. Znacznie więcej odebrały im upał i choroby. Od 26 czerwca do 23 lipca do Basry odesłano 373 chorych żołnierzy liniowych, a 24 lipca w szpitalu w obozie pod Asani leżało jeszcze 316. 21 lipca lot samolotu [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) po raz pierwszy dał Gorringe'owi pełny obraz tureckich pozycji.
+
+## Przebieg: natarcie 24 lipca i zajęcie miasta
+
+24 lipca o piątej rano, przy chłodniejszym niż zwykle wietrze, brytyjska artyleria otworzyła ogień. O 5.30 na lewym brzegu ruszyła do natarcia 12 Brygada, którą prowadził batalion Royal West Kent. Do 6.40 zdobył on okopy przy Thornycroft Point, a brygada w ciężkiej walce oczyściła cały teren do odnogi Majadija, gdzie zdobyła sześć dział. Na prawym brzegu kuter Sumana pod gęstym ogniem przeholował przez rzekę opancerzoną barkę z materiałem na mosty i osadził ją na mieliźnie w odnodze Madżinina. Saperzy i oddział z Hampshire stracili przy tym po około dwadzieścia ludzi. Barka i mosty okazały się zbyt trudne w użyciu, ale barka podziałała jak tama i obniżyła wodę. Batalion z Hampshire, Gurkhowie i 76 Pułk Pendżabski przeszli odnogę w bród po pas, a Turcy uciekli z okopów przed ich szturmem, zostawiając pięć dział. Przed dziesiątą cała pozycja Madżinina była w rękach brytyjskich.
+
+Turcy bronili się jeszcze na tylnej pozycji nad odnogą Sadanawija. W cieniu było ponad 43 stopnie Celsjusza, a łączność telefoniczna sztabu z brygadami się urwała, więc przez dwie godziny bitwa stała w miejscu. Po południu Nunn podprowadził Shushana na bliską odległość i ostrzelał obrońców ze wszystkich dział, wspierany przez działa polowe na parowcu Mejidieh. Turcy uciekli przez bagna na północ. Wieczorem Nunn popłynął na rozpoznanie pod samo miasto. Działo na Shushanie podpaliło turecką motorówkę, ale z dachów strzelano do okrętów, więc flotylla zakotwiczyła na noc poniżej miasta. Rankiem 25 lipca przypłynęli do niej przedstawiciele mieszkańców z wiadomością, że Turcy w nocy opuścili An-Nasirijję. Melliss ze stu Gurkhami wszedł do miasta, a w ciągu dnia dołączyły do niego 12 i 30 Brygada.
+
+## Straty
+
+24 lipca Brytyjczycy i Hindusi stracili według historii oficjalnej 104 zabitych i 429 rannych. Najciężej ucierpiał batalion Royal West Kent, który wszedł do walki w sile poniżej 500 ludzi i stracił 44 zabitych i 110 rannych. Łącznie z wcześniejszymi walkami straty bojowe wyniosły około 950 ludzi, nie licząc setek chorych. Marynarka miała w całej operacji tylko pięciu rannych. Straty tureckie z 24 lipca Brytyjczycy szacowali na około 2000 zabitych i rannych. Tego dnia wzięli 450 jeńców, a do 29 lipca ich liczba wzrosła do 951. Zdobyli wszystkie 15 tureckich dział, 5 karabinów maszynowych, trzy motorówki i duże ilości broni i amunicji. Część opracowań, m.in. angielska Wikipedia, podaje okrągłą liczbę tysiąca jeńców i 17 zdobytych dział.
+
+## Znaczenie
+
+Zajęcie An-Nasirijji zamknęło Turkom drugą, obok Tygrysu, drogę na Basrę i dało Brytyjczykom kontrolę nad całym wilajetem Basry. Nixon w raporcie chwalił Gorringe'a i żołnierzy, pisząc, że rzadko kiedy wojsko musiało walczyć w gorszym upale, a król Jerzy V przesłał mu 28 lipca gratulacje. Bitwa pokazała jednak także słabości operacji w Mezopotamii: brak lądowego transportu, zależność od opadającej wody i ogromne straty z powodu chorób. Kolejne zwycięstwo umocniło Nixona w przekonaniu, że Turcy są słabi. Już we wrześniu jego wojska zajęły [Al-Kut](https://pl.wikipedia.org/wiki/Al-Kut), a jesienią ruszyły na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad), co zakończyło się klęską i kapitulacją dywizji Townshenda w Al-Kucie w kwietniu 1916 roku.

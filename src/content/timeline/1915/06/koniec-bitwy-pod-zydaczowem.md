@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front wschodni
 date: 1915-06-22
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Niemcy, Austro-Węgry, Rosja, Galicja]
 milestone: false
 draft: false

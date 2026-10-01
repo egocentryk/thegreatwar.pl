@@ -8,7 +8,7 @@ endDate: 1915-07-07
 location: Dolina Soczy (Isonzo) od Tolmina po ujście do Adriatyku, przyczółek Gorycji (Sabotino, Oslavia, Podgora) i zachodnia krawędź płaskowyżu Kras (Monte San Michele, Sei Busi), Austro-Węgry (dziś Włochy i Słowenia)
 sides:
   - name: Włochy
-    commanders: [Luigi Cadorna, Pietro Frugoni, Emanuele Filiberto, książę Aosty]
+    commanders: [Luigi Cadorna, Pietro Frugoni, książę Aosty Emanuele Filiberto]
   - name: Austro-Węgry
     commanders: [Svetozar Boroević, Eugeniusz Habsburg]
 result: Zwycięstwo obronne Austro-Węgier. Włosi przekroczyli Soczę pod Sagrado i zdobyli niewielkie skrawki terenu u stóp Krasu, ale nigdzie nie przełamali frontu.

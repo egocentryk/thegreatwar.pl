@@ -6,7 +6,7 @@ front: Front wschodni
 battle: odbicie-lwowa
 date: 1915-06-22
 authors: [Łukasz Skowroń]
-dayOrder: 2
+dayOrder: 3
 tags: [Lwów, Austro-Węgry, Rosja, Galicja]
 milestone: false
 draft: false
