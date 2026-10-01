@@ -6,7 +6,7 @@ front: Front zachodni
 battle: bitwa-pod-soissons
 date: 1915-01-08
 authors: [Natalia]
-dayOrder: 3
+dayOrder: 4
 tags: [Francja, Niemcy, Alexander von Kluck, wojna pozycyjna]
 milestone: true
 draft: false

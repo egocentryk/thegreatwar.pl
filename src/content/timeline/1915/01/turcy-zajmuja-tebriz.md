@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Bliski Wschód
 date: 1915-01-08
 authors: [Łukasz Skowroń]
-dayOrder: 2
+dayOrder: 3
 tags: [Persja, Imperium Osmańskie, Rosja, dżihad]
 milestone: false
 draft: false

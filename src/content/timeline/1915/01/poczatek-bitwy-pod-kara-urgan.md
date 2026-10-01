@@ -6,7 +6,7 @@ front: Bliski Wschód
 battle: bitwa-pod-sarykamyszem
 date: 1915-01-08
 authors: [Łukasz Skowroń]
-dayOrder: 1
+dayOrder: 2
 tags: [Imperium Osmańskie, Rosja, Kaukaz, Enver Pasza]
 milestone: false
 draft: false
