@@ -210,6 +210,14 @@ export const BATTLE_PHASES = [
       "Latem 1915 roku państwa centralne rozszerzyły ofensywę na cały front wschodni. Po odzyskaniu Galicji armie Mackensena skręciły na północ, między Wisłę a Bug, w stronę Lublina i Chełma, a 13 lipca niemieckie armie Hindenburga uderzyły znad granicy Prus Wschodnich na Narew. Celem było okrążenie wojsk rosyjskich w wysuniętym na zachód Królestwie Polskim. Rosjanie, pozbawieni amunicji i rezerw, toczyli zacięte boje opóźniające, ale nie zdołali utrzymać linii Wisły i Narwi. W sierpniu opuścili Warszawę, Iwangród i Nowogieorgijewsk, a do jesieni wycofali się z całego Królestwa Polskiego, Litwy i części Kurlandii. Wielki odwrót zakończył trwające od 1815 roku rosyjskie panowanie nad centralną Polską.",
   },
   {
+    slug: "1916-front-wschodni",
+    title: "1916: Front wschodni",
+    front: "Front wschodni",
+    dates: "od marca 1916",
+    intro:
+      "Po wielkim odwrocie 1915 roku front wschodni zastygł na linii od Zatoki Ryskiej przez Dźwinę, Polesie i Wołyń po granicę Rumunii. Armia rosyjska odbudowała w ciągu zimy siły, zaopatrzenie w amunicję i rezerwy. Na prośbę Francuzów, wykrwawianych pod Verdun, Rosjanie już w marcu 1916 roku uderzyli nad jeziorem Narocz na Białorusi. Ofensywa, prowadzona w roztopach i bez dostatecznego wsparcia artylerii, załamała się po kilku tygodniach z ciężkimi stratami. Rosyjskie dowództwo wyciągnęło jednak z niej wnioski, które latem przyniosły największy sukces armii carskiej w tej wojnie.",
+  },
+  {
     slug: "1915-isonzo",
     title: "1915: Front włoski i bitwy nad Isonzo",
     front: "Front włoski",
@@ -248,6 +256,14 @@ export const BATTLE_PHASES = [
     dates: "od lutego 1915",
     intro:
       "W 1915 roku alianci zaczęli odbierać Niemcom kolejne kolonie w głębi kontynentu. W lipcu wojska Związku Południowej Afryki zmusiły do kapitulacji Niemiecką Afrykę Południowo-Zachodnią. W Kamerunie brytyjskie, francuskie i belgijskie kolumny zdobyły Garuę i Ngaundere, a jesienią ruszyły ponownie na Jaunde, przebijając się przez górskie twierdze na północy kraju. W Niemieckiej Afryce Wschodniej wojna utknęła w miejscu: Lettow-Vorbeck nękał brytyjską kolej ugandyjską, a Brytyjczycy czekali na posiłki, by przejść do natarcia.",
+  },
+  {
+    slug: "1916-afryka",
+    title: "1916: Wojna w Afryce",
+    front: "Afryka",
+    dates: "od marca 1916",
+    intro:
+      "Z początkiem 1916 roku w Afryce pozostała już tylko jedna niemiecka kolonia, którą trzeba było zdobyć. Kamerun skapitulował w lutym, a dowództwo w Afryce Wschodniej objął południowoafrykański generał Jan Smuts, który dostał posiłki ze Związku Południowej Afryki, Indii i Rodezji. W marcu jego wojska uderzyły na niemieckie pozycje u stóp Kilimandżaro i wyparły Lettow-Vorbecka z północnego pogranicza kolonii. W tym samym czasie Brytyjczycy rozpoczęli w Sudanie kampanię przeciw sułtanowi Darfuru Alemu Dinarowi, który sprzymierzył się z Turcją i bractwem Sanusijja.",
   },
   {
     slug: "1914-imperium-osmanskie",
