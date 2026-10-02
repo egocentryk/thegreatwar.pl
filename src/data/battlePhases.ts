@@ -82,6 +82,14 @@ export const BATTLE_PHASES = [
       "Najbardziej wysunięty na południe odcinek frontu zachodniego biegł przez góry Wogezy, w pobliżu dawnej granicy francusko-niemieckiej w Alzacji. Walczono tu w trudnym, zalesionym terenie o pojedyncze szczyty i grzbiety, z których można było obserwować dolinę Renu albo doliny prowadzące w głąb Francji. Zimą i wiosną 1915 roku Francuzi i Niemcy kilkakrotnie odbijali sobie szczyt Hartmannswillerkopf. Latem francuscy strzelcy alpejscy zaatakowali niemieckie pozycje na grzbiecie Le Linge nad doliną Munster. Walki w Wogezach, toczone często na odległość rzutu granatem, przyniosły obu stronom ciężkie straty przy niewielkich zmianach linii frontu.",
   },
   {
+    slug: "1915-jesienna-ofensywa",
+    title: "1915: Jesienna ofensywa – Loos i Szampania",
+    front: "Front zachodni",
+    dates: "wrzesień – listopad 1915",
+    intro:
+      "Jesienią 1915 roku alianci podjęli największą jak dotąd próbę przełamania frontu zachodniego. Joffre liczył, że jednoczesne uderzenia w Szampanii i w Artois rozerwą niemiecką linię i zmuszą wroga do odwrotu z Francji, a przy okazji odciążą Rosjan, wycofujących się na wschodzie. 25 września Francuzi zaatakowali w Szampanii i pod Vimy, a Brytyjczycy pod Loos, gdzie po raz pierwszy na dużą skalę użyli chmury chloru i rzucili do walki dywizje Nowych Armii. Pierwszego dnia zdobyli pierwszą linię niemieckich okopów, ale druga pozycja, przygotowana przez Niemców w ciągu lata, okazała się nie do przejścia. Walki trwały do listopada i przyniosły obu stronom ogromne straty bez rozstrzygnięcia. Niepowodzenie pod Loos kosztowało stanowisko dowódcę Brytyjskiego Korpusu Ekspedycyjnego, Johna Frencha.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",

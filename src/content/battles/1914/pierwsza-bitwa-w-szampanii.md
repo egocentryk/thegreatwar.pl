@@ -23,7 +23,7 @@ Pierwsza bitwa w [Szampanii](https://pl.wikipedia.org/wiki/Szampania) była pier
 
 Na tej stronie przyjmujemy daty 20 grudnia 1914 – 17 marca 1915 roku. Tak datuje bitwę brytyjska chronologia wojny, na której opiera się nasza oś czasu, a także polska i angielska Wikipedia. 20 grudnia ruszyło główne natarcie 4 Armii, a 17 marca generał de Langle de Cary wstrzymał ofensywę.
 
-Co do końca bitwy źródła są zgodne, ale jej początek datuje się różnie. Brytyjski serwis greatwar.co.uk podaje daty 10 grudnia 1914 – 17 marca 1915, licząc od pierwszych, drobnych ataków pod Perthes. Francuska Wikipedia i część nowszych opracowań zaczynają bitwę 14 grudnia, gdy na froncie 4 Armii ruszyły pierwsze natarcia. Z kolei Niemcy nazywają „zimową bitwą w Szampanii” (Winterschlacht in der Champagne) przede wszystkim drugą, najcięższą fazę walk, od 16 lutego do około 20 marca 1915 roku. Pierwszą bitwą nazywa się ją dla odróżnienia od kolejnych wielkich ofensyw na tym samym terenie, przede wszystkim od [drugiej bitwy w Szampanii](https://pl.wikipedia.org/wiki/II_bitwa_w_Szampanii) z jesieni 1915 roku.
+Co do końca bitwy źródła są zgodne, ale jej początek datuje się różnie. Brytyjski serwis greatwar.co.uk podaje daty 10 grudnia 1914 – 17 marca 1915, licząc od pierwszych, drobnych ataków pod Perthes. Francuska Wikipedia i część nowszych opracowań zaczynają bitwę 14 grudnia, gdy na froncie 4 Armii ruszyły pierwsze natarcia. Z kolei Niemcy nazywają „zimową bitwą w Szampanii” (Winterschlacht in der Champagne) przede wszystkim drugą, najcięższą fazę walk, od 16 lutego do około 20 marca 1915 roku. Pierwszą bitwą nazywa się ją dla odróżnienia od kolejnych wielkich ofensyw na tym samym terenie, przede wszystkim od drugiej bitwy w Szampanii z jesieni 1915 roku.
 
 ## Tło
 

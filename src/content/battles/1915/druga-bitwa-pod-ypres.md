@@ -61,7 +61,7 @@ Niemieckie straty pod Ypres od 21 kwietnia do 30 maja Reichsarchiv podał po woj
 
 ## Znaczenie
 
-Druga bitwa pod Ypres była dla Niemców sukcesem tylko połowicznym. Zdobyli wzniesienia na północ i wschód od miasta, skąd ich obserwatorzy widzieli teraz niemal cały łuk, ale nie przełamali frontu i nie zmusili aliantów do opuszczenia Ypres. Sami przyznawali potem, że atak gazowy przeprowadzono bez odwodów i pod wieczór, więc największej szansy, jaką dała im nowa broń, nie wykorzystano. Efekt zaskoczenia nie dał się powtórzyć. Już po kilku tygodniach żołnierze alianccy dostali pierwsze maski, a jesienią pod Loos gazu użyli Brytyjczycy.
+Druga bitwa pod Ypres była dla Niemców sukcesem tylko połowicznym. Zdobyli wzniesienia na północ i wschód od miasta, skąd ich obserwatorzy widzieli teraz niemal cały łuk, ale nie przełamali frontu i nie zmusili aliantów do opuszczenia Ypres. Sami przyznawali potem, że atak gazowy przeprowadzono bez odwodów i pod wieczór, więc największej szansy, jaką dała im nowa broń, nie wykorzystano. Efekt zaskoczenia nie dał się powtórzyć. Już po kilku tygodniach żołnierze alianccy dostali pierwsze maski, a jesienią pod Loos Brytyjczycy po raz pierwszy na dużą skalę wypuścili chmurę chloru.
 
 Bitwa zapoczątkowała wojnę chemiczną na froncie zachodnim. Alianci uznali atak za złamanie [konwencji haskich](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) i barbarzyństwo, a propaganda wykorzystywała go przez całą wojnę. Niemiecka metoda okazała się też zapowiedzią nowego sposobu walki: krótkich natarć na ograniczony cel, po zmasowanym ostrzale ciężkiej artylerii, po których zdobyty teren natychmiast umacniano.
 
