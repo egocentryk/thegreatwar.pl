@@ -5,7 +5,7 @@ category: Wojsko
 front: Front bałkański
 date: 1915-09-23
 authors: [Łukasz Skowroń]
-dayOrder: 1
+dayOrder: 2
 tags: [Grecja, Elefterios Wenizelos, Konstantyn I Grecki, mobilizacja]
 milestone: false
 draft: false

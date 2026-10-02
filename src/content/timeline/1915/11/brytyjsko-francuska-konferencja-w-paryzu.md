@@ -1,0 +1,27 @@
+---
+title: Brytyjsko-francuska konferencja w Paryżu
+summary: 17 listopada 1915 w Paryżu brytyjscy i francuscy ministrowie omówili Grecję i Saloniki, odrzucili plan Kitchenera i zgodzili się na wspólną radę wojenną.
+category: Dyplomacja
+date: 1915-11-17
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Wielka Brytania, Francja, Herbert Henry Asquith, Aristide Briand]
+milestone: false
+draft: false
+---
+
+17 listopada 1915 roku w Paryżu spotkali się członkowie brytyjskiego Komitetu Wojennego i francuskiego rządu. Z Londynu przyjechali premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith), minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey), pierwszy lord Admiralicji [Arthur Balfour](https://pl.wikipedia.org/wiki/Arthur_Balfour) i minister amunicji [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George). Gospodarzem był [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand), który [niespełna trzy tygodnie wcześniej](/aristide-briand-premierem-francji) stanął na czele rządu i objął zarazem ministerstwo spraw zagranicznych. Piąty członek brytyjskiego komitetu, minister wojny lord Kitchener, był w tym czasie na wschodzie Morza Śródziemnego i tego samego dnia odwiedzał [Saloniki](https://pl.wikipedia.org/wiki/Saloniki). Było to dopiero drugie spotkanie Asquitha z francuskim rządem w czasie wojny. Pierwsze odbyło się w lipcu w [Calais](/pierwsza-konferencja-w-calais).
+
+## Po co zwołano konferencję
+
+Według brytyjskiej historii oficjalnej wojny morskiej konferencję zwołano z inicjatywy francuskiego naczelnego wodza, generała [Josepha Joffre’a](https://pl.wikipedia.org/wiki/Joseph_Joffre). Miała przyjrzeć się całej splątanej sytuacji na Bliskim Wschodzie i w ogóle lepiej uzgodnić wysiłki obu sojuszników. Spraw do rozstrzygnięcia było kilka. Serbia się załamywała, a wojska brytyjskie i francuskie, które wkroczyły z Grecji w dolinę Wardaru, nie zdołały nawiązać z nią łączności. Rząd brytyjski czekał na raport Kitchenera w sprawie ewakuacji Gallipoli. Coraz bardziej niepokojąca była też postawa Grecji. Nowy premier Stefanos Skuludis zapowiedział 10 listopada, że jeśli wojska sprzymierzonych wycofają się z Serbii na terytorium greckie, Grecja będzie musiała je rozbroić. Brytyjczycy w odpowiedzi zatrzymali na Malcie i w portach egipskich statki z zaopatrzeniem dla Grecji i wstrzymali licencje eksportowe. Oba rządy przygotowywały notę do Aten, popartą demonstracją połączonej floty.
+
+Na stole leżał też plan samego Kitchenera. Po przybyciu na Limnos zaproponował on desant w zatoce Ajas, nad zatoką Aleksandretty, by przeciąć główną linię kolejową łączącą Turcję z Syrią i Mezopotamią. Pomysł wysunął wcześniej dowódca w Egipcie, generał John Maxwell, a na miejscu poparli go generał Charles Monro i admirał John de Robeck. Do desantu Kitchener chciał użyć dwóch dywizji przeznaczonych dla Salonik. Sprzeciwiał się temu brytyjski Sztab Generalny, Admiralicja nie chciała zaopatrywać jeszcze jednego frontu, zanim zlikwiduje się Gallipoli albo Saloniki, a Francuzi zgłaszali zastrzeżenia polityczne: zatoka leżała tuż obok Syrii, którą uważali za swoją strefę wpływów. 15 listopada Komitet Wojenny wstępnie uznał, że z planu trzeba zrezygnować, a ostateczną decyzję odłożył do rozmów w Paryżu.
+
+## Ustalenia
+
+Brytyjska historia oficjalna wojny morskiej streszcza wnioski konferencji następująco. Na Bliskim Wschodzie nie należy otwierać żadnej nowej linii działań. Dwie brytyjskie dywizje, które miały wzmocnić wojska na Morzu Śródziemnym i na które Kitchener liczył przy desancie w zatoce Ajas, miały płynąć prosto do Salonik. Decyzja w sprawie ewakuacji Gallipoli miała poczekać na ostateczną ocenę Kitchenera i pułkownika Girodona, którego Francuzi wysłali w tym celu na miejsce. Nota do Grecji miała zostać wręczona dopiero wtedy, gdy Saloniki będą zabezpieczone przed zaskoczeniem przez armię grecką, odwrót wojsk brytyjskich i francuskich zapewniony, a siły morskie gotowe do jej wyegzekwowania. Według brytyjskiej historii oficjalnej działań w Macedonii Kitchener dowiedział się o odrzuceniu swojego planu 17 listopada, w Salonikach. Desant w zatoce Ajas nigdy nie doszedł do skutku.
+
+Najdalej sięgało postanowienie o utworzeniu międzysojuszniczej rady wojennej ze stałym sztabem, utrzymującym ścisły kontakt ze sztabami wojsk lądowych i flot obu państw. W pierwszym etapie mieli ją tworzyć premierzy Wielkiej Brytanii i Francji wraz z wybranymi przez siebie ekspertami. Rada miała doradzać rządom, a do udziału zamierzano zaprosić także Włochy i Rosję. Wstępne projekty ściślejszej współpracy sprzymierzonych przygotowali wcześniej lord Esher i sekretarz Komitetu Wojennego [Maurice Hankey](https://pl.wikipedia.org/wiki/Maurice_Hankey). Briand, obejmując urząd, obiecał w parlamencie „jedność frontu”, także w stosunkach z sojusznikami. Amerykański miesięcznik „Current History” pisał, że ogłoszono tego dnia, iż Francja i Wielka Brytania będą prowadzić wojnę za pośrednictwem wspólnej rady wojennej.
+
+Na zapowiedziach się jednak skończyło. Stała rada ze wspólnym sekretariatem nie powstała, a historyczka Elizabeth Greenhalgh zwraca uwagę, że Briand nie zgodził się na proponowany przez Brytyjczyków stały sekretariat. Na początku grudnia w [Chantilly](https://pl.wikipedia.org/wiki/Chantilly) spotkali się dowódcy armii sprzymierzonych, a pierwsza formalna konferencja polityczna sprzymierzonych zebrała się w Paryżu dopiero pod koniec marca 1916 roku. Wspólna Najwyższa Rada Wojenna powstała dopiero w listopadzie 1917 roku.

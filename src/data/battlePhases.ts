@@ -226,6 +226,14 @@ export const BATTLE_PHASES = [
       "Wojna szybko objęła kolonie w Afryce. Niemcy posiadały tu cztery kolonie: Togo, Kamerun, Niemiecką Afrykę Południowo-Zachodnią i Niemiecką Afrykę Wschodnią. Wielka Brytania, Francja i Belgia chciały je zająć, odebrać Niemcom porty i stacje radiowe oraz zabezpieczyć własne posiadłości. Togo padło już w sierpniu, a w Kamerunie alianci zajęli wybrzeże. Na wschodzie kontynentu niemieckie oddziały pułkownika Paula von Lettow-Vorbecka zadały Brytyjczykom dotkliwe porażki i rozpoczęły kampanię, która trwała aż do końca wojny. W styczniu 1915 roku odbiły jeszcze przygraniczny Jasin. Ciężar walk w Afryce ponieśli głównie afrykańscy żołnierze i tragarze.",
   },
   {
+    slug: "1915-afryka",
+    title: "1915: Wojna w Afryce",
+    front: "Afryka",
+    dates: "od lutego 1915",
+    intro:
+      "W 1915 roku alianci zaczęli odbierać Niemcom kolejne kolonie w głębi kontynentu. W lipcu wojska Związku Południowej Afryki zmusiły do kapitulacji Niemiecką Afrykę Południowo-Zachodnią. W Kamerunie brytyjskie, francuskie i belgijskie kolumny zdobyły Garuę i Ngaundere, a jesienią ruszyły ponownie na Jaunde, przebijając się przez górskie twierdze na północy kraju. W Niemieckiej Afryce Wschodniej wojna utknęła w miejscu: Lettow-Vorbeck nękał brytyjską kolej ugandyjską, a Brytyjczycy czekali na posiłki, by przejść do natarcia.",
+  },
+  {
     slug: "1914-imperium-osmanskie",
     title: "1914: Przystąpienie Imperium Osmańskiego",
     front: "Bliski Wschód",
