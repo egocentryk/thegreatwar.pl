@@ -11,7 +11,7 @@ interface Props {
   image?: string;
 }
 
-// `image` is only set by article pages with an image; other pages have no og:image.
+// `image` is only set by article pages with an image; other pages fall back to SITE.ogImage.
 const { title, description = SITE.description, image } = Astro.props;
 ---
 
