@@ -242,6 +242,14 @@ export const BATTLE_PHASES = [
       "W 1915 roku wojna na morzu zmieniła charakter. Niemiecka Flota Pełnomorska nadal unikała walnej bitwy z Grand Fleet, a jej wypady na wybrzeże Anglii zakończyły się w styczniu starciem na Dogger Bank. Coraz większą rolę odgrywały okręty podwodne, które Niemcy zaczęli wysyłać przeciw statkom handlowym wokół Wysp Brytyjskich.",
   },
   {
+    slug: "1916-wojna-na-morzu",
+    title: "1916: Wojna na morzu",
+    front: "Wojna na morzu",
+    dates: "od kwietnia 1916",
+    intro:
+      "W 1916 roku niemiecka Flota Pełnomorska pod nowym dowódcą, admirałem Reinhardem Scheerem, przyjęła śmielszą strategię. Zamiast czekać w portach, miała wywabiać części brytyjskiej Grand Fleet na Morze Północne, by zniszczyć je przewagą, zanim nadejdą główne siły. Służyły temu rajdy niemieckich krążowników liniowych na wschodnie wybrzeże Anglii, połączone z akcjami okrętów podwodnych i sterowców. Brytyjczycy odpowiadali stawianiem zapór minowych i coraz lepszym rozpoznaniem radiowym, dzięki któremu wiedzieli o wyjściach floty niemieckiej w morze.",
+  },
+  {
     slug: "1914-afryka",
     title: "1914: Wojna w Afryce",
     front: "Afryka",

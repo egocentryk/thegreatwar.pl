@@ -3,6 +3,7 @@ title: Rosyjski desant pod Atiną
 summary: 4 marca 1916 rosyjscy płastuni wylądowali o świcie pod Atiną, na tyłach tureckiej pozycji nad Morzem Czarnym. Turcy uciekli, a droga na Rize stanęła otworem.
 category: Działania zbrojne
 front: Bliski Wschód
+battle: ofensywa-trapezuncka
 date: 1916-03-04
 authors: [Natalia]
 dayOrder: 1

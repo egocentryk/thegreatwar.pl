@@ -30,7 +30,7 @@ Uznanie sprzeciwu sumienia za podstawę zwolnienia było nowością. Asquith pow
 
 ## Bez Irlandii
 
-Ustawa nie obejmowała [Irlandii](https://pl.wikipedia.org/wiki/Irlandia), choć była ona częścią [Zjednoczonego Królestwa](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii). Rząd uznał, że próba narzucenia tam poboru więcej by kosztowała, niż przyniosła, a nacjonaliści irlandzcy wycofali sprzeciw w parlamencie właśnie dlatego, że ich kraj wyłączono. Gdy w 1918 roku rząd spróbował rozciągnąć pobór na Irlandię, wywołało to tam ostry kryzys.
+Ustawa nie obejmowała [Irlandii](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), choć była ona częścią [Zjednoczonego Królestwa](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii). Rząd uznał, że próba narzucenia tam poboru więcej by kosztowała, niż przyniosła, a nacjonaliści irlandzcy wycofali sprzeciw w parlamencie właśnie dlatego, że ich kraj wyłączono. Gdy w 1918 roku rząd spróbował rozciągnąć pobór na Irlandię, wywołało to tam ostry kryzys.
 
 Opór w Wielkiej Brytanii był słabszy, niż się obawiano. Dzień przed sankcją królewską konferencja Partii Pracy w [Bristolu](https://pl.wikipedia.org/wiki/Bristol) potępiła pobór i samą ustawę dużą większością głosów, ale niewielką różnicą zdecydowała, że nie będzie domagać się jej uchylenia. Partia pozostała w rządzie koalicyjnym.
 

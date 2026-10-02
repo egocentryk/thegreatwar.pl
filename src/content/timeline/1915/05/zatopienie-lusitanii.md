@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-7 maja 1915 roku około godziny 14.10 niemiecki okręt podwodny [U-20](https://pl.wikipedia.org/wiki/SM_U-20_(1912)) storpedował u południowych wybrzeży [Irlandii](https://pl.wikipedia.org/wiki/Irlandia), kilkanaście mil morskich od przylądka Old Head of Kinsale, brytyjski liniowiec [Lusitania](https://pl.wikipedia.org/wiki/RMS_Lusitania). Jeden z największych i najszybszych statków pasażerskich świata zatonął w ciągu 18 minut. Zginęło prawie 1200 osób, w tym ponad stu obywateli Stanów Zjednoczonych. Zatopienie Lusitanii stało się najgłośniejszym epizodem niemieckiej wojny podwodnej i wywołało najpoważniejszy od początku wojny kryzys w stosunkach Berlina z Waszyngtonem.
+7 maja 1915 roku około godziny 14.10 niemiecki okręt podwodny [U-20](https://pl.wikipedia.org/wiki/SM_U-20_(1912)) storpedował u południowych wybrzeży [Irlandii](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), kilkanaście mil morskich od przylądka Old Head of Kinsale, brytyjski liniowiec [Lusitania](https://pl.wikipedia.org/wiki/RMS_Lusitania). Jeden z największych i najszybszych statków pasażerskich świata zatonął w ciągu 18 minut. Zginęło prawie 1200 osób, w tym ponad stu obywateli Stanów Zjednoczonych. Zatopienie Lusitanii stało się najgłośniejszym epizodem niemieckiej wojny podwodnej i wywołało najpoważniejszy od początku wojny kryzys w stosunkach Berlina z Waszyngtonem.
 
 ## Ostatni rejs
 
