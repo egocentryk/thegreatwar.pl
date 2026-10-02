@@ -3,6 +3,7 @@ title: Von der Goltz dowódcą w Mezopotamii
 summary: 12 grudnia 1915 feldmarszałek Colmar von der Goltz przybył do kwatery Nureddina pod oblężonym Al-Kutem i zakazał dalszych szturmów. Postawił na blokadę.
 category: Wojsko
 front: Bliski Wschód
+battle: oblezenie-al-kutu
 date: 1915-12-12
 authors: [Natalia]
 dayOrder: 1

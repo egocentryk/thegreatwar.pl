@@ -24,7 +24,7 @@ W pierwszych dniach listopada obrońcy odparli bułgarskie natarcie i odrzucili 
 
 Francuzi generała [Maurice'a Sarraila](https://pl.wikipedia.org/wiki/Maurice_Sarrail) próbowali do nich dotrzeć. Na początku listopada, w czasie [walk pod Krivolakiem](/bitwy/bitwa-pod-krivolakiem), przeszli na lewy brzeg [Crnej Reki](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) i nacierali na wzgórza z klasztorem Archanioła. Od serbskich pozycji dzieliło ich, w linii prostej, kilkanaście kilometrów. Według brytyjskiej historii oficjalnej kampanii macedońskiej było już jednak za późno. Około 10 listopada Bułgarzy przestali się interesować Serbami na przełęczy i zwrócili się przeciw Francuzom, a ci po ciężkich walkach pod Czyczewem przeszli do obrony. Serbskie oddziały na Babunie zostały same wobec znacznie liczniejszego przeciwnika.
 
-Przez kilka dni Serbowie trzymali grzbiet, ale bułgarska kawaleria obeszła ich od zachodu. 16 listopada przełęcz i Prilep znalazły się w rękach Bułgarów. Serbowie cofnęli się na południe, ku Bitoli. Według historii Nelsona trzymali się przed miastem jeszcze do początku grudnia, a Bitolę opuścili 5 grudnia.
+Przez kilka dni Serbowie trzymali grzbiet, ale bułgarska kawaleria obeszła ich od zachodu. 16 listopada przełęcz i Prilep znalazły się w rękach Bułgarów. Serbowie cofnęli się na południe, ku Bitoli. Według historii Nelsona trzymali się przed miastem jeszcze do początku grudnia i dopiero wtedy opuścili Bitolę.
 
 ## Zamknięta droga na południe
 
