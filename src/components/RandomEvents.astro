@@ -31,7 +31,7 @@ const initial = [...entries]
   </div>
 
   <ul
-    class="mt-8 grid gap-4 [perspective:1200px] sm:grid-cols-[1.25fr_1fr] sm:grid-rows-3"
+    class="mt-8 grid grid-cols-1 gap-4 perspective-distant sm:grid-cols-[1.25fr_1fr] sm:grid-rows-3"
     aria-live="polite"
   >
     {
@@ -41,7 +41,7 @@ const initial = [...entries]
           <li
             data-leaf
             class:list={[
-              "origin-top transition-[transform,opacity] duration-300 ease-in",
+              "min-w-0 origin-top transition-[transform,opacity] duration-300 ease-in",
               featured && "sm:row-span-3",
             ]}
           >
@@ -187,7 +187,9 @@ const initial = [...entries]
     set("[data-meta]", [leaf.category, leaf.front].filter(Boolean).join(" · "))
     set("[data-title]", leaf.title)
     set("[data-summary]", leaf.summary)
-    item.querySelector("[data-milestone]")?.classList.toggle("hidden", !leaf.milestone)
+    item
+      .querySelector("[data-milestone]")
+      ?.classList.toggle("hidden", !leaf.milestone)
   }
 
   // Each page flips up like a torn-off calendar leaf, one after another.
@@ -209,20 +211,31 @@ const initial = [...entries]
 
     const items = [...section.querySelectorAll<HTMLElement>("[data-leaf]")]
     const current = () =>
-      new Set(items.map((item) => item.querySelector("[data-href]")?.getAttribute("href") ?? ""))
-    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+      new Set(
+        items.map(
+          (item) =>
+            item.querySelector("[data-href]")?.getAttribute("href") ?? "",
+        ),
+      )
+    const reducedMotion = window.matchMedia(
+      "(prefers-reduced-motion: reduce)",
+    ).matches
 
     const show = async (animate: boolean) => {
       const leaves = await loadPool()
       if (leaves.length < items.length) return
       const picks = pick(leaves, items.length, current())
       items.forEach((item, i) =>
-        animate && !reducedMotion ? flip(item, picks[i], i * 90) : fill(item, picks[i]),
+        animate && !reducedMotion
+          ? flip(item, picks[i], i * 90)
+          : fill(item, picks[i]),
       )
     }
 
     show(false)
-    section.querySelector("[data-flip]")?.addEventListener("click", () => show(true))
+    section
+      .querySelector("[data-flip]")
+      ?.addEventListener("click", () => show(true))
   }
 
   // astro:page-load fires on the first load and after every client-side navigation.
