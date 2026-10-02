@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front wschodni
 date: 1915-07-21
 authors: [Natalia]
-dayOrder: 2
+dayOrder: 3
 tags: [Austro-Węgry, Rosja, Franz Conrad von Hötzendorf, Erich von Falkenhayn]
 milestone: false
 draft: false

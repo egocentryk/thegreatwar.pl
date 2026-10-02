@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front wschodni
 date: 1915-07-21
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Niemcy, Austro-Węgry, Rosja, wielki odwrót 1915]
 milestone: false
 draft: false

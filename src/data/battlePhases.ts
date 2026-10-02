@@ -175,7 +175,7 @@ export const BATTLE_PHASES = [
     front: "Front wschodni",
     dates: "lipiec – wrzesień 1915",
     intro:
-      "Latem 1915 roku państwa centralne rozszerzyły ofensywę na cały front wschodni. Po odzyskaniu Galicji armie Mackensena skręciły na północ, między Wisłę a Bug, w stronę Lublina i Chełma, a 13 lipca niemieckie armie Hindenburga uderzyły znad granicy Prus Wschodnich na Narew. Celem było okrążenie wojsk rosyjskich w wysuniętym na zachód Królestwie Polskim. Rosjanie, pozbawieni amunicji i rezerw, toczyli zacięte boje opóźniające, ale nie zdołali utrzymać linii Wisły i Narwi. W sierpniu opuścili Warszawę, Iwangród i Nowogeorgijewsk, a do jesieni wycofali się z całego Królestwa Polskiego, Litwy i części Kurlandii. Wielki odwrót zakończył trwające od 1815 roku rosyjskie panowanie nad centralną Polską.",
+      "Latem 1915 roku państwa centralne rozszerzyły ofensywę na cały front wschodni. Po odzyskaniu Galicji armie Mackensena skręciły na północ, między Wisłę a Bug, w stronę Lublina i Chełma, a 13 lipca niemieckie armie Hindenburga uderzyły znad granicy Prus Wschodnich na Narew. Celem było okrążenie wojsk rosyjskich w wysuniętym na zachód Królestwie Polskim. Rosjanie, pozbawieni amunicji i rezerw, toczyli zacięte boje opóźniające, ale nie zdołali utrzymać linii Wisły i Narwi. W sierpniu opuścili Warszawę, Iwangród i Nowogieorgijewsk, a do jesieni wycofali się z całego Królestwa Polskiego, Litwy i części Kurlandii. Wielki odwrót zakończył trwające od 1815 roku rosyjskie panowanie nad centralną Polską.",
   },
   {
     slug: "1915-isonzo",
