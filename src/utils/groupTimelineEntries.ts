@@ -23,20 +23,23 @@ function compareSameDayOrder(a: TimelineEntry, b: TimelineEntry) {
   return (b.data.dayOrder ?? 0) - (a.data.dayOrder ?? 0)
 }
 
+// Chronological order of the timeline: by date, then higher dayOrder first.
+export function compareTimelineEntries(a: TimelineEntry, b: TimelineEntry) {
+  const dateDifference = a.data.date.valueOf() - b.data.date.valueOf()
+
+  if (dateDifference !== 0) {
+    return dateDifference
+  }
+
+  return compareSameDayOrder(a, b)
+}
+
 export function getTimelineMonthSlug(month: number) {
   return String(month + 1).padStart(2, "0")
 }
 
 export function groupTimelineEntries(entries: TimelineEntry[]) {
-  const sortedEntries = [...entries].sort((a, b) => {
-    const dateDifference = a.data.date.valueOf() - b.data.date.valueOf()
-
-    if (dateDifference !== 0) {
-      return dateDifference
-    }
-
-    return compareSameDayOrder(a, b)
-  })
+  const sortedEntries = [...entries].sort(compareTimelineEntries)
 
   return sortedEntries
     .reduce<TimelineYearGroup[]>((years, entry) => {
@@ -69,15 +72,7 @@ export function groupTimelineEntries(entries: TimelineEntry[]) {
         .sort((a, b) => a.month - b.month)
         .map((monthGroup) => ({
           ...monthGroup,
-          entries: [...monthGroup.entries].sort((a, b) => {
-            const dateDifference = a.data.date.valueOf() - b.data.date.valueOf()
-
-            if (dateDifference !== 0) {
-              return dateDifference
-            }
-
-            return compareSameDayOrder(a, b)
-          }),
+          entries: [...monthGroup.entries].sort(compareTimelineEntries),
         })),
     }))
 }

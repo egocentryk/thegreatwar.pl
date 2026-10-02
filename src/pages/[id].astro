@@ -11,6 +11,7 @@ import Button from "@/components/Button.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
+import { compareTimelineEntries } from "@/utils/groupTimelineEntries"
 
 type AssetImage = {
   src: string
@@ -26,18 +27,26 @@ const articleImages = import.meta.glob<{ default: AssetImage }>(
 )
 
 export async function getStaticPaths() {
-  const entries = await getCollection("timeline", ({ data }) => !data.draft)
-  return entries.map((entry) => ({
+  const entries = (
+    await getCollection("timeline", ({ data }) => !data.draft)
+  ).sort(compareTimelineEntries)
+  return entries.map((entry, index) => ({
     params: { id: entry.id },
-    props: { entry },
+    props: {
+      entry,
+      previous: entries[index - 1],
+      next: entries[index + 1],
+    },
   }))
 }
 
 interface Props {
   entry: CollectionEntry<"timeline">
+  previous?: CollectionEntry<"timeline">
+  next?: CollectionEntry<"timeline">
 }
 
-const { entry } = Astro.props
+const { entry, previous, next } = Astro.props
 const {
   title,
   summary,
@@ -193,6 +202,46 @@ const headerImageAsset = headerImage
         <CoffeeButton />
         <Content />
       </div>
+
+      {
+        (previous || next) && (
+          <nav
+            aria-label="Sąsiednie wydarzenia"
+            class="border-line mt-12 grid gap-4 border-t pt-6 sm:grid-cols-2"
+          >
+            {previous ? (
+              <a
+                href={`/${previous.id}`}
+                rel="prev"
+                class="group border-line hover:border-signal block rounded-sm border p-4 transition-colors"
+              >
+                <span class="text-ink-soft block font-mono text-[11px]">
+                  ← Poprzednie wydarzenie · {formatDate(previous.data.date)}
+                </span>
+                <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg transition-colors">
+                  {previous.data.title}
+                </span>
+              </a>
+            ) : (
+              <span class="hidden sm:block" />
+            )}
+            {next && (
+              <a
+                href={`/${next.id}`}
+                rel="next"
+                class="group border-line hover:border-signal block rounded-sm border p-4 text-right transition-colors"
+              >
+                <span class="text-ink-soft block font-mono text-[11px]">
+                  {formatDate(next.data.date)} · Następne wydarzenie →
+                </span>
+                <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg transition-colors">
+                  {next.data.title}
+                </span>
+              </a>
+            )}
+          </nav>
+        )
+      }
 
       <div class="mt-10 flex flex-wrap gap-3">
         {
