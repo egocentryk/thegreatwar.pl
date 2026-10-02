@@ -4,7 +4,7 @@ summary: 16 marca 1916 ciężko chory Gallieni ustąpił z urzędu ministra wojn
 category: Polityka
 date: 1916-03-16
 authors: [Łukasz Skowroń]
-dayOrder: 1
+dayOrder: 2
 tags: [Francja, Joseph Gallieni, Joseph Joffre, Aristide Briand]
 milestone: false
 draft: false

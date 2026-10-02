@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Afryka
 date: 1916-03-16
 authors: [Łukasz Skowroń]
-dayOrder: 2
+dayOrder: 3
 tags: [Sudan, Wielka Brytania, Egipt]
 milestone: false
 draft: false

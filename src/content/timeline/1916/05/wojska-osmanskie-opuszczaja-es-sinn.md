@@ -1,0 +1,22 @@
+---
+title: Wojska osmańskie opuszczają Es-Sinn
+summary: 19 maja 1916 brytyjscy lotnicy wykryli, że Turcy opuścili okopy na prawym brzegu Tygrysu poniżej Al-Kutu. Część ich wojsk ruszyła przeciw Rosjanom w Persji.
+category: Działania zbrojne
+front: Bliski Wschód
+date: 1916-05-19
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Imperium Osmańskie, Indie Brytyjskie, Wielka Brytania, Rosja]
+milestone: false
+draft: false
+---
+
+Rano 19 maja 1916 roku brytyjskie samoloty, które rozpoznawały pozycje tureckie na prawym brzegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) poniżej [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut), zameldowały o dużym odwrocie przeciwnika. Okopy pod Bajt Isa i Czahela, o które Brytyjczycy [walczyli w kwietniu](/walki-pod-bajt-isa), były puste, a obozy przy wałach Es-Sinn zniknęły. Turcy trzymali jeszcze redutę Sinn Abtar i most łodziowy na Tygrysie pod Abd al-Hasan, a na lewym brzegu nadal mocno obsadzali pozycję Sannajjat. Brytyjska chronologia wojny pisze, że armia turecka opuściła pozycję Es-Sinn i cofnęła się do Al-Kutu. Według brytyjskiej historii oficjalnej (Moberly, *The Campaign in Mesopotamia*, tom III) Turcy oparli się o kanał Szatt al-Hajj, który wypływa z Tygrysu naprzeciw Al-Kutu, i obsadzili jego linię od miasta na południe.
+
+Przyczyną odwrotu nie była presja Brytyjczyków, tylko Rosjanie. Po [kapitulacji Al-Kutu](/kapitulacja-al-kutu) dowódca osmańskiej 6 Armii Halil Pasza ([Halil Kut](https://pl.wikipedia.org/wiki/Halil_Kut)) przeniósł się do Bagdadu. Był pewien, że Brytyjczycy nie przebiją się przez jego umocnienia nad Tygrysem, ale niepokoił go rosyjski korpus generała Nikołaja Baratowa, który [7 maja zajął Kasr-e Szirin](/rosjanie-zajmuja-kasr-e-szirin) na granicy persko-osmańskiej i zagrażał Bagdadowi od wschodu. Według tureckich danych, na które powołuje się Moberly, w drugim tygodniu maja Halil zaczął przerzucać z Tygrysu nad granicę perską pod [Chanakin](https://pl.wikipedia.org/wiki/Chanakin) brygadę kawalerii i 2 Dywizję, a razem z nimi świeżo przybyłą 6 Dywizję. Według innych relacji przerzucenia całego XIII Korpusu nad granicę perską zażądał [Enver Pasza](https://pl.wikipedia.org/wiki/İsmail_Enver), który w maju przyjechał do Bagdadu. Wyniszczoną 35 Dywizję rozwiązano. Naprzeciw Brytyjczyków zostały tylko trzy dywizje XVIII Korpusu. Generał George Gorringe szacował siły tureckie poniżej Al-Kutu na około 20 tysięcy ludzi, z czego dwie trzecie na prawym brzegu. Według źródeł niemieckich i tureckich było ich tylko 11–12 tysięcy.
+
+Korpus Tygrysu nie był jednak w stanie wykorzystać okazji. Po klęsce odsieczy był wyczerpany, a nadchodziły miesiące najgorszych upałów. W kwietniu i maju zanotowano w nim około 800 przypadków [cholery](https://pl.wikipedia.org/wiki/Cholera), a 14 maja Gorringe meldował, że panowanie w powietrzu przeszło w ręce tureckich Fokkerów. Gdy przyszły pierwsze meldunki lotników, Gorringe był z wizytą w Szejk Saad. Najstarszy rangą generał na froncie, Keary, wysłał około 8.30 na rozpoznanie 33 Pułk Kawalerii i kazał piechocie zająć opuszczone okopy pod Bajt Isa i Czahela. Dwie godziny później Gorringe odwołał ten rozkaz. Z powodu upału, braku wody i obawy przed cholerą w porzuconych okopach postanowił ruszyć dopiero nocą, omijając je z daleka od południa, i o świcie opanować turecki most pod Abd al-Hasan.
+
+20 maja rano kawaleria przekonała się, że Turcy zdążyli już most rozebrać. Piechota 3 Dywizji Keary'ego tuż przed dziesiątą bez walki zajęła redutę Dudżajla, o którą w marcu [rozbiło się natarcie Aylmera](/bitwy/bitwa-pod-dudzajla). Marsz w upale przez bezwodną równinę był jednak zabójczy. Żołnierzom skończyła się woda w manierkach, a na całej trasie leżeli wyczerpani maruderzy, a niektórzy z nich umierali z gorąca. 21 maja kawaleria podeszła pod most na Szatt al-Hajj w pobliżu Al-Kutu, ale natrafiła na okopaną piechotę z artylerią i zawróciła. Keary meldował, że do zdobycia linii kanału potrzebna byłaby co najmniej cała dywizja, a jego ludzie są zbyt zmęczeni. Brytyjczycy zatrzymali się na linii od Makasis nad Tygrysem do Dudżajli.
+
+Przez następne tygodnie w Londynie, Simli i Basrze dyskutowano, czy Korpus Tygrysu nie powinien przejść przez rzekę i obejść Sannajjat, by odciążyć Baratowa, ale Gorringe uznał, że nie da się tego zrobić bez ciężkich strat. Wzmocnione w ten sposób wojska tureckie 1 czerwca odparły natarcie Baratowa pod Chanakinem, i zmusiły go do odwrotu w głąb Persji. Front nad Tygrysem zamarł na pół roku. Brytyjczycy ruszyli na Al-Kut ponownie dopiero w grudniu 1916 roku.

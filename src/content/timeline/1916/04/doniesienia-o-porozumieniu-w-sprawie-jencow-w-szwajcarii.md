@@ -5,7 +5,7 @@ category: Dyplomacja
 date: 1916-04-26
 authors: [Łukasz Skowroń]
 dayOrder: 1
-tags: [Wielka Brytania, Niemcy, Szwajcaria, neutralność]
+tags: [Wielka Brytania, Niemcy, Szwajcaria, jeńcy wojenni]
 milestone: false
 draft: false
 ---

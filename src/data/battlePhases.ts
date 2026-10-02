@@ -226,6 +226,14 @@ export const BATTLE_PHASES = [
       "24 maja 1915 roku Włochy, związane tajnym paktem londyńskim z Ententą, rozpoczęły wojnę z Austro-Węgrami. Szef sztabu generał Luigi Cadorna skierował główne siły na wschód, nad rzekę Isonzo, skąd chciał uderzyć na Gorycję i Triest. Austro-Węgry, zajęte wojną z Rosją i Serbią, obsadziły jednak dogodne pozycje na wzgórzach i płaskowyżu Krasu, a ich 5 Armia generała Svetozara Boroevicia odpierała kolejne natarcia. Już pierwsze bitwy nad Isonzo latem 1915 roku pokazały, że wojna w górach i na skalistym Krasie będzie równie krwawa i statyczna jak we Francji. Do jesieni 1917 roku Włosi przeprowadzili nad tą rzeką jedenaście ofensyw.",
   },
   {
+    slug: "1916-front-wloski",
+    title: "1916: Front włoski",
+    front: "Front włoski",
+    dates: "od maja 1916",
+    intro:
+      "W 1916 roku front włoski przestał być wyłącznie areną włoskich natarć nad Isonzo. Szef austro-węgierskiego sztabu generalnego Franz Conrad von Hötzendorf od dawna chciał ukarać dawnego sojusznika za zmianę stron i w maju uderzył z Tyrolu przez płaskowyże Asiago i Lavarone, licząc na zejście w dolinę Padu i odcięcie armii włoskich nad Isonzo. Ofensywa, nazwana przez Austriaków ekspedycją karną, przyniosła początkowo znaczne zdobycze, ale utknęła na ostatnich grzbietach przed równiną, gdy Cadorna ściągnął nową armię odwodową, a na wschodzie ruszyła rosyjska ofensywa Brusiłowa.",
+  },
+  {
     slug: "1914-wojna-na-morzu",
     title: "1914: Wojna na morzu",
     front: "Wojna na morzu",
