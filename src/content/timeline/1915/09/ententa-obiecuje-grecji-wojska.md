@@ -6,7 +6,7 @@ front: Front bałkański
 date: 1915-09-24
 authors: [Łukasz Skowroń]
 dayOrder: 1
-tags: [Grecja, Wielka Brytania, Francja, Horatio Kitchener]
+tags: [Grecja, Wielka Brytania, Francja, Herbert Kitchener]
 milestone: false
 draft: false
 ---

@@ -114,6 +114,14 @@ export const BATTLE_PHASES = [
       "Na początku listopada 1914 roku generał Potiorek po raz trzeci uderzył na Serbię, tym razem z przyczółków nad Driną i Sawą. Wyczerpana, pozbawiona amunicji armia serbska cofała się w głąb kraju, a 2 grudnia Austriacy wkroczyli do opuszczonego Belgradu. Wojewoda Putnik zatrzymał jednak odwrót w górach nad Kolubarą. Gdy nadeszła amunicja od sojuszników, Serbowie przeszli do kontrofensywy, rozbili siły Potiorka i do połowy grudnia wyparli je z całego kraju. Było to jedno z największych zwycięstw aliantów w pierwszym roku wojny.",
   },
   {
+    slug: "1915-podboj-serbii",
+    title: "1915: Podbój Serbii",
+    front: "Front bałkański",
+    dates: "październik – grudzień 1915",
+    intro:
+      "Jesienią 1915 roku państwa centralne postanowiły raz na zawsze rozprawić się z Serbią i otworzyć sobie lądową drogę do Turcji. 6 października niemieckie i austro-węgierskie armie pod wodzą Augusta von Mackensena uderzyły przez Sawę i Dunaj, a kilka dni później przyłączyła się do nich Bułgaria, atakując Serbów od wschodu i odcinając ich od Salonik. Francuzi i Brytyjczycy wylądowali w Salonikach i ruszyli w górę Wardaru, ale przybyli za późno i zbyt słabi, by pomóc sojusznikowi. Osaczona armia serbska, razem z królem, rządem i tysiącami cywilów, wycofała się przez zaśnieżone góry Albanii i Czarnogóry nad Adriatyk. Serbia na trzy lata znalazła się pod okupacją.",
+  },
+  {
     slug: "1914-prusy-wschodnie",
     title: "1914: Walki w Prusach Wschodnich",
     front: "Front wschodni",

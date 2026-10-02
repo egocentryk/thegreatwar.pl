@@ -1,0 +1,37 @@
+---
+title: Państwa centralne atakują Serbię
+summary: 6 października 1915 działa Mackensena otworzyły ogień wzdłuż Sawy, Dunaju i Driny, a pierwsze oddziały austro-węgierskie przeszły rzeki. Ruszył podbój Serbii.
+category: Działania zbrojne
+front: Front bałkański
+battle: podboj-serbii
+date: 1915-10-06
+authors: [Łukasz Skowroń]
+dayOrder: 3
+tags: [Serbia, Niemcy, Austro-Węgry, August von Mackensen]
+milestone: true
+draft: false
+---
+
+6 października 1915 roku, czyli 23 września według kalendarza juliańskiego, którego Serbia wtedy używała, po południu na całej północnej granicy [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii), od rumuńskiej Orszowy nad Dunajem po [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) nad Driną, zagrzmiały setki niemieckich i austro-węgierskich dział. Dzień wcześniej artyleria zaczęła się wstrzeliwać, teraz rozpoczął się ostrzał właściwy. Tego samego dnia pierwsze oddziały austro-węgierskie przeszły na serbski brzeg Driny i Sawy. Grupa armii feldmarszałka [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen) rozpoczęła czwartą w tej wojnie inwazję na Serbię. Tym razem przeciw Serbom stanęły nie tylko Austro-Węgry, ale też Niemcy, a za kilka dni miała się do nich przyłączyć Bułgaria.
+
+## Droga do Konstantynopola
+
+Po trzech nieudanych wyprawach z 1914 roku, zakończonych [klęską nad Kolubarą](/bitwy/bitwa-nad-kolubara), Austro-Węgry nie miały sił, by same pokonać Serbię. Od wiosny 1915 roku o nowej ofensywie myślał jednak szef niemieckiego sztabu generalnego [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn). Chodziło mu przede wszystkim o otwarcie lądowej drogi z Niemiec do Turcji. Przez Serbię biegła kolej z Węgier przez Belgrad, Nisz i Sofię do Konstantynopola, a Turcy, broniący się przed aliantami na [Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), coraz bardziej potrzebowali niemieckiej amunicji. Gdy latem front rosyjski cofnął się daleko na wschód, Niemcy mogli wreszcie zwolnić wojska na Bałkany. Na początku września Bułgaria [zawarła z nimi sojusz](/traktat-sojuszniczy-w-sofii) i zobowiązała się uderzyć na Serbię razem z nimi.
+
+Dowództwo całej wyprawy objął Mackensen, zwycięzca spod Gorlic. 20 września przyjechał do [Temeszwaru](https://pl.wikipedia.org/wiki/Timișoara) w południowych Węgrzech. Plan przewidywał natarcie z dwóch stron. Od północy, przez Sawę i Dunaj, miały uderzyć niemiecka 11 Armia generała [Maxa von Gallwitza](https://pl.wikipedia.org/wiki/Max_von_Gallwitz), naprzeciw Smedereva i Ramu, oraz austro-węgierska 3 Armia generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza), z głównymi siłami pod Belgradem. Kilka dni później od wschodu miała ruszyć bułgarska 1 Armia, a bułgarska 2 Armia miała wejść do Macedonii i przeciąć Serbom kolej do Salonik. Według austriackiej historii oficjalnej grupa Mackensena i bułgarska 2 Armia liczyły razem 350 batalionów i 1400 dział wobec 275 batalionów i 654 dział serbskich.
+
+Mackensen nie chciał czekać. Bułgarska mobilizacja się przeciągała, część austro-węgierskich oddziałów była jeszcze w drodze, a 11 Armia prosiła o więcej sprzętu przeprawowego. Zbliżała się jednak jesień, a wraz z nią košava, gwałtowny wschodni wiatr, który mógł zrywać mosty pontonowe na Dunaju. Do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) [zaczęły przypływać wojska Ententy](/ladowanie-ententy-w-salonikach), a Grecja wciąż mogła stanąć po stronie Serbii, dopóki król [nie zdymisjonował Wenizelosa](/wenizelos-ponownie-podaje-sie-do-dymisji). 4 października Mackensen wyznaczył początek ofensywy na 6 października, a przeprawę głównych sił na noc z 6 na 7 października.
+
+## Serbia w kleszczach
+
+Serbia znalazła się w położeniu bez wyjścia. Jej armia nie odbudowała się po stratach 1914 roku i po epidemii tyfusu, która zimą i wiosną zabiła dziesiątki tysięcy ludzi. Od połowy września było jasne, że Bułgaria szykuje się do wojny. Serbskie dowództwo, w którym wobec choroby wojewody [Radomira Putnika](https://pl.wikipedia.org/wiki/Radomir_Putnik) coraz większą rolę odgrywał jego zastępca, podpułkownik Živko Pavlović, chciało uderzyć na Bułgarów, zanim skończą mobilizację. Brytyjska historia oficjalna podaje, że od tego zamiaru odwiedli Serbów lord Kitchener i minister spraw zagranicznych Edward Grey, a Rosjanie byli mu równie przeciwni. Ententa wciąż liczyła, że uda się zatrzymać Bułgarię przy sobie albo przynajmniej w neutralności.
+
+Serbowie musieli więc bronić się na dwóch frontach jednocześnie i podzielili armię na dwie niemal równe części. Na północy zostały 1 Armia wojewody [Živojina Mišicia](https://pl.wikipedia.org/wiki/Živojin_Mišić) w Mačvie i nad Driną, oddziały obrony Belgradu generała Mihaila Živkovicia i 3 Armia generała [Pavlego Jurišicia Šturma](https://pl.wikipedia.org/wiki/Pavle_Jurišić_Šturm), rozciągnięta wzdłuż Dunaju. Według austriackiej historii oficjalnej Živković miał na 50-kilometrowym odcinku pod Belgradem tylko 20 batalionów trzeciego powołania, czyli najstarszych rezerwistów, i 75 dział. Wsparcia udzielały im nieliczne ciężkie działa morskie brytyjskiej misji admirała [Ernesta Troubridge'a](https://pl.wikipedia.org/wiki/Ernest_Troubridge) i kilka dział francuskich. Serbski sztab spodziewał się głównego uderzenia przez Sawę, między Obrenovacem a Šabacem, a koncentracji wojsk niemieckich naprzeciw ujścia Morawy, starannie ukrywanej, jego lotnicy prawie nie dostrzegli.
+
+## Pierwszy dzień
+
+Na Belgrad, Smederevo i serbskie umocnienia nad rzekami spadały pociski wszystkich kalibrów, łącznie z najcięższymi moździerzami. Smederevo stanęło w ogniu, dzielnice nadbrzeżne Belgradu zamieniały się w ruiny. Brytyjski korespondent Gordon Gordon-Smith, który przebywał wtedy w Niszu, pisał później, że w ciągu pierwszych 48 godzin na Belgrad spadło ponad 50 tysięcy pocisków. Liczba ta pochodzi z ówczesnych relacji i trudno ją sprawdzić. Brytyjska historia oficjalna kampanii macedońskiej datuje początek bombardowania właśnie na 6 października, austriacka historia oficjalna pisze o wstrzeliwaniu się artylerii już 5 października.
+
+Jeszcze tego dnia austro-węgierski [landszturm](https://pl.wikipedia.org/wiki/Landsturm), czyli pospolite ruszenie starszych roczników, wszedł do Serbii od zachodu. Grupa generała Rudolfa Streitha przeprawiła się przez Drinę na północny wschód od [Bijeljiny](https://pl.wikipedia.org/wiki/Bijeljina), ale ugrzęzła w zaroślach i rozlewiskach nadrzecznych i wieczorem musiała odpierać serbskie kontrataki. Grupa generała Béli Sorsicha przeszła pod ogniem Sawę pod Jarakiem, na zachód od [Šabacu](https://pl.wikipedia.org/wiki/Šabac), i utworzyła niewielki przyczółek, który utrzymała mimo ataków serbskiej Dywizji Dunajskiej. Austro-węgierskie [monitory rzeczne](https://pl.wikipedia.org/wiki/Monitor_rzeczny) „Szamos” i „Una”, które wspierały ten atak, płynąc potem w dół Sawy dostały się pod ogień serbskiej artylerii spod Šabacu, a „Szamos” został uszkodzony. Nad Dunajem niemieckie łodzie patrolowe przewiozły na serbski brzeg pierwszych żołnierzy X Korpusu Rezerwowego w okolicach Ramu, a pod Orszową austro-węgierska grupa generała Artura Fülöppa pozorowała przeprawę, by odciągnąć uwagę Serbów.
+
+Były to dopiero wstępne ruchy. W nocy z 6 na 7 października na Sawę i Dunaj pod Belgradem, w Ramie i na wyspie naprzeciw Kostolca wypłynęły pontony z głównymi siłami. Po trzech dniach walk, 9 października, Belgrad był w rękach wojsk państw centralnych, a 14 października wojnę Serbii wypowiedziała Bułgaria.
