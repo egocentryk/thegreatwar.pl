@@ -4,6 +4,7 @@ import TimelineArchive from "@/components/TimelineArchive.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import Button from "@/components/Button.astro"
 import RandomBattles from "@/components/RandomBattles.astro"
+import RandomEvents from "@/components/RandomEvents.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { SITE } from "@/site.config"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
@@ -101,6 +102,8 @@ const coveredUntil =
       )
     }
   </section>
+
+  <RandomEvents />
 
   <RandomBattles />
 

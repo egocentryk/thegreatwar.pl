@@ -1,0 +1,230 @@
+---
+import { getCollection } from "astro:content"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { toCalendarLeaf } from "@/utils/calendarLeaf"
+
+const entries = await getCollection("timeline", ({ data }) => !data.draft)
+
+// Build-time pick: shown without JavaScript and replaced on every visit
+// from /kartki.json.
+const initial = [...entries]
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 4)
+  .map(toCalendarLeaf)
+---
+
+<section id="kartki" class="mx-auto max-w-3xl px-6 pb-20" data-random-events>
+  <SectionHeading eyebrow="Kartki z kroniki" count={entries.length} />
+
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+      Wyrwane z kalendarza dni lat 1914–1918.
+    </p>
+    <button
+      type="button"
+      data-flip
+      class="bg-ink text-paper hover:bg-signal inline-flex items-center gap-2 rounded-sm px-3 py-2 font-mono text-xs transition-colors"
+    >
+      Przewróć kartki
+      <span aria-hidden="true">↷</span>
+    </button>
+  </div>
+
+  <ul
+    class="mt-8 grid gap-4 [perspective:1200px] sm:grid-cols-[1.25fr_1fr] sm:grid-rows-3"
+    aria-live="polite"
+  >
+    {
+      initial.map((leaf, index) => {
+        const featured = index === 0
+        return (
+          <li
+            data-leaf
+            class:list={[
+              "origin-top transition-[transform,opacity] duration-300 ease-in",
+              featured && "sm:row-span-3",
+            ]}
+          >
+            <a
+              href={leaf.href}
+              data-href
+              class:list={[
+                "group border-line bg-paper hover:border-signal relative flex h-full overflow-hidden rounded-sm border shadow-[0_1px_0_var(--line),0_6px_0_-3px_var(--paper),0_7px_0_-3px_var(--line)] transition-colors",
+                featured ? "flex-col" : "flex-row",
+              ]}
+            >
+              <span
+                class:list={[
+                  "flex shrink-0 flex-col items-center text-center",
+                  featured
+                    ? "border-line border-b"
+                    : "border-line w-24 border-r sm:w-28",
+                ]}
+              >
+                <span class="bg-signal relative block w-full py-1.5 text-white font-mono text-[10px] tracking-[0.2em] uppercase">
+                  <span data-month>{leaf.month}</span>
+                  <span
+                    aria-hidden="true"
+                    class="absolute inset-x-0 -bottom-1 flex justify-around px-3"
+                  >
+                    {Array.from({ length: featured ? 9 : 3 }, () => (
+                      <span class="bg-paper size-2 rounded-full" />
+                    ))}
+                  </span>
+                </span>
+                <span
+                  data-day
+                  class:list={[
+                    "font-display text-ink group-hover:text-signal block leading-none font-medium transition-colors",
+                    featured ? "pt-6 text-8xl sm:text-9xl" : "pt-4 text-5xl",
+                  ]}
+                >
+                  {leaf.day}
+                </span>
+                <span
+                  data-year
+                  class:list={[
+                    "text-ink-soft block font-mono",
+                    featured ? "pt-2 pb-6 text-sm" : "pt-1 pb-4 text-[11px]",
+                  ]}
+                >
+                  {leaf.year}
+                </span>
+              </span>
+
+              <span
+                class:list={[
+                  "flex min-w-0 flex-1 flex-col",
+                  featured ? "p-6" : "p-4",
+                ]}
+              >
+                <span class="text-ink-soft flex items-center gap-2 font-mono text-[10px] tracking-[0.15em] uppercase">
+                  <span
+                    data-milestone
+                    title="Kluczowe wydarzenie"
+                    class:list={[
+                      "bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4",
+                      !leaf.milestone && "hidden",
+                    ]}
+                  />
+                  <span data-meta class="truncate">
+                    {[leaf.category, leaf.front].filter(Boolean).join(" · ")}
+                  </span>
+                </span>
+                <span
+                  data-title
+                  class:list={[
+                    "font-display text-ink group-hover:text-signal mt-2 block leading-snug transition-colors",
+                    featured ? "text-2xl" : "line-clamp-3 text-base",
+                  ]}
+                >
+                  {leaf.title}
+                </span>
+                {featured && (
+                  <span
+                    data-summary
+                    class="text-ink-soft mt-3 block text-sm leading-6"
+                  >
+                    {leaf.summary}
+                  </span>
+                )}
+                {featured && (
+                  <span class="text-signal mt-auto inline-block pt-6 font-mono text-xs transition-transform group-hover:translate-x-1">
+                    Czytaj →
+                  </span>
+                )}
+              </span>
+            </a>
+          </li>
+        )
+      })
+    }
+  </ul>
+
+  <div class="mt-8">
+    <a
+      href="/timeline"
+      class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+    >
+      Cała oś czasu ({entries.length}) →
+    </a>
+  </div>
+</section>
+
+<script>
+  import type { CalendarLeaf } from "@/utils/calendarLeaf"
+
+  let pool: Promise<CalendarLeaf[]> | undefined
+
+  // Fetched once per visit; client-side navigation reuses it.
+  function loadPool() {
+    pool ??= fetch("/kartki.json")
+      .then((response) => (response.ok ? response.json() : []))
+      .catch(() => [])
+    return pool
+  }
+
+  function pick(leaves: CalendarLeaf[], count: number, exclude: Set<string>) {
+    const fresh = leaves.filter((leaf) => !exclude.has(leaf.href))
+    const source = fresh.length >= count ? fresh : leaves
+    const copy = [...source]
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[copy[i], copy[j]] = [copy[j], copy[i]]
+    }
+    return copy.slice(0, count)
+  }
+
+  function fill(item: Element, leaf: CalendarLeaf) {
+    const set = (selector: string, text: string) => {
+      const el = item.querySelector(selector)
+      if (el) el.textContent = text
+    }
+    item.querySelector("[data-href]")?.setAttribute("href", leaf.href)
+    set("[data-month]", leaf.month)
+    set("[data-day]", leaf.day)
+    set("[data-year]", leaf.year)
+    set("[data-meta]", [leaf.category, leaf.front].filter(Boolean).join(" · "))
+    set("[data-title]", leaf.title)
+    set("[data-summary]", leaf.summary)
+    item.querySelector("[data-milestone]")?.classList.toggle("hidden", !leaf.milestone)
+  }
+
+  // Each page flips up like a torn-off calendar leaf, one after another.
+  function flip(item: HTMLElement, leaf: CalendarLeaf, delay: number) {
+    window.setTimeout(() => {
+      item.style.transform = "rotateX(-90deg)"
+      item.style.opacity = "0"
+      window.setTimeout(() => {
+        fill(item, leaf)
+        item.style.transform = ""
+        item.style.opacity = ""
+      }, 300)
+    }, delay)
+  }
+
+  function initRandomEvents() {
+    const section = document.querySelector("[data-random-events]")
+    if (!section) return
+
+    const items = [...section.querySelectorAll<HTMLElement>("[data-leaf]")]
+    const current = () =>
+      new Set(items.map((item) => item.querySelector("[data-href]")?.getAttribute("href") ?? ""))
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+
+    const show = async (animate: boolean) => {
+      const leaves = await loadPool()
+      if (leaves.length < items.length) return
+      const picks = pick(leaves, items.length, current())
+      items.forEach((item, i) =>
+        animate && !reducedMotion ? flip(item, picks[i], i * 90) : fill(item, picks[i]),
+      )
+    }
+
+    show(false)
+    section.querySelector("[data-flip]")?.addEventListener("click", () => show(true))
+  }
+
+  // astro:page-load fires on the first load and after every client-side navigation.
+  document.addEventListener("astro:page-load", initRandomEvents)
+</script>
