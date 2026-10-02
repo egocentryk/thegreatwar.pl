@@ -3,6 +3,7 @@ import { getCollection } from "astro:content"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import Button from "@/components/Button.astro"
+import RandomBattles from "@/components/RandomBattles.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { SITE } from "@/site.config"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
@@ -100,6 +101,8 @@ const coveredUntil =
       )
     }
   </section>
+
+  <RandomBattles />
 
   <section id="about" class="mx-auto max-w-3xl px-6 pb-20">
     <SectionHeading eyebrow="O projekcie" />

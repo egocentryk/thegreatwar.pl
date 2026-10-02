@@ -1,0 +1,198 @@
+---
+import { getCollection } from "astro:content"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { formatDateRange } from "@/utils/formatDate"
+
+const PICK_COUNT = 3
+
+const battles = await getCollection("battles", ({ data }) => !data.draft)
+
+// Only what a card shows, so the JSON shipped to the browser stays small.
+const cards = battles.map((battle) => ({
+  href: `/bitwy/${battle.id}`,
+  title: battle.data.title,
+  front: battle.data.front,
+  dates: formatDateRange(battle.data.startDate, battle.data.endDate),
+  summary: battle.data.summary,
+  sides: battle.data.sides.map((side) => side.name).join(" kontra "),
+  // "Zwycięstwo Wielkiej Brytanii. Niemcy stracili…" -> "Zwycięstwo Wielkiej Brytanii"
+  verdict: battle.data.result.split(".")[0],
+  milestone: battle.data.milestone,
+}))
+
+// Build-time pick: shown without JavaScript and replaced on every visit.
+const initial = [...cards]
+  .sort(() => Math.random() - 0.5)
+  .slice(0, PICK_COUNT)
+---
+
+<section id="bitwy" class="mx-auto max-w-3xl px-6 pb-20" data-random-battles>
+  <SectionHeading eyebrow="Bitwy z archiwum" count={battles.length} />
+
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+      Trzy losowe bitwy z naszej kroniki.
+    </p>
+    <button
+      type="button"
+      data-shuffle
+      class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex items-center gap-2 rounded-sm border px-3 py-2 font-mono text-xs transition-colors"
+    >
+      <span aria-hidden="true" data-shuffle-icon class="inline-block transition-transform duration-500">↻</span>
+      Wylosuj inne
+    </button>
+  </div>
+
+  <ul class="mt-8 grid gap-4 sm:grid-cols-3" aria-live="polite">
+    {
+      initial.map((card) => (
+        <li data-card class="transition-opacity duration-300">
+          <a
+            href={card.href}
+            data-href
+            class="group border-line bg-surface hover:border-signal flex h-full flex-col rounded-sm border p-5 transition-all hover:-translate-y-0.5"
+          >
+            <span class="flex items-center justify-between gap-2">
+              <span
+                data-front
+                class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase"
+              >
+                {card.front}
+              </span>
+              <span
+                data-milestone
+                title="Kluczowe wydarzenie"
+                class:list={[
+                  "bg-signal ring-signal/25 size-2 shrink-0 rounded-full ring-4",
+                  !card.milestone && "hidden",
+                ]}
+              />
+            </span>
+
+            <span
+              data-title
+              class="font-display text-ink group-hover:text-signal mt-4 block text-xl leading-snug transition-colors"
+            >
+              {card.title}
+            </span>
+            <span data-dates class="text-ink-soft mt-2 block font-mono text-[11px]">
+              {card.dates}
+            </span>
+
+            <span
+              data-summary
+              class="text-ink-soft mt-4 line-clamp-5 block text-sm leading-6"
+            >
+              {card.summary}
+            </span>
+
+            <span class="border-line mt-auto block border-t pt-4">
+              <span data-sides class="text-ink-soft block font-mono text-[11px] leading-5">
+                {card.sides}
+              </span>
+              <span data-verdict class="text-ink mt-1 block text-sm font-medium">
+                {card.verdict}
+              </span>
+              <span class="text-signal mt-3 inline-block font-mono text-xs transition-transform group-hover:translate-x-1">
+                Czytaj →
+              </span>
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+
+  <div class="mt-6">
+    <a
+      href="/bitwy"
+      class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+    >
+      Wszystkie bitwy ({battles.length}) →
+    </a>
+  </div>
+
+  <script is:inline type="application/json" data-battles set:html={JSON.stringify(cards)} />
+</section>
+
+<script>
+  type Card = {
+    href: string
+    title: string
+    front: string
+    dates: string
+    summary: string
+    sides: string
+    verdict: string
+    milestone: boolean
+  }
+
+  // Pick `count` different battles, avoiding the ones already on screen when possible.
+  function pick(cards: Card[], count: number, exclude: Set<string>) {
+    const fresh = cards.filter((card) => !exclude.has(card.href))
+    const pool = fresh.length >= count ? fresh : cards
+    const copy = [...pool]
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[copy[i], copy[j]] = [copy[j], copy[i]]
+    }
+    return copy.slice(0, count)
+  }
+
+  function fill(item: Element, card: Card) {
+    const set = (selector: string, text: string) => {
+      const el = item.querySelector(selector)
+      if (el) el.textContent = text
+    }
+    item.querySelector<HTMLAnchorElement>("[data-href]")?.setAttribute("href", card.href)
+    set("[data-front]", card.front)
+    set("[data-title]", card.title)
+    set("[data-dates]", card.dates)
+    set("[data-summary]", card.summary)
+    set("[data-sides]", card.sides)
+    set("[data-verdict]", card.verdict)
+    item.querySelector("[data-milestone]")?.classList.toggle("hidden", !card.milestone)
+  }
+
+  function initRandomBattles() {
+    const section = document.querySelector("[data-random-battles]")
+    const data = section?.querySelector("[data-battles]")?.textContent
+    if (!section || !data) return
+
+    const cards: Card[] = JSON.parse(data)
+    const items = [...section.querySelectorAll("[data-card]")]
+    const current = () =>
+      new Set(
+        items.map((item) => item.querySelector("[data-href]")?.getAttribute("href") ?? ""),
+      )
+
+    const show = (animate: boolean) => {
+      const picks = pick(cards, items.length, current())
+      if (!animate) {
+        items.forEach((item, i) => fill(item, picks[i]))
+        return
+      }
+      items.forEach((item) => item.classList.add("opacity-0"))
+      window.setTimeout(() => {
+        items.forEach((item, i) => {
+          fill(item, picks[i])
+          item.classList.remove("opacity-0")
+        })
+      }, 300)
+    }
+
+    show(false)
+
+    let turns = 0
+    const button = section.querySelector("[data-shuffle]")
+    const icon = section.querySelector<HTMLElement>("[data-shuffle-icon]")
+    button?.addEventListener("click", () => {
+      turns += 1
+      if (icon) icon.style.transform = `rotate(${turns * 360}deg)`
+      show(true)
+    })
+  }
+
+  // astro:page-load fires on the first load and after every client-side navigation.
+  document.addEventListener("astro:page-load", initRandomBattles)
+</script>
