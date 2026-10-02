@@ -21,7 +21,7 @@ Celem stały się wielkie zbiorniki paliwa firmy Burmah Oil Company, stojące na
 
 ## Kilkanaście minut ognia
 
-Około 21.30 Emden zbliżył się do brzegu na odległość około 3 kilometrów. Niemcy włączyli [reflektory](https://pl.wikipedia.org/wiki/Reflektor), odnaleźli zbiorniki i otworzyli ogień. Według różnych relacji krążownik wystrzelił około 130 pocisków. Trafione zostały co najmniej dwa zbiorniki, a według niektórych źródeł nawet pięć. Spłonęło około 346 tysięcy galonów paliwa, czyli ponad półtora miliona litrów. Pociski uszkodziły też stojący w porcie parowiec Chupra i trafiły w kilka budynków w mieście. Według najczęściej podawanych danych zginęło pięć osób, a 26 zostało rannych, choć liczby te różnią się w poszczególnych źródłach.
+Około 21.30 Emden zbliżył się do brzegu na odległość około 3 kilometrów. Niemcy włączyli reflektory, odnaleźli zbiorniki i otworzyli ogień. Według różnych relacji krążownik wystrzelił około 130 pocisków. Trafione zostały co najmniej dwa zbiorniki, a według niektórych źródeł nawet pięć. Spłonęło około 346 tysięcy galonów paliwa, czyli ponad półtora miliona litrów. Pociski uszkodziły też stojący w porcie parowiec Chupra i trafiły w kilka budynków w mieście. Według najczęściej podawanych danych zginęło pięć osób, a 26 zostało rannych, choć liczby te różnią się w poszczególnych źródłach.
 
 Baterie nadbrzeżne odpowiedziały ogniem dopiero po kilku minutach i nie trafiły. Emden zgasił światła i odpłynął na północ, by zmylić obserwatorów, a potem skręcił na południe, w stronę Cejlonu.
 

@@ -14,7 +14,7 @@ sides:
 result: Zdecydowane zwycięstwo Rosji. Osmańska 3 Armia została rozbita pod Köprüköy, a 16 lutego 1916 Rosjanie zajęli twierdzę Erzurum, zdobywając ponad 300 dział.
 authors: [Natalia]
 tags: [Rosja, Imperium Osmańskie, Kaukaz]
-milestone: false
+milestone: true
 ---
 
 Ofensywa erzurumska była największym zwycięstwem rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) w I wojnie światowej. W środku zimy, gdy w górach [Wyżyny Armeńskiej](https://pl.wikipedia.org/wiki/Wyżyna_Armeńska) leżał głęboki śnieg, a Turcy spodziewali się spokoju aż do wiosny, generał [Nikołaj Judenicz](https://pl.wikipedia.org/wiki/Nikołaj_Judenicz) zaatakował osmańską 3 Armię. W bitwie pod Köprüköy, od 10 do 19 stycznia 1916 roku, przełamał jej umocnione linie i odrzucił ją za forty [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). Po trzech tygodniach przygotowań, 11 lutego, Rosjanie uderzyli na samą twierdzę, uchodzącą za nie do zdobycia. 16 lutego rano kozacy wjechali do miasta. Klęska otworzyła Rosjanom drogę w głąb Anatolii, ku Trabzonowi i Erzincanowi.

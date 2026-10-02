@@ -90,6 +90,14 @@ export const BATTLE_PHASES = [
       "Jesienią 1915 roku alianci podjęli największą jak dotąd próbę przełamania frontu zachodniego. Joffre liczył, że jednoczesne uderzenia w Szampanii i w Artois rozerwą niemiecką linię i zmuszą wroga do odwrotu z Francji, a przy okazji odciążą Rosjan, wycofujących się na wschodzie. 25 września Francuzi zaatakowali w Szampanii i pod Vimy, a Brytyjczycy pod Loos, gdzie po raz pierwszy na dużą skalę użyli chmury chloru i rzucili do walki dywizje Nowych Armii. Pierwszego dnia zdobyli pierwszą linię niemieckich okopów, ale druga pozycja, przygotowana przez Niemców w ciągu lata, okazała się nie do przejścia. Walki trwały do listopada i przyniosły obu stronom ogromne straty bez rozstrzygnięcia. Niepowodzenie pod Loos kosztowało stanowisko dowódcę Brytyjskiego Korpusu Ekspedycyjnego, Johna Frencha.",
   },
   {
+    slug: "1916-verdun",
+    title: "1916: Verdun",
+    front: "Front zachodni",
+    dates: "od lutego 1916",
+    intro:
+      "21 lutego 1916 roku niemiecka 5 Armia pod dowództwem następcy tronu Wilhelma uderzyła na Verdun, twierdzę na Mozie, która od początku wojny tworzyła wysunięty łuk francuskiego frontu. Szef niemieckiego sztabu generalnego Erich von Falkenhayn chciał, jak pisał później, zmusić Francję do obrony miejsca, którego nie mogła oddać, i wykrwawić jej armię pod nawałą artylerii. Po kilku dniach Niemcy zdobyli fort Douaumont, ale obrona pod wodzą generała Philippe'a Pétaina okrzepła, a jedyna droga z Bar-le-Duc, nazwana później Świętą Drogą, dowoziła na front ludzi i amunicję. Bitwa przerodziła się w trwającą prawie cały rok rzeź, w której obie strony straciły setki tysięcy ludzi, a Verdun stało się dla Francuzów symbolem wytrwałości.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
@@ -125,9 +133,9 @@ export const BATTLE_PHASES = [
     slug: "1916-podboj-czarnogory",
     title: "1916: Podbój Czarnogóry i północnej Albanii",
     front: "Front bałkański",
-    dates: "styczeń 1916",
+    dates: "styczeń – luty 1916",
     intro:
-      "Po upadku Serbii Austro-Węgry zwróciły się przeciw jej małej sojuszniczce. Na początku stycznia 1916 roku armia generała Kövessa uderzyła na Czarnogórę od strony Boki Kotorskiej i od Sandżaku. Twierdza górska Lovćen, która przez półtora roku zagrażała austro-węgierskiej bazie floty w Kotorze, padła po kilku dniach, a za nią stolica Cetynia. Król Mikołaj poprosił o rozejm, ale rokowania się załamały i kraj został zajęty w ciągu kilku tygodni. Austriacy weszli też do północnej Albanii, do Szkodry i San Giovanni di Medua, skąd jeszcze niedawno ewakuowano niedobitki armii serbskiej.",
+      "Po upadku Serbii Austro-Węgry zwróciły się przeciw jej małej sojuszniczce. Na początku stycznia 1916 roku armia generała Kövessa uderzyła na Czarnogórę od strony Boki Kotorskiej i od Sandżaku. Twierdza górska Lovćen, która przez półtora roku zagrażała austro-węgierskiej bazie floty w Kotorze, padła po kilku dniach, a za nią stolica Cetynia. Król Mikołaj poprosił o rozejm, ale rokowania się załamały i kraj został zajęty w ciągu kilku tygodni. Austriacy weszli też do północnej Albanii, do Szkodry i San Giovanni di Medua, skąd jeszcze niedawno ewakuowano niedobitki armii serbskiej. W lutym zajęli środkową Albanię, a pod koniec miesiąca, po wycofaniu się Włochów, port Durrës.",
   },
   {
     slug: "1914-prusy-wschodnie",
