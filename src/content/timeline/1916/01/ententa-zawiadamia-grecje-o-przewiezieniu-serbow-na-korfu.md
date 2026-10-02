@@ -1,0 +1,26 @@
+---
+title: Ententa zawiadamia Grecję o przewiezieniu Serbów na Korfu
+summary: 10 stycznia 1916 posłowie Ententy w Atenach zawiadomili Grecję, że resztki armii serbskiej zostaną przewiezione z Albanii na grecką wyspę Korfu.
+category: Dyplomacja
+front: Front bałkański
+date: 1916-01-10
+authors: [Łukasz Skowroń]
+dayOrder: 3
+tags: [Grecja, Serbia, Francja, neutralność]
+milestone: false
+draft: false
+---
+
+Brytyjska chronologia wojny notuje pod 10 stycznia 1916 roku, że rządy Ententy zawiadomiły Grecję o zamiarze przewiezienia armii serbskiej na wyspę [Korfu](https://pl.wikipedia.org/wiki/Korfu). Notę złożyli w Atenach posłowie państw sprzymierzonych, a odebrał ją premier i zarazem minister spraw zagranicznych [Stefanos Skuludis](https://pl.wikipedia.org/wiki/Stefanos_Skuludis). Według depeszy francuskiej agencji Havas sprzymierzeni oświadczali, że uważają za oczywisty obowiązek ludzkości jak najszybciej przewieźć część armii serbskiej w miejsce bliskie wybrzeża albańskiego, „aby ocalić tych bohaterskich żołnierzy przed głodem i zagładą”. Korfu wybrano, bo zapewniało odpowiednie warunki sanitarne i możliwość zaopatrzenia. Sprzymierzeni zapewniali, że nie przypuszczają, by Grecja sprzeciwiła się przyjęciu Serbów, swoich sojuszników, którzy mieli zostać na wyspie krótko. Dodawali, że nie zamierzają naruszać greckiej suwerenności.
+
+## Armia na albańskim wybrzeżu
+
+Resztki armii serbskiej od kilku tygodni czekały wtedy na albańskim wybrzeżu. Po [odwrocie przez góry](/poczatek-odwrotu-serbow-przez-albanie) zebrały się wokół [Szkodry](https://pl.wikipedia.org/wiki/Szkodra), gdzie [osiadły rząd i naczelne dowództwo](/rzad-serbski-w-szkodrze), a mniejsza część w okolicach [Durrës](https://pl.wikipedia.org/wiki/Durrës). Nie było tam ani zapasów, ani statków, a żołnierze umierali z głodu, wyczerpania i chorób. Włosi, którzy trzymali [Wlorę](https://pl.wikipedia.org/wiki/Wlora) i [obsadzili Durrës](/wlosi-obsadzaja-durres), uważali, że nie zdołają zaopatrywać przez Adriatyk całej armii w otwartych albańskich portach, narażonych na wypady austro-węgierskiej floty z [Kotoru](https://pl.wikipedia.org/wiki/Kotor). Brytyjski korespondent Gordon Gordon-Smith pisał, że Rzym nie chciał też wzmacniać swoich wojsk w Albanii, gdzie mogłyby się zetknąć z Niemcami, z którymi Włochy nie były jeszcze w stanie wojny. Brytyjczycy i Francuzi początkowo zamierzali wyżywić i odtworzyć armię serbską na miejscu, ale w końcu uznano, że trzeba ją z Albanii zabrać.
+
+Sprzymierzeni uzgodnili, że odtworzeniem armii serbskiej zajmie się Francja, którą kierował wtedy rząd [Aristide'a Brianda](https://pl.wikipedia.org/wiki/Aristide_Briand). 31 grudnia 1915 roku przybył do Albanii francuski generał Piarron de Mondésir. Według brytyjskiej historii oficjalnej działań morskich chciał zaokrętować w San Giovanni di Medua, Durrës i Wlorze około 143 tysięcy ludzi i przewieźć ich do francuskiej [Tunezji](https://pl.wikipedia.org/wiki/Tunezja). Serbowie nie chcieli płynąć do Afryki. Brytyjski kontradmirał [Ernest Troubridge](https://pl.wikipedia.org/wiki/Ernest_Troubridge), który od 1915 roku dowodził brytyjską misją morską w Serbii i cieszył się zaufaniem Serbów, ostrzegał zaś, że płytka i bliska nieprzyjacielowi Medua nie nadaje się do zaokrętowania całej armii. Serbscy historycy podkreślają też rolę Rosji: regent [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić) prosił o ratunek cara [Mikołaja II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow), a ten wstawił się za Serbami u sojuszników. 7 stycznia 1916 roku pierwsze 16 tysięcy serbskich żołnierzy ruszyło ze Szkodry na południe, do Durrës, a jako cel przewozu zamiast Tunezji wybrano Korfu.
+
+## Dlaczego Korfu
+
+Gordon-Smith wyliczał, że rozważano także [Korsykę](https://pl.wikipedia.org/wiki/Korsyka) i [Algierię](https://pl.wikipedia.org/wiki/Algieria). Korfu miało jednak wiele zalet. Leżało kilka godzin rejsu od albańskich portów, więc te same statki mogły kursować tam i z powrotem, a długa podróż transportowców, narażona na ataki okrętów podwodnych, odpadała. Klimat przypominał serbski, a z wyspy łatwo było później przewieźć odtworzoną armię na [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki). Przeszkodą była grecka neutralność, i to szczególnie silna. Gdy w 1864 roku Wielka Brytania przekazała Grecji [Wyspy Jońskie](https://pl.wikipedia.org/wiki/Wyspy_Jońskie), w traktacie londyńskim Wielka Brytania, Francja i Rosja, za zgodą Austrii i Prus, ogłosiły „wieczystą neutralność” Korfu i sąsiedniej wyspy [Paksos](https://pl.wikipedia.org/wiki/Paksos), a Grecja zobowiązała się jej przestrzegać.
+
+Sprzymierzeni liczyli na to, że Grecja nie odmówi gościny Serbii, z którą formalnie łączył ją sojusz z 1913 roku. Wprawdzie w październiku 1915 roku Ateny [odmówiły Serbom pomocy zbrojnej](/grecja-odrzuca-prosbe-serbii-o-pomoc), ale traktatu nie wypowiedziała żadna ze stron. Pośpiech wymuszały wydarzenia w Czarnogórze, gdzie Austro-Węgry rozpoczęły właśnie [podbój kraju](/bitwy/podboj-czarnogory) i zagrażały Szkodrze. Nota z 10 stycznia nie była więc prośbą o zgodę, tylko zawiadomieniem. Już następnego dnia na Korfu wylądowali Francuzi. Rząd grecki skarżył się potem, że zrobili to, zanim nadeszła jego odpowiedź. Sprzymierzeni odparli, że na zawiadomienie żadnej odpowiedzi nie oczekiwali.

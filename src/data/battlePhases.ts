@@ -122,6 +122,14 @@ export const BATTLE_PHASES = [
       "Jesienią 1915 roku państwa centralne postanowiły raz na zawsze rozprawić się z Serbią i otworzyć sobie lądową drogę do Turcji. 6 października niemieckie i austro-węgierskie armie pod wodzą Augusta von Mackensena uderzyły przez Sawę i Dunaj, a kilka dni później przyłączyła się do nich Bułgaria, atakując Serbów od wschodu i odcinając ich od Salonik. Francuzi i Brytyjczycy wylądowali w Salonikach i ruszyli w górę Wardaru, ale przybyli za późno i zbyt słabi, by pomóc sojusznikowi. Osaczona armia serbska, razem z królem, rządem i tysiącami cywilów, wycofała się przez zaśnieżone góry Albanii i Czarnogóry nad Adriatyk. Serbia na trzy lata znalazła się pod okupacją.",
   },
   {
+    slug: "1916-podboj-czarnogory",
+    title: "1916: Podbój Czarnogóry i północnej Albanii",
+    front: "Front bałkański",
+    dates: "styczeń 1916",
+    intro:
+      "Po upadku Serbii Austro-Węgry zwróciły się przeciw jej małej sojuszniczce. Na początku stycznia 1916 roku armia generała Kövessa uderzyła na Czarnogórę od strony Boki Kotorskiej i od Sandżaku. Twierdza górska Lovćen, która przez półtora roku zagrażała austro-węgierskiej bazie floty w Kotorze, padła po kilku dniach, a za nią stolica Cetynia. Król Mikołaj poprosił o rozejm, ale rokowania się załamały i kraj został zajęty w ciągu kilku tygodni. Austriacy weszli też do północnej Albanii, do Szkodry i San Giovanni di Medua, skąd jeszcze niedawno ewakuowano niedobitki armii serbskiej.",
+  },
+  {
     slug: "1914-prusy-wschodnie",
     title: "1914: Walki w Prusach Wschodnich",
     front: "Front wschodni",
@@ -256,6 +264,14 @@ export const BATTLE_PHASES = [
     dates: "od kwietnia 1915",
     intro:
       "Wiosną 1915 roku Imperium Osmańskie, mimo zimowej klęski pod Sarykamyszem, próbowało odzyskać inicjatywę na swoich wschodnich rubieżach. W Mezopotamii wojska osmańskie i plemienni sojusznicy uderzyli na Brytyjczyków broniących Basry, ale zostali pobici pod Szuajbą, co otworzyło drogę brytyjskiemu marszowi w górę Tygrysu i Eufratu. Na pograniczu z Persją i Rosją wojna przyniosła tragedię ludności cywilnej. Władze osmańskie rozpoczęły deportacje i masakry Ormian, a w Wanie Ormianie przez kilka tygodni bronili się przed oblężeniem, aż do nadejścia wojsk rosyjskich.",
+  },
+  {
+    slug: "1916-bliski-wschod",
+    title: "1916: Odsiecz Al-Kutu i ofensywa na Erzurum",
+    front: "Bliski Wschód",
+    dates: "od stycznia 1916",
+    intro:
+      "Na początku 1916 roku Brytyjczycy próbowali uwolnić dywizję generała Townshenda, oblężoną w Al-Kucie nad Tygrysem. Korpus odsieczy generała Aylmera, sklecony w pośpiechu z jednostek przybywających z Francji i Indii, atakował w zimowej ulewie i błocie pod Szejk Saad, nad Wadi i pod Hanną, ponosząc ciężkie straty i nie przebijając się do miasta. Tymczasem na Kaukazie generał Judenicz, wykorzystując to, że Turcy przerzucali siły spod Gallipoli, rozpoczął w środku zimy ofensywę, która zakończyła się zdobyciem twierdzy Erzurum. W Persji Rosjanie wypierali z zachodnich prowincji wojska osmańskie i ich perskich sprzymierzeńców.",
   },
 ] as const
 
