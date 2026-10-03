@@ -22,7 +22,7 @@ Decyzja pasowała do szerszego obrazu. Na początku października wygasła [bitw
 
 ## Front na Dźwinie
 
-Po wygaśnięciu walk linia frontu na północy biegła od Zatoki Ryskiej wzdłuż Dźwiny aż pod Dźwińsk, a dalej na południe przez pas jezior ku Narocz i Smorgoniom. Rosjanie utrzymali jednak na lewym, zajętym przez Niemców brzegu rzeki trzy przedmościa: przed [Rygą](https://pl.wikipedia.org/wiki/Ryga) pod [Ikšķile](https://pl.wikipedia.org/wiki/Ikšķile), niem. Uexküll, pod [Jakobsztadem](https://pl.wikipedia.org/wiki/Jēkabpils) i przed samym Dźwińskiem. Z nich mogli w przyszłości uderzyć na drugi brzeg, a Niemcy musieli trzymać naprzeciw nich silne siły.
+Po wygaśnięciu walk linia frontu na północy biegła od Zatoki Ryskiej wzdłuż Dźwiny aż pod Dźwińsk, a dalej na południe przez pas jezior ku Narocz i Smorgoniom. Rosjanie utrzymali jednak na lewym, zajętym przez Niemców brzegu rzeki trzy przedmościa: przed [Rygą](https://pl.wikipedia.org/wiki/Ryga) pod [Ikšķile](https://pl.wikipedia.org/wiki/Ikšķile), niem. Uexküll, pod [Jakobsztatem](https://pl.wikipedia.org/wiki/Jēkabpils) i przed samym Dźwińskiem. Z nich mogli w przyszłości uderzyć na drugi brzeg, a Niemcy musieli trzymać naprzeciw nich silne siły.
 
 Dźwińsk, ważny węzeł kolejowy na drodze z Warszawy do Piotrogrodu, znalazł się tuż za linią frontu. W październiku bombardowały go niemieckie sterowce. Kapitan Ernst Lehmann, dowódca sterowca na tym froncie, wspominał, że sam LZ 85 zrzucił w tym miesiącu na koleje i mosty w okolicach Dźwińska, Rygi i Mińska około 12 ton bomb. Duża część mieszkańców wyjechała w głąb Rosji, a wraz z nimi wywieziono urzędy i wyposażenie fabryk.
 

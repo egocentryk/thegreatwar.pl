@@ -6,7 +6,7 @@ front: Front wschodni
 date: 1917-07-31
 authors: [Natalia]
 dayOrder: 1
-tags: [Rosja, rewolucja lutowa, Aleksiej Brusiłow]
+tags: [Rosja, Ławr Korniłow, rewolucja lutowa, Aleksiej Brusiłow]
 milestone: false
 draft: false
 ---
