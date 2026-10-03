@@ -122,6 +122,14 @@ export const BATTLE_PHASES = [
       "Na początku 1917 roku obie strony wyciągnęły wnioski z rzezi pod Verdun i nad Sommą. Niemcy, nie mając sił na kolejną taką bitwę, wycofali się na nową, silnie umocnioną Linię Hindenburga, skracając front i zostawiając za sobą spustoszony pas ziemi. Alianci przygotowywali wielką wiosenną ofensywę: nowy francuski wódz naczelny, generał Nivelle, obiecywał przełamanie frontu w ciągu dwóch dni, a Brytyjczycy mieli go wesprzeć natarciem pod Arras. Jednocześnie wypowiedzenie nieograniczonej wojny podwodnej popchnęło do wojny Stany Zjednoczone, których wojska miały się pojawić na froncie dopiero za kilka miesięcy.",
   },
   {
+    slug: "1917-arras-i-aisne",
+    title: "1917: Arras i ofensywa Nivelle'a",
+    front: "Front zachodni",
+    dates: "kwiecień – maj 1917",
+    intro:
+      "Wiosną 1917 roku alianci wrócili do wielkich ofensyw na froncie zachodnim. Generał Nivelle obiecywał przełamanie w ciągu dwóch dni nad Aisne i na Chemin des Dames, a Brytyjczycy mieli wcześniej związać niemieckie rezerwy uderzeniem pod Arras. Pierwszy dzień pod Arras i zdobycie grzbietu Vimy przez Kanadyjczyków należały do największych sukcesów armii brytyjskiej w tej wojnie, ale francuska ofensywa skończyła się ciężkimi stratami i zawiedzionymi nadziejami, a w armii francuskiej wybuchły bunty.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
