@@ -194,6 +194,14 @@ export const BATTLE_PHASES = [
       "27 sierpnia 1916 roku Rumunia, zachęcona sukcesami ofensywy Brusiłowa i obietnicami Ententy, wypowiedziała wojnę Austro-Węgrom. Jej armie przekroczyły przełęcze Karpat i wkroczyły do Siedmiogrodu, który miał być nagrodą za udział w wojnie. Państwa centralne odpowiedziały szybko: Niemcy, Turcja i Bułgaria wypowiedziały Rumunii wojnę, a Falkenhayna, którego zastąpił Hindenburg, wysłano do Siedmiogrodu. Od południa, przez Dobrudżę, nacierał Mackensen. Rumunia, otoczona z dwóch stron i zdana w dużej mierze na rosyjską pomoc, musiała walczyć na froncie długości ponad półtora tysiąca kilometrów.",
   },
   {
+    slug: "1917-front-rumunski",
+    title: "1917: Front rumuński",
+    front: "Front bałkański",
+    dates: "od lipca 1917",
+    intro:
+      "Po klęsce 1916 roku i utracie Bukaresztu armia rumuńska przetrwała zimę w Mołdawii. Pod okiem francuskiej misji generała Berthelota została przezbrojona i przeszkolona, a latem 1917 roku, razem z wojskami rosyjskimi, znów była zdolna do walki. W lipcu i sierpniu Rumuni stoczyli pod Mărăști, Mărășești i Oituz bitwy, które powstrzymały ostatnią próbę wyparcia ich z kraju.",
+  },
+  {
     slug: "1917-front-salonicki",
     title: "1917: Front salonicki",
     front: "Front bałkański",
@@ -280,6 +288,14 @@ export const BATTLE_PHASES = [
     dates: "od marca 1916",
     intro:
       "Po wielkim odwrocie 1915 roku front wschodni zastygł na linii od Zatoki Ryskiej przez Dźwinę, Polesie i Wołyń po granicę Rumunii. Armia rosyjska odbudowała w ciągu zimy siły, zaopatrzenie w amunicję i rezerwy. Na prośbę Francuzów, wykrwawianych pod Verdun, Rosjanie już w marcu 1916 roku uderzyli nad jeziorem Narocz na Białorusi. Ofensywa, prowadzona w roztopach i bez dostatecznego wsparcia artylerii, załamała się po kilku tygodniach z ciężkimi stratami. Rosyjskie dowództwo wyciągnęło jednak z niej wnioski, które latem przyniosły największy sukces armii carskiej w tej wojnie.",
+  },
+  {
+    slug: "1917-front-wschodni",
+    title: "1917: Ofensywa Kiereńskiego i jej klęska",
+    front: "Front wschodni",
+    dates: "od lipca 1917",
+    intro:
+      "Rząd Tymczasowy, naciskany przez sojuszników i przekonany, że zwycięstwo umocni rewolucję, postanowił latem 1917 roku przejść do natarcia. Minister wojny Aleksander Kiereński objeżdżał front, przemawiając do żołnierzy, ale armia rozbita przez komitety, dezercje i agitację przeciw wojnie była już cieniem dawnej siły. Ofensywa w Galicji Wschodniej po kilku dniach sukcesów utknęła, a niemiecki kontratak zamienił ją w bezładny odwrót.",
   },
   {
     slug: "1915-isonzo",
