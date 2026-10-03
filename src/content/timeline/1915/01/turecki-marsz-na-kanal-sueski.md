@@ -1,6 +1,6 @@
 ---
 title: Turecki marsz na Kanał Sueski
-summary: Pod koniec stycznia 1915 armia osmańska Cemala Paszy przeszła pustynię Synaj. 26 stycznia jej oddziały starły się z Brytyjczykami pod Kantarą.
+summary: Pod koniec stycznia 1915 armia osmańska Dżemala Paszy przeszła pustynię Synaj. 26 stycznia jej oddziały starły się z Brytyjczykami pod Kantarą.
 category: Działania zbrojne
 front: Bliski Wschód
 date: 1915-01-26
@@ -15,7 +15,7 @@ draft: false
 
 ## Cel: Egipt
 
-Od [ogłoszenia stanu wojennego](/stan-wojenny-w-egipcie) na początku listopada Brytyjczycy spodziewali się, że Turcy uderzą na kanał, którym płynęły transporty wojsk z Indii i Australii. Wyprawą kierował [Cemal Pasza](https://pl.wikipedia.org/wiki/Ahmed_Cemal), minister marynarki i obok Envera i Talata jeden z trzech najpotężniejszych ludzi w Imperium Osmańskim, od końca 1914 roku dowódca 4 Armii w Syrii. Faktycznie operację zaplanował i prowadził jego niemiecki doradca, bawarski oficer Friedrich Kress von Kressenstein, szef sztabu VIII Korpusu. Turcy i Niemcy liczyli, że już samo pojawienie się armii sułtana-kalifa nad kanałem, wsparte [wezwaniem do świętej wojny](/sultan-oglasza-dzihad), wywoła w Egipcie powstanie przeciw Brytyjczykom, którzy niedawno [ogłosili tam protektorat](/brytyjski-protektorat-nad-egiptem).
+Od [ogłoszenia stanu wojennego](/stan-wojenny-w-egipcie) na początku listopada Brytyjczycy spodziewali się, że Turcy uderzą na kanał, którym płynęły transporty wojsk z Indii i Australii. Wyprawą kierował [Dżemal Pasza](https://pl.wikipedia.org/wiki/Ahmed_Cemal), minister marynarki i obok Envera i Talata jeden z trzech najpotężniejszych ludzi w Imperium Osmańskim, od końca 1914 roku dowódca 4 Armii w Syrii. Faktycznie operację zaplanował i prowadził jego niemiecki doradca, bawarski oficer Friedrich Kress von Kressenstein, szef sztabu VIII Korpusu. Turcy i Niemcy liczyli, że już samo pojawienie się armii sułtana-kalifa nad kanałem, wsparte [wezwaniem do świętej wojny](/sultan-oglasza-dzihad), wywoła w Egipcie powstanie przeciw Brytyjczykom, którzy niedawno [ogłosili tam protektorat](/brytyjski-protektorat-nad-egiptem).
 
 ## Przez pustynię
 

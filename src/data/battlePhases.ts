@@ -106,6 +106,14 @@ export const BATTLE_PHASES = [
       "Gdy pod Verdun trwała najdłuższa bitwa wojny, na pozostałych odcinkach frontu zachodniego brytyjska armia rosła z miesiąca na miesiąc. Do Flandrii i Artois przybywały nowe dywizje ochotnicze i wojska z dominiów, które przejmowały od Francuzów kolejne odcinki frontu. Walki toczyły się o pojedyncze wzgórza, kratery i okopy, jak pod Ypres, gdzie w czerwcu 1916 roku Kanadyjczycy bronili wzgórz Mount Sorrel. Wszystko to było jednak przygotowaniem do wielkiej wspólnej ofensywy brytyjsko-francuskiej nad Sommą, zaplanowanej na lato.",
   },
   {
+    slug: "1916-somme",
+    title: "1916: Bitwa nad Sommą",
+    front: "Front zachodni",
+    dates: "od lipca 1916",
+    intro:
+      "1 lipca 1916 roku armie brytyjska i francuska uderzyły na niemieckie pozycje po obu stronach rzeki Sommy w Pikardii. Ofensywę planowano od grudnia 1915 roku jako główny wspólny wysiłek aliantów na froncie zachodnim, a po wybuchu bitwy pod Verdun miała także odciążyć Francuzów. Po tygodniowym ostrzale artyleryjskim brytyjska piechota, w dużej części ochotnicy z Nowych Armii Kitchenera, ruszyła do ataku i już pierwszego dnia poniosła największe straty w historii armii brytyjskiej. Bitwa przerodziła się w trwające do listopada wyniszczające zmagania o kolejne lasy, wzgórza i wioski, w których po stronie brytyjskiej walczyli też Australijczycy, Nowozelandczycy, Kanadyjczycy i Południowoafrykańczycy, a we wrześniu po raz pierwszy w historii użyto czołgów.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
