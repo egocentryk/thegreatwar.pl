@@ -1,0 +1,32 @@
+---
+title: Maude dowódcą w Mezopotamii
+summary: 28 sierpnia 1916 gen. Stanley Maude, dotąd dowódca Korpusu Tygrysu, przejął naczelne dowództwo w Mezopotamii po chorym gen. Percym Lake'u.
+category: Wojsko
+front: Bliski Wschód
+date: 1916-08-28
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Wielka Brytania, Indie Brytyjskie, William Robertson, Imperium Osmańskie]
+milestone: false
+draft: false
+---
+
+28 sierpnia 1916 roku generał porucznik sir Percy Lake odpłynął z [Basry](https://pl.wikipedia.org/wiki/Basra) do Anglii, a naczelne dowództwo sił brytyjskich w [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) objął generał [Frederick Stanley Maude](https://pl.wikipedia.org/wiki/Frederick_Stanley_Maude). Brytyjska historia oficjalna (Moberly, *The Campaign in Mesopotamia*, t. III) podaje, że 27 sierpnia był ostatnim dniem dowodzenia Lake'a, który [przejął wojsko w styczniu](/lake-zastepuje-nixona), w najgorszym możliwym momencie oblężenia Al-Kutu. Według biografa Maude'a, generała Charlesa Callwella, nowy dowódca przyjechał do Basry 24 sierpnia i przez kilka dni omawiał z poprzednikiem stan armii. Przejmował siły, które cztery miesiące wcześniej przeżyły [kapitulację Al-Kutu](/kapitulacja-al-kutu), a przez całe lato więcej ludzi traciły z powodu chorób niż w walce.
+
+## Dlaczego odwołano Lake'a
+
+Decyzję podjął w sierpniu Komitet Wojenny gabinetu. Lake miał zostać zastąpiony przez młodszego oficera, tak jak wcześniej zrobiono na innych frontach. Miał 61 lat, był w słabym zdrowiu, a siedem bardzo ciężkich miesięcy w Mezopotamii, jak pisze Moberly, wyraźnie go wyczerpało. Historia oficjalna oddaje mu sprawiedliwość. Lake nie zdołał uratować Al-Kutu, ale przez wiosnę i lato zbudował podstawy, na których mógł oprzeć się następca. Kilometry wałów ochroniły teren bazy w Basrze przed powodzią z 1916 roku. Na tym obszarze, liczącym około 124 km², powstały kwatery dla 15 tysięcy żołnierzy i 7 tysięcy chorych, nabrzeża, przy których mogły cumować statki oceaniczne, drogi i mosty. Basra była wreszcie na dobrej drodze do stania się sprawną bazą.
+
+Wciąż jednak wiele brakowało. Brakowało statków rzecznych, którymi zaopatrywano front na [Tygrysie](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), lekarzy i szpitali. W czerwcu z Mezopotamii ewakuowano jako chorych prawie 11 tysięcy oficerów i żołnierzy, w lipcu ponad 12 tysięcy, w sierpniu znowu 11 tysięcy. Brytyjczyków dziesiątkowały choroby jelitowe, gorączki i udary, żołnierzy indyjskich przede wszystkim [szkorbut](https://pl.wikipedia.org/wiki/Szkorbut), bo świeże warzywa psuły się w upale. Wieści o cierpieniach chorych i rannych dotarły do Wielkiej Brytanii, a w sierpniu rząd powołał komisję do zbadania przebiegu kampanii. Ministerstwo Wojny w Londynie, które [w lutym przejęło kierowanie działaniami](/ministerstwo-wojny-przejmuje-kampanie-mezopotamska), od 18 lipca odpowiadało z decyzji Komitetu Wojennego także za sprawy personelu, administracji i zaopatrzenia wyprawy, choć Indie pozostały jej główną bazą.
+
+## Wybór Robertsona
+
+Wybór następcy pozostawiono Radzie Armii, ale według Callwella nominacja była w całości dziełem szefa Imperialnego Sztabu Generalnego, generała Williama Robertsona. Nie była oczywista. Maude był młodszym generałem majorem, nie znał Indii ani wojsk indyjskich, które stanowiły większość sił w Mezopotamii. Miał 52 lata. Urodził się w 1864 roku w [Gibraltarze](https://pl.wikipedia.org/wiki/Gibraltar) jako syn generała odznaczonego w wojnie krymskiej Krzyżem Wiktorii, od 1884 roku służył w gwardyjskim pułku Coldstream Guards, a za [wojnę burską](https://pl.wikipedia.org/wiki/II_wojna_burska) dostał Order Wybitnej Służby. Później był sekretarzem wojskowym gubernatora generalnego Kanady i oficerem sztabu w Ministerstwie Wojny. W 1914 roku dowodził we Francji brygadą piechoty i w kwietniu 1915 roku został ranny. Od sierpnia 1915 roku prowadził 13 Dywizję na Gallipoli, gdzie w ostatnią noc [ewakuacji przylądka Helles](/koniec-ewakuacji-gallipoli) sam poprowadził na plażę ostatnich 160 żołnierzy, a w Mezopotamii dywizja ta była główną siłą [ostatniej próby odsieczy Al-Kutu](/bitwy/trzecia-proba-odsieczy-al-kutu). 11 lipca 1916 roku Maude objął po generale George'u Gorringe'u dowództwo całego Korpusu Tygrysu. Teraz na tym stanowisku zastąpił Maude'a generał major Alexander Cobbe.
+
+Między odchodzącym a nowym dowódcą nie było niechęci. Maude pisał do rodziny, że jest mu bardziej przykro, niż potrafi wyrazić, i bardzo podziwia Lake'a, który niemal przez cały czas wspaniale walczył z chorobą. Według Callwella podobnie myślało całe wojsko.
+
+## Najpierw porządek, potem Bagdad
+
+Maude przejmował dowództwo w chwili, gdy w Londynie i w Indiach na nowo spierano się o cele kampanii. Od 30 kwietnia obowiązywała instrukcja Robertsona, według której polityka w Mezopotamii była obronna, a ani Al-Kut, ani Bagdad nie miały znaczenia. W sierpniu wojska osmańskie spychały jednak w zachodniej Persji Rosjan generała Baratowa, którzy [stracili już Kermanszah](/wojska-osmanskie-odbijaja-kermanszah), a [potem także Hamadan](/wojska-osmanskie-zdobywaja-hamadan). 23 sierpnia naczelny wódz w Indiach, generał Beauchamp Duff, ostrzegał, że zimą Turcy mogą skupić siły przeciw Brytyjczykom nad Tygrysem, i proponował uprzedzić ich marszem na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad). Robertson odpowiedział 25 sierpnia, że Komitet Wojenny nie zmienił polityki, a poważne natarcie nie będzie możliwe przed 1 grudnia. Na razie trzeba było przygotować zaplecze i wyszkolić wojsko.
+
+Nowy dowódca myślał podobnie. 29 sierpnia, odpowiadając na te instrukcje, stanowczo odradzał przechodzenie do ofensywy, zanim nie rozbuduje się żeglugi na rzece. Tego samego dnia Robertson zadepeszował do niego osobiście, by zrobił wszystko, co możliwe, dla sprawności armii, podniósł morale żołnierzy i usprawnił zawodną komunikację. Maude zaproponował też podział czterech dywizji nad Tygrysem na dwa korpusy, utworzenie dywizji kawalerii z dwóch brygad i przeniesienie swojej kwatery z Basry bliżej frontu. Moberly opisuje go jako niestrudzonego pracownika, który wiele spraw brał we własne ręce i często pokazywał się wśród żołnierzy. Pierwsze miesiące jego dowodzenia poszły na reorganizację. W grudniu 1916 roku ruszył na Turków nad Tygrysem, a 11 marca 1917 roku jego wojska weszły do Bagdadu. Maude nie doczekał końca wojny: zmarł na [cholerę](https://pl.wikipedia.org/wiki/Cholera) w Bagdadzie 18 listopada 1917 roku.

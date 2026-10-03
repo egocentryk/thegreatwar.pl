@@ -2,7 +2,7 @@
 title: Piąta bitwa nad Isonzo
 summary: 11–16 marca 1916 Włosi zaatakowali nad Soczą, by odciążyć Francuzów pod Verdun. Rozproszone natarcia nie przyniosły zdobyczy ani nie zatrzymały Austriaków.
 front: Front włoski
-phase: 1915-isonzo
+phase: 1916-front-wloski
 startDate: 1916-03-11
 endDate: 1916-03-16
 location: Przedmoście Gorycji (Podgora), północna część płaskowyżu Kras (Monte San Michele, San Martino del Carso), okolice Selz pod Monfalcone, a na północy przedmoście Tolminu i grzbiet Mrzli vrh, Austro-Węgry (dziś Włochy i Słowenia)

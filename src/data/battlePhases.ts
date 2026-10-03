@@ -154,6 +154,22 @@ export const BATTLE_PHASES = [
       "Po upadku Serbii Austro-Węgry zwróciły się przeciw jej małej sojuszniczce. Na początku stycznia 1916 roku armia generała Kövessa uderzyła na Czarnogórę od strony Boki Kotorskiej i od Sandżaku. Twierdza górska Lovćen, która przez półtora roku zagrażała austro-węgierskiej bazie floty w Kotorze, padła po kilku dniach, a za nią stolica Cetynia. Król Mikołaj poprosił o rozejm, ale rokowania się załamały i kraj został zajęty w ciągu kilku tygodni. Austriacy weszli też do północnej Albanii, do Szkodry i San Giovanni di Medua, skąd jeszcze niedawno ewakuowano niedobitki armii serbskiej. W lutym zajęli środkową Albanię, a pod koniec miesiąca, po wycofaniu się Włochów, port Durrës.",
   },
   {
+    slug: "1916-front-salonicki",
+    title: "1916: Front salonicki",
+    front: "Front bałkański",
+    dates: "od sierpnia 1916",
+    intro:
+      "Latem 1916 roku front w Macedonii, przez pół roku niemal nieruchomy, znów się ożywił. Pod Salonikami stała już wielonarodowa armia generała Sarraila: Francuzi, Brytyjczycy, odtworzona na Korfu armia serbska, a od sierpnia także Rosjanie i Włosi. Alianci szykowali ofensywę, która miała ułatwić wejście do wojny Rumunii, ale uprzedzili ich Bułgarzy. W połowie sierpnia uderzyli na obu skrzydłach frontu, zajęli Florinę i wschodnią Macedonię aż po Strumę, a w samych Salonikach zwolennicy Wenizelosa wystąpili przeciw rządowi w Atenach.",
+  },
+  {
+    slug: "1916-kampania-rumunska",
+    title: "1916: Kampania rumuńska",
+    front: "Front bałkański",
+    dates: "od sierpnia 1916",
+    intro:
+      "27 sierpnia 1916 roku Rumunia, zachęcona sukcesami ofensywy Brusiłowa i obietnicami Ententy, wypowiedziała wojnę Austro-Węgrom. Jej armie przekroczyły przełęcze Karpat i wkroczyły do Siedmiogrodu, który miał być nagrodą za udział w wojnie. Państwa centralne odpowiedziały szybko: Niemcy, Turcja i Bułgaria wypowiedziały Rumunii wojnę, a Falkenhayna, którego zastąpił Hindenburg, wysłano do Siedmiogrodu. Od południa, przez Dobrudżę, nacierał Mackensen. Rumunia, otoczona z dwóch stron i zdana w dużej mierze na rosyjską pomoc, musiała walczyć na froncie długości ponad półtora tysiąca kilometrów.",
+  },
+  {
     slug: "1914-prusy-wschodnie",
     title: "1914: Walki w Prusach Wschodnich",
     front: "Front wschodni",
