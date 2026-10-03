@@ -1,0 +1,19 @@
+---
+title: Rozkaz Mikołaja II w sprawie Polski
+summary: 25 grudnia 1916 car Mikołaj II w rozkazie do armii i floty zaliczył do celów wojny utworzenie wolnej Polski ze wszystkich trzech zaborów.
+category: Polityka
+date: 1916-12-25
+authors: [Natalia]
+dayOrder: 2
+tags: [Rosja, Mikołaj II, Królestwo Polskie]
+milestone: false
+draft: false
+---
+
+25 grudnia 1916 roku (12 grudnia według kalendarza juliańskiego) car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) jako naczelny wódz wydał rozkaz do armii i floty. Była to jego odpowiedź na [niemiecką ofertę pokojową](/niemiecka-oferta-pokojowa) z 12 grudnia. Car przypominał, że Niemcy napadli na Rosję i Francję w czasie pokoju, i przekonywał, że teraz, czując słabnięcie swoich sił, nagle proponują rokowania. Godzina pokoju jeszcze nie wybiła: nieprzyjaciel nie został wyparty z zajętych ziem, a Rosja nie osiągnęła celów, które postawiła przed nią wojna. Wśród nich car wymienił zdobycie [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol) i cieśnin oraz utworzenie wolnej Polski ze wszystkich trzech jej obecnie rozdzielonych części. Przekłady tego zdania nieco się różnią. Francuski ambasador Maurice Paléologue, który o przygotowywanym rozkazie wiedział od ministra spraw zagranicznych Nikołaja Pokrowskiego już od 16 grudnia, zanotował je jako „odbudowę wolnej Polski w składzie jej trzech części”.
+
+Rozkaz był kolejną rosyjską odpowiedzią na [akt 5 listopada](/akt-5-listopada), w którym Niemcy i Austro-Węgry zapowiedziały utworzenie Królestwa Polskiego z zajętej przez nie części zaboru rosyjskiego. Rząd rosyjski zaprotestował wtedy notą, a 2 grudnia nowy premier Aleksandr Trepow [oświadczył w Dumie](/trepow-oglasza-prawo-rosji-do-konstantynopola), że celem Rosji jest odtworzenie wolnej Polski w granicach etnograficznych, „w nierozerwalnym związku z Rosją”. Teraz te same słowa o wolnej Polsce, zjednoczonej ze wszystkich zaborów, padły z ust samego cara. Rosja od początku wojny unikała jednoznacznych zobowiązań. Gdy latem 1916 roku minister Siergiej Sazonow przekonywał do ogłoszenia autonomii Królestwa, [stracił stanowisko](/dymisja-sazonowa).
+
+Polscy politycy związani z Rosją, skupieni w [Komitecie Narodowym Polskim](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1914–1917)), od miesięcy zabiegali o taki gest. Jeszcze w sierpniu 1916 roku hrabia [Zygmunt Wielopolski](https://pl.wikipedia.org/wiki/Zygmunt_Wielopolski_(1863–1919)) wręczył carowi memoriał z prośbą o manifest potwierdzający zjednoczenie ziem polskich i odbudowę Królestwa Polskiego w unii z Rosją. Rozkaz był jednak lakoniczny. Nie mówił ani o niepodległości, ani o ustroju przyszłej Polski, ani o tym, jaki ma być jej związek z Rosją, choć po wcześniejszych oświadczeniach rządu trudno było wątpić, że chodzi o Polskę pod berłem cara. Wielopolski starał się później uzyskać od cara objaśnienie, jak należy ten ustęp rozumieć. Tymczasem w okupowanej Warszawie okupanci tworzyli już [Tymczasową Radę Stanu](/dekret-o-utworzeniu-tymczasowej-rady-stanu), a obie strony wojny licytowały się obietnicami wobec Polaków. Paléologue chwalił szlachetny ton zakończenia, ale wątpił w sens przypominania o Konstantynopolu, skoro klęska Rumunii odebrała Rosji szanse na jego zdobycie.
+
+Carska Rosja nie zdążyła już pójść dalej. Niecałe trzy miesiące później [rewolucja lutowa](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)) obaliła Mikołaja II. 30 marca 1917 roku (17 marca według kalendarza juliańskiego) [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) księcia Gieorgija Lwowa ogłosił odezwę do Polaków, w której zobowiązał się dopomóc w utworzeniu niezawisłego państwa polskiego ze wszystkich ziem, na których Polacy stanowią większość, związanego z Rosją wolnym przymierzem wojskowym. Dopiero wtedy Rosja uznała prawo Polski do niepodległości.

@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front bałkański
 date: 1916-11-30
 authors: [Łukasz Skowroń]
-dayOrder: 1
+dayOrder: 2
 tags: [Grecja, Francja, Wielka Brytania, Konstantyn I Grecki]
 milestone: false
 draft: false

@@ -1,0 +1,20 @@
+---
+title: Wolf wypływa w rejs
+summary: 30 listopada 1916 z Kilonii wyruszył rajder Wolf Karla Augusta Nergera, przebrany frachtowiec, który miał stawiać miny i topić statki na Oceanie Indyjskim.
+category: Działania zbrojne
+front: Wojna na morzu
+date: 1916-11-30
+authors: [Natalia]
+dayOrder: 1
+tags: [Kaiserliche Marine, krążowniki pomocnicze, marynarka handlowa, blokada morska]
+milestone: false
+draft: false
+---
+
+30 listopada 1916 roku z [Kilonii](https://pl.wikipedia.org/wiki/Kilonia) wyruszył w rejs niemiecki [krążownik pomocniczy](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) Wolf, drugi z trzech [rajderów](https://pl.wikipedia.org/wiki/Rajder), które [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) wysłała tej zimy na dalekie szlaki handlowe. Tę datę podają niemieckie opracowania i większość nowszych publikacji. Brytyjska historia oficjalna wojny na morzu pisze tylko, że wypłynął pod koniec listopada, mniej więcej tydzień po [krążowniku pomocniczym Möwe](/mowe-wyplywa-w-drugi-rejs), a brytyjska chronologia wojny umieszcza jego wyjście pod 1 grudnia, z zastrzeżeniem, że data jest przybliżona.
+
+Wolf był przerobionym frachtowcem Wachtfels, zbudowanym w 1913 roku we Flensburgu dla bremeńskiego armatora DDG „Hansa”. Dowodził nim komandor porucznik (Fregattenkapitän) Karl August Nerger. Z zewnątrz statek wyglądał jak zwykły, powolny parowiec handlowy, rozwijający najwyżej około 11 węzłów. Za opuszczanymi burtami krył jednak działa kalibru 150 mm i lżejsze działka oraz wyrzutnie torped, a w ładowniach kilkaset [min morskich](https://pl.wikipedia.org/wiki/Mina_morska): według brytyjskiej historii oficjalnej 500, według innych źródeł ponad 450. Na pokładzie miał też rozkładany [wodnosamolot](https://pl.wikipedia.org/wiki/Wodnosamolot) rozpoznawczy [Friedrichshafen FF.33](https://pl.wikipedia.org/wiki/Friedrichshafen_FF.33), nazywany przez załogę „Wölfchen” (Wilczek). Załoga liczyła około 350 ludzi. Ogromne zasobniki węgla pozwalały pływać miesiącami bez zawijania do portu, a resztę zapasów rajder miał zdobywać na zatrzymanych statkach.
+
+Rozkaz brzmiał, by „przeszkadzać nieprzyjacielskiej żegludze na dalekich morzach, zwłaszcza na [Oceanie Indyjskim](https://pl.wikipedia.org/wiki/Ocean_Indyjski)”. Wolf był bowiem nie tylko rajderem, ale i [stawiaczem min](https://pl.wikipedia.org/wiki/Stawiacz_min): miał zaminować podejścia do portów, przez które płynęły wojska i towary z Indii, Australii i Afryki Południowej. Według brytyjskiej historii oficjalnej, by ominąć patrole krążowników, Nerger poprowadził okręt bardzo daleko na północ. Według niemieckich opracowań płynął wzdłuż wybrzeży Norwegii i obszedł [Islandię](https://pl.wikipedia.org/wiki/Islandia) od północy, przez [Cieśninę Duńską](https://pl.wikipedia.org/wiki/Cieśnina_Duńska). W krytycznych dniach szalały sztormy i zamiecie śnieżne, tak silne, że, jak pisze brytyjska historia oficjalna, dopiero około 10 grudnia rajder znalazł się na otwartym Atlantyku, poza zasięgiem brytyjskich patroli. Potem płynął środkiem oceanu na południe, z dala od uczęszczanych szlaków, by nikt go nie zauważył. Brytyjczycy przez kilka tygodni nie wiedzieli, że wyszedł w morze.
+
+Rejs Wolfa okazał się, według niemieckich opracowań, najdłuższą w czasie tej wojny wyprawą okrętu wojennego bez żadnego wsparcia z zewnątrz. Rajder postawił miny u wybrzeży Afryki Południowej, przed [Kolombo](https://pl.wikipedia.org/wiki/Kolombo) i [Bombajem](https://pl.wikipedia.org/wiki/Mumbaj), a potem u brzegów Australii i Nowej Zelandii. Zatopił lub zdobył kilkanaście statków, a na jego minach zatonęło według najczęściej podawanych zestawień kolejnych kilkanaście. Przez ponad rok alianci nie umieli go odnaleźć. Do Kilonii wrócił w lutym 1918 roku, po 451 dniach w morzu, z kilkuset jeńcami na pokładzie i ładunkiem surowców zabranych z ofiar. Wśród jego marynarzy był młody palacz [Theodor Plievier](https://pl.wikipedia.org/wiki/Theodor_Plievier), późniejszy pisarz, który opisał rejs w powieści *Des Kaisers Kulis* („Kulisi cesarza”).

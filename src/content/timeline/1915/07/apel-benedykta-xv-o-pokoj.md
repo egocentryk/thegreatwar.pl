@@ -5,7 +5,7 @@ category: Dyplomacja
 date: 1915-07-30
 authors: [Natalia]
 dayOrder: 4
-tags: [Watykan, Benedykt XV, Włochy]
+tags: [Watykan, Benedykt XV, Włochy, inicjatywy pokojowe]
 milestone: false
 draft: false
 ---

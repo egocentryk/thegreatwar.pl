@@ -5,7 +5,7 @@ category: Dyplomacja
 date: 1914-11-05
 authors: [Natalia]
 dayOrder: 1
-tags: [Belgia, Watykan, Benedykt XV]
+tags: [Belgia, Watykan, Benedykt XV, inicjatywy pokojowe]
 milestone: false
 draft: false
 ---

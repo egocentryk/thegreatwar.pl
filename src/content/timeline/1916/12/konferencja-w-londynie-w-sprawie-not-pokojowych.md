@@ -1,0 +1,31 @@
+---
+title: Konferencja w Londynie w sprawie not pokojowych
+summary: 26–28 grudnia 1916 ministrowie Wielkiej Brytanii i Francji radzili w Londynie nad odpowiedzią na noty pokojowe, Salonikami i planem Nivelle'a.
+category: Dyplomacja
+date: 1916-12-26
+authors: [Natalia]
+dayOrder: 2
+tags: [Wielka Brytania, Francja, David Lloyd George, Robert Nivelle]
+milestone: false
+draft: false
+---
+
+26 grudnia 1916 roku przy [Downing Street 10](https://pl.wikipedia.org/wiki/10_Downing_Street) w Londynie zebrała się konferencja brytyjsko-francuska. Obrady trwały do 28 grudnia. Gospodarzem był [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George), od niespełna trzech tygodni [premier](/lloyd-george-premierem), razem z członkami nowego Gabinetu Wojennego. Z Francji przyjechali minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), minister uzbrojenia [Albert Thomas](https://pl.wikipedia.org/wiki/Albert_Thomas_(polityk)) i Philippe Berthelot, bliski współpracownik premiera [Aristide'a Brianda](https://pl.wikipedia.org/wiki/Aristide_Briand), który przedstawiał jego osobiste stanowisko. Sam Briand nie przyjechał. Lloyd George pisał w pamiętnikach, że zatrzymała go niedyspozycja, a brytyjska historia oficjalna, że nie mógł opuścić Paryża, bo musiał pilnować swojej większości w senacie i Izbie Deputowanych. W obradach uczestniczył też francuski ambasador w Londynie [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon). Konferencję zwołano wcześniej w sprawach Grecji, Salonik i jedności dowodzenia na froncie zachodnim, ale do porządku obrad dopisano odpowiedzi na dwie świeże noty.
+
+## Odpowiedź na noty pokojowe
+
+12 grudnia państwa centralne zaproponowały rozmowy pokojowe w [nocie przekazanej przez państwa neutralne](/niemiecka-oferta-pokojowa), nie podając żadnych warunków. 18 grudnia prezydent Stanów Zjednoczonych [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) [poprosił wszystkie walczące państwa](/nota-pokojowa-wilsona), by ogłosiły, o co walczą. Brytyjski Gabinet Wojenny omawiał notę Wilsona 21 i 23 grudnia. Projekty odpowiedzi mieli przygotować lord [Robert Cecil](https://pl.wikipedia.org/wiki/Robert_Cecil_(wicehrabia)) i minister spraw zagranicznych [Arthur Balfour](https://pl.wikipedia.org/wiki/Arthur_Balfour). Projekt odpowiedzi Wilsonowi przysłany przez Brianda Brytyjczycy odłożyli jako zbyt mglisty i wymijający. Chcieli, by sojusznicy jasno powiedzieli, za co gotowi są dalej płacić krwią.
+
+Na konferencji Brytyjczycy zgłosili zastrzeżenia także do niektórych fragmentów francuskiego projektu odpowiedzi Niemcom. Cambon przedstawił nowy tekst, który po poprawkach przyjęto. Z dopisanym potem ustępem o Belgii stał się on wspólną notą wszystkich sprzymierzonych. Odpowiedź Wilsonowi uzgadniano dłużej. Francuzi stanowczo sprzeciwiali się osobnym notom, więc postanowiono wysłać wspólną. Cecil przekazał radę amerykańskiego ambasadora Waltera Page'a, by traktować Amerykanów jak najbardziej otwarcie. Balfour proponował wymienić cele wojny: powrót [Alzacji i Lotaryngii](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia) do Francji, połączenie z Włochami ziem włoskich pod panowaniem austriackim, zjednoczenie Serbów i Rumunów w ich państwach, spełnienie przynajmniej części dążeń Polaków i wyzwolenie chrześcijan spod władzy tureckiej. Gotowa odpowiedź trafiła do Amerykanów dopiero 10 stycznia 1917 roku.
+
+## Saloniki i Grecja
+
+Po [walkach w Atenach](/walki-w-atenach) 1 grudnia sojusznicze wojska w Macedonii miały na tyłach wrogą armię króla Konstantyna, a sojusznicy zastanawiali się, czy nie wycofać się ze zdobytej w listopadzie [Bitoli](https://pl.wikipedia.org/wiki/Bitola). Dowodzący tam francuski generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail) już przygotowywał na wszelki wypadek linię obrony z tyłu. Według brytyjskiej historii oficjalnej frontu salonickiego ministrowie rozmawiali o tym 26 grudnia po południu, bez doradców wojskowych, i niczego nie postanowili. 27 grudnia Francuzi domagali się posiłków dla Salonik. Brytyjczycy zgodzili się na razie wysłać jedynie uzupełnienia, potrzebne do odtworzenia pełnych stanów swoich dywizji. Lloyd George zaproponował, by całą sprawę omówiła wkrótce szersza konferencja z udziałem Włochów i dowódców wojskowych. Najpierw mówiono o spotkaniu na południu Francji, ale ostatecznie zebrało się ono 5–7 stycznia 1917 roku w Rzymie.
+
+## Plan Nivelle'a
+
+Najgoręcej spierano się o front zachodni. Generał [Robert Nivelle](https://pl.wikipedia.org/wiki/Robert_Nivelle), od dwóch tygodni [głównodowodzący armii francuskich](/nivelle-naczelnym-wodzem), planował na wiosnę wielką ofensywę i chciał, by Brytyjczycy szybko przejęli od Francuzów długi odcinek frontu. Generał [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) zgodził się na to w zasadzie 25 grudnia, ale na początek tylko na odcinku około 13 kilometrów do drogi Amiens–Saint-Quentin, od 1 lutego, zamiast około 32 kilometrów, których żądał Nivelle. Nivelle napisał wtedy do ministra wojny, by na konferencji w Londynie nakłonić Lloyda George'a do wywarcia nacisku na Haiga.
+
+Ribot zażądał w imieniu rządu francuskiego, by Brytyjczycy od razu, bez pytania wojskowych, zgodzili się na plan Nivelle'a i na udział w nim swojej armii. Lloyd George odparł, że rząd poznał nowy plan dopiero dzień wcześniej, że Nivelle dowodzi od dwóch tygodni i że gabinet nie zmieni planów wojennych, nie wysłuchawszy Haiga. Gabinet Wojenny przyjął francuską prośbę życzliwie, ale postanowił najpierw dać obu wodzom czas na porozumienie się między sobą. W pamiętnikach Lloyd George zanotował, że uderzyła go przemiana zwykle ostrożnego Ribota, porwanego, jak cała Francja, nadzieją na zwycięstwo według recepty Nivelle'a. Haig, mianowany 27 grudnia marszałkiem polnym, pojechał 31 grudnia do Chantilly, by rozmówić się z Nivelle'em osobiście. Brytyjska historia oficjalna przypuszcza też, że to naciski Brytyjczyków na konferencji sprawiły, iż na zbliżającą się konferencję sojuszniczą w Piotrogrodzie Francja wysłała generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau).
+
+Konferencja londyńska niewiele rozstrzygnęła ostatecznie. Uzgodniła jednak tekst odrzucenia niemieckiej oferty i zapoczątkowała rozmowy o planie Nivelle'a. Wiosną 1917 roku Brytyjczycy i Francuzi zapłacili za ten plan wysoką cenę.
