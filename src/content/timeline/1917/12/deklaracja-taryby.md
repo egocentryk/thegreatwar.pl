@@ -1,0 +1,21 @@
+---
+title: Deklaracja Taryby
+summary: 11 grudnia 1917 litewska Taryba w Wilnie ogłosiła odbudowę niepodległego państwa ze stolicą w Wilnie, związanego „wieczystym” sojuszem z Niemcami.
+category: Polityka
+date: 1917-12-11
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Litwa, Niemcy, Polska]
+milestone: false
+draft: false
+---
+
+11 grudnia 1917 roku w [okupowanym przez Niemców](/niemcy-zajmuja-wilno) [Wilnie](https://pl.wikipedia.org/wiki/Wilno) zebrała się [Taryba](https://pl.wikipedia.org/wiki/Taryba), dwudziestoosobowa Rada Litewska z [Antanasem Smetoną](https://pl.wikipedia.org/wiki/Antanas_Smetona) na czele. Przyjęła ona deklarację, w której, powołując się na prawo narodów do samostanowienia i na uchwałę wrześniowej konferencji litewskiej w Wilnie, ogłosiła odbudowę niepodległego państwa litewskiego ze stolicą w Wilnie i zerwanie wszelkich więzów państwowych, które łączyły Litwę z innymi państwami. Druga część aktu prosiła jednak Cesarstwo Niemieckie o ochronę i pomoc i opowiadała się za „wieczystym, trwałym związkiem” z Niemcami. Miały go urzeczywistnić konwencje wojskowa i komunikacyjna oraz wspólnota celna i walutowa. Była to niepodległość pod niemieckim protektoratem.
+
+Taryba powstała we wrześniu 1917 roku. Niemcy, którzy od 1915 roku rządzili Litwą przez wojskowy zarząd Ober-Ost, pozwolili na zwołanie do Wilna konferencji ponad dwustu litewskich działaczy, bo liczyli, że wypowie się ona za oderwaniem od Rosji i bliskim związkiem z Rzeszą. Konferencja, obradująca od 18 do 23 września, zażądała jednak niepodległej Litwy i uzależniła bliższe stosunki z Niemcami od uznania przez nie nowego państwa. Wybrała też Tarybę, która miała tę uchwałę wcielić w życie. Niemiecka cenzura nie pozwoliła uchwały opublikować.
+
+Po [przewrocie bolszewickim](/rewolucja-pazdziernikowa) i rozpoczęciu rozmów o [rozejmie na froncie wschodnim](/rozejm-tymczasowy-na-froncie-wschodnim) Berlin potrzebował dokumentu, który przed rokowaniami pokojowymi pokazałby, że Litwini sami chcą się oderwać od Rosji i związać z Niemcami. Według litewskich historyków pierwszy projekt aktu, którego domagał się kanclerz [Georg von Hertling](https://pl.wikipedia.org/wiki/Georg_von_Hertling), przygotowało niemieckie Ministerstwo Spraw Zagranicznych. Kilkuosobowa delegacja Taryby ze Smetoną i socjaldemokratą [Steponasem Kairysem](https://pl.wikipedia.org/wiki/Steponas_Kairys) uzgodniła w Berlinie kompromisowy tekst, a strona niemiecka zażądała, by przyjęto go bez zmiany choćby słowa. 11 grudnia Taryba tak też zrobiła. Według litewskich opracowań za deklaracją głosowało 15 członków Rady, trzech było przeciw, jeden się wstrzymał, a jeden nie brał udziału w głosowaniu. Akt sporządzono po niemiecku. Jego niemiecki egzemplarz, odnaleziony w 2017 roku w archiwum niemieckiego MSZ, nosi 19 podpisów.
+
+Część litewskich polityków, także na emigracji, uznała, że Taryba przekroczyła swoje pełnomocnictwa: konferencja wileńska zastrzegła, że o ustroju i stosunkach z sąsiadami ma zdecydować wybrana demokratycznie konstytuanta. Dla Polaków najważniejsze było co innego. Deklaracja ogłaszała stolicą litewskiego państwa Wilno, miasto, w którym według niemieckiego spisu z 1916 roku Polacy stanowili około połowy mieszkańców, a Litwini około 2,6 procent. W Tarybie nie było przedstawicieli wileńskich Polaków, a jej plany oznaczały, że spór o Wilno i ziemie dawnego Wielkiego Księstwa Litewskiego stanie się jednym z głównych konfliktów w tej części Europy.
+
+Niemcy nie pospieszyli się z uznaniem Litwy i nie zaprosili jej przedstawicieli do Brześcia. W styczniu 1918 roku Taryba próbowała usunąć z aktu zapis o sojuszu i dodać zapowiedź konstytuanty. Gdy Niemcy to odrzucili, a większość Rady ustąpiła, czterej lewicowi członkowie, wśród nich Kairys i [Stanisław Narutowicz](https://pl.wikipedia.org/wiki/Stanisław_Narutowicz), brat późniejszego prezydenta Polski, na pewien czas opuścili Tarybę. 16 lutego 1918 roku Taryba uchwaliła nowy [akt niepodległości](https://pl.wikipedia.org/wiki/Akt_niepodległości_Litwy), już bez wzmianki o związku z Niemcami. Cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) uznał jednak 23 marca 1918 roku niepodległą Litwę na podstawie deklaracji z 11 grudnia.
