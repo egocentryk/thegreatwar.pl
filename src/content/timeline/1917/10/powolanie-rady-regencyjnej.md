@@ -4,7 +4,7 @@ summary: 15 października 1917 Berlin i Wiedeń zatwierdziły regentów Królest
 category: Polityka
 date: 1917-10-15
 authors: [Łukasz Skowroń]
-dayOrder: 2
+dayOrder: 3
 tags: [Królestwo Polskie, Niemcy, Austro-Węgry, okupacja niemiecka]
 milestone: false
 draft: false

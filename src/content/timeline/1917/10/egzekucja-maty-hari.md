@@ -4,7 +4,7 @@ summary: 15 października 1917 w Vincennes rozstrzelano Matę Hari, holenderską
 category: Społeczeństwo
 date: 1917-10-15
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Francja, Niemcy, Holandia, wywiad]
 milestone: true
 draft: false

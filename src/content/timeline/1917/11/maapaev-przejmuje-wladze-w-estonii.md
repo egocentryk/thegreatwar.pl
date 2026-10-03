@@ -1,0 +1,21 @@
+---
+title: Maapäev przejmuje władzę w Estonii
+summary: 28 listopada 1917 estońskie zgromadzenie krajowe, Maapäev, ogłosiło się najwyższą władzą w Estonii do czasu zwołania konstytuanty. Bolszewicy rozpędzili je.
+category: Polityka
+date: 1917-11-28
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Rosja, rewolucja październikowa, Estonia]
+milestone: false
+draft: false
+---
+
+28 listopada 1917 roku (15 listopada st. st.) w Tallinnie zebrało się Tymczasowe Zgromadzenie Krajowe autonomicznej guberni estońskiej, zwane przez Estończyków Maanõukogu albo Maapäev. Wbrew decyzji miejscowej władzy bolszewickiej, która trzy dni wcześniej postanowiła rozwiązać Zgromadzenie, deputowani uchwalili, że Zgromadzenie „uznaje się za jedynego nosiciela najwyższej władzy w Estonii”, którego zarządzeń należy słuchać do czasu zebrania się Estońskiego Zgromadzenia Ustawodawczego. Zgromadzenie zobowiązało się zwołać je niezwłocznie na podstawie demokratycznej ordynacji wyborczej. Wszelkie rozporządzenia i dekrety, „od kogokolwiek by pochodziły”, miały obowiązywać w Estonii tylko wtedy, gdy ogłosi je Maapäev. Na czas, gdy Zgromadzenie nie obraduje, prawo wydawania pilnych zarządzeń otrzymało jego prezydium i Rada Starszych wraz z rządem krajowym.
+
+Zgromadzenie powstało dzięki rewolucji lutowej. 12 kwietnia 1917 roku (30 marca st. st.) [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) połączył [gubernię estońską](https://pl.wikipedia.org/wiki/Gubernia_estońska) z zamieszkaną przez Estończyków północną częścią [guberni inflanckiej](https://pl.wikipedia.org/wiki/Gubernia_inflancka), z Tartu, Viljandi, Pärnu, Võru i wyspą Saremą, i nadał nowej guberni autonomię. Komisarzem rządu został estoński adwokat [Jaan Poska](https://pl.wikipedia.org/wiki/Jaan_Poska), a przy nim działało Zgromadzenie, wybrane w wyborach pośrednich przez gminy wiejskie i rady miejskie. Pierwszy raz zebrało się 14 lipca. Ostatecznie liczyło 62 deputowanych, od agrarystów i demokratów po socjalistów i pięciu bolszewików. Na czele Rady Starszych, która kierowała pracami między sesjami, stał [Konstantin Päts](https://pl.wikipedia.org/wiki/Konstantin_Päts). Prawie wszystkie estońskie partie, poza bolszewikami, chciały wtedy autonomicznej Estonii w demokratycznej federacji rosyjskiej.
+
+Ten porządek obalił [przewrót październikowy](/rewolucja-pazdziernikowa). Już 5 listopada (23 października st. st.) oddziały estońskiego Komitetu Wojskowo-Rewolucyjnego zajęły w Tallinnie dworce i urzędy łączności, a 9 listopada działacz bolszewicki [Viktor Kingissepp](https://pl.wikipedia.org/wiki/Viktor_Kingissepp) przejął urzędowanie od Poski. Władzę w guberni objął zdominowany przez bolszewików Komitet Wykonawczy Rad Estonii z [Jaanem Anveltem](https://pl.wikipedia.org/wiki/Jaan_Anvelt) w kierownictwie. 25 listopada Komitet postanowił rozwiązać Maapäev i ogłosił własne wybory do Estońskiego Zgromadzenia Ustawodawczego. Nad krajem wisiała też groźba z zachodu: miesiąc wcześniej Niemcy [zajęli wyspy](/koniec-operacji-albion) u wejścia do Zatoki Ryskiej, w tym należącą do autonomicznej Estonii Saremę. Zwołując posiedzenie 28 listopada, przywódcy Zgromadzenia chcieli ocalić jedyną demokratycznie wybraną reprezentację Estończyków przed jednymi i drugimi.
+
+Uchwała nie zmieniła od razu sytuacji. Zaraz po jej przyjęciu bolszewicy rozpędzili Zgromadzenie, a czołowi politycy estońscy musieli zejść do podziemia. Päts trafił później na miesiąc do więzienia. Rada Starszych i rząd krajowy działały jednak dalej w konspiracji. Chronologie wojny piszą czasem, że 28 listopada Estonia ogłosiła niepodległość. To nieścisłość. Uchwała nie zrywała z Rosją i nie proklamowała państwa. Estońskie opracowania podkreślają jednak, że Estończycy po raz pierwszy sami ogłosili w niej swoje prawo do decydowania o własnym losie, i nazywają ją pierwszym krokiem ku państwowości.
+
+Do niepodległości doszło kilka miesięcy później, w innych warunkach. W lutym 1918 roku, gdy rokowania pokojowe bolszewików z Niemcami zostały zerwane, a wojska niemieckie ruszyły na Estonię, Rada Starszych powołała trzyosobowy [Komitet Ocalenia](https://pl.wikipedia.org/wiki/Estoński_Komitet_Ocalenia). 24 lutego 1918 roku, dzień przed wkroczeniem Niemców do Tallinna, Komitet ogłosił manifest proklamujący niezależną Republikę Estońską.

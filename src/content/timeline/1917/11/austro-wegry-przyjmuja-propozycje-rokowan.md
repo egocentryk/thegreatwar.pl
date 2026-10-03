@@ -1,0 +1,20 @@
+---
+title: Austro-Węgry przyjmują propozycję rokowań
+summary: 30 listopada 1917 minister Czernin zawiadomił depeszą rząd Lenina, że Austro-Węgry przystąpią do rokowań o rozejm i pokój, które miały ruszyć 2 grudnia.
+category: Dyplomacja
+front: Front wschodni
+date: 1917-11-30
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Austro-Węgry, Rosja, Ottokar Czernin, inicjatywy pokojowe]
+milestone: false
+draft: false
+---
+
+30 listopada 1917 roku z Wiednia wysłano radiotelegram „do rządu Republiki Rosyjskiej”. Minister spraw zagranicznych Austro-Węgier hrabia [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin) potwierdzał w nim odbiór okólnika [Rady Komisarzy Ludowych](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) z 28 listopada, w którym rząd rosyjski ogłaszał gotowość do rozmów o rozejmie i o powszechnym pokoju. Zasady, które Rosjanie przedstawili, stanowiły zdaniem rządu austro-węgierskiego „odpowiednią podstawę” do takich rokowań. Austro-Węgry deklarowały, że przystąpią do rozmów o rozejmie i powszechnym pokoju i wyślą przedstawicieli na rokowania, które miały się zacząć 2 grudnia. W Piotrogrodzie odebrano depeszę 1 grudnia. Brytyjska chronologia wojny podaje pod 30 listopada, że rząd austro-węgierski przyjął bolszewicką propozycję rokowań. Część historyków pisze, że rządy w Berlinie i w Wiedniu ogłosiły swoje stanowisko już 29 listopada, kiedy w Reichstagu przemawiał nowy kanclerz [Georg von Hertling](https://pl.wikipedia.org/wiki/Georg_von_Hertling). Sam tekst depeszy Czernina nosi jednak datę 30 listopada.
+
+Odpowiedź z Wiednia była krokiem politycznym, który dopełniał porozumienie wojskowe. Kilka dni wcześniej rosyjscy parlamentariusze [przeszli przez linie niemieckie](/rosyjscy-parlamentariusze-za-liniami-niemieckimi) pod Dźwińskiem i wrócili ze zgodą niemieckiego dowództwa na rozmowy o rozejm. Rząd Lenina, który [21 listopada](/bolszewicy-proponuja-rozejm) zażądał od naczelnego dowództwa propozycji rozejmu, a od sojuszników nie usłyszał ani słowa, mógł teraz ogłosić, że także rząd jednego z mocarstw centralnych zgadza się z nim rozmawiać, i to na podstawie jego programu. Komisarz spraw zagranicznych [Lew Trocki](https://pl.wikipedia.org/wiki/Lew_Trocki) odpowiedział Czerninowi, że depesza zapowiadająca gotowość do rokowań „na podstawie programu pokojowego rewolucji rosyjskiej”, czyli bez aneksji i kontrybucji, z gwarancją prawa narodów do stanowienia o swoim losie, zostanie natychmiast podana do wiadomości narodu rosyjskiego oraz narodów i rządów państw sprzymierzonych.
+
+Czernin od początku należał do zwolenników szybkiego porozumienia z bolszewikami. Austro-Węgry były wyczerpane bardziej niż Niemcy: brakowało żywności i surowców, rosło niezadowolenie ludności i narodów monarchii. Odkąd w grudniu 1916 roku [objął urząd](/czernin-ministrem-spraw-zagranicznych), minister szukał drogi do pokoju, nie zrywając przy tym sojuszu z Niemcami. 17 listopada pisał w prywatnym liście, że w jego ministerstwie jedni nie biorą Lenina poważnie, inni nie chcą pertraktować z rewolucjonistą, a on sam, jak sądzi jedyny, zamierza z nim rozmawiać: „Im krótszy będzie okres władzy Lenina, tym bardziej trzeba działać szybko, bo żaden następny rząd rosyjski nie wznowi wojny”. Rachunek był prosty. „Pokój w możliwie najkrótszym czasie jest konieczny dla naszego ocalenia – pisał – a nie osiągniemy pokoju, dopóki Niemcy nie dojdą do Paryża, a nie dojdą do Paryża, dopóki ich front wschodni nie zostanie uwolniony”. Narzekał przy tym, że Niemcy zwlekają, choć to ich wojskowi zabiegali o upadek Kiereńskiego.
+
+Ententa uznała rozmowy z państwami centralnymi za zdradę sojuszniczych zobowiązań Rosji, a rządy sprzymierzone nadal nie odpowiadały na propozycje Trockiego. Rokowania, w których delegacji austro-węgierskiej przewodził dyplomata Kajetan von Mérey, rozpoczęły się 3 grudnia w [Brześciu Litewskim](https://pl.wikipedia.org/wiki/Brześć), a 15 grudnia zakończyły podpisaniem rozejmu. Na rokowania pokojowe, które ruszyły w Brześciu tydzień później, przyjechał już sam Czernin.

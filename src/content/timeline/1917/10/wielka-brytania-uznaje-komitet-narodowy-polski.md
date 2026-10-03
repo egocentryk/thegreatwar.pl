@@ -1,0 +1,19 @@
+---
+title: Wielka Brytania uznaje Komitet Narodowy Polski
+summary: 15 października 1917 rząd brytyjski uznał paryski Komitet Narodowy Polski za oficjalną organizację polską. Był drugim po Francji mocarstwem Ententy.
+category: Dyplomacja
+date: 1917-10-15
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Polska, Roman Dmowski, Wielka Brytania]
+milestone: false
+draft: false
+---
+
+15 października 1917 roku rząd brytyjski uznał [Komitet Narodowy Polski](/powstanie-komitetu-narodowego-polskiego) [Romana Dmowskiego](https://pl.wikipedia.org/wiki/Roman_Dmowski) za oficjalną organizację polską i zgodził się, by jego siedzibą pozostał Paryż. Wielka Brytania była drugim mocarstwem Ententy, które to zrobiło, niespełna miesiąc po [Francji](/francja-uznaje-komitet-narodowy-polski). Formuła była taka sama jak francuska. Cztery dni wcześniej ambasada brytyjska zapowiedziała w Departamencie Stanu, że jej rząd jest „bardzo chętny” uznać Komitet „za oficjalną organizację polską” i przyjąć jego siedzibę w Paryżu. Datę 15 października potwierdza depesza sekretarza stanu [Roberta Lansinga](https://pl.wikipedia.org/wiki/Robert_Lansing) wysłana tego samego wieczoru do ambasadora w Paryżu: „Departament rozumie, że rząd brytyjski uznał dziś Polski Komitet Narodowy”.
+
+Londyn interesował się sprawą polską od lata. 23 lipca ambasada brytyjska w Waszyngtonie przedstawiła Amerykanom memoriał. Według brytyjskich informacji Niemcy i ich sojusznicy byli zaniepokojeni sytuacją w Polsce, a rząd [Lloyda George’a](https://pl.wikipedia.org/wiki/David_Lloyd_George) uważał, że dążenia Polaków do wolności i niepodległości trzeba popierać wszelkimi sposobami i zniechęcać ich do wiary w „pozorną niepodległość” obiecywaną przez wroga. Brytyjczycy proponowali, by Polaków mieszkających w krajach sprzymierzonych, także tych pochodzących z zaboru niemieckiego i austriackiego, traktować otwarcie jak przyjaciół i potencjalnych sojuszników. Każda polska społeczność w państwach Ententy miała mieć uznany przez rząd komitet, który mógłby się za nią ręczyć. Gdy w sierpniu powstał Komitet w Lozannie, Brytyjczycy zawiadomili Waszyngton, że skłaniają się do jego oficjalnego uznania. Amerykanie myśleli wtedy o polskim rządzie tymczasowym w Stanach Zjednoczonych. Podsekretarz stanu w Foreign Office [Robert Cecil](https://pl.wikipedia.org/wiki/Robert_Cecil_(wicehrabia)) wolał jednak najpierw zobaczyć, co zdziała komitet paryski, który przedstawiał się jako najbardziej reprezentatywne ciało Polaków ze wszystkich trzech zaborów.
+
+Brytyjczycy chcieli działać razem ze Stanami Zjednoczonymi. W notatce z 11 października zapowiadali, że minister spraw zagranicznych [Arthur Balfour](https://pl.wikipedia.org/wiki/Arthur_Balfour), gdy tylko pozna zdanie Waszyngtonu, zaprosi do podobnego kroku Włochy i powiadomi Rosję. Amerykanie zwlekali, bo nie chcieli pominąć rosyjskiego Rządu Tymczasowego, którego Polski dotyczyła najbardziej. Londyn nie czekał. Przedstawicielem Komitetu przy rządzie brytyjskim był hrabia [Władysław Sobański](https://pl.wikipedia.org/wiki/Władysław_Sobański), ziemianin z Ukrainy, który w czasie wojny zajmował się w Rosji pomocą dla ludności wysiedlonej z terenów zajętych przez państwa centralne.
+
+Według Komitetu jego zadaniem było reprezentowanie interesów polskich w krajach Ententy, prowadzenie spraw politycznych [armii polskiej we Francji](/dekret-o-utworzeniu-armii-polskiej-we-francji) i opieka nad Polakami, którzy formalnie byli poddanymi Rosji, Niemiec albo Austro-Węgier. Lipcowy memoriał brytyjski szczególnie podkreślał to ostatnie: Polak z Poznańskiego czy Galicji mieszkający w Anglii mógł liczyć na opiekę władz, jeśli poręczył za niego uznany komitet. Uznanie nie czyniło z KNP rządu ani nie przesądzało o granicach Polski. Dawało jednak Dmowskiemu drugiego wielkiego partnera. Włochy i Stany Zjednoczone poszły w ślady Londynu w ciągu następnych tygodni.

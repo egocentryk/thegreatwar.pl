@@ -1,0 +1,23 @@
+---
+title: Koniec bitwy o Nabi Samwil
+summary: 24 listopada 1917 szkocka 52 Dywizja na próżno atakowała Al-Dżib pod Jerozolimą. Wieczorem Allenby wstrzymał natarcie w górach do przybycia świeżych wojsk.
+category: Działania zbrojne
+front: Bliski Wschód
+battle: bitwa-o-nabi-samwil
+date: 1917-11-24
+authors: [Natalia]
+dayOrder: 1
+tags: [Imperium Osmańskie, Wielka Brytania, Indie Brytyjskie, Erich von Falkenhayn]
+milestone: false
+draft: false
+---
+
+24 listopada 1917 roku o 19.50 kwatera główna generała sir [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) nadała do XXI Korpusu depeszę: natarcie na tureckie pozycje od Bajtunji przez Al-Dżib po Liftę zostaje przerwane do czasu przybycia świeżych wojsk. Kilka godzin wcześniej szkocka 52 Dywizja po raz drugi w ciągu dwóch dni nie zdołała zdobyć wioski [Al-Dżib](https://pl.wikipedia.org/wiki/Al-Dżib), biblijnego Gibeonu, na północny zachód od [Jerozolimy](https://pl.wikipedia.org/wiki/Jerozolima). Tak skończyła się pierwsza brytyjska próba zdobycia Świętego Miasta, nazwana od wzgórza Nabi Samwil. Wojska, które tydzień wcześniej [weszły w Góry Judzkie](/poczatek-bitwy-o-nabi-samwil), miały obejść Jerozolimę od północy i przeciąć drogę do Nablusu pod Al-Birą. Doszły na kilka kilometrów od niej.
+
+Najważniejszy sukces tej operacji przyniósł wieczór 21 listopada. Dwa osłabione bataliony 75 Dywizji, indyjski 123 Pułk Strzelców Outrama i lekka piechota z Kornwalii, zdobyły wtedy o zmierzchu wzgórze [Nabi Samwil](https://pl.wikipedia.org/wiki/An-Nabi_Samu’il) z meczetem nad tradycyjnym grobem proroka Samuela, skąd widać było budynki Jerozolimy. 22 listopada Turcy przez cały dzień ostrzeliwali i szturmowali wzgórze. Pociski zawaliły część dachu meczetu i rozbiły grobowiec proroka, a [Gurkhowie](https://pl.wikipedia.org/wiki/Gurkhowie) z 3/3 batalionu odpierali Turków na bagnety i kukri, zrzucając na nich głazy z tarasów. Wzgórze obroniono, ale cztery bataliony, które go broniły, straciły 567 ludzi, mniej więcej połowę swojego stanu.
+
+Nabi Samwil nie wystarczało jednak, by iść dalej. Droga na północ prowadziła przez Al-Dżib, wieś na stromym, tarasowanym wzgórzu, do której trzeba było podejść przez dwa kilometry odsłoniętej równiny. 23 listopada trzy bataliony 75 Dywizji, wsparte tylko trzema zużytymi działami górskimi, doszły pod ogniem do podnóża wzgórza. Kilku żołnierzy z batalionu Somerset wdarło się do wsi, ale wszyscy zginęli albo trafili do niewoli. Najcięższe straty zadawały karabiny maszynowe strzelające w bok nacierających z północnych stoków grzbietu Nabi Samwil, wciąż w rękach Turków. Dywizja straciła tego dnia 480 ludzi.
+
+24 listopada atak przejęła 52 Dywizja generała majora Johna Hilla, tym razem ze wsparciem kilkunastu dział polowych, które artylerzyści z wielkim trudem wciągnęli w góry. Hill chciał uniknąć błędu z poprzedniego dnia. 155 Brygada miała uderzyć na Al-Dżib od południowego zachodu, a 156 Brygada oczyścić grzbiet za meczetem i zająć wieś [Bir Nabala](https://pl.wikipedia.org/wiki/Bir_Nabala). Atak ruszył po południu. Szkoci z 155 Brygady doszli do ogrodu otoczonego murem przed wsią, ale tam przygwoździł ich ogień z przodu i z boku. Dowódca jednego z batalionów zginął, drugiego ranno. 156 Brygada wyszła spod meczetu prosto w gąszcz kamiennych murków i ogrodów, bronionych przez liczne karabiny maszynowe i moździerze, i nie posunęła się nawet o dwieście metrów. Turecka artyleria ostrzeliwała ją z trzech stron. Trzecia brygada nie znalazła drogi, którą mogłaby obejść wzgórza. Dywizja straciła 630 ludzi. Wieczorem Hill zameldował, że Turcy trzymają ciągłą linię od Bajt Iksa po Bajtunję, mają więcej artylerii niż on i walczą z innym duchem niż przez ostatnie trzy tygodnie, a kolejny atak jednej dywizji musi się skończyć porażką. Dowódca korpusu, generał porucznik Edward Bulfin, przyznał mu rację.
+
+Tego samego dnia na równinie, by przekonać Turków, że Brytyjczycy zamierzają iść dalej wybrzeżem, nowozelandzka konnica przeprawiła się przez Nahr al-Audża na północ od Jafy i bez strat zajęła wieś Al-Muwannis. Następnego ranka tureckie kontrataki zepchnęły ją i dwa bataliony piechoty z powrotem za rzekę. Allenby, który w tych dniach odwiedził front, uznał, że ma przed sobą zreorganizowaną turecką armię na silnej pozycji, której nie zdobędzie bez starannego przygotowania. Zgodnie z jego rozkazami z 25 listopada wyczerpane dywizje XXI Korpusu miały zluzować świeże dywizje XX Korpusu, przybywające spod Gazy. Przerwę wykorzystał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), który od 27 listopada rzucał swoje wojska do kontrataków, także na Nabi Samwil. Brytyjczycy utrzymali jednak swoje pozycje w górach, a dwa tygodnie później, 9 grudnia 1917 roku, Jerozolima się poddała.

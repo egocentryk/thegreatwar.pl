@@ -1,0 +1,19 @@
+---
+title: Stany Zjednoczone uznają Komitet Narodowy Polski
+summary: 10 listopada 1917 sekretarz stanu Lansing upoważnił ambasadora w Paryżu do uznania Komitetu Narodowego Polskiego za oficjalną organizację polską.
+category: Dyplomacja
+date: 1917-11-10
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Polska, Roman Dmowski, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+10 listopada 1917 roku o czwartej po południu sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) wysłał depeszę do ambasadora Stanów Zjednoczonych w Paryżu Williama Sharpa. Polecał mu poinformować [Romana Dmowskiego](https://pl.wikipedia.org/wiki/Roman_Dmowski), że Departament Stanu otrzymał jego prośbę o uznanie [Komitetu Narodowego Polskiego](/powstanie-komitetu-narodowego-polskiego) „za oficjalną organizację polską”, i dodawał: „W odpowiedzi Departament niniejszym upoważnia Pana do udzielenia takiego formalnego uznania”. Stany Zjednoczone dołączyły w ten sposób do [Francji](/francja-uznaje-komitet-narodowy-polski), [Wielkiej Brytanii](/wielka-brytania-uznaje-komitet-narodowy-polski) i [Włoch](/wlochy-uznaja-komitet-narodowy-polski). Datę 10 listopada podają dokumenty dyplomacji amerykańskiej i część polskich opracowań. Inne podają 1 grudnia 1917 roku albo piszą ogólnie o przełomie listopada i grudnia.
+
+Waszyngton miał w tej sprawie najwięcej wątpliwości. Na uznanie naciskała od miesięcy [amerykańska Polonia](https://pl.wikipedia.org/wiki/Polonia_w_Stanach_Zjednoczonych). Lansing pisał, że prosi o nie „blisko milion Polaków” skupionych w organizacjach, które we wrześniu podporządkowały się Komitetowi. W Ameryce reprezentował KNP [Ignacy Jan Paderewski](https://pl.wikipedia.org/wiki/Ignacy_Jan_Paderewski), który 4 października pisał do prezydenta [Woodrowa Wilsona](https://pl.wikipedia.org/wiki/Woodrow_Wilson) w imieniu Wydziału Narodowego w Chicago. Na początku października Departament Wojny ogłosił, że w pełni popiera rozpoczynany przez Polonię werbunek ochotników do [armii polskiej we Francji](/dekret-o-utworzeniu-armii-polskiej-we-francji), pod warunkiem że nie obejmie on Polaków podlegających amerykańskiemu poborowi. Departament Stanu nie chciał jednak działać za plecami Rosji. 15 października, w dniu uznania brytyjskiego, Lansing depeszował do Paryża, że pominięcie rosyjskiego Rządu Tymczasowego w sprawie, która dotyczy go tak bezpośrednio, może zaszkodzić całemu przedsięwzięciu. Zażądał też formalnej, pisemnej prośby Komitetu. Dmowski wręczył ją Sharpowi 18 października.
+
+Zgody Rosji nie udało się uzyskać. Minister spraw zagranicznych Michaił Tiereszczenko tłumaczył amerykańskiemu ambasadorowi w Piotrogrodzie, że Polacy w Rosji są głęboko podzieleni, a uznanie Komitetu wywołałoby wśród nich wielkie spory. 2 listopada Lansing uznał, że w ogólnym interesie sprzymierzonych nie może dłużej zwlekać, i polecił powiadomić o tym Rosjan. 5 listopada Amerykanie dowiedzieli się, że Komitet uznały już Włochy, i zapewnili Francuzów, że zrobią to „w ciągu kilku dni”. Dwa dni później Rząd Tymczasowy [przestał istnieć](/rewolucja-pazdziernikowa), a wraz z nim główny powód amerykańskiej ostrożności.
+
+Amerykańskie uznanie miało dla Komitetu szczególną wagę. Za oceanem żyła największa polska społeczność poza ziemiami polskimi, a zarazem główny rezerwuar ochotników do polskiego wojska. Uznanie nie czyniło jednak z KNP rządu. W grudniu Lansing zgodził się, by Komitet otworzył w Stanach Zjednoczonych biuro wydające Polakom zaświadczenia narodowości, które miały ich chronić przed traktowaniem jak poddanych wrogich państw. Nie mogło ono jednak mieć charakteru konsulatu, bo ten wymagałby uznanego rządu. Kilka tygodni później, w styczniu 1918 roku, Wilson ogłosił swoje [czternaście punktów](https://pl.wikipedia.org/wiki/Czternaście_punktów_Wilsona), wśród nich żądanie niepodległego państwa polskiego z dostępem do morza.
