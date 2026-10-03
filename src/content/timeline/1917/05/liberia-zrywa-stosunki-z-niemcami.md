@@ -5,7 +5,7 @@ category: Dyplomacja
 date: 1917-05-08
 authors: [Łukasz Skowroń]
 dayOrder: 1
-tags: [Niemcy, Stany Zjednoczone, neutralność, okręty podwodne]
+tags: [Liberia, Niemcy, Stany Zjednoczone, neutralność]
 milestone: false
 draft: false
 ---

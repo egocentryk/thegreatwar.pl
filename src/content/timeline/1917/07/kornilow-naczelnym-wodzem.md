@@ -31,4 +31,4 @@ Spór ciągnął się kilka dni. Ostatecznie Czeremisowa odsunięto, Front Połu
 
 ## Kto rządzi armią
 
-Nominacja ucieszyła oficerów i prawicę, które widziały w Korniłowie człowieka zdolnego zatrzymać rozkład armii i państwa. Lewica i rady patrzyły na niego z rosnącą nieufnością. Między premierem, który chciał ocalić rewolucję i wojsko jednocześnie, a generałem, który żądał wolnej ręki i stawiał warunki rządowi, od pierwszego dnia zaczął narastać konflikt. Pod koniec sierpnia doprowadził on do [sprawy Korniłowa](https://pl.wikipedia.org/wiki/Sprawa_Korniłowa), marszu wojsk na Piotrogród i aresztowania naczelnego wodza.
+Nominacja ucieszyła oficerów i prawicę, które widziały w Korniłowie człowieka zdolnego zatrzymać rozkład armii i państwa. Lewica i rady patrzyły na niego z rosnącą nieufnością. Między premierem, który chciał ocalić rewolucję i wojsko jednocześnie, a generałem, który żądał wolnej ręki i stawiał warunki rządowi, od pierwszego dnia zaczął narastać konflikt. Na początku września doprowadził on do [sprawy Korniłowa](https://pl.wikipedia.org/wiki/Sprawa_Korniłowa), marszu wojsk na Piotrogród i aresztowania naczelnego wodza.

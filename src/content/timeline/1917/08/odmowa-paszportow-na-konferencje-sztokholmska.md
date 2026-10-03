@@ -1,0 +1,21 @@
+---
+title: Odmowa paszportów na konferencję sztokholmską
+summary: 13 sierpnia 1917 Bonar Law ogłosił w Izbie Gmin, że Brytyjczycy nie dostaną paszportów na zjazd socjalistów w Sztokholmie. Konferencja nigdy się nie zebrała.
+category: Polityka
+date: 1917-08-13
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Wielka Brytania, inicjatywy pokojowe, Rosja, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+13 sierpnia 1917 roku [Andrew Bonar Law](https://pl.wikipedia.org/wiki/Andrew_Bonar_Law), kanclerz skarbu i lider [Izby Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin), ogłosił, że rząd nie wyda paszportów brytyjskim delegatom na międzynarodową konferencję socjalistów w Sztokholmie. Dodał, że tak samo postanowiły rządy Stanów Zjednoczonych, Francji i Włoch. Zapadło to zaledwie trzy dni po tym, jak [nadzwyczajna konferencja Partii Pracy](/laburzysci-za-konferencja-sztokholmska) zdecydowała, że partia pośle do Sztokholmu swoich przedstawicieli. Gabinet Wojenny przesądził sprawę 11 sierpnia, w dniu, w którym rezygnację z członkostwa w nim złożył sekretarz partii Arthur Henderson.
+
+Rząd przygotował grunt wcześniej. Na wniosek przeciwnego Sztokholmowi ministra Edwarda Carsona Gabinet Wojenny zasięgnął opinii prokuratora generalnego, sir [Frederica Edwina Smitha](https://pl.wikipedia.org/wiki/Frederick_Smith_(1._hrabia_Birkenhead)). Smith orzekł 6 sierpnia, że udział w konferencji pokojowej razem z poddanymi państw nieprzyjacielskich byłby zakazanym w czasie wojny kontaktem z wrogiem. Brytyjczycy chcieli jednak, by decyzja wyglądała na wspólną decyzję sojuszników. W sobotę 11 sierpnia ambasador brytyjski w Rzymie zawiadomił Włochów, że w poniedziałek Londyn ogłosi odmowę, i pytał, czy Włochy zrobią to samo, bo bardzo by to ułatwiło sprawę jego rządowi. Włoski minister spraw wewnętrznych [Vittorio Emanuele Orlando](https://pl.wikipedia.org/wiki/Vittorio_Emanuele_Orlando) zauważył, że rząd włoski postanowił nie wydawać paszportów już pod koniec czerwca, a o paszporty do Sztokholmu nikt go akurat nie prosił. Waszyngton zapowiedział odmowę w maju, Francja w czerwcu, a gdy francuscy socjaliści 11 i 12 sierpnia ostatecznie postanowili jechać, rząd francuski podtrzymał zakaz.
+
+Tego samego dnia w Izbie Gmin Henderson wygłosił oświadczenie w sprawie swojej dymisji, a potem odbyła się długa debata. Premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) zarzucił byłemu ministrowi, że zataił przed delegatami Partii Pracy notę rządu rosyjskiego, według której Piotrogród uważał konferencję za sprawę partyjną, a jej uchwał nie zamierzał traktować jako wiążących. Rosjanie, którzy najmocniej popierali Sztokholm, nie kryli rozczarowania. 15 sierpnia [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) zapewnił w komunikacie, że nigdy nie był przeciwny wydawaniu paszportów i nalegał u sojuszników, by usunęli przeszkody. Nawet brytyjski ambasador w Piotrogrodzie George Buchanan radził swojemu rządowi wydać paszporty, by Rosjanie nie zostali w Sztokholmie sam na sam z socjalistami z państw nieprzyjacielskich i neutralnych.
+
+Odmowa przesądziła sprawę. Nawet gdyby rząd zmienił zdanie, delegaci mieliby kłopot z wyjazdem, bo związek zawodowy marynarzy zapowiadał, że jego członkowie nie przewiozą żadnych „delegatów pokojowych”. W czerwcu w ten sposób zatrzymali już w Aberdeen [Ramsaya MacDonalda](https://pl.wikipedia.org/wiki/Ramsay_MacDonald), który wybierał się do Rosji. Zwoływana przez socjalistów holenderskich i skandynawskich oraz Radę Piotrogrodzką powszechna konferencja w Sztokholmie była odkładana jeszcze kilka razy i nigdy się nie zebrała. We wrześniu obradowała tam tylko znacznie mniejsza, trzecia konferencja lewicowego ruchu zapoczątkowanego w [Zimmerwaldzie](https://pl.wikipedia.org/wiki/Konferencja_w_Zimmerwaldzie). Spotkanie socjalistów państw Ententy w Londynie pod koniec sierpnia skończyło się kłótnią.
+
+Dla Partii Pracy sprawa sztokholmska okazała się punktem zwrotnym. Henderson, upokorzony przez kolegów z gabinetu, przestał wierzyć, że partia zdoła wpływać na politykę wojenną od środka rządu koalicyjnego. Wraz z [Sidneyem Webbem](https://pl.wikipedia.org/wiki/Sidney_Webb) zaczął przygotowywać własny program celów wojny i reformę partii, która w 1918 roku dostała nowy statut i stała się samodzielną siłą zdolną walczyć o władzę.
