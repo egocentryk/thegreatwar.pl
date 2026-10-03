@@ -178,6 +178,14 @@ export const BATTLE_PHASES = [
       "27 sierpnia 1916 roku Rumunia, zachęcona sukcesami ofensywy Brusiłowa i obietnicami Ententy, wypowiedziała wojnę Austro-Węgrom. Jej armie przekroczyły przełęcze Karpat i wkroczyły do Siedmiogrodu, który miał być nagrodą za udział w wojnie. Państwa centralne odpowiedziały szybko: Niemcy, Turcja i Bułgaria wypowiedziały Rumunii wojnę, a Falkenhayna, którego zastąpił Hindenburg, wysłano do Siedmiogrodu. Od południa, przez Dobrudżę, nacierał Mackensen. Rumunia, otoczona z dwóch stron i zdana w dużej mierze na rosyjską pomoc, musiała walczyć na froncie długości ponad półtora tysiąca kilometrów.",
   },
   {
+    slug: "1917-front-salonicki",
+    title: "1917: Front salonicki",
+    front: "Front bałkański",
+    dates: "od marca 1917",
+    intro:
+      "Zdobycie Bitoli w listopadzie 1916 roku nie przyniosło przełomu w Macedonii. Miasto leżało w zasięgu bułgarskich i niemieckich dział ustawionych na okolicznych wzgórzach, a armia generała Sarraila, osłabiona chorobami i zimą, nie miała sił na wielką ofensywę. Wiosną 1917 roku alianci próbowali odepchnąć przeciwnika od Bitoli i przełamać jego pozycje między jeziorem Prespa a Dojranem, ale ataki w górach kosztowały wiele, a dawały niewiele.",
+  },
+  {
     slug: "1914-prusy-wschodnie",
     title: "1914: Walki w Prusach Wschodnich",
     front: "Front wschodni",
@@ -352,6 +360,14 @@ export const BATTLE_PHASES = [
     dates: "od stycznia 1916",
     intro:
       "Na początku 1916 roku Brytyjczycy próbowali uwolnić dywizję generała Townshenda, oblężoną w Al-Kucie nad Tygrysem. Korpus odsieczy generała Aylmera, sklecony w pośpiechu z jednostek przybywających z Francji i Indii, atakował w zimowej ulewie i błocie pod Szejk Saad, nad Wadi i pod Hanną, ponosząc ciężkie straty i nie przebijając się do miasta. Tymczasem na Kaukazie generał Judenicz, wykorzystując to, że Turcy przerzucali siły spod Gallipoli, rozpoczął w środku zimy ofensywę, która zakończyła się zdobyciem twierdzy Erzurum. W Persji Rosjanie wypierali z zachodnich prowincji wojska osmańskie i ich perskich sprzymierzeńców.",
+  },
+  {
+    slug: "1917-bliski-wschod",
+    title: "1917: Bagdad i Gaza",
+    front: "Bliski Wschód",
+    dates: "od marca 1917",
+    intro:
+      "Po odzyskaniu Al-Kutu w lutym 1917 roku wojska generała Maude'a ruszyły w pościg za Turkami w górę Tygrysu i w marcu zajęły Bagdad, pierwszą wielką zdobycz Brytyjczyków na Bliskim Wschodzie. Równocześnie Rosjanie znów wkraczali do zachodniej Persji. Na drugim krańcu imperium osmańskiego armia generała Murraya, która przez rok budowała przez Synaj kolej i wodociąg, stanęła u granic Palestyny, przed tureckimi pozycjami w Gazie.",
   },
 ] as const
 

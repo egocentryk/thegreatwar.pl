@@ -1,0 +1,22 @@
+---
+title: Zatopienie pancernika Danton
+summary: 19 marca 1917 niemiecki U-64 storpedował u wybrzeży Sardynii francuski pancernik Danton. Zginęło 296 marynarzy, ponad 800 uratowano.
+category: Działania zbrojne
+front: Wojna na morzu
+date: 1917-03-19
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Francja, okręty podwodne, Kaiserliche Marine, Morze Śródziemne]
+milestone: false
+draft: false
+---
+
+Wczesnym popołudniem 19 marca 1917 roku niemiecki okręt podwodny U-64 storpedował francuski pancernik Danton, płynący z [Tulonu](https://pl.wikipedia.org/wiki/Tulon) na [Korfu](https://pl.wikipedia.org/wiki/Korfu). Do ataku doszło na południowy zachód od [Sardynii](https://pl.wikipedia.org/wiki/Sardynia). Według niemieckich zestawień, na których opiera się serwis uboat.net, było to około 30 mil morskich na południowy zachód od wyspy San Pietro. Okręt zatonął w ciągu mniej więcej pół godziny, a zginęło 296 ludzi. Był to trzeci francuski pancernik zatopiony przez niemieckie okręty podwodne w ciągu niespełna czterech miesięcy, po [Suffrenie](/zatopienie-pancernika-suffren) w listopadzie i [Gaulois](/zatopienie-pancernika-gaulois) w grudniu 1916 roku.
+
+Danton był pierwszym okrętem [typu Danton](https://pl.wikipedia.org/wiki/Pancerniki_typu_Danton), sześciu pancerników, które weszły do służby w 1911 roku. Miały ponad 18 tysięcy ton wyporności i jako pierwsze francuskie okręty liniowe napęd turbinowy. Uzbrojone w cztery działa kalibru 305 mm i dwanaście 240 mm, były jednak [przeddrednotami](https://pl.wikipedia.org/wiki/Przeddrednot), przestarzałymi, zanim jeszcze weszły do służby, bo w czasie ich budowy Brytyjczycy zbudowali już Dreadnoughta, pierwszy okręt liniowy nowej generacji. W czasie wojny Danton służył w 1 Eskadrze francuskiej floty na Morzu Śródziemnym. Osłaniał transporty wojsk z Afryki Północnej, a potem pilnował wyjścia z Adriatyku, gdzie Francuzi i Brytyjczycy trzymali w zamknięciu flotę austro-węgierską. W marcu 1917 roku wracał po remoncie w Tulonie do bazy na Korfu, skąd alianckie okręty pilnowały [Cieśniny Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto). Na pokładzie było więcej ludzi niż zwykle, bo oprócz 946 członków załogi płynęło nim, według francuskich źródeł, 155 marynarzy, którzy mieli dołączyć do innych okrętów w Grecji.
+
+Pancernik płynął zygzakiem, jak nakazywały przepisy, w eskorcie jednego niszczyciela, Massue. Nie powstrzymało to dowódcy U-64, kapitanlejtnanta Roberta Morahta. Według brytyjskiej historii oficjalnej wojny na morzu okręt podwodny trafił Dantona dwiema torpedami. Według francuskich źródeł uderzyły one w dziób i w śródokręcie. Pancernik przechylił się na lewą burtę. Uszkodzenie instalacji elektrycznej utrudniło spuszczanie łodzi ratunkowych. Danton przewrócił się i zatonął. Brytyjska historia oficjalna mówi o trzech kwadransach, francuskie opracowania o około 30 minutach. Dowódca, komandor Joseph Delage, i wielu oficerów zostało na pokładzie i poszło na dno razem z okrętem.
+
+Massue zauważył peryskop U-64, ruszył w pościg i zrzucił [bomby głębinowe](https://pl.wikipedia.org/wiki/Bomba_głębinowa), ale okręt podwodny zanurzył się głęboko i uszedł bez szwanku. Niszczyciel i trałowiec Louise-Marguerite zajęły się potem ratowaniem rozbitków. Niektórzy spędzili w wodzie nawet siedem godzin. Uratowano 806 ludzi, a zginęło 296. U-64 przeszedł potem do zachodniej części Morza Śródziemnego, gdzie u wybrzeży Sycylii zatopił jeszcze dwa brytyjskie statki i trzy włoskie żaglowce, po czym wrócił do austro-węgierskiej bazy w [Kotorze](https://pl.wikipedia.org/wiki/Kotor). Moraht zatopił w czasie wojny kilkadziesiąt statków i został odznaczony orderem [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite).
+
+Zatopienie Dantona przypadło na czas, gdy niemieckie okręty podwodne zbierały na Morzu Śródziemnym obfite żniwo. Według brytyjskiej historii oficjalnej w lutym 1917 roku zatopiły tam 50 statków o łącznej pojemności 101 tysięcy ton, a w marcu 36 statków o pojemności 72 tysięcy ton. Ochronę żeglugi dzieliły między siebie floty francuska, brytyjska i włoska, każda w swojej strefie, i na stykach stref zdarzały się groźne nieporozumienia. Alianci postanowili więc zebrać się na konferencji morskiej na Korfu, wyznaczonej na koniec kwietnia. Wrak Dantona odnaleziono przypadkiem dopiero w 2007 roku, a zidentyfikowano w 2009 roku, podczas badań dna przed budową gazociągu z Algierii do Włoch. Leży w pozycji pionowej na głębokości ponad tysiąca metrów, kilka kilometrów od miejsca, które wskazywały francuskie dokumenty.
