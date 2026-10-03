@@ -1,0 +1,32 @@
+---
+title: Arabowie zdobywają Al-Wadżh
+summary: 23 stycznia 1917 arabscy powstańcy i marynarze wylądowali pod Al-Wadżh w Hidżazie i wdarli się do miasta. Fajsal zrobił z portu nową bazę powstania.
+category: Działania zbrojne
+front: Bliski Wschód
+date: 1917-01-23
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Imperium Osmańskie, powstanie arabskie, Wielka Brytania, Royal Navy]
+milestone: false
+draft: false
+---
+
+23 stycznia 1917 roku rano, pod osłoną ognia okrętów Royal Navy, kilkuset arabskich powstańców i oddział marynarzy wylądowali na północ od [Al-Wadżh](https://pl.wikipedia.org/wiki/Al-Wadżh), portu na północnym wybrzeżu [Hidżazu](https://pl.wikipedia.org/wiki/Hidżaz), około 290 kilometrów na północny zachód od [Janbu](https://pl.wikipedia.org/wiki/Janbu), i jeszcze tego dnia wdarli się do miasta. Brytyjska historia oficjalna kampanii w Egipcie i Palestynie (MacMunn i Falls) pisze, że 23 stycznia desant zdobył Al-Wadżh przed przybyciem głównych sił emira [Fajsala](https://pl.wikipedia.org/wiki/Fajsal_I), które szły tam wybrzeżem z Janbu. Opór w mieście trwał jednak do nocy. Według historii oficjalnej lotnictwa (Jones, *The War in the Air*) zajęcie miasta zakończono rano 24 stycznia, a Fajsal dotarł na miejsce 25 stycznia, gdy walka była skończona. Brytyjska chronologia wojny notuje zdobycie portu pod 24 stycznia.Marsz wzdłuż wybrzeża
+
+Plan zrodził się z kryzysu. W grudniu 1916 roku Turcy z [Medyny](https://pl.wikipedia.org/wiki/Medyna_(miasto)) rozbili w górach oddziały synów szarifa Husajna, a Fajsal musiał się cofnąć do Janbu. W Kairze i Londynie [znów spierano się](/wielka-brytania-uznaje-husajna-krolem-hidzazu), czy wysłać brytyjską brygadę do [Rabighu](https://pl.wikipedia.org/wiki/Rabigh), by zasłonić Mekkę. Fajsal już w październiku proponował marsz wybrzeżem na Al-Wadżh i założenie tam nowej bazy, która zagroziłaby tyłom Turków w Medynie i ich jedynej linii zaopatrzenia, [Kolei Hidżaskiej](https://pl.wikipedia.org/wiki/Kolej_Hidżaska). Po grudniowych porażkach bał się jednak, że gdy odejdzie, upadną Rabigh i Janbu. Według historii oficjalnej problem rozwiązała propozycja kapitana [Thomasa Edwarda Lawrence'a](https://pl.wikipedia.org/wiki/Thomas_Edward_Lawrence), poparta przez podpułkownika Cyrila Wilsona. Brat Fajsala, emir [Abd Allah](https://pl.wikipedia.org/wiki/Abd_Allah_I_ibn_Husajn), który działał na północny wschód od Medyny, miał stanąć przy kolei w Wadi Ajs, około 110 kilometrów na północ od miasta. Dopóki tam był, Turcy nie mogli bezpiecznie ruszyć na Rabigh.
+
+Marsz na Al-Wadżh oznaczał przejście około 320 kilometrów równolegle do tureckich komunikacji i porzucenie jedynej bazy oraz jedynej pozycji obronnej. Umożliwiło go brytyjskie panowanie na morzu i współpraca z okrętami patrolującymi Morze Czerwone, którymi dowodził kapitan William Boyle. Na początku stycznia Fajsal przeniósł się spod Janbu na północ. Lawrence pisał, że armia zebrana pod Um Ladżdż, w połowie drogi, liczyła 5100 jeźdźców na wielbłądach i 5300 pieszych, z czterema działami górskimi Kruppa i dziesięcioma karabinami maszynowymi. Historia oficjalna podaje okrągłe 10 tysięcy ludzi. Bagaż całej armii niosło zaledwie 380 wielbłądów. Do zdobycia Al-Wadżh wystarczyłoby znacznie mniej ludzi, ale Fajsal chciał pokazać plemionom na trasie siłę sprawy swego ojca. 18 stycznia armia wyruszyła spod Um Ladżdż w ostatni etap.
+
+## Desant
+
+Według planu, który Lawrence uzgodnił z Boyle'em, obie siły miały się spotkać pod Al-Wadżh 23 stycznia. Konni Arabowie mieli do świtu zamknąć drogi ucieczki z miasta, a z morza miał zejść na ląd oddział kilkuset ludzi z plemion Harb i Dżuhajna pod wodzą młodego Saliha ibn Szefii, którego przewoził uzbrojony transportowiec indyjskiej marynarki Hardinge. Armia Fajsala się jednak spóźniła. Boyle bał się, że turecki garnizon ucieknie, i postanowił uderzyć sam. Przed atakiem przeleciał nad portem [wodnosamolotem](https://pl.wikipedia.org/wiki/Wodnosamolot) z transportowca Anne, a ogień krążownika Fox i Hardinge'a korygowali przez radio lotnicy. Lawrence pisał o co najmniej sześciu okrętach z 50 działami. Rano 23 stycznia na północ od miasta, gdzie Turcy nie mieli posterunków, wylądowało około 500 Arabów i oddział marynarzy.
+
+Garnizon był niewielki. Według historii oficjalnej arabscy żołnierze na wielbłądach zdezerterowali i w mieście zostało tylko około 200 tureckich piechurów. Niektóre nowsze opracowania podają znacznie wyższe liczby. Lawrence dowiedział się później, że jeszcze przed desantem turecki gubernator Ahmed Tewfik Bej wezwał żołnierzy do obrony miasta do ostatniej kropli krwi, a o zmroku sam odjechał na wielbłądzie ku kolei z garstką konnych. Piechota stawiła opór trzykrotnie liczniejszemu desantowi, ale ogień okrętów nie pozwolił jej dobrze wykorzystać pozycji. W nocy większość Turków wymknęła się z miasta, a rano 24 stycznia zajęli je marynarze i ludzie Saliha. Przednia straż Fajsala dopadła uciekinierów rano 25 stycznia i wielu wzięła do niewoli. Według historii oficjalnej uciekła mniej więcej jedna trzecia garnizonu. Ludzie Saliha stracili według Lawrence'a blisko 20 zabitych, a w wodnosamolocie zginął od kuli z ziemi porucznik Royal Flying Corps N.W. Stewart.
+
+Lawrence uważał szturm za niepotrzebny. Odcięci Turcy, bez żywności i transportu, musieliby się według niego poddać po kilku dniach. Ogień okrętów zrujnował miasto, a zwycięzcy je splądrowali. Mieszkańcy, w większości przybysze z egipskiego Al-Kusajru, woleli zresztą Turków i nie posłuchali wezwania Fajsala, by się zbuntowali albo wyjechali.
+
+## Wojna przenosi się na północ
+
+Historia oficjalna pisze, że marsz na Al-Wadżh, choć w rzeczywistości mógł tylko w niewielkim stopniu zagrozić Medynie, podziałał jak czar. Od tej pory nie było już mowy o tureckim ataku na Mekkę. Wojska w Medynie nigdy nie były oblężone w ścisłym sensie, ale stały się w praktyce osaczonym garnizonem, a Turcy zaczęli rozstawiać wzdłuż kolei coraz większe siły. Spór o brytyjską brygadę dla Rabighu wygasł. Lawrence pisał, że ruch arabski nie miał już przeciwnika w zachodniej Arabii i minęło niebezpieczeństwo, że się załamie.
+
+Al-Wadżh stało się nową bazą Fajsala, do której Brytyjczycy dowozili broń i zaopatrzenie, a wiosną także samoloty. Do obozu zaczęli ściągać szejkowie plemion z północy. Stąd powstańcy niszczyli Kolej Hidżaską i stąd w maju 1917 roku wyruszyła wyprawa, która w lipcu zdobyła [Akabę](https://pl.wikipedia.org/wiki/Akaba). [Powstanie arabskie](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)) przestało być walką o święte miasta Hidżazu i ruszyło ku Syrii.

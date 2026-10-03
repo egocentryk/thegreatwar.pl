@@ -1,0 +1,29 @@
+---
+title: Międzysojuszniczy Komitet Czarterowy
+summary: 6 stycznia 1917 Londyn, Paryż i Rzym umówiły się, że będą frachtować statki neutralne wspólnie, przez jedno biuro w Londynie, zamiast przebijać swoje oferty.
+category: Dyplomacja
+date: 1917-01-06
+authors: [Natalia]
+dayOrder: 1
+tags: [Wielka Brytania, Francja, Włochy, marynarka handlowa]
+milestone: false
+draft: false
+---
+
+6 stycznia 1917 roku Wielka Brytania, Francja i Włochy zawarły porozumienie o utworzeniu w Londynie wspólnego biura do frachtowania i rozdziału statków państw neutralnych. Każdy z trzech rządów zobowiązał się zakazać swoim obywatelom wynajmowania jakiegokolwiek obcego statku inaczej niż za pośrednictwem tego biura. Tak powstał Międzysojuszniczy Komitet Czarterowy (Inter-Allied Chartering Committee). Wykonywał on postanowienie [porozumienia Clémentela](/porozumienie-clementela) z 3 grudnia 1916 roku, według którego cały czarter statków neutralnych miało prowadzić wspólne biuro w Londynie. Brytyjska historia oficjalna handlu morskiego (Fayle, *Seaborne Trade*) podkreśla, że nie tracono czasu: od grudniowego układu do styczniowej umowy minęło nieco ponad miesiąc.
+
+Sprzymierzeni potrzebowali statków neutralnych, bo własnych mieli za mało, a niemieckie okręty podwodne zatapiały ich coraz więcej. Płacili za nie jednak stawki rynkowe i przez dwa lata wojny sami je podbijali, bo każdy rząd i każdy importer [frachtował](https://pl.wikipedia.org/wiki/Fracht) na własną rękę, często tych samych armatorów. Pomysł, by wyeliminować tę konkurencję i skupić cały [czarter](https://pl.wikipedia.org/wiki/Czarter) obcego tonażu w jednych rękach, zgłosił Board of Trade, brytyjskiemu ministerstwu handlu, już na początku 1916 roku O. G. Holmden z londyńskiej firmy maklerskiej H. Clarkson & Co., znawca rynku skandynawskiego. Latem 1916 roku na konferencji w Pallanzy Włosi poprosili, by Brytyjczycy rozbudowali wspólne frachtowanie i dzielili tak zdobyte statki między sojuszników według potrzeb. Postęp był jednak powolny. Tymczasem neutralni armatorzy, zwłaszcza po stratach w przewozach węgla i rudy, coraz chętniej wysyłali statki na bezpieczniejsze i lepiej płatne trasy daleko od Europy.
+
+## Jak to działało
+
+7 stycznia, dzień po zawarciu porozumienia, Brytyjczycy wydali na mocy ustawy o obronie królestwa (Defence of the Realm Act) rozporządzenie 39D. Zakazywało ono wszelkim firmom i osobom prywatnym podejmowania bez zgody Board of Trade rokowań o czarter, na czas lub na rejs, każdego niebrytyjskiego statku, który miał wozić towary do portów brytyjskich lub sprzymierzonych albo z nich. Podobne przepisy wydano we Francji i we Włoszech. Uprawnienia Board of Trade przejął w praktyce komitet złożony z przedstawicieli trzech państw, pod przewodnictwem C. Hipwooda z Board of Trade. Zebrał się po raz pierwszy 15 stycznia. Miał ustalać wspólną politykę sprzymierzonych wobec żeglugi neutralnej i dzielić zdobyty tonaż między rządy oraz Wheat Executive, wspólny urząd zakupu zboża utworzony w listopadzie 1916 roku. Bieżącą pracę, czyli ocenę oferowanych statków, zawieranie umów i nadzór nad ich wykonaniem, prowadziło małe biuro w City, Inter-Allied Chartering Executive, którym kierował sam Holmden. Statki brane w czarter na czas wynajmowano firmie Furness, Withy & Co., która przekazywała je dalej firmom wskazanym przez rządy.
+
+Na pierwszym posiedzeniu komitet postanowił na razie nie wtrącać się do żaglowców, małych parowców poniżej 1000 ton nośności i statków pływających na krótkich trasach. Mogły nadal pływać na zwykłych warunkach, byle stawki były zatwierdzone, a każda umowa zgłoszona. Dużymi statkami komitet dzielił się w prosty sposób: około połowę tonażu dostawał Wheat Executive na wspólny program zbożowy, a resztę mniej więcej po równo Francja i Włochy. Brytyjczycy zastrzegli sobie prawo do udziału, ale na razie z niego zrezygnowali. Wiedzieli, że gdyby wzięli część statków neutralnych, Francja i Włochy zażądałyby w zamian jeszcze więcej statków brytyjskich.
+
+## Greckie statki
+
+Komitet od razu zaczął zdobywać statki szybciej, niż się spodziewano. Fayle wyjaśnia, że stała za tym nowa polityka wobec żeglugi greckiej. Grecja była wciąż oficjalnie neutralna, ale skłócona ze sprzymierzonymi, a jej armatorzy wysyłali statki tam, gdzie płacono najlepiej. W grudniu 1916 roku Brytyjczycy zatrzymali wszystkie greckie statki w portach pod swoją kontrolą, dopóki nie zostaną wyczarterowane brytyjskiemu rządowi. W styczniu zaczęto wprowadzać system, w którym greckie statki wynajmowano Furness, Withy & Co. na cały czas wojny i pół roku po niej. Stawki były wyraźnie niższe niż za statki norweskie, za to rząd brytyjski brał na siebie ryzyko ubezpieczenia wojennego i dawał armatorom gwarancje na wypadek wojny z królewską Grecją. Z 48 parowców wyczarterowanych przez Inter-Allied Chartering Executive w styczniu aż 34 pływały pod grecką banderą.
+
+## Skutki
+
+Arthur Salter, jeden z twórców międzysojuszniczej kontroli żeglugi, oceniał w swojej historii tej kontroli (*Allied Shipping Control*, 1921), że wspólne biuro, występujące na rynku jako jeden klient, zatrzymało szybki wzrost stawek frachtowych, a gdy statków brakowało coraz bardziej, przynajmniej spowolniło ich wzrost. Obniżyć ich nie zdołało. System był też niepełny: część statków neutralnych nadal wynajmowano z pominięciem komitetu, a tak zdobytego tonażu nie wykorzystywano według wspólnego planu. W 1918 roku komitet podporządkowano Międzysojuszniczej Radzie Transportu Morskiego, a frachtowane przez niego statki, około 500 tysięcy ton, stały się jedyną naprawdę wspólną pulą tonażu sprzymierzonych. Tymczasem po 1 lutego 1917 roku, gdy Niemcy rozpoczęli nieograniczoną wojnę podwodną, wielu neutralnych armatorów wolało trzymać statki w swoich portach, niż ryzykować, i sprzymierzeni musieli sięgnąć po nowe środki nacisku.
