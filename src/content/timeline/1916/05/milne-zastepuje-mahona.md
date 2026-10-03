@@ -5,7 +5,7 @@ category: Wojsko
 front: Front bałkański
 date: 1916-05-09
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Wielka Brytania, Grecja, Francja]
 milestone: false
 draft: false

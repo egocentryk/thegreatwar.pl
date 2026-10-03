@@ -5,7 +5,7 @@ category: Dyplomacja
 front: Bliski Wschód
 date: 1916-05-09
 authors: [Łukasz Skowroń]
-dayOrder: 2
+dayOrder: 3
 tags: [Wielka Brytania, Francja, Imperium Osmańskie, Edward Grey]
 milestone: false
 draft: false

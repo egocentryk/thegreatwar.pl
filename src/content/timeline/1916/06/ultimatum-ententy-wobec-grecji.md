@@ -1,0 +1,34 @@
+---
+title: Ultimatum Ententy wobec Grecji
+summary: 21 czerwca 1916 posłowie Francji, Wielkiej Brytanii i Rosji zażądali od Grecji demobilizacji, rządu urzędniczego i wyborów. Ateny ustąpiły bez oporu.
+category: Dyplomacja
+front: Front bałkański
+date: 1916-06-21
+authors: [Łukasz Skowroń]
+dayOrder: 3
+tags: [Grecja, Francja, Wielka Brytania, Rosja]
+milestone: false
+draft: false
+---
+
+21 czerwca 1916 roku, czyli 8 czerwca według kalendarza juliańskiego, którym posługiwała się Grecja, posłowie Francji, Wielkiej Brytanii i Rosji wręczyli greckiemu rządowi wspólną notę. Występowali w niej jako przedstawiciele mocarstw opiekuńczych, które w latach 1827–1832 pomogły Grekom wywalczyć niepodległość i zagwarantowały byt [Królestwa Grecji](https://pl.wikipedia.org/wiki/Królestwo_Grecji_(1832–1924)). Zażądali natychmiastowej demobilizacji armii, zastąpienia rządu gabinetem bez barw politycznych, rozwiązania parlamentu i nowych wyborów oraz usunięcia niektórych funkcjonariuszy policji. Nie dopuszczali ani dyskusji, ani zwłoki. Brytyjska chronologia wojny notuje, że żądania przyjęto. Choć nota nie wyznaczała terminu, w praktyce była ultimatum: za plecami dyplomatów stała gotowa do akcji flota.
+
+## Flota w zatoce Milos
+
+Od oddania Bułgarom [Fortu Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) pod koniec maja sprzymierzeni zwiększali nacisk. Generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail) [ogłosił stan oblężenia w Salonikach](/stan-wojenny-w-salonikach), a okręty Ententy [zatrzymywały greckie statki](/pokojowa-blokada-grecji). 9 czerwca brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) polecił posłowi w Atenach Francisowi Elliotowi złożyć Grekom notę zgodną z projektem francuskiego MSZ. Według brytyjskiej historii oficjalnej działań w Macedonii ostateczny tekst, ostrzejszy od wersji uzgodnionej przez oba ministerstwa, napisali na miejscu trzej posłowie: Elliot, Francuz Jean Guillemin i Rosjanin książę Elim Demidow. Rządy zatwierdziły go później.
+
+Równolegle szykowano siłę. Francuski wiceadmirał Moreau objął dowództwo okrętów przeznaczonych do demonstracji przed Atenami, a Sarrail wysłał z Salonik wojska do zaokrętowania jako oddziały desantowe. Według brytyjskiej historii oficjalnej działań morskich do 20 czerwca francuskie i brytyjskie okręty zebrały się w zatoce wyspy [Milos](https://pl.wikipedia.org/wiki/Milos) na Cykladach. Notę zamierzano wręczyć, gdy flota wejdzie do zatoki Faleronu pod Atenami. Moreau nie chciał jednak wprowadzać tam dużych okrętów, dopóki wejścia nie zabezpieczono sieciami przeciw okrętom podwodnym, i w dniu wręczenia noty flota wciąż stała przy Milos. Brytyjski publicysta George F. Abbott, przychylny królowi, twierdzi na podstawie wspomnień Sarraila i francuskiego admirała Louisa Dartige du Fourneta, że plan przewidywał w razie oporu bombardowanie Aten, zrzucenie bomb z hydroplanów na pałac królewski, desant i aresztowanie między innymi rodziny królewskiej.
+
+Atmosfera w Atenach była napięta. 12 czerwca, po przeglądzie wojskowym z udziałem króla, tłum przeszedł pod dom [Elefteriosa Wenizelosa](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos), a potem obrzucił kamieniami redakcje wenizelistowskich gazet. Policja się przyglądała, a brytyjski poseł podejrzewał, że to jej tajni agenci podburzali tłum. Potem wygwizdano poselstwo brytyjskie.
+
+## Cztery żądania
+
+Notę wręczono po południu 21 czerwca. Według Crawfurda Price'a, brytyjskiego korespondenta w Atenach, posłowie Wielkiej Brytanii i Francji przyszli do greckiego MSZ i pod nieobecność premiera oddali dokument dyrektorowi generalnemu ministerstwa Nikolaosowi Politisowi. Mocarstwa zapewniały, że nie żądają od Grecji porzucenia neutralności, a dowodem ma być właśnie żądanie demobilizacji. Zarzucały jednak rządowi, że sprzyja cudzoziemcom, którzy wprowadzają w błąd grecką opinię publiczną i tworzą na greckiej ziemi organizacje wrogie sprzymierzonym. Chodziło przede wszystkim o barona Schencka, szefa niemieckiej propagandy w Grecji, który według brytyjskiej historii oficjalnej wydawał duże sumy na przekupywanie prasy. Nota wymieniała też wkroczenie Bułgarów i zajęcie Rupelu „za przyzwoleniem gabinetu”, łamanie konstytucji, dwukrotne w ciągu niespełna roku rozwiązanie parlamentu wbrew woli wyborców, wybory w czasie mobilizacji, gdy wielu wyborców było w wojsku, oraz policyjny ucisk przeciwników rządu.
+
+Żądania były cztery. Armia miała zostać całkowicie zdemobilizowana i jak najszybciej sprowadzona do stanu pokojowego. Rząd miał natychmiast ustąpić gabinetowi „bez barw politycznych”, który zagwarantuje lojalną, życzliwą neutralność wobec sprzymierzonych i uczciwe wybory. Izba Deputowanych miała zostać rozwiązana, a nowe wybory odbyć się po demobilizacji. Wreszcie należało, w porozumieniu z mocarstwami, usunąć funkcjonariuszy policji, którzy pod wpływem obcych organizacji ułatwiali prześladowanie spokojnych obywateli i znieważanie poselstw. Mocarstwa, „zawsze ożywione wobec Grecji najżyczliwszymi i najprzyjaźniejszymi uczuciami”, zrzucały na grecki rząd całą odpowiedzialność za to, co się stanie, jeśli ich żądania nie zostaną natychmiast przyjęte.
+
+## Ateny ustępują
+
+Odpowiedź przyszła szybko. Premier [Stefanos Skuludis](https://pl.wikipedia.org/wiki/Stefanos_Skuludis) natychmiast podał się do dymisji. Według źródeł wenizelistowskich sztab generalny radził królowi stawić opór, ale [Konstantyn I](https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki), przebywający w letniej rezydencji [Tatoi](https://pl.wikipedia.org/wiki/Tatoi) pod Atenami, uznał, że nie ma wyboru, i wezwał do Aten [Aleksandrosa Zaimisa](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis), polityka uważanego za życzliwego Entencie, by utworzył nowy rząd. Amerykański poseł w Atenach Garrett Droppers telegrafował 22 czerwca w południe, że żądania przyjęto, a Zaimis zapewne udzieli przychylnej odpowiedzi. Formalną odpowiedź, w której nowy premier zgodził się wykonać żądania „w całości”, Zaimis złożył według Price'a 23 czerwca. 22 czerwca w Londynie Grey odmówił w Izbie Gmin jakichkolwiek wyjaśnień, zasłaniając się trwającymi uzgodnieniami z sojusznikami w sprawie wydarzeń, o których pisały już gazety.
+
+Brytyjska historia oficjalna zauważa, że Francuzi nie zawiadomili nawet brytyjskiego ministerstwa wojny o przygotowaniach do demonstracji, a generał George Milne, dowódca brytyjskiej Armii Salonik, dowiedział się o nich nieoficjalnie. Abbott pisał, że ustępliwość Aten rozczarowała Sarraila i Guillemina, którzy liczyli na rozprawę z królem. Kryzys minął, ale nie rozwiązał sporu. Grecja zaczęła demobilizację, lecz zwolnieni rezerwiści wkrótce zakładali ligi wierne królowi, a zapowiadane wybory, odkładane za zgodą mocarstw, w 1916 roku się nie odbyły. Mocarstwa występowały odtąd w Grecji już nie jako goście, lecz jako jej samozwańczy opiekunowie, co pogłębiało [schizmę narodową](https://pl.wikipedia.org/wiki/Schizma_narodowa).

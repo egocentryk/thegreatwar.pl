@@ -98,6 +98,14 @@ export const BATTLE_PHASES = [
       "21 lutego 1916 roku niemiecka 5 Armia pod dowództwem następcy tronu Wilhelma uderzyła na Verdun, twierdzę na Mozie, która od początku wojny tworzyła wysunięty łuk francuskiego frontu. Szef niemieckiego sztabu generalnego Erich von Falkenhayn chciał, jak pisał później, zmusić Francję do obrony miejsca, którego nie mogła oddać, i wykrwawić jej armię pod nawałą artylerii. Po kilku dniach Niemcy zdobyli fort Douaumont, ale obrona pod wodzą generała Philippe'a Pétaina okrzepła, a jedyna droga z Bar-le-Duc, nazwana później Świętą Drogą, dowoziła na front ludzi i amunicję. Bitwa przerodziła się w trwającą prawie cały rok rzeź, w której obie strony straciły setki tysięcy ludzi, a Verdun stało się dla Francuzów symbolem wytrwałości.",
   },
   {
+    slug: "1916-front-zachodni",
+    title: "1916: Front zachodni poza Verdun",
+    front: "Front zachodni",
+    dates: "od czerwca 1916",
+    intro:
+      "Gdy pod Verdun trwała najdłuższa bitwa wojny, na pozostałych odcinkach frontu zachodniego brytyjska armia rosła z miesiąca na miesiąc. Do Flandrii i Artois przybywały nowe dywizje ochotnicze i wojska z dominiów, które przejmowały od Francuzów kolejne odcinki frontu. Walki toczyły się o pojedyncze wzgórza, kratery i okopy, jak pod Ypres, gdzie w czerwcu 1916 roku Kanadyjczycy bronili wzgórz Mount Sorrel. Wszystko to było jednak przygotowaniem do wielkiej wspólnej ofensywy brytyjsko-francuskiej nad Sommą, zaplanowanej na lato.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
