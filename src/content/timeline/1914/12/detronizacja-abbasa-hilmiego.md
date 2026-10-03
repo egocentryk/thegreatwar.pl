@@ -27,6 +27,6 @@ Nowy władca otrzymał od Brytyjczyków notę, która określała granice jego w
 
 ## Dalsze losy
 
-Rządy Husajna Kamila nie były łatwe. W 1915 roku dwukrotnie próbowano go zabić: w kwietniu zamachowiec zaatakował jego powóz w Kairze, a w lipcu rzucono w powóz bombę, gdy sułtan jechał na piątkową modlitwę. Husajn Kamil zmarł 9 października 1917 roku. Jego syn odmówił przyjęcia tronu, więc sułtanem został brat zmarłego, [Fu’ad I](https://pl.wikipedia.org/wiki/Fu’ad_I).
+Rządy Husajna Kamila nie były łatwe. W 1915 roku dwukrotnie próbowano go zabić: w kwietniu zamachowiec zaatakował jego powóz w Kairze, a w lipcu, według części źródeł w Aleksandrii, rzucono w powóz bombę, gdy sułtan jechał na piątkową modlitwę. Husajn Kamil zmarł 9 października 1917 roku. Jego syn zrzekł się praw do tronu, a Brytyjczycy już wcześniej postanowili, że sułtanem zostanie brat zmarłego, [Fu’ad I](https://pl.wikipedia.org/wiki/Fu’ad_I).
 
 Abbas II Hilmi nigdy już nie wrócił do Egiptu. Władze sułtanatu zakazały mu wstępu do kraju i odebrały majątek. Dopiero w 1931 roku formalnie pogodził się z utratą tronu. Zmarł w Genewie 19 grudnia 1944 roku, dokładnie trzydzieści lat po swojej detronizacji.

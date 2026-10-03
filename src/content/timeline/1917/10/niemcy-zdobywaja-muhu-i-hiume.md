@@ -1,0 +1,23 @@
+---
+title: Niemcy zdobywają Muhu i Hiumę
+summary: 18 października 1917 Niemcy opanowali wyspę Muhu i wzięli tam około 5 tysięcy jeńców. Tego samego dnia większymi siłami wylądowali na Hiumie.
+category: Działania zbrojne
+front: Front wschodni
+battle: operacja-albion
+date: 1917-10-18
+authors: [Natalia]
+dayOrder: 1
+tags: [Niemcy, Rosja, Morze Bałtyckie]
+milestone: false
+draft: false
+---
+
+18 października 1917 roku (5 października według kalendarza juliańskiego) Niemcy zajęli wyspę [Muhu](https://pl.wikipedia.org/wiki/Muhu), po niemiecku Moon, leżącą między Saremą a lądem estońskim, i rozpoczęli właściwy desant na [Hiumę](https://pl.wikipedia.org/wiki/Hiuma) (Dagö), drugą co do wielkości wyspę archipelagu. Brytyjska chronologia wojny notuje pod tą datą zdobycie obu wysp. O Muhu to prawda, ale ostatni obrońcy Hiumy złożyli broń dopiero wieczorem 19 października według niemieckiej historii oficjalnej albo 20 października według źródeł rosyjskich.
+
+Po [upadku Saremy](/niemcy-zdobywaja-sareme) Muhu było ostatnią przeszkodą na drodze do Moonsundu i stałego lądu. Z Saremą łączyła je kilkukilometrowa grobla przez płytką cieśninę, którą Niemcy trzymali od pierwszej nocy desantu. Rosyjskie dowództwo zdążyło przerzucić na wyspę posiłki z Rewla, dzisiejszego Tallinna, ale większość żołnierzy nie chciała walczyć. Wielu przy pierwszym ostrzale porzucało broń i uciekało do portu w [Kuivastu](https://pl.wikipedia.org/wiki/Kuivastu), licząc na przewiezienie na ląd. Prawdziwą wartość bojową miał tylko batalion śmierci, złożony z ochotników Floty Bałtyckiej. Po [bitwie w Moonsundzie](/zatopienie-pancernika-slawa) 17 października, w której Rosjanie stracili pancernik Sława, niemieckie drednoty i krążowniki weszły na wody na południe od Muhu, a obsługa ciężkiej baterii pod [Võiküla](https://pl.wikipedia.org/wiki/Võiküla) w większości uciekła. Po południu tego dnia oddział desantowy z krążowników zajął porzuconą baterię, a kompania piechoty przeprawiła się łodziami przez cieśninę pod osłoną zasłony dymnej. Równocześnie niemiecka kompania szturmowa przeszła groblę. Batalion śmierci zatrzymał ją ogniem karabinów maszynowych na zachodnim skraju wyspy, ale w nocy Rosjanie się cofnęli.
+
+18 października Niemcy posuwali się przez Muhu niemal bez przeszkód. Opór stawiali tylko Rosjanie w okolicy wsi Kallaste w północno-wschodniej części wyspy, którzy wciąż liczyli na ewakuację. Większość z nich była gotowa się poddać, ale ochotnicy z batalionu śmierci domagali się przewiezienia na ląd. Niemcy odrzucili ich warunki i postawili ultimatum do 13.00. Gdy minęło, 138 pułk piechoty zaatakował i zmusił Rosjan do kapitulacji. W czasie rokowań podeszły jednak rosyjskie okręty i zabrały część żołnierzy, a batalion śmierci osłaniał ich odwrót. Według niemieckich danych na Muhu do niewoli poszło około 5 tysięcy ludzi. Tego dnia trałowce dotarły do kotwicowiska pod Kuivastu i zobaczyły płonący wrak Sławy oraz parowce zatopione przez Rosjan w kanale, by zamknąć drogę na północ. Niemcy płacili za postęp na minach: w cieśninie zatonął trałowiec T 66, na którym zginęło 17 ludzi.
+
+Hiumę Niemcy próbowali zająć od kilku dni. 15, 16 i 17 października marynarski oddział desantowy wysadzany pod [Sõru](https://pl.wikipedia.org/wiki/Sõru) (Serro) na południowym brzegu natrafiał na opór i dwa razy musiał wrócić na okręty, a raz utrzymał przyczółek tylko przez noc. Rano 18 października krążownik Emden przez trzy kwadranse ostrzeliwał okolice [Emmaste](https://pl.wikipedia.org/wiki/Emmaste), po czym pod Sõru wylądował batalion kolarzy, a za nim artyleria polowa. Dowodzący na wyspie pułkownik Vaselago kazał wycofać się na przygotowaną linię dalej na północ i wysadzić baterie na południu. Żołnierze uznali to za znak, że wszystko stracone. Większość porzuciła pozycje, a w drodze dochodziło do grabieży. Tłum zdemoralizowanych żołnierzy zebrał się w porcie [Heltermaa](https://pl.wikipedia.org/wiki/Heltermaa) na wschodnim brzegu, czekając na statki. Z trzech wysłanych po nich parowców dwa osiadły na mieliźnie i tylko jeden dowiózł na ląd część ludzi.
+
+Wieczorem 17 października rosyjskie dowództwo nakazało siłom morskim Zatoki Ryskiej wycofać się do [Zatoki Fińskiej](https://pl.wikipedia.org/wiki/Zatoka_Fińska), a załodze Hiumy bronić się jak najdłużej. Wiceadmirał Michaił Bachirew chciał opuścić Moonsund 18 października po południu, ale na trasie odwrotu wykryto miny i wyjście przesunięto o dobę. Tego samego dnia premier Aleksander Kiereński naradzał się w sztabie Frontu Północnego, jak bronić dróg do Rewla i Piotrogrodu. Z utratą Muhu Rosjanie stracili kontrolę nad Moonsundem, a wraz z nim nad całą Zatoką Ryską. Z wysp pozostał im tylko skrawek północnej Hiumy, który padł w ciągu następnych dwóch dni.

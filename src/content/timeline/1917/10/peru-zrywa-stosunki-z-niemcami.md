@@ -1,0 +1,21 @@
+---
+title: Peru zrywa stosunki z Niemcami
+summary: 5 października 1917 peruwiański Kongres poparł zerwanie stosunków z Niemcami, które od miesięcy odmawiały odszkodowania za zatopioną barkę Lorton.
+category: Dyplomacja
+date: 1917-10-05
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Ameryka Łacińska, Niemcy, okręty podwodne, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+5 października 1917 roku Kongres [Peru](https://pl.wikipedia.org/wiki/Peru) stosunkiem głosów 105 do 6 poparł wniosek rządu prezydenta José Pardo o zerwanie stosunków dyplomatycznych z Cesarstwem Niemieckim. Premier i minister spraw zagranicznych Francisco Tudela y Varela natychmiast polecił posłowi peruwiańskiemu w Berlinie zażądać paszportów i przekazać opiekę nad sprawami Peru posłowi Hiszpanii. Niemiecki poseł w [Limie](https://pl.wikipedia.org/wiki/Lima) otrzymał paszporty następnego dnia w południe. Według amerykańskiego konsula generalnego miał wyjechać do sąsiedniego Chile. Dlatego w części opracowań, a także w korespondencji Departamentu Stanu, za datę zerwania podaje się 6 października.
+
+Spór dotyczył jednego statku. Lorton był stalową barką o pojemności około 1400 BRT, zbudowaną pod koniec lat osiemdziesiątych XIX wieku w Belfaście i należącą do armatorów z [Callao](https://pl.wikipedia.org/wiki/Callao). Wiózł z Chile do Hiszpanii ładunek [saletry chilijskiej](https://pl.wikipedia.org/wiki/Azotan_sodu). Na początku lutego 1917 roku, w pierwszych dniach [nieograniczonej wojny podwodnej](/poczatek-nieograniczonej-wojny-podwodnej), zatrzymał go u wybrzeży [Kantabrii](https://pl.wikipedia.org/wiki/Kantabria) okręt podwodny U-67 kapitanlejtnanta Hansa Nielanda. Niemcy kazali załodze opuścić statek i zatopili go ładunkami wybuchowymi. Według uboat.net stało się to 5 lutego około 11 mil na wschód od [Santanderu](https://pl.wikipedia.org/wiki/Santander_(miasto)), a peruwiańskie źródła podają też 4 lutego i okolice Suances. Rząd w Limie twierdził, że barka znajdowała się na hiszpańskich wodach terytorialnych, a z Callao wypłynęła na długo przed ogłoszeniem niemieckiej strefy zakazanej, o której nie mogła wiedzieć. Już 12 lutego Peru zaprotestowało w Berlinie przeciw wojnie podwodnej i nazwało sprawę Lortona „odrażającą”.
+
+Berlin uznał, że barka wiozła kontrabandę, i skierował sprawę do sądu pryzowego. W sierpniu Peru oświadczyło, że na to się nie zgodzi, bo zatopienie było nieuzasadnione ze względu na banderę statku, rodzaj i przeznaczenie ładunku oraz miejsce ataku. Żądało odszkodowania, które oszacowano na ponad 55 tysięcy funtów. Niemcy zwlekali, tłumacząc się między innymi kłopotami z pocztą między Amsterdamem a Berlinem. Tudela, który objął urząd pod koniec lipca, zapowiedział w Izbie Deputowanych, że celem polityki zagranicznej Peru jest solidarność panamerykańska oparta na zasadach ogłoszonych przez prezydenta [Woodrowa Wilsona](https://pl.wikipedia.org/wiki/Woodrow_Wilson). 25 września wysłał do Berlina, trzema drogami naraz, ultimatum: jeśli w ciągu ośmiu dni od otrzymania depeszy rząd niemiecki nie da satysfakcji, Peru nie będzie mogło utrzymywać z nim stosunków. Niemcy odpowiedzieli, że załatwienie sprawy w wyznaczonym terminie jest absolutnie niemożliwe. Wtedy Tudela zwrócił się do Kongresu.
+
+Decyzja Limy zapadła w chwili, gdy cały kontynent obserwował sąsiadów. W Argentynie, po [aferze z depeszami Luxburga](/afera-bernstorffa), obie izby parlamentu opowiedziały się za zerwaniem, ale prezydent Hipólito Yrigoyen utrzymał neutralność. Peru poszło dalej i stało się trzecim po [Brazylii](/brazylia-zrywa-stosunki-z-niemcami) i [Boliwii](/boliwia-zrywa-stosunki-z-niemcami) państwem Ameryki Południowej, które zerwało z Niemcami. Rządy Stanów Zjednoczonych, Wielkiej Brytanii i Francji przesłały Limie gratulacje. Część historyków wiąże tę decyzję nie tylko ze sprawą Lortona, ale też z nadzieją na amerykańskie poparcie w trwającym od czasów [wojny o Pacyfik](https://pl.wikipedia.org/wiki/Wojna_o_Pacyfik) sporze z Chile o prowincje Tacna i Arica.
+
+Wojny Peru Niemcom nie wypowiedziało. W porcie Callao stało jednak od początku wojny kilka internowanych niemieckich statków. W czerwcu 1918 roku rząd przejął osiem z nich, parowce i żaglowce, tłumacząc, że Niemcy wciąż nie zapłacili za Lortona.
