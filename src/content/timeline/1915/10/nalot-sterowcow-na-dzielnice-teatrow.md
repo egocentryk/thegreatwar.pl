@@ -11,13 +11,13 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 13 października 1915 roku niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 15 kapitanleutnanta Joachima Breithaupta przeleciał nad samym środkiem Londynu. Około 21.35 zaczął zrzucać bomby w okolicy [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) i ulicy [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), w sercu dzielnicy teatralnej. Jedna bomba spadła na skrzyżowaniu Wellington Street i Exeter Street, przed Lyceum Theatre, i zabiła 17 osób. Był to najkrwawszy nalot sterowców na Wielką Brytanię w 1915 roku. W Anglii przeszedł do historii jako „Theatreland raid”, czyli nalot na dzielnicę teatrów.
+Wieczorem 13 października 1915 roku niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) marynarki L 15 kapitanlejtnanta Joachima Breithaupta przeleciał nad samym środkiem Londynu. Około 21.35 zaczął zrzucać bomby w okolicy [Covent Garden](https://pl.wikipedia.org/wiki/Covent_Garden) i ulicy [Strand](https://pl.wikipedia.org/wiki/Strand_(Londyn)), w sercu dzielnicy teatralnej. Jedna bomba spadła na skrzyżowaniu Wellington Street i Exeter Street, przed Lyceum Theatre, i zabiła 17 osób. Był to najkrwawszy nalot sterowców na Wielką Brytanię w 1915 roku. W Anglii przeszedł do historii jako „Theatreland raid”, czyli nalot na dzielnicę teatrów.
 
 ## Pięć sterowców
 
 Według brytyjskiej historii oficjalnej wojny powietrznej niemieckie dowództwo zamierzało wykorzystać ciemne październikowe noce przede wszystkim do ataku na [Liverpool](https://pl.wikipedia.org/wiki/Liverpool). 13 października pogodę uznano jednak za zbyt niepewną na tak daleki lot i pięć sterowców marynarki, L 11, L 13, L 14, L 15 i L 16, skierowano na Londyn. Była to najliczniejsza wyprawa sterowców przeciw stolicy od [pierwszego nalotu w maju](/pierwszy-nalot-sterowca-na-londyn). Wystartowały około południa z baz w północnych Niemczech. Brytyjczycy wiedzieli o nich już po godzinie 17 dzięki radiowym stacjom namiarowym. Cztery sterowce przekroczyły wybrzeże hrabstwa Norfolk około 18.30, piąty, L 11, dopiero około 20.25.
 
-Obrona Londynu była już silniejsza niż wiosną. We wrześniu, po nalocie kapitanleutnanta Heinricha Mathy'ego na City, kierownictwo artylerii przeciwlotniczej stolicy objął admirał Percy Scott. Działa pojawiły się w nowych miejscach, a z Francji sprowadzono działo kalibru 75 mm na podwoziu samochodowym. Dowódcy sterowców meldowali po powrocie, że ogień przeciwlotniczy był znacznie gwałtowniejszy niż wcześniej. Żaden sterowiec nie został jednak trafiony.
+Obrona Londynu była już silniejsza niż wiosną. We wrześniu, po nalocie kapitanlejtnanta Heinricha Mathy'ego na City, kierownictwo artylerii przeciwlotniczej stolicy objął admirał Percy Scott. Działa pojawiły się w nowych miejscach, a z Francji sprowadzono działo kalibru 75 mm na podwoziu samochodowym. Dowódcy sterowców meldowali po powrocie, że ogień przeciwlotniczy był znacznie gwałtowniejszy niż wcześniej. Żaden sterowiec nie został jednak trafiony.
 
 ## Od Strandu do Aldgate
 
@@ -27,7 +27,7 @@ Breithaupt opisywał później, że nad City reflektory oświetliły sterowiec �
 
 ## Woolwich, Croydon i Hertford
 
-Pozostałe sterowce trafiły głównie na przedmieścia i prowincję. L 14 kapitanleutnanta Aloisa Böckera zabłądził daleko na południe i około 21.15 zbombardował obóz wojskowy Otterpool koło [Hythe](https://pl.wikipedia.org/wiki/Hythe_(Kent)) w hrabstwie Kent. Zginęło tam 15 żołnierzy, w większości kanadyjskich artylerzystów. Potem L 14 skierował się na północ i około 23.20 zrzucił bomby na dzielnicę willową w [Croydon](https://pl.wikipedia.org/wiki/Croydon), zabijając dziewięć osób, wśród nich trzech braci w wieku od 10 do 15 lat.
+Pozostałe sterowce trafiły głównie na przedmieścia i prowincję. L 14 kapitanlejtnanta Aloisa Böckera zabłądził daleko na południe i około 21.15 zbombardował obóz wojskowy Otterpool koło [Hythe](https://pl.wikipedia.org/wiki/Hythe_(Kent)) w hrabstwie Kent. Zginęło tam 15 żołnierzy, w większości kanadyjskich artylerzystów. Potem L 14 skierował się na północ i około 23.20 zrzucił bomby na dzielnicę willową w [Croydon](https://pl.wikipedia.org/wiki/Croydon), zabijając dziewięć osób, wśród nich trzech braci w wieku od 10 do 15 lat.
 
 L 13 Mathy'ego najpierw zboczył nad [Guildford](https://pl.wikipedia.org/wiki/Guildford), a krótko przed północą zbombardował koszary artylerii i [Royal Arsenal](https://pl.wikipedia.org/wiki/Royal_Arsenal) w [Woolwich](https://pl.wikipedia.org/wiki/Woolwich). Rannych zostało 13 ludzi, z których jeden później zmarł, ale poważnych szkód nie było, a Mathy sądził, że zaatakował doki Victoria. L 16 oberleutnanta zur See Wernera Petersona wziął rzekę Lea za Tamizę i zbombardował [Hertford](https://pl.wikipedia.org/wiki/Hertford), gdzie zginęło dziewięć osób. L 11 zrzucił bomby na pola w Norfolku. Wszystkie sterowce wróciły do Niemiec.
 

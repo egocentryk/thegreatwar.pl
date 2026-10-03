@@ -1,0 +1,23 @@
+---
+title: Koniec bitwy o grzbiet Pozières
+summary: 3 września 1916 Australijczycy po raz ostatni zaatakowali farmę Mouquet. Zajęli ją na kilka godzin, ale utrzymali tylko odcinek okopu na grzbiecie.
+category: Działania zbrojne
+front: Front zachodni
+battle: bitwa-o-grzbiet-pozieres
+date: 1916-09-03
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Australia, Kanada, Niemcy, Brytyjski Korpus Ekspedycyjny]
+milestone: false
+draft: false
+---
+
+3 września 1916 roku australijska 4 Dywizja generała majora Herberta Coxa po raz ostatni zaatakowała farmę Mouquet na grzbiecie na północ od [Pozières](https://pl.wikipedia.org/wiki/Pozières). Tym natarciem kończy się według brytyjskiego nazewnictwa bitwa o grzbiet Pozières, w której od 23 lipca [trzy dywizje I Korpusu ANZAC](/poczatek-bitwy-o-grzbiet-pozieres) wąskim klinem posuwały się ku tyłom niemieckiej twierdzy [Thiepval](https://pl.wikipedia.org/wiki/Thiepval). Natarcie było częścią szerszej operacji brytyjskiej Armii Rezerwowej generała [Huberta Gougha](https://pl.wikipedia.org/wiki/Hubert_Gough), która tego dnia uderzyła na Thiepval z trzech stron, ale tylko na czterech wybranych odcinkach. Tego samego dnia w południe, kilka kilometrów dalej na południowy wschód, 4 Armia i Francuzi ruszyli na [Guillemont](/bitwy/bitwa-pod-guillemont) i Ginchy. Atak, kilka razy przekładany z powodu deszczu, ruszył o 5.10 rano, tuż po świcie.
+
+Zadanie dostała 13 Brygada Australijska generała brygady Thomasa Glasgowa. Na prawym skrzydle 49 Batalion z Queenslandu zdobył szczyt grzbietu i odcinek okopu Fabeck Graben, z którego roztaczał się widok od [Courcelette](https://pl.wikipedia.org/wiki/Courcelette) po odległe wieże kościołów w Miraumont i Grandcourt. W centrum 52 Batalion stoczył zażartą walkę na granaty, bagnety i kolby. Zginął w niej kapitan Littler, znany z Gallipoli jako „książę Anzacu”, który poprowadził atak bez broni, z samą laską w ręku. Na lewym skrzydle 51 Batalion z Australii Zachodniej, idąc tuż za zaporą ogniową, wpadł do ruin farmy, zanim Niemcy zdążyli wyjść ze schronów. O 7.30 do dowództwa brygady dotarła wiadomość, że farma została zdobyta, a z podziemi wyszło z podniesionymi rękami około pięćdziesięciu Niemców. Dwie kompanie batalionu poszły jeszcze dalej i zaczęły się okopywać około stu metrów za farmą.
+
+Sukces trwał krótko. Pod farmą ciągnął się labirynt piwnic i chodników, którego Australijczycy nie znali. Żołnierze pruskiej 1 Rezerwowej Dywizji Gwardii wyszli z nich i z sąsiednich okopów od północnego wschodu, wdarli się w lukę między 51 a 52 Batalionem i otoczyli wysunięte kompanie. Ostatni meldunek, który od nich nadszedł, wysłał o 8.30 porucznik Clifford: „Mocno nas naciskają. Nieprzyjaciel atakuje granatami wzdłuż naszego okopu z obu końców. (…) Okop do połowy pełen rannych i zabitych (…). Mam przy sobie tylko około 30 ludzi”. Z obu kompanii wróciło niewielu, a farma pod ciężkim ostrzałem znów przeszła w ręce niemieckie. Australijczycy utrzymali tylko kilkaset metrów Fabeck Graben na grzbiecie, gdzie 49 Batalion, wsparty kompanią 50 Batalionu i resztkami 52 Batalionu, przez cały dzień odpierał niemieckie kontrataki. Po południu Glasgow rzucił na zagrożone odcinki kompanie kanadyjskiego 13 Batalionu (Royal Highlanders of Canada), które właśnie przyszły na front.
+
+Pozostałe uderzenia Armii Rezerwowej tego dnia się nie udały. Na północ od rzeki [Ancre](https://pl.wikipedia.org/wiki/Ancre) 39 Dywizja wdarła się w niemieckie okopy, ale gdy zabrakło granatów, musiała się wycofać, tracąc prawie 1850 ludzi. 49 Dywizja odbiła się od pozycji pod redutą Schwaben, a 25 Dywizja pod samym Thiepval, choć weszła do niemieckich okopów, nie zdołała ich utrzymać. O 18.30 Gough wstrzymał dalsze ataki. Zdobycz 13 Brygady była jedynym zyskiem tego dnia. Już o trzeciej po południu generał William Birdwood i sztab I Korpusu ANZAC przekazali dowództwo odcinka Korpusowi Kanadyjskiemu generała [Juliana Bynga](https://pl.wikipedia.org/wiki/Julian_Byng), a następnego dnia w południe Cox oddał dowództwo swojego odcinka generałowi [Arthurowi Curriemu](https://pl.wikipedia.org/wiki/Arthur_Currie) z 1 Dywizji Kanadyjskiej. Ostatnie australijskie bataliony zeszły z linii o świcie 5 września.
+
+Według australijskiej historii oficjalnej Charlesa Beana 13 Brygada straciła 3 września i w następnych dniach 41 oficerów i 1305 żołnierzy, a według brytyjskiej historii oficjalnej cała 4 Dywizja od 27 sierpnia do 4 września ponad 2,4 tysiąca ludzi. W całej bitwie I Korpus ANZAC stracił około 23 tysięcy zabitych, rannych i zaginionych. Zdobyty odcinek Fabeck Graben Niemcy odbili 8 września, w czasie zmiany batalionów kanadyjskich. Farma Mouquet, o którą Australijczycy walczyli od początku sierpnia, padła dopiero pod koniec września.

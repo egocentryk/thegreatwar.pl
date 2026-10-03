@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Przed południem 3 maja 1916 roku niemiecki sterowiec marynarki L 20 kapitanleutnanta Franza Stabberta pojawił się nad południowo-zachodnim wybrzeżem [Norwegii](https://pl.wikipedia.org/wiki/Norwegia). Wracał z nalotu na Szkocję, ale po wielogodzinnym błądzeniu w śnieżycach i mgle zabrakło mu paliwa na drogę do Niemiec. Dowódca postanowił lądować w neutralnym kraju. Sterowiec, który na początku roku zbombardował [Loughborough](/nalot-sterowcow-na-midlands) w Midlands, skończył swój ostatni lot rozbity w fiordzie koło [Stavanger](https://pl.wikipedia.org/wiki/Stavanger), a jego załoga trafiła do norweskiego internowania.
+Przed południem 3 maja 1916 roku niemiecki sterowiec marynarki L 20 kapitanlejtnanta Franza Stabberta pojawił się nad południowo-zachodnim wybrzeżem [Norwegii](https://pl.wikipedia.org/wiki/Norwegia). Wracał z nalotu na Szkocję, ale po wielogodzinnym błądzeniu w śnieżycach i mgle zabrakło mu paliwa na drogę do Niemiec. Dowódca postanowił lądować w neutralnym kraju. Sterowiec, który na początku roku zbombardował [Loughborough](/nalot-sterowcow-na-midlands) w Midlands, skończył swój ostatni lot rozbity w fiordzie koło [Stavanger](https://pl.wikipedia.org/wiki/Stavanger), a jego załoga trafiła do norweskiego internowania.
 
 ## Nalot na Rosyth
 

@@ -1,0 +1,36 @@
+---
+title: Nalot sterowców i zestrzelenie L 32 i L 33
+summary: W nocy z 23 na 24 września 1916 sterowce marynarki zbombardowały Londyn i Nottingham. Pod Billericay spadł w płomieniach L 32, a L 33 wylądował w Essex.
+category: Działania zbrojne
+front: Front zachodni
+date: 1916-09-23
+authors: [Natalia]
+dayOrder: 1
+tags: [sterowce, Kaiserliche Marine, Royal Flying Corps, Wielka Brytania]
+milestone: false
+draft: false
+---
+
+Po południu 23 września 1916 roku z baz nad Morzem Północnym wystartowały sterowce niemieckiej marynarki, by zaatakować Londyn i środkową Anglię. Według brytyjskiej historii oficjalnej wojny powietrznej, *The War in the Air* H. A. Jonesa, było ich jedenaście, a dziewięć dotarło nad ląd. Inne opracowania mówią o dwunastu. Nalot był krwawy: według brytyjskiej chronologii wojny zabitych i rannych było około 170, w większości cywilów. Niemiecka marynarka straciła jednak tej nocy dwa najnowsze sterowce. L 32 spadł w płomieniach pod [Billericay](https://pl.wikipedia.org/wiki/Billericay), zestrzelony przez lotnika [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), a uszkodzony przez artylerię przeciwlotniczą L 33 musiał wylądować w hrabstwie [Essex](https://pl.wikipedia.org/wiki/Essex). Trzy tygodnie wcześniej obrona Londynu [zestrzeliła wojskowy sterowiec SL 11](/nalot-sterowcow-i-zestrzelenie-sl-11) i ta noc pokazała, że nie był to przypadek.
+
+## L 33 nad East Endem
+
+Nad Londyn skierowały się trzy „superzeppeliny” nowego, dużego typu: L 31, L 32 i L 33, ten ostatni w swoim pierwszym locie bojowym. L 33 kapitanlejtnanta Aloisa Böckera wszedł nad ląd nad ujściem rzeki Crouch i około północy pojawił się nad wschodnimi przedmieściami Londynu. Pod silnym ogniem artylerii przeciwlotniczej zrzucił bomby na Bromley-by-Bow, [Bow](https://pl.wikipedia.org/wiki/Bow_(Londyn)) i [Stratford](https://pl.wikipedia.org/wiki/Stratford_(Londyn)). Według Jonesa 27 bomb, które spadły na East End, zniszczyło wiele domów i zakładów, zabiło 11 osób i raniło 26.
+
+Artylerzyści trafili sterowiec. Jeden pocisk przeszedł przez kadłub, inny uszkodził śmigło, a odłamki podziurawiły zbiorniki gazu. Tracąc wodór, L 33 próbował wrócić do domu. W pobliżu [Chelmsford](https://pl.wikipedia.org/wiki/Chelmsford) przez około 20 minut atakował go podporucznik Alfred de Bathe Brandon, który w marcu [walczył ze sterowcem L 15](/zestrzelenie-sterowca-l-15). Widział, jak jego pociski trafiają w kadłub, ale sterowiec się nie zapalił. Böcker przeleciał nad wybrzeżem przy [West Mersea](https://pl.wikipedia.org/wiki/West_Mersea), lecz szybko zrozumiał, że nie przeleci nad morzem. Zawrócił i około 1.15 posadził statek na polu między [Little Wigborough](https://pl.wikipedia.org/wiki/Little_Wigborough) a [Peldon](https://pl.wikipedia.org/wiki/Peldon). Załoga podpaliła wrak, ale w powłoce zostało tak mało gazu, że ogień nie zniszczył szkieletu. Lotników, którzy wszyscy przeżyli, zatrzymał miejscowy policjant pomocniczy, gdy szli drogą w stronę Peldon. W ręce Brytyjczyków wpadł najnowszy typ zeppelina, a jego konstrukcja posłużyła potem za wzór dla brytyjskich sterowców typu R33.
+
+## L 32 pod Billericay
+
+L 31 i L 32 nadleciały razem nad przylądkiem [Dungeness](https://pl.wikipedia.org/wiki/Dungeness) w hrabstwie Kent. L 32 Wernera Petersona miał najwyraźniej kłopoty, bo długo krążył, zanim skierował się na [Tunbridge Wells](https://pl.wikipedia.org/wiki/Royal_Tunbridge_Wells), nad którym pojawił się o 0.10. Potem zawrócił na północ, zrzucił kilka bomb na reflektor w Crockenhill i przekroczył [Tamizę](https://pl.wikipedia.org/wiki/Tamiza) na wschód od [Purfleet](https://pl.wikipedia.org/wiki/Purfleet). Na północ od rzeki wyleciał z mgły w czyste powietrze, gdzie natychmiast oświetliły go reflektory i ostrzelały działa. Większość pozostałych bomb rzucił między Aveley a South Ockendon, gdzie wybiły tylko szyby.
+
+Uciekającego sterowca dostrzegł podporucznik Frederick Sowrey z 39 Dywizjonu, który o 23.30 wystartował w samolocie B.E.2c z lotniska Suttons Farm, tego samego, z którego latał William Leefe Robinson. Sowrey zaatakował około 1.10. Jak meldował, dwa pierwsze bębny amunicji nie przyniosły skutku, ale po trzecim, załadowanym, jak cała jego amunicja, mieszanką pocisków Brocka, Pomeroya i smugowych, powłoka zapaliła się w kilku miejscach. Innemu lotnikowi, który patrzył z daleka, wydawało się, że sterowiec jest „polewany strumieniem ognia”. Płonący L 32 spadł około 1.30 na farmę Snail's Hall w [Great Burstead](https://pl.wikipedia.org/wiki/Great_Burstead), na południe od Billericay. Zginęła cała, 22-osobowa załoga. Według relacji świadków część lotników, w tym Peterson, wyskoczyła z płonącego statku. Wrak palił się 45 minut, a jego upadek widziano podobno nawet z brytyjskiego okrętu podwodnego w Cieśninie Kaletańskiej.
+
+## Mathy nad Londynem i bomby na Nottingham
+
+Najwięcej szkód wyrządził L 31 kapitanlejtnanta Heinricha Mathy'ego, najsłynniejszego dowódcy niemieckich sterowców. Odciążył statek, zrzucając dziesięć bomb koło Dungeness, a potem, nie tracąc już bomb po drodze, poleciał przez Kent i Surrey na północ. Rzucane przed sobą flary oślepiały reflektory, więc przeleciał nad Londynem szybko i wysoko, na wysokości około 3800 metrów. Jego bomby spadły na Kenley, [Mitcham](https://pl.wikipedia.org/wiki/Mitcham), [Streatham](https://pl.wikipedia.org/wiki/Streatham), [Brixton](https://pl.wikipedia.org/wiki/Brixton), Kennington i [Leyton](https://pl.wikipedia.org/wiki/Leyton). Według Jonesa zginęły 22 osoby, a 74 zostały ranne, głównie w domach mieszkalnych. Nad północnym Londynem mgła zasłoniła sterowiec przed artylerzystami i nikt do niego nie strzelił. Mathy meldował potem, że zbombardował centrum Londynu, choć jego bomby spadły na przedmieścia.
+
+Pięć starszych sterowców zaatakowało tymczasem wschodnią Anglię między ujściem [Humber](https://pl.wikipedia.org/wiki/Humber) a zatoką Wash. Tylko L 17 dotarł daleko w głąb lądu. Około 0.40 zrzucił bomby na [Nottingham](https://pl.wikipedia.org/wiki/Nottingham), zabijając trzy osoby i raniąc 16. Pozostałe, odpędzane ogniem dział, rozrzuciły bomby głównie po polach [Lincolnshire](https://pl.wikipedia.org/wiki/Lincolnshire) i do morza, a L 21, odpędzony przez działa spod Stowmarket, zrzucił swoje na wsie w hrabstwie Suffolk. Nalot na Nottingham wywołał protesty burmistrzów miast środkowej Anglii, którzy zarzucali kolejom, że nie gaszą świateł i podczas alarmów nie zatrzymują pociągów. Ministerstwo wojny odmówiło wstrzymywania ruchu, uznając, że sparaliżowałoby to kraj.
+
+## Znaczenie
+
+Dwa stracone w ciągu jednej nocy sterowce, w tym jeden zdobyty prawie w całości, były dla Niemców ciężkim ciosem. Ich załogi przekonały się, że nawet nowe „superzeppeliny” są bezbronne wobec samolotów nocnych z amunicją zapalającą. Sowrey dostał za zestrzelenie L 32 [Order Wybitnej Służby](https://pl.wikipedia.org/wiki/Order_Wybitnej_Służby). Brytyjska prasa szeroko opisywała nocne walki, a tłumy oglądały wraki w Essex. Marynarka nie przerwała jednak nalotów. Kolejne sterowce wyruszyły nad Anglię już 25 września, a Mathy zginął nieco ponad tydzień później, w nocy z 1 na 2 października, gdy jego L 31 zestrzelono pod [Potters Bar](https://pl.wikipedia.org/wiki/Potters_Bar).

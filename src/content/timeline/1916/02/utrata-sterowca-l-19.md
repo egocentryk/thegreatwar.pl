@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 2 lutego 1916 roku brytyjski trawler rybacki King Stephen z [Grimsby](https://pl.wikipedia.org/wiki/Grimsby) natrafił na środku [Morza Północnego](https://pl.wikipedia.org/wiki/Morze_Północne) na wrak niemieckiego sterowca L 19. Na grzbiecie zanurzonej powłoki stłoczyli się lotnicy, którzy wołali o ratunek. Szyper William Martin odmówił wzięcia ich na pokład i odpłynął. Kilka godzin później sterowiec zatonął razem z całą, liczącą 16 ludzi załogą kapitanleutnanta Odo Loewego (w części źródeł Löwe). Sposób, w jaki zginęli lotnicy, wywołał spór, który odbił się echem w prasie całego świata.
+Rano 2 lutego 1916 roku brytyjski trawler rybacki King Stephen z [Grimsby](https://pl.wikipedia.org/wiki/Grimsby) natrafił na środku [Morza Północnego](https://pl.wikipedia.org/wiki/Morze_Północne) na wrak niemieckiego sterowca L 19. Na grzbiecie zanurzonej powłoki stłoczyli się lotnicy, którzy wołali o ratunek. Szyper William Martin odmówił wzięcia ich na pokład i odpłynął. Kilka godzin później sterowiec zatonął razem z całą, liczącą 16 ludzi załogą kapitanlejtnanta Odo Loewego (w części źródeł Löwe). Sposób, w jaki zginęli lotnicy, wywołał spór, który odbił się echem w prasie całego świata.
 
 ## Ostatni lot
 
