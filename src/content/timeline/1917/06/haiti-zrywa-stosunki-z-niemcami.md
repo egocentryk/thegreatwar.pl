@@ -1,0 +1,21 @@
+---
+title: Haiti zrywa stosunki z Niemcami
+summary: 16 czerwca 1917 okupowane przez USA Haiti odesłało niemieckiego chargé d’affaires. Wcześniej Niemcy wydalili haitańskiego dyplomatę z Berlina.
+category: Dyplomacja
+date: 1917-06-16
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Ameryka Łacińska, Niemcy, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+16 czerwca 1917 roku rząd [Haiti](https://pl.wikipedia.org/wiki/Haiti) zerwał stosunki dyplomatyczne z Cesarstwem Niemieckim i odesłał niemieckiego [chargé d’affaires](https://pl.wikipedia.org/wiki/Chargé_d’affaires). Następnego dnia w południe amerykański poseł w [Port-au-Prince](https://pl.wikipedia.org/wiki/Port-au-Prince) Arthur Bailly-Blanchard zawiadomił depeszą Waszyngton, że haitański minister spraw zagranicznych poinformował go o zerwaniu stosunków. Haitańczycy prosili przy tym, by Amerykanie załatwili niemieckiemu przedstawicielowi, jego żonie i świcie list żelazny. Niemcy mieli odpłynąć holenderskim statkiem, a Haitańczycy chcieli mieć pewność, że nie zatrzymają ich amerykańskie okręty. Dlatego w amerykańskim zbiorze dokumentów dyplomatycznych zerwanie nosi datę 17 czerwca, dnia zawiadomienia.
+
+Haiti nie było wtedy w pełni niepodległym państwem. Od 28 lipca 1915 roku, gdy po zlinczowaniu prezydenta [Vilbruna Guillaume’a Sama](https://pl.wikipedia.org/wiki/Vilbrun_Guillaume_Sam) wylądowali w stolicy amerykańscy marines, kraj był okupowany przez Stany Zjednoczone, podobnie jak od 1916 roku sąsiednia [Dominikana](/dominikana-zrywa-stosunki-z-niemcami), która kilka dni wcześniej także zerwała stosunki z Niemcami. Prezydenta Philippe’a Sudré Dartiguenave’a wybrano w sierpniu 1915 roku pod okiem Amerykanów, a traktat z tego samego roku oddał im kontrolę nad cłami, finansami i żandarmerią. W Waszyngtonie obawiano się wcześniej niemieckich wpływów na wyspie. Nieliczni, ale bogaci niemieccy kupcy prowadzili znaczną część haitańskiego handlu zagranicznego, a niektórzy weszli przez małżeństwa do najbardziej wpływowych rodzin kraju.
+
+4 lutego 1917 roku, gdy [Stany Zjednoczone zerwały stosunki z Niemcami](/usa-zrywaja-stosunki-z-niemcami), Bailly-Blanchard zachęcił Haiti, by poszło za ich przykładem. W kwietniu Dartiguenave kilka razy rozmawiał o przystąpieniu do wojny z dowódcą amerykańskich sił okupacyjnych, generałem Cole’em, który uznał ten krok za wskazany. Prezydent obawiał się jednak sprzeciwu w kraju i chciał najpierw wiedzieć, czy Amerykanie mu pomogą. 24 kwietnia sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) kazał przekazać haitańskiemu posłowi, że Stany Zjednoczone udzielą Haiti „wszelkiej należytej pomocy”. Gdy w Port-au-Prince zapytano, co to konkretnie znaczy, Lansing odpowiedział 27 kwietnia, że będzie to zależało od okoliczności, ale Waszyngton dołoży wszelkich starań, by Haiti nie poniosło szkody z powodu swojej decyzji.
+
+Pretekstem do zerwania stały się ofiary wśród Haitańczyków. Na francuskich statkach Karnak, zatopionym przez niemiecki okręt podwodny w listopadzie 1916 roku, i Montréal, storpedowanym 24 marca 1917 roku, zginęło kilku obywateli Haiti. Dartiguenave zwrócił się do parlamentu o wypowiedzenie wojny, ale Zgromadzenie Narodowe się na to nie zgodziło. 11 maja przyjęło za to rezolucję, w której zaprotestowało przeciw niemieckiej blokadzie podwodnej i obarczyło Niemcy odpowiedzialnością za życie i mienie Haitańczyków na morzu, z należnymi odszkodowaniami. Zapowiedziało też, że w razie potrzeby Haiti zerwie z Niemcami stosunki. Haiti zażądało w Berlinie zadośćuczynienia. Według memorandum Unii Panamerykańskiej z 1919 roku Niemcy odpowiedzieli wręczeniem paszportów haitańskiemu chargé d’affaires, a wtedy Port-au-Prince odesłało niemieckiego dyplomatę.
+
+Trzy dni po zerwaniu stosunków, 19 czerwca, Dartiguenave rozwiązał parlament, który sprzeciwiał się nowej konstytucji przygotowanej pod amerykańskim nadzorem. Konstytucja ta miała między innymi pozwolić cudzoziemcom na kupowanie ziemi na Haiti, czego zakazywano od czasów niepodległości. Dekret o rozwiązaniu wykonała żandarmeria dowodzona przez oficera marines [Smedleya Butlera](https://pl.wikipedia.org/wiki/Smedley_Butler). Wojnę Niemcom wypowiedziała Haiti dopiero 12 lipca 1918 roku Rada Stanu, która zastępowała wtedy parlament.

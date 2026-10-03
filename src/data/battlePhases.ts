@@ -130,6 +130,14 @@ export const BATTLE_PHASES = [
       "Wiosną 1917 roku alianci wrócili do wielkich ofensyw na froncie zachodnim. Generał Nivelle obiecywał przełamanie w ciągu dwóch dni nad Aisne i na Chemin des Dames, a Brytyjczycy mieli wcześniej związać niemieckie rezerwy uderzeniem pod Arras. Pierwszy dzień pod Arras i zdobycie grzbietu Vimy przez Kanadyjczyków należały do największych sukcesów armii brytyjskiej w tej wojnie, ale francuska ofensywa skończyła się ciężkimi stratami i zawiedzionymi nadziejami, a w armii francuskiej wybuchły bunty.",
   },
   {
+    slug: "1917-flandria",
+    title: "1917: Flandria",
+    front: "Front zachodni",
+    dates: "od czerwca 1917",
+    intro:
+      "Po załamaniu się ofensywy Nivelle'a i buntach w armii francuskiej ciężar walki na froncie zachodnim przeszedł na Brytyjczyków. Haig od dawna chciał uderzyć we Flandrii: wyprzeć Niemców z wzgórz wokół Ypres, a w dalszej perspektywie dojść do wybrzeża belgijskiego i baz niemieckich okrętów podwodnych. Pierwszym krokiem było zdobycie grzbietu Messines w czerwcu 1917 roku, poprzedzone wysadzeniem wielkich min pod niemieckimi pozycjami.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
