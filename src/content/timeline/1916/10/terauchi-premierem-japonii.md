@@ -1,0 +1,22 @@
+---
+title: Terauchi premierem Japonii
+summary: 9 października 1916 marszałek Masatake Terauchi, generalny gubernator Korei, zastąpił Ōkumę na czele rządu Japonii. Jego gabinet nie opierał się na partiach.
+category: Polityka
+front: Azja i Pacyfik
+date: 1916-10-09
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Japonia, Chiny, Wielka Brytania]
+milestone: false
+draft: false
+---
+
+9 października 1916 roku cesarz [Yoshihito](https://pl.wikipedia.org/wiki/Yoshihito) mianował nowy rząd [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii). Na jego czele stanął marszałek hrabia [Masatake Terauchi](https://pl.wikipedia.org/wiki/Masatake_Terauchi), od 1910 roku generalny gubernator Korei. Zastąpił 78-letniego markiza [Shigenobu Ōkumę](https://pl.wikipedia.org/wiki/Shigenobu_Ōkuma), który złożył dymisję 4 października. Terauchi sam objął tymczasowo ministerstwo spraw zagranicznych oraz ministerstwo finansów. Brytyjska chronologia wojny podaje, że p.o. ministra spraw zagranicznych został wicehrabia Ishii, ale według japońskich wykazów członków rządu [Kikujirō Ishii](/kikujiro-ishii-ministrem-spraw-zagranicznych) odszedł razem z gabinetem Ōkumy. Resortem do 21 listopada kierował sam premier, a potem przejął go dotychczasowy ambasador w Piotrogrodzie, wicehrabia Ichirō Motono, który w lipcu podpisał [układ z Rosją](/rosyjsko-japonski-uklad-o-dalekim-wschodzie).
+
+Upadek Ōkumy był przesądzony od miesięcy. Jego rząd powstał w 1914 roku jako sojusz partii Rikken Dōshikai z kręgami wojskowymi i biurokratycznymi, które łączyła niechęć do partii [Rikken Seiyūkai](https://pl.wikipedia.org/wiki/Rikken_Seiyūkai). Z czasem jednak zraził do siebie [genrō](https://pl.wikipedia.org/wiki/Genrō), starszych mężów stanu z marszałkiem [Aritomo Yamagatą](https://pl.wikipedia.org/wiki/Aritomo_Yamagata) na czele, którzy od początku 1916 roku naciskali na jego ustąpienie. Ōkuma odwlekał dymisję, tłumacząc się m.in. rokowaniami z Rosją. Ōkuma odchodził, rekomendując na następcę przywódcę Dōshikai, byłego ministra spraw zagranicznych [Takaakiego Katō](/dymisja-takaakiego-kato). Genrō pominęli tę rekomendację i wskazali Terauchiego, wychowanka Yamagaty.
+
+Nowy premier miał 64 lata. Urodził się w 1852 roku w księstwie Chōshū, z którego wywodziła się większość przywódców japońskiej armii. Jako młody żołnierz walczył w [wojnie boshin](https://pl.wikipedia.org/wiki/Wojna_boshin), a w 1877 roku podczas tłumienia [buntu Satsumy](https://pl.wikipedia.org/wiki/Bunt_Satsumy) został ciężko ranny i stracił władzę w prawej ręce. Odtąd nie dowodził już w polu, lecz robił karierę w administracji wojskowej i szkolnictwie. Studiował we Francji, w czasie [wojny z Rosją](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-japońska) był ministrem armii, a w 1910 roku przeprowadził aneksję Korei i rządził nią twardą ręką, opierając się na wojsku i żandarmerii. W czerwcu 1916 roku otrzymał godność marszałka.
+
+Gabinet Terauchiego był tak zwanym gabinetem ponadpartyjnym (chōzen naikaku). Zasiedli w nim biurokraci i wojskowi z kręgu Yamagaty, w tym minister spraw wewnętrznych [Shinpei Gotō](https://pl.wikipedia.org/wiki/Shinpei_Gotō), a minister wojny generał [Ken'ichi Ōshima](/oshima-ministrem-wojny-japonii) zachował stanowisko. Japończycy szybko nazwali go „gabinetem Billiken”: łysa głowa premiera przypominała modną wtedy laleczkę Billiken, a nazwa brzmiała podobnie jak „hirikken”, czyli „niekonstytucyjny”. Dzień po nominacji Dōshikai i mniejsze ugrupowania połączyły się w partię [Kenseikai](https://pl.wikipedia.org/wiki/Kenseikai) pod przewodnictwem Katō, która miała w niższej izbie parlamentu 198 mandatów i stała się główną opozycją. Rząd musiał więc szukać oparcia w Seiyūkai [Takashiego Hary](https://pl.wikipedia.org/wiki/Takashi_Hara).
+
+W polityce wojennej zmiana premiera nie oznaczała zwrotu. Terauchi dochował zobowiązań wobec Wielkiej Brytanii, a w 1917 roku japońskie okręty popłynęły aż na Morze Śródziemne. Zmieniły się natomiast metody wobec Chin. Zamiast otwartego nacisku, jak przy [dwudziestu jeden żądaniach](https://pl.wikipedia.org/wiki/Dwadzieścia_jeden_żądań) z 1915 roku, rząd Terauchiego postawił na pożyczki, którymi od 1917 roku wspierał w Pekinie premiera [Duana Qirui](https://pl.wikipedia.org/wiki/Duan_Qirui) w zamian za uznanie japońskich interesów w Szantungu i Mandżurii. Terauchi rządził do września 1918 roku. W ostatnich miesiącach zdecydował o udziale Japonii w [interwencji syberyjskiej](https://pl.wikipedia.org/wiki/Interwencja_syberyjska), a do dymisji zmusiły go zamieszki ryżowe, które ogarnęły cały kraj.

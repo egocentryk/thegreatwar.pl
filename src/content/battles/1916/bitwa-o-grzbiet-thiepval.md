@@ -77,7 +77,7 @@ Kanadyjczycy cały dzień nacierali w deszczu i błocie na okop Regina. Batalion
 
 Walki nie ustały wraz z końcem oficjalnych dat bitwy. 29 i 30 września 11 Dywizja z pomocą Kanadyjczyków zdobyła resztę okopu Hessian, a ludzie White'a odparli kilka kontrataków w reducie Stuff. 30 września batalion East Surrey zdobył północną ścianę reduty Schwaben, ale wieczorny kontratak znów zepchnął go częściowo w tył. Na zachodniej ścianie reduty Niemcy utrzymali się mimo kolejnych ataków. Historia oficjalna kończy opis tych walk stwierdzeniem, że po obu stronach żołnierze walczyli w okopach głębokich na łydkę w błocie aż do całkowitego wyczerpania, a w chaosie okopów, lejów i schronów artyleria często nie mogła już skutecznie wspierać piechoty. Autor zauważa też, że w późniejszych atakach zabrakło koordynacji wzdłuż całego frontu.
 
-Ostateczne cele bitwy zdobyto dopiero w bitwie o wzgórza nad Ancre. 9 października batalion z Cheshire z 25 Dywizji szturmem zajął północną ścianę reduty Stuff, a 14 października 39 Dywizja opanowała resztę reduty Schwaben. 21 października brytyjskie dywizje, wśród nich 18 Dywizja, zdobyły okop Stuff, a Kanadyjczycy ukończyli zdobywanie okopu Regina dopiero 11 listopada.
+Ostateczne cele bitwy zdobyto dopiero w bitwie o wzgórza nad Ancre. 9 października batalion z Cheshire z 25 Dywizji szturmem zajął północną ścianę reduty Stuff, a 14 października 39 Dywizja opanowała resztę reduty Schwaben. 21 października 39 i 25 Dywizja zdobyły okop Stuff, a 18 Dywizja odcinek okopu Regina; Kanadyjczycy ukończyli zdobywanie okopu Regina dopiero 11 listopada.
 
 ## Straty
 

@@ -1,0 +1,41 @@
+---
+title: Francuzi odbijają fort Douaumont
+summary: 24 października 1916 trzy francuskie dywizje uderzyły we mgle pod Verdun. Kolonialny pułk z Maroka odbił fort Douaumont, stracony osiem miesięcy wcześniej.
+category: Działania zbrojne
+front: Front zachodni
+battle: pierwsza-ofensywna-bitwa-pod-verdun
+date: 1916-10-24
+authors: [Natalia]
+dayOrder: 1
+tags: [Francja, Niemcy, artyleria oblężnicza, jeńcy wojenni]
+milestone: true
+draft: false
+---
+
+24 października 1916 roku o 11.40 trzy francuskie dywizje wyszły z okopów na prawym brzegu [Mozy](https://pl.wikipedia.org/wiki/Moza) pod [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) i w gęstej mgle ruszyły za ruchomą zaporą ogniową na niemieckie pozycje. Po południu żołnierze kolonialnego pułku piechoty marokańskiej weszli do fortu Douaumont, największego fortu twierdzy, który Niemcy [zajęli bez walki 25 lutego](/niemcy-zdobywaja-fort-douaumont). Tego samego dnia Francuzi odzyskali ruiny wsi [Douaumont](https://pl.wikipedia.org/wiki/Douaumont), umocnienia Thiaumont i niemal cały teren między fortami Douaumont i Vaux, o który przez osiem miesięcy toczyła się [bitwa pod Verdun](/bitwy/bitwa-pod-verdun). W ciągu dwóch dni wzięli ponad 6 tysięcy jeńców. Dla Francji, która od lutego wykrwawiała się w obronie, była to jedna z najradośniejszych wiadomości całej wojny.
+
+## Fort pod ostrzałem 400 mm
+
+Fort Douaumont przez osiem miesięcy służył Niemcom jako schron, skład i punkt opatrunkowy tuż za linią frontu. Pierwsza francuska próba jego odbicia, w maju, skończyła się klęską, bo francuskie moździerze nie przebijały jego betonowych stropów. Tym razem generał [Robert Nivelle](https://pl.wikipedia.org/wiki/Robert_Nivelle), dowódca 2 Armii, i prowadzący natarcie generał [Charles Mangin](https://pl.wikipedia.org/wiki/Charles_Mangin) mieli nową broń: dwie [haubice kolejowe](https://pl.wikipedia.org/wiki/Działo_kolejowe) kalibru 400 mm, ustawione na bocznicach pod Baleycourt, około 13–14 km od fortu, i strzelające pociskami ważącymi do około 900 kilogramów. O sprowadzenie takich dział od lata zabiegał generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain), dowódca Grupy Armii Centrum, który uważał je za warunek odbicia fortów.
+
+Ostrzał przygotowawczy zaczął się 20 października, a według francuskiej historii oficjalnej do 26 października artyleria wystrzeliła na odcinek natarcia ponad 800 tysięcy pocisków. 22 października Francuzi zasymulowali początek szturmu, a niemieckie baterie, które odpowiedziały ogniem, zdradziły swoje stanowiska i nazajutrz zostały zasypane pociskami. 23 października w południe pocisk kalibru 400 mm przebił strop fortu i eksplodował w izbie chorych, zabijając, według francuskich opracowań, około pięćdziesięciu Niemców. Kolejne zawaliły kazamaty i główny korytarz, a jeden wywołał pożar w składzie granatów i amunicji. Galerie wypełniły się duszącym dymem, zgasło światło, a do gaszenia ognia nie było wody. Pétain pisał później, za niemieckim autorem Wernerem Beumelburgiem, że załoga lała na płomienie wodę mineralną przeznaczoną dla rannych. Wieczorem, a według Pétaina dopiero nad ranem 24 października, komendant fortu, major Rosendahl, za zgodą przełożonych wyprowadził z niego załogę. Rano 24 października do zrujnowanego fortu wrócił tylko niewielki oddział saperów kapitana Prolliusa, według różnych źródeł 26–30 ludzi.
+
+## Natarcie we mgle
+
+Mangin uderzył na froncie szerokim na około 7 km. 38 Dywizja generała Guyot de Salinsa miała zdobyć fort Douaumont, 133 Dywizja generała Passagi teren między fortami, a 74 Dywizja generała de Lardemelle'a fort Vaux. Żołnierze, obładowani zapasami żywności na cztery dni, dwiema maskami przeciwgazowymi, amunicją i narzędziami, przez kilka tygodni ćwiczyli na tyłach marsz za zaporą ogniową, a oficerowie dostali kompasy. Rano nad polem bitwy zalegała gęsta [mgła](https://pl.wikipedia.org/wiki/Mgła). Uniemożliwiła obserwację z samolotów i balonów, ale ukryła też nacierających. O 11.40 artyleria oślepiła niemieckie punkty obserwacyjne pociskami dymnymi, a polowe działa kalibru 75 mm przeniosły ogień w ruchomą zaporę, przesuwaną co cztery minuty o 100 metrów. Według francuskiej historii oficjalnej niemiecki ogień zaporowy odezwał się dopiero po dwunastu minutach. Pierwsze niemieckie okopy padły niemal od razu, a wielu ich obrońców wychodziło z ukryć z podniesionymi rękami.
+
+Fort Douaumont przypadł kolonialnemu pułkowi piechoty marokańskiej (Régiment d'infanterie coloniale du Maroc, RICM) podpułkownika Régniera. Mimo nazwy nie był to pułk Marokańczyków, lecz francuskiej piechoty kolonialnej, sformowany w 1914 roku w Maroku z żołnierzy pochodzących w większości z Francji. Na 24 października wzmocniono go 43 Batalionem Strzelców Senegalskich i dwiema kompaniami Somalijczyków. Pułk nacierał trzema batalionami. Pierwszy, majora Modata, który został ranny, zdobył pierwszą linię niemiecką. Drugi, majora Crolla, wyprzedził go po 13.40 i otoczył fort, a jego żołnierze zeszli do fos i weszli na nawierzchnię, gdzie spotkali żołnierzy sąsiedniego 321 Pułku Piechoty. Trzeci batalion, majora Nicolaÿ, który miał oczyścić wnętrze fortu, zabłądził we mgle, podobno dlatego, że metal oporządzenia zakłócał wskazania kompasów. Dotarł na miejsce dopiero później, prowadzony przez niemieckiego jeńca.
+
+Około 15.00 do fortu weszli żołnierze RICM razem z saperami i oddziałem paryskich strażaków z [miotaczami ognia](https://pl.wikipedia.org/wiki/Miotacz_ognia). Opór był niewielki. Według francuskich relacji pierwszy wszedł do środka saper Paul Dumont, który z kilkoma żołnierzami wziął do niewoli czterech oficerów i dwudziestu czterech żołnierzy, a jego kolega Jean Ygon pojmał dwudziestu Niemców i zdobył dwa karabiny maszynowe. Obaj dostali później [Legię Honorową](https://pl.wikipedia.org/wiki/Legia_Honorowa), rzadko przyznawaną szeregowym. Do niewoli trafił też kapitan Prollius. Fort, który w lutym padł bez jednego strzału, wrócił do Francuzów niemal równie łatwo, bo artyleria zrobiła swoje, zanim podeszła piechota.
+
+## Douaumont, Thiaumont i Vaux
+
+Na lewo od RICM 4 Mieszany Pułk Żuawów i Strzelców zdobył umocnienia Thiaumont, o które od czerwca walczono kilkanaście razy, i ruiny wsi Douaumont. Dywizja Passagi zajęła teren od wschodniej części fortu Douaumont po okolice wsi Vaux. Tylko na prawym skrzydle natarcie utknęło. 74 Dywizja zdobyła staw Vaux, wschodni skraj lasu Fumin i baterię Damloup, ale fort Vaux, mniej zniszczony ostrzałem, odpierał ją ogniem karabinów maszynowych, a jej bataliony poniosły ciężkie straty. Fortu tego dnia nie zdobyto.
+
+Wieczorem Francuzi umacniali zdobyty teren. Według dziennika działań Grupy Armii Centrum do końca dnia wzięli ponad 4 tysiące jeńców, w tym ponad stu oficerów, a do 25 października, według przewodnika Michelin po polu bitwy, ponad 6 tysięcy jeńców i 15 dział. Sam RICM stracił według swojego dziennika działań 111 zabitych i 389 rannych. 25 października major Nicolaÿ został komendantem odzyskanego fortu, a podpułkownik Régnier przeniósł do niego swoje stanowisko dowodzenia. Saperzy od razu zaczęli przystosowywać fort do obrony. Niemieckie kontrataki w kolejnych dniach zostały odparte.
+
+## Echa zwycięstwa
+
+25 października Nivelle ogłosił w rozkazie dziennym, że żołnierze zgrupowania Mangina „w cztery godziny, w jednym wspaniałym szturmie” odebrali nieprzyjacielowi teren, którego zdobycie zajęło mu osiem miesięcy. Niemiecki komunikat z 26 października przyznawał utratę fortu i tłumaczył ją mglistą pogodą, która sprzyjała Francuzom. We Francji wiadomość przyjęto z entuzjazmem. Dekretem z 13 listopada sztandar RICM otrzymał Legię Honorową, a nazwę „Verdun-Douaumont” wpisano na sztandary pułków, które pierwsze dotarły do fortu. Pułk piechoty czołgowej marynarki (Régiment d'infanterie chars de marine), który kontynuuje tradycje RICM, do dziś obchodzi 24 października jako swoje święto.
+
+Tego dnia nie zakończyły się jednak walki. Fort Vaux Niemcy opuścili dopiero na początku listopada, a w grudniu Mangin uderzył ponownie i odepchnął ich od Douaumont o kolejne kilka kilometrów. Sukces z 24 października uczynił z Nivelle'a i Mangina bohaterów, a metoda krótkiego, starannie przygotowanego natarcia za ruchomą zaporą ogniową wydawała się receptą na zwycięstwo. W połowie grudnia Nivelle został naczelnym wodzem armii francuskiej.

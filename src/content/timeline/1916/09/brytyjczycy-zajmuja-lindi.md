@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Afryka
 date: 1916-09-17
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Niemiecka Afryka Wschodnia, Royal Navy, Indie Brytyjskie, kolonie niemieckie]
 milestone: false
 draft: false
