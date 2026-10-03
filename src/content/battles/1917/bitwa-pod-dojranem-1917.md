@@ -21,7 +21,7 @@ Bitwa pod Dojranem była brytyjską częścią wiosennej ofensywy, którą nacze
 
 ## Nazwa i daty
 
-Brytyjska komisja do spraw nazewnictwa bitew nazwała te walki „bitwą pod Dojranem 1917” i ograniczyła je do dwóch natarć: 24–25 kwietnia i 8–9 maja. Tych dat używa brytyjska historia oficjalna działań w Macedonii (Falls) i tych dat używamy na tej stronie. W Bułgarii obrona tego odcinka przeszła do historii jako część „epopei dojrańskiej”, a starcie z 1917 roku nazywa się zwykle drugą bitwą pod Dojranem: pierwszą były walki z sierpnia 1916 roku, trzecią obrona z września 1918 roku. Bułgarskie opracowania liczą bitwę od 22 kwietnia, od początku brytyjskiego ostrzału. Falls podaje, że niszczenie zasieków zaczęło się 21 kwietnia, a ostrzał trwał jeszcze kilka dni po 9 maja. Francuzi traktowali całą wiosenną ofensywę jako jedną „bitwę nad Wardarem”.
+Brytyjska komisja do spraw nazewnictwa bitew nazwała te walki „bitwą pod Dojranem 1917” i ograniczyła je do dwóch natarć: 24–25 kwietnia i 8–9 maja. Tych dat używa brytyjska historia oficjalna działań w Macedonii (Falls) i tych dat używamy na tej stronie. W Bułgarii obrona tego odcinka przeszła do historii jako część „epopei dojrańskiej”, a starcie z 1917 roku nazywa się zwykle drugą bitwą pod Dojranem: pierwszą były walki z sierpnia 1916 roku, trzecią obrona z września 1918 roku. Bułgarskie opracowania liczą bitwę od 22 kwietnia, od początku brytyjskiego ostrzału. Falls podaje, że niszczenie zasieków zaczęło się 21 kwietnia, a ostrzał trwał jeszcze kilka dni po 9 maja. Brytyjska chronologia wojny nazywa natomiast równoległe natarcia na zachód od Wardaru „bitwą nad Wardarem”.
 
 ## Tło
 

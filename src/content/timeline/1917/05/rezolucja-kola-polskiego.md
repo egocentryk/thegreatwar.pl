@@ -1,0 +1,43 @@
+---
+title: Rezolucja Koła Polskiego
+summary: 28 maja 1917 polscy posłowie z Galicji zebrani w Krakowie uznali, że jedynym dążeniem narodu jest niepodległa, zjednoczona Polska z dostępem do morza.
+category: Polityka
+date: 1917-05-28
+authors: [Natalia]
+dayOrder: 1
+tags: [Polska, Galicja, Austro-Węgry]
+milestone: false
+draft: false
+---
+
+28 maja 1917 roku w sali Rady Miejskiej w krakowskim [Pałacu Wielopolskich](https://pl.wikipedia.org/wiki/Pałac_Wielopolskich_w_Krakowie) zebrali się niemal wszyscy polscy parlamentarzyści z Galicji: posłowie do austriackiej [Rady Państwa](https://pl.wikipedia.org/wiki/Rada_Państwa_(Austria)) i do lwowskiego [Sejmu Krajowego](https://pl.wikipedia.org/wiki/Sejm_Krajowy_(Galicja)). To wspólne zgromadzenie, nazywane Polskim Kołem Sejmowym, przyjęło rezolucję, która zaczynała się od słów: „Polskie Koło Sejmowe stwierdza, że jedynym dążeniem narodu polskiego jest odzyskanie niepodległej zjednoczonej Polski z dostępem do morza i uznaje się solidarnym z tym dążeniem”. Dwanaście dni wcześniej, 16 maja, rezolucję tej samej treści uchwaliło [Koło Polskie](https://pl.wikipedia.org/wiki/Koło_Polskie_w_Radzie_Państwa_(Austria)), klub polskich posłów w wiedeńskim parlamencie, i od niego rezolucja wzięła swoją nazwę. Po raz pierwszy od rozbiorów polscy posłowie w parlamencie jednego z państw zaborczych otwarcie postawili sobie za cel niepodległą Polskę złożoną z ziem wszystkich trzech zaborów.
+
+## Galicja po akcie 5 listopada
+
+Jeszcze pół roku wcześniej większość polityków galicyjskich wiązała przyszłość Polski z monarchią habsburską. Liczyli na tak zwane rozwiązanie austro-polskie: połączenie Galicji z Królestwem Polskim pod berłem Habsburgów. Do tego obozu należał [Naczelny Komitet Narodowy](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy), powołany w sierpniu 1914 roku z inicjatywy Koła Polskiego, który patronował Legionom. [Akt 5 listopada](/akt-5-listopada) 1916 roku zapowiedział jednak Królestwo Polskie bez Galicji, zależne przede wszystkim od Niemiec. Na pocieszenie stary cesarz Franciszek Józef obiecał Galicji szeroką autonomię, tak zwane wyodrębnienie z austriackiej połowy monarchii. Projekt przygotowywał minister do spraw Galicji, historyk i konserwatysta [Michał Bobrzyński](https://pl.wikipedia.org/wiki/Michał_Bobrzyński). Prace ciągnęły się miesiącami, a po śmierci Franciszka Józefa nowy cesarz Karol I i rząd austriacki nie spieszyli się z ich zakończeniem.
+
+Tymczasem sytuacja międzynarodowa zmieniała się szybko. W styczniu 1917 roku prezydent Stanów Zjednoczonych Woodrow Wilson [opowiedział się w Senacie](/pokoj-bez-zwyciestwa) za zjednoczoną, niepodległą i samodzielną Polską. W marcu upadł carat, a rosyjski Rząd Tymczasowy w [odezwie do Polaków](/odezwa-rzadu-tymczasowego-do-polakow) uznał prawo Polski do niepodległości. Na początku kwietnia [poparła ją Wielka Brytania](/wielka-brytania-popiera-niepodleglosc-polski), a kilka dni później Stany Zjednoczone [przystąpiły do wojny](/usa-wypowiadaja-wojne-niemcom). Obietnica Rosji dotyczyła wprawdzie tylko ziem, których Rosja nie kontrolowała, ale niepodległość przestała być hasłem garstki radykałów. Wobec takich deklaracji autonomia Galicji wyglądała na bardzo skromną zdobycz.
+
+Front galicyjskiego austrofilstwa zaczął się sypać. Pod koniec kwietnia z prac nad wyodrębnieniem Galicji wycofali się narodowi demokraci. Na początku maja cesarz Karol z cesarzową Zytą odwiedził Kraków, ale wizyta, z którą Bobrzyński wiązał duże nadzieje, nie odmieniła nastrojów. Narzekano między innymi, że na powitalną mowę prezydenta miasta Juliusza Leo, wygłoszoną po polsku, monarcha odpowiedział po niemiecku.
+
+## Od Koła Polskiego do Koła Sejmowego
+
+Przełom przyszedł ze strony ludowców. Na początku maja posłowie [Polskiego Stronnictwa Ludowego „Piast”](https://pl.wikipedia.org/wiki/Polskie_Stronnictwo_Ludowe_„Piast”_(1913–1931)) postanowili opuścić Naczelny Komitet Narodowy, a 6 maja uznali wyodrębnienie Galicji za nieaktualne. Powtórzyli to 14 maja na zebraniu Koła Polskiego i zażądali odejścia Bobrzyńskiego. Dwa dni później, 16 maja, Koło uchwaliło rezolucję zgłoszoną przez posła ludowego [Włodzimierza Tetmajera](https://pl.wikipedia.org/wiki/Włodzimierz_Tetmajer). Tetmajer, malarz z podkrakowskich Bronowic, uwieczniony przez Stanisława Wyspiańskiego jako Gospodarz w „[Weselu](https://pl.wikipedia.org/wiki/Wesele_(dramat))”, od 1911 roku zasiadał w parlamencie wiedeńskim. Własny projekt rezolucji postawił też przywódca socjalistów [Ignacy Daszyński](https://pl.wikipedia.org/wiki/Ignacy_Daszyński). Pisał w nim, że żadnych ulg w wojennych cierpieniach ani zmiany sposobu rządzenia w Galicji Polacy nie mogą uznać za rozwiązanie sprawy polskiej, „a tem mniej jako zapłaty za utratę nieśmiertelnego prawa narodu polskiego do wolności i niepodległości”.
+
+Po uchwale z 16 maja Bobrzyński postanowił ustąpić. Aby ostudzić nastroje, przywódca ludowców [Wincenty Witos](https://pl.wikipedia.org/wiki/Wincenty_Witos) zaproponował, by ostateczną decyzję podjęło szersze grono, czyli Koło Sejmowe, zgromadzenie wszystkich polskich parlamentarzystów z Galicji. Zwołano je do Krakowa na 28 maja. Według historyka Damiana Szymczaka, autora pracy o Bobrzyńskim jako ministrze, Bobrzyński do końca próbował nie dopuścić do powtórzenia rezolucji przez to najważniejsze gremium polskiej polityki w monarchii, tym bardziej że rozdrażniony cesarz groził, iż nie mianuje jego następcy i zmieni politykę wobec Polaków.
+
+## Treść rezolucji
+
+Uchwała krakowska miała cztery krótkie zdania. Po zdaniu o niepodległej, zjednoczonej Polsce z dostępem do morza Koło stwierdzało „międzynarodowy charakter tej sprawy” i uznawało jej urzeczywistnienie „za porękę trwałego pokoju”. Dalej wyrażało nadzieję, że „życzliwy nam cesarz Austrii sprawę tę ujmie w swe ręce”. Ostatnie zdanie głosiło: „Wskrzeszenie Państwa polskiego przy pomocy Austrii zapewni jej naturalnego i trwałego sprzymierzeńca”.
+
+Najważniejsze było to, czego w tekście nie napisano wprost. „Zjednoczona Polska” oznaczała ziemie wszystkich trzech zaborów, a więc także Wielkopolskę, Pomorze i Śląsk w granicach Niemiec, sojusznika Austro-Węgier. Słowa o dostępie do morza można było odnieść tylko do Gdańska i Pomorza. Uznanie sprawy polskiej za międzynarodową oznaczało, że o przyszłości Polski ma rozstrzygać przyszła konferencja pokojowa, a nie wyłącznie państwa centralne. Odwołanie do cesarza było zabiegiem ostrożności. Historyk Damian Szymczak uważa je co najwyżej za listek figowy, a niektórzy ówcześni politycy, jak odnotował w swoich zapiskach Jan Hupka, mieli je wręcz za „kpinę”.
+
+## Posiedzenie w Krakowie
+
+Na posiedzeniu 28 maja w sprawie wyodrębnienia Galicji przemawiał między innymi Daszyński. Tłumaczył, że jeśli wszystkie stronnictwa poparły kiedyś ten projekt, to tylko po to, „aby wyodrębnienie było pomostem do złączenia z resztą ziem polskich”. Ostrożnie nie wykluczał roli Austrii w przyszłości: Polska „wolna i zadowolona będzie podporą tronu austriackiego”. Za rezolucją głosowali ludowcy, socjaliści, narodowi demokraci i większość konserwatystów. Według relacji przytaczanych przez biografów Tetmajera przeciw byli tylko dwaj konserwatyści: [Dawid Abrahamowicz](https://pl.wikipedia.org/wiki/Dawid_Abrahamowicz) z obozu podolaków i książę [Andrzej Lubomirski](https://pl.wikipedia.org/wiki/Andrzej_Lubomirski), a część obecnych wstrzymała się od głosu. Witos wspominał, że był to „wielki, może największy dzień w życiu Tetmajera”, i nazywał go „kapłanem przy tym wielkim narodowym obrzędzie”. Wiadomość o uchwale przyjęto w Krakowie z entuzjazmem, a ludowy „Piast” opisał obrady jako „historyczne posiedzenie Koła Sejmowego”.
+
+## Znaczenie
+
+Rezolucja Koła Polskiego nie zmieniła niczego w położeniu Galicji, ale zamknęła pewien rozdział. Politycy, którzy przez całą wojnę budowali przyszłość Polski na sojuszu z Habsburgami, przyznali, że celem jest pełna niepodległość i zjednoczenie, a nie autonomia w ramach monarchii. Według Szymczaka było to de facto opowiedzenie się za niepodległością i Ententą, czego nie mogła ukryć prośba skierowana do cesarza. Galicyjscy Polacy, od pół wieku uchodzący za jedną z najbardziej lojalnych narodowości monarchii, zaczęli przechodzić do opozycji. Wyodrębnienia Galicji nikt już poważnie nie traktował. Bobrzyński odszedł z rządu na początku czerwca, a kilka tygodni później upadł cały gabinet austriacki.
+
+Rezolucja zapadła w przededniu ważnego wydarzenia w Wiedniu. 30 maja zebrała się po raz pierwszy od 1914 roku Rada Państwa, a przedstawiciele narodów monarchii, z Czechami na czele, wystąpili tam z własnymi deklaracjami. Głos polskich posłów był częścią tego szerszego zjawiska: narody Austro-Węgier coraz wyraźniej szukały przyszłości poza monarchią.

@@ -1,0 +1,43 @@
+---
+title: Pierwszy rząd koalicyjny w Rosji
+summary: 18 maja 1917 w Piotrogrodzie powstał rząd koalicyjny z sześcioma socjalistami. Kiereński objął ministerstwo wojny, a Tereszczenko sprawy zagraniczne.
+category: Polityka
+date: 1917-05-18
+authors: [Natalia]
+dayOrder: 1
+tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
+milestone: false
+draft: false
+---
+
+18 maja 1917 roku (5 maja według kalendarza juliańskiego) w Rosji powstał pierwszy rząd koalicyjny. Na czele [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) pozostał książę [Gieorgij Lwow](https://pl.wikipedia.org/wiki/Gieorgij_Lwow), ale do gabinetu weszło sześciu socjalistów, w tym przywódcy [Rady Piotrogrodzkiej](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich). Dotychczasowy minister sprawiedliwości [Aleksander Kiereński](https://pl.wikipedia.org/wiki/Aleksander_Kiereński) objął ministerstwo wojny i marynarki, a dotychczasowy minister finansów Michaił Tereszczenko sprawy zagraniczne. Następnego dnia rząd ogłosił deklarację programową, w której odrzucał odrębny pokój i jako cel wojny stawiał powszechny pokój bez aneksji i kontrybucji.
+
+Brytyjska chronologia wojny notuje nominacje Kiereńskiego i Tereszczenki pod 16 maja, a deklarację pod 19 maja. W rzeczywistości skład gabinetu uzgadniano do ostatniej chwili w dniach 15–18 maja, a ostatecznie zatwierdzono go 18 maja. Deklaracja nosi datę 6 maja st. st., czyli 19 maja.
+
+## Po kryzysie kwietniowym
+
+Do zmiany doprowadził [kryzys kwietniowy](/kryzys-kwietniowy). Demonstracje z 3 i 4 maja pokazały, że gabinet Lwowa nie ma w stolicy żadnej własnej siły i rządzi tylko dzięki tolerancji Rady. 9 maja (26 kwietnia st. st.) rząd ogłosił odezwę, w której ostrzegał przed widmem wojny domowej i anarchii i zapowiadał, że ponowi starania o poszerzenie swego składu o przedstawicieli tych „twórczych sił kraju”, które dotąd nie uczestniczyły w rządzeniu. Dzień później Lwow wysłał podobne pismo przewodniczącemu Rady, mienszewikowi [Nikolozowi Czcheidzemu](https://pl.wikipedia.org/wiki/Nikoloz_Czcheidze).
+
+Socjaliści długo się wahali. W marcu Komitet Wykonawczy Rady postanowił, że jego członkowie nie wejdą do rządu „burżuazyjnej” rewolucji, a Moskiewska Rada wciąż była przeciwna koalicji. Przeciw byli także bolszewicy. O zmianie stanowiska przesądził minister wojny [Aleksandr Guczkow](https://pl.wikipedia.org/wiki/Aleksandr_Guczkow). 12 maja (29 kwietnia st. st.), według części źródeł dzień później, podał się do dymisji, bo nie widział możliwości powstrzymania rozkładu armii. Rząd wytknął mu publicznie, że odchodząc w pojedynkę, zrzucił z siebie odpowiedzialność za losy Rosji. Wieczorem 14 maja na nadzwyczajnym posiedzeniu Komitetu Wykonawczego Kiereński odmalował ponury obraz rozprzężenia gospodarki i finansów i oświadczył, że państwo może uratować tylko rząd koalicyjny. Poparł go mienszewik [Irakli Cereteli](https://pl.wikipedia.org/wiki/Irakli_Cereteli), od powrotu z syberyjskiego zesłania nieformalny przywódca Rady. W głosowaniu imiennym za koalicją było 44 członków komitetu, przeciw 19, a 2 się wstrzymało. Przeciw głosowali bolszewicy i mienszewicy-internacjonaliści.
+
+15 maja (2 maja st. st.) z rządu odszedł [Pawieł Milukow](https://pl.wikipedia.org/wiki/Pawieł_Milukow), którego nota do sojuszników wywołała kryzys. Nie chciał oddać ministerstwa spraw zagranicznych, a pozostali ministrowie nie zamierzali go bronić. Jego partia, [kadeci](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna), pozostała jednak w gabinecie. Tego samego dnia zebranie Rady Piotrogrodzkiej poparło rokowania o koalicję: z ponad dwóch tysięcy delegatów przeciw głosowało nieco ponad stu. Targi o teki i o program trwały kilka dni. 18 maja nadzwyczajne zebranie Rady zatwierdziło wynik rokowań i kandydatów na ministrów. Rada zastrzegła, że jej przedstawiciele w rządzie będą przed nią odpowiadać.
+
+## Kto wszedł do rządu
+
+Socjalistów było sześciu. Kiereński i przywódca [eserowców](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów) [Wiktor Czernow](https://pl.wikipedia.org/wiki/Wiktor_Czernow), nowy minister rolnictwa, reprezentowali socjalistów-rewolucjonistów. [Mienszewików](https://pl.wikipedia.org/wiki/Mienszewicy) reprezentowali Cereteli, który wybrał mniej absorbujące ministerstwo poczt i telegrafów, by nadal kierować pracami Rady, oraz wiceprzewodniczący Rady Matwiej Skobielew, pierwszy minister pracy w historii Rosji. Ministrem aprowizacji został ludowy socjalista Aleksiej Pieszechonow, a ministrem sprawiedliwości, po Kiereńskim, adwokat Pawieł Pieriewierziew, zaliczany do tego samego, umiarkowanego nurtu.
+
+Z dawnego składu pozostali premier Lwow, który kierował też sprawami wewnętrznymi, kadeci Nikołaj Niekrasow (komunikacja), Aleksandr Manuiłow (oświata) i Andriej Szyngariow, który przeszedł z ministerstwa rolnictwa do finansów, a także przemysłowiec Aleksandr Konowałow (handel i przemysł), oberprokurator Świętego Synodu Władimir Lwow i kontroler państwowy Iwan Godniew. Tereszczenko, trzydziestojednoletni potentat cukrowy z Kijowa, nie należał do żadnej partii. Uchodził za człowieka, który zdoła pogodzić wierność sojusznikom z hasłami Rady. Tak powstał gabinet, w którym socjaliści mieli mniejszość tek, ale za ich plecami stała Rada, a więc i garnizon stolicy.
+
+## Deklaracja z 19 maja
+
+19 maja (6 maja st. st.) rząd ogłosił deklarację podpisaną przez wszystkich ministrów. Zaczynała się od zapowiedzi, że „przekształcony i wzmocniony nowymi przedstawicielami rewolucyjnej demokracji” rząd będzie urzeczywistniał idee wolności, równości i braterstwa. Pierwszy punkt dotyczył polityki zagranicznej. Rząd, „odrzucając w zgodzie z całym narodem wszelką myśl o odrębnym pokoju”, stawiał sobie za cel jak najszybsze osiągnięcie powszechnego pokoju, który nie miałby na celu panowania nad innymi narodami ani zaboru cudzych ziem: „pokoju bez [aneksji](https://pl.wikipedia.org/wiki/Aneksja) i [kontrybucji](https://pl.wikipedia.org/wiki/Kontrybucja), na zasadach samostanowienia narodów”. Zapowiadał też kroki w celu porozumienia się w tej sprawie z sojusznikami na podstawie [deklaracji z 9 kwietnia](/rzad-tymczasowy-o-celach-wojny). Była to formuła, której Milukow nie chciał użyć.
+
+Drugi punkt mówił o wojsku. Klęska Rosji i jej sojuszników byłaby źródłem największych nieszczęść i oddaliłaby powszechny pokój, dlatego rewolucyjna armia nie może pozwolić, by Niemcy rozbili sojuszników na zachodzie, a potem całą siłą uderzyli na Rosję. Najważniejszym zadaniem rządu miało być umacnianie demokratycznych zasad w armii i jej siły bojowej, w działaniach obronnych i zaczepnych. Dalsze punkty zapowiadały państwową kontrolę nad produkcją, transportem i podziałem towarów, ochronę pracy, przygotowanie reformy rolnej, o której miało rozstrzygnąć Zgromadzenie Ustawodawcze, wyższe podatki dla zamożnych, w tym od wojennych zysków, rozwój samorządu i jak najszybsze zwołanie [Zgromadzenia Ustawodawczego](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze). Na koniec rząd zastrzegał, że może skutecznie działać tylko przy „pełnym i bezwarunkowym zaufaniu” całego rewolucyjnego narodu i zapowiadał energiczne środki zarówno przeciw kontrrewolucji, jak i przeciw anarchii.
+
+## Kiereński w ministerstwie wojny
+
+Najważniejszą nominacją była teka Kiereńskiego. Trzydziestosześcioletni adwokat, najpopularniejszy wówczas polityk w Rosji, przejmował armię, w której po [rozkazie nr 1](/rozkaz-nr-1) dyscyplina topniała, a na froncie mnożyły się bratania z nieprzyjacielem. Deklaracja wspominała o działaniach zaczepnych nieprzypadkowo: sojusznicy naciskali na Rosję, by po kwietniowych ofensywach na zachodzie odciążyła ich front, a Kiereński liczył, że zwycięskie natarcie wzmocni rewolucję i rząd. Jeszcze w maju wyruszył na front, gdzie przemawiał do żołnierzy na wiecach, przygotowując natarcie znane później jako [ofensywa Kiereńskiego](https://pl.wikipedia.org/wiki/Ofensywa_Kiereńskiego).
+
+## Znaczenie
+
+Koalicja zakończyła okres otwartej rywalizacji rządu i Rady. Umiarkowani socjaliści wzięli teraz na siebie współodpowiedzialność za władzę, wojnę i rosnące trudności gospodarcze. W rządzie od początku istniał jednak rozdźwięk: liberałowie chcieli prowadzić wojnę do zwycięstwa i odkładać reformy do Zgromadzenia Ustawodawczego, socjaliści domagali się pokoju bez aneksji i szybkich zmian. Jedyną liczącą się partią socjalistyczną poza rządem zostali bolszewicy. Lenin drwił z „dziesięciu ministrów-kapitalistów” i mógł odtąd obarczać winą za wszystkie niepowodzenia nie tylko liberałów, ale i eserowców oraz mienszewików. Pierwsza koalicja przetrwała niespełna dwa miesiące. Rozpadła się w lipcu, po klęsce ofensywy i rozruchach w Piotrogrodzie.

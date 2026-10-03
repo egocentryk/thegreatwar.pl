@@ -290,6 +290,14 @@ export const BATTLE_PHASES = [
       "W 1916 roku front włoski przestał być wyłącznie areną włoskich natarć nad Isonzo. Szef austro-węgierskiego sztabu generalnego Franz Conrad von Hötzendorf od dawna chciał ukarać dawnego sojusznika za zmianę stron i w maju uderzył z Tyrolu przez płaskowyże Asiago i Lavarone, licząc na zejście w dolinę Padu i odcięcie armii włoskich nad Isonzo. Ofensywa, nazwana przez Austriaków ekspedycją karną, przyniosła początkowo znaczne zdobycze, ale utknęła na ostatnich grzbietach przed równiną, gdy Cadorna ściągnął nową armię odwodową, a na wschodzie ruszyła rosyjska ofensywa Brusiłowa.",
   },
   {
+    slug: "1917-front-wloski",
+    title: "1917: Front włoski",
+    front: "Front włoski",
+    dates: "od maja 1917",
+    intro:
+      "Po zdobyciu Gorycji w sierpniu 1916 roku i trzech jesiennych bitwach nad Isonzo generał Cadorna przygotowywał na wiosnę 1917 roku kolejne uderzenie. Alianci, zawiedzeni ofensywą Nivelle'a, liczyli, że Włosi zwiążą siły Austro-Węgier, i obiecywali ciężką artylerię. W maju i czerwcu Włosi zaatakowali na płaskowyżu Krasu i na wzgórzach nad Gorycją, a latem przygotowywali największą ze swoich ofensyw na płaskowyżu Bainsizza.",
+  },
+  {
     slug: "1914-wojna-na-morzu",
     title: "1914: Wojna na morzu",
     front: "Wojna na morzu",

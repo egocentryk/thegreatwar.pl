@@ -1,0 +1,19 @@
+---
+title: Nikaragua zrywa stosunki z Niemcami
+summary: 18 maja 1917 Kongres Nikaragui zerwał stosunki z Niemcami i pozwolił prezydentowi Chamorro oddać Stanom Zjednoczonym porty i wody terytorialne kraju.
+category: Dyplomacja
+date: 1917-05-18
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Ameryka Łacińska, Niemcy, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+18 maja 1917 roku Kongres [Nikaragui](https://pl.wikipedia.org/wiki/Nikaragua) uchwalił rezolucję, na mocy której ustały stosunki między Nikaraguą a Cesarstwem Niemieckim. Ta sama uchwała upoważniła prezydenta do zaoferowania Stanom Zjednoczonym na czas wojny portów i wód terytorialnych kraju. Następnego dnia chargé d'affaires w Waszyngtonie Joaquín Cuadra Zavala, na polecenie prezydenta, zawiadomił o tym sekretarza stanu [Roberta Lansinga](https://pl.wikipedia.org/wiki/Robert_Lansing). Dodał od siebie, że cieszy się, widząc swój rząd wspierający walkę o wolność i demokrację, którą tak szlachetnie prowadzą Stany Zjednoczone. W amerykańskim wydawnictwie dokumentów dyplomatycznych zerwanie figuruje pod datą tej noty, 19 maja.
+
+Prezydentem był od 1 stycznia 1917 roku konserwatysta [Emiliano Chamorro Vargas](https://pl.wikipedia.org/wiki/Emiliano_Chamorro_Vargas), wcześniej poseł w Waszyngtonie i człowiek, który zawdzięczał Amerykanom bardzo wiele. Stany Zjednoczone wspierały konserwatystów od obalenia liberalnego prezydenta José Santosa Zelayi w 1909 roku, a od interwencji w 1912 roku w [Managui](https://pl.wikipedia.org/wiki/Managua) stacjonował oddział amerykańskiej piechoty morskiej. Chamorro wynegocjował z sekretarzem stanu [Williamem Jenningsem Bryanem](https://pl.wikipedia.org/wiki/William_Bryan) traktat podpisany 5 sierpnia 1914 roku, a ratyfikowany w 1916 roku. Za 3 miliony dolarów Nikaragua oddała w nim Amerykanom wyłączne prawo do budowy kanału międzyoceanicznego przez swoje terytorium, dzierżawę wysp [Corn Islands](https://pl.wikipedia.org/wiki/Corn_Islands) na Morzu Karaibskim i prawo do założenia bazy morskiej nad [zatoką Fonseca](https://pl.wikipedia.org/wiki/Fonseca_(zatoka)). [Kostaryka](https://pl.wikipedia.org/wiki/Kostaryka) i [Salwador](https://pl.wikipedia.org/wiki/Salwador) zaskarżyły traktat przed Środkowoamerykańskim Trybunałem Sprawiedliwości i w latach 1916–1917 trybunał przyznał im rację, ale Managua i Waszyngton nie podporządkowały się wyrokom.
+
+Wobec takiej zależności zerwanie z Niemcami było tylko kwestią czasu. 18 kwietnia, po [wypowiedzeniu wojny przez Stany Zjednoczone](/usa-wypowiadaja-wojne-niemcom), minister spraw zagranicznych w imieniu Chamorra zapewnił amerykańskie poselstwo o „całkowitej sympatii” dla Amerykanów. Gdy [Gwatemala zerwała stosunki z Niemcami](/gwatemala-zrywa-stosunki-z-niemcami) i oddała Amerykanom swoje wody, porty i koleje, Departament Stanu dał nikaraguańskiemu dyplomacie do zrozumienia, że oczekuje podobnego kroku. 10 maja Chamorro wezwał amerykańskiego posła Benjamina Jeffersona i poprosił o potwierdzenie oraz o wskazanie, co powinien zawierać dekret, bo Kongres miał się rozejść w następnym tygodniu. Lansing odpowiedział 11 maja, że Waszyngton z zadowoleniem przyjmie działanie takie jak gwatemalskie. Tydzień później Kongres podjął uchwałę.
+
+Nikaragua nie miała ani armii zdolnej do udziału w wojnie, ani floty. Jej porty i wody na Pacyfiku i Morzu Karaibskim miały jednak pewne znaczenie dla obrony podejść do [Kanału Panamskiego](https://pl.wikipedia.org/wiki/Kanał_Panamski). 25 maja minister spraw zagranicznych przyjął zaproszenie Argentyny na naradę państw Ameryki Łacińskiej w sprawie wojny, ale od razu poinformował Buenos Aires o polityce przyjętej „na rzecz Stanów Zjednoczonych”. 2 czerwca Lansing przyjął nikaraguańską ofertę i przekazał Chamorrze podziękowania. Wojnę Niemcom Nikaragua wypowiedziała 8 maja 1918 roku, według części zestawień jednocześnie także Austro-Węgrom.
