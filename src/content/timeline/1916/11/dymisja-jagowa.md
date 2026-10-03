@@ -1,0 +1,29 @@
+---
+title: Dymisja Jagowa
+summary: 22 listopada 1916 z kierownictwa niemieckiej dyplomacji odszedł Gottlieb von Jagow. Oficjalnie chodziło o zdrowie, w istocie o spór o wojnę podwodną.
+category: Polityka
+date: 1916-11-22
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Niemcy, okręty podwodne, Theobald von Bethmann Hollweg, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+22 listopada 1916 roku cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) udzielił dymisji [Gottliebowi von Jagowowi](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow), od stycznia 1913 roku sekretarzowi stanu w niemieckim Urzędzie Spraw Zagranicznych (Auswärtiges Amt), czyli w praktyce ministrowi spraw zagranicznych Rzeszy. Następcą został dotychczasowy podsekretarz stanu Arthur Zimmermann. Tę datę podaje większość niemieckich opracowań i wykazów urzędników. Brytyjska chronologia wojny notuje ustąpienie Jagowa już pod 20 listopada. Oficjalnie Jagow odchodził z powodu złego stanu zdrowia. Za tą wersją kryła się jednak porażka w sporze, który od miesięcy dzielił niemieckie władze: czy rozpocząć nieograniczoną wojnę podwodną i zaryzykować wojnę ze Stanami Zjednoczonymi.
+
+## Dyplomata wbrew sobie
+
+Jagow urodził się w 1863 roku w Berlinie w starej szlacheckiej rodzinie z Brandenburgii. Od 1895 roku był dyplomatą, przez ponad dziesięć lat pracował w ambasadzie w Rzymie, potem był posłem w Luksemburgu, a od 1909 roku ambasadorem we Włoszech. W styczniu 1913 roku, po nagłej śmierci Alfreda von Kiderlen-Waechtera, cesarz powołał go na sekretarza stanu. Według niemieckiego biografa Hellmuta Seiera Jagow przyjął urząd niechętnie i znał swoje ograniczenia. Był drobny, chorowity i uchodził za mało stanowczego. Źle przemawiał i stronił od parlamentu. Sekretarz stanu nie był samodzielnym ministrem, lecz wykonawcą polityki kanclerza, a Jagow, bliski współpracownik [Theobalda von Bethmanna Hollwega](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg), tak właśnie rozumiał swoją rolę. Latem 1914 roku współtworzył kurs, który dał Austro-Węgrom wolną rękę wobec Serbii, i razem z kanclerzem [odrzucił brytyjską propozycję konferencji](/rzad-niemiecki-odrzuca-brytyjska-propozycje-konferencji). Liczył, że Rosja ustąpi, a wojna ograniczy się do Bałkanów.
+
+W czasie wojny Jagow sprzeciwiał się skrajnym planom aneksyjnym. Wolał wizję Europy Środkowej pod przewodem Niemiec i pośrednie formy panowania. W sprawie polskiej skłaniał się najpierw ku rozwiązaniu austro-polskiemu, czyli połączeniu Królestwa Polskiego z monarchią habsburską, później ku autonomicznej Polsce pod kontrolą niemiecką oraz przyłączeniu Litwy i Kurlandii. Odchodził nieco ponad dwa tygodnie po ogłoszeniu [aktu 5 listopada](/akt-5-listopada), który zapowiadał utworzenie Królestwa Polskiego. Najważniejszym jego zmartwieniem były jednak Stany Zjednoczone. Za największy błąd, jaki Niemcy mogłyby popełnić, uważał nieograniczoną wojnę podwodną, która musiała doprowadzić do zerwania z Ameryką. To on wiosną 1916 roku przyjmował od ambasadora amerykańskiego [notę w sprawie Sussexa](/nota-usa-w-sprawie-sussexa), po której Niemcy ograniczyli działania okrętów podwodnych.
+
+## Nacisk wojska i Reichstagu
+
+Jesienią 1916 roku zwolennicy wojny podwodnej byli coraz silniejsi. Od końca sierpnia armią kierowali [Hindenburg i Ludendorff](/hindenburg-szefem-sztabu-generalnego), którzy z miesiąca na miesiąc zyskiwali większy wpływ na politykę Rzeszy. Admiralicja przekonywała, że okręty podwodne zmuszą Wielką Brytanię do kapitulacji w ciągu kilku miesięcy. 7 października frakcja [Centrum](https://pl.wikipedia.org/wiki/Niemiecka_Partia_Centrum), druga co do wielkości partia w Reichstagu po socjaldemokratach, przyjęła rezolucję, według której kanclerz w sprawie wojny podwodnej powinien się opierać przede wszystkim na zdaniu Naczelnego Dowództwa. Gdyby postanowił ją rozpocząć, mógł liczyć na poparcie Reichstagu. W prasie i w parlamencie narastała krytyka Jagowa. Ambasador amerykański w Berlinie James W. Gerard wspominał, że kampanię przeciw niemu rozpętali ci, którzy zarzucali mu, iż odpowiadając na pytania w Reichstagu, zbyt słabo broni polityki rządu. Jagow nie zabiegał o względy posłów, a delikatne zdrowie nie pozwalało mu robić nic ponad codzienne obowiązki urzędu.
+
+Seier ocenia, że gdy Jagow próbował zapobiec nieograniczonej wojnie podwodnej i zerwaniu z Ameryką, otrzymał dymisję pod pretekstem. Bethmann Hollweg publicznie podtrzymywał wersję o chorobie. 28 listopada w wywiadzie dla amerykańskiego dziennikarza Williama Bayarda Hale’a mówił, że utrata „oddanego, utalentowanego i wybitnego” Jagowa napawa rząd szczerym smutkiem, ale z powodu ciężkiej choroby sekretarz stanu od kilku miesięcy pragnął odejść, by poratować zdrowie. Awans Zimmermanna, który od trzech i pół roku był jego najbliższym współpracownikiem, miał według kanclerza oznaczać kontynuację tej samej polityki. Kanclerz odpowiadał w ten sposób na uwagę rozmówcy, że zmiana na czele niemieckiej dyplomacji z pewnością zwróci uwagę w Stanach Zjednoczonych. Tekst wywiadu, pięciokrotnie poprawiany w urzędzie kanclerza, przesłał do Waszyngtonu amerykański chargé d’affaires w Berlinie Joseph Grew. Gerard uważał później, że Jagow trafniej oceniał obce narody i lepiej odgadywał nastroje Amerykanów niż jego następca.
+
+## Co dalej
+
+Jagow nie wrócił już do wielkiej polityki. Według Gerarda objął kierownictwo szpitala w [Lipawie](https://pl.wikipedia.org/wiki/Lipawa) na okupowanych ziemiach rosyjskich. Został członkiem pruskiej Izby Panów, a po wojnie w książce „Ursachen und Ausbruch des Weltkrieges” (1919) bronił polityki niemieckiej z lata 1914 roku. Zmarł w 1935 roku w Poczdamie. Jego obawy się sprawdziły. W styczniu 1917 roku cesarz, za radą wojska i admiralicji, zgodził się na nieograniczoną wojnę podwodną od 1 lutego, a w kwietniu Stany Zjednoczone wypowiedziały Niemcom wojnę.

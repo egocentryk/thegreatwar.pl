@@ -83,7 +83,7 @@ Jesienią Niemcy zaczęli zmieniać sposób obrony. Coraz częściej obsadzali p
 
 ## Straty
 
-Liczby strat nad Sommą od dawna budzą spory. Według brytyjskiej historii oficjalnej armia brytyjska straciła do końca listopada 1916 roku 419 654 zabitych, rannych, zaginionych i jeńców, a francuska 204 253. Liczba strat niemieckich jest najbardziej sporna. Tabele niemieckiej historii oficjalnej, liczone według dywizji, dają około 465 tysięcy, a sama historia mówi o „około 500 tysiącach”. Autor brytyjskiej historii oficjalnej, generał James Edmonds, przekonywał, że Niemcy zaniżali straty, i podawał 680 tysięcy, ale większość historyków uważa tę liczbę za zawyżoną. Współczesne szacunki mieszczą się najczęściej w przedziale od około 430 do 600 tysięcy. Łącznie obie strony straciły ponad milion ludzi, w tym kilkaset tysięcy zabitych.
+Liczby strat nad Sommą od dawna budzą spory. Według brytyjskiej historii oficjalnej armia brytyjska straciła do końca listopada 1916 roku 419 654 zabitych, rannych, zaginionych i jeńców, a francuska 204 253. Liczba strat niemieckich jest najbardziej sporna. Tabele niemieckiej historii oficjalnej, liczone według dywizji, dają około 465 tysięcy, a sama historia mówi o „około 500 tysiącach”. Brytyjska historia oficjalna przekonywała, że Niemcy zaniżali straty: Wilfrid Miles w tomie z 1938 roku podawał 660–680 tysięcy, ale większość historyków uważa tę liczbę za zawyżoną. Współczesne szacunki mieszczą się najczęściej w przedziale od około 430 do 600 tysięcy. Łącznie obie strony straciły ponad milion ludzi, w tym kilkaset tysięcy zabitych.
 
 Za tę cenę alianci posunęli się w najdalszym miejscu o około dziesięciu kilometrów. Nie zdobyli Bapaume ani Péronne, które miały być celem pierwszych dni ofensywy.
 

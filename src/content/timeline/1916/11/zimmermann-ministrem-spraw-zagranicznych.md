@@ -1,0 +1,25 @@
+---
+title: Zimmermann ministrem spraw zagranicznych
+summary: 22 listopada 1916 niemiecką dyplomacją pokierował Arthur Zimmermann z Olecka, pierwszy w historii mieszczanin na czele Urzędu Spraw Zagranicznych Rzeszy.
+category: Dyplomacja
+date: 1916-11-22
+authors: [Natalia]
+dayOrder: 1
+tags: [Niemcy, Stany Zjednoczone, okręty podwodne]
+milestone: false
+draft: false
+---
+
+22 listopada 1916 roku, w dniu [dymisji Gottlieba von Jagowa](/dymisja-jagowa), niemieckim ministrem spraw zagranicznych został dr [Arthur Zimmermann](https://pl.wikipedia.org/wiki/Arthur_Zimmermann). Formalnie objął stanowisko sekretarza stanu w Urzędzie Spraw Zagranicznych, bo w Rzeszy za politykę zagraniczną odpowiadał kanclerz, a sekretarz stanu był jego wykonawcą. Tę datę nominacji podaje większość opracowań. Brytyjska chronologia wojny notuje ją pod 21 listopada, a część źródeł mówi o 24 lub 25 listopada, co zapewne odpowiada dniom formalnego zatwierdzenia i ogłoszenia nominacji. Zimmermann miał 52 lata i od pięciu lat był w urzędzie drugą osobą po sekretarzu stanu.
+
+## Konsul z Mazur
+
+Zimmermann urodził się 5 października 1864 roku w Marggrabowej, dzisiejszym [Olecku](https://pl.wikipedia.org/wiki/Olecko), w [Prusach Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie). Studiował prawo w [Królewcu](https://pl.wikipedia.org/wiki/Królewiec) i Lipsku, a w 1893 roku wstąpił do służby zagranicznej. Nie przeszedł jednak typowej drogi arystokratycznych dyplomatów przez ambasady, lecz zaczynał w służbie konsularnej w Chinach. Był wicekonsulem w [Szanghaju](https://pl.wikipedia.org/wiki/Szanghaj), [Kantonie](https://pl.wikipedia.org/wiki/Kanton_(Chiny)) i [Tiencinie](https://pl.wikipedia.org/wiki/Tiencin), gdzie wyróżnił się w czasie [powstania bokserów](https://pl.wikipedia.org/wiki/Powstanie_bokserów). W 1902 roku przeszedł do centrali w Berlinie, w 1910 roku został dyrektorem wydziału politycznego, a w 1911 roku podsekretarzem stanu. Ponieważ Jagow był chorowity i niechętnie występował publicznie, od lat to Zimmermann prowadził wiele rozmów z zagranicznymi dyplomatami. W lipcu 1914 roku, gdy Jagow był w podróży poślubnej, brał udział w rozmowach z wysłannikiem Wiednia, po których Niemcy zapewniły Austro-Węgrom poparcie wobec Serbii.
+
+Jego nominacja była przełomem. Zimmermann pochodził z zamożnej mieszczańskiej rodziny i jako pierwszy człowiek bez szlacheckiego pochodzenia, a do tego wywodzący się ze służby konsularnej, stanął na czele Urzędu Spraw Zagranicznych. Ambasador amerykański James W. Gerard wspominał, że najwyższe urzędy od lat obsadzała pruska szlachta, więc w całych Niemczech przyjęto tę nowość „z najwyższym zdumieniem”. Według Gerarda Zimmermann, swobodny i bezpośredni w obejściu, był bardziej lubiany przez ambasadorów i posłów do Reichstagu niż jego wytworny, zdystansowany poprzednik. Miał też jednak gwałtowny temperament. W 1915 roku, w czasie sporu o wojnę podwodną po [zatopieniu Lusitanii](/zatopienie-lusitanii), uderzając pięścią w stół, mówił Gerardowi, że Stany Zjednoczone nie odważą się wystąpić przeciw Niemcom, bo w Ameryce jest pół miliona niemieckich rezerwistów, którzy chwycą za broń. Gerard odparł, że w Ameryce jest pół miliona i jedna latarnia i na nich skończą rezerwiści, gdyby spróbowali powstania.
+
+## Kontynuacja czy zwrot
+
+Kanclerz [Theobald von Bethmann Hollweg](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg) zapewniał, że awans Zimmermanna oznacza dalsze prowadzenie tej samej polityki, tyle że z nową energią. W rzeczywistości nowy sekretarz stanu uchodził za człowieka bliższego Naczelnemu Dowództwu [Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) i [Ludendorffa](https://pl.wikipedia.org/wiki/Erich_Ludendorff) niż Jagow, który odszedł po przegranym sporze o wojnę podwodną. Już wcześniej, jako podsekretarz stanu, popierał plany podburzania przeciw Entencie narodów i ruchów rewolucyjnych. W 1914 roku rozmawiał między innymi z irlandzkim nacjonalistą [Rogerem Casementem](https://pl.wikipedia.org/wiki/Roger_Casement), który zabiegał w Berlinie o niemiecką pomoc dla powstania w Irlandii. Gerard, który dobrze znał obu, oceniał po latach, że Jagow trafniej rozumiał Amerykanów niż jego następca.
+
+Nominacja przypadła w chwili przełomowej. Dwa tygodnie wcześniej [Woodrow Wilson wygrał wybory](/wilson-ponownie-prezydentem), a w Berlinie przygotowywano ofertę pokojową państw centralnych, ogłoszoną 12 grudnia. Gdy Ententa ją odrzuciła, Zimmermann poparł rozpoczęcie nieograniczonej wojny podwodnej od 1 lutego 1917 roku. W styczniu 1917 roku wysłał do niemieckiego posła w Meksyku zaszyfrowaną depeszę, w której na wypadek wojny ze Stanami Zjednoczonymi proponował Meksykowi sojusz i odzyskanie Teksasu, Nowego Meksyku i Arizony. Brytyjczycy ją przechwycili i odczytali, a ogłoszenie [telegramu Zimmermanna](https://pl.wikipedia.org/wiki/Telegram_Zimmermanna) w marcu 1917 roku przyczyniło się do przystąpienia Ameryki do wojny. Zimmermann sam przyznał publicznie, że depesza jest autentyczna. Stracił stanowisko w sierpniu 1917 roku, wkrótce po upadku Bethmanna Hollwega.
