@@ -114,6 +114,14 @@ export const BATTLE_PHASES = [
       "1 lipca 1916 roku armie brytyjska i francuska uderzyły na niemieckie pozycje po obu stronach rzeki Sommy w Pikardii. Ofensywę planowano od grudnia 1915 roku jako główny wspólny wysiłek aliantów na froncie zachodnim, a po wybuchu bitwy pod Verdun miała także odciążyć Francuzów. Po tygodniowym ostrzale artyleryjskim brytyjska piechota, w dużej części ochotnicy z Nowych Armii Kitchenera, ruszyła do ataku i już pierwszego dnia poniosła największe straty w historii armii brytyjskiej. Bitwa przerodziła się w trwające do listopada wyniszczające zmagania o kolejne lasy, wzgórza i wioski, w których po stronie brytyjskiej walczyli też Australijczycy, Nowozelandczycy, Kanadyjczycy i Południowoafrykańczycy, a we wrześniu po raz pierwszy w historii użyto czołgów.",
   },
   {
+    slug: "1917-front-zachodni",
+    title: "1917: Front zachodni",
+    front: "Front zachodni",
+    dates: "od lutego 1917",
+    intro:
+      "Na początku 1917 roku obie strony wyciągnęły wnioski z rzezi pod Verdun i nad Sommą. Niemcy, nie mając sił na kolejną taką bitwę, wycofali się na nową, silnie umocnioną Linię Hindenburga, skracając front i zostawiając za sobą spustoszony pas ziemi. Alianci przygotowywali wielką wiosenną ofensywę: nowy francuski wódz naczelny, generał Nivelle, obiecywał przełamanie frontu w ciągu dwóch dni, a Brytyjczycy mieli go wesprzeć natarciem pod Arras. Jednocześnie wypowiedzenie nieograniczonej wojny podwodnej popchnęło do wojny Stany Zjednoczone, których wojska miały się pojawić na froncie dopiero za kilka miesięcy.",
+  },
+  {
     slug: "1914-pierwsza-inwazja-na-serbie",
     title: "1914: Pierwsza inwazja na Serbię",
     front: "Front bałkański",
