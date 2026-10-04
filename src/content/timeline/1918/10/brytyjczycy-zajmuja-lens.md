@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front zachodni
 date: 1918-10-03
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 4
 tags: [Wielka Brytania, Niemcy, Francja, okupacja niemiecka]
 milestone: false
 draft: false

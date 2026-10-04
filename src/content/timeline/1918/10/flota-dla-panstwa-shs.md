@@ -1,0 +1,20 @@
+---
+title: Flota dla Państwa SHS
+summary: 31 października 1918 w Puli Horthy przekazał flotę austro-węgierską delegatom Rady Narodowej Słoweńców, Chorwatów i Serbów. Dowództwo objął Janko Vuković.
+category: Wojsko
+front: Wojna na morzu
+date: 1918-10-31
+authors: [Natalia]
+dayOrder: 2
+tags: [Austro-Węgry, Włochy, Morze Śródziemne, Karol I Habsburg]
+milestone: false
+draft: false
+---
+
+31 października 1918 roku po południu na pokładzie drednota [Viribus Unitis](https://pl.wikipedia.org/wiki/SMS_Viribus_Unitis) w [Puli](https://pl.wikipedia.org/wiki/Pula) dowódca floty austro-węgierskiej, kontradmirał [Miklós Horthy](https://pl.wikipedia.org/wiki/Miklós_Horthy), przekazał okręty przedstawicielom [Rady Narodowej Słoweńców, Chorwatów i Serbów](https://pl.wikipedia.org/wiki/Rada_Narodowa_Słoweńców,_Chorwatów_i_Serbów). Ceremonia, zgodnie z życzeniem Horthyego, zaczęła się około godziny 17. Z masztów zeszła bandera [cesarsko-królewskiej marynarki wojennej](https://pl.wikipedia.org/wiki/Kaiserliche_und_Königliche_Kriegsmarine), a jej miejsce zajęła trójkolorowa flaga. Według chorwackich opracowań była to chorwacka trójbarwna, którą powitano hymnem „Lijepa naša domovino”, a marynarze słoweńscy i serbscy wywiesili też własne flagi. Delegatów zagrzebskiej Rady prowadził Vilim Bukšeg, jej komisarz do spraw opieki społecznej.
+
+Decyzję podjął dzień wcześniej w Wiedniu cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg). 30 października podpisał rozkaz, na mocy którego flota wojenna wraz z portami, fortyfikacjami i urządzeniami miała przejść na własność Rady Narodowej w Zagrzebiu, która 29 października [ogłosiła powstanie Państwa Słoweńców, Chorwatów i Serbów](/niepodleglosc-panstwa-shs). Flotylla dunajska przypadła Węgrom. Rozkaz trafił do dowództwa floty, do komend portów wojennych w Puli i w [Kotorze](https://pl.wikipedia.org/wiki/Kotor) oraz do komend morskich w Trieście, Fiume i [Szybeniku](https://pl.wikipedia.org/wiki/Szybenik). Marynarze, którzy nie byli Słowianami południowymi, mogli na własną prośbę wrócić do domu na bezterminowym urlopie. Cesarz liczył, że okręty nie dostaną się w ręce zwycięzców, a zwłaszcza Włoch, bo nowe państwo ogłosiło neutralność. Inne państwa powstające na gruzach monarchii, które też łożyły na budowę floty, miały otrzymać odszkodowanie później. Podobne przekazania odbyły się w Szybeniku i w [Zatoce Kotorskiej](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), gdzie w lutym [zbuntowali się marynarze](/bunt-w-kotorze).
+
+Rada Narodowa nie miała gotowego kandydata na dowódcę. Według większości relacji w Puli zaakceptowano propozycję Horthyego, a według włoskich opracowań wybór padł już dzień wcześniej. Dowództwo floty objął kapitan liniowy Janko Vuković de Podkapelski, Chorwat, dotąd dowódca Viribus Unitis, mianowany kontradmirałem. Dowódcą całej marynarki nowego państwa Rada mianowała w Zagrzebiu emerytowanego kontradmirała Dragutina Pricę. Viribus Unitis został okrętem flagowym, według części źródeł pod nową nazwą „Jugoslavija”. Horthy jeszcze tego samego dnia wyjechał pociągiem w głąb kraju, a wraz z nim wielu niemieckich i węgierskich oficerów i marynarzy. Na okrętach w Puli zostali głównie Chorwaci, Słoweńcy i Czesi. Południowi Słowianie stanowili zaledwie nieco ponad jedną trzecią załóg, a jeszcze mniej było ich wśród oficerów i specjalistów, więc wiele okrętów nie miało komu obsadzić.
+
+Rada Narodowa zawiadomiła państwa Ententy, że przejęła flotę i nie prowadzi z nimi wojny, ale ani Włosi, ani ich sojusznicy nie uznali przekazania. Nie wiedzieli o nim także dwaj włoscy oficerowie, Raffaele Rossetti i Raffaele Paolucci, którzy wieczorem 31 października wypłynęli z Wenecji, by na [żywej torpedzie Mignatta](https://pl.wikipedia.org/wiki/Mignatta) zaatakować okręty w Puli. Nad ranem 1 listopada podłożyli ładunek pod Viribus Unitis. O 6.44 drednot wyleciał w powietrze i zatonął, a wraz z nim zginął Vuković i, według różnych szacunków, od kilkudziesięciu do około 400 marynarzy. Rozejm w Villa Giusti z 3 listopada potraktował całą flotę jako własność pokonanej monarchii, którą trzeba wydać zwycięzcom, i marynarka Państwa SHS istniała odtąd głównie na papierze.

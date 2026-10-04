@@ -1,0 +1,20 @@
+---
+title: Bitwa pod Duszakiem
+summary: 14 października 1918 Pendżabczycy i indyjscy kawalerzyści zdobyli stację Duszak w Zakaspiu. Ponieśli ciężkie straty, ale bolszewicy wkrótce się cofnęli.
+category: Działania zbrojne
+front: Bliski Wschód
+date: 1918-10-14
+authors: [Natalia]
+dayOrder: 1
+tags: [Indie Brytyjskie, Wielka Brytania, Rosja]
+milestone: false
+draft: false
+---
+
+14 października 1918 roku wojska antybolszewickiego rządu w Zakaspiu i oddziały indyjskie zaatakowały pozycje bolszewików pod stacją Duszak. Duszak leży na kolei z [Aszchabadu](https://pl.wikipedia.org/wiki/Aszchabad) do [Merwu](https://pl.wikipedia.org/wiki/Mary_(Turkmenistan)), między [Kaachką](https://pl.wikipedia.org/wiki/Kaka_(Turkmenistan)) a [Tedżenem](https://pl.wikipedia.org/wiki/Tedżen), i stały tam wojska bolszewików z Taszkentu. Datę 14 października podają brytyjska historia oficjalna F.J. Moberly'ego, rosyjskie opracowania i większość nowszych prac. Charles Ellis, oficer brytyjskiej misji, który opisał później te walki, pisze, że kolumna wyruszyła przez pustynię w nocy 12 października, a atak nastąpił o świcie, co wskazywałoby na 13 października. Brytyjska chronologia wojny notuje „akcję pod Duszakiem” pod 12 października.
+
+Po odparciu bolszewików [pod Kaachką](/starcie-pod-kaachka) generał Wilfrid Malleson, szef brytyjskiej misji w [Meszhedzie](https://pl.wikipedia.org/wiki/Meszhed), postanowił przejść do natarcia i odepchnąć przeciwnika za Merw. Jego oddział na froncie wzmocniła na początku września bateria brytyjskiej artylerii polowej, a pod koniec miesiąca dwa szwadrony indyjskiego 28 Pułku Kawalerii. Główną kolumnę tworzyły dwie kompanie 19 Pułku Pendżabskiego, około 400 rosyjskich i ormiańskich piechurów rządu zakaspijskiego i podobna liczba piechoty turkmeńskiej, z brytyjską baterią i dwoma rosyjskimi działami. Indyjska kawaleria szła południem, pod osłoną wzgórz, a turkmeńscy konni mieli obejść stację i przeciąć tor za jej plecami. Kompania pułku Hampshire została w odwodzie w Kaachce. Według Ellisa w całym Zakaspiu było wtedy nie więcej niż około 500 brytyjskich i indyjskich żołnierzy.
+
+Zaskoczenie się nie udało. Przed świtem dwa patrole Pendżabczyków wpadły na siebie w ciemności i zaczęły do siebie strzelać, co zaalarmowało czerwonych. Mimo to atak ruszył. Na otwartym terenie natarcie dostało się pod ogień karabinów maszynowych z okopów i rowów nawadniających. Zakaspijczycy zalegli, a turkmeńska piechota rozpierzchła się po pustyni. Pendżabczycy, wspierani ogniem baterii, natarli na bagnety i w kilka minut wyparli przeciwnika z linii, zdobywając sześć dział i szesnaście karabinów maszynowych. Uciekających bolszewików dopadła kawaleria indyjska. Jeden z pocisków trafił w wagon z amunicją na stacji, a eksplozja zniszczyła budynki i stojące obok pociągi, zabijając wielu żołnierzy przeciwnika. Wtedy jednak żołnierze rządu zakaspijskiego i Turkmeni rzucili się do rabowania pociągów. Bolszewicy, wzmocnieni posiłkami z Tedżenu, kontratakowali przy wsparciu [pociągów pancernych](https://pl.wikipedia.org/wiki/Pociąg_pancerny). Pendżabczycy, choć wykrwawieni, ponownie uderzyli na bagnety, a kawaleria pomogła odrzucić przeciwnika. Ze względu na rozprzężenie sojuszników dowódcy postanowili jednak nie ścigać czerwonych. Wieczorem cała kolumna z rannymi wróciła do Kaachki.
+
+Straty indyjskich oddziałów były bardzo ciężkie. 19 Pułk Pendżabski stracił wszystkich brytyjskich oficerów zabitych lub rannych, a według Ellisa także 47 zabitych i 139 rannych żołnierzy. Moberly podaje łącznie 186 zabitych i rannych w tym pułku i 17 w 28 Pułku Kawalerii. Straty bolszewików Brytyjczycy oceniali na około tysiąc zabitych i rannych, głównie od eksplozji. Inni autorzy podają ostrożniej ponad 500. Kilka dni później czerwoni opuścili Duszak i cofnęli się do Tedżenu, a pod koniec października także z Merwu, w stronę [Czardżuja](https://pl.wikipedia.org/wiki/Türkmenabat) nad Amu-darią. Wojska zakaspijskie z oddziałem indyjskim zajęły Merw 1 listopada. Rząd Indii zabronił jednak Brytyjczykom iść dalej, a radzieccy historycy przedstawiali potem bitwę pod Duszakiem jako zwycięstwo bolszewików.

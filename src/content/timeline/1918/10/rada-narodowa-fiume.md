@@ -1,0 +1,21 @@
+---
+title: Rada Narodowa Fiume
+summary: Pod koniec października 1918 Węgrzy opuścili Fiume. Władzę objął tam komisarz Państwa SHS, a włoska Rada Narodowa ogłosiła 30 października unię z Włochami.
+category: Polityka
+date: 1918-10-30
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Austro-Węgry, Włochy, polityka wewnętrzna]
+milestone: false
+draft: false
+---
+
+30 października 1918 roku w Fiume, dzisiejszej [Rijece](https://pl.wikipedia.org/wiki/Rijeka), działały dwie władze, które powoływały się na to samo prawo narodów do samostanowienia. Rano w dawnym pałacu węgierskiego gubernatora komisarz zagrzebskiej Rady Narodowej Słoweńców, Chorwatów i Serbów ogłosił, że w jej imieniu obejmuje władzę państwową w mieście, i wywiesił na gmachu chorwacką flagę. Tego samego dnia Włoska Rada Narodowa Fiume, utworzona przez włoskich radnych miejskich, proklamowała połączenie miasta z Włochami. Brytyjska chronologia wojny zapisała pod tą datą oba wydarzenia: przekazanie Fiume Chorwatom przez władze węgierskie i ogłoszenie przez „Radę Narodową” niepodległości i woli unii z Włochami.
+
+Fiume było szczególnym miastem monarchii. Od czasów Marii Teresy stanowiło odrębne ciało (*corpus separatum*) Korony Świętego Stefana, podlegające bezpośrednio rządowi w Budapeszcie, a nie władzom chorwackim. Było głównym portem Węgier i ważnym ośrodkiem przemysłu stoczniowego. Według spisu z 1910 roku blisko połowa z około 50 tysięcy mieszkańców posługiwała się językiem włoskim, a mniej więcej jedna trzecia chorwackim. Za rzeką Rječiną leżał jednak chorwacki Sušak, a całe okoliczne wybrzeże zamieszkiwali Chorwaci. [Traktat londyński](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) z 1915 roku obiecywał Włochom Istrię i część Dalmacji, ale Fiume pozostawiał poza ich granicami.
+
+Węgierskie panowanie skończyło się w ciągu tygodnia. 23 października [zbuntowali się](/ostateczna-dymisja-wekerlego) chorwaccy żołnierze z 79 pułku piechoty. Według telegramu odczytanego w węgierskim parlamencie rozbroili węgierskich honwedów, zajęli dworzec i budynki publiczne i wywiesili chorwackie flagi. W nocy z 28 na 29 października ostatni węgierski gubernator Zoltán Jekelfalussy przekazał swoje uprawnienia burmistrzowi Antoniowi Vio, z zastrzeżeniem, że następnego dnia mają przejść na chorwacki komitet narodowy, podległy Radzie Narodowej w Zagrzebiu, i opuścił miasto. 29 października przedstawiciele Chorwatów zajęli pałac gubernatora, a [chorwacki Sabor](/niepodleglosc-panstwa-shs) ogłosił, że Chorwacja razem z Rijeką zrywa więzi z Węgrami. 30 października o dziewiątej rano komisarz Konstantin Rojčević powołał się w spisanym protokole na tę uchwałę i objął władzę w imieniu Rady Narodowej. Według włoskiego historyka Danila Massagrandego chorwacka władza nie sięgała jednak wiele dalej niż pałac, kapitanat portu i dworzec.
+
+Włosi z Fiume nie zamierzali się na to godzić. Wieczorem 29 października poszerzona rada miejska przekształciła się w komitet narodowy, wkrótce nazwany Włoską Radą Narodową, której przewodniczącym wybrano lekarza Antonia Grossicha, chirurga znanego z wprowadzenia nalewki jodowej do odkażania skóry przed operacją. 30 października Rada ogłosiła, że Fiume, dotąd odrębne ciało stanowiące włoską gminę narodową, korzysta z prawa narodów do samostanowienia i na tej podstawie proklamuje swoje połączenie z Włochami. Rada uznała stan rzeczy za tymczasowy, oddała swoją decyzję pod opiekę Ameryki i oczekiwała jej zatwierdzenia przez konferencję pokojową.
+
+Przez kilka dni w mieście trwała dwuwładza. Na początku listopada do portu wpłynęły włoskie okręty, w połowie miesiąca wkroczyły wojska włoskie, a później także oddziały amerykańskie, brytyjskie i francuskie. Chorwacki komitet się rozwiązał, a Włoska Rada Narodowa rządziła miastem pod osłoną włoskiej armii. Sprawa Fiume stała się jednym z najostrzejszych sporów [konferencji pokojowej w Paryżu](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)). We wrześniu 1919 roku miasto zajęli ochotnicy poety [Gabriele D’Annunzia](https://pl.wikipedia.org/wiki/Gabriele_D’Annunzio). W 1920 roku Włochy i Królestwo Serbów, Chorwatów i Słoweńców uznały [Wolne Miasto Fiume](https://pl.wikipedia.org/wiki/Wolne_Miasto_Fiume), a w 1924 roku Fiume przyłączono do Włoch.
