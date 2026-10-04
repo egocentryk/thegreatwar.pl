@@ -1,0 +1,22 @@
+---
+title: Niemcy odbijają Passchendaele
+summary: 16 kwietnia 1918 Niemcy bez walki zajęli grzbiet Passchendaele. Brytyjczycy oddali zdobycze z 1917 roku, by skrócić front i zebrać wojska do bitwy nad Lys.
+category: Działania zbrojne
+front: Front zachodni
+date: 1918-04-16
+authors: [Natalia]
+dayOrder: 2
+tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
+milestone: false
+draft: false
+---
+
+16 kwietnia 1918 roku wojska niemieckie bez walki wkroczyły na grzbiet [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Brytyjska 2 Armia generała [Herberta Plumera](https://pl.wikipedia.org/wiki/Herbert_Onslow_Plumer) wycofała się stamtąd planowo, w kilku etapach, a ostatnie posterunki opuściły dawną linię frontu o czwartej nad ranem. Niemcy zorientowali się dopiero po południu. Tak w ciągu kilku dni Brytyjczycy oddali ruiny wsi i błotniste wzgórza, o które w [trzeciej bitwie pod Ypres](/bitwy/trzecia-bitwa-pod-ypres) walczyli od lipca do listopada 1917 roku, a które [6 listopada zdobyli Kanadyjczycy](/kanadyjczycy-zdobywaja-passchendaele).
+
+Plan skrócenia frontu w łuku Ypres powstał jeszcze w marcu. 23 marca, w trzecim dniu wielkiej ofensywy nad Sommą, feldmarszałek [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) kazał Plumerowi przygotować taki odwrót, by uwolnić dywizje dla innych armii. Wąski i głęboki łuk, ostrzeliwany z trzech stron, pochłaniał wiele wojsk, a po niemieckim natarciu [nad Lys](/bitwy/bitwa-nad-lys-1918) i utracie grzbietu Messines groził odcięciem od południa. 11 kwietnia Plumer nakazał korpusom w łuku wycofać główne siły do pasa obrony położonego dalej w tyle, a w pasie przednim zostawić tylko placówki. W nocy z 12 na 13 kwietnia pierwszy etap był gotowy i od tej chwili grzbietu Passchendaele broniły już tylko placówki. Plumer zgodził się na dalszy odwrót niechętnie. On i jego dowódcy korpusów byli pewni, że utrzymają swoje pozycje, ale sztab Haiga przypominał, że front się wydłużył, żołnierze są wyczerpani, a nowych dywizji brytyjskich nie będzie.
+
+14 kwietnia w Cassel Plumer wydał rozkaz odwrotu na nową główną linię obrony, biegnącą od Kemmel przez Voormezele i Biały Zamek (White Château) półtora kilometra na wschód od Ypres po grzbiet Pilckem. Belgowie na północ od Brytyjczyków mieli się dostosować i przedłużyć swój front na południe. W nocy z 15 na 16 kwietnia, gdy [pod Bailleul](/niemcy-zdobywaja-bailleul) walczono o każdy pagórek, z łuku wycofały się po cichu oddziały kilku dywizji. Artyleria wywiozła wcześniej amunicję z wysuniętych składów, a o 4.00 rano placówki zeszły z dawnej linii frontu. Według raportu Haiga wojska stanęły na linii rzeczki Steenbeek oraz grzbietów Westhoek i Wijtschate. Dawny pas obrony miał być jeszcze przez pewien czas trzymany jako pozycja wysunięta, by dać czas na umocnienie nowej linii.
+
+Rano 16 kwietnia brytyjskie patrole przeszły przez opuszczony teren i nie znalazły Niemców. Jeden z nich złapał niemieckiego oficera artylerii, który szukał miejsc na punkty obserwacyjne i nie miał pojęcia, gdzie są Brytyjczycy. Niemiecki Korpus Gwardii, który szykował się do natarcia spod lasu [Houthulst](https://pl.wikipedia.org/wiki/Houthulst), do popołudnia nie wiedział o odwrocie. Dopiero późnym popołudniem jego dywizje weszły na opuszczone pozycje, a według dziennika niemieckiej 4 Armii pierwszy meldunek dotarł do jej sztabu o 16.40. Gdy Niemcy podeszli pod nową linię, placówki odparły ich ogniem z bliska. Szef sztabu 4 Armii, generał Fritz von Loßberg, uważał, że już samo opuszczenie łuku Ypres przez Brytyjczyków jest „bardzo pięknym rezultatem”. Tego samego dnia dalej na południe Niemcy zdobyli Meteren i Wijtschate.
+
+Z wojskowego punktu widzenia odwrót był rozsądny. Front się skrócił, a dywizje zwolnione z łuku mogły zasilić walki nad Lys. Mimo to oddanie Passchendaele było gorzkie. W trzeciej bitwie pod Ypres obie strony straciły po około ćwierć miliona ludzi, a teren zdobyty przez Brytyjczyków za tę cenę, z grzbietem Passchendaele i płaskowyżem [Geluveld](https://pl.wikipedia.org/wiki/Geluveld), w kilka dni wrócił w ręce niemieckie prawie bez wystrzału. Wielu żołnierzy, którzy pamiętali błoto jesieni 1917 roku, odbierało to jako dowód, jak niewiele dały tamte ofiary. Nowa linia biegła niedaleko tej, z której Brytyjczycy ruszyli do natarcia 31 lipca 1917 roku, i front pozostał na niej do jesiennej ofensywy aliantów we wrześniu 1918 roku.

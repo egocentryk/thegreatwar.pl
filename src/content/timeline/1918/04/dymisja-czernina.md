@@ -1,0 +1,19 @@
+---
+title: Dymisja Czernina
+summary: 14 kwietnia 1918 hrabia Ottokar Czernin złożył dymisję z urzędu ministra spraw zagranicznych Austro-Węgier. Pogrążyła go afera Sykstusa, którą sam wywołał.
+category: Dyplomacja
+date: 1918-04-14
+authors: [Natalia]
+dayOrder: 1
+tags: [Austro-Węgry, Ottokar Czernin, Karol I Habsburg, Niemcy]
+milestone: false
+draft: false
+---
+
+14 kwietnia 1918 roku hrabia [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin) złożył dymisję z urzędu ministra spraw zagranicznych Austro-Węgier, a cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) od razu ją przyjął. Brytyjska chronologia wojny i ówczesna prasa podają 15 kwietnia, kiedy wiadomość obiegła świat, a według części austriackich opracowań formalne odwołanie ministra nastąpiło 16 kwietnia. Upadek Czernina był bezpośrednim skutkiem [afery Sykstusa](/afera-sykstusa). Minister sam ją rozpętał mową z 2 kwietnia, a premier Francji Georges Clemenceau odpowiedział ujawnieniem tajnego listu cesarza z 1917 roku.
+
+Po publikacji listu Czernin postanowił ratować przede wszystkim siebie i sojusz z Niemcami. Twierdził, że nie znał treści listu, a 12 kwietnia nakłonił cesarza do złożenia pisemnego słowa honoru, że napisał do Sykstusa tylko jeden list, że książę nie miał prawa pokazywać go rządowi francuskiemu i że zdanie o Alzacji-Lotaryngii zostało sfałszowane. Na podstawie tego oświadczenia ministerstwo ogłosiło komunikat, że Paryż posłużył się podrobionym tekstem. Z zapisków cesarzowej Zyty i otoczenia dworu wynika, że Czernin poszedł dalej. 13 i 14 kwietnia miał przekonywać Karola, by z powodu rzekomej choroby czasowo usunął się od rządów i oddał je pod opiekę regenta, arcyksięcia Eugeniusza, a nawet groził, że Niemcy wkroczą do Austrii, jeśli cała prawda wyjdzie na jaw. Część historyków uważa te relacje za stronnicze, ale zgadza się, że minister nie chciał wziąć na siebie odpowiedzialności za politykę monarchy, a zarazem przez ambasadę niemiecką informował Berlin o przebiegu kryzysu.
+
+Rozstrzygnięcie przyszło tego dnia przed południem w Wiedniu, na naradzie cesarza ze wspólnymi ministrami i premierami Austrii i Węgier. W przerwie Czernin po raz kolejny naciskał na Karola, a gdy ten stanowczo odmówił, złożył dymisję. Według relacji Zyty cesarz przyjął ją natychmiast. 19 kwietnia Czernin pożegnał się z monarchą na audiencji i otrzymał wysokie odznaczenie, Krzyż Wielki [Orderu Świętego Stefana](https://pl.wikipedia.org/wiki/Order_Świętego_Stefana) z brylantami, po czym wyjechał na odpoczynek do [Abbazii](https://pl.wikipedia.org/wiki/Opatija) nad Adriatykiem. Niemiecko-austriacka prasa, która jeszcze niedawno sławiła go jako „ministra pokoju”, przyjęła jego upadek z niedowierzaniem. Odejście ministra nie zakończyło jednak kryzysu zaufania między Wiedniem a Berlinem, a monarchia wyszła z niego jeszcze bardziej zależna od Niemiec.
+
+Czernin kierował dyplomacją monarchii od [grudnia 1916 roku](/czernin-ministrem-spraw-zagranicznych), niespełna półtora roku. Objął urząd jako zwolennik szybkiego pokoju, bo był przekonany, że państwo Habsburgów nie przetrzyma długiej wojny. Nie odważył się jednak zerwać z Berlinem i zgodził się na nieograniczoną wojnę podwodną, która wciągnęła do wojny Stany Zjednoczone. Szczyt jego kariery przypadł na pierwsze miesiące 1918 roku. W Brześciu Litewskim podpisał [pokój z Ukraińską Republiką Ludową](/pokoj-brzeski-z-ukraina), który miał dać głodującej Austrii ukraińskie zboże, i [traktat z Rosją Radziecką](/traktat-brzeski). W marcu wynegocjował [wstępny pokój z Rumunią w Buftei](/pokoj-w-buftei). Ostatecznego traktatu z Rumunią nie zdążył już podpisać jako minister. Za „chlebowy pokój” zapłacił oburzeniem Polaków, gdy okazało się, że przyznano w nim Ukrainie ziemię chełmską. Dwa dni później jego następcą został baron István Burián, który kierował już dyplomacją monarchii w latach 1915–1916.

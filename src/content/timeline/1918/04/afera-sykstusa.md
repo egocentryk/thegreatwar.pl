@@ -1,0 +1,37 @@
+---
+title: Afera Sykstusa
+summary: 11 kwietnia 1918 rząd francuski ogłosił tajny list cesarza Karola I z 1917 roku, popierający „słuszne roszczenia” Francji do Alzacji-Lotaryngii.
+category: Dyplomacja
+date: 1918-04-11
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Austro-Węgry, Francja, Karol I Habsburg, Georges Clemenceau]
+milestone: false
+draft: false
+---
+
+11 kwietnia 1918 roku rząd francuski wydał oficjalną notę, w której ogłosił pełny tekst listu cesarza Austrii i króla Węgier [Karola I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) do jego szwagra, księcia Sykstusa Burbon-Parmeńskiego. Nota zaczynała się od słów, które w przekładzie brzmiały mniej więcej tak: „Kto raz wpadnie w tryby kłamstwa, nie ma już sposobu, by się zatrzymać. Cesarz Karol, pod okiem Berlina, bierze na siebie kłamliwe zaprzeczenia hrabiego Czernina i tym samym zmusza rząd francuski do przedstawienia dowodu”. Tym dowodem był [list z 24 marca 1917 roku](/list-cesarza-karola-do-ksiecia-sykstusa), w którym monarcha obiecywał użyć całego swojego osobistego wpływu u sojuszników, by poprzeć „słuszne roszczenia” Francji do Alzacji i Lotaryngii. Brytyjska chronologia wojny i ówczesna prasa amerykańska datują notę na 11 kwietnia. Wielu historyków podaje 12 kwietnia. Ujawnienie listu zamieniło tajny epizod sprzed roku w polityczny skandal, znany jako [sprawa albo afera Sykstusa](https://pl.wikipedia.org/wiki/Sprawa_Sykstusa).
+
+## Mowa Czernina
+
+Skandal wywołał sam minister spraw zagranicznych Austro-Węgier, hrabia [Ottokar Czernin](/czernin-ministrem-spraw-zagranicznych). Wrócił właśnie z Rumunii, gdzie wynegocjował [wstępny pokój w Buftei](/pokoj-w-buftei), i chciał zdać sprawę ze swojej polityki. Z powodu świąt wielkanocnych nie można było zwołać delegacji obu parlamentów, więc 2 kwietnia, we wtorek po Wielkanocy, przemówił do delegacji wiedeńskiej rady miejskiej w gmachu ministerstwa na Ballhausplatz. Mowa była wojownicza. Czernin bronił [pokoju brzeskiego](/traktat-brzeski), podkreślał wierność monarchii wobec Niemiec i ostro zaatakował czeskich polityków, których oskarżał o zdradę stanu. O wojnie na zachodzie powiedział zaś: „Clemenceau na jakiś czas przed rozpoczęciem ofensywy na zachodzie zapytał mnie, czy jestem gotów do rokowań i na jakiej podstawie. Natychmiast, w porozumieniu z Berlinem, odpowiedziałem, że jestem gotów i że w stosunku do Francji nie widzę innej przeszkody dla pokoju niż francuskie dążenie do Alzacji-Lotaryngii. Z Paryża odpowiedziano, że na tej podstawie rokować nie można”.
+
+Czernin chciał w ten sposób pokazać, że to Francja odpowiada za dalszy rozlew krwi, a zarazem pognębić premiera [Georges’a Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau), który od [listopada 1917 roku](/rzad-clemenceau) rządził w Paryżu twardą ręką i ścigał „defetystów”. Mowę wydrukował nazajutrz na pierwszej stronie wiedeński „Fremden-Blatt”. Dla Clemenceau była to obelga: przedstawiała go jako człowieka, który błaga Austrię o pokój w chwili, gdy Niemcy [rozpoczęli wielką ofensywę](/bitwy/operacja-michael) na froncie zachodnim.
+
+## Wojna na komunikaty
+
+Odpowiedź przyszła natychmiast. Według większości opracowań 4 kwietnia, po powrocie z inspekcji na froncie, Clemenceau przekazał agencji [Havas](https://pl.wikipedia.org/wiki/Havas) jednozdaniowy komunikat: „Hrabia Czernin skłamał”. 5 lub 6 kwietnia rząd francuski wyjaśnił szczegóły. Rozmowy rzeczywiście się toczyły, ale z inicjatywy Austrii. Od sierpnia 1917 roku w szwajcarskim Fryburgu spotykali się hrabia Nikolaus Revertera, osobisty przyjaciel cesarza, i jego daleki krewny, major Abel Armand z francuskiego wywiadu. Clemenceau pozwolił je kontynuować z poleceniem: „Słuchać i nic nie mówić”. W tym samym komunikacie znalazło się zdanie, którego Wiedeń nie powinien był zlekceważyć: czy hrabia Czernin nie pamięta podobnej próby, podjętej w Paryżu i Londynie dwa miesiące przed misją Revertery przez osobę „znacznie wyższej rangi”?
+
+Czernin nie wycofał się. 8 kwietnia Wiedeń ogłosił obszerną odpowiedź: to Francuzi pierwsi zwrócili się do Revertery, a w lutym 1918 roku Clemenceau odrzucił rozmowy, bo nie chciał zrezygnować z Alzacji i Lotaryngii. O próbie osoby „wyższej rangi” minister pisał, że ją pamięta, ale że także ona nie dała żadnego wyniku. Tego samego dnia Clemenceau odparł: „Rozwodnione kłamstwo jest wciąż kłamstwem”. Dodał, że przecież sam cesarz Austrii w liście z marca 1917 roku zapisał własną ręką poparcie dla „słusznych roszczeń Francji dotyczących Alzacji-Lotaryngii”, a w drugim liście stwierdził, że jest w zgodzie ze swoim ministrem. 9 kwietnia to zdanie wydrukowała paryska prasa, między innymi „L’Écho de Paris”. Wiedeń zaprzeczył, a 10 kwietnia Czernin publicznie zarzucił Clemenceau kłamstwo.
+
+## List na stole
+
+Karol I znalazł się w pułapce. Obiecał Sykstusowi, że w razie niedyskrecji zaprzeczy wszystkiemu, i tak też zrobił. W depeszy do cesarza [Wilhelma II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern), wysłanej według ówczesnych doniesień dzień przed publikacją listu, pisał, że Clemenceau, by wyplątać się z sieci kłamstw, piętrzy nowe i fałszywie twierdzi, jakoby Karol uznał roszczenia Francji do Alzacji-Lotaryngii za słuszne. „Z oburzeniem odrzucam to twierdzenie” – zapewniał. Wilhelm II podziękował mu serdecznie. Wtedy Clemenceau sięgnął po ostateczny argument i ogłosił cały list, z ustępami o odbudowie Belgii i Serbii. Austriacka historyczka Elisabeth Kovács, zwolenniczka rehabilitacji cesarza, twierdzi, że kopia, którą 11 kwietnia odnaleziono w Wiedniu, była tylko pierwszym brudnopisem listu, w którym kluczowe zdanie brzmiało inaczej. Historycy nie mają jednak wątpliwości, że tekst ogłoszony w Paryżu odpowiadał listowi, który Sykstus wręczył w 1917 roku prezydentowi Francji.
+
+Mimo to monarcha nie przyznał się do listu. Wiedeńskie ministerstwo spraw zagranicznych oświadczyło, że opublikowany list jest sfałszowany, a Karol wysłał do Wilhelma II drugą depeszę: „Oskarżenia pana Clemenceau przeciwko mnie są tak niskie, że nie mam zamiaru dłużej dyskutować o tej sprawie z Francją. Naszą dalszą odpowiedzią są moje armaty na zachodzie”.
+
+## Skutki
+
+Afera uderzyła najpierw w samego Czernina, który według własnych słów nie znał treści listu. Przez kolejne dni minister wymuszał na cesarzu kolejne oświadczenia, a jego dymisja stała się nieunikniona. Najpoważniejsze skutki miała jednak dla całej monarchii. W Niemczech i wśród niemieckich nacjonalistów w Austrii Karol i jego żona [Zyta](https://pl.wikipedia.org/wiki/Zyta_Burbon-Parmeńska) uchodzili odtąd za zdrajców sojuszu, a cesarzowej, siostrze Sykstusa i Ksawerego, którą przeciwnicy przezywali „Włoszką”, zarzucano, że pracuje dla wroga. By odbudować zaufanie Berlina, Karol musiał 12 maja pojechać do niemieckiej kwatery głównej w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)). Prasa porównywała tę wizytę do pokutnej drogi Henryka IV do Canossy, a obaj cesarze uzgodnili tam ściślejszy związek wojskowy i gospodarczy swoich państw.
+
+Także w obozie Ententy ujawnienie listu oceniano różnie. Amerykański sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) uważał, że Clemenceau dowiódł wprawdzie, iż Czernin kłamał, ale zapłacił za to wepchnięciem Austrii w ramiona Niemiec. Wielu historyków przyznaje mu rację. Afera przekreśliła resztki nadziei na odrębny pokój z Wiedniem. W następnych tygodniach rządy Ententy coraz otwarciej popierały dążenia Czechów, Słowaków, Jugosłowian i Polaków do niepodległości, a zachowanie monarchii habsburskiej przestawało być ich celem wojennym.

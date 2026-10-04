@@ -1,0 +1,21 @@
+---
+title: Zjednoczone sejmy bałtyckie
+summary: 12 kwietnia 1918 w Rydze zjednoczona rada Inflant i Estonii, zdominowana przez Niemców bałtyckich, poprosiła o monarchię w unii personalnej z Prusami.
+category: Polityka
+date: 1918-04-12
+authors: [Natalia]
+dayOrder: 1
+tags: [Niemcy, Estonia, Łotwa, okupacja niemiecka]
+milestone: false
+draft: false
+---
+
+12 kwietnia 1918 roku w [Rydze](https://pl.wikipedia.org/wiki/Ryga) zebrała się Zjednoczona Rada Krajowa Inflant, Estonii, Rygi i Ozylii (Vereinigter Landesrat für Livland, Estland, Riga und Ösel). Większością głosów poprosiła cesarza Wilhelma II, by Niemcy nadal bronili kraju i wsparli jego oderwanie od Rosji, a [Inflanty](https://pl.wikipedia.org/wiki/Gubernia_inflancka), [Estonię](https://pl.wikipedia.org/wiki/Gubernia_estońska), Rygę i wyspę [Saremę](https://pl.wikipedia.org/wiki/Sarema) połączyli w jedną monarchię konstytucyjną ze wspólną konstytucją, złączoną [unią personalną](https://pl.wikipedia.org/wiki/Unia_personalna) z koroną pruską. Rada prosiła też o zgodę na tworzenie własnych władz i o zawarcie z Rzeszą konwencji wojskowej, monetarnej i handlowej. Brytyjska chronologia wojny podaje błędnie 13 kwietnia.
+
+Inicjatywa wyszła od [Niemców bałtyckich](https://pl.wikipedia.org/wiki/Niemcy_bałtyccy), od stuleci ziemiańskiej i mieszczańskiej elity tych ziem, a zwłaszcza od rycerstwa (Ritterschaft) Estonii i Inflant. Już na przełomie 1917 i 1918 roku ich zgromadzenia ogłosiły zerwanie z Rosją bolszewicką. Rygę Niemcy zdobyli już we wrześniu 1917 roku, a w lutym 1918 roku [zajęli](/poczatek-operacji-faustschlag) resztę Inflant i całą Estonię, a [traktat brzeski](/traktat-brzeski) zobowiązał Rosję do opuszczenia tych ziem, które miała strzec niemiecka „policja”. W odróżnieniu od Kurlandii, której Rosja się wyrzekła i którą cesarz w marcu [uznał](/protektorat-nad-kurlandia) za odrębne państwo, los Estonii i Inflant pozostawał formalnie otwarty. Niemieckie naczelne dowództwo widziało w miejscowym ziemiaństwie jedynego partnera i nie chciało rozmawiać z estońskimi ani łotewskimi ruchami narodowymi.
+
+Rada powstała z dwóch zgromadzeń stanowych zwołanych pod niemiecką okupacją: 9 kwietnia w Tallinnie dla Estonii i 10 kwietnia w Rydze dla Inflant. Zasiedli w nich przedstawiciele rycerstwa, właścicieli majątków, duchowieństwa, miast i gmin wiejskich, a także Uniwersytetu w Dorpacie. Proporcje nie miały nic wspólnego z układem ludności. Według łotewskich i anglojęzycznych opracowań w 58-osobowej radzie zasiadło 35 Niemców, 13 Estończyków i 11 Łotyszy, choć Niemcy stanowili tu kilka procent mieszkańców. Rada wysłała do cesarza depeszę z podziękowaniem i wybrała delegację, na której czele stanął przywódca rycerstwa estońskiego baron Eduard von Dellingshausen. 21 kwietnia kanclerz [Georg von Hertling](https://pl.wikipedia.org/wiki/Georg_von_Hertling) przyjął ją w Berlinie, ale poza uprzejmymi obietnicami nie dał nic konkretnego.
+
+Estońscy i łotewscy działacze narodowi nie uznawali rady. Estończycy [ogłosili niepodległość](/estonia-oglasza-niepodleglosc) 24 lutego, a łotewska rada narodowa już w styczniu [opowiedziała się](/lotewska-tymczasowa-rada-narodowa-za-niepodlegloscia) za niepodległą Łotwą. Na inflanckim zgromadzeniu w Rydze 10 kwietnia wójt gminy Vana-Antsla Peeter Koemets odczytał oświadczenie wójtów z południowej Estonii, przygotowane przez działający w podziemiu rząd tymczasowy [Konstantina Pätsa](https://pl.wikipedia.org/wiki/Konstantin_Päts): Estończycy protestowali przeciw samowoli okupantów, nie chcieli łączyć się ani z Niemcami, ani z Rosją i za jedyną prawowitą władzę uznawali własny rząd tymczasowy. Pod koniec kwietnia przeciw ryskim uchwałom formalnie zaprotestowała też Rosja Radziecka, która kwestionowała prawo Niemców bałtyckich do wypowiadania się w imieniu Łotyszy i Estończyków.
+
+Berlin długo zwlekał. Dopiero gdy w sierpniu 1918 roku Rosja w traktacie uzupełniającym zrzekła się zwierzchnictwa nad Estonią i Inflantami, cesarz 22 września uznał ich niepodległość, a 5 listopada Niemcy bałtyccy proklamowali w Rydze [Zjednoczone Księstwo Bałtyckie](https://pl.wikipedia.org/wiki/Zjednoczone_Księstwo_Bałtyckie). Kilka dni później Niemcy przegrały wojnę i państwo to nigdy nie zaczęło działać, a na jego miejscu powstały niepodległe Estonia i Łotwa.

@@ -1,0 +1,39 @@
+---
+title: Walki nad Ancre
+summary: 5 kwietnia 1918 Niemcy uderzyli nad Ancre. Australijczycy pod Dernancourt stracili nasyp, ale utrzymali grzbiet. Wieczorem Ludendorff przerwał operację Michael.
+category: Działania zbrojne
+front: Front zachodni
+battle: bitwa-nad-ancre-1918
+date: 1918-04-05
+authors: [Natalia]
+dayOrder: 4
+tags: [Australia, Wielka Brytania, Niemcy, Erich Ludendorff]
+milestone: true
+draft: false
+---
+
+5 kwietnia 1918 roku, szesnastego dnia [operacji Michael](/bitwy/operacja-michael), Niemcy po raz ostatni spróbowali przebić się do [Amiens](https://pl.wikipedia.org/wiki/Amiens). Dzień wcześniej ich natarcie na południe od Sommy, [nad Avre i pod Villers-Bretonneux](/walki-nad-avre), utknęło w deszczu przed australijskimi i francuskimi liniami. Teraz cios miał spaść na północ od rzeki, na brytyjską 3 Armię broniącą wzgórz nad doliną [Ancre](https://pl.wikipedia.org/wiki/Ancre), od [Buire](https://pl.wikipedia.org/wiki/Buire-sur-l’Ancre) przez okolice zajętego przez Niemców [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) po Hébuterne i [Bucquoy](https://pl.wikipedia.org/wiki/Bucquoy). Do wieczora Niemcy zdobyli tylko kilka skrawków ziemi, okupionych ciężkimi stratami, a [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) nakazał przerwać ofensywę, która od 21 marca miała rozstrzygnąć wojnę.
+
+## Noc przed natarciem
+
+Brytyjczycy wiedzieli, co nadchodzi. 4 kwietnia jeńcy i dezerterzy mówili o ataku następnego dnia, a francuska kwatera główna przekazała ostrzeżenie, według australijskiego historyka oficjalnego Charlesa Beana oparte na meldunku zaufanego szpiega, że Niemcy uderzą na Amiens koncentrycznie od strony Albert i Roye. Dowódca VII Korpusu, generał Walter Congreve, kazał swoim dwóm dywizjom australijskim ostrzelać o 7.30 wszystkie miejsca, gdzie mogły się gromadzić niemieckie oddziały.
+
+Najbardziej zagrożony był odcinek 4 Dywizji Australijskiej pod wsią [Dernancourt](https://pl.wikipedia.org/wiki/Dernancourt). Jej przednia linia biegła nasypem kolejowym, który zataczał łuk u stóp wzgórza, tuż przy domach wioski zajętej przez Niemców. Przed północą ostrzeżenie dotarło do dowódców brygad, a ci rozesłali patrole. Dowódca 52 batalionu, podpułkownik Whitham, obszedł kompanie i powtarzał, że jeśli zostaną zepchnięte z przedniej linii, mają walczyć do końca na linii wsparcia. Do drugiej w nocy rozmawiał przy moście kolejowym z kapitanem Fraserem, dowódcą lewej kompanii. „Nie będzie mowy o cofaniu się – miał powiedzieć Fraser. – Nawet nie biorę tego pod uwagę”. Gdy Whitham podkreślił, że rozkaz jest poważny, kapitan odparł: „Zachowuję zupełny spokój. Mam nadzieję, że przyjdą!”. W nocy patrole widziały Niemców przy kładkach na Ancre, a rano dwustu żołnierzy ukrytych w zagłębieniu terenu na zachód od wsi. Nad doliną zgęstniała mgła, która ograniczyła widoczność do 150–200 metrów. Fraser, pewien ataku, wstrzymał nawet wydawanie śniadania, co według Beana było w armii australijskiej rzeczą niezwykłą.
+
+## Dernancourt
+
+O 7.00 niemiecka artyleria otworzyła ogień na całym froncie 3 Armii, najpierw pociskami gazowymi na baterie. Około 9.00–9.30, gdy ostrzał wciąż trwał, piechota niemieckiej 50 Dywizji Rezerwowej wyszła z Dernancourt na 47 batalion australijski. [Moździerze okopowe](https://pl.wikipedia.org/wiki/Moździerz_okopowy) ukryte w domach rozbiły odcinek nasypu, a po półgodzinnej walce Niemcy przerwali linię. Porucznik Heilemann z 230 pułku piechoty rezerwy opisywał, jak jego kompania zwinęła obrońców wzdłuż nasypu i jak przed 10.00 jeńcy w żółtawych od błota mundurach „z rękami nad głowami, jak uciekające stada gęsi z uniesionymi skrzydłami” biegli przez wieś na tyły. Lekki miotacz min, wniesiony na nasyp przez wiele rąk naraz, uciszył australijski karabin maszynowy w budce sygnałowej. O 10.30 Niemcy byli na grzbiecie. Przez wyrwę w łuku torów strzelali w plecy obrońcom po obu stronach, wciągnęli nawet działa polowe. Kompanie na skrzydłach trzymały się mimo to prawie do 16.00. W pierwszej godzinie mgła i ostrzał zerwały jednak łączność, więc artyleria nie zdążyła uderzyć w Dernancourt, zanim Niemcy wyszli z wioski.
+
+Za Niemcami szły kolejne bataliony. Przed południem na nasyp i wieś spadł ciężki brytyjski ostrzał, wezwany przez obserwatorów, którzy zobaczyli „masy” Niemców w Dernancourt. Dowódca 229 pułku, podpułkownik von Thadden, poprowadził swoich ludzi przez nasyp w stronę cmentarza i padł śmiertelnie ranny od szrapnela. Gdy odzyskał przytomność, zapytał podobno najpierw: „Czy mamy cmentarz?”. Do popołudnia cała 50 Dywizja Rezerwowa stała na zboczu, gotowa iść dalej na Amiens. Okazało się jednak, że zamiast za liniami przeciwnika jest przed nową linią oporu, a sąsiednie dywizje nie dotrzymały kroku. Na prawo od niej 79 Dywizja Rezerwowa została odparta pod Albert, a na lewo 13 Dywizja nie posunęła się ani o krok pod Buire.
+
+O 17.15, po sześciominutowym ostrzale, Australijczycy przeszli do kontrataku. 49 batalion z resztkami 45 i 47 batalionu wyszedł na grzbiet prosto w ogień karabinów maszynowych, który jeden z oficerów nazwał „diabelskim werblem”. Około dwustu jardów od Niemców żołnierze rzucili się biegiem do szarży. Niemieckie odwody, stłoczone w żwirowni pod grzbietem, na okrzyk patroli „Tommy idzie!” zaczęły się wycofywać, a pojmany sierżant 229 pułku nazwał potem ten atak *sehr schneidig*, „bardzo brawurowym”. Wobec ciężkich strat Australijczycy nie schodzili już po odkrytym zboczu ku nasypowi. Po 18.00 okopali się wzdłuż drogi z Buire do Albert, około pół kilometra do kilometra za porannym frontem. Bean uznał niemieckie natarcie pod Dernancourt za najsilniejsze, z jakim kiedykolwiek zmierzyli się Australijczycy, a ich wieczorny kontratak za jeden z najlepszych w ich historii.
+
+## Od Albert po Bucquoy
+
+Dalej na północ walczyły zmęczone, przetrzebione dywizje brytyjskie. Na północ od Albert 12 Dywizja straciła tylko sad w pobliżu dworca, a w lesie pod [Aveluy](https://pl.wikipedia.org/wiki/Aveluy) Londyńczycy z 47 Dywizji przez dwie godziny odpierali Niemców posuwających się od leja do leja. Wieczorem cofnęło się skrzydło 63 Dywizji Royal Naval, ale następnego ranka kontratak marynarzy i pionierów przywrócił dawną linię. Pod Hébuterne Nowozelandczycy przeżyli, jak pisał historyk ich dywizji, być może najcięższy ostrzał w całej wojnie. Stracili wysunięty folwark La Signy, bronionego przez czternastu strzelców, ale dalej Niemcy nie przeszli. Ranny strzelec R. C. Shannon, któremu rozbito karabin maszynowy, wyskoczył z okopu i obrzucił granatami setkę Niemców podchodzących starym rowem dobiegowym, zabijając prowadzącego ich oficera. Tylko w Bucquoy oddziały szturmowe niemieckiej 17 Dywizji zdobyły przed 11.00 wschodnią połowę wsi i utrzymały ją mimo kontrataków.
+
+## Koniec Michaela
+
+Wieczorem w niemieckich sztabach nie było już złudzeń. Książę [Rupprecht](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach), dowódca grupy armii, zapisał w dzienniku, że ostatecznym wynikiem dnia jest „nieprzyjemny fakt, że nasza ofensywa całkowicie stanęła”, a jej kontynuacja bez starannych przygotowań nie rokuje powodzenia. Tego samego wieczoru Ludendorff nakazał przerwać natarcia i prowadzić je tylko tam, gdzie wymagała tego poprawa lokalnego położenia. Brytyjska historia oficjalna zauważyła, że niemiecka ofensywa skończyła się tak jak wiele ofensyw sprzymierzonych: kilkoma odosobnionymi, spazmatycznymi atakami, „pewnymi oznakami słabnącego wysiłku”.
+
+Ludendorff pisał później, że „opór nieprzyjaciela przerósł nasze siły” i że dowództwo musiało podjąć „niezwykle trudną decyzję, by na dobre zrezygnować z natarcia na Amiens”. Ofensywa, która w ciągu szesnastu dni przesunęła front o ponad 60 kilometrów, nie rozdzieliła armii brytyjskiej i francuskiej. Niemiecki sztab już szykował następne uderzenie. Za cztery dni miało ono spaść na Brytyjczyków i Portugalczyków we Flandrii, nad rzeką Leie.

@@ -1,0 +1,22 @@
+---
+title: Ostrzał Monrowii
+summary: 10 kwietnia 1918 niemiecki krążownik podwodny U-154 ostrzelał Monrowię. Zniszczył francuską stację radiową, wcześniej zatopił jedyny okręt Liberii.
+category: Działania zbrojne
+front: Wojna na morzu
+date: 1918-04-10
+authors: [Natalia]
+dayOrder: 4
+tags: [Liberia, Niemcy, okręty podwodne]
+milestone: false
+draft: false
+---
+
+Rankiem 10 kwietnia 1918 roku na redzie [Monrowii](https://pl.wikipedia.org/wiki/Monrovia), stolicy [Liberii](https://pl.wikipedia.org/wiki/Liberia), stał wynurzony niemiecki [krążownik podwodny](https://pl.wikipedia.org/wiki/Krążownik_podwodny) U-154. Jego dowódca Hermann Gercke przysłał na ląd list do prezydenta [Daniela Edwarda Howarda](https://pl.wikipedia.org/wiki/Daniel_Edward_Howard). Pisał, że nie chce wyrządzać Liberyjczykom niepotrzebnych szkód, bo jest pewien, że wciągnięto ich do wojny wbrew ich prawdziwym interesom, i dlatego odsyła jeńców z pokonanego przez siebie uzbrojonego statku „President Howard”. Zarazem przypominał, że stolica Liberii jest „bezbronna pod niemieckimi działami”, a Anglia i Francja, jak wielu innym swoim sojusznikom, nie pomagają jej w chwili największego niebezpieczeństwa. Jeśli stacja radiowa i stacja kablowa w Monrowii natychmiast nie przestaną działać, otworzy do nich ogień.
+
+Liberia, która [wypowiedziała wojnę Niemcom](/liberia-wypowiada-wojne-niemcom) w sierpniu 1917 roku, nie miała się czym bronić. Od 11 stycznia 1918 roku Berlin uznawał całe jej wybrzeże za strefę działań okrętów podwodnych, a alianci, po długich naradach, zostawili liberyjskie porty bez umocnień, bo uznali, że kilka dział i tak nie powstrzyma okrętu, który miał dwa działa kalibru 150 mm i dwa 88 mm. Jedyną jednostką liberyjskiej floty był „President Howard”, niewielki uzbrojony szkuner z silnikiem pomocniczym, w części źródeł nazywany „Lark”. Służył głównie do przewożenia żołnierzy i broni wzdłuż wybrzeża. U-154 zatopił go, zanim stanął na redzie stolicy. Zestawienia zatopionych statków podają 9 kwietnia, amerykański chargé d'affaires w Monrowii Richard C. Bundy meldował o zatopieniu 10 kwietnia. Liberyjską załogę Gercke wysłał na ląd z listem.
+
+Prezydent zwołał ministrów, którzy jednogłośnie uznali, że Liberia musi pozostać lojalna wobec sojuszników bez względu na koszty. Rząd odpisał, że sam wstrzyma pracę obu stacji. Gercke postawił wtedy, jak to nazwał, „ostatnie ultimatum”. W ciągu godziny od powrotu liberyjskich parlamentariuszy na ląd miała zniknąć francuska flaga, a budynki obu stacji miały zostać podpalone, a ich aparatura zniszczona. Takich żądań rząd nie mógł przyjąć, a jego ostateczna odpowiedź nie zadowoliła Niemca. Około czwartej po południu U-154 otworzył ogień i w ciągu mniej więcej godziny zamienił francuską stację radiową w ruinę. Część pocisków spadła na miasto i zburzyła kilka domów. Bundy meldował jeszcze tego wieczoru o dwóch zabitych i dwóch rannych Liberyjczykach, brytyjski konsul o trojgu zabitych dzieciach, a późniejsze relacje mówią o czterech do siedmiu ofiarach. Cudzoziemców nie było wśród poszkodowanych.
+
+Ostrzał przerwał brytyjski parowiec pasażerski „Burutu”, który zjawił się przed Monrowią. U-154 ruszył za nim i do zmroku ostrzeliwał go w biegu. Statek został uszkodzony, a według brytyjskich relacji zginął jeden pasażer, ale zdołał uciec. Stacja kablowa ocalała. W mieście nie było zamieszek, choć panika była ogromna. Bundy prosił Waszyngton o pilną pomoc i dodawał, że to zapewne ostatnia depesza, jaką zdoła wysłać. Admiralicja zapewniła Amerykanów, że pomoc już wysłano, a Departament Stanu zapytał Londyn, jak zamierza w przyszłości chronić Liberię.
+
+Napad wywołał spór między sojusznikami. Generalny gubernator [Francuskiej Afryki Zachodniej](https://pl.wikipedia.org/wiki/Francuska_Afryka_Zachodnia) w [Dakarze](https://pl.wikipedia.org/wiki/Dakar) chciał obłożyć resztki stacji workami z piaskiem i przysłać działa z obsługą, ale rząd w Monrowii odmówił wpuszczenia obcych żołnierzy i artylerii. Zgodził się przyjąć jedynie broń ręczną dla własnych oddziałów i domagał się patroli na morzu. Na początku maja do Monrowii przypłynął amerykański krążownik Raleigh. Liberyjczycy nie przyjęli oferowanego działa, bo uznali, że nie zdoła ono odeprzeć okrętu podwodnego, wzięli natomiast karabin maszynowy i amunicję. Brytyjczycy obiecali wysłać do [Sierra Leone](https://pl.wikipedia.org/wiki/Sierra_Leone) uzbrojone dryfery, gotowe do interwencji w razie kolejnego ataku. U-154 już nie wrócił. 11 maja 1918 roku storpedował go na Atlantyku brytyjski okręt podwodny E35, a cała niemiecka załoga zginęła.
