@@ -8,7 +8,7 @@ date: 1915-04-25
 authors: [Łukasz Skowroń]
 dayOrder: 3
 tags: [Wielka Brytania, Australia, Imperium Osmańskie, Dardanele]
-milestone: false
+milestone: true
 draft: false
 ---
 

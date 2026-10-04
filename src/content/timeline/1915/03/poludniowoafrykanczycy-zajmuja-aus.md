@@ -27,6 +27,6 @@ Ewakuacja trwała kilka dni. Niemieckie zestawienia datują opuszczenie Aus na 2
 
 ## Dalszy marsz
 
-Aus otwierało drogę w głąb południowej części kolonii, ale przez dziewięć dni tamtejsze studnie nie były w stanie napoić koni całych Sił Centralnych. Dopiero 15 kwietnia z Aus wyruszyła lotna kolumna trzech brygad konnych, która ścigając Niemców przez Bethanie w stronę Berseby, pokonała w cztery dni około 185 kilometrów. W tym samym czasie od południa, znad rzeki [Oranje](https://pl.wikipedia.org/wiki/Oranje), nacierały Siły Południowe pułkownika Jacoba van Deventera, a od wschodu, przez Kalahari, Siły Wschodnie pułkownika C. A. L. Berrangégo. Pod koniec kwietnia wojska Związku opanowały całe południe kolonii.
+Aus otwierało drogę w głąb południowej części kolonii, ale przez dziewięć dni tamtejsze studnie nie były w stanie napoić koni całych Sił Centralnych. Dopiero 15 kwietnia z Aus wyruszyła lotna kolumna trzech brygad konnych, która ścigając Niemców przez Bethanien w stronę Berseby, posuwała się forsownym marszem. W tym samym czasie od południa, znad rzeki [Oranje](https://pl.wikipedia.org/wiki/Oranje), nacierały Siły Południowe pułkownika Jacoba van Deventera, a od wschodu, przez Kalahari, Siły Wschodnie pułkownika C. A. L. Berrangégo. Pod koniec kwietnia wojska Związku opanowały całe południe kolonii.
 
 W Aus po kapitulacji kolonii w lipcu 1915 roku Południowoafrykańczycy urządzili obóz dla niemieckich jeńców wojennych. Przebywało w nim do 1500 ludzi. Ostatni jeńcy opuścili go w 1919 roku.

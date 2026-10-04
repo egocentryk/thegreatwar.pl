@@ -27,6 +27,6 @@ Przed wyjazdem otrzymał od naczelnego wodza w Indiach, generała Sir Beauchampa
 
 ## Co dalej
 
-Nixon przybył do Basry 9 kwietnia 1915 roku i przejął dowództwo. Barrett zachował 6 Dywizję (Poona), ale wkrótce z powodu choroby oddał ją generałowi Charlesowi Townshendowi. Już trzy dni po przybyciu Nixona Süleyman Askerî zaatakował brytyjski obóz pod Szuajbą, na zachód od Basry. Turcy zostali odparci w trzydniowej bitwie, a ich dowódca, ranny i zrozpaczony klęską, popełnił samobójstwo.
+Nixon przybył do Basry 9 kwietnia 1915 roku i przejął dowództwo. Barrett zachował 6 Dywizję (Poona), ale z powodu choroby wkrótce zdał dowództwo i 12 kwietnia opuścił Mezopotamię. Dywizją tymczasowo dowodził generał Fry, a 22 kwietnia objął ją generał Charles Townshend. Już trzy dni po przybyciu Nixona Süleyman Askerî zaatakował brytyjski obóz pod Szuajbą, na zachód od Basry. Turcy zostali odparci w trzydniowej bitwie, a ich dowódca, ranny i zrozpaczony klęską, popełnił samobójstwo.
 
 Zwycięstwo pod Szuajbą zachęciło Nixona do działań zaczepnych. W kolejnych miesiącach jego wojska posuwały się w górę Tygrysu i Eufratu, a we wrześniu 1915 roku zajęły Al-Kut. Nixon, coraz bardziej przekonany o słabości Turków, doprowadził do marszu na Bagdad, który zakończył się klęską pod Ktezyfonem i oblężeniem dywizji Townshenda w Al-Kut. W styczniu 1916 roku chory Nixon stracił dowództwo, a specjalna komisja powołana do zbadania przebiegu kampanii uznała go w 1917 roku za głównego winowajcę niepowodzenia wyprawy.
