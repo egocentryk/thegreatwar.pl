@@ -1,0 +1,25 @@
+---
+title: Aresztowania przywódców Sinn Féin
+summary: W nocy z 17 na 18 maja 1918 policja i wojsko aresztowały w Irlandii przywódców Sinn Féin, w tym de Valerę i Griffitha, pod zarzutem „spisku niemieckiego”.
+category: Polityka
+date: 1918-05-17
+authors: [Natalia]
+dayOrder: 1
+tags: [Irlandia, Wielka Brytania, Niemcy, John French]
+milestone: false
+draft: false
+---
+
+W nocy z 17 na 18 maja 1918 roku policja i wojsko przeprowadziły w całej [Irlandii](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)) obławę na przywódców [Sinn Féin](https://pl.wikipedia.org/wiki/Sinn_Féin). W Greystones w hrabstwie Wicklow zatrzymano przewodniczącego partii [Éamona de Valerę](https://pl.wikipedia.org/wiki/Éamon_de_Valera), w Dublinie jej założyciela [Arthura Griffitha](https://pl.wikipedia.org/wiki/Arthur_Griffith), sekretarza Darrella Figgisa i posła [Williama Cosgrave'a](https://pl.wikipedia.org/wiki/William_Thomas_Cosgrave), około pierwszej w nocy w Rathmines [Constance Markievicz](https://pl.wikipedia.org/wiki/Constance_Markievicz), a w [Belfaście](https://pl.wikipedia.org/wiki/Belfast) między innymi Denisa McCullougha. Wśród aresztowanych byli też posłowie Joseph McGuinness i hrabia George Noble Plunkett, ojciec straconego przywódcy powstania wielkanocnego, oraz [Maud Gonne](https://pl.wikipedia.org/wiki/Maud_Gonne). Zatrzymanych bez sądu, na mocy przepisów o obronie królestwa, szybko przewieziono do Anglii i Walii. Mężczyzn osadzono między innymi w więzieniach w [Gloucesterze](https://pl.wikipedia.org/wiki/Gloucester), [Lincolnie](https://pl.wikipedia.org/wiki/Lincoln_(Wielka_Brytania)) i Usk, kobiety w londyńskim więzieniu Holloway. Według części źródeł w pierwszym rzucie deportowano 73 osoby. Kolejnych zatrzymywano jeszcze w następnych dniach i według innych szacunków aresztowania objęły około 150 ludzi.
+
+## „Spisek niemiecki”
+
+Rano 18 maja ukazała się proklamacja nowego [lorda namiestnika](/french-namiestnikiem-irlandii), feldmarszałka [Johna Frencha](https://pl.wikipedia.org/wiki/John_French), kontrasygnowana przez naczelnego sekretarza [Edwarda Shortta](https://pl.wikipedia.org/wiki/Edward_Shortt). Głosiła, że część mieszkańców Irlandii utrzymywała „zdradzieckie kontakty z Niemcami”, i wzywała lojalnych poddanych do pomocy w zdławieniu tego spisku. Zarazem zapowiadała, że władze będą zachęcać do ochotniczego zaciągu, w nadziei, że wkład Irlandii w siły zbrojne uda się uzupełnić bez przymusu. Wielu komentatorów odczytało to jako sygnał, że rząd cofa się w sprawie poboru, który od kwietnia [wolno było rozciągnąć na Irlandię](/trzecia-ustawa-o-sluzbie-wojskowej).
+
+Bezpośrednim pretekstem była sprawa Josepha Dowlinga. Ten były żołnierz brytyjski, wzięty do niewoli i zwerbowany w Niemczech do brygady irlandzkiej organizowanej przez [Rogera Casementa](https://pl.wikipedia.org/wiki/Roger_Casement), 12 kwietnia 1918 roku został wysadzony z niemieckiego okrętu podwodnego na wysepce u wybrzeży hrabstwa [Clare](https://pl.wikipedia.org/wiki/Clare_(hrabstwo)) i wkrótce schwytany. Twierdził, że Niemcy szykują wyprawę do Irlandii. Szef wywiadu marynarki admirał [William Reginald Hall](https://pl.wikipedia.org/wiki/William_Reginald_Hall) i szef wydziału specjalnego Scotland Yardu Basil Thomson uwierzyli mu i przekonali rząd do internowania całego kierownictwa Sinn Féin. Ruch od tygodni przewodził kampanii przeciw poborowi, a gabinet po fiasku Konwencji Irlandzkiej skłaniał się ku twardszej polityce.
+
+## Dowody i skutki
+
+Sinn Féin zawczasu dowiedziała się o planowanej obławie. [Michael Collins](https://pl.wikipedia.org/wiki/Michael_Collins_(irlandzki_przywódca)) i [Cathal Brugha](https://pl.wikipedia.org/wiki/Cathal_Brugha) uniknęli aresztowania. Część przywódców, w tym de Valera, świadomie dała się zatrzymać, licząc na zysk propagandowy. 25 maja rząd brytyjski ogłosił oficjalne wyjaśnienie, mające dowieść istnienia spisku. Przyjęto je chłodno nawet w Westminsterze, a krytycy zwracali uwagę, że dotyczy głównie kontaktów z Niemcami z lat 1914–1916, z czasów [Casementa](/aresztowanie-rogera-casementa) i [statku Aud](/zatopienie-statku-aud), a nie przywódców aresztowanych w maju. Nawet zwolennicy twardej linii, jak generał Nevil Macready, byli rozczarowani brakiem wyraźnych dowodów i wątłymi podstawami prawnymi zatrzymań.
+
+Historycy wciąż spierają się, czy „spisek niemiecki” był świadomie spreparowaną propagandą, czy skutkiem uczciwie potraktowanych, lecz wadliwych informacji wywiadu. Zgodnie oceniają natomiast, że obława obróciła się przeciw rządowi. Za kratami znaleźli się najbardziej umiarkowani przywódcy ruchu, a kierownictwo przejęli zwolennicy walki zbrojnej, skupieni wokół Collinsa. Już 20 czerwca uwięziony Griffith wygrał wybory uzupełniające we wschodnim Cavan, a 3 lipca władze uznały Sinn Féin, [Irlandzkich Ochotników](https://pl.wikipedia.org/wiki/Irlandzcy_Ochotnicy), Cumann na mBan i [Ligę Gaelicką](https://pl.wikipedia.org/wiki/Liga_Gaelicka) za organizacje niebezpieczne. W wyborach w grudniu 1918 roku Sinn Féin zdobyła ogromną większość irlandzkich mandatów. De Valera uciekł z więzienia w Lincolnie w lutym 1919 roku, a pozostałych internowanych zwolniono w marcu.

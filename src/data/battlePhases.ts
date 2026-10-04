@@ -210,6 +210,14 @@ export const BATTLE_PHASES = [
       "Po klęsce 1916 roku i utracie Bukaresztu armia rumuńska przetrwała zimę w Mołdawii. Pod okiem francuskiej misji generała Berthelota została przezbrojona i przeszkolona, a latem 1917 roku, razem z wojskami rosyjskimi, znów była zdolna do walki. W lipcu i sierpniu Rumuni stoczyli pod Mărăști, Mărășești i Oituz bitwy, które powstrzymały ostatnią próbę wyparcia ich z kraju.",
   },
   {
+    slug: "1918-front-salonicki",
+    title: "1918: Front salonicki",
+    front: "Front bałkański",
+    dates: "od maja 1918",
+    intro:
+      "Po przystąpieniu Grecji do wojny w 1917 roku armia grecka stała się filarem frontu salonickiego. Wiosną 1918 roku nowy dowódca wojsk sprzymierzonych, generał Guillaumat, przygotowywał ją do walki, a pierwszym sprawdzianem było zdobycie pozycji bułgarskich pod Skra di Legen. Bułgaria, wyczerpana wojną i niezadowolona z podziału łupów, słabła, a w Salonikach dojrzewał plan wielkiej ofensywy, którą we wrześniu przeprowadził generał Franchet d'Espèrey.",
+  },
+  {
     slug: "1917-front-salonicki",
     title: "1917: Front salonicki",
     front: "Front bałkański",

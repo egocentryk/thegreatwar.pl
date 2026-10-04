@@ -1,0 +1,21 @@
+---
+title: French namiestnikiem Irlandii
+summary: Na początku maja 1918 marszałek John French został lordem namiestnikiem Irlandii. Miał rządzić krajem jako „wojskowy wicekról” w czasie kryzysu poborowego.
+category: Polityka
+date: 1918-05-05
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Wielka Brytania, Irlandia, John French, David Lloyd George]
+milestone: false
+draft: false
+---
+
+Brytyjska chronologia wojny notuje pod 5 maja 1918 roku, że feldmarszałek wicehrabia [John French](https://pl.wikipedia.org/wiki/John_French) został mianowany [lordem namiestnikiem Irlandii](https://pl.wikipedia.org/wiki/Lord_namiestnik_Irlandii), czyli przedstawicielem Korony i formalną głową administracji Zamku Dublińskiego. Zmiany we władzach Irlandii ogłoszono w pierwszych dniach maja. Listy patentowe nominujące Frencha nosiły, według części źródeł, datę 9 maja, a urząd objął 11 maja, gdy złożył przysięgę w [Zamku Dublińskim](https://pl.wikipedia.org/wiki/Zamek_Dubliński). Zastąpił [Ivora Guesta, lorda Wimborne'a](https://pl.wikipedia.org/wiki/Ivor_Guest_(1._wicehrabia_Wimborne)), który był namiestnikiem od 1915 roku, także w czasie [powstania wielkanocnego](/wybuch-powstania-wielkanocnego). Jednocześnie konserwatystę [Henry'ego Duke'a](https://pl.wikipedia.org/wiki/Henry_Duke) na stanowisku naczelnego sekretarza dla Irlandii, czyli ministra odpowiedzialnego za rządy na wyspie, zastąpił liberał [Edward Shortt](https://pl.wikipedia.org/wiki/Edward_Shortt).
+
+Zmiana przyszła w szczytowym momencie kryzysu poborowego. W kwietniu parlament przyjął [nową ustawę o służbie wojskowej](/trzecia-ustawa-o-sluzbie-wojskowej), która pozwalała rządowi rozporządzeniem rozciągnąć pobór na [Irlandię](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)). Odpowiedzią były wspólny front wszystkich nurtów irlandzkiego nacjonalizmu, sprzeciw biskupów katolickich, przysięga oporu składana przed kościołami i strajk generalny. Jeszcze 5 maja na wiecu w hrabstwie [Roscommon](https://pl.wikipedia.org/wiki/Roscommon_(hrabstwo)), na który według relacji przyszło około 15 tysięcy ludzi, na jednej trybunie przemawiali John Dillon z Irlandzkiej Partii Parlamentarnej i Éamon de Valera z Sinn Féin. W kwietniu zakończyła też obrady Konwencja Irlandzka, która przez blisko rok bez skutku szukała porozumienia nacjonalistów z unionistami w sprawie autonomii ([home rule](https://pl.wikipedia.org/wiki/Home_rule)).
+
+French od grudnia 1915 roku, gdy [oddał dowództwo wojsk we Francji](/dymisja-johna-frencha), dowodził siłami w Wielkiej Brytanii i obroną kraju. Pochodził z rodziny o irlandzkich korzeniach, wywodzącej się z Frenchpark w hrabstwie Roscommon, a jego starsza siostra, sufrażystka [Charlotte Despard](https://pl.wikipedia.org/wiki/Charlotte_Despard), sympatyzowała z Sinn Féin. Premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) chciał początkowo zastąpić namiestnika trzyosobowym gremium lordów sędziów, w którym obok Frencha mieli zasiąść dwaj irlandzcy politycy unionistyczni. Na naradzie 30 kwietnia wszyscy trzej zażądali jednak natychmiastowego wprowadzenia poboru i stanu wojennego, a po odmowie premiera z planu zrezygnowano. French zgodził się przyjąć urząd sam, pod warunkiem że będzie „wojskowym wicekrólem na czele quasi-wojskowego rządu”. Przeforsował też, by dowództwo wojsk w Irlandii wydzielono ze struktur obrony Wielkiej Brytanii, a dotychczasowego dowódcę, generała Bryana Mahona, zastąpił jego szef sztabu Frederick Shaw.
+
+Nowy namiestnik uważał, że przywódcy Sinn Féin nie mają poparcia większości Irlandczyków, a pobór da się przeprowadzić bez rozlewu krwi. Za warunek wprowadzenia autonomii uznawał przywrócenie porządku. 11 maja przypłynął do [Dún Laoghaire](https://pl.wikipedia.org/wiki/Dún_Laoghaire) (wówczas Kingstown) i bez większej ceremonii pojechał samochodem do Dublina. W Zamku po odczytaniu listów patentowych złożył przysięgę i przyjął miecz państwowy, a po nim przysięgę złożył Shortt.
+
+Pierwsze tygodnie pokazały, czym ma być „wojskowy” kurs. W nocy z 17 na 18 maja na rozkaz nowych władz aresztowano większość przywódców Sinn Féin pod zarzutem spisku z Niemcami. French pozostał namiestnikiem do kwietnia 1921 roku, przez większą część irlandzkiej wojny o niepodległość.
