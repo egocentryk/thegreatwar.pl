@@ -1,0 +1,23 @@
+---
+title: Brytyjczycy odbijają Albert
+summary: 22 sierpnia 1918 brytyjska 18 Dywizja sforsowała Ancre i odbiła ruiny Albert, a III Korpus zlikwidował niemiecki występ między Sommą a Ancre.
+category: Działania zbrojne
+front: Front zachodni
+battle: bitwa-pod-albert-1918
+date: 1918-08-22
+authors: [Natalia]
+dayOrder: 2
+tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Australia]
+milestone: false
+draft: false
+---
+
+22 sierpnia 1918 roku, drugiego dnia bitwy pod Albert, do natarcia ruszyło lewe skrzydło brytyjskiej 4 Armii generała [Henry’ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)). Dzień wcześniej 3 Armia [uderzyła na północ od Ancre](/poczatek-bitwy-pod-albert-1918), ale jej prawe skrzydło nie mogło przejść zalanej doliny rzeki, dopóki Niemcy trzymali miasto [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) i grzbiet między Ancre a Sommą. Zadanie dostał III Korpus, którym w zastępstwie chorego generała Butlera dowodził generał Alexander Godley. O 4.45, bez wcześniejszego ostrzału, za zaporą ogniową z domieszką pocisków dymnych, ruszyły 47 (Londyńska) i 12 (Wschodnia) Dywizja, z prawej strony osłaniane przez australijską 3 Dywizję pod Bray-sur-Somme, a z lewej przez 18 (Wschodnią) Dywizję generała Richarda Lee, która miała odbić samo Albert.
+
+Miasto leżało w rękach niemieckich od [26 marca](/niemcy-zajmuja-albert-chaulnes-i-roye), gdy w czasie operacji Michael Brytyjczycy oddali jego ruiny bez walki. Ancre miała tu około 4 metrów szerokości i 2 metry głębokości, a jej zabagnione brzegi były zryte pociskami. W nocy patrole 54 Brygady przeprawiły się na drugi brzeg mimo ciągłego ognia, a saperzy przerzucili lekkie mosty. O 4.45 przez rzekę na południe od miasta prowadziło już szesnaście kładek. Bataliony 6 Northamptonshire i 11 Royal Fusiliers przeszły po nich prawie bez strat i ruszyły na wzgórza na wschód od Albert, obchodząc miasto od południowego wschodu. O 5.45 batalion 8 East Surrey z 55 Brygady zaczął oczyszczać wschodnią, silnie obsadzoną część ruin. We mgle zaskoczył wiele niemieckich posterunków, a po 9 był już na wyznaczonej linii za miastem. Według brytyjskiej historii oficjalnej do 10 rano w Albert prawie nie było już Niemców. Natarcie poszło łatwiej, niż się spodziewano, bo broniąca miasta niemiecka 233 Dywizja była na froncie od 6 lipca, a wspierająca ją 13 Dywizja została mocno rozbita pod Amiens.
+
+Na grzbiecie na południe od miasta 12 Dywizja zdobyła wieś [Méaulte](https://pl.wikipedia.org/wiki/Méaulte), w czym pomogło jej pięćdziesiąt beczek płonącej ropy, które saperzy wystrzelili z miotaczy na niemiecki okop przed wsią, a do 8.30 jej brygady stanęły na celu. 47 Dywizja, złożona w dużej części z młodych, słabo wyszkolonych żołnierzy, zgubiła się we mgle i dymie i zatrzymała daleko przed celem, a jej druga brygada straciła zaporę ogniową. Dwa szwadrony kawalerii Northumberland Hussars, które miały wykorzystać sukces, wjechały do doliny nazywanej przez Brytyjczyków Happy Valley prosto pod ogień niemieckich karabinów maszynowych, a pierwszy z nich stopniał do dwudziestu kilku ludzi. Australijczycy doszli do swojego celu na północ od Bray około 8.15. Gdy mgła się podniosła, dzień zrobił się upalny, żołnierzom brakowało wody, a niemieccy artylerzyści strzelali na wprost z wyższych wzgórz. Po południu świeża niemiecka 25 Dywizja kontratakowała na styku 47 i 12 Dywizji i zepchnęła część linii londyńczyków, ale zatrzymały ją rezerwy brytyjskie i australijskie, a w nocy wycofała się, tracąc wielu ludzi.
+
+Według depesz [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) 4 Armia wzięła tego dnia ponad 2,4 tysiąca jeńców i kilka dział. Niemiecki występ między Sommą a Ancre przestał istnieć, a front 4 Armii przesunął się daleko na wschód od drogi Bray–Albert. Pole do dalszych natarć wciąż jednak zamykały wzgórza Tara i Usna na wschód od miasta, z których Niemcy ostrzeliwali każdy ruch z Albert. Dowódcy 18 Dywizji i sąsiedniej 38 (Walijskiej) Dywizji z 3 Armii uzgodnili, że zaatakują je razem następnego ranka, a Walijczycy mieli korzystać z przejść przez odbite miasto, zamiast brnąć przez bagna Ancre.
+
+Odbite miasto było zupełnie zniszczone. Z neobizantyjskiej bazyliki Notre-Dame de Brebières, której wieżę ze złoconą figurą Matki Boskiej znała cała armia brytyjska, zostały ruiny. „Pochylona Madonna”, która od 1915 roku wisiała niemal poziomo nad ulicą, runęła według większości źródeł już 16 kwietnia 1918 roku, gdy bazylikę ostrzelała artyleria brytyjska, by Niemcy nie mogli używać wieży do obserwacji. Bazylikę odbudowano według dawnych planów dopiero w latach 1927–1931.

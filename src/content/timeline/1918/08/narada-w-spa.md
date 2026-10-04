@@ -1,0 +1,35 @@
+---
+title: Narada w Spa
+summary: 14 sierpnia 1918 rada koronna w Spa uznała, że Niemcy nie wygrają wojny militarnie. Postanowiono szukać pokoju, ale dopiero w „stosownej chwili”.
+category: Polityka
+date: 1918-08-14
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Niemcy, Austro-Węgry, Erich Ludendorff, Wilhelm II]
+milestone: true
+draft: false
+---
+
+14 sierpnia 1918 roku w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)), belgijskim uzdrowisku, w którym mieściła się niemiecka kwatera główna, zebrała się pod przewodnictwem cesarza [Wilhelma II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) rada koronna. Sześć dni po klęsce pod [Amiens](/bitwy/bitwa-pod-amiens) przywódcy Rzeszy po raz pierwszy zapisali w podpisanym protokole, że wojny nie da się już wygrać środkami militarnymi i że trzeba przygotować się do porozumienia z wrogiem. Gdy w 1919 roku rząd niemiecki opublikował dokumenty o genezie rozejmu, właśnie od tej narady zaczynał całą historię starań o pokój. Zarazem jednak postanowiono z tym nie spieszyć i czekać na „stosowną chwilę”, która nigdy nie nadeszła.
+
+## Rozmowa w hotelu Britannique
+
+8 sierpnia, dzień, który generał [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff), pierwszy kwatermistrz generalny i faktyczny kierownik naczelnego dowództwa, nazwał potem „czarnym dniem armii niemieckiej”, wstrząsnął kwaterą główną. Jak Ludendorff pisał w pamiętnikach, gdy tylko ogarnął sytuację, postanowił jak najszybciej spotkać się z kanclerzem i sekretarzem stanu spraw zagranicznych. 13 sierpnia w pokoju feldmarszałka [Paula von Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) w hotelu Britannique rozmawiali we czterech: Hindenburg, Ludendorff, kanclerz [Georg von Hertling](https://pl.wikipedia.org/wiki/Georg_von_Hertling) i [Paul von Hintze](/hintze-ministrem-spraw-zagranicznych), od miesiąca kierujący niemiecką dyplomacją.
+
+Hintze zapamiętał, że w połowie lipca w Avesnes zapytał Ludendorffa wprost, czy jest pewien ostatecznego pokonania wroga w trwającej ofensywie, i usłyszał: „Mogę na to odpowiedzieć zdecydowanym tak”. Teraz, przed naradą, generał wziął go na bok i przyznał, że tej pewności już nie ma. Według relacji Ludendorffa na samej naradzie wyjaśnił, że ofensywą nie da się już zmusić przeciwnika do pokoju, a sama obrona też raczej tego nie osiągnie, więc wojnę trzeba będzie zakończyć drogą dyplomatyczną. Hindenburg oceniał położenie wojskowe bardziej optymistycznie. Hintze wyciągnął z tego wniosek, że rokowania pokojowe są nieuniknione, a Niemcy będą musiały zająć bardzo ugodowe stanowisko.
+
+## Rada koronna
+
+Następnego dnia rano zebrała się rada pod przewodnictwem cesarza. Obok Wilhelma II, Hertlinga, Hindenburga, Ludendorffa i Hintzego zasiadali w niej następca tronu [Wilhelm](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)), generał adiutant [Hans von Plessen](https://pl.wikipedia.org/wiki/Hans_von_Plessen) oraz szefowie gabinetów cywilnego i wojskowego, Friedrich von Berg i baron Ulrich von Marschall. Kanclerz opisał sytuację wewnętrzną: społeczeństwo jest zmęczone wojną, brakuje żywności, a z odzieżą jest jeszcze gorzej. Ludendorff domagał się surowszej dyscypliny w kraju i ukarania księcia [Karola Lichnowsky'ego](https://pl.wikipedia.org/wiki/Karol_Lichnowsky), byłego ambasadora w Londynie, którego memoriał o winie Niemiec za wybuch wojny alianci rozpowszechniali wśród żołnierzy na froncie.
+
+Najważniejsze było wystąpienie Hintzego o położeniu zewnętrznym. Przeciwnik, mówił, jest pewniejszy zwycięstwa niż kiedykolwiek, bo jest przekonany, że czas pracuje na jego korzyść. Neutralni mają dość wojny. Austro-Węgry oświadczają, że są u kresu sił i wytrzymają najwyżej do zimy, Bułgaria żąda coraz większych dostaw i subsydiów, a Turcja prowadzi na Kaukazie własną wojnę, krzyżując niemieckie plany. Skoro szef sztabu uznał, że wolę walki przeciwnika można już tylko stopniowo łamać strategiczną obroną, a nie zwycięskim natarciem, rząd musi wyciągnąć z tego wnioski polityczne. Ludendorff zanotował, że Hintze był wyraźnie poruszony, a w oczach stanęły mu łzy. Następca tronu poparł oceny Ludendorffa i Hintzego i zażądał najsurowszej dyscypliny na froncie wewnętrznym.
+
+Cesarz przyjął te wywody ze spokojem. Zgodził się z opisem położenia i, jak zapisano w protokole, oświadczył, że „trzeba przygotować się do szukania stosownej chwili na porozumienie z wrogiem”. Pośrednikami mieli być neutralni. Według Ludendorffa Wilhelm II myślał zwłaszcza o królowej Holandii [Wilhelminie](https://pl.wikipedia.org/wiki/Wilhelmina_(królowa_Holandii)). Polecił też powołać komisję propagandową, która miała osłabiać wiarę przeciwnika w zwycięstwo i umacniać ducha własnego narodu. Hertling podsumował, że dyplomatyczne sondy należy wysłać w odpowiednim momencie, a taki moment może się nadarzyć „po następnych sukcesach na zachodzie”. Hindenburg dodał, że armia zdoła utrzymać się na ziemi francuskiej i w ten sposób w końcu narzucić wrogowi swoją wolę. Według wydawców dokumentów z 1919 roku w pierwotnym zapisie feldmarszałek tylko „miał nadzieję”, że będzie to „jeszcze” możliwe, a stanowczą wersję wpisał ołówkiem prawdopodobnie Ludendorff.
+
+## Cesarz Karol w Spa
+
+Tego samego dnia do Spa przyjechał cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) z ministrem spraw zagranicznych baronem [Istvánem Buriánem](/burian-ministrem-spraw-zagranicznych) i szefem sztabu generalnego Arthurem Arzem von Straußenburgiem. Było to pierwsze spotkanie obu cesarzy od [majowego zjazdu](/spotkanie-w-spa) w tym samym miejscu. Już wcześniej niemiecki przedstawiciel przy austriackim dowództwie generał August von Cramon meldował, że Karol uważa zawarcie pokoju jeszcze w 1918 roku za konieczne. Rozmowy prowadzone 14 i 15 sierpnia pokazały głęboką różnicę zdań. Burián chciał, by państwa centralne wystąpiły jak najszybciej i to w formie bezpośredniego apelu do wszystkich państw wojujących. Niemcy uważali taki krok za przedwczesny, bo wojsko musiało najpierw okrzepnąć na nowej linii albo odnieść jakiś sukces, a za lepszą formę uważali pośrednictwo neutralnych. Burián zastrzegł sobie prawo do przygotowania własnej propozycji. Arz mówił Ludendorffowi, że armia austro-węgierska nie przetrzyma nadchodzącej zimy, a cesarze nie zdołali się porozumieć także w sprawie polskiej.
+
+## Stracony czas
+
+Po naradzie Hindenburg i Ludendorff wrócili do kwatery w Avesnes. 21 sierpnia Hintze i wicekanclerz Friedrich von Payer przedstawili przywódcom partii w Berlinie powagę położenia, a Hintze zapowiedział starania o pokój. W praktyce jednak Niemcy czekali. Hintze pisał potem, że jego pełnomocnictwo do kroków pokojowych zostało ograniczone, bo naczelne dowództwo nie było jeszcze gotowe na rezygnację z dotychczasowych celów wojennych. Burián, zirytowany zwlekaniem sojusznika, przesłał 21 sierpnia do Berlina projekt austro-węgierskiej noty pokojowej. Tymczasem alianci nie dawali chwili wytchnienia i kolejne bitwy spychały Niemców ku linii Zygfryda. Wyczekiwany „sukces na zachodzie” nie przyszedł, a półtora miesiąca później to Ludendorff zażądał natychmiastowej prośby o rozejm.

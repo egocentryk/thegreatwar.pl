@@ -1,0 +1,20 @@
+---
+title: Austriacy odbijają Berat
+summary: Pod koniec sierpnia 1918 Austriacy odzyskali Fier i Berat, a Włosi cofnęli się na wzgórza Malakastry. Dalszy marsz zatrzymały brak zaopatrzenia i malaria.
+category: Działania zbrojne
+front: Front bałkański
+date: 1918-08-26
+authors: [Natalia]
+dayOrder: 2
+tags: [Austro-Węgry, Włochy, Albania, Karl von Pflanzer-Baltin]
+milestone: false
+draft: false
+---
+
+Pod koniec sierpnia 1918 roku wojska austro-węgierskie odzyskały [Berat](https://pl.wikipedia.org/wiki/Berat), stare miasto nad rzeką [Osum](https://pl.wikipedia.org/wiki/Osum), które Włosi [zajęli 9 lipca](/wlosi-zajmuja-berat). Brytyjska chronologia wojny notuje to pod 26 sierpnia i tę datę podają też niektóre opracowania włoskie. Według austriackiej historii oficjalnej (*Österreich-Ungarns letzter Krieg*) oddziały 93 Brygady Piechoty przemaszerowały przez miasto już rano 25 sierpnia, a 26 sierpnia Austriacy ruszyli dalej na południe, za cofającymi się Włochami. Brytyjska historia oficjalna kampanii macedońskiej (Falls) pisze, że włoski odwrót zakończył się 26 sierpnia.
+
+O losie Beratu przesądził manewr, a nie szturm. W [kontrofensywie rozpoczętej 22 sierpnia](/austriacka-kontrofensywa-w-albanii) natarcie na północ od miasta utknęło przed silnie umocnionymi pozycjami. Dowódca 93 Brygady, generał major Lerch, skierował więc większość swoich sił przez grzbiet Tomoricy i przełęcz Cafa Darz na południowy wschód, tak by zajść Berat od tyłu. Włoski generał Treboldi spodziewał się dalszych ataków na Cafa Darz i tam przygotował główną obronę, więc uderzenie z 24 sierpnia całkowicie go zaskoczyło. Włosi walczący pod Beratem z trudem zdążyli przeprawić się przez Osum, zanim przeciwnik odciął im odwrót. Tego samego dnia, 24 sierpnia, dowódca włoskiego XVI Korpusu, generał Giacinto Ferrero, pod naciskiem przeciwnika i wobec ciężkich strat postanowił porzucić Berat i [Fier](https://pl.wikipedia.org/wiki/Fier) i cofnąć cały korpus na linię wzgórz [Malakastry](https://pl.wikipedia.org/wiki/Okręg_Mallakastra). Falls przypuszcza, że Ferrero działał na rozkaz Comando Supremo. W samym Fier walki uliczne trwały od popołudnia 24 sierpnia do rana 25 sierpnia, gdy Włosi wycofali się z miasta. Francuzi, stojący na wschód od Włochów, musieli w nocy z 24 na 25 sierpnia odgiąć swoje lewe skrzydło, a 26 sierpnia oddali Austriakom wzgórza pod Nartą.
+
+Pflanzer-Baltin już 25 sierpnia uznał, że operacja kończy się na zdobyciu Fier i Beratu. Pozwolił jeszcze na pościg do linii na południe od obu miast, ale dalej iść zabronił. Żołnierze, zwłaszcza na zachodnim skrzydle, byli zaskoczeni i rozczarowani, bo marsz aż nad [Wjosę](https://pl.wikipedia.org/wiki/Wjosa), skąd Włosi wyszli w lipcu, wydawał im się oczywisty. Generałowie wiedzieli jednak, że wojska są już poza zasięgiem zaopatrzenia, bo drogi i zapasy żywności w pasie walk zostały zniszczone. Jeszcze groźniejsza była [malaria](https://pl.wikipedia.org/wiki/Malaria). Według austriackiej historii oficjalnej w lipcu wojska w Albanii straciły 3900 ludzi w walce i 2600 z powodu chorób, a w sierpniu odpowiednio 2000 i aż 18 tysięcy. Na początku września żaden batalion nie miał więcej niż 150 strzelców. Sam Pflanzer-Baltin nazwał swoje około 10 tysięcy strzelców „śmiesznie małą siłą do obrony Albanii”, a utrzymanie frontu długiego na 180 km „wielkim blefem”.
+
+Odwrót Włochów zaniepokoił sojuszników. Według Fallsa dowódca brytyjskich sił na Adriatyku alarmował Admiralicję, że zagrożona jest Wlora, bez której nie dałoby się utrzymać zapory w [Cieśninie Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto). Rząd w Rzymie odpowiedział chłodno, że ofensywę przeprowadził Ferrero z własnej inicjatywy i dalej, niż chciało Comando Supremo, a obecna linia jest i tak lepsza niż ta z początku lipca. Na wszelki wypadek Włosi przerzucili jednak do Wlory kolejną brygadę, a do Brindisi dywizję. Odzyskanie Fier i Beratu uchodzi za ostatni znaczący sukces armii austro-węgierskiej w polu. Utrzymała je jednak tylko przez około pięć tygodni: po załamaniu się frontu bułgarskiego w Macedonii we wrześniu Austriacy musieli opuścić Albanię.
