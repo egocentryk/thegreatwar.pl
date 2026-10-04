@@ -1,0 +1,48 @@
+---
+title: Bunt w Kilonii
+summary: 3 listopada 1918 patrol w Kilonii strzelał do pochodu marynarzy i robotników. Nazajutrz miasto było w rękach rad żołnierskich. Zaczęła się rewolucja.
+category: Polityka
+front: Wojna na morzu
+date: 1918-11-03
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Niemcy, Kaiserliche Marine, rewolucja listopadowa, polityka wewnętrzna]
+milestone: false
+draft: false
+---
+
+3 listopada 1918 roku, w niedzielę wieczorem, w [Kilonii](https://pl.wikipedia.org/wiki/Kilonia), głównej bazie niemieckiej floty na Bałtyku, kilka tysięcy marynarzy, żołnierzy i robotników ruszyło w stronę wojskowego aresztu przy Feldstraße, by uwolnić uwięzionych kolegów z okrętów liniowych. Na Karlstraße zatrzymał ich patrol rekrutów pod dowództwem porucznika Oskara Steinhäusera, który kazał strzelać. Zginęło siedmiu ludzi, dwóch kolejnych zmarło potem z ran, a około trzydziestu zostało rannych. Niemiecki historyk Sebastian Haffner nazwał te strzały pierwszymi strzałami rewolucji. Po nich buntownicy nie mieli już odwrotu. Dzień później Kilonia była w ich rękach, a w ciągu tygodnia zbuntowane miasto pociągnęło za sobą całe Niemcy.
+
+## Ostatni rejs floty
+
+Bunt zaczął się od planu admirałów. 24 października, tego samego dnia, w którym naczelne dowództwo wydało [odezwę odrzucającą notę Wilsona](/dymisja-ludendorffa), kierownictwo wojny morskiej admirała [Reinharda Scheera](https://pl.wikipedia.org/wiki/Reinhard_Scheer) i jego szefa sztabu komandora [Magnusa von Levetzowa](https://pl.wikipedia.org/wiki/Magnus_von_Levetzow) oraz dowództwo [Floty Pełnomorskiej](https://pl.wikipedia.org/wiki/Hochseeflotte) admirała [Franza von Hippera](https://pl.wikipedia.org/wiki/Franz_von_Hipper) przygotowały rozkaz operacyjny nr 19. Flota miała uderzyć na brytyjskie siły i żeglugę u wybrzeży Flandrii i w ujściu Tamizy, a w drodze powrotnej, gdzieś na wysokości [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), stoczyć rozstrzygającą bitwę z Grand Fleet, osłabioną wcześniej przez miny i okręty podwodne. Te ostatnie były wolne, bo kilka dni wcześniej Scheer [odwołał je z wojny handlowej](/druga-nota-wilsona) na żądanie rządu.
+
+Rządu księcia [Maksa Badeńskiego](https://pl.wikipedia.org/wiki/Max_von_Baden), który właśnie zabiegał o rozejm, o niczym nie poinformowano. Szef sztabu floty kontradmirał [Adolf von Trotha](https://pl.wikipedia.org/wiki/Adolf_von_Trotha) pisał do Levetzowa, że oficerów ogarnia „groza i wstyd” na myśl, że flota mogłaby zginąć od wewnątrz, nie stoczywszy boju. Większość historyków ocenia szanse tej operacji jako znikome. Wielu z nich uważa też, że chodziło nie tylko o honor floty i jej przyszłość, ale i o storpedowanie rokowań prowadzonych przez rząd oparty na większości w Reichstagu.
+
+29 października okręty stojące na redzie Schillig pod [Wilhelmshaven](https://pl.wikipedia.org/wiki/Wilhelmshaven) dostały rozkaz wyjścia w morze następnego dnia. Marynarze, którzy z rozmów oficerów i przygotowań wyczytali, co się szykuje, nie zamierzali ginąć w „rejsie śmierci” na kilka dni przed końcem wojny. Wieczorem 29 października na pancernikach III Eskadry, między innymi na [Königu](https://pl.wikipedia.org/wiki/SMS_König), Markgrafie i Kronprinzu, oraz na kilku krążownikach doszło do „ekscesów”. Według niemieckich opracowań Hipper odwołał operację we wczesnych godzinach 30 października. Następnej nocy załogi pancerników Thüringen i Helgoland z I Eskadry odmówiły podniesienia kotwic i uszkodziły część urządzeń. Poddały się dopiero wtedy, gdy torpedowce i okręt podwodny zagroziły otwarciem ognia. Kilkuset marynarzy aresztowano. Po buncie z [sierpnia 1917 roku](/bunt-w-niemieckiej-flocie) i [egzekucji Reichpietscha i Köbisa](/egzekucja-reichpietscha-i-kobisa) wszyscy wiedzieli, że grozi im kara śmierci.
+
+## Eskadra w Kilonii
+
+Dowódca III Eskadry wiceadmirał Hugo Kraft uznał, że najlepiej będzie rozdzielić flotę, i poprowadził swoje okręty [Kanałem Kilońskim](https://pl.wikipedia.org/wiki/Kanał_Kiloński) do Kilonii. Po drodze kazał aresztować 47 marynarzy z Markgrafa, uznanych za prowodyrów. W nocy na 1 listopada eskadra stanęła w Kilonii, a aresztowanych przewieziono do więzienia przy Feldstraße i do fortu Herwarth. Był to fatalny wybór. Kilonia była miastem stoczni i zakładów zbrojeniowych z kilkudziesięcioma tysiącami robotników, z silnymi związkami zawodowymi i ruchem socjalistycznym. Od 30 października gubernatorem twierdzy był admirał [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon), dawny dowódca krążownika Goeben i floty tureckiej. Obawiał się on właśnie tego, że marynarze połączą się z robotnikami, ale Kraft dawał załogom przepustki na ląd, licząc, że to je uspokoi.
+
+1 listopada wieczorem około 250 marynarzy, palaczy i podoficerów zebrało się w domu związków zawodowych i postanowiło nie dopuścić do ponownego wyjścia floty w morze oraz wywalczyć uwolnienie kolegów. Dowódcy okrętów nie chcieli przyjąć ich delegatów. 2 listopada Souchon zakazał marynarzom wstępu do domu związkowego, więc około 600 ludzi zebrało się na placu ćwiczeń w lasku Vieburg. Oberpalacz z dywizjonu torpedowego Karl Artelt wzywał tam do odmowy służby, natychmiastowego pokoju i odsunięcia od władzy „militarystów”. Działacze [Niezależnej Socjaldemokratycznej Partii Niemiec](https://pl.wikipedia.org/wiki/Niezależna_Socjaldemokratyczna_Partia_Niemiec), wśród nich Lothar Popp, obiecali pomoc. W nocy drukowano ulotki: „Koledzy, nie strzelajcie do swoich braci!”.
+
+## Niedziela 3 listopada
+
+Rano dowódca Markgrafa kazał aresztować kolejnych 57 ludzi. Po południu, o 15.30, komendant miasta ogłosił alarm i wezwał wszystkich wojskowych do powrotu na okręty i do koszar. Wielu nie posłuchało, a niektórzy dopiero dzięki alarmowi dowiedzieli się o zgromadzeniu. Około 17.30 w lasku Vieburg zebrało się według niemieckich opracowań 5–6 tysięcy żołnierzy, robotników i robotnic. Kiloński przywódca związkowy Gustav Garbe prosił, by jeszcze kilka dni poczekać, ale nikt go nie słuchał. Tłum ruszył do gospody „Waldwiese”, gdzie kwaterowała kompania marynarzy, która dzień wcześniej odmówiła wykonania rozkazów. Budynek zdobyto bez walki, uwolniono zatrzymanych i zabrano broń.
+
+Pochód, coraz większy, przeszedł w ciemnościach przez śródmieście. Śpiewano robotniczą Marsyliankę, wznoszono okrzyki na cześć republiki, a hasło „Precz z cesarzem!” przyjmowano z entuzjazmem. Około 19.00 na Karlstraße, kilkaset metrów przed aresztem, drogę zagrodził patrol Steinhäusera z oddziału szkolnego dywizji torpedowej. Przebieg zdarzeń nie jest do końca jasny. Według najbardziej prawdopodobnej wersji rekruci najpierw strzelali w powietrze, a po drugim rozkazie, w panice, prosto w tłum, po czym uciekli. Steinhäusera ciężko pobito i postrzelono, ale przeżył. Tłum rozpędził w końcu wóz strażacki i kolejne oddziały, ale na bruku zostali zabici i ranni.
+
+Wieczorem Souchon uznał, że panuje nad sytuacją, i odwołał wezwanie piechoty z sąsiednich okręgów. W depeszy do Berlina prosił jednak o przysłanie „wybitnego posła socjaldemokratycznego”, który przemówiłby do marynarzy przeciw rewolucji i rewolcie.
+
+## Rady żołnierskie
+
+Strzały na Karlstraße nie zastraszyły buntowników, tylko ich zjednoczyły. 4 listopada od rana zastrajkowali robotnicy stoczni Germania i warsztatów torpedowych, a w wielkim kompleksie koszar w dzielnicy Wik zbuntował się dywizjon torpedowy, do którego przyłączyły się kolejne jednostki. Marynarze rozbroili oficerów i wybrali rady żołnierskie. Na czele pierwszej z nich w Niemczech stanął Artelt. Rady zażądały między innymi abdykacji Hohenzollernów, zniesienia stanu oblężenia, uwolnienia aresztowanych z III Eskadry i więźniów z 1917 roku, uwolnienia wszystkich więźniów politycznych oraz powszechnego, równego i tajnego prawa wyborczego dla obu płci. Ściągnięte z Rendsburga i Neumünster oddziały piechoty przybyły za późno albo przeszły na stronę buntowników.
+
+Po godzinie 14 Souchon zakazał używania broni i podjął rozmowy. Zgodził się wycofać wojska z zewnątrz i uwolnić aresztowanych z Markgrafa, których wieczorem wyprowadzono z więzienia przy wiwatach tłumu. Wieczorem przyjechał z Berlina socjaldemokratyczny poseł [Gustav Noske](https://pl.wikipedia.org/wiki/Gustav_Noske), wysłany przez rząd razem z sekretarzem stanu Conradem Haußmannem. Na nocnych rokowaniach w siedzibie gubernatora Popp powiedział podobno: „Ciągle mówicie o buncie marynarzy. Może to był bunt wczoraj i przedwczoraj, ale dziś już nie. Jesteśmy na początku rewolucji niemieckiej”. Wieczorem 4 listopada Kilonia była w rękach około 40 tysięcy zbuntowanych marynarzy, żołnierzy i robotników.
+
+## Iskra
+
+5 listopada na okrętach w porcie podniesiono czerwone bandery, a na stojącym w doku Königu doszło do strzelaniny, w której zginęli dwaj oficerowie broniący bandery wojennej i jeden marynarz. Robotnicy ogłosili strajk generalny i utworzyli radę robotniczą. Noske, który zamierzał wygasić bunt, uznał, że może go co najwyżej ująć w karby. 7 listopada rada żołnierska wybrała go na miejsce Souchona gubernatorem Kilonii.
+
+Marynarze tymczasem rozjeżdżali się po kraju, wioząc rewolucję ze sobą. W kolejnych dniach rady robotnicze i żołnierskie przejęły władzę w [Lubece](https://pl.wikipedia.org/wiki/Lubeka), [Hamburgu](https://pl.wikipedia.org/wiki/Hamburg), [Bremie](https://pl.wikipedia.org/wiki/Brema), Wilhelmshaven, [Hanowerze](https://pl.wikipedia.org/wiki/Hanower) i [Kolonii](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)), niemal nigdzie nie napotykając oporu. 7 listopada rewolucja dotarła do Monachium, a dwa dni później do Berlina. Plan ostatniej bitwy, który miał ocalić honor floty, doprowadził do [rewolucji listopadowej](https://pl.wikipedia.org/wiki/Rewolucja_listopadowa) i upadku cesarstwa. Sama Flota Pełnomorska już nigdy nie wypłynęła do walki.

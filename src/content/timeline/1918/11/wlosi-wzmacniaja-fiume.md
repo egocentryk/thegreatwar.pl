@@ -1,0 +1,19 @@
+---
+title: Włosi wzmacniają Fiume
+summary: 17 listopada 1918 do Fiume wkroczyły wojska włoskie generała San Marzano. Chorwacką władzę usunięto, a Jugosłowianie zaprotestowali.
+category: Wojsko
+date: 1918-11-18
+authors: [Natalia]
+dayOrder: 2
+tags: [Włochy, Serbia, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+17 listopada 1918 roku do Fiume, dzisiejszej [Rijeki](https://pl.wikipedia.org/wiki/Rijeka), wkroczyły w pięciu kolumnach oddziały włoskiej 3 Armii pod dowództwem generała Enrica Asinariego di San Marzano. Jednocześnie z okrętów zeszli na ląd marynarze i piechota morska. Brytyjska chronologia wojny notuje pod 17 listopada protest jugosłowiańskiej Rady Narodowej przeciwko włoskiej okupacji Fiume, a pod 18 listopada wzmocnienie przez wojska włoskie dywizji morskiej, która stała w porcie [od dwóch tygodni](/wlosi-w-fiume). Oba wydarzenia składały się na jedno: Włosi przejęli miasto, które do tej pory formalnie podlegało władzom Państwa Słoweńców, Chorwatów i Serbów.
+
+Do połowy listopada w Fiume trwała dwuwładza. Pałac gubernatora i urzędy zajmowali ludzie [Rady Narodowej](https://pl.wikipedia.org/wiki/Rada_Narodowa_Słoweńców,_Chorwatów_i_Serbów) w Zagrzebiu, a miasta strzegły chorwackie bataliony podpułkownika Petara Teslicia. Włoska Rada Narodowa, która [30 października](/rada-narodowa-fiume) ogłosiła połączenie z Włochami, mogła liczyć tylko na okręty w porcie, których załogi nie schodziły na ląd. 15 listopada z Zagrzebia przyjechał batalion wojska serbskiego z Dywizji Ochotniczej, liczący około 700 ludzi, pod dowództwem podpułkownika Vojina Maksimovicia. W odpowiedzi rząd włoski zezwolił na desant, a admirał Umberto Cagni wysłał do Fiume niszczyciel i krążownik z batalionem piechoty i karabinierami oraz statek z dwoma batalionami piechoty morskiej. Według chorwackich historyków włoski dowódca nakłonił Maksimovicia do opuszczenia miasta, obiecując, że wojska włoskie do niego nie wejdą, a porządku będą pilnować oddziały francuskie. Serbowie wycofali się do pobliskiej [Kraljevicy](https://pl.wikipedia.org/wiki/Kraljevica), a zaraz potem do Fiume wkroczyli Włosi. Oddziały Teslicia rozbrojono, a władzę cywilną Rady Narodowej usunięto. Ile wojska przyszło z San Marzanem, nie wiadomo dokładnie. Opracowania podają od około 13 do 16 tysięcy żołnierzy, wśród nich grenadierów sardyńskich i kawalerię.
+
+Włosi powoływali się na [rozejm z Austro-Węgrami](/rozejm-w-villa-giusti), który pozwalał sprzymierzonym zajmować punkty strategiczne. [Traktat londyński](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) z 1915 roku nie przyznawał im jednak Fiume, a międzysojusznicza komisja morska dla Adriatyku przeznaczyła zatokę [Kvarner](https://pl.wikipedia.org/wiki/Kvarner) na strefę brytyjską. Dlatego obok Włochów w mieście stanęły także niewielkie oddziały innych sprzymierzonych. Francuzi obsadzili część portu, około 25 listopada przybył batalion piechoty brytyjskiej, a pod koniec miesiąca, według brytyjskiej chronologii 26 listopada, batalion amerykańskiego 332 pułku piechoty. Pułk ten walczył w 1918 roku na froncie włoskim i po rozejmie pozostał pod włoskim dowództwem. Siły włoskie przewyższały jednak pozostałe wielokrotnie, a wiosną 1919 roku stało ich w Fiume około 20 tysięcy.
+
+Pod osłoną włoskiej armii miastem rządziła Włoska Rada Narodowa z lekarzem Antoniem Grossichem na czele. Chorwaci z Fiume i sąsiedniego Sušaku zostali odsunięci od władzy, a w grudniu włoski spis ludności, przez Chorwatów uznany za przeprowadzony pod przymusem, wykazał w mieście 62 procent Włochów. Utrata Fiume i włoskie postępy na wybrzeżu Dalmacji przyspieszyły decyzję Rady Narodowej w Zagrzebiu o szybkim zjednoczeniu z Serbią. Spór o miasto przeniósł się na [konferencję pokojową w Paryżu](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), a we wrześniu 1919 roku Fiume zajęli ochotnicy [Gabriele D’Annunzia](https://pl.wikipedia.org/wiki/Gabriele_D’Annunzio).

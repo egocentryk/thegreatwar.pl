@@ -1,0 +1,21 @@
+---
+title: Zgromadzenie w Podgoricy
+summary: 26 listopada 1918 Wielkie Zgromadzenie Narodowe w Podgoricy zdetronizowało króla Mikołaja I i ogłosiło zjednoczenie Czarnogóry z Serbią.
+category: Polityka
+date: 1918-11-26
+authors: [Natalia]
+dayOrder: 1
+tags: [Czarnogóra, Mikołaj I Petrowić-Niegosz, Serbia]
+milestone: false
+draft: false
+---
+
+26 listopada 1918 roku (13 listopada według kalendarza juliańskiego, którego używano w Czarnogórze) Wielkie Zgromadzenie Narodowe obradujące w [Podgoricy](https://pl.wikipedia.org/wiki/Podgorica) jednogłośnie zdetronizowało króla [Mikołaja I](https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz) i ogłosiło połączenie Czarnogóry z Serbią. Brytyjska chronologia wojny notuje pod 29 listopada zebranie czarnogórskiego Zgromadzenia Narodowego w Podgoricy. Zgromadzenie obradowało od 24 do 29 listopada, ale najważniejszą uchwałę przyjęło 26 listopada.
+
+Zgromadzenie przygotowali zwolennicy zjednoczenia przy pomocy armii serbskiej. Pod koniec października do Czarnogóry weszły tzw. Wojska Adriatyckie pułkownika Dragutina Milutinovicia, złożone z żołnierzy dywizji jugosłowiańskiej i serbskich ochotników z Kosowa. 28 października w [Beranach](https://pl.wikipedia.org/wiki/Berane) powstał Centralny Komitet Wykonawczy dla zjednoczenia Serbii i Czarnogóry. Na początku listopada ostatnie oddziały austro-węgierskie opuściły kraj, a Serbowie zajęli [Cetynię](https://pl.wikipedia.org/wiki/Cetynia). Według relacji historyków Milutinović miał od regenta [Aleksandra](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić) polecenie, by wszelkimi sposobami nie dopuścić do powrotu króla. Mikołaj I, który [20 października](/manifest-krola-mikolaja) opowiedział się za konfederacją jugosłowiańską z równorzędną Czarnogórą, przebywał we Francji, a władze francuskie nie pozwoliły mu wrócić do kraju.
+
+7 listopada komitet w Beranach ogłosił zasady wyborów do zgromadzenia. Miało ono liczyć 165 delegatów wybieranych pośrednio przez elektorów w okręgach, gminach i miastach. Przeciwnicy zarzucali, że ordynacji nie uchwalił żaden czarnogórski organ ustawodawczy i że łamała obowiązującą konstytucję. Na miejsce obrad wybrano Podgoricę, bo stołeczna Cetynia była ostoją zwolenników króla. Kandydaci stronnictwa zjednoczenia bezwarunkowego mieli listy drukowane na białym papierze, a ich przeciwnicy, zwolennicy zjednoczenia na równych prawach, na zielonym, stąd nazwy biali i zieloni. W wyborach 19 listopada biali zdobyli zdecydowaną większość. Głosowania nie przeprowadzono w kilku okręgach, m.in. w [Ulcinju](https://pl.wikipedia.org/wiki/Ulcinj).
+
+Zgromadzenie zebrało się 24 listopada w sali Monopolu Tytoniowego w Podgoricy i wybrało na przewodniczącego Sava Cerovicia. 26 listopada odczytano projekt uchwały, przy okrzykach i śpiewie serbskiego hymnu, mimo protestów kilku delegatów, że nie było nad nią debaty. Uchwała składała się z czterech punktów. Pozbawiała tronu Mikołaja I i całą dynastię [Petrowiciów-Niegoszów](https://pl.wikipedia.org/wiki/Petrovicie_Njegoše). Ogłaszała, że Czarnogóra łączy się z Serbią pod berłem dynastii [Karadziordziewiciów](https://pl.wikipedia.org/wiki/Dynastia_Karadziordziewiciów) i wchodzi do wspólnego państwa „trójimiennego narodu” Serbów, Chorwatów i Słoweńców. Powoływała pięcioosobowy komitet wykonawczy, który miał przeprowadzić zjednoczenie, i nakazywała zawiadomić o niej króla, rząd Serbii oraz państwa sprzymierzone i neutralne. Uchwałę przyjęto jednogłośnie, pod nieobecność trzech delegatów. Na kolejnych posiedzeniach, do 29 listopada, zgromadzenie wybrało komitet wykonawczy, wysłało do Belgradu delegację z biskupem Gavrilem Dožiciem na czele, skonfiskowało majątek króla i zakazało jego rodzinie powrotu do kraju.
+
+Kilka dni później, 1 grudnia, regent Aleksander proklamował [Królestwo Serbów, Chorwatów i Słoweńców](https://pl.wikipedia.org/wiki/Królestwo_Serbów,_Chorwatów_i_Słoweńców). Mikołaj I i jego rząd na wygnaniu uznali uchwały z Podgoricy za nielegalne. Na początku stycznia 1919 roku zieloni chwycili za broń w [powstaniu bożonarodzeniowym](https://pl.wikipedia.org/wiki/Powstanie_bożonarodzeniowe), które jednak upadło. Spór o legalność zgromadzenia przetrwał całe stulecie. W 2018 roku, już po odzyskaniu przez Czarnogórę niepodległości, jej parlament unieważnił uchwałę z Podgoricy, nazywając zjednoczenie zamachem stanu.

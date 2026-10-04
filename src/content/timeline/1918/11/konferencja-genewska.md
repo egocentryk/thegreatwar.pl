@@ -1,0 +1,29 @@
+---
+title: Konferencja genewska
+summary: 6–9 listopada 1918 w Genewie Pašić, Korošec i Trumbić uzgodnili wspólny rząd Serbii i Państwa SHS. Belgrad wkrótce odrzucił to porozumienie.
+category: Dyplomacja
+date: 1918-11-07
+authors: [Natalia]
+dayOrder: 2
+tags: [Serbia, Nikola Pašić, Austro-Węgry]
+milestone: false
+draft: false
+---
+
+7 listopada 1918 roku w [Genewie](https://pl.wikipedia.org/wiki/Genewa) premier Serbii [Nikola Pašić](https://pl.wikipedia.org/wiki/Nikola_Pašić), pod naciskiem sprzymierzonych, przystał na plan wspólnego rządu Serbii i nowego Państwa Słoweńców, Chorwatów i Serbów. Brytyjska chronologia wojny notuje pod tą datą, że konferencja w Genewie postanowiła utworzyć wspólny rząd jugosłowiańsko-serbski. Rozmowy w hotelu National trwały od 6 do 9 listopada, a ich wynik, nazywany deklaracją genewską, podpisano ostatniego dnia. Rząd serbski zgodził się w nim, choć tylko na kilka dni, traktować jugosłowiańskie władze z Zagrzebia jako równorzędnego partnera.
+
+## Droga do Genewy
+
+Spór o kształt przyszłego państwa ciągnął się od [deklaracji z Korfu](/deklaracja-z-korfu) z 1917 roku. Pašić chciał zjednoczenia wokół Serbii i jej dynastii, a przewodniczący [Komitetu Jugosłowiańskiego](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański) [Ante Trumbić](https://pl.wikipedia.org/wiki/Ante_Trumbić) obawiał się serbskiej hegemonii i domagał się, by sprzymierzeni uznali Jugosłowian z monarchii habsburskiej za naród sprzymierzony. Pod koniec października sytuacja się zmieniła. W Zagrzebiu [proklamowano Państwo SHS](/niepodleglosc-panstwa-shs), a przewodniczący jego Rady Narodowej, słoweński ksiądz [Anton Korošec](https://pl.wikipedia.org/wiki/Anton_Korošec), wyjechał do Szwajcarii, by nawiązać kontakt z sprzymierzonymi. Do Paryża nie mógł pojechać, bo miał wizę tylko do neutralnej Szwajcarii. 3 listopada brytyjski premier Lloyd George i minister spraw zagranicznych Arthur Balfour dali stronom do zrozumienia przez premiera Grecji [Elefteriosa Wenizelosa](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) i czeskiego polityka [Edvarda Beneša](https://pl.wikipedia.org/wiki/Edvard_Beneš), że o żadnym państwie południowosłowiańskim nie będzie mowy, dopóki jego twórcy się nie porozumieją. Zaproponowano wspólny gabinet wojenny, który reprezentowałby Jugosłowian wobec sprzymierzonych.
+
+## Rozmowy
+
+6 listopada w Genewie spotkały się cztery delegacje. Serbski rząd reprezentował sam Pašić. Przyjechali też przywódcy serbskiej opozycji parlamentarnej [Milorad Drašković](https://pl.wikipedia.org/wiki/Milorad_Drašković), Marko Trifković i Vojislav Marinković, a także Trumbić z kilkoma członkami Komitetu Jugosłowiańskiego. Radę Narodową reprezentowali Korošec, słoweński liberał Gregor Žerjav i dalmatyński polityk Melko Čingrija. Korošec i Trumbić szybko utworzyli wspólny front, a serbska opozycja, skłócona z Pašiciem w trwającym kryzysie rządowym, stanęła po ich stronie. Pašić był w Genewie osamotniony i nie zamierzał ustępować. Serbia była jedynym uznanym państwem w całym procesie zjednoczenia i nie chciała tracić tej przewagi.
+
+Przełom przyszedł 7 listopada. Z serbskiego poselstwa w Paryżu nadeszła szyfrowana depesza, że prezydent Francji [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) życzy sobie, by Pašić porozumiał się z przedstawicielami Rady Narodowej. Pašić przyjął wtedy plan Trumbicia. Zgodził się też, na wniosek Korošca, by Serbia uznała Radę Narodową za prawowity rząd Słoweńców, Chorwatów i Serbów z dawnych ziem Austro-Węgier i poprosiła sprzymierzonych o to samo, a także o uznanie jugosłowiańskich ochotników za wojsko sprzymierzone. Na żądanie Trumbicia i serbskiej opozycji Pašić zrezygnował z udziału we wspólnym rządzie. Tego samego dnia zawiadomił depeszą o wyniku rozmów regenta [Aleksandra](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić) i ministra finansów [Stojana Protića](https://pl.wikipedia.org/wiki/Stojan_Protić).
+
+Według uzgodnionego tekstu do czasu zwołania konstytuanty, która miała nadać nowemu państwu ustrój, rząd Serbii i Rada Narodowa w Zagrzebiu zachowywały władzę każdy na swoim obszarze. Nad nimi powstawał wspólny rząd z dwunastoma ministrami, odpowiedzialny za sprawy zagraniczne, wojsko, wspólne finanse, komunikację i przygotowanie konstytuanty. Połowę ministrów od razu wyznaczono: trzech, wśród nich [Ljubomira Davidovicia](https://pl.wikipedia.org/wiki/Ljubomir_Davidović), wskazała Serbia, a trzech Rada Narodowa. Było to rozwiązanie konfederacyjne, przypominające nieco dualizm austro-węgierski. Uczestnicy zaprosili też do wspólnego państwa Czarnogórę, a 8 listopada Korošec rozmawiał o tym z ministrem rządu króla Mikołaja. Pašić próbował wyjechać z Genewy przed podpisaniem, ale pozostali szybko spisali porozumienie i 9 listopada podpisał je razem z jedenastoma innymi uczestnikami, zastrzegając, że ma co do niego wątpliwości.
+
+## Odrzucenie
+
+Porozumienie nie przetrwało nawet tygodnia. Protić najpierw zaaprobował je w imieniu rządu, ale 11 listopada dostał od Pašicia drugą depeszę, w której premier skarżył się na brak zaufania partnerów i sugerował, że regent może poszukać innych doradców. Protić uznał to za polecenie i 12 listopada rząd serbski podał się do dymisji, odrzucając deklarację. Historycy do dziś spierają się, czy było to wymuszone przez regenta, czy było przemyślaną taktyką Pašicia. 14 listopada Pašić zawiadomił Trumbicia i Korošca, że rząd i regent nie przyjmą wspólnych ministrów, którzy nie składaliby przysięgi królowi Serbii. Serbska opozycja porzuciła Trumbicia i dogadała się z Pašiciem w sprawie rządu koalicyjnego. Również w Zagrzebiu najbardziej wpływowy polityk Rady Narodowej, [Svetozar Pribićević](https://pl.wikipedia.org/wiki/Svetozar_Pribićević), uznał, że deklaracja go nie wiąże. Pod presją zamieszek na wsi i włoskich wojsk, które zajmowały wybrzeże Adriatyku, Rada Narodowa wybrała drogę szybkiego zjednoczenia z Serbią bez warunków wynegocjowanych w Genewie.

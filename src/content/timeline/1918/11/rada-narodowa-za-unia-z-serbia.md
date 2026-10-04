@@ -1,0 +1,21 @@
+---
+title: Rada Narodowa za unią z Serbią
+summary: 23–24 listopada 1918 Rada Narodowa w Zagrzebiu postanowiła zjednoczyć Państwo SHS z Serbią i Czarnogórą. Stjepan Radić ostrzegał przed pośpiechem.
+category: Polityka
+date: 1918-11-23
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Serbia, Czarnogóra, polityka wewnętrzna]
+milestone: false
+draft: false
+---
+
+23 listopada 1918 roku w gmachu Saboru w [Zagrzebiu](https://pl.wikipedia.org/wiki/Zagrzeb) zebrał się Komitet Centralny [Rady Narodowej Słoweńców, Chorwatów i Serbów](https://pl.wikipedia.org/wiki/Rada_Narodowa_Słoweńców,_Chorwatów_i_Serbów), by zdecydować o zjednoczeniu z Serbią. Brytyjska chronologia wojny notuje pod tą datą, że Rada głosowała za unią z Serbią i za utworzeniem wspólnego państwa z Serbią i Czarnogórą. Obrady trwały dwa dni, a uchwałę przyjęto 24 listopada, i tę datę podają opracowania chorwackie i serbskie.
+
+Rada działała pod ogromną presją. Państwo Słoweńców, Chorwatów i Serbów, [proklamowane](/niepodleglosc-panstwa-shs) pod koniec października, nie miało ani uznania sprzymierzonych, ani sprawnego wojska. Na wsi grasowały bandy dezerterów, tzw. zielone kadry, a chłopi napadali na dwory i sklepy. Wojska włoskie zajmowały Istrię, część Dalmacji i [Fiume](/wlosi-wzmacniaja-fiume), a od zachodu zbliżały się do Lublany. Porozumienie zawarte na [konferencji w Genewie](/konferencja-genewska), które przewidywało konfederację na równych prawach, odrzucił rząd serbski. 22 listopada serbski oficer łącznikowy w Zagrzebiu, podpułkownik Dušan Simović, doniósł o rzekomym spisku byłego austro-węgierskiego generała Antona Lipošćaka, który miał obalić Radę. Zarzuty okazały się fałszywe, a generała w styczniu 1919 roku uniewinniono, ale wiceprzewodniczący Rady [Svetozar Pribićević](https://pl.wikipedia.org/wiki/Svetozar_Pribićević) wykorzystał sprawę jako argument za natychmiastowym zjednoczeniem. Komitet otrzymał też ultimatum rządu krajowego Dalmacji. Jej przedstawiciele, Ivo Krstelj i Josip Smodlaka, zapowiedzieli, że jeśli Rada w ciągu pięciu dni nie zdecyduje się na unię, Dalmacja sama przyłączy się do Serbii. Podobne stanowisko zajęła Rada Narodowa w Sarajewie, a 24 listopada zgromadzenie w [Rumie](https://pl.wikipedia.org/wiki/Ruma) zapowiedziało oderwanie Sremu od Chorwacji.
+
+Przeciw pośpiechowi wystąpił przywódca Chorwackiej Ludowej Partii Chłopskiej [Stjepan Radić](https://pl.wikipedia.org/wiki/Stjepan_Radić). Przekonywał, że zjednoczenie na takich warunkach jest wbrew woli większości Chorwatów, i ostrzegał członków Rady: „Ne srljajte kao guske u maglu!”, czyli „Nie pchajcie się jak gęsi we mgłę!”. Proponował konfederację z trzema regentami, królem Serbii, banem Chorwacji i przewodniczącym słoweńskiej Rady Narodowej, oraz z autonomicznymi rządami Słowenii, Chorwacji, Serbii, Czarnogóry, Bośni i Hercegowiny, Dalmacji i Wojwodiny. Większość uznała to za skrajny separatyzm.
+
+24 listopada Rada postanowiła ogłosić zjednoczenie Państwa SHS z Królestwem Serbii i Królestwem Czarnogóry w jedno państwo i wybrała 28-osobową delegację, która miała pojechać do Belgradu. Dała jej pisemną instrukcję. Do czasu uchwalenia konstytucji władzę monarszą miał tymczasowo sprawować regent Serbii [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić). Konstytucję miała przyjąć konstytuanta kwalifikowaną większością dwóch trzecich głosów. Do wspólnego rządu miały należeć sprawy zagraniczne, wojsko, finanse, koleje i żegluga oraz poczta, a dotychczasowe urzędy i sądy w poszczególnych krajach miały pozostać na miejscu. Przeciw głosowali tylko Radić i Dragutin Hrvoj.
+
+Delegacja wyjechała z Zagrzebia 27 listopada, po tym jak zwolennicy Pribićevicia wykluczyli Radicia z Komitetu Centralnego. W Belgradzie, nakłoniona przez Pribićevicia i pod naciskiem włoskich postępów na wybrzeżu, odłożyła instrukcję na bok. 1 grudnia 1918 roku wiceprzewodniczący Rady [Ante Pavelić](https://pl.wikipedia.org/wiki/Ante_Pavelić_(1869–1938)) odczytał regentowi adres bez żadnych warunków, a Aleksander proklamował [Królestwo Serbów, Chorwatów i Słoweńców](https://pl.wikipedia.org/wiki/Królestwo_Serbów,_Chorwatów_i_Słoweńców). Sprawa ustroju, nierozstrzygnięta w Zagrzebiu, obciążyła nowe państwo na całe dwudziestolecie.
