@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front zachodni
 date: 1914-09-24
 authors: [Natalia]
-dayOrder: 3
+dayOrder: 4
 tags: [Niemcy, Francja, wyścig do morza, Pikardia]
 milestone: false
 draft: false

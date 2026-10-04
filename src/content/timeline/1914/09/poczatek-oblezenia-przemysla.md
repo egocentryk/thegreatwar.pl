@@ -6,7 +6,7 @@ front: Front wschodni
 battle: pierwsze-oblezenie-przemysla
 date: 1914-09-24
 authors: [Łukasz Skowroń]
-dayOrder: 2
+dayOrder: 3
 tags: [Austro-Węgry, Rosja, Galicja, Przemyśl]
 milestone: false
 draft: false

@@ -215,7 +215,7 @@ export const BATTLE_PHASES = [
     front: "Front bałkański",
     dates: "od maja 1918",
     intro:
-      "Po przystąpieniu Grecji do wojny w 1917 roku armia grecka stała się filarem frontu salonickiego. Wiosną 1918 roku nowy dowódca wojsk sprzymierzonych, generał Guillaumat, przygotowywał ją do walki, a pierwszym sprawdzianem było zdobycie pozycji bułgarskich pod Skra di Legen. Bułgaria, wyczerpana wojną i niezadowolona z podziału łupów, słabła, a w Salonikach dojrzewał plan wielkiej ofensywy, którą we wrześniu przeprowadził generał Franchet d'Espèrey.",
+      "Po przystąpieniu Grecji do wojny w 1917 roku armia grecka stała się filarem frontu salonickiego. Wiosną 1918 roku nowy dowódca wojsk sprzymierzonych, generał Guillaumat, przygotowywał ją do walki, a pierwszym sprawdzianem było zdobycie pozycji bułgarskich pod Skra di Legen. Bułgaria, wyczerpana wojną i niezadowolona z podziału łupów, słabła, a w Salonikach dojrzewał plan wielkiej ofensywy, którą we wrześniu przeprowadził generał Franchet d'Espérey.",
   },
   {
     slug: "1918-front-wloski",

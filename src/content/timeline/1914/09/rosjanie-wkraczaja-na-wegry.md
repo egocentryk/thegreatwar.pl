@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front wschodni
 date: 1914-09-24
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Rosja, Austro-Węgry, Karpaty]
 milestone: false
 draft: false

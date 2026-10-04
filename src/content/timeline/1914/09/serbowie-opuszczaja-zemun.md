@@ -3,7 +3,6 @@ title: Serbowie opuszczają Zemun
 summary: Pod 17 września 1914 brytyjska chronologia notuje wycofanie Serbów ze Sremu i ewakuację Zemunu. Do miasta wrócili Austro-Węgrzy, a z nimi represje.
 category: Działania zbrojne
 front: Front bałkański
-battle: ofensywa-w-sremie
 date: 1914-09-17
 authors: [Łukasz Skowroń]
 dayOrder: 4

@@ -1,0 +1,37 @@
+---
+title: Zajęcie Nazaretu i Bejsanu
+summary: 20 września 1918 brytyjska jazda wyszła na Dolinę Jezreel, zajęła Al-Afulę i Bejsan i wpadła do Nazaretu. Liman von Sanders uszedł z niewoli w ostatniej chwili.
+category: Działania zbrojne
+front: Bliski Wschód
+battle: bitwa-pod-megiddo
+date: 1918-09-20
+authors: [Natalia]
+dayOrder: 2
+tags: [Wielka Brytania, Imperium Osmańskie, Indie Brytyjskie, Otto Liman von Sanders]
+milestone: false
+draft: false
+---
+
+20 września 1918 roku, dobę po [przełamaniu frontu tureckiego nad morzem](/poczatek-bitwy-pod-megiddo), jazda generała porucznika Harry'ego Chauvela wyszła z gór na [Dolinę Jezreel](https://pl.wikipedia.org/wiki/Dolina_Jezreel), kilkadziesiąt kilometrów za plecami tureckich armii. Do wieczora zajęła węzeł kolejowy w Al-Afuli, zamknęła drogę w Bejsanie nad Jordanem i obsadziła Dżenin. O świcie jedna z jej brygad wpadła do [Nazaretu](https://pl.wikipedia.org/wiki/Nazaret), gdzie stała kwatera tureckiej Grupy Armii „Yıldırım”, i niewiele brakowało, by wzięła do niewoli jej dowódcę, generała [Ottona Limana von Sandersa](https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders).
+
+## Szarża pod Megiddo
+
+W nocy indyjski 2 Pułk Lansjerów z 4 Dywizji Kawalerii przeszedł bez walki przełęcz Musmus, po drodze zatrzymując długą kolumnę tureckich taborów, której ludzie poddali się bez oporu. O 3.30 stanął w [Al-Ladżdżun](https://pl.wikipedia.org/wiki/Ladżdżun), u stóp wzgórza starożytnego [Megiddo](https://pl.wikipedia.org/wiki/Megiddo), gdzie znalazł około stu Turków siedzących przy ogniskach z bronią w kozłach. Reszta dywizji spóźniła się o ponad dwie godziny, bo przewodnik jednej z brygad zgubił drogę i poprowadził ją kilka kilometrów na północ, w złą dolinę.
+
+O 5.30 lansjerzy ruszyli na Al-Afulę. Po kilku minutach natknęli się na turecki pułk zapasowy, który Liman wysłał poprzedniego dnia w południe z Nazaretu, by zamknął wylot przełęczy. Spóźnił się i rozwinął teraz na równinie w dwóch liniach. Jeden szwadron związał go ogniem razem z samochodami pancernymi i karabinami maszynowymi, a dwa inne uderzyły z boku, wykorzystując niewielkie obniżenie terenu. Tureccy kaemiści strzelali za wysoko, wytrąceni z równowagi pędem koni. 46 Turków zginęło od lanc, a 470 dostało się do niewoli. Lansjerzy stracili jednego rannego i 12 koni. Około 7.45 wjechali do [Al-Afuli](https://pl.wikipedia.org/wiki/Afula), której stację nieco wcześniej zajęli jeźdźcy indyjskiego Deccan Horse z 5 Dywizji Kawalerii. Na stacji stało dziesięć lokomotyw i pięćdziesiąt wagonów, na lotnisku trzy samoloty. Czwarty zdążył się poderwać. Wkrótce potem wylądował jeszcze jeden, którego załoga nie wiedziała, że lotnisko jest w rękach Brytyjczyków. Lotnicy otworzyli ogień, ale zostali zastrzeleni, a samolot z workami poczty wpadł w ręce zwycięzców.
+
+## Rajd na Nazaret
+
+Zadanie pojmania Limana dostała 13 Brygada Kawalerii generała brygady P. J. V. Kelly'ego z 5 Dywizji, złożona z brytyjskich huzarów z Gloucestershire i dwóch pułków indyjskich, 18 Lansjerów i Hodson's Horse. Po całonocnym marszu w pojedynczym szeregu przez wzgórza i ścieżkami ledwie widocznymi w świetle księżyca brygada wyszła na Dolinę Jezreel o 2.15 i przerwała tor kolejowy z Al-Afuli do Hajfy. Przewodnik zaprowadził ją jednak do wioski Al-Mudżajdil, którą wziął za Nazaret, i lansjerzy zagarnęli tam dwustu śpiących Turków, zanim pomyłka się wyjaśniła. Część oddziałów zabłądziła w ciemności albo zbierała jeńców, więc do Nazaretu dotarła tylko osłabiona brygada na zmęczonych koniach. Według Fallsa, autora brytyjskiej historii oficjalnej, stało się to o 4.30, Liman pisał o alarmie o 5.30.
+
+Huzarzy z Gloucestershire z szablami w dłoniach pogalopowali główną ulicą, szukając kwatery marszałka. Nikt nie potrafił im jej wskazać: mieszkańcy, pamiętając, jak Turcy wieszali sympatyków Brytyjczyków po wiosennym rajdzie na As-Salt, bali się odezwać. W hotelu Germania, gdzie kwaterowało i stołowało się wielu oficerów i urzędników sztabu, wzięto mnóstwo jeńców, a w pobliskich domach stosy dokumentów. Do głównego biura sztabu w hospicjum Casa Nuova Brytyjczycy jednak nie dotarli. Liman, obudzony strzałami, według relacji swojej gospodyni wyjechał najpierw autem na północ w bieliźnie nocnej i wrócił się ubrać, gdy uznał, że sytuacja nie jest tak zła. Sam o tym nie wspominał. Pisał natomiast, że niemieccy pisarze, ordynansi i kierowcy bronili się zza murów, z okien i balkonów, a oficerowie strzelali z karabinków. O 8.30 Liman pojechał na wzgórza pod francuskim sierocińcem i kazał resztkom pułku zapasowego kontratakować. Dwa razy się to nie udało, trzecie natarcie zepchnęło Brytyjczyków ze wzgórz na zachód od miasta. Falls oddał sprawiedliwość niemieckim pisarzom, którzy z desperacką odwagą atakowali tak długo, aż prawie wszyscy padli od ognia karabinów maszynowych.
+
+Kelly prosił o posiłki, ale dowódca dywizji, generał major Henry Macandrew, uznał, że konie nie dadzą rady. Na jego decyzję wpłynął zapewne meldunek samego Kelly'ego, że Liman podobno opuścił miasto poprzedniego wieczoru, co okazało się nieprawdą. O 10.55 kazał brygadzie się wycofać. Brygada wzięła w całym rajdzie około 1250 jeńców, w dużej części Niemców. Huzarzy stracili według Fallsa 13 ludzi, a Hodson's Horse 9, strat lansjerów nie odnotowano. Sztab Limana spalił większość swoich akt, by nie wpadły w ręce przeciwnika. Według Limana Niemcy stracili w walkach ulicznych 43 zabitych. Marszałek opuścił Nazaret o 13.15 wraz z kilkoma oficerami i przez drogę zatłoczoną uciekinierami dotarł o 15.30 do [Tyberiady](https://pl.wikipedia.org/wiki/Tyberiada). Nie został pojmany, ale jego dowództwo było rozbite: nie miał już łączności z armiami i nie mógł kierować bitwą. Następnego dnia Brytyjczycy zajęli Nazaret bez walki.
+
+## Bejsan i Dżenin
+
+Z Al-Afuli 4 Dywizja Kawalerii generała majora George'a Barrowa ruszyła o 13.00 na wschód, wzdłuż kolei przez Dolinę Jezreel, zbierając po drodze setki jeńców. W Bejsanie ([Bet Sze’an](https://pl.wikipedia.org/wiki/Bet_Sze’an)), gdzie zbiegały się drogi z gór Samarii i doliny Jordanu, spotkała tylko pozorny opór i wzięła około stu jeńców oraz trzy haubice, zwrócone lufami na wschód. O 18.00 cała dywizja stała w mieście, a nocą zebrała jeszcze 700 jeńców. W ciągu 34 godzin przeszła około 110 kilometrów, tracąc tylko 26 koni, choć wszystkie były już wyczerpane. Wieczorem indyjski 19 Pułk Lansjerów pojechał dalej na północ, by zająć mosty na Jordanie i Jarmuku pod Dżisr al-Madżami, i dotarł tam o świcie.
+
+Na drodze z Nablusu do Damaszku, po południu, gdy lotnicy donieśli o tłumach Turków uchodzących na północ, Chauvel posłał z Al-Ladżdżun australijską 3 Brygadę Lekkiej Kawalerii na [Dżenin](https://pl.wikipedia.org/wiki/Dżanin). Australijczycy przegalopowali 18 kilometrów w 70 minut, wzięli w gaju pod Kafr Adan około 1800 jeńców i o zmroku wpadli do miasta, gdzie mieszkańcy rzucili się na tureckie składy. Wieczorem porucznik Patterson z 23 ludźmi i dwoma karabinami maszynowymi zatrzymał w wąwozie na południe od miasta kolumnę 2800 żołnierzy i nakłonił ją blefem do kapitulacji. Rozmowę tłumaczyła niemiecka siostra miłosierdzia idąca na czele kolumny. Do rana brygada miała blisko 8 tysięcy jeńców.
+
+Wieczorem 20 września wszystkie drogi z gór Samarii na północ były zamknięte. Według Fallsa w rękach Brytyjczyków było już około 25 tysięcy jeńców, a turecka 8 Armia, poza niemieckim zgrupowaniem pułkownika von Oppena, przestała istnieć. 7 Armia [Mustafy Kemala](https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atatürk), cofająca się z okolic Nablusu, była w sieci.

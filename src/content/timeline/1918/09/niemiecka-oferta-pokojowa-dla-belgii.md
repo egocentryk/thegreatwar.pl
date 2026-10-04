@@ -1,0 +1,21 @@
+---
+title: Niemiecka oferta pokojowa dla Belgii
+summary: 15 września 1918 świat obiegła wieść, że Niemcy złożyły Belgii propozycję pokoju. Rząd w Hawrze ją odrzucił, a Berlin zaprzeczał, by oferta w ogóle padła.
+category: Dyplomacja
+date: 1918-09-15
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Belgia, Niemcy, inicjatywy pokojowe, Albert I]
+milestone: false
+draft: false
+---
+
+15 września 1918 roku, gdy świat poznawał właśnie treść [austro-węgierskiej noty pokojowej](/austriacka-nota-pokojowa), do prasy państw ententy dotarła nieoficjalna wiadomość, że Niemcy złożyły Belgii konkretną propozycję pokoju i że rząd belgijski stanowczo ją odrzucił. Berlin zdementował tę informację. Brytyjska chronologia wojny zapisuje pod tą datą „określoną ofertę pokojową” rządu niemieckiego dla Belgii. W rzeczywistości propozycja nie przyszła ani tego dnia, ani drogą oficjalną. Była to prywatna, choć uzgodniona w Berlinie, korespondencja sprzed kilku tygodni, a 15 września stała się po prostu publiczną tajemnicą.
+
+Pośrednikiem był bawarski hrabia Hans Veit zu Toerring-Jettenbach, szwagier króla [Alberta I](https://pl.wikipedia.org/wiki/Albert_I_Koburg): jego żona Zofia była siostrą królowej Belgów [Elżbiety](https://pl.wikipedia.org/wiki/Elżbieta_Gabriela_Bawarska). Już jesienią 1915 i zimą 1916 roku spotykał się w Szwajcarii z wysłannikiem króla, profesorem Émile'em Waxweilerem, ale niemieckie warunki były wtedy dla Belgów nie do przyjęcia. Wiosną 1918 roku Toerring nawiązał kontakt z belgijskim posłem w [Bernie](https://pl.wikipedia.org/wiki/Berno) Fernandem Peltzerem. Później napisał do niego długi list, w którym oświadczał, że po rozmowach z kanclerzem [Georgiem von Hertlingiem](https://pl.wikipedia.org/wiki/Georg_von_Hertling) i sekretarzem stanu [Paulem von Hintzem](/hintze-ministrem-spraw-zagranicznych) może przedstawić zamiary rządu Rzeszy, choć formalnie nie ma żadnego pełnomocnictwa.
+
+Według streszczenia, które amerykański poseł przy rządzie belgijskim Brand Whitlock wysłał 9 września z [Hawru](https://pl.wikipedia.org/wiki/Hawr), Niemcy obiecywały po wojnie przywrócić Belgii pełną niepodległość polityczną i gospodarczą, nie zgłaszać żadnych roszczeń do jej ziem w Europie ani w Afryce i pozostawić jej wybór między powrotem do neutralności a pełną swobodą sojuszy. W zamian Belgia miała wstawić się u aliantów za zwrotem [kolonii niemieckich](https://pl.wikipedia.org/wiki/Kolonie_niemieckie), utrzymać na kilka lat po wojnie przedwojenny traktat handlowy z Niemcami, a sprawę flamandzką rozwiązać tak, by zadowolić „zainteresowane kręgi”, i objąć amnestią flamandzkich aktywistów, którzy współpracowali z okupantem. Tak Berlin tłumaczył słowa Hertlinga, który niedawno nazwał Belgię „zastawem” w przyszłych rokowaniach, co za granicą odebrano jako zapowiedź jej zatrzymania. O odszkodowaniach za zniszczenia nie było w liście ani słowa.
+
+Minister spraw zagranicznych [Paul Hymans](https://pl.wikipedia.org/wiki/Paul_Hymans), [od stycznia](/hymans-ministrem-spraw-zagranicznych) kierujący belgijską dyplomacją, zanim odpowiedział, poprosił o opinię Stany Zjednoczone, Wielką Brytanię, Francję, Włochy i Japonię. Sam ocenił, że deklaracje o niepodległości Belgii są postępem, ale zostały obwarowane warunkami: żądanie amnestii dla aktywistów to mieszanie się w wewnętrzne sprawy kraju, a stary traktat handlowy z klauzulą najwyższego uprzywilejowania krępowałby handel Belgii z aliantami. Nie odpowiadało to też żądaniom, które rząd belgijski przedstawił w odpowiedzi na [notę pokojową papieża](/nota-pokojowa-benedykta-xv). 11 września sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) odpisał krótko, że rząd amerykański nie uważa listu Toerringa za godny przychylnego rozpatrzenia.
+
+Według części kronik wojny rząd belgijski formalnie odrzucił propozycję 19 września. W samym Berlinie nie wiązano z tą drogą większych nadziei: według źródeł niemieckich Hintze w piśmie z 23 sierpnia uprzedzał Toerringa, że rozmowy z rządem belgijskim nie mają realnych podstaw. Epizod pokazał jednak, że po klęskach lata Niemcy gotowe były po cichu zrezygnować z planów trwałego podporządkowania Belgii, czego jeszcze w 1917 roku nie chciały jasno zadeklarować. Dla aliantów, którzy domagali się bezwarunkowego przywrócenia Belgii i odszkodowań, takie półśrodki nie miały już znaczenia.
