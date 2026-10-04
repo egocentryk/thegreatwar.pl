@@ -5,7 +5,7 @@ category: Polityka
 front: Bliski Wschód
 date: 1918-05-03
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Persja, Ahmad Szah, Wielka Brytania]
 milestone: false
 draft: false

@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front zachodni
 date: 1918-04-21
 authors: [Łukasz Skowroń]
-dayOrder: 1
+dayOrder: 2
 tags: [lotnictwo, Niemcy, Australia, Kanada]
 milestone: false
 draft: false

@@ -218,6 +218,14 @@ export const BATTLE_PHASES = [
       "Po przystąpieniu Grecji do wojny w 1917 roku armia grecka stała się filarem frontu salonickiego. Wiosną 1918 roku nowy dowódca wojsk sprzymierzonych, generał Guillaumat, przygotowywał ją do walki, a pierwszym sprawdzianem było zdobycie pozycji bułgarskich pod Skra di Legen. Bułgaria, wyczerpana wojną i niezadowolona z podziału łupów, słabła, a w Salonikach dojrzewał plan wielkiej ofensywy, którą we wrześniu przeprowadził generał Franchet d'Espèrey.",
   },
   {
+    slug: "1918-front-wloski",
+    title: "1918: Front włoski",
+    front: "Front włoski",
+    dates: "od czerwca 1918",
+    intro:
+      "Po klęsce pod Caporetto Włosi utrzymali front nad Piawą i na płaskowyżu Asiago, a generał Diaz odbudował armię. Wiosną 1918 roku Austro-Węgry, naciskane przez Niemców i głodne, przygotowały ostatnią wielką ofensywę, która miała rozbić Włochy jednym ciosem. W czerwcu uderzyły jednocześnie w górach i nad Piawą, ale się przeliczyły, a ich klęska zapowiadała rozpad monarchii.",
+  },
+  {
     slug: "1917-front-salonicki",
     title: "1917: Front salonicki",
     front: "Front bałkański",

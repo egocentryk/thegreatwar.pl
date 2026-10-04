@@ -4,7 +4,7 @@ summary: W nocy z 17 na 18 maja 1918 policja i wojsko aresztowały w Irlandii pr
 category: Polityka
 date: 1918-05-17
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Irlandia, Wielka Brytania, Niemcy, John French]
 milestone: false
 draft: false

@@ -1,0 +1,20 @@
+---
+title: Niemcy lądują w Poti
+summary: 8 czerwca 1918 w gruzińskim porcie Poti wylądowały dwa niemieckie bataliony z Krymu. Miały chronić Gruzję przed Turkami i strzec kolei do Baku.
+category: Wojsko
+front: Bliski Wschód
+date: 1918-06-08
+authors: [Natalia]
+dayOrder: 2
+tags: [Niemcy, Gruzja, Kaukaz, Imperium Osmańskie]
+milestone: false
+draft: false
+---
+
+8 czerwca 1918 roku w [Poti](https://pl.wikipedia.org/wiki/Poti), gruzińskim porcie na wschodnim brzegu Morza Czarnego, zeszły na ląd pierwsze większe regularne oddziały niemieckie wysłane na Zakaukazie. Parowiec „Corcovado” wypłynął z [Sewastopola](/niemcy-zajmuja-sewastopol) 6 czerwca. Według niemieckiego historyka Winfrieda Baumgarta, który oparł się na dokumentach i historii pułku, przywiózł bawarski Rezerwowy Batalion Strzelców nr 1 (20 oficerów i 1060 strzelców) oraz pruski 10 Batalion Szturmowy (13 oficerów i 475 żołnierzy), razem około 1600 ludzi. Płynął z nimi kapitan sztabu generalnego von Egan-Krieger ze sztabu Friedricha Kressa von Kressensteina, który miał stanąć na czele niemieckiej misji w Gruzji. Brytyjscy historycy wojen kaukaskich W.E.D. Allen i Paweł Muratow piszą o lądowaniu już 3 czerwca, ale tę datę dokumenty niemieckie wykluczają.
+
+Brytyjska chronologia wojny notuje pod tym dniem także podpisanie przez rząd gruziński traktatu z Niemcami. W rzeczywistości jedynym porozumieniem zawartym w tych tygodniach było tymczasowe porozumienie podpisane w Poti 28 maja przez ministra spraw zagranicznych Akakiego Czchenkelego i niemieckiego generała [Ottona von Lossowa](https://pl.wikipedia.org/wiki/Otto_von_Lossow), dwa dni po [ogłoszeniu niepodległości Gruzji](/niepodleglosc-gruzji). Niemcy uznały w nim nową republikę i wzięły ją pod opiekę w zamian za prawo korzystania z jej kolei i portów oraz udział w eksploatacji bogactw kraju. W osobnym piśmie z tego samego dnia Lossow zapowiedział przybycie niemieckich wojsk. Baumgart widzi w tych dokumentach formalną podstawę niemieckiej interwencji na Kaukazie. Ostateczny traktat miał zostać wynegocjowany w Berlinie, dokąd udała się delegacja gruzińska, ale do jego zawarcia nigdy nie doszło.
+
+O wysłanie wojsk spierano się w Berlinie przez cały maj. Sekretarz stanu w Urzędzie Spraw Zagranicznych Richard von Kühlmann, w porozumieniu z kanclerzem Georgiem von Hertlingiem, ostrzegał, że nawet niewielki oddział wciągnie Niemcy w nowe, nieograniczone zobowiązania i jeszcze bardziej popsuje stosunki z Turcją. [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) postawił jednak na swoim. Przekonywał, że bataliony są tylko „oddziałem szkoleniowym” dla przyszłej armii gruzińskiej i osłoną dla niemieckiej komisji kolejowej, która miała usprawnić ruch na linii z Batumi do Tyflisu. Naczelnemu Dowództwu chodziło w istocie o coś więcej: o naftę z Baku, mangan z kopalń w [Cziaturze](https://pl.wikipedia.org/wiki/Cziatura) i kontrolę nad koleją łączącą Morze Czarne z Morzem Kaspijskim, zanim przejmą ją Turcy. Zanim przybyli żołnierze z Krymu, Lossow, wspólnie z Gruzinami, rozstawił w portach Poti i Suchumi oraz na stacjach kolei z Poti przez Tyflis do Karakilisy straże liczące po 20–50 ludzi. Złożone były z dawnych niemieckich jeńców wojennych z rosyjskich obozów, a do końca maja zebrano ich kilkuset.
+
+Lądowanie nastąpiło w chwili największego napięcia między Niemcami a Turkami. Cztery dni wcześniej Imperium Osmańskie zawarło w Batumi [pokój z trzema republikami Zakaukazia](/traktaty-batumskie), w którym odebrało Gruzji kolejne okręgi, a wojska Wehiba Paszy szykowały się do marszu ku Tyflisowi. 5 czerwca wypłynął z Konstantynopola do Batumi minister wojny Enver Pasza z generałem Hansem von Seecktem, by szukać porozumienia z Niemcami. Bataliony z Poti nie zostały w porcie. W ciągu kolejnych dwóch dni przewieziono je koleją do Tyflisu. Kress, który objął dowództwo nad wszystkimi niemieckimi wojskami na Kaukazie, wylądował w Poti dopiero 23 czerwca. Za pierwszym transportem poszły latem następne, a niemieckie garnizony stanęły w Poti, Kutaisi, Tyflisie i wzdłuż kolei.
