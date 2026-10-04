@@ -1,0 +1,22 @@
+---
+title: Dyrektoriat w Kijowie
+summary: 19 grudnia 1918 Dyrektoriat Ukraińskiej Republiki Ludowej uroczyście wjechał do Kijowa. Na placu Sofijskim odprawiono nabożeństwo i odbył się wiec.
+category: Polityka
+front: Front wschodni
+date: 1918-12-20
+authors: [Natalia]
+dayOrder: 2
+tags: [Ukraina, Niemcy, Rosja]
+milestone: false
+draft: false
+---
+
+Brytyjska chronologia wojny notuje pod 20 grudnia 1918 roku wjazd Dyrektoriatu do Kijowa. Według ukraińskich źródeł i ówczesnej prasy kijowskiej uroczystość odbyła się dzień wcześniej, 19 grudnia. Wojska republiki były w mieście już od pięciu dni, od [upadku hetmanatu Skoropadskiego](/upadek-hetmanatu). Członkowie Dyrektoriatu, który przez ostatnie tygodnie kierował powstaniem z dala od stolicy, przyjechali dopiero teraz. Kijowskie organizacje ukraińskie postanowiły zrobić z ich przyjazdu wielkie święto. Powołały Komitet Powitania Dyrektoriatu, który miał pod kontrolą wszystkie przygotowania. Przeszkodą był stan oblężenia, wprowadzony w nocy na 16 grudnia przez szefa sztabu Korpusu Oblężniczego Strzelców Siczowych [Andrija Melnyka](https://pl.wikipedia.org/wiki/Andrij_Melnyk). Zakazywał zgromadzeń na ulicach i nakazywał zamykać lokale o wpół do dziesiątej wieczorem. Na dzień wjazdu część zakazów zawieszono.
+
+19 grudnia ulice od dworca do [placu Sofijskiego](https://pl.wikipedia.org/wiki/Plac_Sofijski_w_Kijowie) przybrano flagami, girlandami i transparentami. Mimo zamieci od rana ustawiały się wzdłuż nich delegacje urzędów, organizacji i szkół. Pociąg z Dyrektoriatem przyjechał około drugiej po południu. Na peronie witano przewodniczącego [Wołodymyra Wynnyczenkę](https://pl.wikipedia.org/wiki/Wołodymyr_Wynnyczenko), naczelnego atamana [Symona Petlurę](https://pl.wikipedia.org/wiki/Symon_Petlura), [Fedira Szweća](https://pl.wikipedia.org/wiki/Fedir_Szweć) i [Opanasa Andrijewskiego](https://pl.wikipedia.org/wiki/Opanas_Andrijewski). Przemawiali przedstawiciele Ukraińskiego Związku Narodowego, burmistrz Kijowa, gmina żydowska i dyplomaci, którzy jeszcze zostali w mieście, wśród nich poseł turecki, bułgarski i fiński. Na dworzec przyszło też niemieckie dowództwo. Członkom Dyrektoriatu podano chleb i sól na srebrnych tacach. Przywódca Ukraińskiego Związku Narodowego Mykyta Szapował porównał ich przyjazd z wjazdem Bohdana Chmielnickiego do Kijowa w 1648 roku.
+
+Z dworca uroczystość przeniosła się na plac Sofijski, gdzie ustawiły się oddziały wszystkich rodzajów broni: piechota, jazda, artyleria, karabiny maszynowe i samochody pancerne. Z [soboru Mądrości Bożej](https://pl.wikipedia.org/wiki/Sobór_Sofijski_w_Kijowie) wyszło duchowieństwo i biskup Agapit odprawił nabożeństwo za poległych i za pomyślność republiki. Potem był wiec. W imieniu Ukraińskiej Akademii Nauk, założonej przez hetmana zaledwie miesiąc wcześniej, przemawiał jej sekretarz [Ahatanheł Krymski](https://pl.wikipedia.org/wiki/Ahatanheł_Krymski). Zapowiedział, że w Ukraińskiej Republice Ludowej nauka będzie wolna i niezależna. Potem w Ukraińskim Klubie Narodowym Wynnyczenko mówił, że od tego dnia trzeba przystąpić do reform społecznych i politycznych.
+
+Za świętem kryły się napięcia. W mieście było pełno rozbrojonych rosyjskich oficerów hetmana. Generał Fiodor Keller, który schronił się w klasztorze św. Michała, według rosyjskich relacji musiał oddać swoją szablę, którą dowódca Strzelców Siczowych [Jewhen Konowalec](https://pl.wikipedia.org/wiki/Jewhen_Konowalec) podarował potem Petlurze. W nocy na 21 grudnia Keller i jego dwaj adiutanci zostali zastrzeleni przez konwój przy [pomniku Bohdana Chmielnickiego](https://pl.wikipedia.org/wiki/Pomnik_Bohdana_Chmielnickiego_w_Kijowie), podobno przy próbie ucieczki. W samym Dyrektoriacie lewicowy Wynnyczenko spierał się z Petlurą, który opierał się na wojsku i jego atamanach.
+
+26 grudnia Dyrektoriat ogłosił deklarację programową. Odwoływał w niej prawa hetmańskie, zapowiadał przekazanie ziemi obszarniczej chłopom i zwołanie [Kongresu Pracy](https://pl.wikipedia.org/wiki/Kongres_Pracy_Ukrainy), wybranego przez chłopów, robotników i inteligencję pracującą. Tego samego dnia powołał rząd [Wołodymyra Czechiwskiego](https://pl.wikipedia.org/wiki/Wołodymyr_Czechiwski). 22 stycznia 1919 roku na tym samym placu Sofijskim ogłoszono [zjednoczenie](https://pl.wikipedia.org/wiki/Akt_Zjednoczenia) z Zachodnioukraińską Republiką Ludową. Ale już na początku lutego, pod naporem [ofensywy bolszewickiej](https://pl.wikipedia.org/wiki/Interwencja_radziecka_na_Ukrainie_(1919)), Dyrektoriat musiał opuścić Kijów i przenieść się do Winnicy.

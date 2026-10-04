@@ -1,0 +1,21 @@
+---
+title: Paderewski w Poznaniu
+summary: 26 grudnia 1918 do Poznania przyjechał Ignacy Jan Paderewski. Witały go tłumy z pochodniami, a z okna hotelu Bazar przemówił do zebranych Polaków.
+category: Polityka
+date: 1918-12-26
+authors: [Natalia]
+dayOrder: 1
+tags: [Polska, Wielkopolska, Ignacy Jan Paderewski, Wielka Brytania]
+milestone: false
+draft: false
+---
+
+Wieczorem 26 grudnia 1918 roku na dworzec w [Poznaniu](https://pl.wikipedia.org/wiki/Poznań) wjechał pociąg z [Ignacym Janem Paderewskim](https://pl.wikipedia.org/wiki/Ignacy_Jan_Paderewski). Światowej sławy pianista, od lat najskuteczniejszy rzecznik sprawy polskiej w Stanach Zjednoczonych, przyjeżdżał na ziemie polskie po raz pierwszy od wybuchu wojny. Niemieckie władze robiły wszystko, by ominął miasto, a gdy się to nie udało, kazały nie zapalać ulicznych latarni. Polacy przywitali go przy blasku setek pochodni.
+
+Paderewski był przedstawicielem [Komitetu Narodowego Polskiego](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) w Ameryce i miał duży wpływ na prezydenta Wilsona. Po zawieszeniu broni przypłynął 23 listopada do Liverpoolu i przez kilka dni rozmawiał w Londynie z ministrem spraw zagranicznych [Arthurem Balfourem](https://pl.wikipedia.org/wiki/Arthur_Balfour). Brytyjczycy, zaniepokojeni zarówno sytuacją w Niemczech, jak i pochodem Armii Czerwonej na zachód, chcieli widzieć w Polsce silny rząd, z którym Ententa mogłaby współpracować. Paderewski miał w Warszawie pogodzić paryski Komitet Romana Dmowskiego z [rządem Jędrzeja Moraczewskiego](/rzad-moraczewskiego) i Józefem Piłsudskim. Zażądał, by droga do Warszawy prowadziła przez Gdańsk i Toruń, czyli przez ziemie formalnie wciąż niemieckie. Towarzyszyła mu półoficjalna brytyjska misja z pułkownikiem Harrym Wade'em, attaché wojskowym, na czele.
+
+Paderewski z żoną [Heleną](https://pl.wikipedia.org/wiki/Helena_Paderewska) i adiutantem, majorem Zygmuntem Iwanowskim, wypłynął z Harwich na brytyjskim krążowniku HMS Concord. 23 grudnia okręt zawinął do Kopenhagi, a rankiem 25 grudnia stanął w [Gdańsku](https://pl.wikipedia.org/wiki/Gdańsk). Na gościa czekali tam wysłannicy poznańskiej [Naczelnej Rady Ludowej](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa), wybranej na początku miesiąca przez [Sejm Dzielnicowy](/sejm-dzielnicowy-w-poznaniu), z [Wojciechem Korfantym](https://pl.wikipedia.org/wiki/Wojciech_Korfanty) na czele. Paderewski przenocował w hotelu [Danziger Hof](https://pl.wikipedia.org/wiki/Danziger_Hof), a 26 grudnia przed południem ruszył pociągiem przez Piłę do Poznania. Na kolejnych stacjach witali go Polacy. Berlin, który [od 15 grudnia](/polska-zrywa-stosunki-z-niemcami) nie utrzymywał stosunków z Warszawą, nie chciał w Poznaniu politycznej manifestacji i zgadzał się tylko na przejazd prosto do Warszawy. W [Rogoźnie](https://pl.wikipedia.org/wiki/Rogoźno) niemiecki oficer zażądał, by pociąg ominął Poznań. Paderewski i pułkownik Wade odmówili.
+
+Źródła różnie podają godzinę przyjazdu, od około 20 do 21.10. Na dworcu niemieccy oficerowie próbowali jeszcze wręczyć gościowi nakaz opuszczenia miasta, ale nie przepuścił ich kordon polskiej [Straży Ludowej](https://pl.wikipedia.org/wiki/Straż_Ludowa). Po powitalnych przemówieniach i pieśniach orszak przejechał przez rozentuzjazmowane miasto do [hotelu Bazar](https://pl.wikipedia.org/wiki/Hotel_Bazar_w_Poznaniu), zbudowanego w latach czterdziestych XIX wieku ośrodka polskiego życia w Poznaniu. Przed hotelem czekali prezydent miasta [Jarogniew Drwęski](https://pl.wikipedia.org/wiki/Jarogniew_Drwęski) i członkowie Komisariatu Naczelnej Rady Ludowej. Paderewski przemówił do tłumu z okna nad wejściem, a później jeszcze raz w sali hotelowej, do działaczy i dziennikarzy. Cieszył się z odrodzenia Polski i wzywał do jedności wszystkich Polaków, nie nawoływał jednak do walki.
+
+Niemców rozdrażniła zarówno owacja, jak i flagi brytyjskie, amerykańskie i francuskie, które Polacy wywiesili obok biało-czerwonych na cześć gościa i jego brytyjskich towarzyszy. Paderewski, świadomy, że jest w państwie niemieckim, w obawie przed dyplomatycznymi komplikacjami przestał potem pokazywać się publicznie. Następnego dnia pod hotel ciągnęły pochody polskich dzieci z chorągiewkami, a Niemcy szykowali własną manifestację. Napięcie, które od tygodni narastało w mieście, miało wybuchnąć już po południu 27 grudnia.

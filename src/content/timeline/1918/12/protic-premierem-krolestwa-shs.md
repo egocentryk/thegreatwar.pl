@@ -1,0 +1,19 @@
+---
+title: Protić premierem Królestwa SHS
+summary: 20 grudnia 1918 regent Aleksander powołał pierwszy rząd Królestwa SHS ze Stojanem Proticiem na czele. Nikola Pašić stracił urząd premiera, który pełnił od 1912.
+category: Polityka
+date: 1918-12-20
+authors: [Natalia]
+dayOrder: 1
+tags: [Serbia, Nikola Pašić, Aleksander Karađorđević, polityka wewnętrzna]
+milestone: false
+draft: false
+---
+
+20 grudnia 1918 roku (7 grudnia według kalendarza juliańskiego, którego wtedy jeszcze używano w Serbii) regent [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić) powołał pierwszy rząd [Królestwa Serbów, Chorwatów i Słoweńców](https://pl.wikipedia.org/wiki/Królestwo_Serbów,_Chorwatów_i_Słoweńców). Premierem został [Stojan Protić](https://pl.wikipedia.org/wiki/Stojan_Protić), a nie, jak się spodziewano, [Nikola Pašić](https://pl.wikipedia.org/wiki/Nikola_Pašić). Tego dnia Pašić, który kierował rządem Serbii nieprzerwanie od 1912 roku, przestał być premierem. Brytyjska chronologia wojny notuje pod 20 grudnia ustąpienie Pašicia, a nominację Proticia dopiero pod 29 grudnia. Serbskie i chorwackie opracowania zgodnie podają jednak, że rząd Proticia powstał 20 grudnia, dlatego oba wydarzenia opisujemy razem.
+
+Pašić był najważniejszą postacią serbskiej polityki od ponad trzydziestu lat. Przywódca Partii Radykalnej stał na czele rządu już wcześniej, m.in. w latach 1904–1905, 1906–1908 i 1909–1911, a od jesieni 1912 roku prowadził Serbię przez wojny bałkańskie, kryzys lipcowy 1914 roku, klęskę i wygnanie na [Korfu](https://pl.wikipedia.org/wiki/Korfu), aż do zwycięstwa. Po proklamowaniu królestwa 1 grudnia uchodził za faktycznego premiera nowego państwa. Od 11 grudnia przywódcy głównych partii rozmawiali o pierwszym wspólnym rządzie i według historyków zgodzili się, że stanie na jego czele właśnie Pašić. Regent, który od lat go nie lubił, powierzył jednak misję jego partyjnemu koledze. Pašić przebywał wtedy za granicą.
+
+Protić, urodzony w 1857 roku w Kruševacu, był jednym z ideologów Partii Radykalnej i znanym publicystą, wieloletnim ministrem spraw wewnętrznych i finansów. W lipcu 1914 roku jako minister spraw wewnętrznych współredagował odpowiedź Serbii na austro-węgierskie ultimatum. W listopadzie 1918 roku sprzeciwiał się [porozumieniu genewskiemu](/konferencja-genewska), a w Belgradzie przygotowywał wraz z delegacją z Zagrzebia [proklamację królestwa](/proklamacja-krolestwa-shs). Jego rząd był koalicją ludzi ze wszystkich części nowego państwa. Wicepremierem został Słoweniec [Anton Korošec](https://pl.wikipedia.org/wiki/Anton_Korošec), ministrem spraw zagranicznych Chorwat [Ante Trumbić](https://pl.wikipedia.org/wiki/Ante_Trumbić), dotychczasowy przewodniczący Komitetu Jugosłowiańskiego, a ministrem spraw wewnętrznych chorwacki Serb [Svetozar Pribićević](https://pl.wikipedia.org/wiki/Svetozar_Pribićević). W gabinecie znaleźli się też m.in. przywódca bośniackich muzułmanów [Mehmed Spaho](https://pl.wikipedia.org/wiki/Mehmed_Spaho), socjaldemokrata [Vitomir Korać](https://pl.wikipedia.org/wiki/Vitomir_Korać) i przywódca serbskich niezależnych radykałów [Ljubomir Davidović](https://pl.wikipedia.org/wiki/Ljubomir_Davidović). Najważniejsze resorty, w tym wojsko, finanse i sprawy wewnętrzne, pozostały jednak w rękach Serbów.
+
+Nowy rząd zawiadomił sprzymierzone i neutralne państwa o powstaniu Królestwa SHS, ale na uznanie musiał jeszcze poczekać. Pašić jako najbardziej doświadczony polityk stanął jednak na czele delegacji królestwa na [konferencję pokojową w Paryżu](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)), w której zasiadł obok Trumbicia i dyplomaty [Milenka Vesnicia](https://pl.wikipedia.org/wiki/Milenko_Vesnić). Gabinet Proticia przetrwał do sierpnia 1919 roku, a Pašić wrócił na urząd premiera w 1921 roku i kierował nim, z krótką przerwą, do kwietnia 1926 roku.
