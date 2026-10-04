@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-27 września 1914 roku wojska niemieckie generała [Hansa von Beselera](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) rozpoczęły oblężenie [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), ostatniej twierdzy Belgii i schronienia jej armii. Po zdobyciu [Liège](https://pl.wikipedia.org/wiki/Liège), Namuru i Maubeuge Niemcy zamierzali w ten sam sposób, ogniem najcięższej artylerii, rozbić fortyfikacje największego portu Belgii. Oblężenie trwało do 10 października i zakończyło się upadkiem miasta, ale armia belgijska zdołała się z niego wymknąć.
+27 września 1914 roku wojska niemieckie generała [Hansa von Beselera](/postacie/hans-von-beseler) rozpoczęły oblężenie [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), ostatniej twierdzy Belgii i schronienia jej armii. Po zdobyciu [Liège](https://pl.wikipedia.org/wiki/Liège), Namuru i Maubeuge Niemcy zamierzali w ten sam sposób, ogniem najcięższej artylerii, rozbić fortyfikacje największego portu Belgii. Oblężenie trwało do 10 października i zakończyło się upadkiem miasta, ale armia belgijska zdołała się z niego wymknąć.
 
 ## Reduta narodowa
 
@@ -22,9 +22,9 @@ Nawet nowsze forty nie były jednak przygotowane na pociski kalibru 305 i 420 mi
 
 ## Armia w twierdzy
 
-Po bitwie nad Gete [armia belgijska wycofała się do Antwerpii](/armia-belgijska-wycofuje-sie-do-antwerpii) i od 20 sierpnia opierała się na jej fortach. Dowodził nią osobiście król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg), a twierdzą gubernator wojskowy, generał Victor Deguise. Liczebność obrońców różni się w zależności od źródła. Brytyjski serwis greatwar.co.uk podaje około 65 tysięcy żołnierzy armii polowej i 80 tysięcy żołnierzy załogi twierdzy, inne opracowania szacują armię polową wyżej, na ponad 80 tysięcy. Wielu żołnierzy stanowili jednak słabo wyszkoleni rezerwiści i starsze roczniki.
+Po bitwie nad Gete [armia belgijska wycofała się do Antwerpii](/armia-belgijska-wycofuje-sie-do-antwerpii) i od 20 sierpnia opierała się na jej fortach. Dowodził nią osobiście król [Albert I](/postacie/albert-i), a twierdzą gubernator wojskowy, generał Victor Deguise. Liczebność obrońców różni się w zależności od źródła. Brytyjski serwis greatwar.co.uk podaje około 65 tysięcy żołnierzy armii polowej i 80 tysięcy żołnierzy załogi twierdzy, inne opracowania szacują armię polową wyżej, na ponad 80 tysięcy. Wielu żołnierzy stanowili jednak słabo wyszkoleni rezerwiści i starsze roczniki.
 
-Belgowie nie siedzieli biernie za fortami. Od końca sierpnia armia polowa kilkakrotnie wychodziła z twierdzy i uderzała na niemieckie oddziały obserwujące Antwerpię, między innymi w [bitwie pod Mechelen](/bitwy/bitwa-pod-mechelen). Wypady te niepokoiły Niemców i wiązały ich wojska w Belgii. We wrześniu, gdy armie niemieckie wycofały się znad Marny, zagrożenie z Antwerpii dla ich komunikacji stało się dla naczelnego dowództwa nie do zniesienia. Nowy szef sztabu generalnego, [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), postanowił zdobyć twierdzę.
+Belgowie nie siedzieli biernie za fortami. Od końca sierpnia armia polowa kilkakrotnie wychodziła z twierdzy i uderzała na niemieckie oddziały obserwujące Antwerpię, między innymi w [bitwie pod Mechelen](/bitwy/bitwa-pod-mechelen). Wypady te niepokoiły Niemców i wiązały ich wojska w Belgii. We wrześniu, gdy armie niemieckie wycofały się znad Marny, zagrożenie z Antwerpii dla ich komunikacji stało się dla naczelnego dowództwa nie do zniesienia. Nowy szef sztabu generalnego, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), postanowił zdobyć twierdzę.
 
 ## Siły Beselera
 
@@ -40,6 +40,6 @@ Beseler nie zamierzał otaczać całej twierdzy. Postanowił uderzyć na jej po�
 
 ## Znaczenie
 
-Początek oblężenia Antwerpii był jednym z przełomowych momentów jesieni 1914 roku. Dla Belgów chodziło o przetrwanie armii i państwa. Dla Niemców zdobycie twierdzy oznaczało usunięcie zagrożenia z tyłów i otwarcie drogi do wybrzeża kanału La Manche. Dla Brytyjczyków Antwerpia była kluczem do wybrzeża, z którego wroga flota mogłaby zagrozić Anglii. Dlatego już na początku października do miasta przybył [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill), a za nim brytyjska Dywizja Marynarki.
+Początek oblężenia Antwerpii był jednym z przełomowych momentów jesieni 1914 roku. Dla Belgów chodziło o przetrwanie armii i państwa. Dla Niemców zdobycie twierdzy oznaczało usunięcie zagrożenia z tyłów i otwarcie drogi do wybrzeża kanału La Manche. Dla Brytyjczyków Antwerpia była kluczem do wybrzeża, z którego wroga flota mogłaby zagrozić Anglii. Dlatego już na początku października do miasta przybył [Winston Churchill](/postacie/winston-churchill), a za nim brytyjska Dywizja Marynarki.
 
 Twierdza nie wytrzymała jednak ognia niemieckich dział. 10 października Antwerpia skapitulowała. Armia belgijska zdążyła jednak wycofać się na zachód, za rzekę Yser, gdzie jeszcze w tym samym miesiącu zatrzymała Niemców i przez cztery lata broniła ostatniego skrawka wolnej Belgii.

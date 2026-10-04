@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 listopada 1917 roku na północnym brzegu Rovumy, w dolinie strumienia Mwiti, złożył broń oddział kapitana Theodora Tafla, druga co do wielkości część niemieckiej Schutztruppe w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Tafel przez kilka tygodni przedzierał się z zachodu kolonii, by połączyć się z [Paulem von Lettow-Vorbeckiem](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck). Gdy dotarł w umówione okolice, okazało się, że główne siły niemieckie już stamtąd odeszły i [przeprawiły się przez Rovumę](/lettow-vorbeck-przekracza-rovume) do Mozambiku. Bez żywności i bez wiadomości o losie Lettow-Vorbecka Tafel poddał się Brytyjczykom, choć dwa dni wcześniej wygrał z nimi potyczkę.
+28 listopada 1917 roku na północnym brzegu Rovumy, w dolinie strumienia Mwiti, złożył broń oddział kapitana Theodora Tafla, druga co do wielkości część niemieckiej Schutztruppe w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Tafel przez kilka tygodni przedzierał się z zachodu kolonii, by połączyć się z [Paulem von Lettow-Vorbeckiem](/postacie/paul-von-lettow-vorbeck). Gdy dotarł w umówione okolice, okazało się, że główne siły niemieckie już stamtąd odeszły i [przeprawiły się przez Rovumę](/lettow-vorbeck-przekracza-rovume) do Mozambiku. Bez żywności i bez wiadomości o losie Lettow-Vorbecka Tafel poddał się Brytyjczykom, choć dwa dni wcześniej wygrał z nimi potyczkę.
 
 ## Marsz znad Mahenge
 

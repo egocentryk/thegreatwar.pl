@@ -21,7 +21,7 @@ Belgowie nie zamierzali stawać do walki w otwartym terenie wokół portów. Roz
 
 ## Wyjazd króla i rządu
 
-12 października Ostendę opuścili król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) i królowa Elżbieta. Król nie wyjechał z kraju, lecz udał się za armią na zachód, w okolice [Veurne](https://pl.wikipedia.org/wiki/Veurne), gdzie wkrótce stanęła jego kwatera główna. Ministrowie i urzędnicy odpłynęli na pokładzie promu Pieter de Coninck do Francji. Źródła różnią się co do tego, czy statek wypłynął z Ostendy jeszcze 12, czy dopiero 13 października. Zgodnie podają natomiast, że 13 października rząd dotarł do [Hawru](https://pl.wikipedia.org/wiki/Hawr).
+12 października Ostendę opuścili król [Albert I](/postacie/albert-i) i królowa Elżbieta. Król nie wyjechał z kraju, lecz udał się za armią na zachód, w okolice [Veurne](https://pl.wikipedia.org/wiki/Veurne), gdzie wkrótce stanęła jego kwatera główna. Ministrowie i urzędnicy odpłynęli na pokładzie promu Pieter de Coninck do Francji. Źródła różnią się co do tego, czy statek wypłynął z Ostendy jeszcze 12, czy dopiero 13 października. Zgodnie podają natomiast, że 13 października rząd dotarł do [Hawru](https://pl.wikipedia.org/wiki/Hawr).
 
 Brytyjczycy również nie mieli już czego bronić na wybrzeżu. Resztki Dywizji Marynarki, która [walczyła w Antwerpii](/piechota-morska-przybywa-do-antwerpii), zaokrętowano w Ostendzie i 11 października dotarły do Dover. [Brytyjska 7 Dywizja](/brytyjska-7-dywizja-laduje-w-belgii) i 3 Dywizja Kawalerii, które kilka dni wcześniej schodziły na ląd w obu portach, cofały się spod Gandawy w głąb lądu, w stronę Tielt i Roeselare, oddalając się od morza.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 18 grudnia 1914 roku początek bitwy nad Rawką i Bzurą, dodając od razu, że nie miała ona wyraźnego końca, bo działania stopniowo przeszły w wojnę okopową. Od tego dnia „bitwę nad Rawką i Bzurą” liczą też kalendarze bojowe części niemieckich dywizji. Dzień wcześniej skończyła się [bitwa pod Łowiczem i Sannikami](/koniec-bitwy-nad-bzura). Rosyjskie armie zajęły wtedy nowe pozycje na wschodnich brzegach dolnej [Bzury](https://pl.wikipedia.org/wiki/Bzura) i [Rawki](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), zaledwie 50–60 kilometrów od Warszawy. Niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen) od razu spróbowała je przełamać.
+Brytyjska chronologia wojny notuje pod datą 18 grudnia 1914 roku początek bitwy nad Rawką i Bzurą, dodając od razu, że nie miała ona wyraźnego końca, bo działania stopniowo przeszły w wojnę okopową. Od tego dnia „bitwę nad Rawką i Bzurą” liczą też kalendarze bojowe części niemieckich dywizji. Dzień wcześniej skończyła się [bitwa pod Łowiczem i Sannikami](/koniec-bitwy-nad-bzura). Rosyjskie armie zajęły wtedy nowe pozycje na wschodnich brzegach dolnej [Bzury](https://pl.wikipedia.org/wiki/Bzura) i [Rawki](https://pl.wikipedia.org/wiki/Rawka_(rzeka)), zaledwie 50–60 kilometrów od Warszawy. Niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Augusta von Mackensena](/postacie/august-von-mackensen) od razu spróbowała je przełamać.
 
 ## Nowa linia
 

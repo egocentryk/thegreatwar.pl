@@ -16,7 +16,7 @@ draft: false
 
 ## Brygada Ludendorffa
 
-W nocy z 5 na 6 sierpnia niemieckie brygady zaatakowały w lukach między fortami. Większość natarć załamała się pod ogniem Belgów, ale 14 Brygada przedarła się przez linię obrony w miejscu, gdzie nie zdążono przygotować okopów. Gdy jej dowódca zginął, dowodzenie przejął oficer sztabowy [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff). Brygada znalazła się na wzgórzach nad miastem, w samym środku belgijskiej obrony.
+W nocy z 5 na 6 sierpnia niemieckie brygady zaatakowały w lukach między fortami. Większość natarć załamała się pod ogniem Belgów, ale 14 Brygada przedarła się przez linię obrony w miejscu, gdzie nie zdążono przygotować okopów. Gdy jej dowódca zginął, dowodzenie przejął oficer sztabowy [Erich Ludendorff](/postacie/erich-ludendorff). Brygada znalazła się na wzgórzach nad miastem, w samym środku belgijskiej obrony.
 
 Rano 7 sierpnia Ludendorff ruszył na przestarzałą cytadelę górującą nad Liège. Garnizon poddał się bez walki. Według relacji Ludendorff podjechał pod bramę samochodem i zażądał kapitulacji. Wraz z cytadelą w ręce Niemców przeszło całe miasto, jego mosty na [Mozie](https://pl.wikipedia.org/wiki/Moza) i ważny węzeł kolejowy.
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1915 roku brytyjski poseł w Atenach, sir Francis Elliot, przekazał premierowi Grecji [Elefteriosowi Wenizelosowi](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) propozycję ministra spraw zagranicznych [Edwarda Greya](https://pl.wikipedia.org/wiki/Edward_Grey). Jeśli Grecja stanie u boku Serbii jako jej sojuszniczka i przystąpi do wojny, Francja i Rosja chętnie zgodzą się, by otrzymała „bardzo ważne ustępstwa terytorialne” na wybrzeżu [Azji Mniejszej](https://pl.wikipedia.org/wiki/Azja_Mniejsza). Grey wysłał instrukcje do Aten dzień wcześniej, 23 stycznia, dlatego w części opracowań oferta nosi tę datę.
+24 stycznia 1915 roku brytyjski poseł w Atenach, sir Francis Elliot, przekazał premierowi Grecji [Elefteriosowi Wenizelosowi](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) propozycję ministra spraw zagranicznych [Edwarda Greya](/postacie/edward-grey). Jeśli Grecja stanie u boku Serbii jako jej sojuszniczka i przystąpi do wojny, Francja i Rosja chętnie zgodzą się, by otrzymała „bardzo ważne ustępstwa terytorialne” na wybrzeżu [Azji Mniejszej](https://pl.wikipedia.org/wiki/Azja_Mniejsza). Grey wysłał instrukcje do Aten dzień wcześniej, 23 stycznia, dlatego w części opracowań oferta nosi tę datę.
 
 ## Serbia w niebezpieczeństwie
 

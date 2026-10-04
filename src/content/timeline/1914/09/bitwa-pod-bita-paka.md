@@ -15,7 +15,7 @@ draft: false
 
 ## Cel: radiostacja
 
-Radiostacje w niemieckich koloniach na Pacyfiku pozwalały utrzymywać łączność z eskadrą admirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee), której okręty zagrażały żegludze sprzymierzonych. Brytyjczycy poprosili więc Australię i Nową Zelandię o zniszczenie tych stacji. Nowozelandczycy zajęli pod koniec sierpnia [Samoa Niemieckie](https://pl.wikipedia.org/wiki/Samoa_Niemieckie), a australijskie siły ekspedycyjne, około 1,5 tysiąca ochotników i rezerwistów marynarki, popłynęły na Nową Brytanię.
+Radiostacje w niemieckich koloniach na Pacyfiku pozwalały utrzymywać łączność z eskadrą admirała [Maximiliana von Spee](/postacie/maximilian-von-spee), której okręty zagrażały żegludze sprzymierzonych. Brytyjczycy poprosili więc Australię i Nową Zelandię o zniszczenie tych stacji. Nowozelandczycy zajęli pod koniec sierpnia [Samoa Niemieckie](https://pl.wikipedia.org/wiki/Samoa_Niemieckie), a australijskie siły ekspedycyjne, około 1,5 tysiąca ochotników i rezerwistów marynarki, popłynęły na Nową Brytanię.
 
 Rankiem 11 września małe oddziały australijskich rezerwistów marynarki [wylądowały bez oporu](/australijczycy-laduja-na-archipelagu-bismarcka) w Herbertshöhe i w pobliskim Kabakaul. Z Kabakaul patrol około 25 ludzi ruszył w głąb wyspy, drogą przez gęstą dżunglę, w stronę radiostacji ukrytej kilka kilometrów od wybrzeża.
 

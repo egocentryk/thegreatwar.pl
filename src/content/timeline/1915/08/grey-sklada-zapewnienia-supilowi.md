@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 sierpnia 1915 roku brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) przyjął w Londynie chorwackiego polityka [Frana Supila](https://pl.wikipedia.org/wiki/Frano_Supilo), wiceprzewodniczącego [Komitetu Jugosłowiańskiego](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański). Według brytyjskiej chronologii wojny Grey oświadczył mu, że jeśli Serbia się zgodzi, sojusznicy mogą zagwarantować ostateczną wolność i prawo do samostanowienia Bośni, Hercegowiny, południowej Dalmacji, Slawonii i Chorwacji. Datę rozmowy potwierdzają depesze serbskiego posła w Londynie, Mateji Boškovicia, zbadane przez historyka Dragana Bakicia. W późniejszym memorandum Foreign Office z 1916 roku to samo oświadczenie datowane jest na 1 września, być może dlatego, że wtedy przekazano je na piśmie.
+30 sierpnia 1915 roku brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) przyjął w Londynie chorwackiego polityka [Frana Supila](https://pl.wikipedia.org/wiki/Frano_Supilo), wiceprzewodniczącego [Komitetu Jugosłowiańskiego](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański). Według brytyjskiej chronologii wojny Grey oświadczył mu, że jeśli Serbia się zgodzi, sojusznicy mogą zagwarantować ostateczną wolność i prawo do samostanowienia Bośni, Hercegowiny, południowej Dalmacji, Slawonii i Chorwacji. Datę rozmowy potwierdzają depesze serbskiego posła w Londynie, Mateji Boškovicia, zbadane przez historyka Dragana Bakicia. W późniejszym memorandum Foreign Office z 1916 roku to samo oświadczenie datowane jest na 1 września, być może dlatego, że wtedy przekazano je na piśmie.
 
 ## Chorwat z Cavtatu
 

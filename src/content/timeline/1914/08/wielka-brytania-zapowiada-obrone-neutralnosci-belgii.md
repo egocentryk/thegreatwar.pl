@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 sierpnia 1914 roku o godzinie 15 minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) wygłosił w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) jedno z najważniejszych przemówień w historii brytyjskiej dyplomacji. Treść wystąpienia gabinet zatwierdził kilka godzin wcześniej. Grey musiał przekonać parlament i podzielony rząd, że [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) nie może pozostać obojętna wobec wojny na kontynencie.
+3 sierpnia 1914 roku o godzinie 15 minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) wygłosił w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) jedno z najważniejszych przemówień w historii brytyjskiej dyplomacji. Treść wystąpienia gabinet zatwierdził kilka godzin wcześniej. Grey musiał przekonać parlament i podzielony rząd, że [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) nie może pozostać obojętna wobec wojny na kontynencie.
 
 Minister zapewniał, że kraj nie jest związany żadnym traktatem, który automatycznie zobowiązywałby go do wojny u boku Francji. Mówił jednak o zobowiązaniach honoru i interesu. Przypomniał, że francuska flota, na mocy wcześniejszych uzgodnień, skupiła się na Morzu Śródziemnym, pozostawiając północne wybrzeża Francji bez osłony. Wielka Brytania nie mogła więc przyglądać się bezczynnie, jak niemiecka flota je atakuje.
 

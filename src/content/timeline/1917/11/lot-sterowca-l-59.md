@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 21 listopada 1917 roku z bazy sterowców pod [Jambołem](https://pl.wikipedia.org/wiki/Jamboł) w Bułgarii wystartował niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) L 59. Na pokładzie miał kilkanaście ton broni, amunicji i lekarstw dla wojsk [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck), od trzech lat walczących w odciętej od świata [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Miał przelecieć nad Morzem Śródziemnym, Egiptem i Sudanem i wylądować w Afryce Wschodniej, z której nie zamierzał już wracać. 23 listopada nad Sudanem odebrał rozkaz powrotu. 25 listopada rano wrócił do Jamboła po locie, który trwał około 95 godzin i według niemieckich danych był wówczas najdłuższym lotem w historii lotnictwa.
+Rano 21 listopada 1917 roku z bazy sterowców pod [Jambołem](https://pl.wikipedia.org/wiki/Jamboł) w Bułgarii wystartował niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) L 59. Na pokładzie miał kilkanaście ton broni, amunicji i lekarstw dla wojsk [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), od trzech lat walczących w odciętej od świata [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Miał przelecieć nad Morzem Śródziemnym, Egiptem i Sudanem i wylądować w Afryce Wschodniej, z której nie zamierzał już wracać. 23 listopada nad Sudanem odebrał rozkaz powrotu. 25 listopada rano wrócił do Jamboła po locie, który trwał około 95 godzin i według niemieckich danych był wówczas najdłuższym lotem w historii lotnictwa.
 
 ## „Sprawa chińska”
 

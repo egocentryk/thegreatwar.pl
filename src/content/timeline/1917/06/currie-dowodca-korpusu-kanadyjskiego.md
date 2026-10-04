@@ -15,7 +15,7 @@ draft: false
 
 ## Zmiana dowódcy
 
-Na początku czerwca generał [Edmund Allenby](https://pl.wikipedia.org/wiki/Edmund_Allenby), dowódca 3 Armii pod Arras, został wyznaczony na dowódcę wojsk brytyjskich w Egipcie, a jego armię miał przejąć Byng. Po południu 6 czerwca Currie, dowódca 1 Dywizji Kanadyjskiej, został wezwany do kwatery korpusu i dostał rozkaz objęcia dowództwa. Tego samego dnia naczelny wódz [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) zawiadomił War Office, że Currie przejmuje Korpus Kanadyjski. Jego 1 Dywizję objął generał Archibald Macdonell.
+Na początku czerwca generał [Edmund Allenby](https://pl.wikipedia.org/wiki/Edmund_Allenby), dowódca 3 Armii pod Arras, został wyznaczony na dowódcę wojsk brytyjskich w Egipcie, a jego armię miał przejąć Byng. Po południu 6 czerwca Currie, dowódca 1 Dywizji Kanadyjskiej, został wezwany do kwatery korpusu i dostał rozkaz objęcia dowództwa. Tego samego dnia naczelny wódz [Douglas Haig](/postacie/douglas-haig) zawiadomił War Office, że Currie przejmuje Korpus Kanadyjski. Jego 1 Dywizję objął generał Archibald Macdonell.
 
 Haig nie zapytał jednak o zdanie Kanadyjczyków. W Londynie oburzył się kanadyjski minister do spraw wojsk zamorskich, sir George Perley. Właśnie 9 czerwca, gdy nieoficjalnie dowiedział się o wakacie, zatelegrafował do premiera [Roberta Bordena](https://pl.wikipedia.org/wiki/Robert_Borden), że będzie nalegał na mianowanie Kanadyjczyka. Kandydatów było dwóch: Currie i generał Richard Turner, który dowodził wojskami kanadyjskimi w Wielkiej Brytanii i już w 1916 roku zastrzegł sobie prawo do ubiegania się o dowództwo korpusu. Perley radził dać korpus Curriemu, a Turnera zostawić na jego stanowisku w Anglii i awansować obu, by Turner nie stracił starszeństwa.
 

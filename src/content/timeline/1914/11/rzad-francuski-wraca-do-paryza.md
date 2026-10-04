@@ -14,7 +14,7 @@ Brytyjska chronologia wojny notuje pod datą 18 listopada 1914 roku początek po
 
 ## Spór o termin
 
-Po zwycięstwie nad Marną bezpośrednie zagrożenie minęło, ale front zatrzymał się niespełna sto kilometrów od stolicy, a jesienią najcięższe walki toczyły się we Flandrii. Prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) od dawna nalegał na powrót. Uważał, że rząd powinien być bliżej armii i okupowanych departamentów, a dalszy pobyt w Bordeaux źle wygląda w oczach paryżan. Ministrowie byli podzieleni, a naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) wolał, by władze jeszcze nie wracały.
+Po zwycięstwie nad Marną bezpośrednie zagrożenie minęło, ale front zatrzymał się niespełna sto kilometrów od stolicy, a jesienią najcięższe walki toczyły się we Flandrii. Prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) od dawna nalegał na powrót. Uważał, że rząd powinien być bliżej armii i okupowanych departamentów, a dalszy pobyt w Bordeaux źle wygląda w oczach paryżan. Ministrowie byli podzieleni, a naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) wolał, by władze jeszcze nie wracały.
 
 8 listopada Rada Ministrów przyjęła kompromis. Jak zanotował Poincaré w swoich wspomnieniach, premier [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) i minister sprawiedliwości [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand) mieli na zmianę przebywać w Paryżu, a rząd miał czekać w Bordeaux, aż naczelny wódz nie będzie widział przeszkód w jego powrocie. W połowie listopada parlamentarzyści z Paryża zażądali, by następna sesja parlamentu odbyła się w stolicy, a nie w Bordeaux.
 

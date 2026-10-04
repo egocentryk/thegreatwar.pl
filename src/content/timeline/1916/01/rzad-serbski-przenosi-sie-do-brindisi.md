@@ -17,7 +17,7 @@ Brytyjska chronologia wojny notuje pod 15 stycznia 1916 roku przeniesienie rząd
 
 Szkodra przestała być bezpieczna. Austro-Węgry rozpoczęły na początku stycznia [podbój Czarnogóry](/bitwy/podboj-czarnogory), który okazał się błyskawiczny. [Austriacy zdobyli Lovćen](/austriacy-zdobywaja-lovcen), 12 stycznia Czarnogóra poprosiła o rozejm, a następnego dnia nieprzyjaciel zajął jej stolicę, [Cetynię](https://pl.wikipedia.org/wiki/Cetynia). Między Austriakami a Szkodrą nie było już armii, która mogłaby ich zatrzymać. Sprzymierzeni postanowili tymczasem [przewieźć armię serbską na Korfu](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu), a pierwsze oddziały ruszyły już ze Szkodry do Durrës. Rząd nie mógł zostać w mieście, które wkrótce miało znaleźć się na linii frontu. Droga przez morze też była ryzykowna. Na początku stycznia pod Medua zatonął na minie włoski parowiec Brindisi z kilkuset czarnogórskimi ochotnikami.
 
-Z Pašiciem nie popłynęło wojsko. Regent [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić) i naczelne dowództwo zostali przy żołnierzach, którzy szli na południe, do portów ewakuacji. Chory wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik) odpłynął do Włoch już wcześniej, a król [Piotr I](https://pl.wikipedia.org/wiki/Piotr_I_Karadziordziewić) przebywał w Grecji.
+Z Pašiciem nie popłynęło wojsko. Regent [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić) i naczelne dowództwo zostali przy żołnierzach, którzy szli na południe, do portów ewakuacji. Chory wojewoda [Radomir Putnik](/postacie/radomir-putnik) odpłynął do Włoch już wcześniej, a król [Piotr I](https://pl.wikipedia.org/wiki/Piotr_I_Karadziordziewić) przebywał w Grecji.
 
 ## Tylko przystanek
 

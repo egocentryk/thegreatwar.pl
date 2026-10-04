@@ -17,7 +17,7 @@ Po tygodniu ucieczki przez Morze Śródziemne niemieckie okręty [Goeben](https:
 
 Kontradmirał [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon) od początku wojny prowadził swoje okręty przez Morze Śródziemne, unikając brytyjskiej floty. Po ostrzelaniu portów w Algierii i uzupełnieniu węgla w Mesynie skierował się na wschód. 7 sierpnia jego okręty ścigał jeszcze brytyjski krążownik Gloucester, ale główne siły brytyjskie spodziewały się, że Niemcy spróbują uciec na zachód. Gdy zrozumiano, dokąd płyną, było już za późno.
 
-Wejście do Dardaneli nie było oczywiste. [Imperium Osmańskie](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) było formalnie neutralne, a zasady neutralności zabraniały okrętom wojennym stron konfliktu dłuższego pobytu na jego wodach. Zgodę na przepuszczenie niemieckich okrętów wydał jednak minister wojny [Enver Pasza](https://pl.wikipedia.org/wiki/İsmail_Enver), zwolennik sojuszu z Niemcami. Okręty przepłynęły obok fortów w rejonie [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) i zakotwiczyły w cieśninie.
+Wejście do Dardaneli nie było oczywiste. [Imperium Osmańskie](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) było formalnie neutralne, a zasady neutralności zabraniały okrętom wojennym stron konfliktu dłuższego pobytu na jego wodach. Zgodę na przepuszczenie niemieckich okrętów wydał jednak minister wojny [Enver Pasza](/postacie/enver-pasza), zwolennik sojuszu z Niemcami. Okręty przepłynęły obok fortów w rejonie [Çanakkale](https://pl.wikipedia.org/wiki/Çanakkale) i zakotwiczyły w cieśninie.
 
 ## Fikcyjna sprzedaż
 

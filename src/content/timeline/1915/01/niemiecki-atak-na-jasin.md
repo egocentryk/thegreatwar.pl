@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-O świcie 18 stycznia 1915 roku niemieckie wojska kolonialne podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) uderzyły na Jasin, plantację palm kokosowych i sizalu tuż za granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Brytyjczycy [zajęli ją w Boże Narodzenie](/brytyjczycy-zajmuja-jasin) i od tej pory trzymali tam wysunięty posterunek. Główne siły generała brygady Michaela Tighe'a obozowały kilka kilometrów dalej na północ, nad graniczną rzeką Umba.
+O świcie 18 stycznia 1915 roku niemieckie wojska kolonialne podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) uderzyły na Jasin, plantację palm kokosowych i sizalu tuż za granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Brytyjczycy [zajęli ją w Boże Narodzenie](/brytyjczycy-zajmuja-jasin) i od tej pory trzymali tam wysunięty posterunek. Główne siły generała brygady Michaela Tighe'a obozowały kilka kilometrów dalej na północ, nad graniczną rzeką Umba.
 
 ## Przygotowania
 

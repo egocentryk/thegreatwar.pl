@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 1 listopada 1914 roku na Pacyfiku, u wybrzeży środkowego [Chile](https://pl.wikipedia.org/wiki/Chile), niemiecka Eskadra Wschodnioazjatycka wiceadmirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee) starła się z brytyjskim zespołem kontradmirała [Christophera Cradocka](https://pl.wikipedia.org/wiki/Christopher_Cradock). W niespełna godzinę Niemcy zatopili krążownik pancerny HMS [Good Hope](https://pl.wikipedia.org/wiki/HMS_Good_Hope_(1901)), a później dobili HMS [Monmouth](https://pl.wikipedia.org/wiki/HMS_Monmouth_(1901)). Obydwa okręty poszły na dno z całymi załogami.
+Wieczorem 1 listopada 1914 roku na Pacyfiku, u wybrzeży środkowego [Chile](https://pl.wikipedia.org/wiki/Chile), niemiecka Eskadra Wschodnioazjatycka wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee) starła się z brytyjskim zespołem kontradmirała [Christophera Cradocka](https://pl.wikipedia.org/wiki/Christopher_Cradock). W niespełna godzinę Niemcy zatopili krążownik pancerny HMS [Good Hope](https://pl.wikipedia.org/wiki/HMS_Good_Hope_(1901)), a później dobili HMS [Monmouth](https://pl.wikipedia.org/wiki/HMS_Monmouth_(1901)). Obydwa okręty poszły na dno z całymi załogami.
 
 ## Nierówna walka
 

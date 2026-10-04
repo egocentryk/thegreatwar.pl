@@ -8,7 +8,7 @@ endDate: 1914-08-25
 location: Okolice Kraśnika, Lubelszczyzna, Królestwo Polskie
 sides:
   - name: Austro-Węgry
-    commanders: [Viktor Dankl]
+    commanders: [Victor Dankl]
   - name: Rosja
     commanders: [Anton Salza]
 result: Zwycięstwo Austro-Węgier. Rosyjska 4 Armia wycofała się w kierunku Lublina, a jej dowódca został odwołany.
@@ -17,11 +17,11 @@ tags: [Austro-Węgry, Rosja, Królestwo Polskie, bitwa galicyjska]
 milestone: false
 ---
 
-[Bitwa pod Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) rozegrała się w dniach 23–25 sierpnia 1914 roku na południowej Lubelszczyźnie, na ziemiach należących wówczas do Królestwa Polskiego pod panowaniem rosyjskim. Była pierwszym starciem wielkiej [bitwy galicyjskiej](https://pl.wikipedia.org/wiki/Bitwa_galicyjska) i pierwszym zwycięstwem armii austro-węgierskiej w I wojnie światowej.
+[Bitwa pod Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) rozegrała się w dniach 23–25 sierpnia 1914 roku na południowej Lubelszczyźnie, na ziemiach należących wówczas do Królestwa Polskiego pod panowaniem rosyjskim. Była pierwszym starciem wielkiej [bitwy galicyjskiej](/bitwy/bitwa-galicyjska) i pierwszym zwycięstwem armii austro-węgierskiej w I wojnie światowej.
 
 ## Ofensywa na północ
 
-Szef austro-węgierskiego sztabu generalnego Franz Conrad von Hötzendorf postanowił uderzyć z Galicji na północ, w głąb Królestwa Polskiego, między Wisłą a Bugiem. Liczył, że rozbije rosyjskie armie, zanim Rosja zdąży w pełni zmobilizować swoje siły. Na lewym skrzydle ofensywy nacierała austro-węgierska 1 Armia generała Viktora Dankla.
+Szef austro-węgierskiego sztabu generalnego Franz Conrad von Hötzendorf postanowił uderzyć z Galicji na północ, w głąb Królestwa Polskiego, między Wisłą a Bugiem. Liczył, że rozbije rosyjskie armie, zanim Rosja zdąży w pełni zmobilizować swoje siły. Na lewym skrzydle ofensywy nacierała austro-węgierska 1 Armia generała Victora Dankla.
 
 Rosjanie również przygotowywali natarcie. Ich 4 Armia, dowodzona przez generała Antona Salzę, maszerowała na południe, w stronę Galicji. Żadna ze stron nie wiedziała dokładnie, gdzie znajdują się główne siły przeciwnika.
 

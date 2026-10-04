@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 lipca 1914 roku, kilka godzin po Admiralicji, brytyjskie ministerstwo wojny – [War Office](https://pl.wikipedia.org/wiki/War_Office) – rozesłało do jednostek wojskowych telegramy wprowadzające tzw. okres przygotowawczy (Precautionary Period). Po południu premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith) spotkał się z Radą Armii i zatwierdził wysłanie ostrzeżenia do wszystkich oddziałów [British Army](https://pl.wikipedia.org/wiki/British_Army). Asquith kierował wówczas także samym ministerstwem wojny, którym od wiosny 1914 roku zarządzał osobiście.
+29 lipca 1914 roku, kilka godzin po Admiralicji, brytyjskie ministerstwo wojny – [War Office](https://pl.wikipedia.org/wiki/War_Office) – rozesłało do jednostek wojskowych telegramy wprowadzające tzw. okres przygotowawczy (Precautionary Period). Po południu premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) spotkał się z Radą Armii i zatwierdził wysłanie ostrzeżenia do wszystkich oddziałów [British Army](https://pl.wikipedia.org/wiki/British_Army). Asquith kierował wówczas także samym ministerstwem wojny, którym od wiosny 1914 roku zarządzał osobiście.
 
 Okres przygotowawczy był etapem przewidzianym w tzw. War Book, czyli szczegółowym planie działań na wypadek wojny, opracowanym przed 1914 rokiem pod kierunkiem sekretarza Komitetu Obrony Imperium, [Maurice'a Hankeya](https://pl.wikipedia.org/wiki/Maurice_Hankey). Każde ministerstwo miało w nim rozpisane, co ma zrobić po otrzymaniu określonego sygnału. Dzięki temu rząd mógł uruchomić przygotowania wojenne bez ogłaszania mobilizacji, która byłaby krokiem znacznie bardziej prowokacyjnym.
 

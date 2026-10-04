@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 listopada 1918 roku oddział kapitana Waltera Spangenberga, czołówka niemieckiej kolumny generała [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck), zajął [Kasamę](https://pl.wikipedia.org/wiki/Kasama_(Zambia)), główny ośrodek administracyjny północno-wschodniej [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna). Załoga w sile około pół kompanii wycofała się na południe bez walki. Tę datę podają wspomnienia Lettow-Vorbecka i opracowanie Western Front Association. Południowoafrykańska oficjalna relacja pisze ogólniej, że do 8 listopada niemieckie czołówki „dotarły do Kasamy”: 8 listopada Spangenberg toczył bowiem potyczki z patrolami na północ od miasta. Niektóre opracowania podają 12 lub 13 listopada, ale dotyczą one raczej nadejścia głównych sił niemieckich.
+9 listopada 1918 roku oddział kapitana Waltera Spangenberga, czołówka niemieckiej kolumny generała [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), zajął [Kasamę](https://pl.wikipedia.org/wiki/Kasama_(Zambia)), główny ośrodek administracyjny północno-wschodniej [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna). Załoga w sile około pół kompanii wycofała się na południe bez walki. Tę datę podają wspomnienia Lettow-Vorbecka i opracowanie Western Front Association. Południowoafrykańska oficjalna relacja pisze ogólniej, że do 8 listopada niemieckie czołówki „dotarły do Kasamy”: 8 listopada Spangenberg toczył bowiem potyczki z patrolami na północ od miasta. Niektóre opracowania podają 12 lub 13 listopada, ale dotyczą one raczej nadejścia głównych sił niemieckich.
 
 ## Marsz wzdłuż linii zaopatrzenia
 

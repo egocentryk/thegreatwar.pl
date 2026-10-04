@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-18 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](https://pl.wikipedia.org/wiki/Belgia) doszło do starcia armii belgijskiej z nacierającymi wojskami niemieckimi. Walki, trwające do 19 sierpnia, były częścią zmagań o Antwerpię i zadecydowały o dalszej strategii króla [Alberta I](https://pl.wikipedia.org/wiki/Albert_I_Koburg).
+18 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](https://pl.wikipedia.org/wiki/Belgia) doszło do starcia armii belgijskiej z nacierającymi wojskami niemieckimi. Walki, trwające do 19 sierpnia, były częścią zmagań o Antwerpię i zadecydowały o dalszej strategii króla [Alberta I](/postacie/albert-i).
 
 ## Linia nad Gete
 

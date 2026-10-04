@@ -16,13 +16,13 @@ authors: [Łukasz Skowroń]
 tags: [Charleroi, Francja, Niemcy, Belgia]
 ---
 
-Bitwa pod [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), nazywana też bitwą nad Sambrą, rozegrała się w dniach 21–23 sierpnia 1914 roku w Belgii, w widłach rzek [Sambry](https://pl.wikipedia.org/wiki/Sambra) i Mozy. Była jedną z [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)), które zadecydowały o losach pierwszej fazy wojny na zachodzie.
+Bitwa pod [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), nazywana też bitwą nad Sambrą, rozegrała się w dniach 21–23 sierpnia 1914 roku w Belgii, w widłach rzek [Sambry](https://pl.wikipedia.org/wiki/Sambra) i Mozy. Była jedną z [bitew granicznych](/bitwy/bitwa-graniczna), które zadecydowały o losach pierwszej fazy wojny na zachodzie.
 
 ## Ostrzeżenia Lanrezaca
 
 Dowódca francuskiej 5 Armii, generał Charles Lanrezac, od początku wojny ostrzegał naczelne dowództwo, że Niemcy nacierają przez Belgię znacznie większymi siłami, niż sądzono. Joffre długo lekceważył te ostrzeżenia. Dopiero gdy stało się jasne, że niemieckie prawe skrzydło obchodzi francuskie armie od północy, 5 Armia została przesunięta nad Sambrę, na lewe skrzydło wojsk francuskich, obok przybywającego z Wielkiej Brytanii korpusu ekspedycyjnego.
 
-Naprzeciw Francuzów stanęły dwie armie niemieckie: 2 Armia generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow), nacierająca od północy przez Sambrę, i 3 Armia generała [Maxa von Hausena](https://pl.wikipedia.org/wiki/Max_von_Hausen), zbliżająca się od wschodu, znad Mozy.
+Naprzeciw Francuzów stanęły dwie armie niemieckie: 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow), nacierająca od północy przez Sambrę, i 3 Armia generała [Maxa von Hausena](https://pl.wikipedia.org/wiki/Max_von_Hausen), zbliżająca się od wschodu, znad Mozy.
 
 ## Przebieg
 
@@ -32,4 +32,4 @@ Naprzeciw Francuzów stanęły dwie armie niemieckie: 2 Armia generała [Karla v
 
 ## Znaczenie
 
-Odwrót 5 Armii uratował ją przed zniszczeniem, ale odsłonił prawe skrzydło Brytyjskiego Korpusu Ekspedycyjnego i zmusił również Brytyjczyków do odwrotu. 25 sierpnia padła twierdza Namur. Rozpoczął się wielki odwrót wojsk francuskich i brytyjskich, który zatrzymał się dopiero nad Marną. Lanrezac, choć jego ostrzeżenia okazały się trafne, został na początku września usunięty ze stanowiska. Zastąpił go generał [Louis Franchet d’Espérey](https://pl.wikipedia.org/wiki/Louis_Franchet_d’Espérey).
+Odwrót 5 Armii uratował ją przed zniszczeniem, ale odsłonił prawe skrzydło Brytyjskiego Korpusu Ekspedycyjnego i zmusił również Brytyjczyków do odwrotu. 25 sierpnia padła twierdza Namur. Rozpoczął się wielki odwrót wojsk francuskich i brytyjskich, który zatrzymał się dopiero nad Marną. Lanrezac, choć jego ostrzeżenia okazały się trafne, został na początku września usunięty ze stanowiska. Zastąpił go generał [Louis Franchet d’Espérey](/postacie/louis-franchet-d-esperey).

@@ -21,7 +21,7 @@ Zanim do Francji mogły przypłynąć dziesiątki tysięcy żołnierzy z końmi,
 
 Przerzut armii był wielką operacją logistyczną, przygotowaną jeszcze przed wojną. Statki kursowały przez kanał dzień i noc, osłaniane przez okręty [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), które strzegły cieśniny przed atakiem niemieckiej floty. Operacja zakończyła się pełnym sukcesem: żaden transportowiec nie został zatopiony, a Niemcy przez długi czas nie zdawali sobie sprawy z jej skali.
 
-Główne siły, I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) i II Korpus, przeprawiły się między 12 a 17 sierpnia. 14 sierpnia do Boulogne przybył naczelny dowódca, marszałek [John French](https://pl.wikipedia.org/wiki/John_French). Z portów żołnierzy przewożono koleją w rejon [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej, na lewe skrzydło armii francuskiej.
+Główne siły, I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) i II Korpus, przeprawiły się między 12 a 17 sierpnia. 14 sierpnia do Boulogne przybył naczelny dowódca, marszałek [John French](/postacie/john-french). Z portów żołnierzy przewożono koleją w rejon [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej, na lewe skrzydło armii francuskiej.
 
 ## Znaczenie
 

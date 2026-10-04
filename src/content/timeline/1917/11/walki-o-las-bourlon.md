@@ -16,7 +16,7 @@ draft: false
 
 ## Dlaczego Bourlon
 
-Wieczorem 21 listopada marszałek [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) musiał zdecydować, czy przerwać ofensywę, czy walczyć dalej. Minęło 48 godzin, po których spodziewano się przybycia niemieckich odwodów, a wojska były wyczerpane. Haig uznał jednak, że bez grzbietu Bourlon zdobytych pozycji pod Flesquières nie da się utrzymać bez wielkich strat, a jego opanowanie odsłoniłoby niemieckie linie aż po rzekę Sensée. Przemawiała za tym także sytuacja we Włoszech: nacisk pod Cambrai miał wiązać niemieckie siły. 22 listopada Niemcy odbili wieś [Fontaine-Notre-Dame](https://pl.wikipedia.org/wiki/Fontaine-Notre-Dame_(Nord)), zdobytą dzień wcześniej przez 51 Dywizję (Highland), a nocą wyczerpaną 62 Dywizję zluzowała pod lasem świeża 40 Dywizja generała majora [Johna Ponsonby’ego](https://pl.wikipedia.org/wiki/John_Ponsonby_(generał)).
+Wieczorem 21 listopada marszałek [Douglas Haig](/postacie/douglas-haig) musiał zdecydować, czy przerwać ofensywę, czy walczyć dalej. Minęło 48 godzin, po których spodziewano się przybycia niemieckich odwodów, a wojska były wyczerpane. Haig uznał jednak, że bez grzbietu Bourlon zdobytych pozycji pod Flesquières nie da się utrzymać bez wielkich strat, a jego opanowanie odsłoniłoby niemieckie linie aż po rzekę Sensée. Przemawiała za tym także sytuacja we Włoszech: nacisk pod Cambrai miał wiązać niemieckie siły. 22 listopada Niemcy odbili wieś [Fontaine-Notre-Dame](https://pl.wikipedia.org/wiki/Fontaine-Notre-Dame_(Nord)), zdobytą dzień wcześniej przez 51 Dywizję (Highland), a nocą wyczerpaną 62 Dywizję zluzowała pod lasem świeża 40 Dywizja generała majora [Johna Ponsonby’ego](https://pl.wikipedia.org/wiki/John_Ponsonby_(generał)).
 
 ## Natarcie 23 listopada
 

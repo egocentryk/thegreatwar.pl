@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 listopada 1915 roku premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith) podpisał zarządzenie powołujące Komitet Wykonawczy Portów i Tranzytu (Port and Transit Executive Committee). Nowe ciało miało badać trudności i zatory w brytyjskich portach, dokach i magazynach portowych, regulować pracę i ruch w portach oraz rozstrzygać spory między wszystkimi, którzy z nich korzystali. W odróżnieniu od wcześniejszych komitetów mogło też wydawać polecenia zarządom portów. Tak datę i treść zarządzenia podaje brytyjska historia oficjalna handlu morskiego. Arthur Salter, wówczas urzędnik działu transportu Admiralicji, w swojej książce o kontroli żeglugi pisał później, że komitet ukonstytuował się dopiero w grudniu 1915 roku.
+3 listopada 1915 roku premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) podpisał zarządzenie powołujące Komitet Wykonawczy Portów i Tranzytu (Port and Transit Executive Committee). Nowe ciało miało badać trudności i zatory w brytyjskich portach, dokach i magazynach portowych, regulować pracę i ruch w portach oraz rozstrzygać spory między wszystkimi, którzy z nich korzystali. W odróżnieniu od wcześniejszych komitetów mogło też wydawać polecenia zarządom portów. Tak datę i treść zarządzenia podaje brytyjska historia oficjalna handlu morskiego. Arthur Salter, wówczas urzędnik działu transportu Admiralicji, w swojej książce o kontroli żeglugi pisał później, że komitet ukonstytuował się dopiero w grudniu 1915 roku.
 
 ## Zatkane porty
 

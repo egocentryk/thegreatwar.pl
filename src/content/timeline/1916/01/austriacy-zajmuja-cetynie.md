@@ -22,7 +22,7 @@ Cetynia była niewielkim miastem w krasowej kotlinie u stóp Lovćenu, ale od XV
 
 ## Druga prośba o pokój
 
-Czarnogórski rząd już [poprosił o rozejm](/czarnogora-prosi-o-rozejm), ale Austriacy zażądali bezwarunkowego złożenia broni przez całą armię i wydania serbskich żołnierzy, którzy jeszcze byli w kraju. Wieczorem 13 stycznia do kwatery 47 Dywizji w [Njeguši](https://pl.wikipedia.org/wiki/Njeguši), rodzinnej wsi dynastii Petrowiciów-Niegoszów, nadeszła nowa propozycja pokojowa rządu. Razem z nią przyszedł list króla do cesarza [Franciszka Józefa](https://pl.wikipedia.org/wiki/Franciszek_Józef_I), w którym Mikołaj prosił o „honorowy pokój”. Odpowiedź z Wiednia była taka sama jak wcześniej: rokowania mogły się zacząć dopiero po spełnieniu warunków wojska. Austro-węgierskie naczelne dowództwo powtórzyło je 15 stycznia.
+Czarnogórski rząd już [poprosił o rozejm](/czarnogora-prosi-o-rozejm), ale Austriacy zażądali bezwarunkowego złożenia broni przez całą armię i wydania serbskich żołnierzy, którzy jeszcze byli w kraju. Wieczorem 13 stycznia do kwatery 47 Dywizji w [Njeguši](https://pl.wikipedia.org/wiki/Njeguši), rodzinnej wsi dynastii Petrowiciów-Niegoszów, nadeszła nowa propozycja pokojowa rządu. Razem z nią przyszedł list króla do cesarza [Franciszka Józefa](/postacie/franciszek-jozef-i), w którym Mikołaj prosił o „honorowy pokój”. Odpowiedź z Wiednia była taka sama jak wcześniej: rokowania mogły się zacząć dopiero po spełnieniu warunków wojska. Austro-węgierskie naczelne dowództwo powtórzyło je 15 stycznia.
 
 ## Pod okupacją
 

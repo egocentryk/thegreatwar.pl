@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-4 września 1914 roku w Lotaryngii rozpoczęła się bitwa o Grand Couronné, nazywana też bitwą o Nancy. Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach) uderzyła na łańcuch wzgórz osłaniających od północnego wschodu [Nancy](https://pl.wikipedia.org/wiki/Nancy), stolicę francuskiej Lotaryngii. Broniła ich osłabiona 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau). Bitwa toczyła się równocześnie z wielką bitwą nad Marną i miała rozstrzygnąć, czy Niemcom uda się przełamać francuski front od wschodu.
+4 września 1914 roku w Lotaryngii rozpoczęła się bitwa o Grand Couronné, nazywana też bitwą o Nancy. Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) uderzyła na łańcuch wzgórz osłaniających od północnego wschodu [Nancy](https://pl.wikipedia.org/wiki/Nancy), stolicę francuskiej Lotaryngii. Broniła ich osłabiona 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau). Bitwa toczyła się równocześnie z wielką bitwą nad Marną i miała rozstrzygnąć, czy Niemcom uda się przełamać francuski front od wschodu.
 
 ## Wzgórza przed Nancy
 
@@ -22,7 +22,7 @@ Grand Couronné, czyli „wielki wieniec”, to półkole zalesionych wzgórz i 
 
 Pod koniec sierpnia Francuzi zatrzymali niemiecki pościg w Lotaryngii i w [bitwie nad Mortagne](/bitwy/bitwa-nad-mortagne) nie dopuścili Niemców do przesmyku Charmes. Niemieckie dowództwo nie zrezygnowało jednak z działań na tym odcinku. Książę Rupprecht, wzmocniony częścią sił 7 Armii i ciężką artylerią, otrzymał zadanie przełamania obrony pod Nancy i przekroczenia Mozeli. Liczono, że zwycięstwo zmusi Francuzów do wycofania wojsk z zachodu albo otworzy drogę na tyły ich armii.
 
-Castelnau był w trudnym położeniu. Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) zabierał mu kolejne korpusy i przerzucał je na zachód, gdzie przygotowywał kontrofensywę nad Marną. Pod koniec sierpnia odszedł też generał [Ferdinand Foch](https://pl.wikipedia.org/wiki/Ferdinand_Foch), dotychczasowy dowódca XX Korpusu, który objął dowództwo nowej armii. Wzgórz Grand Couronné broniły w dużej części dywizje rezerwowe, złożone ze starszych roczników, wspierane przez doborowy XX Korpus z Nancy.
+Castelnau był w trudnym położeniu. Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) zabierał mu kolejne korpusy i przerzucał je na zachód, gdzie przygotowywał kontrofensywę nad Marną. Pod koniec sierpnia odszedł też generał [Ferdinand Foch](/postacie/ferdinand-foch), dotychczasowy dowódca XX Korpusu, który objął dowództwo nowej armii. Wzgórz Grand Couronné broniły w dużej części dywizje rezerwowe, złożone ze starszych roczników, wspierane przez doborowy XX Korpus z Nancy.
 
 ## Pierwsze dni walk
 
@@ -32,7 +32,7 @@ W kolejnych dniach Niemcy ponawiali szturmy. Najcięższe walki toczyły się w 
 
 ## Cesarz czeka na Nancy
 
-Zdobycie Nancy miało dla Niemców znaczenie nie tylko wojskowe. Było to jedno z najważniejszych miast Francji w pobliżu granicy, symbol francuskiej Lotaryngii, której część Niemcy zajęli po wojnie 1870–1871 roku. Na front przybył cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern). Źródła różnią się co do szczegółów. Według jednych obserwował już ostrzał z 4 września, według innych kilka dni później przebywał w kwaterze 6 Armii w [Dieuze](https://pl.wikipedia.org/wiki/Dieuze). We Francji szybko rozpowszechniła się opowieść, że cesarz czekał w pobliżu frontu z oddziałami kirasjerów gwardii w białych mundurach, gotów do triumfalnego wjazdu do zdobytego miasta. Do wjazdu nigdy nie doszło.
+Zdobycie Nancy miało dla Niemców znaczenie nie tylko wojskowe. Było to jedno z najważniejszych miast Francji w pobliżu granicy, symbol francuskiej Lotaryngii, której część Niemcy zajęli po wojnie 1870–1871 roku. Na front przybył cesarz [Wilhelm II](/postacie/wilhelm-ii). Źródła różnią się co do szczegółów. Według jednych obserwował już ostrzał z 4 września, według innych kilka dni później przebywał w kwaterze 6 Armii w [Dieuze](https://pl.wikipedia.org/wiki/Dieuze). We Francji szybko rozpowszechniła się opowieść, że cesarz czekał w pobliżu frontu z oddziałami kirasjerów gwardii w białych mundurach, gotów do triumfalnego wjazdu do zdobytego miasta. Do wjazdu nigdy nie doszło.
 
 ## Kryzys pod Sainte-Geneviève
 
@@ -42,7 +42,7 @@ Wokół decyzji Castelnau w tych dniach narosły sprzeczne relacje. Castelnau, k
 
 ## Koniec bitwy
 
-Losy walk w Lotaryngii rozstrzygnęły się ostatecznie nad Marną. 8 września szef niemieckiego sztabu generalnego [Helmuth von Moltke](https://pl.wikipedia.org/wiki/Helmuth_Johannes_Ludwig_von_Moltke) zaczął odbierać Rupprechtowi wojska, potrzebne na zagrożonym prawym skrzydle. Niemieckie ataki słabły. W nocy z 9 na 10 września niemiecka artyleria dalekiego zasięgu ostrzelała centrum Nancy, zabijając kilku mieszkańców. Od 10 września wojska 6 Armii, osłaniane przez ulewne deszcze, zaczęły się wycofywać na wschód. 12 i 13 września Francuzi bez walki wkroczyli do Lunéville i Pont-à-Mousson, a front ustalił się nad rzeką [Seille](https://pl.wikipedia.org/wiki/Seille_(dopływ_Mozeli)), w pobliżu przedwojennej granicy.
+Losy walk w Lotaryngii rozstrzygnęły się ostatecznie nad Marną. 8 września szef niemieckiego sztabu generalnego [Helmuth von Moltke](/postacie/helmuth-von-moltke) zaczął odbierać Rupprechtowi wojska, potrzebne na zagrożonym prawym skrzydle. Niemieckie ataki słabły. W nocy z 9 na 10 września niemiecka artyleria dalekiego zasięgu ostrzelała centrum Nancy, zabijając kilku mieszkańców. Od 10 września wojska 6 Armii, osłaniane przez ulewne deszcze, zaczęły się wycofywać na wschód. 12 i 13 września Francuzi bez walki wkroczyli do Lunéville i Pont-à-Mousson, a front ustalił się nad rzeką [Seille](https://pl.wikipedia.org/wiki/Seille_(dopływ_Mozeli)), w pobliżu przedwojennej granicy.
 
 Daty zakończenia bitwy są podawane różnie, od 11 do 13 września. Francuscy autorzy często przyjmują 11 września, gdy ustały niemieckie ataki, inni 13 września, gdy Francuzi odzyskali utracony teren.
 

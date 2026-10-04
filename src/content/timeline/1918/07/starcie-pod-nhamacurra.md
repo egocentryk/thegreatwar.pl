@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 1 lipca 1918 roku trzy kompanie niemieckiej [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) pod dowództwem kapitana Ericha Müllera niespodziewanie zaatakowały portugalskie stanowiska w Nhamacurrze, dziś [Namacurze](https://pl.wikipedia.org/wiki/Namacurra), osadzie z dużą cukrownią około 40 kilometrów na północ od portu [Quelimane](https://pl.wikipedia.org/wiki/Quelimane) w [Portugalskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia). Tego samego popołudnia główne siły [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) przeszły w bród szeroką na kilkaset metrów rzekę Licungo, w najgłębszych miejscach z wodą po szyję. Trzydniowe walki zakończyły się jednym z największych zwycięstw Niemców w Mozambiku i najdalej na południe wysuniętym punktem ich marszu.
+Po południu 1 lipca 1918 roku trzy kompanie niemieckiej [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) pod dowództwem kapitana Ericha Müllera niespodziewanie zaatakowały portugalskie stanowiska w Nhamacurrze, dziś [Namacurze](https://pl.wikipedia.org/wiki/Namacurra), osadzie z dużą cukrownią około 40 kilometrów na północ od portu [Quelimane](https://pl.wikipedia.org/wiki/Quelimane) w [Portugalskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia). Tego samego popołudnia główne siły [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) przeszły w bród szeroką na kilkaset metrów rzekę Licungo, w najgłębszych miejscach z wodą po szyję. Trzydniowe walki zakończyły się jednym z największych zwycięstw Niemców w Mozambiku i najdalej na południe wysuniętym punktem ich marszu.
 
 ## Pochód na południe
 

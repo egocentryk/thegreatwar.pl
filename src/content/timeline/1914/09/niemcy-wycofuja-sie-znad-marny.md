@@ -12,17 +12,17 @@ milestone: true
 draft: false
 ---
 
-9 września 1914 roku armie niemieckiego prawego skrzydła zaczęły się wycofywać znad [Marny](https://pl.wikipedia.org/wiki/Marna). Najpierw odwrót nakazał dowódca 2 Armii, generał [Karl von Bülow](https://pl.wikipedia.org/wiki/Karl_von_Bülow). Kilka godzin później, na polecenie wysłannika naczelnego dowództwa, podpułkownika Richarda Hentscha, cofać się zaczęła także 1 Armia generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck). Tego dnia rozstrzygnęła się [bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), a wraz z nią los niemieckiego planu szybkiego pokonania Francji. Dla Francuzów był to „cud nad Marną”.
+9 września 1914 roku armie niemieckiego prawego skrzydła zaczęły się wycofywać znad [Marny](https://pl.wikipedia.org/wiki/Marna). Najpierw odwrót nakazał dowódca 2 Armii, generał [Karl von Bülow](/postacie/karl-von-bulow). Kilka godzin później, na polecenie wysłannika naczelnego dowództwa, podpułkownika Richarda Hentscha, cofać się zaczęła także 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Tego dnia rozstrzygnęła się [bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), a wraz z nią los niemieckiego planu szybkiego pokonania Francji. Dla Francuzów był to „cud nad Marną”.
 
 ## Luka między armiami
 
 Trzy dni wcześniej, [6 września](/poczatek-bitwy-nad-marna), Francuzi i Brytyjczycy przeszli do kontrofensywy na całym froncie od Paryża po Verdun. Najgroźniejsze dla Niemców okazało się uderzenie na zachodnim skrzydle. Francuska 6 Armia generała Michela-Josepha Maunoury'ego zaatakowała od strony Paryża we flankę 1 Armii nad rzeką Ourcq. Kluck, by odeprzeć to natarcie, zabierał kolejne korpusy znad Marny i przerzucał je na północny zachód, [nad Ourcq](/bitwy/bitwa-nad-ourcq). Radził sobie tam dobrze i zaczął nawet zagrażać lewemu skrzydłu Maunoury'ego, ale zapłacił za to wysoką cenę.
 
-Między jego 1 Armią a 2 Armią Bülowa otworzyła się luka szerokości około 40–50 kilometrów. Osłaniały ją tylko korpusy kawalerii i kilka batalionów strzelców. Od południa wchodził w nią [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), a obok niego lewe skrzydło francuskiej 5 Armii generała [Louisa Franchet d'Espéreya](https://pl.wikipedia.org/wiki/Louis_Franchet_d’Espérey). Posuwały się ostrożnie, ale każdy ich krok zagrażał rozcięciu niemieckiego frontu na dwie części.
+Między jego 1 Armią a 2 Armią Bülowa otworzyła się luka szerokości około 40–50 kilometrów. Osłaniały ją tylko korpusy kawalerii i kilka batalionów strzelców. Od południa wchodził w nią [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), a obok niego lewe skrzydło francuskiej 5 Armii generała [Louisa Franchet d'Espéreya](/postacie/louis-franchet-d-esperey). Posuwały się ostrożnie, ale każdy ich krok zagrażał rozcięciu niemieckiego frontu na dwie części.
 
 ## Moltke w Luksemburgu
 
-Szef niemieckiego sztabu generalnego, generał [Helmuth von Moltke](https://pl.wikipedia.org/wiki/Helmuth_Johannes_Ludwig_von_Moltke), kierował wojną z kwatery głównej w Luksemburgu, kilkaset kilometrów od pola bitwy. Łączność z dowódcami armii była słaba, a meldunki docierały z wielogodzinnym opóźnieniem i często przeczyły sobie nawzajem. Moltke, z natury pesymista, był coraz bardziej przygnębiony. Nie pojechał na front osobiście. 8 września wysłał tam podpułkownika Richarda Hentscha, szefa wydziału wywiadu swojego sztabu, oficera cenionego, ale nie wysokiej rangi.
+Szef niemieckiego sztabu generalnego, generał [Helmuth von Moltke](/postacie/helmuth-von-moltke), kierował wojną z kwatery głównej w Luksemburgu, kilkaset kilometrów od pola bitwy. Łączność z dowódcami armii była słaba, a meldunki docierały z wielogodzinnym opóźnieniem i często przeczyły sobie nawzajem. Moltke, z natury pesymista, był coraz bardziej przygnębiony. Nie pojechał na front osobiście. 8 września wysłał tam podpułkownika Richarda Hentscha, szefa wydziału wywiadu swojego sztabu, oficera cenionego, ale nie wysokiej rangi.
 
 Zakres pełnomocnictw Hentscha do dziś budzi spory, bo Moltke udzielił mu ich ustnie. Wiadomo, że miał ocenić położenie armii prawego skrzydła, a w razie potrzeby uzgodnić ich wspólny odwrót, tak by zamknąć lukę między nimi. Obaj zmarli jeszcze przed końcem wojny, więc nie wiadomo dokładnie, co zostało wtedy powiedziane.
 
@@ -38,7 +38,7 @@ Hentsch dotarł do Mareuil około 11.30 (niektóre źródła podają późniejsz
 
 ## Brytyjczycy nad Marną
 
-Tego samego dnia Brytyjczycy przekroczyli Marnę. I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) przeszedł rzekę rano po nieuszkodzonych mostach w Nogent-l'Artaud i Charly, a II Korpus w Nanteuil i Saâcy. III Korpus utknął pod [La Ferté-sous-Jouarre](https://pl.wikipedia.org/wiki/La_Ferté-sous-Jouarre), gdzie Niemcy wysadzili mosty i bronili się w domach nad rzeką. Część jego żołnierzy przeszła Marnę po jazie i na łodziach dopiero po południu i wieczorem.
+Tego samego dnia Brytyjczycy przekroczyli Marnę. I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) przeszedł rzekę rano po nieuszkodzonych mostach w Nogent-l'Artaud i Charly, a II Korpus w Nanteuil i Saâcy. III Korpus utknął pod [La Ferté-sous-Jouarre](https://pl.wikipedia.org/wiki/La_Ferté-sous-Jouarre), gdzie Niemcy wysadzili mosty i bronili się w domach nad rzeką. Część jego żołnierzy przeszła Marnę po jazie i na łodziach dopiero po południu i wieczorem.
 
 Natarcie brytyjskie było jednak powolne. Haig na kilka godzin wstrzymał swoje dywizje, bo lotnicy błędnie zameldowali o silnych siłach niemieckich na północ od [Château-Thierry](https://pl.wikipedia.org/wiki/Château-Thierry). Dopiero około 17.30 brytyjskie dowództwo zorientowało się, że Niemcy opuszczają pole bitwy. Po południu francuska kawaleria z 5 Armii wkroczyła do Château-Thierry. Mimo to brytyjska historia oficjalna uznała, że to właśnie wejście Brytyjczyków w lukę zdecydowało o odwrocie Niemców.
 
@@ -46,7 +46,7 @@ Natarcie brytyjskie było jednak powolne. Haig na kilka godzin wstrzymał swoje 
 
 Na wschód od luki walki trwały jeszcze przez cały dzień. Na bagnach Saint-Gond niemieckie 2 i 3 Armia ponownie natarły na 9 Armię generała Ferdinanda Focha i zepchnęły jego prawe skrzydło. Po południu Foch przygotował kontratak, ale wtedy Niemcy sami zaczęli się wycofywać, bo odwrót Bülowa odsłaniał sąsiadów. Wieczorem Franchet d'Espérey ogłosił swoim żołnierzom, że nieprzyjaciel, szachowany na skrzydłach i przełamany w centrum, cofa się forsownymi marszami.
 
-Wiadomości o odwrocie spadły na Moltkego jak cios. Świadkowie opisywali go w tych dniach jako człowieka złamanego. 11 września sam objechał kwatery 5, 4 i 3 Armii i nakazał również im odwrót. Do 12–13 września niemieckie armie wycofały się nad Aisne, gdzie się okopały. 14 września Moltke został odsunięty od dowodzenia. Jego obowiązki przejął minister wojny generał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), choć opinia publiczna dowiedziała się o tym dopiero kilka tygodni później.
+Wiadomości o odwrocie spadły na Moltkego jak cios. Świadkowie opisywali go w tych dniach jako człowieka złamanego. 11 września sam objechał kwatery 5, 4 i 3 Armii i nakazał również im odwrót. Do 12–13 września niemieckie armie wycofały się nad Aisne, gdzie się okopały. 14 września Moltke został odsunięty od dowodzenia. Jego obowiązki przejął minister wojny generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), choć opinia publiczna dowiedziała się o tym dopiero kilka tygodni później.
 
 ## Kozioł ofiarny
 

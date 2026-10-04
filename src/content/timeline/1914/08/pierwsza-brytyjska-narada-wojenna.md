@@ -10,11 +10,11 @@ milestone: false
 draft: false
 ---
 
-5 sierpnia 1914 roku, dzień po przystąpieniu Wielkiej Brytanii do wojny, premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith) zwołał na [Downing Street 10](https://pl.wikipedia.org/wiki/10_Downing_Street) naradę wojenną. Po raz pierwszy przy jednym stole zasiedli najważniejsi ministrowie i dowódcy wojskowi, by zdecydować, jak Wielka Brytania będzie prowadzić wojnę na lądzie.
+5 sierpnia 1914 roku, dzień po przystąpieniu Wielkiej Brytanii do wojny, premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) zwołał na [Downing Street 10](https://pl.wikipedia.org/wiki/10_Downing_Street) naradę wojenną. Po raz pierwszy przy jednym stole zasiedli najważniejsi ministrowie i dowódcy wojskowi, by zdecydować, jak Wielka Brytania będzie prowadzić wojnę na lądzie.
 
 ## Kto zasiadł przy stole
 
-W naradzie wzięli udział między innymi minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey), Pierwszy Lord Admiralicji [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill) i lord [Richard Haldane](https://pl.wikipedia.org/wiki/Richard_Haldane). Stronę wojskową reprezentowali marszałek lord [Frederick Roberts](https://pl.wikipedia.org/wiki/Frederick_Roberts), naczelny dowódca korpusu ekspedycyjnego marszałek [John French](https://pl.wikipedia.org/wiki/John_French), generał [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig) i inni wyżsi oficerowie. Obecny był także marszałek [lord Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener), który tego samego dnia został ministrem wojny.
+W naradzie wzięli udział między innymi minister spraw zagranicznych [Edward Grey](/postacie/edward-grey), Pierwszy Lord Admiralicji [Winston Churchill](/postacie/winston-churchill) i lord [Richard Haldane](https://pl.wikipedia.org/wiki/Richard_Haldane). Stronę wojskową reprezentowali marszałek lord [Frederick Roberts](https://pl.wikipedia.org/wiki/Frederick_Roberts), naczelny dowódca korpusu ekspedycyjnego marszałek [John French](/postacie/john-french), generał [Douglas Haig](/postacie/douglas-haig) i inni wyżsi oficerowie. Obecny był także marszałek [lord Kitchener](/postacie/horatio-kitchener), który tego samego dnia został ministrem wojny.
 
 ## Gdzie wysłać armię
 

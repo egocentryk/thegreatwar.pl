@@ -21,7 +21,7 @@ Po ostrzale dowódca Astraei zgodził się na rozejm pod warunkiem, że Dar es S
 
 ## Lettow-Vorbeck
 
-Innego zdania był dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck). Uważał, że jego zadaniem jest związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie. Wbrew gubernatorowi przygotowywał się do wojny i w kolejnych miesiącach przeszedł do działań zaczepnych przeciw [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), dzisiejszej Kenii.
+Innego zdania był dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Uważał, że jego zadaniem jest związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie. Wbrew gubernatorowi przygotowywał się do wojny i w kolejnych miesiącach przeszedł do działań zaczepnych przeciw [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), dzisiejszej Kenii.
 
 ## Najdłuższa kampania
 

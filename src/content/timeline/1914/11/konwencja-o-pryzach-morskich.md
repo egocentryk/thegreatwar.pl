@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-9 listopada 1914 roku w Londynie brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) i ambasador Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon) podpisali konwencję o [pryzach](https://pl.wikipedia.org/wiki/Pryz) zdobytych w czasie wojny. Umowa rozstrzygała, który z sojuszników ma sądzić statki i ładunki zajęte przez okręty brytyjskie i francuskie, zwłaszcza gdy działały one wspólnie.
+9 listopada 1914 roku w Londynie brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) i ambasador Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon) podpisali konwencję o [pryzach](https://pl.wikipedia.org/wiki/Pryz) zdobytych w czasie wojny. Umowa rozstrzygała, który z sojuszników ma sądzić statki i ładunki zajęte przez okręty brytyjskie i francuskie, zwłaszcza gdy działały one wspólnie.
 
 ## Kto sądzi zdobycz
 

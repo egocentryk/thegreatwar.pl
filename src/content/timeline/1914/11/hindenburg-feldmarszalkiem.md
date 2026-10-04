@@ -11,13 +11,13 @@ milestone: false
 draft: false
 ---
 
-27 listopada 1914 roku cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) awansował generała pułkownika [Paula von Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) do stopnia [feldmarszałka](https://pl.wikipedia.org/wiki/Marszałek_polny), najwyższego w armii pruskiej. Hindenburg miał wtedy 67 lat i od niespełna miesiąca był naczelnym dowódcą wszystkich wojsk niemieckich na froncie wschodnim.
+27 listopada 1914 roku cesarz [Wilhelm II](/postacie/wilhelm-ii) awansował generała pułkownika [Paula von Hindenburga](/postacie/paul-von-hindenburg) do stopnia [feldmarszałka](https://pl.wikipedia.org/wiki/Marszałek_polny), najwyższego w armii pruskiej. Hindenburg miał wtedy 67 lat i od niespełna miesiąca był naczelnym dowódcą wszystkich wojsk niemieckich na froncie wschodnim.
 
 ## Trzy miesiące kariery
 
 Jeszcze w sierpniu 1914 roku Hindenburg był generałem w stanie spoczynku. [Wezwany z emerytury](/hindenburg-obejmuje-dowodztwo-8-armii), objął dowództwo 8 Armii w Prusach Wschodnich i jeszcze w trakcie bitwy pod [Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem) otrzymał stopień generała pułkownika. Jesienią poprowadził 9 Armię w ofensywie na Warszawę, a 1 listopada [został naczelnym dowódcą na wschodzie](/hindenburg-naczelnym-dowodca-na-wschodzie), czyli Oberbefehlshaber Ost, w skrócie Ober Ost.
 
-Awans przyszedł w czasie [bitwy pod Łodzią](/bitwy/bitwa-pod-lodzia). Nie przyniosła ona Niemcom wielkiego zwycięstwa, na które liczyli, a 24 listopada okrążona grupa generała Reinharda von Scheffera-Boyadela ledwie wyrwała się z kotła pod Brzezinami. Udało się jednak powstrzymać rosyjską ofensywę na Śląsk, a niemiecka propaganda przedstawiała walki w Królestwie Polskim jako kolejny sukces zwycięzcy spod Tannenbergu. Mniej więcej w tym samym czasie jego szef sztabu [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) został awansowany do stopnia generała porucznika.
+Awans przyszedł w czasie [bitwy pod Łodzią](/bitwy/bitwa-pod-lodzia). Nie przyniosła ona Niemcom wielkiego zwycięstwa, na które liczyli, a 24 listopada okrążona grupa generała Reinharda von Scheffera-Boyadela ledwie wyrwała się z kotła pod Brzezinami. Udało się jednak powstrzymać rosyjską ofensywę na Śląsk, a niemiecka propaganda przedstawiała walki w Królestwie Polskim jako kolejny sukces zwycięzcy spod Tannenbergu. Mniej więcej w tym samym czasie jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) został awansowany do stopnia generała porucznika.
 
 ## Która data
 

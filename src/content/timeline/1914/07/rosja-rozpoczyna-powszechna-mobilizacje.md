@@ -16,6 +16,6 @@ Mobilizacja obejmowała całą [armię rosyjską](https://pl.wikipedia.org/wiki/
 
 Wiadomość o rosyjskiej mobilizacji dotarła do Berlina przed południem. Reakcja była natychmiastowa. Jeszcze tego samego dnia Niemcy ogłosiły stan zagrożenia wojennego, a wieczorem wystosowały do Rosji ultimatum, żądając wstrzymania wszelkich przygotowań wojskowych w ciągu dwunastu godzin.
 
-Mikołaj II próbował jeszcze ratować pokój w korespondencji z cesarzem [Wilhelmem II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern). W telegramie z 31 lipca tłumaczył, że wstrzymanie przygotowań wojskowych jest ze względów technicznych niemożliwe, ale zapewniał, że dopóki trwają rozmowy z Austro-Węgrami, rosyjskie wojska nie podejmą żadnych działań zaczepnych. W Berlinie nie traktowano już tych zapewnień poważnie.
+Mikołaj II próbował jeszcze ratować pokój w korespondencji z cesarzem [Wilhelmem II](/postacie/wilhelm-ii). W telegramie z 31 lipca tłumaczył, że wstrzymanie przygotowań wojskowych jest ze względów technicznych niemożliwe, ale zapewniał, że dopóki trwają rozmowy z Austro-Węgrami, rosyjskie wojska nie podejmą żadnych działań zaczepnych. W Berlinie nie traktowano już tych zapewnień poważnie.
 
 Niemieccy sztabowcy spodziewali się, że Rosja będzie potrzebować wielu tygodni, by w pełni zmobilizować swoje siły. Mobilizacja przebiegła jednak sprawniej, niż zakładano. Już w połowie sierpnia wojska rosyjskie wkroczyły do [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), zmuszając Niemcy do przerzucenia części sił z frontu zachodniego.

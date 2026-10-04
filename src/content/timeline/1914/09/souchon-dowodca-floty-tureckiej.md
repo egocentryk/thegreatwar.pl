@@ -21,7 +21,7 @@ Yavuz był najsilniejszym okrętem na [Morzu Czarnym](https://pl.wikipedia.org/w
 
 ## Droga do wojny
 
-Souchon nie ukrywał, że chce wciągnąć Turcję do wojny po stronie Niemiec. Ten sam cel miał minister wojny [Enver Pasza](https://pl.wikipedia.org/wiki/İsmail_Enver), choć część rządu wciąż wolała neutralność. 25 października (według części źródeł dzień lub kilka dni wcześniej) Enver polecił Souchonowi wyprowadzić flotę na Morze Czarne i zaatakować rosyjskie okręty, jeśli nadarzy się „odpowiednia okazja”.
+Souchon nie ukrywał, że chce wciągnąć Turcję do wojny po stronie Niemiec. Ten sam cel miał minister wojny [Enver Pasza](/postacie/enver-pasza), choć część rządu wciąż wolała neutralność. 25 października (według części źródeł dzień lub kilka dni wcześniej) Enver polecił Souchonowi wyprowadzić flotę na Morze Czarne i zaatakować rosyjskie okręty, jeśli nadarzy się „odpowiednia okazja”.
 
 29 października 1914 roku okręty pod turecką banderą, ale w dużej części z niemieckimi załogami, zaatakowały bez wypowiedzenia wojny rosyjskie porty. Yavuz ostrzelał [Sewastopol](https://pl.wikipedia.org/wiki/Sewastopol), torpedowce zaatakowały [Odessę](https://pl.wikipedia.org/wiki/Odessa) i zatopiły kanonierkę Donieć, a inne okręty ostrzelały [Noworosyjsk](https://pl.wikipedia.org/wiki/Noworosyjsk) i [Teodozję](https://pl.wikipedia.org/wiki/Teodozja_(miasto)). 2 listopada Rosja wypowiedziała wojnę Turcji, a 5 listopada zrobiły to Wielka Brytania i Francja.
 

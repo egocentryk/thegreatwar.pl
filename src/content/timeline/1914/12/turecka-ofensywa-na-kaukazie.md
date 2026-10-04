@@ -15,7 +15,7 @@ Brytyjska chronologia wojny podaje pod datą 17 grudnia 1914 roku, że na Kaukaz
 
 ## Enver na froncie
 
-Dzień 17 grudnia przypadł jednak na czas, gdy ofensywa była już przesądzona. Na początku grudnia minister wojny [Enver Pasza](https://pl.wikipedia.org/wiki/İsmail_Enver) wyjechał z Konstantynopola na Kaukaz razem z szefem osmańskiego sztabu generalnego, niemieckim generałem Friedrichem Bronsartem von Schellendorfem. Według tureckich opracowań w połowie miesiąca, między 13 a 15 grudnia, dotarł do kwatery 3 Armii w Köprüköy. Część źródeł podaje późniejsze daty jego przybycia na front.
+Dzień 17 grudnia przypadł jednak na czas, gdy ofensywa była już przesądzona. Na początku grudnia minister wojny [Enver Pasza](/postacie/enver-pasza) wyjechał z Konstantynopola na Kaukaz razem z szefem osmańskiego sztabu generalnego, niemieckim generałem Friedrichem Bronsartem von Schellendorfem. Według tureckich opracowań w połowie miesiąca, między 13 a 15 grudnia, dotarł do kwatery 3 Armii w Köprüköy. Część źródeł podaje późniejsze daty jego przybycia na front.
 
 Enver był pod wrażeniem listopadowego zwycięstwa nad Rosjanami i uważał, że rosyjska [Armia Kaukaska](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), osłabiona wysłaniem najlepszych korpusów na front niemiecki i austriacki, nie wytrzyma silnego ciosu. Przywiózł plan wielkiego okrążenia. Jeden korpus miał związać Rosjan walką w dolinie Araksu, a dwa kolejne obejść ich od północy, przez góry, i wyjść na ich tyły pod Sarykamyszem, gdzie kończyła się linia kolejowa z [Karsu](https://pl.wikipedia.org/wiki/Kars). Zwycięstwo miało otworzyć drogę do ziem utraconych przez Turcję w 1878 roku i rozpalić powstanie muzułmanów na Kaukazie.
 

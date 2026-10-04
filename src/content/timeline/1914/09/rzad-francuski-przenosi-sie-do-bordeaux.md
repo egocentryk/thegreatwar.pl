@@ -15,7 +15,7 @@ draft: false
 
 ## Niemcy pod Paryżem
 
-Na przełomie sierpnia i września wojna zbliżyła się do stolicy. Armie francuskie i Brytyjski Korpus Ekspedycyjny cofały się po przegranej bitwie granicznej, a prawe skrzydło niemieckie, 1 Armia generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck), znajdowało się już kilkadziesiąt kilometrów od Paryża. Od [30 sierpnia](/pierwszy-niemiecki-nalot-na-paryz) nad miastem pojawiały się niemieckie samoloty i zrzucały małe bomby. Naczelny wódz Joseph Joffre nalegał, by rząd wyjechał, zanim stolica stanie się polem bitwy, i by zachował swobodę działania bez względu na los miasta.
+Na przełomie sierpnia i września wojna zbliżyła się do stolicy. Armie francuskie i Brytyjski Korpus Ekspedycyjny cofały się po przegranej [bitwie granicznej](/bitwy/bitwa-graniczna), a prawe skrzydło niemieckie, 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck), znajdowało się już kilkadziesiąt kilometrów od Paryża. Od [30 sierpnia](/pierwszy-niemiecki-nalot-na-paryz) nad miastem pojawiały się niemieckie samoloty i zrzucały małe bomby. Naczelny wódz Joseph Joffre nalegał, by rząd wyjechał, zanim stolica stanie się polem bitwy, i by zachował swobodę działania bez względu na los miasta.
 
 Poincaré długo się wahał. Obawiał się, że wyjazd władz zostanie odebrany jako ucieczka i wywoła panikę albo wzburzenie paryżan. Ostatecznie przeważyło przekonanie, że rząd nie może dać się odciąć ani uwięzić w oblężonym mieście. W odezwie do narodu władze ogłosiły, że „dla ocalenia narodu” muszą na pewien czas oddalić się od Paryża.
 
@@ -23,7 +23,7 @@ Poincaré długo się wahał. Obawiał się, że wyjazd władz zostanie odebrany
 
 Wyjazd odbył się dyskretnie. Parlamentarzyści wyjechali wcześniej z dworca d'Orsay, a prezydent i ministrowie ruszyli tuż przed godziną 23 z mało uczęszczanego dworca Auteuil. 3 września przed południem pociąg wjechał na dworzec Saint-Jean w Bordeaux. Za rządem ruszyły urzędy, korpus dyplomatyczny i część instytucji państwowych. Do wyjazdu lub ewakuacji zbiorów szykowały się też między innymi [Bank Francji](https://pl.wikipedia.org/wiki/Bank_Francji) i [Luwr](https://pl.wikipedia.org/wiki/Luwr).
 
-Obronę i administrację stolicy powierzono generałowi [Josephowi Gallieniemu](https://pl.wikipedia.org/wiki/Joseph_Gallieni), który od [26 sierpnia](/gallieni-gubernatorem-paryza) był gubernatorem wojskowym Paryża. 3 września ogłosił w odezwie do mieszkańców, że otrzymał rozkaz obrony miasta przed najeźdźcą i wypełni go do końca.
+Obronę i administrację stolicy powierzono generałowi [Josephowi Gallieniemu](/postacie/joseph-gallieni), który od [26 sierpnia](/gallieni-gubernatorem-paryza) był gubernatorem wojskowym Paryża. 3 września ogłosił w odezwie do mieszkańców, że otrzymał rozkaz obrony miasta przed najeźdźcą i wypełni go do końca.
 
 ## Powrót
 

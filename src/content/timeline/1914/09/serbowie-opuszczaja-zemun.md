@@ -15,7 +15,7 @@ Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku, że wojska 
 
 ## Tydzień wolności
 
-Serbowie [zajęli Zemun](/serbowie-zajmuja-zemun) 10 września, po tym jak austro-węgierska załoga opuściła go poprzedniego wieczoru. Miejscowa serbska ludność witała żołnierzy kwiatami, a po sześciu tygodniach milczenia znów zabiły dzwony cerkwi. Radość trwała krótko. Po austro-węgierskim uderzeniu przez Drinę wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik) nakazał 11 września przerwać ofensywę w Sremie. Według serbskich relacji mieszkańcy Zemunu usłyszeli o odwrocie w niedzielę 13 września, a ostatnie serbskie oddziały przeszły przez Sawę z powrotem do [Belgradu](https://pl.wikipedia.org/wiki/Belgrad) 13 lub 14 września.
+Serbowie [zajęli Zemun](/serbowie-zajmuja-zemun) 10 września, po tym jak austro-węgierska załoga opuściła go poprzedniego wieczoru. Miejscowa serbska ludność witała żołnierzy kwiatami, a po sześciu tygodniach milczenia znów zabiły dzwony cerkwi. Radość trwała krótko. Po austro-węgierskim uderzeniu przez Drinę wojewoda [Radomir Putnik](/postacie/radomir-putnik) nakazał 11 września przerwać ofensywę w Sremie. Według serbskich relacji mieszkańcy Zemunu usłyszeli o odwrocie w niedzielę 13 września, a ostatnie serbskie oddziały przeszły przez Sawę z powrotem do [Belgradu](https://pl.wikipedia.org/wiki/Belgrad) 13 lub 14 września.
 
 ## Powrót Austro-Węgrów
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wczesnym rankiem 25 listopada 1917 roku przednia straż [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) weszła do wody i w bród przeszła [Rovumę](https://pl.wikipedia.org/wiki/Rovuma), rzekę graniczną między [Niemiecką Afryką Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) a [Portugalską Afryką Wschodnią](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), czyli Mozambikiem. Przeprawa odbyła się nieco powyżej ujścia [Lugendy](https://pl.wikipedia.org/wiki/Lugenda), w miejscu, gdzie na południowym brzegu stał portugalski posterunek Ngomano. Po trzech latach walk Schutztruppe opuściła kolonię, której miała bronić. Jeszcze tego samego dnia rozbiła portugalski garnizon i zdobyła zapasy, bez których nie mogłaby walczyć dalej.
+Wczesnym rankiem 25 listopada 1917 roku przednia straż [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) weszła do wody i w bród przeszła [Rovumę](https://pl.wikipedia.org/wiki/Rovuma), rzekę graniczną między [Niemiecką Afryką Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) a [Portugalską Afryką Wschodnią](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), czyli Mozambikiem. Przeprawa odbyła się nieco powyżej ujścia [Lugendy](https://pl.wikipedia.org/wiki/Lugenda), w miejscu, gdzie na południowym brzegu stał portugalski posterunek Ngomano. Po trzech latach walk Schutztruppe opuściła kolonię, której miała bronić. Jeszcze tego samego dnia rozbiła portugalski garnizon i zdobyła zapasy, bez których nie mogłaby walczyć dalej.
 
 ## Armia bez amunicji
 

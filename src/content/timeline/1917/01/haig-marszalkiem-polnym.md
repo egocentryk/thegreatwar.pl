@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 stycznia 1917 roku generał [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig), od ponad roku [dowódca wojsk brytyjskich we Francji](/haig-dowodca-wojsk-brytyjskich-we-francji), otrzymał najwyższy stopień w armii brytyjskiej: został [marszałkiem polnym](https://pl.wikipedia.org/wiki/Marszałek_polny) (Field Marshal). Nominację ogłosił dodatek do urzędowego dziennika [„The London Gazette”](https://pl.wikipedia.org/wiki/The_London_Gazette) z noworoczną listą wyróżnień „za wybitną służbę w polu”, wydany przez War Office z datą 1 stycznia 1917 roku. Nazwisko Haiga stało na jej czele. Brytyjska chronologia wojny notuje awans dopiero pod 3 stycznia.
+1 stycznia 1917 roku generał [Douglas Haig](/postacie/douglas-haig), od ponad roku [dowódca wojsk brytyjskich we Francji](/haig-dowodca-wojsk-brytyjskich-we-francji), otrzymał najwyższy stopień w armii brytyjskiej: został [marszałkiem polnym](https://pl.wikipedia.org/wiki/Marszałek_polny) (Field Marshal). Nominację ogłosił dodatek do urzędowego dziennika [„The London Gazette”](https://pl.wikipedia.org/wiki/The_London_Gazette) z noworoczną listą wyróżnień „za wybitną służbę w polu”, wydany przez War Office z datą 1 stycznia 1917 roku. Nazwisko Haiga stało na jej czele. Brytyjska chronologia wojny notuje awans dopiero pod 3 stycznia.
 
 ## Noworoczny dar
 

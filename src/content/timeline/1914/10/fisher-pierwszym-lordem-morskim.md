@@ -18,7 +18,7 @@ Fisher urodził się w 1841 roku na Cejlonie i wstąpił do marynarki jako trzyn
 
 ## Churchill i Fisher
 
-Po przejściu na emeryturę w 1910 roku Fisher nie przestał wpływać na sprawy floty. Gdy w 1911 roku Pierwszym Lordem Admiralicji został [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill), obaj pozostawali w stałym kontakcie, a Fisher był jego nieformalnym doradcą i przewodniczył komisji królewskiej w sprawie opalania okrętów ropą. Po odejściu Battenberga Churchill chciał mieć u boku silnego i doświadczonego fachowca. Postawił na Fishera, choć król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V) otwarcie wyrażał wobec tej nominacji zastrzeżenia. Fisher przyjął propozycję z entuzjazmem.
+Po przejściu na emeryturę w 1910 roku Fisher nie przestał wpływać na sprawy floty. Gdy w 1911 roku Pierwszym Lordem Admiralicji został [Winston Churchill](/postacie/winston-churchill), obaj pozostawali w stałym kontakcie, a Fisher był jego nieformalnym doradcą i przewodniczył komisji królewskiej w sprawie opalania okrętów ropą. Po odejściu Battenberga Churchill chciał mieć u boku silnego i doświadczonego fachowca. Postawił na Fishera, choć król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V) otwarcie wyrażał wobec tej nominacji zastrzeżenia. Fisher przyjął propozycję z entuzjazmem.
 
 ## Pierwsze decyzje
 

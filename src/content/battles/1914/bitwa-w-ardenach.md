@@ -16,13 +16,13 @@ authors: [Łukasz Skowroń]
 tags: [Ardeny, Francja, Niemcy]
 ---
 
-Bitwa w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny), stoczona w dniach 21–24 sierpnia 1914 roku, była jednym z najkrwawszych epizodów [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)). W jej trakcie przypadł 22 sierpnia, dzień, w którym armia francuska poniosła największe straty w całej swojej historii.
+Bitwa w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny), stoczona w dniach 21–24 sierpnia 1914 roku, była jednym z najkrwawszych epizodów [bitew granicznych](/bitwy/bitwa-graniczna). W jej trakcie przypadł 22 sierpnia, dzień, w którym armia francuska poniosła największe straty w całej swojej historii.
 
 ## Uderzenie w ciemno
 
-Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) sądził, że Niemcy skierowali główne siły przez północną Belgię i że ich centrum w Ardenach jest słabe. Postanowił uderzyć właśnie tam, przez zalesione, pagórkowate tereny belgijskiej prowincji Luksemburg, by rozciąć niemiecki front. Do natarcia ruszyły 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary).
+Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) sądził, że Niemcy skierowali główne siły przez północną Belgię i że ich centrum w Ardenach jest słabe. Postanowił uderzyć właśnie tam, przez zalesione, pagórkowate tereny belgijskiej prowincji Luksemburg, by rozciąć niemiecki front. Do natarcia ruszyły 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary).
 
-Założenie było błędne. W Ardenach znajdowały się dwie silne armie niemieckie: 4 Armia księcia [Albrechta Wirtemberskiego](https://pl.wikipedia.org/wiki/Albrecht_Wirtemberski) i 5 Armia następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)). Francuzi mieli słabe rozpoznanie, brakowało im dokładnych map, a gęste lasy i poranne mgły ograniczały widoczność.
+Założenie było błędne. W Ardenach znajdowały się dwie silne armie niemieckie: 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armia następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)). Francuzi mieli słabe rozpoznanie, brakowało im dokładnych map, a gęste lasy i poranne mgły ograniczały widoczność.
 
 ## Czarny dzień 22 sierpnia
 

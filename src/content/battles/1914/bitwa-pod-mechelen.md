@@ -20,9 +20,9 @@ Bitwa pod [Mechelen](https://pl.wikipedia.org/wiki/Mechelen), po francusku Malin
 
 ## Armia w redukcie narodowej
 
-Po upadku Liège i [odwrocie znad Gete](/armia-belgijska-wycofuje-sie-do-antwerpii) armia belgijska schroniła się w Antwerpii, otoczonej pierścieniem fortów. Król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg), który osobiście dowodził armią, nie zamierzał jednak biernie czekać na oblężenie. Twierdza leżała na skrzydle i tyłach niemieckich armii maszerujących przez Belgię na Francję, co dawało Belgom możliwość zagrażania ich komunikacji.
+Po upadku Liège i [odwrocie znad Gete](/armia-belgijska-wycofuje-sie-do-antwerpii) armia belgijska schroniła się w Antwerpii, otoczonej pierścieniem fortów. Król [Albert I](/postacie/albert-i), który osobiście dowodził armią, nie zamierzał jednak biernie czekać na oblężenie. Twierdza leżała na skrzydle i tyłach niemieckich armii maszerujących przez Belgię na Francję, co dawało Belgom możliwość zagrażania ich komunikacji.
 
-Od 21 sierpnia główne siły niemieckie zniknęły sprzed frontu belgijskiego i skierowały się nad Sambrę i do Hainaut. Do obserwacji Antwerpii pozostawiono III Korpus Rezerwowy generała [Hansa von Beselera](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) i IX Korpus Rezerwowy. Ich pozycje rozciągały się na bardzo szerokim froncie, od Wolvertem przez Elewijt po Aarschot i Diest. 24 sierpnia belgijskie dowództwo dowiedziało się o ciężkich walkach nad Sambrą i pod Mons. Uznano, że to dobry moment na wypad, zanim Niemcy zdążą umocnić swoje pozycje.
+Od 21 sierpnia główne siły niemieckie zniknęły sprzed frontu belgijskiego i skierowały się nad Sambrę i do Hainaut. Do obserwacji Antwerpii pozostawiono III Korpus Rezerwowy generała [Hansa von Beselera](/postacie/hans-von-beseler) i IX Korpus Rezerwowy. Ich pozycje rozciągały się na bardzo szerokim froncie, od Wolvertem przez Elewijt po Aarschot i Diest. 24 sierpnia belgijskie dowództwo dowiedziało się o ciężkich walkach nad Sambrą i pod Mons. Uznano, że to dobry moment na wypad, zanim Niemcy zdążą umocnić swoje pozycje.
 
 ## Plan
 

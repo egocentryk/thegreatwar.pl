@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-22 września 1914 roku, według brytyjskiej chronologii wojny, rozpoczęła się pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)), małym miastem w departamencie Somma. Francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) i niemiecka 6 Armia księcia [Ruprechta Bawarskiego](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Walki zakończyły się 29 września bez rozstrzygnięcia, a front, który wtedy powstał między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), przetrwał niemal bez zmian do lata 1916 roku.
+22 września 1914 roku, według brytyjskiej chronologii wojny, rozpoczęła się pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)), małym miastem w departamencie Somma. Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Ruprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Walki zakończyły się 29 września bez rozstrzygnięcia, a front, który wtedy powstał między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), przetrwał niemal bez zmian do lata 1916 roku.
 
 ## Kiedy zaczęła się bitwa?
 
@@ -20,9 +20,9 @@ Stara brytyjska chronologia wojny otwiera bitwę pod Albert 22 września, tego s
 
 ## Wyścig na północ
 
-W drugiej połowie września 1914 roku, po nierozstrzygniętej bitwie nad Aisne, obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Naczelny wódz armii francuskiej, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), kierował kolejne korpusy do nowej 2 Armii Castelnau, zbierającej się w okolicach [Amiens](https://pl.wikipedia.org/wiki/Amiens). Gdy jej natarcie na południe od Sommy utknęło, Castelnau przedłużył linię na północ od rzeki i postanowił uderzyć z okolic Albert na wschód.
+W drugiej połowie września 1914 roku, po nierozstrzygniętej bitwie nad Aisne, obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), kierował kolejne korpusy do nowej 2 Armii Castelnau, zbierającej się w okolicach [Amiens](https://pl.wikipedia.org/wiki/Amiens). Gdy jej natarcie na południe od Sommy utknęło, Castelnau przedłużył linię na północ od rzeki i postanowił uderzyć z okolic Albert na wschód.
 
-Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), miał ten sam zamiar, tylko w przeciwnym kierunku. 6 Armia, przewożona z Lotaryngii, miała uderzyć na zachód, w stronę Amiens i wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił na południe od Sommy. Na północ od rzeki nacierały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
+Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), miał ten sam zamiar, tylko w przeciwnym kierunku. 6 Armia, przewożona z Lotaryngii, miała uderzyć na zachód, w stronę Amiens i wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił na południe od Sommy. Na północ od rzeki nacierały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
 
 ## Walki pod Albert
 

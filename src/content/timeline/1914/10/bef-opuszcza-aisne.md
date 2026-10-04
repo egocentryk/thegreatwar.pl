@@ -11,11 +11,11 @@ milestone: false
 draft: false
 ---
 
-3 października 1914 roku, według brytyjskiej kroniki wojny, [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) zaczął opuszczać swoje pozycje nad [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) i przechodzić na północ. Tę datę jako początek operacji podał w swoim raporcie dowódca korpusu, marszałek [John French](https://pl.wikipedia.org/wiki/John_French). Brytyjska historia oficjalna przesuwa ją nieco wcześniej: pierwsze oddziały wycofały się z linii frontu już w nocy z 1 na 2 października.
+3 października 1914 roku, według brytyjskiej kroniki wojny, [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) zaczął opuszczać swoje pozycje nad [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) i przechodzić na północ. Tę datę jako początek operacji podał w swoim raporcie dowódca korpusu, marszałek [John French](/postacie/john-french). Brytyjska historia oficjalna przesuwa ją nieco wcześniej: pierwsze oddziały wycofały się z linii frontu już w nocy z 1 na 2 października.
 
 ## Powrót na lewe skrzydło
 
-Od połowy września Brytyjczycy tkwili w okopach nad Aisne, gdzie [bitwa zakończyła się bez rozstrzygnięcia](/koniec-bitwy-nad-aisne). Tymczasem front przesuwał się coraz dalej na północ, a obie strony próbowały obejść się nawzajem w wyścigu do morza. Pod koniec września French zaproponował naczelnemu wodzowi armii francuskiej, generałowi [Josephowi Joffre'owi](https://pl.wikipedia.org/wiki/Joseph_Joffre), by przenieść Brytyjczyków z powrotem na lewe skrzydło frontu, bliżej wybrzeża.
+Od połowy września Brytyjczycy tkwili w okopach nad Aisne, gdzie [bitwa zakończyła się bez rozstrzygnięcia](/koniec-bitwy-nad-aisne). Tymczasem front przesuwał się coraz dalej na północ, a obie strony próbowały obejść się nawzajem w [wyścigu do morza](/bitwy/wyscig-do-morza). Pod koniec września French zaproponował naczelnemu wodzowi armii francuskiej, generałowi [Josephowi Joffre'owi](/postacie/joseph-joffre), by przenieść Brytyjczyków z powrotem na lewe skrzydło frontu, bliżej wybrzeża.
 
 Argumentów było wiele. Linie zaopatrzenia z Wielkiej Brytanii bardzo by się skróciły, a posiłki mogłyby szybko i dyskretnie docierać na front. W północnej Francji i Belgii miały lądować kolejne brytyjskie oddziały, więc dobrze było, by cała armia działała razem. Przede wszystkim jednak Brytyjczykom zależało na obronie Antwerpii i portów nad kanałem La Manche, takich jak [Calais](https://pl.wikipedia.org/wiki/Calais) i [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer). Z nich Niemcy mogliby zagrozić przewozom wojsk przez kanał.
 
@@ -29,6 +29,6 @@ Przemarsz starannie ukrywano. Oddziały maszerowały wyłącznie nocą, a w dzie
 
 ## Kolejne korpusy
 
-W nocy z 6 na 7 października III Korpus przekazał okopy Francuzom i dobę później również ruszył do Compiègne. Najdłużej nad Aisne pozostał I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig), który zszedł z linii frontu dopiero w nocy z 12 na 13 października.
+W nocy z 6 na 7 października III Korpus przekazał okopy Francuzom i dobę później również ruszył do Compiègne. Najdłużej nad Aisne pozostał I Korpus generała [Douglasa Haiga](/postacie/douglas-haig), który zszedł z linii frontu dopiero w nocy z 12 na 13 października.
 
 II Korpus wyładował się z pociągów w rejonie [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) 8 i 9 października. 8 października kwatera główna Frencha przeniosła się z Fère-en-Tardenois do Abbeville, a kilka dni później do [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)). III Korpus przybył w rejon Saint-Omer i Hazebrouck od 10–11 października, a I Korpus zakończył wyładunek dopiero 19 października. Brytyjczycy mieli wejść do walki na lewo od francuskiej 10 Armii, między La Bassée a Flandrią, gdzie wyścig do morza zbliżał się do swojego ostatniego etapu.

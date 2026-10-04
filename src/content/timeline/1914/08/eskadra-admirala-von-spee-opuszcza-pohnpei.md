@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-6 sierpnia 1914 roku z wyspy [Pohnpei](https://pl.wikipedia.org/wiki/Pohnpei), nazywanej wówczas Ponape, w archipelagu [Karolinów](https://pl.wikipedia.org/wiki/Karoliny) wypłynęła niemiecka [Eskadra Wschodnioazjatycka](https://pl.wikipedia.org/wiki/Niemiecka_Eskadra_Wschodnioazjatycka). Dowodził nią wiceadmirał [Maximilian von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee). Rozpoczynała się jedna z najbardziej niezwykłych kampanii morskich I wojny światowej.
+6 sierpnia 1914 roku z wyspy [Pohnpei](https://pl.wikipedia.org/wiki/Pohnpei), nazywanej wówczas Ponape, w archipelagu [Karolinów](https://pl.wikipedia.org/wiki/Karoliny) wypłynęła niemiecka [Eskadra Wschodnioazjatycka](https://pl.wikipedia.org/wiki/Niemiecka_Eskadra_Wschodnioazjatycka). Dowodził nią wiceadmirał [Maximilian von Spee](/postacie/maximilian-von-spee). Rozpoczynała się jedna z najbardziej niezwykłych kampanii morskich I wojny światowej.
 
 ## Eskadra na końcu świata
 

@@ -17,7 +17,7 @@ tags: [Royal Navy, Kaiserliche Marine, Maximilian von Spee, Doveton Sturdee]
 milestone: true
 ---
 
-[Bitwa koło Falklandów](https://pl.wikipedia.org/wiki/Bitwa_koło_Falklandów) rozegrała się 8 grudnia 1914 roku na południowym Atlantyku. Brytyjski zespół wiceadmirała [Dovetona Sturdeego](https://pl.wikipedia.org/wiki/Doveton_Sturdee), z dwoma nowoczesnymi krążownikami liniowymi na czele, dopadł i rozbił niemiecką Eskadrę Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee). Zatonęły cztery z pięciu niemieckich krążowników, zginął sam Spee i około 1900 jego marynarzy. Pięć tygodni po klęsce [pod Coronelem](/bitwy/bitwa-pod-coronelem) [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) wzięła odwet, a Niemcy stracili jedyny zespół okrętów, jaki mieli na oceanach świata.
+[Bitwa koło Falklandów](https://pl.wikipedia.org/wiki/Bitwa_koło_Falklandów) rozegrała się 8 grudnia 1914 roku na południowym Atlantyku. Brytyjski zespół wiceadmirała [Dovetona Sturdeego](https://pl.wikipedia.org/wiki/Doveton_Sturdee), z dwoma nowoczesnymi krążownikami liniowymi na czele, dopadł i rozbił niemiecką Eskadrę Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee). Zatonęły cztery z pięciu niemieckich krążowników, zginął sam Spee i około 1900 jego marynarzy. Pięć tygodni po klęsce [pod Coronelem](/bitwy/bitwa-pod-coronelem) [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) wzięła odwet, a Niemcy stracili jedyny zespół okrętów, jaki mieli na oceanach świata.
 
 ## Odpowiedź na Coronel
 

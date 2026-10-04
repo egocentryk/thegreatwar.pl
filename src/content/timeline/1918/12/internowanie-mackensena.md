@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 grudnia 1918 roku na budapeszteńskim dworcu Ferencváros zatrzymano specjalny pociąg feldmarszałka [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen), który wracał do Niemiec z okupowanej Rumunii. Zwycięzca spod Gorlic i zdobywca Bukaresztu, do niedawna jeden z najbardziej poważanych dowódców państw centralnych, musiał przyjąć warunki rządu węgierskiego, a ten działał pod naciskiem Francuzów. Według węgierskiej historii wojskowej dwa dni później Mackensen był już internowany w zamku hrabiów Károlyich w [Fót](https://pl.wikipedia.org/wiki/Fót) pod Budapesztem.
+16 grudnia 1918 roku na budapeszteńskim dworcu Ferencváros zatrzymano specjalny pociąg feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen), który wracał do Niemiec z okupowanej Rumunii. Zwycięzca spod Gorlic i zdobywca Bukaresztu, do niedawna jeden z najbardziej poważanych dowódców państw centralnych, musiał przyjąć warunki rządu węgierskiego, a ten działał pod naciskiem Francuzów. Według węgierskiej historii wojskowej dwa dni później Mackensen był już internowany w zamku hrabiów Károlyich w [Fót](https://pl.wikipedia.org/wiki/Fót) pod Budapesztem.
 
 ## Odwrót z Rumunii
 

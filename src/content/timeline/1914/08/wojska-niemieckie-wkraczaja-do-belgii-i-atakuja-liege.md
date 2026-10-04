@@ -22,7 +22,7 @@ Do zdobycia Liège wyznaczono sześć brygad pod dowództwem generała [Otto von
 
 ## Przebieg walk
 
-W nocy z 5 na 6 sierpnia Niemcy zaatakowali między fortami, ponosząc ciężkie straty. Jedna z brygad przedarła się jednak przez linię obrony. Gdy jej dowódca zginął, kierowanie nią przejął oficer sztabowy [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff). 7 sierpnia jego żołnierze wkroczyli do miasta i zajęli cytadelę. Sukces uczynił z Ludendorffa bohatera, a później jednego z najważniejszych dowódców niemieckich.
+W nocy z 5 na 6 sierpnia Niemcy zaatakowali między fortami, ponosząc ciężkie straty. Jedna z brygad przedarła się jednak przez linię obrony. Gdy jej dowódca zginął, kierowanie nią przejął oficer sztabowy [Erich Ludendorff](/postacie/erich-ludendorff). 7 sierpnia jego żołnierze wkroczyli do miasta i zajęli cytadelę. Sukces uczynił z Ludendorffa bohatera, a później jednego z najważniejszych dowódców niemieckich.
 
 Forty broniły się jednak dalej. Niemcy sprowadzili ciężkie moździerze oblężnicze, w tym słynne [„Grube Berty”](https://pl.wikipedia.org/wiki/M-Gerät) produkcji Kruppa i austro-węgierskie moździerze Škody. Od 12 sierpnia ich pociski kruszyły kolejne betonowe fortyfikacje. 15 sierpnia eksplozja w forcie Loncin pogrzebała część załogi, a ciężko kontuzjowany generał Leman dostał się do niewoli. 16 sierpnia padły ostatnie forty.
 

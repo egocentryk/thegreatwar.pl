@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 października 1914 roku Pierwszy Lord Admiralicji [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill) przyjął dymisję Pierwszego Lorda Morskiego, admirała księcia [Ludwika Battenberga](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)). Najwyższy rangą oficer [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) musiał odejść nie z powodu błędów, lecz dlatego, że był niemieckim księciem z urodzenia.
+29 października 1914 roku Pierwszy Lord Admiralicji [Winston Churchill](/postacie/winston-churchill) przyjął dymisję Pierwszego Lorda Morskiego, admirała księcia [Ludwika Battenberga](https://pl.wikipedia.org/wiki/Louis_Mountbatten_(markiz_Milford_Haven)). Najwyższy rangą oficer [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) musiał odejść nie z powodu błędów, lecz dlatego, że był niemieckim księciem z urodzenia.
 
 ## Niemiecki książę w brytyjskiej flocie
 

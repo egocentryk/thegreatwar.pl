@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 września 1914 roku wojska niemieckie zajęły [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), niewielkie miasto w północnej Francji, leżące przy drodze z Albert do Cambrai i w połowie drogi między Albert a [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Działo się to w czasie tak zwanego wyścigu do morza, gdy obie strony przerzucały wojska coraz dalej na północ, próbując obejść skrzydło przeciwnika. Na południe od miasta trwały wtedy walki [pod Albert](/poczatek-pierwszej-bitwy-pod-albert), a Niemcy nadciągali od wschodu, od strony Cambrai.
+26 września 1914 roku wojska niemieckie zajęły [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), niewielkie miasto w północnej Francji, leżące przy drodze z Albert do Cambrai i w połowie drogi między Albert a [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Działo się to w czasie tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), gdy obie strony przerzucały wojska coraz dalej na północ, próbując obejść skrzydło przeciwnika. Na południe od miasta trwały wtedy walki [pod Albert](/poczatek-pierwszej-bitwy-pod-albert), a Niemcy nadciągali od wschodu, od strony Cambrai.
 
 Francuzi nie zdołali odzyskać Bapaume. Front zatrzymał się kilkanaście kilometrów na zachód i południowy zachód od miasta, a Bapaume znalazło się na zapleczu niemieckich linii i stało się ważnym ośrodkiem niemieckiego zaplecza, z kwaterami sztabów i magazynami.
 

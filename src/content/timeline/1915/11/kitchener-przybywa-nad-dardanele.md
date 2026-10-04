@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na pokładzie krążownika Dartmouth brytyjski minister wojny lord [Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) przypłynął z Marsylii do portu [Mudros](https://pl.wikipedia.org/wiki/Mudros) na wyspie [Limnos](https://pl.wikipedia.org/wiki/Limnos), głównej bazy sprzymierzonych pod Dardanelami. Źródła różnią się co do dnia o jeden dzień. Brytyjska historia oficjalna kampanii gallipolijskiej pisze, że przybył późnym wieczorem 9 listopada, a australijska historia oficjalna Charlesa Beana podaje 10 listopada. 10 listopada Kitchener wysłał w każdym razie do premiera [Herberta Henry’ego Asquitha](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith) pierwszy meldunek. Rozpoczęło się prawie dwa tygodnie narad, od których zależał los wojsk na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)).
+Na pokładzie krążownika Dartmouth brytyjski minister wojny lord [Herbert Kitchener](/postacie/horatio-kitchener) przypłynął z Marsylii do portu [Mudros](https://pl.wikipedia.org/wiki/Mudros) na wyspie [Limnos](https://pl.wikipedia.org/wiki/Limnos), głównej bazy sprzymierzonych pod Dardanelami. Źródła różnią się co do dnia o jeden dzień. Brytyjska historia oficjalna kampanii gallipolijskiej pisze, że przybył późnym wieczorem 9 listopada, a australijska historia oficjalna Charlesa Beana podaje 10 listopada. 10 listopada Kitchener wysłał w każdym razie do premiera [Herberta Henry’ego Asquitha](/postacie/herbert-henry-asquith) pierwszy meldunek. Rozpoczęło się prawie dwa tygodnie narad, od których zależał los wojsk na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)).
 
 ## Doradcy
 

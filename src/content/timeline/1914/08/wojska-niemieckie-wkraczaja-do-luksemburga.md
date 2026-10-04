@@ -17,6 +17,6 @@ Luksemburg był państwem neutralnym. Jego neutralność zagwarantowały mocarst
 
 Wielka księżna [Maria Adelajda](https://pl.wikipedia.org/wiki/Maria_Adelajda) i premier [Paul Eyschen](https://pl.wikipedia.org/wiki/Paul_Eyschen) zaprotestowali przeciw naruszeniu neutralności kraju i wysłali do Berlina telegramy protestacyjne. Po południu spotkali się z dowódcą niemieckich oddziałów na moście Adolfa w stolicy. Wobec przewagi wojsk niemieckich nie mieli jednak żadnych możliwości oporu i musieli uznać okupację za fakt dokonany.
 
-Kanclerz [Theobald von Bethmann Hollweg](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg) uzasadniał zajęcie Luksemburga koniecznością wojskową, twierdząc, że Francja przygotowywała się do wkroczenia do księstwa. Niemcy zapewniały też, że wynagrodzą wszystkie szkody. Luksemburg pozostał pod niemiecką okupacją do końca wojny w 1918 roku, zachowując jednak formalnie własny rząd i administrację.
+Kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) uzasadniał zajęcie Luksemburga koniecznością wojskową, twierdząc, że Francja przygotowywała się do wkroczenia do księstwa. Niemcy zapewniały też, że wynagrodzą wszystkie szkody. Luksemburg pozostał pod niemiecką okupacją do końca wojny w 1918 roku, zachowując jednak formalnie własny rząd i administrację.
 
 Zajęcie Luksemburga było pierwszym naruszeniem neutralności małego państwa w tej wojnie. Tego samego wieczoru Niemcy postawiły ultimatum Belgii, a dwa dni później ich wojska wkroczyły na jej terytorium.

@@ -16,7 +16,7 @@ draft: false
 
 Messimy był z wykształcenia oficerem. Ukończył Saint-Cyr i służył w strzelcach alpejskich, ale w 1899 roku odszedł z armii, wstrząśnięty sprawą Dreyfusa. Jako radykalny deputowany zajmował się sprawami wojska i kolonii. Już w latach 1911–1912 był ministrem wojny i to on powołał Josepha Joffre'a na szefa sztabu generalnego. Bezskutecznie próbował też zastąpić tradycyjne czerwone spodnie francuskiej piechoty mniej widocznym mundurem.
 
-W sierpniu 1914 roku kierował mobilizacją i przestawieniem kraju na tory wojenne. Klęski bitwy granicznej, wiadomości o których naczelne dowództwo przekazywało rządowi niechętnie i z opóźnieniem, podkopały jego pozycję. Ostatnią ważną decyzją Messimy'ego było mianowanie [generała Gallieniego gubernatorem Paryża](/gallieni-gubernatorem-paryza).
+W sierpniu 1914 roku kierował mobilizacją i przestawieniem kraju na tory wojenne. Klęski [bitwy granicznej](/bitwy/bitwa-graniczna), wiadomości o których naczelne dowództwo przekazywało rządowi niechętnie i z opóźnieniem, podkopały jego pozycję. Ostatnią ważną decyzją Messimy'ego było mianowanie [generała Gallieniego gubernatorem Paryża](/gallieni-gubernatorem-paryza).
 
 ## Rząd jedności narodowej
 

@@ -15,9 +15,9 @@ draft: false
 
 ## Nocna decyzja
 
-Wieczorem 23 sierpnia marszałek [John French](https://pl.wikipedia.org/wiki/John_French) dowiedział się, że francuska 5 Armia generała Lanrezaca, pobita nad Sambrą, wycofuje się na południe. Jednocześnie napływały meldunki o silnych kolumnach niemieckich obchodzących brytyjskie lewe skrzydło od zachodu. Korpusowi groziło okrążenie przez znacznie liczniejszą 1 Armię generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck).
+Wieczorem 23 sierpnia marszałek [John French](/postacie/john-french) dowiedział się, że francuska 5 Armia generała Lanrezaca, pobita nad Sambrą, wycofuje się na południe. Jednocześnie napływały meldunki o silnych kolumnach niemieckich obchodzących brytyjskie lewe skrzydło od zachodu. Korpusowi groziło okrążenie przez znacznie liczniejszą 1 Armię generała [Alexandra von Klucka](/postacie/alexander-von-kluck).
 
-Około pierwszej w nocy 24 sierpnia sztab Frencha wydał rozkaz odwrotu na linię w pobliżu [Bavay](https://pl.wikipedia.org/wiki/Bavay), kilkanaście kilometrów na południe od kanału Mons–Condé. I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig), mniej zaangażowany w walkę poprzedniego dnia, oderwał się od nieprzyjaciela stosunkowo łatwo. Znacznie trudniejsze zadanie miał II Korpus generała Horace'a Smith-Dorriena, który wciąż był w bezpośredniej styczności z Niemcami.
+Około pierwszej w nocy 24 sierpnia sztab Frencha wydał rozkaz odwrotu na linię w pobliżu [Bavay](https://pl.wikipedia.org/wiki/Bavay), kilkanaście kilometrów na południe od kanału Mons–Condé. I Korpus generała [Douglasa Haiga](/postacie/douglas-haig), mniej zaangażowany w walkę poprzedniego dnia, oderwał się od nieprzyjaciela stosunkowo łatwo. Znacznie trudniejsze zadanie miał II Korpus generała Horace'a Smith-Dorriena, który wciąż był w bezpośredniej styczności z Niemcami.
 
 ## Walki tylnych straży
 

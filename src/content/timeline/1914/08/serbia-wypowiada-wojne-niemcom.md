@@ -25,4 +25,4 @@ W sierpniu 1914 roku Serbii zagrażała wyłącznie armia austro-węgierska. 12 
 
 ## Konsekwencje
 
-Niemcy zajęły się Serbią dopiero w 1915 roku. Jesienią tego roku połączone siły niemieckie, austro-węgierskie i bułgarskie pod dowództwem feldmarszałka [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen) uderzyły na Serbię z kilku stron. Kraj został zajęty, a resztki armii serbskiej wraz z rządem i królem wycofały się przez góry Albanii nad Adriatyk. Deklaracja z 6 sierpnia 1914 roku zapowiadała więc starcie, które przyszło z opóźnieniem, ale przyniosło Serbii tragiczne skutki.
+Niemcy zajęły się Serbią dopiero w 1915 roku. Jesienią tego roku połączone siły niemieckie, austro-węgierskie i bułgarskie pod dowództwem feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) uderzyły na Serbię z kilku stron. Kraj został zajęty, a resztki armii serbskiej wraz z rządem i królem wycofały się przez góry Albanii nad Adriatyk. Deklaracja z 6 sierpnia 1914 roku zapowiadała więc starcie, które przyszło z opóźnieniem, ale przyniosło Serbii tragiczne skutki.

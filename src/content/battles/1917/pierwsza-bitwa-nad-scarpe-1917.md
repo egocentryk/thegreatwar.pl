@@ -29,7 +29,7 @@ Natarcie pod Arras miało ściągnąć niemieckie odwody przed wielką ofensywą
 
 Nad całą okolicą górowało wzgórze z wsią Monchy-le-Preux między dolinami Scarpe i Cojeul. Z przedmieść Arras zasłaniało ono cały wschodni horyzont, a z niego samego, jak pisze historia oficjalna, widok na równinę [Douai](https://pl.wikipedia.org/wiki/Douai) nie miał końca.
 
-Front od Lens po Quéant trzymała niemiecka 6 Armia generała pułkownika [Ludwiga von Falkenhausena](https://pl.wikipedia.org/wiki/Ludwig_von_Falkenhausen), z grupy armii następcy tronu Bawarii [Rupprechta](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach). Pod Arras broniły się dywizje grupy „Arras”. Falkenhausen spodziewał się ataku dopiero w połowie kwietnia. Pięć dywizji odwodu, przeznaczonych do kontrataku, trzymał 15–20 mil (około 25–30 km) za frontem, by nie narażać ich na ostrzał, i przewidywał, że zluzują one dywizje frontowe dopiero w toku długiej bitwy obronnej, jak nad Sommą. Rupprecht zanotował później w dzienniku, że 6 Armia, wbrew jego wyraźnemu życzeniu, nie przysunęła odwodów bliżej.
+Front od Lens po Quéant trzymała niemiecka 6 Armia generała pułkownika [Ludwiga von Falkenhausena](https://pl.wikipedia.org/wiki/Ludwig_von_Falkenhausen), z grupy armii następcy tronu Bawarii [Rupprechta](/postacie/rupprecht-bawarski). Pod Arras broniły się dywizje grupy „Arras”. Falkenhausen spodziewał się ataku dopiero w połowie kwietnia. Pięć dywizji odwodu, przeznaczonych do kontrataku, trzymał 15–20 mil (około 25–30 km) za frontem, by nie narażać ich na ostrzał, i przewidywał, że zluzują one dywizje frontowe dopiero w toku długiej bitwy obronnej, jak nad Sommą. Rupprecht zanotował później w dzienniku, że 6 Armia, wbrew jego wyraźnemu życzeniu, nie przysunęła odwodów bliżej.
 
 ## Plan
 

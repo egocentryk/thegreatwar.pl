@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 11 września 1914 roku szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](https://pl.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf) wydał czterem armiom walczącym w Galicji rozkaz ogólnego odwrotu za rzekę [San](https://pl.wikipedia.org/wiki/San). Był to koniec [bitwy galicyjskiej](https://pl.wikipedia.org/wiki/Bitwa_galicyjska), pierwszej wielkiej kampanii monarchii habsburskiej przeciw Rosji. W ciągu kolejnych tygodni wojska austro-węgierskie cofnęły się o ponad 150 kilometrów, aż za Dunajec i w Karpaty, a rosyjskie armie zajęły większą część Galicji. Dla mieszkających tu Polaków, Ukraińców i Żydów wojna po raz pierwszy przetoczyła się przez ich domy z całą siłą.
+Wieczorem 11 września 1914 roku szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) wydał czterem armiom walczącym w Galicji rozkaz ogólnego odwrotu za rzekę [San](https://pl.wikipedia.org/wiki/San). Był to koniec [bitwy galicyjskiej](/bitwy/bitwa-galicyjska), pierwszej wielkiej kampanii monarchii habsburskiej przeciw Rosji. W ciągu kolejnych tygodni wojska austro-węgierskie cofnęły się o ponad 150 kilometrów, aż za Dunajec i w Karpaty, a rosyjskie armie zajęły większą część Galicji. Dla mieszkających tu Polaków, Ukraińców i Żydów wojna po raz pierwszy przetoczyła się przez ich domy z całą siłą.
 
 ## Od zwycięstw do klęski
 
@@ -45,7 +45,7 @@ Odwrót przyniósł cierpienia także tym, którzy zostali. Wycofujące się woj
 
 W odwrocie brały udział polskie formacje ochotnicze. Legion Wschodni, formowany we Lwowie, ewakuowano na zachód jeszcze przed zajęciem miasta. Pod wpływem agitacji przeciwników współpracy z Austrią większość ochotników rozeszła się do domów, a 21 września w Mszanie Dolnej podjęto decyzję o rozwiązaniu [Legionu Wschodniego](https://pl.wikipedia.org/wiki/Legion_Wschodni). Tylko część żołnierzy, między innymi wokół kapitana Józefa Hallera, złożyła przysięgę i weszła do nowo tworzonego 3 Pułku [Legionów Polskich](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)).
 
-1 Pułk Legionów pod dowództwem [Józefa Piłsudskiego](https://pl.wikipedia.org/wiki/Józef_Piłsudski), działający od sierpnia na Kielecczyźnie, osłaniał w drugiej połowie września nad Wisłą, w okolicach [Nowego Korczyna](https://pl.wikipedia.org/wiki/Nowy_Korczyn), północne skrzydło cofających się armii austro-węgierskich przed rosyjską kawalerią. W październiku legioniści wzięli udział w kontrofensywie państw centralnych nad Wisłą.
+1 Pułk Legionów pod dowództwem [Józefa Piłsudskiego](/postacie/jozef-pilsudski), działający od sierpnia na Kielecczyźnie, osłaniał w drugiej połowie września nad Wisłą, w okolicach [Nowego Korczyna](https://pl.wikipedia.org/wiki/Nowy_Korczyn), północne skrzydło cofających się armii austro-węgierskich przed rosyjską kawalerią. W październiku legioniści wzięli udział w kontrofensywie państw centralnych nad Wisłą.
 
 ## Rosjanie pod Krakowem
 

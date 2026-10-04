@@ -19,7 +19,7 @@ Przerzut armii przez kanał La Manche był jedną z największych operacji trans
 
 ## Na lewym skrzydle Francuzów
 
-Z portów żołnierzy przewożono koleją w rejon [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej. Tam korpus miał zająć pozycje na lewym skrzydle armii francuskiej, obok 5 Armii generała Lanrezaca. Dowództwo objął marszałek [John French](https://pl.wikipedia.org/wiki/John_French), który przybył do Francji 14 sierpnia. Korpus dzielił się na dwa korpusy armijne: I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) i II Korpus, którego dowódca, generał James Grierson, zmarł nagle 17 sierpnia w pociągu. Zastąpił go generał Horace Smith-Dorrien.
+Z portów żołnierzy przewożono koleją w rejon [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) przy granicy belgijskiej. Tam korpus miał zająć pozycje na lewym skrzydle armii francuskiej, obok 5 Armii generała Lanrezaca. Dowództwo objął marszałek [John French](/postacie/john-french), który przybył do Francji 14 sierpnia. Korpus dzielił się na dwa korpusy armijne: I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) i II Korpus, którego dowódca, generał James Grierson, zmarł nagle 17 sierpnia w pociągu. Zastąpił go generał Horace Smith-Dorrien.
 
 ## Pierwsze starcie
 

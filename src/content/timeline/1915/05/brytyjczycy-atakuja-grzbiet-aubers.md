@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-9 maja 1915 roku, w słoneczny niedzielny poranek, brytyjska 1 Armia generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) zaatakowała niemieckie pozycje przed grzbietem [Aubers](https://pl.wikipedia.org/wiki/Aubers) we francuskiej Flandrii. Natarcie miało wesprzeć wielką francuską ofensywę, która tego samego dnia ruszyła kilkadziesiąt kilometrów na południe, w [Artois](https://pl.wikipedia.org/wiki/Artois). Brytyjczycy liczyli, że powtórzą sukces pierwszego dnia [bitwy pod Neuve-Chapelle](/bitwy/bitwa-pod-neuve-chapelle) z marca. Skończyło się jedną z najkrwawszych klęsk armii brytyjskiej w 1915 roku: do wieczora 1 Armia straciła ponad 11 tysięcy zabitych, rannych i zaginionych i nie utrzymała ani metra niemieckich okopów.
+9 maja 1915 roku, w słoneczny niedzielny poranek, brytyjska 1 Armia generała [Douglasa Haiga](/postacie/douglas-haig) zaatakowała niemieckie pozycje przed grzbietem [Aubers](https://pl.wikipedia.org/wiki/Aubers) we francuskiej Flandrii. Natarcie miało wesprzeć wielką francuską ofensywę, która tego samego dnia ruszyła kilkadziesiąt kilometrów na południe, w [Artois](https://pl.wikipedia.org/wiki/Artois). Brytyjczycy liczyli, że powtórzą sukces pierwszego dnia [bitwy pod Neuve-Chapelle](/bitwy/bitwa-pod-neuve-chapelle) z marca. Skończyło się jedną z najkrwawszych klęsk armii brytyjskiej w 1915 roku: do wieczora 1 Armia straciła ponad 11 tysięcy zabitych, rannych i zaginionych i nie utrzymała ani metra niemieckich okopów.
 
 ## Czterdzieści minut ostrzału
 

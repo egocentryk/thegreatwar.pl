@@ -90,4 +90,34 @@ const battles = defineCollection({
   }),
 })
 
-export const collections = { timeline, battles }
+// "people" live in src/content/postacie/*.md and are served at /postacie/<id>.
+// Reference pages outside the timeline: any article may link them, and they
+// may link any article or battle.
+const people = defineCollection({
+  loader: glob({
+    base: "./src/content/postacie",
+    pattern: "**/*.md",
+    generateId: idFromFilename,
+  }),
+  schema: z.object({
+    name: z.string(),
+    summary: z.string().max(160),
+    // Role during the war, one line: "Naczelny wódz armii francuskiej (1914–1916)".
+    role: z.string(),
+    country: z.string(),
+    side: z.enum(["Ententa", "Państwa centralne", "Sprawa polska"]),
+    born: z.coerce.date(),
+    died: z.coerce.date(),
+    birthPlace: z.string().optional(),
+    deathPlace: z.string().optional(),
+    // Forms used in battle `commanders` lists, so battles can link here.
+    aliases: z.array(z.string()).default([]),
+    // pl.wikipedia titles (with underscores) whose links this page replaces.
+    wikiTitles: z.array(z.string()).default([]),
+    authors: z.array(z.string()).min(1),
+    tags: z.array(z.string()).default([]),
+    draft: z.boolean().default(false),
+  }),
+})
+
+export const collections = { timeline, battles, people }

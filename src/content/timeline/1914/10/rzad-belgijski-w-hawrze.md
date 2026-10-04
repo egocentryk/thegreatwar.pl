@@ -26,6 +26,6 @@ Francja przyznała budynkom zajmowanym przez belgijskie władze status eksteryto
 
 ## Król zostaje z armią
 
-Do Hawru nie pojechał król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg). Jako naczelny wódz pozostał z armią w ostatnim skrawku wolnej Belgii nad Yser. W czasie walk w drugiej połowie października jego kwatera główna mieściła się w ratuszu w [Veurne](https://pl.wikipedia.org/wiki/Veurne). Razem z królową Elżbietą zamieszkał w nadmorskim [De Panne](https://pl.wikipedia.org/wiki/De_Panne) i przez całą wojnę nie odwiedził Sainte-Adresse.
+Do Hawru nie pojechał król [Albert I](/postacie/albert-i). Jako naczelny wódz pozostał z armią w ostatnim skrawku wolnej Belgii nad Yser. W czasie walk w drugiej połowie października jego kwatera główna mieściła się w ratuszu w [Veurne](https://pl.wikipedia.org/wiki/Veurne). Razem z królową Elżbietą zamieszkał w nadmorskim [De Panne](https://pl.wikipedia.org/wiki/De_Panne) i przez całą wojnę nie odwiedził Sainte-Adresse.
 
 Broqueville, który kierował zarazem ministerstwem wojny, dzielił czas między Normandię a front. Do Sainte-Adresse przyjeżdżał głównie na weekendy. Rząd belgijski pozostał w Sainte-Adresse przez cztery lata i wrócił do kraju dopiero po wyzwoleniu Belgii pod koniec 1918 roku.

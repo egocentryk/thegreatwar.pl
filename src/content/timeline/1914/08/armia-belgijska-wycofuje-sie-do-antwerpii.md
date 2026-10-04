@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-19 sierpnia 1914 roku armia belgijska rozpoczęła odwrót znad rzeki Gete do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Decyzję podjął poprzedniego wieczoru król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg), gdy stało się jasne, że niewielka armia nie utrzyma się w otwartym polu przeciw głównym siłom niemieckim.
+19 sierpnia 1914 roku armia belgijska rozpoczęła odwrót znad rzeki Gete do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Decyzję podjął poprzedniego wieczoru król [Albert I](/postacie/albert-i), gdy stało się jasne, że niewielka armia nie utrzyma się w otwartym polu przeciw głównym siłom niemieckim.
 
 ## Marsz do twierdzy
 

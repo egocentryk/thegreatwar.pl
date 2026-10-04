@@ -28,4 +28,4 @@ Rosjanie przedstawiali to inaczej. W komunikacie z 18 grudnia sztab generalny pi
 
 ## Bilans
 
-Feldmarszałek [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) osiągnął swój cel tylko częściowo. Rosjanie stracili Łódź i Łowicz, a ich marsz na Śląsk został przerwany. Armie rosyjskie nie zostały jednak rozbite i zajęły nową, krótszą linię obrony, zaledwie kilkadziesiąt kilometrów od Warszawy. Niemcy nie zamierzali się na niej zatrzymać. Już następnego dnia ich oddziały zaczęły atakować pozycje nad Bzurą i Rawką, gdzie front miał utknąć na wiele miesięcy.
+Feldmarszałek [Paul von Hindenburg](/postacie/paul-von-hindenburg) osiągnął swój cel tylko częściowo. Rosjanie stracili Łódź i Łowicz, a ich marsz na Śląsk został przerwany. Armie rosyjskie nie zostały jednak rozbite i zajęły nową, krótszą linię obrony, zaledwie kilkadziesiąt kilometrów od Warszawy. Niemcy nie zamierzali się na niej zatrzymać. Już następnego dnia ich oddziały zaczęły atakować pozycje nad Bzurą i Rawką, gdzie front miał utknąć na wiele miesięcy.

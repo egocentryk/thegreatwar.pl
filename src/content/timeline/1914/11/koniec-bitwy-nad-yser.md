@@ -22,7 +22,7 @@ Cena była wysoka. Dokładnych danych nie ma, ale według historyczki Sophie de 
 
 ## Wolny skrawek Belgii
 
-Niemcy zajęli około 95 procent Belgii. Wolny pozostał tylko wąski pas na zachodnim krańcu kraju, z [Veurne](https://pl.wikipedia.org/wiki/Veurne), [De Panne](https://pl.wikipedia.org/wiki/De_Panne) i Poperinge. Rząd belgijski [przeniósł się do Francji, pod Hawr](/rzad-belgijski-w-hawrze), ale król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) pozostał z armią, przeniósł kwaterę do De Panne i mieszkał tam do 1918 roku. Obecność króla na własnej ziemi, wśród żołnierzy, miała dla Belgów ogromne znaczenie. Albert stał się symbolem oporu, nazywanym królem-żołnierzem.
+Niemcy zajęli około 95 procent Belgii. Wolny pozostał tylko wąski pas na zachodnim krańcu kraju, z [Veurne](https://pl.wikipedia.org/wiki/Veurne), [De Panne](https://pl.wikipedia.org/wiki/De_Panne) i Poperinge. Rząd belgijski [przeniósł się do Francji, pod Hawr](/rzad-belgijski-w-hawrze), ale król [Albert I](/postacie/albert-i) pozostał z armią, przeniósł kwaterę do De Panne i mieszkał tam do 1918 roku. Obecność króla na własnej ziemi, wśród żołnierzy, miała dla Belgów ogromne znaczenie. Albert stał się symbolem oporu, nazywanym królem-żołnierzem.
 
 Od morza po Diksmuide obie armie przez całą wojnę oddzielał zalany pas polderów, a dalej na południe biegły okopy nad rzeką i kanałem. Armia belgijska, stopniowo uzupełniana ochotnikami i poborowymi, także spośród Belgów na emigracji, broniła tego frontu przez cztery lata. Jego najsłynniejszym miejscem stał się Okop Śmierci (Dodengang) pod Diksmuide, gdzie belgijskie i niemieckie posterunki dzieliło zaledwie kilkadziesiąt metrów. Belgowie ruszyli do natarcia dopiero w ofensywie jesienią 1918 roku.
 

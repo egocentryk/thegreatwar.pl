@@ -17,7 +17,7 @@ draft: false
 
 Antwerpia była największym portem Belgii i najsilniejszą twierdzą kraju. Otaczały ją pierścienie fortów, a przedwojenne plany przewidywały, że w razie inwazji stanie się ostatnim bastionem obrony, tak zwaną redutą narodową. Z Antwerpii armia belgijska mogła zagrażać skrzydłu i zapleczu niemieckich wojsk maszerujących na Francję, a przez port utrzymywać łączność z Wielką Brytanią.
 
-Do twierdzy wycofywała się też belgijska armia polowa, dowodzona osobiście przez króla [Alberta I](https://pl.wikipedia.org/wiki/Albert_I_Koburg). Król uznał, że lepiej zachować armię w całości, niż ryzykować jej zniszczenie w otwartej bitwie z przeważającymi siłami niemieckimi.
+Do twierdzy wycofywała się też belgijska armia polowa, dowodzona osobiście przez króla [Alberta I](/postacie/albert-i). Król uznał, że lepiej zachować armię w całości, niż ryzykować jej zniszczenie w otwartej bitwie z przeważającymi siłami niemieckimi.
 
 ## Bruksela miastem otwartym
 

@@ -16,17 +16,17 @@ draft: false
 
 ## Przeprawy
 
-Generał [Oskar Potiorek](https://pl.wikipedia.org/wiki/Oskar_Potiorek) rozpoczął [drugą inwazję na Serbię](/druga-inwazja-austro-wegier-na-serbie) dwiema armiami. Na dolnej Drinie, naprzeciw nizinnej [Mačvy](https://pl.wikipedia.org/wiki/Mačva), nacierała 5 Armia generała Liboriusa von Franka. Dalej na południe, na środkowym biegu rzeki, nacierała 6 Armia, którą dowodził sam Potiorek.
+Generał [Oskar Potiorek](/postacie/oskar-potiorek) rozpoczął [drugą inwazję na Serbię](/druga-inwazja-austro-wegier-na-serbie) dwiema armiami. Na dolnej Drinie, naprzeciw nizinnej [Mačvy](https://pl.wikipedia.org/wiki/Mačva), nacierała 5 Armia generała Liboriusa von Franka. Dalej na południe, na środkowym biegu rzeki, nacierała 6 Armia, którą dowodził sam Potiorek.
 
-Na północnym odcinku przeprawy zakończyły się dla Austro-Węgrów źle. Wczesną jesienią Drina była w wielu miejscach płytka i żołnierze przechodzili ją w bród, ale serbska 2 Armia generała [Stepy Stepanovicia](https://pl.wikipedia.org/wiki/Stepa_Stepanović) czekała na nich w okopach na drugim brzegu. Według różnych szacunków 5 Armia straciła w pierwszych starciach około 4 tysięcy ludzi a część jej oddziałów musiała się wycofać. Utrzymała tylko niewielkie przyczółki.
+Na północnym odcinku przeprawy zakończyły się dla Austro-Węgrów źle. Wczesną jesienią Drina była w wielu miejscach płytka i żołnierze przechodzili ją w bród, ale serbska 2 Armia generała [Stepy Stepanovicia](/postacie/stepa-stepanovic) czekała na nich w okopach na drugim brzegu. Według różnych szacunków 5 Armia straciła w pierwszych starciach około 4 tysięcy ludzi a część jej oddziałów musiała się wycofać. Utrzymała tylko niewielkie przyczółki.
 
-Na południu 8 września XV i XVI Korpus 6 Armii przekroczyły Drinę na odcinku od [Zvornika](https://pl.wikipedia.org/wiki/Zvornik) po [Ljuboviję](https://pl.wikipedia.org/wiki/Ljubovija). Brygady górskie, przyzwyczajone do walki w terenie, zaskoczyły słabszą serbską 3 Armię generała [Pavle Jurišicia Šturma](https://pl.wikipedia.org/wiki/Pavle_Jurišić_Šturm). W ciągu kilku dni Austro-Węgrzy wdarli się na grzbiety górskie ciągnące się wzdłuż rzeki: [Gučevo](https://pl.wikipedia.org/wiki/Gučevo) nad [Loznicą](https://pl.wikipedia.org/wiki/Loznica), Boranję i [Jagodnję](https://pl.wikipedia.org/wiki/Jagodnja). Z nich prowadziły drogi w głąb kraju, w stronę [Krupnja](https://pl.wikipedia.org/wiki/Krupanj) i [Valjeva](https://pl.wikipedia.org/wiki/Valjevo).
+Na południu 8 września XV i XVI Korpus 6 Armii przekroczyły Drinę na odcinku od [Zvornika](https://pl.wikipedia.org/wiki/Zvornik) po [Ljuboviję](https://pl.wikipedia.org/wiki/Ljubovija). Brygady górskie, przyzwyczajone do walki w terenie, zaskoczyły słabszą serbską 3 Armię generała [Pavle Jurišicia Šturma](https://pl.wikipedia.org/wiki/Pavle_Jurišić_Šturm). W ciągu kilku dni Austro-Węgrzy wdarli się na grzbiety górskie ciągnące się wzdłuż rzeki: Gučevo nad [Loznicą](https://pl.wikipedia.org/wiki/Loznica), Boranję i Jagodnję. Z nich prowadziły drogi w głąb kraju, w stronę [Krupnja](https://pl.wikipedia.org/wiki/Krupanj) i [Valjeva](https://pl.wikipedia.org/wiki/Valjevo).
 
 ## Góry zamiast równiny
 
 Walki nad Driną wyglądały inaczej niż sierpniowa bitwa na górze Cer. Toczyły się w stromych, zalesionych górach, poprzecinanych głębokimi dolinami, gdzie trudno było przerzucać artylerię i zaopatrzenie. Każdy grzbiet i każdy szczyt stawał się osobnym polem bitwy. Obie strony szybko zaczęły kopać okopy, a na niektórych odcinkach dzieliło je tylko kilkadziesiąt, a nawet kilka metrów.
 
-Szef sztabu armii serbskiej, wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), uznał, że zagrożenie od zachodu jest groźniejsze niż korzyści z trwającej właśnie wyprawy do Sremu. 11 września nakazał odwrót za Sawę, a wojska 1 Armii generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) skierował forsownym marszem nad Drinę, przeciw 6 Armii.
+Szef sztabu armii serbskiej, wojewoda [Radomir Putnik](/postacie/radomir-putnik), uznał, że zagrożenie od zachodu jest groźniejsze niż korzyści z trwającej właśnie wyprawy do Sremu. 11 września nakazał odwrót za Sawę, a wojska 1 Armii generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) skierował forsownym marszem nad Drinę, przeciw 6 Armii.
 
 ## Mačkov Kamen i wojna okopowa
 

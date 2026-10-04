@@ -17,7 +17,7 @@ tags: [Niemiecka Afryka Wschodnia, Paul von Lettow-Vorbeck, Indie Brytyjskie, Wi
 milestone: false
 ---
 
-Bitwa pod Jasinem była drugim, po [Tandze](/bitwy/bitwa-pod-tanga), dużym starciem w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Dziewięć kompanii niemieckich wojsk kolonialnych pod dowództwem podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) otoczyło brytyjski posterunek w Jasinie, plantacji tuż za granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Odsiecz nie zdołała się przebić i po dobie walk około 300 żołnierzy indyjskich skapitulowało. Dla Lettow-Vorbecka było to jednak zwycięstwo pyrrusowe. Stracił tylu oficerów i tyle amunicji, że uznał, iż na podobne bitwy nie może sobie więcej pozwolić.
+Bitwa pod Jasinem była drugim, po [Tandze](/bitwy/bitwa-pod-tanga), dużym starciem w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Dziewięć kompanii niemieckich wojsk kolonialnych pod dowództwem podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) otoczyło brytyjski posterunek w Jasinie, plantacji tuż za granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Odsiecz nie zdołała się przebić i po dobie walk około 300 żołnierzy indyjskich skapitulowało. Dla Lettow-Vorbecka było to jednak zwycięstwo pyrrusowe. Stracił tylu oficerów i tyle amunicji, że uznał, iż na podobne bitwy nie może sobie więcej pozwolić.
 
 ## Nazwa i daty
 
@@ -61,6 +61,6 @@ Według zestawienia gubernatora [Heinricha Schneego](https://pl.wikipedia.org/wi
 
 ## Znaczenie
 
-Jasin był drugą z rzędu porażką Brytyjczyków w Afryce Wschodniej. HMS Weymouth, który przypłynął 20 stycznia, mógł już tylko bezskutecznie ostrzelać okolicę. Wapshare kazał wycofać wojska z doliny Umby i na początku lutego niemieckie patrole zastały brytyjskie obozy puste. Lord [Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) zakazał dalszych działań zaczepnych w Afryce Wschodniej. Front na pograniczu ucichł na wiele miesięcy, a wielka brytyjska ofensywa w Afryce Wschodniej zaczęła się dopiero w 1916 roku, po przybyciu wojsk ze Związku Południowej Afryki.
+Jasin był drugą z rzędu porażką Brytyjczyków w Afryce Wschodniej. HMS Weymouth, który przypłynął 20 stycznia, mógł już tylko bezskutecznie ostrzelać okolicę. Wapshare kazał wycofać wojska z doliny Umby i na początku lutego niemieckie patrole zastały brytyjskie obozy puste. Lord [Herbert Kitchener](/postacie/horatio-kitchener) zakazał dalszych działań zaczepnych w Afryce Wschodniej. Front na pograniczu ucichł na wiele miesięcy, a wielka brytyjska ofensywa w Afryce Wschodniej zaczęła się dopiero w 1916 roku, po przybyciu wojsk ze Związku Południowej Afryki.
 
 Dla Lettow-Vorbecka bitwa była lekcją. Wygrał, ale obliczył, że przy takim zużyciu amunicji stać go najwyżej na trzy podobne starcia, a poległych oficerów nie miał kim zastąpić. Uznał, że wielkie uderzenia musi odtąd zostawić na wyjątkowe okazje, a prowadzić przede wszystkim [wojnę partyzancką](https://pl.wikipedia.org/wiki/Wojna_partyzancka). W następnych miesiącach jego niewielkie oddziały i patrole nękały brytyjskie posterunki i kolej ugandyjską, wiążąc w Afryce Wschodniej coraz większe siły przeciwnika.

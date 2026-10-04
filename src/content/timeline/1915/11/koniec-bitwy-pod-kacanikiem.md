@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-21 listopada 1915 roku w zaśnieżonych górach na południowym skraju [Kosowego Pola](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) załamała się ostatnia ofensywa armii serbskiej w tej kampanii. Od dwóch dni wyczerpane serbskie dywizje nacierały na bułgarskie pozycje pod [Kačanikiem](https://pl.wikipedia.org/wiki/Kačanik) i [Gnjilane](https://pl.wikipedia.org/wiki/Gnjilane), by otworzyć sobie drogę do Skopje i dalej, do Francuzów nad Wardarem. Według austriackiej historii oficjalnej 21 listopada, „po dwóch dniach zaciętych zmagań”, zostały odparte. Tego samego dnia wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik) nakazał armiom cofnąć się za rzekę [Sitnicę](https://pl.wikipedia.org/wiki/Sitnica_(rzeka)).
+21 listopada 1915 roku w zaśnieżonych górach na południowym skraju [Kosowego Pola](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) załamała się ostatnia ofensywa armii serbskiej w tej kampanii. Od dwóch dni wyczerpane serbskie dywizje nacierały na bułgarskie pozycje pod [Kačanikiem](https://pl.wikipedia.org/wiki/Kačanik) i [Gnjilane](https://pl.wikipedia.org/wiki/Gnjilane), by otworzyć sobie drogę do Skopje i dalej, do Francuzów nad Wardarem. Według austriackiej historii oficjalnej 21 listopada, „po dwóch dniach zaciętych zmagań”, zostały odparte. Tego samego dnia wojewoda [Radomir Putnik](/postacie/radomir-putnik) nakazał armiom cofnąć się za rzekę [Sitnicę](https://pl.wikipedia.org/wiki/Sitnica_(rzeka)).
 
 ## Ostatnie natarcie
 

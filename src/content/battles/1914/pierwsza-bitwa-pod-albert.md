@@ -17,7 +17,7 @@ tags: [Francja, Niemcy, wyścig do morza, Pikardia]
 milestone: false
 ---
 
-Pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) była drugim, po [bitwie w Pikardii](/bitwy/pierwsza-bitwa-w-pikardii), dużym starciem wyścigu do morza. Francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) i niemiecka 6 Armia księcia [Ruprechta Bawarskiego](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Po kilku dniach walk żadna ze stron nie zdobyła przewagi, a wojska okopały się na wzgórzach między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Na tych samych polach w lipcu 1916 roku Brytyjczycy i Francuzi rozpoczęli [bitwę nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
+Pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) była drugim, po [bitwie w Pikardii](/bitwy/pierwsza-bitwa-w-pikardii), dużym starciem [wyścigu do morza](/bitwy/wyscig-do-morza). Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Ruprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Po kilku dniach walk żadna ze stron nie zdobyła przewagi, a wojska okopały się na wzgórzach między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Na tych samych polach w lipcu 1916 roku Brytyjczycy i Francuzi rozpoczęli [bitwę nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
 
 ## Daty bitwy
 
@@ -27,9 +27,9 @@ Większość współczesnych opracowań, zarówno francuskich, jak i anglojęzyc
 
 ## Tło
 
-W drugiej połowie września 1914 roku obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Pierwsza próba w Pikardii, między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a Sommą, utknęła w czołowych starciach pod Lassigny, Roye i Chaulnes. Naczelny wódz armii francuskiej, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), kierował więc kolejne korpusy dalej na północ. Castelnau miał przedłużyć linię 2 Armii za Sommę i uderzyć z okolic Albert na wschód, na tyły Niemców.
+W drugiej połowie września 1914 roku obie strony przerzucały wojska na zachód, by obejść otwarte skrzydło przeciwnika. Pierwsza próba w Pikardii, między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a Sommą, utknęła w czołowych starciach pod Lassigny, Roye i Chaulnes. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), kierował więc kolejne korpusy dalej na północ. Castelnau miał przedłużyć linię 2 Armii za Sommę i uderzyć z okolic Albert na wschód, na tyły Niemców.
 
-Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), zamierzał zrobić to samo w przeciwnym kierunku. Około 21 września postanowił skupić w rejonie [Amiens](https://pl.wikipedia.org/wiki/Amiens) 6 Armię, przewożoną z Lotaryngii, i uderzyć nią na zachód, w stronę wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił, XXI Korpusu i I Bawarskiego Korpusu, na południe od Sommy. Na północ od rzeki pozostały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
+Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), zamierzał zrobić to samo w przeciwnym kierunku. Około 21 września postanowił skupić w rejonie [Amiens](https://pl.wikipedia.org/wiki/Amiens) 6 Armię, przewożoną z Lotaryngii, i uderzyć nią na zachód, w stronę wybrzeża. Francuskie natarcie w Pikardii zmusiło go jednak do skierowania części jej sił, XXI Korpusu i I Bawarskiego Korpusu, na południe od Sommy. Na północ od rzeki pozostały II Bawarski Korpus i XIV Korpus Rezerwowy, wsparte przez kawalerię.
 
 ## Przebieg walk
 

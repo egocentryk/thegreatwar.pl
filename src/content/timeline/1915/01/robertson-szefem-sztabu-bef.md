@@ -19,7 +19,7 @@ Kariera Robertsona była w armii brytyjskiej czymś wyjątkowym. Urodził się w
 
 ## Wybór z konieczności
 
-Marszałek [John French](https://pl.wikipedia.org/wiki/John_French) chciał na miejsce Murraya generała Henry'ego Wilsona, dotychczasowego zastępcę szefa sztabu, błyskotliwego oficera i przyjaciela wielu francuskich generałów. Premier [Herbert Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith) i minister wojny lord Kitchener nie ufali jednak Wilsonowi. Wiosną 1914 roku, w czasie kryzysu wokół Ulsteru, otwarcie stanął on po stronie przeciwników rządu, a politycy uważali go za intryganta. French pisał po wojnie, że tylko ten pech przeszkodził w nominacji Wilsona.
+Marszałek [John French](/postacie/john-french) chciał na miejsce Murraya generała Henry'ego Wilsona, dotychczasowego zastępcę szefa sztabu, błyskotliwego oficera i przyjaciela wielu francuskich generałów. Premier [Herbert Asquith](/postacie/herbert-henry-asquith) i minister wojny lord Kitchener nie ufali jednak Wilsonowi. Wiosną 1914 roku, w czasie kryzysu wokół Ulsteru, otwarcie stanął on po stronie przeciwników rządu, a politycy uważali go za intryganta. French pisał po wojnie, że tylko ten pech przeszkodził w nominacji Wilsona.
 
 Robertson wiedział, że nie jest pierwszym wyborem Frencha, i podobno mówił Wilsonowi, że nie chce awansu, bo nie poradzi sobie z naczelnym dowódcą. Przyjął stanowisko z poczucia obowiązku, ale postawił warunek: nie chciał Wilsona za zastępcę. Nowym zastępcą szefa sztabu został generał Edward Perceval, a Wilson objął funkcję głównego oficera łącznikowego przy francuskiej kwaterze głównej i otrzymał tymczasowy stopień generała porucznika. Rywalizacja obu ludzi trwała do końca wojny.
 

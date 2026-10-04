@@ -18,7 +18,7 @@ draft: false
 
 Przez sześć dni francuskie armie posuwały się w głąb Lotaryngii niemal bez przeszkód. Niemiecka 6 Armia księcia Rupprechta Bawarskiego i 7 Armia celowo się wycofywały, wciągając Francuzów na dobrze przygotowane pozycje. 20 sierpnia Niemcy przeszli do zmasowanego kontrataku na całym froncie.
 
-Pod Morhange 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) trafiła pod ogień ciężkiej artylerii i karabinów maszynowych z umocnionych wzgórz. Francuska piechota, nacierająca w zwartych szykach, ponosiła ogromne straty. Wśród poległych był syn generała Castelnau. Pod Sarrebourgiem 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) stawiała zacięty opór, ale po klęsce sąsiedniej armii również musiała się wycofać.
+Pod Morhange 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) trafiła pod ogień ciężkiej artylerii i karabinów maszynowych z umocnionych wzgórz. Francuska piechota, nacierająca w zwartych szykach, ponosiła ogromne straty. Wśród poległych był syn generała Castelnau. Pod Sarrebourgiem 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) stawiała zacięty opór, ale po klęsce sąsiedniej armii również musiała się wycofać.
 
 ## Odwrót pod Nancy
 

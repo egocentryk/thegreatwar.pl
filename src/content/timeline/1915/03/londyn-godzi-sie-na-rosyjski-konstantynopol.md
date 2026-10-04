@@ -14,7 +14,7 @@ draft: false
 
 ## Odwrócenie tradycji
 
-Minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) zdawał sobie sprawę, jak wielki to krok. W memorandum dołączonym do odpowiedzi kazał przypomnieć Rosjanom, że ich żądanie znacznie wykracza poza to, czego Sazonow jeszcze kilka tygodni wcześniej się spodziewał. Rosja prosiła o wiążącą obietnicę w sprawie „najbogatszego łupu całej wojny”, zanim Brytyjczycy zdążyli rozważyć własne życzenia. Zgoda oznaczała całkowite odwrócenie tradycyjnej polityki brytyjskiej i stała w sprzeczności z poglądami, które w Anglii przez dziesięciolecia podzielali niemal wszyscy, a które wcale jeszcze nie wygasły. Grey uważał, że większego dowodu przyjaźni Londyn dać nie może, i wyrażał nadzieję, że przyniesie to trwałą przyjaźń brytyjsko-rosyjską.
+Minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) zdawał sobie sprawę, jak wielki to krok. W memorandum dołączonym do odpowiedzi kazał przypomnieć Rosjanom, że ich żądanie znacznie wykracza poza to, czego Sazonow jeszcze kilka tygodni wcześniej się spodziewał. Rosja prosiła o wiążącą obietnicę w sprawie „najbogatszego łupu całej wojny”, zanim Brytyjczycy zdążyli rozważyć własne życzenia. Zgoda oznaczała całkowite odwrócenie tradycyjnej polityki brytyjskiej i stała w sprzeczności z poglądami, które w Anglii przez dziesięciolecia podzielali niemal wszyscy, a które wcale jeszcze nie wygasły. Grey uważał, że większego dowodu przyjaźni Londyn dać nie może, i wyrażał nadzieję, że przyniesie to trwałą przyjaźń brytyjsko-rosyjską.
 
 ## Warunki
 

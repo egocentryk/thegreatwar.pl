@@ -21,7 +21,7 @@ Wtedy z Aten nadeszła odpowiedź, która w Londynie wywołała irytację. Wedł
 
 ## Formalny protest
 
-Londyn odpowiedział, że przygotowania do wysłania wojsk trwają, ale nie zgodził się na protest, choćby czysto formalny. Lądowanie w obcym porcie wbrew sprzeciwowi gospodarza byłoby trudne, a [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) obawiał się, że Niemcy ogłoszą wtedy, że Ententa pogwałciła grecką neutralność. Wenizelos miał jasno oświadczyć, że wojska będą mile widziane. Generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) dostał tego dnia polecenie, by przygotował do wycofania z Gallipoli dwie dywizje, a Francuzi szykowali do drogi część swoich sił spod przylądka Helles.
+Londyn odpowiedział, że przygotowania do wysłania wojsk trwają, ale nie zgodził się na protest, choćby czysto formalny. Lądowanie w obcym porcie wbrew sprzeciwowi gospodarza byłoby trudne, a [Edward Grey](/postacie/edward-grey) obawiał się, że Niemcy ogłoszą wtedy, że Ententa pogwałciła grecką neutralność. Wenizelos miał jasno oświadczyć, że wojska będą mile widziane. Generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) dostał tego dnia polecenie, by przygotował do wycofania z Gallipoli dwie dywizje, a Francuzi szykowali do drogi część swoich sił spod przylądka Helles.
 
 ## Na co zgodził się król?
 

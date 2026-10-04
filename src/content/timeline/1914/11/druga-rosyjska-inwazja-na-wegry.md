@@ -15,7 +15,7 @@ Brytyjska chronologia wojny podaje 15 listopada 1914 roku jako początek drugiej
 
 ## Odwrót w Karpaty
 
-W październiku austro-węgierska 3 Armia generała [Svetozara Boroevicia](https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna) odblokowała Przemyśl i próbowała posuwać się dalej w stronę Lwowa. Po niepowodzeniu państw centralnych nad Wisłą musiała się jednak wycofać. W połowie listopada zajęła pozycje na grzbiecie Karpat, na linii od [Przełęczy Użockiej](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) po Zborov w pobliżu Bardejowa, a Rosjanie po raz drugi zamknęli pierścień wokół Przemyśla. Na przełęcze nacierała rosyjska 8 Armia generała [Aleksieja Brusiłowa](https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow). Pod jej naporem 18 listopada Austriacy musieli cofnąć się jeszcze dalej, co pociągnęło za sobą odwrót kolejnych oddziałów na sąsiednich odcinkach frontu.
+W październiku austro-węgierska 3 Armia generała [Svetozara Boroevicia](/postacie/svetozar-boroevic) odblokowała Przemyśl i próbowała posuwać się dalej w stronę Lwowa. Po niepowodzeniu państw centralnych nad Wisłą musiała się jednak wycofać. W połowie listopada zajęła pozycje na grzbiecie Karpat, na linii od [Przełęczy Użockiej](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) po Zborov w pobliżu Bardejowa, a Rosjanie po raz drugi zamknęli pierścień wokół Przemyśla. Na przełęcze nacierała rosyjska 8 Armia generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow). Pod jej naporem 18 listopada Austriacy musieli cofnąć się jeszcze dalej, co pociągnęło za sobą odwrót kolejnych oddziałów na sąsiednich odcinkach frontu.
 
 ## Rosjanie w dolinie Laborca
 

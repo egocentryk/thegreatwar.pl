@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 grudnia 1914 roku niemiecki parlament, Reichstag, głosował nad drugą ustawą o kredytach wojennych. Rząd kanclerza [Theobalda von Bethmanna Hollwega](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg) zażądał kolejnych pięciu miliardów marek na prowadzenie wojny. Głosowano przez powstanie z miejsc. Wstali posłowie wszystkich frakcji, z wyjątkiem jednego. Socjaldemokrata [Karl Liebknecht](https://pl.wikipedia.org/wiki/Karl_Liebknecht) pozostał na swoim miejscu. Przewodniczący Reichstagu Johannes Kaempf stwierdził, że ustawa została przyjęta jednogłośnie, z wyjątkiem jednego posła.
+2 grudnia 1914 roku niemiecki parlament, Reichstag, głosował nad drugą ustawą o kredytach wojennych. Rząd kanclerza [Theobalda von Bethmanna Hollwega](/postacie/theobald-von-bethmann-hollweg) zażądał kolejnych pięciu miliardów marek na prowadzenie wojny. Głosowano przez powstanie z miejsc. Wstali posłowie wszystkich frakcji, z wyjątkiem jednego. Socjaldemokrata [Karl Liebknecht](https://pl.wikipedia.org/wiki/Karl_Liebknecht) pozostał na swoim miejscu. Przewodniczący Reichstagu Johannes Kaempf stwierdził, że ustawa została przyjęta jednogłośnie, z wyjątkiem jednego posła.
 
 ## Burgfrieden
 

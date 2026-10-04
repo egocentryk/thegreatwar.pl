@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 lutego 1915 roku ambasador Stanów Zjednoczonych w Londynie Walter Hines Page przekazał brytyjskiemu ministrowi spraw zagranicznych [Edwardowi Greyowi](https://pl.wikipedia.org/wiki/Edward_Grey) notę w sprawie używania amerykańskiej bandery przez brytyjskie statki handlowe. Jej tekst przygotował dzień wcześniej w Waszyngtonie sekretarz stanu [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Jennings_Bryan).
+11 lutego 1915 roku ambasador Stanów Zjednoczonych w Londynie Walter Hines Page przekazał brytyjskiemu ministrowi spraw zagranicznych [Edwardowi Greyowi](/postacie/edward-grey) notę w sprawie używania amerykańskiej bandery przez brytyjskie statki handlowe. Jej tekst przygotował dzień wcześniej w Waszyngtonie sekretarz stanu [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Jennings_Bryan).
 
 ## Bandera jako zagrożenie
 

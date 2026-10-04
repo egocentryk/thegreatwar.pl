@@ -14,7 +14,7 @@ Brytyjska chronologia wojny notuje pod tym dniem ustąpienie premiera Rumunii [A
 
 ## Ostatnie dni rządu
 
-Na początku listopada państwa centralne były już pokonane. Austro-Węgry podpisały [rozejm w Villa Giusti](/rozejm-w-villa-giusti), a armia [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen) okupująca Wołoszczyznę zaczynała odwrót. Marghiloman, uważany przez ententę za „człowieka Niemców”, próbował jeszcze wykorzystać nową sytuację. Na prośbę rumuńskiej Rady Narodowej z [Czerniowców](https://pl.wikipedia.org/wiki/Czerniowce) wydał rozkaz, by wojska z granicy weszły do [Bukowiny](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) i zajęły Suczawę, a potem posuwały się możliwie szybko ku Czerniowcom. Król [Ferdynand I](https://pl.wikipedia.org/wiki/Ferdynand_I_Rumuński) zatwierdził te rozkazy. Wieczorem 5 listopada premier był u monarchy z raportem.
+Na początku listopada państwa centralne były już pokonane. Austro-Węgry podpisały [rozejm w Villa Giusti](/rozejm-w-villa-giusti), a armia [Augusta von Mackensena](/postacie/august-von-mackensen) okupująca Wołoszczyznę zaczynała odwrót. Marghiloman, uważany przez ententę za „człowieka Niemców”, próbował jeszcze wykorzystać nową sytuację. Na prośbę rumuńskiej Rady Narodowej z [Czerniowców](https://pl.wikipedia.org/wiki/Czerniowce) wydał rozkaz, by wojska z granicy weszły do [Bukowiny](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) i zajęły Suczawę, a potem posuwały się możliwie szybko ku Czerniowcom. Król [Ferdynand I](https://pl.wikipedia.org/wiki/Ferdynand_I_Rumuński) zatwierdził te rozkazy. Wieczorem 5 listopada premier był u monarchy z raportem.
 
 ## 6 listopada
 

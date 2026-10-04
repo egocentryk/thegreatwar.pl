@@ -22,7 +22,7 @@ Najważniejsze było zakończenie: „Wobec tych nowych zbrodni Turcji przeciwko
 
 Inicjatywa wyszła od Rosji. Doniesienia o masakrach docierały do Piotrogrodu z pogranicza, a według części opracowań do działania skłoniły władze także apele ormiańskiego katolikosa z [Eczmiadzynu](https://pl.wikipedia.org/wiki/Wagharszapat). Minister spraw zagranicznych [Siergiej Sazonow](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) zaproponował Londynowi i Paryżowi wspólne potępienie zbrodni. W jego projekcie, rozesłanym w pierwszej połowie maja, była mowa o zbrodniach Turcji „przeciwko chrześcijaństwu i cywilizacji”.
 
-Brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) i jego francuski odpowiednik [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé) nie chcieli takiego sformułowania. Obawiali się, że religijny ton potwierdzi propagandę osmańską, przedstawiającą wojnę jako walkę islamu z chrześcijaństwem, i źle przyjmą go muzułmańscy poddani obu imperiów kolonialnych. Odwołanie do chrześcijaństwa zastąpiono więc słowem „ludzkość”.
+Brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) i jego francuski odpowiednik [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé) nie chcieli takiego sformułowania. Obawiali się, że religijny ton potwierdzi propagandę osmańską, przedstawiającą wojnę jako walkę islamu z chrześcijaństwem, i źle przyjmą go muzułmańscy poddani obu imperiów kolonialnych. Odwołanie do chrześcijaństwa zastąpiono więc słowem „ludzkość”.
 
 ## Znaczenie
 

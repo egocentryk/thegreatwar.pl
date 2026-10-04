@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-21 sierpnia 1914 roku nad rzeką [Sambrą](https://pl.wikipedia.org/wiki/Sambra), w rejonie belgijskiego miasta [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), rozpoczęła się bitwa między francuską 5 Armią generała Charles'a Lanrezaca a niemiecką 2 Armią generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow). Była to jedna z najważniejszych [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)), które zadecydowały o przebiegu pierwszych tygodni wojny na zachodzie.
+21 sierpnia 1914 roku nad rzeką [Sambrą](https://pl.wikipedia.org/wiki/Sambra), w rejonie belgijskiego miasta [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), rozpoczęła się bitwa między francuską 5 Armią generała Charles'a Lanrezaca a niemiecką 2 Armią generała [Karla von Bülowa](/postacie/karl-von-bulow). Była to jedna z najważniejszych [bitew granicznych](/bitwy/bitwa-graniczna), które zadecydowały o przebiegu pierwszych tygodni wojny na zachodzie.
 
 ## Ostrzeżenia, których nie słuchano
 

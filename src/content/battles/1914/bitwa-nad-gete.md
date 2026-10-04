@@ -16,7 +16,7 @@ authors: [Natalia]
 tags: [Belgia, Niemcy, Albert I, Antwerpia]
 ---
 
-Bitwa nad Gete to walki armii belgijskiej z nacierającymi wojskami niemieckimi, stoczone 18 i 19 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](https://pl.wikipedia.org/wiki/Belgia) i na drogach odwrotu do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Nie była to jedna wielka bitwa, lecz seria zaciętych starć straży tylnych, które osłaniały wycofanie się belgijskiej armii polowej. Dzięki nim król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) zdołał uratować armię przed okrążeniem.
+Bitwa nad Gete to walki armii belgijskiej z nacierającymi wojskami niemieckimi, stoczone 18 i 19 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](https://pl.wikipedia.org/wiki/Belgia) i na drogach odwrotu do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Nie była to jedna wielka bitwa, lecz seria zaciętych starć straży tylnych, które osłaniały wycofanie się belgijskiej armii polowej. Dzięki nim król [Albert I](/postacie/albert-i) zdołał uratować armię przed okrążeniem.
 
 ## Linia nad Gete
 
@@ -24,7 +24,7 @@ Belgijskie plany wojenne przewidywały, że armia polowa zbierze się w środku 
 
 12 sierpnia ta właśnie kawaleria, wspierana przez piechotę, odparła niemieckich jeźdźców w [bitwie pod Haelen](https://pl.wikipedia.org/wiki/Bitwa_pod_Haelen), nad tą samą rzeką. Było to starcie odrębne, stoczone jeszcze przed nadejściem głównych sił niemieckich, ale mocno podniosło morale Belgów.
 
-Belgowie czekali nad Gete na nadejście Francuzów i Brytyjczyków, którzy jednak skupiali się znacznie dalej na południu. Tymczasem po upadku fortów Liège przez Belgię ruszyły niemiecka 1 Armia generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck) i 2 Armia generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow), według szacunków łącznie ponad pół miliona żołnierzy. Armia belgijska liczyła około stu tysięcy ludzi. Walka w otwartym polu groziła jej zniszczeniem.
+Belgowie czekali nad Gete na nadejście Francuzów i Brytyjczyków, którzy jednak skupiali się znacznie dalej na południu. Tymczasem po upadku fortów Liège przez Belgię ruszyły niemiecka 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck) i 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow), według szacunków łącznie ponad pół miliona żołnierzy. Armia belgijska liczyła około stu tysięcy ludzi. Walka w otwartym polu groziła jej zniszczeniem.
 
 ## 18 sierpnia
 

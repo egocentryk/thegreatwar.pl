@@ -16,7 +16,7 @@ draft: false
 
 ## Spotkanie z armią Klucka
 
-Korpus, dowodzony przez marszałka [Johna Frencha](https://pl.wikipedia.org/wiki/John_French), zajął 22 sierpnia pozycje wzdłuż kanału Mons–Condé, na lewo od francuskiej 5 Armii. Brytyjczycy spodziewali się dalszego marszu naprzód. Nie wiedzieli, że wprost na nich idzie niemiecka 1 Armia generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck), znacznie od nich liczniejsza.
+Korpus, dowodzony przez marszałka [Johna Frencha](/postacie/john-french), zajął 22 sierpnia pozycje wzdłuż kanału Mons–Condé, na lewo od francuskiej 5 Armii. Brytyjczycy spodziewali się dalszego marszu naprzód. Nie wiedzieli, że wprost na nich idzie niemiecka 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck), znacznie od nich liczniejsza.
 
 ## Szybki ogień
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 22 września 1914 roku dwa niemieckie krążowniki pancerne, [Scharnhorst](https://pl.wikipedia.org/wiki/SMS_Scharnhorst) i [Gneisenau](https://pl.wikipedia.org/wiki/SMS_Gneisenau_(1906)), pojawiły się przed [Papeete](https://pl.wikipedia.org/wiki/Papeete), stolicą francuskich posiadłości w Oceanii na wyspie [Tahiti](https://pl.wikipedia.org/wiki/Tahiti). Wiceadmirał [Maximilian von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee) liczył, że zdobędzie tam węgiel i zapasy dla swojej eskadry. Wrócił z pustymi rękami.
+Rano 22 września 1914 roku dwa niemieckie krążowniki pancerne, [Scharnhorst](https://pl.wikipedia.org/wiki/SMS_Scharnhorst) i [Gneisenau](https://pl.wikipedia.org/wiki/SMS_Gneisenau_(1906)), pojawiły się przed [Papeete](https://pl.wikipedia.org/wiki/Papeete), stolicą francuskich posiadłości w Oceanii na wyspie [Tahiti](https://pl.wikipedia.org/wiki/Tahiti). Wiceadmirał [Maximilian von Spee](/postacie/maximilian-von-spee) liczył, że zdobędzie tam węgiel i zapasy dla swojej eskadry. Wrócił z pustymi rękami.
 
 ## Po węgiel na Tahiti
 

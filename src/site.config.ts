@@ -22,5 +22,6 @@ export const SITE = {
 export const NAV_LINKS = [
   { label: "Oś czasu", href: "/timeline" },
   { label: "Bitwy", href: "/bitwy" },
+  { label: "Postacie", href: "/postacie" },
   { label: "O Projekcie", href: "/about" },
 ] as const

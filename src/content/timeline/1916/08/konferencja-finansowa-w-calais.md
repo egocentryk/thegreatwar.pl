@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-24 sierpnia 1916 roku w [Calais](https://pl.wikipedia.org/wiki/Calais) obradowała brytyjsko-francuska konferencja w sprawach finansowych. Spotkali się na niej ministrowie finansów obu państw, brytyjski kanclerz skarbu [Reginald McKenna](https://pl.wikipedia.org/wiki/Reginald_McKenna) i francuski minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot). Według wydanego w 1936 roku dziennika Ribota francuski minister zabiegał, by przy rozmowach byli obecni także szefowie obu rządów, a z jego korespondencji wynika, że w Calais był brytyjski premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith). Konferencja zakończyła się podpisaniem protokołu o nowych brytyjskich kredytach dla Francji.
+24 sierpnia 1916 roku w [Calais](https://pl.wikipedia.org/wiki/Calais) obradowała brytyjsko-francuska konferencja w sprawach finansowych. Spotkali się na niej ministrowie finansów obu państw, brytyjski kanclerz skarbu [Reginald McKenna](https://pl.wikipedia.org/wiki/Reginald_McKenna) i francuski minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot). Według wydanego w 1936 roku dziennika Ribota francuski minister zabiegał, by przy rozmowach byli obecni także szefowie obu rządów, a z jego korespondencji wynika, że w Calais był brytyjski premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith). Konferencja zakończyła się podpisaniem protokołu o nowych brytyjskich kredytach dla Francji.
 
 ## Spór o amerykańskie pożyczki
 

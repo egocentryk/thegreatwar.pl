@@ -35,6 +35,6 @@ Tighe rozmieścił wojska wzdłuż granicy. Główne siły obozowały na półno
 
 ## Krótki sukces
 
-Wyprawa przywróciła brytyjską władzę na pograniczu niemal bez strat, ale wysunięty obóz w Jasinie okazał się pułapką. W niezdrowym klimacie doliny Umby szybko szerzyły się choroby. Podpułkownik [Paul von Lettow-Vorbeck](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) uznał zaś obecność Brytyjczyków za zapowiedź nowego ataku na Tangę i ściągnął koleją posiłki spod Kilimandżaro.
+Wyprawa przywróciła brytyjską władzę na pograniczu niemal bez strat, ale wysunięty obóz w Jasinie okazał się pułapką. W niezdrowym klimacie doliny Umby szybko szerzyły się choroby. Podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) uznał zaś obecność Brytyjczyków za zapowiedź nowego ataku na Tangę i ściągnął koleją posiłki spod Kilimandżaro.
 
 18 stycznia 1915 roku dziewięć niemieckich kompanii uderzyło na Jasin, broniony przez około 300 żołnierzy indyjskich pod dowództwem pułkownika Raghbira Singha z 2 Batalionu Strzelców Kaszmirskich. Odsiecz nie zdołała się przebić, a Raghbir Singh zginął. Rankiem 19 stycznia, niemal bez amunicji, garnizon skapitulował. Do niewoli trafiło 276 ludzi. Niemcy także ponieśli dotkliwe straty, zwłaszcza wśród oficerów, i zużyli dużą część cennej amunicji. Po tej porażce lord Kitchener w ostrym telegramie zakazał Wapshare'owi dalszych działań zaczepnych.

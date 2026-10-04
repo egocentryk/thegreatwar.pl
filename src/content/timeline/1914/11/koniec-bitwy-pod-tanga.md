@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-5 listopada 1914 roku Indyjski Korpus Ekspedycyjny „B” zakończył zaokrętowanie na transportowce stojące przed [Tangą](https://pl.wikipedia.org/wiki/Tanga). Tak skończyła się wyprawa, która [16 października wyruszyła z Bombaju](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki), by zdobyć całą [Niemiecką Afrykę Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Około 8 tysięcy żołnierzy generała majora Arthura Aitkena przegrało z mniej więcej tysiącem askarysów podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck).
+5 listopada 1914 roku Indyjski Korpus Ekspedycyjny „B” zakończył zaokrętowanie na transportowce stojące przed [Tangą](https://pl.wikipedia.org/wiki/Tanga). Tak skończyła się wyprawa, która [16 października wyruszyła z Bombaju](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki), by zdobyć całą [Niemiecką Afrykę Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Około 8 tysięcy żołnierzy generała majora Arthura Aitkena przegrało z mniej więcej tysiącem askarysów podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck).
 
 ## Po klęsce 4 listopada
 

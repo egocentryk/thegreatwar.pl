@@ -19,7 +19,7 @@ Prinz Eitel Friedrich był statkiem pasażerskim towarzystwa [Norddeutscher Lloy
 
 ## Rejs przez dwa oceany
 
-Okręt skierował się na spotkanie z Eskadrą Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee), z którą połączył się na wyspie [Pagan](https://pl.wikipedia.org/wiki/Pagan_(wyspa)) w Marianach. Przez kolejne tygodnie towarzyszył eskadrze i operował samodzielnie na [Oceanie Spokojnym](https://pl.wikipedia.org/wiki/Ocean_Spokojny). Po bitwie pod Coronelem przeszedł wokół Przylądka Horn na Atlantyk, gdzie prowadził wojnę handlową, zatapiając jedenaście statków.
+Okręt skierował się na spotkanie z Eskadrą Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee), z którą połączył się na wyspie [Pagan](https://pl.wikipedia.org/wiki/Pagan_(wyspa)) w Marianach. Przez kolejne tygodnie towarzyszył eskadrze i operował samodzielnie na [Oceanie Spokojnym](https://pl.wikipedia.org/wiki/Ocean_Spokojny). Po bitwie pod Coronelem przeszedł wokół Przylądka Horn na Atlantyk, gdzie prowadził wojnę handlową, zatapiając jedenaście statków.
 
 Wśród jego ofiar znalazł się amerykański żaglowiec William P. Frye, zatopiony w styczniu 1915 roku. Był to pierwszy amerykański statek zatopiony w tej wojnie, a incydent wywołał napięcia dyplomatyczne między Stanami Zjednoczonymi a Niemcami.
 

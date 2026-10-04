@@ -17,7 +17,7 @@ Brytyjska chronologia wojny podaje pod datą 30 października 1914 roku zajęcie
 
 Stanisławów, dziś ukraiński Iwano-Frankiwsk, był jednym z największych miast Galicji Wschodniej, siedzibą powiatu, garnizonem i ważnym węzłem kolejowym u podnóża Karpat. W 1910 roku liczył ponad 33 tysiące mieszkańców. Prawie połowę stanowili Żydzi. Obok nich mieszkali tu przede wszystkim Polacy, a także Ukraińcy (Rusini), Niemcy i Ormianie.
 
-Po klęskach w bitwach galicyjskich, w tych samych dniach, w których [Rosjanie zdobyli Lwów](/rosjanie-zdobywaja-lwow), Austriacy opuścili miasto bez walki i wycofali się w góry. Rosjanie wkroczyli do Stanisławowa według jednych źródeł 30 sierpnia, według innych 3 września. Miasto znalazło się pod rosyjską administracją wojskową, która szczególnie ciężko doświadczała ludność żydowską.
+Po klęskach w [bitwach galicyjskich](/bitwy/bitwa-galicyjska), w tych samych dniach, w których [Rosjanie zdobyli Lwów](/rosjanie-zdobywaja-lwow), Austriacy opuścili miasto bez walki i wycofali się w góry. Rosjanie wkroczyli do Stanisławowa według jednych źródeł 30 sierpnia, według innych 3 września. Miasto znalazło się pod rosyjską administracją wojskową, która szczególnie ciężko doświadczała ludność żydowską.
 
 ## Legioniści pod Stanisławowem
 

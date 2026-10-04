@@ -30,4 +30,4 @@ Looff, sam ranny, kazał załodze opuścić okręt i wysadzić go ładunkami z g
 
 Julian Corbett, autor brytyjskiej historii oficjalnej wojny na morzu, pisał, że tego dnia skończył się ostatni niemiecki krążownik na otwartych morzach. Zagrożenie dla żeglugi na Oceanie Indyjskim zniknęło, a brytyjskie okręty mogły zająć się [blokadą wybrzeża kolonii](/blokada-niemieckiej-afryki-wschodniej) i wspieraniem wojsk na lądzie.
 
-Niemcy nie dali jednak za wygraną. Już od następnego dnia wydobywali z wraku działa, amunicję i sprzęt. Dziesięć dział kalibru 105 mm trafiło po naprawie do wojsk podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) i przez kolejne lata służyło jako ciężka artyleria polowa. Do jego oddziałów dołączyli też ocalali marynarze z Königsberga.
+Niemcy nie dali jednak za wygraną. Już od następnego dnia wydobywali z wraku działa, amunicję i sprzęt. Dziesięć dział kalibru 105 mm trafiło po naprawie do wojsk podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) i przez kolejne lata służyło jako ciężka artyleria polowa. Do jego oddziałów dołączyli też ocalali marynarze z Königsberga.

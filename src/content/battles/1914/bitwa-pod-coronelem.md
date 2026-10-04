@@ -17,7 +17,7 @@ tags: [Royal Navy, Kaiserliche Marine, Maximilian von Spee, Ocean Spokojny]
 milestone: true
 ---
 
-[Bitwa pod Coronelem](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem) rozegrała się wieczorem 1 listopada 1914 roku na Pacyfiku, u wybrzeży środkowego [Chile](https://pl.wikipedia.org/wiki/Chile). Niemiecka Eskadra Wschodnioazjatycka wiceadmirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee) rozbiła w niej brytyjski zespół kontradmirała [Christophera Cradocka](https://pl.wikipedia.org/wiki/Christopher_Cradock). Dwa brytyjskie krążowniki pancerne poszły na dno z całymi załogami, a Niemcy mieli zaledwie trzech rannych. Była to pierwsza od ponad stu lat porażka [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w bitwie morskiej.
+[Bitwa pod Coronelem](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem) rozegrała się wieczorem 1 listopada 1914 roku na Pacyfiku, u wybrzeży środkowego [Chile](https://pl.wikipedia.org/wiki/Chile). Niemiecka Eskadra Wschodnioazjatycka wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee) rozbiła w niej brytyjski zespół kontradmirała [Christophera Cradocka](https://pl.wikipedia.org/wiki/Christopher_Cradock). Dwa brytyjskie krążowniki pancerne poszły na dno z całymi załogami, a Niemcy mieli zaledwie trzech rannych. Była to pierwsza od ponad stu lat porażka [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w bitwie morskiej.
 
 ## Pościg przez Pacyfik
 

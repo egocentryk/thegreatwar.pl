@@ -1,0 +1,186 @@
+---
+import { getCollection, render, type CollectionEntry } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import CoffeeButton from "@/components/CoffeeButton.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { getPeople, lifeYears, personByName } from "@/utils/people"
+import { slugify } from "@/utils/slugify"
+
+export async function getStaticPaths() {
+  const people = await getPeople()
+  return people.map((person) => ({
+    params: { id: person.id },
+    props: { person },
+  }))
+}
+
+interface Props {
+  person: CollectionEntry<"people">
+}
+
+const { person } = Astro.props
+const {
+  name,
+  summary,
+  role,
+  country,
+  side,
+  born,
+  died,
+  birthPlace,
+  deathPlace,
+  authors,
+  tags,
+} = person.data
+const { Content } = await render(person)
+
+const href = `/postacie/${person.id})`
+const people = await getPeople()
+
+// Battles where this person is listed among the commanders.
+const commanded = (
+  await getCollection("battles", ({ data }) => !data.draft)
+)
+  .filter((battle) =>
+    battle.data.sides.some((s) =>
+      s.commanders.some((c) => personByName(people, c)?.id === person.id),
+    ),
+  )
+  .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
+
+// Timeline entries that link to this page.
+const mentions = await getCollection(
+  "timeline",
+  ({ body, data }) => !data.draft && (body ?? "").includes(href),
+)
+const mentionsByYear = groupTimelineEntries(mentions)
+---
+
+<BaseLayout title={`${name} (${lifeYears(person)})`} description={summary}>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-3xl px-6">
+      <a
+        href="/postacie"
+        class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+      >
+        ← Wszystkie postacie
+      </a>
+
+      <p
+        class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase"
+      >
+        {country} · {side}
+      </p>
+
+      <h1
+        class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl"
+      >
+        {name}
+      </h1>
+      <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
+
+      <dl
+        class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]"
+      >
+        <dt>Urodzony:</dt>
+        <dd class="text-ink">
+          {formatDate(born)}{birthPlace && `, ${birthPlace}`}
+        </dd>
+        <dt>Zmarł:</dt>
+        <dd class="text-ink">
+          {formatDate(died)}{deathPlace && `, ${deathPlace}`}
+        </dd>
+        <dt>{authors.length > 1 ? "Autorzy:" : "Autor:"}</dt>
+        <dd>
+          {
+            authors.map((author, index) => (
+              <>
+                {index > 0 && ", "}
+                <a
+                  href={`/autor/${slugify(author)}`}
+                  class="text-ink hover:text-signal transition-colors"
+                >
+                  {author}
+                </a>
+              </>
+            ))
+          }
+        </dd>
+        {
+          tags.length > 0 && (
+            <>
+              <dt>Tagi:</dt>
+              <dd>
+                {tags.map((tag, index) => (
+                  <>
+                    {index > 0 && ", "}
+                    <a
+                      href={`/tag/${slugify(tag)}`}
+                      class="text-ink hover:text-signal transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  </>
+                ))}
+              </dd>
+            </>
+          )
+        }
+      </dl>
+
+      <div
+        class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0"
+      >
+        <CoffeeButton />
+        <Content />
+      </div>
+
+      {
+        commanded.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="Dowodził w bitwach" count={commanded.length} />
+            <ul class="border-line border-t">
+              {commanded.map((battle) => (
+                <li class="border-line hover:border-signal border-b transition-colors">
+                  <a
+                    href={`/bitwy/${battle.id}`}
+                    class="group grid gap-1 py-4 sm:grid-cols-[12rem_1fr] sm:gap-4"
+                  >
+                    <span class="text-ink-soft font-mono text-xs leading-6">
+                      {formatDateRange(battle.data.startDate, battle.data.endDate)}
+                    </span>
+                    <span class="min-w-0">
+                      <span class="text-ink group-hover:text-signal block transition-colors">
+                        {battle.data.title}
+                      </span>
+                      <span class="text-ink-soft mt-1 block text-xs leading-5">
+                        {battle.data.front}
+                      </span>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        mentions.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="Na osi czasu" count={mentions.length} />
+            <TimelineArchive
+              timelineByYear={mentionsByYear}
+              renderAllYears={true}
+              showYearNav={false}
+              showBackLink={false}
+            />
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>

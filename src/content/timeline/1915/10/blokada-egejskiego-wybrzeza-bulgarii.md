@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 października 1915 roku o 6.00 rano zaczęła obowiązywać [blokada morska](https://pl.wikipedia.org/wiki/Blokada_morska) bułgarskiego wybrzeża [Morza Egejskiego](https://pl.wikipedia.org/wiki/Morze_Egejskie). Ogłosił ją wiceadmirał John de Robeck, dowódca sprzymierzonej eskadry wschodniej części Morza Śródziemnego, złożonej głównie z okrętów brytyjskich i francuskich. Statki państw neutralnych dostały 48 godzin na opuszczenie blokowanego obszaru. Jeszcze tego samego dnia brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) zawiadomił o blokadzie rządy państw neutralnych. Jego nota do ambasadora Stanów Zjednoczonych w Londynie trafiła do opublikowanych potem amerykańskich dokumentów dyplomatycznych. Rząd francuski przesłał Waszyngtonowi takie samo zawiadomienie dwa dni później.
+16 października 1915 roku o 6.00 rano zaczęła obowiązywać [blokada morska](https://pl.wikipedia.org/wiki/Blokada_morska) bułgarskiego wybrzeża [Morza Egejskiego](https://pl.wikipedia.org/wiki/Morze_Egejskie). Ogłosił ją wiceadmirał John de Robeck, dowódca sprzymierzonej eskadry wschodniej części Morza Śródziemnego, złożonej głównie z okrętów brytyjskich i francuskich. Statki państw neutralnych dostały 48 godzin na opuszczenie blokowanego obszaru. Jeszcze tego samego dnia brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) zawiadomił o blokadzie rządy państw neutralnych. Jego nota do ambasadora Stanów Zjednoczonych w Londynie trafiła do opublikowanych potem amerykańskich dokumentów dyplomatycznych. Rząd francuski przesłał Waszyngtonowi takie samo zawiadomienie dwa dni później.
 
 ## Odpowiedź na wejście Bułgarii do wojny
 

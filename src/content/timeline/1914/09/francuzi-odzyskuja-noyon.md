@@ -15,9 +15,9 @@ Brytyjska chronologia wojny odnotowuje pod datą 21 września 1914 roku odzyskan
 
 ## Obejść niemieckie skrzydło
 
-Po bitwie nad Marną Niemcy okopali się nad Aisne i frontalne ataki na ich pozycje nie przynosiły skutku. Obie strony zaczęły więc przesuwać wojska na zachód i na północ, próbując obejść otwarte skrzydło przeciwnika. Ten ciąg manewrów przeszedł do historii jako wyścig do morza. Noyon, leżące tuż na północ od Oise, znalazło się na samym początku tej drogi.
+Po bitwie nad Marną Niemcy okopali się nad Aisne i frontalne ataki na ich pozycje nie przynosiły skutku. Obie strony zaczęły więc przesuwać wojska na zachód i na północ, próbując obejść otwarte skrzydło przeciwnika. Ten ciąg manewrów przeszedł do historii jako [wyścig do morza](/bitwy/wyscig-do-morza). Noyon, leżące tuż na północ od Oise, znalazło się na samym początku tej drogi.
 
-Już od 17 września lewe skrzydło francuskiej 6 Armii nacierało wzdłuż Oise w stronę Noyon i trafiło na prawe skrzydło niemieckiej 1 Armii. Kilka dni ciężkich walk nie przyniosło przełomu. Tymczasem na lewym skrzydle Francuzów zbierała się nowa 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau), która 20 września rozpoczęła natarcie w kierunku Noyon i Péronne.
+Już od 17 września lewe skrzydło francuskiej 6 Armii nacierało wzdłuż Oise w stronę Noyon i trafiło na prawe skrzydło niemieckiej 1 Armii. Kilka dni ciężkich walk nie przyniosło przełomu. Tymczasem na lewym skrzydle Francuzów zbierała się nowa 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau), która 20 września rozpoczęła natarcie w kierunku Noyon i Péronne.
 
 ## Wejście i odwrót
 

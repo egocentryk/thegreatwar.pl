@@ -25,7 +25,7 @@ Viviani wysłuchał noty w milczeniu, po czym stanowczo zaprotestował przeciw n
 
 Wypowiedzenie wojny było formalnym zamknięciem sprawy, o której od dawna przesądzały niemieckie plany wojenne. [Plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena) zakładał, że w razie wojny z Rosją Niemcy najpierw szybko pokonają Francję, uderzając na nią przez terytorium Belgii, a dopiero potem przerzucą główne siły na wschód. Dlatego po wypowiedzeniu wojny Rosji 1 sierpnia Berlin nie mógł czekać, aż Francja sama zdecyduje o przystąpieniu do konfliktu.
 
-Francja również była przygotowana do wojny. Od klęski w [wojnie francusko-pruskiej](https://pl.wikipedia.org/wiki/Wojna_francusko-pruska) i utraty [Alzacji i Lotaryngii](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia) w 1871 roku odzyskanie tych prowincji pozostawało jednym z celów francuskiej polityki. Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) planował ofensywę właśnie w Lotaryngii i Alzacji.
+Francja również była przygotowana do wojny. Od klęski w [wojnie francusko-pruskiej](https://pl.wikipedia.org/wiki/Wojna_francusko-pruska) i utraty [Alzacji i Lotaryngii](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia) w 1871 roku odzyskanie tych prowincji pozostawało jednym z celów francuskiej polityki. Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) planował ofensywę właśnie w Lotaryngii i Alzacji.
 
 ## Święte zjednoczenie
 

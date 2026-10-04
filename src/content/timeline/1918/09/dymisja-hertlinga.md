@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 września 1918 roku w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)) cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) podpisał erlas, którym przyjął dymisję kanclerza Rzeszy i premiera Prus hrabiego [Georga von Hertlinga](https://pl.wikipedia.org/wiki/Georg_von_Hertling). W tym samym dokumencie zapowiedział zmianę ustroju: naród niemiecki miał odtąd skuteczniej niż dotąd współdecydować o losach państwa, a ludzie cieszący się jego zaufaniem mieli w szerokim zakresie uczestniczyć w prawach i obowiązkach rządu. Była to zapowiedź rządu parlamentarnego, o który partie większości w Reichstagu zabiegały od ponad roku. 74-letni Hertling, który [od 1 listopada 1917 roku](/hertling-kanclerzem-rzeszy) kierował rządem Rzeszy, nie chciał prowadzić takiego gabinetu i odszedł. Do czasu powołania następcy pełnił jeszcze obowiązki.
+30 września 1918 roku w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)) cesarz [Wilhelm II](/postacie/wilhelm-ii) podpisał erlas, którym przyjął dymisję kanclerza Rzeszy i premiera Prus hrabiego [Georga von Hertlinga](https://pl.wikipedia.org/wiki/Georg_von_Hertling). W tym samym dokumencie zapowiedział zmianę ustroju: naród niemiecki miał odtąd skuteczniej niż dotąd współdecydować o losach państwa, a ludzie cieszący się jego zaufaniem mieli w szerokim zakresie uczestniczyć w prawach i obowiązkach rządu. Była to zapowiedź rządu parlamentarnego, o który partie większości w Reichstagu zabiegały od ponad roku. 74-letni Hertling, który [od 1 listopada 1917 roku](/hertling-kanclerzem-rzeszy) kierował rządem Rzeszy, nie chciał prowadzić takiego gabinetu i odszedł. Do czasu powołania następcy pełnił jeszcze obowiązki.
 
 ## Kanclerz w kleszczach
 

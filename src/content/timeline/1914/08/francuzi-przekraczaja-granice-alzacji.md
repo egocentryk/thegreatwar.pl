@@ -18,7 +18,7 @@ Rano 7 sierpnia 1914 roku wojska francuskie przekroczyły granicę [Alzacji](htt
 
 Do natarcia ruszył VII Korpus generała Louisa Bonneau, stacjonujący w rejonie [Belfortu](https://pl.wikipedia.org/wiki/Belfort). Żołnierze z entuzjazmem wyrywali niemieckie słupy graniczne, a relacje z pierwszych godzin ofensywy wywołały we Francji wielką radość. Tego samego dnia Francuzi zajęli miasteczko Thann u podnóża Wogezów, a po krótkiej potyczce szturmem na bagnety zdobyli [Altkirch](https://pl.wikipedia.org/wiki/Altkirch).
 
-Wieczorem 8 sierpnia oddziały francuskie wkroczyły do [Miluzy](https://pl.wikipedia.org/wiki/Miluza), dużego ośrodka przemysłowego, gdzie część mieszkańców powitała je entuzjastycznie. Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) ogłosił w odezwie do Alzatczyków, że francuscy żołnierze przybywają jako pierwsi robotnicy wielkiego dzieła odwetu.
+Wieczorem 8 sierpnia oddziały francuskie wkroczyły do [Miluzy](https://pl.wikipedia.org/wiki/Miluza), dużego ośrodka przemysłowego, gdzie część mieszkańców powitała je entuzjastycznie. Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) ogłosił w odezwie do Alzatczyków, że francuscy żołnierze przybywają jako pierwsi robotnicy wielkiego dzieła odwetu.
 
 ## Krótki triumf
 

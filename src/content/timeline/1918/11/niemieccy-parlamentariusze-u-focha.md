@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 listopada 1918 roku około siódmej rano na bocznicy w [lesie Compiègne](https://pl.wikipedia.org/wiki/Las_Compiègne), niedaleko stacji [Rethondes](https://pl.wikipedia.org/wiki/Rethondes), zatrzymał się pociąg z niemieckimi pełnomocnikami do rokowań rozejmowych. Obok stał już pociąg specjalny marszałka [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), który przyjechał tu poprzedniego wieczoru z kwatery głównej w Senlis. Oba składy ustawiono na torach zbudowanych dla ciężkich dział kolejowych, z dala od ciekawskich i dziennikarzy. Na czele delegacji stał sekretarz stanu [Matthias Erzberger](https://pl.wikipedia.org/wiki/Matthias_Erzberger). Towarzyszyli mu dyplomata hrabia Alfred von Oberndorff, generał major Detlof von Winterfeldt i komandor Ernst Vanselow z marynarki wojennej.
+8 listopada 1918 roku około siódmej rano na bocznicy w [lesie Compiègne](https://pl.wikipedia.org/wiki/Las_Compiègne), niedaleko stacji [Rethondes](https://pl.wikipedia.org/wiki/Rethondes), zatrzymał się pociąg z niemieckimi pełnomocnikami do rokowań rozejmowych. Obok stał już pociąg specjalny marszałka [Ferdinanda Focha](/postacie/ferdinand-foch), który przyjechał tu poprzedniego wieczoru z kwatery głównej w Senlis. Oba składy ustawiono na torach zbudowanych dla ciężkich dział kolejowych, z dala od ciekawskich i dziennikarzy. Na czele delegacji stał sekretarz stanu [Matthias Erzberger](https://pl.wikipedia.org/wiki/Matthias_Erzberger). Towarzyszyli mu dyplomata hrabia Alfred von Oberndorff, generał major Detlof von Winterfeldt i komandor Ernst Vanselow z marynarki wojennej.
 
 ## Przez linię frontu
 

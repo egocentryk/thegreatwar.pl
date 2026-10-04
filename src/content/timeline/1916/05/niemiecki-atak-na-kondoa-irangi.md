@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 9 maja 1916 roku wojska [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) zaatakowały 2 Dywizję generała Jacoba van Deventera pod Kondoa Irangi, w środkowej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Walka trwała do wczesnych godzin 10 maja i skończyła się niemiecką porażką. Brytyjska chronologia wojny umieszcza ten atak pod 9 i 10 czerwca, ale to pomyłka o miesiąc: brytyjska historia oficjalna (Hordern), południowoafrykańska historia oficjalna i raport generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) z października 1916 roku zgodnie datują go na noc z 9 na 10 maja.
+Wieczorem 9 maja 1916 roku wojska [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) zaatakowały 2 Dywizję generała Jacoba van Deventera pod Kondoa Irangi, w środkowej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Walka trwała do wczesnych godzin 10 maja i skończyła się niemiecką porażką. Brytyjska chronologia wojny umieszcza ten atak pod 9 i 10 czerwca, ale to pomyłka o miesiąc: brytyjska historia oficjalna (Hordern), południowoafrykańska historia oficjalna i raport generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) z października 1916 roku zgodnie datują go na noc z 9 na 10 maja.
 
 ## Lettow-Vorbeck zmienia front
 

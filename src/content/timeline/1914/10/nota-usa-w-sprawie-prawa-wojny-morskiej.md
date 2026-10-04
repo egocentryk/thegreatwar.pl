@@ -16,7 +16,7 @@ draft: false
 
 Waszyngton zaproponował przyjęcie deklaracji już 6 sierpnia. Państwa centralne zgodziły się na nią [pod warunkiem wzajemności](/niemcy-akceptuja-deklaracje-londynska), ale Wielka Brytania i [Francja](/francja-deklaracja-londynska-z-modyfikacjami) chciały ją stosować tylko z własnymi zmianami, które pozwalały im ściślej kontrolować handel morski. Przez całą jesień Amerykanie próbowali skłonić Londyn do przyjęcia deklaracji bez zastrzeżeń. Brytyjczycy zaproponowali nawet nowe zarządzenie Rady Królewskiej w miejsce sierpniowego, ale Departament Stanu uznał, że nadal zbyt mocno ogranicza ono prawa neutralnych.
 
-19 października Page zameldował, że minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) ostatecznie odmówił. Parlament nie ratyfikował deklaracji, a jej postanowienia zakazywały uznania za kontrabandę takich towarów jak kauczuk czy ruda żelaza, które Niemcy [wykorzystywały głównie do produkcji wojennej](/nowa-brytyjska-lista-kontrabandy). Londyn chciał też zachować prawo zatrzymywania ładunków płynących do Niemiec przez porty neutralne, na przykład holenderskie.
+19 października Page zameldował, że minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) ostatecznie odmówił. Parlament nie ratyfikował deklaracji, a jej postanowienia zakazywały uznania za kontrabandę takich towarów jak kauczuk czy ruda żelaza, które Niemcy [wykorzystywały głównie do produkcji wojennej](/nowa-brytyjska-lista-kontrabandy). Londyn chciał też zachować prawo zatrzymywania ładunków płynących do Niemiec przez porty neutralne, na przykład holenderskie.
 
 ## Nota Lansinga
 

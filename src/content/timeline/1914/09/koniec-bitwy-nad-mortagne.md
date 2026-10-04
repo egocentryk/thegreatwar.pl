@@ -12,17 +12,17 @@ milestone: false
 draft: false
 ---
 
-3 września 1914 roku, według brytyjskiej chronologii wojny, zakończyła się bitwa nad Mortagne w Lotaryngii. Przez dziesięć dni francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) odpierały niemieckie natarcie na przesmyk Charmes, a potem same próbowały zepchnąć Niemców na wschód. Na początku września front między [Nancy](https://pl.wikipedia.org/wiki/Nancy) a Wogezami zastygł.
+3 września 1914 roku, według brytyjskiej chronologii wojny, zakończyła się bitwa nad Mortagne w Lotaryngii. Przez dziesięć dni francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) odpierały niemieckie natarcie na przesmyk Charmes, a potem same próbowały zepchnąć Niemców na wschód. Na początku września front między [Nancy](https://pl.wikipedia.org/wiki/Nancy) a Wogezami zastygł.
 
 ## Od zwycięstwa do okopów
 
-Decydujące starcia rozegrały się 24–26 sierpnia pod Gerbéviller i [Rozelieures](https://pl.wikipedia.org/wiki/Rozelieures), gdzie francuska artyleria zatrzymała niemieckie korpusy [w najgroźniejszym momencie](/poczatek-bitwy-nad-mortagne). Później walki zmieniły charakter. Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach) i 7 Armia generała Josiasa von Heeringena okopały się na wzgórzach między Mortagne a [Meurthe](https://pl.wikipedia.org/wiki/Meurthe) oraz przed [Lunéville](https://pl.wikipedia.org/wiki/Lunéville), które wciąż zajmowały. Francuzi odbili Gerbéviller i przekroczyli Mortagne, ale ataki na umocnione pozycje przynosiły im tylko niewielkie zdobycze terenu przy dużych stratach.
+Decydujące starcia rozegrały się 24–26 sierpnia pod Gerbéviller i [Rozelieures](https://pl.wikipedia.org/wiki/Rozelieures), gdzie francuska artyleria zatrzymała niemieckie korpusy [w najgroźniejszym momencie](/poczatek-bitwy-nad-mortagne). Później walki zmieniły charakter. Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) i 7 Armia generała Josiasa von Heeringena okopały się na wzgórzach między Mortagne a [Meurthe](https://pl.wikipedia.org/wiki/Meurthe) oraz przed [Lunéville](https://pl.wikipedia.org/wiki/Lunéville), które wciąż zajmowały. Francuzi odbili Gerbéviller i przekroczyli Mortagne, ale ataki na umocnione pozycje przynosiły im tylko niewielkie zdobycze terenu przy dużych stratach.
 
 Francuscy historycy zwykle zamykają samą bitwę o przesmyk Charmes w dniach 24–26 sierpnia, a starcia z końca sierpnia i początku września uznają za jej dalszy ciąg. Data 3 września, podawana przez brytyjską chronologię, oznacza koniec tej fazy walk: następnego dnia Niemcy uderzyli w innym miejscu.
 
 ## Front osłabiony, ale bezpieczny
 
-Na przełomie sierpnia i września naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) zaczął zabierać z Lotaryngii całe korpusy i przerzucać je koleją na zachód, gdzie przygotowywał kontrofensywę przeciw niemieckiemu prawemu skrzydłu zbliżającemu się do Paryża. Castelnau i Dubail musieli bronić swoich odcinków mniejszymi siłami, w dużej części złożonymi z dywizji rezerwowych.
+Na przełomie sierpnia i września naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) zaczął zabierać z Lotaryngii całe korpusy i przerzucać je koleją na zachód, gdzie przygotowywał kontrofensywę przeciw niemieckiemu prawemu skrzydłu zbliżającemu się do Paryża. Castelnau i Dubail musieli bronić swoich odcinków mniejszymi siłami, w dużej części złożonymi z dywizji rezerwowych.
 
 Niemieckie dowództwo nie zamierzało jednak odpuścić. Książę Rupprecht zgromadził ciężką artylerię i przygotował nowe natarcie. Tym razem celem nie był przesmyk Charmes, lecz Nancy, stolica francuskiej Lotaryngii, i broniące jej od północnego wschodu wzgórza zwane Grand Couronné. Nowa bitwa zaczęła się 4 września.
 

@@ -15,7 +15,7 @@ draft: false
 
 ## Prośba z Londynu
 
-Kilka dni po wybuchu wojny rząd brytyjski zwrócił się do Nowej Zelandii z prośbą o zajęcie niemieckiej kolonii na Samoa. Chodziło przede wszystkim o radiostację w Apii, która mogła służyć niemieckim okrętom na Pacyfiku, w tym eskadrze admirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee). Nowozelandczycy szybko sformowali ponad 1400-osobowy oddział, nazwany Samoańskim Oddziałem Wysuniętym Nowozelandzkich Sił Ekspedycyjnych. Dowodził nim podpułkownik Robert Logan.
+Kilka dni po wybuchu wojny rząd brytyjski zwrócił się do Nowej Zelandii z prośbą o zajęcie niemieckiej kolonii na Samoa. Chodziło przede wszystkim o radiostację w Apii, która mogła służyć niemieckim okrętom na Pacyfiku, w tym eskadrze admirała [Maximiliana von Spee](/postacie/maximilian-von-spee). Nowozelandczycy szybko sformowali ponad 1400-osobowy oddział, nazwany Samoańskim Oddziałem Wysuniętym Nowozelandzkich Sił Ekspedycyjnych. Dowodził nim podpułkownik Robert Logan.
 
 15 sierpnia dwa transportowce wypłynęły z [Wellington](https://pl.wikipedia.org/wiki/Wellington). Ponieważ niemiecka eskadra mogła przebywać gdzieś na Pacyfiku, konwój płynął pod silną eskortą. W [Nowej Kaledonii](https://pl.wikipedia.org/wiki/Nowa_Kaledonia) dołączyły do niego australijski krążownik liniowy [HMAS Australia](https://pl.wikipedia.org/wiki/HMAS_Australia_(1911)), krążownik HMAS Melbourne i francuski krążownik pancerny [Montcalm](https://pl.wikipedia.org/wiki/Montcalm_(1900)).
 

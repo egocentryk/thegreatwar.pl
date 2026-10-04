@@ -17,7 +17,7 @@ tags: [Imperium Osmańskie, Wielka Brytania, Azerbejdżan, Kaukaz]
 milestone: false
 ---
 
-Bitwa o Baku była ostatnim akordem tureckiego marszu nad Morze Kaspijskie w 1918 roku. Miasto, z jego polami naftowymi i największym portem na Kaspiku, broniły oddziały Dyktatury Centrokaspijskiej, w większości ormiańskie, i niewielki oddział brytyjski generała majora Lionela Dunsterville'a, nieco ponad tysiąc piechurów z angielskiej 39 Brygady Piechoty. Przeciwko nim stała [Kaukaska Armia Islamu](https://pl.wikipedia.org/wiki/Kaukaska_Armia_Islamu) Nuriego Paszy, brata ministra wojny [Envera Paszy](https://pl.wikipedia.org/wiki/İsmail_Enver): tureckie dywizje i azerbejdżańscy ochotnicy. Po trzech tygodniach walk na przedpolach, 14 września, Turcy przełamali obronę. W nocy Brytyjczycy odpłynęli do Persji, a następnego dnia miasto zajęła Armia Islamu. Towarzyszyła temu rzeź tysięcy Ormian.
+Bitwa o Baku była ostatnim akordem tureckiego marszu nad Morze Kaspijskie w 1918 roku. Miasto, z jego polami naftowymi i największym portem na Kaspiku, broniły oddziały Dyktatury Centrokaspijskiej, w większości ormiańskie, i niewielki oddział brytyjski generała majora Lionela Dunsterville'a, nieco ponad tysiąc piechurów z angielskiej 39 Brygady Piechoty. Przeciwko nim stała [Kaukaska Armia Islamu](https://pl.wikipedia.org/wiki/Kaukaska_Armia_Islamu) Nuriego Paszy, brata ministra wojny [Envera Paszy](/postacie/enver-pasza): tureckie dywizje i azerbejdżańscy ochotnicy. Po trzech tygodniach walk na przedpolach, 14 września, Turcy przełamali obronę. W nocy Brytyjczycy odpłynęli do Persji, a następnego dnia miasto zajęła Armia Islamu. Towarzyszyła temu rzeź tysięcy Ormian.
 
 ## Nazwa i daty
 

@@ -28,7 +28,7 @@ Dla [Niemców bałtyckich](https://pl.wikipedia.org/wiki/Niemcy_bałtyccy), od s
 
 ## Cesarz w Rydze
 
-W Niemczech zdobycie Rygi przyjęto z entuzjazmem. Biły dzwony, w kościołach odprawiano nabożeństwa dziękczynne, miasta udekorowano flagami. Prasa i wszechniemieccy politycy pisali, że Ryga, założona przez Hanzę, jest w głębi duszy niemiecka i na zawsze pozostanie przy Rzeszy. Cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) w rozkazie do 8 Armii ogłosił: „Ryga jest wolna” i pisał o mieście, które przez wieki strzegło swojego niemieckiego pochodzenia, a teraz zostało uwolnione od długiego ucisku. Ofiarował 100 tysięcy marek na ryskie instytucje dobroczynne. Kilka dni później, 6 albo 7 września (źródła się różnią), przyjechał do Rygi osobiście i odebrał na esplanadzie defiladę zwycięskich wojsk. Na tę okazję kompozytor Karl Hagen napisał „Ryski marsz wjazdowy” (Rigaer Einzugsmarsch).
+W Niemczech zdobycie Rygi przyjęto z entuzjazmem. Biły dzwony, w kościołach odprawiano nabożeństwa dziękczynne, miasta udekorowano flagami. Prasa i wszechniemieccy politycy pisali, że Ryga, założona przez Hanzę, jest w głębi duszy niemiecka i na zawsze pozostanie przy Rzeszy. Cesarz [Wilhelm II](/postacie/wilhelm-ii) w rozkazie do 8 Armii ogłosił: „Ryga jest wolna” i pisał o mieście, które przez wieki strzegło swojego niemieckiego pochodzenia, a teraz zostało uwolnione od długiego ucisku. Ofiarował 100 tysięcy marek na ryskie instytucje dobroczynne. Kilka dni później, 6 albo 7 września (źródła się różnią), przyjechał do Rygi osobiście i odebrał na esplanadzie defiladę zwycięskich wojsk. Na tę okazję kompozytor Karl Hagen napisał „Ryski marsz wjazdowy” (Rigaer Einzugsmarsch).
 
 ## Strach w Piotrogrodzie
 

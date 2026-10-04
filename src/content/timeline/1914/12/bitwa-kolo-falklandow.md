@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 grudnia 1914 roku na południowym Atlantyku, u wybrzeży [Falklandów](https://pl.wikipedia.org/wiki/Falklandy), brytyjski zespół wiceadmirała [Dovetona Sturdeego](https://pl.wikipedia.org/wiki/Doveton_Sturdee) zniszczył niemiecką Eskadrę Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](https://pl.wikipedia.org/wiki/Maximilian_von_Spee). Poszły na dno krążowniki pancerne Scharnhorst i Gneisenau oraz krążowniki lekkie Leipzig i Nürnberg. Zginął Spee, jego dwaj synowie i około 1900 niemieckich marynarzy. Ocalał tylko krążownik lekki [Dresden](https://pl.wikipedia.org/wiki/SMS_Dresden_(1907)), który zdołał uciec.
+8 grudnia 1914 roku na południowym Atlantyku, u wybrzeży [Falklandów](https://pl.wikipedia.org/wiki/Falklandy), brytyjski zespół wiceadmirała [Dovetona Sturdeego](https://pl.wikipedia.org/wiki/Doveton_Sturdee) zniszczył niemiecką Eskadrę Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee). Poszły na dno krążowniki pancerne Scharnhorst i Gneisenau oraz krążowniki lekkie Leipzig i Nürnberg. Zginął Spee, jego dwaj synowie i około 1900 niemieckich marynarzy. Ocalał tylko krążownik lekki [Dresden](https://pl.wikipedia.org/wiki/SMS_Dresden_(1907)), który zdołał uciec.
 
 ## Niespodzianka w Port Stanley
 

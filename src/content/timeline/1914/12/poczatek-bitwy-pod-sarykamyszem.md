@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 29 grudnia 1914 roku początek bitwy pod Sarykamyszem (tur. Sarıkamış), w małym miasteczku ze stacją kolejową na rosyjskim Kaukazie, kilkadziesiąt kilometrów od twierdzy [Kars](https://pl.wikipedia.org/wiki/Kars). W rzeczywistości osmańska 3 Armia pod dowództwem ministra wojny [Envera Paszy](https://pl.wikipedia.org/wiki/İsmail_Enver) ruszyła do natarcia już tydzień wcześniej, 22 grudnia, po [przygotowaniach](/turecka-ofensywa-na-kaukazie), które brytyjska chronologia uznała za początek ofensywy. 29 grudnia był jednak jednym z kluczowych dni walk o samo miasteczko.
+Brytyjska chronologia wojny odnotowuje pod 29 grudnia 1914 roku początek bitwy pod Sarykamyszem (tur. Sarıkamış), w małym miasteczku ze stacją kolejową na rosyjskim Kaukazie, kilkadziesiąt kilometrów od twierdzy [Kars](https://pl.wikipedia.org/wiki/Kars). W rzeczywistości osmańska 3 Armia pod dowództwem ministra wojny [Envera Paszy](/postacie/enver-pasza) ruszyła do natarcia już tydzień wcześniej, 22 grudnia, po [przygotowaniach](/turecka-ofensywa-na-kaukazie), które brytyjska chronologia uznała za początek ofensywy. 29 grudnia był jednak jednym z kluczowych dni walk o samo miasteczko.
 
 ## Marsz przez góry
 

@@ -21,13 +21,13 @@ milestone: true
 
 ## Dwie armie rosyjskie
 
-Rosja uderzyła na Prusy Wschodnie dwiema armiami. Od wschodu nacierała 1 Armia generała Paula von Rennenkampfa, która 20 sierpnia odparła Niemców pod Gąbinem. Od południa, z terenów Królestwa Polskiego, wkroczyła 2 Armia generała [Aleksandra Samsonowa](https://pl.wikipedia.org/wiki/Aleksandr_Samsonow). Obie armie miały zamknąć Niemców w kleszczach, ale dzieliły je jeziora mazurskie, a ich dowódcy słabo współpracowali.
+Rosja uderzyła na Prusy Wschodnie dwiema armiami. Od wschodu nacierała 1 Armia generała Paula von Rennenkampfa, która 20 sierpnia odparła Niemców pod Gąbinem. Od południa, z terenów Królestwa Polskiego, wkroczyła 2 Armia generała [Aleksandra Samsonowa](/postacie/aleksandr-samsonow). Obie armie miały zamknąć Niemców w kleszczach, ale dzieliły je jeziora mazurskie, a ich dowódcy słabo współpracowali.
 
 Samsonow parł naprzód w pośpiechu. Jego żołnierze byli wyczerpani marszem po piaszczystych drogach, brakowało im żywności i łączności. Rosyjskie sztaby nadawały rozkazy przez radio otwartym tekstem, bez szyfrowania, a Niemcy je przechwytywali.
 
 ## Nowe dowództwo
 
-23 sierpnia do sztabu niemieckiej 8 Armii w Malborku przybyli nowi dowódcy: generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) i jego szef sztabu [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff). Przyjęli plan przygotowany przez oficera sztabu, podpułkownika [Maxa Hoffmanna](https://pl.wikipedia.org/wiki/Max_Hoffmann). Przeciw Rennenkampfowi zostawiono jedynie słabą osłonę, a większość sił przerzucono koleją i marszem na południe, przeciw Samsonowowi. Tego samego dnia rosyjskie korpusy starły się z niemieckim XX Korpusem generała [Friedricha von Scholtza](https://pl.wikipedia.org/wiki/Friedrich_von_Scholtz) w rejonie [Nidzicy](https://pl.wikipedia.org/wiki/Nidzica).
+23 sierpnia do sztabu niemieckiej 8 Armii w Malborku przybyli nowi dowódcy: generał [Paul von Hindenburg](/postacie/paul-von-hindenburg) i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff). Przyjęli plan przygotowany przez oficera sztabu, podpułkownika [Maxa Hoffmanna](https://pl.wikipedia.org/wiki/Max_Hoffmann). Przeciw Rennenkampfowi zostawiono jedynie słabą osłonę, a większość sił przerzucono koleją i marszem na południe, przeciw Samsonowowi. Tego samego dnia rosyjskie korpusy starły się z niemieckim XX Korpusem generała [Friedricha von Scholtza](https://pl.wikipedia.org/wiki/Friedrich_von_Scholtz) w rejonie [Nidzicy](https://pl.wikipedia.org/wiki/Nidzica).
 
 ## Okrążenie
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 16 listopada 1914 roku początek drugiej niemieckiej ofensywy na Warszawę i bitwy pod Łodzią. Tego dnia niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen), która od pięciu dni posuwała się znad Wisły w głąb Królestwa Polskiego, przekroczyła [Bzurę](https://pl.wikipedia.org/wiki/Bzura). Rosyjska 2 Armia cofała się w stronę [Łodzi](https://pl.wikipedia.org/wiki/Łódź), a walki zaczęły się przenosić na przedpola miasta.
+Brytyjska chronologia wojny notuje pod datą 16 listopada 1914 roku początek drugiej niemieckiej ofensywy na Warszawę i bitwy pod Łodzią. Tego dnia niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Augusta von Mackensena](/postacie/august-von-mackensen), która od pięciu dni posuwała się znad Wisły w głąb Królestwa Polskiego, przekroczyła [Bzurę](https://pl.wikipedia.org/wiki/Bzura). Rosyjska 2 Armia cofała się w stronę [Łodzi](https://pl.wikipedia.org/wiki/Łódź), a walki zaczęły się przenosić na przedpola miasta.
 
 ## Dlaczego 16 listopada
 
@@ -22,9 +22,9 @@ Nazwa „druga ofensywa na Warszawę” nawiązuje do października, gdy Niemcy 
 
 ## Uderzenie spod Torunia
 
-Po [bitwie pod Warszawą i Dęblinem](/bitwy/bitwa-pod-warszawa-i-deblinem) Rosjanie odzyskali prawie całe Królestwo Polskie. Naczelny wódz, wielki książę [Mikołaj Mikołajewicz](https://pl.wikipedia.org/wiki/Mikołaj_Romanow_(1856–1929)), szykował wielką ofensywę na Śląsk i w głąb Niemiec, która według angielskiej Wikipedii miała ruszyć 14 listopada. Niemcy znali te plany z przechwyconych rosyjskich depesz radiowych. [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg), od 1 listopada naczelny dowódca wojsk niemieckich na wschodzie, i jego szef sztabu [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) przerzucili koleją 9 Armię spod Częstochowy i Kalisza w rejon [Torunia](https://pl.wikipedia.org/wiki/Toruń).
+Po [bitwie pod Warszawą i Dęblinem](/bitwy/bitwa-pod-warszawa-i-deblinem) Rosjanie odzyskali prawie całe Królestwo Polskie. Naczelny wódz, wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), szykował wielką ofensywę na Śląsk i w głąb Niemiec, która według angielskiej Wikipedii miała ruszyć 14 listopada. Niemcy znali te plany z przechwyconych rosyjskich depesz radiowych. [Paul von Hindenburg](/postacie/paul-von-hindenburg), od 1 listopada naczelny dowódca wojsk niemieckich na wschodzie, i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) przerzucili koleją 9 Armię spod Częstochowy i Kalisza w rejon [Torunia](https://pl.wikipedia.org/wiki/Toruń).
 
-11 listopada Niemcy zaatakowali pod Włocławkiem V Korpus Syberyjski z 1 Armii generała [Paula von Rennenkampfa](https://pl.wikipedia.org/wiki/Paul_von_Rennenkampf) i odrzucili go na wschód. Między 1 a 2 Armią powstała luka, w którą weszli Niemcy. Po zaciętych walkach 15 listopada zajęli Kutno, a następnego dnia przeszli przez Bzurę. Dowódca 2 Armii, generał [Siergiej Scheidemann](https://pl.wikipedia.org/wiki/Siergiej_Scheidemann), wycofywał swoje korpusy w stronę Łodzi i ustawiał je frontem na północ.
+11 listopada Niemcy zaatakowali pod Włocławkiem V Korpus Syberyjski z 1 Armii generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf) i odrzucili go na wschód. Między 1 a 2 Armią powstała luka, w którą weszli Niemcy. Po zaciętych walkach 15 listopada zajęli Kutno, a następnego dnia przeszli przez Bzurę. Dowódca 2 Armii, generał [Siergiej Scheidemann](https://pl.wikipedia.org/wiki/Siergiej_Scheidemann), wycofywał swoje korpusy w stronę Łodzi i ustawiał je frontem na północ.
 
 ## Rosjanie odwołują marsz na Śląsk
 

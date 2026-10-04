@@ -15,7 +15,7 @@ Brytyjska kronika wojny odnotowuje pod datą 9 października 1914 roku, z zastrz
 
 ## Kawaleria nad Leie
 
-Na początku października 1914 roku zachodnia Flandria nie była jeszcze polem bitwy, ale coraz częściej pojawiały się w niej niemieckie patrole kawalerii. Korpusy kawalerii, które w czasie wyścigu do morza szukały otwartego skrzydła aliantów, zapuszczały się daleko na północ od frontu. 7 października jedna z niemieckich dywizji kawalerii [weszła na krótko do Ypres](/niemiecka-kawaleria-w-ypres). Na początku miesiąca ułani dotarli też do mostu na Leie w pobliskim [Wervik](https://pl.wikipedia.org/wiki/Wervik), a dzień później przeprawili się przez rzekę i zajęli miasteczko. Już 5 października flamandzki pisarz Stijn Streuvels, mieszkający niedaleko Kortrijk, zapisał w dzienniku pogłoskę o „masach niemieckich wojsk” w Menin.
+Na początku października 1914 roku zachodnia Flandria nie była jeszcze polem bitwy, ale coraz częściej pojawiały się w niej niemieckie patrole kawalerii. Korpusy kawalerii, które w czasie [wyścigu do morza](/bitwy/wyscig-do-morza) szukały otwartego skrzydła aliantów, zapuszczały się daleko na północ od frontu. 7 października jedna z niemieckich dywizji kawalerii [weszła na krótko do Ypres](/niemiecka-kawaleria-w-ypres). Na początku miesiąca ułani dotarli też do mostu na Leie w pobliskim [Wervik](https://pl.wikipedia.org/wiki/Wervik), a dzień później przeprawili się przez rzekę i zajęli miasteczko. Już 5 października flamandzki pisarz Stijn Streuvels, mieszkający niedaleko Kortrijk, zapisał w dzienniku pogłoskę o „masach niemieckich wojsk” w Menin.
 
 ## Kiedy Niemcy zajęli miasto
 

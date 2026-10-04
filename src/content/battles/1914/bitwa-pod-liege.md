@@ -28,7 +28,7 @@ Niemcy nie zamierzali prowadzić długiego oblężenia. Specjalne zgrupowanie sz
 
 4 sierpnia wojska niemieckie przekroczyły granicę w Gemmenich i ruszyły w stronę Mozy. W nocy z 5 na 6 sierpnia zaatakowały w lukach między fortami, ponosząc ciężkie straty od ognia belgijskiej piechoty i artylerii. 6 sierpnia nad miastem pojawił się niemiecki sterowiec, który zrzucił bomby na Liège, zabijając kilkoro cywilów.
 
-Jednej z brygad udało się przedrzeć przez linię obrony. Gdy jej dowódca zginął, kierowanie nią przejął oficer sztabowy [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff). 7 sierpnia jego żołnierze wkroczyli do miasta i zajęli cytadelę. Król Albert I wycofał wcześniej belgijską dywizję polową z Liège, by nie dopuścić do jej okrążenia. Forty, odcięte od siebie, broniły się jednak dalej.
+Jednej z brygad udało się przedrzeć przez linię obrony. Gdy jej dowódca zginął, kierowanie nią przejął oficer sztabowy [Erich Ludendorff](/postacie/erich-ludendorff). 7 sierpnia jego żołnierze wkroczyli do miasta i zajęli cytadelę. Król Albert I wycofał wcześniej belgijską dywizję polową z Liège, by nie dopuścić do jej okrążenia. Forty, odcięte od siebie, broniły się jednak dalej.
 
 Do ich zniszczenia Niemcy sprowadzili ciężką artylerię oblężniczą: moździerze kalibru 420 mm, nazywane [„Grubymi Bertami”](https://pl.wikipedia.org/wiki/M-Gerät), oraz austro-węgierskie moździerze Škody kalibru 305 mm. Od 12 sierpnia ich pociski kruszyły betonowe sklepienia fortów. 15 sierpnia pocisk trafił w skład amunicji fortu Loncin. Eksplozja zniszczyła fort i pogrzebała dużą część załogi, a ciężko kontuzjowany generał Leman dostał się do niewoli. 16 sierpnia skapitulowały ostatnie forty.
 

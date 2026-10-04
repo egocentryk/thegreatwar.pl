@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-26 września 1916 roku, w pogodny jesienny dzień, niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Ericha von Falkenhayna](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn) zaatakowała rumuński I Korpus, który od początku września stał na południe od [Sybina](https://pl.wikipedia.org/wiki/Sybin). Był to pierwszy dzień pierwszej wielkiej bitwy kontrofensywy państw centralnych w [Siedmiogrodzie](/bitwy/bitwa-o-siedmiogrod). Falkenhayn chciał nie tylko odepchnąć Rumunów, ale zamknąć im drogę odwrotu i zniszczyć cały korpus. W Rumunii, która liczyła jeszcze czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 13 września.
+26 września 1916 roku, w pogodny jesienny dzień, niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn) zaatakowała rumuński I Korpus, który od początku września stał na południe od [Sybina](https://pl.wikipedia.org/wiki/Sybin). Był to pierwszy dzień pierwszej wielkiej bitwy kontrofensywy państw centralnych w [Siedmiogrodzie](/bitwy/bitwa-o-siedmiogrod). Falkenhayn chciał nie tylko odepchnąć Rumunów, ale zamknąć im drogę odwrotu i zniszczyć cały korpus. W Rumunii, która liczyła jeszcze czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 13 września.
 
 ## Pułapka w górach
 

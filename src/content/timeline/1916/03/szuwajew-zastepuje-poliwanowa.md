@@ -22,7 +22,7 @@ Prawdziwe powody były polityczne. Komitety wojenno-przemysłowe, które skupia�
 
 O wyborze następcy car napisał żonie już 10 (23) marca. Szuwajew był według niego człowiekiem, któremu mógł „całkowicie ufać”. Kilka dni później dodał, że nowy minister jest uczciwy, absolutnie lojalny, „wcale nie boi się Dumy” i zna wszystkie słabości komitetów. Szuwajew miał 61 lat. Urodził się w 1854 roku w [Ufie](https://pl.wikipedia.org/wiki/Ufa), ukończył Nikołajewską Akademię Sztabu Generalnego i przez wiele lat wykładał w szkołach wojskowych. Od 1909 roku kierował Głównym Zarządem Intendentury, odpowiedzialnym za żywność, umundurowanie i wyposażenie armii. W grudniu 1915 roku został głównym intendentem polowym przy Kwaterze Głównej. Od razu mianowano go ministrem, a nie, jak zwykle, tylko „kierującym ministerstwem” na okres próby.
 
-Dymisja zbiegła się z niepowodzeniem [ofensywy nad jeziorem Narocz](/bitwy/bitwa-nad-jeziorem-narocz), która znów pokazała słabości rosyjskiego zaopatrzenia. W tych samych dniach car postanowił też powierzyć dowództwo Frontu Południowo-Zachodniego [Aleksiejowi Brusiłowowi](https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow) zamiast [Nikołaja Iwanowa](https://pl.wikipedia.org/wiki/Nikołaj_Iwanow_(generał)).
+Dymisja zbiegła się z niepowodzeniem [ofensywy nad jeziorem Narocz](/bitwy/bitwa-nad-jeziorem-narocz), która znów pokazała słabości rosyjskiego zaopatrzenia. W tych samych dniach car postanowił też powierzyć dowództwo Frontu Południowo-Zachodniego [Aleksiejowi Brusiłowowi](/postacie/aleksiej-brusilow) zamiast [Nikołaja Iwanowa](/postacie/nikolaj-iwanow).
 
 ## Reakcje
 

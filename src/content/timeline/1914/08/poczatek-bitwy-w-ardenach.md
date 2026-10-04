@@ -16,7 +16,7 @@ draft: false
 
 ## Natarcie na oślep
 
-Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) był przekonany, że Niemcy skierowali główne siły przez północną Belgię, a ich centrum w Ardenach jest słabe. Postanowił tam uderzyć i rozciąć niemiecki front. Do natarcia ruszyły 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary).
+Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) był przekonany, że Niemcy skierowali główne siły przez północną Belgię, a ich centrum w Ardenach jest słabe. Postanowił tam uderzyć i rozciąć niemiecki front. Do natarcia ruszyły 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary).
 
 Francuskie rozpoznanie zawiodło. Naprzeciw nich maszerowały dwie silne armie niemieckie: 4 Armia księcia Albrechta Wirtemberskiego i 5 Armia następcy tronu Wilhelma. Obie strony posuwały się naprzeciw siebie przez gęste lasy i wąskie doliny, często w porannej mgle, nie wiedząc dokładnie, gdzie jest przeciwnik.
 

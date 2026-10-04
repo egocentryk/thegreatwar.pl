@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-10 grudnia 1915 roku ambasador Niemiec w Waszyngtonie hrabia [Johann Heinrich von Bernstorff](https://pl.wikipedia.org/wiki/Johann_Heinrich_von_Bernstorff) zawiadomił sekretarza stanu [Roberta Lansinga](https://pl.wikipedia.org/wiki/Robert_Lansing), że cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) odwołał attaché morskiego ambasady Karla Boy-Eda i attaché wojskowego kapitana [Franza von Papena](https://pl.wikipedia.org/wiki/Franz_von_Papen). Tak zakończył się trwający dziesięć dni spór. Rząd Stanów Zjednoczonych [zażądał odwołania obu oficerów](/usa-zadaja-odwolania-boy-eda-i-papena), bo wiązał ich z nielegalnymi działaniami niemieckich agentów w Ameryce.
+10 grudnia 1915 roku ambasador Niemiec w Waszyngtonie hrabia [Johann Heinrich von Bernstorff](https://pl.wikipedia.org/wiki/Johann_Heinrich_von_Bernstorff) zawiadomił sekretarza stanu [Roberta Lansinga](https://pl.wikipedia.org/wiki/Robert_Lansing), że cesarz [Wilhelm II](/postacie/wilhelm-ii) odwołał attaché morskiego ambasady Karla Boy-Eda i attaché wojskowego kapitana [Franza von Papena](https://pl.wikipedia.org/wiki/Franz_von_Papen). Tak zakończył się trwający dziesięć dni spór. Rząd Stanów Zjednoczonych [zażądał odwołania obu oficerów](/usa-zadaja-odwolania-boy-eda-i-papena), bo wiązał ich z nielegalnymi działaniami niemieckich agentów w Ameryce.
 
 ## Berlin chce znać powody
 

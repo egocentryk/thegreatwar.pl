@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-13 marca 1915 roku zakończyła się bitwa pod [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle). W nocy z 12 na 13 marca marszałek [John French](https://pl.wikipedia.org/wiki/John_French) polecił dowódcy 1 Armii, generałowi [Douglasowi Haigowi](https://pl.wikipedia.org/wiki/Douglas_Haig), wstrzymać natarcie i umocnić zdobyty teren. Trzy dni wcześniej brytyjskie i indyjskie dywizje [zdobyły wieś](/poczatek-bitwy-pod-neuve-chapelle) jednym, starannie przygotowanym uderzeniem. Dalej jednak nie zaszły. Niemieckie posiłki zamknęły wyłom, a grzbiet Aubers, cel całej operacji, pozostał w rękach niemieckich.
+13 marca 1915 roku zakończyła się bitwa pod [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle). W nocy z 12 na 13 marca marszałek [John French](/postacie/john-french) polecił dowódcy 1 Armii, generałowi [Douglasowi Haigowi](/postacie/douglas-haig), wstrzymać natarcie i umocnić zdobyty teren. Trzy dni wcześniej brytyjskie i indyjskie dywizje [zdobyły wieś](/poczatek-bitwy-pod-neuve-chapelle) jednym, starannie przygotowanym uderzeniem. Dalej jednak nie zaszły. Niemieckie posiłki zamknęły wyłom, a grzbiet Aubers, cel całej operacji, pozostał w rękach niemieckich.
 
 ## Dwa dni bezskutecznych ataków
 

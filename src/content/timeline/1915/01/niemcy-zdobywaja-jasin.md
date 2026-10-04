@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 19 stycznia 1915 roku poddał się brytyjski garnizon Jasinu, przygranicznej plantacji w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Od świtu [poprzedniego dnia](/niemiecki-atak-na-jasin) około 300 żołnierzy indyjskich broniło się w szańcu otoczonym przez dziewięć kompanii podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck). Próby odsieczy z brytyjskiego obozu nad rzeką Umba zawiodły.
+Rankiem 19 stycznia 1915 roku poddał się brytyjski garnizon Jasinu, przygranicznej plantacji w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Od świtu [poprzedniego dnia](/niemiecki-atak-na-jasin) około 300 żołnierzy indyjskich broniło się w szańcu otoczonym przez dziewięć kompanii podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). Próby odsieczy z brytyjskiego obozu nad rzeką Umba zawiodły.
 
 ## Kapitulacja
 
@@ -28,4 +28,4 @@ Brytyjskie straty trudno dokładnie policzyć. Oprócz jeńców zginęło co naj
 
 ## Po bitwie
 
-Niemcy nie próbowali atakować umocnionych obozów nad Umbą. Zostawili w Jasinie kilka kompanii, a resztę wojsk odesłali koleją z powrotem pod Kilimandżaro. Krążownik HMS Weymouth, który przypłynął pod Jasin 20 stycznia, ostrzelał okolicę bez większego skutku. Wkrótce generał Richard Wapshare kazał wycofać wojska z całej doliny Umby. Na początku lutego niemieckie patrole zastały brytyjskie obozy puste. W Londynie lord [Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) zakazał dowództwu w Afryce Wschodniej dalszych działań zaczepnych. Pas przygraniczny, który Brytyjczycy oczyścili z Niemców w grudniu, znów stał się terenem niemieckich patroli.
+Niemcy nie próbowali atakować umocnionych obozów nad Umbą. Zostawili w Jasinie kilka kompanii, a resztę wojsk odesłali koleją z powrotem pod Kilimandżaro. Krążownik HMS Weymouth, który przypłynął pod Jasin 20 stycznia, ostrzelał okolicę bez większego skutku. Wkrótce generał Richard Wapshare kazał wycofać wojska z całej doliny Umby. Na początku lutego niemieckie patrole zastały brytyjskie obozy puste. W Londynie lord [Herbert Kitchener](/postacie/horatio-kitchener) zakazał dowództwu w Afryce Wschodniej dalszych działań zaczepnych. Pas przygraniczny, który Brytyjczycy oczyścili z Niemców w grudniu, znów stał się terenem niemieckich patroli.

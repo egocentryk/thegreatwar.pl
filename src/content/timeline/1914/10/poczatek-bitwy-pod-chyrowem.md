@@ -12,13 +12,13 @@ milestone: false
 draft: false
 ---
 
-13 października 1914 roku austro-węgierska 2 i 3 Armia przeszły do ogólnego natarcia na pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow) na południe od Przemyśla. Brytyjska chronologia wojny datuje na ten dzień początek bitwy pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów). Pierwsze starcia na tym odcinku toczyły się już od 9–10 października, dlatego austriacka historia oficjalna zaczyna bitwę, nazywaną przez nią bitwą pod Przemyślem i Chyrowem, 10 października.
+13 października 1914 roku austro-węgierska 2 i 3 Armia przeszły do ogólnego natarcia na pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) na południe od Przemyśla. Brytyjska chronologia wojny datuje na ten dzień początek bitwy pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów). Pierwsze starcia na tym odcinku toczyły się już od 9–10 października, dlatego austriacka historia oficjalna zaczyna bitwę, nazywaną przez nią bitwą pod Przemyślem i Chyrowem, 10 października.
 
 ## Po odsieczy Przemyśla
 
 Kilka dni wcześniej [kontrofensywa Austro-Węgier w Galicji](/kontrofensywa-austro-wegier-w-galicji) przyniosła [odsiecz Przemyśla](/odsiecz-przemysla). Rosjanie nie bronili się jednak pod samą twierdzą. Na północ od twierdzy cofnęli się za San, a na południe od niej 8 Armia zajęła przygotowane pozycje na wzgórzach, od okolic Przemyśla przez rejon Chyrowa po [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) nad Dniestrem. Dowództwo austro-węgierskie liczyło, że właśnie tu pobije słabsze siły rosyjskie i wyjdzie na tyły armii broniących Sanu.
 
-Z południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Jej czołowa dywizja doszła 9 października do Krościenka i znalazła przesmyk pod Chyrowem zamknięty przez rosyjski XXIV Korpus. Prawe skrzydło armii, grupa generała Tersztyánszky'ego, zeszło z Przełęczy Użockiej do Turki. Od strony Przemyśla nacierało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna).
+Z południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Jej czołowa dywizja doszła 9 października do Krościenka i znalazła przesmyk pod Chyrowem zamknięty przez rosyjski XXIV Korpus. Prawe skrzydło armii, grupa generała Tersztyánszky'ego, zeszło z Przełęczy Użockiej do Turki. Od strony Przemyśla nacierało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic).
 
 ## Natarcie i kontratak
 

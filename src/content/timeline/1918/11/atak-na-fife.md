@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 listopada 1918 roku po południu niemiecka [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) generała [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) podeszła pod Fife, brytyjską placówkę tuż za granicą [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna), dzisiejszej Zambii. Miesiąc po tym, jak [wrócił za Rovumę](/lettow-vorbeck-wraca-za-rovume), Lettow-Vorbeck przeszedł przez południowo-zachodni skraj [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) i wkroczył ze swoją kolumną do brytyjskiej kolonii. Fife było ważnym węzłem zaopatrzenia: tędy biegła droga z Nowego Langenburga na północy do Abercorn i Kasamy, a przy placówce leżały duże składy.
+1 listopada 1918 roku po południu niemiecka [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) generała [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) podeszła pod Fife, brytyjską placówkę tuż za granicą [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna), dzisiejszej Zambii. Miesiąc po tym, jak [wrócił za Rovumę](/lettow-vorbeck-wraca-za-rovume), Lettow-Vorbeck przeszedł przez południowo-zachodni skraj [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) i wkroczył ze swoją kolumną do brytyjskiej kolonii. Fife było ważnym węzłem zaopatrzenia: tędy biegła droga z Nowego Langenburga na północy do Abercorn i Kasamy, a przy placówce leżały duże składy.
 
 ## Wyścig do składów
 

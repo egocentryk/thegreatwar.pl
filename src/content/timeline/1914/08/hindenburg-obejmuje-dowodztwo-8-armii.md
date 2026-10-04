@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 sierpnia 1914 roku do sztabu niemieckiej 8 Armii w [Malborku](https://pl.wikipedia.org/wiki/Malbork) przybył jej nowy dowódca, generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg). Razem z nim przyjechał nowy szef sztabu, generał [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff). Zastąpili generała Maximiliana von Prittwitza, który po bitwie pod Gąbinem chciał oddać Prusy Wschodnie Rosjanom.
+23 sierpnia 1914 roku do sztabu niemieckiej 8 Armii w [Malborku](https://pl.wikipedia.org/wiki/Malbork) przybył jej nowy dowódca, generał [Paul von Hindenburg](/postacie/paul-von-hindenburg). Razem z nim przyjechał nowy szef sztabu, generał [Erich Ludendorff](/postacie/erich-ludendorff). Zastąpili generała Maximiliana von Prittwitza, który po bitwie pod Gąbinem chciał oddać Prusy Wschodnie Rosjanom.
 
 ## Emeryt z Hanoweru
 

@@ -1,0 +1,57 @@
+---
+name: Svetozar Boroević
+summary: "„Lew znad Isonzo”: przez ponad dwa lata odpierał nad Soczą jedenaście włoskich ofensyw. Jedyny marszałek polny monarchii wywodzący się ze Słowian południowych."
+role: Dowódca 3 Armii (1914–1915), 5 Armii nad Soczą (1915–1917) i grupy armii na froncie włoskim (1917–1918), marszałek polny
+country: Austro-Węgry
+side: Państwa centralne
+born: 1856-12-13
+died: 1920-05-23
+birthPlace: Umetić (Chorwacja)
+deathPlace: Klagenfurt
+aliases: [Svetozar Boroević]
+wikiTitles: [Svetozar_Boroević_von_Bojna]
+authors: [Łukasz Skowroń]
+tags: [Austro-Węgry, Włochy, Galicja]
+---
+
+Svetozar Boroević von Bojna był najskuteczniejszym obrońcą, jakiego miała armia austro-węgierska. Od czerwca 1915 do sierpnia 1917 roku jego 5 Armia odparła nad [Soczą](https://pl.wikipedia.org/wiki/Socza) jedenaście włoskich ofensyw, choć niemal zawsze miała mniej żołnierzy i dział niż przeciwnik. Wcześniej, w 1914 i 1915 roku, prowadził 3 Armię w Galicji i w Karpatach, a w 1918 roku dowodził grupą armii nad Piawą. W monarchii nazywano go „Lwem znad Isonzo”. Był synem oficera z Pogranicza Wojskowego, prawosławnym Słowianinem z Chorwacji i jedynym marszałkiem polnym armii cesarskiej wywodzącym się ze Słowian południowych. Po upadku monarchii nowe państwo jugosłowiańskie nie chciało go przyjąć i zmarł w biedzie w Austrii.
+
+## Przed wojną
+
+Urodził się 13 grudnia 1856 roku we wsi Umetić koło Kostajnicy, na terenie Chorwackiego Pogranicza Wojskowego. Jego ojciec Adam służył w wojskach pogranicznych. Rodzina była prawosławna i według wielu źródeł serbska, sam Boroević określał się jednak jako Chorwat, a o przynależność do swojego narodu spierają się do dziś historycy serbscy i chorwaccy. Jako chłopiec trafił do wojskowego zakładu wychowawczego, a potem do szkoły kadetów w Grazu. W 1875 roku został podporucznikiem węgierskiego 52 Pułku Piechoty, a w 1878 roku odznaczył się przy zajmowaniu Sarajewa w czasie okupacji Bośni.
+
+Po szkole wojennej w Wiedniu służył w sztabie generalnym, wykładał taktykę w Akademii Terezjańskiej w [Wiener Neustadt](https://pl.wikipedia.org/wiki/Wiener_Neustadt) i był szefem sztabu kilku dywizji, a w latach 1898–1904 VIII Korpusu w Pradze. W 1905 roku otrzymał węgierskie szlachectwo z przydomkiem „von Bojna”. Od 1907 roku dowodził chorwacko-slawońskim okręgiem węgierskiej obrony krajowej w Zagrzebiu, a w 1912 roku objął VI Korpus w Koszycach. W 1913 roku został generałem piechoty. Uchodził za oficera surowego, ambitnego i próżnego, ale też bardzo sumiennego i przywiązanego do dynastii.
+
+## 1914–1915: Galicja i Karpaty
+
+Wojnę zaczął na czele VI Korpusu w 4 Armii generała [Moritza von Auffenberga](https://pl.wikipedia.org/wiki/Moritz_Auffenberg). Jego korpus szedł w centrum natarcia w [bitwie pod Komarowem](/bitwy/bitwa-pod-komarowem) i poniósł tam ciężkie straty. Na początku września, gdy rozbita nad Gniłą Lipą 3 Armia cofała się spod Lwowa, cesarz odwołał jej dowódcę, generała Rudolfa von Brudermanna, i powierzył ją Boroeviciowi. Armia była zdemoralizowana, a w [bitwie pod Gródkiem i Rawą Ruską](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska) nie zdołała odzyskać Lwowa. 11 września [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) nakazał odwrót za San.
+
+Na początku października 3 Armia ruszyła z powrotem nad San. Wobec jej zbliżania się Rosjanie [przerwali pierwsze oblężenie Przemyśla](/bitwy/pierwsze-oblezenie-przemysla), a 9 października do twierdzy weszła austro-węgierska kawaleria. W [bitwie pod Chyrowem](/bitwy/bitwa-pod-chyrowem) Boroević nie zdołał jednak zepchnąć Rosjan znad Sanu, a w listopadzie musiał się znowu cofać i Przemyśl został otoczony po raz drugi. W grudniu jego wojska wzięły udział w zwycięskiej [bitwie pod Limanową](/bitwy/bitwa-pod-limanowa), ale nie przebiły się do oblężonej twierdzy i pod koniec miesiąca zostały zepchnięte w Karpaty.
+
+Zimą 1915 roku 3 Armia stała w centrum [zimowej bitwy w Karpatach](/bitwy/zimowa-bitwa-w-karpatach). Conrad chciał przez góry odblokować Przemyśl, a 3 Armia Boroevicia miała nacierać w śniegu i mrozie w środkowych Karpatach. Ofensywa zawiodła, a jego armia wykrwawiła się w walkach, w których więcej żołnierzy zabijały mróz i choroby niż kule. Przemyśl skapitulował 22 marca, a Rosjanie zaczęli napierać na Węgry. Boroević, wsparty niemieckimi posiłkami, utrzymał jednak grzbiety Karpat. W maju jego armia wzięła udział w pościgu po [przełamaniu pod Gorlicami](/bitwy/bitwa-pod-gorlicami).
+
+## Nad Soczą
+
+23 maja 1915 roku [Włochy wypowiedziały wojnę Austro-Węgrom](/wlochy-wypowiadaja-wojne-austro-wegrom), a pod koniec maja Boroević przyjechał nad Soczę i objął 5 Armię, podległą dowódcy frontu południowo-zachodniego, arcyksięciu [Eugeniuszowi](https://pl.wikipedia.org/wiki/Eugeniusz_Ferdynand_Habsburg). Monarchia miała wtedy na granicy włoskiej niewiele wojska, ściąganego w pośpiechu z Serbii i Galicji. Boroević postanowił bronić się na linii rzeki i na skalistym płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)), który zamykał drogę do [Triestu](https://pl.wikipedia.org/wiki/Triest), i nie oddawać ani piędzi ziemi. Jego żołnierze kuli okopy w skale, a każde włoskie wdarcie się w linię odpierali natychmiastowym kontratakiem.
+
+Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) atakował nad Soczą przez ponad dwa lata. W [pierwszej bitwie](/bitwy/pierwsza-bitwa-nad-isonzo), w czerwcu i lipcu 1915 roku, Włosi zdobyli tylko skrawki terenu u stóp Krasu. Druga bitwa latem i dwie kolejne jesienią 1915 roku przyniosły im niewiele więcej, a obie strony traciły dziesiątki tysięcy ludzi na płaskowyżu Doberdò, który żołnierze nazywali piekłem. Wiosną 1916 roku Conrad zabrał Boroeviciowi kilka dywizji do ofensywy w Tyrolu, a latem kolejne odjechały na wschód przeciw Brusiłowowi. W [szóstej bitwie](/bitwy/szosta-bitwa-nad-isonzo), w sierpniu 1916 roku, osłabiona 5 Armia straciła przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i samo miasto. Boroević, wbrew własnej zasadzie, zgodził się wtedy oddać Monte San Michele i płaskowyż Doberdò i cofnąć się na nową linię kilka kilometrów na wschód. Nie dał się jednak przełamać. W połowie października, po ósmej bitwie, meldował, że od połowy sierpnia stracił około 100 tysięcy ludzi i że jego armia jest w kryzysie.
+
+W maju 1917 roku Włosi zaatakowali po raz dziesiąty, a w sierpniu po raz jedenasty, w największej ofensywie swojej armii w całej wojnie. W [jedenastej bitwie](/bitwy/jedenasta-bitwa-nad-isonzo) przeprawili się przez Soczę i zdobyli płaskowyż Bainsizza oraz Monte Santo. Boroević oddał płaskowyż i cofnął się na nową linię, ale Monte San Gabriele i Kras utrzymał. W stopniu generała pułkownika od maja 1916 roku, objął pod koniec sierpnia 1917 roku dowództwo nowej grupy armii, złożonej z dwóch armii Isonzo. Austro-węgierskie dowództwo uznało jednak, że kolejnej takiej bitwy wojsko nad Soczą nie wytrzyma, i poprosiło Niemców o pomoc w kontrofensywie.
+
+## Caporetto i Piawa
+
+24 października 1917 roku rozpoczęła się [dwunasta bitwa nad Isonzo](/bitwy/dwunasta-bitwa-nad-isonzo), nazywana bitwą pod Caporetto. Główne uderzenie w górach wyprowadziła niemiecko-austriacka 14 Armia generała Ottona von Belowa, a armie Boroevicia ruszyły w pościg wzdłuż wybrzeża i przez równinę Friulu. Włosi cofnęli się o ponad sto kilometrów, za Piawę. Dalszy marsz zatrzymała jednak [pierwsza bitwa nad Piawą](/bitwy/pierwsza-bitwa-nad-piawa): wojska Boroevicia nie zdołały sforsować rzeki, a w grudniu cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) nakazał wstrzymać ofensywę. W lutym 1918 roku Boroević został marszałkiem polnym.
+
+Wiosną 1918 roku sprzeciwiał się kolejnej ofensywie. Uważał, że wyczerpaną i głodną armię trzeba oszczędzać i czekać na rozstrzygnięcie we Francji, a jeśli już atakować, to przez Piawę na [Treviso](https://pl.wikipedia.org/wiki/Treviso). Conrad, dowodzący w Tyrolu, chciał zaś zejść z gór. Naczelne dowództwo nie chciało odmówić żadnemu z nich i rozdzieliło siły. 15 czerwca obie grupy armii uderzyły jednocześnie. W [drugiej bitwie nad Piawą](/bitwy/druga-bitwa-nad-piawa) wojska Boroevicia przeszły rzekę i uchwyciły przyczółki, między innymi na wzgórzu Montello, ale wezbrana Piawa zerwała mosty, a włoskie kontrataki nie dały im iść dalej. 19 czerwca Boroević zaproponował cesarzowi odwrót, który nastąpił po kolejnej dobie wahań. Po klęsce [odwołano Conrada](/dymisja-conrada), a Boroević stanowisko zachował.
+
+Jesienią monarchia się rozpadała. Gdy 24 października Włosi rozpoczęli [bitwę pod Vittorio Veneto](/bitwy/bitwa-pod-vittorio-veneto), wojska na Grappie broniły się jeszcze zaciekle, ale nad Piawą całe dywizje odmawiały wymarszu na front. 28 października Boroević meldował, że zdolność oporu jego wojsk maleje „z przerażającą szybkością”. Jego armie cofały się za Livenzę i Tagliamento, a [rozejm w Villa Giusti](https://pl.wikipedia.org/wiki/Rozejm_w_Villa_Giusti) zakończył 4 listopada wojnę na froncie włoskim.
+
+## Po wojnie
+
+Boroević wycofał się z resztkami sztabu do Velden w Karyntii. Według relacji z jego otoczenia zaproponował stamtąd cesarzowi marsz z wiernymi oddziałami na Wiedeń, by nie dopuścić do proklamowania republiki, ale propozycję odrzucono w imieniu Karola, który miał o niej nawet nie wiedzieć. 1 grudnia 1918 roku przeszedł w stan spoczynku. Zgłosił gotowość służby nowemu państwu jugosłowiańskiemu, ale jego władze nie chciały habsburskiego marszałka i nie wpuściły go do kraju, a jego rzeczy osobiste skonfiskowano w Słowenii. We wrześniu 1918 roku utonął jego jedyny syn, uczeń szkoły wojskowej w Mariborze. Ubogi i rozgoryczony, Boroević zamieszkał w [Klagenfurcie](https://pl.wikipedia.org/wiki/Klagenfurt_am_Wörthersee), gdzie zmarł po udarze 23 maja 1920 roku. Pochowano go na Cmentarzu Centralnym w Wiedniu, w grobie opłaconym przez byłego cesarza Karola.
+
+## Ocena
+
+W Austrii Boroević uchodzi za jednego z dwóch najważniejszych dowódców monarchii w tej wojnie, obok Conrada, i za mistrza obrony. Utrzymał front nad Soczą przez jedenaście bitew, z wojskiem złożonym ze wszystkich narodów monarchii, w tym wielu Słoweńców i Chorwatów, którzy bronili tam własnej ziemi przed włoskimi roszczeniami. Jego żołnierze darzyli go zaufaniem, a Słowianie południowi w armii nazywali go „naszym Sveto”. Za obronę Isonzo otrzymał w 1917 roku Krzyż Komandorski [Orderu Marii Teresy](https://pl.wikipedia.org/wiki/Order_Marii_Teresy). Według niemieckojęzycznych biografów odmówił wtedy przysługującego mu tytułu barona, bo chciał zostać hrabią, czego mu nie przyznano.
+
+Historycy wskazują też na cenę jego metody. Zasada, by bronić każdego metra i natychmiast odbijać każdy utracony okop, kosztowała 5 Armię ogromne straty i wyczerpała ją tak, że w 1917 roku monarchia musiała prosić Niemców o pomoc. Krytycy zarzucają mu, że trzymał się tej zasady także tam, gdzie elastyczna obrona oszczędziłaby życie tysięcy żołnierzy. Inni, jak amerykański historyk John R. Schindler, autor książki o bitwach nad Isonzo, widzą w nim przede wszystkim jednego z najlepszych dowódców defensywnych tej wojny. Boroević nie był też strategiem ofensywy. W Karpatach i nad Piawą jego natarcia zawiodły, choć w obu przypadkach wykonywał plany, których sam nie popierał. Po 1918 roku pamięć o nim przez dziesięciolecia była niewygodna w Jugosławii. W ostatnich dziesięcioleciach pamięć o nim wraca w Słowenii i Chorwacji, a Lublana przywróciła mu w 2009 roku honorowe obywatelstwo odebrane w 1919 roku.

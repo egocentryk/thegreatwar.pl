@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-25 sierpnia 1914 roku w Lotaryngii, między Mozelą a rzeką Mortagne, rozegrał się decydujący dzień bitwy, którą brytyjska chronologia wojny nazywa bitwą nad Mortagne, a Francuzi bitwą o przesmyk Charmes. Francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) zatrzymały niemieckie natarcie i przeszły do kontrataku. W czasie gdy na północy alianci cofali się przed niemieckim prawym skrzydłem, na wschodzie Francja odniosła jedno ze swoich pierwszych zwycięstw.
+25 sierpnia 1914 roku w Lotaryngii, między Mozelą a rzeką Mortagne, rozegrał się decydujący dzień bitwy, którą brytyjska chronologia wojny nazywa bitwą nad Mortagne, a Francuzi bitwą o przesmyk Charmes. Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) zatrzymały niemieckie natarcie i przeszły do kontrataku. W czasie gdy na północy alianci cofali się przed niemieckim prawym skrzydłem, na wschodzie Francja odniosła jedno ze swoich pierwszych zwycięstw.
 
 ## Po klęsce pod Morhange
 
@@ -24,7 +24,7 @@ Niemcy wierzyli, że Francuzi są rozbici. Chcieli przejść przez nieufortyfiko
 
 24 sierpnia Niemcy przekroczyli [Meurthe](https://pl.wikipedia.org/wiki/Meurthe) i Mortagne. Na przeprawach ponieśli ciężkie straty od ognia francuskiej artylerii. W miasteczku [Gerbéviller](https://pl.wikipedia.org/wiki/Gerbéviller) nad Mortagne około sześćdziesięciu francuskich strzelców pieszych przez większą część dnia bronili mostu przed całą niemiecką brygadą. Po zajęciu miasteczka niemieccy żołnierze, przekonani, że strzelała do nich ludność cywilna, rozstrzeliwali mieszkańców i palili domy. Według różnych źródeł zginęło około 50–60 cywilów, a miasteczko spłonęło niemal w całości. Gerbéviller stało się we Francji symbolem niemieckich zbrodni w 1914 roku.
 
-Jeszcze tego samego dnia po południu Castelnau wyprowadził pierwszy kontratak na północ od Lunéville. XX Korpus generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch) i sąsiednie oddziały odbiły kilka wsi.
+Jeszcze tego samego dnia po południu Castelnau wyprowadził pierwszy kontratak na północ od Lunéville. XX Korpus generała [Ferdinanda Focha](/postacie/ferdinand-foch) i sąsiednie oddziały odbiły kilka wsi.
 
 ## Dzień decyzji
 
@@ -38,7 +38,7 @@ Castelnau zareagował natychmiast. Wydał rozkaz: „Wszędzie naprzód, z cał�
 
 Wyczerpane francuskie oddziały nie zdołały zamienić zwycięstwa w pogrom. Niemcy okopali się na wzgórzach między Mortagne a Meurthe i przed Lunéville. Francuzi atakowali ich pozycje jeszcze przez kilka dni. Pod koniec sierpnia odbili Gerbéviller i przekroczyli Mortagne, ale dalsze natarcia, prowadzone przeciw okopom osłoniętym zasiekami i karabinami maszynowymi, przynosiły tylko niewielkie postępy przy dużych stratach. Brytyjska chronologia podaje, że bitwa nad Mortagne zakończyła się 3 września. Francuscy historycy zawężają samą bitwę o przesmyk Charmes do dni 24–26 sierpnia, a późniejsze starcia traktują jako jej dalszy ciąg.
 
-27 sierpnia naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) pochwalił w rozkazie dziennym obie armie za wytrwałość i odwagę. Od 1 września, gdy front w Lotaryngii był już bezpieczny, zaczął zabierać stąd korpusy i przerzucać je na zachód.
+27 sierpnia naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) pochwalił w rozkazie dziennym obie armie za wytrwałość i odwagę. Od 1 września, gdy front w Lotaryngii był już bezpieczny, zaczął zabierać stąd korpusy i przerzucać je na zachód.
 
 ## Znaczenie
 

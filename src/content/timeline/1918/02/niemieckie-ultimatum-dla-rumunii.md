@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na początku lutego 1918 roku feldmarszałek [August von Mackensen](https://pl.wikipedia.org/wiki/August_von_Mackensen), dowódca grupy armii państw centralnych w okupowanej [Wołoszczyźnie](https://pl.wikipedia.org/wiki/Wołoszczyzna), wezwał rząd rumuński w [Jassach](https://pl.wikipedia.org/wiki/Jassy) do rozpoczęcia rokowań pokojowych. Rumuni mieli w ciągu czterech dni przysłać delegację, która podejmie rozmowy o pokoju. W przeciwnym razie państwa centralne groziły wznowieniem działań wojennych. Według rumuńskich historyków nota dotarła do Jass 5 lutego (23 stycznia według kalendarza juliańskiego, którym Rumunia posługiwała się jeszcze do 1919 roku). Brytyjska chronologia wojny notuje ultimatum dzień później, pod 6 lutego.
+Na początku lutego 1918 roku feldmarszałek [August von Mackensen](/postacie/august-von-mackensen), dowódca grupy armii państw centralnych w okupowanej [Wołoszczyźnie](https://pl.wikipedia.org/wiki/Wołoszczyzna), wezwał rząd rumuński w [Jassach](https://pl.wikipedia.org/wiki/Jassy) do rozpoczęcia rokowań pokojowych. Rumuni mieli w ciągu czterech dni przysłać delegację, która podejmie rozmowy o pokoju. W przeciwnym razie państwa centralne groziły wznowieniem działań wojennych. Według rumuńskich historyków nota dotarła do Jass 5 lutego (23 stycznia według kalendarza juliańskiego, którym Rumunia posługiwała się jeszcze do 1919 roku). Brytyjska chronologia wojny notuje ultimatum dzień później, pod 6 lutego.
 
 ## Osaczona Mołdawia
 

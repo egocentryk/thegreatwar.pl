@@ -3,6 +3,7 @@ title: Rosjanie zdobywają Lwów
 summary: 3 września 1914 wojska rosyjskie wkroczyły bez walki do Lwowa, stolicy Galicji. Rozpoczęła się trwająca do czerwca 1915 okupacja i rusyfikacja miasta.
 category: Działania zbrojne
 front: Front wschodni
+battle: bitwa-galicyjska
 date: 1914-09-03
 authors: [Łukasz Skowroń]
 dayOrder: 5

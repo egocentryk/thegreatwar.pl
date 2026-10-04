@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-20 lutego 1915 roku minister wojny [lord Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) wysłał depeszę do [generała Johna Maxwella](/general-maxwell-dowodca-w-egipcie), dowódcy wojsk brytyjskich w Egipcie. Polecił mu uprzedzić około 30 tysięcy żołnierzy z Australii i Nowej Zelandii, pod dowództwem generała Williama Birdwooda, by przygotowali się do działań pod [Dardanelami](https://pl.wikipedia.org/wiki/Dardanele). Dzień wcześniej okręty brytyjskie i francuskie [zaczęły ostrzeliwać forty u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
+20 lutego 1915 roku minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) wysłał depeszę do [generała Johna Maxwella](/general-maxwell-dowodca-w-egipcie), dowódcy wojsk brytyjskich w Egipcie. Polecił mu uprzedzić około 30 tysięcy żołnierzy z Australii i Nowej Zelandii, pod dowództwem generała Williama Birdwooda, by przygotowali się do działań pod [Dardanelami](https://pl.wikipedia.org/wiki/Dardanele). Dzień wcześniej okręty brytyjskie i francuskie [zaczęły ostrzeliwać forty u wejścia do cieśniny](/poczatek-ataku-floty-na-dardanele).
 
 ## Zamiast 29 Dywizji
 

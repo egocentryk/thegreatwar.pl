@@ -15,7 +15,7 @@ draft: false
 
 ## Rozkaz Lettow-Vorbecka
 
-Uderzenie przygotował dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck). Wbrew gubernatorowi [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), który liczył na zachowanie neutralności kolonii, Lettow-Vorbeck chciał prowadzić aktywną wojnę. Jego celem było związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie.
+Uderzenie przygotował dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Wbrew gubernatorowi [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), który liczył na zachowanie neutralności kolonii, Lettow-Vorbeck chciał prowadzić aktywną wojnę. Jego celem było związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie.
 
 Oddziałem, który zajął Tavetę, dowodził kapitan Tom von Prince, weteran walk kolonialnych i dowódca ochotników rekrutowanych spośród niemieckich osadników. Brytyjska załoga posterunku była nieliczna i wycofała się bez większego oporu.
 

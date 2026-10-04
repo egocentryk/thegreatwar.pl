@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 8 lutego 1916 roku, że rząd brytyjski sformułował prośbę o pomoc japońskiej floty. Nie była to jedna nota, lecz cała wymiana pism, która trwała przez większą część lutego. Z dokumentów Foreign Office wynika, że [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) pisała w tej sprawie do ministerstwa spraw zagranicznych na początku miesiąca, ponownie 8 lutego i jeszcze raz 22 lutego, a minister [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) przesyłał kolejne instrukcje ambasadorowi w Tokio, sir Conynghamowi Greene'owi, między innymi 4 i 9 lutego. Odpowiedź [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) Greene zatelegrafował do Londynu 16 lutego.
+Brytyjska chronologia wojny notuje pod 8 lutego 1916 roku, że rząd brytyjski sformułował prośbę o pomoc japońskiej floty. Nie była to jedna nota, lecz cała wymiana pism, która trwała przez większą część lutego. Z dokumentów Foreign Office wynika, że [Admiralicja](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) pisała w tej sprawie do ministerstwa spraw zagranicznych na początku miesiąca, ponownie 8 lutego i jeszcze raz 22 lutego, a minister [Edward Grey](/postacie/edward-grey) przesyłał kolejne instrukcje ambasadorowi w Tokio, sir Conynghamowi Greene'owi, między innymi 4 i 9 lutego. Odpowiedź [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) Greene zatelegrafował do Londynu 16 lutego.
 
 ## Brakujące niszczyciele
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 czerwca 1915 roku, po nieudanym natarciu na grzbiet [Vimy](https://pl.wikipedia.org/wiki/Vimy), generał [Ferdinand Foch](https://pl.wikipedia.org/wiki/Ferdinand_Foch) wstrzymał ofensywę francuskiej 10 Armii na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Tak zakończyła się druga bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), która [zaczęła się 9 maja](/poczatek-drugiej-bitwy-w-artois) od przełamania niemieckich linii i wejścia Dywizji Marokańskiej na grzbiet. Drugie wielkie natarcie, przygotowywane przez cały czerwiec, miało powtórzyć tamten sukces i tym razem utrzymać zdobyty teren. Po trzech dniach walk Francuzi stali w tym samym miejscu co przed nim.
+18 czerwca 1915 roku, po nieudanym natarciu na grzbiet [Vimy](https://pl.wikipedia.org/wiki/Vimy), generał [Ferdinand Foch](/postacie/ferdinand-foch) wstrzymał ofensywę francuskiej 10 Armii na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Tak zakończyła się druga bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), która [zaczęła się 9 maja](/poczatek-drugiej-bitwy-w-artois) od przełamania niemieckich linii i wejścia Dywizji Marokańskiej na grzbiet. Drugie wielkie natarcie, przygotowywane przez cały czerwiec, miało powtórzyć tamten sukces i tym razem utrzymać zdobyty teren. Po trzech dniach walk Francuzi stali w tym samym miejscu co przed nim.
 
 ## Przygotowania
 
@@ -32,7 +32,7 @@ Wieczorem i w nocy Niemcy kontratakowali i odebrali część zdobyczy. Wysunięt
 
 17 czerwca d'Urbal kazał ponowić natarcie po obu stronach Dywizji Marokańskiej. Atak kilka razy przesuwano, część oddziałów ruszyła za wcześnie i dostała się pod ogień własnej artylerii. Na północy Francuzi zdobyli kilka niemieckich stanowisk, a w Labiryncie, według francuskich źródeł, 53 Dywizja oczyściła z obrońców ostatnie jego części. Niemieckie opracowania wspominają jednak o walkach w Labiryncie aż do 24 czerwca. Na południu IX Korpus znów nie posunął się ani o krok.
 
-18 czerwca d'Urbal skupił resztę sił 10 Armii na grzbiecie Vimy. Generał Maurice Balfourier, dowódca XX Korpusu, odmówił atakowania z odsłoniętym skrzydłem, a natarcie, które ruszyło, załamało się przed nienaruszonymi zasiekami i stanowiskami na odwrotnych stokach. Foch uznał, że dalsze ataki nie mają sensu, i wstrzymał ofensywę. D'Urbal prowadził jeszcze przez kilka dni lokalne natarcia, aż interweniował naczelny wódz, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre). Dlatego daty końca bitwy się różnią: brytyjska chronologia i część opracowań podają 18 czerwca, francuskie źródła także 24 lub 25 czerwca.
+18 czerwca d'Urbal skupił resztę sił 10 Armii na grzbiecie Vimy. Generał Maurice Balfourier, dowódca XX Korpusu, odmówił atakowania z odsłoniętym skrzydłem, a natarcie, które ruszyło, załamało się przed nienaruszonymi zasiekami i stanowiskami na odwrotnych stokach. Foch uznał, że dalsze ataki nie mają sensu, i wstrzymał ofensywę. D'Urbal prowadził jeszcze przez kilka dni lokalne natarcia, aż interweniował naczelny wódz, generał [Joseph Joffre](/postacie/joseph-joffre). Dlatego daty końca bitwy się różnią: brytyjska chronologia i część opracowań podają 18 czerwca, francuskie źródła także 24 lub 25 czerwca.
 
 ## Bilans
 

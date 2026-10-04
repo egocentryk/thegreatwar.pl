@@ -16,9 +16,9 @@ draft: false
 
 ## Decyzja króla
 
-Po [odwrocie znad Gete](/armia-belgijska-wycofuje-sie-do-antwerpii) armia belgijska schroniła się w Antwerpii. Główne siły niemieckie pomaszerowały dalej na południowy zachód, w stronę Francji. Do pilnowania twierdzy pozostały dwa korpusy rezerwowe: III Korpus Rezerwowy generała [Hansa von Beselera](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) i IX Korpus Rezerwowy, które dopiero zajmowały pozycje.
+Po [odwrocie znad Gete](/armia-belgijska-wycofuje-sie-do-antwerpii) armia belgijska schroniła się w Antwerpii. Główne siły niemieckie pomaszerowały dalej na południowy zachód, w stronę Francji. Do pilnowania twierdzy pozostały dwa korpusy rezerwowe: III Korpus Rezerwowy generała [Hansa von Beselera](/postacie/hans-von-beseler) i IX Korpus Rezerwowy, które dopiero zajmowały pozycje.
 
-24 sierpnia belgijskie dowództwo dowiedziało się, że nad Sambrą i pod Mons trwają ciężkie walki Francuzów i Brytyjczyków z Niemcami. Król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) uznał, że to dobry moment na wypad. Uderzenie miało związać Niemców w Belgii, zagrozić ich komunikacji przez Brabancję i ulżyć sprzymierzonym walczącym na południu.
+24 sierpnia belgijskie dowództwo dowiedziało się, że nad Sambrą i pod Mons trwają ciężkie walki Francuzów i Brytyjczyków z Niemcami. Król [Albert I](/postacie/albert-i) uznał, że to dobry moment na wypad. Uderzenie miało związać Niemców w Belgii, zagrozić ich komunikacji przez Brabancję i ulżyć sprzymierzonym walczącym na południu.
 
 ## Natarcie
 

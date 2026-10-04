@@ -18,7 +18,7 @@ draft: false
 
 Mechelen, siedziba arcybiskupów i prymasów Belgii, leżało na drodze każdej armii idącej z południa na Antwerpię. Od sierpnia znajdowało się na pierwszej linii walk między niemieckimi korpusami pilnującymi twierdzy a armią belgijską. W czasie [pierwszego wypadu Belgów z Antwerpii](/koniec-bitwy-pod-mechelen) pod koniec sierpnia miasto po raz pierwszy znalazło się pod ogniem niemieckiej artylerii, a ostrzał powtarzał się także we wrześniu. Większość mieszkańców uciekła wtedy do Antwerpii, w okolice Lier i Duffel albo do Holandii. Pociski zniszczyły część zabytkowej zabudowy centrum i uszkodziły wieżę [katedry św. Rumolda](https://pl.wikipedia.org/wiki/Katedra_św._Rumolda_w_Mechelen), w tym jej wielki zegar.
 
-Pod koniec września Niemcy przystąpili do regularnego oblężenia Antwerpii. Oddziały generała [Hansa von Beselera](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) zepchnęły belgijskie placówki o kilka kilometrów i zajęły linię od Nete do Skaldy, obejmującą Mechelen. Na wschód i południe od miasta ustawiono ciężkie działa, które 28 września otworzyły ogień na forty Sint-Katelijne-Waver i Walem. Od tego dnia Mechelen pozostawało pod okupacją niemiecką aż do końca wojny.
+Pod koniec września Niemcy przystąpili do regularnego oblężenia Antwerpii. Oddziały generała [Hansa von Beselera](/postacie/hans-von-beseler) zepchnęły belgijskie placówki o kilka kilometrów i zajęły linię od Nete do Skaldy, obejmującą Mechelen. Na wschód i południe od miasta ustawiono ciężkie działa, które 28 września otworzyły ogień na forty Sint-Katelijne-Waver i Walem. Od tego dnia Mechelen pozostawało pod okupacją niemiecką aż do końca wojny.
 
 ## Kardynał Mercier
 

@@ -10,7 +10,7 @@ milestone: true
 draft: false
 ---
 
-11 listopada 1918 roku wieczorem w Warszawie [Rada Regencyjna](https://pl.wikipedia.org/wiki/Rada_Regencyjna) przekazała [Józefowi Piłsudskiemu](https://pl.wikipedia.org/wiki/Józef_Piłsudski) władzę wojskową i naczelne dowództwo wojsk polskich. Przez cały dzień żołnierze polscy, członkowie [Polskiej Organizacji Wojskowej](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) i zwykli mieszkańcy rozbrajali w mieście niemiecki garnizon, który jeszcze kilka dni wcześniej trzymał w ręku całe Królestwo. Tego samego dnia rano w lesie pod Compiègne Niemcy [podpisały rozejm](/rozejm-w-compiegne) z Ententą. Po czterech latach wojny i ponad stu dwudziestu latach niewoli Polska po raz pierwszy od rozbiorów miała własne wojsko pod jednym dowództwem w stolicy wolnej od obcych żołnierzy. Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości.
+11 listopada 1918 roku wieczorem w Warszawie [Rada Regencyjna](https://pl.wikipedia.org/wiki/Rada_Regencyjna) przekazała [Józefowi Piłsudskiemu](/postacie/jozef-pilsudski) władzę wojskową i naczelne dowództwo wojsk polskich. Przez cały dzień żołnierze polscy, członkowie [Polskiej Organizacji Wojskowej](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) i zwykli mieszkańcy rozbrajali w mieście niemiecki garnizon, który jeszcze kilka dni wcześniej trzymał w ręku całe Królestwo. Tego samego dnia rano w lesie pod Compiègne Niemcy [podpisały rozejm](/rozejm-w-compiegne) z Ententą. Po czterech latach wojny i ponad stu dwudziestu latach niewoli Polska po raz pierwszy od rozbiorów miała własne wojsko pod jednym dowództwem w stolicy wolnej od obcych żołnierzy. Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości.
 
 ## Rozbrajanie Niemców
 
@@ -18,7 +18,7 @@ Rozbrajanie zaczęło się jeszcze wieczorem 10 listopada, w dniu [powrotu Piłs
 
 W ciągu dnia Polacy przejęli [Zamek Królewski](https://pl.wikipedia.org/wiki/Zamek_Królewski_w_Warszawie), Cytadelę i dawny pałac namiestnikowski, w którym urzędowała rada żołnierska. O pierwszej po południu polscy żołnierze objęli wartownię na placu Saskim. Na ulicach dwóch, trzech młodych ludzi podchodziło do niemieckiego żołnierza, chwytało go wpół i odbierało karabin, a zdobytą broń wywożono dorożkami i samochodami. Większość Niemców, zmęczonych wojną i pochłoniętych wieściami o [rewolucji w Berlinie](/rewolucja-w-berlinie), oddawała ją bez oporu, ale strzelaniny wybuchały co chwilę i byli zabici po obu stronach. Prasa warszawska pisała o podnieceniu, jakiego miasto nie widziało od 1905 roku. Mieszkańcy tworzyli straże obywatelskie, a na domach pojawiły się biało-czerwone flagi. Zwolniono więźniów politycznych z Cytadeli.
 
-Około 30 tysięcy niemieckich żołnierzy opuszczało Warszawę przez następne dni na podstawie porozumienia z ich radą żołnierską. Generał-gubernator [Hans Hartwig von Beseler](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler), który przez trzy lata rządził okupowaną Warszawą, wyjechał z niej w przebraniu. Ostatni oddział, załoga Cytadeli, odjechał 19 listopada.
+Około 30 tysięcy niemieckich żołnierzy opuszczało Warszawę przez następne dni na podstawie porozumienia z ich radą żołnierską. Generał-gubernator [Hans Hartwig von Beseler](/postacie/hans-von-beseler), który przez trzy lata rządził okupowaną Warszawą, wyjechał z niej w przebraniu. Ostatni oddział, załoga Cytadeli, odjechał 19 listopada.
 
 ## Lublin i ulica
 

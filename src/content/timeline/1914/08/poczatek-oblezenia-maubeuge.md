@@ -22,7 +22,7 @@ Twierdza została sama. Jej załoga liczyła według różnych źródeł około 
 
 ## Pierścień się zamyka
 
-Niemiecka 2 Armia generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow) otrzymała rozkaz odcięcia i zdobycia twierdzy. Jej oddziały podchodziły pod Maubeuge od północnego wschodu, a inne zamykały drogi na południe od miasta. Brytyjska chronologia wojny odnotowuje okrążenie twierdzy pod datą 25 sierpnia. Nowsze opracowania uznają, że pierścień zamknął się w pełni dopiero 26–28 sierpnia. Oblężenie powierzono generałowi Hansowi von Zwehlowi i jego VII Korpusowi Rezerwowemu, a spod Namuru ściągnięto niemieckie moździerze 420 mm i austro-węgierskie moździerze 305 mm.
+Niemiecka 2 Armia generała [Karla von Bülowa](/postacie/karl-von-bulow) otrzymała rozkaz odcięcia i zdobycia twierdzy. Jej oddziały podchodziły pod Maubeuge od północnego wschodu, a inne zamykały drogi na południe od miasta. Brytyjska chronologia wojny odnotowuje okrążenie twierdzy pod datą 25 sierpnia. Nowsze opracowania uznają, że pierścień zamknął się w pełni dopiero 26–28 sierpnia. Oblężenie powierzono generałowi Hansowi von Zwehlowi i jego VII Korpusowi Rezerwowemu, a spod Namuru ściągnięto niemieckie moździerze 420 mm i austro-węgierskie moździerze 305 mm.
 
 ## Co było dalej
 

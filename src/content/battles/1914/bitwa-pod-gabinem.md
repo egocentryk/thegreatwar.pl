@@ -21,19 +21,19 @@ milestone: false
 
 ## Rosyjska ofensywa
 
-Rosja zobowiązała się wobec Francji, że uderzy na Niemcy jak najszybciej, by odciągnąć część sił niemieckich z frontu zachodniego. Dlatego rozpoczęła ofensywę na Prusy Wschodnie, zanim w pełni zakończyła mobilizację. Od wschodu wkroczyła 1 Armia generała [Paula von Rennenkampfa](https://pl.wikipedia.org/wiki/Paul_von_Rennenkampf), od południa miała nadejść 2 Armia generała [Aleksandra Samsonowa](https://pl.wikipedia.org/wiki/Aleksandr_Samsonow).
+Rosja zobowiązała się wobec Francji, że uderzy na Niemcy jak najszybciej, by odciągnąć część sił niemieckich z frontu zachodniego. Dlatego rozpoczęła ofensywę na Prusy Wschodnie, zanim w pełni zakończyła mobilizację. Od wschodu wkroczyła 1 Armia generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf), od południa miała nadejść 2 Armia generała [Aleksandra Samsonowa](/postacie/aleksandr-samsonow).
 
 Broniąca prowincji niemiecka 8 Armia generała Maximiliana von Prittwitza była słabsza liczebnie. 17 sierpnia pod [Stołupianami](https://pl.wikipedia.org/wiki/Bitwa_pod_Stołupianami) dowódca I Korpusu, generał [Hermann von François](https://pl.wikipedia.org/wiki/Hermann_von_François), wbrew rozkazom zaatakował Rosjan i zadał im straty. Prittwitz postanowił wydać bitwę, zanim obie rosyjskie armie się połączą.
 
 ## Przebieg
 
-Rano 20 sierpnia Niemcy uderzyli na armię Rennenkampfa. Na północnym skrzydle korpus Françoisa odniósł sukces, spychając Rosjan. W centrum natarcie XVII Korpusu generała [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen), prowadzone bez dostatecznego rozpoznania, załamało się pod ogniem rosyjskiej artylerii i piechoty ukrytej w okopach. Niemcy ponieśli ciężkie straty, a część oddziałów wycofała się w nieładzie. Na południowym skrzydle niemiecki korpus rezerwowy nie zdołał przechylić szali.
+Rano 20 sierpnia Niemcy uderzyli na armię Rennenkampfa. Na północnym skrzydle korpus Françoisa odniósł sukces, spychając Rosjan. W centrum natarcie XVII Korpusu generała [Augusta von Mackensena](/postacie/august-von-mackensen), prowadzone bez dostatecznego rozpoznania, załamało się pod ogniem rosyjskiej artylerii i piechoty ukrytej w okopach. Niemcy ponieśli ciężkie straty, a część oddziałów wycofała się w nieładzie. Na południowym skrzydle niemiecki korpus rezerwowy nie zdołał przechylić szali.
 
 Straty obu stron były wysokie: Niemcy stracili około 14,6 tysiąca ludzi, Rosjanie około 18,8 tysiąca zabitych, rannych i wziętych do niewoli. Mimo to pole bitwy pozostało w rękach rosyjskich.
 
 ## Panika w dowództwie
 
-Porażka w centrum i wiadomość, że od południa nadciąga armia Samsonowa, wywołały u Prittwitza panikę. Rozważał odwrót aż za Wisłę, czyli oddanie całych Prus Wschodnich. Szef niemieckiego sztabu generalnego Helmuth von Moltke uznał to za niedopuszczalne. 22 sierpnia Prittwitz został odwołany, a dowództwo 8 Armii objęli generał [Paul von Hindenburg](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) i jego szef sztabu, Erich Ludendorff, bohater walk pod Liège.
+Porażka w centrum i wiadomość, że od południa nadciąga armia Samsonowa, wywołały u Prittwitza panikę. Rozważał odwrót aż za Wisłę, czyli oddanie całych Prus Wschodnich. Szef niemieckiego sztabu generalnego Helmuth von Moltke uznał to za niedopuszczalne. 22 sierpnia Prittwitz został odwołany, a dowództwo 8 Armii objęli generał [Paul von Hindenburg](/postacie/paul-von-hindenburg) i jego szef sztabu, Erich Ludendorff, bohater walk pod Liège.
 
 ## Znaczenie
 

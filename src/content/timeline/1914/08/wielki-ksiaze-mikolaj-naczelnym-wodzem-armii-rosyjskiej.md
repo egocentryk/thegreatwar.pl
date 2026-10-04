@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na początku sierpnia 1914 roku car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) mianował naczelnym wodzem wszystkich sił lądowych i morskich [Rosji](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) wielkiego księcia [Mikołaja Mikołajewicza](https://pl.wikipedia.org/wiki/Mikołaj_Romanow_(1856–1929)). Ukaz podpisano 2 sierpnia (20 lipca według obowiązującego wówczas w Rosji kalendarza juliańskiego), a ówczesne kroniki odnotowują nominację pod 3 sierpnia.
+Na początku sierpnia 1914 roku car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) mianował naczelnym wodzem wszystkich sił lądowych i morskich [Rosji](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) wielkiego księcia [Mikołaja Mikołajewicza](/postacie/mikolaj-mikolajewicz). Ukaz podpisano 2 sierpnia (20 lipca według obowiązującego wówczas w Rosji kalendarza juliańskiego), a ówczesne kroniki odnotowują nominację pod 3 sierpnia.
 
 Car początkowo zamierzał sam objąć dowództwo armii. Ministrowie odradzali mu to jednak, argumentując, że monarcha nie powinien wiązać swojego autorytetu z losami działań wojennych, a jego obecność potrzebna jest w stolicy. Wybór padł na wielkiego księcia, wnuka cesarza Mikołaja I i krewnego cara. Mikołaj Mikołajewicz był zawodowym żołnierzem, generałem kawalerii o ogromnym wzroście i surowym usposobieniu. Cieszył się dużym autorytetem w armii, choć nie brał udziału w przygotowywaniu planów wojennych.
 

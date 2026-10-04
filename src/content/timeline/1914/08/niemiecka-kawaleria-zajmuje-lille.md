@@ -15,7 +15,7 @@ draft: false
 
 ## Miasto otwarte
 
-Lille leżało tuż przy granicy belgijskiej i było otoczone pierścieniem przestarzałych fortów. Już na początku sierpnia rząd francuski ogłosił je [miastem otwartym](https://pl.wikipedia.org/wiki/Miasto_otwarte), czyli takim, którego nie zamierzano bronić. Po klęskach w bitwach granicznych dowództwo przez kilka dni próbowało jeszcze przygotować miasto do obrony, ale 24 sierpnia minister wojny potwierdził wcześniejszą decyzję. Wojsko i urzędy opuściły Lille w pośpiechu i nieładzie, pozostawiając broń, sprzęt i zapasy.
+Lille leżało tuż przy granicy belgijskiej i było otoczone pierścieniem przestarzałych fortów. Już na początku sierpnia rząd francuski ogłosił je [miastem otwartym](https://pl.wikipedia.org/wiki/Miasto_otwarte), czyli takim, którego nie zamierzano bronić. Po klęskach w [bitwach granicznych](/bitwy/bitwa-graniczna) dowództwo przez kilka dni próbowało jeszcze przygotować miasto do obrony, ale 24 sierpnia minister wojny potwierdził wcześniejszą decyzję. Wojsko i urzędy opuściły Lille w pośpiechu i nieładzie, pozostawiając broń, sprzęt i zapasy.
 
 W tych dniach na południe od Lille maszerowało prawe skrzydło niemieckiej 1 Armii. Według francuskich relacji osłaniający je korpus kawalerii generała [Georga von der Marwitza](https://pl.wikipedia.org/wiki/Georg_von_der_Marwitz) przeszedł około 10 kilometrów od linii fortów, a ułanów widywano w okolicznych miejscowościach. Wiadomości o nich, powtarzane przez uciekinierów, łatwo zamieniały się w pogłoski o zajęciu samego miasta.
 

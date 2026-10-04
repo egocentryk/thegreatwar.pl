@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 9 października 1914 roku pierwszą niemiecką ofensywę na Warszawę i początek bitew pod Warszawą i Iwangorodem, czyli Dęblinem. Tego dnia wojska niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) doszły do [Wisły](https://pl.wikipedia.org/wiki/Wisła). Po blisko dwóch tygodniach marszu przez Królestwo Polskie po raz pierwszy natrafiły na główne siły rosyjskie.
+Brytyjska chronologia wojny notuje pod datą 9 października 1914 roku pierwszą niemiecką ofensywę na Warszawę i początek bitew pod Warszawą i Iwangorodem, czyli Dęblinem. Tego dnia wojska niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) doszły do [Wisły](https://pl.wikipedia.org/wiki/Wisła). Po blisko dwóch tygodniach marszu przez Królestwo Polskie po raz pierwszy natrafiły na główne siły rosyjskie.
 
 ## Która data?
 
@@ -22,7 +22,7 @@ Polskie opracowania, a za nimi nasza strona o bitwie, zaczynają ją zwykle 28 w
 
 Hindenburg chciał początkowo przeprawić się przez Wisłę między Zawichostem a Iwangorodem i uderzyć Rosjan od północy. Gdy jego wojska doszły do rzeki, okazało się, że Rosjanie przesunęli główne siły na północ, w rejon Iwangorodu i Warszawy. Na lewym brzegu utrzymywali przyczółki przy [twierdzy Dęblin](https://pl.wikipedia.org/wiki/Twierdza_Dęblin) i pod [Kozienicami](https://pl.wikipedia.org/wiki/Kozienice). Niemieckie ataki na przyczółki nie przyniosły powodzenia, a rosyjski III Kaukaski Korpus sam przechodził pod Iwangorodem do natarcia.
 
-Północne skrzydło 9 Armii, grupa generała [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen), skręciło więc na Warszawę. Po kilkudniowych walkach pod [Grójcem](https://pl.wikipedia.org/wiki/Grójec) i Mszczonowem Niemcy około 10 października odrzucili nadciągające wojska syberyjskie. W kolejnych dniach zajęli między innymi [Błonie](https://pl.wikipedia.org/wiki/Błonie) na zachód od miasta. Do 12 października opanowali lewy brzeg Wisły aż po Warszawę, a ich czołówki stanęły kilkanaście kilometrów od miasta i jego fortów. Mniej więcej w tym czasie Niemcy znaleźli przy poległym rosyjskim oficerze rozkazy, z których wynikało, że przeciw pięciu dywizjom Mackensena Rosjanie gromadzą około czternastu.
+Północne skrzydło 9 Armii, grupa generała [Augusta von Mackensena](/postacie/august-von-mackensen), skręciło więc na Warszawę. Po kilkudniowych walkach pod [Grójcem](https://pl.wikipedia.org/wiki/Grójec) i Mszczonowem Niemcy około 10 października odrzucili nadciągające wojska syberyjskie. W kolejnych dniach zajęli między innymi [Błonie](https://pl.wikipedia.org/wiki/Błonie) na zachód od miasta. Do 12 października opanowali lewy brzeg Wisły aż po Warszawę, a ich czołówki stanęły kilkanaście kilometrów od miasta i jego fortów. Mniej więcej w tym czasie Niemcy znaleźli przy poległym rosyjskim oficerze rozkazy, z których wynikało, że przeciw pięciu dywizjom Mackensena Rosjanie gromadzą około czternastu.
 
 ## Szybki koniec złudzeń
 

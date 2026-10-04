@@ -22,7 +22,7 @@ Rosyjscy generałowie ostrzegali jednak, że takie rozwiązanie jest ryzykowne. 
 
 Rano 29 lipca Januszkiewicz dysponował już podpisanym przez cara [Mikołaja II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) rozkazem mobilizacji powszechnej. Wieczorem, około godziny 21, telegramy uruchamiające mobilizację całego imperium były już gotowe do wysłania. Kilka minut przed ich nadaniem przybył jednak posłaniec cara z poleceniem, by mobilizację powszechną wstrzymać i ograniczyć się do częściowej.
 
-Mikołaj II zmienił zdanie pod wpływem telegramu od cesarza [Wilhelma II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern), który zapewniał, że próbuje doprowadzić do porozumienia między Rosją a Austro-Węgrami, i prosił, by rosyjskie przygotowania wojskowe nie zniweczyły tych starań. Car miał wówczas powiedzieć, że nie weźmie na siebie odpowiedzialności za potworną rzeź.
+Mikołaj II zmienił zdanie pod wpływem telegramu od cesarza [Wilhelma II](/postacie/wilhelm-ii), który zapewniał, że próbuje doprowadzić do porozumienia między Rosją a Austro-Węgrami, i prosił, by rosyjskie przygotowania wojskowe nie zniweczyły tych starań. Car miał wówczas powiedzieć, że nie weźmie na siebie odpowiedzialności za potworną rzeź.
 
 W brytyjskich kronikach wydarzeń z tamtego czasu zapisano, że wieczorem 29 lipca rosyjski minister wojny zarządził mobilizację powszechną bez wiedzy cara. Twierdzenie to pochodzi z zeznań złożonych w 1917 roku na procesie Suchomlinowa, gdzie sugerowano, że generałowie nie wykonali carskiego polecenia. Z relacji uczestników wynika jednak, że 29 lipca telegramy o mobilizacji powszechnej ostatecznie wstrzymano. Car zgodził się na mobilizację całej armii dopiero następnego dnia, 30 lipca, po rozmowie z Sazonowem.
 

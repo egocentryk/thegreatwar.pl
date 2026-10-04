@@ -32,7 +32,7 @@ Na Emdenie zginęło, zależnie od źródła, od około 115 do ponad 130 ludzi. 
 
 Müller trafił do niewoli wraz z ocalałymi członkami załogi. Przewieziono ich na Cejlon, a stamtąd oficerów na [Maltę](https://pl.wikipedia.org/wiki/Malta). Brytyjczycy traktowali go z szacunkiem, ale pilnowali uważnie. W 1916 roku przeniesiono go do obozu w Anglii, gdzie w 1917 roku uczestniczył w ucieczce ponad dwudziestu jeńców tunelem, zakończonej schwytaniem. Chory na malarię, w 1918 roku trafił w ramach wymiany jeńców do Holandii, a w październiku wrócił do Niemiec. Otrzymał order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). Po wojnie odszedł z marynarki, był posłem do parlamentu Brunszwiku i zmarł w 1923 roku, osłabiony nawrotami malarii.
 
-W Niemczech Emden stał się legendą. Cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) postanowił, że następca okrętu, nowy krążownik Emden, będzie nosił na dziobie [Krzyż Żelazny](https://pl.wikipedia.org/wiki/Krzyż_Żelazny). Członkowie załogi i ich potomkowie otrzymali później prawo dodawania do nazwiska członu „-Emden”.
+W Niemczech Emden stał się legendą. Cesarz [Wilhelm II](/postacie/wilhelm-ii) postanowił, że następca okrętu, nowy krążownik Emden, będzie nosił na dziobie [Krzyż Żelazny](https://pl.wikipedia.org/wiki/Krzyż_Żelazny). Członkowie załogi i ich potomkowie otrzymali później prawo dodawania do nazwiska członu „-Emden”.
 
 ## Duma Australii
 

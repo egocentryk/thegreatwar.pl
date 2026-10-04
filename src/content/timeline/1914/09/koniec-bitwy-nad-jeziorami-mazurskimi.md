@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-15 września 1914 roku zakończyła się bitwa nad jeziorami mazurskimi. Niemiecka 8 Armia generała [Paula von Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) zakończyła pościg za rosyjską 1 Armią generała [Paula von Rennenkampfa](https://pl.wikipedia.org/wiki/Paul_von_Rennenkampf), która wycofała się za granicę [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie). Po niespełna miesiącu rosyjskiej inwazji prowincja była znów w rękach Niemców.
+15 września 1914 roku zakończyła się bitwa nad jeziorami mazurskimi. Niemiecka 8 Armia generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) zakończyła pościg za rosyjską 1 Armią generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf), która wycofała się za granicę [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie). Po niespełna miesiącu rosyjskiej inwazji prowincja była znów w rękach Niemców.
 
 ## Ucieczka Rennenkampfa
 

@@ -15,7 +15,7 @@ draft: false
 
 ## Bez linii obrony
 
-Kermanszah był w rękach rosyjskich od 26 lutego, gdy [korpus Baratowa zajął miasto](/rosjanie-zajmuja-kermanszah) i wypędził z niego perskich nacjonalistów, Niemców i Turków. Wiosną Baratow doszedł stąd aż pod Chanakin, ale w czerwcu na granicy z Irakiem stanął przeciw niemu cały XIII Korpus, wysłany do Persji z rozkazu [Envera Paszy](https://pl.wikipedia.org/wiki/İsmail_Enver). Po [nieudanym rosyjskim ataku na Chanakin](/osmanska-ofensywa-w-zachodniej-persji) zaczął się odwrót, a Turcy [odzyskali Kasr-e Szirin](/wojska-osmanskie-odbijaja-kasr-e-szirin) i ruszyli w głąb kraju.
+Kermanszah był w rękach rosyjskich od 26 lutego, gdy [korpus Baratowa zajął miasto](/rosjanie-zajmuja-kermanszah) i wypędził z niego perskich nacjonalistów, Niemców i Turków. Wiosną Baratow doszedł stąd aż pod Chanakin, ale w czerwcu na granicy z Irakiem stanął przeciw niemu cały XIII Korpus, wysłany do Persji z rozkazu [Envera Paszy](/postacie/enver-pasza). Po [nieudanym rosyjskim ataku na Chanakin](/osmanska-ofensywa-w-zachodniej-persji) zaczął się odwrót, a Turcy [odzyskali Kasr-e Szirin](/wojska-osmanskie-odbijaja-kasr-e-szirin) i ruszyli w głąb kraju.
 
 Rosjanie stanęli do obrony na wysokim płaskowyżu pod Kerendem. 28 czerwca Ali Ihsan zaatakował ich tam całym korpusem. Przez cały dzień około 3 tysięcy rosyjskich strzelców odpierało natarcie, ale po południu Turcy obeszli prawe skrzydło i zepchnęli 1 Pułk Kozaków Zaporoskich. Baratow, obawiając się odcięcia drogi odwrotu, nocą wycofał się w stronę Kermanszahu. Allen i Muratow podkreślają, że przed samym miastem nie było żadnych pozycji obronnych, na których można by zatrzymać Turków. Baratow nie próbował więc bronić Kermanszahu i odszedł dalej na wschód.
 

@@ -20,9 +20,9 @@ Brytyjska kronika wojny, na której opiera się nasza oś czasu, datuje bitwę p
 
 ## Dwa plany
 
-Naczelny wódz armii francuskiej, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), wciąż liczył na obejście niemieckiego skrzydła od północy. Z północnych korpusów 2 Armii generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) oraz pobliskich dywizji terytorialnych i kawalerii utworzył zgrupowanie, którym dowodził Maud'huy. Miało ono zebrać się wokół Arras i uderzyć na skrzydło Niemców.
+Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), wciąż liczył na obejście niemieckiego skrzydła od północy. Z północnych korpusów 2 Armii generała [Noëla de Castelnau](/postacie/noel-de-castelnau) oraz pobliskich dywizji terytorialnych i kawalerii utworzył zgrupowanie, którym dowodził Maud'huy. Miało ono zebrać się wokół Arras i uderzyć na skrzydło Niemców.
 
-Niemcy mieli ten sam zamiar, tyle że w przeciwnym kierunku. 28 września szef sztabu generalnego [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn) nakazał 6 Armii księcia [Rupprechta Bawarskiego](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach) natarcie pod Arras. Rupprecht chciał zatrzymać Francuzów na zachód od miasta i obejść je od północy. Korpus Gwardii i IV Korpus opuściły swoje pozycje nad Aisne 27 września. Tego samego dnia w Metzu zaczął ładować się do pociągów I Bawarski Korpus Rezerwowy.
+Niemcy mieli ten sam zamiar, tyle że w przeciwnym kierunku. 28 września szef sztabu generalnego [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) nakazał 6 Armii księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) natarcie pod Arras. Rupprecht chciał zatrzymać Francuzów na zachód od miasta i obejść je od północy. Korpus Gwardii i IV Korpus opuściły swoje pozycje nad Aisne 27 września. Tego samego dnia w Metzu zaczął ładować się do pociągów I Bawarski Korpus Rezerwowy.
 
 ## Siły
 

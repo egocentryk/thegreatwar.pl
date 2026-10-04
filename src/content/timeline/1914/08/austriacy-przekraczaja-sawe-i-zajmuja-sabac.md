@@ -3,7 +3,7 @@ title: Austriacy przekraczają Sawę i zajmują Šabac
 summary: 12 sierpnia 1914 wojska austro-węgierskie przekroczyły Sawę i zajęły serbskie miasto Šabac. Rozpoczęła się pierwsza inwazja na Serbię.
 category: Działania zbrojne
 front: Front bałkański
-battle: bitwa-na-gorze-cer
+battle: kampania-serbska-1914
 date: 1914-08-12
 authors: [Natalia]
 dayOrder: 1
@@ -16,9 +16,9 @@ draft: false
 
 ## Uderzenie od północy i zachodu
 
-Austro-węgierski plan zakładał atak na [Serbię](https://pl.wikipedia.org/wiki/Królestwo_Serbii) z dwóch kierunków. Od zachodu, przez graniczną rzekę Drinę, nacierała 5 Armia, a od północy, przez Sawę, część 2 Armii. Dowództwo nad całą operacją objął generał [Oskar Potiorek](https://pl.wikipedia.org/wiki/Oskar_Potiorek), gubernator Bośni i Hercegowiny. To właśnie w jego obecności w czerwcu zginął w Sarajewie arcyksiążę Franciszek Ferdynand, a Potiorek pragnął szybko ukarać Serbię.
+Austro-węgierski plan zakładał atak na [Serbię](https://pl.wikipedia.org/wiki/Królestwo_Serbii) z dwóch kierunków. Od zachodu, przez graniczną rzekę Drinę, nacierała 5 Armia, a od północy, przez Sawę, część 2 Armii. Dowództwo nad całą operacją objął generał [Oskar Potiorek](/postacie/oskar-potiorek), gubernator Bośni i Hercegowiny. To właśnie w jego obecności w czerwcu zginął w Sarajewie arcyksiążę Franciszek Ferdynand, a Potiorek pragnął szybko ukarać Serbię.
 
-Przeprawa przez Sawę pod Šabacem nie napotkała silnego oporu. Główne siły serbskie znajdowały się głębiej w kraju, a naczelny wódz, wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), czekał, by poznać kierunek głównego uderzenia przeciwnika. Šabac, ważny ośrodek w żyznej dolinie Mačvy, znalazł się w rękach austro-węgierskich.
+Przeprawa przez Sawę pod Šabacem nie napotkała silnego oporu. Główne siły serbskie znajdowały się głębiej w kraju, a naczelny wódz, wojewoda [Radomir Putnik](/postacie/radomir-putnik), czekał, by poznać kierunek głównego uderzenia przeciwnika. Šabac, ważny ośrodek w żyznej dolinie Mačvy, znalazł się w rękach austro-węgierskich.
 
 ## Zbrodnie na ludności
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 listopada 1914 roku zakończyła się bitwa pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów), trwająca od [13 października](/poczatek-bitwy-pod-chyrowem). Przez trzy tygodnie austro-węgierska 2 i 3 Armia bezskutecznie atakowały pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow) na wzgórzach na południe od Przemyśla. Ostatniego dnia bitwy 2 Armia jeszcze nacierała, a jej XII Korpus podszedł pod Stary Sambor. W nocy z 2 na 3 listopada wojska austro-węgierskie zaczęły się jednak wycofywać.
+2 listopada 1914 roku zakończyła się bitwa pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów), trwająca od [13 października](/poczatek-bitwy-pod-chyrowem). Przez trzy tygodnie austro-węgierska 2 i 3 Armia bezskutecznie atakowały pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) na wzgórzach na południe od Przemyśla. Ostatniego dnia bitwy 2 Armia jeszcze nacierała, a jej XII Korpus podszedł pod Stary Sambor. W nocy z 2 na 3 listopada wojska austro-węgierskie zaczęły się jednak wycofywać.
 
 ## Rozkaz z Wisły
 
@@ -24,4 +24,4 @@ Brusiłow szybko zauważył, co się dzieje. Lotnicy donieśli mu o długich kol
 
 ## Przemyśl znów sam
 
-Odwrót oznaczał, że Przemyśl, [odblokowany](/odsiecz-przemysla) zaledwie kilka tygodni wcześniej, znów zostanie w okrążeniu. 4 listopada władze nakazały opuścić miasto cywilom, którzy nie mieli zapasów żywności, a kilka dni później Rosjanie ponownie otoczyli twierdzę. Bitwa pod Chyrowem, okupiona przez obie strony ogromnymi stratami, nie przyniosła Austro-Węgrom niczego. Zdobycze październikowej kontrofensywy przepadły, a front wrócił w miejsca, do których armie habsburskie dotarły po klęsce w bitwie galicyjskiej.
+Odwrót oznaczał, że Przemyśl, [odblokowany](/odsiecz-przemysla) zaledwie kilka tygodni wcześniej, znów zostanie w okrążeniu. 4 listopada władze nakazały opuścić miasto cywilom, którzy nie mieli zapasów żywności, a kilka dni później Rosjanie ponownie otoczyli twierdzę. Bitwa pod Chyrowem, okupiona przez obie strony ogromnymi stratami, nie przyniosła Austro-Węgrom niczego. Zdobycze październikowej kontrofensywy przepadły, a front wrócił w miejsca, do których armie habsburskie dotarły po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska).

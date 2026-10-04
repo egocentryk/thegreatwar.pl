@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 listopada 1918 roku generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain), naczelny wódz armii francuskiej, dowiedział się, że zostanie [marszałkiem Francji](https://pl.wikipedia.org/wiki/Marszałkowie_Francji). Według dziennika jego zastępcy, generała Edmonda Buata, wiadomość przyszła telefonicznie w południe. Dwa dni wcześniej, na prośbę oficerów Wielkiej Kwatery Głównej, w sprawie buławy dla Pétaina u premiera [Georges'a Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) interweniował marszałek [Ferdinand Foch](https://pl.wikipedia.org/wiki/Ferdinand_Foch). Formalnie Pétain został marszałkiem dekretem prezydenta z 21 listopada, ogłoszonym w dzienniku urzędowym następnego dnia, dlatego większość opracowań podaje datę 21 listopada.
+19 listopada 1918 roku generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain), naczelny wódz armii francuskiej, dowiedział się, że zostanie [marszałkiem Francji](https://pl.wikipedia.org/wiki/Marszałkowie_Francji). Według dziennika jego zastępcy, generała Edmonda Buata, wiadomość przyszła telefonicznie w południe. Dwa dni wcześniej, na prośbę oficerów Wielkiej Kwatery Głównej, w sprawie buławy dla Pétaina u premiera [Georges'a Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) interweniował marszałek [Ferdinand Foch](/postacie/ferdinand-foch). Formalnie Pétain został marszałkiem dekretem prezydenta z 21 listopada, ogłoszonym w dzienniku urzędowym następnego dnia, dlatego większość opracowań podaje datę 21 listopada.
 
 ## Dzień w Metzu
 

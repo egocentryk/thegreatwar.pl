@@ -12,17 +12,17 @@ milestone: false
 draft: false
 ---
 
-3 października 1914 roku do oblężonej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia) przyjechał pierwszy lord Admiralicji [Winston Churchill](https://pl.wikipedia.org/wiki/Winston_Churchill), a w nocy z 3 na 4 października dotarły tam pierwsze brytyjskie posiłki. Była to Brygada Piechoty Morskiej, złożona z żołnierzy [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines). Jej przybycie miało przekonać Belgów, że warto bronić twierdzy jeszcze kilka dni.
+3 października 1914 roku do oblężonej [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia) przyjechał pierwszy lord Admiralicji [Winston Churchill](/postacie/winston-churchill), a w nocy z 3 na 4 października dotarły tam pierwsze brytyjskie posiłki. Była to Brygada Piechoty Morskiej, złożona z żołnierzy [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines). Jej przybycie miało przekonać Belgów, że warto bronić twierdzy jeszcze kilka dni.
 
 ## Belgowie szykują się do ewakuacji
 
 Na początku października sytuacja w Antwerpii była krytyczna. Niemieckie moździerze oblężnicze zniszczyły kilka fortów zewnętrznego pierścienia, a belgijskie dywizje na południowo-wschodnim odcinku cofnęły się za rzekę [Nete](https://pl.wikipedia.org/wiki/Nete_(rzeka)). 2 października najwyższa belgijska rada obrony uznała, że rząd i korpus dyplomatyczny powinny następnego dnia opuścić miasto. O planowanej ewakuacji poinformowano Londyn.
 
-Wiadomość wywołała tam niepokój. Utrata Antwerpii i zagłada armii belgijskiej otworzyłyby Niemcom drogę do wybrzeża kanału La Manche. Późnym wieczorem 2 października Churchill, który jechał właśnie do Dunkierki, spotkał się z ministrem wojny [lordem Herbertem Kitchenerem](https://pl.wikipedia.org/wiki/Horatio_Kitchener) i ministrem spraw zagranicznych [Edwardem Greyem](https://pl.wikipedia.org/wiki/Edward_Grey). Uzgodnili, że Churchill pojedzie do Antwerpii i na miejscu oceni, czy twierdzę da się jeszcze utrzymać.
+Wiadomość wywołała tam niepokój. Utrata Antwerpii i zagłada armii belgijskiej otworzyłyby Niemcom drogę do wybrzeża kanału La Manche. Późnym wieczorem 2 października Churchill, który jechał właśnie do Dunkierki, spotkał się z ministrem wojny [lordem Herbertem Kitchenerem](/postacie/horatio-kitchener) i ministrem spraw zagranicznych [Edwardem Greyem](/postacie/edward-grey). Uzgodnili, że Churchill pojedzie do Antwerpii i na miejscu oceni, czy twierdzę da się jeszcze utrzymać.
 
 ## Churchill w twierdzy
 
-Churchill przyjechał do Antwerpii w ciągu dnia 3 października. Według relacji świadków od razu objeżdżał linie obrony, nie zważając na ostrzał. W rozmowach z królem [Albertem I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) i premierem Charlesem de Broqueville'em przekonywał, że pomoc jest w drodze, i nakłonił Belgów do wstrzymania ewakuacji. Obiecał przysłanie brytyjskich marynarzy, a w dalszej perspektywie regularnych dywizji z Wielkiej Brytanii.
+Churchill przyjechał do Antwerpii w ciągu dnia 3 października. Według relacji świadków od razu objeżdżał linie obrony, nie zważając na ostrzał. W rozmowach z królem [Albertem I](/postacie/albert-i) i premierem Charlesem de Broqueville'em przekonywał, że pomoc jest w drodze, i nakłonił Belgów do wstrzymania ewakuacji. Obiecał przysłanie brytyjskich marynarzy, a w dalszej perspektywie regularnych dywizji z Wielkiej Brytanii.
 
 ## Marines nad Nete
 

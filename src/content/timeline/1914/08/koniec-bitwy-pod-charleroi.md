@@ -12,15 +12,15 @@ milestone: false
 draft: false
 ---
 
-24 sierpnia 1914 roku francuska 5 Armia generała Charles'a Lanrezaca wycofywała się znad [Sambry](https://pl.wikipedia.org/wiki/Sambra) na południe, w stronę granicy francuskiej. Tak zakończyła się bitwa pod [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), jedna z najważniejszych [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)) na froncie zachodnim.
+24 sierpnia 1914 roku francuska 5 Armia generała Charles'a Lanrezaca wycofywała się znad [Sambry](https://pl.wikipedia.org/wiki/Sambra) na południe, w stronę granicy francuskiej. Tak zakończyła się bitwa pod [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), jedna z najważniejszych [bitew granicznych](/bitwy/bitwa-graniczna) na froncie zachodnim.
 
 ## Odwrót 5 Armii
 
-Rozkaz odwrotu Lanrezac wydał wieczorem 23 sierpnia. Jego armia od trzech dni walczyła z niemiecką 2 Armią generała [Karla von Bülowa](https://pl.wikipedia.org/wiki/Karl_von_Bülow), nacierającą przez Sambrę, a tego dnia niemiecka 3 Armia generała [Maxa von Hausena](https://pl.wikipedia.org/wiki/Max_von_Hausen) sforsowała Mozę w rejonie [Dinant](https://pl.wikipedia.org/wiki/Dinant) i zagroziła prawemu skrzydłu Francuzów. Z północnego wschodu napływały zaś wieści o upadku fortów Namuru. Pozostanie na miejscu groziło okrążeniem.
+Rozkaz odwrotu Lanrezac wydał wieczorem 23 sierpnia. Jego armia od trzech dni walczyła z niemiecką 2 Armią generała [Karla von Bülowa](/postacie/karl-von-bulow), nacierającą przez Sambrę, a tego dnia niemiecka 3 Armia generała [Maxa von Hausena](https://pl.wikipedia.org/wiki/Max_von_Hausen) sforsowała Mozę w rejonie [Dinant](https://pl.wikipedia.org/wiki/Dinant) i zagroziła prawemu skrzydłu Francuzów. Z północnego wschodu napływały zaś wieści o upadku fortów Namuru. Pozostanie na miejscu groziło okrążeniem.
 
 24 sierpnia francuskie korpusy, osłaniane przez tylne straże, odchodziły przez region między Sambrą a Mozą w kierunku linii od [Maubeuge](https://pl.wikipedia.org/wiki/Maubeuge) po [Philippeville](https://pl.wikipedia.org/wiki/Philippeville) i dalej ku Francji. Niemcy, sami wyczerpani trzydniowymi walkami, nie zdołali przeciąć im drogi. Armia Lanrezaca poniosła ciężkie straty, ale uniknęła zniszczenia.
 
-Tego samego dnia rano naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) przyznał w meldunku do ministra wojny, że ofensywa na całym froncie się nie powiodła. Winą obarczył przede wszystkim dowódców i żołnierzy, którzy jego zdaniem nie wykazali w polu oczekiwanych zdolności ofensywnych. Armie francuskie miały odtąd przejść do obrony i zyskać czas na przegrupowanie.
+Tego samego dnia rano naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) przyznał w meldunku do ministra wojny, że ofensywa na całym froncie się nie powiodła. Winą obarczył przede wszystkim dowódców i żołnierzy, którzy jego zdaniem nie wykazali w polu oczekiwanych zdolności ofensywnych. Armie francuskie miały odtąd przejść do obrony i zyskać czas na przegrupowanie.
 
 ## Kiedy skończyła się bitwa?
 

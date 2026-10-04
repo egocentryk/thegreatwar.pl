@@ -17,11 +17,11 @@ draft: false
 
 Belgia nie zagrażała Niemcom i nie była stroną żadnego sojuszu. Jej jedyną „winą” było położenie na drodze, którą niemiecki [plan Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena) przewidywał dla głównego uderzenia na Francję. Przemarsz przez Belgię pozwalał ominąć silnie ufortyfikowaną granicę francusko-niemiecką i wyjść na tyły armii francuskiej.
 
-Niemcy były jednym z gwarantów belgijskiej neutralności, zapisanej w [traktacie londyńskim z 1839 roku](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)). Atak na Belgię oznaczał więc złamanie zobowiązania, które same przyjęły. W dniu inwazji kanclerz [Theobald von Bethmann Hollweg](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg) przyznał to otwarcie w Reichstagu. Mówił, że Niemcy znajdują się w stanie koniecznej obrony, a „konieczność nie zna prawa”. Przyznał, że wkroczenie do Belgii jest sprzeczne z prawem międzynarodowym, i zapowiedział, że Niemcy naprawią wyrządzoną krzywdę, gdy tylko osiągną swój cel wojskowy.
+Niemcy były jednym z gwarantów belgijskiej neutralności, zapisanej w [traktacie londyńskim z 1839 roku](https://pl.wikipedia.org/wiki/Traktat_londyński_(1839)). Atak na Belgię oznaczał więc złamanie zobowiązania, które same przyjęły. W dniu inwazji kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) przyznał to otwarcie w Reichstagu. Mówił, że Niemcy znajdują się w stanie koniecznej obrony, a „konieczność nie zna prawa”. Przyznał, że wkroczenie do Belgii jest sprzeczne z prawem międzynarodowym, i zapowiedział, że Niemcy naprawią wyrządzoną krzywdę, gdy tylko osiągną swój cel wojskowy.
 
 ## Odpowiedź Belgii
 
-Tego samego dnia król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg) przemówił do zgromadzonego parlamentu. Wezwał Belgów do jedności i obrony kraju. Rząd zerwał stosunki dyplomatyczne z Niemcami i zwrócił się o pomoc do mocarstw gwarantujących neutralność Belgii: Wielkiej Brytanii, Francji i Rosji.
+Tego samego dnia król [Albert I](/postacie/albert-i) przemówił do zgromadzonego parlamentu. Wezwał Belgów do jedności i obrony kraju. Rząd zerwał stosunki dyplomatyczne z Niemcami i zwrócił się o pomoc do mocarstw gwarantujących neutralność Belgii: Wielkiej Brytanii, Francji i Rosji.
 
 Belgijska armia, niewielka i niedostatecznie przygotowana, przystąpiła do obrony. Jej pierwszym punktem oporu stała się twierdza [Liège](https://pl.wikipedia.org/wiki/Liège), otoczona pierścieniem fortów na brzegach [Mozy](https://pl.wikipedia.org/wiki/Moza). Niemcy spodziewali się, że zdobędą ją w ciągu kilku dni.
 

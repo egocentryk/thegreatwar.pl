@@ -16,7 +16,7 @@ W niedzielę 6 grudnia 1914 roku wojska niemieckie wkroczyły do [Łodzi](https:
 
 ## Odwrót Rosjan
 
-Po wyrwaniu się niemieckiej grupy generała Scheffera z kotła pod Brzezinami walki wokół Łodzi trwały jeszcze przez prawie dwa tygodnie. Niemcy dostawali posiłki, w tym korpusy przerzucone z frontu zachodniego, które od 30 listopada [nacierały pod Łowiczem](/poczatek-bitwy-nad-bzura). Rosyjskie armie, wyczerpane i pozbawione amunicji, broniły się w wysuniętym na zachód łuku wokół miasta. 29 listopada naczelny wódz, wielki książę [Mikołaj Mikołajewicz](https://pl.wikipedia.org/wiki/Mikołaj_Romanow_(1856–1929)), zdecydował o wycofaniu wojsk na krótszą linię, bliżej Warszawy.
+Po wyrwaniu się niemieckiej grupy generała Scheffera z kotła pod Brzezinami walki wokół Łodzi trwały jeszcze przez prawie dwa tygodnie. Niemcy dostawali posiłki, w tym korpusy przerzucone z frontu zachodniego, które od 30 listopada [nacierały pod Łowiczem](/poczatek-bitwy-nad-bzura). Rosyjskie armie, wyczerpane i pozbawione amunicji, broniły się w wysuniętym na zachód łuku wokół miasta. 29 listopada naczelny wódz, wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), zdecydował o wycofaniu wojsk na krótszą linię, bliżej Warszawy.
 
 Rosjanie opuścili Łódź w nocy z 5 na 6 grudnia. Według polskiej Wikipedii pierwsze niemieckie patrole pojawiły się w mieście wczesnym rankiem, a główne siły, z XXV Korpusu Rezerwowego generała Reinharda von Scheffera-Boyadela, weszły o 16.45. Niemiecka artyleria jeszcze tego dnia ostrzeliwała północno-zachodnią część miasta. Ogień ustał dopiero wtedy, gdy na prośbę jednego z niemieckich oficerów wywieszono białą flagę na wieży kościoła Wniebowzięcia Najświętszej Maryi Panny.
 

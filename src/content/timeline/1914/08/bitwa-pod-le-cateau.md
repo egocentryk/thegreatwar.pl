@@ -16,7 +16,7 @@ draft: false
 
 ## Odwrót spod Mons
 
-Po bitwie pod Mons Korpus Ekspedycyjny [wycofywał się na południe](/brytyjczycy-wycofuja-sie-spod-mons), ścigany przez armię generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck). Między dwoma brytyjskimi korpusami leżał rozległy las Mormal, więc musiały maszerować osobno. I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) szedł wschodnią stroną lasu i wieczorem 25 sierpnia stoczył nocną potyczkę pod [Landrecies](https://pl.wikipedia.org/wiki/Landrecies). Następnie odszedł dalej na południe i stracił łączność z resztą sił.
+Po bitwie pod Mons Korpus Ekspedycyjny [wycofywał się na południe](/brytyjczycy-wycofuja-sie-spod-mons), ścigany przez armię generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Między dwoma brytyjskimi korpusami leżał rozległy las Mormal, więc musiały maszerować osobno. I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) szedł wschodnią stroną lasu i wieczorem 25 sierpnia stoczył nocną potyczkę pod [Landrecies](https://pl.wikipedia.org/wiki/Landrecies). Następnie odszedł dalej na południe i stracił łączność z resztą sił.
 
 II Korpus, złożony z 3 i 5 Dywizji, dotarł w okolice Le Cateau późnym wieczorem 25 sierpnia, w strugach deszczu, po kilku dniach walk i marszów. Dołączyła do niego świeżo przybyła z Anglii 4 Dywizja generała Thomasa Snowa oraz kawaleria generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby). Żołnierze byli skrajnie wyczerpani, drogi zatarasowane taborami i uciekinierami, a niemiecka czołówka znajdowała się tuż za nimi.
 
@@ -24,7 +24,7 @@ II Korpus, złożony z 3 i 5 Dywizji, dotarł w okolice Le Cateau późnym wiecz
 
 W nocy z 25 na 26 sierpnia Smith-Dorrien naradził się z dowódcami. Allenby meldował, że jego konnica jest rozproszona i nie zdoła osłaniać dalszego odwrotu, a dowódca 3 Dywizji uważał, że jego żołnierze nie ruszą w drogę wcześniej niż rano. Smith-Dorrien uznał, że jeśli korpus wyruszy za dnia, Niemcy dogonią go na marszu i rozbiją. Około 3.30 postanowił więc stanąć do walki, zadać przeciwnikowi silny cios, a potem kontynuować odwrót.
 
-Naczelny wódz, marszałek [John French](https://pl.wikipedia.org/wiki/John_French), chciał tymczasem, żeby cała armia wycofywała się bez zatrzymywania. Około 7.00 zastępca szefa sztabu generał Henry Wilson zadzwonił do Smith-Dorriena z rozkazem dalszego odwrotu. Smith-Dorrien odpowiedział, że jest już za późno, bo jego żołnierze walczą. Wilson przyjął to do wiadomości i życzył mu powodzenia.
+Naczelny wódz, marszałek [John French](/postacie/john-french), chciał tymczasem, żeby cała armia wycofywała się bez zatrzymywania. Około 7.00 zastępca szefa sztabu generał Henry Wilson zadzwonił do Smith-Dorriena z rozkazem dalszego odwrotu. Smith-Dorrien odpowiedział, że jest już za późno, bo jego żołnierze walczą. Wilson przyjął to do wiadomości i życzył mu powodzenia.
 
 ## Przebieg bitwy
 

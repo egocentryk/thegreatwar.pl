@@ -12,13 +12,13 @@ milestone: true
 draft: false
 ---
 
-19 października 1914 roku rozpoczęła się [pierwsza bitwa pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), ostatnia i najkrwawsza bitwa wyścigu do morza. Tę datę przyjęła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Tego dnia brytyjska 7 Dywizja ruszyła na Menin, by obejść niemieckie skrzydło, ale zamiast słabych osłon natrafiła na czoło nowej niemieckiej armii, która nadciągała przez Belgię w stronę [Ypres](https://pl.wikipedia.org/wiki/Ieper). Natarcie odwołano, a w kolejnych tygodniach to Niemcy atakowali, próbując przełamać front i dotrzeć do portów nad kanałem La Manche.
+19 października 1914 roku rozpoczęła się [pierwsza bitwa pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), ostatnia i najkrwawsza bitwa [wyścigu do morza](/bitwy/wyscig-do-morza). Tę datę przyjęła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Tego dnia brytyjska 7 Dywizja ruszyła na Menin, by obejść niemieckie skrzydło, ale zamiast słabych osłon natrafiła na czoło nowej niemieckiej armii, która nadciągała przez Belgię w stronę [Ypres](https://pl.wikipedia.org/wiki/Ieper). Natarcie odwołano, a w kolejnych tygodniach to Niemcy atakowali, próbując przełamać front i dotrzeć do portów nad kanałem La Manche.
 
 ## Dwie ofensywy
 
-W połowie października zarówno alianci, jak i Niemcy szykowali się do natarcia we Flandrii. Marszałek [John French](https://pl.wikipedia.org/wiki/John_French) i generał Ferdinand Foch zamierzali ruszyć z Ypres na wschód, w stronę Roeselare i Gandawy, obejść północne skrzydło Niemców i odciąć ich oddziały na belgijskim wybrzeżu. Brytyjski wywiad oceniał, że na północ od Lys stoi najwyżej trzy i pół korpusu, w tym wyczerpany III Korpus Rezerwowy spod Antwerpii.
+W połowie października zarówno alianci, jak i Niemcy szykowali się do natarcia we Flandrii. Marszałek [John French](/postacie/john-french) i generał Ferdinand Foch zamierzali ruszyć z Ypres na wschód, w stronę Roeselare i Gandawy, obejść północne skrzydło Niemców i odciąć ich oddziały na belgijskim wybrzeżu. Brytyjski wywiad oceniał, że na północ od Lys stoi najwyżej trzy i pół korpusu, w tym wyczerpany III Korpus Rezerwowy spod Antwerpii.
 
-W rzeczywistości przez Belgię maszerowała nowa niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](https://pl.wikipedia.org/wiki/Albrecht_Wirtemberski). Obok III Korpusu Rezerwowego tworzyły ją cztery korpusy rezerwowe, XXII, XXIII, XXVI i XXVII, sformowane w sierpniu z ochotników, rezerwistów i żołnierzy [Landwehry](https://pl.wikipedia.org/wiki/Landwehra). Szef niemieckiego sztabu generalnego, generał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), chciał nimi przełamać front między Ypres a morzem i zająć Dunkierkę i Calais.
+W rzeczywistości przez Belgię maszerowała nowa niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski). Obok III Korpusu Rezerwowego tworzyły ją cztery korpusy rezerwowe, XXII, XXIII, XXVI i XXVII, sformowane w sierpniu z ochotników, rezerwistów i żołnierzy [Landwehry](https://pl.wikipedia.org/wiki/Landwehra). Szef niemieckiego sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), chciał nimi przełamać front między Ypres a morzem i zająć Dunkierkę i Calais.
 
 ## Natarcie na Menin
 
@@ -34,7 +34,7 @@ Niemcy nacierali tego dnia na całym froncie 4 Armii. Na północy III i XXII Ko
 
 ## Przybywa I Korpus
 
-Do Flandrii dotarł właśnie ostatni korpus brytyjski, I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig), przerzucony znad Aisne. Wieczorem 19 października French wydał Haigowi pisemny rozkaz: przejść przez Ypres, ruszyć przez Torhout na Brugię i zepchnąć Niemców w stronę Gandawy. W rozkazie oceniał, że na froncie od Menin po Ostendę stoi najwyżej jeden korpus nieprzyjaciela.
+Do Flandrii dotarł właśnie ostatni korpus brytyjski, I Korpus generała [Douglasa Haiga](/postacie/douglas-haig), przerzucony znad Aisne. Wieczorem 19 października French wydał Haigowi pisemny rozkaz: przejść przez Ypres, ruszyć przez Torhout na Brugię i zepchnąć Niemców w stronę Gandawy. W rozkazie oceniał, że na froncie od Menin po Ostendę stoi najwyżej jeden korpus nieprzyjaciela.
 
 20 października o świcie dywizje Haiga wyruszyły spod Poperinge i Hazebrouck, przedzierając się przez tłumy uciekinierów. Wieczorem 2 Dywizja stanęła na północny wschód od Ypres, a 1 Dywizja za nią, w okolicy Elverdinge. Tego samego dnia niemiecka 4 i 6 Armia uderzyły na całym froncie od La Bassée po morze. Na południe od Ypres Niemcy zaatakowali kawalerię Allenby'ego i III Korpus pod Armentières, a pod Ypres dwukrotnie szturmowali pozycje 7 Dywizji. Francuska kawaleria cofnęła się za las Houthulst, odsłaniając lewe skrzydło Brytyjczyków, więc Haig wysłał dwa bataliony gwardii do Zonnebeke i St. Juliaan.
 

@@ -20,11 +20,11 @@ tags: [Brytyjski Korpus Ekspedycyjny, Wielka Brytania, Niemcy, Belgia]
 
 ## Na drodze niemieckiego skrzydła
 
-Korpus Ekspedycyjny, dowodzony przez marszałka [Johna Frencha](https://pl.wikipedia.org/wiki/John_French), przybył do Francji w drugim tygodniu sierpnia i zajął pozycje na lewo od francuskiej 5 Armii. 22 sierpnia Brytyjczycy stanęli wzdłuż kanału Mons–Condé w pobliżu belgijskiego miasta [Mons](https://pl.wikipedia.org/wiki/Mons). Nie wiedzieli, że wprost na nich maszeruje niemiecka 1 Armia generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck), najsilniejsza armia skrajnego prawego skrzydła niemieckiego natarcia.
+Korpus Ekspedycyjny, dowodzony przez marszałka [Johna Frencha](/postacie/john-french), przybył do Francji w drugim tygodniu sierpnia i zajął pozycje na lewo od francuskiej 5 Armii. 22 sierpnia Brytyjczycy stanęli wzdłuż kanału Mons–Condé w pobliżu belgijskiego miasta [Mons](https://pl.wikipedia.org/wiki/Mons). Nie wiedzieli, że wprost na nich maszeruje niemiecka 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck), najsilniejsza armia skrajnego prawego skrzydła niemieckiego natarcia.
 
 ## 23 sierpnia
 
-Rano 23 sierpnia Niemcy zaatakowali przeprawy przez kanał. Główny ciężar walki spadł na II Korpus generała Horace'a Smith-Dorriena, broniący linii kanału i wysuniętego łuku przy mostach w Nimy. I Korpus generała [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) był mniej zaangażowany.
+Rano 23 sierpnia Niemcy zaatakowali przeprawy przez kanał. Główny ciężar walki spadł na II Korpus generała Horace'a Smith-Dorriena, broniący linii kanału i wysuniętego łuku przy mostach w Nimy. I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) był mniej zaangażowany.
 
 Brytyjscy żołnierze byli zawodowcami, doskonale wyszkolonymi w szybkim i celnym strzelaniu z karabinu. Ich ogień był tak skuteczny, że według relacji Niemcy sądzili, iż mają przed sobą liczne karabiny maszynowe. Niemiecka piechota, nacierająca w zwartych szykach, poniosła ciężkie straty. Za obronę mostów w Nimy porucznik Maurice Dease i szeregowiec Sidney Godley otrzymali pierwsze w tej wojnie [Krzyże Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
 

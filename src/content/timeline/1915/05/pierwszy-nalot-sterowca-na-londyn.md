@@ -15,7 +15,7 @@ Późnym wieczorem 31 maja 1915 roku nad [Londynem](https://pl.wikipedia.org/wik
 
 ## Londyn celem
 
-Niemieckie sterowce marynarki [po raz pierwszy zbombardowały Anglię](/pierwszy-nalot-sterowcow-na-anglie) w styczniu 1915 roku. Cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) długo jednak nie zgadzał się na atak na Londyn między innymi ze względu na swoich krewnych z brytyjskiej rodziny królewskiej. Dopiero na początku maja 1915 roku zezwolił na bombardowanie miasta, ale tylko na wschód od [Tower](https://pl.wikipedia.org/wiki/Tower_of_London).
+Niemieckie sterowce marynarki [po raz pierwszy zbombardowały Anglię](/pierwszy-nalot-sterowcow-na-anglie) w styczniu 1915 roku. Cesarz [Wilhelm II](/postacie/wilhelm-ii) długo jednak nie zgadzał się na atak na Londyn między innymi ze względu na swoich krewnych z brytyjskiej rodziny królewskiej. Dopiero na początku maja 1915 roku zezwolił na bombardowanie miasta, ale tylko na wschód od [Tower](https://pl.wikipedia.org/wiki/Tower_of_London).
 
 Armia, która w marcu wysłała sterowce [nad Paryż](/pierwszy-nalot-sterowcow-na-paryz), wyprzedziła w tym marynarkę. Jej najnowszy sterowiec LZ 38 stacjonował w Evere pod Brukselą, skąd do Anglii było znacznie bliżej niż z baz nad Morzem Północnym. Linnarz już kilka razy atakował z niego angielskie wybrzeże: w nocy z 29 na 30 kwietnia zbombardował [Ipswich](https://pl.wikipedia.org/wiki/Ipswich) i [Bury St Edmunds](https://pl.wikipedia.org/wiki/Bury_St_Edmunds), a w maju [Southend-on-Sea](https://pl.wikipedia.org/wiki/Southend-on-Sea) i [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate). W tych nalotach zginęło kilka osób.
 

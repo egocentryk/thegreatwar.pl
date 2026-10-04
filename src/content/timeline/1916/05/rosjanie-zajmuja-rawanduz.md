@@ -23,7 +23,7 @@ Według Masłowskiego natarcie poszło dwiema kolumnami, gdy tylko na przełęcz
 
 Rawanduz leżał według Masłowskiego cztery–pięć dni marszu od Mosulu. Do korpusu Baratowa, który kilka dni wcześniej [zajął Kasr-e Szirin](/rosjanie-zajmuja-kasr-e-szirin), było jednak daleko. Brytyjska historia oficjalna zauważa, że między Rawanduzem a Baratowem rozciągał się szeroki pas bardzo trudnych, górzystych terenów. Obie rosyjskie grupy nie mogły się wspierać, a Al-Kut już od dwóch tygodni był w rękach Turków. Dowódca Armii Kaukaskiej, generał [Nikołaj Judenicz](https://pl.wikipedia.org/wiki/Nikołaj_Judenicz), według Allena i Muratowa nie interesował się ani Rawanduzem, ani kierunkiem na Mosul.
 
-Turcy odebrali tę zdobycz poważnie. Według Masłowskiego osmański minister wojny [Enver Pasza](https://pl.wikipedia.org/wiki/İsmail_Enver), który w tych dniach przebywał w Bagdadzie, polecił 6 Armii uderzyć na Persję na froncie od Mandali po Rawanduz, a Allen i Muratow piszą, że 4 Dywizję Kawalerii zostawiono w Mosulu dla osłony kierunku rawanduzkiego.
+Turcy odebrali tę zdobycz poważnie. Według Masłowskiego osmański minister wojny [Enver Pasza](/postacie/enver-pasza), który w tych dniach przebywał w Bagdadzie, polecił 6 Armii uderzyć na Persję na froncie od Mandali po Rawanduz, a Allen i Muratow piszą, że 4 Dywizję Kawalerii zostawiono w Mosulu dla osłony kierunku rawanduzkiego.
 
 ## Ludność miasta
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Pod koniec września 1918 roku niemiecka [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) generała [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) doszła od południa do [Rovumy](https://pl.wikipedia.org/wiki/Rovuma) i przeprawiła się na jej północny brzeg. Po dziesięciu miesiącach marszów i walk w [Portugalskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia) Niemcy znów stanęli na ziemi [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), którą opuścili [w listopadzie 1917 roku](/lettow-vorbeck-przekracza-rovume). Brytyjska chronologia wojny notuje powrót pod 29 września. Sam Lettow-Vorbeck pisał we wspomnieniach, że jego kolumny dotarły do rzeki 28 września, a po przejściu na niemiecki brzeg zatrzymały się na dwa dni w okolicy Nagwamiry.
+Pod koniec września 1918 roku niemiecka [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) generała [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) doszła od południa do [Rovumy](https://pl.wikipedia.org/wiki/Rovuma) i przeprawiła się na jej północny brzeg. Po dziesięciu miesiącach marszów i walk w [Portugalskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia) Niemcy znów stanęli na ziemi [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), którą opuścili [w listopadzie 1917 roku](/lettow-vorbeck-przekracza-rovume). Brytyjska chronologia wojny notuje powrót pod 29 września. Sam Lettow-Vorbeck pisał we wspomnieniach, że jego kolumny dotarły do rzeki 28 września, a po przejściu na niemiecki brzeg zatrzymały się na dwa dni w okolicy Nagwamiry.
 
 ## Odwrót znad Lúrio
 

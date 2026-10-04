@@ -17,7 +17,7 @@ tags: [Lotaryngia, Francja, Niemcy, Noël de Castelnau]
 milestone: false
 ---
 
-Bitwa nad Mortagne, nazywana we Francji przede wszystkim bitwą o przesmyk Charmes (fr. *trouée de Charmes*), rozegrała się w Lotaryngii w ostatnich dniach sierpnia 1914 roku. Francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail), pobite kilka dni wcześniej pod Morhange i Sarrebourgiem, zatrzymały niemiecki pościg i przeszły do kontrofensywy. Było to jedno z pierwszych francuskich zwycięstw tej wojny.
+Bitwa nad Mortagne, nazywana we Francji przede wszystkim bitwą o przesmyk Charmes (fr. *trouée de Charmes*), rozegrała się w Lotaryngii w ostatnich dniach sierpnia 1914 roku. Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail), pobite kilka dni wcześniej pod Morhange i Sarrebourgiem, zatrzymały niemiecki pościg i przeszły do kontrofensywy. Było to jedno z pierwszych francuskich zwycięstw tej wojny.
 
 ## Daty bitwy
 
@@ -33,7 +33,7 @@ Około 22–23 sierpnia Niemcy zajęli opuszczone przez Francuzów Lunéville. C
 
 24 sierpnia Niemcy uderzyli w kierunku Mozeli. Ich korpusy przekraczały Meurthe i Mortagne pod ogniem francuskiej artylerii i ponosiły ciężkie straty. W miasteczku [Gerbéviller](https://pl.wikipedia.org/wiki/Gerbéviller) nad Mortagne kilkudziesięciu francuskich strzelców pieszych broniło przez większą część dnia mostu na rzece, powstrzymując całą niemiecką brygadę. Po zajęciu miasteczka Niemcy, przekonani, że strzelali do nich cywile, zemścili się na mieszkańcach. Rozstrzeliwano ich i palono domy. Według różnych źródeł zginęło około 50–60 cywilów, a niemal cała zabudowa spłonęła. Gerbéviller nazwano potem „męczeńskim miastem”, a zakonnica siostra Julie (Amélie Rigard), która w swoim przytułku osłaniała przed Niemcami rannych, otrzymała Legię Honorową.
 
-Po południu 24 sierpnia Castelnau wyprowadził pierwszy kontratak na północ od Lunéville. Oddziały, w tym XX Korpus generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), odbiły kilka wsi.
+Po południu 24 sierpnia Castelnau wyprowadził pierwszy kontratak na północ od Lunéville. Oddziały, w tym XX Korpus generała [Ferdinanda Focha](/postacie/ferdinand-foch), odbiły kilka wsi.
 
 ## Rozelieures, 25 sierpnia
 
@@ -45,7 +45,7 @@ Po południu Niemcy zaczęli się cofać. Castelnau wydał wówczas słynny rozk
 
 Wyczerpane francuskie wojska nie zdołały przekształcić sukcesu w pogrom. Niemcy okopali się na wzgórzach między Mortagne a Meurthe i przed Lunéville, budując linie okopów z zasiekami i gniazdami karabinów maszynowych. Francuzi, nieprzyzwyczajeni jeszcze do walki z takimi pozycjami, posuwali się naprzód powoli i z dużymi stratami. Pod koniec sierpnia odbili Gerbéviller i przekroczyli Mortagne, ale kolejne ataki, na przykład w lasach koło Fraimbois, kończyły się niepowodzeniem. W Wogezach 1 Armia toczyła w tym czasie krwawe walki na przełęczy La Chipotte i wokół [Saint-Dié](https://pl.wikipedia.org/wiki/Saint-Dié-des-Vosges).
 
-27 sierpnia naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) pochwalił w rozkazie dziennym obie armie jako wzór wytrwałości i odwagi. Front w Lotaryngii był już na tyle bezpieczny, że od 1 września Joffre zaczął zabierać stąd korpusy i przerzucać je na zachód, gdzie przygotowywał wielką bitwę nad Marną.
+27 sierpnia naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) pochwalił w rozkazie dziennym obie armie jako wzór wytrwałości i odwagi. Front w Lotaryngii był już na tyle bezpieczny, że od 1 września Joffre zaczął zabierać stąd korpusy i przerzucać je na zachód, gdzie przygotowywał wielką bitwę nad Marną.
 
 ## Straty
 

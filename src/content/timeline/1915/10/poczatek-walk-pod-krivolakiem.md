@@ -28,6 +28,6 @@ Naprzeciw Francuzów stały na razie niewielkie siły. Do bułgarskiego dowództ
 
 ## Za późno
 
-Sarrail przybył jednak za późno. Gdy jego żołnierze docierali do Krivolaku, Bułgarzy mieli już Wełes, a 22 października [zajęli Kumanowo i Skopje](/bulgarzy-zajmuja-kumanowo-i-skopje). Według brytyjskiej historii oficjalnej 24 października bułgarska 2 Armia całkowicie odcięła główne siły serbskie od Francuzów. Od tej chwili armia wojewody [Radomira Putnika](https://pl.wikipedia.org/wiki/Radomir_Putnik), cofająca się pod naporem Niemców i Austriaków od północy, mogła liczyć na połączenie z Salonikami tylko wtedy, gdyby udało się odbić Skopje.
+Sarrail przybył jednak za późno. Gdy jego żołnierze docierali do Krivolaku, Bułgarzy mieli już Wełes, a 22 października [zajęli Kumanowo i Skopje](/bulgarzy-zajmuja-kumanowo-i-skopje). Według brytyjskiej historii oficjalnej 24 października bułgarska 2 Armia całkowicie odcięła główne siły serbskie od Francuzów. Od tej chwili armia wojewody [Radomira Putnika](/postacie/radomir-putnik), cofająca się pod naporem Niemców i Austriaków od północy, mogła liczyć na połączenie z Salonikami tylko wtedy, gdyby udało się odbić Skopje.
 
 Francuzi nie mieli dość sił, by do tego doprowadzić, ale postanowili utrzymać się nad Wardarem i umocnić przyczółek na jego wschodnim brzegu, na górującym nad doliną masywie Kara Hodżali. W następnych dniach przeciw nim zaczęły nadciągać coraz silniejsze oddziały bułgarskie.

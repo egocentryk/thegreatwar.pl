@@ -19,7 +19,7 @@ tags: [Rosja, Austro-Węgry, Niemcy, Królestwo Polskie, bitwa galicyjska]
 milestone: false
 ---
 
-Bitwa pod Tarnawką rozegrała się we wrześniu 1914 roku na Lubelszczyźnie, na pagórkowatych polach wokół wsi Tarnawka, Giełczew i Zakrzew, kilkanaście kilometrów na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Wojska rosyjskie przełamały tu obronę austro-węgierskiej 1 Armii generała [Victora Dankla](https://pl.wikipedia.org/wiki/Victor_Dankl) i wspierającego ją niemieckiego korpusu. Była to część wielkiej [bitwy galicyjskiej](https://pl.wikipedia.org/wiki/Bitwa_galicyjska), choć walki toczyły się nie w Galicji, lecz w Królestwie Polskim.
+Bitwa pod Tarnawką rozegrała się we wrześniu 1914 roku na Lubelszczyźnie, na pagórkowatych polach wokół wsi Tarnawka, Giełczew i Zakrzew, kilkanaście kilometrów na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Wojska rosyjskie przełamały tu obronę austro-węgierskiej 1 Armii generała [Victora Dankla](/postacie/victor-dankl) i wspierającego ją niemieckiego korpusu. Była to część wielkiej [bitwy galicyjskiej](/bitwy/bitwa-galicyjska), choć walki toczyły się nie w Galicji, lecz w Królestwie Polskim.
 
 ## Daty i nazwa
 

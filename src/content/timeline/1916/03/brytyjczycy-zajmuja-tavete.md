@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 marca 1916 roku rano 2 Pułk Konny Południowej Afryki (2nd South African Horse) po krótkiej, ostrej potyczce wyparł Niemców z [Tavety](https://pl.wikipedia.org/wiki/Taveta) u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). Przygraniczna osada w [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia) była w niemieckich rękach od [15 sierpnia 1914 roku](/niemcy-zajmuja-tavete). Przez półtora roku służyła wojskom [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) jako wysunięta baza, z której wyprawiały się oddziały na brytyjską kolej z Mombasy w głąb kraju. Teraz, piątego dnia ofensywy generała porucznika [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts), znów stała się brytyjska.
+10 marca 1916 roku rano 2 Pułk Konny Południowej Afryki (2nd South African Horse) po krótkiej, ostrej potyczce wyparł Niemców z [Tavety](https://pl.wikipedia.org/wiki/Taveta) u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). Przygraniczna osada w [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia) była w niemieckich rękach od [15 sierpnia 1914 roku](/niemcy-zajmuja-tavete). Przez półtora roku służyła wojskom [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) jako wysunięta baza, z której wyprawiały się oddziały na brytyjską kolej z Mombasy w głąb kraju. Teraz, piątego dnia ofensywy generała porucznika [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts), znów stała się brytyjska.
 
 ## Obejście zamiast szturmu
 

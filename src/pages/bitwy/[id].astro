@@ -7,6 +7,7 @@ import TimelineArchive from "@/components/TimelineArchive.astro"
 import { BATTLE_PHASES } from "@/data/battlePhases"
 import { formatDateRange } from "@/utils/formatDate"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { getPeople, personByName } from "@/utils/people"
 import { slugify } from "@/utils/slugify"
 
 export async function getStaticPaths() {
@@ -44,6 +45,8 @@ const relatedEntries = await getCollection(
   ({ data }) => !data.draft && data.battle?.id === battle.id,
 )
 const relatedByYear = groupTimelineEntries(relatedEntries)
+// Commanders with a person page become links.
+const people = await getPeople()
 ---
 
 <BaseLayout
@@ -90,7 +93,24 @@ const relatedByYear = groupTimelineEntries(relatedEntries)
                 <span>{side.name}</span>
                 {side.commanders.length > 0 && (
                   <span class="text-ink-soft block">
-                    {side.commanders.join(", ")}
+                    {side.commanders.map((commander, index) => {
+                      const person = personByName(people, commander)
+                      return (
+                        <>
+                          {index > 0 && ", "}
+                          {person ? (
+                            <a
+                              href={`/postacie/${person.id}`}
+                              class="hover:text-signal underline decoration-dotted underline-offset-2 transition-colors"
+                            >
+                              {commander}
+                            </a>
+                          ) : (
+                            commander
+                          )}
+                        </>
+                      )
+                    })}
                   </span>
                 )}
               </div>

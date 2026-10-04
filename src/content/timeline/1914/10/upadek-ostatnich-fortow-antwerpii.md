@@ -22,7 +22,7 @@ Wieczorem 8 października Brytyjczycy otrzymali rozkaz odwrotu. W nocy z 8 na 9 
 
 ## Puste forty
 
-Rankiem 9 października Niemcy stwierdzili, że część fortów wewnętrznego pierścienia została opuszczona. Generał [Hans von Beseler](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) wstrzymał bombardowanie i wezwał gubernatora twierdzy, generała Victora Deguise'a, do kapitulacji. Deguise przebywał już jednak w forcie Sainte-Marie na lewym brzegu Skaldy.
+Rankiem 9 października Niemcy stwierdzili, że część fortów wewnętrznego pierścienia została opuszczona. Generał [Hans von Beseler](/postacie/hans-von-beseler) wstrzymał bombardowanie i wezwał gubernatora twierdzy, generała Victora Deguise'a, do kapitulacji. Deguise przebywał już jednak w forcie Sainte-Marie na lewym brzegu Skaldy.
 
 W ciągu dnia pierwsze niemieckie oddziały weszły do Antwerpii. Według części relacji stało się to około południa. Żołnierze, spodziewający się walk na ulicach, zastali miasto bez obrońców i w dużej części bez mieszkańców, z których setki tysięcy uciekły w poprzednich dniach do Holandii i na zachód kraju.
 

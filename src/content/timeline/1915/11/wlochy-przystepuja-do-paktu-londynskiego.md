@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 listopada 1915 roku w Londynie przedstawiciele pięciu mocarstw podpisali krótką deklarację, w której zobowiązali się nie zawierać odrębnego pokoju. Podpisy złożyli brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) oraz ambasadorowie: Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), Włoch markiz Guglielmo Imperiali, Japonii Katsunosuke Inoue i Rosji hrabia Aleksandr Benckendorff. Dokument otwierało stwierdzenie, że rząd włoski postanowił przystąpić do [deklaracji z 5 września 1914 roku](/pakt-londynski), do której [19 października przystąpiła już Japonia](/japonia-przystepuje-do-paktu-londynskiego).
+30 listopada 1915 roku w Londynie przedstawiciele pięciu mocarstw podpisali krótką deklarację, w której zobowiązali się nie zawierać odrębnego pokoju. Podpisy złożyli brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) oraz ambasadorowie: Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), Włoch markiz Guglielmo Imperiali, Japonii Katsunosuke Inoue i Rosji hrabia Aleksandr Benckendorff. Dokument otwierało stwierdzenie, że rząd włoski postanowił przystąpić do [deklaracji z 5 września 1914 roku](/pakt-londynski), do której [19 października przystąpiła już Japonia](/japonia-przystepuje-do-paktu-londynskiego).
 
 ## Treść
 

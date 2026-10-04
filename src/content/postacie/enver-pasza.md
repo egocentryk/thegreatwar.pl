@@ -1,0 +1,63 @@
+---
+name: Enver Pasza
+summary: Minister wojny i faktyczny wódz armii osmańskiej w latach 1914–1918. Wciągnął Turcję do wojny, przegrał pod Sarykamyszem, współodpowiada za ludobójstwo Ormian.
+role: Minister wojny i zastępca wodza naczelnego armii osmańskiej (1914–1918)
+country: Imperium Osmańskie
+side: Państwa centralne
+born: 1881-11-22
+died: 1922-08-04
+birthPlace: Konstantynopol (Imperium Osmańskie)
+deathPlace: okolice Bałdżuanu (dziś Tadżykistan)
+aliases: [Enver Pasza, İsmail Enver]
+wikiTitles: [İsmail_Enver, Enver_Pasza]
+authors: [Natalia]
+tags: [Enver Pasza, Imperium Osmańskie, Kaukaz, ludobójstwo Ormian]
+---
+
+İsmail Enver, znany jako Enver Pasza, był najmłodszym i najbardziej porywczym z trzech przywódców młodotureckich, którzy rządzili Imperium Osmańskim w czasie wielkiej wojny. Obok ministra spraw wewnętrznych, a później wielkiego wezyra Talata i ministra marynarki Dżemala tworzył triumwirat, w którym odpowiadał za armię. W wieku 32 lat został ministrem wojny i szefem sztabu generalnego, a po wybuchu wojny zastępcą sułtana jako wodza naczelnego. To on najmocniej parł do sojuszu z Niemcami i do wojny z Rosją. Zimą 1914 roku sam poprowadził armię pod Sarykamysz, gdzie zginęła ona w śniegu. Historycy zaliczają go do głównych sprawców ludobójstwa Ormian. Po klęsce uciekł z kraju, sąd w Konstantynopolu skazał go zaocznie na śmierć, a zginął w 1922 roku w Azji Środkowej, walcząc z bolszewikami.
+
+## Przed wojną
+
+Urodził się w Konstantynopolu 22 lub 23 listopada 1881 roku (w jego własnych życiorysach daty się różnią), w rodzinie niższego urzędnika, i wychował w Monastyrze, dzisiejszej Bitoli. Ukończył szkołę wojskową i akademię sztabu generalnego w stolicy, a potem przez kilka lat walczył z bułgarskimi, greckimi i albańskimi oddziałami w Macedonii. Tam wstąpił do tajnego [Komitetu Jedności i Postępu](https://pl.wikipedia.org/wiki/Komitet_Jedności_i_Postępu). Latem 1908 roku poszedł z oddziałem w góry i obok Ahmeda Niyaziego stał się bohaterem [rewolucji młodotureckiej](https://pl.wikipedia.org/wiki/Rewolucja_młodoturecka), która zmusiła sułtana do przywrócenia konstytucji. Lata 1909–1911 spędził jako attaché wojskowy w Berlinie, gdzie zachwycił się armią niemiecką i poznał cesarza [Wilhelma II](/postacie/wilhelm-ii). Podczas [wojny z Włochami](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka) prowadził w Cyrenajce partyzantkę Arabów przeciw Włochom.
+
+Do władzy doszedł przemocą. 23 stycznia 1913 roku, w czasie przegranej wojny bałkańskiej, na czele grupy unionistów wdarł się do siedziby rządu, zmusił do dymisji wielkiego wezyra Kâmila Paszę, a w zamieszaniu zastrzelono ministra wojny. Latem, gdy Bułgarzy walczyli z dawnymi sojusznikami, odbił dla Turcji Adrianopol i zyskał sławę jego „zdobywcy”. 3 stycznia 1914 roku został mianowany generałem, czyli paszą, i ministrem wojny, a wkrótce także szefem sztabu generalnego. W marcu poślubił bratanicę sułtana Mehmeda V i wszedł do rodziny panującej. Przeprowadził czystkę w korpusie oficerskim i współpracował z niemiecką misją wojskową generała Ottona Limana von Sandersa, która od końca 1913 roku reformowała armię osmańską.
+
+## Droga do wojny
+
+W lipcu 1914 roku Enver był najgorętszym w Konstantynopolu zwolennikiem sojuszu z Niemcami. Sam zaproponował go niemieckiemu ambasadorowi, a 2 sierpnia, wraz z wąską grupą przywódców, doprowadził do podpisania [tajnego traktatu](/tajny-sojusz-niemiec-i-imperium-osmanskiego), o którym nie wiedziała większość rządu. Równocześnie imperium [zarządziło mobilizację](/imperium-osmanskie-zarzadza-mobilizacje). W połowie sierpnia Enver zgodził się przepuścić przez Dardanele [niemieckie okręty Goeben i Breslau](/goeben-i-breslau-wplywaja-do-dardaneli), ścigane przez Brytyjczyków, a niemiecki admirał Wilhelm Souchon został wkrótce [dowódcą floty tureckiej](/souchon-dowodca-floty-tureckiej). Część ministrów wolała przeczekać, ale Enver i Niemcy parli do rozstrzygnięcia. Pod koniec października wręczył Souchonowi rozkaz, by wyprowadził flotę na Morze Czarne i zaatakował Rosjan, jeśli nadarzy się okazja. 29 października [okręty turecko-niemieckie ostrzelały rosyjskie porty](/turecka-flota-atakuje-rosje) i wojna stała się faktem. 14 listopada sułtan [ogłosił dżihad](/sultan-oglasza-dzihad). Enver wierzył, że islam porwie muzułmanów w koloniach Ententy, a wojna pozwoli odzyskać ziemie utracone na rzecz Rosji i zjednoczyć ludy tureckie.
+
+## Sarykamysz
+
+Na Kaukazie listopadowa [ofensywa rosyjska](/bitwy/ofensywa-bergmanna) została odparta, a Enver uznał, że rosyjska Armia Kaukaska jest słaba. W grudniu sam pojechał na front, a gdy dowódca 3 Armii, Hasan İzzet Pasza, sprzeciwił się jego planowi i podał się do dymisji, objął dowództwo osobiście. Plan, inspirowany niemieckimi wzorami okrążeń, był śmiały: dwa korpusy miały przejść przez zaśnieżone góry na tyły Rosjan i zdobyć stację kolejową w Sarykamyszu. Natarcie ruszyło 22 grudnia. Żołnierze, źle ubrani i źle zaopatrzeni, marzli na przełęczach na wysokości ponad 2 tysięcy metrów, a kolumny gubiły drogę i strzelały do siebie nawzajem. Pod Sarykamyszem Rosjanie przetrwali, a na początku stycznia otoczyli i zmusili do kapitulacji IX Korpus. [Bitwa pod Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) była jedną z największych klęsk armii osmańskiej. Według najczęściej przytaczanych danych z około 90 tysięcy żołnierzy 3 Armii w połowie stycznia zostało 18 tysięcy, a większość pozostałych zginęła od mrozu, głodu i tyfusu. Dowódca X Korpusu, Hafız Hakkı, zapisał w dzienniku: „Ach, Enverze! Przyspieszając tę zimową wyprawę [...] splamiłeś się krwią stu tysięcy niewinnych”.
+
+Enver wrócił do stolicy i nigdy więcej nie dowodził już osobiście na froncie. W Konstantynopolu klęskę ukrywano, a odpowiedzialność za nią władze zaczęły przerzucać na Ormian, oskarżanych o zdradę i pomoc dla wroga, choć sam Enver chwalił jeszcze w liście do ormiańskiego biskupa Konyi postawę ormiańskich żołnierzy.
+
+## 1915: Dardanele i ludobójstwo Ormian
+
+Gdy 18 marca 1915 roku forty i miny [odparły atak floty sprzymierzonych](/atak-floty-w-dardanelach-odparty) w Dardanelach, Enver uznał, że trzeba się szykować na desant, i 24 marca powierzył [Limanowi von Sandersowi](/liman-von-sanders-dowodca-nad-dardanelami) dowództwo nowej 5 Armii. Liman pokierował obroną Gallipoli, a stosunki obu ludzi pozostały chłodne.
+
+W tym samym czasie zaczęła się zagłada Ormian. W lutym 1915 roku ministerstwo wojny nakazało rozbroić żołnierzy ormiańskich i przenieść ich do batalionów roboczych, w których wielu później zamordowano. Gubernatorem wilajetu Wan został szwagier Envera, Cevdet Bej, którego działania [doprowadziły do walk w mieście](/bitwy/obrona-wanu). Od kwietnia trwały [deportacje](/poczatek-deportacji-ormian) i masakry, w których według większości szacunków historyków zginęło w latach 1915–1916 od około 600 tysięcy do ponad miliona Ormian. Główną rolę w organizowaniu deportacji przypisuje się ministrowi spraw wewnętrznych Talatowi, ale historycy, jak Taner Akçam czy Ronald Grigor Suny, zaliczają Envera, który kierował armią i był jednym z przywódców tajnej Organizacji Specjalnej, do głównych sprawców. W maju 1915 roku mocarstwa Ententy [ostrzegły publicznie](/deklaracja-ententy-w-sprawie-rzezi-ormian), że członków rządu osmańskiego pociągną do osobistej odpowiedzialności. Represje dotknęły także Asyryjczyków i Greków.
+
+## 1916–1917: wódz wojny na wielu frontach
+
+Enver kierował wojną rozciągniętą od Kaukazu po Arabię i Mezopotamię, z ambicjami sięgającymi Persji i Azji Środkowej. W lutym 1916 roku Rosjanie [zdobyli Erzurum](/rosjanie-zdobywaja-erzurum), a wiosną [Trapezunt](/rosjanie-zdobywaja-trapezunt). Na południu odniósł jeden z największych sukcesów: w kwietniu w Al-Kucie [skapitulował](/kapitulacja-al-kutu) brytyjski garnizon generała Townshenda, a Enver odrzucił propozycję okupu i zażądał bezwarunkowego poddania się wszystkich ludzi i sprzętu. Zamiast jednak ścigać Brytyjczyków w Iraku, posłał XIII Korpus [na Persję](/osmanska-ofensywa-w-zachodniej-persji). Historycy W.E.D. Allen i Paul Muratoff pisali, że marzyciel znów wziął w nim górę nad strategiem. W czerwcu 1916 roku przeciw Turkom wystąpił szarif Mekki Husajn ([proklamacja szarifa](/proklamacja-szarifa-mekki)).
+
+Jednocześnie Enver chętnie wysyłał wojska sojusznikom. Dwie dywizje XV Korpusu walczyły w Galicji, a po [wypowiedzeniu wojny Rumunii](/turcja-wypowiada-wojne-rumunii) w sierpniu 1916 roku około 39 tysięcy tureckich żołnierzy wzięło udział w kampanii rumuńskiej. Według austriackiej historii oficjalnej jego sugestie posłużyły też Falkenhaynowi za argument za utworzeniem wspólnego naczelnego dowództwa państw centralnych. W lutym 1917 roku Talat [został wielkim wezyrem](/talat-pasza-wielkim-wezyrem), a Enver zachował ministerstwo wojny i sztab. Po [utracie Bagdadu](/bitwy/zdobycie-bagdadu) w marcu 1917 roku utworzył z Niemcami grupę armii „Yıldırım” pod dowództwem [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn), która miała odbić miasto, ale ostatecznie skierowano ją do Palestyny. W grudniu Turcy stracili Jerozolimę.
+
+## 1918: marsz na Kaukaz
+
+Rewolucja w Rosji otworzyła przed Enverem perspektywę, o jakiej marzył. Po rozpadzie rosyjskiej armii kaukaskiej Turcy w lutym 1918 roku [odbili Trapezunt](/turcy-odbijaja-trapezunt), a po [traktacie brzeskim](/traktat-brzeski), który zwracał im Kars, Ardahan i Batumi, w kwietniu [zajęli Batumi](/turcy-zajmuja-batumi) i [Sarykamysz](/turcy-zajmuja-sarykamysz). Enver nie zamierzał zatrzymać się na granicy z 1878 roku. Gdy Brytyjczycy nacierali w Palestynie i Mezopotamii, trzymał najlepsze siły na Kaukazie. Wymusił na Armenii i Gruzji [traktaty batumskie](/traktaty-batumskie) i utworzył Kaukaską Armię Islamu, którą dowodził jego przyrodni brat Nuri Pasza. Niemcy, którzy sami chcieli nafty z Baku i manganu z Gruzji, ostro się temu sprzeciwiali. Pod ich naciskiem Enver zrezygnował z marszu na Tyflis, ale według tureckich badań, oficjalnie zakazując bratu marszu na Baku, potajemnie go do niego zachęcał. 15 września Turcy i Azerowie [weszli do Baku](/bitwy/bitwa-o-baku), a w mieście doszło do rzezi Ormian. Dwa tygodnie później kapitulacja Bułgarii odcięła imperium od Niemiec.
+
+## Upadek i ucieczka
+
+Na początku października 1918 roku rząd Talata podał się do dymisji, a razem z nim odszedł Enver. 14 października [wielkim wezyrem został](/izzet-pasza-wielkim-wezyrem) Ahmed İzzet Pasza, który przed laty oddał Enverowi ministerstwo wojny, a 30 października podpisano [rozejm w Mudros](/rozejm-w-mudros). W nocy na 2 listopada Enver, Talat i Dżemal uciekli z Konstantynopola na niemieckim okręcie. W 1919 roku sąd wojenny w Konstantynopolu skazał Envera zaocznie na śmierć za wciągnięcie kraju do wojny i zbrodnie na Ormianach.
+
+## Po wojnie
+
+Z Berlina Enver nawiązał kontakt z bolszewikami. W 1920 roku dotarł do Moskwy, a we wrześniu wystąpił w Baku na Zjeździe Narodów Wschodu. Liczył, że zdoła stanąć na czele tureckiego ruchu narodowego, ale [Mustafa Kemal](https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atatürk), który od dawna uważał go za człowieka niebezpiecznego, nie dopuścił go do Anatolii. Jesienią 1921 roku, wysłany przez bolszewików do Buchary, przeszedł na stronę powstańców [basmaczy](https://pl.wikipedia.org/wiki/Basmactwo) i ogłosił się wodzem muzułmanów Turkiestanu. Zginął 4 sierpnia 1922 roku w starciu z oddziałem Armii Czerwonej w okolicach Bałdżuanu, na terenie dzisiejszego Tadżykistanu. W 1996 roku jego szczątki sprowadzono do Stambułu.
+
+## Ocena
+
+Ocena Envera jest w historiografii wyjątkowo surowa. Niemal wszyscy historycy uważają go za głównego winowajcę przystąpienia imperium do wojny, które skończyło się jego rozpadem. Jako dowódca był odważny i pełen inicjatywy, ale lekceważył logistykę, klimat i możliwości własnych żołnierzy. Sarykamysz, gdzie zmarnował armię w imię wielkiego manewru, i wyprawy do Persji oraz Baku, gdy Brytyjczycy zbliżali się do serca imperium, uchodzą za przykłady przedkładania marzeń o wielkim imperium tureckim i muzułmańskim nad realne interesy państwa. Liman von Sanders i część niemieckich oficerów wątpili w jego zdolności wojskowe.
+
+Historycy przyznają mu jednak zasługi organizatora. Odmłodzona po 1913 roku armia, z której wyszli później Mustafa Kemal, İsmet İnönü i Kâzım Karabekir, przez cztery lata walczyła na kilku frontach jednocześnie, obroniła Dardanele i zadała Brytyjczykom porażkę pod Al-Kutem. W Turcji, gdzie przez dziesięciolecia jego wizerunek przyćmiewała rywalizacja z Atatürkiem, od lat dziewięćdziesiątych bywa przedstawiany jako patriota i bojownik sprawy tureckiej. Poza Turcją pamięta się go przede wszystkim jako jednego z ludzi odpowiedzialnych za ludobójstwo Ormian.

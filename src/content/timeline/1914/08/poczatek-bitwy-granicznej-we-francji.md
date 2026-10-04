@@ -15,7 +15,7 @@ draft: false
 
 ## Dwa plany wojenne
 
-Na froncie zachodnim zderzyły się dwie przeciwstawne koncepcje. Niemcy, zgodnie z [planem Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena), skierowały główne siły przez Belgię, by obejść silnie umocnioną granicę francusko-niemiecką i okrążyć armię francuską od północy. Francja, pod dowództwem naczelnego wodza [Josepha Joffre'a](https://pl.wikipedia.org/wiki/Joseph_Joffre), realizowała plan ofensywny: jej armie miały uderzyć na wschód, do utraconych w 1871 roku Alzacji i Lotaryngii, a następnie przez Ardeny.
+Na froncie zachodnim zderzyły się dwie przeciwstawne koncepcje. Niemcy, zgodnie z [planem Schlieffena](https://pl.wikipedia.org/wiki/Plan_Schlieffena), skierowały główne siły przez Belgię, by obejść silnie umocnioną granicę francusko-niemiecką i okrążyć armię francuską od północy. Francja, pod dowództwem naczelnego wodza [Josepha Joffre'a](/postacie/joseph-joffre), realizowała plan ofensywny: jej armie miały uderzyć na wschód, do utraconych w 1871 roku Alzacji i Lotaryngii, a następnie przez Ardeny.
 
 ## Przebieg
 

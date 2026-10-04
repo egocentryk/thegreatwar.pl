@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-26 kwietnia 1915 roku w Londynie przedstawiciele czterech państw podpisali tajny układ, na mocy którego Włochy miały przystąpić do wojny po stronie Ententy. Podpisy złożyli brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) oraz ambasadorowie Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), Rosji hrabia Aleksandr Benckendorff i Włoch markiz Guglielmo Imperiali. W polskiej literaturze dokument nazywany jest najczęściej [traktatem londyńskim](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)), we włoskiej paktem londyńskim (Patto di Londra).
+26 kwietnia 1915 roku w Londynie przedstawiciele czterech państw podpisali tajny układ, na mocy którego Włochy miały przystąpić do wojny po stronie Ententy. Podpisy złożyli brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) oraz ambasadorowie Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), Rosji hrabia Aleksandr Benckendorff i Włoch markiz Guglielmo Imperiali. W polskiej literaturze dokument nazywany jest najczęściej [traktatem londyńskim](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)), we włoskiej paktem londyńskim (Patto di Londra).
 
 Tego samego dnia czterej sygnatariusze podpisali deklarację, w której zobowiązali się nie zawierać odrębnego pokoju i ustalać warunki pokoju wspólnie. Oznaczało to przystąpienie Włoch do [paktu londyńskiego](/pakt-londynski), który Wielka Brytania, Francja i Rosja zawarły 5 września 1914 roku. Także ta deklaracja miała pozostać tajna, dopóki Włochy nie wypowiedzą wojny.
 

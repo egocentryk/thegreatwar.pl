@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 grudnia 1915 roku Francja dowiedziała się o zmianie na szczycie swojej armii. Dekretem podpisanym poprzedniego dnia przez prezydenta [Raymonda Poincarégo](https://pl.wikipedia.org/wiki/Raymond_Poincaré) generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) został „naczelnym wodzem armii francuskich”. Dotąd był formalnie tylko wodzem armii Północy i Północnego Wschodu, czyli wojsk walczących we Francji i w Belgii. Teraz podlegały mu wszystkie siły lądowe Republiki, także Armia Wschodu generała [Maurice'a Sarraila](https://pl.wikipedia.org/wiki/Maurice_Sarrail) w Macedonii i francuski korpus nad Dardanelami. Poza jego władzą zostały tylko wojska w koloniach oraz w Afryce Północnej i w Maroku.
+3 grudnia 1915 roku Francja dowiedziała się o zmianie na szczycie swojej armii. Dekretem podpisanym poprzedniego dnia przez prezydenta [Raymonda Poincarégo](https://pl.wikipedia.org/wiki/Raymond_Poincaré) generał [Joseph Joffre](/postacie/joseph-joffre) został „naczelnym wodzem armii francuskich”. Dotąd był formalnie tylko wodzem armii Północy i Północnego Wschodu, czyli wojsk walczących we Francji i w Belgii. Teraz podlegały mu wszystkie siły lądowe Republiki, także Armia Wschodu generała [Maurice'a Sarraila](https://pl.wikipedia.org/wiki/Maurice_Sarrail) w Macedonii i francuski korpus nad Dardanelami. Poza jego władzą zostały tylko wojska w koloniach oraz w Afryce Północnej i w Maroku.
 
 ## Uzasadnienie ministra
 
@@ -26,6 +26,6 @@ Liczyła się też polityka wewnętrzna. Briand był najgorętszym we Francji zw
 
 ## Pierwsze dni
 
-Już nazajutrz, 4 grudnia, w Calais spotkali się premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith), lord Kitchener i Arthur Balfour z Briandem, Gallienim i ministrem marynarki admirałem Lacaze'em, by rozmawiać o losie Salonik. Od 6 do 8 grudnia w Chantilly Joffre przewodniczył naradzie dowódców Francji, Wielkiej Brytanii, Rosji, Włoch i Serbii, która uzgodniła zasadę jednoczesnych ofensyw na wszystkich głównych frontach w 1916 roku. Kilka dni później naczelny wódz dostał też nowego szefa sztabu.
+Już nazajutrz, 4 grudnia, w Calais spotkali się premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith), lord Kitchener i Arthur Balfour z Briandem, Gallienim i ministrem marynarki admirałem Lacaze'em, by rozmawiać o losie Salonik. Od 6 do 8 grudnia w Chantilly Joffre przewodniczył naradzie dowódców Francji, Wielkiej Brytanii, Rosji, Włoch i Serbii, która uzgodniła zasadę jednoczesnych ofensyw na wszystkich głównych frontach w 1916 roku. Kilka dni później naczelny wódz dostał też nowego szefa sztabu.
 
 Szersza władza nie przyniosła jednak Joffre'owi spokoju. Po ciężkich stratach 1915 roku i zaskoczeniu pod [Verdun](https://pl.wikipedia.org/wiki/Bitwa_pod_Verdun) w lutym 1916 roku jego pozycja słabła, a w grudniu 1916 roku rząd odebrał mu rzeczywiste dowództwo i mianował go marszałkiem Francji.

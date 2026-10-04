@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-31 października 1914 roku brytyjski minister wojny [lord Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) przesłał przez [Kair](https://pl.wikipedia.org/wiki/Kair) wiadomość do emira [Abd Allaha](https://pl.wikipedia.org/wiki/Abd_Allah_I_ibn_Husajn), syna [Husajna ibn Alego](https://pl.wikipedia.org/wiki/Husajn_Ibn_Ali), [szarifa](https://pl.wikipedia.org/wiki/Szarif) [Mekki](https://pl.wikipedia.org/wiki/Mekka). Obiecywał w niej Arabom ochronę i pomoc, jeśli w nadchodzącej wojnie z Turcją staną po stronie Wielkiej Brytanii. Był to pierwszy krok na drodze, która prowadziła do wybuchu powstania arabskiego w 1916 roku.
+31 października 1914 roku brytyjski minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) przesłał przez [Kair](https://pl.wikipedia.org/wiki/Kair) wiadomość do emira [Abd Allaha](https://pl.wikipedia.org/wiki/Abd_Allah_I_ibn_Husajn), syna [Husajna ibn Alego](https://pl.wikipedia.org/wiki/Husajn_Ibn_Ali), [szarifa](https://pl.wikipedia.org/wiki/Szarif) [Mekki](https://pl.wikipedia.org/wiki/Mekka). Obiecywał w niej Arabom ochronę i pomoc, jeśli w nadchodzącej wojnie z Turcją staną po stronie Wielkiej Brytanii. Był to pierwszy krok na drodze, która prowadziła do wybuchu powstania arabskiego w 1916 roku.
 
 ## Wcześniejsze kontakty
 

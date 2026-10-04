@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-7 września 1914 roku na Lubelszczyźnie, na polach wokół wsi Tarnawka na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin), rozgorzała bitwa między wojskami rosyjskimi a austro-węgierską 1 Armią generała [Victora Dankla](https://pl.wikipedia.org/wiki/Victor_Dankl) i wspierającymi ją oddziałami niemieckimi. Była to jedna z najcięższych bitew stoczonych na ziemiach polskich w 1914 roku i punkt zwrotny walk na północnym skrzydle bitwy galicyjskiej.
+7 września 1914 roku na Lubelszczyźnie, na polach wokół wsi Tarnawka na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin), rozgorzała bitwa między wojskami rosyjskimi a austro-węgierską 1 Armią generała [Victora Dankla](/postacie/victor-dankl) i wspierającymi ją oddziałami niemieckimi. Była to jedna z najcięższych bitew stoczonych na ziemiach polskich w 1914 roku i punkt zwrotny walk na północnym skrzydle [bitwy galicyjskiej](/bitwy/bitwa-galicyjska).
 
 ## Od Kraśnika pod Lublin
 

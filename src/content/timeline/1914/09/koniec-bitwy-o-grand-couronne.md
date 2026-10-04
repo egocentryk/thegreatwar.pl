@@ -12,13 +12,13 @@ milestone: false
 draft: false
 ---
 
-12 września 1914 roku zakończyła się bitwa o Grand Couronné, stoczona na wzgórzach osłaniających od północnego wschodu [Nancy](https://pl.wikipedia.org/wiki/Nancy). Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach), która od ponad tygodnia szturmowała francuskie pozycje, wycofała się na wschód. Francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) ruszyła za nią i odzyskała utracony teren aż po okolice przedwojennej granicy.
+12 września 1914 roku zakończyła się bitwa o Grand Couronné, stoczona na wzgórzach osłaniających od północnego wschodu [Nancy](https://pl.wikipedia.org/wiki/Nancy). Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski), która od ponad tygodnia szturmowała francuskie pozycje, wycofała się na wschód. Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) ruszyła za nią i odzyskała utracony teren aż po okolice przedwojennej granicy.
 
 ## Koniec natarcia
 
 Niemcy [rozpoczęli natarcie na Grand Couronné](/poczatek-bitwy-o-grand-couronne) 4 września. Przez kilka dni atakowali wzgórza Amance i Sainte-Geneviève oraz lasy koło Champenoux, a ich ciężka artyleria ostrzeliwała francuskie okopy. Obrońcy, w dużej części rezerwiści starszych roczników, utrzymali jednak główną linię obrony, nawet w krytycznych dniach 6 i 7 września.
 
-O losie bitwy przesądziły wydarzenia nad Marną. Gdy niemieckie prawe skrzydło znalazło się w niebezpieczeństwie, szef sztabu generalnego [Helmuth von Moltke](https://pl.wikipedia.org/wiki/Helmuth_Johannes_Ludwig_von_Moltke) zaczął zabierać Rupprechtowi wojska i amunicję, a następnie polecił przerwać natarcie. Ataki na wzgórza słabły. Ostatnim akordem był ostrzał samego Nancy przez niemiecką artylerię dalekiego zasięgu w nocy z 9 na 10 września.
+O losie bitwy przesądziły wydarzenia nad Marną. Gdy niemieckie prawe skrzydło znalazło się w niebezpieczeństwie, szef sztabu generalnego [Helmuth von Moltke](/postacie/helmuth-von-moltke) zaczął zabierać Rupprechtowi wojska i amunicję, a następnie polecił przerwać natarcie. Ataki na wzgórza słabły. Ostatnim akordem był ostrzał samego Nancy przez niemiecką artylerię dalekiego zasięgu w nocy z 9 na 10 września.
 
 ## Odwrót Niemców
 

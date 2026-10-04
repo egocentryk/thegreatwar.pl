@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 września 1914 roku, według brytyjskiej chronologii wojny, zakończyła się pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)). Chronologia traktuje ją jako czterodniowe starcie, które [zaczęło się 22 września](/poczatek-pierwszej-bitwy-pod-albert), razem z francuskim natarciem w Pikardii. Tak samo datuje ją część brytyjskich opracowań, dzielących wyścig do morza na kolejne bitwy.
+25 września 1914 roku, według brytyjskiej chronologii wojny, zakończyła się pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)). Chronologia traktuje ją jako czterodniowe starcie, które [zaczęło się 22 września](/poczatek-pierwszej-bitwy-pod-albert), razem z francuskim natarciem w Pikardii. Tak samo datuje ją część brytyjskich opracowań, dzielących [wyścig do morza](/bitwy/wyscig-do-morza) na kolejne bitwy.
 
 ## Dwa sposoby liczenia
 
@@ -20,7 +20,7 @@ Większość współczesnych historyków, francuskich i anglojęzycznych, liczy 
 
 ## 25 września
 
-Tego dnia francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) ruszyła z okolic Albert na wschód. Miała obejść niemieckie skrzydło i wyjść na tyły wojsk walczących w Pikardii. Zamiast otwartego skrzydła natrafiła jednak na niemieckie kolumny, które szły w przeciwnym kierunku. II Bawarski Korpus i XIV Korpus Rezerwowy niemieckiej 6 Armii nacierały na zachód, w stronę Albert i Amiens. Manewr zamienił się w czołowe zderzenie.
+Tego dnia francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) ruszyła z okolic Albert na wschód. Miała obejść niemieckie skrzydło i wyjść na tyły wojsk walczących w Pikardii. Zamiast otwartego skrzydła natrafiła jednak na niemieckie kolumny, które szły w przeciwnym kierunku. II Bawarski Korpus i XIV Korpus Rezerwowy niemieckiej 6 Armii nacierały na zachód, w stronę Albert i Amiens. Manewr zamienił się w czołowe zderzenie.
 
 ## Do końca września
 

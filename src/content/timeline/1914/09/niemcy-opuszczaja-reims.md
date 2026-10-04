@@ -15,7 +15,7 @@ Brytyjska kronika wojny odnotowała pod datą 14 września 1914 roku opuszczenie
 
 ## Koniec okupacji
 
-Niemcy [zajęli Reims](/niemcy-zajmuja-reims) 4 września 1914 roku, w czasie pościgu za cofającymi się armiami francuskimi. Po klęsce nad Marną ich 3 Armia musiała się jednak wycofać na północ. Przed odejściem okupanci wzięli jako zakładników około stu znanych obywateli miasta i zagrozili, że zostaną oni straceni, jeśli mieszkańcy podejmą jakiekolwiek wrogie działania. Odwrót przebiegł spokojnie, a zakładników uwolniono. 13 września do Reims wkroczyły wojska generała [Louisa Franchet d’Espéreya](https://pl.wikipedia.org/wiki/Louis_Franchet_d’Espérey), witane przez mieszkańców z ogromną ulgą.
+Niemcy [zajęli Reims](/niemcy-zajmuja-reims) 4 września 1914 roku, w czasie pościgu za cofającymi się armiami francuskimi. Po klęsce nad Marną ich 3 Armia musiała się jednak wycofać na północ. Przed odejściem okupanci wzięli jako zakładników około stu znanych obywateli miasta i zagrozili, że zostaną oni straceni, jeśli mieszkańcy podejmą jakiekolwiek wrogie działania. Odwrót przebiegł spokojnie, a zakładników uwolniono. 13 września do Reims wkroczyły wojska generała [Louisa Franchet d’Espéreya](/postacie/louis-franchet-d-esperey), witane przez mieszkańców z ogromną ulgą.
 
 ## Na wzgórzach wokół miasta
 

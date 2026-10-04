@@ -17,7 +17,7 @@ tags: [Portugalia, Paul von Lettow-Vorbeck, Niemiecka Afryka Wschodnia, kolonie 
 milestone: false
 ---
 
-Bitwa pod Ngomano otworzyła ostatni rozdział wojny w Afryce Wschodniej. 25 listopada 1917 roku główne siły [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck), wyparte z [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), przeszły w bród graniczną rzekę [Rovumę](https://pl.wikipedia.org/wiki/Rovuma) i jeszcze tego samego dnia uderzyły na świeżo założony obóz portugalski w Ngomano, u ujścia [Lugendy](https://pl.wikipedia.org/wiki/Lugenda). Po kilku godzinach walki garnizon, dowodzony przez majora João Teixeirę Pinto, przestał istnieć. Dla Niemców, którym kończyły się amunicja, żywność i lekarstwa, był to ratunek: zdobycz z Ngomano uzbroiła ich na nowo i pozwoliła prowadzić wojnę na terytorium portugalskim aż do końca 1918 roku.
+Bitwa pod Ngomano otworzyła ostatni rozdział wojny w Afryce Wschodniej. 25 listopada 1917 roku główne siły [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), wyparte z [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), przeszły w bród graniczną rzekę [Rovumę](https://pl.wikipedia.org/wiki/Rovuma) i jeszcze tego samego dnia uderzyły na świeżo założony obóz portugalski w Ngomano, u ujścia [Lugendy](https://pl.wikipedia.org/wiki/Lugenda). Po kilku godzinach walki garnizon, dowodzony przez majora João Teixeirę Pinto, przestał istnieć. Dla Niemców, którym kończyły się amunicja, żywność i lekarstwa, był to ratunek: zdobycz z Ngomano uzbroiła ich na nowo i pozwoliła prowadzić wojnę na terytorium portugalskim aż do końca 1918 roku.
 
 ## Nazwa i daty
 

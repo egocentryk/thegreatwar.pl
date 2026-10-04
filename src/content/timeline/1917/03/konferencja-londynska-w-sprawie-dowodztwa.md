@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-12 marca 1917 roku w Londynie zebrała się konferencja brytyjsko-francuska, druga w ciągu dwóch tygodni poświęcona temu samemu sporowi. Pod koniec lutego [w Calais](/konferencja-w-calais-w-sprawie-dowodztwa) premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) zgodził się, by na czas wiosennej ofensywy brytyjski wódz naczelny, marszałek polny [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig), stosował się do rozkazów francuskiego wodza naczelnego, generała [Roberta Nivelle'a](https://pl.wikipedia.org/wiki/Robert_Nivelle). Kompromis szybko zaczął się sypać, bo obaj generałowie rozumieli go zupełnie inaczej. Brytyjska chronologia wojny notuje, że konferencja miała omówić stosunki między wodzami obu armii na froncie zachodnim, a także używanie jeńców wojennych w strefie walk.
+12 marca 1917 roku w Londynie zebrała się konferencja brytyjsko-francuska, druga w ciągu dwóch tygodni poświęcona temu samemu sporowi. Pod koniec lutego [w Calais](/konferencja-w-calais-w-sprawie-dowodztwa) premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) zgodził się, by na czas wiosennej ofensywy brytyjski wódz naczelny, marszałek polny [Douglas Haig](/postacie/douglas-haig), stosował się do rozkazów francuskiego wodza naczelnego, generała [Roberta Nivelle'a](https://pl.wikipedia.org/wiki/Robert_Nivelle). Kompromis szybko zaczął się sypać, bo obaj generałowie rozumieli go zupełnie inaczej. Brytyjska chronologia wojny notuje, że konferencja miała omówić stosunki między wodzami obu armii na froncie zachodnim, a także używanie jeńców wojennych w strefie walk.
 
 ## Spór o list Nivelle'a
 

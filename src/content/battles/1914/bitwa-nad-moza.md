@@ -16,7 +16,7 @@ authors: [Natalia]
 tags: [wielki odwrót, Francja, Niemcy, Fernand de Langle de Cary]
 ---
 
-Bitwa nad [Mozą](https://pl.wikipedia.org/wiki/Moza) rozegrała się pod koniec sierpnia 1914 roku w północno-wschodniej Francji, na odcinku rzeki od okolic Mézières przez [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) po [Stenay](https://pl.wikipedia.org/wiki/Stenay) i [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). Francuska 4 Armia, a na jej prawym skrzydle 3 Armia, broniły przepraw przed wojskami niemieckimi, które parły naprzód po zwycięstwie w Ardenach. Było to jedno z pierwszych starć, w których Francuzi, po serii klęsk w bitwach granicznych, skutecznie się bronili.
+Bitwa nad [Mozą](https://pl.wikipedia.org/wiki/Moza) rozegrała się pod koniec sierpnia 1914 roku w północno-wschodniej Francji, na odcinku rzeki od okolic Mézières przez [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) po [Stenay](https://pl.wikipedia.org/wiki/Stenay) i [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). Francuska 4 Armia, a na jej prawym skrzydle 3 Armia, broniły przepraw przed wojskami niemieckimi, które parły naprzód po zwycięstwie w Ardenach. Było to jedno z pierwszych starć, w których Francuzi, po serii klęsk w [bitwach granicznych](/bitwy/bitwa-graniczna), skutecznie się bronili.
 
 ## Daty bitwy
 
@@ -24,9 +24,9 @@ Bitwa nad [Mozą](https://pl.wikipedia.org/wiki/Moza) rozegrała się pod koniec
 
 ## Odwrót za Mozę
 
-W dniach 21–24 sierpnia 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) poniosły ciężką klęskę w [bitwie w Ardenach](/bitwy/bitwa-w-ardenach). Naprzeciw nich stały niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](https://pl.wikipedia.org/wiki/Albrecht_Wirtemberski) i 5 Armia następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)).
+W dniach 21–24 sierpnia 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) poniosły ciężką klęskę w [bitwie w Ardenach](/bitwy/bitwa-w-ardenach). Naprzeciw nich stały niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armia następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)).
 
-24 sierpnia naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) nakazał 4 Armii wycofać się za Mozę. Wieczorem sztab armii polecił wysadzić mosty na Mozie i [Chiers](https://pl.wikipedia.org/wiki/Chiers) po przejściu ostatnich oddziałów. 25 sierpnia 4 Armia zajmowała pozycje na lewym brzegu rzeki, a saperzy niszczyli przeprawy. Tego samego dnia Joffre wydał Instrukcję ogólną nr 2, która zapowiadała stopniowy odwrót całego frontu i utworzenie nowej armii na lewym skrzydle. 3 Armia przeszła Mozę 26 sierpnia w ulewnym deszczu, między innymi przez most w Dun, który następnie wysadzono.
+24 sierpnia naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) nakazał 4 Armii wycofać się za Mozę. Wieczorem sztab armii polecił wysadzić mosty na Mozie i [Chiers](https://pl.wikipedia.org/wiki/Chiers) po przejściu ostatnich oddziałów. 25 sierpnia 4 Armia zajmowała pozycje na lewym brzegu rzeki, a saperzy niszczyli przeprawy. Tego samego dnia Joffre wydał Instrukcję ogólną nr 2, która zapowiadała stopniowy odwrót całego frontu i utworzenie nowej armii na lewym skrzydle. 3 Armia przeszła Mozę 26 sierpnia w ulewnym deszczu, między innymi przez most w Dun, który następnie wysadzono.
 
 Lewy brzeg Mozy dawał obrońcom dogodne pozycje. Rzeka płynie tu głęboką doliną, a na jej zachodnim brzegu wznoszą się zalesione wzgórza. Langle de Cary polecił swoim wojskom stawiać zdecydowany opór każdej próbie przeprawy.
 
@@ -56,5 +56,5 @@ Dokładne straty obu stron w bitwie nad Mozą są trudne do ustalenia, bo walki 
 
 Bitwa nad Mozą nie zatrzymała Niemców, ale spełniła swoje zadanie. 4 Armia opóźniła marsz niemieckiego centrum i nie dopuściła do rozerwania frontu między armiami francuskimi w najtrudniejszym momencie wielkiego odwrotu. Jednocześnie na zachodzie armia Lanrezaca stoczyła bitwę pod Guise. Po klęskach w bitwach granicznych francuskie wojska pokazały, że potrafią się bronić i kontratakować.
 
-Z lewego skrzydła 4 Armii utworzono pod koniec sierpnia nowe zgrupowanie pod dowództwem generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), z którego powstała 9 Armia. Na początku września odegrała ona ważną rolę w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). Generał Ruffey został 30 sierpnia odsunięty od dowództwa 3 Armii, a jego miejsce zajął generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail).
+Z lewego skrzydła 4 Armii utworzono pod koniec sierpnia nowe zgrupowanie pod dowództwem generała [Ferdinanda Focha](/postacie/ferdinand-foch), z którego powstała 9 Armia. Na początku września odegrała ona ważną rolę w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). Generał Ruffey został 30 sierpnia odsunięty od dowództwa 3 Armii, a jego miejsce zajął generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail).
 

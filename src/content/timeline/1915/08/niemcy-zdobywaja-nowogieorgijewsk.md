@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-20 sierpnia 1915 roku komendant twierdzy Nowogieorgijewsk, generał kawalerii Nikołaj Bobyr, podpisał kapitulację przed niemieckim generałem [Hansem von Beselerem](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler). Największa twierdza Imperium Rosyjskiego, dzisiejszy [Modlin](https://pl.wikipedia.org/wiki/Twierdza_Modlin), padła po niespełna dwóch tygodniach okrążenia i tygodniu walk o forty. Do niewoli poszła cała załoga. Niemiecki komunikat z tego dnia mówił o 6 generałach, ponad 85 tysiącach jeńców i ponad 700 działach, a późniejsze rosyjskie zestawienia o około 90 tysiącach ludzi, w tym dwudziestu kilku generałach, i ponad 1600 działach.
+20 sierpnia 1915 roku komendant twierdzy Nowogieorgijewsk, generał kawalerii Nikołaj Bobyr, podpisał kapitulację przed niemieckim generałem [Hansem von Beselerem](/postacie/hans-von-beseler). Największa twierdza Imperium Rosyjskiego, dzisiejszy [Modlin](https://pl.wikipedia.org/wiki/Twierdza_Modlin), padła po niespełna dwóch tygodniach okrążenia i tygodniu walk o forty. Do niewoli poszła cała załoga. Niemiecki komunikat z tego dnia mówił o 6 generałach, ponad 85 tysiącach jeńców i ponad 700 działach, a późniejsze rosyjskie zestawienia o około 90 tysiącach ludzi, w tym dwudziestu kilku generałach, i ponad 1600 działach.
 
 ## Ostatnia noc
 
@@ -26,7 +26,7 @@ W nocy Bobyr pojechał do Beselera, by rozmawiać o poddaniu. Rosyjskie opracowa
 
 Nie wszyscy od razu złożyli broń. Część oficerów i żołnierzy w cytadeli odmówiła kapitulacji i broniła się jeszcze przez kilka godzin. Kilka fortów na lewym brzegu Wisły, do których nie dotarła wiadomość o poddaniu, także strzelało dalej. Wieczorem 20 sierpnia cała twierdza była w niemieckich rękach.
 
-Tego samego dnia do Nowogieorgijewska przyjechał cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern), by podziękować Beselerowi i jego żołnierzom. Niemiecki komunikat nazwał twierdzę „ostatnią ostoją wroga w Polsce”, a austro-węgierski podkreślał udział w jej ostrzale austro-węgierskich moździerzy. Wieczorem przed pałacem kanclerza Rzeszy w Berlinie zebrał się kilkutysięczny tłum, a kanclerz [Theobald von Bethmann Hollweg](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg) mówił, że rosyjskie twierdze „rozbite są jak gliniane garnki”.
+Tego samego dnia do Nowogieorgijewska przyjechał cesarz [Wilhelm II](/postacie/wilhelm-ii), by podziękować Beselerowi i jego żołnierzom. Niemiecki komunikat nazwał twierdzę „ostatnią ostoją wroga w Polsce”, a austro-węgierski podkreślał udział w jej ostrzale austro-węgierskich moździerzy. Wieczorem przed pałacem kanclerza Rzeszy w Berlinie zebrał się kilkutysięczny tłum, a kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) mówił, że rosyjskie twierdze „rozbite są jak gliniane garnki”.
 
 ## Co dalej
 

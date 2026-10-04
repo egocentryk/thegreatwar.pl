@@ -16,7 +16,7 @@ draft: false
 
 ## Plan Joffre’a
 
-Naczelny wódz armii francuskiej, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), nie zamierzał czekać z ofensywą do wiosny. Jego sztab ocenił w połowie listopada, że Niemcy zakończyli natarcie na zachodzie i przerzucają kilka korpusów na wschód, gdzie toczyły się ciężkie walki w Polsce. Francuzi chcieli to wykorzystać, a zarazem nie dopuścić, by Niemcy dalej osłabiali front francuski kosztem Rosjan.
+Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), nie zamierzał czekać z ofensywą do wiosny. Jego sztab ocenił w połowie listopada, że Niemcy zakończyli natarcie na zachodzie i przerzucają kilka korpusów na wschód, gdzie toczyły się ciężkie walki w Polsce. Francuzi chcieli to wykorzystać, a zarazem nie dopuścić, by Niemcy dalej osłabiali front francuski kosztem Rosjan.
 
 Plan zakładał uderzenie z dwóch stron na wielki występ frontu, który sięgał w głąb Francji w okolicach [Noyon](https://pl.wikipedia.org/wiki/Noyon). Od północy, w Artois, miała nacierać 10 Armia, a od południa, w Szampanii, 4 Armia, w kierunku [Rethel](https://pl.wikipedia.org/wiki/Rethel) i dalej Mézières. Gdyby udało się dojść do tych miast, zagrożone byłyby koleje zaopatrujące niemieckie armie we Francji. Na innych odcinkach frontu miały ruszyć natarcia pomocnicze. We Flandrii zaatakowano już 14 grudnia [pod Wytschaete](/natarcie-pod-wytschaete), a w Artois walki rozgorzały 17 grudnia. Joffre wiedział, że brakuje mu ciężkich dział i amunicji, ale uznał, że nie może pozostać bezczynny.
 

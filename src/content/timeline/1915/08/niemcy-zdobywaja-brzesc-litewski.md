@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1915 roku wojska grupy armii feldmarszałka [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen) przełamały pierścień fortów [Brześcia Litewskiego](https://pl.wikipedia.org/wiki/Brześć), największej rosyjskiej twierdzy nad [Bugiem](https://pl.wikipedia.org/wiki/Bug). W nocy Rosjanie, którzy i tak przygotowywali się do odejścia, opuścili twierdzę, wysadzając umocnienia i podpalając miasto. Rano 26 sierpnia zwycięzcy weszli do cytadeli. Tego dnia niemiecki komunikat wojenny ogłosił krótko: „Twierdza Brześć Litewski padła”. Choć brytyjska chronologia przypisuje jej zdobycie Niemcom, decydującą rolę odegrali w tym szturmie Austro-Węgrzy.
+25 sierpnia 1915 roku wojska grupy armii feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) przełamały pierścień fortów [Brześcia Litewskiego](https://pl.wikipedia.org/wiki/Brześć), największej rosyjskiej twierdzy nad [Bugiem](https://pl.wikipedia.org/wiki/Bug). W nocy Rosjanie, którzy i tak przygotowywali się do odejścia, opuścili twierdzę, wysadzając umocnienia i podpalając miasto. Rano 26 sierpnia zwycięzcy weszli do cytadeli. Tego dnia niemiecki komunikat wojenny ogłosił krótko: „Twierdza Brześć Litewski padła”. Choć brytyjska chronologia przypisuje jej zdobycie Niemcom, decydującą rolę odegrali w tym szturmie Austro-Węgrzy.
 
 ## Twierdza, której nie broniono
 

@@ -16,19 +16,19 @@ authors: [Łukasz Skowroń]
 tags: [Lotaryngia, Francja, Niemcy]
 ---
 
-[Bitwa o Lotaryngię](https://pl.wikipedia.org/wiki/Bitwa_o_Lotaryngię) była pierwszą wielką ofensywą armii francuskiej w I wojnie światowej i pierwszą z tzw. [bitew granicznych](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)). Rozpoczęła się 14 sierpnia 1914 roku, a jej decydująca faza rozegrała się 20 sierpnia pod Morhange i Sarrebourgiem.
+[Bitwa o Lotaryngię](https://pl.wikipedia.org/wiki/Bitwa_o_Lotaryngię) była pierwszą wielką ofensywą armii francuskiej w I wojnie światowej i pierwszą z tzw. [bitew granicznych](/bitwy/bitwa-graniczna). Rozpoczęła się 14 sierpnia 1914 roku, a jej decydująca faza rozegrała się 20 sierpnia pod Morhange i Sarrebourgiem.
 
 ## Plan ofensywy
 
 Francuski plan wojenny zakładał szybkie natarcie na wschód, do utraconej w 1871 roku [Lotaryngii](https://pl.wikipedia.org/wiki/Lotaryngia). Region był bogaty w węgiel i rudę żelaza, a jego odzyskanie miało ogromne znaczenie dla francuskiej dumy narodowej. Naczelne dowództwo wierzyło, że zdecydowany atak, prowadzony z pełnym zaangażowaniem, przełamie niemiecką obronę.
 
-Do natarcia ruszyły dwie armie: 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail), kierująca się na [Sarrebourg](https://pl.wikipedia.org/wiki/Sarrebourg), i 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau), nacierająca w kierunku [Morhange](https://pl.wikipedia.org/wiki/Morhange). Naprzeciw nich stały niemiecka 6 Armia pod dowództwem następcy tronu Bawarii, księcia Rupprechta, oraz 7 Armia generała [Josiasa von Heeringena](https://pl.wikipedia.org/wiki/Josias_von_Heeringen).
+Do natarcia ruszyły dwie armie: 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail), kierująca się na [Sarrebourg](https://pl.wikipedia.org/wiki/Sarrebourg), i 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau), nacierająca w kierunku [Morhange](https://pl.wikipedia.org/wiki/Morhange). Naprzeciw nich stały niemiecka 6 Armia pod dowództwem następcy tronu Bawarii, księcia Rupprechta, oraz 7 Armia generała [Josiasa von Heeringena](https://pl.wikipedia.org/wiki/Josias_von_Heeringen).
 
 ## Pułapka pod Morhange
 
 Przez pierwsze dni Francuzi posuwali się naprzód niemal bez przeszkód. Niemcy celowo wycofywali się, wciągając przeciwnika w głąb dobrze przygotowanego terenu. 20 sierpnia przeszli do zmasowanego kontrataku. Francuska piechota, nacierająca w zwartych szykach i w czerwonych spodniach, trafiła pod ogień ciężkiej artylerii i karabinów maszynowych z umocnionych pozycji.
 
-2 Armia poniosła pod Morhange ciężką klęskę. Walczył w niej między innymi XX Korpus generała [Ferdinanda Focha](https://pl.wikipedia.org/wiki/Ferdinand_Foch), późniejszego naczelnego wodza wojsk sprzymierzonych. W tych walkach zginął też syn generała Castelnau. Także 1 Armia musiała wycofać się spod Sarrebourga.
+2 Armia poniosła pod Morhange ciężką klęskę. Walczył w niej między innymi XX Korpus generała [Ferdinanda Focha](/postacie/ferdinand-foch), późniejszego naczelnego wodza wojsk sprzymierzonych. W tych walkach zginął też syn generała Castelnau. Także 1 Armia musiała wycofać się spod Sarrebourga.
 
 ## Obrona Nancy
 

@@ -22,7 +22,7 @@ Wojska niemieckie były jednak wyczerpane. Od kilku dni szły przez błoto rozmi
 
 ## Rosyjskie kontrnatarcie
 
-25 lutego Syberyjczycy zepchnęli niemiecką 36 Dywizję Rezerwową i zaczęli zagrażać tyłom korpusu Morgena. Gallwitz polecił mu przejść do obrony. 26 lutego Rosjanie podeszli pod samo miasto, a nocą pierwsze ich oddziały wdarły się na przedmieścia, choć zostały odparte. Niemieckie dowództwo wschodnie, generał [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) i jego współpracownicy, doszło do wniosku, że utrzymanie Przasnysza jest zbyt kosztowne, a siły trzeba oszczędzać na obronę granicy.
+25 lutego Syberyjczycy zepchnęli niemiecką 36 Dywizję Rezerwową i zaczęli zagrażać tyłom korpusu Morgena. Gallwitz polecił mu przejść do obrony. 26 lutego Rosjanie podeszli pod samo miasto, a nocą pierwsze ich oddziały wdarły się na przedmieścia, choć zostały odparte. Niemieckie dowództwo wschodnie, generał [Erich Ludendorff](/postacie/erich-ludendorff) i jego współpracownicy, doszło do wniosku, że utrzymanie Przasnysza jest zbyt kosztowne, a siły trzeba oszczędzać na obronę granicy.
 
 27 lutego Gallwitz wydał rozkaz odwrotu. Tego dnia 1 i 4 Syberyjska Dywizja Strzelców wdarły się do miasta z kilku stron. Według rosyjskich opracowań oddziały 1 Dywizji weszły do centrum około godziny 19, przy dźwięku dzwonów, a do niewoli trafiło wielu żołnierzy niemieckich osłaniających odwrót. Niemcy wycofali się na północ, w stronę Chorzel i granicy, nękani przez kozaków.
 

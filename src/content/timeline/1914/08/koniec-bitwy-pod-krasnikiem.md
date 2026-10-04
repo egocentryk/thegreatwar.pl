@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku zakończyła się [bitwa pod Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem), pierwsza wielka bitwa między armiami Austro-Węgier i Rosji. Austro-węgierska 1 Armia generała Viktora Dankla wkroczyła do [Kraśnika](https://pl.wikipedia.org/wiki/Kraśnik), a rosyjska 4 Armia generała Antona Salzy rozpoczęła odwrót na północ, w stronę [Lublina](https://pl.wikipedia.org/wiki/Lublin).
+25 sierpnia 1914 roku zakończyła się [bitwa pod Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem), pierwsza wielka bitwa między armiami Austro-Węgier i Rosji. Austro-węgierska 1 Armia generała Victora Dankla wkroczyła do [Kraśnika](https://pl.wikipedia.org/wiki/Kraśnik), a rosyjska 4 Armia generała Antona Salzy rozpoczęła odwrót na północ, w stronę [Lublina](https://pl.wikipedia.org/wiki/Lublin).
 
 ## Trzy dni walk
 

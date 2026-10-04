@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 listopada 1918 roku rano nad rzeką [Chambeshi](https://pl.wikipedia.org/wiki/Chambeshi) w [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna) generał [Paul von Lettow-Vorbeck](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) spotkał się z brytyjskim komisarzem okręgu Kasama Hectorem Croadem i zgodził się przerwać walkę. Trzy dni po [podpisaniu rozejmu w Compiègne](/rozejm-w-compiegne) ucichł ostatni front wielkiej wojny, na którym jeszcze walczono z Niemcami. Niemiecka kolumna, która [kilka dni wcześniej zajęła Kasamę](/lettow-vorbeck-zajmuje-kasame), była niepokonana w polu i do ostatniej chwili nie wiedziała, że Niemcy przegrały wojnę.
+14 listopada 1918 roku rano nad rzeką [Chambeshi](https://pl.wikipedia.org/wiki/Chambeshi) w [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna) generał [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) spotkał się z brytyjskim komisarzem okręgu Kasama Hectorem Croadem i zgodził się przerwać walkę. Trzy dni po [podpisaniu rozejmu w Compiègne](/rozejm-w-compiegne) ucichł ostatni front wielkiej wojny, na którym jeszcze walczono z Niemcami. Niemiecka kolumna, która [kilka dni wcześniej zajęła Kasamę](/lettow-vorbeck-zajmuje-kasame), była niepokonana w polu i do ostatniej chwili nie wiedziała, że Niemcy przegrały wojnę.
 
 ## Potyczka przy fabryce kauczuku
 

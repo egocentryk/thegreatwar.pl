@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-4 listopada 1918 roku, o świcie, trzy armie brytyjskie ruszyły do ostatniej wielkiej bitwy tej wojny. Na froncie od Kanału Sambra–Oise pod Oisy po okolice [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes), długim według feldmarszałka [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) na około 50 kilometrów, 4, 3 i 1 Armia uderzyły na niemiecką drugą pozycję Hermanna, opartą o kanał, skanalizowaną [Sambrę](https://pl.wikipedia.org/wiki/Sambra) i las Mormal. Na prawym skrzydle, w dolinie Oise, nacierała francuska 1 Armia generała Debeneya. Do wieczora Brytyjczycy przeszli przez kanał na długości około 24 kilometrów, przebili się przez większą część lasu, zdobyli twierdzę Le Quesnoy i wzięli około 10 tysięcy jeńców. Był to też dzień, w którym zginął Wilfred Owen.
+4 listopada 1918 roku, o świcie, trzy armie brytyjskie ruszyły do ostatniej wielkiej bitwy tej wojny. Na froncie od Kanału Sambra–Oise pod Oisy po okolice [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes), długim według feldmarszałka [Douglasa Haiga](/postacie/douglas-haig) na około 50 kilometrów, 4, 3 i 1 Armia uderzyły na niemiecką drugą pozycję Hermanna, opartą o kanał, skanalizowaną [Sambrę](https://pl.wikipedia.org/wiki/Sambra) i las Mormal. Na prawym skrzydle, w dolinie Oise, nacierała francuska 1 Armia generała Debeneya. Do wieczora Brytyjczycy przeszli przez kanał na długości około 24 kilometrów, przebili się przez większą część lasu, zdobyli twierdzę Le Quesnoy i wzięli około 10 tysięcy jeńców. Był to też dzień, w którym zginął Wilfred Owen.
 
 ## Przed świtem
 

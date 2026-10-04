@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-8 stycznia 1915 roku minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) zawiadomił brytyjskiego ambasadora w Waszyngtonie, że uzgodniono warunki, na jakich amerykański przemysł może otrzymywać kauczuk z Imperium Brytyjskiego. Porozumienie z amerykańskimi kręgami przemysłu gumowego miało zapewnić, że surowiec ani wyroby z niego nie trafią przez Stany Zjednoczone do Niemiec. Brytyjska chronologia wojny umieszcza je dopiero pod 29 marca 1915 roku, ale według dokumentów amerykańskich i ówczesnej prasy branżowej ogłoszono je właśnie na początku stycznia, a w lutym wprowadzono w życie.
+8 stycznia 1915 roku minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) zawiadomił brytyjskiego ambasadora w Waszyngtonie, że uzgodniono warunki, na jakich amerykański przemysł może otrzymywać kauczuk z Imperium Brytyjskiego. Porozumienie z amerykańskimi kręgami przemysłu gumowego miało zapewnić, że surowiec ani wyroby z niego nie trafią przez Stany Zjednoczone do Niemiec. Brytyjska chronologia wojny umieszcza je dopiero pod 29 marca 1915 roku, ale według dokumentów amerykańskich i ówczesnej prasy branżowej ogłoszono je właśnie na początku stycznia, a w lutym wprowadzono w życie.
 
 ## Embargo na kauczuk
 

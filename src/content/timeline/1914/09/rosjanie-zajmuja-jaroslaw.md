@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 września 1914 roku austro-węgierska 3 Armia generała [Svetozara Boroevicia](https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna) opuściła umocniony przyczółek w [Jarosławiu](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), ostatnią pozycję, jaką armia monarchii utrzymywała jeszcze na wschodnim brzegu [Sanu](https://pl.wikipedia.org/wiki/San). Miasto przeszło w ręce Rosjan.
+21 września 1914 roku austro-węgierska 3 Armia generała [Svetozara Boroevicia](/postacie/svetozar-boroevic) opuściła umocniony przyczółek w [Jarosławiu](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), ostatnią pozycję, jaką armia monarchii utrzymywała jeszcze na wschodnim brzegu [Sanu](https://pl.wikipedia.org/wiki/San). Miasto przeszło w ręce Rosjan.
 
 ## Przyczółek nad Sanem
 
@@ -21,7 +21,7 @@ Latem 1914 roku przez Jarosław przeszły tysiące rezerwistów zmierzających n
 
 ## Odwrót za San
 
-Po klęsce w bitwie galicyjskiej armie austro-węgierskie rozpoczęły [wielki odwrót za San](/odwrot-austro-wegier-w-galicji). W połowie września przeprawiły się przez rzekę, ale linii Sanu nie zdołały utrzymać. Przyczółek w Jarosławiu, broniony przez tylną straż 3 Armii, osłaniał wycofywanie się wojsk. 21 września i on został opuszczony, a cofające się oddziały ruszyły dalej na zachód, w stronę Wisłoki i Dunajca.
+Po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie austro-węgierskie rozpoczęły [wielki odwrót za San](/odwrot-austro-wegier-w-galicji). W połowie września przeprawiły się przez rzekę, ale linii Sanu nie zdołały utrzymać. Przyczółek w Jarosławiu, broniony przez tylną straż 3 Armii, osłaniał wycofywanie się wojsk. 21 września i on został opuszczony, a cofające się oddziały ruszyły dalej na zachód, w stronę Wisłoki i Dunajca.
 
 Daty zajęcia miasta różnią się w źródłach. Brytyjska chronologia i opracowania wojskowe podają 21 września, a historia miasta mówi, że Rosjanie byli w Jarosławiu już od 18 września. Możliwe, że rosyjskie oddziały weszły do części miasta, zanim Austriacy ostatecznie ewakuowali przyczółek.
 

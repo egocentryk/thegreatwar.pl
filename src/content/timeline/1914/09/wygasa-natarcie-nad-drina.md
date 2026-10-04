@@ -16,7 +16,7 @@ Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku koniec bitwy
 
 ## Natarcie, które utknęło
 
-Druga ofensywa generała [Oskara Potiorka](https://pl.wikipedia.org/wiki/Oskar_Potiorek) [zaczęła się 8 września](/poczatek-bitwy-nad-drina) przeprawami przez graniczną rzekę. Na północy, w nizinnej [Mačvie](https://pl.wikipedia.org/wiki/Mačva), 5 Armia poniosła ciężkie straty i utrzymała tylko niewielkie przyczółki na serbskim brzegu. Na południu 6 Armia wdarła się na górskie grzbiety wzdłuż rzeki: [Gučevo](https://pl.wikipedia.org/wiki/Gučevo), Boranję i [Jagodnję](https://pl.wikipedia.org/wiki/Jagodnja). Dalej, w stronę [Valjeva](https://pl.wikipedia.org/wiki/Valjevo) i doliny Kolubary, już się nie przebiła.
+Druga ofensywa generała [Oskara Potiorka](/postacie/oskar-potiorek) [zaczęła się 8 września](/poczatek-bitwy-nad-drina) przeprawami przez graniczną rzekę. Na północy, w nizinnej [Mačvie](https://pl.wikipedia.org/wiki/Mačva), 5 Armia poniosła ciężkie straty i utrzymała tylko niewielkie przyczółki na serbskim brzegu. Na południu 6 Armia wdarła się na górskie grzbiety wzdłuż rzeki: Gučevo, Boranję i Jagodnję. Dalej, w stronę [Valjeva](https://pl.wikipedia.org/wiki/Valjevo) i doliny Kolubary, już się nie przebiła.
 
 W połowie września sytuacja zaczęła się zmieniać na korzyść Serbów. Znad Sawy, po przerwaniu wyprawy do Sremu, forsownym marszem nadciągnęła 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) i od razu przeszła do kontrataków na austro-węgierskie pozycje w górach. Równocześnie serbskie i czarnogórskie oddziały weszły do wschodniej Bośni i 14 września zajęły [Višegrad](https://pl.wikipedia.org/wiki/Višegrad), zagrażając tyłom 6 Armii. Natarcie Potiorka straciło impet. Jego wojska zamiast iść naprzód musiały bronić zdobytych wzgórz.
 
@@ -28,4 +28,4 @@ Po tych walkach front zastygł na grzbietach gór. Na Gučevie, Boranji i Jagodn
 
 ## Co było dalej
 
-Serbia obroniła się, ale była wyczerpana. Brakowało jej amunicji artyleryjskiej, butów i mundurów, a straty w ludziach były ogromne. Gdy na początku listopada Potiorek rozpoczął trzecią ofensywę, osłabiona armia wojewody [Radomira Putnika](https://pl.wikipedia.org/wiki/Radomir_Putnik) nie zdołała już utrzymać pozycji nad Driną i zaczęła się cofać w głąb kraju. Dopiero w [bitwie nad Kolubarą](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) w grudniu 1914 roku Serbowie przeszli do kontrofensywy i wyparli najeźdźców.
+Serbia obroniła się, ale była wyczerpana. Brakowało jej amunicji artyleryjskiej, butów i mundurów, a straty w ludziach były ogromne. Gdy na początku listopada Potiorek rozpoczął trzecią ofensywę, osłabiona armia wojewody [Radomira Putnika](/postacie/radomir-putnik) nie zdołała już utrzymać pozycji nad Driną i zaczęła się cofać w głąb kraju. Dopiero w [bitwie nad Kolubarą](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) w grudniu 1914 roku Serbowie przeszli do kontrofensywy i wyparli najeźdźców.

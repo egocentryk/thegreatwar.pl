@@ -17,7 +17,7 @@ draft: false
 
 Brytyjskie okręty pilnowały wschodnioafrykańskiego wybrzeża od wielu miesięcy, przede wszystkim z powodu krążownika [Königsberg](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), [zamkniętego od końca października w delcie Rufidżi](/konigsberg-odnaleziony-w-delcie-rufiji). Dopóki jednak nie ogłoszono blokady, Royal Navy mogła zatrzymywać na morzu tylko statki wroga i ładunki uznane za kontrabandę. Formalna blokada, ogłoszona zgodnie z prawem międzynarodowym, pozwalała zatrzymać każdy statek, także neutralny, który próbowałby wpłynąć do niemieckiego portu lub z niego wypłynąć.
 
-Brytyjczykom chodziło o odcięcie kolonii od wszelkich dostaw z zewnątrz. Siły podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck), które w listopadzie 1914 roku odparły brytyjski desant pod [Tangą](https://pl.wikipedia.org/wiki/Tanga), potrzebowały broni, amunicji i lekarstw. Bez nich niemiecki opór w Afryce Wschodniej musiałby prędzej czy później osłabnąć.
+Brytyjczykom chodziło o odcięcie kolonii od wszelkich dostaw z zewnątrz. Siły podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), które w listopadzie 1914 roku odparły brytyjski desant pod [Tangą](https://pl.wikipedia.org/wiki/Tanga), potrzebowały broni, amunicji i lekarstw. Bez nich niemiecki opór w Afryce Wschodniej musiałby prędzej czy później osłabnąć.
 
 ## Okręty blokady
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1915 roku generał porucznik sir Archibald Murray przestał kierować sztabem [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Naczelny dowódca, marszałek [John French](https://pl.wikipedia.org/wiki/John_French), odesłał go tego dnia na miesięczny urlop zdrowotny, a następnego dnia zażądał jego rezygnacji. Murray zapewniał, że wystarczy mu kilka dni odpoczynku, ale decyzja już zapadła. Tak zakończyła się służba człowieka, który od pierwszego dnia wojny był [szefem sztabu Frencha](/sztab-brytyjskiego-korpusu-ekspedycyjnego).
+24 stycznia 1915 roku generał porucznik sir Archibald Murray przestał kierować sztabem [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). Naczelny dowódca, marszałek [John French](/postacie/john-french), odesłał go tego dnia na miesięczny urlop zdrowotny, a następnego dnia zażądał jego rezygnacji. Murray zapewniał, że wystarczy mu kilka dni odpoczynku, ale decyzja już zapadła. Tak zakończyła się służba człowieka, który od pierwszego dnia wojny był [szefem sztabu Frencha](/sztab-brytyjskiego-korpusu-ekspedycyjnego).
 
 ## Stary współpracownik Frencha
 
@@ -23,7 +23,7 @@ Już pierwsze tygodnie wojny nadszarpnęły jego pozycję. W czasie [odwrotu spo
 
 Jesienią 1914 roku stosunki w kwaterze głównej były złe. Murray nie umiał zapanować nad podwładnymi, a zwłaszcza nad Wilsonem, który miał własny dostęp do Frencha i przyjaciół we francuskim dowództwie. Skarżył się, że oficerowie sztabu go pomijają, a nawet zmieniają jego rozkazy, i kilka razy mówił o dymisji. Generał [Henry Rawlinson](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)) zanotował pod koniec listopada, że Murray stał się w kwaterze głównej „zerem”. Sam Murray pisał po latach, że został przy Frenchu, bo znał go jak nikt inny i chciał go wspierać mimo jego trudnego charakteru.
 
-Pod koniec listopada i w połowie grudnia French mówił Wilsonowi, że myśli o przeniesieniu Murraya na dowództwo korpusu i oddaniu jego miejsca właśnie Wilsonowi. Premier [Herbert Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith) i minister wojny lord Kitchener nie zgodzili się jednak na tę kandydaturę. Sprawa ciągnęła się kilka tygodni, aż French postanowił rozstać się z Murrayem. Wilsona podejrzewano powszechnie o intrygi przeciw przełożonemu, choć konkretnych dowodów na to jest niewiele.
+Pod koniec listopada i w połowie grudnia French mówił Wilsonowi, że myśli o przeniesieniu Murraya na dowództwo korpusu i oddaniu jego miejsca właśnie Wilsonowi. Premier [Herbert Asquith](/postacie/herbert-henry-asquith) i minister wojny lord Kitchener nie zgodzili się jednak na tę kandydaturę. Sprawa ciągnęła się kilka tygodni, aż French postanowił rozstać się z Murrayem. Wilsona podejrzewano powszechnie o intrygi przeciw przełożonemu, choć konkretnych dowodów na to jest niewiele.
 
 ## Dalsze losy
 

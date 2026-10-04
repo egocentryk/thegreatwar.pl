@@ -23,6 +23,6 @@ Zagrożenie przyszło z innej strony. Pod koniec listopada rosyjska 3 Armia gene
 
 ## Uderzenie pod Limanową
 
-Szef sztabu generalnego [Franz Conrad von Hötzendorf](https://pl.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf) nie zamierzał czekać, aż Rosjanie obejdą twierdzę od południa. W ostatnich dniach listopada dwa korpusy 4 Armii, zwolnione z walk na północ od Krakowa, przewieziono koleją do Jordanowa, Mszany Dolnej i Chabówki. Wraz z niemiecką 47 Rezerwową Dywizją Piechoty miały uderzyć z gór w bok i na tyły armii Dimitriewa. W twierdzy pozostała tylko niezbędna załoga.
+Szef sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) nie zamierzał czekać, aż Rosjanie obejdą twierdzę od południa. W ostatnich dniach listopada dwa korpusy 4 Armii, zwolnione z walk na północ od Krakowa, przewieziono koleją do Jordanowa, Mszany Dolnej i Chabówki. Wraz z niemiecką 47 Rezerwową Dywizją Piechoty miały uderzyć z gór w bok i na tyły armii Dimitriewa. W twierdzy pozostała tylko niezbędna załoga.
 
 Na początku grudnia te wojska rozpoczęły natarcie, a [bitwa pod Limanową](/poczatek-bitwy-pod-limanowa) przejęła rolę, jaką kilka tygodni wcześniej miała odegrać bitwa pod Krakowem. Pierwsza bitwa o Kraków nie przyniosła rozstrzygnięcia. Miasto pozostało w rękach austriackich, a rosyjski marsz w stronę Śląska od południa został zatrzymany. Rosjanie stali jednak nadal pod samym miastem, od północy i od południowego wschodu.

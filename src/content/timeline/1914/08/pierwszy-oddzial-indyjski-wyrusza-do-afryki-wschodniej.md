@@ -15,7 +15,7 @@ draft: false
 
 ## Obrona brytyjskiej kolonii
 
-Brytyjska Afryka Wschodnia, dzisiejsza Kenia, była zagrożona przez niemieckie wojska kolonialne podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck). 15 sierpnia Niemcy zajęli przygraniczną Tavetę u stóp Kilimandżaro i zaczęli zagrażać Kolei Ugandyjskiej, głównej arterii kolonii. Miejscowe siły brytyjskie były zbyt słabe, by się bronić. Londyn poprosił więc o pomoc Indie, które dysponowały dużą, dobrze wyszkoloną armią.
+Brytyjska Afryka Wschodnia, dzisiejsza Kenia, była zagrożona przez niemieckie wojska kolonialne podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). 15 sierpnia Niemcy zajęli przygraniczną Tavetę u stóp Kilimandżaro i zaczęli zagrażać Kolei Ugandyjskiej, głównej arterii kolonii. Miejscowe siły brytyjskie były zbyt słabe, by się bronić. Londyn poprosił więc o pomoc Indie, które dysponowały dużą, dobrze wyszkoloną armią.
 
 Korpus „C” składał się z 29 Pułku Pendżabskiego, oddziałów wystawionych przez indyjskie państwa książęce, baterii artylerii górskiej i innych jednostek. Żołnierze 29 Pułku pochodzili głównie z [Pendżabu](https://pl.wikipedia.org/wiki/Pendżab), jednego z głównych regionów werbunku armii indyjskiej.
 

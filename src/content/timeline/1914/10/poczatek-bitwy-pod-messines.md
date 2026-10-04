@@ -18,7 +18,7 @@ draft: false
 
 Brytyjski Korpus Ekspedycyjny od początku października [przechodził znad Aisne](/bef-opuszcza-aisne) do Flandrii. Jako pierwsze dotarły na miejsce dwie dywizje kawalerii, które 9 października połączono w korpus pod dowództwem Allenby'ego. Za nimi szły korpusy piechoty. II Korpus wszedł już do walki pod La Bassée, a III Korpus generała Williama Pulteneya wyładowywał się właśnie w Saint-Omer i przechodził do [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck).
 
-10 października marszałek [John French](https://pl.wikipedia.org/wiki/John_French) uzgodnił z generałem [Ferdinandem Fochem](/foch-obejmuje-dowodztwo-we-flandrii), koordynującym działania armii francuskich na północy, wspólne natarcie na wschód. Brytyjczycy mieli przejść na północ od Lille i uderzyć na skrzydło Niemców. Kawaleria Allenby'ego miała osłaniać lewe skrzydło III Korpusu, zająć wzgórza wokół Bailleul i posuwać się w stronę Ypres.
+10 października marszałek [John French](/postacie/john-french) uzgodnił z generałem [Ferdinandem Fochem](/foch-obejmuje-dowodztwo-we-flandrii), koordynującym działania armii francuskich na północy, wspólne natarcie na wschód. Brytyjczycy mieli przejść na północ od Lille i uderzyć na skrzydło Niemców. Kawaleria Allenby'ego miała osłaniać lewe skrzydło III Korpusu, zająć wzgórza wokół Bailleul i posuwać się w stronę Ypres.
 
 Naprzeciw niej stał niemiecki IV Korpus Kawalerii generała von Hollena, złożony z trzech dywizji kawalerii. Kilka dni wcześniej jego oddziały [przeszły przez Ypres](/niemiecka-kawaleria-w-ypres) i dotarły pod Hazebrouck, ale cofnęły się na wzgórza wokół [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), gdzie korpus miał swoją kwaterę.
 
@@ -28,7 +28,7 @@ Na zachód od Bailleul ciągnie się łańcuch pojedynczych wzgórz: Mont des Ca
 
 12 października kawaleria Allenby'ego natrafiła na przeciwnika okopanego na Mont des Cats i we wsi Flêtre, przy drodze z Cassel do Bailleul. Szczyt wzgórza wieńczyły zabudowania klasztoru trapistów, a jego zbocza porastały chmielniki. Zadanie zdobycia wzgórza otrzymała 3 Brygada Kawalerii. Jej 4 Pułk Huzarów i 5 Pułk Lansjerów zaatakowały pieszo od zachodu, a 16 Pułk Lansjerów, wspierany przez baterię artylerii konnej, od południa. Pod wieczór, po twardej walce, wzgórze było w rękach brytyjskich.
 
-Wśród rannych, których Niemcy musieli pozostawić, był dziewiętnastoletni książę Maksymilian Heski, siostrzeniec cesarza [Wilhelma II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern). Zmarł wkrótce potem. Źródła podają jako datę jego śmierci 12 lub 13 października.
+Wśród rannych, których Niemcy musieli pozostawić, był dziewiętnastoletni książę Maksymilian Heski, siostrzeniec cesarza [Wilhelma II](/postacie/wilhelm-ii). Zmarł wkrótce potem. Źródła podają jako datę jego śmierci 12 lub 13 października.
 
 ## Co dalej
 

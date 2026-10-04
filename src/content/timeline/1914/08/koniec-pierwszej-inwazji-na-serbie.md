@@ -3,7 +3,7 @@ title: Koniec pierwszej inwazji na Serbię
 summary: Pod koniec sierpnia 1914 Serbowie odzyskali Šabac, a ostatnie oddziały austro-węgierskie wycofały się za Drinę i Sawę. Pierwsza inwazja zakończyła się klęską.
 category: Działania zbrojne
 front: Front bałkański
-battle: bitwa-na-gorze-cer
+battle: kampania-serbska-1914
 date: 1914-08-25
 authors: [Natalia]
 dayOrder: 6
@@ -16,9 +16,9 @@ Brytyjska chronologia wojny notuje pod datą 25 sierpnia 1914 roku koniec pierws
 
 ## Dwanaście dni wojny
 
-Inwazja rozpoczęła się 12 sierpnia. Wojska austro-węgierskie generała [Oskara Potiorka](https://pl.wikipedia.org/wiki/Oskar_Potiorek) przekroczyły Drinę na zachodzie (zob. [Austriacy przekraczają Drinę](/austriacy-przekraczaja-drine-pierwsza-inwazja-na-serbie)) i Sawę na północy, gdzie zajęły Šabac. Potiorek chciał szybko rozprawić się z Serbią i ukarać ją za zamach w Sarajewie. Jego armie posuwały się jednak powoli przez górzysty, zalesiony teren, w upale i przy słabym zaopatrzeniu.
+Inwazja rozpoczęła się 12 sierpnia. Wojska austro-węgierskie generała [Oskara Potiorka](/postacie/oskar-potiorek) przekroczyły Drinę na zachodzie (zob. [Austriacy przekraczają Drinę](/austriacy-przekraczaja-drine-pierwsza-inwazja-na-serbie)) i Sawę na północy, gdzie zajęły Šabac. Potiorek chciał szybko rozprawić się z Serbią i ukarać ją za zamach w Sarajewie. Jego armie posuwały się jednak powoli przez górzysty, zalesiony teren, w upale i przy słabym zaopatrzeniu.
 
-Serbski wódz naczelny, wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), skierował główne siły przeciw najgroźniejszemu uderzeniu. W nocy z 15 na 16 sierpnia rozpoczęła się bitwa na górze Cer. Po kilku dniach zaciętych walk wojska austro-węgierskie załamały się i od 19–20 sierpnia w nieładzie cofały się ku Drinie (zob. [Koniec bitwy na górze Cer](/koniec-bitwy-na-gorze-cer)).
+Serbski wódz naczelny, wojewoda [Radomir Putnik](/postacie/radomir-putnik), skierował główne siły przeciw najgroźniejszemu uderzeniu. W nocy z 15 na 16 sierpnia rozpoczęła się bitwa na górze Cer. Po kilku dniach zaciętych walk wojska austro-węgierskie załamały się i od 19–20 sierpnia w nieładzie cofały się ku Drinie (zob. [Koniec bitwy na górze Cer](/koniec-bitwy-na-gorze-cer)).
 
 ## Walki o Šabac
 

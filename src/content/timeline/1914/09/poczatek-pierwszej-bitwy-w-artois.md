@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego wyścigu do morza. Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) i zagłębia węglowego wokół [Lens](https://pl.wikipedia.org/wiki/Lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.
+27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) i zagłębia węglowego wokół [Lens](https://pl.wikipedia.org/wiki/Lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.
 
 ## Nazwa i daty
 
@@ -26,13 +26,13 @@ Tego samego dnia Niemcy rozpoczęli oblężenie Antwerpii. Od tego, gdzie zatrzy
 
 ## Siły francuskie
 
-Naczelny wódz armii francuskiej, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), postanowił zgromadzić wokół Arras nowe siły, które miały uderzyć na wschód i północny wschód, w stronę Douai, i obejść niemieckie skrzydło. Dowództwo powierzył generałowi Louisowi de Maud'huy, który dotąd dowodził korpusem armijnym. Jego zgrupowanie utworzono pod koniec września, według różnych źródeł między 29 września a 1 października. Początkowo podlegało ono 2 Armii generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau).
+Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), postanowił zgromadzić wokół Arras nowe siły, które miały uderzyć na wschód i północny wschód, w stronę Douai, i obejść niemieckie skrzydło. Dowództwo powierzył generałowi Louisowi de Maud'huy, który dotąd dowodził korpusem armijnym. Jego zgrupowanie utworzono pod koniec września, według różnych źródeł między 29 września a 1 października. Początkowo podlegało ono 2 Armii generała [Noëla de Castelnau](/postacie/noel-de-castelnau).
 
 Do Arras i okolic przewożono koleją i samochodami X Korpus, dywizje rezerwowe i terytorialne, a później także XXI Korpus. Północne skrzydło osłaniał korpus kawalerii generała Louisa Conneau. Wojska przybywały jednak stopniowo, a pierwsze oddziały musiały wchodzić do walki prosto z pociągów.
 
 ## Siły niemieckie
 
-Szef niemieckiego sztabu generalnego, generał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), również myślał o obejściu przeciwnika od północy. Na prawe skrzydło kierował 6 Armię następcy tronu Bawarii, księcia [Ruprechta](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach), przerzucaną z Lotaryngii. 28 września polecił mu uderzyć na Arras. Do Artois zmierzały między innymi Korpus Gwardii, I Bawarski Korpus Rezerwowy i IV Korpus, a dalej na północ, w stronę Lens i Lille, posuwały się niemieckie korpusy kawalerii.
+Szef niemieckiego sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), również myślał o obejściu przeciwnika od północy. Na prawe skrzydło kierował 6 Armię następcy tronu Bawarii, księcia [Ruprechta](/postacie/rupprecht-bawarski), przerzucaną z Lotaryngii. 28 września polecił mu uderzyć na Arras. Do Artois zmierzały między innymi Korpus Gwardii, I Bawarski Korpus Rezerwowy i IV Korpus, a dalej na północ, w stronę Lens i Lille, posuwały się niemieckie korpusy kawalerii.
 
 ## Przebieg walk
 
@@ -40,7 +40,7 @@ W ostatnich dniach września obie strony gromadziły siły. Na przedpolu Arras d
 
 1 października Niemcy uprzedzili francuskie natarcie. Uderzyli między Arras a Douai i zepchnęli Francuzów z wsi na wschód od miasta, między innymi z [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux). Zatrzymał ich dopiero nadchodzący X Korpus. W kolejnych dniach Rupprecht wprowadzał do walki nowe korpusy i przesuwał natarcie na północ od Arras. Do 4 października Niemcy zajęli Lens, [Souchez](https://pl.wikipedia.org/wiki/Souchez) i [Neuville-Saint-Vaast](https://pl.wikipedia.org/wiki/Neuville-Saint-Vaast) oraz wzgórza [Vimy](https://pl.wikipedia.org/wiki/Vimy). 5 października opanowali wzgórze Notre-Dame-de-Lorette.
 
-Sytuacja Maud'huy stała się groźna i 4 października uprzedził Joffre'a, że może być zmuszony do odwrotu. Joffre zabronił się wycofywać. Zgrupowanie Maud'huy stało się samodzielną 10 Armią, według źródeł francuskich 5 października, a koordynację wszystkich armii na północy powierzono generałowi [Ferdinandowi Fochowi](https://pl.wikipedia.org/wiki/Ferdinand_Foch). Do 6 października kryzys minął. Francuzi utrzymali Arras, a front ustalił się tuż za wschodnimi przedmieściami miasta i na zboczach wzgórz Vimy i Lorette. Od 6 października niemiecka artyleria ostrzeliwała Arras, a lokalne walki o wsie i wzgórza trwały jeszcze przez kilka dni. Potem główny ciężar walk przeniósł się dalej na północ, pod La Bassée i do Flandrii.
+Sytuacja Maud'huy stała się groźna i 4 października uprzedził Joffre'a, że może być zmuszony do odwrotu. Joffre zabronił się wycofywać. Zgrupowanie Maud'huy stało się samodzielną 10 Armią, według źródeł francuskich 5 października, a koordynację wszystkich armii na północy powierzono generałowi [Ferdinandowi Fochowi](/postacie/ferdinand-foch). Do 6 października kryzys minął. Francuzi utrzymali Arras, a front ustalił się tuż za wschodnimi przedmieściami miasta i na zboczach wzgórz Vimy i Lorette. Od 6 października niemiecka artyleria ostrzeliwała Arras, a lokalne walki o wsie i wzgórza trwały jeszcze przez kilka dni. Potem główny ciężar walk przeniósł się dalej na północ, pod La Bassée i do Flandrii.
 
 ## Znaczenie
 

@@ -16,9 +16,9 @@ draft: false
 
 ## Naciski sojuszników
 
-Po wyparciu Austriaków z kraju w sierpniu serbskie dowództwo nie paliło się do ofensywy. Armia była zmęczona, brakowało jej amunicji artyleryjskiej i sprzętu przeprawowego. Rosja i Francja naciskały jednak na Belgrad, by uderzył na Austro-Węgry i związał ich wojska, które inaczej mogłyby zostać przerzucone przeciw Rosjanom do Galicji. Do następcy tronu Aleksandra pisał w tej sprawie wielki książę [Mikołaj Mikołajewicz](https://pl.wikipedia.org/wiki/Mikołaj_Romanow_(1856–1929)), naczelny wódz armii rosyjskiej. Premier Nikola Pašić ustąpił, a szef sztabu wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik) przygotował ograniczoną ofensywę.
+Po wyparciu Austriaków z kraju w sierpniu serbskie dowództwo nie paliło się do ofensywy. Armia była zmęczona, brakowało jej amunicji artyleryjskiej i sprzętu przeprawowego. Rosja i Francja naciskały jednak na Belgrad, by uderzył na Austro-Węgry i związał ich wojska, które inaczej mogłyby zostać przerzucone przeciw Rosjanom do Galicji. Do następcy tronu Aleksandra pisał w tej sprawie wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), naczelny wódz armii rosyjskiej. Premier Nikola Pašić ustąpił, a szef sztabu wojewoda [Radomir Putnik](/postacie/radomir-putnik) przygotował ograniczoną ofensywę.
 
-Główne uderzenie miała wykonać 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović), która przeprawiała się przez Sawę w rejonie Kupinova, na zachód od Belgradu. Na zachód od niej, w pobliżu Mitrovicy, Dywizja Timocka I powołania z 2 Armii generała [Stepy Stepanovicia](https://pl.wikipedia.org/wiki/Stepa_Stepanović) miała przeprowadzić przeprawę pozorną, by odwrócić uwagę Austriaków od głównego kierunku.
+Główne uderzenie miała wykonać 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović), która przeprawiała się przez Sawę w rejonie Kupinova, na zachód od Belgradu. Na zachód od niej, w pobliżu Mitrovicy, Dywizja Timocka I powołania z 2 Armii generała [Stepy Stepanovicia](/postacie/stepa-stepanovic) miała przeprowadzić przeprawę pozorną, by odwrócić uwagę Austriaków od głównego kierunku.
 
 ## Klęska pod Mitrovicą
 
@@ -32,4 +32,4 @@ Główne siły 1 Armii przekroczyły Sawę z większym powodzeniem i posuwały s
 
 ## Co było dalej
 
-Wyprawa do Sremu trwała krótko. 7 i 8 września Austro-Węgry rozpoczęły drugą inwazję na Serbię, przekraczając Drinę. Putnik musiał ściągnąć wojska do obrony kraju i 11 września nakazał odwrót ze Sremu. Do 14 września ostatnie oddziały serbskie wróciły za Sawę. Ofensywa nie osiągnęła celu, bo część austro-węgierskich wojsk przeznaczonych do Galicji już wcześniej wyjechała na wschód, a Serbię kosztowała kilka tysięcy żołnierzy, których nie miała czym zastąpić.
+Wyprawa do Sremu trwała krótko. 7 i 8 września Austro-Węgry rozpoczęły [drugą inwazję na Serbię](/bitwy/kampania-serbska-1914), przekraczając Drinę. Putnik musiał ściągnąć wojska do obrony kraju i 11 września nakazał odwrót ze Sremu. Do 14 września ostatnie oddziały serbskie wróciły za Sawę. Ofensywa nie osiągnęła celu, bo część austro-węgierskich wojsk przeznaczonych do Galicji już wcześniej wyjechała na wschód, a Serbię kosztowała kilka tysięcy żołnierzy, których nie miała czym zastąpić.

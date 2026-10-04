@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1918 roku generał porucznik Herbert Lawrence został szefem Sztabu Generalnego Brytyjskiego Korpusu Ekspedycyjnego we Francji, czyli szefem sztabu marszałka [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig). Taką datę podaje brytyjska historia oficjalna. W części opracowań pojawia się 22 stycznia, a brytyjska chronologia wojny notuje osobno, że jego poprzednik, generał porucznik Launcelot Kiggell, ustąpił 27 stycznia. Była to ostatnia i najważniejsza ze [zmian w kwaterze głównej](/zmiany-w-sztabie-haiga), które rząd wymusił na Haigu po krwawych bitwach 1917 roku.
+24 stycznia 1918 roku generał porucznik Herbert Lawrence został szefem Sztabu Generalnego Brytyjskiego Korpusu Ekspedycyjnego we Francji, czyli szefem sztabu marszałka [Douglasa Haiga](/postacie/douglas-haig). Taką datę podaje brytyjska historia oficjalna. W części opracowań pojawia się 22 stycznia, a brytyjska chronologia wojny notuje osobno, że jego poprzednik, generał porucznik Launcelot Kiggell, ustąpił 27 stycznia. Była to ostatnia i najważniejsza ze [zmian w kwaterze głównej](/zmiany-w-sztabie-haiga), które rząd wymusił na Haigu po krwawych bitwach 1917 roku.
 
 ## Odejście Kiggella
 

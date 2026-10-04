@@ -15,7 +15,7 @@ draft: false
 
 ## Miasto opuszczone
 
-Valenciennes leżało na drodze prawego skrzydła armii niemieckiej. Po [bitwie pod Mons](/bitwa-pod-mons) Brytyjski Korpus Ekspedycyjny [wycofywał się na południe](/brytyjczycy-wycofuja-sie-spod-mons), a za nim szły kolumny 1 Armii generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck), które przekroczyły granicę francuską w rejonie [Condé-sur-l'Escaut](https://pl.wikipedia.org/wiki/Condé-sur-l’Escaut).
+Valenciennes leżało na drodze prawego skrzydła armii niemieckiej. Po [bitwie pod Mons](/bitwa-pod-mons) Brytyjski Korpus Ekspedycyjny [wycofywał się na południe](/brytyjczycy-wycofuja-sie-spod-mons), a za nim szły kolumny 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck), które przekroczyły granicę francuską w rejonie [Condé-sur-l'Escaut](https://pl.wikipedia.org/wiki/Condé-sur-l’Escaut).
 
 24 sierpnia był dla mieszkańców dniem pełnym niepokoju. Po południu miasto opuścił ostatni pociąg z wyższymi urzędnikami państwowymi. W nocy z 24 na 25 sierpnia ratusz opuścili ostatni oficerowie, a z miasta wymaszerowały ostatnie oddziały francuskie. Rano mieszkańcy przeczytali odezwę władz miejskich, które przygotowały ją w nocy. Zaczynała się od słów, że wbrew nadziejom nieprzyjaciel najeżdża Francję i być może zajmie miasto. Niedługo potem przez plac przejechał patrol niemieckich ułanów.
 

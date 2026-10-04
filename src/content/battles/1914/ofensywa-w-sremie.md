@@ -21,9 +21,9 @@ Ofensywa w Sremie była pierwszą i jedyną w 1914 roku próbą przeniesienia wo
 
 ## Niechciana ofensywa
 
-Po [zwycięstwie na górze Cer](/bitwy/bitwa-na-gorze-cer) w sierpniu serbska armia była zmęczona i źle zaopatrzona. Brakowało jej amunicji artyleryjskiej, sprzętu przeprawowego i wyposażenia obozowego. Rosja i Francja naciskały jednak na Belgrad, by uderzył na Austro-Węgry i związał ich wojska, które inaczej mogłyby trafić do Galicji. Premier [Nikola Pašić](https://pl.wikipedia.org/wiki/Nikola_Pašić) nie mógł odmówić Rosji, od której Serbia otrzymywała broń. Szef sztabu, wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), przygotował więc ofensywę ograniczoną, z której w razie zagrożenia można było szybko się wycofać.
+Po [zwycięstwie na górze Cer](/bitwy/bitwa-na-gorze-cer) w sierpniu serbska armia była zmęczona i źle zaopatrzona. Brakowało jej amunicji artyleryjskiej, sprzętu przeprawowego i wyposażenia obozowego. Rosja i Francja naciskały jednak na Belgrad, by uderzył na Austro-Węgry i związał ich wojska, które inaczej mogłyby trafić do Galicji. Premier [Nikola Pašić](https://pl.wikipedia.org/wiki/Nikola_Pašić) nie mógł odmówić Rosji, od której Serbia otrzymywała broń. Szef sztabu, wojewoda [Radomir Putnik](/postacie/radomir-putnik), przygotował więc ofensywę ograniczoną, z której w razie zagrożenia można było szybko się wycofać.
 
-Główne uderzenie miała wykonać 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović), przeprawiając się przez Sawę na zachód od Belgradu, w rejonie Kupinova. Jej ostatecznym celem była odległa twierdza [Petrovaradin](https://pl.wikipedia.org/wiki/Twierdza_Petrovaradin) nad Dunajem. Dywizja Timocka I powołania z 2 Armii wojewody [Stepy Stepanovicia](https://pl.wikipedia.org/wiki/Stepa_Stepanović) miała przeprowadzić przeprawę pomocniczą pod [Sremską Mitrovicą](https://pl.wikipedia.org/wiki/Sremska_Mitrovica).
+Główne uderzenie miała wykonać 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović), przeprawiając się przez Sawę na zachód od Belgradu, w rejonie Kupinova. Jej ostatecznym celem była odległa twierdza [Petrovaradin](https://pl.wikipedia.org/wiki/Twierdza_Petrovaradin) nad Dunajem. Dywizja Timocka I powołania z 2 Armii wojewody [Stepy Stepanovicia](/postacie/stepa-stepanovic) miała przeprowadzić przeprawę pomocniczą pod [Sremską Mitrovicą](https://pl.wikipedia.org/wiki/Sremska_Mitrovica).
 
 ## Klęska pod Mitrovicą (6–7 września)
 
@@ -39,7 +39,7 @@ Po klęsce pod Mitrovicą lewe skrzydło 1 Armii było odsłonięte, a Bojović 
 
 ## Odwrót (11–14 września)
 
-Losy ofensywy rozstrzygnęły się jednak gdzie indziej. W nocy z 7 na 8 września austro-węgierskie 5 i 6 Armia generała [Oskara Potiorka](https://pl.wikipedia.org/wiki/Oskar_Potiorek) przekroczyły Drinę i zaczęła się druga inwazja na Serbię, a wraz z nią [bitwa nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną). Putnik potrzebował każdej dywizji do obrony kraju. 11 września nakazał 1 Armii zakończyć działania w Sremie i wrócić za Sawę.
+Losy ofensywy rozstrzygnęły się jednak gdzie indziej. W nocy z 7 na 8 września austro-węgierskie 5 i 6 Armia generała [Oskara Potiorka](/postacie/oskar-potiorek) przekroczyły Drinę i zaczęła się [druga inwazja na Serbię](/bitwy/kampania-serbska-1914), a wraz z nią [bitwa nad Driną](https://pl.wikipedia.org/wiki/Bitwa_nad_Driną). Putnik potrzebował każdej dywizji do obrony kraju. 11 września nakazał 1 Armii zakończyć działania w Sremie i wrócić za Sawę.
 
 Decyzja wywołała oburzenie w serbskim kierownictwie. Sprzeciwiali się jej dowódcy wojskowi, regent Aleksander i król Piotr I, ale Putnik nie ustąpił. Bojović sprawnie przeprowadził odwrót. 12 września Krauss przeszedł do natarcia, lecz serbskie straże tylne powstrzymały jego oddziały. Według źródeł serbskich ostatnie oddziały opuściły Srem 13 września, według innych opracowań 14 września.
 

@@ -23,7 +23,7 @@ Ostatecznie Bułgaria dostała w Bukareszcie to, co obiecano jej w 1915 roku. Al
 
 ## Głód i zmęczenie wojną
 
-Dobrudża była kroplą, która przepełniła czarę. Po trzech latach wojny Bułgaria cierpiała na braki żywności i odzieży, częściowo z powodu złej gospodarki, częściowo przez niemieckie rekwizycje i wywóz. W miastach wybuchały zamieszki, w tym protesty kobiet przeciw drożyźnie i brakom. Rząd Radosławowa uchodził za skorumpowany i uległy wobec Berlina, a w wojsku narastało zmęczenie wojną. [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) wymieniał później wśród przyczyn upadku gabinetu także wpływ wydarzeń na froncie zachodnim, traktat bukareszteński i „względy osobiste”.
+Dobrudża była kroplą, która przepełniła czarę. Po trzech latach wojny Bułgaria cierpiała na braki żywności i odzieży, częściowo z powodu złej gospodarki, częściowo przez niemieckie rekwizycje i wywóz. W miastach wybuchały zamieszki, w tym protesty kobiet przeciw drożyźnie i brakom. Rząd Radosławowa uchodził za skorumpowany i uległy wobec Berlina, a w wojsku narastało zmęczenie wojną. [Erich Ludendorff](/postacie/erich-ludendorff) wymieniał później wśród przyczyn upadku gabinetu także wpływ wydarzeń na froncie zachodnim, traktat bukareszteński i „względy osobiste”.
 
 ## Rząd Malinowa
 

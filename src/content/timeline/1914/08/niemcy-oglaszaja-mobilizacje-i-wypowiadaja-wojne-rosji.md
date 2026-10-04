@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-1 sierpnia 1914 roku [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) wykonały dwa kroki, które zamieniły wojnę na Bałkanach w wojnę wielkich mocarstw. Po południu cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a wieczorem niemiecki ambasador w Petersburgu wręczył rosyjskiemu rządowi [wypowiedzenie wojny](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). Po raz pierwszy w tym konflikcie jedno wielkie mocarstwo wypowiedziało wojnę drugiemu.
+1 sierpnia 1914 roku [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) wykonały dwa kroki, które zamieniły wojnę na Bałkanach w wojnę wielkich mocarstw. Po południu cesarz [Wilhelm II](/postacie/wilhelm-ii) zarządził powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja), a wieczorem niemiecki ambasador w Petersburgu wręczył rosyjskiemu rządowi [wypowiedzenie wojny](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). Po raz pierwszy w tym konflikcie jedno wielkie mocarstwo wypowiedziało wojnę drugiemu.
 
 ## Mobilizacja
 
@@ -25,7 +25,7 @@ Formalnie to Niemcy, a nie Rosja, rozpoczęły wojnę, choć Rosja pierwsza prze
 
 ## Noc nieporozumień
 
-Późnym popołudniem w Berlinie doszło do niezwykłego epizodu. Z Londynu nadszedł telegram od ambasadora księcia [Karola Lichnowsky'ego](https://pl.wikipedia.org/wiki/Karol_Lichnowsky), z którego wynikało, że Wielka Brytania może zagwarantować neutralność Francji, jeśli Niemcy jej nie zaatakują. Wilhelm II uznał, że wojny na zachodzie da się uniknąć, i polecił skierować całą armię na wschód. Szef sztabu generalnego [Helmuth von Moltke](https://pl.wikipedia.org/wiki/Helmuth_Johannes_Ludwig_von_Moltke) był zdruzgotany: plany przerzutu milionów żołnierzy przygotowywano latami i nie dało się ich zmienić w kilka godzin. Cesarz miał mu odpowiedzieć, że jego wuj, słynny marszałek Moltke, udzieliłby innej odpowiedzi.
+Późnym popołudniem w Berlinie doszło do niezwykłego epizodu. Z Londynu nadszedł telegram od ambasadora księcia [Karola Lichnowsky'ego](https://pl.wikipedia.org/wiki/Karol_Lichnowsky), z którego wynikało, że Wielka Brytania może zagwarantować neutralność Francji, jeśli Niemcy jej nie zaatakują. Wilhelm II uznał, że wojny na zachodzie da się uniknąć, i polecił skierować całą armię na wschód. Szef sztabu generalnego [Helmuth von Moltke](/postacie/helmuth-von-moltke) był zdruzgotany: plany przerzutu milionów żołnierzy przygotowywano latami i nie dało się ich zmienić w kilka godzin. Cesarz miał mu odpowiedzieć, że jego wuj, słynny marszałek Moltke, udzieliłby innej odpowiedzi.
 
 Tymczasem niemieccy żołnierze wkroczyli już do [Troisvierges](https://pl.wikipedia.org/wiki/Troisvierges) w [Luksemburgu](https://pl.wikipedia.org/wiki/Luksemburg), by zająć tamtejszy węzeł kolejowy. Na polecenie cesarza oddział wycofano. Późnym wieczorem okazało się jednak, że brytyjska propozycja była nieporozumieniem: w nowym telegramie Lichnowsky donosił, że pozytywnej oferty ze strony Anglii nie należy się spodziewać. Wilhelm II powiedział wówczas Moltkemu, że może robić, co uważa za stosowne. Następnego dnia wojska niemieckie zajęły Luksemburg.
 

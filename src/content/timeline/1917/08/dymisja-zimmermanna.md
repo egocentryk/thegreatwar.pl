@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-5 sierpnia 1917 roku niemiecki sekretarz stanu spraw zagranicznych [Arthur Zimmermann](https://pl.wikipedia.org/wiki/Arthur_Zimmermann) formalnie pożegnał się z urzędem. Tego dnia jego następcą mianowano dotychczasowego ambasadora w Konstantynopolu Richarda von Kühlmanna. Część źródeł, między innymi angielska Wikipedia, podaje 6 sierpnia. Nominację ogłoszono razem z innymi zmianami w rządzie nowego kanclerza [Georga Michaelisa](https://pl.wikipedia.org/wiki/Georg_Michaelis), który [objął urząd w połowie lipca](/michaelis-kanclerzem-rzeszy) po upadku [Theobalda von Bethmanna Hollwega](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg). Zimmermann nie odchodził jednak niespodziewanie. Do dymisji oddał się już w połowie lipca i od tamtej pory czekał tylko na następcę. Brytyjska chronologia wojny notuje jego dymisję pod 15 lipca.
+5 sierpnia 1917 roku niemiecki sekretarz stanu spraw zagranicznych [Arthur Zimmermann](https://pl.wikipedia.org/wiki/Arthur_Zimmermann) formalnie pożegnał się z urzędem. Tego dnia jego następcą mianowano dotychczasowego ambasadora w Konstantynopolu Richarda von Kühlmanna. Część źródeł, między innymi angielska Wikipedia, podaje 6 sierpnia. Nominację ogłoszono razem z innymi zmianami w rządzie nowego kanclerza [Georga Michaelisa](https://pl.wikipedia.org/wiki/Georg_Michaelis), który [objął urząd w połowie lipca](/michaelis-kanclerzem-rzeszy) po upadku [Theobalda von Bethmanna Hollwega](/postacie/theobald-von-bethmann-hollweg). Zimmermann nie odchodził jednak niespodziewanie. Do dymisji oddał się już w połowie lipca i od tamtej pory czekał tylko na następcę. Brytyjska chronologia wojny notuje jego dymisję pod 15 lipca.
 
 ## Ciężar telegramu
 

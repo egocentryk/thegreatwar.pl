@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Pod koniec lipca 1916 roku rząd Stanów Zjednoczonych złożył Wielkiej Brytanii formalny protest przeciw jej czarnej liście. Notę datowaną 26 lipca pełniący obowiązki sekretarza stanu Frank Polk wysłał tego dnia późnym wieczorem telegraficznie do ambasadora w Londynie Waltera Hinesa Page'a z poleceniem wręczenia jej ministrowi spraw zagranicznych [Edwardowi Greyowi](https://pl.wikipedia.org/wiki/Edward_Grey). Brytyjska chronologia wojny podaje jako datę protestu 28 lipca. Waszyngton zapowiedział, że ze względu na wzburzenie amerykańskiej opinii publicznej opublikuje notę w prasie w sobotę rano, czyli 29 lipca. W styczniu Amerykanie [zastrzegli sobie jedynie prawo do protestu](/usa-protestuja-przeciw-czarnej-liscie). Teraz z niego skorzystali.
+Pod koniec lipca 1916 roku rząd Stanów Zjednoczonych złożył Wielkiej Brytanii formalny protest przeciw jej czarnej liście. Notę datowaną 26 lipca pełniący obowiązki sekretarza stanu Frank Polk wysłał tego dnia późnym wieczorem telegraficznie do ambasadora w Londynie Waltera Hinesa Page'a z poleceniem wręczenia jej ministrowi spraw zagranicznych [Edwardowi Greyowi](/postacie/edward-grey). Brytyjska chronologia wojny podaje jako datę protestu 28 lipca. Waszyngton zapowiedział, że ze względu na wzburzenie amerykańskiej opinii publicznej opublikuje notę w prasie w sobotę rano, czyli 29 lipca. W styczniu Amerykanie [zastrzegli sobie jedynie prawo do protestu](/usa-protestuja-przeciw-czarnej-liscie). Teraz z niego skorzystali.
 
 ## Lista z 18 lipca
 

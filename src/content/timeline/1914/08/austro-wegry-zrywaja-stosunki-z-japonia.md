@@ -17,7 +17,7 @@ draft: false
 
 Jedynym większym okrętem Austro-Węgier na wodach Azji był stary krążownik [SMS Kaiserin Elisabeth](https://pl.wikipedia.org/wiki/SMS_Kaiserin_Elisabeth). Na początku wojny stał on w niemieckim porcie Tsingtao, dzisiejszym [Qingdao](https://pl.wikipedia.org/wiki/Qingdao). W połowie sierpnia, gdy Wiedeń liczył jeszcze na uniknięcie konfliktu z Japonią, okręt rozbrojono, a większość załogi wysłano do [Tiencinu](https://pl.wikipedia.org/wiki/Tiencin).
 
-Wkrótce nadszedł jednak nowy rozkaz. Cesarz [Franciszek Józef I](https://pl.wikipedia.org/wiki/Franciszek_Józef_I) polecił dowódcy krążownika wziąć udział w walce razem z niemiecką marynarką. Marynarze wrócili do Tsingtao, a monarchia zerwała stosunki z Japonią. Ambasador austro-węgierski w Waszyngtonie przekazał tę wiadomość rządowi Stanów Zjednoczonych 26 sierpnia. Ambasador w Tokio, baron Ladislaus Müller von Szentgyörgy, opuścił Japonię.
+Wkrótce nadszedł jednak nowy rozkaz. Cesarz [Franciszek Józef I](/postacie/franciszek-jozef-i) polecił dowódcy krążownika wziąć udział w walce razem z niemiecką marynarką. Marynarze wrócili do Tsingtao, a monarchia zerwała stosunki z Japonią. Ambasador austro-węgierski w Waszyngtonie przekazał tę wiadomość rządowi Stanów Zjednoczonych 26 sierpnia. Ambasador w Tokio, baron Ladislaus Müller von Szentgyörgy, opuścił Japonię.
 
 ## Dalsze wydarzenia
 

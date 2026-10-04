@@ -20,7 +20,7 @@ Nazwa łatwo prowadzi do pomyłek. Pakt z 1914 roku nie ma nic wspólnego z [dek
 
 Przed wojną ententa nie była pełnym sojuszem. Francję i Rosję łączył od lat 90. XIX wieku [sojusz wojskowy](https://pl.wikipedia.org/wiki/Sojusz_francusko-rosyjski), ale porozumienia Wielkiej Brytanii z Francją z 1904 roku i z Rosją z 1907 roku dotyczyły głównie spraw kolonialnych i nie zawierały zobowiązań wojskowych. W sierpniu 1914 roku trzy mocarstwa znalazły się w wojnie po tej samej stronie, ale każde z osobna. Nic formalnie nie przeszkadzało żadnemu z nich w zawarciu osobnego pokoju, gdyby wojna potoczyła się źle.
 
-A wojna toczyła się źle. Na początku września Niemcy stali pod Paryżem, francuski rząd wyjechał do Bordeaux, a rosyjska armia poniosła klęskę pod Tannenbergiem. W takiej chwili sojusznicy chcieli się nawzajem upewnić, że nikt nie wycofa się z walki. Deklarację podpisali w Londynie brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey), ambasador Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Paul_Cambon) i ambasador Rosji hrabia Aleksandr Benckendorff.
+A wojna toczyła się źle. Na początku września Niemcy stali pod Paryżem, francuski rząd wyjechał do Bordeaux, a rosyjska armia poniosła klęskę pod Tannenbergiem. W takiej chwili sojusznicy chcieli się nawzajem upewnić, że nikt nie wycofa się z walki. Deklarację podpisali w Londynie brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey), ambasador Francji [Paul Cambon](https://pl.wikipedia.org/wiki/Paul_Cambon) i ambasador Rosji hrabia Aleksandr Benckendorff.
 
 ## Treść
 

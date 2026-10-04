@@ -27,4 +27,4 @@ Obrońcy Abercorn byli wielokrotnie słabsi, ale utrzymali swoje pozycje. Tymcza
 
 Najazd był niewielki, ale zapoczątkował długą wojnę na granicy między Rodezją Północną a Niemiecką Afryką Wschodnią. Przez następne dwa lata Abercorn, Fife i sąsiednie placówki wielokrotnie odpierały niemieckie wypady, a Policja Rodezji Północnej szybko się rozrastała: na początku 1915 roku liczyła już ponad 800 afrykańskich żołnierzy i podoficerów. Brytyjczykom pomagały wkrótce także oddziały z sąsiedniego [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie).
 
-Abercorn zapisało się w historii wojny także w jej ostatnich dniach. 25 listopada 1918 roku, dwa tygodnie po zawieszeniu broni w Europie, właśnie tu skapitulował generał [Paul von Lettow-Vorbeck](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck), niepokonany dowódca wojsk niemieckich w Afryce Wschodniej.
+Abercorn zapisało się w historii wojny także w jej ostatnich dniach. 25 listopada 1918 roku, dwa tygodnie po zawieszeniu broni w Europie, właśnie tu skapitulował generał [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), niepokonany dowódca wojsk niemieckich w Afryce Wschodniej.

@@ -15,7 +15,7 @@ draft: false
 
 ## Garnizon bez szans
 
-Lille, otoczone przestarzałymi fortami, jeszcze w sierpniu ogłoszono miastem otwartym i pozbawiono obrony. Gdy jednak wyścig do morza przesunął front na północ, dowództwo francuskie postanowiło je utrzymać, dopóki nie nadejdą oddziały 10 Armii generała Louisa de Maud'huy, walczące wówczas pod Arras. Obronę powierzono podpułkownikowi de Pardieu. Miał pod rozkazami według różnych źródeł od około 2400 do 3000 żołnierzy, głównie starszych rezerwistów z oddziałów terytorialnych, zaledwie kilka dział i skromne zapasy amunicji.
+Lille, otoczone przestarzałymi fortami, jeszcze w sierpniu ogłoszono miastem otwartym i pozbawiono obrony. Gdy jednak [wyścig do morza](/bitwy/wyscig-do-morza) przesunął front na północ, dowództwo francuskie postanowiło je utrzymać, dopóki nie nadejdą oddziały 10 Armii generała Louisa de Maud'huy, walczące wówczas pod Arras. Obronę powierzono podpułkownikowi de Pardieu. Miał pod rozkazami według różnych źródeł od około 2400 do 3000 żołnierzy, głównie starszych rezerwistów z oddziałów terytorialnych, zaledwie kilka dział i skromne zapasy amunicji.
 
 Naprzeciw nich stanęły znacznie silniejsze wojska niemieckiej 6 Armii, w tym oddziały saskiego XIX Korpusu i jednostki [Landwehry](https://pl.wikipedia.org/wiki/Landwehra). Pierwsze pociski spadły na miasto wieczorem 10 października.
 

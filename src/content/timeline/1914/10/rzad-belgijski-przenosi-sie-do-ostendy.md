@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-7 października 1914 roku rząd Belgii opuścił oblężoną [Antwerpię](https://pl.wikipedia.org/wiki/Antwerpia) i przeniósł się do [Ostendy](https://pl.wikipedia.org/wiki/Ostenda) na wybrzeżu Morza Północnego. Tego samego dnia miasto opuścił król [Albert I](https://pl.wikipedia.org/wiki/Albert_I_Koburg), a armia polowa przeprawiała się przez [Skaldę](https://pl.wikipedia.org/wiki/Skalda) na zachód. Antwerpia, od sierpnia schronienie armii, króla i władz państwa, została zdana na własne siły. Zaczęła się jej ewakuacja.
+7 października 1914 roku rząd Belgii opuścił oblężoną [Antwerpię](https://pl.wikipedia.org/wiki/Antwerpia) i przeniósł się do [Ostendy](https://pl.wikipedia.org/wiki/Ostenda) na wybrzeżu Morza Północnego. Tego samego dnia miasto opuścił król [Albert I](/postacie/albert-i), a armia polowa przeprawiała się przez [Skaldę](https://pl.wikipedia.org/wiki/Skalda) na zachód. Antwerpia, od sierpnia schronienie armii, króla i władz państwa, została zdana na własne siły. Zaczęła się jej ewakuacja.
 
 ## Koniec nadziei na obronę
 

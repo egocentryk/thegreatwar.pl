@@ -15,7 +15,7 @@ draft: false
 
 ## Niekończąca się defilada
 
-Wkroczenie Niemców miało charakter pokazu siły. Przez Brukselę przemaszerowały oddziały niemieckiej 1 Armii generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck), zmierzające na zachód, w kierunku Francji. Kolumny piechoty, kawalerii i artylerii ciągnęły ulicami przez wiele godzin, a według relacji świadków przemarsz trwał kilka dni. Mieszkańcy obserwowali go w milczeniu. Dla wielu z nich był to pierwszy widok armii, której siły nikt w Belgii nie był w stanie powstrzymać.
+Wkroczenie Niemców miało charakter pokazu siły. Przez Brukselę przemaszerowały oddziały niemieckiej 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck), zmierzające na zachód, w kierunku Francji. Kolumny piechoty, kawalerii i artylerii ciągnęły ulicami przez wiele godzin, a według relacji świadków przemarsz trwał kilka dni. Mieszkańcy obserwowali go w milczeniu. Dla wielu z nich był to pierwszy widok armii, której siły nikt w Belgii nie był w stanie powstrzymać.
 
 ## Burmistrz Max
 

@@ -21,7 +21,7 @@ W przeciwieństwie do wysłanego wcześniej Korpusu „C”, który [od wrześni
 
 Korpus składał się z dwóch brygad. 27 Brygada (Bangalore) obejmowała brytyjski 2 Batalion pułku Loyal North Lancashire i bataliony armii indyjskiej. Brygada Imperial Service generała Michaela Tighe'a składała się głównie z oddziałów wystawionych przez indyjskie państwa książęce, między innymi Kaszmir i Gwalior. Jakość tych wojsk była bardzo różna. Część batalionów uchodziła za jedne z najsłabiej wyszkolonych w całej armii indyjskiej, a niektóre dopiero przed wyjazdem otrzymały nowoczesne karabiny Lee-Enfield i nie zdążyły się z nimi oswoić. Oficer wywiadu korpusu, kapitan Richard Meinertzhagen, napisał, że drży na myśl o tym, co się stanie, gdy wojska napotkają poważny opór.
 
-Sam Aitken był pewny siebie. Uważał, że wyszkolone oddziały indyjskie szybko rozprawią się z niemieckimi wojskami kolonialnymi złożonymi z afrykańskich żołnierzy, askarysów. Nie docenił przeciwnika, którym dowodził podpułkownik [Paul von Lettow-Vorbeck](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck).
+Sam Aitken był pewny siebie. Uważał, że wyszkolone oddziały indyjskie szybko rozprawią się z niemieckimi wojskami kolonialnymi złożonymi z afrykańskich żołnierzy, askarysów. Nie docenił przeciwnika, którym dowodził podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck).
 
 ## Dwa tygodnie w tropikach
 

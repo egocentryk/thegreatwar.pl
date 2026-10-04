@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-13 maja 1916 roku brytyjski minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) wysłał ambasadorowi Stanów Zjednoczonych w Londynie Walterowi Hinesowi Page'owi notę, która zamknęła rokowania z Niemcami o przenoszeniu do [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria) chorych i rannych [jeńców wojennych](https://pl.wikipedia.org/wiki/Jeniec_wojenny). Brytyjska chronologia wojny nazywa ten krok ratyfikacją porozumienia w Londynie. Nie był to jednak traktat z podpisami obu stron ani ratyfikacja w ścisłym sensie. Porozumienie powstało z wymiany not, przekazywanych przez amerykańskie ambasady w Londynie i Berlinie, a nota z 13 maja była ostatecznym brytyjskim przyjęciem warunków niemieckich.
+13 maja 1916 roku brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) wysłał ambasadorowi Stanów Zjednoczonych w Londynie Walterowi Hinesowi Page'owi notę, która zamknęła rokowania z Niemcami o przenoszeniu do [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria) chorych i rannych [jeńców wojennych](https://pl.wikipedia.org/wiki/Jeniec_wojenny). Brytyjska chronologia wojny nazywa ten krok ratyfikacją porozumienia w Londynie. Nie był to jednak traktat z podpisami obu stron ani ratyfikacja w ścisłym sensie. Porozumienie powstało z wymiany not, przekazywanych przez amerykańskie ambasady w Londynie i Berlinie, a nota z 13 maja była ostatecznym brytyjskim przyjęciem warunków niemieckich.
 
 ## Od propozycji do zgody
 

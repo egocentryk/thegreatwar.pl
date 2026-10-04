@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 sierpnia 1914 roku wojska niemieckie weszły do [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), miasta w departamencie Nord w północnej Francji. Tego samego dnia kilkanaście kilometrów na wschód, pod [Le Cateau](/bitwa-pod-le-cateau), brytyjski II Korpus toczył całodzienną bitwę z główną częścią 1 Armii generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck). Prawe skrzydło tej armii obchodziło tymczasem Brytyjczyków od zachodu.
+26 sierpnia 1914 roku wojska niemieckie weszły do [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), miasta w departamencie Nord w północnej Francji. Tego samego dnia kilkanaście kilometrów na wschód, pod [Le Cateau](/bitwa-pod-le-cateau), brytyjski II Korpus toczył całodzienną bitwę z główną częścią 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Prawe skrzydło tej armii obchodziło tymczasem Brytyjczyków od zachodu.
 
 Na drodze Niemców stanęły francuskie dywizje terytorialne, złożone ze starszych rezerwistów, słabo uzbrojone i bez doświadczenia bojowego. Cambrai broniła 84 Dywizja Terytorialna, której pułki pochodziły z departamentu Mayenne. Niemcy zaatakowali miasto od strony Valenciennes, Solesmes i Naves. Francuzi bronili się na barykadach, w oknach domów i na placach, ale nie mogli powstrzymać przeciwnika. Według miejscowych relacji w szpitalach Cambrai opatrzono ponad 500 rannych żołnierzy terytorialnych, a wielu z nich zmarło. Walki pod Cambrai i dalej na zachód pomogły jednak osłonić lewe skrzydło Brytyjczyków pod Le Cateau.
 

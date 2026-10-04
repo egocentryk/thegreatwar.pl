@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 października 1915 roku, czyli 3 października według kalendarza juliańskiego, którego Grecja wtedy używała, brytyjski poseł w Atenach sir Francis Elliot otrzymał od ministra spraw zagranicznych [Edwarda Greya](https://pl.wikipedia.org/wiki/Edward_Grey) polecenie przekazania greckiemu rządowi niezwykłej propozycji. Wielka Brytania była gotowa oddać Grecji [Cypr](https://pl.wikipedia.org/wiki/Cypr), jeśli ta ruszy na pomoc zaatakowanej Serbii. Datę 16 października podaje historia udziału Grecji w wojnie wydana przez grecki sztab, a także brytyjska chronologia wojny.
+16 października 1915 roku, czyli 3 października według kalendarza juliańskiego, którego Grecja wtedy używała, brytyjski poseł w Atenach sir Francis Elliot otrzymał od ministra spraw zagranicznych [Edwarda Greya](/postacie/edward-grey) polecenie przekazania greckiemu rządowi niezwykłej propozycji. Wielka Brytania była gotowa oddać Grecji [Cypr](https://pl.wikipedia.org/wiki/Cypr), jeśli ta ruszy na pomoc zaatakowanej Serbii. Datę 16 października podaje historia udziału Grecji w wojnie wydana przez grecki sztab, a także brytyjska chronologia wojny.
 
 ## Wyspa za sojusz
 

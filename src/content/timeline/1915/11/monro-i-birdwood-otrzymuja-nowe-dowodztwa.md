@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Nad ranem 4 listopada 1915 roku do kwatery głównej Śródziemnomorskich Sił Ekspedycyjnych na wyspie [Imbros](https://pl.wikipedia.org/wiki/Imroz) dotarł pilny, osobisty telegram od ministra wojny lorda [Kitchenera](https://pl.wikipedia.org/wiki/Horatio_Kitchener) dla generała Williama Birdwooda. Szyfrant, który zgodnie ze zwyczajem miał go rozszyfrować, odczytał pierwsze grupy cyfr: „Ściśle tajne. Rozszyfruj sam”. Zaniósł depeszę do pełniącego obowiązki szefa sztabu, a ten, gdy doszedł do słów „Nikomu nie mów”, poszedł po ciemku obudzić Birdwooda. Generał nie znał jednak tego szyfru i ostatecznie, by nie tracić czasu, depeszę odczytał jego sztab.
+Nad ranem 4 listopada 1915 roku do kwatery głównej Śródziemnomorskich Sił Ekspedycyjnych na wyspie [Imbros](https://pl.wikipedia.org/wiki/Imroz) dotarł pilny, osobisty telegram od ministra wojny lorda [Kitchenera](/postacie/horatio-kitchener) dla generała Williama Birdwooda. Szyfrant, który zgodnie ze zwyczajem miał go rozszyfrować, odczytał pierwsze grupy cyfr: „Ściśle tajne. Rozszyfruj sam”. Zaniósł depeszę do pełniącego obowiązki szefa sztabu, a ten, gdy doszedł do słów „Nikomu nie mów”, poszedł po ciemku obudzić Birdwooda. Generał nie znał jednak tego szyfru i ostatecznie, by nie tracić czasu, depeszę odczytał jego sztab.
 
 ## Telegram Kitchenera
 

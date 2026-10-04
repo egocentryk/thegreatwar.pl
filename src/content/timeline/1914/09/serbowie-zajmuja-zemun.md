@@ -26,4 +26,4 @@ Wiadomość o Serbach w Zemunie zaniepokoiła władze monarchii, zwłaszcza w Bu
 
 ## Krótki sukces
 
-Serbowie nie utrzymali się w Zemunie długo. Już od 8 września Austro-Węgry prowadziły drugą inwazję na Serbię przez Drinę, a wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik) potrzebował wszystkich sił do obrony kraju. Dzień po zajęciu miasta nakazał wycofanie wojsk ze Sremu, a do 13–14 września ostatnie oddziały serbskie wróciły na prawy brzeg Sawy.
+Serbowie nie utrzymali się w Zemunie długo. Już od 8 września Austro-Węgry prowadziły [drugą inwazję na Serbię](/bitwy/kampania-serbska-1914) przez Drinę, a wojewoda [Radomir Putnik](/postacie/radomir-putnik) potrzebował wszystkich sił do obrony kraju. Dzień po zajęciu miasta nakazał wycofanie wojsk ze Sremu, a do 13–14 września ostatnie oddziały serbskie wróciły na prawy brzeg Sawy.

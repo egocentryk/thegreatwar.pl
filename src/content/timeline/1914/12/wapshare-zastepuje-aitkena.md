@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 4 grudnia 1914 roku, że generał Richard Wapshare zastąpił generała majora Arthura Aitkena na stanowisku dowódcy wojsk brytyjskich w Afryce Wschodniej, a Aitkena odwołano do kraju. Zmiana była następstwem [klęski pod Tangą](/bitwy/bitwa-pod-tanga), gdzie na początku listopada Indyjski Korpus Ekspedycyjny „B” przegrał z wielokrotnie mniej licznymi wojskami podpułkownika [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck).
+Brytyjska chronologia wojny notuje pod 4 grudnia 1914 roku, że generał Richard Wapshare zastąpił generała majora Arthura Aitkena na stanowisku dowódcy wojsk brytyjskich w Afryce Wschodniej, a Aitkena odwołano do kraju. Zmiana była następstwem [klęski pod Tangą](/bitwy/bitwa-pod-tanga), gdzie na początku listopada Indyjski Korpus Ekspedycyjny „B” przegrał z wielokrotnie mniej licznymi wojskami podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck).
 
 Daty tej zmiany różnią się w źródłach, bo przekazanie dowództwa trwało kilka tygodni. Część zestawień podaje, że Wapshare dowodził już od 22 listopada, gdy kierowanie kampanią [przejęło Ministerstwo Wojny w Londynie](/war-office-przejmuje-kampanie-w-afryce-wschodniej). Według innych relacji rozkaz odwołania Aitkena nadszedł kilka dni później. Gdy Wapshare dowiedział się o nominacji i awansie na generała majora, Aitken leżał w szpitalu chory na malarię. Do Anglii odpłynął dopiero 17 grudnia.
 

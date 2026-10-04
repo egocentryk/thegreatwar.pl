@@ -16,7 +16,7 @@ draft: false
 
 ## Odpowiedź na inwazję
 
-Kilka dni wcześniej wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) przekroczyły Drinę i Sawę, rozpoczynając inwazję na Serbię. Naczelny wódz serbski, wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), rozpoznał, że główne uderzenie idzie od zachodu, przez dolinę Jadaru. Skierował tam 2 Armię generała [Stepy Stepanovicia](https://pl.wikipedia.org/wiki/Stepa_Stepanović), która po forsownym marszu dotarła w rejon góry Cer.
+Kilka dni wcześniej wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) przekroczyły Drinę i Sawę, rozpoczynając [inwazję na Serbię](/bitwy/kampania-serbska-1914). Naczelny wódz serbski, wojewoda [Radomir Putnik](/postacie/radomir-putnik), rozpoznał, że główne uderzenie idzie od zachodu, przez dolinę Jadaru. Skierował tam 2 Armię generała [Stepy Stepanovicia](/postacie/stepa-stepanovic), która po forsownym marszu dotarła w rejon góry Cer.
 
 Cer to pasmo zalesionych wzgórz, górujące nad doliną Jadaru i drogami, którymi posuwały się austro-węgierskie kolumny. Kto kontrolował jego grzbiety, panował nad okolicą. Serbowie zaatakowali, zanim przeciwnik zdążył się na nich umocnić.
 

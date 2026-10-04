@@ -17,7 +17,7 @@ tags: [Austro-Węgry, Rosja, Galicja, Przemyśl]
 milestone: true
 ---
 
-Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w bitwie galicyjskiej armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Zaraz potem oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.
+Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Zaraz potem oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.
 
 ## Daty oblężenia
 
@@ -45,7 +45,7 @@ Rosjanie skierowali pod Przemyśl kilka dywizji z 3 Armii Dimitriewa. Siłami be
 
 **8 października.** Rosjanie zaatakowali forty na północnym odcinku twierdzy. Natarcie zatrzymało się na zasiekach.
 
-**9–11 października.** Wobec zbliżania się austro-węgierskiej 3 Armii generała [Svetozara Boroevicia](https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna) Rosjanie przerwali oblężenie i wycofali się na wschodni brzeg Sanu. 9 października do Przemyśla weszła austro-węgierska kawaleria, a w kolejnych dniach główne siły odsieczy.
+**9–11 października.** Wobec zbliżania się austro-węgierskiej 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic) Rosjanie przerwali oblężenie i wycofali się na wschodni brzeg Sanu. 9 października do Przemyśla weszła austro-węgierska kawaleria, a w kolejnych dniach główne siły odsieczy.
 
 ## Straty
 

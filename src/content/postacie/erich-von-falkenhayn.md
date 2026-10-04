@@ -1,0 +1,79 @@
+---
+name: Erich von Falkenhayn
+summary: Szef niemieckiego Sztabu Generalnego w latach 1914–1916, twórca strategii wyczerpania i bitwy pod Verdun. Potem pokonał Rumunię i przegrał Palestynę.
+role: Szef Sztabu Generalnego armii niemieckiej (1914–1916), pruski minister wojny (1913–1915)
+country: Niemcy
+side: Państwa centralne
+born: 1861-09-11
+died: 1922-04-08
+birthPlace: Białochowo koło Grudziądza (Prusy Zachodnie)
+deathPlace: Pałac Lindstedt pod Poczdamem
+aliases: [Erich von Falkenhayn]
+wikiTitles: [Erich_von_Falkenhayn]
+authors: [Łukasz Skowroń]
+tags: [Erich von Falkenhayn, Niemcy, Rumunia]
+---
+
+Erich von Falkenhayn kierował armią niemiecką przez prawie dwa lata, od klęski nad Marną do sierpnia 1916 roku. Wcześniej niż większość niemieckich generałów zrozumiał, że Niemcy nie zdołają pokonać wszystkich przeciwników naraz i że wojnę może zakończyć tylko korzystny kompromis. Z tego przekonania wyrosła jego strategia wyczerpania: ograniczone ofensywy na wschodzie, obrona na zachodzie i jedno wielkie uderzenie, które miało złamać Francję. Uderzeniem tym była bitwa pod Verdun, która pochłonęła setki tysięcy ludzi po obu stronach i nie przyniosła rozstrzygnięcia. Po dymisji Falkenhayn w kilka miesięcy rozbił armię rumuńską, ale w Palestynie nie zdołał powstrzymać Brytyjczyków. Do dziś pozostaje jedną z najbardziej spornych postaci niemieckiego dowództwa.
+
+## Przed wojną
+
+Urodził się 11 września 1861 roku w majątku Burg Belchau, dziś [Białochowo](https://pl.wikipedia.org/wiki/Białochowo) koło Grudziądza, w rodzinie pruskiej szlachty. Jako jedenastolatek trafił do korpusu kadetów w Chełmnie, a w 1880 roku został podporucznikiem w oldenburskim pułku piechoty. Ukończył Akademię Wojenną i w 1891 roku trafił do Wielkiego Sztabu Generalnego. W 1896 roku, z powodów finansowych i z myślą o karierze, wziął urlop i wyjechał do Chin jako instruktor wojskowy. Służył potem w niemieckiej dzierżawie Kiautschou i w sztabie korpusu ekspedycyjnego, który tłumił [powstanie bokserów](https://pl.wikipedia.org/wiki/Powstanie_bokserów). Na Dalekim Wschodzie spędził z przerwami kilka lat. Z tego okresu wyniósł przekonanie, że dobrze rozumie ludzi Wschodu, które w 1917 roku miało go drogo kosztować.
+
+Potem jego kariera nabrała tempa. Był szefem sztabu korpusu w Metzu, dowódcą 4 Pułku Gwardii Pieszej i szefem sztabu korpusu w Magdeburgu. Przy organizacji manewrów cesarskich zwrócił na siebie uwagę [Wilhelma II](/postacie/wilhelm-ii). W lipcu 1913 roku, ku zaskoczeniu wielu starszych generałów, Falkenhayn został pruskim ministrem wojny. Na przełomie 1913 i 1914 roku dał się poznać w Reichstagu jako bezwzględny obrońca wojska w aferze w Saverne (Zabern), gdy oficerowie w Alzacji samowolnie aresztowali cywilów. W kryzysie lipcowym 1914 roku, jak wynika z badań jego biografa [Holgera Afflerbacha](https://pl.wikipedia.org/wiki/Holger_Afflerbach), nie spodziewał się początkowo wielkiej wojny, ale w ostatnich dniach lipca należał do tych, którzy naciskali na szybkie ogłoszenie mobilizacji.
+
+## Następca Moltkego
+
+14 września 1914 roku, gdy po klęsce nad Marną załamał się [Helmuth von Moltke](/postacie/helmuth-von-moltke), cesarz [powierzył Falkenhaynowi kierowanie Sztabem Generalnym Armii Polowej](/falkenhayn-zastepuje-moltkego). Zmianę ogłoszono dopiero 3 listopada. Falkenhayn miał 53 lata i był młodszy od wielu generałów, którymi miał teraz dowodzić. Jego władza opierała się nie na poparciu sztabu generalnego, w którym przez lata pobytu za granicą nie zbudował sobie wpływów, lecz na zaufaniu cesarza. Do stycznia 1915 roku łączył kierowanie armią z urzędem ministra wojny, co budziło niechęć wielu oficerów.
+
+Na zachodzie próbował jeszcze odzyskać inicjatywę. W [wyścigu do morza](/bitwy/wyscig-do-morza) obie strony usiłowały obejść skrzydło przeciwnika, aż front oparł się o wybrzeże. W październiku i listopadzie Falkenhayn uderzył we Flandrii, licząc na przełamanie słabego frontu sprzymierzonych i drogę do portów nad kanałem La Manche. W [pierwszej bitwie pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres) rzucił do natarcia świeżo sformowane korpusy rezerwowe, złożone w dużej części ze słabo wyszkolonych ochotników, które [pod Langemarck](/bitwy/bitwa-pod-langemarck) poniosły ciężkie straty. Natarcie się nie powiodło, a front na zachodzie zastygł w okopach.
+
+Klęska pod Ypres wstrząsnęła Falkenhaynem. 18 listopada 1914 roku miał powiedzieć kanclerzowi [Theobaldowi von Bethmannowi Hollwegowi](/postacie/theobald-von-bethmann-hollweg), że armia jest „złamanym narzędziem” i że Niemcy nie zdołają już pokonać Rosji, Francji i Wielkiej Brytanii naraz. Radził szukać odrębnego pokoju z Rosją, by potem prowadzić wojnę na zachodzie. Kanclerz nie podjął tej myśli, a Falkenhayn nie wracał już do niej tak otwarcie.
+
+## Spór o wschód
+
+Przez cały 1915 rok Falkenhayn toczył spór z dowództwem frontu wschodniego, [Paulem von Hindenburgiem](/postacie/paul-von-hindenburg) i [Erichem Ludendorffem](/postacie/erich-ludendorff). Zwycięzcy spod Tannenbergu chcieli przerzucić na wschód wielkie siły i w gigantycznych manewrach okrążających rozbić armię rosyjską. Falkenhayn uważał, że Rosji nie da się pokonać całkowicie, bo zawsze może cofnąć się w głąb swojego ogromnego kraju, a osłabienie zachodu byłoby zbyt ryzykowne. W styczniu 1915 roku Hindenburg zażądał jego odwołania i zagroził dymisją. Cesarz nie zgodził się, ale nie chciał też zrazić najpopularniejszego dowódcy w Niemczech. Falkenhayn musiał [oddać ministerstwo wojny](/wild-von-hohenborn-ministrem-wojny) i pogodzić się z tym, że ma w armii potężnych wrogów. Ludzie z otoczenia Ludendorffa nazywali go w prywatnych listach „zbrodniarzem”.
+
+Równie trudne były jego stosunki z szefem austro-węgierskiego sztabu [Franzem Conradem von Hötzendorfem](/postacie/franz-conrad-von-hotzendorf). Dla Conrada najważniejsza była Rosja, a potem Serbia i Włochy, dla Falkenhayna wszystkie te fronty były drugorzędne wobec Francji. Wiosną 1915 roku, gdy armia austro-węgierska po [zimowej bitwie w Karpatach](/bitwy/zimowa-bitwa-w-karpatach) była bliska załamania, Falkenhayn uznał jednak, że sojusznikowi trzeba pomóc. Przerzucił na wschód nową 11 Armię pod dowództwem [Augusta von Mackensena](/postacie/august-von-mackensen), która 2 maja przełamała front rosyjski [pod Gorlicami](/bitwy/bitwa-pod-gorlicami). Było to największe zwycięstwo jego kadencji. W następnych miesiącach państwa centralne odbiły Galicję i zajęły Królestwo Polskie.
+
+Latem 1915 roku spór wybuchł na nowo. Ludendorff proponował głębokie uderzenie z północy na tyły Rosjan, przez Kowno i Wilno, Falkenhayn wolał bardziej ograniczone natarcia, które spychały Rosjan frontalnie. Rosjanie wycofali się z Polski, ale nie dali się okrążyć. Jesienią Falkenhayn, po przystąpieniu Bułgarii do wojny, przygotował [podbój Serbii](/bitwy/podboj-serbii). Otworzył w ten sposób drogę lądową do Turcji, a potem nie zgodził się, by wojska państw centralnych ścigały sprzymierzonych w głąb Grecji. Gdy Conrad wbrew jego woli uderzył na Czarnogórę, obaj szefowie sztabów przez kilka tygodni przestali się ze sobą porozumiewać.
+
+## Verdun
+
+Na 1916 rok Falkenhayn przygotował uderzenie na zachodzie. Za głównego wroga uważał Wielką Brytanię, ale nie mógł jej dosięgnąć na lądzie. Postanowił więc wybić jej z ręki „najlepszy miecz”, czyli armię francuską. Wybrał Verdun, wysunięty występ frontu, który Francuzi musieli bronić za wszelką cenę ze względów prestiżowych. Domagał się też nieograniczonej wojny podwodnej przeciw Wielkiej Brytanii, ale kanclerz i cesarz zgodzili się w marcu 1916 roku tylko na [kampanię z ograniczeniami](/poczatek-rozszerzonej-wojny-podwodnej).
+
+[Bitwa pod Verdun](/bitwy/bitwa-pod-verdun) [zaczęła się 21 lutego 1916 roku](/poczatek-bitwy-pod-verdun). Falkenhayn ograniczył uderzenie do prawego brzegu Mozy, wbrew sztabowi 5 Armii, który chciał atakować na obu brzegach, i zatrzymał część odwodów, spodziewając się brytyjskiej ofensywy odciążającej. Niemcy zdobyli fort Douaumont, ale Francuzi pod dowództwem [Philippe’a Pétaina](https://pl.wikipedia.org/wiki/Philippe_Pétain) utrzymali się. Natarcie rozszerzono na lewy brzeg, ciągnęło się miesiącami i pochłaniało coraz więcej niemieckich dywizji. Po porażce pod fortem Souville w lipcu Falkenhayn nakazał przejść do obrony.
+
+Po wojnie Falkenhayn pisał, że od początku zamierzał „wykrwawić” armię francuską w bitwie na wyniszczenie. Przytoczył memoriał, który miał przedstawić cesarzowi na Boże Narodzenie 1915 roku. Nie odnaleziono jednak jego oryginału. Afflerbach uważa, że w tej postaci tekst powstał po wojnie, choć oddaje ówczesne myślenie Falkenhayna, a część badaczy, między innymi Gerd Krumeich, sądzi, że idea „wykrwawienia” Francji była usprawiedliwieniem wymyślonym po porażce. Brytyjski historyk Robert Foley twierdzi z kolei, że Falkenhayn od początku planował bitwę na wyniszczenie, ale chciał też sprowokować Francuzów i Brytyjczyków do pospiesznych ofensyw odciążających, które zamierzał rozbić kontruderzeniem. Pewne jest tylko, że plan się nie powiódł. Straty niemieckie okazały się niewiele mniejsze od francuskich.
+
+## Dymisja
+
+Latem 1916 roku położenie Niemiec gwałtownie się pogorszyło. 1 lipca Brytyjczycy i Francuzi uderzyli [nad Sommą](/bitwy/bitwa-nad-somma), a na wschodzie [ofensywa Brusiłowa](/bitwy/ofensywa-brusilowa) rozbiła front austro-węgierski. Falkenhayn musiał wysyłać na wschód dywizję za dywizją i zgodzić się na rozszerzenie dowództwa Hindenburga. Przeciwnicy przy dworze, wśród nich kanclerz i bawarski następca tronu [Rupprecht](/postacie/rupprecht-bawarski), przekonywali cesarza, że szef sztabu stracił zaufanie armii.
+
+Ostatnim ciosem było przystąpienie Rumunii do wojny. Falkenhayn sądził, że Rumuni nie wystąpią przed jesienią, tymczasem 27 sierpnia [Rumunia wypowiedziała wojnę Austro-Węgrom](/rumunia-wypowiada-wojne-austro-wegrom). Gdy cesarz wezwał na naradę Hindenburga z pominięciem szefa sztabu, Falkenhayn odebrał to jako wyraz nieufności i poprosił o dymisję. [29 sierpnia 1916 roku zastąpił go Hindenburg](/hindenburg-szefem-sztabu-generalnego), a Ludendorff został pierwszym kwatermistrzem generalnym. Według wspomnień Hindenburga Falkenhayn, przekazując mu obowiązki, podał mu rękę ze słowami: „Niech Bóg pomoże panu i naszej ojczyźnie”. Według biografów odrzucił proponowane mu stanowisko ambasadora w Konstantynopolu i poprosił o dowództwo na froncie.
+
+## Rumunia
+
+We wrześniu 1916 roku Falkenhayn objął dowództwo nowej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) w Siedmiogrodzie, gdzie wkroczyły wojska rumuńskie. W [bitwie pod Sybinem](/bitwy/bitwa-pod-sybinem) pod koniec września nie zdołał okrążyć rumuńskiego korpusu, jak zamierzał, ale wyparł Rumunów z kotliny Sybina, a na początku października pobił ich [pod Braszowem](/bitwy/bitwa-pod-braszowem). Sam przyznawał, że w krytycznych chwilach uratowała go niezdecydowana postawa rumuńskiego dowództwa. Pierwsze próby przejścia przez Karpaty Południowe utknęły w górach, ale w listopadzie jego wojska [przełamały front pod Târgu Jiu](/niemcy-przelamuja-front-pod-targu-jiu), [zajęły Krajowę](/niemcy-zdobywaja-krajowe) i zeszły na nizinę wołoską.
+
+Tam współdziałał z Armią Dunajską Mackensena, która sforsowała Dunaj z Bułgarii. Na początku grudnia obie armie rozbiły rumuńską kontrofensywę w [bitwie nad Argeșem](/bitwy/bitwa-nad-argesem), a 6 grudnia [weszły do Bukaresztu](/upadek-bukaresztu). W styczniu 1917 roku Niemcy [zdobyli Fokszany](/niemcy-zdobywaja-fokszany), a front ustalił się w Mołdawii. Kampania rumuńska uchodzi za najlepszy dowódczy występ Falkenhayna. Zajęte ziemie dostarczyły państwom centralnym zboża i ropy, a Rosjanie musieli rozciągnąć front daleko na południe.
+
+## Palestyna
+
+W lipcu 1917 roku Falkenhayn objął dowództwo osmańskiej grupy armii „Yıldırım” (Błyskawica), tworzonej w Syrii z udziałem niemieckiego Korpusu Azjatyckiego. Miała odbić Bagdad, utracony w marcu. Plan porzucono wobec trudności z zaopatrzeniem i zagrożenia w Palestynie, a siły grupy skierowano na front pod Gazą. Falkenhayn, mianowany marszałkiem armii osmańskiej, przez pierwsze tygodnie kierował działaniami z odległego [Aleppo](https://pl.wikipedia.org/wiki/Aleppo). Jego szorstki sposób bycia i nieufność wobec tureckich oficerów zraziły do niego wielu sojuszników, w tym ministra wojny [Envera Paszę](/postacie/enver-pasza) i dowódcę w Syrii Cemala Paszę.
+
+Na przełomie października i listopada Brytyjczycy pod dowództwem generała [Edmunda Allenby’ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) przełamali front w [trzeciej bitwie o Gazę](/bitwy/trzecia-bitwa-o-gaze), gdy wojska osmańskie były w trakcie przegrupowania. W grudniu Falkenhayn bez powodzenia próbował bronić, a potem odbić Jerozolimę, która [skapitulowała 9 grudnia](/kapitulacja-jerozolimy). Przypisuje mu się, że ostatecznie wycofał wojska z miasta, oszczędzając je i jego święte miejsca przed walkami ulicznymi. Na początku 1918 roku odwołano go, a dowództwo grupy armii objął [Otto Liman von Sanders](https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders).
+
+Z tego okresu pochodzi epizod, który jego biograf uważa za największą zasługę Falkenhayna. Cemal Pasza planował deportację Żydów z Palestyny, co wielu obserwatorom kazało obawiać się powtórki z losu Ormian. Falkenhayn sprzeciwił się temu i zakazał zbiorowych kar na podległym mu terenie, a niemiecka ambasada w Konstantynopolu wywarła nacisk na władze osmańskie. Według Afflerbacha tylko dzięki postawie Falkenhayna nie doszło wtedy do „nieludzkiego ekscesu” wobec palestyńskich Żydów.
+
+## Po wojnie
+
+W marcu 1918 roku Falkenhayn objął dowództwo 10 Armii, która okupowała ziemie białoruskie, i na tym stanowisku doczekał końca wojny. Na wiadomość o utworzeniu w październiku rządu parlamentarnego proponował cesarzowi ustanowienie dyktatury wojskowej, ale nikt już tego nie traktował poważnie. Zimą 1918/1919 roku sprowadził ją do Niemiec, a po jej rozwiązaniu odszedł ze służby. Tuż po wojnie wydał wspomnienia o kierowaniu armią w latach 1914–1916, w których bronił swoich decyzji, a potem książki o kampanii rumuńskiej. Zmarł 8 kwietnia 1922 roku w pałacu Lindstedt pod [Poczdamem](https://pl.wikipedia.org/wiki/Poczdam) i został pochowany na cmentarzu w Bornstedt.
+
+## Ocena
+
+Po wojnie wizerunek Falkenhayna kształtowali głównie jego wrogowie. Niemieckie Archiwum Rzeszy, związane z dawnymi współpracownikami Ludendorffa, przedstawiało go jako człowieka połowicznych decyzji, który zmarnował szansę zwycięstwa na wschodzie. Podobnie oceniał go brytyjski teoretyk wojny Basil Liddell Hart, który widział w nim zdolnego fachowca bez odwagi do śmiałych rozstrzygnięć. Do tego dochodził cień Verdun: przydomek „młynarza krwi” przylgnął do niego na długie lata.
+
+Inni oceniali go znacznie wyżej. [Winston Churchill](/postacie/winston-churchill) pisał w 1931 roku, że wielu znawców uważa go za najzdolniejszego żołnierza, jakiego Niemcy wydały w czasie tej wojny. Niemiecki historyk wojskowości [Hans Delbrück](https://pl.wikipedia.org/wiki/Hans_Delbrück) uznał, że Falkenhayn, inaczej niż Ludendorff, trafnie ocenił przewagę Ententy i dobrał do niej właściwą strategię wyczerpania, choć pod Verdun doprowadził ją do zgubnej skrajności. Afflerbach i Foley podkreślają, że Falkenhayn szukał wojskowej drogi do pokoju kompromisowego, a Hindenburg i Ludendorff, którzy obiecywali całkowite zwycięstwo, ostatecznie doprowadzili Niemcy do klęski.
+
+Herfried Münkler zwraca jednak uwagę na sprzeczność w jego postawie. Falkenhayn wcześnie i jasno zrozumiał beznadziejność położenia Niemiec, ale nie wyciągnął z tego wniosków politycznych. Zamiast pomóc kanclerzowi w poszukiwaniu pokoju, wciąż szukał rozwiązania wojskowego i, jak cały pruski sztab generalny, chciał, by to położenie na froncie dyktowało decyzje polityczne. Verdun pozostaje najmocniejszym argumentem jego krytyków: strategia, która miała oszczędzać niemieckie siły, zamieniła się w jedną z najkrwawszych bitew wojny.

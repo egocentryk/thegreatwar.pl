@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny podaje 5 września 1914 roku jako początek bitwy nad jeziorami mazurskimi. Niecały tydzień po [zwycięstwie pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem) niemiecka [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) zwróciła się przeciw drugiej rosyjskiej armii, która wkroczyła do [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie): [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) generała [Paula von Rennenkampfa](https://pl.wikipedia.org/wiki/Paul_von_Rennenkampf). Walki toczyły się na ziemiach, które dziś należą do Polski, wokół jezior i przesmyków [Mazur](https://pl.wikipedia.org/wiki/Mazury).
+Brytyjska kronika wojny podaje 5 września 1914 roku jako początek bitwy nad jeziorami mazurskimi. Niecały tydzień po [zwycięstwie pod Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem) niemiecka [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) zwróciła się przeciw drugiej rosyjskiej armii, która wkroczyła do [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie): [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf). Walki toczyły się na ziemiach, które dziś należą do Polski, wokół jezior i przesmyków [Mazur](https://pl.wikipedia.org/wiki/Mazury).
 
 ## Różne daty
 
@@ -20,7 +20,7 @@ Historycy różnie datują tę bitwę. W polskiej literaturze przyjmuje się zwy
 
 ## Zwrot na wschód
 
-Po rozbiciu armii Samsonowa Niemcy musieli zdecydować, co dalej. Austro-Węgrzy, przegrywający w Galicji, prosili o uderzenie na południe, w stronę Królestwa Polskiego. Hindenburg i jego szef sztabu [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) otrzymali jednak rozkaz, by najpierw oczyścić Prusy Wschodnie z wojsk Rennenkampfa. Dostali do tego posiłki z frontu zachodniego: dwa korpusy piechoty i dywizję kawalerii, wysłane jeszcze przed Tannenbergiem, które dotarły na miejsce na przełomie sierpnia i września.
+Po rozbiciu armii Samsonowa Niemcy musieli zdecydować, co dalej. Austro-Węgrzy, przegrywający w Galicji, prosili o uderzenie na południe, w stronę Królestwa Polskiego. Hindenburg i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) otrzymali jednak rozkaz, by najpierw oczyścić Prusy Wschodnie z wojsk Rennenkampfa. Dostali do tego posiłki z frontu zachodniego: dwa korpusy piechoty i dywizję kawalerii, wysłane jeszcze przed Tannenbergiem, które dotarły na miejsce na przełomie sierpnia i września.
 
 Rennenkampf po klęsce Samsonowa zatrzymał się i okopał na linii od doliny Dejmy na północy, przez Welawę i Nordenburg, aż po jezioro Mamry pod Węgoborkiem, dzisiejszym Węgorzewem. Jego lewe skrzydło opierało się o pas jezior, ale było najsłabszym punktem całej armii. Na południe od niego, w rejonie [Ełku](https://pl.wikipedia.org/wiki/Ełk), dopiero gromadziła się nowa rosyjska 10 Armia. Szczególnie niebezpieczna była dla Rosjan niemiecka twierdza Boyen w Lötzen, dzisiejszym [Giżycku](https://pl.wikipedia.org/wiki/Giżycko). Leżała na przesmyku między jeziorami i przez cały czas rosyjskiej obecności w Prusach Wschodnich pozostała w niemieckich rękach.
 

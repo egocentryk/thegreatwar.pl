@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-23 sierpnia 1914 roku na południu [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) rozpoczęły się walki, które przeszły do historii jako [bitwa pod Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem). Tego dnia korpusy rosyjskiej 2 Armii generała [Aleksandra Samsonowa](https://pl.wikipedia.org/wiki/Aleksandr_Samsonow), maszerujące na północ z Królestwa Polskiego, starły się w rejonie [Nidzicy](https://pl.wikipedia.org/wiki/Nidzica) z niemieckim XX Korpusem.
+23 sierpnia 1914 roku na południu [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) rozpoczęły się walki, które przeszły do historii jako [bitwa pod Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem). Tego dnia korpusy rosyjskiej 2 Armii generała [Aleksandra Samsonowa](/postacie/aleksandr-samsonow), maszerujące na północ z Królestwa Polskiego, starły się w rejonie [Nidzicy](https://pl.wikipedia.org/wiki/Nidzica) z niemieckim XX Korpusem.
 
 ## Pierwsze starcia
 

@@ -18,7 +18,7 @@ Wieczorem 8 sierpnia 1914 roku oddziały francuskiego VII Korpusu wkroczyły do 
 
 Miluza, ośrodek przemysłu włókienniczego, była miastem o silnych więzach z Francją. Część mieszkańców powitała żołnierzy jak wyzwolicieli, obsypując ich kwiatami. We Francji wiadomość wywołała euforię. Gazety pisały o pierwszym wielkim sukcesie wojny, a zajęcie Miluzy miało być zapowiedzią rychłego odzyskania całej Alzacji i Lotaryngii.
 
-Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) wydał odezwę do mieszkańców prowincji. Zwracał się w niej do „dzieci Alzacji”, pisząc, że po czterdziestu czterech latach bolesnego oczekiwania francuscy żołnierze znów stąpają po ich szlachetnej ziemi. Nazywał ich pierwszymi robotnikami wielkiego dzieła odwetu.
+Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) wydał odezwę do mieszkańców prowincji. Zwracał się w niej do „dzieci Alzacji”, pisząc, że po czterdziestu czterech latach bolesnego oczekiwania francuscy żołnierze znów stąpają po ich szlachetnej ziemi. Nazywał ich pierwszymi robotnikami wielkiego dzieła odwetu.
 
 ## Kontratak
 

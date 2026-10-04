@@ -17,7 +17,7 @@ tags: [Austro-Węgry, Rosja, Galicja]
 milestone: false
 ---
 
-Bitwa pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów) była jedną z najcięższych bitew jesiennej kampanii 1914 roku w Galicji. Po [odsieczy Przemyśla](/odsiecz-przemysla) austro-węgierskie 2 i 3 Armia próbowały przełamać pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow), które ciągnęły się od okolic Przemyśla przez wzgórza koło Chyrowa po [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) i podnóże Karpat. Przez trzy tygodnie na zalesionych wzgórzach między Sanem a Dniestrem i w dolinie Strwiąża trwały krwawe natarcia i kontrnatarcia. Żadna ze stron nie przełamała frontu, a na początku listopada Austriacy musieli się wycofać, bo o losie kampanii przesądziła porażka państw centralnych nad Wisłą.
+Bitwa pod [Chyrowem](https://pl.wikipedia.org/wiki/Chyrów) była jedną z najcięższych bitew jesiennej kampanii 1914 roku w Galicji. Po [odsieczy Przemyśla](/odsiecz-przemysla) austro-węgierskie 2 i 3 Armia próbowały przełamać pozycje rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow), które ciągnęły się od okolic Przemyśla przez wzgórza koło Chyrowa po [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) i podnóże Karpat. Przez trzy tygodnie na zalesionych wzgórzach między Sanem a Dniestrem i w dolinie Strwiąża trwały krwawe natarcia i kontrnatarcia. Żadna ze stron nie przełamała frontu, a na początku listopada Austriacy musieli się wycofać, bo o losie kampanii przesądziła porażka państw centralnych nad Wisłą.
 
 ## Nazwa i daty
 
@@ -29,7 +29,7 @@ Austriacka historia oficjalna mówi o bitwie pod Przemyślem i Chyrowem i dzieli
 
 Na początku października 1914 roku armie austro-węgierskie przeszły [do kontrofensywy w Galicji](/kontrofensywa-austro-wegier-w-galicji), równocześnie z niemieckim marszem [na Warszawę i Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem). Rosjanie nie przyjęli bitwy w środkowej Galicji. Przerwali oblężenie Przemyśla i na północ od twierdzy wycofali się za San. Na południe od niej 8 Armia Brusiłowa zajęła przygotowany wcześniej front od Przemyśla po Stary Sambor, zasłaniający drogę na Lwów.
 
-Dowództwo austro-węgierskie liczyło, że właśnie tu, na południowym skrzydle, uda się rozbić słabsze siły rosyjskie i wyjść na tyły armii broniących Sanu. Od południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Jej prawe skrzydło, IV Korpus generała Tersztyánszky'ego, odbiło [Przełęcz Użocką](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) i doszło do Turki. Od zachodu i spod Przemyśla atakować miało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna).
+Dowództwo austro-węgierskie liczyło, że właśnie tu, na południowym skrzydle, uda się rozbić słabsze siły rosyjskie i wyjść na tyły armii broniących Sanu. Od południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Jej prawe skrzydło, IV Korpus generała Tersztyánszky'ego, odbiło [Przełęcz Użocką](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) i doszło do Turki. Od zachodu i spod Przemyśla atakować miało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic).
 
 ## Siły
 

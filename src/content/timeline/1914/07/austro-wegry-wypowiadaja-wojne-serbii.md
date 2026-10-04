@@ -15,7 +15,7 @@ draft: false
 
 ## Wojna wypowiedziana telegramem
 
-Decyzję zatwierdził cesarz [Franciszek Józef I](https://pl.wikipedia.org/wiki/Franciszek_Józef_I), który wciąż przebywał w letniej rezydencji w [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl). Ponieważ stosunki dyplomatyczne z Serbią zostały zerwane trzy dni wcześniej, w Belgradzie nie było już austro-węgierskiego posła, który mógłby wręczyć notę. Minister spraw zagranicznych [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) wysłał więc o godzinie 11:10 z Wiednia telegram do premiera Serbii [Nikoli Pašicia](https://pl.wikipedia.org/wiki/Nikola_Pašić).
+Decyzję zatwierdził cesarz [Franciszek Józef I](/postacie/franciszek-jozef-i), który wciąż przebywał w letniej rezydencji w [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl). Ponieważ stosunki dyplomatyczne z Serbią zostały zerwane trzy dni wcześniej, w Belgradzie nie było już austro-węgierskiego posła, który mógłby wręczyć notę. Minister spraw zagranicznych [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) wysłał więc o godzinie 11:10 z Wiednia telegram do premiera Serbii [Nikoli Pašicia](https://pl.wikipedia.org/wiki/Nikola_Pašić).
 
 Wiadomość, napisana po francusku, poszła zwykłą siecią telegraficzną przez [Bukareszt](https://pl.wikipedia.org/wiki/Bukareszt) jako otwarty, niezaszyfrowany tekst. Do [Niszu](https://pl.wikipedia.org/wiki/Nisz), dokąd przeniósł się serbski rząd, dotarła około 12:30. Berchtold oświadczał w niej, że rząd serbski nie udzielił zadowalającej odpowiedzi na notę z 23 lipca, a monarchia uważa się w związku z tym za pozostającą w stanie wojny z Serbią. Po raz pierwszy w historii wojnę wypowiedziano telegramem. Nietypowa forma sprawiła, że Pašić początkowo podejrzewał mistyfikację i szukał potwierdzenia, że dokument jest autentyczny.
 
@@ -23,9 +23,9 @@ Telegram dotyczył wyłącznie Austro-Węgier i Serbii. Nie wspominał o Rosji, 
 
 ## Szansa, której nie wykorzystano
 
-Tego samego ranka cesarz [Wilhelm II](https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern), który dopiero co wrócił z Norwegii, po raz pierwszy przeczytał pełny tekst serbskiej odpowiedzi na ultimatum. Uznał ją za wielki moralny sukces Wiednia i stwierdził, że odpadł wszelki powód do wojny. Zaproponował, by Austro-Węgry zajęły jedynie Belgrad jako zastaw i na tym poprzestały, a resztę sporu rozstrzygnęły w rozmowach.
+Tego samego ranka cesarz [Wilhelm II](/postacie/wilhelm-ii), który dopiero co wrócił z Norwegii, po raz pierwszy przeczytał pełny tekst serbskiej odpowiedzi na ultimatum. Uznał ją za wielki moralny sukces Wiednia i stwierdził, że odpadł wszelki powód do wojny. Zaproponował, by Austro-Węgry zajęły jedynie Belgrad jako zastaw i na tym poprzestały, a resztę sporu rozstrzygnęły w rozmowach.
 
-Kanclerz [Theobald von Bethmann Hollweg](https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg) przekazał jednak tę propozycję do Wiednia dopiero późnym wieczorem i w złagodzonej formie. Gdy dotarła na miejsce, wojna była już wypowiedziana. Była to jedna z ostatnich chwil, w których decyzja jednego z mocarstw mogła jeszcze zatrzymać bieg wydarzeń.
+Kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) przekazał jednak tę propozycję do Wiednia dopiero późnym wieczorem i w złagodzonej formie. Gdy dotarła na miejsce, wojna była już wypowiedziana. Była to jedna z ostatnich chwil, w których decyzja jednego z mocarstw mogła jeszcze zatrzymać bieg wydarzeń.
 
 ## Pierwsze strzały
 

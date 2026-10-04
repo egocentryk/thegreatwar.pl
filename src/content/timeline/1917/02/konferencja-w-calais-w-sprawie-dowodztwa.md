@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 lutego 1917 roku w hotelu przy dworcu w [Calais](https://pl.wikipedia.org/wiki/Calais) zebrała się konferencja brytyjsko-francuska. Oficjalnie miała rozwiązać kryzys transportowy na kolejach północnej Francji, które nie nadążały z dowozem zaopatrzenia dla armii brytyjskiej przed wiosenną ofensywą. W rzeczywistości premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) przyjechał z zamiarem podporządkowania brytyjskiego wodza naczelnego, marszałka polnego [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig), francuskiemu naczelnemu wodzowi, generałowi [Robertowi Nivelle'owi](https://pl.wikipedia.org/wiki/Robert_Nivelle). Ani Haig, ani szef Imperialnego Sztabu Generalnego generał William Robertson nie wiedzieli o tym aż do wieczora.
+26 lutego 1917 roku w hotelu przy dworcu w [Calais](https://pl.wikipedia.org/wiki/Calais) zebrała się konferencja brytyjsko-francuska. Oficjalnie miała rozwiązać kryzys transportowy na kolejach północnej Francji, które nie nadążały z dowozem zaopatrzenia dla armii brytyjskiej przed wiosenną ofensywą. W rzeczywistości premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) przyjechał z zamiarem podporządkowania brytyjskiego wodza naczelnego, marszałka polnego [Douglasa Haiga](/postacie/douglas-haig), francuskiemu naczelnemu wodzowi, generałowi [Robertowi Nivelle'owi](https://pl.wikipedia.org/wiki/Robert_Nivelle). Ani Haig, ani szef Imperialnego Sztabu Generalnego generał William Robertson nie wiedzieli o tym aż do wieczora.
 
 ## Przygotowania za plecami generałów
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 grudnia 1917 roku ze stanowiska kwatermistrza generalnego Brytyjskiego Korpusu Ekspedycyjnego ustąpił generał porucznik Ronald Maxwell, który od [stycznia 1915 roku](/maxwell-kwatermistrzem-bef) odpowiadał za zaopatrzenie brytyjskiej armii we Francji. Następnego dnia jego obowiązki przejął generał Travers Clarke. Brytyjska historia oficjalna podaje, że Maxwell cierpiał po upadku z konia. Sześćdziesięciopięcioletni generał od dawna nie cieszył się jednak zaufaniem części dowódców, a historycy uważają, że stan zdrowia posłużył jako wygodny pretekst. Jego odejście było pierwszą z kilku zmian, które na przełomie 1917 i 1918 roku przemeblowały kwaterę główną marszałka [Douglasa Haiga](https://pl.wikipedia.org/wiki/Douglas_Haig) w [Montreuil](https://pl.wikipedia.org/wiki/Montreuil_(Pas-de-Calais)).
+22 grudnia 1917 roku ze stanowiska kwatermistrza generalnego Brytyjskiego Korpusu Ekspedycyjnego ustąpił generał porucznik Ronald Maxwell, który od [stycznia 1915 roku](/maxwell-kwatermistrzem-bef) odpowiadał za zaopatrzenie brytyjskiej armii we Francji. Następnego dnia jego obowiązki przejął generał Travers Clarke. Brytyjska historia oficjalna podaje, że Maxwell cierpiał po upadku z konia. Sześćdziesięciopięcioletni generał od dawna nie cieszył się jednak zaufaniem części dowódców, a historycy uważają, że stan zdrowia posłużył jako wygodny pretekst. Jego odejście było pierwszą z kilku zmian, które na przełomie 1917 i 1918 roku przemeblowały kwaterę główną marszałka [Douglasa Haiga](/postacie/douglas-haig) w [Montreuil](https://pl.wikipedia.org/wiki/Montreuil_(Pas-de-Calais)).
 
 ## Uderzenie w sztab zamiast w wodza
 

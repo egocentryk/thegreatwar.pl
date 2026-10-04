@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 grudnia 1916 roku dzienniki rozporządzeń obu okupacyjnych gubernatorstw, niemieckiego w Warszawie i austro-węgierskiego w Lublinie, ogłosiły rozporządzenie „o tymczasowej Radzie Stanu w Królestwie Polskiem”. Podpisali je „na rozkaz Najwyższy” obu cesarzy generał-gubernatorzy [Hans Hartwig von Beseler](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) i [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk). Dokument nosi datę 26 listopada 1916 roku i stąd w części opracowań pojawia się ta data. Moc prawną zyskał jednak, zgodnie z ostatnim paragrafem, dopiero w dniu ogłoszenia, czyli 6 grudnia. Był to pierwszy konkretny krok po [akcie 5 listopada](/akt-5-listopada), w którym cesarze Niemiec i Austro-Węgier zapowiedzieli utworzenie Królestwa Polskiego.
+6 grudnia 1916 roku dzienniki rozporządzeń obu okupacyjnych gubernatorstw, niemieckiego w Warszawie i austro-węgierskiego w Lublinie, ogłosiły rozporządzenie „o tymczasowej Radzie Stanu w Królestwie Polskiem”. Podpisali je „na rozkaz Najwyższy” obu cesarzy generał-gubernatorzy [Hans Hartwig von Beseler](/postacie/hans-von-beseler) i [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk). Dokument nosi datę 26 listopada 1916 roku i stąd w części opracowań pojawia się ta data. Moc prawną zyskał jednak, zgodnie z ostatnim paragrafem, dopiero w dniu ogłoszenia, czyli 6 grudnia. Był to pierwszy konkretny krok po [akcie 5 listopada](/akt-5-listopada), w którym cesarze Niemiec i Austro-Węgier zapowiedzieli utworzenie Królestwa Polskiego.
 
 ## Skład
 
@@ -24,7 +24,7 @@ Władza Rady była skromna. Miała wydawać opinie w sprawach prawodawczych, ale
 
 Rozporządzenie postawiło Polaków przed trudnym wyborem. Rada dawała szansę na zalążek polskiego rządu i polskiej administracji, ale udział w niej łatwo było uznać za współpracę z okupantem. [Pasywiści](https://pl.wikipedia.org/wiki/Pasywiści), skupieni w [Międzypartyjnym Kole Politycznym](https://pl.wikipedia.org/wiki/Międzypartyjne_Koło_Polityczne) i liczący na zwycięstwo Ententy, nie chcieli mieć z nią nic wspólnego. Do Rady weszli więc tylko przedstawiciele [aktywistów](https://pl.wikipedia.org/wiki/Aktywiści), co odbierało jej reprezentatywność. Zasadniczy spór dotyczył wojska. Okupanci od odezwy z 9 listopada czekali na polskich ochotników, a Polacy odpowiadali, że bez polskiej władzy nie będzie polskiego wojska.
 
-Kluczowe było stanowisko [Józefa Piłsudskiego](https://pl.wikipedia.org/wiki/Józef_Piłsudski), który nie był już w Legionach. 12 grudnia przyjechał do Warszawy, gdzie na [Dworcu Wiedeńskim](https://pl.wikipedia.org/wiki/Dworzec_Wiedeński_w_Warszawie) zgotowano mu uroczyste powitanie. Po rozmowach, między innymi z prezydentem Warszawy księciem Zdzisławem Lubomirskim, zgodził się wejść do Rady. Liczył, że w ten sposób zyska wpływ na budowę polskiej armii i nie odda jej w całości w ręce Niemców.
+Kluczowe było stanowisko [Józefa Piłsudskiego](/postacie/jozef-pilsudski), który nie był już w Legionach. 12 grudnia przyjechał do Warszawy, gdzie na [Dworcu Wiedeńskim](https://pl.wikipedia.org/wiki/Dworzec_Wiedeński_w_Warszawie) zgotowano mu uroczyste powitanie. Po rozmowach, między innymi z prezydentem Warszawy księciem Zdzisławem Lubomirskim, zgodził się wejść do Rady. Liczył, że w ten sposób zyska wpływ na budowę polskiej armii i nie odda jej w całości w ręce Niemców.
 
 ## Pierwsze posiedzenie
 

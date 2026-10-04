@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 9 października 1916 roku niemieckie i węgierskie oddziały zajęły cały [Braszów](https://pl.wikipedia.org/wiki/Braszów), po niemiecku Kronstadt, po węgiersku Brassó. Rumuńska 2 Armia, która od 7 października broniła miasta i równiny [Burzenlandu](https://pl.wikipedia.org/wiki/Burzenland) przed niemiecką [9 Armią](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Ericha von Falkenhayna](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), wycofała się w nocy ku przełęczom Karpat. Austriacka historia oficjalna pisze, że tego dnia wschodzące słońce „opromieniło nad Burzenlandem pole zwycięstwa sprzymierzonych”. W Rumunii, gdzie obowiązywał jeszcze [kalendarz juliański](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 26 września.
+Rankiem 9 października 1916 roku niemieckie i węgierskie oddziały zajęły cały [Braszów](https://pl.wikipedia.org/wiki/Braszów), po niemiecku Kronstadt, po węgiersku Brassó. Rumuńska 2 Armia, która od 7 października broniła miasta i równiny [Burzenlandu](https://pl.wikipedia.org/wiki/Burzenland) przed niemiecką [9 Armią](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn), wycofała się w nocy ku przełęczom Karpat. Austriacka historia oficjalna pisze, że tego dnia wschodzące słońce „opromieniło nad Burzenlandem pole zwycięstwa sprzymierzonych”. W Rumunii, gdzie obowiązywał jeszcze [kalendarz juliański](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 26 września.
 
 ## Dwa dni walk
 

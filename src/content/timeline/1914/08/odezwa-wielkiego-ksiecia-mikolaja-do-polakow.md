@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 sierpnia 1914 roku naczelny wódz armii rosyjskiej, wielki książę [Mikołaj Mikołajewicz](https://pl.wikipedia.org/wiki/Mikołaj_Romanow_(1856–1929)), wydał odezwę do Polaków. Była to pierwsza od czasów rozbiorów oficjalna zapowiedź jednego z państw zaborczych, że po wojnie ziemie polskie zostaną zjednoczone.
+14 sierpnia 1914 roku naczelny wódz armii rosyjskiej, wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), wydał odezwę do Polaków. Była to pierwsza od czasów rozbiorów oficjalna zapowiedź jednego z państw zaborczych, że po wojnie ziemie polskie zostaną zjednoczone.
 
 ## Treść odezwy
 
@@ -19,7 +19,7 @@ Odezwa zaczynała się od przypomnienia, że półtora wieku wcześniej żywe ci
 
 ## Walka o Polaków
 
-Odezwa była odpowiedzią na szczególną sytuację. Polacy mieszkali w trzech zaborach i służyli w trzech armiach, które teraz walczyły ze sobą. Każda ze stron próbowała pozyskać ich poparcie. W Galicji, pod rządami austriackimi, działały już polskie oddziały strzeleckie [Józefa Piłsudskiego](https://pl.wikipedia.org/wiki/Józef_Piłsudski), które 6 sierpnia wkroczyły do [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), a 16 sierpnia w Krakowie powstał [Naczelny Komitet Narodowy](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy), popierający walkę u boku Austro-Węgier.
+Odezwa była odpowiedzią na szczególną sytuację. Polacy mieszkali w trzech zaborach i służyli w trzech armiach, które teraz walczyły ze sobą. Każda ze stron próbowała pozyskać ich poparcie. W Galicji, pod rządami austriackimi, działały już polskie oddziały strzeleckie [Józefa Piłsudskiego](/postacie/jozef-pilsudski), które 6 sierpnia wkroczyły do [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), a 16 sierpnia w Krakowie powstał [Naczelny Komitet Narodowy](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy), popierający walkę u boku Austro-Węgier.
 
 Rosja, która przez ponad sto lat tłumiła polskie dążenia narodowe, musiała zaproponować coś w zamian. Odezwa miała przeciwdziałać austriackiej i niemieckiej propagandzie oraz zapewnić spokój na zapleczu frontu, który przebiegał przez ziemie polskie.
 

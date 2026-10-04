@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 lipca 1915 roku premier Kanady [Robert Borden](https://pl.wikipedia.org/wiki/Robert_Borden) wziął w Londynie udział w posiedzeniu brytyjskiego gabinetu. Zaprosił go premier [Herbert Henry Asquith](https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith). Depesze z Londynu podały tę wiadomość jeszcze tego samego dnia, a nazajutrz „[Daily Mail](https://pl.wikipedia.org/wiki/Daily_Mail)” napisał, że obecność Bordena „tworzy precedens największej wagi”. Według dziennika zastrzeżenia teoretyków ustąpiły przed twardymi lekcjami wojny, a imperium zbliżyło się o krok do federacji politycznej.
+14 lipca 1915 roku premier Kanady [Robert Borden](https://pl.wikipedia.org/wiki/Robert_Borden) wziął w Londynie udział w posiedzeniu brytyjskiego gabinetu. Zaprosił go premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith). Depesze z Londynu podały tę wiadomość jeszcze tego samego dnia, a nazajutrz „[Daily Mail](https://pl.wikipedia.org/wiki/Daily_Mail)” napisał, że obecność Bordena „tworzy precedens największej wagi”. Według dziennika zastrzeżenia teoretyków ustąpiły przed twardymi lekcjami wojny, a imperium zbliżyło się o krok do federacji politycznej.
 
 ## Pierwszy, ale z zastrzeżeniami
 
@@ -22,7 +22,7 @@ draft: false
 
 Borden przypłynął do Wielkiej Brytanii na początku lipca. Była to jego pierwsza podróż do Europy od wybuchu wojny. Chciał zobaczyć kanadyjskich żołnierzy, a przede wszystkim porozmawiać z rządem brytyjskim o prowadzeniu wojny. Kanada wysłała już do Europy 1 Dywizję, która w lutym [przeprawiła się do Francji](/kanadyjska-dywizja-przeprawia-sie-do-francji), a w kwietniu poniosła ciężkie straty [pod Ypres](/bitwy/druga-bitwa-pod-ypres). Na przyjęciu wydanym w tych dniach na jego cześć, któremu przewodniczył pierwszy lord Admiralicji [Arthur Balfour](https://pl.wikipedia.org/wiki/Arthur_Balfour), Borden mówił, że Kanada ma za oceanem 75 tysięcy żołnierzy, a drugie tyle w szkoleniu. Gdy dodał, że Kanadyjczycy nie są narodem wojskowym, Balfour odparł, że nie są nimi także Brytyjczycy, Australijczycy, Nowozelandczycy ani mieszkańcy Południowej Afryki, ale to narody niewojskowe, które potrafią walczyć.
 
-W kolejnych tygodniach Borden odwiedzał kanadyjskie obozy w Anglii i szpitale z rannymi. Według kanadyjskich źródeł obszedł ich ponad 50 i nazwał te odwiedziny najbardziej poruszającym przeżyciem swojego życia. Około 20 lipca był przez dwa dni gościem marszałka [Johna Frencha](https://pl.wikipedia.org/wiki/John_French) na froncie we Francji. 29 lipca [City of London](https://pl.wikipedia.org/wiki/City_of_London) nadało mu honorowe obywatelstwo. Wracając w sierpniu do domu, zapewniał w pożegnalnym przesłaniu, że rozmowy z ministrami przekonały go, iż zrobiono wszystko, by zapewnić armii zwycięstwo.
+W kolejnych tygodniach Borden odwiedzał kanadyjskie obozy w Anglii i szpitale z rannymi. Według kanadyjskich źródeł obszedł ich ponad 50 i nazwał te odwiedziny najbardziej poruszającym przeżyciem swojego życia. Około 20 lipca był przez dwa dni gościem marszałka [Johna Frencha](/postacie/john-french) na froncie we Francji. 29 lipca [City of London](https://pl.wikipedia.org/wiki/City_of_London) nadało mu honorowe obywatelstwo. Wracając w sierpniu do domu, zapewniał w pożegnalnym przesłaniu, że rozmowy z ministrami przekonały go, iż zrobiono wszystko, by zapewnić armii zwycięstwo.
 
 ## Uprzejmość bez wpływu
 

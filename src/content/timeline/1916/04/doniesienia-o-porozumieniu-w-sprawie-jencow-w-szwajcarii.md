@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 26 kwietnia 1916 roku, że w Berlinie podpisano porozumienie o przekazaniu do [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria) brytyjskich i niemieckich [jeńców wojennych](https://pl.wikipedia.org/wiki/Jeniec_wojenny), rannych i chorych. Według tej samej chronologii ratyfikowano je w Londynie 13 maja. Część historyków podaje jako datę zawarcia umowy 2 maja, a brytyjski oficer Henry Picot, który kierował potem opieką nad Brytyjczykami internowanymi w Szwajcarii, pisał po prostu, że układ objął Wielką Brytanię i Niemcy w maju 1916 roku. Rozbieżności wynikają zapewne z tego, że porozumienie zawierano w kilku krokach. 17 maja minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) odpowiedział na piśmie na interpelację w Izbie Gmin, że umowa z rządem niemieckim została osiągnięta.
+Brytyjska chronologia wojny notuje pod 26 kwietnia 1916 roku, że w Berlinie podpisano porozumienie o przekazaniu do [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria) brytyjskich i niemieckich [jeńców wojennych](https://pl.wikipedia.org/wiki/Jeniec_wojenny), rannych i chorych. Według tej samej chronologii ratyfikowano je w Londynie 13 maja. Część historyków podaje jako datę zawarcia umowy 2 maja, a brytyjski oficer Henry Picot, który kierował potem opieką nad Brytyjczykami internowanymi w Szwajcarii, pisał po prostu, że układ objął Wielką Brytanię i Niemcy w maju 1916 roku. Rozbieżności wynikają zapewne z tego, że porozumienie zawierano w kilku krokach. 17 maja minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) odpowiedział na piśmie na interpelację w Izbie Gmin, że umowa z rządem niemieckim została osiągnięta.
 
 ## Wzór francusko-niemiecki
 

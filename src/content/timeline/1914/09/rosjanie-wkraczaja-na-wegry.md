@@ -15,7 +15,7 @@ draft: false
 
 ## Przez przełęcze
 
-Po zwycięstwie w bitwie galicyjskiej armie rosyjskie zajęły większą część Galicji i doszły do podnóża Karpat. Przełęczy broniły tylko słabe siły: bataliony marszowe i oddziały pospolitego ruszenia, starsi rezerwiści, często uzbrojeni w przestarzałe karabiny. Na przełęcze ruszyły rosyjskie pułki piechoty wsparte przez kawalerię i Kozaków. Na Przełęczy Użockiej obrońcy zostali rozbici, a Rosjanie zeszli w dolinę Uża i doszli do miejscowości Fenyvesvölgy (dziś Stawne na Ukrainie). Kolejne oddziały przeszły przez [Przełęcz Werecką](https://pl.wikipedia.org/wiki/Przełęcz_Werecka) i przełęcze Marmaroszu. Obrońcy Marmaroszu cofnęli się doliną Cisy aż za [Syhot](https://pl.wikipedia.org/wiki/Syhot), stolicę tego komitatu.
+Po zwycięstwie w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie rosyjskie zajęły większą część Galicji i doszły do podnóża Karpat. Przełęczy broniły tylko słabe siły: bataliony marszowe i oddziały pospolitego ruszenia, starsi rezerwiści, często uzbrojeni w przestarzałe karabiny. Na przełęcze ruszyły rosyjskie pułki piechoty wsparte przez kawalerię i Kozaków. Na Przełęczy Użockiej obrońcy zostali rozbici, a Rosjanie zeszli w dolinę Uża i doszli do miejscowości Fenyvesvölgy (dziś Stawne na Ukrainie). Kolejne oddziały przeszły przez [Przełęcz Werecką](https://pl.wikipedia.org/wiki/Przełęcz_Werecka) i przełęcze Marmaroszu. Obrońcy Marmaroszu cofnęli się doliną Cisy aż za [Syhot](https://pl.wikipedia.org/wiki/Syhot), stolicę tego komitatu.
 
 ## Strach na Węgrzech
 

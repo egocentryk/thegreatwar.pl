@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 września 1918 roku o 5.08 rano brytyjskie i greckie oddziały ruszyły do szturmu na bułgarskie pozycje na zachód od jeziora [Dojran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)). Trzy dni wcześniej Serbowie i Francuzi [przełamali front pod Dobrym Polem](/poczatek-bitwy-pod-dobrym-polem), a naczelny dowódca sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki), generał [Louis Franchet d'Espérey](https://pl.wikipedia.org/wiki/Louis_Franchet_d’Espérey), chciał teraz, by Armia Salonik generała George'a Milne'a związała bułgarską 1 Armię i nie pozwoliła jej przesłać posiłków na zagrożony odcinek. Brytyjska chronologia wojny odnotowuje tego dnia początek „bitwy pod Monastyrem i Dojranem”, czyli brytyjskiego i francuskiego udziału w ofensywie, który miał potrwać do 24 września, a w jej ramach bitwę pod Dojranem.
+18 września 1918 roku o 5.08 rano brytyjskie i greckie oddziały ruszyły do szturmu na bułgarskie pozycje na zachód od jeziora [Dojran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)). Trzy dni wcześniej Serbowie i Francuzi [przełamali front pod Dobrym Polem](/poczatek-bitwy-pod-dobrym-polem), a naczelny dowódca sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki), generał [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey), chciał teraz, by Armia Salonik generała George'a Milne'a związała bułgarską 1 Armię i nie pozwoliła jej przesłać posiłków na zagrożony odcinek. Brytyjska chronologia wojny odnotowuje tego dnia początek „bitwy pod Monastyrem i Dojranem”, czyli brytyjskiego i francuskiego udziału w ofensywie, który miał potrwać do 24 września, a w jej ramach bitwę pod Dojranem.
 
 ## Przednia linia nad jeziorem
 

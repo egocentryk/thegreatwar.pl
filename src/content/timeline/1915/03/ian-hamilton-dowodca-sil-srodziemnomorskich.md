@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-12 marca 1915 roku około dziesiątej rano minister wojny [lord Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) wezwał do swojego gabinetu generała [Iana Hamiltona](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)). Jak Hamilton zapisał w dzienniku, Kitchener przez chwilę pisał coś przy biurku, po czym podniósł głowę i rzeczowym tonem oznajmił: „Wysyłamy siły wojskowe na wsparcie floty, która jest teraz pod Dardanelami, a pan obejmie nad nimi dowództwo”. Tak narodziły się Śródziemnomorskie Siły Ekspedycyjne (Mediterranean Expeditionary Force), które sześć tygodni później wylądowały na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)).
+12 marca 1915 roku około dziesiątej rano minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) wezwał do swojego gabinetu generała [Iana Hamiltona](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)). Jak Hamilton zapisał w dzienniku, Kitchener przez chwilę pisał coś przy biurku, po czym podniósł głowę i rzeczowym tonem oznajmił: „Wysyłamy siły wojskowe na wsparcie floty, która jest teraz pod Dardanelami, a pan obejmie nad nimi dowództwo”. Tak narodziły się Śródziemnomorskie Siły Ekspedycyjne (Mediterranean Expeditionary Force), które sześć tygodni później wylądowały na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)).
 
 ## Wybór dowódcy
 

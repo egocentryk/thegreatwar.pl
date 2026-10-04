@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 marca 1915 roku król Jerzy V wydał na posiedzeniu Tajnej Rady dwa akty, które zaostrzały brytyjską wojnę gospodarczą przeciwko Niemcom. Pierwszym było rozporządzenie (*Order in Council*), zwane odwetowym, które wprowadzało w życie zapowiedzi z [brytyjsko-francuskiej deklaracji z 1 marca](/brytyjsko-francuska-deklaracja-przeciw-handlowi-niemiec). Drugim była proklamacja rozszerzająca listy kontrabandy wojennej. Rozporządzenie nosiło datę 11 marca, ale opublikowano je dopiero 15 marca, gdy minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) przekazał jego tekst ambasadorowi Stanów Zjednoczonych.
+11 marca 1915 roku król Jerzy V wydał na posiedzeniu Tajnej Rady dwa akty, które zaostrzały brytyjską wojnę gospodarczą przeciwko Niemcom. Pierwszym było rozporządzenie (*Order in Council*), zwane odwetowym, które wprowadzało w życie zapowiedzi z [brytyjsko-francuskiej deklaracji z 1 marca](/brytyjsko-francuska-deklaracja-przeciw-handlowi-niemiec). Drugim była proklamacja rozszerzająca listy kontrabandy wojennej. Rozporządzenie nosiło datę 11 marca, ale opublikowano je dopiero 15 marca, gdy minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) przekazał jego tekst ambasadorowi Stanów Zjednoczonych.
 
 ## Żaden statek do Niemiec
 

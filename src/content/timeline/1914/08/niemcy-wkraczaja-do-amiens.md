@@ -15,7 +15,7 @@ draft: false
 
 ## Miasto bez obrony
 
-W ostatnich dniach sierpnia w rejonie Amiens stały francuskie dywizje terytorialne i pierwsze oddziały tworzonej przez Joffre'a 6 Armii. Wobec szybkiego pochodu niemieckiej 1 Armii generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck) zostały one wycofane na południe. Francuzi wysadzili mosty na [Sommie](https://pl.wikipedia.org/wiki/Somma_(rzeka)), ale samego miasta nie bronili. Do Amiens wszedł IV Korpus Rezerwowy generała Hansa von Gronaua, a jego żołnierze, według relacji świadków, maszerowali ulicami, śpiewając pieśni.
+W ostatnich dniach sierpnia w rejonie Amiens stały francuskie dywizje terytorialne i pierwsze oddziały tworzonej przez Joffre'a 6 Armii. Wobec szybkiego pochodu niemieckiej 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck) zostały one wycofane na południe. Francuzi wysadzili mosty na [Sommie](https://pl.wikipedia.org/wiki/Somma_(rzeka)), ale samego miasta nie bronili. Do Amiens wszedł IV Korpus Rezerwowy generała Hansa von Gronaua, a jego żołnierze, według relacji świadków, maszerowali ulicami, śpiewając pieśni.
 
 ## Zakładnicy i rekwizycje
 

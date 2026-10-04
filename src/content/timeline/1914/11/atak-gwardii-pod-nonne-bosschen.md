@@ -38,7 +38,7 @@ Większość 3 Pułku Piechoty Gwardii skręciła w stronę lasu Polygon, skąd 
 
 Między tymi punktami oporu kilkuset gwardzistów przeszło przez lasek Nonne Bosschen i wyszło na jego zachodni skraj. Zaledwie 200–300 metrów dalej stały baterie 41 Brygady Artylerii Polowej i 35 Baterii Ciężkiej. Za nimi nie było już brytyjskiej piechoty. Artylerzyści otworzyli ogień na wprost, a kanonierzy, kucharze, telefoniści i ludzie ze sztabu brygady razem z saperami z 5 Kompanii Polowej Royal Engineers chwycili za karabiny. Kilku kucharzy i dyżurnych saperów szturmem odbiło chałupę, z której Niemcy ostrzeliwali działa. Gwardziści cofnęli się do lasu. Nie wiedzieli, że zatrzymała ich ostatnia linia brytyjskiej obrony. Wzięty do niewoli ranny oficer niemiecki zapytał podobno dowódcę baterii, gdzie są brytyjskie odwody. Ten wskazał mu linię dział, a na pytanie, co jest za nimi, odpowiedział: sztab dywizji.
 
-Generał [Douglas Haig](https://pl.wikipedia.org/wiki/Douglas_Haig), dowódca I Korpusu, pojechał do Białego Zamku przy drodze z Menin i rzucił do walki ostatnie odwody. Poza gwardią Niemcy nigdzie nie osiągnęli sukcesu. Jedynie nad kanałem z Comines francuskie oddziały zostały zepchnięte pod wzgórze 60, zaledwie kilka kilometrów od Ypres, ale wieczorem kontratak francuskich huzarów przywrócił tam linię.
+Generał [Douglas Haig](/postacie/douglas-haig), dowódca I Korpusu, pojechał do Białego Zamku przy drodze z Menin i rzucił do walki ostatnie odwody. Poza gwardią Niemcy nigdzie nie osiągnęli sukcesu. Jedynie nad kanałem z Comines francuskie oddziały zostały zepchnięte pod wzgórze 60, zaledwie kilka kilometrów od Ypres, ale wieczorem kontratak francuskich huzarów przywrócił tam linię.
 
 ## Kontratak Oxfordshire
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 września 1916 roku południowoafrykańskie wojska generała Coenraada Britsa natrafiły pod Kisaki, na południe od gór [Uluguru](https://pl.wikipedia.org/wiki/Uluguru), na silne niemieckie pozycje i zostały odparte. Następnego dnia, kilka kilometrów dalej, z tymi samymi oddziałami niemieckimi przez cały dzień walczyła konna brygada generała Nusseya, która nie wiedziała nawet, gdzie są wojska Britsa. Brytyjska chronologia wojny notuje pod 7 września, że w tej „sprawie pod Kisaki” został zatrzymany pościg za cofającymi się wojskami [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck). Według brytyjskiej historii oficjalnej (Hordern) walczono 7 i 8 września, a część opracowań rozciąga walki o Kisaki do 11 września, łącząc je z równoczesnymi starciami nad rzeką Dutumi.
+7 września 1916 roku południowoafrykańskie wojska generała Coenraada Britsa natrafiły pod Kisaki, na południe od gór [Uluguru](https://pl.wikipedia.org/wiki/Uluguru), na silne niemieckie pozycje i zostały odparte. Następnego dnia, kilka kilometrów dalej, z tymi samymi oddziałami niemieckimi przez cały dzień walczyła konna brygada generała Nusseya, która nie wiedziała nawet, gdzie są wojska Britsa. Brytyjska chronologia wojny notuje pod 7 września, że w tej „sprawie pod Kisaki” został zatrzymany pościg za cofającymi się wojskami [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). Według brytyjskiej historii oficjalnej (Hordern) walczono 7 i 8 września, a część opracowań rozciąga walki o Kisaki do 11 września, łącząc je z równoczesnymi starciami nad rzeką Dutumi.
 
 ## Pościg przez góry
 

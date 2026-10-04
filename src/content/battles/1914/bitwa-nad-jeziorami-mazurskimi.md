@@ -17,7 +17,7 @@ tags: [Prusy Wschodnie, Rosja, Niemcy, Paul von Hindenburg]
 milestone: false
 ---
 
-[Bitwa nad jeziorami mazurskimi](https://pl.wikipedia.org/wiki/Bitwa_nad_jeziorami_mazurskimi_(1914)) rozegrała się we wrześniu 1914 roku w Prusach Wschodnich, na terenach dzisiejszej Warmii i Mazur oraz obwodu kaliningradzkiego. Niemiecka [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](https://pl.wikipedia.org/wiki/Paul_von_Hindenburg) pobiła w niej rosyjską [1 Armię](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) generała [Paula von Rennenkampfa](https://pl.wikipedia.org/wiki/Paul_von_Rennenkampf) i wyparła ją z Prus Wschodnich. Była drugim, po [Tannenbergu](/bitwy/bitwa-pod-tannenbergiem), wielkim zwycięstwem Niemców na froncie wschodnim w 1914 roku.
+[Bitwa nad jeziorami mazurskimi](https://pl.wikipedia.org/wiki/Bitwa_nad_jeziorami_mazurskimi_(1914)) rozegrała się we wrześniu 1914 roku w Prusach Wschodnich, na terenach dzisiejszej Warmii i Mazur oraz obwodu kaliningradzkiego. Niemiecka [8 Armia](https://pl.wikipedia.org/wiki/8_Armia_(Cesarstwo_Niemieckie)) generała [Paula von Hindenburga](/postacie/paul-von-hindenburg) pobiła w niej rosyjską [1 Armię](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) generała [Paula von Rennenkampfa](/postacie/paul-von-rennenkampf) i wyparła ją z Prus Wschodnich. Była drugim, po [Tannenbergu](/bitwy/bitwa-pod-tannenbergiem), wielkim zwycięstwem Niemców na froncie wschodnim w 1914 roku.
 
 ## Daty bitwy
 
@@ -31,7 +31,7 @@ Pod koniec sierpnia 1914 roku Niemcy okrążyli i zniszczyli rosyjską 2 Armię 
 
 ## Plan
 
-Hindenburg i jego szef sztabu [Erich Ludendorff](https://pl.wikipedia.org/wiki/Erich_Ludendorff) postanowili związać Rosjan od frontu na północy, a na południowym skrzydle przejść przez przesmyki między jeziorami i oskrzydlić armię Rennenkampfa od strony Mazur. Kluczową rolę odgrywała twierdza Boyen w Lötzen, dzisiejszym [Giżycku](https://pl.wikipedia.org/wiki/Giżycko), która panowała nad jednym z najważniejszych przesmyków i przez cały czas pozostawała w niemieckich rękach. Uderzeniem przez jeziora dowodził I Korpus generała [Hermanna von François](https://pl.wikipedia.org/wiki/Hermann_von_François), wsparty XVII Korpusem i kawalerią. Na dalekim prawym skrzydle 3 Rezerwowa Dywizja generała Curta von Morgena osłaniała natarcie od strony rosyjskiej 10 Armii.
+Hindenburg i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) postanowili związać Rosjan od frontu na północy, a na południowym skrzydle przejść przez przesmyki między jeziorami i oskrzydlić armię Rennenkampfa od strony Mazur. Kluczową rolę odgrywała twierdza Boyen w Lötzen, dzisiejszym [Giżycku](https://pl.wikipedia.org/wiki/Giżycko), która panowała nad jednym z najważniejszych przesmyków i przez cały czas pozostawała w niemieckich rękach. Uderzeniem przez jeziora dowodził I Korpus generała [Hermanna von François](https://pl.wikipedia.org/wiki/Hermann_von_François), wsparty XVII Korpusem i kawalerią. Na dalekim prawym skrzydle 3 Rezerwowa Dywizja generała Curta von Morgena osłaniała natarcie od strony rosyjskiej 10 Armii.
 
 Rosjanie, choć liczniejsi, byli rozciągnięci na długim froncie i nie skoncentrowani. Dowódca Frontu Północno-Zachodniego, generał [Jakow Żyliński](https://pl.wikipedia.org/wiki/Jakow_Żyliński), planował własną ofensywę dopiero na połowę września, gdy 10 Armia i odtwarzana 2 Armia będą gotowe. Niemcy mieli za to wyraźną przewagę w artylerii, zwłaszcza ciężkiej.
 

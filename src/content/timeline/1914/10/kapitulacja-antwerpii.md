@@ -24,7 +24,7 @@ W ciągu dnia poddawały się kolejne forty, między innymi Liezele, Bornem i Ha
 
 Deguise opuścił miasto już wcześniej i przeniósł swoją kwaterę do niewielkiego fortu Sainte-Marie nad Skaldą, na lewym brzegu rzeki. Liczył, że zdoła tam jeszcze stawić opór. Gdy 10 października Niemcy dotarli do fortu, zastali w nim gubernatora z garstką ludzi. Według belgijskich źródeł towarzyszyło mu zaledwie czterech żołnierzy, w tym dwóch oficerów. Deguise trafił do niewoli i spędził resztę wojny w niemieckich obozach dla oficerów, najpierw w Heidelbergu, a następnie w Gütersloh.
 
-Tego samego dnia zdobywcy świętowali zwycięstwo. Generał [Hans von Beseler](https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler) i nowy gubernator Antwerpii, admirał Ludwig von Schröder, przyjęli defiladę wojsk oblężniczych. Na ulicach prawie nie było widzów. Większość mieszkańców uciekła z miasta w poprzednich dniach.
+Tego samego dnia zdobywcy świętowali zwycięstwo. Generał [Hans von Beseler](/postacie/hans-von-beseler) i nowy gubernator Antwerpii, admirał Ludwig von Schröder, przyjęli defiladę wojsk oblężniczych. Na ulicach prawie nie było widzów. Większość mieszkańców uciekła z miasta w poprzednich dniach.
 
 ## Jeńcy i internowani
 
@@ -40,4 +40,4 @@ Upadek Antwerpii wywołał ogromną falę uchodźców. Już w dniach bombardowan
 
 Dla Belgii utrata Antwerpii oznaczała koniec strategii, na której opierała się obrona kraju. W ręce Niemców przeszły największy port i ostatnia twierdza królestwa, a pod okupacją znalazła się niemal cała Belgia. Niemcy zlikwidowali zagrożenie na tyłach swoich armii, a korpus Beselera mógł ruszyć na zachód, w stronę wybrzeża.
 
-Nie osiągnęli jednak głównego celu. Armia polowa króla [Alberta I](https://pl.wikipedia.org/wiki/Albert_I_Koburg), której zniszczenie miało być ukoronowaniem oblężenia, wymknęła się z twierdzy i wycofywała wzdłuż wybrzeża, osłaniana przez francuskich fizylierów marynarki i [brytyjską 7 Dywizję](/brytyjska-7-dywizja-laduje-w-belgii). Kilka dni później stanęła nad rzeką [Yser](https://pl.wikipedia.org/wiki/IJzer), gdzie razem z Francuzami zatrzymała niemiecki marsz ku portom nad kanałem La Manche. Antwerpia pozostała pod niemiecką okupacją do listopada 1918 roku.
+Nie osiągnęli jednak głównego celu. Armia polowa króla [Alberta I](/postacie/albert-i), której zniszczenie miało być ukoronowaniem oblężenia, wymknęła się z twierdzy i wycofywała wzdłuż wybrzeża, osłaniana przez francuskich fizylierów marynarki i [brytyjską 7 Dywizję](/brytyjska-7-dywizja-laduje-w-belgii). Kilka dni później stanęła nad rzeką [Yser](https://pl.wikipedia.org/wiki/IJzer), gdzie razem z Francuzami zatrzymała niemiecki marsz ku portom nad kanałem La Manche. Antwerpia pozostała pod niemiecką okupacją do listopada 1918 roku.

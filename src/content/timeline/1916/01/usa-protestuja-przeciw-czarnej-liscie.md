@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-26 stycznia 1916 roku ambasador Stanów Zjednoczonych w Londynie Walter Hines Page wręczył brytyjskiemu ministrowi spraw zagranicznych [Edwardowi Greyowi](https://pl.wikipedia.org/wiki/Edward_Grey) notę w sprawie ustawy, która miesiąc wcześniej pozwoliła Brytyjczykom [tworzyć czarną listę](/brytyjska-czarna-lista) firm w krajach neutralnych powiązanych z wrogiem. Nie był to jeszcze formalny protest. Waszyngton zastrzegał sobie jedynie prawo do protestu, gdyby ustawa uderzyła w amerykański handel, i dawał wyraz swoim obawom. Brytyjska chronologia wojny nazywa ten krok nieformalnym protestem.
+26 stycznia 1916 roku ambasador Stanów Zjednoczonych w Londynie Walter Hines Page wręczył brytyjskiemu ministrowi spraw zagranicznych [Edwardowi Greyowi](/postacie/edward-grey) notę w sprawie ustawy, która miesiąc wcześniej pozwoliła Brytyjczykom [tworzyć czarną listę](/brytyjska-czarna-lista) firm w krajach neutralnych powiązanych z wrogiem. Nie był to jeszcze formalny protest. Waszyngton zastrzegał sobie jedynie prawo do protestu, gdyby ustawa uderzyła w amerykański handel, i dawał wyraz swoim obawom. Brytyjska chronologia wojny nazywa ten krok nieformalnym protestem.
 
 ## Ustawa, o której Amerykanie nie wiedzieli
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 listopada 1918 roku w Abercorn, dzisiejszej [Mbali](https://pl.wikipedia.org/wiki/Mbala), na północnym skraju [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna), niemiecka [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) generała [Paula von Lettow-Vorbecka](https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck) złożyła broń przed brytyjskim generałem brygady W. F. S. Edwardsem. Tak zakończyła się ostatnia kampania I wojny światowej. Lettow-Vorbeck walczył w Afryce Wschodniej od sierpnia 1914 roku, od [zwycięstwa pod Tangą](/bitwy/bitwa-pod-tanga) aż po rajd w głąb Rodezji Północnej w ostatnich dniach wojny, i nigdy nie dał się rozbić. Kapitulował dlatego, że przegrały Niemcy, nie jego oddział.
+25 listopada 1918 roku w Abercorn, dzisiejszej [Mbali](https://pl.wikipedia.org/wiki/Mbala), na północnym skraju [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna), niemiecka [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) generała [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) złożyła broń przed brytyjskim generałem brygady W. F. S. Edwardsem. Tak zakończyła się ostatnia kampania I wojny światowej. Lettow-Vorbeck walczył w Afryce Wschodniej od sierpnia 1914 roku, od [zwycięstwa pod Tangą](/bitwy/bitwa-pod-tanga) aż po rajd w głąb Rodezji Północnej w ostatnich dniach wojny, i nigdy nie dał się rozbić. Kapitulował dlatego, że przegrały Niemcy, nie jego oddział.
 
 ## Marsz do Abercorn
 

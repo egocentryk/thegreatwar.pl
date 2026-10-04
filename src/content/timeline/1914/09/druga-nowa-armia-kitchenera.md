@@ -14,7 +14,7 @@ draft: false
 
 ## Fala ochotników
 
-Minister wojny [lord Herbert Kitchener](https://pl.wikipedia.org/wiki/Horatio_Kitchener) od początku przewidywał, że wojna potrwa latami, a Wielka Brytania będzie potrzebowała armii liczonej w milionach. Jego apele o ochotników spotkały się z ogromnym odzewem. Pod koniec sierpnia i na początku września, gdy do kraju docierały wiadomości o odwrocie spod Mons, do biur werbunkowych zgłaszały się dziesiątki tysięcy mężczyzn dziennie. Według często przytaczanych danych 3 września 1914 roku zaciągnęło się ponad 30 tysięcy ludzi, więcej niż któregokolwiek innego dnia wojny.
+Minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) od początku przewidywał, że wojna potrwa latami, a Wielka Brytania będzie potrzebowała armii liczonej w milionach. Jego apele o ochotników spotkały się z ogromnym odzewem. Pod koniec sierpnia i na początku września, gdy do kraju docierały wiadomości o odwrocie spod Mons, do biur werbunkowych zgłaszały się dziesiątki tysięcy mężczyzn dziennie. Według często przytaczanych danych 3 września 1914 roku zaciągnęło się ponad 30 tysięcy ludzi, więcej niż któregokolwiek innego dnia wojny.
 
 Ochotników było tak wielu, że pierwsza Nowa Armia szybko się zapełniła. Rozkaz z 11 września pozwolił zorganizować kolejnych. Druga Nowa Armia, zwana „K2”, objęła dywizje od 15 do 20: szkocką, irlandzką, północną, wschodnią, zachodnią i lekką. Ich bataliony, podobnie jak w pierwszej Nowej Armii, tworzono jako bataliony „służbowe” przy istniejących pułkach [armii brytyjskiej](https://pl.wikipedia.org/wiki/British_Army).
 

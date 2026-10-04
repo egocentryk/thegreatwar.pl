@@ -12,13 +12,13 @@ milestone: true
 draft: false
 ---
 
-22 września 1914 roku w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), na północ od rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), rozpoczęła się pierwsza bitwa w Pikardii. Nowo utworzona francuska 2 Armia generała [Noëla de Castelnau](https://pl.wikipedia.org/wiki/Noël_de_Castelnau) ruszyła do natarcia, by obejść od zachodu skrzydło armii niemieckich. Bitwa, trwająca do 26 września, była pierwszym dużym starciem tak zwanego wyścigu do morza, czyli serii prób oskrzydlenia przeciwnika, które jesienią 1914 roku przesunęły front zachodni aż do wybrzeża Morza Północnego.
+22 września 1914 roku w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), na północ od rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), rozpoczęła się pierwsza bitwa w Pikardii. Nowo utworzona francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) ruszyła do natarcia, by obejść od zachodu skrzydło armii niemieckich. Bitwa, trwająca do 26 września, była pierwszym dużym starciem tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), czyli serii prób oskrzydlenia przeciwnika, które jesienią 1914 roku przesunęły front zachodni aż do wybrzeża Morza Północnego.
 
 ## Impas nad Aisne
 
 W połowie września armie niemieckie, wycofane znad Marny, zatrzymały się na wzgórzach nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Francuzi i Brytyjczycy przez kilka dni bezskutecznie próbowali zepchnąć je z tych pozycji. Gdy [bitwa nad Aisne dobiegła końca](/koniec-bitwy-nad-aisne), obie strony zaczęły się okopywać. Front ciągnął się już od granicy szwajcarskiej do okolic [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), ale dalej na zachód i północ nie było żadnej linii. Między Oise a kanałem La Manche rozciągał się obszar, na którym stały tylko nieliczne oddziały kawalerii i wojsk terytorialnych.
 
-Dowódcy obu stron doszli do tego samego wniosku. Skoro nie da się przełamać frontu, trzeba go obejść. Naczelny wódz armii francuskiej, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), już od 17 września kazał francuskiej 6 Armii nacierać na północ od Oise, w okolicach Noyon, ale Niemcy szybko zatrzymali to natarcie. Joffre postanowił więc zgromadzić dalej na zachodzie nową armię, która uderzy na otwarte niemieckie skrzydło.
+Dowódcy obu stron doszli do tego samego wniosku. Skoro nie da się przełamać frontu, trzeba go obejść. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), już od 17 września kazał francuskiej 6 Armii nacierać na północ od Oise, w okolicach Noyon, ale Niemcy szybko zatrzymali to natarcie. Joffre postanowił więc zgromadzić dalej na zachodzie nową armię, która uderzy na otwarte niemieckie skrzydło.
 
 ## Nowa armia Castelnau
 
@@ -28,7 +28,7 @@ Francuzi mieli w tym wyścigu ważny atut. Przewozili wojska po własnych, nieus
 
 ## Niemiecka odpowiedź
 
-Nowy szef niemieckiego sztabu generalnego, generał [Erich von Falkenhayn](https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn), myślał podobnie jak Joffre. Na prawe skrzydło, obok 1 Armii generała [Alexandra von Klucka](https://pl.wikipedia.org/wiki/Alexander_von_Kluck), kierował korpusy zdejmowane z frontu nad Aisne. Około 21 września zdecydował, że w rejonie Amiens zostanie skupiona 6 Armia następcy tronu Bawarii, księcia [Ruprechta](https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach). Armia ta dotąd walczyła w Lotaryngii, naprzeciw Castelnau. Teraz dwaj przeciwnicy spotykali się ponownie, kilkaset kilometrów dalej na północy.
+Nowy szef niemieckiego sztabu generalnego, generał [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), myślał podobnie jak Joffre. Na prawe skrzydło, obok 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck), kierował korpusy zdejmowane z frontu nad Aisne. Około 21 września zdecydował, że w rejonie Amiens zostanie skupiona 6 Armia następcy tronu Bawarii, księcia [Ruprechta](/postacie/rupprecht-bawarski). Armia ta dotąd walczyła w Lotaryngii, naprzeciw Castelnau. Teraz dwaj przeciwnicy spotykali się ponownie, kilkaset kilometrów dalej na północy.
 
 Niemiecka kolej nie nadążała jednak z przewozami. 22 września naprzeciw Francuzów stały tylko II Korpus, który dopiero co nadszedł znad Aisne, oraz IX Korpus Rezerwowy, chroniące skrajne prawe skrzydło armii Klucka.
 

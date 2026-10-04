@@ -24,7 +24,7 @@ Alzacja należała do Niemiec od 1871 roku, gdy Francja utraciła ją po klęsce
 
 ## Pierwsze wkroczenie
 
-7 sierpnia francuski VII Korpus generała Louisa Bonneau wyruszył z okolic Belfortu i zajął [Altkirch](https://pl.wikipedia.org/wiki/Altkirch). 8 sierpnia Francuzi wkroczyli do Miluzy, gdzie część mieszkańców powitała ich z radością. Naczelny wódz [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre) ogłosił w odezwie, że francuscy żołnierze przybywają jako pierwsi robotnicy wielkiego dzieła odwetu.
+7 sierpnia francuski VII Korpus generała Louisa Bonneau wyruszył z okolic Belfortu i zajął [Altkirch](https://pl.wikipedia.org/wiki/Altkirch). 8 sierpnia Francuzi wkroczyli do Miluzy, gdzie część mieszkańców powitała ich z radością. Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) ogłosił w odezwie, że francuscy żołnierze przybywają jako pierwsi robotnicy wielkiego dzieła odwetu.
 
 Radość trwała krótko. Niemiecka 7 Armia generała [Josiasa von Heeringena](https://pl.wikipedia.org/wiki/Josias_von_Heeringen) przeprowadziła kontratak, a Francuzom groziło okrążenie. 10 sierpnia musieli opuścić miasto i wycofać się w stronę Belfortu. Joffre obwinił o porażkę Bonneau i odsunął go od dowództwa. Był to jeden z pierwszych z wielu generałów, których usunął w pierwszych tygodniach wojny.
 

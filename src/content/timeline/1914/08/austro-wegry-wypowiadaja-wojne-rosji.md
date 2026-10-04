@@ -23,7 +23,7 @@ Wypowiedzenie wojny oznaczało, że głównym frontem Austro-Węgier stała się
 
 ## Polski wymiar wojny
 
-Dla Polaków wojna austriacko-rosyjska miała szczególne znaczenie. Po raz pierwszy od rozbiorów dwa państwa zaborcze stanęły do walki przeciw sobie. Tego samego dnia, 6 sierpnia 1914 roku, [Pierwsza Kompania Kadrowa](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) utworzona przez [Józefa Piłsudskiego](https://pl.wikipedia.org/wiki/Józef_Piłsudski) wyruszyła z Krakowa i przekroczyła granicę Królestwa Polskiego. Kilka tygodni później na bazie oddziałów strzeleckich powstały [Legiony Polskie](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), walczące u boku armii austro-węgierskiej.
+Dla Polaków wojna austriacko-rosyjska miała szczególne znaczenie. Po raz pierwszy od rozbiorów dwa państwa zaborcze stanęły do walki przeciw sobie. Tego samego dnia, 6 sierpnia 1914 roku, [Pierwsza Kompania Kadrowa](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) utworzona przez [Józefa Piłsudskiego](/postacie/jozef-pilsudski) wyruszyła z Krakowa i przekroczyła granicę Królestwa Polskiego. Kilka tygodni później na bazie oddziałów strzeleckich powstały [Legiony Polskie](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)), walczące u boku armii austro-węgierskiej.
 
 ## Znaczenie
 

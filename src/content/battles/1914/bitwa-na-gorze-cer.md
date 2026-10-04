@@ -21,9 +21,9 @@ milestone: true
 
 ## Inwazja
 
-12 sierpnia wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) rozpoczęły inwazję na Serbię. Główne uderzenie wyprowadziła od zachodu, przez [Drinę](https://pl.wikipedia.org/wiki/Drina), 5 Armia generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank), a od północy, przez Sawę pod [Šabacem](https://pl.wikipedia.org/wiki/Šabac), nacierały oddziały 2 Armii. Całością dowodził generał [Oskar Potiorek](https://pl.wikipedia.org/wiki/Oskar_Potiorek), który chciał jak najszybciej zadać Serbii decydujący cios.
+12 sierpnia wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) rozpoczęły [inwazję na Serbię](/bitwy/kampania-serbska-1914). Główne uderzenie wyprowadziła od zachodu, przez [Drinę](https://pl.wikipedia.org/wiki/Drina), 5 Armia generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank), a od północy, przez Sawę pod [Šabacem](https://pl.wikipedia.org/wiki/Šabac), nacierały oddziały 2 Armii. Całością dowodził generał [Oskar Potiorek](/postacie/oskar-potiorek), który chciał jak najszybciej zadać Serbii decydujący cios.
 
-Austro-węgierskie kolumny posuwały się powoli przez górzysty, zalesiony teren, w upale i przy kiepskim zaopatrzeniu. Naczelny wódz serbski, wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), rozpoznał, że główne uderzenie idzie od zachodu, i skierował tam 2 Armię generała [Stepy Stepanovicia](https://pl.wikipedia.org/wiki/Stepa_Stepanović), wzmocnioną oddziałami 3 Armii.
+Austro-węgierskie kolumny posuwały się powoli przez górzysty, zalesiony teren, w upale i przy kiepskim zaopatrzeniu. Naczelny wódz serbski, wojewoda [Radomir Putnik](/postacie/radomir-putnik), rozpoznał, że główne uderzenie idzie od zachodu, i skierował tam 2 Armię generała [Stepy Stepanovicia](/postacie/stepa-stepanovic), wzmocnioną oddziałami 3 Armii.
 
 ## Nocne starcia na Cerze
 

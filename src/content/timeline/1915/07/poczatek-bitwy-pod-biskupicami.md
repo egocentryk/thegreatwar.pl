@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 lipca 1915 roku wojska feldmarszałka [Augusta von Mackensena](https://pl.wikipedia.org/wiki/August_von_Mackensen) po kilkudniowej przerwie znów uderzyły na całym froncie między Wisłą a Bugiem. Najważniejszy cios zadała niemiecka [11 Armia](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)) na zachód od [Wieprza](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), w kierunku [Biskupic](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), dawnego miasteczka nad [Giełczewką](https://pl.wikipedia.org/wiki/Giełczewka), na południowy wschód od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Jeszcze tego dnia Niemcy przerwali rosyjskie linie i doszli do kolei z Lublina do [Chełma](https://pl.wikipedia.org/wiki/Chełm). Niemiecki spis bitew, a za nim brytyjska chronologia wojny, nazywa te walki bitwą pod Biskupicami. Trwała dwa dni.
+29 lipca 1915 roku wojska feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) po kilkudniowej przerwie znów uderzyły na całym froncie między Wisłą a Bugiem. Najważniejszy cios zadała niemiecka [11 Armia](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)) na zachód od [Wieprza](https://pl.wikipedia.org/wiki/Wieprz_(rzeka)), w kierunku [Biskupic](https://pl.wikipedia.org/wiki/Biskupice_(województwo_lubelskie)), dawnego miasteczka nad [Giełczewką](https://pl.wikipedia.org/wiki/Giełczewka), na południowy wschód od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Jeszcze tego dnia Niemcy przerwali rosyjskie linie i doszli do kolei z Lublina do [Chełma](https://pl.wikipedia.org/wiki/Chełm). Niemiecki spis bitew, a za nim brytyjska chronologia wojny, nazywa te walki bitwą pod Biskupicami. Trwała dwa dni.
 
 ## Nowy plan Mackensena
 

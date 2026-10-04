@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 29 grudnia 1914 roku, że rząd brytyjski wysłał rządowi Stanów Zjednoczonych memorandum w obronie swojej polityki blokady. W opublikowanych dokumentach amerykańskiej dyplomacji nie udało się jednak znaleźć brytyjskiego pisma z tego dnia. Pod koniec grudnia to Waszyngton wystąpił z protestem, a minister spraw zagranicznych [Edward Grey](https://pl.wikipedia.org/wiki/Edward_Grey) odpowiedział na niego dopiero w styczniu. Wpis w chronologii dotyczy zapewne tej wymiany not, choć jego data i opis nie zgadzają się z dokumentami.
+Brytyjska chronologia wojny odnotowuje pod 29 grudnia 1914 roku, że rząd brytyjski wysłał rządowi Stanów Zjednoczonych memorandum w obronie swojej polityki blokady. W opublikowanych dokumentach amerykańskiej dyplomacji nie udało się jednak znaleźć brytyjskiego pisma z tego dnia. Pod koniec grudnia to Waszyngton wystąpił z protestem, a minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) odpowiedział na niego dopiero w styczniu. Wpis w chronologii dotyczy zapewne tej wymiany not, choć jego data i opis nie zgadzają się z dokumentami.
 
 ## Nota z 26 grudnia
 

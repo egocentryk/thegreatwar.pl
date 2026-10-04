@@ -15,7 +15,7 @@ draft: false
 
 ## Potiorek chce rewanżu
 
-Dowódca austro-węgierskich sił na Bałkanach, generał [Oskar Potiorek](https://pl.wikipedia.org/wiki/Oskar_Potiorek), był jednocześnie namiestnikiem Bośni i Hercegowiny. To on odpowiadał za bezpieczeństwo arcyksięcia Franciszka Ferdynanda w dniu zamachu w Sarajewie, a sierpniowa porażka w Serbii dodatkowo nadszarpnęła jego pozycję. Potiorek chciał jak najszybciej odnieść zwycięstwo, choć jego siły zmalały. 2 Armię, która w sierpniu walczyła nad Sawą, zabrano mu i przerzucono do Galicji, przeciw Rosjanom. Zostały mu dwie armie: 5 Armia generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank) i 6 Armia, którą dowodził sam.
+Dowódca austro-węgierskich sił na Bałkanach, generał [Oskar Potiorek](/postacie/oskar-potiorek), był jednocześnie namiestnikiem Bośni i Hercegowiny. To on odpowiadał za bezpieczeństwo arcyksięcia Franciszka Ferdynanda w dniu zamachu w Sarajewie, a sierpniowa porażka w Serbii dodatkowo nadszarpnęła jego pozycję. Potiorek chciał jak najszybciej odnieść zwycięstwo, choć jego siły zmalały. 2 Armię, która w sierpniu walczyła nad Sawą, zabrano mu i przerzucono do Galicji, przeciw Rosjanom. Zostały mu dwie armie: 5 Armia generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank) i 6 Armia, którą dowodził sam.
 
 Okazję dała mu serbska ofensywa na północy. 6 września, pod naciskiem Rosji i Francji, [Serbowie przekroczyli Sawę](/serbowie-przekraczaja-sawe-operacja-w-sremie) i wkroczyli do austro-węgierskiego Sremu. Potiorek uznał, że najlepszą odpowiedzią będzie uderzenie od zachodu, przez Drinę, w głąb Serbii. Gdyby jego armie zagroziły sercu kraju, Serbowie musieliby zawrócić swoje wojska ze Sremu.
 
@@ -27,6 +27,6 @@ Silniejsza 6 Armia przeszła rzekę dalej na południe, między [Zvornikiem](htt
 
 ## Plan się udaje, ale tylko częściowo
 
-Pod jednym względem plan Potiorka zadziałał. Wojewoda [Radomir Putnik](https://pl.wikipedia.org/wiki/Radomir_Putnik), szef sztabu armii serbskiej, 11 września nakazał odwrót ze Sremu, a wojska 1 Armii skierował na front nad Driną. Serbska ofensywa na terytorium wroga zakończyła się po kilku dniach.
+Pod jednym względem plan Potiorka zadziałał. Wojewoda [Radomir Putnik](/postacie/radomir-putnik), szef sztabu armii serbskiej, 11 września nakazał odwrót ze Sremu, a wojska 1 Armii skierował na front nad Driną. Serbska ofensywa na terytorium wroga zakończyła się po kilku dniach.
 
 Druga inwazja nie przyniosła jednak Austro-Węgrom rozstrzygnięcia. W górach nad Driną rozgorzały zacięte walki, które przeszły w długą wojnę okopową. Front zastygł do listopada, gdy Potiorek podjął trzecią, największą ofensywę przeciw Serbii.

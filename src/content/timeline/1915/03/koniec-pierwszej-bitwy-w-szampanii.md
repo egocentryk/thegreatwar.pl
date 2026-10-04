@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-17 marca 1915 roku francuska 4 Armia wstrzymała ofensywę w [Szampanii](https://pl.wikipedia.org/wiki/Szampania). Naczelny wódz, generał [Joseph Joffre](https://pl.wikipedia.org/wiki/Joseph_Joffre), polecił dowódcy armii, generałowi [Fernandowi de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), zakończyć natarcie i umocnić zdobyte pozycje. Tak skończyła się pierwsza bitwa w Szampanii, która [rozpoczęła się 20 grudnia 1914 roku](/poczatek-pierwszej-bitwy-w-szampanii). Francuzi szturmowali niemieckie okopy na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims) przez blisko trzy miesiące, w deszczu, mrozie i błocie, ale frontu nie przełamali.
+17 marca 1915 roku francuska 4 Armia wstrzymała ofensywę w [Szampanii](https://pl.wikipedia.org/wiki/Szampania). Naczelny wódz, generał [Joseph Joffre](/postacie/joseph-joffre), polecił dowódcy armii, generałowi [Fernandowi de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), zakończyć natarcie i umocnić zdobyte pozycje. Tak skończyła się pierwsza bitwa w Szampanii, która [rozpoczęła się 20 grudnia 1914 roku](/poczatek-pierwszej-bitwy-w-szampanii). Francuzi szturmowali niemieckie okopy na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims) przez blisko trzy miesiące, w deszczu, mrozie i błocie, ale frontu nie przełamali.
 
 ## Ostatnie natarcie
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 września 1914 roku zakończyła się trzydniowa bitwa pod Tarnawką, stoczona na polach kilkanaście kilometrów na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Austro-węgierska 1 Armia generała [Victora Dankla](https://pl.wikipedia.org/wiki/Victor_Dankl), przełamana przez przeważające siły rosyjskie, zaczęła się wycofywać na południe, w stronę Kraśnika i [Sanu](https://pl.wikipedia.org/wiki/San).
+9 września 1914 roku zakończyła się trzydniowa bitwa pod Tarnawką, stoczona na polach kilkanaście kilometrów na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Austro-węgierska 1 Armia generała [Victora Dankla](/postacie/victor-dankl), przełamana przez przeważające siły rosyjskie, zaczęła się wycofywać na południe, w stronę Kraśnika i [Sanu](https://pl.wikipedia.org/wiki/San).
 
 ## Przełamanie
 
@@ -22,6 +22,6 @@ Położenie Dankla pogarszało się także na prawym skrzydle. Między jego armi
 
 ## Odwrót
 
-Dankl zdecydował się na odwrót. Niemieccy landwerzyści generała [Remusa von Woyrscha](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch) osłaniali wycofujących się Austriaków, a potem sami przeszli z powrotem na lewy brzeg Wisły i cofali się w stronę [Sandomierza](https://pl.wikipedia.org/wiki/Sandomierz). 11 września szef sztabu generalnego Franz Conrad von Hötzendorf nakazał odwrót całego frontu austro-węgierskiego za San. Tym samym przegrana została cała bitwa galicyjska, a sierpniowe zwycięstwo Dankla pod Kraśnikiem poszło na marne.
+Dankl zdecydował się na odwrót. Niemieccy landwerzyści generała [Remusa von Woyrscha](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch) osłaniali wycofujących się Austriaków, a potem sami przeszli z powrotem na lewy brzeg Wisły i cofali się w stronę [Sandomierza](https://pl.wikipedia.org/wiki/Sandomierz). 11 września szef sztabu generalnego Franz Conrad von Hötzendorf nakazał odwrót całego frontu austro-węgierskiego za San. Tym samym przegrana została cała [bitwa galicyjska](/bitwy/bitwa-galicyjska), a sierpniowe zwycięstwo Dankla pod Kraśnikiem poszło na marne.
 
 Pola pod Tarnawką, Giełczewem i Zakrzewem pokryły mogiły żołnierzy obu armii, wśród których nie brakowało Polaków. Poległych pochowano na cmentarzach wojennych, które przetrwały do dziś.

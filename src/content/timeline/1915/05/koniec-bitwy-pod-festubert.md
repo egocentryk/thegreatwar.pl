@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 maja 1915 roku brytyjska 1 Armia przeprowadziła ostatnie natarcie bitwy pod [Festubert](https://pl.wikipedia.org/wiki/Festubert). Wieczorem terytorialna 47 Dywizja (londyńska) zdobyła odcinek niemieckiej linii koło [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée), a kanadyjscy kawalerzyści walczący pieszo próbowali posunąć się wzdłuż niemieckiego przedpiersia na północ. Tego samego dnia marszałek [John French](https://pl.wikipedia.org/wiki/John_French) uznał, że dalsza ofensywa nie ma szans powodzenia, i postanowił ją zakończyć. Dziesięć dni po [nocnym natarciu z 15 maja](/poczatek-bitwy-pod-festubert) front przesunął się zaledwie o kilkaset metrów.
+25 maja 1915 roku brytyjska 1 Armia przeprowadziła ostatnie natarcie bitwy pod [Festubert](https://pl.wikipedia.org/wiki/Festubert). Wieczorem terytorialna 47 Dywizja (londyńska) zdobyła odcinek niemieckiej linii koło [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée), a kanadyjscy kawalerzyści walczący pieszo próbowali posunąć się wzdłuż niemieckiego przedpiersia na północ. Tego samego dnia marszałek [John French](/postacie/john-french) uznał, że dalsza ofensywa nie ma szans powodzenia, i postanowił ją zakończyć. Dziesięć dni po [nocnym natarciu z 15 maja](/poczatek-bitwy-pod-festubert) front przesunął się zaledwie o kilkaset metrów.
 
 ## Ostatnie natarcia
 
