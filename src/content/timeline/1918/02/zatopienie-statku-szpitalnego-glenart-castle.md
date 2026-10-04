@@ -1,0 +1,22 @@
+---
+title: Zatopienie statku szpitalnego Glenart Castle
+summary: 26 lutego 1918 UC-56 storpedował w Kanale Bristolskim oświetlony statek szpitalny Glenart Castle. Zginęło 153 ludzi, w tym wszystkie pielęgniarki.
+category: Działania zbrojne
+front: Wojna na morzu
+date: 1918-02-26
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Wielka Brytania, Kaiserliche Marine, okręty podwodne, zbrodnie wojenne]
+milestone: false
+draft: false
+---
+
+26 lutego 1918 roku krótko przed czwartą nad ranem niemiecki okręt podwodny storpedował brytyjski [statek szpitalny](https://pl.wikipedia.org/wiki/Statek_szpitalny) Glenart Castle w [Kanale Bristolskim](https://pl.wikipedia.org/wiki/Kanał_Bristolski), około 10 mil morskich na zachód od wyspy [Lundy](https://pl.wikipedia.org/wiki/Lundy_(wyspa)). Statek wyszedł poprzedniego dnia z [Newport](https://pl.wikipedia.org/wiki/Newport_(Gwent)) w południowej Walii i płynął do [Brestu](https://pl.wikipedia.org/wiki/Brest), by zabrać rannych i chorych z Francji. Nie miał więc na pokładzie pacjentów, tylko załogę i personel medyczny. Rybacy, którzy minęli go w nocy, zeznawali potem, że był w pełni oświetlony: miał zielone światła wokół salonu i czerwone światło Czerwonego Krzyża.
+
+Był to ten sam statek, który niespełna rok wcześniej [wszedł na minę w kanale La Manche](/uszkodzenie-statku-szpitalnego-glenart-castle), ale wtedy nikt nie zginął, a uszkodzony kadłub doholowano do portu. Po remoncie Glenart Castle, dawny liniowiec Union-Castle Line, wrócił do służby w listopadzie 1917 roku. Tym razem torpeda trafiła w ładownię numer 3. Wybuch zniszczył większość szalup, a przechył utrudnił spuszczenie pozostałych. Statek zatonął w siedem, osiem minut. Według relacji kapitan Bernard Burt wydał rozkaz „każdy ratuje się sam” i ostatni raz widziano go, gdy wracał do kabiny nawigacyjnej.
+
+Noc była zimna, a morze wzburzone. Przetrwała tylko jedna szalupa z 22 ludźmi, którzy przez kilka godzin bez przerwy wylewali z niej wodę, zanim około 10.30 podjął ich francuski statek. Po południu amerykański niszczyciel [Parker](https://pl.wikipedia.org/wiki/USS_Parker_(DD-48)) wyłowił z tratw jeszcze dziewięciu rozbitków, z których dwóch zmarło. Według najbardziej prawdopodobnych ustaleń na pokładzie były 182 osoby, a ocalało 29. Zginęło 153 ludzi, w tym kapitan, 95 ze 120 członków załogi, obaj kapelani, 48 z 52 sanitariuszy wojskowej służby medycznej i wszystkie osiem pielęgniarek, razem z przełożoną, weteranką wojny burskiej i Gallipoli Kate Beaufoy. Wśród nich była Australijka Edith Blake, jedyna pielęgniarka z Australii, która w czasie tej wojny zginęła w wyniku działań nieprzyjaciela.
+
+Statek storpedował [UC-56](https://pl.wikipedia.org/wiki/SM_UC-56), podwodny stawiacz min z flotylli flandryjskiej, dowodzony przez kapitanlejtnanta rezerwy Wilhelma Kiesewettera. Był to jedyny statek, jaki ten okręt zatopił w czasie całej wojny. Niedługo potem w brytyjskiej prasie pojawiły się doniesienia, że okręt podwodny strzelał do rozbitków, by zatrzeć ślady. W pobliżu miejsca zatonięcia wyłowiono ciało młodszego oficera z kamizelką ratunkową i dwiema ranami postrzałowymi. Oficjalne dokumenty nie potwierdziły jednak tej wersji. Było to drugie w ciągu niespełna dwóch miesięcy storpedowanie statku szpitalnego w Kanale Bristolskim, po [zatopieniu Rewy](/zatopienie-statku-szpitalnego-rewa) w styczniu, i znów złamanie [konwencji haskiej](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku), która chroniła statki szpitalne.
+
+Kiesewetter nie dotrwał na morzu do końca wojny. W maju 1918 roku UC-56 z powodu awarii zawinął do hiszpańskiego [Santanderu](https://pl.wikipedia.org/wiki/Santander_(miasto)) i został tam internowany. Po wojnie, gdy Kiesewetter wracał do Niemiec, Brytyjczycy zatrzymali go i osadzili w [Tower](https://pl.wikipedia.org/wiki/Tower_of_London), ale wkrótce musieli go zwolnić, bo w czasie rozejmu nie mieli prawa przetrzymywać go jako jeńca. Wielka Brytania domagała się, by zatopienie Glenart Castle, Rewy i innych statków szpitalnych osądzono w procesach zbrodniarzy wojennych przed niemieckim Sądem Rzeszy w Lipsku, ale z tych spraw sądzono ostatecznie tylko zatopienie Llandovery Castle w czerwcu 1918 roku. W 2002 roku, w 84. rocznicę zatonięcia, w pobliżu przylądka Hartland Point w hrabstwie Devon odsłonięto kamień upamiętniający ofiary.

@@ -1,0 +1,23 @@
+---
+title: Samobójstwo Kaledina
+summary: 11 lutego 1918 ataman Kozaków dońskich Aleksiej Kaledin złożył władzę i zastrzelił się w Nowoczerkasku. Kozacy nie chcieli bronić Donu przed bolszewikami.
+category: Polityka
+date: 1918-02-11
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Rosja, rewolucja październikowa, Ławr Korniłow]
+milestone: false
+draft: false
+---
+
+11 lutego 1918 roku (29 stycznia według kalendarza juliańskiego, obowiązującego jeszcze w Rosji) w [Nowoczerkasku](https://pl.wikipedia.org/wiki/Nowoczerkask), stolicy [Kozaków dońskich](https://pl.wikipedia.org/wiki/Kozacy_dońscy), ataman generał [Aleksiej Kaledin](https://pl.wikipedia.org/wiki/Aleksiej_Kaledin) zwołał posiedzenie rządu Wojska Dońskiego. Oznajmił, że do obrony obwodu przed nacierającymi bolszewikami zostało na froncie 147 bagnetów, i złożył swoje pełnomocnictwa. Gdy członkowie rządu zaczęli się rozwodzić nad sytuacją, przerwał im według relacji świadków słowami: „Panowie, mówcie krócej. Czas nie czeka. Przecież od gadania zginęła Rosja”. Po posiedzeniu przeszedł do swojego gabinetu i zastrzelił się strzałem w serce. W liście do generała [Michaiła Aleksiejewa](https://pl.wikipedia.org/wiki/Michaił_Aleksiejew_(generał)) wyjaśnił, że odbiera sobie życie, bo Kozacy odmówili pójścia za swoim atamanem. Brytyjska chronologia wojny notuje samobójstwo Kaledina pod 13 lutego, zapewne według daty, w której wiadomość dotarła na Zachód.
+
+## Don przeciw bolszewikom
+
+Kaledin, w 1916 roku dowódca 8 Armii, która w [ofensywie Brusiłowa](/bitwy/ofensywa-brusilowa) wzięła Łuck, latem 1917 roku został wybrany atamanem przez kozacki Krąg Wojskowy. Na [naradzie państwowej w Moskwie](/narada-panstwowa-w-moskwie) żądał likwidacji rad i komitetów w wojsku, a po [upadku puczu Korniłowa](/upadek-puczu-kornilowa) z trudem uniknął aresztowania. Po przewrocie bolszewickim uznał przejęcie władzy przez Lenina za zbrodnię i ogłosił, że do czasu przywrócenia prawowitej władzy w Rosji rząd Wojska Dońskiego bierze całą władzę w obwodzie. Nowoczerkask stał się schronieniem dla przeciwników bolszewików. W połowie listopada przybył tu Aleksiejew i zaczął werbować oficerów do ochotniczych oddziałów, a w grudniu, po [ucieczce z Bychowa](/smierc-duchonina), dołączył do niego generał [Ławr Korniłow](https://pl.wikipedia.org/wiki/Ławr_Korniłow). Z oddziałów Aleksiejewa wyrosła na przełomie roku Armia Ochotnicza. W grudniu ochotnicy pomogli Kaledinowi odbić z rąk miejscowych bolszewików [Rostów nad Donem](https://pl.wikipedia.org/wiki/Rostów_nad_Donem).
+
+Siła atamana była jednak pozorna. W miastach obwodu przeważała ludność napływowa, nieufna wobec kozackiej władzy, a robotnicy z zagłębia węglowego popierali bolszewików. Wracający z frontu kozaccy żołnierze byli zmęczeni wojną i nie zamierzali bić się z rządem, który obiecywał pokój i ziemię. Wielu z nich uważało, że czerwone oddziały idą tylko na „obcych”, czyli na oficerów-ochotników. Od grudnia na Don i Ukrainę nacierały wojska sowieckie pod dowództwem [Władimira Antonowa-Owsiejenki](https://pl.wikipedia.org/wiki/Władimir_Antonow-Owsiejenko), a 23 stycznia (10 stycznia st. st.) zjazd kozaków-frontowców w stanicy Kamieńskiej ogłosił Kaledina złożonym z urzędu i uznał władzę Rady Komisarzy Ludowych. Ataman miał do dyspozycji głównie ochotników i partyzanckie oddziały złożone z uczniów i kadetów. 3 lutego (21 stycznia st. st.) zginął najbardziej znany z ich dowódców, pułkownik Wasilij Czernieckow. 10 lutego (28 stycznia st. st.) kolumna [Rudolfa Siwersa](https://pl.wikipedia.org/wiki/Rudolf_Siwers) zajęła [Taganrog](https://pl.wikipedia.org/wiki/Taganrog). Tego samego dnia Korniłow zawiadomił Kaledina, że Armia Ochotnicza, której groziło zniszczenie, wycofa się na Kubań. Dla atamana była to ostatnia kropla.
+
+## Pomyłki brytyjskiej chronologii
+
+Brytyjska chronologia wojny podaje, że 4 lutego Kozacy dońscy pod dowództwem generała Aleksiejewa ruszyli na Moskwę, a 13 lutego zostali pobici przez bolszewików. Obie informacje są nieścisłe i odbijają zapewne pogłoski docierające wówczas na Zachód. Żadnego marszu na Moskwę nie było. Aleksiejew nie dowodził Kozakami, lecz współtworzył z Korniłowem Armię Ochotniczą, liczącą wtedy zaledwie 3–4 tysiące ludzi. W lutym nie nacierała ona, tylko rozpaczliwie broniła się na podejściach do Rostowa i Taganrogu. Nie było też jednej rozstrzygającej bitwy 13 lutego. Kozacki opór załamywał się stopniowo: 10 lutego padł Taganrog, nazajutrz zginął Kaledin, a jego następca, generał Anatolij Nazarow, nie zdołał już odwrócić biegu wydarzeń. W nocy z 22 na 23 lutego ochotnicy opuścili Rostów i ruszyli na Kubań, a 25 lutego bolszewicy zajęli Nowoczerkask.

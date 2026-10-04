@@ -314,6 +314,14 @@ export const BATTLE_PHASES = [
       "W 1916 roku front włoski przestał być wyłącznie areną włoskich natarć nad Isonzo. Szef austro-węgierskiego sztabu generalnego Franz Conrad von Hötzendorf od dawna chciał ukarać dawnego sojusznika za zmianę stron i w maju uderzył z Tyrolu przez płaskowyże Asiago i Lavarone, licząc na zejście w dolinę Padu i odcięcie armii włoskich nad Isonzo. Ofensywa, nazwana przez Austriaków ekspedycją karną, przyniosła początkowo znaczne zdobycze, ale utknęła na ostatnich grzbietach przed równiną, gdy Cadorna ściągnął nową armię odwodową, a na wschodzie ruszyła rosyjska ofensywa Brusiłowa.",
   },
   {
+    slug: "1918-front-wschodni",
+    title: "1918: Front wschodni",
+    front: "Front wschodni",
+    dates: "od lutego 1918",
+    intro:
+      "Gdy bolszewicy zerwali rokowania w Brześciu Litewskim, ogłaszając, że nie będą ani walczyć, ani podpisywać pokoju, Niemcy i Austro-Węgrzy wypowiedzieli rozejm i ruszyli na wschód. W ciągu dwóch tygodni, prawie bez oporu rozpadającej się armii rosyjskiej, zajęli Inflanty i Estonię, Białoruś i Ukrainę. Ofensywa zmusiła Lenina do przyjęcia o wiele cięższych warunków pokoju, podpisanego 3 marca 1918 roku.",
+  },
+  {
     slug: "1917-front-wloski",
     title: "1917: Front włoski",
     front: "Front włoski",

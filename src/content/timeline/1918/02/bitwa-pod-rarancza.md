@@ -1,0 +1,40 @@
+---
+title: Bitwa pod Rarańczą
+summary: W nocy z 15 na 16 lutego 1918 II Brygada Legionów pułkownika Hallera przebiła się pod Rarańczą przez front austriacki w proteście przeciw pokojowi z Ukrainą.
+category: Wojsko
+front: Front wschodni
+date: 1918-02-15
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Legiony Polskie, Polska, Austro-Węgry, Ukraina]
+milestone: false
+draft: false
+---
+
+15 lutego 1918 roku kolumny [II Brygady Legionów Polskich](https://pl.wikipedia.org/wiki/II_Brygada_Legionów_Polskich) ruszyły z kwater pod [Czerniowcami](https://pl.wikipedia.org/wiki/Czerniowce) w stronę frontu. Oficjalnie miały to być czterodniowe ćwiczenia polowe. W rzeczywistości legioniści szli przebić się przez linię austro-węgierską pod wsią [Rarańczą](https://pl.wikipedia.org/wiki/Ridkiwci) na [Bukowinie](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)), przejść na stronę rosyjską i połączyć się z polskimi korpusami tworzonymi na wschodzie. W nocy z 15 na 16 lutego część brygady, według polskich opracowań około stu oficerów i półtora tysiąca żołnierzy, dotarła do opuszczonych okopów rosyjskich. Reszta, wraz z taborami i artylerią, wpadła w ręce Austriaków. Był to zbrojny protest polskich żołnierzy armii austro-węgierskiej przeciw [traktatowi pokojowemu](/pokoj-brzeski-z-ukraina), który tydzień wcześniej państwa centralne zawarły w Brześciu z Ukraińską Republiką Ludową.
+
+## Brygada i traktat
+
+II Brygada wyrosła z legionowych batalionów, które jesienią 1914 roku [walczyły z Kozakami w Karpatach](/austriacy-odbijaja-syhot). Nazywano ją Karpacką albo Żelazną. Od lipca 1916 roku dowodził nią pułkownik [Józef Haller](https://pl.wikipedia.org/wiki/Józef_Haller). W przeciwieństwie do I i III Brygady, rozbitych latem 1917 roku po [kryzysie przysięgowym](/kryzys-przysiegowy), większość jej żołnierzy złożyła przysięgę i została w [Polskim Korpusie Posiłkowym](https://pl.wikipedia.org/wiki/Polski_Korpus_Posiłkowy), którego dowódcą był generał [Zygmunt Zieliński](https://pl.wikipedia.org/wiki/Zygmunt_Zieliński_(generał_broni)). Jesienią 1917 roku Austriacy przerzucili korpus na Bukowinę, a na początku stycznia 1918 roku wycofali go z frontu i rozlokowali w okolicach Czerniowców: dowództwo w Łużanach, 2 pułk piechoty w Starych, a 3 pułk w Nowych [Mamajowcach](https://pl.wikipedia.org/wiki/Mamajiwci), artylerię w okolicznych wsiach. Kawalerię przeniesiono później do Galicji.
+
+Według kalendarium Legionów żołnierze dowiedzieli się z gazet 12 lutego, że państwa centralne podpisały z Ukrainą pokój, który oddawał jej [Chełmszczyznę](https://pl.wikipedia.org/wiki/Gubernia_chełmska) i część Podlasia. W legionowych szeregach uznano go za nowy rozbiór Polski i zdradę ze strony Austrii, której legioniści służyli od 1914 roku. W Królestwie wybuchły strajki i manifestacje, a Rada Regencyjna ogłosiła protest. 14 lutego w Nowych Mamajowcach odprawiono mszę żałobną za majora [Włodzimierza Mężyńskiego](https://pl.wikipedia.org/wiki/Włodzimierz_Józef_Mężyński), który na wieść o traktacie zmarł na atak serca w krakowskim szpitalu. Uczestnicy nabożeństwa zrywali z mundurów austriackie odznaczenia.
+
+## Narada i plan
+
+Tego samego dnia, a według części relacji dzień wcześniej, odbyła się narada dowódców. Generał Zieliński radził złożyć broń, co uważał za honorowe wyjście. Młodsi oficerowie proponowali marsz na Lwów i powstanie w Galicji, opanowanie zagłębia naftowego albo przejście do konspiracji. Przeważył pomysł kapitana [Romana Góreckiego](https://pl.wikipedia.org/wiki/Roman_Górecki): przebić się przez front i dołączyć do [I Korpusu Polskiego](/i-korpus-polski-przeciw-bolszewikom) generała Dowbor-Muśnickiego albo do innych polskich formacji w Rosji. Plan opracowali podpułkownik [Michał Żymierski](https://pl.wikipedia.org/wiki/Michał_Rola-Żymierski) i major [Józef Zając](https://pl.wikipedia.org/wiki/Józef_Zając_(generał)). Haller go zaakceptował i stanął na czele akcji. Odesłał cesarzowi [Karolowi I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) swój [Order Korony Żelaznej](https://pl.wikipedia.org/wiki/Order_Korony_Żelaznej), a dzieje.pl przytaczają jego słowa: „lepszy głupi czyn, niż bezczynność”. Dowództwo brygady przygotowało odezwę „Do Narodu Polskiego”, w której tłumaczyło, że legioniści odchodzą tam, „gdzie powstaje polska siła zbrojna”. Austriakom zostawiono pismo wypowiadające posłuszeństwo.
+
+Rarańczę wybrano, bo leżała najbliżej kwater, a legioniści znali ten teren z ciężkich walk w czerwcu 1915 roku. Na wschód od niej front praktycznie już nie istniał. Armia rosyjska rozpadała się, a okopy po obu stronach w wielu miejscach stały puste. Tajemnicy nie dało się jednak utrzymać. Dowódca austro-węgierskiego VII Korpusu, generał Ferdinand Kosak, ogłosił pogotowie i wysłał przeciw Polakom dwie dywizje kawalerii, które stały jednak zbyt daleko, by zdążyć.
+
+## Przejście
+
+Na czele szedł 2 pułk piechoty. Około szóstej wieczorem natknął się na pododdziały austro-węgierskiego 53 pułku piechoty, złożonego w większości z Chorwatów. Po krótkiej, ale krwawej walce Chorwaci zostali rozbici, a bataliony legionowe rozwinęły się w tyralierę i mimo ognia karabinowego parły w stronę Rarańczy. Zamykający kolumnę 3 pułk zdołał wyprzedzić wlokące się tabory, więc nie odciął go nadjeżdżający austriacki [pociąg pancerny](https://pl.wikipedia.org/wiki/Pociąg_pancerny). W okopach nie było obsady, kłopot sprawiały tylko zasieki. Brakowało nożyc do drutu, więc żołnierze rzucali na druty płaszcze i przechodzili po nich. Rano 16 lutego legioniści byli już po rosyjskiej stronie.
+
+Straty w walce były niewielkie: polskie opracowania mówią o 16 zabitych i kilkunastu, według innych relacji kilkudziesięciu rannych. Znacznie dotkliwsza okazała się utrata taborów i artylerii. Pułk artylerii Austriacy zatrzymali niedługo po wyjściu z kwater. Osaczyli też i aresztowali tylne oddziały piechoty, tabory oraz sztab korpusu z generałem Zielińskim. 16 lutego w Synowódzku w Galicji wojska austriackie i niemieckie otoczyły i rozbroiły 2 pułk ułanów, który stał zbyt daleko, by wziąć udział w akcji. Przebili się sami piechurzy z 2 i 3 pułku, bez zapasów, ciepłej odzieży i amunicji, na terenie opanowanym przez zbuntowanych chłopów i resztki zdemoralizowanej armii rosyjskiej.
+
+## Kary i dalsza droga
+
+19 lutego władze austro-węgierskie rozwiązały Polski Korpus Posiłkowy. Zatrzymanych legionistów przewieziono na Węgry, do obozów w [Chuście](https://pl.wikipedia.org/wiki/Chust) (Huszt), [Syhocie Marmaroskim](https://pl.wikipedia.org/wiki/Syhot) (Máramarossziget) i kilku innych miejscowościach. Według różnych autorów internowano od około 4 do 5,5 tysiąca żołnierzy, nie tylko z korpusu, ale i z innych polskich oddziałów. Wielu wcielono potem do armii austro-węgierskiej i wysłano na front włoski. Śledztwo objęło ponad stu oficerów i żołnierzy, którym w czerwcu wytoczono w Syhocie proces o bunt i zdradę. Zakończyła go dopiero jesienią 1918 roku abolicja ogłoszona przez cesarza.
+
+Haller i jego żołnierze ruszyli na północ przez Chocim, sforsowali Dniestr i dotarli pod Kamieniec Podolski, a potem, gdy na Ukrainę zaczęły wkraczać wojska niemieckie i austro-węgierskie, zawrócili ku Besarabii. 6 marca brygada stanęła w rejonie Sorok i weszła do [II Korpusu Polskiego](https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji). Pod koniec marca Haller objął dowództwo całego korpusu. W maju Niemcy zażądali jego rozbrojenia, a 11 maja 1918 roku pod Kaniowem korpus po całodniowej walce musiał złożyć broń. Haller przedostał się do Francji, gdzie stanął na czele Armii Polskiej.
+
+Rarańcza nie zmieniła położenia na froncie wschodnim, który i tak dogorywał. Miała jednak ogromne znaczenie polityczne. Po raz pierwszy polskie oddziały walczące u boku państw centralnych otwarcie zerwały z nimi z bronią w ręku. Dla Polaków w kraju była dowodem, że wojsko nie pogodziło się z oddaniem Chełmszczyzny, a dla Austrii sygnałem, że traci ostatnich polskich sojuszników. Poległych pod Rarańczą ekshumowano w 1926 roku i pochowano na lwowskim [Cmentarzu Orląt](https://pl.wikipedia.org/wiki/Cmentarz_Obrońców_Lwowa).
