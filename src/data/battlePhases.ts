@@ -122,6 +122,14 @@ export const BATTLE_PHASES = [
       "Na początku 1917 roku obie strony wyciągnęły wnioski z rzezi pod Verdun i nad Sommą. Niemcy, nie mając sił na kolejną taką bitwę, wycofali się na nową, silnie umocnioną Linię Hindenburga, skracając front i zostawiając za sobą spustoszony pas ziemi. Alianci przygotowywali wielką wiosenną ofensywę: nowy francuski wódz naczelny, generał Nivelle, obiecywał przełamanie frontu w ciągu dwóch dni, a Brytyjczycy mieli go wesprzeć natarciem pod Arras. Jednocześnie wypowiedzenie nieograniczonej wojny podwodnej popchnęło do wojny Stany Zjednoczone, których wojska miały się pojawić na froncie dopiero za kilka miesięcy.",
   },
   {
+    slug: "1918-ofensywa-wiosenna",
+    title: "1918: Niemiecka ofensywa wiosenna",
+    front: "Front zachodni",
+    dates: "od marca 1918",
+    intro:
+      "Po pokoju z Rosją Niemcy mogli przerzucić na zachód kilkadziesiąt dywizji i po raz pierwszy od 1914 roku uzyskać przewagę liczebną. Ludendorff chciał rozstrzygnąć wojnę, zanim do Francji dotrą masy wojsk amerykańskich. 21 marca 1918 roku nad Sommą ruszyła operacja Michael, największe natarcie wojny: po krótkim, huraganowym ostrzale artyleryjskim oddziały szturmowe wdarły się w linie brytyjskiej 5 Armii i w ciągu kilku dni posunęły się o kilkadziesiąt kilometrów. Kryzys zmusił sprzymierzonych do powierzenia generałowi Fochowi koordynacji działań armii brytyjskiej i francuskiej.",
+  },
+  {
     slug: "1917-arras-i-aisne",
     title: "1917: Arras i ofensywa Nivelle'a",
     front: "Front zachodni",

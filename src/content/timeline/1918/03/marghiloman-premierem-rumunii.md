@@ -1,0 +1,21 @@
+---
+title: Marghiloman premierem Rumunii
+summary: 18 marca 1918 król Ferdynand powierzył rząd germanofilowi Alexandru Marghilomanowi. Ministrem spraw zagranicznych został Constantin Arion.
+category: Polityka
+date: 1918-03-18
+authors: [Łukasz Skowroń]
+dayOrder: 1
+tags: [Rumunia, Ferdynand I Rumuński, Ottokar Czernin, inicjatywy pokojowe]
+milestone: false
+draft: false
+---
+
+18 marca 1918 roku (5 marca według kalendarza juliańskiego, którym posługiwała się Rumunia) król Ferdynand I powierzył misję utworzenia rządu konserwatyście [Alexandru Marghilomanowi](https://pl.wikipedia.org/wiki/Alexandru_Marghiloman). Marghiloman przyjechał tego dnia do [Jass](https://pl.wikipedia.org/wiki/Jassy) i od razu otrzymał nominację. Jak zapisał w dzienniku ustępujący premier, generał [Alexandru Averescu](https://pl.wikipedia.org/wiki/Alexandru_Averescu), o szóstej po południu przyniesiono mu dekret do kontrasygnaty. Nowy premier objął także ministerstwo spraw wewnętrznych, a teka spraw zagranicznych przypadła jego partyjnemu koledze, Constantinowi Arionowi. Brytyjska chronologia wojny notuje obie nominacje dopiero pod 21 marca, ale rumuńskie źródła i dziennik Averescu wskazują 18 marca.
+
+Marghiloman, urodzony w 1854 roku w Buzău, prawnik wykształcony w Paryżu, od ponad trzydziestu lat zasiadał w parlamencie i kilkakrotnie był ministrem, m.in. spraw wewnętrznych w rządzie [Petre P. Carpa](https://pl.wikipedia.org/wiki/Petre_P._Carp) w latach 1910–1912. Od 1914 roku stał na czele Partii Konserwatywnej, tradycyjnie opowiadającej się za związkami z Niemcami i Austro-Węgrami. W latach 1914–1916 opowiadał się za neutralnością i nie wszedł do rządu [Iona I.C. Brătianu](https://pl.wikipedia.org/wiki/Ion_I.C._Brătianu), gdy ten prowadził kraj do wojny po stronie ententy. Po zajęciu [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt) przez wojska państw centralnych w grudniu 1916 roku nie wyjechał do Mołdawii, lecz jako przewodniczący rumuńskiego Czerwonego Krzyża pośredniczył między władzami okupacyjnymi a ludnością. Odrzucił przy tym niemieckie pomysły utworzenia w Bukareszcie rządu konkurencyjnego wobec królewskiego. Constantin Arion, rówieśnik premiera, był adwokatem i wykładowcą prawa, a w latach 1900–1901 ministrem oświaty w rządzie Carpa. Do 1907 roku należał do liberałów, potem przeszedł do konserwatystów.
+
+Właśnie takiego rządu chciały państwa centralne. Austro-węgierski minister spraw zagranicznych [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin) już 27 lutego, w rozmowie z królem, wskazywał, że gabinet Marghilomana przyjąłby warunki pokoju. Według jego wspomnień Marghiloman, zanim się zgodził, chciał poznać dokładne warunki. Ustąpienie Dobrudży uznał za nieuniknione, wiedząc, że Wiedeń i Berlin związały się w tej sprawie obietnicą wobec Bułgarii. Czernin obiecał mu za to zmniejszenie austro-węgierskich żądań granicznych w Karpatach mniej więcej o połowę i rezygnację z zamieszkanych miejscowości, takich jak [Turnu Severin](https://pl.wikipedia.org/wiki/Drobeta-Turnu_Severin). Marghiloman zastrzegał też, że nie utworzy rządu, jeśli Niemcy będą obstawać przy żądaniu okupacji Wołoszczyzny przez pięć–sześć lat po zawarciu pokoju. Gabinet objął dopiero wtedy, gdy Czernin zapewnił go, że problem okupacji zostanie rozwiązany.
+
+Zmiana rządu nastąpiła w ostatniej chwili. 19 marca wygasał rozejm przedłużony w [Buftei](/pokoj-w-buftei), a państwa centralne, zaniepokojone [ustąpieniem Averescu](/dymisja-averescu), grożyły zaostrzeniem warunków lub zerwaniem rozmów. Przedstawiciele ententy przyjęli nominację niechętnie. Francuski poseł hrabia de Saint-Aulaire jeszcze przed nią zapewniał Averescu, że nie ma nic wspólnego ze „sprawą Marghilomana” i nie może patrzeć na nią przychylnie. Dla wielu Rumunów nowy premier był „człowiekiem Niemców”, a zwolennicy widzieli w nim raczej polityka, który przyjmuje na siebie niewdzięczne zadanie ratowania państwa.
+
+Rząd Marghilomana prowadził dalsze rokowania z państwami centralnymi. 7 maja 1918 roku Marghiloman i Arion podpisali w Bukareszcie [traktat pokojowy](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1918)), którego król Ferdynand nigdy nie zatwierdził. W kwietniu, za rządów Marghilomana, do Rumunii przyłączyła się Besarabia. Gabinet upadł na początku listopada 1918 roku, gdy klęska państw centralnych była już przesądzona.

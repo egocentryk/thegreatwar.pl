@@ -1,0 +1,34 @@
+---
+title: Ostrzał Paryża z działa dalekonośnego
+summary: 23 marca 1918 na Paryż zaczęły spadać pociski wystrzelone z odległości ok. 120 km. Tak zaczął się ostrzał miasta z niemieckiego działa dalekonośnego.
+category: Działania zbrojne
+front: Front zachodni
+date: 1918-03-23
+authors: [Natalia]
+dayOrder: 1
+tags: [Niemcy, Francja, Paryż, artyleria oblężnicza]
+milestone: false
+draft: false
+---
+
+W sobotę 23 marca 1918 roku, dwa dni po [rozpoczęciu wielkiej ofensywy niemieckiej](/poczatek-operacji-michael) nad Sommą, około 7.20 rano na bruku przed domem nr 6 przy Quai de Seine, w robotniczej XIX dzielnicy [Paryża](https://pl.wikipedia.org/wiki/Paryż), rozległ się wybuch. Odłamki porozbijały okna, ale nikt nie zginął. Nad miastem nie było słychać samolotów ani wystrzałów, a niebo było puste. W ciągu dnia, mniej więcej co kwadrans, w różnych częściach miasta i na przedmieściach wybuchały kolejne pociski. Dopiero po południu władze przyznały, że Niemcy ostrzeliwują Paryż z działa ustawionego ponad sto kilometrów od miasta. Była to broń, jakiej dotąd nie znano. Paryżanie nazwali ją „Bertą”, a do historii przeszła jako [działo paryskie](https://pl.wikipedia.org/wiki/Działo_paryskie).
+
+## Tajemnicze wybuchy
+
+Pierwszy wybuch uznano za eksplozję bomby lotniczej. Paryż znał już naloty, ale od dawna wyłącznie nocne. Ostatni wielki nalot niemieckich bombowców miasto przeżyło w nocy z 30 na 31 stycznia. Część mieszkańców wzięła huk za kolejną eksplozję w niedawno zniszczonej fabryce granatów w La Courneuve na północnych przedmieściach. Około 7.40 drugi pocisk spadł na Boulevard de Strasbourg, kilkadziesiąt metrów od wejścia do stacji metra przy dworcu [Gare de l’Est](https://pl.wikipedia.org/wiki/Gare_de_l’Est), w porze największego ruchu. Według amerykańskiego oficera Henry'ego W. Millera, autora pierwszej obszernej książki o tym ostrzale, zginęło tam osiem osób, a trzynaście zostało rannych.
+
+Wkrótce na wezwanie policji zbiegli się oficerowie artylerii i lotnictwa. Myśliwce obrony Paryża wzbiły się w powietrze, ale nie znalazły żadnego samolotu, a obserwatorzy na froncie zapewniali, że nikt nie przelatywał nad liniami. Wśród zebranych odłamków znaleziono kawałki miedzi i stali z wyraźnymi śladami bruzd gwintu, czego nie mogła mieć bomba lotnicza. O 9.15 władze kazały uruchomić syreny. Paryżanie znali ich wycie z nocnych nalotów, a teraz usłyszeli je w biały dzień. Ruch w mieście zamarł. Ludzie schodzili do schronów i stacji metra, sklepy i urzędy przerwały pracę. Według Millera już około 9.30 oficerowie artylerii doszli do wniosku, że miasto ostrzeliwuje nowe działo o kalibrze około 21 centymetrów, ustawione zapewne w okolicy [Laon](https://pl.wikipedia.org/wiki/Laon), przy nowych odgałęzieniach kolejowych koło wsi Crépy, które wcześniej wykryło lotnictwo rozpoznawcze. Mimo to komunikat wydany około 10.00 mówił jeszcze o samolotach latających na bardzo dużej wysokości.
+
+Pociski spadały do wczesnego popołudnia. Po 13.00 jeden wybuchł na [placu Republiki](https://pl.wikipedia.org/wiki/Plac_Republiki_w_Paryżu), zabijając dwie osoby. Inne trafiły w ulice IV dzielnicy koło liceum Charlemagne oraz w podparyskie [Pantin](https://pl.wikipedia.org/wiki/Pantin), [Vanves](https://pl.wikipedia.org/wiki/Vanves) i [Châtillon](https://pl.wikipedia.org/wiki/Châtillon_(Hauts-de-Seine)). Ostatni spadł około 14.45 na tory kolejowe w Pantin. Popołudniowy komunikat podał wreszcie, że nieprzyjaciel ostrzeliwał Paryż z działa dalekonośnego, mniej więcej co kwadrans, i że jest „około tuzina zabitych i piętnastu rannych”. Dane o tym pierwszym dniu różnią się w źródłach. Według Millera na Paryż i jego okolice spadło 25 pocisków, które zabiły 16 osób i raniły 29. Francuski historyk wojskowy Alain Huyon naliczył 22 pociski, 18 w mieście i 4 na przedmieściach, oraz około dziesięciu zabitych i piętnastu rannych.
+
+## Działo z Crépy
+
+Działo zbudowały zakłady [Kruppa](https://pl.wikipedia.org/wiki/Friedrich_Krupp_(przedsiębiorstwo)). Jego lufy powstały ze zużytych luf okrętowych dział kalibru 38 centymetrów, w które wstawiono długie wkładki kalibru 21 centymetrów, wystające daleko poza wylot. Z dodatkowym przedłużeniem lufa mierzyła ponad 30 metrów i trzeba ją było podtrzymywać specjalnym usztywnieniem, żeby nie uginała się pod własnym ciężarem. Pocisk ważył około stu kilogramów, ale materiału wybuchowego miał zaledwie kilka kilogramów, więc jego wybuch nie był wiele silniejszy od wybuchu zwykłego pocisku polowego. Wystrzelony z ogromną prędkością początkową, wznosił się na wysokość około 40 kilometrów, do [stratosfery](https://pl.wikipedia.org/wiki/Stratosfera), gdzie rzadkie powietrze prawie nie stawiało oporu, i po około trzech minutach lotu spadał na miasto. Przy takiej odległości balistycy musieli brać pod uwagę nawet ruch obrotowy Ziemi. Każdy strzał zdzierał część gwintu, dlatego kolejne pociski miały coraz większą średnicę, były numerowane i musiały być wystrzeliwane w ściśle określonej kolejności. Po kilkudziesięciu strzałach lufę trzeba było wymienić.
+
+Stanowiska ogniowe przygotowano od końca 1917 roku w lesie u stóp wzgórza Mont de Joie koło [Crépy](https://pl.wikipedia.org/wiki/Crépy_(Aisne)) niedaleko Laon, około 120 kilometrów od centrum Paryża. Ponieważ działo wywodziło się z artylerii okrętowej, obsługiwali je marynarze [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) pod dowództwem wiceadmirała Maximiliana Rogge. Żeby utrudnić Francuzom namierzenie stanowiska po dźwięku, równocześnie strzelały okoliczne baterie ciężkiej artylerii, a niebo nad nimi osłaniały samoloty. Niemcy nazywali tę broń działem paryskim lub działem cesarza Wilhelma. Francuzi od początku mówili o „Bercie” albo „Grubej Bercie”, choć prawdziwa Gruba Berta była moździerzem oblężniczym kalibru 420 mm, który w 1914 roku [burzył forty Liège](/bitwy/bitwa-pod-liege).
+
+## Broń przeciw morale
+
+Działo paryskie nie mogło zniszczyć miasta ani trafić w konkretny cel. Jego zadaniem było zastraszenie mieszkańców Paryża w chwili, gdy na froncie rozgrywała się decydująca ofensywa. Francuskie sekcje namierzania dźwiękowego szybko odróżniły jego huk od pozostałych baterii, a już 24 marca francuska artyleria ciężka zaczęła ostrzeliwać stanowiska koło Crépy. Paryż jednak nie wpadł w panikę. Część mieszkańców wyjechała z miasta, ale pozostali szybko przywykli do ostrzału.
+
+Najtragiczniejszy strzał padł kilka dni później, w [Wielki Piątek](https://pl.wikipedia.org/wiki/Wielki_Piątek) 29 marca, po 16.00. Pocisk trafił w sklepienie [kościoła św. Gerwazego i Protazego](https://pl.wikipedia.org/wiki/Kościół_św._Gerwazego_i_Protazego_w_Paryżu) w czasie nabożeństwa i zawalił część stropu na wiernych. Zginęło około dziewięćdziesięciu osób. Ostrzał z przerwami trwał do 9 sierpnia 1918 roku. Według Huyona na Paryż i okolice spadło łącznie 367 pocisków, które zabiły 256 osób i raniły 620. Gdy alianci przeszli do natarcia, Niemcy wycofali działa, a alianci nigdy nie zdobyli żadnego z nich.

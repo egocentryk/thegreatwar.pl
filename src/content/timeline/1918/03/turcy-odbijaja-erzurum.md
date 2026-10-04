@@ -1,0 +1,22 @@
+---
+title: Turcy odbijają Erzurum
+summary: 12 marca 1918 wojska osmańskie weszły do Erzurum, opuszczonego w nocy przez Ormian Andranika. Twierdzę stracili w lutym 1916 roku na rzecz Rosjan.
+category: Działania zbrojne
+front: Bliski Wschód
+date: 1918-03-12
+authors: [Łukasz Skowroń]
+dayOrder: 3
+tags: [Imperium Osmańskie, Kaukaz, Rosja]
+milestone: false
+draft: false
+---
+
+Rano 12 marca 1918 roku oddziały osmańskiej 3 Armii weszły do [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), największej twierdzy wschodniej Anatolii. Dwa lata wcześniej, w lutym 1916 roku, [zdobyli ją szturmem Rosjanie](/rosjanie-zdobywaja-erzurum). Teraz Turcy odzyskali ją po krótkich walkach. Ostatni obrońcy, ormiańscy żołnierze i ochotnicy generała [Andranika Ozaniana](https://pl.wikipedia.org/wiki/Andranik_Ozanian), wycofali się w nocy z 11 na 12 marca. Tę datę podają zgodnie brytyjska chronologia wojny i brytyjscy historycy wojen kaukaskich W.E.D. Allen i Paweł Muratow, a w Turcji 12 marca obchodzi się jako dzień wyzwolenia Erzurum. Ormiańskie relacje, liczące dni według kalendarza juliańskiego, opisują te same wydarzenia pod koniec lutego.
+
+Po [zajęciu Trapezuntu](/turcy-odbijaja-trapezunt) i Erzincanu dowódca 3 Armii, [Wehib Pasza](https://pl.wikipedia.org/wiki/Wehib_Pasza), ruszył na Erzurum. Według Allena i Muratowa około 25 lutego pod miasto podeszła turecka straż przednia, dwa pułki 36 Kaukaskiej Dywizji z Kurdami, a do 8 marca nadeszły od [Bayburtu](https://pl.wikipedia.org/wiki/Bayburt) kolejne oddziały tej dywizji oraz części 5 i 11 Kaukaskiej Dywizji. Turecka tradycja przypisuje odzyskanie Erzurum przede wszystkim dowódcy I Korpusu Kaukaskiego, Kâzımowi Karabekirowi. Erzurum bronił oddział Andranika, słynnego dowódcy partyzanckiego, awansowanego na generała majora. Allen i Muratow oceniają go na 3 tysiące piechoty i 400 kawalerzystów z ośmioma działami: 1 Pułk Strzelców, batalion 4 Pułku i pięć batalionów ochotników z Erzurum i Erzincanu. W twierdzy zostało wprawdzie mnóstwo rosyjskich dział i amunicji, ale brakowało żywności, dyscypliny i woli walki. Biograf Andranika Antranig Chalabian opisuje, jak ormiańscy żołnierze z Kaukazu odmawiali walki na ziemi tureckiej i masowo dezerterowali, a niektórzy dowódcy cofali się bez rozkazu.
+
+10 i 11 marca Ormianie bili się pod Ilıcą i Tekedere na zachód od miasta, ale tureckie kolumny obeszły ich pozycje od północy i od południa. Przewaga przeciwnika była oczywista i w nocy z 11 na 12 marca Andranik kazał opuścić Erzurum. Rano Turcy weszli do miasta. Walka ormiańskiej straży tylnej przy bramach podniosła straty obrońców pod Erzurum do około 600 zabitych i rannych. Razem z wojskiem uciekały tysiące ormiańskich mieszkańców, którzy przeżyli [ludobójstwo](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian) z 1915 roku albo wrócili do miasta za armią rosyjską. 12 marca dowódca korpusu ormiańskiego, generał Tovmas Nazarbekian, nakazał też ewakuację Hınısu. 14 marca cofający się spod Erzurum Ormianie stali już na dawnej granicy rosyjsko-tureckiej pod Karaurganem.
+
+Upadkowi miasta towarzyszyła przemoc wobec cywilów. Historycy, w tym francuska badaczka Anahide Ter Minassian, piszą, że ormiańscy nieregularni, szukając zemsty, zabijali muzułmanów oraz palili i grabili wsie, a żołnierze osmańscy i Kurdowie mordowali chrześcijan, którzy nie zdążyli uciec. Strona osmańska od razu zaczęła zbierać relacje o zbrodniach na muzułmanach. Według wspomnień Karabekira 15 marca rozmawiał on z rosyjskimi oficerami, którzy zostali w mieście i trafili do niewoli, a jeden z nich, podpułkownik Twierdochlebow, spisał relacje o zachowaniu Ormian, przetłumaczone potem na turecki i francuski. Turecka historiografia opiera się na takich świadectwach i podaje wysokie liczby ofiar, których nie da się dziś dokładnie sprawdzić.
+
+Erzurum był dla Turków bramą do Zakaukazia. Dwa dni po jego zajęciu, 14 marca, w Trapezuncie zaczęła się konferencja pokojowa z delegacją Zakaukazia. Pierwszym punktem obrad był telegram Wehiba Paszy z 10 marca, który żądał natychmiastowego opuszczenia okręgów Karsu, Ardahanu i Batumi, z których Rosja w [traktacie brzeskim](https://pl.wikipedia.org/wiki/Traktat_brzeski) zobowiązała się wycofać wojska. Delegaci zakaukascy odpowiedzieli, że nie uznają traktatu i nie są nim związani. Turcy nie zamierzali jednak czekać. Pod koniec marca ich wojska ruszyły z Erzurum ku dawnej granicy, a 30 marca zajęły graniczny posterunek w Karaurganie, w drodze na [Kars](https://pl.wikipedia.org/wiki/Kars).

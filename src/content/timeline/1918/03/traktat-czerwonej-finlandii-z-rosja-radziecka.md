@@ -1,0 +1,21 @@
+---
+title: Traktat Czerwonej Finlandii z Rosją Radziecką
+summary: 1 marca 1918 w Piotrogrodzie rząd Lenina i fińscy czerwoni podpisali traktat o przyjaźni. Rosja oddawała Finom swoje mienie w kraju i obiecywała Petsamo.
+category: Dyplomacja
+date: 1918-03-01
+authors: [Natalia]
+dayOrder: 1
+tags: [Finlandia, Rosja, Włodzimierz Lenin]
+milestone: false
+draft: false
+---
+
+1 marca 1918 roku w Piotrogrodzie przedstawiciele [Rady Komisarzy Ludowych](https://pl.wikipedia.org/wiki/Rada_Komisarzy_Ludowych_RFSRR) i fińskiego rządu rewolucyjnego podpisali „traktat o umocnieniu przyjaźni i braterstwa” między Rosyjską Federacyjną Republiką Radziecką a Fińską Socjalistyczną Republiką Robotniczą. Za stronę rosyjską podpisali go [Włodzimierz Lenin](https://pl.wikipedia.org/wiki/Włodzimierz_Lenin), [Lew Trocki](https://pl.wikipedia.org/wiki/Lew_Trocki), [Józef Stalin](https://pl.wikipedia.org/wiki/Józef_Stalin) i lewicowy eser Prosz Proszjan, za fińską [Edvard Gylling](https://pl.wikipedia.org/wiki/Edvard_Gylling) i Oskari Tokoi z Ludowej Delegacji Finlandii, rządu czerwonych, na którego czele stał Kullervo Manner. Radzieckie wydawnictwa nazywały go później pierwszym w historii traktatem między dwiema republikami socjalistycznymi. Zawarły go jednak dwa rządy, które same walczyły o przetrwanie.
+
+Nazwa Fińska Socjalistyczna Republika Robotnicza pojawiła się właściwie dopiero w tym dokumencie. Od [początku wojny domowej](/poczatek-wojny-domowej-w-finlandii) Ludowa Delegacja mówiła po prostu o Republice Finlandii. Przymiotniki „socjalistyczna robotnicza” zaproponował w czasie rozmów Lenin, a fińscy delegaci się zgodzili, za co później krytykowali ich towarzysze w Helsinkach, bo o nazwie państwa mieli decydować sami Finowie. Projekt traktatu opracowała rosyjsko-fińska komisja pojednawcza, a Rada Komisarzy Ludowych omawiała go 25, 27 i 28 lutego. Lenin sam poprawiał tekst. Wymógł między innymi, by prawa polityczne Rosjan w Finlandii i Finów w Rosji przysługiwały tylko robotnikom i chłopom, którzy nie zatrudniają cudzej pracy. Tłumaczył, że w Finlandii mieszka około 200 tysięcy piotrogrodzkich burżujów, a w Piotrogrodzie tylko około 30 tysięcy fińskich robotników, więc formalna równość oznaczałaby przywilej dla rosyjskiej burżuazji.
+
+Traktat liczył 20 paragrafów. Rosja przekazywała Finlandii całe mienie państwa rosyjskiego na terenie dawnego Wielkiego Księstwa: ziemie, budynki, fabryki, koleje, telegrafy, twierdze i latarnie morskie, a także statki skonfiskowane w czasie wojny. Finlandia przekazywała Rosji mienie fińskie w Rosji. Obie strony zapewniały sobie swobodę żeglugi, bezpośrednie połączenia kolejowe i rozmowy o traktacie handlowym. Fińscy czerwoni zobowiązali się nie przeszkadzać w wycofywaniu z kraju rosyjskiego wojska i floty. Rosja zatrzymywała na 50 lat linie kablowe łączące Piotrogród ze Sztokholmem i Europą Zachodnią. Spory miał rozstrzygać sąd rozjemczy, którego przewodniczącego wskazywał zarząd szwedzkiej Lewicowej Partii Socjaldemokratycznej.
+
+Najwięcej emocji budziła granica. Rosja oddawała Finlandii, „jeśli taka będzie wola mieszkańców”, obszar [Petsamo](https://pl.wikipedia.org/wiki/Peczenga) nad Oceanem Arktycznym, o który Finowie zabiegali od dawna. Ludowa Delegacja zrzekała się w zamian fortu Ino na brzegu Zatoki Fińskiej, ważnego dla obrony Piotrogrodu. Część fińskich czerwonych chciała więcej, także rosyjskiej Karelii, ale tę sprawę zostawiono na później. Według fińskich historyków Gylling liczył, że traktat ograniczy rosyjskie wpływy w Finlandii i ułatwi w przyszłości rozmowy z białymi.
+
+Dla bolszewików porozumienie miało małe znaczenie wobec rokowań z Niemcami, a o losie Czerwonej Finlandii rozstrzygały w istocie decyzje Berlina i Piotrogrodu. Już dwa dni później, w traktacie brzeskim, Rosja zobowiązała się wycofać swoje wojska z Finlandii i zaprzestać agitacji przeciw jej rządowi, co odbierało czerwonym nadzieję na rosyjską pomoc w [wojnie domowej](https://pl.wikipedia.org/wiki/Wojna_domowa_w_Finlandii). Biali w Vaasie, [uznani](/uznanie-niepodleglosci-finlandii) przez Niemcy i część Europy za prawowity rząd, zawarli kilka dni później własny traktat z Berlinem. Traktat z 1 marca nigdy nie wszedł w życie. Wiosną 1918 roku czerwoni przegrali wojnę, a Fińska Socjalistyczna Republika Robotnicza przestała istnieć.
