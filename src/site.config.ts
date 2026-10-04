@@ -8,7 +8,7 @@ export const SITE = {
     "Wielka Wojna zapisana przez daty, wydarzenia, rozkazy i polityczne decyzje.",
   description:
     "Polska kronika I wojny światowej. Wydarzenia z lat 1914–1918 dzień po dniu: bitwy, decyzje polityczne, rozkazy i losy ludzi.",
-  status: "Projekt w ciągłym przygotowaniu · ETA / Q4 2027",
+  status: "Kompletna kronika Wielkiej Wojny · 1914-1918",
   // Default social preview (public/og-image.png), used when a page sets no image.
   ogImage: "/og-image.png",
   social: [

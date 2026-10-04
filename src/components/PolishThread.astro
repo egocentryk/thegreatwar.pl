@@ -1,0 +1,99 @@
+---
+import { getCollection } from "astro:content"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { POLISH_THREAD } from "@/data/homepage"
+import { pluralPl } from "@/utils/pluralPl"
+import { requireTimeline } from "@/utils/requireEntry"
+import { slugify } from "@/utils/slugify"
+
+const TAG = "Polska"
+
+const dayMonth = new Intl.DateTimeFormat("pl-PL", {
+  day: "numeric",
+  month: "short",
+  timeZone: "UTC",
+})
+
+const steps = (await Promise.all(POLISH_THREAD.map(requireTimeline)))
+  .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf())
+  .map((entry) => ({
+    href: `/${entry.id}`,
+    title: entry.data.title,
+    summary: entry.data.summary,
+    day: dayMonth.format(entry.data.date),
+    year: entry.data.date.getUTCFullYear(),
+    milestone: entry.data.milestone,
+  }))
+
+const tagged = (
+  await getCollection(
+    "timeline",
+    ({ data }) => !data.draft && data.tags.includes(TAG),
+  )
+).length
+---
+
+<section id="polska" class="mx-auto max-w-3xl px-6 pb-20">
+  <SectionHeading eyebrow="Polska w Wielkiej Wojnie" count={steps.length} />
+
+  <div class="border-line bg-surface relative overflow-hidden rounded-sm border">
+    <span
+      class="bg-signal absolute inset-y-0 left-0 w-1"
+      aria-hidden="true"
+    ></span>
+
+    <div class="p-6 sm:p-8">
+      <p class="font-display text-ink max-w-lg text-2xl leading-snug sm:text-3xl">
+        Od trzech zaborów do niepodległości.
+      </p>
+      <p class="text-ink-soft mt-3 max-w-lg text-sm leading-6">
+        Front wschodni przetoczył się przez ziemie polskie, a Polacy walczyli w
+        trzech armiach zaborców i we własnych formacjach. Wojna, która zaczęła
+        się bez Polski, skończyła się jej odrodzeniem.
+      </p>
+
+      <ol class="mt-8">
+        {
+          steps.map((step, index) => (
+            <li class="group relative grid grid-cols-[4.5rem_minmax(0,1fr)] gap-4 pb-6 last:pb-0 sm:grid-cols-[6rem_minmax(0,1fr)]">
+              {index < steps.length - 1 && (
+                <span
+                  class="bg-line absolute top-4 -bottom-1.5 left-[calc(5.5rem+5px)] w-px sm:left-[calc(7rem+5px)]"
+                  aria-hidden="true"
+                />
+              )}
+              <span class="pt-0.5 text-right font-mono leading-tight">
+                <span class="text-ink block text-xs">{step.year}</span>
+                <span class="text-ink-soft block text-[10px]">{step.day}</span>
+              </span>
+              <a href={step.href} class="relative block pl-5">
+                <span
+                  class:list={[
+                    "absolute top-1.5 left-0 z-10 size-[11px] rounded-full border-2 transition-colors",
+                    step.milestone
+                      ? "bg-signal border-signal"
+                      : "bg-surface border-ink/30 group-hover:border-signal",
+                  ]}
+                  aria-hidden="true"
+                />
+                <span class="text-ink group-hover:text-signal block leading-snug transition-colors">
+                  {step.title}
+                </span>
+                <span class="text-ink-soft mt-1 line-clamp-2 block text-xs leading-5">
+                  {step.summary}
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ol>
+
+      <a
+        href={`/tag/${slugify(TAG)}`}
+        class="text-signal mt-8 inline-block font-mono text-xs hover:underline"
+      >
+        {`Wszystkie ${tagged} ${pluralPl(tagged, "wydarzenie", "wydarzenia", "wydarzeń")} z tagiem „${TAG}” →`}
+      </a>
+    </div>
+  </div>
+</section>

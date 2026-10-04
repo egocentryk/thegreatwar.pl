@@ -1,0 +1,140 @@
+---
+import SectionHeading from "@/components/SectionHeading.astro"
+import { TURNING_POINTS } from "@/data/homepage"
+import { requireTimeline } from "@/utils/requireEntry"
+
+const dayMonth = new Intl.DateTimeFormat("pl-PL", {
+  day: "numeric",
+  month: "long",
+  timeZone: "UTC",
+})
+
+const points = (await Promise.all(TURNING_POINTS.map(requireTimeline)))
+  .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf())
+  .map((entry, index, all) => {
+    const year = entry.data.date.getUTCFullYear()
+    const previous = all[index - 1]?.data.date.getUTCFullYear()
+    return {
+      href: `/${entry.id}`,
+      title: entry.data.title,
+      summary: entry.data.summary,
+      day: dayMonth.format(entry.data.date),
+      year,
+      // The year label sits only on the first point of each year.
+      firstOfYear: year !== previous,
+    }
+  })
+---
+
+<section
+  id="kamienie-milowe"
+  class="mx-auto max-w-3xl px-6 pb-20"
+  data-turning-points
+>
+  <SectionHeading eyebrow="Kamienie milowe" count={points.length} />
+
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+      Dni, które zmieniły bieg wojny.
+    </p>
+    <div class="hidden gap-2 sm:flex">
+      <button
+        type="button"
+        data-scroll="-1"
+        aria-label="Wcześniejsze"
+        class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex size-9 cursor-pointer items-center justify-center rounded-sm border font-mono text-sm transition-colors disabled:cursor-default disabled:opacity-30"
+      >
+        ←
+      </button>
+      <button
+        type="button"
+        data-scroll="1"
+        aria-label="Późniejsze"
+        class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex size-9 cursor-pointer items-center justify-center rounded-sm border font-mono text-sm transition-colors disabled:cursor-default disabled:opacity-30"
+      >
+        →
+      </button>
+    </div>
+  </div>
+
+  <div class="relative mt-8">
+    <ol
+      data-track
+      class="turning-track -mx-6 flex snap-x snap-mandatory scroll-px-6 overflow-x-auto scroll-smooth px-6 pb-4"
+    >
+      {
+        points.map((point) => (
+          <li class="group relative w-56 shrink-0 snap-start pr-6 sm:w-60">
+            <span
+              class:list={[
+                "font-display block h-9 text-3xl leading-none font-medium",
+                point.firstOfYear ? "text-signal" : "invisible",
+              ]}
+              aria-hidden={!point.firstOfYear}
+            >
+              {point.year}
+            </span>
+
+            <span class="relative mt-3 mb-4 block h-px" aria-hidden="true">
+              <span class="bg-line absolute inset-x-0 -right-6 top-0 h-px" />
+              <span class="bg-paper border-signal group-hover:bg-signal absolute -top-[5px] left-0 size-[11px] rounded-full border-2 transition-colors" />
+            </span>
+
+            <a href={point.href} class="block">
+              <span class="text-ink-soft font-mono text-[11px]">
+                {point.day} {point.year}
+              </span>
+              <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg leading-snug transition-colors">
+                {point.title}
+              </span>
+              <span class="text-ink-soft mt-2 line-clamp-3 block text-xs leading-5">
+                {point.summary}
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</section>
+
+<style>
+  /* Fade the right edge so the strip reads as scrollable. */
+  .turning-track {
+    scrollbar-width: thin;
+    mask-image: linear-gradient(
+      to right,
+      black calc(100% - 4rem),
+      transparent 100%
+    );
+  }
+</style>
+
+<script>
+  function initTurningPoints() {
+    const section = document.querySelector("[data-turning-points]")
+    const track = section?.querySelector<HTMLElement>("[data-track]")
+    if (!section || !track) return
+
+    const buttons = [
+      ...section.querySelectorAll<HTMLButtonElement>("[data-scroll]"),
+    ]
+    const update = () => {
+      const max = track.scrollWidth - track.clientWidth - 2
+      for (const button of buttons) {
+        const dir = Number(button.dataset.scroll)
+        button.disabled = dir < 0 ? track.scrollLeft <= 2 : track.scrollLeft >= max
+      }
+    }
+    for (const button of buttons) {
+      button.addEventListener("click", () => {
+        const step = track.clientWidth * 0.8
+        track.scrollBy({ left: Number(button.dataset.scroll) * step })
+      })
+    }
+    track.addEventListener("scroll", update, { passive: true })
+    update()
+  }
+
+  document.addEventListener("astro:page-load", initTurningPoints)
+</script>

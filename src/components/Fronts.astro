@@ -1,0 +1,101 @@
+---
+import { getCollection } from "astro:content"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { FRONT_NOTES } from "@/data/homepage"
+import { pluralPl } from "@/utils/pluralPl"
+import { slugify } from "@/utils/slugify"
+
+const YEARS = [1914, 1915, 1916, 1917, 1918]
+
+const entries = await getCollection("timeline", ({ data }) => !data.draft)
+const battles = await getCollection("battles", ({ data }) => !data.draft)
+
+const fronts = Object.entries(FRONT_NOTES).map(([front, note]) => {
+  const frontEntries = entries.filter((entry) => entry.data.front === front)
+  const perYear = YEARS.map(
+    (year) =>
+      frontEntries.filter((entry) => entry.data.date.getUTCFullYear() === year)
+        .length,
+  )
+  return {
+    front,
+    note,
+    slug: slugify(front),
+    eventCount: frontEntries.length,
+    battleCount: battles.filter((battle) => battle.data.front === front).length,
+    perYear,
+  }
+})
+// One scale for every card, so the theatres compare at a glance; the bars
+// use its square root so small theatres still show their shape.
+const busiestYear = Math.max(...fronts.flatMap((front) => front.perYear))
+---
+
+<section id="fronty" class="mx-auto max-w-3xl px-6 pb-20">
+  <SectionHeading eyebrow="Fronty" count={fronts.length} />
+
+  <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+    Wojna na wszystkich kontynentach i morzach.
+  </p>
+
+  <ul class="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2">
+    {
+      fronts.map((front) => (
+        <li class="group border-line bg-surface hover:border-signal flex flex-col rounded-sm border p-5 transition-colors">
+          <div class="flex items-start justify-between gap-4">
+            <h3 class="font-display text-ink group-hover:text-signal text-xl leading-snug transition-colors">
+              <a href={`/front/${front.slug}`}>{front.front}</a>
+            </h3>
+            <span class="font-display text-ink text-3xl leading-none font-medium tabular-nums">
+              {front.eventCount}
+            </span>
+          </div>
+          <p class="text-ink-soft mt-2 text-sm leading-6">{front.note}</p>
+
+          <div class="mt-auto pt-5">
+            <div
+              class="flex h-10 items-end gap-1.5"
+              aria-label={`Wydarzenia w kolejnych latach: ${front.perYear.join(", ")}`}
+            >
+              {front.perYear.map((count, index) => (
+                <span
+                  class="bg-ink/25 group-hover:bg-signal/60 block flex-1 rounded-t-[2px] transition-colors"
+                  style={`height: ${count ? Math.max(6, Math.round(Math.sqrt(count / busiestYear) * 100)) : 0}%`}
+                  title={`${YEARS[index]}: ${count}`}
+                />
+              ))}
+            </div>
+            <div
+              class="text-ink-soft border-line mt-1 flex gap-1.5 border-t pt-1 font-mono text-[9px]"
+              aria-hidden="true"
+            >
+              {YEARS.map((year) => (
+                <span class="flex-1 text-center">'{String(year).slice(2)}</span>
+              ))}
+            </div>
+
+            <div class="mt-4 flex flex-wrap gap-x-4 gap-y-1 font-mono text-xs">
+              <a
+                href={`/front/${front.slug}`}
+                class="text-signal hover:underline"
+              >
+                {front.eventCount}{" "}
+                {pluralPl(front.eventCount, "wydarzenie", "wydarzenia", "wydarzeń")}{" "}
+                →
+              </a>
+              {front.battleCount > 0 && (
+                <a
+                  href={`/bitwy#${front.slug}`}
+                  class="text-ink-soft hover:text-signal transition-colors"
+                >
+                  {front.battleCount}{" "}
+                  {pluralPl(front.battleCount, "bitwa", "bitwy", "bitew")} →
+                </a>
+              )}
+            </div>
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+</section>

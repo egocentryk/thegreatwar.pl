@@ -1,0 +1,140 @@
+---
+import { getCollection } from "astro:content"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { WAR_YEARS } from "@/data/homepage"
+import { getTimelineMonthSlug } from "@/utils/groupTimelineEntries"
+import { pluralPl } from "@/utils/pluralPl"
+import { requireTimeline } from "@/utils/requireEntry"
+
+const entries = await getCollection("timeline", ({ data }) => !data.draft)
+const battles = await getCollection("battles", ({ data }) => !data.draft)
+
+const monthNames = new Intl.DateTimeFormat("pl-PL", {
+  month: "long",
+  timeZone: "UTC",
+})
+
+// Events per month of each year, for the bar strip on every card.
+const perMonth = new Map<string, number>()
+for (const entry of entries) {
+  const d = entry.data.date
+  const key = `${d.getUTCFullYear()}-${d.getUTCMonth()}`
+  perMonth.set(key, (perMonth.get(key) ?? 0) + 1)
+}
+// One scale for all five years, so busy and quiet months compare honestly.
+const busiest = Math.max(...perMonth.values())
+
+const years = await Promise.all(
+  WAR_YEARS.map(async ({ year, summary, highlights }) => {
+    const months = Array.from({ length: 12 }, (_, month) => {
+      const count = perMonth.get(`${year}-${month}`) ?? 0
+      return {
+        count,
+        href: `/timeline/${year}/${getTimelineMonthSlug(month)}`,
+        label: `${monthNames.format(new Date(Date.UTC(year, month, 1)))} ${year}`,
+        // Square root keeps quiet months visible next to August 1914.
+        height: count
+          ? Math.max(8, Math.round(Math.sqrt(count / busiest) * 100))
+          : 0,
+      }
+    })
+    const eventCount = entries.filter(
+      (entry) => entry.data.date.getUTCFullYear() === year,
+    ).length
+    const battleCount = battles.filter(
+      (battle) => battle.data.startDate.getUTCFullYear() === year,
+    ).length
+    return {
+      year,
+      summary,
+      months,
+      eventCount,
+      battleCount,
+      highlights: await Promise.all(highlights.map(requireTimeline)),
+    }
+  }),
+)
+---
+
+<section id="lata-wojny" class="mx-auto max-w-3xl px-6 pb-20">
+  <SectionHeading eyebrow="Lata wojny" count={years.length} />
+
+  <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+    Pięć lat, od Sarajewa po rozejm.
+  </p>
+
+  <ol class="border-line mt-8 border-t">
+    {
+      years.map((y) => (
+        <li class="group/year border-line grid grid-cols-1 gap-x-8 gap-y-4 border-b py-8 sm:grid-cols-[9rem_minmax(0,1fr)]">
+          <div>
+            <a
+              href={`/timeline/${y.year}`}
+              class="font-display text-ink hover:text-signal group-hover/year:text-signal block text-6xl leading-none font-medium tracking-tight transition-colors sm:text-7xl"
+            >
+              {y.year}
+            </a>
+            <p class="text-ink-soft mt-3 font-mono text-[11px] leading-5">
+              {y.eventCount}{" "}
+              {pluralPl(y.eventCount, "wydarzenie", "wydarzenia", "wydarzeń")}
+              <br />
+              {y.battleCount}{" "}
+              {pluralPl(y.battleCount, "bitwa", "bitwy", "bitew")}
+            </p>
+          </div>
+
+          <div class="min-w-0">
+            <p class="text-ink-soft text-sm leading-6">{y.summary}</p>
+
+            <div
+              class="mt-5 flex h-14 items-end gap-1"
+              aria-label={`Liczba wydarzeń w kolejnych miesiącach ${y.year} roku`}
+            >
+              {y.months.map((m) =>
+                m.count ? (
+                  <a
+                    href={m.href}
+                    title={`${m.label}: ${m.count}`}
+                    aria-label={`${m.label}: ${m.count}`}
+                    class="bg-ink/25 hover:bg-signal! group-hover/year:bg-signal/50 block flex-1 rounded-t-[2px] transition-colors"
+                    style={`height: ${m.height}%`}
+                  />
+                ) : (
+                  <span
+                    class="border-line block h-px flex-1 border-t border-dashed"
+                    aria-hidden="true"
+                  />
+                ),
+              )}
+            </div>
+            <div
+              class="text-ink-soft mt-1 flex gap-1 font-mono text-[9px] uppercase"
+              aria-hidden="true"
+            >
+              {"SLMKMCLSWPLG".split("").map((letter) => (
+                <span class="flex-1 text-center">{letter}</span>
+              ))}
+            </div>
+
+            <ul class="mt-5 flex flex-wrap gap-2">
+              {y.highlights.map((entry) => (
+                <li>
+                  <a
+                    href={`/${entry.id}`}
+                    class="border-line text-ink hover:border-signal hover:text-signal inline-flex items-center gap-2 rounded-full border px-3 py-1 text-xs transition-colors"
+                  >
+                    <span
+                      class="bg-signal size-1.5 shrink-0 rounded-full"
+                      aria-hidden="true"
+                    />
+                    {entry.data.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </li>
+      ))
+    }
+  </ol>
+</section>

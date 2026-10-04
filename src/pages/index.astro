@@ -1,30 +1,23 @@
 ---
 import { getCollection } from "astro:content"
-import TimelineArchive from "@/components/TimelineArchive.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import Button from "@/components/Button.astro"
+import Fronts from "@/components/Fronts.astro"
+import OnThisDay from "@/components/OnThisDay.astro"
+import PolishThread from "@/components/PolishThread.astro"
 import RandomBattles from "@/components/RandomBattles.astro"
 import RandomEvents from "@/components/RandomEvents.astro"
+import ReadingPath from "@/components/ReadingPath.astro"
+import Search from "@/components/Search.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
+import TurningPoints from "@/components/TurningPoints.astro"
+import WarYears from "@/components/WarYears.astro"
 import { SITE } from "@/site.config"
-import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 
 const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
-const homepageTimeline = [...allTimeline]
-  .sort((a, b) => {
-    const dateDifference = b.data.date.valueOf() - a.data.date.valueOf()
-
-    if (dateDifference !== 0) {
-      return dateDifference
-    }
-
-    return (b.data.dayOrder ?? 0) - (a.data.dayOrder ?? 0)
-  })
-  .slice(0, 5)
-const homepageTimelineByYear = groupTimelineEntries(homepageTimeline)
 
 const allBattles = await getCollection("battles", ({ data }) => !data.draft)
-// Month of the latest entry, e.g. "VI–X 1914": how far the chronicle has got.
+// Covered period, e.g. "VI 1914 – XII 1918", from the first and last entry.
 const romanMonths = [
   "I",
   "II",
@@ -43,7 +36,10 @@ const firstDate = allTimeline.reduce(
   (min, e) => (e.data.date < min ? e.data.date : min),
   allTimeline[0].data.date,
 )
-const lastDate = homepageTimeline[0].data.date
+const lastDate = allTimeline.reduce(
+  (max, e) => (e.data.date > max ? e.data.date : max),
+  allTimeline[0].data.date,
+)
 const monthLabel = (d: Date) => romanMonths[d.getUTCMonth()]
 const coveredUntil =
   firstDate.getUTCFullYear() === lastDate.getUTCFullYear()
@@ -78,30 +74,19 @@ const coveredUntil =
     </div>
   </section>
 
-  <section id="timeline" class="mx-auto max-w-3xl px-6 pb-20">
-    <SectionHeading
-      eyebrow="Ostatnio dodane wydarzenia"
-      count={allTimeline.length}
-    />
-    <TimelineArchive
-      timelineByYear={homepageTimelineByYear}
-      renderAllYears={true}
-      showYearNav={false}
-      showBackLink={false}
-    />
-    {
-      allTimeline.length > homepageTimeline.length && (
-        <div class="mt-6">
-          <a
-            href="/timeline"
-            class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
-          >
-            View all {allTimeline.length} entries →
-          </a>
-        </div>
-      )
-    }
-  </section>
+  <Search />
+
+  <OnThisDay />
+
+  <WarYears />
+
+  <TurningPoints />
+
+  <ReadingPath />
+
+  <Fronts />
+
+  <PolishThread />
 
   <RandomEvents />
 
@@ -110,7 +95,7 @@ const coveredUntil =
   <section id="about" class="mx-auto max-w-3xl px-6 pb-20">
     <SectionHeading eyebrow="O projekcie" />
     <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
-      Polska kronika Wielkiej Wojny, spisywana dzień po dniu.
+      Polska kronika Wielkiej Wojny, zapisana dzień po dniu.
     </p>
     <p class="text-ink-soft mt-6 max-w-xl">
       Opisujemy wydarzenia z lat 1914–1918 w takiej kolejności, w jakiej
@@ -120,7 +105,7 @@ const coveredUntil =
       przetoczyła się znaczna część walk na froncie wschodnim.
     </p>
 
-    <dl class="border-line mt-8 grid max-w-xl grid-cols-3 gap-4 border-t pt-6">
+    <dl class="border-line mt-8 grid max-w-xl grid-cols-[1fr_0.75fr_1.75fr] gap-4 border-t pt-6">
       <div>
         <dt class="text-ink-soft font-mono text-xs">Wydarzenia</dt>
         <dd class="font-display text-ink mt-1 text-2xl">

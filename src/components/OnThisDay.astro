@@ -1,0 +1,264 @@
+---
+import { getCollection } from "astro:content"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { toCalendarLeaf, type CalendarLeaf } from "@/utils/calendarLeaf"
+
+// Up to this many events per year; the rest sit behind a link to the month.
+const PER_YEAR = 3
+
+const entries = await getCollection("timeline", ({ data }) => !data.draft)
+
+// Build-time default, shown without JavaScript: the Armistice day.
+// On every visit the script swaps it for today's day and month.
+const DEFAULT_MONTH_DAY = "11-11"
+const initial = entries
+  .map(toCalendarLeaf)
+  .filter((leaf) => leaf.date.slice(5) === DEFAULT_MONTH_DAY)
+
+function groupByYear(leaves: CalendarLeaf[]) {
+  const years = new Map<string, CalendarLeaf[]>()
+  for (const leaf of [...leaves].sort(
+    (a, b) => a.year.localeCompare(b.year) || b.dayOrder - a.dayOrder,
+  )) {
+    years.set(leaf.year, [...(years.get(leaf.year) ?? []), leaf])
+  }
+  return [...years].map(([year, items]) => ({ year, items }))
+}
+
+const initialYears = groupByYear(initial)
+const dayLabel = new Intl.DateTimeFormat("pl-PL", {
+  day: "numeric",
+  month: "long",
+  timeZone: "UTC",
+}).format(new Date(`1918-${DEFAULT_MONTH_DAY}T00:00:00Z`))
+---
+
+<section
+  id="tego-dnia"
+  class="mx-auto max-w-3xl px-6 pb-20"
+  data-on-this-day
+  data-per-year={PER_YEAR}
+>
+  <SectionHeading eyebrow="Tego dnia w czasie Wielkiej Wojny" />
+
+  <p class="font-display text-ink text-2xl leading-snug sm:text-3xl">
+    <span data-day-label>{dayLabel}</span>
+  </p>
+  <p class="text-ink-soft mt-2 max-w-md text-sm" data-note>
+    Co działo się tego dnia w kolejnych latach wojny.
+  </p>
+
+  <ol class="mt-8 space-y-8" data-years aria-live="polite">
+    {
+      initialYears.map(({ year, items }) => (
+        <li class="grid grid-cols-1 gap-3 sm:grid-cols-[5rem_minmax(0,1fr)]">
+          <span class="text-signal font-mono text-sm" data-year>
+            {year}
+          </span>
+          <ul class="border-line space-y-4 border-l pl-4" data-items>
+            {items.slice(0, PER_YEAR).map((leaf, index) => (
+              <li>
+                <a href={leaf.href} class="group block" data-href>
+                  <span class="text-ink-soft flex items-center gap-2 font-mono text-[10px] tracking-[0.15em] uppercase">
+                    <span
+                      data-milestone
+                      title="Kluczowe wydarzenie"
+                      class:list={[
+                        "bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4",
+                        !leaf.milestone && "hidden",
+                      ]}
+                    />
+                    <span data-meta class="truncate">
+                      {[leaf.category, leaf.front].filter(Boolean).join(" · ")}
+                    </span>
+                  </span>
+                  <span
+                    data-title
+                    class="font-display text-ink group-hover:text-signal mt-1 block text-lg leading-snug transition-colors"
+                  >
+                    {leaf.title}
+                  </span>
+                  {index === 0 && (
+                    <span
+                      data-summary
+                      class="text-ink-soft mt-1 block text-sm leading-6"
+                    >
+                      {leaf.summary}
+                    </span>
+                  )}
+                </a>
+              </li>
+            ))}
+            {items.length > PER_YEAR && (
+              <li>
+                <a
+                  href={`/timeline/${year}/${DEFAULT_MONTH_DAY.slice(0, 2)}`}
+                  class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+                  data-more
+                >
+                  {`+${items.length - PER_YEAR} więcej tego dnia →`}
+                </a>
+              </li>
+            )}
+          </ul>
+        </li>
+      ))
+    }
+  </ol>
+
+  <template data-year-template>
+    <li class="grid grid-cols-1 gap-3 sm:grid-cols-[5rem_minmax(0,1fr)]">
+      <span class="text-signal font-mono text-sm" data-year></span>
+      <ul class="border-line space-y-4 border-l pl-4" data-items></ul>
+    </li>
+  </template>
+
+  <template data-item-template>
+    <li>
+      <a class="group block" data-href>
+        <span
+          class="text-ink-soft flex items-center gap-2 font-mono text-[10px] tracking-[0.15em] uppercase"
+        >
+          <span
+            data-milestone
+            title="Kluczowe wydarzenie"
+            class="bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4"
+          ></span>
+          <span data-meta class="truncate"></span>
+        </span>
+        <span
+          data-title
+          class="font-display text-ink group-hover:text-signal mt-1 block text-lg leading-snug transition-colors"
+        ></span>
+        <span data-summary class="text-ink-soft mt-1 block text-sm leading-6"
+        ></span>
+      </a>
+    </li>
+  </template>
+
+  <template data-more-template>
+    <li>
+      <a
+        class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+        data-more></a>
+    </li>
+  </template>
+
+  <div class="mt-8">
+    <a
+      href="/timeline"
+      class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
+    >
+      Cała oś czasu ({entries.length}) →
+    </a>
+  </div>
+</section>
+
+<script>
+  import type { CalendarLeaf } from "@/utils/calendarLeaf"
+
+  // How far back to look when today has no entries (e.g. early in the year
+  // before the war began in 1914 — every later day is covered).
+  const MAX_LOOKBACK_DAYS = 14
+
+  const dayFormatter = new Intl.DateTimeFormat("pl-PL", {
+    day: "numeric",
+    month: "long",
+  })
+
+  const monthDay = (d: Date) =>
+    `${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`
+
+  function cloneTemplate(section: Element, name: string) {
+    const template = section.querySelector<HTMLTemplateElement>(
+      `[data-${name}-template]`,
+    )
+    return template?.content.firstElementChild?.cloneNode(true) as
+      | HTMLElement
+      | undefined
+  }
+
+  function render(section: Element, leaves: CalendarLeaf[], key: string) {
+    const list = section.querySelector("[data-years]")
+    if (!list) return
+    const perYear = Number(section.getAttribute("data-per-year")) || 3
+
+    const years = new Map<string, CalendarLeaf[]>()
+    for (const leaf of [...leaves].sort(
+      (a, b) => a.year.localeCompare(b.year) || b.dayOrder - a.dayOrder,
+    )) {
+      years.set(leaf.year, [...(years.get(leaf.year) ?? []), leaf])
+    }
+
+    list.replaceChildren()
+    for (const [year, items] of years) {
+      const yearEl = cloneTemplate(section, "year")
+      if (!yearEl) return
+      yearEl.querySelector("[data-year]")!.textContent = year
+      const itemsEl = yearEl.querySelector("[data-items]")!
+
+      items.slice(0, perYear).forEach((leaf, index) => {
+        const item = cloneTemplate(section, "item")
+        if (!item) return
+        item.querySelector("[data-href]")?.setAttribute("href", leaf.href)
+        item.querySelector("[data-meta]")!.textContent = [
+          leaf.category,
+          leaf.front,
+        ]
+          .filter(Boolean)
+          .join(" · ")
+        item.querySelector("[data-title]")!.textContent = leaf.title
+        const summary = item.querySelector("[data-summary]")!
+        if (index === 0) summary.textContent = leaf.summary
+        else summary.remove()
+        item
+          .querySelector("[data-milestone]")
+          ?.classList.toggle("hidden", !leaf.milestone)
+        itemsEl.append(item)
+      })
+
+      if (items.length > perYear) {
+        const more = cloneTemplate(section, "more")
+        const link = more?.querySelector("[data-more]")
+        if (more && link) {
+          link.setAttribute("href", `/timeline/${year}/${key.slice(0, 2)}`)
+          link.textContent = `+${items.length - perYear} więcej tego dnia →`
+          itemsEl.append(more)
+        }
+      }
+      list.append(yearEl)
+    }
+  }
+
+  async function initOnThisDay() {
+    const section = document.querySelector("[data-on-this-day]")
+    if (!section) return
+
+    const leaves: CalendarLeaf[] = await fetch("/kartki.json")
+      .then((response) => (response.ok ? response.json() : []))
+      .catch(() => [])
+    if (!leaves.length) return
+
+    const today = new Date()
+    for (let back = 0; back <= MAX_LOOKBACK_DAYS; back++) {
+      const day = new Date(today)
+      day.setDate(today.getDate() - back)
+      const key = monthDay(day)
+      const matches = leaves.filter((leaf) => leaf.date.slice(5) === key)
+      if (!matches.length) continue
+
+      render(section, matches, key)
+      const label = section.querySelector("[data-day-label]")
+      if (label) label.textContent = dayFormatter.format(day)
+      const note = section.querySelector("[data-note]")
+      if (note && back > 0) {
+        note.textContent =
+          "Na dzisiejszą datę nie mamy wpisów, więc pokazujemy najbliższy wcześniejszy dzień."
+      }
+      return
+    }
+  }
+
+  // astro:page-load fires on the first load and after every client-side navigation.
+  document.addEventListener("astro:page-load", initOnThisDay)
+</script>

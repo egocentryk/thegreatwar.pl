@@ -12,6 +12,10 @@ export interface CalendarLeaf {
   month: string
   year: string
   milestone: boolean
+  // ISO date (YYYY-MM-DD) and same-day order, used by the homepage
+  // "Tego dnia" section to match today's day and month.
+  date: string
+  dayOrder: number
 }
 
 // Standalone month name, as printed on a calendar: "czerwiec", not "czerwca".
@@ -21,7 +25,8 @@ const monthFormatter = new Intl.DateTimeFormat("pl-PL", {
 })
 
 export function toCalendarLeaf(entry: CollectionEntry<"timeline">): CalendarLeaf {
-  const { title, summary, category, front, date, milestone } = entry.data
+  const { title, summary, category, front, date, milestone, dayOrder } =
+    entry.data
   return {
     href: `/${entry.id}`,
     title,
@@ -32,5 +37,7 @@ export function toCalendarLeaf(entry: CollectionEntry<"timeline">): CalendarLeaf
     month: monthFormatter.format(date),
     year: String(date.getUTCFullYear()),
     milestone,
+    date: date.toISOString().slice(0, 10),
+    dayOrder: dayOrder ?? 0,
   }
 }
