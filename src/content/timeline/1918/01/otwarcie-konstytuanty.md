@@ -1,0 +1,31 @@
+---
+title: Otwarcie Zgromadzenia Ustawodawczego
+summary: 18 stycznia 1918 w Piotrogrodzie zebrała się Konstytuanta. Wybrała Czernowa na przewodniczącego i odrzuciła deklarację bolszewików, którzy opuścili salę.
+category: Polityka
+date: 1918-01-18
+authors: [Natalia]
+dayOrder: 1
+tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
+milestone: false
+draft: false
+---
+
+18 stycznia 1918 roku (5 stycznia według kalendarza juliańskiego) w [Pałacu Taurydzkim](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) w Piotrogrodzie zebrało się wreszcie [Wszechrosyjskie Zgromadzenie Ustawodawcze](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze). Pierwotny termin, 11 grudnia, [skończył się niczym](/niedoszle-otwarcie-konstytuanty): na miejscu było za mało posłów, a rząd Lenina uzależnił otwarcie od zarejestrowania się 400 deputowanych. Teraz kworum było, choć zgromadzenie, w którym większość mieli eserowcy, zbierało się w mieście kontrolowanym przez bolszewików. Dzień zaczął się od strzałów do pochodu obrońców Konstytuanty, a skończył po północy wyjściem z sali bolszewików i ich sojuszników.
+
+## Strzały na Litiejnym
+
+Pochód w obronie Konstytuanty przygotował Związek Obrony Zgromadzenia Ustawodawczego, w którym działali głównie eserowcy i mienszewicy. Wojskowa komisja [Partii Socjalistów-Rewolucjonistów](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów) liczyła na poparcie części garnizonu, w tym pułków Siemionowskiego i Preobrażeńskiego, ale Komitet Centralny partii odrzucił zbrojne wystąpienie jako niepotrzebne ryzyko. Demonstranci mieli przyjść bez broni. Władze zakazały wieców w okolicy Pałacu Taurydzkiego, a gazety bolszewickie przedstawiały pochód jako dzieło „burżujów” i zwolenników generała Kaledina. Ulice prowadzące do pałacu obsadziły oddziały [Czerwonej Gwardii](https://pl.wikipedia.org/wiki/Czerwona_Gwardia_(Rosja)), marynarze i pewne pułki garnizonu.
+
+Rano kolumny ruszyły z [Pola Marsowego](https://pl.wikipedia.org/wiki/Pole_Marsowe_(Petersburg)) i z dzielnic robotniczych. Szli w nich przede wszystkim studenci, urzędnicy i inteligencja, ale także robotnicy kilku wielkich zakładów, między innymi Obuchowskich. Na [Prospekcie Litiejnym](https://pl.wikipedia.org/wiki/Prospekt_Litiejny), w pobliżu skrzyżowań z ulicami Kiroczną i Fursztacką, oraz w kilku innych miejscach do pochodów otwarto ogień. Ludzie rozbiegli się po bramach i podwórzach, a według ówczesnej prasy żołnierze i marynarze palili odebrane demonstrantom czerwone sztandary. Liczba ofiar jest sporna: różne źródła mówią o kilku do około dwudziestu zabitych i kilkudziesięciu rannych. Tego samego dnia strzelano też do zwolenników Konstytuanty w Moskwie. Kilka dni później [Maksim Gorki](https://pl.wikipedia.org/wiki/Maksim_Gorki) porównał na łamach swojej gazety te strzały do krwawej niedzieli z 1905 roku, kiedy carskie wojsko strzelało do robotników idących pod Pałac Zimowy.
+
+## Posiedzenie
+
+Obrady zaczęły się około godziny 16. W sali zasiadło około 410 posłów, z których bolszewicy i [lewicowi eserowcy](https://pl.wikipedia.org/wiki/Partia_Lewicowych_Socjalistów-Rewolucjonistów) mieli razem około 155 miejsc. Ławy i galerie wypełniali uzbrojeni żołnierze i marynarze. Już otwarcie stało się sprawdzianem sił. Eserowcy chcieli, zgodnie ze zwyczajem, by posiedzenie otworzył najstarszy poseł, i wysłali na trybunę Siergieja Szwiecowa. Lewa strona sali przywitała go tupaniem, gwizdami i waleniem w pulpity. Wtedy głos zabrał przewodniczący [Wszechrosyjskiego Centralnego Komitetu Wykonawczego](https://pl.wikipedia.org/wiki/Wszechrosyjski_Centralny_Komitet_Wykonawczy) rad [Jakow Swierdłow](https://pl.wikipedia.org/wiki/Jakow_Swierdłow) i w jego imieniu otworzył zgromadzenie. Odczytał przygotowaną przez Lenina Deklarację praw ludu pracującego i wyzyskiwanego, która ogłaszała Rosję republiką rad i potwierdzała dekrety władzy radzieckiej o ziemi, pokoju i kontroli robotniczej. Swierdłow wyraził nadzieję, że zgromadzenie ją przyjmie, czyli w praktyce uzna władzę rad nad sobą.
+
+Przewodniczącym zgromadzenia wybrano przywódcę eserowców [Wiktora Czernowa](https://pl.wikipedia.org/wiki/Wiktor_Czernow), byłego ministra rolnictwa Rządu Tymczasowego. Dostał 244 głosy. Kandydatka bolszewików i lewicowych eserowców [Marija Spiridonowa](https://pl.wikipedia.org/wiki/Marija_Spiridonowa) otrzymała 153. Czernow wezwał w przemówieniu do oddania ziemi chłopom, do pokoju i do federacji narodów Rosji, ale nie powiedział ani słowa o uznaniu władzy rad. Z ław bolszewików odpowiadały mu okrzyki i drwiny. Przemawiał też przywódca mienszewików [Irakli Cereteli](https://pl.wikipedia.org/wiki/Irakli_Cereteli). Bolszewik [Iwan Skworcow-Stiepanow](https://pl.wikipedia.org/wiki/Iwan_Skworcow-Stiepanow) rzucił eserowcom, że wszystko między nimi jest skończone, bo stoją po przeciwnych stronach barykady. Rozstrzygające było głosowanie nad porządkiem obrad. Większością 237 głosów przeciw 146 zgromadzenie odmówiło zajęcia się w pierwszej kolejności deklaracją bolszewików i postanowiło obradować według własnego programu.
+
+## Bolszewicy opuszczają salę
+
+Około 23 bolszewicy zażądali przerwy. Na naradzie z udziałem Lenina, który obserwował obrady z loży rządowej, przywódcy bolszewików i lewicowych eserowców postanowili opuścić zgromadzenie. Po wznowieniu posiedzenia, już po drugiej w nocy, zastępca komisarza do spraw morskich [Fiodor Raskolnikow](https://pl.wikipedia.org/wiki/Fiodor_Raskolnikow) odczytał oświadczenie frakcji bolszewickiej. Zgromadzenie odrzuciło program władzy radzieckiej, a bolszewicy, „nie chcąc ani chwili osłaniać zbrodni wrogów ludu”, wychodzą z sali, by „ostateczne rozstrzygnięcie sprawy stosunku do kontrrewolucyjnej części Zgromadzenia Ustawodawczego” pozostawić władzy radzieckiej. Po wyjściu frakcji część wartowników zaczęła mierzyć z karabinów do posłów na sali, a obecni wspominali później, że w każdej chwili mogło dojść do strzelaniny. Około czwartej nad ranem salę opuścili także lewicowi eserowcy.
+
+W Pałacu Taurydzkim zostali eserowcy, mienszewicy i posłowie narodowi. Posiedzenie trwało dalej, ale los zgromadzenia był już przesądzony. Nad ranem warta przerwała obrady, a jeszcze tego samego dnia władza radziecka postanowiła rozwiązać Konstytuantę. Pierwszy wybrany w powszechnym głosowaniu parlament Rosji zebrał się tylko raz.

@@ -1,0 +1,26 @@
+---
+title: Misja Dunsterville'a
+summary: 27 stycznia 1918 generał Lionel Dunsterville wyjechał z Bagdadu 41 fordami przez Persję nad Morze Kaspijskie, by zorganizować na Kaukazie obronę przed Turkami.
+category: Wojsko
+front: Bliski Wschód
+date: 1918-01-27
+authors: [Łukasz Skowroń]
+dayOrder: 2
+tags: [Wielka Brytania, Persja, Kaukaz, Rosja]
+milestone: false
+draft: false
+---
+
+27 stycznia 1918 roku o siódmej rano pod murami [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad) ustawiła się kolumna 41 samochodów [Ford T](https://pl.wikipedia.org/wiki/Ford_Model_T): cztery osobowe i kilkadziesiąt lekkich furgonetek. Wiozły kilkunastu oficerów, garść podoficerów i ordynansów, kierowców, zapasy, lekarstwa i skrzynie perskiego srebra oraz angielskiego złota. Na czele jechał generał major Lionel Dunsterville, wyznaczony na szefa brytyjskiej misji wojskowej na Kaukazie i przedstawiciela Wielkiej Brytanii w [Tyflisie](https://pl.wikipedia.org/wiki/Tbilisi). Tak zaczęła się wyprawa, która przeszła do historii jako [Dunsterforce](https://pl.wikipedia.org/wiki/Dunsterforce). Brytyjska historia oficjalna kampanii mezopotamskiej F.J. Moberly'ego liczy w pierwszej grupie 11 oficerów, czterech podoficerów i czterech ordynansów. Sam Dunsterville wymienia w pamiętnikach dwunastu oficerów i dwóch sierżantów pisarzy. Do walki miał 41 karabinów kierowców i jeden karabin maszynowy Lewisa.
+
+## Dziura po Rosjanach
+
+Misja była odpowiedzią na rozpad armii rosyjskiej. Od Morza Czarnego przez Kaukaz po zachodnią Persję front przeciw Turkom trzymali dotąd Rosjanie, a ich lewe skrzydło niemal stykało się z Brytyjczykami w Mezopotamii. Po rewolucji bolszewickiej i rozejmie z Turcją ich wojska odchodziły do domu. W Londynie obawiano się, że Turcy i Niemcy wejdą w tę pustkę, sięgną po ropę [Baku](https://pl.wikipedia.org/wiki/Baku) i Morze Kaspijskie, a przez Persję i Turkiestan zagrożą Afganistanowi i Indiom, zwłaszcza że w rosyjskim Turkiestanie i za Morzem Kaspijskim przebywały tysiące niemieckich i austriackich jeńców, którzy po zawarciu pokoju mogli zostać uwolnieni. Wysłać tam dużej armii nie było jak: według brytyjskiego generała i historyka Persji Percy'ego Sykesa Bagdad dzieliło od Baku około 800 mil, blisko 1300 kilometrów, w większości po złych drogach przez zniszczoną i głodującą Persję. Postanowiono więc wysłać instruktorów. Według rozkazów z 14 stycznia Dunsterville miał wspierać zakaukaskie władze w tworzeniu, szkoleniu i uzbrajaniu wojsk gruzińskich i ormiańskich, by utrzymały front na Kaukazie, osłoniły zajętą przez Rosjan część tureckiej Armenii i przekreśliły panturańskie plany Turków. Pośrednio miało to osłonić prawe skrzydło armii generała Marshalla w Mezopotamii. Przewidywano, że z czasem misja będzie potrzebowała około 150 oficerów i 300 podoficerów, wybranych z różnych frontów, oraz dywizjonu samochodów pancernych, który jednak nie mógł dotrzeć do Mezopotamii przed marcem.
+
+## Człowiek i droga
+
+Dunsterville był oficerem armii indyjskiej, znał dobrze Rosję i język rosyjski. Jako uczeń szkoły w Westward Ho! przyjaźnił się z [Rudyardem Kiplingiem](https://pl.wikipedia.org/wiki/Rudyard_Kipling), który uczynił go pierwowzorem Stalky'ego, bohatera szkolnych opowiadań „Stalky i spółka”. 6 stycznia wypłynął z Karaczi, 12 stycznia był w Basrze, a 18 stycznia w Bagdadzie. Tam czekał tydzień, aż zbierze się choć mała grupa oficerów. 24 stycznia wysłał przodem dwóch oficerów z samochodem pancernym, by zabezpieczyli zapasy benzyny po drodze do Hamadanu. Plan był prosty: przejechać bez postojów przez [Chanakin](https://pl.wikipedia.org/wiki/Chanakin), [Kermanszah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) i [Hamadan](https://pl.wikipedia.org/wiki/Hamadan) do [Enzeli](https://pl.wikipedia.org/wiki/Bandar-e_Anzali), perskiego portu nad [Morzem Kaspijskim](https://pl.wikipedia.org/wiki/Morze_Kaspijskie), stamtąd statkiem do Baku i dalej do Tyflisu. Dunsterville liczył, że dotrze do Baku w około dwanaście dni.
+
+Trudności widział od początku: górskie przełęcze na wysokości od około 1500 do ponad 2400 metrów, zimowe śnieżyce, uzbrojonych [Kurdów](https://pl.wikipedia.org/wiki/Kurdowie) przy drodze, brak żywności w wyniszczonym kraju i benzynę, którą do Kermanszahu trzeba było wieźć z Bagdadu. Najgroźniejsi byli jednak dżangalijczycy z prowincji [Gilan](https://pl.wikipedia.org/wiki/Gilan), ruch perskich nacjonalistów pod wodzą Mirzy Kuczika Chana. Przejęli oni władzę nad całym Gilanem, przez który biegło ostatnie około 110 kilometrów drogi, a razem z bolszewikami trzymali Enzeli. Pierwszego dnia kolumna przejechała 94 mile (około 150 kilometrów) do Chanakinu w dziesięć i pół godziny. Dalej było gorzej. Drogą, którą kilka tygodni wcześniej [zabezpieczyli brytyjscy żołnierze](/brytyjczycy-zajmuja-kasr-e-szirin), samochody w deszczu, śniegu i wichurze pchano ręcznie pod strome podejście za Pa Tak, a odcinek do Harunabadu, liczący niespełna 70 kilometrów, zajął pięć dni.
+
+Do Kermanszahu misja dotarła 3 lutego, a do Enzeli 17 lutego. Tam miejscowi bolszewicy nie pozwolili jej popłynąć do Baku i Dunsterville musiał zawrócić do Hamadanu. Misja, pomyślana jako szybki rajd kilkunastu instruktorów, rozrosła się z czasem w większe zgrupowanie, którego część latem 1918 roku dotarła jednak do Baku i przez kilka tygodni broniła miasta przed Turkami.

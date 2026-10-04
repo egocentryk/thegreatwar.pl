@@ -346,6 +346,14 @@ export const BATTLE_PHASES = [
       "W 1916 roku niemiecka Flota Pełnomorska pod nowym dowódcą, admirałem Reinhardem Scheerem, przyjęła śmielszą strategię. Zamiast czekać w portach, miała wywabiać części brytyjskiej Grand Fleet na Morze Północne, by zniszczyć je przewagą, zanim nadejdą główne siły. Służyły temu rajdy niemieckich krążowników liniowych na wschodnie wybrzeże Anglii, połączone z akcjami okrętów podwodnych i sterowców. Brytyjczycy odpowiadali stawianiem zapór minowych i coraz lepszym rozpoznaniem radiowym, dzięki któremu wiedzieli o wyjściach floty niemieckiej w morze.",
   },
   {
+    slug: "1918-wojna-na-morzu",
+    title: "1918: Wojna na morzu",
+    front: "Wojna na morzu",
+    dates: "od stycznia 1918",
+    intro:
+      "W ostatnim roku wojny system konwojów i coraz skuteczniejsze środki zwalczania okrętów podwodnych odebrały Niemcom nadzieję na zagłodzenie Wielkiej Brytanii, choć U-Booty wciąż zatapiały setki statków. Flota Pełnomorska rzadko wychodziła z portów, a główne starcia toczyły się na wodach przybrzeżnych i na peryferiach: u wejścia do Dardaneli, w cieśninie Otranto i u wybrzeży Flandrii, gdzie Brytyjczycy próbowali zablokować bazy okrętów podwodnych w Zeebrugge i Ostendzie.",
+  },
+  {
     slug: "1914-afryka",
     title: "1914: Wojna w Afryce",
     front: "Afryka",
@@ -408,6 +416,14 @@ export const BATTLE_PHASES = [
     dates: "od marca 1917",
     intro:
       "Po odzyskaniu Al-Kutu w lutym 1917 roku wojska generała Maude'a ruszyły w pościg za Turkami w górę Tygrysu i w marcu zajęły Bagdad, pierwszą wielką zdobycz Brytyjczyków na Bliskim Wschodzie. Równocześnie Rosjanie znów wkraczali do zachodniej Persji. Na drugim krańcu imperium osmańskiego armia generała Murraya, która przez rok budowała przez Synaj kolej i wodociąg, stanęła u granic Palestyny, przed tureckimi pozycjami w Gazie.",
+  },
+  {
+    slug: "1918-bliski-wschod",
+    title: "1918: Palestyna, Syria i Persja",
+    front: "Bliski Wschód",
+    dates: "od stycznia 1918",
+    intro:
+      "Po zdobyciu Jerozolimy wojska Allenby'ego umacniały się w Judei, a arabskie oddziały emira Fajsala, wspierane przez Brytyjczyków, przenosiły walkę na wschodni brzeg Jordanu. Rozpad armii rosyjskiej otworzył Turkom drogę na Kaukaz i do Persji, dokąd Brytyjczycy wysłali z Bagdadu niewielkie misje, by nie dopuścić wojsk osmańskich i niemieckich do Morza Kaspijskiego i granic Indii.",
   },
 ] as const
 
