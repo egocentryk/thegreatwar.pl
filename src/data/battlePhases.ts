@@ -226,6 +226,14 @@ export const BATTLE_PHASES = [
       "Po klęsce pod Caporetto Włosi utrzymali front nad Piawą i na płaskowyżu Asiago, a generał Diaz odbudował armię. Wiosną 1918 roku Austro-Węgry, naciskane przez Niemców i głodne, przygotowały ostatnią wielką ofensywę, która miała rozbić Włochy jednym ciosem. W czerwcu uderzyły jednocześnie w górach i nad Piawą, ale się przeliczyły, a ich klęska zapowiadała rozpad monarchii.",
   },
   {
+    slug: "1918-kontrofensywa-aliantow",
+    title: "1918: Kontrofensywa aliantów",
+    front: "Front zachodni",
+    dates: "od lipca 1918",
+    intro:
+      "Latem 1918 roku inicjatywa na froncie zachodnim przeszła w ręce aliantów. Australijczycy pod Hamel pokazali, jak łączyć piechotę, czołgi, artylerię i lotnictwo, a ostatnia niemiecka ofensywa nad Marną załamała się w ciągu kilku dni. 18 lipca Foch i Mangin uderzyli na odsłonięte skrzydło Niemców pod Soissons, a przybywające co miesiąc setki tysięcy Amerykanów przesądzały, że Niemcy nie odzyskają już inicjatywy.",
+  },
+  {
     slug: "1917-front-salonicki",
     title: "1917: Front salonicki",
     front: "Front bałkański",

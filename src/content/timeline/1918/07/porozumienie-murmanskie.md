@@ -1,0 +1,27 @@
+---
+title: Porozumienie murmańskie
+summary: 7 lipca 1918 rada w Murmańsku zatwierdziła umowę z Wielką Brytanią, Francją i USA. Sojusznicy mieli bronić regionu, żywić go i nie mieszać się w jego sprawy.
+category: Dyplomacja
+date: 1918-07-07
+authors: [Natalia]
+dayOrder: 1
+tags: [Rosja, Wielka Brytania, Francja, Stany Zjednoczone]
+milestone: false
+draft: false
+---
+
+7 lipca 1918 roku Murmańska Rada Krajowa zatwierdziła „Tymczasowe porozumienie zawarte z powodu wyjątkowych okoliczności” między przedstawicielami Wielkiej Brytanii, Stanów Zjednoczonych i Francji a prezydium rady. Tydzień wcześniej, [30 czerwca](/murmanska-rada-po-stronie-ententy), rada zerwała z Moskwą i postanowiła zostawić wojska sojusznicze w [Murmańsku](https://pl.wikipedia.org/wiki/Murmańsk). Upoważniła wtedy swoje prezydium, by razem z przedstawicielami floty i kolejarzy wynegocjowało umowę na piśmie, która określi prawa i obowiązki obu stron. Teraz taka umowa była gotowa. Ze strony rady podpisali ją przewodniczący Aleksiej Jurjew, jego zastępca, sekretarz i kierownik spraw rady, były kapitan carskiej marynarki Wiesiełago. Za sojuszników podpisali generał [Frederick Poole](https://pl.wikipedia.org/wiki/Frederick_Cuthbert_Poole), dowódca sił sojuszniczych na północy Rosji, komandor Petit, dowódca francuskiego krążownika Amiral Aube, i komandor Bierer, dowódca amerykańskiego krążownika [Olympia](https://pl.wikipedia.org/wiki/USS_Olympia_(C-6)).
+
+## Kiedy podpisano umowę
+
+Źródła podają różne daty. Rosyjskie tłumaczenie, które wydrukowano i rozpowszechniono wtedy w Murmańsku, nosiło datę 6 lipca, a potwierdził ją przebywający tam amerykański attaché wojskowy. Generał Charles Maynard, dowódca brytyjskich wojsk w Murmańsku, pisał we wspomnieniach, że umowę podpisano 7 lipca. Pod tą datą notuje ją też brytyjska chronologia wojny. Komandor Bierer w raporcie z 6 lipca donosił natomiast, że dokument przygotowano i podpisano „wczoraj”, czyli 5 lipca. Rozbieżność da się w dużej mierze wyjaśnić. Według amerykańskich dokumentów dyplomatycznych rada zatwierdziła porozumienie 7 lipca, a w myśl jego przedostatniego artykułu umowa wchodziła w życie właśnie z chwilą zatwierdzenia przez radę. Tekst spisano po angielsku, a rosyjski przekład przygotowała sama rada.
+
+## Co obiecały strony
+
+Porozumienie liczyło 14 artykułów. Strony zobowiązały się do wspólnej obrony Kraju Murmańskiego przed państwami koalicji niemieckiej. Obejmował on dawne powiaty aleksandrowski i kemski [guberni archangielskiej](https://pl.wikipedia.org/wiki/Gubernia_archangielska), czyli całe wybrzeże murmańskie z [Peczengą](https://pl.wikipedia.org/wiki/Peczenga), [Kandałakszą](https://pl.wikipedia.org/wiki/Kandałaksza), [Kiemią](https://pl.wikipedia.org/wiki/Kiem) i Soroką. Naczelne dowództwo wojsk sojuszniczych i rosyjskich miało być zorganizowane tak jak na innych frontach sojuszniczych. Rosyjskie oddziały, już istniejące i nowo tworzone, miały podlegać rosyjskim dowódcom mianowanym przez radę. Dopuszczono jednak ochotniczy zaciąg Rosjan do wojsk sojuszniczych. Sojusznicy mieli pomagać w wyposażeniu i szkoleniu nowego wojska.
+
+Cała władza w sprawach wewnętrznych regionu należała do rady. Przedstawiciele mocarstw zobowiązali się nie mieszać w te sprawy i nie zwracać się bezpośrednio do ludności, z wyjątkiem strefy przyfrontowej, gdzie rozkazy sojuszniczego dowództwa wszyscy mieli wykonywać natychmiast. Sojusznicy obiecali też, „w miarę możliwości”, dostarczać żywność dla całej ludności regionu, łącznie z robotnikami i ich rodzinami, według norm obowiązujących w sojuszniczych wojskach w Murmańsku, a także tkaniny, artykuły pierwszej potrzeby i materiały budowlane. Wydatki miały obciążyć rosyjski dług państwowy wobec każdego z trzech mocarstw, z osobnym rachunkiem dla Kraju Murmańskiego. O pomocy finansowej dla rady miała rozstrzygnąć kolejna umowa. W ostatnim artykule sojusznicy zapewnili, że nie zamierzają zawładnąć regionem ani żadną jego częścią. Prezydium rady oświadczyło z kolei przed narodem rosyjskim, że zawiera porozumienie wyłącznie po to, by ocalić Kraj Murmański „dla wielkiej niepodzielnej Rosji”.
+
+## Obietnice i rzeczywistość
+
+Umowa obowiązywała, dopóki nie wrócą „normalne stosunki” między rządem centralnym a radą i mocarstwami. Wymagała zatwierdzenia przez rządy sojusznicze. Amerykański admirał [William Sims](https://pl.wikipedia.org/wiki/William_Sims) tymczasowo zaaprobował podpis Bierera, a Departament Stanu zgodził się na umowę dopiero w październiku. Maynard pisał później, że zobowiązania co do pieniędzy i żywności były konieczne, bo region został odcięty od reszty Rosji, ale stały się źródłem nieustannych kłopotów. We wrześniu amerykański ambasador David Francis donosił, że sojusznicy nie wypłacili radzie żadnych pieniędzy, a Brytyjczycy przysłali tylko 1200 ton mąki. Niektórzy robotnicy nie dostawali pensji od czerwca, inni od stycznia, i dopiero wtedy przedstawiciele sojuszników zgodzili się, pod warunkiem aprobaty swoich rządów, wyłożyć 5 milionów rubli. Według [Arthura Balfoura](https://pl.wikipedia.org/wiki/Arthur_Balfour) region liczył około 130 tysięcy mieszkańców, choć liczba ta silnie się wahała, bo co roku przyjeżdżały tu tłumy rybaków. Dla sojuszników umowa była przede wszystkim podstawą prawną dalszej [interwencji](https://pl.wikipedia.org/wiki/Aliancka_interwencja_w_rosyjskiej_wojnie_domowej) na północy Rosji. Po kilku tygodniach generał Poole mógł zabrać część wojsk z Murmańska i ruszyć na [Archangielsk](https://pl.wikipedia.org/wiki/Archangielsk).
