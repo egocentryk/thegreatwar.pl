@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 grudnia 1917 roku fiński parlament, [Eduskunta](https://pl.wikipedia.org/wiki/Eduskunta), obradujący w budynku Heimola w [Helsinkach](https://pl.wikipedia.org/wiki/Helsinki), przegłosował deklarację niepodległości kraju. Za przyjęciem tekstu, który dwa dni wcześniej odczytał posłom przewodniczący senatu, czyli szef fińskiego rządu, [Pehr Evind Svinhufvud](https://pl.wikipedia.org/wiki/Pehr_Evind_Svinhufvud), głosowało 100 posłów partii mieszczańskich. 88 socjaldemokratów poparło własny, konkurencyjny projekt. Spór nie dotyczył tego, czy Finlandia ma być niepodległa, lecz tego, jak ma tę niepodległość osiągnąć: jednostronnym aktem czy w porozumieniu z nowymi władzami w Piotrogrodzie. Rocznica tego głosowania jest dziś w Finlandii Dniem Niepodległości.
+6 grudnia 1917 roku fiński parlament, [Eduskunta](https://pl.wikipedia.org/wiki/Eduskunta), obradujący w budynku Heimola w [Helsinkach](https://pl.wikipedia.org/wiki/Helsinki), przegłosował deklarację niepodległości kraju. Za przyjęciem tekstu, który dwa dni wcześniej odczytał posłom przewodniczący senatu, czyli szef fińskiego rządu, [Pehr Evind Svinhufvud](/postacie/pehr-evind-svinhufvud), głosowało 100 posłów partii mieszczańskich. 88 socjaldemokratów poparło własny, konkurencyjny projekt. Spór nie dotyczył tego, czy Finlandia ma być niepodległa, lecz tego, jak ma tę niepodległość osiągnąć: jednostronnym aktem czy w porozumieniu z nowymi władzami w Piotrogrodzie. Rocznica tego głosowania jest dziś w Finlandii Dniem Niepodległości.
 
 ## Wielkie Księstwo pod berłem cara
 

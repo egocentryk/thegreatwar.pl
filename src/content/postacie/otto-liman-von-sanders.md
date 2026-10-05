@@ -50,7 +50,7 @@ Wiosną odparł dwa brytyjskie wypady za Jordan, [na Amman](/bitwy/pierwszy-rajd
 
 ## Po wojnie
 
-W styczniu 1919 roku Liman wyruszył w drogę powrotną do Niemiec. Na początku lutego Brytyjczycy zatrzymali go na [Malcie](https://pl.wikipedia.org/wiki/Malta) w związku z oskarżeniami o współudział w zbrodniach na Ormianach i Grekach. Zarzutów nie udowodniono, ale przetrzymywano go tam do sierpnia, część czasu w izolatce. Wrócił do Berlina we wrześniu 1919 roku i przeszedł w stan spoczynku. W 1920 roku wydał wspomnienia *Fünf Jahre Türkei* („Pięć lat w Turcji”), przełożone potem na kilka języków. W 1921 roku zeznawał w Berlinie w procesie Ormianina, który zastrzelił byłego wielkiego wezyra [Talaata Paszę](https://pl.wikipedia.org/wiki/Mehmet_Talaat). Osiadł w [Monachium](https://pl.wikipedia.org/wiki/Monachium), gdzie zmarł 22 sierpnia 1929 roku. Pochowano go w Darmstadt, obok pierwszej żony.
+W styczniu 1919 roku Liman wyruszył w drogę powrotną do Niemiec. Na początku lutego Brytyjczycy zatrzymali go na [Malcie](https://pl.wikipedia.org/wiki/Malta) w związku z oskarżeniami o współudział w zbrodniach na Ormianach i Grekach. Zarzutów nie udowodniono, ale przetrzymywano go tam do sierpnia, część czasu w izolatce. Wrócił do Berlina we wrześniu 1919 roku i przeszedł w stan spoczynku. W 1920 roku wydał wspomnienia *Fünf Jahre Türkei* („Pięć lat w Turcji”), przełożone potem na kilka języków. W 1921 roku zeznawał w Berlinie w procesie Ormianina, który zastrzelił byłego wielkiego wezyra [Talata Paszę](/postacie/mehmet-talaat). Osiadł w [Monachium](https://pl.wikipedia.org/wiki/Monachium), gdzie zmarł 22 sierpnia 1929 roku. Pochowano go w Darmstadt, obok pierwszej żony.
 
 ## Ocena
 

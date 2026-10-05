@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Przed świtem 15 maja 1917 roku trzy austro-węgierskie lekkie krążowniki pod dowództwem komandora [Miklósa Horthyego](https://pl.wikipedia.org/wiki/Miklós_Horthy) wpadły między brytyjskie dryftery, które pilnowały sieci przeciw okrętom podwodnym w [Cieśninie Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto). W ciągu niespełna dwóch godzin zatopiły czternaście z nich. W drodze powrotnej przechwyciły je brytyjskie i włoskie okręty z Brindisi i rozegrała się największa bitwa nawodna na Adriatyku w czasie całej wojny. Brytyjska chronologia wojny opisuje ją krótko jako starcie austriackich i brytyjskich lekkich sił, w którym zatonęło 14 brytyjskich dryfterów. Po stronie sprzymierzonych dowodził jednak Włoch, kontradmirał Alfredo Acton, a walczyły też okręty włoskie i francuskie.
+Przed świtem 15 maja 1917 roku trzy austro-węgierskie lekkie krążowniki pod dowództwem komandora [Miklósa Horthyego](/postacie/miklos-horthy) wpadły między brytyjskie dryftery, które pilnowały sieci przeciw okrętom podwodnym w [Cieśninie Otranto](https://pl.wikipedia.org/wiki/Cieśnina_Otranto). W ciągu niespełna dwóch godzin zatopiły czternaście z nich. W drodze powrotnej przechwyciły je brytyjskie i włoskie okręty z Brindisi i rozegrała się największa bitwa nawodna na Adriatyku w czasie całej wojny. Brytyjska chronologia wojny opisuje ją krótko jako starcie austriackich i brytyjskich lekkich sił, w którym zatonęło 14 brytyjskich dryfterów. Po stronie sprzymierzonych dowodził jednak Włoch, kontradmirał Alfredo Acton, a walczyły też okręty włoskie i francuskie.
 
 ## Zapora i plan Horthyego
 

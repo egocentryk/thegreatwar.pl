@@ -19,7 +19,7 @@ draft: false
 
 ## Torpedy we własny okręt
 
-Dowódca okrętu, komandor Neston Diggle, spacerował w chwili wybuchu po klifach z dowódcą Patrolu Dover, wiceadmirałem [Rogerem Keyesem](https://pl.wikipedia.org/wiki/Roger_Keyes). Obaj natychmiast wrócili do portu. Diggle wszedł na płonący okręt i zastał na nim tylko jednego żywego oficera, młodego lekarza. Przejął dowodzenie i kazał otworzyć zawory zalewowe komór amunicyjnych. Przednie komory udało się zalać, ale do zaworów komór rufowych nie dało się dotrzeć przez ogień. Groził wybuch, który mógł zniszczyć znaczną część portu i miasta, tym bardziej że niespełna 150 metrów dalej stał statek amunicyjny „Gransha”.
+Dowódca okrętu, komandor Neston Diggle, spacerował w chwili wybuchu po klifach z dowódcą Patrolu Dover, wiceadmirałem [Rogerem Keyesem](/postacie/roger-keyes). Obaj natychmiast wrócili do portu. Diggle wszedł na płonący okręt i zastał na nim tylko jednego żywego oficera, młodego lekarza. Przejął dowodzenie i kazał otworzyć zawory zalewowe komór amunicyjnych. Przednie komory udało się zalać, ale do zaworów komór rufowych nie dało się dotrzeć przez ogień. Groził wybuch, który mógł zniszczyć znaczną część portu i miasta, tym bardziej że niespełna 150 metrów dalej stał statek amunicyjny „Gransha”.
 
 Keyes postanowił zatopić „Glattona”. Z pokładu niszczyciela „Cossack” wystrzelono w płonący monitor torpedę, ale odpalona ze zbyt bliska nie eksplodowała. Druga, około 19.40, wybiła otwór w burcie, lecz jej głowica okazała się za słaba, by przebić bąbel przeciwtorpedowy i zatopić okręt. Dopiero około 20.15 niszczyciel „Myngs” trafił w ten sam otwór dwiema cięższymi, 21-calowymi torpedami. „Glatton” przewrócił się i osiadł masztami i nadbudówkami na dnie portu, a woda ugasiła pożar.
 

@@ -38,7 +38,7 @@ Do wieczora 27 marca na linię Carey's Force spływali żołnierze cofający si�
 
 ## Noc i decyzja Focha
 
-Na południu sytuacja była równie zła. Francuskie korpusy na prawo od Brytyjczyków cofnęły się na zachód i północny zachód, Niemcy bez walki weszli do Montdidier, a XVIII Korpus generała [Ivora Maxse'a](https://pl.wikipedia.org/wiki/Ivor_Maxse) musiał wygiąć swoje prawe skrzydło. Brytyjskie dywizje na płaskowyżu stały w wysuniętym klinie, zagrożone z obu stron.
+Na południu sytuacja była równie zła. Francuskie korpusy na prawo od Brytyjczyków cofnęły się na zachód i północny zachód, Niemcy bez walki weszli do Montdidier, a XVIII Korpus generała [Ivora Maxse'a](/postacie/ivor-maxse) musiał wygiąć swoje prawe skrzydło. Brytyjskie dywizje na płaskowyżu stały w wysuniętym klinie, zagrożone z obu stron.
 
 O 23 trzej brygadierzy 39 Dywizji, odcięci od swojego dowódcy przez Niemców w Lamotte, uzgodnili na rzymskiej drodze, że o 2 w nocy wycofają brygady na południowy zachód, jeśli nie dostaną innych rozkazów. Około północy dowódcy 8, 50 i 66 Dywizji spotkali się w [Cayeux](https://pl.wikipedia.org/wiki/Cayeux-en-Santerre) i doszli do wniosku, że jeśli nie uda się odbić Lamotte, większości ich wojsk grozi okrążenie. Watts przedstawił tę samą ocenę Goughowi już wcześniej, ale usłyszał, że zgodnie z poleceniami Focha nie wolno się cofać dobrowolnie. Gough zwrócił się więc do samego Focha. Obudzony o 3 nad ranem 28 marca nowy koordynator armii sprzymierzonych zgodził się na cofnięcie lewego skrzydła XIX Korpusu na linię Carey's Force. O 4.45 wydano rozkaz odwrotu, a 8 Dywizja opuściła Rosières.
 

@@ -48,7 +48,7 @@ Kilka tygodni później rzeczywistość dogoniła i jego. 16 października monar
 
 ## Po śmierci
 
-Śledztwo w sprawie zabójstwa utknęło w czasie rządów Károlyiego i Węgierskiej Republiki Rad. Po upadku komunistów proces trwał dwa lata i w październiku 1921 roku sąd uznał za winnych kilku żołnierzy oraz lewicowych polityków, w tym Pála Kériego i Józsefa Pogánya, którzy przebywali już za granicą. Historycy do dziś nie są zgodni, kto naprawdę stał za zamachem i na ile wyrok był polityczny. W okresie międzywojennym, za rządów [Miklósa Horthyego](https://pl.wikipedia.org/wiki/Miklós_Horthy), Tisza stał się bohaterem węgierskiej prawicy, męczennikiem „rewolucji”, której przypisywano rozbiór kraju w traktacie z Trianon. W czasach komunistycznych przedstawiano go odwrotnie, jako reakcjonistę i podżegacza wojennego.
+Śledztwo w sprawie zabójstwa utknęło w czasie rządów Károlyiego i Węgierskiej Republiki Rad. Po upadku komunistów proces trwał dwa lata i w październiku 1921 roku sąd uznał za winnych kilku żołnierzy oraz lewicowych polityków, w tym Pála Kériego i Józsefa Pogánya, którzy przebywali już za granicą. Historycy do dziś nie są zgodni, kto naprawdę stał za zamachem i na ile wyrok był polityczny. W okresie międzywojennym, za rządów [Miklósa Horthyego](/postacie/miklos-horthy), Tisza stał się bohaterem węgierskiej prawicy, męczennikiem „rewolucji”, której przypisywano rozbiór kraju w traktacie z Trianon. W czasach komunistycznych przedstawiano go odwrotnie, jako reakcjonistę i podżegacza wojennego.
 
 ## Ocena
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 lipca 1916 roku rosyjskie oddziały weszły do [Erzincanu](https://pl.wikipedia.org/wiki/Erzincan), starego miasta nad górnym [Eufratem](https://pl.wikipedia.org/wiki/Eufrat), w którym mieściła się kwatera główna osmańskiej 3 Armii. Turcy opuścili je bez walki. Datę podają zgodnie brytyjska chronologia wojny, historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa oraz generał Jewgienij Masłowski ze sztabu rosyjskiej Armii Kaukaskiej, który pisze o 12 lipca według kalendarza juliańskiego. Zdobycie Erzincanu zakończyło lipcową ofensywę generała [Nikołaja Judenicza](/postacie/nikolaj-judenicz), w której w niespełna cztery tygodnie rozbił 3 Armię [Wehiba Paszy](https://pl.wikipedia.org/wiki/Wehib_Pasza).
+25 lipca 1916 roku rosyjskie oddziały weszły do [Erzincanu](https://pl.wikipedia.org/wiki/Erzincan), starego miasta nad górnym [Eufratem](https://pl.wikipedia.org/wiki/Eufrat), w którym mieściła się kwatera główna osmańskiej 3 Armii. Turcy opuścili je bez walki. Datę podają zgodnie brytyjska chronologia wojny, historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa oraz generał Jewgienij Masłowski ze sztabu rosyjskiej Armii Kaukaskiej, który pisze o 12 lipca według kalendarza juliańskiego. Zdobycie Erzincanu zakończyło lipcową ofensywę generała [Nikołaja Judenicza](/postacie/nikolaj-judenicz), w której w niespełna cztery tygodnie rozbił 3 Armię [Wehiba Paszy](/postacie/wehib-pasza).
 
 ## Pościg
 

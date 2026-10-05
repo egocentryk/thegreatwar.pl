@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 grudnia 1918 roku, że generał [Carl Gustaf Mannerheim](https://pl.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim) został wybrany regentem Finlandii. Fińskie opracowania podają dzień później. 12 grudnia fiński parlament, [Eduskunta](https://pl.wikipedia.org/wiki/Eduskunta), powierzył mu najwyższą władzę w państwie po [Pehrze Evindzie Svinhufvudzie](https://pl.wikipedia.org/wiki/Pehr_Evind_Svinhufvud), który sprawował ją od maja. Co do dnia ustąpienia Svinhufvuda źródła się różnią: część fińskich opracowań mówi o 10 grudnia, inne, w tym fiński słownik biograficzny, o 12 grudnia. Mannerheim nie był wtedy nawet w kraju. Wybrano go pod jego nieobecność, gdy przebywał jeszcze za granicą po rozmowach w Londynie i Paryżu.
+Brytyjska chronologia wojny notuje pod 11 grudnia 1918 roku, że generał [Carl Gustaf Mannerheim](/postacie/carl-gustaf-mannerheim) został wybrany regentem Finlandii. Fińskie opracowania podają dzień później. 12 grudnia fiński parlament, [Eduskunta](https://pl.wikipedia.org/wiki/Eduskunta), powierzył mu najwyższą władzę w państwie po [Pehrze Evindzie Svinhufvudzie](/postacie/pehr-evind-svinhufvud), który sprawował ją od maja. Co do dnia ustąpienia Svinhufvuda źródła się różnią: część fińskich opracowań mówi o 10 grudnia, inne, w tym fiński słownik biograficzny, o 12 grudnia. Mannerheim nie był wtedy nawet w kraju. Wybrano go pod jego nieobecność, gdy przebywał jeszcze za granicą po rozmowach w Londynie i Paryżu.
 
 ## Koniec niemieckiej orientacji
 
@@ -26,6 +26,6 @@ Ingman napisał do księcia osobisty list, w którym w imię interesu Finlandii 
 
 ## Regent
 
-Nowy regent, monarchista z przekonań, sprawował władzę z rozmachem, jaki monarchiści przewidzieli dla przyszłego króla. Swoją rolę widział przede wszystkim w polityce zagranicznej: miał zdobyć dla Finlandii uznanie zwycięskich mocarstw i chleb dla wygłodzonego kraju. Do Helsinek wrócił w drugiej połowie grudnia, według wspomnień generała [Rüdigera von der Goltza](https://pl.wikipedia.org/wiki/Rüdiger_von_der_Goltz) kilka dni po odpłynięciu ostatnich niemieckich oddziałów. Od 30 grudnia był też naczelnym wodzem fińskiej armii.
+Nowy regent, monarchista z przekonań, sprawował władzę z rozmachem, jaki monarchiści przewidzieli dla przyszłego króla. Swoją rolę widział przede wszystkim w polityce zagranicznej: miał zdobyć dla Finlandii uznanie zwycięskich mocarstw i chleb dla wygłodzonego kraju. Do Helsinek wrócił w drugiej połowie grudnia, według wspomnień generała [Rüdigera von der Goltza](/postacie/rudiger-von-der-goltz) kilka dni po odpłynięciu ostatnich niemieckich oddziałów. Od 30 grudnia był też naczelnym wodzem fińskiej armii.
 
 Regencja Mannerheima trwała nieco ponad siedem miesięcy. Wiosną 1919 roku Wielka Brytania i Stany Zjednoczone uznały niepodległość Finlandii. W wyborach w marcu 1919 roku zwyciężyli republikanie, a 17 lipca Mannerheim, choć niechętnie, zatwierdził republikańską konstytucję. W pierwszych wyborach prezydenckich, przeprowadzonych przez parlament 25 lipca 1919 roku, przegrał wyraźnie z [Kaarlem Juhem Ståhlbergiem](https://pl.wikipedia.org/wiki/Kaarlo_Juho_Ståhlberg) i wycofał się z polityki.

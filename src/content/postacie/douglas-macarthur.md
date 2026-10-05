@@ -1,0 +1,57 @@
+---
+name: Douglas MacArthur
+summary: Szef sztabu amerykańskiej 42 Dywizji „Rainbow”, potem dowódca jej brygady pod Saint-Mihiel i w Argonnach. Jeden z najczęściej odznaczanych Amerykanów wojny.
+role: Szef sztabu 42 Dywizji (1917–1918), dowódca 84 Brygady Piechoty (1918), generał brygady
+country: Stany Zjednoczone
+side: Ententa
+born: 1880-01-26
+died: 1964-04-05
+birthPlace: Little Rock (Arkansas, Stany Zjednoczone)
+deathPlace: Waszyngton
+aliases: [Douglas MacArthur]
+wikiTitles: [Douglas_MacArthur]
+authors: [Natalia]
+tags: [Stany Zjednoczone, John Pershing, Francja]
+---
+
+Douglas MacArthur przeszedł do historii jako dowódca z drugiej wojny światowej i wojny koreańskiej, ale sławę zdobył już we Francji w 1918 roku. Był pomysłodawcą i szefem sztabu 42 Dywizji, złożonej z oddziałów Gwardii Narodowej z wielu stanów i nazwanej dlatego „Rainbow”, czyli „Tęcza”. Latem 1918 roku jako 38-letni generał brygady objął dowództwo jej 84 Brygady Piechoty i poprowadził ją pod Saint-Mihiel i w ofensywie Moza–Argonne. Chodził na wypady do niemieckich okopów, nie nosił hełmu ani maski przeciwgazowej, dwa razy został zatruty gazem i wrócił do kraju jako jeden z najczęściej odznaczanych amerykańskich żołnierzy tej wojny. Już wtedy dał się poznać z cech, które towarzyszyły mu przez całe życie: wielkiej odwagi, talentu, teatralności i skłonności do opowiadania o sobie w samych superlatywach.
+
+## Przed wojną
+
+Urodził się 26 stycznia 1880 roku w koszarach w [Little Rock](https://pl.wikipedia.org/wiki/Little_Rock) w Arkansas jako najmłodszy syn kapitana Arthura MacArthura, bohatera wojny secesyjnej odznaczonego Medalem Honoru, który doszedł później do stopnia generała porucznika. Dzieciństwo spędził w fortach na amerykańskim Zachodzie. Był bardzo związany z matką, która gdy wstąpił do [akademii wojskowej West Point](https://pl.wikipedia.org/wiki/West_Point), zamieszkała w hotelu z widokiem na jej teren. Ukończył ją w 1903 roku jako najlepszy na roku, z jednym z najwyższych wyników w dziejach uczelni, i jako najlepszy absolwent trafił do wojsk inżynieryjnych.
+
+Służył na Filipinach, był adiutantem ojca w czasie jego podróży po Japonii, Indiach i Chinach, a w Waszyngtonie pomagał w Białym Domu przy przyjęciach prezydenta Theodore'a Roosevelta. W 1912 roku przeszedł do sztabu generalnego. Wiosną 1914 roku, w czasie amerykańskiej okupacji meksykańskiego portu Veracruz, na własną rękę wyprawił się w głąb kraju na poszukiwanie lokomotyw i w drodze powrotnej kilka razy ostrzeliwał się z napastnikami. Dowódca armii przedstawił go do Medalu Honoru, ale komisja odmówiła, obawiając się, że nagroda zachęci innych oficerów sztabu do działania za plecami dowódców.
+
+## Tęczowa Dywizja
+
+W grudniu 1915 roku MacArthur awansował na majora, a od 1916 roku kierował w ministerstwie wojny biurem informacji. Bywa uważany za pierwszego rzecznika prasowego armii amerykańskiej. Gdy w kwietniu 1917 roku [Stany Zjednoczone przystąpiły do wojny](/usa-wypowiadaja-wojne-niemcom), według biografów pomagał ministrowi wojny Newtonowi Bakerowi przekonywać prasę do [powszechnego poboru](/kongres-uchwala-pobor-do-wojska). Razem z Bakerem namówił też prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson), by do Francji wysłać nie tylko armię regularną, ale także oddziały [Gwardii Narodowej](https://pl.wikipedia.org/wiki/Gwardia_Narodowa_Stanów_Zjednoczonych), czyli stanowej milicji. Żeby żaden stan nie poczuł się pominięty, zaproponował, by pierwszą taką dywizję złożyć z oddziałów z wielu stanów. Według jego wspomnień powiedział, że rozciągnie się ona nad krajem jak tęcza, i stąd wzięła się jej nazwa. Dowódcą 42 Dywizji został generał William Mann, a MacArthur jej szefem sztabu w stopniu pułkownika, z pominięciem stopnia podpułkownika. Na własną prośbę przeszedł przy tym z wojsk inżynieryjnych do piechoty.
+
+Dywizja popłynęła do Francji w październiku 1917 roku. W grudniu chorego Manna zastąpił generał Charles Menoher, z którym MacArthur szybko się zaprzyjaźnił. W lutym 1918 roku dywizja weszła na spokojny odcinek frontu pod [Lunéville](https://pl.wikipedia.org/wiki/Lunéville) w Lotaryngii, by uczyć się wojny okopowej u boku Francuzów. 26 lutego MacArthur na ochotnika poszedł z francuskim oddziałem na nocny wypad do niemieckich okopów i pomagał brać jeńców. Dostał za to [Krzyż Wojenny](https://pl.wikipedia.org/wiki/Krzyż_Wojenny_(Francja)), jako pierwszy żołnierz amerykańskich sił ekspedycyjnych. 9 marca sam poszedł z kompanią 168 Pułku Piechoty w jednym z trzech wypadów dywizji, za co dostał Krzyż za Wybitną Służbę, drugie co do rangi amerykańskie odznaczenie bojowe. Kilka dni później został zatruty gazem. Pilnował, by żołnierze nosili maski, ale sam często nie zabierał swojej.
+
+Już wtedy zwracał uwagę wyglądem. Nie nosił hełmu, tylko czapkę z usztywnieniem wyjętym ze środka, chodził w swetrze, z długim szalikiem i szpicrutą. Przełożeni z kwatery głównej [generała Pershinga](/postacie/john-pershing) krzywili się na jego niesubordynowany strój, ale żołnierze go lubili.
+
+## Szampania i Ourcq
+
+26 czerwca MacArthur awansował na generała brygady i był wtedy najmłodszym generałem w armii amerykańskiej we Francji. Dywizję przerzucono do Szampanii, gdzie weszła w skład francuskiej 4 Armii generała Henriego Gouraud. 15 lipca Niemcy uderzyli tam na wschód od Reims, rozpoczynając [drugą bitwę nad Marną](/bitwy/druga-bitwa-nad-marna). Gouraud prawie opróżnił pierwszą pozycję i przyjął natarcie na pozycji pośredniej, a [atak na wschód od Reims](/poczatek-drugiej-bitwy-nad-marna) zakończył się dla Niemców krwawym niepowodzeniem. 42 Dywizja broniła się w tej bitwie u boku Francuzów.
+
+Potem dywizję skierowano do kontrofensywy na niemiecki występ nad Marną. 26 lipca zluzowała pod farmą La Croix Rouge 26 Dywizję, a 28 lipca [przeszła rzekę Ourcq](/alianci-odbijaja-fere-en-tardenois) na wschód od Fère-en-Tardenois i przez kilka dni biła się na wzgórzach na drugim brzegu. Straty były ciężkie. Pod koniec lipca Menoher zdjął z dowództwa 84 Brygady Piechoty generała Roberta Browna i oddał ją MacArthurowi. 2 sierpnia, gdy doszły meldunki, że Niemcy się wycofują, MacArthur sam poszedł na przedpole, by to sprawdzić. We wspomnieniach pisał o tysiącach poległych, o których się potykał, i o jękach rannych. Potwierdził, że Niemcy odeszli, i dostał za to kolejną [Srebrną Gwiazdę](https://pl.wikipedia.org/wiki/Srebrna_Gwiazda) oraz francuską Legię Honorową.
+
+## Saint-Mihiel i Moza–Argonne
+
+12 września 1918 roku jego brygada wzięła udział w [natarciu pod Saint-Mihiel](/bitwy/bitwa-pod-saint-mihiel), pierwszej samodzielnej operacji 1 Armii amerykańskiej. Natarcie szło szybko, a Niemcy i tak wycofywali się z występu. Na wzgórzu pod Essey MacArthur spotkał podpułkownika George'a Pattona, dowódcę czołgów. Według listu Pattona do żony, gdy nadciągnął ostrzał, żaden z nich nie chciał się pierwszy schylić. MacArthur należał do oficerów, którzy uważali, że trzeba było [iść dalej](/koniec-bitwy-pod-saint-mihiel), na niedaleką twierdzę Metz, dopóki niemiecka obrona była w rozsypce. Pershing był jednak związany uzgodnieniem z marszałkiem [Fochem](/postacie/ferdinand-foch), a wojska potrzebne były już w Argonnach.
+
+W październiku 42 Dywizja weszła do [ofensywy Moza–Argonne](/bitwy/ofensywa-moza-argonne), gdzie Amerykanie od tygodni krwawo przebijali się przez kolejne niemieckie pozycje. Brygada MacArthura dostała za zadanie zdobycie Côte de Châtillon, silnie umocnionego wzgórza na pozycji Kriemhildy. Dowódca V Korpusu, generał Charles Summerall, zażądał wzgórza w ciągu doby. Według wspomnień MacArthura odpowiedział, że brygada zdobędzie Châtillon albo wykaże sześć tysięcy poległych, a on będzie pierwszy na tej liście. Zwiad lotniczy i nocny patrol, na który MacArthur poszedł sam i z którego według jego relacji wrócił jako jedyny, wykazały lukę w zasiekach na północny wschód od wzgórza. Natarcie z tej strony, za ogniem karabinów maszynowych, zaproponował dowódca 167 Pułku, podpułkownik Walter Bare. 16 października Côte de Châtillon było w rękach Amerykanów. Summerall przedstawił MacArthura do Medalu Honoru i awansu na generała dywizji, ale skończyło się na drugim Krzyżu za Wybitną Służbę. Część historyków zwraca uwagę, że relacja MacArthura z tych dni, spisana po latach, wyolbrzymia jego rolę kosztem dowódców pułków.
+
+Na początku listopada dywizja wzięła udział w pościgu za Niemcami nad Mozę. W wyścigu do [Sedanu](/amerykanie-pod-sedanem), którego zdobycie miało być nagrodą dla Amerykanów, 1 Dywizja przecięła w nocy z 6 na 7 listopada pas natarcia 42 Dywizji, a jej żołnierze zatrzymali MacArthura, biorąc go w jego niezwykłym stroju za niemieckiego oficera. Pisał potem, że operacja otarła się o jedną z wielkich tragedii w historii Ameryki. 10 listopada, dzień przed [rozejmem](/rozejm-w-compiegne), na wniosek Menohera objął dowództwo całej dywizji, ale 22 listopada wrócił do brygady, bo zakaz awansów wydany po zawieszeniu broni zamknął mu drogę do stopnia generała dywizji.
+
+Z wojny przywiózł dwa Krzyże za Wybitną Służbę, siedem Srebrnych Gwiazd, Medal za Wybitną Służbę oraz odznaczenia francuskie, w tym Legię Honorową i dwa Krzyże Wojenne. Należał do nielicznych amerykańskich generałów rannych w tej wojnie.
+
+## Po wojnie
+
+Z 42 Dywizją uczestniczył w [okupacji Nadrenii](https://pl.wikipedia.org/wiki/Okupacja_Nadrenii) w okolicach Ahrweiler i w kwietniu 1919 roku wrócił do kraju. W czerwcu został komendantem West Point i próbował unowocześnić uczelnię, opierając się na doświadczeniach z wojny. W 1930 roku został szefem sztabu armii, a w 1932 roku kazał rozpędzić obóz weteranów wojny, którzy domagali się w Waszyngtonie wypłaty obiecanych premii. Od 1935 roku tworzył armię Filipin, gdzie dostał tytuł marszałka polowego. W czasie [wojny na Pacyfiku](https://pl.wikipedia.org/wiki/Wojna_na_Pacyfiku) przegrał obronę Filipin, dostał Medal Honoru, którego odmówiono mu dwa razy wcześniej, i jako głównodowodzący w południowo-zachodniej części Pacyfiku poprowadził kampanie na Nowej Gwinei i Filipinach. 2 września 1945 roku przyjął kapitulację Japonii, którą potem przez lata rządził jako szef okupacji. W [wojnie koreańskiej](https://pl.wikipedia.org/wiki/Wojna_koreańska) dowodził wojskami ONZ, a w kwietniu 1951 roku prezydent [Harry Truman](https://pl.wikipedia.org/wiki/Harry_Truman) odwołał go za publiczne podważanie polityki rządu. Zmarł w Waszyngtonie 5 kwietnia 1964 roku.
+
+## Ocena
+
+Odwagi MacArthura we Francji nikt nie podważa. Generał brygady, który chodził na nocne wypady i patrole na ziemię niczyją, był wyjątkiem w armii, gdzie wyżsi dowódcy rzadko oglądali pierwszą linię. Żołnierze cenili go za to, że dzielił z nimi niebezpieczeństwo, a przełożeni, od Menohera po Summeralla, przedstawiali go do kolejnych nagród. Był też sprawnym oficerem sztabu, który przygotował dywizję z niedoświadczonych gwardzistów do walki, i dobrym dowódcą brygady.
+
+Biografowie zwracają jednak uwagę, że już w 1918 roku MacArthur starannie budował własną legendę. Jego wspomnienia, pisane pod koniec życia, przypisują mu decyzje i wyczyny, które według innych relacji były w części udziałem podwładnych, a liczby poległych i spotkanych przez niego zagrożeń rosną w nich z każdym opowiadaniem. Jego niesubordynacja wobec kwatery głównej Pershinga i otwarta pogarda dla sztabowców zapowiadały konflikty z przełożonymi, które w 1951 roku zakończyły jego karierę. Pierwsza wojna światowa dała mu sławę, odznaczenia i przekonanie, że jest predestynowany do wielkich rzeczy. Na dobre i na złe ukształtowała dowódcę, którym był przez następne trzydzieści lat.

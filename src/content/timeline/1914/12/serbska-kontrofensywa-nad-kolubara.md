@@ -16,7 +16,7 @@ draft: false
 
 ## Mróz i mgła
 
-Pogoda tym razem sprzyjała Serbom. Po tygodniach deszczu i odwilży w nocy chwycił mróz. Rozmokłe drogi zamarzły, dzięki czemu artyleria mogła nadążać za piechotą. Do około 9 rano zbliżające się oddziały kryła gęsta mgła, a potem nastała słoneczna, bezchmurna pogoda, która utrzymała się przez kolejne dni. Dobra widoczność ułatwiła pracę serbskim artylerzystom, którzy po raz pierwszy od dawna nie musieli oszczędzać pocisków. Generał [Živojin Mišić](https://pl.wikipedia.org/wiki/Živojin_Mišić) nakazał, by od pierwszych chwil natarcia potężnym ogniem łamać opór przeciwnika i torować drogę piechocie.
+Pogoda tym razem sprzyjała Serbom. Po tygodniach deszczu i odwilży w nocy chwycił mróz. Rozmokłe drogi zamarzły, dzięki czemu artyleria mogła nadążać za piechotą. Do około 9 rano zbliżające się oddziały kryła gęsta mgła, a potem nastała słoneczna, bezchmurna pogoda, która utrzymała się przez kolejne dni. Dobra widoczność ułatwiła pracę serbskim artylerzystom, którzy po raz pierwszy od dawna nie musieli oszczędzać pocisków. Generał [Živojin Mišić](/postacie/zivojin-misic) nakazał, by od pierwszych chwil natarcia potężnym ogniem łamać opór przeciwnika i torować drogę piechocie.
 
 ## Uderzenie 1 Armii
 

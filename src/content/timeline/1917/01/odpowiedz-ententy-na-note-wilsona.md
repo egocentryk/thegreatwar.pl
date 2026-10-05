@@ -39,7 +39,7 @@ O Polsce nota mówiła jednym zdaniem: zamiary cesarza Rosji wobec niej jasno ok
 
 ## Czechosłowacy i Polacy
 
-W wyliczeniu narodów do wyzwolenia znaleźli się Czechosłowacy. Po raz pierwszy wspólny dokument Ententy wymienił ich z nazwy i zaliczył ich wolność do celów wojny. Czeski polityk na emigracji [Tomáš Masaryk](https://pl.wikipedia.org/wiki/Tomáš_Masaryk) przypisywał to w swoich wspomnieniach staraniom Brianda, który już w lutym 1916 roku jako pierwszy szef rządu sprzymierzonych oficjalnie uznał program czechosłowackiego ruchu niepodległościowego. Masaryk pisał też, że Jugosłowianie i Polacy zazdrościli potem Czechom tej wzmianki.
+W wyliczeniu narodów do wyzwolenia znaleźli się Czechosłowacy. Po raz pierwszy wspólny dokument Ententy wymienił ich z nazwy i zaliczył ich wolność do celów wojny. Czeski polityk na emigracji [Tomáš Masaryk](/postacie/tomas-masaryk) przypisywał to w swoich wspomnieniach staraniom Brianda, który już w lutym 1916 roku jako pierwszy szef rządu sprzymierzonych oficjalnie uznał program czechosłowackiego ruchu niepodległościowego. Masaryk pisał też, że Jugosłowianie i Polacy zazdrościli potem Czechom tej wzmianki.
 
 Polaków w tym wyliczeniu nie było. Ich sprawę alianci zostawili Rosji, odsyłając do rozkazu cara, który mówił o wolnej Polsce, ale nie o niepodległej. Jak zwykle tłumaczą to historycy, zachodni sojusznicy nie chcieli urazić Rosji, która od początku wojny traktowała sprawę polską jako swoją sprawę wewnętrzną. Dwa miesiące wcześniej Niemcy i Austro-Węgry ogłosiły [akt 5 listopada](/akt-5-listopada), zapowiadający utworzenie Królestwa Polskiego, ale nota Ententy zupełnie go pominęła.
 

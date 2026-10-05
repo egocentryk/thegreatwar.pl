@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 lipca 1918 roku władzę w [Irkucku](https://pl.wikipedia.org/wiki/Irkuck), największym mieście wschodniej Syberii, przejęli przeciwnicy bolszewików. Do miasta, praktycznie bez walki, wkroczyły oddziały [Korpusu Czechosłowackiego](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) pod dowództwem [Radoli Gajdy](https://pl.wikipedia.org/wiki/Radola_Gajda) i ochotnicy syberyjskiej armii antybolszewickiej. Brytyjska chronologia wojny zapisuje zajęcie Irkucka pod 13 lipca, ale amerykański konsul generalny Ernest Harris, który był wtedy w mieście, i źródła rosyjskie są zgodne, że Czechosłowacy i kozacy weszli do miasta 11 lipca. Czerwona Gwardia opuściła miasto dzień wcześniej albo tego samego ranka, wysadzając most na rzece [Irkut](https://pl.wikipedia.org/wiki/Irkut).
+11 lipca 1918 roku władzę w [Irkucku](https://pl.wikipedia.org/wiki/Irkuck), największym mieście wschodniej Syberii, przejęli przeciwnicy bolszewików. Do miasta, praktycznie bez walki, wkroczyły oddziały [Korpusu Czechosłowackiego](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) pod dowództwem [Radoli Gajdy](/postacie/radola-gajda) i ochotnicy syberyjskiej armii antybolszewickiej. Brytyjska chronologia wojny zapisuje zajęcie Irkucka pod 13 lipca, ale amerykański konsul generalny Ernest Harris, który był wtedy w mieście, i źródła rosyjskie są zgodne, że Czechosłowacy i kozacy weszli do miasta 11 lipca. Czerwona Gwardia opuściła miasto dzień wcześniej albo tego samego ranka, wysadzając most na rzece [Irkut](https://pl.wikipedia.org/wiki/Irkut).
 
 ## Droga na wschód
 

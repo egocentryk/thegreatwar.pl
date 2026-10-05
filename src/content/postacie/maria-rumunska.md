@@ -1,0 +1,59 @@
+---
+name: Maria, królowa Rumunii
+summary: Wnuczka królowej Wiktorii i cara Aleksandra II, królowa Rumunii od 1914 roku. Rzeczniczka wojny po stronie Ententy, w latach 1916–1918 symbol oporu.
+role: Królowa Rumunii (1914–1927), działaczka Czerwonego Krzyża
+country: Rumunia
+side: Ententa
+born: 1875-10-29
+died: 1938-07-18
+birthPlace: Eastwell Park, hrabstwo Kent (Anglia)
+deathPlace: Sinaia
+aliases: [Maria Koburg, królowa Maria]
+wikiTitles: [Maria_Koburg]
+authors: [Łukasz Skowroń]
+tags: [Rumunia, Ferdynand I Rumuński, Wielka Brytania]
+---
+
+Maria, żona króla [Ferdynanda I](/postacie/ferdynand-i-rumunski), była najbardziej znaną kobietą na tronie w czasie wielkiej wojny i jedną z niewielu, które miały realny wpływ na politykę. Brytyjska księżniczka, wnuczka królowej Wiktorii i rosyjskiego cara Aleksandra II, od początku popierała przystąpienie Rumunii do wojny po stronie Ententy i wykorzystywała do tego pokrewieństwo z dworami w Londynie i Piotrogrodzie. Gdy kampania 1916 roku skończyła się katastrofą, w zatłoczonych przez uchodźców i rannych Jassach pracowała w szpitalach i stała się dla Rumunów symbolem oporu. W 1918 roku jako jedna z nielicznych w otoczeniu króla do końca sprzeciwiała się separatystycznemu pokojowi z państwami centralnymi. Rumuni nazwali ją „matką rannych”, a po wojnie stała się twarzą Wielkiej Rumunii na konferencji pokojowej w Paryżu.
+
+## Przed wojną
+
+Urodziła się 29 października 1875 roku w Eastwell Park w hrabstwie Kent jako córka księcia Alfreda, drugiego syna królowej [Wiktorii](https://pl.wikipedia.org/wiki/Wiktoria_(królowa_Wielkiej_Brytanii)), oficera marynarki i późniejszego księcia Sachsen-Coburg-Gotha, oraz wielkiej księżnej Marii Aleksandrowny, córki cara [Aleksandra II](https://pl.wikipedia.org/wiki/Aleksander_II_Romanow). W rodzinie nazywano ją Missy. Dzieciństwo spędziła w Anglii, na Malcie, gdzie ojciec dowodził flotą śródziemnomorską, i w Coburgu. Jej kuzynami byli przyszły król Wielkiej Brytanii [Jerzy V](/postacie/jerzy-v), który podobno chciał się z nią ożenić, przyszły car [Mikołaj II](/postacie/mikolaj-ii) i cesarz [Wilhelm II](/postacie/wilhelm-ii).
+
+10 stycznia 1893 roku, jako siedemnastolatka, poślubiła w Sigmaringen następcę tronu Rumunii, Ferdynanda Hohenzollerna. Pierwsze lata w Bukareszcie były trudne: stary król Karol I trzymał następcę tronu i jego żonę w surowym rygorze i odebrał im na wychowanie dwoje najstarszych dzieci. Mieli sześcioro dzieci, wśród nich przyszłego króla [Karola II](https://pl.wikipedia.org/wiki/Karol_II_Rumuński). Małżeństwo z rozsądku przerodziło się z czasem w partnerstwo, ale nie w miłość. O romansach następczyni tronu plotkowano w całej Europie, a jej najbliższym przyjacielem i doradcą został książę [Barbu Știrbey](https://pl.wikipedia.org/wiki/Barbu_Știrbey), szwagier liberalnego premiera [Iona I.C. Brătianu](/postacie/ion-bratianu). Maria szybko nauczyła się rumuńskiego, nosiła stroje ludowe i zyskała popularność, jakiej nie miał jej nieśmiały mąż. Latem 1913 roku, w czasie [II wojny bałkańskiej](https://pl.wikipedia.org/wiki/II_wojna_bałkańska), gdy w armii rumuńskiej szerzyła się cholera, pracowała w szpitalach polowych. Uważała to doświadczenie za punkt zwrotny w swoim życiu.
+
+## Neutralność (1914–1916)
+
+3 sierpnia 1914 roku rada koronna w Sinai odrzuciła wolę króla Karola I, który chciał przystąpić do wojny po stronie Niemiec, i opowiedziała się za neutralnością. 10 października 1914 roku [Karol I zmarł](/umiera-krol-rumunii-karol-i), a Maria została królową. Nie kryła sympatii do Ententy, co sprawiało, że w kraju i za granicą widziano w niej przeciwwagę dla niemieckiego pochodzenia męża. Francuski poseł w Bukareszcie, hrabia de Saint-Aulaire, pisał, że królowa jest sojuszniczką Francji dwukrotnie: z urodzenia i z serca.
+
+Neutralność jej ciążyła, bo, jak wspominała, kazała ważyć każde słowo. Na prośbę króla i premiera Brătianu pisała nieoficjalne listy do swoich kuzynów, Jerzego V i Mikołaja II, w których przedstawiała rumuńskie dążenia do zjednoczenia ze współrodakami z Siedmiogrodu i Bukowiny. W pamiętnikach przyznawała, że była lepiej wtajemniczona w sprawy państwa, niż zwykle bywają królowe. Część współczesnych, a za nimi część biografów, uważała, że to ona przekonała Ferdynanda do wojny po stronie Ententy. Historycy rumuńscy są ostrożniejsi: decyzję przygotował i przeprowadził Brătianu, a królowa umacniała króla w wyborze, który i tak był coraz bardziej przesądzony. Sama pisała o mężu, że nie jest człowiekiem czynu, ale ma w sobie dziwnie silny upór, a ona jest przy nim „jak dobry pies stróżujący”.
+
+## Wojna i Jassy
+
+27 sierpnia 1916 roku Rumunia [wypowiedziała wojnę Austro-Węgrom](/rumunia-wypowiada-wojne-austro-wegrom). Saint-Aulaire pisał, że królowa przyjęła wojnę tak, jak inni przyjmują religię. W tych dniach zaczęła prowadzić dziennik, który pisała niemal codziennie przez całą wojnę. Zajęła się rumuńskim Czerwonym Krzyżem, codziennie odwiedzała szpitale i godziła spory między misjami sanitarnymi z Francji, Wielkiej Brytanii i Rosji. Napisała po angielsku książkę „My Country” („Mój kraj”), wydaną w Londynie w 1916 roku, z której dochód szedł na rumuński Czerwony Krzyż, a za granicą miała zjednać Rumunii sympatię sojuszników.
+
+Wojna szybko zamieniła się w klęskę. 2 listopada 1916 roku w Buftei zmarł na dur brzuszny jej najmłodszy syn, trzyletni książę Mircea. Kilka tygodni później dwór i rząd [przenieśli się do Jass](/rzad-rumunski-przenosi-sie-do-jass), a 6 grudnia [padł Bukareszt](/upadek-bukaresztu). Zimą 1916/1917 roku przepełnione Jassy dziesiątkował tyfus plamisty, brakowało żywności, opału i lekarstw. Królowa w stroju pielęgniarki codziennie jeździła na dworzec po rannych, odwiedzała szpitale i lazarety, także zakaźne, i bywała na froncie. Saint-Aulaire pisał, że trudno mówić o jej odwadze, bo odwaga zakłada strach, którego ona zdawała się nie znać. Latem 1917 roku, po [bitwie pod Mărășești](/bitwy/bitwa-pod-marasesti), razem z królem dekorowała żołnierzy. Wtedy narodził się jej przydomek „matki rannych” (Mama Răniților).
+
+## Przeciw pokojowi
+
+Rewolucja październikowa w Rosji odcięła Rumunię od sojuszników. 9 grudnia 1917 roku podpisano [rozejm w Fokszanach](/rozejm-w-fokszanach). Maria przyjęła go z goryczą. Uważała, że Rumunia wkłada rękę w tryby, z których się nie wydostanie, podczas gdy Brătianu i Știrbey widzieli w rozejmie sposób na zyskanie czasu. W lutym 1918 roku, po [ultimatum Mackensena](/niemieckie-ultimatum-dla-rumunii), rząd generała [Alexandru Averescu](/postacie/alexandru-averescu) podjął rokowania. W tych tygodniach w Jassach pojawił się kanadyjski przedsiębiorca i poszukiwacz przygód [Joseph Boyle](https://pl.wikipedia.org/wiki/Joseph_Boyle), który został jej bliskim powiernikiem i, obok Știrbeya, należał do nielicznych w otoczeniu dworu, którzy wierzyli w zwycięstwo Ententy.
+
+Królowa sprzeciwiała się pokojowi gwałtowniej niż ktokolwiek inny w otoczeniu króla. W dzienniku opisała burzliwą scenę, w której zarzuciła mężowi, że sprzedaje honor swój, rodziny i kraju, a jego doradców oskarżyła, że zrobili z niego narzędzie. Gdy Știrbey tłumaczył, że król nie może stawiać oporu sam, bez odpowiedzialnych polityków, odparła, że w tym kraju nie ma mężczyzn. Na radzie koronnej w Jassach w dniach 2–4 marca 1918 roku w jej imieniu przemawiał następca tronu Karol, który wzywał do oporu do końca. Averescu skarżył się, że na dworze prowadzi się dwie polityki, króla oraz królowej i jej syna. Generałowie i dane o zaopatrzeniu nie pozostawiały jednak złudzeń. 5 marca rząd podpisał [wstępny pokój w Buftei](/pokoj-w-buftei), a 7 maja rząd [Alexandru Marghilomana](/postacie/alexandru-marghiloman) zawarł [pokój w Bukareszcie](/pokoj-w-bukareszcie). Król go nie podpisał.
+
+Maria nie pogodziła się z traktatem. W sierpniu 1918 roku odwiedziła wsie, które miały przypaść Austro-Węgrom, i mówiła płaczącym chłopom, że to nie jest pożegnanie, bo ostatnie słowo powiedzą armaty sprzymierzonych. Marghiloman pojechał do króla, by zaprotestować przeciw tej demonstracji, ale królowa oświadczyła, że nie dba o jego dyplomatyczne skrupuły. Latem spadł na nią także cios rodzinny: następca tronu Karol opuścił bez pozwolenia garnizon i potajemnie poślubił w Odessie Zizi Lambrino. Według biografów za radą Boyle'a rodzice ukarali go odosobnieniem w klasztorze.
+
+## Zwycięstwo
+
+Jesienią 1918 roku państwa centralne się załamały. 10 listopada [Rumunia wróciła do wojny](/rumunia-wraca-do-wojny), a 1 grudnia Maria i Ferdynand [wjechali konno do Bukaresztu](/rzad-rumunski-wraca-do-bukaresztu), z generałem Henrim Berthelotem u boku, witani przez tłumy. Tego samego dnia [zgromadzenie w Alba Iulia](/zgromadzenie-w-alba-iulia) ogłosiło połączenie Siedmiogrodu z Rumunią. Wcześniej o unii z Rumunią postanowiły [Besarabia](/zjednoczenie-besarabii-z-rumunia) i [Bukowina](/unia-bukowiny-z-rumunia). Królowa pisała w dzienniku, że marzenie o Wielkiej Rumunii staje się rzeczywistością tak niewiarygodną, że ledwie śmie w nią uwierzyć. Kilka dni później zachorowała na grypę hiszpankę.
+
+W marcu 1919 roku, gdy Brătianu skłócił się na konferencji pokojowej z wielkimi mocarstwami, na prośbę rządu pojechała do Paryża i Londynu. Paryżanie przyjęli ją entuzjastycznie, a premier [Georges Clemenceau](/postacie/georges-clemenceau), który miał jej powiedzieć na powitanie, że nie lubi jej premiera, podobno złagodził potem stanowisko wobec Rumunii. Spotykała się z [Raymondem Poincarém](/postacie/raymond-poincare), Jerzym V, [Davidem Lloydem George'em](/postacie/david-lloyd-george) i [Winstonem Churchillem](/postacie/winston-churchill). Prezydent [Woodrow Wilson](/postacie/woodrow-wilson) nie dał się oczarować. Jak wielki był jej wpływ na decyzje konferencji, historycy oceniają różnie. Ion G. Duca, liberalny polityk, uważał wizytę za bezużyteczną, a Brătianu miał później mówić, że królowa zdziałała w kilka dni więcej niż on w kilka miesięcy.
+
+## Po wojnie
+
+15 października 1922 roku Maria i Ferdynand zostali koronowani w [Alba Iulia](https://pl.wikipedia.org/wiki/Alba_Iulia) na władców Wielkiej Rumunii. W 1926 roku odbyła głośną podróż po Stanach Zjednoczonych. Po śmierci męża w 1927 roku jej wpływy zmalały, a gdy w 1930 roku na tron wrócił jej syn, Karol II, odsunął ją od wszelkich spraw. Spędzała czas w zamku Bran w Siedmiogrodzie i w swojej rezydencji w Bałcziku nad Morzem Czarnym. W latach 1934–1935 wydała po angielsku trzytomowe wspomnienia „The Story of My Life”. Zmarła 18 lipca 1938 roku w pałacyku Pelișor w [Sinai](https://pl.wikipedia.org/wiki/Sinaia). Pochowano ją w [Curtea de Argeș](https://pl.wikipedia.org/wiki/Curtea_de_Argeș), a jej serce, zgodnie z jej wolą, złożono w kaplicy w Bałcziku. W czasach komunistycznych jej pamięć zohydzano, a po 1989 roku stała się w Rumunii jedną z najbardziej podziwianych postaci narodowej historii.
+
+## Ocena
+
+Współcześni dzielili się w ocenie Marii ostro. Dla Rumunów i aliantów była bohaterką: odważną, piękną i nieugiętą królową, która, jak ujął to jeden z francuskich generałów, była „prawdziwym mężczyzną” rumuńskiej rodziny królewskiej. Propaganda państw centralnych przedstawiała ją jako ambitną intrygantkę, która z osobistych pobudek wciągnęła kraj w katastrofalną wojnę, a plotki o jej romansach wykorzystywano przeciw niej podczas wojny i po niej.
+
+Historycy oceniają ją dziś na ogół wysoko, choć ostrożniej niż jej wielbiciele. Podkreślają, że jej wpływ na decyzję z 1916 roku bywa przeceniany, a jej sprzeciw wobec pokoju w 1918 roku, choć odważny, nie opierał się na realnej ocenie sił. Zgadzają się jednak, że w najgorszych miesiącach wojny była dla żołnierzy i ludności symbolem, którego nie potrafił stworzyć jej mąż, a jej koneksje i popularność za granicą były dla Rumunii cennym atutem. W jej osobie brytyjska księżniczka, jak pisał amerykański publicysta Robert D. Kaplan, przemieniła się w Rumunkę lepiej rozumiejącą swój kraj niż wielu jego rodowitych przywódców.

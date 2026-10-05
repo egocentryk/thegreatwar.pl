@@ -22,7 +22,7 @@ Około 30 tysięcy niemieckich żołnierzy opuszczało Warszawę przez następne
 
 ## Lublin i ulica
 
-Socjaliści z [PPS](https://pl.wikipedia.org/wiki/Polska_Partia_Socjalistyczna) wezwali tego dnia do strajku powszechnego i zorganizowali wielką manifestację, która zbiegała się z kilku stron miasta. Popierali [rząd lubelski](/rzad-lubelski) [Ignacego Daszyńskiego](https://pl.wikipedia.org/wiki/Ignacy_Daszyński), który nie uznawał regentów. Rząd ten nie zamierzał jednak walczyć z Piłsudskim. Daszyński i jego ministrowie uważali Komendanta za swojego człowieka i oddali się do jego dyspozycji. Według części opracowań złożyli mu dymisję 11 listopada, według innych dzień później, gdy Daszyński przyjechał do Warszawy.
+Socjaliści z [PPS](https://pl.wikipedia.org/wiki/Polska_Partia_Socjalistyczna) wezwali tego dnia do strajku powszechnego i zorganizowali wielką manifestację, która zbiegała się z kilku stron miasta. Popierali [rząd lubelski](/rzad-lubelski) [Ignacego Daszyńskiego](/postacie/ignacy-daszynski), który nie uznawał regentów. Rząd ten nie zamierzał jednak walczyć z Piłsudskim. Daszyński i jego ministrowie uważali Komendanta za swojego człowieka i oddali się do jego dyspozycji. Według części opracowań złożyli mu dymisję 11 listopada, według innych dzień później, gdy Daszyński przyjechał do Warszawy.
 
 ## Odezwa regentów
 

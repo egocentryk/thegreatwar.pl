@@ -17,7 +17,7 @@ tags: [Sanusijja, Egipt, Wielka Brytania, Związek Południowej Afryki]
 milestone: false
 ---
 
-Bitwa pod Agagią była rozstrzygającym starciem wojny z bractwem [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) na zachodniej granicy Egiptu. 26 lutego 1916 roku kolumna generała brygady Henry'ego Lukina, złożona głównie z południowoafrykańskiej piechoty, zaatakowała obóz bractwa wśród wydm na południowy wschód od [Sidi Barrani](https://pl.wikipedia.org/wiki/Sidi_Barrani) i po kilku godzinach walki wyparła z niego przeciwnika. Wcześniejsze zwycięstwa Brytyjczyków kończyły się tym, że wojska bractwa uchodziły w pustynię. Tym razem cofającą się kolumnę dopadła [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) z hrabstwa Dorset i rozbiła ją [szarżą](https://pl.wikipedia.org/wiki/Szarża). Do niewoli trafił dowódca wojsk bractwa na wybrzeżu, [Dżafar al-Askari](https://pl.wikipedia.org/wiki/Dżafar_al-Askari).
+Bitwa pod Agagią była rozstrzygającym starciem wojny z bractwem [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) na zachodniej granicy Egiptu. 26 lutego 1916 roku kolumna generała brygady Henry'ego Lukina, złożona głównie z południowoafrykańskiej piechoty, zaatakowała obóz bractwa wśród wydm na południowy wschód od [Sidi Barrani](https://pl.wikipedia.org/wiki/Sidi_Barrani) i po kilku godzinach walki wyparła z niego przeciwnika. Wcześniejsze zwycięstwa Brytyjczyków kończyły się tym, że wojska bractwa uchodziły w pustynię. Tym razem cofającą się kolumnę dopadła [yeomanry](https://pl.wikipedia.org/wiki/Yeomanry) z hrabstwa Dorset i rozbiła ją [szarżą](https://pl.wikipedia.org/wiki/Szarża). Do niewoli trafił dowódca wojsk bractwa na wybrzeżu, [Dżafar al-Askari](/postacie/dzafar-al-askari).
 
 ## Nazwa i daty
 

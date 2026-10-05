@@ -19,7 +19,7 @@ Zajęcie Bitlisu i [Muşu](/rosjanie-zajmuja-mus) miało osłonić lewe skrzydł
 
 Na Bitlis szła środkowa kolumna IV Korpusu Kaukaskiego pod dowództwem generała Dmitrija Abacjewa. Posuwała się bardzo powoli. Dolina rzeki Murat na południe od Malazgirtu, przed wojną żyzna i ludna, była pusta. Ormian, którzy stanowili tu znaczną część mieszkańców, w 1915 roku wymordowano lub deportowano w czasie [ludobójstwa Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), a resztki zbiegły do Rosji. Muzułmanie, jak piszą Allen i Muratow, również ucierpieli od głodu, epidemii i rzezi dokonywanych przez nieregularne oddziały obu stron i rozproszyli się ze swoimi stadami. Konie Abacjewa nie miały paszy, a kolumny zaopatrzenia wymagały silnej eskorty przed bandami głodnych Kurdów. Abacjew musiał zostawić w tyle prawie całą konnicę i artylerię. 20 lutego doszedł do [Tatvanu](https://pl.wikipedia.org/wiki/Tatvan) nad jeziorem Wan z jednym batalionem strzelców, jedną drużyną ochotniczą i dwiema sotniami kozaków.
 
-Z tak małymi siłami nie mógł atakować. Poprosił o pomoc generała Fomę Nazarbekowa, który zajął już Muş. Posiłki przyszły zarówno od Muşu, jak i od Wanu, w tym ormiańska drużyna ochotnicza [Andranika Ozaniana](https://pl.wikipedia.org/wiki/Andranik_Ozanian). Według Allena i Muratowa Abacjew miał wtedy pięć batalionów piechoty, pięć drużyn i 12 dział.
+Z tak małymi siłami nie mógł atakować. Poprosił o pomoc generała Fomę Nazarbekowa, który zajął już Muş. Posiłki przyszły zarówno od Muşu, jak i od Wanu, w tym ormiańska drużyna ochotnicza [Andranika Ozaniana](/postacie/andranik-ozanian). Według Allena i Muratowa Abacjew miał wtedy pięć batalionów piechoty, pięć drużyn i 12 dział.
 
 ## Szturm w śnieżycy
 

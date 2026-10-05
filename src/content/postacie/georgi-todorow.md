@@ -46,7 +46,7 @@ Latem 1918 roku Todorow został zastępcą naczelnego wodza, generała [Nikoły 
 
 ## Po wojnie
 
-Po demobilizacji Todorow był przez pewien czas adiutantem generalnym cara [Borysa III](https://pl.wikipedia.org/wiki/Borys_III). 20 sierpnia 1919 roku przeszedł w stan spoczynku. W 1925 roku jego żona zginęła w zamachu bombowym na sobór Świętej Niedzieli w Sofii. W latach 1926–1927 był naczelnikiem okręgu Petricz w bułgarskiej części Macedonii, ale ustąpił pod naciskiem [Wewnętrznej Macedońskiej Organizacji Rewolucyjnej](https://pl.wikipedia.org/wiki/Wewnętrzna_Macedońska_Organizacja_Rewolucyjna). Działał w związku oficerów rezerwy i w organizacjach weteranów. Zmarł w Sofii 16 listopada 1934 roku. Jego imię nosi wieś Generał Todorow koło Petricza.
+Po demobilizacji Todorow był przez pewien czas adiutantem generalnym cara [Borysa III](/postacie/borys-iii). 20 sierpnia 1919 roku przeszedł w stan spoczynku. W 1925 roku jego żona zginęła w zamachu bombowym na sobór Świętej Niedzieli w Sofii. W latach 1926–1927 był naczelnikiem okręgu Petricz w bułgarskiej części Macedonii, ale ustąpił pod naciskiem [Wewnętrznej Macedońskiej Organizacji Rewolucyjnej](https://pl.wikipedia.org/wiki/Wewnętrzna_Macedońska_Organizacja_Rewolucyjna). Działał w związku oficerów rezerwy i w organizacjach weteranów. Zmarł w Sofii 16 listopada 1934 roku. Jego imię nosi wieś Generał Todorow koło Petricza.
 
 ## Ocena
 

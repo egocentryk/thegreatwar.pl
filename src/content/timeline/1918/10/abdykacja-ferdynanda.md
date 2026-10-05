@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 października 1918 roku, cztery dni po podpisaniu [rozejmu w Salonikach](/rozejm-w-salonikach), car Bułgarii [Ferdynand I](/postacie/ferdynand-i-koburg) zrzekł się tronu na rzecz najstarszego syna, 24-letniego następcy tronu Borysa, księcia Tyrnowa, który jako [Borys III](https://pl.wikipedia.org/wiki/Borys_III) został carem. Brytyjska chronologia wojny notuje abdykację pod 4 października. Tego dnia ogłosiła ją bułgarska gazeta urzędowa i wtedy wiadomość obiegła Europę, a w części ówczesnych przekładów manifest nosi datę 4 października. Oryginał, przechowywany w bułgarskim Centralnym Archiwum Państwowym, jest jednak datowany w Sofii 3 października i tę datę podają zarówno bułgarscy historycy, jak i brytyjska historia oficjalna Cyrila Fallsa.
+3 października 1918 roku, cztery dni po podpisaniu [rozejmu w Salonikach](/rozejm-w-salonikach), car Bułgarii [Ferdynand I](/postacie/ferdynand-i-koburg) zrzekł się tronu na rzecz najstarszego syna, 24-letniego następcy tronu Borysa, księcia Tyrnowa, który jako [Borys III](/postacie/borys-iii) został carem. Brytyjska chronologia wojny notuje abdykację pod 4 października. Tego dnia ogłosiła ją bułgarska gazeta urzędowa i wtedy wiadomość obiegła Europę, a w części ówczesnych przekładów manifest nosi datę 4 października. Oryginał, przechowywany w bułgarskim Centralnym Archiwum Państwowym, jest jednak datowany w Sofii 3 października i tę datę podają zarówno bułgarscy historycy, jak i brytyjska historia oficjalna Cyrila Fallsa.
 
 ## Car, który przegrał wojnę
 
@@ -21,7 +21,7 @@ Według bułgarskiego historyka Georgiego Markowa 1 października delegat na rok
 
 ## Manifest
 
-3 października o 18.00 Ferdynand przyjął premiera [Aleksandyra Malinowa](https://pl.wikipedia.org/wiki/Aleksandyr_Malinow), oznajmił mu, że abdykuje, i podpisał manifest do narodu bułgarskiego. Markow przytacza scenę, w której premier szybko przeczytał akt i schował go do kieszeni surduta, a car miał gorzko zauważyć, że kiedyś w tym gabinecie przyjmował dymisje swoich premierów, a teraz premier przyjmuje jego dymisję. Manifest, spisany odręcznie przez samego Ferdynanda i kontrasygnowany przez Malinowa, był krótki. Car pisał, że okoliczności wymagają od każdego obywatela ofiar, a on chce dać pierwszy przykład. Mimo więzów, które od 32 lat łączyły go z krajem, rezygnował z tronu na rzecz syna i wzywał poddanych, by skupili się wokół cara Borysa i wyprowadzili ojczyznę z ciężkiego położenia.
+3 października o 18.00 Ferdynand przyjął premiera [Aleksandyra Malinowa](/postacie/aleksandyr-malinow), oznajmił mu, że abdykuje, i podpisał manifest do narodu bułgarskiego. Markow przytacza scenę, w której premier szybko przeczytał akt i schował go do kieszeni surduta, a car miał gorzko zauważyć, że kiedyś w tym gabinecie przyjmował dymisje swoich premierów, a teraz premier przyjmuje jego dymisję. Manifest, spisany odręcznie przez samego Ferdynanda i kontrasygnowany przez Malinowa, był krótki. Car pisał, że okoliczności wymagają od każdego obywatela ofiar, a on chce dać pierwszy przykład. Mimo więzów, które od 32 lat łączyły go z krajem, rezygnował z tronu na rzecz syna i wzywał poddanych, by skupili się wokół cara Borysa i wyprowadzili ojczyznę z ciężkiego położenia.
 
 ## Wyjazd
 

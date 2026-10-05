@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 grudnia 1918 roku skończyło się Państwo Ukraińskie hetmana [Pawła Skoropadskiego](https://pl.wikipedia.org/wiki/Pawło_Skoropadski). W nocy i rano do Kijowa wdarły się oddziały [Dyrektoriatu](https://pl.wikipedia.org/wiki/Dyrektoriat_(Ukraina)), a w mieście wystąpiły przeciw hetmanowi ukraińskie grupy bojowe. Po południu Skoropadski podpisał krótki akt zrzeczenia się władzy i zniknął. Po miesiącu [powstania, które Dyrektoriat ogłosił w połowie listopada](/powstanie-petlury), w stolicy wróciła do władzy [Ukraińska Republika Ludowa](https://pl.wikipedia.org/wiki/Ukraińska_Republika_Ludowa).
+14 grudnia 1918 roku skończyło się Państwo Ukraińskie hetmana [Pawła Skoropadskiego](/postacie/pawlo-skoropadski). W nocy i rano do Kijowa wdarły się oddziały [Dyrektoriatu](https://pl.wikipedia.org/wiki/Dyrektoriat_(Ukraina)), a w mieście wystąpiły przeciw hetmanowi ukraińskie grupy bojowe. Po południu Skoropadski podpisał krótki akt zrzeczenia się władzy i zniknął. Po miesiącu [powstania, które Dyrektoriat ogłosił w połowie listopada](/powstanie-petlury), w stolicy wróciła do władzy [Ukraińska Republika Ludowa](https://pl.wikipedia.org/wiki/Ukraińska_Republika_Ludowa).
 
 ## Oblężenie Kijowa
 

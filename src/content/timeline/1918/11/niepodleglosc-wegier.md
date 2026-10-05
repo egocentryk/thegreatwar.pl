@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 listopada 1918 roku w Budapeszcie Węgry ogłoszono „od każdego innego kraju niezależną i samodzielną republiką ludową”. Proklamacja zamknęła rewolucję, która dwa tygodnie wcześniej wyniosła do władzy hrabiego [Mihálya Károlyiego](https://pl.wikipedia.org/wiki/Mihály_Károlyi), i zakończyła blisko czterysta lat panowania Habsburgów nad Węgrami. W tym samym tygodniu republiką stała się [Austria Niemiecka](/abdykacja-karola-i), a w Pradze Zgromadzenie Narodowe [zdetronizowało Habsburgów](/masaryk-prezydentem).
+16 listopada 1918 roku w Budapeszcie Węgry ogłoszono „od każdego innego kraju niezależną i samodzielną republiką ludową”. Proklamacja zamknęła rewolucję, która dwa tygodnie wcześniej wyniosła do władzy hrabiego [Mihálya Károlyiego](/postacie/mihaly-karolyi), i zakończyła blisko czterysta lat panowania Habsburgów nad Węgrami. W tym samym tygodniu republiką stała się [Austria Niemiecka](/abdykacja-karola-i), a w Pradze Zgromadzenie Narodowe [zdetronizowało Habsburgów](/masaryk-prezydentem).
 
 ## Od rewolucji do republiki
 

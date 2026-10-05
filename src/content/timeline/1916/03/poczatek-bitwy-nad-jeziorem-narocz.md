@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 marca 1916 roku (5 marca według kalendarza juliańskiego, którego używała wówczas Rosja) o świcie setki rosyjskich dział otworzyły ogień na froncie długości około 60 kilometrów, w krainie jezior na wschód od [Wilna](https://pl.wikipedia.org/wiki/Wilno). Po południu piechota [2 Armii](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) ruszyła do ataku na pozycje niemieckiej [10 Armii](https://pl.wikipedia.org/wiki/10_Armia_(Cesarstwo_Niemieckie)) generała [Hermanna von Eichhorna](https://pl.wikipedia.org/wiki/Hermann_von_Eichhorn) pod [Postawami](https://pl.wikipedia.org/wiki/Postawy) i na południe od jeziora [Narocz](https://pl.wikipedia.org/wiki/Narocz). Była to pierwsza wielka ofensywa Rosjan od czasu wielkiego odwrotu 1915 roku.
+18 marca 1916 roku (5 marca według kalendarza juliańskiego, którego używała wówczas Rosja) o świcie setki rosyjskich dział otworzyły ogień na froncie długości około 60 kilometrów, w krainie jezior na wschód od [Wilna](https://pl.wikipedia.org/wiki/Wilno). Po południu piechota [2 Armii](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) ruszyła do ataku na pozycje niemieckiej [10 Armii](https://pl.wikipedia.org/wiki/10_Armia_(Cesarstwo_Niemieckie)) generała [Hermanna von Eichhorna](/postacie/hermann-von-eichhorn) pod [Postawami](https://pl.wikipedia.org/wiki/Postawy) i na południe od jeziora [Narocz](https://pl.wikipedia.org/wiki/Narocz). Była to pierwsza wielka ofensywa Rosjan od czasu wielkiego odwrotu 1915 roku.
 
 ## Pomoc dla Verdun
 

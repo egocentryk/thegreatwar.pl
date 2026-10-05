@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1918 roku w [Archangielsku](https://pl.wikipedia.org/wiki/Archangielsk), głównym porcie północnej Rosji, upadła władza bolszewików. O świcie wybuchł przygotowany od tygodni przewrót antybolszewicki, a kilka godzin później do miasta wpłynęły okręty sojusznicze z wojskami generała [Fredericka Poole'a](https://pl.wikipedia.org/wiki/Frederick_Cuthbert_Poole). Dzień wcześniej sojusznicza eskadra [zdobyła wyspę Mudiug](/zdobycie-wyspy-mudiug), która strzegła wejścia do portu. Brytyjska chronologia wojny notuje pod 2 sierpnia „proententowską rewolucję w Archangielsku” i wejście wojsk Ententy do miasta. Archangielsk stał się główną bazą [sojuszniczej interwencji](https://pl.wikipedia.org/wiki/Aliancka_interwencja_w_rosyjskiej_wojnie_domowej) na północy Rosji.
+2 sierpnia 1918 roku w [Archangielsku](https://pl.wikipedia.org/wiki/Archangielsk), głównym porcie północnej Rosji, upadła władza bolszewików. O świcie wybuchł przygotowany od tygodni przewrót antybolszewicki, a kilka godzin później do miasta wpłynęły okręty sojusznicze z wojskami generała [Fredericka Poole'a](/postacie/frederick-poole). Dzień wcześniej sojusznicza eskadra [zdobyła wyspę Mudiug](/zdobycie-wyspy-mudiug), która strzegła wejścia do portu. Brytyjska chronologia wojny notuje pod 2 sierpnia „proententowską rewolucję w Archangielsku” i wejście wojsk Ententy do miasta. Archangielsk stał się główną bazą [sojuszniczej interwencji](https://pl.wikipedia.org/wiki/Aliancka_interwencja_w_rosyjskiej_wojnie_domowej) na północy Rosji.
 
 ## Przewrót
 

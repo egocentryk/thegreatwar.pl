@@ -42,7 +42,7 @@ Około 16.00 na minę wszedł Inflexible, który wcześniej wrócił na swoje st
 
 Dopiero gdy Wear przybył z rozbitkami na Queen Elizabeth, de Robeck dowiedział się, że i tu przyczyną była mina. Rozkazał wycofać okręty, a Oceanowi polecił wziąć Irresistible na hol, jeśli to będzie możliwe. Okazało się to niewykonalne, więc około 17.50 Irresistible porzucono, a de Robeck dał sygnał do odwrotu całej floty. Około 18.05, gdy Ocean odpływał pod ogniem tureckich baterii, i on wszedł na minę. Niemal równocześnie pocisk zalał przedział maszyny sterowej. Załogę zdjęły niszczyciele Colne, Jed i Chelmer.
 
-W nocy niszczyciele i trałowce wróciły do cieśniny, by spróbować odholować porzucone okręty. Udział w poszukiwaniach brał szef sztabu floty, komodor [Roger Keyes](https://pl.wikipedia.org/wiki/Roger_Keyes). Nie znaleziono żadnego z nich. Według tureckich danych Irresistible zatonął około 19.30, a Ocean, zniesiony przez prąd do zatoki Morto, około 22.30.
+W nocy niszczyciele i trałowce wróciły do cieśniny, by spróbować odholować porzucone okręty. Udział w poszukiwaniach brał szef sztabu floty, komodor [Roger Keyes](/postacie/roger-keyes). Nie znaleziono żadnego z nich. Według tureckich danych Irresistible zatonął około 19.30, a Ocean, zniesiony przez prąd do zatoki Morto, około 22.30.
 
 ## Bilans dnia
 

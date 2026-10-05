@@ -23,7 +23,7 @@ Dlatego daty w źródłach się różnią. Amerykańskie roczniki z epoki podaj�
 
 ## Dwór i uchodźcy
 
-Rodzina królewska opuszczała Bukareszt w żałobie. 2 listopada w Buftei zmarł na dur brzuszny najmłodszy syn króla [Ferdynanda I](/postacie/ferdynand-i-rumunski), trzyletni książę Mircea. Królowa [Maria](https://pl.wikipedia.org/wiki/Maria_Koburg) z pozostałymi dziećmi wyjechała na wschód, a król, według jej biografów, dołączył do niej na początku grudnia. „Przez całe tygodnie żyliśmy w pociągu, nie wiedząc, jak daleko musimy jechać, by być bezpiecznymi” – wspominała królowa. Pocieszała się, że wróci jeszcze choć raz na grób syna, ale wkrótce Bukareszt padł.
+Rodzina królewska opuszczała Bukareszt w żałobie. 2 listopada w Buftei zmarł na dur brzuszny najmłodszy syn króla [Ferdynanda I](/postacie/ferdynand-i-rumunski), trzyletni książę Mircea. Królowa [Maria](/postacie/maria-rumunska) z pozostałymi dziećmi wyjechała na wschód, a król, według jej biografów, dołączył do niej na początku grudnia. „Przez całe tygodnie żyliśmy w pociągu, nie wiedząc, jak daleko musimy jechać, by być bezpiecznymi” – wspominała królowa. Pocieszała się, że wróci jeszcze choć raz na grób syna, ale wkrótce Bukareszt padł.
 
 Za władzami ruszyły tysiące uciekinierów. Kirițescu opisuje szturm na pociągi na Dworcu Północnym w Bukareszcie: ludzie wychodzili kilka kilometrów przed stację i wskakiwali do wagonów na torach, a gdy pociąg podjeżdżał na peron, był już pełny. Inni uciekali samochodami, bryczkami i furmankami albo pieszo. Przez miasto ciągnęły też na wschód wozy chłopów z okręgów Teleorman i Vlașca, wysiedlanych przed nadchodzącym frontem. Większość mieszkańców stolicy, którzy nie mieli pieniędzy ani protekcji, została na miejscu.
 

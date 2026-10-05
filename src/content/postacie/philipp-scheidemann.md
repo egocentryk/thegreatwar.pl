@@ -1,0 +1,55 @@
+---
+name: Philipp Scheidemann
+summary: Socjaldemokrata, rzecznik pokoju bez aneksji, od października 1918 sekretarz stanu w rządzie Maksa Badeńskiego. 9 listopada ogłosił z okna Reichstagu republikę.
+role: Przewodniczący klubu SPD w Reichstagu (od 1913) i współprzewodniczący partii (od 1917), sekretarz stanu bez teki (1918), członek Rady Pełnomocników Ludowych, premier Rzeszy (1919)
+country: Niemcy
+side: Państwa centralne
+born: 1865-07-26
+died: 1939-11-29
+birthPlace: Kassel (Prusy)
+deathPlace: Kopenhaga
+aliases: [Philipp Scheidemann]
+wikiTitles: [Philipp_Scheidemann]
+authors: [Natalia]
+tags: [Niemcy, Socjaldemokratyczna Partia Niemiec, rewolucja listopadowa, inicjatywy pokojowe]
+---
+
+Philipp Scheidemann, drukarz z Kassel, który został jednym z najlepszych mówców niemieckiego parlamentu, przez całą wojnę był obok Friedricha Eberta najważniejszym przywódcą [Socjaldemokratycznej Partii Niemiec](https://pl.wikipedia.org/wiki/Socjaldemokratyczna_Partia_Niemiec). Popierał kredyty wojenne, ale głośniej niż ktokolwiek w partii domagał się pokoju bez aneksji, tak że jego nazwisko stało się hasłem: „pokój Scheidemanna”. W październiku 1918 roku jako pierwszy socjaldemokrata w historii wszedł do rządu Rzeszy. 9 listopada 1918 roku, bez porozumienia z Ebertem, proklamował z okna Reichstagu republikę niemiecką. Ten jeden gest uczynił go symbolem nowego państwa, a w oczach jego wrogów symbolem „zdrady listopadowej”.
+
+## Przed wojną
+
+Urodził się 26 lipca 1865 roku w [Kassel](https://pl.wikipedia.org/wiki/Kassel) w rodzinie mistrza tapicerskiego. Po wczesnej śmierci ojca rodzina zubożała. Philipp wyuczył się zawodu drukarza i jeszcze w czasach ustaw antysocjalistycznych wstąpił do związku drukarzy i do nielegalnej wówczas organizacji socjaldemokratycznej. Był samoukiem, dużo czytał i pisał. Od 1895 roku pracował jako redaktor gazet partyjnych w Gießen, Norymberdze, Offenbach i Kassel. W 1903 roku zdobył mandat do Reichstagu w okręgu [Solingen](https://pl.wikipedia.org/wiki/Solingen), a w 1911 roku wszedł do zarządu partii.
+
+W 1912 roku, gdy socjaldemokraci stali się największą frakcją Reichstagu, Scheidemanna wybrano na wiceprzewodniczącego izby. Jako pierwszy socjaldemokrata w tej roli odmówił jednak złożenia zwyczajowej wizyty u cesarza, więc urzędu w praktyce nie objął. Był znany z ostrych wystąpień przeciw Hohenzollernom. Po jednym z nich, w 1912 roku, kanclerz [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) ostentacyjnie wyszedł z sali. Na wiecu w Paryżu w tym samym roku zapewniał francuskich socjalistów, że niemieccy robotnicy będą się bronić „z odwagą rozpaczy” przed tymi, którzy chcą wciągnąć Europę w wojnę. Po śmierci [Augusta Bebla](https://pl.wikipedia.org/wiki/August_Bebel) w 1913 roku został jednym z przewodniczących frakcji, obok [Hugona Haasego](https://pl.wikipedia.org/wiki/Hugo_Haase). W partii uchodził za człowieka centrum, a współcześni podkreślali jego talent oratorski, humor i mieszczańskie maniery, kontrastujące z powagą Eberta.
+
+## Kredyty i pokój bez aneksji
+
+W sierpniu 1914 roku Scheidemann poparł [kredyty wojenne](/liebknecht-glosuje-przeciw-kredytom-wojennym) i politykę „pokoju grodowego”. Uważał, że Niemcy muszą się bronić, a socjaldemokraci nie mogą zostawić ojczyzny w godzinie niebezpieczeństwa. W styczniu 1915 roku oburzał się na tych towarzyszy, którzy nie mogli znieść słowa „ojczyzna”. Zarazem stał się najbardziej znanym w partii rzecznikiem pokoju porozumienia. Jego formuła „co francuskie, niech pozostanie francuskie, co belgijskie, belgijskie, a co niemieckie, niemieckie” wywoływała furię aneksjonistów, którzy oskarżali go o zdradę stanu. Później działacze skrajnie nacjonalistycznej Niemieckiej Partii Ojczyźnianej odgrażali się, że go powieszą. Pokój bez aneksji i odszkodowań nazywano w Niemczech „pokojem Scheidemanna”. Jego nazwisko stało się też obelgą: „Scheidemännerami” prawica, a później skrajna lewica nazywały socjaldemokratów popierających rząd.
+
+Mimo to rozłamu w partii zatrzymać nie zdołał. Od stycznia 1916 roku kierował frakcją razem z [Friedrichem Ebertem](/postacie/friedrich-ebert). W marcu 1916 roku to on bronił w Reichstagu budżetu w imieniu większości partii, a Haase wystąpił przeciw niemu, co doprowadziło do wykluczenia opozycjonistów z klubu. W kwietniu 1917 roku powstała [Niezależna Socjaldemokratyczna Partia Niemiec](https://pl.wikipedia.org/wiki/Niezależna_Socjaldemokratyczna_Partia_Niemiec). Przeszła do niej nawet socjaldemokratyczna organizacja w Solingen, która bezskutecznie wezwała Scheidemanna do złożenia mandatu.
+
+## 1917: rezolucja pokojowa i Sztokholm
+
+Wiosną 1917 roku, po rewolucji lutowej w Rosji i wobec rosnącej nędzy robotników, socjaldemokraci zaczęli domagać się wprowadzenia obiecanych reform. Scheidemann prowadził rozmowy z liberałem Conradem Haußmannem i narodowym liberałem [Gustavem Stresemannem](https://pl.wikipedia.org/wiki/Gustav_Stresemann) o utworzeniu parlamentarnej większości, która zażąda rządu odpowiedzialnego przed Reichstagiem. Zapewniał przy tym mieszczańskich partnerów, że parlamentaryzm da się pogodzić z monarchią. W czerwcu 1917 roku stał na czele delegacji socjaldemokratów w Sztokholmie, gdzie socjaliści z państw neutralnych próbowali zwołać [międzynarodową konferencję pokojową](/odmowa-paszportow-na-konferencje-sztokholmska). Konferencja nie doszła do skutku, między innymi dlatego, że rządy Ententy odmówiły swoim socjalistom paszportów.
+
+19 lipca 1917 roku nowa większość, socjaldemokraci, Centrum i postępowcy, uchwaliła w Reichstagu [rezolucję pokojową](/rezolucja-pokojowa-reichstagu), wzywającą do pokoju porozumienia bez przymusowych aneksji. Scheidemann mówił w debacie nad nią o „intrygach”, których ofiarą padł kanclerz Bethmann Hollweg. Na zjeździe w Würzburgu w październiku 1917 roku został obok Eberta przewodniczącym partii. W styczniu 1918 roku, gdy Berlin ogarnął [strajk w przemyśle zbrojeniowym](/strajk-styczniowy-w-niemczech), wszedł razem z Ebertem i Otto Braunem do komitetu strajkowego, by zapobiec radykalizacji robotników i szybko zakończyć protest. Prawica nigdy mu tego nie zapomniała. W tym samym miesiącu w komisji Reichstagu krytykował kanclerza [Georga von Hertlinga](/postacie/georg-von-hertling) za jego [odpowiedź na program pokojowy Wilsona](/hertling-i-czernin-odpowiadaja-wilsonowi).
+
+## W rządzie Maksa Badeńskiego
+
+Latem 1918 roku Scheidemann objął wreszcie urząd wiceprzewodniczącego Reichstagu. We wrześniu, jako przywódca frakcji w międzypartyjnym komitecie, przyczynił się do [upadku Hertlinga](/dymisja-hertlinga). W sprawie dalszych kroków różnił się jednak z Ebertem. Uważał, że socjaldemokracji nie można zmuszać do postawienia na czele rządu księcia, i jeszcze 3 października sprzeciwiał się wejściu do gabinetu „w chwili najgorszego położenia”. Ebert przekonał frakcję, a Scheidemann, wbrew własnym wątpliwościom, został sekretarzem stanu bez teki w [rządzie księcia Maksa Badeńskiego](/max-badenski-kanclerzem). Był pierwszym socjaldemokratą w rządzie Rzeszy, obok związkowca Gustava Bauera.
+
+W rządzie [Maksa von Baden](/postacie/max-von-baden) Scheidemann zabiegał o amnestię dla więźniów politycznych. Wbrew ministerstwu wojny, sądownictwu wojskowemu i wątpliwościom kanclerza przeforsował w październiku zwolnienie z więzienia [Karla Liebknechta](https://pl.wikipedia.org/wiki/Karl_Liebknecht). Zarazem bał się rewolucji. 5 listopada, gdy rząd zerwał stosunki z Rosją Radziecką, mówił, że bolszewizm jest groźniejszy niż wróg zewnętrzny. Po [buncie w Kilonii](/bunt-w-kilonii) uznał, że tylko abdykacja cesarza pozwoli uratować kraj przed chaosem. 6 listopada mówił towarzyszom, że partia musi teraz stanąć na czele ruchu, bo inaczej Niemcy pogrążą się w anarchii. 7 listopada socjaldemokraci postawili rządowi ultimatum.
+
+## 9 listopada
+
+Rano 9 listopada Scheidemann złożył dymisję z funkcji sekretarza stanu. W południe kanclerz przekazał urząd Ebertowi. Wczesnym popołudniem, gdy Scheidemann jadł obiad w restauracji Reichstagu, doniesiono mu, że przywódca spartakusowców Karl Liebknecht zamierza ogłosić republikę rad. Nie chcąc oddać inicjatywy skrajnej lewicy, około 14.00 wyszedł do okna [gmachu Reichstagu](https://pl.wikipedia.org/wiki/Gmach_parlamentu_Rzeszy_w_Berlinie) i przemówił do tłumu. [Ogłosił](/rewolucja-w-berlinie), że stare się zawaliło, Hohenzollernowie abdykowali, Ebert jest kanclerzem, i zakończył okrzykiem: „Niech żyje republika niemiecka!”. Najbardziej znana wersja tego przemówienia, ze słowami o „zgniłym i spróchniałym” starym porządku i końcu militaryzmu, to późniejsza rekonstrukcja, nagrana przez Scheidemanna na płytę w 1920 roku. Ebert, który chciał zostawić decyzję o ustroju zgromadzeniu narodowemu, był wściekły. Liebknecht dwie godziny później ogłosił „wolną socjalistyczną republikę”, ale to proklamacja Scheidemanna przeszła do historii.
+
+Od 10 listopada Scheidemann zasiadał w Radzie Pełnomocników Ludowych, gdzie odpowiadał głównie za finanse. W Wigilię poparł decyzję Eberta, by wojsko uderzyło na zbuntowanych marynarzy w zamku berlińskim. Po [walkach bożonarodzeniowych](/walki-bozonarodzeniowe-w-berlinie) na pogrzebie marynarzy niesiono transparenty oskarżające o mord Eberta, Landsberga i Scheidemanna.
+
+## Po wojnie
+
+13 lutego 1919 roku Scheidemann stanął na czele [pierwszego rządu](https://pl.wikipedia.org/wiki/Rząd_Philippa_Scheidemanna) wyłonionego przez Zgromadzenie Narodowe w Weimarze, koalicji socjaldemokratów, Centrum i liberalnych demokratów. 12 maja 1919 roku, mówiąc o warunkach pokoju, zapytał w Zgromadzeniu: „Jaka ręka nie musiałaby uschnąć, która sobie i nam nałożyłaby takie kajdany?”. Gdy okazało się, że traktat trzeba podpisać, a jego rząd nie był w stanie się porozumieć, 20 czerwca 1919 roku podał się do dymisji. W latach 1919–1925 był nadburmistrzem Kassel, a do 1933 roku posłem do Reichstagu. W 1922 roku przeżył zamach członków skrajnie prawicowej [Organizacji Consul](https://pl.wikipedia.org/wiki/Organizacja_Consul), którzy chlusnęli mu w twarz kwasem pruskim. W 1926 roku ujawnił w Reichstagu tajną współpracę Reichswehry z Armią Czerwoną. Po dojściu Hitlera do władzy uciekł z kraju i od 1935 roku żył w Danii. Zmarł 29 listopada 1939 roku w [Kopenhadze](https://pl.wikipedia.org/wiki/Kopenhaga). Po wojnie jego prochy sprowadzono do Kassel.
+
+## Ocena
+
+Historycy przedstawiają Scheidemanna jako polityka pragmatycznego, świetnego mówcę i człowieka popularnego także poza partią, lecz mniej zdolnego taktyka i organizatora niż Ebert. W czasie wojny próbował pogodzić dwa skrzydła partii, obronę kraju z dążeniem do pokoju, i choć to mu się nie udało, jego „pokój bez aneksji” stał się programem większości Reichstagu. Proklamacja z 9 listopada była aktem spontanicznym, nieuzgodnionym z Ebertem, ale według wielu historyków odebrała inicjatywę skrajnej lewicy i przesądziła, że Niemcy staną się republiką. Dla prawicy Scheidemann był odtąd uosobieniem „zbrodniarzy listopadowych”, dla komunistów jednym z „Scheidemänner”, którzy zdradzili rewolucję. Jego wojenne dzienniki, 26 tomów notatek z lat 1914–1919, zostały w 1933 roku zarekwirowane przez nazistowską policję i zaginęły.

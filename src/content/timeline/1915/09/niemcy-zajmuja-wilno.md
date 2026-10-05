@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 września 1915 roku do [Wilna](https://pl.wikipedia.org/wiki/Wilno) wkroczyły wojska niemieckiej 10 Armii generała [Hermanna von Eichhorna](https://pl.wikipedia.org/wiki/Hermann_von_Eichhorn). Rosjanie nie bronili miasta. W nocy z 17 na 18 września jego załoga wymaszerowała na wschód, a rano, po zwiadach, weszły do niego niemieckie oddziały. Niemiecki komunikat z 19 września ogłosił, że oskrzydlające natarcie armii Eichhorna „doprowadziło do pełnego sukcesu”, a „silnie umocnione Wilno” wpadło w niemieckie ręce. Dla Rosji była to utrata jednego z największych miast zachodnich guberni, stolicy guberni wileńskiej i ważnego węzła kolejowego. Dla mieszkańców zaczęła się trwająca ponad trzy lata okupacja niemiecka.
+18 września 1915 roku do [Wilna](https://pl.wikipedia.org/wiki/Wilno) wkroczyły wojska niemieckiej 10 Armii generała [Hermanna von Eichhorna](/postacie/hermann-von-eichhorn). Rosjanie nie bronili miasta. W nocy z 17 na 18 września jego załoga wymaszerowała na wschód, a rano, po zwiadach, weszły do niego niemieckie oddziały. Niemiecki komunikat z 19 września ogłosił, że oskrzydlające natarcie armii Eichhorna „doprowadziło do pełnego sukcesu”, a „silnie umocnione Wilno” wpadło w niemieckie ręce. Dla Rosji była to utrata jednego z największych miast zachodnich guberni, stolicy guberni wileńskiej i ważnego węzła kolejowego. Dla mieszkańców zaczęła się trwająca ponad trzy lata okupacja niemiecka.
 
 ## Odwrót bez walki
 

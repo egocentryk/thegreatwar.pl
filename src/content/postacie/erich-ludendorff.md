@@ -54,7 +54,7 @@ Pod koniec lata Ludendorff był wyczerpany. Pracował po kilkanaście godzin na 
 
 ## Dymisja
 
-W październiku Ludendorff zmienił zdanie. Front cofał się, ale się nie rozpadał, a kolejne noty prezydenta Wilsona stawały się coraz twardsze. Gdy [nota z 23 października](/trzecia-nota-wilsona) zażądała w praktyce kapitulacji, Ludendorff chciał zerwać rozmowy i walczyć dalej. Odezwa do wojska, którą podpisał razem z Hindenburgiem, nazywała warunki Wilsona nie do przyjęcia. Kanclerz [Max von Baden](https://pl.wikipedia.org/wiki/Max_von_Baden) zagroził dymisją całego rządu, jeśli generał nie odejdzie. [26 października w pałacu Bellevue cesarz przyjął dymisję Ludendorffa](/dymisja-ludendorffa), ale Hindenburga zatrzymał. Ludendorff odmówił powrotu z feldmarszałkiem jednym samochodem i powiedział oficerom, że za dwa tygodnie w Niemczech nie będzie już cesarza.
+W październiku Ludendorff zmienił zdanie. Front cofał się, ale się nie rozpadał, a kolejne noty prezydenta Wilsona stawały się coraz twardsze. Gdy [nota z 23 października](/trzecia-nota-wilsona) zażądała w praktyce kapitulacji, Ludendorff chciał zerwać rozmowy i walczyć dalej. Odezwa do wojska, którą podpisał razem z Hindenburgiem, nazywała warunki Wilsona nie do przyjęcia. Kanclerz [Max von Baden](/postacie/max-von-baden) zagroził dymisją całego rządu, jeśli generał nie odejdzie. [26 października w pałacu Bellevue cesarz przyjął dymisję Ludendorffa](/dymisja-ludendorffa), ale Hindenburga zatrzymał. Ludendorff odmówił powrotu z feldmarszałkiem jednym samochodem i powiedział oficerom, że za dwa tygodnie w Niemczech nie będzie już cesarza.
 
 ## Po wojnie
 

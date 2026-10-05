@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod tym dniem ustąpienie premiera Rumunii [Alexandru Marghilomana](https://pl.wikipedia.org/wiki/Alexandru_Marghiloman) i ministra spraw zagranicznych Constantina Ariona (w chronologii „Arian”). Rząd, który [w marcu](/marghiloman-premierem-rumunii) objął władzę, by zawrzeć pokój z państwami centralnymi, upadł jednak dwa dni wcześniej. Według dziennika samego Marghilomana i rumuńskich zestawień rządów dymisja nastąpiła 6 listopada 1918 roku, czyli 24 października według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia. Tego samego dnia powołano nowy gabinet. Brytyjska chronologia notuje go dopiero pod 1 grudnia.
+Brytyjska chronologia wojny notuje pod tym dniem ustąpienie premiera Rumunii [Alexandru Marghilomana](/postacie/alexandru-marghiloman) i ministra spraw zagranicznych Constantina Ariona (w chronologii „Arian”). Rząd, który [w marcu](/marghiloman-premierem-rumunii) objął władzę, by zawrzeć pokój z państwami centralnymi, upadł jednak dwa dni wcześniej. Według dziennika samego Marghilomana i rumuńskich zestawień rządów dymisja nastąpiła 6 listopada 1918 roku, czyli 24 października według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia. Tego samego dnia powołano nowy gabinet. Brytyjska chronologia notuje go dopiero pod 1 grudnia.
 
 ## Ostatnie dni rządu
 

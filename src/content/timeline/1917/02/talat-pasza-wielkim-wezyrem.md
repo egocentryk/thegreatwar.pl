@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-4 lutego 1917 roku sułtan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V) mianował [wielkim wezyrem](https://pl.wikipedia.org/wiki/Wielki_wezyr), czyli szefem rządu [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie), dotychczasowego ministra spraw wewnętrznych [Mehmeda Talata](https://pl.wikipedia.org/wiki/Mehmet_Talaat). Dzień wcześniej, 3 lutego, ustąpił [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), który kierował rządem od czerwca 1913 roku. Oficjalnie podał się do dymisji z powodów zdrowotnych. Talat zachował przy tym ministerstwo spraw wewnętrznych. Wraz z nową godnością otrzymał rangę wezyra, a z nią tytuł paszy. Dotąd znany jako Talat Bej, odtąd był Talatem Paszą. Według historyków był pierwszym posłem do parlamentu, który został wielkim wezyrem w dziejach państwa osmańskiego.
+4 lutego 1917 roku sułtan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V) mianował [wielkim wezyrem](https://pl.wikipedia.org/wiki/Wielki_wezyr), czyli szefem rządu [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie), dotychczasowego ministra spraw wewnętrznych [Mehmeda Talata](/postacie/mehmet-talaat). Dzień wcześniej, 3 lutego, ustąpił [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), który kierował rządem od czerwca 1913 roku. Oficjalnie podał się do dymisji z powodów zdrowotnych. Talat zachował przy tym ministerstwo spraw wewnętrznych. Wraz z nową godnością otrzymał rangę wezyra, a z nią tytuł paszy. Dotąd znany jako Talat Bej, odtąd był Talatem Paszą. Według historyków był pierwszym posłem do parlamentu, który został wielkim wezyrem w dziejach państwa osmańskiego.
 
 ## Koniec rządów figuranta
 

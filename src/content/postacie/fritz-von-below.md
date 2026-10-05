@@ -24,7 +24,7 @@ Urodził się 23 września 1853 roku w Gdańsku w starej pomorsko-meklemburskiej
 
 W sierpniu 1914 roku XXI Korpus wszedł w skład 6 Armii następcy tronu Bawarii [Rupprechta](/postacie/rupprecht-bawarski). 20 sierpnia, w [bitwie w Lotaryngii](/bitwy/bitwa-w-lotaryngii), walczył w centrum armii, która odparła francuską ofensywę spod Morhange i Sarrebourga. Jesienią, w czasie wyścigu do morza, korpus przerzucono na północ, w okolice Arras.
 
-Na początku 1915 roku XXI Korpus był jednym z czterech korpusów wysłanych do Prus Wschodnich. W lutym, w składzie 10 Armii generała [Hermanna von Eichhorna](https://pl.wikipedia.org/wiki/Hermann_von_Eichhorn), wziął udział w [zimowej bitwie na Mazurach](/bitwy/zimowa-bitwa-na-mazurach). Below prowadził wtedy według Neue Deutsche Biographie skrajne skrzydło okrążające, które w śniegu i mrozie obeszło rosyjską 10 Armię od północy. W połowie lutego dostał za tę bitwę order Pour le Mérite. Na wschodzie nie zabawił jednak długo.
+Na początku 1915 roku XXI Korpus był jednym z czterech korpusów wysłanych do Prus Wschodnich. W lutym, w składzie 10 Armii generała [Hermanna von Eichhorna](/postacie/hermann-von-eichhorn), wziął udział w [zimowej bitwie na Mazurach](/bitwy/zimowa-bitwa-na-mazurach). Below prowadził wtedy według Neue Deutsche Biographie skrajne skrzydło okrążające, które w śniegu i mrozie obeszło rosyjską 10 Armię od północy. W połowie lutego dostał za tę bitwę order Pour le Mérite. Na wschodzie nie zabawił jednak długo.
 
 ## 2 Armia nad Sommą
 
