@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 9 maja 1915 roku, że prezydent Stanów Zjednoczonych [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) w przemówieniu określił politykę swojego kraju wobec [zatopienia Lusitanii](/zatopienie-lusitanii). Przemówienie, o które chodzi, Wilson wygłosił jednak dzień później, wieczorem 10 maja, w [Filadelfii](https://pl.wikipedia.org/wiki/Filadelfia). Dni od katastrofy do tego wystąpienia prezydent spędził w odosobnieniu, a Amerykanie z niecierpliwością czekali na jego słowa.
+Brytyjska chronologia wojny notuje pod 9 maja 1915 roku, że prezydent Stanów Zjednoczonych [Woodrow Wilson](/postacie/woodrow-wilson) w przemówieniu określił politykę swojego kraju wobec [zatopienia Lusitanii](/zatopienie-lusitanii). Przemówienie, o które chodzi, Wilson wygłosił jednak dzień później, wieczorem 10 maja, w [Filadelfii](https://pl.wikipedia.org/wiki/Filadelfia). Dni od katastrofy do tego wystąpienia prezydent spędził w odosobnieniu, a Amerykanie z niecierpliwością czekali na jego słowa.
 
 ## Milczenie Białego Domu
 
@@ -18,7 +18,7 @@ Wiadomość o storpedowaniu liniowca dotarła do Waszyngtonu 7 maja po południu
 
 Wilson nie wydał żadnego oświadczenia. 8 maja jego sekretarz Joseph Tumulty przekazał prasie jedynie, że prezydent w pełni odczuwa powagę sytuacji i rozważa „bardzo poważnie, ale bardzo spokojnie” właściwy sposób postępowania, a naród oczekuje od niego działania rozważnego i zarazem stanowczego. Przez weekend 8–9 maja Wilson unikał publicznych wystąpień i rozmów z dziennikarzami. Gazety pisały o prezydencie „wstrząśniętym, w odosobnieniu”.
 
-Tymczasem wielu Amerykanów domagało się twardej odpowiedzi. Były prezydent [Theodore Roosevelt](https://pl.wikipedia.org/wiki/Theodore_Roosevelt) nazwał zatopienie Lusitanii piractwem, i to mordem na skalę, jakiej nie znali dawni piraci. W samej administracji radca Departamentu Stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) opowiadał się za stanowczym protestem, a sekretarz stanu [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan), pacyfista, ostrzegał przed krokami, które mogłyby wciągnąć kraj do wojny.
+Tymczasem wielu Amerykanów domagało się twardej odpowiedzi. Były prezydent [Theodore Roosevelt](https://pl.wikipedia.org/wiki/Theodore_Roosevelt) nazwał zatopienie Lusitanii piractwem, i to mordem na skalę, jakiej nie znali dawni piraci. W samej administracji radca Departamentu Stanu [Robert Lansing](/postacie/robert-lansing) opowiadał się za stanowczym protestem, a sekretarz stanu [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan), pacyfista, ostrzegał przed krokami, które mogłyby wciągnąć kraj do wojny.
 
 ## „Zbyt dumny, by walczyć”
 

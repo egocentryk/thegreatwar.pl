@@ -24,6 +24,6 @@ Uproszczono procedurę w trybunałach, które rozpatrywały wnioski o zwolnienie
 
 ## Orędzie króla
 
-Tego samego dnia król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V_Windsor) wydał orędzie do narodu. „Aby umożliwić naszemu krajowi skuteczniejsze zorganizowanie jego sił wojskowych w obecnej wielkiej walce o sprawę cywilizacji – pisał – uznałem za konieczne, za radą moich ministrów, powołać każdego zdolnego do służby mężczyznę w wieku od osiemnastu do czterdziestu jeden lat”. Dziękował zarazem za patriotyzm i poświęcenie, dzięki którym od początku wojny zaciągnęło się dobrowolnie nie mniej niż 5 041 000 mężczyzn.
+Tego samego dnia król [Jerzy V](/postacie/jerzy-v) wydał orędzie do narodu. „Aby umożliwić naszemu krajowi skuteczniejsze zorganizowanie jego sił wojskowych w obecnej wielkiej walce o sprawę cywilizacji – pisał – uznałem za konieczne, za radą moich ministrów, powołać każdego zdolnego do służby mężczyznę w wieku od osiemnastu do czterdziestu jeden lat”. Dziękował zarazem za patriotyzm i poświęcenie, dzięki którym od początku wojny zaciągnęło się dobrowolnie nie mniej niż 5 041 000 mężczyzn.
 
 Druga ustawa zamknęła epokę armii ochotniczej. Sprawy nie zakończyła jednak. Trybunały nadal zwalniały setki tysięcy mężczyzn, a wojsko wciąż skarżyło się na brak ludzi. W kolejnych latach parlament jeszcze kilka razy zaostrzał przepisy, a wiosną 1918 roku rozciągnął pobór na mężczyzn do 51 lat.

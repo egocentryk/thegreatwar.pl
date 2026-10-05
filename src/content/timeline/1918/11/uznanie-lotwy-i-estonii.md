@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 listopada 1918 roku, w dniu [rozejmu w Compiègne](/rozejm-w-compiegne), brytyjski minister spraw zagranicznych [Arthur Balfour](https://pl.wikipedia.org/wiki/Arthur_Balfour) wysłał list do przebywającego w Londynie łotewskiego polityka Zigfrīdsa Meierovicsa. Potwierdził w nim na piśmie, że Wielka Brytania tymczasowo uznaje Łotewską Radę Narodową za niezależny organ de facto. Tego samego dnia w [Tallinnie](https://pl.wikipedia.org/wiki/Tallinn), jeszcze pod niemiecką okupacją, wznowił działalność [Estoński Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Estoński_Rząd_Tymczasowy). Brytyjska chronologia wojny pisze, że Londyn uznał „Tymczasowy Rząd Łotwy za niezależny rząd”. To uproszczenie: rządu łotewskiego jeszcze nie było, a uznanie dotyczyło Rady Narodowej i miało charakter tymczasowy.
+11 listopada 1918 roku, w dniu [rozejmu w Compiègne](/rozejm-w-compiegne), brytyjski minister spraw zagranicznych [Arthur Balfour](/postacie/arthur-balfour) wysłał list do przebywającego w Londynie łotewskiego polityka Zigfrīdsa Meierovicsa. Potwierdził w nim na piśmie, że Wielka Brytania tymczasowo uznaje Łotewską Radę Narodową za niezależny organ de facto. Tego samego dnia w [Tallinnie](https://pl.wikipedia.org/wiki/Tallinn), jeszcze pod niemiecką okupacją, wznowił działalność [Estoński Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Estoński_Rząd_Tymczasowy). Brytyjska chronologia wojny pisze, że Londyn uznał „Tymczasowy Rząd Łotwy za niezależny rząd”. To uproszczenie: rządu łotewskiego jeszcze nie było, a uznanie dotyczyło Rady Narodowej i miało charakter tymczasowy.
 
 ## Łotwa
 

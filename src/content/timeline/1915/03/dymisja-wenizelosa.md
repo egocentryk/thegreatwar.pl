@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 marca 1915 roku (21 lutego według kalendarza juliańskiego, którego Grecja używała do 1923 roku) król [Konstantyn I](https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki) odmówił zgody na politykę premiera [Elefteriosa Wenizelosa](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos), który chciał wprowadzić Grecję do wojny po stronie Ententy. Wenizelos złożył dymisję. Tak zakończyły się jego pierwsze rządy, trwające od 19 października 1910 roku (6 października według kalendarza juliańskiego).
+6 marca 1915 roku (21 lutego według kalendarza juliańskiego, którego Grecja używała do 1923 roku) król [Konstantyn I](/postacie/konstantyn-i) odmówił zgody na politykę premiera [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos), który chciał wprowadzić Grecję do wojny po stronie Ententy. Wenizelos złożył dymisję. Tak zakończyły się jego pierwsze rządy, trwające od 19 października 1910 roku (6 października według kalendarza juliańskiego).
 
 ## Odmowa króla
 

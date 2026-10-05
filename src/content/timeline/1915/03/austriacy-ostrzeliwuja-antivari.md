@@ -17,7 +17,7 @@ Brytyjska chronologia wojny notuje pod 1 marca 1915 roku ostrzelanie czarnogórs
 
 Antivari było jedynym ważnym portem [Królestwa Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry). Docierało przez nie zaopatrzenie przysyłane przez sojuszników, przede wszystkim zboże, żywność i amunicja, od których zależało przetrwanie małego państwa. Dlatego od pierwszych dni wojny port był celem [austro-węgierskiej floty](https://pl.wikipedia.org/wiki/Kaiserliche_und_Königliche_Kriegsmarine). Ostrzeliwano go już w sierpniu 1914 roku, a 16 sierpnia w jego pobliżu francuska flota [zatopiła krążownik Zenta](/zatopienie-krazownika-zenta), który blokował wybrzeże. Kolejne ostrzały przyszły we wrześniu, październiku i listopadzie. We wrześniu Francuzi wyładowali w Antivari działa, które następnie [wciągnięto na Lovćen, nad Zatoką Kotorską](/francuzi-ostrzeliwuja-kotor).
 
-Celem Austriaków był też królewski jacht Rumija, dar sułtana Abdülhamida II dla księcia, a później króla [Mikołaja I](https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz). W czasie wojny jacht przewoził żołnierzy i broń. Według czarnogórskich historyków Austriacy próbowali go zniszczyć już w lutym, co najmniej dwukrotnie, ale bez powodzenia.
+Celem Austriaków był też królewski jacht Rumija, dar sułtana Abdülhamida II dla księcia, a później króla [Mikołaja I](/postacie/mikolaj-i-petrowic-niegosz). W czasie wojny jacht przewoził żołnierzy i broń. Według czarnogórskich historyków Austriacy próbowali go zniszczyć już w lutym, co najmniej dwukrotnie, ale bez powodzenia.
 
 ## Nocny wypad
 

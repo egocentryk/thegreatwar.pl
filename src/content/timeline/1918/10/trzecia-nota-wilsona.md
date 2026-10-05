@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 października 1918 roku sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) przekazał szwajcarskiemu chargé d’affaires trzecią odpowiedź prezydenta [Woodrowa Wilsona](https://pl.wikipedia.org/wiki/Woodrow_Wilson) dla Niemiec. Była reakcją na niemiecką notę z 20 października, w której Berlin przyjął [warunki postawione 14 października](/druga-nota-wilsona) i zakazał okrętom podwodnym atakowania statków pasażerskich. Prezydent stwierdził, że skoro otrzymał uroczyste zapewnienie, iż rząd niemiecki bez zastrzeżeń przyjmuje jego warunki pokoju, a to stanowisko wyrażają ministrowie mówiący w imieniu większości Reichstagu i narodu, a nie ci, którzy dotąd kierowali polityką Niemiec i prowadzili wojnę, nie może odmówić podjęcia sprawy rozejmu z rządami, u boku których walczą Stany Zjednoczone.
+23 października 1918 roku sekretarz stanu [Robert Lansing](/postacie/robert-lansing) przekazał szwajcarskiemu chargé d’affaires trzecią odpowiedź prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson) dla Niemiec. Była reakcją na niemiecką notę z 20 października, w której Berlin przyjął [warunki postawione 14 października](/druga-nota-wilsona) i zakazał okrętom podwodnym atakowania statków pasażerskich. Prezydent stwierdził, że skoro otrzymał uroczyste zapewnienie, iż rząd niemiecki bez zastrzeżeń przyjmuje jego warunki pokoju, a to stanowisko wyrażają ministrowie mówiący w imieniu większości Reichstagu i narodu, a nie ci, którzy dotąd kierowali polityką Niemiec i prowadzili wojnę, nie może odmówić podjęcia sprawy rozejmu z rządami, u boku których walczą Stany Zjednoczone.
 
 ## Rozejm dla zwycięzców
 

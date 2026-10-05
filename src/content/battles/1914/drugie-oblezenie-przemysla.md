@@ -65,7 +65,7 @@ Do rosyjskiej niewoli poszło według najczęściej przytaczanych danych 9 gener
 
 ## Pod rosyjską władzą
 
-Dla cywilów kapitulacja nie oznaczała końca cierpień. Kozacy urządzili w mieście pogrom ludności żydowskiej, a w kwietniu 1915 roku rosyjskie władze wysiedliły z Przemyśla w głąb imperium tysiące Żydów, według niektórych szacunków około 17 tysięcy. Pod koniec kwietnia twierdzę odwiedził car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow), by uczcić zwycięstwo. Rosjanie utrzymali Przemyśl tylko przez nieco ponad dwa miesiące. Po przełamaniu frontu pod [Gorlicami](https://pl.wikipedia.org/wiki/Bitwa_pod_Gorlicami) wojska niemieckie i austro-węgierskie odbiły miasto 3 czerwca 1915 roku.
+Dla cywilów kapitulacja nie oznaczała końca cierpień. Kozacy urządzili w mieście pogrom ludności żydowskiej, a w kwietniu 1915 roku rosyjskie władze wysiedliły z Przemyśla w głąb imperium tysiące Żydów, według niektórych szacunków około 17 tysięcy. Pod koniec kwietnia twierdzę odwiedził car [Mikołaj II](/postacie/mikolaj-ii), by uczcić zwycięstwo. Rosjanie utrzymali Przemyśl tylko przez nieco ponad dwa miesiące. Po przełamaniu frontu pod [Gorlicami](https://pl.wikipedia.org/wiki/Bitwa_pod_Gorlicami) wojska niemieckie i austro-węgierskie odbiły miasto 3 czerwca 1915 roku.
 
 ## Znaczenie
 

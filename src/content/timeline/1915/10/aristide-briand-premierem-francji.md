@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 października 1915 roku Francja miała nowy rząd. Jego szefem został [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand), dotychczasowy wicepremier i minister sprawiedliwości, który przejął również ministerstwo spraw zagranicznych, nieobsadzone od [odejścia Théophile'a Delcassé](/theophile-delcasse-podaje-sie-do-dymisji). Prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) podpisał dekrety o powołaniu gabinetu tuż przed północą 29 października, po [dymisji rządu René Vivianiego](/dymisja-rzadu-vivianiego), dlatego część źródeł datuje powstanie rządu na ten dzień. Następnego dnia nowy gabinet był w komplecie.
+30 października 1915 roku Francja miała nowy rząd. Jego szefem został [Aristide Briand](/postacie/aristide-briand), dotychczasowy wicepremier i minister sprawiedliwości, który przejął również ministerstwo spraw zagranicznych, nieobsadzone od [odejścia Théophile'a Delcassé](/theophile-delcasse-podaje-sie-do-dymisji). Prezydent [Raymond Poincaré](/postacie/raymond-poincare) podpisał dekrety o powołaniu gabinetu tuż przed północą 29 października, po [dymisji rządu René Vivianiego](/dymisja-rzadu-vivianiego), dlatego część źródeł datuje powstanie rządu na ten dzień. Następnego dnia nowy gabinet był w komplecie.
 
 ## Doświadczony polityk
 

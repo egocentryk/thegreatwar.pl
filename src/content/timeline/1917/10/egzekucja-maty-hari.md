@@ -34,7 +34,7 @@ Na początku stycznia 1917 roku Mata Hari wróciła do Paryża. Rano 13 lutego a
 
 Proces przed 3 Radą Wojenną w Paryżu odbył się 24 i 25 lipca 1917 roku przy drzwiach zamkniętych. Sądziło ją siedmiu oficerów, oskarżał porucznik André Mornet, a bronił jej sędziwy Clunet, który znał ją od lat, ale nie zdołał podważyć zarzutów. Akt oskarżenia zarzucał jej między innymi, że przekazywała Niemcom wiadomości o armii francuskiej i o przygotowaniach do ofensywy. Oskarżyciel przedstawiał ją jako zdrajczynię, która zabawiała się, gdy żołnierze ginęli na froncie. Później powtarzano nawet, że jej zdrada kosztowała życie 50 tysięcy żołnierzy, choć nie ma na to żadnych dowodów. Po krótkiej naradzie sędziowie jednogłośnie uznali ją za winną we wszystkich ośmiu punktach i skazali na śmierć. „To niemożliwe” – miała powtarzać po ogłoszeniu wyroku.
 
-Odwołania nie pomogły. Wojskowa rada rewizyjna odrzuciła je w sierpniu, a Sąd Kasacyjny pod koniec września. O złagodzenie kary prosił rząd Holandii. Sama skazana napisała do prezydenta [Raymonda Poincarégo](https://pl.wikipedia.org/wiki/Raymond_Poincaré) długi list, w którym przekonywała, że wszystko, co jej zarzucano w Hiszpanii, robiła na rzecz Francji i za wiedzą francuskich władz. Poincaré nie skorzystał z prawa łaski.
+Odwołania nie pomogły. Wojskowa rada rewizyjna odrzuciła je w sierpniu, a Sąd Kasacyjny pod koniec września. O złagodzenie kary prosił rząd Holandii. Sama skazana napisała do prezydenta [Raymonda Poincarégo](/postacie/raymond-poincare) długi list, w którym przekonywała, że wszystko, co jej zarzucano w Hiszpanii, robiła na rzecz Francji i za wiedzą francuskich władz. Poincaré nie skorzystał z prawa łaski.
 
 ## Rok szpiegów
 

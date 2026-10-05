@@ -26,11 +26,11 @@ Rankiem 28 sierpnia nad zatoką wisiała mgła. Około godziny 7 brytyjskie nisz
 
 Niemieckie krążowniki wychodziły z portów pojedynczo i od razu wchodziły do walki. Około południa Brytyjczycy mieli poważne kłopoty, bo kolejne niemieckie okręty przybywały na pole bitwy, a okręty Tyrwhitta, z uszkodzoną „Arethusą”, znalazły się w niebezpieczeństwie. Wtedy Beatty podjął ryzykowną decyzję i poprowadził swoje wielkie okręty w głąb zatoki, mimo groźby min i okrętów podwodnych. Krążownik „Mainz” został zatopiony przez okręty Goodenougha i niszczyciele. Krążowniki liniowe z flagowym HMS [„Lion”](https://pl.wikipedia.org/wiki/HMS_Lion_(1910)) na czele rozstrzelały z bliska „Cöln” i „Ariadne”. Na pokładzie „Cöln” zginął kontradmirał [Leberecht Maass](https://pl.wikipedia.org/wiki/Leberecht_Maass), dowódca niemieckich torpedowców. Z załogi krążownika uratowano tylko jednego marynarza.
 
-Wkrótce po godzinie 13 Beatty nakazał odwrót. Niemieckie pancerniki i krążowniki liniowe nie mogły wcześniej wyjść na morze, bo zatrzymywał je odpływ na mieliźnie u ujścia Jade. Gdy kontradmirał [Franz von Hipper](https://pl.wikipedia.org/wiki/Franz_von_Hipper) wyprowadził swoje krążowniki liniowe, Brytyjczyków już nie było.
+Wkrótce po godzinie 13 Beatty nakazał odwrót. Niemieckie pancerniki i krążowniki liniowe nie mogły wcześniej wyjść na morze, bo zatrzymywał je odpływ na mieliźnie u ujścia Jade. Gdy kontradmirał [Franz von Hipper](/postacie/franz-von-hipper) wyprowadził swoje krążowniki liniowe, Brytyjczyków już nie było.
 
 ## Straty
 
-Według najczęściej podawanych danych po stronie niemieckiej zginęło około 700 marynarzy, a ponad 300 dostało się do niewoli. Wśród jeńców był syn wielkiego admirała [Alfreda von Tirpitza](https://pl.wikipedia.org/wiki/Alfred_von_Tirpitz), twórcy niemieckiej floty. Kilka innych niemieckich okrętów zostało uszkodzonych. Brytyjczycy stracili 35 zabitych, a liczba rannych w różnych źródłach wynosi od 40 do 55. Uszkodzone zostały „Arethusa” i trzy niszczyciele.
+Według najczęściej podawanych danych po stronie niemieckiej zginęło około 700 marynarzy, a ponad 300 dostało się do niewoli. Wśród jeńców był syn wielkiego admirała [Alfreda von Tirpitza](/postacie/alfred-von-tirpitz), twórcy niemieckiej floty. Kilka innych niemieckich okrętów zostało uszkodzonych. Brytyjczycy stracili 35 zabitych, a liczba rannych w różnych źródłach wynosi od 40 do 55. Uszkodzone zostały „Arethusa” i trzy niszczyciele.
 
 ## Znaczenie
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Ustawa, o której Amerykanie nie wiedzieli
 
-Departament Stanu dowiedział się o ustawie z gazety. 12 stycznia nowojorski „World” napisał o nowym brytyjskim prawie, które zakazywało mieszkańcom Wielkiej Brytanii handlu z osobami pochodzenia nieprzyjacielskiego lub powiązanymi z wrogiem, także poza terytorium nieprzyjaciela. 17 stycznia sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) poprosił Page'a o tekst ustawy. Ambasador odpowiedział 19 stycznia, że ustawa nie została jeszcze ogłoszona w urzędowej „London Gazette” ani przekazana ambasadzie przez rząd brytyjski. Urzędnicy nowego Departamentu Handlu Zagranicznego w Foreign Office, który miał ją wykonywać, mówili mu nieoficjalnie, że chodzi o to, by „zniszczyć niemiecki handel wszędzie, gdzie się go znajdzie”. Zapewniali też, że na liście znajdzie się najwyżej kilkanaście firm ze Stanów Zjednoczonych.
+Departament Stanu dowiedział się o ustawie z gazety. 12 stycznia nowojorski „World” napisał o nowym brytyjskim prawie, które zakazywało mieszkańcom Wielkiej Brytanii handlu z osobami pochodzenia nieprzyjacielskiego lub powiązanymi z wrogiem, także poza terytorium nieprzyjaciela. 17 stycznia sekretarz stanu [Robert Lansing](/postacie/robert-lansing) poprosił Page'a o tekst ustawy. Ambasador odpowiedział 19 stycznia, że ustawa nie została jeszcze ogłoszona w urzędowej „London Gazette” ani przekazana ambasadzie przez rząd brytyjski. Urzędnicy nowego Departamentu Handlu Zagranicznego w Foreign Office, który miał ją wykonywać, mówili mu nieoficjalnie, że chodzi o to, by „zniszczyć niemiecki handel wszędzie, gdzie się go znajdzie”. Zapewniali też, że na liście znajdzie się najwyżej kilkanaście firm ze Stanów Zjednoczonych.
 
 ## Treść noty
 

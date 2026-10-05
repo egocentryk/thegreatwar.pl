@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-13 stycznia 1915 roku hrabia [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) przestał być ministrem spraw zagranicznych Austro-Węgier. Jego następcą został Węgier, baron [István Burián](https://pl.wikipedia.org/wiki/István_Burián), bliski współpracownik premiera Węgier, hrabiego [Istvána Tiszy](https://pl.wikipedia.org/wiki/István_Tisza). Zmiana na czele dyplomacji monarchii habsburskiej była skutkiem sporu o to, jak odpowiedzieć na żądania Włoch.
+13 stycznia 1915 roku hrabia [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) przestał być ministrem spraw zagranicznych Austro-Węgier. Jego następcą został Węgier, baron [István Burián](/postacie/istvan-burian), bliski współpracownik premiera Węgier, hrabiego [Istvána Tiszy](https://pl.wikipedia.org/wiki/István_Tisza). Zmiana na czele dyplomacji monarchii habsburskiej była skutkiem sporu o to, jak odpowiedzieć na żądania Włoch.
 
 ## Spór o rekompensaty
 

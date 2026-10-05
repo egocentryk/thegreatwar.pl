@@ -34,7 +34,7 @@ Austriacka historia oficjalna opisuje, że już na początku odwrotu setki i tys
 
 ## Król, wojewoda i uchodźcy
 
-Z wojskiem szli ci, którzy uosabiali trwanie państwa. Wojewodę Putnika, chorego na astmę, żołnierze nieśli w lektyce. Siedemdziesięciojednoletni król [Piotr I](https://pl.wikipedia.org/wiki/Piotr_I_Karadziordziewić), schorowany i niemal niewidomy, przeszedł góry razem z dowództwem, przed głównymi siłami armii. Według austriackiej historii oficjalnej obaj dotarli do Szkodry 7 grudnia, król w wozie zaprzężonym w bawoły.
+Z wojskiem szli ci, którzy uosabiali trwanie państwa. Wojewodę Putnika, chorego na astmę, żołnierze nieśli w lektyce. Siedemdziesięciojednoletni król [Piotr I](/postacie/piotr-i-karadziordziewic), schorowany i niemal niewidomy, przeszedł góry razem z dowództwem, przed głównymi siłami armii. Według austriackiej historii oficjalnej obaj dotarli do Szkodry 7 grudnia, król w wozie zaprzężonym w bawoły.
 
 Za armią szły tłumy cywilów, kobiet, dzieci i starców uciekających przed okupacją, a także tysiące jeńców austro-węgierskich wziętych w 1914 roku. Serbskie dowództwo zabrało ze sobą również chłopców z młodszych roczników poborowych, by nie wpadli w ręce wroga. Według części opracowań było ich ponad 30 tysięcy, a tysiące z nich nie przeżyły odwrotu. Brytyjska historia oficjalna podaje, że wielu kobiet i dzieci, które towarzyszyły armii dotąd, zostawiono w Kosowie, bo nie miały już sił iść dalej.
 

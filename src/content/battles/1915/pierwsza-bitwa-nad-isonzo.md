@@ -17,7 +17,7 @@ tags: [Włochy, Austro-Węgry, Luigi Cadorna]
 milestone: false
 ---
 
-Pierwsza bitwa nad Isonzo była pierwszą wielką ofensywą armii włoskiej w I wojnie światowej. Od 23 czerwca do 7 lipca 1915 roku 2 i 3 Armia generała [Luigiego Cadorny](https://pl.wikipedia.org/wiki/Luigi_Cadorna) atakowały austro-węgierskie pozycje nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od gór nad [Tolminem](https://pl.wikipedia.org/wiki/Tolmin) po wybrzeże Adriatyku. Celem była [Gorycja](https://pl.wikipedia.org/wiki/Gorycja), a dalej [Triest](https://pl.wikipedia.org/wiki/Triest). Włosi mieli ponad dwukrotną przewagę liczebną, ale za mało ciężkiej artylerii i amunicji, a obrońcy zdążyli się okopać na wzgórzach nad rzeką i na krawędzi płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)). Po dwóch tygodniach natarć, które załamywały się na zasiekach i w ogniu karabinów maszynowych, front prawie się nie przesunął.
+Pierwsza bitwa nad Isonzo była pierwszą wielką ofensywą armii włoskiej w I wojnie światowej. Od 23 czerwca do 7 lipca 1915 roku 2 i 3 Armia generała [Luigiego Cadorny](/postacie/luigi-cadorna) atakowały austro-węgierskie pozycje nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od gór nad [Tolminem](https://pl.wikipedia.org/wiki/Tolmin) po wybrzeże Adriatyku. Celem była [Gorycja](https://pl.wikipedia.org/wiki/Gorycja), a dalej [Triest](https://pl.wikipedia.org/wiki/Triest). Włosi mieli ponad dwukrotną przewagę liczebną, ale za mało ciężkiej artylerii i amunicji, a obrońcy zdążyli się okopać na wzgórzach nad rzeką i na krawędzi płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)). Po dwóch tygodniach natarć, które załamywały się na zasiekach i w ogniu karabinów maszynowych, front prawie się nie przesunął.
 
 ## Nazwa i daty
 

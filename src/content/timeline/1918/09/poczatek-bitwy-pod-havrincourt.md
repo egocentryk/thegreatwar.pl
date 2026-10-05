@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-12 września 1918 roku o 5.25 rano artyleria brytyjskiej 3 Armii generała [Juliana Bynga](https://pl.wikipedia.org/wiki/Julian_Byng) otworzyła ogień na froncie około 8 kilometrów między lasem Gouzeaucourt a Canal du Nord. Za zaporą ogniową ruszyły do ataku cztery brygady: jedna nowozelandzka i trzy brytyjskie. Ich celem były dwa grzbiety przed Linią Hindenburga i wieś [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), która leżała przy samej niemieckiej pozycji. Tego samego dnia, ponad 200 kilometrów na południowy wschód, [Amerykanie uderzyli na występ pod Saint-Mihiel](/poczatek-bitwy-pod-saint-mihiel). Brytyjska komisja do spraw nazewnictwa bitew uznała później natarcie pod Havrincourt za początek bitew o Linię Hindenburga, które w październiku przyniosły przełamanie całej pozycji.
+12 września 1918 roku o 5.25 rano artyleria brytyjskiej 3 Armii generała [Juliana Bynga](/postacie/julian-byng) otworzyła ogień na froncie około 8 kilometrów między lasem Gouzeaucourt a Canal du Nord. Za zaporą ogniową ruszyły do ataku cztery brygady: jedna nowozelandzka i trzy brytyjskie. Ich celem były dwa grzbiety przed Linią Hindenburga i wieś [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), która leżała przy samej niemieckiej pozycji. Tego samego dnia, ponad 200 kilometrów na południowy wschód, [Amerykanie uderzyli na występ pod Saint-Mihiel](/poczatek-bitwy-pod-saint-mihiel). Brytyjska komisja do spraw nazewnictwa bitew uznała później natarcie pod Havrincourt za początek bitew o Linię Hindenburga, które w październiku przyniosły przełamanie całej pozycji.
 
 ## Przed Linią Hindenburga
 

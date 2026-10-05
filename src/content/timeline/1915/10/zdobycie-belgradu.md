@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 października 1915 roku wojska austro-węgierskie i niemieckie zajęły [Belgrad](https://pl.wikipedia.org/wiki/Belgrad). Trzy dni wcześniej artyleria armii generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza) rozpoczęła [atak państw centralnych na Serbię](/panstwa-centralne-atakuja-serbie), a w nocy na 7 października jego piechota [sforsowała Sawę i Dunaj](/forsowanie-sawy-i-dunaju) u stóp serbskiej stolicy. Przez dwie doby austro-węgierska 59 Dywizja Piechoty kurczowo trzymała się nabrzeża pod twierdzą, a Serbowie raz po raz próbowali zepchnąć ją do rzeki. Wieczorem 8 października desant wdarł się jednak w ulice miasta, a na zachodzie niemiecki XXII Korpus Rezerwowy opanował przeprawy przez Sawę i wzgórze Banovo brdo.
+9 października 1915 roku wojska austro-węgierskie i niemieckie zajęły [Belgrad](https://pl.wikipedia.org/wiki/Belgrad). Trzy dni wcześniej artyleria armii generała [Hermanna Kövessa](/postacie/hermann-kovess) rozpoczęła [atak państw centralnych na Serbię](/panstwa-centralne-atakuja-serbie), a w nocy na 7 października jego piechota [sforsowała Sawę i Dunaj](/forsowanie-sawy-i-dunaju) u stóp serbskiej stolicy. Przez dwie doby austro-węgierska 59 Dywizja Piechoty kurczowo trzymała się nabrzeża pod twierdzą, a Serbowie raz po raz próbowali zepchnąć ją do rzeki. Wieczorem 8 października desant wdarł się jednak w ulice miasta, a na zachodzie niemiecki XXII Korpus Rezerwowy opanował przeprawy przez Sawę i wzgórze Banovo brdo.
 
 ## Odwrót obrońców
 

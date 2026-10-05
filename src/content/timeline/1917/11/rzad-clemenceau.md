@@ -20,7 +20,7 @@ Od początku wojny Clemenceau był najostrzejszym krytykiem kolejnych gabinetów
 
 ## Wybór Poincarégo
 
-Prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) i Clemenceau od lat byli wrogami. Clemenceau w 1913 roku robił wszystko, by Poincaré nie został prezydentem. Według francuskiego historyka Michela Winocka prezydent miał jednak w praktyce wybór między Clemenceau a [Josephem Caillaux](https://pl.wikipedia.org/wiki/Joseph_Caillaux), byłym premierem, który uchodził za zwolennika pokoju kompromisowego i był coraz głośniej oskarżany o intrygi na rzecz Niemiec. Poincaré wolał człowieka, który obiecywał zwycięstwo. Sprzeciwiali się temu socjaliści i [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand). Według Winocka socjalista Marcel Sembat ostrzegał prezydenta, że nominacja Clemenceau wywoła natychmiastowy bunt robotników. Poza prasą socjalistyczną gazety przyjęły jednak wybór entuzjastycznie.
+Prezydent [Raymond Poincaré](/postacie/raymond-poincare) i Clemenceau od lat byli wrogami. Clemenceau w 1913 roku robił wszystko, by Poincaré nie został prezydentem. Według francuskiego historyka Michela Winocka prezydent miał jednak w praktyce wybór między Clemenceau a [Josephem Caillaux](https://pl.wikipedia.org/wiki/Joseph_Caillaux), byłym premierem, który uchodził za zwolennika pokoju kompromisowego i był coraz głośniej oskarżany o intrygi na rzecz Niemiec. Poincaré wolał człowieka, który obiecywał zwycięstwo. Sprzeciwiali się temu socjaliści i [Aristide Briand](/postacie/aristide-briand). Według Winocka socjalista Marcel Sembat ostrzegał prezydenta, że nominacja Clemenceau wywoła natychmiastowy bunt robotników. Poza prasą socjalistyczną gazety przyjęły jednak wybór entuzjastycznie.
 
 ## Gabinet
 

@@ -23,7 +23,7 @@ Po wyjeździe [księcia Wilhelma zu Wied](/wilhelm-wied-opuszcza-albanie) we wrz
 
 Włosi działali stopniowo. 30 października 1914 roku oddział marynarzy Regia Marina obsadził niewielką wyspę [Sazan](https://pl.wikipedia.org/wiki/Sazan), zamykającą wejście do Zatoki Wlorskiej. We Wlorze działała już wtedy włoska misja sanitarna. Rząd przedstawiał te kroki jako tymczasowe, mające chronić misję, przywrócić porządek i zapobiec przemytowi broni. Gdy w grudniu misji zaczęły zagrażać greckie oddziały z południa, okręty specjalnej dywizji marynarki wysadziły desant w samym mieście.
 
-O desancie zdecydował rząd [Antonia Salandry](https://pl.wikipedia.org/wiki/Antonio_Salandra), w którym od listopada sprawami zagranicznymi kierował [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych). Sonnino rozpoczynał właśnie trudne rozmowy z Wiedniem o rekompensatach dla Włoch. Rzym zapewnił Austro-Węgry, że okupacja jest tymczasowa i nie narusza neutralności Albanii, ustalonej przez wielkie mocarstwa w 1913 roku. Wiedeń, zaabsorbowany wojną z Serbią i Rosją, nie zaprotestował. Ententa także przyjęła włoski krok bez sprzeciwu.
+O desancie zdecydował rząd [Antonia Salandry](/postacie/antonio-salandra), w którym od listopada sprawami zagranicznymi kierował [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych). Sonnino rozpoczynał właśnie trudne rozmowy z Wiedniem o rekompensatach dla Włoch. Rzym zapewnił Austro-Węgry, że okupacja jest tymczasowa i nie narusza neutralności Albanii, ustalonej przez wielkie mocarstwa w 1913 roku. Wiedeń, zaabsorbowany wojną z Serbią i Rosją, nie zaprotestował. Ententa także przyjęła włoski krok bez sprzeciwu.
 
 ## Długa okupacja
 

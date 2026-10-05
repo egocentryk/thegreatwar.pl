@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 maja 1915 roku, według brytyjskiej chronologii wojny, rozpoczęła się w Galicji bitwa pod Sanokiem i Rzeszowem. Była to druga faza ofensywy, którą wojska niemieckie i austro-węgierskie zaczęły tydzień wcześniej [pod Gorlicami](/bitwy/bitwa-pod-gorlicami). Rozbita tam rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) cofała się na wschód, a jej dowódca, generał [Radko Dimitriew](https://pl.wikipedia.org/wiki/Radko_Dimitriew), próbował zatrzymać pościg na nowej linii, opartej o [Wisłok](https://pl.wikipedia.org/wiki/Wisłok) i wzgórza między Wisłokiem a Wisłą. 8 maja państwa centralne natarły na tę linię na całej jej długości.
+8 maja 1915 roku, według brytyjskiej chronologii wojny, rozpoczęła się w Galicji bitwa pod Sanokiem i Rzeszowem. Była to druga faza ofensywy, którą wojska niemieckie i austro-węgierskie zaczęły tydzień wcześniej [pod Gorlicami](/bitwy/bitwa-pod-gorlicami). Rozbita tam rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) cofała się na wschód, a jej dowódca, generał [Radko Dimitriew](/postacie/radko-dimitriew), próbował zatrzymać pościg na nowej linii, opartej o [Wisłok](https://pl.wikipedia.org/wiki/Wisłok) i wzgórza między Wisłokiem a Wisłą. 8 maja państwa centralne natarły na tę linię na całej jej długości.
 
 Daty tej bitwy są umowne. Austriacki historyk Ernst Joly, który opisał kampanię w 1922 roku dla Encyclopaedia Britannica, mówił o „pościgu i bitwach pod Sanokiem i Rzeszowem” w dniach 6–11 maja, a za ich zakończenie uznał zajęcie Rzeszowa w nocy na 12 maja. Brytyjska chronologia przyjmuje daty 8–14 maja. W polskiej historiografii walki te opisuje się zwykle jako część operacji gorlickiej, bez osobnej nazwy.
 

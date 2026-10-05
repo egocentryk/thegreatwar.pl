@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 listopada 1915 roku, zaledwie pięć dni po [zakończeniu trzeciej bitwy nad Isonzo](/koniec-trzeciej-bitwy-nad-isonzo), włoska 2 i 3 Armia znów uderzyły na austro-węgierskie pozycje nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) nie zamierzał dawać obrońcom czasu na odpoczynek. Tym razem atakował na węższym froncie, od przyczółka pod [Plavą](https://pl.wikipedia.org/wiki/Plave) po wzgórze Sei Busi, a jego celem pozostały przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i Monte San Michele, klucz do płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)). Pierwszego dnia natarcia załamały się prawie wszędzie.
+10 listopada 1915 roku, zaledwie pięć dni po [zakończeniu trzeciej bitwy nad Isonzo](/koniec-trzeciej-bitwy-nad-isonzo), włoska 2 i 3 Armia znów uderzyły na austro-węgierskie pozycje nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Generał [Luigi Cadorna](/postacie/luigi-cadorna) nie zamierzał dawać obrońcom czasu na odpoczynek. Tym razem atakował na węższym froncie, od przyczółka pod [Plavą](https://pl.wikipedia.org/wiki/Plave) po wzgórze Sei Busi, a jego celem pozostały przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i Monte San Michele, klucz do płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)). Pierwszego dnia natarcia załamały się prawie wszędzie.
 
 ## Dlaczego tak szybko
 

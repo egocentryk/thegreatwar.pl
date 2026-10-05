@@ -19,7 +19,7 @@ Pobity pod Dilmanem 1 maja Halil Bej, który w połowie kwietnia [przyprowadził
 
 ## Powrót Rosjan
 
-Według Shedda Rosjanie ponownie zajęli Urmię 24 maja. Był to początek większej operacji. Dowódca Armii Kaukaskiej, generał [Nikołaj Judenicz](https://pl.wikipedia.org/wiki/Nikołaj_Judenicz), skierował do Azerbejdżanu silną kawalerię, z dywizją dragonów i brygadą kozaków, pod dowództwem generała Charpentiera. Miała ona swoim przemarszem zastraszyć kurdyjskie plemiona i przywrócić rosyjski prestiż w kraju. Rajd ruszył według rosyjskich opracowań 22 maja, a jego oddziały weszły do Urmii pod koniec maja lub na początku czerwca. Rosyjskie prace wojskowe podają 31 maja, a brytyjscy historycy W.E.D. Allen i Paweł Muratow 2 czerwca. Obraz zaciemnia też list asyryjskiego duchownego z Urmii, Y.M. Nisana, datowany na 25 lub 26 maja, w którym czytamy, że wojsko rosyjskie jest „niedaleko” i że mówi się o jego powrocie.
+Według Shedda Rosjanie ponownie zajęli Urmię 24 maja. Był to początek większej operacji. Dowódca Armii Kaukaskiej, generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz), skierował do Azerbejdżanu silną kawalerię, z dywizją dragonów i brygadą kozaków, pod dowództwem generała Charpentiera. Miała ona swoim przemarszem zastraszyć kurdyjskie plemiona i przywrócić rosyjski prestiż w kraju. Rajd ruszył według rosyjskich opracowań 22 maja, a jego oddziały weszły do Urmii pod koniec maja lub na początku czerwca. Rosyjskie prace wojskowe podają 31 maja, a brytyjscy historycy W.E.D. Allen i Paweł Muratow 2 czerwca. Obraz zaciemnia też list asyryjskiego duchownego z Urmii, Y.M. Nisana, datowany na 25 lub 26 maja, w którym czytamy, że wojsko rosyjskie jest „niedaleko” i że mówi się o jego powrocie.
 
 ## Bilans okupacji
 

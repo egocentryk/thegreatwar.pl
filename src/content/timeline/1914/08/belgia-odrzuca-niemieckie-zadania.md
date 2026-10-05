@@ -15,7 +15,7 @@ draft: false
 
 Decyzję podjęto w nocy podczas narady rządu i przywódców politycznych, zwołanej przez króla [Alberta I](/postacie/albert-i). Mimo świadomości, że armia belgijska jest nieporównanie słabsza od niemieckiej, nikt nie opowiedział się za ustępstwem. W odpowiedzi stwierdzono, że przyjęcie niemieckich propozycji oznaczałoby poświęcenie honoru narodu i zdradę obowiązków wobec Europy. Belgia przypominała, że jej neutralność gwarantowały mocarstwa, w tym Prusy, i zapowiadała, że odeprze każdy zamach na swoje prawa wszelkimi dostępnymi środkami.
 
-Tego samego dnia król Albert zwrócił się do króla Wielkiej Brytanii [Jerzego V](https://pl.wikipedia.org/wiki/Jerzy_V) z apelem o dyplomatyczne wsparcie w obronie belgijskiej neutralności. Rząd w Brukseli nie wzywał jeszcze pomocy wojskowej gwarantów. Chciał, by nie było żadnych wątpliwości, że to Niemcy jako pierwsze naruszą belgijską granicę.
+Tego samego dnia król Albert zwrócił się do króla Wielkiej Brytanii [Jerzego V](/postacie/jerzy-v) z apelem o dyplomatyczne wsparcie w obronie belgijskiej neutralności. Rząd w Brukseli nie wzywał jeszcze pomocy wojskowej gwarantów. Chciał, by nie było żadnych wątpliwości, że to Niemcy jako pierwsze naruszą belgijską granicę.
 
 Odmowa miała ogromne znaczenie moralne i polityczne. Małe państwo odrzuciło żądania najpotężniejszej armii Europy, wiedząc, że grozi mu inwazja i zniszczenie. W Wielkiej Brytanii i w innych krajach postawa Belgii wzbudziła powszechny podziw i stała się jednym z głównych argumentów za przystąpieniem Londynu do wojny.
 

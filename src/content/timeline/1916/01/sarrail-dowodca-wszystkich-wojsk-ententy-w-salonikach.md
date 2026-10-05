@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 stycznia 1916 roku dowódca francuskiej Armii Wschodu, generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail), objął dowództwo wszystkich wojsk sprzymierzonych w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki). Brytyjska historia oficjalna kampanii macedońskiej podaje, że podlegały mu odtąd nie tylko dywizje francuskie, lecz także brytyjska Armia Salonik generała porucznika Bryana Mahona oraz oddział serbski, liczący wtedy około 3 tysięcy ludzi. Tak powstało jednolite dowództwo w rękach francuskich, które na tym froncie przetrwało do końca wojny.
+16 stycznia 1916 roku dowódca francuskiej Armii Wschodu, generał [Maurice Sarrail](/postacie/maurice-sarrail), objął dowództwo wszystkich wojsk sprzymierzonych w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki). Brytyjska historia oficjalna kampanii macedońskiej podaje, że podlegały mu odtąd nie tylko dywizje francuskie, lecz także brytyjska Armia Salonik generała porucznika Bryana Mahona oraz oddział serbski, liczący wtedy około 3 tysięcy ludzi. Tak powstało jednolite dowództwo w rękach francuskich, które na tym froncie przetrwało do końca wojny.
 
 ## Dwie armie, dwóch dowódców
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 7 lipca 1916 roku koniec włoskiej kontrofensywy w Trydencie, która [zaczęła się 16 czerwca](/wloska-kontrofensywa-w-trydencie). To data umowna. Tego dnia austro-węgierski III Korpus odparł na północnym skraju płaskowyżu [Asiago](https://pl.wikipedia.org/wiki/Asiago) drugi dzień najsilniejszego natarcia, na jakie Włosi zdobyli się po [majowej ofensywie Conrada](/bitwy/bitwa-pod-asiago). Walki jednak trwały dalej. Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) pisał po wojnie, że operacje na wielką skalę na froncie tyrolskim wstrzymano 9 lipca, a od następnego dnia przybrały one charakter powolnych, metodycznych ataków. Włoscy historycy kończą kontrofensywę dopiero 27 lipca, gdy dowódca 1 Armii, generał Guglielmo Pecori Giraldi, przerwał wszystkie działania zaczepne.
+Brytyjska chronologia wojny notuje pod 7 lipca 1916 roku koniec włoskiej kontrofensywy w Trydencie, która [zaczęła się 16 czerwca](/wloska-kontrofensywa-w-trydencie). To data umowna. Tego dnia austro-węgierski III Korpus odparł na północnym skraju płaskowyżu [Asiago](https://pl.wikipedia.org/wiki/Asiago) drugi dzień najsilniejszego natarcia, na jakie Włosi zdobyli się po [majowej ofensywie Conrada](/bitwy/bitwa-pod-asiago). Walki jednak trwały dalej. Generał [Luigi Cadorna](/postacie/luigi-cadorna) pisał po wojnie, że operacje na wielką skalę na froncie tyrolskim wstrzymano 9 lipca, a od następnego dnia przybrały one charakter powolnych, metodycznych ataków. Włoscy historycy kończą kontrofensywę dopiero 27 lipca, gdy dowódca 1 Armii, generał Guglielmo Pecori Giraldi, przerwał wszystkie działania zaczepne.
 
 ## Po odwrocie Austriaków
 

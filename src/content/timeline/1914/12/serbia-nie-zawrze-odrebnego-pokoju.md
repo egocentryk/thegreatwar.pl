@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny zapisuje pod datą 5 grudnia 1914 roku, że rząd serbski oświadczył, iż Serbia nigdy nie zawrze pokoju bez zgody sojuszników. Nie udało nam się znaleźć osobnego oświadczenia z tego dnia. 5 grudnia, czyli 22 listopada według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), którym posługiwała się wówczas Serbia, premier [Nikola Pašić](https://pl.wikipedia.org/wiki/Nikola_Pašić) utworzył w [Niszu](https://pl.wikipedia.org/wiki/Nisz) nowy rząd koalicyjny. Jego program, odczytany w parlamencie 7 grudnia, przeszedł do historii jako deklaracja z Niszu. Najpewniej to właśnie te wydarzenia kryją się za zapisem w brytyjskiej chronologii.
+Brytyjska chronologia wojny zapisuje pod datą 5 grudnia 1914 roku, że rząd serbski oświadczył, iż Serbia nigdy nie zawrze pokoju bez zgody sojuszników. Nie udało nam się znaleźć osobnego oświadczenia z tego dnia. 5 grudnia, czyli 22 listopada według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), którym posługiwała się wówczas Serbia, premier [Nikola Pašić](/postacie/nikola-pasic) utworzył w [Niszu](https://pl.wikipedia.org/wiki/Nisz) nowy rząd koalicyjny. Jego program, odczytany w parlamencie 7 grudnia, przeszedł do historii jako deklaracja z Niszu. Najpewniej to właśnie te wydarzenia kryją się za zapisem w brytyjskiej chronologii.
 
 ## Rząd jedności
 

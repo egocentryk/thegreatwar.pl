@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 marca 1916 roku prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) ogłosił, że nowym [sekretarzem wojny](https://pl.wikipedia.org/wiki/Sekretarz_wojny_Stanów_Zjednoczonych), czyli ministrem odpowiedzialnym za armię lądową, zostanie Newton Diehl Baker, były burmistrz [Clevelandu](https://pl.wikipedia.org/wiki/Cleveland). Depeszę z propozycją Wilson wysłał z prezydenckiego jachtu Mayflower. Napisał w niej, że przyjęcie urzędu „bardzo wzmocniłoby” jego pozycję. Formalną nominację część źródeł datuje na 7 marca. Przysięgę Baker złożył 9 marca w gmachu [Departamentu Wojny](https://pl.wikipedia.org/wiki/Departament_Wojny_Stanów_Zjednoczonych) w Waszyngtonie.
+6 marca 1916 roku prezydent [Woodrow Wilson](/postacie/woodrow-wilson) ogłosił, że nowym [sekretarzem wojny](https://pl.wikipedia.org/wiki/Sekretarz_wojny_Stanów_Zjednoczonych), czyli ministrem odpowiedzialnym za armię lądową, zostanie Newton Diehl Baker, były burmistrz [Clevelandu](https://pl.wikipedia.org/wiki/Cleveland). Depeszę z propozycją Wilson wysłał z prezydenckiego jachtu Mayflower. Napisał w niej, że przyjęcie urzędu „bardzo wzmocniłoby” jego pozycję. Formalną nominację część źródeł datuje na 7 marca. Przysięgę Baker złożył 9 marca w gmachu [Departamentu Wojny](https://pl.wikipedia.org/wiki/Departament_Wojny_Stanów_Zjednoczonych) w Waszyngtonie.
 
 ## Odejście Garrisona
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 sierpnia 1918 roku generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain), naczelny wódz armii francuskiej, ogłosił w rozkazie dziennym zwycięstwo w [drugiej bitwie nad Marną](/bitwy/druga-bitwa-nad-marna). Bitwa, która zaczęła się 15 lipca jako ostatnia wielka ofensywa niemiecka tego roku, skończyła się poprzedniego wieczoru. Niemcy wycofali się z całego występu między Soissons a Reims i okopali za rzekami [Vesle](https://pl.wikipedia.org/wiki/Vesle) i Aisne, a Pétain uznał, że atakowanie ich tam z marszu nie ma sensu. Większość opracowań przyjmuje jako ostatni dzień bitwy 6 sierpnia. Brytyjska chronologia wojny notuje jej koniec pod 7 sierpnia, dniem rozkazu Pétaina.
+7 sierpnia 1918 roku generał [Philippe Pétain](/postacie/philippe-petain), naczelny wódz armii francuskiej, ogłosił w rozkazie dziennym zwycięstwo w [drugiej bitwie nad Marną](/bitwy/druga-bitwa-nad-marna). Bitwa, która zaczęła się 15 lipca jako ostatnia wielka ofensywa niemiecka tego roku, skończyła się poprzedniego wieczoru. Niemcy wycofali się z całego występu między Soissons a Reims i okopali za rzekami [Vesle](https://pl.wikipedia.org/wiki/Vesle) i Aisne, a Pétain uznał, że atakowanie ich tam z marszu nie ma sensu. Większość opracowań przyjmuje jako ostatni dzień bitwy 6 sierpnia. Brytyjska chronologia wojny notuje jej koniec pod 7 sierpnia, dniem rozkazu Pétaina.
 
 ## Stop nad Vesle
 

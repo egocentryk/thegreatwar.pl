@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-16 czerwca 1916 roku włoska 1 Armia rozpoczęła kontrofensywę przeciw wojskom austro-węgierskim, które od połowy maja posuwały się z Tyrolu przez płaskowyże Folgarii, Tonezzy i Asiago. Datę tę podają zgodnie brytyjska chronologia wojny, wspomnienia generała [Luigiego Cadorny](https://pl.wikipedia.org/wiki/Luigi_Cadorna) i austriacka historia oficjalna. Włoski komunikat wojenny ogłosił rozpoczęcie natarcia już 11 czerwca, nazajutrz po [przegranym przez rząd głosowaniu w Izbie](/dymisja-salandry), ale wtedy na płaskowyżach dochodziło jedynie do lokalnych kontrataków, na przykład pod [Pasubio](https://pl.wikipedia.org/wiki/Monte_Pasubio), gdzie 9–11 czerwca nacierała włoska 44 Dywizja.
+16 czerwca 1916 roku włoska 1 Armia rozpoczęła kontrofensywę przeciw wojskom austro-węgierskim, które od połowy maja posuwały się z Tyrolu przez płaskowyże Folgarii, Tonezzy i Asiago. Datę tę podają zgodnie brytyjska chronologia wojny, wspomnienia generała [Luigiego Cadorny](/postacie/luigi-cadorna) i austriacka historia oficjalna. Włoski komunikat wojenny ogłosił rozpoczęcie natarcia już 11 czerwca, nazajutrz po [przegranym przez rząd głosowaniu w Izbie](/dymisja-salandry), ale wtedy na płaskowyżach dochodziło jedynie do lokalnych kontrataków, na przykład pod [Pasubio](https://pl.wikipedia.org/wiki/Monte_Pasubio), gdzie 9–11 czerwca nacierała włoska 44 Dywizja.
 
 ## Plan Cadorny
 

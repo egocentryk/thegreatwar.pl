@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 lutego 1915 roku, na posiedzeniu Tajnej Rady w pałacu Buckingham, król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V) wydał proklamację o handlu z nieprzyjacielem na terytoriach okupowanych. Jeszcze tego samego dnia ogłosiła ją „London Gazette”. Proklamacja rozszerzała brytyjskie zakazy handlu z wrogiem na obszary, które w wyniku wojny znalazły się pod okupacją wojskową, zarówno nieprzyjacielską, jak i sojuszniczą.
+16 lutego 1915 roku, na posiedzeniu Tajnej Rady w pałacu Buckingham, król [Jerzy V](/postacie/jerzy-v) wydał proklamację o handlu z nieprzyjacielem na terytoriach okupowanych. Jeszcze tego samego dnia ogłosiła ją „London Gazette”. Proklamacja rozszerzała brytyjskie zakazy handlu z wrogiem na obszary, które w wyniku wojny znalazły się pod okupacją wojskową, zarówno nieprzyjacielską, jak i sojuszniczą.
 
 ## Zakazy z 1914 roku
 

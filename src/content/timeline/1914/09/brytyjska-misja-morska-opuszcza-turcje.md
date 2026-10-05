@@ -15,7 +15,7 @@ Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku wyjazd bryty
 
 ## Brytyjczycy w tureckiej flocie
 
-Od 1909 roku Wielka Brytania wysyłała do Turcji kolejne misje morskie, które miały zreformować przestarzałą flotę osmańską. Limpus stanął na czele trzeciej z nich w maju 1912 roku. Podobnie jak jego poprzednicy, był jednocześnie formalnie dowódcą floty osmańskiej. Brytyjczycy szkolili załogi, doradzali w sprawie zakupów okrętów i modernizacji stoczni. Mocarstwa dzieliły się wtedy wpływami w Turcji: Brytyjczycy odpowiadali za marynarkę, a Niemcy, od końca 1913 roku reprezentowani przez misję generała [Ottona Limana von Sandersa](https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders), za armię lądową.
+Od 1909 roku Wielka Brytania wysyłała do Turcji kolejne misje morskie, które miały zreformować przestarzałą flotę osmańską. Limpus stanął na czele trzeciej z nich w maju 1912 roku. Podobnie jak jego poprzednicy, był jednocześnie formalnie dowódcą floty osmańskiej. Brytyjczycy szkolili załogi, doradzali w sprawie zakupów okrętów i modernizacji stoczni. Mocarstwa dzieliły się wtedy wpływami w Turcji: Brytyjczycy odpowiadali za marynarkę, a Niemcy, od końca 1913 roku reprezentowani przez misję generała [Ottona Limana von Sandersa](/postacie/otto-liman-von-sanders), za armię lądową.
 
 ## Zarekwirowane pancerniki
 

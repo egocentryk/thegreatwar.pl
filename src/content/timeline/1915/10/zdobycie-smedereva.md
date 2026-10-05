@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-11 października 1915 roku niemiecka 25 Dywizja Rezerwowa zdobyła [Smederevo](https://pl.wikipedia.org/wiki/Smederevo), miasto nad Dunajem około 40 kilometrów na wschód od Belgradu. Brytyjska chronologia wojny notuje, że Smederevo zajęły wojska austriackie, ale według austriackiej historii oficjalnej walczyły tu oddziały niemieckiej 11 Armii generała [Maxa von Gallwitza](https://pl.wikipedia.org/wiki/Max_von_Gallwitz). Także amerykański miesięcznik „Current History”, notujący na bieżąco wydarzenia wojny, zapisał pod 13 października, że Smederevo zdobyli Niemcy. Smederevo, w którego twierdzy w XV wieku rezydowali serbscy despoci, było obok Belgradu najsilniej bronionym miejscem na serbskim brzegu Dunaju.
+11 października 1915 roku niemiecka 25 Dywizja Rezerwowa zdobyła [Smederevo](https://pl.wikipedia.org/wiki/Smederevo), miasto nad Dunajem około 40 kilometrów na wschód od Belgradu. Brytyjska chronologia wojny notuje, że Smederevo zajęły wojska austriackie, ale według austriackiej historii oficjalnej walczyły tu oddziały niemieckiej 11 Armii generała [Maxa von Gallwitza](/postacie/max-von-gallwitz). Także amerykański miesięcznik „Current History”, notujący na bieżąco wydarzenia wojny, zapisał pod 13 października, że Smederevo zdobyli Niemcy. Smederevo, w którego twierdzy w XV wieku rezydowali serbscy despoci, było obok Belgradu najsilniej bronionym miejscem na serbskim brzegu Dunaju.
 
 ## Przeprawa pod twierdzą
 

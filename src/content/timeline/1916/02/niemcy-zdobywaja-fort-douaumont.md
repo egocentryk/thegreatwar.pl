@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 lutego 1916 roku, piątego dnia [bitwy pod Verdun](/poczatek-bitwy-pod-verdun), żołnierze brandenburskiego 24 Pułku Piechoty weszli do fortu Douaumont, największego i najwyżej położonego fortu w pierścieniu umocnień wokół [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Twierdza, którą Niemcy uważali za jedną z najsilniejszych na świecie, padła bez jednego strzału, bo broniło jej tylko około sześćdziesięciu francuskich żołnierzy, ukrytych przed ostrzałem w podziemiach. W Niemczech wiadomość przyjęto jako wielkie zwycięstwo, we Francji jako wstrząs. Tego samego dnia francuskie dowództwo postanowiło jednak bronić prawego brzegu [Mozy](https://pl.wikipedia.org/wiki/Moza), a w nocy obronę Verdun objął generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain).
+25 lutego 1916 roku, piątego dnia [bitwy pod Verdun](/poczatek-bitwy-pod-verdun), żołnierze brandenburskiego 24 Pułku Piechoty weszli do fortu Douaumont, największego i najwyżej położonego fortu w pierścieniu umocnień wokół [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Twierdza, którą Niemcy uważali za jedną z najsilniejszych na świecie, padła bez jednego strzału, bo broniło jej tylko około sześćdziesięciu francuskich żołnierzy, ukrytych przed ostrzałem w podziemiach. W Niemczech wiadomość przyjęto jako wielkie zwycięstwo, we Francji jako wstrząs. Tego samego dnia francuskie dowództwo postanowiło jednak bronić prawego brzegu [Mozy](https://pl.wikipedia.org/wiki/Moza), a w nocy obronę Verdun objął generał [Philippe Pétain](/postacie/philippe-petain).
 
 ## Fort bez dział
 

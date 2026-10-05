@@ -10,13 +10,13 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku francuski dziennik urzędowy „Journal officiel” ogłosił nominację [Alexandre'a Milleranda](https://pl.wikipedia.org/wiki/Alexandre_Millerand) na ministra wojny. Dekret, podpisany przez prezydenta Raymonda Poincarégo i premiera [René Vivianiego](https://pl.wikipedia.org/wiki/René_Viviani), nosił datę 26 sierpnia. Millerand zastąpił Adolphe'a Messimy'ego, którego dymisję przyjęto tego samego dnia.
+27 sierpnia 1914 roku francuski dziennik urzędowy „Journal officiel” ogłosił nominację [Alexandre'a Milleranda](/postacie/alexandre-millerand) na ministra wojny. Dekret, podpisany przez prezydenta Raymonda Poincarégo i premiera [René Vivianiego](https://pl.wikipedia.org/wiki/René_Viviani), nosił datę 26 sierpnia. Millerand zastąpił Adolphe'a Messimy'ego, którego dymisję przyjęto tego samego dnia.
 
 ## Rząd jedności narodowej
 
 Zmiana na stanowisku ministra wojny była częścią szerszej przebudowy rządu. Francja przeżywała najcięższe dni od początku wojny: jej armie przegrały [bitwy graniczne](/bitwy/bitwa-graniczna) i cofały się, a Niemcy zbliżali się do Paryża. Messimy, obciążany odpowiedzialnością za klęski i nieprzygotowanie armii, musiał odejść, o czym piszemy w artykule [Dymisja ministra wojny Messimy'ego](/dymisja-ministra-wojny-messimy).
 
-Viviani utworzył wówczas swój drugi gabinet, szeroką koalicję wszystkich ugrupowań. Był to rządowy wyraz tzw. świętej jedności (fr. union sacrée), czyli zawieszenia sporów politycznych na czas wojny. Po raz pierwszy w historii do rządu weszli socjaliści: [Jules Guesde](https://pl.wikipedia.org/wiki/Jules_Guesde) jako minister bez teki i Marcel Sembat jako minister robót publicznych. Ministrem spraw zagranicznych został [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé) (zob. [Delcassé ministrem spraw zagranicznych](/delcasse-ministrem-spraw-zagranicznych)), finansami pokierował [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), a sprawiedliwością [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand).
+Viviani utworzył wówczas swój drugi gabinet, szeroką koalicję wszystkich ugrupowań. Był to rządowy wyraz tzw. świętej jedności (fr. union sacrée), czyli zawieszenia sporów politycznych na czas wojny. Po raz pierwszy w historii do rządu weszli socjaliści: [Jules Guesde](https://pl.wikipedia.org/wiki/Jules_Guesde) jako minister bez teki i Marcel Sembat jako minister robót publicznych. Ministrem spraw zagranicznych został [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé) (zob. [Delcassé ministrem spraw zagranicznych](/delcasse-ministrem-spraw-zagranicznych)), finansami pokierował [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), a sprawiedliwością [Aristide Briand](/postacie/aristide-briand).
 
 ## Nowy minister
 

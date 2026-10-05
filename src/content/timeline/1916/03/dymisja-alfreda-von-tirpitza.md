@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W połowie marca 1916 roku z urzędu sekretarza stanu marynarki Rzeszy odszedł wielki admirał [Alfred von Tirpitz](https://pl.wikipedia.org/wiki/Alfred_von_Tirpitz). Brytyjska chronologia wojny notuje jego dymisję pod 14 marca. Sam Tirpitz pisał we wspomnieniach, że prośbę o zwolnienie wysłał cesarzowi 12 marca, a dymisję otrzymał 17 marca. Oficjalnie ogłosiła ją w Berlinie 15 marca półurzędowa agencja Wolffa, która podała zarazem nazwisko następcy, admirała Eduarda von Capellego. Odejście człowieka, który przez prawie dwadzieścia lat budował niemiecką flotę wojenną, było skutkiem przegranego sporu o nieograniczoną wojnę podwodną.
+W połowie marca 1916 roku z urzędu sekretarza stanu marynarki Rzeszy odszedł wielki admirał [Alfred von Tirpitz](/postacie/alfred-von-tirpitz). Brytyjska chronologia wojny notuje jego dymisję pod 14 marca. Sam Tirpitz pisał we wspomnieniach, że prośbę o zwolnienie wysłał cesarzowi 12 marca, a dymisję otrzymał 17 marca. Oficjalnie ogłosiła ją w Berlinie 15 marca półurzędowa agencja Wolffa, która podała zarazem nazwisko następcy, admirała Eduarda von Capellego. Odejście człowieka, który przez prawie dwadzieścia lat budował niemiecką flotę wojenną, było skutkiem przegranego sporu o nieograniczoną wojnę podwodną.
 
 ## Twórca floty
 

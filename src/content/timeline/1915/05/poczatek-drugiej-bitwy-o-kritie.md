@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-6 maja 1915 roku Brytyjczycy i Francuzi pod Helles, na południowym krańcu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), po raz drugi uderzyli na wieś Kritia (Krithia, dziś Alçıtepe) i wzgórze Achi Baba. [Pierwszy atak](/pierwszy-atak-na-kritie) z 28 kwietnia załamał się w ciągu jednego dnia. Tym razem generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) zgromadził na tym odcinku około 25 tysięcy żołnierzy i liczył, że jeszcze tego samego dnia zdobędzie wzgórze, z którego widać było forty w Przesmyku [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele).
+6 maja 1915 roku Brytyjczycy i Francuzi pod Helles, na południowym krańcu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), po raz drugi uderzyli na wieś Kritia (Krithia, dziś Alçıtepe) i wzgórze Achi Baba. [Pierwszy atak](/pierwszy-atak-na-kritie) z 28 kwietnia załamał się w ciągu jednego dnia. Tym razem generał [Ian Hamilton](/postacie/ian-hamilton) zgromadził na tym odcinku około 25 tysięcy żołnierzy i liczył, że jeszcze tego samego dnia zdobędzie wzgórze, z którego widać było forty w Przesmyku [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele).
 
 ## Wszystko, co było pod ręką
 

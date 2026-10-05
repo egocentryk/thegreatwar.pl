@@ -21,7 +21,7 @@ Na początku wojny rząd Związku uznał, że lepiej zająć [Lüderitzbucht](/p
 
 ## Lądowanie w Walvis Bay
 
-Gdy rebelia w Związku [dobiegała końca](/koniec-rebelii-burskiej), premier [Louis Botha](https://pl.wikipedia.org/wiki/Louis_Botha) postanowił uderzyć na kolonię od strony Walvis Bay. W Boże Narodzenie 1914 roku wylądowały tam bez przeszkód siły pułkownika P. C. B. Skinnera: dwie brygady piechoty, pułk konnych strzelców i siedem dział. Oficjalna historia tłumaczy brak niemieckiego oporu tym, że w okolicy brakowało wody, a bez niej trudno było utrzymać większy oddział na wybrzeżu.
+Gdy rebelia w Związku [dobiegała końca](/koniec-rebelii-burskiej), premier [Louis Botha](/postacie/louis-botha) postanowił uderzyć na kolonię od strony Walvis Bay. W Boże Narodzenie 1914 roku wylądowały tam bez przeszkód siły pułkownika P. C. B. Skinnera: dwie brygady piechoty, pułk konnych strzelców i siedem dział. Oficjalna historia tłumaczy brak niemieckiego oporu tym, że w okolicy brakowało wody, a bez niej trudno było utrzymać większy oddział na wybrzeżu.
 
 Oficjalna historia pisze, że „kilka dni później” Skinner ruszył na Swakopmund, ale według innych źródeł wyruszył dopiero 13 stycznia. Wysłał na północ silny oddział rozpoznawczy, złożony głównie z konnicy Imperial Light Horse. Niemieckie placówki nie podjęły poważnej walki. Wycofując się, ostrzeliwały tylko nacierających z ukrycia i odpalały miny obserwacyjne w miejscach, przez które musiały przejść zwarte kolumny. Straty wojsk Związku były niewielkie. W samym mieście i na drogach Niemcy zostawili wiele min i pułapek z dynamitu, które rozbrajali saperzy. 16 stycznia przed ratuszem podniesiono brytyjską flagę, a Swakopmund formalnie przyłączono do Związku.
 

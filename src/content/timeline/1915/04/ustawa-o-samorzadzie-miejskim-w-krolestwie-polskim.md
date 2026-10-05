@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 3 kwietnia 1915 roku, że rosyjski ukaz cesarski przyznał samorząd miejski [Królestwu Polskiemu](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Chodziło o ustawę, która rozciągała na miasta guberni Królestwa obowiązującą w Rosji ordynację miejską z 1892 roku, ze zmianami przewidzianymi dla ziem polskich. Car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) zatwierdził ją 17 marca 1915 roku według kalendarza juliańskiego, czyli 30 marca według kalendarza gregoriańskiego. Na początku kwietnia wiadomość obiegła prasę, a warszawskie gazety zaczęły ją szeroko komentować. Stąd zapewne data przyjęta przez brytyjskich autorów.
+Brytyjska chronologia wojny notuje pod 3 kwietnia 1915 roku, że rosyjski ukaz cesarski przyznał samorząd miejski [Królestwu Polskiemu](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Chodziło o ustawę, która rozciągała na miasta guberni Królestwa obowiązującą w Rosji ordynację miejską z 1892 roku, ze zmianami przewidzianymi dla ziem polskich. Car [Mikołaj II](/postacie/mikolaj-ii) zatwierdził ją 17 marca 1915 roku według kalendarza juliańskiego, czyli 30 marca według kalendarza gregoriańskiego. Na początku kwietnia wiadomość obiegła prasę, a warszawskie gazety zaczęły ją szeroko komentować. Stąd zapewne data przyjęta przez brytyjskich autorów.
 
 ## Pół wieku bez samorządu
 

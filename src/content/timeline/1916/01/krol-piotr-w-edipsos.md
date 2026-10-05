@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 17 stycznia 1916 roku przybycie króla Serbii [Piotra I](https://pl.wikipedia.org/wiki/Piotr_I_Karadziordziewić) do Edipsos, uzdrowiska na greckiej wyspie [Eubei](https://pl.wikipedia.org/wiki/Eubea). Tego dnia wiadomość obiegła prasę, ale sama podróż odbyła się wcześniej. Według depeszy Reutera z Aten, datowanej 16 stycznia, król przybył do Edipsos „wczoraj o szóstej wieczorem” na pokładzie francuskiego torpedowca, którym tego samego ranka [wypłynął z Salonik](/krol-piotr-opuszcza-saloniki). Do celu dotarł więc najpewniej już 15 stycznia.
+Brytyjska chronologia wojny notuje pod 17 stycznia 1916 roku przybycie króla Serbii [Piotra I](/postacie/piotr-i-karadziordziewic) do Edipsos, uzdrowiska na greckiej wyspie [Eubei](https://pl.wikipedia.org/wiki/Eubea). Tego dnia wiadomość obiegła prasę, ale sama podróż odbyła się wcześniej. Według depeszy Reutera z Aten, datowanej 16 stycznia, król przybył do Edipsos „wczoraj o szóstej wieczorem” na pokładzie francuskiego torpedowca, którym tego samego ranka [wypłynął z Salonik](/krol-piotr-opuszcza-saloniki). Do celu dotarł więc najpewniej już 15 stycznia.
 
 Edipsos, w transliteracji z greckiego także Aidipsos, leży na północno-zachodnim wybrzeżu Eubei, nad zatoką oddzielającą wyspę od lądu stałego. Jego gorące źródła słynęły od starożytności. Plutarch pisał, że leczył się w nich rzymski dyktator Sulla. Siedemdziesięciojednoletni król, wyczerpany odwrotem przez albańskie góry, przyjechał tam na kurację kąpielową.
 

@@ -18,7 +18,7 @@ draft: false
 
 Kilka dni wcześniej [kontrofensywa Austro-Węgier w Galicji](/kontrofensywa-austro-wegier-w-galicji) przyniosła [odsiecz Przemyśla](/odsiecz-przemysla). Rosjanie nie bronili się jednak pod samą twierdzą. Na północ od twierdzy cofnęli się za San, a na południe od niej 8 Armia zajęła przygotowane pozycje na wzgórzach, od okolic Przemyśla przez rejon Chyrowa po [Stary Sambor](https://pl.wikipedia.org/wiki/Stary_Sambor) nad Dniestrem. Dowództwo austro-węgierskie liczyło, że właśnie tu pobije słabsze siły rosyjskie i wyjdzie na tyły armii broniących Sanu.
 
-Z południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Jej czołowa dywizja doszła 9 października do Krościenka i znalazła przesmyk pod Chyrowem zamknięty przez rosyjski XXIV Korpus. Prawe skrzydło armii, grupa generała Tersztyánszky'ego, zeszło z Przełęczy Użockiej do Turki. Od strony Przemyśla nacierało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic).
+Z południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](/postacie/eduard-von-bohm-ermolli). Jej czołowa dywizja doszła 9 października do Krościenka i znalazła przesmyk pod Chyrowem zamknięty przez rosyjski XXIV Korpus. Prawe skrzydło armii, grupa generała Tersztyánszky'ego, zeszło z Przełęczy Użockiej do Turki. Od strony Przemyśla nacierało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic).
 
 ## Natarcie i kontratak
 

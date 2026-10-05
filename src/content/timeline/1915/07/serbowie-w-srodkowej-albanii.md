@@ -21,7 +21,7 @@ Powstańcy próbowali stawić opór na przełęczach w okolicach Qukës, ale zos
 
 ## Granica przy Durrës
 
-Serbskie wojska zatrzymały się jednak u bram miasta. Gdy włoski rząd zaprotestował przeciw wyprawie, premier [Nikola Pašić](https://pl.wikipedia.org/wiki/Nikola_Pašić) zapewniał, że chodzi o działanie tymczasowe, a Serbia nie zamierza zajmować Durrës. Dla Rzymu miasto miało szczególne znaczenie. Na mocy tajnego [traktatu londyńskiego](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) wybrzeże z Durrës miało zostać zneutralizowane, a ze środkowej Albanii miało powstać małe państwo, w praktyce zależne od Włoch. W Durrës działało włoskie poselstwo, a Esad, choć zawdzięczał ocalenie Serbom, zabiegał też o względy Rzymu.
+Serbskie wojska zatrzymały się jednak u bram miasta. Gdy włoski rząd zaprotestował przeciw wyprawie, premier [Nikola Pašić](/postacie/nikola-pasic) zapewniał, że chodzi o działanie tymczasowe, a Serbia nie zamierza zajmować Durrës. Dla Rzymu miasto miało szczególne znaczenie. Na mocy tajnego [traktatu londyńskiego](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) wybrzeże z Durrës miało zostać zneutralizowane, a ze środkowej Albanii miało powstać małe państwo, w praktyce zależne od Włoch. W Durrës działało włoskie poselstwo, a Esad, choć zawdzięczał ocalenie Serbom, zabiegał też o względy Rzymu.
 
 Sojusz Esada z Belgradem był i tak bardzo bliski. 28 czerwca w Tiranie podpisał on z serbskim ministrem spraw wewnętrznych tajny układ o unii obu państw ze wspólną armią, cłami, bankiem narodowym i przedstawicielstwami za granicą. Esad miał zostać uznany za księcia Albanii. Już pod koniec czerwca włoski poseł w Durrës donosił jednak, że Serbowie nie dopuszczają urzędników Esada do Tirany i Elbasanu i osadzają tam własnych.
 

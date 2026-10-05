@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 września 1914 roku generał porucznik Sir John Maxwell objął dowództwo wojsk brytyjskich w [Egipcie](https://pl.wikipedia.org/wiki/Egipt). Zastąpił generała [Juliana Bynga](https://pl.wikipedia.org/wiki/Julian_Byng), którego odwołano do Europy, gdzie wkrótce objął dowództwo dywizji kawalerii.
+8 września 1914 roku generał porucznik Sir John Maxwell objął dowództwo wojsk brytyjskich w [Egipcie](https://pl.wikipedia.org/wiki/Egipt). Zastąpił generała [Juliana Bynga](/postacie/julian-byng), którego odwołano do Europy, gdzie wkrótce objął dowództwo dywizji kawalerii.
 
 ## Znawca Egiptu
 

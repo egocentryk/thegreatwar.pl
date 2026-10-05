@@ -16,7 +16,7 @@ Brytyjska chronologia wojny podaje 15 listopada 1914 roku jako dzień rozpoczęc
 
 ## Rosjanie pod Krakowem
 
-Po nieudanej ofensywie nad Wisłą armie austro-węgierskie cofnęły się na początku listopada aż pod Kraków. Za nimi szły rosyjskie 4 i 9 Armia, nacierające na północ od Wisły w stronę Śląska, oraz 3 Armia generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew), która od Tarnowa posuwała się na zachód po południowej stronie rzeki. 9 listopada przed fortami pojawił się pierwszy patrol kozacki. Około 14 listopada 9 Armia generała Płatona Leczyckiego doszła do linii Wolbrom – Skała – Słomniki – Proszowice, w odległości od kilkunastu do kilkudziesięciu kilometrów od miasta.
+Po nieudanej ofensywie nad Wisłą armie austro-węgierskie cofnęły się na początku listopada aż pod Kraków. Za nimi szły rosyjskie 4 i 9 Armia, nacierające na północ od Wisły w stronę Śląska, oraz 3 Armia generała [Radko Dimitriewa](/postacie/radko-dimitriew), która od Tarnowa posuwała się na zachód po południowej stronie rzeki. 9 listopada przed fortami pojawił się pierwszy patrol kozacki. Około 14 listopada 9 Armia generała Płatona Leczyckiego doszła do linii Wolbrom – Skała – Słomniki – Proszowice, w odległości od kilkunastu do kilkudziesięciu kilometrów od miasta.
 
 Kraków szykował się do oblężenia. Na początku listopada komendant twierdzy, generał [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk), zarządził przymusową ewakuację mieszkańców, którzy nie mieli zapasów żywności na trzy miesiące. Miasto opuściła mniej więcej jedna trzecia ludności. 17 listopada zamknięto rogatki, a do Krakowa nie wolno było wjeżdżać nawet na krótki pobyt.
 

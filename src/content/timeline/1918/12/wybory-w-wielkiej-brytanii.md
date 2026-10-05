@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-W sobotę 14 grudnia 1918 roku, nieco ponad miesiąc po [rozejmie w Compiègne](/rozejm-w-compiegne), w całym [Zjednoczonym Królestwie](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) odbyły się wybory do [Izby Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin). Były to pierwsze wybory powszechne od grudnia 1910 roku. Parlament wybrany wtedy na pięć lat przedłużał w czasie wojny swoją kadencję specjalnymi ustawami, Premier [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) jeszcze przed zawieszeniem broni przekonał króla do rozpisania wyborów i 25 listopada parlament został rozwiązany. Wszyscy głosowali tego samego dnia, ale głosy policzono dopiero 28 grudnia, by zdążyły nadejść karty żołnierzy służących za granicą. Wynik zmienił brytyjską scenę polityczną na następne dziesięciolecia.
+W sobotę 14 grudnia 1918 roku, nieco ponad miesiąc po [rozejmie w Compiègne](/rozejm-w-compiegne), w całym [Zjednoczonym Królestwie](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) odbyły się wybory do [Izby Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin). Były to pierwsze wybory powszechne od grudnia 1910 roku. Parlament wybrany wtedy na pięć lat przedłużał w czasie wojny swoją kadencję specjalnymi ustawami, Premier [David Lloyd George](/postacie/david-lloyd-george) jeszcze przed zawieszeniem broni przekonał króla do rozpisania wyborów i 25 listopada parlament został rozwiązany. Wszyscy głosowali tego samego dnia, ale głosy policzono dopiero 28 grudnia, by zdążyły nadejść karty żołnierzy służących za granicą. Wynik zmienił brytyjską scenę polityczną na następne dziesięciolecia.
 
 ## Nowe prawo wyborcze
 

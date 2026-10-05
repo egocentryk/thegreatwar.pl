@@ -16,7 +16,7 @@ Brytyjska chronologia wojny odnotowuje pod 13 stycznia 1915 roku koniec bitwy po
 
 ## Kontratak Judenicza
 
-Po tygodniu [osmańskich ataków](/poczatek-bitwy-pod-kara-urgan) generał [Nikołaj Judenicz](https://pl.wikipedia.org/wiki/Nikołaj_Judenicz) przeszedł do kontrataku. 10 stycznia dwa bataliony 153 Bakińskiego Pułku Piechoty odbiły górę Güllü-dağ na prawym skrzydle, zdobywając według Allena i Muratowa sześć dział i biorąc tysiąc jeńców. Centrum XI Korpusu broniło się jednak na silnych pozycjach pod Zivin, po tureckiej stronie granicy, gdzie Rosjanie już w 1877 roku ponieśli krwawą porażkę. Judenicz uznał, że atak od frontu będzie zbyt kosztowny, i postanowił obejść Turków.
+Po tygodniu [osmańskich ataków](/poczatek-bitwy-pod-kara-urgan) generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz) przeszedł do kontrataku. 10 stycznia dwa bataliony 153 Bakińskiego Pułku Piechoty odbiły górę Güllü-dağ na prawym skrzydle, zdobywając według Allena i Muratowa sześć dział i biorąc tysiąc jeńców. Centrum XI Korpusu broniło się jednak na silnych pozycjach pod Zivin, po tureckiej stronie granicy, gdzie Rosjanie już w 1877 roku ponieśli krwawą porażkę. Judenicz uznał, że atak od frontu będzie zbyt kosztowny, i postanowił obejść Turków.
 
 Zadanie otrzymał pułkownik Dowgirt, którego strzelcy turkiestańscy wytrzymali wcześniej najcięższe ataki. Z jego oddziału zostało już tylko 1,5 tysiąca ludzi z czterema działami. Przez pięć dni szli w śniegu sięgającym pasa, pokonując po kilka kilometrów dziennie. Judenicz uważał ich już za straconych. Walki toczyły się wśród nieustannych zamieci. Współcześni pisali, że zabitych i rannych zasypywał śnieg, a nikt nawet nie próbował ich szukać.
 

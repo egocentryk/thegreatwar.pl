@@ -17,7 +17,7 @@ Brytyjska chronologia wojny notuje pod 11 lutego 1916 roku, że na [Korfu](https
 
 Źródła z epoki mówią o małym oddziale. Ateński korespondent londyńskiego tygodnika „The Near East” pisał w liście datowanym 9 lutego, że na Korfu przybyło około dziesięciu włoskich [karabinierów](https://pl.wikipedia.org/wiki/Korpus_Karabinierów), którzy według jego informacji eskortowali tam serbskich dezerterów. Data listu sugeruje, że Włosi mogli się pojawić na wyspie kilka dni wcześniej, niż podaje chronologia. Według korespondenta w Atenach podniósł się wielki rwetes. Rząd zakazał przesyłania tej wiadomości za granicę i energicznie zaprotestował w Rzymie. Krążyła nawet pogłoska, że karabinierzy musieli się wycofać, bo zbuntowali się przeciw nim wyspiarze, ale korespondent uważał ją za mało wiarygodną.
 
-Spór dotarł do prasy państw centralnych. 12 lutego Berlin podał przez radiostację, powołując się na szwajcarskie biuro prasowe, a nowojorski „New York Times” powtórzył, że premier [Stefanos Skuludis](https://pl.wikipedia.org/wiki/Stefanos_Skuludis) zaprotestował przeciw włoskiemu zamiarowi wysłania na Korfu wojska do pełnienia służby porządkowej. Miał oświadczyć, że nastroje w Grecji są takie, iż rząd nie bierze odpowiedzialności za to, co może wyniknąć z kroku Włoch.
+Spór dotarł do prasy państw centralnych. 12 lutego Berlin podał przez radiostację, powołując się na szwajcarskie biuro prasowe, a nowojorski „New York Times” powtórzył, że premier [Stefanos Skuludis](/postacie/stefanos-skuludis) zaprotestował przeciw włoskiemu zamiarowi wysłania na Korfu wojska do pełnienia służby porządkowej. Miał oświadczyć, że nastroje w Grecji są takie, iż rząd nie bierze odpowiedzialności za to, co może wyniknąć z kroku Włoch.
 
 ## Dlaczego właśnie Włosi
 

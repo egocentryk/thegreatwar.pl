@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 stycznia 1917 roku (3 stycznia według kalendarza juliańskiego) car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) zmienił ministra wojny. Generała [Dmitrija Szuwajewa](https://pl.wikipedia.org/wiki/Dmitrij_Szuwajew) zwolnił z urzędu i mianował członkiem [Rady Państwa](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), a na jego miejsce powołał generała piechoty Michaiła Bielajewa. Brytyjska chronologia wojny notuje zmianę dzień później, pod 17 stycznia, i tę samą datę podaje brytyjski attaché wojskowy w Piotrogrodzie Alfred Knox, który pisał, że 17 stycznia Bielajewa odwołano z Rumunii, by objął ministerstwo. Była to kolejna zmiana w rządzie, który od tygodnia kierował nowy premier, [książę Nikołaj Golicyn](/golicyn-premierem-rosji).
+16 stycznia 1917 roku (3 stycznia według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) zmienił ministra wojny. Generała [Dmitrija Szuwajewa](https://pl.wikipedia.org/wiki/Dmitrij_Szuwajew) zwolnił z urzędu i mianował członkiem [Rady Państwa](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), a na jego miejsce powołał generała piechoty Michaiła Bielajewa. Brytyjska chronologia wojny notuje zmianę dzień później, pod 17 stycznia, i tę samą datę podaje brytyjski attaché wojskowy w Piotrogrodzie Alfred Knox, który pisał, że 17 stycznia Bielajewa odwołano z Rumunii, by objął ministerstwo. Była to kolejna zmiana w rządzie, który od tygodnia kierował nowy premier, [książę Nikołaj Golicyn](/golicyn-premierem-rosji).
 
 ## Odejście Szuwajewa
 

@@ -18,7 +18,7 @@ draft: false
 
 [Namur](https://pl.wikipedia.org/wiki/Namur) leży u ujścia [Sambry](https://pl.wikipedia.org/wiki/Sambra) do [Mozy](https://pl.wikipedia.org/wiki/Moza). Pod koniec XIX wieku otoczono je pierścieniem dziewięciu fortów, zaprojektowanych, podobnie jak forty Liège, przez generała Henriego Brialmonta. Twierdzy broniła belgijska 4 Dywizja wraz z załogą fortów, łącznie około 37 tysięcy żołnierzy pod dowództwem generała Michela.
 
-Po drugiej stronie stanęło zgrupowanie generała [Maxa von Gallwitza](https://pl.wikipedia.org/wiki/Max_von_Gallwitz), należące do 2 Armii Karla von Bülowa. Niemcy wyciągnęli wnioski z Liège, gdzie forty długo stawiały opór piechocie. Tym razem od razu sprowadzili najcięższą artylerię: niemieckie moździerze kalibru 420 mm, tzw. [Grube Berty](https://pl.wikipedia.org/wiki/M-Gerät), oraz baterie austro-węgierskich moździerzy Škody kalibru 305 mm.
+Po drugiej stronie stanęło zgrupowanie generała [Maxa von Gallwitza](/postacie/max-von-gallwitz), należące do 2 Armii Karla von Bülowa. Niemcy wyciągnęli wnioski z Liège, gdzie forty długo stawiały opór piechocie. Tym razem od razu sprowadzili najcięższą artylerię: niemieckie moździerze kalibru 420 mm, tzw. [Grube Berty](https://pl.wikipedia.org/wiki/M-Gerät), oraz baterie austro-węgierskich moździerzy Škody kalibru 305 mm.
 
 ## Forty pod ogniem
 

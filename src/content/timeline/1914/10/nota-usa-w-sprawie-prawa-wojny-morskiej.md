@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 października 1914 roku pełniący obowiązki sekretarza stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) polecił ambasadorowi USA w Londynie Walterowi Hinesowi Page’owi przekazać brytyjskiemu rządowi ważną decyzję. Stany Zjednoczone wycofały swoją propozycję, by walczące państwa i neutralni stosowali w czasie wojny [deklarację londyńską](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku jako tymczasowy kodeks wojny morskiej.
+22 października 1914 roku pełniący obowiązki sekretarza stanu [Robert Lansing](/postacie/robert-lansing) polecił ambasadorowi USA w Londynie Walterowi Hinesowi Page’owi przekazać brytyjskiemu rządowi ważną decyzję. Stany Zjednoczone wycofały swoją propozycję, by walczące państwa i neutralni stosowali w czasie wojny [deklarację londyńską](https://pl.wikipedia.org/wiki/Deklaracja_londyńska) z 1909 roku jako tymczasowy kodeks wojny morskiej.
 
 ## Koniec rozmów
 

@@ -17,7 +17,7 @@ draft: false
 
 Sześćdziesięcioletni De Wet był jednym z najsłynniejszych [Burów](https://pl.wikipedia.org/wiki/Burowie). W czasie [II wojny burskiej](https://pl.wikipedia.org/wiki/II_wojna_burska) jako dowódca wojsk [Wolnego Państwa Orania](https://pl.wikipedia.org/wiki/Wolne_Państwo_Orania) przez lata wymykał się brytyjskim kolumnom i stał się mistrzem wojny podjazdowej. W 1914 roku nie zgadzał się na wojnę z Niemcami u boku Wielkiej Brytanii. Po [dymisji generała Beyersa i śmierci generała De la Reya](/poczatek-rebelii-burskiej) przemawiał na wiecach protestacyjnych, a pod koniec października stanął na czele zbrojnego powstania w dawnej Oranii. Zebrał kilka tysięcy ludzi.
 
-Rebelia szybko przyniosła mu osobisty dramat. Na początku listopada w potyczce z wojskami rządowymi zginął jego syn Danie. 12 listopada premier [Louis Botha](https://pl.wikipedia.org/wiki/Louis_Botha), który osobiście dowodził operacją, rozbił główne siły De Weta pod Mushroom Valley, na południowy wschód od Winburga. Rebelianci rozproszyli się, a generał uszedł z pola bitwy.
+Rebelia szybko przyniosła mu osobisty dramat. Na początku listopada w potyczce z wojskami rządowymi zginął jego syn Danie. 12 listopada premier [Louis Botha](/postacie/louis-botha), który osobiście dowodził operacją, rozbił główne siły De Weta pod Mushroom Valley, na południowy wschód od Winburga. Rebelianci rozproszyli się, a generał uszedł z pola bitwy.
 
 ## Ucieczka na zachód
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-20 listopada 1915 roku wojska austro-węgierskiej 3 Armii generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza) zajęły [Novi Pazar](https://pl.wikipedia.org/wiki/Novi_Pazar), główne miasto [Sandżaku](https://pl.wikipedia.org/wiki/Sandżak). Brytyjska chronologia wojny przypisuje to Austriakom i słusznie wskazuje armię, która prowadziła tu natarcie. Według austriackiej historii oficjalnej pierwsi weszli jednak do miasta Niemcy. Około 17.00 dotarł do niego pułk strzelców z niemieckiego Korpusu Alpejskiego, który posuwał się w awangardzie. Austro-węgierska 10 Brygada Górska wkroczyła do Novego Pazaru dopiero następnego dnia, 21 listopada.
+20 listopada 1915 roku wojska austro-węgierskiej 3 Armii generała [Hermanna Kövessa](/postacie/hermann-kovess) zajęły [Novi Pazar](https://pl.wikipedia.org/wiki/Novi_Pazar), główne miasto [Sandżaku](https://pl.wikipedia.org/wiki/Sandżak). Brytyjska chronologia wojny przypisuje to Austriakom i słusznie wskazuje armię, która prowadziła tu natarcie. Według austriackiej historii oficjalnej pierwsi weszli jednak do miasta Niemcy. Około 17.00 dotarł do niego pułk strzelców z niemieckiego Korpusu Alpejskiego, który posuwał się w awangardzie. Austro-węgierska 10 Brygada Górska wkroczyła do Novego Pazaru dopiero następnego dnia, 21 listopada.
 
 ## Pościg przez góry
 

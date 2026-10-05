@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-22 czerwca 1915 roku do [Lwowa](https://pl.wikipedia.org/wiki/Lwów), stolicy austriackiej Galicji, wkroczyły wojska austro-węgierskiej [2 Armii](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Rano jego korpusy zdobyły szturmem umocnienia na zachodnim przedpolu miasta, a w południe ostatnie oddziały rosyjskie opuściły je w kierunku wschodnim. Tak skończyła się okupacja, która zaczęła się [3 września 1914 roku](/rosjanie-zdobywaja-lwow) i trwała 293 dni. Dla państw centralnych był to jeden z największych sukcesów na wschodzie od początku wojny, a dla mieszkańców miasta koniec dziesięciu miesięcy rosyjskich rządów.
+22 czerwca 1915 roku do [Lwowa](https://pl.wikipedia.org/wiki/Lwów), stolicy austriackiej Galicji, wkroczyły wojska austro-węgierskiej [2 Armii](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) generała [Eduarda von Böhm-Ermollego](/postacie/eduard-von-bohm-ermolli). Rano jego korpusy zdobyły szturmem umocnienia na zachodnim przedpolu miasta, a w południe ostatnie oddziały rosyjskie opuściły je w kierunku wschodnim. Tak skończyła się okupacja, która zaczęła się [3 września 1914 roku](/rosjanie-zdobywaja-lwow) i trwała 293 dni. Dla państw centralnych był to jeden z największych sukcesów na wschodzie od początku wojny, a dla mieszkańców miasta koniec dziesięciu miesięcy rosyjskich rządów.
 
 ## Ostatni szturm
 

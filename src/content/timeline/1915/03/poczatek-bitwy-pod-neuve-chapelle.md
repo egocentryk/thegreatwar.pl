@@ -20,7 +20,7 @@ Neuve-Chapelle Niemcy [zdobyli pod koniec października 1914 roku](/koniec-bitwy
 
 Pierwotnie natarcie miało być częścią wspólnej ofensywy z Francuzami, ale ci wycofali się, gdy Brytyjczycy nie zdołali zluzować ich wojsk pod Ypres. Marszałek [John French](/postacie/john-french) postanowił atakować sam. Chciał wesprzeć sojuszników i dowieść, że jego armia potrafi nacierać, a nie tylko trwać w okopach.
 
-Do natarcia wyznaczono dwa korpusy. IV Korpus generała [Henry'ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)), z 8 i 7 Dywizją, miał uderzyć od północnego zachodu, a Korpus Indyjski generała Jamesa Willcocksa, z dywizjami Meerut i Lahore, od południa. Dla Korpusu Indyjskiego była to pierwsza wielka ofensywa od czasu, gdy w grudniu [ledwie utrzymał front pod Givenchy](/bitwy/obrona-givenchy). Naprzeciw stały nieliczne oddziały westfalskiego VII Korpusu z niemieckiej [6 Armii](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)), w płytkich okopach i za przedpiersiami z worków z piaskiem.
+Do natarcia wyznaczono dwa korpusy. IV Korpus generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), z 8 i 7 Dywizją, miał uderzyć od północnego zachodu, a Korpus Indyjski generała Jamesa Willcocksa, z dywizjami Meerut i Lahore, od południa. Dla Korpusu Indyjskiego była to pierwsza wielka ofensywa od czasu, gdy w grudniu [ledwie utrzymał front pod Givenchy](/bitwy/obrona-givenchy). Naprzeciw stały nieliczne oddziały westfalskiego VII Korpusu z niemieckiej [6 Armii](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)), w płytkich okopach i za przedpiersiami z worków z piaskiem.
 
 ## Nowe metody
 

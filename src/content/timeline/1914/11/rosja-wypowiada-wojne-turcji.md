@@ -10,7 +10,7 @@ milestone: true
 draft: false
 ---
 
-2 listopada 1914 roku, a według obowiązującego w Rosji [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański) 20 października, cesarz [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) podpisał w [Carskim Siole](https://pl.wikipedia.org/wiki/Carskie_Sioło) manifest o wypowiedzeniu wojny [Imperium Osmańskiemu](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Była to odpowiedź na [atak floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym. Część zachodnich zestawień podaje datę 1 listopada, ale manifest nosi datę 20 października starego stylu, czyli 2 listopada. Rosja, która od trzech miesięcy walczyła z Niemcami i Austro-Węgrami, miała odtąd jeszcze jednego przeciwnika.
+2 listopada 1914 roku, a według obowiązującego w Rosji [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański) 20 października, cesarz [Mikołaj II](/postacie/mikolaj-ii) podpisał w [Carskim Siole](https://pl.wikipedia.org/wiki/Carskie_Sioło) manifest o wypowiedzeniu wojny [Imperium Osmańskiemu](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Była to odpowiedź na [atak floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym. Część zachodnich zestawień podaje datę 1 listopada, ale manifest nosi datę 20 października starego stylu, czyli 2 listopada. Rosja, która od trzech miesięcy walczyła z Niemcami i Austro-Węgrami, miała odtąd jeszcze jednego przeciwnika.
 
 ## Manifest cara
 
@@ -20,7 +20,7 @@ Najważniejsze było jednak ostatnie zdanie. Car wyrażał przekonanie, że „n
 
 ## Wojna, której Rosja nie szukała
 
-Paradoksalnie latem 1914 roku Rosja wcale nie chciała wojny z Turcją. Jej armie były zajęte w Prusach Wschodnich, w Galicji i w Królestwie Polskim, a nowy front oznaczał rozproszenie sił. Minister spraw zagranicznych [Siergiej Sazonow](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) razem z sojusznikami zabiegał więc o utrzymanie tureckiej neutralności, a Ententa gotowa była nawet zagwarantować Turcji nienaruszalność jej granic. Nalot z 29 października przekreślił te starania. Rosyjski ambasador Michaił Girs [zażądał paszportów](/zerwanie-stosunkow-z-turcja) już następnego dnia, a 31 października wyjechał z Konstantynopola.
+Paradoksalnie latem 1914 roku Rosja wcale nie chciała wojny z Turcją. Jej armie były zajęte w Prusach Wschodnich, w Galicji i w Królestwie Polskim, a nowy front oznaczał rozproszenie sił. Minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) razem z sojusznikami zabiegał więc o utrzymanie tureckiej neutralności, a Ententa gotowa była nawet zagwarantować Turcji nienaruszalność jej granic. Nalot z 29 października przekreślił te starania. Rosyjski ambasador Michaił Girs [zażądał paszportów](/zerwanie-stosunkow-z-turcja) już następnego dnia, a 31 października wyjechał z Konstantynopola.
 
 Dla Rosji wojna z Turcją miała jednak także drugą stronę. Przez Bosfor i Dardanele wypływała znaczna część rosyjskiego eksportu, przede wszystkim zboże z Ukrainy i południa Rosji. Pod koniec września Turcy zamknęli Dardanele dla żeglugi i gospodarka imperium odczuła to od razu. Panowanie nad cieśninami, o które Rosja toczyła wojny z Turcją od XVIII wieku, ostatnio w latach [1877–1878](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-turecka_(1877–1878)), znów stało się realnym celem. Tym razem Rosja walczyła u boku Wielkiej Brytanii i Francji, które w XIX wieku broniły Turcji przed rosyjską ekspansją.
 

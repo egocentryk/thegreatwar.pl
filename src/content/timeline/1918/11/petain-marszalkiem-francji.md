@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 listopada 1918 roku generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain), naczelny wódz armii francuskiej, dowiedział się, że zostanie [marszałkiem Francji](https://pl.wikipedia.org/wiki/Marszałkowie_Francji). Według dziennika jego zastępcy, generała Edmonda Buata, wiadomość przyszła telefonicznie w południe. Dwa dni wcześniej, na prośbę oficerów Wielkiej Kwatery Głównej, w sprawie buławy dla Pétaina u premiera [Georges'a Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) interweniował marszałek [Ferdinand Foch](/postacie/ferdinand-foch). Formalnie Pétain został marszałkiem dekretem prezydenta z 21 listopada, ogłoszonym w dzienniku urzędowym następnego dnia, dlatego większość opracowań podaje datę 21 listopada.
+19 listopada 1918 roku generał [Philippe Pétain](/postacie/philippe-petain), naczelny wódz armii francuskiej, dowiedział się, że zostanie [marszałkiem Francji](https://pl.wikipedia.org/wiki/Marszałkowie_Francji). Według dziennika jego zastępcy, generała Edmonda Buata, wiadomość przyszła telefonicznie w południe. Dwa dni wcześniej, na prośbę oficerów Wielkiej Kwatery Głównej, w sprawie buławy dla Pétaina u premiera [Georges'a Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) interweniował marszałek [Ferdinand Foch](/postacie/ferdinand-foch). Formalnie Pétain został marszałkiem dekretem prezydenta z 21 listopada, ogłoszonym w dzienniku urzędowym następnego dnia, dlatego większość opracowań podaje datę 21 listopada.
 
 ## Dzień w Metzu
 
@@ -25,4 +25,4 @@ W 1918 roku Pétain pozostawał w cieniu Focha, który jako naczelny wódz sojus
 
 ## Buława
 
-Uroczystość odbyła się kilka tygodni później. 8 grudnia 1918 roku w Metzu prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré), w obecności Clemenceau, wręczył Pétainowi buławę marszałkowską. Pétain miał wtedy 62 lata. Jako zwycięzca spod Verdun i naczelny wódz z lat 1917–1918 przez dwie dekady cieszył się we Francji ogromnym autorytetem. Ten sam autorytet sprawił, że w 1940 roku stanął na czele państwa, które po klęsce podjęło kolaborację z Niemcami. W 1945 roku sąd skazał go za zdradę na karę śmierci, którą generał Charles de Gaulle zamienił na dożywocie.
+Uroczystość odbyła się kilka tygodni później. 8 grudnia 1918 roku w Metzu prezydent [Raymond Poincaré](/postacie/raymond-poincare), w obecności Clemenceau, wręczył Pétainowi buławę marszałkowską. Pétain miał wtedy 62 lata. Jako zwycięzca spod Verdun i naczelny wódz z lat 1917–1918 przez dwie dekady cieszył się we Francji ogromnym autorytetem. Ten sam autorytet sprawił, że w 1940 roku stanął na czele państwa, które po klęsce podjęło kolaborację z Niemcami. W 1945 roku sąd skazał go za zdradę na karę śmierci, którą generał Charles de Gaulle zamienił na dożywocie.

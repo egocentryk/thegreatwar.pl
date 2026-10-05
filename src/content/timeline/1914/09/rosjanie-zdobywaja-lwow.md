@@ -22,7 +22,7 @@ Lwów przed wojną nie był twierdzą, a austro-węgierskie dowództwo nie zamie
 
 ## Wejście Rosjan
 
-Rano 3 września na ulicach Lwowa pojawiły się pierwsze patrole [kozackie](https://pl.wikipedia.org/wiki/Kozacy), a wkrótce potem czołowe oddziały kawalerii rosyjskiej 3 Armii generała [Nikołaja Ruzskiego](https://pl.wikipedia.org/wiki/Nikołaj_Ruzski). Na rogatki wyszły delegacje magistratu, między innymi z Rutowskim, by uzgodnić z rosyjskim dowództwem warunki zajęcia miasta. Rosjanie zażądali zakładników, którzy mieli gwarantować spokój. Wybrano ich spośród przedstawicieli wszystkich głównych grup mieszkańców: Polaków, Żydów i Ukraińców.
+Rano 3 września na ulicach Lwowa pojawiły się pierwsze patrole [kozackie](https://pl.wikipedia.org/wiki/Kozacy), a wkrótce potem czołowe oddziały kawalerii rosyjskiej 3 Armii generała [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski). Na rogatki wyszły delegacje magistratu, między innymi z Rutowskim, by uzgodnić z rosyjskim dowództwem warunki zajęcia miasta. Rosjanie zażądali zakładników, którzy mieli gwarantować spokój. Wybrano ich spośród przedstawicieli wszystkich głównych grup mieszkańców: Polaków, Żydów i Ukraińców.
 
 Komendantem miasta został pułkownik Siergiej Szeremietiew. W odezwie z 4 września zapowiedział surowe kary za rabunki i napaści, zakazał sprzedaży alkoholu i ustalił przymusowy kurs korony austriackiej wobec rubla. Lwów przyjął okupantów w milczeniu. W Rosji zdobycie miasta świętowano jako wielkie zwycięstwo, a Ruzski stał się jednym z najbardziej znanych rosyjskich dowódców.
 
@@ -50,11 +50,11 @@ Polacy stanowili we Lwowie większość mieszkańców i to oni kierowali miastem
 
 Magistrat pod kierunkiem Rutowskiego, polski w składzie, starał się przede wszystkim chronić mieszkańców. Organizował miejskie kuchnie, które wydawały dziennie dziesiątki tysięcy obiadów, pomoc dla uchodźców i opiekę nad rannymi, a w sporach z okupantem bronił samorządu miasta. Część polskich polityków, związanych z [Narodową Demokracją](https://pl.wikipedia.org/wiki/Narodowa_Demokracja), liczyła na współpracę z Rosją przeciw Niemcom, ale większość mieszkańców z niepokojem przyglądała się rusyfikacji. Rosyjskie władze aresztowały i wywoziły także Polaków uznanych za niebezpiecznych.
 
-W kwietniu 1915 roku Lwów odwiedził car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow). Jego wizyta miała pokazać, że Galicja na trwałe weszła w skład imperium.
+W kwietniu 1915 roku Lwów odwiedził car [Mikołaj II](/postacie/mikolaj-ii). Jego wizyta miała pokazać, że Galicja na trwałe weszła w skład imperium.
 
 ## Odbicie miasta
 
-Rosyjskie panowanie okazało się krótkie. W maju 1915 roku wojska niemieckie i austro-węgierskie przełamały front rosyjski pod Gorlicami i ruszyły na wschód. Wycofując się, Rosjanie wywieźli w głąb Rosji kilkudziesięciu zakładników, w tym Tadeusza Rutowskiego. Razem z nimi wyjechały tysiące miejscowych rusofilów. 22 czerwca 1915 roku do Lwowa wkroczyły wojska austro-węgierskiej 2 Armii generała [Eduarda von Böhm-Ermolliego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Rosyjska okupacja trwała 293 dni.
+Rosyjskie panowanie okazało się krótkie. W maju 1915 roku wojska niemieckie i austro-węgierskie przełamały front rosyjski pod Gorlicami i ruszyły na wschód. Wycofując się, Rosjanie wywieźli w głąb Rosji kilkudziesięciu zakładników, w tym Tadeusza Rutowskiego. Razem z nimi wyjechały tysiące miejscowych rusofilów. 22 czerwca 1915 roku do Lwowa wkroczyły wojska austro-węgierskiej 2 Armii generała [Eduarda von Böhm-Ermollego](/postacie/eduard-von-bohm-ermolli). Rosyjska okupacja trwała 293 dni.
 
 ## Znaczenie
 

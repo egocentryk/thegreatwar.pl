@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 października 1918 roku, cztery dni po podpisaniu [rozejmu w Salonikach](/rozejm-w-salonikach), car Bułgarii [Ferdynand I](https://pl.wikipedia.org/wiki/Ferdynand_I_Koburg) zrzekł się tronu na rzecz najstarszego syna, 24-letniego następcy tronu Borysa, księcia Tyrnowa, który jako [Borys III](https://pl.wikipedia.org/wiki/Borys_III) został carem. Brytyjska chronologia wojny notuje abdykację pod 4 października. Tego dnia ogłosiła ją bułgarska gazeta urzędowa i wtedy wiadomość obiegła Europę, a w części ówczesnych przekładów manifest nosi datę 4 października. Oryginał, przechowywany w bułgarskim Centralnym Archiwum Państwowym, jest jednak datowany w Sofii 3 października i tę datę podają zarówno bułgarscy historycy, jak i brytyjska historia oficjalna Cyrila Fallsa.
+3 października 1918 roku, cztery dni po podpisaniu [rozejmu w Salonikach](/rozejm-w-salonikach), car Bułgarii [Ferdynand I](/postacie/ferdynand-i-koburg) zrzekł się tronu na rzecz najstarszego syna, 24-letniego następcy tronu Borysa, księcia Tyrnowa, który jako [Borys III](https://pl.wikipedia.org/wiki/Borys_III) został carem. Brytyjska chronologia wojny notuje abdykację pod 4 października. Tego dnia ogłosiła ją bułgarska gazeta urzędowa i wtedy wiadomość obiegła Europę, a w części ówczesnych przekładów manifest nosi datę 4 października. Oryginał, przechowywany w bułgarskim Centralnym Archiwum Państwowym, jest jednak datowany w Sofii 3 października i tę datę podają zarówno bułgarscy historycy, jak i brytyjska historia oficjalna Cyrila Fallsa.
 
 ## Car, który przegrał wojnę
 

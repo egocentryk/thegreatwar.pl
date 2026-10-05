@@ -21,7 +21,7 @@ Sąsiedzi Albanii mieli wobec niej własne plany. Grecy uważali Epir Północny
 
 ## Dlaczego Ententa się sprzeciwiała
 
-Według serbskich opracowań dyplomacje sojusznicze ostrzegały rząd premiera [Nikoli Pašicia](https://pl.wikipedia.org/wiki/Nikola_Pašić), że wkroczenie do Albanii zostanie źle przyjęte. Ententa miała co najmniej dwa powody. Pierwszym była wojna z Austro-Węgrami. Serbska armia, wyczerpana zwycięską, ale kosztowną kampanią jesienną i dziesiątkowana przez tyfus, miała strzec granicy na Sawie i Dunaju, a nie rozpraszać sił na albańskich bezdrożach. Z tego samego powodu Ententa wolała, by Grecja wysłała wojska na pomoc Serbii, a nie zajmowała kolejnych albańskich ziem.
+Według serbskich opracowań dyplomacje sojusznicze ostrzegały rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), że wkroczenie do Albanii zostanie źle przyjęte. Ententa miała co najmniej dwa powody. Pierwszym była wojna z Austro-Węgrami. Serbska armia, wyczerpana zwycięską, ale kosztowną kampanią jesienną i dziesiątkowana przez tyfus, miała strzec granicy na Sawie i Dunaju, a nie rozpraszać sił na albańskich bezdrożach. Z tego samego powodu Ententa wolała, by Grecja wysłała wojska na pomoc Serbii, a nie zajmowała kolejnych albańskich ziem.
 
 Drugim powodem były Włochy. Neutralne jeszcze królestwo uważało Albanię i wybrzeże Adriatyku za swoją strefę interesów, a o warunkach ewentualnego przystąpienia do wojny rozmawiał właśnie minister spraw zagranicznych [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych). Każde zajęcie albańskiego terytorium przez Serbów, Czarnogórców czy Greków mogło zrazić Rzym i utrudnić pozyskanie go dla Ententy. Formalnie Albania pozostawała neutralnym państwem, którego niepodległość wielkie mocarstwa uznały w 1913 roku.
 

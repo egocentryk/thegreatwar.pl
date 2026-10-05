@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 7 lipca 1915 roku generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) wstrzymał wszystkie natarcia nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Tak skończyła się pierwsza bitwa nad Isonzo, którą włoska 2 i 3 Armia [zaczęły](/poczatek-pierwszej-bitwy-nad-isonzo) 23 czerwca. W rzeczywistości jej los rozstrzygnął się już dwa dni wcześniej. 5 lipca załamały się zarówno ostatnie wielkie natarcie na wzgórze Podgora przed [Gorycją](https://pl.wikipedia.org/wiki/Gorycja), jak i całodzienne szturmy na krawędź płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) między Polazzo a Redipuglią. Według austro-węgierskiej historii oficjalnej wraz z klęską natarcia 5 lipca bitwa była w zasadzie zakończona.
+Wieczorem 7 lipca 1915 roku generał [Luigi Cadorna](/postacie/luigi-cadorna) wstrzymał wszystkie natarcia nad [Soczą](https://pl.wikipedia.org/wiki/Socza). Tak skończyła się pierwsza bitwa nad Isonzo, którą włoska 2 i 3 Armia [zaczęły](/poczatek-pierwszej-bitwy-nad-isonzo) 23 czerwca. W rzeczywistości jej los rozstrzygnął się już dwa dni wcześniej. 5 lipca załamały się zarówno ostatnie wielkie natarcie na wzgórze Podgora przed [Gorycją](https://pl.wikipedia.org/wiki/Gorycja), jak i całodzienne szturmy na krawędź płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) między Polazzo a Redipuglią. Według austro-węgierskiej historii oficjalnej wraz z klęską natarcia 5 lipca bitwa była w zasadzie zakończona.
 
 ## Ostatnie dwa dni
 

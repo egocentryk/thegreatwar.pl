@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Na początku lipca 1916 roku [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George), dotychczasowy minister amunicji, został brytyjskim ministrem wojny. Objął urząd, który od miesiąca był pusty, odkąd lord Kitchener [zginął na krążowniku Hampshire](/smierc-kitchenera) w drodze do Rosji. Nominację ogłoszono 6 lipca, a brytyjska chronologia wojny podaje 7 lipca jako dzień, w którym Lloyd George zastąpił Kitchenera. Zmiana zbiegła się z pierwszym tygodniem bitwy nad Sommą, która już pierwszego dnia przyniosła armii brytyjskiej największe straty w jej dziejach.
+Na początku lipca 1916 roku [David Lloyd George](/postacie/david-lloyd-george), dotychczasowy minister amunicji, został brytyjskim ministrem wojny. Objął urząd, który od miesiąca był pusty, odkąd lord Kitchener [zginął na krążowniku Hampshire](/smierc-kitchenera) w drodze do Rosji. Nominację ogłoszono 6 lipca, a brytyjska chronologia wojny podaje 7 lipca jako dzień, w którym Lloyd George zastąpił Kitchenera. Zmiana zbiegła się z pierwszym tygodniem bitwy nad Sommą, która już pierwszego dnia przyniosła armii brytyjskiej największe straty w jej dziejach.
 
 ## Miesiąc bez ministra
 

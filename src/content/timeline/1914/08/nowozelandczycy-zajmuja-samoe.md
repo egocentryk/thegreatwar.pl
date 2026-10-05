@@ -23,7 +23,7 @@ Kilka dni po wybuchu wojny rząd brytyjski zwrócił się do Nowej Zelandii z pr
 
 29 sierpnia okręty stanęły przed Apią. Gubernator Samoa, Erich Schultz(-Ewerth), nie miał żadnych sił zdolnych do obrony wyspy i nie chciał narażać mieszkańców na rozlew krwi. Postanowił nie stawiać oporu. Przed przybyciem Nowozelandczyków Niemcy unieszkodliwili radiostację. Żołnierze wylądowali bez przeszkód i zajęli najważniejsze budynki.
 
-Następnego dnia, 30 sierpnia, przed budynkiem sądu w Apii odbyła się uroczystość. Logan odczytał proklamację, zgodnie z którą rząd Nowej Zelandii w imieniu króla [Jerzego V](https://pl.wikipedia.org/wiki/Jerzy_V) obejmował okupację wszystkich niemieckich terytoriów na wyspach Samoa. Gubernatora Schultza i kilku wyższych urzędników wywieziono do Nowej Zelandii. Internowano ich na wyspie Motuihe koło Auckland, w obozie dla jeńców wysokiej rangi.
+Następnego dnia, 30 sierpnia, przed budynkiem sądu w Apii odbyła się uroczystość. Logan odczytał proklamację, zgodnie z którą rząd Nowej Zelandii w imieniu króla [Jerzego V](/postacie/jerzy-v) obejmował okupację wszystkich niemieckich terytoriów na wyspach Samoa. Gubernatora Schultza i kilku wyższych urzędników wywieziono do Nowej Zelandii. Internowano ich na wyspie Motuihe koło Auckland, w obozie dla jeńców wysokiej rangi.
 
 ## Dalsze losy
 

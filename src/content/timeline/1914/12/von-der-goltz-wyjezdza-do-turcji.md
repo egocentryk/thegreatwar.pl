@@ -21,7 +21,7 @@ Gdy wybuchła wojna, Goltz był już w stanie spoczynku. Ze względu na wiek nie
 
 ## Kłopotliwy doradca
 
-Wyjazd Goltza był pomysłem niemieckiego ambasadora w Konstantynopolu, barona Hansa von Wangenheima. Ambasador liczył, że feldmarszałek zastąpi na czele niemieckiej misji wojskowej generała [Ottona Limana von Sandersa](https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders), który od końca 1913 roku szkolił armię osmańską i często spierał się z ambasadą. Turcy nie zgodzili się na odwołanie Limana, ale przyjazdu Goltza nie odwołano.
+Wyjazd Goltza był pomysłem niemieckiego ambasadora w Konstantynopolu, barona Hansa von Wangenheima. Ambasador liczył, że feldmarszałek zastąpi na czele niemieckiej misji wojskowej generała [Ottona Limana von Sandersa](/postacie/otto-liman-von-sanders), który od końca 1913 roku szkolił armię osmańską i często spierał się z ambasadą. Turcy nie zgodzili się na odwołanie Limana, ale przyjazdu Goltza nie odwołano.
 
 Formalnie armią osmańską dowodził sułtan, który nie miał jednak realnej władzy. Faktycznie kierował nią minister wojny [Enver Pasza](/postacie/enver-pasza), jeden z przywódców młodotureckich, którzy [związali Turcję sojuszem z Niemcami](/tajny-sojusz-niemiec-i-imperium-osmanskiego). Goltz nie miał więc żadnej władzy dowódczej. Liman pisał później, że dla człowieka tak aktywnego jak Goltz posada adiutanta sułtana mogła być tylko przejściowa. Feldmarszałek szybko urządził sobie biuro w ministerstwie wojny i zaczął brać udział w naradach tureckiego sztabu generalnego. Envera nazywał swoim „młodym przyjacielem”. Z Limanem stosunki układały mu się chłodno.
 

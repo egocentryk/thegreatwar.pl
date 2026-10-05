@@ -24,7 +24,7 @@ Ginchy już wtedy właściwie nie istniało. Według historii bawarskiego 19 Pu�
 
 ## Długi dzień czekania
 
-Brytyjska artyleria otworzyła ogień o 7 rano 9 września i biła przez cały dzień w równym tempie, bez wzmocnienia przed szturmem. Natarcie wyznaczono dopiero na 16.45, by Niemcy nie mieli przed zmrokiem czasu na zorganizowanie kontrataku. Do ataku miało ruszyć całe prawe skrzydło 4 Armii generała [Henry'ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)): londyńska 56 Dywizja od lasu Leuze ku [Combles](https://pl.wikipedia.org/wiki/Combles), 16 Dywizja na Ginchy, a dalej na lewo oddziały pod lasem Delville i lasem High Wood. Francuzi, którzy pierwotnie też mieli tego dnia atakować, przełożyli natarcie na 12 września.
+Brytyjska artyleria otworzyła ogień o 7 rano 9 września i biła przez cały dzień w równym tempie, bez wzmocnienia przed szturmem. Natarcie wyznaczono dopiero na 16.45, by Niemcy nie mieli przed zmrokiem czasu na zorganizowanie kontrataku. Do ataku miało ruszyć całe prawe skrzydło 4 Armii generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson): londyńska 56 Dywizja od lasu Leuze ku [Combles](https://pl.wikipedia.org/wiki/Combles), 16 Dywizja na Ginchy, a dalej na lewo oddziały pod lasem Delville i lasem High Wood. Francuzi, którzy pierwotnie też mieli tego dnia atakować, przełożyli natarcie na 12 września.
 
 Irlandczycy przez wiele godzin czekali w płytkich okopach, w błocie po deszczach z początku września. 47 Brygada, na prawym skrzydle dywizji, w ostatniej chwili dostała rozkaz, by wyjść dwie minuty po wyznaczonej godzinie, bo artyleria miała jeszcze dać ostatni, gwałtowny ostrzał. Rozkaz dotarł z opóźnieniem i tylko do niej. 48 Brygada naprzeciw wsi ruszyła punktualnie.
 

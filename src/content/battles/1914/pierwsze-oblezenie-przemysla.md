@@ -17,7 +17,7 @@ tags: [Austro-Węgry, Rosja, Galicja, Przemyśl]
 milestone: true
 ---
 
-Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Zaraz potem oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.
+Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](/postacie/radko-dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Zaraz potem oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.
 
 ## Daty oblężenia
 
@@ -31,7 +31,7 @@ Przemyśl zamykał drogę z Galicji Wschodniej na Kraków i na przełęcze karpa
 
 Załoga liczyła według różnych źródeł od około 120 do ponad 130 tysięcy ludzi. Jej trzon stanowiła węgierska [23 Dywizja Piechoty Honwedu](https://pl.wikipedia.org/wiki/23_Dywizja_Piechoty_Honvedu). Węgrów było w sumie według polskich szacunków 35–40 tysięcy. Resztę stanowiły głównie brygady pospolitego ruszenia ([Landsturmu](https://pl.wikipedia.org/wiki/Landsturm)), złożone ze starszych rezerwistów, z wielu narodów monarchii. W pułkach z Galicji służyło wielu Polaków i Ukraińców. W mieście pozostało też, według różnych szacunków, od 18 do 30 tysięcy cywilów.
 
-Rosjanie skierowali pod Przemyśl kilka dywizji z 3 Armii Dimitriewa. Siłami bezpośrednio oblegającymi twierdzę dowodził generał [Dmitrij Szczerbaczow](https://pl.wikipedia.org/wiki/Dmitrij_Szczerbaczow). Do szturmu Rosjanie użyli według polskich opracowań ponad 90 tysięcy żołnierzy. Nie mieli jednak ciężkiej artylerii oblężniczej, a ich lekkie i średnie działa nie mogły skutecznie zniszczyć fortów.
+Rosjanie skierowali pod Przemyśl kilka dywizji z 3 Armii Dimitriewa. Siłami bezpośrednio oblegającymi twierdzę dowodził generał [Dmitrij Szczerbaczow](/postacie/dmitrij-szczerbaczow). Do szturmu Rosjanie użyli według polskich opracowań ponad 90 tysięcy żołnierzy. Nie mieli jednak ciężkiej artylerii oblężniczej, a ich lekkie i średnie działa nie mogły skutecznie zniszczyć fortów.
 
 ## Przebieg
 

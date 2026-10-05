@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1915 roku wojska państw centralnych zajęły dwa główne miasta [Kosowego Pola](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)), ostatniego skrawka Serbii, na którym jej armia mogła się jeszcze zatrzymać. Wieczorem do [Prisztiny](https://pl.wikipedia.org/wiki/Prisztina) wkroczyli Niemcy z 11 Armii generała [Maxa von Gallwitza](https://pl.wikipedia.org/wiki/Max_von_Gallwitz). Późnym wieczorem do [Mitrowicy](https://pl.wikipedia.org/wiki/Mitrowica) wdarł się batalion austro-węgierskiej 59 Dywizji Piechoty z 3 Armii generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza), a główne siły dywizji weszły do miasta rano 24 listopada. Dlatego część opracowań podaje dla Mitrowicy datę 24 listopada.
+23 listopada 1915 roku wojska państw centralnych zajęły dwa główne miasta [Kosowego Pola](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)), ostatniego skrawka Serbii, na którym jej armia mogła się jeszcze zatrzymać. Wieczorem do [Prisztiny](https://pl.wikipedia.org/wiki/Prisztina) wkroczyli Niemcy z 11 Armii generała [Maxa von Gallwitza](/postacie/max-von-gallwitz). Późnym wieczorem do [Mitrowicy](https://pl.wikipedia.org/wiki/Mitrowica) wdarł się batalion austro-węgierskiej 59 Dywizji Piechoty z 3 Armii generała [Hermanna Kövessa](/postacie/hermann-kovess), a główne siły dywizji weszły do miasta rano 24 listopada. Dlatego część opracowań podaje dla Mitrowicy datę 24 listopada.
 
 ## Pierścień wokół Kosowego Pola
 

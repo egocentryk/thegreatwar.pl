@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 30 sierpnia 1918 roku brytyjskie patrole 2 Armii generała [Herberta Plumera](https://pl.wikipedia.org/wiki/Herbert_Onslow_Plumer) stwierdziły, że Niemcy opuścili [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), miasto we francuskiej Flandrii tuż przy granicy belgijskiej. Brytyjczycy weszli do niego bez walki. Przez trzy i pół roku było ono jednym z największych brytyjskich ośrodków na tyłach frontu pod Ypres, dopóki Brytyjczycy [nie opuścili go w nocy z 15 na 16 kwietnia](/niemcy-zdobywaja-bailleul), po przegranej [bitwie pod Bailleul](/bitwy/bitwa-pod-bailleul). Po czterech i pół miesiącach wróciło w ich ręce jako sterta gruzów.
+Rankiem 30 sierpnia 1918 roku brytyjskie patrole 2 Armii generała [Herberta Plumera](/postacie/herbert-plumer) stwierdziły, że Niemcy opuścili [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), miasto we francuskiej Flandrii tuż przy granicy belgijskiej. Brytyjczycy weszli do niego bez walki. Przez trzy i pół roku było ono jednym z największych brytyjskich ośrodków na tyłach frontu pod Ypres, dopóki Brytyjczycy [nie opuścili go w nocy z 15 na 16 kwietnia](/niemcy-zdobywaja-bailleul), po przegranej [bitwie pod Bailleul](/bitwy/bitwa-pod-bailleul). Po czterech i pół miesiącach wróciło w ich ręce jako sterta gruzów.
 
 ## Odwrót znad Lys
 

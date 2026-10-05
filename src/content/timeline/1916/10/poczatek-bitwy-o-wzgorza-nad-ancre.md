@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-1 października 1916 roku o 15.15 Korpus Kanadyjski generała [Juliana Bynga](https://pl.wikipedia.org/wiki/Julian_Byng) uderzył na okop Regina, ostatnią niemiecką linię na północnym stoku grzbietu Thiepval nad Sommą. Tym natarciem zaczyna się według brytyjskiego nazewnictwa bitwa o wzgórza nad Ancre, w której Armia Rezerwowa generała [Huberta Gougha](https://pl.wikipedia.org/wiki/Hubert_Gough) przez sześć tygodni walczyła o resztę grzbietu. Pierwszy dzień skończył się porażką. Zasieki przed okopem były prawie nietknięte, a świeża niemiecka Brygada Piechoty Morskiej wyparła kontratakami prawie wszystkich, którzy wdarli się do okopu. Na zachodzie, w ruinach redut Schwaben i Stuff nad doliną [Ancre](https://pl.wikipedia.org/wiki/Ancre), trwały tymczasem nieustanne walki na granaty.
+1 października 1916 roku o 15.15 Korpus Kanadyjski generała [Juliana Bynga](/postacie/julian-byng) uderzył na okop Regina, ostatnią niemiecką linię na północnym stoku grzbietu Thiepval nad Sommą. Tym natarciem zaczyna się według brytyjskiego nazewnictwa bitwa o wzgórza nad Ancre, w której Armia Rezerwowa generała [Huberta Gougha](https://pl.wikipedia.org/wiki/Hubert_Gough) przez sześć tygodni walczyła o resztę grzbietu. Pierwszy dzień skończył się porażką. Zasieki przed okopem były prawie nietknięte, a świeża niemiecka Brygada Piechoty Morskiej wyparła kontratakami prawie wszystkich, którzy wdarli się do okopu. Na zachodzie, w ruinach redut Schwaben i Stuff nad doliną [Ancre](https://pl.wikipedia.org/wiki/Ancre), trwały tymczasem nieustanne walki na granaty.
 
 ## Grzbiet zdobyty tylko w połowie
 

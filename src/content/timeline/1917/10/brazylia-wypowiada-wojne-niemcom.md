@@ -26,7 +26,7 @@ Brás wrócił do obowiązków 12 października, po miesięcznej nieobecności. 
 
 ## Pierwsze dni wojny
 
-Niemieckim okrętem w Bahii była kanonierka Eber. W 1914 roku [oddała działa i część załogi liniowcowi Cap Trafalgar](/carmania-zatapia-cap-trafalgar), a sama, rozbrojona, schroniła się w porcie [Salvador](https://pl.wikipedia.org/wiki/Salvador). 26 października jej marynarze podpalili okręt i otworzyli zawory denne, żeby nie wpadł w ręce Brazylijczyków. 30 października prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) w depeszy do Brása powitał „wielką Republikę Brazylii” w gronie państw walczących z Niemcami.
+Niemieckim okrętem w Bahii była kanonierka Eber. W 1914 roku [oddała działa i część załogi liniowcowi Cap Trafalgar](/carmania-zatapia-cap-trafalgar), a sama, rozbrojona, schroniła się w porcie [Salvador](https://pl.wikipedia.org/wiki/Salvador). 26 października jej marynarze podpalili okręt i otworzyli zawory denne, żeby nie wpadł w ręce Brazylijczyków. 30 października prezydent [Woodrow Wilson](/postacie/woodrow-wilson) w depeszy do Brása powitał „wielką Republikę Brazylii” w gronie państw walczących z Niemcami.
 
 Wojna szybko dała o sobie znać. W pierwszych dniach listopada w kilku miastach, między innymi w [Petrópolis](https://pl.wikipedia.org/wiki/Petrópolis), tłumy zdemolowały niemieckie sklepy, kluby, szkoły i redakcje. Na początku listopada niemiecki krążownik podwodny U-151 zatopił na redzie wyspy São Vicente w archipelagu Zielonego Przylądka dwa kolejne brazylijskie parowce, Acari i Guaíba. Stan wojny posłużył też wkrótce rządowi do wprowadzenia stanu oblężenia i rozprawy z przeciwnikami, także z ruchem robotniczym.
 

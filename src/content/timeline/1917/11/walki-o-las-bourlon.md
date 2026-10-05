@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1917 roku pod Cambrai brytyjska 3 Armia generała [Juliana Bynga](https://pl.wikipedia.org/wiki/Julian_Byng) uderzyła na las Bourlon, najważniejszy punkt całego pola bitwy. Trzy dni wcześniej [czołgi i piechota przełamały Linię Hindenburga](/poczatek-bitwy-pod-cambrai), ale zalesiony grzbiet na północ od drogi z Bapaume do Cambrai pozostał w rękach Niemców. Z jego szczytu, wznoszącego się około 45 metrów nad okolicą, niemieccy obserwatorzy widzieli wszystko, co działo się w zdobytym przez Brytyjczyków terenie. Tego samego dnia w Wielkiej Brytanii zabiły dzwony na cześć zwycięstwa pod Cambrai.
+23 listopada 1917 roku pod Cambrai brytyjska 3 Armia generała [Juliana Bynga](/postacie/julian-byng) uderzyła na las Bourlon, najważniejszy punkt całego pola bitwy. Trzy dni wcześniej [czołgi i piechota przełamały Linię Hindenburga](/poczatek-bitwy-pod-cambrai), ale zalesiony grzbiet na północ od drogi z Bapaume do Cambrai pozostał w rękach Niemców. Z jego szczytu, wznoszącego się około 45 metrów nad okolicą, niemieccy obserwatorzy widzieli wszystko, co działo się w zdobytym przez Brytyjczyków terenie. Tego samego dnia w Wielkiej Brytanii zabiły dzwony na cześć zwycięstwa pod Cambrai.
 
 ## Dlaczego Bourlon
 

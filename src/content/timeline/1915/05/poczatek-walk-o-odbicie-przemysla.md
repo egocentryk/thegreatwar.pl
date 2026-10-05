@@ -28,7 +28,7 @@ Dalej na północ austro-węgierska 12 Dywizja Piechoty zdobyła wsie Wietlin i 
 
 ## Na południe od twierdzy
 
-Tego samego dnia do natarcia ruszyły wojska nacierające od południa. O 4 rano zaatakował niemiecki Korpus Beskidzki, a cztery godziny później lewe skrzydło austro-węgierskiej 2 Armii generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Rosjanie bronili się tu na wzgórzach koło Husakowa i Pnikuta, na pozycjach liczących miejscami do siedmiu linii okopów. Atakujący podeszli na 100–150 metrów do rosyjskich zasieków, ale dalej nie zdołali się posunąć. Brakowało im ciężkiej artylerii, a austro-węgierskie dywizje po trzech tygodniach pościgu i walk były wykrwawione.
+Tego samego dnia do natarcia ruszyły wojska nacierające od południa. O 4 rano zaatakował niemiecki Korpus Beskidzki, a cztery godziny później lewe skrzydło austro-węgierskiej 2 Armii generała [Eduarda von Böhm-Ermollego](/postacie/eduard-von-bohm-ermolli). Rosjanie bronili się tu na wzgórzach koło Husakowa i Pnikuta, na pozycjach liczących miejscami do siedmiu linii okopów. Atakujący podeszli na 100–150 metrów do rosyjskich zasieków, ale dalej nie zdołali się posunąć. Brakowało im ciężkiej artylerii, a austro-węgierskie dywizje po trzech tygodniach pościgu i walk były wykrwawione.
 
 Na austro-węgierskiej stronie frontu zmieniali się w tych dniach dowódcy. Dzień wcześniej [Włochy wypowiedziały wojnę Austro-Węgrom](/wlochy-wypowiadaja-wojne-austro-wegrom) i dowódca 3 Armii, generał [Svetozar Boroević](/postacie/svetozar-boroevic), wyjechał objąć dowództwo wojsk nad Isonzo. Jego armię przejął generał Paul Puhallo.
 

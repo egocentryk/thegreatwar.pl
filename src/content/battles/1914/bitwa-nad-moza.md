@@ -56,5 +56,5 @@ Dokładne straty obu stron w bitwie nad Mozą są trudne do ustalenia, bo walki 
 
 Bitwa nad Mozą nie zatrzymała Niemców, ale spełniła swoje zadanie. 4 Armia opóźniła marsz niemieckiego centrum i nie dopuściła do rozerwania frontu między armiami francuskimi w najtrudniejszym momencie wielkiego odwrotu. Jednocześnie na zachodzie armia Lanrezaca stoczyła bitwę pod Guise. Po klęskach w bitwach granicznych francuskie wojska pokazały, że potrafią się bronić i kontratakować.
 
-Z lewego skrzydła 4 Armii utworzono pod koniec sierpnia nowe zgrupowanie pod dowództwem generała [Ferdinanda Focha](/postacie/ferdinand-foch), z którego powstała 9 Armia. Na początku września odegrała ona ważną rolę w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). Generał Ruffey został 30 sierpnia odsunięty od dowództwa 3 Armii, a jego miejsce zajął generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail).
+Z lewego skrzydła 4 Armii utworzono pod koniec sierpnia nowe zgrupowanie pod dowództwem generała [Ferdinanda Focha](/postacie/ferdinand-foch), z którego powstała 9 Armia. Na początku września odegrała ona ważną rolę w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). Generał Ruffey został 30 sierpnia odsunięty od dowództwa 3 Armii, a jego miejsce zajął generał [Maurice Sarrail](/postacie/maurice-sarrail).
 

@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-3 października 1918 roku o 6.05 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)) uderzyła na ostatnią pozycję Linii Hindenburga, linię odwodową, którą Brytyjczycy nazywali od wsi [Beaurevoir](https://pl.wikipedia.org/wiki/Beaurevoir) linią Beaurevoir. Cztery dni wcześniej 4 Armia [przełamała główną pozycję nad Kanałem Saint-Quentin](/bitwy/bitwa-o-kanal-saint-quentin), a dwa dni wcześniej Francuzi [weszli do Saint-Quentin](/francuzi-odbijaja-saint-quentin). Teraz brytyjska 46 i 32 Dywizja oraz australijska 2 Dywizja zaatakowały na froncie kilkunastu kilometrów od Sequehart po Beaurevoir. Do południa linia była przełamana na całej długości, a Brytyjczycy weszli do Montbrehain, ale po południu niemieckie kontrataki odebrały im część zdobyczy.
+3 października 1918 roku o 6.05 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) uderzyła na ostatnią pozycję Linii Hindenburga, linię odwodową, którą Brytyjczycy nazywali od wsi [Beaurevoir](https://pl.wikipedia.org/wiki/Beaurevoir) linią Beaurevoir. Cztery dni wcześniej 4 Armia [przełamała główną pozycję nad Kanałem Saint-Quentin](/bitwy/bitwa-o-kanal-saint-quentin), a dwa dni wcześniej Francuzi [weszli do Saint-Quentin](/francuzi-odbijaja-saint-quentin). Teraz brytyjska 46 i 32 Dywizja oraz australijska 2 Dywizja zaatakowały na froncie kilkunastu kilometrów od Sequehart po Beaurevoir. Do południa linia była przełamana na całej długości, a Brytyjczycy weszli do Montbrehain, ale po południu niemieckie kontrataki odebrały im część zdobyczy.
 
 ## Ostatnia linia
 

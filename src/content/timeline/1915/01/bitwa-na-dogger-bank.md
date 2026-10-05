@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-24 stycznia 1915 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), w pobliżu ławicy [Dogger Bank](https://pl.wikipedia.org/wiki/Dogger_Bank), brytyjskie krążowniki liniowe wiceadmirała [Davida Beatty'ego](https://pl.wikipedia.org/wiki/David_Beatty) starły się z niemieckim zespołem kontradmirała [Franza von Hippera](https://pl.wikipedia.org/wiki/Franz_von_Hipper). Po kilkugodzinnym pościgu Brytyjczycy zatopili krążownik pancerny Blücher, na którym zginęło blisko 800 marynarzy. Trzy niemieckie krążowniki liniowe zdołały jednak uciec.
+24 stycznia 1915 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), w pobliżu ławicy [Dogger Bank](https://pl.wikipedia.org/wiki/Dogger_Bank), brytyjskie krążowniki liniowe wiceadmirała [Davida Beatty'ego](https://pl.wikipedia.org/wiki/David_Beatty) starły się z niemieckim zespołem kontradmirała [Franza von Hippera](/postacie/franz-von-hipper). Po kilkugodzinnym pościgu Brytyjczycy zatopili krążownik pancerny Blücher, na którym zginęło blisko 800 marynarzy. Trzy niemieckie krążowniki liniowe zdołały jednak uciec.
 
 ## Zasadzka
 

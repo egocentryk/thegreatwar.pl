@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 5 lutego 1915 roku, że rządy Wielkiej Brytanii, Francji i Rosji porozumiały się w sprawie połączenia swoich zasobów finansowych. Uzgodnienia zapadły w Paryżu, na pierwszej wspólnej konferencji finansowej państw Ententy. Spotkali się na niej brytyjski kanclerz skarbu [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George), francuski minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot) i rosyjski minister finansów Piotr Bark. Według Lloyda George'a rozmowy trwały trzy dni i zakończyły się zaleceniami, które ministrowie przedstawili swoim rządom.
+Brytyjska chronologia wojny odnotowuje pod 5 lutego 1915 roku, że rządy Wielkiej Brytanii, Francji i Rosji porozumiały się w sprawie połączenia swoich zasobów finansowych. Uzgodnienia zapadły w Paryżu, na pierwszej wspólnej konferencji finansowej państw Ententy. Spotkali się na niej brytyjski kanclerz skarbu [David Lloyd George](/postacie/david-lloyd-george), francuski minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot) i rosyjski minister finansów Piotr Bark. Według Lloyda George'a rozmowy trwały trzy dni i zakończyły się zaleceniami, które ministrowie przedstawili swoim rządom.
 
 ## Najdroższa wojna w dziejach
 

@@ -20,6 +20,6 @@ Gdy Turcja stanęła po stronie Niemiec, ta konstrukcja straciła sens. Brytyjcz
 
 ## Wyspa jako karta przetargowa
 
-Już rok później Cyprem próbowano handlować. W październiku 1915 roku, gdy Bułgaria przystąpiła do wojny przeciw Serbii, Londyn zaproponował oddanie wyspy Grecji, jeśli ta ruszy Serbii na pomoc zgodnie z sojuszem z 1913 roku. Rząd w Atenach, w którym po dymisji [Elefteriosa Wenizelosa](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) górę wzięli zwolennicy neutralności króla [Konstantyna I](https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki), odrzucił ofertę po kilku dniach. Brytyjczycy więcej jej nie ponowili.
+Już rok później Cyprem próbowano handlować. W październiku 1915 roku, gdy Bułgaria przystąpiła do wojny przeciw Serbii, Londyn zaproponował oddanie wyspy Grecji, jeśli ta ruszy Serbii na pomoc zgodnie z sojuszem z 1913 roku. Rząd w Atenach, w którym po dymisji [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos) górę wzięli zwolennicy neutralności króla [Konstantyna I](/postacie/konstantyn-i), odrzucił ofertę po kilku dniach. Brytyjczycy więcej jej nie ponowili.
 
 Aneksję uznała Turcja w [traktacie w Lozannie](https://pl.wikipedia.org/wiki/Traktat_w_Lozannie) w 1923 roku. Dwa lata później, w 1925 roku, Cypr został formalnie brytyjską kolonią koronną, a wysoki komisarz przyjął tytuł gubernatora. Niepodległość wyspa uzyskała dopiero w 1960 roku.

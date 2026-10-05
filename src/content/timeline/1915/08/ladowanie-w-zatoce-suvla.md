@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 6 sierpnia 1915 roku brytyjski IX Korpus generała [Fredericka Stopforda](https://pl.wikipedia.org/wiki/Frederick_Stopford) zaczął schodzić na ląd w zatoce [Suvla](https://pl.wikipedia.org/wiki/Suvla) na zachodnim wybrzeżu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), kilka kilometrów na północ od zatoki Anzac. Był to nowy desant, pierwszy od [kwietniowego lądowania](/bitwy/ladowanie-na-gallipoli), i część wielkiej sierpniowej ofensywy, którą generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) chciał rozstrzygnąć kampanię. Tego samego wieczoru Australijczycy szturmowali tureckie okopy na Lone Pine, a kolumny szturmowe z zatoki Anzac wyruszyły nocą na grzbiet Sari Bair.
+Wieczorem 6 sierpnia 1915 roku brytyjski IX Korpus generała [Fredericka Stopforda](https://pl.wikipedia.org/wiki/Frederick_Stopford) zaczął schodzić na ląd w zatoce [Suvla](https://pl.wikipedia.org/wiki/Suvla) na zachodnim wybrzeżu półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), kilka kilometrów na północ od zatoki Anzac. Był to nowy desant, pierwszy od [kwietniowego lądowania](/bitwy/ladowanie-na-gallipoli), i część wielkiej sierpniowej ofensywy, którą generał [Ian Hamilton](/postacie/ian-hamilton) chciał rozstrzygnąć kampanię. Tego samego wieczoru Australijczycy szturmowali tureckie okopy na Lone Pine, a kolumny szturmowe z zatoki Anzac wyruszyły nocą na grzbiet Sari Bair.
 
 ## Plan
 

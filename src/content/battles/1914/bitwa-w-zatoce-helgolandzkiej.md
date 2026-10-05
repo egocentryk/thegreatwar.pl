@@ -39,11 +39,11 @@ Niemieckie lekkie krążowniki wychodziły z portów pojedynczo i od razu kierow
 
 Wkrótce po godzinie 12.30 z mgły wyłoniły się krążowniki liniowe Beatty'ego z flagowym HMS [„Lion”](https://pl.wikipedia.org/wiki/HMS_Lion_(1910)) na czele. Ich ciężkie działa zmasakrowały SMS „Cöln”, na którym płynął kontradmirał [Leberecht Maass](https://pl.wikipedia.org/wiki/Leberecht_Maass), dowódca niemieckich torpedowców. Pod ogniem znalazł się także stary krążownik SMS [„Ariadne”](https://pl.wikipedia.org/wiki/SMS_Ariadne_(1900)), który stanął w płomieniach i zatonął około godziny 15. „Cöln” poszedł na dno wraz z niemal całą załogą. Maass zginął, a z kilkuset marynarzy uratowano tylko jednego, wyłowionego z morza po wielu godzinach. Około 13.10 Beatty nakazał odwrót.
 
-Ciężkie okręty niemieckie nie mogły przyjść na pomoc, bo aż do popołudniowego przypływu nie były w stanie przejść nad mielizną u ujścia Jade. Kontradmirał [Franz von Hipper](https://pl.wikipedia.org/wiki/Franz_von_Hipper), dowódca krążowników liniowych, wyprowadził SMS „Moltke” i SMS „Von der Tann”, ale gdy dotarł na miejsce bitwy, Brytyjczyków już tam nie było. Uszkodzoną „Arethusę” odholowano do kraju.
+Ciężkie okręty niemieckie nie mogły przyjść na pomoc, bo aż do popołudniowego przypływu nie były w stanie przejść nad mielizną u ujścia Jade. Kontradmirał [Franz von Hipper](/postacie/franz-von-hipper), dowódca krążowników liniowych, wyprowadził SMS „Moltke” i SMS „Von der Tann”, ale gdy dotarł na miejsce bitwy, Brytyjczyków już tam nie było. Uszkodzoną „Arethusę” odholowano do kraju.
 
 ## Straty
 
-Dane o stratach różnią się w zależności od źródła. Według najczęściej przytaczanych szacunków Niemcy stracili około 700 zabitych i ponad 150 rannych, a około 336 marynarzy trafiło do niewoli. Wśród jeńców znalazł się Wolfgang von Tirpitz, syn wielkiego admirała [Alfreda von Tirpitza](https://pl.wikipedia.org/wiki/Alfred_von_Tirpitz), twórcy niemieckiej floty. Oprócz trzech zatopionych krążowników i torpedowca uszkodzone zostały trzy inne lekkie krążowniki i kilka torpedowców.
+Dane o stratach różnią się w zależności od źródła. Według najczęściej przytaczanych szacunków Niemcy stracili około 700 zabitych i ponad 150 rannych, a około 336 marynarzy trafiło do niewoli. Wśród jeńców znalazł się Wolfgang von Tirpitz, syn wielkiego admirała [Alfreda von Tirpitza](/postacie/alfred-von-tirpitz), twórcy niemieckiej floty. Oprócz trzech zatopionych krążowników i torpedowca uszkodzone zostały trzy inne lekkie krążowniki i kilka torpedowców.
 
 Brytyjczycy stracili 35 zabitych, a liczba rannych w różnych źródłach wynosi od 40 do 55. Ciężko uszkodzone zostały „Arethusa” i trzy niszczyciele: „Laurel”, „Liberty” i „Laertes”. Wszystkie wróciły do portów.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-6 sierpnia 1916 roku, w pogodny niedzielny poranek, włoska artyleria otworzyła ogień na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od Tolminu po morze. Tak zaczęło się główne natarcie szóstej bitwy nad Isonzo. Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) skupił przeciw przedmościu [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i górze Monte San Michele na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) tyle dział i moździerzy okopowych, ile nie miał jeszcze nigdy w tej wojnie. Pod wieczór włoska piechota stała na szczytach, o które bezskutecznie walczyła od czerwca 1915 roku.
+6 sierpnia 1916 roku, w pogodny niedzielny poranek, włoska artyleria otworzyła ogień na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od Tolminu po morze. Tak zaczęło się główne natarcie szóstej bitwy nad Isonzo. Generał [Luigi Cadorna](/postacie/luigi-cadorna) skupił przeciw przedmościu [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i górze Monte San Michele na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) tyle dział i moździerzy okopowych, ile nie miał jeszcze nigdy w tej wojnie. Pod wieczór włoska piechota stała na szczytach, o które bezskutecznie walczyła od czerwca 1915 roku.
 
 ## Zaskoczenie
 

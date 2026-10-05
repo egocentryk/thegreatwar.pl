@@ -24,7 +24,7 @@ Większość tych natarć się udała, ale prawie każde było kosztowne. Brytyj
 
 ## Francuzi pod Saint-Quentin
 
-Na prawo od Brytyjczyków francuska 3 Armia generała Georges'a Humberta podchodziła pod nową pozycję na południe od Saint-Quentin. 3 kwietnia Francuzi zdobyli wzgórze Épine de Dallon, a 4 kwietnia ostatnie wsie przed Linią Hindenburga na swoim lewym skrzydle. Humbert kazał od razu zacząć ostrzał przygotowawczy, bo francuska grupa armii Północ miała zaatakować pod [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). Było to jednak skromne natarcie, które miało tylko zastąpić wielkie uderzenie między Oise a Avre, udaremnione przez niemiecki odwrót. Haig polecił generałowi [Henry'emu Rawlinsonowi](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)), dowódcy 4 Armii, wspierać Francuzów i dlatego jego dywizje tak uparcie walczyły o placówki.
+Na prawo od Brytyjczyków francuska 3 Armia generała Georges'a Humberta podchodziła pod nową pozycję na południe od Saint-Quentin. 3 kwietnia Francuzi zdobyli wzgórze Épine de Dallon, a 4 kwietnia ostatnie wsie przed Linią Hindenburga na swoim lewym skrzydle. Humbert kazał od razu zacząć ostrzał przygotowawczy, bo francuska grupa armii Północ miała zaatakować pod [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). Było to jednak skromne natarcie, które miało tylko zastąpić wielkie uderzenie między Oise a Avre, udaremnione przez niemiecki odwrót. Haig polecił generałowi [Henry'emu Rawlinsonowi](/postacie/henry-rawlinson), dowódcy 4 Armii, wspierać Francuzów i dlatego jego dywizje tak uparcie walczyły o placówki.
 
 ## Co dalej
 

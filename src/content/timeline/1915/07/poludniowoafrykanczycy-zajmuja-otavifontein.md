@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 lipca 1915 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) zajęły źródła Otavifontein i węzeł kolejowy [Otavi](https://pl.wikipedia.org/wiki/Otavi) na północy [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Był to cel ofensywy, którą generał [Louis Botha](https://pl.wikipedia.org/wiki/Louis_Botha) [rozpoczął pod koniec czerwca](/poludniowoafrykanczycy-ruszaja-na-otavifontein). Zdecydował o tym jeden dzień walki, stoczonej w gęstym buszu przez brygadę konną generała Maniego Bothy.
+1 lipca 1915 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) zajęły źródła Otavifontein i węzeł kolejowy [Otavi](https://pl.wikipedia.org/wiki/Otavi) na północy [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Był to cel ofensywy, którą generał [Louis Botha](/postacie/louis-botha) [rozpoczął pod koniec czerwca](/poludniowoafrykanczycy-ruszaja-na-otavifontein). Zdecydował o tym jeden dzień walki, stoczonej w gęstym buszu przez brygadę konną generała Maniego Bothy.
 
 ## Nocny marsz bez wody
 

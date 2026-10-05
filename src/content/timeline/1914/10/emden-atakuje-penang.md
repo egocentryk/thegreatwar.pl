@@ -31,4 +31,4 @@ Opuszczając Penang, Emden napotkał francuski niszczyciel [Mousquet](https://pl
 
 ## Skutki
 
-Atak na Penang wstrząsnął aliantami. Pokazał, że Emden wciąż może uderzyć w dowolnym miejscu Oceanu Indyjskiego. Rosyjski sąd wojenny uznał Czerkasowa i jego zastępcę winnymi zaniedbań. Obaj zostali skazani na więzienie i degradację, ale car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) zamienił im karę na służbę na froncie w stopniu szeregowych marynarzy. Emden zaś po Penangu skierował się na południe. Następnym celem Müllera była brytyjska stacja telegraficzna na Wyspach Kokosowych.
+Atak na Penang wstrząsnął aliantami. Pokazał, że Emden wciąż może uderzyć w dowolnym miejscu Oceanu Indyjskiego. Rosyjski sąd wojenny uznał Czerkasowa i jego zastępcę winnymi zaniedbań. Obaj zostali skazani na więzienie i degradację, ale car [Mikołaj II](/postacie/mikolaj-ii) zamienił im karę na służbę na froncie w stopniu szeregowych marynarzy. Emden zaś po Penangu skierował się na południe. Następnym celem Müllera była brytyjska stacja telegraficzna na Wyspach Kokosowych.

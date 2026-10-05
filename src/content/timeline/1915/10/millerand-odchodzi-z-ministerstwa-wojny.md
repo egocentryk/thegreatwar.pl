@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-29 października 1915 roku, wraz z dymisją rządu René Vivianiego, z ministerstwa wojny odszedł [Alexandre Millerand](https://pl.wikipedia.org/wiki/Alexandre_Millerand). Kierował nim od [końca sierpnia 1914 roku](/millerand-ministrem-wojny), przez najtrudniejsze miesiące wojny. Nie znalazł się w nowym gabinecie Aristide'a Brianda, a jego następcą został generał Joseph Gallieni. Odejście Milleranda nie było przypadkiem: jak zanotował prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré), parlament był niemal jednomyślny w pragnieniu, by usunąć go z ministerstwa wojny.
+29 października 1915 roku, wraz z dymisją rządu René Vivianiego, z ministerstwa wojny odszedł [Alexandre Millerand](/postacie/alexandre-millerand). Kierował nim od [końca sierpnia 1914 roku](/millerand-ministrem-wojny), przez najtrudniejsze miesiące wojny. Nie znalazł się w nowym gabinecie Aristide'a Brianda, a jego następcą został generał Joseph Gallieni. Odejście Milleranda nie było przypadkiem: jak zanotował prezydent [Raymond Poincaré](/postacie/raymond-poincare), parlament był niemal jednomyślny w pragnieniu, by usunąć go z ministerstwa wojny.
 
 ## Minister naczelnego wodza
 
@@ -20,7 +20,7 @@ Największym zarzutem były braki w uzbrojeniu. Już we wrześniu 1914 roku mini
 
 ## Sprawa Sarraila
 
-Szczególnie zaszkodziła Millerandowi sprawa generała [Maurice'a Sarraila](https://pl.wikipedia.org/wiki/Maurice_Sarrail), dowódcy 3 Armii, ulubieńca lewicy. 22 lipca 1915 roku Joffre odebrał mu dowództwo po nieudanych walkach w Argonnach. Lewica uznała to za polityczną czystkę i był to pierwszy otwarty konflikt między politykami a wojskiem we Francji w czasie tej wojny. Millerand stanął po stronie naczelnego wodza. Kryzys zażegnano dopiero, gdy rząd powierzył Sarrailowi dowództwo wyprawy na Wschód, która w październiku wylądowała w Salonikach.
+Szczególnie zaszkodziła Millerandowi sprawa generała [Maurice'a Sarraila](/postacie/maurice-sarrail), dowódcy 3 Armii, ulubieńca lewicy. 22 lipca 1915 roku Joffre odebrał mu dowództwo po nieudanych walkach w Argonnach. Lewica uznała to za polityczną czystkę i był to pierwszy otwarty konflikt między politykami a wojskiem we Francji w czasie tej wojny. Millerand stanął po stronie naczelnego wodza. Kryzys zażegnano dopiero, gdy rząd powierzył Sarrailowi dowództwo wyprawy na Wschód, która w październiku wylądowała w Salonikach.
 
 W październiku 1915 roku do dawnych zarzutów doszła nieudana jesienna ofensywa i klęska na Bałkanach. 19 października Millerand podpisał w Londynie protokół w sprawie wyprawy do Salonik, który część ministrów uznała za cofnięcie brytyjskich obietnic. Gdy premier Viviani próbował przebudować rząd, 22 października zaproponował Millerandowi ministerstwo sprawiedliwości. Millerand odmówił. Oświadczył, że chętnie odejdzie i będzie pomagał z zewnątrz, ale żadnej innej teki nie przyjmie, chyba że związanej z obroną narodową, na przykład spraw zagranicznych. Poincaré przekonywał go, że Millerand stał się kozłem ofiarnym za wszystkie wcześniejsze błędy administracji wojskowej, ale sam swoją wyniosłością i uporem zraził do siebie nawet przyjaciół.
 

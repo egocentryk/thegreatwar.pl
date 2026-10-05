@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 września 1915 roku do Londynu dotarł z Aten telegram, który zdawał się kończyć tydzień niejasności. Premier [Elefterios Wenizelos](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) zawiadamiał przez brytyjskiego posła Francisa Elliota, że uzyskał zgodę króla [Konstantyna I](https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki) na przysłanie do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) wojsk brytyjskich i francuskich. Prosił, by przybyły jak najszybciej, zanim greckie dywizje, które od 30 września miały się koncentrować w Macedonii, zajmą jedyną linię kolejową. Wiadomość miała jednak drugą część. Król miał oficjalnie o niczym nie wiedzieć aż do chwili, gdy wojska będą u wejścia do portu. Wtedy Grecja złoży formalny protest.
+27 września 1915 roku do Londynu dotarł z Aten telegram, który zdawał się kończyć tydzień niejasności. Premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) zawiadamiał przez brytyjskiego posła Francisa Elliota, że uzyskał zgodę króla [Konstantyna I](/postacie/konstantyn-i) na przysłanie do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) wojsk brytyjskich i francuskich. Prosił, by przybyły jak najszybciej, zanim greckie dywizje, które od 30 września miały się koncentrować w Macedonii, zajmą jedyną linię kolejową. Wiadomość miała jednak drugą część. Król miał oficjalnie o niczym nie wiedzieć aż do chwili, gdy wojska będą u wejścia do portu. Wtedy Grecja złoży formalny protest.
 
 ## Tydzień sprzecznych sygnałów
 
@@ -21,7 +21,7 @@ Wtedy z Aten nadeszła odpowiedź, która w Londynie wywołała irytację. Wedł
 
 ## Formalny protest
 
-Londyn odpowiedział, że przygotowania do wysłania wojsk trwają, ale nie zgodził się na protest, choćby czysto formalny. Lądowanie w obcym porcie wbrew sprzeciwowi gospodarza byłoby trudne, a [Edward Grey](/postacie/edward-grey) obawiał się, że Niemcy ogłoszą wtedy, że Ententa pogwałciła grecką neutralność. Wenizelos miał jasno oświadczyć, że wojska będą mile widziane. Generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) dostał tego dnia polecenie, by przygotował do wycofania z Gallipoli dwie dywizje, a Francuzi szykowali do drogi część swoich sił spod przylądka Helles.
+Londyn odpowiedział, że przygotowania do wysłania wojsk trwają, ale nie zgodził się na protest, choćby czysto formalny. Lądowanie w obcym porcie wbrew sprzeciwowi gospodarza byłoby trudne, a [Edward Grey](/postacie/edward-grey) obawiał się, że Niemcy ogłoszą wtedy, że Ententa pogwałciła grecką neutralność. Wenizelos miał jasno oświadczyć, że wojska będą mile widziane. Generał [Ian Hamilton](/postacie/ian-hamilton) dostał tego dnia polecenie, by przygotował do wycofania z Gallipoli dwie dywizje, a Francuzi szykowali do drogi część swoich sił spod przylądka Helles.
 
 ## Na co zgodził się król?
 

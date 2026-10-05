@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 września 1917 roku (1 września według kalendarza juliańskiego) w [Mohylewie](https://pl.wikipedia.org/wiki/Mohylew) generał [Michaił Aleksiejew](https://pl.wikipedia.org/wiki/Michaił_Aleksiejew_(generał)), nowy szef sztabu naczelnego wodza, formalnie aresztował generała [Ławra Korniłowa](https://pl.wikipedia.org/wiki/Ławr_Korniłow) i jego najbliższych współpracowników. Dzień wcześniej w Piotrogrodzie zastrzelił się generał Aleksandr Krymow, dowódca wysłanych przeciw stolicy oddziałów. Bunt, który [przed tygodniem](/pucz-kornilowa) wstrząsnął Rosją, skończył się bez jednego wystrzału. Brytyjska chronologia wojny notuje upadek buntu pod 13 września, a kapitulację Korniłowa pod 14 września.
+14 września 1917 roku (1 września według kalendarza juliańskiego) w [Mohylewie](https://pl.wikipedia.org/wiki/Mohylew) generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), nowy szef sztabu naczelnego wodza, formalnie aresztował generała [Ławra Korniłowa](https://pl.wikipedia.org/wiki/Ławr_Korniłow) i jego najbliższych współpracowników. Dzień wcześniej w Piotrogrodzie zastrzelił się generał Aleksandr Krymow, dowódca wysłanych przeciw stolicy oddziałów. Bunt, który [przed tygodniem](/pucz-kornilowa) wstrząsnął Rosją, skończył się bez jednego wystrzału. Brytyjska chronologia wojny notuje upadek buntu pod 13 września, a kapitulację Korniłowa pod 14 września.
 
 ## Kawaleria, która się rozpłynęła
 

@@ -30,7 +30,7 @@ W kolejnych dniach warunki złagodzono. 15 marca, w dniu ogłoszenia [brytyjskie
 
 Waszyngton pilnował, by porozumienie nie miało charakteru oficjalnego. Gdy w maju brytyjskie memorandum przedstawiło je jako ustępstwo wobec rządu Stanów Zjednoczonych, Departament Stanu zaprotestował. Ambasada brytyjska wyjaśniła wówczas, że warunki uzgodnili w Londynie brytyjscy urzędnicy z prywatnym przedstawicielem amerykańskich kręgów bawełnianych. Rose i jego współpracownik występowali w rozmowach w imieniu eksporterów, a nie rządu. Minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) potwierdził, że Londyn uważa porozumienie za prywatne i niewiążące dla rządu USA.
 
-Porozumienie nie usunęło sporów. Do połowy maja Brytyjczycy zatrzymali 28 statków z ponad 200 tysiącami bel bawełny. Większość ładunków wykupywano na warunkach porozumienia, a eksporterzy skarżyli się na opóźnienia w wypłatach. 19 maja minister finansów [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George) przyznał w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin), że bawełna formalnie nie jest kontrabandą, ale środki stosowane od 11 marca odcinają od niej Niemcy równie skutecznie jak takie uznanie.
+Porozumienie nie usunęło sporów. Do połowy maja Brytyjczycy zatrzymali 28 statków z ponad 200 tysiącami bel bawełny. Większość ładunków wykupywano na warunkach porozumienia, a eksporterzy skarżyli się na opóźnienia w wypłatach. 19 maja minister finansów [David Lloyd George](/postacie/david-lloyd-george) przyznał w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin), że bawełna formalnie nie jest kontrabandą, ale środki stosowane od 11 marca odcinają od niej Niemcy równie skutecznie jak takie uznanie.
 
 ## Bawełna kontrabandą
 

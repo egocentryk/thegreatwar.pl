@@ -54,7 +54,7 @@ Na początku października 1918 roku rząd Talata podał się do dymisji, a raze
 
 ## Po wojnie
 
-Z Berlina Enver nawiązał kontakt z bolszewikami. W 1920 roku dotarł do Moskwy, a we wrześniu wystąpił w Baku na Zjeździe Narodów Wschodu. Liczył, że zdoła stanąć na czele tureckiego ruchu narodowego, ale [Mustafa Kemal](https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atatürk), który od dawna uważał go za człowieka niebezpiecznego, nie dopuścił go do Anatolii. Jesienią 1921 roku, wysłany przez bolszewików do Buchary, przeszedł na stronę powstańców [basmaczy](https://pl.wikipedia.org/wiki/Basmactwo) i ogłosił się wodzem muzułmanów Turkiestanu. Zginął 4 sierpnia 1922 roku w starciu z oddziałem Armii Czerwonej w okolicach Bałdżuanu, na terenie dzisiejszego Tadżykistanu. W 1996 roku jego szczątki sprowadzono do Stambułu.
+Z Berlina Enver nawiązał kontakt z bolszewikami. W 1920 roku dotarł do Moskwy, a we wrześniu wystąpił w Baku na Zjeździe Narodów Wschodu. Liczył, że zdoła stanąć na czele tureckiego ruchu narodowego, ale [Mustafa Kemal](/postacie/mustafa-kemal), który od dawna uważał go za człowieka niebezpiecznego, nie dopuścił go do Anatolii. Jesienią 1921 roku, wysłany przez bolszewików do Buchary, przeszedł na stronę powstańców [basmaczy](https://pl.wikipedia.org/wiki/Basmactwo) i ogłosił się wodzem muzułmanów Turkiestanu. Zginął 4 sierpnia 1922 roku w starciu z oddziałem Armii Czerwonej w okolicach Bałdżuanu, na terenie dzisiejszego Tadżykistanu. W 1996 roku jego szczątki sprowadzono do Stambułu.
 
 ## Ocena
 

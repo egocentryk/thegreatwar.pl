@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-2 listopada 1917 roku brytyjski minister spraw zagranicznych [Arthur Balfour](https://pl.wikipedia.org/wiki/Arthur_Balfour) podpisał krótki list do [lorda Rothschilda](https://pl.wikipedia.org/wiki/Walter_Rothschild_(baron)), bankiera, zoologa i jednego z przywódców społeczności żydowskiej w Wielkiej Brytanii. Przekazywał mu w imieniu rządu „deklarację sympatii dla żydowskich dążeń syjonistycznych”, którą przedstawiono gabinetowi i którą gabinet zatwierdził. Jej sedno mieściło się w jednym zdaniu:
+2 listopada 1917 roku brytyjski minister spraw zagranicznych [Arthur Balfour](/postacie/arthur-balfour) podpisał krótki list do [lorda Rothschilda](https://pl.wikipedia.org/wiki/Walter_Rothschild_(baron)), bankiera, zoologa i jednego z przywódców społeczności żydowskiej w Wielkiej Brytanii. Przekazywał mu w imieniu rządu „deklarację sympatii dla żydowskich dążeń syjonistycznych”, którą przedstawiono gabinetowi i którą gabinet zatwierdził. Jej sedno mieściło się w jednym zdaniu:
 
 > Rząd Jego Królewskiej Mości odnosi się przychylnie do utworzenia w Palestynie siedziby narodowej dla narodu żydowskiego i dołoży wszelkich starań, by ułatwić osiągnięcie tego celu, przy czym jest wyraźnie zrozumiałe, że nie zostanie uczynione nic, co mogłoby naruszyć prawa obywatelskie i religijne istniejących w Palestynie społeczności nieżydowskich albo prawa i status polityczny, z jakich korzystają Żydzi w jakimkolwiek innym kraju.
 
@@ -31,7 +31,7 @@ Projekt trafił pod obrady gabinetu wojennego jesienią. Najostrzej sprzeciwiał
 
 Te zastrzeżenia zmieniły tekst. Pod koniec sierpnia [lord Milner](https://pl.wikipedia.org/wiki/Alfred_Milner) zastąpił „Palestynę” jako siedzibę narodową słowami „w Palestynie”, a na początku października on i [Leo Amery](https://pl.wikipedia.org/wiki/Leo_Amery) dopisali dwa zastrzeżenia: o prawach społeczności nieżydowskich w Palestynie i o pozycji Żydów w innych krajach. Pojęcie „siedziby narodowej” (national home) nie miało precedensu w prawie międzynarodowym i celowo nie przesądzało, czy chodzi o państwo żydowskie. Nie określono też granic Palestyny.
 
-Rząd zasięgnął opinii sojuszników. Francja już 4 czerwca, w liście szefa departamentu politycznego swojego MSZ [Jules’a Cambona](https://pl.wikipedia.org/wiki/Jules_Cambon) do Sokołowa, wyraziła sympatię dla sprawy syjonistycznej. Prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson), zapytany 3 września, odpowiedział, że czas na deklarację jeszcze nie dojrzał. W październiku, po ponownym zapytaniu, zaakceptował tekst Milnera i Amery’ego, choć publicznie poparł deklarację dopiero w 1918 roku. 31 października gabinet wojenny, po czterech posiedzeniach poświęconych tej sprawie, upoważnił Balfoura do ogłoszenia deklaracji.
+Rząd zasięgnął opinii sojuszników. Francja już 4 czerwca, w liście szefa departamentu politycznego swojego MSZ [Jules’a Cambona](https://pl.wikipedia.org/wiki/Jules_Cambon) do Sokołowa, wyraziła sympatię dla sprawy syjonistycznej. Prezydent [Woodrow Wilson](/postacie/woodrow-wilson), zapytany 3 września, odpowiedział, że czas na deklarację jeszcze nie dojrzał. W październiku, po ponownym zapytaniu, zaakceptował tekst Milnera i Amery’ego, choć publicznie poparł deklarację dopiero w 1918 roku. 31 października gabinet wojenny, po czterech posiedzeniach poświęconych tej sprawie, upoważnił Balfoura do ogłoszenia deklaracji.
 
 ## Dlaczego właśnie wtedy
 

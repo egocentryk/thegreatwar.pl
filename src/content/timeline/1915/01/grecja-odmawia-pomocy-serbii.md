@@ -14,7 +14,7 @@ Brytyjska chronologia wojny odnotowuje pod 29 stycznia 1915 roku, że rząd [Gre
 
 ## Warunek króla
 
-Premier [Elefterios Wenizelos](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) był gotów przyjąć brytyjską ofertę, a nawet kupić udział Bułgarii w wojnie oddaniem jej portu Kawala. Inaczej widział sprawę król [Konstantyn I](https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki). Ustępstwa terytorialne były dla niego nie do przyjęcia. Dopuszczał pomoc dla Serbii tylko wtedy, gdyby razem z Grecją do wojny przystąpiła Rumunia, a obie armie mogły trzymać Bułgarów w szachu z dwóch stron. Gdy Bukareszt odmówił wspólnej akcji, ten warunek upadł.
+Premier [Elefterios Wenizelos](/postacie/elefterios-wenizelos) był gotów przyjąć brytyjską ofertę, a nawet kupić udział Bułgarii w wojnie oddaniem jej portu Kawala. Inaczej widział sprawę król [Konstantyn I](/postacie/konstantyn-i). Ustępstwa terytorialne były dla niego nie do przyjęcia. Dopuszczał pomoc dla Serbii tylko wtedy, gdyby razem z Grecją do wojny przystąpiła Rumunia, a obie armie mogły trzymać Bułgarów w szachu z dwóch stron. Gdy Bukareszt odmówił wspólnej akcji, ten warunek upadł.
 
 Za królem stał sztab generalny. Jeden z jego czołowych oficerów, [Joanis Metaksas](https://pl.wikipedia.org/wiki/Joanis_Metaksas), późniejszy dyktator Grecji, przekonywał, że bez jednoczesnego wejścia Rumunii do wojny wyprawa na pomoc Serbii skończy się katastrofą. Wojska greckie musiałyby iść na północ, mając na flance nieprzyjazną Bułgarię, a przeciwko sobie znacznie liczniejsze armie państw centralnych. Oficerowie sztabu sceptycznie patrzyli też na nabytki w Azji Mniejszej. Ostrzegali, że Grecja nie ma ani ludzi, ani pieniędzy, by utrzymać i obronić tak rozległe ziemie, a w Europie wciąż groziłby jej atak Bułgarii.
 

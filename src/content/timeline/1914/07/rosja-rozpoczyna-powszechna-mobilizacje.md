@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-31 lipca 1914 roku w całym [Imperium Rosyjskim](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) rozpoczęła się powszechna [mobilizacja](https://pl.wikipedia.org/wiki/Mobilizacja). Decyzję podjął [poprzedniego dnia](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow), po długich wahaniach i rozmowie z ministrem spraw zagranicznych Siergiejem Sazonowem. Rano w miastach imperium pojawiły się obwieszczenia wzywające rezerwistów do stawienia się w jednostkach, a telegramy mobilizacyjne dotarły do wszystkich okręgów wojskowych.
+31 lipca 1914 roku w całym [Imperium Rosyjskim](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) rozpoczęła się powszechna [mobilizacja](https://pl.wikipedia.org/wiki/Mobilizacja). Decyzję podjął [poprzedniego dnia](/car-zarzadza-powszechna-mobilizacje-armii-rosyjskiej) car [Mikołaj II](/postacie/mikolaj-ii), po długich wahaniach i rozmowie z ministrem spraw zagranicznych Siergiejem Sazonowem. Rano w miastach imperium pojawiły się obwieszczenia wzywające rezerwistów do stawienia się w jednostkach, a telegramy mobilizacyjne dotarły do wszystkich okręgów wojskowych.
 
 Mobilizacja obejmowała całą [armię rosyjską](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego), największą w Europie, także okręgi graniczące z [Niemcami](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Tym samym Rosja porzuciła ideę ograniczonej mobilizacji wymierzonej wyłącznie w Austro-Węgry. Dla Berlina była to zmiana zasadnicza: niemieckie plany wojenne zakładały, że Niemcy muszą uderzyć pierwsze, zanim rosyjska machina wojskowa w pełni się rozkręci.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 20 stycznia 1916 roku, że rokowania między Austro-Węgrami a Czarnogórą zostały zerwane, a rozejm przestał obowiązywać. Zawieszenie broni rzeczywiście trwało tylko kilka dni. Po [prośbie o rozejm](/czarnogora-prosi-o-rozejm) z 11 stycznia i [zajęciu Cetyni](/austriacy-zajmuja-cetynie) czarnogórski rząd 16 stycznia przyjął warunek Wiednia, że armia złoży broń, a 17 stycznia austro-węgierskie naczelne dowództwo kazało wstrzymać działania wojenne. Rokowania załamały się jednak, zanim cokolwiek podpisano. 19 stycznia król [Mikołaj I](https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz) opuścił Czarnogórę, a według austriackiej historii oficjalnej 20 stycznia wylądował w [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), gdzie oświadczył, że odrzuca wszystkie warunki i będzie walczyć dalej.
+Brytyjska chronologia wojny notuje pod 20 stycznia 1916 roku, że rokowania między Austro-Węgrami a Czarnogórą zostały zerwane, a rozejm przestał obowiązywać. Zawieszenie broni rzeczywiście trwało tylko kilka dni. Po [prośbie o rozejm](/czarnogora-prosi-o-rozejm) z 11 stycznia i [zajęciu Cetyni](/austriacy-zajmuja-cetynie) czarnogórski rząd 16 stycznia przyjął warunek Wiednia, że armia złoży broń, a 17 stycznia austro-węgierskie naczelne dowództwo kazało wstrzymać działania wojenne. Rokowania załamały się jednak, zanim cokolwiek podpisano. 19 stycznia król [Mikołaj I](/postacie/mikolaj-i-petrowic-niegosz) opuścił Czarnogórę, a według austriackiej historii oficjalnej 20 stycznia wylądował w [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), gdzie oświadczył, że odrzuca wszystkie warunki i będzie walczyć dalej.
 
 ## Wahania króla
 

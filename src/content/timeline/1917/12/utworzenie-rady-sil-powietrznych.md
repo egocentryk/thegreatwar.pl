@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-21 grudnia 1917 roku w [Pałacu Buckingham](https://pl.wikipedia.org/wiki/Pałac_Buckingham) król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V_Windsor) na posiedzeniu Tajnej Rady wydał rozporządzenie (Order in Council) o składzie Rady Sił Powietrznych (Air Council). Było to wykonanie [ustawy o siłach powietrznych](/ustawa-o-silach-powietrznych), która trzy tygodnie wcześniej otrzymała sankcję królewską. Jej ósmy artykuł stanowił, że do zarządzania sprawami sił powietrznych i powietrznej obrony królestwa powstanie rada z jednym z sekretarzy stanu jako przewodniczącym, a resztę jej składu i dzień jej utworzenia określi król rozporządzeniem. Tekst ogłosiła tego samego dnia „London Gazette”.
+21 grudnia 1917 roku w [Pałacu Buckingham](https://pl.wikipedia.org/wiki/Pałac_Buckingham) król [Jerzy V](/postacie/jerzy-v) na posiedzeniu Tajnej Rady wydał rozporządzenie (Order in Council) o składzie Rady Sił Powietrznych (Air Council). Było to wykonanie [ustawy o siłach powietrznych](/ustawa-o-silach-powietrznych), która trzy tygodnie wcześniej otrzymała sankcję królewską. Jej ósmy artykuł stanowił, że do zarządzania sprawami sił powietrznych i powietrznej obrony królestwa powstanie rada z jednym z sekretarzy stanu jako przewodniczącym, a resztę jej składu i dzień jej utworzenia określi król rozporządzeniem. Tekst ogłosiła tego samego dnia „London Gazette”.
 
 ## Skład i podział pracy
 

@@ -22,7 +22,7 @@ W nocy na 10 stycznia główne siły czarnogórskie, wstrząśnięte ostrzałem,
 
 ## Armia, która przestała walczyć
 
-Czarnogórskie dowództwo nakazało na noc kontratak, który miał odzyskać utracone pozycje. Według austriackiej historii oficjalnej, opartej tu na pracy serbskiego sztabu generalnego, wyczerpani żołnierze odmówili. Mówili, że po kilku dniach głodu, „nadzy i bosi”, nie zdołają się oprzeć nawet zimie, a co dopiero przeważającemu nieprzyjacielowi. Synowie króla [Mikołaja I](https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz), książęta Mirko i Piotr, na próżno próbowali ich poderwać. Posiłki z głębi kraju nadchodziły powoli i niechętnie.
+Czarnogórskie dowództwo nakazało na noc kontratak, który miał odzyskać utracone pozycje. Według austriackiej historii oficjalnej, opartej tu na pracy serbskiego sztabu generalnego, wyczerpani żołnierze odmówili. Mówili, że po kilku dniach głodu, „nadzy i bosi”, nie zdołają się oprzeć nawet zimie, a co dopiero przeważającemu nieprzyjacielowi. Synowie króla [Mikołaja I](/postacie/mikolaj-i-petrowic-niegosz), książęta Mirko i Piotr, na próżno próbowali ich poderwać. Posiłki z głębi kraju nadchodziły powoli i niechętnie.
 
 Wieczorem 10 stycznia rząd zaproponował królowi, by poprosić Austriaków o zawieszenie broni. Mikołaj jeszcze odmówił, licząc na pomoc obiecaną mu przez rosyjskiego cara i na własny autorytet. Ustąpił dopiero następnego ranka, gdy jego wezwania do cofających się oddziałów pozostały bez echa. Szybki upadek góry od razu wywołał podejrzenia, że dwór nie bronił jej z całych sił. Przeciwnicy dynastii później otwarcie oskarżali króla i księcia Piotra, który dowodził na tym odcinku, o zdradę, choć nigdy tego nie dowiedli.
 

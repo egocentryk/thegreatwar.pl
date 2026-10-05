@@ -14,7 +14,7 @@ draft: false
 
 ## Ostatnie godziny pokoju
 
-Przez cały dzień w Londynie czekano na odpowiedź, która nie nadeszła. Po południu premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) poinformował [Izbę Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) o wysłaniu ultimatum. Wieczorem przed [Pałacem Buckingham](https://pl.wikipedia.org/wiki/Pałac_Buckingham) i na ulicach Westminsteru zebrały się tłumy, śpiewając patriotyczne pieśni. Gdy zegar Big Bena wybił godzinę 23, wojna stała się faktem. Król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V) zapisał tego wieczoru w dzienniku, że była to straszna katastrofa, ale nie z winy Wielkiej Brytanii.
+Przez cały dzień w Londynie czekano na odpowiedź, która nie nadeszła. Po południu premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) poinformował [Izbę Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) o wysłaniu ultimatum. Wieczorem przed [Pałacem Buckingham](https://pl.wikipedia.org/wiki/Pałac_Buckingham) i na ulicach Westminsteru zebrały się tłumy, śpiewając patriotyczne pieśni. Gdy zegar Big Bena wybił godzinę 23, wojna stała się faktem. Król [Jerzy V](/postacie/jerzy-v) zapisał tego wieczoru w dzienniku, że była to straszna katastrofa, ale nie z winy Wielkiej Brytanii.
 
 Niemieckiemu ambasadorowi w Londynie, księciu [Karolowi Lichnowsky'emu](https://pl.wikipedia.org/wiki/Karol_Lichnowsky), przekazano dokumenty stwierdzające stan wojny. Lichnowsky, który do końca starał się zapobiec konfliktowi między oboma krajami, opuścił Londyn kilka dni później.
 

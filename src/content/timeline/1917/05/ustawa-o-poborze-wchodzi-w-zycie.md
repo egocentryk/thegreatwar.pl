@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-18 maja 1917 roku prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) podpisał ustawę „o czasowym powiększeniu sił zbrojnych Stanów Zjednoczonych”, nazywaną Selective Service Act albo Selective Draft Act, czyli ustawą o poborze wybiórczym. Trzy tygodnie wcześniej obie izby [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) [przyjęły różniące się projekty](/kongres-uchwala-pobor-do-wojska), a wspólny tekst wypracowała komisja uzgodnieniowa. Izba Reprezentantów zatwierdziła go 16 maja, Senat dzień później. Jeszcze tego samego dnia, w którym złożył podpis, Wilson ogłosił proklamację wzywającą mężczyzn do rejestracji. Stany Zjednoczone po raz pierwszy od [wojny secesyjnej](https://pl.wikipedia.org/wiki/Wojna_secesyjna) sięgnęły po [pobór](https://pl.wikipedia.org/wiki/Pobór_(wojsko)).
+18 maja 1917 roku prezydent [Woodrow Wilson](/postacie/woodrow-wilson) podpisał ustawę „o czasowym powiększeniu sił zbrojnych Stanów Zjednoczonych”, nazywaną Selective Service Act albo Selective Draft Act, czyli ustawą o poborze wybiórczym. Trzy tygodnie wcześniej obie izby [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) [przyjęły różniące się projekty](/kongres-uchwala-pobor-do-wojska), a wspólny tekst wypracowała komisja uzgodnieniowa. Izba Reprezentantów zatwierdziła go 16 maja, Senat dzień później. Jeszcze tego samego dnia, w którym złożył podpis, Wilson ogłosił proklamację wzywającą mężczyzn do rejestracji. Stany Zjednoczone po raz pierwszy od [wojny secesyjnej](https://pl.wikipedia.org/wiki/Wojna_secesyjna) sięgnęły po [pobór](https://pl.wikipedia.org/wiki/Pobór_(wojsko)).
 
 ## Co przewidywała ustawa
 

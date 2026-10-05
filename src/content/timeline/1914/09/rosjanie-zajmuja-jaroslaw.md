@@ -25,7 +25,7 @@ Po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie austro-węgier
 
 Daty zajęcia miasta różnią się w źródłach. Brytyjska chronologia i opracowania wojskowe podają 21 września, a historia miasta mówi, że Rosjanie byli w Jarosławiu już od 18 września. Możliwe, że rosyjskie oddziały weszły do części miasta, zanim Austriacy ostatecznie ewakuowali przyczółek.
 
-Tymczasem kilkadziesiąt kilometrów na południe rosyjska 3 Armia generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) zamykała pierścień wokół Przemyśla. Do 26 września twierdza z ponad stutysięczną załogą została całkowicie okrążona.
+Tymczasem kilkadziesiąt kilometrów na południe rosyjska 3 Armia generała [Radko Dimitriewa](/postacie/radko-dimitriew) zamykała pierścień wokół Przemyśla. Do 26 września twierdza z ponad stutysięczną załogą została całkowicie okrążona.
 
 ## Pod rosyjskimi rządami
 

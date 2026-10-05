@@ -19,7 +19,7 @@ W południe 1 sierpnia upłynął termin niemieckiego ultimatum, które żądał
 
 ## Wypowiedzenie wojny w Petersburgu
 
-Około 19:10 czasu petersburskiego ambasador hrabia Friedrich von Pourtalès przybył do ministra spraw zagranicznych [Siergieja Sazonowa](https://pl.wikipedia.org/wiki/Siergiej_Sazonow). Trzykrotnie pytał, czy Rosja wstrzyma mobilizację, a po trzech odmowach drżącymi rękami wręczył mu notę z wypowiedzeniem wojny. Według relacji Sazonowa ambasador podszedł potem do okna wychodzącego na [Pałac Zimowy](https://pl.wikipedia.org/wiki/Pałac_Zimowy) i wybuchnął płaczem. Obaj dyplomaci od lat utrzymywali dobre stosunki i dobrze rozumieli, co oznacza ta chwila.
+Około 19:10 czasu petersburskiego ambasador hrabia Friedrich von Pourtalès przybył do ministra spraw zagranicznych [Siergieja Sazonowa](/postacie/siergiej-sazonow). Trzykrotnie pytał, czy Rosja wstrzyma mobilizację, a po trzech odmowach drżącymi rękami wręczył mu notę z wypowiedzeniem wojny. Według relacji Sazonowa ambasador podszedł potem do okna wychodzącego na [Pałac Zimowy](https://pl.wikipedia.org/wiki/Pałac_Zimowy) i wybuchnął płaczem. Obaj dyplomaci od lat utrzymywali dobre stosunki i dobrze rozumieli, co oznacza ta chwila.
 
 Formalnie to Niemcy, a nie Rosja, rozpoczęły wojnę, choć Rosja pierwsza przeprowadziła mobilizację powszechną. Miało to znaczenie polityczne. Włochy, związane z Niemcami i Austro-Węgrami w trójprzymierzu o charakterze obronnym, uznały, że nie mają obowiązku przystąpić do wojny, i wkrótce ogłosiły neutralność.
 

@@ -16,7 +16,7 @@ draft: false
 
 Rząd osmański nie odpowiedział na [żądania aliantów](/ultimatum-aliantow-wobec-turcji), by wydalił niemieckie misje wojskową i morską, a ambasadorowie Ententy opuścili Konstantynopol 31 października i 1 listopada. Admiralicja już 31 października [kazała okrętom rozpocząć działania wojenne](/brytyjski-rozkaz-dzialan-przeciw-turcji) przeciw Turcji, a 3 listopada brytyjskie i francuskie okręty ostrzelały forty u wejścia do Dardaneli. Brakowało tylko formalności.
 
-5 listopada brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) zawiadomił ambasadora Stanów Zjednoczonych w Londynie, że między Wielką Brytanią a Turcją istnieje stan wojny. Tego ranka ambasada turecka opuściła Londyn, a opiekę nad sprawami osmańskimi w Wielkiej Brytanii przejęli Amerykanie. Następnego dnia deklarację i proklamację króla [Jerzego V](https://pl.wikipedia.org/wiki/Jerzy_V) opublikowała urzędowa „London Gazette”. Tego samego dnia stan wojny z Turcją ogłosiła Francja. Imperium Osmańskie odpowiedziało formalnym wypowiedzeniem wojny dopiero 11 listopada.
+5 listopada brytyjski minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) zawiadomił ambasadora Stanów Zjednoczonych w Londynie, że między Wielką Brytanią a Turcją istnieje stan wojny. Tego ranka ambasada turecka opuściła Londyn, a opiekę nad sprawami osmańskimi w Wielkiej Brytanii przejęli Amerykanie. Następnego dnia deklarację i proklamację króla [Jerzego V](/postacie/jerzy-v) opublikowała urzędowa „London Gazette”. Tego samego dnia stan wojny z Turcją ogłosiła Francja. Imperium Osmańskie odpowiedziało formalnym wypowiedzeniem wojny dopiero 11 listopada.
 
 ## Koniec starej polityki
 

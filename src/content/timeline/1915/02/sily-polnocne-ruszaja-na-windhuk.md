@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 22 lutego 1915 roku początek natarcia południowoafrykańskich Sił Północnych ze [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund) na [Windhuk](https://pl.wikipedia.org/wiki/Windhuk), stolicę [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Relacje południowoafrykańskie wiążą pierwszą operację z 23 lutego, gdy wojska premiera i naczelnego wodza [Louisa Bothy](https://pl.wikipedia.org/wiki/Louis_Botha) odepchnęły niemieckie placówki spod miasta w głąb pustyni. 22 lutego, daleko na południu, siły generała Duncana McKenziego, nacierające od [Lüderitzbucht](/poludniowoafrykanczycy-zajmuja-luderitzbucht), zajęły stację Garub.
+Brytyjska chronologia wojny notuje pod 22 lutego 1915 roku początek natarcia południowoafrykańskich Sił Północnych ze [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund) na [Windhuk](https://pl.wikipedia.org/wiki/Windhuk), stolicę [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Relacje południowoafrykańskie wiążą pierwszą operację z 23 lutego, gdy wojska premiera i naczelnego wodza [Louisa Bothy](/postacie/louis-botha) odepchnęły niemieckie placówki spod miasta w głąb pustyni. 22 lutego, daleko na południu, siły generała Duncana McKenziego, nacierające od [Lüderitzbucht](/poludniowoafrykanczycy-zajmuja-luderitzbucht), zajęły stację Garub.
 
 ## Botha obejmuje dowództwo
 

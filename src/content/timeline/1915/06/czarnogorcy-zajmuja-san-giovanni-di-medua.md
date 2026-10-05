@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 26 czerwca 1915 roku, że wojska czarnogórskie zajęły albański port San Giovanni di Medua, dziś [Shëngjin](https://pl.wikipedia.org/wiki/Shëngjin). Część opracowań datuje zajęcie portu na 27 czerwca, ten sam dzień, w którym Czarnogórcy weszli do [Szkodry](https://pl.wikipedia.org/wiki/Szkodra), głównego miasta północnej Albanii. Niewielka przystań w pobliżu ujścia [Drinu](https://pl.wikipedia.org/wiki/Drin), w pobliżu [Lezhy](https://pl.wikipedia.org/wiki/Lezha), była portem Szkodry i jej oknem na Adriatyk. Opanowując ją, król [Mikołaj I](https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz) zyskał kontrolę nad całym północnoalbańskim wybrzeżem aż po Drin.
+Brytyjska chronologia wojny notuje pod 26 czerwca 1915 roku, że wojska czarnogórskie zajęły albański port San Giovanni di Medua, dziś [Shëngjin](https://pl.wikipedia.org/wiki/Shëngjin). Część opracowań datuje zajęcie portu na 27 czerwca, ten sam dzień, w którym Czarnogórcy weszli do [Szkodry](https://pl.wikipedia.org/wiki/Szkodra), głównego miasta północnej Albanii. Niewielka przystań w pobliżu ujścia [Drinu](https://pl.wikipedia.org/wiki/Drin), w pobliżu [Lezhy](https://pl.wikipedia.org/wiki/Lezha), była portem Szkodry i jej oknem na Adriatyk. Opanowując ją, król [Mikołaj I](/postacie/mikolaj-i-petrowic-niegosz) zyskał kontrolę nad całym północnoalbańskim wybrzeżem aż po Drin.
 
 ## Stary cel
 

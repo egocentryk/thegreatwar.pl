@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-3 listopada 1915 roku serbski rząd premiera [Nikoli Pašicia](https://pl.wikipedia.org/wiki/Nikola_Pašić) i naczelne dowództwo armii opuściły [Kraljevo](https://pl.wikipedia.org/wiki/Kraljevo) nad Morawą Zachodnią. Ruszyły w górę doliny [Ibaru](https://pl.wikipedia.org/wiki/Ibar), do [Raški](https://pl.wikipedia.org/wiki/Raška). Brytyjska chronologia wojny notuje pod tym dniem, że rząd serbski opuścił [Nisz](https://pl.wikipedia.org/wiki/Nisz). W rzeczywistości wyjechał z wojennej stolicy około tygodnia wcześniej, a Kraljevo było tylko pierwszym przystankiem w drodze.
+3 listopada 1915 roku serbski rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic) i naczelne dowództwo armii opuściły [Kraljevo](https://pl.wikipedia.org/wiki/Kraljevo) nad Morawą Zachodnią. Ruszyły w górę doliny [Ibaru](https://pl.wikipedia.org/wiki/Ibar), do [Raški](https://pl.wikipedia.org/wiki/Raška). Brytyjska chronologia wojny notuje pod tym dniem, że rząd serbski opuścił [Nisz](https://pl.wikipedia.org/wiki/Nisz). W rzeczywistości wyjechał z wojennej stolicy około tygodnia wcześniej, a Kraljevo było tylko pierwszym przystankiem w drodze.
 
 ## Ewakuacja Niszu
 

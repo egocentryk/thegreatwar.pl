@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-22 października 1915 roku oddziały bułgarskiej 2 Armii generała [Georgiego Todorowa](https://pl.wikipedia.org/wiki/Georgi_Todorow_(generał)) wkroczyły do [Skopje](https://pl.wikipedia.org/wiki/Skopje), głównego miasta serbskiej Macedonii, nazywanego przez Turków Üsküb. Według brytyjskiej historii wojny wydawanej przez Nelsona Bułgarzy weszli do miasta późnym popołudniem. Bułgarskie źródła podają, że Skopje zajął po walce z Serbami 24 Czarnomorski Pułk Piechoty, a datują to na 9 października według kalendarza juliańskiego, czyli właśnie na 22 października. Brytyjska chronologia wojny notuje pod tym samym dniem także zajęcie [Kumanowa](https://pl.wikipedia.org/wiki/Kumanowo), ale to miasto padło wcześniej. Austriacka historia oficjalna, serbskie i bułgarskie źródła zgodnie podają, że Bułgarzy dotarli do niego 20 października.
+22 października 1915 roku oddziały bułgarskiej 2 Armii generała [Georgiego Todorowa](/postacie/georgi-todorow) wkroczyły do [Skopje](https://pl.wikipedia.org/wiki/Skopje), głównego miasta serbskiej Macedonii, nazywanego przez Turków Üsküb. Według brytyjskiej historii wojny wydawanej przez Nelsona Bułgarzy weszli do miasta późnym popołudniem. Bułgarskie źródła podają, że Skopje zajął po walce z Serbami 24 Czarnomorski Pułk Piechoty, a datują to na 9 października według kalendarza juliańskiego, czyli właśnie na 22 października. Brytyjska chronologia wojny notuje pod tym samym dniem także zajęcie [Kumanowa](https://pl.wikipedia.org/wiki/Kumanowo), ale to miasto padło wcześniej. Austriacka historia oficjalna, serbskie i bułgarskie źródła zgodnie podają, że Bułgarzy dotarli do niego 20 października.
 
 ## Marsz 3 Dywizji
 

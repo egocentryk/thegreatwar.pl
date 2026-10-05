@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 października 1915 roku, punktualnie w południe, włoska artyleria otworzyła ogień na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od ośnieżonych szczytów masywu Krn po wybrzeże Adriatyku. Tak zaczęła się trzecia bitwa nad Isonzo, pierwsza jesienna ofensywa generała [Luigiego Cadorny](https://pl.wikipedia.org/wiki/Luigi_Cadorna). Austriacka historia oficjalna pisze, że gdy nad doliną przetoczył się ten „orkan” ognia ze wszystkich kalibrów, obrońcy nie mieli już wątpliwości, że zaczęła się trzecia bitwa. Było to zarazem coś nowego na tym froncie. Piechota nie ruszyła tego dnia do wielkiego szturmu. Ostrzał miał trwać trzy dni i zniszczyć austro-węgierskie pozycje, zanim 21 października do ataku pójdą dywizje.
+18 października 1915 roku, punktualnie w południe, włoska artyleria otworzyła ogień na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od ośnieżonych szczytów masywu Krn po wybrzeże Adriatyku. Tak zaczęła się trzecia bitwa nad Isonzo, pierwsza jesienna ofensywa generała [Luigiego Cadorny](/postacie/luigi-cadorna). Austriacka historia oficjalna pisze, że gdy nad doliną przetoczył się ten „orkan” ognia ze wszystkich kalibrów, obrońcy nie mieli już wątpliwości, że zaczęła się trzecia bitwa. Było to zarazem coś nowego na tym froncie. Piechota nie ruszyła tego dnia do wielkiego szturmu. Ostrzał miał trwać trzy dni i zniszczyć austro-węgierskie pozycje, zanim 21 października do ataku pójdą dywizje.
 
 ## Jedenaście tygodni przygotowań
 

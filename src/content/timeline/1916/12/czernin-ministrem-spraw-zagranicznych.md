@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 grudnia 1916 roku cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) zmienił kierownika polityki zagranicznej monarchii. Wspólnym ministrem domu cesarskiego i spraw zagranicznych Austro-Węgier został 44-letni hrabia [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin), do sierpnia poseł austro-węgierski w Rumunii. Zastąpił barona [Istvána Buriána](https://pl.wikipedia.org/wiki/István_Burián), który kierował dyplomacją od [stycznia 1915 roku](/burian-zastepuje-berchtolda). Burián nie odszedł z rządu: tego samego dnia objął urząd wspólnego ministra finansów. Część opracowań, zwłaszcza anglojęzycznych, podaje jako datę nominacji Czernina 23 grudnia. Była to druga, po [zmianie rządu w Wiedniu](/clam-martinic-premierem-austrii), wielka decyzja personalna nowego cesarza w tych tygodniach.
+22 grudnia 1916 roku cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) zmienił kierownika polityki zagranicznej monarchii. Wspólnym ministrem domu cesarskiego i spraw zagranicznych Austro-Węgier został 44-letni hrabia [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin), do sierpnia poseł austro-węgierski w Rumunii. Zastąpił barona [Istvána Buriána](/postacie/istvan-burian), który kierował dyplomacją od [stycznia 1915 roku](/burian-zastepuje-berchtolda). Burián nie odszedł z rządu: tego samego dnia objął urząd wspólnego ministra finansów. Część opracowań, zwłaszcza anglojęzycznych, podaje jako datę nominacji Czernina 23 grudnia. Była to druga, po [zmianie rządu w Wiedniu](/clam-martinic-premierem-austrii), wielka decyzja personalna nowego cesarza w tych tygodniach.
 
 ## Arystokrata z kręgu Franciszka Ferdynanda
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-20 lipca 1916 roku (7 lipca według kalendarza juliańskiego) car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) podpisał w Kwaterze Głównej w Mohylewie reskrypt, którym odwołał ministra spraw zagranicznych [Siergieja Sazonowa](https://pl.wikipedia.org/wiki/Siergiej_Sazonow). Sazonow kierował rosyjską dyplomacją od 1910 roku, przez cały okres wojny. Jego miejsce zajął premier [Boris Stürmer](https://pl.wikipedia.org/wiki/Boris_Stürmer), który zatrzymał również przewodnictwo w Radzie Ministrów. Sazonow, który odpoczywał wtedy w Finlandii, dowiedział się o dymisji następnego dnia, 21 lipca, a prasa ogłosiła ją oficjalnie w niedzielę 23 lipca. Brytyjska chronologia wojny notuje zmianę pod 22 lipca.
+20 lipca 1916 roku (7 lipca według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) podpisał w Kwaterze Głównej w Mohylewie reskrypt, którym odwołał ministra spraw zagranicznych [Siergieja Sazonowa](/postacie/siergiej-sazonow). Sazonow kierował rosyjską dyplomacją od 1910 roku, przez cały okres wojny. Jego miejsce zajął premier [Boris Stürmer](https://pl.wikipedia.org/wiki/Boris_Stürmer), który zatrzymał również przewodnictwo w Radzie Ministrów. Sazonow, który odpoczywał wtedy w Finlandii, dowiedział się o dymisji następnego dnia, 21 lipca, a prasa ogłosiła ją oficjalnie w niedzielę 23 lipca. Brytyjska chronologia wojny notuje zmianę pod 22 lipca.
 
 ## Sprawa polska
 

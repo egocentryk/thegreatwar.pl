@@ -14,13 +14,13 @@ draft: false
 
 ## Sygnał wobec Wiednia, nie Berlina
 
-Decyzję w zasadzie podjęto już 25 lipca. Minister spraw zagranicznych [Siergiej Sazonow](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) traktował częściową mobilizację jako środek nacisku na Wiedeń, który jednocześnie nie powinien zagrażać Niemcom. Pominięcie okręgów graniczących z [Cesarstwem Niemieckim](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) miało pokazać Berlinowi, że Rosja nie zamierza go atakować.
+Decyzję w zasadzie podjęto już 25 lipca. Minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) traktował częściową mobilizację jako środek nacisku na Wiedeń, który jednocześnie nie powinien zagrażać Niemcom. Pominięcie okręgów graniczących z [Cesarstwem Niemieckim](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) miało pokazać Berlinowi, że Rosja nie zamierza go atakować.
 
 Rosyjscy generałowie ostrzegali jednak, że takie rozwiązanie jest ryzykowne. [Armia rosyjska](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego) nie miała gotowego planu mobilizacji częściowej, a improwizowana mobilizacja kilku okręgów mogła poważnie zaburzyć ewentualną późniejszą mobilizację powszechną. Szef sztabu generalnego [Nikołaj Januszkiewicz](https://pl.wikipedia.org/wiki/Nikołaj_Januszkiewicz) i minister wojny [Władimir Suchomlinow](https://pl.wikipedia.org/wiki/Władimir_Suchomlinow) naciskali więc na mobilizację całej armii.
 
 ## Wieczór 29 lipca
 
-Rano 29 lipca Januszkiewicz dysponował już podpisanym przez cara [Mikołaja II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) rozkazem mobilizacji powszechnej. Wieczorem, około godziny 21, telegramy uruchamiające mobilizację całego imperium były już gotowe do wysłania. Kilka minut przed ich nadaniem przybył jednak posłaniec cara z poleceniem, by mobilizację powszechną wstrzymać i ograniczyć się do częściowej.
+Rano 29 lipca Januszkiewicz dysponował już podpisanym przez cara [Mikołaja II](/postacie/mikolaj-ii) rozkazem mobilizacji powszechnej. Wieczorem, około godziny 21, telegramy uruchamiające mobilizację całego imperium były już gotowe do wysłania. Kilka minut przed ich nadaniem przybył jednak posłaniec cara z poleceniem, by mobilizację powszechną wstrzymać i ograniczyć się do częściowej.
 
 Mikołaj II zmienił zdanie pod wpływem telegramu od cesarza [Wilhelma II](/postacie/wilhelm-ii), który zapewniał, że próbuje doprowadzić do porozumienia między Rosją a Austro-Węgrami, i prosił, by rosyjskie przygotowania wojskowe nie zniweczyły tych starań. Car miał wówczas powiedzieć, że nie weźmie na siebie odpowiedzialności za potworną rzeź.
 

@@ -15,7 +15,7 @@ Brytyjska chronologia wojny notuje pod 28 grudnia 1914 roku koniec zorganizowane
 
 ## Upadek powstania w Oranii i Transwalu
 
-[Rebelia](/poczatek-rebelii-burskiej) załamała się w listopadzie. 12 listopada premier [Louis Botha](https://pl.wikipedia.org/wiki/Louis_Botha) rozbił pod Mushroom Valley główne siły generała Christiaana de Weta. Tego samego dnia rząd obiecał amnestię wszystkim szeregowym rebeliantom, którzy złożą broń do 21 listopada. Wielu z niej skorzystało i powstanie zaczęło się rozpadać. Sam De Wet [został schwytany 1 grudnia](/schwytanie-christiaana-de-weta) na skraju [Kalahari](https://pl.wikipedia.org/wiki/Kalahari).
+[Rebelia](/poczatek-rebelii-burskiej) załamała się w listopadzie. 12 listopada premier [Louis Botha](/postacie/louis-botha) rozbił pod Mushroom Valley główne siły generała Christiaana de Weta. Tego samego dnia rząd obiecał amnestię wszystkim szeregowym rebeliantom, którzy złożą broń do 21 listopada. Wielu z niej skorzystało i powstanie zaczęło się rozpadać. Sam De Wet [został schwytany 1 grudnia](/schwytanie-christiaana-de-weta) na skraju [Kalahari](https://pl.wikipedia.org/wiki/Kalahari).
 
 W północno-wschodniej części dawnej Oranii wciąż jednak działały oddziały Wessela Wesselsa i jego towarzyszy. Na początku grudnia Botha zajął bez walki ich ośrodek, miasteczko Reitz. 8 grudnia ponad tysiąc rebeliantów poddało się bezwarunkowo. Tego samego dnia zginął generał Christiaan Beyers. Ścigany przez wojska rządowe próbował przeprawić się przez wezbraną rzekę [Vaal](https://pl.wikipedia.org/wiki/Vaal) niedaleko Makwassie i utonął. Według części źródeł w wodzie zawiodło mu serce. Ciało wyłowiono dwa dni później.
 

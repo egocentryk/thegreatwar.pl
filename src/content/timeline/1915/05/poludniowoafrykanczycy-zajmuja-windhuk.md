@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 13 maja 1915 roku zajęcie [Windhuku](https://pl.wikipedia.org/wiki/Windhuk), stolicy [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia), przez wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Oficjalna historia południowoafrykańska i relacje uczestników datują to wydarzenie na dzień wcześniej: 12 maja miasto zostało przekazane bez walki premierowi i naczelnemu wodzowi Związku, generałowi [Louisowi Bocie](https://pl.wikipedia.org/wiki/Louis_Botha). Niektóre opracowania podają nawet 5 maja, ale tego dnia Botha zajął Karibib, a nie stolicę.
+Brytyjska chronologia wojny notuje pod 13 maja 1915 roku zajęcie [Windhuku](https://pl.wikipedia.org/wiki/Windhuk), stolicy [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia), przez wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Oficjalna historia południowoafrykańska i relacje uczestników datują to wydarzenie na dzień wcześniej: 12 maja miasto zostało przekazane bez walki premierowi i naczelnemu wodzowi Związku, generałowi [Louisowi Bocie](/postacie/louis-botha). Niektóre opracowania podają nawet 5 maja, ale tego dnia Botha zajął Karibib, a nie stolicę.
 
 ## Marsz na Karibib
 

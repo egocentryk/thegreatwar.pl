@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 maja 1915 roku pod Helles na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) zakończyła się druga bitwa o Kritię. Przez trzy dni wojska generała [Iana Hamiltona](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) nacierały w biały dzień na wieś Kritia i wzgórze Achi Baba. Ostatniego dnia ciężar walki spadł na dwie brygady przerzucone z zatoki Anzac, nowozelandzką i australijską. Ich ataki, okupione ogromnymi stratami, na trwałe zapisały się w pamięci Australii i Nowej Zelandii.
+8 maja 1915 roku pod Helles na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) zakończyła się druga bitwa o Kritię. Przez trzy dni wojska generała [Iana Hamiltona](/postacie/ian-hamilton) nacierały w biały dzień na wieś Kritia i wzgórze Achi Baba. Ostatniego dnia ciężar walki spadł na dwie brygady przerzucone z zatoki Anzac, nowozelandzką i australijską. Ich ataki, okupione ogromnymi stratami, na trwałe zapisały się w pamięci Australii i Nowej Zelandii.
 
 ## Dzień wcześniej
 

@@ -29,7 +29,7 @@ Francja również była przygotowana do wojny. Od klęski w [wojnie francusko-pr
 
 ## Święte zjednoczenie
 
-Następnego dnia, 4 sierpnia, prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) w orędziu do parlamentu wezwał Francuzów do „świętego zjednoczenia” (union sacrée). Wszystkie siły polityczne, od prawicy po socjalistów, zawiesiły spory i poparły obronę kraju. Parlament jednogłośnie przyjął kredyty wojenne.
+Następnego dnia, 4 sierpnia, prezydent [Raymond Poincaré](/postacie/raymond-poincare) w orędziu do parlamentu wezwał Francuzów do „świętego zjednoczenia” (union sacrée). Wszystkie siły polityczne, od prawicy po socjalistów, zawiesiły spory i poparły obronę kraju. Parlament jednogłośnie przyjął kredyty wojenne.
 
 ## Znaczenie
 

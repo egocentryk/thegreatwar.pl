@@ -14,7 +14,7 @@ draft: false
 
 4 marca 1915 roku wojska rosyjskie ponownie zajęły [Stanisławów](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk), ważny węzeł kolejowy wschodniej Galicji. Tę datę podaje brytyjska chronologia wojny i zgadzają się z nią ukraińskie opracowania historii miasta, według których drugi okres rosyjskiej władzy w Stanisławowie trwał od 4 marca do 8 czerwca 1915 roku. W niektórych tekstach spotyka się datę 19 lutego. To ten sam dzień, liczony według kalendarza juliańskiego, którego używano wtedy w Rosji.
 
-Austro-węgierskie panowanie w mieście trwało więc zaledwie dwa tygodnie. Wojska generała [Karla Pflanzera-Baltina](https://pl.wikipedia.org/wiki/Karl_Pflanzer-Baltin) [weszły do Stanisławowa 20 lutego](/austriacy-zdobywaja-stanislawow), po zwycięskim marszu przez Bukowinę i Pokucie. Było to największe osiągnięcie zimowej ofensywy w Karpatach, ale zarazem najdalej wysunięty i najsłabiej osłonięty punkt frontu. Austriacy nie mieli jak szybko wzmocnić tego skrzydła, bo dowoziła je tylko jedna górska linia kolejowa przez Syhot Marmaroski.
+Austro-węgierskie panowanie w mieście trwało więc zaledwie dwa tygodnie. Wojska generała [Karla Pflanzera-Baltina](/postacie/karl-pflanzer-baltin) [weszły do Stanisławowa 20 lutego](/austriacy-zdobywaja-stanislawow), po zwycięskim marszu przez Bukowinę i Pokucie. Było to największe osiągnięcie zimowej ofensywy w Karpatach, ale zarazem najdalej wysunięty i najsłabiej osłonięty punkt frontu. Austriacy nie mieli jak szybko wzmocnić tego skrzydła, bo dowoziła je tylko jedna górska linia kolejowa przez Syhot Marmaroski.
 
 ## Kontrofensywa Leczyckiego
 

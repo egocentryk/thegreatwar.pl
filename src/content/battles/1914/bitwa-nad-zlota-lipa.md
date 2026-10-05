@@ -17,7 +17,7 @@ tags: [Rosja, Austro-Węgry, bitwa galicyjska, Lwów]
 milestone: false
 ---
 
-Bitwa nad Złotą Lipą, stoczona w dniach 26–30 sierpnia 1914 roku na wschód od [Lwowa](https://pl.wikipedia.org/wiki/Lwów), była jednym z kluczowych starć [bitwy galicyjskiej](/bitwy/bitwa-galicyjska). Rosyjskie armie generałów [Nikołaja Ruzskiego](https://pl.wikipedia.org/wiki/Nikołaj_Ruzski) i [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) rozbiły w niej austro-węgierską [3 Armię](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) generała Rudolfa von Brudermanna i grupę armijną generała [Hermanna Kövessa](https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza), otwierając sobie drogę do stolicy Galicji.
+Bitwa nad Złotą Lipą, stoczona w dniach 26–30 sierpnia 1914 roku na wschód od [Lwowa](https://pl.wikipedia.org/wiki/Lwów), była jednym z kluczowych starć [bitwy galicyjskiej](/bitwy/bitwa-galicyjska). Rosyjskie armie generałów [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski) i [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) rozbiły w niej austro-węgierską [3 Armię](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) generała Rudolfa von Brudermanna i grupę armijną generała [Hermanna Kövessa](/postacie/hermann-kovess), otwierając sobie drogę do stolicy Galicji.
 
 ## Nazwa i daty
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 marca 1915 roku, a według kalendarza juliańskiego 27 lutego, brytyjski ambasador w Piotrogrodzie George Buchanan przekazał rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) odpowiedź swojego rządu na [rosyjskie żądanie z 4 marca](/rosja-zada-konstantynopola). Wielka Brytania zgodziła się, by po zwycięskiej wojnie Rosja otrzymała [Konstantynopol](https://pl.wikipedia.org/wiki/Konstantynopol), oba brzegi cieśnin i tereny, które wymienił Sazonow. Zgoda nie była jednak bezwarunkowa.
+12 marca 1915 roku, a według kalendarza juliańskiego 27 lutego, brytyjski ambasador w Piotrogrodzie George Buchanan przekazał rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) odpowiedź swojego rządu na [rosyjskie żądanie z 4 marca](/rosja-zada-konstantynopola). Wielka Brytania zgodziła się, by po zwycięskiej wojnie Rosja otrzymała [Konstantynopol](https://pl.wikipedia.org/wiki/Konstantynopol), oba brzegi cieśnin i tereny, które wymienił Sazonow. Zgoda nie była jednak bezwarunkowa.
 
 ## Odwrócenie tradycji
 

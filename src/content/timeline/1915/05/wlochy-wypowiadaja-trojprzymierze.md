@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-4 maja 1915 roku włoski ambasador w Wiedniu, książę Giuseppe Avarna, przekazał austro-węgierskiemu ministrowi spraw zagranicznych, baronowi [Istvánowi Buriánowi](https://pl.wikipedia.org/wiki/István_Burián), notę swojego rządu. Włochy oświadczały w niej, że uważają swój sojusz z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry) za zerwany. Instrukcję w tej sprawie minister spraw zagranicznych [Sidney Sonnino](https://pl.wikipedia.org/wiki/Sidney_Sonnino) wysłał z Rzymu dzień wcześniej, dlatego część opracowań, a także polska Wikipedia, podaje jako datę wypowiedzenia [trójprzymierza](https://pl.wikipedia.org/wiki/Trójprzymierze) 3 maja. Sam rząd włoski w późniejszej deklaracji wojennej pisał, że powody tej decyzji zakomunikowano Wiedniowi 4 maja.
+4 maja 1915 roku włoski ambasador w Wiedniu, książę Giuseppe Avarna, przekazał austro-węgierskiemu ministrowi spraw zagranicznych, baronowi [Istvánowi Buriánowi](/postacie/istvan-burian), notę swojego rządu. Włochy oświadczały w niej, że uważają swój sojusz z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry) za zerwany. Instrukcję w tej sprawie minister spraw zagranicznych [Sidney Sonnino](/postacie/sidney-sonnino) wysłał z Rzymu dzień wcześniej, dlatego część opracowań, a także polska Wikipedia, podaje jako datę wypowiedzenia [trójprzymierza](https://pl.wikipedia.org/wiki/Trójprzymierze) 3 maja. Sam rząd włoski w późniejszej deklaracji wojennej pisał, że powody tej decyzji zakomunikowano Wiedniowi 4 maja.
 
 ## Treść noty
 

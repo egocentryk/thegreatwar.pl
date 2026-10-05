@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 kwietnia 1917 roku wieczorem prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) stanął przed połączonymi izbami [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) i poprosił, by uznały postępowanie rządu niemieckiego za „nic innego jak wojnę” przeciw rządowi i narodowi Stanów Zjednoczonych. Na tę chwilę czekano w Waszyngtonie od dwóch tygodni, odkąd prezydent [zwołał Kongres](/wilson-zwoluje-kongres) na sesję nadzwyczajną. Orędzie trwało 36 minut i zawierało zdanie, które przeszło do historii: „Świat musi stać się bezpieczny dla demokracji”.
+2 kwietnia 1917 roku wieczorem prezydent [Woodrow Wilson](/postacie/woodrow-wilson) stanął przed połączonymi izbami [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) i poprosił, by uznały postępowanie rządu niemieckiego za „nic innego jak wojnę” przeciw rządowi i narodowi Stanów Zjednoczonych. Na tę chwilę czekano w Waszyngtonie od dwóch tygodni, odkąd prezydent [zwołał Kongres](/wilson-zwoluje-kongres) na sesję nadzwyczajną. Orędzie trwało 36 minut i zawierało zdanie, które przeszło do historii: „Świat musi stać się bezpieczny dla demokracji”.
 
 ## Dzień w Kapitolu
 

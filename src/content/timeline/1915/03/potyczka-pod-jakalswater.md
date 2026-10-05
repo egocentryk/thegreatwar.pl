@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-20 marca 1915 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) pod dowództwem premiera i naczelnego wodza [Louisa Bothy](https://pl.wikipedia.org/wiki/Louis_Botha) uderzyły na niemiecką linię obronną w dolinie rzeki [Swakop](https://pl.wikipedia.org/wiki/Swakop), w [Niemieckiej Afryce Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Brytyjska chronologia wojny nazywa to starcie potyczką pod Jakalswater, ale tego dnia walczono jednocześnie w trzech miejscach: pod Riet, Pforte i Jakalswater. Południowoafrykańscy historycy uważają ten bój za jeden z najważniejszych w całej kampanii.
+20 marca 1915 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) pod dowództwem premiera i naczelnego wodza [Louisa Bothy](/postacie/louis-botha) uderzyły na niemiecką linię obronną w dolinie rzeki [Swakop](https://pl.wikipedia.org/wiki/Swakop), w [Niemieckiej Afryce Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Brytyjska chronologia wojny nazywa to starcie potyczką pod Jakalswater, ale tego dnia walczono jednocześnie w trzech miejscach: pod Riet, Pforte i Jakalswater. Południowoafrykańscy historycy uważają ten bój za jeden z najważniejszych w całej kampanii.
 
 ## Walka o wodę
 

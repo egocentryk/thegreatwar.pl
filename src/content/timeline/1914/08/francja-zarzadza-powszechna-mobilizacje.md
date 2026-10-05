@@ -14,7 +14,7 @@ draft: false
 
 Decyzja zapadła po kilku dniach narastającego napięcia. Poprzedniego dnia Niemcy zażądały od Francji deklaracji, czy pozostanie neutralna w wojnie niemiecko-rosyjskiej. Premier [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) odpowiedział jedynie, że Francja będzie działać zgodnie ze swoimi interesami. Szef sztabu generalnego [Joseph Joffre](/postacie/joseph-joffre) od dawna ostrzegał, że każdy dzień zwłoki daje przewagę Niemcom, które rozpoczęły już przygotowania wojenne.
 
-Francja starała się jednocześnie pokazać, że nie jest stroną atakującą. Już 30 lipca rząd polecił wycofać wojska na odległość 10 kilometrów od granicy z Niemcami, by uniknąć przypadkowych incydentów. Rządowa proklamacja ogłaszająca mobilizację, podpisana między innymi przez prezydenta [Raymonda Poincarégo](https://pl.wikipedia.org/wiki/Raymond_Poincaré), zapewniała obywateli, że mobilizacja nie oznacza jeszcze wojny.
+Francja starała się jednocześnie pokazać, że nie jest stroną atakującą. Już 30 lipca rząd polecił wycofać wojska na odległość 10 kilometrów od granicy z Niemcami, by uniknąć przypadkowych incydentów. Rządowa proklamacja ogłaszająca mobilizację, podpisana między innymi przez prezydenta [Raymonda Poincarégo](/postacie/raymond-poincare), zapewniała obywateli, że mobilizacja nie oznacza jeszcze wojny.
 
 Nastroje społeczne były poważne, ale zdecydowane. Poprzedniego wieczoru w Paryżu zastrzelono przywódcę francuskich socjalistów [Jeana Jaurèsa](https://pl.wikipedia.org/wiki/Jean_Jaurès), najbardziej znanego przeciwnika wojny. Mimo to socjaliści i związkowcy nie wezwali do oporu przeciw mobilizacji. Kilka dni później wszystkie główne siły polityczne zawarły „święte zjednoczenie” (union sacrée) w obronie kraju.
 

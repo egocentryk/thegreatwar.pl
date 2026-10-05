@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny i austro-węgierska historia oficjalna kończą [drugą bitwę nad Isonzo](/bitwy/druga-bitwa-nad-isonzo) 10 sierpnia 1915 roku. Włosi liczą ją krócej, od 18 lipca do 3 sierpnia, gdy naczelne dowództwo generała [Luigiego Cadorny](https://pl.wikipedia.org/wiki/Luigi_Cadorna) kazało wstrzymać ofensywę nad środkową i dolną [Soczą](https://pl.wikipedia.org/wiki/Socza). Rozkaz nie oznaczał jednak natychmiastowej ciszy. Dowódca włoskiej 3 Armii, książę Aosty, polecił dalej posuwać się naprzód, tyle że „powoli i metodycznie”. Według Austriaków walki na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) tliły się więc jeszcze przez tydzień, choć nie zmieniły już położenia żadnej ze stron.
+Brytyjska chronologia wojny i austro-węgierska historia oficjalna kończą [drugą bitwę nad Isonzo](/bitwy/druga-bitwa-nad-isonzo) 10 sierpnia 1915 roku. Włosi liczą ją krócej, od 18 lipca do 3 sierpnia, gdy naczelne dowództwo generała [Luigiego Cadorny](/postacie/luigi-cadorna) kazało wstrzymać ofensywę nad środkową i dolną [Soczą](https://pl.wikipedia.org/wiki/Socza). Rozkaz nie oznaczał jednak natychmiastowej ciszy. Dowódca włoskiej 3 Armii, książę Aosty, polecił dalej posuwać się naprzód, tyle że „powoli i metodycznie”. Według Austriaków walki na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) tliły się więc jeszcze przez tydzień, choć nie zmieniły już położenia żadnej ze stron.
 
 ## Ostatnie starcia na Krasie
 

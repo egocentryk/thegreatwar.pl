@@ -11,13 +11,13 @@ milestone: false
 draft: false
 ---
 
-12 marca 1915 roku około dziesiątej rano minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) wezwał do swojego gabinetu generała [Iana Hamiltona](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)). Jak Hamilton zapisał w dzienniku, Kitchener przez chwilę pisał coś przy biurku, po czym podniósł głowę i rzeczowym tonem oznajmił: „Wysyłamy siły wojskowe na wsparcie floty, która jest teraz pod Dardanelami, a pan obejmie nad nimi dowództwo”. Tak narodziły się Śródziemnomorskie Siły Ekspedycyjne (Mediterranean Expeditionary Force), które sześć tygodni później wylądowały na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)).
+12 marca 1915 roku około dziesiątej rano minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) wezwał do swojego gabinetu generała [Iana Hamiltona](/postacie/ian-hamilton). Jak Hamilton zapisał w dzienniku, Kitchener przez chwilę pisał coś przy biurku, po czym podniósł głowę i rzeczowym tonem oznajmił: „Wysyłamy siły wojskowe na wsparcie floty, która jest teraz pod Dardanelami, a pan obejmie nad nimi dowództwo”. Tak narodziły się Śródziemnomorskie Siły Ekspedycyjne (Mediterranean Expeditionary Force), które sześć tygodni później wylądowały na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)).
 
 ## Wybór dowódcy
 
 Sześćdziesięciodwuletni Hamilton urodził się na Korfu i należał do najbardziej doświadczonych generałów brytyjskich. Walczył w Afganistanie, pod Majubą w 1881 roku został ranny i dostał się do niewoli Burów, a w czasie drugiej wojny burskiej był szefem sztabu Kitchenera. W latach 1904–1905 obserwował wojnę rosyjsko-japońską przy armii japońskiej, a przed wojną był generalnym inspektorem wojsk zamorskich i dowódcą na Morzu Śródziemnym. Od sierpnia 1914 roku kierował siłami przeznaczonymi do obrony Wielkiej Brytanii przed inwazją.
 
-O wysłaniu pod Dardanele generała wysokiej rangi mówiło się od początku marca. 4 marca pierwszy lord Admiralicji Winston Churchill pisał do Kitchenera, że Admiralicja chciałaby, by dowództwo objął Hamilton, i nalegał, by nowy dowódca jak najszybciej znalazł się na miejscu. 10 marca, po wielu tygodniach sporów, Kitchener oznajmił Radzie Wojennej, że wyśle na Morze Śródziemne [29 Dywizję](/brytyjska-dywizja-dla-dardaneli). Następnego dnia poinformował sztab generalny o nominacji Hamiltona. Szefem jego sztabu został generał William Braithwaite.
+O wysłaniu pod Dardanele generała wysokiej rangi mówiło się od początku marca. 4 marca pierwszy lord Admiralicji Winston Churchill pisał do Kitchenera, że Admiralicja chciałaby, by dowództwo objął Hamilton, i nalegał, by nowy dowódca jak najszybciej znalazł się na miejscu. 10 marca, po wielu tygodniach sporów, Kitchener oznajmił Radzie Wojennej, że wyśle na Morze Śródziemne [29 Dywizję](/brytyjska-dywizja-dla-dardaneli). Następnego dnia poinformował sztab generalny o nominacji Hamiltona. Szefem jego sztabu został generał Walter Braithwaite.
 
 ## Rozmowa z Kitchenerem
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 października 1915 roku minister wojny lord [Herbert Kitchener](/postacie/horatio-kitchener) wysłał do generała [Iana Hamiltona](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) depeszę, na którą dowódca Śródziemnomorskich Sił Ekspedycyjnych czekał od kilku dni. Brytyjski rząd postanowił odwołać go z półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Jego następcą miał zostać generał Charles Monro, dowódca 3 Armii we Francji. Decyzję podjął dzień wcześniej Komitet Dardanelski, który od czerwca [kierował brytyjską strategią](/pierwsze-posiedzenie-komitetu-dardanelskiego). Hamilton odczytał depeszę rano 16 października w swojej kwaterze na wyspie [Imbros](https://pl.wikipedia.org/wiki/Imroz).
+15 października 1915 roku minister wojny lord [Herbert Kitchener](/postacie/horatio-kitchener) wysłał do generała [Iana Hamiltona](/postacie/ian-hamilton) depeszę, na którą dowódca Śródziemnomorskich Sił Ekspedycyjnych czekał od kilku dni. Brytyjski rząd postanowił odwołać go z półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Jego następcą miał zostać generał Charles Monro, dowódca 3 Armii we Francji. Decyzję podjął dzień wcześniej Komitet Dardanelski, który od czerwca [kierował brytyjską strategią](/pierwsze-posiedzenie-komitetu-dardanelskiego). Hamilton odczytał depeszę rano 16 października w swojej kwaterze na wyspie [Imbros](https://pl.wikipedia.org/wiki/Imroz).
 
 ## Ewakuacja w tle
 

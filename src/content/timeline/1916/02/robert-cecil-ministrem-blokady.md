@@ -20,7 +20,7 @@ Decyzja zapadła pod presją opinii publicznej. Od jesieni 1915 roku prasa zarzu
 
 ## Kim był nowy minister
 
-Lord Robert Cecil miał 51 lat. Był trzecim synem trzykrotnego premiera, markiza [Salisbury](https://pl.wikipedia.org/wiki/Robert_Gascoyne-Cecil_(3._markiz_Salisbury)), i kuzynem byłego premiera [Arthura Balfoura](https://pl.wikipedia.org/wiki/Arthur_Balfour), wówczas pierwszego lorda Admiralicji. Z wykształcenia był prawnikiem, z przekonań głęboko religijnym konserwatystą. Posłem był, z krótką przerwą, od 1906 roku. Na początku wojny pracował dla Czerwonego Krzyża, a gdy w maju 1915 roku powstał rząd koalicyjny, został podsekretarzem stanu do spraw zagranicznych. Na tym stanowisku już wcześniej bronił w Izbie Gmin polityki blokady, tłumacząc, jak bardzo splecione są ze sobą nici handlu neutralnego i nieprzyjacielskiego.
+Lord Robert Cecil miał 51 lat. Był trzecim synem trzykrotnego premiera, markiza [Salisbury](https://pl.wikipedia.org/wiki/Robert_Gascoyne-Cecil_(3._markiz_Salisbury)), i kuzynem byłego premiera [Arthura Balfoura](/postacie/arthur-balfour), wówczas pierwszego lorda Admiralicji. Z wykształcenia był prawnikiem, z przekonań głęboko religijnym konserwatystą. Posłem był, z krótką przerwą, od 1906 roku. Na początku wojny pracował dla Czerwonego Krzyża, a gdy w maju 1915 roku powstał rząd koalicyjny, został podsekretarzem stanu do spraw zagranicznych. Na tym stanowisku już wcześniej bronił w Izbie Gmin polityki blokady, tłumacząc, jak bardzo splecione są ze sobą nici handlu neutralnego i nieprzyjacielskiego.
 
 ## Nowe ministerstwo
 

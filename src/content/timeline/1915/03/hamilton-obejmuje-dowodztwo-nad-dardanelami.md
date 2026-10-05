@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-17 marca 1915 roku o trzeciej po południu krążownik Phaeton rzucił kotwicę u wyspy Tenedos (dziś [Bozcaada](https://pl.wikipedia.org/wiki/Bozcaada)), wśród okrętów floty sprzymierzonych atakującej Dardanele. Na pokładzie przypłynął generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)), [mianowany pięć dni wcześniej](/ian-hamilton-dowodca-sil-srodziemnomorskich) dowódcą Śródziemnomorskich Sił Ekspedycyjnych. W tej samej chwili do portu wpłynął francuski generał Albert d'Amade, dowódca [Korpusu Ekspedycyjnego Wschodu](/francja-wysyla-korpus-nad-dardanele). Kilka dni wcześniej przybył on ze swoimi żołnierzami do zatoki [Mudros](https://pl.wikipedia.org/wiki/Mudros) na Lemnos, a na spotkanie z Hamiltonem przywiózł go kontradmirał Rosslyn Wemyss.
+17 marca 1915 roku o trzeciej po południu krążownik Phaeton rzucił kotwicę u wyspy Tenedos (dziś [Bozcaada](https://pl.wikipedia.org/wiki/Bozcaada)), wśród okrętów floty sprzymierzonych atakującej Dardanele. Na pokładzie przypłynął generał [Ian Hamilton](/postacie/ian-hamilton), [mianowany pięć dni wcześniej](/ian-hamilton-dowodca-sil-srodziemnomorskich) dowódcą Śródziemnomorskich Sił Ekspedycyjnych. W tej samej chwili do portu wpłynął francuski generał Albert d'Amade, dowódca [Korpusu Ekspedycyjnego Wschodu](/francja-wysyla-korpus-nad-dardanele). Kilka dni wcześniej przybył on ze swoimi żołnierzami do zatoki [Mudros](https://pl.wikipedia.org/wiki/Mudros) na Lemnos, a na spotkanie z Hamiltonem przywiózł go kontradmirał Rosslyn Wemyss.
 
 ## Podróż
 

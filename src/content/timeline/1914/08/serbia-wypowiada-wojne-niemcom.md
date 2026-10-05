@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-6 sierpnia 1914 roku [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wypowiedziała wojnę [Niemcom](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Decyzję podjął rząd premiera [Nikoli Pašicia](https://pl.wikipedia.org/wiki/Nikola_Pašić), działający w wojennej stolicy kraju, [Niszu](https://pl.wikipedia.org/wiki/Nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry), a Niemcy od początku kryzysu stały za polityką Wiednia.
+6 sierpnia 1914 roku [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wypowiedziała wojnę [Niemcom](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Decyzję podjął rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), działający w wojennej stolicy kraju, [Niszu](https://pl.wikipedia.org/wiki/Nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry), a Niemcy od początku kryzysu stały za polityką Wiednia.
 
 ## Deklaracja bez wspólnej granicy
 

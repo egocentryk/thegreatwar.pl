@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 5 grudnia 1915 roku walkę pod [Demir Kapiją](https://pl.wikipedia.org/wiki/Demir_Kapija), trwającą do 6 grudnia, w czasie odwrotu Francuzów z Serbii. Demir Kapija, po turecku Żelazna Brama, to wąski przełom [Wardaru](https://pl.wikipedia.org/wiki/Wardar) w wapiennych skałach, około 30 kilometrów na południowy wschód od Krivolaku. Wzdłuż rzeki biegła tam, wykuta w ścianach wąwozu, linia kolejowa z Salonik do Serbii. Innej drogi w dolinie nie było. Przez tę jedną szczelinę musiały się przecisnąć dwie dywizje francuskiej Armii Wschodu, 57 i 122, które w nocy z 3 na 4 grudnia [opuściły pozycje pod Krivolakiem](/francuzi-opuszczaja-krivolak). Przełom był pierwszą z pozycji pośrednich, które generał [Maurice Sarrail](https://pl.wikipedia.org/wiki/Maurice_Sarrail) kazał umocnić jeszcze w listopadzie.
+Brytyjska chronologia wojny notuje pod 5 grudnia 1915 roku walkę pod [Demir Kapiją](https://pl.wikipedia.org/wiki/Demir_Kapija), trwającą do 6 grudnia, w czasie odwrotu Francuzów z Serbii. Demir Kapija, po turecku Żelazna Brama, to wąski przełom [Wardaru](https://pl.wikipedia.org/wiki/Wardar) w wapiennych skałach, około 30 kilometrów na południowy wschód od Krivolaku. Wzdłuż rzeki biegła tam, wykuta w ścianach wąwozu, linia kolejowa z Salonik do Serbii. Innej drogi w dolinie nie było. Przez tę jedną szczelinę musiały się przecisnąć dwie dywizje francuskiej Armii Wschodu, 57 i 122, które w nocy z 3 na 4 grudnia [opuściły pozycje pod Krivolakiem](/francuzi-opuszczaja-krivolak). Przełom był pierwszą z pozycji pośrednich, które generał [Maurice Sarrail](/postacie/maurice-sarrail) kazał umocnić jeszcze w listopadzie.
 
 ## Przejście przez Żelazną Bramę
 

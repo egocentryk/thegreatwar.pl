@@ -15,7 +15,7 @@ draft: false
 
 ## U boku Serbii
 
-Decyzja króla [Mikołaja I](https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz) nie była zaskoczeniem. Czarnogórę łączyły z [Serbią](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wspólny język, wiara i poczucie przynależności do narodu serbskiego, a także więzy dynastyczne. Oba państwa walczyły razem w wojnach bałkańskich. Czarnogóra zarządziła mobilizację już 26 lipca, a w pierwszych dniach sierpnia uzgodniła z Serbią współpracę wojskową. Szefem sztabu jej armii został wkrótce serbski generał Božidar Janković.
+Decyzja króla [Mikołaja I](/postacie/mikolaj-i-petrowic-niegosz) nie była zaskoczeniem. Czarnogórę łączyły z [Serbią](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wspólny język, wiara i poczucie przynależności do narodu serbskiego, a także więzy dynastyczne. Oba państwa walczyły razem w wojnach bałkańskich. Czarnogóra zarządziła mobilizację już 26 lipca, a w pierwszych dniach sierpnia uzgodniła z Serbią współpracę wojskową. Szefem sztabu jej armii został wkrótce serbski generał Božidar Janković.
 
 Kilka dni później Czarnogóra wypowiedziała wojnę także Niemcom. Miało to znaczenie głównie symboliczne, bo oba kraje nie miały wspólnej granicy, ale podkreślało, że Cetynia stanęła po stronie Ententy.
 

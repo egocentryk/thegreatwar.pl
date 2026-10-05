@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 listopada 1915 roku generał Charles Townshend rozpoczął marsz na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad). Z obozu w Azizijji nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) wyruszyła jego straż przednia pod dowództwem generała Hamiltona: brygada kawalerii, bateria artylerii polowej i 18 Brygada piechoty, wspierane z rzeki przez uzbrojony holownik Sumana. Miała zająć wieś Kutunijja i rozpoznać tureckie pozycje pod Zorem. Do Bagdadu było z Azizijji około 77 kilometrów drogą lądową. Po drodze, pod Ktezyfonem, czekała armia osmańska pułkownika [Nureddina Beja](https://pl.wikipedia.org/wiki/Nureddin_Pasza), pokonana we wrześniu [pod Al-Kutem](/bitwy/pierwsza-bitwa-pod-al-kutem), ale nie rozbita.
+11 listopada 1915 roku generał Charles Townshend rozpoczął marsz na [Bagdad](https://pl.wikipedia.org/wiki/Bagdad). Z obozu w Azizijji nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) wyruszyła jego straż przednia pod dowództwem generała Hamiltona: brygada kawalerii, bateria artylerii polowej i 18 Brygada piechoty, wspierane z rzeki przez uzbrojony holownik Sumana. Miała zająć wieś Kutunijja i rozpoznać tureckie pozycje pod Zorem. Do Bagdadu było z Azizijji około 77 kilometrów drogą lądową. Po drodze, pod Ktezyfonem, czekała armia osmańska pułkownika [Nureddina Beja](/postacie/nureddin-pasza), pokonana we wrześniu [pod Al-Kutem](/bitwy/pierwsza-bitwa-pod-al-kutem), ale nie rozbita.
 
 ## Decyzja
 

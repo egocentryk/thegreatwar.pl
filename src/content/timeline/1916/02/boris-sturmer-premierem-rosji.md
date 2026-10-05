@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Na przełomie stycznia i lutego 1916 roku car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) odwołał przewodniczącego Rady Ministrów, czyli premiera Rosji, [Iwana Goriemykina](https://pl.wikipedia.org/wiki/Iwan_Goriemykin). Jego miejsce zajął [Boris Stürmer](https://pl.wikipedia.org/wiki/Boris_Stürmer), członek [Rady Państwa](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), dawny urzędnik dworu i gubernator. Brytyjska chronologia wojny notuje zmianę pod 1 lutego. Carski ukaz nosi datę 20 stycznia według kalendarza juliańskiego, czyli 2 lutego według kalendarza gregoriańskiego. Tego właśnie dnia francuski ambasador Maurice Paléologue zapisał w dzienniku, że Goriemykin został rano zwolniony „ze względów zdrowotnych”.
+Na przełomie stycznia i lutego 1916 roku car [Mikołaj II](/postacie/mikolaj-ii) odwołał przewodniczącego Rady Ministrów, czyli premiera Rosji, [Iwana Goriemykina](https://pl.wikipedia.org/wiki/Iwan_Goriemykin). Jego miejsce zajął [Boris Stürmer](https://pl.wikipedia.org/wiki/Boris_Stürmer), członek [Rady Państwa](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), dawny urzędnik dworu i gubernator. Brytyjska chronologia wojny notuje zmianę pod 1 lutego. Carski ukaz nosi datę 20 stycznia według kalendarza juliańskiego, czyli 2 lutego według kalendarza gregoriańskiego. Tego właśnie dnia francuski ambasador Maurice Paléologue zapisał w dzienniku, że Goriemykin został rano zwolniony „ze względów zdrowotnych”.
 
 ## Odejście „starca”
 
@@ -24,7 +24,7 @@ Boris Władimirowicz Stürmer urodził się w 1848 roku w majątku Bajkowo w [gu
 
 Według Paléologue'a nominacja zaskoczyła wszystkich, a w czasie wojny, gdy w Rosji szerzyła się nieufność wobec wszystkiego, co niemieckie, niemieckie nazwisko nowego premiera źle wróżyło jego popularności. Ambasador, który po nominacji zbierał o nim informacje, ocenił go bardzo surowo jako człowieka miernego, przebiegłego i pochlebczego, bez doświadczenia w sprawach państwowych. Uważał, że Stürmera wybrano właśnie dlatego, że miał być posłusznym narzędziem. Jego zdaniem kandydaturę wspierało otoczenie carycy [Aleksandry Fiodorowny](https://pl.wikipedia.org/wiki/Aleksandra_Fiodorowna_(1872–1918)) i polecił ją carowi [Grigorij Rasputin](https://pl.wikipedia.org/wiki/Grigorij_Rasputin), z którym nowy premier był w bliskich stosunkach. Przekonanie to było w stolicy szeroko rozpowszechnione i umacniało pogłoski, że o losach państwa decydują dworskie „ciemne siły”.
 
-Minister spraw zagranicznych [Siergiej Sazonow](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) przyjął zmianę z wyraźnym niepokojem. Ambasadorowi francuskiemu przypomniał oschle, że polityka zagraniczna należy wyłącznie do ministra spraw zagranicznych, który odpowiada tylko przed carem, a premier nic o niej nie wie.
+Minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) przyjął zmianę z wyraźnym niepokojem. Ambasadorowi francuskiemu przypomniał oschle, że polityka zagraniczna należy wyłącznie do ministra spraw zagranicznych, który odpowiada tylko przed carem, a premier nic o niej nie wie.
 
 ## Pierwsze tygodnie i dalsze losy
 

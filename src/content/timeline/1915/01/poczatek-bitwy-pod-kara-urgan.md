@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 8 stycznia 1915 roku początek bitwy pod Kara Urgan (tur. Karaurgan). Ta wieś leżała przy dawnej granicy rosyjsko-tureckiej, na drodze z [Erzurum](https://pl.wikipedia.org/wiki/Erzurum) do Sarykamyszu, około 40 kilometrów od miasteczka. Walczyły tu osmański XI Korpus i rosyjska straż tylna generała [Nikołaja Judenicza](https://pl.wikipedia.org/wiki/Nikołaj_Judenicz). Bitwa była ostatnim etapem zmagań pod Sarykamyszem. Walki w tym rejonie trwały już od ostatnich dni grudnia. Z datą 8 stycznia zgadza się jednak w przybliżeniu meldunek nowego dowódcy 3 Armii, Hafıza Hakkı, który 13 stycznia pisał o sześciu dniach krwawych walk na odcinku XI Korpusu.
+Brytyjska chronologia wojny odnotowuje pod 8 stycznia 1915 roku początek bitwy pod Kara Urgan (tur. Karaurgan). Ta wieś leżała przy dawnej granicy rosyjsko-tureckiej, na drodze z [Erzurum](https://pl.wikipedia.org/wiki/Erzurum) do Sarykamyszu, około 40 kilometrów od miasteczka. Walczyły tu osmański XI Korpus i rosyjska straż tylna generała [Nikołaja Judenicza](/postacie/nikolaj-judenicz). Bitwa była ostatnim etapem zmagań pod Sarykamyszem. Walki w tym rejonie trwały już od ostatnich dni grudnia. Z datą 8 stycznia zgadza się jednak w przybliżeniu meldunek nowego dowódcy 3 Armii, Hafıza Hakkı, który 13 stycznia pisał o sześciu dniach krwawych walk na odcinku XI Korpusu.
 
 ## XI Korpus nad Araksem
 

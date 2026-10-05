@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-17 października 1918 roku o 5.20 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)) uderzyła na niemiecką pozycję za rzeką Selle, na południe od [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis). Trzy korpusy, brytyjski IX i XIII oraz amerykański II, przeprawiły się przez rzekę w gęstej mgle, wdarły się w nową niemiecką linię obrony, nazwaną pozycją Hermanna, i po całodziennych walkach stanęły na grzbiecie za doliną. Wieczorem w rękach brytyjskich było Le Cateau, miasteczko, pod którym w sierpniu 1914 roku Brytyjski Korpus Ekspedycyjny [przyjął bitwę](/bitwy/bitwa-pod-le-cateau) w czasie odwrotu spod Mons.
+17 października 1918 roku o 5.20 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) uderzyła na niemiecką pozycję za rzeką Selle, na południe od [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis). Trzy korpusy, brytyjski IX i XIII oraz amerykański II, przeprawiły się przez rzekę w gęstej mgle, wdarły się w nową niemiecką linię obrony, nazwaną pozycją Hermanna, i po całodziennych walkach stanęły na grzbiecie za doliną. Wieczorem w rękach brytyjskich było Le Cateau, miasteczko, pod którym w sierpniu 1914 roku Brytyjski Korpus Ekspedycyjny [przyjął bitwę](/bitwy/bitwa-pod-le-cateau) w czasie odwrotu spod Mons.
 
 ## Przed natarciem
 

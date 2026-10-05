@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 marca 1916 roku półurzędowa agencja Wolffa ogłosiła w Berlinie, że wielki admirał [Alfred von Tirpitz](https://pl.wikipedia.org/wiki/Alfred_von_Tirpitz) [odchodzi](/dymisja-alfreda-von-tirpitza) z Urzędu Marynarki Rzeszy (Reichsmarineamt), a jego następcą zostaje admirał Eduard von Capelle. Nowy sekretarz stanu nie był w marynarce postacią nową. Przez prawie dwadzieścia lat należał do najbliższych współpracowników Tirpitza, a jego nominacja miała uspokoić tych, którzy w dymisji twórcy floty widzieli kapitulację przed kanclerzem.
+15 marca 1916 roku półurzędowa agencja Wolffa ogłosiła w Berlinie, że wielki admirał [Alfred von Tirpitz](/postacie/alfred-von-tirpitz) [odchodzi](/dymisja-alfreda-von-tirpitza) z Urzędu Marynarki Rzeszy (Reichsmarineamt), a jego następcą zostaje admirał Eduard von Capelle. Nowy sekretarz stanu nie był w marynarce postacią nową. Przez prawie dwadzieścia lat należał do najbliższych współpracowników Tirpitza, a jego nominacja miała uspokoić tych, którzy w dymisji twórcy floty widzieli kapitulację przed kanclerzem.
 
 Capelle urodził się w 1855 roku w [Celle](https://pl.wikipedia.org/wiki/Celle) jako syn fabrykanta. Do marynarki wstąpił w 1872 roku, a od początku lat 90. pracował w Urzędzie Marynarki Rzeszy. Za Tirpitza kierował wydziałem budżetowym, a potem departamentem administracyjnym. Uchodził za mistrza finansów i budżetów i to on w dużej mierze przygotowywał projekty kolejnych ustaw o rozbudowie floty, a także ich uzupełnień z lat 1906, 1908 i 1912. W 1912 roku otrzymał szlachectwo, a w 1913 roku awansował na admirała. W 1914 roku był już zastępcą Tirpitza. W czasie kryzysu lipcowego, gdy sekretarz stanu przebywał na urlopie, Capelle zastępował go w Berlinie.
 

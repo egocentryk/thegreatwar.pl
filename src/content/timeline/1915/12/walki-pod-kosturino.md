@@ -16,7 +16,7 @@ draft: false
 
 ## Mgła i Rocky Peak
 
-Bułgarska artyleria ostrzeliwała grzbiet Kosturino od 4 grudnia, a po południu 6 grudnia piechota 2 Armii generała [Georgiego Todorowa](https://pl.wikipedia.org/wiki/Georgi_Todorow_(generał)) przypuściła pierwsze ataki. Odparto je, ale przed świtem 7 grudnia Bułgarzy podeszli w gęstej mgle żlebami pod wysuniętą placówkę, którą Brytyjczycy nazywali Rocky Peak, i zdobyli ją na bagnety. Broniła jej tylko jedna kompania batalionu Royal Irish Fusiliers. Według brytyjskiej historii oficjalnej obrońcy do ostatniej chwili nie mogli odróżnić swoich od wrogów, bo mundury obu stron były bardzo podobne. Z kopy, która górowała nad linią 30 Brygady, bułgarskie karabiny maszynowe, a wkrótce i bateria górska zaczęły ostrzeliwać brytyjskie okopy z flanki. Brytyjska historia oficjalna uważała utratę Rocky Peak za główną przyczynę klęski tego dnia.
+Bułgarska artyleria ostrzeliwała grzbiet Kosturino od 4 grudnia, a po południu 6 grudnia piechota 2 Armii generała [Georgiego Todorowa](/postacie/georgi-todorow) przypuściła pierwsze ataki. Odparto je, ale przed świtem 7 grudnia Bułgarzy podeszli w gęstej mgle żlebami pod wysuniętą placówkę, którą Brytyjczycy nazywali Rocky Peak, i zdobyli ją na bagnety. Broniła jej tylko jedna kompania batalionu Royal Irish Fusiliers. Według brytyjskiej historii oficjalnej obrońcy do ostatniej chwili nie mogli odróżnić swoich od wrogów, bo mundury obu stron były bardzo podobne. Z kopy, która górowała nad linią 30 Brygady, bułgarskie karabiny maszynowe, a wkrótce i bateria górska zaczęły ostrzeliwać brytyjskie okopy z flanki. Brytyjska historia oficjalna uważała utratę Rocky Peak za główną przyczynę klęski tego dnia.
 
 ## Przełamanie
 

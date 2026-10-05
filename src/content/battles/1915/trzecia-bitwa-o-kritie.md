@@ -31,7 +31,7 @@ Siły sprzymierzonych pod Helles urosły. 24 maja trzy brytyjskie dywizje, czyli
 
 Jednocześnie aliantom ubyło wsparcia z morza. Po [zatopieniu przez U-21](/zatopienie-pancernika-majestic) pancerników Triumph i Majestic ciężkie okręty wycofano do osłoniętych portów. Te, które miały wspierać atak, mogły strzelać tylko w ruchu, z prędkością 12 węzłów, zmieniając kurs co dziesięć minut. Brytyjczycy mieli na lądzie 78 dział i haubic, a przy tym głównie szrapnele, bo pocisków burzących brakowało.
 
-Generał [Ian Hamilton](https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)) wolałby zaczekać na posiłki z Anglii. Na jego prośbę z 17 maja o cztery nowe dywizje rząd w Londynie, zajęty [tworzeniem gabinetu koalicyjnego](/rzad-koalicyjny-asquitha), odpowiedział tylko zapowiedzią jednej dywizji. Obaj dowódcy korpusów pod Helles byli jednak pewni, że zdobędą Achi Baba siłami, które już mają, a z każdym dniem Turcy umacniali się i dostawali posiłki. 31 maja Hamilton zgodził się na nową bitwę. Gdy 3 czerwca lord [Kitchener](/postacie/horatio-kitchener) zapytał go depeszą, czy z posiłkami, o które prosił, zdoła zdobyć pozycję Kilid Bahr i zakończyć operację, Hamilton odpisał krótko, że jutro toczy bitwę i woli odpowiedzieć, gdy zobaczy jej wynik.
+Generał [Ian Hamilton](/postacie/ian-hamilton) wolałby zaczekać na posiłki z Anglii. Na jego prośbę z 17 maja o cztery nowe dywizje rząd w Londynie, zajęty [tworzeniem gabinetu koalicyjnego](/rzad-koalicyjny-asquitha), odpowiedział tylko zapowiedzią jednej dywizji. Obaj dowódcy korpusów pod Helles byli jednak pewni, że zdobędą Achi Baba siłami, które już mają, a z każdym dniem Turcy umacniali się i dostawali posiłki. 31 maja Hamilton zgodził się na nową bitwę. Gdy 3 czerwca lord [Kitchener](/postacie/horatio-kitchener) zapytał go depeszą, czy z posiłkami, o które prosił, zdoła zdobyć pozycję Kilid Bahr i zakończyć operację, Hamilton odpisał krótko, że jutro toczy bitwę i woli odpowiedzieć, gdy zobaczy jej wynik.
 
 ## Plan
 
@@ -41,7 +41,7 @@ Ostrzał miał trwać od 8 rano. O 11.20 działa na kwadrans milkły, a piechota
 
 Od zachodu do wschodu na froncie stały: 29 Brygada Indyjska na grzbiecie Gully Spur i w wąwozie Gully Ravine nad Morzem Egejskim, 88 Brygada z 29 Dywizji na grzbiecie Fir Tree Spur, 42 Dywizja po obu stronach drogi na Kritię, Dywizja Marynarki naprzeciw wąwozu Kanli Dere i dwie francuskie dywizje na grzbiecie nad Kereves Dere, po stronie cieśniny. Do pierwszego uderzenia przeznaczono około 20 tysięcy ludzi, a 10 tysięcy trzymano w odwodach obu korpusów.
 
-Po stronie tureckiej dowodził Grupą Południową niemiecki generał Erich Weber, zwany Weberem Paszą, podlegający [Ottonowi Limanowi von Sandersowi](https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders). W pierwszej linii stały 9 i 12 Dywizja, a w odwodzie kolejne trzy, w tym 7 i 15. Po majowych walkach dywizje były przemieszane i składały się z batalionów z wielu jednostek. Brytyjska historia oficjalna szacuje siłę obrońców na 25–28 tysięcy karabinów i 86 dział. Tureckie opracowania podają liczby nieco niższe.
+Po stronie tureckiej dowodził Grupą Południową niemiecki generał Erich Weber, zwany Weberem Paszą, podlegający [Ottonowi Limanowi von Sandersowi](/postacie/otto-liman-von-sanders). W pierwszej linii stały 9 i 12 Dywizja, a w odwodzie kolejne trzy, w tym 7 i 15. Po majowych walkach dywizje były przemieszane i składały się z batalionów z wielu jednostek. Brytyjska historia oficjalna szacuje siłę obrońców na 25–28 tysięcy karabinów i 86 dział. Tureckie opracowania podają liczby nieco niższe.
 
 ## Przebieg
 

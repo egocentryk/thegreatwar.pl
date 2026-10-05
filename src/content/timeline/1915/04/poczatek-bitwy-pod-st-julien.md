@@ -16,7 +16,7 @@ draft: false
 
 ## Wierzchołek łuku
 
-Po dwóch dniach walk, opisanych jako [bitwa o grzbiet Gravenstafel](/poczatek-bitwy-o-grzbiet-gravenstafel), kanadyjski front tworzył ostry klin. Jego wierzchołek leżał przy skrzyżowaniu w Keerselare, gdzie droga z Sint-Juliaan do Poelkapelle przecinała dawną pierwszą linię. Na prawo od skrzyżowania, ku grzbietowi Gravenstafel, stał 8 Batalion z 2 Brygady generała [Arthura Curriego](https://pl.wikipedia.org/wiki/Arthur_Currie), a na lewo, na linii zagiętej ku Sint-Juliaan, 15 Batalion z 3 Brygady generała Richarda Turnera. Dalej na zachód, między Sint-Juliaan a kanałem, ciągnęła się cienka linia kanadyjskich i brytyjskich batalionów, zebranych w pośpiechu po 22 kwietnia. Wiele oddziałów straciło już połowę stanu, a żołnierze nie spali od dwóch dób.
+Po dwóch dniach walk, opisanych jako [bitwa o grzbiet Gravenstafel](/poczatek-bitwy-o-grzbiet-gravenstafel), kanadyjski front tworzył ostry klin. Jego wierzchołek leżał przy skrzyżowaniu w Keerselare, gdzie droga z Sint-Juliaan do Poelkapelle przecinała dawną pierwszą linię. Na prawo od skrzyżowania, ku grzbietowi Gravenstafel, stał 8 Batalion z 2 Brygady generała [Arthura Curriego](/postacie/arthur-currie), a na lewo, na linii zagiętej ku Sint-Juliaan, 15 Batalion z 3 Brygady generała Richarda Turnera. Dalej na zachód, między Sint-Juliaan a kanałem, ciągnęła się cienka linia kanadyjskich i brytyjskich batalionów, zebranych w pośpiechu po 22 kwietnia. Wiele oddziałów straciło już połowę stanu, a żołnierze nie spali od dwóch dób.
 
 ## Druga chmura
 

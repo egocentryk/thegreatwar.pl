@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny kończy trzecią bitwę nad Isonzo 3 listopada 1915 roku. Tego dnia Włosi przypuścili ostatnie wielkie szturmy na przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i Monte San Michele, które się załamały. Włoska i austro-węgierska historia oficjalna liczą bitwę o dzień dłużej, do 4 listopada. Rano tego dnia obrońcy odzyskali ostatnie okopy na wzgórzu Podgora, a wieczorem generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) kazał wstrzymać natarcia. Stąd w opracowaniach obie daty, 3 i 4 listopada.
+Brytyjska chronologia wojny kończy trzecią bitwę nad Isonzo 3 listopada 1915 roku. Tego dnia Włosi przypuścili ostatnie wielkie szturmy na przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i Monte San Michele, które się załamały. Włoska i austro-węgierska historia oficjalna liczą bitwę o dzień dłużej, do 4 listopada. Rano tego dnia obrońcy odzyskali ostatnie okopy na wzgórzu Podgora, a wieczorem generał [Luigi Cadorna](/postacie/luigi-cadorna) kazał wstrzymać natarcia. Stąd w opracowaniach obie daty, 3 i 4 listopada.
 
 ## Oslavia i Podgora
 

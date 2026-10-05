@@ -15,7 +15,7 @@ Brytyjska chronologia wojny notuje pod 5 marca 1916 roku, że razem z premierem 
 
 ## Zawodowy dyplomata
 
-Ansari urodził się w 1868 roku w rodzinie urzędników perskiej dyplomacji. Jego dziadek, Mirza Masud Chan Ansari, był ministrem spraw zagranicznych za szacha Mohammada w pierwszej połowie XIX wieku, a ojciec służył w perskich placówkach w [Trabzonie](https://pl.wikipedia.org/wiki/Trabzon) i [Astrachaniu](https://pl.wikipedia.org/wiki/Astrachań). Tam syn nauczył się francuskiego i rosyjskiego. Do ministerstwa wstąpił jako tłumacz i w tej roli towarzyszył perskiej delegacji na koronacji cara [Mikołaja II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) w 1896 roku. W latach 1902–1903 był pierwszym sekretarzem perskiego przedstawicielstwa w Moskwie, a w 1911 roku został wiceministrem spraw zagranicznych. Był więc urzędnikiem, a nie politykiem, i znał Rosję lepiej niż większość ówczesnych ministrów.
+Ansari urodził się w 1868 roku w rodzinie urzędników perskiej dyplomacji. Jego dziadek, Mirza Masud Chan Ansari, był ministrem spraw zagranicznych za szacha Mohammada w pierwszej połowie XIX wieku, a ojciec służył w perskich placówkach w [Trabzonie](https://pl.wikipedia.org/wiki/Trabzon) i [Astrachaniu](https://pl.wikipedia.org/wiki/Astrachań). Tam syn nauczył się francuskiego i rosyjskiego. Do ministerstwa wstąpił jako tłumacz i w tej roli towarzyszył perskiej delegacji na koronacji cara [Mikołaja II](/postacie/mikolaj-ii) w 1896 roku. W latach 1902–1903 był pierwszym sekretarzem perskiego przedstawicielstwa w Moskwie, a w 1911 roku został wiceministrem spraw zagranicznych. Był więc urzędnikiem, a nie politykiem, i znał Rosję lepiej niż większość ówczesnych ministrów.
 
 ## Krótka kadencja
 

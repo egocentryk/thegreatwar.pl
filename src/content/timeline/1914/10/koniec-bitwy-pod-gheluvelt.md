@@ -50,7 +50,7 @@ French pojechał do generała [Ferdinanda Focha](/postacie/ferdinand-foch), któ
 
 ## Noc
 
-Około 16 Haig pojechał do dowódców na froncie. Biorąc pod uwagę położenie dalej na południe, uznał, że wysuniętej, płonącej wsi, ostrzeliwanej przez artylerię obu stron, nie warto utrzymywać, i nakazał ją opuścić. Po zmroku Brytyjczycy zabrali rannych i przeszli na nową linię, kilkaset metrów na zachód od wsi. Niemcy tego nie zauważyli, a ich zwiadowcy pojawili się w Gheluvelt dopiero o 5 rano. Na południe od drogi z Menin brygady kawalerii generała [Juliana Bynga](https://pl.wikipedia.org/wiki/Julian_Byng) pomogły wieczorem batalionom Bulfina oczyścić lasy z Niemców i zamknąć ostatnią lukę na odcinku 7 Dywizji.
+Około 16 Haig pojechał do dowódców na froncie. Biorąc pod uwagę położenie dalej na południe, uznał, że wysuniętej, płonącej wsi, ostrzeliwanej przez artylerię obu stron, nie warto utrzymywać, i nakazał ją opuścić. Po zmroku Brytyjczycy zabrali rannych i przeszli na nową linię, kilkaset metrów na zachód od wsi. Niemcy tego nie zauważyli, a ich zwiadowcy pojawili się w Gheluvelt dopiero o 5 rano. Na południe od drogi z Menin brygady kawalerii generała [Juliana Bynga](/postacie/julian-byng) pomogły wieczorem batalionom Bulfina oczyścić lasy z Niemców i zamknąć ostatnią lukę na odcinku 7 Dywizji.
 
 Na południu, na grzbiecie Messines, kawaleria, żołnierze indyjscy i batalion ochotników London Scottish przez cały dzień bronili się przed wirtemberską 26 Dywizją, która wdarła się do miasteczka. W nocy Niemcy uderzyli na Wytschaete. Wieczorem cesarz przesłał grupie Fabecka gorące podziękowania, ale niemiecka historia oficjalna przyznawała, że celu natarcia nie osiągnięto.
 

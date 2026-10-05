@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-11 marca 1916 roku włoska artyleria otworzyła silny ogień wszystkich kalibrów na pozycje austro-węgierskiej 5 Armii nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od przedmościa [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) po wybrzeże pod [Monfalcone](https://pl.wikipedia.org/wiki/Monfalcone). Tym ostrzałem zaczęła się piąta bitwa nad Isonzo, pierwsza włoska ofensywa 1916 roku. Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) prowadził ją bez przekonania. Nie chodziło mu o przełamanie frontu, lecz o spełnienie zobowiązania wobec Francji, która od trzech tygodni odpierała niemieckie natarcie [pod Verdun](/bitwy/bitwa-pod-verdun).
+11 marca 1916 roku włoska artyleria otworzyła silny ogień wszystkich kalibrów na pozycje austro-węgierskiej 5 Armii nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od przedmościa [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) po wybrzeże pod [Monfalcone](https://pl.wikipedia.org/wiki/Monfalcone). Tym ostrzałem zaczęła się piąta bitwa nad Isonzo, pierwsza włoska ofensywa 1916 roku. Generał [Luigi Cadorna](/postacie/luigi-cadorna) prowadził ją bez przekonania. Nie chodziło mu o przełamanie frontu, lecz o spełnienie zobowiązania wobec Francji, która od trzech tygodni odpierała niemieckie natarcie [pod Verdun](/bitwy/bitwa-pod-verdun).
 
 ## Data
 

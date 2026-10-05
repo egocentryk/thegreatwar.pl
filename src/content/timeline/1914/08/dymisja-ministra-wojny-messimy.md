@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-26 sierpnia 1914 roku stanowisko stracił francuski minister wojny Adolphe Messimy, który kierował resortem od połowy czerwca 1914 roku. Premier [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) przebudował tego dnia rząd, a tekę ministra wojny przejął [Alexandre Millerand](https://pl.wikipedia.org/wiki/Alexandre_Millerand).
+26 sierpnia 1914 roku stanowisko stracił francuski minister wojny Adolphe Messimy, który kierował resortem od połowy czerwca 1914 roku. Premier [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) przebudował tego dnia rząd, a tekę ministra wojny przejął [Alexandre Millerand](/postacie/alexandre-millerand).
 
 ## Minister pierwszych tygodni wojny
 
@@ -20,7 +20,7 @@ W sierpniu 1914 roku kierował mobilizacją i przestawieniem kraju na tory wojen
 
 ## Rząd jedności narodowej
 
-Zmiana nie wynikała tylko z niepowodzeń na froncie. Viviani i prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) chcieli poszerzyć rząd o najbardziej znanych polityków różnych obozów, by nadać realny kształt ogłoszonej na początku wojny „świętej jedności” (union sacrée). Do gabinetu weszli między innymi [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand) jako minister sprawiedliwości, Alexandre Ribot jako minister finansów, a także po raz pierwszy socjaliści: [Jules Guesde](https://pl.wikipedia.org/wiki/Jules_Guesde) jako minister bez teki i Marcel Sembat jako minister robót publicznych. Ministerstwo spraw zagranicznych objął Théophile Delcassé.
+Zmiana nie wynikała tylko z niepowodzeń na froncie. Viviani i prezydent [Raymond Poincaré](/postacie/raymond-poincare) chcieli poszerzyć rząd o najbardziej znanych polityków różnych obozów, by nadać realny kształt ogłoszonej na początku wojny „świętej jedności” (union sacrée). Do gabinetu weszli między innymi [Aristide Briand](/postacie/aristide-briand) jako minister sprawiedliwości, Alexandre Ribot jako minister finansów, a także po raz pierwszy socjaliści: [Jules Guesde](https://pl.wikipedia.org/wiki/Jules_Guesde) jako minister bez teki i Marcel Sembat jako minister robót publicznych. Ministerstwo spraw zagranicznych objął Théophile Delcassé.
 
 Messimy, uważany przez kolegów za zbyt porywczego i bezpośredniego, musiał ustąpić miejsca Millerandowi. Zaproponowano mu stanowisko ministra bez teki, ale odmówił, nie chcąc brać udziału w czysto politycznej operacji.
 

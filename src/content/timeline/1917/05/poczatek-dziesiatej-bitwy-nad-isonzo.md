@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-12 maja 1917 roku, ledwie zaczęło świtać, na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od [Tolmina](https://pl.wikipedia.org/wiki/Tolmin) po Adriatyk, odezwały się włoskie działa. Ogień szybko urósł do siły, jakiej ten front jeszcze nie znał. Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) rozpoczynał dziesiątą bitwę nad Isonzo, pierwszą od pół roku i największą ze wszystkich dotychczasowych. Tym razem nie chciał tylko wgryźć się w płaskowyż [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) na drodze do [Triestu](https://pl.wikipedia.org/wiki/Triest), jak w trzech jesiennych bitwach 1916 roku. Najpierw zamierzał zdobyć góry na północ od [Gorycji](https://pl.wikipedia.org/wiki/Gorycja), a dopiero potem zadać decydujący cios na Krasie.
+12 maja 1917 roku, ledwie zaczęło świtać, na całym froncie nad [Soczą](https://pl.wikipedia.org/wiki/Socza), od [Tolmina](https://pl.wikipedia.org/wiki/Tolmin) po Adriatyk, odezwały się włoskie działa. Ogień szybko urósł do siły, jakiej ten front jeszcze nie znał. Generał [Luigi Cadorna](/postacie/luigi-cadorna) rozpoczynał dziesiątą bitwę nad Isonzo, pierwszą od pół roku i największą ze wszystkich dotychczasowych. Tym razem nie chciał tylko wgryźć się w płaskowyż [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) na drodze do [Triestu](https://pl.wikipedia.org/wiki/Triest), jak w trzech jesiennych bitwach 1916 roku. Najpierw zamierzał zdobyć góry na północ od [Gorycji](https://pl.wikipedia.org/wiki/Gorycja), a dopiero potem zadać decydujący cios na Krasie.
 
 ## Plan Cadorny
 

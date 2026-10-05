@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-17 marca 1917 roku, w sobotę wieczorem, premier Francji [Aristide Briand](https://pl.wikipedia.org/wiki/Aristide_Briand) złożył na ręce prezydenta [Raymonda Poincarégo](https://pl.wikipedia.org/wiki/Raymond_Poincaré) dymisję swojego rządu. Upadł w ten sposób szósty gabinet Brianda, utworzony zaledwie trzy miesiące wcześniej. Bezpośrednią przyczyną było odejście ministra wojny, generała Huberta Lyauteya, który [trzy dni wcześniej](/dymisja-lyauteya) podał się do dymisji po burzliwej scenie w Izbie Deputowanych. Formalnie gabinet sprawował urząd do 20 marca, gdy powołano jego następców, dlatego część źródeł podaje tę datę jako koniec rządu.
+17 marca 1917 roku, w sobotę wieczorem, premier Francji [Aristide Briand](/postacie/aristide-briand) złożył na ręce prezydenta [Raymonda Poincarégo](/postacie/raymond-poincare) dymisję swojego rządu. Upadł w ten sposób szósty gabinet Brianda, utworzony zaledwie trzy miesiące wcześniej. Bezpośrednią przyczyną było odejście ministra wojny, generała Huberta Lyauteya, który [trzy dni wcześniej](/dymisja-lyauteya) podał się do dymisji po burzliwej scenie w Izbie Deputowanych. Formalnie gabinet sprawował urząd do 20 marca, gdy powołano jego następców, dlatego część źródeł podaje tę datę jako koniec rządu.
 
 ## Trzy dni kryzysu
 

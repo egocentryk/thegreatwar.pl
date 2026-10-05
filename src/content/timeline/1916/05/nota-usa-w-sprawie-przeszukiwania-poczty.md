@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 26 maja 1916 roku notę rządu Stanów Zjednoczonych protestującą przeciw przeszukiwaniu poczty. Według amerykańskich dokumentów dyplomatycznych sekretarz stanu [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) wręczył ją w Waszyngtonie dwa dni wcześniej, 24 maja. Dwie jednobrzmiące noty otrzymali ambasador Francji [Jean Jules Jusserand](https://pl.wikipedia.org/wiki/Jean_Jules_Jusserand) i ambasador Wielkiej Brytanii Cecil Spring Rice. Był to ostry protest w sprawie poczty, którą alianci zabierali ze statków płynących między Ameryką a neutralnymi krajami Europy.
+Brytyjska chronologia wojny notuje pod 26 maja 1916 roku notę rządu Stanów Zjednoczonych protestującą przeciw przeszukiwaniu poczty. Według amerykańskich dokumentów dyplomatycznych sekretarz stanu [Robert Lansing](/postacie/robert-lansing) wręczył ją w Waszyngtonie dwa dni wcześniej, 24 maja. Dwie jednobrzmiące noty otrzymali ambasador Francji [Jean Jules Jusserand](https://pl.wikipedia.org/wiki/Jean_Jules_Jusserand) i ambasador Wielkiej Brytanii Cecil Spring Rice. Był to ostry protest w sprawie poczty, którą alianci zabierali ze statków płynących między Ameryką a neutralnymi krajami Europy.
 
 ## Poczta w blokadzie
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-5 grudnia 1916 roku około 19.00 brytyjski premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) pojechał do króla [Jerzego V](https://pl.wikipedia.org/wiki/Jerzy_V) i złożył dymisję. Ustąpił, gdy stało się jasne, że bez [Davida Lloyda George’a](https://pl.wikipedia.org/wiki/David_Lloyd_George) i konserwatystów nie zdoła dalej rządzić. Dzień wcześniej uzyskał od króla zgodę na przebudowę rządu, tak by wszyscy ministrowie złożyli teki do jego dyspozycji. Liczył wtedy, że w ten sposób odzyska inicjatywę, a nie że odejdzie. Brytyjska chronologia wojny podaje właśnie 4 grudnia jako dzień dymisji premiera. Tak zakończyły się ponad osiem i pół roku jego premierostwa, najdłuższe nieprzerwane od lat 20. XIX wieku, i trwający niespełna tydzień kryzys, o którym historycy spierają się do dziś.
+5 grudnia 1916 roku około 19.00 brytyjski premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) pojechał do króla [Jerzego V](/postacie/jerzy-v) i złożył dymisję. Ustąpił, gdy stało się jasne, że bez [Davida Lloyda George’a](/postacie/david-lloyd-george) i konserwatystów nie zdoła dalej rządzić. Dzień wcześniej uzyskał od króla zgodę na przebudowę rządu, tak by wszyscy ministrowie złożyli teki do jego dyspozycji. Liczył wtedy, że w ten sposób odzyska inicjatywę, a nie że odejdzie. Brytyjska chronologia wojny podaje właśnie 4 grudnia jako dzień dymisji premiera. Tak zakończyły się ponad osiem i pół roku jego premierostwa, najdłuższe nieprzerwane od lat 20. XIX wieku, i trwający niespełna tydzień kryzys, o którym historycy spierają się do dziś.
 
 ## Rząd, który nie nadążał
 
@@ -44,7 +44,7 @@ Asquith zdecydował się jednak na konfrontację. Jeszcze tego dnia był u król
 
 ## Ostatni dzień premiera
 
-5 grudnia Lloyd George odpowiedział, że skoro wszelka zwłoka jest na wojnie zgubna, oddaje swój urząd do dyspozycji premiera. Tego Asquith się spodziewał. Zaskoczył go natomiast list pierwszego lorda Admiralicji [Arthura Balfoura](https://pl.wikipedia.org/wiki/Arthur_Balfour), złożonego chorobą i dotąd stojącego z boku. Balfour pisał, że plan Lloyda George’a zasługuje na próbę, a on sam nie zamierza trzymać się Admiralicji, jeśli nowy komitet go tam nie zechce. Część historyków uważa ten list za prawdziwy punkt zwrotny kryzysu.
+5 grudnia Lloyd George odpowiedział, że skoro wszelka zwłoka jest na wojnie zgubna, oddaje swój urząd do dyspozycji premiera. Tego Asquith się spodziewał. Zaskoczył go natomiast list pierwszego lorda Admiralicji [Arthura Balfoura](/postacie/arthur-balfour), złożonego chorobą i dotąd stojącego z boku. Balfour pisał, że plan Lloyda George’a zasługuje na próbę, a on sam nie zamierza trzymać się Admiralicji, jeśli nowy komitet go tam nie zechce. Część historyków uważa ten list za prawdziwy punkt zwrotny kryzysu.
 
 O 15.00 premier przyjął Chamberlaina, Curzona i Cecila. Trzej konserwatyści oświadczyli, że nie wejdą do rządu bez Lawa i Lloyda George’a, bo taki gabinet nie dawałby szans na stabilność. Na pytanie, czy służyliby pod Lloydem George’em, odpowiedzieli, że tak, jeśli zdoła on stworzyć stabilny rząd. Gdy Balfour w kolejnym liście odmówił zmiany decyzji, liberalni ministrowie uznali, że nie ma innego wyjścia. Minister spraw wewnętrznych [Herbert Samuel](https://pl.wikipedia.org/wiki/Herbert_Samuel) zanotował, że bez Lloyda George’a i unionistów rząd nie mógłby dalej działać i nie powinien nawet stwarzać wrażenia, że próbuje.
 

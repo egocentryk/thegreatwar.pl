@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-6 sierpnia 1914 roku ambasador [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabia Friedrich Szápáry, wręczył rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) wypowiedzenie wojny. Monarchia habsburska uzasadniała je wrogą postawą Rosji w konflikcie z Serbią oraz tym, że [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) znalazła się w stanie wojny z Niemcami, sojusznikiem Wiednia.
+6 sierpnia 1914 roku ambasador [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabia Friedrich Szápáry, wręczył rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) wypowiedzenie wojny. Monarchia habsburska uzasadniała je wrogą postawą Rosji w konflikcie z Serbią oraz tym, że [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) znalazła się w stanie wojny z Niemcami, sojusznikiem Wiednia.
 
 ## Spóźniona deklaracja
 

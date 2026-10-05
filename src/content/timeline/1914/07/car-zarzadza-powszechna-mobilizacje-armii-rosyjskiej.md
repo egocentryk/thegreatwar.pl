@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 lipca 1914 roku po południu car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) zgodził się na powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) [armii rosyjskiej](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Zaledwie dzień wcześniej wstrzymał tę samą decyzję w ostatniej chwili, ograniczając się do mobilizacji częściowej przeciw Austro-Węgrom. Tym razem nie zmienił już zdania.
+30 lipca 1914 roku po południu car [Mikołaj II](/postacie/mikolaj-ii) zgodził się na powszechną [mobilizację](https://pl.wikipedia.org/wiki/Mobilizacja) [armii rosyjskiej](https://pl.wikipedia.org/wiki/Armia_Imperium_Rosyjskiego). Zaledwie dzień wcześniej wstrzymał tę samą decyzję w ostatniej chwili, ograniczając się do mobilizacji częściowej przeciw Austro-Węgrom. Tym razem nie zmienił już zdania.
 
 ## Dlaczego częściowa mobilizacja nie wystarczyła
 
@@ -18,7 +18,7 @@ Rosyjscy wojskowi od początku przekonywali, że mobilizacja samych okręgów wy
 
 ## Rozmowa w Peterhofie
 
-Około godziny 15 minister spraw zagranicznych [Siergiej Sazonow](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) przybył do cara do [Peterhofu](https://pl.wikipedia.org/wiki/Peterhof). Przekonywał, że mobilizacja powszechna jest konieczna, bo Niemcy są zdecydowane doprowadzić do wojny. Mikołaj II długo się wahał. Według relacji Sazonowa mówił o odpowiedzialności, jaką na niego nakładają, i o tysiącach ludzi, którzy zostaną wysłani na śmierć. Około godziny 16 ustąpił.
+Około godziny 15 minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) przybył do cara do [Peterhofu](https://pl.wikipedia.org/wiki/Peterhof). Przekonywał, że mobilizacja powszechna jest konieczna, bo Niemcy są zdecydowane doprowadzić do wojny. Mikołaj II długo się wahał. Według relacji Sazonowa mówił o odpowiedzialności, jaką na niego nakładają, i o tysiącach ludzi, którzy zostaną wysłani na śmierć. Około godziny 16 ustąpił.
 
 Sazonow natychmiast przekazał decyzję telefonicznie szefowi sztabu generalnego [Nikołajowi Januszkiewiczowi](https://pl.wikipedia.org/wiki/Nikołaj_Januszkiewicz). Generał już wcześniej zapowiadał, że gdy otrzyma zgodę, rozbije telefon i zniknie, by nikt nie zdążył jej ponownie odwołać. Około godziny 17 wydano oficjalny rozkaz, a telegramy mobilizacyjne rozesłano wieczorem do wszystkich okręgów wojskowych imperium. Pierwszym dniem mobilizacji był 31 lipca.
 

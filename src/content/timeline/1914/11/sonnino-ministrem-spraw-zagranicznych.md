@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Na początku listopada 1914 roku baron [Sidney Sonnino](https://pl.wikipedia.org/wiki/Sidney_Sonnino) został ministrem spraw zagranicznych Włoch. Zastąpił premiera [Antonia Salandrę](https://pl.wikipedia.org/wiki/Antonio_Salandra), który kierował dyplomacją tymczasowo od [śmierci Antonina di San Giuliano](/umiera-antonino-di-san-giuliano) w połowie października. Nominacja była częścią [przebudowy rządu](/rekonstrukcja-rzadu-salandry), którą Salandra rozpoczął pod koniec października.
+Na początku listopada 1914 roku baron [Sidney Sonnino](/postacie/sidney-sonnino) został ministrem spraw zagranicznych Włoch. Zastąpił premiera [Antonia Salandrę](/postacie/antonio-salandra), który kierował dyplomacją tymczasowo od [śmierci Antonina di San Giuliano](/umiera-antonino-di-san-giuliano) w połowie października. Nominacja była częścią [przebudowy rządu](/rekonstrukcja-rzadu-salandry), którą Salandra rozpoczął pod koniec października.
 
 ## 3 czy 5 listopada?
 
@@ -28,4 +28,4 @@ W grudniu 1914 roku Sonnino rozpoczął rozmowy z Wiedniem. Powołał się na ar
 
 Równolegle Sonnino badał, co może zaoferować Ententa. 4 marca 1915 roku ambasador włoski w Londynie, markiz Guglielmo Imperiali, przedstawił ministrowi [Edwardowi Greyowi](/postacie/edward-grey) włoskie warunki. Po kilku tygodniach targów, 26 kwietnia 1915 roku, podpisano tajny [traktat londyński](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)). Ententa obiecała Włochom między innymi Trydent i południowy Tyrol aż po przełęcz Brenner, Triest, [Istrię](https://pl.wikipedia.org/wiki/Istria), część [Dalmacji](https://pl.wikipedia.org/wiki/Dalmacja) i albańską [Wlorę](https://pl.wikipedia.org/wiki/Wlora). Miasto Fiume (dziś Rijeka) nie znalazło się na liście. W maju 1915 roku Włochy przystąpiły do wojny przeciw Austro-Węgrom.
 
-Sonnino kierował włoską dyplomacją do czerwca 1919 roku. Na konferencji pokojowej w Paryżu uparcie domagał się spełnienia obietnic z Londynu, a do tego także Fiume, co doprowadziło do ostrego sporu z prezydentem [Woodrowem Wilsonem](https://pl.wikipedia.org/wiki/Woodrow_Wilson).
+Sonnino kierował włoską dyplomacją do czerwca 1919 roku. Na konferencji pokojowej w Paryżu uparcie domagał się spełnienia obietnic z Londynu, a do tego także Fiume, co doprowadziło do ostrego sporu z prezydentem [Woodrowem Wilsonem](/postacie/woodrow-wilson).

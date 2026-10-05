@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-20 września 1918 roku, dobę po [przełamaniu frontu tureckiego nad morzem](/poczatek-bitwy-pod-megiddo), jazda generała porucznika Harry'ego Chauvela wyszła z gór na [Dolinę Jezreel](https://pl.wikipedia.org/wiki/Dolina_Jezreel), kilkadziesiąt kilometrów za plecami tureckich armii. Do wieczora zajęła węzeł kolejowy w Al-Afuli, zamknęła drogę w Bejsanie nad Jordanem i obsadziła Dżenin. O świcie jedna z jej brygad wpadła do [Nazaretu](https://pl.wikipedia.org/wiki/Nazaret), gdzie stała kwatera tureckiej Grupy Armii „Yıldırım”, i niewiele brakowało, by wzięła do niewoli jej dowódcę, generała [Ottona Limana von Sandersa](https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders).
+20 września 1918 roku, dobę po [przełamaniu frontu tureckiego nad morzem](/poczatek-bitwy-pod-megiddo), jazda generała porucznika Harry'ego Chauvela wyszła z gór na [Dolinę Jezreel](https://pl.wikipedia.org/wiki/Dolina_Jezreel), kilkadziesiąt kilometrów za plecami tureckich armii. Do wieczora zajęła węzeł kolejowy w Al-Afuli, zamknęła drogę w Bejsanie nad Jordanem i obsadziła Dżenin. O świcie jedna z jej brygad wpadła do [Nazaretu](https://pl.wikipedia.org/wiki/Nazaret), gdzie stała kwatera tureckiej Grupy Armii „Yıldırım”, i niewiele brakowało, by wzięła do niewoli jej dowódcę, generała [Ottona Limana von Sandersa](/postacie/otto-liman-von-sanders).
 
 ## Szarża pod Megiddo
 
@@ -34,4 +34,4 @@ Z Al-Afuli 4 Dywizja Kawalerii generała majora George'a Barrowa ruszyła o 13.0
 
 Na drodze z Nablusu do Damaszku, po południu, gdy lotnicy donieśli o tłumach Turków uchodzących na północ, Chauvel posłał z Al-Ladżdżun australijską 3 Brygadę Lekkiej Kawalerii na [Dżenin](https://pl.wikipedia.org/wiki/Dżanin). Australijczycy przegalopowali 18 kilometrów w 70 minut, wzięli w gaju pod Kafr Adan około 1800 jeńców i o zmroku wpadli do miasta, gdzie mieszkańcy rzucili się na tureckie składy. Wieczorem porucznik Patterson z 23 ludźmi i dwoma karabinami maszynowymi zatrzymał w wąwozie na południe od miasta kolumnę 2800 żołnierzy i nakłonił ją blefem do kapitulacji. Rozmowę tłumaczyła niemiecka siostra miłosierdzia idąca na czele kolumny. Do rana brygada miała blisko 8 tysięcy jeńców.
 
-Wieczorem 20 września wszystkie drogi z gór Samarii na północ były zamknięte. Według Fallsa w rękach Brytyjczyków było już około 25 tysięcy jeńców, a turecka 8 Armia, poza niemieckim zgrupowaniem pułkownika von Oppena, przestała istnieć. 7 Armia [Mustafy Kemala](https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atatürk), cofająca się z okolic Nablusu, była w sieci.
+Wieczorem 20 września wszystkie drogi z gór Samarii na północ były zamknięte. Według Fallsa w rękach Brytyjczyków było już około 25 tysięcy jeńców, a turecka 8 Armia, poza niemieckim zgrupowaniem pułkownika von Oppena, przestała istnieć. 7 Armia [Mustafy Kemala](/postacie/mustafa-kemal), cofająca się z okolic Nablusu, była w sieci.

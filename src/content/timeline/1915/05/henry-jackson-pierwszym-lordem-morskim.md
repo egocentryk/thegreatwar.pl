@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Pod koniec maja 1915 roku pierwszym lordem morskim, czyli najwyższym rangą oficerem i zawodowym szefem [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), został admirał sir Henry Jackson. Zastąpił lorda [Johna Fishera](https://pl.wikipedia.org/wiki/John_Arbuthnot_Fisher), który [15 maja porzucił Admiralicję](/dymisja-lorda-fishera). Brytyjska chronologia wojny notuje nominację pod 28 maja, a część zestawień podaje jako początek urzędowania 27 maja. Jackson stanął u boku nowego pierwszego lorda Admiralicji, [Arthura Balfoura](/arthur-balfour-pierwszym-lordem-admiralicji).
+Pod koniec maja 1915 roku pierwszym lordem morskim, czyli najwyższym rangą oficerem i zawodowym szefem [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), został admirał sir Henry Jackson. Zastąpił lorda [Johna Fishera](/postacie/john-fisher), który [15 maja porzucił Admiralicję](/dymisja-lorda-fishera). Brytyjska chronologia wojny notuje nominację pod 28 maja, a część zestawień podaje jako początek urzędowania 27 maja. Jackson stanął u boku nowego pierwszego lorda Admiralicji, [Arthura Balfoura](/arthur-balfour-pierwszym-lordem-admiralicji).
 
 Nominacja była dla wielu zaskoczeniem. Po odejściu Fishera jego obowiązki tymczasowo przejął admirał Arthur Wilson, który był już pierwszym lordem morskim w latach 1910–1911. Wilson oświadczył jednak, że będzie służył tylko pod [Winstonem Churchillem](/postacie/winston-churchill), a gdy stało się jasne, że Churchill odchodzi, nie dał się przekonać do zmiany zdania. 21 maja Churchill napisał premierowi, że w tej sytuacji radzi powołać Jacksona. Propozycję przyjęto.
 

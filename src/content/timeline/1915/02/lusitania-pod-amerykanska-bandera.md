@@ -15,7 +15,7 @@ draft: false
 
 ## Rejs przez wzburzony Atlantyk
 
-Lusitania wypłynęła z Nowego Jorku 30 stycznia pod dowództwem kapitana Daniela Dowa. Na pokładzie znajdował się między innymi pułkownik [Edward House](https://pl.wikipedia.org/wiki/Edward_Mandell_House), zaufany doradca prezydenta [Woodrowa Wilsona](https://pl.wikipedia.org/wiki/Woodrow_Wilson), który jechał do Europy, by wybadać szanse na pokój. Podróż była ciężka: podczas sztormów fale sięgały pokładu, a jedenastu pasażerów odniosło obrażenia. Tymczasem na wodach, do których zmierzał statek, robiło się coraz niebezpieczniej. Pod koniec stycznia niemiecki okręt podwodny U-21 [ostrzelał wyspę Walney](/u-21-ostrzeliwuje-wyspe-walney) i zatopił trzy brytyjskie parowce na Morzu Irlandzkim, a 4 lutego Niemcy [ogłosili wody wokół Wysp Brytyjskich strefą wojenną](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich).
+Lusitania wypłynęła z Nowego Jorku 30 stycznia pod dowództwem kapitana Daniela Dowa. Na pokładzie znajdował się między innymi pułkownik [Edward House](https://pl.wikipedia.org/wiki/Edward_Mandell_House), zaufany doradca prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson), który jechał do Europy, by wybadać szanse na pokój. Podróż była ciężka: podczas sztormów fale sięgały pokładu, a jedenastu pasażerów odniosło obrażenia. Tymczasem na wodach, do których zmierzał statek, robiło się coraz niebezpieczniej. Pod koniec stycznia niemiecki okręt podwodny U-21 [ostrzelał wyspę Walney](/u-21-ostrzeliwuje-wyspe-walney) i zatopił trzy brytyjskie parowce na Morzu Irlandzkim, a 4 lutego Niemcy [ogłosili wody wokół Wysp Brytyjskich strefą wojenną](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich).
 
 ## Gwiazdy i pasy na maszcie
 

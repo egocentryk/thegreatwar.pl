@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W niedzielę 18 marca 1917 roku z Londynu nadeszła wiadomość, że niemieckie okręty podwodne zatopiły w ciągu trzech dni trzy amerykańskie statki: Vigilancię, City of Memphis i Illinois. Tydzień wcześniej, 12 marca, zatonął ostrzelany bez ostrzeżenia parowiec [Algonquin](/usa-uzbrajaja-statki-handlowe), ale wszyscy jego ludzie przeżyli. Teraz zginęli Amerykanie. Gdy 3 lutego prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) [zrywał stosunki z Niemcami](/usa-zrywaja-stosunki-z-niemcami), zapowiedział, że uwierzy w ich złe zamiary dopiero wtedy, gdy zobaczy „jawne czyny”. W Waszyngtonie uznano, że właśnie je zobaczył.
+W niedzielę 18 marca 1917 roku z Londynu nadeszła wiadomość, że niemieckie okręty podwodne zatopiły w ciągu trzech dni trzy amerykańskie statki: Vigilancię, City of Memphis i Illinois. Tydzień wcześniej, 12 marca, zatonął ostrzelany bez ostrzeżenia parowiec [Algonquin](/usa-uzbrajaja-statki-handlowe), ale wszyscy jego ludzie przeżyli. Teraz zginęli Amerykanie. Gdy 3 lutego prezydent [Woodrow Wilson](/postacie/woodrow-wilson) [zrywał stosunki z Niemcami](/usa-zrywaja-stosunki-z-niemcami), zapowiedział, że uwierzy w ich złe zamiary dopiero wtedy, gdy zobaczy „jawne czyny”. W Waszyngtonie uznano, że właśnie je zobaczył.
 
 ## Vigilancia
 

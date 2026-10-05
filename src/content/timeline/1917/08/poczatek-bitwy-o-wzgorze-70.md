@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-15 sierpnia 1917 roku o 4.25, gdy zaczynało świtać, dwie dywizje Korpusu Kanadyjskiego ruszyły do natarcia na wzgórze 70, bezdrzewne, kredowe wzniesienie na północnych przedmieściach górniczego miasta [Lens](https://pl.wikipedia.org/wiki/Lens) w północnej Francji. Po dwudziestu minutach stały na jego grzbiecie, a przed szóstą rano zajęły prawie wszystkie wyznaczone cele. Przez resztę dnia Niemcy raz po raz kontratakowali, ale ich fale piechoty ginęły pod ogniem kanadyjskiej artylerii, kierowanej przez obserwatorów ze zdobytego szczytu. Była to pierwsza bitwa korpusu pod dowództwem Kanadyjczyka, generała [Arthura Curriego](https://pl.wikipedia.org/wiki/Arthur_Currie), i dokładnie taki jej przebieg Currie zaplanował.
+15 sierpnia 1917 roku o 4.25, gdy zaczynało świtać, dwie dywizje Korpusu Kanadyjskiego ruszyły do natarcia na wzgórze 70, bezdrzewne, kredowe wzniesienie na północnych przedmieściach górniczego miasta [Lens](https://pl.wikipedia.org/wiki/Lens) w północnej Francji. Po dwudziestu minutach stały na jego grzbiecie, a przed szóstą rano zajęły prawie wszystkie wyznaczone cele. Przez resztę dnia Niemcy raz po raz kontratakowali, ale ich fale piechoty ginęły pod ogniem kanadyjskiej artylerii, kierowanej przez obserwatorów ze zdobytego szczytu. Była to pierwsza bitwa korpusu pod dowództwem Kanadyjczyka, generała [Arthura Curriego](/postacie/arthur-currie), i dokładnie taki jej przebieg Currie zaplanował.
 
 ## Dywersja dla Flandrii
 
@@ -26,7 +26,7 @@ Currie chciał uderzyć 30 lipca, ale ulewne deszcze opóźniły natarcie o pona
 
 Atakować miały 1 Dywizja Kanadyjska generała Archibalda Macdonella na lewym skrzydle, od strony [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle), i 2 Dywizja generała Henry'ego Burstalla na prawym, od strony Lens, każda dwiema brygadami, razem dziesięcioma batalionami. Cele wyznaczono w trzech etapach: pierwsze okopy niemieckie, Niebieska Linia na grzbiecie i Zielona Linia, stara trzecia linia niemiecka na wschodnim stoku, około 1,4 kilometra od pozycji wyjściowych. Najważniejsze było to, co miało nastąpić po zdobyciu celu. Każda brygada miała natychmiast wkopać 48 karabinów maszynowych [Vickers](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Vickers), wokół których powstawały punkty oporu piechoty, a obserwatorzy artylerii mieli od razu zająć stanowiska na szczycie.
 
-Wzgórza broniła niemiecka 7 Dywizja Piechoty z [6 Armii](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)) generała [Ottona von Belowa](https://pl.wikipedia.org/wiki/Otto_von_Below). W pobliżu czekały w odwodzie 4 Dywizja Gwardii i 220 Dywizja, przygotowane do szybkiego przeciwuderzenia. W nocy z 14 na 15 sierpnia Niemcy, spodziewając się ataku, podciągnęli bliżej bataliony odwodowe, a o 3.00 wykryli zbieranie się Kanadyjczyków na pozycjach wyjściowych.
+Wzgórza broniła niemiecka 7 Dywizja Piechoty z [6 Armii](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)) generała [Ottona von Belowa](/postacie/otto-von-below). W pobliżu czekały w odwodzie 4 Dywizja Gwardii i 220 Dywizja, przygotowane do szybkiego przeciwuderzenia. W nocy z 14 na 15 sierpnia Niemcy, spodziewając się ataku, podciągnęli bliżej bataliony odwodowe, a o 3.00 wykryli zbieranie się Kanadyjczyków na pozycjach wyjściowych.
 
 ## Natarcie
 

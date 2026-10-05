@@ -12,7 +12,7 @@ draft: false
 
 12 września 1917 roku Francja miała nowy rząd. Premierem został dotychczasowy minister wojny [Paul Painlevé](https://pl.wikipedia.org/wiki/Paul_Painlevé), który zatrzymał także ministerstwo wojny. Jego poprzednik [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot) wszedł do nowego gabinetu jako minister spraw zagranicznych. Zmiana zamknęła kilkudniowy kryzys, który zaczął się od afery szpiegowskiej i ustąpienia ministra spraw wewnętrznych, a skończył się czymś, czego Francja nie widziała od początku wojny: w rządzie nie było ani jednego socjalisty.
 
-Brytyjska chronologia wojny notuje dymisję Ribota pod 9 września, a nominację Painlevégo pod 12 września. Według amerykańskiego rocznika „New International Year Book” ministrowie złożyli dymisję na ręce prezydenta [Raymonda Poincarégo](https://pl.wikipedia.org/wiki/Raymond_Poincaré) już po posiedzeniu rady ministrów 7 września. 9 września prezydent powierzył Ribotowi utworzenie nowego gabinetu, ale ten 10 września ostatecznie zrezygnował. Rząd Painlevégo powołano dekretami z 12 września, a część gazet podawała, że objął urzędowanie dzień później.
+Brytyjska chronologia wojny notuje dymisję Ribota pod 9 września, a nominację Painlevégo pod 12 września. Według amerykańskiego rocznika „New International Year Book” ministrowie złożyli dymisję na ręce prezydenta [Raymonda Poincarégo](/postacie/raymond-poincare) już po posiedzeniu rady ministrów 7 września. 9 września prezydent powierzył Ribotowi utworzenie nowego gabinetu, ale ten 10 września ostatecznie zrezygnował. Rząd Painlevégo powołano dekretami z 12 września, a część gazet podawała, że objął urzędowanie dzień później.
 
 ## Upadek Ribota
 

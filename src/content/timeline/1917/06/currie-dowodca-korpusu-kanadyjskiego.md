@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 czerwca 1917 roku generał [Arthur Currie](https://pl.wikipedia.org/wiki/Arthur_Currie) oficjalnie objął dowództwo Korpusu Kanadyjskiego. Tego dnia wszedł w życie jego awans na generała porucznika, a dotychczasowy dowódca korpusu, Brytyjczyk [Julian Byng](https://pl.wikipedia.org/wiki/Julian_Byng), przeszedł na stanowisko dowódcy brytyjskiej 3 Armii. Byng dowodził Kanadyjczykami od maja 1916 roku i przygotował ich do [zdobycia grzbietu Vimy](/bitwy/bitwa-o-grzbiet-vimy). Currie był pierwszym Kanadyjczykiem na czele całego korpusu. Brytyjska chronologia wojny podaje jako datę jego nominacji 19 czerwca, ale według kanadyjskiej historii oficjalnej dowodził korpusem już od 9 czerwca.
+9 czerwca 1917 roku generał [Arthur Currie](/postacie/arthur-currie) oficjalnie objął dowództwo Korpusu Kanadyjskiego. Tego dnia wszedł w życie jego awans na generała porucznika, a dotychczasowy dowódca korpusu, Brytyjczyk [Julian Byng](/postacie/julian-byng), przeszedł na stanowisko dowódcy brytyjskiej 3 Armii. Byng dowodził Kanadyjczykami od maja 1916 roku i przygotował ich do [zdobycia grzbietu Vimy](/bitwy/bitwa-o-grzbiet-vimy). Currie był pierwszym Kanadyjczykiem na czele całego korpusu. Brytyjska chronologia wojny podaje jako datę jego nominacji 19 czerwca, ale według kanadyjskiej historii oficjalnej dowodził korpusem już od 9 czerwca.
 
 ## Zmiana dowódcy
 

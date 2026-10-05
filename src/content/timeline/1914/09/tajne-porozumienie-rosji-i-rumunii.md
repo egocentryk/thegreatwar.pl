@@ -20,7 +20,7 @@ Rumunia od 1883 roku była związana tajnym sojuszem z Austro-Węgrami i Niemcam
 
 ## Treść porozumienia
 
-Rosyjski minister spraw zagranicznych [Siergiej Sazonow](https://pl.wikipedia.org/wiki/Siergiej_Sazonow) i rumuński poseł w Piotrogrodzie Constantin Diamandy uzgodnili, że Rosja przeciwstawi się każdej próbie naruszenia granic Rumunii. Uznała też jej prawo do przyłączenia ziem Austro-Węgier zamieszkanych przez Rumunów. Chodziło przede wszystkim o Siedmiogród, a także o część [Bukowiny](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)), gdzie granicę miano wytyczyć według zasady narodowościowej. Rumunia mogła zająć te ziemie w dogodnej dla siebie chwili. Rosja zobowiązała się uzyskać dla porozumienia poparcie Francji i Wielkiej Brytanii.
+Rosyjski minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) i rumuński poseł w Piotrogrodzie Constantin Diamandy uzgodnili, że Rosja przeciwstawi się każdej próbie naruszenia granic Rumunii. Uznała też jej prawo do przyłączenia ziem Austro-Węgier zamieszkanych przez Rumunów. Chodziło przede wszystkim o Siedmiogród, a także o część [Bukowiny](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)), gdzie granicę miano wytyczyć według zasady narodowościowej. Rumunia mogła zająć te ziemie w dogodnej dla siebie chwili. Rosja zobowiązała się uzyskać dla porozumienia poparcie Francji i Wielkiej Brytanii.
 
 W zamian Rumunia zobowiązała się do życzliwej neutralności wobec Rosji. Oznaczało to między innymi, że nie przepuści przez swoje terytorium broni dla państw centralnych, a ułatwi przewóz rosyjskich dostaw do Serbii. Brătianu nalegał, by układ pozostał ściśle tajny.
 

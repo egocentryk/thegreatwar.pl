@@ -21,7 +21,7 @@ Już pierwsze tygodnie wojny nadszarpnęły jego pozycję. W czasie [odwrotu spo
 
 ## Szef sztabu bez autorytetu
 
-Jesienią 1914 roku stosunki w kwaterze głównej były złe. Murray nie umiał zapanować nad podwładnymi, a zwłaszcza nad Wilsonem, który miał własny dostęp do Frencha i przyjaciół we francuskim dowództwie. Skarżył się, że oficerowie sztabu go pomijają, a nawet zmieniają jego rozkazy, i kilka razy mówił o dymisji. Generał [Henry Rawlinson](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)) zanotował pod koniec listopada, że Murray stał się w kwaterze głównej „zerem”. Sam Murray pisał po latach, że został przy Frenchu, bo znał go jak nikt inny i chciał go wspierać mimo jego trudnego charakteru.
+Jesienią 1914 roku stosunki w kwaterze głównej były złe. Murray nie umiał zapanować nad podwładnymi, a zwłaszcza nad Wilsonem, który miał własny dostęp do Frencha i przyjaciół we francuskim dowództwie. Skarżył się, że oficerowie sztabu go pomijają, a nawet zmieniają jego rozkazy, i kilka razy mówił o dymisji. Generał [Henry Rawlinson](/postacie/henry-rawlinson) zanotował pod koniec listopada, że Murray stał się w kwaterze głównej „zerem”. Sam Murray pisał po latach, że został przy Frenchu, bo znał go jak nikt inny i chciał go wspierać mimo jego trudnego charakteru.
 
 Pod koniec listopada i w połowie grudnia French mówił Wilsonowi, że myśli o przeniesieniu Murraya na dowództwo korpusu i oddaniu jego miejsca właśnie Wilsonowi. Premier [Herbert Asquith](/postacie/herbert-henry-asquith) i minister wojny lord Kitchener nie zgodzili się jednak na tę kandydaturę. Sprawa ciągnęła się kilka tygodni, aż French postanowił rozstać się z Murrayem. Wilsona podejrzewano powszechnie o intrygi przeciw przełożonemu, choć konkretnych dowodów na to jest niewiele.
 

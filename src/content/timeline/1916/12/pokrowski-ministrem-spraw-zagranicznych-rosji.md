@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-13 grudnia 1916 roku (30 listopada według kalendarza juliańskiego) car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) ukazem powierzył ministerstwo spraw zagranicznych Rosji Nikołajowi Pokrowskiemu, dotychczasowemu kontrolerowi państwa. Francuski ambasador w Piotrogrodzie Maurice Paléologue zapisał wiadomość w dzienniku nazajutrz, 14 grudnia, a tego samego dnia podała ją amerykańska prasa. Brytyjska chronologia wojny notuje nominację o dzień wcześniej, pod 12 grudnia.
+13 grudnia 1916 roku (30 listopada według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) ukazem powierzył ministerstwo spraw zagranicznych Rosji Nikołajowi Pokrowskiemu, dotychczasowemu kontrolerowi państwa. Francuski ambasador w Piotrogrodzie Maurice Paléologue zapisał wiadomość w dzienniku nazajutrz, 14 grudnia, a tego samego dnia podała ją amerykańska prasa. Brytyjska chronologia wojny notuje nominację o dzień wcześniej, pod 12 grudnia.
 
 Resort był bez szefa od trzech tygodni. Premier [Boris Stürmer](https://pl.wikipedia.org/wiki/Boris_Stürmer), który w lipcu po [dymisji Sazonowa](/dymisja-sazonowa) objął także sprawy zagraniczne, [stracił w listopadzie oba stanowiska](/dymisja-sturmera) po ataku Dumy, oskarżającej go o dążenie do odrębnego pokoju z Niemcami. Ministerstwem tymczasowo kierował wiceminister Anatolij Nieratow.
 

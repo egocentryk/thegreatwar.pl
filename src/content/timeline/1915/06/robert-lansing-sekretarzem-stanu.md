@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-24 czerwca 1915 roku [Robert Lansing](https://pl.wikipedia.org/wiki/Robert_Lansing) objął urząd [sekretarza stanu](https://pl.wikipedia.org/wiki/Sekretarz_stanu_Stanów_Zjednoczonych), czyli ministra spraw zagranicznych Stanów Zjednoczonych. Prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) mianował go dzień wcześniej. Ponieważ Kongres nie obradował, była to nominacja na czas przerwy w sesji. [Senat](https://pl.wikipedia.org/wiki/Senat_Stanów_Zjednoczonych) zatwierdził ją dopiero w grudniu. Lansing, dotychczasowy radca [Departamentu Stanu](https://pl.wikipedia.org/wiki/Departament_Stanu_Stanów_Zjednoczonych), kierował nim jako pełniący obowiązki od 9 czerwca, od dnia, w którym ze stanowiska odszedł [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan).
+24 czerwca 1915 roku [Robert Lansing](/postacie/robert-lansing) objął urząd [sekretarza stanu](https://pl.wikipedia.org/wiki/Sekretarz_stanu_Stanów_Zjednoczonych), czyli ministra spraw zagranicznych Stanów Zjednoczonych. Prezydent [Woodrow Wilson](/postacie/woodrow-wilson) mianował go dzień wcześniej. Ponieważ Kongres nie obradował, była to nominacja na czas przerwy w sesji. [Senat](https://pl.wikipedia.org/wiki/Senat_Stanów_Zjednoczonych) zatwierdził ją dopiero w grudniu. Lansing, dotychczasowy radca [Departamentu Stanu](https://pl.wikipedia.org/wiki/Departament_Stanu_Stanów_Zjednoczonych), kierował nim jako pełniący obowiązki od 9 czerwca, od dnia, w którym ze stanowiska odszedł [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan).
 
 ## Dymisja Bryana
 

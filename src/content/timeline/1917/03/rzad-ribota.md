@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-20 marca 1917 roku Francja miała nowy rząd. Jego szefem i zarazem ministrem spraw zagranicznych został [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), dotychczasowy minister finansów. Prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) powierzył mu misję utworzenia gabinetu po [dymisji rządu Aristide'a Brianda](/dymisja-rzadu-brianda), gdy odmówił jej przewodniczący Izby Deputowanych Paul Deschanel. Ribot szybko skompletował rząd: skład ogłoszono wieczorem 19 marca, a dekrety o nominacjach noszą datę 20 marca, dlatego źródła podają jedną albo drugą datę. Najważniejszą zmianą była obsada ministerstwa wojny. Objął je matematyk [Paul Painlevé](https://pl.wikipedia.org/wiki/Paul_Painlevé).
+20 marca 1917 roku Francja miała nowy rząd. Jego szefem i zarazem ministrem spraw zagranicznych został [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), dotychczasowy minister finansów. Prezydent [Raymond Poincaré](/postacie/raymond-poincare) powierzył mu misję utworzenia gabinetu po [dymisji rządu Aristide'a Brianda](/dymisja-rzadu-brianda), gdy odmówił jej przewodniczący Izby Deputowanych Paul Deschanel. Ribot szybko skompletował rząd: skład ogłoszono wieczorem 19 marca, a dekrety o nominacjach noszą datę 20 marca, dlatego źródła podają jedną albo drugą datę. Najważniejszą zmianą była obsada ministerstwa wojny. Objął je matematyk [Paul Painlevé](https://pl.wikipedia.org/wiki/Paul_Painlevé).
 
 ## Stary mąż stanu
 
@@ -20,7 +20,7 @@ Według amerykańskiego rocznika „New International Year Book” sześciu czł
 
 ## Painlevé i plan Nivelle'a
 
-Painlevé, urodzony w 1863 roku, był wybitnym matematykiem i członkiem Akademii Nauk. W rządzie Brianda był ministrem oświaty, ale w grudniu 1916 roku odmówił wejścia do przebudowanego gabinetu. Według historyków nie chciał zasiadać obok generała Lyauteya, a poza tym wolałby, by naczelnym wodzem zamiast generała [Roberta Nivelle'a](https://pl.wikipedia.org/wiki/Robert_Nivelle) został generał [Philippe Pétain](https://pl.wikipedia.org/wiki/Philippe_Pétain). Teraz to on miał odpowiadać za armię w przededniu wielkiej ofensywy.
+Painlevé, urodzony w 1863 roku, był wybitnym matematykiem i członkiem Akademii Nauk. W rządzie Brianda był ministrem oświaty, ale w grudniu 1916 roku odmówił wejścia do przebudowanego gabinetu. Według historyków nie chciał zasiadać obok generała Lyauteya, a poza tym wolałby, by naczelnym wodzem zamiast generała [Roberta Nivelle'a](https://pl.wikipedia.org/wiki/Robert_Nivelle) został generał [Philippe Pétain](/postacie/philippe-petain). Teraz to on miał odpowiadać za armię w przededniu wielkiej ofensywy.
 
 Brytyjska historia oficjalna (Falls) pisze, że Ribot w sprawach wojskowych wyraźnie ulegał wpływowi Painlevégo, a ten od początku był wrogo nastawiony do Nivelle'a i jego planu. Szybko dało się to odczuć. Nowy minister rozmawiał z dowódcami grup armii, z pominięciem naczelnego wodza, a ci nie ukrywali, że nie wierzą w obiecany przez Nivelle'a przełom. Painlevé przekonywał też, że ofensywę należy odłożyć, bo [rewolucja w Rosji](/rewolucja-lutowa) wykluczała rychłe rosyjskie natarcie, a Stany Zjednoczone, które [w lutym zerwały stosunki z Niemcami](/usa-zrywaja-stosunki-z-niemcami), mogły wkrótce przysłać pomoc. Falls zauważał, że Nivelle, wybrany przez Brianda, miał teraz nad sobą rząd, który mu nie ufał.
 

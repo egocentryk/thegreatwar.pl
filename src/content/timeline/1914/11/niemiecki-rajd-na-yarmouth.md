@@ -15,7 +15,7 @@ Rankiem 3 listopada 1914 roku niemieckie krążowniki liniowe pojawiły się u w
 
 ## Wypad Hippera
 
-Po klęsce w [bitwie w Zatoce Helgolandzkiej](/bitwy/bitwa-w-zatoce-helgolandzkiej) w sierpniu niemieckie dowództwo szukało sposobu na podniesienie ducha w [Flocie Oceanicznej](https://pl.wikipedia.org/wiki/Hochseeflotte). Kontradmirał [Franz Hipper](https://pl.wikipedia.org/wiki/Franz_von_Hipper), dowódca krążowników liniowych, zaproponował wyprawę pod wschodnie wybrzeże Anglii. Lekkie krążowniki miały postawić miny na szlakach żeglugowych u Yarmouth i [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), a ciężkie okręty osłaniać je i ostrzelać wybrzeże.
+Po klęsce w [bitwie w Zatoce Helgolandzkiej](/bitwy/bitwa-w-zatoce-helgolandzkiej) w sierpniu niemieckie dowództwo szukało sposobu na podniesienie ducha w [Flocie Oceanicznej](https://pl.wikipedia.org/wiki/Hochseeflotte). Kontradmirał [Franz Hipper](/postacie/franz-von-hipper), dowódca krążowników liniowych, zaproponował wyprawę pod wschodnie wybrzeże Anglii. Lekkie krążowniki miały postawić miny na szlakach żeglugowych u Yarmouth i [Lowestoft](https://pl.wikipedia.org/wiki/Lowestoft), a ciężkie okręty osłaniać je i ostrzelać wybrzeże.
 
 Zespół Hippera wyszedł z ujścia Jade po południu 2 listopada. Tworzyły go [krążowniki liniowe](https://pl.wikipedia.org/wiki/Krążownik_liniowy) Seydlitz, Moltke i Von der Tann, krążownik pancerny Blücher oraz cztery krążowniki lekkie: Strassburg, Graudenz, Kolberg i Stralsund. Trasę powrotu ubezpieczały inne niemieckie okręty. Po nocnym przejściu przez [Morze Północne](https://pl.wikipedia.org/wiki/Morze_Północne) Niemcy dotarli o świcie pod brytyjskie wybrzeże.
 

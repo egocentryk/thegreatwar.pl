@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-30 sierpnia 1914 roku zakończyła się bitwa nad Złotą Lipą, w literaturze anglojęzycznej nazywana często pierwszą bitwą pod Lwowem. Rosyjskie armie generałów [Nikołaja Ruzskiego](https://pl.wikipedia.org/wiki/Nikołaj_Ruzski) i [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) przełamały obronę austro-węgierskiej 3 Armii generała Rudolfa von Brudermanna nad rzeką [Gniłą Lipą](https://pl.wikipedia.org/wiki/Gniła_Lipa). Pokonani Austriacy wycofali się za [Lwów](https://pl.wikipedia.org/wiki/Lwów), stolicę Galicji.
+30 sierpnia 1914 roku zakończyła się bitwa nad Złotą Lipą, w literaturze anglojęzycznej nazywana często pierwszą bitwą pod Lwowem. Rosyjskie armie generałów [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski) i [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) przełamały obronę austro-węgierskiej 3 Armii generała Rudolfa von Brudermanna nad rzeką [Gniłą Lipą](https://pl.wikipedia.org/wiki/Gniła_Lipa). Pokonani Austriacy wycofali się za [Lwów](https://pl.wikipedia.org/wiki/Lwów), stolicę Galicji.
 
 ## Druga linia obrony
 

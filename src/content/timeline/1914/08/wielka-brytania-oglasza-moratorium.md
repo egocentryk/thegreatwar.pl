@@ -16,6 +16,6 @@ Powodem był kryzys, który od kilku dni wstrząsał [City of London](https://pl
 
 Moratorium było kolejnym z nadzwyczajnych kroków podejmowanych w tych dniach. 31 lipca zamknięto giełdę londyńską, a [Bank Anglii](https://pl.wikipedia.org/wiki/Bank_Anglii) podniósł stopę procentową do 8, a następnie do 10 procent. Świąteczną przerwę w pracy banków, przypadającą na początek sierpnia, przedłużono o kilka dni, by dać rządowi czas na przygotowanie dalszych działań.
 
-Kryzysem zarządzał kanclerz skarbu [David Lloyd George](https://pl.wikipedia.org/wiki/David_Lloyd_George), który w porozumieniu z bankierami przygotował pakiet środków ratunkowych. Wprowadzono między innymi nowe banknoty skarbowe, by zapewnić obywatelom gotówkę. Dzięki tym działaniom, gdy banki ponownie otworzyły się 7 sierpnia, udało się uniknąć paniki.
+Kryzysem zarządzał kanclerz skarbu [David Lloyd George](/postacie/david-lloyd-george), który w porozumieniu z bankierami przygotował pakiet środków ratunkowych. Wprowadzono między innymi nowe banknoty skarbowe, by zapewnić obywatelom gotówkę. Dzięki tym działaniom, gdy banki ponownie otworzyły się 7 sierpnia, udało się uniknąć paniki.
 
 Moratorium z 2 sierpnia pokazało, jak szybko wojna uderzyła w gospodarkę, zanim jeszcze Wielka Brytania formalnie do niej przystąpiła. Był to początek finansowej mobilizacji, która w kolejnych latach pozwoliła Wielkiej Brytanii prowadzić wojnę na niespotykaną wcześniej skalę.

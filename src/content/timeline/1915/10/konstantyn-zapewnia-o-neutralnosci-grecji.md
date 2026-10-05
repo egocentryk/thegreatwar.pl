@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 6 października 1915 roku, że król Grecji [Konstantyn I](https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki) zapewnił brytyjskiego posła w Atenach, sir Francisa Elliota, że jego kraj zachowa neutralność. Grecka mobilizacja i wyładunek wojsk Ententy w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) miały jednak trwać dalej. Była to jedna z pierwszych wiadomości o zamiarach króla po upadku premiera [Elefteriosa Wenizelosa](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos), który dzień wcześniej podał się do dymisji, gdy Konstantyn odmówił poparcia jego polityki. Nowy rząd dopiero się tworzył pod kierunkiem [Aleksandrosa Zaimisa](/aleksandros-zaimis-premierem-grecji).
+Brytyjska chronologia wojny odnotowuje pod 6 października 1915 roku, że król Grecji [Konstantyn I](/postacie/konstantyn-i) zapewnił brytyjskiego posła w Atenach, sir Francisa Elliota, że jego kraj zachowa neutralność. Grecka mobilizacja i wyładunek wojsk Ententy w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) miały jednak trwać dalej. Była to jedna z pierwszych wiadomości o zamiarach króla po upadku premiera [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos), który dzień wcześniej podał się do dymisji, gdy Konstantyn odmówił poparcia jego polityki. Nowy rząd dopiero się tworzył pod kierunkiem [Aleksandrosa Zaimisa](/aleksandros-zaimis-premierem-grecji).
 
 ## Odpowiedź wymijająca
 

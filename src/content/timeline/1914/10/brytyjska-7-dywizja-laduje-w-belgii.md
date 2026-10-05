@@ -16,7 +16,7 @@ Rano 6 października 1914 roku w belgijskim porcie [Zeebrugge](https://pl.wikipe
 
 ## Dywizja z zamorskich garnizonów
 
-7 Dywizja powstała we wrześniu i na początku października 1914 roku w obozie pod Lyndhurst w hrabstwie Hampshire. Złożono ją z batalionów armii zawodowej, które sprowadzono do kraju z garnizonów rozsianych po całym imperium brytyjskim. Była więc jedną z ostatnich dywizji złożonych z doświadczonych żołnierzy regularnej armii. Liczyła około 18 tysięcy żołnierzy, a dowodził nią generał Thompson Capper. 3 Dywizja Kawalerii, formowana od 1 września, podlegała generałowi [Julianowi Byngowi](https://pl.wikipedia.org/wiki/Julian_Byng). Obie dywizje weszły w skład nowego IV Korpusu generała [Henry'ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)).
+7 Dywizja powstała we wrześniu i na początku października 1914 roku w obozie pod Lyndhurst w hrabstwie Hampshire. Złożono ją z batalionów armii zawodowej, które sprowadzono do kraju z garnizonów rozsianych po całym imperium brytyjskim. Była więc jedną z ostatnich dywizji złożonych z doświadczonych żołnierzy regularnej armii. Liczyła około 18 tysięcy żołnierzy, a dowodził nią generał Thompson Capper. 3 Dywizja Kawalerii, formowana od 1 września, podlegała generałowi [Julianowi Byngowi](/postacie/julian-byng). Obie dywizje weszły w skład nowego IV Korpusu generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson).
 
 ## Za późno dla Antwerpii
 

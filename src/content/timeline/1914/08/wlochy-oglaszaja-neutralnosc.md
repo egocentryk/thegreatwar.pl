@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 sierpnia 1914 roku [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) ogłosiło neutralność w wojnie, która właśnie ogarniała Europę. Decyzję podjął dzień wcześniej rząd premiera [Antonia Salandry](https://pl.wikipedia.org/wiki/Antonio_Salandra) i ministra spraw zagranicznych Antonina di San Giuliano. Był to cios dla Niemiec i [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry), z którymi Włochy od 1882 roku tworzyły [trójprzymierze](https://pl.wikipedia.org/wiki/Trójprzymierze).
+3 sierpnia 1914 roku [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) ogłosiło neutralność w wojnie, która właśnie ogarniała Europę. Decyzję podjął dzień wcześniej rząd premiera [Antonia Salandry](/postacie/antonio-salandra) i ministra spraw zagranicznych Antonina di San Giuliano. Był to cios dla Niemiec i [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry), z którymi Włochy od 1882 roku tworzyły [trójprzymierze](https://pl.wikipedia.org/wiki/Trójprzymierze).
 
 Rząd w Rzymie uzasadniał swoją decyzję postanowieniami samego traktatu. Trójprzymierze było sojuszem obronnym: zobowiązywało sygnatariuszy do pomocy tylko w razie napaści na jednego z nich. Tymczasem to Austro-Węgry postawiły Serbii ultimatum i wypowiedziały jej wojnę, a Niemcy wypowiedziały wojnę Rosji i Francji. W ocenie Rzymu to państwa centralne były stroną atakującą, więc tzw. casus foederis, czyli sytuacja zobowiązująca do udziału w wojnie, nie zaistniał.
 

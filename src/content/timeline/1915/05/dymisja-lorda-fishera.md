@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-15 maja 1915 roku, w sobotę rano, admirał lord [John Fisher](https://pl.wikipedia.org/wiki/John_Arbuthnot_Fisher), pierwszy lord morski, czyli najwyższy rangą oficer [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), napisał do swojego cywilnego zwierzchnika, pierwszego lorda Admiralicji [Winstona Churchilla](/postacie/winston-churchill), krótki list. Oświadczał w nim, że po dalszym namyśle doszedł do wniosku, iż nie może dłużej pozostać jego współpracownikiem. Coraz trudniej było mu się dostosować do coraz większych wymagań Dardaneli. „Jak słusznie powiedział Pan wczoraj, jestem w położeniu kogoś, kto ciągle wetuje Pana propozycje” – pisał. Zapowiedział, że natychmiast wyjeżdża do Szkocji, by uniknąć wszelkich pytań. Potem po prostu wyszedł z Admiralicji.
+15 maja 1915 roku, w sobotę rano, admirał lord [John Fisher](/postacie/john-fisher), pierwszy lord morski, czyli najwyższy rangą oficer [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), napisał do swojego cywilnego zwierzchnika, pierwszego lorda Admiralicji [Winstona Churchilla](/postacie/winston-churchill), krótki list. Oświadczał w nim, że po dalszym namyśle doszedł do wniosku, iż nie może dłużej pozostać jego współpracownikiem. Coraz trudniej było mu się dostosować do coraz większych wymagań Dardaneli. „Jak słusznie powiedział Pan wczoraj, jestem w położeniu kogoś, kto ciągle wetuje Pana propozycje” – pisał. Zapowiedział, że natychmiast wyjeżdża do Szkocji, by uniknąć wszelkich pytań. Potem po prostu wyszedł z Admiralicji.
 
 ## Ostatnia kropla
 

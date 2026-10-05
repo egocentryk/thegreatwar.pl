@@ -19,7 +19,7 @@ Nie udało nam się ustalić, na czym autorzy brytyjskiej chronologii oparli dat
 
 ## Rosjanie od południa
 
-Zagrożenie przyszło z innej strony. Pod koniec listopada rosyjska 3 Armia generała [Radko Dimitriewa](https://pl.wikipedia.org/wiki/Radko_Dimitriew) podeszła pod Kraków od południowego wschodu i zajęła [Wieliczkę](https://pl.wikipedia.org/wiki/Wieliczka) oraz Dobczyce. Jej patrole docierały na przedpole fortów pod Bieżanowem. Krakowska prasa pisała wkrótce o „drugiej bitwie o Kraków”, ale nowsze badania oparte na dokumentach wojskowych pokazują, że były to tylko potyczki patroli na skraju większej operacji, a o losie miasta rozstrzygało się kilkadziesiąt kilometrów dalej.
+Zagrożenie przyszło z innej strony. Pod koniec listopada rosyjska 3 Armia generała [Radko Dimitriewa](/postacie/radko-dimitriew) podeszła pod Kraków od południowego wschodu i zajęła [Wieliczkę](https://pl.wikipedia.org/wiki/Wieliczka) oraz Dobczyce. Jej patrole docierały na przedpole fortów pod Bieżanowem. Krakowska prasa pisała wkrótce o „drugiej bitwie o Kraków”, ale nowsze badania oparte na dokumentach wojskowych pokazują, że były to tylko potyczki patroli na skraju większej operacji, a o losie miasta rozstrzygało się kilkadziesiąt kilometrów dalej.
 
 ## Uderzenie pod Limanową
 

@@ -19,7 +19,7 @@ Zdarzenie było niewielkie, ale miało duże znaczenie polityczne, dlatego już 
 
 ## Wojna, której nie wszyscy chcieli
 
-Związek Południowej Afryki był brytyjskim dominium, powstałym w 1910 roku, zaledwie osiem lat po zakończeniu wojny burskiej. Na początku sierpnia Londyn poprosił rząd w Pretorii o zajęcie niemieckich portów i radiostacji w Afryce Południowo-Zachodniej. Premier [Louis Botha](https://pl.wikipedia.org/wiki/Louis_Botha) i Smuts się zgodzili. Wielu Burów było jednak przeciwnych walce u boku Brytyjczyków, z którymi niedawno sami wojowali, a część z nich darzyła Niemcy sympatią.
+Związek Południowej Afryki był brytyjskim dominium, powstałym w 1910 roku, zaledwie osiem lat po zakończeniu wojny burskiej. Na początku sierpnia Londyn poprosił rząd w Pretorii o zajęcie niemieckich portów i radiostacji w Afryce Południowo-Zachodniej. Premier [Louis Botha](/postacie/louis-botha) i Smuts się zgodzili. Wielu Burów było jednak przeciwnych walce u boku Brytyjczyków, z którymi niedawno sami wojowali, a część z nich darzyła Niemcy sympatią.
 
 Wiadomość o Niemcach po południowoafrykańskiej stronie granicy pomagała rządowi przekonać opinię publiczną, że Związek broni własnego terytorium, a nie tylko wykonuje polecenia Londynu. We wrześniu parlament poparł wyprawę przeciw niemieckiej kolonii.
 

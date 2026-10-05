@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-4 czerwca 1917 roku (22 maja według kalendarza juliańskiego) [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) odwołał naczelnego wodza armii rosyjskiej, generała [Michaiła Aleksiejewa](https://pl.wikipedia.org/wiki/Michaił_Aleksiejew_(generał)), i powierzył to stanowisko dowódcy Frontu Południowo-Zachodniego, generałowi [Aleksiejowi Brusiłowowi](/postacie/aleksiej-brusilow). Decyzję przeforsował nowy minister wojny i marynarki [Aleksander Kiereński](https://pl.wikipedia.org/wiki/Aleksander_Kiereński), który od kilku tygodni szykował armię do wielkiej ofensywy. Uznał, że do tego zadania potrzebny mu jest dowódca, który nie będzie przeciwnikiem rewolucyjnych porządków w wojsku. Zachodnia prasa podała wiadomość o zmianie 5 czerwca.
+4 czerwca 1917 roku (22 maja według kalendarza juliańskiego) [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) odwołał naczelnego wodza armii rosyjskiej, generała [Michaiła Aleksiejewa](/postacie/michail-aleksiejew), i powierzył to stanowisko dowódcy Frontu Południowo-Zachodniego, generałowi [Aleksiejowi Brusiłowowi](/postacie/aleksiej-brusilow). Decyzję przeforsował nowy minister wojny i marynarki [Aleksander Kiereński](https://pl.wikipedia.org/wiki/Aleksander_Kiereński), który od kilku tygodni szykował armię do wielkiej ofensywy. Uznał, że do tego zadania potrzebny mu jest dowódca, który nie będzie przeciwnikiem rewolucyjnych porządków w wojsku. Zachodnia prasa podała wiadomość o zmianie 5 czerwca.
 
 ## Odejście Aleksiejewa
 

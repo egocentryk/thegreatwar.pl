@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-9 stycznia 1917 roku (27 grudnia 1916 według kalendarza juliańskiego) car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) podpisał ukazy, którymi zwolnił premiera Rosji [Aleksandra Trepowa](https://pl.wikipedia.org/wiki/Aleksandr_Triepow) i powołał na jego miejsce księcia [Nikołaja Golicyna](https://pl.wikipedia.org/wiki/Nikołaj_Golicyn). Brytyjska chronologia wojny notuje tę zmianę o dzień wcześniej, pod 8 stycznia. Francuski ambasador Maurice Paléologue zapisał w dzienniku 10 stycznia, że Trepow, który „wielokrotnie prosił o zwolnienie”, został przeniesiony w stan spoczynku „wczoraj”. Tego samego dnia stanowisko stracił też minister oświaty hrabia Paweł Ignatjew.
+9 stycznia 1917 roku (27 grudnia 1916 według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) podpisał ukazy, którymi zwolnił premiera Rosji [Aleksandra Trepowa](https://pl.wikipedia.org/wiki/Aleksandr_Triepow) i powołał na jego miejsce księcia [Nikołaja Golicyna](https://pl.wikipedia.org/wiki/Nikołaj_Golicyn). Brytyjska chronologia wojny notuje tę zmianę o dzień wcześniej, pod 8 stycznia. Francuski ambasador Maurice Paléologue zapisał w dzienniku 10 stycznia, że Trepow, który „wielokrotnie prosił o zwolnienie”, został przeniesiony w stan spoczynku „wczoraj”. Tego samego dnia stanowisko stracił też minister oświaty hrabia Paweł Ignatjew.
 
 ## Upadek Trepowa
 

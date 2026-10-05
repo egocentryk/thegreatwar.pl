@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 27 lutego 1915 roku rosyjskie oddziały syberyjskie opanowały [Przasnysz](https://pl.wikipedia.org/wiki/Przasnysz). Tego samego dnia dowódca niemieckiej grupy armijnej, generał [Max von Gallwitz](https://pl.wikipedia.org/wiki/Max_von_Gallwitz), nakazał odwrót w stronę granicy Prus Wschodnich. Tak zakończyła się bitwa, która [zaczęła się kilka dni wcześniej](/poczatek-bitwy-pod-przasnyszem) okrążeniem miasta przez Niemców.
+Wieczorem 27 lutego 1915 roku rosyjskie oddziały syberyjskie opanowały [Przasnysz](https://pl.wikipedia.org/wiki/Przasnysz). Tego samego dnia dowódca niemieckiej grupy armijnej, generał [Max von Gallwitz](/postacie/max-von-gallwitz), nakazał odwrót w stronę granicy Prus Wschodnich. Tak zakończyła się bitwa, która [zaczęła się kilka dni wcześniej](/poczatek-bitwy-pod-przasnyszem) okrążeniem miasta przez Niemców.
 
 ## Zdobycz na trzy dni
 

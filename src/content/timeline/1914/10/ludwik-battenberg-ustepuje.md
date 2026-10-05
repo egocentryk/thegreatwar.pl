@@ -26,7 +26,7 @@ Atmosferę pogarszały niepowodzenia na morzu. Flota nie stoczyła wielkiej bitw
 
 27 października Churchill, powołując się na nastroje opinii publicznej, poprosił Battenberga o ustąpienie. Admirał, wyczerpany i rozgoryczony, następnego dnia złożył rezygnację. Napisał, że jego urodzenie i pochodzenie „w pewnych względach osłabiają jego przydatność” w Zarządzie Admiralicji, i dlatego, jako lojalny poddany króla, uważa za swój obowiązek ustąpić. Churchill przyjął dymisję 29 października, podkreślając jego zasługi, a wiadomość natychmiast obiegła prasę.
 
-Król [Jerzy V](https://pl.wikipedia.org/wiki/Jerzy_V) był głęboko poruszony losem krewnego. Na znak zaufania powołał go do [Tajnej Rady](https://pl.wikipedia.org/wiki/Tajna_Rada_Wielkiej_Brytanii). Część prasy, na przykład tygodnik „The Spectator”, pisała otwarcie, że admirał padł ofiarą głupiego uprzedzenia. Następcą Battenberga został emerytowany admirał John Fisher.
+Król [Jerzy V](/postacie/jerzy-v) był głęboko poruszony losem krewnego. Na znak zaufania powołał go do [Tajnej Rady](https://pl.wikipedia.org/wiki/Tajna_Rada_Wielkiej_Brytanii). Część prasy, na przykład tygodnik „The Spectator”, pisała otwarcie, że admirał padł ofiarą głupiego uprzedzenia. Następcą Battenberga został emerytowany admirał John Fisher.
 
 ## Mountbattenowie
 

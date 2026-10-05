@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 lipca 1915 roku, zaledwie jedenaście dni po [zakończeniu pierwszej](/koniec-pierwszej-bitwy-nad-isonzo), armia włoska rozpoczęła drugą bitwę nad Isonzo. Generał [Luigi Cadorna](https://pl.wikipedia.org/wiki/Luigi_Cadorna) znów skierował główne uderzenie na płaskowyż [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) na południe od [Gorycji](https://pl.wikipedia.org/wiki/Gorycja). Tym razem miał do dyspozycji znacznie więcej ciężkich dział niż w czerwcu.
+18 lipca 1915 roku, zaledwie jedenaście dni po [zakończeniu pierwszej](/koniec-pierwszej-bitwy-nad-isonzo), armia włoska rozpoczęła drugą bitwę nad Isonzo. Generał [Luigi Cadorna](/postacie/luigi-cadorna) znów skierował główne uderzenie na płaskowyż [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) na południe od [Gorycji](https://pl.wikipedia.org/wiki/Gorycja). Tym razem miał do dyspozycji znacznie więcej ciężkich dział niż w czerwcu.
 
 ## Plan
 

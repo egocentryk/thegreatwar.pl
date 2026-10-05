@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-7 grudnia 1915 roku wojska osmańskie pułkownika [Nureddina Beja](https://pl.wikipedia.org/wiki/Nureddin_Pasza) zaczęły zamykać pierścień wokół [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). Według brytyjskiej historii oficjalnej (Moberly) tureckie siły ocenione na dywizję z ośmioma działami okopały się na prawym brzegu, na północny zachód od miasta. Na lewym brzegu, również od północnego zachodu, stało około 1500 żołnierzy z działami, a kilka kilometrów w górę rzeki większa część dwóch dywizji. Przez cały dzień tureckie działa ostrzeliwały miasto. Tego dnia Nureddin przysłał generałowi Charlesowi Townshendowi list z wezwaniem do kapitulacji. Moberly odnotowuje krótko, że możliwa była tylko jedna odpowiedź. Ten dzień uważa się zwykle za początek oblężenia, które trwało prawie pięć miesięcy.
+7 grudnia 1915 roku wojska osmańskie pułkownika [Nureddina Beja](/postacie/nureddin-pasza) zaczęły zamykać pierścień wokół [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). Według brytyjskiej historii oficjalnej (Moberly) tureckie siły ocenione na dywizję z ośmioma działami okopały się na prawym brzegu, na północny zachód od miasta. Na lewym brzegu, również od północnego zachodu, stało około 1500 żołnierzy z działami, a kilka kilometrów w górę rzeki większa część dwóch dywizji. Przez cały dzień tureckie działa ostrzeliwały miasto. Tego dnia Nureddin przysłał generałowi Charlesowi Townshendowi list z wezwaniem do kapitulacji. Moberly odnotowuje krótko, że możliwa była tylko jedna odpowiedź. Ten dzień uważa się zwykle za początek oblężenia, które trwało prawie pięć miesięcy.
 
 ## Pierwszy dzień
 

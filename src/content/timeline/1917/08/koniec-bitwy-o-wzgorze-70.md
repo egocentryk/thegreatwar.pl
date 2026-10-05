@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1917 roku o 2.00 w nocy 50 Batalion z 4 Dywizji Kanadyjskiej zaatakował okop Aloof na zachodnim skraju [Lens](https://pl.wikipedia.org/wiki/Lens). Zamiast zwykłej zapory artyleryjskiej natarcie wspierały moździerze Stokesa i setki granatów karabinowych. Okop padł prawie bez walki, a batalion stracił tylko kilku rannych. Tym małym sukcesem skończyła się bitwa o wzgórze 70, pierwsza bitwa Korpusu Kanadyjskiego pod dowództwem generała [Arthura Curriego](https://pl.wikipedia.org/wiki/Arthur_Currie). Wzgórze nad Lens, zdobyte [15 sierpnia](/poczatek-bitwy-o-wzgorze-70), pozostało w rękach kanadyjskich, ale samo miasto Niemcy utrzymali.
+25 sierpnia 1917 roku o 2.00 w nocy 50 Batalion z 4 Dywizji Kanadyjskiej zaatakował okop Aloof na zachodnim skraju [Lens](https://pl.wikipedia.org/wiki/Lens). Zamiast zwykłej zapory artyleryjskiej natarcie wspierały moździerze Stokesa i setki granatów karabinowych. Okop padł prawie bez walki, a batalion stracił tylko kilku rannych. Tym małym sukcesem skończyła się bitwa o wzgórze 70, pierwsza bitwa Korpusu Kanadyjskiego pod dowództwem generała [Arthura Curriego](/postacie/arthur-currie). Wzgórze nad Lens, zdobyte [15 sierpnia](/poczatek-bitwy-o-wzgorze-70), pozostało w rękach kanadyjskich, ale samo miasto Niemcy utrzymali.
 
 ## Natarcie na Lens
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 29 marca 1916 roku zmianę na stanowisku rosyjskiego ministra wojny. Generała Aleksieja Poliwanowa zastąpił generał [Dmitrij Szuwajew](https://pl.wikipedia.org/wiki/Dmitrij_Szuwajew), dotychczasowy główny intendent polowy armii. Sama decyzja zapadła kilka dni wcześniej. Car [Mikołaj II](https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow) napisał list do Poliwanowa w [Kwaterze Głównej](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) w Mohylewie 13 marca według kalendarza juliańskiego, czyli 26 marca według kalendarza gregoriańskiego. Ukazy o zwolnieniu ministra i nominacji następcy car podpisał 15 (28) marca, a petersburskie i moskiewskie gazety ogłosiły je 17 (30) marca. Data z chronologii mieści się więc między podpisaniem ukazów a ich publikacją.
+Brytyjska chronologia wojny notuje pod 29 marca 1916 roku zmianę na stanowisku rosyjskiego ministra wojny. Generała Aleksieja Poliwanowa zastąpił generał [Dmitrij Szuwajew](https://pl.wikipedia.org/wiki/Dmitrij_Szuwajew), dotychczasowy główny intendent polowy armii. Sama decyzja zapadła kilka dni wcześniej. Car [Mikołaj II](/postacie/mikolaj-ii) napisał list do Poliwanowa w [Kwaterze Głównej](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) w Mohylewie 13 marca według kalendarza juliańskiego, czyli 26 marca według kalendarza gregoriańskiego. Ukazy o zwolnieniu ministra i nominacji następcy car podpisał 15 (28) marca, a petersburskie i moskiewskie gazety ogłosiły je 17 (30) marca. Data z chronologii mieści się więc między podpisaniem ukazów a ich publikacją.
 
 ## List cara
 

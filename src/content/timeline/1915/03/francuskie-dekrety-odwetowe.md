@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 12 marca 1915 roku wydanie przez rząd francuski dekretów podobnych do [brytyjskiego rozporządzenia odwetowego](/brytyjskie-rozporzadzenie-odwetowe) i proklamacji z 11 marca. Według opublikowanych później dokumentów 12 marca czterej ministrowie przedstawili prezydentowi [Raymondowi Poincarému](https://pl.wikipedia.org/wiki/Raymond_Poincaré) projekt dekretu wraz z uzasadnieniem, a sam dekret prezydent podpisał 13 marca. Podpisali go również minister spraw zagranicznych [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé), minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), minister wojny [Alexandre Millerand](https://pl.wikipedia.org/wiki/Alexandre_Millerand) i minister marynarki Victor Augagneur.
+Brytyjska chronologia wojny odnotowuje pod 12 marca 1915 roku wydanie przez rząd francuski dekretów podobnych do [brytyjskiego rozporządzenia odwetowego](/brytyjskie-rozporzadzenie-odwetowe) i proklamacji z 11 marca. Według opublikowanych później dokumentów 12 marca czterej ministrowie przedstawili prezydentowi [Raymondowi Poincarému](/postacie/raymond-poincare) projekt dekretu wraz z uzasadnieniem, a sam dekret prezydent podpisał 13 marca. Podpisali go również minister spraw zagranicznych [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé), minister finansów [Alexandre Ribot](https://pl.wikipedia.org/wiki/Alexandre_Ribot), minister wojny [Alexandre Millerand](/postacie/alexandre-millerand) i minister marynarki Victor Augagneur.
 
 ## Odpowiedź na niemiecką strefę wojenną
 

@@ -17,7 +17,7 @@ tags: [Niemcy, Rosja, Królestwo Polskie, wielki odwrót 1915]
 milestone: false
 ---
 
-Druga bitwa pod Przasnyszem otworzyła letnią ofensywę niemiecką na północnym skrzydle frontu wschodniego. 13 lipca 1915 roku grupa armijna generała [Maxa von Gallwitza](https://pl.wikipedia.org/wiki/Max_von_Gallwitz) uderzyła na pozycje rosyjskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) po obu stronach [Przasnysza](https://pl.wikipedia.org/wiki/Przasnysz), tego samego miasta, o które walczono w lutym. Tym razem Niemcy mieli miażdżącą przewagę w artylerii. Pierwszego dnia zdobyli główną linię obrony, 14 lipca zajęli Przasnysz, a do 17 lipca zepchnęli Rosjan o około 30 kilometrów, na umocnione przedmościa nad [Narwią](https://pl.wikipedia.org/wiki/Narew). Przełamanie było początkiem szerszej [bitwy nad Narwią i Biebrzą](/bitwy/bitwa-nad-narwia-i-biebrza).
+Druga bitwa pod Przasnyszem otworzyła letnią ofensywę niemiecką na północnym skrzydle frontu wschodniego. 13 lipca 1915 roku grupa armijna generała [Maxa von Gallwitza](/postacie/max-von-gallwitz) uderzyła na pozycje rosyjskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) po obu stronach [Przasnysza](https://pl.wikipedia.org/wiki/Przasnysz), tego samego miasta, o które walczono w lutym. Tym razem Niemcy mieli miażdżącą przewagę w artylerii. Pierwszego dnia zdobyli główną linię obrony, 14 lipca zajęli Przasnysz, a do 17 lipca zepchnęli Rosjan o około 30 kilometrów, na umocnione przedmościa nad [Narwią](https://pl.wikipedia.org/wiki/Narew). Przełamanie było początkiem szerszej [bitwy nad Narwią i Biebrzą](/bitwy/bitwa-nad-narwia-i-biebrza).
 
 ## Nazwa i daty
 
@@ -33,7 +33,7 @@ Główny cios powierzono grupie armijnej Gallwitza, którą w lipcu wzmocniono k
 
 Według rosyjskich i niemieckich opracowań grupa Gallwitza liczyła około 177 tysięcy żołnierzy. Do natarcia rzucono trzy korpusy (XIII, XVII i XI) z siedmioma dywizjami, a za nimi stały kolejne. Szacunki niemieckiej artylerii wahają się od około 800 do ponad 1200 dział. Co najmniej 800 z nich wzięło udział w przygotowaniu artyleryjskim, a każde działo miało zapas kilkuset pocisków.
 
-Rosyjską 1 Armią dowodził generał Aleksandr Litwinow. Miała w składzie I Korpus Turkiestański, I Korpus Syberyjski, XXVII Korpus Armijny i I Korpus Kawalerii, a od wschodu sąsiadował z nią IV Korpus Syberyjski z 12 Armii. Według różnych obliczeń Rosjanie mieli od około 107 do 141 tysięcy ludzi i od niespełna 400 do około 500 dział, przy dotkliwym braku amunicji. Bronili się jednak na pozycjach rozbudowywanych od wiosny: kilku liniach okopów z ziemiankami i zasiekami. Całym frontem północno-zachodnim dowodził generał [Michaił Aleksiejew](https://pl.wikipedia.org/wiki/Michaił_Aleksiejew_(generał)).
+Rosyjską 1 Armią dowodził generał Aleksandr Litwinow. Miała w składzie I Korpus Turkiestański, I Korpus Syberyjski, XXVII Korpus Armijny i I Korpus Kawalerii, a od wschodu sąsiadował z nią IV Korpus Syberyjski z 12 Armii. Według różnych obliczeń Rosjanie mieli od około 107 do 141 tysięcy ludzi i od niespełna 400 do około 500 dział, przy dotkliwym braku amunicji. Bronili się jednak na pozycjach rozbudowywanych od wiosny: kilku liniach okopów z ziemiankami i zasiekami. Całym frontem północno-zachodnim dowodził generał [Michaił Aleksiejew](/postacie/michail-aleksiejew).
 
 ## Przebieg
 

@@ -27,4 +27,4 @@ Brytyjska Admiralicja ogłosiła 23 października, że okręty wyrządziły powa
 
 ## Bez wpływu na losy Serbii
 
-Atak zaskoczył Bułgarów, ale nie powstrzymał ich ofensywy. Ich wysiłki skupiały się wtedy na Skopje, które zajęli następnego dnia. Dla rządu brytyjskiego był to kolejny powód, by nie iść w ślady generała [Maurice'a Sarraila](https://pl.wikipedia.org/wiki/Maurice_Sarrail), który poprowadził francuskie dywizje z Salonik w głąb Macedonii na pomoc Serbom. Ostrzał wybrzeża pokazał, że flota może uderzać w Bułgarię bezkarnie, ale samymi okrętami nie dało się zmienić biegu wojny na lądzie.
+Atak zaskoczył Bułgarów, ale nie powstrzymał ich ofensywy. Ich wysiłki skupiały się wtedy na Skopje, które zajęli następnego dnia. Dla rządu brytyjskiego był to kolejny powód, by nie iść w ślady generała [Maurice'a Sarraila](/postacie/maurice-sarrail), który poprowadził francuskie dywizje z Salonik w głąb Macedonii na pomoc Serbom. Ostrzał wybrzeża pokazał, że flota może uderzać w Bułgarię bezkarnie, ale samymi okrętami nie dało się zmienić biegu wojny na lądzie.

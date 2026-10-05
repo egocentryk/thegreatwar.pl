@@ -1,0 +1,57 @@
+---
+name: Ian Hamilton
+summary: Weteran wojen kolonialnych, poeta i obserwator wojny rosyjsko-japońskiej. W 1915 roku dowodził wyprawą na Gallipoli, a po klęsce pod Suvlą został odwołany.
+role: Dowódca Śródziemnomorskich Sił Ekspedycyjnych na Gallipoli (marzec–październik 1915), generał
+country: Wielka Brytania
+side: Ententa
+born: 1853-01-16
+died: 1947-10-12
+birthPlace: Korfu (Wyspy Jońskie)
+deathPlace: Londyn
+aliases: [Ian Hamilton]
+wikiTitles: [Ian_Hamilton_(generał)]
+authors: [Łukasz Skowroń]
+tags: [Ian Hamilton, Wielka Brytania, Dardanele]
+---
+
+Sir Ian Hamilton był jednym z najbardziej doświadczonych i najbardziej oczytanych generałów brytyjskich swojej epoki. Walczył na kilku kontynentach, pisał wiersze i powieści, mówił po niemiecku i francusku, a wojnę rosyjsko-japońską oglądał z bliska jako obserwator przy armii japońskiej. W marcu 1915 roku lord Kitchener powierzył mu dowództwo wojsk, które miały pomóc flocie przedrzeć się przez Dardanele. Przez siedem miesięcy Hamilton prowadził na półwyspie Gallipoli kampanię, która miała otworzyć drogę do Konstantynopola, a skończyła się jedną z najdotkliwszych porażek Ententy. W październiku 1915 roku rząd go odwołał i już nigdy nie dostał dowództwa w polu. Historycy do dziś spierają się o to, ile w tej klęsce było jego winy, a ile winy polityków, którzy dali mu za mało ludzi, amunicji i czasu.
+
+## Przed wojną
+
+Urodził się 16 stycznia 1853 roku na [Korfu](https://pl.wikipedia.org/wiki/Korfu), które było wtedy pod protektoratem brytyjskim. Jego ojciec był oficerem szkockiego pułku Gordon Highlanders, matka, córka irlandzkiego wicehrabiego Gorta, zmarła, gdy Ian miał trzy lata. Uczył się w Wellington College, potem przez pewien czas u emerytowanego hanowerskiego generała w Niemczech, a w 1871 roku ukończył akademię wojskową w Sandhurst. Po krótkiej służbie w pułku Suffolk przeszedł do Gordon Highlanders, z którymi wyjechał do Indii.
+
+Wojskowe rzemiosło poznawał w niemal wszystkich wojnach kolonialnych późnej epoki wiktoriańskiej. Walczył w drugiej wojnie afgańskiej, a w 1881 roku, w czasie pierwszej wojny z Burami, został ciężko ranny w bitwie [na wzgórzu Majuba](https://pl.wikipedia.org/wiki/Bitwa_na_wzgórzu_Majuba) i na krótko trafił do niewoli. Od tej rany jego lewa ręka pozostała niemal bezwładna. Potem brał udział w wyprawie nilowej na odsiecz Chartumowi, w wojnie w Birmie i w wyprawach na pograniczu północno-zachodnim Indii, gdzie dowodził brygadą w kampanii w Tirah. Należał do kręgu protegowanych lorda Robertsa, naczelnego wodza w Indiach, a później całej armii. W 1887 roku ożenił się z Jean Muir, córką bogatego kupca z Glasgow.
+
+W [drugiej wojnie burskiej](https://pl.wikipedia.org/wiki/II_wojna_burska) dowodził piechotą pod Elandslaagte, bronił jednego z odcinków oblężonego Ladysmith, a potem prowadził kolumnę piechoty konnej w marszu na Pretorię, który opisał w reportażu młody korespondent [Winston Churchill](/postacie/winston-churchill). Dwukrotnie przedstawiano go do Krzyża Wiktorii, ale za każdym razem odmówiono, raz z powodu wieku, raz z powodu stopnia. Pod koniec wojny był szefem sztabu [Kitchenera](/postacie/horatio-kitchener). W latach 1904–1905 obserwował [wojnę rosyjsko-japońską](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-japońska) przy armii japońskiej w Mandżurii. Wyniósł z niej przekonanie, że kawaleria traci znaczenie, ale też, że wysokie morale pozwala piechocie zdobyć nawet silnie umocnione pozycje. Potem dowodził Okręgiem Południowym, był adiutantem generalnym armii, a od 1910 roku generalnym inspektorem wojsk zamorskich i dowódcą na Morzu Śródziemnym. Latem 1914 roku jego kadencja dobiegała końca.
+
+## 1914: obrona kraju
+
+Po wybuchu wojny Hamilton objął dowództwo armii krajowej, złożonej głównie z oddziałów terytorialnych, które miały odeprzeć ewentualny niemiecki desant na wschodnim wybrzeżu Anglii. Uchodził za oficera zbyt niekonwencjonalnego, zbyt intelektualnego i zbyt zżytego z politykami, by powierzyć mu dowództwo we Francji. Mimo to 1 listopada 1914 roku, w krytycznych dniach [pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres), Kitchener zaproponował [Joffre'owi](/postacie/joseph-joffre), by zastąpić nim [Johna Frencha](/postacie/john-french). Joffre odmówił i Hamilton został w kraju.
+
+## 1915: Dardanele
+
+Na początku marca 1915 roku, gdy flota ostrzeliwała forty Dardaneli, Churchill jako pierwszy lord Admiralicji poprosił, by dowództwo wojsk lądowych na Morzu Śródziemnym objął właśnie Hamilton. [12 marca](/ian-hamilton-dowodca-sil-srodziemnomorskich) Kitchener wezwał go do swojego gabinetu i oznajmił mu nominację. Instrukcje były bardzo ogólne, wiedza o przeciwniku znikoma, a sztab niekompletny: oficerowie od zaopatrzenia i spraw personalnych mieli dojechać później. Hamilton przybył pod Dardanele 17 marca, w przeddzień wielkiego natarcia floty, i [18 marca](/atak-floty-w-dardanelach-odparty) oglądał jego klęskę. Razem z admirałem Johnem de Robeckiem uznał, że okręty nie przejdą cieśniny, dopóki wojsko nie zajmie jej brzegów.
+
+W ciągu pięciu tygodni Hamilton przygotował wtedy największy desant, jaki do tej pory przeprowadzono. Nie miał specjalnych barek desantowych ani żołnierzy wyszkolonych do takich operacji, a statki z zaopatrzeniem trzeba było przeładowywać w Egipcie. [25 kwietnia](/bitwy/ladowanie-na-gallipoli) jego około 75 tysięcy ludzi zeszło na ląd w dwóch głównych miejscach: brytyjska 29 Dywizja wokół przylądka Helles, a Australijczycy i Nowozelandczycy generała Williama Birdwooda w zatoczce nazwanej potem Anzac. Hamilton obserwował desant z pokładu drednota Queen Elizabeth. Gdy w nocy Birdwood zasugerował ewakuację zagrożonego przyczółka, odpisał mu, żeby żołnierze kopali, „aż będą bezpieczni”. Krytycy zarzucają mu, że nie wykorzystał rano sukcesu na plaży Y, na której wylądowano bez oporu, i zbyt ufał zmęczonemu dowódcy 29 Dywizji, generałowi Aylmerowi Hunterowi-Westonowi.
+
+Tureckie wojska [Ottona Limana von Sandersa](/postacie/otto-liman-von-sanders) i dowódców takich jak [Mustafa Kemal](/postacie/mustafa-kemal) zatrzymały aliantów tuż przy brzegu. [Pierwsza](/bitwy/pierwsza-bitwa-o-kritie), [druga](/bitwy/druga-bitwa-o-kritie) i [trzecia](/bitwy/trzecia-bitwa-o-kritie) bitwa o Kritię, prowadzone w biały dzień przeciw karabinom maszynowym i przy chronicznym braku pocisków, nie zbliżyły Brytyjczyków do wzgórza Achi Baba. Hamilton meldował Kitchenerowi o trudnościach, ale prosił o posiłki ostrożnie i z optymizmem, który w Londynie odczytywano jako pewność sukcesu. W czerwcu [Komitet Dardanelski](/pierwsze-posiedzenie-komitetu-dardanelskiego) postanowił wysłać mu nowe dywizje.
+
+## Suvla i odwołanie
+
+Na sierpień Hamilton przygotował wielką ofensywę. Z przyczółka Anzac miano nocą zdobyć grzbiet [Sari Bair](/bitwy/bitwa-o-sari-bair), a w [zatoce Suvla](/bitwy/ladowanie-w-zatoce-suvla) wysadzić nowy IX Korpus, który miał zająć okoliczne wzgórza. Plan był śmiały i zaskoczył Turków, ale wykonawcy go zawiedli. Dowódca IX Korpusu, ponad sześćdziesięcioletni generał Frederick Stopford, który nigdy wcześniej nie dowodził wojskami w boju, kierował desantem z pokładu okrętu, a jego dywizje stały bezczynnie na plaży, gdy Turcy ściągali posiłki. Hamilton, który nie chciał wtrącać się w decyzje podwładnych, dotarł do Suvli dopiero wieczorem 8 sierpnia, bo jego niszczyciel miał awarię kotła. Gdy wreszcie kazał atakować, było za późno: na grzbiecie Tekke Tepe stali już Turcy. 15 sierpnia odwołał Stopforda, a [walki o wzgórze Scimitar](/bitwy/bitwa-o-wzgorze-scimitar) zamknęły ofensywę. W ciągu pierwszych czterech dni straty sięgnęły ponad 25 tysięcy ludzi.
+
+Od tej chwili zaufanie Londynu do Hamiltona topniało. We wrześniu australijski dziennikarz Keith Murdoch wywiózł z półwyspu list korespondenta Ellisa Ashmeada-Bartletta, który krytykował dowództwo, a po jego skonfiskowaniu w Marsylii napisał własny, jeszcze ostrzejszy list do premiera Australii. Premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) rozesłał go członkom rządu. Do tego doszedł raport odwołanego Stopforda, który obwiniał kwaterę główną. W październiku, gdy Bułgaria przystąpiła do wojny, a część wojsk odpłynęła [do Salonik](/ladowanie-ententy-w-salonikach), Kitchener zapytał Hamiltona, ile ludzi straciłby przy ewakuacji. Generał odpowiedział, że nawet połowę. [14 października](/ostatnie-posiedzenie-komitetu-dardanelskiego) Komitet Dardanelski postanowił go odwołać, a [depeszę](/charles-monro-nastepca-hamiltona) Hamilton przeczytał rano 16 października na wyspie Imbros. Jego następca, generał Charles Monro, niemal od razu zalecił [ewakuację półwyspu](/bitwy/ewakuacja-gallipoli), przeprowadzoną niemal bez strat w grudniu 1915 i styczniu 1916 roku.
+
+## Komisja Dardanelska
+
+W 1916 roku parlament powołał komisję do zbadania przyczyn klęski. Hamilton zeznawał przed nią i, jak pokazała historyczka Jenny Macleod, po cichu zabiegał o korzystny dla siebie werdykt. Raport z 1917 roku i raport końcowy z 1919 roku uznały wyprawę za źle zaplanowaną i źle przeprowadzoną. Komisja obciążyła winą przede wszystkim Kitchenera i rząd, ale zarzuciła też Hamiltonowi nadmierny optymizm i to, że nie przedstawiał jasno swoich potrzeb. W 1920 roku generał wydał dwutomowy „Dziennik z Gallipoli”, który był w dużej mierze obroną jego decyzji.
+
+## Po wojnie
+
+Po odwołaniu nie dostał już żadnego dowództwa. Pod koniec wojny lub tuż po niej (źródła podają rok 1918 albo 1919) otrzymał honorowy urząd namiestnika Tower of London, a wkrótce potem przeszedł w stan spoczynku. Poświęcił się weteranom: był przewodniczącym szkockiego oddziału Legionu Brytyjskiego, a od 1932 roku rektorem uniwersytetu w Edynburgu. Pisał wspomnienia i eseje, w których przestrzegał przed kolejną wojną. W 1928 roku współtworzył Towarzystwo Angielsko-Niemieckie, które miało zbliżyć oba kraje, i po dojściu Hitlera do władzy wypowiadał się o nim z podziwem, co szkodzi jego pamięci. W 1934 roku uprosił prezydenta [Paula von Hindenburga](/postacie/paul-von-hindenburg) o zwrot bębnów batalionu Gordon Highlanders, porzuconych w 1914 roku w Ostendzie, i odebrał je osobiście w Berlinie. Zmarł w Londynie 12 października 1947 roku, w wieku 94 lat. Pochowano go w Doune w Szkocji.
+
+## Ocena
+
+Hamilton budził skrajne opinie już za życia. Asquith miał o nim powiedzieć, że ma „za dużo piór w mózgu”, a wielu oficerów sztabowych uważało go za uroczego, lecz zbyt miękkiego dowódcę. Australijski korespondent wojenny i późniejszy historyk oficjalny Charles Bean przyznawał mu natomiast szerokość horyzontów, jakiej brakowało większości armii.
+
+Historycy na ogół zgadzają się, że Hamilton dostał zadanie niemal niewykonalne: za mało wojsk, za mało artylerii i amunicji, plan sporządzony w pośpiechu i przeciwnika, którego wszyscy w Londynie lekceważyli. Wielu podkreśla też, że desant z 25 kwietnia był jak na możliwości epoki osiągnięciem organizacyjnym. Krytycy, wśród nich Robert Rhodes James, autor klasycznej historii kampanii, wskazują jednak na jego słabości jako dowódcy: niechęć do narzucania woli podwładnym, przez którą Hunter-Weston i Stopford mogli popełniać błędy bez kontroli, odległość kwatery na Imbros od pola walki i nieuzasadniony optymizm meldunków, który utrudniał rządowi trzeźwą ocenę sytuacji. Biograf John Lee broni go jako zdolnego i nowocześnie myślącego żołnierza, który stał się kozłem ofiarnym przedsięwzięcia skazanego na porażkę. Wszyscy zgadzają się co do jednego: na Gallipoli skończyła się kariera, która przez czterdzieści lat wydawała się zmierzać na sam szczyt armii brytyjskiej.

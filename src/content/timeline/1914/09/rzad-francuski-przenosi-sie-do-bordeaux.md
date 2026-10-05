@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 września 1914 roku, w rocznicę klęski pod Sedanem z 1870 roku, francuskie władze postanowiły opuścić [Paryż](https://pl.wikipedia.org/wiki/Paryż). Późnym wieczorem prezydent [Raymond Poincaré](https://pl.wikipedia.org/wiki/Raymond_Poincaré) i ministrowie rządu [René Vivianiego](https://pl.wikipedia.org/wiki/René_Viviani) wyjechali pociągiem do [Bordeaux](https://pl.wikipedia.org/wiki/Bordeaux), dokąd dotarli następnego dnia w południe. Przez ponad trzy miesiące miasto nad Garonną było faktyczną stolicą Francji.
+2 września 1914 roku, w rocznicę klęski pod Sedanem z 1870 roku, francuskie władze postanowiły opuścić [Paryż](https://pl.wikipedia.org/wiki/Paryż). Późnym wieczorem prezydent [Raymond Poincaré](/postacie/raymond-poincare) i ministrowie rządu [René Vivianiego](https://pl.wikipedia.org/wiki/René_Viviani) wyjechali pociągiem do [Bordeaux](https://pl.wikipedia.org/wiki/Bordeaux), dokąd dotarli następnego dnia w południe. Przez ponad trzy miesiące miasto nad Garonną było faktyczną stolicą Francji.
 
 ## Niemcy pod Paryżem
 

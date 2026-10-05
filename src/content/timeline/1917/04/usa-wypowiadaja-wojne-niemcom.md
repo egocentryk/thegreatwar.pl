@@ -10,7 +10,7 @@ milestone: true
 draft: false
 ---
 
-6 kwietnia 1917 roku, w Wielki Piątek, Stany Zjednoczone przystąpiły do wojny z Niemcami. O 3:12 nad ranem [Izba Reprezentantów](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_Stanów_Zjednoczonych) przyjęła stosunkiem głosów 373 do 50 wspólną rezolucję Kongresu, którą [Senat](https://pl.wikipedia.org/wiki/Senat_Stanów_Zjednoczonych) zatwierdził dwa dni wcześniej. O 13:18 prezydent [Woodrow Wilson](https://pl.wikipedia.org/wiki/Woodrow_Wilson) ją podpisał i ogłosił proklamację o istnieniu stanu wojny. Od zerwania stosunków dyplomatycznych minęły dwa miesiące, a od [orędzia prezydenta](/wilson-prosi-kongres-o-wypowiedzenie-wojny) do Kongresu cztery dni.
+6 kwietnia 1917 roku, w Wielki Piątek, Stany Zjednoczone przystąpiły do wojny z Niemcami. O 3:12 nad ranem [Izba Reprezentantów](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_Stanów_Zjednoczonych) przyjęła stosunkiem głosów 373 do 50 wspólną rezolucję Kongresu, którą [Senat](https://pl.wikipedia.org/wiki/Senat_Stanów_Zjednoczonych) zatwierdził dwa dni wcześniej. O 13:18 prezydent [Woodrow Wilson](/postacie/woodrow-wilson) ją podpisał i ogłosił proklamację o istnieniu stanu wojny. Od zerwania stosunków dyplomatycznych minęły dwa miesiące, a od [orędzia prezydenta](/wilson-prosi-kongres-o-wypowiedzenie-wojny) do Kongresu cztery dni.
 
 ## Rezolucja
 

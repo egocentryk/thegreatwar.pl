@@ -29,7 +29,7 @@ Austriacka historia oficjalna mówi o bitwie pod Przemyślem i Chyrowem i dzieli
 
 Na początku października 1914 roku armie austro-węgierskie przeszły [do kontrofensywy w Galicji](/kontrofensywa-austro-wegier-w-galicji), równocześnie z niemieckim marszem [na Warszawę i Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem). Rosjanie nie przyjęli bitwy w środkowej Galicji. Przerwali oblężenie Przemyśla i na północ od twierdzy wycofali się za San. Na południe od niej 8 Armia Brusiłowa zajęła przygotowany wcześniej front od Przemyśla po Stary Sambor, zasłaniający drogę na Lwów.
 
-Dowództwo austro-węgierskie liczyło, że właśnie tu, na południowym skrzydle, uda się rozbić słabsze siły rosyjskie i wyjść na tyły armii broniących Sanu. Od południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli). Jej prawe skrzydło, IV Korpus generała Tersztyánszky'ego, odbiło [Przełęcz Użocką](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) i doszło do Turki. Od zachodu i spod Przemyśla atakować miało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic).
+Dowództwo austro-węgierskie liczyło, że właśnie tu, na południowym skrzydle, uda się rozbić słabsze siły rosyjskie i wyjść na tyły armii broniących Sanu. Od południa, z Karpat, nadciągała 2 Armia generała [Eduarda von Böhm-Ermollego](/postacie/eduard-von-bohm-ermolli). Jej prawe skrzydło, IV Korpus generała Tersztyánszky'ego, odbiło [Przełęcz Użocką](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) i doszło do Turki. Od zachodu i spod Przemyśla atakować miało południowe skrzydło 3 Armii generała [Svetozara Boroevicia](/postacie/svetozar-boroevic).
 
 ## Siły
 

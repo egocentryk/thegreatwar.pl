@@ -26,7 +26,7 @@ Dywizja Dunajska I powołania odrzuciła jedną z austro-węgierskich brygad gó
 
 ## Pozostałe armie
 
-Na północ od Mišicia do natarcia ruszyła 3 Armia generała [Pavle Jurišicia Šturma](https://pl.wikipedia.org/wiki/Pavle_Jurišić_Šturm), ale z opóźnieniem, bo czekała na sąsiednie oddziały 2 Armii. Rozkaz ogólnego ataku wydano o 13. Aby podnieść ducha żołnierzy, ogłoszono im poranne sukcesy 1 Armii, a do oddziałów na froncie przybył sędziwy król [Piotr I](https://pl.wikipedia.org/wiki/Piotr_I_Karadziordziewić). Późny start sprawił, że 3 Armia tego dnia niewiele zyskała. Węgierscy honwedzi z 40 Dywizji bronili się zacięcie i ustępowali tylko pod ogniem przeważającej artylerii.
+Na północ od Mišicia do natarcia ruszyła 3 Armia generała [Pavle Jurišicia Šturma](https://pl.wikipedia.org/wiki/Pavle_Jurišić_Šturm), ale z opóźnieniem, bo czekała na sąsiednie oddziały 2 Armii. Rozkaz ogólnego ataku wydano o 13. Aby podnieść ducha żołnierzy, ogłoszono im poranne sukcesy 1 Armii, a do oddziałów na froncie przybył sędziwy król [Piotr I](/postacie/piotr-i-karadziordziewic). Późny start sprawił, że 3 Armia tego dnia niewiele zyskała. Węgierscy honwedzi z 40 Dywizji bronili się zacięcie i ustępowali tylko pod ogniem przeważającej artylerii.
 
 2 Armia wojewody [Stepy Stepanovicia](/postacie/stepa-stepanovic) próbowała odzyskać pozycje utracone w listopadzie koło [Lazarevaca](https://pl.wikipedia.org/wiki/Lazarevac). Dywizja Timocka I powołania szturmem zdobyła wzgórze przy drodze do miasta, a Dywizja Morawska I powołania podeszła pod kluczową wyżynę Kremenica. Serbowie nie przerwali walki po zmroku i nacierali także nocą.
 

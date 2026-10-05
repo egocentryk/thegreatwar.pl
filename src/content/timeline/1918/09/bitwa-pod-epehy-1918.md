@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-18 września 1918 roku o 5.20 rano, w ulewnym deszczu i gęstej mgle, brytyjska 4 Armia generała [Henry'ego Rawlinsona](https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)) i prawe skrzydło 3 Armii ruszyły na zewnętrzne pozycje Linii Hindenburga między Saint-Quentin a Gouzeaucourt. Sześć dni wcześniej 3 Armia [zdobyła Havrincourt](/poczatek-bitwy-pod-havrincourt) na północnym odcinku tej samej linii. Teraz przyszła kolej na pas dawnych okopów brytyjskich, utraconych [21 marca](/poczatek-operacji-michael), z umocnionymi wsiami Le Verguier, Ronssoy i [Épehy](https://pl.wikipedia.org/wiki/Épehy). Do wieczora Australijczycy w centrum zdobyli wszystkie cele, a Brytyjczycy na skrzydłach, po całym dniu walk, wyparli Niemców z większości umocnionych wsi. Do niewoli poszło ponad 9 tysięcy Niemców.
+18 września 1918 roku o 5.20 rano, w ulewnym deszczu i gęstej mgle, brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) i prawe skrzydło 3 Armii ruszyły na zewnętrzne pozycje Linii Hindenburga między Saint-Quentin a Gouzeaucourt. Sześć dni wcześniej 3 Armia [zdobyła Havrincourt](/poczatek-bitwy-pod-havrincourt) na północnym odcinku tej samej linii. Teraz przyszła kolej na pas dawnych okopów brytyjskich, utraconych [21 marca](/poczatek-operacji-michael), z umocnionymi wsiami Le Verguier, Ronssoy i [Épehy](https://pl.wikipedia.org/wiki/Épehy). Do wieczora Australijczycy w centrum zdobyli wszystkie cele, a Brytyjczycy na skrzydłach, po całym dniu walk, wyparli Niemców z większości umocnionych wsi. Do niewoli poszło ponad 9 tysięcy Niemców.
 
 ## Noc przed bitwą
 

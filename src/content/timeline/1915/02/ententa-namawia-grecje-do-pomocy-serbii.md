@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-15 lutego 1915 roku brytyjski poseł w Atenach sir Francis Elliot i jego francuski kolega przedstawili premierowi Grecji [Elefteriosowi Wenizelosowi](https://pl.wikipedia.org/wiki/Elefterios_Wenizelos) wspólne wystąpienie Ententy. Grecja miała przyjść z pomocą Serbii, a Wielka Brytania, Francja i Rosja zobowiązywały się wysłać do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) po jednej dywizji, które zabezpieczyłyby greckie tyły i linie komunikacyjne. Wenizelos odrzucił propozycję jeszcze tego samego dnia, nie radząc się nawet króla.
+15 lutego 1915 roku brytyjski poseł w Atenach sir Francis Elliot i jego francuski kolega przedstawili premierowi Grecji [Elefteriosowi Wenizelosowi](/postacie/elefterios-wenizelos) wspólne wystąpienie Ententy. Grecja miała przyjść z pomocą Serbii, a Wielka Brytania, Francja i Rosja zobowiązywały się wysłać do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) po jednej dywizji, które zabezpieczyłyby greckie tyły i linie komunikacyjne. Wenizelos odrzucił propozycję jeszcze tego samego dnia, nie radząc się nawet króla.
 
 ## Plan z Londynu
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 13 lipca 1915 roku niemiecka grupa armijna generała [Maxa von Gallwitza](https://pl.wikipedia.org/wiki/Max_von_Gallwitz) uderzyła na pozycje rosyjskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) po obu stronach [Przasnysza](https://pl.wikipedia.org/wiki/Przasnysz). Było to główne uderzenie [ofensywy, którą państwa centralne rozpoczęły tego dnia na północy frontu wschodniego](/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie). Pięć miesięcy wcześniej Niemcy zdobyli już Przasnysz, ale po trzech dniach stracili go w rosyjskim kontrnatarciu, w [pierwszej bitwie pod Przasnyszem](/bitwy/pierwsza-bitwa-pod-przasnyszem). Od tamtej pory front na północnym Mazowszu stał w miejscu, a Rosjanie rozbudowali tu kilka linii okopów.
+Rankiem 13 lipca 1915 roku niemiecka grupa armijna generała [Maxa von Gallwitza](/postacie/max-von-gallwitz) uderzyła na pozycje rosyjskiej [1 Armii](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) po obu stronach [Przasnysza](https://pl.wikipedia.org/wiki/Przasnysz). Było to główne uderzenie [ofensywy, którą państwa centralne rozpoczęły tego dnia na północy frontu wschodniego](/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie). Pięć miesięcy wcześniej Niemcy zdobyli już Przasnysz, ale po trzech dniach stracili go w rosyjskim kontrnatarciu, w [pierwszej bitwie pod Przasnyszem](/bitwy/pierwsza-bitwa-pod-przasnyszem). Od tamtej pory front na północnym Mazowszu stał w miejscu, a Rosjanie rozbudowali tu kilka linii okopów.
 
 ## Ogień kilkuset dział
 
