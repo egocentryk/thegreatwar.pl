@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-19 września 1918 roku o 4.30 nad nadmorską [równiną Szaron](https://pl.wikipedia.org/wiki/Równina_Szaron), kilkanaście kilometrów na północ od Jafy, zagrzmiało kilkaset brytyjskich dział. Tak zaczęła się ostatnia wielka ofensywa generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) w Palestynie. Zanim zapadł zmrok, jego piechota przełamała cały system tureckich okopów nad morzem i obróciła się jak drzwi na zawiasach w głąb gór Samarii, a przez otwarty wyłom przeszły na północ trzy dywizje jazdy Pustynnego Korpusu Konnego. Turecka 8 Armia przestała tego dnia istnieć jako zorganizowana siła, a dowództwo grupy armii w Nazarecie przez wiele godzin nie wiedziało, co się dzieje na jej prawym skrzydle.
+19 września 1918 roku o 4.30 nad nadmorską [równiną Szaron](https://pl.wikipedia.org/wiki/Równina_Szaron), kilkanaście kilometrów na północ od Jafy, zagrzmiało kilkaset brytyjskich dział. Tak zaczęła się ostatnia wielka ofensywa generała [Edmunda Allenby'ego](/postacie/edmund-allenby) w Palestynie. Zanim zapadł zmrok, jego piechota przełamała cały system tureckich okopów nad morzem i obróciła się jak drzwi na zawiasach w głąb gór Samarii, a przez otwarty wyłom przeszły na północ trzy dywizje jazdy Pustynnego Korpusu Konnego. Turecka 8 Armia przestała tego dnia istnieć jako zorganizowana siła, a dowództwo grupy armii w Nazarecie przez wiele godzin nie wiedziało, co się dzieje na jej prawym skrzydle.
 
 ## Noc przed bitwą
 

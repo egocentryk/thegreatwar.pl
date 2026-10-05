@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Późnym wieczorem 14 grudnia 1918 roku na dworcu [Rossio](https://pl.wikipedia.org/wiki/Estação_Rossio) w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) został postrzelony prezydent Portugalii [Sidónio Pais](https://pl.wikipedia.org/wiki/Sidónio_Pais). Około 23.00 przyszedł na peron, by nocnym pociągiem pojechać do [Porto](https://pl.wikipedia.org/wiki/Porto). Strzelał do niego 25-letni José Júlio da Costa, były sierżant armii z Alentejo. Ranny prezydent zmarł niespełna godzinę później w lizbońskim szpitalu São José. Miał 46 lat. Zginął niemal dokładnie rok po [zamachu stanu z grudnia 1917 roku](/zamach-stanu-sidonia-paisa), który dał mu władzę. Brytyjska chronologia wojny zapisuje jego śmierć pod tą samą datą.
+Późnym wieczorem 14 grudnia 1918 roku na dworcu [Rossio](https://pl.wikipedia.org/wiki/Estação_Rossio) w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) został postrzelony prezydent Portugalii [Sidónio Pais](/postacie/sidonio-pais). Około 23.00 przyszedł na peron, by nocnym pociągiem pojechać do [Porto](https://pl.wikipedia.org/wiki/Porto). Strzelał do niego 25-letni José Júlio da Costa, były sierżant armii z Alentejo. Ranny prezydent zmarł niespełna godzinę później w lizbońskim szpitalu São José. Miał 46 lat. Zginął niemal dokładnie rok po [zamachu stanu z grudnia 1917 roku](/zamach-stanu-sidonia-paisa), który dał mu władzę. Brytyjska chronologia wojny zapisuje jego śmierć pod tą samą datą.
 
 ## Kraj w kryzysie
 

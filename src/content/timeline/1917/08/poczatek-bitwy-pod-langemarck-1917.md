@@ -28,7 +28,7 @@ Najlepiej poszło na północy, w pasie XIV Korpusu lorda Cavana. Żołnierze 20
 
 Na lewo od nich 29 Dywizja zdobyła przysiółek Wijdendrift. Szedł w niej pułk z [Nowej Fundlandii](https://pl.wikipedia.org/wiki/Dominium_Nowej_Fundlandii), który rok wcześniej, w pierwszych minutach bitwy nad Sommą, stracił pod Beaumont-Hamel większość ludzi. Tym razem Nowofundlandczycy doszli do ostatniego celu i zajęli jeszcze farmę Japan House. Kontrataki, które Niemcy przeprowadzili tu około szesnastej, odparto ogniem artylerii i karabinów.
 
-Na lewym skrzydle Francuzi generała [François Anthoine’a](https://pl.wikipedia.org/wiki/François_Anthoine) przeszli w bród przez zalewiska na północ od [Bikschote](https://pl.wikipedia.org/wiki/Bikschote) i zajęli zburzony wcześniej przez artylerię przyczółek Drie Grachten u zbiegu trzech kanałów. Na prawym skrzydle przekroczyli Steenbeek i doszli nad strumień Broombeek. Do wieczora opierały się im tylko dwa bunkry, Les Lilas i Mondovi.
+Na lewym skrzydle Francuzi generała [François Anthoine’a](/postacie/francois-anthoine) przeszli w bród przez zalewiska na północ od [Bikschote](https://pl.wikipedia.org/wiki/Bikschote) i zajęli zburzony wcześniej przez artylerię przyczółek Drie Grachten u zbiegu trzech kanałów. Na prawym skrzydle przekroczyli Steenbeek i doszli nad strumień Broombeek. Do wieczora opierały się im tylko dwa bunkry, Les Lilas i Mondovi.
 
 ## Irlandczycy pod Frezenberg
 

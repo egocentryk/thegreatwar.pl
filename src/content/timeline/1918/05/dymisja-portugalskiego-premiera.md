@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-15 maja 1918 roku w Portugalii zakończył działalność pierwszy rząd [Sidónia Paisa](https://pl.wikipedia.org/wiki/Sidónio_Pais), powołany po grudniowym zamachu stanu. Brytyjska chronologia wojny zapisuje pod tą datą dymisję Paisa jako premiera, a pod 16 maja nominację João Tamagniniego de Sousy Barbosy na sekretarza stanu spraw wewnętrznych. W rzeczywistości była to zmiana ustroju, a nie zwykły kryzys gabinetowy. Pais, od 9 maja [prezydent wybrany w głosowaniu powszechnym](/sidonio-pais-wybrany-prezydentem), nie zamierzał oddawać władzy nad rządem nikomu innemu. Według portugalskich wykazów rządów przestał być przewodniczącym Ministerstwa, czyli premierem, już z chwilą objęcia urzędu prezydenta, a 15 maja dotychczasowy gabinet odwołano i powołano nowy, którym kierował on sam jako głowa państwa.
+15 maja 1918 roku w Portugalii zakończył działalność pierwszy rząd [Sidónia Paisa](/postacie/sidonio-pais), powołany po grudniowym zamachu stanu. Brytyjska chronologia wojny zapisuje pod tą datą dymisję Paisa jako premiera, a pod 16 maja nominację João Tamagniniego de Sousy Barbosy na sekretarza stanu spraw wewnętrznych. W rzeczywistości była to zmiana ustroju, a nie zwykły kryzys gabinetowy. Pais, od 9 maja [prezydent wybrany w głosowaniu powszechnym](/sidonio-pais-wybrany-prezydentem), nie zamierzał oddawać władzy nad rządem nikomu innemu. Według portugalskich wykazów rządów przestał być przewodniczącym Ministerstwa, czyli premierem, już z chwilą objęcia urzędu prezydenta, a 15 maja dotychczasowy gabinet odwołano i powołano nowy, którym kierował on sam jako głowa państwa.
 
 ## Ministrowie stają się sekretarzami
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-22 listopada 1916 roku, w dniu [dymisji Gottlieba von Jagowa](/dymisja-jagowa), niemieckim ministrem spraw zagranicznych został dr [Arthur Zimmermann](https://pl.wikipedia.org/wiki/Arthur_Zimmermann). Formalnie objął stanowisko sekretarza stanu w Urzędzie Spraw Zagranicznych, bo w Rzeszy za politykę zagraniczną odpowiadał kanclerz, a sekretarz stanu był jego wykonawcą. Tę datę nominacji podaje większość opracowań. Brytyjska chronologia wojny notuje ją pod 21 listopada, a część źródeł mówi o 24 lub 25 listopada, co zapewne odpowiada dniom formalnego zatwierdzenia i ogłoszenia nominacji. Zimmermann miał 52 lata i od pięciu lat był w urzędzie drugą osobą po sekretarzu stanu.
+22 listopada 1916 roku, w dniu [dymisji Gottlieba von Jagowa](/dymisja-jagowa), niemieckim ministrem spraw zagranicznych został dr [Arthur Zimmermann](/postacie/arthur-zimmermann). Formalnie objął stanowisko sekretarza stanu w Urzędzie Spraw Zagranicznych, bo w Rzeszy za politykę zagraniczną odpowiadał kanclerz, a sekretarz stanu był jego wykonawcą. Tę datę nominacji podaje większość opracowań. Brytyjska chronologia wojny notuje ją pod 21 listopada, a część źródeł mówi o 24 lub 25 listopada, co zapewne odpowiada dniom formalnego zatwierdzenia i ogłoszenia nominacji. Zimmermann miał 52 lata i od pięciu lat był w urzędzie drugą osobą po sekretarzu stanu.
 
 ## Konsul z Mazur
 

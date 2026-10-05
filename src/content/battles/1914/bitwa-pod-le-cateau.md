@@ -23,13 +23,13 @@ milestone: false
 
 ## Tło
 
-Po bitwie pod Mons 23 sierpnia i klęsce Francuzów pod Charleroi Brytyjczycy [rozpoczęli odwrót](/brytyjczycy-wycofuja-sie-spod-mons). Oba brytyjskie korpusy rozdzielił las Mormal. I Korpus [Douglasa Haiga](/postacie/douglas-haig) po nocnej potyczce pod [Landrecies](https://pl.wikipedia.org/wiki/Landrecies) odszedł dalej na południe i nie mógł wesprzeć II Korpusu. Ten dotarł w rejon [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis) wieczorem 25 sierpnia, całkowicie wyczerpany. Dołączyła do niego 4 Dywizja generała Thomasa Snowa, która dopiero przybyła z Wielkiej Brytanii, oraz kawaleria generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby).
+Po bitwie pod Mons 23 sierpnia i klęsce Francuzów pod Charleroi Brytyjczycy [rozpoczęli odwrót](/brytyjczycy-wycofuja-sie-spod-mons). Oba brytyjskie korpusy rozdzielił las Mormal. I Korpus [Douglasa Haiga](/postacie/douglas-haig) po nocnej potyczce pod [Landrecies](https://pl.wikipedia.org/wiki/Landrecies) odszedł dalej na południe i nie mógł wesprzeć II Korpusu. Ten dotarł w rejon [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis) wieczorem 25 sierpnia, całkowicie wyczerpany. Dołączyła do niego 4 Dywizja generała Thomasa Snowa, która dopiero przybyła z Wielkiej Brytanii, oraz kawaleria generała [Edmunda Allenby'ego](/postacie/edmund-allenby).
 
 Około 3.30 w nocy Smith-Dorrien uznał, że dalszy marsz za dnia, z nieprzyjacielem na karku, skończy się rozbiciem korpusu. Postanowił przyjąć bitwę, zadać Niemcom silny cios i dopiero potem kontynuować odwrót. Naczelny wódz, marszałek [John French](/postacie/john-french), chciał dalszego odwrotu. Gdy około 7.00 sztab przekazał Smith-Dorrienowi rozkaz wycofania się, ten odpowiedział, że jego żołnierze już walczą.
 
 ## Siły
 
-Po stronie brytyjskiej walczyło około 40 tysięcy żołnierzy: według zestawień przytaczanych przez historyków około 40 batalionów piechoty i ponad 240 dział. Niemcy wprowadzali do walki swoje siły stopniowo. Na początku były to głównie IV Korpus generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin) i II Korpus Kawalerii generała [Georga von der Marwitza](https://pl.wikipedia.org/wiki/Georg_von_der_Marwitz), a w ciągu dnia nadciągały kolejne jednostki 1 Armii. Kluck był przekonany, że Brytyjczycy uciekają na zachód, w stronę portów nad kanałem La Manche, i początkowo nie spodziewał się zorganizowanej obrony.
+Po stronie brytyjskiej walczyło około 40 tysięcy żołnierzy: według zestawień przytaczanych przez historyków około 40 batalionów piechoty i ponad 240 dział. Niemcy wprowadzali do walki swoje siły stopniowo. Na początku były to głównie IV Korpus generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin) i II Korpus Kawalerii generała [Georga von der Marwitza](/postacie/georg-von-der-marwitz), a w ciągu dnia nadciągały kolejne jednostki 1 Armii. Kluck był przekonany, że Brytyjczycy uciekają na zachód, w stronę portów nad kanałem La Manche, i początkowo nie spodziewał się zorganizowanej obrony.
 
 ## Przebieg
 

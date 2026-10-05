@@ -46,7 +46,7 @@ Klęski osłabiły pozycję wielkiego księcia na dworze. Cesarzowa [Aleksandra 
 
 Odsunięty wódz został [namiestnikiem Kaukazu i dowódcą Armii Kaukaskiej](/wielki-ksiaze-mikolaj-namiestnikiem-kaukazu). Po kilku tygodniach w majątku pod Tułą przyjechał do Tyflisu. Ponieważ administracja kraju wymagała jego obecności w stolicy, w polu dowodził nadal generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz), a wielki książę zatwierdzał jego plany i zajmował się zapleczem. Wysłał korpus Baratowa do Persji, który w listopadzie 1915 roku [zajął Kazwin](/rosjanie-zajmuja-kazwin). Na przełomie 1915 i 1916 roku, choć miał wątpliwości, zaaprobował zimową [ofensywę erzurumską](/bitwy/ofensywa-erzurumska), a 16 lutego 1916 roku telegraficznie zameldował carowi o [zdobyciu Erzurum](/rosjanie-zdobywaja-erzurum). W kwietniu Rosjanie [zajęli Trabzon](/bitwy/ofensywa-trapezuncka). Kaukaz okazał się jedynym frontem, na którym Rosja wygrywała aż do rewolucji.
 
-Według wspomnień burmistrza Tyflisu Aleksandra Chatisowa w grudniu 1916 roku spiskowcy z otoczenia księcia [Gieorgija Lwowa](https://pl.wikipedia.org/wiki/Gieorgij_Lwow) zaproponowali wielkiemu księciu udział w obaleniu cara i objęcie tronu. Po dwóch dniach namysłu odmówił, tłumacząc, że chłop i żołnierz nie zrozumieją przewrotu.
+Według wspomnień burmistrza Tyflisu Aleksandra Chatisowa w grudniu 1916 roku spiskowcy z otoczenia księcia [Gieorgija Lwowa](/postacie/gieorgij-lwow) zaproponowali wielkiemu księciu udział w obaleniu cara i objęcie tronu. Po dwóch dniach namysłu odmówił, tłumacząc, że chłop i żołnierz nie zrozumieją przewrotu.
 
 ## Rewolucja i abdykacja
 

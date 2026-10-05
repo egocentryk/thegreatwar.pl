@@ -19,7 +19,7 @@ Po zwycięstwie w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie rosyjskie
 
 ## Strach na Węgrzech
 
-Wiadomość o Rosjanach po węgierskiej stronie Karpat wywołała panikę. Z przygranicznych wsi i miasteczek uciekały tysiące ludzi, urzędy przestawały działać, a w regionie szerzyła się cholera. Władze w [Budapeszcie](https://pl.wikipedia.org/wiki/Budapeszt) próbowały powstrzymać falę uchodźców zmierzających w głąb kraju, bo obawiały się epidemii i brakowało dla nich miejsc. Wojsko aresztowało tymczasem wielu miejscowych Rusinów, podejrzewanych o sympatie prorosyjskie. Premier [István Tisza](https://pl.wikipedia.org/wiki/István_Tisza) interweniował u władz wojskowych, domagając się położenia kresu nieuzasadnionym szykanom wobec ludności.
+Wiadomość o Rosjanach po węgierskiej stronie Karpat wywołała panikę. Z przygranicznych wsi i miasteczek uciekały tysiące ludzi, urzędy przestawały działać, a w regionie szerzyła się cholera. Władze w [Budapeszcie](https://pl.wikipedia.org/wiki/Budapeszt) próbowały powstrzymać falę uchodźców zmierzających w głąb kraju, bo obawiały się epidemii i brakowało dla nich miejsc. Wojsko aresztowało tymczasem wielu miejscowych Rusinów, podejrzewanych o sympatie prorosyjskie. Premier [István Tisza](/postacie/istvan-tisza) interweniował u władz wojskowych, domagając się położenia kresu nieuzasadnionym szykanom wobec ludności.
 
 ## Odparcie Rosjan
 

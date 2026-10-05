@@ -12,7 +12,7 @@ draft: false
 
 9 marca 1916 roku, w czwartek po południu, niemiecki poseł w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) Friedrich Rosen poprosił ministra spraw zagranicznych [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) Augusta Soaresa o pilne przyjęcie. Minister wyznaczył mu godzinę 18. Według lizbońskiej prasy Rosen przyszedł punktualnie, w czarnym surducie i cylindrze, a rozmowa trwała niespełna dwadzieścia minut. Poseł wręczył długą notę swojego rządu. Wyliczała ona niemieckie zarzuty wobec Portugalii i kończyła się oświadczeniem, że [Cesarstwo Niemieckie](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) uważa się odtąd za będące w stanie wojny z Portugalią. Jeszcze tego wieczoru amerykański poseł w Lizbonie depeszował do Waszyngtonu, że rząd niemiecki „uważa się za będący w stanie wojny z Portugalią”, a interesy niemieckie przejmuje poselstwo Hiszpanii.
 
-Następnego dnia wieczorem Rosen z żoną i personelem poselstwa wyjechał z Lizbony pociągiem specjalnym do [Madrytu](https://pl.wikipedia.org/wiki/Madryt). Razem z nim kraj opuściło wielu członków niemieckiej kolonii, choć część Niemców postanowiła zostać. Berlin musiał opuścić poseł portugalski [Sidónio Pais](https://pl.wikipedia.org/wiki/Sidónio_Pais), który reprezentował tam Portugalię od 1912 roku.
+Następnego dnia wieczorem Rosen z żoną i personelem poselstwa wyjechał z Lizbony pociągiem specjalnym do [Madrytu](https://pl.wikipedia.org/wiki/Madryt). Razem z nim kraj opuściło wielu członków niemieckiej kolonii, choć część Niemców postanowiła zostać. Berlin musiał opuścić poseł portugalski [Sidónio Pais](/postacie/sidonio-pais), który reprezentował tam Portugalię od 1912 roku.
 
 ## Spór o statki
 

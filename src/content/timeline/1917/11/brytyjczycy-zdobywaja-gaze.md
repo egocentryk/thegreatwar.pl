@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-7 listopada 1917 roku przed świtem brytyjskie patrole wyszły z okopów przed [Gazą](https://pl.wikipedia.org/wiki/Gaza_(miasto)) i nie napotkały nikogo. Turcy opuścili miasto, którego bronili od marca przed trzema brytyjskimi natarciami. O piątej rano Brytyjczycy byli na Green Hill i w Labiryncie, o siódmej na wzgórzu Ali Muntar, które stracili w czasie [pierwszej bitwy](/bitwy/pierwsza-bitwa-o-gaze) pięć miesięcy wcześniej. Tego samego ranka londyńska piechota zdobyła na bagnety Tall asz-Szari’a, kilkadziesiąt kilometrów na wschód, a australijska konnica przeszła przez wyrwę w tureckim froncie. Trzecia bitwa o Gazę dobiegła końca, a armia generała sir [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) ruszyła w pościg.
+7 listopada 1917 roku przed świtem brytyjskie patrole wyszły z okopów przed [Gazą](https://pl.wikipedia.org/wiki/Gaza_(miasto)) i nie napotkały nikogo. Turcy opuścili miasto, którego bronili od marca przed trzema brytyjskimi natarciami. O piątej rano Brytyjczycy byli na Green Hill i w Labiryncie, o siódmej na wzgórzu Ali Muntar, które stracili w czasie [pierwszej bitwy](/bitwy/pierwsza-bitwa-o-gaze) pięć miesięcy wcześniej. Tego samego ranka londyńska piechota zdobyła na bagnety Tall asz-Szari’a, kilkadziesiąt kilometrów na wschód, a australijska konnica przeszła przez wyrwę w tureckim froncie. Trzecia bitwa o Gazę dobiegła końca, a armia generała sir [Edmunda Allenby'ego](/postacie/edmund-allenby) ruszyła w pościg.
 
 ## Pusta Gaza
 

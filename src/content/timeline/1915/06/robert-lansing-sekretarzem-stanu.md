@@ -28,6 +28,6 @@ Radcą Departamentu Stanu został w kwietniu 1914 roku. Podczas nieobecności Br
 
 ## Wybór Wilsona
 
-W przeciwieństwie do Bryana Lansing nie miał zaplecza politycznego. Według biografa Wilsona, Arthura Linka, właśnie to przemawiało za nim. Doradca prezydenta, [Edward House](https://pl.wikipedia.org/wiki/Edward_Mandell_House), radził wybrać kogoś, kto nie ma „zbyt wielu własnych pomysłów”, a Wilson zamierzał w praktyce sam kierować polityką zagraniczną. Cenił Lansinga jako fachowca od prawa i procedury dyplomatycznej, ale traktował go raczej jako wykonawcę niż partnera.
+W przeciwieństwie do Bryana Lansing nie miał zaplecza politycznego. Według biografa Wilsona, Arthura Linka, właśnie to przemawiało za nim. Doradca prezydenta, [Edward House](/postacie/edward-house), radził wybrać kogoś, kto nie ma „zbyt wielu własnych pomysłów”, a Wilson zamierzał w praktyce sam kierować polityką zagraniczną. Cenił Lansinga jako fachowca od prawa i procedury dyplomatycznej, ale traktował go raczej jako wykonawcę niż partnera.
 
 Nowy sekretarz stanu był bardziej nieufny wobec Niemiec niż jego poprzednik. Po latach pisał, że po zatopieniu Lusitanii doszedł do przekonania, iż Stany Zjednoczone ostatecznie staną się sojusznikiem Wielkiej Brytanii. Na razie jednak to Wilson nadawał ton, a kraj pozostawał neutralny. Lansing kierował Departamentem Stanu do lutego 1920 roku, przez okres przystąpienia Stanów Zjednoczonych do wojny i konferencji pokojowej w Paryżu.

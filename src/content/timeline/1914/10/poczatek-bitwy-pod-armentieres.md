@@ -18,7 +18,7 @@ draft: false
 
 III Korpus, złożony z 4 i 6 Dywizji, był ostatnim z korpusów Brytyjskiego Korpusu Ekspedycyjnego, który przeszedł do Flandrii [znad Aisne](/bef-opuszcza-aisne). Jego żołnierze wyładowali się z pociągów w Saint-Omer 10 i 11 października. 12 października przeszli do Hazebrouck, część drogi pokonując francuskimi autobusami. Przejazd okazał się chaotyczny. Autobusy przyjechały z opóźnieniem, w wąskich uliczkach Saint-Omer utworzyły się korki, a wiele pojazdów zabłądziło po zmroku. Korpus był gotów do marszu dopiero rano 13 października.
 
-Brytyjczycy mieli posuwać się na wschód, w stronę Bailleul i Armentières, i wraz z kawalerią generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby), która dzień wcześniej [zdobyła wzgórze Mont des Cats](/poczatek-bitwy-pod-messines), przejść na północ od Lille. Naprzeciw nich stały dywizje niemieckiego IV Korpusu Kawalerii, wzmocnione batalionami strzelców i piechotą.
+Brytyjczycy mieli posuwać się na wschód, w stronę Bailleul i Armentières, i wraz z kawalerią generała [Edmunda Allenby'ego](/postacie/edmund-allenby), która dzień wcześniej [zdobyła wzgórze Mont des Cats](/poczatek-bitwy-pod-messines), przejść na północ od Lille. Naprzeciw nich stały dywizje niemieckiego IV Korpusu Kawalerii, wzmocnione batalionami strzelców i piechotą.
 
 ## Natarcie na Meteren
 

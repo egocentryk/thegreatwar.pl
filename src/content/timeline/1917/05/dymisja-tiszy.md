@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 maja 1917 roku hrabia [István Tisza](https://pl.wikipedia.org/wiki/István_Tisza), od czterech lat premier Węgier i najsilniejszy polityk węgierskiej połowy monarchii, złożył dymisję. Nie odszedł z własnej woli. Król [Karol IV](/postacie/karol-i-habsburg), jako cesarz Austrii Karol I, zażądał od niego ustąpienia, bo Tisza nie chciał się zgodzić na rozszerzenie prawa wyborczego na Węgrzech. Rząd Tiszy kierował jednak sprawami państwa jeszcze przez trzy tygodnie, do 15 czerwca, kiedy zastąpił go gabinet nowego premiera. Dlatego część zestawień podaje jako koniec jego rządów datę czerwcową, a nie majową.
+23 maja 1917 roku hrabia [István Tisza](/postacie/istvan-tisza), od czterech lat premier Węgier i najsilniejszy polityk węgierskiej połowy monarchii, złożył dymisję. Nie odszedł z własnej woli. Król [Karol IV](/postacie/karol-i-habsburg), jako cesarz Austrii Karol I, zażądał od niego ustąpienia, bo Tisza nie chciał się zgodzić na rozszerzenie prawa wyborczego na Węgrzech. Rząd Tiszy kierował jednak sprawami państwa jeszcze przez trzy tygodnie, do 15 czerwca, kiedy zastąpił go gabinet nowego premiera. Dlatego część zestawień podaje jako koniec jego rządów datę czerwcową, a nie majową.
 
 ## Spór o prawo wyborcze
 

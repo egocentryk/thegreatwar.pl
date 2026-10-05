@@ -41,7 +41,7 @@ Najwięcej obaw budziły dwa artykuły. Siódmy dawał sprzymierzonym prawo zaj�
 
 W południe 31 października działa umilkły na wszystkich frontach osmańskich. 30 października nad Tygrysem skapitulowała okrążona turecka Grupa Tygrysu, a w Syrii brytyjska kawaleria stała na północ od Aleppo naprzeciw pozycji [Mustafy Kemala](/postacie/mustafa-kemal). Z artykułu 7 Brytyjczycy skorzystali od razu. Ich kawaleria, która w chwili wejścia rozejmu w życie stała kilkadziesiąt kilometrów na południe od [Mosulu](https://pl.wikipedia.org/wiki/Mosul), poszła dalej mimo protestów dowódcy tureckiej 6 Armii Alego Ihsana Paszy. 3 listopada brytyjski generał stanął w mieście, a w połowie listopada wojska tureckie musiały opuścić Mosul. Spór o ten wilajet ciągnął się jeszcze przez lata.
 
-Francuzi byli oburzeni, że Wielka Brytania sama wynegocjowała rozejm. Premier [Georges Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) protestował, ale [David Lloyd George](/postacie/david-lloyd-george) odpowiadał, że rozejm z Bułgarią zawarł bez udziału Brytyjczyków francuski generał, a na froncie tureckim ciężar wojny dźwigała przede wszystkim Wielka Brytania. Francja ostatecznie uznała sprawę za zamkniętą.
+Francuzi byli oburzeni, że Wielka Brytania sama wynegocjowała rozejm. Premier [Georges Clemenceau](/postacie/georges-clemenceau) protestował, ale [David Lloyd George](/postacie/david-lloyd-george) odpowiadał, że rozejm z Bułgarią zawarł bez udziału Brytyjczyków francuski generał, a na froncie tureckim ciężar wojny dźwigała przede wszystkim Wielka Brytania. Francja ostatecznie uznała sprawę za zamkniętą.
 
 ## Znaczenie
 

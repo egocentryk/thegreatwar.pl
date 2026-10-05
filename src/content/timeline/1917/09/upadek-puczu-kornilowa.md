@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 września 1917 roku (1 września według kalendarza juliańskiego) w [Mohylewie](https://pl.wikipedia.org/wiki/Mohylew) generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), nowy szef sztabu naczelnego wodza, formalnie aresztował generała [Ławra Korniłowa](https://pl.wikipedia.org/wiki/Ławr_Korniłow) i jego najbliższych współpracowników. Dzień wcześniej w Piotrogrodzie zastrzelił się generał Aleksandr Krymow, dowódca wysłanych przeciw stolicy oddziałów. Bunt, który [przed tygodniem](/pucz-kornilowa) wstrząsnął Rosją, skończył się bez jednego wystrzału. Brytyjska chronologia wojny notuje upadek buntu pod 13 września, a kapitulację Korniłowa pod 14 września.
+14 września 1917 roku (1 września według kalendarza juliańskiego) w [Mohylewie](https://pl.wikipedia.org/wiki/Mohylew) generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), nowy szef sztabu naczelnego wodza, formalnie aresztował generała [Ławra Korniłowa](/postacie/lawr-kornilow) i jego najbliższych współpracowników. Dzień wcześniej w Piotrogrodzie zastrzelił się generał Aleksandr Krymow, dowódca wysłanych przeciw stolicy oddziałów. Bunt, który [przed tygodniem](/pucz-kornilowa) wstrząsnął Rosją, skończył się bez jednego wystrzału. Brytyjska chronologia wojny notuje upadek buntu pod 13 września, a kapitulację Korniłowa pod 14 września.
 
 ## Kawaleria, która się rozpłynęła
 
@@ -18,7 +18,7 @@ Od początku wyprawa Krymowa była źle przygotowana. Pociągi z kawalerią rozc
 
 Dzika Dywizja utknęła na stacji Wyrica, gdzie tory były rozebrane. 11 września przyjechała do niej muzułmańska delegacja zorganizowana przez rady, z wnukiem imama Szamila, bohatera kaukaskich górali. Jej przemowy w językach Kaukazu szybko podkopały zaufanie jeźdźców do oficerów. 12 września dowódca dywizji, książę Dmitrij Bagration, nakazał zaprzestać wszelkich działań przeciw wojskom rządowym, a 13 września delegacja w kaukaskich strojach zapewniała w Piotrogrodzie rząd o swojej lojalności. Podobnie było z kozakami 3 Korpusu Kawalerii, stojącymi w rejonie [Ługi](https://pl.wikipedia.org/wiki/Ługa). Władzę w pułkach przejęły komitety żołnierskie, które pospieszyły z zapewnieniami o posłuszeństwie Rządowi Tymczasowemu.
 
-Nie zawiedli tylko ci, na których Korniłow nie liczył. Spiskowcy z piotrogrodzkich organizacji oficerskich, którzy mieli wywołać zamieszki w stolicy, zniknęli, a część z nich, jak pisał Chamberlin, razem z kasą. Ataman Kozaków dońskich [Aleksiej Kaledin](https://pl.wikipedia.org/wiki/Aleksiej_Kaledin), na którego poparcie generał liczył, musiał okrężną drogą uciekać przed aresztowaniem do Nowoczerkaska. Dowódców Frontu Południowo-Zachodniego, generałów [Antona Denikina](https://pl.wikipedia.org/wiki/Anton_Denikin) i Siergieja Markowa, komitet frontowy uwięził 11 września w [Berdyczowie](https://pl.wikipedia.org/wiki/Berdyczów).
+Nie zawiedli tylko ci, na których Korniłow nie liczył. Spiskowcy z piotrogrodzkich organizacji oficerskich, którzy mieli wywołać zamieszki w stolicy, zniknęli, a część z nich, jak pisał Chamberlin, razem z kasą. Ataman Kozaków dońskich [Aleksiej Kaledin](https://pl.wikipedia.org/wiki/Aleksiej_Kaledin), na którego poparcie generał liczył, musiał okrężną drogą uciekać przed aresztowaniem do Nowoczerkaska. Dowódców Frontu Południowo-Zachodniego, generałów [Antona Denikina](/postacie/anton-denikin) i Siergieja Markowa, komitet frontowy uwięził 11 września w [Berdyczowie](https://pl.wikipedia.org/wiki/Berdyczów).
 
 ## Śmierć Krymowa
 

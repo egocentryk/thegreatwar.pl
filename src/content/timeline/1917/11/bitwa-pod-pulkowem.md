@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 listopada 1917 roku (30 października według kalendarza juliańskiego) na wzgórzach pod [Pułkowem](https://pl.wikipedia.org/wiki/Pułkowo), kilkanaście kilometrów na południe od Piotrogrodu, rozegrała się pierwsza bitwa w obronie władzy bolszewików. Kilkuset kozaków generała [Piotra Krasnowa](https://pl.wikipedia.org/wiki/Piotr_Krasnow), z którymi szedł na stolicę obalony premier [Aleksander Kiereński](https://pl.wikipedia.org/wiki/Aleksander_Kiereński), uderzyło na pozycje czerwonogwardzistów, żołnierzy i marynarzy Floty Bałtyckiej. Po całodziennej walce kozacy się wycofali. Brytyjska chronologia wojny notuje porażkę oddziałów Kiereńskiego pod Piotrogrodem pod 13 listopada. Tego dnia nad ranem [Lew Trocki](https://pl.wikipedia.org/wiki/Lew_Trocki) ogłosił zwycięstwo w depeszy do stolicy, a wiadomość obiegła świat. Sama bitwa toczyła się jednak dzień wcześniej.
+12 listopada 1917 roku (30 października według kalendarza juliańskiego) na wzgórzach pod [Pułkowem](https://pl.wikipedia.org/wiki/Pułkowo), kilkanaście kilometrów na południe od Piotrogrodu, rozegrała się pierwsza bitwa w obronie władzy bolszewików. Kilkuset kozaków generała [Piotra Krasnowa](https://pl.wikipedia.org/wiki/Piotr_Krasnow), z którymi szedł na stolicę obalony premier [Aleksander Kiereński](/postacie/aleksander-kierenski), uderzyło na pozycje czerwonogwardzistów, żołnierzy i marynarzy Floty Bałtyckiej. Po całodziennej walce kozacy się wycofali. Brytyjska chronologia wojny notuje porażkę oddziałów Kiereńskiego pod Piotrogrodem pod 13 listopada. Tego dnia nad ranem [Lew Trocki](/postacie/lew-trocki) ogłosił zwycięstwo w depeszy do stolicy, a wiadomość obiegła świat. Sama bitwa toczyła się jednak dzień wcześniej.
 
 ## Wyprawa na Piotrogród
 

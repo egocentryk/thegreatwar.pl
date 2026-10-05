@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-31 października 1917 roku, krótko po zachodzie słońca, według najczęściej podawanych szacunków około 800 jeźdźców australijskiej 4 Brygady [Lekkiej Konnicy](https://pl.wikipedia.org/wiki/Australian_Light_Horse) ruszyło galopem na [Beer Szewę](https://pl.wikipedia.org/wiki/Beer_Szewa), osmańskie miasto na skraju pustyni Negew. Nie mieli szabel, więc trzymali w dłoniach bagnety. Przejechali kilka kilometrów otwartej równiny, przeskoczyli tureckie okopy i w niespełna godzinę od rozkazu byli w mieście. Tureccy saperzy nie zdążyli wysadzić studni, a bez nich cała jesienna ofensywa generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) mogła utknąć już pierwszego dnia. Wieczorem Beer Szewa była w rękach Brytyjczyków, a do niewoli trafiło prawie 2 tysiące żołnierzy osmańskich.
+31 października 1917 roku, krótko po zachodzie słońca, według najczęściej podawanych szacunków około 800 jeźdźców australijskiej 4 Brygady [Lekkiej Konnicy](https://pl.wikipedia.org/wiki/Australian_Light_Horse) ruszyło galopem na [Beer Szewę](https://pl.wikipedia.org/wiki/Beer_Szewa), osmańskie miasto na skraju pustyni Negew. Nie mieli szabel, więc trzymali w dłoniach bagnety. Przejechali kilka kilometrów otwartej równiny, przeskoczyli tureckie okopy i w niespełna godzinę od rozkazu byli w mieście. Tureccy saperzy nie zdążyli wysadzić studni, a bez nich cała jesienna ofensywa generała [Edmunda Allenby'ego](/postacie/edmund-allenby) mogła utknąć już pierwszego dnia. Wieczorem Beer Szewa była w rękach Brytyjczyków, a do niewoli trafiło prawie 2 tysiące żołnierzy osmańskich.
 
 ## Woda i czas
 

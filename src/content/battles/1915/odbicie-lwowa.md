@@ -37,7 +37,7 @@ Dowódca rosyjskiej [8 Armii](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Ro
 
 Mackensen chciał, by jego zmęczone wojska nie dały Rosjanom czasu na obsadzenie nowej linii. Główne uderzenie miała wykonać niemiecka [11 Armia](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)): przełamać front na zachód od Magierowa na szerokości około 20 kilometrów, odrzucić Rosjan na północny wschód za szosę ze Lwowa do Rawy Ruskiej i w ten sposób rozciąć ich ugrupowanie na północ od Lwowa. W centrum 11 Armii nacierały niemiecki Korpus Gwardii i austro-węgierski VI Korpus generała Arthura Arza von Straussenburga, na prawo od nich niemiecki XLI Korpus Rezerwowy, na lewo XXII Korpus Rezerwowy. Lewe skrzydło osłaniała grupa generała Otto von Emmicha, ustawiona frontem na północ.
 
-Austro-węgierska 2 Armia miała sforsować Wereszycę od Dniestru po Janów, zdobyć Lwów i spychać pobitego przeciwnika na wschód. Nacierały w niej, od południa, V, XVIII, XIX i IV Korpus, a na lewym skrzydle niemiecki Korpus Beskidzki generała [Georga von der Marwitza](https://pl.wikipedia.org/wiki/Georg_von_der_Marwitz). 4 Armia, ustawiona nad Sanem i Tanwią, osłaniała całe uderzenie od północy.
+Austro-węgierska 2 Armia miała sforsować Wereszycę od Dniestru po Janów, zdobyć Lwów i spychać pobitego przeciwnika na wschód. Nacierały w niej, od południa, V, XVIII, XIX i IV Korpus, a na lewym skrzydle niemiecki Korpus Beskidzki generała [Georga von der Marwitza](/postacie/georg-von-der-marwitz). 4 Armia, ustawiona nad Sanem i Tanwią, osłaniała całe uderzenie od północy.
 
 ## Przebieg
 

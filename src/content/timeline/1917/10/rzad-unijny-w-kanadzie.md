@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 października 1917 roku w Ottawie ogłoszono, że premier [Robert Borden](https://pl.wikipedia.org/wiki/Robert_Borden) po kilku miesiącach starań utworzył rząd „unijny”, czyli koalicję swoich konserwatystów z tą częścią [liberałów](https://pl.wikipedia.org/wiki/Liberalna_Partia_Kanady), która popierała pobór do wojska. Oficjalny komunikat mówił, że opóźnienia były nieuniknione, bo trudności były „nieporównanie większe” niż przy tworzeniu rządu jednej partii. Według rocznika „Canadian Annual Review” nowi ministrowie mieli złożyć przysięgę następnego dnia. 13 października ogłoszono też proklamację o pierwszym powołaniu do wojska na podstawie ustawy o służbie wojskowej (Military Service Act). Brytyjska chronologia wojny łączy oba wydarzenia pod 12 października: powstanie kanadyjskiego gabinetu wojennego i wejście w życie przymusowej służby wojskowej.
+12 października 1917 roku w Ottawie ogłoszono, że premier [Robert Borden](/postacie/robert-borden) po kilku miesiącach starań utworzył rząd „unijny”, czyli koalicję swoich konserwatystów z tą częścią [liberałów](https://pl.wikipedia.org/wiki/Liberalna_Partia_Kanady), która popierała pobór do wojska. Oficjalny komunikat mówił, że opóźnienia były nieuniknione, bo trudności były „nieporównanie większe” niż przy tworzeniu rządu jednej partii. Według rocznika „Canadian Annual Review” nowi ministrowie mieli złożyć przysięgę następnego dnia. 13 października ogłoszono też proklamację o pierwszym powołaniu do wojska na podstawie ustawy o służbie wojskowej (Military Service Act). Brytyjska chronologia wojny łączy oba wydarzenia pod 12 października: powstanie kanadyjskiego gabinetu wojennego i wejście w życie przymusowej służby wojskowej.
 
 ## Droga do koalicji
 

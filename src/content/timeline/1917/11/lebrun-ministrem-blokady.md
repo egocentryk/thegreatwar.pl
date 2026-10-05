@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 listopada 1917 roku nowy francuski rząd [Georges'a Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) stracił pierwszego ministra. Senator Charles Jonnart, który tydzień wcześniej objął nowo utworzone ministerstwo blokady i regionów wyzwolonych, zrezygnował z urzędu. Jego miejsce zajął deputowany [Albert Lebrun](https://pl.wikipedia.org/wiki/Albert_Lebrun). Datę 23 listopada podają brytyjska chronologia wojny, francuskie zestawienia członków [rządu Clemenceau](/rzad-clemenceau) i biografia Lebruna w bazie deputowanych francuskiego Zgromadzenia Narodowego.
+23 listopada 1917 roku nowy francuski rząd [Georges'a Clemenceau](/postacie/georges-clemenceau) stracił pierwszego ministra. Senator Charles Jonnart, który tydzień wcześniej objął nowo utworzone ministerstwo blokady i regionów wyzwolonych, zrezygnował z urzędu. Jego miejsce zajął deputowany [Albert Lebrun](https://pl.wikipedia.org/wiki/Albert_Lebrun). Datę 23 listopada podają brytyjska chronologia wojny, francuskie zestawienia członków [rządu Clemenceau](/rzad-clemenceau) i biografia Lebruna w bazie deputowanych francuskiego Zgromadzenia Narodowego.
 
 ## Odejście Jonnarta
 

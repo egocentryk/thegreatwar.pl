@@ -40,7 +40,7 @@ Następnego dnia, 7 grudnia, na miasto spadła gwałtowna zamieć śnieżna. Prz
 
 Dokładnej liczby zabitych nigdy nie ustalono. Oficjalna księga pamięci archiwum Nowej Szkocji wymienia 1782 ofiary, a inne zestawienia podają około 2000. Ranni stanowili ponad dziesiątą część mieszkańców. Okuliści musieli usunąć około 250 zniszczonych gałek ocznych, co zrobiło z miasta ważny ośrodek opieki nad niewidomymi. Około 1600 domów zostało zniszczonych, a 12 tysięcy uszkodzonych. Bez dachu nad głową zostało około 6000 ludzi, a około 25 tysięcy nie miało odpowiedniego schronienia w środku kanadyjskiej zimy. Straty materialne szacowano na około 35 milionów dolarów kanadyjskich. Na pomoc zebrano około 30 milionów, z czego większość dał rząd federalny, a ponad 4 miliony rząd brytyjski.
 
-Port, choć zniszczony, szybko wrócił do pracy. Konwój wyszedł z Halifaksu już 11 grudnia, a stocznia marynarki wznowiła pracę przed świętami. Premier [Robert Borden](https://pl.wikipedia.org/wiki/Robert_Borden), który sam był posłem z Halifaksu, zapewniał, że odbudowa portu ma najwyższe znaczenie dla całego imperium. W okręgu Halifax w wyborach 17 grudnia nie doszło nawet do głosowania, bo zgłoszono tylko dwóch kandydatów rządowych na dwa mandaty.
+Port, choć zniszczony, szybko wrócił do pracy. Konwój wyszedł z Halifaksu już 11 grudnia, a stocznia marynarki wznowiła pracę przed świętami. Premier [Robert Borden](/postacie/robert-borden), który sam był posłem z Halifaksu, zapewniał, że odbudowa portu ma najwyższe znaczenie dla całego imperium. W okręgu Halifax w wyborach 17 grudnia nie doszło nawet do głosowania, bo zgłoszono tylko dwóch kandydatów rządowych na dwa mandaty.
 
 ## Śledztwo
 

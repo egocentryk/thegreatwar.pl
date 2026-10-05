@@ -27,7 +27,7 @@ Hramota wymieniała ziemie, do których republika zgłaszała prawa: Mohylewszcz
 
 ## Republika pod okupacją
 
-Niemcy nie zamierzali uznać nowego państwa. Kanclerz [Georg von Hertling](https://pl.wikipedia.org/wiki/Georg_von_Hertling) oświadczył, że Rzesza traktuje zajęte ziemie białoruskie jako część Rosji i zgodnie z traktatem brzeskim nie może uznać na nich żadnego państwa bez zgody rządu rosyjskiego. Władze okupacyjne tolerowały Radę i Sekretariat, a z czasem pozwoliły im prowadzić szkoły, opiekę społeczną i część spraw gospodarczych, ale nie zgodziły się na tworzenie białoruskiego wojska. Rosja radziecka również nie uznała republiki.
+Niemcy nie zamierzali uznać nowego państwa. Kanclerz [Georg von Hertling](/postacie/georg-von-hertling) oświadczył, że Rzesza traktuje zajęte ziemie białoruskie jako część Rosji i zgodnie z traktatem brzeskim nie może uznać na nich żadnego państwa bez zgody rządu rosyjskiego. Władze okupacyjne tolerowały Radę i Sekretariat, a z czasem pozwoliły im prowadzić szkoły, opiekę społeczną i część spraw gospodarczych, ale nie zgodziły się na tworzenie białoruskiego wojska. Rosja radziecka również nie uznała republiki.
 
 Dla Polaków proklamacja była sygnałem, że na dawnych ziemiach Rzeczypospolitej wyrasta jeszcze jeden ruch narodowy, który rości sobie prawa do obszarów uważanych przez nich za polskie. Mińszczyzna miała liczne polskie ziemiaństwo, a niedaleko, w Bobrujsku, stał [I Korpus Polski](/konwencja-w-bobrujsku) generała Józefa Dowbora-Muśnickiego, uznany przez Niemców za neutralny. Roszczenia do Grodna, Białegostoku i Wileńszczyzny stawiały republikę w sporze z polskimi aspiracjami.
 

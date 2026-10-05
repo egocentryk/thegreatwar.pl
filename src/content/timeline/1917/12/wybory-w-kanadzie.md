@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-17 grudnia 1917 roku Kanadyjczycy wybierali nową [Izbę Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin_Kanady). Były to wybory o jedną sprawę: pobór do wojska. Po jednej stronie stał koalicyjny [rząd unijny](/rzad-unijny-w-kanadzie) premiera [Roberta Bordena](https://pl.wikipedia.org/wiki/Robert_Borden), złożony z konserwatystów i liberałów zwolenników poboru, po drugiej liberałowie, którzy zostali przy [Wilfridzie Laurierze](https://pl.wikipedia.org/wiki/Wilfrid_Laurier). Kanadyjski historyk Michael Bliss nazwał tę kampanię najbardziej zaciekłą w dziejach kraju. Wynik podzielił Kanadę niemal dokładnie według linii językowej.
+17 grudnia 1917 roku Kanadyjczycy wybierali nową [Izbę Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin_Kanady). Były to wybory o jedną sprawę: pobór do wojska. Po jednej stronie stał koalicyjny [rząd unijny](/rzad-unijny-w-kanadzie) premiera [Roberta Bordena](/postacie/robert-borden), złożony z konserwatystów i liberałów zwolenników poboru, po drugiej liberałowie, którzy zostali przy [Wilfridzie Laurierze](https://pl.wikipedia.org/wiki/Wilfrid_Laurier). Kanadyjski historyk Michael Bliss nazwał tę kampanię najbardziej zaciekłą w dziejach kraju. Wynik podzielił Kanadę niemal dokładnie według linii językowej.
 
 ## Kampania
 

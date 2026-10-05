@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-1 lipca 1917 roku (18 czerwca według kalendarza juliańskiego) armia rewolucyjnej Rosji rozpoczęła swoją pierwszą i ostatnią wielką ofensywę. Rano piechota rosyjskiej 11 i 7 Armii wyszła z okopów w Galicji Wschodniej, między [Zborowem](https://pl.wikipedia.org/wiki/Zborów) a [Brzeżanami](https://pl.wikipedia.org/wiki/Brzeżany), i ruszyła na pozycje austro-węgierskie, niemieckie i tureckie. Natarcie poprzedził dwudniowy ostrzał artyleryjski, który zaczął się 29 czerwca. Tę datę brytyjska chronologia wojny podaje jako początek ofensywy. Pod Koniuchami Rosjanie przełamali front i wzięli tysiące jeńców, pod Brzeżanami po całodziennym boju zostali odparci. Wieczorem minister wojny [Aleksander Kiereński](https://pl.wikipedia.org/wiki/Aleksander_Kiereński) depeszował do Piotrogrodu o „wielkim triumfie rewolucji”.
+1 lipca 1917 roku (18 czerwca według kalendarza juliańskiego) armia rewolucyjnej Rosji rozpoczęła swoją pierwszą i ostatnią wielką ofensywę. Rano piechota rosyjskiej 11 i 7 Armii wyszła z okopów w Galicji Wschodniej, między [Zborowem](https://pl.wikipedia.org/wiki/Zborów) a [Brzeżanami](https://pl.wikipedia.org/wiki/Brzeżany), i ruszyła na pozycje austro-węgierskie, niemieckie i tureckie. Natarcie poprzedził dwudniowy ostrzał artyleryjski, który zaczął się 29 czerwca. Tę datę brytyjska chronologia wojny podaje jako początek ofensywy. Pod Koniuchami Rosjanie przełamali front i wzięli tysiące jeńców, pod Brzeżanami po całodziennym boju zostali odparci. Wieczorem minister wojny [Aleksander Kiereński](/postacie/aleksander-kierenski) depeszował do Piotrogrodu o „wielkim triumfie rewolucji”.
 
 ## Minister na froncie
 
@@ -20,7 +20,7 @@ Kiereński od tygodni objeżdżał front i namawiał żołnierzy do walki. 29 cz
 
 Plan Brusiłowa zakładał, że 11 Armia generała Iwana Erdelego przełamie front po obu stronach Zborowa i pójdzie przez [Złoczów](https://pl.wikipedia.org/wiki/Złoczów) na [Lwów](https://pl.wikipedia.org/wiki/Lwów), a 7 Armia generała Leonida Biełkowicza uderzy na Brzeżany. Na odcinku szerokim około 65 kilometrów zgromadzono ponad 30 dywizji i, według austriackiej historii oficjalnej, ponad 1300 dział. Rosjanie po raz pierwszy w tej wojnie mieli przewagę ognia, o jakiej w latach 1915–1916 mogli tylko marzyć. Artyleria 11 Armii otworzyła ogień o świcie 29 czerwca, a artyleria 7 Armii dobę później. Obrońcy przyznawali, że strzelała ona znacznie celniej niż rok wcześniej.
 
-Przeciwnik czekał na natarcie. Rosyjscy dezerterzy zapowiedzieli wielki szturm na rano 1 lipca, a w nocy z 30 czerwca na 1 lipca żołnierze austro-węgierscy i niemieccy naprawiali rozbite okopy i zasieki. Książę [Leopold Bawarski](https://pl.wikipedia.org/wiki/Leopold_Bawarski), głównodowodzący wojsk niemieckich na wschodzie, już 30 czerwca postanowił przygotować uderzenie odwetowe spod Złoczowa i zarządził przewóz dywizji z zachodu.
+Przeciwnik czekał na natarcie. Rosyjscy dezerterzy zapowiedzieli wielki szturm na rano 1 lipca, a w nocy z 30 czerwca na 1 lipca żołnierze austro-węgierscy i niemieccy naprawiali rozbite okopy i zasieki. Książę [Leopold Bawarski](/postacie/leopold-bawarski), głównodowodzący wojsk niemieckich na wschodzie, już 30 czerwca postanowił przygotować uderzenie odwetowe spod Złoczowa i zarządził przewóz dywizji z zachodu.
 
 ## Przełamanie pod Koniuchami
 
@@ -36,7 +36,7 @@ Wieczorem 7 Armia mogła się pochwalić jedynie skrawkami zdobytych okopów i o
 
 ## „Wielki triumf rewolucji”
 
-Kiereński był w euforii. Jeszcze 1 lipca telegrafował do Rządu Tymczasowego: „Dziś wielki triumf rewolucji. Rosyjska armia rewolucyjna z ogromnym zapałem przeszła do natarcia”. Prosił też o czerwone sztandary dla zwycięskich pułków. Premier [Gieorgij Lwow](https://pl.wikipedia.org/wiki/Gieorgij_Lwow) zgodził się chętnie i odpowiadał, że 1 lipca pokazał całemu światu siłę rewolucyjnej armii, zbudowanej na demokratycznych podstawach i przepojonej ideałami rewolucji. Gdy w następnych dniach wiadomość o natarciu dotarła do miast, na ulicach Piotrogrodu odbyły się patriotyczne manifestacje.
+Kiereński był w euforii. Jeszcze 1 lipca telegrafował do Rządu Tymczasowego: „Dziś wielki triumf rewolucji. Rosyjska armia rewolucyjna z ogromnym zapałem przeszła do natarcia”. Prosił też o czerwone sztandary dla zwycięskich pułków. Premier [Gieorgij Lwow](/postacie/gieorgij-lwow) zgodził się chętnie i odpowiadał, że 1 lipca pokazał całemu światu siłę rewolucyjnej armii, zbudowanej na demokratycznych podstawach i przepojonej ideałami rewolucji. Gdy w następnych dniach wiadomość o natarciu dotarła do miast, na ulicach Piotrogrodu odbyły się patriotyczne manifestacje.
 
 Tego samego 1 lipca w Piotrogrodzie wyszły na ulice setki tysięcy robotników i żołnierzy. Manifestację zwołał obradujący w stolicy I Wszechrosyjski Zjazd Rad, by pokazać poparcie dla swojej polityki. Większość niesionych transparentów głosiła jednak bolszewickie hasła: „Cała władza w ręce rad!” i „Precz z dziesięcioma ministrami-kapitalistami!”. W dniu, w którym armia ruszyła do natarcia, stolica pokazała, jak bardzo kraj jest go już zmęczony.
 

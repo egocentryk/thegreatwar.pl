@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-12 września 1918 roku o 5.00 rano piechota amerykańskiej 1 Armii ruszyła do natarcia na niemiecki występ frontu wokół [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) nad Mozą, na południowy wschód od Verdun. Po raz pierwszy w tej wojnie cała armia amerykańska walczyła pod rozkazami własnego naczelnego wodza, generała [Johna Pershinga](https://pl.wikipedia.org/wiki/John_Pershing), a francuskie dywizje, które w niej uczestniczyły, podlegały jemu. Do wieczora Amerykanie przeszli przez pasy zasieków, uważane za nie do przebycia, zajęli kilkanaście wsi, wzięli tysiące jeńców i posunęli się na południowej ścianie występu o około 8 kilometrów. Godziny podajemy za raportem końcowym Pershinga i przewodnikiem amerykańskiej komisji pomników wojennych (American Battle Monuments Commission) z 1938 roku.
+12 września 1918 roku o 5.00 rano piechota amerykańskiej 1 Armii ruszyła do natarcia na niemiecki występ frontu wokół [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) nad Mozą, na południowy wschód od Verdun. Po raz pierwszy w tej wojnie cała armia amerykańska walczyła pod rozkazami własnego naczelnego wodza, generała [Johna Pershinga](/postacie/john-pershing), a francuskie dywizje, które w niej uczestniczyły, podlegały jemu. Do wieczora Amerykanie przeszli przez pasy zasieków, uważane za nie do przebycia, zajęli kilkanaście wsi, wzięli tysiące jeńców i posunęli się na południowej ścianie występu o około 8 kilometrów. Godziny podajemy za raportem końcowym Pershinga i przewodnikiem amerykańskiej komisji pomników wojennych (American Battle Monuments Commission) z 1938 roku.
 
 ## Noc przed atakiem
 

@@ -44,7 +44,7 @@ Ostatnią bitwą Sazonowa była sprawa polska. Po utracie Królestwa w 1915 roku
 
 ## Po wojnie
 
-W styczniu 1917 roku Sazonow został mianowany ambasadorem w Londynie, ale nie zdążył wyjechać przed [rewolucją lutową](/rewolucja-lutowa), a po niej z nominacji nic nie wyszło. Po przewrocie bolszewickim związał się z białymi. W 1918 roku doradzał generałowi [Antonowi Denikinowi](https://pl.wikipedia.org/wiki/Anton_Denikin), a w 1919 roku był ministrem spraw zagranicznych w rządzie admirała [Aleksandra Kołczaka](https://pl.wikipedia.org/wiki/Aleksandr_Kołczak) i reprezentował białych w Paryżu w czasie konferencji pokojowej. Bronił tam zasady jednej i niepodzielnej Rosji, co utrudniało białym porozumienie z Finlandią i państwami bałtyckimi. Na emigracji we Francji napisał wspomnienia, wydane w 1927 roku. Zmarł w Nicei pod koniec grudnia 1927 roku. Większość źródeł podaje datę 25 grudnia, część noc z 23 na 24 grudnia.
+W styczniu 1917 roku Sazonow został mianowany ambasadorem w Londynie, ale nie zdążył wyjechać przed [rewolucją lutową](/rewolucja-lutowa), a po niej z nominacji nic nie wyszło. Po przewrocie bolszewickim związał się z białymi. W 1918 roku doradzał generałowi [Antonowi Denikinowi](/postacie/anton-denikin), a w 1919 roku był ministrem spraw zagranicznych w rządzie admirała [Aleksandra Kołczaka](/postacie/aleksandr-kolczak) i reprezentował białych w Paryżu w czasie konferencji pokojowej. Bronił tam zasady jednej i niepodzielnej Rosji, co utrudniało białym porozumienie z Finlandią i państwami bałtyckimi. Na emigracji we Francji napisał wspomnienia, wydane w 1927 roku. Zmarł w Nicei pod koniec grudnia 1927 roku. Większość źródeł podaje datę 25 grudnia, część noc z 23 na 24 grudnia.
 
 ## Ocena
 

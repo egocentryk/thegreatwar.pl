@@ -21,7 +21,7 @@ Ludendorff był wtedy jednym z najzdolniejszych oficerów niemieckiego sztabu ge
 
 ## Gotowy plan
 
-W Malborku nowi dowódcy zastali plan przygotowany przez oficera sztabu 8 Armii, podpułkownika [Maxa Hoffmanna](https://pl.wikipedia.org/wiki/Max_Hoffmann). Przewidywał on pozostawienie słabej osłony przeciw armii Rennenkampfa i skierowanie głównych sił na południe, przeciw armii Samsonowa. Hindenburg i Ludendorff przyjęli go niemal bez zmian. Kilka dni później przyniósł on Niemcom wielkie zwycięstwo pod Tannenbergiem.
+W Malborku nowi dowódcy zastali plan przygotowany przez oficera sztabu 8 Armii, podpułkownika [Maxa Hoffmanna](/postacie/max-hoffmann). Przewidywał on pozostawienie słabej osłony przeciw armii Rennenkampfa i skierowanie głównych sił na południe, przeciw armii Samsonowa. Hindenburg i Ludendorff przyjęli go niemal bez zmian. Kilka dni później przyniósł on Niemcom wielkie zwycięstwo pod Tannenbergiem.
 
 ## Początek legendy
 

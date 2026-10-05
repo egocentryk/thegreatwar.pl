@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 25 listopada 1915 roku, że francuski podsekretarz stanu do spraw artylerii i amunicji [Albert Thomas](https://pl.wikipedia.org/wiki/Albert_Thomas_(polityk)) ogłosił zakończenie prac nad międzysojuszniczą organizacją produkcji amunicji. Chodziło o ustalenia konferencji, która w listopadzie obradowała w Londynie z udziałem przedstawicieli Wielkiej Brytanii, Francji, Rosji i Włoch. Oficjalna historia brytyjskiego [Ministerstwa Amunicji](/ministerstwo-amunicji) nazywa ją konferencją „Wielkiej Czwórki”, ale nie podaje dokładnych dat obrad. Socjalista Thomas kierował francuską produkcją uzbrojenia od jesieni 1914 roku, w maju 1915 roku został podsekretarzem stanu, a w nowym rządzie Aristide’a Brianda zachował to stanowisko.
+Brytyjska chronologia wojny odnotowuje pod 25 listopada 1915 roku, że francuski podsekretarz stanu do spraw artylerii i amunicji [Albert Thomas](/postacie/albert-thomas) ogłosił zakończenie prac nad międzysojuszniczą organizacją produkcji amunicji. Chodziło o ustalenia konferencji, która w listopadzie obradowała w Londynie z udziałem przedstawicieli Wielkiej Brytanii, Francji, Rosji i Włoch. Oficjalna historia brytyjskiego [Ministerstwa Amunicji](/ministerstwo-amunicji) nazywa ją konferencją „Wielkiej Czwórki”, ale nie podaje dokładnych dat obrad. Socjalista Thomas kierował francuską produkcją uzbrojenia od jesieni 1914 roku, w maju 1915 roku został podsekretarzem stanu, a w nowym rządzie Aristide’a Brianda zachował to stanowisko.
 
 ## Sojusznicy jako konkurenci
 

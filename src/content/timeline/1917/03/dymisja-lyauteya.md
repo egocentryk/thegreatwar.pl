@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-14 marca 1917 roku podał się do dymisji francuski minister wojny, generał [Hubert Lyautey](https://pl.wikipedia.org/wiki/Louis_Hubert_Gonzalve_Lyautey). Kierował ministerstwem zaledwie trzy miesiące. Odszedł po burzliwej scenie w Izbie Deputowanych, w której posłowie nie pozwolili mu dokończyć przemówienia. Brytyjska chronologia wojny, na której opiera się nasza oś czasu, podaje pod 17 marca, że ustąpił „generał Roques, francuski minister wojny”. To pomyłka: generał Pierre Roques, który w marcu 1916 roku [zastąpił Gallieniego](/roques-zastepuje-gallieniego), stracił stanowisko już w grudniu 1916 roku, a w marcu 1917 roku ministrem był Lyautey. Dlatego opisujemy jego dymisję pod właściwą datą.
+14 marca 1917 roku podał się do dymisji francuski minister wojny, generał [Hubert Lyautey](/postacie/louis-lyautey). Kierował ministerstwem zaledwie trzy miesiące. Odszedł po burzliwej scenie w Izbie Deputowanych, w której posłowie nie pozwolili mu dokończyć przemówienia. Brytyjska chronologia wojny, na której opiera się nasza oś czasu, podaje pod 17 marca, że ustąpił „generał Roques, francuski minister wojny”. To pomyłka: generał Pierre Roques, który w marcu 1916 roku [zastąpił Gallieniego](/roques-zastepuje-gallieniego), stracił stanowisko już w grudniu 1916 roku, a w marcu 1917 roku ministrem był Lyautey. Dlatego opisujemy jego dymisję pod właściwą datą.
 
 ## Generał wśród polityków
 

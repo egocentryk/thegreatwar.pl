@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-20 sierpnia 1917 roku o 4.40, o świcie, francuska 2 Armia generała [Adolphe'a Guillaumata](https://pl.wikipedia.org/wiki/Adolphe_Guillaumat) uderzyła na niemieckie pozycje po obu brzegach [Mozy](https://pl.wikipedia.org/wiki/Moza) na północ od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Osiem dywizji ruszyło do ataku na froncie szerokim według różnych źródeł na około 18–25 km, od lasu Avocourt na zachodzie po okolice Bezonvaux na wschodzie. Celem były wzgórza, z których Niemcy od 1916 roku obserwowali francuskie tyły: Mort-Homme i wzgórze 304 na lewym brzegu oraz wzgórze Talou i wzgórze 344 na prawym. Było to pierwsze duże natarcie armii francuskiej od kwietniowej klęski nad Aisne i od [buntów](/poczatek-buntow-w-armii-francuskiej), które w maju i czerwcu ogarnęły dziesiątki dywizji.
+20 sierpnia 1917 roku o 4.40, o świcie, francuska 2 Armia generała [Adolphe'a Guillaumata](/postacie/adolphe-guillaumat) uderzyła na niemieckie pozycje po obu brzegach [Mozy](https://pl.wikipedia.org/wiki/Moza) na północ od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Osiem dywizji ruszyło do ataku na froncie szerokim według różnych źródeł na około 18–25 km, od lasu Avocourt na zachodzie po okolice Bezonvaux na wschodzie. Celem były wzgórza, z których Niemcy od 1916 roku obserwowali francuskie tyły: Mort-Homme i wzgórze 304 na lewym brzegu oraz wzgórze Talou i wzgórze 344 na prawym. Było to pierwsze duże natarcie armii francuskiej od kwietniowej klęski nad Aisne i od [buntów](/poczatek-buntow-w-armii-francuskiej), które w maju i czerwcu ogarnęły dziesiątki dywizji.
 
 ## Natarcie Pétaina
 

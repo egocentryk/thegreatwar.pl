@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 stycznia 1917 roku niemiecki Urząd Spraw Zagranicznych wręczył przedstawicielom państw neutralnych w Berlinie notę, w której Niemcy odnieśli się do [odrzucenia swojej oferty pokojowej przez Ententę](/ententa-odrzuca-niemiecka-oferte-pokojowa). Tego samego dnia podobną notę ogłosił w Wiedniu austro-węgierski minister spraw zagranicznych [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin). Najpierw dał ją prasie, a w ambasadzie amerykańskiej zostawiono ją dopiero tuż przed północą. Ambasador Stanów Zjednoczonych w Berlinie James W. Gerard przesłał do Waszyngtonu francuski tekst noty niemieckiej 12 stycznia. Obie noty były skierowane nie do przeciwników, lecz do neutralnych. Forma, w jakiej Ententa odrzuciła propozycję, „wyklucza wszelką myśl o odpowiedzi”, pisał Berlin, ale rząd Rzeszy chce przedstawić neutralnym swój pogląd na sytuację.
+11 stycznia 1917 roku niemiecki Urząd Spraw Zagranicznych wręczył przedstawicielom państw neutralnych w Berlinie notę, w której Niemcy odnieśli się do [odrzucenia swojej oferty pokojowej przez Ententę](/ententa-odrzuca-niemiecka-oferte-pokojowa). Tego samego dnia podobną notę ogłosił w Wiedniu austro-węgierski minister spraw zagranicznych [Ottokar Czernin](/postacie/ottokar-czernin). Najpierw dał ją prasie, a w ambasadzie amerykańskiej zostawiono ją dopiero tuż przed północą. Ambasador Stanów Zjednoczonych w Berlinie James W. Gerard przesłał do Waszyngtonu francuski tekst noty niemieckiej 12 stycznia. Obie noty były skierowane nie do przeciwników, lecz do neutralnych. Forma, w jakiej Ententa odrzuciła propozycję, „wyklucza wszelką myśl o odpowiedzi”, pisał Berlin, ale rząd Rzeszy chce przedstawić neutralnym swój pogląd na sytuację.
 
 ## Po odmowie
 

@@ -50,7 +50,7 @@ Potem zwrócił się przeciwko Atenom. W czerwcu, gdy francuski wysoki komisarz 
 
 ## Odwołanie
 
-Poprzednie rządy chroniły Sarraila przed żądaniami sojuszników. Sytuacja zmieniła się, gdy w listopadzie 1917 roku władzę objął [Georges Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau). Związki generała z Caillaux i Louisem Malvym, podejrzewanymi wtedy o kontakty z Niemcami, czyniły go podejrzanym, a nowy premier na pierwszym posiedzeniu komitetu wojennego oświadczył, że Sarrail nie może zostać w Salonikach. [10 grudnia 1917 roku](/odwolanie-sarraila) generał dostał depeszę o odwołaniu, a 22 grudnia dowództwo przejął generał [Adolphe Guillaumat](https://pl.wikipedia.org/wiki/Adolphe_Guillaumat). Sarrail nie dostał już żadnego przydziału, a w kwietniu 1918 roku przeszedł do rezerwy.
+Poprzednie rządy chroniły Sarraila przed żądaniami sojuszników. Sytuacja zmieniła się, gdy w listopadzie 1917 roku władzę objął [Georges Clemenceau](/postacie/georges-clemenceau). Związki generała z Caillaux i Louisem Malvym, podejrzewanymi wtedy o kontakty z Niemcami, czyniły go podejrzanym, a nowy premier na pierwszym posiedzeniu komitetu wojennego oświadczył, że Sarrail nie może zostać w Salonikach. [10 grudnia 1917 roku](/odwolanie-sarraila) generał dostał depeszę o odwołaniu, a 22 grudnia dowództwo przejął generał [Adolphe Guillaumat](/postacie/adolphe-guillaumat). Sarrail nie dostał już żadnego przydziału, a w kwietniu 1918 roku przeszedł do rezerwy.
 
 ## Po wojnie
 

@@ -23,7 +23,7 @@ Do Ypres zmierzał IV Korpus generała [Henry'ego Rawlinsona](/postacie/henry-ra
 
 Wczesnym rankiem 14 października 7 Dywizja wyruszyła z Roeselare w gęstej mgle. Żołnierze, od kilku dni w marszu, byli skrajnie zmęczeni. Około tysiąca ludzi z obtartymi nogami przewieziono koleją, a jeden z batalionów potrzebował jedenastu godzin, by przejść niecałe 20 kilometrów. Sztab dywizji ulokował się w budynku banku na Wielkim Rynku, w cieniu [Sukiennic](https://pl.wikipedia.org/wiki/Sukiennice_w_Ieper). Brygady zajęły pozycje na wschód od miasta, na łuku od Broodseinde przez [Geluveld](https://pl.wikipedia.org/wiki/Geluveld) po Kruiseik.
 
-Tego samego dnia kawaleria Bynga nawiązała na południe od Ypres łączność z korpusem kawalerii generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby), który nacierał od strony Francji. Oddziały Rawlinsona, dotąd walczące w Belgii osobno, połączyły się z główną częścią Brytyjskiego Korpusu Ekspedycyjnego. Od Szwajcarii po wybrzeże Flandrii zaczęła się tworzyć ciągła, choć bardzo cienka linia sprzymierzonych.
+Tego samego dnia kawaleria Bynga nawiązała na południe od Ypres łączność z korpusem kawalerii generała [Edmunda Allenby'ego](/postacie/edmund-allenby), który nacierał od strony Francji. Oddziały Rawlinsona, dotąd walczące w Belgii osobno, połączyły się z główną częścią Brytyjskiego Korpusu Ekspedycyjnego. Od Szwajcarii po wybrzeże Flandrii zaczęła się tworzyć ciągła, choć bardzo cienka linia sprzymierzonych.
 
 ## Francuzi i Brytyjczycy
 

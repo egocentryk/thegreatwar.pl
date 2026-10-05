@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-27 października 1917 roku działa brytyjskiego XXI Korpusu otworzyły ogień na tureckie umocnienia [Gazy](https://pl.wikipedia.org/wiki/Gaza_(miasto)). Front pod miastem stał od pół roku, od [klęski w kwietniu](/bitwy/druga-bitwa-o-gaze), a ostrzał zapowiadał, że Brytyjczycy znów będą szturmować to samo miejsce. Taki właśnie był zamiar generała sir [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby). Ostrzał Gazy miał przykuć uwagę Turków, podczas gdy większość jego wojska szła nocami kilkadziesiąt kilometrów na wschód, ku [Beer Szewie](https://pl.wikipedia.org/wiki/Beer_Szewa). Tego samego ranka Turcy uderzyli na brytyjskie placówki między tymi dwoma skrzydłami. Według brytyjskiej historii oficjalnej (Cyril Falls, *Military Operations: Egypt and Palestine*, t. II) od tego dnia liczy się trzecia bitwa o Gazę, która trwała do 7 listopada.
+27 października 1917 roku działa brytyjskiego XXI Korpusu otworzyły ogień na tureckie umocnienia [Gazy](https://pl.wikipedia.org/wiki/Gaza_(miasto)). Front pod miastem stał od pół roku, od [klęski w kwietniu](/bitwy/druga-bitwa-o-gaze), a ostrzał zapowiadał, że Brytyjczycy znów będą szturmować to samo miejsce. Taki właśnie był zamiar generała sir [Edmunda Allenby'ego](/postacie/edmund-allenby). Ostrzał Gazy miał przykuć uwagę Turków, podczas gdy większość jego wojska szła nocami kilkadziesiąt kilometrów na wschód, ku [Beer Szewie](https://pl.wikipedia.org/wiki/Beer_Szewa). Tego samego ranka Turcy uderzyli na brytyjskie placówki między tymi dwoma skrzydłami. Według brytyjskiej historii oficjalnej (Cyril Falls, *Military Operations: Egypt and Palestine*, t. II) od tego dnia liczy się trzecia bitwa o Gazę, która trwała do 7 listopada.
 
 ## Plan Allenby'ego
 

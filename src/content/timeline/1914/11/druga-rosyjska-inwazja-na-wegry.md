@@ -19,7 +19,7 @@ W październiku austro-węgierska 3 Armia generała [Svetozara Boroevicia](/post
 
 ## Rosjanie w dolinie Laborca
 
-Główne uderzenie poszło przez [Przełęcz Łupkowską](https://pl.wikipedia.org/wiki/Przełęcz_Łupkowska) i sąsiednie przełęcze w dolinę rzeki [Laborec](https://pl.wikipedia.org/wiki/Laborec). Rosjanie zajęli [Medzilaborce](https://pl.wikipedia.org/wiki/Medzilaborce) i ruszyli w dół doliny. 22 lub 23 listopada, według różnych źródeł, 48 Dywizja Piechoty generała [Ławra Korniłowa](https://pl.wikipedia.org/wiki/Ławr_Korniłow) niespodziewanie zajęła [Humenné](https://pl.wikipedia.org/wiki/Humenné), węg. Homonna, ważny węzeł kolejowy w komitacie Zemplén. W tych tygodniach rosyjskie oddziały pojawiły się także w innych miejscowościach wschodniej Słowacji, między innymi w rejonie Bardejowa, Svidníka i Stropkova. Walki toczyły się też w dolinie Uhu, pod Przełęczą Użocką.
+Główne uderzenie poszło przez [Przełęcz Łupkowską](https://pl.wikipedia.org/wiki/Przełęcz_Łupkowska) i sąsiednie przełęcze w dolinę rzeki [Laborec](https://pl.wikipedia.org/wiki/Laborec). Rosjanie zajęli [Medzilaborce](https://pl.wikipedia.org/wiki/Medzilaborce) i ruszyli w dół doliny. 22 lub 23 listopada, według różnych źródeł, 48 Dywizja Piechoty generała [Ławra Korniłowa](/postacie/lawr-kornilow) niespodziewanie zajęła [Humenné](https://pl.wikipedia.org/wiki/Humenné), węg. Homonna, ważny węzeł kolejowy w komitacie Zemplén. W tych tygodniach rosyjskie oddziały pojawiły się także w innych miejscowościach wschodniej Słowacji, między innymi w rejonie Bardejowa, Svidníka i Stropkova. Walki toczyły się też w dolinie Uhu, pod Przełęczą Użocką.
 
 ## Kontratak
 

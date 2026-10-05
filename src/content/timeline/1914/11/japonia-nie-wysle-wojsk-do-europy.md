@@ -14,7 +14,7 @@ Brytyjska chronologia wojny notuje pod 14 listopada 1914 roku, że rząd [Japoni
 
 ## Francuskie nadzieje
 
-Najgłośniej o japońskich żołnierzach w Europie mówiono we Francji. Już w sierpniu [Georges Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) pisał w swojej gazecie, że Japonia powinna przysłać armię na front zachodni, a podobne apele publikował były minister spraw zagranicznych Stéphen Pichon. Jesienią z prośbą o pomoc zwróciły się do Tokio wspólnie Francja, Rosja i Wielka Brytania. Minister spraw zagranicznych [Edward Grey](/postacie/edward-grey), pod naciskiem sojuszników, poruszył tę sprawę na początku listopada.
+Najgłośniej o japońskich żołnierzach w Europie mówiono we Francji. Już w sierpniu [Georges Clemenceau](/postacie/georges-clemenceau) pisał w swojej gazecie, że Japonia powinna przysłać armię na front zachodni, a podobne apele publikował były minister spraw zagranicznych Stéphen Pichon. Jesienią z prośbą o pomoc zwróciły się do Tokio wspólnie Francja, Rosja i Wielka Brytania. Minister spraw zagranicznych [Edward Grey](/postacie/edward-grey), pod naciskiem sojuszników, poruszył tę sprawę na początku listopada.
 
 ## Odmowa
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 lutego 1918 roku prezydent Stanów Zjednoczonych [Woodrow Wilson](/postacie/woodrow-wilson) znów stanął przed połączonymi izbami [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych). Miesiąc wcześniej przedstawił tam [czternaście punktów](/czternascie-punktow-wilsona) programu pokojowego, a 24 stycznia [odpowiedzieli mu](/hertling-i-czernin-odpowiadaja-wilsonowi) kanclerz Rzeszy [Georg von Hertling](https://pl.wikipedia.org/wiki/Georg_von_Hertling) i minister spraw zagranicznych Austro-Węgier hrabia [Ottokar Czernin](https://pl.wikipedia.org/wiki/Ottokar_Czernin). Teraz prezydent odpowiadał obu. Na wstępie wyraził zadowolenie, że wymiana poglądów na tak wielką sprawę toczy się publicznie, „w słuchu całego świata”.
+11 lutego 1918 roku prezydent Stanów Zjednoczonych [Woodrow Wilson](/postacie/woodrow-wilson) znów stanął przed połączonymi izbami [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych). Miesiąc wcześniej przedstawił tam [czternaście punktów](/czternascie-punktow-wilsona) programu pokojowego, a 24 stycznia [odpowiedzieli mu](/hertling-i-czernin-odpowiadaja-wilsonowi) kanclerz Rzeszy [Georg von Hertling](/postacie/georg-von-hertling) i minister spraw zagranicznych Austro-Węgier hrabia [Ottokar Czernin](/postacie/ottokar-czernin). Teraz prezydent odpowiadał obu. Na wstępie wyraził zadowolenie, że wymiana poglądów na tak wielką sprawę toczy się publicznie, „w słuchu całego świata”.
 
 ## Dwie odpowiedzi
 

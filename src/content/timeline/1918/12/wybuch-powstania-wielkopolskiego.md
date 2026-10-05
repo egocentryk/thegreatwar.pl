@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-27 grudnia 1918 roku, późnym popołudniem, na ulicach [Poznania](https://pl.wikipedia.org/wiki/Poznań) padły strzały, od których zaczęło się powstanie wielkopolskie. Nikt go tego dnia nie zaplanował. Polska konspiracja wojskowa gromadziła broń od tygodni, ale [Naczelna Rada Ludowa](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa), która kierowała polskim ruchem w zaborze pruskim, chciała czekać na decyzję konferencji pokojowej. Iskrą okazała się wizyta [Ignacego Jana Paderewskiego](https://pl.wikipedia.org/wiki/Ignacy_Jan_Paderewski), którego [Poznań powitał dzień wcześniej](/paderewski-w-poznaniu) jak męża stanu, i niemiecka demonstracja, którą zorganizowano w odpowiedzi. Do rana Polacy panowali nad dużą częścią miasta.
+27 grudnia 1918 roku, późnym popołudniem, na ulicach [Poznania](https://pl.wikipedia.org/wiki/Poznań) padły strzały, od których zaczęło się powstanie wielkopolskie. Nikt go tego dnia nie zaplanował. Polska konspiracja wojskowa gromadziła broń od tygodni, ale [Naczelna Rada Ludowa](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa), która kierowała polskim ruchem w zaborze pruskim, chciała czekać na decyzję konferencji pokojowej. Iskrą okazała się wizyta [Ignacego Jana Paderewskiego](/postacie/ignacy-jan-paderewski), którego [Poznań powitał dzień wcześniej](/paderewski-w-poznaniu) jak męża stanu, i niemiecka demonstracja, którą zorganizowano w odpowiedzi. Do rana Polacy panowali nad dużą częścią miasta.
 
 ## Przed południem
 

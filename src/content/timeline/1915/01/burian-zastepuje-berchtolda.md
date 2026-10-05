@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-13 stycznia 1915 roku hrabia [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) przestał być ministrem spraw zagranicznych Austro-Węgier. Jego następcą został Węgier, baron [István Burián](/postacie/istvan-burian), bliski współpracownik premiera Węgier, hrabiego [Istvána Tiszy](https://pl.wikipedia.org/wiki/István_Tisza). Zmiana na czele dyplomacji monarchii habsburskiej była skutkiem sporu o to, jak odpowiedzieć na żądania Włoch.
+13 stycznia 1915 roku hrabia [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) przestał być ministrem spraw zagranicznych Austro-Węgier. Jego następcą został Węgier, baron [István Burián](/postacie/istvan-burian), bliski współpracownik premiera Węgier, hrabiego [Istvána Tiszy](/postacie/istvan-tisza). Zmiana na czele dyplomacji monarchii habsburskiej była skutkiem sporu o to, jak odpowiedzieć na żądania Włoch.
 
 ## Spór o rekompensaty
 
@@ -28,4 +28,4 @@ Burián urodził się w 1851 roku w Stomfie (dziś Stupava na Słowacji). Był z
 
 Nowy minister przyjął twardą linię. Twierdził, że artykuł VII dotyczy wyłącznie Bałkanów i nie może być podstawą do żądania ziem austriackich. Rokowania z Rzymem przeciągał, licząc na zwycięstwa na froncie. Dopiero w marcu 1915 roku, pod silnym naciskiem Niemiec i w obliczu złej sytuacji w Karpatach, Wiedeń zgodził się rozmawiać o oddaniu części Trydentu, i to dopiero po wojnie. Było już za późno. W kwietniu 1915 roku Włochy zawarły z Ententą tajny [traktat londyński](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)), na początku maja wypowiedziały trójprzymierze, a 23 maja wypowiedziały wojnę Austro-Węgrom.
 
-Burián kierował dyplomacją monarchii do grudnia 1916 roku, gdy nowy cesarz Karol I zastąpił go hrabią [Ottokarem Czerninem](https://pl.wikipedia.org/wiki/Ottokar_Czernin). Wrócił na to stanowisko w kwietniu 1918 roku i sprawował je niemal do końca wojny.
+Burián kierował dyplomacją monarchii do grudnia 1916 roku, gdy nowy cesarz Karol I zastąpił go hrabią [Ottokarem Czerninem](/postacie/ottokar-czernin). Wrócił na to stanowisko w kwietniu 1918 roku i sprawował je niemal do końca wojny.

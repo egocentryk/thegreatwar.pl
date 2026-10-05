@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 grudnia 1917 roku w południe generał sir [Edmund Allenby](https://pl.wikipedia.org/wiki/Edmund_Allenby), dowódca Egipskich Sił Ekspedycyjnych, uroczyście wkroczył do [Jerozolimy](https://pl.wikipedia.org/wiki/Jerozolima). Przed Bramą Jafską wysiadł z samochodu i wszedł do Starego Miasta pieszo. Ze stopni cytadeli odczytano jego proklamację w siedmiu językach: miasto zostaje objęte stanem wojennym, a wszystkie miejsca święte chrześcijan, żydów i muzułmanów będą chronione według istniejących zwyczajów. Dwa dni wcześniej, po [walkach na zachodnich przedpolach](/bitwy/zdobycie-jerozolimy), Turcy opuścili Jerozolimę, a [burmistrz poddał ją](/kapitulacja-jerozolimy) Brytyjczykom. Cała ceremonia trwała krótko i była starannie przemyślana. Miała pokazać światu, że Brytyjczycy przychodzą do Świętego Miasta nie jak zdobywcy, lecz jak jego opiekunowie.
+11 grudnia 1917 roku w południe generał sir [Edmund Allenby](/postacie/edmund-allenby), dowódca Egipskich Sił Ekspedycyjnych, uroczyście wkroczył do [Jerozolimy](https://pl.wikipedia.org/wiki/Jerozolima). Przed Bramą Jafską wysiadł z samochodu i wszedł do Starego Miasta pieszo. Ze stopni cytadeli odczytano jego proklamację w siedmiu językach: miasto zostaje objęte stanem wojennym, a wszystkie miejsca święte chrześcijan, żydów i muzułmanów będą chronione według istniejących zwyczajów. Dwa dni wcześniej, po [walkach na zachodnich przedpolach](/bitwy/zdobycie-jerozolimy), Turcy opuścili Jerozolimę, a [burmistrz poddał ją](/kapitulacja-jerozolimy) Brytyjczykom. Cała ceremonia trwała krótko i była starannie przemyślana. Miała pokazać światu, że Brytyjczycy przychodzą do Świętego Miasta nie jak zdobywcy, lecz jak jego opiekunowie.
 
 ## Przygotowania
 

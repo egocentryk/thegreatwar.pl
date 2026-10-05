@@ -10,13 +10,13 @@ milestone: false
 draft: false
 ---
 
-14 lipca 1915 roku premier Kanady [Robert Borden](https://pl.wikipedia.org/wiki/Robert_Borden) wziął w Londynie udział w posiedzeniu brytyjskiego gabinetu. Zaprosił go premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith). Depesze z Londynu podały tę wiadomość jeszcze tego samego dnia, a nazajutrz „[Daily Mail](https://pl.wikipedia.org/wiki/Daily_Mail)” napisał, że obecność Bordena „tworzy precedens największej wagi”. Według dziennika zastrzeżenia teoretyków ustąpiły przed twardymi lekcjami wojny, a imperium zbliżyło się o krok do federacji politycznej.
+14 lipca 1915 roku premier Kanady [Robert Borden](/postacie/robert-borden) wziął w Londynie udział w posiedzeniu brytyjskiego gabinetu. Zaprosił go premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith). Depesze z Londynu podały tę wiadomość jeszcze tego samego dnia, a nazajutrz „[Daily Mail](https://pl.wikipedia.org/wiki/Daily_Mail)” napisał, że obecność Bordena „tworzy precedens największej wagi”. Według dziennika zastrzeżenia teoretyków ustąpiły przed twardymi lekcjami wojny, a imperium zbliżyło się o krok do federacji politycznej.
 
 ## Pierwszy, ale z zastrzeżeniami
 
 Ówczesna prasa przedstawiała Bordena jako pierwszego premiera zamorskiego [dominium](https://pl.wikipedia.org/wiki/Dominium_brytyjskie), który zasiadł przy stole brytyjskiego gabinetu. Tak to wydarzenie zapamiętano. Trzeba jednak pamiętać, czym ono było, a czym nie. Szefowie rządów dominiów spotykali się z brytyjskimi ministrami już wcześniej, na konferencjach imperialnych i w Komitecie Obrony Imperium, gremium doradczym do spraw wojskowych. Sam Borden w lipcu 1912 roku uczestniczył wraz z innymi kanadyjskimi ministrami w posiedzeniu tego komitetu pod przewodnictwem Asquitha. Nowością było dopuszczenie go do gabinetu, czyli do grona, w którym zapadały decyzje polityczne. Borden przyszedł jednak jako gość. Nie został członkiem rządu i nie zyskał prawa udziału w kolejnych posiedzeniach.
 
-„Daily Telegraph” pisał, że wizyta zrewolucjonizowała teorię i praktykę rządzenia krajem, obowiązującą od ponad półtora stulecia. Dwa dni później lord [Alfred Milner](https://pl.wikipedia.org/wiki/Alfred_Milner), jeden z czołowych zwolenników ściślejszej jedności imperium, poszedł dalej. Na bankiecie w Londynie stwierdził, że Wielka Brytania powinna mieć gabinet imperialny, do którego premierzy dominiów byliby zapraszani „nie jako goście, lecz z prawa”.
+„Daily Telegraph” pisał, że wizyta zrewolucjonizowała teorię i praktykę rządzenia krajem, obowiązującą od ponad półtora stulecia. Dwa dni później lord [Alfred Milner](/postacie/alfred-milner), jeden z czołowych zwolenników ściślejszej jedności imperium, poszedł dalej. Na bankiecie w Londynie stwierdził, że Wielka Brytania powinna mieć gabinet imperialny, do którego premierzy dominiów byliby zapraszani „nie jako goście, lecz z prawa”.
 
 ## Wizyta premiera Kanady
 

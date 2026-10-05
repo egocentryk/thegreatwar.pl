@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 marca 1917 roku niemiecki sekretarz stanu spraw zagranicznych [Arthur Zimmermann](https://pl.wikipedia.org/wiki/Arthur_Zimmermann) przyznał, że jest autorem depeszy, którą od dwóch dni żyła cała Ameryka. 1 marca amerykańska prasa [opublikowała](/publikacja-telegramu-zimmermanna) tekst [telegramu Zimmermanna](/telegram-zimmermanna) z niemiecką propozycją sojuszu dla Meksyku. Część Amerykanów, w tym niektórzy senatorowie, uważała go za brytyjską prowokację. Waszyngton nie mógł tych wątpliwości łatwo rozwiać, bo nie chciał ujawnić, że depeszę rozszyfrował brytyjski wywiad. Wyręczył go sam autor telegramu.
+3 marca 1917 roku niemiecki sekretarz stanu spraw zagranicznych [Arthur Zimmermann](/postacie/arthur-zimmermann) przyznał, że jest autorem depeszy, którą od dwóch dni żyła cała Ameryka. 1 marca amerykańska prasa [opublikowała](/publikacja-telegramu-zimmermanna) tekst [telegramu Zimmermanna](/telegram-zimmermanna) z niemiecką propozycją sojuszu dla Meksyku. Część Amerykanów, w tym niektórzy senatorowie, uważała go za brytyjską prowokację. Waszyngton nie mógł tych wątpliwości łatwo rozwiać, bo nie chciał ujawnić, że depeszę rozszyfrował brytyjski wywiad. Wyręczył go sam autor telegramu.
 
 ## „Nie mogę temu zaprzeczyć”
 

@@ -40,7 +40,7 @@ Jesienią 1916 roku na wojenne trudności nałożyły się drożyzna, kolejki po
 
 ## Więzienie i śmierć
 
-Po wybuchu [rewolucji lutowej](/rewolucja-lutowa) Stürmera aresztowano w marcu 1917 roku i osadzono w [Twierdzy Pietropawłowskiej](https://pl.wikipedia.org/wiki/Twierdza_Pietropawłowska). Jego sprawą zajęła się Nadzwyczajna Komisja Śledcza Rządu Tymczasowego, która badała nadużycia carskich ministrów. Jeden z jej członków wspominał, że gdy komisja chciała go zwolnić, sprzeciwił się temu [Aleksander Kiereński](https://pl.wikipedia.org/wiki/Aleksander_Kiereński), obawiając się reakcji ulicy. Ciężko chory na mocznicę, były premier zmarł 2 września 1917 roku (20 sierpnia według kalendarza juliańskiego) w szpitalu więziennym. Źródła różnią się co do tego, czy był to szpital Twierdzy Pietropawłowskiej, czy więzienia Kriesty. Pochowano go na cmentarzu Ławry Aleksandra Newskiego. Oskarżenia o zdradę nigdy nie zostały dowiedzione.
+Po wybuchu [rewolucji lutowej](/rewolucja-lutowa) Stürmera aresztowano w marcu 1917 roku i osadzono w [Twierdzy Pietropawłowskiej](https://pl.wikipedia.org/wiki/Twierdza_Pietropawłowska). Jego sprawą zajęła się Nadzwyczajna Komisja Śledcza Rządu Tymczasowego, która badała nadużycia carskich ministrów. Jeden z jej członków wspominał, że gdy komisja chciała go zwolnić, sprzeciwił się temu [Aleksander Kiereński](/postacie/aleksander-kierenski), obawiając się reakcji ulicy. Ciężko chory na mocznicę, były premier zmarł 2 września 1917 roku (20 sierpnia według kalendarza juliańskiego) w szpitalu więziennym. Źródła różnią się co do tego, czy był to szpital Twierdzy Pietropawłowskiej, czy więzienia Kriesty. Pochowano go na cmentarzu Ławry Aleksandra Newskiego. Oskarżenia o zdradę nigdy nie zostały dowiedzione.
 
 ## Ocena
 

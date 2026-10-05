@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-11 października 1915 roku kierowanie werbunkiem do armii brytyjskiej przejął [Edward Stanley, 17. hrabia Derby](https://pl.wikipedia.org/wiki/Edward_Stanley_(17._hrabia_Derby)), mianowany dyrektorem generalnym werbunku. Tę datę podaje większość opracowań; brytyjska chronologia oficjalna umieszcza to wydarzenie pod 30 września. Pewne jest, że w połowie października Derby już tym werbunkiem kierował. Jak wyjaśnił 19 października w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) podsekretarz stanu w Ministerstwie Wojny [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), lord Derby objął to stanowisko na prośbę ministra wojny, lorda [Kitchenera](/postacie/horatio-kitchener), i odpowiadał przed nim za wszystkie sprawy związane z pozyskiwaniem rekrutów dla armii.
+11 października 1915 roku kierowanie werbunkiem do armii brytyjskiej przejął [Edward Stanley, 17. hrabia Derby](/postacie/lord-derby), mianowany dyrektorem generalnym werbunku. Tę datę podaje większość opracowań; brytyjska chronologia oficjalna umieszcza to wydarzenie pod 30 września. Pewne jest, że w połowie października Derby już tym werbunkiem kierował. Jak wyjaśnił 19 października w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) podsekretarz stanu w Ministerstwie Wojny [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), lord Derby objął to stanowisko na prośbę ministra wojny, lorda [Kitchenera](/postacie/horatio-kitchener), i odpowiadał przed nim za wszystkie sprawy związane z pozyskiwaniem rekrutów dla armii.
 
 ## Ochotnicy na wyczerpaniu
 

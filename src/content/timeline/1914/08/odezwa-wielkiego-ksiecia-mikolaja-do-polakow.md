@@ -25,7 +25,7 @@ Rosja, która przez ponad sto lat tłumiła polskie dążenia narodowe, musiała
 
 ## Reakcje
 
-Odezwę z entuzjazmem przyjęli polscy politycy związani z [Romanem Dmowskim](https://pl.wikipedia.org/wiki/Roman_Dmowski), którzy uważali Niemcy za głównego wroga Polski i liczyli na współpracę z Rosją. Wkrótce utworzyli [Komitet Narodowy Polski](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1914–1917)), popierający sprawę rosyjską. Inni podchodzili do niej nieufnie. Odezwę wydał wódz armii, a nie car ani rząd, a jej obietnice były ogólnikowe i nie przewidywały niepodległości.
+Odezwę z entuzjazmem przyjęli polscy politycy związani z [Romanem Dmowskim](/postacie/roman-dmowski), którzy uważali Niemcy za głównego wroga Polski i liczyli na współpracę z Rosją. Wkrótce utworzyli [Komitet Narodowy Polski](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1914–1917)), popierający sprawę rosyjską. Inni podchodzili do niej nieufnie. Odezwę wydał wódz armii, a nie car ani rząd, a jej obietnice były ogólnikowe i nie przewidywały niepodległości.
 
 ## Znaczenie
 

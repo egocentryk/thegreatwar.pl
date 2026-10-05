@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-17 lutego 1917 roku premier Australii [Billy Hughes](https://pl.wikipedia.org/wiki/Billy_Hughes) ogłosił skład nowego rządu. Zasiedli w nim obok siebie ludzie, którzy jeszcze rok wcześniej byli zaciekłymi przeciwnikami: dawni działacze [Australijskiej Partii Pracy](https://pl.wikipedia.org/wiki/Australijska_Partia_Pracy), którzy poszli za Hughesem, i politycy liberalnej opozycji z jej przywódcą, byłym premierem [Josephem Cookiem](https://pl.wikipedia.org/wiki/Joseph_Cook). Obie grupy połączyły się w [Partię Nacjonalistyczną](https://pl.wikipedia.org/wiki/Nacjonalistyczna_Partia_Australii), nazywaną też partią „Wygrać Wojnę” (Win-the-War). Brytyjska chronologia wojny nazywa nowy gabinet australijskim rządem wojennym.
+17 lutego 1917 roku premier Australii [Billy Hughes](/postacie/billy-hughes) ogłosił skład nowego rządu. Zasiedli w nim obok siebie ludzie, którzy jeszcze rok wcześniej byli zaciekłymi przeciwnikami: dawni działacze [Australijskiej Partii Pracy](https://pl.wikipedia.org/wiki/Australijska_Partia_Pracy), którzy poszli za Hughesem, i politycy liberalnej opozycji z jej przywódcą, byłym premierem [Josephem Cookiem](https://pl.wikipedia.org/wiki/Joseph_Cook). Obie grupy połączyły się w [Partię Nacjonalistyczną](https://pl.wikipedia.org/wiki/Nacjonalistyczna_Partia_Australii), nazywaną też partią „Wygrać Wojnę” (Win-the-War). Brytyjska chronologia wojny nazywa nowy gabinet australijskim rządem wojennym.
 
 ## Rozłam o pobór
 

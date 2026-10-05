@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-12 października 1914 roku brytyjski korpus kawalerii generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) ruszył we francuskiej Flandrii na wschód, w stronę granicy belgijskiej. Pod wieczór, po zaciętej walce, jego pułki zdobyły wzgórze Mont des Cats, na którym broniła się niemiecka kawaleria. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Messines. Jej stawką był niewysoki grzbiet między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper), o który kawalerzyści mieli walczyć przez kolejne trzy tygodnie.
+12 października 1914 roku brytyjski korpus kawalerii generała [Edmunda Allenby'ego](/postacie/edmund-allenby) ruszył we francuskiej Flandrii na wschód, w stronę granicy belgijskiej. Pod wieczór, po zaciętej walce, jego pułki zdobyły wzgórze Mont des Cats, na którym broniła się niemiecka kawaleria. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Messines. Jej stawką był niewysoki grzbiet między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper), o który kawalerzyści mieli walczyć przez kolejne trzy tygodnie.
 
 ## Kawaleria na lewym skrzydle
 

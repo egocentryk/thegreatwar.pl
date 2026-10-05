@@ -27,7 +27,7 @@ Samsonow parł naprzód w pośpiechu. Jego żołnierze byli wyczerpani marszem p
 
 ## Nowe dowództwo
 
-23 sierpnia do sztabu niemieckiej 8 Armii w Malborku przybyli nowi dowódcy: generał [Paul von Hindenburg](/postacie/paul-von-hindenburg) i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff). Przyjęli plan przygotowany przez oficera sztabu, podpułkownika [Maxa Hoffmanna](https://pl.wikipedia.org/wiki/Max_Hoffmann). Przeciw Rennenkampfowi zostawiono jedynie słabą osłonę, a większość sił przerzucono koleją i marszem na południe, przeciw Samsonowowi. Tego samego dnia rosyjskie korpusy starły się z niemieckim XX Korpusem generała [Friedricha von Scholtza](https://pl.wikipedia.org/wiki/Friedrich_von_Scholtz) w rejonie [Nidzicy](https://pl.wikipedia.org/wiki/Nidzica).
+23 sierpnia do sztabu niemieckiej 8 Armii w Malborku przybyli nowi dowódcy: generał [Paul von Hindenburg](/postacie/paul-von-hindenburg) i jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff). Przyjęli plan przygotowany przez oficera sztabu, podpułkownika [Maxa Hoffmanna](/postacie/max-hoffmann). Przeciw Rennenkampfowi zostawiono jedynie słabą osłonę, a większość sił przerzucono koleją i marszem na południe, przeciw Samsonowowi. Tego samego dnia rosyjskie korpusy starły się z niemieckim XX Korpusem generała [Friedricha von Scholtza](https://pl.wikipedia.org/wiki/Friedrich_von_Scholtz) w rejonie [Nidzicy](https://pl.wikipedia.org/wiki/Nidzica).
 
 ## Okrążenie
 

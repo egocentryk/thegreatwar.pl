@@ -19,7 +19,7 @@ Do rozmów zmusiła Rosję sytuacja na froncie. [Traktat brzeski](/traktat-brzes
 
 Porozumienie wytyczało strefę neutralną szerokości 10 kilometrów. Jej granica po stronie niemieckiej biegła od Sudży przez Korieniewo i wzdłuż linii kolejowej do Rylska, po stronie radzieckiej przez wsie położone dalej na wschód i przez linię kolejową z Korieniewa do Lgowa. Obie strony zobowiązały się nie wysyłać do strefy patroli wartowniczych ani zwiadowczych, nie przelatywać nad nią samolotami i nie prowadzić w niej rekwizycji żywności. Od chwili podpisania nie miało być większych działań bojowych. Ponieważ trudno było szybko zawiadomić o układzie wszystkie oddziały rosyjskie, wchodził on w pełni w życie dopiero 5 maja o czwartej po południu.
 
-5 maja [Włodzimierz Lenin](https://pl.wikipedia.org/wiki/Włodzimierz_Lenin) i Stalin rozesłali na front telegram, który ogłaszał rozejm i nakazywał go przestrzegać. W związku z rozejmem ze stanowiska naczelnego dowódcy wojsk radzieckich na Ukrainie ustąpił [Władimir Antonow-Owsiejenko](https://pl.wikipedia.org/wiki/Władimir_Antonow-Owsiejenko). Niemiecki marsz na wschód, rozpoczęty w lutym, zatrzymał się na tym odcinku na linii rozejmu. Dalej na południe, nad Donem, Niemcy posuwali się jeszcze przez kilka dni.
+5 maja [Włodzimierz Lenin](/postacie/wlodzimierz-lenin) i Stalin rozesłali na front telegram, który ogłaszał rozejm i nakazywał go przestrzegać. W związku z rozejmem ze stanowiska naczelnego dowódcy wojsk radzieckich na Ukrainie ustąpił [Władimir Antonow-Owsiejenko](https://pl.wikipedia.org/wiki/Władimir_Antonow-Owsiejenko). Niemiecki marsz na wschód, rozpoczęty w lutym, zatrzymał się na tym odcinku na linii rozejmu. Dalej na południe, nad Donem, Niemcy posuwali się jeszcze przez kilka dni.
 
 ## Co dalej
 

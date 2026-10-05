@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 września 1918 roku cesarz Yoshihito mianował nowy rząd Japonii. Jego szefem został 62-letni [Takashi Hara](https://pl.wikipedia.org/wiki/Takashi_Hara), od 1914 roku przewodniczący partii [Rikken Seiyūkai](https://pl.wikipedia.org/wiki/Rikken_Seiyūkai), najsilniejszego ugrupowania w izbie niższej parlamentu. Zastąpił marszałka [Masatake Terauchiego](https://pl.wikipedia.org/wiki/Masatake_Terauchi), który [od października 1916 roku](/terauchi-premierem-japonii) kierował gabinetem ponadpartyjnym, złożonym z wojskowych i biurokratów. Japończycy nazwali Harę „premierem z ludu” (heimin saishō). Był pierwszym szefem japońskiego rządu, który nie miał tytułu arystokratycznego, i uchodzi za pierwszego premiera, który zasiadał w wybieralnej izbie niższej parlamentu.
+29 września 1918 roku cesarz Yoshihito mianował nowy rząd Japonii. Jego szefem został 62-letni [Takashi Hara](https://pl.wikipedia.org/wiki/Takashi_Hara), od 1914 roku przewodniczący partii [Rikken Seiyūkai](https://pl.wikipedia.org/wiki/Rikken_Seiyūkai), najsilniejszego ugrupowania w izbie niższej parlamentu. Zastąpił marszałka [Masatake Terauchiego](/postacie/masatake-terauchi), który [od października 1916 roku](/terauchi-premierem-japonii) kierował gabinetem ponadpartyjnym, złożonym z wojskowych i biurokratów. Japończycy nazwali Harę „premierem z ludu” (heimin saishō). Był pierwszym szefem japońskiego rządu, który nie miał tytułu arystokratycznego, i uchodzi za pierwszego premiera, który zasiadał w wybieralnej izbie niższej parlamentu.
 
 ## Upadek Terauchiego
 

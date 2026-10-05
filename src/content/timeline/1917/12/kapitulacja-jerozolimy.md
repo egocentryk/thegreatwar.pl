@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-9 grudnia 1917 roku, w niedzielę, [Jerozolima](https://pl.wikipedia.org/wiki/Jerozolima) poddała się wojskom generała sir [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby). Nie było szturmu ani walk na ulicach. Poprzedniego dnia Brytyjczycy zdobyli tureckie umocnienia na zachód od miasta, a w nocy jego obrońcy uciekli. Rano burmistrz Husajn Salim al-Husajni wyszedł z białą flagą na spotkanie Brytyjczyków, niosąc pismo osmańskiego gubernatora o poddaniu miasta, i przez kilka godzin szukał kogoś, kto zechciałby je przyjąć. Po czterystu latach rządów osmańskich Święte Miasto chrześcijan, żydów i muzułmanów przeszło w ręce brytyjskie, a żadne z jego świętych miejsc nie zostało uszkodzone.
+9 grudnia 1917 roku, w niedzielę, [Jerozolima](https://pl.wikipedia.org/wiki/Jerozolima) poddała się wojskom generała sir [Edmunda Allenby'ego](/postacie/edmund-allenby). Nie było szturmu ani walk na ulicach. Poprzedniego dnia Brytyjczycy zdobyli tureckie umocnienia na zachód od miasta, a w nocy jego obrońcy uciekli. Rano burmistrz Husajn Salim al-Husajni wyszedł z białą flagą na spotkanie Brytyjczyków, niosąc pismo osmańskiego gubernatora o poddaniu miasta, i przez kilka godzin szukał kogoś, kto zechciałby je przyjąć. Po czterystu latach rządów osmańskich Święte Miasto chrześcijan, żydów i muzułmanów przeszło w ręce brytyjskie, a żadne z jego świętych miejsc nie zostało uszkodzone.
 
 ## Miasto przed kapitulacją
 

@@ -42,7 +42,7 @@ Po kampanii Liman pozostał dowódcą 5 Armii, która broniła wybrzeża Morza E
 
 ## 1918: Palestyna
 
-Pod koniec 1917 roku Brytyjczycy generała [Edmunda Allenby'ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) zajęli Jerozolimę. Dowódcę Grupy Armii „Yıldırım”, [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn), odwołano, a 1 marca 1918 roku jego miejsce zajął Liman. Miał pod sobą trzy osłabione armie osmańskie, 7 i 8 w Palestynie oraz 4 za Jordanem, i niewielki niemiecki Korpus Azjatycki. Wymógł obietnicę posiłków, ale ich nie dostał, bo Enver kierował najlepsze siły na Kaukaz.
+Pod koniec 1917 roku Brytyjczycy generała [Edmunda Allenby'ego](/postacie/edmund-allenby) zajęli Jerozolimę. Dowódcę Grupy Armii „Yıldırım”, [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn), odwołano, a 1 marca 1918 roku jego miejsce zajął Liman. Miał pod sobą trzy osłabione armie osmańskie, 7 i 8 w Palestynie oraz 4 za Jordanem, i niewielki niemiecki Korpus Azjatycki. Wymógł obietnicę posiłków, ale ich nie dostał, bo Enver kierował najlepsze siły na Kaukaz.
 
 Wiosną odparł dwa brytyjskie wypady za Jordan, [na Amman](/bitwy/pierwszy-rajd-na-amman) i [na As-Salt](/bitwy/drugi-rajd-na-as-salt). Dla Turków było to po serii klęsk pierwsze zwycięstwo, które podniosło morale. Oba rajdy przekonały jednak Limana, że Brytyjczycy znów uderzą przez Jordan, na wschodnim skrzydle. We wrześniu, gdy dezerter ostrzegł przed natarciem nad morzem, Liman uznał go za brytyjską prowokację i nie pozwolił swoim dowódcom cofnąć się na drugą linię.
 

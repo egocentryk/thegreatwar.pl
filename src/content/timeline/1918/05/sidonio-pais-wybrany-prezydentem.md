@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-9 maja 1918 roku [Sidónio Pais](https://pl.wikipedia.org/wiki/Sidónio_Pais) został proklamowany prezydentem Republiki Portugalskiej i objął urząd z mandatem z wyborów powszechnych. Od grudnia 1917 roku, gdy po [zamachu stanu](/zamach-stanu-sidonia-paisa) [przejął funkcje głowy państwa](/sidonio-pais-prezydentem) na mocy dekretu własnego rządu, sprawował je tymczasowo, „do czasu nowego wyboru”. Teraz mógł się powołać na głosy wyborców. Brytyjska chronologia wojny zapisuje pod 9 maja jego wybór, ale same wybory odbyły się 28 kwietnia, a 9 maja ogłoszono ich wynik i Pais oficjalnie został prezydentem.
+9 maja 1918 roku [Sidónio Pais](/postacie/sidonio-pais) został proklamowany prezydentem Republiki Portugalskiej i objął urząd z mandatem z wyborów powszechnych. Od grudnia 1917 roku, gdy po [zamachu stanu](/zamach-stanu-sidonia-paisa) [przejął funkcje głowy państwa](/sidonio-pais-prezydentem) na mocy dekretu własnego rządu, sprawował je tymczasowo, „do czasu nowego wyboru”. Teraz mógł się powołać na głosy wyborców. Brytyjska chronologia wojny zapisuje pod 9 maja jego wybór, ale same wybory odbyły się 28 kwietnia, a 9 maja ogłoszono ich wynik i Pais oficjalnie został prezydentem.
 
 ## Wybory bez rywali
 

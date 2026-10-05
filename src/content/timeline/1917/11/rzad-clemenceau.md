@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 listopada 1917 roku Francja miała nowy rząd. Trzy dni po [upadku gabinetu Painlevégo](/upadek-rzadu-painlevego) premierem został [Georges Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau), który zatrzymał dla siebie także ministerstwo wojny. Ministrem spraw zagranicznych został jego wieloletni przyjaciel Stéphen Pichon, a nowo utworzone ministerstwo blokady i regionów wyzwolonych objął senator Charles Jonnart. Amerykański miesięcznik „Current History” zauważył, że gabinet skompletowano w niespełna 48 godzin od upadku poprzednika, co uznano za rekord szybkości. Datę 16 listopada podają brytyjska chronologia wojny i francuskie zestawienia rządów III Republiki.
+16 listopada 1917 roku Francja miała nowy rząd. Trzy dni po [upadku gabinetu Painlevégo](/upadek-rzadu-painlevego) premierem został [Georges Clemenceau](/postacie/georges-clemenceau), który zatrzymał dla siebie także ministerstwo wojny. Ministrem spraw zagranicznych został jego wieloletni przyjaciel Stéphen Pichon, a nowo utworzone ministerstwo blokady i regionów wyzwolonych objął senator Charles Jonnart. Amerykański miesięcznik „Current History” zauważył, że gabinet skompletowano w niespełna 48 godzin od upadku poprzednika, co uznano za rekord szybkości. Datę 16 listopada podają brytyjska chronologia wojny i francuskie zestawienia rządów III Republiki.
 
 ## Tygrys
 

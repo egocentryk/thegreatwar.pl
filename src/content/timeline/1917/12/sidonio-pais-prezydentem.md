@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-27 grudnia 1917 roku [Sidónio Pais](https://pl.wikipedia.org/wiki/Sidónio_Pais), przywódca zamachu stanu, a od 11 grudnia [premier Portugalii](/sidonio-pais-przejmuje-wladze), objął także funkcje prezydenta republiki. Podstawą był dekret rządu, ogłoszony tego samego dnia w nadzwyczajnym dodatku do dziennika urzędowego. Zmieniał on konstytucję z 1911 roku i stanowił, że do czasu wyboru nowego prezydenta jego funkcje sprawuje przewodniczący Ministerstwa, czyli premier. Brytyjska chronologia wojny podaje datę 28 grudnia.
+27 grudnia 1917 roku [Sidónio Pais](/postacie/sidonio-pais), przywódca zamachu stanu, a od 11 grudnia [premier Portugalii](/sidonio-pais-przejmuje-wladze), objął także funkcje prezydenta republiki. Podstawą był dekret rządu, ogłoszony tego samego dnia w nadzwyczajnym dodatku do dziennika urzędowego. Zmieniał on konstytucję z 1911 roku i stanowił, że do czasu wyboru nowego prezydenta jego funkcje sprawuje przewodniczący Ministerstwa, czyli premier. Brytyjska chronologia wojny podaje datę 28 grudnia.
 
 ## Złamana konstytucja
 

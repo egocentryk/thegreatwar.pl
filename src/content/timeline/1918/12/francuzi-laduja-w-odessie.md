@@ -15,7 +15,7 @@ draft: false
 
 ## Wyprawa na południe Rosji
 
-Francja szykowała tę wyprawę od jesieni. Jeszcze w grudniu 1917 roku Paryż i Londyn podzieliły się strefami działania na ziemiach dawnego imperium rosyjskiego i Francji przypadły Ukraina i Krym. Premier [Georges Clemenceau](https://pl.wikipedia.org/wiki/Georges_Clemenceau) liczył, że kontrola nad czarnomorskimi portami i ukraińskim zbożem pozwoli powstrzymać bolszewizm i odzyskać choć część francuskich inwestycji w Rosji. Po rozejmach z Turcją i Niemcami droga przez cieśniny stała otworem. Pod koniec listopada alianckie okręty [stanęły w Sewastopolu](/alianci-w-sewastopolu), a 2 grudnia na odeską redę wpłynął francuski pancernik „Mirabeau”. Wojska miały przyjść z frontu salonickiego, z alianckiej Armii Wschodniej. 156 Dywizja należała do Armii Dunaju, którą oddano do dyspozycji generała Henriego Berthelota.
+Francja szykowała tę wyprawę od jesieni. Jeszcze w grudniu 1917 roku Paryż i Londyn podzieliły się strefami działania na ziemiach dawnego imperium rosyjskiego i Francji przypadły Ukraina i Krym. Premier [Georges Clemenceau](/postacie/georges-clemenceau) liczył, że kontrola nad czarnomorskimi portami i ukraińskim zbożem pozwoli powstrzymać bolszewizm i odzyskać choć część francuskich inwestycji w Rosji. Po rozejmach z Turcją i Niemcami droga przez cieśniny stała otworem. Pod koniec listopada alianckie okręty [stanęły w Sewastopolu](/alianci-w-sewastopolu), a 2 grudnia na odeską redę wpłynął francuski pancernik „Mirabeau”. Wojska miały przyjść z frontu salonickiego, z alianckiej Armii Wschodniej. 156 Dywizja należała do Armii Dunaju, którą oddano do dyspozycji generała Henriego Berthelota.
 
 Rachuby Francuzów pomieszał upadek hetmana. Liczyli, że wylądują w kraju rządzonym przez sprzymierzonego z Ententą Pawła Skoropadskiego. Tymczasem 14 grudnia [hetmanat upadł](/upadek-hetmanatu), a niemal cała Ukraina znalazła się w rękach Dyrektoriatu, który uważali za ruch bliski bolszewizmowi. W Odessie stały jego wojska. Francuzi nie chcieli jednak sami walczyć z Ukraińcami.
 
@@ -25,7 +25,7 @@ Uderzenie na Ukraińców wzięli na siebie biali. Według Wiktora Sawczenki, ukr
 
 18 grudnia francuskie dowództwo postawiło Dyrektoriatowi ultimatum: jego wojska miały opuścić Odessę. [Symon Petlura](https://pl.wikipedia.org/wiki/Symon_Petlura) nie chciał wojny z Ententą, na której uznanie liczył. Kazał przerwać walki i odejść około 40 kilometrów na północ, gdzie Dyrektoriat utworzył swój front południowy. Generał Borius miał rozkaz zająć tylko Odessę i nie pozwolił białym ścigać Ukraińców.
 
-Nazajutrz, 19 grudnia, Francuzi ogłosili, że biorą Odessę i okolice pod swoją opiekę, a Borius mianował Griszyna-Ałmazowa gubernatorem wojskowym miasta. Ten zapowiedział, że będzie rządził w imieniu [Armii Ochotniczej](https://pl.wikipedia.org/wiki/Armia_Ochotnicza_(Biała_Armia)) generała [Antona Denikina](https://pl.wikipedia.org/wiki/Anton_Denikin).
+Nazajutrz, 19 grudnia, Francuzi ogłosili, że biorą Odessę i okolice pod swoją opiekę, a Borius mianował Griszyna-Ałmazowa gubernatorem wojskowym miasta. Ten zapowiedział, że będzie rządził w imieniu [Armii Ochotniczej](https://pl.wikipedia.org/wiki/Armia_Ochotnicza_(Biała_Armia)) generała [Antona Denikina](/postacie/anton-denikin).
 
 ## Ilu było Francuzów
 

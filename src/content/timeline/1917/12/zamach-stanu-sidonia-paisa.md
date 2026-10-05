@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-8 grudnia 1917 roku w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) zakończył się trzydniowy zbrojny zamach stanu. Rząd [Afonso Costy](https://pl.wikipedia.org/wiki/Afonso_Costa), [utworzony w kwietniu](/afonso-costa-po-raz-trzeci-premierem), złożył dymisję, a władzę przejęła Junta Rewolucyjna. Jej przewodniczącym był major artylerii i profesor matematyki [Sidónio Pais](https://pl.wikipedia.org/wiki/Sidónio_Pais). Tego samego dnia w nadzwyczajnym dodatku do dziennika urzędowego ogłoszono, że „lud i siły rewolucyjne lądu i morza” powołały juntę w składzie: Sidónio Pais jako przewodniczący oraz António Machado Santos i José Feliciano da Costa Júnior jako członkowie. Junta zapowiadała, że w możliwie najkrótszym czasie przekaże władzę rządowi „zgodnemu z dążeniami narodu”.
+8 grudnia 1917 roku w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) zakończył się trzydniowy zbrojny zamach stanu. Rząd [Afonso Costy](https://pl.wikipedia.org/wiki/Afonso_Costa), [utworzony w kwietniu](/afonso-costa-po-raz-trzeci-premierem), złożył dymisję, a władzę przejęła Junta Rewolucyjna. Jej przewodniczącym był major artylerii i profesor matematyki [Sidónio Pais](/postacie/sidonio-pais). Tego samego dnia w nadzwyczajnym dodatku do dziennika urzędowego ogłoszono, że „lud i siły rewolucyjne lądu i morza” powołały juntę w składzie: Sidónio Pais jako przewodniczący oraz António Machado Santos i José Feliciano da Costa Júnior jako członkowie. Junta zapowiadała, że w możliwie najkrótszym czasie przekaże władzę rządowi „zgodnemu z dążeniami narodu”.
 
 ## Przywódca i spiskowcy
 

@@ -26,7 +26,7 @@ Socjaliści z [PPS](https://pl.wikipedia.org/wiki/Polska_Partia_Socjalistyczna) 
 
 ## Odezwa regentów
 
-Regenci, arcybiskup [Aleksander Kakowski](https://pl.wikipedia.org/wiki/Aleksander_Kakowski), książę [Zdzisław Lubomirski](https://pl.wikipedia.org/wiki/Zdzisław_Lubomirski) i [Józef Ostrowski](https://pl.wikipedia.org/wiki/Józef_Ostrowski_(regent)), od kilku tygodni rządzili bez zgody okupantów, odkąd [7 października ogłosili](/deklaracja-rady-regencyjnej) wolę utworzenia niepodległej Polski. Na początku listopada ich autorytet był jednak bardzo słaby. Rząd Józefa Świeżyńskiego wypowiedział im posłuszeństwo i został zdymisjonowany, a lewica w Lublinie domagała się rozwiązania Rady. Wieczorem 11 listopada, między piątą a dziesiątą, regenci obradowali w mieszkaniu chorego Ostrowskiego. Około ósmej dołączył do nich Piłsudski.
+Regenci, arcybiskup [Aleksander Kakowski](/postacie/aleksander-kakowski), książę [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) i [Józef Ostrowski](https://pl.wikipedia.org/wiki/Józef_Ostrowski_(regent)), od kilku tygodni rządzili bez zgody okupantów, odkąd [7 października ogłosili](/deklaracja-rady-regencyjnej) wolę utworzenia niepodległej Polski. Na początku listopada ich autorytet był jednak bardzo słaby. Rząd Józefa Świeżyńskiego wypowiedział im posłuszeństwo i został zdymisjonowany, a lewica w Lublinie domagała się rozwiązania Rady. Wieczorem 11 listopada, między piątą a dziesiątą, regenci obradowali w mieszkaniu chorego Ostrowskiego. Około ósmej dołączył do nich Piłsudski.
 
 Postanowili oddać mu wojsko. Odezwa „Rada Regencyjna do Narodu Polskiego” brzmiała:
 

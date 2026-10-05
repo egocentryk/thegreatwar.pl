@@ -29,4 +29,4 @@ W pierwszym rozkazie wydanym 7 czerwca Iwanow-Rinow ogłosił, że „cała peł
 
 ## Co dalej
 
-Omsk stał się ośrodkiem antybolszewickiej Syberii. Przeniósł się tu z Nowonikołajewska podziemny dotąd Zachodniosyberyjski Komisariat, a 30 czerwca ogłoszono utworzenie nowego rządu syberyjskiego pod przewodnictwem Piotra Wołogodskiego. Czechosłowacy zostawili w mieście dwa bataliony. Rozkaz Iwanowa-Rinowa zapowiadał oddanie władzy cywilom, ale wojskowi do końca zachowali w Omsku decydujący głos. W listopadzie miasto zostało stolicą admirała [Aleksandra Kołczaka](https://pl.wikipedia.org/wiki/Aleksandr_Kołczak).
+Omsk stał się ośrodkiem antybolszewickiej Syberii. Przeniósł się tu z Nowonikołajewska podziemny dotąd Zachodniosyberyjski Komisariat, a 30 czerwca ogłoszono utworzenie nowego rządu syberyjskiego pod przewodnictwem Piotra Wołogodskiego. Czechosłowacy zostawili w mieście dwa bataliony. Rozkaz Iwanowa-Rinowa zapowiadał oddanie władzy cywilom, ale wojskowi do końca zachowali w Omsku decydujący głos. W listopadzie miasto zostało stolicą admirała [Aleksandra Kołczaka](/postacie/aleksandr-kolczak).

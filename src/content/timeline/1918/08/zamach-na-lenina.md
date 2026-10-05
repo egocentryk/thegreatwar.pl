@@ -10,7 +10,7 @@ milestone: true
 draft: false
 ---
 
-30 sierpnia 1918 roku był najczarniejszym dniem bolszewików od przejęcia władzy. Rano w Piotrogrodzie młody poeta i były junkier Leonid Kannegiser zastrzelił przewodniczącego piotrogrodzkiej Czeki Moisieja Urickiego. Wieczorem w Moskwie, po wiecu w zakładach Michelsona, padły strzały do przewodniczącego Rady Komisarzy Ludowych [Włodzimierza Lenina](https://pl.wikipedia.org/wiki/Włodzimierz_Lenin). Dwie kule trafiły go w szyję i ramię, a przez kilka dni nie było pewne, czy przeżyje. Na miejscu zatrzymano eserkę [Fanny Kapłan](https://pl.wikipedia.org/wiki/Fanny_Kapłan). Oba zamachy stały się dla władzy radzieckiej sygnałem do rozpętania masowego terroru, który odtąd oficjalnie nazywano czerwonym.
+30 sierpnia 1918 roku był najczarniejszym dniem bolszewików od przejęcia władzy. Rano w Piotrogrodzie młody poeta i były junkier Leonid Kannegiser zastrzelił przewodniczącego piotrogrodzkiej Czeki Moisieja Urickiego. Wieczorem w Moskwie, po wiecu w zakładach Michelsona, padły strzały do przewodniczącego Rady Komisarzy Ludowych [Włodzimierza Lenina](/postacie/wlodzimierz-lenin). Dwie kule trafiły go w szyję i ramię, a przez kilka dni nie było pewne, czy przeżyje. Na miejscu zatrzymano eserkę [Fanny Kapłan](https://pl.wikipedia.org/wiki/Fanny_Kapłan). Oba zamachy stały się dla władzy radzieckiej sygnałem do rozpętania masowego terroru, który odtąd oficjalnie nazywano czerwonym.
 
 ## Lato zamachów
 
