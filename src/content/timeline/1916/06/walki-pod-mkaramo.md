@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 czerwca 1916 roku główna kolumna wojsk generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) stoczyła walkę z Niemcami pod Mkaramo nad rzeką [Pangani](https://pl.wikipedia.org/wiki/Pangani), w północno-wschodniej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Brytyjska historia oficjalna (Hordern) i raport Smutsa zapisują tę nazwę jako Mkalamo. W tym miejscu Pangani przecinała niemiecka kolejka polowa, która biegła od stacji Mombo na kolei usambarskiej na południowy zachód, do Handeni. Była jedynym połączeniem niemieckich oddziałów w górach Usambara z głównymi siłami [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), stojącymi wtedy daleko na zachodzie, [pod Kondoa Irangi](/niemiecki-atak-na-kondoa-irangi).
+9 czerwca 1916 roku główna kolumna wojsk generała [Jana Smutsa](/postacie/jan-smuts) stoczyła walkę z Niemcami pod Mkaramo nad rzeką [Pangani](https://pl.wikipedia.org/wiki/Pangani), w północno-wschodniej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Brytyjska historia oficjalna (Hordern) i raport Smutsa zapisują tę nazwę jako Mkalamo. W tym miejscu Pangani przecinała niemiecka kolejka polowa, która biegła od stacji Mombo na kolei usambarskiej na południowy zachód, do Handeni. Była jedynym połączeniem niemieckich oddziałów w górach Usambara z głównymi siłami [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), stojącymi wtedy daleko na zachodzie, [pod Kondoa Irangi](/niemiecki-atak-na-kondoa-irangi).
 
 ## Marsz wzdłuż Pangani
 

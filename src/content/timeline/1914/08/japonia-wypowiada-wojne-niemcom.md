@@ -15,7 +15,7 @@ draft: false
 
 ## Sojusz i własne interesy
 
-Japonię od 1902 roku wiązał z Wielką Brytanią [sojusz brytyjsko-japoński](https://pl.wikipedia.org/wiki/Sojusz_brytyjsko-japoński). Na początku sierpnia Londyn poprosił Tokio o pomoc w zwalczaniu niemieckich okrętów na Pacyfiku. Rząd premiera [Shigenobu Ōkumy](https://pl.wikipedia.org/wiki/Shigenobu_Ōkuma), a zwłaszcza minister spraw zagranicznych Katō Takaaki, uznali, że wojna daje wyjątkową szansę. Niemcy, odległe i zajęte walkami w Europie, nie mogły obronić swoich posiadłości w Azji.
+Japonię od 1902 roku wiązał z Wielką Brytanią [sojusz brytyjsko-japoński](https://pl.wikipedia.org/wiki/Sojusz_brytyjsko-japoński). Na początku sierpnia Londyn poprosił Tokio o pomoc w zwalczaniu niemieckich okrętów na Pacyfiku. Rząd premiera [Shigenobu Ōkumy](/postacie/shigenobu-okuma), a zwłaszcza minister spraw zagranicznych Katō Takaaki, uznali, że wojna daje wyjątkową szansę. Niemcy, odległe i zajęte walkami w Europie, nie mogły obronić swoich posiadłości w Azji.
 
 Brytyjczycy mieli wątpliwości. Obawiali się, że Japonia zechce rozszerzyć wpływy w Chinach, a Australia i Nowa Zelandia z niepokojem patrzyły na japońską ekspansję na Pacyfiku. Tokio nie dało się jednak powstrzymać. 15 sierpnia wystosowało do Niemiec ultimatum, które pozostało bez odpowiedzi. Gdy 23 sierpnia minął termin, cesarz [Yoshihito](https://pl.wikipedia.org/wiki/Yoshihito) ogłosił wypowiedzenie wojny.
 

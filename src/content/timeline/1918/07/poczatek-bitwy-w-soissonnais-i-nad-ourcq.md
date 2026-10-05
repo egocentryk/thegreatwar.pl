@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-23 lipca 1918 roku dwie dywizje brytyjskie, szkocka 15 i 34, poszły do natarcia na zachodnie skrzydło niemieckiego występu nad Marną, na płaskowyżach na południe od [Soissons](https://pl.wikipedia.org/wiki/Soissons). Walczyły w składzie francuskiej 10 Armii generała [Charlesa Mangina](https://pl.wikipedia.org/wiki/Charles_Mangin), z dala od reszty armii brytyjskiej, i weszły do boju nazajutrz po przybyciu na front, po nocy spędzonej na luzowaniu wyczerpanych dywizji amerykańskiej i francuskiej. Nie znały terenu ani położenia własnej linii, a rozkazy dostały w ostatniej chwili. Tego dnia zdobyły bardzo niewiele, podobnie jak walczące obok nich dywizje francuskie. Od 23 lipca brytyjska historiografia liczy bitwę w Soissonnais i nad Ourcq, w której obie dywizje walczyły przez następne dziesięć dni, aż Niemcy oddali Soissons i cofnęli się za Vesle.
+23 lipca 1918 roku dwie dywizje brytyjskie, szkocka 15 i 34, poszły do natarcia na zachodnie skrzydło niemieckiego występu nad Marną, na płaskowyżach na południe od [Soissons](https://pl.wikipedia.org/wiki/Soissons). Walczyły w składzie francuskiej 10 Armii generała [Charlesa Mangina](/postacie/charles-mangin), z dala od reszty armii brytyjskiej, i weszły do boju nazajutrz po przybyciu na front, po nocy spędzonej na luzowaniu wyczerpanych dywizji amerykańskiej i francuskiej. Nie znały terenu ani położenia własnej linii, a rozkazy dostały w ostatniej chwili. Tego dnia zdobyły bardzo niewiele, podobnie jak walczące obok nich dywizje francuskie. Od 23 lipca brytyjska historiografia liczy bitwę w Soissonnais i nad Ourcq, w której obie dywizje walczyły przez następne dziesięć dni, aż Niemcy oddali Soissons i cofnęli się za Vesle.
 
 ## Tło
 

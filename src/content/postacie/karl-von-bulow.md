@@ -44,7 +44,7 @@ Ciężka artyleria 2 Armii zdobyła w kilka dni [twierdzę Namur](/bitwy/oblezen
 
 2 Armia wycofała się w okolice Reims, gdzie w [pierwszej bitwie nad Aisne](/bitwy/pierwsza-bitwa-nad-aisne) odpierała natarcia Francuzów. Lukę między nią a Kluckiem w ostatniej chwili zatkał VII Korpus Rezerwowy, który po kapitulacji Maubeuge przybył forsownym marszem. Jesienią 1914 roku armię Bülowa przesunięto dalej na północny zachód, na odcinek nad Sommą, gdzie front zastygł w okopach. 27 stycznia 1915 roku, w urodziny cesarza [Wilhelma II](/postacie/wilhelm-ii), Bülow został feldmarszałkiem.
 
-Wiosną 1915 roku doznał zawału serca. 4 kwietnia otrzymał order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), a dowództwo 2 Armii przejął generał [Fritz von Below](https://pl.wikipedia.org/wiki/Fritz_von_Below). Bülow nie wrócił już do służby. W czerwcu 1916 roku formalnie przeniesiono go w stan spoczynku.
+Wiosną 1915 roku doznał zawału serca. 4 kwietnia otrzymał order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite), a dowództwo 2 Armii przejął generał [Fritz von Below](/postacie/fritz-von-below). Bülow nie wrócił już do służby. W czerwcu 1916 roku formalnie przeniesiono go w stan spoczynku.
 
 ## Po wojnie
 

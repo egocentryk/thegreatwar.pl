@@ -30,7 +30,7 @@ Zanim Dobell zdecydował, o 9.30 Turcy uderzyli mocno na Ali Muntar i odbili wzg
 
 Dobell przyznał Dallasowi rację. Nie chciał rzucać do walki 52 Dywizji, bo przegrupowanie trwałoby długo, a dowiezienie zaopatrzenia, zwłaszcza wody, uważał za niewykonalne. Przez telefon opisał sytuację generałowi Archibaldowi Murrayowi, który czekał w wagonie kolejowym w Al-Arisz, i Murray z żalem przyznał, że trzeba przerwać walkę. O 16.30 Dobell kazał 53 i 54 Dywizji wycofać się za Wadi Ghazze. Odwrót ruszył o siódmej wieczorem pod osłoną dwóch brygad. Ostatni turecki atak na brygadę z Essex odparto bez trudu. Turcy nie przeszkadzali i przed czwartą rano 28 marca obie dywizje były już za wadi. Tego dnia zaczął wiać [chamsin](https://pl.wikipedia.org/wiki/Chamsin), gorący wiatr z pustyni, wcześniej niż zwykle, i spragnieni, wyczerpani żołnierze bardzo cierpieli od upału.
 
-Kress chciał iść za Brytyjczykami i przejść do natarcia, ale [Dżemal Pasza](https://pl.wikipedia.org/wiki/Ahmed_Cemal), dowódca osmańskiej 4 Armii, mu tego zabronił. Kress przyznał później, że Dżemal miał rację.
+Kress chciał iść za Brytyjczykami i przejść do natarcia, ale [Dżemal Pasza](/postacie/dzemal-pasza), dowódca osmańskiej 4 Armii, mu tego zabronił. Kress przyznał później, że Dżemal miał rację.
 
 ## Bilans i meldunki
 

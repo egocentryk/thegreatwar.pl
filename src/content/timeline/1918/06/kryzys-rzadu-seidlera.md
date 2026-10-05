@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-W niedzielę 23 czerwca 1918 roku premier Austrii [Ernst Seidler](/seidler-premierem-austrii) oznajmił na posiedzeniu Rady Ministrów, że nie zdoła zbudować większości w Izbie Posłów i dymisja gabinetu jest nieunikniona. Jeszcze tego dnia, zapewne ustnie, złożył ją cesarzowi [Karolowi I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg), który przyjął prośbę z zastrzeżeniem. Tak przebieg tego dnia odtwarza wydana przez Austriacką Akademię Nauk edycja protokołów austriackiej Rady Ministrów. Brytyjska kronika wojny podaje pod datą 21 czerwca, że Seidler ustąpił. W rzeczywistości jego rząd przetrwał jeszcze miesiąc, a o jego losie przesądzili w dużej mierze posłowie polscy.
+W niedzielę 23 czerwca 1918 roku premier Austrii [Ernst Seidler](/seidler-premierem-austrii) oznajmił na posiedzeniu Rady Ministrów, że nie zdoła zbudować większości w Izbie Posłów i dymisja gabinetu jest nieunikniona. Jeszcze tego dnia, zapewne ustnie, złożył ją cesarzowi [Karolowi I](/postacie/karol-i-habsburg), który przyjął prośbę z zastrzeżeniem. Tak przebieg tego dnia odtwarza wydana przez Austriacką Akademię Nauk edycja protokołów austriackiej Rady Ministrów. Brytyjska kronika wojny podaje pod datą 21 czerwca, że Seidler ustąpił. W rzeczywistości jego rząd przetrwał jeszcze miesiąc, a o jego losie przesądzili w dużej mierze posłowie polscy.
 
 ## Polacy przechodzą do opozycji
 

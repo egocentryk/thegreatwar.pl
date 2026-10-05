@@ -20,7 +20,7 @@ Przed wojną Zemun był granicznym miastem węgierskiej części monarchii, oddz
 
 ## Wkroczenie Serbów
 
-Główne siły serbskiej 1 Armii generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) przekroczyły Sawę 6 września dalej na zachód i posuwały się w głąb Sremu. 10 września przez rzekę przeprawiły się także oddziały broniące Belgradu i weszły do Zemunu. Tego samego dnia do miasta wjechał następca tronu i regent [Aleksander Karadziordziewić](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić). Miejscowi Serbowie witali żołnierzy z entuzjazmem. W tym samym czasie główne siły 1 Armii nawiązały walkę z Austro-Węgrami przed Starą Pazovą i Golubinci.
+Główne siły serbskiej 1 Armii generała [Petara Bojovicia](/postacie/petar-bojovic) przekroczyły Sawę 6 września dalej na zachód i posuwały się w głąb Sremu. 10 września przez rzekę przeprawiły się także oddziały broniące Belgradu i weszły do Zemunu. Tego samego dnia do miasta wjechał następca tronu i regent [Aleksander Karadziordziewić](/postacie/aleksander-i-karadziordziewic). Miejscowi Serbowie witali żołnierzy z entuzjazmem. W tym samym czasie główne siły 1 Armii nawiązały walkę z Austro-Węgrami przed Starą Pazovą i Golubinci.
 
 Wiadomość o Serbach w Zemunie zaniepokoiła władze monarchii, zwłaszcza w Budapeszcie. Dowodzący w Sremie generał Alfred Krauss otrzymał rozkaz wyparcia ich za Sawę za wszelką cenę.
 

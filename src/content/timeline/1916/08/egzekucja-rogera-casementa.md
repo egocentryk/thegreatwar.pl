@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Rano 3 sierpnia 1916 roku w londyńskim więzieniu Pentonville powieszono [Rogera Casementa](https://pl.wikipedia.org/wiki/Roger_Casement), byłego brytyjskiego konsula i irlandzkiego nacjonalistę, który [w kwietniu wylądował w Irlandii](/aresztowanie-rogera-casementa) z niemieckiego okrętu podwodnego. Został skazany na śmierć za [zdradę stanu](https://pl.wikipedia.org/wiki/Zdrada_stanu), czyli za werbowanie irlandzkich jeńców wojennych do walki po stronie Niemiec i zabiegi o niemiecką pomoc dla powstania w Irlandii. Był szesnastym i ostatnim człowiekiem straconym w związku z Powstaniem Wielkanocnym, ale jedynym, którego nie sądził sąd wojskowy, lecz zwykły sąd w Londynie.
+Rano 3 sierpnia 1916 roku w londyńskim więzieniu Pentonville powieszono [Rogera Casementa](/postacie/roger-casement), byłego brytyjskiego konsula i irlandzkiego nacjonalistę, który [w kwietniu wylądował w Irlandii](/aresztowanie-rogera-casementa) z niemieckiego okrętu podwodnego. Został skazany na śmierć za [zdradę stanu](https://pl.wikipedia.org/wiki/Zdrada_stanu), czyli za werbowanie irlandzkich jeńców wojennych do walki po stronie Niemiec i zabiegi o niemiecką pomoc dla powstania w Irlandii. Był szesnastym i ostatnim człowiekiem straconym w związku z Powstaniem Wielkanocnym, ale jedynym, którego nie sądził sąd wojskowy, lecz zwykły sąd w Londynie.
 
 ## Proces i apelacja
 

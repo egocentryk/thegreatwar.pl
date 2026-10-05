@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 września 1916 roku, czyli 29 sierpnia według kalendarza juliańskiego, którym posługiwała się Grecja, premier [Aleksandros Zaimis](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis) złożył dymisję. Tę datę podają brytyjska chronologia wojny i brytyjski publicysta George F. Abbott, który korzystał z greckich dokumentów dyplomatycznych. Amerykański rocznik „The American Year Book” notuje dymisję pod 13 września, zapewne według dnia, w którym wiadomość dotarła do prasy. Formalnie Zaimis kierował rządem do 16 września, kiedy zaprzysiężono jego następcę. Odchodził premier, którego [w czerwcu](/zaimis-ponownie-premierem-grecji) powołano na żądanie mocarstw Ententy i który miał tylko przeprowadzić kraj do wyborów, a w ostatnich tygodniach prowadził rozmowy o przystąpieniu Grecji do wojny.
+11 września 1916 roku, czyli 29 sierpnia według kalendarza juliańskiego, którym posługiwała się Grecja, premier [Aleksandros Zaimis](/postacie/aleksandros-zaimis) złożył dymisję. Tę datę podają brytyjska chronologia wojny i brytyjski publicysta George F. Abbott, który korzystał z greckich dokumentów dyplomatycznych. Amerykański rocznik „The American Year Book” notuje dymisję pod 13 września, zapewne według dnia, w którym wiadomość dotarła do prasy. Formalnie Zaimis kierował rządem do 16 września, kiedy zaprzysiężono jego następcę. Odchodził premier, którego [w czerwcu](/zaimis-ponownie-premierem-grecji) powołano na żądanie mocarstw Ententy i który miał tylko przeprowadzić kraj do wyborów, a w ostatnich tygodniach prowadził rozmowy o przystąpieniu Grecji do wojny.
 
 ## Rozmowy o wojnie
 

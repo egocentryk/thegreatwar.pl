@@ -1,0 +1,57 @@
+---
+name: Friedrich Sixt von Armin
+summary: Pruski generał, który przez dwa ostatnie lata wojny dowodził 4 Armią we Flandrii i bronił się przed Brytyjczykami pod Messines i Passchendaele.
+role: Dowódca IV Korpusu (1911–1917) i 4 Armii niemieckiej we Flandrii (1917–1918), generał piechoty
+country: Niemcy
+side: Państwa centralne
+born: 1851-11-27
+died: 1936-09-30
+birthPlace: Wetzlar (Prusy)
+deathPlace: Magdeburg
+aliases: [Friedrich Sixt von Armin]
+wikiTitles: [Friedrich_Sixt_von_Armin]
+authors: [Łukasz Skowroń]
+tags: [Niemcy, Belgia, Brytyjski Korpus Ekspedycyjny]
+---
+
+Friedrich Sixt von Armin walczył z Brytyjczykami dłużej niż niemal którykolwiek inny niemiecki generał. Jego IV Korpus spotkał się z nimi już pod Mons i Le Cateau w sierpniu 1914 roku, bronił się przed nimi pod Loos w 1915 roku i nad Sommą w 1916 roku. Od marca 1917 roku do końca wojny Sixt von Armin dowodził 4 Armią we Flandrii, która przyjęła na siebie trzecią bitwę pod Ypres, najdłuższe i najbardziej wyczerpujące natarcie armii brytyjskiej w tej wojnie. W Niemczech nazywano go „lwem Flandrii”. Mimo to jest dziś jednym z najmniej znanych niemieckich dowódców armii, w cieniu nie tylko [Hindenburga](/postacie/paul-von-hindenburg) i [Ludendorffa](/postacie/erich-ludendorff), ale także własnego szefa sztabu, Fritza von Loßberga. W tekstach, także brytyjskich, często błędnie zapisywano jego nazwisko jako „Sixt von Arnim”.
+
+## Przed wojną
+
+Urodził się 27 listopada 1851 roku w [Wetzlarze](https://pl.wikipedia.org/wiki/Wetzlar) jako syn podpułkownika armii pruskiej, którego rodzina wywodziła się ze Szwajcarii. Zaraz po maturze, w lipcu 1870 roku, wstąpił jako kandydat na oficera do 4 Pułku Grenadierów Gwardii. Miesiąc później, 18 sierpnia, w [bitwie pod Gravelotte i Saint-Privat](https://pl.wikipedia.org/wiki/Bitwa_pod_Gravelotte), został ciężko ranny w obie nogi i dostał Krzyż Żelazny.
+
+Po wojnie zrobił typową karierę oficera Sztabu Generalnego, przeplataną służbą w linii. Był szefem sztabu wirtemberskiego XIII Korpusu i Korpusu Gwardii, dowodził pułkiem piechoty w Detmold. W latach 1903–1908, jako generał major, kierował w pruskim ministerstwie wojny Departamentem Ogólnym, który odpowiadał za uzbrojenie armii. Potem objął 13 Dywizję w Münsterze, a w 1911 roku zastąpił Hindenburga na stanowisku dowódcy [IV Korpusu](https://pl.wikipedia.org/wiki/IV_Korpus_Armijny_(Cesarstwo_Niemieckie)) w [Magdeburgu](https://pl.wikipedia.org/wiki/Magdeburg). W 1882 roku ożenił się z córką pruskiego generała artylerii Juliusa von Voigts-Rhetza. Dwaj jego synowie zostali oficerami.
+
+## 1914–1916: korpus
+
+W sierpniu 1914 roku IV Korpus szedł na prawym skrzydle niemieckiej inwazji, w 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck). 20 sierpnia wkroczył do Brukseli, a trzy dni później [pod Mons](/bitwy/bitwa-pod-mons) natrafił na Brytyjczyków. 26 sierpnia jego dywizje, obok kawalerii generała Georga von der Marwitza, jako pierwsze uderzyły na II Korpus generała Smith-Dorriena [pod Le Cateau](/bitwy/bitwa-pod-le-cateau). Korpus przeszedł cały marsz na Paryż i wziął udział w [bitwie nad Marną](/bitwy/pierwsza-bitwa-nad-marna). W 1914 roku poległ we Francji jeden z synów generała, porucznik Friedrich Wilhelm.
+
+Pod koniec września, w czasie wyścigu do morza, IV Korpus przerzucono do 6 Armii w Artois. Walczył pod Arras i La Bassée, a potem przez prawie dwa lata trzymał front w Artois. W 1915 roku bronił się w [drugiej bitwie w Artois](/bitwy/druga-bitwa-w-artois), a we wrześniu pod Loos, gdzie Brytyjczycy po raz pierwszy użyli gazu: jego dywizje utraciły wtedy miasteczko Loos, ale zatrzymały brytyjskie odwody i odbiły większą część [Reduty Hohenzollernów](/bitwy/bitwa-pod-loos).
+
+W lipcu 1916 roku korpus wysłano nad Sommę. Rankiem 14 lipca, w dniu, w którym Brytyjczycy niespodziewanym nocnym natarciem zdobyli [grzbiet Bazentin](/bitwy/bitwa-o-grzbiet-bazentin), Sixt von Armin objął dowództwo nad odcinkiem od Longueval po Ancre. Zastał go w stanie krytycznym: jak pisał, „nie było pozycji tyłowych, rygli, okopów łączących”. Dowódca 2 Armii, generał [Fritz von Below](/postacie/fritz-von-below), oddał mu wszystkie dostępne rezerwy. Grupa Sixta von Armina przez prawie dwa tygodnie powstrzymywała Brytyjczyków w [lesie Delville](/bitwy/bitwa-o-las-delville), pod Longueval i [pod Pozières](/bitwy/bitwa-o-grzbiet-pozieres), a 26 lipca przekazała front następnemu korpusowi. We wrześniu i na początku października korpus wrócił na Sommę po raz drugi. 10 sierpnia Sixt von Armin dostał na wniosek Belowa order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite).
+
+Swoje doświadczenia z lipca opisał w obszernym raporcie, który omawiał wszystko, od taktyki w natarciu i obronie, przez łączność i uzbrojenie, po transport i wyżywienie. Pod koniec sierpnia Brytyjczycy zdobyli jego egzemplarz, a 30 września 1916 roku wywiad Haiga rozesłał go po armii w przekładzie jako „Experiences of the IV German Corps in the Battle of the Somme during July 1916”. W ten sposób jego wnioski poznali także brytyjscy oficerowie sztabowi.
+
+## 4 Armia: Messines i Passchendaele
+
+1 marca 1917 roku Sixt von Armin przejął od księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) [4 Armię](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)), broniącą Flandrii od wybrzeża po okolice Armentières. Podlegał grupie armii następcy tronu Bawarii [Rupprechta](/postacie/rupprecht-bawarski). Od wiosny było jasne, że Brytyjczycy szykują się do natarcia, ale sztab 4 Armii nie docenił zagrożenia dla wysuniętego łuku Wytschaete. W kwietniu szef sztabu Rupprechta proponował opuścić łuk, ale dowódcy korpusów i dywizji się sprzeciwili. 7 czerwca, po wybuchu potężnych min, 2 Armia generała [Herberta Plumera](/postacie/herbert-plumer) zdobyła w jeden dzień [cały grzbiet Messines](/bitwy/bitwa-pod-messines-1917). Niemiecka historia oficjalna uznała później, że błędna ocena brytyjskich zamiarów była najpoważniejszym błędem Sixta von Armina. Naczelne dowództwo przydzieliło mu wtedy jako szefa sztabu pułkownika Fritza von Loßberga, najlepszego niemieckiego specjalistę od obrony, który nad Sommą był szefem sztabu Belowa, a wiosną pod Arras szefem sztabu 6 Armii.
+
+Loßberg przebudował obronę w głąb: cienka pierwsza linia, za nią kolejne pozycje i bunkry, a za frontem dywizje przeciwnatarcia, gotowe uderzyć na nacierających, gdy ci wyjdą poza zasięg własnej artylerii. Gdy [31 lipca](/poczatek-trzeciej-bitwy-pod-ypres) 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) rozpoczęła [trzecią bitwę pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), ten system zadziałał. [Na grzbiecie Pilckem](/bitwy/bitwa-o-grzbiet-pilckem) i [pod Langemarck](/bitwy/bitwa-pod-langemarck-1917) niemieckie przeciwnatarcia odbijały teren, a deszcz i błoto zrobiły resztę. 3 sierpnia Sixt von Armin dostał liście dębu do Pour le Mérite.
+
+We wrześniu Plumer zmienił metodę. [Pod Menin Road](/bitwy/bitwa-o-grzbiet-menin-road), [w lesie Polygon](/bitwy/bitwa-o-polygon-wood) i [pod Broodseinde](/bitwy/bitwa-pod-broodseinde) brytyjska piechota zdobywała płytkie pasy terenu pod osłoną bardzo silnej artylerii i od razu się okopywała, a niemieckie dywizje przeciwnatarcia wpadały pod ogień zaporowy. 4 Armia próbowała się dostosować, raz zagęszczając pierwszą linię, raz ją rozrzedzając, i ponosiła ciężkie straty. W październiku coraz więcej żołnierzy wymykało się na tyły, a 11 października Sixt von Armin nakazał wobec nich „najsurowsze środki”. Kryzys przerwała dopiero znów jesienna pogoda. Po kolejnych natarciach [pod Passchendaele](/bitwy/druga-bitwa-pod-passchendaele) Kanadyjczycy zdobyli w listopadzie ruiny wsi, ale front nie pękł, a porty na wybrzeżu belgijskim zostały w rękach Niemców. 25 grudnia Sixt von Armin dostał Order Orła Czarnego, najwyższe pruskie odznaczenie.
+
+## 1918: Kemmel i odwrót
+
+W kwietniu 1918 roku 4 Armia po raz pierwszy od dawna nacierała. W planie ofensywy we Flandrii przypadło jej kilka uderzeń, ale po [operacji Michael](/bitwy/operacja-michael) Ludendorff nie miał już dość dywizji i ciężkiej artylerii, więc zostało tylko jedno. 9 kwietnia 6 Armia rozbiła nad Lys Portugalczyków, a [10 kwietnia](/niemcy-zdobywaja-messines-1918) dywizje Sixta von Armina przeszły rzekę we mgle i [odbiły grzbiet Messines](/bitwy/bitwa-pod-messines-1918), a potem zdobyły Armentières i [Bailleul](/bitwy/bitwa-pod-bailleul). Brytyjczycy opuścili zdobyty z takim trudem łuk Ypres razem z Passchendaele. [25 kwietnia](/niemcy-zdobywaja-wzgorze-kemmel) jego wojska z pomocą świeżych dywizji szturmem zdobyły bronione przez Francuzów wzgórze Kemmel, najwyższy punkt okolicy. Cztery dni później [natarcie na Scherpenberg](/bitwy/bitwa-o-scherpenberg) i Mont Rouge załamało się jednak w ogniu sprzymierzonych i [bitwa nad Lys](/bitwy/bitwa-nad-lys-1918) wygasła.
+
+Jesienią role się odwróciły. 28 września Belgowie, Brytyjczycy i Francuzi pod wodzą króla [Alberta I](/postacie/albert-i) w [piątej bitwie pod Ypres](/bitwy/piata-bitwa-pod-ypres) w ciągu kilku dni odbili wszystkie wzgórza wokół miasta. W październiku, [pod Kortrijk](/bitwy/bitwa-pod-kortrijk), przełamali front 4 Armii, która musiała opuścić całe wybrzeże Belgii z bazami okrętów podwodnych i cofnąć się nad Skaldę, a potem ku pozycji Antwerpia–Moza. Po [rozejmie](/rozejm-w-compiegne) Sixt von Armin przejął od Rupprechta dowództwo całej grupy armii i wyprowadził ją z Belgii do Niemiec. Demobilizację zakończył w Paderborn, a 2 stycznia 1919 roku przeszedł w stan spoczynku.
+
+## Po wojnie
+
+Resztę życia spędził w Magdeburgu, gdzie chętnie występował jako mówca na uroczystościach i spotkaniach weteranów. W 1924 roku radykalna część związku byłych żołnierzy [Stahlhelm](https://pl.wikipedia.org/wiki/Stahlhelm,_Bund_der_Frontsoldaten) próbowała uczynić go przywódcą organizacji zamiast Franza Seldtego, ale bez powodzenia. Do polityki się nie włączał i nie napisał wspomnień. Zmarł 30 września 1936 roku w Magdeburgu i został pochowany z honorami wojskowymi. Jego imię nosiły koszary w Magdeburgu, a w czasach Bundeswehry koszary w rodzinnym Wetzlarze. Jego syn [Hans-Heinrich](https://pl.wikipedia.org/wiki/Hans-Heinrich_Sixt_von_Armin), generał porucznik, dostał się do niewoli w bitwie pod Stalingradem i zmarł w niej w 1952 roku.
+
+## Ocena
+
+Sixt von Armin był wykształconym w sztabie, rzeczowym i doświadczonym dowódcą, który dobrze znał swojego przeciwnika. Jego raport znad Sommy był na tyle wartościowy, że Brytyjczycy rozpowszechnili go we własnej armii. Ocenę jego dowodzenia w 1917 roku utrudnia to, że obronę Flandrii tradycyjnie przypisuje się przede wszystkim Loßbergowi, który po wojnie szczegółowo ją opisał w swoich wspomnieniach. Tytuł „lwa Flandrii” dzielili zresztą obaj, razem z dowódcą Korpusu Morskiego we Flandrii, admirałem Ludwigiem von Schröderem. Niemiecki historyk Markus Pöhlmann zauważa, że sam Sixt von Armin nie zostawił wspomnień i pozostaje w cieniu sławniejszych dowódców swojej epoki.
+
+Bilans jego wojny jest mieszany. Pod Messines w czerwcu 1917 roku jego armia poniosła jedną z najdotkliwszych porażek obronnych armii niemieckiej na froncie zachodnim. W kolejnych miesiącach przetrwała jednak najdłuższe natarcie brytyjskie we Flandrii, a w kwietniu 1918 roku odzyskała cały teren stracony w 1917 roku i zdobyła wzgórze Kemmel. Te zdobycze trudno jednak uznać za jego osobisty sukces: ofensywa we Flandrii od początku była osłabiona brakiem odwodów, a jesienią 4 Armia oddała wszystko w kilka tygodni, gdy siły niemieckie były już na wyczerpaniu.

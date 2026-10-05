@@ -36,7 +36,7 @@ Ten rok ma też ciemną stronę. Brusiłow, zagorzały germanofob, wielokrotnie 
 
 ## 1916: wielka ofensywa
 
-Pod koniec marca 1916 roku Brusiłow [zastąpił Iwanowa na czele Frontu Południowo-Zachodniego](/brusilow-dowodca-frontu-poludniowo-zachodniego). Na naradzie w Kwaterze Głównej w Mohylewie w kwietniu jako jedyny z dowódców frontów zapewniał, że jego wojska mogą i powinny atakować. Dostał zgodę, ale tylko na uderzenie pomocnicze wobec głównego natarcia Frontu Zachodniego generała [Aleksieja Ewerta](https://pl.wikipedia.org/wiki/Aleksiej_Ewert) na Wilno.
+Pod koniec marca 1916 roku Brusiłow [zastąpił Iwanowa na czele Frontu Południowo-Zachodniego](/brusilow-dowodca-frontu-poludniowo-zachodniego). Na naradzie w Kwaterze Głównej w Mohylewie w kwietniu jako jedyny z dowódców frontów zapewniał, że jego wojska mogą i powinny atakować. Dostał zgodę, ale tylko na uderzenie pomocnicze wobec głównego natarcia Frontu Zachodniego generała [Aleksieja Ewerta](/postacie/aleksiej-ewert) na Wilno.
 
 Brusiłow przygotował natarcie inaczej niż wszyscy przed nim. Zamiast skupiać siły w jednym punkcie, polecił każdej z czterech armii przygotować własne przełamanie, tak by przeciwnik nie wiedział, gdzie spadnie główny cios, i nie mógł przesuwać odwodów. Piechota przez tygodnie przekopywała się nocami pod pozycje przeciwnika, a artyleria dostała dokładne zadania zamiast huraganowego ognia. Jeszcze w nocy przed natarciem szef sztabu Naczelnego Wodza, generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), namawiał go przez telefon, by przełożył atak i skupił siły. Brusiłow odmówił.
 

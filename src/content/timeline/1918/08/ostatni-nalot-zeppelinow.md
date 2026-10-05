@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 5 sierpnia 1918 roku z baz w północnych Niemczech wystartowało pięć sterowców niemieckiej marynarki: L 53, L 56, L 63, L 65 i L 70. Miały zbombardować środkową Anglię. Na pokładzie najnowszego z nich, L 70, leciał sam [Peter Strasser](https://pl.wikipedia.org/wiki/Peter_Strasser), dowódca lotnictwa sterowcowego marynarki. Była to pierwsza wyprawa sterowców nad Anglię od [nalotu z 12 kwietnia](/ostatni-nalot-sterowcow-z-ofiarami) i, jak się okazało, ostatnia w tej wojnie. Bomby spadły tej nocy wyłącznie do morza, a L 70 został zestrzelony w płomieniach u wybrzeży hrabstwa [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)). Zginęła cała załoga i Strasser.
+Po południu 5 sierpnia 1918 roku z baz w północnych Niemczech wystartowało pięć sterowców niemieckiej marynarki: L 53, L 56, L 63, L 65 i L 70. Miały zbombardować środkową Anglię. Na pokładzie najnowszego z nich, L 70, leciał sam [Peter Strasser](/postacie/peter-strasser), dowódca lotnictwa sterowcowego marynarki. Była to pierwsza wyprawa sterowców nad Anglię od [nalotu z 12 kwietnia](/ostatni-nalot-sterowcow-z-ofiarami) i, jak się okazało, ostatnia w tej wojnie. Bomby spadły tej nocy wyłącznie do morza, a L 70 został zestrzelony w płomieniach u wybrzeży hrabstwa [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)). Zginęła cała załoga i Strasser.
 
 ## Wyprawa w złą pogodę
 

@@ -26,7 +26,7 @@ Niemcy mieli ten sam zamiar, tyle że w przeciwnym kierunku. 28 września szef s
 
 ## Siły
 
-Zgrupowanie Maud'huy dopiero się gromadziło. Na wschód i południe od Arras stały francuskie dywizje terytorialne generała Brugère'a, złożone ze starszych rezerwistów. 30 września do miasta [przybyła 77 Dywizja generała Barbota](/francuzi-wracaja-do-arras), a w okolicach Lens wyładowywała się 70 Dywizja generała [Marie Émile'a Fayolle'a](https://pl.wikipedia.org/wiki/Marie_Émile_Fayolle). Obie tworzyły prowizoryczny korpus generała d'Urbala. Główna siła uderzeniowa, X Korpus, wciąż wyładowywała się z pociągów. Północne skrzydło osłaniała kawaleria generała Conneau.
+Zgrupowanie Maud'huy dopiero się gromadziło. Na wschód i południe od Arras stały francuskie dywizje terytorialne generała Brugère'a, złożone ze starszych rezerwistów. 30 września do miasta [przybyła 77 Dywizja generała Barbota](/francuzi-wracaja-do-arras), a w okolicach Lens wyładowywała się 70 Dywizja generała [Marie Émile'a Fayolle'a](/postacie/emile-fayolle). Obie tworzyły prowizoryczny korpus generała d'Urbala. Główna siła uderzeniowa, X Korpus, wciąż wyładowywała się z pociągów. Północne skrzydło osłaniała kawaleria generała Conneau.
 
 Po stronie niemieckiej do walki wchodziły trzy korpusy, ustawione od południa na północ: Korpus Gwardii, IV Korpus i I Bawarski Korpus Rezerwowy. Dalej na północ, w stronę Lens i Lille, posuwały się niemieckie korpusy kawalerii.
 

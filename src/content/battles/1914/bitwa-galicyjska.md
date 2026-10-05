@@ -39,7 +39,7 @@ Szacunki sił różnią się w zależności od źródła. Austriacka historia of
 
 ## Sukcesy na północy: Kraśnik i Komarów
 
-23 sierpnia armia Dankla zderzyła się na południe od Kraśnika z rosyjską 4 Armią. Po trzech dniach walk Rosjanie, zagrożeni oskrzydleniem, cofnęli się w stronę Lublina, a Salza stracił dowództwo. Jego miejsce zajął generał [Aleksiej Ewert](https://pl.wikipedia.org/wiki/Aleksiej_Ewert). Było to pierwsze zwycięstwo armii austro-węgierskiej w tej wojnie. Dankl szedł dalej na północ i na przełomie sierpnia i września jego czołowe oddziały stanęły na wzgórzach przed Lublinem.
+23 sierpnia armia Dankla zderzyła się na południe od Kraśnika z rosyjską 4 Armią. Po trzech dniach walk Rosjanie, zagrożeni oskrzydleniem, cofnęli się w stronę Lublina, a Salza stracił dowództwo. Jego miejsce zajął generał [Aleksiej Ewert](/postacie/aleksiej-ewert). Było to pierwsze zwycięstwo armii austro-węgierskiej w tej wojnie. Dankl szedł dalej na północ i na przełomie sierpnia i września jego czołowe oddziały stanęły na wzgórzach przed Lublinem.
 
 26 sierpnia na prawo od niego do bitwy pod Komarowem weszła armia Auffenberga. Przez tydzień walczyła na Zamojszczyźnie, między Zamościem, Komarowem a Tomaszowem Lubelskim, z rosyjską 5 Armią Plehwego. Po kryzysie 27–28 sierpnia Austriacy obeszli Rosjan z obu skrzydeł i wydawało się, że powtórzą sukces, jaki Niemcy odnieśli właśnie nad armią Samsonowa. Kleszcze się jednak nie zamknęły. W nocy z 1 na 2 września Plehwe wycofał poturbowaną armię na północny wschód, za Bug. Komarów był największym zwycięstwem Austro-Węgier w całej kampanii, ale zwycięstwem niepełnym.
 

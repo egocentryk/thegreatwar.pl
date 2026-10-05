@@ -16,7 +16,7 @@ Rano 4 lutego 1915 roku żołnierze broniący środkowego odcinka [Kanału Suesk
 
 ## Decyzja o odwrocie
 
-Rozkaz odwrotu wydało wieczorem 3 lutego tureckie dowództwo, na którego czele stał [Ahmed Dżemal Pasza](https://pl.wikipedia.org/wiki/Ahmed_Cemal). Przeprawa się nie udała, a większość pontonów zatonęła lub została porzucona. Obrońcy mieli w odwodzie świeże brygady indyjskie i wsparcie okrętów, a tureckie oddziały, zmęczone marszem przez pustynię, cierpiały na brak wody. Zawiodła też nadzieja, z którą Turcy i Niemcy ruszali na Egipt: pojawienie się wojsk sułtana nie wywołało w kraju żadnego powstania przeciw Brytyjczykom. Według relacji tureckich oddziały odeszły w porządku, najpierw do obozu około 10 kilometrów na wschód od Ismailii.
+Rozkaz odwrotu wydało wieczorem 3 lutego tureckie dowództwo, na którego czele stał [Ahmed Dżemal Pasza](/postacie/dzemal-pasza). Przeprawa się nie udała, a większość pontonów zatonęła lub została porzucona. Obrońcy mieli w odwodzie świeże brygady indyjskie i wsparcie okrętów, a tureckie oddziały, zmęczone marszem przez pustynię, cierpiały na brak wody. Zawiodła też nadzieja, z którą Turcy i Niemcy ruszali na Egipt: pojawienie się wojsk sułtana nie wywołało w kraju żadnego powstania przeciw Brytyjczykom. Według relacji tureckich oddziały odeszły w porządku, najpierw do obozu około 10 kilometrów na wschód od Ismailii.
 
 ## Kapitulacja pod Serapeum
 

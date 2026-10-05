@@ -35,7 +35,7 @@ Natarcie skierowano na odcinek długości około czterech–pięciu kilometrów 
 
 ## Plan
 
-Natarcie miał przeprowadzić I Korpus generała Charlesa Monro z 2 Dywizją generała Henry'ego Horne'a i 7 Dywizją generała [Huberta Gougha](https://pl.wikipedia.org/wiki/Hubert_Gough), wspierany przez Dywizję Meerut z Korpusu Indyjskiego generała Jamesa Willcocksa. Pierwszym celem była droga La Quinque Rue, biegnąca z Festubert na północny wschód, około 900 metrów od brytyjskich okopów. Pod Aubers piechota miała przejść trzy razy dalej.
+Natarcie miał przeprowadzić I Korpus generała Charlesa Monro z 2 Dywizją generała Henry'ego Horne'a i 7 Dywizją generała [Huberta Gougha](/postacie/hubert-gough), wspierany przez Dywizję Meerut z Korpusu Indyjskiego generała Jamesa Willcocksa. Pierwszym celem była droga La Quinque Rue, biegnąca z Festubert na północny wschód, około 900 metrów od brytyjskich okopów. Pod Aubers piechota miała przejść trzy razy dalej.
 
 Do ostrzału zebrano 433 działa i haubice, w tym dwie olbrzymie haubice 15-calowe. Ogień był powolny i dokładnie obserwowany: każda bateria ciężkich haubic dostała około 230 metrów niemieckiego przedpiersia do zburzenia, a działa polowe po raz pierwszy metodycznie, pocisk po pocisku, cięły zasieki. Brakowało jednak ciężkich dział i amunicji, a wiele pocisków nie wybuchało. Ostrzał zaczął się rano 13 maja. Padał wtedy deszcz, który utrudniał obserwację i rozmiękczał ziemię tak, że pociski grzęzły w błocie. 14 maja Dywizja Meerut zgłosiła, że zniszczenia są niewystarczające, i Haig odłożył natarcie o dobę. Ostrzał, planowany na 36 godzin, trwał 60. Artyleria I Korpusu wystrzeliła w tym czasie ponad 100 tysięcy pocisków.
 

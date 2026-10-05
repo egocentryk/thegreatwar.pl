@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 sierpnia 1916 roku południowoafrykańskie wojska 2 Dywizji generała Jacoba van Deventera weszły do Mpwapwa, dawnej niemieckiej stacji administracyjnej w środkowej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), na północ od kolei centralnej. Niemcy opuścili osadę, gdy kolumna się do niej zbliżała, ale ich straż tylna broniła się do wieczora na wzgórzach za nią. Brytyjska historia oficjalna (Hordern) i brytyjska chronologia wojny podają 11 sierpnia. Raport generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) i oparta na nim południowoafrykańska historia oficjalna przesuwają wszystko o jeden dzień: walkę pod Chunyu datują na 11 sierpnia, a pod Mpwapwa na wieczór 12 sierpnia.
+11 sierpnia 1916 roku południowoafrykańskie wojska 2 Dywizji generała Jacoba van Deventera weszły do Mpwapwa, dawnej niemieckiej stacji administracyjnej w środkowej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), na północ od kolei centralnej. Niemcy opuścili osadę, gdy kolumna się do niej zbliżała, ale ich straż tylna broniła się do wieczora na wzgórzach za nią. Brytyjska historia oficjalna (Hordern) i brytyjska chronologia wojny podają 11 sierpnia. Raport generała [Jana Smutsa](/postacie/jan-smuts) i oparta na nim południowoafrykańska historia oficjalna przesuwają wszystko o jeden dzień: walkę pod Chunyu datują na 11 sierpnia, a pod Mpwapwa na wieczór 12 sierpnia.
 
 ## Na wschód od Dodomy
 

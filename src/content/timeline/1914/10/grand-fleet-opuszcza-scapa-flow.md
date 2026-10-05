@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po [alarmie w Scapa Flow](/alarm-w-scapa-flow) z 16 i 17 października 1914 roku admirał [John Jellicoe](https://pl.wikipedia.org/wiki/John_Jellicoe), dowódca [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), postanowił czasowo przenieść główne siły floty z Orkadów na zachód. Rozkazy wydano natychmiast, a w kolejnych dniach okręty rozeszły się do nowych kotwicowisk. Najpotężniejsza flota świata, której zadaniem było trzymać w szachu niemiecką [Flotę Oceaniczną](https://pl.wikipedia.org/wiki/Hochseeflotte), opuściła swoją bazę w obawie przed niemieckimi okrętami podwodnymi.
+Po [alarmie w Scapa Flow](/alarm-w-scapa-flow) z 16 i 17 października 1914 roku admirał [John Jellicoe](/postacie/john-jellicoe), dowódca [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), postanowił czasowo przenieść główne siły floty z Orkadów na zachód. Rozkazy wydano natychmiast, a w kolejnych dniach okręty rozeszły się do nowych kotwicowisk. Najpotężniejsza flota świata, której zadaniem było trzymać w szachu niemiecką [Flotę Oceaniczną](https://pl.wikipedia.org/wiki/Hochseeflotte), opuściła swoją bazę w obawie przed niemieckimi okrętami podwodnymi.
 
 Jellicoe tłumaczył później, że skoro U-Booty potrafiły działać na północnych wodach, o czym świadczyło [zatopienie krążownika Hawke](/zatoniecie-hms-hawke), próba ataku na flotę na kotwicowisku była tylko kwestią czasu. [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) nie miała jeszcze żadnych zapór przeciw okrętom podwodnym, a pancerniki stojące na kotwicy byłyby łatwym celem. Loch Ewe na zachodnim wybrzeżu Szkocji, gdzie flota schroniła się już we wrześniu, też nie dawała bezpieczeństwa. Była zbyt głęboka, by własnymi siłami postawić tam zaporę.
 

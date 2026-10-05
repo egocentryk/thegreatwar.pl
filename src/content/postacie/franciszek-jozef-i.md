@@ -46,7 +46,7 @@ Ostatnie tygodnie panowania Franciszka Józefa przyniosły decyzje ważne dla Po
 
 ## Śmierć
 
-Cesarz od dawna chorował na przewlekły nieżyt dróg oddechowych, który na początku listopada 1916 roku przerodził się w zapalenie płuc. Mimo gorączki pracował do ostatniego dnia. [Zmarł wieczorem 21 listopada](/smierc-franciszka-jozefa) w Schönbrunnie, w wieku 86 lat. Według najczęściej powtarzanej relacji jego ostatnie słowa do kamerdynera brzmiały: „Jutro rano o wpół do czwartej”. Tron objął jego stryjeczny wnuk [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg), od pierwszych dni przekonany, że monarchia musi jak najszybciej wyjść z wojny. 30 listopada Franciszka Józefa pochowano w [krypcie kapucynów](https://pl.wikipedia.org/wiki/Krypta_Kapucyńska_w_Wiedniu) obok żony i syna. Monarchia przetrwała go niespełna dwa lata.
+Cesarz od dawna chorował na przewlekły nieżyt dróg oddechowych, który na początku listopada 1916 roku przerodził się w zapalenie płuc. Mimo gorączki pracował do ostatniego dnia. [Zmarł wieczorem 21 listopada](/smierc-franciszka-jozefa) w Schönbrunnie, w wieku 86 lat. Według najczęściej powtarzanej relacji jego ostatnie słowa do kamerdynera brzmiały: „Jutro rano o wpół do czwartej”. Tron objął jego stryjeczny wnuk [Karol I](/postacie/karol-i-habsburg), od pierwszych dni przekonany, że monarchia musi jak najszybciej wyjść z wojny. 30 listopada Franciszka Józefa pochowano w [krypcie kapucynów](https://pl.wikipedia.org/wiki/Krypta_Kapucyńska_w_Wiedniu) obok żony i syna. Monarchia przetrwała go niespełna dwa lata.
 
 ## Ocena
 

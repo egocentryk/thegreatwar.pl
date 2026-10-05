@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-26 czerwca 1917 roku [Elefterios Wenizelos](/postacie/elefterios-wenizelos) utworzył nowy rząd Grecji. Niespełna dwa lata po tym, jak [po raz drugi stracił władzę](/wenizelos-ponownie-podaje-sie-do-dymisji), i dziewięć miesięcy po tym, jak [opuścił Ateny](/wenizelos-opuszcza-ateny), by stanąć na czele rządu tymczasowego w Salonikach, wracał jako premier całego kraju. Dwa dni wcześniej, 24 czerwca, do dymisji podał się [Aleksandros Zaimis](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis). Tę kolejność dat podają brytyjska chronologia wojny i brytyjski publicysta George F. Abbott. Według amerykańskiego rocznika „New International Year Book” król przyjął dymisję Zaimisa 25 czerwca. Nowy gabinet złożył przysięgę 27 czerwca, czyli 14 czerwca według kalendarza juliańskiego, którym posługiwała się wtedy Grecja, i od tego dnia liczą go greckie wykazy rządów.
+26 czerwca 1917 roku [Elefterios Wenizelos](/postacie/elefterios-wenizelos) utworzył nowy rząd Grecji. Niespełna dwa lata po tym, jak [po raz drugi stracił władzę](/wenizelos-ponownie-podaje-sie-do-dymisji), i dziewięć miesięcy po tym, jak [opuścił Ateny](/wenizelos-opuszcza-ateny), by stanąć na czele rządu tymczasowego w Salonikach, wracał jako premier całego kraju. Dwa dni wcześniej, 24 czerwca, do dymisji podał się [Aleksandros Zaimis](/postacie/aleksandros-zaimis). Tę kolejność dat podają brytyjska chronologia wojny i brytyjski publicysta George F. Abbott. Według amerykańskiego rocznika „New International Year Book” król przyjął dymisję Zaimisa 25 czerwca. Nowy gabinet złożył przysięgę 27 czerwca, czyli 14 czerwca według kalendarza juliańskiego, którym posługiwała się wtedy Grecja, i od tego dnia liczą go greckie wykazy rządów.
 
 ## Okres przejściowy
 

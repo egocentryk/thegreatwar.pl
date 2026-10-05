@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-16 maja 1915 roku król [Wiktor Emanuel III](https://pl.wikipedia.org/wiki/Wiktor_Emanuel_III) odrzucił dymisję, którą [trzy dni wcześniej](/dymisja-rzadu-salandry) złożył rząd [Antonia Salandry](/postacie/antonio-salandra). Premier i minister spraw zagranicznych Sidney Sonnino pozostali na stanowiskach. Tym samym upadła ostatnia szansa neutralistów na powstrzymanie Włoch przed wojną.
+16 maja 1915 roku król [Wiktor Emanuel III](/postacie/wiktor-emanuel-iii) odrzucił dymisję, którą [trzy dni wcześniej](/dymisja-rzadu-salandry) złożył rząd [Antonia Salandry](/postacie/antonio-salandra). Premier i minister spraw zagranicznych Sidney Sonnino pozostali na stanowiskach. Tym samym upadła ostatnia szansa neutralistów na powstrzymanie Włoch przed wojną.
 
 Przez trzy dni król szukał innego szefa rządu. Najpierw zwrócił się do [Giovanniego Giolittiego](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), za którym stała większość posłów. Giolitti odmówił. Wiedział już, że Salandra i Sonnino podpisali układ z Ententą za zgodą króla, i nie chciał brać na siebie zerwania zobowiązań, które wiązały monarchę, ani dzielić kraju w chwili, gdy na ulicach wrzało. Nie skorzystali z okazji także inni politycy, do których zwrócił się król: przewodniczący Izby Deputowanych Giuseppe Marcora, minister skarbu Paolo Carcano i Paolo Boselli. Wszyscy trzej byli zwolennikami wojny i wszyscy radzili, by misję powierzyć ponownie Salandrze.
 

@@ -26,7 +26,7 @@ Rząd [Marghilomana](/dymisja-marghilomana) wysłał żołnierzy straży granicz
 
 Kongres Generalny obradował w sali synodalnej rezydencji metropolitów w Czerniowcach. Liczył około stu delegatów, w większości Rumunów. Za unią głosowali także przedstawiciele Niemców bukowińskich oraz sześciu przedstawicieli tutejszych Polaków. Większość reprezentantów Ukraińców i Żydów odmówiła udziału w obradach, które uważali za niereprezentatywne. Na sali byli goście z Besarabii, m.in. Pantelimon Halippa, a także z Siedmiogrodu.
 
-Kongres wysłał depeszę hołdowniczą do króla [Ferdynanda I](https://pl.wikipedia.org/wiki/Ferdynand_I_Rumuński) z prośbą, by przyjął Bukowinę pod swoje berło, oraz telegramy do rządów Francji, Wielkiej Brytanii, Stanów Zjednoczonych i Włoch. Po zamknięciu obrad pochód przeszedł pod ratusz, gdzie Flondor ogłosił mieszkańcom przyłączenie kraju do Rumunii. Burmistrz zapowiedział, że plac przed ratuszem będzie odtąd nosił nazwę placu Zjednoczenia.
+Kongres wysłał depeszę hołdowniczą do króla [Ferdynanda I](/postacie/ferdynand-i-rumunski) z prośbą, by przyjął Bukowinę pod swoje berło, oraz telegramy do rządów Francji, Wielkiej Brytanii, Stanów Zjednoczonych i Włoch. Po zamknięciu obrad pochód przeszedł pod ratusz, gdzie Flondor ogłosił mieszkańcom przyłączenie kraju do Rumunii. Burmistrz zapowiedział, że plac przed ratuszem będzie odtąd nosił nazwę placu Zjednoczenia.
 
 ## Co dalej
 

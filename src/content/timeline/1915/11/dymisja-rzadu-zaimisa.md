@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 5 listopada 1915 roku dymisję greckiego premiera [Aleksandrosa Zaimisa](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis). Rozstrzygnęło się jednak o niej dobę wcześniej. Według greckich sprawozdań parlamentarnych i relacji prasy amerykańskiej izba deputowanych głosowała nad ranem 4 listopada, czyli 22 października według kalendarza juliańskiego, którego Grecja wtedy używała, a premier ogłosił ustąpienie gabinetu zaraz po ogłoszeniu wyniku. Rząd, który [powstał na początku października](/aleksandros-zaimis-premierem-grecji) po drugiej dymisji [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos), przetrwał niespełna miesiąc.
+Brytyjska chronologia wojny odnotowuje pod 5 listopada 1915 roku dymisję greckiego premiera [Aleksandrosa Zaimisa](/postacie/aleksandros-zaimis). Rozstrzygnęło się jednak o niej dobę wcześniej. Według greckich sprawozdań parlamentarnych i relacji prasy amerykańskiej izba deputowanych głosowała nad ranem 4 listopada, czyli 22 października według kalendarza juliańskiego, którego Grecja wtedy używała, a premier ogłosił ustąpienie gabinetu zaraz po ogłoszeniu wyniku. Rząd, który [powstał na początku października](/aleksandros-zaimis-premierem-grecji) po drugiej dymisji [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos), przetrwał niespełna miesiąc.
 
 ## Incydent z ministrem wojny
 

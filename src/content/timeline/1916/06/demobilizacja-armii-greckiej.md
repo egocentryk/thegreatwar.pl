@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 27 czerwca 1916 roku, czyli 14 czerwca według kalendarza juliańskiego, którym posługiwała się Grecja, że rząd grecki zarządził powszechną [demobilizację](https://pl.wikipedia.org/wiki/Demobilizacja) armii. Tę samą datę podaje nowojorski miesięcznik „Current History”. Był to pierwszy i najważniejszy punkt [noty, którą 21 czerwca](/ultimatum-ententy-wobec-grecji) wręczyli w Atenach posłowie Francji, Wielkiej Brytanii i Rosji. Mocarstwa zażądały w niej „rzeczywistej i całkowitej demobilizacji” i postawienia wojska jak najszybciej na stopie pokojowej. Nowy premier [Aleksandros Zaimis](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis) przyjął wszystkie warunki i teraz zaczął je wypełniać.
+Brytyjska chronologia wojny notuje pod 27 czerwca 1916 roku, czyli 14 czerwca według kalendarza juliańskiego, którym posługiwała się Grecja, że rząd grecki zarządził powszechną [demobilizację](https://pl.wikipedia.org/wiki/Demobilizacja) armii. Tę samą datę podaje nowojorski miesięcznik „Current History”. Był to pierwszy i najważniejszy punkt [noty, którą 21 czerwca](/ultimatum-ententy-wobec-grecji) wręczyli w Atenach posłowie Francji, Wielkiej Brytanii i Rosji. Mocarstwa zażądały w niej „rzeczywistej i całkowitej demobilizacji” i postawienia wojska jak najszybciej na stopie pokojowej. Nowy premier [Aleksandros Zaimis](/postacie/aleksandros-zaimis) przyjął wszystkie warunki i teraz zaczął je wypełniać.
 
 ## Armia pod bronią od września
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-18 listopada 1917 roku o 18.25 zmarł w [Bagdadzie](https://pl.wikipedia.org/wiki/Bagdad) generał porucznik sir [Frederick Stanley Maude](https://pl.wikipedia.org/wiki/Frederick_Stanley_Maude), naczelny dowódca wojsk brytyjskich w Mezopotamii. Miał 53 lata. Zabiła go [cholera](https://pl.wikipedia.org/wiki/Cholera) po zaledwie dwóch dniach choroby. Niespełna dwa tygodnie wcześniej jego wojska odniosły kolejne zwycięstwo [pod Tikritem](/bitwy/bitwa-pod-tikritem). Brytyjska historia oficjalna kampanii pisze, że jego nazwisko stało się tak dalece synonimem sukcesu, iż jego śmierć uznano w całym imperium za nieszczęście narodowe.
+18 listopada 1917 roku o 18.25 zmarł w [Bagdadzie](https://pl.wikipedia.org/wiki/Bagdad) generał porucznik sir [Frederick Stanley Maude](/postacie/frederick-maude), naczelny dowódca wojsk brytyjskich w Mezopotamii. Miał 53 lata. Zabiła go [cholera](https://pl.wikipedia.org/wiki/Cholera) po zaledwie dwóch dniach choroby. Niespełna dwa tygodnie wcześniej jego wojska odniosły kolejne zwycięstwo [pod Tikritem](/bitwy/bitwa-pod-tikritem). Brytyjska historia oficjalna kampanii pisze, że jego nazwisko stało się tak dalece synonimem sukcesu, iż jego śmierć uznano w całym imperium za nieszczęście narodowe.
 
 ## Kawa z mlekiem
 

@@ -29,7 +29,7 @@ W tym czasie Stralsund stawiał miny. Około 7.40 niemieckie okręty oddały kil
 
 Z portu w Yarmouth wyszły w pościg trzy brytyjskie okręty podwodne: E10, D3 i [D5](https://pl.wikipedia.org/wiki/HMS_D5). Żaden nie zdołał zaatakować. D5 wszedł na minę i zatonął. Uratowano tylko czterech lub pięciu ludzi, w tym dowódcę, komandora podporucznika Godfreya Herberta, a zginęło około 20 marynarzy. Najczęściej przyjmuje się, że była to mina z zagrody postawionej właśnie przez Stralsund, choć według części źródeł okręt trafił na dryfującą minę brytyjską. Na polu minowym Stralsunda zatonęło jeszcze tego samego dnia kilka łodzi rybackich.
 
-Brytyjczycy zareagowali z opóźnieniem. Admiralicja początkowo sądziła, że wypad ma odwrócić uwagę od innego, poważniejszego uderzenia, i dopiero później wysłała na przechwycenie krążowniki liniowe wiceadmirała [Davida Beatty'ego](https://pl.wikipedia.org/wiki/David_Beatty). Niemcy byli już wtedy daleko. Sam wypad szybko zszedł w Wielkiej Brytanii na dalszy plan, bo niemal w tym samym czasie nadeszły wiadomości o klęsce brytyjskiej eskadry w [bitwie pod Coronelem](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem).
+Brytyjczycy zareagowali z opóźnieniem. Admiralicja początkowo sądziła, że wypad ma odwrócić uwagę od innego, poważniejszego uderzenia, i dopiero później wysłała na przechwycenie krążowniki liniowe wiceadmirała [Davida Beatty'ego](/postacie/david-beatty). Niemcy byli już wtedy daleko. Sam wypad szybko zszedł w Wielkiej Brytanii na dalszy plan, bo niemal w tym samym czasie nadeszły wiadomości o klęsce brytyjskiej eskadry w [bitwie pod Coronelem](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem).
 
 ## Pyrrusowy sukces
 

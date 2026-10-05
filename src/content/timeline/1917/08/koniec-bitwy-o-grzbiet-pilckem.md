@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1917 roku, trzeci dzień z rzędu, nad łukiem [Ypres](https://pl.wikipedia.org/wiki/Ieper) padał deszcz. Pierwsze wielkie natarcie [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), które 31 lipca [dało Brytyjczykom i Francuzom grzbiet Pilckem](/poczatek-trzeciej-bitwy-pod-ypres), zamieniło się w walkę z błotem. Obie strony próbowały jeszcze poprawić swoje pozycje: po południu brytyjska artyleria rozbiła dwa niemieckie ataki pod redutą Pommern, a na północ od Ypres Brytyjczycy znów zajęli ruiny Sint-Juliaan (St. Julien) i przerzucili posterunki przez strumień Steenbeek. Tego samego dnia dowódca 5 Armii, generał [Hubert Gough](https://pl.wikipedia.org/wiki/Hubert_Gough), odłożył wznowienie ofensywy. Brytyjska komisja do spraw nazewnictwa bitew uznała później 2 sierpnia za ostatni dzień bitwy o grzbiet Pilckem.
+2 sierpnia 1917 roku, trzeci dzień z rzędu, nad łukiem [Ypres](https://pl.wikipedia.org/wiki/Ieper) padał deszcz. Pierwsze wielkie natarcie [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), które 31 lipca [dało Brytyjczykom i Francuzom grzbiet Pilckem](/poczatek-trzeciej-bitwy-pod-ypres), zamieniło się w walkę z błotem. Obie strony próbowały jeszcze poprawić swoje pozycje: po południu brytyjska artyleria rozbiła dwa niemieckie ataki pod redutą Pommern, a na północ od Ypres Brytyjczycy znów zajęli ruiny Sint-Juliaan (St. Julien) i przerzucili posterunki przez strumień Steenbeek. Tego samego dnia dowódca 5 Armii, generał [Hubert Gough](/postacie/hubert-gough), odłożył wznowienie ofensywy. Brytyjska komisja do spraw nazewnictwa bitew uznała później 2 sierpnia za ostatni dzień bitwy o grzbiet Pilckem.
 
 ## Deszcz i błoto
 

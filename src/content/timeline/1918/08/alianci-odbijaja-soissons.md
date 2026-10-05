@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1918 roku Niemcy opuścili [Soissons](https://pl.wikipedia.org/wiki/Soissons), a do zniszczonego miasta weszli Francuzi z 10 Armii generała [Charles'a Mangina](https://pl.wikipedia.org/wiki/Charles_Mangin). Druga niemiecka okupacja miasta, które [wpadło w ręce Niemców 29 maja](/niemcy-ponownie-zajmuja-soissons), trwała nieco ponad dwa miesiące. Tego dnia skończyły się też walki, które brytyjska komisja do spraw nazewnictwa bitew nazwała bitwą w Soissonnais i nad Ourcq: od 23 lipca szkocka 15 Dywizja i 34 Dywizja walczyły w armii Mangina na płaskowyżach na południe od miasta, gdzie Niemcy przez dwa tygodnie trzymali zachodnie skrzydło swojego występu nad Marną.
+2 sierpnia 1918 roku Niemcy opuścili [Soissons](https://pl.wikipedia.org/wiki/Soissons), a do zniszczonego miasta weszli Francuzi z 10 Armii generała [Charles'a Mangina](/postacie/charles-mangin). Druga niemiecka okupacja miasta, które [wpadło w ręce Niemców 29 maja](/niemcy-ponownie-zajmuja-soissons), trwała nieco ponad dwa miesiące. Tego dnia skończyły się też walki, które brytyjska komisja do spraw nazewnictwa bitew nazwała bitwą w Soissonnais i nad Ourcq: od 23 lipca szkocka 15 Dywizja i 34 Dywizja walczyły w armii Mangina na płaskowyżach na południe od miasta, gdzie Niemcy przez dwa tygodnie trzymali zachodnie skrzydło swojego występu nad Marną.
 
 ## Odwrót za Vesle i Aisne
 

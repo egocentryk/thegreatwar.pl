@@ -16,7 +16,7 @@ Na początku lipca 1916 roku [David Lloyd George](/postacie/david-lloyd-george),
 
 Po śmierci Kitchenera Ministerstwem Wojny tymczasowo kierował premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith). Lloyd George był wtedy zajęty inną sprawą. Pod koniec maja premier powierzył mu poszukiwanie ugody w sprawie Irlandii po stłumieniu [powstania wielkanocnego](https://pl.wikipedia.org/wiki/Powstanie_wielkanocne), i przez cały czerwiec prowadził on trudne rozmowy z przywódcami irlandzkich nacjonalistów i unionistów z Ulsteru.
 
-O schedę po Kitchenerze mógł się ubiegać także przywódca konserwatystów [Andrew Bonar Law](https://pl.wikipedia.org/wiki/Andrew_Bonar_Law). Według relacji urodzonego w Kanadzie posła i przyszłego magnata prasowego [Maxa Aitkena](https://pl.wikipedia.org/wiki/Max_Aitken_(1._baron_Beaverbrook)), późniejszego lorda Beaverbrooka, to właśnie Bonar Law po rozmowie z Lloydem George'em poparł u premiera jego kandydaturę. Sam Lloyd George długo się wahał. Ministerstwo Wojny nie było już bowiem tym samym urzędem, który w 1914 roku objął Kitchener.
+O schedę po Kitchenerze mógł się ubiegać także przywódca konserwatystów [Andrew Bonar Law](/postacie/andrew-bonar-law). Według relacji urodzonego w Kanadzie posła i przyszłego magnata prasowego [Maxa Aitkena](https://pl.wikipedia.org/wiki/Max_Aitken_(1._baron_Beaverbrook)), późniejszego lorda Beaverbrooka, to właśnie Bonar Law po rozmowie z Lloydem George'em poparł u premiera jego kandydaturę. Sam Lloyd George długo się wahał. Ministerstwo Wojny nie było już bowiem tym samym urzędem, który w 1914 roku objął Kitchener.
 
 ## Minister bez władzy nad strategią
 

@@ -16,7 +16,7 @@ draft: false
 
 ## Przełamanie
 
-Walki pod Tarnawką, Giełczewem i Zakrzewem [rozgorzały 7 września](/poczatek-bitwy-pod-tarnawka). Rosyjska 4 Armia generała [Aleksieja Ewerta](https://pl.wikipedia.org/wiki/Aleksiej_Ewert), wzmocniona elitarnym Korpusem Gwardii i Korpusem Grenadierów, nacierała na austro-węgierski V Korpus i wspierającą go niemiecką 4 Dywizję Landwehry. Według rosyjskich opracowań 8 września pułki Gwardii przełamały obronę w rejonie Tarnawki. Kolejnego dnia armia Dankla, która jeszcze dwa tygodnie wcześniej zwyciężała pod Kraśnikiem, nie była już w stanie utrzymać pozycji.
+Walki pod Tarnawką, Giełczewem i Zakrzewem [rozgorzały 7 września](/poczatek-bitwy-pod-tarnawka). Rosyjska 4 Armia generała [Aleksieja Ewerta](/postacie/aleksiej-ewert), wzmocniona elitarnym Korpusem Gwardii i Korpusem Grenadierów, nacierała na austro-węgierski V Korpus i wspierającą go niemiecką 4 Dywizję Landwehry. Według rosyjskich opracowań 8 września pułki Gwardii przełamały obronę w rejonie Tarnawki. Kolejnego dnia armia Dankla, która jeszcze dwa tygodnie wcześniej zwyciężała pod Kraśnikiem, nie była już w stanie utrzymać pozycji.
 
 Położenie Dankla pogarszało się także na prawym skrzydle. Między jego armią a austro-węgierską 4 Armią, walczącą daleko na południowym wschodzie, pod Rawą Ruską, zionęła szeroka luka, w którą wchodziła rosyjska 5 Armia. Groziło to odcięciem 1 Armii od reszty wojsk.
 

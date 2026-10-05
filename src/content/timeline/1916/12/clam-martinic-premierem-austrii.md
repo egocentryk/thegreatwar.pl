@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Tydzień po [dymisji Ernesta von Körbera](/dymisja-korbera) Austria miała nowy rząd. 20 grudnia 1916 roku cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) mianował premierem austriackiej połowy monarchii hrabiego Heinricha Clam-Martinica, dotychczasowego ministra rolnictwa, i tego dnia zaprzysiężono nowy rząd. Tak podaje edycja protokołów austriackiej Rady Ministrów, przygotowana przez Austriacką Akademię Nauk. Tego samego dnia cesarz formalnie zwolnił ministrów Körbera. Brytyjska kronika wojny podaje datę 21 grudnia, a urzędowa „[Wiener Zeitung](https://pl.wikipedia.org/wiki/Wiener_Zeitung)” ogłosiła nominacje 22 grudnia. Był to pierwszy gabinet powołany przez nowego cesarza, a zarazem trzeci rząd Austrii w czasie wojny.
+Tydzień po [dymisji Ernesta von Körbera](/dymisja-korbera) Austria miała nowy rząd. 20 grudnia 1916 roku cesarz [Karol I](/postacie/karol-i-habsburg) mianował premierem austriackiej połowy monarchii hrabiego Heinricha Clam-Martinica, dotychczasowego ministra rolnictwa, i tego dnia zaprzysiężono nowy rząd. Tak podaje edycja protokołów austriackiej Rady Ministrów, przygotowana przez Austriacką Akademię Nauk. Tego samego dnia cesarz formalnie zwolnił ministrów Körbera. Brytyjska kronika wojny podaje datę 21 grudnia, a urzędowa „[Wiener Zeitung](https://pl.wikipedia.org/wiki/Wiener_Zeitung)” ogłosiła nominacje 22 grudnia. Był to pierwszy gabinet powołany przez nowego cesarza, a zarazem trzeci rząd Austrii w czasie wojny.
 
 ## Arystokrata z Czech
 

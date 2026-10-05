@@ -15,7 +15,7 @@ draft: false
 
 ## Biała flaga
 
-Załoga liczyła około 3,5 tysiąca żołnierzy, głównie ze 164 pułku piechoty, uzupełnionych m.in. o artylerzystów, saperów i oddział celników. Dowodził nią podpułkownik Constant Darche. Przestarzałe mury z czasów [Vaubana](https://pl.wikipedia.org/wiki/Sébastien_Le_Prestre_de_Vauban) nie mogły się oprzeć nowoczesnej artylerii, a po klęsce Francuzów w bitwie w Ardenach nie było już nadziei na odsiecz. Armia niemieckiego następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)) maszerowała dalej, w stronę Mozy i Verdun.
+Załoga liczyła około 3,5 tysiąca żołnierzy, głównie ze 164 pułku piechoty, uzupełnionych m.in. o artylerzystów, saperów i oddział celników. Dowodził nią podpułkownik Constant Darche. Przestarzałe mury z czasów [Vaubana](https://pl.wikipedia.org/wiki/Sébastien_Le_Prestre_de_Vauban) nie mogły się oprzeć nowoczesnej artylerii, a po klęsce Francuzów w bitwie w Ardenach nie było już nadziei na odsiecz. Armia niemieckiego następcy tronu [Wilhelma](/postacie/wilhelm-nastepca-tronu) maszerowała dalej, w stronę Mozy i Verdun.
 
 Według francuskich relacji 26 sierpnia około 10.30 nad twierdzą wywieszono białą flagę. Niemcy żądali kapitulacji bezwarunkowej, ale Darche wystąpił o honory wojskowe dla swoich żołnierzy. Ostatecznie ustalono, że oddziały opuszczą twierdzę po południu i złożą broń dopiero przy wyjściu. Według tych samych źródeł ponad połowa załogi była już wtedy zabita lub ranna. Obrońcy poszli do niewoli.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 27 listopada 1916 roku z baz nad Morzem Północnym wystartowało dziesięć sterowców niemieckiej marynarki. Był to ostatni wielki nalot sterowców w tym roku. Po stratach z września i października, gdy obrona Londynu zestrzeliła [L 32 i L 33](/nalot-sterowcow-i-zestrzelenie-l-32-i-l-33), a potem [L 31 Heinricha Mathy'ego](/zestrzelenie-sterowca-l-31), dowódca sterowców marynarki [Peter Strasser](https://pl.wikipedia.org/wiki/Peter_Strasser) skierował je tym razem z dala od silnie bronionego południa, na przemysłowe okręgi [Yorkshire](https://pl.wikipedia.org/wiki/Yorkshire), Midlands i rejon rzeki Tyne. Ostrożność nie pomogła. Według brytyjskiej historii oficjalnej wojny powietrznej, *The War in the Air* H. A. Jonesa, ta noc pokazała, że obrona także poza Londynem „miała już miarę zeppelina”. Niemcy stracili dwa sterowce z całymi załogami.
+Po południu 27 listopada 1916 roku z baz nad Morzem Północnym wystartowało dziesięć sterowców niemieckiej marynarki. Był to ostatni wielki nalot sterowców w tym roku. Po stratach z września i października, gdy obrona Londynu zestrzeliła [L 32 i L 33](/nalot-sterowcow-i-zestrzelenie-l-32-i-l-33), a potem [L 31 Heinricha Mathy'ego](/zestrzelenie-sterowca-l-31), dowódca sterowców marynarki [Peter Strasser](/postacie/peter-strasser) skierował je tym razem z dala od silnie bronionego południa, na przemysłowe okręgi [Yorkshire](https://pl.wikipedia.org/wiki/Yorkshire), Midlands i rejon rzeki Tyne. Ostrożność nie pomogła. Według brytyjskiej historii oficjalnej wojny powietrznej, *The War in the Air* H. A. Jonesa, ta noc pokazała, że obrona także poza Londynem „miała już miarę zeppelina”. Niemcy stracili dwa sterowce z całymi załogami.
 
 ## L 34 nad Hartlepool
 

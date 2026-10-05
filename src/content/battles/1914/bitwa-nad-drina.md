@@ -27,7 +27,7 @@ milestone: false
 
 Po [bitwie na górze Cer](/bitwy/bitwa-na-gorze-cer) w sierpniu 1914 roku wojska austro-węgierskie wycofały się z Serbii. Dowódca sił bałkańskich, generał [Oskar Potiorek](/postacie/oskar-potiorek), namiestnik Bośni i Hercegowiny, chciał jak najszybciej zmazać tę porażkę. Jego zadanie stało się trudniejsze, bo 2 Armię, która w sierpniu nacierała od północy, przerzucono do Galicji przeciw Rosjanom. Potiorek dysponował już tylko dwiema armiami: 5 Armią generała [Liboriusa von Franka](https://pl.wikipedia.org/wiki/Liborius_von_Frank) na dolnej Drinie i 6 Armią, którą dowodził osobiście, na środkowym biegu rzeki.
 
-Serbowie tymczasem, pod naciskiem Rosji i Francji, przeszli do natarcia. 6 września 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) przekroczyła Sawę i weszła do austro-węgierskiego [Sremu](https://pl.wikipedia.org/wiki/Srem). Potiorek postanowił uderzyć przez Drinę w odsłonięte zachodnie skrzydło Serbii. Liczył, że zagrożenie serca kraju zmusi przeciwnika do porzucenia ofensywy na północy.
+Serbowie tymczasem, pod naciskiem Rosji i Francji, przeszli do natarcia. 6 września 1 Armia generała [Petara Bojovicia](/postacie/petar-bojovic) przekroczyła Sawę i weszła do austro-węgierskiego [Sremu](https://pl.wikipedia.org/wiki/Srem). Potiorek postanowił uderzyć przez Drinę w odsłonięte zachodnie skrzydło Serbii. Liczył, że zagrożenie serca kraju zmusi przeciwnika do porzucenia ofensywy na północy.
 
 ## Przeprawy
 

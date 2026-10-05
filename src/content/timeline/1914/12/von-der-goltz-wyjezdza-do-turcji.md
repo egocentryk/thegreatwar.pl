@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 grudnia 1914 roku, według brytyjskiej chronologii wojny, niemiecki feldmarszałek [Colmar von der Goltz](https://pl.wikipedia.org/wiki/Colmar_von_der_Goltz) wyjechał z Niemiec do [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol). Brytyjczycy pisali, że jedzie objąć kierownictwo nad armią turecką. W rzeczywistości jego rola była skromniejsza i mniej jasno określona. Goltz został adiutantem generalnym sułtana [Mehmeda V](https://pl.wikipedia.org/wiki/Mehmed_V), czyli jego doradcą wojskowym. Według wspomnień generała Ottona Limana von Sandersa przybył do Konstantynopola 12 grudnia. Część źródeł podaje 11 grudnia jako datę objęcia nowej funkcji.
+10 grudnia 1914 roku, według brytyjskiej chronologii wojny, niemiecki feldmarszałek [Colmar von der Goltz](/postacie/colmar-von-der-goltz) wyjechał z Niemiec do [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol). Brytyjczycy pisali, że jedzie objąć kierownictwo nad armią turecką. W rzeczywistości jego rola była skromniejsza i mniej jasno określona. Goltz został adiutantem generalnym sułtana [Mehmeda V](https://pl.wikipedia.org/wiki/Mehmed_V), czyli jego doradcą wojskowym. Według wspomnień generała Ottona Limana von Sandersa przybył do Konstantynopola 12 grudnia. Część źródeł podaje 11 grudnia jako datę objęcia nowej funkcji.
 
 ## Goltz Pasza
 

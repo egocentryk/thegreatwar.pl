@@ -22,7 +22,7 @@ Bitwa w [Ardenach](https://pl.wikipedia.org/wiki/Ardeny), stoczona w dniach 21�
 
 Naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) sądził, że Niemcy skierowali główne siły przez północną Belgię i że ich centrum w Ardenach jest słabe. Postanowił uderzyć właśnie tam, przez zalesione, pagórkowate tereny belgijskiej prowincji Luksemburg, by rozciąć niemiecki front. Do natarcia ruszyły 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary).
 
-Założenie było błędne. W Ardenach znajdowały się dwie silne armie niemieckie: 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armia następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)). Francuzi mieli słabe rozpoznanie, brakowało im dokładnych map, a gęste lasy i poranne mgły ograniczały widoczność.
+Założenie było błędne. W Ardenach znajdowały się dwie silne armie niemieckie: 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armia następcy tronu [Wilhelma](/postacie/wilhelm-nastepca-tronu). Francuzi mieli słabe rozpoznanie, brakowało im dokładnych map, a gęste lasy i poranne mgły ograniczały widoczność.
 
 ## Czarny dzień 22 sierpnia
 

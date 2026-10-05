@@ -21,9 +21,9 @@ Marsz był ciężki. Według Moberly'ego głęboki śnieg i drogi zniszczone prz
 
 ## W dniu upadku Bagdadu
 
-Tego samego dnia, 11 marca, [Brytyjczycy weszli do Bagdadu](/brytyjczycy-zajmuja-bagdad). Dowódca osmańskiej 6 Armii Halil Pasza ([Halil Kut](https://pl.wikipedia.org/wiki/Halil_Kut)) liczył, że zdąży połączyć się z korpusem wracającym z Persji, ale ten był jeszcze daleko w górach. Teraz XIII Korpus musiał się przebijać do Chanakinu, a stamtąd na północ, zanim zamkną go z dwóch stron Rosjanie i Brytyjczycy. Allen i Muratow zauważają, że ani Turcy, ani Rosjanie idący z Persji nie zdążyli na bitwę o Bagdad.
+Tego samego dnia, 11 marca, [Brytyjczycy weszli do Bagdadu](/brytyjczycy-zajmuja-bagdad). Dowódca osmańskiej 6 Armii Halil Pasza ([Halil Kut](/postacie/halil-kut)) liczył, że zdąży połączyć się z korpusem wracającym z Persji, ale ten był jeszcze daleko w górach. Teraz XIII Korpus musiał się przebijać do Chanakinu, a stamtąd na północ, zanim zamkną go z dwóch stron Rosjanie i Brytyjczycy. Allen i Muratow zauważają, że ani Turcy, ani Rosjanie idący z Persji nie zdążyli na bitwę o Bagdad.
 
-W Londynie liczono na ścisłe współdziałanie obu sojuszników. 9 marca szef brytyjskiego Imperialnego Sztabu Generalnego zawiadomił generała [Fredericka Stanleya Maude'a](https://pl.wikipedia.org/wiki/Frederick_Stanley_Maude), że Baratow dostał rozkaz parcia na [Chanakin](https://pl.wikipedia.org/wiki/Chanakin), by nawiązać łączność z Brytyjczykami. Sam szef sztabu przewidywał jednak, że Rosjanie dojdą tam dopiero pod koniec miesiąca i że turecka 6 Dywizja zdąży im się wymknąć. Maude mógł co najwyżej próbować odciąć część 2 Dywizji.
+W Londynie liczono na ścisłe współdziałanie obu sojuszników. 9 marca szef brytyjskiego Imperialnego Sztabu Generalnego zawiadomił generała [Fredericka Stanleya Maude'a](/postacie/frederick-maude), że Baratow dostał rozkaz parcia na [Chanakin](https://pl.wikipedia.org/wiki/Chanakin), by nawiązać łączność z Brytyjczykami. Sam szef sztabu przewidywał jednak, że Rosjanie dojdą tam dopiero pod koniec miesiąca i że turecka 6 Dywizja zdąży im się wymknąć. Maude mógł co najwyżej próbować odciąć część 2 Dywizji.
 
 ## Wieści z Piotrogrodu
 

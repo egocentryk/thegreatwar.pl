@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-13 maja 1915 roku premier Włoch [Antonio Salandra](/postacie/antonio-salandra) złożył na ręce króla [Wiktora Emanuela III](https://pl.wikipedia.org/wiki/Wiktor_Emanuel_III) dymisję swojego rządu. Wraz z nim do dymisji podał się minister spraw zagranicznych [Sidney Sonnino](/postacie/sidney-sonnino), który razem z premierem prowadził Włochy ku wojnie. Brytyjska chronologia wojny odnotowuje oba te kroki osobno, ale była to jedna decyzja: gabinet ustąpił w całości. Kryzys wybuchł w chwili, gdy kraj był już tajnie związany z Ententą, a [trójprzymierze zostało wypowiedziane](/wlochy-wypowiadaja-trojprzymierze).
+13 maja 1915 roku premier Włoch [Antonio Salandra](/postacie/antonio-salandra) złożył na ręce króla [Wiktora Emanuela III](/postacie/wiktor-emanuel-iii) dymisję swojego rządu. Wraz z nim do dymisji podał się minister spraw zagranicznych [Sidney Sonnino](/postacie/sidney-sonnino), który razem z premierem prowadził Włochy ku wojnie. Brytyjska chronologia wojny odnotowuje oba te kroki osobno, ale była to jedna decyzja: gabinet ustąpił w całości. Kryzys wybuchł w chwili, gdy kraj był już tajnie związany z Ententą, a [trójprzymierze zostało wypowiedziane](/wlochy-wypowiadaja-trojprzymierze).
 
 ## Powrót Giolittiego
 

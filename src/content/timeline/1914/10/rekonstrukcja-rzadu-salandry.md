@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Pod koniec października 1914 roku we Włoszech wybuchł kryzys rządowy. 30 października do dymisji podał się minister skarbu Giulio Rubini, a następnego dnia, 31 października, premier [Antonio Salandra](/postacie/antonio-salandra) złożył na ręce króla [Wiktora Emanuela III](https://pl.wikipedia.org/wiki/Wiktor_Emanuel_III) dymisję całego gabinetu. Brytyjska chronologia wojny odnotowuje upadek rządu pod datą 30 października. Nie był to jednak koniec Salandry, lecz sposób na przebudowę rządu.
+Pod koniec października 1914 roku we Włoszech wybuchł kryzys rządowy. 30 października do dymisji podał się minister skarbu Giulio Rubini, a następnego dnia, 31 października, premier [Antonio Salandra](/postacie/antonio-salandra) złożył na ręce króla [Wiktora Emanuela III](/postacie/wiktor-emanuel-iii) dymisję całego gabinetu. Brytyjska chronologia wojny odnotowuje upadek rządu pod datą 30 października. Nie był to jednak koniec Salandry, lecz sposób na przebudowę rządu.
 
 ## Pieniądze na armię
 

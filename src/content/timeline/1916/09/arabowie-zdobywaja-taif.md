@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 września 1916 roku turecki garnizon [At-Ta'ifu](https://pl.wikipedia.org/wiki/At-Ta’if), górskiego miasta na południowy wschód od Mekki, poddał się bezwarunkowo wojskom emira [Abd Allaha](https://pl.wikipedia.org/wiki/Abd_Allah_I_ibn_Husajn), drugiego syna szarifa Mekki [Husajna ibn Alego](https://pl.wikipedia.org/wiki/Husajn_Ibn_Ali). Do niewoli trafił turecki gubernator generalny [Hidżazu](https://pl.wikipedia.org/wiki/Hidżaz), Ghalib Pasza. Tak datują kapitulację brytyjska historia oficjalna kampanii w Egipcie i Palestynie (MacMunn i Falls) oraz turecki historyk Mustafa Bostancı. Libański historyk George Antonius oraz autor historii Mekki Ahmad as-Sibai podają 21 września. Szarif ogłosił zwycięstwo komunikatem, który agencja Reutera rozesłała z Kairu dopiero kilka dni później.
+22 września 1916 roku turecki garnizon [At-Ta'ifu](https://pl.wikipedia.org/wiki/At-Ta’if), górskiego miasta na południowy wschód od Mekki, poddał się bezwarunkowo wojskom emira [Abd Allaha](https://pl.wikipedia.org/wiki/Abd_Allah_I_ibn_Husajn), drugiego syna szarifa Mekki [Husajna ibn Alego](/postacie/husajn-ibn-ali). Do niewoli trafił turecki gubernator generalny [Hidżazu](https://pl.wikipedia.org/wiki/Hidżaz), Ghalib Pasza. Tak datują kapitulację brytyjska historia oficjalna kampanii w Egipcie i Palestynie (MacMunn i Falls) oraz turecki historyk Mustafa Bostancı. Libański historyk George Antonius oraz autor historii Mekki Ahmad as-Sibai podają 21 września. Szarif ogłosił zwycięstwo komunikatem, który agencja Reutera rozesłała z Kairu dopiero kilka dni później.
 
 ## Letnia stolica gubernatora
 

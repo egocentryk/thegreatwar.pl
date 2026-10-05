@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 20 września 1916 roku, że albański rząd [Esada Paszy Toptaniego](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani) ustanowił swoją siedzibę w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki), gdzie stacjonowały wojska Ententy. Esad nie był wtedy w mieście nowym gościem. Dokumenty, które ogłosił potem generał [Maurice Sarrail](/postacie/maurice-sarrail), naczelny dowódca wojsk sprzymierzonych na froncie salonickim, pokazują, że Francuzi przywieźli go tam okrętem już pod koniec sierpnia. Formalnego aktu z 20 września nie udało się w źródłach odnaleźć. Pewne jest, że we wrześniu w Salonikach działał już jego dwór, który nazywał siebie rządem Albanii.
+Brytyjska chronologia wojny notuje pod 20 września 1916 roku, że albański rząd [Esada Paszy Toptaniego](/postacie/esad-pasza-toptani) ustanowił swoją siedzibę w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki), gdzie stacjonowały wojska Ententy. Esad nie był wtedy w mieście nowym gościem. Dokumenty, które ogłosił potem generał [Maurice Sarrail](/postacie/maurice-sarrail), naczelny dowódca wojsk sprzymierzonych na froncie salonickim, pokazują, że Francuzi przywieźli go tam okrętem już pod koniec sierpnia. Formalnego aktu z 20 września nie udało się w źródłach odnaleźć. Pewne jest, że we wrześniu w Salonikach działał już jego dwór, który nazywał siebie rządem Albanii.
 
 ## Pół roku tułaczki
 

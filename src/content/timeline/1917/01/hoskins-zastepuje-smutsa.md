@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-20 stycznia 1917 roku generał porucznik [Jan Smuts](https://pl.wikipedia.org/wiki/Jan_Smuts) przekazał naczelne dowództwo wojsk brytyjskich w Afryce Wschodniej generałowi majorowi Reginaldowi Hoskinsowi, dotychczasowemu dowódcy 1 Dywizji Wschodnioafrykańskiej. Smuts został wezwany do Londynu. W grudniu 1916 roku nowy premier [David Lloyd George](/postacie/david-lloyd-george) zaprosił premierów dominiów na specjalne posiedzenia Gabinetu Wojennego i na konferencję imperialną, Premier [Louis Botha](/postacie/louis-botha) pozostał w kraju, więc [Związek Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) miał tam reprezentować Smuts, jego minister obrony. Odchodził w środku własnej ofensywy, rozpoczętej 1 stycznia nad Rufidżi.
+20 stycznia 1917 roku generał porucznik [Jan Smuts](/postacie/jan-smuts) przekazał naczelne dowództwo wojsk brytyjskich w Afryce Wschodniej generałowi majorowi Reginaldowi Hoskinsowi, dotychczasowemu dowódcy 1 Dywizji Wschodnioafrykańskiej. Smuts został wezwany do Londynu. W grudniu 1916 roku nowy premier [David Lloyd George](/postacie/david-lloyd-george) zaprosił premierów dominiów na specjalne posiedzenia Gabinetu Wojennego i na konferencję imperialną, Premier [Louis Botha](/postacie/louis-botha) pozostał w kraju, więc [Związek Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) miał tam reprezentować Smuts, jego minister obrony. Odchodził w środku własnej ofensywy, rozpoczętej 1 stycznia nad Rufidżi.
 
 ## Front nad Rufidżi
 

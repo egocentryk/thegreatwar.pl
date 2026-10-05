@@ -17,7 +17,7 @@ draft: false
 
 Pociski Astraei zniszczyły maszt radiostacji. Brytyjczycy unieruchomili też dwa niemieckie statki handlowe stojące w porcie. W obawie przed desantem Niemcy zatopili w wejściu do portu dok pływający. Zablokowali w ten sposób przystań także dla własnego krążownika [SMS Königsberg](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), który operował na Oceanie Indyjskim.
 
-Po ostrzale dowódca Astraei zgodził się na rozejm pod warunkiem, że Dar es Salaam pozostanie miastem otwartym i nie będzie wykorzystywane do celów wojskowych. Gubernator kolonii [Heinrich Schnee](https://pl.wikipedia.org/wiki/Heinrich_Schnee) chętnie się na to zgodził. Uważał, że wojna w Afryce przyniesie koloniom tylko zniszczenia, i liczył, że uda się zachować neutralność.
+Po ostrzale dowódca Astraei zgodził się na rozejm pod warunkiem, że Dar es Salaam pozostanie miastem otwartym i nie będzie wykorzystywane do celów wojskowych. Gubernator kolonii [Heinrich Schnee](/postacie/heinrich-schnee) chętnie się na to zgodził. Uważał, że wojna w Afryce przyniesie koloniom tylko zniszczenia, i liczył, że uda się zachować neutralność.
 
 ## Lettow-Vorbeck
 

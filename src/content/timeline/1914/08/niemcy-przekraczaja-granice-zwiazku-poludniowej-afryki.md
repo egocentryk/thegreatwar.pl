@@ -15,7 +15,7 @@ Około 21 sierpnia 1914 roku oddział wojsk z [Niemieckiej Afryki Południowo-Za
 
 ## Sporna data
 
-Zdarzenie było niewielkie, ale miało duże znaczenie polityczne, dlatego już w 1914 roku spierano się o jego szczegóły. Prasa w Johannesburgu pisała o niemieckich okopach 21 sierpnia. Minister obrony [Jan Smuts](https://pl.wikipedia.org/wiki/Jan_Smuts) twierdził, że Niemcy wkroczyli na terytorium Związku już 19 sierpnia. Przywódca opozycji, generał [Barry Hertzog](https://pl.wikipedia.org/wiki/Barry_Hertzog), zarzucał mu z kolei, że wykorzystał niejasny przebieg granicy, by dowieść niemieckiej agresji.
+Zdarzenie było niewielkie, ale miało duże znaczenie polityczne, dlatego już w 1914 roku spierano się o jego szczegóły. Prasa w Johannesburgu pisała o niemieckich okopach 21 sierpnia. Minister obrony [Jan Smuts](/postacie/jan-smuts) twierdził, że Niemcy wkroczyli na terytorium Związku już 19 sierpnia. Przywódca opozycji, generał [Barry Hertzog](https://pl.wikipedia.org/wiki/Barry_Hertzog), zarzucał mu z kolei, że wykorzystał niejasny przebieg granicy, by dowieść niemieckiej agresji.
 
 ## Wojna, której nie wszyscy chcieli
 

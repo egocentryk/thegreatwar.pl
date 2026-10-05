@@ -28,7 +28,7 @@ Wicepremierem i ministrem finansów został Niekrasow, który w lipcu wystąpił
 
 Kadetów było czterech. Ministrem oświaty został orientalista, sekretarz Akademii Nauk Siergiej Oldenburg, komunikacji Piotr Jurieniew, kontrolerem państwowym prawnik Fiodor Kokoszkin, a oberprokuratorem Świętego Synodu historyk Kościoła Anton Kartaszow. Do rządu nie wszedł Cereteli. Nieformalny przywódca rad nie mógł firmować gabinetu, który nie był już od nich zależny, i usunął się na bok.
 
-Kiereński sam podkreślał, że ministrowie zostali zwolnieni z wszelkiej zależności od komitetów partyjnych i rad i odpowiadali odtąd „tylko przed krajem i własnym sumieniem”. Według niego tylko dwóch członków rządu, Czernow i Skobielew, było blisko związanych z Komitetem Wykonawczym Rady Piotrogrodzkiej. Socjaliści w nowym gabinecie wywodzili się w większości z prawego skrzydła swoich partii. Jedynym radykałem był Czernow. Lider kadetów [Pawieł Milukow](https://pl.wikipedia.org/wiki/Pawieł_Milukow) przyznawał, że faktyczną przewagę mieli w nim zwolennicy demokracji mieszczańskiej.
+Kiereński sam podkreślał, że ministrowie zostali zwolnieni z wszelkiej zależności od komitetów partyjnych i rad i odpowiadali odtąd „tylko przed krajem i własnym sumieniem”. Według niego tylko dwóch członków rządu, Czernow i Skobielew, było blisko związanych z Komitetem Wykonawczym Rady Piotrogrodzkiej. Socjaliści w nowym gabinecie wywodzili się w większości z prawego skrzydła swoich partii. Jedynym radykałem był Czernow. Lider kadetów [Pawieł Milukow](/postacie/pawiel-milukow) przyznawał, że faktyczną przewagę mieli w nim zwolennicy demokracji mieszczańskiej.
 
 ## Rząd na rozdrożu
 

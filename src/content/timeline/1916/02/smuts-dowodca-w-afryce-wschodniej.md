@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 lutego 1916 roku rano w [Mombasie](https://pl.wikipedia.org/wiki/Mombasa) zszedł na ląd generał porucznik [Jan Smuts](https://pl.wikipedia.org/wiki/Jan_Smuts), nowy naczelny dowódca wojsk brytyjskich w Afryce Wschodniej. Na nabrzeżu czekał na niego generał [Michael Tighe](/michael-tighe-dowodca-w-afryce-wschodniej), który od kwietnia 1915 roku dowodził tu wojskami, a w ostatnich tygodniach zastępował ciężko chorego generała Horace'a Smith-Dorriena. Tighe przedstawił mu sytuację i przekazał dowództwo. Tak skończyło się kilkutygodniowe bezkrólewie, które zaczęło się, gdy [Smith-Dorrien musiał zrezygnować](/smith-dorrien-rezygnuje-z-dowodztwa-w-afryce-wschodniej) ze stanowiska, zanim w ogóle dotarł do Afryki Wschodniej.
+19 lutego 1916 roku rano w [Mombasie](https://pl.wikipedia.org/wiki/Mombasa) zszedł na ląd generał porucznik [Jan Smuts](/postacie/jan-smuts), nowy naczelny dowódca wojsk brytyjskich w Afryce Wschodniej. Na nabrzeżu czekał na niego generał [Michael Tighe](/michael-tighe-dowodca-w-afryce-wschodniej), który od kwietnia 1915 roku dowodził tu wojskami, a w ostatnich tygodniach zastępował ciężko chorego generała Horace'a Smith-Dorriena. Tighe przedstawił mu sytuację i przekazał dowództwo. Tak skończyło się kilkutygodniowe bezkrólewie, które zaczęło się, gdy [Smith-Dorrien musiał zrezygnować](/smith-dorrien-rezygnuje-z-dowodztwa-w-afryce-wschodniej) ze stanowiska, zanim w ogóle dotarł do Afryki Wschodniej.
 
 ## Burski generał w brytyjskiej służbie
 

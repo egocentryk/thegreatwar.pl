@@ -18,7 +18,7 @@ Brytyjska chronologia wojny notuje pod datą 17 września 1914 roku koniec bitwy
 
 Druga ofensywa generała [Oskara Potiorka](/postacie/oskar-potiorek) [zaczęła się 8 września](/poczatek-bitwy-nad-drina) przeprawami przez graniczną rzekę. Na północy, w nizinnej [Mačvie](https://pl.wikipedia.org/wiki/Mačva), 5 Armia poniosła ciężkie straty i utrzymała tylko niewielkie przyczółki na serbskim brzegu. Na południu 6 Armia wdarła się na górskie grzbiety wzdłuż rzeki: Gučevo, Boranję i Jagodnję. Dalej, w stronę [Valjeva](https://pl.wikipedia.org/wiki/Valjevo) i doliny Kolubary, już się nie przebiła.
 
-W połowie września sytuacja zaczęła się zmieniać na korzyść Serbów. Znad Sawy, po przerwaniu wyprawy do Sremu, forsownym marszem nadciągnęła 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) i od razu przeszła do kontrataków na austro-węgierskie pozycje w górach. Równocześnie serbskie i czarnogórskie oddziały weszły do wschodniej Bośni i 14 września zajęły [Višegrad](https://pl.wikipedia.org/wiki/Višegrad), zagrażając tyłom 6 Armii. Natarcie Potiorka straciło impet. Jego wojska zamiast iść naprzód musiały bronić zdobytych wzgórz.
+W połowie września sytuacja zaczęła się zmieniać na korzyść Serbów. Znad Sawy, po przerwaniu wyprawy do Sremu, forsownym marszem nadciągnęła 1 Armia generała [Petara Bojovicia](/postacie/petar-bojovic) i od razu przeszła do kontrataków na austro-węgierskie pozycje w górach. Równocześnie serbskie i czarnogórskie oddziały weszły do wschodniej Bośni i 14 września zajęły [Višegrad](https://pl.wikipedia.org/wiki/Višegrad), zagrażając tyłom 6 Armii. Natarcie Potiorka straciło impet. Jego wojska zamiast iść naprzód musiały bronić zdobytych wzgórz.
 
 ## Walki, które trwały dalej
 

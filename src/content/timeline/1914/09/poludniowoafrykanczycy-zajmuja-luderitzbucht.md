@@ -15,7 +15,7 @@ draft: false
 
 ## Plan inwazji
 
-Na prośbę Londynu rząd premiera Louisa Bothy zgodził się zająć niemiecką kolonię, a przede wszystkim jej porty i radiostacje, z których korzystały niemieckie okręty na Atlantyku. Minister obrony [Jan Smuts](https://pl.wikipedia.org/wiki/Jan_Smuts) przygotował plan uderzenia z trzech kierunków. Siły „A” miały wkroczyć do kolonii od południa, znad rzeki Oranje, siły „B” pod dowództwem podpułkownika Maniego Maritza miały działać od wschodu, z okolic Upington, a siły „C” miały wylądować od strony morza w Lüderitzbucht.
+Na prośbę Londynu rząd premiera Louisa Bothy zgodził się zająć niemiecką kolonię, a przede wszystkim jej porty i radiostacje, z których korzystały niemieckie okręty na Atlantyku. Minister obrony [Jan Smuts](/postacie/jan-smuts) przygotował plan uderzenia z trzech kierunków. Siły „A” miały wkroczyć do kolonii od południa, znad rzeki Oranje, siły „B” pod dowództwem podpułkownika Maniego Maritza miały działać od wschodu, z okolic Upington, a siły „C” miały wylądować od strony morza w Lüderitzbucht.
 
 ## Lądowanie
 

@@ -12,7 +12,7 @@ milestone: true
 draft: false
 ---
 
-17 kwietnia 1918 roku, w dziewiątym dniu [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918), Niemcy spróbowali jednym potężnym uderzeniem przesądzić losy walk we Flandrii. Od południa 4 Armia generała [Friedricha Sixta von Armina](https://pl.wikipedia.org/wiki/Friedrich_Sixt_von_Armin) i prawe skrzydło 6 Armii zaatakowały pasmo wzgórz z [Kemmelbergiem](https://pl.wikipedia.org/wiki/Kemmelberg), Mont Rouge i Mont Noir, ostatnią przeszkodę między równiną nad Lys a drogami ku kanałowi La Manche. Równocześnie na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper) Korpus Gwardii uderzył spod lasu Houthulst na armię belgijską. Według dokumentów zdobytych później na 4 Armii oba natarcia, noszące wspólny kryptonim „Tannenberg”, miały ścisnąć z dwóch stron łuk Ypres i zmusić Brytyjczyków do jego opuszczenia. Wieczorem było jasne, że zawiodły na całej linii.
+17 kwietnia 1918 roku, w dziewiątym dniu [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918), Niemcy spróbowali jednym potężnym uderzeniem przesądzić losy walk we Flandrii. Od południa 4 Armia generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin) i prawe skrzydło 6 Armii zaatakowały pasmo wzgórz z [Kemmelbergiem](https://pl.wikipedia.org/wiki/Kemmelberg), Mont Rouge i Mont Noir, ostatnią przeszkodę między równiną nad Lys a drogami ku kanałowi La Manche. Równocześnie na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper) Korpus Gwardii uderzył spod lasu Houthulst na armię belgijską. Według dokumentów zdobytych później na 4 Armii oba natarcia, noszące wspólny kryptonim „Tannenberg”, miały ścisnąć z dwóch stron łuk Ypres i zmusić Brytyjczyków do jego opuszczenia. Wieczorem było jasne, że zawiodły na całej linii.
 
 ## Przed natarciem
 

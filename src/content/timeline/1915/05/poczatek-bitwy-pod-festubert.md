@@ -24,7 +24,7 @@ Rano 13 maja 433 działa i haubice zaczęły powolny, starannie obserwowany ostr
 
 Sobota 15 maja była słoneczna. Długi ostrzał zdradzał Niemcom, że szykuje się natarcie, więc Brytyjczycy próbowali przynajmniej zmylić ich co do godziny. O 10 i o 15 artyleria nagle przyspieszała ogień, po pięciu minutach milkła, a piechota w okopach wznosiła okrzyki, jakby ruszała do ataku. W tej samej chwili baterie zasypywały niemiecką pierwszą linię szrapnelami, na wypadek gdyby obrońcy wyszli na stanowiska.
 
-Nocne natarcie zaproponował dowódca 2 Dywizji, generał Henry Horne. Jego żołnierze dobrze znali ten skrawek płaskiej, podmokłej równiny i mieli w ciemności zdobyć dwie pierwsze linie niemieckich okopów, a o świcie iść dalej. 7 Dywizja generała [Huberta Gougha](https://pl.wikipedia.org/wiki/Hubert_Gough), przerzucona tu niedawno z innego odcinka, nie znała terenu i miała uderzyć dopiero o świcie, kilkaset metrów dalej na południe. Po zmroku brygady szturmowe zajęły stanowiska w przedpiersiach. Przed nimi biegł rów szeroki na blisko cztery metry, z ponad metrową warstwą wody, przez który przerzucono lekkie kładki.
+Nocne natarcie zaproponował dowódca 2 Dywizji, generał Henry Horne. Jego żołnierze dobrze znali ten skrawek płaskiej, podmokłej równiny i mieli w ciemności zdobyć dwie pierwsze linie niemieckich okopów, a o świcie iść dalej. 7 Dywizja generała [Huberta Gougha](/postacie/hubert-gough), przerzucona tu niedawno z innego odcinka, nie znała terenu i miała uderzyć dopiero o świcie, kilkaset metrów dalej na południe. Po zmroku brygady szturmowe zajęły stanowiska w przedpiersiach. Przed nimi biegł rów szeroki na blisko cztery metry, z ponad metrową warstwą wody, przez który przerzucono lekkie kładki.
 
 ## Natarcie w ciemności
 

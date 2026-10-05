@@ -32,6 +32,8 @@ const {
   died,
   birthPlace,
   deathPlace,
+  bornYearOnly,
+  diedYearOnly,
   authors,
   tags,
 } = person.data
@@ -87,11 +89,11 @@ const mentionsByYear = groupTimelineEntries(mentions)
       >
         <dt>Urodzony:</dt>
         <dd class="text-ink">
-          {formatDate(born)}{birthPlace && `, ${birthPlace}`}
+          {bornYearOnly ? born.getUTCFullYear() : formatDate(born)}{birthPlace && `, ${birthPlace}`}
         </dd>
         <dt>Zmarł:</dt>
         <dd class="text-ink">
-          {formatDate(died)}{deathPlace && `, ${deathPlace}`}
+          {diedYearOnly ? died.getUTCFullYear() : formatDate(died)}{deathPlace && `, ${deathPlace}`}
         </dd>
         <dt>{authors.length > 1 ? "Autorzy:" : "Autor:"}</dt>
         <dd>

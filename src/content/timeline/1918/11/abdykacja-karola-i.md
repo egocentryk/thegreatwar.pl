@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-12 listopada 1918 roku przed gmachem parlamentu w Wiedniu proklamowano republikę. Dzień wcześniej, 11 listopada, cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) podpisał w [pałacu Schönbrunn](https://pl.wikipedia.org/wiki/Pałac_Schönbrunn) oświadczenie, w którym zrzekał się „wszelkiego udziału w sprawach państwowych”, a wieczorem wyjechał z rodziną z Wiednia. W pamięci potocznej oba te dni zlały się w „abdykację” ostatniego Habsburga. Słowo to nie padło jednak w żadnym jego dokumencie i Karol do końca życia uważał się za prawowitego cesarza. Tak skończyło się blisko 640 lat panowania Habsburgów w Austrii, dwa lata po tym, jak Karol [objął tron po Franciszku Józefie](/smierc-franciszka-jozefa).
+12 listopada 1918 roku przed gmachem parlamentu w Wiedniu proklamowano republikę. Dzień wcześniej, 11 listopada, cesarz [Karol I](/postacie/karol-i-habsburg) podpisał w [pałacu Schönbrunn](https://pl.wikipedia.org/wiki/Pałac_Schönbrunn) oświadczenie, w którym zrzekał się „wszelkiego udziału w sprawach państwowych”, a wieczorem wyjechał z rodziną z Wiednia. W pamięci potocznej oba te dni zlały się w „abdykację” ostatniego Habsburga. Słowo to nie padło jednak w żadnym jego dokumencie i Karol do końca życia uważał się za prawowitego cesarza. Tak skończyło się blisko 640 lat panowania Habsburgów w Austrii, dwa lata po tym, jak Karol [objął tron po Franciszku Józefie](/smierc-franciszka-jozefa).
 
 ## Dwie władze w Wiedniu
 

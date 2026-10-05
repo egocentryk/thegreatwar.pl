@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 20 października 1915 roku, że rząd Grecji odrzucił [brytyjską ofertę oddania jej Cypru](/wielka-brytania-oferuje-grecji-cypr). Cztery dni wcześniej minister spraw zagranicznych Edward Grey obiecał Grekom wyspę pod jednym warunkiem: natychmiastowego wysłania greckiej armii na pomoc Serbii. Premier [Aleksandros Zaimis](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis) odpowiedział odmownie. Według greckich opracowań odpowiedź przekazał w Londynie grecki poseł Joanis Gennadios 8 października według kalendarza juliańskiego, czyli 21 października, a wieczorem tego samego dnia ateńskie gazety opublikowały obszerny komunikat, w którym rząd wyjaśniał swoje stanowisko. Decyzja zapadła więc na przełomie tych dwóch dni.
+Brytyjska chronologia wojny odnotowuje pod 20 października 1915 roku, że rząd Grecji odrzucił [brytyjską ofertę oddania jej Cypru](/wielka-brytania-oferuje-grecji-cypr). Cztery dni wcześniej minister spraw zagranicznych Edward Grey obiecał Grekom wyspę pod jednym warunkiem: natychmiastowego wysłania greckiej armii na pomoc Serbii. Premier [Aleksandros Zaimis](/postacie/aleksandros-zaimis) odpowiedział odmownie. Według greckich opracowań odpowiedź przekazał w Londynie grecki poseł Joanis Gennadios 8 października według kalendarza juliańskiego, czyli 21 października, a wieczorem tego samego dnia ateńskie gazety opublikowały obszerny komunikat, w którym rząd wyjaśniał swoje stanowisko. Decyzja zapadła więc na przełomie tych dwóch dni.
 
 ## Argumenty Aten
 

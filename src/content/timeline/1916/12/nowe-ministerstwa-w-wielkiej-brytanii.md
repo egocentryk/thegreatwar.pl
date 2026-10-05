@@ -16,7 +16,7 @@ draft: false
 
 Nowe resorty były częścią przebudowy państwa, którą zapowiedział [David Lloyd George](/postacie/david-lloyd-george), od 7 grudnia premier [rządu koalicyjnego](/rzad-koalicyjny-lloyda-george-a). Mieli nimi kierować ludzie wyznaczeni już na liście ministrów ogłoszonej 10 grudnia. Ustawa była więc w dużej mierze zatwierdzeniem stanu faktycznego: ministrowie pracowali od kilkunastu dni, a parlament musiał dać im podstawę prawną i uprawnienia. Projekt wniósł 18 grudnia minister spraw wewnętrznych [George Cave](https://pl.wikipedia.org/wiki/George_Cave), a Izba Gmin rozpatrzyła go w ciągu kilku dni. W trakcie prac dopisano do niego artykuł, który nadawał status ministerstwa także Radzie Lotniczej (Air Board), dotąd będącej jedynie komitetem koordynującym zaopatrzenie lotnictwa armii i floty. Ustawa pozwalała też powołać dodatkowych parlamentarnych podsekretarzy stanu.
 
-Krytycy, wśród nich były kanclerz skarbu [Reginald McKenna](https://pl.wikipedia.org/wiki/Reginald_McKenna), zarzucali rządowi, że stawia na czele resortów ludzi spoza parlamentu, którzy nie będą przed nim odpowiadać. Kanclerz skarbu [Andrew Bonar Law](https://pl.wikipedia.org/wiki/Andrew_Bonar_Law) odpowiadał, że chodzi właśnie o to, by wykonywali pracę, a nie bronili jej w Izbie Gmin. Tę rolę mieli przejąć ich zastępcy.
+Krytycy, wśród nich były kanclerz skarbu [Reginald McKenna](https://pl.wikipedia.org/wiki/Reginald_McKenna), zarzucali rządowi, że stawia na czele resortów ludzi spoza parlamentu, którzy nie będą przed nim odpowiadać. Kanclerz skarbu [Andrew Bonar Law](/postacie/andrew-bonar-law) odpowiadał, że chodzi właśnie o to, by wykonywali pracę, a nie bronili jej w Izbie Gmin. Tę rolę mieli przejąć ich zastępcy.
 
 ## Żywność i lord Devonport
 

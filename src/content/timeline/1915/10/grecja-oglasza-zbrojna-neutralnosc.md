@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 października 1915 roku, czyli 25 września według kalendarza juliańskiego, nowy premier i zarazem minister spraw zagranicznych Grecji [Aleksandros Zaimis](https://pl.wikipedia.org/wiki/Aleksandros_Zaimis) rozesłał do wszystkich greckich poselstw okólnik telegraficzny. Gabinet, który [dopiero co objął władzę](/aleksandros-zaimis-premierem-grecji), oświadczał w nim, że po zbadaniu „niezwykle skomplikowanej” sytuacji międzynarodowej jego polityka będzie się opierać na tych samych zasadach, na których Grecja opierała się od początku wojny europejskiej. Aby lepiej zabezpieczyć swoje żywotne interesy, Grecja „pozostanie w stanie zbrojnej neutralności” i będzie dostosowywać się do wydarzeń, które rząd zamierza śledzić z nieustającą uwagą. Posłowie mieli trzymać się tych słów w rozmowach z dyplomatami i z dziennikarzami.
+8 października 1915 roku, czyli 25 września według kalendarza juliańskiego, nowy premier i zarazem minister spraw zagranicznych Grecji [Aleksandros Zaimis](/postacie/aleksandros-zaimis) rozesłał do wszystkich greckich poselstw okólnik telegraficzny. Gabinet, który [dopiero co objął władzę](/aleksandros-zaimis-premierem-grecji), oświadczał w nim, że po zbadaniu „niezwykle skomplikowanej” sytuacji międzynarodowej jego polityka będzie się opierać na tych samych zasadach, na których Grecja opierała się od początku wojny europejskiej. Aby lepiej zabezpieczyć swoje żywotne interesy, Grecja „pozostanie w stanie zbrojnej neutralności” i będzie dostosowywać się do wydarzeń, które rząd zamierza śledzić z nieustającą uwagą. Posłowie mieli trzymać się tych słów w rozmowach z dyplomatami i z dziennikarzami.
 
 ## Co oznaczała zbrojna neutralność
 

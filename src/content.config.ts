@@ -108,6 +108,9 @@ const people = defineCollection({
     side: z.enum(["Ententa", "Państwa centralne", "Sprawa polska"]),
     born: z.coerce.date(),
     died: z.coerce.date(),
+    // Only the year is reliably known: pages show "1863", not a made-up day.
+    bornYearOnly: z.boolean().default(false),
+    diedYearOnly: z.boolean().default(false),
     birthPlace: z.string().optional(),
     deathPlace: z.string().optional(),
     // Forms used in battle `commanders` lists, so battles can link here.

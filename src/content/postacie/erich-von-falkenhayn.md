@@ -64,7 +64,7 @@ W lipcu 1917 roku Falkenhayn objął dowództwo osmańskiej grupy armii „Yıld
 
 Na przełomie października i listopada Brytyjczycy pod dowództwem generała [Edmunda Allenby’ego](https://pl.wikipedia.org/wiki/Edmund_Allenby) przełamali front w [trzeciej bitwie o Gazę](/bitwy/trzecia-bitwa-o-gaze), gdy wojska osmańskie były w trakcie przegrupowania. W grudniu Falkenhayn bez powodzenia próbował bronić, a potem odbić Jerozolimę, która [skapitulowała 9 grudnia](/kapitulacja-jerozolimy). Przypisuje mu się, że ostatecznie wycofał wojska z miasta, oszczędzając je i jego święte miejsca przed walkami ulicznymi. Na początku 1918 roku odwołano go, a dowództwo grupy armii objął [Otto Liman von Sanders](/postacie/otto-liman-von-sanders).
 
-Z tego okresu pochodzi epizod, który jego biograf uważa za największą zasługę Falkenhayna. Cemal Pasza planował deportację Żydów z Palestyny, co wielu obserwatorom kazało obawiać się powtórki z losu Ormian. Falkenhayn sprzeciwił się temu i zakazał zbiorowych kar na podległym mu terenie, a niemiecka ambasada w Konstantynopolu wywarła nacisk na władze osmańskie. Według Afflerbacha tylko dzięki postawie Falkenhayna nie doszło wtedy do „nieludzkiego ekscesu” wobec palestyńskich Żydów.
+Z tego okresu pochodzi epizod, który jego biograf uważa za największą zasługę Falkenhayna. Dżemal Pasza planował deportację Żydów z Palestyny, co wielu obserwatorom kazało obawiać się powtórki z losu Ormian. Falkenhayn sprzeciwił się temu i zakazał zbiorowych kar na podległym mu terenie, a niemiecka ambasada w Konstantynopolu wywarła nacisk na władze osmańskie. Według Afflerbacha tylko dzięki postawie Falkenhayna nie doszło wtedy do „nieludzkiego ekscesu” wobec palestyńskich Żydów.
 
 ## Po wojnie
 

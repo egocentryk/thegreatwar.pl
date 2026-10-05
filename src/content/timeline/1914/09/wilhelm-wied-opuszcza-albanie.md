@@ -21,7 +21,7 @@ Nowe [Księstwo Albanii](https://pl.wikipedia.org/wiki/Księstwo_Albanii) było 
 
 ## Bunt
 
-Najgroźniejszym przeciwnikiem księcia okazał się minister wojny i spraw zagranicznych [Esad Pasza Toptani](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani), ambitny posiadacz ziemski, sam pretendujący do władzy. W maju 1914 roku oskarżono go o spisek, aresztowano i zmuszono do wyjazdu do Włoch. W tym samym czasie w środkowej Albanii wybuchło powstanie chłopów muzułmańskich, którymi kierował m.in. [Haxhi Qamili](https://pl.wikipedia.org/wiki/Haxhi_Qamili). Buntownicy żądali powrotu władzy sułtana i nie uznawali chrześcijańskiego księcia z Niemiec. Opanowali znaczną część kraju i podeszli pod samo Durrës. 15 czerwca w walkach o miasto zginął holenderski oficer [Lodewijk Thomson](https://pl.wikipedia.org/wiki/Lodewijk_Thomson), jeden z dowódców żandarmerii.
+Najgroźniejszym przeciwnikiem księcia okazał się minister wojny i spraw zagranicznych [Esad Pasza Toptani](/postacie/esad-pasza-toptani), ambitny posiadacz ziemski, sam pretendujący do władzy. W maju 1914 roku oskarżono go o spisek, aresztowano i zmuszono do wyjazdu do Włoch. W tym samym czasie w środkowej Albanii wybuchło powstanie chłopów muzułmańskich, którymi kierował m.in. [Haxhi Qamili](https://pl.wikipedia.org/wiki/Haxhi_Qamili). Buntownicy żądali powrotu władzy sułtana i nie uznawali chrześcijańskiego księcia z Niemiec. Opanowali znaczną część kraju i podeszli pod samo Durrës. 15 czerwca w walkach o miasto zginął holenderski oficer [Lodewijk Thomson](https://pl.wikipedia.org/wiki/Lodewijk_Thomson), jeden z dowódców żandarmerii.
 
 ## Wojna i wyjazd
 

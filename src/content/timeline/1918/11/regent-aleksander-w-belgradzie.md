@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje pod 6 listopada 1918 roku, że król Serbii [Piotr I](/postacie/piotr-i-karadziordziewic) powrócił do Belgradu, [odzyskanego](/serbowie-ponownie-odbijaja-belgrad) pięć dni wcześniej przez serbską 1 Armię. Tak się jednak nie stało. Biografowie króla zgodnie podają, że 74-letni, schorowany Piotr I pozostawał za granicą aż do lipca 1919 roku i dopiero wtedy wrócił do Belgradu. Do stolicy przyjechał natomiast w tych dniach jego syn, regent i naczelny wódz armii serbskiej [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić). Możliwe, że chronologia omyłkowo przypisała królowi właśnie przyjazd regenta.
+Brytyjska chronologia wojny podaje pod 6 listopada 1918 roku, że król Serbii [Piotr I](/postacie/piotr-i-karadziordziewic) powrócił do Belgradu, [odzyskanego](/serbowie-ponownie-odbijaja-belgrad) pięć dni wcześniej przez serbską 1 Armię. Tak się jednak nie stało. Biografowie króla zgodnie podają, że 74-letni, schorowany Piotr I pozostawał za granicą aż do lipca 1919 roku i dopiero wtedy wrócił do Belgradu. Do stolicy przyjechał natomiast w tych dniach jego syn, regent i naczelny wódz armii serbskiej [Aleksander](/postacie/aleksander-i-karadziordziewic). Możliwe, że chronologia omyłkowo przypisała królowi właśnie przyjazd regenta.
 
 ## Król bez władzy
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 lutego 1916 roku niemiecki ambasador w Waszyngtonie [Johann Heinrich von Bernstorff](https://pl.wikipedia.org/wiki/Johann_Heinrich_von_Bernstorff) wręczył sekretarzowi stanu [Robertowi Lansingowi](/postacie/robert-lansing) memorandum swojego rządu w sprawie uzbrojonych statków handlowych. Brytyjska chronologia wojny notuje tę niemiecką odpowiedź pod 29 lutego. Najważniejsze było ostatnie zdanie: Niemcy z zadowoleniem przyjmują amerykańskie starania o porozumienie walczących stron w sprawie rozbrojenia statków handlowych, ale nie mogą zmienić ani odroczyć nowych rozkazów dla dowódców, ponieważ nie pozwolą, by ich okręty podwodne były nadal narażone na bezprawne ataki uzbrojonych statków wroga. Tego samego dnia austro-węgierski chargé d'affaires odczytał Lansingowi krótkie oświadczenie, że Wiedeń zajmuje identyczne stanowisko.
+28 lutego 1916 roku niemiecki ambasador w Waszyngtonie [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff) wręczył sekretarzowi stanu [Robertowi Lansingowi](/postacie/robert-lansing) memorandum swojego rządu w sprawie uzbrojonych statków handlowych. Brytyjska chronologia wojny notuje tę niemiecką odpowiedź pod 29 lutego. Najważniejsze było ostatnie zdanie: Niemcy z zadowoleniem przyjmują amerykańskie starania o porozumienie walczących stron w sprawie rozbrojenia statków handlowych, ale nie mogą zmienić ani odroczyć nowych rozkazów dla dowódców, ponieważ nie pozwolą, by ich okręty podwodne były nadal narażone na bezprawne ataki uzbrojonych statków wroga. Tego samego dnia austro-węgierski chargé d'affaires odczytał Lansingowi krótkie oświadczenie, że Wiedeń zajmuje identyczne stanowisko.
 
 ## Przyrzeczenia bez zmian
 

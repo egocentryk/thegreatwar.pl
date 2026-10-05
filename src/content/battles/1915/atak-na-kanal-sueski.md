@@ -17,7 +17,7 @@ tags: [Imperium Osmańskie, Egipt, Indie Brytyjskie, Wielka Brytania]
 milestone: false
 ---
 
-Atak na Kanał Sueski był pierwszą osmańską ofensywą przeciw Egiptowi w czasie I wojny światowej. Na przełomie stycznia i lutego 1915 roku armia dowodzona przez [Ahmeda Dżemala Paszę](https://pl.wikipedia.org/wiki/Ahmed_Cemal) przeszła pustynię [Synaj](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) i w nocy z 2 na 3 lutego spróbowała przeprawić się na pontonach przez [Kanał Sueski](https://pl.wikipedia.org/wiki/Kanał_Sueski) w pobliżu [Ismailii](https://pl.wikipedia.org/wiki/Ismailia). Przeprawa załamała się w ogniu wojsk indyjskich, egipskiej artylerii i brytyjskich oraz francuskich okrętów. Po całym dniu walk Turcy wycofali się, a 4 lutego Brytyjczycy zebrali na wschodnim brzegu kilkuset jeńców. Kanał, przez który płynęły transporty wojsk z Indii, Australii i Nowej Zelandii, pozostał otwarty.
+Atak na Kanał Sueski był pierwszą osmańską ofensywą przeciw Egiptowi w czasie I wojny światowej. Na przełomie stycznia i lutego 1915 roku armia dowodzona przez [Ahmeda Dżemala Paszę](/postacie/dzemal-pasza) przeszła pustynię [Synaj](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) i w nocy z 2 na 3 lutego spróbowała przeprawić się na pontonach przez [Kanał Sueski](https://pl.wikipedia.org/wiki/Kanał_Sueski) w pobliżu [Ismailii](https://pl.wikipedia.org/wiki/Ismailia). Przeprawa załamała się w ogniu wojsk indyjskich, egipskiej artylerii i brytyjskich oraz francuskich okrętów. Po całym dniu walk Turcy wycofali się, a 4 lutego Brytyjczycy zebrali na wschodnim brzegu kilkuset jeńców. Kanał, przez który płynęły transporty wojsk z Indii, Australii i Nowej Zelandii, pozostał otwarty.
 
 ## Nazwa i daty
 

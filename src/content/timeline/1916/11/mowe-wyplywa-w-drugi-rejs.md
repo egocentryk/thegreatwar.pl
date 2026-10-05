@@ -21,7 +21,7 @@ Po powrocie z pierwszego rejsu Möwe przeszedł remont w [Wilhelmshaven](https:/
 
 ## Przez blokadę
 
-Brytyjczycy spodziewali się takich prób. Admiralicja i dowódca [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) [John Jellicoe](https://pl.wikipedia.org/wiki/John_Jellicoe) przygotowali stałe rozkazy, według których krążowniki miały obsadzić wszystkie wyjścia z Morza Północnego, gdy tylko nadejdzie wiadomość, że rajder jest w morzu. Newbolt przyznaje jednak, że Brytyjczycy nigdy nie znali daty wyjścia któregokolwiek z rajderów z dokładnością do tygodnia i właśnie to je uratowało.
+Brytyjczycy spodziewali się takich prób. Admiralicja i dowódca [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) [John Jellicoe](/postacie/john-jellicoe) przygotowali stałe rozkazy, według których krążowniki miały obsadzić wszystkie wyjścia z Morza Północnego, gdy tylko nadejdzie wiadomość, że rajder jest w morzu. Newbolt przyznaje jednak, że Brytyjczycy nigdy nie znali daty wyjścia któregokolwiek z rajderów z dokładnością do tygodnia i właśnie to je uratowało.
 
 Drogi Möwe przez Morze Północne nie da się dokładnie odtworzyć. Według brytyjskiej historii oficjalnej rajder płynął w bardzo złej pogodzie wzdłuż wschodniej strony morza, u wybrzeży Norwegii, i skręcił na zachód mniej więcej na wysokości [Wysp Owczych](https://pl.wikipedia.org/wiki/Wyspy_Owcze). Długie zimowe noce i sztormy pomogły mu ominąć brytyjskie patrole, podobnie jak rok wcześniej, gdy [wyruszał w pierwszy rejs](/mowe-wyplywa-w-pierwszy-rejs). 30 listopada był już na otwartym Atlantyku i płynął na południe.
 

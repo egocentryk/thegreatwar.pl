@@ -16,7 +16,7 @@ draft: false
 
 ## Po klęsce w Ardenach
 
-Ofensywa francuska w Ardenach zakończyła się katastrofą. 22 sierpnia, w najkrwawszym dniu w dziejach armii francuskiej, 3 i 4 Armia straciły dziesiątki tysięcy ludzi w starciach z niemiecką 4 Armią księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armią następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)). Po [zakończeniu bitwy w Ardenach](/koniec-bitwy-w-ardenach) obie francuskie armie wycofały się na południe.
+Ofensywa francuska w Ardenach zakończyła się katastrofą. 22 sierpnia, w najkrwawszym dniu w dziejach armii francuskiej, 3 i 4 Armia straciły dziesiątki tysięcy ludzi w starciach z niemiecką 4 Armią księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armią następcy tronu [Wilhelma](/postacie/wilhelm-nastepca-tronu). Po [zakończeniu bitwy w Ardenach](/koniec-bitwy-w-ardenach) obie francuskie armie wycofały się na południe.
 
 Moza była naturalną linią obrony. Rzeka płynie tu głęboką, krętą doliną, a na jej lewym brzegu wznoszą się zalesione wzgórza, z których obrońcy mogli ostrzeliwać przeprawy. 24 sierpnia wieczorem dowództwo 4 Armii wydało rozkazy, by po przejściu ostatnich oddziałów wysadzić mosty na Mozie i jej dopływie [Chiers](https://pl.wikipedia.org/wiki/Chiers). 25 sierpnia saperzy zniszczyli większość przepraw w pasie armii. Kilka mostów pozostawiono na razie nietkniętych, ale zaminowanych.
 

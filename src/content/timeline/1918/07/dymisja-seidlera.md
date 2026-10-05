@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-25 lipca 1918 roku cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) zatwierdził ostateczne ustąpienie całego gabinetu premiera Austrii [Ernsta Seidlera](/seidler-premierem-austrii) i tego samego dnia mianował nowym premierem Maxa Hussareka. Tak przebieg wydarzeń odtwarza wydana przez Austriacką Akademię Nauk edycja protokołów austriackiej Rady Ministrów. Właściwa dymisja nastąpiła trzy dni wcześniej, 22 lipca, a przesądzili o niej posłowie polscy. Miesiąc wcześniej cesarz [odrzucił pierwszą prośbę Seidlera o dymisję](/kryzys-rzadu-seidlera) i kazał mu szukać większości. Ta próba się nie powiodła.
+25 lipca 1918 roku cesarz [Karol I](/postacie/karol-i-habsburg) zatwierdził ostateczne ustąpienie całego gabinetu premiera Austrii [Ernsta Seidlera](/seidler-premierem-austrii) i tego samego dnia mianował nowym premierem Maxa Hussareka. Tak przebieg wydarzeń odtwarza wydana przez Austriacką Akademię Nauk edycja protokołów austriackiej Rady Ministrów. Właściwa dymisja nastąpiła trzy dni wcześniej, 22 lipca, a przesądzili o niej posłowie polscy. Miesiąc wcześniej cesarz [odrzucił pierwszą prośbę Seidlera o dymisję](/kryzys-rzadu-seidlera) i kazał mu szukać większości. Ta próba się nie powiodła.
 
 ## Mowa o „kręgosłupie” państwa
 

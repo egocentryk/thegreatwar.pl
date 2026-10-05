@@ -32,7 +32,7 @@ W nocy, w całkowicie pogrążonym w ciemnościach mieście, kolumny wojska i wo
 
 Wojewoda [Radomir Putnik](/postacie/radomir-putnik) liczył się z tym, że przeciwnik sam opuści miasto, i wstrzymał pościg, by oszczędzić stolicę, w której zostało niewielu mieszkańców. Belgrad miała zająć tylko dywizja kawalerii i jeden pułk 2 Armii. Według austriackiej historii oficjalnej rano do miasta pierwszy podszedł batalion serbskiej Dywizji Kombinowanej, a po nim kawaleria. Serbskie źródła piszą, że kawalerzyści przejechali od placu Slavija aż do twierdzy [Kalemegdan](https://pl.wikipedia.org/wiki/Kalemegdan) nad ujściem Sawy do Dunaju.
 
-Według serbskich opracowań jeszcze tego samego dnia do miasta wjechał regent i naczelny wódz [Aleksander Karađorđević](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić), a część źródeł podaje, że towarzyszył mu ojciec, król [Piotr I](/postacie/piotr-i-karadziordziewic). Mieszkańcy witali żołnierzy z radością. Miasto było jednak zniszczone ostrzałem, a mosty na Sawie wysadzone.
+Według serbskich opracowań jeszcze tego samego dnia do miasta wjechał regent i naczelny wódz [Aleksander Karađorđević](/postacie/aleksander-i-karadziordziewic), a część źródeł podaje, że towarzyszył mu ojciec, król [Piotr I](/postacie/piotr-i-karadziordziewic). Mieszkańcy witali żołnierzy z radością. Miasto było jednak zniszczone ostrzałem, a mosty na Sawie wysadzone.
 
 ## Koniec inwazji
 

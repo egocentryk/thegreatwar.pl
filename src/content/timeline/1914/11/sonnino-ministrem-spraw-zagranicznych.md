@@ -14,7 +14,7 @@ Na początku listopada 1914 roku baron [Sidney Sonnino](/postacie/sidney-sonnino
 
 ## 3 czy 5 listopada?
 
-Brytyjska chronologia wojny odnotowuje mianowanie Sonnina pod datą 3 listopada. Według źródeł włoskich, między innymi encyklopedii Treccani, nominacja nastąpiła jednak 5 listopada, gdy przed królem [Wiktorem Emanuelem III](https://pl.wikipedia.org/wiki/Wiktor_Emanuel_III) zaprzysiężono cały drugi gabinet Salandry. Rozmowy o jego składzie trwały od 2 listopada, gdy król ponownie powierzył Salandrze misję utworzenia rządu, więc wiadomość o wejściu Sonnina do gabinetu mogła dotrzeć do prasy wcześniej. Nie udało się jednak ustalić, skąd dokładnie wzięła się data 3 listopada. Formalnie Sonnino objął urząd 5 listopada.
+Brytyjska chronologia wojny odnotowuje mianowanie Sonnina pod datą 3 listopada. Według źródeł włoskich, między innymi encyklopedii Treccani, nominacja nastąpiła jednak 5 listopada, gdy przed królem [Wiktorem Emanuelem III](/postacie/wiktor-emanuel-iii) zaprzysiężono cały drugi gabinet Salandry. Rozmowy o jego składzie trwały od 2 listopada, gdy król ponownie powierzył Salandrze misję utworzenia rządu, więc wiadomość o wejściu Sonnina do gabinetu mogła dotrzeć do prasy wcześniej. Nie udało się jednak ustalić, skąd dokładnie wzięła się data 3 listopada. Formalnie Sonnino objął urząd 5 listopada.
 
 ## Kim był Sonnino
 

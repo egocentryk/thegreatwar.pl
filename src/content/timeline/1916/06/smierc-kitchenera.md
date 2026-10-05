@@ -21,7 +21,7 @@ Dla Kitchenera wyjazd był też odpoczynkiem od kłopotów w kraju. Jego pozycja
 
 ## Ostatni rejs Hampshire'a
 
-Kitchener i jego świta przybyli do [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) 5 czerwca. Zjedli obiad z admirałem [Johnem Jellicoe](https://pl.wikipedia.org/wiki/John_Jellicoe) na jego okręcie flagowym. Rozmowa dotyczyła głównie [bitwy jutlandzkiej](/koniec-bitwy-jutlandzkiej), stoczonej kilka dni wcześniej. Brał w niej udział także Hampshire, krążownik ze składu Grand Fleet, któremu teraz powierzono przewiezienie misji. Po południu goście weszli na jego pokład.
+Kitchener i jego świta przybyli do [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) 5 czerwca. Zjedli obiad z admirałem [Johnem Jellicoe](/postacie/john-jellicoe) na jego okręcie flagowym. Rozmowa dotyczyła głównie [bitwy jutlandzkiej](/koniec-bitwy-jutlandzkiej), stoczonej kilka dni wcześniej. Brał w niej udział także Hampshire, krążownik ze składu Grand Fleet, któremu teraz powierzono przewiezienie misji. Po południu goście weszli na jego pokład.
 
 Od północnego wschodu wiał silny sztorm. Jellicoe miał do wyboru trzy trasy. Uznał, że droga wzdłuż wschodnich brzegów Orkadów jest zbyt wystawiona na wiatr i że w poprzednich dniach widziano tam okręty podwodne, a na trasie przez cieśninę Pentland trałowce nie zdążyły w burzy oczyścić toru wodnego. Wybrał więc drogę tuż przy zachodnim brzegu wyspy [Mainland](https://pl.wikipedia.org/wiki/Mainland_(Orkady)), zwykle używaną przez okręty pomocnicze floty, osłoniętą przy tym wietrze od fal. Nie wiedziano, by Niemcy kiedykolwiek stawiali miny tak daleko na północy. Za ten wybór Jellicoe był potem krytykowany.
 

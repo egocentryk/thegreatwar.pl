@@ -24,7 +24,7 @@ Pułkownik [Wilhelm Heye](https://pl.wikipedia.org/wiki/Wilhelm_Heye) z naczelne
 
 ## Dzień w Berlinie
 
-Hindenburg i Ludendorff przyjechali tymczasem do Berlina, choć kanclerz wyraźnie prosił, by tego nie robili. 25 października przedstawili cesarzowi swój pogląd, że trzeba walczyć dalej. Wilhelm II nie podjął decyzji i odesłał ich do kanclerza. Książę Max był chory na grypę, więc wieczorem przyjął ich wicekanclerz Friedrich von Payer, w obecności admirała [Reinharda Scheera](https://pl.wikipedia.org/wiki/Reinhard_Scheer) i [ministra wojny](/scheuch-ministrem-wojny). Ludendorff ostrzegał przed zaufaniem do Wilsona, przed bolszewizmem i przed podważaniem pozycji cesarza, ale zrozumiał, że rząd nie zamierza już walczyć. Gdy wyszedł z rozmowy, powiedział czekającym na dole oficerom: „Nie ma nadziei. Niemcy są stracone”.
+Hindenburg i Ludendorff przyjechali tymczasem do Berlina, choć kanclerz wyraźnie prosił, by tego nie robili. 25 października przedstawili cesarzowi swój pogląd, że trzeba walczyć dalej. Wilhelm II nie podjął decyzji i odesłał ich do kanclerza. Książę Max był chory na grypę, więc wieczorem przyjął ich wicekanclerz Friedrich von Payer, w obecności admirała [Reinharda Scheera](/postacie/reinhard-scheer) i [ministra wojny](/scheuch-ministrem-wojny). Ludendorff ostrzegał przed zaufaniem do Wilsona, przed bolszewizmem i przed podważaniem pozycji cesarza, ale zrozumiał, że rząd nie zamierza już walczyć. Gdy wyszedł z rozmowy, powiedział czekającym na dole oficerom: „Nie ma nadziei. Niemcy są stracone”.
 
 Kanclerz postawił wtedy sprawę na ostrzu noża. Jak piszą historycy, oznajmił cesarzowi, że jeśli Ludendorff nie odejdzie, ustąpi cały rząd. Hindenburg miał natomiast zostać, by utrzymać spójność armii.
 

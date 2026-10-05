@@ -44,7 +44,7 @@ Pozostałe bataliony 151 Brygady zdobyły linię Flers w centrum i na lewym skrz
 
 ## Reszta frontu
 
-Na prawym skrzydle armii, na odcinku XIV Korpusu i części XV Korpusu, godzinny ostrzał o 15.15 przyniósł tylko niewielkie zdobycze terenu. Na południowy wschód od Morval francuska 6 Armia generała [Émile’a Fayolle’a](https://pl.wikipedia.org/wiki/Marie_Émile_Fayolle) zaatakowała tego dnia bez większego powodzenia. Najgroźniejsze okazały się niemieckie karabiny maszynowe w lesie Haie. O tej samej porze na zachód od drogi Albert–Bapaume ruszyła do natarcia Armia Rezerwowa generała Huberta Gougha, która walczyła o okop Regina i reduty na północnym skraju [grzbietu Thiepval](/bitwy/bitwa-o-grzbiet-thiepval).
+Na prawym skrzydle armii, na odcinku XIV Korpusu i części XV Korpusu, godzinny ostrzał o 15.15 przyniósł tylko niewielkie zdobycze terenu. Na południowy wschód od Morval francuska 6 Armia generała [Émile’a Fayolle’a](/postacie/emile-fayolle) zaatakowała tego dnia bez większego powodzenia. Najgroźniejsze okazały się niemieckie karabiny maszynowe w lesie Haie. O tej samej porze na zachód od drogi Albert–Bapaume ruszyła do natarcia Armia Rezerwowa generała Huberta Gougha, która walczyła o okop Regina i reduty na północnym skraju [grzbietu Thiepval](/bitwy/bitwa-o-grzbiet-thiepval).
 
 ## Noc i nazajutrz
 

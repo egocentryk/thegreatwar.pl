@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 października 1918 roku, dwa dni po [zajęciu Aleppo](/zajecie-aleppo), oddziały arabskie emira [Fajsala](https://pl.wikipedia.org/wiki/Fajsal_I) zajęły stację Muslimija, około 20 kilometrów na północ od miasta. Była to ostatnia zdobycz aliantów w kampanii palestyńskiej. Brytyjska chronologia wojny przypisuje ją brytyjskiej kawalerii, ale zarówno Preston, historyk Pustynnego Korpusu Konnego, jak i brytyjska historia oficjalna Cyrila Fallsa piszą, że stację zajęli Arabowie szarifa, czyli żołnierze [powstania arabskiego](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)). Źródła różnią się też co do dnia: Preston podaje 28 października, a Falls 29 października.
+28 października 1918 roku, dwa dni po [zajęciu Aleppo](/zajecie-aleppo), oddziały arabskie emira [Fajsala](/postacie/fajsal-i) zajęły stację Muslimija, około 20 kilometrów na północ od miasta. Była to ostatnia zdobycz aliantów w kampanii palestyńskiej. Brytyjska chronologia wojny przypisuje ją brytyjskiej kawalerii, ale zarówno Preston, historyk Pustynnego Korpusu Konnego, jak i brytyjska historia oficjalna Cyrila Fallsa piszą, że stację zajęli Arabowie szarifa, czyli żołnierze [powstania arabskiego](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)). Źródła różnią się też co do dnia: Preston podaje 28 października, a Falls 29 października.
 
 ## Węzeł kolei bagdadzkiej
 

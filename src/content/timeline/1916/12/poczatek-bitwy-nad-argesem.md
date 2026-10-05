@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-1 grudnia 1916 roku rumuńska armia podjęła ostatnią próbę ratowania [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt). Grupa uderzeniowa generała [Constantina Prezana](https://pl.wikipedia.org/wiki/Constantin_Prezan) uderzyła na lewe skrzydło i tyły [Armii Dunajskiej](https://pl.wikipedia.org/wiki/Armia_Dunaju) generała Roberta Koscha, która tydzień wcześniej [przeprawiła się przez Dunaj](/mackensen-przekracza-dunaj) i szła szosą z Alexandrii na stolicę. Między rzekami Neajlov i [Argeș](https://pl.wikipedia.org/wiki/Ardżesz), kilkadziesiąt kilometrów na południowy zachód od Bukaresztu, zaczęła się największa bitwa kampanii rumuńskiej. W Rumunii, liczącej czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 18 listopada.
+1 grudnia 1916 roku rumuńska armia podjęła ostatnią próbę ratowania [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt). Grupa uderzeniowa generała [Constantina Prezana](/postacie/constantin-prezan) uderzyła na lewe skrzydło i tyły [Armii Dunajskiej](https://pl.wikipedia.org/wiki/Armia_Dunaju) generała Roberta Koscha, która tydzień wcześniej [przeprawiła się przez Dunaj](/mackensen-przekracza-dunaj) i szła szosą z Alexandrii na stolicę. Między rzekami Neajlov i [Argeș](https://pl.wikipedia.org/wiki/Ardżesz), kilkadziesiąt kilometrów na południowy zachód od Bukaresztu, zaczęła się największa bitwa kampanii rumuńskiej. W Rumunii, liczącej czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 18 listopada.
 
 ## Plan Prezana
 

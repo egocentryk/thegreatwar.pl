@@ -24,7 +24,7 @@ Studiował prawo w Tybindze, a w 1885 roku wstąpił do armii wirtemberskiej. S�
 
 ## 1914: Ardeny i Marna
 
-2 sierpnia 1914 roku stanął na czele 4 Armii, która rozwinęła się w centrum niemieckiego frontu, naprzeciw Luksemburga i belgijskich Ardenów. Joffre sądził, że Niemcy są tam słabi, i rzucił w lasy francuską 3 i 4 Armię. 22 sierpnia, w najkrwawszym dniu w dziejach armii francuskiej, natknęły się one na przygotowane do walki wojska Albrechta i 5 Armii następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)). Po [bitwie w Ardenach](/bitwy/bitwa-w-ardenach) Francuzi cofnęli się za Mozę, a 4 Armia przez kilka dni forsowała rzekę [pod Sedanem i Stenay](/bitwy/bitwa-nad-moza).
+2 sierpnia 1914 roku stanął na czele 4 Armii, która rozwinęła się w centrum niemieckiego frontu, naprzeciw Luksemburga i belgijskich Ardenów. Joffre sądził, że Niemcy są tam słabi, i rzucił w lasy francuską 3 i 4 Armię. 22 sierpnia, w najkrwawszym dniu w dziejach armii francuskiej, natknęły się one na przygotowane do walki wojska Albrechta i 5 Armii następcy tronu [Wilhelma](/postacie/wilhelm-nastepca-tronu). Po [bitwie w Ardenach](/bitwy/bitwa-w-ardenach) Francuzi cofnęli się za Mozę, a 4 Armia przez kilka dni forsowała rzekę [pod Sedanem i Stenay](/bitwy/bitwa-nad-moza).
 
 W czasie [bitwy nad Marną](/bitwy/pierwsza-bitwa-nad-marna) armia Albrechta nacierała w okolicach Vitry-le-François na francuską 4 Armię generała Fernanda de Langle de Cary. Francuzi wytrzymali, a po odwrocie niemieckiego prawego skrzydła 11 września Albrecht dostał rozkaz wycofania się do Szampanii.
 
@@ -44,7 +44,7 @@ W 1916 roku front 4 Armii we Flandrii był względnie spokojny. Wiosną walczono
 
 ## Grupa armii w Lotaryngii
 
-Na przełomie lutego i marca 1917 roku oddał 4 Armię generałowi [Friedrichowi Sixtowi von Arminowi](https://pl.wikipedia.org/wiki/Friedrich_Sixt_von_Armin) i objął dowództwo nowej grupy armii swojego imienia, z kwaterą w Strasburgu. Podlegał jej południowy odcinek frontu zachodniego, w Lotaryngii, Wogezach i Alzacji, aż po granicę szwajcarską. Przez większą część wojny był to odcinek spokojny, na którym obie strony trzymały głównie dywizje osłabione lub odpoczywające po walkach gdzie indziej. Dlatego Albrecht nie brał udziału w wielkich bitwach 1917 i 1918 roku, choć jego wojska musiały oddawać kolejne dywizje na potrzeby wiosennej ofensywy Ludendorffa. Na jego odcinek Foch zaplanował na połowę listopada 1918 roku wielką francusko-amerykańską ofensywę w Lotaryngii, do której nie doszło z powodu [rozejmu w Compiègne](/rozejm-w-compiegne). W lutym 1918 roku dostał dębowe liście do Pour le Mérite.
+Na przełomie lutego i marca 1917 roku oddał 4 Armię generałowi [Friedrichowi Sixtowi von Arminowi](/postacie/friedrich-sixt-von-armin) i objął dowództwo nowej grupy armii swojego imienia, z kwaterą w Strasburgu. Podlegał jej południowy odcinek frontu zachodniego, w Lotaryngii, Wogezach i Alzacji, aż po granicę szwajcarską. Przez większą część wojny był to odcinek spokojny, na którym obie strony trzymały głównie dywizje osłabione lub odpoczywające po walkach gdzie indziej. Dlatego Albrecht nie brał udziału w wielkich bitwach 1917 i 1918 roku, choć jego wojska musiały oddawać kolejne dywizje na potrzeby wiosennej ofensywy Ludendorffa. Na jego odcinek Foch zaplanował na połowę listopada 1918 roku wielką francusko-amerykańską ofensywę w Lotaryngii, do której nie doszło z powodu [rozejmu w Compiègne](/rozejm-w-compiegne). W lutym 1918 roku dostał dębowe liście do Pour le Mérite.
 
 ## Po wojnie
 

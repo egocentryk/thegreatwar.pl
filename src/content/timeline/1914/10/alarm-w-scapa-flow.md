@@ -17,7 +17,7 @@ Nerwowość miała swoje podstawy. 15 października niemiecki [U-9](https://pl.w
 
 ## Peryskop w porcie
 
-O 16.18 tego samego dnia jedna z baterii nadbrzeżnych zameldowała, że okręt podwodny jest tuż przy wejściu Switha do Scapa Flow. Baza nie miała jeszcze żadnych zapór przeciw okrętom podwodnym. Pancerniki otrzymały rozkaz natychmiastowego podniesienia pary, a po zatoce zaczęły krążyć niszczyciele, trawlery, holowniki i łodzie. Nocą wszystkie duże okręty, poza dwoma okrętami warsztatowymi, wyszły w morze. Okręt flagowy admirała [Johna Jellicoe](https://pl.wikipedia.org/wiki/John_Jellicoe), pancernik Iron Duke, dołączył do dwóch eskadr pancerników na zachód od Orkadów.
+O 16.18 tego samego dnia jedna z baterii nadbrzeżnych zameldowała, że okręt podwodny jest tuż przy wejściu Switha do Scapa Flow. Baza nie miała jeszcze żadnych zapór przeciw okrętom podwodnym. Pancerniki otrzymały rozkaz natychmiastowego podniesienia pary, a po zatoce zaczęły krążyć niszczyciele, trawlery, holowniki i łodzie. Nocą wszystkie duże okręty, poza dwoma okrętami warsztatowymi, wyszły w morze. Okręt flagowy admirała [Johna Jellicoe](/postacie/john-jellicoe), pancernik Iron Duke, dołączył do dwóch eskadr pancerników na zachód od Orkadów.
 
 W samej bazie polowanie trwało dalej. W południe 17 października wiceadmirał Stanley Colville, który kierował poszukiwaniami, zameldował, że okręt podwodny najprawdopodobniej jest w Scapa Flow, ale nie udało się go namierzyć. Marynarze z kilku niszczycieli i kanonierki Leda twierdzili, że widzieli peryskop, a do rzekomych celów oddano wiele strzałów. Meldowano nawet o torpedzie wystrzelonej w stronę jednego ze ścigających okrętów. Później okazało się, że przypadkowo odpalił ją jeden z brytyjskich niszczycieli.
 

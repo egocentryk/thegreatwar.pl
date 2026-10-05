@@ -33,6 +33,6 @@ Według szacunków historyków Austro-Węgry straciły około 15 tysięcy żołn
 
 ## Znaczenie
 
-Kraśnik dał Austro-Węgrom chwilę radości po klęsce w Serbii. Dankl został bohaterem, a później otrzymał tytuł z przydomkiem „von Krasnik”. Generał Salza stracił dowództwo, a na jego miejsce przyszedł generał [Aleksiej Ewert](https://pl.wikipedia.org/wiki/Aleksiej_Ewert). Kilka dni później austro-węgierska 4 Armia odniosła zwycięstwo pod Komarowem.
+Kraśnik dał Austro-Węgrom chwilę radości po klęsce w Serbii. Dankl został bohaterem, a później otrzymał tytuł z przydomkiem „von Krasnik”. Generał Salza stracił dowództwo, a na jego miejsce przyszedł generał [Aleksiej Ewert](/postacie/aleksiej-ewert). Kilka dni później austro-węgierska 4 Armia odniosła zwycięstwo pod Komarowem.
 
 Sukcesy na północy okazały się jednak krótkotrwałe. Na wschodzie, pod Lwowem, Rosjanie rozbijali słabsze armie austro-węgierskie, a na początku września zajęli miasto. Po nieudanych walkach pod Rawą Ruską Conrad musiał nakazać odwrót całego frontu za San. Po obu stronach frontu walczyło wielu Polaków, poborowych armii rosyjskiej i austro-węgierskiej.

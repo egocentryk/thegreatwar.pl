@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-15 maja 1917 roku Rada Ministrów Francji odwołała generała [Roberta Nivelle'a](https://pl.wikipedia.org/wiki/Robert_Nivelle) ze stanowiska wodza naczelnego armii Północy i Północnego Wschodu, czyli wszystkich wojsk francuskich we Francji. Dekretem z tego dnia jego miejsce zajął generał [Philippe Pétain](/postacie/philippe-petain), od dwóch tygodni [szef sztabu generalnego](/petain-szefem-sztabu-generalnego) i doradca wojskowy rządu. Na stanowisku szefa sztabu generalnego zastąpił go generał [Ferdinand Foch](/postacie/ferdinand-foch). Miesiąc po rozpoczęciu ofensywy, która miała jednym ciosem rozstrzygnąć wojnę, armią francuską pokierował generał znany z tego, że oszczędzał życie żołnierzy. Zmiana przyszła w ostatniej chwili, bo w armii [zaczęły się już bunty](/poczatek-buntow-w-armii-francuskiej).
+15 maja 1917 roku Rada Ministrów Francji odwołała generała [Roberta Nivelle'a](/postacie/robert-nivelle) ze stanowiska wodza naczelnego armii Północy i Północnego Wschodu, czyli wszystkich wojsk francuskich we Francji. Dekretem z tego dnia jego miejsce zajął generał [Philippe Pétain](/postacie/philippe-petain), od dwóch tygodni [szef sztabu generalnego](/petain-szefem-sztabu-generalnego) i doradca wojskowy rządu. Na stanowisku szefa sztabu generalnego zastąpił go generał [Ferdinand Foch](/postacie/ferdinand-foch). Miesiąc po rozpoczęciu ofensywy, która miała jednym ciosem rozstrzygnąć wojnę, armią francuską pokierował generał znany z tego, że oszczędzał życie żołnierzy. Zmiana przyszła w ostatniej chwili, bo w armii [zaczęły się już bunty](/poczatek-buntow-w-armii-francuskiej).
 
 ## Nivelle nie chce odejść
 

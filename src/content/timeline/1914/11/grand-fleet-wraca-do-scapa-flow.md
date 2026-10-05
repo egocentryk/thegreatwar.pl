@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wydarzeń wojny odnotowała pod datą 3 listopada 1914 roku rozkaz powrotu [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) do [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady). Od dwóch tygodni główne siły floty stacjonowały w zatoce [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) w północnej Irlandii i w Loch na Keal na wyspie Mull, dokąd admirał [John Jellicoe](https://pl.wikipedia.org/wiki/John_Jellicoe) [przeniósł je w obawie przed U-Bootami](/grand-fleet-opuszcza-scapa-flow).
+Brytyjska kronika wydarzeń wojny odnotowała pod datą 3 listopada 1914 roku rozkaz powrotu [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) do [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady). Od dwóch tygodni główne siły floty stacjonowały w zatoce [Lough Swilly](https://pl.wikipedia.org/wiki/Lough_Swilly) w północnej Irlandii i w Loch na Keal na wyspie Mull, dokąd admirał [John Jellicoe](/postacie/john-jellicoe) [przeniósł je w obawie przed U-Bootami](/grand-fleet-opuszcza-scapa-flow).
 
 Jellicoe spędził 2 listopada na naradzie w Admiralicji z Pierwszym Lordem Admiralicji Winstonem Churchillem i nowym Pierwszym Lordem Morskim Johnem Fisherem. Omawiano między innymi obronę baz floty i liczbę trawlerów potrzebnych do patrolowania wód wokół Orkadów i Szetlandów. Gdy w południe 3 listopada wrócił do Lough Swilly, zastał flotę z rozkazem Admiralicji, by natychmiast płynąć do Scapa Flow. Rozkaz wydano najpewniej w reakcji na wiadomości o [niemieckim wypadzie pod Yarmouth](/niemiecki-rajd-na-yarmouth). Po przybyciu Jellicoe go odwołano, a decyzję o ruchach floty pozostawiono jemu.
 

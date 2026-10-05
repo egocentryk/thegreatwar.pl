@@ -10,7 +10,7 @@ milestone: true
 draft: false
 ---
 
-21 listopada 1916 roku wieczorem w [pałacu Schönbrunn](https://pl.wikipedia.org/wiki/Pałac_Schönbrunn) pod Wiedniem zmarł cesarz Austrii i król Węgier [Franciszek Józef I](/postacie/franciszek-jozef-i). Miał 86 lat i panował od 2 grudnia 1848 roku, a więc prawie 68 lat, dłużej niż którykolwiek inny władca z dynastii Habsburgów. Dla większości jego poddanych był jedynym monarchą, jakiego kiedykolwiek znali. Odszedł w trzecim roku wojny, którą sam wypowiedział Serbii latem 1914 roku i której końca nie było widać. Tego samego wieczoru cesarzem i królem został z mocy prawa 29-letni arcyksiążę [Karol](https://pl.wikipedia.org/wiki/Karol_I_Habsburg), wnuk jego brata.
+21 listopada 1916 roku wieczorem w [pałacu Schönbrunn](https://pl.wikipedia.org/wiki/Pałac_Schönbrunn) pod Wiedniem zmarł cesarz Austrii i król Węgier [Franciszek Józef I](/postacie/franciszek-jozef-i). Miał 86 lat i panował od 2 grudnia 1848 roku, a więc prawie 68 lat, dłużej niż którykolwiek inny władca z dynastii Habsburgów. Dla większości jego poddanych był jedynym monarchą, jakiego kiedykolwiek znali. Odszedł w trzecim roku wojny, którą sam wypowiedział Serbii latem 1914 roku i której końca nie było widać. Tego samego wieczoru cesarzem i królem został z mocy prawa 29-letni arcyksiążę [Karol](/postacie/karol-i-habsburg), wnuk jego brata.
 
 ## Ostatnie dni
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 stycznia 1917 roku po południu dwie małe brytyjskie kolumny, podpułkowników Lyalla i Dyke'a, natrafiły na Niemców na północ od Beho-Beho, porośniętych buszem wzgórz w dolinie [Rufidżi](https://pl.wikipedia.org/wiki/Rufidżi), i walczyły z nimi do zmroku. Tego samego dnia rano, kilkadziesiąt kilometrów dalej na zachód, południowoafrykańska brygada generała Bevesa przeprawiła się przez Rufidżi na składanych łodziach. Brytyjska chronologia wojny notuje „sprawę pod Beho-Beho” pod 3 i 4 stycznia. Był to trzeci dzień nowej ofensywy generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts), która miała wreszcie zamknąć niemiecki oddział w kotle między jego kolumnami a wielką rzeką.
+3 stycznia 1917 roku po południu dwie małe brytyjskie kolumny, podpułkowników Lyalla i Dyke'a, natrafiły na Niemców na północ od Beho-Beho, porośniętych buszem wzgórz w dolinie [Rufidżi](https://pl.wikipedia.org/wiki/Rufidżi), i walczyły z nimi do zmroku. Tego samego dnia rano, kilkadziesiąt kilometrów dalej na zachód, południowoafrykańska brygada generała Bevesa przeprawiła się przez Rufidżi na składanych łodziach. Brytyjska chronologia wojny notuje „sprawę pod Beho-Beho” pod 3 i 4 stycznia. Był to trzeci dzień nowej ofensywy generała [Jana Smutsa](/postacie/jan-smuts), która miała wreszcie zamknąć niemiecki oddział w kotle między jego kolumnami a wielką rzeką.
 
 ## Nowa ofensywa
 

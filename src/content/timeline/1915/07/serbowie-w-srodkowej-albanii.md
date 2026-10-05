@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 4 lipca 1915 roku, że wojska serbskie zajęły [Durrës](https://pl.wikipedia.org/wiki/Durrës), siedzibę rządu [Esada Paszy Toptaniego](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani). Pod 17 lipca dodaje, że na prośbę rządu włoskiego Serbowie miasto opuścili, a pod 31 sierpnia, że zajęli je ponownie. Nie znaleźliśmy potwierdzenia żadnej z tych informacji. Brytyjski znawca Albanii Joseph Swire pisał w 1929 roku, że Serbowie opanowali całą środkową część kraju, ale w porozumieniu z Esadem i z obawy przed komplikacjami z Włochami do Durrës nie weszli. Potwierdzają to włoskie dokumenty dyplomatyczne z lata 1915 roku.
+Brytyjska chronologia wojny notuje pod 4 lipca 1915 roku, że wojska serbskie zajęły [Durrës](https://pl.wikipedia.org/wiki/Durrës), siedzibę rządu [Esada Paszy Toptaniego](/postacie/esad-pasza-toptani). Pod 17 lipca dodaje, że na prośbę rządu włoskiego Serbowie miasto opuścili, a pod 31 sierpnia, że zajęli je ponownie. Nie znaleźliśmy potwierdzenia żadnej z tych informacji. Brytyjski znawca Albanii Joseph Swire pisał w 1929 roku, że Serbowie opanowali całą środkową część kraju, ale w porozumieniu z Esadem i z obawy przed komplikacjami z Włochami do Durrës nie weszli. Potwierdzają to włoskie dokumenty dyplomatyczne z lata 1915 roku.
 
 ## Wyprawa przeciw powstańcom
 

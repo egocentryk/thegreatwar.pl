@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-28 sierpnia 1914 roku w [Zatoce Helgolandzkiej](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), u wybrzeży Niemiec, doszło do pierwszej dużej bitwy morskiej I wojny światowej. Brytyjskie niszczyciele, lekkie krążowniki i okręty podwodne zaatakowały niemieckie patrole w pobliżu wyspy [Helgoland](https://pl.wikipedia.org/wiki/Helgoland), a krążowniki liniowe wiceadmirała [Davida Beatty'ego](https://pl.wikipedia.org/wiki/David_Beatty) przesądziły o wyniku starcia. Niemcy stracili lekkie krążowniki SMS „Mainz”, SMS „Cöln” i SMS [„Ariadne”](https://pl.wikipedia.org/wiki/SMS_Ariadne_(1900)) oraz torpedowiec V187. Brytyjczycy nie stracili żadnego okrętu.
+28 sierpnia 1914 roku w [Zatoce Helgolandzkiej](https://pl.wikipedia.org/wiki/Zatoka_Helgolandzka), u wybrzeży Niemiec, doszło do pierwszej dużej bitwy morskiej I wojny światowej. Brytyjskie niszczyciele, lekkie krążowniki i okręty podwodne zaatakowały niemieckie patrole w pobliżu wyspy [Helgoland](https://pl.wikipedia.org/wiki/Helgoland), a krążowniki liniowe wiceadmirała [Davida Beatty'ego](/postacie/david-beatty) przesądziły o wyniku starcia. Niemcy stracili lekkie krążowniki SMS „Mainz”, SMS „Cöln” i SMS [„Ariadne”](https://pl.wikipedia.org/wiki/SMS_Ariadne_(1900)) oraz torpedowiec V187. Brytyjczycy nie stracili żadnego okrętu.
 
 ## Plan komodorów
 

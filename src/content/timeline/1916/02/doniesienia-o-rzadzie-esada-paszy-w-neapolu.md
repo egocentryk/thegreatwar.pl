@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 28 lutego 1916 roku, że albański rząd tymczasowy [Esada Paszy Toptaniego](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani) ustanowił swoją siedzibę w [Neapolu](https://pl.wikipedia.org/wiki/Neapol). Cztery dni wcześniej Esad [opuścił Durrës](/rzad-esada-paszy-opuszcza-durres) na pokładzie włoskiego niszczyciela, a 27 lutego miasto [zajęli Austriacy](/austriacy-zajmuja-durres). Dostępne źródła nie opisują jednak żadnego formalnego aktu z 28 lutego. Pokazują raczej rząd bez kraju, którego szef przez kolejne tygodnie podróżował między Włochami a Francją.
+Brytyjska chronologia wojny notuje pod 28 lutego 1916 roku, że albański rząd tymczasowy [Esada Paszy Toptaniego](/postacie/esad-pasza-toptani) ustanowił swoją siedzibę w [Neapolu](https://pl.wikipedia.org/wiki/Neapol). Cztery dni wcześniej Esad [opuścił Durrës](/rzad-esada-paszy-opuszcza-durres) na pokładzie włoskiego niszczyciela, a 27 lutego miasto [zajęli Austriacy](/austriacy-zajmuja-durres). Dostępne źródła nie opisują jednak żadnego formalnego aktu z 28 lutego. Pokazują raczej rząd bez kraju, którego szef przez kolejne tygodnie podróżował między Włochami a Francją.
 
 Esad przypłynął najpierw do [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), a 26 lutego przyjechał do [Rzymu](https://pl.wikipedia.org/wiki/Rzym). Towarzyszyło mu tylko kilka osób. Około trzystu jego żołnierzy miało dopłynąć do Włoch osobnym parowcem. Rząd włoski od tygodni starał się, by pasza schronił się właśnie w Italii, a nie we Wlorze, gdzie stał włoski korpus, ani pod opieką Francuzów, którzy też proponowali mu ewakuację. Włoscy dowódcy i dyplomaci podejrzewali, że Francja chce zyskać wpływ na Esada, by osłabić pozycję Włoch w Albanii.
 

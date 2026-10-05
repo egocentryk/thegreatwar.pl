@@ -15,7 +15,7 @@ draft: false
 
 ## Wyprawa Halila
 
-[Halil Bej](https://pl.wikipedia.org/wiki/Halil_Kut), wuj ministra wojny Envera Paszy, prowadził do Persji tzw. 1 Korpus Ekspedycyjny, który miał wyprzeć Rosjan z perskiego Azerbejdżanu i zagrozić od południa ich frontowi na [Kaukazie](https://pl.wikipedia.org/wiki/Kampania_kaukaska). W połowie kwietnia jego czołowe oddziały [dotarły do Urmii](/turcy-zajmuja-urmie), a stamtąd ruszyły na północ, na Salmas. Rosjanie mieli w tej części Persji niewiele wojska. Dowodzący w Azerbejdżanie generał Fiodor Czernozubow rozproszył swoje siły po garnizonach, a część piechoty odesłał z powodu trudności z zaopatrzeniem do [Dżolfy](https://pl.wikipedia.org/wiki/Dżolfa) nad Araksem. Pod Dilmanem stał według brytyjskich historyków W.E.D. Allena i Pawła Muratowa tylko jeden batalion piechoty, ormiańska drużyna ochotnicza i sześć dział.
+[Halil Bej](/postacie/halil-kut), stryj ministra wojny Envera Paszy, prowadził do Persji tzw. 1 Korpus Ekspedycyjny, który miał wyprzeć Rosjan z perskiego Azerbejdżanu i zagrozić od południa ich frontowi na [Kaukazie](https://pl.wikipedia.org/wiki/Kampania_kaukaska). W połowie kwietnia jego czołowe oddziały [dotarły do Urmii](/turcy-zajmuja-urmie), a stamtąd ruszyły na północ, na Salmas. Rosjanie mieli w tej części Persji niewiele wojska. Dowodzący w Azerbejdżanie generał Fiodor Czernozubow rozproszył swoje siły po garnizonach, a część piechoty odesłał z powodu trudności z zaopatrzeniem do [Dżolfy](https://pl.wikipedia.org/wiki/Dżolfa) nad Araksem. Pod Dilmanem stał według brytyjskich historyków W.E.D. Allena i Pawła Muratowa tylko jeden batalion piechoty, ormiańska drużyna ochotnicza i sześć dział.
 
 ## Przebieg walk
 

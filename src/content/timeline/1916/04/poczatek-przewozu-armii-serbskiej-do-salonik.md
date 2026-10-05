@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 15 kwietnia 1916 roku, że kwatera główna armii serbskiej wylądowała w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki), przybywając z [Korfu](https://pl.wikipedia.org/wiki/Korfu). Tej daty nie udało się potwierdzić w innych źródłach. Zgadzają się one natomiast, że w połowie kwietnia zaczął się przewóz odtworzonej armii serbskiej z wyspy na [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki). Brytyjska historia oficjalna działań w Macedonii podaje, że ruszył 11 kwietnia, serbskie opracowania mówią o 12 lub 13 kwietnia. Według serbskich relacji szef sztabu naczelnego dowództwa, generał [Petar Bojović](https://pl.wikipedia.org/wiki/Petar_Bojović), przybył do Salonik z częścią swojego sztabu dopiero pod koniec maja, gdy przewóz dobiegał końca. Możliwe, że chronologia odnotowuje przybycie pierwszych oficerów, którzy mieli przygotować przyjęcie wojska, ale przeniesienie całego dowództwa trwało tygodnie.
+Brytyjska chronologia wojny notuje pod 15 kwietnia 1916 roku, że kwatera główna armii serbskiej wylądowała w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki), przybywając z [Korfu](https://pl.wikipedia.org/wiki/Korfu). Tej daty nie udało się potwierdzić w innych źródłach. Zgadzają się one natomiast, że w połowie kwietnia zaczął się przewóz odtworzonej armii serbskiej z wyspy na [front salonicki](https://pl.wikipedia.org/wiki/Front_salonicki). Brytyjska historia oficjalna działań w Macedonii podaje, że ruszył 11 kwietnia, serbskie opracowania mówią o 12 lub 13 kwietnia. Według serbskich relacji szef sztabu naczelnego dowództwa, generał [Petar Bojović](/postacie/petar-bojovic), przybył do Salonik z częścią swojego sztabu dopiero pod koniec maja, gdy przewóz dobiegał końca. Możliwe, że chronologia odnotowuje przybycie pierwszych oficerów, którzy mieli przygotować przyjęcie wojska, ale przeniesienie całego dowództwa trwało tygodnie.
 
 ## Armia gotowa do drogi
 
@@ -21,7 +21,7 @@ Przewóz był trudny. Grecja [nie zgodziła się](/grecja-odmawia-przejazdu-armi
 
 ## Regent na Korfu
 
-Regent [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić), formalnie naczelny wódz armii serbskiej, był w tych dniach w podróży po stolicach sprzymierzonych. Odwiedził między innymi Londyn i Rzym, a według korespondenta agencji Reutera 17 kwietnia po południu wrócił na Korfu. Przyjęli go ministrowie, dyplomaci i przedstawiciele sprzymierzonych armii, a potem na esplanadzie przed regentem przedefilowały serbskie oddziały. Reuter pisał, że wyglądały na młodą armię pełną zapału, która zupełnie doszła do siebie po niedawnej kampanii.
+Regent [Aleksander](/postacie/aleksander-i-karadziordziewic), formalnie naczelny wódz armii serbskiej, był w tych dniach w podróży po stolicach sprzymierzonych. Odwiedził między innymi Londyn i Rzym, a według korespondenta agencji Reutera 17 kwietnia po południu wrócił na Korfu. Przyjęli go ministrowie, dyplomaci i przedstawiciele sprzymierzonych armii, a potem na esplanadzie przed regentem przedefilowały serbskie oddziały. Reuter pisał, że wyglądały na młodą armię pełną zapału, która zupełnie doszła do siebie po niedawnej kampanii.
 
 ## Długa przeprowadzka
 

@@ -25,7 +25,7 @@ Według bułgarskiego historyka Georgiego Markowa 1 października delegat na rok
 
 ## Wyjazd
 
-Ferdynand niezwłocznie opuścił Bułgarię pociągiem. Chciał zamieszkać w swoich majątkach na Węgrzech, ale cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) nie zgodził się na jego pobyt w Austro-Węgrzech. Były car pojechał więc do rodowego [Coburga](https://pl.wikipedia.org/wiki/Coburg) w Niemczech, gdzie według bułgarskich opracowań zamieszkał 7 października. Przeżył tam jeszcze 30 lat. Zmarł w 1948 roku.
+Ferdynand niezwłocznie opuścił Bułgarię pociągiem. Chciał zamieszkać w swoich majątkach na Węgrzech, ale cesarz [Karol I](/postacie/karol-i-habsburg) nie zgodził się na jego pobyt w Austro-Węgrzech. Były car pojechał więc do rodowego [Coburga](https://pl.wikipedia.org/wiki/Coburg) w Niemczech, gdzie według bułgarskich opracowań zamieszkał 7 października. Przeżył tam jeszcze 30 lat. Zmarł w 1948 roku.
 
 ## Monarchia ocalona
 

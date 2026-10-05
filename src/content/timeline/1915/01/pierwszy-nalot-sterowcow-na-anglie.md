@@ -17,7 +17,7 @@ Wieczorem 19 stycznia 1915 roku nad hrabstwem [Norfolk](https://pl.wikipedia.org
 
 Brytyjczycy spodziewali się zeppelinów od pierwszych dni wojny. W grudniu 1914 roku [nad ujściem Humbera dostrzeżono niemiecki sterowiec](/niemiecki-sterowiec-u-wybrzezy-anglii), a niemieckie wodnosamoloty z Belgii [zrzuciły pierwsze bomby w okolicach Dover](/pierwszy-niemiecki-nalot-na-anglie). Właściwych nalotów sterowców wciąż jednak nie było. Na przeszkodzie stał cesarz [Wilhelm II](/postacie/wilhelm-ii), który długo nie zgadzał się na bombardowanie Wysp Brytyjskich.
 
-Zgodę dowództwo marynarki uzyskało dopiero na początku stycznia 1915 roku. Była ona ograniczona: sterowce mogły atakować doki, magazyny i obiekty wojskowe na wybrzeżu Anglii oraz nad dolną [Tamizą](https://pl.wikipedia.org/wiki/Tamiza), ale nie Londyn. Kierujący lotnictwem sterowcowym marynarki [Peter Strasser](https://pl.wikipedia.org/wiki/Peter_Strasser) od dawna przygotowywał się do takich ataków. Na cele pierwszej wyprawy wyznaczono okolice ujścia [Humbera](https://pl.wikipedia.org/wiki/Humber) z portem [Hull](https://pl.wikipedia.org/wiki/Kingston_upon_Hull) oraz ujście Tamizy.
+Zgodę dowództwo marynarki uzyskało dopiero na początku stycznia 1915 roku. Była ona ograniczona: sterowce mogły atakować doki, magazyny i obiekty wojskowe na wybrzeżu Anglii oraz nad dolną [Tamizą](https://pl.wikipedia.org/wiki/Tamiza), ale nie Londyn. Kierujący lotnictwem sterowcowym marynarki [Peter Strasser](/postacie/peter-strasser) od dawna przygotowywał się do takich ataków. Na cele pierwszej wyprawy wyznaczono okolice ujścia [Humbera](https://pl.wikipedia.org/wiki/Humber) z portem [Hull](https://pl.wikipedia.org/wiki/Kingston_upon_Hull) oraz ujście Tamizy.
 
 ## Start i lot nad morzem
 

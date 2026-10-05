@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W połowie czerwca 1916 roku wojska generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) zajęły [Handeni](https://pl.wikipedia.org/wiki/Handeni), ważny węzeł dróg w północno-wschodniej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Źródła różnią się o jeden dzień. Raport Smutsa z października 1916 roku i brytyjska chronologia wojny podają 19 czerwca. Brytyjska historia oficjalna (Hordern) pisze, że kolumna generała brygady S. H. Shepparda weszła do Handeni bez walki już 18 czerwca o 10.30. Tak czy inaczej Niemcy opuścili osadę bez boju.
+W połowie czerwca 1916 roku wojska generała [Jana Smutsa](/postacie/jan-smuts) zajęły [Handeni](https://pl.wikipedia.org/wiki/Handeni), ważny węzeł dróg w północno-wschodniej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Źródła różnią się o jeden dzień. Raport Smutsa z października 1916 roku i brytyjska chronologia wojny podają 19 czerwca. Brytyjska historia oficjalna (Hordern) pisze, że kolumna generała brygady S. H. Shepparda weszła do Handeni bez walki już 18 czerwca o 10.30. Tak czy inaczej Niemcy opuścili osadę bez boju.
 
 ## Przez bezwodny step
 

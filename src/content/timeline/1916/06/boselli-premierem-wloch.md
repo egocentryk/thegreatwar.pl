@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje, że 15 czerwca 1916 roku [Paolo Boselli](https://pl.wikipedia.org/wiki/Paolo_Boselli) został premierem Włoch. Tego dnia, według austriackiej historii oficjalnej, król [Wiktor Emanuel III](https://pl.wikipedia.org/wiki/Wiktor_Emanuel_III) powierzył mu misję utworzenia rządu po [dymisji Antonia Salandry](/dymisja-salandry). Skład gabinetu był gotowy 17 czerwca, a nowi ministrowie złożyli przysięgę przed królem 18 czerwca. Od tego dnia włoskie źródła liczą urzędowanie rządu Boselliego, choć niektóre opracowania podają 19 czerwca.
+Brytyjska chronologia wojny podaje, że 15 czerwca 1916 roku [Paolo Boselli](https://pl.wikipedia.org/wiki/Paolo_Boselli) został premierem Włoch. Tego dnia, według austriackiej historii oficjalnej, król [Wiktor Emanuel III](/postacie/wiktor-emanuel-iii) powierzył mu misję utworzenia rządu po [dymisji Antonia Salandry](/dymisja-salandry). Skład gabinetu był gotowy 17 czerwca, a nowi ministrowie złożyli przysięgę przed królem 18 czerwca. Od tego dnia włoskie źródła liczą urzędowanie rządu Boselliego, choć niektóre opracowania podają 19 czerwca.
 
 ## Najstarszy z posłów
 

@@ -29,7 +29,7 @@ Około 3.30 w nocy Smith-Dorrien uznał, że dalszy marsz za dnia, z nieprzyjaci
 
 ## Siły
 
-Po stronie brytyjskiej walczyło około 40 tysięcy żołnierzy: według zestawień przytaczanych przez historyków około 40 batalionów piechoty i ponad 240 dział. Niemcy wprowadzali do walki swoje siły stopniowo. Na początku były to głównie IV Korpus generała [Friedricha Sixta von Armina](https://pl.wikipedia.org/wiki/Friedrich_Sixt_von_Armin) i II Korpus Kawalerii generała [Georga von der Marwitza](https://pl.wikipedia.org/wiki/Georg_von_der_Marwitz), a w ciągu dnia nadciągały kolejne jednostki 1 Armii. Kluck był przekonany, że Brytyjczycy uciekają na zachód, w stronę portów nad kanałem La Manche, i początkowo nie spodziewał się zorganizowanej obrony.
+Po stronie brytyjskiej walczyło około 40 tysięcy żołnierzy: według zestawień przytaczanych przez historyków około 40 batalionów piechoty i ponad 240 dział. Niemcy wprowadzali do walki swoje siły stopniowo. Na początku były to głównie IV Korpus generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin) i II Korpus Kawalerii generała [Georga von der Marwitza](https://pl.wikipedia.org/wiki/Georg_von_der_Marwitz), a w ciągu dnia nadciągały kolejne jednostki 1 Armii. Kluck był przekonany, że Brytyjczycy uciekają na zachód, w stronę portów nad kanałem La Manche, i początkowo nie spodziewał się zorganizowanej obrony.
 
 ## Przebieg
 

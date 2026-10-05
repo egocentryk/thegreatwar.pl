@@ -26,7 +26,7 @@ Na południu 8 września XV i XVI Korpus 6 Armii przekroczyły Drinę na odcinku
 
 Walki nad Driną wyglądały inaczej niż sierpniowa bitwa na górze Cer. Toczyły się w stromych, zalesionych górach, poprzecinanych głębokimi dolinami, gdzie trudno było przerzucać artylerię i zaopatrzenie. Każdy grzbiet i każdy szczyt stawał się osobnym polem bitwy. Obie strony szybko zaczęły kopać okopy, a na niektórych odcinkach dzieliło je tylko kilkadziesiąt, a nawet kilka metrów.
 
-Szef sztabu armii serbskiej, wojewoda [Radomir Putnik](/postacie/radomir-putnik), uznał, że zagrożenie od zachodu jest groźniejsze niż korzyści z trwającej właśnie wyprawy do Sremu. 11 września nakazał odwrót za Sawę, a wojska 1 Armii generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović) skierował forsownym marszem nad Drinę, przeciw 6 Armii.
+Szef sztabu armii serbskiej, wojewoda [Radomir Putnik](/postacie/radomir-putnik), uznał, że zagrożenie od zachodu jest groźniejsze niż korzyści z trwającej właśnie wyprawy do Sremu. 11 września nakazał odwrót za Sawę, a wojska 1 Armii generała [Petara Bojovicia](/postacie/petar-bojovic) skierował forsownym marszem nad Drinę, przeciw 6 Armii.
 
 ## Mačkov Kamen i wojna okopowa
 

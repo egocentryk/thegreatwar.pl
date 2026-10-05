@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Po [dymisji Mórica Esterházy’ego](/dymisja-esterhazyego) król [Karol IV](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) powierzył rząd Węgier Sándorowi Wekerlemu. Węgierskie zestawienia podają jako dzień nominacji 20 sierpnia 1917 roku, brytyjska chronologia wojny 21 sierpnia, a ministrowie nowego gabinetu formalnie objęli urzędy 23 sierpnia. Dla 68-letniego Wekerlego była to już trzecia kadencja na czele rządu.
+Po [dymisji Mórica Esterházy’ego](/dymisja-esterhazyego) król [Karol IV](/postacie/karol-i-habsburg) powierzył rząd Węgier Sándorowi Wekerlemu. Węgierskie zestawienia podają jako dzień nominacji 20 sierpnia 1917 roku, brytyjska chronologia wojny 21 sierpnia, a ministrowie nowego gabinetu formalnie objęli urzędy 23 sierpnia. Dla 68-letniego Wekerlego była to już trzecia kadencja na czele rządu.
 
 Nowy premier był postacią wyjątkową w węgierskiej polityce. Urodził się w 1848 roku w [Mórze](https://pl.wikipedia.org/wiki/Mór) w rodzinie pochodzenia szwabskiego. Jego ojciec był zarządcą dóbr hrabiów Lambergów. Karierę zrobił w ministerstwie finansów. Jako minister finansów przygotował w 1892 roku reformę walutową, która oparła węgierski pieniądz na złocie, a jesienią tego samego roku objął rząd jako pierwszy premier Węgier niepochodzący ze szlachty. Za jego pierwszej kadencji parlament uchwalił ustawy wyznaniowe, które wprowadziły na Węgrzech obowiązkowy ślub cywilny. Drugi raz rządził w latach 1906–1910 jako szef koalicji dawnej opozycji. Uchodził za znakomitego fachowca od finansów i zręcznego negocjatora, bez silnego zaplecza we własnej partii.
 

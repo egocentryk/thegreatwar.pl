@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-3 maja 1917 roku (20 kwietnia według kalendarza juliańskiego) piotrogrodzkie gazety wydrukowały notę, którą minister spraw zagranicznych [Pawieł Milukow](https://pl.wikipedia.org/wiki/Pawieł_Milukow) dwa dni wcześniej rozesłał rządom sprzymierzonym. Zapewniał w niej, że rewolucja nie osłabiła udziału Rosji we wspólnej walce i że naród rosyjski chce doprowadzić wojnę „do zdecydowanego zwycięstwa”. W koszarach i fabrykach odczytano to jako zdradę obietnic złożonych przez rząd miesiąc wcześniej. Jeszcze tego dnia uzbrojone oddziały garnizonu przemaszerowały pod siedzibę [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), żądając dymisji Milukowa. Tak zaczął się kryzys kwietniowy, nazwany tak od juliańskiej daty, pierwsze wielkie przesilenie po [rewolucji lutowej](/rewolucja-lutowa).
+3 maja 1917 roku (20 kwietnia według kalendarza juliańskiego) piotrogrodzkie gazety wydrukowały notę, którą minister spraw zagranicznych [Pawieł Milukow](/postacie/pawiel-milukow) dwa dni wcześniej rozesłał rządom sprzymierzonym. Zapewniał w niej, że rewolucja nie osłabiła udziału Rosji we wspólnej walce i że naród rosyjski chce doprowadzić wojnę „do zdecydowanego zwycięstwa”. W koszarach i fabrykach odczytano to jako zdradę obietnic złożonych przez rząd miesiąc wcześniej. Jeszcze tego dnia uzbrojone oddziały garnizonu przemaszerowały pod siedzibę [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji), żądając dymisji Milukowa. Tak zaczął się kryzys kwietniowy, nazwany tak od juliańskiej daty, pierwsze wielkie przesilenie po [rewolucji lutowej](/rewolucja-lutowa).
 
 ## Nota z 1 maja
 

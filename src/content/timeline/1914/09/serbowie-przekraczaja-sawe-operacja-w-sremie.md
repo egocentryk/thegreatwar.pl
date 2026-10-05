@@ -18,7 +18,7 @@ draft: false
 
 Po wyparciu Austriaków z kraju w sierpniu serbskie dowództwo nie paliło się do ofensywy. Armia była zmęczona, brakowało jej amunicji artyleryjskiej i sprzętu przeprawowego. Rosja i Francja naciskały jednak na Belgrad, by uderzył na Austro-Węgry i związał ich wojska, które inaczej mogłyby zostać przerzucone przeciw Rosjanom do Galicji. Do następcy tronu Aleksandra pisał w tej sprawie wielki książę [Mikołaj Mikołajewicz](/postacie/mikolaj-mikolajewicz), naczelny wódz armii rosyjskiej. Premier Nikola Pašić ustąpił, a szef sztabu wojewoda [Radomir Putnik](/postacie/radomir-putnik) przygotował ograniczoną ofensywę.
 
-Główne uderzenie miała wykonać 1 Armia generała [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović), która przeprawiała się przez Sawę w rejonie Kupinova, na zachód od Belgradu. Na zachód od niej, w pobliżu Mitrovicy, Dywizja Timocka I powołania z 2 Armii generała [Stepy Stepanovicia](/postacie/stepa-stepanovic) miała przeprowadzić przeprawę pozorną, by odwrócić uwagę Austriaków od głównego kierunku.
+Główne uderzenie miała wykonać 1 Armia generała [Petara Bojovicia](/postacie/petar-bojovic), która przeprawiała się przez Sawę w rejonie Kupinova, na zachód od Belgradu. Na zachód od niej, w pobliżu Mitrovicy, Dywizja Timocka I powołania z 2 Armii generała [Stepy Stepanovicia](/postacie/stepa-stepanovic) miała przeprowadzić przeprawę pozorną, by odwrócić uwagę Austriaków od głównego kierunku.
 
 ## Klęska pod Mitrovicą
 

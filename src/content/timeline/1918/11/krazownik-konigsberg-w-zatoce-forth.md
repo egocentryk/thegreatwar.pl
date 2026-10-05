@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 listopada 1918 roku do zatoki [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth) w Szkocji, gdzie stała brytyjska [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), wpłynął niemiecki lekki krążownik Königsberg. Przywiózł kontradmirała Hugona Meurera, pełnomocnika niemieckiej marynarki, który miał ustalić z dowódcą Grand Fleet admirałem [Davidem Beattym](https://pl.wikipedia.org/wiki/David_Beatty), jak wykonać morskie postanowienia [rozejmu z Compiègne](/rozejm-w-compiegne). Wieczorem, między siódmą a ósmą, Meurer i jego sztab weszli na pokład flagowego pancernika Beatty'ego, [Queen Elizabeth](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)). Brytyjska chronologia wojny notuje to spotkanie pod datą 15–16 listopada, bo rozmowy zaczęły się wieczorem 15 listopada, a skończyły następnego dnia.
+15 listopada 1918 roku do zatoki [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth) w Szkocji, gdzie stała brytyjska [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), wpłynął niemiecki lekki krążownik Königsberg. Przywiózł kontradmirała Hugona Meurera, pełnomocnika niemieckiej marynarki, który miał ustalić z dowódcą Grand Fleet admirałem [Davidem Beattym](/postacie/david-beatty), jak wykonać morskie postanowienia [rozejmu z Compiègne](/rozejm-w-compiegne). Wieczorem, między siódmą a ósmą, Meurer i jego sztab weszli na pokład flagowego pancernika Beatty'ego, [Queen Elizabeth](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)). Brytyjska chronologia wojny notuje to spotkanie pod datą 15–16 listopada, bo rozmowy zaczęły się wieczorem 15 listopada, a skończyły następnego dnia.
 
 ## Kto ma oddać flotę
 

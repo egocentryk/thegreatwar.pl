@@ -24,7 +24,7 @@ Bitwa nad [Mozą](https://pl.wikipedia.org/wiki/Moza) rozegrała się pod koniec
 
 ## Odwrót za Mozę
 
-W dniach 21–24 sierpnia 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) poniosły ciężką klęskę w [bitwie w Ardenach](/bitwy/bitwa-w-ardenach). Naprzeciw nich stały niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armia następcy tronu [Wilhelma](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)).
+W dniach 21–24 sierpnia 3 Armia generała [Pierre'a Ruffeya](https://pl.wikipedia.org/wiki/Pierre_Ruffey) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) poniosły ciężką klęskę w [bitwie w Ardenach](/bitwy/bitwa-w-ardenach). Naprzeciw nich stały niemiecka 4 Armia księcia [Albrechta Wirtemberskiego](/postacie/albrecht-wirtemberski) i 5 Armia następcy tronu [Wilhelma](/postacie/wilhelm-nastepca-tronu).
 
 24 sierpnia naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) nakazał 4 Armii wycofać się za Mozę. Wieczorem sztab armii polecił wysadzić mosty na Mozie i [Chiers](https://pl.wikipedia.org/wiki/Chiers) po przejściu ostatnich oddziałów. 25 sierpnia 4 Armia zajmowała pozycje na lewym brzegu rzeki, a saperzy niszczyli przeprawy. Tego samego dnia Joffre wydał Instrukcję ogólną nr 2, która zapowiadała stopniowy odwrót całego frontu i utworzenie nowej armii na lewym skrzydle. 3 Armia przeszła Mozę 26 sierpnia w ulewnym deszczu, między innymi przez most w Dun, który następnie wysadzono.
 

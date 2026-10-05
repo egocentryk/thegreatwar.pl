@@ -27,6 +27,6 @@ Niemiecka piechota bez trudu zajęła francuskie okopy. Był to jednak tylko lok
 
 ## Nowy rodzaj broni
 
-Sukces przekonał niemieckie dowództwo. Już w marcu 1915 roku Reddemann otrzymał do dyspozycji większą jednostkę, 3 Batalion Pionierów Gwardii, którego kompanie wyposażono w miotacze ognia. Wspierał go następca tronu [Wilhelm](https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)), dowódca 5 Armii, na której odcinku leżał Malancourt. Pododdziały miotaczy ognia przydzielano odtąd do natarć na szczególnie trudne pozycje, a od lata 1915 roku zetknęli się z nimi także Brytyjczycy we Flandrii.
+Sukces przekonał niemieckie dowództwo. Już w marcu 1915 roku Reddemann otrzymał do dyspozycji większą jednostkę, 3 Batalion Pionierów Gwardii, którego kompanie wyposażono w miotacze ognia. Wspierał go następca tronu [Wilhelm](/postacie/wilhelm-nastepca-tronu), dowódca 5 Armii, na której odcinku leżał Malancourt. Pododdziały miotaczy ognia przydzielano odtąd do natarć na szczególnie trudne pozycje, a od lata 1915 roku zetknęli się z nimi także Brytyjczycy we Flandrii.
 
 Francuzi szybko zaczęli budować własne miotacze. Pierwszy francuski atak z ich użyciem, przeprowadzony w czerwcu 1915 roku pod [Vauquois](https://pl.wikipedia.org/wiki/Vauquois) przez saperów wywodzących się z paryskiej straży pożarnej, zakończył się jednak niepowodzeniem. Niemcy pozostali mistrzami tej broni do końca wojny. W kolejnych latach ich pionierzy z miotaczami ognia przeprowadzili setki ataków.

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-10 sierpnia 1915 roku cesarz [Yoshihito](https://pl.wikipedia.org/wiki/Yoshihito) zatwierdził przebudowany rząd [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii). Na jego czele pozostał 77-letni premier [Shigenobu Ōkuma](https://pl.wikipedia.org/wiki/Shigenobu_Ōkuma), który po [odejściu Takaakiego Katō](/dymisja-takaakiego-kato) objął dodatkowo tekę ministra spraw zagranicznych. Była to rekonstrukcja wymuszona aferą korupcyjną byłego ministra spraw wewnętrznych Kanetake Ōury, po której pod koniec lipca cały gabinet złożył dymisję. Cesarz chciał jednak, by Ōkuma rządził dalej, i premier zdecydował się wymienić tylko część ministrów.
+10 sierpnia 1915 roku cesarz [Yoshihito](https://pl.wikipedia.org/wiki/Yoshihito) zatwierdził przebudowany rząd [Japonii](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii). Na jego czele pozostał 77-letni premier [Shigenobu Ōkuma](/postacie/shigenobu-okuma), który po [odejściu Takaakiego Katō](/dymisja-takaakiego-kato) objął dodatkowo tekę ministra spraw zagranicznych. Była to rekonstrukcja wymuszona aferą korupcyjną byłego ministra spraw wewnętrznych Kanetake Ōury, po której pod koniec lipca cały gabinet złożył dymisję. Cesarz chciał jednak, by Ōkuma rządził dalej, i premier zdecydował się wymienić tylko część ministrów.
 
 Zmiany objęły cztery resorty. Ministrem spraw wewnętrznych został urzędnik bez przynależności partyjnej Kitokurō Ichiki, ministrem finansów, w miejsce Reijirō Wakatsukiego, Tokitoshi Taketomi z rządzącej partii Rikken Dōshikai, a ministrem marynarki, w miejsce admirała Rokurō Yashiro, admirał Tomosaburō Katō, niespokrewniony z odchodzącym szefem dyplomacji. Pozostali ministrowie zachowali stanowiska.
 

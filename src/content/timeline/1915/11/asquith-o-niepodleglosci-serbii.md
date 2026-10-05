@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 listopada 1915 roku premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) wygłosił w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) długo zapowiadane przemówienie o stanie wojny. Czekano na nie od tygodni. Jesień przyniosła Brytyjczykom same złe wiadomości: wielka ofensywa pod Loos nie dała przełomu, z Gallipoli nadchodziły coraz bardziej ponure raporty, Bułgaria przystąpiła do wojny po stronie państw centralnych, a Serbia, [zaatakowana na początku października](/panstwa-centralne-atakuja-serbie), cofała się pod naporem trzech armii. W prasie mnożyły się ataki na rząd, a z gabinetu odszedł [Edward Carson](https://pl.wikipedia.org/wiki/Edward_Carson), który domagał się natychmiastowej pomocy dla Serbów. Rząd wydał potem przemówienie jako broszurę pod tytułem „How do we stand to-day?” („Jak stoimy dzisiaj?”).
+2 listopada 1915 roku premier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) wygłosił w [Izbie Gmin](https://pl.wikipedia.org/wiki/Izba_Gmin) długo zapowiadane przemówienie o stanie wojny. Czekano na nie od tygodni. Jesień przyniosła Brytyjczykom same złe wiadomości: wielka ofensywa pod Loos nie dała przełomu, z Gallipoli nadchodziły coraz bardziej ponure raporty, Bułgaria przystąpiła do wojny po stronie państw centralnych, a Serbia, [zaatakowana na początku października](/panstwa-centralne-atakuja-serbie), cofała się pod naporem trzech armii. W prasie mnożyły się ataki na rząd, a z gabinetu odszedł [Edward Carson](/postacie/edward-carson), który domagał się natychmiastowej pomocy dla Serbów. Rząd wydał potem przemówienie jako broszurę pod tytułem „How do we stand to-day?” („Jak stoimy dzisiaj?”).
 
 ## Ani oskarżony, ani pokutnik
 

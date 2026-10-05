@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 października 1915 roku brytyjski wysoki komisarz w Egipcie, sir Henry McMahon, podpisał w [Kairze](https://pl.wikipedia.org/wiki/Kair) list do [Husajna ibn Alego](https://pl.wikipedia.org/wiki/Husajn_Ibn_Ali), szarifa i emira Mekki. Był to czwarty z dziesięciu listów wymienionych między nimi w latach 1915–1916 i zdecydowanie najważniejszy. Wielka Brytania po raz pierwszy zgodziła się w nim rozmawiać o granicach przyszłego państwa arabskiego i obiecała „uznać i wspierać niepodległość Arabów”, choć z kilkoma zastrzeżeniami. Libański historyk George Antonius, który jako pierwszy opublikował całą korespondencję, nazwał ten list najważniejszym w całej korespondencji i być może najważniejszym dokumentem międzynarodowym w dziejach arabskiego ruchu narodowego.
+24 października 1915 roku brytyjski wysoki komisarz w Egipcie, sir Henry McMahon, podpisał w [Kairze](https://pl.wikipedia.org/wiki/Kair) list do [Husajna ibn Alego](/postacie/husajn-ibn-ali), szarifa i emira Mekki. Był to czwarty z dziesięciu listów wymienionych między nimi w latach 1915–1916 i zdecydowanie najważniejszy. Wielka Brytania po raz pierwszy zgodziła się w nim rozmawiać o granicach przyszłego państwa arabskiego i obiecała „uznać i wspierać niepodległość Arabów”, choć z kilkoma zastrzeżeniami. Libański historyk George Antonius, który jako pierwszy opublikował całą korespondencję, nazwał ten list najważniejszym w całej korespondencji i być może najważniejszym dokumentem międzynarodowym w dziejach arabskiego ruchu narodowego.
 
 ## Dlaczego McMahon zmienił zdanie
 

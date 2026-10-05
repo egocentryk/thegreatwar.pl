@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 sierpnia 1916 roku o świcie główne siły generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) wznowiły marsz na południe przez [Niemiecką Afrykę Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Od lipca stały nad rzeką Msiha, kilkadziesiąt kilometrów za [zajętym w czerwcu Handeni](/brytyjczycy-zajmuja-handeni). Przed nimi leżały góry Nguru, a za nimi dolina rzeki Wami i droga do [Morogoro](https://pl.wikipedia.org/wiki/Morogoro) na kolei centralnej. Smuts nie chciał atakować niemieckich pozycji od czoła. Postanowił obejść je szerokim łukiem przez góry i zamknąć Niemcom drogę odwrotu. Brytyjska chronologia wojny notuje ten dzień jako początek marszu przez góry Nguru.
+5 sierpnia 1916 roku o świcie główne siły generała [Jana Smutsa](/postacie/jan-smuts) wznowiły marsz na południe przez [Niemiecką Afrykę Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Od lipca stały nad rzeką Msiha, kilkadziesiąt kilometrów za [zajętym w czerwcu Handeni](/brytyjczycy-zajmuja-handeni). Przed nimi leżały góry Nguru, a za nimi dolina rzeki Wami i droga do [Morogoro](https://pl.wikipedia.org/wiki/Morogoro) na kolei centralnej. Smuts nie chciał atakować niemieckich pozycji od czoła. Postanowił obejść je szerokim łukiem przez góry i zamknąć Niemcom drogę odwrotu. Brytyjska chronologia wojny notuje ten dzień jako początek marszu przez góry Nguru.
 
 ## Pozycja pod Ruhungu
 

@@ -18,7 +18,7 @@ Najgłośniej o japońskich żołnierzach w Europie mówiono we Francji. Już w 
 
 ## Odmowa
 
-Propozycję przeanalizowały japońskie ministerstwa wojny i marynarki, po czym gabinet premiera [Shigenobu Ōkumy](https://pl.wikipedia.org/wiki/Shigenobu_Ōkuma) uznał, że Japonia nie może jej przyjąć. Minister spraw zagranicznych Katō Takaaki tłumaczył sojusznikom, że armia japońska służy wyłącznie obronie kraju, a wysyłanie jej daleko od domu w innym celu byłoby sprzeczne z podstawami jej ustroju. Podkreślano też, że japońska opinia publiczna nie czuje się zaangażowana w wojnę europejską, a większość parlamentu byłaby przeciwna takiej wyprawie. Najtwardszy sprzeciw zgłaszało dowództwo armii, które uważało wyprawę za niezwykle kosztowną i pozbawioną korzyści dla kraju.
+Propozycję przeanalizowały japońskie ministerstwa wojny i marynarki, po czym gabinet premiera [Shigenobu Ōkumy](/postacie/shigenobu-okuma) uznał, że Japonia nie może jej przyjąć. Minister spraw zagranicznych Katō Takaaki tłumaczył sojusznikom, że armia japońska służy wyłącznie obronie kraju, a wysyłanie jej daleko od domu w innym celu byłoby sprzeczne z podstawami jej ustroju. Podkreślano też, że japońska opinia publiczna nie czuje się zaangażowana w wojnę europejską, a większość parlamentu byłaby przeciwna takiej wyprawie. Najtwardszy sprzeciw zgłaszało dowództwo armii, które uważało wyprawę za niezwykle kosztowną i pozbawioną korzyści dla kraju.
 
 Japonia odrzuciła też wcześniejsze prośby o wysłanie floty na Morze Śródziemne. Jej okręty pomagały natomiast w pościgu za niemieckimi krążownikami na Pacyfiku i Oceanie Indyjskim oraz osłaniały konwoje z Australii i Nowej Zelandii.
 

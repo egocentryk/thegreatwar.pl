@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 listopada 1918 roku do [Belgradu](https://pl.wikipedia.org/wiki/Belgrad) wkroczyły wojska serbskiej 1 Armii wojewody [Petara Bojovicia](https://pl.wikipedia.org/wiki/Petar_Bojović). Stolica Serbii, [zdobyta przez Niemców i Austriaków](/zdobycie-belgradu) w październiku 1915 roku, była okupowana przez trzy lata. W Serbii obowiązywał jeszcze kalendarz juliański, więc w serbskich dokumentach z tamtych dni wyzwolenie miasta nosi datę 19 października. Dziś Belgrad obchodzi tę rocznicę 1 listopada.
+1 listopada 1918 roku do [Belgradu](https://pl.wikipedia.org/wiki/Belgrad) wkroczyły wojska serbskiej 1 Armii wojewody [Petara Bojovicia](/postacie/petar-bojovic). Stolica Serbii, [zdobyta przez Niemców i Austriaków](/zdobycie-belgradu) w październiku 1915 roku, była okupowana przez trzy lata. W Serbii obowiązywał jeszcze kalendarz juliański, więc w serbskich dokumentach z tamtych dni wyzwolenie miasta nosi datę 19 października. Dziś Belgrad obchodzi tę rocznicę 1 listopada.
 
 ## Pościg nad Dunaj
 

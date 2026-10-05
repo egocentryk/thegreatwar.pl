@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 czerwca 1916 roku, w sobotę, o pół do czwartej nad ranem, w [Mekce](https://pl.wikipedia.org/wiki/Mekka) rozległa się strzelanina. Ludzie szarifa [Husajna ibn Alego](https://pl.wikipedia.org/wiki/Husajn_Ibn_Ali) jednocześnie otworzyli ogień na wszystkie tureckie koszary i posterunki w mieście oraz na gmach rządowy Hamidijja, w którym mieściły się urzędy prowincji. Pięć dni po [wystąpieniu jego synów pod Medyną](/poczatek-powstania-arabskiego) szarif rozpoczął powstanie w samym świętym mieście islamu. Brytyjska chronologia wojny notuje pod tą datą, że turecki garnizon Mekki skapitulował. Tak szybko jednak nie poszło: w ciągu trzech dni powstańcy opanowali miasto, ale główne koszary i górujący nad nim fort broniły się jeszcze przez blisko miesiąc.
+10 czerwca 1916 roku, w sobotę, o pół do czwartej nad ranem, w [Mekce](https://pl.wikipedia.org/wiki/Mekka) rozległa się strzelanina. Ludzie szarifa [Husajna ibn Alego](/postacie/husajn-ibn-ali) jednocześnie otworzyli ogień na wszystkie tureckie koszary i posterunki w mieście oraz na gmach rządowy Hamidijja, w którym mieściły się urzędy prowincji. Pięć dni po [wystąpieniu jego synów pod Medyną](/poczatek-powstania-arabskiego) szarif rozpoczął powstanie w samym świętym mieście islamu. Brytyjska chronologia wojny notuje pod tą datą, że turecki garnizon Mekki skapitulował. Tak szybko jednak nie poszło: w ciągu trzech dni powstańcy opanowali miasto, ale główne koszary i górujący nad nim fort broniły się jeszcze przez blisko miesiąc.
 
 ## Miasto bez garnizonu
 

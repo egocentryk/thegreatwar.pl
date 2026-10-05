@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 lutego 1916 roku [Esad Pasza Toptani](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani), szef rządu, który od [października 1914 roku](/esad-pasza-tworzy-rzad-w-durres) rządził z [Durrës](https://pl.wikipedia.org/wiki/Durrës) środkową Albanią, opuścił kraj. Poprzedniego dnia wojska austro-węgierskie zaatakowały włoskie pozycje przed miastem i zepchnęły obrońców na sam półwysep, na którym leży port. Po południu 24 lutego włoski konsul Piacentini zameldował z pokładu niszczyciela Impetuoso, że rozpoczęła się ewakuacja Durrës i że w południe odpłynął do [Brindisi](https://pl.wikipedia.org/wiki/Brindisi) razem z Esadem, pięcioma osobami z jego otoczenia, członkami włoskiej kolonii i archiwum poselstwa. Około trzystu żołnierzy Esada miało popłynąć za nimi parowcem.
+24 lutego 1916 roku [Esad Pasza Toptani](/postacie/esad-pasza-toptani), szef rządu, który od [października 1914 roku](/esad-pasza-tworzy-rzad-w-durres) rządził z [Durrës](https://pl.wikipedia.org/wiki/Durrës) środkową Albanią, opuścił kraj. Poprzedniego dnia wojska austro-węgierskie zaatakowały włoskie pozycje przed miastem i zepchnęły obrońców na sam półwysep, na którym leży port. Po południu 24 lutego włoski konsul Piacentini zameldował z pokładu niszczyciela Impetuoso, że rozpoczęła się ewakuacja Durrës i że w południe odpłynął do [Brindisi](https://pl.wikipedia.org/wiki/Brindisi) razem z Esadem, pięcioma osobami z jego otoczenia, członkami włoskiej kolonii i archiwum poselstwa. Około trzystu żołnierzy Esada miało popłynąć za nimi parowcem.
 
 ## Sojusznik bez wojska
 

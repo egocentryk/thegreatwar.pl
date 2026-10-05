@@ -16,7 +16,7 @@ draft: false
 
 ## Dwa tygodnie w błocie
 
-Od [końca walk o grzbiet Pilckem](/koniec-bitwy-o-grzbiet-pilckem) generał [Hubert Gough](https://pl.wikipedia.org/wiki/Hubert_Gough), dowódca 5 Armii, kilka razy wyznaczał i odwoływał kolejne natarcie. 10 sierpnia jego II Korpus zdobył na skraju płaskowyżu Gheluvelt grzbiet Westhoek, ale lasy Glencorse Wood i Inverness Copse odbili Niemcy. Natarcie całej armii przesunięto z 14 na 15, a po burzy z ulewą na 16 sierpnia. Gough się śpieszył, bo pod koniec miesiąca na wybrzeżu belgijskim miało ruszyć natarcie wspierane desantem, a ono zależało od postępów pod Ypres. Feldmarszałek [Douglas Haig](/postacie/douglas-haig), który od początku nalegał, by skupić siły na płaskowyżu, 15 sierpnia zostawił rozłożenie sił do uznania Gougha. Ten znów zaatakował na całym froncie.
+Od [końca walk o grzbiet Pilckem](/koniec-bitwy-o-grzbiet-pilckem) generał [Hubert Gough](/postacie/hubert-gough), dowódca 5 Armii, kilka razy wyznaczał i odwoływał kolejne natarcie. 10 sierpnia jego II Korpus zdobył na skraju płaskowyżu Gheluvelt grzbiet Westhoek, ale lasy Glencorse Wood i Inverness Copse odbili Niemcy. Natarcie całej armii przesunięto z 14 na 15, a po burzy z ulewą na 16 sierpnia. Gough się śpieszył, bo pod koniec miesiąca na wybrzeżu belgijskim miało ruszyć natarcie wspierane desantem, a ono zależało od postępów pod Ypres. Feldmarszałek [Douglas Haig](/postacie/douglas-haig), który od początku nalegał, by skupić siły na płaskowyżu, 15 sierpnia zostawił rozłożenie sił do uznania Gougha. Ten znów zaatakował na całym froncie.
 
 Dzień wcześniej, 15 sierpnia, Kanadyjczycy [zdobyli wzgórze 70 pod Lens](/poczatek-bitwy-o-wzgorze-70), by odciągnąć niemieckie rezerwy z Flandrii.
 

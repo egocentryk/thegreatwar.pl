@@ -17,7 +17,7 @@ draft: false
 
 Opór zaczął się 25 grudnia 1915 roku w prowincji [Junnan](https://pl.wikipedia.org/wiki/Junnan). Generał [Cai E](https://pl.wikipedia.org/wiki/Cai_E) i gubernator Tang Jiyao wystąpili tam w obronie republiki i utworzyli Armię Ochrony Narodu. Konflikt przeszedł do historii jako wojna ochrony narodowej, zwana też trzecią rewolucją. Wojska Cai E wkroczyły do [Syczuanu](https://pl.wikipedia.org/wiki/Syczuan), a 27 stycznia do powstania przyłączyła się prowincja [Kuejczou](https://pl.wikipedia.org/wiki/Kuejczou). Yuan wysłał przeciw nim wojska z północy. W lutym i na początku marca odzyskały one część utraconych miast w Syczuanie, ale walki w górach się przeciągały. Już w styczniu Pekin odłożył formalne objęcie tronu, planowane na 9 lutego, a pod koniec lutego Yuan ogłosił, że odkłada je na czas nieokreślony.
 
-Przeciw cesarstwu była też [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Japonii). Według historyków gabinet [Shigenobu Ōkumy](https://pl.wikipedia.org/wiki/Shigenobu_Ōkuma) postanowił 7 marca dążyć do odsunięcia Yuana od władzy, a japońskie pieniądze trafiały do jego przeciwników. Reinsch pisał w lutym, że pogłoski o japońskiej pomocy dla rewolucjonistów krążą w całych Chinach, ale nie ma na nie dowodów.
+Przeciw cesarstwu była też [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Japonii). Według historyków gabinet [Shigenobu Ōkumy](/postacie/shigenobu-okuma) postanowił 7 marca dążyć do odsunięcia Yuana od władzy, a japońskie pieniądze trafiały do jego przeciwników. Reinsch pisał w lutym, że pogłoski o japońskiej pomocy dla rewolucjonistów krążą w całych Chinach, ale nie ma na nie dowodów.
 
 ## Generałowie odmawiają
 

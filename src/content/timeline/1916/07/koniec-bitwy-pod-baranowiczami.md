@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 lipca 1916 roku (26 czerwca według kalendarza juliańskiego) pod [Baranowiczami](https://pl.wikipedia.org/wiki/Baranowicze) zapadła cisza. Spodziewany przez Niemców i Austriaków kolejny szturm nie nastąpił. Według rosyjskich opracowań przeszkodziła mu poranna mgła, a tego samego dnia Kwatera Główna pozostawiła dowódcy Frontu Zachodniego, generałowi [Aleksiejowi Ewertowi](https://pl.wikipedia.org/wiki/Aleksiej_Ewert), decyzję, czy chce kontynuować natarcie. Ewert wstrzymał atak [4 Armii](https://pl.wikipedia.org/wiki/4_Armia_(Imperium_Rosyjskie)) do czasu nadejścia IV Korpusu Syberyjskiego. Później przekładał go jeszcze kilka razy, aż w końcu odwołał, tłumacząc to brakiem pocisków. Bitwa, która miała być głównym uderzeniem armii rosyjskiej w 1916 roku, skończyła się po tygodniu.
+9 lipca 1916 roku (26 czerwca według kalendarza juliańskiego) pod [Baranowiczami](https://pl.wikipedia.org/wiki/Baranowicze) zapadła cisza. Spodziewany przez Niemców i Austriaków kolejny szturm nie nastąpił. Według rosyjskich opracowań przeszkodziła mu poranna mgła, a tego samego dnia Kwatera Główna pozostawiła dowódcy Frontu Zachodniego, generałowi [Aleksiejowi Ewertowi](/postacie/aleksiej-ewert), decyzję, czy chce kontynuować natarcie. Ewert wstrzymał atak [4 Armii](https://pl.wikipedia.org/wiki/4_Armia_(Imperium_Rosyjskie)) do czasu nadejścia IV Korpusu Syberyjskiego. Później przekładał go jeszcze kilka razy, aż w końcu odwołał, tłumacząc to brakiem pocisków. Bitwa, która miała być głównym uderzeniem armii rosyjskiej w 1916 roku, skończyła się po tygodniu.
 
 ## Tydzień szturmów
 

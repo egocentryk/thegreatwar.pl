@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny, na której opiera się nasza oś czasu, notuje pod 20 kwietnia 1917 roku, że ofensywa francuska „została zatrzymana”. To uproszczenie. Pięć dni po [rozpoczęciu natarcia na Chemin des Dames](/poczatek-ofensywy-nivellea) było już jasne, że wielka [ofensywa Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a) nie przyniesie obiecanego przełomu, i około 20 kwietnia francuskie dowództwo wstrzymało natarcie na pełną skalę. Walki jednak nie ustały. Już następnego dnia między 5 a 6 Armię weszła trzecia, 10 Armia, a ofensywa, zmieniona w operację o ograniczonych celach, trwała z przerwami do 9 maja. To, co się rzeczywiście załamało około 20 kwietnia, to plan rozstrzygnięcia wojny jednym ciosem i wiara w generała [Roberta Nivelle'a](https://pl.wikipedia.org/wiki/Robert_Nivelle).
+Brytyjska chronologia wojny, na której opiera się nasza oś czasu, notuje pod 20 kwietnia 1917 roku, że ofensywa francuska „została zatrzymana”. To uproszczenie. Pięć dni po [rozpoczęciu natarcia na Chemin des Dames](/poczatek-ofensywy-nivellea) było już jasne, że wielka [ofensywa Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a) nie przyniesie obiecanego przełomu, i około 20 kwietnia francuskie dowództwo wstrzymało natarcie na pełną skalę. Walki jednak nie ustały. Już następnego dnia między 5 a 6 Armię weszła trzecia, 10 Armia, a ofensywa, zmieniona w operację o ograniczonych celach, trwała z przerwami do 9 maja. To, co się rzeczywiście załamało około 20 kwietnia, to plan rozstrzygnięcia wojny jednym ciosem i wiara w generała [Roberta Nivelle'a](/postacie/robert-nivelle).
 
 ## Zdobycze
 

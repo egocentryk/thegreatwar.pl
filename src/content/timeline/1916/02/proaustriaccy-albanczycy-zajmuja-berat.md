@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 17 lutego 1916 roku zajęcie [Beratu](https://pl.wikipedia.org/wiki/Berat) przez wojska austro-węgierskie. Austriacka historia oficjalna przedstawia to inaczej. Regularne oddziały austro-węgierskie stały wtedy jeszcze daleko na północy, przed Durrës, a do Beratu doszli sprzymierzeni z nimi Albańczycy, którzy przełamali słaby opór zwolenników [Esada Paszy Toptaniego](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani). Dokładnego dnia żadne z dostępnych źródeł nie podaje. Wiadomo tylko, że ludzie Esada opuścili miasto przed 13 lutego, a według austriackiej historii oficjalnej przyjazne Austriakom oddziały albańskie były w Beracie najpóźniej 23 lutego.
+Brytyjska chronologia wojny notuje pod 17 lutego 1916 roku zajęcie [Beratu](https://pl.wikipedia.org/wiki/Berat) przez wojska austro-węgierskie. Austriacka historia oficjalna przedstawia to inaczej. Regularne oddziały austro-węgierskie stały wtedy jeszcze daleko na północy, przed Durrës, a do Beratu doszli sprzymierzeni z nimi Albańczycy, którzy przełamali słaby opór zwolenników [Esada Paszy Toptaniego](/postacie/esad-pasza-toptani). Dokładnego dnia żadne z dostępnych źródeł nie podaje. Wiadomo tylko, że ludzie Esada opuścili miasto przed 13 lutego, a według austriackiej historii oficjalnej przyjazne Austriakom oddziały albańskie były w Beracie najpóźniej 23 lutego.
 
 ## Upadek władzy Esada
 

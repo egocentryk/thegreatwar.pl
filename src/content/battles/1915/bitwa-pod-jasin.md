@@ -57,7 +57,7 @@ Tighe szykował na ranek nowe natarcie, ale garnizon szańca był u kresu sił. 
 
 Brytyjskie straty nie są dokładnie znane. Oprócz 276 jeńców zginęło co najmniej kilkudziesięciu żołnierzy indyjskich i kilkunastu askarysów King's African Rifles, a wielu zostało rannych. Lettow-Vorbeck oceniał straty przeciwnika na co najmniej 700 ludzi, co jest zapewne liczbą zawyżoną.
 
-Według zestawienia gubernatora [Heinricha Schneego](https://pl.wikipedia.org/wiki/Heinrich_Schnee) Niemcy stracili 25 zabitych Europejczyków, w tym siedmiu oficerów, i 53 askarysów. Rannych było około 200, w tym kilkunastu oficerów. Wśród poległych było sześciu zawodowych oficerów, mniej więcej jedna siódma tych, których Lettow-Vorbeck miał do dyspozycji. W ciągu dwóch dni jego oddziały zużyły 200 tysięcy naboi.
+Według zestawienia gubernatora [Heinricha Schneego](/postacie/heinrich-schnee) Niemcy stracili 25 zabitych Europejczyków, w tym siedmiu oficerów, i 53 askarysów. Rannych było około 200, w tym kilkunastu oficerów. Wśród poległych było sześciu zawodowych oficerów, mniej więcej jedna siódma tych, których Lettow-Vorbeck miał do dyspozycji. W ciągu dwóch dni jego oddziały zużyły 200 tysięcy naboi.
 
 ## Znaczenie
 

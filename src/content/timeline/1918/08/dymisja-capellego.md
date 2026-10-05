@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-13 sierpnia 1918 roku, jak podaje brytyjska chronologia wojny, admirał Eduard von Capelle złożył dymisję z urzędu sekretarza stanu w Urzędzie Marynarki Rzeszy (Reichsmarineamt). [Kierował nim od marca 1916 roku](/eduard-von-capelle-sekretarzem-marynarki), gdy zastąpił wielkiego admirała Alfreda von Tirpitza. Jego odejście nie było osobistą decyzją zmęczonego urzędnika. Było jednym z elementów gruntownej wymiany ludzi na szczytach niemieckiej marynarki, którą w sierpniu 1918 roku przeprowadził admirał [Reinhard Scheer](https://pl.wikipedia.org/wiki/Reinhard_Scheer) ze swoimi współpracownikami.
+13 sierpnia 1918 roku, jak podaje brytyjska chronologia wojny, admirał Eduard von Capelle złożył dymisję z urzędu sekretarza stanu w Urzędzie Marynarki Rzeszy (Reichsmarineamt). [Kierował nim od marca 1916 roku](/eduard-von-capelle-sekretarzem-marynarki), gdy zastąpił wielkiego admirała Alfreda von Tirpitza. Jego odejście nie było osobistą decyzją zmęczonego urzędnika. Było jednym z elementów gruntownej wymiany ludzi na szczytach niemieckiej marynarki, którą w sierpniu 1918 roku przeprowadził admirał [Reinhard Scheer](/postacie/reinhard-scheer) ze swoimi współpracownikami.
 
 ## Przewrót w dowództwie floty
 

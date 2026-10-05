@@ -19,7 +19,7 @@ tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, czołgi]
 milestone: true
 ---
 
-Bitwa o grzbiet Pilckem była pierwszym natarciem [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). 31 lipca 1917 roku o 3.50 rano, po mniej więcej dwóch tygodniach ostrzału, dziewięć dywizji brytyjskiej 5 Armii generała [Huberta Gougha](https://pl.wikipedia.org/wiki/Hubert_Gough) ruszyło do ataku z łuku wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper), osłaniane na południu przez 2 Armię, a na północy przez dwie dywizje francuskiej 1 Armii. Na północnym skrzydle alianci w kilka godzin zdobyli niski grzbiet Pilckem, z którego Niemcy od 1915 roku obserwowali kanał pod [Boezinge](https://pl.wikipedia.org/wiki/Boezinge), i podeszli nad strumień Steenbeek. W centrum część brygad wdarła się na ponad trzy kilometry, ale po południu, w zaczynającym się deszczu, zepchnęły je niemieckie dywizje przeciwnatarcia. Na najważniejszym odcinku, na płaskowyżu Gheluvelt przy drodze z Ypres do Menin, Brytyjczycy posunęli się tylko o kilkaset metrów. Deszcz padał potem przez cztery dni i zamienił pole bitwy w błoto.
+Bitwa o grzbiet Pilckem była pierwszym natarciem [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). 31 lipca 1917 roku o 3.50 rano, po mniej więcej dwóch tygodniach ostrzału, dziewięć dywizji brytyjskiej 5 Armii generała [Huberta Gougha](/postacie/hubert-gough) ruszyło do ataku z łuku wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper), osłaniane na południu przez 2 Armię, a na północy przez dwie dywizje francuskiej 1 Armii. Na północnym skrzydle alianci w kilka godzin zdobyli niski grzbiet Pilckem, z którego Niemcy od 1915 roku obserwowali kanał pod [Boezinge](https://pl.wikipedia.org/wiki/Boezinge), i podeszli nad strumień Steenbeek. W centrum część brygad wdarła się na ponad trzy kilometry, ale po południu, w zaczynającym się deszczu, zepchnęły je niemieckie dywizje przeciwnatarcia. Na najważniejszym odcinku, na płaskowyżu Gheluvelt przy drodze z Ypres do Menin, Brytyjczycy posunęli się tylko o kilkaset metrów. Deszcz padał potem przez cztery dni i zamienił pole bitwy w błoto.
 
 ## Nazwa i daty
 
@@ -31,7 +31,7 @@ Haig powierzył główne natarcie we Flandrii Goughowi jeszcze pod koniec kwietn
 
 Płaskowyż był kluczem do pola bitwy. To najwyższe wzniesienie na wschód od Ypres, z ruinami lasów Sanctuary Wood, Shrewsbury Forest i Glencorse Wood, dawało Niemcom wgląd w cały łuk, a stojące za nim baterie mogły ostrzeliwać z boku każde natarcie dalej na północ. Atakujący go II Korpus generała Clauda Jacoba dostał pięć dywizji zamiast czterech i ponad 40 procent artylerii armii, ale też najtrudniejsze zadanie: naprzeciw niego Niemcy skupili najwięcej dział i dywizji przeciwnatarcia.
 
-Po stronie niemieckiej łuk bronił 4 Armia generała [Friedricha Sixta von Armina](https://pl.wikipedia.org/wiki/Friedrich_Sixt_von_Armin), a odcinek od Pilckem po drogę do Menin grupa „Ypern” generała Hermanna von Steina (III Korpus Bawarski). Za pierwszymi liniami stały betonowe schrony i gniazda karabinów maszynowych, a za grzbietem Passchendaele czekały dywizje przeciwnatarcia.
+Po stronie niemieckiej łuk bronił 4 Armia generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin), a odcinek od Pilckem po drogę do Menin grupa „Ypern” generała Hermanna von Steina (III Korpus Bawarski). Za pierwszymi liniami stały betonowe schrony i gniazda karabinów maszynowych, a za grzbietem Passchendaele czekały dywizje przeciwnatarcia.
 
 ## Przygotowania
 

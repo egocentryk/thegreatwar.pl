@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 lipca 1916 roku (19 czerwca według rosyjskiego kalendarza juliańskiego) rosyjski Front Zachodni generała [Aleksieja Ewerta](https://pl.wikipedia.org/wiki/Aleksiej_Ewert) rozpoczął wreszcie swoją letnią ofensywę. Według austriackiej historii oficjalnej o 4 rano rosyjskie baterie otworzyły ogień na pozycje niemieckie i austro-węgierskie na wschód od [Baranowicz](https://pl.wikipedia.org/wiki/Baranowicze) i przez cały dzień niszczyły okopy i zasieki. Rosyjskie opracowania podają, że przygotowanie artyleryjskie trwało od 7 rano do 10 wieczorem. Różnica wynika zapewne z odmiennego czasu, jakim posługiwały się obie strony. Szturm piechoty zaplanowano na świt następnego dnia.
+2 lipca 1916 roku (19 czerwca według rosyjskiego kalendarza juliańskiego) rosyjski Front Zachodni generała [Aleksieja Ewerta](/postacie/aleksiej-ewert) rozpoczął wreszcie swoją letnią ofensywę. Według austriackiej historii oficjalnej o 4 rano rosyjskie baterie otworzyły ogień na pozycje niemieckie i austro-węgierskie na wschód od [Baranowicz](https://pl.wikipedia.org/wiki/Baranowicze) i przez cały dzień niszczyły okopy i zasieki. Rosyjskie opracowania podają, że przygotowanie artyleryjskie trwało od 7 rano do 10 wieczorem. Różnica wynika zapewne z odmiennego czasu, jakim posługiwały się obie strony. Szturm piechoty zaplanowano na świt następnego dnia.
 
 ## Spóźnione główne uderzenie
 

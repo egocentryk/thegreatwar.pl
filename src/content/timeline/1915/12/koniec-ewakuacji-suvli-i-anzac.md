@@ -22,7 +22,7 @@ O 1.30 Russell odpłynął, oddając dowództwo pułkownikowi Johnowi Patonowi. 
 
 ## Suvla
 
-Pod Suvlą, gdzie okopy leżały dalej od morza, pierwszą linię opuszczono o 1.30. Żołnierze cofali się przez przejścia w zasiekach kolejnych linii obrony, które za nimi zamykano, a przedpole zaminowano. Drogę znaczyły pasy mąki. Generał [Frederick Stanley Maude](https://pl.wikipedia.org/wiki/Frederick_Stanley_Maude) odpłynął ze sztabem 13 Dywizji z południowego skrzydła około czwartej. Na północnym skrzydle wycofanie spod grzbietu Kiretch Tepe trwało dłużej, niż zakładano, i ostatni żołnierze odpłynęli po piątej. Na koniec podpalono nasączony benzyną skład zaopatrzenia. Pod Suvlą nie zostawiono ani jednego działa, wozu czy zwierzęcia.
+Pod Suvlą, gdzie okopy leżały dalej od morza, pierwszą linię opuszczono o 1.30. Żołnierze cofali się przez przejścia w zasiekach kolejnych linii obrony, które za nimi zamykano, a przedpole zaminowano. Drogę znaczyły pasy mąki. Generał [Frederick Stanley Maude](/postacie/frederick-maude) odpłynął ze sztabem 13 Dywizji z południowego skrzydła około czwartej. Na północnym skrzydle wycofanie spod grzbietu Kiretch Tepe trwało dłużej, niż zakładano, i ostatni żołnierze odpłynęli po piątej. Na koniec podpalono nasączony benzyną skład zaopatrzenia. Pod Suvlą nie zostawiono ani jednego działa, wozu czy zwierzęcia.
 
 ## Turcy odkrywają odwrót
 

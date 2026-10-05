@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-23 czerwca 1916 roku o świcie kilkanaście niemieckich pułków uderzyło pod [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) na ostatni grzbiet wzgórz, który dzielił je od miasta. Poprzedniej nocy niemiecka artyleria zasypała francuskie baterie ponad stu tysiącami pocisków z nowym gazem bojowym. Do południa Niemcy zdobyli umocnienie Thiaumont, większą część wsi [Fleury](https://pl.wikipedia.org/wiki/Fleury-devant-Douaumont) i doszli pod fort Souville, kilka kilometrów od cytadeli Verdun. Był to najgroźniejszy dzień bitwy od lutego. Francuzi zdołali jednak zatrzymać natarcie, a dowódca 2 Armii, generał [Robert Nivelle](https://pl.wikipedia.org/wiki/Robert_Nivelle), wydał tego dnia rozkaz, z którego zrodziło się hasło „Ils ne passeront pas” („Nie przejdą”).
+23 czerwca 1916 roku o świcie kilkanaście niemieckich pułków uderzyło pod [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) na ostatni grzbiet wzgórz, który dzielił je od miasta. Poprzedniej nocy niemiecka artyleria zasypała francuskie baterie ponad stu tysiącami pocisków z nowym gazem bojowym. Do południa Niemcy zdobyli umocnienie Thiaumont, większą część wsi [Fleury](https://pl.wikipedia.org/wiki/Fleury-devant-Douaumont) i doszli pod fort Souville, kilka kilometrów od cytadeli Verdun. Był to najgroźniejszy dzień bitwy od lutego. Francuzi zdołali jednak zatrzymać natarcie, a dowódca 2 Armii, generał [Robert Nivelle](/postacie/robert-nivelle), wydał tego dnia rozkaz, z którego zrodziło się hasło „Ils ne passeront pas” („Nie przejdą”).
 
 ## Ostatni grzbiet przed miastem
 

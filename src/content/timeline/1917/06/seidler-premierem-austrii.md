@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 czerwca 1917 roku cesarz [Karol I](https://pl.wikipedia.org/wiki/Karol_I_Habsburg) mianował nowego premiera austriackiej połowy monarchii. Został nim Ernst Seidler, rycerz von Feuchtenegg, wysoki urzędnik i profesor prawa administracyjnego, od trzech tygodni minister rolnictwa. Dzień wcześniej, 22 czerwca, cesarz przyjął dymisję hrabiego [Heinricha Clam-Martinica](/clam-martinic-premierem-austrii) i polecił mu kierować sprawami państwa do czasu powołania nowego rządu. Tak podaje edycja protokołów austriackiej Rady Ministrów, przygotowana przez Austriacką Akademię Nauk. Brytyjska kronika wojny podaje jako dzień dymisji 18 czerwca. Według historyka Damiana Szymczaka ustępujący premier na próżno próbował jeszcze przebudować swój gabinet. Austria miała czwarty rząd od początku wojny, a Clam-Martinic rządził zaledwie pół roku.
+23 czerwca 1917 roku cesarz [Karol I](/postacie/karol-i-habsburg) mianował nowego premiera austriackiej połowy monarchii. Został nim Ernst Seidler, rycerz von Feuchtenegg, wysoki urzędnik i profesor prawa administracyjnego, od trzech tygodni minister rolnictwa. Dzień wcześniej, 22 czerwca, cesarz przyjął dymisję hrabiego [Heinricha Clam-Martinica](/clam-martinic-premierem-austrii) i polecił mu kierować sprawami państwa do czasu powołania nowego rządu. Tak podaje edycja protokołów austriackiej Rady Ministrów, przygotowana przez Austriacką Akademię Nauk. Brytyjska kronika wojny podaje jako dzień dymisji 18 czerwca. Według historyka Damiana Szymczaka ustępujący premier na próżno próbował jeszcze przebudować swój gabinet. Austria miała czwarty rząd od początku wojny, a Clam-Martinic rządził zaledwie pół roku.
 
 ## Parlament, który obalił rząd
 

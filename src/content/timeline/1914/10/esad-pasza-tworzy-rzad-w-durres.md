@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na początku października 1914 roku do [Durrës](https://pl.wikipedia.org/wiki/Durrës), tymczasowej stolicy Albanii, wkroczył [Esad Pasza Toptani](https://pl.wikipedia.org/wiki/Esad_Pasza_Toptani). Zaledwie miesiąc po tym, jak [kraj opuścił książę Wilhelm zu Wied](/wilhelm-wied-opuszcza-albanie), dawny minister wojny wrócił z wygnania i stanął na czele nowego rządu. Brytyjska chronologia wojny notuje utworzenie tego rządu pod 4 października. Według innych źródeł Esad zajął Durrës do 3 października, a jako premier sprawował władzę od 5 października.
+Na początku października 1914 roku do [Durrës](https://pl.wikipedia.org/wiki/Durrës), tymczasowej stolicy Albanii, wkroczył [Esad Pasza Toptani](/postacie/esad-pasza-toptani). Zaledwie miesiąc po tym, jak [kraj opuścił książę Wilhelm zu Wied](/wilhelm-wied-opuszcza-albanie), dawny minister wojny wrócił z wygnania i stanął na czele nowego rządu. Brytyjska chronologia wojny notuje utworzenie tego rządu pod 4 października. Według innych źródeł Esad zajął Durrës do 3 października, a jako premier sprawował władzę od 5 października.
 
 ## Powrót z wygnania
 

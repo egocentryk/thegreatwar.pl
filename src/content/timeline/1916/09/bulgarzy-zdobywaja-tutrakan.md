@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-6 września 1916 roku, po południu, skapitulowała rumuńska twierdza Turtucaia nad [Dunajem](https://pl.wikipedia.org/wiki/Dunaj), dziś bułgarski [Tutrakan](https://pl.wikipedia.org/wiki/Tutrakan). Zdobyły ją oddziały bułgarskiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Carstwo_Bułgarii)) generała [Stefana Toszewa](https://pl.wikipedia.org/wiki/Stefan_Toszew) i niewielki oddział niemiecki, wchodzące w skład grupy armii feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen). Od [wypowiedzenia wojny Rumunii](/bulgaria-wypowiada-wojne-rumunii) minęło pięć dni. W Rumunii, która używała jeszcze [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 24 sierpnia.
+6 września 1916 roku, po południu, skapitulowała rumuńska twierdza Turtucaia nad [Dunajem](https://pl.wikipedia.org/wiki/Dunaj), dziś bułgarski [Tutrakan](https://pl.wikipedia.org/wiki/Tutrakan). Zdobyły ją oddziały bułgarskiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Carstwo_Bułgarii)) generała [Stefana Toszewa](/postacie/stefan-toszew) i niewielki oddział niemiecki, wchodzące w skład grupy armii feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen). Od [wypowiedzenia wojny Rumunii](/bulgaria-wypowiada-wojne-rumunii) minęło pięć dni. W Rumunii, która używała jeszcze [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 24 sierpnia.
 
 ## Ostatni dzień
 

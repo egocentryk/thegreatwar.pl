@@ -27,4 +27,4 @@ Równocześnie z otoczenia króla wysondowano samego Wenizelosa, który od tygod
 
 ## Co dalej
 
-Z rządu wojennego nic nie wyszło. Król szukał kandydata poza światem partyjnym i 8 października powierzył misję utworzenia gabinetu historykowi, profesorowi [Spiridonowi Lambrosowi](https://pl.wikipedia.org/wiki/Spiridon_Lambros), który skompletował rząd profesorów i urzędników. Zmiana nie uchroniła Grecji przed dalszym naciskiem. Francuski wiceadmirał Dartige du Fournet, dowódca sprzymierzonej floty pod Salaminą, przygotowywał już na rozkaz z Paryża nowe żądania wobec Grecji, a Wenizelos płynął przez wyspy Morza Egejskiego do Salonik.
+Z rządu wojennego nic nie wyszło. Król szukał kandydata poza światem partyjnym i 8 października powierzył misję utworzenia gabinetu historykowi, profesorowi [Spiridonowi Lambrosowi](/postacie/spiridon-lambros), który skompletował rząd profesorów i urzędników. Zmiana nie uchroniła Grecji przed dalszym naciskiem. Francuski wiceadmirał Dartige du Fournet, dowódca sprzymierzonej floty pod Salaminą, przygotowywał już na rozkaz z Paryża nowe żądania wobec Grecji, a Wenizelos płynął przez wyspy Morza Egejskiego do Salonik.

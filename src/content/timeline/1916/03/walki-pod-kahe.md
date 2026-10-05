@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-21 marca 1916 roku pod Kahe, stacją kolei usambarskiej na południe od [Moshi](https://pl.wikipedia.org/wiki/Moshi), stoczono ostatnią bitwę ofensywy generała [Jana Smutsa](https://pl.wikipedia.org/wiki/Jan_Smuts) u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). Po zdobyciu przełęczy [Latema Nek](/koniec-walk-pod-latema-nek) i [zajęciu Moshi](/brytyjczycy-zajmuja-moshi) Niemcy cofnęli się na nową pozycję w gęstym buszu między rzekami Himo, Defu i Soko Nassai, oparty tyłem o rzekę Ruvu, czyli górny bieg [Pangani](https://pl.wikipedia.org/wiki/Pangani). Smuts chciał ich stamtąd wyprzeć przed porą deszczową, bo tylko wtedy mógł bezpiecznie przedłużyć kolej i przygotować dalszy marsz w głąb [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).
+21 marca 1916 roku pod Kahe, stacją kolei usambarskiej na południe od [Moshi](https://pl.wikipedia.org/wiki/Moshi), stoczono ostatnią bitwę ofensywy generała [Jana Smutsa](/postacie/jan-smuts) u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). Po zdobyciu przełęczy [Latema Nek](/koniec-walk-pod-latema-nek) i [zajęciu Moshi](/brytyjczycy-zajmuja-moshi) Niemcy cofnęli się na nową pozycję w gęstym buszu między rzekami Himo, Defu i Soko Nassai, oparty tyłem o rzekę Ruvu, czyli górny bieg [Pangani](https://pl.wikipedia.org/wiki/Pangani). Smuts chciał ich stamtąd wyprzeć przed porą deszczową, bo tylko wtedy mógł bezpiecznie przedłużyć kolej i przygotować dalszy marsz w głąb [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).
 
 ## Pierwsze próby
 

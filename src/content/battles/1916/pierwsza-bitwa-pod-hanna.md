@@ -31,7 +31,7 @@ W nocy z 16 na 17 stycznia Aylmer zaproponował, by Townshend przeprawił zdolny
 
 ## Siły
 
-7 Dywizja generała majora George'a Younghusbanda, po stratach pod Szejk Saad i nad Wadi, liczyła zaledwie około 3700 karabinów. Younghusband rozwiązał 21 Brygadę i włączył jej bataliony do 19 i 35 Brygady. Za nimi stała 9 Brygada, w tym świeżo przybyły batalion Connaught Rangers, a w odwodzie korpusu 28 Brygada. Razem Aylmer miał na lewym brzegu 21 batalionów, około 7600 karabinów i 30 dział. Na prawym brzegu stała 7 Brygada Keary'ego z kilkunastoma działami. Siły tureckie w przesmyku Aylmer oceniał na 9 tysięcy piechoty i 26 dział. Według Kieslinga przesmyku broniły 35 i 52 Dywizja, pod ogólnym dowództwem Halila Beja ([Halil Kut](https://pl.wikipedia.org/wiki/Halil_Kut)) i feldmarszałka [Colmara von der Goltza](https://pl.wikipedia.org/wiki/Colmar_von_der_Goltz).
+7 Dywizja generała majora George'a Younghusbanda, po stratach pod Szejk Saad i nad Wadi, liczyła zaledwie około 3700 karabinów. Younghusband rozwiązał 21 Brygadę i włączył jej bataliony do 19 i 35 Brygady. Za nimi stała 9 Brygada, w tym świeżo przybyły batalion Connaught Rangers, a w odwodzie korpusu 28 Brygada. Razem Aylmer miał na lewym brzegu 21 batalionów, około 7600 karabinów i 30 dział. Na prawym brzegu stała 7 Brygada Keary'ego z kilkunastoma działami. Siły tureckie w przesmyku Aylmer oceniał na 9 tysięcy piechoty i 26 dział. Według Kieslinga przesmyku broniły 35 i 52 Dywizja, pod ogólnym dowództwem Halila Beja ([Halil Kut](/postacie/halil-kut)) i feldmarszałka [Colmara von der Goltza](/postacie/colmar-von-der-goltz).
 
 ## Przebieg
 

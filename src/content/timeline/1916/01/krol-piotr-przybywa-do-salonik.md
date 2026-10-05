@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 stycznia 1916 roku korespondent agencji Reutera w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) doniósł, że do miasta przybył król Serbii [Piotr I](/postacie/piotr-i-karadziordziewic). Według „The Illustrated London News” przypłynął na pokładzie francuskiego niszczyciela. Siedemdziesięciojednoletni monarcha był wyczerpany i schorowany. Reuter pisał, że wciąż jest „nieco niedysponowany wskutek niedawnego ciężkiego wysiłku”. Od czerwca 1914 roku władzę w jego imieniu sprawował jako regent następca tronu [Aleksander](https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić), ale dla Serbów i dla sojuszników stary król pozostawał żywym symbolem państwa, którego całe terytorium zajął już nieprzyjaciel.
+1 stycznia 1916 roku korespondent agencji Reutera w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) doniósł, że do miasta przybył król Serbii [Piotr I](/postacie/piotr-i-karadziordziewic). Według „The Illustrated London News” przypłynął na pokładzie francuskiego niszczyciela. Siedemdziesięciojednoletni monarcha był wyczerpany i schorowany. Reuter pisał, że wciąż jest „nieco niedysponowany wskutek niedawnego ciężkiego wysiłku”. Od czerwca 1914 roku władzę w jego imieniu sprawował jako regent następca tronu [Aleksander](/postacie/aleksander-i-karadziordziewic), ale dla Serbów i dla sojuszników stary król pozostawał żywym symbolem państwa, którego całe terytorium zajął już nieprzyjaciel.
 
 ## Z Albanii do Włoch
 
