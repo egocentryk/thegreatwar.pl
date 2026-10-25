@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Louis de Maud'huy, Ferdinand Foch, Joseph Joffre]
   - name: German Empire
-    commanders: [Rupprecht of Bavaria, Erich von Falkenhayn]
+    commanders: ["Rupprecht, Crown Prince of Bavaria", Erich von Falkenhayn]
 result: Inconclusive. The French held Arras, but the Germans took Lens, Vimy Ridge and Lorette. The fighting moved north, to La Bassée and Flanders.
 source: pierwsza-bitwa-w-artois
 sourceHash: 30b30399ccc07e857fbbd034263c27b7782ab189

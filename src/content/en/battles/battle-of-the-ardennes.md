@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Pierre Ruffey, Fernand de Langle de Cary]
   - name: German Empire
-    commanders: [Duke Albrecht of Württemberg, Crown Prince Wilhelm]
+    commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm]
 result: German victory. The French suffered very heavy losses and withdrew behind the Meuse.
 source: bitwa-w-ardenach
 sourceHash: 0fd99c5815af58908c0e38f31acf57924df2204b

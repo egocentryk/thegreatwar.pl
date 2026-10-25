@@ -10,7 +10,7 @@ sides:
   - name: Belgium
     commanders: [Albert I]
   - name: German Empire
-    commanders: [Erich von Falkenhayn, Rupprecht of Bavaria, Albrecht of Württemberg, Hans von Beseler]
+    commanders: [Erich von Falkenhayn, "Rupprecht, Crown Prince of Bavaria", "Albrecht, Duke of Württemberg", Hans von Beseler]
 result: Inconclusive. Neither side turned the other's flank. The Western Front reached the North Sea and the fighting moved to Ypres and the Yser.
 source: wyscig-do-morza
 sourceHash: 581a7a7ad2e55ccae1d482d861f4c2d24e92d37d

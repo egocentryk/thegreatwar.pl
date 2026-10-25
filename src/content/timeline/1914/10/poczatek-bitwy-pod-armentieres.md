@@ -30,7 +30,7 @@ Niemcy bronili się zręcznie. Ich okopy były wykopane tuż przed domami, żywo
 
 ## Porucznik Montgomery
 
-Wśród ciężko rannych pod Meteren był dwudziestosześcioletni porucznik 1 Batalionu Królewskiego Pułku Warwickshire, [Bernard Montgomery](https://pl.wikipedia.org/wiki/Bernard_Law_Montgomery). Prowadząc swój pluton do ataku, został postrzelony w płuco, a potem jeszcze raz, w kolano. Żołnierz, który próbował go opatrzyć, zginął i upadł na niego. Montgomery przez kilka godzin leżał na polu bitwy, aż do zmroku, a lekarze uznali jego stan za beznadziejny. Przeżył i otrzymał za tę walkę order DSO (Distinguished Service Order), rzadkie wyróżnienie dla tak młodego oficera. W czasie II wojny światowej jako marszałek polny dowodził wojskami brytyjskimi pod El Alamein i w Normandii.
+Wśród ciężko rannych pod Meteren był dwudziestosześcioletni porucznik 1 Batalionu Królewskiego Pułku Warwickshire, [Bernard Montgomery](https://pl.wikipedia.org/wiki/Bernard_Law_Montgomery). Prowadząc swój pluton do ataku, został postrzelony w płuco, a potem jeszcze raz, w kolano. Żołnierz, który próbował go opatrzyć, zginął i upadł na niego. Montgomery przez kilka godzin leżał na polu bitwy, aż do zmroku, a lekarze uznali jego stan za beznadziejny. Przeżył i otrzymał za tę walkę order DSO (Distinguished Service Order), rzadkie wyróżnienie dla tak młodego oficera. W czasie II wojny światowej dowodził wojskami brytyjskimi pod El Alamein i w Normandii.
 
 ## Co dalej
 

@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Noël de Castelnau, Auguste Dubail]
   - name: German Empire
-    commanders: [Crown Prince Rupprecht of Bavaria, Josias von Heeringen]
+    commanders: ["Rupprecht, Crown Prince of Bavaria", Josias von Heeringen]
 result: French victory. The German drive on the Trouée de Charmes was halted, and the front settled along the Mortagne and in front of Lunéville.
 source: bitwa-nad-mortagne
 sourceHash: 384e93bd542405c90fe8db9938b57422f584d154

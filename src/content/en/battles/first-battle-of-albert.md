@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Joseph Joffre, Noël de Castelnau]
   - name: German Empire
-    commanders: [Erich von Falkenhayn, Crown Prince Rupprecht of Bavaria]
+    commanders: [Erich von Falkenhayn, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. In fighting that lasted until the end of September the Germans took Bapaume and Thiepval, but the French held Albert. The front set on the line Maricourt–Fricourt–Thiepval.
 source: pierwsza-bitwa-pod-albert
 sourceHash: 1547eac5efea5995049a40e82b82ff54842d3a47

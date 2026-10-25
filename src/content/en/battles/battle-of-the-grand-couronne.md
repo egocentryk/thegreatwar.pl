@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Noël de Castelnau]
   - name: German Empire
-    commanders: [Crown Prince Rupprecht of Bavaria]
+    commanders: ["Rupprecht, Crown Prince of Bavaria"]
 result: French victory. The German attack on Nancy collapsed, and the Sixth Army withdrew to the Seille.
 source: bitwa-o-grand-couronne
 sourceHash: e4ba80ec311a9f38ad7f08f64d8f7584b2faffb5

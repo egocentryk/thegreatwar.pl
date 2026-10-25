@@ -1,0 +1,38 @@
+---
+title: Battle of Langemarck begins
+summary: On 21 October 1914 the British I Corps advanced from Ypres towards Bruges. It ran into new German reserve corps and went over to the defensive that same day.
+source: poczatek-bitwy-pod-langemarck
+sourceHash: 51eab4bb8f16bc569352b54d6f5afd5eb81a5782
+---
+
+On 21 October 1914 General [Douglas Haig](/postacie/douglas-haig)'s British I Corps went into the attack north-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper), towards the villages of [Langemarck](https://pl.wikipedia.org/wiki/Langemark) and Poelkapelle. It was to cross Flanders all the way to Bruges. Instead of a weak German screen, it ran into several divisions of new German reserve corps, which were themselves advancing on Ypres. After a few hours of fighting Haig halted the attack, and in the evening the whole British army at Ypres went over to the defensive. British nomenclature dates the Battle of Langemarck, the first stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres), from this day.
+
+## The order to march on Bruges
+
+I Corps, made up of the 1st and 2nd Divisions, was the last of the corps of the British Expeditionary Force to arrive in Flanders from the Aisne. On the evening of 20 October the 2nd Division stood north-east of Ypres, on the line Frezenberg–Wieltje–Pilkem, while the head of the 1st Division had only reached Elverdinge, west of the town. The headquarters of Field Marshal [Sir John French](/postacie/john-french) ordered the corps to march towards Thourout (Torhout), capture Bruges and attack the enemy wherever met.
+
+French was convinced that only one German corps stood within striking distance. The British official history admits that the Commander-in-Chief either distrusted his own intelligence or underrated the new German reserve corps. The staffs of I and IV Corps, however, expected a strong enemy. North of Ypres the new German [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) of Duke [Albrecht of Württemberg](/postacie/albrecht-wirtemberski) was approaching, its core formed by [four new reserve corps](/niemcy-docieraja-do-wybrzeza-belgii). According to the British official history, on I Corps' sector the Germans had five divisions that day against Haig's two.
+
+Haig planned the attack in two stages: first to the line Passendale–Poelkapelle, and then a few kilometres further north, through Westrozebeke. The 2nd Division was to wait until the 1st Division reached Langemarck at 7 a.m. The corps' left flank was to be covered by General de Mitry's four French cavalry divisions, standing on the edge of the forest at [Houthulst](https://pl.wikipedia.org/wiki/Houthulst), and by French territorial units in Langemarck.
+
+## The attack
+
+The plan fell behind schedule at dawn. The roads and the canal bridges were congested with French territorial troops and refugees, and the advanced guard of the 1st Division did not reach Langemarck until 8.30 a.m. The attack as a whole did not get under way until after 9 a.m., on a cloudy day.
+
+The 2nd Division advanced towards [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke) and the Passendale ridge. The ground, though almost flat, was densely cut up by streams, tall hedges, copses and buildings that blocked the view. After crossing the Zonnebeke–Langemarck road the battalions came under heavy fire. Even so, by 2 p.m. they had advanced one to two kilometres and stood a few hundred metres from the main German line. Two companies of the 3rd Battalion, Coldstream Guards, even reached the ridge at Gravenstafel. The enemy here was the German infantry of XXVI Reserve Corps, which was itself advancing to attack. The British gunners had, as the official history puts it, "the targets of a lifetime": dense waves of infantry advancing in the open at close range. One battery, positioned only a little over a kilometre from the enemy, fired 1,400 rounds that day.
+
+On the left flank the advanced guard of the 1st Division attacked the Germans at [Poelkapelle](https://pl.wikipedia.org/wiki/Poelkapelle) and at the railway station there. It made slow progress, because at about 10 a.m. a new enemy appeared on its left, near the village of Koekuit. This was the German 46th Reserve Division, which was pushing the French cavalry back through Houthulst forest. The British beat off two attacks on Koekuit, but their own attack stalled.
+
+## An exposed flank
+
+At about 11.30 a.m. the British noticed that the French cavalry was falling back towards [Bikschote](https://pl.wikipedia.org/wiki/Bikschote). At about 2 p.m. de Mitry's cavalry corps received orders to withdraw behind the Ypres–Yser canal, because a whole German division was said to be approaching from Houthulst. The commander of the French 7th Cavalry Division, who stood right next to the British, was aware of the consequences of this move and carried out the order only when it was repeated to him. Some French units in fact fought on until dark.
+
+I Corps' left flank was exposed. At about the same time General [Henry Rawlinson](/postacie/henry-rawlinson), whose IV Corps was defending on Haig's right, reported heavy attacks on his 7th Division and that one of its brigades had been pushed back at Zonnebeke. In the afternoon Haig decided not to advance beyond the first line of objectives. Field Marshal French, who had come to his headquarters, approved the decision. The 1st Division had to send its last reserves to the exposed flank. The battalions of the Guards Brigade, among them the Cameron Highlanders at Kortekeer Cabaret, stretched out over nearly five kilometres from Koekuit to Bikschote and beat off an attack by a German brigade from the direction of the forest. At about 2.30 p.m. the Germans also counter-attacked at Poelkapelle and pushed the two battalions of the advanced guard back a little.
+
+In the afternoon Haig ordered the troops to halt and dig in where they stood. By evening I Corps' front formed a projecting wedge. It ran from Zonnebeke station north-west, past Langemarck, to Koekuit, and from there turned west towards the canal at Steenstrate. It was not a continuous trench line but a series of separate posts. The corps lost 982 killed, wounded and missing that day.
+
+## The end of hopes of outflanking
+
+The Germans had a clear numerical superiority at Ypres that day, but apart from stopping the British they achieved little, and their losses were very heavy. The new regiments, made up largely of young volunteers with a few weeks' training, advanced in dense masses straight into the fire of British rifles and guns. The German official history admitted that the attack of XXVI Reserve Corps stalled in front of Langemarck, and that of XXVII Reserve Corps in front of the positions of the 7th Division between Zonnebeke and Geluveld. The British, however, remembered that the enemy had attacked with great determination. On one of I Corps' sectors it was reported that a German battalion had made the best attack British soldiers had seen since the start of the campaign.
+
+That day Field Marshal French was visited by the Commander-in-Chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre). He announced that he was sending the French IX Corps to Ypres at once. The Indian Lahore Division was also concentrating near Hazebrouck. French decided to hold on until reinforcements arrived. At 8.30 p.m. his headquarters ordered all corps to hold their positions and entrench them strongly. The plan to outflank the German wing in Flanders, which for many weeks had governed the movements of the Allied armies, was dead. For the next three days Haig's men beat off the attacks of the German reserve corps at Langemarck, and at Ypres a long, bloody defensive battle began.

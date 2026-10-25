@@ -1,0 +1,14 @@
+---
+title: Germans take Roeselare
+summary: On 18–19 October 1914 the Germans took Roeselare after fighting the French. Taking the inhabitants for francs-tireurs, they murdered dozens of civilians.
+source: niemcy-zajmuja-roeselare
+sourceHash: 03ac74effd8087aa15f16f8896a919ae63cf0881
+---
+
+A British chronicle of the war records under 18 October 1914 the German occupation of [Roeselare](https://pl.wikipedia.org/wiki/Roeselare) (French: Roulers), a town in West Flanders about 20 kilometres north-east of Ypres. Only five days earlier the [British 7th Division had passed through](/alianci-wracaja-do-ypres) on its march from Ghent to Ypres. Now fresh German reserve corps of the new Fourth Army were arriving from the east, heading for Ypres. Local accounts indicate that on 18 October only a small detachment, about ninety soldiers, passed through the deserted streets and moved on. The main forces entered the town the next day, after a fight.
+
+On 19 October Roeselare was attacked by units of the 46th Reserve Division of XXVI Reserve Corps, made up largely of young, poorly trained volunteers. The town was defended by French cavalry units, which were to delay the German advance and give the Allies time to dig in at Ypres. From the morning German artillery shelled the town, and from the south there was fierce fighting along the canal and at the railway station. In the afternoon, after several hours of bombardment, the German infantry broke into the centre, and the French withdrew to the west.
+
+The German soldiers, fired on from houses by French cavalrymen, concluded that civilians were shooting at them. They smashed windows, broke down doors and drove the inhabitants out into the streets. Men were tied up and driven ahead of the advancing troops as human shields, among other places on the market square. Many civilians were shot or bayoneted, and houses and farms were looted and burned. In Roeselare itself, according to various sources, between about 30 and nearly 40 inhabitants were killed, and considerably more in the surrounding communes, among them Rumbeke, Ledegem and Esen. In the region at least 160 civilians fell victim to the reprisals. The inhabitants called the day "Schuwe Maandag", the terrible Monday.
+
+Roeselare remained in German hands for four years. It became an important junction behind the front at Ypres. Supplies, ammunition and soldiers for the Fourth Army passed through its station and railway lines, and the town had military hospitals and depots. For this reason it was a target for Allied artillery and aircraft. In the summer of 1917, during the Third Battle of Ypres, the Germans began to deport the inhabitants deeper into Belgium. When the town was liberated on 14 October 1918, only a few hundred of its nearly 20,000 former inhabitants remained.

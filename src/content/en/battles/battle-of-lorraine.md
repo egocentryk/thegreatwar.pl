@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Auguste Dubail, Noël de Castelnau]
   - name: German Empire
-    commanders: [Crown Prince Rupprecht of Bavaria, Josias von Heeringen]
+    commanders: ["Rupprecht, Crown Prince of Bavaria", Josias von Heeringen]
 result: German victory. The French withdrew to the hills in front of Nancy, where they halted the German pursuit.
 source: bitwa-w-lotaryngii
 sourceHash: 0f179579f4ff25e706b880236f7ab9ed4363b851

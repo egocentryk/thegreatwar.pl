@@ -13,7 +13,7 @@ draft: false
 
 14 października 1914 roku wojska niemieckie wkroczyły do [Brugii](https://pl.wikipedia.org/wiki/Brugia), stolicy Flandrii Zachodniej. Średniowieczne miasto kanałów i kupieckich kamienic nie było bronione. Jeszcze tydzień wcześniej kwaterowali w nim żołnierze [brytyjskiej 7 Dywizji](/brytyjska-7-dywizja-laduje-w-belgii), którzy wylądowali w pobliskim Zeebrugge, ale po upadku Antwerpii i [zajęciu Gandawy](/niemcy-zajmuja-gandawe) alianci wycofali się dalej na zachód, nad rzekę Yser i pod Ypres.
 
-Według opracowań belgijskich były to oddziały rezerwowe niemieckiej 4 Armii, które weszły do miasta przez Bramę Gandawską. Tego samego dnia w podmiejskim Assebroek osiemdziesięcioletni burmistrz Amédée Visart de Bocarmé, rządzący Brugią od 38 lat, podpisał w obecności niemieckiego generała von Werdera kapitulację miasta. Członkowie rady miejskiej zgłosili się jako zakładnicy, gwarantując spokój. Przejęcie Brugii przebiegło bez rozlewu krwi i miasto uniknęło zniszczeń, jakie spotkały Leuven czy Dendermonde. Niektóre lokalne opracowania podają datę 15 października, ale większość źródeł wskazuje na 14.
+Według opracowań belgijskich były to oddziały rezerwowe niemieckiej 4 Armii, które weszły do miasta przez Bramę Gandawską. Tego samego dnia w podmiejskim Assebroek blisko osiemdziesięcioletni burmistrz Amédée Visart de Bocarmé, rządzący Brugią od 38 lat, podpisał w obecności niemieckiego generała von Werdera kapitulację miasta. Członkowie rady miejskiej zgłosili się jako zakładnicy, gwarantując spokój. Przejęcie Brugii przebiegło bez rozlewu krwi i miasto uniknęło zniszczeń, jakie spotkały Leuven czy Dendermonde. Niektóre lokalne opracowania podają datę 15 października, ale większość źródeł wskazuje na 14.
 
 ## Stolica Marinegebiet
 

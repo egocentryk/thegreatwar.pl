@@ -6,7 +6,7 @@ sides:
   - name: France
     commanders: [Joseph Joffre, Noël de Castelnau, Michel-Joseph Maunoury]
   - name: German Empire
-    commanders: [Erich von Falkenhayn, Alexander von Kluck, Rupprecht of Bavaria]
+    commanders: [Erich von Falkenhayn, Alexander von Kluck, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. Neither side outflanked the enemy's wing, and the front settled between the Oise and the Somme. The fighting moved further north.
 source: pierwsza-bitwa-w-pikardii
 sourceHash: d06491d332208b1336c375094fcd48f0e0364094
