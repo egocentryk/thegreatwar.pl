@@ -1,0 +1,22 @@
+---
+title: Millerand leaves the Ministry of War
+summary: On 29 October 1915 War Minister Alexandre Millerand, criticised for munitions shortages and deference to Joffre, left office with Viviani's government.
+source: millerand-odchodzi-z-ministerstwa-wojny
+sourceHash: f41019a8522712dfe1f48981564fbd3121580247
+---
+
+On 29 October 1915, with the resignation of René Viviani's government, [Alexandre Millerand](/postacie/alexandre-millerand) left the Ministry of War. He had headed it since [the end of August 1914](/millerand-ministrem-wojny), through the hardest months of the war. He was not included in Aristide Briand's new cabinet, and his successor was General Joseph Gallieni. Millerand's departure was no accident: as President [Raymond Poincaré](/postacie/raymond-poincare) noted, Parliament was almost unanimous in wanting him removed from the Ministry of War.
+
+## The commander-in-chief's minister
+
+From the start Millerand saw his role as an intermediary between the government and General Headquarters, and almost always sided with the commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre). He shielded him from parliamentary criticism, supported tighter censorship and agreed to the introduction in 1914 of special courts martial with simplified procedure. In private conversations Poincaré spoke of a "military dictatorship". During the first months of the war, while the Chambers were not sitting, the minister did not have to account for anything. From January 1915, however, Parliament sat continuously, and its committees wanted to oversee almost every military matter. Millerand tried to limit this oversight, which made him enemies.
+
+The gravest charge was the shortage of armament. As early as September 1914 the minister and the industrialists decided to raise the output of shells for the 75 mm guns to 100,000 a day, but the target long remained out of reach, and hastily produced ammunition was often defective. In the Senate Millerand admitted that "quality" had had to be "sacrificed" to "quantity", and refused to punish the industrialists. Orders for heavy artillery were considered late and too small, and the organisation of aviation and the medical service was also criticised. The Council of Ministers imposed deputies on the minister: in May 1915 the socialist [Albert Thomas](/postacie/albert-thomas) took charge of artillery and munitions, and in the summer under-secretaries of state for supply, the medical service and aviation were appointed.
+
+## The Sarrail affair
+
+Millerand was particularly damaged by the affair of General [Maurice Sarrail](/postacie/maurice-sarrail), commander of the Third Army and a favourite of the left. On 22 July 1915 Joffre removed him from command after unsuccessful fighting in the Argonne. The left saw this as a political purge, and it was the first open conflict between politicians and the military in France during this war. Millerand sided with the commander-in-chief. The crisis was resolved only when the government gave Sarrail command of the expedition to the East, which landed at Salonika in October.
+
+In October 1915 the failed autumn offensive and the disaster in the Balkans were added to the old charges. On 19 October Millerand signed in London a protocol on the Salonika expedition which some ministers regarded as a retreat from British promises. When Prime Minister Viviani tried to reshape the government, on 22 October he offered Millerand the Ministry of Justice. Millerand refused. He declared that he would gladly leave and help from outside, but would accept no other portfolio unless it was connected with national defence, foreign affairs for example. Poincaré argued to him that Millerand had become a scapegoat for all the earlier mistakes of the military administration, but that by his haughtiness and stubbornness he had alienated even his friends.
+
+The centre and right-wing press bade the minister farewell with praise. Alfred Capus of *Le Figaro* wrote that for more than a year Millerand had directed "this powerful organism of national defence" with a strength, precision and devotion for which patriots would be grateful to him. His successor, General Gallieni, at first did not intend to write to his predecessor, with whom he was not on good terms, but the next day he sent him a letter. Millerand disappeared from the front line of politics for several years. He returned to it after the war, and from 1920 to 1924 he was President of France.

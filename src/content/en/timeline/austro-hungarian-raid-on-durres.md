@@ -1,0 +1,24 @@
+---
+title: Austro-Hungarian raid on Durrës
+summary: On 29 December 1915 the cruiser Helgoland and five destroyers raided Durrës. Two destroyers sank on mines and the rest barely escaped pursuit.
+source: austro-wegierski-rajd-na-durres
+sourceHash: 53b07d7edbe99bbd870ea0a873b28ae012f00986
+---
+
+On 29 December 1915 the Austro-Hungarian light cruiser [SMS *Helgoland*](https://pl.wikipedia.org/wiki/SMS_Helgoland_(1912)) and five [*Tátra*-class](https://pl.wikipedia.org/wiki/Niszczyciele_typu_Tátra) destroyers again raided the Albanian port of [Durrës](https://pl.wikipedia.org/wiki/Durrës). The [previous raid](/austro-wegierska-eskadra-ostrzeliwuje-durres), on 6 December, had cost the Entente only a few sailing vessels. This time the Italians, who had [occupied the town a few days earlier](/wlosi-obsadzaja-durres), already had batteries on the hills and a minefield off the port. The Austrians sank a steamer and two sailing vessels in the roadstead, and during the night on their way the French submarine *Monge*, but two of their destroyers, *Lika* and *Triglav*, ran onto mines. *Lika* sank at once. The damaged *Triglav* had to be abandoned after several hours under tow. The rest of the force was chased until dusk by British and Italian cruisers from [Brindisi](https://pl.wikipedia.org/wiki/Brindisi).
+
+## A slow alarm
+
+The British official history describes in detail how Brindisi reacted to the news of the raid. The first report was inaccurate. An Italian officer who came aboard the British cruiser HMS *Dartmouth* in the morning spoke of Austrian destroyers off Vlorë. Only just before putting to sea did *Dartmouth*'s commander, Captain Addison, learn that Durrës was meant. He did not wait for the French destroyers, which did not yet have steam up, but sailed with the Italian cruiser [*Quarto*](https://pl.wikipedia.org/wiki/Quarto_(1911)) and decided to place himself between the Austrians and their base at [Kotor](https://pl.wikipedia.org/wiki/Kotor).
+
+The second force sailed later. The Italian vice-admiral commanding at Brindisi, Emanuele Cutinelli Rendina, preferred to wait for more reliable news. Captain D. B. Crampton of the cruiser HMS *Weymouth* went across to his flagship and asked for permission to sail. Only after 9 a.m., when a report came in that the Austrians were still off Durrës, did the admiral send Rear-Admiral Belleni to sea with the cruiser *Nino Bixio*, *Weymouth* and four destroyers. The British believed afterwards that had Belleni turned at once towards the coast, as Addison had, the action would have begun at least two hours earlier.
+
+## Seitz and *Csepel*
+
+*Helgoland*'s commander, Captain Heinrich Seitz, knew from the morning that he would be pursued. At 8.15 a.m. his wireless operators intercepted a report from Durrës to Brindisi. The destroyer *Tátra*, towing *Triglav*, could make 6 knots, and [*Csepel*](https://pl.wikipedia.org/wiki/SMS_Csepel) had a length of towing hawser in her propeller. At 12.10 p.m. Seitz issued an order in case of an encounter with cruisers: *Triglav* was to be scuttled, her documents, money and crew transferred to [*Balaton*](https://pl.wikipedia.org/wiki/SMS_Balaton), and *Helgoland* would draw the enemy's fire to give *Csepel* a chance to escape. At 12.50 p.m. he met the Austro-Hungarian submarine U-15 and ordered her to lie in wait by the abandoned *Triglav*, in the hope that the Allied cruisers would stop beside it and become an easy target.
+
+The trap failed, but Seitz kept his word. When at about 1.40 p.m. *Dartmouth* opened fire, *Helgoland* manoeuvred for several hours so as to shield the slower destroyer. When at about 2.10 p.m. *Quarto* turned towards *Dartmouth*, Seitz wrote in his log that his torpedo had forced the Italians to take evasive action. No one on board *Quarto* noticed that torpedo. The British official history cites the episode as an example of how badly opponents can misjudge each other's intentions. After 3.30 p.m. Belleni's force joined the chase, and for a time four Allied cruisers were firing at *Helgoland*. She was hit several times but lost no speed. After sunset she passed just ahead of the Italian ships and at about 6 p.m. vanished into the darkness.
+
+## The toll
+
+Seitz brought *Helgoland* and three destroyers back to Kotor. He had lost two of the six most modern destroyers of the Austro-Hungarian fleet, and in return had sunk the submarine *Monge* and three small vessels. *Monge*'s captain, [Roland Morillot](https://pl.wikipedia.org/wiki/Roland_Morillot), went down with his boat. The British stressed Seitz's courage, but realised that with better cooperation between the Brindisi forces *Helgoland* would not have returned to base. Most important, however, was the effect on shipping. The Austro-Hungarian cruisers suspended their sorties for several weeks, and the evacuation of the Serbian army through Durrës and other Albanian ports went on.

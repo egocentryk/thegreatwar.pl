@@ -1,0 +1,18 @@
+---
+title: Loss of the airship LZ 39
+summary: On 17 December 1915 Russian artillery hit the German airship LZ 39 over Rovno. The crew managed to land near Lutsk, but the ship could not be saved.
+source: utrata-sterowca-lz-39
+sourceHash: 5b3ca34d0eef126bdaccbb38c3915f36db8599b3
+---
+
+On 17 December 1915 the German army airship LZ 39, commanded by Hauptmann Dr Lempertz, attacked [Rovno](https://pl.wikipedia.org/wiki/Równe) in Volhynia, an important railway junction behind the Russian front. Over the town it was hit by Russian artillery fire. Shrapnel fragments pierced the rear gas cells and damaged the suspension of the forward engine gondola. The airship still made it back to the German side of the front, but was so badly damaged that it had to be dismantled. A British chronology of the war states that LZ 39 was destroyed on 5 November 1915 near [Grodno](https://pl.wikipedia.org/wiki/Grodno). German sources and lists of German airships, however, know of no such loss near Grodno, which since [September](/niemcy-zdobywaja-grodno) had lain far behind the front line. Instead they describe the end of LZ 39 over Rovno and near Lutsk in December.
+
+## An airship of two fronts
+
+LZ 39 first took to the air on 24 April 1915. It served first on the Western Front, from bases in Belgium and the Rhineland. On 17 May over Belgium it was attacked by the British naval airman Arthur Bigsworth and seriously damaged. On the night of 6–7 June LZ 39 was one of three army airships that took off from Belgium against England when [Reginald Warneford destroyed LZ 37](/warneford-niszczy-sterowiec-lz-37). At the end of July the airship was transferred to the Eastern Front, at the disposal of Field Marshal Hindenburg. It was based in turn at Schneidemühl, Allenstein, Posen and Warsaw. During the great offensive in the summer of 1915 it bombed the railways and fortresses on which the Russian retreat relied, among them the station at Tłuszcz and the fortress of Novogeorgievsk. According to German tallies, in three raids in the west and two in the east it dropped a total of 4,184 kilograms of bombs.
+
+## Back with a tilting ship
+
+We know the course of the last flight from the account of Lempertz himself, written down by another airship commander, Ernst Lehmann. After being hit over Rovno the airship turned west, but the pierced rear cells were losing gas, so the stern sank lower and lower until the ship hung in the air at a steep angle, tail towards the ground, still over Russian territory. After a while the remains of the forward engine gondola's suspension gave way. The gondola fell to the ground together with one of the mechanics. This threatened to tear away the adjoining control gondola, so the crew abandoned it and moved to the emergency steering position in the stern. The airmen threw out ballast and fuel tanks and shifted the load from the stern to the bow to level the ship. In this way they flew over the front line and landed safely near [Lutsk](https://pl.wikipedia.org/wiki/Łuck), on the side of the Central Powers.
+
+Lehmann wrote that if repair materials and a supply of gas had been on hand, the ship could have been saved. There were none, however, so LZ 39 collapsed and lay as a crumpled wreck until teams arrived to dismantle it. Lehmann placed these events as early as October 1915, but lists of German airships, among them the work of the historian Douglas Robinson, give 17 December. The loss of LZ 39 was one of many proofs that large, slow airships were coping less and less well over targets defended by artillery. A few months earlier, in August, the naval airship [L 12](/utrata-sterowca-l-12) had been hit in a similar way over Dover.

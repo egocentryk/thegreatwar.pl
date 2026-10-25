@@ -1,0 +1,36 @@
+---
+title: Execution of Edith Cavell
+summary: On 12 October 1915 the Germans shot the British nurse Edith Cavell in Brussels. She had helped Allied soldiers escape from occupied Belgium.
+source: rozstrzelanie-edith-cavell
+sourceHash: 23161cc5213f3613ab25fc22d8be79589f634e2a
+---
+
+At dawn on 12 October 1915, at the Tir National military rifle range in [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek) on the outskirts of [Brussels](https://pl.wikipedia.org/wiki/Bruksela), a German firing squad shot the 49-year-old British nurse [Edith Cavell](https://pl.wikipedia.org/wiki/Edith_Cavell). The Belgian architect Philippe Baucq died with her. A German court martial had sentenced them the previous day for helping Allied soldiers and young Belgians escape from occupied Belgium to the neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia). Night-time efforts by American diplomats and the Spanish minister to obtain a pardon, or at least a postponement of the execution, came to nothing.
+
+## The nurse from Brussels
+
+Edith Cavell was born in 1865 in [Swardeston](https://pl.wikipedia.org/wiki/Swardeston) near Norwich, into the family of an Anglican clergyman. She trained as a nurse at the London Hospital, and in 1907 the Belgian surgeon Antoine Depage entrusted her with running a newly founded school of nursing in [Ixelles](https://pl.wikipedia.org/wiki/Ixelles). She is regarded as one of the founders of modern, secular nursing in Belgium. The outbreak of war found her in England, visiting her mother, but she returned to Brussels. When [the Germans occupied the city](/niemcy-zajmuja-bruksele), her school and clinic carried on under the sign of the Red Cross and treated the wounded of both sides, Germans included.
+
+In the autumn of 1914 many British and French soldiers who had been left behind the front line after the August battles were hiding in Belgium. A network arose that gave them shelter, false papers, money and guides to the Dutch border. The men were gathered at the château of Prince Réginald de Croÿ at [Bellignies](https://pl.wikipedia.org/wiki/Bellignies) near [Mons](https://pl.wikipedia.org/wiki/Mons), from where they went on to hiding places in Brussels, among them Cavell's house. Also active in the network were the prince's sister Marie de Croÿ, the French teacher [Louise Thuliez](https://pl.wikipedia.org/wiki/Louise_Thuliez) and Baucq, who organised the guides. Under German military law, helping soldiers of an enemy army was a crime punishable by death.
+
+## Arrest and trial
+
+The German secret police uncovered the network in the summer of 1915. Baucq and Thuliez were arrested on 31 July, and Cavell on 5 August. For ten weeks she was held in the prison of [Saint-Gilles](https://pl.wikipedia.org/wiki/Saint-Gilles_(Belgia)). In her statements she admitted to having helped about 60 British and 15 French soldiers, and about a hundred Frenchmen and Belgians of military age, to get across to the Netherlands. Before the court she even spoke of about two hundred people. She also admitted that some of the soldiers had written to thank her after reaching England. That decided the verdict: it was no longer a matter of illegally crossing the border but of "conducting soldiers to the enemy", for which paragraph 58 of the German military code prescribed the death penalty.
+
+The trial of more than 30 defendants took place on 7 and 8 October 1915 in the chamber of the Belgian Senate. Cavell defended herself briefly and openly. She said that she had helped the soldiers because she was afraid the Germans would shoot them. Her defence counsel, the Belgian lawyer Sadi Kirschen, had not been able to see her beforehand or to study the files. The American legation, which looked after British interests in occupied Belgium, had no access to the accused. Britain itself could do nothing. The Foreign Office judged that British intervention would only harm her.
+
+The sentence was announced on 11 October at about 5 p.m. According to the German proclamation, the court sentenced six people to death, among them Cavell, Baucq and Thuliez, and more than twenty others to hard labour or imprisonment. The sentences of the other four condemned to death were not carried out. They were commuted to imprisonment, thanks among other things to the intercession of King [Alfonso XIII](https://pl.wikipedia.org/wiki/Alfons_XIII) of Spain.
+
+## A night of pleas for mercy
+
+Throughout 11 October officials of the German political department assured the US legation that no sentence had yet been passed, and that even if it were, it would not be carried out quickly. In the evening word reached the legation's secretary, [Hugh Gibson](https://pl.wikipedia.org/wiki/Hugh_Gibson), that Cavell would be shot that very night. The minister, Brand Whitlock, who was ill, wrote a plea for mercy from his bed to the Governor-General, [Moritz von Bissing](https://pl.wikipedia.org/wiki/Moritz_von_Bissing). At about 10.30 p.m. Gibson, the legation's legal adviser Gaston de Leval and the Spanish minister, the Marquis de Villalobar, tracked down the head of the political department, Baron Oskar von der Lancken.
+
+According to Gibson's account, they reminded him of the burning of [Louvain](/niemcy-niszcza-lowanium) and the [sinking of the *Lusitania*](/zatopienie-lusitanii). They warned that the execution of a woman would shock the whole civilised world and do Germany enormous harm. Lancken finally turned to the military governor of Brussels, General Traugott von Sauberzweig, who as the court's superior authority had confirmed the sentence. Sauberzweig refused to accept the plea for mercy. The diplomats left after midnight empty-handed.
+
+On the evening of 11 October the Anglican chaplain Stirling Gahan was admitted to Cavell's cell. He gave her communion. According to his account she then said: "I realise that patriotism is not enough. I must have no hatred or bitterness towards anyone." She spent her last hours with the German prison pastor Paul Le Seur, who later recounted that she died calmly and "like a heroine". Her death was certified by a German army doctor, the poet [Gottfried Benn](https://pl.wikipedia.org/wiki/Gottfried_Benn).
+
+## Law and propaganda
+
+The German authorities considered the sentence lawful and pointed out that the death penalty had been announced in numerous proclamations. The post-war British committee on breaches of the laws of war later took a similar view. Critics, however, pointed to the haste with which the sentence was carried out and to the misleading of the diplomats. Cavell was not charged with espionage, although after the execution German communiqués began to call her a spy. At the beginning of 1916 Emperor [Wilhelm II](/postacie/wilhelm-ii) laid down that executions of women would henceforth require his consent.
+
+In Britain and the United States Cavell's death caused enormous outrage. British propaganda presented her as an innocent victim of German barbarity, and her portraits appeared on recruiting posters. After the war her remains were brought back to England. After a service in [Westminster Abbey](https://pl.wikipedia.org/wiki/Opactwo_Westminsterskie) she was buried on 19 May 1919 beside [Norwich Cathedral](https://pl.wikipedia.org/wiki/Katedra_w_Norwich).

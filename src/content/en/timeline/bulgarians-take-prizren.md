@@ -1,0 +1,24 @@
+---
+title: Bulgarians take Prizren
+summary: In late November 1915 the Bulgarian 3rd Division took Prizren, the last seat of Serbian authority at home, with thousands of prisoners and vast booty.
+source: bulgarzy-zajmuja-prizren
+sourceHash: e250c68218bb93136b0eaf4200216132aa094457
+---
+
+The British chronology of the war records under 1 December 1915 that Bulgarian troops had taken [Prizren](https://pl.wikipedia.org/wiki/Prizren). On that day the British press reported the fall of the town. The capture itself had taken place earlier. Bulgarian works date it to 16 November by the Julian calendar, which Bulgaria was still using at the time, that is to 29 November. Most historians accept this date. According to some English-language works, the last skirmish of the Serbian rearguards just outside the town took place on 27 November. The town, where a few days earlier [the Serbian government, the king and the supreme command had still been based](/rzad-serbski-opuszcza-prizren), was crammed with troops, transport and refugees who had not managed to set off into the mountains.
+
+## Pursuit on the western edge of Kosovo
+
+Prizren was taken by General Nikola Ribarov's 3rd Balkan Infantry Division of General [Georgi Todorov](/postacie/georgi-todorow)'s [2nd Army](https://pl.wikipedia.org/wiki/2_Armia_(Carstwo_Bułgarii)). This division formed the right wing of the army that had occupied Serbian Macedonia in October. In November its regiments [stopped the Serbs in the gorge at Kačanik](/bitwy/bitwa-pod-kacanikiem), and a detachment sent via [Tetovo](https://pl.wikipedia.org/wiki/Tetowo) reached [Gostivar](https://pl.wikipedia.org/wiki/Gostiwar) on 16 November and threatened Prizren from the south. Field Marshal August von Mackensen wanted the Bulgarian 1st Army, advancing from the direction of Priština, also to cut off the Serbs at Prizren. According to the Austrian official history, however, that army was paralysed by an acute shortage of food. The burden of the pursuit therefore fell on the 3rd Division.
+
+According to the same source, the Serbian army fought its last battle on the Field of Kosovo on 25 November, on the hills east of Prizren. After that the units assigned the route through Prizren set off into the mountains of northern Albania. According to the Austrian official history, between 28 November and 3 December the Bulgarians time and again ran into a tangle of troops, guns, carts and refugees near Prizren, [Đakovica](https://pl.wikipedia.org/wiki/Djakowica) and in the valley of the [White Drin](https://pl.wikipedia.org/wiki/Biały_Drin), broke all resistance and took huge numbers of prisoners. Bulgarian works state that near Prizren the 29th Yambol Infantry Regiment even captured the carriage of King [Peter I](/postacie/piotr-i-karadziordziewic), who had set off from here into the mountains a few days earlier.
+
+## Prisoners and booty
+
+According to communiqués quoted by the British press, the Bulgarians claimed to have taken 15,000 to 17,000 prisoners, 50 field guns and howitzers, 20,000 rifles and 148 motor vehicles in and around Prizren. A German communiqué spoke of 15,000 prisoners, and a few days later of more than a hundred captured guns and about 200 motor vehicles. These figures are not verified. The Austrian official history estimates that in the whole campaign against Serbia the Bulgarians captured about 200 guns and took about 50,000 prisoners. It is known that many of the prisoners were exhausted and hungry soldiers who had fallen behind or given themselves up. The Serbs also left in Prizren and on the roads towards the mountains almost all the equipment that could not be carried over the passes on horseback.
+
+## What came next
+
+The 3rd Division pursued the Serbs for a few more days. According to the Austrian official history, it reached Đakovica on 3 December. Bulgarian sources date the capture of that town to 21 November by the Julian calendar, that is 4 December. On 4 December, recalled by their command, the Bulgarians broke off the pursuit and most of their forces turned south, against the French and British on the Vardar. The Serbs were not pursued further into the mountains of Albania on any large scale.
+
+The capture of Prizren also revealed friction between the allies. Austria-Hungary regarded the lands north of the line Mitrovica–[Peć](https://pl.wikipedia.org/wiki/Peć)–Scutari as its exclusive sphere of influence and did not want the Bulgarians there. Prizren and its surroundings nevertheless remained in Bulgarian hands. According to the Austrian official history, the 3rd Division was to occupy the Đakovica–Prizren–Priština area and for a time come under the orders of General [Hermann Kövess](/postacie/hermann-kovess)'s Austro-Hungarian 3rd Army. The town remained in the Bulgarian occupation zone until the autumn of 1918.

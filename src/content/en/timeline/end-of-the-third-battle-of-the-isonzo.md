@@ -1,0 +1,24 @@
+---
+title: End of the Third Battle of the Isonzo
+summary: On 3 November 1915 the Italians last stormed Podgora and Monte San Michele. Next day the defenders retook their trenches and Cadorna halted the offensive.
+source: koniec-trzeciej-bitwy-nad-isonzo
+sourceHash: c644434a64d0c2556741b2a4f12acc3ba5029415
+---
+
+The British chronology of the war ends the Third Battle of the Isonzo on 3 November 1915. On that day the Italians launched their last great assaults on the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and Monte San Michele, which broke down. The Italian and Austro-Hungarian official histories count the battle as one day longer, to 4 November. On the morning of that day the defenders recaptured the last trenches on Podgora hill, and in the evening General [Luigi Cadorna](/postacie/luigi-cadorna) ordered the attacks to stop. Hence both dates, 3 and 4 November, appear in the literature.
+
+## Oslavia and Podgora
+
+The night of 2 to 3 November began at Gorizia with an Austrian counter-attack. The previous day the Italian 11th Division had taken the village of Oslavia with its church on the ridge above the Isonzo. The commander of the bridgehead's defence, General Erwin Zeidler, threw in his last reserve, a battalion of the Dalmatian 37th Landwehr Regiment. By morning it had retaken the first line of trenches, two of its own guns and several hundred prisoners, and the captured explosives were later used to fill 6,000 hand grenades. The Italian 11th Division was so bled white that it had to be relieved.
+
+The commander of the Italian VI Corps, General Luigi Capello, did not give up, however. He knew that public opinion at home was expecting the capture of Gorizia any day, and believed that the defenders' resistance must finally break. On 3 November he again hurled his divisions at Podgora hill. The fighting broke up into fierce clashes of individual units in the mud of shell craters, softened by several days of downpours. West of the village of Grafenberg a Hungarian battalion of the 52nd Infantry Regiment repulsed six assaults. At the seventh the remnants of the attackers threw down their weapons and surrendered. On the summit of Podgora all the attacks broke down, but on the southern ridge near Lucinico the Italian 12th Division broke into the Austrian trenches and briefly even got beyond Hill 184. The defenders no longer had the strength for an organised counter-attack.
+
+## The last attacks on the Karst
+
+On the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau, on the night before 3 November, three Feldjäger battalions of the 6th Infantry Division began relieving the Honvéd on the northern slope of Monte San Michele. In the darkness the guides lost their way, and one of the new battalions went beyond the forward position straight into Italian fire from three sides, suffering heavy losses. The Austrians then abandoned this unfavourable salient and occupied a new line 50 paces behind it. At 2 p.m. the Italians attacked along the whole front of the Austro-Hungarian VII Corps, from Monte San Michele to the hills beyond San Martino, but the attack nowhere reached the Austrian trenches. Night attempts to break through at San Martino also failed. At Monfalcone, after a twelve-day pause, the Italian VII Corps attacked the positions of the Austrian III Corps in a storm and was driven back by artillery and machine-gun fire.
+
+## 4 November
+
+The next morning the exhausted Austrian garrisons on Podgora, supported by a few batteries, drove the Italians out of the trenches step by step. When at noon the sun came out after several days of rain, the hill was in the defenders' hands, and the Italians held on only to a narrow sector on the western slope. On the Karst the 17th Division repulsed the last attacks at San Martino. In the evening Cadorna, in view of the exhaustion of his troops and the torrential rain, ordered the offensive halted. According to the Italian official history, the attempts to break through at Gorizia alone had cost about 300 officers and 10,000 men. General [Svetozar Boroević](/postacie/svetozar-boroevic), usually sparing with praise, afterwards thanked the 58th Division before officers in Gorizia, saying that in this battle it had surpassed its earlier achievements.
+
+The pause was meant to be short. Cadorna ordered both armies to prepare for a swift resumption of the fighting and to give the defenders no respite. The exhausted divisions of the Third Army began to be replaced with fresh ones, and the Italian artillery did not stop firing. The Austrian official history admits that the name "Third Battle of the Isonzo" was given under the impression of this pause, before it was known that this was only the first part of the autumn offensive. The fourth battle began on 10 November.

@@ -1,0 +1,20 @@
+---
+title: Britain offers Cyprus to Greece
+summary: On 16 October 1915 London offered to cede Cyprus to Greece. The only condition was that the Greek army be sent at once to help Serbia.
+source: wielka-brytania-oferuje-grecji-cypr
+sourceHash: bd6fe7c49ad869e3406f38c147b9bd852cbf4d0a
+---
+
+On 16 October 1915, that is, 3 October according to the Julian calendar then used in Greece, the British minister in Athens, Sir Francis Elliot, received instructions from Foreign Secretary [Edward Grey](/postacie/edward-grey) to convey an extraordinary proposal to the Greek government. Britain was ready to give [Cyprus](https://pl.wikipedia.org/wiki/Cypr) to Greece if Greece came to the aid of Serbia, which was under attack. The date of 16 October is given by the history of Greece's part in the war published by the Greek general staff, and also by the British chronology of the war.
+
+## An island for an alliance
+
+The telegram, whose text in Greek translation is quoted by the historian Georgios Ventiris, was short. Grey recalled that Serbia had been attacked by Bulgaria. If Greece was willing to come to her aid, His Majesty's Government was ready to give her the island of Cyprus. If Greece joined the Allies without reservation, she would naturally also share in the advantages that the end of the war would bring. London, however, offered the cession of Cyprus independently of this, on one condition only: that Greece give Serbia the full and immediate support of her army. "Time is passing," the minister concluded, instructing the minister in Athens to ask Prime Minister [Alexandros Zaimis](/postacie/aleksandros-zaimis) for an answer without delay.
+
+It was a concrete offer of a kind Greece had not yet received. [In January 1915](/brytyjska-oferta-dla-grecji) Grey had promised Athens only vaguely "very important territorial concessions" in Asia Minor, dependent on the consent of France and Russia and on future victory. This time it was an island that Britain held in its hand and could give away at once. Cyprus had formally belonged to the British for less than a year. They had administered it since 1878 on behalf of the sultan, and had [annexed it](/wielka-brytania-anektuje-cypr) in November 1914, when Turkey entered the war. The majority of the island's inhabitants were Greeks, among whom the aspiration to [enosis](https://pl.wikipedia.org/wiki/Enosis), that is, union with Greece, had been alive for decades.
+
+## A last attempt to save Serbia
+
+London played this card because in the Balkans every day counted. Since 6 October Serbia had been defending itself against the German and Austro-Hungarian armies, which had already taken Belgrade and were pushing into the interior. On 14 October Bulgaria declared war on it, and Bulgarian troops were crossing the eastern frontier. The railway line from Salonika to Niš, the only route by which Entente help could arrive, was under threat. According to Greek studies, Grey feared above all that after the fall of Serbia Germany would link up with Turkey by land. The French and British troops who had been landing at [Salonika](https://pl.wikipedia.org/wiki/Saloniki) since the beginning of October were too few to stop the Bulgarians on their own. Meanwhile the Greek army, mobilised since September, stood in Macedonia close by.
+
+The government in Athens, however, was quite different from what it had been two weeks earlier. After the resignation of Eleftherios Venizelos, a supporter of war on Serbia's side, power passed to the [Zaimis cabinet](/aleksandros-zaimis-premierem-grecji), which included opponents of the war. Behind it stood King [Constantine I](/postacie/konstantyn-i) and the general staff, convinced that the Central Powers would win in the Balkans. Only six days earlier Zaimis had [refused the Serbs help](/grecja-odrzuca-prosbe-serbii-o-pomoc), explaining that the alliance of 1913 concerned only a Balkan war, not a European one. The British hoped that the prospect of gaining Cyprus would outweigh the fear of Germany in Greece. They did not have much time to find out.

@@ -1,0 +1,26 @@
+---
+title: Capture of Mitrovica and Pristina
+summary: On 23 November 1915 Germans entered Pristina and Austro-Hungarians Mitrovica. Trapped on the Field of Kosovo, the Serbs began retreating to the Adriatic.
+source: zdobycie-mitrowicy-i-prisztiny
+sourceHash: 055a04b8bf2efa0eefb995d9c4d1947f42b2d5f8
+---
+
+On 23 November 1915 the troops of the Central Powers took the two main towns of the [Field of Kosovo](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)), the last patch of Serbia on which its army could still make a stand. In the evening Germans of General [Max von Gallwitz](/postacie/max-von-gallwitz)'s Eleventh Army marched into [Pristina](https://pl.wikipedia.org/wiki/Prisztina). Late in the evening a battalion of the Austro-Hungarian 59th Infantry Division of General [Hermann Kövess](/postacie/hermann-kovess)'s Third Army broke into [Mitrovica](https://pl.wikipedia.org/wiki/Mitrowica), and the main body of the division entered the town on the morning of 24 November. For this reason some studies give 24 November as the date for Mitrovica.
+
+## The ring around the Field of Kosovo
+
+Field Marshal [August von Mackensen](/postacie/august-von-mackensen) wanted to trap the Serbian army on the Field of Kosovo, in the basin where in 1389 the Serbs had [lost a battle to the Turks](https://pl.wikipedia.org/wiki/Bitwa_na_Kosowym_Polu_(1389)). From the north, down the valley of the [Ibar](https://pl.wikipedia.org/wiki/Ibar), Kövess's army, which [had taken Novi Pazar a few days earlier](/niemcy-i-austriacy-zajmuja-novi-pazar), was advancing on Mitrovica. From the north-east, down the valley of the Lab, the Germans were attacking Pristina, and from the east and south the Bulgarian First Army and the northern group of the Second Army. Vojvoda [Radomir Putnik](/postacie/radomir-putnik) still tried to break through southwards to the French on the Vardar, but after two days of heavy fighting at Kačanik the Bulgarians repulsed the Serbs on 21 November. The same day Putnik ordered his troops to withdraw behind the [Sitnica](https://pl.wikipedia.org/wiki/Sitnica_(rzeka)) river, to the western edge of the basin.
+
+## Mitrovica
+
+Mitrovica, the terminus of the railway from Skopje, was the last large supply base of the Serbian army. Until recently the government and the diplomatic corps had also been here, before moving on to Prizren [after leaving Niš and Kraljevo](/rzad-serbski-opuszcza-kraljevo). According to the Austrian official history, the Serbs defended themselves fiercely in the Ibar valley to gain time to remove the stores gathered in the town. During the night of 21–22 November two battalions of the Austro-Hungarian 18th Mountain Brigade took their position at Sočanica, capturing 200 prisoners and 6 guns. On 23 November the brigade reached the town itself, but on the hills to the north of it it was halted by the Serbian second-levy Danube Division. The commander of the 59th Division postponed the attack until morning. Meanwhile the Serbs withdrew behind the Sitnica, and at about 10.30 p.m. the III Battalion of the 31st Infantry Regiment marched into Mitrovica. On the morning of 24 November the rest of the division entered. Thirteen guns, machine guns, ammunition, seven partly destroyed locomotives and 130 wagons were captured. There was no food, because the Serbs had destroyed the stores they had been unable to take with them. According to the same source, the local Albanians and Turks welcomed the arriving troops.
+
+## Pristina
+
+The German 101st Infantry Division was advancing on Pristina. On 22 November it reached the hills about 10 kilometres north of the town, and the next day it broke the resistance of the last, hastily assembled Serbian detachments. At noon on 23 November a German mounted patrol reached Pristina, and in the evening units of the division entered it. The advance guards of the Bulgarian First Army were already approaching from the east, and Bulgarian studies credit the capture of the town to their 6th and 9th Divisions. According to the Austrian official history, 7,000 prisoners were taken in Pristina, including 2,000 wounded, as well as 6 guns and large stocks of grain and petroleum. Many Austro-Hungarian prisoners were also freed. On 24 November Serbian artillery was still shelling the station, but only isolated detachments remained in front of the Germans.
+
+## The decision to retreat
+
+The capture of both towns closed the ring from the north and east. The Serbian army had not been encircled, but it no longer had anywhere to retreat except across the mountains. On 23 November Putnik issued the order to retreat through Montenegro and northern Albania to the Adriatic, where the allies were to supply the army and ship it away. Guns that could not be taken along the mountain paths were ordered to be buried or destroyed. The retreat began that the Serbs called the [Albanian Golgotha](https://pl.wikipedia.org/wiki/Albańska_Golgota).
+
+Mackensen considered that he had achieved the objective he had set his armies. The troops were exhausted by a march of a month and a half, and supply in the mountains was failing. The field marshal did not intend to pursue the Serbs into the Albanian mountains. He left the pursuit to the Bulgarians and began to withdraw some of the German divisions to other fronts.

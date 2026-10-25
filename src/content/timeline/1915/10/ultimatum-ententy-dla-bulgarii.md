@@ -22,6 +22,6 @@ Według komunikatu, który rząd bułgarski rozesłał po spotkaniu, między 4 a
 
 ## Odpowiedź z Sofii
 
-Ultimatum przyszło za późno, by cokolwiek zmienić. Od miesiąca Bułgarię wiązał [tajny sojusz z Niemcami](/traktat-sojuszniczy-w-sofii) i konwencja wojskowa o wspólnym ataku na Serbię, a jej armia kończyła koncentrację przy serbskiej granicy. Dzień wcześniej w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) zaczęły się wyładowywać pierwsze oddziały Ententy.
+Ultimatum przyszło za późno, by cokolwiek zmienić. Od miesiąca Bułgarię wiązał [tajny sojusz z Niemcami](/traktat-sojuszniczy-w-sofii) i konwencja wojskowa o wspólnym ataku na Serbię, a jej armia kończyła koncentrację przy serbskiej granicy. Dzień wcześniej z Mudros wypłynęły do [Salonik](https://pl.wikipedia.org/wiki/Saloniki) pierwsze statki z wojskami Ententy.
 
 Radosławow nie zamierzał się ugiąć. W tym samym komunikacie rząd zapowiadał, że odrzuci oskarżenia o obecność niemieckich i austriackich oficerów w armii i oświadczy, że „nie może odesłać oficerów, których nie ma”. Rząd przygotował też długą notę do wszystkich czterech mocarstw Ententy, opatrzoną datą 4 października. Zapewniał w niej o wdzięczności dla mocarstw sprzymierzonych za ich życzliwość, prosił o „dodatkowe wyjaśnienia” w sprawie ich obietnic i oświadczał, że nie porzuci postawy, jaką przyjął na początku wojny. Odpowiedź na rosyjskie ultimatum Sofia wręczyła następnego dnia, jeszcze przed upływem wyznaczonego terminu.

@@ -1,6 +1,6 @@
 ---
 name: Colmar von der Goltz
-summary: Pruski feldmarszałek i teoretyk „narodu pod bronią”, reformator armii osmańskiej. W 1914 rządził Belgią, od 1915 dowodził 6 Armią w Iraku. Zmarł pod Al-Kutem.
+summary: Pruski feldmarszałek i teoretyk „narodu pod bronią”, reformator armii osmańskiej. W 1914 rządził Belgią, od 1915 dowodził 6 Armią w Iraku. Zmarł w Bagdadzie.
 role: Generalny gubernator okupowanej Belgii (1914), dowódca osmańskiej 1 Armii (1915) i 6 Armii (1915–1916)
 country: Niemcy
 side: Państwa centralne

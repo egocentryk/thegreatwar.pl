@@ -1,0 +1,30 @@
+---
+title: Start of the Fourth Battle of the Isonzo
+summary: On 10 November 1915, after a short, concentrated bombardment, the Italians again attacked Gorizia and Monte San Michele. By evening almost all were repulsed.
+source: poczatek-czwartej-bitwy-nad-isonzo
+sourceHash: c6ca30a71da76380cde7ee0900cb200e6c2a385b
+---
+
+On 10 November 1915, only five days after [the end of the Third Battle of the Isonzo](/koniec-trzeciej-bitwy-nad-isonzo), the Italian Second and Third Armies again struck the Austro-Hungarian positions on the [Isonzo](https://pl.wikipedia.org/wiki/Socza). General [Luigi Cadorna](/postacie/luigi-cadorna) had no intention of giving the defenders time to rest. This time he attacked on a narrower front, from the bridgehead at [Plava](https://pl.wikipedia.org/wiki/Plave) to the Sei Busi hill, and his objectives remained the [Gorizia](https://pl.wikipedia.org/wiki/Gorycja) bridgehead and Monte San Michele, the key to the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. On the first day the attacks broke down almost everywhere.
+
+## Why so soon
+
+Cadorna was acting under pressure. Almost half a year had passed since Italy entered the war, and the army had taken neither Trieste nor Trento, nor even Gorizia. Parliament had been summoned for 1 December and the government expected sharp criticism. The allies, for their part, were demanding help for Serbia, which the Central Powers had been [conquering](/bitwy/podboj-serbii) since October. Cadorna decided to make one more attempt to take Gorizia before winter. The Austrians later called this battle the "parliamentary" one.
+
+Between 5 and 9 November the bled-out Italian divisions, especially those of the Duke of Aosta's Third Army, were replaced by fresh ones. According to the Austrian official history, some 28 divisions in all were deployed on the front from the Rombon to the sea. On the snow-covered peaks above the upper Isonzo and at Monfalcone there were to be only holding attacks. The Second Army's main blow was aimed at the ridge by the village of Oslavia, between Mount Sabotino and the Podgora hill, which guard the approach to Gorizia from the west. The Third Army was to take Monte San Michele by attacking it from two sides. No serious attack was planned this time on Mount Sabotino itself, before which the Italians had bled themselves white in October.
+
+The Austro-Hungarian Fifth Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) received no reinforcements. The high command at Teschen believed that what it had would suffice, at least for a week. Boroević brought his regiments up to strength, gave the most exhausted units a few days' rest and gathered some 22 battalions in reserve. The defenders knew what was coming. Airmen and deserters reported new units, and at night the ceaseless rumble of ammunition wagons could be heard from the Italian rear. On the afternoon of 9 November the Italians attacked at Plava and on the Podgora, and their artillery heavily shelled the northern part of the Karst. Some accounts date the battle from that day.
+
+## The first day
+
+On the morning of 10 November a downpour and a thunderstorm delayed the start of the battle. When the sky cleared, the Italian artillery shelled the Gorizia bridgehead for about three hours, and around noon switched to an hour of drumfire from all its guns and trench mortars. The Austrian official history notes that the Italians had learnt from the previous battles. Instead of spreading their fire over many days and the whole front, they concentrated it briefly on a narrow sector just before the assault. It associated this day with the birth on the Isonzo of the drumfire typical of this war, and on the defenders' side of a true barrage.
+
+Around noon the infantry went into the attack on a front about 20 kilometres long, from Sabotino to Hill 118 on the Karst. At Sabotino battalions of the Italian 4th Division reached the wire and even managed to set up a gun about 50 metres from an Austrian trench, but fire from the batteries beyond the Isonzo and from the defenders of the 60th Brigade forced them to withdraw. An attack by grenadiers in the valley of the Piumica stream also collapsed. The 11th Division's attack on Oslavia came to a halt before the obstacles. The fighting lasted longest at the southern end of the Podgora, where the Italian 12th Division attacked until midnight despite the storm, but broke into only one section of trench, from which it was promptly thrown out.
+
+On the Karst the infantry of XI and XIII Corps moved off at about 11 a.m., after a three-hour bombardment that had destroyed much of the wire and many of the shelters. On Monte San Michele and at San Martino del Carso the attacks were repulsed by the alpine 6th Infantry Division and a Hungarian Landsturm brigade. Between San Martino and Hill 111 the Italians broke in at two points in the afternoon, but a counter-attack by the Hungarian 39th Infantry Regiment drove them out again. On the Sei Busi hill the assaults were stopped by the fire of Styrian Landesschützen, and at Monfalcone the artillery broke up an attack by the Italian 16th Division. At 5 p.m. a violent storm plunged the battlefield into darkness and ended the fighting. That same day the Sardinian Sassari Brigade began its assaults on the fortified trenches near San Martino that the Italians called the "Frasche". The first attacks broke down on the wire under machine-gun fire.
+
+The Italians achieved most at Plava. After seven assaults the Italian 3rd Division broke into part of the village of Zagora in the evening. The next morning a counter-attack by three Austrian battalions took its gains back.
+
+## What came next
+
+On 11 November the Italians repeated the attack along the whole front, again without result. Later the battle broke up into a series of fierce, separate attacks on Oslavia, the Podgora and Monte San Michele. On 18 November the Italian artillery began the systematic destruction of Gorizia. The fighting lasted until early December and cost the Italians almost 49,000 men, but the town and Monte San Michele remained in Austrian hands.

@@ -1,0 +1,26 @@
+---
+title: Resignation of John French
+summary: Under 15 December 1915 a chronology records Field Marshal French's resignation. The government forced him to give up the British command in France after Loos.
+source: dymisja-johna-frencha
+sourceHash: 9a8faa386bd2054049d71446ac10ef55ce824eed
+---
+
+The British chronology of the war records under 15 December 1915 that Field Marshal Sir [John French](/postacie/john-french) resigned as Commander-in-Chief of the British armies in France. He had commanded the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) from the first days of the war, from August 1914, when it numbered six infantry divisions, to the autumn of 1915, when nearly forty stood in France and Flanders. Formally, he resigned of his own accord. In reality he was forced to do so by the government of Prime Minister [H. H. Asquith](/postacie/herbert-henry-asquith), and his closest subordinates also contributed to his downfall.
+
+## The dispute over the reserves at Loos
+
+The immediate cause was the [Battle of Loos](/bitwy/bitwa-pod-loos). [On 25 September 1915](/poczatek-bitwy-pod-loos) General [Douglas Haig](/postacie/douglas-haig)'s First Army broke through the first German position, but the reserves, which French had kept in his own hands far behind the front, arrived too late, and two inexperienced New Army divisions were routed the following day. Haig held that it was French who had lost the battle, and said so openly: to the former War Minister Richard Haldane, whom Kitchener sent to France after the battle; to King [George V](/postacie/jerzy-v), who visited the front in October; and to his correspondents in London. French's chief of staff, General William Robertson, had long been writing to London that the commander-in-chief changed his mind from day to day and spun unrealistic plans. When French's dispatch on the battle was published on 2 November, claiming that he had handed the reserves over to Haig as early as 9.30 a.m., Haig demanded a correction and the dispute became a political matter.
+
+On top of this came older and more general charges. James Edmonds's British official history, well disposed towards French, recalls that in 1915 [Neuve Chapelle](/bitwy/bitwa-pod-neuve-chapelle), the Second Battle of Ypres, Aubers, Festubert and Loos had cost enormous losses without shaking the Germans. French, who had turned 63, had heart trouble, and from time to time his doctor put him to bed for a few days. The government and the king concluded that he would not cope with commanding the much larger army that was to fight in 1916.
+
+## How he was removed
+
+According to Edmonds, the question of his removal occupied the cabinet for two months. [Lord Kitchener](/postacie/horatio-kitchener), the Secretary of State for War, was at the Dardanelles in November, and his duties were carried out by Asquith himself. On 23 November the prime minister talked with Haig. French's biographers describe how Asquith then sent the field marshal's old friend, Viscount Esher, to him with the message that he must go, but would not be dismissed: he would receive a peerage and the new post of Commander-in-Chief of the forces at home. French, however, wanted to hear this from the prime minister in person. On 29 November Asquith told him in London that he himself must take the first step. At the beginning of December the minister Walter Long told him by telephone that resignation was necessary. According to these accounts French's letter of resignation reached the prime minister on 6 December, and French still had time to represent Britain at the conference of the allied staffs at Chantilly, which sat from 6 to 8 December.
+
+Edmonds gives a somewhat different sequence. He writes that it was on 15 December that Esher came to General Headquarters at Saint-Omer with the prime minister's message, and that French accepted the post and title offered to him without hesitation, admitting that although he himself felt no effects of the strain of the war, others might judge otherwise. The date in the British chronology agrees with this version. The day the resignation was announced is also given differently: according to some sources 15 December, according to others the press reported it on 17 December. Most studies accept that French handed over command at noon on 18 December. The following day Haig took it over.
+
+French tried to the end to influence the choice of his successor. He recommended Robertson, not Haig, whom he blamed for intrigues. The government, however, chose the commander of the First Army, who had commanded troops at the front since the beginning of the war.
+
+## What came next
+
+French returned to England and became the first holder of the new post of Commander-in-Chief, Home Forces. He was responsible for the defence of the British Isles against invasion, the training of units and anti-aircraft defence. On 1 January 1916 he received the title of Viscount French of Ypres. He nevertheless regarded the new post as a demotion and remained a bitter critic of Haig for the rest of his life. In 1918 he became [Lord Lieutenant of Ireland](https://pl.wikipedia.org/wiki/Lord_namiestnik_Irlandii), and in 1922 Earl of Ypres.

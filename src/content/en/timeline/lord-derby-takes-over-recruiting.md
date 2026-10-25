@@ -1,0 +1,20 @@
+---
+title: Lord Derby takes over recruiting
+summary: In autumn 1915 Lord Derby, at Kitchener's request, took charge of recruiting for the British Army. He was to save the voluntary system from conscription.
+source: lord-derby-przejmuje-werbunek
+sourceHash: d55bbac8ac43390be6e99698155888e80e1b9058
+---
+
+On 11 October 1915 [Edward Stanley, 17th Earl of Derby](/postacie/lord-derby), appointed Director-General of Recruiting, took charge of recruiting for the British Army. This date is given by most studies; the British official chronology places the event under 30 September. What is certain is that by mid-October Derby was already directing recruiting. As the Under-Secretary of State for War, [Harold Tennant](https://pl.wikipedia.org/wiki/Harold_Tennant), explained in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) on 19 October, Lord Derby had taken up the post at the request of the Secretary of State for War, Lord [Kitchener](/postacie/horatio-kitchener), and was answerable to him for all matters connected with obtaining recruits for the army.
+
+## Volunteers running out
+
+Britain was waging the war with a volunteer army. In the first months of the war crowds came forward to enlist, but in 1915 the flow of volunteers was clearly weakening, while losses at Ypres, at Gallipoli and in Artois were mounting. The results of the [National Registration](/dzien-rejestracji-narodowej) of 15 August showed that about 5 million men of military age remained outside the army, of whom about 1.6 million worked in occupations deemed essential to the war economy. In the coalition government of Prime Minister [Herbert Henry Asquith](/postacie/herbert-henry-asquith) the dispute over [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)) was growing. Supporters of compulsion, among them [David Lloyd George](/postacie/david-lloyd-george), pressed for its introduction. Liberals attached to the voluntary principle and the labour leaders opposed it. The Labour politician [Arthur Henderson](https://pl.wikipedia.org/wiki/Arthur_Henderson) warned in a memorandum to the cabinet in September that the workers would firmly resist compulsory service. Asquith sought a middle way, and the appointment of Lord Derby was an attempt to give the voluntary system a last chance.
+
+## The recruiting man
+
+The choice was not accidental. The fifty-year-old Derby, a Conservative and Postmaster General in Arthur Balfour's government in 1903–1905, was one of the most influential aristocrats in the north of England. In August 1914 he had organised in [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) one of the most successful recruiting drives for Kitchener's New Army. He had then called for the formation of a "battalion of pals", in which friends from the same office would fight shoulder to shoulder "for the honour of Britain and the credit of Liverpool". Within two days 1,500 volunteers came forward, and three more such battalions were soon formed.
+
+The new post was of an unusual character. Derby was not a member of the government and bore no ministerial responsibility; in the House of Commons Tennant answered on his behalf. He worked, at his own wish, without pay and without military rank. He was assisted by a Director of Recruiting and the existing recruiting staff of the War Office. He himself was at heart a supporter of conscription and made no secret of his scepticism. On accepting the post he declared that he felt as if he were entering a bankrupt concern. The censor removed these words from some newspapers. The government later explained in parliament that the censor had not been aware of Lord Derby's official position, and when the matter came to light, publication was allowed.
+
+In mid-October Derby announced his plan, officially called the Group System and popularly the Derby Scheme. Men aged 18 to 40 could still enlist at once or attest and undertake to report when called up. Canvassers, using the cards of the National Register, visited them at home in November and December. The scheme did not, however, produce as many men as the army needed, and in January 1916 Britain introduced conscription.

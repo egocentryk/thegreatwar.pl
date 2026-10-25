@@ -1,0 +1,22 @@
+---
+title: Greece accepts the Entente demands
+summary: On 24 November 1915 Skouloudis's government replied to the Entente note. It gave assurances that Greek troops would not disarm or intern Allied soldiers.
+source: grecja-przyjmuje-zadania-ententy
+sourceHash: 0657219d316974de12d3a895ed9e5b20d62d4325
+---
+
+On 24 November 1915, or 11 November in the Julian calendar, the Greek prime minister and foreign minister [Stefanos Skouloudis](/postacie/stefanos-skuludis) handed the ministers of France, Britain, Italy and Russia his reply to the [note they had delivered to him the day before](/nota-ententy-do-grecji). The government in Athens accepted all the powers' demands. The text of the reply, which the Italian minister Carlo De Bosdari sent to Rome on 26 November, was courteous but did not hide its resentment.
+
+## The reply
+
+The Royal Government began by thanking the Entente powers for the "very friendly intentions" they had declared towards Greece. On the question of a possible disarming or internment of Allied troops, it recalled that it had repeatedly, in telegrams and in the prime minister's conversations with the ministers, explained its position clearly enough to leave "not the slightest ambiguity". It therefore had no difficulty in declaring officially that Greek troops would "in no circumstances" attempt to disarm or intern Allied soldiers, and that Greece would remain faithful to a policy of benevolent neutrality. It took note of the assurance that the powers did not wish to drag her into the war and, for its part, gave assurances that it had never intended to hamper their movements on land and sea or to endanger the safety of their troops. It added that it had always kept the promises made by its predecessor [Alexandros Zaimis](/postacie/aleksandros-zaimis), and promised that the Allies would continue to enjoy every facility in the port of [Salonika](https://pl.wikipedia.org/wiki/Saloniki) and on the routes leading to it. It also noted the promise that occupied territories would be returned and compensation paid after the war.
+
+The last sentence mattered most to Athens. Since the powers had received all the assurances they needed, the Royal Government "did not doubt" that they would immediately abandon the measures they had applied "to the detriment of the rights and interests of Greece" and fulfil their promise to consider Greek requests favourably. This meant the ships carrying supplies for Greece held at Malta and in Egyptian ports, and the money without which Greece could not maintain its mobilised army.
+
+## Why Athens gave way
+
+Skouloudis did not have much choice. For two weeks he had been explaining to the ministers that Greece, which remained neutral, had to invoke the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) officially but did not intend to apply them to the Allies. As the British author G. F. Abbott, sympathetic to the king, wrote, the prime minister, alarmed by the holding up of supplies, had himself invited the Allies to state their demands and promised to meet them if possible. Four days earlier King [Constantine I](/postacie/konstantyn-i) had given Lord Kitchener his word that the retreating troops would not be interned. The reply of 24 November was thus a written confirmation of what Athens had already promised orally.
+
+## Not the end
+
+General assurances were no longer enough for the Allies. The French and British troops in Macedonia might any day be forced to retreat towards Salonika, and the Serbian army, cornered on the Field of Kosovo, was preparing to cross the mountains of Albania. On 26 November the French minister Jean Guillemin, with the support of his British colleague, presented Skouloudis with concrete demands as the "application" of the note of 23 November: the withdrawal of Greek troops from Salonika and its surroundings, free use of the railways and roads up to the border, the right to fortify the city and the Chalcidice peninsula, and the right to search ships in Greek territorial waters and to destroy German submarine bases. Skouloudis asked whether these were demands or proposals for discussion, and made it clear that in the face of force Greece would give way. In his reply of 28 November he proposed that the manner of carrying them out be settled by the military of both sides. A detailed, though only oral, agreement was not reached until December, and Greek ships began to be released from British ports in mid-December.

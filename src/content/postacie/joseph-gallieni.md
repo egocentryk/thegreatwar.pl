@@ -44,7 +44,7 @@ Spokój nie trwał długo. Gallieni zarzucał kwaterze głównej w Chantilly, ż
 
 ## Śmierć i pamięć
 
-Gallieni od dawna chorował na raka prostaty, a dawna kolonialna malaria wciąż dawała o sobie znać. Po dwóch operacjach w klinice w [Wersalu](https://pl.wikipedia.org/wiki/Wersal) zmarł 27 maja 1916 roku. Po pogrzebie państwowym pochowano go, zgodnie z jego wolą, obok żony w Saint-Raphaël. W 1920 roku ukazały się jego wspomnienia z obrony Paryża, wydane później także po polsku. W maju 1921 roku pośmiertnie otrzymał godność marszałka Francji, podobnie jak Maunoury, a w przeciwieństwie do Joffre'a i [Ferdinanda Focha](/postacie/ferdinand-foch), którzy dostali ją jeszcze w czasie wojny.
+Gallieni od dawna chorował na raka prostaty, a dawna kolonialna malaria wciąż dawała o sobie znać. Po dwóch operacjach w klinice w [Wersalu](https://pl.wikipedia.org/wiki/Wersal) zmarł 27 maja 1916 roku. Po pogrzebie państwowym pochowano go, zgodnie z jego wolą, obok żony w Saint-Raphaël. W 1920 roku ukazały się jego wspomnienia z obrony Paryża, wydane później także po polsku. W maju 1921 roku pośmiertnie otrzymał godność marszałka Francji, podobnie jak później, w 1923 roku, Maunoury, a w przeciwieństwie do Joffre'a i [Ferdinanda Focha](/postacie/ferdinand-foch), którzy dostali ją jeszcze w czasie wojny.
 
 ## Ocena
 

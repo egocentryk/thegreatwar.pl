@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-22 listopada 1915 roku wojska brytyjskie i indyjskie generała Charlesa Townshenda uderzyły na pozycję osmańską pod [Ktezyfonem](https://pl.wikipedia.org/wiki/Ktezyfon), wśród ruin dawnej stolicy Partów i Sasanidów nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), około 25 kilometrów od [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad). Była to ostatnia przeszkoda na drodze do miasta, na które dywizja Townshenda [maszerowała od 11 listopada](/poczatek-marszu-na-bagdad). Do wczesnego popołudnia Brytyjczycy i Hindusi zdobyli całą pierwszą linię tureckich okopów na lewym brzegu rzeki. Potem jednak turecki kontratak odepchnął ich sprzed drugiej linii, a wieczorem okazało się, że z trzech brygad piechoty zostały resztki.
+22 listopada 1915 roku wojska brytyjskie i indyjskie generała Charlesa Townshenda uderzyły na pozycję osmańską pod [Ktezyfonem](https://pl.wikipedia.org/wiki/Ktezyfon), wśród ruin dawnej stolicy Partów i Sasanidów nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), około 35 kilometrów od [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad). Była to ostatnia przeszkoda na drodze do miasta, na które dywizja Townshenda [maszerowała od 11 listopada](/poczatek-marszu-na-bagdad). Do wczesnego popołudnia Brytyjczycy i Hindusi zdobyli całą pierwszą linię tureckich okopów na lewym brzegu rzeki. Potem jednak turecki kontratak odepchnął ich sprzed drugiej linii, a wieczorem okazało się, że z trzech brygad piechoty zostały resztki.
 
 ## Przed bitwą
 

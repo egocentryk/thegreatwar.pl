@@ -1,0 +1,26 @@
+---
+title: First clashes between the French and the Bulgarians
+summary: In mid-October 1915 the French moved from Salonika up the Vardar into Serbia. They first fought the Bulgarians on 21 October near Strumica station.
+source: pierwsze-starcia-francuzow-z-bulgarami
+sourceHash: be9e92b575f914eca37a94ab72d37c2862d14953
+---
+
+The British chronology of the war on which our timeline is based records under 13 October 1915 the beginning of hostilities between the French and the Bulgarians in Macedonia. On that day, however, French troops were only beginning to leave [Salonika](https://pl.wikipedia.org/wiki/Saloniki) for the Serbian border, and France and Bulgaria were not yet formally at war. According to the British official history of the Macedonian campaign and the French official history, the first real fight between the French and the Bulgarians took place on 21 October near Strumica railway station on the [Vardar](https://pl.wikipedia.org/wiki/Wardar). A Spanish staff officer who observed the campaign from the Bulgarian side, cited by the British history, and the Austrian official history date it to 22 October.
+
+## The French move into Macedonia
+
+General [Maurice Sarrail](/postacie/maurice-sarrail), the new commander of the French Army of the Orient, arrived in Salonika on 12 October, a week after the [landing of the first Entente troops](/ladowanie-ententy-w-salonikach). He at once sent an infantry regiment and a field artillery group up the Vardar valley. They were to protect the only railway linking Salonika with Serbia, on the stretch from the Greek border to Strumica station. This station lay in Serbian Macedonia, a dozen or so kilometres from the Bulgarian town of [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)), from which it took its name, and only a few kilometres from the Bulgarian border. Here the Bulgarians could cut the railway with almost no effort.
+
+The orders Sarrail had brought were modest. Above all the French were to keep open the link between Salonika and the Serbian army, not to mount a great offensive. The British, that is General Bryan Mahon's 10th Division, were forbidden by London to go beyond Salonika. So the French 156th Infantry Division of General Maurice Bailloud, which had come from the Dardanelles, sent battalion after battalion north by rail. By 15 October three battalions with artillery had taken up positions covering the line near Strumica station. Beside them stood two Serbian battalions, and five more defended the passes from the Bulgarian border. The next day another French regiment reached [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija), the first station on the Serbian side of the border, and Strumica station.
+
+## A war only just beginning
+
+In those same days the Balkans finally went up in flames. Since 6 October Germany and Austria-Hungary had been attacking Serbia from the north, across the Sava and the Danube, and for several days the first fighting with the Bulgarians had been under way on Serbia's eastern border. The next day Bulgaria and Serbia were to declare war on each other officially. The Bulgarian Second Army of General [Georgi Todorov](/postacie/georgi-todorow) struck west, towards the Vardar valley and the railway from Salonika to Serbia. Within the next few days Britain and France declared war on Bulgaria. For the moment, though, the French and the Bulgarians faced each other without fighting, separated by the mountains along the border.
+
+The French units were also tied to the railway. They did not yet have pack transport, and on both banks of the Vardar there were no roads for wagons, only mule paths and the most primitive tracks. On 17 October the Serbian detachment at Strumica station was recalled north to threatened [Veles](https://pl.wikipedia.org/wiki/Wełes), and the French took its place, pushing an outpost forward onto the road from Strumica to [Doiran](https://pl.wikipedia.org/wiki/Dojran_(miasto)). On 20 October Bailloud took command of this sector, where the division's third regiment was just arriving.
+
+## The clash at Rabrovo
+
+According to the British official history, until 21 October the Bulgarians did not know that the French had advanced up the Vardar. On that day the Bulgarian 14th Infantry Regiment came down from Strumica towards the railway to blow up the railway bridge near Strumica station and unexpectedly ran into the French. After fairly sharp fighting the Bulgarians were repulsed, and the French, following them up, drove them out of the village of Rabrovo, about 11 kilometres east of the line. The French official history also records the capture of Rabrovo on 21 October, and local fighting in this sector over the next two days. The British writer John Buchan, writing during the war, stated that the French advanced guard had driven Bulgarian raiders out of the station as early as 19 October.
+
+So began the fighting that was to last until December. By then the French held about 50 kilometres of railway, up to the station in the Vardar gorge at [Demir Kapija](https://pl.wikipedia.org/wiki/Demir_Kapija), and Sarrail was preparing to send more troops further north, towards Krivolak and Veles. Their task was to break through to the Serbs before the Bulgarians cut them off from Salonika altogether.

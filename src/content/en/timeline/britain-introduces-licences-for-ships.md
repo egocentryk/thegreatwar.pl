@@ -1,0 +1,20 @@
+---
+title: Britain introduces licences for ships
+summary: From 10 November 1915 British ships of 500 tons or more needed a licence to carry cargo between foreign ports. They were to return to serving the home country.
+source: wielka-brytania-wprowadza-licencje-dla-statkow
+sourceHash: 8a3517f636760a0406661c9ee597e970ab392d2c
+---
+
+On 10 November 1915 the British government issued two Orders in Council on shipping. One allowed ships to be requisitioned for carrying food. The other forbade British steamers of 500 gross registered tons and over to carry cargo between foreign ports without a licence. Any port outside the Crown's dominions counted as a foreign port, so the ban did not apply to voyages between ports of the Empire. The licences were issued by the Ship Licensing Committee, appointed by the President of the Board of Trade, [Walter Runciman](https://pl.wikipedia.org/wiki/Walter_Runciman_(1._wicehrabia_Runciman_of_Doxford)).
+
+## Dear freight and British ships in foreign service
+
+In the autumn of 1915 freight rates were rising fast. For example, the rate for a voyage to India and back rose by about half in the second half of the year. The government had already requisitioned about a quarter of British tramp ships, the ports were congested, and shipowners, especially tramp owners, were making enormous profits. Bread was getting dearer and public opinion demanded action. The government could not simply fix rates, because about a third of imports were carried by foreign ships, mainly neutral, whose owners nobody could compel to do anything. Had British rates been cut by administrative means, neutral ships would have stopped coming to Britain. Critics of the government and the shipowners, on the other hand, often pointed out that many British ships were still trading between foreign ports instead of carrying goods home.
+
+On 15 October representatives of the Chamber of Shipping and the Liverpool Steam Ship Owners' Association met Runciman. The President of the Chamber of Shipping, Sir Kenneth Anderson, proposed among other things that the trading of British ships between foreign ports should be subject to licences, which would allow part of that tonnage to be directed into British trade. The Board of Trade adopted the idea. The Liverpool shipowners wanted to go further and restrict unnecessary imports, but the government would not take that step.
+
+## A committee of shipowners
+
+The committee was headed by Maurice Hill, a lawyer specialising in maritime law, who had earlier drafted the contracts of the state war-risks insurance scheme. Four members were nominated by the Chamber of Shipping and two by the Liverpool Steam Ship Owners' Association. The committee could issue general licences for whole classes of ships and voyages, or special ones for a particular voyage of a particular ship. According to the Board of Trade's instructions, the aim was to increase the tonnage available for trade with British ports while doing as little lasting damage as possible to British commerce. The point was not to lose old connections to competitors after the war. Licences were to be granted readily to ships calling at foreign ports in the course of a voyage to Britain or sailing to pick up a cargo for home, as well as to regular pre-war lines and ships bound by earlier contracts. Voyages in the interest of the Allies had priority. Cargoes were to go to trusted consignees on the government's "white lists", and not to firms on the blacklist. The committee was also to act gradually, so as not to scare neutral ships away from trade with Britain.
+
+The first months showed that few ships had been engaged in wholly unnecessary work, and the tonnage drawn in from distant routes was a small fraction of the country's needs. The committee nevertheless became an important instrument of government. An Order of 15 February 1916 extended its powers to almost all ocean voyages of British ships, and by refusing licences it enforced decisions taken elsewhere, for example the fixed freight rates for coal to France. It operated until 1917, when requisitioning came to cover almost the whole British merchant fleet.

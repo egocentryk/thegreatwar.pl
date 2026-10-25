@@ -1,0 +1,54 @@
+---
+name: Lord Derby
+summary: Lancashire aristocrat, author of the 1915 recruiting scheme and from December 1916 War Secretary, who defended Haig and Robertson against Lloyd George.
+role: Director-General of Recruiting (1915–1916), Secretary of State for War (1916–1918), Ambassador in Paris (1918–1920)
+country: United Kingdom
+birthPlace: London
+deathPlace: Knowsley Hall (Lancashire)
+source: lord-derby
+sourceHash: 0822ad876802b8e5bd0eef8aea52f13a46ecc9ac
+---
+
+Edward George Villiers Stanley, 17th Earl of Derby, was one of the richest men in England and the most influential aristocrat of its industrial north, known as the "uncrowned king of Lancashire". During the Great War he made his mark in two roles. In 1915, as Director-General of Recruiting, he gave the British voluntary system a last chance in the scheme named after him. From December 1916 to April 1918 he was Secretary of State for War in the government of [David Lloyd George](/postacie/david-lloyd-george) and stood between the prime minister and the generals the prime minister wanted to be rid of. This second role was judged harshly: he defended Field Marshal [Douglas Haig](/postacie/douglas-haig) and General William Robertson but was unable to protect them, and Haig himself compared him to a feather pillow.
+
+## Before the war
+
+He was born on 4 April 1865 in London, the eldest son of Frederick Stanley, later 16th Earl of Derby, and grandson of the three-time prime minister, the 14th Earl of Derby. He was educated at Wellington College and served in the Grenadier Guards, and was aide-de-camp to his father when the latter was Governor General of Canada. In 1892 he entered the House of Commons as a Conservative. During the Boer War he was chief press censor on Lord Roberts's staff and then his private secretary. From 1903 to 1905 he sat in Arthur Balfour's government as Postmaster General. In 1908 he inherited the earldom and vast landed estates in [Lancashire](https://pl.wikipedia.org/wiki/Lancashire) and moved to the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów). In 1911–1912 he was Lord Mayor of [Liverpool](https://pl.wikipedia.org/wiki/Liverpool). He was famous for his hospitality, his kindness, his love of horse racing and his talent for smoothing over disputes, but also for his indecision.
+
+## Recruiting
+
+In August 1914 Derby organised in Liverpool one of the most successful recruiting drives for Lord [Kitchener](/postacie/horatio-kitchener)'s New Army. He called for the formation of a "battalion of pals", in which friends from the same office would fight shoulder to shoulder "for the honour of Britain and the credit of Liverpool". Within two days 1,500 volunteers came forward, and three more battalions were soon formed. The model was later copied in many towns of northern England. Derby himself, however, believed that in the long run the army could not do without conscription.
+
+In the autumn of 1915 volunteers were becoming ever fewer, and in the government of [Herbert Henry Asquith](/postacie/herbert-henry-asquith) the dispute over compulsion was growing. In October Kitchener asked Derby to [take charge of recruiting](/lord-derby-przejmuje-werbunek). Derby took up the post of Director-General of Recruiting without pay, without military rank and without a seat in the cabinet. He said he felt as though he were entering a bankrupt business. His scheme, officially called the Group System, allowed men aged 18 to 40 to enlist at once or to attest and wait to be called up by age groups. Canvassers, using the cards of the [National Register](/dzien-rejestracji-narodowej), visited them at home. Asquith promised that married men who attested would not be called up before single men.
+
+Derby's report, published at the beginning of January 1916, showed that over two million men of military age, including over a million single men, had neither attested nor been rejected. It was the strongest argument of the supporters of compulsion, and that same month [Britain introduced conscription](/wielka-brytania-wprowadza-pobor) of single men, and in the spring [of married men as well](/izba-gmin-uchwala-pobor-zonatych). Derby later complained that too many young men were shielded from the army by work in occupations deemed essential.
+
+In February 1916 Asquith also entrusted him with the chairmanship of the [Joint War Air Committee](/powstaje-rada-lotnicza), which was to coordinate the supply of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps) and the naval air service. The committee had no executive power, and on 3 April Derby resigned, writing to the prime minister that the two air services could be brought together only when they were merged into a single service.
+
+## At the War Office
+
+In July 1916, when after Kitchener's death [Lloyd George took over the War Office](/lloyd-george-ministrem-wojny), Derby became his Under-Secretary of State. He was regarded as an ally of the military, and his presence was meant to reassure the generals. In December 1916, after Asquith's fall, Lloyd George became prime minister and [gave Derby the War Office](/rzad-koalicyjny-lloyda-george-a). The new minister did not sit in the small War Cabinet, but he ran the War Office and the Army Council, and his standing among the Conservatives and at court gave him more influence than the office itself.
+
+In 1917 Derby conveyed the government's decisions to the commanders at the fronts. On 11 June he informed General Archibald Murray that the cabinet considered a change of command in Egypt desirable, and his place was taken by [Edmund Allenby](/postacie/edmund-allenby). In May he presented to the War Cabinet French proposals for removing the King of Greece. He took part in talks with the commander of the American forces, [John Pershing](/postacie/john-pershing), during his stay in England. Above all, however, he stood between the prime minister and the generals. Lloyd George distrusted the strategy of Haig and of Robertson, the Chief of the Imperial General Staff, especially after the bloody [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). Derby several times threatened to resign if either of them was removed, and the threat carried weight because it could break up the coalition with the Conservatives.
+
+At the end of 1917, however, he had to carry out the prime minister's wishes regarding Haig's entourage. He insisted on the [removal of the field marshal's head of intelligence](/zmiany-w-sztabie-haiga), General John Charteris, and on 1 January 1918 gave Haig to understand that the government wanted his "tired" chief of staff, General Launcelot Kiggell, to go and would not accept the field marshal's candidate as successor. Haig did not think well of the minister. On 10 January he wrote to his wife that Derby was like a feather pillow, bearing the mark of the last person who had sat on it. In London he was reputedly called "genial Judas".
+
+## The Robertson crisis
+
+The showdown came in February 1918, when Lloyd George decided to curb Robertson's power by handing control of the reserves to the Supreme War Council at Versailles. Derby summoned Haig to London, passed the prime minister's note to Robertson and attempted a compromise: Robertson was to remain chief of staff, and General Henry Wilson was to be his representative at Versailles. Robertson rejected all the proposals, and on 18 February it was Derby who instructed Wilson to take up the post [of the dismissed Robertson](/dymisja-robertsona). Throughout the crisis the minister consulted many people, even King [George V](/postacie/jerzy-v), on whether he should go together with the general. In the end he remained in the government, by which, as Robertson's biographer wrote, he made himself ridiculous, and he did not regain the prime minister's confidence anyway.
+
+In March Derby wrote to Haig that the prime minister was hearing complaints about the commander of the Fifth Army, [Hubert Gough](/postacie/hubert-gough), and after that army's defeat in the German [Operation Michael](/bitwy/operacja-michael) he [ordered Gough](/dymisja-gougha) to give up his post. In April Lloyd George replaced him at the War Office with Lord [Alfred Milner](/postacie/alfred-milner), who for weeks had been acting as intermediary in the talks with the French. Derby received in exchange [the embassy in Paris](/milner-ministrem-wojny), succeeding the aged Francis Bertie.
+
+## Ambassador in Paris
+
+The role of ambassador suited him better than running a ministry. Derby was hospitable and well liked, and maintained good relations with Prime Minister [Georges Clemenceau](/postacie/georges-clemenceau) and President [Raymond Poincaré](/postacie/raymond-poincare). The war touched his family: in November 1917 his son-in-law, the MP Neil Primrose, son of the former prime minister Lord Rosebery, was killed in Palestine. In Paris Derby lived through the last German offensives, the [armistice](/rozejm-w-compiegne) and the peace conference, during which the embassy was one of the centres of the British delegation's life. He left the post in 1920.
+
+## After the war
+
+In 1921, travelling incognito, he held confidential talks with the leader of the Irish republicans, [Éamon de Valera](https://pl.wikipedia.org/wiki/Éamon_de_Valera), which contributed to the later truce. From 1922 to 1924 he was again Secretary of State for War, in the governments of Andrew Bonar Law and Stanley Baldwin. Later he withdrew from high politics, although to the end of his life he remained a powerful figure in Lancashire, in the Conservative Party and in the world of horse racing. His horses won the famous Derby, named after his ancestor, three times. He died on 4 February 1948 at the family seat of Knowsley Hall near Liverpool.
+
+## Assessment
+
+The Derby Scheme is usually judged an honest, though doomed from the start, attempt to save the voluntary principle. Many historians believe that its real effect was to supply evidence in favour of conscription, which Derby, himself a supporter of compulsion, may have expected. In this role he used his greatest assets: popularity, the ability to reconcile conflicting interests and his authority among the people of the north.
+
+As Secretary of State for War he comes off much worse. Historians generally agree that he was neither the government's spokesman to the army nor the army's spokesman to the government, but an intermediary who tried to satisfy both sides. His defenders point out that there was no good way out of the dispute between Lloyd George and the generals, and that Derby's loyalty to Haig and Robertson helped to keep the coalition united in the most difficult period of the war. His critics, from Haig to Robertson's biographers, see him as a weak man who hesitated too long and lost everyone's confidence. Many agree that he did better in Paris than at the War Office.

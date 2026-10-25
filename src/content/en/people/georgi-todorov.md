@@ -1,0 +1,48 @@
+---
+name: Georgi Todorov
+summary: Bulgarian general who in 1915 led the Second Army that took Serbian Macedonia. In September 1918, as acting commander-in-chief, he asked for an armistice.
+role: Commander of the Bulgarian Second Army (1915–1916) and Third Army (1917), acting commander-in-chief (1918)
+country: Bulgaria
+birthPlace: Bolhrad (Bessarabia, now Ukraine)
+deathPlace: Sofia
+source: georgi-todorow
+sourceHash: 62a14f74275693ad5f092610636f9b0815029599
+---
+
+Georgi Todorov belonged to the generation of Bulgarian generals who as young volunteers had fought to free their country from Turkish rule and then led its army in three successive wars. In autumn 1915 he commanded the Second Army, which within a few weeks occupied Serbian Macedonia, cut the railway from Salonika and prevented the Serbs from joining up with the Entente troops. After this success he held the front against Sarrail's armies for almost three years. As fate would have it, in the critical days of September 1918, in the absence of the sick commander-in-chief, it was he who stood at the head of the Bulgarian army when the front broke at Dobro Pole. His signature was on the letter in which Bulgaria asked for a suspension of hostilities.
+
+## Before the war
+
+He was born on 22 August 1858 (10 August in the Julian calendar) at [Bolhrad](https://pl.wikipedia.org/wiki/Bołgrad) in Bessarabia, a centre of Bulgarian settlers who in the 19th century had fled from the Turks to Russian and Moldavian lands. He came from a well-to-do merchant family. His brothers also made careers: Aleksandar Teodorov-Balan became a distinguished linguist, and Martin Todorov mayor of Sofia. During the Russo-Turkish War of 1877–1878 the nineteen-year-old Georgi enlisted in the Bulgarian volunteer militia. After the liberation he graduated in 1879 in the first class of the military school in Sofia, and then studied in Russia, at the General Staff Academy in St Petersburg.
+
+When Serbia attacked Bulgaria in 1885, he broke off his studies and returned home. In the [Serbo-Bulgarian War](https://pl.wikipedia.org/wiki/Wojna_serbsko-bułgarska) he commanded the so-called Flying Detachment in the Vidin area and successfully delayed the Serbs advancing on the fortress. A year later he supported the officers who overthrew Prince Alexander of Battenberg, and was briefly dismissed from the army, but he soon returned. He graduated from the St Petersburg academy in 1890. For years he commanded a regiment and a brigade, and in 1910, already a major-general, he took over the 7th Rila Infantry Division at Dupnitsa.
+
+In the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska) his division first advanced down the Struma valley towards Salonika and was then transferred to Thrace. At the beginning of 1913, in the [Battle of Bulair](https://pl.wikipedia.org/wiki/Bitwa_pod_Bulair) at the neck of the Gallipoli peninsula, it repulsed a Turkish attack. On the Turkish side [Mustafa Kemal](/postacie/mustafa-kemal) fought there as a staff officer. In the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) Todorov's division fought the Serbs at Kalimantsi in Macedonia. In April 1915 the general became inspector of one of the army districts, and in August he was promoted to lieutenant-general.
+
+## 1915: Macedonia
+
+When in autumn 1915 [Bulgaria mobilised its army](/bulgaria-rozpoczyna-mobilizacje), Todorov took command of the Second Army. Unlike the First Army of Kliment Boyadzhiev, which was placed under Field Marshal [August von Mackensen](/postacie/august-von-mackensen), it remained under direct Bulgarian command. Its task was the most important one for Sofia: to enter Serbian Macedonia as quickly as possible and cut the railway from Niš to Salonika, along which Entente help could come.
+
+On 14 October, the day [war was declared on Serbia](/bulgaria-i-serbia-wypowiadaja-sobie-wojne), Todorov's army crossed the border. It faced weak forces, because the Serbs had thrown almost their whole army north against the Germans and Austrians. As early as 16 October the Bulgarians [took Vranje](/bulgarzy-zajmuja-vranje) and cut the railway, on 20 October they entered Kumanovo, and on 22 October [Skopje](/bulgarzy-zajmuja-kumanowo-i-skopje). Another division went through [Štip](/bulgarzy-zajmuja-sztip) and reached the Vardar at Veles. Serbia was cut off from Salonika.
+
+When the French of General [Maurice Sarrail](/postacie/maurice-sarrail) arrived from the south, Todorov had to fight on two fronts. In the north his divisions [stopped the Serbs in the gorge at Kačanik](/bitwy/bitwa-pod-kacanikiem) as they tried to break through from Kosovo to the south. In the south, [at Krivolak](/bitwy/bitwa-pod-krivolakiem), the Bulgarians repelled French attacks for several weeks, with Todorov entrusting the defence to his artillery commander, Colonel Stefan Bogdanov. At the beginning of December, when the Serbs had withdrawn into Albania, the Second Army struck at the Allied troops. The French [abandoned Krivolak](/francuzi-opuszczaja-krivolak), and the British were defeated in the [fighting at Kosturino](/bitwy/bitwa-pod-kosturino). Bulgarian cavalry entered [Bitola](/bulgarzy-zajmuja-bitole), and a division from the army's right wing took [Prizren](/bulgarzy-zajmuja-prizren). In mid-December the Bulgarians reached the Greek border, where they halted at the Germans' demand, so as not to provoke neutral Greece.
+
+## 1916–1917: the Struma and Dobruja
+
+Through the first half of 1916 the front in Macedonia hardly moved. Todorov, with his headquarters at Sveti Vrach, today's Sandanski, had his soldiers lay out a town park there that still exists. At the end of May Bulgarian and German troops [occupied the Greek Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) in the Struma valley. In August, when the First Army attacked on the western wing [at Florina](/bitwy/bitwa-pod-florina), the Second Army marched into Eastern Macedonia, which Bulgaria had lost in 1913. The Greeks, following orders from Athens, offered no resistance. The Bulgarians reached the Struma, and in September, after the [surrender of the Greek IV Corps](/kapitulacja-greckiego-iv-korpusu-w-kawali), entered [Kavala](https://pl.wikipedia.org/wiki/Kawala), a port Bulgaria had coveted since the Balkan Wars.
+
+Todorov commanded the Second Army until the end of 1916. In 1917 he took over the Third Army, which stood in the Dobruja, conquered from the Romanians the year before. Bulgarian sources differ on the dates of this appointment. The front there was already quiet, because [in January 1917](/koniec-walk-w-dobrudzy) the fighting in northern Dobruja had died down. In August 1917 Todorov was promoted to general of infantry.
+
+## 1918: Dobro Pole
+
+In summer 1918 Todorov became deputy to the commander-in-chief, General [Nikola Zhekov](/postacie/nikola-zekow). On 8 September Zhekov left for medical treatment in Vienna, and Todorov took over the duties of commander-in-chief. A week later, on 15 September, the Serbs and the French captured the [Dobro Pole ridge](/bitwy/bitwa-pod-dobrym-polem). Bulgarian reserves were small and scattered, and the mountain front had no depth.
+
+On 18 September, as the British and Greeks were attacking at Doiran and the Serbs were racing across the mountains towards the Vardar, Todorov, at a conference at Prilep and on the advice of the First Army commander Stefan Nerezov, proposed a great counter-offensive towards Salonika. The German commanders considered it too risky, but would not agree to a large-scale retreat either. It was decided to patch the breach. Over the following days the [Vardar offensive](/bitwy/ofensywa-nad-wardarem) split the Bulgarian army in two, and the retreating regiments began to mutiny. On 25 September Todorov signed a letter to the commander of the British forces in Macedonia, General George Milne, asking for a 48-hour suspension of hostilities so that government plenipotentiaries could come to Salonika. The envoy carried it through the lines on the morning of 26 September. General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) refused to halt operations but received the delegates, who on 29 September signed the [Armistice of Salonika](/rozejm-w-salonikach).
+
+## After the war
+
+After demobilisation Todorov served for a time as adjutant-general to Tsar [Boris III](/postacie/borys-iii). On 20 August 1919 he retired. In 1925 his wife was killed in the bomb attack on the St Nedelya Church in Sofia. In 1926–1927 he was governor of the Petrich district in the Bulgarian part of Macedonia, but resigned under pressure from the [Internal Macedonian Revolutionary Organisation](https://pl.wikipedia.org/wiki/Wewnętrzna_Macedońska_Organizacja_Rewolucyjna). He was active in the reserve officers' union and in veterans' organisations. He died in Sofia on 16 November 1934. The village of General Todorov near Petrich bears his name.
+
+## Assessment
+
+In Bulgaria Todorov is remembered above all as the victor of autumn 1915, who took Macedonia and prevented the Serbs from joining the Entente. His soldiers held him in high regard. At the same time Bulgarian historians count him among the commanders responsible for the defeat at Dobro Pole and the belated reaction to the breakthrough in September 1918, though they acknowledge that he had taken command of the army only a week before an offensive that neither he nor the Germans could any longer stop. The Bulgarian military historian Dimitar Azmanov wrote of him as an exemplary, calm and brave commander, a father to his soldiers, who nevertheless lacked the qualities needed for command at the highest level.

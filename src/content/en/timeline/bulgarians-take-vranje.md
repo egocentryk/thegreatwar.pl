@@ -1,0 +1,20 @@
+---
+title: Bulgarians take Vranje
+summary: In mid-October 1915 the Bulgarian Second Army reached Vranje on the South Morava and cut the Niš–Salonika railway, Serbia's main route to the Allies.
+source: bulgarzy-zajmuja-vranje
+sourceHash: ecf70b57c823e458eaabc8a58a2f7be673b2e21a
+---
+
+The British chronology of the war records under 15 October 1915 the capture by the Bulgarians of [Vranje](https://pl.wikipedia.org/wiki/Vranje), a town in the valley of the [South Morava](https://pl.wikipedia.org/wiki/Morawa_Południowa), about 100 kilometres south of [Niš](https://pl.wikipedia.org/wiki/Nisz). The date is slightly too early. According to the Austro-Hungarian official history, the Bulgarians reached the weakly held Vranje on 16 October. Bulgarian sources state that the 29th Yambol Infantry Regiment reached the area of Vranje railway station on that day, that is, on 3 October according to the Julian calendar then used in Bulgaria, and entered the town the next day. The Serbian historian Andrej Mitrović dates the capture of Vranje to 16–17 October.
+
+## The blow from the east
+
+On 14 October, [the day war was declared on Serbia](/bulgaria-i-serbia-wypowiadaja-sobie-wojne), both Bulgarian armies crossed the border. General Kliment Boyadzhiev's [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Carstwo_Bułgarii)) attacked in the mountains above the [Timok](https://pl.wikipedia.org/wiki/Timok) towards Zaječar, Knjaževac and Pirot, but in rain, snow and fog it advanced slowly, because the strong Serbian Second Army of Vojvoda [Stepa Stepanović](/postacie/stepa-stepanovic) was defending there. Things went much more easily for General [Georgi Todorov](/postacie/georgi-todorow)'s [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Carstwo_Bułgarii)), which according to plan was to reach the Vardar valley as quickly as possible and cut the railway to Salonika. Only weak forces faced it. The Serbian command had sent almost the entire army north, against [the Germans and Austrians forcing the Danube and the Sava](/panstwa-centralne-atakuja-serbie). In Macedonia there remained divisions made up largely of recruits, volunteers and irregular units, and between them and the Second Army the frontier was guarded by Colonel Milovan Plazina's detachment of about ten battalions.
+
+According to the Austrian official history, Vranje lay at the junction between the Serbian Second Army and the command of the troops in Macedonia and was held only by weak forces. It was attacked by the Bulgarian 3rd Infantry Division. Its main body took [Kriva Palanka](https://pl.wikipedia.org/wiki/Kriwa_Pałanka) in the same days and moved on Kumanovo, while the 7th Division crossed the mountains into the Bregalnica valley.
+
+## The railway cut
+
+Through Vranje ran the railway from Niš to Salonika, the main route by which Serbia could receive ammunition and supplies from the Allies. With the Bulgarians' arrival on the Morava, traffic on the line ceased. According to the British history of the war published by Nelson, the last train, carrying the property of the National Bank of Serbia, passed through the battlefield and reached the coast riddled with bullets. Serbian units from the South Morava valley tried to counter-attack at Vranje to recover the railway, but without success.
+
+For the Serbs it was a heavy blow. The French and British had been [landing at Salonika](/ladowanie-ententy-w-salonikach) since 5 October and were just setting off up the Vardar, but they were unable to reach the north before the Bulgarians closed the route. Vojvoda [Radomir Putnik](/postacie/radomir-putnik) now had to fight three armies attacking simultaneously from the north and east, with no hope of quick help. In the Bulgarian tradition the capture of Vranje was described as a liberation, because Sofia regarded this part of the Morava valley as Bulgarian land. Serbian historians emphasise, on the other hand, that during the occupation, which lasted until the autumn of 1918, the Bulgarians carried out forced Bulgarisation in the region and committed crimes against the population.
