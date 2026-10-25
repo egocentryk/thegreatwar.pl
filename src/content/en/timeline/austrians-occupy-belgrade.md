@@ -1,0 +1,26 @@
+---
+title: Austrians occupy Belgrade
+summary: On 2 December 1914 Austro-Hungarian troops took abandoned Belgrade without a fight. The same day the Serbian command issued the order for a counter-offensive.
+source: austriacy-zajmuja-belgrad
+sourceHash: ee9fb51d9d13594cbbeb291831fd050f4d7757eb
+---
+
+On 2 December 1914 Austro-Hungarian troops occupied [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). Serbian units had [left the capital two days earlier](/serbowie-opuszczaja-belgrad), so the city passed into enemy hands without a fight. The British chronology of the war states that the Austrians crossed the Danube to do so. In fact the first units crossed from [Semlin](https://pl.wikipedia.org/wiki/Zemun), which lies opposite Belgrade, over the mouth of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), which flows into the [Danube](https://pl.wikipedia.org/wiki/Dunaj) beneath the walls of the fortress.
+
+## The night crossing
+
+At Semlin, on the Austro-Hungarian side of the river, stood the nine battalions of General Adalbert von Tamásy's Syrmia group. According to the Austrian official history of the war, on the night of 1–2 December some of them were ferried across to the other bank, and at dawn the soldiers occupied the most important points in the city without firing a shot. When a detachment of a Landsturm brigade from the main body of the Fifth Army approached Belgrade from the south in the early forenoon, it found its own troops already in the capital. The night crossing may explain why some studies state that the Austro-Hungarians entered the city as early as 1 December. According to Serbian sources, the main body of the Fifth Army did not enter Belgrade until the afternoon of the following day.
+
+At 11 a.m. the commander of the Fifth Army, General [Liborius von Frank](https://pl.wikipedia.org/wiki/Liborius_von_Frank), reported the occupation of Belgrade and asked for permission to make a ceremonial entry into the Serbian capital. The same day, on the 66th anniversary of the accession of [Franz Joseph I](/postacie/franciszek-jozef-i), the commander of the Balkan forces, General [Oskar Potiorek](/postacie/oskar-potiorek), reported the capture of the city and fortress to the emperor. He gave permission for the ceremony, but with a reservation. His reply, which reached Frank's headquarters at Obrenovac only at 6 p.m., read: "The ceremonial entry into Belgrade is to take place with small forces only. The bulk of the Fifth Army must continue the advance without interruption and as quickly as possible."
+
+## A march in the wrong direction
+
+The Austrian official history, *Österreich-Ungarns letzter Krieg*, judges the march on Belgrade very critically. As early as the evening of 30 November there were signs that the Serbs were falling back to the south-east, towards Aranđelovac and Gornji Milanovac. Even so, the columns of the Fifth Army were directed north-east, towards the capital. The authors write that the desire to capture the old fortress, taken in the 18th century by [Prince Eugene of Savoy](https://pl.wikipedia.org/wiki/Eugeniusz_Sabaudzki) and [Gideon Ernst von Laudon](https://pl.wikipedia.org/wiki/Gideon_Ernst_von_Laudon), proved stronger than reason. The wish to secure a convenient supply line also counted, and in the background was pressure from the Germans, who wanted to open as quickly as possible a route through north-eastern Serbia and Bulgaria to Turkey, which urgently needed ammunition.
+
+The days lost on the march towards Belgrade would soon take their revenge. Potiorek's troops were utterly exhausted, and their supplies barely reached the front along sodden roads. On 30 November the command granted the Sixth Army three days' rest, but in practice it could not be provided anywhere. On 2 December Potiorek therefore ordered that the advance should be resumed only on 6 December, when ammunition reached the front. Until then the Fifth Army was to take up starting positions for a thrust towards Topola, deep into Serbia.
+
+## An order on the other side of the front
+
+The Austro-Hungarians were convinced that the Serbian army was at the end of its strength. Meanwhile the Serbs, after a few days' rest and with fresh supplies of ammunition, were preparing to counter-attack. The commander of the Serbian First Army, General [Živojin Mišić](/postacie/zivojin-misic), had announced to his soldiers as early as 1 December: "The difficult and sorry position of the enemy must now be exploited. He must be attacked everywhere and at every point, giving him no peace anywhere and not a moment's respite, until he is destroyed and driven out of our country."
+
+On 2 December Mišić issued the orders for his army's attack. He informed the Supreme Command only when he was announcing them, and at the same time asked that the other armies should also go over to the attack. Vojvoda [Radomir Putnik](/postacie/radomir-putnik) did not object. At 3 p.m. he announced the attack to all the armies by telephone, and less than two hours later issued a written order for a general attack the next morning. The Serbs did not know that the main body of the Fifth Army had moved north, towards Belgrade. The Austrians did not know that the enemy they considered beaten would strike along the whole front within a matter of hours.

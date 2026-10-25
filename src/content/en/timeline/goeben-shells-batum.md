@@ -1,0 +1,16 @@
+---
+title: Goeben shells Batum
+summary: On 10 December 1914 the battlecruiser Goeben shelled the Russian port of Batum in the Caucasus. The bombardment lasted under ten minutes and did little damage.
+source: goeben-ostrzeliwuje-batumi
+sourceHash: 0abcb718cc7fbbb878f6aa1f6154ec960bd6192b
+---
+
+On 10 December 1914 the battlecruiser Yavuz Sultan Selim, formerly the German [Goeben](https://pl.wikipedia.org/wiki/SMS_Goeben), appeared off [Batum](https://pl.wikipedia.org/wiki/Batumi), a Russian port on the eastern coast of the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne), close to the border with the Ottoman Empire. The ship shelled the town and the coastal fortifications and then put out to sea. The British chronology of the war states that Batum was shelled by Goeben and Breslau, but according to Russian and Turkish sources only Goeben shelled the town.
+
+Batum, Russian since 1878, was an important port and fortress. Here the railway and the pipeline from Baku ended, bringing crude oil and kerosene from the Caspian fields to the sea. The town also lay close to the [Caucasus front](https://pl.wikipedia.org/wiki/Kampania_kaukaska), where the Turks were preparing a great offensive. One of its aims was to recover Batum, lost by the Ottoman Empire after the war with Russia. According to the memoirs of Goeben's wireless operator Georg Kopp, the ship left the [Bosporus](https://pl.wikipedia.org/wiki/Bosfor) on 8 December, and the bombardment was meant to support a Turkish attack on Batum from the landward side. The land forces, however, did not appear.
+
+According to a Russian study of the fleet's operations in the Black Sea, the ship was sighted after 1 p.m. Goeben opened fire at 1.39 p.m. at a range of about 17 kilometres and for several minutes shelled the town and the port with her heavy 280 mm guns. The Russians counted only 15 rounds, fired at fairly long intervals, and at least half of the shells failed to explode. The coastal battery replied only towards the end of the bombardment and to no effect, because the German ship kept out of range of its guns. At 1.48 p.m. Goeben ceased fire and made off to sea.
+
+The damage was slight. The shells fell on the seafront promenade, around the mosque and the landing stage, damaged several houses, and a splinter pierced the side of one of the steamers. According to Russian figures one person was killed and four were wounded. Observers saw a second, smaller ship in the distance, which could not be identified. The Russians supposed that it was a Turkish minelayer and that Goeben was merely covering the laying of mines on the routes of Russian ships. Some later authors believe that it was the cruiser Midilli, formerly [Breslau](https://pl.wikipedia.org/wiki/SMS_Breslau), but according to Turkish studies Midilli had already returned to Constantinople on 8 December.
+
+The shelling of Batum was one of many raids on the Russian coast by Admiral [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon)'s ships since the [attack on the Russian ports](/turecka-flota-atakuje-rosje) in October. Like that attack, it did no serious damage, but it forced the Russians to maintain a strong coastal defence. Although the Russians had hit Goeben in the [clash off Cape Sarych](/bitwa-kolo-przyladka-sarycz), she remained the most powerful ship in the Black Sea.

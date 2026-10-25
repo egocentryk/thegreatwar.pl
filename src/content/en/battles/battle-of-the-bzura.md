@@ -1,0 +1,47 @@
+---
+title: Battle of the Bzura
+summary: From 30 November to 17 December 1914 the Germans, reinforced from the west, attacked between the Vistula and Łowicz and pushed the Russians behind the Bzura.
+location: Northern part of the Kingdom of Poland between the Vistula and Łowicz, around Gąbin, Sanniki and Iłów, up to the lower Bzura
+sides:
+  - name: German Empire
+    commanders: [Paul von Hindenburg, August von Mackensen, Kurt von Morgen, Max von Fabeck, Hans von Beseler]
+  - name: Russian Empire
+    commanders: [Nikolai Ruzsky, Paul von Rennenkampf, Aleksandr Litvinov]
+result: German success without a breakthrough. The Russians abandoned Łowicz and fell back behind the lower Bzura and the Rawka, where the fighting turned into trench warfare.
+source: bitwa-nad-bzura
+sourceHash: fa11cd6ba403d48999bfaf6df1af6e001f1170db
+---
+
+The Battle of the Bzura, called the Battle of Łowicz–Sanniki in German and British works, was the last stage of the autumn campaign in the central part of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). It was fought from the end of November to mid-December 1914 on the northern wing of the front, between the [Vistula](https://pl.wikipedia.org/wiki/Wisła) and [Łowicz](https://pl.wikipedia.org/wiki/Łowicz). The German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)), reinforced by corps transferred from the Western Front, attacked the Russian [First Army](https://pl.wikipedia.org/wiki/1_Armia_(Imperium_Rosyjskie)) here. After more than two weeks of heavy fighting the Russians abandoned Łowicz and fell back behind the lower [Bzura](https://pl.wikipedia.org/wiki/Bzura), where the front froze for many months.
+
+## Name and dates
+
+The name "Battle of Łowicz–Sanniki" (German: Schlacht bei Lowicz-Sanniki) comes from the official German list of battles. It is used in many histories of German regiments and divisions, and following the Germans it was adopted by the British chronology of the war, which dates the battle to 30 November – 17 December 1914. This page uses the same dates. The next day, 18 December, according to the same lists, began the Battle of the Rawka and Bzura, that is, the long positional fighting that lasted until the summer of 1915.
+
+In the Polish tradition this fighting is usually called the Battle of the Bzura. [Polish Wikipedia](https://pl.wikipedia.org/wiki/Bitwa_nad_Bzurą_(1914)), relying on a Russian study, gives a much wider range of dates, however, 19 November – 20 December 1914, and also counts as part of the battle some of the fighting at Łódź and the Austrian attack further south. The Russian collection of documents on the Łódź operation, in turn, does not single out a separate battle. It treats the fighting at Łowicz as the final phase of that operation and describes its last days as the retreat of the Russian armies to the line of the Bzura, Rawka and Nida.
+
+The page begins on 30 November because on that day, according to the German lists, the first divisions of the left wing of the Ninth Army opened the battle of Łowicz, and on the following days they were joined by more arriving from the west. For the first week the Battle of the Bzura ran in parallel with the [Battle of Łódź](/bitwy/bitwa-pod-lodzia), which lasted until 6 December, when the Germans entered the city abandoned by the Russians. The fighting at Łódź took place in the centre and on the western sector of the front, and the fighting at Łowicz on its northern wing. The British chronology extends the Battle of Łódź as far as 15 December, so in it the two battles run side by side almost to the end.
+
+## Background
+
+At the end of November 1914 the situation at Łódź was undecided. The Germans had failed to encircle the Russian armies, and the surrounded group of General Scheffer had barely broken out of the pocket at Brzeziny. The Russians still held Łódź, and north of the city their First Army under General [Paul von Rennenkampf](/postacie/paul-von-rennenkampf) was defending the Łowicz area. According to German Wikipedia, the Russian VI Corps stood in front of Łowicz itself, and north of it, as far as the Vistula, the V and VI Siberian Corps.
+
+The commander-in-chief of the German forces in the east, [Field Marshal](/hindenburg-feldmarszalkiem) [Paul von Hindenburg](/postacie/paul-von-hindenburg), had already in mid-November persuaded the Chief of the General Staff, Erich von Falkenhayn, to send him reinforcements from the Western Front. At Ypres the German offensive was just dying down, so several divisions could be taken from there. At the end of November they began to reach the Ninth Army of General [August von Mackensen](/postacie/august-von-mackensen). From Flanders came the Württemberg [XIII Corps](https://pl.wikipedia.org/wiki/XIII_Korpus_Armijny_(Cesarstwo_Niemieckie)) of General Max von Fabeck, whose group had earlier fought in the [Battle of Gheluvelt](/bitwy/bitwa-pod-gheluvelt). Its 26th Division reached the area of [Gostynin](https://pl.wikipedia.org/wiki/Gostynin) on 27 November. At the beginning of December the III Reserve Corps of General [Hans von Beseler](/postacie/hans-von-beseler), the conqueror of [Antwerp](/bitwy/oblezenie-antwerpii), also arrived. From East Prussia the 1st Division was sent, which reinforced the I Reserve Corps of General [Kurt von Morgen](https://pl.wikipedia.org/wiki/Kurt_von_Morgen), fighting north-west of Łowicz.
+
+## Course
+
+**30 November – 6 December.** The left wing of the Ninth Army, that is, Morgen's corps and the divisions arriving from the west, went over to the attack on the positions of the Russian First Army north and north-west of Łowicz. From 1 December the Württemberg 26th Division and the Hessian 25th Reserve Division formed Fabeck's corps, which attacked in the area of [Sanniki](https://pl.wikipedia.org/wiki/Sanniki), about 25 kilometres north of Łowicz. On 5 December the Württembergers attacked [Iłów](https://pl.wikipedia.org/wiki/Iłów). The Russians defended themselves stubbornly and progress was slow. At the same time the Russians were preparing to shorten the front. At the beginning of December General Aleksandr Litvinov took over command of the First Army from Rennenkampf. On the night of 5–6 December the Russian troops abandoned Łódź.
+
+**7–13 December.** After the loss of Łódź the Russian armies took up new positions further east, but at Łowicz they still held firm. On 9 December a German communiqué stated briefly: "Um Lowicz wird weiter gekämpft", that is, fighting for Łowicz continues. The attack moved forward slowly, from one fortified village to the next. On 12 December the Württembergers took the park in the village of Wszeliwy near Iłów, and the next day pursued the Russians towards the village of Giżyce. According to the communiqué of 13 December, the Germans had taken several Russian positions in northern Poland and captured 11,000 prisoners.
+
+**14–17 December.** The Russian command decided to retreat to the line of the Bzura, Rawka and Nida. According to the Russian collection of documents on the Łódź operation, the First Army withdrew behind the Bzura from 12 to 17 December. The Germans attacked its rearguards, though according to the German communiqué of 15 December they were hampered by unfavourable weather. In the communiqué of 17 December the Germans credited the outcome of the fighting of the two previous days to West Prussian and Hessian regiments. In mid-December German troops entered Łowicz, abandoned by the Russians. By 17 December the Russians had occupied new positions on the eastern bank of the lower Bzura, from its mouth on the Vistula through [Sochaczew](https://pl.wikipedia.org/wiki/Sochaczew), and further south along the [Rawka](https://pl.wikipedia.org/wiki/Rawka_(rzeka)).
+
+## Losses
+
+The exact losses of the Battle of Łowicz–Sanniki are not known. German communiqués of those weeks gave the numbers of Russians taken prisoner, but combined them with the results of the fighting at Łódź. Polish Wikipedia estimates Russian losses in the whole Battle of the Bzura at about 200,000 soldiers and German losses at about 100,000. These figures, however, cover a much longer period and a wider front, including the fighting on the Pilica and the Nida, and should be treated as very approximate. The war cemeteries in the region are a memorial of the fighting. Among others, officers of the Württemberg Queen Olga Grenadier Regiment are buried in Sanniki.
+
+## Significance
+
+The Germans achieved their aim only in part. They pushed the Russians out of the Łowicz area and away from Łódź, and the Russian offensive into Silesia and deep into Germany was finally halted. On 17 December a German communiqué announced that the offensive into Silesia and Posen announced by the Russians had "completely collapsed". In the same days, in the south, the Austrians won the [Battle of Limanowa](https://pl.wikipedia.org/wiki/Bitwa_pod_Limanową), which pushed the Russians back from Kraków. Hindenburg and Mackensen, however, failed to destroy the Russian armies or to reach Warsaw.
+
+On the Bzura and the Rawka, only a few dozen kilometres from Warsaw, the front froze in the trenches. From 18 December the Germans still tried to cross both rivers, but trench warfare began and lasted until July 1915. On this sector, at [Bolimów](https://pl.wikipedia.org/wiki/Bitwa_pod_Bolimowem), the Germans for the first time used shells with tear gas in January 1915, and in May 1915 they carried out the largest chlorine attack on the Eastern Front there.
