@@ -36,3 +36,39 @@ Run from repo root: `node scripts/i18n-status.mjs 2>&1 | grep -v "no sourceHash"
 
 ## Report
 List: Polish slug → English slug for each file, any suspected source errors, any doubtful name choices. Keep it short.
+
+## Battle pages
+- Source: `src/content/battles/<YYYY>/<slug>.md` → `src/content/en/battles/<english-slug>.md` (slug from the English title, e.g. `battle-of-the-frontiers`, `siege-of-liege`).
+- Front-matter, exactly these fields in this order:
+```
+---
+title: Battle of Galicia
+summary: ≤160 chars
+location: translated location line
+sides:
+  - name: Russian Empire
+    commanders: [Nikolai Ivanov, Mikhail Alekseyev, …]
+  - name: Austria-Hungary
+    commanders: [Franz Conrad von Hötzendorf, …]
+result: translated result line
+source: bitwa-galicyjska
+---
+```
+- `sides`: same number of sides, same order; `commanders` same count and same order as Polish (the page matches them by position), names in en.wiki form. Side names: Russian Empire / Russia, Germany / German Empire, Austria-Hungary, France, United Kingdom, Belgium, Serbia, Ottoman Empire, etc. — follow what en.wiki's infobox for that battle uses.
+- Do not copy front, phase, startDate, endDate, authors, tags, milestone.
+
+## Person pages
+- Source: `src/content/postacie/<slug>.md` → `src/content/en/people/<english-slug>.md` (slug from the English name, e.g. `franz-joseph-i`, `jozef-pilsudski`).
+- Front-matter, exactly these fields in this order (omit birthPlace/deathPlace if the Polish has none):
+```
+---
+name: Franz Joseph I
+summary: ≤160 chars
+role: translated role line
+country: Austria-Hungary
+birthPlace: Vienna (Austrian Empire)
+deathPlace: Vienna
+source: franciszek-jozef-i
+---
+```
+- Do not copy side, born, died, *YearOnly, aliases, wikiTitles, authors, tags.

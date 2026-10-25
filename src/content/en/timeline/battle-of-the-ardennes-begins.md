@@ -1,0 +1,24 @@
+---
+title: Battle of the Ardennes begins
+summary: On 22 August 1914 French armies advancing through the Ardennes ran into strong German forces. It was the bloodiest day in the history of the French army.
+source: poczatek-bitwy-w-ardenach
+sourceHash: 215988017202c1dd28130c9e7f09dd0b821493e4
+---
+
+On 22 August 1914, in the forests of the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny), in the Belgian province of Luxembourg, a battle between two French and two German armies flared up in earnest. That day went down in history as the bloodiest in the annals of the French army.
+
+## Advancing blind
+
+The Commander-in-Chief, [Joseph Joffre](/postacie/joseph-joffre), was convinced that the Germans had sent their main forces through northern Belgium and that their centre in the Ardennes was weak. He decided to strike there and cut the German front in two. The Third Army under General [Pierre Ruffey](https://pl.wikipedia.org/wiki/Pierre_Ruffey) and the Fourth Army under General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) went into the attack.
+
+French reconnaissance failed. Marching towards them were two strong German armies: the Fourth Army of Duke Albrecht of Württemberg and the Fifth Army of Crown Prince Wilhelm. Both sides advanced towards each other through dense forests and narrow valleys, often in the morning mist, without knowing exactly where the enemy was.
+
+## A black day
+
+On 22 August the columns collided at many points at once: at Rossignol, Neufchâteau, [Virton](https://pl.wikipedia.org/wiki/Virton), [Ethe](https://pl.wikipedia.org/wiki/Ethe) and in the area of [Longwy](https://pl.wikipedia.org/wiki/Longwy). The French infantry in red trousers and dark blue greatcoats, charging with the bayonet, fell under machine-gun and artillery fire. At Rossignol the 3rd Colonial Division was almost completely destroyed.
+
+That day, across the whole front of the Battles of the Frontiers, in the Ardennes, on the Sambre and in Lorraine, some 27,000 French soldiers were killed. No other day in French history, in either the First or the Second World War, brought its army such losses.
+
+## What came next
+
+On 23 August the French armies began to withdraw behind the [Meuse](https://pl.wikipedia.org/wiki/Moza). The defeat in the Ardennes, together with the defeats at Charleroi and Mons, forced the Allied armies into the Great Retreat.

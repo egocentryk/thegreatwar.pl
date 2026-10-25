@@ -1,0 +1,14 @@
+---
+title: Britain mobilises the fleet
+summary: On the evening of 1 August 1914, on news that Germany had declared war on Russia, Winston Churchill ordered the mobilisation of the Royal Navy.
+source: wielka-brytania-mobilizuje-flote
+sourceHash: 005efbad6e128e8d58e2c4906cdf82e5980abb92
+---
+
+On 1 August 1914 the British government still did not know whether the country would go to war. At the morning meeting the Cabinet was deeply divided, and most ministers did not yet want to commit themselves to France. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), demanded the mobilisation of the fleet, but the government refused him permission.
+
+In the evening news reached London that [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) had declared war on [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie). Churchill decided that further delay was dangerous. He went to the Prime Minister, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), and declared that, despite the Cabinet's decision, he intended to mobilise the fleet and would take full responsibility for it before the government the next morning. Asquith raised no objection. During the night of 1–2 August the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) sent out the mobilisation orders, and on the morning of 2 August the Cabinet approved the decision.
+
+Mobilisation meant calling up the naval reservists and fully manning the reserve ships too, which in peacetime had only skeleton crews. The main forces of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) were already at their war stations: the First Fleet had been lying for several days at the base of [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in Orkney. Now the entire British navy, the largest in the world, was placed on a war footing.
+
+This was the culmination of the steps Churchill had been taking since the end of July: halting the dispersal of the fleet on 26 July, the move to Scapa Flow and the warning telegram of 29 July. At a moment when politicians were still arguing over whether [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) should fight, its fleet was ready for war. The country's entry into the conflict was settled a few days later by the German invasion of Belgium.
