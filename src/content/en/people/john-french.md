@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Ripple (Kent, England)
 deathPlace: Deal Castle (Kent)
 source: john-french
-sourceHash: 773be6a27569acd7ba80c173ba2798dda30f9a43
+sourceHash: ef3a4bcd339ec3515c299bcec0795f4d3e2d802f
 ---
 
 Field Marshal Sir John French commanded the British Expeditionary Force for the first year and a half of the war: from its departure for France in August 1914, through Mons, the Marne and Ypres, to the failed offensive at Loos in the autumn of 1915. He was a brave cavalryman, popular with the men, who had made his name in the Boer War, but war on the Continent proved beyond his experience and temperament. He quarrelled with the French, with the Secretary of State for War [Lord Kitchener](/postacie/horatio-kitchener) and finally with his own subordinates, one of whom, [Douglas Haig](/postacie/douglas-haig), took his place. He later commanded the defence of the British Isles and from 1918, as Lord Lieutenant, governed Ireland.

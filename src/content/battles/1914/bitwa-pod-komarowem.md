@@ -47,7 +47,7 @@ Liczby strat podawane w literaturze bardzo się różnią. Rosjanie stracili wed
 
 ## Znaczenie
 
-Komarów, razem z Kraśnikiem, był sukcesem Conrada: na północnym odcinku frontu ofensywa wyprzedzająca się powiodła, a armia austro-węgierska pokazała, że potrafi pobić silniejszego przeciwnika na jego terytorium. Auffenberg stał się bohaterem monarchii. W kwietniu 1915 roku otrzymał tytuł barona z predykatem „von Komarów”, a więc na stałe związał swoje nazwisko z tą bitwą.
+Komarów, razem z Kraśnikiem, był sukcesem Conrada: na północnym odcinku frontu ofensywa wyprzedzająca powiodła się, a armia austro-węgierska pokazała, że potrafi pobić silniejszego przeciwnika na jego terytorium. Auffenberg stał się bohaterem monarchii. W kwietniu 1915 roku otrzymał tytuł barona z predykatem „von Komarów”, a więc na stałe związał swoje nazwisko z tą bitwą.
 
 Zwycięstwo nie przyniosło jednak rozstrzygnięcia. W tym samym czasie Rosjanie rozbijali słabsze armie austro-węgierskie we wschodniej Galicji, w bitwie [nad Złotą Lipą](/bitwy/bitwa-nad-zlota-lipa). Zaraz po Komarowie Conrad zawrócił wyczerpaną armię Auffenberga na południe, w stronę [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska), by ratować Lwów. Tamte walki zakończyły się niepowodzeniem, a 5 Armia Plehwego, choć poturbowana, szybko wróciła do walki. W połowie września cały front austro-węgierski musiał wycofać się za San. Auffenberg stracił dowództwo pod koniec września 1914 roku, a jego miejsce zajął arcyksiążę Józef Ferdynand.
 

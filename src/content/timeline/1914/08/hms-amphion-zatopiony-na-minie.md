@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-6 sierpnia 1914 roku około godziny 6:30 rano brytyjski krążownik zwiadowczy HMS Amphion wszedł na [miny](https://pl.wikipedia.org/wiki/Mina_morska) postawione dwa dni wcześniej przez niemiecki okręt Königin Luise. Zatonął w ciągu kilkunastu minut. Był pierwszym okrętem [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) utraconym w I wojnie światowej, zaledwie półtorej doby po przystąpieniu Wielkiej Brytanii do wojny.
+6 sierpnia 1914 roku około godziny 6:30 rano brytyjski krążownik zwiadowczy HMS Amphion wszedł na [miny](https://pl.wikipedia.org/wiki/Mina_morska) postawione w nocy z 4 na 5 sierpnia przez niemiecki okręt Königin Luise. Zatonął w ciągu kilkunastu minut. Był pierwszym okrętem [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) utraconym w I wojnie światowej, zaledwie półtorej doby po przystąpieniu Wielkiej Brytanii do wojny.
 
 ## Pułapka po zwycięstwie
 

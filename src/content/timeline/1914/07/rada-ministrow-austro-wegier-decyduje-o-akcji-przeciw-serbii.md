@@ -1,5 +1,5 @@
 ---
-title: Rada ministrów Austro-Węgier decyduje o akcji przeciw Serbii
+title: Wiedeń decyduje o akcji przeciw Serbii
 summary: 14 lipca 1914 w Wiedniu zapadła polityczna decyzja o twardym kursie wobec Serbii i przygotowaniu ultimatum prowadzącego do wojny.
 category: Polityka
 date: 1914-07-14
@@ -17,4 +17,4 @@ To był moment politycznego domknięcia sporu wewnątrz Wiednia. Po niemieckim �
 
 W tym samym czasie Berlin naciskał, by [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) nie wycofywały się z raz obranej drogi. Niemieckie kierownictwo dawało do zrozumienia, że chwila jest sprzyjająca i że zwłoka może osłabić efekt polityczny po Sarajewie. W rezultacie w Wiedniu dojrzewał plan ultimatum z żądaniami na tyle ostrymi, by Serbia albo je odrzuciła, albo przyjęła kosztem własnej suwerenności.
 
-Warto zachować precyzję: 14 lipca nie ustalono jeszcze ostatecznego tekstu noty, bo ten dopracowywano w kolejnych dniach, a formalnie zatwierdzono go dopiero później. Jednak właśnie tego dnia przesądziła się zasadnicza linia polityczna monarchii. Dlatego 14 lipca 1914 roku można uznać za jeden z kluczowych momentów, w których kryzys dyplomatyczny przestał być jeszcze sporem o śledztwo po Sarajewie, a stał się przygotowaniem do wojny z Serbią.
+Warto zachować precyzję: 14 lipca nie zebrała się formalnie Wspólna Rada Ministrów, która obradowała 7 i 19 lipca. Decyzja zapadła w rozmowach Tiszy z Berchtoldem. Tego dnia nie ustalono jeszcze ostatecznego tekstu noty, bo ten dopracowywano w kolejnych dniach, a formalnie zatwierdzono go dopiero później. Jednak właśnie tego dnia przesądziła się zasadnicza linia polityczna monarchii. Dlatego 14 lipca 1914 roku można uznać za jeden z kluczowych momentów, w których kryzys dyplomatyczny przestał być jeszcze sporem o śledztwo po Sarajewie, a stał się przygotowaniem do wojny z Serbią.

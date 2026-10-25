@@ -1,8 +1,8 @@
 ---
-title: Austro-Hungarian council of ministers decides on action against Serbia
+title: Vienna decides on action against Serbia
 summary: On 14 July 1914 Vienna took the political decision on a hard line towards Serbia and on preparing an ultimatum that would lead to war.
 source: rada-ministrow-austro-wegier-decyduje-o-akcji-przeciw-serbii
-sourceHash: 2e26bb958bca01fde6da9a21e41a57e869953b79
+sourceHash: 9a3859aab71193936513a3f0b2c39aaf5424a0a3
 ---
 
 On 14 July 1914 in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń) the crisis that followed the [Sarajevo assassination](https://pl.wikipedia.org/wiki/Zamach_w_Sarajewie) entered a new phase. That day the Austro-Hungarian political leadership settled that the monarchy would seek a confrontation with [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). This did not yet mean an immediate declaration of war, but the decision on the course of action had in practice been made: Serbia was to receive an ultimatum worded so that accepting it would be extremely difficult, while rejecting it could become grounds for the use of force.
@@ -13,4 +13,4 @@ This was the moment when the dispute within Vienna was politically closed. After
 
 At the same time Berlin was pressing [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) not to turn back from the path it had chosen. The German leadership made it clear that the moment was favourable and that delay could weaken the political effect after Sarajevo. As a result, a plan matured in Vienna for an ultimatum with demands so harsh that Serbia would either reject them or accept them at the cost of its own sovereignty.
 
-It is worth being precise: on 14 July the final text of the note had not yet been settled, as it was refined over the following days and formally approved only later. Yet it was on that day that the monarchy's fundamental political line was decided. That is why 14 July 1914 can be regarded as one of the key moments when the diplomatic crisis ceased to be a dispute over the investigation after Sarajevo and became preparation for war with Serbia.
+It is worth being precise: on 14 July the Common Ministerial Council did not formally meet; it sat on 7 and 19 July. The decision was reached in talks between Tisza and Berchtold. On that day the final text of the note had not yet been settled, as it was refined over the following days and formally approved only later. Yet it was on that day that the monarchy's fundamental political line was decided. That is why 14 July 1914 can be regarded as one of the key moments when the diplomatic crisis ceased to be a dispute over the investigation after Sarajevo and became preparation for war with Serbia.

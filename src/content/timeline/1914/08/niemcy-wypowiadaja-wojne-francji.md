@@ -33,4 +33,4 @@ Następnego dnia, 4 sierpnia, prezydent [Raymond Poincaré](/postacie/raymond-po
 
 ## Znaczenie
 
-3 sierpnia 1914 roku wojna między Niemcami a Francją stała się faktem. Już następnego dnia wojska niemieckie wkroczyły do Belgii, a Wielka Brytania przystąpiła do wojny. W ciągu tygodnia od wypowiedzenia wojny Serbii konflikt objął wszystkie wielkie mocarstwa Europy. Na [froncie zachodnim](https://pl.wikipedia.org/wiki/Front_zachodni_(I_wojna_światowa)) miały się rozegrać najkrwawsze bitwy tej wojny.
+3 sierpnia 1914 roku wojna między Niemcami a Francją stała się faktem. Już następnego dnia wojska niemieckie wkroczyły do Belgii, a Wielka Brytania przystąpiła do wojny. W ciągu tygodnia od wypowiedzenia wojny Serbii konflikt objął wszystkie wielkie mocarstwa Europy z wyjątkiem Włoch, które ogłosiły neutralność. Na [froncie zachodnim](https://pl.wikipedia.org/wiki/Front_zachodni_(I_wojna_światowa)) miały się rozegrać najkrwawsze bitwy tej wojny.

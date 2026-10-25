@@ -351,7 +351,7 @@ export const BATTLE_PHASES = [
     front: "Front wschodni",
     dates: "od lutego 1918",
     intro:
-      "Gdy bolszewicy zerwali rokowania w Brześciu Litewskim, ogłaszając, że nie będą ani walczyć, ani podpisywać pokoju, Niemcy i Austro-Węgrzy wypowiedzieli rozejm i ruszyli na wschód. W ciągu dwóch tygodni, prawie bez oporu rozpadającej się armii rosyjskiej, zajęli Inflanty i Estonię, Białoruś i Ukrainę. Ofensywa zmusiła Lenina do przyjęcia o wiele cięższych warunków pokoju, podpisanego 3 marca 1918 roku.",
+      "Gdy bolszewicy zerwali rokowania w Brześciu Litewskim, ogłaszając, że nie będą ani walczyć, ani podpisywać pokoju, Niemcy i Austro-Węgrzy wypowiedzieli rozejm i ruszyli na wschód. W ciągu dwóch tygodni, prawie bez oporu rozpadającej się armii rosyjskiej, zajęli Inflanty, Estonię i dużą część Białorusi, a 1 marca wkroczyli do Kijowa. Do maja okupowali całą Ukrainę. Ofensywa zmusiła Lenina do przyjęcia o wiele cięższych warunków pokoju, podpisanego 3 marca 1918 roku.",
   },
   {
     slug: "1917-front-wloski",
@@ -407,7 +407,7 @@ export const BATTLE_PHASES = [
     front: "Afryka",
     dates: "od lutego 1915",
     intro:
-      "W 1915 roku alianci zaczęli odbierać Niemcom kolejne kolonie w głębi kontynentu. W lipcu wojska Związku Południowej Afryki zmusiły do kapitulacji Niemiecką Afrykę Południowo-Zachodnią. W Kamerunie brytyjskie, francuskie i belgijskie kolumny zdobyły Garuę i Ngaundere, a jesienią ruszyły ponownie na Jaunde, przebijając się przez górskie twierdze na północy kraju. W Niemieckiej Afryce Wschodniej wojna utknęła w miejscu: Lettow-Vorbeck nękał brytyjską kolej ugandyjską, a Brytyjczycy czekali na posiłki, by przejść do natarcia.",
+      "W 1915 roku alianci zaczęli odbierać Niemcom kolejne kolonie w głębi kontynentu. W lipcu wojska Związku Południowej Afryki zmusiły do kapitulacji Niemiecką Afrykę Południowo-Zachodnią. W Kamerunie brytyjskie, francuskie i belgijskie kolumny zdobyły Garuę i Ngaundere, a jesienią ruszyły ponownie na Jaunde, w głąb lesistego południa kraju. Na północy wciąż broniła się górska twierdza Mora. W Niemieckiej Afryce Wschodniej wojna utknęła w miejscu: Lettow-Vorbeck nękał brytyjską kolej ugandyjską, a Brytyjczycy czekali na posiłki, by przejść do natarcia.",
   },
   {
     slug: "1916-afryka",

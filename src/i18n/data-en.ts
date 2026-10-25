@@ -267,7 +267,7 @@ export const PHASES_EN: Record<
     title: "1918: The Eastern Front",
     dates: "from February 1918",
     intro:
-      "When the Bolsheviks broke off the negotiations at Brest-Litovsk, declaring that they would neither fight nor sign a peace, Germany and Austria-Hungary renounced the armistice and advanced east. Within two weeks, meeting almost no resistance from the disintegrating Russian army, they occupied Livonia and Estonia, Belarus and Ukraine. The offensive forced Lenin to accept far harsher peace terms, signed on 3 March 1918.",
+      "When the Bolsheviks broke off the negotiations at Brest-Litovsk, declaring that they would neither fight nor sign a peace, Germany and Austria-Hungary renounced the armistice and advanced east. Within two weeks, meeting almost no resistance from the disintegrating Russian army, they occupied Livonia, Estonia and much of Belarus, and on 1 March entered Kiev. By May they had occupied the whole of Ukraine. The offensive forced Lenin to accept far harsher peace terms, signed on 3 March 1918.",
   },
   "1917-front-wloski": {
     title: "1917: The Italian front",
@@ -309,7 +309,7 @@ export const PHASES_EN: Record<
     title: "1915: The war in Africa",
     dates: "from February 1915",
     intro:
-      "In 1915 the Allies began taking further colonies from Germany in the interior of the continent. In July the forces of the Union of South Africa compelled German South West Africa to capitulate. In Kamerun, British, French and Belgian columns captured Garua and Ngaoundéré, and in the autumn advanced again on Yaoundé, fighting their way through the mountain fortresses in the north of the country. In German East Africa the war stalled: Lettow-Vorbeck harassed the British Uganda Railway, while the British waited for reinforcements before going on the offensive.",
+      "In 1915 the Allies began taking further colonies from Germany in the interior of the continent. In July the forces of the Union of South Africa compelled German South West Africa to capitulate. In Kamerun, British, French and Belgian columns captured Garua and Ngaoundéré, and in the autumn advanced again on Yaoundé, deep into the forested south of the country. In the north the mountain fortress of Mora still held out. In German East Africa the war stalled: Lettow-Vorbeck harassed the British Uganda Railway, while the British waited for reinforcements before going on the offensive.",
   },
   "1916-afryka": {
     title: "1916: The war in Africa",

@@ -2,7 +2,7 @@
 title: Germany declares war on France
 summary: On 3 August 1914 Germany declared war on France, citing invented French air raids. The war on two fronts had begun.
 source: niemcy-wypowiadaja-wojne-francji
-sourceHash: 0a1550fc2c2330bc81e585e944ba6dd778e9c83b
+sourceHash: 0e0f7d15a6c1ea0bb4f91fad5c968aba2efafe13
 ---
 
 On 3 August 1914 at 6.45 p.m. the German ambassador in Paris, Baron Wilhelm von Schoen, handed a declaration of war to the French Prime Minister and Minister of Foreign Affairs, [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani). From that moment [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) was waging war on two fronts: against Russia in the east and against [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) in the west.
@@ -27,4 +27,4 @@ The next day, 4 August, President [Raymond Poincaré](/postacie/raymond-poincare
 
 ## Significance
 
-On 3 August 1914 war between Germany and France became a fact. The very next day German troops entered Belgium and Great Britain entered the war. Within a week of the declaration of war on Serbia the conflict had engulfed all the great powers of Europe. On the [Western Front](https://pl.wikipedia.org/wiki/Front_zachodni_(I_wojna_światowa)) the bloodiest battles of the war were to be fought.
+On 3 August 1914 war between Germany and France became a fact. The very next day German troops entered Belgium and Great Britain entered the war. Within a week of the declaration of war on Serbia the conflict had engulfed all the great powers of Europe except Italy, which declared its neutrality. On the [Western Front](https://pl.wikipedia.org/wiki/Front_zachodni_(I_wojna_światowa)) the bloodiest battles of the war were to be fought.

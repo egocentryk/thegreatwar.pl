@@ -6,7 +6,7 @@ country: France
 birthPlace: Rivesaltes (France)
 deathPlace: Paris
 source: joseph-joffre
-sourceHash: f237ecc5c2987f823e2a3cfe225ffe7246aa51d9
+sourceHash: 865184721d2c40c8b1965b42510f37a83306c5ef
 ---
 
 Joseph Joffre commanded the French Army for the first two and a half years of the war. He entered it with a plan that failed in August 1914. The French armies lost the Battle of the Frontiers and within a few weeks lost hundreds of thousands of men. Joffre, however, did not lose his head: he regrouped his forces, dismissed incompetent generals and in September led the Allies to victory on the Marne, which wrecked the German plan for a quick war. For the next two years he was the most powerful man in France, and at the same time the commander of costly and largely fruitless offensives. In December 1916 he was relieved of command and, by way of consolation, made the first Marshal of France in half a century. To the French he remained above all "the victor of the Marne", but historians still argue about his merits and about the price French infantry paid for his decisions.
