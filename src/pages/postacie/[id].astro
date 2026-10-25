@@ -1,6 +1,7 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
+import { enUrlFor } from "@/i18n"
 import CoffeeButton from "@/components/CoffeeButton.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
@@ -22,6 +23,7 @@ interface Props {
 }
 
 const { person } = Astro.props
+const enUrl = await enUrlFor("people", person.id)
 const {
   name,
   summary,
@@ -61,7 +63,11 @@ const mentions = await getCollection(
 const mentionsByYear = groupTimelineEntries(mentions)
 ---
 
-<BaseLayout title={`${name} (${lifeYears(person)})`} description={summary}>
+<BaseLayout
+  title={`${name} (${lifeYears(person)})`}
+  description={summary}
+  alternates={{ en: enUrl }}
+>
   <article class="pt-16 pb-24 sm:pt-24">
     <div class="mx-auto max-w-3xl px-6">
       <a

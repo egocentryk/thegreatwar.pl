@@ -1,0 +1,106 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import Button from "@/components/Button.astro"
+import { localBattles, localEvents } from "@/i18n/local"
+import { SITE } from "@/site.config"
+
+const [events, battles, allEvents] = await Promise.all([
+  localEvents("en"),
+  localBattles("en"),
+  localEvents("pl"),
+])
+const count = (n: number, one: string, many: string) => `${n} ${n === 1 ? one : many}`
+
+const sections = [
+  {
+    label: "Timeline",
+    href: "/en/timeline",
+    text: "Events day by day, from the assassination in Sarajevo.",
+  },
+  {
+    label: "Battles",
+    href: "/en/battles",
+    text: "The great battles, from background to significance, grouped into the phases of the war.",
+  },
+]
+---
+
+<BaseLayout
+  title="About the project"
+  description={`What ${SITE.name} is, how its articles are written and who writes them.`}
+  lang="en"
+  alternates={{ pl: "/about" }}
+>
+  <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+    <p class="text-ink-soft mb-6 font-mono text-xs tracking-[0.2em] uppercase">
+      About the project
+    </p>
+
+    <h1 class="font-display text-ink max-w-xl text-3xl font-medium sm:text-4xl">
+      A Polish chronicle of the Great War, written day by day.
+    </h1>
+
+    <div class="prose prose-sm sm:prose-base mt-8 max-w-xl">
+      <p>
+        {SITE.name} tells the story of the First World War in the order in which it
+        really happened. Instead of one long lecture, the timeline is built from
+        single events: battles, declarations of war, orders, government decisions
+        and events that changed the lives of ordinary people. Read in sequence, they
+        show how the assassination in Sarajevo grew into a war that engulfed the
+        whole world.
+      </p>
+      <p>
+        The chronicle is written in Polish, with Polish readers in mind. That is why
+        it pays particular attention to the Polish lands, across which much of the
+        fighting on the Eastern Front was fought, and to the Poles who served in the
+        three armies of the partitioning powers and in the Legions.
+      </p>
+
+      <h2>How the articles are written</h2>
+      <p>
+        The backbone of the timeline is the British day-by-day chronicles of the war. Every article, however, is checked against several independent
+        sources. Where the sources give different dates, figures or times, we do not
+        pick one version blindly: we say openly that they disagree, or we phrase the
+        account more cautiously.
+      </p>
+      <p>
+        The length of an article depends on the weight of the event. Minor episodes
+        take a few paragraphs, while the turning points of the war, highlighted on the
+        timeline, have extensive articles. Links lead to Wikipedia, where you can read
+        more about the people, places and terms.
+      </p>
+
+      <h2>The English edition</h2>
+      <p>
+        The English edition is being translated in stages, month by month. So far it
+        covers {count(events.length, "event", "events")} of
+        {" "}{allEvents.length} and {count(battles.length, "battle", "battles")}. Links to
+        articles not yet translated lead to the Polish version and are marked “(PL)”.
+      </p>
+
+      <h2>Authors</h2>
+      <p>
+        The articles are written by <a href="/autor/lukasz-skowron">Łukasz</a> and
+        <a href="/autor/natalia">Natalia</a> (author pages in Polish).
+      </p>
+    </div>
+
+    <ul class="border-line mt-10 grid max-w-xl gap-4 border-t pt-6 sm:grid-cols-2">
+      {
+        sections.map((section) => (
+          <li>
+            <a
+              href={section.href}
+              class="text-ink hover:text-signal font-display text-lg transition-colors"
+            >
+              {section.label} →
+            </a>
+            <p class="text-ink-soft mt-1 text-sm">{section.text}</p>
+          </li>
+        ))
+      }
+    </ul>
+
+    <Button href="/en/timeline" class="mt-10">Go to the timeline</Button>
+  </section>
+</BaseLayout>

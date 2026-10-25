@@ -1,21 +1,35 @@
 ---
 import ThemeToggle from '@/components/ThemeToggle.astro';
-import { SITE, NAV_LINKS } from '@/site.config';
+import LangSwitch from '@/components/LangSwitch.astro';
+import { SITE, NAV_LINKS, NAV_LINKS_EN } from '@/site.config';
+import type { Alternates, Lang } from '@/i18n';
 
+interface Props {
+  lang?: Lang;
+  alternates?: Alternates;
+}
+
+const { lang = 'pl', alternates = {} } = Astro.props;
 const currentPath = Astro.url.pathname;
+const isActive = (href: string) => currentPath === href || currentPath.startsWith(`${href}/`);
 
-const links = [
-  ...NAV_LINKS.map((link) => ({
-    ...link,
-    isActive: currentPath === link.href || currentPath.startsWith(`${link.href}/`),
-  })),
-  { label: 'Kontakt', href: '/#contact', isActive: false },
-];
+const links =
+  lang === 'en'
+    ? [
+        ...NAV_LINKS_EN.map((link) => ({ ...link, isActive: isActive(link.href) })),
+        { label: 'Contact', href: '/en#contact', isActive: false },
+      ]
+    : [
+        ...NAV_LINKS.map((link) => ({ ...link, isActive: isActive(link.href) })),
+        { label: 'Kontakt', href: '/#contact', isActive: false },
+      ];
+const homeHref = lang === 'en' ? '/en' : '/';
+const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : { open: 'Otwórz menu', close: 'Zamknij menu' };
 ---
 
 <header class="border-line bg-paper/90 sticky top-0 z-40 border-b backdrop-blur">
   <div class="mx-auto flex max-w-3xl items-center justify-between gap-4 px-6 py-4">
-    <a href="/" class="font-display text-ink text-lg font-medium">
+    <a href={homeHref} class="font-display text-ink text-lg font-medium">
       {SITE.name}
     </a>
 
@@ -38,6 +52,7 @@ const links = [
         }
       </nav>
 
+      <LangSwitch lang={lang} alternates={alternates} />
       <ThemeToggle />
 
       {/* Mobile: hamburger toggles the panel below */}
@@ -46,7 +61,9 @@ const links = [
         data-menu-toggle
         aria-expanded="false"
         aria-controls="mobile-menu"
-        aria-label="Otwórz menu"
+        aria-label={menuLabels.open}
+        data-label-open={menuLabels.open}
+        data-label-close={menuLabels.close}
         class="text-ink-soft hover:border-signal hover:text-signal border-line flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center rounded-full border transition-colors sm:hidden"
       >
         <svg
@@ -131,7 +148,7 @@ const links = [
       panel.dataset.open = String(open);
       panel.inert = !open;
       button.setAttribute('aria-expanded', String(open));
-      button.setAttribute('aria-label', open ? 'Zamknij menu' : 'Otwórz menu');
+      button.setAttribute('aria-label', (open ? button.dataset.labelClose : button.dataset.labelOpen) ?? '');
       iconOpen?.classList.toggle('hidden', open);
       iconClose?.classList.toggle('hidden', !open);
     };

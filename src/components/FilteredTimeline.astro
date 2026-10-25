@@ -3,29 +3,39 @@ import type { CollectionEntry } from "astro:content"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
+import { locale, type Alternates, type Lang } from "@/i18n"
+import { paths, type LocalEvent } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 
-// Timeline page for a single tag or category.
+// Timeline page for a single tag, category or front.
 interface Props {
   label: string
   name: string
-  entries: CollectionEntry<"timeline">[]
+  entries: (CollectionEntry<"timeline"> | LocalEvent)[]
+  lang?: Lang
+  alternates?: Alternates
 }
 
-const { label, name, entries } = Astro.props
-const timelineByYear = groupTimelineEntries(entries)
+const { label, name, entries, lang = "pl", alternates } = Astro.props
+const timelineByYear = groupTimelineEntries(entries, locale(lang))
+const description =
+  lang === "en"
+    ? `Events – ${label.toLowerCase()}: ${name}.`
+    : `Wydarzenia — ${label.toLowerCase()}: ${name}.`
 ---
 
 <BaseLayout
   title={`${label}: ${name}`}
-  description={`Wydarzenia — ${label.toLowerCase()}: ${name}.`}
+  description={description}
+  lang={lang}
+  alternates={alternates}
 >
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
     <a
-      href="/timeline"
+      href={paths(lang).timeline}
       class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
     >
-      ← Oś czasu
+      {lang === "en" ? "← Timeline" : "← Oś czasu"}
     </a>
 
     <h1
@@ -40,6 +50,7 @@ const timelineByYear = groupTimelineEntries(entries)
       renderAllYears={true}
       showYearNav={false}
       showBackLink={false}
+      lang={lang}
     />
   </section>
 </BaseLayout>

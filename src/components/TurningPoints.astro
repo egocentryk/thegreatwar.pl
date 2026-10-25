@@ -1,29 +1,43 @@
 ---
 import SectionHeading from "@/components/SectionHeading.astro"
 import { TURNING_POINTS } from "@/data/homepage"
-import { requireTimeline } from "@/utils/requireEntry"
+import { locale, type Lang } from "@/i18n"
+import { curated } from "@/i18n/local"
 
-const dayMonth = new Intl.DateTimeFormat("pl-PL", {
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const dayMonth = new Intl.DateTimeFormat(locale(lang), {
   day: "numeric",
   month: "long",
   timeZone: "UTC",
 })
 
-const points = (await Promise.all(TURNING_POINTS.map(requireTimeline)))
-  .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf())
+const points = (
+  await Promise.all(TURNING_POINTS.map((slug) => curated(lang, "timeline", slug)))
+)
+  .sort((a, b) => a.date.valueOf() - b.date.valueOf())
   .map((entry, index, all) => {
-    const year = entry.data.date.getUTCFullYear()
-    const previous = all[index - 1]?.data.date.getUTCFullYear()
+    const year = entry.date.getUTCFullYear()
+    const previous = all[index - 1]?.date.getUTCFullYear()
     return {
-      href: `/${entry.id}`,
-      title: entry.data.title,
-      summary: entry.data.summary,
-      day: dayMonth.format(entry.data.date),
+      href: entry.href,
+      title: entry.title,
+      summary: entry.summary,
+      pl: entry.pl,
+      day: dayMonth.format(entry.date),
       year,
       // The year label sits only on the first point of each year.
       firstOfYear: year !== previous,
     }
   })
+
+const t = {
+  pl: { eyebrow: "Kamienie milowe", lead: "Dni, które zmieniły bieg wojny.", earlier: "Wcześniejsze", later: "Późniejsze" },
+  en: { eyebrow: "Turning points", lead: "The days that changed the course of the war.", earlier: "Earlier", later: "Later" },
+}[lang]
 ---
 
 <section
@@ -31,17 +45,17 @@ const points = (await Promise.all(TURNING_POINTS.map(requireTimeline)))
   class="mx-auto max-w-3xl px-6 pb-20"
   data-turning-points
 >
-  <SectionHeading eyebrow="Kamienie milowe" count={points.length} />
+  <SectionHeading eyebrow={t.eyebrow} count={points.length} />
 
   <div class="flex flex-wrap items-end justify-between gap-4">
     <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-      Dni, które zmieniły bieg wojny.
+      {t.lead}
     </p>
     <div class="hidden gap-2 sm:flex">
       <button
         type="button"
         data-scroll="-1"
-        aria-label="Wcześniejsze"
+        aria-label={t.earlier}
         class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex size-9 cursor-pointer items-center justify-center rounded-sm border font-mono text-sm transition-colors disabled:cursor-default disabled:opacity-30"
       >
         ←
@@ -49,7 +63,7 @@ const points = (await Promise.all(TURNING_POINTS.map(requireTimeline)))
       <button
         type="button"
         data-scroll="1"
-        aria-label="Późniejsze"
+        aria-label={t.later}
         class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex size-9 cursor-pointer items-center justify-center rounded-sm border font-mono text-sm transition-colors disabled:cursor-default disabled:opacity-30"
       >
         →
@@ -80,12 +94,13 @@ const points = (await Promise.all(TURNING_POINTS.map(requireTimeline)))
               <span class="bg-paper border-signal group-hover:bg-signal absolute -top-[5px] left-0 size-[11px] rounded-full border-2 transition-colors" />
             </span>
 
-            <a href={point.href} class="block">
+            <a href={point.href} hreflang={point.pl ? "pl" : undefined} class="block">
               <span class="text-ink-soft font-mono text-[11px]">
                 {point.day} {point.year}
               </span>
               <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg leading-snug transition-colors">
                 {point.title}
+                {point.pl && <span class="lang-mark">(PL)</span>}
               </span>
               <span class="text-ink-soft mt-2 line-clamp-3 block text-xs leading-5">
                 {point.summary}

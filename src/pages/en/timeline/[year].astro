@@ -1,0 +1,30 @@
+---
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import { localEvents } from "@/i18n/local"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+
+export async function getStaticPaths() {
+  const timelineByYear = groupTimelineEntries(await localEvents("en"), "en-GB")
+  return timelineByYear.map((yearGroup) => ({
+    params: { year: String(yearGroup.year) },
+  }))
+}
+
+const allTimeline = await localEvents("en")
+const timelineByYear = groupTimelineEntries(allTimeline, "en-GB")
+const activeYear = Number(Astro.params.year)
+---
+
+<BaseLayout
+  title={`Timeline ${activeYear}`}
+  description={`Events of ${activeYear}, day by day.`}
+  lang="en"
+  alternates={{ pl: `/timeline/${activeYear}` }}
+>
+  <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow="Timeline" count={allTimeline.length} />
+    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} lang="en" />
+  </section>
+</BaseLayout>

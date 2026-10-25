@@ -4,24 +4,32 @@ import Footer from '@/components/Footer.astro';
 import { SITE } from '@/site.config';
 import '@/styles/global.css';
 import BaseHead from '@/components/BaseHead.astro';
+import type { Alternates, Lang } from '@/i18n';
 
 interface Props {
   title: string;
   description?: string;
   image?: string;
+  // Page language and its counterpart in the other language, if any.
+  lang?: Lang;
+  alternates?: Alternates;
 }
 
 // `image` is only set by article pages with an image; other pages fall back to SITE.ogImage.
-const { title, description = SITE.description, image } = Astro.props;
+const { title, description, image, lang = 'pl', alternates = {} } = Astro.props;
+const pageDescription = description ?? (lang === 'en' ? SITE.descriptionEn : SITE.description);
+// Every page lists itself under its own language.
+const selfPath = Astro.url.pathname.replace(/(.)\/+$/, '$1');
+const allAlternates: Alternates = { ...alternates, [lang]: selfPath };
 ---
 
 <!doctype html>
-<html lang={SITE.locale}>
+<html lang={lang}>
   <head>
-    <BaseHead title={title} description={description} image={image} />
+    <BaseHead title={title} description={pageDescription} image={image} lang={lang} alternates={allAlternates} />
   </head>
   <body id="top" class="bg-paper text-ink">
-    <Header />
+    <Header lang={lang} alternates={allAlternates} />
     <main>
       <slot />
     </main>

@@ -1,31 +1,62 @@
 ---
-import { getCollection } from "astro:content"
 import SectionHeading from "@/components/SectionHeading.astro"
+import { locale, type Lang } from "@/i18n"
+import { localEvents, paths } from "@/i18n/local"
 import { toCalendarLeaf } from "@/utils/calendarLeaf"
 
-const entries = await getCollection("timeline", ({ data }) => !data.draft)
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
+const entries = await localEvents(lang)
 
 // Build-time pick: shown without JavaScript and replaced on every visit
 // from /kartki.json.
 const initial = [...entries]
   .sort(() => Math.random() - 0.5)
   .slice(0, 4)
-  .map(toCalendarLeaf)
+  .map((entry) => toCalendarLeaf(entry, locale(lang)))
+
+const t = {
+  pl: {
+    eyebrow: "Kartki z kroniki",
+    lead: "Wyrwane z kalendarza dni lat 1914–1918.",
+    flip: "Przewróć kartki",
+    milestone: "Kluczowe wydarzenie",
+    read: "Czytaj →",
+    all: "Cała oś czasu",
+  },
+  en: {
+    eyebrow: "Pages from the chronicle",
+    lead: "Days torn from the calendar of 1914–1918.",
+    flip: "Turn the pages",
+    milestone: "Key event",
+    read: "Read →",
+    all: "The whole timeline",
+  },
+}[lang]
 ---
 
-<section id="kartki" class="mx-auto max-w-3xl px-6 pb-20" data-random-events>
-  <SectionHeading eyebrow="Kartki z kroniki" count={entries.length} />
+<section
+  id="kartki"
+  class="mx-auto max-w-3xl px-6 pb-20"
+  data-random-events
+  data-pool={lang === "en" ? to.leaves : undefined}
+>
+  <SectionHeading eyebrow={t.eyebrow} count={entries.length} />
 
   <div class="flex flex-wrap items-end justify-between gap-4">
     <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-      Wyrwane z kalendarza dni lat 1914–1918.
+      {t.lead}
     </p>
     <button
       type="button"
       data-flip
       class="bg-ink text-paper hover:bg-signal inline-flex cursor-pointer items-center gap-2 rounded-sm px-3 py-2 font-mono text-xs transition-colors"
     >
-      Przewróć kartki
+      {t.flip}
       <span aria-hidden="true">↷</span>
     </button>
   </div>
@@ -101,7 +132,7 @@ const initial = [...entries]
                 <span class="text-ink-soft flex items-center gap-2 font-mono text-[10px] tracking-[0.15em] uppercase">
                   <span
                     data-milestone
-                    title="Kluczowe wydarzenie"
+                    title={t.milestone}
                     class:list={[
                       "bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4",
                       !leaf.milestone && "hidden",
@@ -130,7 +161,7 @@ const initial = [...entries]
                 )}
                 {featured && (
                   <span class="text-signal mt-auto inline-block pt-6 font-mono text-xs transition-transform group-hover:translate-x-1">
-                    Czytaj →
+                    {t.read}
                   </span>
                 )}
               </span>
@@ -143,10 +174,10 @@ const initial = [...entries]
 
   <div class="mt-8">
     <a
-      href="/timeline"
+      href={to.timeline}
       class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
     >
-      Cała oś czasu ({entries.length}) →
+      {t.all} ({entries.length}) →
     </a>
   </div>
 </section>
@@ -156,9 +187,13 @@ const initial = [...entries]
 
   let pool: Promise<CalendarLeaf[]> | undefined
 
-  // Fetched once per visit; client-side navigation reuses it.
-  function loadPool() {
-    pool ??= fetch("/kartki.json")
+  // Fetched once per visit; client-side navigation reuses it. The English
+  // page sets its own pool in data-pool.
+  let poolUrl = ""
+  function loadPool(url: string) {
+    if (url !== poolUrl) pool = undefined
+    poolUrl = url
+    pool ??= fetch(url)
       .then((response) => (response.ok ? response.json() : []))
       .catch(() => [])
     return pool
@@ -222,7 +257,9 @@ const initial = [...entries]
     ).matches
 
     const show = async (animate: boolean) => {
-      const leaves = await loadPool()
+      const leaves = await loadPool(
+        section.getAttribute("data-pool") ?? "/kartki.json",
+      )
       if (leaves.length < items.length) return
       const picks = pick(leaves, items.length, current())
       items.forEach((item, i) =>

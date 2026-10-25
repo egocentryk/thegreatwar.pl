@@ -114,3 +114,13 @@
 .prose :where(a:hover):not(:where(.not-prose *)) {
   color: var(--color-ink);
 }
+
+/* English edition: marks a link that leads to a Polish-language page. */
+.lang-mark {
+  font-family: var(--font-mono);
+  font-size: 0.65em;
+  letter-spacing: 0.05em;
+  color: var(--color-ink-soft);
+  opacity: 0.8;
+  white-space: nowrap;
+}

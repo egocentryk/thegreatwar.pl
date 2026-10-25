@@ -9,6 +9,12 @@ export const SITE = {
   description:
     "Polska kronika I wojny światowej. Wydarzenia z lat 1914–1918 dzień po dniu: bitwy, decyzje polityczne, rozkazy i losy ludzi.",
   status: "Kompletna kronika Wielkiej Wojny · 1914-1918",
+  // English edition.
+  taglineEn:
+    "The Great War told through dates, events, orders and political decisions.",
+  descriptionEn:
+    "A Polish chronicle of the First World War, in English. The events of 1914–1918 day by day: battles, political decisions, orders and the fates of people.",
+  statusEn: "The complete chronicle of the Great War · 1914-1918",
   // Default social preview (public/og-image.png), used when a page sets no image.
   ogImage: "/og-image.png",
   social: [
@@ -24,4 +30,11 @@ export const NAV_LINKS = [
   { label: "Bitwy", href: "/bitwy" },
   { label: "Postacie", href: "/postacie" },
   { label: "O Projekcie", href: "/about" },
+] as const
+
+export const NAV_LINKS_EN = [
+  { label: "Timeline", href: "/en/timeline" },
+  { label: "Battles", href: "/en/battles" },
+  { label: "People", href: "/en/people" },
+  { label: "About", href: "/en/about" },
 ] as const

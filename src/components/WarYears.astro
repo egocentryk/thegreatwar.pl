@@ -1,15 +1,22 @@
 ---
-import { getCollection } from "astro:content"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { WAR_YEARS } from "@/data/homepage"
+import { locale, plural, type Lang } from "@/i18n"
+import { WAR_YEARS_EN } from "@/i18n/data-en"
+import { curated, localBattles, localEvents, paths } from "@/i18n/local"
 import { getTimelineMonthSlug } from "@/utils/groupTimelineEntries"
-import { pluralPl } from "@/utils/pluralPl"
-import { requireTimeline } from "@/utils/requireEntry"
 
-const entries = await getCollection("timeline", ({ data }) => !data.draft)
-const battles = await getCollection("battles", ({ data }) => !data.draft)
+interface Props {
+  lang?: Lang
+}
 
-const monthNames = new Intl.DateTimeFormat("pl-PL", {
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
+const entries = await localEvents(lang)
+const battles = await localBattles(lang)
+const years = new Set(entries.map((entry) => entry.data.date.getUTCFullYear()))
+
+const monthNames = new Intl.DateTimeFormat(locale(lang), {
   month: "long",
   timeZone: "UTC",
 })
@@ -24,13 +31,13 @@ for (const entry of entries) {
 // One scale for all five years, so busy and quiet months compare honestly.
 const busiest = Math.max(...perMonth.values())
 
-const years = await Promise.all(
+const cards = await Promise.all(
   WAR_YEARS.map(async ({ year, summary, highlights }) => {
     const months = Array.from({ length: 12 }, (_, month) => {
       const count = perMonth.get(`${year}-${month}`) ?? 0
       return {
         count,
-        href: `/timeline/${year}/${getTimelineMonthSlug(month)}`,
+        href: to.month(year, getTimelineMonthSlug(month)),
         label: `${monthNames.format(new Date(Date.UTC(year, month, 1)))} ${year}`,
         // Square root keeps quiet months visible next to August 1914.
         height: count
@@ -46,40 +53,61 @@ const years = await Promise.all(
     ).length
     return {
       year,
-      summary,
+      // A year with nothing translated yet links to the Polish year.
+      href: years.has(year) ? to.year(year) : paths("pl").year(year),
+      pl: !years.has(year),
+      summary: lang === "en" ? (WAR_YEARS_EN[year] ?? summary) : summary,
       months,
       eventCount,
       battleCount,
-      highlights: await Promise.all(highlights.map(requireTimeline)),
+      highlights: await Promise.all(
+        highlights.map((slug) => curated(lang, "timeline", slug)),
+      ),
     }
   }),
 )
+
+const t = {
+  pl: {
+    eyebrow: "Lata wojny",
+    lead: "Pięć lat, od Sarajewa po rozejm.",
+    perMonth: (year: number) => `Liczba wydarzeń w kolejnych miesiącach ${year} roku`,
+    initials: "SLMKMCLSWPLG",
+  },
+  en: {
+    eyebrow: "The war years",
+    lead: "Five years, from Sarajevo to the Armistice.",
+    perMonth: (year: number) => `Number of events in each month of ${year}`,
+    initials: "JFMAMJJASOND",
+  },
+}[lang]
 ---
 
 <section id="lata-wojny" class="mx-auto max-w-3xl px-6 pb-20">
-  <SectionHeading eyebrow="Lata wojny" count={years.length} />
+  <SectionHeading eyebrow={t.eyebrow} count={cards.length} />
 
   <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-    Pięć lat, od Sarajewa po rozejm.
+    {t.lead}
   </p>
 
   <ol class="border-line mt-8 border-t">
     {
-      years.map((y) => (
+      cards.map((y) => (
         <li class="group/year border-line grid grid-cols-1 gap-x-8 gap-y-4 border-b py-8 sm:grid-cols-[9rem_minmax(0,1fr)]">
           <div>
             <a
-              href={`/timeline/${y.year}`}
+              href={y.href}
+              hreflang={y.pl && lang === "en" ? "pl" : undefined}
               class="font-display text-ink hover:text-signal group-hover/year:text-signal block text-6xl leading-none font-medium tracking-tight transition-colors sm:text-7xl"
             >
               {y.year}
             </a>
             <p class="text-ink-soft mt-3 font-mono text-[11px] leading-5">
               {y.eventCount}{" "}
-              {pluralPl(y.eventCount, "wydarzenie", "wydarzenia", "wydarzeń")}
+              {plural(lang, y.eventCount, ["wydarzenie", "wydarzenia", "wydarzeń"], ["event", "events"])}
               <br />
               {y.battleCount}{" "}
-              {pluralPl(y.battleCount, "bitwa", "bitwy", "bitew")}
+              {plural(lang, y.battleCount, ["bitwa", "bitwy", "bitew"], ["battle", "battles"])}
             </p>
           </div>
 
@@ -88,7 +116,7 @@ const years = await Promise.all(
 
             <div
               class="mt-5 flex h-14 items-end gap-1"
-              aria-label={`Liczba wydarzeń w kolejnych miesiącach ${y.year} roku`}
+              aria-label={t.perMonth(y.year)}
             >
               {y.months.map((m) =>
                 m.count ? (
@@ -111,7 +139,7 @@ const years = await Promise.all(
               class="text-ink-soft mt-1 flex gap-1 font-mono text-[9px] uppercase"
               aria-hidden="true"
             >
-              {"SLMKMCLSWPLG".split("").map((letter) => (
+              {t.initials.split("").map((letter) => (
                 <span class="flex-1 text-center">{letter}</span>
               ))}
             </div>
@@ -120,14 +148,16 @@ const years = await Promise.all(
               {y.highlights.map((entry) => (
                 <li>
                   <a
-                    href={`/${entry.id}`}
+                    href={entry.href}
+                    hreflang={entry.pl ? "pl" : undefined}
                     class="border-line text-ink hover:border-signal hover:text-signal inline-flex items-center gap-2 rounded-full border px-3 py-1 text-xs transition-colors"
                   >
                     <span
                       class="bg-signal size-1.5 shrink-0 rounded-full"
                       aria-hidden="true"
                     />
-                    {entry.data.title}
+                    {entry.title}
+                    {entry.pl && <span class="lang-mark">(PL)</span>}
                   </a>
                 </li>
               ))}

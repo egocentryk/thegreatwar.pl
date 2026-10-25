@@ -1,6 +1,8 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content"
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { frontEn } from "@/i18n"
+import { localEvents } from "@/i18n/local"
 import { slugify } from "@/utils/slugify"
 
 export async function getStaticPaths() {
@@ -25,6 +27,12 @@ interface Props {
 }
 
 const { name, entries } = Astro.props
+const hasEnglish = (await localEvents("en")).some((entry) => entry.data.frontKey === name)
 ---
 
-<FilteredTimeline label="Front" name={name} entries={entries} />
+<FilteredTimeline
+  label="Front"
+  name={name}
+  entries={entries}
+  alternates={hasEnglish ? { en: `/en/front/${slugify(frontEn(name))}` } : undefined}
+/>

@@ -1,0 +1,100 @@
+---
+// Battles grouped by front and phase. Used by /bitwy and /en/battles.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { BATTLE_PHASES } from "@/data/battlePhases"
+import { frontEn, locale, type Lang } from "@/i18n"
+import { PHASES_EN } from "@/i18n/data-en"
+import { localBattles } from "@/i18n/local"
+import { formatDateRange } from "@/utils/formatDate"
+import { slugify } from "@/utils/slugify"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+// Sorted by start date.
+const byStartDate = await localBattles(lang)
+
+// Phases in their defined order, each with its battles; empty phases are hidden.
+const phases = BATTLE_PHASES.map((phase) => {
+  const en = lang === "en" ? PHASES_EN[phase.slug] : undefined
+  return {
+    ...phase,
+    title: en?.title ?? phase.title,
+    dates: en?.dates ?? phase.dates,
+    intro: en?.intro ?? phase.intro,
+    battles: byStartDate.filter((battle) => battle.data.phase === phase.slug),
+  }
+}).filter((phase) => phase.battles.length > 0)
+
+// Group phases by front, keeping the order in which fronts first appear.
+const fronts = [...new Set(phases.map((phase) => phase.front))].map(
+  (front) => ({
+    front: lang === "en" ? frontEn(front) : front,
+    slug: lang === "en" ? slugify(frontEn(front)) : slugify(front),
+    phases: phases.filter((phase) => phase.front === front),
+  }),
+)
+
+const eyebrow = lang === "en" ? "Battles" : "Bitwy"
+---
+
+<section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+  <SectionHeading eyebrow={eyebrow} count={byStartDate.length} />
+
+  <div class="space-y-16">
+    {
+      fronts.map(({ front, slug, phases }) => (
+        <section id={slug} class="scroll-mt-24">
+          <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
+            {front}
+          </h2>
+
+          <div class="mt-8 space-y-12">
+            {phases.map((phase) => (
+              <section>
+                <h3 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
+                  {phase.title}
+                </h3>
+                <p class="text-ink-soft mt-1 font-mono text-xs">
+                  {phase.dates}
+                </p>
+                <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+                  {phase.intro}
+                </p>
+
+                <ul class="border-line mt-6 border-t">
+                  {phase.battles.map((battle) => (
+                    <li class="border-line hover:border-signal border-b transition-colors">
+                      <a
+                        href={battle.href}
+                        class="group grid gap-1 py-4 sm:grid-cols-[10rem_1fr] sm:gap-4"
+                      >
+                        <span class="text-ink-soft font-mono text-xs leading-6">
+                          {formatDateRange(
+                            battle.data.startDate,
+                            battle.data.endDate,
+                            locale(lang),
+                          )}
+                        </span>
+                        <span class="min-w-0">
+                          <span class="text-ink group-hover:text-signal block transition-colors">
+                            {battle.data.title}
+                          </span>
+                          <span class="text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs">
+                            {battle.data.summary}
+                          </span>
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</section>

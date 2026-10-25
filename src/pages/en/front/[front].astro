@@ -1,0 +1,34 @@
+---
+import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { frontEn } from "@/i18n"
+import { localEvents, type LocalEvent } from "@/i18n/local"
+import { slugify } from "@/utils/slugify"
+
+export async function getStaticPaths() {
+  const fronts = new Map<string, LocalEvent[]>()
+  for (const entry of await localEvents("en")) {
+    const key = entry.data.frontKey
+    if (!key) continue
+    fronts.set(key, [...(fronts.get(key) ?? []), entry])
+  }
+  return [...fronts].map(([key, entries]) => ({
+    params: { front: slugify(frontEn(key)) },
+    props: { frontKey: key, entries },
+  }))
+}
+
+interface Props {
+  frontKey: string
+  entries: LocalEvent[]
+}
+
+const { frontKey, entries } = Astro.props
+---
+
+<FilteredTimeline
+  label="Front"
+  name={frontEn(frontKey)}
+  entries={entries}
+  lang="en"
+  alternates={{ pl: `/front/${slugify(frontKey)}` }}
+/>

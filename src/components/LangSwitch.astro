@@ -1,0 +1,45 @@
+---
+// Language switcher next to the theme toggle. Links to the same page in the
+// other language when it exists (Polish pages without a translation go to
+// the English home page) and remembers the choice in localStorage("lang").
+// BaseHead redirects to the remembered language on later visits.
+import type { Alternates, Lang } from "@/i18n"
+
+interface Props {
+  lang: Lang
+  alternates?: Alternates
+}
+
+const { lang, alternates = {} } = Astro.props
+const target: Lang = lang === "pl" ? "en" : "pl"
+const href = target === "en" ? (alternates.en ?? "/en") : (alternates.pl ?? "/")
+const label = target === "en" ? "Read in English" : "Czytaj po polsku"
+---
+
+<a
+  href={href}
+  hreflang={target}
+  lang={target}
+  data-lang-switch={target}
+  aria-label={label}
+  title={label}
+  data-astro-reload
+  class="text-ink-soft hover:border-signal hover:text-signal border-line flex h-9 shrink-0 items-center justify-center rounded-full border px-3 font-mono text-[11px] tracking-wider uppercase transition-colors"
+>
+  {target}
+</a>
+
+<script>
+  function initLangSwitch() {
+    for (const link of document.querySelectorAll<HTMLAnchorElement>("[data-lang-switch]")) {
+      if (link.dataset.bound) continue
+      link.dataset.bound = "true"
+      link.addEventListener("click", () => {
+        try {
+          localStorage.setItem("lang", link.dataset.langSwitch!)
+        } catch {}
+      })
+    }
+  }
+  document.addEventListener("astro:page-load", initLangSwitch)
+</script>

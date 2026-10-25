@@ -1,0 +1,100 @@
+---
+// People grouped by side and country. Used by /postacie and /en/people.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { locale, sideEn, type Lang } from "@/i18n"
+import { localPeople } from "@/i18n/local"
+import { lifeYears } from "@/utils/people"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const people = await localPeople(lang)
+
+// The two camps and the Polish cause, each with its countries A–Z.
+const SIDES = ["Ententa", "Państwa centralne", "Sprawa polska"] as const
+const groups = SIDES.map((side) => {
+  const members = people.filter((person) => person.source.data.side === side)
+  const countries = [...new Set(members.map((person) => person.data.country))]
+    .sort((a, b) => a.localeCompare(b, locale(lang)))
+    .map((country) => ({
+      country,
+      people: members.filter((person) => person.data.country === country),
+    }))
+  return {
+    side: lang === "en" ? sideEn(side) : side,
+    count: members.length,
+    countries,
+  }
+}).filter((group) => group.count > 0)
+
+const t = {
+  pl: {
+    eyebrow: "Postacie",
+    lead: "Ludzie, którzy prowadzili Wielką Wojnę.",
+    intro:
+      "Dowódcy, politycy i władcy, opisani przez pryzmat ich roli w latach 1914–1918. Przy każdej postaci znajdziesz bitwy, którymi dowodziła, i wydarzenia z osi czasu, w których się pojawia.",
+  },
+  en: {
+    eyebrow: "People",
+    lead: "The people who waged the Great War.",
+    intro:
+      "Commanders, politicians and rulers, seen through the part they played in 1914–1918. Each page lists the battles the person commanded and the timeline events in which they appear.",
+  },
+}[lang]
+---
+
+<section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+  <SectionHeading eyebrow={t.eyebrow} count={people.length} />
+
+  <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
+    {t.lead}
+  </p>
+  <p class="text-ink-soft mt-4 max-w-xl text-sm leading-6">
+    {t.intro}
+  </p>
+
+  <div class="mt-12 space-y-16">
+    {
+      groups.map((group) => (
+        <section>
+          <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
+            {group.side}
+          </h2>
+          <div class="mt-8 space-y-10">
+            {group.countries.map(({ country, people }) => (
+              <section>
+                <h3 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
+                  {country}
+                </h3>
+                <ul class="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
+                  {people.map((person) => (
+                    <li>
+                      <a
+                        href={person.href}
+                        class="group border-line bg-surface hover:border-signal flex h-full flex-col rounded-sm border p-5 transition-all hover:-translate-y-0.5"
+                      >
+                        <span class="flex items-baseline justify-between gap-3">
+                          <span class="font-display text-ink group-hover:text-signal text-lg leading-snug transition-colors">
+                            {person.data.name}
+                          </span>
+                          <span class="text-ink-soft shrink-0 font-mono text-[11px]">
+                            {lifeYears(person.source)}
+                          </span>
+                        </span>
+                        <span class="text-ink-soft mt-2 text-sm leading-6">
+                          {person.data.role}
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</section>

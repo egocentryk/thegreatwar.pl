@@ -2,14 +2,21 @@
 import { ClientRouter } from 'astro:transitions';
 import { Font } from 'astro:assets';
 import { SITE } from '@/site.config';
+import type { Alternates, Lang } from '@/i18n';
 
 interface Props {
   title: string;
   description?: string;
   image?: string;
+  lang?: Lang;
+  alternates?: Alternates;
 }
 
-const { title: pageTitle, description: pageDescription, image } = Astro.props;
+const { title: pageTitle, description: pageDescription, image, lang = 'pl', alternates = {} } = Astro.props;
+// hreflang links only when the page exists in both languages.
+const hreflangs = alternates.pl && alternates.en
+  ? (['pl', 'en'] as const).map((l) => ({ lang: l, href: new URL(alternates[l]!, Astro.site).href }))
+  : [];
 
 const fullTitle = pageTitle.includes(SITE.name) ? pageTitle : `${pageTitle} · ${SITE.name}`;
 const description = pageDescription || SITE.description;
@@ -29,6 +36,10 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
 {/* Canonical URL */}
 <link rel="canonical" href={canonicalURL} />
 
+{/* Language versions; the redirect script below reads them. */}
+{hreflangs.map((h) => <link rel="alternate" hreflang={h.lang} href={h.href} />)}
+{hreflangs.length > 0 && <link rel="alternate" hreflang="x-default" href={hreflangs[0].href} />}
+
 {/* Primary Meta Tags */}
 <title>{fullTitle}</title>
 <meta name="title" content={fullTitle} />
@@ -37,6 +48,7 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
 
 {/* Open Graph / Facebook */}
 <meta property="og:type" content="website" />
+<meta property="og:locale" content={lang === 'en' ? 'en_GB' : 'pl_PL'} />
 <meta property="og:title" content={fullTitle} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:description" content={description} />
@@ -82,6 +94,34 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
       stored ?? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.classList.toggle('dark', theme === 'dark');
   });
+</script>
+
+{/* Language redirect */}
+<script is:inline>
+  // A visitor who chose a language with the switcher is sent to the same page
+  // in that language, when it exists. Runs before first paint and after every
+  // view-transition navigation.
+  (function () {
+    function go() {
+      var pref;
+      try {
+        // ?lang=pl or ?lang=en sets the preference (an escape hatch that works
+        // even when the stored choice would redirect straight away).
+        var forced = new URLSearchParams(location.search).get('lang');
+        if (forced === 'pl' || forced === 'en') localStorage.setItem('lang', forced);
+        pref = localStorage.getItem('lang');
+      } catch (e) { return; }
+      if (!pref || pref === document.documentElement.lang) return;
+      var alt = document.querySelector('link[rel="alternate"][hreflang="' + pref + '"]');
+      if (!alt) return;
+      // The alternate links carry the production URL; stay on the current
+      // origin (localhost in development) and only swap the path.
+      var path = new URL(alt.href).pathname;
+      if (path !== location.pathname) location.replace(path + location.search + location.hash);
+    }
+    go();
+    document.addEventListener('astro:after-swap', go);
+  })();
 </script>
 
 {/* View Transition API */}

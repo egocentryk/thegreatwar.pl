@@ -1,50 +1,63 @@
 ---
 import SectionHeading from "@/components/SectionHeading.astro"
 import { READING_PATH } from "@/data/homepage"
+import { locale, type Lang } from "@/i18n"
+import { READING_PATH_EN } from "@/i18n/data-en"
+import { curated } from "@/i18n/local"
 import { formatDate, formatDateRange } from "@/utils/formatDate"
-import {
-  readingMinutes,
-  requireBattle,
-  requireTimeline,
-} from "@/utils/requireEntry"
+import { readingMinutes } from "@/utils/requireEntry"
 
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const loc = locale(lang)
 const steps = await Promise.all(
   READING_PATH.map(async (step) => {
-    if (step.collection === "battles") {
-      const battle = await requireBattle(step.slug)
-      return {
-        kind: "Bitwa",
-        href: `/bitwy/${battle.id}`,
-        title: battle.data.title,
-        when: formatDateRange(battle.data.startDate, battle.data.endDate),
-        minutes: readingMinutes(battle.body),
-        note: step.note,
-      }
-    }
-    const entry = await requireTimeline(step.slug)
+    const item = await curated(lang, step.collection, step.slug)
+    const battle = step.collection === "battles"
     return {
-      kind: "Wydarzenie",
-      href: `/${entry.id}`,
-      title: entry.data.title,
-      when: formatDate(entry.data.date),
-      minutes: readingMinutes(entry.body),
-      note: step.note,
+      kind: battle
+        ? lang === "en" ? "Battle" : "Bitwa"
+        : lang === "en" ? "Event" : "Wydarzenie",
+      href: item.href,
+      title: item.title,
+      pl: item.pl,
+      when: battle
+        ? formatDateRange(item.date, item.endDate, loc)
+        : formatDate(item.date, "long", undefined, loc),
+      minutes: readingMinutes(item.body),
+      note: lang === "en" ? (READING_PATH_EN[step.slug] ?? step.note) : step.note,
     }
   }),
 )
 
 const totalMinutes = steps.reduce((sum, step) => sum + step.minutes, 0)
+
+const t = {
+  pl: {
+    eyebrow: "Od czego zacząć",
+    lead: (n: number) => `Cała wojna w ${n} tekstach.`,
+    reading: (min: number) => `ok. ${min} min czytania`,
+  },
+  en: {
+    eyebrow: "Where to start",
+    lead: (n: number) => `The whole war in ${n} articles.`,
+    reading: (min: number) => `about ${min} min of reading`,
+  },
+}[lang]
 ---
 
 <section id="od-czego-zaczac" class="mx-auto max-w-3xl px-6 pb-20">
-  <SectionHeading eyebrow="Od czego zacząć" count={steps.length} />
+  <SectionHeading eyebrow={t.eyebrow} count={steps.length} />
 
   <div class="flex flex-wrap items-end justify-between gap-4">
     <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-      Cała wojna w {steps.length} tekstach.
+      {t.lead(steps.length)}
     </p>
     <p class="text-ink-soft font-mono text-xs">
-      ok. {Math.round(totalMinutes / 5) * 5} min czytania
+      {t.reading(Math.round(totalMinutes / 5) * 5)}
     </p>
   </div>
 
@@ -54,6 +67,7 @@ const totalMinutes = steps.reduce((sum, step) => sum + step.minutes, 0)
         <li class="min-w-0">
           <a
             href={step.href}
+            hreflang={step.pl ? "pl" : undefined}
             class="group border-line bg-surface hover:border-signal relative flex h-full gap-4 overflow-hidden rounded-sm border p-5 transition-all hover:-translate-y-0.5"
           >
             <span
@@ -73,6 +87,7 @@ const totalMinutes = steps.reduce((sum, step) => sum + step.minutes, 0)
               </span>
               <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg leading-snug transition-colors">
                 {step.title}
+                {step.pl && <span class="lang-mark">(PL)</span>}
               </span>
               <span class="text-ink-soft mt-1 block font-mono text-[11px]">
                 {step.when}

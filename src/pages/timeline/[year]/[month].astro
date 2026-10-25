@@ -7,6 +7,7 @@ import {
   getTimelineMonthSlug,
   groupTimelineEntries,
 } from "@/utils/groupTimelineEntries"
+import { localEvents } from "@/i18n/local"
 
 export async function getStaticPaths() {
   const entries = await getCollection("timeline", ({ data }) => !data.draft)
@@ -26,6 +27,11 @@ const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
 const timelineByYear = groupTimelineEntries(allTimeline)
 const activeYear = Number(Astro.params.year)
 const activeMonth = Astro.params.month ?? getTimelineMonthSlug(0)
+const hasEnglish = (await localEvents("en")).some(
+  (entry) =>
+    entry.data.date.getUTCFullYear() === activeYear &&
+    getTimelineMonthSlug(entry.data.date.getUTCMonth()) === activeMonth,
+)
 const activeGroup = timelineByYear.find(
   (yearGroup) => yearGroup.year === activeYear,
 )
@@ -39,6 +45,7 @@ const activeMonthLabel = activeGroup?.months.find(
     ? `Timeline ${activeYear} ${activeMonthLabel}`
     : `Timeline ${activeYear}`}
   description="Selected projects in product design and frontend engineering."
+  alternates={hasEnglish ? { en: `/en/timeline/${activeYear}/${activeMonth}` } : {}}
 >
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
     <SectionHeading eyebrow="Oś czasu" count={allTimeline.length} />

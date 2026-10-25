@@ -1,13 +1,58 @@
 ---
 import SectionHeading from "@/components/SectionHeading.astro"
+import type { Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
 
 interface Props {
   // Full results page: all hits and the query kept in the URL.
   full?: boolean
+  lang?: Lang
 }
 
-const { full = false } = Astro.props
+const { full = false, lang = "pl" } = Astro.props
+const to = paths(lang)
 const LIMIT = full ? 200 : 6
+// Example searches shown as chips under the field; hidden while empty.
+const SUGGESTIONS =
+  lang === "en"
+    ? ["Verdun", "Piłsudski", "Lusitania", "Gallipoli", "revolution", "Lviv"]
+    : ["Verdun", "Piłsudski", "Lusitania", "Gallipoli", "rewolucja", "Lwów"]
+
+const t = {
+  pl: {
+    eyebrow: "Szukaj",
+    lead: "Znajdź wydarzenie, bitwę lub postać.",
+    label: "Szukaj w kronice",
+    placeholder: "np. Verdun, Piłsudski, Lusitania, Lwów 1918…",
+    example: "Na przykład:",
+    milestone: "Kluczowe wydarzenie",
+  },
+  en: {
+    eyebrow: "Search",
+    lead: "Find an event, a battle or a person.",
+    label: "Search the chronicle",
+    placeholder: "e.g. Verdun, Piłsudski, Lusitania, Lviv 1918…",
+    example: "For example:",
+    milestone: "Key event",
+  },
+}[lang]
+// Texts the script needs on the English page; the Polish ones are its defaults.
+const scriptText =
+  lang === "en"
+    ? JSON.stringify({
+        index: to.searchIndex,
+        page: to.search,
+        searching: "Searching…",
+        battle: "Battle",
+        event: "Event",
+        found: "{n} {results} for “{q}”",
+        one: "result",
+        many: "results",
+        none: "Nothing found for “{q}”. Try a different word or a shorter query.",
+        first: "Showing the first {n} – narrow the query to see the rest.",
+        all: "All results ({n}) →",
+      })
+    : undefined
 ---
 
 <section
@@ -16,26 +61,27 @@ const LIMIT = full ? 200 : 6
   data-search
   data-limit={LIMIT}
   data-full={full ? "" : undefined}
+  data-text={scriptText}
 >
-  <SectionHeading eyebrow="Szukaj" />
+  <SectionHeading eyebrow={t.eyebrow} />
 
   {
     !full && (
       <p class="font-display text-ink text-2xl leading-snug sm:text-3xl">
-        Znajdź wydarzenie, bitwę lub postać.
+        {t.lead}
       </p>
     )
   }
 
   <form
-    action="/szukaj"
+    action={to.search}
     method="get"
     role="search"
     class:list={[full ? "" : "mt-6"]}
     data-form
   >
     <label for={full ? "q-full" : "q-home"} class="sr-only">
-      Szukaj w kronice
+      {t.label}
     </label>
     <div
       class="group border-line bg-surface focus-within:border-signal flex items-center gap-3 rounded-sm border px-4 transition-colors"
@@ -56,7 +102,7 @@ const LIMIT = full ? 200 : 6
         type="search"
         autocomplete="off"
         spellcheck="false"
-        placeholder="np. Verdun, Piłsudski, Lusitania, Lwów 1918…"
+        placeholder={t.placeholder}
         class="text-ink placeholder:text-ink-soft/70 w-full bg-transparent py-4 text-base outline-none [&::-webkit-search-cancel-button]:hidden"
         data-input
       />
@@ -67,13 +113,13 @@ const LIMIT = full ? 200 : 6
     </div>
   </form>
 
-  <div class="mt-4 flex flex-wrap items-center gap-2" data-suggestions>
-    <span class="text-ink-soft font-mono text-[10px] tracking-[0.15em] uppercase"
-      >Na przykład:</span
-    >
-    {
-      ["Verdun", "Piłsudski", "Lusitania", "Gallipoli", "rewolucja", "Lwów"].map(
-        (term) => (
+  {
+    SUGGESTIONS.length > 0 && (
+      <div class="mt-4 flex flex-wrap items-center gap-2" data-suggestions>
+        <span class="text-ink-soft font-mono text-[10px] tracking-[0.15em] uppercase">
+          {t.example}
+        </span>
+        {SUGGESTIONS.map((term) => (
           <button
             type="button"
             data-term={term}
@@ -81,10 +127,10 @@ const LIMIT = full ? 200 : 6
           >
             {term}
           </button>
-        ),
-      )
-    }
-  </div>
+        ))}
+      </div>
+    )
+  }
 
   <p class="text-ink-soft mt-6 font-mono text-xs" data-status aria-live="polite">
   </p>
@@ -92,7 +138,7 @@ const LIMIT = full ? 200 : 6
   <ol class="mt-3" data-results></ol>
 
   <a
-    href="/szukaj"
+    href={to.search}
     class="text-signal mt-6 hidden font-mono text-xs hover:underline"
     data-more></a
   >
@@ -109,7 +155,7 @@ const LIMIT = full ? 200 : 6
           >
             <span
               data-milestone
-              title="Kluczowe wydarzenie"
+              title={t.milestone}
               class="bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4"
             ></span>
             <span data-kind></span>
@@ -158,9 +204,31 @@ const LIMIT = full ? 200 : 6
     tags: string
   }
 
+  // Polish defaults; the English page overrides them in data-text.
+  const POLISH = {
+    index: "/szukaj.json",
+    page: "/szukaj",
+    searching: "Szukam…",
+    battle: "Bitwa",
+    person: "Postać",
+    event: "Wydarzenie",
+    found: "{n} {results} dla „{q}”",
+    none: "Nic nie znaleźliśmy dla „{q}”. Spróbuj innej formy słowa albo krótszego zapytania.",
+    first: "Pokazujemy {n} pierwszych — zawęź zapytanie, by zobaczyć resztę.",
+    all: "Wszystkie wyniki ({n}) →",
+    one: "",
+    many: "",
+  }
+  type Text = typeof POLISH
+  const fill = (template: string, values: Record<string, string | number>) =>
+    template.replace(/\{(\w+)\}/g, (_, key) => String(values[key] ?? ""))
+
   let index: Promise<Indexed[]> | undefined
-  function loadIndex() {
-    index ??= fetch("/szukaj.json")
+  let indexUrl = ""
+  function loadIndex(url: string) {
+    if (url !== indexUrl) index = undefined
+    indexUrl = url
+    index ??= fetch(url)
       .then((response) => (response.ok ? response.json() : []))
       .then((docs: SearchDoc[]) =>
         docs.map((doc) => ({
@@ -237,7 +305,8 @@ const LIMIT = full ? 200 : 6
     }
   }
 
-  const plural = (n: number) => {
+  const plural = (n: number, text: Text) => {
+    if (text.one) return n === 1 ? text.one : text.many
     if (n === 1) return "wynik"
     const last = n % 10
     const lastTwo = n % 100
@@ -261,6 +330,8 @@ const LIMIT = full ? 200 : 6
     )!
     const limit = Number(section.dataset.limit) || 6
     const full = section.hasAttribute("data-full")
+    const raw = section.getAttribute("data-text")
+    const text: Text = raw ? { ...POLISH, ...JSON.parse(raw) } : POLISH
 
     let timer: number | undefined
 
@@ -279,8 +350,8 @@ const LIMIT = full ? 200 : 6
         return
       }
 
-      status.textContent = "Szukam…"
-      const items = await loadIndex()
+      status.textContent = text.searching
+      const items = await loadIndex(text.index)
       if (input.value.trim() !== query) return
       const { tokens, hits } = search(items, query)
 
@@ -290,7 +361,7 @@ const LIMIT = full ? 200 : 6
         row.querySelector("[data-href]")!.setAttribute("href", item.doc.h)
         row.querySelector("[data-date]")!.textContent = item.doc.d
         row.querySelector("[data-kind]")!.textContent =
-          item.doc.y === "b" ? "Bitwa" : "Wydarzenie"
+          item.doc.y === "b" ? text.battle : text.event
         row
           .querySelector("[data-milestone]")!
           .classList.toggle("hidden", !item.doc.m)
@@ -305,22 +376,22 @@ const LIMIT = full ? 200 : 6
       }
 
       status.textContent = hits.length
-        ? `${hits.length} ${plural(hits.length)} dla „${query}”`
-        : `Nic nie znaleźliśmy dla „${query}”. Spróbuj innej formy słowa albo krótszego zapytania.`
+        ? fill(text.found, { n: hits.length, results: plural(hits.length, text), q: query })
+        : fill(text.none, { q: query })
 
       const hidden = hits.length > limit
       more.classList.toggle("hidden", !hidden)
       more.classList.toggle("inline-block", hidden)
       if (hidden) {
-        more.href = `/szukaj?q=${encodeURIComponent(query)}`
+        more.href = `${text.page}?q=${encodeURIComponent(query)}`
         more.textContent = full
-          ? `Pokazujemy ${limit} pierwszych — zawęź zapytanie, by zobaczyć resztę.`
-          : `Wszystkie wyniki (${hits.length}) →`
+          ? fill(text.first, { n: limit })
+          : fill(text.all, { n: hits.length })
         if (full) more.removeAttribute("href")
       }
     }
 
-    input.addEventListener("focus", () => loadIndex(), { once: true })
+    input.addEventListener("focus", () => loadIndex(text.index), { once: true })
     input.addEventListener("input", () => {
       window.clearTimeout(timer)
       timer = window.setTimeout(run, 120)

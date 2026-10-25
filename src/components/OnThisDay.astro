@@ -1,18 +1,26 @@
 ---
-import { getCollection } from "astro:content"
 import SectionHeading from "@/components/SectionHeading.astro"
+import { locale, type Lang } from "@/i18n"
+import { localEvents, paths } from "@/i18n/local"
 import { toCalendarLeaf, type CalendarLeaf } from "@/utils/calendarLeaf"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
 
 // Up to this many events per year; the rest sit behind a link to the month.
 const PER_YEAR = 3
 
-const entries = await getCollection("timeline", ({ data }) => !data.draft)
+const entries = await localEvents(lang)
 
 // Build-time default, shown without JavaScript: the Armistice day.
 // On every visit the script swaps it for today's day and month.
 const DEFAULT_MONTH_DAY = "11-11"
 const initial = entries
-  .map(toCalendarLeaf)
+  .map((entry) => toCalendarLeaf(entry, locale(lang)))
   .filter((leaf) => leaf.date.slice(5) === DEFAULT_MONTH_DAY)
 
 function groupByYear(leaves: CalendarLeaf[]) {
@@ -26,11 +34,39 @@ function groupByYear(leaves: CalendarLeaf[]) {
 }
 
 const initialYears = groupByYear(initial)
-const dayLabel = new Intl.DateTimeFormat("pl-PL", {
+const dayLabel = new Intl.DateTimeFormat(locale(lang), {
   day: "numeric",
   month: "long",
   timeZone: "UTC",
 }).format(new Date(`1918-${DEFAULT_MONTH_DAY}T00:00:00Z`))
+
+const t = {
+  pl: {
+    eyebrow: "Tego dnia w czasie Wielkiej Wojny",
+    note: "Co działo się tego dnia w kolejnych latach wojny.",
+    milestone: "Kluczowe wydarzenie",
+    more: (n: number) => `+${n} więcej tego dnia →`,
+    all: "Cała oś czasu",
+  },
+  en: {
+    eyebrow: "On this day in the Great War",
+    note: "What happened on this day in each year of the war.",
+    milestone: "Key event",
+    more: (n: number) => `+${n} more on this day →`,
+    all: "The whole timeline",
+  },
+}[lang]
+// Texts the script needs on the English page; the Polish ones are its defaults.
+const scriptText =
+  lang === "en"
+    ? JSON.stringify({
+        pool: to.leaves,
+        base: "/en/timeline",
+        locale: "en-GB",
+        more: "more on this day",
+        nearest: "There is nothing for today’s date yet, so here is the nearest earlier day.",
+      })
+    : undefined
 ---
 
 <section
@@ -38,14 +74,15 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
   class="mx-auto max-w-3xl px-6 pb-20"
   data-on-this-day
   data-per-year={PER_YEAR}
+  data-text={scriptText}
 >
-  <SectionHeading eyebrow="Tego dnia w czasie Wielkiej Wojny" />
+  <SectionHeading eyebrow={t.eyebrow} />
 
   <p class="font-display text-ink text-2xl leading-snug sm:text-3xl">
     <span data-day-label>{dayLabel}</span>
   </p>
   <p class="text-ink-soft mt-2 max-w-md text-sm" data-note>
-    Co działo się tego dnia w kolejnych latach wojny.
+    {t.note}
   </p>
 
   <ol class="mt-8 space-y-8" data-years aria-live="polite">
@@ -62,7 +99,7 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
                   <span class="text-ink-soft flex items-center gap-2 font-mono text-[10px] tracking-[0.15em] uppercase">
                     <span
                       data-milestone
-                      title="Kluczowe wydarzenie"
+                      title={t.milestone}
                       class:list={[
                         "bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4",
                         !leaf.milestone && "hidden",
@@ -92,11 +129,11 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
             {items.length > PER_YEAR && (
               <li>
                 <a
-                  href={`/timeline/${year}/${DEFAULT_MONTH_DAY.slice(0, 2)}`}
+                  href={to.month(year, DEFAULT_MONTH_DAY.slice(0, 2))}
                   class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
                   data-more
                 >
-                  {`+${items.length - PER_YEAR} więcej tego dnia →`}
+                  {t.more(items.length - PER_YEAR)}
                 </a>
               </li>
             )}
@@ -121,7 +158,7 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
         >
           <span
             data-milestone
-            title="Kluczowe wydarzenie"
+            title={t.milestone}
             class="bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4"
           ></span>
           <span data-meta class="truncate"></span>
@@ -146,10 +183,10 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
 
   <div class="mt-8">
     <a
-      href="/timeline"
+      href={to.timeline}
       class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
     >
-      Cała oś czasu ({entries.length}) →
+      {t.all} ({entries.length}) →
     </a>
   </div>
 </section>
@@ -161,10 +198,26 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
   // before the war began in 1914 — every later day is covered).
   const MAX_LOOKBACK_DAYS = 14
 
-  const dayFormatter = new Intl.DateTimeFormat("pl-PL", {
-    day: "numeric",
-    month: "long",
-  })
+  // Polish defaults; the English page overrides them in data-text.
+  type Text = {
+    pool: string
+    base: string
+    locale: string
+    more: string
+    nearest: string
+  }
+  const POLISH: Text = {
+    pool: "/kartki.json",
+    base: "/timeline",
+    locale: "pl-PL",
+    more: "więcej tego dnia",
+    nearest:
+      "Na dzisiejszą datę nie mamy wpisów, więc pokazujemy najbliższy wcześniejszy dzień.",
+  }
+  const textOf = (section: Element): Text => {
+    const raw = section.getAttribute("data-text")
+    return raw ? { ...POLISH, ...JSON.parse(raw) } : POLISH
+  }
 
   const monthDay = (d: Date) =>
     `${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`
@@ -178,7 +231,7 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
       | undefined
   }
 
-  function render(section: Element, leaves: CalendarLeaf[], key: string) {
+  function render(section: Element, leaves: CalendarLeaf[], key: string, text: Text) {
     const list = section.querySelector("[data-years]")
     if (!list) return
     const perYear = Number(section.getAttribute("data-per-year")) || 3
@@ -221,8 +274,8 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
         const more = cloneTemplate(section, "more")
         const link = more?.querySelector("[data-more]")
         if (more && link) {
-          link.setAttribute("href", `/timeline/${year}/${key.slice(0, 2)}`)
-          link.textContent = `+${items.length - perYear} więcej tego dnia →`
+          link.setAttribute("href", `${text.base}/${year}/${key.slice(0, 2)}`)
+          link.textContent = `+${items.length - perYear} ${text.more} →`
           itemsEl.append(more)
         }
       }
@@ -234,7 +287,12 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
     const section = document.querySelector("[data-on-this-day]")
     if (!section) return
 
-    const leaves: CalendarLeaf[] = await fetch("/kartki.json")
+    const text = textOf(section)
+    const dayFormatter = new Intl.DateTimeFormat(text.locale, {
+      day: "numeric",
+      month: "long",
+    })
+    const leaves: CalendarLeaf[] = await fetch(text.pool)
       .then((response) => (response.ok ? response.json() : []))
       .catch(() => [])
     if (!leaves.length) return
@@ -247,13 +305,12 @@ const dayLabel = new Intl.DateTimeFormat("pl-PL", {
       const matches = leaves.filter((leaf) => leaf.date.slice(5) === key)
       if (!matches.length) continue
 
-      render(section, matches, key)
+      render(section, matches, key, text)
       const label = section.querySelector("[data-day-label]")
       if (label) label.textContent = dayFormatter.format(day)
       const note = section.querySelector("[data-note]")
       if (note && back > 0) {
-        note.textContent =
-          "Na dzisiejszą datę nie mamy wpisów, więc pokazujemy najbliższy wcześniejszy dzień."
+        note.textContent = text.nearest
       }
       return
     }

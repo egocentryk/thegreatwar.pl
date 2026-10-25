@@ -1,0 +1,122 @@
+---
+// English person page: /en/people/<english-slug>.
+import { getCollection, getEntry, render } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import CoffeeButton from "@/components/CoffeeButton.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { enUrlFor, frontEn, plPath, rewriteEnHtml, sideEn } from "@/i18n"
+import { localEvents } from "@/i18n/local"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { getPeople, lifeYears, personByName } from "@/utils/people"
+
+export async function getStaticPaths() {
+  const people = await getCollection("peopleEn", ({ data }) => !data.draft)
+  return people.map((person) => ({ params: { slug: person.id }, props: { person } }))
+}
+
+const { person } = Astro.props
+const source = (await getEntry(person.data.source))!
+const { name, summary, role, country, birthPlace, deathPlace } = person.data
+const { born, died, bornYearOnly, diedYearOnly, side, authors } = source.data
+await render(person)
+const html = await rewriteEnHtml(person.rendered?.html ?? "")
+const fmt = (d: Date) => formatDate(d, "long", undefined, "en-GB")
+
+// Battles where this person commanded (English page if translated, else Polish).
+const people = await getPeople()
+const commanded = await Promise.all(
+  (await getCollection("battles", ({ data }) => !data.draft))
+    .filter((b) => b.data.sides.some((s) => s.commanders.some((c) => personByName(people, c)?.id === source.id)))
+    .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
+    .map(async (b) => {
+      const href = await enUrlFor("battles", b.id)
+      const en = href ? await getEntry("battlesEn", href.split("/").pop()!) : undefined
+      return { href: href ?? plPath.battles(b.id), title: en?.data.title ?? b.data.title, pl: !en, battle: b }
+    }),
+)
+
+// Translated timeline entries whose Polish text links to this person.
+const plHref = `${plPath.people(source.id)})`
+const mentions = (await localEvents("en")).filter((entry) => entry.body.includes(plHref))
+const mentionsByYear = groupTimelineEntries(mentions, "en-GB")
+---
+
+<BaseLayout
+  title={`${name} (${lifeYears(source)})`}
+  description={summary}
+  lang="en"
+  alternates={{ pl: plPath.people(source.id) }}
+>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-3xl px-6">
+      <a href="/en/people" class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">
+        ← All people
+      </a>
+
+      <p class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase">
+        {country} · {sideEn(side)}
+      </p>
+      <h1 class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl">{name}</h1>
+      <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
+
+      <dl class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]">
+        <dt>Born:</dt>
+        <dd class="text-ink">{bornYearOnly ? born.getUTCFullYear() : fmt(born)}{birthPlace && `, ${birthPlace}`}</dd>
+        <dt>Died:</dt>
+        <dd class="text-ink">{diedYearOnly ? died.getUTCFullYear() : fmt(died)}{deathPlace && `, ${deathPlace}`}</dd>
+        <dt>{authors.length > 1 ? "Authors:" : "Author:"}</dt>
+        <dd class="text-ink">{authors.join(", ")}</dd>
+      </dl>
+
+      <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+        <CoffeeButton lang="en" />
+        <Fragment set:html={html} />
+      </div>
+
+      {
+        commanded.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="Commanded in battles" count={commanded.length} />
+            <ul class="border-line border-t">
+              {commanded.map((c) => (
+                <li class="border-line hover:border-signal border-b transition-colors">
+                  <a href={c.href} hreflang={c.pl ? "pl" : undefined} class="group grid gap-1 py-4 sm:grid-cols-[12rem_1fr] sm:gap-4">
+                    <span class="text-ink-soft font-mono text-xs leading-6">
+                      {formatDateRange(c.battle.data.startDate, c.battle.data.endDate, "en-GB")}
+                    </span>
+                    <span class="min-w-0">
+                      <span class="text-ink group-hover:text-signal block transition-colors">
+                        {c.title}
+                        {c.pl && <span class="lang-mark">(PL)</span>}
+                      </span>
+                      <span class="text-ink-soft mt-1 block text-xs leading-5">
+                        {frontEn(c.battle.data.front)}
+                      </span>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        mentions.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="On the timeline" count={mentions.length} />
+            <TimelineArchive
+              timelineByYear={mentionsByYear}
+              renderAllYears={true}
+              showYearNav={false}
+              showBackLink={false}
+              lang="en"
+            />
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>

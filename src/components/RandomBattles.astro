@@ -1,20 +1,29 @@
 ---
-import { getCollection } from "astro:content"
 import SectionHeading from "@/components/SectionHeading.astro"
+import { locale, type Lang } from "@/i18n"
+import { localBattles, paths } from "@/i18n/local"
 import { formatDateRange } from "@/utils/formatDate"
 
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
 const PICK_COUNT = 3
 
-const battles = await getCollection("battles", ({ data }) => !data.draft)
+const battles = await localBattles(lang)
 
 // Only what a card shows, so the JSON shipped to the browser stays small.
 const cards = battles.map((battle) => ({
-  href: `/bitwy/${battle.id}`,
+  href: battle.href,
   title: battle.data.title,
   front: battle.data.front,
-  dates: formatDateRange(battle.data.startDate, battle.data.endDate),
+  dates: formatDateRange(battle.data.startDate, battle.data.endDate, locale(lang)),
   summary: battle.data.summary,
-  sides: battle.data.sides.map((side) => side.name).join(" kontra "),
+  sides: battle.data.sides
+    .map((side) => side.name)
+    .join(lang === "en" ? " vs " : " kontra "),
   // "Zwycięstwo Wielkiej Brytanii. Niemcy stracili…" -> "Zwycięstwo Wielkiej Brytanii"
   verdict: battle.data.result.split(".")[0],
   milestone: battle.data.milestone,
@@ -24,14 +33,33 @@ const cards = battles.map((battle) => ({
 const initial = [...cards]
   .sort(() => Math.random() - 0.5)
   .slice(0, PICK_COUNT)
+
+const t = {
+  pl: {
+    eyebrow: "Bitwy z archiwum",
+    lead: "Trzy losowe bitwy z naszej kroniki.",
+    shuffle: "Wylosuj inne",
+    milestone: "Kluczowe wydarzenie",
+    read: "Czytaj →",
+    all: "Wszystkie bitwy",
+  },
+  en: {
+    eyebrow: "Battles from the archive",
+    lead: "Three battles from the chronicle, picked at random.",
+    shuffle: "Pick others",
+    milestone: "Key event",
+    read: "Read →",
+    all: "All battles",
+  },
+}[lang]
 ---
 
 <section id="bitwy" class="mx-auto max-w-3xl px-6 pb-20" data-random-battles>
-  <SectionHeading eyebrow="Bitwy z archiwum" count={battles.length} />
+  <SectionHeading eyebrow={t.eyebrow} count={battles.length} />
 
   <div class="flex flex-wrap items-end justify-between gap-4">
     <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-      Trzy losowe bitwy z naszej kroniki.
+      {t.lead}
     </p>
     <button
       type="button"
@@ -39,7 +67,7 @@ const initial = [...cards]
       class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex cursor-pointer items-center gap-2 rounded-sm border px-3 py-2 font-mono text-xs transition-colors"
     >
       <span aria-hidden="true" data-shuffle-icon class="inline-block transition-transform duration-500">↻</span>
-      Wylosuj inne
+      {t.shuffle}
     </button>
   </div>
 
@@ -61,7 +89,7 @@ const initial = [...cards]
               </span>
               <span
                 data-milestone
-                title="Kluczowe wydarzenie"
+                title={t.milestone}
                 class:list={[
                   "bg-signal ring-signal/25 size-2 shrink-0 rounded-full ring-4",
                   !card.milestone && "hidden",
@@ -94,7 +122,7 @@ const initial = [...cards]
                 {card.verdict}
               </span>
               <span class="text-signal mt-3 inline-block font-mono text-xs transition-transform group-hover:translate-x-1">
-                Czytaj →
+                {t.read}
               </span>
             </span>
           </a>
@@ -105,10 +133,10 @@ const initial = [...cards]
 
   <div class="mt-6">
     <a
-      href="/bitwy"
+      href={to.battles}
       class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
     >
-      Wszystkie bitwy ({battles.length}) →
+      {t.all} ({battles.length}) →
     </a>
   </div>
 

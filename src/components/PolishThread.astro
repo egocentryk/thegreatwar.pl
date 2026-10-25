@@ -1,40 +1,62 @@
 ---
-import { getCollection } from "astro:content"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { POLISH_THREAD } from "@/data/homepage"
-import { pluralPl } from "@/utils/pluralPl"
-import { requireTimeline } from "@/utils/requireEntry"
+import { locale, plural, type Lang } from "@/i18n"
+import { curated, localEvents } from "@/i18n/local"
 import { slugify } from "@/utils/slugify"
 
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
 const TAG = "Polska"
 
-const dayMonth = new Intl.DateTimeFormat("pl-PL", {
+const dayMonth = new Intl.DateTimeFormat(locale(lang), {
   day: "numeric",
   month: "short",
   timeZone: "UTC",
 })
 
-const steps = (await Promise.all(POLISH_THREAD.map(requireTimeline)))
-  .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf())
+const steps = (
+  await Promise.all(POLISH_THREAD.map((slug) => curated(lang, "timeline", slug)))
+)
+  .sort((a, b) => a.date.valueOf() - b.date.valueOf())
   .map((entry) => ({
-    href: `/${entry.id}`,
-    title: entry.data.title,
-    summary: entry.data.summary,
-    day: dayMonth.format(entry.data.date),
-    year: entry.data.date.getUTCFullYear(),
-    milestone: entry.data.milestone,
+    href: entry.href,
+    title: entry.title,
+    summary: entry.summary,
+    pl: entry.pl,
+    day: dayMonth.format(entry.date),
+    year: entry.date.getUTCFullYear(),
+    milestone: entry.milestone,
   }))
 
-const tagged = (
-  await getCollection(
-    "timeline",
-    ({ data }) => !data.draft && data.tags.includes(TAG),
-  )
+// Events tagged "Polska"; tag pages exist only in Polish.
+const tagged = (await localEvents("pl")).filter((entry) =>
+  entry.data.tags.includes(TAG),
 ).length
+
+const t = {
+  pl: {
+    eyebrow: "Polska w Wielkiej Wojnie",
+    lead: "Od trzech zaborów do niepodległości.",
+    intro:
+      "Front wschodni przetoczył się przez ziemie polskie, a Polacy walczyli w trzech armiach zaborców i we własnych formacjach. Wojna, która zaczęła się bez Polski, skończyła się jej odrodzeniem.",
+    all: `Wszystkie ${tagged} ${plural(lang, tagged, ["wydarzenie", "wydarzenia", "wydarzeń"], ["", ""])} z tagiem „${TAG}” →`,
+  },
+  en: {
+    eyebrow: "Poland in the Great War",
+    lead: "From three partitions to independence.",
+    intro:
+      "The Eastern Front rolled across Polish lands, and Poles fought in the three armies of the partitioning powers and in formations of their own. A war that began without Poland ended with its rebirth.",
+    all: `All ${tagged} events tagged “Poland” →`,
+  },
+}[lang]
 ---
 
 <section id="polska" class="mx-auto max-w-3xl px-6 pb-20">
-  <SectionHeading eyebrow="Polska w Wielkiej Wojnie" count={steps.length} />
+  <SectionHeading eyebrow={t.eyebrow} count={steps.length} />
 
   <div class="border-line bg-surface relative overflow-hidden rounded-sm border">
     <span
@@ -44,12 +66,10 @@ const tagged = (
 
     <div class="p-6 sm:p-8">
       <p class="font-display text-ink max-w-lg text-2xl leading-snug sm:text-3xl">
-        Od trzech zaborów do niepodległości.
+        {t.lead}
       </p>
       <p class="text-ink-soft mt-3 max-w-lg text-sm leading-6">
-        Front wschodni przetoczył się przez ziemie polskie, a Polacy walczyli w
-        trzech armiach zaborców i we własnych formacjach. Wojna, która zaczęła
-        się bez Polski, skończyła się jej odrodzeniem.
+        {t.intro}
       </p>
 
       <ol class="mt-8">
@@ -66,7 +86,11 @@ const tagged = (
                 <span class="text-ink block text-xs">{step.year}</span>
                 <span class="text-ink-soft block text-[10px]">{step.day}</span>
               </span>
-              <a href={step.href} class="relative block pl-5">
+              <a
+                href={step.href}
+                hreflang={step.pl ? "pl" : undefined}
+                class="relative block pl-5"
+              >
                 <span
                   class:list={[
                     "absolute top-1.5 left-0 z-10 size-[11px] rounded-full border-2 transition-colors",
@@ -78,6 +102,7 @@ const tagged = (
                 />
                 <span class="text-ink group-hover:text-signal block leading-snug transition-colors">
                   {step.title}
+                  {step.pl && <span class="lang-mark">(PL)</span>}
                 </span>
                 <span class="text-ink-soft mt-1 line-clamp-2 block text-xs leading-5">
                   {step.summary}
@@ -90,9 +115,11 @@ const tagged = (
 
       <a
         href={`/tag/${slugify(TAG)}`}
+        hreflang={lang === "en" ? "pl" : undefined}
         class="text-signal mt-8 inline-block font-mono text-xs hover:underline"
       >
-        {`Wszystkie ${tagged} ${pluralPl(tagged, "wydarzenie", "wydarzenia", "wydarzeń")} z tagiem „${TAG}” →`}
+        {t.all}
+        {lang === "en" && <span class="lang-mark">(PL)</span>}
       </a>
     </div>
   </div>

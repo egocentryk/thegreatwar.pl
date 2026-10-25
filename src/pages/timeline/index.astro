@@ -1,28 +1,12 @@
 ---
-import { getCollection } from "astro:content"
-import TimelineArchive from "@/components/TimelineArchive.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
-import SectionHeading from "@/components/SectionHeading.astro"
-import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
-
-const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
-const timelineByYear = groupTimelineEntries(allTimeline)
-const defaultYear = timelineByYear[0]?.year
+import TimelineOverview from "@/components/TimelineOverview.astro"
 ---
 
 <BaseLayout
   title="Timeline"
-  description="Selected projects in product design and frontend engineering."
+  description="Wielka Wojna dzień po dniu: wydarzenia z lat 1914–1918, rok po roku."
+  alternates={{ en: "/en/timeline" }}
 >
-  <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
-    <SectionHeading eyebrow="Pełna linia czasu" count={allTimeline.length} />
-    {
-      defaultYear && (
-        <TimelineArchive
-          activeYear={defaultYear}
-          timelineByYear={timelineByYear}
-        />
-      )
-    }
-  </section>
+  <TimelineOverview />
 </BaseLayout>

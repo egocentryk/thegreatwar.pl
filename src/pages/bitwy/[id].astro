@@ -1,6 +1,7 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
+import { enUrlFor } from "@/i18n"
 import CoffeeButton from "@/components/CoffeeButton.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
@@ -23,6 +24,7 @@ interface Props {
 }
 
 const { battle } = Astro.props
+const enUrl = await enUrlFor("battles", battle.id)
 const {
   title,
   summary,
@@ -52,6 +54,7 @@ const people = await getPeople()
 <BaseLayout
   title={`${title} (${formatDateRange(startDate, endDate)})`}
   description={summary}
+  alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
     <div class="mx-auto max-w-3xl px-6">

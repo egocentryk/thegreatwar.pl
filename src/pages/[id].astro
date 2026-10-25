@@ -7,6 +7,7 @@ import {
 } from "astro:content"
 import { Image } from "astro:assets"
 import BaseLayout from "@/layouts/BaseLayout.astro"
+import { enUrlFor } from "@/i18n"
 import Button from "@/components/Button.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
 import { formatDate } from "@/utils/formatDate"
@@ -47,6 +48,7 @@ interface Props {
 }
 
 const { entry, previous, next } = Astro.props
+const enUrl = await enUrlFor("timeline", entry.id)
 const {
   title,
   summary,
@@ -74,6 +76,7 @@ const headerImageAsset = headerImage
   title={`${title} (${formattedDate})`}
   description={summary}
   image={headerImageAsset?.src}
+  alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
     <div class="mx-auto max-w-3xl px-6">

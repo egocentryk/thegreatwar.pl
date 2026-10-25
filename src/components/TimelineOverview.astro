@@ -1,0 +1,33 @@
+---
+// The whole timeline, opened at its first year. Used by /timeline and /en/timeline.
+import SectionHeading from "@/components/SectionHeading.astro"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import { locale, type Lang } from "@/i18n"
+import { localEvents } from "@/i18n/local"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const allTimeline = await localEvents(lang)
+const timelineByYear = groupTimelineEntries(allTimeline, locale(lang))
+const defaultYear = timelineByYear[0]?.year
+---
+
+<section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+  <SectionHeading
+    eyebrow={lang === "en" ? "The full timeline" : "Pełna linia czasu"}
+    count={allTimeline.length}
+  />
+  {
+    defaultYear && (
+      <TimelineArchive
+        activeYear={defaultYear}
+        timelineByYear={timelineByYear}
+        lang={lang}
+      />
+    )
+  }
+</section>

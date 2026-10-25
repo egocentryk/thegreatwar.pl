@@ -1,13 +1,30 @@
 ---
+import type { Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
 import type { TimelineYearGroup } from "@/utils/groupTimelineEntries"
+
+// Collection entries (Polish pages) or localised events (src/i18n/local.ts),
+// which carry their own href.
+type ArchiveEntry = {
+  id: string
+  href?: string
+  data: {
+    title: string
+    summary: string
+    date: Date
+    dayOrder?: number
+    milestone: boolean
+  }
+}
 
 interface Props {
   activeYear?: number
   activeMonth?: string
-  timelineByYear: TimelineYearGroup[]
+  timelineByYear: TimelineYearGroup<ArchiveEntry>[]
   showYearNav?: boolean
   showBackLink?: boolean
   renderAllYears?: boolean
+  lang?: Lang
 }
 
 const {
@@ -17,7 +34,23 @@ const {
   showYearNav = true,
   showBackLink = true,
   renderAllYears = false,
+  lang = "pl",
 } = Astro.props
+const to = paths(lang)
+const t = {
+  pl: {
+    years: "Lata",
+    months: "Miesiące",
+    milestone: "Kluczowe wydarzenie",
+    backToYear: "wróć do roku",
+  },
+  en: {
+    years: "Years",
+    months: "Months",
+    milestone: "Key event",
+    backToYear: "back to",
+  },
+}[lang]
 const years = timelineByYear.map((yearGroup) => yearGroup.year)
 const activeGroup =
   timelineByYear.find((yearGroup) => yearGroup.year === activeYear) ??
@@ -56,11 +89,11 @@ function groupEntriesByDay(
         <div class="border-line mt-10 space-y-4 border-b pb-4 font-mono">
           <nav
             class="font-display flex flex-wrap gap-x-6 gap-y-2 text-2xl leading-none font-medium sm:gap-x-8 sm:text-3xl"
-            aria-label="Timeline years"
+            aria-label={t.years}
           >
             {years.map((year) => (
               <a
-                href={`/timeline/${year}`}
+                href={to.year(year)}
                 aria-current={
                   year === activeYear && !activeMonth ? "page" : undefined
                 }
@@ -79,7 +112,7 @@ function groupEntriesByDay(
           {activeGroup && (
             <nav
               class="flex flex-wrap items-center gap-x-2 gap-y-2 text-[9px] tracking-[0.2em] uppercase"
-              aria-label={`Miesiące ${activeGroup.year}`}
+              aria-label={`${t.months} ${activeGroup.year}`}
             >
               {activeGroup.months.map((monthGroup, index) => (
                 <>
@@ -89,7 +122,7 @@ function groupEntriesByDay(
                     </span>
                   )}
                   <a
-                    href={`/timeline/${activeGroup.year}/${monthGroup.slug}`}
+                    href={to.month(activeGroup.year, monthGroup.slug)}
                     aria-current={
                       monthGroup.slug === activeMonth ? "page" : undefined
                     }
@@ -134,7 +167,7 @@ function groupEntriesByDay(
                         <>
                           <h3>
                             <a
-                              href={`/timeline/${yearGroup.year}/${monthGroup.slug}`}
+                              href={to.month(yearGroup.year, monthGroup.slug)}
                               aria-current={
                                 !renderAllYears &&
                                 monthGroup.slug === activeMonth
@@ -177,12 +210,12 @@ function groupEntriesByDay(
                                       {dayGroup.entries.map((entry) => (
                                         <li class="border-line hover:border-signal transition-colors not-last:mb-3 not-last:border-b not-last:pb-3">
                                           <a
-                                            href={`/${entry.id}`}
+                                            href={entry.href ?? `/${entry.id}`}
                                             class="group block min-w-0"
                                           >
                                             {entry.data.milestone && (
                                               <span class="text-signal mb-1 block font-mono text-[9px] tracking-[0.2em] uppercase">
-                                                Kluczowe wydarzenie
+                                                {t.milestone}
                                               </span>
                                             )}
                                             <span
@@ -216,10 +249,10 @@ function groupEntriesByDay(
                 {showBackLink && !renderAllYears && activeMonth && (
                   <div>
                     <a
-                      href={`/timeline/${yearGroup.year}`}
+                      href={to.year(yearGroup.year)}
                       class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
                     >
-                      wróć do roku {yearGroup.year}
+                      {t.backToYear} {yearGroup.year}
                     </a>
                   </div>
                 )}

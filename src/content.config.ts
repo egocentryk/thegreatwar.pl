@@ -123,4 +123,49 @@ const people = defineCollection({
   }),
 })
 
-export const collections = { timeline, battles, people }
+// ─── English translations ────────────────────────────────────────────
+// src/content/en/<collection>/<english-slug>.md. Each file holds only the
+// translated text; dates, categories, battle links and the rest come from
+// the Polish entry named in `source`. `sourceHash` is the SHA-1 of the Polish
+// file the translation was made from (scripts/i18n-status.mjs lists stale ones).
+const enBase = {
+  title: z.string(),
+  summary: z.string().max(160),
+  sourceHash: z.string().optional(),
+  draft: z.boolean().default(false),
+}
+
+const timelineEn = defineCollection({
+  loader: glob({ base: "./src/content/en/timeline", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({ ...enBase, source: reference("timeline") }),
+})
+
+const battlesEn = defineCollection({
+  loader: glob({ base: "./src/content/en/battles", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({
+    ...enBase,
+    source: reference("battles"),
+    location: z.string(),
+    sides: z
+      .array(z.object({ name: z.string(), commanders: z.array(z.string()).default([]) }))
+      .min(2),
+    result: z.string(),
+  }),
+})
+
+const peopleEn = defineCollection({
+  loader: glob({ base: "./src/content/en/people", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({
+    name: z.string(),
+    summary: z.string().max(160),
+    role: z.string(),
+    country: z.string(),
+    birthPlace: z.string().optional(),
+    deathPlace: z.string().optional(),
+    sourceHash: z.string().optional(),
+    draft: z.boolean().default(false),
+    source: reference("people"),
+  }),
+})
+
+export const collections = { timeline, battles, people, timelineEn, battlesEn, peopleEn }

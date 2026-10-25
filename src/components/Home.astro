@@ -1,0 +1,186 @@
+---
+// The home page. Used by / and /en.
+import Button from "@/components/Button.astro"
+import Fronts from "@/components/Fronts.astro"
+import OnThisDay from "@/components/OnThisDay.astro"
+import PolishThread from "@/components/PolishThread.astro"
+import RandomBattles from "@/components/RandomBattles.astro"
+import RandomEvents from "@/components/RandomEvents.astro"
+import ReadingPath from "@/components/ReadingPath.astro"
+import Search from "@/components/Search.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TurningPoints from "@/components/TurningPoints.astro"
+import WarYears from "@/components/WarYears.astro"
+import {
+  FRONT_NOTES,
+  POLISH_THREAD,
+  READING_PATH,
+  TURNING_POINTS,
+  WAR_YEARS,
+} from "@/data/homepage"
+import { type Lang } from "@/i18n"
+import { localBattles, localEvents, paths } from "@/i18n/local"
+import { SITE } from "@/site.config"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
+const allTimeline = await localEvents(lang)
+const allBattles = await localBattles(lang)
+// Covered period, e.g. "VI 1914 – XII 1918", from the first and last entry.
+const romanMonths = [
+  "I",
+  "II",
+  "III",
+  "IV",
+  "V",
+  "VI",
+  "VII",
+  "VIII",
+  "IX",
+  "X",
+  "XI",
+  "XII",
+]
+const dates = allTimeline.map((entry) => entry.data.date.valueOf())
+const firstDate = new Date(Math.min(...dates))
+const lastDate = new Date(Math.max(...dates))
+const monthLabel = (d: Date) => romanMonths[d.getUTCMonth()]
+const coveredUntil = !dates.length
+  ? "—"
+  : firstDate.getUTCFullYear() === lastDate.getUTCFullYear()
+    ? `${monthLabel(firstDate)}–${monthLabel(lastDate)} ${lastDate.getUTCFullYear()}`
+    : `${monthLabel(firstDate)} ${firstDate.getUTCFullYear()} – ${monthLabel(lastDate)} ${lastDate.getUTCFullYear()}`
+
+const t = {
+  pl: {
+    status: SITE.status,
+    tagline: SITE.tagline,
+    intro:
+      "Chronologiczny zapis całego konfliktu z lat 1914–1918, od pierwszych kryzysów po jego zakończenie.",
+    timeline: "Zobacz oś czasu →",
+    write: "Napisz do nas",
+    about: "O projekcie",
+    aboutLead: "Polska kronika Wielkiej Wojny, zapisana dzień po dniu.",
+    aboutText:
+      "Opisujemy wydarzenia z lat 1914–1918 w takiej kolejności, w jakiej rozgrywały się naprawdę: bitwy, decyzje polityczne, rozkazy i losy ludzi. Każdy fakt sprawdzamy w kilku źródłach, a gdy się one różnią, piszemy o tym otwarcie. Szczególną uwagę poświęcamy ziemiom polskim, przez które przetoczyła się znaczna część walk na froncie wschodnim.",
+    events: "Wydarzenia",
+    battles: "Bitwy",
+    period: "Opisany okres",
+    more: "Więcej o projekcie →",
+    talk: "Porozmawiajmy",
+    contact: "Chcesz się z nami skontaktować?",
+  },
+  en: {
+    status: "The English edition is being translated",
+    tagline: SITE.taglineEn,
+    intro:
+      "A chronological record of the whole conflict of 1914–1918, from the first crises to its end.",
+    timeline: "See the timeline →",
+    write: "Write to us",
+    about: "About the project",
+    aboutLead: "A Polish chronicle of the Great War, written day by day.",
+    aboutText:
+      "We describe the events of 1914–1918 in the order in which they really happened: battles, political decisions, orders and the fates of people. Every fact is checked against several sources, and where they disagree we say so openly. We pay particular attention to the Polish lands, across which much of the fighting on the Eastern Front was fought.",
+    events: "Events",
+    battles: "Battles",
+    period: "Period covered",
+    more: "More about the project →",
+    talk: "Get in touch",
+    contact: "Would you like to contact us?",
+  },
+}[lang]
+---
+
+<section class="mx-auto max-w-3xl px-6 pt-16 pb-20 sm:pt-24">
+    <p
+      class="text-ink-soft mb-6 inline-flex items-center gap-2 font-mono text-xs"
+    >
+      <span class="bg-signal h-1.5 w-1.5 rounded-full" aria-hidden="true"
+      ></span>
+      {t.status}
+    </p>
+
+    <h1
+      class="font-display text-ink max-w-2xl text-4xl leading-[1.1] font-medium sm:text-5xl"
+    >
+      {t.tagline}
+    </h1>
+
+    <p class="text-ink-soft mt-6 max-w-md">
+      {t.intro}
+    </p>
+
+    <div class="mt-8 flex flex-wrap items-center gap-3">
+      <Button href={to.timeline} variant="solid">{t.timeline}</Button>
+      <Button href="#contact" variant="ghost">{t.write}</Button>
+    </div>
+  </section>
+
+  <Search lang={lang} />
+
+  {allTimeline.length > 0 && <OnThisDay lang={lang} />}
+
+  {WAR_YEARS.length > 0 && <WarYears lang={lang} />}
+
+  {TURNING_POINTS.length > 0 && <TurningPoints lang={lang} />}
+
+  {READING_PATH.length > 0 && <ReadingPath lang={lang} />}
+
+  {Object.keys(FRONT_NOTES).length > 0 && <Fronts lang={lang} />}
+
+  {POLISH_THREAD.length > 0 && <PolishThread lang={lang} />}
+
+  {allTimeline.length > 0 && <RandomEvents lang={lang} />}
+
+  {allBattles.length > 0 && <RandomBattles lang={lang} />}
+
+  <section id="about" class="mx-auto max-w-3xl px-6 pb-20">
+    <SectionHeading eyebrow={t.about} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
+      {t.aboutLead}
+    </p>
+    <p class="text-ink-soft mt-6 max-w-xl">
+      {t.aboutText}
+    </p>
+
+    <dl class="border-line mt-8 grid max-w-xl grid-cols-[1fr_0.75fr_1.75fr] gap-4 border-t pt-6">
+      <div>
+        <dt class="text-ink-soft font-mono text-xs">{t.events}</dt>
+        <dd class="font-display text-ink mt-1 text-2xl">
+          {allTimeline.length}
+        </dd>
+      </div>
+      <div>
+        <dt class="text-ink-soft font-mono text-xs">{t.battles}</dt>
+        <dd class="font-display text-ink mt-1 text-2xl">{allBattles.length}</dd>
+      </div>
+      <div>
+        <dt class="text-ink-soft font-mono text-xs">{t.period}</dt>
+        <dd class="font-display text-ink mt-1 text-2xl">{coveredUntil}</dd>
+      </div>
+    </dl>
+
+    <a
+      href={lang === "en" ? "/en/about" : "/about"}
+      class="text-signal mt-6 inline-block font-mono text-xs hover:underline"
+    >
+      {t.more}
+    </a>
+  </section>
+
+  <section id="contact" class="mx-auto max-w-3xl px-6 pb-24">
+    <SectionHeading eyebrow={t.talk} />
+    <p class="font-display text-ink max-w-lg text-2xl sm:text-3xl">
+      {t.contact}
+    </p>
+    <a
+      href={`mailto:${SITE.email}`}
+      class="text-signal mt-4 inline-flex items-center gap-2 font-mono hover:underline"
+    >
+      {SITE.email}
+    </a>
+  </section>

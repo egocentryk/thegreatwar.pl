@@ -1,41 +1,62 @@
 ---
-import { getCollection } from "astro:content"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { FRONT_NOTES } from "@/data/homepage"
-import { pluralPl } from "@/utils/pluralPl"
-import { slugify } from "@/utils/slugify"
+import { frontEn, plural, type Lang } from "@/i18n"
+import { FRONT_NOTES_EN } from "@/i18n/data-en"
+import { localBattles, localEvents, paths } from "@/i18n/local"
 
 const YEARS = [1914, 1915, 1916, 1917, 1918]
 
-const entries = await getCollection("timeline", ({ data }) => !data.draft)
-const battles = await getCollection("battles", ({ data }) => !data.draft)
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
+const entries = await localEvents(lang)
+const battles = await localBattles(lang)
 
 const fronts = Object.entries(FRONT_NOTES).map(([front, note]) => {
-  const frontEntries = entries.filter((entry) => entry.data.front === front)
+  const frontEntries = entries.filter((entry) => entry.data.frontKey === front)
   const perYear = YEARS.map(
     (year) =>
       frontEntries.filter((entry) => entry.data.date.getUTCFullYear() === year)
         .length,
   )
   return {
-    front,
-    note,
-    slug: slugify(front),
+    front: lang === "en" ? frontEn(front) : front,
+    note: lang === "en" ? (FRONT_NOTES_EN[front] ?? note) : note,
+    href: to.front(front),
+    anchor: to.frontAnchor(front),
     eventCount: frontEntries.length,
-    battleCount: battles.filter((battle) => battle.data.front === front).length,
+    battleCount: battles.filter((battle) => battle.data.frontKey === front).length,
     perYear,
   }
-})
+  // The English page lists only fronts with something translated.
+}).filter((front) => lang === "pl" || front.eventCount > 0)
 // One scale for every card, so the theatres compare at a glance; the bars
 // use its square root so small theatres still show their shape.
 const busiestYear = Math.max(...fronts.flatMap((front) => front.perYear))
+
+const t = {
+  pl: {
+    eyebrow: "Fronty",
+    lead: "Wojna na wszystkich kontynentach i morzach.",
+    perYear: "Wydarzenia w kolejnych latach",
+  },
+  en: {
+    eyebrow: "Fronts",
+    lead: "War on every continent and ocean.",
+    perYear: "Events in each year",
+  },
+}[lang]
 ---
 
 <section id="fronty" class="mx-auto max-w-3xl px-6 pb-20">
-  <SectionHeading eyebrow="Fronty" count={fronts.length} />
+  <SectionHeading eyebrow={t.eyebrow} count={fronts.length} />
 
   <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-    Wojna na wszystkich kontynentach i morzach.
+    {t.lead}
   </p>
 
   <ul class="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2">
@@ -44,7 +65,7 @@ const busiestYear = Math.max(...fronts.flatMap((front) => front.perYear))
         <li class="group border-line bg-surface hover:border-signal flex flex-col rounded-sm border p-5 transition-colors">
           <div class="flex items-start justify-between gap-4">
             <h3 class="font-display text-ink group-hover:text-signal text-xl leading-snug transition-colors">
-              <a href={`/front/${front.slug}`}>{front.front}</a>
+              <a href={front.href}>{front.front}</a>
             </h3>
             <span class="font-display text-ink text-3xl leading-none font-medium tabular-nums">
               {front.eventCount}
@@ -55,7 +76,7 @@ const busiestYear = Math.max(...fronts.flatMap((front) => front.perYear))
           <div class="mt-auto pt-5">
             <div
               class="flex h-10 items-end gap-1.5"
-              aria-label={`Wydarzenia w kolejnych latach: ${front.perYear.join(", ")}`}
+              aria-label={`${t.perYear}: ${front.perYear.join(", ")}`}
             >
               {front.perYear.map((count, index) => (
                 <span
@@ -76,20 +97,20 @@ const busiestYear = Math.max(...fronts.flatMap((front) => front.perYear))
 
             <div class="mt-4 flex flex-wrap gap-x-4 gap-y-1 font-mono text-xs">
               <a
-                href={`/front/${front.slug}`}
+                href={front.href}
                 class="text-signal hover:underline"
               >
                 {front.eventCount}{" "}
-                {pluralPl(front.eventCount, "wydarzenie", "wydarzenia", "wydarzeń")}{" "}
+                {plural(lang, front.eventCount, ["wydarzenie", "wydarzenia", "wydarzeń"], ["event", "events"])}{" "}
                 →
               </a>
               {front.battleCount > 0 && (
                 <a
-                  href={`/bitwy#${front.slug}`}
+                  href={`${to.battles}#${front.anchor}`}
                   class="text-ink-soft hover:text-signal transition-colors"
                 >
                   {front.battleCount}{" "}
-                  {pluralPl(front.battleCount, "bitwa", "bitwy", "bitew")} →
+                  {plural(lang, front.battleCount, ["bitwa", "bitwy", "bitew"], ["battle", "battles"])} →
                 </a>
               )}
             </div>

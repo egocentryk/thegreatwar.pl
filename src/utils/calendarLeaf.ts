@@ -1,4 +1,4 @@
-import type { CollectionEntry } from "astro:content"
+import type { LocalEvent } from "@/i18n/local"
 
 // One timeline event as a tear-off calendar page, shared by the homepage
 // section (RandomEvents.astro) and the /kartki.json pool it rerolls from.
@@ -19,25 +19,31 @@ export interface CalendarLeaf {
 }
 
 // Standalone month name, as printed on a calendar: "czerwiec", not "czerwca".
-const monthFormatter = new Intl.DateTimeFormat("pl-PL", {
-  month: "long",
-  timeZone: "UTC",
-})
+const monthFormatters = new Map<string, Intl.DateTimeFormat>()
+const monthFormatter = (locale: string) => {
+  if (!monthFormatters.has(locale)) {
+    monthFormatters.set(
+      locale,
+      new Intl.DateTimeFormat(locale, { month: "long", timeZone: "UTC" }),
+    )
+  }
+  return monthFormatters.get(locale)!
+}
 
-export function toCalendarLeaf(entry: CollectionEntry<"timeline">): CalendarLeaf {
+export function toCalendarLeaf(entry: LocalEvent, locale = "pl-PL"): CalendarLeaf {
   const { title, summary, category, front, date, milestone, dayOrder } =
     entry.data
   return {
-    href: `/${entry.id}`,
+    href: entry.href,
     title,
     summary,
     category,
     front: front ?? null,
     day: String(date.getUTCDate()),
-    month: monthFormatter.format(date),
+    month: monthFormatter(locale).format(date),
     year: String(date.getUTCFullYear()),
     milestone,
     date: date.toISOString().slice(0, 10),
-    dayOrder: dayOrder ?? 0,
+    dayOrder,
   }
 }

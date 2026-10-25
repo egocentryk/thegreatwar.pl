@@ -1,0 +1,135 @@
+---
+// English battle page: /en/battles/<english-slug>.
+import { getCollection, getEntry, render } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import CoffeeButton from "@/components/CoffeeButton.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import { BATTLE_PHASES } from "@/data/battlePhases"
+import { formatDateRange } from "@/utils/formatDate"
+import { enUrlFor, frontEn, plPath, rewriteEnHtml } from "@/i18n"
+import { PHASES_EN } from "@/i18n/data-en"
+import { localEvents, paths } from "@/i18n/local"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { getPeople, personByName } from "@/utils/people"
+
+export async function getStaticPaths() {
+  const battles = await getCollection("battlesEn", ({ data }) => !data.draft)
+  return battles.map((battle) => ({ params: { slug: battle.id }, props: { battle } }))
+}
+
+const { battle } = Astro.props
+const source = (await getEntry(battle.data.source))!
+const { title, summary, location, sides, result } = battle.data
+const { front, phase, startDate, endDate, authors, milestone } = source.data
+await render(battle)
+const html = await rewriteEnHtml(battle.rendered?.html ?? "")
+const range = formatDateRange(startDate, endDate, "en-GB")
+
+// Commanders: the English list is in the same order as the Polish one, so the
+// Polish name finds the person page.
+const people = await getPeople()
+const commanderLinks = await Promise.all(
+  sides.map((side, s) =>
+    Promise.all(
+      side.commanders.map(async (name, c) => {
+        const plName = source.data.sides[s]?.commanders[c] ?? name
+        const person = personByName(people, plName)
+        if (!person) return { name, href: undefined, pl: false }
+        const en = await enUrlFor("people", person.id)
+        return { name, href: en ?? plPath.people(person.id), pl: !en }
+      }),
+    ),
+  ),
+)
+
+const related = (await localEvents("en")).filter((entry) => entry.data.battleId === source.id)
+const relatedByYear = groupTimelineEntries(related, "en-GB")
+const phaseInfo = BATTLE_PHASES.find((item) => item.slug === phase)
+const phaseTitle = phaseInfo ? (PHASES_EN[phaseInfo.slug]?.title ?? phaseInfo.title) : undefined
+---
+
+<BaseLayout
+  title={`${title} (${range})`}
+  description={summary}
+  lang="en"
+  alternates={{ pl: plPath.battles(source.id) }}
+>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-3xl px-6">
+      <a href="/en/battles" class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">
+        ← All battles
+      </a>
+
+      {
+        phaseInfo && (
+          <p class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase">
+            {phaseTitle}
+          </p>
+        )
+      }
+
+      <h1 class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl">{title}</h1>
+
+      <dl class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]">
+        <dt>Dates:</dt>
+        <dd class="text-ink">{range}</dd>
+        <dt>Front:</dt>
+        <dd class="text-ink">{frontEn(front)}</dd>
+        <dt>Location:</dt>
+        <dd class="text-ink">{location}</dd>
+        <dt>Sides:</dt>
+        <dd class="text-ink space-y-2">
+          {
+            sides.map((side, s) => (
+              <div>
+                <span>{side.name}</span>
+                {side.commanders.length > 0 && (
+                  <span class="text-ink-soft block">
+                    {commanderLinks[s].map((c, index) => (
+                      <>
+                        {index > 0 && ", "}
+                        {c.href ? (
+                          <a href={c.href} class="hover:text-signal underline decoration-dotted underline-offset-2 transition-colors">
+                            {c.name}
+                            {c.pl && <span class="lang-mark"> (PL)</span>}
+                          </a>
+                        ) : (
+                          c.name
+                        )}
+                      </>
+                    ))}
+                  </span>
+                )}
+              </div>
+            ))
+          }
+        </dd>
+        <dt>Result:</dt>
+        <dd class:list={["text-ink", milestone && "font-semibold"]}>{result}</dd>
+        <dt>{authors.length > 1 ? "Authors:" : "Author:"}</dt>
+        <dd class="text-ink">{authors.join(", ")}</dd>
+      </dl>
+
+      <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+        <CoffeeButton lang="en" />
+        <Fragment set:html={html} />
+      </div>
+
+      {
+        related.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="On the timeline" count={related.length} />
+            <TimelineArchive
+              timelineByYear={relatedByYear}
+              renderAllYears={true}
+              showYearNav={false}
+              showBackLink={false}
+              lang="en"
+            />
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>
