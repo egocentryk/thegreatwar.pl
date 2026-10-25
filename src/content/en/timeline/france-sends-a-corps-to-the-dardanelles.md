@@ -1,0 +1,26 @@
+---
+title: France sends a corps to the Dardanelles
+summary: In early March 1915 General d'Amade's Orient Expeditionary Corps, a French division for the Dardanelles, sailed from ports in France and North Africa.
+source: francja-wysyla-korpus-nad-dardanele
+sourceHash: da820e43c2803ce4bb212a560f04a36ed1bc707c
+---
+
+The British chronology of the war records under 4 March 1915 that the French government decided to send an expeditionary corps to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). In fact the decision had been taken in Paris in the second half of February, and by the beginning of March the new French division was already on its way. According to the British official history, its first units, together with its commander, General Albert d'Amade, and his staff, embarked on 3 March. According to French sources the convoys left port from 4 March. That same day [Winston Churchill](/postacie/winston-churchill) wrote to Lord Kitchener that the French division should assemble with the British troops in Mudros Bay on the island of Lemnos around 18 March, ready to land at Bulair or to sail through the Straits to Constantinople.
+
+## The decision in Paris
+
+A French squadron of battleships had taken part from the outset in the [fleet's attack on the forts at the entrance to the Straits](/poczatek-ataku-floty-na-dardanele). When [on 16 February the British decided to send the 29th Division to the Dardanelles](/brytyjska-dywizja-dla-dardaneli), the French did not want to be left behind. On 18 February the French government decided that an infantry division would also go to the eastern Mediterranean. It was not only a matter of helping an ally. France had enormous interests in the Ottoman Empire, from capital invested in Turkish debt and railways to influence in Syria and Lebanon, and could not allow the British and Russians to decide the fate of Constantinople and the Straits without it.
+
+The Commander-in-Chief, General [Joseph Joffre](/postacie/joseph-joffre), opposed this. Asked by the Ministry of War, he replied that it was "absolutely impossible" for him to agree to give up any troops under his command. He believed that the war would be decided in France, and in his view the Dardanelles expedition was built on very uncertain foundations. The Minister of War, [Alexandre Millerand](/postacie/alexandre-millerand), therefore ordered on 22 February the formation of an entirely new division from soldiers in the depots in France and North Africa. On 25 February Joffre gave an assurance by telegram that it would contain no unit fighting on the Western Front or destined for it.
+
+## A new division
+
+The unit was named the Orient Expeditionary Corps (Corps expéditionnaire d'Orient). It formally existed from 1 March and was put together in just a few days. It numbered about 17,000–18,000 men. It consisted of two brigades. The metropolitan brigade comprised the 175th Infantry Regiment and a *régiment de marche* made up of battalions of Zouaves and the [Foreign Legion](https://pl.wikipedia.org/wiki/Legia_Cudzoziemska). The colonial brigade was formed by two mixed colonial regiments, in which Senegalese tirailleurs from West Africa served alongside battalions of French colonial infantry. The division also had several batteries of 75 mm field guns and batteries of mountain artillery. It was commanded by General Maurice Masnou.
+
+At the head of the whole corps stood the fifty-eight-year-old General Albert d'Amade. In 1908–1909 he had commanded the French troops in Morocco, where he conducted a campaign in the Chaouia region. In August 1914 he commanded a group of territorial divisions covering north-western France between Dunkirk and Maubeuge. During the Allied retreat his units fell back as far as Normandy. Some sources state that he received his appointment as corps commander on 24 February; others link it to 1 March, when the unit was formally created.
+
+## Under British command
+
+The orders d'Amade received on 2 March instructed him to cooperate with the Allied fleet and the British troops in forcing the Dardanelles, keeping the Straits open and in later operations at Constantinople and on the Bosporus. He was to receive his instructions from Vice-Admiral Sackville Carden, who commanded the fleet at the Dardanelles. On 10 March the French government agreed, for the sake of unity of command and because of British numerical superiority, to place the corps under the British commander of the land forces, who soon turned out to be General Ian Hamilton.
+
+The transports sailed from [Bizerte](https://pl.wikipedia.org/wiki/Bizerta) in Tunisia, from Marseille, Toulon and the ports of Algeria. The ships gathered on the way at Malta and reached Mudros Bay, where the British [were setting up the expedition's base](/brytyjczycy-zajmuja-lemnos), between 11 and 17 March. Lemnos, however, lacked quays, water and storehouses, so at the end of March the French, like the British, moved to Egypt. Around [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) they restowed their ships and prepared for the landing. On 25 April 1915 d'Amade's soldiers landed at Kum Kale on the Asian shore of the Straits, and later moved to the southern tip of the Gallipoli peninsula. In May a second French division arrived, and d'Amade was replaced by General Henri Gouraud.

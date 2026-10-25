@@ -1,0 +1,34 @@
+---
+title: Sinking of the Falaba
+summary: On 28 March 1915 U-28 torpedoed the British passenger ship Falaba. Over a hundred died, among them Leon Thrasher, the first American killed by a U-boat.
+source: zatopienie-falaby
+sourceHash: fbc2a4a41e5147eae8c22ef69752c4f9f523486c
+---
+
+On 28 March 1915, in [St George's Channel](https://pl.wikipedia.org/wiki/Kanał_Świętego_Jerzego), between Wales and Ireland, the German submarine [*U-28*](https://pl.wikipedia.org/wiki/SM_U-28_(1913)) stopped and torpedoed the British passenger ship *Falaba*. The ship sank within minutes, before everyone could get into the lifeboats. More than a hundred people died, among them a citizen of the United States, Leon Thrasher. The British chronology of the war calls the *Falaba* the first passenger ship sunk by a German submarine. It was the first sinking in the German submarine war with such tragic consequences for civilians, and a foretaste of the fate of the *Lusitania*.
+
+## Voyage to West Africa
+
+The *Falaba*, built in Glasgow in 1906, was a passenger and cargo ship of 4,806 gross register tons. She belonged to the Liverpool line Elder Dempster and sailed to the British colonies in West Africa. On 27 March she left [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) on another voyage, mainly to [Sierra Leone](https://pl.wikipedia.org/wiki/Sierra_Leone). On board were 95 crew and, according to British figures, 147 passengers, though some sources give a slightly higher number. The passengers included women. The ship also carried general cargo, including, as the inquiry later established, 13 tons of cartridges and powder.
+
+The voyage led through waters that Germany had regarded since 18 February as a [war zone](/poczatek-niemieckiej-blokady-podwodnej). At the end of March *U-28* under Kapitänleutnant Georg-Günther von Forstner sank the [Dutch steamer *Medea*](/zatopienie-holenderskiego-parowca-medea) in the English Channel and then moved to the waters off Cornwall and Wales. On 27 March she sank three British ships there. One of them was the small passenger ship *Aguila*, bound from Liverpool for Lisbon and the Canary Islands. She tried to escape for about an hour, and the submarine shelled her with its gun, even after she had stopped and the lifeboats were being lowered. Eight people died, among them a stewardess and a woman passenger.
+
+## The torpedo
+
+At about 11.40 a.m. on 28 March, roughly 38 nautical miles west of the Smalls lighthouse off the coast of [Pembrokeshire](https://pl.wikipedia.org/wiki/Pembrokeshire), a submarine was sighted from the *Falaba*. Captain Frederick Davies tried to escape and sent a distress call by wireless. *U-28*, however, was faster and ordered the ship by flag signals to stop and abandon ship. Davies stopped, and the crew began lowering the lifeboats.
+
+How much time the people were given to leave the ship remains disputed. The British inquiry found that the submarine fired its torpedo after about five minutes, many witnesses spoke of ten, and the German government claimed that 23 minutes had passed. Forstner explained that he had extended the deadline, but when signal rockets were fired from the *Falaba* and other vessels appeared nearby, he had to act quickly. The torpedo, fired from a range of about a hundred metres, struck the engine room while many people were still on board. The explosion overturned some of the lifeboats. The ship sank in about eight to ten minutes.
+
+The survivors found themselves in icy water. The fishing drifter *Eileen Emma*, whose crew, according to the British naval staff monograph, had tried a moment earlier to ram the submarine, picked up more than a hundred people, and other boats, including the *Wenlock*, rescued several dozen more. Some of the survivors died of exposure after being pulled from the water. Those saved were landed at [Milford Haven](https://pl.wikipedia.org/wiki/Milford_Haven). According to the most commonly given figures 104 people died, including Captain Davies, though various sources give slightly different numbers. Some survivors claimed that the submarine's crew watched the drowning people and jeered at them.
+
+## The Thrasher case
+
+Among the dead was 31-year-old Leon Thrasher, a mining engineer from [Massachusetts](https://pl.wikipedia.org/wiki/Massachusetts), who was travelling to work for a mining company on the [Gold Coast](https://pl.wikipedia.org/wiki/Złote_Wybrzeże_(kolonia_brytyjska)). He was the first citizen of the United States killed as a result of a German submarine attack. Two months earlier the Germans had [sunk the American sailing ship *William P. Frye*](/zatopienie-zaglowca-william-p-frye), but no one had died then.
+
+In Washington the case divided the government. The State Department counselor [Robert Lansing](/postacie/robert-lansing) prepared a sharp note accusing the commander of *U-28* of not giving the passengers and crew enough time to leave the ship. The Secretary of State, [William Jennings Bryan](https://pl.wikipedia.org/wiki/William_Bryan), argued on the other hand that an American who boards a belligerent's ship for business takes the risk upon himself. President [Woodrow Wilson](/postacie/woodrow-wilson) believed that Germany had broken international law, but in the end did not send a separate protest. Thrasher's body was washed ashore in Ireland only on 11 July 1915.
+
+## The first, but not the only one
+
+Describing the *Falaba* as the first passenger ship sunk by a U-boat needs qualification. As early as 26 October 1914 *U-24* had torpedoed without warning in the English Channel the French ship *Amiral Ganteaume*, carrying thousands of Belgian refugees. According to various sources between 24 and about 40 people died, but the ship did not sink and reached port. The day before the *Falaba*, *U-28* had sunk the smaller passenger ship *Aguila*. The *Falaba*, however, was the first larger passenger ship sunk by a submarine, and the number of victims shocked public opinion in Britain and in the neutral countries.
+
+The British inquiry under Lord Mersey found that the blame for the deaths lay solely with the submarine's crew and that the ship's cargo was ordinary. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), cited the circumstances of the *Falaba*'s sinking when in April he defended in the House of Commons the separate treatment of prisoners from German submarines, such as the [crew of *U-8*](/zatopienie-u-8). The Thrasher case returned on 7 May 1915, when *U-20* sank the liner [*Lusitania*](https://pl.wikipedia.org/wiki/RMS_Lusitania), and among the almost 1,200 victims were more than a hundred Americans. In the note of 13 May, the first of a series of American protests over the *Lusitania*, Washington also mentioned the sinking of the *Falaba* and Thrasher's death.

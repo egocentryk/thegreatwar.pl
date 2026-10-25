@@ -33,7 +33,7 @@ Zimą generał [Joseph Joffre](/postacie/joseph-joffre) prowadził ofensywę [w 
 
 ## Plan i przygotowania
 
-Haig wybrał odcinek, na którym Niemcy byli słabi. Na wprost Neuve-Chapelle stały oddziały westfalskiego VII Korpusu generała Eberharda von Claera z niemieckiej [6 Armii](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)) księcia [Ruprechta Bawarskiego](/postacie/rupprecht-bawarski). Niemieckie okopy były płytkie, w podmokłym gruncie wznoszono je raczej jako przedpiersia z worków z piaskiem, a za pierwszą linią nie było porządnie przygotowanej drugiej pozycji. Na samym odcinku natarcia Brytyjczycy mieli wielokrotną przewagę liczebną.
+Haig wybrał odcinek, na którym Niemcy byli słabi. Na wprost Neuve-Chapelle stały oddziały westfalskiego VII Korpusu generała Eberharda von Claera z niemieckiej [6 Armii](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)) księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski). Niemieckie okopy były płytkie, w podmokłym gruncie wznoszono je raczej jako przedpiersia z worków z piaskiem, a za pierwszą linią nie było porządnie przygotowanej drugiej pozycji. Na samym odcinku natarcia Brytyjczycy mieli wielokrotną przewagę liczebną.
 
 Uderzenie miały wykonać dwa korpusy. Z lewej, od północnego zachodu, nacierał IV Korpus generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) z 8 i 7 Dywizją, a z prawej, od południa, Korpus Indyjski generała Jamesa Willcocksa z dywizjami Meerut i Lahore. W natarciu wzięło udział około 40 tysięcy żołnierzy, choć część opracowań, licząc wszystkie wojska skupione do bitwy, podaje nawet 60 tysięcy. Odwodem była dywizja kawalerii, gotowa wykorzystać przełamanie.
 
@@ -57,7 +57,7 @@ Potem przyszło kilka godzin zwłoki. Oddziały po walce w okopach i ruinach by�
 
 Według brytyjskiej historii oficjalnej cztery dywizje, które wzięły udział w natarciu, straciły 544 oficerów i 11 108 szeregowych, razem 11 652 zabitych, rannych i zaginionych. Raport Frencha z kwietnia 1915 roku podawał dla trzech dni walk nieco wyższą liczbę, około 12,8 tysiąca, a niektóre nowsze opracowania mówią o około 12,6 tysiąca. Najciężej ucierpiała 8 Dywizja, która straciła blisko 4,8 tysiąca ludzi. Straty Korpusu Indyjskiego wyniosły około 4,2 tysiąca.
 
-Straty niemieckie są mniej pewne. Niemiecka historia oficjalna podawała blisko 10 tysięcy ludzi, a nowsze badania, oparte na dokumentach 6 Armii i dzienniku księcia Ruprechta, szacują je na około 8,5 tysiąca. Brytyjczycy wzięli do niewoli 30 oficerów i 1657 żołnierzy. Najciężej ucierpiała 6 Bawarska Dywizja Rezerwowa, która w walkach od 11 do 13 marca straciła ponad 6 tysięcy ludzi.
+Straty niemieckie są mniej pewne. Niemiecka historia oficjalna podawała blisko 10 tysięcy ludzi, a nowsze badania, oparte na dokumentach 6 Armii i dzienniku księcia Rupprechta, szacują je na około 8,5 tysiąca. Brytyjczycy wzięli do niewoli 30 oficerów i 1657 żołnierzy. Najciężej ucierpiała 6 Bawarska Dywizja Rezerwowa, która w walkach od 11 do 13 marca straciła ponad 6 tysięcy ludzi.
 
 ## Znaczenie
 

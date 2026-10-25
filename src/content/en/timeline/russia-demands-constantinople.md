@@ -1,0 +1,30 @@
+---
+title: Russia demands Constantinople
+summary: On 4 March 1915 Sergey Sazonov asked Britain and France to agree that Constantinople and the Straits would be annexed to Russia after the war.
+source: rosja-zada-konstantynopola
+sourceHash: 140a3de0a27bb51c88832cb9cfdcc6481ee658d6
+---
+
+On 4 March 1915, or 19 February by the Julian calendar then in use in Russia, the Russian foreign minister [Sergey Sazonov](/postacie/siergiej-sazonow) handed the British and French ambassadors in Petrograd, George Buchanan and Maurice Paléologue, a memorandum in the form of an aide-mémoire. In it the Russian government declared that as a result of the war it wished to annex [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) and the [Black Sea straits](https://pl.wikipedia.org/wiki/Cieśniny_tureckie) to its state, and asked its allies for their consent. The British chronology of the war describes it as a circular telegram to the Entente governments. So began the exchange of notes later called the Constantinople Agreement or the Straits Agreement.
+
+## What Russia wanted
+
+The memorandum listed the demands precisely. Russia wanted to receive the city of Constantinople, the western shore of the [Bosporus](https://pl.wikipedia.org/wiki/Bosfor), the [Sea of Marmara](https://pl.wikipedia.org/wiki/Morze_Marmara) and the Dardanelles, and also southern [Thrace](https://pl.wikipedia.org/wiki/Tracja) up to a line from [Enez](https://pl.wikipedia.org/wiki/Enez) on the Aegean to Midia on the Black Sea. On the Asian side it demanded the coast between the Bosporus, the [Sakarya](https://pl.wikipedia.org/wiki/Sakarya_(rzeka)) river and a point on the Gulf of Izmit to be fixed later. To this were added the islands in the Sea of Marmara and [Imbros](https://pl.wikipedia.org/wiki/Imroz) and [Tenedos](https://pl.wikipedia.org/wiki/Bozcaada), lying at the entrance to the Dardanelles. The special rights of France and Britain in these territories were to be respected.
+
+This meant that both straits, linking the Black Sea with the Mediterranean, would be entirely in Russian hands. A considerable part of Russia's exports passed through the Bosporus and the Dardanelles, above all grain from the south of the empire, and since the autumn of 1914, when the Turks had closed the straits, Russia had been cut off from this route.
+
+## From free passage to annexation
+
+Only a few months earlier Sazonov had been saying something different. At the end of September 1914 he assured the Allied ambassadors that the Turks should remain in Constantinople and that a guaranteed free passage through the straits would be enough for Russia. When [Russia declared war on Turkey](/rosja-wypowiada-wojne-turcji), London assured Petrograd that the question of the straits and Constantinople would be settled in accordance with Russia's needs. Such a general assurance, however, was no longer enough for the Russians.
+
+On 1 March Sazonov explained to Buchanan and Paléologue that the question of Constantinople had inflamed the whole of Russian society and that the country now demanded a "radical solution". He recalled that King [George V](/postacie/jerzy-v) had recently told the Russian ambassador in London: "Constantinople must be yours." He considered that the time had come for Britain and France to declare this openly. On 3 March at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) Tsar [Nicholas II](/postacie/mikolaj-ii) repeated this to Paléologue even more emphatically. He could not, he said, demand of his people the terrible sacrifices of this war without giving them as a reward the fulfilment of their age-old aspirations. The city of Constantinople and southern Thrace must therefore be incorporated into his empire, although the Tsar was prepared to agree to a special administration of the city protecting the interests of foreigners.
+
+## Petrograd's haste
+
+The Russians were in a hurry because of events at the Dardanelles. Since 19 February British and French ships had been [bombarding the forts at the entrance to the strait](/poczatek-ataku-floty-na-dardanele), and at the beginning of March it seemed that the fleet might soon stand before Constantinople. In Petrograd it was feared that the Ottoman capital would be taken by the Allies and that Russia, tied down by the fighting in Poland and the Carpathians, would have no say. The participation of the Greeks was even more worrying. The Greeks regarded Constantinople as their former capital, and their prime minister Eleftherios Venizelos was just then seeking Greece's inclusion in the Dardanelles operation. As early as 3 March Sazonov informed the Allies that Russia would not agree to Greek troops taking part in an expedition against Constantinople.
+
+For Britain and France the Russian demand was a difficult one. Throughout the 19th century both powers had defended Turkey precisely to keep Russia from gaining the straits, and in the [Crimean War](https://pl.wikipedia.org/wiki/Wojna_krymska) they had fought her arms in hand. Now they had to choose between the tradition of their policy and loyalty to an ally who was suffering enormous losses in the war. A refusal might weaken Russia's will to go on fighting, or even induce her to seek a separate peace with Germany.
+
+## The secret agreement
+
+The Allies replied within a few weeks. They agreed to the Russian demands on condition that the war was brought to a victorious end and that their own wishes in the Ottoman Empire and elsewhere were fulfilled. The exchange of notes, which historians date in different ways, most often to 18 March or to the period from 4 March to 10 April 1915, was the first of the Entente's secret agreements on the partition of the Ottoman Empire. The world learned its content only in November 1917, when the Bolsheviks, after the [October Revolution](https://pl.wikipedia.org/wiki/Rewolucja_październikowa), published the secret documents of tsarist diplomacy. Russia never got Constantinople. The attack on the Dardanelles ended in failure, and the Bolsheviks, who took power after the fall of tsarism, renounced all the gains promised to tsarist Russia.

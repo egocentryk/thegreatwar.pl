@@ -21,7 +21,7 @@ Brytyjczykom chodziło o odcięcie kolonii od wszelkich dostaw z zewnątrz. Sił
 
 ## Okręty blokady
 
-Kilka dni później do wybrzeży Afryki Wschodniej przybył na starym pancerniku Goliath wiceadmirał Herbert King-Hall, dowódca stacji Przylądka Dobrej Nadziei, i objął dowództwo. Wybrzeże podzielono na trzy odcinki, a pilnowały go krążowniki lekkie Weymouth i Hyacinth, mniejsze krążowniki Pioneer i Pyramus, krążownik pomocniczy Kinfauns Castle oraz kilka mniejszych jednostek. Część z nich musiała zarazem strzec ujść Rufidżi, by Königsberg nie wymknął się na ocean. Ważnym oparciem stała się [zajęta w styczniu wyspa Mafia](/brytyjczycy-zajmuja-wyspe-mafia), leżąca naprzeciw delty.
+Kilka dni później do wybrzeży Afryki Wschodniej przybył na starym pancerniku Goliath wiceadmirał Herbert King-Hall, dowódca stacji Przylądka Dobrej Nadziei, i objął dowództwo. Wybrzeże podzielono na trzy odcinki, a pilnowały go krążownik lekki Weymouth, krążownik pancernopokładowy Hyacinth, mniejsze krążowniki Pioneer i Pyramus, krążownik pomocniczy Kinfauns Castle oraz kilka mniejszych jednostek. Część z nich musiała zarazem strzec ujść Rufidżi, by Königsberg nie wymknął się na ocean. Ważnym oparciem stała się [zajęta w styczniu wyspa Mafia](/brytyjczycy-zajmuja-wyspe-mafia), leżąca naprzeciw delty.
 
 ## Nieszczelny kordon
 

@@ -25,4 +25,4 @@ W mieście nie doszło do rzezi, jakie w tych samych dniach przeżywały chrześ
 
 ## Powrót Rosjan
 
-Okupacja nie potrwała długo. Po zwycięstwie pod [Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) Rosjanie mogli znów zająć się Persją. Ich oddziały pod dowództwem generała Fiodora Czernozubowa pod koniec stycznia rozbiły Turków i Kurdów pod Sufianem, na północ od miasta. 30 stycznia wojska rosyjskie ponownie weszły do Tebrizu. Kurdowie, odcięci od miasta, nie zdążyli go splądrować w czasie odwrotu. Tureckie i kurdyjskie oddziały utrzymały się jednak przez kolejne miesiące w Urmii i na południu perskiego Azerbejdżanu.
+Okupacja nie potrwała długo. Po zwycięstwie pod [Sarykamyszem](/bitwy/bitwa-pod-sarykamyszem) Rosjanie mogli znów zająć się Persją. Ich oddziały pod dowództwem generała Fiodora Czernozubowa pod koniec stycznia rozbiły Turków i Kurdów pod Sufianem, na północny zachód od miasta. 30 stycznia wojska rosyjskie ponownie weszły do Tebrizu. Kurdowie, odcięci od miasta, nie zdążyli go splądrować w czasie odwrotu. Tureckie i kurdyjskie oddziały utrzymały się jednak przez kolejne miesiące w Urmii i na południu perskiego Azerbejdżanu.
