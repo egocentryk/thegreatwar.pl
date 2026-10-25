@@ -6,7 +6,7 @@ country: Austro-Węgry
 side: Państwa centralne
 born: 1854-09-18
 died: 1941-01-08
-birthPlace: Udine (Wenecja Euganejska)
+birthPlace: Udine (Królestwo Lombardzko-Weneckie)
 deathPlace: Innsbruck
 aliases: [Victor Dankl, Viktor Dankl]
 wikiTitles: [Victor_Dankl]

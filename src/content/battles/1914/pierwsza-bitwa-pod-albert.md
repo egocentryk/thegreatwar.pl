@@ -17,7 +17,7 @@ tags: [Francja, Niemcy, wyścig do morza, Pikardia]
 milestone: false
 ---
 
-Pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) była drugim, po [bitwie w Pikardii](/bitwy/pierwsza-bitwa-w-pikardii), dużym starciem [wyścigu do morza](/bitwy/wyscig-do-morza). Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Ruprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Po kilku dniach walk żadna ze stron nie zdobyła przewagi, a wojska okopały się na wzgórzach między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Na tych samych polach w lipcu 1916 roku Brytyjczycy i Francuzi rozpoczęli [bitwę nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
+Pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) była drugim, po [bitwie w Pikardii](/bitwy/pierwsza-bitwa-w-pikardii), dużym starciem [wyścigu do morza](/bitwy/wyscig-do-morza). Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Po kilku dniach walk żadna ze stron nie zdobyła przewagi, a wojska okopały się na wzgórzach między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Na tych samych polach w lipcu 1916 roku Brytyjczycy i Francuzi rozpoczęli [bitwę nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
 
 ## Daty bitwy
 
