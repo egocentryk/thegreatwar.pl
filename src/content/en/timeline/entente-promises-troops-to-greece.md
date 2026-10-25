@@ -1,0 +1,20 @@
+---
+title: Entente promises troops to Greece
+summary: On 24 September 1915 the French and British ministers assured Venizelos that their countries would send 150,000 men. The first were to come from Gallipoli.
+source: ententa-obiecuje-grecji-wojska
+sourceHash: dee9851497035a6f51029dc53f32a4bf90fa1029
+---
+
+On 24 September 1915 the ministers of France and Great Britain in Athens, Jean Guillemin and Sir Francis Elliot, conveyed their governments' reply to the Prime Minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos). Both agreed to send the 150,000 men that [Venizelos had asked for three days earlier](/wenizelos-zada-150-tysiecy-zolnierzy-ententy). They were to take the place of the Serbian army, which, fighting the Austrians and Germans in the north, could not field the forces against Bulgaria agreed in the Greek-Serbian alliance. The Italian minister in Athens described the assurances as "satisfactory". The same day [Edward Grey](/postacie/edward-grey) told the Italian ambassador in London that Great Britain would meet Venizelos's wish and send a fairly large contingent, and France also a certain number of troops.
+
+## A reply with reservations
+
+The reply was not as simple as the ministers' words suggested. According to the British official history Grey first asked how many troops would be needed at Salonika for Greece to support Serbia fully if Bulgaria attacked her. He pointed out at the same time that landing 150,000 men would take a good deal of time, and that only small forces could be sent quickly. The French government replied that it was ready to provide troops, without going into detail or specifying what share it would take on itself. The history of Greece's part in the war published by the Greek General Staff states plainly that the Allies did not then have 150,000 men to spare.
+
+They did not have them because they were just beginning the largest offensive of the year in France, in Champagne and Artois, and on the Gallipoli peninsula their army was stuck in the trenches. The troops for Salonika therefore had to be taken from the Dardanelles. On 24 September Lord [Kitchener](/postacie/horatio-kitchener) proposed to the Dardanelles Committee that the positions at [Suvla](https://pl.wikipedia.org/wiki/Suvla) Bay be abandoned and two divisions, the 10th and 11th, be sent to Salonika. In a telegram to General [Ian Hamilton](/postacie/ian-hamilton), which reached him on the evening of 25 September, Kitchener wrote: "France and we have promised to send together the troops asked for, that is 150,000 men, and the matter is urgent." The French were to withdraw a brigade or a division from Cape Helles. Kitchener at the same time gave assurances that no one intended to abandon the peninsula, and that reinforcements from France would wait until the offensive in the west had been decided.
+
+## Venizelos still dissatisfied
+
+The promise did not solve the problem that mattered most in Athens. King [Constantine I](/postacie/konstantyn-i) regarded the [mobilisation signed the day before](/grecja-oglasza-mobilizacje) as armed neutrality, not preparation for war. The Italian minister reported that despite the Entente's assurances Venizelos was not satisfied and was telling everyone of his intention to resign. The Venizelist newspaper *Estia* wrote that evening that the difference of opinion between the King and the Prime Minister was so deep that the latter could not remain in office. In Athens it was believed that immediately after signing the decree the King had come under strong pressure from German, Austrian and Bulgarian diplomats.
+
+It soon became clear how fragile the understanding was. The very next day Elliot telegraphed to London that the King did not for the time being wish troops to be sent, although Venizelos was asking for the preparations to continue. The British protested against such methods, but got the transports ready. The first British and French troops landed at [Salonika](https://pl.wikipedia.org/wiki/Saloniki) only on 5 October. Instead of the promised 150,000, at first two divisions arrived: the French 156th and the British 10th.

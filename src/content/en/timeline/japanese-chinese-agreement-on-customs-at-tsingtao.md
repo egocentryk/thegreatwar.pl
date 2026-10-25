@@ -1,0 +1,20 @@
+---
+title: Japanese-Chinese agreement on customs at Tsingtao
+summary: On 6 August 1915 the reopening of the Chinese customs house at Tsingtao was agreed in Peking. The Japanese took over the privileges the Germans had held there.
+source: japonsko-chinskie-porozumienie-w-sprawie-cel-w-tsingtao
+sourceHash: b53105949c600845c0b2db830115ce95bf9681a4
+---
+
+On 6 August 1915 in Peking the Japanese minister Hioki Eki and the Inspector-General of the Chinese Maritime Customs Service, the Briton Francis Aglen, signed a short agreement on the reopening of the Chinese customs house at [Tsingtao](https://pl.wikipedia.org/wiki/Qingdao). It concerned the port in the former German leased territory of [Kiautschou](https://pl.wikipedia.org/wiki/Jiaozhou), which since [the German surrender in November 1914](/kapitulacja-tsingtao) had been under Japanese military administration. The signature of the head of the customs service, and not of a minister, was no accident. The Maritime Customs Service was an office of the Chinese government, but for decades it had been run by foreigners, mainly Britons. It collected duties in the ports open to foreign trade, and its revenues served as security for China's foreign loans.
+
+## A customs house in the German leased territory
+
+The customs house at Tsingtao had operated since 1 July 1899 under a German-Chinese agreement of 17 April that year. It was Chinese, but on terms favourable to the Germans. Its commissioner was to be a German, and as a rule its European officials too. Correspondence with the German authorities and merchants was conducted in German. Tsingtao was a free port: duties were paid only on goods crossing the border of the leased territory into China. An amendment of 1 December 1905 limited the duty-free zone to the port area, and in return China undertook to hand over to the German governor every year 20 per cent of the net revenue from import duties as a contribution to the costs of maintaining the territory.
+
+After taking Tsingtao the Japanese took over the customs building on 1 December 1914 and removed the German commissioner. On 28 December the Japanese military administration announced provisional regulations: until the Chinese customs house reopened, customs matters were to be handled by the Japanese garrison, the privileges and exemptions previously enjoyed by the Germans passed to Japan and the Japanese, and customs documents were to be drawn up in Japanese.
+
+## Four points
+
+The agreement of 6 August had only four points. The customs house at Tsingtao was to be reopened. The agreement of 1899 and the amendment of 1905 were henceforth in force between China and Japan, and the word "German" in them was replaced by "Japanese" wherever the principle of the agreement required it. In practice the commissioner and the European staff of the customs house were to be Japanese, and the Japanese authorities of the leased territory took over the right to 20 per cent of the import duties. The Japanese were to return to the Inspector-General the archives, money and property of the customs service they had seized, and also to hand over to him the duties collected since the occupation of the port, minus that 20 per cent.
+
+The agreement fitted into the [Sino-Japanese treaties of 25 May](/traktaty-chinsko-japonskie), in which China promised to recognise whatever Japan agreed with Germany concerning its rights in [Shantung](https://pl.wikipedia.org/wiki/Szantung). The war was still going on and no peace had formally transferred those rights to Japan, but in the matter of customs Tokyo was already stepping into Berlin's place. The customs house reopened on 1 September 1915, and according to Chinese studies its commissioner was Tachibana Masaki, previously an official of the customs house at [Dalian](https://pl.wikipedia.org/wiki/Dalian). The agreement lost its force only in 1922, when after the [Washington Conference](https://pl.wikipedia.org/wiki/Konferencja_waszyngtońska) Japan returned Kiautschou to China and the customs house at Tsingtao became an ordinary part of the Chinese Maritime Customs Service.

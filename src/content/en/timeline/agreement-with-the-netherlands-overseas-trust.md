@@ -1,0 +1,20 @@
+---
+title: Agreement with the Netherlands Overseas Trust
+summary: On 23 September 1915 London and the Netherlands Overseas Trust agreed import limits on fodder, fats, oils and wool. The Netherlands was put on British rations.
+source: porozumienie-z-holenderskim-trustem-zamorskim
+sourceHash: 757c6e25dafa256cd6d0889e63a199e97e32e15a
+---
+
+On 23 September 1915 the British government concluded an agreement with the [Netherlands Overseas Trust](/powstaje-holenderski-trust-zamorski) (NOT) that limited imports into the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) of a dozen or so important goods to the quantities the country needed. It covered maize and rye, linseed, oilcake and meal, animal and vegetable fats, oilseeds, lard, mineral oils, petroleum and its products, and raw wool. The British chronology of the war records this agreement only under 23 November 1915, but the British official history of the blockade, written by Archibald Bell on the basis of Foreign Office documents, gives the date 23 September. Three weeks earlier, on 1 September, a similar agreement had covered cotton.
+
+## Rations instead of court verdicts
+
+The idea of rationing Germany's neutral neighbours was simple. If the [British Retaliatory Order of March](/brytyjskie-rozporzadzenie-odwetowe) was to cut off all the enemy's trade, then a neutral country should receive only as much as it consumed itself. Anything above that quantity could find its way to Germany. Rationing had already been recommended by the [June conference of the Allies in Paris](/pierwsza-konferencja-aliantow-w-sprawie-wojny-gospodarczej), but it was difficult to introduce. The prize courts would not condemn cargoes on the basis of statistics alone, and firms of good reputation could prove that the goods were for them. Meanwhile, in the summer of 1915, British exports to the Netherlands were markedly greater than before the war.
+
+The solution turned out to be negotiations with private organisations. In July 1915 the NOT concluded a general agreement with the British in which it agreed to accept not only contraband but all overseas goods, and the principle of rationing was written into it. The directors of the trust undertook to limit imports of each commodity to the quantity needed in the country and to hold any surplus in warehouses. A [British Act of June](/brytyjska-ustawa-o-eksporcie-do-holandii) already allowed all exports to the Netherlands to be consigned to the trust. In August and September British statisticians prepared detailed tables of the imports of every important commodity into the neutral countries. The Contraband Department of the Foreign Office immediately made use of them in the negotiations then under way.
+
+## A dispute over figures
+
+The rations were calculated as the average imports of 1911–1913 less exports to Germany. The Dutch, led by the chairman of the trust's board, Joost van Vollenhoven, argued, however, that 1915 was not a normal year. The export of live cattle had been banned, the country was building up stocks for the winter and needed more fodder. According to Bell, the British proposed, for example, 600,000 tons of maize and rye a year, while the trust wanted 900,000 tons of maize alone. The greatest dispute was over oilseeds, from which the Dutch produced [margarine](https://pl.wikipedia.org/wiki/Margaryna), increasingly needed in Britain too. The British negotiators had to make large concessions. Bell observed that van Vollenhoven accepted the principle of rationing itself without argument, although it meant that the trade of a neutral country would be determined by the statisticians of a foreign, belligerent state.
+
+From the autumn of 1915 cargoes of these goods bound for the Netherlands were detained or released on the basis of statistics. From then on the Netherlands was rationed in all the commodities most important to its agriculture and textile industry. Further agreements with the trust, in 1916, extended the list to include, among others, cocoa, tin, hides and rice.

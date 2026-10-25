@@ -26,4 +26,4 @@ W Atenach rządził wtedy [Dimitrios Gunaris](/postacie/dimitrios-gunaris), któ
 
 ## Dalsze losy
 
-Lesbos pozostała bazą aliantów przez całą wojnę. Jesienią Wenizelos podsuwał ją nawet jako punkt pośredni dla wojsk Ententy kierowanych do Salonik. O jego przynależności przesądził dopiero [traktat w Lozannie](https://pl.wikipedia.org/wiki/Traktat_w_Lozannie) z 1923 roku, w którym Turcja uznała grecką władzę nad Lesbos i innymi wyspami egejskimi.
+Lesbos pozostała bazą aliantów przez całą wojnę. Jesienią Wenizelos podsuwał ją nawet jako punkt pośredni dla wojsk Ententy kierowanych do Salonik. O jej przynależności przesądził dopiero [traktat w Lozannie](https://pl.wikipedia.org/wiki/Traktat_w_Lozannie) z 1923 roku, w którym Turcja uznała grecką władzę nad Lesbos i innymi wyspami egejskimi.

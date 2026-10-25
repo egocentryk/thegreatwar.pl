@@ -1,0 +1,24 @@
+---
+title: First Calais conference
+summary: On 6 July 1915 the prime ministers of Britain and France met for the first time at Calais. Each side left with a different idea of what had been agreed.
+source: pierwsza-konferencja-w-calais
+sourceHash: e90d8c9dbe223522b5a484eb39b55e9a3292ae73
+---
+
+On 6 July 1915 the first conference of British and French ministers was held in [Calais](https://pl.wikipedia.org/wiki/Calais), convened to coordinate the war policy and strategy of the two countries. It was there that the prime ministers [Herbert Henry Asquith](/postacie/herbert-henry-asquith) and [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) met face to face for the first time. The British chronology of the war places this conference under 5 June 1915, but the British official history, the memoirs of [Winston Churchill](/postacie/winston-churchill), the archives of the Pas-de-Calais department and modern studies all give 6 July. None of these sources mentions a ministerial conference in Calais at the beginning of June.
+
+## Two visions of the war
+
+Until the summer of 1915 the two governments communicated mainly through ambassadors and soldiers, which proved too slow in a rapidly changing situation. Differences of opinion were also growing. The Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), and most of the British Cabinet wanted to confine themselves to the defensive on the Western Front until the spring of 1916, until the new volunteer armies reached France. The men and munitions that could be spared they wanted to send to Gallipoli. At the [first meeting of the Dardanelles Committee](/pierwsze-posiedzenie-komitetu-dardanelskiego) on 7 June it was decided to send three new divisions there, and General Ian Hamilton was preparing a new major operation with them. The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), had opposed the Dardanelles expedition and any undertakings outside France from the outset. He regarded the Western Front as the only decisive theatre of the war, and although the spring offensive in Artois had not brought a breakthrough, he was already planning the next one.
+
+## A railway carriage, broken French and no minutes
+
+The British were represented by Asquith, Kitchener and the First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour); the French by Prime Minister Viviani, the Foreign Minister [Théophile Delcassé](https://pl.wikipedia.org/wiki/Théophile_Delcassé), the War Minister [Alexandre Millerand](/postacie/alexandre-millerand) and Joffre. In the morning, before the talks opened, Kitchener spoke with Joffre in the railway carriage in which the French delegation had arrived. He promised him a timetable for the arrival of the new British divisions in France, which Joffre had been seeking for months.
+
+Viviani gave Asquith the honour of opening the conference. The British prime minister spoke in broken French, from a text hastily translated by one of the diplomats. The proceedings were conducted entirely in French, and the secretary of the Dardanelles Committee, [Maurice Hankey](/postacie/maurice-hankey), later called them chaos. General [Ferdinand Foch](/postacie/ferdinand-foch), who was responsible for cooperation with the British in the field, was not invited, because the French decided that the army was represented by Joffre alone. The British argued that no major offensive should be resumed in the west in 1915, and that operations in France and Flanders should be limited to active defence and local attacks. According to Churchill, the French, Joffre included, agreed to this openly and formally.
+
+## Each heard something different
+
+There were no secretaries at the conference and no minutes were taken, which soon took its revenge in the form of misunderstanding. The British left convinced that they had persuaded their allies to direct the main effort of that year towards Gallipoli. The French believed that the British had committed themselves to taking part in a major offensive in the west that same summer. Joffre, at any rate, did not interrupt his preparations for an attack in Champagne, and according to the British official history he eventually managed to persuade his own government to reject the British proposals.
+
+The next day, 7 July, the first inter-Allied military conference met at Joffre's headquarters in [Chantilly](https://pl.wikipedia.org/wiki/Chantilly). Under Millerand's chairmanship, the commanders and representatives of the French, British, Belgian, Italian, Russian and Serbian armies agreed only that each army would be active in its own way. The dispute from Calais was settled in August, when Kitchener, alarmed by Russia's defeats, agreed to British participation in the autumn offensive. On 25 September the [Battle of Loos](https://pl.wikipedia.org/wiki/Bitwa_pod_Loos) and the Second Battle of Champagne began simultaneously.

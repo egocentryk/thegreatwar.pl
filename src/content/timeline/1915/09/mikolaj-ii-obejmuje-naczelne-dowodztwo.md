@@ -11,7 +11,7 @@ milestone: true
 draft: false
 ---
 
-5 września 1915 roku (23 sierpnia według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) przyjechał do kwatery głównej, czyli Stawki, pod [Mohylewem](https://pl.wikipedia.org/wiki/Mohylew) i sam objął naczelne dowództwo armii rosyjskiej. Zastąpił wielkiego księcia [Mikołaja Mikołajewicza](/postacie/mikolaj-mikolajewicz), który [od początku wojny](/wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej) był naczelnym wodzem. Szefem sztabu nowego naczelnego wodza został generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), dotychczasowy dowódca Frontu Północno-Zachodniego.
+5 września 1915 roku (23 sierpnia według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) przyjechał do kwatery głównej, czyli Stawki, pod [Mohylewem](https://pl.wikipedia.org/wiki/Mohylew) i sam objął naczelne dowództwo armii rosyjskiej. Zastąpił wielkiego księcia [Mikołaja Mikołajewicza](/postacie/mikolaj-mikolajewicz), który [od początku wojny](/wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej) był naczelnym wodzem. Szefem sztabu nowego naczelnego wodza został generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), dotychczasowy dowódca Frontu Zachodniego.
 
 W rozkazie do armii i floty car ogłosił: „Dziś objąłem dowództwo nad wszystkimi siłami lądowymi i morskimi znajdującymi się na teatrze działań wojennych. Z mocną wiarą w łaskę Bożą i z niezachwianą pewnością ostatecznego zwycięstwa będziemy wypełniać nasz święty obowiązek obrony Ojczyzny do końca i nie zhańbimy ziemi rosyjskiej”. Według dziennika cara rozkaz i reskrypt do wielkiego księcia podpisał następnego dnia, ale z datą 23 sierpnia.
 

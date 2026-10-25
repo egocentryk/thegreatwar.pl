@@ -26,6 +26,6 @@ Wenizelos wykorzystał ten czas na rozmowy z Brytyjczykami. Grecki skarb był pu
 
 Nowy rząd był niemal wiernym odtworzeniem gabinetu, który odszedł w marcu. Wenizelos zatrzymał dla siebie także ministerstwo spraw zagranicznych. Najważniejszą zmianą było powierzenie resortu wojny generałowi [Panajotisowi Danglisowi](https://pl.wikipedia.org/wiki/Panajotis_Danglis), deputowanemu z Janiny i jednemu z najlepszych greckich dowódców. W Atenach mówiono, że w zamian za powierzenie mu władzy Wenizelos przyjął warunki króla: zachowanie neutralności i nienaruszalności greckiego terytorium. Włoski poseł nie umiał tego potwierdzić, choć uważał za prawdopodobne. Wenizelos zachowywał w tych dniach całkowite milczenie co do swoich zamiarów.
 
-## Pięćdziesiąt dni
+## Półtora miesiąca
 
 Drugi rząd Wenizelosa przetrwał niespełna siedem tygodni. We wrześniu Bułgaria ogłosiła mobilizację, a Wenizelos, powołując się na sojusz z Serbią z 1913 roku, doprowadził do mobilizacji greckiej armii i zgodził się na lądowanie wojsk Ententy w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki). Król uznał, że premier posunął się za daleko, i na początku października po raz drugi w ciągu roku zmusił go do dymisji. Konflikt dwóch najsilniejszych osobowości greckiej polityki znów się zaostrzył.

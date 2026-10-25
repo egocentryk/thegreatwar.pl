@@ -1,0 +1,26 @@
+---
+title: Ministry of Munitions
+summary: From 2 July 1915 Lloyd George's Ministry of Munitions, at work for a few weeks, could take control of factories and direct workers to jobs.
+source: ministerstwo-amunicji
+sourceHash: 40edb6ef5729d7c5e737a3f3fdefe23ae795db90
+---
+
+The British Ministry of Munitions was not created on 2 July 1915, although some lists give it under that date. [David Lloyd George](/postacie/david-lloyd-george) agreed to head it at the end of May, when [Asquith's coalition government](/rzad-koalicyjny-asquitha) was being formed. Parliament passed the act creating the ministry within a week, and on 9 June it received the royal assent. On the same day the document formally appointing Lloyd George minister was issued. On 16 June an order of the [Privy Council](https://pl.wikipedia.org/wiki/Tajna_Rada_Wielkiej_Brytanii) defined the ministry's responsibilities and transferred to it some of the officials of the War Office. On 2 July something else changed. Thanks to the [Munitions of War Act](/ustawa-o-amunicji-wojennej), the ministry, which until then had mainly organised and placed orders, gained real power over industry and workers.
+
+## Two tables and a chair
+
+Lloyd George did not wait for the legislation and began building the department immediately after his appointment. The ministry was given a house at 6 Whitehall Gardens, recently vacated by the art dealer Lockett Agnew. According to the minister's memoirs, its entire contents consisted of two tables and a chair. Before the ordered furniture arrived, officials from the Office of Works, the government's buildings department, turned up to remove even these, because they did not belong to the new ministry. In the end the minister was allowed to keep a table and a chair. Lloyd George had the mirrors that lined the former drawing room covered up, because visitors looked at themselves instead of listening. He began work with two private secretaries, J. T. Davies and Frances Stevenson.
+
+The act of 9 June defined munitions very broadly. They included anything needed for war purposes, including arms, ammunition, war materials and everything used to equip the army, for transport and for the production of armaments itself. The new minister was to collect orders, organise private industry and oversee supplies. Until then this had been the job of Lord [Herbert Kitchener](/postacie/horatio-kitchener)'s War Office, which in the critics' view was not coping with so great a task.
+
+## A ministry of businessmen
+
+Lloyd George later wrote that his ministry was "from first to last a businessman-organised department". On 14 June he announced in the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) that he would draw on the country's "business brains", both in London and in the provinces. The departments were headed by industrialists, engineers and financiers. The North Eastern Railway sent [Eric Geddes](/postacie/eric-geddes), who became deputy director-general of supply and was responsible for small arms. The first director-general was Sir Percy Girouard of the Armstrong firm, Kitchener's man, but he did not prove a success and left after a few weeks. There was also the businessman George Macaulay Booth, known as a "man of push and go", whom Kitchener had already brought in the spring onto the committee for increasing armaments production at the War Office. Labour matters were handled by officials of the Board of Trade, the ministry of commerce, among them Hubert Llewellyn Smith and William Beveridge, and the physician [Christopher Addison](https://pl.wikipedia.org/wiki/Christopher_Addison) became parliamentary under-secretary.
+
+On 23 June Lloyd George told MPs what he had managed to do. He had divided the country into ten munitions areas, in which production was managed by local committees of businessmen. The ministry's experts supplied them with patterns and specifications. As he said, in one of the areas where subcontractors had previously delivered about 10,000 shells a month, after reorganisation the firms were able to commit themselves to 150,000.
+
+## Power over the factories
+
+The act of 2 July gave the minister the tools he had lacked until then. He could bring establishments working for the army under control, limit their profits and approve changes in wages. He appointed the chairmen of tribunals that punished workers for breaches of discipline. At his disposal were the munitions volunteers, skilled workers who had undertaken to work wherever he sent them. Lloyd George also tried to get back from the army the skilled men who had enlisted in the first flush of enthusiasm, but here the ministry met resistance from the army. From July to the end of October 1915 only a little over 5,000 men returned from the ranks to the factories.
+
+The ministry grew quickly. At the end of August it was agreed that it would take over the state ordnance factories, and in March 1916 also responsibility for the design and research of armaments, which until then had been handled by the War Office. Lloyd George headed the ministry until July 1916, when after Kitchener's death he took over the War Office. By the end of the war the Ministry of Munitions employed, according to available estimates, about 65,000 officials and supervised the work of about 3 million workers.

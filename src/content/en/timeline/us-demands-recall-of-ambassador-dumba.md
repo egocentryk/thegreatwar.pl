@@ -1,0 +1,22 @@
+---
+title: US demands the recall of Ambassador Dumba
+summary: On 9 September 1915 the US demanded the recall of Austro-Hungarian ambassador Konstantin Dumba, who had proposed strikes in American munitions plants.
+source: usa-zadaja-odwolania-ambasadora-dumby
+sourceHash: 9bdea479cdfaafdda67c4cbeb56341f96a2bf338
+---
+
+On 9 September 1915 a special messenger from the [State Department](https://pl.wikipedia.org/wiki/Departament_Stanu_Stanów_Zjednoczonych) delivered to the Austro-Hungarian ambassador Konstantin Dumba in New York a copy of the note which Secretary of State [Robert Lansing](/postacie/robert-lansing) had cabled to Vienna the day before. In it the United States government declared that Dumba was no longer acceptable to it as the Emperor's representative and asked for his recall. It was an unusual step: a neutral power had declared the ambassador of a great power [persona non grata](https://pl.wikipedia.org/wiki/Persona_non_grata).
+
+## Archibald's papers
+
+The affair began on 30 August at [Falmouth](https://pl.wikipedia.org/wiki/Falmouth_(Anglia)) in Cornwall. The Dutch liner *Rotterdam*, sailing from New York to the Netherlands, put in there. The British naval authorities detained one of the passengers, the American war correspondent James F. J. Archibald, on a charge of performing "unneutral service". Archibald was carrying letters from the German and Austro-Hungarian embassies in Washington to the foreign ministries in Berlin and Vienna. The British confiscated the documents and let him continue his journey. At the beginning of September the contents of the letters reached the press.
+
+The most damaging proved to be Dumba's handwritten letter to the Austro-Hungarian foreign minister [István Burián](/postacie/istvan-burian), dated New York, 20 August. In it the ambassador forwarded a memorandum from the editor-in-chief of *Szabadság*, an influential Hungarian-language daily in America, with a plan for fomenting strikes at the [Bethlehem Steel](https://pl.wikipedia.org/wiki/Bethlehem_Steel) works and at factories in the Midwest. Many immigrants from Austria-Hungary worked there. Dumba wrote that even if munitions production could not be stopped altogether, it could be seriously disorganised for months, which in the opinion of the German military attaché was of great importance and amply outweighed the relatively small cost. He also presented the plan as a fight for better conditions for "our poor, oppressed compatriots", who at Bethlehem worked twelve hours a day, seven days a week. He asked Burián for quick approval by wireless.
+
+Among Archibald's papers there was also a letter from the German embassy's military attaché [Franz von Papen](https://pl.wikipedia.org/wiki/Franz_von_Papen) to his wife, in which the captain wrote dismissively of the "idiotic Yankees".
+
+## The note
+
+Dumba did not deny that the letter was genuine. On the morning of 8 September he asked the State Department for a copy of the translation, because the newspapers, he claimed, were printing falsified versions. "These newspapers are a nightmare," he wrote. That same afternoon Lansing sent the US ambassador in Vienna, Frederic Penfield, a note to be handed at once to the Austro-Hungarian ministry. It stated that Dumba had admitted proposing to his government plans to instigate strikes in American plants producing munitions, and to employing as a secret courier an American citizen with an American passport, who carried his correspondence through the lines of Austria-Hungary's enemy. Because of the intention to "cripple legitimate industries" of the United States and the "flagrant violation of diplomatic propriety", President [Woodrow Wilson](/postacie/woodrow-wilson) had directed that it be stated that Dumba was no longer acceptable as ambassador. The US government expressed its deep regret and gave assurances of its wish to maintain friendly relations with Austria-Hungary.
+
+Dumba was an experienced diplomat. He had entered the foreign service in 1879, had been envoy in Belgrade and Stockholm, and had presented his credentials in Washington in April 1913. Now his mission was coming to an end. Vienna, however, did not want to recall its ambassador without hearing him, so the formalities were to drag on for several more weeks. The Archibald affair also damaged Germany: Papen's letter and his role in the strike plan drew American attention to the activities of the German attachés, which a few months later ended in their expulsion.

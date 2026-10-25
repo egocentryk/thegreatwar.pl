@@ -1,0 +1,22 @@
+---
+title: Dumba recalled from the United States
+summary: On 28 September 1915 the State Department asked Britain and France for safe conduct for Ambassador Dumba, whom Vienna had finally recalled from Washington.
+source: dumba-odwolany-ze-stanow-zjednoczonych
+sourceHash: 0b6af3bb4ce2787649776dc563f08c5e30d97294
+---
+
+On 28 September 1915 the [State Department](https://pl.wikipedia.org/wiki/Departament_Stanu_Stanów_Zjednoczonych) asked the British and French embassies in Washington for safe-conducts for the Austro-Hungarian ambassador, Konstantin Dumba. This brought to an end a dispute over his recall that had lasted almost three weeks. The day before, Dumba had announced by telegram that he was ready to leave in accordance with his government's instructions. He asked for safe passage for himself and his valet on the Dutch liner *Nieuw Amsterdam*, which was due to sail from New York on 5 October.
+
+## Vienna delays
+
+When [on 9 September](/usa-zadaja-odwolania-ambasadora-dumby) the United States demanded Dumba's recall over a plan to provoke strikes in munitions factories, the Austro-Hungarian government was in no hurry to reply. On 13 September Dumba, through the German ambassador [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff), sent the Foreign Minister, [István Burián](/postacie/istvan-burian), a cipher telegram asking to be summoned to Vienna on leave to report in person. The next day Vienna asked whether the Americans would obtain a safe-conduct for him from the British and French if he were to come and give an explanation orally. Secretary of State [Robert Lansing](/postacie/robert-lansing) replied that he would do so only once Dumba had been definitively recalled.
+
+In Vienna this was received with resentment. On 19 September Burián's deputy, Baron Karl von Macchio, expressed to the US ambassador, Frederic Penfield, his surprise that the American note had appeared in the British, French and German press at the same time as it reached the ministry. He gave assurances that Austria-Hungary had no thought of keeping in Washington an ambassador who had become persona non grata, but that the Emperor's representative could not be recalled without his report being heard. Meanwhile, in America and in London, another of Dumba's letters from Archibald's briefcase was published, in which the ambassador wrote of President [Woodrow Wilson](/postacie/woodrow-wilson)'s "self-willed temperament". On 22 September Washington renewed its demand for immediate recall. The same day Dumba announced that his government had granted him leave and asked for a safe-conduct for a sailing on 28 September. The State Department refused until Vienna replied to the note.
+
+## "The recall is final"
+
+On the evening of 24 September Penfield had a long conversation with Burián. The minister was in a bad mood and expressed surprise that Washington was taking such important decisions on the basis of evidence supplied by Austria-Hungary's enemy. He clearly avoided the word "recall", speaking of a "summons for consultation" and of "leave". He admitted, however, that Dumba had committed a "grave diplomatic indiscretion" and would not return to Washington. Penfield asked whether this did not in practice amount to recall. Burián conceded that it did and approved a telegram prepared by the Americans stating that Dumba's recall was final. The minister wanted the ambassador to leave by 28 September.
+
+The cipher telegram ordering Dumba's return to Vienna reached him on 25 September. As late as 27 September the ambassador said by telephone that he had been told to wait, but the same day he confirmed that he was ready to leave. The State Department then applied for the safe-conducts. The British replied that they did not regard women as combatants, so the ambassador's wife could travel unhindered. On 30 September Burián delivered the formal reply to the American note. He accepted that Dumba was no longer welcome in Washington, but protested against the ambassador's correspondence with his own government, which had fallen into foreign hands by chance, being made the subject of official criticism.
+
+On 1 October the British and French confirmed that their warships would not stop Dumba on his way to Europe, provided he refrained from acts violating neutrality. On 5 October Dumba and his wife sailed from New York. Formally, Emperor [Franz Joseph I](/postacie/franciszek-jozef-i) recalled him from his post only on 4 November. After returning to Vienna Dumba withdrew from the diplomatic service.

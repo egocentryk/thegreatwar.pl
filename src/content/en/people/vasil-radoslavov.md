@@ -1,0 +1,46 @@
+---
+name: Vasil Radoslavov
+summary: Bulgarian Prime Minister 1913–1918. For a year he steered between the Entente and Germany; in September 1915 he signed the alliance that took Bulgaria to war.
+role: Prime Minister of Bulgaria (1886–1887, 1913–1918) and Minister of Foreign Affairs (1913–1918)
+country: Bulgaria
+birthPlace: Lovech (Ottoman Empire, now Bulgaria)
+deathPlace: Berlin (Germany)
+source: wasil-radoslawow
+sourceHash: 74acc455d46a8c94ec1c76cddc384a2d71798433
+---
+
+Vasil Radoslavov was Prime Minister of Bulgaria for almost the whole of its war, from July 1913 to June 1918, and for most of that time he also directed its diplomacy. An experienced lawyer and leader of the Liberals, known after him as Radoslavists, he had admired Germany and distrusted Russia since his youth. Together with Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) he kept the country neutral for a year while negotiating with both sides, and on 6 September 1915 he signed the alliance with Germany that hurled Bulgaria against Serbia. He fell in the spring of 1918, when the peace with Romania disappointed the Bulgarians. After the war he fled to Germany, and at home he was convicted in absentia as one of those guilty of the second national catastrophe.
+
+## Before the war
+
+He was born on 27 July 1854 (15 July in the Julian calendar) in [Lovech](https://pl.wikipedia.org/wiki/Łowecz) in northern Bulgaria, then part of the Ottoman Empire, into a teacher's family. He was educated in Gabrovo and at Czech schools in Písek and Prague, taught in schools himself for several years, and after the country's liberation in 1878 went to study law in Vienna and [Heidelberg](https://pl.wikipedia.org/wiki/Uniwersytet_w_Heidelbergu), graduating in 1882. The German universities shaped his views for the rest of his life.
+
+He was one of the young leaders of the Liberal Party. From 1884 to 1886 he was Minister of Justice in the government of [Petko Karavelov](https://pl.wikipedia.org/wiki/Petko_Karawełow). After the coup of August 1886 and the abdication of Prince Alexander of Battenberg he became head of the government and, at 32, the youngest prime minister in Bulgaria's history. He stepped down in July 1887 amid accusations of corruption, and his supporters formed a separate [Liberal Party, known as the Radoslavists](https://pl.wikipedia.org/wiki/Partia_Liberalna_(radosławiści)). For years it was in opposition to the government of [Stefan Stambolov](https://pl.wikipedia.org/wiki/Stefan_Stambołow). In 1899–1900 Radoslavov was Minister of the Interior and at that time suppressed peasant revolts against a new tax. For abuses during this period a state court sentenced him in 1903 to several months in prison, but he was soon amnestied.
+
+He returned to power after the defeat in the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska). On 17 July 1913 the Tsar entrusted him with a coalition government of three liberal parties, which had to conclude the humiliating [Peace of Bucharest](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1913)). From December 1913 Radoslavov also headed the Ministry of Foreign Affairs. According to historians, the Tsar valued him precisely for his hostility to Russia, which was blamed for the defeat, and the two worked closely together on foreign policy. The government had little support in parliament and had to dissolve the chamber several times before it won a majority there.
+
+## Summer 1914: German money
+
+The most pressing matter was finance. The empty treasury needed a loan, and talks with France came to nothing. In July 1914 Radoslavov's government concluded with a consortium of German banks an [agreement for a loan of 500 million francs](/niemiecka-pozyczka-dla-bulgarii), on harsh terms that gave the Germans a railway and a port on the Aegean as well as the state coal mines. Ratification took place amid shouting and brawls by the opposition, and its legality was disputed for a long time. The loan did not immediately decide the choice of ally, but it bound Sofia to Berlin, which could from then on dole out further instalments.
+
+## A year of manoeuvring
+
+On the outbreak of war Bulgaria declared its neutrality, and Radoslavov became the object of both sides' courtship. The Entente [promised](/demarche-ententy-w-atenach-sofii-i-bukareszcie) eastern Thrace up to the Enos–Midia line and part of Macedonia. The Prime Minister replied politely but evasively. In December 1914 he argued in parliament that the country would get little for neutrality alone. When in August 1915 the envoys of the four powers made a [new offer](/ententa-oferuje-serbii-nabytki-terytorialne), Radoslavov was in no hurry to reply, and a few days later the German banks [resumed payments](/bulgaria-zaciaga-pozyczke-w-niemieckich-bankach). The Central Powers could promise more because they were paying at someone else's expense: they offered Bulgaria the whole of Serbian Macedonia.
+
+On 6 September 1915 Radoslavov and the German envoy signed in Sofia a [treaty of alliance](/traktat-sojuszniczy-w-sofii) together with a secret agreement on Bulgaria's reward. On the same day the Prime Minister signed with the Ottoman envoy Ali Fethi a [border convention](/konwencja-graniczna-w-didimoticho), under which Turkey ceded to Bulgaria a strip of land along the Maritsa. All this was done in secret. When [on 21 and 22 September](/bulgaria-postanawia-oglosic-mobilizacje) the government ordered mobilisation, Radoslavov assured the neighbours that it was a matter of "armed neutrality", not of war with Serbia. On 4 October the envoys of Russia, France and Britain came to him with an [ultimatum](/ultimatum-ententy-dla-bulgarii). The Prime Minister replied that he could not send away German officers "who are not there". Ten days later he countersigned the Tsar's manifesto on [war with Serbia](/bulgaria-i-serbia-wypowiadaja-sobie-wojne).
+
+## Prime Minister of wartime Bulgaria
+
+The first years of the war looked like a triumph for his policy. In a few weeks the Bulgarians and Germans conquered Serbia, and Bulgaria occupied Serbian Macedonia and the Morava valley. In the summer of 1916 Radoslavov repeated the previous year's move. He assured the Entente "in the most official manner" that Bulgaria would not attack Romania, and on 1 September, when Romania struck at Austria-Hungary, he [declared war on it](/bulgaria-wypowiada-wojne-rumunii). In November he boasted in parliament that he had lulled the Romanian envoy with promises and, when the time came, "fell upon the Romanians". From September 1916 he again also headed the Ministry of the Interior.
+
+Victories, however, were followed by hunger, high prices and dependence on Germany, which was exporting food from the country. The government was regarded as corrupt. In February 1918 Radoslavov signed at Brest the [peace with Ukraine](/pokoj-brzeski-z-ukraina), and in May he took part in concluding the [Peace of Bucharest](/pokoj-w-bukareszcie). The latter became his downfall. The Bulgarians expected the whole of Dobruja, but got only its southern part with a narrow strip in the north, because the Turks demanded in return the restitution of the lands along the Maritsa. Radoslavov, mindful of the inflamed public opinion, refused any concessions to the Turks. At home the peace was seen as a failure of the government. In mid-June 1918 the Prime Minister [resigned](/dymisja-radoslawowa), and on 21 June the Tsar appointed the cabinet of [Aleksandar Malinov](/postacie/aleksandyr-malinow). In Berlin this was received with concern, as Germany's most loyal ally in Sofia was leaving.
+
+## After the war
+
+After the [Armistice of Salonica](/rozejm-w-salonikach) and the Tsar's abdication Radoslavov left for Germany at the beginning of October 1918, according to German accounts disguised as a German officer. The government of Aleksandar Stamboliyski put members of the wartime cabinets on trial before a state court. In 1923 the court convicted Radoslavov in absentia. Bulgarian sources speak of life imprisonment, some Western ones of a death sentence. In Berlin he published his memoirs in German, "Bulgarien und die Weltkrise" (1923), in which he defended his policy. In the summer of 1929 he was covered by an amnesty, but he never returned to the country. He died in Berlin on 21 October 1929 and was buried in Sofia on 3 November.
+
+## Assessment
+
+In Bulgaria Radoslavov was long regarded as the chief culprit, alongside the Tsar, of the defeat of 1918. He was accused of making the country dependent on Germany, and his government, which tolerated corruption and failed to cope with supplies, of driving society to hunger and revolt. The Entente saw him as a cynical player who had beguiled it with promises until he was ready for war.
+
+Historians point out, however, that the main decisions were taken in agreement with Ferdinand, who conducted foreign policy largely in person, and that the war aim, the recovery of Macedonia, was supported by most Bulgarians. They credit him with skill in negotiation: Bulgaria entered the war at what seemed at the time the most favourable moment and with the most extensive promises. The weakness of his policy was that he staked everything on the victory of one side and did not prepare the country for a long war.
