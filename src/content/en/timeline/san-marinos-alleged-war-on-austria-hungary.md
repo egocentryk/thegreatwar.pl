@@ -1,0 +1,30 @@
+---
+title: San Marino's alleged war on Austria-Hungary
+summary: According to a British chronology, on 3 June 1915 San Marino declared war on Austria-Hungary. The republic did not do so, however, and was formally neutral.
+source: rzekoma-wojna-san-marino-z-austro-wegrami
+sourceHash: f8b8c828036f0a5e2d319205a40db2086abf8ef7
+---
+
+A British chronology of the war records under 3 June 1915 that [San Marino](https://pl.wikipedia.org/wiki/San_Marino) declared war on Austria-Hungary. The same information is repeated by many lists of declarations of war from 1914–1918, and newspapers were already writing in June 1915 about the tiny republic that had gone into battle alongside Italy, among them "[The New York Times](https://pl.wikipedia.org/wiki/The_New_York_Times)". According to the historians of San Marino and most studies, however, there was no declaration of war. Neither the Great and General Council nor the Captains Regent at the head of the state proclaimed a state of war, and the republic remained formally neutral throughout the conflict. Something else lay behind the report: an outburst of enthusiasm for Italy's war and a volunteer enlistment in the Italian army, which Vienna took as proof that San Marino had sided with the enemy.
+
+## An enclave beside a belligerent neighbour
+
+San Marino, lying on the slopes of [Monte Titano](https://pl.wikipedia.org/wiki/Monte_Titano) not far from [Rimini](https://pl.wikipedia.org/wiki/Rimini), then had about 10,000 inhabitants and was surrounded on all sides by the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)). The republic's independence had been confirmed by a treaty with Italy of 1862, amended in 1872. Its economy was entirely dependent on its neighbour, which under a convention of February 1914 paid it 360,000 lire a year.
+
+As Italy prepared for war, Rome began to look at its neutral neighbour with suspicion. At the beginning of 1915 the Italian government accused the republic's authorities of operating a wireless station on the summit of Monte Titano that Austrian spies could use. According to the Sammarinese historian Verter Casali, the station had been built a year earlier for his own amusement by a local professor, Borbiconi, who dismantled it when he realised the fears it aroused. Italy also feared that deserters and draft evaders would take refuge in the republic, and that Italian peasants would begin hiding horses and carts there from military requisitioning.
+
+## Carabinieri and telephones
+
+On 24 May 1915, the first day of the war, Italy proposed an agreement to San Marino. Citizens of the republic were to be treated like Italians rather than as foreigners, and their horses and vehicles were to be exempt from requisitioning. In return the republic was to allow nothing that might harm the Italian cause, to hand over to Italy deserters and conscripts who had failed to report, and to pass on data about Italians living within its borders. On 1 June four Italian [carabinieri](https://pl.wikipedia.org/wiki/Karabinierzy) arrived in San Marino to set up a post there. The republic's authorities regarded this as a violation of sovereignty and managed to send them away. Italy responded by cutting telephone connections and censoring the post, explaining that such measures were applied in wartime to every foreign state. San Marino then set up its own carabinieri post in Serravalle, subordinate to the republic's authorities, and in the following months laboriously negotiated with Rome for an easing of the controls.
+
+## Volunteers
+
+Among the republic's inhabitants, however, supporters of the war predominated. The opponents of intervention were mainly socialists. On 4 June 1915 the student [Giuliano Gozi](https://pl.wikipedia.org/wiki/Giuliano_Gozi), later the leader of the local fascists and long-serving secretary of state, issued an appeal in which he extolled Italy's war and called on the youth of San Marino to support it at the front. It was this private appeal, and not any act of state, that later passed for a "declaration of war". According to Casali, ten young men volunteered for the Italian army at that time, among them Gozi himself. Two of them, Carlo Simoncini and Sady Serafini, were killed fighting the Austrians on the Isonzo front. At the beginning of June a committee was also formed to aid fighting Italians and their families, and on 23 June Captain Regent Moro Morri publicly praised the war, from which Italy was to emerge "stronger and greater".
+
+Enthusiasm was also fuelled by the question of the island of [Rab](https://pl.wikipedia.org/wiki/Rab_(wyspa)), Arbe in Italian, off the coast of Dalmatia. According to tradition it was the home of Saint Marinus, a stonemason who at the beginning of the 4th century founded a hermitage on Monte Titano from which the republic grew. The people of San Marino hoped that after the war the island would go to Italy. They did not know that in the secret [Treaty of London](/wlochy-podpisuja-pakt-londynski) of April 1915 the Entente had assigned Arbe not to Italy but to a future Croatia.
+
+## Vienna's reaction
+
+In Vienna the appeal, the volunteers and the passivity of the authorities, who did not stop them, were taken as proof that the republic was only pretending to be neutral. According to some sources, Austria-Hungary broke off or froze relations with San Marino as early as 1915, and Sammarinese living in the Monarchy were interned or sent back to Italy. Other authors link the break to a later period, when San Marino sent its own field hospital to the Italian front. It operated from 1917 until the end of the war and, according to Sammarinese sources, in July 1918 gave first aid to a wounded American Red Cross volunteer, [Ernest Hemingway](https://pl.wikipedia.org/wiki/Ernest_Hemingway).
+
+The rumour of San Marino's war with Austria-Hungary proved durable. As late as 1940 the American weekly "Time" wrote that the republic had entered the war together with Italy and then forgotten to send delegates to the peace conference. In reality San Marino never entered a state of war, so it had no one to make peace with either.

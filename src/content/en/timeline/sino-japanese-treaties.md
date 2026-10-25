@@ -1,0 +1,28 @@
+---
+title: Sino-Japanese treaties
+summary: On 25 May 1915 in Peking, China and Japan signed treaties on Shantung and on South Manchuria and eastern Inner Mongolia.
+source: traktaty-chinsko-japonskie
+sourceHash: 419b42799e31570cdd41021e14d6b6b1246b0564
+---
+
+The British chronology of the war records two separate events under 25 May 1915: the signing of the Sino-Japanese treaty on the province of [Shantung](https://pl.wikipedia.org/wiki/Szantung) and of the treaty on South [Manchuria](https://pl.wikipedia.org/wiki/Mandżuria) and the eastern part of [Inner Mongolia](https://pl.wikipedia.org/wiki/Mongolia_Wewnętrzna). Both agreements were signed on the same day in Peking by the same men: the Japanese minister Hioki Eki, on behalf of Emperor [Yoshihito](https://pl.wikipedia.org/wiki/Yoshihito), and the Chinese foreign minister [Lu Zhengxiang](https://pl.wikipedia.org/wiki/Lu_Zhengxiang), on behalf of President [Yuan Shikai](https://pl.wikipedia.org/wiki/Yuan_Shikai). They were supplemented by 13 exchanges of notes. All these documents, known in China as the "treaties of the fourth year of the Republic", closed the dispute over the [Twenty-One Demands](https://pl.wikipedia.org/wiki/Dwadzieścia_jeden_żądań) that had been going on since January. They gave legal form to what China had [accepted on the night of 8–9 May](/chiny-przyjmuja-zadania-japonii) under the threat of a Japanese ultimatum.
+
+## Shantung and Kiautschou
+
+In the Shantung treaty China undertook to recognise everything that Japan might agree with Germany concerning German rights, interests and concessions in the province. In practice this meant that after the war Japan was to take over the German position in Shantung, which it had captured [in the autumn of 1914](/kapitulacja-tsingtao). If China wished to build a railway from [Yantai](https://pl.wikipedia.org/wiki/Yantai) or Longkou to the Kiautschou–Jinan line, and Germany gave up its rights, the capital was to come from the Japanese. China also promised to open several towns in the province to foreigners, and in a separate note undertook not to lease or cede the coast of Shantung or the islands off it to any foreign power.
+
+Japan for its part made a declaration concerning the leased territory of [Kiautschou](https://pl.wikipedia.org/wiki/Jiaozhou) with the port of Tsingtao. If after the war it obtained full freedom to dispose of it, it would return it to China, but on conditions: the whole of Kiautschou would be opened to trade, a Japanese concession would be established at a place designated by Japan and, if the powers so wished, an international settlement as well. The fate of the German property was to be settled by the two governments before the return.
+
+## Manchuria and Mongolia
+
+The second treaty extended to 99 years the Japanese lease of Port Arthur and [Dalian](https://pl.wikipedia.org/wiki/Dalian) and the rights to the South Manchuria Railway and to the line from Andong to [Mukden](https://pl.wikipedia.org/wiki/Shenyang). According to an attached note, the lease was to expire in 1997, the rights to the South Manchuria Railway in 2002, and those to the Andong–Mukden line in 2007. The Japanese could now travel, settle and do business freely in South Manchuria and lease land there for buildings and farming, for periods of up to 30 years with the right of unconditional renewal. In eastern Inner Mongolia joint Sino-Japanese agricultural enterprises were envisaged. The Japanese were to be subject to Chinese police and taxes, but in judicial matters kept consular protection. At China's request the entry into force of these provisions was postponed by three months.
+
+The notes supplemented the treaty with further privileges. China promised that whenever it needed foreign capital for railways in the region, or loans secured on local taxes, it would turn first to the Japanese, and that when employing foreign advisers in South Manchuria it would give preference to the Japanese. The Japanese were also to be allowed to prospect for and work several deposits of coal, iron ore and gold in the provinces of Fengtian and Jilin. The treaty itself also provided for the revision of the agreements on the railway from Changchun to Jilin in Japan's favour.
+
+## Hanyeping and Fujian
+
+Two notes concerned matters outside these regions. China undertook to approve future agreements between the great Hanyeping mining and iron-and-steel company and Japanese investors, not to confiscate or nationalise it without their consent, and not to allow it to contract foreign loans other than Japanese ones. As regards the province of [Fujian](https://pl.wikipedia.org/wiki/Fujian), opposite Taiwan, China declared that it would not allow any foreign power to build a shipyard, coaling station, naval base or other military installation on its coast, nor build them itself with foreign money. The remaining points of the fifth group of demands were formally postponed until later.
+
+## An enforced peace
+
+The treaties came into force on the day of signing. The Japanese Emperor ratified them on 7 June, and the next day the instruments of ratification were exchanged in Tokyo. The Chinese regarded them as imposed by force and never accepted them. The dispute over Shantung returned after the war: at the [Paris Peace Conference](https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Paryżu_(1919–1920)) the powers awarded the German rights in the province to Japan, which in 1919 sparked the [May Fourth Movement](https://pl.wikipedia.org/wiki/Ruch_4_Maja) in China. Kiautschou returned to China only after the [Washington Conference](https://pl.wikipedia.org/wiki/Konferencja_waszyngtońska) in 1922, and Japan kept its lease in Manchuria until its defeat in 1945.

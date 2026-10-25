@@ -1,0 +1,22 @@
+---
+title: Allies abandon the march on Jaunde
+summary: On 7 June 1915 Gen. Dobell, still without news of Aymerich's columns, halted the march on Jaunde. Col. Mayer's troops were to fall back to the Ndupe river.
+source: alianci-rezygnuja-z-marszu-na-jaunde
+sourceHash: 6dd24a1a61c2c6c4de7cdd0de955ad888f51ce4a
+---
+
+On 7 June 1915 General Charles Dobell, commander of the Anglo-French expedition in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), decided to break off the advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), the seat of the colony's German administration. Colonel Mayer's column, which since the beginning of May had been [forcing its way from the Kele river into the forest](/pierwszy-marsz-na-jaunde), was to halt and fall back to the Ndupe river. He took the decision in [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) after no news arrived from Brazzaville about the French troops of General Joseph Aymerich, who were to strike at Jaunde from the south-east.
+
+## Nineteen days in the forest
+
+The last stage of the march began on 25 May, when the French and British troops set out east from the camp at Wum Biagas. Their way lay along a single road through dense tropical forest and swamps, and Major Haedicke's Germans defended every hill and every ford. The British, taking turns with the French at the head of the column, lost only four men in the fighting at Ngok from 27 to 30 May, but advanced only a few kilometres a day. On 28 May the Germans struck at the supply line and routed a returning convoy. The British commandant of the line of communications, Major Meyer-Griffith, was killed. From 31 May to 4 June the column was held up by a strong position at Matem, protected on both sides by swamps. The French lost 22 men in front of it, and only Captain Deslaurens's detachment, sent round the flank, forced the defenders to withdraw.
+
+Worse than German bullets was disease. According to the British official history of the campaign, between 25 and 31 May the British units alone had to send ten Europeans and fifty African soldiers to the rear, mainly with [dysentery](https://pl.wikipedia.org/wiki/Dyzenteria). The men slept without tents in the downpours of the rainy season. By 5 June the column had moved only about 12 miles (under 20 km) from Wum Biagas.
+
+## Mayer's report and Brazzaville's silence
+
+On 4 June Dobell received a report Mayer had written the day before. The colonel, and with him the commander of the British contingent, Lieutenant-Colonel Haywood, and the French commandant Mechet, concluded that disease, difficult terrain, downpours and fierce German resistance ruled out any chance of reaching Jaunde. Mayer proposed halting on the Puge river, a dozen or so kilometres beyond Matem, and waiting there for Aymerich's troops to arrive. As late as 2 June Dobell had decided to send him reinforcements and additional porters, but now he began to reckon with a withdrawal.
+
+On 5 June the general telegraphed the Governor-General of [French Equatorial Africa](https://pl.wikipedia.org/wiki/Francuska_Afryka_Równikowa), Martial Merlin, in [Brazzaville](https://pl.wikipedia.org/wiki/Brazzaville), that if Aymerich was making no progress, the column would have to be withdrawn to the line of the Kele river. The answer came on 7 June: Brazzaville had no new information from southern Kamerun. That same day Mayer reported that he had at least four German companies in front of him and that the number of sick was rising at an alarming rate. Dobell therefore sent him an order to withdraw to the Ndupe, from where the troops were to hold the Sende–Ndupe or So Dibanga–Ngwe line until news of Aymerich's progress allowed the advance to be resumed. The order was carried by Colonel Rose, who had set out with reinforcements for the column the day before.
+
+Meanwhile Mayer's troops were still fighting. On 5 June the British, after five hours of fighting, took a position less than a mile and a half from their bivouac, and on 6 June they advanced another mile and a half. On 7 June the French took the lead and after several hours of fighting reached the next strong German position on the Puge, where they were stuck for several days. On 8 June Dobell went to [Edéa](https://pl.wikipedia.org/wiki/Edéa) and informed the War Office in London that the column had to be withdrawn so that it could be quartered and fed. The withdrawal itself was hastened a few days later by a German ambush on a food convoy. The Allies returned to Jaunde only in the next offensive, after the rainy season.

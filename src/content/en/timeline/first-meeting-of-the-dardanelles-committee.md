@@ -1,0 +1,26 @@
+---
+title: First meeting of the Dardanelles Committee
+summary: On 7 June 1915 the Dardanelles Committee met for the first time. Kitchener persuaded it to send Hamilton three New Army divisions and new warships.
+source: pierwsze-posiedzenie-komitetu-dardanelskiego
+sourceHash: 2d8c84bb76da28f8254e926ea7d0f9dfe5cff5b7
+---
+
+On the afternoon of 7 June 1915 the Dardanelles Committee, the British government's new body for the conduct of the war, met for the first time in London. It replaced the War Council, which had [last met on 14 May](/ostatnie-posiedzenie-rady-wojennej). Since then the purely Liberal government had fallen and been replaced by a [coalition cabinet](/rzad-koalicyjny-asquitha) that included the Conservatives. During those three weeks nobody had decided what to do next with the expedition to [Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), although General [Ian Hamilton](/postacie/ian-hamilton)'s request for reinforcements had been awaiting an answer since 17 May.
+
+## Nine ministers
+
+According to [Winston Churchill](/postacie/winston-churchill), the committee consisted of nine ministers, Liberals and Conservatives. They were the Prime Minister, [Herbert Henry Asquith](/postacie/herbert-henry-asquith); the Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener); the new First Lord of the Admiralty, [Arthur Balfour](/postacie/arthur-balfour); the Colonial Secretary, [Andrew Bonar Law](/postacie/andrew-bonar-law); [Lord Lansdowne](https://pl.wikipedia.org/wiki/Henry_Petty-Fitzmaurice_(5._markiz_Lansdowne)), [Lord Curzon](https://pl.wikipedia.org/wiki/George_Curzon), [Lord Selborne](https://pl.wikipedia.org/wiki/William_Palmer_(2._hrabia_Selborne)), [Lord Crewe](https://pl.wikipedia.org/wiki/Robert_Crewe-Milnes) and Churchill himself, who after leaving the Admiralty had become [Chancellor of the Duchy of Lancaster](https://pl.wikipedia.org/wiki/Kanclerz_Księstwa_Lancaster). [David Lloyd George](/postacie/david-lloyd-george) was also a member of the committee, but he did not attend the first meeting. As Minister of Munitions he was then devoting himself almost entirely to the production of shells.
+
+In the preceding days the new ministers had been familiarising themselves with secret information to which, in opposition, they had had no access. On 1 June Churchill circulated two memoranda, on the situation of the fleet and on the Dardanelles question, and Kitchener presented a review of the work of the War Office. According to Churchill, this impressed the Conservatives, and the mood in the cabinet was swinging in favour of continuing the operation. The news from the peninsula, however, was not good. On 4 June another attack at Cape Helles, the [Third Battle of Krithia](/bitwy/trzecia-bitwa-o-kritie), ended in small gains bought with heavy losses.
+
+## Three divisions and a flotilla of monitors
+
+The committee took up Hamilton's telegram of 17 May. The general had written that if the situation in the Balkans did not change he would need four additional divisions in all. Kitchener came out firmly in favour of pursuing the campaign with full energy. He announced that, in addition to the Scottish 52nd (Lowland) Territorial Division, already sent earlier, he would give Hamilton three divisions of the New Army, the volunteer formations raised since August 1914. He also declared that he could not continue to be responsible for the conduct of the war if it were decided to give up the attack on the Gallipoli peninsula. According to Churchill, the members of the committee received this with relief, and the decision was unanimous.
+
+It was decided to send Hamilton the three remaining divisions of the first New Army, the 10th, 11th and 13th, so that he could strike in the second week of July. The fleet was to receive ships less vulnerable to U-boat attack than Admiral de Robeck's old battleships, three of which had gone to the bottom in May. The list included two [Edgar-class cruisers](https://pl.wikipedia.org/wiki/Krążowniki_pancernopokładowe_typu_Edgar), *Endymion* and *Theseus*, fitted with anti-torpedo bulges, fourteen [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) with guns of 6 to 14 inches, four sloops, that is, small escort vessels, and submarines. It was far more than Kitchener had been willing to give only a few weeks earlier.
+
+## Lost time
+
+On 9 June the committee's conclusions went to the full cabinet. A fierce dispute broke out there over whether to continue the expedition at all or rather to "cut our losses" and withdraw the troops. The majority, however, backed the committee and confirmed the dispatch of the three divisions. In the second half of June Hamilton was allotted two more territorial divisions. Churchill believed years later that the decision could have been taken within 48 hours of Hamilton's telegram, and that two or three weeks had been irretrievably lost through the change of government. The last units of the three new divisions reached the Dardanelles area only at the end of July, and the great offensive, with the landing at Suvla Bay, began in August.
+
+Despite its name, the Dardanelles Committee in practice dealt with the whole strategy of the war. It functioned until the autumn of 1915, when it was replaced by the smaller War Committee.

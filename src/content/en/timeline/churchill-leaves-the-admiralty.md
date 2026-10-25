@@ -1,0 +1,22 @@
+---
+title: Churchill leaves the Admiralty
+summary: At the end of May 1915 Winston Churchill ceased to be First Lord of the Admiralty. Blamed for the Dardanelles, he became Chancellor of the Duchy of Lancaster.
+source: churchill-odchodzi-z-admiralicji
+sourceHash: c5ac50e5c40d15076d1c8ebca17ebbce7db6d27c
+---
+
+At the end of May 1915 [Winston Churchill](/postacie/winston-churchill) left the Admiralty, which he had headed as First Lord since October 1911. The British chronology of the war records his departure under 27 May. Official lists end his tenure on 25 May, the day the [coalition government](/rzad-koalicyjny-asquitha) was formed, while Churchill himself recalled that his last day at the Admiralty was 26 May, when he went to [Buckingham Palace](https://pl.wikipedia.org/wiki/Pałac_Buckingham) to give up his office. The 40-year-old politician, until recently one of the most influential men in the government, became Chancellor of the [Duchy of Lancaster](https://pl.wikipedia.org/wiki/Kanclerz_Księstwa_Lancaster), a post almost without duties.
+
+## "What are we to do for you?"
+
+For a long time Churchill did not realise that the crisis after [Lord Fisher's resignation](/dymisja-lorda-fishera) would hit him in particular. On 17 May he came to the Prime Minister, [Herbert Asquith](/postacie/herbert-henry-asquith), with a list of members of a new Board of Admiralty, ready to defend it in the House of Commons. He was told that the Prime Minister had decided to form a coalition government, and then asked: "What are we to do for you?" He understood that he had to go. The Conservatives, without whom the coalition could not be formed, considered him the main culprit for the failure in the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) and had not forgiven him for leaving their party for the Liberals in 1904. Churchill himself pointed to his successor, [Arthur Balfour](/postacie/arthur-balfour), whom he had for months been initiating into the affairs of the fleet. He turned down an offer of the Colonial Office.
+
+For a few days he still tried to save his position. Admiral Arthur Wilson, who had temporarily taken over Fisher's duties, wrote to the Prime Minister on 19 May that he would serve under no First Lord other than Churchill. It changed nothing. Churchill was, however, visited by the Secretary of State for War, Lord Kitchener, with whom he had been at odds for weeks. As he left, according to Churchill's memoirs, he said to him: "Well, there is one thing at any rate they cannot take from you. The Fleet was ready." He was referring to July 1914, when the Admiralty under Churchill had kept the fleet together after the test mobilisation and [sent it to its war bases](/brytyjskie-floty-otrzymuja-rozkaz-przejscia-do-baz-wojennych) before Great Britain had even entered the war.
+
+## Guardian of the Dardanelles
+
+By 21 May it had been settled that Balfour would take over the Admiralty. Churchill accepted the Duchy of Lancaster because Asquith had promised him a seat in the Cabinet and on the committee that was to direct the war. "I have accepted the post of Chancellor of the Duchy of Lancaster with a seat in the Cabinet and on the War Council. This will enable me to watch over the Dardanelles. Although I am down, the policy goes on and will be well supported," he wrote on 23 May to his brother John.
+
+His last days at the Admiralty brought bad news. According to Churchill's memoirs, on the morning of 26 May word reached him that a German submarine had [sunk the battleship *Triumph* off Gallipoli](/zatopienie-pancernika-triumph). Before leaving for the palace he wrote a letter to Balfour. In it he warned that the most urgent task was to protect the fleet off the Dardanelles from submarines, and advised keeping the battleships in the safe harbour of [Mudros](https://pl.wikipedia.org/wiki/Mudros) until operations on land resumed. On 27 May the same U-boat [sank the battleship *Majestic*](/zatopienie-pancernika-majestic).
+
+Leaving the Admiralty was the heaviest blow of Churchill's career so far. His wife, [Clementine](https://pl.wikipedia.org/wiki/Clementine_Churchill), recalled years later that the Dardanelles haunted him for the rest of his life and that she had feared he would die of grief. He left the government in the autumn of 1915, when he was not included in the new, smaller war committee, and then went to the Western Front, where he soon took command of a battalion.

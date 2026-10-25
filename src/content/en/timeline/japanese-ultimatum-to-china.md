@@ -1,0 +1,24 @@
+---
+title: Japanese ultimatum to China
+summary: On 7 May 1915 Japan gave China 51 hours to accept its demands. It set aside most of the far-reaching fifth group for later.
+source: japonskie-ultimatum-wobec-chin
+sourceHash: 5f057efa27e1d29c6a8286cae4bca77e4f85880a
+---
+
+At 3 p.m. on 7 May 1915 the Japanese minister in Peking, Hioki Eki, handed his government's ultimatum to the Chinese Foreign Minister, [Lu Zhengxiang](https://pl.wikipedia.org/wiki/Lu_Zhengxiang). [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) demanded that the government of President [Yuan Shikai](https://pl.wikipedia.org/wiki/Yuan_Shikai) accept its revised demands without change by 6 p.m. on 9 May. If no satisfactory reply arrived, Japan would take whatever "independent action" it deemed necessary. China had 51 hours. Thus ended the negotiations over the [Twenty-One Demands](https://pl.wikipedia.org/wiki/Dwadzieścia_jeden_żądań), under way since February, in which [some of the Manchurian questions had been settled in March](/chinsko-japonskie-porozumienie-w-sprawie-mandzurii).
+
+## The road to the ultimatum
+
+According to the Japanese government, the talks had essentially been exhausted after the 24th conference, on 17 April. On 26 April Hioki presented a revised list of demands. In it Japan promised that if China accepted it, Japan would at the proper time and on reasonable terms return the leased territory of [Kiautschou](https://pl.wikipedia.org/wiki/Jiaozhou), with the port of Tsingtao, taken from the Germans. On 1 May the Chinese replied with a draft of their own, which they called final. In it they demanded the unconditional return of the leased territory, compensation for the losses China had suffered as a result of the Japanese-German war, and a part in any future peace negotiations between Japan and Germany. Tokyo regarded this reply as a rejection of the Japanese proposals as a whole.
+
+On 6 May the text of the ultimatum reached the Japanese legation in Peking. As the American minister Paul Reinsch reported, the Chinese tried at the last minute to prevent its delivery and offered concessions close to the April demands. The Japanese no longer wished to discuss them and made it clear that the ultimatum would require a "yes" or "no" answer.
+
+## Without the fifth group
+
+The ultimatum nevertheless brought an important change. Japan withdrew from the negotiations and set aside "for future discussion" almost the entire fifth group of demands, the one that most infringed China's independence. An explanatory note attached to the ultimatum listed what this concerned: Japanese advisers, land for Japanese schools and hospitals, railways in southern China, supplies of arms and an arsenal, and the right of Japanese to preach religion. Of the fifth group only the point on the province of [Fujian](https://pl.wikipedia.org/wiki/Fujian), lying opposite Japanese-held Taiwan, remained. China was to accept without amendment all the points of groups one to four, in the wording of 26 April, and Japan maintained its promise to return Kiautschou.
+
+According to historians, the softening of the demands was decided by the [genrō](https://pl.wikipedia.org/wiki/Genrō), the elder statesmen who, led by [Yamagata Aritomo](https://pl.wikipedia.org/wiki/Aritomo_Yamagata), restrained the Foreign Minister, Katō Takaaki. London's voice also counted. On 6 May the British Foreign Secretary, [Edward Grey](/postacie/edward-grey), handed the Japanese ambassador a memorandum in which he wrote that the British government was greatly concerned at the prospect of a war between China and Japan, because it might endanger the independence and integrity of China, one of the main objects of the [Anglo-Japanese Alliance](https://pl.wikipedia.org/wiki/Sojusz_brytyjsko-japoński). Reinsch observed that the demands in the ultimatum were in essence almost the same as those to which China had already agreed. What sounded ominous, however, was that the points of the fifth group were recorded as matters still open.
+
+## The threat of force
+
+The ultimatum was backed by a show of force. According to Reinsch's dispatch of 6 May, Japanese nationals were ordered to leave Canton, [Hankou](https://pl.wikipedia.org/wiki/Hankou) and other centres. They were being gathered in the railway zone at [Mukden](https://pl.wikipedia.org/wiki/Shenyang), and those in Peking were preparing to leave. In [Jinan](https://pl.wikipedia.org/wiki/Jinan), capital of Shantung, the Japanese were digging new trenches at night, and off the coast near [Qinhuangdao](https://pl.wikipedia.org/wiki/Qinhuangdao) a Japanese cruiser appeared with four destroyers. Chinese works also mention the reinforcement of garrisons in Shantung and Manchuria. The Chinese army was not prepared for war, and the European powers, absorbed in the fighting in Europe, had no intention of intervening on China's behalf. The government in Peking had little more than two days to decide.

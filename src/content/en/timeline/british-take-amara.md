@@ -1,0 +1,26 @@
+---
+title: British take Amara
+summary: On 3 June 1915 a few British launches carrying Townshend sailed up the Tigris to Amara. Over a thousand Turkish soldiers surrendered to a handful of sailors.
+source: brytyjczycy-zajmuja-al-amare
+sourceHash: 609878c102a179a6668121c5b8d6f4444809455b
+---
+
+On 3 June 1915 a British river flotilla took [Amara](https://pl.wikipedia.org/wiki/Al-Amara) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) without a fight, about 140 kilometres upriver from Qurna. It was the finale of a pursuit that had begun two days earlier, when the Turks, after the [second battle of Qurna](/bitwy/druga-bitwa-pod-al-kurna), abandoned their positions in the flooded marshes and fled north. The town was taken not by the soldiers of the 6th (Poona) Division but by a few small armed vessels carrying General Charles Townshend, the flotilla commander Captain Wilfrid Nunn, and the chief political officer of the forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), Percy Cox. The infantry had been left far behind.
+
+## A race with the infantry
+
+On the morning of 3 June the flotilla moved on. White flags flew in all the villages along the river, and the Arabs showed friendship to the newcomers. About twenty kilometres short of Amara Townshend ordered a halt. He expected the Turks to defend the town and thought that an attempt to take it with a few small vessels would be ridiculous. Nunn urged him to sail on. According to the British official history, after an hour Townshend changed his mind and decided to "try his luck". Meanwhile he received a message from General John Nixon that, according to air reconnaissance, three Turkish steamers were fleeing ahead of the flotilla, and that Turkish battalions withdrawing from Persian Arabistan were approaching the town from the east.
+
+At about 9.45 a.m. the armed launch *Shaitan* of Lieutenant Mark Singleton, with eight sailors on board, went ahead as a scout. Less than five kilometres from the town her crew saw Turkish soldiers crossing a pontoon bridge and boarding a barge. A single shot from her small gun was enough to make them flee. *Shaitan* passed through the open bridge, went past a town full of soldiers who fell back from the bank in panic at the sight of her, and, without firing a single shot, accepted the surrender first of six officers and about a hundred soldiers, and then of another hundred and fifty. The prisoners marched along the bank to the bridge by themselves and sat down by a coffee house, waiting for someone to find the time to collect them. For this feat Singleton received the [Distinguished Service Order](https://pl.wikipedia.org/wiki/Order_Wybitnej_Służby).
+
+## Forty-one men
+
+Between 1.30 and 2.15 p.m. the rest of the flotilla arrived. Townshend and Nunn went ashore at the customs house, where the civil governor and the Turkish commandant surrendered to them. Townshend hoisted the British flag and ordered the governor to prepare food at once for 15,000 soldiers who were soon to arrive. The whole British force in the town at that time consisted, apart from a few officers, of only 41 sailors, marines and soldiers. Lieutenant Palmer, with one sailor, one marine and an interpreter, accepted in the barracks the surrender of a battalion of the Constantinople fire brigade regiment, some four hundred men strong. The Turkish prisoners, about eight hundred in all, were placed on a large barge anchored in the middle of the river under the guns of the flotilla.
+
+In the afternoon about two thousand Turkish soldiers, part of the units withdrawing from Arabistan, approached from the north-east. *Shaitan* fired on them, captured the advance guard and dispersed the rest. The night was very uneasy for the British, as their weakness could not be hidden for long. It was announced that anyone who left their house after dark would be shot, and four sailors guarded the army barracks. The Turkish staff officer Muhammad Amin wrote after the war of the "tragedy of Amara": the British "came boldly, moored at the quay, sent ashore one officer and eight or ten men and captured Amara, although there were more than a thousand Turks there".
+
+## The following days
+
+On the morning of 4 June, when the Arabs realised how weak the garrison was and began to loot the town, a battalion of the Norfolk Regiment arrived and restored order. In the afternoon further units came up, and in the evening Nixon reached Amara. The column withdrawing from Arabistan disintegrated, and its remnants, harassed by Arabs, reached [Kut](https://pl.wikipedia.org/wiki/Al-Kut) in small groups. According to the British official history, in the whole operation since 31 May the Turks lost 1,773 prisoners, and the British only four killed and 21 wounded.
+
+Amara, a relatively new town of 10,000–12,000 inhabitants, lay on the main trade route to [Persia](https://pl.wikipedia.org/wiki/Iran). It was drier and healthier than Basra, so the British set up military hospitals there. The heat, however, was terrible, and disease quickly decimated the troops. A few days after the victory Townshend himself fell ill and left for treatment in India, and command of the 6th Division was taken over temporarily by General Walter Delamain. Nixon was already preparing the next step, a march on Nasiriyah on the Euphrates.

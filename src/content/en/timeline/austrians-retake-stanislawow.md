@@ -1,0 +1,26 @@
+---
+title: Austrians retake Stanisławów
+summary: On 8 June 1915 troops of the South Army entered Stanisławów without a fight, abandoned by the retreating Russian 9th Army. The second occupation was over.
+source: austriacy-odbijaja-stanislawow
+sourceHash: 04ae43352e806ec1b931fd8d73f32b2a6ad6458d
+---
+
+On 8 June 1915 the troops of the Central Powers entered [Stanisławów](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk), one of the largest towns and an important railway junction of Eastern Galicia. The Russians, who had [retaken the town on 4 March](/rosjanie-odbijaja-stanislawow), abandoned it without a fight. This date is given consistently by the Austrian official history, the 1922 Encyclopaedia Britannica and Ukrainian studies of the town's history, according to which the second period of Russian rule in Stanisławów lasted from 4 March to 8 June 1915.
+
+The British chronology speaks of Austrians, but it was the corps of the German general Friedrich von Gerok of the German-Austrian [South Army](https://pl.wikipedia.org/wiki/Armia_Południowa_(Państwa_Centralne)) that entered the town. It comprised the German 48th Reserve Division and the Austro-Hungarian 19th Infantry Division. For the inhabitants, however, it meant above all the return of Austrian rule. It was already the fourth time Stanisławów had changed hands since the start of the war: the Russians had taken it at the turn of August and September 1914, and in February 1915 [the Austrians had retaken it for two weeks](/austriacy-zdobywaja-stanislawow).
+
+## The march from Kałusz
+
+The road to Stanisławów opened when, after the fall of Stryj, [the Russians withdrew from the Carpathian foothills towards the Dniester](/koniec-bitew-pod-stryjem-i-drohobyczem). On the morning of 4 June the commander of the South Army, General [Alexander von Linsingen](/postacie/alexander-von-linsingen), learnt that the Russians had begun to withdraw south-east of Stryj as well. He ordered the corps of Gerok and of the Austro-Hungarian general Peter Hofmann to take [Kałusz](https://pl.wikipedia.org/wiki/Kałusz) and [Halicz](https://pl.wikipedia.org/wiki/Halicz_(miasto)) that same day. The task was too ambitious. Heat broken by downpours turned the forest roads into mud, and on 5 June near Hołyń and Zawadka both corps ran into new Russian positions. They broke through them after a fight, and Hofmann's corps took over 2,000 prisoners.
+
+During the night of 6–7 June the German 48th Reserve Division, covered by three Austro-Hungarian Feldjäger battalions, took Kałusz by storm. On 7 June the Russians tried once more to cover their retreat towards Halicz on the hills near [Wojniłów](https://pl.wikipedia.org/wiki/Wojniłów) and Słobódka. In the afternoon the fortifications at Wojniłów were taken by General Bolzano's Austro-Hungarian brigade, made up largely of Czechs, and two hours later the 130th Infantry Brigade drove the Russians from a nearby hill. Hofmann's corps took about 3,200 prisoners that day. Meanwhile Gerok's corps set off eastwards from Kałusz. On 8 June it entered the abandoned Stanisławów, while Hofmann halted before the Russian bridgehead at Halicz.
+
+## Lechitsky's retreat
+
+The Russians gave up Stanisławów because their [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Imperium_Rosyjskie)) under General Platon Lechitsky had to fall back along its whole front. At the beginning of June it had still been attacking. Its corps had crossed the [Prut](https://pl.wikipedia.org/wiki/Prut) between [Kolomea](https://pl.wikipedia.org/wiki/Kołomyja) and Delatyn and several times broken through the front of the Austro-Hungarian 7th Army under General [Karl Pflanzer-Baltin](/postacie/karl-pflanzer-baltin). The South Army's march on Kałusz and Halicz, however, threatened Lechitsky's right flank. On 6 June the Austrians noticed that the Russians were leaving, and Pflanzer-Baltin threw his whole army into the pursuit. On 7 June his troops crossed the Prut, and on 8 June they took [Otynia](https://pl.wikipedia.org/wiki/Ottynia) and halted before a new Russian covering line.
+
+## After the capture of the town
+
+News of the occupation of Stanisławów reached South Army headquarters in Stryj on the evening of 8 June. Linsingen decided that his troops had accomplished their task in the east and resolved to shift the weight of the attack to the northern bank of the [Dniester](https://pl.wikipedia.org/wiki/Dniestr). He did not yet know that the same day the Russians had struck his left flank with fresh forces near Żydaczów and Mikołajów. As early as 9 June Gerok's corps had to hand over its positions near Stanisławów to the German 5th Cavalry Division and hurry to the aid of the threatened sector.
+
+For the inhabitants of Stanisławów the end of Russian rule meant the end of the repression that during the second occupation had struck the Jews particularly hard. The Russian command ordered them to be deported in the wake of the retreating troops and hostages to be taken from among the most influential and wealthy, and according to Ukrainian historians of the town many were resettled on the left bank of the Dniester. Some of them returned home in the summer of 1915. The front did not, however, move away from the town at once. A few days later the Russians came up to its outskirts once more.

@@ -1,0 +1,20 @@
+---
+title: Arthur Balfour becomes First Lord of the Admiralty
+summary: In late May 1915 the former prime minister Arthur Balfour replaced Churchill at the Admiralty. He was the only Conservative with real influence on the war.
+source: arthur-balfour-pierwszym-lordem-admiralicji
+sourceHash: 8410837e9dfccc06078ed769a60304d62f08a32a
+---
+
+At the end of May 1915 [Arthur Balfour](/postacie/arthur-balfour), the Conservative former prime minister, became First Lord of the Admiralty, the minister responsible for the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). He replaced [Winston Churchill](/postacie/winston-churchill), who [had to leave the Admiralty](/churchill-odchodzi-z-admiralicji) after the formation of the [coalition government](/rzad-koalicyjny-asquitha). The British chronology of the war records the appointment under 28 May. Official lists date Balfour's tenure from 25 May, the day the coalition was formed, and according to Churchill's memoirs the new ministers took office on 26 May.
+
+## A philosopher in politics
+
+Balfour was then 66 and had a long career behind him. He was born in 1848 at Whittingehame in Scotland into a wealthy family. He was a nephew of Lord [Salisbury](https://pl.wikipedia.org/wiki/Robert_Gascoyne-Cecil_(3._markiz_Salisbury)), the long-serving Conservative prime minister, and it was under his patronage that he took his first steps in politics. From 1902 to 1905 he headed the government himself. His cabinet concluded the [Entente Cordiale](https://pl.wikipedia.org/wiki/Entente_cordiale) with France, and Balfour created and chaired the Committee of Imperial Defence, which from then on coordinated the plans of the army and the navy. He also supported the reforms of Admiral [John Fisher](/postacie/john-fisher). Until 1911 he led the Conservative Party. He was regarded as an intellectual, cool and detached, who wrote on philosophy and religion with the same ease with which he spoke in Parliament.
+
+Although he belonged to the opposition, from the start of the war he was close to its leadership. He sat on the War Council, and Churchill kept him informed about naval matters. When on 17 May the Prime Minister, [Herbert Asquith](/postacie/herbert-henry-asquith), asked Churchill about his future, Churchill himself named Balfour as the successor who would ensure continuity at the Admiralty. According to Churchill, the Prime Minister had already had this candidate in mind. In the coalition cabinet Balfour was the only Conservative to take a department decisive for the conduct of the war. The other leaders of his party received less important posts.
+
+## A difficult inheritance
+
+The new First Lord took over the Admiralty at a moment of crisis. Admiral Henry Jackson became First Sea Lord, the professional head of the navy, because Admiral Arthur Wilson, who had been temporarily standing in for Fisher, refused to serve under anyone but Churchill. Off the Dardanelles the German *U-21* had sunk two British battleships within three days, [*Triumph*](/zatopienie-pancernika-triumph) and [*Majestic*](/zatopienie-pancernika-majestic). In his farewell letter Churchill wrote to Balfour that the most urgent task was to protect the fleet at the Dardanelles against submarines, and admitted that for almost two weeks he had no longer had the power to take important decisions. The Admiralty was also sending a [squadron to the Adriatic](/brytyjska-eskadra-zbiera-sie-na-malcie) to cooperate with the Italian fleet and had to guard the superiority of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne).
+
+Balfour and Jackson made a much calmer team than the impetuous Churchill and Fisher, and they were on good terms. Balfour ran the Admiralty until December 1916, when after the fall of Asquith's government he became Foreign Secretary in David Lloyd George's cabinet. In that post he signed in 1917 the [declaration](https://pl.wikipedia.org/wiki/Deklaracja_Balfoura) that went down in history under his name.

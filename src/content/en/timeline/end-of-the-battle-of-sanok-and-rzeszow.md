@@ -1,0 +1,24 @@
+---
+title: End of the battle of Sanok and Rzeszów
+summary: In mid-May 1915 the Russians withdrew from western Galicia behind the San. The Central Powers took Sanok and Rzeszów and 130,000–140,000 prisoners.
+source: koniec-bitwy-pod-sanokiem-i-rzeszowem
+sourceHash: c74d0b8bbc315b1e144c247042b44b98cd50c7e6
+---
+
+On 14 May 1915, according to the British chronology of the war, the battle of Sanok and Rzeszów ended. The Russian armies, which had been retreating through Galicia since the [breakthrough at Gorlice](/bitwy/bitwa-pod-gorlicami), were already behind the [San](https://pl.wikipedia.org/wiki/San), and the German and Austro-Hungarian forces were approaching the Russian bridgeheads on that river and Przemyśl. The Austrian historian Ernst Joly, who described this campaign in 1922, regarded the battle as over as early as 11 May, when the Russians crossed the San, and on the night of 11/12 May, when Rzeszów fell. In the following days the pursuit continued, interrupted by rearguard actions.
+
+## The Russian line cracks
+
+The line on which General [Radko Dimitriev](/postacie/radko-dimitriew) wanted to halt the pursuit did not last more than a few days. On 9 May the Russians threw three fresh divisions into a counter-attack on the road to Sanok, but in the evening they had to give up Besko. On other sectors whole units went into captivity. Dimitriev reported that his army had been bled white. At dawn on 10 May the Russian XXI Corps attacked once more and threw back the 11th Bavarian Infantry Division, but the neighbouring corps were unable to support it and the front was broken again. In the afternoon Dimitriev ordered a retreat behind the San.
+
+On the same day the chief of staff of the South-Western Front, General Vladimir Dragomirov, wrote to Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) that the strategic position of the troops was hopeless. The front commander, General [Nikolai Ivanov](/postacie/nikolaj-iwanow), on his own responsibility issued in the evening an order for the Third, Fourth and Eighth Armies to retreat. During the night the high command agreed to the retreat, but demanded that the line of the San and the [Dniester](https://pl.wikipedia.org/wiki/Dniestr) be held at all costs. [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl), which the Russians had taken only [in March](/kapitulacja-przemysla), was no longer to be a fortress, but a fortified sector of the front.
+
+## Sanok and Rzeszów
+
+At about 11 a.m. on 11 May Austro-Hungarian cavalry entered [Sanok](https://pl.wikipedia.org/wiki/Sanok) from the direction of Rymanów. The retreating Russians set fire to the station and several buildings, and in the morning blew up or burned the bridges, including the bridge over the San. By the evening of that day the Russian forces along the whole front from the Carpathians to the Vistula were already behind the San or on their way to it. In the north the Austro-Hungarian Fourth Army took [Sędziszów](https://pl.wikipedia.org/wiki/Sędziszów_Małopolski), and its IX Corps entered [Rzeszów](https://pl.wikipedia.org/wiki/Rzeszów) on the night of 11/12 May. The Russians, who had ruled the town since November 1914, destroyed the bridges over the Wisłok and the railway depots before leaving. It was the same in other towns: in Krosno Russian depots that there had been no time to evacuate burned for several days.
+
+On 12 May Mackensen ordered his Eleventh Army to take the bridgeheads on the San at Jarosław and [Radymno](https://pl.wikipedia.org/wiki/Radymno). On the same day, according to some sources, the wounded General [Lavr Kornilov](/postacie/lawr-kornilow), who had been hiding in the woods since his division was shattered near Dukla, fell into Austrian hands. The retreat also extended to the Russian forces north of the Vistula: the Fourth Army fell back from the Nida, and on 13 May the Russians abandoned [Kielce](https://pl.wikipedia.org/wiki/Kielce). On 14 May the Prussian Guard came up against the strongly fortified bridgehead at Jarosław.
+
+## The balance
+
+In two weeks the front moved about a hundred kilometres east, and the Russians lost the whole of western Galicia and the passes of the Low Beskids and the Bieszczady, for which they had fought all winter. According to Joly, by the end of the battle of Sanok and Rzeszów the Central Powers had taken 130,000 Russian soldiers prisoner and captured 100 guns and 300 machine guns. A German communiqué of 13 May spoke of 143,000 prisoners. The British historian Prit Buttar writes that the Russian X and XXIV Corps had practically ceased to exist, IX Corps had lost 80 per cent of its strength, and III Caucasian Corps two-thirds. On the San, however, the Russians had prepared defences and fresh reinforcements, while the Central Powers had to bring up artillery and ammunition over destroyed roads and railways. The struggle for the line of the San was only beginning.

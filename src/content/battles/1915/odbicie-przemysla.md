@@ -1,6 +1,6 @@
 ---
 title: Odbicie Przemyśla
-summary: 24 maja – 3 czerwca 1915 Niemcy i Austriacy obeszli Przemyśl od północy i zdobyli forty. Po 73 dniach rosyjskich rządów wróciła do Austro-Węgier.
+summary: 24 maja – 3 czerwca 1915 Niemcy i Austriacy obeszli Przemyśl od północy i zdobyli forty. Po 73 dniach rosyjskich rządów twierdza wróciła do Austro-Węgier.
 front: Front wschodni
 phase: 1915-gorlice
 startDate: 1915-05-24

@@ -25,7 +25,7 @@ Bitwa pod St. Julien była drugim etapem [II bitwy pod Ypres](https://pl.wikiped
 
 Nazwę i daty bitwy ustaliła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Walki pod Ypres od 22 kwietnia do 25 maja 1915 roku podzieliła na cztery bitwy: [o grzbiet Gravenstafel](/bitwy/bitwa-o-grzbiet-gravenstafel) (22–23 kwietnia), pod St. Julien (24 kwietnia – 4 maja), pod Frezenberg (8–13 maja) i pod Bellewaarde (24–25 maja). Bitwa pod St. Julien objęła drugi gazowy atak Niemców, upadek wsi, kontrataki aliantów w ostatnich dniach kwietnia i wycofanie wojsk brytyjskich na nową linię w dniach 1–4 maja. Część opracowań, w tym angielska Wikipedia, kończy ją 5 maja. Sami Niemcy traktowali całe walki jako jedną bitwę, nazywaną przez nich drugą bitwą we Flandrii.
 
-Wieś Sint-Juliaan leży dziś w gminie Langemark-Poelkapelle. Przed wojną leżała na tyłach kanadyjskiego odcinka, a po 22 kwietnia znalazła się tuż za pierwszą linią.
+Wieś Sint-Juliaan leży dziś w gminie Langemark-Poelkapelle. Przed bitwą leżała na tyłach kanadyjskiego odcinka, a po 22 kwietnia znalazła się tuż za pierwszą linią.
 
 ## Tło
 

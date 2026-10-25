@@ -1,0 +1,26 @@
+---
+title: Sinking of the battleship Goliath
+summary: On the night of 12/13 May 1915 the Turkish destroyer Muavenet-i Milliye crept into the Dardanelles and torpedoed the British battleship Goliath. About 570 died.
+source: zatopienie-pancernika-goliath
+sourceHash: 28c9167610d757142678572f66c5c18e0c8ded70
+---
+
+At about one o'clock in the morning of 13 May 1915 the Turkish destroyer *Muavenet-i Milliye* torpedoed the British battleship *Goliath* in Morto Bay, at the entrance to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). Three torpedoes struck the ship one after another, and within a few minutes she capsized and sank. According to the British official history, of a crew of 750 nearly 570 were killed, among them her commanding officer, Captain Thomas Shelford. The attacker vanished into the darkness and returned to her base without loss.
+
+## Night watch off Kereves Dere
+
+*Goliath* was a Canopus-class [pre-dreadnought](https://pl.wikipedia.org/wiki/Przeddrednot), launched in 1898 at the naval dockyard in Chatham. She had four 305 mm guns, but lighter armour than earlier battleships, because she had been designed for service in Far Eastern waters. At the end of 1914 she escorted a convoy carrying Indian troops to East Africa, and then operated off the coast of German East Africa. At the end of November, together with the cruiser *Fox*, she bombarded Dar es Salaam, and in the spring of 1915 she was the flagship of Vice-Admiral Herbert King-Hall, who was watching the cruiser *Königsberg*, trapped in the Rufiji delta. At the beginning of April she sailed for the Dardanelles and [on 25 April](/alianci-laduja-na-gallipoli) supported the landing at Y Beach with her guns.
+
+In the first half of May the French on the right wing of the front at Cape Helles were holding with difficulty the positions above the Kereves Dere ravine, won during the [Second Battle of Krithia](/bitwy/druga-bitwa-o-kritie). The Turks tried to retake them every night, so the French commander asked for the support of the ships. From then on, every evening two British battleships went up into the straits and shelled the Turkish troops above the French flank. On the night of 12–13 May *Goliath* and *Cornwallis* were assigned to this watch. *Goliath* anchored in Morto Bay, east of the village of [Sedd el Bahr](https://pl.wikipedia.org/wiki/Sedd_el_Bahr), with *Cornwallis* astern of her. Further up the straits two pairs of destroyers were patrolling, and one more in mid-channel.
+
+## Three torpedoes
+
+That day a German officer in Turkish service, Kapitänleutnant Rudolph Firle, obtained permission for a raid against the ships whose fire was troubling the Turks so much at Kereves Dere. After sunset *Muavenet-i Milliye* set off down the straits. She was one of four destroyers built in Germany in 1909 and bought by Turkey: a small, fast ship with three torpedo tubes. She was commanded by the Turkish captain Ahmet Saffet, and Firle was on board as an adviser. The British official history credits him with directing the attack, while Turkish accounts stress the role of the Turkish commander and crew.
+
+The night was moonless, and around midnight a mist came in from the Asian shore. The destroyer moved very slowly, close under the cliffs of the European shore, and at about one in the morning slipped unnoticed past the British patrols. At about 1.15 a.m. she was spotted from *Goliath*'s bridge. She answered the challenge with some kind of flash, and when the challenge was repeated she sharply increased speed. Before *Goliath*'s guns could fire more than a few shots, the first torpedo struck abreast the forward turret, the second near the forward funnel, and the third, when the ship was already listing heavily to port, near the after turret. The battleship capsized before most of the men below decks could get up top, floated bottom up for a moment and went down bow first.
+
+*Muavenet-i Milliye* immediately turned back up the straits. The British heard her triumphant wireless messages: "Three torpedo hits! Sunk." Two destroyers tried to cut off her retreat, but under fire from the shore they could not find her. Rescuing the survivors in the darkness and in a strong current, flowing out of the straits at up to three knots, was very difficult. Fewer than two hundred men were saved.
+
+## Consequences
+
+The loss of an old battleship did not change the balance of forces at sea, but it showed that even at the very entrance to the straits ships were not safe. It came at a moment when a dispute over the further conduct of the [operations in the Dardanelles](https://pl.wikipedia.org/wiki/Operacje_morskie_w_Cieśninie_Dardanelskiej) was growing in London. The day before, on 12 May, the Admiralty had sent Admiral de Robeck an order to send home the most modern ship of the expedition, the super-dreadnought [*Queen Elizabeth*](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)). Although the decision had been taken before *Goliath* was sunk, many later accounts link the two events. A meeting of the War Council was called for 14 May, and a day later the First Sea Lord, [John Fisher](/postacie/john-fisher), long opposed to the expedition, left the Admiralty. In Turkey *Muavenet-i Milliye* became a hero, and her attack remains to this day one of the most famous episodes in the history of the Turkish navy.

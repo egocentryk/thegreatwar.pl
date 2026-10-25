@@ -1,0 +1,22 @@
+---
+title: Turkish attack on Perim
+summary: On the night of 14–15 June 1915 Turks from Sheikh Said tried to land on the British island of Perim in the Bab-el-Mandeb strait. The garrison drove them off.
+source: turecki-atak-na-perim
+sourceHash: 9c02f745b6b127a0db28de61ef626ff14c5f7858
+---
+
+On the night of 14–15 June 1915, according to the British chronology of the war, Ottoman troops tried to land on the British island of [Perim](https://pl.wikipedia.org/wiki/Perim) in the [Bab-el-Mandeb](https://pl.wikipedia.org/wiki/Bab_al-Mandab) strait, at the entrance to the [Red Sea](https://pl.wikipedia.org/wiki/Morze_Czerwone). They came in Arab [dhows](https://pl.wikipedia.org/wiki/Dau) from the Sheikh Said peninsula on the coast of [Yemen](https://pl.wikipedia.org/wiki/Jemen), separated from the island by a narrow strait a few kilometres wide. Some of the attackers got ashore, but the defenders drove them off. The log of the British armed merchant cruiser *Empress of Japan*, which was guarding the island, recorded shelling and a landing at 2.40 a.m. on 15 June. Some accounts based on the documents of the island's garrison, however, place the landing attempt on the night immediately after the first bombardment, that is 13–14 June.
+
+## An island on the route to India
+
+Perim is a small, rocky island which from the mid-19th century belonged to the British and came under their base at [Aden](https://pl.wikipedia.org/wiki/Aden). It had a coaling station, where ships sailing from the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) to India took on fuel, and a lighthouse lighting the strait. In 1915 a detachment of the 23rd Sikh Pioneers of the Indian Army was stationed there under Captain A.G.C. Hutchinson, supported by a field gun placed on a hill known as Gun Hill. [In November 1914](/brytyjczycy-zdobywaja-szejk-said) a British landing party had destroyed the Turkish fort at Sheikh Said, but had left no garrison there. By June 1915 the Turks had returned to the peninsula and set up guns there whose range covered the island. Since February they had also been [violating the borders](/turcy-wkraczaja-do-protektoratu-adenu) of the British sphere of influence in the hinterland of Aden.
+
+## Bombardment and landing attempt
+
+Hutchinson had spies on the mainland who reported that the Turks were gathering troops at Sheikh Said and intended to shell and then attack the island. On 13 June at about six in the evening the Turkish guns opened fire. According to British accounts these were one naval gun of 4.7-inch or 4.1-inch calibre, one 12-pounder and one 3.5-inch howitzer. According to accounts based on the garrison's documents they fired 211 shells in all, according to other accounts as many as about three hundred. Most of them hit the lighthouse and the barracks, but the damage was slight. Ten panes cracked in the lighthouse, but employees of the coaling company patched it up and it was soon shining again. Meanwhile *Empress of Japan* shelled the Turkish positions on the mainland.
+
+For the landing the Turks used, according to British estimates, about twelve dhows, each of which could carry about twenty men. At night they approached the northern shore of the island. Despite fire from the British outpost, some of them got ashore. When a star shell was fired from the battery on Gun Hill, the attackers lost the advantage of surprise, returned to their boats, and the whole force withdrew. *Empress of Japan* set off in pursuit, but according to one account failed to catch up with the boats, and sank two dhows only the next day in a cove on the mainland. Other accounts link the sinking of the two boats directly to the night's fighting. The losses of both sides are not known.
+
+## A threat to Aden
+
+The attack on Perim alarmed the British. According to the British official history, the Government of India asked the commander of the troops in Egypt, General John Maxwell, to send an expedition against the Turks at Sheikh Said. Maxwell assigned General George Younghusband's 28th Indian Brigade to it, but the expedition was postponed. On 27 June the Perim garrison was reinforced by another detachment of Sikh Pioneers. In the second half of June, however, a much more serious threat appeared near Aden itself, when a Turkish division advanced on Lahej, the capital of the [sultanate](https://pl.wikipedia.org/wiki/Sułtanat_Lahidż) bordering Aden. In July Younghusband's brigade sailed from Egypt to precisely that place.

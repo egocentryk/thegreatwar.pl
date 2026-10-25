@@ -1,0 +1,14 @@
+---
+title: Skirmish at Hafiz Kor
+summary: In mid-April 1915 Mohmand tribesmen invaded British Indian territory near Shabkadar. Troops from Peshawar drove them back at Hafiz Kor.
+source: potyczka-pod-hafiz-kor
+sourceHash: ee006c73e2cc5c06d36ecacfddaa1c93c4d2e677
+---
+
+The British chronology of the war records under 17 April 1915 "the first skirmish at Hafiz Kor" on the North-West Frontier of India. Hafiz Kor is a place north of [Peshawar](https://pl.wikipedia.org/wiki/Peszawar), near the fort of [Shabkadar](https://pl.wikipedia.org/wiki/Śabkadar), which guarded the border with the tribal territory of the Mohmands. The Mohmands, one of the [Pashtun](https://pl.wikipedia.org/wiki/Pasztuni) tribes, lived in the mountains on both sides of the [Durand Line](https://pl.wikipedia.org/wiki/Linia_Duranda), the border between British India and Afghanistan, and had been giving the British trouble for decades.
+
+Unrest on the frontier had been growing since the autumn of 1914. News of Turkey's entry into the war and of the [jihad proclaimed by the Sultan-Caliph](/sultan-oglasza-dzihad) fuelled the sermons of local mullahs. At the end of November warriors from Afghan Khost attacked [Miranshah](/potyczka-pod-miranshah) in Waziristan. In January 1915 the Mohmands made a raid towards Shabkadar, which was easily repulsed. In April news came that the tribes were gathering again, this time in much greater numbers. According to some accounts they were urged on by an influential mullah from Chaknawar. The British reinforced their troops in the area and brought the Khyber Movable Column to Shabkadar, and put other units on alert.
+
+According to some accounts the clash took place on 18 April, not on the 17th as the chronology gives. The Mohmands tried to advance towards Shabkadar, but ran into units of the 1st (Peshawar) Division and were driven back at Hafiz Kor. Sources differ on their numbers. Some accounts speak of about 2,000 warriors, while the Secretary of State for India, Austen Chamberlain, informing the House of Commons on 28 July 1915 about operations on the frontier, estimated the whole Mohmand levy at about 4,000 men. The tribesmen withdrew into the mountains across the border and dispersed, and the British did not pursue them. According to Chamberlain the troops of the movable column attacked the invaders, and British losses amounted to about 70 men.
+
+The April victory did not bring peace. In the summer of 1915 much more serious fighting broke out on the frontier, and troops from Peshawar fought twice more at Hafiz Kor, in September and in October. The Emir of Afghanistan, [Habibullah Khan](https://pl.wikipedia.org/wiki/Habibullah_Chan), kept his neutrality, but had no control over the tribes and clerics on his side of the border. For the authorities in India, which had sent most of their regular troops to France, Egypt, Mesopotamia and East Africa, every such raid was a cause for alarm.

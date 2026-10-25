@@ -1,0 +1,24 @@
+---
+title: Montenegrins occupy San Giovanni di Medua
+summary: At the end of June 1915 the Montenegrins occupied the Albanian port of San Giovanni di Medua and then Scutari. Their Entente allies took it badly.
+source: czarnogorcy-zajmuja-san-giovanni-di-medua
+sourceHash: 4d0a6b74abbfa9bc656e123763ab51e4bb2a7e4e
+---
+
+A British chronology of the war records under 26 June 1915 that Montenegrin troops occupied the Albanian port of San Giovanni di Medua, today [Shëngjin](https://pl.wikipedia.org/wiki/Shëngjin). Some accounts date the occupation of the port to 27 June, the same day on which the Montenegrins entered [Scutari](https://pl.wikipedia.org/wiki/Szkodra), the chief town of northern Albania. The small harbour near the mouth of the [Drin](https://pl.wikipedia.org/wiki/Drin), close to [Lezhë](https://pl.wikipedia.org/wiki/Lezha), was the port of Scutari and its window on the Adriatic. By taking it, King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) gained control of the whole northern Albanian coast as far as the Drin.
+
+## An old goal
+
+[Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) had long wanted Scutari. In the First Balkan War its troops took the town in April 1913 after a bloody siege lasting many months, but under pressure from the Great Powers they had to give it up as early as May. Scutari went to the new Albanian state, and until the outbreak of the Great War it was administered by an international detachment of the powers. When in 1914 Prince [Wilhelm zu Wied left Albania](/wilhelm-wied-opuszcza-albanie), the country sank into chaos. In [Durrës](https://pl.wikipedia.org/wiki/Durrës) [Essad Pasha Toptani ruled](/esad-pasza-tworzy-rzad-w-durres), the centre of the country was held by insurgents, the Greeks stood in the south and the Italians in Vlorë.
+
+At the beginning of 1915 the Entente [advised Montenegro, Serbia and Greece](/ententa-przeciw-interwencji-w-albanii) against entering Albania, so as not to antagonise Italy. In the spring the situation changed. Italy entered the war, and Serbia, called to help by Essad, who was hemmed in at Durrës, sent troops into Albania at the turn of May and June, and they routed the insurgents. According to historians King Nicholas, taking advantage of the lull on the Austrian front, wanted to forestall both the Serbs and the Italians so as not to be pushed out of Albania. The Montenegrin army did not even have a supreme command staff at that time, only a commander-in-chief, the King, and his chief of staff, General [Janko Vukotić](https://pl.wikipedia.org/wiki/Janko_Vukotić). The troops that set out for Scutari in June were commanded by General [Radomir Vešović](https://pl.wikipedia.org/wiki/Radomir_Vešović). This time there was no heavy fighting and no great loss of life.
+
+## Secret promises
+
+Nicholas had reasons to believe that the Allies would eventually accept this. In the secret [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)), signed in April by Italy and the Entente, the coast from Cape Planka in Dalmatia to the River Drin, with the ports of [Antivari](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)), [Ulcinj](https://pl.wikipedia.org/wiki/Ulcinj) and San Giovanni di Medua, was assigned to Croatia, Serbia and Montenegro. Italy undertook not to oppose the partition of northern and southern Albania between Montenegro, Serbia and Greece if it obtained Vlorë itself, and if a small, neutral autonomous state were created from the central part of the country. The whole coast from the vicinity of Dubrovnik to the River Vjosë, including Medua and Durrës, was, however, to be neutralised, that is, deprived of fortifications and naval bases. Montenegro was not a party to the agreement, and its provisions remained secret.
+
+## Reluctant allies
+
+The Montenegrins' entry into northern Albania, like the Serbian expedition into the centre of the country, met with firm disapproval from the Allies. In their view the Balkan allies ought to be fighting Austria-Hungary, not occupying the lands of a neutral country whose fate the Great Powers wished to decide themselves, after the war. The powers sent a note to [Cetinje](https://pl.wikipedia.org/wiki/Cetynia). Nicholas gave assurances that he would submit to the decision of the powers after the end of the war, but did not withdraw his troops. At the end of July the Entente governments declared to Montenegro that they did not recognise its occupation of Albanian territory.
+
+Scutari and San Giovanni di Medua remained in Montenegrin hands for half a year. The port played another important role in the winter of 1915, when the defeated Serbian army was retreating through the Albanian mountains and Allied ships took off refugees and soldiers from here. In January 1916 Montenegro capitulated to Austria-Hungary, and Scutari and Medua were occupied by the Austrians.

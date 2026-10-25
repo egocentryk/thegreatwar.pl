@@ -1,0 +1,36 @@
+---
+title: Sinking of the Lusitania
+summary: On 7 May 1915 U-20 torpedoed the British liner Lusitania off Ireland. Within 18 minutes almost 1,200 people died, including more than a hundred Americans.
+source: zatopienie-lusitanii
+sourceHash: d7a639ef1ffadec2d47e6aee7b56aa5ed367e359
+---
+
+On 7 May 1915 at about 2.10 p.m. the German submarine [U-20](https://pl.wikipedia.org/wiki/SM_U-20_(1912)) torpedoed the British liner [Lusitania](https://pl.wikipedia.org/wiki/RMS_Lusitania) off the southern coast of [Ireland](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), a dozen or so nautical miles from the Old Head of Kinsale. One of the largest and fastest passenger ships in the world sank within 18 minutes. Almost 1,200 people died, including more than a hundred citizens of the United States. The sinking of the Lusitania became the most notorious episode of the German submarine war and caused the most serious crisis in relations between Berlin and Washington since the beginning of the war.
+
+## The last voyage
+
+Lusitania, the pride of the [Cunard](https://pl.wikipedia.org/wiki/Cunard_Line) line, had sailed between [Liverpool](https://pl.wikipedia.org/wiki/Liverpool) and [New York](https://pl.wikipedia.org/wiki/Nowy_Jork) since 1907. After the outbreak of war she continued on this route. Since February the Germans had regarded the waters around the British Isles as a [war zone](/poczatek-niemieckiej-blokady-podwodnej), in which they sank enemy ships, often without warning. As early as [February](/lusitania-pod-amerykanska-bandera) the liner's captain, fearing submarines, had hoisted the flag of the United States on the last stage of the voyage. To save coal Cunard had shut down one of the four boiler rooms, so the ship could no longer reach her full speed, although she was still faster than any submarine.
+
+At noon on 1 May Lusitania, under the command of Captain William Turner, sailed from New York on her 202nd crossing of the Atlantic. There were about 1,960 people on board: just under 1,270 passengers, almost 700 crew members and three stowaways. The same day a notice from the German embassy, dated 22 April, appeared in the New York newspapers. It reminded readers that a state of war existed between Germany and Great Britain and that vessels flying the British flag or that of her allies were liable to destruction in the waters around the British Isles. Travellers sailing in them did so at their own risk. In several newspapers the warning was printed right next to the advertisement for Lusitania's voyage. Few passengers cancelled their journey.
+
+## U-20 off the coast of Ireland
+
+U-20, commanded by Kapitänleutnant [Walther Schwieger](https://pl.wikipedia.org/wiki/Walther_Schwieger), had left Emden at the end of April. At the beginning of May she reached the waters off the southern coast of Ireland. On 5 May she sank the sailing ship Earl of Lathom there by gunfire, and on 6 May she torpedoed two British steamers, Candidate and Centurion. The Admiralty warned ships bound for Ireland by wireless that submarines were active off the south coast of the island. Turner received these messages. On the morning of 7 May, in fog, he reduced speed. When the fog lifted, Lusitania was steaming along the coast at about 18 knots, without zigzagging, and closed the land to fix her position.
+
+Early in the afternoon Schwieger sighted a large four-funnelled ship. According to his log the liner altered course towards the submarine, which made the attack easier. From a distance of about 700 metres U-20 fired a single torpedo. It struck the starboard side behind the bridge. In his log Schwieger noted that the torpedo's explosion was followed by a second, unusually powerful one. Its cause remains disputed to this day. The explanations most often given are an explosion of coal dust in the emptying bunkers or the bursting of a boiler or steam lines. Most researchers consider it unlikely that the cargo of ammunition she carried exploded.
+
+## Eighteen minutes
+
+Lusitania quickly listed to starboard and began to sink by the bow. The list made it difficult to lower the boats: the lifeboats on the port side swung in over the deck or scraped against the hull, and some of those on the starboard side capsized while being lowered or were dragged under water. Of the 48 boats only a few were lowered properly. The ship disappeared beneath the water about 18 minutes after being hit. Hundreds of people found themselves in the cold water, many without lifejackets.
+
+Fishing boats, tugs and small ships from [Queenstown](https://pl.wikipedia.org/wiki/Cobh) and the nearby ports set out to the rescue, but because of the distance they reached the scene only after some time. The survivors and the dead were brought to Queenstown. Casualty figures differ depending on the source. The figure most often given is 1,198 dead, and more recent studies give from 1,193 to 1,197. Fewer than 770 people survived. Almost 100 children died. Among the victims were 128 Americans (according to some more recent findings slightly fewer, about 124), among them the millionaire Alfred Gwynne Vanderbilt, the theatrical producer Charles Frohman and the writer [Elbert Hubbard](https://pl.wikipedia.org/wiki/Elbert_Hubbard). The Irish art collector Hugh Lane also died. The bodies of many victims were never found, and some were buried in mass graves in Queenstown.
+
+## Ammunition in the holds
+
+The Germans considered Lusitania a legitimate target. They claimed that the liner was an armed auxiliary cruiser and was carrying war materials, and that the passengers had been warned. The first charge was untrue: the ship carried no armament. The second was true. According to the cargo manifest Lusitania was carrying, among other things, about 4.2 million rifle cartridges, several thousand empty shrapnel shell cases and several thousand fuses, in all about 170 tons of war materials. The cargo did not, however, change the principle invoked by the British and Americans: the law of the sea required that before a merchant ship was sunk the safety of the passengers and crew be ensured, which a submarine attacking from under water could not do.
+
+## The aftermath
+
+The news of the sinking of the Lusitania shocked public opinion in Great Britain and the United States. In Germany part of the press welcomed it as proof of the effectiveness of the submarine weapon. In Great Britain anti-German riots broke out in the following days, first in Liverpool, Lusitania's home port, and then in London and other cities. British propaganda exploited the sinking of the liner throughout the war, including in recruiting posters.
+
+The most important consequences were in the United States. President [Woodrow Wilson](/postacie/woodrow-wilson) did not opt for war, but in a note of 13 May he demanded that Germany renounce such attacks and make reparation, and reminded it that Washington would hold the Reich government to "strict accountability" for violations of American rights. The dispute, which dragged on for months, cost Secretary of State William Jennings Bryan, an opponent of a hard line towards Berlin, his post. The United States entered the war only in 1917, but the sinking of the Lusitania permanently turned a large part of American public opinion against Germany.
