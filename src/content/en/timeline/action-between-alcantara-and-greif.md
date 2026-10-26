@@ -1,0 +1,28 @@
+---
+title: Action between Alcantara and Greif
+summary: On 29 February 1916 the armed merchant cruiser Alcantara fought the German raider Greif off Shetland. Both ships sank and more than 200 sailors died.
+source: starcie-alcantary-z-greifem
+sourceHash: fc2c905f1cfc7711a008c1c599c7948142656ecb
+---
+
+Before noon on 29 February 1916, in the North Sea north-east of [Shetland](https://pl.wikipedia.org/wiki/Szetlandy), the British [armed merchant cruiser](https://pl.wikipedia.org/wiki/Krążownik_pomocniczy) *Alcantara* stopped a freighter flying the Norwegian flag for inspection. The ship turned out to be the disguised German raider [*Greif*](https://pl.wikipedia.org/wiki/SMS_Greif_(1914)), which was trying to break out into the Atlantic. In a fight at short range both ships sank. The duel between two armed merchant ships recalled the action between [*Carmania* and *Cap Trafalgar*](/carmania-zatapia-cap-trafalgar) in September 1914.
+
+## A raider in disguise
+
+*Greif* was the new freighter *Guben*, built in 1914 for a Hamburg line serving Australia. The German navy converted her into a raider at Kiel and commissioned her on 23 January 1916. Behind drop-down bulwarks and false superstructures she concealed four 150 mm guns, one 105 mm gun and two torpedo tubes. She was commanded by Fregattenkapitän Rudolf Tietze. On 27 February the ship put to sea. She was to round Iceland to the north, attack shipping in the Atlantic and, if she could not return home, make for [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The crew repainted her to resemble the Norwegian ship *Rena*. A few weeks earlier a similar raider, *Möwe*, had [sent the captured liner *Appam* to America](/appam-zawija-do-norfolk), and the British had no intention of letting another one through.
+
+The Admiralty learned of *Greif*'s departure in good time. At noon on 28 February it warned the Commander-in-Chief of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), Admiral [John Jellicoe](/postacie/john-jellicoe), that a trap ship was leaving Germany. After midnight British direction-finding stations located the German ship off the south-west coast of Norway, near [Egersund](https://pl.wikipedia.org/wiki/Egersund). Jellicoe sent light cruisers from Rosyth and [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) to search for her, and placed the armed merchant cruisers of the 10th Cruiser Squadron, which enforced the [blockade](https://pl.wikipedia.org/wiki/Blokada_morska) in the waters north of Scotland, across her probable route.
+
+## The duel
+
+*Alcantara*, a Royal Mail liner of 1913 armed with six 152 mm guns, was just about to come off patrol and sail to Liverpool for coal. She was to be relieved by another armed merchant cruiser, *Andes*. In the morning her captain, Captain Thomas Wardle, was ordered to stay on station. At about 8.45 a.m. he sighted smoke, and immediately afterwards *Andes* signalled that she could see the enemy. Wardle saw a single-funnelled ship under the Norwegian flag, while further reports from *Andes* spoke of a ship with two funnels. He was therefore not sure whether he had the right target in front of him. Two blank rounds brought the stranger to a halt. The name *Rena* could be seen on her stern, and her appearance matched the description of the real Norwegian ship. Wardle decided to send a boarding party across.
+
+As the boat was being lowered shortly after 9.20 a.m., at a distance of roughly a kilometre from the German, a signal came from *Andes*: "This is the suspicious ship." At that very moment the staff with the Norwegian flag dropped over the stern of the *Rena*, the screen over the stern gun slid aside, the flaps in her sides fell open, and the Germans hoisted the naval ensign and opened fire. The first shells smashed the boat and damaged *Alcantara*'s steering gear. The British quickly replied and closed the raider. After a quarter of an hour's exchange of fire, in which *Andes* also took part from a certain point, *Greif* vanished in clouds of smoke, ceased firing and her crew began lowering the boats. *Alcantara*, however, had also ceased fire, with a heavy list to port. According to the British official history she had probably been hit by a torpedo. Other accounts speak only of heavy hits on the waterline. Wardle ordered the ship to be abandoned. At about 11 a.m. *Alcantara* capsized and sank.
+
+Meanwhile the light cruiser *Comus* had arrived on the scene with the destroyer *Munster*. The destroyer picked up the survivors from *Alcantara*. Because a submarine had been reported nearby, *Comus* and *Andes* did not approach the burning *Greif*, but sank her by gunfire. The German naval ensign flew on her to the end.
+
+## Losses
+
+The figures for losses vary from source to source. According to the British official history 69 men from *Alcantara* were missing; other tallies speak of 72–74 killed. On the German side, according to most studies, about 190 men died, among them Tietze himself, and about 115–120 survivors were taken prisoner. The British official history stated that 220 of about 360 members of *Greif*'s crew were saved, but an earlier British history of the merchant navy speaks of one officer and 110 seamen.
+
+*Greif* was much more heavily armed than *Alcantara*, and Wardle and his crew were judged to have fought creditably. Some authors, however, reproached him for having come too close before making sure whom he was dealing with. The action showed that it was becoming ever harder for a raider to break through the British blockade lines in the north. *Greif*'s cruise ended after two days. A few days later, at the beginning of March, *Möwe*, on the other hand, returned safely to Germany.

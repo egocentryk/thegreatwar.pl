@@ -1,0 +1,14 @@
+---
+title: General Oka resigns
+summary: At the end of March 1916 Japan's war minister Oka Ichinosuke left office through illness. During his tenure Japan entered the war and took Tsingtao.
+source: dymisja-generala-oki
+sourceHash: 7dd5175e902f261e515acaeade469eed1c9ccee9
+---
+
+A British chronology of the war records under 29 March 1916 the resignation of the Japanese war minister, Lieutenant-General Oka Ichinosuke. According to the official gazette *Kanpō*, the emperor relieved him of his post on 30 March, the same day on which he appointed his successor. Japanese works state that Oka left for health reasons. Formally he was placed on the waiting list, that is, outside active service.
+
+Oka was born in 1860 in [Hagi](https://pl.wikipedia.org/wiki/Hagi), in the former domain of Chōshū. He thus came from the same background as Field Marshal [Yamagata Aritomo](https://pl.wikipedia.org/wiki/Aritomo_Yamagata), the creator of the modern Japanese army, and he was one of the leading figures of the so-called Chōshū clique, which had dominated the army for decades. In 1881 he graduated from the military academy and then from the army staff college. In the [war with China](https://pl.wikipedia.org/wiki/Wojna_chińsko-japońska_(1894–1895)) he was a staff officer of the 1st Division, and during the [war with Russia](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-japońska) he headed the military affairs bureau of the War Ministry. Later he was vice-minister and commander of the 3rd Division.
+
+He became war minister in the cabinet of [Ōkuma Shigenobu](/postacie/shigenobu-okuma) in April 1914. A few months later Japan [declared war on Germany](/japonia-wypowiada-wojne-niemcom), and in November its army, with British participation, took the German fortress of [Tsingtao](/kapitulacja-tsingtao). The government in which Oka sat, however, [refused](/japonia-nie-wysle-wojsk-do-europy) to send troops to Europe. For the army the minister's most important business was the expansion of the army by two new divisions, which the generals had been demanding for years. The opposition party [Rikken Seiyūkai](https://pl.wikipedia.org/wiki/Rikken_Seiyūkai) rejected this bill in December 1914, which led to the dissolution of parliament. After the elections of March 1915, won by the government, the house passed the bill, and in December 1915 the 19th and 20th Divisions were formed in Korea. Historians note that Oka stubbornly defended military spending against the finance minister, and in political disputes more often sided with Ōkuma than with his former patron Yamagata.
+
+Oka never recovered his health. On 6 July 1916 he was made a baron in recognition of his services in three wars, and two weeks later, on 20 July, he died in Tokyo at the age of 56. He was succeeded at the ministry by the vice-minister, General Ōshima Ken'ichi.

@@ -1,0 +1,16 @@
+---
+title: Macready appointed Adjutant-General
+summary: On 22 February 1916 General Nevil Macready became Adjutant-General of the British Army. At the War Office his main task was to find men for the front.
+source: macready-adiutantem-generalnym-armii
+sourceHash: faa6eaad904d431e9cd047fcb56f065251121e9b
+---
+
+On 22 February 1916 Lieutenant-General Sir Nevil Macready was formally appointed Adjutant-General of the British Army (Adjutant-General to the Forces). The British chronology of the war describes the office as that of "Adjutant-General to the Forces at home", but in reality it meant heading the personnel department of the whole army at the [War Office](https://pl.wikipedia.org/wiki/War_Office) and a seat on the Army Council. Macready succeeded [General Henry Sclater](/dymisja-henryego-sclatera), and in France, where he had until then been [Adjutant-General of the expeditionary force](/macready-odchodzi-ze-sztabu-bef), he was succeeded by [General George Fowke](/fowke-adiutantem-generalnym-bef). According to Macready's memoirs, he had taken over his duties a day earlier, on 21 February.
+
+That morning he was summoned by the Secretary of State for War, Lord [Kitchener](/postacie/horatio-kitchener). Macready expected firm guidance on reinforcements, but instead the field marshal spoke for an hour mainly about his own position, diminished, as he claimed, by the wide powers of the new Chief of the Imperial General Staff, General William Robertson. At the end he merely stated that every possible man must be brought into the army. Macready noted that Kitchener's attitude struck him as sad, almost pitiful.
+
+It was Robertson who gave him a clear task: the main job of the Adjutant-General's department was to be finding men. The [Military Service Act](/ustawa-o-sluzbie-wojskowej-wchodzi-w-zycie), which introduced conscription of unmarried men, was just coming into force, and the first conscripts were to be called up in March. From the start, however, it was clear that the munitions industry, agriculture, the mines and other departments would compete with the army for the same men. Macready admitted that the War Office he had left in August 1914 was overworked and disorganised, because many experienced staff had then gone to the headquarters of the expeditionary force in France.
+
+The new Adjutant-General knew his department well, having worked in it for a total of more than six years before the war, most recently as Director of Personal Services. In March 1916 he submitted to Kitchener a memorandum calling for the creation of a single body to allocate the country's manpower between the army and the economy. The idea was then considered utopian, and such an office, the Ministry of National Service, was created only in August 1917.
+
+Macready headed the department until 1918. Among other things he had to deal with the [Easter Rising](https://pl.wikipedia.org/wiki/Powstanie_wielkanocne) in Ireland, the treatment of conscientious objectors and the growing employment of women in the army's auxiliary services. In August 1918 he became Commissioner of the Metropolitan Police, and in 1920–1922 he commanded the British forces in Ireland during the [War of Independence](https://pl.wikipedia.org/wiki/Irlandzka_wojna_o_niepodległość).

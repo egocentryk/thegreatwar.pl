@@ -1,0 +1,26 @@
+---
+title: Ottoman troops in Kermanshah
+summary: In January 1916 Ottoman battalions arrived in Kermanshah. The city was not captured, but was a centre of Persian nationalists allied with Germany.
+source: wojska-osmanskie-w-kermanszahu
+sourceHash: 98b2660d6659406c42faf158e7b32657dc285855
+---
+
+The British chronology of the war records under 13 January 1916 the occupation of [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) in western Persia by Turkish troops. This was not, however, the capture of the city. Kermanshah had for several weeks been in the hands of Persian opponents of the Entente, and the Ottoman units came there at their request, as allies. The available studies do not give the day on which the Turkish soldiers entered the city. The history of the Caucasian wars by Allen and Muratoff and the work of the Iranian historian Iraj Nasseri suggest that the first battalions arrived at the turn of December and January, and further ones in the following weeks. The entry in the chronology most probably reflects the moment when news of the Turkish garrison reached London. On the same day the Russians took Kangavar, halfway along the road from Hamadan to Kermanshah.
+
+## City of emigrants
+
+After the Russians [took Hamadan](/rosjanie-zajmuja-hamadan) in mid-December 1915, Kermanshah became the main centre of the Persian nationalists who in November had [left Tehran](/dyplomaci-panstw-centralnych-opuszczaja-teheran) together with the envoys of the Central Powers. The Persians called them mohajerin, that is "emigrants". The city had long been a base for German agents, and in 1915 the British and Russian consuls had been forced to leave it. On 10 December 1915 the [Persian gendarmes](https://pl.wikipedia.org/wiki/Irańska_Żandarmeria_Rządowa), commanded by a Swedish officer, took over the government offices and the post and telegraph office. Armed tribesmen seized the customs house and arrested its head, a Belgian. The governor sent from Tehran, Eqbal od-Dowleh, had no authority at all, and when the nationalists formed their own government he was told to choose between cooperation and departure. He chose departure. Kermanshah in practice cut itself off from the central government.
+
+More German diplomats and officers kept arriving in the city. On 2 January 1916 Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz) appeared, commander of the Ottoman forces in Mesopotamia and in charge of operations in Persia, with Colonel Bopp's military mission. According to Nasseri, he spent three days in the area, conferred with the nationalist leaders and returned to Baghdad. Also active in Kermanshah were a Turkish consul and the Turkish military attaché Fauzi Bey, who coordinated pan-Islamic propaganda.
+
+## Turkish battalions
+
+Goltz had sent help to Persia as early as December, when Ottoman troops [occupied Qasr-e Shirin](/wojska-osmanskie-zajmuja-kasr-e-szirin) on the border. According to Allen and Muratoff, first one battalion of regular infantry with a battery of mountain guns came to Kermanshah, and soon three more battalions. Nasseri puts the Turkish help at a little over 1,500 soldiers, while the nationalist leader Nezam os-Saltaneh wrote to Berlin at the time that only 2,000 Ottoman soldiers and 500 old rifles had come. In mid-January Russian intelligence estimated the enemy forces in Kermanshah at about 6,000 men, far more than other sources give.
+
+The battalions were quickly sent to the front. One of them fought together with the volunteers of the German military attaché, Count Georg von Kanitz, at Kangavar, from where on 13 January they were driven out by General Nikolai Baratov's Russians. The others, together with gendarmes and tribal volunteers, manned a fortified line at Bid-e Sorkh, on the road from Kangavar to Kermanshah, where the Germans had had about 20 kilometres of trenches dug.
+
+## Nezam os-Saltaneh's government
+
+The Turkish help was meant to prop up the government that the Persian nationalists wanted to form in Kermanshah. Its leader was Reza Qoli Khan Nezam os-Saltaneh, governor of [Lorestan](https://pl.wikipedia.org/wiki/Lorestan). On 26 December 1915 in [Borujerd](https://pl.wikipedia.org/wiki/Borudżerd) he signed an agreement with Kanitz. The Germans promised him command of a Persian national army and of the German and Turkish troops in Persia, arms, money and 20,000 tomans a month, and he undertook to obey Goltz and to raise 4,000 armed men by 14 January 1916. In January he arrived in Kermanshah with an escort of 200 horsemen, and the emigrants entrusted him with executive power. Nezam os-Saltaneh informed Emperor [Wilhelm II](/postacie/wilhelm-ii) and [Enver Pasha](/postacie/enver-pasza) of this by telegram, asking for troops and arms. Polite replies came from Berlin and Constantinople, but apart from the Turkish battalions no help arrived.
+
+The government in Kermanshah lasted only a few weeks. At the end of February 1916 Baratov broke through the line at Bid-e Sorkh and took the city, and the emigrants, gendarmes and Turks withdrew to Qasr-e Shirin and then to Baghdad. Ottoman troops returned to Kermanshah only in the summer of 1916, after the surrender of Kut, and Nezam os-Saltaneh then re-formed his government there.

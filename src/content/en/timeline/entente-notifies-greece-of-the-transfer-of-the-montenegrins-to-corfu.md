@@ -1,0 +1,14 @@
+---
+title: Entente notifies Greece of the transfer of the Montenegrins to Corfu
+summary: On 13 February 1916 the Entente told Greece that Montenegrin soldiers would also be taken to Corfu. Only a handful of King Nicholas's broken army survived.
+source: ententa-zawiadamia-grecje-o-przewiezieniu-czarnogorcow-na-korfu
+sourceHash: fb03b94921d70447a4687d776a64acfdcf289d2a
+---
+
+A British chronology of the war records under 13 February 1916 that the Entente governments notified Greece of their intention to transfer the Montenegrin army to [Corfu](https://pl.wikipedia.org/wiki/Korfu). The text of this note could not be found either in the published documents of Greek diplomacy or in the press of those weeks. A month earlier, on 10 January, the Allies had in a similar way [informed the government in Athens](/ententa-zawiadamia-grecje-o-przewiezieniu-serbow-na-korfu) that the Serbian army would be taken to the island. They had not asked for consent then, merely announced their decision.
+
+In practice, however, the Montenegrin army no longer existed. After the fall of Lovćen and Cetinje, King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) [left for Italy](/koniec-rozejmu-w-czarnogorze) and declared that he did not recognise the capitulation and would fight on. According to some accounts he called on General [Janko Vukotić](https://pl.wikipedia.org/wiki/Janko_Vukotić) from there to withdraw the army to Albania together with the Serbs. The ministers who had stayed in the country acted otherwise. On 25 January Montenegrin representatives signed the terms of surrender, and the soldiers went home. [Andrija Radović](https://pl.wikipedia.org/wiki/Andrija_Radović), later prime minister of the government in exile and an opponent of the king, accused him in a pamphlet published after the war of not taking with him even the 2,500-strong detachment that stood at Scutari right next to the Serbian army and could easily have escaped the enemy. [The Austrians took Scutari](/austriacy-zajmuja-szkodre) without a fight.
+
+For the Entente, however, the matter was political. The king in exile had not signed the capitulation, and the Allies wanted Montenegro to remain in their camp as a belligerent state rather than make a separate peace with Vienna. The British official history of the operations in Macedonia judges this soberly: the Montenegrins did not need rescuing, because their army wanted nothing so much as to go home.
+
+For Athens this was yet another notification of a fait accompli. Greece had been unable to prevent [the occupation of Corfu](/grecja-odmawia-zgody-na-zajecie-korfu), and the Allies [had already set up the seat of the Serbian state on the island](/rzad-serbski-na-korfu). In the case of the Serbs they could at least invoke the Greek–Serbian alliance of 1913. That treaty did not cover Montenegro, and the island itself had been guaranteed perpetual neutrality by the powers in 1864.

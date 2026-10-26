@@ -1,0 +1,20 @@
+---
+title: Reports of the capture of Kerend
+summary: "According to British sources, on 12 March 1916 the Russians took Kerend on the Kermanshah–Baghdad road. They did not hold it: in April the Turks defended it."
+source: doniesienia-o-zajeciu-kerendu
+sourceHash: bb6ac36ebd2c02b3d4fa55679e3dfad7242b503c
+---
+
+The British chronology of the war records under 12 March 1916 that a Russian detachment occupied Kerend in western Persia, and adds that it later withdrew. The British official history of the Mesopotamian campaign gives the same date. Kerend, a small town in the [Zagros](https://pl.wikipedia.org/wiki/Zagros) mountains, lay on the main caravan road from [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)) to Baghdad, about 100 kilometres west of Kermanshah and more than halfway to the border with Ottoman Iraq. Anyone going from Persia towards Baghdad had to pass it.
+
+## After the fall of Kermanshah
+
+General Nikolai Baratov's expeditionary corps [entered Kermanshah](/rosjanie-zajmuja-kermanszah) at the end of February. The Persian nationalists, who under Nezam os-Saltaneh had wanted to form their own government there, withdrew west together with the gendarmes, German officers and Turkish battalions. According to the Iranian historian Iraj Nasseri, the émigrés stopped at Kerend for only a day or two and then moved on to [Qasr-e Shirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin) near the border. On the way they fortified the Pa Tak pass between Kerend and Sarpol-e Zahab. General Yevgeny Maslovsky, who served on the staff of the Caucasus Army, writes that immediately after taking Kermanshah the Russians sent two cavalry squadrons towards Kerend.
+
+Neither Maslovsky nor Allen and Muratoff, the authors of the history of the Caucasian wars, mention the capture of Kerend in March, however. Most probably a forward detachment of Russian cavalry reached the town but could not hold on there so far from its bases. In the spring Baratov first had to sort out his supplies. His units were scattered along hundreds of kilometres of road from the Caspian coast to Kermanshah, and snow still lay in the mountains. On 25 March the British Chief of the Imperial General Staff informed the commander in Mesopotamia, General Percy Lake, that because of the lack of food in the Kermanshah and Khanaqin area and the snowbound passes, the Russians could not for the time being advance towards Baghdad.
+
+## The Turks in Kerend
+
+Meanwhile Kerend was occupied by the Russians' opponents. Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz), commander of the Ottoman Sixth Army, sent four battalions of the newly arrived 6th Division with twelve guns towards the Persian border and entrusted the defence of the frontier to the German Major Bopp. According to W. E. D. Allen and Paul Muratoff, on 10 April these four battalions were at Kerend. Maslovsky describes the same disposition as of 2 April in the Julian calendar, that is 15 April in the Gregorian: in the centre, at Kerend, Şevket Bey with four battalions of Turkish infantry and ten guns; on the wings Persian gendarmes and thousands of tribal horsemen; and further units in reserve at Qasr-e Shirin.
+
+The British had a mistaken idea of the situation in Persia. In the appreciation of the situation that General Lake requested on 15 March, General George Gorringe, who was preparing the third attempt to relieve [Kut](https://pl.wikipedia.org/wiki/Al-Kut), reckoned that 10,000 Russians standing at Kerend against 7,000 Turks would approach Baghdad within a month. In reality Baratov did not move out from Kermanshah until 20 April, with no more than 5,000 men. He drove the Turks from their position at Kerend on 29 April according to Allen and Muratoff, and on 16 April in the Julian calendar according to Maslovsky, which also corresponds to 29 April in the Gregorian. Kut capitulated on the same day. Nor was the withdrawal from Kerend mentioned in the British chronology the last: in the summer of 1916 a Turkish counter-attack pushed the Russians off this road and back beyond Kermanshah.

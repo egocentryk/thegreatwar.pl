@@ -1,0 +1,24 @@
+---
+title: Russians occupy Muş
+summary: In mid-February 1916 Russian Cossacks rode into Muş unopposed. They found the valley, whose Armenian inhabitants had been massacred in 1915, depopulated.
+source: rosjanie-zajmuja-mus
+sourceHash: 1b33224b466b1e29cc5193e1002338c253971767
+---
+
+The British chronology of the war records under 18 February 1916 the occupation by the Russians of [Muş](https://pl.wikipedia.org/wiki/Muş), a town in Turkish Armenia west of [Lake Van](https://pl.wikipedia.org/wiki/Wan_(jezioro)). The Russians, however, had been there earlier. According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, the 1st Laba Cossack Regiment rode into Muş on 16 February, the day [Erzurum fell](/rosjanie-zdobywaja-erzurum). General Yevgeny Maslovsky, who served on the staff of the Caucasus Army during the war, gives in his work the date of 4 February by the Julian calendar, that is, 17 February by the Gregorian. The entry in the chronology most probably reflects the day on which the news reached the West.
+
+## Covering the flank
+
+Muş lay in a fertile valley on the [Murat](https://pl.wikipedia.org/wiki/Murat_(rzeka)) river, the upper branch of the Euphrates, regarded before the war as the granary of eastern Anatolia. Through the valley and nearby [Bitlis](https://pl.wikipedia.org/wiki/Bitlis) ran the best road from Mosul and Diyarbakır to Erzurum. When General [Nikolai Yudenich](/postacie/nikolaj-judenicz) decided to storm Erzurum, he ordered General Vladimir de Witt's IV Caucasian Corps to take Muş and Bitlis. This was to cover the left flank of the army, pin down the Ottoman troops stationed there and cut the road by which Turkish reinforcements could arrive from the south. In January, during the [Erzurum offensive](/bitwy/ofensywa-erzurumska), the corps took Hınıs, a road junction north of the Muş valley.
+
+The column of General Foma Nazarbekov (in Armenian Tovmas Nazarbekian), an Armenian by origin, set out for Muş; it consisted mainly of the 7th and 8th Caucasian Rifle Regiments and the Laba Cossack Regiment. General Abatsiev's column marched on Bitlis, and a third advanced along the southern shore of Lake Van. Allen and Muratoff estimate the Russian forces in this operation at 12,000–13,000 men and the Turkish ones at about 15,000, with 20–30 guns, counting infantry regiments, frontier guards, gendarmes, a cavalry division and Kurdish units.
+
+## Over the passes
+
+To the north the Muş valley was closed off by a ridge with two passes, on which the Turks had taken up strong positions. According to Maslovsky, Nazarbekov advanced on them in three columns around 9 February. The snow was so deep that in some places only the tops of the telegraph poles stuck out of it. The main column, which was to outflank the Turks and come out in their rear, advanced slowly and lost its way. A smaller group left facing the pass held off a stronger enemy for three days. The fighting was decided by a battalion of the 7th Rifle Regiment, which crossed the steep slopes of the Bingöl Dağı massif and appeared on the Turkish flank near the village of Gümgüm. The Turks, threatened with encirclement, withdrew towards Muş. The Russians followed them and, according to Maslovsky, took Gümgüm on 13 February almost without resistance. The disheartened Turks no longer tried to defend the town itself, and the Cossacks rode into it unopposed.
+
+## An empty valley
+
+Before the war the majority of the inhabitants of the kaza of Muş were Armenians. The Armenian Patriarchate in Constantinople counted more than 75,000 of them here, with over a hundred churches. In the summer of 1915, during the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), almost all of them were murdered, and according to accounts many were burned in their homes. Maslovsky noted that in the Muş valley itself the population was already very sparse, and that the area to the north of it and along the western shore of Lake Van had been almost completely deserted, because after the fighting of 1915 the Muslims had also left. Allen and Muratoff write that the country south of the Murat river, through which the Russians marched on Bitlis, was empty: famine, epidemics and massacres by irregular units of both sides had almost entirely depopulated it. Maslovsky also wrote that the deportation of the Armenians from the frontline areas had been carried out "with terrifying cruelty" and that about a million people had died in the process.
+
+The occupation of Muş opened the road to Bitlis for the Russians, which Abatsiev's column, reinforced by units from Muş and Van, took in a night bayonet attack on 2–3 March. Turkish reinforcements, the first divisions of the Second Army transferred from the Dardanelles, began to reach Diyarbakır only on 1 March, too late to defend the valley. In August 1916 Muş was retaken by the troops of [Mustafa Kemal](/postacie/mustafa-kemal), the future Atatürk.

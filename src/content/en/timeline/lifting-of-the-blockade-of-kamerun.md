@@ -1,0 +1,18 @@
+---
+title: Lifting of the blockade of Kamerun
+summary: On 29 February 1916, after the end of the fighting in Kamerun, the Allies lifted the blockade of its coast, declared in April 1915.
+source: zniesienie-blokady-kamerunu
+sourceHash: 0565a6c09a556ccf1f8e1cfab2ac321ce1bc3e3d
+---
+
+On 29 February 1916 the Allies lifted the [naval blockade](https://pl.wikipedia.org/wiki/Blokada_morska) of the coast of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). According to the British official history of the war at sea (Newbolt, *Naval Operations*) it was done that day by the French Commander Carré, the senior naval officer of the blockading force. The official history of the land campaign (Moberly, *Togoland and the Cameroons*) states that the blockade was finally lifted on 1 March, and that on one stretch of the coast it had ceased to apply as early as 11 January. The sources thus differ by one day.
+
+## The blockade did its job
+
+[The blockade was declared in April 1915](/brytyjska-blokada-kamerunu) to cut off the German troops in the interior of the colony from supplies smuggled through neutral [Spanish Guinea](https://pl.wikipedia.org/wiki/Gwinea_Hiszpańska). British and French warships, armed vessels and boats watched the coast, the trade routes and the river mouths. River flotillas patrolled the Sanaga, the Lokundje, the Nyong and the Campo. Newbolt particularly emphasises the patrol on the Campo: the Germans maintained a regular supply route from the coastal settlements of Spanish Muni to Jaunde, and only control of the river cut it. In January 1916 Allied vessels fought the last minor skirmishes with the Germans: the gunboat *Dwarf* on 1 January, and the boats *Alligator* and *Wuri* of the Nyong river flotilla on 4 and 8 January.
+
+In February the sailors had no less work. From 10 February crowds of African refugees, who had to be fed, poured into Campo, a coastal settlement on the border with Muni. According to Moberly a total of 21,000 of them passed through the British naval camp. The warships also checked every ship leaving Bata, the main port of Muni, to make sure that it was carrying internees with documents and a Spanish escort. Once the German troops had [crossed into Spanish Guinea](/niemcy-przechodza-do-gwinei-hiszpanskiej) and [Mora had capitulated](/kapitulacja-mory) on 18 February, the blockade no longer had anyone to act against. General Charles Dobell wrote in his final report that without the help of the Allied navies "on the sea, in the creeks and on land" the land forces would not have accomplished their task.
+
+## The partition of the conquered colony
+
+The end of the fighting opened the question of Kamerun's future. At the beginning of March 1916 diplomats of the two countries in London drew a provisional dividing line on the map, called the Picot line after the French diplomat. According to Newbolt the convention on the administration of the conquered territory was signed on 29 March. France took over the administration of almost the whole colony, with [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) and most of the central plateau. Great Britain received a narrow strip along the border with Nigeria, with Mount Cameroon, Buea and Victoria, about a fifth of the area. The partition was meant to be provisional and not to prejudge the final settlement, but in 1919 it became the basis of the border between what became [French Cameroon](https://pl.wikipedia.org/wiki/Kamerun_Francuski) and [British Cameroons](https://pl.wikipedia.org/wiki/Kamerun_Brytyjski). In mid-March the disbanding of Dobell's Allied expeditionary force began.

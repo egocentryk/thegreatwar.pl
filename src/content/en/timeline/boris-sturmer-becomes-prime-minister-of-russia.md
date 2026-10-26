@@ -1,0 +1,26 @@
+---
+title: Boris Stürmer becomes prime minister of Russia
+summary: In early February 1916 the Tsar removed the 76-year-old premier Goremykin. His successor was Boris Stürmer, a conservative close to the Tsarina.
+source: boris-sturmer-premierem-rosji
+sourceHash: 9dd604288a7b2dee729238bb452e4eef40dea66f
+---
+
+At the turn of January and February 1916 Tsar [Nicholas II](/postacie/mikolaj-ii) removed the Chairman of the Council of Ministers, that is, the prime minister of Russia, [Ivan Goremykin](https://pl.wikipedia.org/wiki/Iwan_Goriemykin). His place was taken by [Boris Stürmer](/postacie/boris-sturmer), a member of the [State Council](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), a former court official and provincial governor. The British chronology of the war records the change under 1 February. The imperial ukase is dated 20 January in the Julian calendar, that is, 2 February in the Gregorian calendar. On that very day the French ambassador Maurice Paléologue noted in his diary that Goremykin had been dismissed that morning "on grounds of health".
+
+## The departure of "the old man"
+
+Goremykin was 76. He had already been prime minister once in 1906, and again since the beginning of 1914. He governed as the faithful executor of the monarch's will and openly disregarded the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)). In 1915, after the defeats at the front, a majority of the deputies formed the Progressive Bloc, which demanded a government enjoying the confidence of the public. To the bloc Goremykin was the symbol of everything that needed to change. When in 1915 some of the ministers opposed [the Tsar's assumption of the supreme command](/mikolaj-ii-obejmuje-naczelne-dowodztwo), he sided with the monarch. In September the Duma was prorogued, and the prime minister repeatedly postponed the date of its recall. According to Paléologue, discontent over this was reaching dangerous proportions. The ambassador wrote that the old premier had kept his clarity of judgement, but lacked the energy and authority to face the deputies, who intended to call him to account for his reactionary policy.
+
+The Tsar had been looking for a successor for several weeks. At the beginning of January (Julian calendar) he wrote to his wife that he was "constantly thinking of a successor for the old man", and added that Stürmer had sent him a request for permission to change his name to Panin, after his mother's family. Nicholas replied that he could not agree without the prior consent of the living Panins.
+
+## Who Stürmer was
+
+Boris Vladimirovich Stürmer was born in 1848 on the Baykovo estate in [Tver Governorate](https://pl.wikipedia.org/wiki/Gubernia_twerska), into a landowning family of German origin. Paléologue wrote that he was a grandnephew of Baron Stürmer, the Austrian commissioner who had watched over Napoleon on Saint Helena. After studying law he spent over a decade in charge of ceremonial matters at the Ministry of the Imperial Court, then worked in the Tver zemstvo. He was governor of Novgorod and, from 1896, of [Yaroslavl](https://pl.wikipedia.org/wiki/Jarosław_(Rosja)). In 1902 he became a department director in the Ministry of the Interior under [Vyacheslav von Plehve](https://pl.wikipedia.org/wiki/Wiaczesław_Plehwe), and from 1904 he sat in the State Council. An influential circle of far-right officials and politicians met in his flat.
+
+According to Paléologue the appointment surprised everyone, and in wartime, when distrust of everything German was spreading in Russia, the new premier's German name boded ill for his popularity. The ambassador, who gathered information about him after the appointment, judged him very harshly as a mediocre, cunning and fawning man with no experience of affairs of state. He believed that Stürmer had been chosen precisely because he was to be an obedient tool. In his view the candidacy was backed by the circle of the Tsarina [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna) and recommended to the Tsar by [Grigori Rasputin](/postacie/grigorij-rasputin), with whom the new premier was on close terms. This conviction was widespread in the capital and strengthened the rumours that the fate of the state was being decided by the "dark forces" at court.
+
+The foreign minister, [Sergei Sazonov](/postacie/siergiej-sazonow), received the change with evident unease. He drily reminded the French ambassador that foreign policy belonged solely to the foreign minister, who answered only to the Tsar, and that the prime minister knew nothing of it.
+
+## The first weeks and after
+
+The new premier began with gestures towards the Duma. Its sittings resumed on 22 February (9 February in the Julian calendar). The Tsar himself unexpectedly came to the Tauride Palace for the opening of the session, the first time since the Russian parliament had come into being. Stürmer's speech, however, disappointed the deputies. In March he also took over the Ministry of the Interior, and in July, after Sazonov's dismissal, the Ministry of Foreign Affairs as well. In the autumn of 1916 he became the target of attacks by the whole opposition. In November, after the famous speech in the Duma by the Kadet leader [Pavel Milyukov](/postacie/pawiel-milukow), the Tsar dismissed him.

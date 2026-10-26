@@ -1,0 +1,20 @@
+---
+title: First Serbian soldiers on Corfu
+summary: In mid-January 1916 the first Serbian soldiers from Albania began to arrive on Corfu. Many were so exhausted that they died soon after coming ashore.
+source: pierwsi-serbscy-zolnierze-na-korfu
+sourceHash: e7180ffe8ee00a263aa442ada466afa6cfad20f1
+---
+
+The British chronology of the war records under 15 January 1916 the landing of the first Serbian soldiers on [Corfu](https://pl.wikipedia.org/wiki/Korfu). Four days earlier [the French had landed there](/francuzi-zajmuja-korfu) to prepare the island to receive the remnants of the army from Albania, and two days earlier [Greece had protested](/grecja-odmawia-zgody-na-zajecie-korfu) against this plan. The details of the first transport could not be established. According to Serbian studies, regular transports to Corfu began on 18 January, and the main place of disembarkation was Gouvia bay, about 6 kilometres north of the town of Corfu. The correspondent of the London "Daily Chronicle" reported from the island on 21 January that large detachments of Serbs were arriving every day and that their condition was terrible.
+
+## The road to the ports
+
+The soldiers who reached Corfu had behind them [the retreat through the mountains of Montenegro and Albania](/poczatek-odwrotu-serbow-przez-albanie) and several weeks of starvation on the coast. After the fall of Montenegro the Allies hastily evacuated San Giovanni di Medua, the port closest to the enemy, and tens of thousands of Serbs marched south to [Durrës](https://pl.wikipedia.org/wiki/Durrës) and [Vlorë](https://pl.wikipedia.org/wiki/Wlora), through coastal marshes and rivers swollen by the winter rains. Many died on the way. The sea was dangerous too. On 6 January off Medua the Italian steamer *Brindisi*, which had brought several hundred Montenegrin volunteers from America, struck a mine and sank, and Austro-Hungarian submarines and cruisers were hunting the transports.
+
+According to the British official history of naval operations, most of the Serbian army, about 134,000 officers and men and 36,350 horses and draught oxen, was transported in February. Ships with a total tonnage of 203,000 tons were used, making 322 voyages, and Allied warships carried out 1,159 patrols and escorts, between half and two-thirds of them Italian. According to figures of the French mission cited by Serbian historians, by 19 February more than 154,000 people in all had been evacuated from Albania, of whom almost 139,000 soldiers and civilians went to Corfu and about 11,000 to [Bizerte](https://pl.wikipedia.org/wiki/Bizerta) in Tunisia. The last transports reached the island only in April.
+
+## The island of death
+
+Despite the French preparations, Corfu was not ready for such crowds. Gordon Gordon-Smith wrote that for the first weeks it rained without a break, the Serbs had no tents and the camps turned into a sea of mud. The most seriously ill were taken to the small island of Vido at the entrance to the harbour of the town of Corfu, where the first Serbian military hospitals arrived on 21 January. They were soon joined by several thousand utterly exhausted young recruits. According to Serbian sources, in the first days up to 300 men a day died there. When there was no more room for graves on the islet, the dead were taken out in boats and sunk at sea. The Serbs called Vido "the island of death", and the waters around it "the Blue Tomb", after a poem by [Milutin Bojić](https://pl.wikipedia.org/wiki/Milutin_Bojić). According to the French official history, cited by the British one, 5,400 Serbs died on Corfu between 29 January and the end of April. Serbian estimates of the number buried on Vido and at sea reach about 10,000.
+
+Most of the survivors, however, quickly regained their strength. The French supplied bread from field bakeries, meat, new uniforms and weapons, and the army was reorganised into six divisions. From April to the end of May 1916 it was transported to Salonika, where it returned to the fight on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki).

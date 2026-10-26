@@ -1,0 +1,22 @@
+---
+title: Denys Cochin heads the French blockade
+summary: In March 1916 Briand's government put Minister of State Denys Cochin at the head of the blockade committee. He became under-secretary for it only in December.
+source: denys-cochin-na-czele-francuskiej-blokady
+sourceHash: 00d5e6e817df614cb5e174bb93912a78aa36843a
+---
+
+A British chronology of the war records under 20 March 1916 that [Denys Cochin](https://pl.wikipedia.org/wiki/Denys_Cochin) had become French Under-Secretary of State for the Blockade. That was the name of his office only from December 1916. In March a more modest change was involved. According to the history of the blockade written by the French naval officer Louis Guichard, the government of [Aristide Briand](/aristide-briand-premierem-francji) decided on 23 March that the Restriction Committee, which dealt with cutting the enemy off from supplies, would be chaired by a minister of state, namely Cochin. The Paris *Le Temps*, in its issue dated 25 March, announced the new composition of the committee: the chairman was to be a minister of state appointed by the Prime Minister, and its members representatives of ten departments, from the Prime Minister's office, justice and foreign affairs to finance, war, the navy, commerce, agriculture and the colonies. French sources do not confirm the date of 20 March itself. They speak of a decision taken three days later.
+
+## A committee without a head
+
+The Committee for Restricting Enemy Supplies and Trade, known for short as the Restriction Committee or "Committee R", was set up on 22 March 1915, after an unsuccessful attempt in November 1914. It was made up of representatives of several ministries and chaired by an admiral. It was an advisory body. The drafts of all agreements with neutral states and all information on enemy and neutral trade passed through it. Alongside it, however, separate commissions dealt with exemptions from export bans and with quotas, and in practice decisions on the blockade were taken by various ministries. By the end of 1915 it was being said ever more loudly in France that a blockade without unified direction was contrary to common sense.
+
+The impulse for change was the British example. On [23 February](/robert-cecil-ministrem-blokady) a Ministry of Blockade was set up in London under Lord Robert Cecil. Guichard writes that the French government also wished to unify the blockade services, but managed only a half-measure. Cochin was given the chairmanship of the committee without clearly defined powers. Another novelty was that representatives of the allied embassies could now attend its meetings.
+
+## Who Cochin was
+
+Baron Denys Cochin was 64. He was born in Paris in 1851. After the war of 1870 he spent a year as an attaché at the embassy in London, then studied chemistry, among other places in the laboratory of [Louis Pasteur](https://pl.wikipedia.org/wiki/Louis_Pasteur). From 1893 he was a deputy for Paris and one of the leading speakers of the Catholic right in the Chamber of Deputies, and from 1911 a member of the [Académie française](https://pl.wikipedia.org/wiki/Akademia_Francuska). When Briand formed his government in October 1915, he took Cochin into it as a minister of state without portfolio. His presence in the same cabinet as anticlericals was a symbol of the "sacred union" of all parties in wartime. In November 1915 Cochin went on a mission to Athens, where crowds gave him an enthusiastic welcome, although the Greek king and government remained distrustful of the Entente.
+
+## What came next
+
+Cochin soon gained a stronger position in blockade matters than the March decision had envisaged. According to Guichard, on 23 August 1916 the Council of Ministers decided that he would present all blockade matters to the government, that the ministries were to consult him before taking decisions, and that in case of disputes he would decide as arbiter. The British historian of the blockade Archibald Bell describes how in the summer of 1916 Cochin led the French delegation in talks with Cecil and at first resisted the allies' abandonment of the [Declaration of London](https://pl.wikipedia.org/wiki/Deklaracja_londyńska), and then conducted difficult negotiations with Switzerland on behalf of the allies. In December 1916, at his own request, Cochin gave up the title of minister of state and became Under-Secretary of State for the Blockade at the Ministry of Foreign Affairs. He held this office in Alexandre Ribot's government as well, until his resignation in August 1917.

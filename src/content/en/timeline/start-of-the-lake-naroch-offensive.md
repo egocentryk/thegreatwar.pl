@@ -1,0 +1,22 @@
+---
+title: Start of the Lake Naroch offensive
+summary: On 18 March 1916 the Russian 2nd Army attacked the Germans at Lake Naroch to relieve Verdun. On the first day it lost more than 15,000 men and gained nothing.
+source: poczatek-bitwy-nad-jeziorem-narocz
+sourceHash: 064ee9bd1dd98fe9d514d2a88fb76586cb264a93
+---
+
+At dawn on 18 March 1916 (5 March in the Julian calendar then used in Russia), hundreds of Russian guns opened fire along a front about 60 kilometres long in the lake country east of [Vilna](https://pl.wikipedia.org/wiki/Wilno). In the afternoon the infantry of the [2nd Army](https://pl.wikipedia.org/wiki/2_Armia_(Imperium_Rosyjskie)) went into the attack against the positions of the German [10th Army](https://pl.wikipedia.org/wiki/10_Armia_(Cesarstwo_Niemieckie)) of General [Hermann von Eichhorn](/postacie/hermann-von-eichhorn) at [Postavy](https://pl.wikipedia.org/wiki/Postawy) and south of Lake [Naroch](https://pl.wikipedia.org/wiki/Narocz). It was the first great Russian offensive since the Great Retreat of 1915.
+
+## Help for Verdun
+
+The offensive was a response to a French request. At the [Second Chantilly Conference](/druga-konferencja-w-chantilly) the Allies had agreed on a joint offensive only in the summer of 1916, but on 21 February the Germans attacked [at Verdun](/bitwy/bitwa-pod-verdun). General [Joseph Joffre](/postacie/joseph-joffre) asked the Allies to pin down the Germans on other fronts. A week earlier, on [11 March](/poczatek-piatej-bitwy-nad-isonzo), the Italians had attacked on the Isonzo for the same reason. Russian headquarters decided to attack at the junction of General [Alexei Evert](/postacie/aleksiej-ewert)'s Western Front and the Northern Front before the spring thaw turned the lake district into a swamp. The main objective was [Švenčionys](https://pl.wikipedia.org/wiki/Święciany), a road junction behind the German front.
+
+The Russians had a great numerical superiority. According to the Soviet monograph by Nikolai Podorozhny, the 2nd Army numbered about 370,000 soldiers and 887 guns, while the Germans had about 80,000 men facing it. The army, however, had been commanded for only a few days by General [Aleksandr Ragoza](https://pl.wikipedia.org/wiki/Ołeksandr_Rohoza), commander of the 4th Army, sent to replace the sick General [Vladimir Smirnov](https://pl.wikipedia.org/wiki/Władimir_Smirnow_(generał)). He knew neither the troops nor the ground. Only half of the shells had been brought up, and the ground was still frozen.
+
+## The course of the day
+
+In the north, General Mikhail Pleshkov's group concentrated almost all its artillery on the sector of I Siberian Corps, 2–3 kilometres wide. The bombardment, opened at a quarter past eight, was the heaviest the Russian soldiers had seen in this war, but it did not destroy the German machine guns on the flanks. The neighbouring 22nd Infantry Division, which had no heavy guns, went into the attack at about 12.35 p.m., when through a telephone mistake it received word that the Siberians were already attacking. It reached uncut wire and in the evening fell back, having lost more than 5,500 men. The Siberians broke into the German trenches, but fire from the flanks forced them to withdraw.
+
+In the south, in the isthmus between Lake Naroch and Lake Vishnevskoye, General [Pyotr Baluyev](https://pl.wikipedia.org/wiki/Piotr_Bałujew)'s group began its bombardment at seven in the morning. Spread over the whole front, the fire did not smash the German fortifications. The attack, set for noon, was postponed to 3 p.m. because one of the divisions was not ready. Waiting under fire sapped the soldiers' morale, and when they finally advanced, German artillery fire stopped them. General [Leonid-Otto Sirelius](https://pl.wikipedia.org/wiki/Leonid-Otto_Sirelius)'s central group was only to pin down the Germans and spent the whole day merely exchanging artillery fire. The Germans were therefore able to shift reserves from its front to the threatened sectors.
+
+According to Podorozhny, on 18 March the 2nd Army lost 183 officers and 15,139 men killed and wounded, and nowhere held on to the trenches it had taken. This was not the end of the offensive. The Russians went on attacking in the following days, by night as well, and on 21 March Baluyev's group took several lines of trenches on the southern shore of Lake Naroch. Soon, however, the thaw came and drowned the offensive in mud.

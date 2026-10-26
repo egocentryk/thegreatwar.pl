@@ -1,0 +1,28 @@
+---
+title: Start of the Battle of Sheikh Saad
+summary: On 6 January 1916 Younghusband's vanguard attacked the Turkish trenches at Sheikh Saad on both banks of the Tigris. It stalled and the Turks were reinforced.
+source: poczatek-bitwy-pod-szejk-saad
+sourceHash: d474331a963f5d29b2f89a869342a67fe8aa0549
+---
+
+On 6 January 1916 on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), a few kilometres downstream from the settlement of Sheikh Saad, the troops marching to relieve besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut) ran into strong Ottoman defences for the first time. The advanced guard of the Tigris Corps, General George Younghusband's 7th Division, had [set out from Ali al-Gharbi](/poczatek-pierwszej-proby-odsieczy-al-kutu) two days earlier. It was only to pin the enemy down until the rest of General Fenton Aylmer's corps arrived, but it attacked on both banks of the river. By evening the attack had stalled a few hundred metres short of the Turkish trenches.
+
+## Orders and doubts
+
+On the evening of 5 January Younghusband intended to pin the Turks down on the left bank and, on the right bank, where General George Kemball's column with the 28th Brigade was advancing, to push their right flank into the loop of the river at Sheikh Saad. He reckoned that the loss of this position would expose the trenches on the left bank to fire from the flank. Air reconnaissance that day showed, however, that trenches ran on both sides of the river and that there might be more than 10,000 Turks. At six in the evening Aylmer telegraphed that he did not want to risk even a partial failure. He ordered Younghusband to hold the enemy in position "with sufficient energy to make him disclose his hand" until he arrived with the rest of the corps. Younghusband decided not to change the orders already issued. He replied that he would advance in the morning along both banks to clarify the situation and pin the Turks down, and, if all went well, would reach Sheikh Saad. He had not heard of regular trenches and believed the enemy intended to withdraw.
+
+## The attack on the right bank
+
+Thick fog delayed the start until nine. The fog lifted at about ten, and half an hour later Kemball's advanced guard drove off about a thousand Arabs with fire. At about noon the 28th Brigade went into the attack. Kemball wanted to strike the right, outer flank of the Turkish line indicated by the airmen, but the trenches extended much further south than had been thought. Instead of outflanking the Turks, the British left flank itself came under enfilade fire. Under heavy rifle and machine-gun fire the battalions wheeled towards the shooting and gaps opened between them. The 6th Cavalry Brigade, which was to get round behind the Turks, got stuck among irrigation ditches and was threatened from the left by strong Turkish and Arab cavalry. The guns of the horse artillery battery kept it at a distance, but the cavalry advanced no further. By evening the leading battalions, the 56th Rifles, the 53rd Sikhs and the 2nd Battalion, Leicestershire Regiment, had come within 300–500 metres of the Turkish trenches.
+
+## The left bank
+
+On the left bank General G. B. H. Rice's column went into action at about eleven, when its leading battalion, the 37th Dogras, came within about 800 metres of a strong line of trenches running north from the river. The Dogras, supported by the 97th Infantry and the 102nd Grenadiers, dug in under fire. On the flat, colourless ground the skilfully concealed Turkish trenches were invisible until close at hand, and the illusions of [mirage](https://pl.wikipedia.org/wiki/Miraż) often misled the observers. The gunboats on the river could do little to help. In the afternoon they fired on a Turkish mine floating downstream, and in the evening they spotted a second one.
+
+At 3.50 p.m. Younghusband halted the attack. He concluded that the Turks had decided to put up a stubborn defence, that Kemball's column would not be able to break their line before dark, and that committing the reserves on the left bank would finally tie down the whole division. The soldiers dug in for the night where they stood, under heavy fire and in the rain. According to Younghusband the day's losses amounted to about 600 men. Under enemy fire the sappers began to build a bridge of boats, which was completed only the following day.
+
+## Who defended Sheikh Saad
+
+The British did not know how many Turks they had in front of them. According to information from the Turkish General Staff cited in the British official history, on 6 January, not counting the Arabs, only the 35th Division was defending the position, about 2,600 rifles, with a cavalry brigade (400 men) and a camel regiment. On the right bank stood the 105th Infantry Regiment. The Turks believed that had the outflanking movement on the right bank been carried out energetically, it would have decided the battle. The British historian observes that they underestimated the role of the numerous Arabs who helped them, and that already that day the first units of the 38th and 52nd Divisions were reaching the battlefield. A report by the Turkish column commander, intercepted during the night from an Arab messenger, spoke of the hard-pressed flank of the 105th Regiment and of an urgent shortage of ammunition, but also said that "complete victory" was already in sight.
+
+That day Aylmer, with the rest of the corps, marched from Ali al-Gharbi to a camp at the Musandaq bend, about 29 kilometres. During the night he ordered his units to set off in the morning along both banks to help Younghusband, and forbade Younghusband to commit himself to a serious attack before his arrival. On the morning of 7 January the two generals met at the bridge.

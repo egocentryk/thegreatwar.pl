@@ -1,0 +1,16 @@
+---
+title: Fowke becomes adjutant-general of the BEF
+summary: On 22 February 1916 Gen. George Fowke, until then Engineer-in-Chief, became adjutant-general of the BEF, in charge of personnel in Haig's army to the war's end.
+source: fowke-adiutantem-generalnym-bef
+sourceHash: 34d21a136acb1e5ec6ddfe3f825209b1a95e9b63
+---
+
+On 22 February 1916 Major-General Sir George Fowke became adjutant-general of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny). He replaced General [Nevil Macready](/macready-odchodzi-ze-sztabu-bef), who took up the corresponding post at the War Office in London. For the duration of his new appointment Fowke received the temporary rank of lieutenant-general. From then on, at the headquarters of General [Douglas Haig](/postacie/douglas-haig), he was responsible for personnel matters, reinforcements, discipline, the medical services and the registration of graves.
+
+Fowke was a sapper by training and experience. Born in 1864, he joined the Royal Engineers in 1884, and during the [Second Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska) he took part in the defence of [besieged Ladysmith](https://pl.wikipedia.org/wiki/Oblężenie_Ladysmith), as indeed did Macready. After the war he directed public works in the Transvaal, and during the [Russo-Japanese War](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-japońska) he was an observer with the Japanese army in Manchuria. Before the war, however, he had also become acquainted with personnel matters: in 1910–1913 he was Assistant Adjutant-General for the Royal Engineers at the War Office, and then Inspector of Royal Engineers.
+
+In August 1914 he went to France as the force's chief engineering adviser, and from the beginning of 1915 he headed its engineer service, soon with the title of Engineer-in-Chief. The post quickly gained in importance as the war turned into trench warfare. Fowke dealt with the construction of rear lines of defence, and in 1915, with his involvement, the tunnelling companies were formed, made up of miners and labourers accustomed to working underground, which waged mine warfare beneath the enemy's positions. In December 1915 he brought about the creation at headquarters of a separate inspectorate of mines to supervise their work.
+
+According to the British official history, it was to Fowke that Fabian Ware, a representative of the British Red Cross, turned in the autumn of 1914 with a proposal that his ambulance unit should take on the marking and registration of soldiers' graves. Fowke readily agreed, as he himself had no men for such work. Macready in his memoirs claims the credit for winning Ware over, so both generals had a share in the birth of the service from which the [Commonwealth War Graves Commission](https://pl.wikipedia.org/wiki/Komisja_Grobów_Wojennych_Wspólnoty_Narodów) later grew.
+
+Fowke remained adjutant-general of the army in France until the end of the war. On his shoulders lay the reinforcements for an army which in 1916 for the first time bore the weight of a great offensive and suffered losses unprecedented in British history. For the help he gave the American army in France he received the American Distinguished Service Medal. He retired in 1922.

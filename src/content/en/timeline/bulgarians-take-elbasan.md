@@ -1,0 +1,22 @@
+---
+title: Bulgarians take Elbasan
+summary: At the turn of January and February 1916 the Bulgarians entered Elbasan in central Albania, forestalling the Austrians, their rivals for influence there.
+source: bulgarzy-zajmuja-elbasan
+sourceHash: 996c7df9028604a3e9481927320f8a0085e2675d
+---
+
+The British chronology of the war records under 2 February 1916 that Bulgarian troops occupied [Elbasan](https://pl.wikipedia.org/wiki/Elbasan), a town in the valley of the [Shkumbin](https://pl.wikipedia.org/wiki/Shkumbin) river in central Albania. The exact date is uncertain. According to the British historian Owen Pearson, a company of the Bulgarian 23rd Infantry Regiment under Captain Serafimov entered Elbasan as early as 29 January. In the West the news of the town's occupation appeared in the press in the first ten days of February, and on 13 February the Italian consul in [Durrës](https://pl.wikipedia.org/wiki/Durrës) wrote to Rome of the "Bulgarian occupation of Elbasan" as an accomplished fact. The Austrian official history, on the other hand, states that the Serbian Combined Division, which was covering the Serbs' retreat to the south, set off from the Elbasan area towards Vlorë only on 9 February. The Bulgarians therefore most probably entered the town with a small detachment while the last Serbian columns were still retreating in the area.
+
+## The road from Macedonia to the Adriatic
+
+Elbasan lay on an old route that ran from [Lake Ohrid](https://pl.wikipedia.org/wiki/Jezioro_Ochrydzkie) through the mountains to Durrës and [Tirana](https://pl.wikipedia.org/wiki/Tirana). In the autumn of 1915 the Serbian command assigned this road to part of its troops fleeing before the Germans, Austrians and Bulgarians. When in December the Bulgarians [took Debar and Ohrid](/bulgarzy-zajmuja-debar-i-ochryde), crossed the Drin and entered Albania, their leading units began pushing towards Elbasan. At the end of December a French communiqué reported that the Serbs near Elbasan were hard pressed by an enemy with mountain artillery, but had not yet given up the town itself. At the end of January the British press wrote that the Bulgarians were being held up before Elbasan by the Albanian fighters of [Esad Pasha Toptani](/postacie/esad-pasza-toptani), the Entente-allied head of the government in Durrës.
+
+In the winter the chief of the Austro-Hungarian general staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), wanted at least two Bulgarian divisions to strike from Debar and Ohrid towards Tirana and Elbasan and help crush the Serbs and Italians in central Albania, while the Austrians [took Scutari](/austriacy-zajmuja-szkodre) and the north of the country. No such large operation took place. The main Bulgarian forces remained in Macedonia, facing the Entente troops at Salonika, and only weak detachments advanced into Albania.
+
+## Allies and rivals
+
+The occupation of Elbasan worsened the position of the Italians, who held Durrës. The Italian consul in that town considered that, given the Bulgarian advance beyond Elbasan, the withdrawal of the Italian garrison was now only a matter of time. The Austrian official history writes that because of the Bulgarians standing on the upper Shkumbin the Italians could not count on relieving Durrës overland from Vlorë.
+
+The Bulgarians were, however, at once allies and rivals of the Austrians. Vienna regarded Albania as its sphere of influence and did not want a Bulgarian presence there. When at the beginning of February Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) visited the Austro-Hungarian headquarters at Teschen, Conrad also disputed Bulgarian claims to the Kosovo towns of Prizren and Pristina. According to the Austrian official history, an Austro-Hungarian reconnaissance detachment reached Elbasan on 13 February. The Bulgarians had already pushed their outposts forward there.
+
+The dispute was smoothed over by the chief of the German general staff, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn). At the beginning of April a boundary between the two states' spheres of interest was agreed, which in Albania ran from the Debar area to the Shkumbin near Elbasan. Bulgaria received Prizren and Pristina and in return withdrew from Elbasan. According to the Austrian official history this happened by mid-April, according to *The Times History of the War* on 19 April. Austro-Hungarian troops were then stationed in Elbasan.

@@ -1,0 +1,24 @@
+---
+title: Allies take Yaoundé
+summary: On 1 January 1916 Col. Gorges's British column entered Yaoundé unopposed. The Germans had left the day before and were falling back south, towards Muni.
+source: alianci-zajmuja-jaunde
+sourceHash: 215322c7084d77f938cbb102501a8354b6829a75
+---
+
+On 1 January 1916 British troops entered [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde), the last seat of the German authorities in [Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). According to the British official history, at 11.30 a.m. the central column of Lieutenant-Colonel Haywood, part of Colonel Gorges's force, occupied the fort at Yaoundé without meeting resistance. The town was empty. The German authorities, civilians and most of the colonial troops had withdrawn south earlier. The capture of Yaoundé, the objective of two Allied offensives, did not, however, end the campaign in Kamerun.
+
+## The last stage of the advance
+
+The second advance on Yaoundé [had been ordered on 22 September 1915](/rozkaz-do-drugiego-marszu-na-jaunde) by General Charles Dobell, commander of the British and French forces in western Kamerun. This time, unlike in the spring, when [the first advance had ended in retreat](/koniec-pierwszego-marszu-na-jaunde), troops converged on the town from several directions: Gorges's British and Colonel Mayer's French from the west, the columns of General Joseph Aymerich from [French Equatorial Africa](https://pl.wikipedia.org/wiki/Francuska_Afryka_Równikowa), supported by a detachment from the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie), from the east, and the troops of General Frederick Cunliffe from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria), which in November [had taken Banyo Mountain](/bitwy/bitwa-o-gore-banyo), from the north.
+
+In December Gorges's column advanced rapidly. On 17 December it took Chang Mangas unopposed, and after a few days of rest and bringing up ammunition it set off on 23 December on the last stretch of the road in four columns. On 31 December these units took up favourable starting positions near the town, passing on the way extensive systems of trenches, already empty. Gorges expected the Germans to defend Yaoundé itself and issued orders for a converging attack the next day. On the morning of 1 January there was no one left to attack. In the evening the last of the columns reached the town and the whole of Gorges's force was in Yaoundé.
+
+## An empty town
+
+Gorges telegraphed Dobell that the enemy had withdrawn by the roads to the south and south-east, towards Akonolinga, Widemenge and [Ebolowa](https://pl.wikipedia.org/wiki/Ebolowa). At the Catholic mission only two Europeans were found, and a few Africans in the hospital. The buildings, storehouses, hospital, ammunition factory and fort were intact, but without any stores. "The whole place looks like a dead town," Gorges reported. At night his outposts were fired on by German stragglers from the roads leading south.
+
+The Germans had planned the retreat in advance and managed to keep it secret. According to the official history, based on later findings, Governor Karl Ebermaier called a conference of commanders at Yaoundé which, during the night of 15–16 December, decided to withdraw all units south of the [Nyong](https://pl.wikipedia.org/wiki/Nyong) river and move the administration to Ebolowa. The move was completed by 25 December, and Ebermaier left Yaoundé with the main rearguard only on the afternoon of 30 December. The colonial troops ([Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe)) commanded by Carl Zimmermann were short above all of ammunition. The German work *Der Grosse Krieg* states that it was precisely the shortage of ammunition and the wish to avoid a humiliating capitulation that decided the retreat into neutral territory, and that the supply columns crossed the Nyong as early as 1 January.
+
+## What came next
+
+In the following days other Allied columns converged on Yaoundé. General Aymerich reached the town on 8 January, after fifteen months of marching and fighting in the east of the colony, and on 11 January Lieutenant-Colonel Webb-Bowen's column of Cunliffe's force entered it. The Allies set off in pursuit to the south. The French took Ebolowa on 19 January, but the main German forces were already heading for the border of Spanish Muni ([Mbini](https://pl.wikipedia.org/wiki/Mbini)), the mainland part of [Spanish Guinea](https://pl.wikipedia.org/wiki/Gwinea_Hiszpańska). According to Ebermaier's report, the troops began crossing the border on 4 February, and the last units passed into neutral territory on 15 February. The Spanish interned about 975 Germans and about 14,000 Africans, including about 6,000 soldiers. On 18 February the isolated garrison of the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) in the north capitulated, and the fighting in Kamerun came to an end.

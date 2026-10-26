@@ -1,0 +1,14 @@
+---
+title: Ōshima becomes Japanese minister of war
+summary: On 30 March 1916 Vice-Minister General Ken'ichi Ōshima became Japan's minister of war. He held the post until 1918, including in Masatake Terauchi's cabinet.
+source: oshima-ministrem-wojny-japonii
+sourceHash: 0690583b28777f1c01e9b677e96e62bc56e97e8a
+---
+
+On 30 March 1916 Lieutenant-General Ken'ichi Ōshima took office as minister of war (literally minister of the army) in the government of Prime Minister [Shigenobu Ōkuma](/postacie/shigenobu-okuma). That day the official gazette *Kanpō*, in a special edition, announced both his appointment and the release of his predecessor, [General Ichinosuke Oka](/dymisja-generala-oki), who was leaving because of illness. Ōshima was not a newcomer to the ministry. Since April 1914 he had been vice-minister, that is Oka's deputy, and knew all the department's wartime business at first hand.
+
+The new minister was 57. He was born in 1858 in the domain of Iwamura in Mino Province, in today's [Gifu Prefecture](https://pl.wikipedia.org/wiki/Prefektura_Gifu). In 1881 he graduated from the military academy as an artillery officer, and in the early 1890s he studied in Germany and served an attachment with a German field artillery regiment. In the [war with China](https://pl.wikipedia.org/wiki/Wojna_chińsko-japońska_(1894–1895)) he was an aide-de-camp in the First Army, commanded by Field Marshal [Aritomo Yamagata](https://pl.wikipedia.org/wiki/Aritomo_Yamagata), and later for a time served with him personally. During the [war with Russia](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-japońska) he worked at Imperial General Headquarters, then on the General Staff, and in 1912–1914 he was its deputy chief.
+
+Ōkuma's cabinet was already weakened by then, and the [genrō](https://pl.wikipedia.org/wiki/Genrō), the elder statesmen led by Yamagata, were pressing for its resignation. When Field Marshal [Masatake Terauchi](/postacie/masatake-terauchi) took power in October 1916, Ōshima kept his post. In the following years his ministry administered, among other things, the camps for German prisoners captured at [Tsingtao](/kapitulacja-tsingtao). At the Bandō camp on the island of Shikoku, opened in 1917, the prisoners on 1 June 1918 gave the first complete performance in Japan of [Beethoven's Ninth Symphony](https://pl.wikipedia.org/wiki/IX_symfonia_Beethovena).
+
+Ōshima headed the ministry until the fall of Terauchi's government on 29 September 1918. In the last months of his term Japan sent troops to the Russian Far East as part of the [Siberian intervention](https://pl.wikipedia.org/wiki/Interwencja_syberyjska). Later he sat in the House of Peers and on the Privy Council, and he died in 1947. His son, [Hiroshi Ōshima](https://pl.wikipedia.org/wiki/Hiroshi_Ōshima), was Japanese ambassador in Berlin in the 1930s and 1940s.
