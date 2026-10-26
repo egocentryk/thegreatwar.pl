@@ -1,0 +1,14 @@
+---
+title: French retake Laon
+summary: On 13 October 1918 the French Tenth Army entered Laon and the First Army La Fère. Both towns had been in German hands since the first days of September 1914.
+source: francuzi-odbijaja-laon
+sourceHash: 03b39391bde5f2426a474a227f1e18dbe18bde1f
+---
+
+On 13 October 1918 French troops entered [Laon](https://pl.wikipedia.org/wiki/Laon), the capital of the Aisne department, and the former fortress of [La Fère](https://pl.wikipedia.org/wiki/La_Fère) on the Oise, about 20 kilometres to the north-west. The Germans had [taken both towns at the turn of August and September 1914](/niemcy-zajmuja-laon-la-fere-i-roye), during the march on Paris, and had held them for more than four years. Throughout that time Laon was one of the most important German strongpoints in France and one of those closest to Paris. To this day one of the streets in the old town is called the Rue du 13 Octobre 1918.
+
+The town did not have to be taken by storm. On 9 October the German Seventh, First and Third Armies began to withdraw along the whole front from La Fère to the Argonne to the rear Hunding-Brunhild position, running through the marshy valley of the Serre and through Sissonne and Château-Porcien. This was the result of the defeats suffered in recent weeks in the battles for the Hindenburg Line and in Champagne. Laon, standing on a solitary hill high above the plain, was left in front of the new line, as was La Fère at the confluence of the Serre and the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). The French Tenth Army of General [Charles Mangin](/postacie/charles-mangin), which had earlier driven the Germans out of the forests of Saint-Gobain, set off in pursuit and on 13 October entered Laon. The same day the First Army of General Marie-Eugène Debeney crossed the Oise and took La Fère.
+
+For the inhabitants a long occupation was coming to an end, with the requisitions and restrictions known throughout occupied northern France. Not far from Laon, in the forest near Crépy, the Germans had set up in the spring of 1918 the long-range guns with which they [shelled Paris](/ostrzal-paryza-z-dziala-dalekonosnego). The outskirts of Laon suffered from bombing, but the Gothic [Notre-Dame Cathedral](https://pl.wikipedia.org/wiki/Katedra_Notre-Dame_w_Laon), visible from far across the plain, survived the occupation.
+
+Beyond Laon the pursuit soon came to a halt. According to the British official history, as early as 14 October the resistance of the German rearguards stiffened, and until 19 October the French were unable to advance any further. On the approaches to the Hunding position, above the flooded meadows of the Serre valley, the Tenth Army came up against a new, strong line of defence. A further withdrawal was forced on the Germans only by the Battle of the Serre in the last days of October.

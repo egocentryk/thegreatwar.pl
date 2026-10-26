@@ -1,0 +1,26 @@
+---
+title: Marghiloman dismissed
+summary: In early November 1918 King Ferdinand, at the Entente's demand, dismissed the Germanophile Marghiloman–Arion cabinet. General Constantin Coandă took over.
+source: dymisja-marghilomana
+sourceHash: cf1b7afff750936a3216a9b97d186826ff727845
+---
+
+The British chronology of the war records under this day the resignation of the Romanian prime minister [Alexandru Marghiloman](/postacie/alexandru-marghiloman) and the foreign minister Constantin Arion (in the chronology "Arian"). The government, which had taken power [in March](/marghiloman-premierem-rumunii) to make peace with the Central Powers, had in fact fallen two days earlier. According to Marghiloman's own diary and Romanian lists of governments, the dismissal took place on 6 November 1918, that is 24 October by the Julian calendar then in use in Romania. A new cabinet was appointed the same day. The British chronology records it only under 1 December.
+
+## The government's last days
+
+By the beginning of November the Central Powers had been defeated. Austria-Hungary had signed the [Armistice of Villa Giusti](/rozejm-w-villa-giusti), and the army of [August von Mackensen](/postacie/august-von-mackensen) occupying Wallachia was beginning to withdraw. Marghiloman, regarded by the Entente as "the Germans' man", still tried to exploit the new situation. At the request of the Romanian National Council in [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce), he ordered troops on the border to enter [Bukovina](https://pl.wikipedia.org/wiki/Bukowina_(kraina_historyczna)) and occupy Suceava, and then to advance as quickly as possible towards Czernowitz. King [Ferdinand I](/postacie/ferdynand-i-rumunski) approved these orders. On the evening of 5 November the prime minister reported to the monarch.
+
+## 6 November
+
+On the morning of 6 November Marghiloman noted that the day had begun with news of the Germans' departure from Brăila and Focșani. At 11 a.m. the king summoned him. According to the diary, flushed and nervous, he told the prime minister that he had something unpleasant to tell him: the previous evening representatives of the Entente powers had visited him and declared that they had no confidence in his government. They also objected that he had ordered the entry into Bukovina without consulting them, although the province was the subject of [Romania's agreements with the Allies](/traktat-rumunii-z-ententa) of 1916. Marghiloman at once placed himself at the king's disposal. Ferdinand said he was thinking of a non-party government and told him to guess whom he had chosen. It was General [Constantin Coandă](https://pl.wikipedia.org/wiki/Constantin_Coandă). The outgoing prime minister replied that it was very sad when foreigners made and unmade Romanian governments, and that the king was choosing the "hardly constitutional path" of cabinets of officials.
+
+At 2 p.m. Marghiloman sent the king his written resignation. He wrote in it that since the ministers of the Entente powers had declared they had no confidence in his government, and the king wished to take that into account, he asked for his resignation to be accepted. At 4 p.m. he announced it in the Chamber of Deputies and in the Senate, stressing that the government was stepping down "in response to the king's wish", because he wanted it on record that the cabinet had been dismissed. At 5 p.m. Coandă presented his government to the chambers and, instead of a message, read a decree closing the session of the parliament that had been elected under Marghiloman's government.
+
+## General Coandă's government
+
+Coandă, a former military attaché at the Russian headquarters, also took the foreign ministry. The government included Generals [Artur Văitoianu](https://pl.wikipedia.org/wiki/Artur_Văitoianu) as minister of the interior and Eremia Grigorescu as minister of war, as well as, among others, the engineer Anghel Saligny, the chemist Petru Poni and two representatives of Bessarabia, [Ion Inculeț](https://pl.wikipedia.org/wiki/Ion_Inculeț) and Daniel Ciugureanu. It was a transitional cabinet meant to prepare the return to power of the Liberals of [Ion I. C. Brătianu](/postacie/ion-bratianu). According to Marghiloman, the British minister George Barclay made no secret of his satisfaction with the change and said that Bucharest needed a government of friends of the Entente. The next day the king issued a proclamation to the nation in which he promised that the new government would carry out the reforms announced earlier. Marghiloman regarded it as a challenge thrown down to the Conservatives.
+
+## The balance sheet
+
+At a meeting of the senators of his majority Marghiloman argued that his departure was not desertion. He said that his government had preserved the dynasty and the army for the country, and had given it Bessarabia and Bukovina. Indeed, in April, under his government, [Bessarabia joined Romania](/zjednoczenie-besarabii-z-rumunia), and on the day of his dismissal Romanian troops were entering Bukovina. Most Romanians, however, remembered him above all for the [Peace of Bucharest](/pokoj-w-bukareszcie) and for collaboration with the occupier. A few days later Coandă's government brought Romania back into the war on the side of the Entente. Marghiloman's Conservative Party quickly lost its importance after the war.

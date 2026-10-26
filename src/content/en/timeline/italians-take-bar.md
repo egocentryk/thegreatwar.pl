@@ -1,0 +1,12 @@
+---
+title: Italians take Bar
+summary: On 4 November 1918 the Italian navy occupied Bar (Antivari), the Montenegrin port abandoned by Austro-Hungarian troops in the last days of the war.
+source: wlosi-zajmuja-bar
+sourceHash: 4ba069b8de7f9490de908ae37c19981829803d85
+---
+
+On 4 November 1918, the day the [armistice with Austria-Hungary](/rozejm-w-villa-giusti) came into force, the Italian navy occupied the Montenegrin port of Antivari, that is, [Bar](https://pl.wikipedia.org/wiki/Bar_(Czarnogóra)). This date is given by the British chronology of the war and by Italian studies of operations in the Adriatic, according to which on the same day Italian warships also appeared at Fiume, among other places (land forces entered it only on 17 November), and the Italians occupied Zadar, Lissa ([Vis](https://pl.wikipedia.org/wiki/Vis_(wyspa))), Korčula and Lastovo. In the same days they also occupied [Ulcinj](https://pl.wikipedia.org/wiki/Ulcinj), Dulcigno in Italian, further south. The sources make no mention of fighting in Bar. The Austro-Hungarian troops which had [occupied the port in January 1916](/austriacy-zajmuja-bar) left it in the last days of the war, as the monarchy's army withdrew north from Albania and Montenegro.
+
+Bar was the only important port of the [Kingdom of Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry), and Italy had long-standing interests there. The Italian Compagnia di Antivari had developed the port and built a railway to Virpazar on Lake Scutari. King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz), father-in-law of the Italian King Victor Emmanuel III, hoped that the Italian presence in Bar and Kotor would help him regain his throne. For since the end of October units of the Serbian army had been entering the country, and supporters of union with Serbia were already preparing an assembly that was to decide the fate of the dynasty.
+
+The occupation of Bar was part of Italy's haste on the eastern coast of the Adriatic, where in those days the Italians were trying to forestall the Yugoslavs and the Serbs. Italian patrols at first ventured deep into Montenegro, as far as Cetinje and Podgorica, but most of the country was occupied by the Serbs. In the following months the Italian garrison in Bar, guarding the port and the railway, found itself between the Serbian troops and the Montenegrin supporters of the king, and the Serbs accused the Italians of supporting the insurgents. Italian units did not leave Bar until the first half of 1920.

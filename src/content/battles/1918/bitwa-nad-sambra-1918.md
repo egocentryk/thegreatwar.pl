@@ -10,7 +10,7 @@ sides:
   - name: Wielka Brytania, Kanada, Nowa Zelandia i Francja
     commanders: [Douglas Haig, Henry Rawlinson, Julian Byng, Henry Horne, Marie-Eugène Debeney]
   - name: Niemcy
-    commanders: [Ruppert Maria Wittelsbach, Adolph von Carlowitz, Bruno von Mudra, Oskar von Hutier]
+    commanders: [Rupprecht Bawarski, Adolph von Carlowitz, Bruno von Mudra, Oskar von Hutier]
 result: Zwycięstwo sprzymierzonych. Brytyjczycy przełamali ostatnią przygotowaną linię Niemców na tym odcinku i wzięli około 10 tysięcy jeńców. W nocy na 5 listopada Niemcy rozpoczęli odwrót na pozycję Antwerpia–Moza.
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Nowa Zelandia]

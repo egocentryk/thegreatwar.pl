@@ -1,0 +1,20 @@
+---
+title: Lettow-Vorbeck takes Kasama
+summary: On 9 November 1918 Lettow-Vorbeck's vanguard took the abandoned town of Kasama in Northern Rhodesia. The Germans pushed south towards the Chambeshi depots.
+source: lettow-vorbeck-zajmuje-kasame
+sourceHash: 9ea8f5d605db4bd5f990f2a67bd01f8f5294d77a
+---
+
+On 9 November 1918 the detachment of Captain Walter Spangenberg, the vanguard of the German column of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), occupied [Kasama](https://pl.wikipedia.org/wiki/Kasama_(Zambia)), the main administrative centre of north-eastern [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna). The garrison, about half a company strong, withdrew south without a fight. This date is given in Lettow-Vorbeck's memoirs and in a study by the Western Front Association. The South African official account says more generally that by 8 November the German advance parties "had reached Kasama": on 8 November Spangenberg was skirmishing with patrols north of the town. Some studies give 12 or 13 November, but these dates more likely refer to the arrival of the main German force.
+
+## The march along the supply line
+
+After the [failed attack on Fife](/atak-na-fife) Lettow-Vorbeck turned south-west, deep into a country he hardly knew. He followed the road through the Kajambi mission to Kasama, and mobile detachments sent ahead by forced marches captured small depots on the way, taking their guards prisoner and seizing ox teams. The further the Germans went, the fuller the stores were. Lettow-Vorbeck had the impression that he was moving up a newly established supply line which began in the area of Broken Hill, today [Kabwe](https://pl.wikipedia.org/wiki/Kabwe). The main force reached Kajambi on 6 November. That same day a British patrol fell upon the rearguard of Captain Koehl, which was scattered around the area in search of food. Koehl got out of trouble, and the next day surprised the pursuers with fire from the mission. On 7 November the column moved on. The march into the unknown was hard on the porters. On one day 33 of them deserted from the staff, mostly men from the Bismarckburg area, whose homes now lay far behind them.
+
+## A plundered town
+
+The British knew the Germans were approaching. The handful of European residents of Kasama left for the south, and officials took the money, the documents and part of the stores to a rubber factory on the [Chambeshi](https://pl.wikipedia.org/wiki/Chambeshi) river, some tens of kilometres away. One of them, G. A. M. Alexander, recalled years later that he drove out with the district commissioner Hector Croad to reconnoitre and from a few kilometres away saw the Germans "swarming all over the golf course". The stores in the town were opened to the local population so that as little as possible would fall into enemy hands. Spangenberg therefore found the buildings and their contents largely plundered. He captured little ammunition, but did take a motor repair workshop, more than twenty Boer wagons and a good deal of food for Europeans. Lettow-Vorbeck credited his officer with saving the British commissioner's house.
+
+## What next?
+
+Lettow-Vorbeck hoped to make Kasama a base and to fight a battle on favourable terms with the pursuers following on his heels. From maps and notes captured on the way he tried to work out whether he could go further south, around Lake [Bangweulu](https://pl.wikipedia.org/wiki/Bangweulu), or west, between Bangweulu and Lake Mweru. He feared, however, that in the coming rainy season the [Luapula](https://pl.wikipedia.org/wiki/Luapula) river would become impassable and that the boats would be hidden on the far bank. The nearest objective was the large depots on the Chambeshi, three days' march to the south. On 11 November Lettow-Vorbeck rode into Kasama on a bicycle, and Spangenberg with two companies set off at once towards the crossing. The main force entered the town on 12 November. Nobody in the German column yet knew that the war in Europe had just ended.

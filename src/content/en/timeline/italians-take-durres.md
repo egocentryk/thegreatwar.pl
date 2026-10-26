@@ -1,0 +1,14 @@
+---
+title: Italians take Durrës
+summary: On the morning of 14 October 1918 Italian infantry entered Durrës, abandoned by the Austrians. The same day the Italians took Tirana.
+source: wlosi-zajmuja-durres
+sourceHash: 51f5f96db3cb11d01cdd56f4cdd987c4cb34e200
+---
+
+On the morning of 14 October 1918 Italian troops entered [Durrës](https://pl.wikipedia.org/wiki/Durrës), the main port of Albania. The Austrians had [taken it in February 1916](/austriacy-zajmuja-durres), when the Italian garrison evacuated the town, and since then it had been their supply base on the Albanian coast. According to the communiqué of the Italian commander-in-chief, General [Armando Diaz](/postacie/armando-diaz), on the afternoon of 13 October the Italians broke through the enemy's defences on the Paljamaj heights and on the coastal cliff of Sasso Bianco, and the next morning they entered the town, taking prisoners and equipment. Some studies, Italian ones included, give the date as 16 October, but contemporary communiqués and the British chronology of the war point to 14 October.
+
+By then the port was almost empty. After the [bombardment of 2 October](/bombardowanie-durres) the Austrians had speeded up the evacuation, and according to Italian studies their last ships left Durrës on 10 October. The town was reached by the Italian Tanaro Brigade, which had crossed the Shkumbin under enemy fire and on 12 October taken [Kavajë](https://pl.wikipedia.org/wiki/Kavajë). Other Italian columns advanced from [Elbasan](/wlosi-zajmuja-elbasan) on [Tirana](https://pl.wikipedia.org/wiki/Tirana). On 13 October they routed Austro-Hungarian rearguards at the Krabë pass, and according to the communiqué of 16 October they took the town on 14 October. Other sources state that the Italians entered Tirana on 15 October. The Austrians fell back further north, towards the river Ishëm. On the way the Italians freed several hundred of their own prisoners, and Albanian insurgents attacked the Austrian rearguards.
+
+The British chronology of the war links the capture of Durrës with the Italian recapture of Peć in Kosovo and Novi Pazar in the Sanjak. This is a mistake. Both towns lay far from the zone of operations of the Italian XVI Corps, in the sector of the Serbian troops, which after routing the Bulgarians were advancing north from Macedonia through Kosovo. [Peć](https://pl.wikipedia.org/wiki/Peć) was taken in mid-October by the Serbs, according to some studies by the volunteer units of [Kosta Pećanac](https://pl.wikipedia.org/wiki/Kosta_Pećanac), on 13 or 17 October. [Novi Pazar](https://pl.wikipedia.org/wiki/Novi_Pazar) also passed into Serbian hands.
+
+Durrës was soon to play an important part in the history of Albania. Under Italian occupation a [congress of Albanian activists](https://pl.wikipedia.org/wiki/Kongres_w_Durrës) met here in December 1918 and formed a provisional government, and the town briefly became the country's capital.

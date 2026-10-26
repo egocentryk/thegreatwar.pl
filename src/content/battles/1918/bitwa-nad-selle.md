@@ -10,7 +10,7 @@ sides:
   - name: Wielka Brytania, Stany Zjednoczone, Kanada, Nowa Zelandia i Związek Południowej Afryki
     commanders: [Douglas Haig, Henry Rawlinson, Julian Byng, Henry Horne, George Read]
   - name: Niemcy
-    commanders: [Ruppert Maria Wittelsbach, Adolph von Carlowitz, Bruno von Mudra]
+    commanders: [Rupprecht Bawarski, Adolph von Carlowitz, Bruno von Mudra]
 result: Zwycięstwo sprzymierzonych. Brytyjczycy przełamali niemiecką pozycję Hermanna nad Selle, wzięli około 20 tysięcy jeńców i 475 dział i doszli do Kanału Sambra–Oise oraz lasu Mormal.
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Stany Zjednoczone, Niemcy, Brytyjski Korpus Ekspedycyjny]

@@ -1,0 +1,26 @@
+---
+title: Allied march to the Rhine
+summary: In mid-November 1918 the Allied armies followed the retreating Germans towards the Rhine. The British chronology gives 16 November, other sources the 17th.
+source: pochod-aliantow-nad-ren
+sourceHash: 847b3683e5226013449c6530622c7d3dda9a4a9c
+---
+
+In mid-November 1918 the Allied armies on the Western Front set off towards the [Rhine](https://pl.wikipedia.org/wiki/Ren). The British chronology of the war records under 16 November that the Allied armies began their march into Germany. According to the final dispatch of Field Marshal [Douglas Haig](/postacie/douglas-haig) and the American history of US operations in Europe, however, the troops moved off only the following morning, 17 November, and did so along the whole front. Until then all units had stood on the line they had reached when the [Armistice of Compiègne](/rozejm-w-compiegne) came into force at 11 a.m. on 11 November. They were not allowed to advance any further, and Germans taken prisoner after that hour were sent back.
+
+## What the armistice provided
+
+The armistice gave the Germans 15 days to evacuate Belgium, France, [Luxembourg](https://pl.wikipedia.org/wiki/Luksemburg) and [Alsace-Lorraine](https://pl.wikipedia.org/wiki/Alzacja-Lotaryngia). Within a further 16 days, 31 days in all, they also had to withdraw their troops from the whole left bank of the Rhine. These territories were to remain under the administration of the local authorities, but under the control of the occupying troops. The Allies were also to occupy three bridgeheads on the right bank, with a radius of 30 kilometres, around [Mainz](https://pl.wikipedia.org/wiki/Moguncja), [Koblenz](https://pl.wikipedia.org/wiki/Koblencja) and [Cologne](https://pl.wikipedia.org/wiki/Kolonia_(Niemcy)). Beyond them a ten-kilometre neutral zone was to run along the river, in which no troops at all might be kept.
+
+The detailed rules for the march were laid down by Marshal [Ferdinand Foch](/postacie/ferdinand-foch). Each army was given its own zone. The French were to go through Alsace and Lorraine to Mainz, the Americans through Luxembourg and the [Moselle](https://pl.wikipedia.org/wiki/Mozela) valley to Koblenz, the British to Cologne, and the Belgians through [Aachen](https://pl.wikipedia.org/wiki/Akwizgran) to the lower Rhine. The march was divided into stages. A belt roughly 10 kilometres wide was always to be left between the Allied advance guards and the German rearguards, to prevent clashes. According to Haig, the general entry into Germany was fixed for 1 December, and on 12 December French, American and British troops were to cross the Rhine at Mainz, Koblenz and Cologne.
+
+## The armies on the march
+
+Haig decided that the advance would be led by two armies commanded by the most senior generals: [Herbert Plumer](/postacie/herbert-plumer)'s [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Wielka_Brytania)) and [Henry Rawlinson](/postacie/henry-rawlinson)'s Fourth Army. Each had four corps of four divisions. To make them faster and easier to supply, most of their artillery and auxiliary services were taken away. Only Plumer's army was to enter Germany itself. At five in the morning on 17 November the cavalry, the 2nd Cavalry Division ahead of Rawlinson's army and the 1st and 3rd ahead of Plumer's, crossed the line of 11 November. The infantry followed the next day. They marched as if at war: the cavalry in front, with every precaution.
+
+On the American side the new [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(USA)) set off. General [John Pershing](/postacie/john-pershing) had ordered its formation on 7 November and on 14 November designated it the army of occupation. Command was taken by General Joseph Dickman. At first it had two corps of three divisions each, and a third was added on 22 November. An American study of 1938 stresses that in a short time staff and supplies had to be organised for more than 200,000 soldiers marching through a country with wrecked roads and railways, in cold and rain. The divisions, moreover, had had no rest after the heavy fighting of the [Meuse–Argonne offensive](/bitwy/ofensywa-moza-argonne). The French armies and the Belgian army also set off the same day.
+
+## Difficulties and welcomes
+
+The greatest problem was supply. At the time of the armistice the British railheads ended on the line Le Cateau, Valenciennes, Lille, Kortrijk, and beyond it bridges and tracks had been destroyed. The Germans had also left delayed-action mines, which went on exploding after the ceasefire. At the same time crowds of French and British prisoners of war passed through the Allied lines, released by the Germans west of the Rhine with neither food nor transport. Haig wrote that many of them suffered needlessly. On the other hand, in the liberated towns and villages of France, Belgium and Luxembourg the people welcomed the soldiers with flags and triumphal arches and, despite their own want, shared their food with them.
+
+The march ended in mid-December. According to the American study, on 13 December American, French and British divisions crossed the Rhine and occupied the bridgeheads on the right bank. Thus began the [occupation of the Rhineland](https://pl.wikipedia.org/wiki/Okupacja_Nadrenii), which lasted until 1930.

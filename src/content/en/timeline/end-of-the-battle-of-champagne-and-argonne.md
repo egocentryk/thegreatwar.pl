@@ -1,0 +1,20 @@
+---
+title: End of the Battle of Champagne and Argonne
+summary: On 15 October 1918 the Battle of Champagne and Argonne ended by the French naming. Gouraud's Fourth Army reached the Aisne, while the Americans fought on.
+source: koniec-bitwy-w-szampanii-i-argonnach
+sourceHash: bb34747fa8ffbd6c60bd9d658b193045fbc59f9b
+---
+
+The British chronology of the war records under 15 October 1918 the end of the Battle of Champagne and Argonne (*bataille de Champagne et d'Argonne*). This was the French name for the first stage of the great Franco-American offensive that had begun on 26 September between the river Suippe and the Meuse. The name covered the fighting of both armies: General Henri Gouraud's French Fourth Army in [Champagne](https://pl.wikipedia.org/wiki/Szampania), west of the [Argonne](https://pl.wikipedia.org/wiki/Argonny) forest, and General [John Pershing's](/postacie/john-pershing) American First Army between the Argonne and the Meuse. The closing date was a convention. On 15 October both armies stood before a new line of German defences, but the Americans, who called their own operation the Meuse-Argonne offensive, fought on without a break until the armistice.
+
+## The French in Champagne
+
+At 5.25 a.m. on 26 September the French Fourth Army attacked the positions that the Germans had been fortifying in Champagne since 1915. According to French figures it took about 7,000 prisoners on the first day, but then, like the Americans, it stalled on successive lines of defence. The French list of battles calls the fighting of 26 September – 3 October the Battle of Somme-Py, after the village of [Sommepy](https://pl.wikipedia.org/wiki/Sommepy-Tahure) in the valley of the Py. The key to the German position was the Blanc Mont ridge, the highest point in the area. On 3 October it was taken by General John Lejeune's American 2nd Division, made up of a Marine brigade and an infantry brigade, fighting as part of Gouraud's army. It then fought bloodily for several days for the village of Saint-Étienne-à-Arnes, losing thousands killed and wounded. Marshal Ferdinand Foch was dissatisfied with the French attack. On 4 October he wrote to General Pétain that the previous day the Fourth Army had fought a battle that no one directed and no one drove forward, and demanded that commanders direct the fighting in person.
+
+Despite this criticism, the pressure of the French and Americans, combined with the German defeats at Saint-Quentin and Cambrai, did its work. On 9 October the German armies along the whole front from the Oise to the Argonne began to fall back to the rear Hunding-Brunhild position. The Fourth Army set off in pursuit and over the following days reached the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) in the area of [Vouziers](https://pl.wikipedia.org/wiki/Vouziers). According to American accounts, the American 36th Division, which had relieved the bled-out 2nd Division, also took part in the pursuit as part of it.
+
+## 15 October
+
+According to Foch's memoirs, on 15 October the Franco-American armies between the Oise and the Argonne came into contact with a new, strong German position on the line La Fère – Crécy-sur-Serre – Sissonne – Château-Porcien – Vouziers – [Grandpré](https://pl.wikipedia.org/wiki/Grandpré). On this line the Germans again put up stubborn resistance. From 13 October the French Fourth Army began fighting for bridgeheads on the right bank of the Aisne east of Vouziers, and its further attacks pinned down some of the German troops that might otherwise have been fighting the Americans in the Argonne.
+
+That day the Americans were in the midst of the heaviest fighting of the whole offensive. Since 14 October they had been attacking the main German position, the Kriemhilde position, on the heights near Romagne and Cunel, and within a few days they broke through it. For them, therefore, 15 October marked no end at all. The next stage of the fighting along the whole front from the Oise to the Meuse began in the second half of October, and the last great Franco-American attack started on 1 November.

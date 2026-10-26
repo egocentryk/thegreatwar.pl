@@ -1,0 +1,18 @@
+---
+title: Occupation of Alexandretta
+summary: On 9 November 1918 British and French warships entered the Gulf of Alexandretta. Mustafa Kemal wished to defend the port, but Constantinople made him yield.
+source: zajecie-aleksandretty
+sourceHash: d92aec2be845e210ac995b0219c9f0a6b276b3dd
+---
+
+On 9 November 1918 British and French warships entered the [Gulf of İskenderun](https://pl.wikipedia.org/wiki/Zatoka_İskenderun), then known as the Gulf of Alexandretta, and lay off the port of [Alexandretta](https://pl.wikipedia.org/wiki/İskenderun) at the northern end of the Syrian coast. The British chronology of the war records under this date the occupation of Alexandretta by Entente naval forces. According to the British official history of the campaign in Egypt and Palestine (C. Falls, *Military Operations: Egypt and Palestine*, vol. II), the occupation itself took place a few days later: a French battalion was landed only on 14 November, and the Turkish garrison withdrew from the town after being warned that otherwise the landing would be carried out by force. Some studies state that Alexandretta was occupied as early as 9 November.
+
+The port mattered to the Allies for a very practical reason. After the [capture of Aleppo](/zajecie-aleppo) at the end of October, the British cavalry stood far to the north, at the end of a long and exhausted supply line stretching back to Palestine. Alexandretta, linked by a branch line to the Baghdad Railway, which ran to Aleppo, was the nearest port through which food and equipment could be brought in. In the early years of the war the British had more than once considered a landing in this area, and as early as 1915 France had [laid claim](/francja-zglasza-roszczenia-do-syrii-i-cylicji) to Syria together with the coast of the gulf.
+
+## Mustafa Kemal's opposition
+
+The Armistice of Mudros, in force since 31 October, did not mention Alexandretta, but its Article 7 allowed the Allies to occupy any strategic point. The Syrian front was then commanded by [Mustafa Kemal](/postacie/mustafa-kemal), who on 31 October had taken over the Yıldırım Army Group from Otto Liman von Sanders. According to Kemal's biographer Andrew Mango, on 5 November the British commander in Syria announced that he would occupy the town in order to use the port to supply the troops at Aleppo. Kemal regarded this as a breach of the armistice and on 6 November warned the Grand Vizier, [Ahmed İzzet Pasha](https://pl.wikipedia.org/wiki/Ahmed_İzzet_Pasza), that he would offer the British armed resistance. The next day İzzet ordered him by telegraph to withdraw this order. The government in Constantinople did not want to give the victors a pretext for breaking off the armistice.
+
+That same day, 7 November, the Yıldırım Army Group was dissolved and Kemal was recalled. On 10 November he handed over command of the remaining troops to General Nihad Pasha, commander of the Second Army, and left [Adana](https://pl.wikipedia.org/wiki/Adana) for Constantinople. The British official historian wrote that Nihad proved a master of delay and obstruction, and the withdrawal of Turkish troops from the area dragged on for weeks.
+
+According to Falls, the battalion landed at Alexandretta belonged to the Eastern Legion (*Légion d'Orient*), a French formation made up mainly of Armenians. Later the French landed two more Armenian battalions at [Mersin](https://pl.wikipedia.org/wiki/Mersin) and manned posts along the railway in [Cilicia](https://pl.wikipedia.org/wiki/Cylicja), which aroused the hostility of the Turkish population and led to clashes. Alexandretta later came under the French mandate in Syria, and in 1939, as part of the province of [Hatay](https://pl.wikipedia.org/wiki/Hatay), it passed to Turkey.

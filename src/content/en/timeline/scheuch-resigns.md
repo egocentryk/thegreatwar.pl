@@ -1,0 +1,14 @@
+---
+title: Scheuch resigns
+summary: In mid-December 1918 the Prussian war minister Heinrich Scheuch asked to resign. He left on 2 January 1919 and was succeeded by Colonel Walther Reinhardt.
+source: dymisja-scheucha
+sourceHash: 2f73f8d6d0cfb59067b9aec30fd7e95efebe7a43
+---
+
+On 17 December 1918 the press reported that General Heinrich Scheuch was stepping down as Prussian minister of war. The British chronology of the war records his resignation under that date. According to German studies Scheuch had submitted his request to be relieved as early as 15 December, and it was accepted only on 2 January 1919. Until then he formally headed the ministry. He had taken office on [9 October](/scheuch-ministrem-wojny), still in the government of Prince Max of Baden, and remained in it after the revolution.
+
+After the armistice the war ministry's main task was to carry out the demobilisation of the millions of soldiers returning from the front and the occupied territories. Scheuch did this in a country where soldiers' councils had taken control of the barracks and the authority of the officers was collapsing. He was also unwilling to take part in the plans of the Supreme Army Command, which at the beginning of December intended to bring front-line troops into Berlin and break the power of the councils. According to German studies he refused to take command of the group of General Arnold Lequis formed for this purpose, which thereafter acted on its own.
+
+The day after the reports of his resignation, the [Congress of Councils in Berlin](/zjazd-rad-w-berlinie) adopted the so-called Hamburg Points. Soldiers were to elect their own commanders, officers were to remove their badges of rank, and soldiers' councils were to be responsible for discipline. Scheuch's request preceded this resolution, but it shows well the position in which the military leadership found itself. Even so, Scheuch still had a part to play in the greatest crisis of those weeks. On Christmas Eve the three Social Democratic members of the Council of the People's Deputies, [Friedrich Ebert](/postacie/friedrich-ebert), [Philipp Scheidemann](/postacie/philipp-scheidemann) and [Otto Landsberg](https://pl.wikipedia.org/wiki/Otto_Landsberg), instructed him to "do what is necessary" to free the Berlin city commandant, who was being held by mutinous sailors.
+
+Scheuch was succeeded on 2 January 1919 (according to some sources 3 January) by Colonel [Walther Reinhardt](https://pl.wikipedia.org/wiki/Walther_Reinhardt), a Württemberger who since November had been in charge of demobilisation at the ministry and had won Ebert's trust. He accepted the post on condition that the government supported the officers' authority against the soldiers' councils. He was the last Prussian minister of war, and then the first Chief of the Army Command of the [Reichswehr](https://pl.wikipedia.org/wiki/Reichswehra). Scheuch retired on the pension due to him.

@@ -1,0 +1,14 @@
+---
+title: Occupation of Sidon
+summary: On 6 October 1918 the vanguard of the Indian 7th Division, advancing along the coast from Haifa towards Beirut, entered Sidon. It was supplied by sea.
+source: zajecie-sydonu
+sourceHash: a6b29d6368af7c4ca8e8507b222fd6c7d48d55c4
+---
+
+On 6 October 1918 the leading troops of the Indian 7th (Meerut) Division entered [Sidon](https://pl.wikipedia.org/wiki/Sydon), called Saida in Arabic, an ancient Phoenician city on the Mediterranean about 40 kilometres south of Beirut, without a fight. The Turks had abandoned the coast after their defeat at Megiddo, so the British did not have to fight here. Their enemy was the road.
+
+After the [capture of Haifa and Acre](/zajecie-hajfy-i-akki) and the [taking of Damascus](/zajecie-damaszku) by Allenby's mounted troops, Lieutenant-General Edward Bulfin's XXI Corps sent Major-General Vere Fane's 7th Division along the coast towards Beirut. The division advanced in three columns. The first consisted only of the corps cavalry regiment, made up of yeomanry squadrons, a company of infantry and light armoured cars. Beyond Acre the road climbed onto the white cliffs of the headland of Ras an-Naqura and then ran along a ledge cut into the cliffs, known as the Ladder of Tyre. In places it was less than two metres wide and as steep as a staircase. When the officer commanding the engineers, Lieutenant-Colonel E. F. J. Hill, reported that it would have to be blasted to let wagons and heavy guns through, and that the whole ledge might slide into the sea in the process, Bulfin asked, according to the British official history, for "time for a few cigarettes" to think it over, and then ordered the work to begin. From 2 October the engineers, an Indian pioneer battalion, Sikhs and a Leicestershire battalion made the road passable in three days.
+
+Without waiting for the work to finish, the horsemen pushed on and on the afternoon of 4 October occupied Tyre, the former capital of Phoenicia, then a small town. Three days' supply of food was landed there from the sea, and the passing columns picked it up on the way. On 6 October the vanguard entered Sidon, which had long since outgrown its ancient rival, and here too supplies were brought in by ship. Supply by sea saved the transport columns the long journey over the Ladder of Tyre, the only land route along the coast.
+
+The British chronology of the war records the occupation of Sidon by British troops under 6 October, and the occupation of Beirut by the French a day later. The head of the 7th Division reached Beirut on the evening of 8 October. In Sidon and Tyre, as in Beirut, French military governors soon took over, and order was kept by small French detachments brought by trawler from Haifa. Under the Sykes–Picot Agreement the whole Lebanese coast was to go to France, although Faisal's supporters in the coastal towns had already hoisted the Arab flag.

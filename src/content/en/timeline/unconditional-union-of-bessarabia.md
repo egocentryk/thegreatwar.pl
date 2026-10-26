@@ -1,0 +1,24 @@
+---
+title: Unconditional union of Bessarabia
+summary: On the night of 9–10 December 1918 the Sfatul Țării in Chișinău gave up Bessarabia's autonomy, declared unconditional union with Romania and dissolved.
+source: bezwarunkowa-unia-besarabii
+sourceHash: 09726d07d2d18373c7a2c9d91e7f07648fd86a1d
+---
+
+On the night of 9–10 December 1918 (26–27 November by the Julian calendar, which Romania still used at the time), in [Chișinău](https://pl.wikipedia.org/wiki/Kiszyniów), the Sfatul Țării, or [Council of the Country](https://pl.wikipedia.org/wiki/Rada_Kraju), the parliament of [Bessarabia](https://pl.wikipedia.org/wiki/Besarabia), resolved that the province renounced the conditions under which it had [joined Romania](/zjednoczenie-besarabii-z-rumunia) in April, and proclaimed an unconditional union. Immediately afterwards the assembly dissolved itself. The British chronology of the war records this under 10 December, in accordance with the Gregorian calendar.
+
+## The last session
+
+The act of union of 9 April 1918 had guaranteed Bessarabia broad autonomy: its own democratically elected diet, which would pass the provincial budget, supervise local government and appoint the local administration. The Council of the Country was also to carry out a land reform. In the autumn of 1918 the situation changed. The Central Powers had lost the war; on 28 November [Bukovina joined Romania](/unia-bukowiny-z-rumunia), and on 1 December at Alba Iulia [the Romanians of Transylvania and the Banat did the same](/zgromadzenie-w-alba-iulia). Romanian politicians wanted to come to the peace conference with a single, compact state, not with provinces that had their own diets and conditions.
+
+The Council of the Country met for its second session, convened by royal decree, on 8 December (25 November Old Style). [Pantelimon Halippa](https://pl.wikipedia.org/wiki/Pantelimon_Halippa) became its president in place of Constantin Stere. First the land reform, the main condition of April, was passed. According to the American historian Charles Upson Clark, who investigated the matter on the spot in the 1920s, the former owners kept at most about a hundred hectares of land together with the manor house, vineyards and orchards, and were to receive compensation for the surplus. Not all the deputies agreed to give up autonomy. According to Clark, as late as November forty of them handed the Romanian government a memorandum in which they complained about Romanian officials and warned that if the conditions of the April act were not honoured, they would regard it as void.
+
+## The resolution
+
+Late on the night of 9–10 December the leaders of the Moldavian Bloc put forward a motion, which the assembly adopted by acclamation. It read: "In view of the union with Mother Romania of Bukovina, Transylvania, the Banat and the Hungarian lands inhabited by Romanians, within the boundaries of the Danube and the Tisza, the Council of the Country declares that Bessarabia renounces the conditions of union stipulated in the act of 27 March, in the conviction that in the Romania of all Romanians a purely democratic regime is assured for the future." The Council, "on the eve of the Romanian Constituent Assembly, which will be elected by universal suffrage", and having settled the agrarian question "according to the needs and demands of the people", annulled the remaining conditions and proclaimed "the unconditional union of Bessarabia with Mother Romania". Legislative power was to pass to the future [constituent assembly](https://pl.wikipedia.org/wiki/Konstytuanta) of Greater Romania.
+
+The validity of the vote was challenged from the outset. Of the Council of the Country's more than 120 members, only a few dozen deputies were in the chamber. The American political scientist Charles King states that 44 voted, all in favour. Russian accounts speak of 36 votes and stress that there was no [quorum](https://pl.wikipedia.org/wiki/Kworum). Clark noted that the Russian members of the Council claimed there had been no quorum, but one of the Moldavian deputies assured him that there had been.
+
+## Aftermath
+
+The resolution was approved by King [Ferdinand I](/postacie/ferdynand-i-rumunski). Bessarabia became an ordinary province of the kingdom and Chișinău a Romanian provincial town. Some former deputies protested and demanded the restoration of autonomy, but the government in Bucharest paid no attention to their demands. In the autumn of 1919 the inhabitants of Bessarabia elected deputies to the Romanian parliament for the first time, and at the end of December 1919 that parliament ratified the acts of union of Bessarabia, Bukovina and Transylvania. Soviet Russia never recognised the annexation of Bessarabia, and in June 1940 the Soviet Union occupied it after an ultimatum to Romania.

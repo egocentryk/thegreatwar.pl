@@ -1,0 +1,32 @@
+---
+title: Sinking of the Leinster
+summary: On 10 October 1918 UB-123 sank the mail steamer Leinster at the entrance to Dublin Bay. Over 500 died, the worst loss in the history of the Irish Sea.
+source: zatopienie-leinstera
+sourceHash: c11ce13b1a0ecccdefb86b8881c0130f7cfeef64
+---
+
+On 10 October 1918, just before ten in the morning, the German submarine UB-123 torpedoed in the [Irish Sea](https://pl.wikipedia.org/wiki/Morze_Irlandzkie) the Irish mail steamer *Leinster*, which had left Kingstown near Dublin for Holyhead in Wales an hour earlier. The ship sank a few kilometres east of the Kish lightship, at the entrance to [Dublin Bay](https://pl.wikipedia.org/wiki/Zatoka_Dublińska). According to the most recent research, some 560–570 people died: soldiers, nurses, postal workers and civilians, women and children. It was the greatest maritime disaster in the history of the Irish Sea. It came at the moment when the new German government [was asking President Wilson for an armistice](/noty-pokojowe-do-wilsona), and the sinking of the *Leinster* immediately became a political issue.
+
+## The mail steamer
+
+The *Leinster* belonged to the City of Dublin Steam Packet Company, which for decades had carried the Royal Mail between Ireland and Great Britain. She was built in 1897 at the Laird yard in Birkenhead, together with three sister ships named, like her, after the four provinces of Ireland: *Leinster*, *Munster*, *Ulster* and *Connaught*. She was very fast for her time, capable of more than 20 knots, and every day made the crossing from Kingstown, today [Dún Laoghaire](https://pl.wikipedia.org/wiki/Dún_Laoghaire), to [Holyhead](https://pl.wikipedia.org/wiki/Holyhead), from where trains carried passengers and mail to London. During the war she was given a single gun, and she sailed alone on her route, without escort, relying on her speed. She was Ireland's most important link with the rest of the United Kingdom, and many soldiers travelling to the front or returning from leave also used her. At least once before, a German submarine had fired torpedoes at her, but missed.
+
+## The morning of 10 October
+
+On 10 October the *Leinster* left the quay at Kingstown shortly before nine. She was commanded by Captain William Birch. According to the Irish historian Philip Lecane, author of the most comprehensive study of the disaster, there were 813 people on board: 77–79 crew members, 22 postal workers who sorted letters during the voyage in the mail room in the bow, about 200 civilians and more than 500 service personnel. Among them were soldiers, sailors and airmen from Ireland, Great Britain, Canada, the United States, Australia and New Zealand, as well as military nurses. The sea was rough, with a heavy swell.
+
+In the waters around the Kish lay UB-123, a new Type UB III submarine commissioned in April 1918 and commanded by Oberleutnant zur See Robert Ramm. It was her second and last patrol. Passengers on the *Leinster*'s deck saw the first torpedo approach from the port side and pass ahead of the bow. The second struck the port side forward, roughly in the mail room. The ship turned to try to make her way back to Kingstown and began slowly settling by the bow. Then a third torpedo struck her, this time on the starboard side, causing a huge explosion. The *Leinster* sank within a few minutes.
+
+Despite the swell the crew managed to lower some of the boats; other people clung to rafts and wreckage in the cold water. The destroyers *Lively*, *Mallard* and *Seal*, the armed yacht *Helga* and other vessels from Kingstown came to the scene. Survivors were landed at Kingstown, from where, according to accounts, some two hundred ambulances took the injured to hospitals in Dublin. Among those rescued were the Irish MP Michael Joyce and the commander of US naval aviation in Europe, Captain Hutchinson Cone.
+
+## The victims
+
+The number of dead is still uncertain, because no complete passenger list has survived. Older accounts spoke of more than 500 victims, while Lecane and researchers from the National Maritime Museum of Ireland counted at least 564–569 dead and 244 survivors. Captain Birch died, as did about 40 crew members and 21 of the 22 postal workers, who did not manage to get out of the stricken mail room. Nurses also died, as did nineteen-year-old Josephine Carr, the first member of the Royal Navy's women's service (the [Women's Royal Naval Service](https://pl.wikipedia.org/wiki/Women’s_Royal_Naval_Service)) to be killed on duty. The civilian victims included people well known in Ireland, among them Lady Phyllis Hamilton, daughter of the Duke of Abercorn, and two activists of the Irish Transport and General Workers' Union. Many of the servicemen who died were buried in Grangegorman Military Cemetery in Dublin.
+
+The disaster affected the whole of Ireland. Many of the soldiers killed were Irish volunteers, because [conscription](/trzecia-ustawa-o-sluzbie-wojskowej) never came into force on the island. Memorial services were held in Dublin and in the provinces, and for many days the newspapers printed lists of victims and accounts by survivors.
+
+## Political repercussions
+
+News of the sinking of the *Leinster* reached Washington and London during the exchange of notes about an armistice. Two days earlier, in his [reply to the German note](/pierwsza-odpowiedz-wilsona), Wilson had asked whether Germany accepted his peace terms. Now people in Britain and the United States asked how one could talk of peace with a government whose submarines were still sinking passenger ships, just as three and a half years earlier, off the south coast of Ireland, they had sunk the [*Lusitania*](/zatopienie-lusitanii). A few days later, in his note of 14 October, Wilson reproached the Germans that at the very moment they were asking for peace their submarines were sinking passenger ships, and even the boats in which survivors were trying to save themselves. On 20 October the government of [Max von Baden](/postacie/max-von-baden) replied that the submarines had been ordered not to attack passenger ships.
+
+UB-123 never returned to base. On 18 October her commander asked another submarine by radio for the safest route through the great Allied minefield in the North Sea, and on 19 October the boat most probably struck a mine. All 36 crew members were killed. The *Leinster*'s anchor was later raised from the seabed and set up in Dún Laoghaire as a memorial to the victims.

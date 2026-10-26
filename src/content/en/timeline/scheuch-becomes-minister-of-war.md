@@ -1,0 +1,16 @@
+---
+title: Scheuch becomes minister of war
+summary: On 9 October 1918 General Heinrich Scheuch became Prussian minister of war. He replaced Hermann von Stein, who left under pressure from the new chancellor.
+source: scheuch-ministrem-wojny
+sourceHash: 6a4605a752c826f0732517da4e5f7b67d5af8ede
+---
+
+On 9 October 1918 General Heinrich Scheuch (also spelt Schëuch) became Prussian minister of war. On the same day he was promoted to lieutenant-general. He replaced General [Hermann von Stein](/stein-pruskim-ministrem-wojny), who had headed the ministry since the autumn of 1916. Stein resigned under pressure from the new chancellor, Prince [Max of Baden](/max-badenski-kanclerzem). Stein had taken office in 1916 at the wish of the supreme command of Hindenburg and [Erich Ludendorff](/postacie/erich-ludendorff) and was regarded as its man, while a government based on a majority in the Reichstag wanted someone at the ministry of war who would work with it.
+
+The new minister was 54 years old and one of the few Alsatians to reach high rank in the Imperial army. He was born in Schlettstadt, today [Sélestat](https://pl.wikipedia.org/wiki/Sélestat), the son of a judge from Colmar. He spent most of his career in the ministry of war, where before the war he headed the central department. In August 1914, as head of the mobile staff of the minister of war [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), he received the industrialist [Walther Rathenau](https://pl.wikipedia.org/wiki/Walther_Rathenau), who warned that Germany would run short of raw materials in a long war. According to German studies, Scheuch at once supported his idea of creating a war raw materials department at the ministry, which then managed the Reich's strategic materials. Later he fought at the front: in 1916 he commanded an infantry brigade on the Somme, and in 1917 a division in the Argonne and in Champagne.
+
+In August 1917 Scheuch replaced General [Wilhelm Groener](/postacie/wilhelm-groener) at the head of the War Office (Kriegsamt), which directed armaments production and manpower. Groener had had to go after disputes with industrialists over war profits. Under Scheuch the office lost some of its powers, and the situation of Germany, increasingly short of raw materials, men and food, grew worse month by month.
+
+The appointment of 9 October gave the minister of war more power than his predecessors had had. According to the German legal historian Ernst Rudolf Huber, the minister gained direct authority over the military district commanders, who under the state of siege exercised censorship at home and decided on public meetings. In this way the government wanted to place them under the control of the civil authorities. From his first day Scheuch also dealt with the question of the armistice. On 9 October itself, in a letter to the chancellor, he asked that if Wilson demanded the evacuation of the occupied territories, not only the supreme command but all the most important commanders should be heard on the matter.
+
+German biographers write that Scheuch could only be the administrator of the estate left by a lost war. He remained in office even after the November Revolution. In mid-December he asked to be relieved, and on 2 January 1919 he left the ministry.

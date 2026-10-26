@@ -1,0 +1,16 @@
+---
+title: The British retake Armentières again
+summary: In early October 1918 the Germans abandoned Armentières, taken in April on the Lys. The British returned to a town that had been reduced to ruins.
+source: brytyjczycy-ponownie-odbijaja-armentieres
+sourceHash: bedaa91bceb10d21e3d84d55f8a2c6e6f33c3c48
+---
+
+On 3 October 1918 [Armentières](https://pl.wikipedia.org/wiki/Armentières), a textile town on the River [Lys](https://pl.wikipedia.org/wiki/Leie) by the Franco-Belgian border, was once again in British hands. The Germans [had taken it on 11 April 1918](/niemcy-zajmuja-armentieres-i-merville), during the Lys offensive, when the British 34th Division abandoned the gas-poisoned ruins. Before that the town had lain for three and a half years just behind the British front, ever since III Corps [retook it in October 1914](/brytyjczycy-odbijaja-armentieres). This time the British returned without a fight, because the Germans withdrew of their own accord.
+
+The withdrawal was the result of German defeats on other sectors of the front. At the end of September the Allies had struck in Flanders near Ypres and at the Hindenburg Line near Cambrai and Saint-Quentin, and the projecting German salient between the Lys and Lens had become superfluous and threatened from both sides. According to the British official history (James Edmonds, *Military Operations France and Belgium 1918*, vol. V), the German Sixth Army, whose roads through Armentières, Frelinghien and Warneton were under fire from the heavy artillery of the British XV Corps, evacuated Armentières and neighbouring [Erquinghem-Lys](https://pl.wikipedia.org/wiki/Erquinghem-Lys) on the night of 1–2 October. At the same time it began to fall back on a front some 27 kilometres long, from Armentières to Lens, to the line of the Haute Deûle canal.
+
+As early as 1 October the British 40th Division of XV Corps of the Second Army had taken, by working round it from two sides, the hamlet of Le Bizet north of the town. On 2 October the 40th and 31st Divisions advanced almost unopposed on both sides of Armentières, but they had orders not to enter the ruins, which the Germans had only just left and which were feared to be full of booby traps. Instead they prepared bridges over the Lys. The Commonwealth War Graves Commission and the British chronology of the war state that the town was recovered on 3 October. French sources often give 2 October, because on that day Armentières was already free of Germans.
+
+Little was left of the town. In 1917 the Germans had repeatedly deluged it with mustard-gas shells, and in April 1918 the offensive had passed through it. Before leaving, the occupiers destroyed everything that could be of use to the Allies and, according to accounts of the reconstruction, even blew up the belfry, the town-hall tower that had become a symbol of the town's endurance. By the end of the war three-quarters of Armentières lay in rubble: some 4,800 houses had been destroyed and 2,400 badly damaged. The town was later awarded the French Croix de Guerre.
+
+The recovery of Armentières opened the Allies' way towards Lille, a dozen or so kilometres away. When the Germans gave up that city in the second half of October, the British built a railway bridge over the Lys at Armentières in four days to bring food to the starving inhabitants of Lille.

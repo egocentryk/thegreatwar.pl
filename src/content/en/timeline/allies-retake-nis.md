@@ -1,0 +1,32 @@
+---
+title: Allies retake Niš
+summary: At noon on 12 October 1918 Serbian infantry entered Niš, Serbia's wartime capital, after three days of fighting with the Germans on the approaches to the city.
+source: alianci-odbijaja-nisz
+sourceHash: becb67d30a35c879e07e479a8c3f3f83b95e6676
+---
+
+At about noon on 12 October 1918 the first sub-units of the Serbian 1st Infantry Regiment "Knjaz Miloš" of the Morava Division entered [Niš](https://pl.wikipedia.org/wiki/Nisz), and an hour later the Serbs controlled the whole city and its immediate surroundings. Niš, [Serbia's wartime capital](/rzad-serbski-przeniesiony-z-belgradu-do-niszu) since the summer of 1914, had been [in Bulgarian hands](/bulgarzy-zajmuja-nisz) since November 1915. The entry into the city ended a three-day battle on its approaches. The British chronology of the war records the recapture of Niš under 11 October, but Serbian studies, based on staff documents, consistently give 12 October, and that is the day Niš celebrates the anniversary of its liberation. The German war communiqué of 13 October confirmed that the enemy had taken the city.
+
+## German reinforcements
+
+After the [armistice with Bulgaria](/rozejm-w-salonikach) Niš became the most important point in Serbia for both sides. Through the city ran the railway and roads from Bulgaria to the north, along which German and Austro-Hungarian troops were withdrawing. The German high command intended to build a new front south of the city, with Niš itself as its main supply base. Reinforcements were hurriedly brought up: the German 219th Division took up position astride the South Morava south of Niš, and on its right, on the hills south of [Prokuplje](https://pl.wikipedia.org/wiki/Prokuplje), the German Alpine Corps was detraining. From the east, from Sofia, the 217th Division was arriving by rail. The Austro-Hungarian 30th Division was not due to detrain at [Kruševac](https://pl.wikipedia.org/wiki/Kruševac) and [Knjaževac](https://pl.wikipedia.org/wiki/Knjaževac) until 12 October.
+
+The Serbian First Army of Vojvoda [Petar Bojović](/postacie/petar-bojovic) was tired after a week of incessant marching and fighting. According to Serbian studies, the Allied command, in view of the strong enemy, even advised halting the advance, but Bojović, with the consent of the Serbian high command, moved on the city. According to Cyril Falls's British official history, as the march went on through the recovered lands volunteers flocked to the Serbian divisions, and former leaders of komitadji bands took to the hills with their detachments and harassed the enemy in the gorges. On the army's right advanced the French cavalry brigade of General Jouinot-Gambetta.
+
+## Fighting on the approaches
+
+The battle began on 10 October. That day the Serbian Morava Division climbed the Seličevica range, which dominates the Morava valley and the roads to the city, and reached the outskirts of Niš. The front of the German 219th Division was broken. The Danube Division, which tried to clear the Toplica valley to the west, met strong German resistance and suffered heavy losses. According to Serbian studies, the commander of the German [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Cesarstwo_Niemieckie)), General Kuno von Steuben, considered the battle for Niš lost that same day and decided to fall back to the Kraljevo–Kruševac–Knjaževac line. Also on 10 October supreme command in the Balkans was taken over by the Austro-Hungarian Field Marshal [Hermann Kövess von Kövesshaza](/postacie/hermann-kovess), the conqueror of Serbia in 1915, who decided to withdraw the troops behind the Danube and the Sava.
+
+On 11 October the Germans counter-attacked several times, and several battalions of the German 391st Regiment threatened to cut off the advanced 1st Regiment, commanded by Lieutenant-Colonel Stojan Nikolić. The railways from Pirot and to Knjaževac were full of German trains. A captured Austrian gun, set up by the Serbs on the Gorica hill, hit an ammunition train at Crveni Krst station on the northern edge of the city. The explosion and fire paralysed traffic at the station, and the Germans abandoned the trains.
+
+## 12 October
+
+According to Serbian studies, during the night of 11–12 October the main German forces withdrew north, leaving only weak rearguards in the southern suburbs. For 12 October Bojović ordered all units to pursue vigorously. In the morning the head of the 1st Regiment stood on the Gorica hill and its main body on Markovo Kale. At about noon sub-units of the regiment entered the city, and by 1 p.m. they had secured Niš and its immediate surroundings. Nikolić did not stop in the city: on his own initiative he sent a battalion further north, to the Vinik hill, from which weak German detachments were driven that same day. The left column of the Morava Division reached the village of Čamurlija, the Danube Division pursued the enemy north of Prokuplje, and the Serbian Cavalry Division liberated Prokuplje itself and crossed the South Morava. The German communiqué described this as the German troops, under the pressure of stronger attacks, withdrawing as ordered to the hills north of the city.
+
+## Prizren
+
+The day before, far to the west in Kosovo, the troops of the Central Powers abandoned Prizren without a fight. The Austro-Hungarian communiqué of 11 October announced that imperial and royal detachments had withdrawn from [Priština](/francuzi-odbijaja-prisztine) and [Prizren](https://pl.wikipedia.org/wiki/Prizren). The city, where in November 1915 [the Serbian government and the king had decided to retreat through Albania](/rzad-serbski-opuszcza-prizren), was entered by units of the French 11th Colonial Infantry Division. Some studies also credit the Serbs and the Italian 35th Division with a part in recovering the city. The details are poorly documented. The British chronology records the occupation of Prizren by the French under 11 October.
+
+## The road to the Danube
+
+The recapture of Niš finally severed the Central Powers' land communications with Turkey. The Germans failed to build a lasting front south of the city, and the Eleventh Army continued to withdraw. On 13 and 14 October the Serbs pursued it towards Aleksinac and Knjaževac, and on 15 October they again faced the enemy's main forces, on the West Morava and the Timok. Three weeks later the vanguards of the Serbian First Army reached Belgrade.

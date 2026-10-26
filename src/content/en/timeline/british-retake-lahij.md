@@ -1,0 +1,20 @@
+---
+title: British retake Lahij
+summary: On 9 December 1918, over three years after their 1915 defeat, the British returned to Lahij near Aden. Ali Said Pasha's Turks surrendered under the armistice.
+source: brytyjczycy-odbijaja-lahidz
+sourceHash: a5b163646a04c0836e6383c12ffc656dea90f594
+---
+
+The British chronology of the war records under 9 December 1918 the reoccupation by British troops of [Lahij](https://pl.wikipedia.org/wiki/Lahidż), the capital of a sultanate lying about thirty kilometres north of [Aden](https://pl.wikipedia.org/wiki/Aden). The town had been in Ottoman hands since July 1915, when troops from Yemen under Ali Said Pasha [routed a British column](/turcy-zajmuja-lahidz) sent to its relief. This time there was no battle. The Turks, cut off from the rest of the empire and with no hope of help, laid down their arms under the armistice, and the British returned to Lahij as victors.
+
+## Surrender after the armistice
+
+The [Armistice of Mudros](/rozejm-w-mudros) of 30 October required the Ottoman garrisons in Yemen to surrender to the nearest Allied commander. In Yemen, however, it was received with disbelief. The command of VII Corps in [Sanaa](https://pl.wikipedia.org/wiki/Sana) and the governor, Mahmud Nedim Bey, did not want to hand over their weapons to the British and preferred to come to terms with Imam [Yahya](https://pl.wikipedia.org/wiki/Jahja_Muhammad_Hamid_ad-Din), who was building his own state. Ali Said Pasha, commander of the troops on the Aden front, acted differently. According to Turkish archival research, as early as 2 November he signalled that he would comply with the armistice, and then went to Aden to communicate with Constantinople by the telegraph there. When the government confirmed the armistice terms, he agreed to surrender. On the night of 25–26 November the Ottoman telegraph office in Lahij was closed, and Ali Said set out which units were to surrender and when.
+
+The British, weakened by the Spanish flu epidemic, lacked the strength to force a surrender by arms and negotiated throughout November. According to British war diaries, the first Turkish unit formally surrendered on 6 December. Sources differ on the day the British entered Lahij itself. The chronology gives 9 December, some studies 15 December. Some British publications also write of a successful December attack on Lahij, but the war diaries and Turkish documents show that the garrison laid down its arms under the armistice, and that the British march was an occupation of the town rather than its capture. What is certain is that on 14 December a new sultan, Abd al-Karim ibn Fadl, was ceremonially installed in the capital; he had been chosen in Aden in the summer of 1915 after the death of his predecessor, who had been wounded during the fighting for the town. The British government gave him £10,000 to rebuild the administration.
+
+## Ali Said's entry into Aden
+
+Ali Said Pasha had held Lahij for more than three years and throughout that time had kept the Aden garrison in check. The British respected him as an opponent. Harold Jacob, the deputy British resident in Aden, recalled that his entry into the town resembled a triumphal procession, with crowds cheering him. The pasha was sent with his soldiers into captivity in Egypt. He later told Jacob that had he not believed the news of the armistice, he could have held out in the interior for another year, because the local population was on his side. Meanwhile the command in Sanaa, which distrusted the armistice, spread rumours that he had surrendered for British money.
+
+The return to Lahij ended more than three years of Turkish occupation of Aden's hinterland, but it was not the end of the war in southern Arabia. According to some British accounts, the last Ottoman units left the Lahij area only in March 1919, and only then could the British Aden Field Force be disbanded. Soon after the Turks left, Imam Yahya's forces began to violate the protectorate's border. Ali Said returned to Turkey in 1919 and, as Ali Sait Akbaytogan, became a general of the Turkish army.
