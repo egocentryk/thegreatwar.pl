@@ -17,7 +17,7 @@ tags: [Serbia, Francja, Bułgaria, Louis Franchet d'Espérey]
 milestone: true
 ---
 
-Bitwa pod Dobrym Polem otworzyła ostatnią ofensywę sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). 15 września 1918 roku o 5.30 rano dwie francuskie dywizje i serbska Dywizja Szumadijska ruszyły do szturmu na bułgarskie okopy na nagim górskim grzbiecie wznoszącym się na blisko dwa tysiące metrów nad kotliną [Meglena](https://pl.wikipedia.org/wiki/Meglena). Do wieczora zdobyły szczyty Vetrenik, Dobro Pole i Sokol, a w nocy przez wyłom przeszły dywizje serbskie, które szły już po własnej ziemi. Do wieczora 17 września padły także druga i trzecia linia obrony. Bułgarzy, przekonani, że w tak wysokich górach nikt nie zaatakuje, stracili pozycję, na której opierała się cała obrona Macedonii. Przełamanie pod Dobrym Polem w ciągu dwóch tygodni wyprowadziło Bułgarię z wojny.
+Bitwa pod Dobrym Polem otworzyła ostatnią ofensywę sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). 15 września 1918 roku o 5.30 rano dwie francuskie dywizje i serbska Dywizja Szumadijska ruszyły do szturmu na bułgarskie okopy na nagim górskim grzbiecie wznoszącym się na blisko dwa tysiące metrów n.p.m. nad kotliną [Meglena](https://pl.wikipedia.org/wiki/Meglena). Do wieczora zdobyły szczyty Vetrenik, Dobro Pole i Sokol, a w nocy przez wyłom przeszły dywizje serbskie, które szły już po własnej ziemi. Do wieczora 17 września padły także druga i trzecia linia obrony. Bułgarzy, przekonani, że w tak wysokich górach nikt nie zaatakuje, stracili pozycję, na której opierała się cała obrona Macedonii. Przełamanie pod Dobrym Polem w ciągu dwóch tygodni wyprowadziło Bułgarię z wojny.
 
 ## Nazwa i daty
 

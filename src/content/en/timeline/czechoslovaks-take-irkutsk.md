@@ -1,0 +1,20 @@
+---
+title: Czechoslovaks take Irkutsk
+summary: On 11 July 1918 Gajda's Czechoslovaks and Siberian volunteers entered Irkutsk almost unopposed. The Reds fell back to Baikal, blowing up bridges behind them.
+source: czechoslowacy-zajmuja-irkuck
+sourceHash: 4845eedf4461abdf46ed836066242f6ec536c502
+---
+
+On 11 July 1918 the opponents of the Bolsheviks took power in [Irkutsk](https://pl.wikipedia.org/wiki/Irkuck), the largest city of eastern Siberia. Units of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) under the command of [Radola Gajda](/postacie/radola-gajda) and volunteers of the Siberian anti-Bolshevik army entered the city practically without a fight. A British chronology of the war records the capture of Irkutsk under 13 July, but the American consul general Ernest Harris, who was in the city at the time, and Russian sources agree that the Czechoslovaks and Cossacks entered the city on 11 July. The Red Guard had left the city the day before or that same morning, blowing up the bridge over the river [Irkut](https://pl.wikipedia.org/wiki/Irkut).
+
+## The road east
+
+After the [outbreak of the revolt](/bunt-legionu-czechoslowackiego) at the end of May, Gajda's group seized Novonikolayevsk, and after the [fall of Omsk](/czechoslowacy-zajmuja-omsk) it joined up with the rest of the corps and set off east along the [Trans-Siberian Railway](https://pl.wikipedia.org/wiki/Kolej_Transsyberyjska). The aim was to break through to Vladivostok, where more than ten thousand legionaries already stood, who in turn were heading west to meet their comrades. Alongside the Czechoslovaks advanced newly formed units of the Siberian Army. On the Irkutsk axis they were commanded by the 26-year-old Lieutenant Colonel [Anatoly Pepelyayev](https://pl.wikipedia.org/wiki/Anatolij_Piepielajew), and the regiments were made up overwhelmingly of volunteer officers. Russian accounts often credit Pepelyayev with the capture of Irkutsk, Czech and Western ones above all Gajda.
+
+In Irkutsk itself the Bolsheviks held firm. On 14 June about a thousand members of an underground officers' organisation attacked the prison in the northern part of the city and freed about a hundred imprisoned officers, but after several hours of fighting they had to withdraw. According to Harris, the strongest part of the Red Guard consisted of armed German and Austro-Hungarian prisoners of war, who from then on manned all the more important posts. As the Czechoslovak echelons approached, the Central Executive Committee of the Soviets of Siberia (Tsentrosibir) moved to Verkhneudinsk beyond Baikal, and the Bolsheviks carried money, ammunition and food out of the city. The consul described the last days before the Czechoslovaks entered as a time of looting by armed bands of anarchists.
+
+## A city without Bolsheviks
+
+The inhabitants greeted the incoming troops with enthusiasm. From then on order was kept by a White militia, the old city duma took over the municipal administration, shops reopened and the banks were returned to their owners. Harris also noted the darker side of the change of power: along the railway Red leaders and commissars were tried summarily, and prisoners of war caught with weapons in their hands were shot on the spot by the Czechoslovaks.
+
+The Reds, reorganised into two divisions, fell back to [Lake Baikal](https://pl.wikipedia.org/wiki/Bajkał), partly by rail, partly by steamer across the lake. The pursuit began at once. As early as 14 July the Siberian 4th Tomsk Regiment and a Czechoslovak assault battalion unexpectedly emerged on the mountains above Kultuk, at the south-western tip of the lake. In the following weeks there was fighting for the stations of the Circum-Baikal Railway, with its many tunnels, which the Reds tried to blow up. The Czechoslovaks from Irkutsk met the units coming from Vladivostok only at the end of August, in Transbaikalia. Soon afterwards almost the whole Trans-Siberian Railway, from the Volga to the Pacific, was in the hands of the Bolsheviks' opponents.

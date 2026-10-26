@@ -1,0 +1,14 @@
+---
+title: Last aeroplane raid on Britain
+summary: On 20 July 1918 a German aeroplane appeared briefly over Deal in Kent and dropped no bombs. It was the last German aeroplane flight over England in the war.
+source: ostatni-nalot-samolotow-na-wielka-brytanie
+sourceHash: b7fbcf7a97576b4aa10414eb845b1a6f9035e699
+---
+
+On 20 July 1918 a German aeroplane appeared briefly over the small town of [Deal](https://pl.wikipedia.org/wiki/Deal_(Wielka_Brytania)) on the coast of [Kent](https://pl.wikipedia.org/wiki/Kent), dropped no bombs and turned back. The British chronology of the war recorded this day as the date of the last, unsuccessful attempt at an aeroplane attack on the British Isles. H. A. Jones, author of the British official history of the war in the air, describes the flight even more modestly: the aeroplane appeared over Deal only for a moment. In his list of raids it figures as a daylight flight. The sources do not settle whether the crew had a reconnaissance task or abandoned an attack. All that is known is that it was the last German aeroplane over England in the war.
+
+The aeroplane bombing campaign against England had in fact ended two months earlier. On the night of 19–20 May several dozen Gothas and Giants carried out [the last great raid on London](/ostatni-nalot-na-londyn), losing several machines in the process. After that, as Jones writes, German aeroplanes crossed the English coast only three more times, each time without bombs. On 17 June a single aeroplane flew at great height over [Broadstairs](https://pl.wikipedia.org/wiki/Broadstairs) and [Margate](https://pl.wikipedia.org/wiki/Margate) at noon, on 18 July a similar flight was repeated, and two days later came the brief flight over Deal.
+
+According to the German Major Freiherr von Bülow, whom Jones cites, the raids on England were stopped under the pressure of events in France. From May the bomber squadrons were occupied solely with supporting the troops on the Western Front, where the great German offensive was under way, and from 15 July [the Second Battle of the Marne](/poczatek-drugiej-bitwy-nad-marna). In August 1918 the German Supreme Army Command ordered the bombing of London and Paris to be ended "for military and political reasons".
+
+The British chronology summed up the whole campaign in a footnote to this day. From [the first attempt in December 1914](/pierwszy-niemiecki-nalot-na-anglie) to July 1918 the Germans carried out 59 aeroplane raids against the British Isles in which bombs fell, and 11 reconnaissance flights over Great Britain or near its coasts without dropping bombs. Other tallies count these expeditions somewhat differently. According to Jones's tables, raids by aeroplanes and seaplanes killed about 860 people in Great Britain and injured more than 2,000, most of them in London. After that only naval airships set out for England, for the last time on 5 August 1918.

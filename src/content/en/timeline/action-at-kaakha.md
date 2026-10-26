@@ -1,0 +1,14 @@
+---
+title: Action at Kaakha
+summary: On 28 August 1918 at Kaakha station in Transcaspia, Malleson's Punjabis and the Transcaspian government's troops beat off an attack by Bolsheviks from Tashkent.
+source: starcie-pod-kaachka
+sourceHash: 04c5b504c762f8d04a4424e7788b7e1895f37f27
+---
+
+On 28 August 1918, at Kaakha station, today the town of [Kaka](https://pl.wikipedia.org/wiki/Kaka_(Turkmenistan)) on the railway between [Ashgabat](https://pl.wikipedia.org/wiki/Aszchabad) and [Tejen](https://pl.wikipedia.org/wiki/Tedżen), Bolshevik troops from Tashkent attacked a position of the Transcaspian government. This date is given by F. J. Moberly's British official history, by the report of the Punjabis' commander, Lieutenant-Colonel D. E. Knollys, and by the British chronology of the war. Charles Ellis, who took part in the fighting in Transcaspia, describes the same action under the date of 26 August.
+
+After the [defeat at Bayramaly](/bitwa-pod-bajramaly) and the [loss of Merv](/bolszewicy-zajmuja-merw), the Transcaspians fell back as far as Kaakha. General Wilfrid Malleson sent to their aid about 500 men of the 19th Punjabis under Knollys. According to Ellis, the first company arrived on the evening of 25 August, while Sargent writes that the Punjabis joined the Transcaspians on 26 August. The forces of the Transcaspian government were weak. They had about a thousand infantry, according to Knollys mainly Armenians, four modern field guns, four old muzzle-loaders, two armoured trains and a few hundred mounted Turkmens. They were commanded by Colonel Oraz Serdar, son of a Turkmen chief defeated by the Russians at Geok Tepe. On the Bolshevik side fought many former prisoners from the Austro-Hungarian army.
+
+The Reds began with shelling from the hills east of the station and outflanked the defenders' left wing. The Turkmens holding an old fort there scattered almost without a fight, and the Transcaspian infantry fell back to the trains. When the enemy reached the station, the reserve company of Punjabis went in with the bayonet. The surprised Bolsheviks fell back in disorder through the orchards and gardens, and in the evening vanished into the desert, abandoning several machine guns and ammunition. In the hand-to-hand fighting it was hard to tell friend from foe, because both sides wore similar, makeshift uniforms.
+
+The Punjabis lost three officers and 24 other ranks killed and wounded. Both British liaison officers were also wounded, according to Knollys hit from behind. Ellis estimates the Transcaspian losses at 30–40 men, mostly wounded, and the Bolshevik losses at least three times as many. The next day a company of the Hampshire Regiment, which had [earlier arrived by sea at Krasnovodsk](/brytyjczycy-zajmuja-krasnowodsk), reached Kaakha. The action showed that the front in Transcaspia would be held mainly by Indian soldiers. The Bolsheviks renewed their attacks at Kaakha in September.

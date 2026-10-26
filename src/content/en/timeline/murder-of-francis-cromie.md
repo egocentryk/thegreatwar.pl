@@ -1,0 +1,24 @@
+---
+title: Murder of Francis Cromie
+summary: On 31 August 1918 Chekists burst into the British embassy in Petrograd. The naval attaché, Francis Cromie, was killed defending the building, weapon in hand.
+source: zabojstwo-cromiego
+sourceHash: a1906d00e31f349f891a0b49ae72b8791b900d49
+---
+
+On 31 August 1918 a Cheka detachment burst into the British embassy building in Petrograd, on the embankment of the [Neva](https://pl.wikipedia.org/wiki/Newa) opposite the Peter and Paul Fortress. The British [naval attaché](https://pl.wikipedia.org/wiki/Attaché_wojskowy), Captain Francis Cromie, tried to stop the attackers on the stairs. In the shoot-out he killed one of the Chekists and wounded several others, but was himself shot dead. The other Britons in the building were arrested.
+
+## The hero of the Baltic
+
+Cromie, aged thirty-six, was one of the first British submariners. In 1915 he took the submarine [E19](https://pl.wikipedia.org/wiki/HMS_E19) through the Danish straits into the Baltic, where he [sank the German cruiser *Undine*](/zatopienie-krazownika-undine) and several ore steamers. Later he commanded the whole British submarine flotilla in the Baltic. In 1917, promoted to captain, he became naval attaché at the embassy in Petrograd, and in April 1918 he supervised the [scuttling of the flotilla off Helsinki](/zatopienie-brytyjskich-okretow-podwodnych-w-helsinkach) so that the boats would not fall into German hands.
+
+After the departure of the ambassador and most of the diplomats, Cromie remained one of the last British officers in the former capital and in practice directed British intelligence activity there. He kept in touch with officers of the Russian navy and, according to some accounts, prepared plans to destroy the ships of the Baltic Fleet should the Germans occupy Petrograd. He also supported anti-Bolshevik officers making their way north to the zone of the Allied intervention. Russian works link him to the [coup in Archangel](/alianci-w-archangielsku), led by Georgy Chaplin, a former liaison officer on a British submarine. In the summer Cromie met two Latvians claiming to represent the Moscow underground. In reality they were Cheka agents. Cromie put them in touch with the agent [Sidney Reilly](https://pl.wikipedia.org/wiki/Sidney_Reilly) and gave them a letter of introduction to the British representative in Moscow, Robert Bruce Lockhart. So began the provocation that the Soviet authorities later called the "Ambassadors' Plot" or the "Lockhart Plot".
+
+## The storming of the embassy
+
+The day before, the head of the Petrograd Cheka, Moisei Uritsky, had been shot dead, and in Moscow [Lenin had been wounded](/zamach-na-lenina). The Chekists concluded that a counter-revolutionary conspiracy had broken out and decided to search the embassy, where, they believed, conspirators were hiding and compromising documents were kept. On the afternoon of 31 August a squad of Chekists surrounded the building and forced its way in. According to some accounts, the embassy staff were burning documents at the time. Cromie came out into the first-floor corridor with a revolver and opened fire on the Chekists coming up the stairs. He was killed on the main staircase of the embassy. According to Russian findings, he shot dead a Chekist named Janson and wounded two other officers, although British accounts at the time spoke of several killed. The British also claimed that the attaché's body had been desecrated.
+
+About forty people from the embassy, mostly British subjects, were taken to prison. The same night in Moscow the Chekists arrested Lockhart, who was released after a few hours, only to be imprisoned again on 4 September. According to Lockhart's own account, he learned of Cromie's death the next day from the Netherlands minister, who had taken over the protection of British interests. The Soviet press presented the shoot-out as the Chekists' self-defence against an armed conspirator, and on 3 September announced the discovery of a plot by Entente diplomats, who were said to have bribed the Latvian riflemen guarding the Kremlin in order to overthrow the government and introduce a military dictatorship.
+
+## London's retaliation
+
+News of the killing caused a wave of indignation in Britain. The British government demanded reparation and the punishment of those responsible, warning that it would hold members of the Soviet government personally responsible. In London the Bolshevik representative [Maxim Litvinov](https://pl.wikipedia.org/wiki/Maksim_Litwinow) and his associates were arrested as hostages. In October the two men were exchanged: Litvinov left for Russia, and Lockhart and other Britons were allowed to leave Soviet Russia. Cromie was buried in Petrograd. In Britain he was remembered as an officer who died defending the British flag.

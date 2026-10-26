@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 29 sierpnia 1918 roku patrole Dywizji Nowozelandzkiej weszły do [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Niemcy opuścili miasto w nocy, bez walki, po kilku dniach zaciętej obrony. Bapaume zmieniało właściciela już trzeci raz w tej wojnie. W marcu 1917 roku zajęli je [Australijczycy](/brytyjczycy-zajmuja-bapaume), gdy Niemcy wycofali się na Linię Hindenburga, a nocą 24 marca 1918 roku brytyjska 3 Armia [oddała je bez walki](/niemcy-zdobywaja-bapaume-i-peronne) w czasie niemieckiej ofensywy. Teraz ta sama 3 Armia generała [Juliana Bynga](/postacie/julian-byng) odzyskała je po ośmiu dniach natarcia.
+Rankiem 29 sierpnia 1918 roku patrole Dywizji Nowozelandzkiej weszły do [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Niemcy opuścili miasto w nocy, bez walki, po kilku dniach zaciętej obrony. Bapaume zmieniało właściciela już czwarty raz w tej wojnie. Niemcy zajęli je 26 września 1914 roku, w marcu 1917 roku zajęli je [Australijczycy](/brytyjczycy-zajmuja-bapaume), gdy Niemcy wycofali się na Linię Hindenburga, a nocą 24 marca 1918 roku brytyjska 3 Armia [oddała je bez walki](/niemcy-zdobywaja-bapaume-i-peronne) w czasie niemieckiej ofensywy. Teraz ta sama 3 Armia generała [Juliana Bynga](/postacie/julian-byng) odzyskała je po ośmiu dniach natarcia.
 
 ## Tydzień przed miastem
 

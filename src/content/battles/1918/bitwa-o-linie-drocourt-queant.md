@@ -1,5 +1,5 @@
 ---
-title: Bitwa o linię Drocourt-Quéant
+title: Bitwa o linię Drocourt–Quéant
 summary: 2–3 września 1918 Korpus Kanadyjski Curriego przełamał pod Arras linię Drocourt–Quéant. Niemcy musieli cofnąć się za Canal du Nord i na Linię Hindenburga.
 front: Front zachodni
 phase: 1918-kontrofensywa-aliantow

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 lipca 1918 roku oddziały [Kaukaskiej Armii Islamu](https://pl.wikipedia.org/wiki/Kaukaska_Armia_Islamu) Nuriego Paszy, wspierane przez azerbejdżańskich ochotników, zajęły [Kurdamir](https://pl.wikipedia.org/wiki/Kürdəmir), stację na [kolei](https://pl.wikipedia.org/wiki/Kolej_Zakaukaska) z Tyflisu do [Baku](https://pl.wikipedia.org/wiki/Baku). Miesiąc wcześniej, [12 czerwca](/wojska-komuny-bakijskiej-zajmuja-kurdamir), zdobyły ją wojska bolszewickiej [Komuny Bakijskiej](https://pl.wikipedia.org/wiki/Komuna_Bakijska), które ruszyły wtedy na zachód, by uprzedzić marsz Turków. Teraz musiały ją oddać i ich czerwcowa ofensywa ostatecznie się załamała. Datę 10 lipca podają zgodnie brytyjscy historycy W. E. D. Allen i Paweł Muratow, autorzy klasycznej pracy o walkach na Kaukazie, oraz źródła radzieckie i tureckie.
+10 lipca 1918 roku oddziały [Kaukaskiej Armii Islamu](https://pl.wikipedia.org/wiki/Kaukaska_Armia_Islamu) Nuriego Paszy, wspierane przez azerbejdżańskich ochotników, zajęły [Kurdamir](https://pl.wikipedia.org/wiki/Kürdəmir), stację na [kolei](https://pl.wikipedia.org/wiki/Kolej_Zakaukaska) z Tyflisu do [Baku](https://pl.wikipedia.org/wiki/Baku). Miesiąc wcześniej, [12 czerwca](/wojska-komuny-bakijskiej-zajmuja-kurdamir), zdobyły ją wojska bolszewickiej [Komuny Bakijskiej](https://pl.wikipedia.org/wiki/Komuna_Bakijska), które ruszyły wtedy na zachód, by uprzedzić marsz Turków. Teraz musiały ją oddać i ich czerwcowa ofensywa ostatecznie się załamała. Datę 10 lipca podają zgodnie historycy W. E. D. Allen, Brytyjczyk, i Paweł Muratow, rosyjski emigrant, autorzy klasycznej pracy o walkach na Kaukazie, oraz źródła radzieckie i tureckie.
 
 ## Po bitwie pod Göyçay
 
