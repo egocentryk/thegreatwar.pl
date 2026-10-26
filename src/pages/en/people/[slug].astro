@@ -10,6 +10,7 @@ import { enUrlFor, frontEn, plPath, rewriteEnHtml, sideEn } from "@/i18n"
 import { localEvents } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, lifeYears, personByName } from "@/utils/people"
+import { breadcrumbLd, personLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const people = await getCollection("peopleEn", ({ data }) => !data.draft)
@@ -41,9 +42,31 @@ const commanded = await Promise.all(
 const plHref = `${plPath.people(source.id)})`
 const mentions = (await localEvents("en")).filter((entry) => entry.body.includes(plHref))
 const mentionsByYear = groupTimelineEntries(mentions, "en-GB")
+
+// Structured data for search engines (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = [
+  personLd(Astro.site!, {
+    ...source.data,
+    name,
+    summary,
+    role,
+    country,
+    birthPlace,
+    deathPlace,
+    lang: "en",
+    path: pagePath,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: "Home", path: "/en" },
+    { name: "People", path: "/en/people" },
+    { name, path: pagePath },
+  ]),
+]
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title={`${name} (${lifeYears(source)})`}
   description={summary}
   lang="en"

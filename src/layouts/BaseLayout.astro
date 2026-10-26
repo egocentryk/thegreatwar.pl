@@ -5,6 +5,7 @@ import { SITE } from '@/site.config';
 import '@/styles/global.css';
 import BaseHead from '@/components/BaseHead.astro';
 import type { Alternates, Lang } from '@/i18n';
+import type { JsonLdNode } from '@/utils/jsonLd';
 
 interface Props {
   title: string;
@@ -13,10 +14,12 @@ interface Props {
   // Page language and its counterpart in the other language, if any.
   lang?: Lang;
   alternates?: Alternates;
+  // schema.org nodes for this page (utils/jsonLd.ts).
+  jsonLd?: JsonLdNode[];
 }
 
 // `image` is only set by article pages with an image; other pages fall back to SITE.ogImage.
-const { title, description, image, lang = 'pl', alternates = {} } = Astro.props;
+const { title, description, image, lang = 'pl', alternates = {}, jsonLd } = Astro.props;
 const pageDescription = description ?? (lang === 'en' ? SITE.descriptionEn : SITE.description);
 // Every page lists itself under its own language.
 const selfPath = Astro.url.pathname.replace(/(.)\/+$/, '$1');
@@ -26,7 +29,7 @@ const allAlternates: Alternates = { ...alternates, [lang]: selfPath };
 <!doctype html>
 <html lang={lang}>
   <head>
-    <BaseHead title={title} description={pageDescription} image={image} lang={lang} alternates={allAlternates} />
+    <BaseHead title={title} description={pageDescription} image={image} lang={lang} alternates={allAlternates} jsonLd={jsonLd} />
   </head>
   <body id="top" class="bg-paper text-ink">
     <Header lang={lang} alternates={allAlternates} />

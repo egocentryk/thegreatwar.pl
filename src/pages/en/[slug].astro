@@ -14,6 +14,7 @@ import {
   rewriteEnHtml,
   translatedTimeline,
 } from "@/i18n"
+import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
 
 type AssetImage = {
   src: string
@@ -50,9 +51,30 @@ const formattedDate = fmt(date)
 const headerImageAsset = headerImage
   ? articleImages[`../../assets/images/${headerImage}`]?.default
   : undefined
+
+// Structured data for search engines (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = [
+  articleLd(Astro.site!, {
+    lang: "en",
+    path: pagePath,
+    title,
+    summary,
+    date,
+    authors,
+    image: headerImageAsset?.src,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: "Home", path: "/en" },
+    { name: "Timeline", path: "/en/timeline" },
+    { name: String(date.getUTCFullYear()), path: `/en/timeline/${date.getUTCFullYear()}` },
+    { name: title, path: pagePath },
+  ]),
+]
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title={`${title} (${formattedDate})`}
   description={summary}
   image={headerImageAsset?.src}

@@ -12,6 +12,7 @@ import { PHASES_EN } from "@/i18n/data-en"
 import { localEvents, paths } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, personByName } from "@/utils/people"
+import { battleLd, breadcrumbLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const battles = await getCollection("battlesEn", ({ data }) => !data.draft)
@@ -47,9 +48,30 @@ const related = (await localEvents("en")).filter((entry) => entry.data.battleId 
 const relatedByYear = groupTimelineEntries(related, "en-GB")
 const phaseInfo = BATTLE_PHASES.find((item) => item.slug === phase)
 const phaseTitle = phaseInfo ? (PHASES_EN[phaseInfo.slug]?.title ?? phaseInfo.title) : undefined
+
+// Structured data for search engines (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = [
+  ...battleLd(Astro.site!, {
+    lang: "en",
+    path: pagePath,
+    title,
+    summary,
+    startDate,
+    endDate,
+    location,
+    authors,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: "Home", path: "/en" },
+    { name: "Battles", path: "/en/battles" },
+    { name: title, path: pagePath },
+  ]),
+]
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title={`${title} (${range})`}
   description={summary}
   lang="en"

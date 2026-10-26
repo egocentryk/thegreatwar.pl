@@ -2,8 +2,9 @@
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import Home from "@/components/Home.astro"
 import { SITE } from "@/site.config"
+import { websiteLd } from "@/utils/jsonLd"
 ---
 
-<BaseLayout title={SITE.name} description={SITE.descriptionEn} lang="en" alternates={{ pl: "/" }}>
+<BaseLayout jsonLd={websiteLd(Astro.site!, "en")} title={SITE.name} description={SITE.descriptionEn} lang="en" alternates={{ pl: "/" }}>
   <Home lang="en" />
 </BaseLayout>

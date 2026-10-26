@@ -13,6 +13,7 @@ import CoffeeButton from "@/components/CoffeeButton.astro"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
 import { compareTimelineEntries } from "@/utils/groupTimelineEntries"
+import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
 
 type AssetImage = {
   src: string
@@ -70,9 +71,31 @@ const formattedDate = formatDate(date)
 const headerImageAsset = headerImage
   ? articleImages[`../assets/images/${headerImage}`]?.default
   : undefined
+
+// Structured data for search engines (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = [
+  articleLd(Astro.site!, {
+    lang: "pl",
+    path: pagePath,
+    title,
+    summary,
+    date,
+    authors,
+    tags,
+    image: headerImageAsset?.src,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: "Strona główna", path: "/" },
+    { name: "Oś czasu", path: "/timeline" },
+    { name: String(date.getUTCFullYear()), path: `/timeline/${date.getUTCFullYear()}` },
+    { name: title, path: pagePath },
+  ]),
+]
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title={`${title} (${formattedDate})`}
   description={summary}
   image={headerImageAsset?.src}

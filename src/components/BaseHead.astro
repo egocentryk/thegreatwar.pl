@@ -3,6 +3,7 @@ import { ClientRouter } from 'astro:transitions';
 import { Font } from 'astro:assets';
 import { SITE } from '@/site.config';
 import type { Alternates, Lang } from '@/i18n';
+import type { JsonLdNode } from '@/utils/jsonLd';
 
 interface Props {
   title: string;
@@ -10,9 +11,14 @@ interface Props {
   image?: string;
   lang?: Lang;
   alternates?: Alternates;
+  jsonLd?: JsonLdNode[];
 }
 
-const { title: pageTitle, description: pageDescription, image, lang = 'pl', alternates = {} } = Astro.props;
+const { title: pageTitle, description: pageDescription, image, lang = 'pl', alternates = {}, jsonLd } = Astro.props;
+// One @graph; "<" escaped so text can never close the script tag.
+const jsonLdText = jsonLd?.length
+  ? JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonLd }).replace(/</g, '\\u003c')
+  : undefined;
 // hreflang links only when the page exists in both languages.
 const hreflangs = alternates.pl && alternates.en
   ? (['pl', 'en'] as const).map((l) => ({ lang: l, href: new URL(alternates[l]!, Astro.site).href }))
@@ -60,6 +66,9 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={socialImage} />
+
+{/* Structured data */}
+{jsonLdText && <script type="application/ld+json" set:html={jsonLdText} />}
 
 {/* Favicons */}
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

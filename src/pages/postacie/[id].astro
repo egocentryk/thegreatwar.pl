@@ -9,6 +9,7 @@ import { formatDate, formatDateRange } from "@/utils/formatDate"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, lifeYears, personByName } from "@/utils/people"
 import { slugify } from "@/utils/slugify"
+import { breadcrumbLd, personLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const people = await getPeople()
@@ -61,9 +62,21 @@ const mentions = await getCollection(
   ({ body, data }) => !data.draft && (body ?? "").includes(href),
 )
 const mentionsByYear = groupTimelineEntries(mentions)
+
+// Structured data for search engines (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = [
+  personLd(Astro.site!, { ...person.data, lang: "pl", path: pagePath }),
+  breadcrumbLd(Astro.site!, [
+    { name: "Strona główna", path: "/" },
+    { name: "Postacie", path: "/postacie" },
+    { name, path: pagePath },
+  ]),
+]
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title={`${name} (${lifeYears(person)})`}
   description={summary}
   alternates={{ en: enUrl }}

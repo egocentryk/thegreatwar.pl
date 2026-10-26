@@ -189,6 +189,104 @@ To find which days fall back to an earlier date:
 
 ---
 
+## 2. SEO: structured data and sitemap hreflang (2026-10-26)
+
+### 2a. JSON-LD structured data
+
+**Problem:** pages had no schema.org data, so search engines had to guess
+what each page is about.
+
+**Change:**
+
+- New `src/utils/jsonLd.ts` with node builders. Every builder takes
+  `Astro.site` and returns absolute URLs.
+  - `websiteLd(site, lang)`: `WebSite` plus the publisher `Organization`
+    (`SITE.name`, `SITE.email`, logo `/web-app-manifest-512x512.png`). Used
+    on `/` and `/en`.
+  - `articleLd(site, {...})`: `Article` for a timeline entry.
+    - It has headline, description, `inLanguage` (`pl-PL` / `en-GB`),
+      author and keywords (the tags).
+    - Authors are `Person` nodes linking to `/autor/<slug>`.
+    - The image is the header image, or `SITE.ogImage`.
+    - `temporalCoverage` holds the day the article is about. The site has no
+      publication dates, so `datePublished` is left out on purpose.
+  - `battleLd(site, {...})`: an `Event` (start/end date, `Place`), plus the
+    `Article` that describes it (`about` points to the event,
+    `temporalCoverage: "start/end"`).
+  - `personLd(site, {...})`: `Person`.
+    - It has birth and death dates (only the year when
+      `bornYearOnly` / `diedYearOnly` is set), places, `jobTitle` (the role)
+      and `nationality`.
+    - `sameAs` links to Wikipedia: Polish pages use pl.wikipedia from
+      `wikiTitles`; English pages map those titles through
+      `src/data/wiki-en.json` to en.wikipedia.
+  - `breadcrumbLd(site, items)`: `BreadcrumbList`.
+- `BaseLayout.astro` has a new optional `jsonLd?: JsonLdNode[]` prop, which
+  it passes on to `BaseHead.astro`.
+  - `BaseHead.astro` prints one `<script type="application/ld+json">` with
+    `{"@context": "https://schema.org", "@graph": [...]}`.
+  - `<` is escaped as `\u003c`.
+- Pages that pass `jsonLd`:
+  - `src/pages/index.astro` and `src/pages/en/index.astro` (website);
+  - `src/pages/[id].astro` and `src/pages/en/[slug].astro` (article plus the
+    breadcrumb Home › Timeline › year › title);
+  - `src/pages/bitwy/[id].astro` and `src/pages/en/battles/[slug].astro`
+    (event plus article plus breadcrumb);
+  - `src/pages/postacie/[id].astro` and `src/pages/en/people/[slug].astro`
+    (person plus breadcrumb).
+
+  Each of these computes
+  `const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")`.
+- English pages take dates, authors and places that are not translated from
+  the Polish `source` entry, and translated text (title, summary, location,
+  role, country, places) from the English entry.
+
+**Port:** in thesecondwar.pl, check the person schema field names (`born`,
+`died`, `bornYearOnly`, `wikiTitles`, …). Also check `SITE.email` and the
+logo file name.
+
+**Verify:**
+
+```sh
+python3 - <<'PY'
+import re,json,glob
+def ld(p):
+    m=re.search(r'<script type="application/ld\+json">(.*?)</script>',open(p).read(),re.S)
+    return json.loads(m.group(1)) if m else None
+for pat in ['dist/bitwy/*/index.html','dist/postacie/*/index.html','dist/en/battles/*/index.html','dist/en/people/*/index.html']:
+    fs=glob.glob(pat); print(pat,len(fs),'without ld',sum(1 for f in fs if not ld(f)))
+print([n['@type'] for n in ld('dist/index.html')['@graph']])
+PY
+```
+
+Then paste a built page into https://validator.schema.org or Google's Rich
+Results Test.
+
+### 2b. hreflang alternates in the sitemap
+
+**Problem:** the sitemap listed every URL but not its other-language version.
+Polish and English slugs differ (`/bitwy/pierwsza-bitwa-nad-marna` ↔
+`/en/battles/first-battle-of-the-marne`), so `@astrojs/sitemap`'s `i18n`
+option, which assumes `/en` + the same path, can't be used.
+
+**Change** (`astro.config.mjs`):
+
+- `sitemap({ serialize: withHreflang })`.
+- The sitemap is written after the build, so `withHreflang` reads
+  `dist/<path>/index.html` and copies its
+  `<link rel="alternate" hreflang=… href=…>` tags into `item.links`.
+- The sitemap therefore always matches the page heads: `pl`, `en` and
+  `x-default`, only when both languages exist.
+- The function needs a JSDoc type
+  (`/** @param {import('@astrojs/sitemap').SitemapItem} item */`), because
+  `astro check` type-checks the config.
+
+**Verify:** count the `<url>` entries with `xhtml:link` in
+`dist/sitemap-0.xml`. In thegreatwar.pl, 6,499 of 6,783 have links. The rest
+are tag, category and author pages, which have no English version.
+
+---
+
 ## Backlog (not done yet)
 
 1. **Search index** (`szukaj.json` 1.2 MB / 325 KB gz, `en/search.json`
@@ -203,10 +301,13 @@ To find which days fall back to an earlier date:
 3. **English tag, category and author pages** (`/en/tag/…`). The English
    homepage still links to Polish tag pages.
 4. **SEO:**
-   - a generated Open Graph image per article and battle;
-   - JSON-LD (`Article`, `Event`, `Person`);
-   - an RSS feed;
-   - `hreflang` alternates in the sitemap.
+   - **Open Graph images per article and battle** (generated at build, for
+     example with satori or `@vercel/og`). Postponed until the articles have
+     images.
+   - **RSS feed:** postponed. There are no publication dates in the content,
+     and the chronicle is complete, so a feed sorted by event date would
+     never change. It needs a `published` front-matter field first. Git dates
+     are unreliable on Vercel's shallow clone.
 5. **Reader features:**
    - a "related" block on articles (same battle, same people, the same week
      on other fronts);

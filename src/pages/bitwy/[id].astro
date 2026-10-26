@@ -9,6 +9,7 @@ import { BATTLE_PHASES } from "@/data/battlePhases"
 import { formatDateRange } from "@/utils/formatDate"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, personByName } from "@/utils/people"
+import { battleLd, breadcrumbLd } from "@/utils/jsonLd"
 import { slugify } from "@/utils/slugify"
 
 export async function getStaticPaths() {
@@ -49,9 +50,30 @@ const relatedEntries = await getCollection(
 const relatedByYear = groupTimelineEntries(relatedEntries)
 // Commanders with a person page become links.
 const people = await getPeople()
+
+// Structured data for search engines (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = [
+  ...battleLd(Astro.site!, {
+    lang: "pl",
+    path: pagePath,
+    title,
+    summary,
+    startDate,
+    endDate,
+    location,
+    authors,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: "Strona główna", path: "/" },
+    { name: "Bitwy", path: "/bitwy" },
+    { name: title, path: pagePath },
+  ]),
+]
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title={`${title} (${formatDateRange(startDate, endDate)})`}
   description={summary}
   alternates={{ en: enUrl }}

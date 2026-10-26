@@ -2,10 +2,30 @@
 import { defineConfig, fontProviders } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 
 // Replace with your production URL after deploying to Vercel / Netlify.
 // It powers the sitemap and the canonical / Open Graph URLs in BaseLayout.
 const SITE_URL = 'https://thegreatwar.pl';
+
+// Sitemap entries get the same language alternates (hreflang) as the page's
+// <head>: the sitemap runs after the build, so read them from the built HTML.
+// Polish and English slugs differ, so they can't be derived from the URL.
+const distDir = fileURLToPath(new URL('./dist', import.meta.url));
+/** @param {import('@astrojs/sitemap').SitemapItem} item */
+function withHreflang(item) {
+  const path = new URL(item.url).pathname.replace(/\/$/, '');
+  let html;
+  try {
+    html = readFileSync(`${distDir}${path}/index.html`, 'utf8');
+  } catch {
+    return item;
+  }
+  const links = [...html.matchAll(/<link rel="alternate" hreflang="([^"]+)" href="([^"]+)"/g)]
+    .map(([, lang, url]) => ({ lang, url }));
+  return links.length ? { ...item, links } : item;
+}
 
 export default defineConfig({
   site: SITE_URL,
@@ -14,7 +34,7 @@ export default defineConfig({
   // vercel.json redirects "/path/" to "/path" in production.
   trailingSlash: 'never',
 
-  integrations: [sitemap()],
+  integrations: [sitemap({ serialize: withHreflang })],
 
   // Prefetches internal links on hover/viewport entry for near-instant navigation.
   prefetch: true,
