@@ -1,0 +1,26 @@
+---
+title: End of the Battle of La Malmaison
+summary: On the night of 1–2 November 1917 the Germans quietly left the Chemin des Dames for the Ailette. The French found empty trenches up to Craonne.
+source: koniec-bitwy-pod-la-malmaison
+sourceHash: f5600a61a1338d47578fbc7ba2d900556727f8ec
+---
+
+On the night of 1–2 November 1917 the German [Seventh Army](https://pl.wikipedia.org/wiki/7_Armia_(Cesarstwo_Niemieckie)) of General Max von Boehn quietly abandoned the Chemin des Dames ridge from the La Malmaison plateau to [Craonne](https://pl.wikipedia.org/wiki/Craonne) and withdrew to the north bank of the [Ailette](https://pl.wikipedia.org/wiki/Ailette) and the Oise–Aisne canal. On the morning of 2 November the French found the trenches empty, and by the following day they stood on the Ailette on a front about 20 km wide. So ended the Battle of La Malmaison, which the French Sixth Army had begun on [23 October](/poczatek-bitwy-pod-la-malmaison). The British chronology of the war closes it with the date 1 November, the evening before the German withdrawal. The Germans had held most of the ridge since September 1914, when after the Battle of the Marne they [took Craonne](/niemcy-zajmuja-craonne) and dug in on the heights above the Aisne.
+
+## Why the Germans left
+
+The capture of the plateau with Fort La Malmaison and the French arrival on the Ailette between 23 and 27 October changed the position of the whole German front further east. French artillery placed on the captured plateau could now take in flank the Ailette valley, through which supplies came, and the German positions on the northern slopes of the ridge. Six German divisions on the eastern part of the ridge were threatened. Boehn concluded that the ridge could not be held and proposed a withdrawal according to a plan prepared earlier in the year, called the "Bunzelwitz movement". The headquarters of the army group of [Crown Prince Wilhelm](/postacie/wilhelm-nastepca-tronu), remembering how much blood the defence of the ridge had cost in the spring, hesitated at first but soon agreed.
+
+[Erich Ludendorff](/postacie/erich-ludendorff) wrote after the war that in itself it made no difference whether the army stood north or south of the Ailette, but that after fighting for the Chemin des Dames all summer it was very hard to give the order to give up the ridge. Holding it, however, would have meant nothing but constant losses. Before the withdrawal stores and equipment were carried away. So as not to alert the French, the Germans did not blow up the dugouts, tunnels or concrete emplacements, and left on the ridge a screen of riflemen and machine guns that kept up fire until the last moment before dawn.
+
+## 2 November
+
+The withdrawal succeeded: the French noticed nothing and in the morning shelled the empty positions. A patrol of chasseurs à pied entered an abandoned German trench, whereupon the field artillery opened a creeping barrage, behind which waves of infantry crossed the ridge. Around noon the French took [Cerny](https://pl.wikipedia.org/wiki/Cerny-en-Laonnois), at 3 p.m. they entered Courtecon, and at 7 p.m. Ailles, which the Germans immediately shelled with [mustard gas](https://pl.wikipedia.org/wiki/Iperyt_siarkowy). The advance was cautious, because it was feared that the quarries and underground galleries had been mined. The Dragon's Cave (Caverne du Dragon), a great underground quarry beneath the ridge near Hurtebise, from which in April the Germans had struck the advancing Senegalese tirailleurs in the back, now passed wholly into French hands. Since 26 July, when German stormtroopers had recovered part of the quarry, the French and Germans had occupied two parts of the same cave. Now that strange neighbourhood came to an end.
+
+By the morning of 3 November the French had everywhere reached the south bank of the Ailette. At the eastern end of the ridge, beyond Craonne, they took the ruins of the village of Chevreux, and their patrols reached the outskirts of [Corbeny](https://pl.wikipedia.org/wiki/Corbeny). In the process they took some twenty more guns that the Germans had not managed to remove.
+
+## Balance
+
+The whole Chemin des Dames ridge, from the Laffaux corner to Craonne, was in French hands. It was exactly what the spring [Nivelle offensive](/bitwy/druga-bitwa-nad-aisne) had failed to win, although in May the French had [retaken Craonne](/francuzi-odbijaja-craonne) and part of the plateau. According to the American monthly "Current History", the attack of 23 October and the German withdrawal restored to France about 40 square miles (more than 100 km²) of the Aisne department. According to French military commentators quoted by the magazine, the Germans had even considered a wider withdrawal, from the whole salient around [Laon](https://pl.wikipedia.org/wiki/Laon), but in the end stopped at prepared positions on the north side of the valley. For General [Philippe Pétain](/postacie/philippe-petain) and his method of limited attacks it was a clear success, achieved without a costly pursuit through the Ailette marshes.
+
+Through the winter the front on the Ailette was relatively quiet. The ridge, for which tens of thousands of men had died over three years, was lost by the French in a single day on 27 May 1918, in the [Third Battle of the Aisne](https://pl.wikipedia.org/wiki/III_bitwa_nad_Aisne).

@@ -1,0 +1,26 @@
+---
+title: Temporary armistice on the Eastern Front
+summary: On 5 December 1917 at Brest-Litovsk Russia and the Central Powers signed a ten-day ceasefire, from 7 to 17 December. Talks were suspended for a week.
+source: rozejm-tymczasowy-na-froncie-wschodnim
+sourceHash: 386a4ea2949dbc3fdda9ed8e03d97594d9d22548
+---
+
+On 5 December 1917 at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć) the plenipotentiaries of the supreme commands of Germany, Austria-Hungary, Bulgaria and Turkey on the one side and of the Russian supreme command on the other signed a ceasefire along the whole of their common front. Thus ended the [first round of negotiations](/poczatek-rokowan-rozejmowych-w-brzesciu). Fighting was to stop for ten days, and the delegations were to return to the table on 12 December. The British chronology of the war records the armistice under 6 December; it came into force on 7 December, and by 8 December all fighting on the Eastern Front had ceased.
+
+## The terms
+
+According to a German communiqué of 6 December, the ceasefire covered the whole front and began at noon on 7 December. The Bolsheviks stated that operations had been suspended from 6 to 17 December from the Baltic to the Black Sea, and also on the Russo-Turkish front in Asia. The troops were to remain in their positions, including the German garrisons on the Moon Sound islands, whose evacuation the Russians had demanded in vain. Either side could resume fighting after three days' notice. Flights over enemy territory and over a ten-verst strip above one's own lines were forbidden. Units of division size and larger could be moved only if the order had been issued before 5 December. Military commissions of both sides continued to work out the details at Brest-Litovsk.
+
+The last clause cost the Germans practically nothing. The chief of staff of the German command in the East, General [Max Hoffmann](/postacie/max-hoffmann), later admitted in his memoirs that he could promise the Russians to halt transfers because the orders sending most of the eastern army to the west had been issued before the negotiations. Troop trains had been heading west since the end of November. The Bolsheviks presented the ban on transfers as their most important condition, because in their view the armistice was not to help "one militarism against another".
+
+## Why only for ten days
+
+A proper armistice was already almost ready on the table. Hoffmann agreed to 28 days with automatic extension unless either side denounced it with seven days' notice, and the Russians accepted this term. The head of the Soviet delegation, [Adolph Joffe](/postacie/adolf-ioffe), however, did not want to sign a separate armistice with the Central Powers without consulting Lenin and Trotsky, since his government had been proclaiming for a month that it wanted an armistice on all fronts. The Central Powers' officers promised to pass on to their governments the Russian proposal that all the belligerent states be invited to the negotiations. The Russian delegation also insisted that the next meeting be held on Russian territory, but in the end it returned to Brest-Litovsk. Some of its members went to Petrograd for instructions, while the secretary, [Lev Karakhan](https://pl.wikipedia.org/wiki/Lew_Karachan), remained on the spot.
+
+The next day the Commissar for Foreign Affairs, [Leon Trotsky](/postacie/lew-trocki), sent the embassies and legations of the Allied powers a note on the course of the talks. He wrote that the break had been taken on the Russians' initiative so that the governments and peoples of the Entente could learn of the negotiations and define their position. From the decree on peace to the resumption of talks on 12 December more than a month would pass, "even with the present disruption of international communications" more than enough for the Allies to decide whether they would take part. If they refused, they must announce "clearly and distinctly before all mankind" for what aims the peoples of Europe were to shed their blood in the fourth year of the war. No answer came.
+
+## Silence on the front
+
+On many sectors there had already been no shooting. On 28 November the commander-in-chief, [Nikolai Krylenko](/postacie/nikolaj-krylenko), had ordered an immediate ceasefire on all fronts and the start of fraternisation with the enemy, and regiments and armies had concluded local agreements with German and Austro-Hungarian commanders on their own account. Now silence covered the whole front from the Gulf of Riga to the Black Sea. The Bolsheviks used it for propaganda. Appeals and the German-language newspaper "Die Fackel" ("The Torch"), printed, according to John Wheeler-Bennett, in hundreds of thousands of copies, reached the trenches and the areas behind the German lines. Hoffmann refused to let Bolshevik publications into Germany but, as he wrote, would gladly have helped to send them to France and England.
+
+As the ten-day ceasefire drew to a close, the delegations met again at Brest-Litovsk and were by now discussing a long-term armistice. Russia had in practice stopped fighting, although formally it was still at war and still bound by the [undertaking of 1914](/pakt-londynski) not to conclude a separate armistice.

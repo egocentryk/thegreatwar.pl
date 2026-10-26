@@ -1,0 +1,63 @@
+---
+title: Battle of Mahiwa
+summary: "On 15–18 October 1917 Lettow-Vorbeck beat off attacks at Mahiwa by the Lindi columns and the Nigerian Brigade: the bloodiest fight of the East African campaign."
+location: The area of Mahiwa and Nyangao on the road from Lindi to Masasi, in the Lukuledi valley, several dozen kilometres south-west of Lindi, in the south-eastern part of German East Africa (today Lindi Region, Tanzania)
+sides:
+  - name: United Kingdom (troops from Nigeria, the Gambia, British East Africa and British India)
+    commanders: [Jacob van Deventer, Percival Beves]
+  - name: German Empire
+    commanders: [Paul von Lettow-Vorbeck, Kurt Wahle]
+result: German victory. The British lost about 2,700 men and fell back to Nyangao, but the Germans, who lost more than 500 men and most of their ammunition, had to leave the colony in November.
+source: bitwa-pod-mahiwa
+sourceHash: b108dfc983de758b90ca17dbb29389858a83e3cc
+---
+
+The Battle of Mahiwa was the largest and bloodiest engagement of the campaign in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). For four days, from 15 to 18 October 1917, British columns from [Lindi](https://pl.wikipedia.org/wiki/Lindi) and the Nigerian Brigade, which came up from the north, attacked the positions of General Kurt Wahle on the road from Lindi to Masasi. [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) himself came to Wahle's aid at the last moment with five companies. With about 1,500 men by his own reckoning, he beat off every attack, surrounded two Nigerian battalions for several days and inflicted on the enemy losses such as the British suffered in no other battle of this war in Africa. It was, however, a Pyrrhic victory. The Germans lost about a third of the men engaged, as well as most of their ammunition, and had nothing with which to make good these losses. Five weeks later Lettow-Vorbeck left the colony.
+
+## Name and dates
+
+Participants on both sides, such as Captain W. D. Downes of the 4th Nigerian Battalion, author of the brigade's history, and Lettow-Vorbeck in his memoirs, call this engagement the Battle of Mahiwa. The British official chronology of the war records it as "the action of Nyangao", lasting from 16 to 19 October. The history of the Gold Coast Regiment (Clifford) writes of two fierce fights, at Nyangao and at Mahiwa. Both places lay on the same road, a few kilometres apart: Nyangao nearer Lindi, Mahiwa further to the south-west. The columns from Lindi fought mainly east of Mahiwa, from the direction of Nyangao, and the Nigerian Brigade from the north, on the road from the Namupa mission.
+
+The fighting began on the morning of 15 October, when the Nigerians set off from Namupa and the columns from Lindi struck at Mtama. The next three days were the heaviest. By the evening of 18 October the battle was practically over, and on 19 October there was only an artillery demonstration, while Lettow-Vorbeck marched off with part of his force to another area. We adopt the dates 15 to 19 October to cover both the first day of the fighting and the last day according to the British chronology.
+
+## Background
+
+General Jacob van Deventer, who [had taken command in East Africa in May 1917](/van-deventer-zastepuje-hoskinsa), moved against the Germans in the summer from two bases on the coast, Kilwa and Lindi. The first advance from Kilwa came to a halt after the [bloody battle of Narungombe](/bitwa-pod-narungombe) in July. In September the offensive resumed. The columns from Kilwa pushed the Germans back beyond the Mbemkuru river and took their base at Nahungu, while the forces from Lindi, known as Linforce, advanced up the Lukuledi valley. The nine companies of Wahle, a 62-year-old retired Saxon general who had come to the colony in August 1914 to visit his son and stayed on in the Schutztruppe, fell back stubbornly before them until they took up positions at Mahiwa, where the Germans had their main food depot. Linforce was then commanded by the South African general Percival Beves, who had led the columns at Narungombe in July. He had two main columns, No. III under General O'Grady and No. IV under Colonel Tytler, made up mainly of King's African Rifles battalions, with Indian units and a battalion of the Royal Fusiliers.
+
+This time van Deventer wanted to cut off the Germans' line of retreat. The Nigerian Brigade, commanded in the absence of the sick General Frederick Cunliffe by Lieutenant-Colonel Mann, was sent from near Nahungu on 4 October on a march of nearly 130 kilometres through waterless, mountainous and depopulated wilderness, to fall on the Germans' left flank and rear. The march was exhausting. The men walked in single file along a narrow path, water and food were short, and on 12 October on the Nyengedi river 283 sick had to be sent back to the coast. The three battalions now numbered little more than a thousand rifles. Headquarters gave assurances that Mahiwa was weakly held. The brigade's intelligence officer, Major Pretorius, reported that the position was strong and that Lettow-Vorbeck was approaching with his reserve from the north-west, but according to Downes Beves did not believe it. On the evening of 14 October the Nigerians reached the Namupa mission, north of Mahiwa. Beves saw them as "the cork in the bottle": they were to take Mahiwa and shut in the Germans, whom the columns from Lindi were to push out from Mtama.
+
+Lettow-Vorbeck was indeed on his way. From captured British letters he deduced that the enemy did not know where his main forces were. He decided that the opportunity had come for the decisive blow he had sought in vain for months, and on 14 October, with five companies and two mountain guns, he crossed the Likangara hills towards Mahiwa.
+
+## Course
+
+### 15 October
+
+In the morning the 1st Nigerian Battalion, the Gambia Company and two guns set off from Namupa towards Nyangao to block the road by which the Germans might escape to the east. They halted a few hundred metres short of their objective and dug in on a hill. The main column, the 2nd and 4th Battalions, marched on Mahiwa. Beves ordered by telephone that they press on despite all resistance. At about eleven the advance guard was held up on the Mahiwa river in front of an entrenched enemy. In the afternoon Captain Hetley's company, sent on an outflanking move, ran into strong German forces which, as it turned out, were themselves advancing to attack, and fell back with heavy losses. These were most probably the first companies of Lettow-Vorbeck's relief force; by his own account he arrived before dark and at once threw them against the enemy who was outflanking him. The same day the columns from Lindi attacked Mtama.
+
+### 16 October
+
+The Germans abandoned Mtama, and the columns from Lindi reached Nyangao. Meanwhile Mann's two battalions found themselves surrounded: the Germans cut the road and the telephone line to the mission and swept the only water point with machine-gun fire. At about noon Lettow-Vorbeck sent Captain Göring's detachment to his left flank to outflank the enemy. Göring unexpectedly came upon the 1st Nigerian Battalion, which was marching from Namupa with the supply column of the whole brigade to help Mann. The advance-guard company fell into an ambush and lost its commander, and the rest of the column fell back to the mission after a fierce fight. The Germans captured one gun and, as Lettow-Vorbeck wrote, about 150,000 rounds from the ammunition column, whose officer had taken them for his own men. In the afternoon the trenches of the 4th Battalion came under fire from a 105 mm naval gun, probably from the [cruiser *Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), and a modern 70 mm gun, followed by an infantry assault, repulsed at close range. According to Downes it was the blackest day of the Nigerian Brigade since its formation: about 300 killed and wounded.
+
+### 17 October
+
+The cut-off Nigerians had no food left, and their ammunition and water were running out. At 10.30 a.m. they heard a cannonade to the south-east: the columns from Lindi had attacked from Nyangao. According to Lettow-Vorbeck wave after wave attacked Wahle's front, and there were moments when it threatened to collapse. The German commander then gave up outflanking the enemy and moved every free company to strengthen the front, launching counter-attacks whenever the attackers weakened. He believed that Beves, whom he had come to know [in the fighting at Reata](/poczatek-walk-pod-latema-nek) in March 1916, would renew frontal attacks regardless of losses, and decided to let him bleed himself white on them. The Royal Fusiliers battalion, which went into action 120 strong, came out of it with fifty. That day the 3rd Nigerian Battalion broke through to the Namupa mission and led the 1st Battalion, with the wounded and the brigade's transport, from there to Nyangao. By the evening O'Grady's column was less than two kilometres from the surrounded troops.
+
+### 18 October
+
+In the morning Beves ordered Mann to withdraw to the south-east. Covered by a company of the 3rd Battalion, both battalions with the wounded and the guns reached Nyangao without further fighting. On the front of the Lindi columns the fight went on all day. A King's African Rifles battalion found itself in a difficult position, and between 5.15 and 6.30 p.m. the Germans launched a strong counter-attack, repulsed by the 3rd Nigerian Battalion. During the night column No. III fell back to the hills north of Nyangao. Lettow-Vorbeck considered his victory complete and the enemy, at least 4,000 and probably 6,000 strong, beaten.
+
+### 19 October
+
+During the night Beves ordered the Nigerian Brigade to attack at dawn, but the order was cancelled. That day General Cunliffe took over command of the forces from Lindi. The British artillery and a King's African Rifles battalion carried out only a noisy demonstration. Lettow-Vorbeck did not pursue the enemy, because behind his back the columns from Kilwa were approaching the Lukuledi, where the German supplies lay. On the morning of 19 October he left for that area with six companies and two guns. Wahle remained in the positions at Mahiwa.
+
+## Losses
+
+Downes states that the British lost 2,700 killed and wounded at Mahiwa out of 4,900 infantry who took part in the fighting: column No. III numbered 1,500 men, column No. IV 1,700, and the Nigerian Brigade 1,750. Most later studies accept this figure. The Nigerian Brigade alone lost, according to Downes, 528 men, including 38 Europeans. Estimates at the time varied: Clifford wrote of about 2,000 killed and wounded on the British side and 800 on the German side, while Lettow-Vorbeck quoted the opinion of a senior British officer who spoke of 1,500, which he considered a decided underestimate.
+
+According to Lettow-Vorbeck the Germans lost 14 Europeans and 81 [askaris](https://pl.wikipedia.org/wiki/Askarysi) killed, 55 Europeans and 367 askaris wounded and two missing, 519 men in all. They captured a gun, nine machine guns and about 200,000 rounds.
+
+## Significance
+
+Lettow-Vorbeck wrote that, with the exception of [Tanga](/bitwy/bitwa-pod-tanga), this was the heaviest defeat he had inflicted on the enemy, and he was soon promoted to major-general. Downes considered Mahiwa one of the greatest battles ever fought on African soil, not excluding the Boer War and the Sudan campaigns. The soldiers from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) came under heavy artillery fire for the first time and stood it, which their officers remembered with pride.
+
+For the Germans, however, the victory proved too costly. They had lost men they had no one to replace, and fired off ammunition they had nowhere to obtain. The British could afford losses; they could not. When the forces from Lindi resumed their advance on 6 November, Wahle abandoned Mahiwa after a brief resistance, and over the following days the Germans fell back onto the Makonde plateau. In the second half of November Lettow-Vorbeck had, by his account, about 400,000 rounds left, mostly of the old type with black powder, which fitted only a third of his rifles. At the end of the month he crossed the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) with his best units into [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), where he hoped to capture supplies. Part of his force, including the detachment of Captain Tafel, which had failed to join him in time, surrendered. The campaign in German East Africa itself had in practice ended, and the war moved onto Portuguese territory.

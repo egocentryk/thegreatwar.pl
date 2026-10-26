@@ -1,0 +1,22 @@
+---
+title: Germans leave German East Africa
+summary: At the beginning of December 1917 the British considered German East Africa conquered. Lettow-Vorbeck fought on in Mozambique, outside the colony.
+source: niemcy-opuszczaja-niemiecka-afryke-wschodnia
+sourceHash: 44260c9d715f564c3ed155ae6e92b385a95f40aa
+---
+
+At the turn of November and December 1917 there were no longer any organised German forces in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck)'s main column had [crossed the Rovuma on 25 November](/lettow-vorbeck-przekracza-rovume) and was marching into [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), and on 28 November [Captain Tafel's detachment surrendered](/kapitulacja-oddzialu-tafla), the last large body of the Schutztruppe on the northern side of the river. The British chronology of the war places the expulsion of the last German troops from the colony under 1 December, but states clearly that the date is approximate. No battle was fought that day. The date corresponds rather to the end of the period that General Jacob van Deventer, the British commander-in-chief in East Africa, described in his report to the Secretary of State for War as the last half-year of the campaign in the German colony, from 30 May to 1 December 1917.
+
+## Van Deventer's balance sheet
+
+The report, written at [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam) on 21 January 1918 and published in April in the *London Gazette*, ends with the statement that after Tafel's surrender and Lettow-Vorbeck's retreat across the Rovuma the campaign in German East Africa had come to an end and the last German colony had been conquered. According to van Deventer resistance lasted until nine-tenths of the enemy's white and black personnel had been killed or captured. In those six months his troops killed or captured 1,618 Germans and 5,482 [askaris](https://pl.wikipedia.org/wiki/Askarysi), and took fourteen guns and 77 machine guns. British battle casualties alone came to nearly six thousand men, including more than a thousand porters. The general warned, however, that raiding parties might still come back across the border, although it would be difficult for them to wage organised war in the colony again.
+
+According to the same report about 50 officers, 250 other Europeans and between 1,500 and 1,800 askaris escaped across the Rovuma. In a later report van Deventer gave somewhat higher figures, about 320 Europeans and 2,000 askaris in fifteen companies, with two guns and thirty-odd machine guns. With them went the governor of the colony, [Heinrich Schnee](/postacie/heinrich-schnee). Formally, therefore, German authority in East Africa moved with the army onto foreign territory.
+
+## The colony under foreign administration
+
+Most of the colony had long been in the hands of Germany's enemies. The Belgians from the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie) had occupied Ruanda and Urundi in 1916, which after the war passed to them as [Ruanda-Urundi](https://pl.wikipedia.org/wiki/Ruanda-Urundi). In the rest of the territory a British occupation administration had been at work since 1916, headed by the colonial official Horace Byatt. This part, later named [Tanganyika](https://pl.wikipedia.org/wiki/Tanganika_(kraj)), became a British League of Nations [mandated territory](https://pl.wikipedia.org/wiki/Terytorium_mandatowe) after the war.
+
+## The war moves to Mozambique
+
+Van Deventer understood that the new campaign in Mozambique would be, as he wrote, smaller but just as hard. The area between the Rovuma, the Zambezi, [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)) and the ocean was not much smaller than France, almost without roads or accurate maps. The booty from [Ngomano](/bitwy/bitwa-pod-ngomano) and from further Portuguese posts that the Germans took at the beginning of December on the upper [Lugenda](https://pl.wikipedia.org/wiki/Lugenda) raised spirits in Lettow-Vorbeck's ranks. The British commander decided to close the border to prevent the Germans from returning to the colony, and to pursue them without a pause, even in the rainy season. In mid-December the Gold Coast Regiment began to arrive at the port of Porto Amélia on the coast of Mozambique. Lettow-Vorbeck returned to the territory of the former colony only at the end of September 1918, and laid down his arms after the armistice in Europe, in November 1918, in Northern Rhodesia.

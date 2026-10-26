@@ -26,7 +26,7 @@ Wiceadmirał Michaił Bachirew, dowódca rosyjskich sił morskich w Zatoce Ryski
 
 ## Bilans
 
-Według niemieckich danych do niewoli trafiło 20 130 rosyjskich żołnierzy i oficerów. Niemcy zdobyli 141 dział, w tym 47 ciężkich, i 130 karabinów maszynowych. Rosjanie stracili pancernik Sława i niszczyciel Grom. Niemiecka armia straciła 54 zabitych i 141 rannych, a marynarka, która wiele dni manewrowała wśród min na płytkich wodach, 156 zabitych i 60 rannych. Zatonęły torpedowiec, siedem trałowców i dziewięć trawlerów i mniejszych jednostek, a kilka drednotów uszkodziły miny. Liczba rosyjskich zabitych i rannych nie jest znana, ale była niewielka w porównaniu z liczbą jeńców. Większość żołnierzy garnizonu, zdemoralizowanych po rewolucji, poddała się albo uciekła bez walki. Bić do końca próbowały tylko niektóre okręty, baterie i oddziały ochotników.
+Według niemieckich danych do niewoli trafiło 20 130 rosyjskich żołnierzy i oficerów. Niemcy zdobyli 141 dział, w tym 47 ciężkich, i 130 karabinów maszynowych. Rosjanie stracili pancernik Sława i niszczyciel Grom. Niemiecka armia straciła 54 zabitych i 141 rannych, a marynarka, która wiele dni manewrowała wśród min na płytkich wodach, 156 zabitych i 60 rannych. Zatonęły torpedowiec, siedem trałowców i dziewięć trawlerów i mniejszych jednostek, a kilka drednotów uszkodziły miny. Liczba rosyjskich zabitych i rannych nie jest znana, ale była niewielka w porównaniu z liczbą jeńców. Większość żołnierzy garnizonu, zdemoralizowanych po rewolucji, poddała się albo uciekła bez walki. Bić się do końca próbowały tylko niektóre okręty, baterie i oddziały ochotników.
 
 ## Znaczenie
 

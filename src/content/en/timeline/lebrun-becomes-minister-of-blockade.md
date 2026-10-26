@@ -1,0 +1,22 @@
+---
+title: Lebrun becomes minister of blockade
+summary: On 23 November 1917 Albert Lebrun succeeded Charles Jonnart as French Minister of Blockade and the Liberated Regions. Jonnart left after a week.
+source: lebrun-ministrem-blokady
+sourceHash: 47d977a32c7e5a326ecc353ea33bfa90e26a920f
+---
+
+On 23 November 1917 the new French government of [Georges Clemenceau](/postacie/georges-clemenceau) lost its first minister. Senator Charles Jonnart, who a week earlier had taken over the newly created Ministry of Blockade and the Liberated Regions, resigned. His place was taken by the deputy [Albert Lebrun](https://pl.wikipedia.org/wiki/Albert_Lebrun). The date of 23 November is given by the British chronology of the war, by French lists of the members of the [Clemenceau government](/rzad-clemenceau) and by Lebrun's biography in the French National Assembly's database of deputies.
+
+## Jonnart's departure
+
+Officially Jonnart left on grounds of health. According to the Departmental Archives of Pas-de-Calais, the department he represented as senator, other reasons may also have played a part. After a few days in office Jonnart is said to have concluded that the powers needed to work effectively were scattered among several ministries. His department, which was to rebuild the devastated lands, had no say, for example, over transport or labour. Clemenceau did not hold this against him. In January 1918 Jonnart once again became Governor-General of [Algeria](https://pl.wikipedia.org/wiki/Algieria_Francuska), in order to carry out reforms there.
+
+The ministry was new. Until November 1917 the French blockade of Germany had been directed by an under-secretary of state at the Ministry of Foreign Affairs, most recently Albert Métin. Clemenceau raised the office to the rank of a ministry and combined it with responsibility for the lands the army was recovering from the Germans. Under the decree defining its powers in the liberated regions, the department was to deal with the restoration of local life and housing, help for those affected in rebuilding their homes, the payment of war damages, the reclamation of land and the revival of agriculture, trade and industry. For the time being these were mainly the areas on the Somme and the Oise from which the Germans had [withdrawn in the spring of 1917](/bitwy/odwrot-na-linie-hindenburga) to the Hindenburg Line, destroying villages, roads and orchards behind them.
+
+## The new minister
+
+Lebrun was 46. He was born on 29 August 1871 at [Mercy-le-Haut](https://pl.wikipedia.org/wiki/Mercy-le-Haut) in Lorraine, into a farming family. His village was then occupied by the Prussians, and it came close to falling within Germany's borders under the peace that ended the Franco-Prussian War. In the end it went to the new department of [Meurthe-et-Moselle](https://pl.wikipedia.org/wiki/Meurthe_i_Mozela), right on the new frontier. According to his biography in the deputies' database, the memory of that defeat stayed with him all his life. Lebrun graduated first in his year from the [École polytechnique](https://pl.wikipedia.org/wiki/École_polytechnique), then from the École des Mines in Paris, and for several years worked as a mining engineer at Vesoul and Nancy.
+
+In 1900, at the age of 29, he became a deputy and was then the youngest member of the French parliament. He belonged to the moderate republicans of the Democratic Republican Alliance. Before the war he was Minister of the Colonies in the governments of Caillaux, Poincaré and Doumergue, and in January 1913 for a few days Minister of War. In August 1914 he went to the front as an artillery officer, and in 1915 he received the Legion of Honour. In 1917 he chaired the budget committee of the Chamber of Deputies. According to the deputies' database it was Clemenceau who insisted that he accept the ministry.
+
+Lebrun immediately took part in important conferences. When the Inter-Allied Conference met in Paris on 29 November, he sat in the French delegation as Minister of Blockade and the Liberated Regions, alongside the Prime Minister and the ministers of foreign affairs, finance, the navy, commerce, munitions and supply. He directed the blockade until December 1918 and remained Minister of the Liberated Regions until November 1919. In 1932 he became President of France. He held the office until July 1940, when after the defeat of France power was taken over by Marshal Philippe Pétain.

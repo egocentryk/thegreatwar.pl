@@ -1,0 +1,26 @@
+---
+title: Lettow-Vorbeck crosses the Rovuma
+summary: On 25 November 1917 Lettow-Vorbeck forded the Rovuma into Mozambique and overran the Portuguese camp at Ngomano, capturing weapons, ammunition and medicines.
+source: lettow-vorbeck-przekracza-rovume
+sourceHash: e353fbdf92acceae16f5817441a701fc0cfc8919
+---
+
+Early on the morning of 25 November 1917 the advance guard of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) waded into the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma), the border river between [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), that is, Mozambique, and forded it. The crossing took place a little above the mouth of the [Lugenda](https://pl.wikipedia.org/wiki/Lugenda), where the Portuguese post of Ngomano stood on the southern bank. After three years of fighting the Schutztruppe left the colony it was meant to defend. That same day it overran the Portuguese garrison and captured supplies without which it could not have gone on fighting.
+
+## An army without ammunition
+
+Only part of the former army reached the border. After the [Battle of Mahiwa](/bitwy/bitwa-pod-mahiwa) the Germans fell back across the Makonde plateau, losing hospitals, depots and men. On 20 November at Newala Lettow-Vorbeck made a final selection: he left behind the sick, the wounded and everyone who would not withstand a long march, as well as many porters, although some of them asked to be allowed to go on even without pay. According to his memoirs, on 21 November he set off for the Rovuma with about 300 Europeans, 1,700 [askaris](https://pl.wikipedia.org/wiki/Askarysi) and about 3,000 porters and other Africans, while British sources give somewhat smaller figures. Most of the askaris had 1871-pattern black-powder rifles, and there was ammunition for little. The governor of the colony, [Heinrich Schnee](/postacie/heinrich-schnee), marched with him. On the way the Germans scattered a squadron of South African mounted infantry and captured a British supply column that had crossed the river straight into their camp.
+
+Lettow-Vorbeck did not know what was happening to the other large German detachment, that of Captain Tafel, which was fighting its way from the Mahenge area to join him. Nor did he know that in those days the [airship L 59](/lot-sterowca-l-59) was flying towards him from Bulgaria over the Sahara and the Sudan with ammunition and medicines. On the morning of 25 November, as the Schutztruppe was crossing the river, the airship, recalled two days earlier, landed back at Yambol.
+
+## Attack on the march
+
+Lettow-Vorbeck wrote that his men were then seized by the indifference of those cut off from the world. The hunters went on hunting, and many soldiers bathed in the river in full view of the enemy. On the southern bank the advance guard clashed with Portuguese scouts. Behind it nine companies crossed during the morning, and Captain Göring's three companies crossed lower down to surprise another camp. Reconnaissance showed that a strong detachment was stationed at Ngomano, which was only just building its fortifications. Major João Teixeira Pinto had there, according to various sources, from 900 to about 1,000 men, mostly African soldiers under European officers, and six machine guns. Lettow-Vorbeck hesitated over whether to bypass the camp, but decided that the opportunity to capture ammunition was too valuable. He attacked that same day, while part of his force was still crossing the river.
+
+A mountain gun shelled the trenches from the west, several companies engaged the Portuguese from the west and north, and Captain Koehl's detachment crossed the Lugenda, approached through the woods and attacked the camp from the south. The defenders fired tens of thousands of rounds, but did not stop the attack. Teixeira Pinto was killed, and after several hours of fighting the garrison surrendered. The Germans seem to have lost one European and a few askaris. Lettow-Vorbeck stated that about 200 enemy dead were buried, while Portuguese figures speak of nearly 190 killed and more than 650 taken prisoner.
+
+## The spoils
+
+In the camp the Germans found what they needed most: six machine guns, several hundred rifles, about a quarter of a million rounds, several tons of European food, about 30 horses and excellent Portuguese medicines. Almost half the askaris received Portuguese rifles, and the weapons without ammunition were destroyed. Lettow-Vorbeck called it "a real miracle": a detachment that had arrived at Ngomano only a few days earlier, at British request, to close the crossing had supplied him with everything that allowed him to carry on the war. He released the European prisoners on parole not to fight again, and took the Portuguese askaris along as porters.
+
+By the evening of 25 November Lettow-Vorbeck's army was an army without a country, but once again with ammunition. The British units were far away to the east, watching for Tafel's detachment, and the nearest British brigade had more than 80 kilometres to go to reach Ngomano. The Germans marched up the Lugenda, deep into Mozambique, where they were to fight for another ten months.
