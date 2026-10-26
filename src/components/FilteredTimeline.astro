@@ -3,9 +3,12 @@ import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { locale, type Lang } from "@/i18n"
-import { paths } from "@/i18n/local"
-import { counterpart, LABELS, yearLinks, type Group, type Kind } from "@/utils/filteredPages"
+import { localPeople, paths } from "@/i18n/local"
+import { counterpart, isThin, LABELS, yearLinks, type Group, type Kind } from "@/utils/filteredPages"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { listPageLd } from "@/utils/jsonLd"
+import { listMeta } from "@/utils/periodMeta"
+import { getPeople, personByName } from "@/utils/people"
 
 // Timeline page for a single tag, category, author or front, in either
 // language (utils/filteredPages.ts). Long lists are split by year: `year` is
@@ -25,17 +28,40 @@ const activeYear = years ? (year ?? years[0].year) : undefined
 const timelineByYear = groupTimelineEntries(entries, locale(lang)).filter(
   (yearGroup) => activeYear === undefined || yearGroup.year === activeYear,
 )
-const description =
-  lang === "en"
-    ? `Events – ${label.toLowerCase()}: ${name}${activeYear ? `, ${activeYear}` : ""}.`
-    : `Wydarzenia — ${label.toLowerCase()}: ${name}${activeYear ? `, ${activeYear}` : ""}.`
+const shown = timelineByYear.flatMap((yearGroup) => yearGroup.months.flatMap((month) => month.entries))
+// Count, years and key events (utils/periodMeta.ts): of the whole list on its
+// main page, of the year on a year page.
+const { description } = year
+  ? listMeta(lang, kind, name, shown, String(year))
+  : listMeta(lang, kind, name, entries)
+// Small tag pages stay out of search engines (utils/filteredPages.ts).
+const noindex = isThin(kind, group)
+// A tag that names a person leads to the person page: English if translated.
+const personId = kind === "tag" ? personByName(await getPeople(), group.key)?.id : undefined
+const person = personId
+  ? ((await localPeople(lang)).find((p) => p.id === personId) ??
+    (await localPeople("pl")).find((p) => p.id === personId))
+  : undefined
 const title = `${label}: ${name}${year ? ` (${year})` : ""}`
 // The same list in the other language, when it exists.
 const other = await counterpart(kind, lang, group.key, year)
 const alternates = other ? { [lang === "pl" ? "en" : "pl"]: other } : undefined
+// Structured data: the list as a collection of its articles; a year page sits
+// under the main list in the breadcrumbs (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path: pagePath,
+  name: title,
+  description,
+  trail: year ? [{ name: `${label}: ${name}`, path: base }] : [],
+  items: shown.map((entry) => entry.href),
+})
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
+  noindex={noindex}
   title={title}
   description={description}
   lang={lang}
@@ -54,6 +80,14 @@ const alternates = other ? { [lang === "pl" ? "en" : "pl"]: other } : undefined
     >
       {name}
     </h1>
+
+    {
+      person && (
+        <a href={person.href} class="text-signal -mt-7 mb-10 block w-fit font-mono text-xs hover:underline">
+          {lang === "en" ? "Person page" : "Strona postaci"}: {person.data.name} →
+        </a>
+      )
+    }
 
     <SectionHeading eyebrow={label} count={entries.length} />
     {

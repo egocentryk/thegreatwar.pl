@@ -4,6 +4,8 @@ import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { localEvents } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { periodMeta } from "@/utils/periodMeta"
+import { listPageLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const timelineByYear = groupTimelineEntries(await localEvents("en"), "en-GB")
@@ -18,14 +20,31 @@ const allTimeline = await localEvents("en")
 const timelineByYear = groupTimelineEntries(allTimeline, "en-GB")
 const activeYear = Number(Astro.params.year)
 const activeMonth = Astro.params.month!
-const activeMonthLabel = timelineByYear
+const activeMonthGroup = timelineByYear
   .find((yearGroup) => yearGroup.year === activeYear)
-  ?.months.find((monthGroup) => monthGroup.slug === activeMonth)?.label
+  ?.months.find((monthGroup) => monthGroup.slug === activeMonth)
+const meta = periodMeta("en", activeYear, activeMonthGroup?.entries ?? [], {
+  monthLabel: activeMonthGroup?.label,
+})
+// Structured data: the month as a collection of its articles (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: pagePath,
+  name: meta.heading,
+  description: meta.description,
+  trail: [
+    { name: "Timeline", path: "/en/timeline" },
+    { name: String(activeYear), path: `/en/timeline/${activeYear}` },
+  ],
+  items: (activeMonthGroup?.entries ?? []).map((entry) => entry.href),
+})
 ---
 
 <BaseLayout
-  title={activeMonthLabel ? `Timeline: ${activeMonthLabel} ${activeYear}` : `Timeline ${activeYear}`}
-  description={`Events of ${activeMonthLabel ?? ""} ${activeYear}, day by day.`}
+  jsonLd={jsonLd}
+  title={meta.title}
+  description={meta.description}
   lang="en"
   alternates={{ pl: `/timeline/${activeYear}/${activeMonth}` }}
 >
@@ -35,6 +54,7 @@ const activeMonthLabel = timelineByYear
       activeYear={activeYear}
       activeMonth={activeMonth}
       timelineByYear={timelineByYear}
+      heading={meta.heading}
       lang="en"
     />
   </section>

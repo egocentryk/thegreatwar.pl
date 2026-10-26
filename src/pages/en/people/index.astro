@@ -1,11 +1,23 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import PeopleIndex from "@/components/PeopleIndex.astro"
+import { listPageLd } from "@/utils/jsonLd"
+
+const description =
+  "The commanders, politicians and rulers of the First World War: who they were and what part they played in 1914–1918."
+// Structured data (utils/jsonLd.ts); hundreds of people, so no item list.
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: Astro.url.pathname.replace(/(.)\/+$/, "$1"),
+  name: "People",
+  description,
+})
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title="People"
-  description="The commanders, politicians and rulers of the First World War: who they were and what part they played in 1914–1918."
+  description={description}
   lang="en"
   alternates={{ pl: "/postacie" }}
 >

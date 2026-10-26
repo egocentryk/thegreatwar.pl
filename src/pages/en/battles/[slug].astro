@@ -6,9 +6,11 @@ import CoffeeButton from "@/components/CoffeeButton.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { BATTLE_PHASES } from "@/data/battlePhases"
-import { formatDateRange } from "@/utils/formatDate"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
 import { enUrlFor, frontEn, plPath, rewriteEnHtml } from "@/i18n"
-import { PHASES_EN } from "@/i18n/data-en"
+import { PHASES_EN, tagEn } from "@/i18n/data-en"
+import { listUrl } from "@/utils/filteredPages"
+import { pageEntities } from "@/utils/pageEntities"
 import { localEvents, paths } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, personByName } from "@/utils/people"
@@ -51,8 +53,13 @@ const phaseTitle = phaseInfo ? (PHASES_EN[phaseInfo.slug]?.title ?? phaseInfo.ti
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const { mentions } = await pageEntities(Astro.site!, "en", {
+  body: battle.body ?? "",
+  selfBattleId: source.id,
+})
 const jsonLd = [
   ...battleLd(Astro.site!, {
+    mentions,
     lang: "en",
     path: pagePath,
     title,
@@ -69,11 +76,24 @@ const jsonLd = [
   ]),
 ]
 import BattleLocator from "@/components/BattleLocator.astro"
+// A one-day battle can share its title and date with the article about that
+// day; the battle page then says what it is, so search results don't show two
+// identical titles.
+const sameAsArticle = (await localEvents("en")).some(
+  (entry) => entry.data.title === title && formatDate(entry.data.date, "long", undefined, "en-GB") === range,
+)
+const pageTitle = `${title}${sameAsArticle ? " – the battle" : ""} (${range})`
+const ogArticle = {
+  section: frontEn(front),
+  tags: source.data.tags.map(tagEn),
+  authors: authors.map((name) => listUrl("author", "en", name)),
+}
 ---
 
 <BaseLayout
   jsonLd={jsonLd}
-  title={`${title} (${range})`}
+  article={ogArticle}
+  title={pageTitle}
   description={summary}
   lang="en"
   alternates={{ pl: plPath.battles(source.id) }}

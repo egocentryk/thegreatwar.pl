@@ -1,11 +1,26 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import TimelineOverview from "@/components/TimelineOverview.astro"
+import { localEvents, paths } from "@/i18n/local"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { listPageLd } from "@/utils/jsonLd"
+
+const description =
+  "The Great War day by day: the events of 1914–1918, year by year."
+// Structured data: a collection of the year pages it links (utils/jsonLd.ts).
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: Astro.url.pathname.replace(/(.)\/+$/, "$1"),
+  name: "Timeline",
+  description,
+  items: groupTimelineEntries(await localEvents("en")).map((group) => paths("en").year(group.year)),
+})
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title="Timeline"
-  description="The Great War day by day: the events of 1914–1918, year by year."
+  description={description}
   lang="en"
   alternates={{ pl: "/timeline" }}
 >

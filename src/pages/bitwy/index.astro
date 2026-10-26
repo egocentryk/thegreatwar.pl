@@ -1,11 +1,25 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import BattlesOverview from "@/components/BattlesOverview.astro"
+import { localBattles } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+
+const description =
+  "Najważniejsze bitwy I wojny światowej, pogrupowane według frontów i etapów wojny."
+// Structured data: a collection of the battles it links (utils/jsonLd.ts).
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: Astro.url.pathname.replace(/(.)\/+$/, "$1"),
+  name: "Bitwy",
+  description,
+  items: (await localBattles("pl")).map((battle) => battle.href),
+})
 ---
 
 <BaseLayout
+  jsonLd={jsonLd}
   title="Bitwy"
-  description="Najważniejsze bitwy I wojny światowej, pogrupowane według frontów i etapów wojny."
+  description={description}
   alternates={{ en: "/en/battles" }}
 >
   <BattlesOverview />

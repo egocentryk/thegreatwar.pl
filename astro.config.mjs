@@ -13,15 +13,19 @@ const SITE_URL = 'https://thegreatwar.pl';
 // <head>: the sitemap runs after the build, so read them from the built HTML.
 // Polish and English slugs differ, so they can't be derived from the URL.
 const distDir = fileURLToPath(new URL('./dist', import.meta.url));
+/** @param {string} url */
+function builtHtml(url) {
+  const path = new URL(url).pathname.replace(/\/$/, '');
+  try {
+    return readFileSync(`${distDir}${path}/index.html`, 'utf8');
+  } catch {
+    return undefined;
+  }
+}
 /** @param {import('@astrojs/sitemap').SitemapItem} item */
 function withHreflang(item) {
-  const path = new URL(item.url).pathname.replace(/\/$/, '');
-  let html;
-  try {
-    html = readFileSync(`${distDir}${path}/index.html`, 'utf8');
-  } catch {
-    return item;
-  }
+  const html = builtHtml(item.url);
+  if (!html) return item;
   const links = [...html.matchAll(/<link rel="alternate" hreflang="([^"]+)" href="([^"]+)"/g)]
     .map(([, lang, url]) => ({ lang, url }));
   return links.length ? { ...item, links } : item;
@@ -34,7 +38,14 @@ export default defineConfig({
   // vercel.json redirects "/path/" to "/path" in production.
   trailingSlash: 'never',
 
-  integrations: [sitemap({ serialize: withHreflang })],
+  // Pages marked noindex (BaseLayout `noindex`: search results, small tag
+  // pages) stay out of the sitemap too; read from the built HTML.
+  integrations: [
+    sitemap({
+      serialize: withHreflang,
+      filter: (page) => !builtHtml(page)?.includes('<meta name="robots" content="noindex'),
+    }),
+  ],
 
   // Prefetches internal links on hover/viewport entry for near-instant navigation.
   prefetch: true,

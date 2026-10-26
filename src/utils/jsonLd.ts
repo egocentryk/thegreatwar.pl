@@ -79,6 +79,9 @@ export function articleLd(
     authors: string[]
     tags?: string[]
     image?: string
+    // What the article is about and what it mentions (utils/pageEntities.ts).
+    about?: JsonLdNode[]
+    mentions?: JsonLdNode[]
   },
 ): JsonLdNode {
   return {
@@ -96,6 +99,8 @@ export function articleLd(
     isPartOf: { "@id": websiteId(site, a.lang) },
     image: abs(site, a.image ?? SITE.ogImage),
     ...(a.tags?.length ? { keywords: a.tags.join(", ") } : {}),
+    ...(a.about?.length ? { about: a.about } : {}),
+    ...(a.mentions?.length ? { mentions: a.mentions } : {}),
   }
 }
 
@@ -111,6 +116,8 @@ export function battleLd(
     endDate: Date
     location: string
     authors: string[]
+    // People, battles and other things the page mentions (utils/pageEntities.ts).
+    mentions?: JsonLdNode[]
   },
 ): JsonLdNode[] {
   const url = abs(site, b.path)
@@ -135,12 +142,45 @@ export function battleLd(
       inLanguage: inLanguage(b.lang),
       temporalCoverage: `${isoDay(b.startDate)}/${isoDay(b.endDate)}`,
       about: { "@id": `${url}#event` },
+      ...(b.mentions?.length ? { mentions: b.mentions } : {}),
       author: b.authors.map((name) => authorLd(site, name)),
       publisher: { "@id": publisherId(site) },
       isPartOf: { "@id": websiteId(site, b.lang) },
       image: abs(site, SITE.ogImage),
     },
   ]
+}
+
+// A list page (year, month, tag, category, author, front, battles):
+// a CollectionPage whose main entity is the list of pages it links, in order.
+// `items` is left out for very long hub pages (/postacie).
+export function collectionLd(
+  site: URL,
+  c: { lang: Lang; path: string; name: string; description: string; items?: string[] },
+): JsonLdNode {
+  const url = abs(site, c.path)
+  return {
+    "@type": "CollectionPage",
+    "@id": `${url}#page`,
+    name: c.name,
+    description: c.description,
+    url,
+    inLanguage: inLanguage(c.lang),
+    isPartOf: { "@id": websiteId(site, c.lang) },
+    ...(c.items?.length
+      ? {
+          mainEntity: {
+            "@type": "ItemList",
+            numberOfItems: c.items.length,
+            itemListElement: c.items.map((path, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              url: abs(site, path),
+            })),
+          },
+        }
+      : {}),
+  }
 }
 
 // A person page: the Person, with Wikipedia as sameAs.
@@ -185,4 +225,24 @@ export function personLd(
     mainEntityOfPage: url,
     ...(wiki.length ? { sameAs: wiki } : {}),
   }
+}
+
+// A list page's nodes: its CollectionPage and the breadcrumbs from the
+// homepage through `trail` to the page itself.
+export function listPageLd(
+  site: URL,
+  p: {
+    lang: Lang
+    path: string
+    name: string
+    description: string
+    trail?: { name: string; path: string }[]
+    items?: string[]
+  },
+): JsonLdNode[] {
+  const homeCrumb = { name: p.lang === "en" ? "Home" : "Strona główna", path: home(p.lang) }
+  return [
+    collectionLd(site, p),
+    breadcrumbLd(site, [homeCrumb, ...(p.trail ?? []), { name: p.name, path: p.path }]),
+  ]
 }

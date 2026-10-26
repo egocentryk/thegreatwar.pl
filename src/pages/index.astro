@@ -5,6 +5,6 @@ import { SITE } from "@/site.config"
 import { websiteLd } from "@/utils/jsonLd"
 ---
 
-<BaseLayout jsonLd={websiteLd(Astro.site!, "pl")} title={SITE.name} alternates={{ en: "/en" }}>
+<BaseLayout jsonLd={websiteLd(Astro.site!, "pl")} title={`${SITE.name} – I wojna światowa dzień po dniu`} alternates={{ en: "/en" }}>
   <Home />
 </BaseLayout>

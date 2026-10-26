@@ -15,6 +15,7 @@ import {
   translatedTimeline,
 } from "@/i18n"
 import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
+import { pageEntities } from "@/utils/pageEntities"
 
 type AssetImage = {
   src: string
@@ -54,14 +55,21 @@ const headerImageAsset = headerImage
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const entities = await pageEntities(Astro.site!, "en", {
+  body: entry.body ?? "",
+  battleId: battle?.id,
+  tags,
+})
 const jsonLd = [
   articleLd(Astro.site!, {
+    ...entities,
     lang: "en",
     path: pagePath,
     title,
     summary,
     date,
     authors,
+    tags: tags.map(tagEn),
     image: headerImageAsset?.src,
   }),
   breadcrumbLd(Astro.site!, [
@@ -74,10 +82,16 @@ const jsonLd = [
 import { tagEn } from "@/i18n/data-en"
 import { listUrl } from "@/utils/filteredPages"
 import RelatedEvents from "@/components/RelatedEvents.astro"
+const ogArticle = {
+  section: categoryEn(category),
+  tags: tags.map(tagEn),
+  authors: authors.map((name) => listUrl("author", "en", name)),
+}
 ---
 
 <BaseLayout
   jsonLd={jsonLd}
+  article={ogArticle}
   title={`${title} (${formattedDate})`}
   description={summary}
   image={headerImageAsset?.src}

@@ -8,6 +8,8 @@ import {
   groupTimelineEntries,
 } from "@/utils/groupTimelineEntries"
 import { localEvents } from "@/i18n/local"
+import { periodMeta } from "@/utils/periodMeta"
+import { listPageLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const entries = await getCollection("timeline", ({ data }) => !data.draft)
@@ -35,16 +37,31 @@ const hasEnglish = (await localEvents("en")).some(
 const activeGroup = timelineByYear.find(
   (yearGroup) => yearGroup.year === activeYear,
 )
-const activeMonthLabel = activeGroup?.months.find(
+const activeMonthGroup = activeGroup?.months.find(
   (monthGroup) => monthGroup.slug === activeMonth,
-)?.label
+)
+const meta = periodMeta("pl", activeYear, activeMonthGroup?.entries ?? [], {
+  monthLabel: activeMonthGroup?.label,
+})
+// Structured data: the month as a collection of its articles (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: pagePath,
+  name: meta.heading,
+  description: meta.description,
+  trail: [
+    { name: "Oś czasu", path: "/timeline" },
+    { name: String(activeYear), path: `/timeline/${activeYear}` },
+  ],
+  items: (activeMonthGroup?.entries ?? []).map((entry) => `/${entry.id}`),
+})
 ---
 
 <BaseLayout
-  title={activeMonthLabel
-    ? `Timeline ${activeYear} ${activeMonthLabel}`
-    : `Timeline ${activeYear}`}
-  description="Selected projects in product design and frontend engineering."
+  jsonLd={jsonLd}
+  title={meta.title}
+  description={meta.description}
   alternates={hasEnglish ? { en: `/en/timeline/${activeYear}/${activeMonth}` } : {}}
 >
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
@@ -53,6 +70,7 @@ const activeMonthLabel = activeGroup?.months.find(
       activeYear={activeYear}
       activeMonth={activeMonth}
       timelineByYear={timelineByYear}
+      heading={meta.heading}
     />
   </section>
 </BaseLayout>

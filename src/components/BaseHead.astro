@@ -5,6 +5,15 @@ import { SITE } from '@/site.config';
 import type { Alternates, Lang } from '@/i18n';
 import type { JsonLdNode } from '@/utils/jsonLd';
 
+// Open Graph article metadata (articles and battle pages): og:type becomes
+// "article" with article:section, article:tag and article:author.
+export interface OgArticle {
+  section: string;
+  tags: string[];
+  // Author page paths (/autor/<slug>, /en/author/<slug>).
+  authors: string[];
+}
+
 interface Props {
   title: string;
   description?: string;
@@ -12,9 +21,13 @@ interface Props {
   lang?: Lang;
   alternates?: Alternates;
   jsonLd?: JsonLdNode[];
+  article?: OgArticle;
+  // Pages with nothing of their own to index (search results): kept out of
+  // search engines, while their links are still followed.
+  noindex?: boolean;
 }
 
-const { title: pageTitle, description: pageDescription, image, lang = 'pl', alternates = {}, jsonLd } = Astro.props;
+const { title: pageTitle, description: pageDescription, image, lang = 'pl', alternates = {}, jsonLd, article, noindex = false } = Astro.props;
 // One @graph; "<" escaped so text can never close the script tag.
 const jsonLdText = jsonLd?.length
   ? JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonLd }).replace(/</g, '\\u003c')
@@ -24,7 +37,13 @@ const hreflangs = alternates.pl && alternates.en
   ? (['pl', 'en'] as const).map((l) => ({ lang: l, href: new URL(alternates[l]!, Astro.site).href }))
   : [];
 
-const fullTitle = pageTitle.includes(SITE.name) ? pageTitle : `${pageTitle} · ${SITE.name}`;
+// The site name goes after the title only while the whole fits in what
+// search results show (about 60 characters); a long title keeps its own words
+// visible instead. og:site_name still carries the name.
+const MAX_TITLE = 60;
+const withSiteName = `${pageTitle} · ${SITE.name}`;
+const fullTitle =
+  pageTitle.includes(SITE.name) || withSiteName.length > MAX_TITLE ? pageTitle : withSiteName;
 const description = pageDescription || SITE.description;
 // Static builds give directory-style paths ("/timeline/"); the site uses URLs
 // without a trailing slash, so strip it (except for the root "/").
@@ -53,12 +72,16 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
 <link rel="sitemap" href="/sitemap-index.xml" />
 
 {/* Open Graph / Facebook */}
-<meta property="og:type" content="website" />
+<meta property="og:type" content={article ? 'article' : 'website'} />
+<meta property="og:site_name" content={SITE.name} />
 <meta property="og:locale" content={lang === 'en' ? 'en_GB' : 'pl_PL'} />
 <meta property="og:title" content={fullTitle} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={socialImage} />
+{article && <meta property="article:section" content={article.section} />}
+{article?.tags.map((tag) => <meta property="article:tag" content={tag} />)}
+{article?.authors.map((path) => <meta property="article:author" content={new URL(path, Astro.site).href} />)}
 
 {/* Twitter */}
 <meta name="twitter:card" content="summary_large_image" />
@@ -78,7 +101,7 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
 <link rel="manifest" href="/site.webmanifest" />
 
 {/* Optional */}
-<meta name="robots" content="index, follow" />
+<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
 <meta name="google-adsense-account" content="ca-pub-5375305864949545" />
 
 {/* Fonts API (Astro 5.x+)*/}

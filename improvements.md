@@ -794,6 +794,42 @@ markers). Tested in a browser:
 - Redo `battle-coords.mjs` and review the fallbacks the same way.
 - Re-validate the front colours on its own neighbouring-front pairs.
 
+## 10. SEO: port of thesecondwar.pl's SEO work (2026-10-26)
+
+The opposite direction from the rest of this file: `seo.md` §1–7 describes
+SEO changes made on thesecondwar.pl, and they are now applied here. `seo.md`
+has the problems, the changes and the check scripts; this entry records only
+what differs on this site and the numbers measured here.
+
+**Differences from thesecondwar.pl:**
+
+- No `src/data/eras.ts`: every year is a war year, so `periodMeta` has no
+  "road to the war" title. Wording: "I wojna światowa dzień po dniu" /
+  "the First World War day by day", "w kronice Wielkiej Wojny" / "in the
+  chronicle of the Great War".
+- No battle phase pages, so `BattlePhasePage.astro` was not ported.
+- No `/autor/lukasz-skowron` redirect in `astro.config.mjs`.
+- The hub pages (`/bitwy`, `/postacie`, `/timeline`) keep their own
+  descriptions; `/timeline` is now titled "Oś czasu".
+- Year pages lead with milestone battles that have the most articles. Here,
+  coverage of the Somme is spread over its sub-battles, so the 1916
+  description names the Brusilov offensive, Montenegro and Kilimanjaro
+  rather than the Somme.
+
+**Result (7,182 pages):**
+
+- Exactly one `<h1>` on every page; no shared descriptions; no duplicate
+  titles. 20 battle pages (10 per language) share a title with the article
+  about the same day and now get " – przebieg bitwy" / " – the battle".
+- 645 titles over 60 characters. These are long article titles that now
+  appear without the site name.
+- 5,868 pages with `og:type` `article`, and no broken author links.
+- JSON-LD: 820 `CollectionPage`s, 5,864 nodes with `mentions` and 3,254 with
+  `about`. All 18,784 references to the site's own pages resolve.
+- 122 noindex pages (120 tag pages with fewer than 3 articles, plus the two
+  search pages). None are in the sitemap, which now has 7,060 URLs. 154 tag
+  pages link to their person page.
+
 ---
 
 ## Roadmap (checklist)
@@ -836,6 +872,10 @@ finished, tick it here and add its section above.
 
   Add a `published` front-matter field first.
 - [x] hreflang alternates in the sitemap (§2b)
+- [x] The SEO work of thesecondwar.pl (`seo.md` §1–7): year and month page
+  titles, descriptions and `<h1>`, Open Graph article tags, shorter titles,
+  list-page JSON-LD with `about` / `mentions`, list-page descriptions, and
+  noindex on search and small tag pages (§10)
 
 ### 4. Reader features
 - [x] "Meanwhile" (same days, other fronts) and "Related" (battle, people,

@@ -24,6 +24,9 @@ interface Props {
   showYearNav?: boolean
   showBackLink?: boolean
   renderAllYears?: boolean
+  // Year and month pages: the year heading becomes the page's <h1> with this
+  // text ("1916", "Marzec 1916").
+  heading?: string
   lang?: Lang
 }
 
@@ -34,8 +37,10 @@ const {
   showYearNav = true,
   showBackLink = true,
   renderAllYears = false,
+  heading,
   lang = "pl",
 } = Astro.props
+const YearHeading = heading ? "h1" : "h2"
 const to = paths(lang)
 const t = {
   pl: {
@@ -153,9 +158,9 @@ function groupEntriesByDay(
 
           return (
             <section>
-              <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
-                {yearGroup.year}
-              </h2>
+              <YearHeading class="font-display text-ink text-3xl font-medium sm:text-4xl">
+                {heading ?? yearGroup.year}
+              </YearHeading>
 
               <div class="mt-6 space-y-8">
                 {visibleMonths.map((monthGroup) => (

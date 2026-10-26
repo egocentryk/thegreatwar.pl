@@ -6,11 +6,13 @@ import CoffeeButton from "@/components/CoffeeButton.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { BATTLE_PHASES } from "@/data/battlePhases"
-import { formatDateRange } from "@/utils/formatDate"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, personByName } from "@/utils/people"
 import { battleLd, breadcrumbLd } from "@/utils/jsonLd"
 import { slugify } from "@/utils/slugify"
+import { listUrl } from "@/utils/filteredPages"
+import { pageEntities } from "@/utils/pageEntities"
 
 export async function getStaticPaths() {
   const battles = await getCollection("battles", ({ data }) => !data.draft)
@@ -53,8 +55,13 @@ const people = await getPeople()
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const { mentions } = await pageEntities(Astro.site!, "pl", {
+  body: battle.body ?? "",
+  selfBattleId: battle.id,
+})
 const jsonLd = [
   ...battleLd(Astro.site!, {
+    mentions,
     lang: "pl",
     path: pagePath,
     title,
@@ -71,11 +78,25 @@ const jsonLd = [
   ]),
 ]
 import BattleLocator from "@/components/BattleLocator.astro"
+// A one-day battle can share its title and date with the article about that
+// day ("Atak na Pearl Harbor (7 grudnia 1941)"); the battle page then says
+// what it is, so search results don't show two identical titles.
+const range = formatDateRange(startDate, endDate)
+const sameAsArticle = (await getCollection("timeline", ({ data }) => !data.draft)).some(
+  (entry) => entry.data.title === title && formatDate(entry.data.date) === range,
+)
+const pageTitle = `${title}${sameAsArticle ? " – przebieg bitwy" : ""} (${range})`
+const ogArticle = {
+  section: front,
+  tags,
+  authors: authors.map((name) => listUrl("author", "pl", name)),
+}
 ---
 
 <BaseLayout
   jsonLd={jsonLd}
-  title={`${title} (${formatDateRange(startDate, endDate)})`}
+  article={ogArticle}
+  title={pageTitle}
   description={summary}
   alternates={{ en: enUrl }}
 >

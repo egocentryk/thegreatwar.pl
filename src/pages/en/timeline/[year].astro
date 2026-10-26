@@ -1,9 +1,12 @@
 ---
+import { getCollection } from "astro:content"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
-import { localEvents } from "@/i18n/local"
+import { localBattles, localEvents } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { periodMeta } from "@/utils/periodMeta"
+import { listPageLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const timelineByYear = groupTimelineEntries(await localEvents("en"), "en-GB")
@@ -15,16 +18,46 @@ export async function getStaticPaths() {
 const allTimeline = await localEvents("en")
 const timelineByYear = groupTimelineEntries(allTimeline, "en-GB")
 const activeYear = Number(Astro.params.year)
+// The year's key battles lead the description, the ones with the most
+// articles first.
+const articlesPerBattle = new Map<string, number>()
+for (const entry of await getCollection("timeline", ({ data }) => !data.draft)) {
+  const id = entry.data.battle?.id
+  if (id) articlesPerBattle.set(id, (articlesPerBattle.get(id) ?? 0) + 1)
+}
+const keyBattles = (await localBattles("en"))
+  .filter((battle) => battle.data.milestone && battle.data.startDate.getUTCFullYear() === activeYear)
+  .sort((a, b) => (articlesPerBattle.get(b.id) ?? 0) - (articlesPerBattle.get(a.id) ?? 0))
+  .map((battle) => battle.data.title)
+const meta = periodMeta(
+  "en",
+  activeYear,
+  allTimeline.filter((entry) => entry.data.date.getUTCFullYear() === activeYear),
+  { highlights: keyBattles },
+)
+// Structured data: the year as a collection of its articles (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: pagePath,
+  name: meta.heading,
+  description: meta.description,
+  trail: [{ name: "Timeline", path: "/en/timeline" }],
+  items: (timelineByYear.find((group) => group.year === activeYear)?.months ?? []).flatMap((month) =>
+    month.entries.map((entry) => entry.href),
+  ),
+})
 ---
 
 <BaseLayout
-  title={`Timeline ${activeYear}`}
-  description={`Events of ${activeYear}, day by day.`}
+  jsonLd={jsonLd}
+  title={meta.title}
+  description={meta.description}
   lang="en"
   alternates={{ pl: `/timeline/${activeYear}` }}
 >
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
     <SectionHeading eyebrow="Timeline" count={allTimeline.length} />
-    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} lang="en" />
+    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} heading={meta.heading} lang="en" />
   </section>
 </BaseLayout>

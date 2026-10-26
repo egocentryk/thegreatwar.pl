@@ -84,7 +84,8 @@ export async function enUrlFor(kind: Kind, plId: string) {
 
 const WIKI = wikiEn as Record<string, string | null>
 
-function plWikiTitle(href: string) {
+// pl.wikipedia URL -> article title ("Isoroku Yamamoto"), or null.
+export function plWikiTitle(href: string) {
   const m = href.match(/^https?:\/\/pl\.wikipedia\.org\/wiki\/([^#?]+)/)
   if (!m) return null
   let t = m[1]
@@ -92,6 +93,12 @@ function plWikiTitle(href: string) {
     t = decodeURIComponent(t)
   } catch {}
   return t.replace(/_/g, " ").trim()
+}
+
+// en.wikipedia URL for a pl.wikipedia title, if there is a counterpart.
+export function enWikiUrl(plTitle: string) {
+  const en = WIKI[plTitle]
+  return en ? `https://en.wikipedia.org/wiki/${encodeURIComponent(en.replace(/ /g, "_"))}` : undefined
 }
 
 const PL_MARK = ' <span class="lang-mark" title="W języku polskim / in Polish">(PL)</span>'
@@ -109,12 +116,9 @@ export async function rewriteEnHtml(html: string) {
       const href = rawHref.replace(/&amp;/g, "&")
       const wikiTitle = plWikiTitle(href)
       if (wikiTitle !== null) {
-        const en = WIKI[wikiTitle]
-        if (en) {
-          // Section anchors of the Polish article do not exist in the English one.
-          const url = `https://en.wikipedia.org/wiki/${encodeURIComponent(en.replace(/ /g, "_"))}`
-          return `<a href="${url}"${attrs}>${text}</a>`
-        }
+        // Section anchors of the Polish article do not exist in the English one.
+        const url = enWikiUrl(wikiTitle)
+        if (url) return `<a href="${url}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`
       }
       const internal = href.match(/^\/(?:(bitwy|postacie)\/)?([a-z0-9-]+)(#[^"]*)?$/)

@@ -10,6 +10,12 @@ import { slugify } from "@/utils/slugify"
 // <base>/<year>.
 
 export const SPLIT_THRESHOLD = 300
+// A tag page with fewer articles than this is kept out of search engines
+// ("noindex, follow"): it adds little beyond the articles themselves (and,
+// for a person, beyond the person page). It becomes indexable again once the
+// tag grows.
+export const MIN_INDEXED = 3
+export const isThin = (kind: Kind, group: Group) => kind === "tag" && group.entries.length < MIN_INDEXED
 
 export type Kind = "tag" | "category" | "author" | "front"
 

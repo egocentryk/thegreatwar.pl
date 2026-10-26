@@ -2,13 +2,16 @@
 interface Props {
   eyebrow: string;
   count?: number;
+  // 1 on pages whose only title is this label (/bitwy, /postacie, /szukaj).
+  level?: 1 | 2;
 }
 
-const { eyebrow, count } = Astro.props;
+const { eyebrow, count, level = 2 } = Astro.props;
+const Heading = level === 1 ? 'h1' : 'h2';
 ---
 
 <div class="border-line mb-8 flex items-baseline justify-between border-b pb-3">
-  <h2 class="text-ink-soft font-mono text-xs tracking-[0.2em] uppercase">{eyebrow}</h2>
+  <Heading class="text-ink-soft font-mono text-xs tracking-[0.2em] uppercase">{eyebrow}</Heading>
   {
     typeof count === 'number' && (
       <span class="text-ink-soft font-mono text-xs">({String(count).padStart(2, '0')})</span>

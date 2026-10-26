@@ -4,7 +4,9 @@ import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
-import { localEvents } from "@/i18n/local"
+import { localBattles, localEvents } from "@/i18n/local"
+import { periodMeta } from "@/utils/periodMeta"
+import { listPageLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const entries = await getCollection("timeline", ({ data }) => !data.draft)
@@ -21,15 +23,45 @@ const activeYear = Number(Astro.params.year)
 const hasEnglish = (await localEvents("en")).some(
   (entry) => entry.data.date.getUTCFullYear() === activeYear,
 )
+// The year's key battles lead the description, the ones with the most
+// articles first.
+const articlesPerBattle = new Map<string, number>()
+for (const entry of await getCollection("timeline", ({ data }) => !data.draft)) {
+  const id = entry.data.battle?.id
+  if (id) articlesPerBattle.set(id, (articlesPerBattle.get(id) ?? 0) + 1)
+}
+const keyBattles = (await localBattles("pl"))
+  .filter((battle) => battle.data.milestone && battle.data.startDate.getUTCFullYear() === activeYear)
+  .sort((a, b) => (articlesPerBattle.get(b.id) ?? 0) - (articlesPerBattle.get(a.id) ?? 0))
+  .map((battle) => battle.data.title)
+const meta = periodMeta(
+  "pl",
+  activeYear,
+  allTimeline.filter((entry) => entry.data.date.getUTCFullYear() === activeYear),
+  { highlights: keyBattles },
+)
+// Structured data: the year as a collection of its articles (utils/jsonLd.ts).
+const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: pagePath,
+  name: meta.heading,
+  description: meta.description,
+  trail: [{ name: "Oś czasu", path: "/timeline" }],
+  items: (timelineByYear.find((group) => group.year === activeYear)?.months ?? []).flatMap((month) =>
+    month.entries.map((entry) => `/${entry.id}`),
+  ),
+})
 ---
 
 <BaseLayout
-  title={`Timeline ${activeYear}`}
-  description="Selected projects in product design and frontend engineering."
+  jsonLd={jsonLd}
+  title={meta.title}
+  description={meta.description}
   alternates={hasEnglish ? { en: `/en/timeline/${activeYear}` } : {}}
 >
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
     <SectionHeading eyebrow="Oś czasu" count={allTimeline.length} />
-    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} />
+    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} heading={meta.heading} />
   </section>
 </BaseLayout>

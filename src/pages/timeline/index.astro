@@ -1,11 +1,26 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import TimelineOverview from "@/components/TimelineOverview.astro"
+import { localEvents, paths } from "@/i18n/local"
+import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { listPageLd } from "@/utils/jsonLd"
+
+const description =
+  "Wielka Wojna dzień po dniu: wydarzenia z lat 1914–1918, rok po roku."
+// Structured data: a collection of the year pages it links (utils/jsonLd.ts).
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: Astro.url.pathname.replace(/(.)\/+$/, "$1"),
+  name: "Oś czasu",
+  description,
+  items: groupTimelineEntries(await localEvents("pl")).map((group) => paths("pl").year(group.year)),
+})
 ---
 
 <BaseLayout
-  title="Timeline"
-  description="Wielka Wojna dzień po dniu: wydarzenia z lat 1914–1918, rok po roku."
+  jsonLd={jsonLd}
+  title="Oś czasu"
+  description={description}
   alternates={{ en: "/en/timeline" }}
 >
   <TimelineOverview />
