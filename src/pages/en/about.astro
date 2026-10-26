@@ -72,10 +72,13 @@ const sections = [
 
       <h2>The English edition</h2>
       <p>
-        The English edition is being translated in stages, month by month. So far it
-        covers {count(events.length, "event", "events")} of
-        {" "}{allEvents.length} and {count(battles.length, "battle", "battles")}. Links to
-        articles not yet translated lead to the Polish version and are marked “(PL)”.
+        The English edition is a full translation of the Polish chronicle. It
+        covers {events.length === allEvents.length
+          ? `all ${count(events.length, "event", "events")}`
+          : `${count(events.length, "event", "events")} of ${allEvents.length}`}
+        {" "}and {count(battles.length, "battle", "battles")}. New
+        articles may appear in Polish first; links to them lead to the Polish version
+        and are marked “(PL)”.
       </p>
 
       <h2>Authors</h2>
