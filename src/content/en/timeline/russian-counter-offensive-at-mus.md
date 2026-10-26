@@ -1,0 +1,28 @@
+---
+title: Russian counter-offensive at Muş
+summary: In late August 1916 the Russians repelled the Ottoman Second Army's offensive and closed on Muş. Reports that Muş and Bitlis were retaken were exaggerated.
+source: rosyjska-kontrofensywa-pod-musem
+sourceHash: e777c549f658eeaf58ba0f704e38cfb6fc0132d6
+---
+
+The British chronology of the war records under 24 August 1916 that the Russians again occupied Bitlis and Muş, two towns in Turkish Armenia which [Ottoman troops had retaken at the beginning of August](/wojska-osmanskie-odbijaja-mus-i-bitlis). The Entente press wrote the same: the American monthly *Current History* reported that on 23 August the Russians recovered [Bitlis](https://pl.wikipedia.org/wiki/Bitlis) and on 24 August reoccupied [Muş](https://pl.wikipedia.org/wiki/Muş), and many later encyclopaedias repeat these dates. The Russian counter-offensive was real and ended in success, but works based on the documents of both sides do not confirm that the Russians recovered both towns at that time. Bitlis certainly remained in Ottoman hands, and on Muş the sources differ.
+
+## Yudenich's reserves
+
+The offensive of Marshal [Ahmed İzzet Pasha](https://pl.wikipedia.org/wiki/Ahmed_İzzet_Pasza)'s Ottoman Second Army began promisingly on 2 August. [Mustafa Kemal](/postacie/mustafa-kemal)'s XVI Corps took Bitlis and Muş, and the commander of the Russian Caucasus Army, General [Nikolai Yudenich](/postacie/nikolaj-judenicz), had to pull back his left wing. İzzet's main attack in the mountains between the two branches of the Euphrates, towards Ognot and Kiğı, got under way slowly, however. Yudenich used this time to bring up reserves. From Kelkit he transferred the 4th Caucasian Rifle Division, which after five days of forced marches reached Erzurum on 6 August, and from the army reserve the 5th Caucasian Rifle Division, a brigade of Siberian Cossacks and the 2nd Kuban Plastun (Cossack foot) Brigade. He placed all these units under the command of General Nikolai Vorobyov.
+
+When on 12–13 August the Turks finally attacked in greater strength, the new 5th Rifle Division suffered heavy losses, but the Cossacks and plastuns stopped the attack. Allen and Muratoff, the authors of a history of the Caucasian wars, write that around 15–16 August İzzet lost his chance at Ognot. The Russians by then had 38 battalions and 18 sotnias there against 36 Turkish battalions with weak, irregular cavalry.
+
+## The blow
+
+On 18 August Vorobyov's group went over to the attack in three columns. For several days fierce fighting went on, in which the Turks used up their last reserve, the 11th Division, in a bayonet counter-attack. The Russians suffered heavy losses, but the superiority of their howitzers and mountain batteries told, and the plastuns outflanked the Turkish lines. After a week of battle four Ottoman divisions were falling back along the whole sector. At the same time Yudenich ordered the IV Caucasian Corps to go over to the attack at Muş. General Yevgeny Maslovsky of the Caucasus Army staff, counting the days by the Julian calendar, gives the start of this attack as 6 August, that is 19 August in the Gregorian calendar. The Caucasian riflemen reached the bridge over the [Murat](https://pl.wikipedia.org/wiki/Murat_Nehri) river near Muş without much difficulty, and the Turkish 8th Division fell back to the hills around the town. On 20 August the Russian 66th Infantry Division routed the Turkish 7th Division near the monastery of Surb Karapet west of Muş. Allen and Muratoff write of several captured guns and 500 prisoners, Maslovsky of three guns, four machine guns and about 300 prisoners. At the end of August the Russians stood almost on the Euphrates, on the line of the villages of Boglan – Haraba – Ziyaret.
+
+## Muş and Bitlis
+
+On Muş the sources diverge. Some Russian works and many English-language publications state that the Russians recovered the town on 23 or 24 August. Allen and Muratoff, on the other hand, write that the Turks held on in the hills around Muş and left the town only in the last days of September, when the first snow had already fallen on Kurtik Dağ and both armies were struggling with a lack of supplies. According to Atatürk's biographer Andrew Mango, the Russian attack on the town on 24–25 August was repulsed. Maslovsky, although he describes the counter-offensive in detail, does not mention the recapture of Muş in August.
+
+The Russians did not recover Bitlis at all. General Foma Nazarbekov, who had given up the town at the beginning of August, advanced from the northern shore of Lake Van and after a fight took [Tatvan](https://pl.wikipedia.org/wiki/Tatvan). On learning, however, that the Turkish 5th Division had dug in on a strong position covering Bitlis, he halted the attack. According to Allen and Muratoff his battalions had 400–500 men fit for combat each. According to Maslovsky, Nazarbekov halted his regiments to wait for the situation of the whole corps to become clear. In Turkish tradition 8 August 1916 is regarded as the day of Bitlis's liberation.
+
+## The balance
+
+By 1 September the Second Army's offensive at Ognot had collapsed completely, and its main forces had withdrawn to their starting positions. Allen and Muratoff estimate Ottoman losses at nearly 30,000 killed and wounded out of about 100,000 soldiers, with only about 3,000 prisoners. Maslovsky states that in two months of fighting the Russians lost at least 20,000 killed and wounded, and the Turks, counting prisoners and stragglers, up to 60,000. The summer of 1916 thus brought the Russians victory over both Ottoman armies in Armenia, although Mustafa Kemal kept the Bitlis he had captured, and in Persia the Turks [took Hamadan](/wojska-osmanskie-zdobywaja-hamadan).

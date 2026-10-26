@@ -1,0 +1,22 @@
+---
+title: Sinking of the hospital ship Vpered
+summary: On 8 July 1916 the German U-38 torpedoed the Russian hospital ship Vpered in the Black Sea off Lazistan. Seven or eight people were killed.
+source: zatopienie-statku-szpitalnego-wpieriod
+sourceHash: 66da1d0a9e7fea643f2d8daf49a4308e05a90c79
+---
+
+At 9.35 a.m. on 8 July 1916 (25 June by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then in use in Russia) the German submarine [U-38](https://pl.wikipedia.org/wiki/SM_U-38) torpedoed the Russian [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) *Vpered* ("Forward") in the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne). The ship sank quickly off the coast of [Lazistan](https://pl.wikipedia.org/wiki/Lazystan), about 32 miles south-west of [Batumi](https://pl.wikipedia.org/wiki/Batumi). Seven or eight people were killed. The date and time are given in a Red Cross telegram sent that same day, and 8 July is also confirmed by a British pamphlet of 1917 on the war against hospital ships. The British chronology of the war recorded the sinking under 10 July, and the uboat.net website gives 9 July.
+
+## Portugal's successor
+
+*Vpered* was a small passenger steamer of about 860 gross register tons, built in 1898 at the Stabilimento Tecnico yard in [Trieste](https://pl.wikipedia.org/wiki/Triest). According to some sources she belonged before the war to a shipping company from Rostov-on-Don serving lines on the Black Sea and the Sea of Azov; according to others she had previously been a French steamer, handed over to Russia in 1915. When on 30 March 1916 another German submarine [sank the hospital ship *Portugal* off Rize](/zatopienie-statku-szpitalnego-portugal), the Russians decided to fit out new floating hospitals in her place. The [Russian Red Cross](https://pl.wikipedia.org/wiki/Rosyjski_Czerwony_Krzyż) converted *Vpered* into a hospital of about 120 beds. According to Russian sources, at the end of April the Russian foreign ministry notified the enemy states that the ship had the status of a hospital ship. The British later claimed that she carried all the required Red Cross markings. *Vpered* was to collect wounded from the coast along which the Caucasus Army was advancing westwards, and which in April had [taken Trebizond](/rosjanie-zdobywaja-trapezunt).
+
+## The attack
+
+That morning the ship was sailing west along the coast from Batumi. According to a telegram from the chief Red Cross plenipotentiary with the Caucasus Army she was bound for [Trebizond](https://pl.wikipedia.org/wiki/Trabzon), according to the British pamphlet for Rize, to collect wounded. There were 67 people on board: doctors, nursing sisters, orderlies and crew. About two and a half miles offshore opposite the village of Vitse (now Fındıklı), between [Hopa](https://pl.wikipedia.org/wiki/Hopa_(Turcja)) and Rize, the ship was hit by a torpedo fired from a long distance. According to some Russian accounts U-38 fired two torpedoes. *Vpered* quickly went to the bottom.
+
+Sixty people were rescued. Among the dead were the ship's commandant, the retired rear-admiral Alfred Wilhelms, as well as stokers, sailors and an orderly. The British pamphlet and the Russian telegram speak of seven victims, uboat.net of eight. The submarine was commanded by Kapitänleutnant Max Valentiner, one of the most successful German submariners of the war. His boat, which had previously operated in the Mediterranean, had been hunting in the Black Sea off the Caucasian coast since June. On 2 July it sank there the British steamer *Rockcliffe*, chartered by the Russian fleet, and on 10 July, two days after *Vpered*, the Russian transport *Florida* off [Sukhumi](https://pl.wikipedia.org/wiki/Suchumi).
+
+## Mutual accusations
+
+Russia again accused Germany of breaking the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku), which protected hospital ships. The German side, as in the case of *Portugal*, claimed that the ship had not carried visible Red Cross markings. The Turks, for their part, maintained that both Russian hospital ships had sunk on mines. In little more than three months the Russians had lost two hospital ships on the same stretch of coast. After the war Valentiner and the commander of U-33, Konrad Gansser, were on the Allied list of persons accused of war crimes, but because of attacks on British ships, not on the Russian hospital ships. Neither of them was ever brought to trial.

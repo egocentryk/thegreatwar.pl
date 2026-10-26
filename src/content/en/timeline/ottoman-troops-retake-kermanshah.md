@@ -1,0 +1,26 @@
+---
+title: Ottoman troops retake Kermanshah
+summary: On 1 July 1916 the Ottoman XIII Corps entered Kermanshah, abandoned overnight by Baratov's Russians. Persian nationalists returned to the city.
+source: wojska-osmanskie-odbijaja-kermanszah
+sourceHash: 3fb22b0b3a61f98f22a00a1ea2ef45416ff2cd31
+---
+
+On 1 July 1916 units of the Ottoman XIII Corps under Colonel Ali Ihsan Bey entered [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), the chief city of western Persia. General Nikolai Baratov's Russians had abandoned it without a fight during the night of 30 June/1 July. This date is given consistently by the British chronology of the war, the British official history of the Mesopotamian campaign (F. J. Moberly) and the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff. General Yevgeny Maslovsky of the staff of the Russian Caucasus Army, who counts days by the Julian calendar, describes it somewhat differently: according to him the Turks attacked the Russians near Kermanshah on 19 June (2 July), and Baratov's corps began to withdraw without a fight only on the night of 20 June (2/3 July). Some more recent studies therefore give 2 July.
+
+## No line of defence
+
+Kermanshah had been in Russian hands since 26 February, when [Baratov's corps took the city](/rosjanie-zajmuja-kermanszah) and drove out the Persian nationalists, Germans and Turks. In the spring Baratov advanced from here as far as Khanaqin, but in June the whole of XIII Corps, sent to Persia on the orders of [Enver Pasha](/postacie/enver-pasza), faced him on the border with Iraq. After the [failed Russian attack on Khanaqin](/osmanska-ofensywa-w-zachodniej-persji) a retreat began, and the Turks [retook Qasr-e Shirin](/wojska-osmanskie-odbijaja-kasr-e-szirin) and advanced into the interior.
+
+The Russians made a stand on a high plateau near Kerend. On 28 June Ali Ihsan attacked them there with his whole corps. All day about 3,000 Russian riflemen beat off the attack, but in the afternoon the Turks turned the right flank and drove back the 1st Zaporozhian Cossack Regiment. Baratov, fearing that his line of retreat would be cut, withdrew towards Kermanshah during the night. Allen and Muratoff stress that in front of the city itself there were no defensive positions on which the Turks could be stopped. Baratov therefore did not try to defend Kermanshah and moved further east.
+
+## The Turks in Kermanshah and Senneh
+
+On the same day as Kermanshah, another Turkish detachment, advancing from Sulaymaniyah, entered Senneh, present-day [Sanandaj](https://pl.wikipedia.org/wiki/Sanandadż), and Kurdish horsemen set off for [Bijar](https://pl.wikipedia.org/wiki/Bidżar), from where a Russian Cossack regiment fell back towards [Hamadan](https://pl.wikipedia.org/wiki/Hamadan). Baratov's main force was also heading there. The retreat was hard. According to Allen and Muratoff many horses died, and in the low-lying, sweltering country before Kangavar hundreds of soldiers fell out of the ranks with malaria, dysentery and sunstroke. Maslovsky writes that the Russian cavalry halted near [Bisotun](https://pl.wikipedia.org/wiki/Bisotun), a day's march east of Kermanshah, the infantry occupied the Asadabad pass, two days' march short of Hamadan, and corps headquarters settled in Hamadan.
+
+Behind the Ottoman army the Persian nationalists, who had taken refuge in Baghdad in the spring, returned to Kermanshah. The Encyclopaedia Iranica states that the Turks allowed these émigrés (*mohajerin*) to set up a provisional government again, headed by Nezam os-Saltaneh Mafi, and an assembly chaired by the cleric Seyyed Hasan Modarres. For Enver and the German general accompanying him, [Otto von Lossow](https://pl.wikipedia.org/wiki/Otto_von_Lossow), this was only the beginning. They hoped that from Kermanshah they could kindle a rising in Persia against the Russians and the British.
+
+## Echoes in Tehran and India
+
+The fall of Kermanshah caused alarm on the Entente side. Moberly writes that on 5 July the British minister in Tehran telegraphed to London and India that the Turks would soon take Hamadan and be able to cut the Russian road to the capital, and that no force could stop their march on [Tehran](https://pl.wikipedia.org/wiki/Teheran). The Commander-in-Chief in India, General Beauchamp Duff, warned that the road through Persia was opening to the enemy all the way to Afghanistan, and pressed for an advance on the Tigris. General Percy Lake, the commander in Mesopotamia, considered these fears exaggerated, however. As he calculated, once Hamadan was taken the Turkish supply line from Baghdad would lengthen to more than 500 kilometres. Heat and disease also prevented him from attacking on the Tigris.
+
+Ali Ihsan was indeed in no hurry to march further. According to Allen and Muratoff he stood for five weeks on the line Bijar – Senneh – Kermanshah, because he himself was afraid to venture into the vastness of the Iranian Plateau, and his corps was being decimated by disease. Only under pressure from Enver and Lossow did he move on in August, taking Hamadan on 10 August. Kermanshah remained in Turkish hands until March 1917, when after the fall of Baghdad XIII Corps had to withdraw from Persia and Baratov's Russians returned to the city.

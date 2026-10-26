@@ -1,0 +1,26 @@
+---
+title: Conscription comes into force in New Zealand
+summary: On 1 September 1916 the Governor of New Zealand proclaimed enrolment for the Expeditionary Force Reserve. The Military Service Act began to work in practice.
+source: wejscie-w-zycie-poboru-w-nowej-zelandii
+sourceHash: 4d1defa5179229abb68a1d32247c06ee8ac25097
+---
+
+At 10 a.m. on 1 September 1916, at Government House in [Wellington](https://pl.wikipedia.org/wiki/Wellington), the Governor of [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia), Lord Liverpool ([Arthur Foljambe](https://pl.wikipedia.org/wiki/Arthur_Foljambe)), signed a proclamation by which he "proclaimed and directed" the enrolment of the first division of the Expeditionary Force Reserve. Half an hour later it appeared in an extraordinary issue of the official gazette. The Wellington *Evening Post* called it the first great step towards carrying out the Military Service Act. The next morning, at a special meeting of the Executive Council, the Governor signed a second proclamation, concerning the second division of the reserve. The British chronology of the war records under 1 September that the New Zealand compulsory military service act came into force.
+
+## The Act and its execution
+
+The Military Service Act, [passed by the House of Representatives in June](/pobor-w-nowej-zelandii), had been promulgated as law as early as 1 August. The Act itself, however, called no one up. First a reserve had to be assembled, from which the army could then draw recruits by ballot, and for that the Governor's proclamations were needed. The government entrusted the execution of the Act, in everything it did not regulate directly, to the Recruiting Board, chaired by the Prime Minister, [William Massey](https://pl.wikipedia.org/wiki/William_Massey). On 18 August Massey announced on its behalf that the enrolment of the first division would be proclaimed on Friday 1 September, and that of the second on Saturday 2 September.
+
+The first division comprised bachelors, men who had married after 1 May 1915, provided they had no child under 16 from an earlier marriage, as well as childless widowers and men who were divorced or separated, if they had no children under 16. The second division was made up of all the rest, that is, married men. The Board explained that compulsion would be applied to the second division only once the first had been exhausted, but everyone had to enrol at once. Both proclamations were issued almost simultaneously so that every married man could receive a certificate of enrolment from the outset.
+
+## Who had to enrol, and how
+
+The reserve consisted of men living in New Zealand who were natural-born British subjects, aged from 20 to 46. The only exemptions were soldiers already training in camps, men discharged from service because of disability or illness, and prisoners serving sentences of more than a year. Sons of parents from enemy countries, even naturalised ones, could be excluded from the reserve. The basis of the register was the national register of men of November 1915. Anyone already included in it did not have to enrol again, but if he had changed address he had to notify the Government Statistician, Malcolm Fraser. Anyone who had not registered had to fill in an enrolment card. All this had to be done by registered letter within two weeks of the proclamation, that is, by 15 September for the first division and by 16 September for the second. Forms and prepaid envelopes were waiting at every post office.
+
+The Act provided for severe penalties. Anyone who could be taken for a man of military age could be stopped in the street and questioned by a policeman, and employers were forbidden to employ unenrolled reservists on pain of heavy fines and even imprisonment. In every case it was for the accused to prove that he had fulfilled his obligation. Those enrolled could hope for luck in the ballot, the unenrolled could be sent straight to camp, and those who had failed to report a change of address faced a charge of desertion. The proof of enrolment was to be a certificate that every reservist was supposed to carry with him. Posters, newspaper notices and lantern slides shown in public reminded people of these obligations throughout the country, and the government made displaying them compulsory under the war regulations.
+
+## The first days
+
+According to the *Evening Post*, there was considerable demand for enrolment cards and applications for certificates on the very first day, and much greater on the second. Soon the offices could not keep up with issuing certificates, so in the first week of September the Recruiting Board decided that the Government Statistician's acknowledgement of receipt of an application would serve as temporary proof of enrolment. The government also stressed that as long as volunteers sufficed to fill the successive drafts, no one would be called up compulsorily from the reserve.
+
+Volunteers, however, did not suffice. The first ballot was held on 16 November 1916. In neighbouring [Australia](https://pl.wikipedia.org/wiki/Australia), too, the question of conscription was then entering its decisive phase: at the end of August Prime Minister [Billy Hughes](/postacie/billy-hughes) announced that voters would decide on its introduction in a referendum.

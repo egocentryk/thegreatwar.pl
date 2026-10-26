@@ -1,0 +1,20 @@
+---
+title: End of the Battle of Baranovichi
+summary: On 9 July 1916 Evert halted the attack at Baranovichi. After a week of assaults the Fourth Army had won scraps of trench, losing 80,000 men by Austrian figures.
+source: koniec-bitwy-pod-baranowiczami
+sourceHash: 2df88793560cee86fb1ed8f10c769c80ec53e41b
+---
+
+On 9 July 1916 (26 June in the Julian calendar) silence fell at [Baranovichi](https://pl.wikipedia.org/wiki/Baranowicze). The next assault the Germans and Austrians expected did not come. According to Russian accounts it was prevented by morning mist, and that same day Stavka left it to the commander of the Western Front, General [Alexei Evert](/postacie/aleksiej-ewert), to decide whether he wished to continue the attack. Evert suspended the attack of the [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(Imperium_Rosyjskie)) until the arrival of IV Siberian Corps. Later he postponed it several more times, and finally called it off, citing a shortage of shells. The battle that was to have been the main blow of the Russian army in 1916 ended after a week.
+
+## A week of assaults
+
+[The attack began on 2 July](/poczatek-bitwy-pod-baranowiczami) with a day-long bombardment, and before dawn on 3 July the Russian infantry struck the Austro-Hungarian XII Corps on the [Servech](https://pl.wikipedia.org/wiki/Serwecz_(dopływ_Niemna)) river. It broke into the positions of the 16th Infantry Division and pushed one of its brigades back to the second line, but German reserves, gathered from the whole front, plugged the gap. In the south the attacks on the German Silesian Landwehr at Darevo broke down under fire. When the attack was renewed on 4 and 5 July, with III Caucasian Corps entering the fighting, the Russians took the second line of trenches in places, but broke through no further. On 8 July, from 2 a.m., after a day-long bombardment the previous day, six divisions, including the fresh III Siberian Corps, assaulted the positions between Tsyryn and Zaosye. The Austrian official history writes of waves of infantry advancing in ten or twelve ranks and breaking down in the barrage. According to Russian accounts some regiments attacked four times that day, and in the centre advanced two kilometres at most.
+
+## The balance
+
+According to the Austrian official history, the Russians lost 80,000 men at Baranovichi, a figure "exceptionally high even by Russian standards". The Russian historian Aleksei Oleynikov, citing the archives, gives a similar figure: up to 80,000, including about 30,000 killed. German and Austro-Hungarian losses were many times smaller. Russian accounts estimate them at 13,000–25,000, and official German figures, cited by Sergei Nelipovich, at about 6,500 in the whole army of General [Remus von Woyrsch](https://pl.wikipedia.org/wiki/Remus_von_Woyrsch). The Russians took about 4,000 prisoners. The Austro-Hungarian 31st Infantry Brigade suffered most, losing about 5,000 men in the first days.
+
+Stavka drew far-reaching conclusions from the defeat. After the March disaster [at Lake Naroch](/bitwy/bitwa-nad-jeziorem-narocz), it was the Western Front's second failed attempt of 1916. The Austrian official history wrote that "the sense of German superiority weighed like a nightmare on commanders and soldiers". Orders issued on 9 July shifted the weight of the summer campaign to the South-Western Front of General [Aleksei Brusilov](/postacie/aleksiej-brusilow), which was to take Kovel. It was given further corps, and soon the Guard as well. In those same days his armies broke the front on the Styr, where in the [Battle of Kostiuchnówka](https://pl.wikipedia.org/wiki/Bitwa_pod_Kostiuchnówką) the Russian advance was held up for three days by the Polish Legions, and pushed the forces of the Central Powers back behind the Stokhod.
+
+At Baranovichi the fighting flared up again. On 14 July the Germans retook some of the lost trenches in a counter-attack, and from 25 to 29 July the Fourth Army once more, just as fruitlessly, assaulted the same positions.

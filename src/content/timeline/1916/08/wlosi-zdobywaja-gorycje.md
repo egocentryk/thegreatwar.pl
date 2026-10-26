@@ -1,6 +1,6 @@
 ---
 title: Włosi zdobywają Gorycję
-summary: 9 sierpnia 1916 wojska włoskie wkroczyły do Gorycji, opuszczonej nocą przez Austriaków. Było to pierwsze duże miasto Austro-Węgier zdobyte przez Ententę.
+summary: 9 sierpnia 1916 wojska włoskie wkroczyły do Gorycji, opuszczonej nocą przez Austriaków. Było to pierwsze duże miasto Austro-Węgier zdobyte przez Włochów.
 category: Działania zbrojne
 front: Front włoski
 battle: szosta-bitwa-nad-isonzo
@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 sierpnia 1916 roku wojska włoskie wkroczyły do [Gorycji](https://pl.wikipedia.org/wiki/Gorycja), miasta nad [Soczą](https://pl.wikipedia.org/wiki/Socza), o które od czerwca 1915 roku stoczyły pięć krwawych i bezowocnych bitew. Austro-węgierscy obrońcy opuścili je w nocy, wycofując się na wzgórza na wschód od miasta. Gorycja była pierwszym dużym miastem Austro-Węgier, a zarazem pierwszym dużym miastem państw centralnych, które zdobyły wojska Ententy. We Włoszech wiadomość o jej zajęciu wywołała prawdziwy wybuch radości.
+9 sierpnia 1916 roku wojska włoskie wkroczyły do [Gorycji](https://pl.wikipedia.org/wiki/Gorycja), miasta nad [Soczą](https://pl.wikipedia.org/wiki/Socza), o które od czerwca 1915 roku stoczyły pięć krwawych i bezowocnych bitew. Austro-węgierscy obrońcy opuścili je w nocy, wycofując się na wzgórza na wschód od miasta. Gorycja była pierwszym dużym miastem Austro-Węgier, które zdobyli Włosi. We Włoszech wiadomość o jej zajęciu wywołała prawdziwy wybuch radości.
 
 ## Upadek przedmościa
 
