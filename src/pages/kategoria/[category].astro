@@ -1,29 +1,18 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content"
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
-import { slugify } from "@/utils/slugify"
+import { categoryGroups, type Group } from "@/utils/filteredPages"
+import type { CollectionEntry } from "astro:content"
 
 export async function getStaticPaths() {
-  const entries = await getCollection("timeline", ({ data }) => !data.draft)
-  const categories = new Map<string, CollectionEntry<"timeline">[]>()
-
-  for (const entry of entries) {
-    const name = entry.data.category
-    categories.set(name, [...(categories.get(name) ?? []), entry])
-  }
-
-  return [...categories].map(([name, entries]) => ({
-    params: { category: slugify(name) },
-    props: { name, entries },
+  return (await categoryGroups()).map((group) => ({
+    params: { category: group.slug },
+    props: group,
   }))
 }
 
-interface Props {
-  name: string
-  entries: CollectionEntry<"timeline">[]
-}
+type Props = Group<CollectionEntry<"timeline">>
 
-const { name, entries } = Astro.props
+const { slug, name, entries } = Astro.props
 ---
 
-<FilteredTimeline label="Kategoria" name={name} entries={entries} />
+<FilteredTimeline label="Kategoria" name={name} entries={entries} base={`/kategoria/${slug}`} />

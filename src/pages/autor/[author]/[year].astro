@@ -1,0 +1,28 @@
+---
+import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { extraYears, authorGroups, type Group } from "@/utils/filteredPages"
+import type { CollectionEntry } from "astro:content"
+
+// Later years of a long list (utils/filteredPages.ts); the first year is on
+// the main page.
+export async function getStaticPaths() {
+  return (await authorGroups()).flatMap((group) =>
+    extraYears(group.entries, `/autor/${group.slug}`).map((year) => ({
+      params: { author: group.slug, year: String(year) },
+      props: { ...group, year },
+    })),
+  )
+}
+
+type Props = Group<CollectionEntry<"timeline">> & { year: number }
+
+const { slug, name, entries, year } = Astro.props
+---
+
+<FilteredTimeline
+  label="Autor"
+  name={name}
+  entries={entries}
+  base={`/autor/${slug}`}
+  year={year}
+/>

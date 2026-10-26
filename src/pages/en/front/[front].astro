@@ -1,34 +1,28 @@
 ---
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
 import { frontEn } from "@/i18n"
-import { localEvents, type LocalEvent } from "@/i18n/local"
+import type { LocalEvent } from "@/i18n/local"
+import { frontGroupsEn, type Group } from "@/utils/filteredPages"
 import { slugify } from "@/utils/slugify"
 
 export async function getStaticPaths() {
-  const fronts = new Map<string, LocalEvent[]>()
-  for (const entry of await localEvents("en")) {
-    const key = entry.data.frontKey
-    if (!key) continue
-    fronts.set(key, [...(fronts.get(key) ?? []), entry])
-  }
-  return [...fronts].map(([key, entries]) => ({
-    params: { front: slugify(frontEn(key)) },
-    props: { frontKey: key, entries },
+  return (await frontGroupsEn()).map((group) => ({
+    params: { front: group.slug },
+    props: group,
   }))
 }
 
-interface Props {
-  frontKey: string
-  entries: LocalEvent[]
-}
+// `name` is the Polish front name (the key); the page shows frontEn(name).
+type Props = Group<LocalEvent>
 
-const { frontKey, entries } = Astro.props
+const { slug, name, entries } = Astro.props
 ---
 
 <FilteredTimeline
   label="Front"
-  name={frontEn(frontKey)}
+  name={frontEn(name)}
   entries={entries}
+  base={`/en/front/${slug}`}
   lang="en"
-  alternates={{ pl: `/front/${slugify(frontKey)}` }}
+  alternates={{ pl: `/front/${slugify(name)}` }}
 />

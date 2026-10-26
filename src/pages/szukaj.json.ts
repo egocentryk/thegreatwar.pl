@@ -1,35 +1,22 @@
 import type { APIRoute } from "astro"
 import { getCollection } from "astro:content"
-import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { formatDateRange } from "@/utils/formatDate"
+import { packIndex, type SearchSource } from "@/utils/searchIndex"
 
 // Search index for the homepage and /szukaj, fetched only when someone
-// starts searching. Short keys keep the file small.
-export interface SearchDoc {
-  h: string // href
-  t: string // title
-  s: string // summary
-  d: string // date label
-  k: string // sort key (ISO start date)
-  y: "e" | "b" // event or battle
-  g: string // tags, front and category, space-separated
-  m: boolean // milestone
-}
-
+// starts searching. Packed format: utils/searchIndex.ts.
 export const GET: APIRoute = async () => {
   const entries = await getCollection("timeline", ({ data }) => !data.draft)
   const battles = await getCollection("battles", ({ data }) => !data.draft)
 
-  const docs: SearchDoc[] = [
+  const docs: SearchSource[] = [
     ...entries.map((entry) => ({
       h: `/${entry.id}`,
       t: entry.data.title,
       s: entry.data.summary,
-      d: formatDate(entry.data.date),
       k: entry.data.date.toISOString().slice(0, 10),
       y: "e" as const,
-      g: [...entry.data.tags, entry.data.front ?? "", entry.data.category].join(
-        " ",
-      ),
+      g: [...entry.data.tags, entry.data.front ?? "", entry.data.category],
       m: entry.data.milestone,
     })),
     ...battles.map((battle) => ({
@@ -43,12 +30,12 @@ export const GET: APIRoute = async () => {
         battle.data.front,
         battle.data.location,
         ...battle.data.sides.flatMap((side) => [side.name, ...side.commanders]),
-      ].join(" "),
+      ],
       m: battle.data.milestone,
     })),
   ]
 
-  return new Response(JSON.stringify(docs), {
+  return new Response(JSON.stringify(packIndex(docs)), {
     headers: { "Content-Type": "application/json; charset=utf-8" },
   })
 }

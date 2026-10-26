@@ -42,6 +42,7 @@ const scriptText =
     ? JSON.stringify({
         index: to.searchIndex,
         page: to.search,
+        locale: "en-GB",
         searching: "Searching…",
         battle: "Battle",
         event: "Event",
@@ -173,7 +174,7 @@ const scriptText =
 </section>
 
 <script>
-  import type { SearchDoc } from "@/pages/szukaj.json"
+  import { unpackIndex, type PackedIndex, type SearchDoc } from "@/utils/searchIndex"
 
   // Lowercase and strip Polish diacritics one character at a time, so the
   // normalized text keeps the original's length and match positions map back
@@ -208,6 +209,7 @@ const scriptText =
   const POLISH = {
     index: "/szukaj.json",
     page: "/szukaj",
+    locale: "pl-PL",
     searching: "Szukam…",
     battle: "Bitwa",
     person: "Postać",
@@ -225,13 +227,13 @@ const scriptText =
 
   let index: Promise<Indexed[]> | undefined
   let indexUrl = ""
-  function loadIndex(url: string) {
+  function loadIndex(url: string, locale: string) {
     if (url !== indexUrl) index = undefined
     indexUrl = url
     index ??= fetch(url)
-      .then((response) => (response.ok ? response.json() : []))
-      .then((docs: SearchDoc[]) =>
-        docs.map((doc) => ({
+      .then((response) => (response.ok ? response.json() : null))
+      .then((packed: PackedIndex | null) =>
+        (packed ? unpackIndex(packed, locale) : []).map((doc) => ({
           doc,
           title: fold(doc.t),
           summary: fold(doc.s),
@@ -351,7 +353,7 @@ const scriptText =
       }
 
       status.textContent = text.searching
-      const items = await loadIndex(text.index)
+      const items = await loadIndex(text.index, text.locale)
       if (input.value.trim() !== query) return
       const { tokens, hits } = search(items, query)
 
@@ -391,7 +393,7 @@ const scriptText =
       }
     }
 
-    input.addEventListener("focus", () => loadIndex(text.index), { once: true })
+    input.addEventListener("focus", () => loadIndex(text.index, text.locale), { once: true })
     input.addEventListener("input", () => {
       window.clearTimeout(timer)
       timer = window.setTimeout(run, 120)

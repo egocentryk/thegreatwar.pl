@@ -1,23 +1,23 @@
 import type { APIRoute } from "astro"
-import type { SearchDoc } from "@/pages/szukaj.json"
 import { localBattles, localEvents } from "@/i18n/local"
-import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { formatDateRange } from "@/utils/formatDate"
+import { packIndex, type SearchSource } from "@/utils/searchIndex"
 
-// English search index: translated events and battles only.
+// English search index: translated events and battles only. Packed format:
+// utils/searchIndex.ts.
 export const GET: APIRoute = async () => {
   const [events, battles] = await Promise.all([
     localEvents("en"),
     localBattles("en"),
   ])
-  const docs: SearchDoc[] = [
+  const docs: SearchSource[] = [
     ...events.map((e) => ({
       h: e.href,
       t: e.data.title,
       s: e.data.summary,
-      d: formatDate(e.data.date, "long", undefined, "en-GB"),
       k: e.data.date.toISOString().slice(0, 10),
       y: "e" as const,
-      g: [e.data.front ?? "", e.data.category].join(" "),
+      g: [e.data.front ?? "", e.data.category],
       m: e.data.milestone,
     })),
     ...battles.map((b) => ({
@@ -31,11 +31,11 @@ export const GET: APIRoute = async () => {
         b.data.front,
         b.data.location,
         ...b.data.sides.flatMap((side) => [side.name, ...side.commanders]),
-      ].join(" "),
+      ],
       m: b.data.milestone,
     })),
   ]
-  return new Response(JSON.stringify(docs), {
+  return new Response(JSON.stringify(packIndex(docs)), {
     headers: { "Content-Type": "application/json; charset=utf-8" },
   })
 }

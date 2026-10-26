@@ -1,0 +1,34 @@
+---
+import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { extraYears, frontGroups, frontGroupsEn, yearLinks, type Group } from "@/utils/filteredPages"
+import type { CollectionEntry } from "astro:content"
+
+// Later years of a long list (utils/filteredPages.ts); the first year is on
+// the main page.
+export async function getStaticPaths() {
+  return (await frontGroups()).flatMap((group) =>
+    extraYears(group.entries, `/front/${group.slug}`).map((year) => ({
+      params: { front: group.slug, year: String(year) },
+      props: { ...group, year },
+    })),
+  )
+}
+
+type Props = Group<CollectionEntry<"timeline">> & { year: number }
+
+const { slug, name, entries, year } = Astro.props
+// The English page for the same year, when the English list is split too.
+const en = (await frontGroupsEn()).find((group) => group.name === name)
+const enHref = en
+  ? yearLinks(en.entries, `/en/front/${en.slug}`)?.find((link) => link.year === year)?.href
+  : undefined
+---
+
+<FilteredTimeline
+  label="Front"
+  name={name}
+  entries={entries}
+  base={`/front/${slug}`}
+  year={year}
+  alternates={enHref ? { en: enHref } : undefined}
+/>

@@ -5,27 +5,37 @@ import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { locale, type Alternates, type Lang } from "@/i18n"
 import { paths, type LocalEvent } from "@/i18n/local"
+import { yearLinks } from "@/utils/filteredPages"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 
-// Timeline page for a single tag, category or front.
+// Timeline page for a single tag, category, author or front. Long lists are
+// split by year (utils/filteredPages.ts): `base` is the main page's URL and
+// `year` the year shown on <base>/<year>.
 interface Props {
   label: string
   name: string
   entries: (CollectionEntry<"timeline"> | LocalEvent)[]
+  base: string
+  year?: number
   lang?: Lang
   alternates?: Alternates
 }
 
-const { label, name, entries, lang = "pl", alternates } = Astro.props
-const timelineByYear = groupTimelineEntries(entries, locale(lang))
+const { label, name, entries, base, year, lang = "pl", alternates } = Astro.props
+const years = yearLinks(entries, base)
+const activeYear = years ? (year ?? years[0].year) : undefined
+const timelineByYear = groupTimelineEntries(entries, locale(lang)).filter(
+  (group) => activeYear === undefined || group.year === activeYear,
+)
 const description =
   lang === "en"
-    ? `Events – ${label.toLowerCase()}: ${name}.`
-    : `Wydarzenia — ${label.toLowerCase()}: ${name}.`
+    ? `Events – ${label.toLowerCase()}: ${name}${activeYear ? `, ${activeYear}` : ""}.`
+    : `Wydarzenia — ${label.toLowerCase()}: ${name}${activeYear ? `, ${activeYear}` : ""}.`
+const title = `${label}: ${name}${year ? ` (${year})` : ""}`
 ---
 
 <BaseLayout
-  title={`${label}: ${name}`}
+  title={title}
   description={description}
   lang={lang}
   alternates={alternates}
@@ -45,6 +55,28 @@ const description =
     </h1>
 
     <SectionHeading eyebrow={label} count={entries.length} />
+    {
+      years && (
+        <nav
+          class="border-line font-display -mt-2 mb-10 flex flex-wrap gap-x-6 gap-y-3 border-b pb-4 text-2xl leading-none font-medium sm:gap-x-8 sm:text-3xl"
+          aria-label={lang === "en" ? "Years" : "Lata"}
+        >
+          {years.map((link) => (
+            <a
+              href={link.href}
+              aria-current={link.year === activeYear ? "page" : undefined}
+              class:list={[
+                "transition-colors",
+                link.year === activeYear ? "text-signal" : "text-ink-soft hover:text-ink",
+              ]}
+            >
+              {link.year}
+              <span class="ml-1 align-super font-mono text-[10px] font-normal">{link.count}</span>
+            </a>
+          ))}
+        </nav>
+      )
+    }
     <TimelineArchive
       timelineByYear={timelineByYear}
       renderAllYears={true}

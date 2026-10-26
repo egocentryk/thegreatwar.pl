@@ -287,6 +287,124 @@ are tag, category and author pages, which have no English version.
 
 ---
 
+## 3. Performance: long list pages split by year (2026-10-26)
+
+**Problem:** about 20 tag, category, author and front pages rendered
+300–1,400 rows at once:
+
+| Page | Rows | Size |
+|---|---|---|
+| `/kategoria/dzialania-zbrojne` | 1,381 | 669 KB |
+| `/tag/niemcy` | 844 | 442 KB |
+
+**Change:**
+
+- New `src/utils/filteredPages.ts`:
+  - `SPLIT_THRESHOLD = 300`.
+  - `yearLinks(entries, base)` returns the year menu (`{ year, href, count }`)
+    of a list longer than the threshold. The first year's href is the main
+    page itself, so no content exists at two URLs.
+  - `extraYears(entries, base)` returns the years that get their own page,
+    which is every year except the first.
+  - The group builders `tagGroups`, `categoryGroups`, `authorGroups`,
+    `frontGroups` and `frontGroupsEn` return `{ slug, name, entries }`. They
+    replace the grouping code that each route used to have.
+- `FilteredTimeline.astro` takes two new props:
+  - `base`, the main page URL;
+  - `year`, set on a year page.
+
+  When the list is split, it shows a year menu with counts under the section
+  heading, renders only the active year, and puts the year in the title
+  ("Tag: Niemcy (1916)") and the description.
+- Main routes now use the shared groups and pass `base`:
+  - `src/pages/tag/[tag].astro`
+  - `src/pages/kategoria/[category].astro`
+  - `src/pages/autor/[author].astro`
+  - `src/pages/front/[front].astro`
+  - `src/pages/en/front/[front].astro`
+- New year routes, next to the main routes:
+  - `src/pages/tag/[tag]/[year].astro`
+  - `src/pages/kategoria/[category]/[year].astro`
+  - `src/pages/autor/[author]/[year].astro`
+  - `src/pages/front/[front]/[year].astro`
+  - `src/pages/en/front/[front]/[year].astro`
+- Front year pages link to the other language's page for the same year, and
+  only when that list is split too. So hreflang never points at a missing
+  page.
+
+**Result:** 64 year pages in total.
+
+| Page | Before | After (first year) |
+|---|---|---|
+| `/kategoria/dzialania-zbrojne` | 1,381 rows, 669 KB | 315 rows, 166 KB raw / 31 KB gz |
+| `/tag/niemcy` | 844 rows, 442 KB | 196 rows, 120 KB |
+
+Every old URL still exists; the slugs were compared with the previous build.
+
+**Port:** thesecondwar.pl covers more years, so lists split into more pages.
+Check that the year menu wraps well on a phone (390 px); in thegreatwar.pl it
+wraps into two lines.
+
+## 4. Performance: packed search index (2026-10-26)
+
+**Problem:** `szukaj.json` (1.2 MB raw / 325 KB gz) and `en/search.json`
+(1.06 MB / 268 KB gz) were arrays of objects:
+- every key was repeated in every document;
+- tags, fronts, places and commanders were repeated as text;
+- every event carried a date label that can be derived from its ISO date.
+
+**Change:**
+
+- New `src/utils/searchIndex.ts`. It has no Astro imports, because the
+  browser bundles it.
+  - `SearchDoc` is the shape the search script uses (unchanged).
+  - `SearchSource` is what the endpoints provide.
+  - `PackedIndex` is the columnar file format:
+    - `terms` is a dictionary of tags, fronts, places and commanders;
+    - `h`, `t`, `s` and `k` are arrays;
+    - `f` holds bit flags: 1 = battle, 2 = milestone;
+    - `g` holds term ids per document;
+    - `d` holds date labels for battles only, which are ranges.
+  - `packIndex(docs)` writes the format; `unpackIndex(index, locale)` reads
+    it.
+  - Event date labels are made in the browser with
+    `Intl.DateTimeFormat(locale, { timeZone: "UTC", dateStyle: "long" })`,
+    the same call as `formatDate()` on the server.
+- `src/pages/szukaj.json.ts` and `src/pages/en/search.json.ts` build
+  `SearchSource[]` (`g` as an array, `d` only for battles) and return
+  `packIndex(docs)`. The `SearchDoc` type moved from `szukaj.json.ts` to the
+  util.
+- `Search.astro`:
+  - `loadIndex(url, locale)` unpacks the index, then builds the same
+    `Indexed` items as before.
+  - The script text gets `locale` (`pl-PL`, or `en-GB` on the English page).
+  - Search, ranking, stemming and highlighting are unchanged.
+
+**Result:**
+
+| Index | Before | After |
+|---|---|---|
+| Polish | 1.20 MB raw / 325 KB gz | 857 KB / 278 KB gz |
+| English | 1.06 MB / 268 KB gz | 816 KB / 244 KB gz |
+
+About half of the remaining size is summaries, which search needs for
+matching and display.
+
+**Verify:**
+- Unpack the new file and compare it with the old JSON. Copy the old
+  `dist/szukaj.json` before building, and normalise spaces in `g`, because
+  empty fronts no longer leave a double space. In thegreatwar.pl, 2,934 docs
+  per language had 0 differences.
+- Then search in the browser: `/szukaj?q=Verdun`, `/en/search?q=Pilsudski`,
+  and the homepage box with "Warszawę". Check the date labels and the counts.
+
+**Not done (option):** load in two stages. First load titles, terms and dates
+(about 110 KB gz) and show results at once; then load summaries and re-run
+the search. Pagefind was ruled out: it would replace the custom Polish
+stemming and ranking.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -302,17 +420,12 @@ finished, tick it here and add its section above.
 - [x] Timeline list rows: short component classes, ~40% smaller list pages
   (§1d)
 - [x] Long lists: `content-visibility` on month blocks (§1e)
-- [ ] Split the longest list pages (more than ~300 rows) into per-year pages.
-  - Example: `/tag/niemcy/1916`.
-  - The main page would keep a year list with counts.
-  - Candidates: the author pages, `/kategoria/dzialania-zbrojne`, the big
-    country tags and fronts.
-- [ ] Make the search index smaller (`szukaj.json` 1.2 MB / 325 KB gz,
-  `en/search.json` 1.06 MB). It loads only when someone starts searching.
-  Options:
-  - drop the `d` field (date label) and format it from `k` on the client;
-  - split the index by year;
-  - switch to Pagefind.
+- [x] Split the longest list pages (more than 300 rows) into per-year pages
+  (§3)
+- [x] Make the search index smaller: packed columnar format, −29% raw / −14% gz
+  (§4)
+- [ ] Optional: load the search index in two stages (titles first, then
+  summaries) for faster first results (see §4)
 
 ### 2. English edition gaps
 - [ ] English tag, category and author pages (`/en/tag/…`,
