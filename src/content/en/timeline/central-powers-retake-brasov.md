@@ -1,0 +1,24 @@
+---
+title: Central Powers retake Brașov
+summary: On 9 October 1916, after two days of street fighting, German and Hungarian troops took Brașov. The Romanian Second Army fell back at night to the passes.
+source: panstwa-centralne-odbijaja-braszow
+sourceHash: afa31c45bc67b6b6887fcb70892125dc3c0108e9
+---
+
+On the morning of 9 October 1916 German and Hungarian troops occupied the whole of [Brașov](https://pl.wikipedia.org/wiki/Braszów), Kronstadt in German, Brassó in Hungarian. The Romanian Second Army, which since 7 October had been defending the city and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), had withdrawn during the night towards the Carpathian passes. The Austrian official history writes that on that day the rising sun "shone over the Burzenland on a field of Allied victory". In Romania, where the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) was still in use, it was 26 September.
+
+## Two days of fighting
+
+The fighting for the city began on the afternoon of 7 October, when the German 187th Division and the Hungarian 51st Honvéd Division approached Brașov from the north and west. The Romanian 4th Division, turned back at the last moment, gave battle, and in the evening the German 189th Infantry Regiment broke into the northern part of the city. On 8 October the Germans pushed the Romanians south house by house, while the Hungarians took the fortified hills west of the city in hand-to-hand fighting. Romanian counter-attacks from the direction of Sânpetru against the flank of the 187th Division were beaten off. In the evening the commander of the Second Army, General Grigore Crăiniceanu, issued guidelines for a retreat in case of defeat. During the night they came into effect.
+
+## The morning of 9 October
+
+The Romanian divisions fell back to the mouths of the passes: the 4th and 21st Divisions towards the [Predeal Pass](https://pl.wikipedia.org/wiki/Predeal_(przełęcz)), through which ran the railway to Bucharest, the 3rd Division to the pass south-east of the city, and the 12th Brigade towards the Buzău Pass. According to the American historian Michael Barrett, German machine guns fired on the departing columns, and the Romanians abandoned many trains with guns, ammunition and supplies. Barrett also writes that at dawn the German 187th Infantry Regiment entered the city, welcomed by the local [Transylvanian Saxons](https://pl.wikipedia.org/wiki/Sasi_siedmiogrodzcy), and that by the railway station the Germans found the bodies of an entire Romanian company, wiped out by machine guns. The Hungarian division was given the task of clearing and securing the city. The Allies set off after the Romanian rearguards, but there was no more serious fighting. By evening the 51st Honvéd Division stood at the entrance to the Predeal Pass, and the 187th Division at the mouth of another pass.
+
+According to the Austrian official history, in Brașov the victors captured about 200 railway wagons of food, and during the battle 25 guns. They took few prisoners: Barrett gives a figure of 1,175. Falkenhayn, who that day watched the Romanians fleeing into the mountains from the ruins of the castle at Feldioara (Marienburg), explained this by the Romanians' ability to vanish quickly into the mountains. Romanian rule in the city, which the Romanian 4th Division had occupied [on 29 August](/rumuni-zajmuja-braszow), had lasted about 40 days. The mayor, Gheorghe Baiulescu, and many local Romanians who had then welcomed the Romanian army fled together with it.
+
+## What came next
+
+After the defeat Crăiniceanu lost his command, and General [Alexandru Averescu](/postacie/alexandru-averescu) once again took charge of the Second Army. According to the Austrian official history, still on 9 October the new commander concluded that at the mouths of the passes his troops would be destroyed by German heavy artillery, and ordered a defence deeper in the mountain valleys. In a report to the King he wrote of the soldiers' dejection and warned that if the enemy did not give him time, a further retreat would be necessary. Falkenhayn, meanwhile, decided to pursue the Romanians through all the passes between the Red Tower Pass and the Buzău Pass and to cross the mountains together with them, in the direction of [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt).
+
+This hope was not fulfilled. Fatigue was also telling on the victors, and the Romanians managed to man the fortifications on the frontier. The victory at Brașov, which sealed the Romanians' defeat in [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), opened a new stage of the campaign: several weeks of fighting for the Carpathian passes.

@@ -22,7 +22,7 @@ Rocznica miała znaczenie. 19 listopada 1912 roku, w czasie [I wojny bałkański
 
 ## Miasto bez obrońców
 
-Bitola padła, bo straciła ją obrona na wschodzie. W zakolu Czarnej Rzeki Serbowie i francuscy zuawi wypierali Bułgarów i Niemców ze wzgórza na wzgórze, a 18 listopada serbska Dywizja Dunajska zajęła wzgórze 1378, najwyższy punkt okolicy. Z tych wysokości działa mogły ostrzeliwać nie tylko miasto, ale i jedyną drogę odwrotu przez most pod Novakiem. Dowódca niemieckiej grupy armii, generał [Otto von Below](/postacie/otto-von-below), postanowił więc oddać Bitolę, mimo sprzeciwu bułgarskiego naczelnego wodza, generała [Nikoły Żekowa](/postacie/nikola-zekow). Agencja Reutera donosiła z Salonik, że przed odejściem przeciwnika nad miastem widać było wielkie pożary i słychać silne wybuchy. Bułgarzy i Niemcy niszczyli składy, mosty i tory kolei z Kenali.
+Bitola padła, bo straciła ją obrona na wschodzie. W zakolu Czarnej Rzeki Serbowie i francuscy żuawi wypierali Bułgarów i Niemców ze wzgórza na wzgórze, a 18 listopada serbska Dywizja Dunajska zajęła wzgórze 1378, najwyższy punkt okolicy. Z tych wysokości działa mogły ostrzeliwać nie tylko miasto, ale i jedyną drogę odwrotu przez most pod Novakiem. Dowódca niemieckiej grupy armii, generał [Otto von Below](/postacie/otto-von-below), postanowił więc oddać Bitolę, mimo sprzeciwu bułgarskiego naczelnego wodza, generała [Nikoły Żekowa](/postacie/nikola-zekow). Agencja Reutera donosiła z Salonik, że przed odejściem przeciwnika nad miastem widać było wielkie pożary i słychać silne wybuchy. Bułgarzy i Niemcy niszczyli składy, mosty i tory kolei z Kenali.
 
 ## Radość i rozczarowanie
 

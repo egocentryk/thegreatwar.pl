@@ -6,7 +6,7 @@ country: Grecja
 side: Ententa
 born: 1851-04-20
 died: 1919-08-05
-birthPlace: Korfu (Grecja)
+birthPlace: Korfu (Wyspy Jońskie, dziś Grecja)
 deathPlace: Ateny
 aliases: [Spiridon Lambros]
 wikiTitles: [Spiridon_Lambros]
