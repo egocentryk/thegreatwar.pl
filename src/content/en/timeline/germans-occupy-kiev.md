@@ -1,0 +1,26 @@
+---
+title: Germans occupy Kiev
+summary: On 1–2 March 1918 Ukrainian People's Republic troops entered Kiev, followed by the Germans. The Central Rada soon returned, but under German protection.
+source: niemcy-zajmuja-kijow
+sourceHash: da57933955bc4d43f5e519d83176936792d56efe
+---
+
+At the beginning of March 1918 [Kiev](https://pl.wikipedia.org/wiki/Kijów) changed hands once again within a few weeks. The Bolsheviks, who had captured the city on 9 February, left it without a fight. On 1 March troops of the [Ukrainian People's Republic](https://pl.wikipedia.org/wiki/Ukraińska_Republika_Ludowa) entered it, and the next day German troops arrived by rail. The German war communiqué of 2 March announced that the Ukrainian capital had been "liberated by the Ukrainians and Saxon troops". Some studies give 3 March as the date of the German entry, others link the whole event to 1 March, but Kiev and Ukrainian accounts indicate that the Ukrainians were in the city first and the Germans a day after them.
+
+## After three weeks of terror
+
+The [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada) had left Kiev during the night of 8–9 February, as the troops of [Mikhail Muravyov](https://pl.wikipedia.org/wiki/Michaił_Murawjow_(eserowiec)) were entering the city. A few hours later its delegates signed the [peace with the Central Powers](/pokoj-brzeski-z-ukraina) at Brest, and on 12 February the Ukrainians asked the Germans for military help. The government took refuge in Zhytomyr. Meanwhile in Kiev the victors carried out a bloody reckoning with their opponents. Red Guards and sailors rounded up officers, cadets, Ukrainian activists and people deemed "bourgeois" in the streets and shot them without trial. The number of victims of the fighting, the shelling and the executions is disputed. Estimates range from about 2,000 to 6,000 dead, and according to the International Red Cross about 5,000 people were killed during the three weeks of Bolshevik rule. A list of victims by name, compiled in the following months, contained 1,286 names. Shellfire also burned down the house of the Rada's chairman, [Mykhailo Hrushevsky](/postacie/mychajlo-hruszewski), together with his collections.
+
+When the [German offensive](/poczatek-operacji-faustschlag) set off from the west, the Bolshevik authorities made no attempt to defend the city. The Soviet government of Ukraine had already left eastwards for Poltava around 24 February. The last obstacle before Kiev was the detachment of Vasily Kikvidze, which Ukrainian troops defeated on 28 February near Severynivka (now Irpin). On 1 March at about two in the afternoon the last Soviet units withdrew across the [Dnieper](https://pl.wikipedia.org/wiki/Dniepr) to Darnytsia.
+
+## Ukrainians first, Germans behind them
+
+The Germans agreed to let Ukrainian units march in their vanguard during the last days of the advance. So the first to enter the city were the soldiers of Kostiantyn Prisovsky's Separate Zaporozhian Detachment, the haidamaky of [Symon Petliura](/postacie/symon-petlura) and the [Sich Riflemen](https://pl.wikipedia.org/wiki/Strzelcy_Siczowi) of [Yevhen Konovalets](https://pl.wikipedia.org/wiki/Jewhen_Konowalec). Some of the inhabitants greeted them with the ringing of bells and church services, although according to Ukrainian historians the reception was generally restrained, if not cool. The people of Kiev had a year of revolution behind them and, since December, several changes of regime.
+
+The next day German units from the army group of General [Alexander von Linsingen](/postacie/alexander-von-linsingen) got off the trains at the station. According to Kiev accounts, the soldiers looked tired and grim, and before staging their ceremonial entry they had the station washed. The ceremonial parade passed through [Sophia Square](https://pl.wikipedia.org/wiki/Plac_Sofijski_w_Kijowie), where in November 1917 the [Third Universal](/ukrainska-republika-ludowa) proclaiming the republic had been read out. The German command took over the Assembly of the Nobility building on Duma Square, today's Maidan Nezalezhnosti. Calm quickly returned to the city, theatres, cinemas and restaurants reopened, and it was once again possible to walk the streets at night.
+
+## The Rada returns on bayonets
+
+The ministers returned to Kiev in the wake of the army, and a few days after them the Central Rada, which according to some sources met in the capital on 9 March. The Rada presented the foreign soldiers as allies who had come with friendly help and would not interfere in Ukraine's internal affairs. Berlin and Vienna put it the same way. Official documents avoided the word "occupation". Ludendorff spoke of a "rescue expedition to a friendly country", and Emperor Charles of a "peaceful entry".
+
+The reality was different. The Rada, socialist and without an army of its own, kept itself in power thanks to German bayonets, and the Germans had come above all for the grain promised at Brest. In the following weeks several hundred thousand German and Austro-Hungarian soldiers were stationed in Ukraine, and their commanders soon lost patience with a government that could not secure deliveries. As early as April the German command began issuing orders bypassing the Ukrainian authorities, and on 29 April it backed the coup that overthrew the Central Rada.

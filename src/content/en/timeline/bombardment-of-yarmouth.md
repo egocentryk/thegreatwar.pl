@@ -1,0 +1,14 @@
+---
+title: Bombardment of Yarmouth
+summary: On the night of 14 January 1918 German destroyers shelled Great Yarmouth. About 50 shells fell within a few minutes; 4 people were killed and 8 wounded.
+source: ostrzal-yarmouth
+sourceHash: 6f59cd9440fac93f8f0edd4d9c284b5ddc19d2e6
+---
+
+Late in the evening of 14 January 1918 German destroyers approached the east coast of England and shelled the port of [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth) in Norfolk. According to the British official history, the bombardment began at about a quarter past eleven. The local press says that as early as about 10.55 p.m. a parachute [star shell](https://pl.wikipedia.org/wiki/Pocisk_oświetlający) burst over the town. For roughly five minutes some 50 shells fell on Yarmouth and neighbouring [Gorleston](https://pl.wikipedia.org/wiki/Gorleston-on-Sea). Four people were killed and eight wounded.
+
+The shells fell at random on both sides of the harbour, on houses and streets. In St Peter's Road a shell went through the roof of the home of a married couple, the Sparkses. Mary Ann Sparks was killed outright, and her husband Arthur died the next day, crushed by rubble and beams that had fallen from the ceiling. In the harbour two seamen were killed from a merchant ship that had arrived from [Hull](https://pl.wikipedia.org/wiki/Kingston_upon_Hull) that morning. Many houses were damaged, and at the Edward Worlledge school it was recorded that sixteen shells had fallen within 400 yards of it. According to local tradition the town was shelled by a battleship lying far offshore, but the British official history and R. P. P. Rowe's British chronicle of the war speak of German destroyers. According to some accounts it was a group of Flanders torpedo boats that had come out of [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge).
+
+The British were unable to respond. Because of the weather no aircraft took off, and the submarines based at Yarmouth stayed in harbour. Admiral [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt) put to sea with the [Harwich](https://pl.wikipedia.org/wiki/Harwich) Force only an hour and a half after the bombardment began. By then the Germans were far away. The British ships met no one and returned to port at noon on 15 January.
+
+Great Yarmouth, an important fishing port and a base for British submarines and naval aviation, was a frequent target of the German fleet. As early as November 1914 Hipper's battlecruisers had [shelled the coast near Yarmouth](/niemiecki-rajd-na-yarmouth), and in April 1916 they [shelled Lowestoft and Yarmouth](/ostrzal-lowestoft-i-yarmouth). In January 1917 Flanders torpedo boats [shelled nearby Southwold](/ostrzal-southwold). The bombardment of January 1918 was the German fleet's last attack on Yarmouth in the war. Militarily it was of no importance, but it showed once again that the long coast of eastern England could not be fully guarded against fast night raids.

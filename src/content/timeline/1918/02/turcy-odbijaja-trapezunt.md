@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 lutego 1918 roku oddziały osmańskiej 3 Armii weszły do [Trapezuntu](https://pl.wikipedia.org/wiki/Trabzon), najważniejszego portu północno-wschodniej Anatolii. Niespełna dwa lata wcześniej, w kwietniu 1916 roku, [zajęli go Rosjanie](/rosjanie-zdobywaja-trapezunt). Teraz nie było go komu bronić. Rosyjska armia kaukaska rozpadła się po rewolucji, a jej żołnierze rozjechali się do domów. Według brytyjskich historyków W.E.D. Allena i Pawła Muratowa tureckie natarcie wzdłuż wybrzeża nie napotkało oporu. Prawdziwe walki toczyły się w tym czasie daleko w głębi lądu, pod [Erzincanem](https://pl.wikipedia.org/wiki/Erzincan).
+24 lutego 1918 roku oddziały osmańskiej 3 Armii weszły do [Trapezuntu](https://pl.wikipedia.org/wiki/Trabzon), najważniejszego portu północno-wschodniej Anatolii. Niespełna dwa lata wcześniej, w kwietniu 1916 roku, [zajęli go Rosjanie](/rosjanie-zdobywaja-trapezunt). Teraz nie było go komu bronić. Rosyjska armia kaukaska rozpadła się po rewolucji, a jej żołnierze rozjechali się do domów. Według brytyjskiego historyka W.E.D. Allena i rosyjskiego emigranta Pawła Muratowa tureckie natarcie wzdłuż wybrzeża nie napotkało oporu. Prawdziwe walki toczyły się w tym czasie daleko w głębi lądu, pod [Erzincanem](https://pl.wikipedia.org/wiki/Erzincan).
 
 ## Rozejm, którego nikt nie pilnował
 

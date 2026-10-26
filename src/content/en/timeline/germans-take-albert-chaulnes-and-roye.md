@@ -1,0 +1,22 @@
+---
+title: Germans take Albert, Chaulnes and Roye
+summary: On 26 March 1918 the Germans took Roye and Chaulnes south of the Somme, and in the evening entered the ruins of Albert with its famous "Leaning Virgin".
+source: niemcy-zajmuja-albert-chaulnes-i-roye
+sourceHash: fce46cd3d9a0b2d9ec746f9a3bf82c17f761bbd4
+---
+
+On 26 March 1918, the sixth day of [Operation Michael](/bitwy/operacja-michael), the Germans took three towns in Picardy that had for years been associated with the Somme front: [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) and [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes) south of the river and [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) north of it. Two days after the [loss of Bapaume and Péronne](/niemcy-zdobywaja-bapaume-i-peronne) the British and French units were still falling back, though ever more slowly, while the German infantry, deprived of its artillery, which could not keep up across the old battlefield, was beginning to tire.
+
+## Roye and Chaulnes
+
+In the morning the front south of the Somme, by now under the French General [Émile Fayolle](/postacie/emile-fayolle), was broken in several places. Between the French wing at Roye and the right wing of the British XIX Corps yawned a gap almost 5 km wide. At about 8 a.m. a German attack struck the French 22nd and 62nd Divisions of General Robillot's corps, and Roye fell. The French fell back further south-west, towards Montdidier, and the British north-west, towards Amiens. The gap was closed only in the evening by the exhausted divisions of General [Ivor Maxse](/postacie/ivor-maxse)'s British XVIII Corps, fighting entirely without artillery. Roye returned to German hands little more than a year after [the French had entered it in March 1917](/francuzi-zajmuja-roye), following the German withdrawal to the Siegfried Line (known to the Allies as the Hindenburg Line).
+
+Further north General Herbert Watts's XIX Corps, threatened with being outflanked from the direction of the Somme, received at about 9.30 a.m. an order to fall back about 8 km to a prepared line from Rouvroy to Froissy on the Somme. According to the British official history, the 17th Brigade of the 24th Division beat off attacks on Chaulnes until 11 a.m., after which it too withdrew, and the Germans occupied the little town. In 1916, during the Battle of the Somme, the French had attacked Chaulnes in vain for many weeks and entered it only in March 1917, when the Germans withdrew of their own accord. By the evening the British were already standing on the new line, in front of the village of Rosières.
+
+## Albert
+
+Albert, lying on the river [Ancre](https://pl.wikipedia.org/wiki/Ancre), had been just behind the front on the Allied side since [the autumn of 1914](/bitwy/pierwsza-bitwa-pod-albert), and in 1916 it was the main rear base of the British offensive on the Somme. Above the ruined town rose the tower of the neo-Byzantine basilica of Notre-Dame de Brebières with its gilded statue of the Virgin and Child. In January 1915 a shell hit the dome, and the statue tilted and hung almost horizontally over the street. The "Leaning Virgin" of Albert was known to millions of soldiers, and from postcards. Among the British and French the belief circulated that when it fell, the war would end.
+
+On the night of 25–26 March V Corps of the British Third Army fell back behind the Ancre. Its command judged that it would be easier to defend the hills west of the town, and gave up the ruins of Albert without a fight. In the afternoon units of the German 3rd Naval Infantry Division and 54th Reserve Division appeared on the hills east of it. The German author Georg Goes later wrote that the basilica tower, with its twisted iron at the top, stood out sharply against the western sky. At about 5 p.m. the Germans entered the town, but when they tried to advance out of it westwards, along the roads to Amiens and Bouzincourt, they were stopped by British machine-gun fire from the high bank. Goes explained the failure of the further advance partly by the fact that the soldiers, who had been hungry for two days, found plentiful British food stocks in Albert, "drinks as well".
+
+Albert remained in German hands until 22 August 1918. The statue on the tower fell, according to most sources, on 16 April, when British artillery shelled the basilica to prevent the Germans from using the tower as an observation post and machine-gun position. The war, however, went on for another seven months.
