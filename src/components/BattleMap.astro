@@ -1,0 +1,535 @@
+---
+// All battles on a map: Europe and the Middle East, a close-up of the Western
+// Front, and the rest of the world. Filters by front and year, a continuous
+// "play" mode with a date slider, tooltips. Used by /bitwy/mapa and /en/battles/map.
+// Data: src/utils/battleMap.ts.
+import { frontEn, locale, type Lang } from "@/i18n"
+import { localBattles, paths } from "@/i18n/local"
+import { BASEMAP, battlePoint, FRONT_STYLE, isCampaign, project, type MapName } from "@/utils/battleMap"
+import { formatDateRange } from "@/utils/formatDate"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const en = lang === "en"
+const all = await localBattles(lang)
+// Every battle needs coordinates (src/data/battle-coords.json).
+const missing = all.filter((battle) => !battlePoint(battle.id)).map((battle) => battle.id)
+if (missing.length) {
+  throw new Error(`battle-coords.json has no coordinates for: ${missing.join(", ")}. Run node scripts/battle-coords.mjs or add them by hand.`)
+}
+const battles = all.flatMap((battle) => {
+  const point = battlePoint(battle.id)
+  const style = FRONT_STYLE[battle.data.frontKey]
+  return point && style ? [{ battle, point, style }] : []
+})
+
+// Views: [map, x, y, width, height of the viewBox, marker radius].
+// Radii are in viewBox units, set so markers look about the same size on screen.
+const west = (() => {
+  const a = project("europa", 51.45, 1.6)
+  const b = project("europa", 48.3, 7.7)
+  return { x: a.x, y: a.y, w: b.x - a.x, h: b.y - a.y }
+})()
+const views = [
+  { id: "main", map: "europa" as MapName, box: [0, 0, BASEMAP.europa.width, BASEMAP.europa.height], r: 4.6 },
+  { id: "west", map: "europa" as MapName, box: [west.x, west.y, west.w, west.h], r: (5 * west.w) / 480 },
+  { id: "world", map: "swiat" as MapName, box: [0, 0, BASEMAP.swiat.width, BASEMAP.swiat.height], r: (5 * 1000) / 480 },
+]
+const inBox = (view: (typeof views)[number], p: { map: MapName; x: number; y: number }) =>
+  p.map === view.map &&
+  p.x >= view.box[0] && p.x <= view.box[0] + view.box[2] &&
+  p.y >= view.box[1] && p.y <= view.box[1] + view.box[3]
+
+// Rings first (under), then battles, key battles on top.
+const order = (item: (typeof battles)[number]) =>
+  isCampaign(item.battle.id) ? 0 : item.battle.data.milestone ? 2 : 1
+const sorted = [...battles].sort((a, b) => order(a) - order(b))
+
+const fronts = Object.entries(FRONT_STYLE)
+  .map(([name, style]) => ({
+    name: en ? frontEn(name) : name,
+    key: style.key,
+    sea: style.sea,
+    count: battles.filter((item) => item.style.key === style.key).length,
+  }))
+  .filter((front) => front.count > 0)
+const years = [1914, 1915, 1916, 1917, 1918]
+const iso = (date: Date) => date.toISOString().slice(0, 10)
+
+const t = {
+  pl: {
+    back: "← Bitwy",
+    title: "Mapa bitew",
+    lead: "Wszystkie bitwy z kroniki na mapie. Kolor oznacza front, romb – bitwę morską, pierścień – kampanię lub operację złożoną z kilku bitew, większy znacznik – kluczową bitwę.",
+    fronts: "Fronty",
+    all: "Wszystkie",
+    years: "Lata",
+    play: "Odtwórz przebieg wojny",
+    pause: "Pauza",
+    scrub: "Data na mapie",
+    zoom: "Zbliżenie poniżej ↓",
+    shown: "Widoczne bitwy:",
+    west: "Front zachodni z bliska",
+    world: "Reszta świata",
+    table: "Te same bitwy jako lista i na osi czasu:",
+    credit: "Podkład mapy: Natural Earth. Położenia bitew przybliżone (główne miejsce walk).",
+    list: "lista bitew",
+    timeline: "oś czasu bitew",
+  },
+  en: {
+    back: "← Battles",
+    title: "Battle map",
+    lead: "Every battle in the chronicle on a map. Colour shows the front, a diamond a naval battle, a ring a campaign or operation made up of several battles, a larger marker a key battle.",
+    fronts: "Fronts",
+    all: "All",
+    years: "Years",
+    play: "Play the course of the war",
+    pause: "Pause",
+    scrub: "Date on the map",
+    zoom: "Close-up below ↓",
+    shown: "Battles shown:",
+    west: "The Western Front up close",
+    world: "Rest of the world",
+    table: "The same battles as a list and on a timeline:",
+    credit: "Base map: Natural Earth. Battle positions are approximate (the main place of the fighting).",
+    list: "list of battles",
+    timeline: "battle timeline",
+  },
+}[lang]
+---
+
+<section class="bmap mx-auto max-w-5xl px-6 pt-16 pb-24 sm:pt-24" data-battle-map data-locale={locale(lang)}>
+  <a href={paths(lang).battles} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">{t.back}</a>
+  <h1 class="font-display text-ink mt-6 text-3xl font-medium sm:text-4xl">{t.title}</h1>
+  <p class="text-ink-soft mt-4 max-w-2xl">{t.lead}</p>
+
+  <div class="mt-8 space-y-3 font-mono text-xs">
+    <div class="flex flex-wrap items-center gap-2" role="group" aria-label={t.fronts}>
+      <button type="button" class="bmap-chip" data-front-all aria-pressed="true">{t.all}</button>
+      {fronts.map((front) => (
+        <button type="button" class="bmap-chip" data-front-toggle={front.key} aria-pressed="true">
+          <span class:list={["bmap-swatch", front.sea && "is-sea"]} data-front={front.key} aria-hidden="true" />
+          {front.name} <span class="text-ink-soft">{front.count}</span>
+        </button>
+      ))}
+    </div>
+    <div class="flex flex-wrap items-center gap-2" role="group" aria-label={t.years}>
+      <button type="button" class="bmap-chip" data-year="" aria-pressed="true">{t.all}</button>
+      {years.map((year) => <button type="button" class="bmap-chip" data-year={year} aria-pressed="false">{year}</button>)}
+    </div>
+    <div class="flex flex-wrap items-center gap-3">
+      <button type="button" class="bmap-chip bmap-play" data-play data-label-play={t.play} data-label-pause={t.pause} aria-pressed="false">
+        <span aria-hidden="true" data-play-icon>▶</span> <span data-play-label>{t.play}</span>
+      </button>
+      <input
+        type="range"
+        class="bmap-scrub min-w-[10rem] flex-1"
+        data-scrub
+        min="0"
+        max="1000"
+        value="0"
+        aria-label={t.scrub}
+      />
+      <span class="text-ink min-w-[9rem] font-medium tabular-nums" data-date></span>
+    </div>
+    <p class="text-ink-soft" aria-live="polite" data-status>
+      {t.shown} <span data-count>{battles.length}</span>
+    </p>
+  </div>
+
+  <svg width="0" height="0" class="absolute" aria-hidden="true">
+    <defs>
+      <path id={`land-europa-${lang}`} fill-rule="evenodd" d={BASEMAP.europa.d} />
+      <path id={`land-swiat-${lang}`} fill-rule="evenodd" d={BASEMAP.swiat.d} />
+    </defs>
+  </svg>
+
+  <div class="mt-6 grid gap-6 sm:grid-cols-2">
+    {
+      views.map((view) => {
+        const items = sorted.filter((item) => inBox(view, item.point))
+        const r = view.r
+        const decorative = view.id === "west"
+        return (
+          <figure
+            id={view.id === "west" ? `bmap-west-${lang}` : undefined}
+            class:list={["min-w-0 scroll-mt-24", view.id === "main" && "sm:col-span-2"]}
+          >
+            {view.id !== "main" && (
+              <figcaption class="text-ink-soft mb-2 font-mono text-[10px] tracking-[0.2em] uppercase">
+                {view.id === "west" ? t.west : t.world}
+              </figcaption>
+            )}
+            <div class="border-line overflow-x-auto rounded-sm border">
+              <svg
+                viewBox={view.box.map((n) => n.toFixed(1)).join(" ")}
+                class:list={["bmap-svg block w-full", view.id === "main" && "min-w-[40rem]"]}
+                role={decorative ? undefined : "group"}
+                aria-hidden={decorative ? "true" : undefined}
+              >
+                <rect x={view.box[0]} y={view.box[1]} width={view.box[2]} height={view.box[3]} class="bmap-sea" />
+                <use href={`#land-${view.map}-${lang}`} class="bmap-land" />
+                {view.id === "main" && (
+                  <a href={`#bmap-west-${lang}`} class="bmap-zoom-link">
+                    <rect x={west.x} y={west.y} width={west.w} height={west.h} class="bmap-zoom" />
+                    <text x={west.x + west.w + 6} y={west.y + 10} class="bmap-zoom-label">{t.zoom}</text>
+                  </a>
+                )}
+                {items.map(({ battle, point, style }) => {
+                  const campaign = isCampaign(battle.id)
+                  const size = battle.data.milestone ? r * 1.45 : r
+                  const dates = formatDateRange(battle.data.startDate, battle.data.endDate, locale(lang))
+                  return (
+                    <a
+                      href={battle.href}
+                      id={view.id === "west" ? undefined : `b-${battle.id}`}
+                      tabindex={decorative ? "-1" : undefined}
+                      class:list={["bm", campaign && "is-campaign", style.sea && "is-sea"]}
+                      data-front={style.key}
+                      data-start={iso(battle.data.startDate)}
+                      data-end={iso(battle.data.endDate)}
+                      data-title={battle.data.title}
+                      data-dates={dates}
+                      data-front-name={en ? frontEn(battle.data.frontKey) : battle.data.frontKey}
+                      aria-label={decorative ? undefined : `${battle.data.title}, ${dates}`}
+                    >
+                      {/* Hit area larger than the mark; for rings only the ring itself,
+                          so battles inside a campaign stay clickable. */}
+                      {campaign ? (
+                        <circle cx={point.x.toFixed(1)} cy={point.y.toFixed(1)} r={size.toFixed(2)} class="bm-hit-ring" style={`stroke-width:${(r * 0.9).toFixed(2)}`} />
+                      ) : (
+                        <circle cx={point.x.toFixed(1)} cy={point.y.toFixed(1)} r={(r * 1.8).toFixed(2)} class="bm-hit" />
+                      )}
+                      {style.sea ? (
+                        <rect
+                          x={(point.x - size * 0.8).toFixed(1)}
+                          y={(point.y - size * 0.8).toFixed(1)}
+                          width={(size * 1.6).toFixed(2)}
+                          height={(size * 1.6).toFixed(2)}
+                          transform={`rotate(45 ${point.x.toFixed(1)} ${point.y.toFixed(1)})`}
+                          class="bm-mark"
+                        />
+                      ) : (
+                        <circle cx={point.x.toFixed(1)} cy={point.y.toFixed(1)} r={size.toFixed(2)} class="bm-mark" />
+                      )}
+                    </a>
+                  )
+                })}
+              </svg>
+            </div>
+          </figure>
+        )
+      })
+    }
+  </div>
+
+  <p class="text-ink-soft mt-6 font-mono text-xs">
+    {t.table}{" "}
+    <a href={paths(lang).battles} class="text-signal hover:underline">{t.list}</a>,{" "}
+    <a href={en ? "/en/battles/timeline" : "/bitwy/os-czasu"} class="text-signal hover:underline">{t.timeline}</a>
+  </p>
+  <p class="text-ink-soft mt-2 font-mono text-[10px]">{t.credit}</p>
+
+  <div class="bmap-tip" role="tooltip" hidden data-tip>
+    <strong class="text-ink block text-sm leading-snug" data-tip-title></strong>
+    <span class="text-ink-soft mt-1 flex items-center gap-2 font-mono text-[11px]">
+      <span class="bmap-swatch" data-tip-swatch aria-hidden="true"></span>
+      <span data-tip-meta></span>
+    </span>
+  </div>
+</section>
+
+<style is:global>
+  /* Front colours: dataviz reference palette, light and dark steps. */
+  .bmap {
+    --front-west: #2a78d6;
+    --front-east: #e34948;
+    --front-balkan: #6250d6;
+    --front-mideast: #eb6834;
+    --front-italy: #e87ba4;
+    --front-africa: #1baf7a;
+    --front-asia: #eda100;
+    --front-sea: var(--color-ink-soft);
+  }
+  .dark .bmap {
+    --front-west: #3987e5;
+    --front-east: #e66767;
+    --front-balkan: #9085e9;
+    --front-mideast: #d95926;
+    --front-italy: #d55181;
+    --front-africa: #199e70;
+    --front-asia: #c98500;
+  }
+  .bmap [data-front="west"] { --c: var(--front-west); }
+  .bmap [data-front="east"] { --c: var(--front-east); }
+  .bmap [data-front="balkan"] { --c: var(--front-balkan); }
+  .bmap [data-front="mideast"] { --c: var(--front-mideast); }
+  .bmap [data-front="italy"] { --c: var(--front-italy); }
+  .bmap [data-front="africa"] { --c: var(--front-africa); }
+  .bmap [data-front="asia"] { --c: var(--front-asia); }
+  .bmap [data-front="sea"] { --c: var(--front-sea); }
+
+  .bmap-sea { fill: var(--map-sea); }
+  .bmap-land {
+    fill: var(--map-land);
+    stroke: var(--color-line);
+    stroke-width: 0.6px;
+    vector-effect: non-scaling-stroke;
+  }
+  /* Transparent fill so the whole box links to the close-up; markers sit above it. */
+  .bmap-zoom {
+    fill: transparent;
+    stroke: var(--color-ink-soft);
+    stroke-dasharray: 3 3;
+    stroke-width: 1px;
+    vector-effect: non-scaling-stroke;
+  }
+  .bm-hit { fill: transparent; }
+  .bm-hit-ring { fill: none; stroke: transparent; pointer-events: stroke; }
+  .bm.is-campaign .bm-mark { pointer-events: stroke; }
+  .bm-mark {
+    fill: var(--c);
+    stroke: var(--color-paper);
+    stroke-width: 1.5px;
+    vector-effect: non-scaling-stroke;
+    transform-box: fill-box;
+    transform-origin: center;
+    transition:
+      opacity 450ms ease,
+      scale 450ms cubic-bezier(0.2, 0.8, 0.3, 1.3);
+  }
+  .bm.is-campaign .bm-mark { fill: none; stroke: var(--c); stroke-width: 2px; }
+  .bm.is-sea .bm-mark { fill: var(--color-paper); stroke: var(--c); stroke-width: 1.75px; }
+  .bm:hover .bm-mark,
+  .bm:focus-visible .bm-mark,
+  .bm.is-target .bm-mark { stroke: var(--color-ink); stroke-width: 2.5px; }
+  .bm:focus-visible { outline: none; }
+  /* Hidden markers fade and shrink, then leave focus order and hit testing. */
+  .bm { transition: visibility 0s; }
+  .bm.is-off { visibility: hidden; transition: visibility 0s 450ms; }
+  .bm.is-off * { pointer-events: none; }
+  .bm.is-off .bm-mark { opacity: 0; scale: 0.2; }
+  @media (prefers-reduced-motion: reduce) {
+    .bm-mark { transition: none; }
+    .bm.is-off { transition: none; }
+  }
+  .bmap-zoom-label {
+    fill: var(--color-ink-soft);
+    font-family: var(--font-mono);
+    font-size: 11px;
+  }
+  .bmap-zoom-link:hover .bmap-zoom { stroke: var(--color-signal); }
+  .bmap-zoom-link:hover .bmap-zoom-label { fill: var(--color-signal); }
+  .bmap-scrub { accent-color: var(--color-signal); }
+
+  .bmap-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 1px solid var(--color-line);
+    border-radius: 2px;
+    padding: 0.35rem 0.6rem;
+    color: var(--color-ink-soft);
+    cursor: pointer;
+    transition: border-color 150ms ease, color 150ms ease;
+  }
+  .bmap-chip:hover { border-color: var(--color-signal); color: var(--color-ink); }
+  .bmap-chip[aria-pressed="true"] { border-color: var(--color-ink-soft); color: var(--color-ink); }
+  .bmap-chip[aria-pressed="false"] .bmap-swatch { opacity: 0.3; }
+  .bmap-swatch {
+    display: inline-block;
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 999px;
+    background: var(--c);
+  }
+  .bmap-swatch.is-sea {
+    border-radius: 0;
+    transform: rotate(45deg) scale(0.85);
+    background: transparent;
+    border: 1.5px solid var(--c);
+  }
+  .bmap-tip {
+    position: fixed;
+    z-index: 50;
+    max-width: 18rem;
+    pointer-events: none;
+    border: 1px solid var(--color-line);
+    border-radius: 2px;
+    background: var(--color-paper);
+    padding: 0.5rem 0.65rem;
+    box-shadow: 0 4px 16px rgb(0 0 0 / 0.12);
+  }
+</style>
+
+<script>
+  function initBattleMap() {
+    const found = document.querySelector<HTMLElement>("[data-battle-map]")
+    if (!found || found.dataset.ready) return
+    const root: HTMLElement = found
+    root.dataset.ready = "1"
+
+    const markers = [...root.querySelectorAll<SVGAElement>("a.bm")]
+    const countEl = root.querySelector("[data-count]")!
+    const tip = root.querySelector<HTMLElement>("[data-tip]")!
+
+    const allFronts = [...root.querySelectorAll<HTMLButtonElement>("[data-front-toggle]")]
+    const fronts = new Set(allFronts.map((b) => b.dataset.frontToggle!))
+    let year = ""
+    // Day number (days since 1970) shown on the map, or null for no time filter.
+    let time: number | null = null
+
+    function apply() {
+      let shown = 0
+      for (const m of markers) {
+        const { front, start, end } = m.dataset
+        let on = fronts.has(front!)
+        if (on && time !== null) {
+          const day = Math.floor(time)
+          on = dayOf(start!) <= day && dayOf(end!) + LINGER >= day
+        } else if (on && year) on = start! <= `${year}-12-31` && end! >= `${year}-01-01`
+        if (m.classList.contains("is-off") === on) m.classList.toggle("is-off", !on)
+        if (on && m.id) shown++
+      }
+      countEl.textContent = String(shown)
+      for (const b of allFronts) b.setAttribute("aria-pressed", String(fronts.has(b.dataset.frontToggle!)))
+      root.querySelector("[data-front-all]")!.setAttribute("aria-pressed", String(fronts.size === allFronts.length))
+      for (const b of root.querySelectorAll<HTMLButtonElement>("[data-year]")) {
+        b.setAttribute("aria-pressed", String(time === null && b.dataset.year === year))
+      }
+    }
+
+    for (const b of allFronts) {
+      b.addEventListener("click", () => {
+        const key = b.dataset.frontToggle!
+        // From "all", the first click shows only this front.
+        if (fronts.size === allFronts.length) {
+          fronts.clear()
+          fronts.add(key)
+        } else if (fronts.has(key)) fronts.delete(key)
+        else fronts.add(key)
+        if (!fronts.size) allFronts.forEach((x) => fronts.add(x.dataset.frontToggle!))
+        apply()
+      })
+    }
+    root.querySelector("[data-front-all]")!.addEventListener("click", () => {
+      allFronts.forEach((x) => fronts.add(x.dataset.frontToggle!))
+      apply()
+    })
+    for (const b of root.querySelectorAll<HTMLButtonElement>("[data-year]")) {
+      b.addEventListener("click", () => {
+        stop()
+        year = b.dataset.year ?? ""
+        apply()
+      })
+    }
+
+    // Playback: time runs continuously at DAYS_PER_SECOND; a battle shows from
+    // its first day until LINGER days after its last, so short ones don't
+    // flash by. The slider shows the date and can be dragged.
+    const DAYS_PER_SECOND = 45
+    const LINGER = 10
+    const DAY = 86_400_000
+    const dayOf = (iso: string) => Date.parse(`${iso}T00:00:00Z`) / DAY
+    const span = markers.map((m) => [dayOf(m.dataset.start!), dayOf(m.dataset.end!)] as const)
+    const first = Math.min(...span.map(([a]) => a))
+    const last = Math.max(...span.map(([, b]) => b)) + LINGER
+    const playButton = root.querySelector<HTMLButtonElement>("[data-play]")!
+    const scrub = root.querySelector<HTMLInputElement>("[data-scrub]")!
+    const dateEl = root.querySelector("[data-date]")!
+    const status = root.querySelector("[data-status]")!
+    const dayName = new Intl.DateTimeFormat(root.dataset.locale, { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
+    scrub.max = String(last - first)
+    let frame: number | undefined
+    let lastFrame = 0
+
+    function setDay(day: number) {
+      time = day
+      scrub.value = String(Math.round(day - first))
+      dateEl.textContent = dayName.format(new Date(Math.floor(day) * DAY))
+      apply()
+    }
+    function setPlaying(on: boolean) {
+      playButton.setAttribute("aria-pressed", String(on))
+      root.querySelector("[data-play-icon]")!.textContent = on ? "❚❚" : "▶"
+      root.querySelector("[data-play-label]")!.textContent = on ? playButton.dataset.labelPause! : playButton.dataset.labelPlay!
+      // Don't announce every frame to screen readers while playing.
+      status.setAttribute("aria-live", on ? "off" : "polite")
+    }
+    function pause() {
+      if (frame !== undefined) cancelAnimationFrame(frame)
+      frame = undefined
+      setPlaying(false)
+    }
+    function tick(now: number) {
+      const elapsed = lastFrame ? Math.min(now - lastFrame, 100) : 0
+      lastFrame = now
+      const next = time! + (elapsed / 1000) * DAYS_PER_SECOND
+      if (next >= last) {
+        setDay(last)
+        pause()
+        return
+      }
+      setDay(next)
+      frame = requestAnimationFrame(tick)
+    }
+    function stop() {
+      pause()
+      time = null
+      dateEl.textContent = ""
+      scrub.value = "0"
+    }
+    playButton.addEventListener("click", () => {
+      if (frame !== undefined) return pause()
+      year = ""
+      if (time === null || time >= last) setDay(first)
+      setPlaying(true)
+      lastFrame = 0
+      frame = requestAnimationFrame(tick)
+    })
+    scrub.addEventListener("input", () => {
+      pause()
+      year = ""
+      setDay(first + Number(scrub.value))
+    })
+
+    // Tooltip on hover and keyboard focus.
+    function show(m: SVGAElement, x: number, y: number) {
+      tip.querySelector("[data-tip-title]")!.textContent = m.dataset.title ?? ""
+      tip.querySelector("[data-tip-meta]")!.textContent = `${m.dataset.dates} · ${m.dataset.frontName}`
+      const swatch = tip.querySelector<HTMLElement>("[data-tip-swatch]")!
+      swatch.dataset.front = m.dataset.front
+      swatch.classList.toggle("is-sea", m.classList.contains("is-sea"))
+      tip.hidden = false
+      const w = tip.offsetWidth
+      const h = tip.offsetHeight
+      tip.style.left = `${Math.min(window.innerWidth - w - 8, Math.max(8, x + 12))}px`
+      tip.style.top = `${y - h - 12 < 8 ? y + 16 : y - h - 12}px`
+    }
+    const hide = () => (tip.hidden = true)
+    for (const m of markers) {
+      m.addEventListener("pointermove", (e) => show(m, e.clientX, e.clientY))
+      m.addEventListener("pointerleave", hide)
+      m.addEventListener("focus", () => {
+        const r = m.getBoundingClientRect()
+        show(m, r.left + r.width / 2, r.top)
+      })
+      m.addEventListener("blur", hide)
+    }
+    window.addEventListener("scroll", hide, { passive: true })
+
+    // /bitwy/mapa#b-<id> (from a battle page): highlight that battle.
+    const target = location.hash.startsWith("#b-") ? root.querySelector<SVGAElement>(location.hash) : null
+    if (target) {
+      target.classList.add("is-target")
+      target.scrollIntoView({ block: "center" })
+      target.focus({ preventScroll: true })
+    }
+    apply()
+  }
+
+  document.addEventListener("astro:page-load", initBattleMap)
+</script>

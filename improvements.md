@@ -645,6 +645,157 @@ sub-battles. Checked in a browser at 1200 px and 390 px.
 
 ---
 
+## 9. Reader features: battle map and locator maps (2026-10-26)
+
+**What it is:**
+- **`/bitwy/mapa` and `/en/battles/map`:** all 310 battles on a static SVG
+  map in three views.
+  - Europe and the Middle East.
+  - "Front zachodni z bliska": a zoomed crop of Flanders–Champagne, marked
+    on the main map with a dashed box.
+  - The rest of the world: Africa, the Pacific, the South Atlantic,
+    Tsingtao, Mecca.
+- **Markers:**
+  - colour = front;
+  - hollow diamond = naval battle;
+  - ring = campaign or operation (a battle with sub-battles in
+    `battleParents.ts`);
+  - larger = key battle.
+- **Controls:** front toggles with counts, year buttons, and "Odtwórz
+  przebieg wojny" / "Play the course of the war", with a date slider.
+- **Interaction:** tooltips on hover and keyboard focus;
+  `#b-<battle-id>` highlights and focuses a battle.
+- **Locator on every battle page:** a small regional map with a dot, under
+  "Miejsce" / "Location", linking to the battle on the big map.
+
+**Data:**
+
+- **`scripts/battle-coords.mjs` → `src/data/battle-coords.json`**
+  (`{ id: { lat, lon, source } }`).
+  - Lookup order: the pl.wikipedia article with the battle's title, then
+    "title (year)"; then en.wikipedia with the English title, then "title
+    (year)" (Wikipedia disambiguates, e.g. "Battle of Megiddo (1918)").
+  - Each match must have a Wikidata date between 1914 and 1919, or no date,
+    so same-named battles from other centuries are skipped (pl.wiki "Bitwa
+    pod Jafą" is 1192).
+  - An article without coordinates falls back to its Wikidata P625, then to
+    the P625 of its location (P276).
+  - Result: 198 of 310 automatic.
+  - Linked articles in the battle text were tried and dropped, because they
+    are often a different battle ("Podbój Serbii" → Gallipoli, "Walki nad
+    Rawką i Bzurą" → Gorlice).
+  - Location (P276) fallbacks can land on a whole country or the wrong
+    city; review them.
+  - English titles that redirect to a parent article give the parent's
+    point (all the Lys sub-battles on one spot); review those too.
+  - **112 entries are `"source": "manual"`**, set from each page's
+    `location` text (main town or centre of the fighting). The script never
+    overwrites them; `--all` re-checks everything else.
+- **`scripts/build-basemap.mjs` → `src/data/basemap.json` +
+  `public/mapa/europa.svg` and `public/mapa/swiat.svg`**, from Natural Earth
+  (public domain).
+  - `europa`: 1:50m land + lakes (lakes become holes with evenodd),
+    0–53°E and 29–60°N, x scaled by cos 45°.
+  - `swiat`: 1:110m land, 82°W–128°E and 58°S–62°N.
+  - Clipped to a margin box, Douglas–Peucker simplified (0.5 / 0.8 units).
+    A closed ring must be split at its farthest point first, or the
+    simplification collapses it.
+  - Sizes: europa 40 KB raw / 17 KB gz, swiat 20 KB / 8 KB.
+- **`src/utils/battleMap.ts`:**
+  - `project(map, lat, lon)`;
+  - `battlePoint(id)`: Europe if inside its extent, else world;
+  - `isCampaign(id)`;
+  - `FRONT_STYLE`, the front → palette key.
+
+**Colours** (dataviz skill, reference palette, validated with
+`validate_palette.js` in both themes):
+
+- On a map any two markers can touch, and 8 hues cannot pass all pairs.
+  - The validator was therefore run on the pairs of fronts that meet
+    geographically: Western–Eastern, Eastern–Balkan, Balkan–Middle East,
+    Italian–Balkan, Italian–Western, Africa–Middle East.
+  - "War at sea" touches every front, so it has no hue: a neutral hollow
+    diamond.
+  - Result: Western blue, Eastern red, Balkan violet, Middle East orange,
+    Italian magenta, Africa aqua, Asia and Pacific yellow.
+- The failing pairs never meet: Eastern–Middle East (red/orange),
+  Western–Balkan (blue/violet).
+- Three light colours are under 3:1 contrast. The mitigation is legend
+  names, tooltips and links to the list and timeline (a table view).
+- **Map surfaces** are theme tokens in `global.css`:
+  - `--map-sea` and `--map-land`, with land lighter than the sea in dark
+    mode (inverting them made inland locators look like open sea).
+  - Markers have a 1.5px paper ring, and the stroke doesn't scale
+    (`vector-effect: non-scaling-stroke`).
+
+**Components:**
+
+- **`src/components/BattleMap.astro`** (`lang`).
+  - The land paths are defined once in `<defs>` and drawn with `<use>` in
+    each view.
+  - Marker radii are in viewBox units per view, so markers look the same
+    size on screen.
+  - Each marker is an `<a>` with `data-front/start/end/title/dates` and an
+    `aria-label`.
+  - The close-up duplicates are `tabindex=-1` inside an `aria-hidden` SVG.
+  - Hit areas are bigger than the marks. For rings the hit area is only the
+    ring stroke (`pointer-events: stroke`), otherwise an operation's ring
+    covers the battles inside it (Meuse-Argonne over Verdun).
+  - About 3 KB of script: filters, play, tooltip, hash target.
+  - **Playback** runs continuously with `requestAnimationFrame`.
+    - Speed: 45 days per second, so 1914–1919 plays in about 40 s.
+    - A battle shows from its first day until 10 days after its last
+      (`LINGER`), so one-day battles don't flash by.
+    - The date label shows the day; the `<input type="range">` slider moves
+      with it and can be dragged (that pauses); Play continues from the
+      slider position.
+    - Class toggles happen only on a change, not every frame.
+    - While playing, the status line has `aria-live="off"` so screen readers
+      aren't flooded.
+  - **Transitions:** hidden markers fade and shrink (`opacity` + `scale`
+    with `transform-box: fill-box`, 450 ms), then become
+    `visibility: hidden`, which takes them out of the focus order. With
+    `prefers-reduced-motion` there are no transitions.
+    - The first version used month steps every 700 ms with
+      `display: none`, which looked jerky.
+  - **The dashed box** on the main map (the area of the Western Front
+    close-up) is a link to the close-up with the label "Zbliżenie poniżej ↓"
+    / "Close-up below ↓". Its fill is transparent so the whole box is
+    clickable, while markers sit above it. Without a label, readers took it
+    for a stray rectangle.
+  - The build fails if a battle has no coordinates.
+  - The main view has `min-w-[40rem]` and scrolls sideways on phones.
+- **`src/components/BattleLocator.astro`** (`id`, `frontKey`, `lang`).
+  - A 3:2 window (260×173 units on europa, 300×200 on swiat), clamped
+    inside the map.
+  - The land is a div with `background: var(--map-land)` and
+    `mask-image: url(/mapa/<map>.svg)` (plus the -webkit- variants).
+  - `mask-size` = map width / window width × 100%.
+  - `mask-position` = offset / (map size − window size) × 100% on each axis.
+  - The dot is positioned in % of the window; naval battles get a diamond.
+  - The SVG is cached once for all battle pages; each page carries about
+    1 KB of markup.
+- **Pages:** `src/pages/bitwy/mapa.astro` and
+  `src/pages/en/battles/map.astro` (hreflang between them). The locator sits
+  in `src/pages/bitwy/[id].astro` and `src/pages/en/battles/[slug].astro`.
+  The battles overview links to the map next to the timeline.
+
+**Result:** the map page is 291 KB raw / 58 KB gz (the land paths plus 460
+markers). Tested in a browser:
+- year 1916 → 54 battles; 1916 + Eastern → 3;
+- play reaches October 1914 → 16;
+- tooltip, hash focus, light and dark themes, a 390 px phone; no console
+  errors.
+
+**Port:**
+- thesecondwar.pl covers WWII, so the extent differs: Europe, North Africa,
+  the Eastern Front to the Volga, plus the Pacific as a second detailed map
+  rather than an inset. Re-run `build-basemap.mjs` with its own `MAPS`.
+- Redo `battle-coords.mjs` and review the fallbacks the same way.
+- Re-validate the front colours on its own neighbouring-front pairs.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -692,8 +843,8 @@ finished, tick it here and add its section above.
 - [x] Person pages: mentions from links and tags, "Mentioned in battles",
   "Often appears with", and long lists capped at 40 with a link to the tag
   page (§7)
-- [ ] Interactive battle map (Leaflet or static SVG). Needs coordinates on
-  battle pages.
+- [x] Battle map (static SVG, three views, front/year filters, month-by-month
+  play) and a locator map on every battle page (§9)
 - [x] Battle timeline (Gantt chart) per front, with sub-battles under their
   parent operation (§8)
 - [ ] Public-domain images from Wikimedia Commons, with captions and credits.

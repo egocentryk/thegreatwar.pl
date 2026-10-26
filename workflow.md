@@ -776,6 +776,11 @@ Always grep `slug:` in the file before using a phase.
 5. After each batch: update sections 3, 8, 9 and 10 of this file.
 6. **Rate limits / stalls:** November writers hit the account session limit (resume each with SendMessage after the reset). December–June (12–16 writers) ran without limits, 7–40 min each. pl.wiki API returned 429 more often in June — writers should batch and pause. The Agent launch can hit a transient "classifier gave no verdict" error — retry one launch, then the rest in smaller batches.
 
+## Battle map data (added 2026-10-26)
+
+- A new battle page also needs coordinates in `src/data/battle-coords.json` (the build fails otherwise): run `node scripts/battle-coords.mjs` (Wikipedia/Wikidata lookup, keeps existing entries) and check the result, or add `{ "lat", "lon", "source": "manual" }` by hand from the page's `location`. Sub-battles of a larger operation go in `src/data/battleParents.ts` (battle timeline and map rings).
+- Base maps (`src/data/basemap.json`, `public/mapa/*.svg`) come from `scripts/build-basemap.mjs` and Natural Earth; rebuild only to change the map extent.
+
 ## 11. English edition (started 2026-10-25)
 
 Ported from thesecondwar.pl (commit bba2236 there). The Polish site is unchanged; English lives under `/en`.

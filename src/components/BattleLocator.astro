@@ -1,0 +1,80 @@
+---
+// Small locator map on a battle page: the region around the battle with a
+// dot, and a link to the battle on the big map. The land is the cached
+// /mapa/<name>.svg used as a CSS mask, so the page carries no map data and the
+// colours follow the theme. Data: src/utils/battleMap.ts.
+import type { Lang } from "@/i18n"
+import { BASEMAP, battlePoint, FRONT_STYLE } from "@/utils/battleMap"
+
+interface Props {
+  // Polish battle id.
+  id: string
+  frontKey: string
+  lang?: Lang
+}
+
+const { id, frontKey, lang = "pl" } = Astro.props
+const point = battlePoint(id)
+// Window around the battle in map units (3:2), kept inside the map.
+const view = point && (point.map === "europa" ? { w: 260, h: 173 } : { w: 300, h: 200 })
+let style: Record<string, string> | undefined
+if (point && view) {
+  const m = BASEMAP[point.map]
+  const ox = Math.min(m.width - view.w, Math.max(0, point.x - view.w / 2))
+  const oy = Math.min(m.height - view.h, Math.max(0, point.y - view.h / 2))
+  const pct = (n: number) => `${n.toFixed(2)}%`
+  style = {
+    land: [
+      `mask-image:url(/mapa/${point.map}.svg)`,
+      `-webkit-mask-image:url(/mapa/${point.map}.svg)`,
+      `mask-size:${pct((m.width / view.w) * 100)} auto`,
+      `-webkit-mask-size:${pct((m.width / view.w) * 100)} auto`,
+      `mask-position:${pct((ox / (m.width - view.w)) * 100)} ${pct((oy / (m.height - view.h)) * 100)}`,
+      `-webkit-mask-position:${pct((ox / (m.width - view.w)) * 100)} ${pct((oy / (m.height - view.h)) * 100)}`,
+    ].join(";"),
+    dot: `left:${pct(((point.x - ox) / view.w) * 100)};top:${pct(((point.y - oy) / view.h) * 100)}`,
+  }
+}
+const sea = FRONT_STYLE[frontKey]?.sea
+const href = `${lang === "en" ? "/en/battles/map" : "/bitwy/mapa"}#b-${id}`
+---
+
+{
+  style && (
+    <a href={href} class="group mt-3 block max-w-[16rem]" aria-label={lang === "en" ? "Show on the battle map" : "Pokaż na mapie bitew"}>
+      <span class="locator border-line relative block aspect-[3/2] overflow-hidden rounded-sm border">
+        <span class="locator-land absolute inset-0" style={style.land} />
+        <span class:list={["locator-dot", sea && "is-sea"]} style={style.dot} />
+      </span>
+      <span class="text-ink-soft group-hover:text-signal mt-1 block transition-colors">
+        {lang === "en" ? "On the battle map →" : "Na mapie bitew →"}
+      </span>
+    </a>
+  )
+}
+
+<style>
+  .locator {
+    background: var(--map-sea);
+  }
+  .locator-land {
+    background: var(--map-land);
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  }
+  .locator-dot {
+    position: absolute;
+    width: 0.7rem;
+    height: 0.7rem;
+    translate: -50% -50%;
+    border-radius: 999px;
+    background: var(--color-signal);
+    box-shadow:
+      0 0 0 2px var(--color-paper),
+      0 0 0 6px color-mix(in oklab, var(--color-signal) 25%, transparent);
+  }
+  .locator-dot.is-sea {
+    border-radius: 0;
+    rotate: 45deg;
+  }
+</style>
