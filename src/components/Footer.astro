@@ -27,14 +27,10 @@ const year = new Date().getFullYear()
       </svg>
     </p>
 
-    <nav class="flex items-center gap-4" aria-label="Social">
+    <nav class="flex items-center gap-4" aria-label="Links">
       {
-        SITE.social.map((link) => (
-          <a
-            href={link.href}
-            class="hover:text-signal transition-colors"
-            rel="me"
-          >
+        SITE.footerLinks.map((link) => (
+          <a href={link.href} class="hover:text-signal transition-colors">
             {link.label}
           </a>
         ))

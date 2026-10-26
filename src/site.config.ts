@@ -17,11 +17,8 @@ export const SITE = {
   statusEn: "The complete chronicle of the Great War · 1914-1918",
   // Default social preview (public/og-image.png), used when a page sets no image.
   ogImage: "/og-image.png",
-  social: [
-    { label: "GitHub", href: "https://github.com/your-username" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/your-username" },
-    { label: "X", href: "https://x.com/your-username" },
-  ],
+  // Footer links (sister sites).
+  footerLinks: [{ label: "The Second War", href: "https://thesecondwar.pl" }],
   locale: "pl",
 } as const
 
