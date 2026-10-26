@@ -575,6 +575,76 @@ JavaScript. The build time is unchanged.
 
 ---
 
+## 8. Reader features: battle timeline (Gantt chart) per front (2026-10-26)
+
+**What it is:** all 310 battles on one time axis per front, at
+`/bitwy/os-czasu` and `/en/battles/timeline`.
+- Each battle is a bar from its start date to its end date, and each bar
+  links to the battle page.
+- Fronts are stacked in the order of the battle phases.
+- Sub-battles sit indented under their parent operation, e.g. the twelve
+  Somme battles under "Bitwa nad Sommą".
+- `/bitwy` and `/en/battles` link to it.
+
+**Change:**
+
+- **New `src/data/battleParents.ts`.** `BATTLE_PARENTS` maps a child battle
+  id to its parent battle id (97 entries).
+  - It is curated from official groupings (the British Battles Nomenclature
+    Committee for the Somme, Ypres, Arras and 1918, plus the Galician battle,
+    the 1914 Serbian campaign, the conquests of Serbia and Montenegro, the
+    Siege of Kut with its relief battles, and the Vardar offensive).
+  - It is kept out of the battle files so English translations don't go
+    stale.
+  - Inferring parents was tried and rejected.
+    - Date containment alone gives wrong parents ("Meuse-Argonne → Selle",
+      "Obrona Osowca → Kowno").
+    - "Contained, same phase, and the child links the parent" is about 85%
+      right but still wrong in places ("Grand Couronné → Marne",
+      "Łódź → Kraków", and sub-battles under a sibling).
+    - Use those rules only to draft the list, then check it by hand.
+- **New `src/components/BattleTimeline.astro`** (`lang`). It is static HTML
+  and CSS, with no script.
+  - The axis runs from the first month with a battle to the month after the
+    last one, with year lines and labels; the first year is labelled at the
+    start.
+  - Rows are per front. Top-level battles are ordered by start date, each
+    followed by its sub-battles, recursively and indented 0.875rem per
+    level.
+  - Bars are absolutely positioned with `left` and `width` as percentages.
+    The width includes the end day, and `min-w-1` keeps one-day battles
+    visible.
+  - Key battles use the accent colour, other battles grey, and sub-battles
+    a thinner light bar.
+  - The page has a legend and front jump links.
+  - Each row link has `title` (name: dates) and screen-reader-only dates.
+  - The build fails if `battleParents.ts` names a battle that doesn't
+    exist.
+- **Styles** (`src/styles/global.css`, `@layer components`):
+  - `.gantt` sets `--gantt-label`, the width of the name column: 9rem on
+    phones, 13rem from 40rem up.
+  - `.gantt-row` is a grid of that column and the track.
+  - `.gantt-label` is sticky on the left with a paper background, so names
+    stay visible while the chart scrolls sideways.
+  - `.gantt-grid` draws the year lines.
+  - `.gantt-bar`, `.gantt-bar-key` and `.gantt-bar-part` style the bars.
+  - The chart scrolls inside `overflow-x-auto` with `min-w-[44rem]`.
+- **Pages:** `src/pages/bitwy/os-czasu.astro` and
+  `src/pages/en/battles/timeline.astro`, with hreflang between them. The
+  link from the battles overview is in `BattlesOverview.astro`.
+
+**Result:** 153 KB raw / 18 KB gzipped per language. 310 rows, 97 of them
+sub-battles. Checked in a browser at 1200 px and 390 px.
+
+**Port:**
+- thesecondwar.pl needs its own `battleParents.ts`. Draft it with the rule
+  above (containment + same phase + child links parent), then review every
+  entry.
+- Its longer time span makes short battles thinner. If the overview gets too
+  dense, consider one chart per year range.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -624,7 +694,8 @@ finished, tick it here and add its section above.
   page (§7)
 - [ ] Interactive battle map (Leaflet or static SVG). Needs coordinates on
   battle pages.
-- [ ] Gantt-style battle timeline per front, fed by `src/data/battlePhases.ts`.
+- [x] Battle timeline (Gantt chart) per front, with sub-battles under their
+  parent operation (§8)
 - [ ] Public-domain images from Wikimedia Commons, with captions and credits.
 
 ### 5. Template leftovers and code health

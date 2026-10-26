@@ -1,0 +1,181 @@
+---
+// All battles on one time axis per front (Gantt chart), with sub-battles
+// under their parent operation (src/data/battleParents.ts). Used by
+// /bitwy/os-czasu and /en/battles/timeline. Static HTML and CSS, no script.
+import { BATTLE_PHASES } from "@/data/battlePhases"
+import { BATTLE_PARENTS } from "@/data/battleParents"
+import { frontEn, locale, type Lang } from "@/i18n"
+import { localBattles, paths, type LocalBattle } from "@/i18n/local"
+import { formatDateRange } from "@/utils/formatDate"
+import { slugify } from "@/utils/slugify"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const battles = await localBattles(lang)
+const byId = new Map(battles.map((battle) => [battle.id, battle]))
+
+// The parent list must name existing battles; a typo there fails the build.
+// (English pages skip parents that have no translation.)
+if (lang === "pl") {
+  for (const [child, parent] of Object.entries(BATTLE_PARENTS)) {
+    if (!byId.has(child) || !byId.has(parent)) {
+      throw new Error(`battleParents.ts: unknown battle "${byId.has(child) ? parent : child}"`)
+    }
+  }
+}
+const parentOf = (battle: LocalBattle) => {
+  const parent = BATTLE_PARENTS[battle.id]
+  return parent && byId.has(parent) ? parent : undefined
+}
+
+// Time axis: from the first month with a battle to the month after the last.
+const DAY = 86_400_000
+const first = Math.min(...battles.map((b) => b.data.startDate.valueOf()))
+const last = Math.max(...battles.map((b) => b.data.endDate.valueOf()))
+const firstDate = new Date(first)
+const lastDate = new Date(last)
+const axisStart = Date.UTC(firstDate.getUTCFullYear(), firstDate.getUTCMonth(), 1)
+const axisEnd = Date.UTC(lastDate.getUTCFullYear(), lastDate.getUTCMonth() + 1, 1)
+const pct = (time: number) => ((time - axisStart) / (axisEnd - axisStart)) * 100
+// Year boundaries (lines and labels); the first year is labelled at the start.
+const years = Array.from(
+  { length: lastDate.getUTCFullYear() - firstDate.getUTCFullYear() },
+  (_, i) => firstDate.getUTCFullYear() + 1 + i,
+).map((year) => ({ year, left: pct(Date.UTC(year, 0, 1)) }))
+const yearLabels = [{ year: firstDate.getUTCFullYear(), left: 0, start: true }, ...years.map((y) => ({ ...y, start: false }))]
+
+// Rows of one front: top-level battles by start date, each followed by its
+// sub-battles (and theirs), indented.
+type Row = { battle: LocalBattle; depth: number }
+function rowsOf(front: LocalBattle[]) {
+  const children = new Map<string, LocalBattle[]>()
+  for (const battle of front) {
+    const parent = parentOf(battle)
+    if (parent) children.set(parent, [...(children.get(parent) ?? []), battle])
+  }
+  const rows: Row[] = []
+  const add = (battle: LocalBattle, depth: number) => {
+    rows.push({ battle, depth })
+    for (const child of children.get(battle.id) ?? []) add(child, depth + 1)
+  }
+  // A battle whose parent is on another front stays at the top level here.
+  const ids = new Set(front.map((battle) => battle.id))
+  for (const battle of front) {
+    const parent = parentOf(battle)
+    if (!parent || !ids.has(parent)) add(battle, 0)
+  }
+  return rows
+}
+
+// Fronts in the order of the battle phases (as on /bitwy).
+const frontOrder = [...new Set(BATTLE_PHASES.map((phase) => phase.front))]
+const fronts = frontOrder
+  .map((key) => {
+    const front = battles.filter((battle) => battle.data.frontKey === key)
+    return {
+      name: lang === "en" ? frontEn(key) : key,
+      slug: slugify(lang === "en" ? frontEn(key) : key),
+      count: front.length,
+      rows: rowsOf(front),
+    }
+  })
+  .filter((front) => front.count > 0)
+
+const t = {
+  pl: {
+    back: "← Bitwy",
+    title: "Bitwy na osi czasu",
+    lead: "Wszystkie bitwy z kroniki na jednej osi czasu, front po froncie. Długość paska to czas trwania bitwy, wcięte wiersze to bitwy wchodzące w skład większej operacji.",
+    key: "kluczowa bitwa",
+    battle: "bitwa",
+    part: "część większej bitwy",
+    fronts: "Fronty",
+  },
+  en: {
+    back: "← Battles",
+    title: "Battles on a timeline",
+    lead: "Every battle in the chronicle on one time axis, front by front. A bar's length is how long the battle lasted; indented rows are battles that formed part of a larger operation.",
+    key: "key battle",
+    battle: "battle",
+    part: "part of a larger battle",
+    fronts: "Fronts",
+  },
+}[lang]
+const dates = (battle: LocalBattle) =>
+  formatDateRange(battle.data.startDate, battle.data.endDate, locale(lang))
+---
+
+<section class="mx-auto max-w-5xl px-6 pt-16 pb-24 sm:pt-24">
+  <a href={paths(lang).battles} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">
+    {t.back}
+  </a>
+  <h1 class="font-display text-ink mt-6 text-3xl font-medium sm:text-4xl">{t.title}</h1>
+  <p class="text-ink-soft mt-4 max-w-2xl">{t.lead}</p>
+
+  <div class="text-ink-soft mt-6 flex flex-wrap items-center gap-x-6 gap-y-2 font-mono text-xs">
+    <span class="flex items-center gap-2"><span class="bg-signal inline-block h-3 w-8 rounded-sm"></span>{t.key}</span>
+    <span class="flex items-center gap-2"><span class="bg-ink-soft/60 inline-block h-3 w-8 rounded-sm"></span>{t.battle}</span>
+    <span class="flex items-center gap-2"><span class="bg-ink-soft/35 inline-block h-2 w-8 rounded-sm"></span>{t.part}</span>
+  </div>
+
+  <nav aria-label={t.fronts} class="mt-6 flex flex-wrap gap-x-4 gap-y-2 font-mono text-xs">
+    {fronts.map((front) => (
+      <a href={`#${front.slug}`} class="text-signal hover:underline">{front.name} ({front.count})</a>
+    ))}
+  </nav>
+
+  {
+    fronts.map((front) => (
+      <section id={front.slug} class="mt-16 scroll-mt-24">
+        <h2 class="font-display text-ink text-2xl font-medium sm:text-3xl">
+          {front.name} <span class="text-ink-soft font-mono text-xs font-normal">({front.count})</span>
+        </h2>
+        <div class="mt-4 overflow-x-auto">
+          <div class="gantt relative min-w-[44rem]">
+            <div class="gantt-row border-line border-b" aria-hidden="true">
+              <span class="gantt-label"></span>
+              <span class="relative h-6">
+                {yearLabels.map(({ year, left, start }) => (
+                  <span
+                    class:list={["text-ink-soft absolute bottom-1 font-mono text-[10px]", !start && "-translate-x-1/2"]}
+                    style={`left:${left}%`}
+                  >
+                    {year}
+                  </span>
+                ))}
+              </span>
+            </div>
+            <div class="gantt-grid" aria-hidden="true">
+              {years.map(({ left }) => <span style={`left:${left}%`} />)}
+            </div>
+            <ul>
+              {front.rows.map(({ battle, depth }) => {
+                const left = pct(battle.data.startDate.valueOf())
+                const width = pct(battle.data.endDate.valueOf() + DAY) - left
+                return (
+                  <li>
+                    <a href={battle.href} class="gantt-row group" title={`${battle.data.title}: ${dates(battle)}`}>
+                      <span class="gantt-label" style={depth ? `padding-left:${depth * 0.875}rem` : undefined}>
+                        {battle.data.title}
+                        <span class="sr-only">, {dates(battle)}</span>
+                      </span>
+                      <span class="relative h-6">
+                        <span
+                          class={depth ? "gantt-bar-part" : battle.data.milestone ? "gantt-bar-key" : "gantt-bar"}
+                          style={`left:${left.toFixed(3)}%;width:${width.toFixed(3)}%`}
+                        />
+                      </span>
+                    </a>
+                  </li>
+                )
+              })}
+            </ul>
+          </div>
+        </div>
+      </section>
+    ))
+  }
+</section>

@@ -169,3 +169,44 @@
     @apply text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs;
   }
 }
+
+/* Battle timeline (BattleTimeline.astro): one row per battle, a sticky name
+   column and a time track with absolutely positioned bars. */
+@layer components {
+  /* Width of the name column: narrower on phones, where the chart scrolls. */
+  .gantt {
+    --gantt-label: 9rem;
+  }
+  @media (width >= 40rem) {
+    .gantt {
+      --gantt-label: 13rem;
+    }
+  }
+  .gantt-row {
+    @apply grid grid-cols-[var(--gantt-label)_1fr] items-center gap-3;
+  }
+  .gantt-label {
+    @apply bg-paper text-ink group-hover:text-signal sticky left-0 z-10 truncate py-0.5 text-xs transition-colors;
+  }
+  /* Year lines across the whole track, behind the bars. */
+  .gantt-grid {
+    @apply pointer-events-none absolute inset-y-0 right-0 left-[calc(var(--gantt-label)+0.75rem)];
+  }
+  .gantt-grid > span {
+    @apply border-line absolute inset-y-0 border-l;
+  }
+  .gantt-bar,
+  .gantt-bar-key,
+  .gantt-bar-part {
+    @apply absolute top-1/2 min-w-1 -translate-y-1/2 rounded-sm transition-colors;
+  }
+  .gantt-bar {
+    @apply bg-ink-soft/60 group-hover:bg-signal h-3;
+  }
+  .gantt-bar-key {
+    @apply bg-signal group-hover:bg-ink h-3;
+  }
+  .gantt-bar-part {
+    @apply bg-ink-soft/35 group-hover:bg-signal h-2;
+  }
+}
