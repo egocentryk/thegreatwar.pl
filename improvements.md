@@ -864,8 +864,7 @@ finished, tick it here and add its section above.
   helper into a real `scripts/i18n-commit.mjs`.
 - [x] Add a proper-name allowlist to `scripts/i18n-status.mjs` (the "Oraz
   Serdar" false positive) (§6)
-- [ ] Remove `plq.json` or add it to `.gitignore`. It has been untracked since
-  before the English edition.
+- [x] Remove `plq.json` (a leftover Wikipedia API response, never tracked).
 
 ### 6. Content quality
 - [ ] One review list of the ~115 open fact-check items (sources disagree, or
