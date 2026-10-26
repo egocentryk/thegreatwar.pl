@@ -1,6 +1,6 @@
 ---
 title: Broqueville ministrem spraw zagranicznych
-summary: 4 sierpnia 1917 premier Belgii Charles de Broqueville oddał resort wojny generałowi de Ceuninckowi, a sam przejął sprawy zagraniczne po baronie Beyensie.
+summary: 4 sierpnia 1917 premier Belgii Charles de Broqueville oddał resort wojny generałowi De Ceuninckowi, a sam przejął sprawy zagraniczne po baronie Beyensie.
 category: Polityka
 date: 1917-08-04
 authors: [Natalia]

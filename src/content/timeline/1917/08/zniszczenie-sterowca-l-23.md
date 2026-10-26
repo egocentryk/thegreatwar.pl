@@ -1,6 +1,6 @@
 ---
 title: Zniszczenie sterowca L 23
-summary: 21 sierpnia 1917 u wybrzeży Danii Sopwith Pup wystartowany z krążownika HMS Yarmouth zestrzelił sterowiec L 23. Cała załoga zginęła.
+summary: 21 sierpnia 1917 u wybrzeży Danii Sopwith Pup startujący z krążownika HMS Yarmouth zestrzelił sterowiec L 23. Cała załoga zginęła.
 category: Działania zbrojne
 front: Wojna na morzu
 date: 1917-08-21
@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rano 21 sierpnia 1917 roku nad [Morzem Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), u zachodnich wybrzeży [Jutlandii](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki), spadł w płomieniach niemiecki sterowiec marynarki L 23. Zestrzelił go jednomiejscowy myśliwiec [Sopwith Pup](https://pl.wikipedia.org/wiki/Sopwith_Pup), który wystartował z platformy na brytyjskim [krążowniku lekkim](https://pl.wikipedia.org/wiki/Krążownik_lekki) HMS Yarmouth. Pilotował go podporucznik lotnictwa marynarki Bernard Arthur Smart. Zginęła cała załoga sterowca. Uważa się, że był to pierwszy przypadek, w którym samolot wystartowany z pokładu okrętu na morzu zniszczył nieprzyjacielski statek powietrzny.
+Rano 21 sierpnia 1917 roku nad [Morzem Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), u zachodnich wybrzeży [Jutlandii](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki), spadł w płomieniach niemiecki sterowiec marynarki L 23. Zestrzelił go jednomiejscowy myśliwiec [Sopwith Pup](https://pl.wikipedia.org/wiki/Sopwith_Pup), który wystartował z platformy na brytyjskim [krążowniku lekkim](https://pl.wikipedia.org/wiki/Krążownik_lekki) HMS Yarmouth. Pilotował go podporucznik lotnictwa marynarki Bernard Arthur Smart. Zginęła cała załoga sterowca. Uważa się, że był to pierwszy przypadek, w którym samolot startujący z pokładu okrętu na morzu zniszczył nieprzyjacielski statek powietrzny.
 
 L 23 służył od kwietnia 1916 roku i był jednym z najbardziej zapracowanych sterowców floty. Według niemieckich zestawień odbył kilkadziesiąt lotów zwiadowczych nad morzem i trzy naloty na Anglię. W kwietniu 1917 roku zasłynął niezwykłym wyczynem: zatrzymał norweski żaglowiec Royal z drewnem dla Anglii, wysadził na niego załogę pryzową i odesłał go do Niemiec. Sterowce marynarki, takie jak L 23, były oczami Floty Pełnomorskiej. Wypatrywały brytyjskich okrętów i prowadziły rozpoznanie przed każdą operacją. Grand Fleet szukała więc sposobu, by je niszczyć daleko od brzegów Anglii, poza zasięgiem samolotów lądowych i [łodzi latających](/zniszczenie-sterowca-l-43).
 

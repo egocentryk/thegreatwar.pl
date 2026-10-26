@@ -6,7 +6,7 @@ country: Czechosłowacja
 side: Ententa
 born: 1892-02-14
 died: 1948-04-15
-birthPlace: Kotor (Czarnogóra)
+birthPlace: Kotor (Dalmacja, Austria)
 deathPlace: Praga
 aliases: [Radola Gajda]
 wikiTitles: [Radola_Gajda]
@@ -40,7 +40,7 @@ Pod koniec listopada jego grupa jekaterynburska uderzyła na Perm, uprzedzając 
 
 ## Upadek u Kołczaka
 
-Wiosną 1919 roku Armia Syberyjska nacierała na zachód, w stronę Wiatki i Kazania, w nadziei na połączenie z siłami sprzymierzonych na północy Rosji. Gdy ofensywa sąsiedniej Armii Zachodniej załamała się pod ciosami czerwonych, Gajda nie chciał przerzucić swoich sił na pomoc, a jego stosunki z Kołczakiem i jego sztabem szybko się psuły. Na początku lipca 1919 roku admirał odwołał go z dowództwa, a we wrześniu zwolnił ze służby i pozbawił rosyjskich odznaczeń. 17 listopada 1919 roku Gajda stanął we Władywostoku na czele eserowskiego powstania przeciw Kołczakowi. Po trzech dniach je stłumiono, a Gajdę uwolniono na żądanie sprzymierzonych misji pod warunkiem, że wyjedzie z Rosji.
+Wiosną 1919 roku Armia Syberyjska nacierała na zachód, w stronę Wiatki i Kazania, w nadziei na połączenie z siłami sprzymierzonych na północy Rosji. Gdy ofensywa sąsiedniej Armii Zachodniej załamała się pod ciosami czerwonych, Gajda nie chciał przerzucić swoich sił na pomoc, a jego stosunki z Kołczakiem i jego sztabem szybko się psuły. Na początku lipca 1919 roku admirał odwołał go z dowództwa, a we wrześniu zwolnił ze służby i pozbawił rosyjskich odznaczeń. 17 listopada 1919 roku Gajda stanął we Władywostoku na czele eserowskiego powstania przeciw Kołczakowi. Następnego dnia je stłumiono, a Gajdę uwolniono na żądanie sprzymierzonych misji pod warunkiem, że wyjedzie z Rosji.
 
 ## Po wojnie
 
