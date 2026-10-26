@@ -1,0 +1,24 @@
+---
+title: Portuguese land in France
+summary: On 2 February 1917 the 1st Brigade of the Portuguese Expeditionary Corps landed at Brest. The Portuguese went on to Flanders to train under British guidance.
+source: portugalczycy-laduja-we-francji
+sourceHash: ffa5ef5ee172e2ab5cd46ae980ae0b741f1d1a85
+---
+
+On 2 February 1917 at [Brest](https://pl.wikipedia.org/wiki/Brest), a port at the western tip of Brittany, the first soldiers of the [Portuguese Expeditionary Corps](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny) (Corpo Expedicionário Português, CEP) came ashore. This was the 1st Brigade under Manuel Gomes da Costa, the future commander of a Portuguese division in France and, after the war, one of the leaders of the 1926 coup d'état. Half a year after [the Portuguese parliament agreed to the country's participation in the war in Europe](/portugalia-postanawia-wyslac-wojska-do-europy), and a month after the signing of the [military convention with Britain](/brytyjsko-portugalska-konwencja-wojskowa), Portugal had at last sent her soldiers to the Western Front.
+
+## The voyage from Lisbon
+
+The brigade sailed from the [Tagus](https://pl.wikipedia.org/wiki/Tag_(rzeka)) on 30 January aboard three British steamers. Portuguese accounts stress that the embarkation took place despite very bad weather and many difficulties in loading units brought to Lisbon from all over the country. The passage across the [Bay of Biscay](https://pl.wikipedia.org/wiki/Zatoka_Biskajska), where German submarines were operating, took three days. Under the convention the British provided the transport, and Portugal was entirely dependent on them in this respect. So it was to remain throughout 1917: further contingents were shipped to France until the autumn, and according to Portuguese figures 59,388 men had arrived there by 28 October. The second echelon sailed from Lisbon as early as about 22–23 February.
+
+## To Flanders
+
+From Brest the soldiers travelled by rail to the other end of France, to French Flanders. The journey took two days. According to various sources the first battalion arrived on 7 or 8 February. The concentration area was fixed around Thérouanne, [Aire-sur-la-Lys](https://pl.wikipedia.org/wiki/Aire-sur-la-Lys) and [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)), behind the sector of the front that was to fall to the Portuguese. It lay at the northern end of the French part of the British front, not far from the Belgian border, in the low-lying, marshy valley of the river Lys. Men from the south of Europe arrived in the middle of an exceptionally hard winter, to which they were not accustomed. By the end of February there were already nine infantry battalions and an artillery battery in the concentration area.
+
+On arrival the Portuguese entered the British system. The corps was subordinated to British command and to the British First Army, received British [Lee-Enfield](https://pl.wikipedia.org/wiki/Karabin_Lee-Enfield) rifles in place of its own Mausers and went through intensive courses at British schools: the central training school, the rifle range, the schools for observers and snipers, and courses in bayonet fighting and physical training. The commander of the whole corps was General Fernando Tamagnini de Abreu e Silva, previously commander of the division trained at Tancos, appointed, according to French accounts, on 18 January. As early as February, after talks with the British military mission attached to his staff, he proposed to Lisbon that the single reinforced division be turned into a corps of two divisions organised on the British model. Lisbon agreed on 20 February.
+
+## Reception and what followed
+
+The British received their new allies with mixed feelings. From the outset the British command doubted the value of poorly trained troops and would rather have seen the Portuguese employed on work behind the lines. For the government in Lisbon, on the other hand, the corps in France was above all proof that Portugal was a full ally and deserved a place at the future peace table.
+
+On 4 April 1917 the first Portuguese units went into the trenches for training alongside the British, and on the same day the first Portuguese soldier to fall on the Western Front, António Gonçalves Curado, was killed. From November the corps held its own sector of the front independently in the area of [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle). In the winter morale declined: replacements were lacking because British ships were by then carrying Americans, and after the December coup of [Sidónio Pais](/postacie/sidonio-pais) the new government in Lisbon looked coolly on participation in the war. On 9 April 1918 the exhausted 2nd Division of the CEP was struck by the German attack that opened the [Battle of the Lys](https://pl.wikipedia.org/wiki/Bitwa_nad_Lys). The Portuguese lost thousands killed, wounded and taken prisoner in it.

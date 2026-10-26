@@ -1,7 +1,7 @@
 ---
 name: Talat Pasza
 summary: Minister spraw wewnętrznych i od 1917 roku wielki wezyr Imperium Osmańskiego. Przywódca młodoturków, główny organizator ludobójstwa Ormian.
-role: Minister spraw wewnętrznych (1913–1917) i wielki wezyr Imperium Osmańskiego (1917–1918), przewodniczący Komitetu Jedności i Postępu
+role: Minister spraw wewnętrznych (1913–1918) i wielki wezyr Imperium Osmańskiego (1917–1918), przewodniczący Komitetu Jedności i Postępu
 country: Imperium Osmańskie
 side: Państwa centralne
 born: 1874-09-01
@@ -14,7 +14,7 @@ authors: [Łukasz Skowroń]
 tags: [Talat Pasza, Imperium Osmańskie, ludobójstwo Ormian, Niemcy]
 ---
 
-Mehmed Talat, znany jako Talat Pasza (w zachodniej pisowni także Talat), był najważniejszym cywilnym przywódcą Imperium Osmańskiego w czasie wielkiej wojny. Razem z ministrem wojny [Enverem Paszą](/postacie/enver-pasza) i ministrem marynarki [Dżemalem Paszą](/postacie/dzemal-pasza) tworzył triumwirat młodoturków, który od 1913 roku rządził państwem w imieniu Komitetu Jedności i Postępu. Jako minister spraw wewnętrznych kierował od wiosny 1915 roku deportacjami Ormian, które przerodziły się w ludobójstwo, i historycy uznają go za głównego organizatora tej zbrodni. W lutym 1917 roku został wielkim wezyrem. W Brześciu Litewskim odzyskał dla imperium ziemie utracone na rzecz Rosji w 1878 roku, ale jesienią 1918 roku musiał przyznać się do klęski. Uciekł do Niemiec, sąd w Konstantynopolu skazał go zaocznie na śmierć, a w 1921 roku w Berlinie zastrzelił go Ormianin, który stracił rodzinę w czasie deportacji.
+Mehmed Talat, znany jako Talat Pasza (w zachodniej pisowni także Talaat), był najważniejszym cywilnym przywódcą Imperium Osmańskiego w czasie wielkiej wojny. Razem z ministrem wojny [Enverem Paszą](/postacie/enver-pasza) i ministrem marynarki [Dżemalem Paszą](/postacie/dzemal-pasza) tworzył triumwirat młodoturków, który od 1913 roku rządził państwem w imieniu Komitetu Jedności i Postępu. Jako minister spraw wewnętrznych kierował od wiosny 1915 roku deportacjami Ormian, które przerodziły się w ludobójstwo, i historycy uznają go za głównego organizatora tej zbrodni. W lutym 1917 roku został wielkim wezyrem. W Brześciu Litewskim odzyskał dla imperium ziemie utracone na rzecz Rosji w 1878 roku, ale jesienią 1918 roku musiał przyznać się do klęski. Uciekł do Niemiec, sąd w Konstantynopolu skazał go zaocznie na śmierć, a w 1921 roku w Berlinie zastrzelił go Ormianin, który stracił rodzinę w czasie deportacji.
 
 ## Przed wojną
 

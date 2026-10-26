@@ -1,0 +1,24 @@
+---
+title: Sinking of three American ships
+summary: Between 16 and 18 March 1917 German submarines sank the ships Vigilancia, City of Memphis and Illinois. Fifteen men died on the Vigilancia.
+source: zatopienie-trzech-amerykanskich-statkow
+sourceHash: 9cc87dec44a172b8cdff536a38e8ebea64a2c0cf
+---
+
+On Sunday 18 March 1917 word came from London that German submarines had sunk three American ships in three days: the *Vigilancia*, the *City of Memphis* and the *Illinois*. A week earlier, on 12 March, the steamer [*Algonquin*](/usa-uzbrajaja-statki-handlowe) had gone down after being shelled without warning, but all her men had survived. This time Americans had died. When on 3 February President [Woodrow Wilson](/postacie/woodrow-wilson) [broke off relations with Germany](/usa-zrywaja-stosunki-z-niemcami), he had declared that he would believe in its hostile intentions only when he saw "overt acts". In Washington it was felt that he had now seen them.
+
+## *Vigilancia*
+
+The steamer *Vigilancia*, of just over 4,100 gross register tons, left New York for [Le Havre](https://pl.wikipedia.org/wiki/Hawr) on 28 February with a general cargo, including sugar and foodstuffs. At about ten in the morning of 16 March, roughly 145 miles west of [Bishop Rock](https://pl.wikipedia.org/wiki/Bishop_Rock), she was struck without any warning by a torpedo from the submarine U-70 under Kapitänleutnant Otto Wünsche. According to the crew's statements, forwarded to Washington by the American consul in [Plymouth](https://pl.wikipedia.org/wiki/Plymouth), the ship was sailing under the American flag, with clear markings on her sides, and sank in seven minutes. Fifteen men drowned while the boats were being lowered, six of them Americans. The rest spent more than two days in the boats before reaching the [Isles of Scilly](https://pl.wikipedia.org/wiki/Scilly). The first reports spoke of 14 missing out of a crew of 43; the consul later gave the number of dead as 15.
+
+## *City of Memphis*
+
+The next day the *City of Memphis*, belonging to the Ocean Steamship Company of Savannah, went down off the south coast of Ireland. She was sailing in ballast from [Cardiff](https://pl.wikipedia.org/wiki/Cardiff) to New York. On board were 58 men, 29 or 30 of them Americans according to different accounts. On the afternoon of 17 March the submarine [UC-66](https://pl.wikipedia.org/wiki/SM_UC-66) fired a warning shot and, when the ship stopped, ordered the crew to abandon her. The men took to the boats in five minutes, after which the Germans sank the ship by gunfire, according to German records about 33 miles south of the Fastnet Rock. The submarine was commanded by Herbert Pustkuchen, who less than a year earlier, in UB-29, had torpedoed the ferry [*Sussex*](/storpedowanie-statku-sussex). The boats became separated during the night, but all were found. Some of the survivors landed at [Cobh](https://pl.wikipedia.org/wiki/Cobh), then Queenstown, while Captain L. P. Borum and eight men ended up as far away as Glasgow. No one was killed. The consul in Cork established that the captain had not used his wireless, because on 4 February the same ship had been stopped by a submarine near the Isles of Scilly and let go. He had counted on the same thing happening this time.
+
+## *Illinois*
+
+On the morning of 18 March, about 20 miles north of the island of [Alderney](https://pl.wikipedia.org/wiki/Alderney), [UC-21](https://pl.wikipedia.org/wiki/SM_UC-21) under Kapitänleutnant [Reinhold Saltzwedel](https://pl.wikipedia.org/wiki/Reinhold_Saltzwedel) shelled the tanker *Illinois*, belonging to the [Texas Company](https://pl.wikipedia.org/wiki/Texaco), without warning. The ship was sailing empty from London to [Port Arthur](https://pl.wikipedia.org/wiki/Port_Arthur_(Teksas)), Texas. The firing stopped only when the crew were in the boats. The Germans refused to take the boats in tow and sank the ship with explosive charges. Thirty-four men, 16 of them Americans, spent six hours at sea, and for the last few miles they were towed by a motor boat from Alderney. One seaman was slightly wounded.
+
+## "Overt acts"
+
+American officials told the press that these three cases, together with the *Algonquin*, were the gravest charges against Germany since 1 February. They proved that Berlin was ready to risk war with the United States rather than give up submarine warfare. The newspapers took a similar view. "Three more American ships have been sunk," wrote the New York *World*, arguing that Germany was already waging war on America. The British historian of the blockade Archibald Bell wrote years later that the press of the whole country greeted the news with "a roar of indignation". The government had already announced that it would arm ships sailing through the war zone, but none of the armed ships had yet reached it. Two days later the President asked his cabinet for advice. The ministers no longer had any doubt that it meant war.

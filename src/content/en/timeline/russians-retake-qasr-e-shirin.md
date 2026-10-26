@@ -1,0 +1,26 @@
+---
+title: Russians retake Qasr-e Shirin
+summary: On 31 March 1917 Radatz's Cossacks entered Qasr-e Shirin near the Iraqi border. The Turks, holding them at Pa Tak, had already escaped behind the Diyala.
+source: rosjanie-odbijaja-kasr-e-szirin
+sourceHash: d9bac6852858bbacc980dcd1329ff1a19fb00c0f
+---
+
+On 31 March 1917 a Russian column under General Radatz, of General Nikolai Baratov's corps, entered [Qasr-e Shirin](https://pl.wikipedia.org/wiki/Ghasr-e_Szirin), a border town in western Persia on the road from Kermanshah through [Khanaqin](https://pl.wikipedia.org/wiki/Chanakin) to Baghdad. According to F. J. Moberly's British official history of the Mesopotamian campaign, Radatz had with him 23 much-weakened squadrons of Cossacks, one company of infantry and four guns, and was expecting another ten companies and six guns on 2 April. The British chronology of the war records the capture of the town under 25 March, but on that day the Russians were still in the mountains, in front of the Pa Tak pass.
+
+Qasr-e Shirin was changing hands for the fourth time since December 1915. Then [the Turks took it](/wojska-osmanskie-zajmuja-kasr-e-szirin), in May 1916 [Baratov's cavalry entered it](/rosjanie-zajmuja-kasr-e-szirin), and in June [the Turks recovered it](/wojska-osmanskie-odbijaja-kasr-e-szirin). This time the Russians came too late to achieve what had been hoped for in London and Baghdad: Ali Ihsan Bey's Turkish XIII Corps, which had been falling back from Persia since the beginning of March, was already beyond their reach.
+
+## Ten days at Pa Tak
+
+After [recovering Kermanshah](/rosjanie-odbijaja-kermanszah) and [taking Kerend](/rosjanie-zajmuja-kerend), the Russians followed the Turks along the road that descended from the Iranian Plateau to the Mesopotamian plain through the gorge below the Pa Tak pass, between Kerend and [Sarpol-e Zahab](https://pl.wikipedia.org/wiki/Sarpol-e_Zahab). The position was naturally strong, and the Turks had prepared it for defence in advance. Moberly writes that it was held only by the 6th Regiment of the Ottoman 2nd Division and some cavalry, and yet they stopped the Russians for about ten days. As late as 29 March the Russians were still in front of the gorge. The British official and historian Arnold Wilson speaks of a mere two battalions of defenders.
+
+The Russians could not throw all their forces into the fight. They were short of food, ammunition and transport, there was snow in the mountains, the roads were broken up, and the Turks had stripped the area of supplies, animals and people. According to information that Maude received around 25 March from [Archibald Wavell](https://pl.wikipedia.org/wiki/Archibald_Wavell), the British liaison officer with the Russian Caucasus Army, the Russian infantry was still at Kermanshah or between Kermanshah and Hamadan, and only 32 sotnias of Cossacks with twelve field guns were following the Turks. There was no telegraph link with the leading units, and reports were carried by messengers. A Russian war communiqué of 26 March reported the capture of fortifications "in the direction of Khanaqin", but admitted that the Turks were still holding on in the surrounding hills.
+
+## Pincers that did not close
+
+The British were also waiting for the Turks. General [Frederick Stanley Maude](/postacie/frederick-maude), who on 11 March had [taken Baghdad](/bitwy/zdobycie-bagdadu), sent General Keary's column up the [Diyala](https://pl.wikipedia.org/wiki/Nahr_Dijala). It was to hold the XIII Corps around Qizil Ribat until the Russians arrived and catch it in a pincer. On 25 March two of Keary's brigades attacked the Turkish rearguard on the Jabal Hamrin ridge, which covered the crossings of the Diyala, but the attack failed. According to Wilson the British lost about 1,200 men, including about 300 taken prisoner.
+
+Ali Ihsan achieved his aim. Holding the Russians at Pa Tak and the British at Jabal Hamrin, he took his corps across a bridge over the Diyala, built about 20 kilometres south-west of Khanaqin, and withdrew northwards towards Kifri. Early on 29 March the Turks began to come down from Jabal Hamrin, and on 31 March, the same day Radatz entered Qasr-e Shirin, Keary's troops occupied the abandoned ridge. Moberly notes that many soldiers of the XIII Corps died of disease and exhaustion during the retreat from Persia, but that the corps suffered few losses at the hands of the Russians. The delay at Pa Tak, the strong position on Jabal Hamrin and the too-weak column that Maude was able to send up the Diyala allowed the Turks to escape from a situation that not long before had seemed dangerous for them.
+
+## An exhausted corps
+
+Radatz's men and horses were at the end of their strength. During the march the soldiers received heavily reduced rations, the horses, without grain, were fed on oak leaves, and the column had almost no transport and little ammunition. Two days later, on 2 April, a sotnia of Russian Cossacks met the British at Qizil Ribat on the Diyala. Moberly writes that at this time General Pavlov took over command of the corps from Baratov. Plans for a joint offensive on [Mosul](https://pl.wikipedia.org/wiki/Mosul) soon foundered on the heat of the Mesopotamian summer and on the disintegration of the army after the February Revolution.

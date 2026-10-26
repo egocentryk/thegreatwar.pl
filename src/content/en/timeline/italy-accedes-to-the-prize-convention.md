@@ -1,0 +1,14 @@
+---
+title: Italy accedes to the prize convention
+summary: On 15 January 1917 Italy acceded to the Anglo-French convention of 1914, which settled whose courts would judge ships seized by the Allies.
+source: wlochy-przystepuja-do-konwencji-pryzowej
+sourceHash: c83204d6f9caf53606f1eb58203ec26efc8068f7
+---
+
+On 15 January 1917 the Italian ambassador in London, the Marquis Guglielmo Imperiali, informed the British Foreign Secretary, [Arthur Balfour](/postacie/arthur-balfour), that the Italian government had decided to accede to the [prize convention](/konwencja-o-pryzach-morskich) concluded by Britain and France on 9 November 1914. The convention determined which of the Allies was to adjudicate on ships and cargoes seized in wartime when warships of several states operated together or when a warship of one ally stopped a merchant ship of another. It also regulated the division of the proceeds from the sale of jointly taken [prizes](https://pl.wikipedia.org/wiki/Pryz). Its Article 9 provided that the other Allies would be invited to accede, and that a state wishing to do so would notify the British government in writing, which would then forward a certified copy to Paris.
+
+The Italians had delayed for a long time. In his note Imperiali referred to the invitation that the then Foreign Secretary, [Edward Grey](/postacie/edward-grey), had addressed to Rome on 24 July 1915, two months after Italy entered the war. At that time Italy was fighting only Austria-Hungary. She [declared war on Germany](/wlochy-wypowiadaja-wojne-niemcom) only on 28 August 1916. Russia had acceded to the convention much earlier, on 5 March 1915.
+
+By then the agreement had changed. In an exchange of notes from February to April 1915 London and Paris had [broadened the interpretation](/brytyjsko-francuska-umowa-pryzowa) of its Article 2. When the cargo alone of an allied ship that had put into a port of the other ally was being adjudicated, the courts of that port could rule not only when the ship had originally been bound for an enemy port, but also on contraband consigned to neutral ports and on enemy property. Russia adopted the same interpretation in an exchange of notes concluded in October 1916. Imperiali stated that Italy was acceding to the convention notwithstanding this interpretation, that is, that she accepted it.
+
+On 26 January Balfour acknowledged receipt of the note. He recorded Italy's accession to the convention "as modified by the extended interpretation" of Article 2 and announced that certified copies would be sent to the governments of France and Russia. The British published both notes in the official treaty collection (Treaty Series 1917, No. 6). It was a small, technical step, but an important one for the joint economic war at sea. Ships stopped by Italian, British and French warships in the same waters of the Mediterranean were from then on to come before the courts according to a single set of agreed rules.

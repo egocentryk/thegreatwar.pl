@@ -1,0 +1,24 @@
+---
+title: Golitsyn becomes prime minister of Russia
+summary: On 9 January 1917 the Tsar dismissed Prime Minister Trepov. The post went to 66-year-old Prince Nikolai Golitsyn, who had begged to be spared.
+source: golicyn-premierem-rosji
+sourceHash: a8599db040e2c0a83282c9a2e6f4af933bbd6291
+---
+
+On 9 January 1917 (27 December 1916 by the Julian calendar) Tsar [Nicholas II](/postacie/mikolaj-ii) signed the decrees by which he dismissed the Russian prime minister, [Alexander Trepov](https://pl.wikipedia.org/wiki/Aleksandr_Triepow), and appointed Prince [Nikolai Golitsyn](https://pl.wikipedia.org/wiki/Nikołaj_Golicyn) in his place. A British chronology of the war records the change a day earlier, under 8 January. The French ambassador Maurice Paléologue noted in his diary on 10 January that Trepov, who had "repeatedly asked to be relieved", had been retired "yesterday". On the same day the education minister, Count Pavel Ignatyev, also lost his post.
+
+## Trepov's fall
+
+Trepov had headed the government for only seven weeks. He had taken it over in November [after the dismissal of Boris Stürmer](/dymisja-sturmera) in the hope of reaching an understanding with the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)). The condition for that understanding was the removal of the interior minister, [Alexander Protopopov](https://pl.wikipedia.org/wiki/Aleksandr_Protopopow), whom the deputies hated. The Tsar would not agree, because Protopopov was shielded by the Tsarina, [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna). The [prime minister's very first appearance in the Duma](/trepow-oglasza-prawo-rosji-do-konstantynopola) ended in shouts of "Down with Protopopov!". The British ambassador, George Buchanan, later wrote that Trepov resigned because he concluded that it was impossible to govern as long as Protopopov remained in the government. The [murder of Rasputin](/zabojstwo-rasputina) at the end of December shut the imperial couple even more tightly into a circle of confidants. Paléologue believed that in Trepov the Allied cause was losing its strongest guarantee, and the monarchy perhaps its last pillar.
+
+## Prime minister under compulsion
+
+Nikolai Dmitrievich Golitsyn was 66 and had behind him a long but quiet career in the civil service. He came from an old princely family. After graduating from the Alexander Lyceum he began his career in the Kingdom of Poland, among other posts as commissioner for peasant affairs in the Kolno district of the Łomża governorate. He was later governor of [Arkhangelsk](https://pl.wikipedia.org/wiki/Gubernia_archangielska), [Kaluga](https://pl.wikipedia.org/wiki/Gubernia_kałuska) and [Tver](https://pl.wikipedia.org/wiki/Gubernia_twerska), a senator from 1903, and from the end of 1915 a member of the [State Council](https://pl.wikipedia.org/wiki/Rada_Państwa_Imperium_Rosyjskiego), where he belonged to the group of the right. During the war he chaired a committee for the relief of Russian prisoners in enemy hands, which worked under the patronage of the Tsarina. According to Russian biographers it was she who pushed through his candidacy.
+
+Golitsyn did not want the post at all. Summoned to Tsarskoye Selo, he asked the Tsar to revoke the appointment and explained that he was not prepared for the role of prime minister. Paléologue noted that the prince had expressly refused and that the office had been forced upon him "by imperial command". The ambassador judged him a sensible and honest man, but weak and indolent, whose career had been "purely administrative and obscure". Buchanan wrote of him in similar terms: honest and full of goodwill, but without contact with the Duma and without the energy that the increasingly dangerous situation demanded. The American monthly *Current History* wrote that it was generally believed that Trepov's fall was a blow to the liberals and Golitsyn's appointment a triumph for reaction. Protopopov remained in office.
+
+## The last tsarist government
+
+A few days later, according to Paléologue on the evening of 15 January, Golitsyn had a frank conversation with the Tsar. He painted a grim picture of the mood in Petrograd and Moscow, warned that the lives of the imperial couple were in danger, and again asked to be relieved. The Tsar heard him out calmly and replied: "The Empress and I know that we are in the hands of God. His will be done!" He did not accept the resignation. The new government put off convening the Duma, which was eventually postponed to the second half of February.
+
+Golitsyn was the last prime minister of tsarist Russia. He governed for about two months, until the [February Revolution](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)). In March 1917 his cabinet resigned, and he himself was arrested. After the Bolshevik coup he stayed in the country and earned his living, among other things, by mending shoes. In 1925, after another arrest, he was shot in Leningrad.
