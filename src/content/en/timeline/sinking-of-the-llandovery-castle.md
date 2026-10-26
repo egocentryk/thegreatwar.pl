@@ -1,0 +1,32 @@
+---
+title: Sinking of the Llandovery Castle
+summary: On 27 June 1918 U-86 torpedoed the Canadian hospital ship Llandovery Castle and fired on the lifeboats. 234 people died, including 14 nurses.
+source: zatopienie-llandovery-castle
+sourceHash: c89553aa01db7d96254a0c01d93dc9209259cfb4
+---
+
+On 27 June 1918, at about 9.30 p.m., the German submarine [U-86](https://pl.wikipedia.org/wiki/SM_U-86) torpedoed the Canadian [hospital ship](https://pl.wikipedia.org/wiki/Statek_szpitalny) [*Llandovery Castle*](https://pl.wikipedia.org/wiki/Zatopienie_HMHS_Llandovery_Castle) in the Atlantic, about 116 nautical miles south-west of the Fastnet Rock off the coast of Ireland. The ship was returning to England from [Halifax](https://pl.wikipedia.org/wiki/Halifax_(miejscowość_w_Kanadzie)), where she had taken wounded and sick soldiers. She sank in about ten minutes. The submarine then surfaced, questioned the survivors and afterwards opened fire on the lifeboats with its gun. Of the 258 people on board only 24, all from a single boat, survived. 234 people died, among them all fourteen Canadian nurses. It was Canada's deadliest maritime disaster of the war and one of the most notorious crimes of the submarine war.
+
+## The ship and her voyage
+
+The *Llandovery Castle* was a Union-Castle Line liner, built in 1914 in Glasgow, of over 10,000 GRT. From 1916 she served as a hospital ship assigned to the Canadian medical service, carrying wounded and sick soldiers from Europe to Canada. According to the Canadian official history she made five voyages in this service and carried over 3,200 patients. She had 622 beds and was marked as the [Hague Convention](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) required: a white hull with a green band, red crosses and lighting at night. Her name, like those of all hospital ships, had been notified to the enemy.
+
+On her last voyage the ship sailed from Halifax to Liverpool. There were no patients, weapons or ammunition on board. She carried 164 crew under Captain Sylvester, 80 officers and men of the Canadian Army Medical Corps and 14 nurses with their matron, Margaret Marjory Fraser, daughter of a former Lieutenant Governor of Nova Scotia. On the evening of 27 June the ship was sailing with her lights on, as the regulations required of hospital ships.
+
+## The torpedo
+
+U-86 was commanded by *Oberleutnant zur See* Helmut Patzig. He had been shadowing the ship for some time and, at the latest at dusk, when the lights were switched on, knew that he had a hospital ship before him. German orders allowed hospital ships to be attacked only in a designated zone, and this area lay far outside it. Patzig was convinced, however, that the Allies were carrying troops and ammunition in hospital ships, and on the *Llandovery Castle* he expected, for unexplained reasons, American airmen. Despite the objections of two officers standing with him in the conning tower, he ordered a torpedo to be fired.
+
+The torpedo struck the port side amidships. The explosion destroyed some of the lifeboats on that side, but in the good weather several others were successfully lowered. The crew and medical staff remained calm. Sergeant Arthur Knight was in the boat with the nurses. It could not be cut loose from the ship's side, the oars broke in attempts to push off from the hull, and when the boat finally got clear it was dragged into the vortex of the sinking stern. Knight recalled that for several minutes in the boat he did not hear a single complaint from the nurses. Matron Fraser only asked him whether there was any hope for them. All of them died. Captain Sylvester was the last to leave the ship.
+
+## Firing on the lifeboats
+
+After the ship had sunk, U-86 surfaced and forced the captain's boat, which was picking people out of the water, to come alongside. Patzig accused Sylvester of carrying eight American airmen. A Canadian doctor, Major Thomas Lyon, whom the Germans took for an airman, was also questioned, and then two of the ship's officers. All denied that there had been soldiers or ammunition on board, and no evidence was found. The submarine moved off, came back and circled so close to the boat that the survivors thought it meant to ram them. When the captain's boat raised a sail and began to move away, shots were fired from the submarine. The first shells passed over it, then the fire was shifted in another direction. According to the findings of the later trial, a dozen or so shots in all were fired at close range at the other lifeboats. Only Patzig, his two watch officers and an experienced gunner were then on deck. The rest of the crew had been sent below.
+
+The captain's boat with 24 men drifted for about 36 hours. On the morning of 29 June they were picked up by the British destroyer *Lysander*. The sloop *Snowdrop* and four American destroyers searched the area until 1 July, but found only one empty lifeboat. According to the Canadian official history only six of the medical staff survived. Patzig concealed the attack: he did not enter it in the log, plotted a false course on the chart and bound the crew to silence. When Britain protested through Spain, the German government denied that the ship had been sunk at all.
+
+## Repercussions
+
+In Canada the news caused a wave of outrage. The nurses' deaths were used in propaganda and in the war loan campaign. The commander of one Canadian brigade ordered his soldiers to attack with the cry "Llandovery Castle" in the August offensive at Amiens. It was the latest sinking of a hospital ship with heavy loss of life after the [sinking of the *Glenart Castle*](/zatopienie-statku-szpitalnego-glenart-castle) in February, and three weeks earlier the Dutch [*Koningin Regentes*](/zatoniecie-koningin-regentes), carrying prisoners for exchange, had also gone down in the North Sea.
+
+After the war the case came before the German Reich Court in [Leipzig](https://pl.wikipedia.org/wiki/Lipsk) as one of the six British cases in the war crimes trials. Patzig, a native of Danzig, disappeared and never stood trial. The German authorities themselves arrested his two officers, Ludwig Dithmar and John Boldt. In July 1921 the court found that the lifeboats had been fired on in order to sink them and sentenced both men to four years' imprisonment for aiding and abetting manslaughter. It was one of the few convictions in these trials, but both soon escaped from prison, and abroad the sentences were considered grossly lenient.

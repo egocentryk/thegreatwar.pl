@@ -1,0 +1,26 @@
+---
+title: Radoslavov resigns
+summary: On 21 June 1918 Tsar Ferdinand appointed Malinov's government. Radoslavov's cabinet, which took Bulgaria into the war and failed over Dobruja, stood down.
+source: dymisja-radoslawowa
+sourceHash: be376a8cdffae0e52f6de6fa2865ee22c0bff78f
+---
+
+On 21 June 1918 Tsar [Ferdinand I](/postacie/ferdynand-i-koburg), by decree no. 4, appointed a new Bulgarian government headed by [Aleksandar Malinov](/postacie/aleksandyr-malinow). The decree was published the next day in the official gazette, *Darzhaven vestnik*. That day the cabinet of [Vasil Radoslavov](/postacie/wasil-radoslawow), prime minister since July 1913 and also foreign minister, formally came to an end. The resignation itself had come a few days earlier. The German politician and former Vice-Chancellor [Karl Helfferich](https://pl.wikipedia.org/wiki/Karl_Helfferich) wrote in his memoirs of "the middle of June", some German works give 16 June, and the British chronology of the war recorded Radoslavov's resignation and Malinov's appointment under 18 June. Bulgaria was by then already using the Gregorian calendar, so these dates need no conversion.
+
+The departing politician was the man who had bound the country to Germany. Radoslavov, leader of the [Liberals known as the Radoslavists](https://pl.wikipedia.org/wiki/Partia_Liberalna_(radosławiści)), had kept both sides guessing for a year, and in September 1915 he signed in Sofia the [alliance with Germany](/traktat-sojuszniczy-w-sofii) that brought Bulgaria into the war. In the first years this brought great gains: Serbian Macedonia, eastern Serbia and, after the 1916 campaign, Dobruja. In the spring of 1918, however, the prime minister's prestige was wrecked precisely on [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża).
+
+## Dobruja and the Turks
+
+The Bulgarians expected the peace with Romania to give them the whole region. The [Treaty of Bucharest](/pokoj-w-bukareszcie) of 7 May gave them only southern Dobruja with a small strip in the north, and placed the rest under the joint rule of the four Central Powers. Behind this arrangement lay a dispute with the Turks. In return for agreeing to hand northern Dobruja to Bulgaria, the Ottoman Empire demanded the return of the lands on the Maritsa which in 1915 it had [ceded to the Bulgarians](/konwencja-graniczna-w-didimoticho) as the price of their entry into the war. The German Supreme Command was inclined to back the Turks, while the Foreign Office warned that pressure on Sofia would topple Radoslavov and bring to power a government hostile to Germany. Helfferich, who had tried to mediate in the dispute in the spring, recalled that Radoslavov, with an eye to agitated public opinion, rejected even modest concessions to the Turks, while the Turks for their part would not give up any of their demands.
+
+In the end Bulgaria received at Bucharest what it had been promised in 1915. But the demand for the immediate handover of the whole of Dobruja had become at home, as Helfferich wrote, a matter of national honour, and public opinion regarded the peace as a defeat for the government. When in the following weeks the Turks still would not agree to the transfer of the northern part of the region, and serious food supply difficulties were added to the disappointment, Radoslavov's cabinet had to resign.
+
+## Hunger and war-weariness
+
+Dobruja was the last straw. After three years of war Bulgaria was suffering from shortages of food and clothing, partly because of mismanagement and partly through German requisitions and exports. Riots broke out in the towns, including women's protests against high prices and shortages. Radoslavov's government was regarded as corrupt and subservient to Berlin, and war-weariness was growing in the army. [Erich Ludendorff](/postacie/erich-ludendorff) later named among the causes of the cabinet's fall also the influence of events on the Western Front, the Treaty of Bucharest and "personal considerations".
+
+## Malinov's government
+
+Malinov, leader of the [Democratic Party](https://pl.wikipedia.org/wiki/Partia_Demokratyczna_(Bułgaria)), had already been prime minister in 1908–1911, and in 1908 his government had prepared the proclamation of Bulgarian independence. In 1915 he had argued for an understanding with the Entente. His new cabinet was made up of Democrats and Radical Democrats; the prime minister also took the foreign ministry himself, and [Andrey Lyapchev](https://pl.wikipedia.org/wiki/Andrej_Lapczew) became minister of finance. According to some historians the tsar chose him because he was regarded as moderate and could, if necessary, open the way to talks with the other side. For the time being, however, the new government announced that Bulgaria would remain in the alliance and fight on.
+
+In Berlin the change was received with unease. Helfferich called Malinov a politician "at least doubtful" in his feelings towards Germany, and Ludendorff wrote that the new prime minister "was no friend of the alliance", while some of his ministers openly favoured the Entente. The British official history of the Macedonian campaign notes that the Bulgarians already regretted entering the war and hoped that Malinov's government would lead them out of it. This happened in September 1918, but only after defeat at the front.

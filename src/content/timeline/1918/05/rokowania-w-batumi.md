@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 maja 1918 roku w [Batumi](https://pl.wikipedia.org/wiki/Batumi), porcie zajętym przez Turków [niespełna miesiąc wcześniej](/turcy-zajmuja-batumi), zebrała się konferencja pokojowa między Imperium Osmańskim a Zakaukaską Republiką Federacyjną. Był to ciąg dalszy rokowań, które w marcu i kwietniu toczyły się w Trapezuncie. Brytyjska chronologia wojny notuje pod 6 maja przybycie do Batumi delegatów tureckich i niemieckich, ale pierwsze i jedyne formalne posiedzenie konferencji odbyło się według zgodnych relacji historyków i uczestników 11 maja. Tak datują je brytyjscy historycy wojen kaukaskich W.E.D. Allen i Paweł Muratow, ormiański historyk Richard Hovannisian i rosyjskie opracowania.
+11 maja 1918 roku w [Batumi](https://pl.wikipedia.org/wiki/Batumi), porcie zajętym przez Turków [niespełna miesiąc wcześniej](/turcy-zajmuja-batumi), zebrała się konferencja pokojowa między Imperium Osmańskim a Zakaukaską Republiką Federacyjną. Był to ciąg dalszy rokowań, które w marcu i kwietniu toczyły się w Trapezuncie. Brytyjska chronologia wojny notuje pod 6 maja przybycie do Batumi delegatów tureckich i niemieckich, ale pierwsze i jedyne formalne posiedzenie konferencji odbyło się według zgodnych relacji historyków i uczestników 11 maja. Tak datują je historycy wojen kaukaskich, Brytyjczyk W.E.D. Allen i rosyjski emigrant Paweł Muratow, ormiański historyk Richard Hovannisian i rosyjskie opracowania.
 
 ## Delegacje
 

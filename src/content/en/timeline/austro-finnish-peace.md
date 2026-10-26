@@ -1,0 +1,14 @@
+---
+title: Austro-Finnish peace
+summary: On 29 May 1918 in Vienna Finland made peace with Austria-Hungary. It was the last of its four peace treaties with the Central Powers.
+source: pokoj-austro-finski
+sourceHash: 1129c5926c57e51b32be437aae999a1ff85da641
+---
+
+On 29 May 1918 a peace treaty between [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) and [Finland](https://pl.wikipedia.org/wiki/Finlandia) was signed in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń). The date and place are given consistently by the British chronology of the war and by Finnish chronologies of the events of 1918. Like the earlier agreements with the Central Powers, the treaty ended a formal state of war. As a Grand Duchy, Finland had belonged to the Russian Empire, with which the Habsburg monarchy had been at war since August 1914. The government in Vienna had recognised Finnish independence as early as 13 January 1918, but peace was concluded only now, a few weeks after the end of the civil war in Finland.
+
+The Vienna treaty closed the series of Finnish peace treaties with the four Central Powers. Finland concluded the first and most important [with Germany on 7 March](/pokoj-niemiecko-finski), which bound it politically and economically to the Reich. It was followed in May by the [treaty with Turkey](/pokoj-finsko-turecki), signed on 11 May, and the treaty with Bulgaria, concluded on 21 May. All three were signed in Berlin, where the Finnish envoy was Senator Edvard Hjelt. The agreement with Austria-Hungary was the only one concluded outside the German capital.
+
+For Vienna the treaty was of a rather formal significance. The monarchy had no interests of its own in Finland comparable to Germany's, and was itself increasingly dependent on Berlin, especially after the [meeting of the emperors at Spa](/spotkanie-w-spa) on 12 May. For the Finns it was another step in building the international standing of a state that had only just emerged from civil war. On 16 May the victorious White troops marched through Helsinki, and on 18 May parliament entrusted supreme power to [Pehr Evind Svinhufvud](/postacie/pehr-evind-svinhufvud). On the same day that peace was concluded in Vienna, the German Supreme Army Command informed the Baltic Sea Division stationed in Finland that it would remain in the country until further notice.
+
+The country thus remained in Germany's orbit, and among its leaders support grew for a monarchy with a German prince on the throne. In the autumn parliament elected [Prince Frederick Charles of Hesse](https://pl.wikipedia.org/wiki/Fryderyk_Karol_Heski) King of Finland. The defeat of the Central Powers in November 1918 put an end to these plans, and Austria-Hungary, with which Finland had made peace only half a year earlier, broke up into nation states.

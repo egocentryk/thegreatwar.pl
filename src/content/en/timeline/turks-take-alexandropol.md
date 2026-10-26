@@ -1,0 +1,20 @@
+---
+title: Turks take Alexandropol
+summary: On 15 May 1918 the Turks crossed the Arpaçay without awaiting a reply to an ultimatum and took Alexandropol. The Armenians fell back to Erivan and Karakilisa.
+source: turcy-zajmuja-aleksandropol
+sourceHash: f6a151bffa3adff0af66a63cb499cb96e856c2a3
+---
+
+On 15 May 1918 Ottoman troops took Alexandropol, today [Gyumri](https://pl.wikipedia.org/wiki/Giumri), one of the largest towns of Russian Armenia and an important railway junction of Transcaucasia. That is the date given by the British historians of the Caucasian wars W.E.D. Allen and Paul Muratoff, and by Armenian and Russian studies. The British chronology of the war records the town's capture under 18 May, but by then the Turks were already far to the east of it. Alexandropol lay on the Russian side of the old frontier of 1877, outside the lands that [the Treaty of Brest-Litovsk](/traktat-brzeski) gave to Turkey. Its capture opened the second phase of the Turkish offensive in Transcaucasia.
+
+## An ultimatum without waiting for a reply
+
+After [the surrender of Kars](/turcy-zajmuja-kars) the Armenian troops had withdrawn at the end of April behind the river Arpaçay ([Akhurian](https://pl.wikipedia.org/wiki/Achurian)) and were waiting for the outcome of the negotiations. [At the Batum conference](/rokowania-w-batumi), opened on 11 May, the Turks demanded, however, among other things the Alexandropol district and the railway running through Armenia to Persia. On the night of 14/15 May they presented the Transcaucasian delegation with an ultimatum: the Armenians were to leave Alexandropol within twenty-four hours and withdraw to a line about 40 kilometres east of the town. According to Allen and Muratoff, the Turks did not wait for a reply. At dawn on 15 May their troops crossed the Arpaçay and advanced towards the road from Alexandropol to Tiflis. Two divisions of I Caucasian Corps, the 36th and the 9th Caucasian, then stood between Kars and Alexandropol.
+
+The Armenians, taken by surprise in the middle of the negotiations, withdrew in haste and disorder without attempting to defend the town. As at Kars, huge stores fell into Turkish hands. Since 1877 Alexandropol had no longer been a fortress, but it remained the main supply depot of the Russian Caucasus front. In the town the railway from Kars joined the line from Tiflis to Julfa on the Persian border, and from here roads led to [Erivan](https://pl.wikipedia.org/wiki/Erywań) and Tiflis.
+
+## Retreat in two directions
+
+The commander of the Armenian corps, General Tovmas Nazarbekian, had his headquarters at Karakilisa (today [Vanadzor](https://pl.wikipedia.org/wiki/Wanadzor)), about 55 kilometres east of Alexandropol. According to Allen and Muratoff, he ordered his main forces to halt west of Hamamlu station (today [Spitak](https://pl.wikipedia.org/wiki/Spitak)), where the road to Erivan branched off from the highway. The volunteer regiments and two cavalry regiments were to march south to help the group defending Erivan, and the famous partisan commander [Andranik Ozanian](/postacie/andranik-ozanian) with two regiments was to cover the fork of the roads to Tiflis and Akhalkalaki. Some of the troops that had left Alexandropol fell back to the Ararat plain, where General Movses Silikian began organising the defence of the roads to Erivan.
+
+The fall of Alexandropol cut Armenia off from the world. Hundreds of thousands of refugees from Western Armenia, Kars and the Alexandropol area gathered on the scrap of land around Erivan, and the panic reached Tiflis. According to Allen and Muratoff, against about 30,000 Turkish infantry the Armenians could field about 20,000 rifles. A few days later the Erivan city council even resolved that the city would be surrendered without a fight and the population evacuated to the mountains, but the Armenian leaders overturned the decision. The Turks pressed on: on 19 May they took a pass on the road to Tiflis, and on 21 May the fighting began at Sardarabad, Hamamlu and Bash Abaran that was to decide the fate of Armenia.

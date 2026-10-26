@@ -1,0 +1,20 @@
+---
+title: Armistice of Korenevo
+summary: On 4 May 1918 at Korenevo station near Kursk, envoys of Soviet Russia and the German-Ukrainian command agreed an armistice and marked out a neutral zone.
+source: rozejm-w-korieniewie
+sourceHash: 77a954c5ea46f4b88c6ccc658f75f26c90cf5e10
+---
+
+On 4 May 1918, at the railway station of [Korenevo](https://pl.wikipedia.org/wiki/Korieniewo_(obwód_kurski)) in the Kursk governorate, representatives of Soviet Russia and of the German-Ukrainian command signed an agreement to halt the fighting. On the German side the agreement was concluded by three officers headed by a major, and on the Soviet side by the chief of staff of the troops of the Kursk district, the secretary of the Soviet peace delegation and the commissar of the Kursk district. The agreement covered the sector of the front between Rylsk and [Sudzha](https://pl.wikipedia.org/wiki/Sudża), but it was the first step towards ending hostilities along the whole length of the border between Russia and Ukraine. According to its text, it was to lead to an armistice and peace negotiations.
+
+Russia was forced into talks by the situation at the front. The [Treaty of Brest-Litovsk](/traktat-brzeski) obliged it to make peace with Ukraine without delay and to recognise the [treaty Ukraine had concluded with the Central Powers](/pokoj-brzeski-z-ukraina), but the fighting went on. German troops, driving the Red detachments out of Ukraine, [took Kharkov in April](/niemcy-zajmuja-charkow) and pushed further east and north, crossing the borders the treaties assigned to Ukraine. On 13 April German and Ukrainian units occupied Korenevo itself, which already lay in the Kursk governorate. The Soviet peace delegation, chaired by [Joseph Stalin](/postacie/jozef-stalin), was waiting in [Kursk](https://pl.wikipedia.org/wiki/Kursk) for negotiations with Ukraine. It was there that the talks on a ceasefire began, which ended at Korenevo.
+
+## The neutral zone
+
+The agreement marked out a neutral zone 10 kilometres wide. Its boundary on the German side ran from Sudzha through Korenevo and along the railway to Rylsk, and on the Soviet side through villages further east and along the railway from Korenevo to Lgov. Both sides undertook not to send sentry or reconnaissance patrols into the zone, not to fly aircraft over it and not to requisition food in it. From the moment of signature there were to be no major military operations. Since it was difficult to inform all the Russian units of the agreement quickly, it came fully into force only at four in the afternoon on 5 May.
+
+On 5 May [Vladimir Lenin](/postacie/wlodzimierz-lenin) and Stalin sent a telegram to the front announcing the armistice and ordering that it be observed. In connection with the armistice [Vladimir Antonov-Ovseyenko](https://pl.wikipedia.org/wiki/Władimir_Antonow-Owsiejenko) stepped down as commander-in-chief of the Soviet forces in Ukraine. The German march east, begun in February, came to a halt on this sector at the armistice line. Further south, on the Don, the Germans went on advancing for several more days.
+
+## What came next
+
+The talks moved to [Konotop](https://pl.wikipedia.org/wiki/Konotop), where on 6 May a second agreement was concluded on the same terms, extending the armistice to a further sector of the front, from Rylsk to [Belgorod](https://pl.wikipedia.org/wiki/Biełgorod). A neutral zone along the demarcation line, wider in places, lasted until the autumn. Russia's partner in the negotiations was no longer the Ukrainian People's Republic but the Hetman's [Ukrainian State](https://pl.wikipedia.org/wiki/Państwo_Ukraińskie_(hetmanat)), created after [Skoropadskyi's coup](/skoropadski-hetmanem). Peace talks began in Kyiv on 23 May. The Soviet delegation was led by [Christian Rakovsky](https://pl.wikipedia.org/wiki/Christian_Rakowski), the Ukrainian one by Senator Serhiy Shelukhyn. On 12 June a preliminary agreement on a ceasefire along the whole front was signed, but a peace treaty and the fixing of the border never came about. The Bolsheviks dragged out the negotiations, waiting for Germany's defeat, and in October broke them off.

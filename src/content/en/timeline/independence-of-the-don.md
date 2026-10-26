@@ -1,0 +1,26 @@
+---
+title: Independence of the Don
+summary: On 17 May 1918 the Krug for the Salvation of the Don adopted the basic laws of the All-Great Don Host. A Cossack state under Ataman Krasnov arose on the Don.
+source: niepodleglosc-donu
+sourceHash: b09682c8fa6bd3982ba47628477418264734020f
+---
+
+On 17 May 1918 (4 May in the Julian calendar) the Krug for the Salvation of the Don, an assembly of delegates of the Cossack stanitsas and units meeting in [Novocherkassk](https://pl.wikipedia.org/wiki/Nowoczerkask), adopted the "Basic Laws of the All-Great Don Host". This short act of fifty articles gave the lands of the [Don Cossacks](https://pl.wikipedia.org/wiki/Kozacy_dońscy) the constitution of a state: an ataman with full powers, a government, courts, a treasury, an army, and also its own flag, coat of arms and anthem. The day before, the Krug had elected General [Pyotr Krasnov](https://pl.wikipedia.org/wiki/Piotr_Krasnow) ataman. Thus arose the state known as the [Don Republic](https://pl.wikipedia.org/wiki/Republika_Dońska) or, as Krasnov preferred, the All-Great Don Host. Many studies give 18 May, the last day of the Krug's session, as the date of its proclamation. The British chronology of the war records the Don Cossacks' declaration of independence only under 4 June, but Russian documents and studies consistently point to the middle of May.
+
+## The Krug for the Salvation of the Don
+
+In February, after [Ataman Kaledin's suicide](/samobojstwo-kaledina), the Bolsheviks took power on the Don, and in March they proclaimed the [Don Soviet Republic](https://pl.wikipedia.org/wiki/Dońska_Republika_Radziecka). In the spring the stanitsas began to revolt, the Germans were approaching from the west, and at the beginning of May the insurgents took Novocherkassk and [the Germans entered Rostov](/niemcy-zajmuja-rostow). The provisional Don government then summoned to the Cossack capital delegates from the stanitsas that had managed to free themselves from the Reds and from the units fighting at the front. This was not a full Great Host Krug, in which representatives of all the districts would sit, but an assembly convened for the duration of the war, hence its name. It met from 11 to 18 May (28 April to 5 May Old Style).
+
+On 14 May Krasnov gave the Krug a report on the situation of the Don, in which he called for the creation of an independent state. On 16 May the delegates elected him ataman: according to the minutes 107 voted for his candidacy, 13 against and 10 abstained. The new ataman received full powers until the Great Krug was convened. The Krug also decreed a general mobilisation of the Cossacks and a return to the Julian calendar, which the Soviet government had replaced with the Gregorian in February.
+
+## The ataman's state
+
+The basic laws, put forward by Krasnov, were modelled on the Fundamental Laws of the Russian Empire. The ataman approved laws, appointed the government, that is the council of heads of departments, was commander-in-chief of the army and navy and conducted relations with foreign states. The laws recognised Orthodoxy as the dominant faith, guaranteed civil liberties and the inviolability of property, restored the former imperial law on the Don and annulled all decrees of the Provisional Government and the Council of People's Commissars. The flag had three stripes: blue, yellow and red. According to the law these were the colours of the three native peoples of the Don: the Cossacks, the Kalmyks and the Russian peasants. The old coat of arms of the Host was restored, a naked Cossack in a papakha, with a sabre and a rifle, sitting on a barrel, and the song "Vskolykhnulsya, vzvolnovalsya pravoslavny Tikhy Don" became the anthem.
+
+The word "independence" does not appear in the laws. The act was to be in force only until the Great Krug was convened and the country "completely pacified", and Krasnov spoke of the rebirth of Russia. In practice, however, the Cossack Don became a separate state with its own foreign policy, army and currency, and Krasnov wanted it recognised as such.
+
+## Between Germany and the Entente
+
+When Krasnov took power, roughly a third of the Don Host Oblast was occupied by German troops. In his first order, issued on the night after the laws were adopted, the new ataman wrote that "yesterday's external enemy", the Austrians and Germans, had entered the lands of the Host to fight the Red bands together with the Cossacks. He staked everything on cooperation with the occupiers: Don grain was to go to Germany, and German weapons and ammunition to the newly forming [Don Army](https://pl.wikipedia.org/wiki/Armia_Dońska_(Biała_Armia)). Some of these weapons went on to the [Volunteer Army](https://pl.wikipedia.org/wiki/Armia_Ochotnicza_(Biała_Armia)) of General [Anton Denikin](/postacie/anton-denikin), which remained loyal to the Entente and looked on the ataman's pro-German orientation with disfavour.
+
+The Germans were in no hurry to grant formal recognition. In June an envoy of Field Marshal Eichhorn brought to Novocherkassk the news that the German authorities recognised the ataman, and in July Krasnov wrote a letter to Emperor Wilhelm II asking him to recognise the right of the All-Great Don Host to an independent existence. The Great Krug, convened in August, adopted a new, expanded version of the basic laws in September.

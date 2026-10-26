@@ -1,0 +1,30 @@
+---
+title: Formation of the RAF
+summary: On 1 April 1918 the Royal Flying Corps and the Royal Naval Air Service merged to form the Royal Air Force, independent of both the army and the navy.
+source: powstanie-raf
+sourceHash: b3d4a97cdc827c0c3f4379fa3c4ee93f813880cd
+---
+
+On 1 April 1918 two British air services ceased to exist which since the start of the war had fought side by side but under different commands: the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), the army's air arm, and the [Royal Naval Air Service](https://pl.wikipedia.org/wiki/Royal_Naval_Air_Service), the navy's. That day their men, aircraft, aerodromes and schools passed into a new armed service, the [Royal Air Force](https://pl.wikipedia.org/wiki/Royal_Air_Force). It answered neither to the War Office nor to the Admiralty, but to the Air Ministry and the Air Council. It is usually regarded as the world's first air force independent of the army and the navy. The [Finnish Air Force](https://pl.wikipedia.org/wiki/Fińskie_Siły_Powietrzne), created on 6 March 1918, also claims precedence, but at the time it had a single aircraft.
+
+## The road to the merger
+
+The idea arose in the summer of 1917, after daylight raids by German bombers on London. General [Jan Smuts](/postacie/jan-smuts), a member of the War Cabinet, recommended in a report of 17 August 1917 the creation of a separate air service, on an equal footing with the army and the navy. He argued that aircraft might one day destroy the enemy's industry and cities on a large scale, and that two rival services were wasting engines, machines and men. In November Parliament passed the [Air Force Act](/ustawa-o-silach-powietrznych), in December the King fixed the composition of the [Air Council](/utworzenie-rady-sil-powietrznych), and [at the beginning of January 1918](/utworzenie-ministerstwa-lotnictwa) the Air Ministry began work, headed by Lord Rothermere as Secretary of State.
+
+Over the following weeks the ministry prepared the merger. Tens of thousands of men had to be transferred to the new service, and ranks, uniforms and regulations had to be settled. According to the British official history of the air war, the Air Council decided on 19 February 1918 that the King had approved the name "Royal Air Force", and the royal proclamation on the matter was issued on 7 March. The dispute over officers' ranks took a good deal of time. The committee dealing with it even considered invented new titles such as "ardian" or "banneret", but in the end the War Cabinet adopted the Admiralty's view that airmen should hold army ranks. That is why on 1 April naval officers who moved to the RAF exchanged their naval ranks for army ones. The air force received its own rank titles only in August 1919.
+
+## The first day
+
+The new service came into being at a moment of the severest trial. The [great German offensive](/bitwy/operacja-michael) had been under way on the Somme for eleven days, and British airmen were constantly attacking the advancing columns, reconnoitring and fighting German fighters. The change of name did not interrupt this work: the squadrons went on flying from the same aerodromes with the same machines. Command of the RAF in France was taken by Major-General John Salmond, who had commanded the Royal Flying Corps there since January. The former naval squadrons were given new numbers, increased by 200: the famous No. 1 Squadron RNAS, for example, became No. 201 Squadron RAF.
+
+The RAF took over enormous assets. According to the naval historian Stephen Roskill, naval aviation brought into it 55,066 officers and men, 2,949 aircraft and 126 coastal stations. Airships were an exception: according to the British official history, the navy handed over the balloon and airship service only in October 1919. The same day the state aircraft works at Farnborough, the Royal Aircraft Factory, changed its name to the Royal Aircraft Establishment, so that its abbreviation would not be confused with the name of the new service. At the same time the Women's Royal Air Force, the air service's women's auxiliary, was created. It took in women who had until then worked in aviation within the women's services of the army and the navy, and volunteers soon began to be accepted. They worked as mechanics, drivers, storekeepers and clerks. By the summer of 1918 it numbered more than 15,000 women.
+
+## Disputes at the top
+
+The unity achieved in the ranks did not extend to the leadership. The Chief of the Air Staff, Major-General Hugh Trenchard, and the minister, Rothermere, could not get on from the start. Trenchard believed that the chief of staff was entitled to much wider authority than the minister wanted to give him. On 18 March he set out his position in a memorandum, and when he received a reply the next day, he resigned. Rothermere judged that announcing this might harm the merger and put the matter before the War Cabinet only on 10 April. On 1 April Trenchard was therefore still Chief of the Air Staff, though already on his way out. In mid-April his resignation was accepted and his successor was Major-General Frederick Sykes. Soon Rothermere also left the government, and the industrialist William Weir became Air Minister.
+
+## Significance
+
+The RAF quickly became a vast organisation. At the Armistice it numbered 291,170 men and 22,647 aircraft of all types and was at that time the largest military air force in the world. In the last months of the war it supported the ground forces on the Western Front, in Italy, in Macedonia and in the Middle East, patrolled the seas in search of submarines and defended Britain against air raids. In the summer of 1918 it also formed the Independent Force, which bombed industrial targets in western Germany, just as Smuts's report had envisaged.
+
+After the war the new service fought for its survival, because the army and the navy wanted their air arms back. Trenchard, who returned to the post of Chief of the Air Staff at the beginning of 1919, defended its independence. The Royal Air Force exists to this day and celebrates its anniversary on 1 April.
