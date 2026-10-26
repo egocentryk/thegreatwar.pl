@@ -194,9 +194,7 @@ const scriptText =
 <script>
   import type { CalendarLeaf } from "@/utils/calendarLeaf"
 
-  // How far back to look when today has no entries (e.g. early in the year
-  // before the war began in 1914 — every later day is covered).
-  const MAX_LOOKBACK_DAYS = 14
+  import type { DayFile } from "@/utils/calendarLeaf"
 
   // Polish defaults; the English page overrides them in data-text.
   type Text = {
@@ -207,7 +205,7 @@ const scriptText =
     nearest: string
   }
   const POLISH: Text = {
-    pool: "/kartki.json",
+    pool: "/kartki",
     base: "/timeline",
     locale: "pl-PL",
     more: "więcej tego dnia",
@@ -292,28 +290,21 @@ const scriptText =
       day: "numeric",
       month: "long",
     })
-    const leaves: CalendarLeaf[] = await fetch(text.pool)
-      .then((response) => (response.ok ? response.json() : []))
-      .catch(() => [])
-    if (!leaves.length) return
+    // One small file per calendar day; the build already fell back to the
+    // nearest earlier day with entries (utils/calendarPool.ts).
+    const today = monthDay(new Date())
+    const file: DayFile | null = await fetch(`${text.pool}/dzien/${today}.json`)
+      .then((response) => (response.ok ? response.json() : null))
+      .catch(() => null)
+    if (!file?.day || !file.leaves.length) return
 
-    const today = new Date()
-    for (let back = 0; back <= MAX_LOOKBACK_DAYS; back++) {
-      const day = new Date(today)
-      day.setDate(today.getDate() - back)
-      const key = monthDay(day)
-      const matches = leaves.filter((leaf) => leaf.date.slice(5) === key)
-      if (!matches.length) continue
-
-      render(section, matches, key, text)
-      const label = section.querySelector("[data-day-label]")
-      if (label) label.textContent = dayFormatter.format(day)
-      const note = section.querySelector("[data-note]")
-      if (note && back > 0) {
-        note.textContent = text.nearest
-      }
-      return
-    }
+    render(section, file.leaves, file.day, text)
+    const label = section.querySelector("[data-day-label]")
+    // A leap year, so 29 February formats too.
+    const [month, day] = file.day.split("-").map(Number)
+    if (label) label.textContent = dayFormatter.format(new Date(2000, month - 1, day))
+    const note = section.querySelector("[data-note]")
+    if (note && file.day !== today) note.textContent = text.nearest
   }
 
   // astro:page-load fires on the first load and after every client-side navigation.

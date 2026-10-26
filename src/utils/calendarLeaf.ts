@@ -1,7 +1,8 @@
 import type { LocalEvent } from "@/i18n/local"
 
 // One timeline event as a tear-off calendar page, shared by the homepage
-// section (RandomEvents.astro) and the /kartki.json pool it rerolls from.
+// section (RandomEvents.astro) and the static files it loads
+// (utils/calendarPool.ts).
 export interface CalendarLeaf {
   href: string
   title: string
@@ -16,6 +17,17 @@ export interface CalendarLeaf {
   // "Tego dnia" section to match today's day and month.
   date: string
   dayOrder: number
+}
+
+// Number of shards the reroll pool is split into (~15 KB gzipped each).
+export const SHARD_COUNT = 16
+
+// One "On this day" file (<base>/dzien/MM-DD.json).
+export interface DayFile {
+  // The day the entries come from (MM-DD); earlier than the requested day
+  // when that one had no entries. Null when nothing was found.
+  day: string | null
+  leaves: CalendarLeaf[]
 }
 
 // Standalone month name, as printed on a calendar: "czerwiec", not "czerwca".

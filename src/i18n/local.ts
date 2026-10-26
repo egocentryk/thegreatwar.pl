@@ -85,8 +85,10 @@ export function paths(lang: Lang) {
     frontAnchor: (name: string) => slugify(en ? frontEn(name) : name),
     people: en ? "/en/people" : "/postacie",
     search: en ? "/en/search" : "/szukaj",
-    leaves: en ? "/en/kartki.json" : "/kartki.json",
+    // Folder of the homepage calendar files (utils/calendarPool.ts).
+    leaves: en ? "/en/kartki" : "/kartki",
     searchIndex: en ? "/en/search.json" : "/szukaj.json",
+    battleCards: en ? "/en/battles.json" : "/bitwy.json",
   }
 }
 

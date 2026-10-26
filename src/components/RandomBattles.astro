@@ -1,8 +1,8 @@
 ---
 import SectionHeading from "@/components/SectionHeading.astro"
-import { locale, type Lang } from "@/i18n"
+import type { Lang } from "@/i18n"
 import { localBattles, paths } from "@/i18n/local"
-import { formatDateRange } from "@/utils/formatDate"
+import { toBattleCard } from "@/utils/battleCard"
 
 interface Props {
   lang?: Lang
@@ -14,20 +14,7 @@ const PICK_COUNT = 3
 
 const battles = await localBattles(lang)
 
-// Only what a card shows, so the JSON shipped to the browser stays small.
-const cards = battles.map((battle) => ({
-  href: battle.href,
-  title: battle.data.title,
-  front: battle.data.front,
-  dates: formatDateRange(battle.data.startDate, battle.data.endDate, locale(lang)),
-  summary: battle.data.summary,
-  sides: battle.data.sides
-    .map((side) => side.name)
-    .join(lang === "en" ? " vs " : " kontra "),
-  // "Zwycięstwo Wielkiej Brytanii. Niemcy stracili…" -> "Zwycięstwo Wielkiej Brytanii"
-  verdict: battle.data.result.split(".")[0],
-  milestone: battle.data.milestone,
-}))
+const cards = battles.map((battle) => toBattleCard(battle, lang))
 
 // Build-time pick: shown without JavaScript and replaced on every visit.
 const initial = [...cards]
@@ -54,7 +41,12 @@ const t = {
 }[lang]
 ---
 
-<section id="bitwy" class="mx-auto max-w-3xl px-6 pb-20" data-random-battles>
+<section
+  id="bitwy"
+  class="mx-auto max-w-3xl px-6 pb-20"
+  data-random-battles
+  data-pool={to.battleCards}
+>
   <SectionHeading eyebrow={t.eyebrow} count={battles.length} />
 
   <div class="flex flex-wrap items-end justify-between gap-4">
@@ -139,20 +131,23 @@ const t = {
       {t.all} ({battles.length}) →
     </a>
   </div>
-
-  <script is:inline type="application/json" data-battles set:html={JSON.stringify(cards)} />
 </section>
 
 <script>
-  type Card = {
-    href: string
-    title: string
-    front: string
-    dates: string
-    summary: string
-    sides: string
-    verdict: string
-    milestone: boolean
+  import type { BattleCard as Card } from "@/utils/battleCard"
+
+  // Fetched once per page load from a static file the browser caches.
+  const pools = new Map<string, Promise<Card[]>>()
+  function loadPool(url: string) {
+    if (!pools.has(url)) {
+      pools.set(
+        url,
+        fetch(url)
+          .then((response) => (response.ok ? response.json() : []))
+          .catch(() => []),
+      )
+    }
+    return pools.get(url)!
   }
 
   // Pick `count` different battles, avoiding the ones already on screen when possible.
@@ -184,17 +179,17 @@ const t = {
 
   function initRandomBattles() {
     const section = document.querySelector("[data-random-battles]")
-    const data = section?.querySelector("[data-battles]")?.textContent
-    if (!section || !data) return
-
-    const cards: Card[] = JSON.parse(data)
+    const url = section?.getAttribute("data-pool")
+    if (!section || !url) return
     const items = [...section.querySelectorAll("[data-card]")]
     const current = () =>
       new Set(
         items.map((item) => item.querySelector("[data-href]")?.getAttribute("href") ?? ""),
       )
 
-    const show = (animate: boolean) => {
+    const show = async (animate: boolean) => {
+      const cards = await loadPool(url)
+      if (cards.length < items.length) return
       const picks = pick(cards, items.length, current())
       if (!animate) {
         items.forEach((item, i) => fill(item, picks[i]))

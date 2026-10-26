@@ -159,7 +159,7 @@ function groupEntriesByDay(
 
               <div class="mt-6 space-y-8">
                 {visibleMonths.map((monthGroup) => (
-                  <section>
+                  <section class="tl-month">
                     {(() => {
                       const dayGroups = groupEntriesByDay(monthGroup.entries)
 
@@ -188,49 +188,34 @@ function groupEntriesByDay(
 
                           <ul class="border-line mt-3 border-l pl-5">
                             {dayGroups.map((dayGroup) => (
-                              <li class="border-line has-[li:last-child:hover]:border-signal relative border-b py-3 transition-colors last:border-b-0">
-                                {/* Dot on the vertical line, level with the rule opening the day; larger with a halo on milestone days */}
+                              <li class="tl-day">
                                 <span
                                   aria-hidden="true"
-                                  class:list={[
-                                    "bg-signal absolute rounded-full",
-                                    dayGroup.entries.some(
-                                      (entry) => entry.data.milestone,
-                                    )
-                                      ? "ring-signal/25 top-[-6.5px] -left-[calc(1.25rem+6.5px)] size-3 ring-4"
-                                      : "top-[-4.5px] -left-[calc(1.25rem+4.5px)] size-2",
-                                  ]}
+                                  class={
+                                    dayGroup.entries.some((entry) => entry.data.milestone)
+                                      ? "tl-dot-key"
+                                      : "tl-dot"
+                                  }
                                 />
-                                <div class="grid grid-cols-[3rem_1fr] gap-3">
-                                  <span class="text-ink-soft font-mono text-xs leading-6">
-                                    {dayGroup.day}
-                                  </span>
+                                <div class="tl-day-grid">
+                                  <span class="tl-day-num">{dayGroup.day}</span>
                                   <div>
                                     <ul>
                                       {dayGroup.entries.map((entry) => (
-                                        <li class="border-line hover:border-signal transition-colors not-last:mb-3 not-last:border-b not-last:pb-3">
+                                        <li class="tl-entry">
                                           <a
                                             href={entry.href ?? `/${entry.id}`}
                                             class="group block min-w-0"
                                           >
                                             {entry.data.milestone && (
-                                              <span class="text-signal mb-1 block font-mono text-[9px] tracking-[0.2em] uppercase">
-                                                {t.milestone}
-                                              </span>
+                                              <span class="tl-key-label">{t.milestone}</span>
                                             )}
                                             <span
-                                              class:list={[
-                                                "block transition-colors",
-                                                entry.data.milestone
-                                                  ? "text-signal group-hover:text-ink font-semibold"
-                                                  : "text-ink group-hover:text-signal",
-                                              ]}
+                                              class={entry.data.milestone ? "tl-title-key" : "tl-title"}
                                             >
                                               {entry.data.title}
                                             </span>
-                                            <span class="text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs">
-                                              {entry.data.summary}
-                                            </span>
+                                            <span class="tl-summary">{entry.data.summary}</span>
                                           </a>
                                         </li>
                                       ))}

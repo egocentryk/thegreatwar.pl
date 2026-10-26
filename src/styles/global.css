@@ -124,3 +124,48 @@
   opacity: 0.8;
   white-space: nowrap;
 }
+
+/* Timeline list rows (TimelineArchive.astro). A list can hold 2,000+ rows,
+   so each row uses one short class here instead of repeating ~600 bytes of
+   utilities, which roughly halves the HTML of tag, category and year pages. */
+@layer components {
+  /* The browser skips layout and paint of months outside the viewport until
+     they scroll near it (find-in-page and anchors still work). "auto" keeps
+     the real height once a month has been rendered. */
+  .tl-month {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 1200px;
+  }
+  .tl-day {
+    @apply border-line has-[li:last-child:hover]:border-signal relative border-b py-3 transition-colors last:border-b-0;
+  }
+  /* Dot on the vertical line, level with the rule opening the day. */
+  .tl-dot {
+    @apply bg-signal absolute top-[-4.5px] -left-[calc(1.25rem+4.5px)] size-2 rounded-full;
+  }
+  /* Milestone days: larger, with a halo. */
+  .tl-dot-key {
+    @apply bg-signal ring-signal/25 absolute top-[-6.5px] -left-[calc(1.25rem+6.5px)] size-3 rounded-full ring-4;
+  }
+  .tl-day-grid {
+    @apply grid grid-cols-[3rem_1fr] gap-3;
+  }
+  .tl-day-num {
+    @apply text-ink-soft font-mono text-xs leading-6;
+  }
+  .tl-entry {
+    @apply border-line hover:border-signal transition-colors not-last:mb-3 not-last:border-b not-last:pb-3;
+  }
+  .tl-key-label {
+    @apply text-signal mb-1 block font-mono text-[9px] tracking-[0.2em] uppercase;
+  }
+  .tl-title {
+    @apply text-ink group-hover:text-signal block transition-colors;
+  }
+  .tl-title-key {
+    @apply text-signal group-hover:text-ink block font-semibold transition-colors;
+  }
+  .tl-summary {
+    @apply text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs;
+  }
+}

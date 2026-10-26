@@ -13,7 +13,7 @@ const to = paths(lang)
 const entries = await localEvents(lang)
 
 // Build-time pick: shown without JavaScript and replaced on every visit
-// from /kartki.json.
+// from a random shard in /kartki/losowe (utils/calendarPool.ts).
 const initial = [...entries]
   .sort(() => Math.random() - 0.5)
   .slice(0, 4)
@@ -185,18 +185,23 @@ const t = {
 <script>
   import type { CalendarLeaf } from "@/utils/calendarLeaf"
 
-  let pool: Promise<CalendarLeaf[]> | undefined
+  import { SHARD_COUNT } from "@/utils/calendarLeaf"
 
-  // Fetched once per visit; client-side navigation reuses it. The English
-  // page sets its own pool in data-pool.
-  let poolUrl = ""
-  function loadPool(url: string) {
-    if (url !== poolUrl) pool = undefined
-    poolUrl = url
-    pool ??= fetch(url)
-      .then((response) => (response.ok ? response.json() : []))
-      .catch(() => [])
-    return pool
+  // Each turn loads one random shard of the pool (~15 KB gzipped) instead of
+  // every event; shards already fetched are reused, also across client-side
+  // navigation. The English page sets its own folder in data-pool.
+  const shards = new Map<string, Promise<CalendarLeaf[]>>()
+  function loadShard(base: string) {
+    const url = `${base}/losowe/${Math.floor(Math.random() * SHARD_COUNT)}.json`
+    if (!shards.has(url)) {
+      shards.set(
+        url,
+        fetch(url)
+          .then((response) => (response.ok ? response.json() : []))
+          .catch(() => []),
+      )
+    }
+    return shards.get(url)!
   }
 
   function pick(leaves: CalendarLeaf[], count: number, exclude: Set<string>) {
@@ -257,8 +262,8 @@ const t = {
     ).matches
 
     const show = async (animate: boolean) => {
-      const leaves = await loadPool(
-        section.getAttribute("data-pool") ?? "/kartki.json",
+      const leaves = await loadShard(
+        section.getAttribute("data-pool") ?? "/kartki",
       )
       if (leaves.length < items.length) return
       const picks = pick(leaves, items.length, current())
