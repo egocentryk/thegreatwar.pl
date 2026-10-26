@@ -42,7 +42,6 @@ const {
 } = person.data
 const { Content } = await render(person)
 
-const href = `/postacie/${person.id})`
 const people = await getPeople()
 
 // Battles where this person is listed among the commanders.
@@ -56,12 +55,22 @@ const commanded = (
   )
   .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
 
-// Timeline entries that link to this page.
-const mentions = await getCollection(
-  "timeline",
-  ({ body, data }) => !data.draft && (body ?? "").includes(href),
-)
+// Articles that link or tag this person, battles whose text links them, and
+// the people they appear with most (utils/related.ts).
+const found = await personMentions(person.id)
+const events = await eventsById("pl")
+const mentions = found.articles.flatMap((id) => events.get(id) ?? [])
 const mentionsByYear = groupTimelineEntries(mentions)
+const capped = found.total > mentions.length
+const commandedIds = new Set(commanded.map((battle) => battle.id))
+const allBattles = await getCollection("battles", ({ data }) => !data.draft)
+const mentionedBattles = allBattles
+  .filter((battle) => found.battles.includes(battle.id) && !commandedIds.has(battle.id))
+  .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
+const coPeople = found.coPeople.flatMap(({ id, count }) => {
+  const other = people.find((p) => p.id === id)
+  return other ? [{ href: `/postacie/${id}`, name: other.data.name, count }] : []
+})
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
@@ -73,6 +82,8 @@ const jsonLd = [
     { name, path: pagePath },
   ]),
 ]
+import { listUrl } from "@/utils/filteredPages"
+import { eventsById, personMentions } from "@/utils/related"
 ---
 
 <BaseLayout
@@ -190,9 +201,58 @@ const jsonLd = [
       }
 
       {
+        mentionedBattles.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="W opisach bitew" count={mentionedBattles.length} />
+            <ul class="flex flex-wrap gap-x-4 gap-y-2 text-sm">
+              {mentionedBattles.map((battle) => (
+                <li>
+                  <a href={`/bitwy/${battle.id}`} class="text-ink hover:text-signal transition-colors">
+                    {battle.data.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        coPeople.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="Najczęściej obok" />
+            <p class="text-ink-soft -mt-4 mb-4 text-sm">Postacie, które pojawiają się w tych samych wydarzeniach.</p>
+            <ul class="flex flex-wrap gap-2">
+              {coPeople.map((other) => (
+                <li>
+                  <a
+                    href={other.href}
+                    class="border-line hover:border-signal hover:text-signal text-ink inline-flex items-baseline gap-2 rounded-sm border px-3 py-1.5 text-sm transition-colors"
+                  >
+                    {other.name}
+                    <span class="text-ink-soft font-mono text-[10px]">{other.count}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
         mentions.length > 0 && (
           <section class="mt-16">
-            <SectionHeading eyebrow="Na osi czasu" count={mentions.length} />
+            <SectionHeading eyebrow="Na osi czasu" count={found.total} />
+            {capped && (
+              <p class="text-ink-soft -mt-4 mb-4 text-sm">
+                {mentions.length} najważniejszych z {found.total} wydarzeń.{" "}
+                {found.tag && (
+                  <a href={listUrl("tag", "pl", found.tag.name)} class="text-signal hover:underline">
+                    Wszystkie z tagiem „{found.tag.name}” ({found.tag.count}) →
+                  </a>
+                )}
+              </p>
+            )}
             <TimelineArchive
               timelineByYear={mentionsByYear}
               renderAllYears={true}

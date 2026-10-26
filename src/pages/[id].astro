@@ -92,6 +92,7 @@ const jsonLd = [
     { name: title, path: pagePath },
   ]),
 ]
+import RelatedEvents from "@/components/RelatedEvents.astro"
 ---
 
 <BaseLayout
@@ -228,6 +229,8 @@ const jsonLd = [
         <CoffeeButton />
         <Content />
       </div>
+
+      <RelatedEvents id={entry.id} />
 
       {
         (previous || next) && (

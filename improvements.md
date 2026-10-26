@@ -497,6 +497,84 @@ category and authors as plain text and no tags. The English homepage's
 
 ---
 
+## 7. Reader features: "Meanwhile", "Related" and richer person pages (2026-10-26)
+
+**Problem:**
+- Articles linked only to the previous and next event.
+- Person pages scanned every article body on each render, to find links to
+  the person. They missed articles that only tag the person, and battles
+  whose text mentions them.
+- Person pages listed every mention, which for Haig is 166 rows.
+
+**Change:**
+
+- **New `src/utils/related.ts`.** It builds a graph once per build from the
+  Polish content.
+  - Each article has its person-page links, counted from
+    `](/postacie/<id>)` in the body. Tags that are person names or aliases
+    count as people too.
+  - Each article also has its other tags, its battle and its front.
+  - Lookup tables map person → articles, tag → articles and
+    battle → articles, so only articles that share something are compared.
+- **`meanwhile(id)`.** Up to 4 articles within ±3 days on a different
+  front. Articles with no front count as their own group.
+  - It skips the previous and next articles, which the page already links.
+  - Order: closest day first, then key events.
+- **`related(id)`.** Scores the candidates and keeps up to 4.
+  - Same battle: +5. Each shared person: +3.
+  - Each shared tag: + min(4, ln(N / tag uses)), so rare tags count a lot
+    and "Wielka Brytania" (945 uses) barely.
+  - Same front: +1.
+  - The total is divided by (1 + days apart / 365).
+  - It skips the article itself, its neighbours and the "meanwhile" picks.
+  - Articles scoring under 3 are dropped, so weak matches never fill the
+    block.
+  - In thegreatwar.pl, 2,622 of 2,624 articles get 4 picks.
+- **`personMentions(id)`.** Returns:
+  - `articles`: articles that link or tag the person.
+  - `total`.
+  - `tag`: the person's most used tag.
+  - `battles`: battles whose text links the person.
+  - `coPeople`: the top 5 people seen in the same articles at least twice.
+
+  When there are more than 40 articles and the person has a tag page, the
+  list is cut to key events plus the articles that link the person most
+  often. It is shown in chronological order.
+- **`eventsById(lang)`.** Turns Polish ids into the localised `LocalEvent`,
+  so English pages show English titles. Both languages get the same picks.
+- **New `src/components/RelatedEvents.astro`** (`id` = the Polish id,
+  `lang`). It renders "W tym samym czasie" / "Meanwhile" and "Powiązane
+  wydarzenia" / "Related events" as two-column cards (date · front or
+  category, title, two-line summary).
+  - It is placed above the previous/next links in `src/pages/[id].astro`
+    and `src/pages/en/[slug].astro`.
+- **Person pages** (`src/pages/postacie/[id].astro`,
+  `src/pages/en/people/[slug].astro`) use `personMentions` instead of
+  scanning the bodies. New sections:
+  - "W opisach bitew" / "Mentioned in battles": battles whose text links
+    the person, minus the ones they commanded. English falls back to the
+    Polish battle page, marked "(PL)".
+  - "Najczęściej obok" / "Often appears with": people chips with counts.
+  - "Na osi czasu" / "On the timeline": the heading shows the full count,
+    and a capped list explains itself, for example "40 najważniejszych z
+    166 wydarzeń. Wszystkie z tagiem „Douglas Haig” (62) →", linking to
+    `listUrl("tag", lang, tag)`.
+
+**Result:** article pages grew from 40 KB to 48 KB of plain HTML, with no
+JavaScript. The build time is unchanged.
+
+**Port:**
+- thesecondwar.pl covers longer periods. Check `DECAY_DAYS` (365) and
+  `MEANWHILE_DAYS` (3) against how dense its timeline is (thegreatwar.pl
+  has about 2 articles per day).
+- Check the person-link pattern and that tag names match person names or
+  aliases.
+- To calibrate, add a temporary endpoint that dumps `meanwhile` and
+  `related` for every article, then spot-check famous events and the share
+  of articles with an empty block.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -539,10 +617,11 @@ finished, tick it here and add its section above.
 - [x] hreflang alternates in the sitemap (§2b)
 
 ### 4. Reader features
-- [ ] A "related" block on articles: the same battle, the same people, the
-  same week on other fronts. Only previous/next links exist now.
-- [ ] "Mentioned in" lists on person pages, built from the links articles
-  already make to `/postacie/...`.
+- [x] "Meanwhile" (same days, other fronts) and "Related" (battle, people,
+  rare tags) blocks on articles (§7)
+- [x] Person pages: mentions from links and tags, "Mentioned in battles",
+  "Often appears with", and long lists capped at 40 with a link to the tag
+  page (§7)
 - [ ] Interactive battle map (Leaflet or static SVG). Needs coordinates on
   battle pages.
 - [ ] Gantt-style battle timeline per front, fed by `src/data/battlePhases.ts`.

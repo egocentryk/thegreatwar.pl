@@ -1,0 +1,66 @@
+---
+// Two blocks under a timeline article (utils/related.ts): what happened in the
+// same days on other fronts, and articles linked by battle, people or tags.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { locale, type Lang } from "@/i18n"
+import { formatDate } from "@/utils/formatDate"
+import { eventsById, meanwhile, related } from "@/utils/related"
+
+interface Props {
+  // Polish id of the article.
+  id: string
+  lang?: Lang
+}
+
+const { id, lang = "pl" } = Astro.props
+const events = await eventsById(lang)
+const pick = (ids: string[]) => ids.flatMap((other) => events.get(other) ?? [])
+const blocks = [
+  {
+    eyebrow: lang === "en" ? "Meanwhile" : "W tym samym czasie",
+    lead: lang === "en" ? "Elsewhere in the same days." : "Gdzie indziej w tych samych dniach.",
+    items: pick(await meanwhile(id)),
+  },
+  {
+    eyebrow: lang === "en" ? "Related events" : "Powiązane wydarzenia",
+    lead: lang === "en" ? "The same battle, people or subject." : "Ta sama bitwa, ci sami ludzie lub temat.",
+    items: pick(await related(id)),
+  },
+].filter((block) => block.items.length > 0)
+---
+
+{
+  blocks.map((block) => (
+    <section class="mt-12">
+      <SectionHeading eyebrow={block.eyebrow} count={block.items.length} />
+      <p class="text-ink-soft -mt-4 mb-4 text-sm">{block.lead}</p>
+      <ul class="grid gap-3 sm:grid-cols-2">
+        {block.items.map((event) => (
+          <li class="min-w-0">
+            <a
+              href={event.href}
+              class="group border-line hover:border-signal block h-full rounded-sm border p-4 transition-colors"
+            >
+              <span class="text-ink-soft flex items-center gap-2 font-mono text-[11px]">
+                {event.data.milestone && (
+                  <span aria-hidden="true" class="bg-signal ring-signal/25 size-1.5 shrink-0 rounded-full ring-4" />
+                )}
+                <span class="truncate">
+                  {formatDate(event.data.date, "long", undefined, locale(lang))}
+                  {" · "}
+                  {event.data.front ?? event.data.category}
+                </span>
+              </span>
+              <span class="font-display text-ink group-hover:text-signal mt-1 block leading-snug transition-colors">
+                {event.data.title}
+              </span>
+              <span class="text-ink-soft mt-1 line-clamp-2 block text-xs leading-5">
+                {event.data.summary}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))
+}

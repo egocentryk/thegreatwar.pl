@@ -7,7 +7,6 @@ import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { formatDate, formatDateRange } from "@/utils/formatDate"
 import { enUrlFor, frontEn, plPath, rewriteEnHtml, sideEn } from "@/i18n"
-import { localEvents } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, lifeYears, personByName } from "@/utils/people"
 import { breadcrumbLd, personLd } from "@/utils/jsonLd"
@@ -38,10 +37,38 @@ const commanded = await Promise.all(
     }),
 )
 
-// Translated timeline entries whose Polish text links to this person.
-const plHref = `${plPath.people(source.id)})`
-const mentions = (await localEvents("en")).filter((entry) => entry.body.includes(plHref))
+// Articles that link or tag this person, battles whose text links them, and
+// the people they appear with most (utils/related.ts); English pages where
+// translated, else Polish.
+const found = await personMentions(source.id)
+const events = await eventsById("en")
+const mentions = found.articles.flatMap((id) => events.get(id) ?? [])
 const mentionsByYear = groupTimelineEntries(mentions, "en-GB")
+const capped = found.total > mentions.length
+const commandedIds = new Set(commanded.map((c) => c.battle.id))
+const mentionedBattles = await Promise.all(
+  (await getCollection("battles", ({ data }) => !data.draft))
+    .filter((b) => found.battles.includes(b.id) && !commandedIds.has(b.id))
+    .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
+    .map(async (b) => {
+      const href = await enUrlFor("battles", b.id)
+      const en = href ? await getEntry("battlesEn", href.split("/").pop()!) : undefined
+      return { href: href ?? plPath.battles(b.id), title: en?.data.title ?? b.data.title, pl: !en }
+    }),
+)
+const coPeople = await Promise.all(
+  found.coPeople.flatMap(({ id, count }) => {
+    const other = people.find((p) => p.id === id)
+    if (!other) return []
+    return [
+      (async () => {
+        const href = await enUrlFor("people", id)
+        const en = href ? await getEntry("peopleEn", href.split("/").pop()!) : undefined
+        return { href: href ?? plPath.people(id), name: en?.data.name ?? other.data.name, pl: !en, count }
+      })(),
+    ]
+  }),
+)
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
@@ -63,6 +90,9 @@ const jsonLd = [
     { name, path: pagePath },
   ]),
 ]
+import { tagEn } from "@/i18n/data-en"
+import { listUrl } from "@/utils/filteredPages"
+import { eventsById, personMentions } from "@/utils/related"
 ---
 
 <BaseLayout
@@ -127,9 +157,61 @@ const jsonLd = [
       }
 
       {
+        mentionedBattles.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="Mentioned in battles" count={mentionedBattles.length} />
+            <ul class="flex flex-wrap gap-x-4 gap-y-2 text-sm">
+              {mentionedBattles.map((b) => (
+                <li>
+                  <a href={b.href} hreflang={b.pl ? "pl" : undefined} class="text-ink hover:text-signal transition-colors">
+                    {b.title}
+                    {b.pl && <span class="lang-mark">(PL)</span>}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        coPeople.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow="Often appears with" />
+            <p class="text-ink-soft -mt-4 mb-4 text-sm">People who appear in the same events.</p>
+            <ul class="flex flex-wrap gap-2">
+              {coPeople.map((other) => (
+                <li>
+                  <a
+                    href={other.href}
+                    hreflang={other.pl ? "pl" : undefined}
+                    class="border-line hover:border-signal hover:text-signal text-ink inline-flex items-baseline gap-2 rounded-sm border px-3 py-1.5 text-sm transition-colors"
+                  >
+                    {other.name}
+                    {other.pl && <span class="lang-mark">(PL)</span>}
+                    <span class="text-ink-soft font-mono text-[10px]">{other.count}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
         mentions.length > 0 && (
           <section class="mt-16">
-            <SectionHeading eyebrow="On the timeline" count={mentions.length} />
+            <SectionHeading eyebrow="On the timeline" count={found.total} />
+            {capped && (
+              <p class="text-ink-soft -mt-4 mb-4 text-sm">
+                The {mentions.length} most important of {found.total} events.{" "}
+                {found.tag && (
+                  <a href={listUrl("tag", "en", found.tag.name)} class="text-signal hover:underline">
+                    All tagged “{tagEn(found.tag.name)}” ({found.tag.count}) →
+                  </a>
+                )}
+              </p>
+            )}
             <TimelineArchive
               timelineByYear={mentionsByYear}
               renderAllYears={true}

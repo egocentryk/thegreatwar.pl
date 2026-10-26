@@ -73,6 +73,7 @@ const jsonLd = [
 ]
 import { tagEn } from "@/i18n/data-en"
 import { listUrl } from "@/utils/filteredPages"
+import RelatedEvents from "@/components/RelatedEvents.astro"
 ---
 
 <BaseLayout
@@ -169,6 +170,8 @@ import { listUrl } from "@/utils/filteredPages"
         <CoffeeButton lang="en" />
         <Fragment set:html={html} />
       </div>
+
+      <RelatedEvents id={source.id} lang="en" />
 
       {
         (previous || next) && (
