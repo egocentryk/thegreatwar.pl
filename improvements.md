@@ -405,6 +405,98 @@ stemming and ranking.
 
 ---
 
+## 5. English edition: tag, category and author pages (2026-10-26)
+
+**Problem:** only fronts had English list pages. English articles showed the
+category and authors as plain text and no tags. The English homepage's
+"Poland" link went to the Polish tag page, marked "(PL)".
+
+**Change:**
+
+- **Tag translations.** `src/i18n/data-en.ts` has a new `TAGS_EN` map (276
+  Polish tag → English name) and `tagEn(tag)`.
+  - People follow their English person pages (e.g. "Konstantyn I Grecki" →
+    "Constantine I of Greece").
+  - Places follow the English edition's conventions ("Lwów" → "Lemberg",
+    "Nisz" → "Niš").
+  - Concept tags stay lower-case ("okręty podwodne" → "submarines").
+  - Every English slug is unique; check this when adding entries.
+  - Categories use the existing `categoryEn`; author names don't change.
+- **One helper for all list pages.** `src/utils/filteredPages.ts` now covers
+  every list in both languages.
+  - `Kind` is `"tag" | "category" | "author" | "front"`.
+  - Bases: `/tag` ↔ `/en/tag`, `/kategoria` ↔ `/en/category`, `/autor` ↔
+    `/en/author`, `/front` ↔ `/en/front`.
+  - `LABELS` holds the page labels.
+  - `groups(kind, lang)` builds the groups from `localEvents(lang)` and
+    caches them. Each group is `{ key: Polish name, name: shown name, slug,
+    base, entries }`.
+  - `listUrl(kind, lang, key)` gives the URL of one list, e.g.
+    `listUrl("tag", "en", "Polska")` → `/en/tag/poland`.
+  - `counterpart(kind, lang, key, year?)` gives the same list in the other
+    language. For a year page, it returns the same year only when the other
+    list is split too.
+  - `mainPaths(kind, lang, param)` and `yearPaths(kind, lang, param)` are the
+    `getStaticPaths` functions.
+- **Events know their authors.** `LocalEvent.data` has a new `authors` field
+  (`src/i18n/local.ts`).
+- **`FilteredTimeline.astro`** now takes `{ kind, group, year?, lang }`. It
+  works out the label, title, description and hreflang alternates itself.
+- **Sixteen thin route files.** There is a main and a year route for each of
+  `tag/[tag]`, `kategoria/[category]`, `autor/[author]`, `front/[front]`,
+  `en/tag/[tag]`, `en/category/[category]`, `en/author/[author]` and
+  `en/front/[front]`.
+
+  Each file is two lines of logic:
+
+  ```astro
+  export const getStaticPaths = mainPaths("tag", "en", "tag")
+  const { group } = Astro.props as { group: Group }
+  ---
+  <FilteredTimeline kind="tag" group={group} lang="en" />
+  ```
+- **Links:**
+  - English articles (`src/pages/en/[slug].astro`) link their category and
+    authors, and have a new "Tags" row (`listUrl` + `tagEn`).
+  - `PolishThread.astro` links to the tag page in the page's own language and
+    counts that language's events.
+  - `/en/about` links to `/en/author/…`.
+
+**Result:**
+- English has 276 tag, 5 category and 2 author pages, plus 48 year pages.
+- The Polish URLs are unchanged.
+- None of the new links is broken. The only links from English list pages to
+  Polish lists are the language switchers.
+
+**Port:**
+- thesecondwar.pl has its own tag list. Generate the list from the content,
+  map people through its English person pages, then translate the rest by
+  hand.
+- Check that the English slugs are unique.
+
+## 6. English edition: translation status in CI (2026-10-26)
+
+**Change** (`scripts/i18n-status.mjs`, `.github/workflows/ci.yml`):
+
+- **Missing translations.** The checker now also lists published Polish
+  entries with no English file ("no English translation"). The summary line
+  shows untranslated, stale and problem counts.
+- **`--ci` mode.** Every problem is printed as a GitHub
+  `::warning file=…,title=English edition::…` annotation. The exit code is
+  always 0, so the warnings appear on the run and the PR but never block it.
+  Without `--ci`, the script still exits 1 when there are problems, for local
+  use.
+- **Name exceptions.** `NAME_EXCEPTIONS` (`/\bOraz Serdar\b/`) removes names
+  that contain a word from the Polish-words check, which used to give two
+  false positives.
+- **CI step.** A new "English edition status" step runs
+  `node scripts/i18n-status.mjs --ci` before the build.
+
+**Verify:** delete one English file and append a line to one Polish source.
+`--ci` should print two warnings and exit 0. Then restore both files.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -428,13 +520,9 @@ finished, tick it here and add its section above.
   summaries) for faster first results (see §4)
 
 ### 2. English edition gaps
-- [ ] English tag, category and author pages (`/en/tag/…`,
-  `/en/category/…`, `/en/author/…`).
-  - The English homepage and articles still link to Polish tag pages.
-  - Tag names need translating, for example a `TAGS_EN` map in
-    `src/i18n/data-en.ts`.
-- [ ] A CI step running `node scripts/i18n-status.mjs`, to flag new or edited
-  Polish content with no up-to-date translation (warn, don't fail).
+- [x] English tag, category and author pages (§5)
+- [x] CI step reporting untranslated, stale or broken English files as warnings
+  (§6)
 
 ### 3. SEO and discovery
 - [ ] Open Graph image per article and battle, generated at build (for
@@ -473,8 +561,8 @@ finished, tick it here and add its section above.
 - [ ] Move `workflow.md`, `translation-brief.md` and
   `translation-factcheck-brief.md` into `docs/`. Turn the session commit-list
   helper into a real `scripts/i18n-commit.mjs`.
-- [ ] Add a proper-name allowlist to `scripts/i18n-status.mjs`. It flags
-  "Oraz" in "Oraz Serdar" in `action-at-kaakha` and `british-occupy-merv`.
+- [x] Add a proper-name allowlist to `scripts/i18n-status.mjs` (the "Oraz
+  Serdar" false positive) (§6)
 - [ ] Remove `plq.json` or add it to `.gitignore`. It has been untracked since
   before the English edition.
 

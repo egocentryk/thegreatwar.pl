@@ -1,18 +1,11 @@
 ---
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
-import { tagGroups, type Group } from "@/utils/filteredPages"
-import type { CollectionEntry } from "astro:content"
+import { mainPaths, type Group } from "@/utils/filteredPages"
 
-export async function getStaticPaths() {
-  return (await tagGroups()).map((group) => ({
-    params: { tag: group.slug },
-    props: group,
-  }))
-}
+// One tag (utils/filteredPages.ts).
+export const getStaticPaths = mainPaths("tag", "pl", "tag")
 
-type Props = Group<CollectionEntry<"timeline">>
-
-const { slug, name, entries } = Astro.props
+const { group } = Astro.props as { group: Group }
 ---
 
-<FilteredTimeline label="Tag" name={name} entries={entries} base={`/tag/${slug}`} />
+<FilteredTimeline kind="tag" group={group} />

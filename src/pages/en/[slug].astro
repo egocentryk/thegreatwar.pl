@@ -37,7 +37,7 @@ export async function getStaticPaths() {
 const { item, previous, next } = Astro.props
 const { entry, source } = item
 const { title, summary } = entry.data
-const { category, front, date, authors, headerImage, milestone, battle } = source.data
+const { category, front, date, authors, headerImage, milestone, battle, tags } = source.data
 await render(entry)
 const html = await rewriteEnHtml(entry.rendered?.html ?? "")
 const battlePl = battle ? await getEntry(battle) : undefined
@@ -71,6 +71,8 @@ const jsonLd = [
     { name: title, path: pagePath },
   ]),
 ]
+import { tagEn } from "@/i18n/data-en"
+import { listUrl } from "@/utils/filteredPages"
 ---
 
 <BaseLayout
@@ -109,12 +111,26 @@ const jsonLd = [
 
     <div class="mx-auto max-w-3xl px-6">
       <dl class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs">
-        <div><dt class="inline">Category: </dt><dd class="text-ink inline">{categoryEn(category)}</dd></div>
+        <div>
+          <dt class="inline">Category: </dt>
+          <dd class="inline">
+            <a href={listUrl("category", "en", category)} class="text-ink hover:text-signal transition-colors">
+              {categoryEn(category)}
+            </a>
+          </dd>
+        </div>
         {front && <div><dt class="inline">Front: </dt><dd class="text-ink inline">{frontEn(front)}</dd></div>}
         <div><dt class="inline">Date: </dt><dd class="text-ink inline">{formattedDate}</dd></div>
         <div>
           <dt class="inline">{authors.length > 1 ? "Authors: " : "Author: "}</dt>
-          <dd class="text-ink inline">{authors.join(", ")}</dd>
+          <dd class="inline">
+            {authors.map((name, index) => (
+              <>
+                {index > 0 && ", "}
+                <a href={listUrl("author", "en", name)} class="text-ink hover:text-signal transition-colors">{name}</a>
+              </>
+            ))}
+          </dd>
         </div>
         {
           battlePl && (
@@ -128,6 +144,21 @@ const jsonLd = [
                     {battlePl.data.title} <span class="lang-mark">(PL)</span>
                   </a>
                 )}
+              </dd>
+            </div>
+          )
+        }
+        {
+          tags.length > 0 && (
+            <div>
+              <dt class="inline">Tags: </dt>
+              <dd class="inline">
+                {tags.map((tag, index) => (
+                  <>
+                    {index > 0 && ", "}
+                    <a href={listUrl("tag", "en", tag)} class="text-ink hover:text-signal transition-colors">{tagEn(tag)}</a>
+                  </>
+                ))}
               </dd>
             </div>
           )

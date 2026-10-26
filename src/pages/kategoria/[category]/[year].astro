@@ -1,28 +1,11 @@
 ---
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
-import { extraYears, categoryGroups, type Group } from "@/utils/filteredPages"
-import type { CollectionEntry } from "astro:content"
+import { yearPaths, type Group } from "@/utils/filteredPages"
 
-// Later years of a long list (utils/filteredPages.ts); the first year is on
-// the main page.
-export async function getStaticPaths() {
-  return (await categoryGroups()).flatMap((group) =>
-    extraYears(group.entries, `/kategoria/${group.slug}`).map((year) => ({
-      params: { category: group.slug, year: String(year) },
-      props: { ...group, year },
-    })),
-  )
-}
+// Later years of a long category list; the first year is on the main page.
+export const getStaticPaths = yearPaths("category", "pl", "category")
 
-type Props = Group<CollectionEntry<"timeline">> & { year: number }
-
-const { slug, name, entries, year } = Astro.props
+const { group, year } = Astro.props as { group: Group; year: number }
 ---
 
-<FilteredTimeline
-  label="Kategoria"
-  name={name}
-  entries={entries}
-  base={`/kategoria/${slug}`}
-  year={year}
-/>
+<FilteredTimeline kind="category" group={group} year={year} />

@@ -1,0 +1,11 @@
+---
+import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { mainPaths, type Group } from "@/utils/filteredPages"
+
+// One category (utils/filteredPages.ts).
+export const getStaticPaths = mainPaths("category", "en", "category")
+
+const { group } = Astro.props as { group: Group }
+---
+
+<FilteredTimeline kind="category" group={group} lang="en" />

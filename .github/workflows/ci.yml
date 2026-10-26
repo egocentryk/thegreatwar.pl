@@ -34,5 +34,10 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      # Untranslated, stale or broken English files show up as warnings on the
+      # run and the PR; they never fail the build.
+      - name: English edition status
+        run: node scripts/i18n-status.mjs --ci
+
       - name: Typecheck and build
         run: pnpm build

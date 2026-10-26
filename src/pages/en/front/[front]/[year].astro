@@ -1,36 +1,11 @@
 ---
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
-import { frontEn } from "@/i18n"
-import type { LocalEvent } from "@/i18n/local"
-import { extraYears, frontGroups, frontGroupsEn, yearLinks, type Group } from "@/utils/filteredPages"
+import { yearPaths, type Group } from "@/utils/filteredPages"
 
-// Later years of a long list (utils/filteredPages.ts); the first year is on
-// the main page.
-export async function getStaticPaths() {
-  return (await frontGroupsEn()).flatMap((group) =>
-    extraYears(group.entries, `/en/front/${group.slug}`).map((year) => ({
-      params: { front: group.slug, year: String(year) },
-      props: { ...group, year },
-    })),
-  )
-}
+// Later years of a long front list; the first year is on the main page.
+export const getStaticPaths = yearPaths("front", "en", "front")
 
-type Props = Group<LocalEvent> & { year: number }
-
-const { slug, name, entries, year } = Astro.props
-// The Polish page for the same year, when the Polish list is split too.
-const pl = (await frontGroups()).find((group) => group.name === name)
-const plHref = pl
-  ? yearLinks(pl.entries, `/front/${pl.slug}`)?.find((link) => link.year === year)?.href
-  : undefined
+const { group, year } = Astro.props as { group: Group; year: number }
 ---
 
-<FilteredTimeline
-  label="Front"
-  name={frontEn(name)}
-  entries={entries}
-  base={`/en/front/${slug}`}
-  year={year}
-  lang="en"
-  alternates={plHref ? { pl: plHref } : undefined}
-/>
+<FilteredTimeline kind="front" group={group} year={year} lang="en" />

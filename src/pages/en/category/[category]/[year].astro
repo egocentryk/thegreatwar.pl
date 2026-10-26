@@ -1,0 +1,11 @@
+---
+import FilteredTimeline from "@/components/FilteredTimeline.astro"
+import { yearPaths, type Group } from "@/utils/filteredPages"
+
+// Later years of a long category list; the first year is on the main page.
+export const getStaticPaths = yearPaths("category", "en", "category")
+
+const { group, year } = Astro.props as { group: Group; year: number }
+---
+
+<FilteredTimeline kind="category" group={group} year={year} lang="en" />

@@ -33,6 +33,7 @@ export interface LocalEvent {
     categoryKey: string
     battleId?: string
     tags: string[]
+    authors: string[]
   }
 }
 
@@ -116,6 +117,7 @@ function plEvent(entry: CollectionEntry<"timeline">): LocalEvent {
       categoryKey: d.category,
       battleId: d.battle?.id,
       tags: d.tags,
+      authors: d.authors,
     },
   }
 }

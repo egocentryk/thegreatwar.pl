@@ -1,27 +1,11 @@
 ---
 import FilteredTimeline from "@/components/FilteredTimeline.astro"
-import { frontEn } from "@/i18n"
-import { frontGroups, frontGroupsEn, type Group } from "@/utils/filteredPages"
-import { slugify } from "@/utils/slugify"
-import type { CollectionEntry } from "astro:content"
+import { mainPaths, type Group } from "@/utils/filteredPages"
 
-export async function getStaticPaths() {
-  return (await frontGroups()).map((group) => ({
-    params: { front: group.slug },
-    props: group,
-  }))
-}
+// One front (utils/filteredPages.ts).
+export const getStaticPaths = mainPaths("front", "pl", "front")
 
-type Props = Group<CollectionEntry<"timeline">>
-
-const { slug, name, entries } = Astro.props
-const hasEnglish = (await frontGroupsEn()).some((group) => group.name === name)
+const { group } = Astro.props as { group: Group }
 ---
 
-<FilteredTimeline
-  label="Front"
-  name={name}
-  entries={entries}
-  base={`/front/${slug}`}
-  alternates={hasEnglish ? { en: `/en/front/${slugify(frontEn(name))}` } : undefined}
-/>
+<FilteredTimeline kind="front" group={group} />

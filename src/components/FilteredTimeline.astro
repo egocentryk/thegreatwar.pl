@@ -1,37 +1,38 @@
 ---
-import type { CollectionEntry } from "astro:content"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
-import { locale, type Alternates, type Lang } from "@/i18n"
-import { paths, type LocalEvent } from "@/i18n/local"
-import { yearLinks } from "@/utils/filteredPages"
+import { locale, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { counterpart, LABELS, yearLinks, type Group, type Kind } from "@/utils/filteredPages"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 
-// Timeline page for a single tag, category, author or front. Long lists are
-// split by year (utils/filteredPages.ts): `base` is the main page's URL and
-// `year` the year shown on <base>/<year>.
+// Timeline page for a single tag, category, author or front, in either
+// language (utils/filteredPages.ts). Long lists are split by year: `year` is
+// set on <base>/<year> pages.
 interface Props {
-  label: string
-  name: string
-  entries: (CollectionEntry<"timeline"> | LocalEvent)[]
-  base: string
+  kind: Kind
+  group: Group
   year?: number
   lang?: Lang
-  alternates?: Alternates
 }
 
-const { label, name, entries, base, year, lang = "pl", alternates } = Astro.props
+const { kind, group, year, lang = "pl" } = Astro.props
+const { name, entries, base } = group
+const label = LABELS[kind][lang]
 const years = yearLinks(entries, base)
 const activeYear = years ? (year ?? years[0].year) : undefined
 const timelineByYear = groupTimelineEntries(entries, locale(lang)).filter(
-  (group) => activeYear === undefined || group.year === activeYear,
+  (yearGroup) => activeYear === undefined || yearGroup.year === activeYear,
 )
 const description =
   lang === "en"
     ? `Events – ${label.toLowerCase()}: ${name}${activeYear ? `, ${activeYear}` : ""}.`
     : `Wydarzenia — ${label.toLowerCase()}: ${name}${activeYear ? `, ${activeYear}` : ""}.`
 const title = `${label}: ${name}${year ? ` (${year})` : ""}`
+// The same list in the other language, when it exists.
+const other = await counterpart(kind, lang, group.key, year)
+const alternates = other ? { [lang === "pl" ? "en" : "pl"]: other } : undefined
 ---
 
 <BaseLayout

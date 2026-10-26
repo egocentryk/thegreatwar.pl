@@ -3,7 +3,6 @@ import SectionHeading from "@/components/SectionHeading.astro"
 import { POLISH_THREAD } from "@/data/homepage"
 import { locale, plural, type Lang } from "@/i18n"
 import { curated, localEvents } from "@/i18n/local"
-import { slugify } from "@/utils/slugify"
 
 interface Props {
   lang?: Lang
@@ -32,8 +31,8 @@ const steps = (
     milestone: entry.milestone,
   }))
 
-// Events tagged "Polska"; tag pages exist only in Polish.
-const tagged = (await localEvents("pl")).filter((entry) =>
+// Events tagged "Polska" in this language; the link leads to its tag page.
+const tagged = (await localEvents(lang)).filter((entry) =>
   entry.data.tags.includes(TAG),
 ).length
 
@@ -53,6 +52,7 @@ const t = {
     all: `All ${tagged} events tagged “Poland” →`,
   },
 }[lang]
+import { listUrl } from "@/utils/filteredPages"
 ---
 
 <section id="polska" class="mx-auto max-w-3xl px-6 pb-20">
@@ -114,12 +114,10 @@ const t = {
       </ol>
 
       <a
-        href={`/tag/${slugify(TAG)}`}
-        hreflang={lang === "en" ? "pl" : undefined}
+        href={listUrl("tag", lang, TAG)}
         class="text-signal mt-8 inline-block font-mono text-xs hover:underline"
       >
         {t.all}
-        {lang === "en" && <span class="lang-mark">(PL)</span>}
       </a>
     </div>
   </div>
