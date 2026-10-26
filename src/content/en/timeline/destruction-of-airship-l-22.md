@@ -1,0 +1,22 @@
+---
+title: Destruction of airship L 22
+summary: At dawn on 14 May 1917 a British flying boat from Great Yarmouth shot down the naval airship L 22 near Terschelling. All 21 airmen were killed.
+source: zniszczenie-sterowca-l-22
+sourceHash: c927a4fef6da3ddf5d5f4d8cca5f8224b77c8129
+---
+
+At dawn on 14 May 1917, over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), the German naval [airship](https://pl.wikipedia.org/wiki/Sterowiec) L 22 fell in flames. The whole crew was killed, 21 men including the commander, Kapitänleutnant Ulrich Lehmann. A British chronology of the war records that the airship was destroyed by British warships. That had been the case a year earlier with [L 7](/zniszczenie-sterowca-l-7), but L 22 was shot down by an aircraft: a twin-engined Curtiss H.12 "Large America" [flying boat](https://pl.wikipedia.org/wiki/Łódź_latająca) from the naval air station at [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). This is agreed by H. A. Jones's British official history of the air war and by later studies.
+
+## Hunting by wireless
+
+L 22 was an experienced ship. It had served since the spring of 1916, made several dozen reconnaissance flights over the sea and several raids on England. In one of them, at the turn of March and April 1916, its bombs [killed at Cleethorpes](/zestrzelenie-sterowca-l-15) several dozen soldiers billeted in a chapel. That morning it had set out on reconnaissance ahead of exercises of the [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) planned for the following day in the Heligoland Bight.
+
+Since April 1917 the British had been using large flying boats from Felixstowe and Great Yarmouth not only for anti-submarine patrols but also for hunting airships. The new organisation had been in operation since 26 April. British listening stations took bearings on the airships' wireless transmitters, and the [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja_brytyjska) passed their position, course and speed by telephone to the bases on the east coast. According to some studies L 22 itself gave away its route by sending a report just after take-off. At half past three in the morning flying boat no. 8666 took off from Great Yarmouth. It was commanded by Flight Lieutenant Christopher Galpin and piloted by Flight Sub-Lieutenant Robert Leckie, a Canadian, and the crew was completed by Chief Petty Officer V. F. Whatling and the mechanic J. R. Laycock. After flying about 80 miles the crew switched off the wireless so as not to give themselves away.
+
+## A few seconds of fire
+
+At 4.48, according to Jones, the airship was sighted from the flying boat at a distance of 10–15 miles. L 22 was moving slowly at a height of about 900 metres, clearly lower than the aircraft. Leckie climbed even higher, then dived and approached the ship from the starboard side, a few metres below the gondola, to within a few dozen metres. Galpin opened fire with two [Lewis guns](https://pl.wikipedia.org/wiki/Karabin_maszynowy_Lewis) in the bow position, using incendiary ammunition. After one burst both guns jammed and the pilot turned aside so that the jam could be cleared. It was no longer necessary. As the flying boat turned, the inside of the envelope began to glow, and a dozen or so seconds later the airship was hanging tail down, wrapped in flames. The framework plunged vertically into the sea, and only a patch of black ash remained on the water. The flying boat returned to base before eight with two bullet holes.
+
+## Significance
+
+It was, as far as is known, the first airship destroyed by a flying boat. Galpin received the [Distinguished Service Order](https://pl.wikipedia.org/wiki/Order_Wybitnej_Służby) for this flight, and Leckie the Distinguished Service Cross. For the German navy the loss was painful not only because of the ship and crew. The airships, which until then had been able to patrol safely low over the sea, discovered that British aircraft could reach them there too. A month later, on 14 June, another H.12 flying boat shot down the airship L 43 in a similar way near the island of [Vlieland](https://pl.wikipedia.org/wiki/Vlieland). After these losses the airship commanders had to patrol at great heights. From there, however, it was harder to spot submarines and mines, and easier for British submarines to slip through unnoticed.

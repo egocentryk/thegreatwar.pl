@@ -1,0 +1,24 @@
+---
+title: End of the Tenth Battle of the Isonzo
+summary: On 5 June 1917 the Austro-Hungarian counter-attack on the Karst died down. The Italians lost most of their gains at Hermada; the Tenth Isonzo battle ended.
+source: koniec-dziesiatej-bitwy-nad-isonzo
+sourceHash: 7b30cdcfb350ed38e895a1fd311541857c703ec0
+---
+
+On 5 June 1917 the last fighting of the Tenth Battle of the Isonzo was dying down on the [Karst](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)) plateau. The day before, an Austro-Hungarian counter-attack at Hermada had taken the Flondar line back from the Italians and pushed the right wing of their 3rd Army almost back to the positions from which [the offensive had started on 12 May](/poczatek-dziesiatej-bitwy-nad-isonzo). The Austrian official history ends the battle on precisely this day: "when the sun set on 5 June" its last phase came to an end, a phase begun this time not by the Italians. The British chronology of the war gives 8 June as the day the battle ended. Some English-language accounts also adopt this date, although after 6 June there was no more major fighting on the Isonzo.
+
+## The last clashes
+
+The Italians did not at once accept the loss of the Flondar line. According to the Austrian official history, at dawn on 5 June their artillery opened heavy fire on the lost trenches and on the Fornaza hills, where General Gruber's Austro-Hungarian 9th Division was trying to retake a forward section of its old line. In the morning and evening the Italian infantry counter-attacked, but neither side gained anything. Meanwhile the neighbouring 10th Division, which had just been joined by a regiment from Cheb in western Bohemia, occupied the whole switch position near Veršič. According to the Austrians, the number of Italians taken prisoner since 4 June rose to 10,000.
+
+On the night of 5–6 June the exhausted battalions of the 12th Mountain Brigade, which had retaken the Flondar line on 4 June, were relieved by a regiment of the 35th Division. On the morning of 6 June the 9th Division attacked Fornaza once more and took about a thousand prisoners. The Austrians noted that they belonged to ten different regiments, which showed the disorder the Italian units had fallen into after three weeks of fighting. In the evening, however, Gruber reported that the heavy fire of the Italian artillery was costing too many men and that further attacks were unwise. Corps command ordered the line reached to be held. As the Italians were no longer attacking either, the fighting on the Karst ceased.
+
+## The balance according to the Austrians
+
+In summing up the battle, Austrian historians stressed its scale. According to them, the Italians threw into the fighting about 280,000 front-line soldiers, 2,200 guns and about a thousand trench mortars. General [Svetozar Boroević](/postacie/svetozar-boroevic)'s Isonzo Army had about 165,000 soldiers in action, roughly 1,400 guns and 500 mortars. The air operations were also on a large scale: in 14 flying days Austro-Hungarian airmen made 711 flights over the enemy positions, fought 210 air combats and, by their own account, shot down 22 Italian aircraft. The Austro-Hungarian fleet, on the other hand, could not support the defenders from the sea, because the coastal waters near Trieste were thickly mined. The coastal batteries were enough to drive off the Italian monitors that shelled the coast.
+
+Despite their success, the Austrians had no illusions. Their official history counted the Italian breakthrough on the Karst on 23 May among the most serious crises the Isonzo Army ever went through. It also criticised the command of the Southwestern Front, which had kept one of the reserve divisions at its own disposal for too long. General Schneider von Manns-Au, who led the counter-attack at Hermada, received the Knight's Cross of the [Military Order of Maria Theresa](https://pl.wikipedia.org/wiki/Order_Marii_Teresy), and Boroević himself received the Commander's Cross of the order after the battle for the whole of the fighting on the Isonzo in 1915–1917.
+
+## After the battle
+
+For [Luigi Cadorna](/postacie/luigi-cadorna) the end of the battle was bitter. On the Karst all that remained to him of the ground won was a strip of land between Hudi Log and Jamiano, and he took the 27,000 soldiers, many of whom had been captured during the counter-attack, as a sign that the army's will to fight was weakening. He did not, however, change his plans. In those days divisions and heavy batteries released from the Isonzo were being transferred to the [Asiago](https://pl.wikipedia.org/wiki/Asiago) plateau, where on 10 June the Italian 6th Army began [the attack on Monte Ortigara](https://pl.wikipedia.org/wiki/Bitwa_o_Monte_Ortigara). The Italians were to return to the Isonzo front in August, in the Eleventh Battle of the Isonzo.

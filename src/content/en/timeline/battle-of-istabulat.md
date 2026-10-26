@@ -1,0 +1,30 @@
+---
+title: Battle of Istabulat
+summary: On 21–22 April 1917 Cobbe's I Corps, in heat and a sandstorm, drove the Turkish XVIII Corps from Istabulat on the Tigris. The road to Samarra lay open.
+source: bitwa-pod-istabulat
+sourceHash: ffe89feacad2236821d03d5f16fa3a939737ec87
+---
+
+On 21 and 22 April 1917 at Istabulat, on the right bank of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) about 20 kilometres by rail south of [Samarra](https://pl.wikipedia.org/wiki/Samarra), the troops of General Alexander Cobbe fought one of the hardest battles of the spring campaign in Mesopotamia. The British chronology of the war records it under 22 April as the *Action of Istabulat*, lasting two days. Facing the British was the Turkish XVIII Corps, which since the [action at Mushahida](/potyczka-pod-muszahida) had been falling back along the Baghdad–Samarra railway. This time the Turks decided to stand. Prisoners later stated that the Istabulat position was to have been their main line of defence on the Tigris for the whole hot summer.
+
+## A position on the canal
+
+The Turkish line ran from the Tigris for about four kilometres, crossing the Dujail canal and the railway, then turned at a right angle and continued for about another ten kilometres along the railway. The canal, several metres wide and nearly two deep, was a serious obstacle, and its high banks had been prepared for flanking fire. North of the canal stood two redoubts. The British estimated the defenders at about 7,500 rifles and more than 30 guns. According to Moberly, author of the British official history of the Mesopotamian campaign, fifteen battalions of the Turkish 51st and 52nd Divisions fought here, each 500–600 strong. XVIII Corps was commanded in an acting capacity by Colonel Şevket Bey.
+
+General [Frederick Stanley Maude](/postacie/frederick-maude) believed that the troops on the other side were badly shaken and ordered Cobbe to deal with them as quickly as possible. Cobbe had four infantry brigades, seven cavalry squadrons and 76 guns, but all his units were under strength. He decided to strike the Turkish left flank along the canal, where the broken ground gave cover and water was close at hand. On the open, stony plain south of the canal it would have been impossible to get water to the troops in the heat.
+
+## The first day
+
+At 5.05 a.m. on 21 April, after a few minutes' bombardment, the 21st Brigade of the 7th Division went into the attack. The Scottish 2nd Battalion, Black Watch, advanced on the left along the canal, and the 1st/8th [Gurkha](https://pl.wikipedia.org/wiki/Gurkhowie) Rifles straight at Redoubt A. Before seven the Gurkhas took the redoubt, and then, together with the Scots, broke into Redoubt B. A Turkish counter-attack drove them out of it, but the men rallied and retook its eastern part, which they held until evening. South of the canal the 92nd Punjabis took Istabulat station, and the 19th Brigade, with the 1st Battalion, [Seaforth Highlanders](https://pl.wikipedia.org/wiki/Seaforth_Highlanders), and the 28th Punjabis, crossed three kilometres of open plain under heavy fire and before 7.30 a.m. took about 700 metres of Turkish trenches.
+
+Beyond that they could not get. All day the Turkish artillery shelled the British infantry accurately, and in the heat the airmen could not point out the batteries to their own guns. The commanders of the Black Watch and the Gurkhas judged that a fresh assault from the redoubt had no chance. The British official and historian Arnold Wilson wrote that a sandstorm was raging and that the fighting was as fierce as any earlier in the campaign. Almost all units suffered from thirst.
+
+## The second day
+
+During the night the Turks withdrew in good order to a second position, prepared in advance, a few kilometres further back. The British found them only around noon on 22 April, and dust and a strong wind made observation impossible. At 4 p.m., under cover of an artillery bombardment, the 2nd Battalion, Leicestershire Regiment, and the 51st Sikhs attacked by the river. They were helped by guns the British had pushed forward onto the left bank of the Tigris, which enfiladed the Turkish position. The Leicesters took their objective in half an hour, captured more than 300 prisoners and, pursuing the fugitives, seized seven Turkish guns. But they pushed too far, a strong counter-attack drove them back, and the guns returned to Turkish hands. To their left the 56th Rifles struggled to beat off Turkish counter-attacks, enfiladed from behind the railway embankment. Lieutenant John Graham, almost all of whose machine-gun team had fallen, carried a gun across the trenches under fire himself, though wounded several times. He received the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for that day.
+
+On the left flank a party of about forty horsemen of the 32nd Lancers, supported by four armoured cars, charged the Turkish position. The lancers reached the trenches almost without loss and the Turks began to flee or surrender, but the cars could not cross the ground and the artillery had to cease fire. The Turks rallied and almost wiped out the party. Its commander, Colonel Griffith, and two other officers were killed. Wilson and Moberly write that the charge drew pressure off the infantry at a critical moment.
+
+## Outcome
+
+The fighting went on until late evening, but during the night the Turks withdrew again, this time northwards, beyond Samarra. Cobbe's column lost 2,228 men in the two days, mainly in the battalions of the 7th Division. The British buried 491 Turkish dead and by 23 April had taken almost 700 prisoners. According to information gathered later, the Turks lost more than 3,700 men in the fighting of 18, 21 and 22 April. Moberly notes that XVIII Corps defended itself at Istabulat far more stubbornly than Maude had expected, and that taking a fortified position in two days of fighting in extreme heat was a considerable achievement. On the morning of 23 April the British set off for Samarra, meeting no further resistance.

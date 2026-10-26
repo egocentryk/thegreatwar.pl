@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 kwietnia 1917 roku wojska generała Alexandra Cobbe'a zajęły [Samarrę](https://pl.wikipedia.org/wiki/Samarra), miasto nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) około 110 kilometrów na północ od [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad). Turecki XVIII Korpus, rozbity dwa dni wcześniej [pod Istabulat](/bitwa-pod-istabulat), nie próbował już jej bronić. Brytyjska chronologia wojny zapisuje zajęcie Samarry pod 24 kwietnia, z dopiskiem, że trwało ono dwa dni, 23 i 24 kwietnia. Brytyjska historia oficjalna kampanii mezopotamskiej F.J. Moberly'ego wyjaśnia ten zapis: 23 kwietnia Brytyjczycy weszli na stację kolejową, a do samego miasta, leżącego naprzeciw stacji na lewym, wschodnim brzegu rzeki, dzień później. Arnold Wilson, brytyjski urzędnik i historyk kampanii, pisze krótko, że Samarrę zajęto bez walki rano 23 kwietnia.
+24 kwietnia 1917 roku wojska generała Alexandra Cobbe'a zajęły [Samarrę](https://pl.wikipedia.org/wiki/Samarra), miasto nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) około 125 kilometrów na północ od [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad). Turecki XVIII Korpus, rozbity dwa dni wcześniej [pod Istabulat](/bitwa-pod-istabulat), nie próbował już jej bronić. Brytyjska chronologia wojny zapisuje zajęcie Samarry pod 24 kwietnia, z dopiskiem, że trwało ono dwa dni, 23 i 24 kwietnia. Brytyjska historia oficjalna kampanii mezopotamskiej F.J. Moberly'ego wyjaśnia ten zapis: 23 kwietnia Brytyjczycy weszli na stację kolejową, a do samego miasta, leżącego naprzeciw stacji na lewym, wschodnim brzegu rzeki, dzień później. Arnold Wilson, brytyjski urzędnik i historyk kampanii, pisze krótko, że Samarrę zajęto bez walki rano 23 kwietnia.
 
 ## Stacja i parowozy
 
