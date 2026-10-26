@@ -15,8 +15,8 @@ How to use this file:
   problems apply.
 - Keep the target site's own names, comments and language, such as Polish
   folder names like `kartki`.
-- Entries are listed newest last. The backlog at the end lists ideas that
-  have not been done yet.
+- Entries are listed newest last. The roadmap checklist at the end lists
+  every planned item and ticks the finished ones.
 
 ---
 
@@ -287,36 +287,86 @@ are tag, category and author pages, which have no English version.
 
 ---
 
-## Backlog (not done yet)
+## Roadmap (checklist)
 
-1. **Search index** (`szukaj.json` 1.2 MB / 325 KB gz, `en/search.json`
-   1.06 MB). It loads only when someone starts searching. Options:
-   - drop the `d` (date label) field and format it from `k` on the client
-     (−50 KB raw);
-   - split the index by year;
-   - or switch to Pagefind (a static index in small chunks).
-2. **Split the longest filtered pages by year**, at more than ~300 rows, for
-   example `/tag/niemcy/1916`. The main page would keep a year list with
-   counts.
-3. **English tag, category and author pages** (`/en/tag/…`). The English
-   homepage still links to Polish tag pages.
-4. **SEO:**
-   - **Open Graph images per article and battle** (generated at build, for
-     example with satori or `@vercel/og`). Postponed until the articles have
-     images.
-   - **RSS feed:** postponed. There are no publication dates in the content,
-     and the chronicle is complete, so a feed sorted by event date would
-     never change. It needs a `published` front-matter field first. Git dates
-     are unreliable on Vercel's shallow clone.
-5. **Reader features:**
-   - a "related" block on articles (same battle, same people, the same week
-     on other fronts);
-   - "mentioned in" lists on person pages;
-   - a battle map;
-   - public-domain images.
-6. **Template leftovers:**
-   - `package.json` name, author and description, and `README.md`, still
-     come from the portfolio starter;
-   - `SITE.role` is unused copy;
-   - CI runs only on `main`, so add `develop`, plus `i18n-status` and a
-     link check.
+The full improvement plan, agreed with the owner on 2026-10-26. A checked
+item has a numbered section above, with port notes. When an item is
+finished, tick it here and add its section above.
+
+### 1. Performance
+- [x] On this day: one small file per calendar day instead of the 1 MB event
+  pool (§1a)
+- [x] "Pages from the chronicle" shuffle: random shards instead of the full
+  pool (§1b)
+- [x] Random battles: a separate cached file instead of inline JSON (§1c)
+- [x] Timeline list rows: short component classes, ~40% smaller list pages
+  (§1d)
+- [x] Long lists: `content-visibility` on month blocks (§1e)
+- [ ] Split the longest list pages (more than ~300 rows) into per-year pages.
+  - Example: `/tag/niemcy/1916`.
+  - The main page would keep a year list with counts.
+  - Candidates: the author pages, `/kategoria/dzialania-zbrojne`, the big
+    country tags and fronts.
+- [ ] Make the search index smaller (`szukaj.json` 1.2 MB / 325 KB gz,
+  `en/search.json` 1.06 MB). It loads only when someone starts searching.
+  Options:
+  - drop the `d` field (date label) and format it from `k` on the client;
+  - split the index by year;
+  - switch to Pagefind.
+
+### 2. English edition gaps
+- [ ] English tag, category and author pages (`/en/tag/…`,
+  `/en/category/…`, `/en/author/…`).
+  - The English homepage and articles still link to Polish tag pages.
+  - Tag names need translating, for example a `TAGS_EN` map in
+    `src/i18n/data-en.ts`.
+- [ ] A CI step running `node scripts/i18n-status.mjs`, to flag new or edited
+  Polish content with no up-to-date translation (warn, don't fail).
+
+### 3. SEO and discovery
+- [ ] Open Graph image per article and battle, generated at build (for
+  example with satori or `@vercel/og`). Postponed until the articles have
+  images.
+- [x] JSON-LD structured data: WebSite, Article, Event, Person and
+  BreadcrumbList (§2a)
+- [ ] RSS feed. Postponed for two reasons:
+  - there are no publication dates in the content, and the chronicle is
+    complete, so a feed sorted by event date would never change;
+  - git dates are unreliable on Vercel's shallow clone.
+
+  Add a `published` front-matter field first.
+- [x] hreflang alternates in the sitemap (§2b)
+
+### 4. Reader features
+- [ ] A "related" block on articles: the same battle, the same people, the
+  same week on other fronts. Only previous/next links exist now.
+- [ ] "Mentioned in" lists on person pages, built from the links articles
+  already make to `/postacie/...`.
+- [ ] Interactive battle map (Leaflet or static SVG). Needs coordinates on
+  battle pages.
+- [ ] Gantt-style battle timeline per front, fed by `src/data/battlePhases.ts`.
+- [ ] Public-domain images from Wikimedia Commons, with captions and credits.
+
+### 5. Template leftovers and code health
+- [ ] Replace the starter leftovers:
+  - the `package.json` name, author, description and repository URLs
+    (`portfolio-starter`, `your-username`);
+  - `README.md`, which should become a project README (adding and
+    translating articles, checks, a pointer to `workflow.md`);
+  - `SITE.role`.
+- [ ] CI on `develop` as well as `main` (`.github/workflows`), plus content
+  checks: `i18n-status`, summary length and a check for broken internal and
+  Wikipedia links.
+- [ ] Move `workflow.md`, `translation-brief.md` and
+  `translation-factcheck-brief.md` into `docs/`. Turn the session commit-list
+  helper into a real `scripts/i18n-commit.mjs`.
+- [ ] Add a proper-name allowlist to `scripts/i18n-status.mjs`. It flags
+  "Oraz" in "Oraz Serdar" in `action-at-kaakha` and `british-occupy-merv`.
+- [ ] Remove `plq.json` or add it to `.gitignore`. It has been untracked since
+  before the English edition.
+
+### 6. Content quality
+- [ ] One review list of the ~115 open fact-check items (sources disagree, or
+  the claim is defensible) left by the 1918 fact-checks. Decide on each, or
+  add a "sources differ" note.
+- [ ] A visible "Sources" section on each article.
