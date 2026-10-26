@@ -1,6 +1,6 @@
 ---
 title: Brytyjski nalot na Konstantynopol i Adrianopol
-summary: Wieczorem 14 kwietnia 1916 brytyjskie samoloty morskie z Mudros zbombardowały Konstantynopol i Adrianopol. Szkody były niewielkie, ale lot był rekordowo długi.
+summary: Wieczorem 14 kwietnia 1916 brytyjskie samoloty RNAS z Mudros zbombardowały Konstantynopol i Adrianopol. Szkody były niewielkie, ale lot był rekordowo długi.
 category: Działania zbrojne
 front: Bliski Wschód
 date: 1916-04-14

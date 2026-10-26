@@ -1,0 +1,24 @@
+---
+title: Conscription in New Zealand
+summary: On 10 June 1916 the New Zealand House of Representatives passed the Military Service Bill by 44 votes to 4. Conscription was to cover men aged 20 to 46.
+source: pobor-w-nowej-zelandii
+sourceHash: cba530b74247f1ca8581971781782b7325f06c49
+---
+
+During the night of 9/10 June 1916 the [House of Representatives](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_(Nowa_Zelandia)) in Wellington passed the Military Service Bill on its third reading. 44 members voted in favour and 4 against. According to the correspondent of the London quarterly "The Round Table", after the result was announced, in the early hours, the members sang the national anthem. [New Zealand](https://pl.wikipedia.org/wiki/Nowa_Zelandia) was thus the first of the British dominions to follow Great Britain and introduce conscription for an army fighting overseas. The bill still had to pass the [Legislative Council](https://pl.wikipedia.org/wiki/Rada_Legislacyjna_(Nowa_Zelandia)), the upper house, but no one expected resistance there.
+
+## The end of voluntary enlistment
+
+By the middle of 1916 New Zealand, a country of just over a million inhabitants, had raised some 60,000 volunteers for its expeditionary force. Its soldiers had fought at Gallipoli, and in the spring the New Zealand Division moved from Egypt to France. Every month reinforcements of about 2,500 men had to be sent. The National Register of late 1915 had shown that many men of military age did not intend to enlist. The coalition government of Prime Minister [William Massey](https://pl.wikipedia.org/wiki/William_Massey) first tried to revive recruiting. A recruiting board made up of the three most senior ministers asked local authorities to visit single men at home and urge them to join the army. When conscription was introduced in Great Britain, however, more and more people in New Zealand came to believe that compulsion was fairer than voluntary enlistment, in which the burden of the war was borne only by the most self-sacrificing.
+
+Parliament, which usually met at the end of June, was summoned that year as early as 9 May. On 16 May the Prime Minister informed members that the British [House of Commons had passed the conscription of married men](/izba-gmin-uchwala-pobor-zonatych). On 26 May the Minister of Defence, James Allen, moved the second reading of the bill. He admitted then that in his view universal compulsory service from the very start of the war would have been the fairest and surest course. He pointed out that 46,000 men had already been sent overseas and another 11,000 were training in the camps.
+
+## The reserve and the ballot
+
+The bill created an Expeditionary Force Reserve, to which all natural-born British subjects aged 20 to 46 belonged. The first division comprised single men, childless widowers and divorced men, and men who had married during the war. In committee the members moved this last cut-off date from 4 August 1914 to 1 May 1915, holding that men who had married before it became clear that the country needed everyone should not be penalised. The second division was made up of the remaining married men. The army was to select the required number of recruits by ballot, and only when volunteers fell short. Appeals against call-up were to be heard by special boards. The bill as passed by the lower house made no provision for exempting [conscientious objectors](https://pl.wikipedia.org/wiki/Obdżektor). An attempt to exempt the [Quakers](https://pl.wikipedia.org/wiki/Kwakrzy) was defeated in a vote.
+
+The only opponents of the bill were the few Labour members. Five of them voted against the second reading, which passed by 49 votes to 5. They argued that if the state had taken better care of soldiers and their families, there would be no shortage of volunteers. In committee they tried to prolong the proceedings, but to no effect. The mere prospect of conscription revived enlistment, as many single men preferred to volunteer rather than wait for the result of the ballot.
+
+## What followed
+
+The bill became law on 1 August 1916. In its final form it granted the right of appeal to conscientious objectors, but only to those who since the beginning of the war had belonged to religious bodies that rejected the bearing of arms, and even they had to accept non-combatant service. The first ballot was held on 16 November 1916. According to a New Zealand publication on the country's war effort issued in 1923, 32,270 men were called up under the Act by the end of the war, while there were almost 92,000 volunteers. Soon a dispute over conscription flared up in neighbouring [Australia](https://pl.wikipedia.org/wiki/Australia) as well. Its Prime Minister, [Billy Hughes](/postacie/billy-hughes), who was in Europe in June, began to press for its introduction after returning home.

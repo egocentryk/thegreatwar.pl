@@ -1,0 +1,16 @@
+---
+title: French retake Thiaumont
+summary: On 30 June 1916 the French 248th Infantry Regiment attacked the ruins of the Thiaumont work at Verdun. Sources differ on whether it took it and for how long.
+source: francuzi-odbijaja-thiaumont
+sourceHash: f4128fd31a24d64525c52b2dca1530635eb8c7fd
+---
+
+On 30 June 1916 two battalions of the French 248th Infantry Regiment attacked the ruins of the Thiaumont work on the ridge north of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). A week earlier [the Germans had taken it](/niemcy-zdobywaja-thiaumont) in a great attack preceded by a gas bombardment. A British chronology of the war records that on this day the French retook Thiaumont. It was, however, only one of many episodes in the struggle for a patch of shell-ploughed ridge, in which the work changed hands every few days, and accounts of exactly what happened on 30 June differ.
+
+From 24 June the commander of the Second Army, General [Robert Nivelle](/postacie/robert-nivelle), threw battalion after battalion into counter-attacks to recover the lost ground between Thiaumont and Fleury. Of the work, with its concrete shelter, casemate and machine-gun turret, there remained by then only a heap of concrete and twisted iron among the shell craters. According to an account of the fighting cited by French researchers of the Verdun fortifications, the French retook it on 28 June, lost it during the night, recovered it on 29 June and lost it again on 30 June.
+
+The attack of the 248th Regiment was prepared in haste. On the evening of 29 June two battalions under Lieutenant-Colonel Marchand left the citadel of Verdun for their jumping-off positions, a few hundred metres south-west of the work. The attack was set for ten in the morning, with the artillery to prepare it from six. According to the regiment's war diary, however, the French guns opened fire as early as three in the morning, while the columns were still marching, and badly aimed shells fell on their own infantry, killing or wounding many officers and men. Marchand asked for the attack to be postponed to the following day, but the command ordered it to go ahead as planned.
+
+At ten the survivors moved off in small groups across the crater field. On what happened next, the sources diverge. The Michelin guide to the battlefield, published in 1919, and French accounts based on wartime communiqués state that the 248th Regiment took Thiaumont at noon, lost it at about 4 p.m. and recovered it the next day, 1 July. According to the regiment's war diary, cited by modern researchers, the attack broke down under the fire of German machine guns and grenades thrown from the craters, and the French halted about a hundred metres short of the work and waited in the craters until nightfall.
+
+The fighting went on. According to the same account, the work changed hands four more times until on 4 July it remained in German hands, while the Michelin guide speaks of fighting until 9 July. Meanwhile, on 1 July, the British and French attacked [on the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą), and the Germans began withdrawing artillery and divisions from Verdun. The French took the ruins of Thiaumont for good only in their great counter-offensive of 24 October 1916.

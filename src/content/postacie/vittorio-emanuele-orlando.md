@@ -22,7 +22,7 @@ Urodził się 19 maja 1860 roku w [Palermo](https://pl.wikipedia.org/wiki/Palerm
 
 Posłem został w 1897 roku z sycylijskiego okręgu Partinico i reprezentował go do 1925 roku. Zbliżył się do liberała [Giovanniego Giolittiego](https://pl.wikipedia.org/wiki/Giovanni_Giolitti), w którego rządach był ministrem oświaty w latach 1903–1905, kiedy wydłużył obowiązek szkolny do dwunastego roku życia, i ministrem sprawiedliwości w latach 1907–1909, kiedy między innymi utworzył Najwyższą Radę Sądownictwa. Pod koniec 1914 roku ponownie objął ministerstwo sprawiedliwości, tym razem w gabinecie [Antonia Salandry](/postacie/antonio-salandra).
 
-## Minister wojny domowej
+## Minister frontu wewnętrznego
 
 Po [przystąpieniu Włoch do wojny](/wlochy-wypowiadaja-wojne-austro-wegrom) w maju 1915 roku przygotował ustawę o nadzwyczajnych pełnomocnictwach rządu i całe wojenne ustawodawstwo. Zadbał też o to, by wojna z Austrią nie naruszyła przywilejów Stolicy Apostolskiej, gwarantowanych jej przez państwo włoskie. W czerwcu 1916 roku, w [szerokim gabinecie Paola Boselliego](/boselli-premierem-wloch), objął ministerstwo spraw wewnętrznych, czyli odpowiedzialność za porządek publiczny na „froncie wewnętrznym”.
 

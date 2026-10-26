@@ -1,0 +1,26 @@
+---
+title: Russians capture Trebizond
+summary: In mid-April 1916 the Turks abandoned Trebizond, the chief port of northern Anatolia, without a fight. On 18 April General Lyakhov's Russians entered it.
+source: rosjanie-zdobywaja-trapezunt
+sourceHash: a312fcc2f35658f6e19ca319dea00e5d4882fdca
+---
+
+In mid-April 1916 the Russian Caucasus Army captured [Trebizond](https://pl.wikipedia.org/wiki/Trabzon), today's Trabzon, the largest port on the northern coast of Anatolia. The town was undefended. After the lost battle on the Kara Dere river, the Turkish troops abandoned it on the night of 15–16 April, and General Vladimir Lyakhov's Russian Coastal Detachment entered it on 18 April, 5 April by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in use in Russia. A British chronology of the war records the capture of Trebizond under 17 April. On that day Lyakhov's troops were standing a dozen or so kilometres from the town, resting after the pursuit and not yet knowing that the way was open.
+
+## The last position
+
+Since February Lyakhov's detachment had been advancing along the Lazistan coast with the support of ships of the [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska). At the end of March it reached the Kara Dere river near the small town of Sürmene, where the Turks had taken up their last strong position before Trebizond. According to the British historians W. E. D. Allen and Paul Muratoff, they had about 12,000 men there with 20 guns. At the [beginning of April](/poczatek-natarcia-na-trapezunt) the Russians brought two brigades of plastuns, [Kuban Cossack](https://pl.wikipedia.org/wiki/Kozacy_kubańscy) infantry, by sea from Novorossiysk, and Lyakhov's detachment grew to about 20,000 infantry with 30 guns.
+
+Before dawn on 14 April the Russians crossed the Kara Dere. The main blow fell in the mountains, where the 19th Turkestan Rifle Regiment and the plastuns took the Ahu Dağ heights, the key to the Turkish position, with the bayonet. According to Allen and Muratoff, this cost the Russians about a thousand killed and wounded. On the coast the old battleships [*Rostislav*](https://pl.wikipedia.org/wiki/Rostisław_(1896)) and [*Panteleimon*](https://pl.wikipedia.org/wiki/Potiomkin_(1900)), the former *Potemkin*, fired 1,220 shells at the Turkish trenches that day, and in the afternoon the defenders began to fall back. On 15 and 16 April the Russians advanced along the coast behind the retreating Turks, who abandoned one position after another after a few rounds from the ships. On 16 April the leading units stood in the village of Dorana, 11–13 kilometres from Trebizond. The battleships, having fired off their ammunition, sailed away, and Lyakhov gave his troops a day's rest.
+
+## Entering the town
+
+The Turkish commander made no attempt to defend Trebizond. Apart from a few unfinished coastal batteries, the town had no fortifications, and its defenders were in no state to resist after the defeat on the Kara Dere. According to Allen and Muratoff and to Turkish studies, the Ottoman troops abandoned it on the night of 15–16 April and withdrew into the mountains towards [Gümüşhane](https://pl.wikipedia.org/wiki/Gümüşhane). Most of the Muslim population fled after them. On 18 April a delegation of local Greeks came to the Russian lines with the news that the Turks had left the town.
+
+That same morning the leading Russian units entered Trebizond, and from the sea the commander of the Caucasus Army, General [Nikolai Yudenich](/postacie/nikolaj-judenicz), arrived from [Batumi](https://pl.wikipedia.org/wiki/Batumi) on a destroyer. General Yevgeny Maslovsky, who accompanied him, recalled that the Greeks, who made up a large part of the inhabitants, and the few Armenians, led by the Greek Metropolitan Chrysanthos and the clergy, welcomed the Russians with flowers. Yudenich walked through the narrow streets to the Orthodox cathedral, where a service was held for the Tsar and the victory of Russian arms. Lyakhov brought only a few battalions into the town to keep order, and sent the rest of his troops south, to cut the road to Gümüşhane, and west, to the Bay of Platana.
+
+## Significance
+
+The capture of Trebizond was the Caucasus Army's second great success of 1916, after [Erzurum](/rosjanie-zdobywaja-erzurum). The Turks lost the shortest route by which reinforcements and supplies reached their Third Army from Constantinople, by sea and then by road through Bayburt. The Russians gained a port through which they could supply troops standing deep in Anatolia, hundreds of kilometres from the nearest railway. In May and June they brought further brigades here by sea, and the Black Sea Fleet set up a base in the town. A year and a half earlier the Black Sea Fleet had [only been able to shell](/rosjanie-ostrzeliwuja-trapezunt) the town; now it had become a Russian base.
+
+In Russia and in the Entente countries the news was received with joy, all the more so because in those same days the British were trying in vain to relieve [the besieged garrison of Kut](/bitwy/oblezenie-al-kutu). The Russians held Trebizond until the disintegration of their army after the revolution. Ottoman troops returned to the town in February 1918.

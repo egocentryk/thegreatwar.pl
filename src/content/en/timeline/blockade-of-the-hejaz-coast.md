@@ -1,0 +1,22 @@
+---
+title: Blockade of the Hejaz coast
+summary: In mid-May 1916 British warships began blockading the ports of the Hejaz. The blockade was requested by the Sharif of Mecca himself, who was preparing a revolt.
+source: blokada-wybrzeza-hidzazu
+sourceHash: c3c8bd79e956acd1a7a3d552765aa106d4efd77d
+---
+
+A British chronology of the war records under 15 May 1916 that the Allied blockade of the coast of the [Hejaz](https://pl.wikipedia.org/wiki/Hidżaz) began, intended to support the revolt of the Sharif of Mecca. The blockade was not directed against the sharif but conducted in agreement with him. According to the Lebanese historian George Antonius, who knew the accounts of [Hussein bin Ali](/postacie/husajn-ibn-ali) himself, the sharif asked the British to have their ships blockade the ports of the Hejaz. In this way he wanted to put indirect pressure on the merchants and townspeople, who politically maintained a cool reserve towards him. The available sources say little about the course of the blockade itself, and the date of its start comes from the chronology alone.
+
+## A country dependent on the sea
+
+The Hejaz, with [Mecca](https://pl.wikipedia.org/wiki/Mekka) and [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), was a barren land that lived on pilgrimages and on food brought in across the [Red Sea](https://pl.wikipedia.org/wiki/Morze_Czerwone), mainly through the port of [Jeddah](https://pl.wikipedia.org/wiki/Dżudda). The British fleet had commanded the sea since the beginning of the war, and in 1916 it was commanded in these waters by Admiral Sir Rosslyn Wemyss, Commander-in-Chief of the East Indies Station. The sharif knew this weakness of his country well. According to Antonius, in the autumn of 1914 it was precisely this he gave the Turks as his reason for being unable publicly to support the [jihad proclaimed by the sultan](/sultan-oglasza-dzihad): the English would respond with a blockade, perhaps even a bombardment of the ports, food supplies would stop, and hunger might provoke a revolt of the tribes. A year and a half later the same threat became a tool in his hands.
+
+## Preparations for the revolt
+
+By the spring of 1916 the sharif was already preparing to rise against the Turks, relying on the promises made to him in his [correspondence with the British High Commissioner in Egypt](/list-mcmahona-do-szarifa-mekki), Sir Henry McMahon. The British began to supply him with arms and ammunition. According to the British official history they were sent from the Sudan by its Governor-General, Sir Reginald Wingate, whose emissaries frequently crossed the sea. Antonius writes that the sharif asked for the consignments to be gathered at [Port Sudan](https://pl.wikipedia.org/wiki/Port_Sudan), from where at his signal they were to sail in traditional sailing vessels to secluded anchorages on the Hejaz coast. McMahon urged him to delay until the Arabs were better armed, but events were moving faster.
+
+At the beginning of April the Ottoman commander in Syria, [Djemal Pasha](/postacie/dzemal-pasza), informed the sharif that an elite detachment of some 3,500 soldiers would pass through the Hejaz to the Yemen to cooperate with the German mission of Baron Othmar von Stotzingen. Hussein feared that it would reinforce the Turkish garrisons in Arabia. On 6 May, in [Damascus](https://pl.wikipedia.org/wiki/Damaszek) and [Beirut](https://pl.wikipedia.org/wiki/Bejrut), 21 Arab nationalist activists were executed on the sentences of a court martial. According to Antonius this news prompted the sharif to act quickly. A few days later he summoned his son [Faisal](/postacie/fajsal-i) home from Damascus, and Faisal left the city on 16 May.
+
+## What followed
+
+The revolt broke out in the first days of June: on 5 June the sharif's sons raised the rebellion outside Medina, and on 10 June fighting began in Mecca. In the same days the Arabs attacked Jeddah, supported by the fire of British warships and, on 15 June, also by seaplanes from the seaplane carrier HMS *Ben-my-Chree*. The Turkish garrison of the port capitulated on 16 June. Soon, instead of cutting off the ports of the Hejaz, the British began to bring aid to the rebels through them. On 27 June three ships sailed from Port Sudan with Egyptian mountain batteries, rifles, ammunition and barley, flour, rice and coffee, and they reached Jeddah the next day. So began the [Arab Revolt](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)), in which British command of the Red Sea was to play an enormous role.

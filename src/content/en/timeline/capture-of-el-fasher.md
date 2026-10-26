@@ -1,0 +1,22 @@
+---
+title: Capture of El Fasher
+summary: On 23 May 1916 Kelly's mounted troops entered the deserted capital of Darfur. Sultan Ali Dinar fled to the hills; John Slessor bombed his men from the air.
+source: zajecie-al-faszir
+sourceHash: 86d29e08f0374dc410c6d7e82be362cb5b86b092
+---
+
+At ten in the morning on 23 May 1916 Lieutenant-Colonel Philip Kelly rode at the head of mounted troops into [El Fasher](https://pl.wikipedia.org/wiki/Al-Faszir), the capital of the Sultanate of [Darfur](https://pl.wikipedia.org/wiki/Darfur). According to the report of the Governor-General of the Sudan, General Sir Reginald Wingate, the town, which according to the British official history had about 50,000 inhabitants, was almost empty, with mainly women left in it. The day before, Sultan Ali Dinar's army had been [routed at Beringia](/starcie-pod-beringia), a few kilometres from the town.
+
+The sultan did not, however, give up his capital without a last attempt. At three in the morning about 500 horsemen and 300 men on foot attacked Kelly's fortified bivouac. The defenders lit up the ground in front with star shells and magnesium flares and beat off the attack, at the cost of one wounded gunner. At six in the morning, as the troops were assembling to march off, several hundred more of the sultan's men appeared on the left flank. They were scattered by guns, machine guns and bombs from an aircraft.
+
+## "Iron horses" over the town
+
+Ali Dinar, on learning of the defeat at Beringia, tried to gather the remnants of his army, but in the end left the town with about 2,000 men. As they were leaving the southern end of El Fasher, they were attacked from the air by an eighteen-year-old second lieutenant of the [Royal Flying Corps](https://pl.wikipedia.org/wiki/Royal_Flying_Corps), [John Slessor](https://pl.wikipedia.org/wiki/John_Slessor), later Marshal of the Royal Air Force and Chief of the Air Staff. According to the British official history of the air war, he first machine-gunned the rearguard of Baggara tribal horsemen, and then bombed the crowd gathered round the sultan's standard. One of the bombs killed the camel that Ali Dinar was just mounting, and two of his servants. Slessor himself was wounded in the thigh. The same history claims that the air attack broke the spirit of the remnants of the army: the men scattered in small groups, and many are said to have died of thirst afterwards because they were afraid to return to the town. Earlier the sultan is said to have replied to the leaflets dropped by the British that he did not care what the sirdar's "iron horses" that flew in the air might do.
+
+The four B.E.2c aircraft, lent to the expedition by the command in Egypt, were brought to the Sudan by rail and steamer, and carried to the front deep in Darfur by camel and lorry. Fuel in tins wrapped in grass matting evaporated in the heat by about half. Even so, the aircraft carried out reconnaissance, dropped proclamations and bombed the enemy.
+
+## Spoils and the sultan's flight
+
+At El Fasher the troops captured four guns, about 55,000 rounds of ammunition and the entire local gunpowder factory. Over the next few weeks more than 4,000 rifles were captured or voluntarily handed in. According to Wingate's report, by 9 June most of the inhabitants had returned to the town, and almost all the sultan's commanders and dignitaries not yet captured had surrendered. Soon afterwards the French, who had agreed to cooperate with the expedition, occupied the border district of Dar Sila from the direction of [Wadai](https://pl.wikipedia.org/wiki/Wadaj_(królestwo)). Wingate wrote that the expedition had restored about 390,000 square kilometres of territory to the Sudan. The British official history of the air war compares this area to the size of France.
+
+The sultan himself took refuge in the [Jebel Marra](https://pl.wikipedia.org/wiki/Dżabal_Marra) mountains, about 80 kilometres south-west of the capital. Kelly could not pursue him at once, because his pack animals were exhausted and his supplies running out. Ali Dinar sent envoys and discussed terms of surrender, but the British decided he was playing for time and on 1 August broke off the talks. Deserted by one supporter after another, he was killed on 6 November 1916, when a small detachment under Major Huddleston attacked his camp at Jebel Juba. Kelly became the first British governor of Darfur, which from then on was one of the provinces of the Sudan.

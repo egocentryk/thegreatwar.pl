@@ -1,0 +1,24 @@
+---
+title: Conscription extended to married men
+summary: On 25 May 1916 the second Military Service Act received royal assent. Conscription in Great Britain now covered all men aged 18 to 41.
+source: pobor-obejmuje-zonatych
+sourceHash: 12256763a3b74282b4153fa2d66dbe4cb3e3ec5c
+---
+
+On 25 May 1916 the second British Military Service Act (Military Service Act, 1916, Session 2) received royal assent. Great Britain thus moved from the conscription of bachelors alone, introduced [in January](/wielka-brytania-wprowadza-pobor), to universal compulsory military service. The Act passed quickly through Parliament: the [House of Commons](https://pl.wikipedia.org/wiki/Izba_Gmin) passed it on [16 May](/izba-gmin-uchwala-pobor-zonatych), the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów) passed it without a division on the whole bill on 23 May, and on 24 May MPs agreed to the Lords' amendments. The "Annual Register" wrote that few measures of such great importance had ever passed through Parliament with so little opposition.
+
+## Who was conscripted
+
+The Act extended the January provisions to every male British subject ordinarily resident in Great Britain who had reached the age of 18 and was not yet 41, regardless of marital status. On the thirtieth day after the passing of the Act, that is on 24 June 1916, all these men, unless they fell under the exceptions or had obtained exemption, were to be deemed enlisted for the duration of the war and transferred to the reserve, from which they would be called up to their units gradually. Until then they could still volunteer or apply for exemption. Boys who had yet to turn 18 became liable thirty days after their birthday. The Act still did not apply to [Ireland](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), where the [Easter Rising](https://pl.wikipedia.org/wiki/Powstanie_wielkanocne) had been suppressed less than a month earlier.
+
+The new provisions also reached men who were already serving. Soldiers whose engagements were expiring were retained until the end of the war, and those who had left the army on completing their service and were not yet 41 were called back. The government announced bounties of £15 to £25 for them, depending on length of service. The Army Council could re-examine men rejected by medical boards on grounds of health after 14 August 1915, since the army was now also accepting men for lighter home service. Territorials could be transferred to any battalion, which was meant to allow the most depleted units to be brought up to strength. Trained soldiers more needed in the factories, on the other hand, could be released for civilian work, on condition that they would return to the ranks if required.
+
+## Exemptions and conscientious objectors
+
+The procedure in the tribunals that heard applications for exemption was simplified. Anyone seeking a change to the decision of an appeal tribunal could no longer go back to the local tribunal and start the case afresh. The Act also settled the lawyers' doubt whether a tribunal could grant a [conscientious objector](https://pl.wikipedia.org/wiki/Obdżektor) absolute exemption from all service. It was stated explicitly that it could, although in practice tribunals rarely did so. In accordance with a promise given in the House of Commons, soldiers under 19 were not to be sent abroad unless military necessity required it. The Lords shortened from two months to two weeks the period of protection for men who had moved into munitions work only after August 1915 to avoid the army. When the House of Commons considered the Lords' amendments on 24 May, the Labour Party, still fearful of industrial compulsion, forced a division on one of them, limiting the period of protection, but the House accepted it. [Walter Long](https://pl.wikipedia.org/wiki/Walter_Long_(1._wicehrabia_Long)) reassured the trade unionists by announcing that Labour representatives would join a small committee advising the Army Council on these matters.
+
+## The King's message
+
+On the same day King [George V](/postacie/jerzy-v) issued a message to the nation. "To enable our country to organise more effectively its military resources in the present great struggle for the cause of civilisation," he wrote, "I have, acting on the advice of my Ministers, deemed it necessary to call up every man capable of service between the ages of eighteen and forty-one." At the same time he gave thanks for the patriotism and self-sacrifice through which no fewer than 5,041,000 men had enlisted voluntarily since the beginning of the war.
+
+The second Act closed the era of the volunteer army. It did not, however, end the matter. The tribunals continued to exempt hundreds of thousands of men, and the army still complained of a shortage of manpower. In the following years Parliament tightened the rules several more times, and in the spring of 1918 extended conscription to men up to 51.

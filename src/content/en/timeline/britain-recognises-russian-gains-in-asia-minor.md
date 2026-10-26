@@ -1,0 +1,22 @@
+---
+title: Britain recognises Russian gains in Asia Minor
+summary: On 23 May 1916 Edward Grey offered Russia an agreement in which Britain recognised its claims to Erzurum, Trebizond, Van, Bitlis and part of Kurdistan.
+source: wielka-brytania-uznaje-rosyjskie-zdobycze-w-azji-mniejszej
+sourceHash: a91c21d46a157acdd30f09c12ec3b5757104cc1e
+---
+
+On 23 May 1916 the British Foreign Secretary, [Edward Grey](/postacie/edward-grey), sent a note to the Russian ambassador in London, Count Alexander Benckendorff. The document bore a double date, 10/23 May, because Russia still used the Julian calendar. In it Britain recognised the terms which the Russian government had set France in the [notes exchanged in Petrograd on 26 April](/porozumienie-sykes-picot), and proposed to Russia an Anglo-Russian agreement on the same principles. The British chronology of the war records under this date that the British government informed the Russian government of its recognition of the "Sykes-Picot" agreement on the future partition of Asia Minor.
+
+This was the last missing side of the triangle. France and Russia had agreed their zones in April, and Britain and France had [confirmed their division](/grey-zatwierdza-porozumienie-sykes-picot) a week earlier, in Grey's letter of 16 May, which also announced the note to Russia. At the beginning of the letter Grey stated that he had received copies of the notes of 26 April from the French ambassador, and accepted "with satisfaction" that Russia agreed to the boundaries fixed by the British and French for the Arab state and for the division of Syria, [Cilicia](https://pl.wikipedia.org/wiki/Cylicja) and Mesopotamia, provided that the Arabs cooperated.
+
+## What London granted Russia
+
+Grey proposed that Russia should annex the regions of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), Trebizond ([Trabzon](https://pl.wikipedia.org/wiki/Trabzon)), [Van](https://pl.wikipedia.org/wiki/Wan_(miasto)) and [Bitlis](https://pl.wikipedia.org/wiki/Bitlis) up to a point on the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne) coast west of Trebizond, to be fixed later. Russia was also to receive the part of [Kurdistan](https://pl.wikipedia.org/wiki/Kurdystan) south of Van and Bitlis, between [Muş](https://pl.wikipedia.org/wiki/Muş), [Siirt](https://pl.wikipedia.org/wiki/Siirt), the course of the Tigris, Jazirat ibn Umar ([Cizre](https://pl.wikipedia.org/wiki/Cizre)), the crest of the mountains dominating [Amadiya](https://pl.wikipedia.org/wiki/Al-Amadijja) and the region of Mergawar (Merga Var) on the Persian side of the border. Further on, the boundary of the Arab state was to run along the crest of the mountains separating Ottoman territory from Persia. These boundaries were defined in general terms: the details were to be settled on the spot by a delimitation commission.
+
+In return Russia was to maintain in its new territories the concessions granted to the British by the Ottoman government and to modify them only in agreement with London. British navigation and economic rights and the privileges of British religious, educational and medical institutions were to be preserved. Britain promised the same to Russian institutions in the territories that were to fall to it. Both sides also accepted the principle that every state annexing part of the Ottoman Empire would take over a share of the service of the Ottoman debt.
+
+## The map and the front
+
+When the note was sent, most of the lands named in it were already in Russian hands. [Erzurum](/rosjanie-zdobywaja-erzurum) had fallen in February, Muş and Bitlis at the turn of February and March, and Trebizond in April. The Russians had retaken Van at the end of the summer of 1915. In mid-May a Russian detachment [took Rowanduz](/rosjanie-zajmuja-rawanduz) in Kurdistan, which lay south of the line Grey proposed as the boundary of the Russian acquisitions. These were historic Armenian lands, and the note, like the earlier Russo-French agreement, provided no autonomy for the Armenians.
+
+The note of 23 May did not yet close the matter. Benckendorff replied only on 1 September (19 August by the Julian calendar), entering a reservation concerning Russia's right to so-called grand cabotage, that is, navigation between its ports, on the Black Sea. Grey took note of it in a note of 23 October 1916, and only then was the tripartite agreement on the partition of Asiatic Turkey, consisting of eleven letters in all, considered complete.
