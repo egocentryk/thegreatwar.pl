@@ -830,6 +830,20 @@ what differs on this site and the numbers measured here.
   search pages). None are in the sitemap, which now has 7,060 URLs. 154 tag
   pages link to their person page.
 
+**Follow-up, not in `seo.md` (port these to thesecondwar.pl):**
+
+- `BaseHead.astro`: indexable pages have `max-image-preview:large` in the
+  robots meta tag, so Google may show large image previews (Discover).
+- `FilteredTimeline.astro`: tag, category and front pages are titled after
+  the subject and the war: "Kamerun – I wojna światowa", "War at sea in the
+  First World War". Before, they were "Tag: Kamerun" and "Front: …". Author
+  pages keep "Autor: …". The `<h1>` and the JSON-LD names are unchanged.
+- `postacie/[id].astro`: a person's own tag is linked only when it has a tag
+  page. 8 person pages linked a tag that no article carries, which gave 404s.
+  The page now has no broken internal links.
+- Longer descriptions for `/timeline` and `/about` in both languages. Every
+  description under 70 characters is now on a noindex tag page.
+
 ---
 
 ## Roadmap (checklist)

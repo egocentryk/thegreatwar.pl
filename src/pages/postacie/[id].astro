@@ -10,6 +10,7 @@ import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { getPeople, lifeYears, personByName } from "@/utils/people"
 import { slugify } from "@/utils/slugify"
 import { breadcrumbLd, personLd } from "@/utils/jsonLd"
+import { groups } from "@/utils/filteredPages"
 
 export async function getStaticPaths() {
   const people = await getPeople()
@@ -41,6 +42,8 @@ const {
   tags,
 } = person.data
 const { Content } = await render(person)
+// A person's own tag may be on no article, and then it has no tag page.
+const tagPages = new Set((await groups("tag", "pl")).map((group) => group.slug))
 
 const people = await getPeople()
 
@@ -149,12 +152,16 @@ import { eventsById, personMentions } from "@/utils/related"
                 {tags.map((tag, index) => (
                   <>
                     {index > 0 && ", "}
-                    <a
-                      href={`/tag/${slugify(tag)}`}
-                      class="text-ink hover:text-signal transition-colors"
-                    >
-                      {tag}
-                    </a>
+                    {tagPages.has(slugify(tag)) ? (
+                      <a
+                        href={`/tag/${slugify(tag)}`}
+                        class="text-ink hover:text-signal transition-colors"
+                      >
+                        {tag}
+                      </a>
+                    ) : (
+                      tag
+                    )}
                   </>
                 ))}
               </dd>

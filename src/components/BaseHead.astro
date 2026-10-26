@@ -101,7 +101,8 @@ const socialImage = new URL(image ?? SITE.ogImage, Astro.site);
 <link rel="manifest" href="/site.webmanifest" />
 
 {/* Optional */}
-<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
+{/* max-image-preview:large lets Google show large images (Discover, results). */}
+<meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
 <meta name="google-adsense-account" content="ca-pub-5375305864949545" />
 
 {/* Fonts API (Astro 5.x+)*/}
