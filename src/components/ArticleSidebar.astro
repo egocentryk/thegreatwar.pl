@@ -1,0 +1,188 @@
+---
+// Right-hand column of an event article on wide screens (lg+): the date with
+// the neighbouring events, "W skrócie", the people linked in the text, the
+// battle with its locator map, and a support card that stays in view while
+// the text scrolls. On smaller screens the page shows "W skrócie" and the
+// support card below the text instead, so this column is hidden there.
+import BattleLocator from "@/components/BattleLocator.astro"
+import CoffeeIcon from "@/components/CoffeeIcon.astro"
+import { locale, type Lang } from "@/i18n"
+import { localBattles, localPeople } from "@/i18n/local"
+import { SITE } from "@/site.config"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { lifeYears } from "@/utils/people"
+
+interface Neighbour {
+  href: string
+  title: string
+  date: Date
+}
+
+interface Props {
+  lang?: Lang
+  date: Date
+  // Markdown body; English bodies keep the Polish link targets.
+  body: string
+  // Polish battle id.
+  battleId?: string
+  brief?: string[]
+  previous?: Neighbour
+  next?: Neighbour
+  class?: string
+}
+
+const { lang = "pl", date, body, battleId, brief = [], previous, next, class: className } = Astro.props
+const en = lang === "en"
+const loc = locale(lang)
+
+// "28" over "czerwca 1914".
+const day = date.getUTCDate()
+const monthYear = new Intl.DateTimeFormat(loc, { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
+  .format(date)
+  .replace(/^\d+\.?\s*/, "")
+const weekday = new Intl.DateTimeFormat(loc, { weekday: "long", timeZone: "UTC" }).format(date)
+
+// People linked in the text, in order of first mention.
+const linked = [...new Set([...body.matchAll(/\]\(\/postacie\/([a-z0-9-]+)\)/g)].map((m) => m[1]))]
+const peopleById = new Map((await localPeople(lang)).map((p) => [p.id, p]))
+const people = linked.flatMap((id) => {
+  const person = peopleById.get(id)
+  return person ? [{ href: person.href, name: person.data.name, years: lifeYears(person.source) }] : []
+})
+const PEOPLE_SHOWN = 6
+
+const battle = battleId ? (await localBattles(lang)).find((b) => b.id === battleId) : undefined
+
+const t = {
+  pl: {
+    previous: "← Poprzednie",
+    next: "Następne →",
+    people: "Postacie w tekście",
+    more: (n: number) => `i ${n} więcej`,
+    battle: "Bitwa",
+    supportTitle: "Kronika jest bezpłatna i bez reklam.",
+    supportText: "Jeśli ten tekst był dla Ciebie wartościowy, możesz wesprzeć pisanie kolejnych.",
+    button: "Kup nam kawę",
+  },
+  en: {
+    previous: "← Previous",
+    next: "Next →",
+    people: "People in this article",
+    more: (n: number) => `and ${n} more`,
+    battle: "Battle",
+    supportTitle: "The chronicle is free and has no ads.",
+    supportText: "If this article was useful to you, you can support the next ones.",
+    button: "Buy us a coffee",
+  },
+}[lang]
+const block = "border-line border-t pt-5"
+const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
+---
+
+<aside class:list={["hidden space-y-8 lg:block print:hidden", className]}>
+  <div>
+    <p class="font-display text-ink text-7xl leading-none font-medium tracking-tight">{day}</p>
+    <p class="text-ink mt-2 font-mono text-xs tracking-[0.15em] uppercase">{monthYear}</p>
+    <p class="text-ink-soft mt-0.5 font-mono text-[11px]">{weekday}</p>
+    {
+      (previous || next) && (
+        <div class="mt-5 space-y-3">
+          {previous && (
+            <a href={previous.href} rel="prev" class="group block">
+              <span class="text-ink-soft block font-mono text-[10px]">
+                {t.previous} · {formatDate(previous.date, "long", undefined, loc)}
+              </span>
+              <span class="text-ink group-hover:text-signal line-clamp-2 block text-sm leading-snug transition-colors">
+                {previous.title}
+              </span>
+            </a>
+          )}
+          {next && (
+            <a href={next.href} rel="next" class="group block">
+              <span class="text-ink-soft block font-mono text-[10px]">
+                {t.next} · {formatDate(next.date, "long", undefined, loc)}
+              </span>
+              <span class="text-ink group-hover:text-signal line-clamp-2 block text-sm leading-snug transition-colors">
+                {next.title}
+              </span>
+            </a>
+          )}
+        </div>
+      )
+    }
+  </div>
+
+  {
+    brief.length > 0 && (
+      <div class="border-signal bg-surface border-l-2 px-4 py-3">
+        <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{en ? "In brief" : "W skrócie"}</p>
+        <ul class="text-ink marker:text-ink-soft mt-2 list-disc space-y-1.5 pl-4 text-[13px] leading-5">
+          {brief.map((point) => <li>{point}</li>)}
+        </ul>
+      </div>
+    )
+  }
+
+  {
+    people.length > 0 && (
+      <div class={block}>
+        <p class={label}>{t.people}</p>
+        <ul class="mt-3 space-y-3">
+          {people.slice(0, PEOPLE_SHOWN).map((person) => (
+            <li>
+              <a href={person.href} class="group flex items-center gap-3">
+                <span class="border-line bg-surface text-ink-soft font-display flex size-10 shrink-0 items-center justify-center rounded-full border text-sm">
+                  {person.name.charAt(0)}
+                </span>
+                <span class="min-w-0">
+                  <span class="text-ink group-hover:text-signal block truncate text-sm leading-snug transition-colors">
+                    {person.name}
+                  </span>
+                  <span class="text-ink-soft block truncate font-mono text-[10px]">{person.years}</span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        {people.length > PEOPLE_SHOWN && (
+          <p class="text-ink-soft mt-3 font-mono text-[10px]">{t.more(people.length - PEOPLE_SHOWN)}</p>
+        )}
+      </div>
+    )
+  }
+
+  {
+    battle && (
+      <div class={block}>
+        <p class={label}>{t.battle}</p>
+        <a href={battle.href} class="group mt-2 block">
+          <span class="font-display text-ink group-hover:text-signal block text-lg leading-snug transition-colors">
+            {battle.data.title}
+          </span>
+          <span class="text-ink-soft mt-0.5 block font-mono text-[10px]">
+            {formatDateRange(battle.data.startDate, battle.data.endDate, loc)}
+          </span>
+        </a>
+        <div class="mt-3 font-mono text-[11px]">
+          <BattleLocator id={battle.id} frontKey={battle.data.frontKey} lang={lang} full />
+        </div>
+      </div>
+    )
+  }
+
+  <div class="sticky top-24">
+    <div class="bg-signal rounded-sm p-4 text-white">
+      <p class="font-display leading-snug">{t.supportTitle}</p>
+      <p class="mt-1.5 text-xs leading-5 text-white/85">{t.supportText}</p>
+      <a
+        href={SITE.support}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-signal hover:bg-paper mt-3 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-medium transition-colors"
+      >
+        <CoffeeIcon />
+        {t.button}
+      </a>
+    </div>
+  </div>
+</aside>

@@ -11,9 +11,11 @@ interface Props {
   id: string
   frontKey: string
   lang?: Lang
+  // Fill the container's width (sidebars) instead of the 16rem default.
+  full?: boolean
 }
 
-const { id, frontKey, lang = "pl" } = Astro.props
+const { id, frontKey, lang = "pl", full = false } = Astro.props
 const point = battlePoint(id)
 // Window around the battle in map units (3:2), kept inside the map.
 const view = point && (point.map === "europa" ? { w: 260, h: 173 } : { w: 300, h: 200 })
@@ -41,7 +43,7 @@ const href = `${lang === "en" ? "/en/battles/map" : "/bitwy/mapa"}#b-${id}`
 
 {
   style && (
-    <a href={href} class="group mt-3 block max-w-[16rem]" aria-label={lang === "en" ? "Show on the battle map" : "Pokaż na mapie bitew"}>
+    <a href={href} class:list={["group block", full ? "" : "mt-3 max-w-[16rem]"]} aria-label={lang === "en" ? "Show on the battle map" : "Pokaż na mapie bitew"}>
       <span class="locator border-line relative block aspect-[3/2] overflow-hidden rounded-sm border">
         <span class="locator-land absolute inset-0" style={style.land} />
         <span class:list={["locator-dot", sea && "is-sea"]} style={style.dot} />

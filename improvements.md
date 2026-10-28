@@ -887,6 +887,151 @@ sources need the research method (fetch 3–5 sources and check the facts).
 
 ---
 
+## 12. "W skrócie / In brief" on every milestone (2026-10-28)
+
+Ported from thesecondwar.pl (`seo.md` §9, `roadmap.md` §4).
+
+- `brief:` (at most 5 strings) on `timeline` and `battles` and on the
+  English `timelineEn` / `battlesEn` (it is translated, so it counts in
+  `sourceHash`). `src/components/InBrief.astro` shows it as a box above the
+  text on event and battle pages in both languages.
+- Filled for all 423 milestones (262 events, 161 battles): 2,060 points per
+  language, 3–5 per page, 186 characters on average, none over 260.
+- **How:** 10 writer agents, about 43 milestones each, read the Polish and the
+  English article in full and wrote the points only from the article's own
+  text. A checker script compared every number in a point with the same
+  language's article (title, summary and body; the `result:` field is not read, so
+  figures found only there were left out). All 423 passed with 0 problems.
+  Name spellings were then normalised in the points (Rupprecht, Franchet
+  d'Espérey), and the 423 English files were re-stamped with
+  `i18n-status.mjs --stamp=<slug>`.
+- To re-run for a new milestone: write the points from the article, keep
+  every number as the article gives it, and re-stamp its English file.
+
+**Not in thesecondwar.pl (port back):** the writers also reported
+inconsistencies in the existing articles. They are in the review list
+below; none were fixed in this change.
+
+### Review list: inconsistencies found by the "In brief" writers
+
+Check each one against the sources, then fix it or add a cautious note. Paths
+are relative to `src/content/` (PL unless marked EN).
+
+- [ ] battles/1916/ofensywa-kilimandzarska (Kahe 21 III): PL "niemieckie kontrataki je odparły" reads as Germans repulsing the squadrons; EN: squadrons beat off counter-attacks.
+- [ ] battles/1916/bitwa-nad-somma: PL "kilkanaście miesięcy szkolenia" vs EN "a year or so".
+- [ ] en/battles/brusilov-offensive: sides "Karl von Pflanzer-Baltin" vs body/PL "Karl Pflanzer-Baltin".
+- [ ] en/timeline/zimmermann-telegram: "despite his reservations" ambiguous (Kemnitz vs Montgelas); PL clearly Montgelas.
+- [ ] battles/1916/szosta-bitwa-nad-isonzo: lede 9 VIII entry into Gorizia vs body 8 VIII flag at station.
+- [ ] battles/1916/bitwa-pod-morval: lede "w południe" vs body zero hour 12.35.
+- [ ] battles/1916/bitwa-o-grzbiet-thiepval: "ponad dwa tygodnie" vs "zdobywano przez trzy tygodnie".
+- [ ] timeline/1916/11/koniec-bitwy-nad-somma: "cztery i pół miesiąca" vs "pięciu miesięcy walk".
+- [ ] timeline/1916/11/smierc-franciszka-jozefa: heading "Siedemdziesiąt lat historii" vs "prawie 68 lat" reign.
+- [ ] timeline/1916/12/upadek-bukaresztu: "north-eastern" forts vs Mogoșoaia / north-western sector.
+- [ ] battles/1916/pierwsza-ofensywna-bitwa-pod-verdun: "dwa moździerze kalibru 400 mm" vs "haubice kolejowe" elsewhere.
+- [ ] battles/1916/bitwa-pod-fromelles (PL): "Ruprechta" vs "Rupprecht".
+- [ ] Minor: EN army naming "4th Army" vs "Fourth Army" (bazentin vs delville/flers), "3rd Army" vs "Third Army" (erzurum vs trebizond).
+- [ ] nalot-sterowcow-i-zestrzelenie-sl-11 (PL "North Mimms") vs EN "North Mymms".
+- [ ] poczatek-bitwy-o-grzbiet-pozieres: Walker PL "Brytyjczyk" vs EN "an Englishman".
+- [ ] en winter-battle-in-the-carpathians: sides "Karl von Pflanzer-Baltin" vs body "Karl Pflanzer-Baltin".
+- [ ] bulgaria-wypowiada-wojne-rumunii (PL): "przyznał jej południową Dobrudżę" ambiguous.
+- [ ] poczatek-bitwy-pod-morval: "O 12.35, w samo południe" (PL+EN).
+- [ ] zabojstwo-premiera-stuergkha: prosecution vs defence on Adler's insanity reads contradictory.
+- [ ] poczatek-bitwy-jutlandzkiej: balance says four German torpedo boats lost, body names two (V 27, V 29).
+- [ ] rumunia-wypowiada-wojne-austro-wegrom "34 tysiące karabinów" vs niemcy-wypowiadaja-wojne-rumunii "34 tysięcy żołnierzy".
+- [ ] Falkenhayn's expected date of Romania's entry: hindenburg-szefem-sztabu-generalnego (after harvest / October) vs niemcy-wypowiadaja-wojne-rumunii (not before mid-September).
+- [ ] Hindenburg summoned: Lyncker phone 28 VIII (hindenburg-szefem…) vs Kaiser evening 27 VIII (niemcy-wypowiadaja…).
+- [ ] turcja-wypowiada-wojne-rumunii: German interests handed over "trzy dni wcześniej" = 27 VIII, before Germany's 28 VIII declaration — check.
+- [ ] Weather 1 X 1916: poczatek-bitwy-o-wzgorza-nad-ancre (rain, mud) vs poczatek-bitwy-o-grzbiety-transloy (fine; rain from 2 X).
+- [ ] en capture-of-ginchy "4th Army" vs "Fourth Army".
+- [ ] battles/1918/bitwa-pod-villers-bretonneux: "Nazwa i daty" last gap closed night before 27 IV vs course: night before 26 IV (60th Bn straightening 27 IV).
+- [ ] battles/1918/bitwa-pod-vittorio-veneto: result "400 do ponad 430 tysięcy" vs Straty "400 do 480 tysięcy" / 436 674.
+- [ ] battles/1918/bitwa-pod-saint-quentin-1918: ~38k (intro) vs ~38.5k (Straty) — minor.
+- [ ] battles/1918/ofensywa-moza-argonne: First Army "około 117 000" vs 26 000 + ~96 000 ≈ 122 000.
+- [ ] saint-quentin-1918: PL "kilkunastu, kilkudziesięciu metrów" vs EN "a few dozen metres".
+- [ ] EN vardar-offensive, third-battle-of-the-aisne: "d'Espèrey" → "d'Espérey".
+- [ ] ofensywa-nad-wardarem: PL "Meglena" vs EN "Moglena".
+- [ ] Hindenburg Line battles: 12 IX–9 X (bitwa-pod-epehy) vs 12 IX–12 X (bitwa-pod-havrincourt).
+- [ ] Australian 5th Brigade: ~1300 (druga-bitwa-nad-somma-1918) vs 70 officers + 1250 men (druga-bitwa-pod-bapaume-1918) — roughly agree.
+- [ ] Last BEF corps to Flanders: III Corps (poczatek-bitwy-pod-armentieres) vs I Corps (poczatek-bitwy-pod-langemarck, poczatek-pierwszej-bitwy-pod-ypres).
+- [ ] Artois end: 10 X (poczatek-bitwy-pod-arras) vs 12 X British chronology (poczatek-pierwszej-bitwy-w-artois).
+- [ ] poczatek-pierwszej-bitwy-pod-albert: lead ends 29 IX vs later "British chronology ends 25 IX".
+- [ ] poczatek-pierwszej-bitwy-w-artois: "Tego samego dnia… oblężenie Antwerpii" after 26 IX; Antwerp article: 27 IX.
+- [ ] PL "Ruprechta" in albert, artois, gheluvelt (start+end) → "Rupprechta".
+- [ ] EN "d'Espèrey" in germans-retreat-from-the-marne, battle-of-the-marne-begins → "d'Espérey".
+- [ ] bitwa-nad-gete: PL "Haelen" vs EN "Halen".
+- [ ] serbia-wypowiada-wojne-niemcom: "a week earlier" vs 28 VII → 6 VIII (nine days).
+- [ ] poczatek-bitwy-pod-broodseinde: Peeler PL "kapral" vs EN "Lance Corporal"; rain "w południe" vs "Pół godziny po południu" (12.30).
+- [ ] rajd-na-zeebrugge: Frank Brock PL "komandor porucznik" vs EN "Wing Commander".
+- [ ] poczatek-bitwy-pod-bailleul: 214th Division 7.00 vs 5 a.m. assault on 75th Brigade.
+- [ ] "Hamiltona-Gordona" (niemcy-zdobywaja-messines-1918) vs "Hamilton-Gordona" (poczatek-bitwy-pod-bailleul).
+- [ ] de Mitry: "Oddział Armii Północ" vs "Oddział Armijny Północ" (kemmel articles); EN likewise.
+- [ ] walki-nad-ancre: Rupprecht PL "Książę" vs EN "Crown Prince".
+- [ ] kostaryka- vs nikaragua-wypowiada-wojne-niemcom: Panama counted as Central American in one, Guatemala "first" in the other.
+- [ ] zdobycie-grzbietu-outtersteene: summary "w południe" vs body 11.00.
+- [ ] poczatek-bitwy-pod-amiens: "ponad dwa tysiące dział" vs "około 2 tysięcy dział".
+- [ ] battles/1915/bitwa-pod-st-julien: "około tysiąca zabitych, z czego 3058 jednego tylko dnia" — impossible; probably 3058 of total losses on 24 IV.
+- [ ] battles/1915/oblezenie-al-kutu: intro ~13 thousand prisoners vs Niewola ~12 thousand.
+- [ ] EN battle-of-neuve-chapelle: title "Neuve Chapelle" vs body "Neuve-Chapelle".
+- [ ] battles/1915/podboj-serbii (PL): "VIII Korps", "XIX Korps" → "Korpus".
+- [ ] battles/1915/druga-bitwa-w-szampanii: misplaced sentence (official history 30 IX) makes "Kazał" refer to it.
+- [ ] bitwa-pod-gorlicami: PL "od kilkunastu do około 20 tysięcy" vs EN "some fifteen" (battle) / "more than ten thousand" (timeline).
+- [ ] PL "Kitcheners' Wood" vs EN "Kitchener's Wood" (gravenstafel, druga-bitwa-pod-ypres, wzgorze-60).
+- [ ] Festubert: French's quote "deliberate and unremitting" vs "deliberate and persistent" (EN).
+- [ ] Artois EN: "Bayonne men" vs "Bayonnais"; "Tenth Army" vs "10th Army".
+- [ ] Smith-Dorrien removal told differently in druga-bitwa-pod-ypres vs bitwa-pod-st-julien (not a contradiction).
+- [ ] bitwa-pod-poelcappelle: PL "100–200 metrów przed linią wyjściową" vs EN "beyond the start line".
+- [ ] druga-bitwa-pod-passchendaele: PL "półtora kilometra" vs EN "a mile and a half".
+- [ ] pierwsza-bitwa-pod-passchendaele: PL "ponad półtora kilometra" vs EN "more than a mile and a half".
+- [ ] trzecia-bitwa-pod-ypres: PL "półtora kilometra" vs EN "a mile and a half" (Polygon Wood EN: "a kilometre and a half").
+- [ ] druga-bitwa-nad-aisne: PL "Gerarda Nicholsona" → Gerald (G.W.L. Nicholson).
+- [ ] bitwa-pod-cambrai-1917: "more than half the tanks lost on day one" vs 179 of 378.
+- [ ] zdobycie-jerozolimy: Mount of Olives cleared in fighting 10 XII vs found abandoned 10 XII.
+- [ ] timeline/1914/12/obrona-givenchy: lead "Germans had taken Givenchy by noon" vs body/battle page "after 1 p.m.".
+- [ ] bitwa-pod-sarykamyszem: PL "Georgij Bergmann" vs EN "Georgy Berkhman" (EN Russia-declares-war: "Bergmann").
+- [ ] bitwa-pod-gheluvelt: PL "około półtora kilometra" vs EN "about a mile and a half".
+- [ ] drugie-oblezenie-przemysla: horses "od około 10 do kilkunastu tysięcy" vs EN "nearly 20,000"; "kilkanaście tysięcy cywilów" vs later 18,000–30,000.
+- [ ] EN first-battle-of-the-marne: "d'Espèrey".
+- [ ] Place names: Bikschote/Bixschoote, Passendale/Passchendaele, Geluveld/Gheluvelt.
+- [ ] bitwa-pod-lowczowkiem: "Po bitwie pod Marcinkowicami 12–13 grudnia" reads as battle on 12–13 XII; limanowa: 5–6 XII, Nowy Sącz 12 XII.
+- [ ] EN "d'Espèrey" in armistice-of-salonica, Dobro Pole battle page.
+- [ ] zgromadzenie-w-alba-iulia: PL "Vaida-Voievod" vs EN "Vaida-Voevod".
+- [ ] poczatek-bitwy-pod-kortrijk: PL "półtora kilometra" vs EN "a mile and a half".
+- [ ] EN Canal du Nord battle page: leftover sentence about the name in "Polish literature".
+- [ ] rozejm-w-compiegne: "balcony of the Reichstag" vs rewolucja-w-berlinie: first-floor window.
+- [ ] Kemmel hand-over: 19 IV (bitwa-o-scherpenberg) vs 18–21 IV (bitwa-nad-lys-1918).
+
+---
+
+## 13. Article layout: sidebar and coffee buttons (2026-10-28)
+
+Ported from thesecondwar.pl (commits "sidebars on article, battle and person
+pages" and "more ways to buy us a coffee"): the text on the left, the
+sidebar on the right.
+
+- Event pages (`[id].astro`, `en/[slug].astro`): on wide screens (lg+) a grid
+  `42rem | 1fr`, so the text keeps its reading width and the sidebar takes
+  the rest of the row; both line up with the header's edges.
+  The back link, title, header image and facts row span the full width
+  above the grid; the sidebar starts at the first paragraph (`pt-10`). `ArticleSidebar.astro` holds the
+  date (large day, month and year, weekday) with previous/next, "W skrócie",
+  the people linked in the text (initial and life years; no portraits on this
+  site yet), the battle with its locator map, and a support card that stays
+  in view (`sticky top-24`) while the text scrolls. On smaller screens the
+  sidebar is hidden and the text column shows "W skrócie", the floating
+  coffee button and a `SupportCard.astro` after the sources instead.
+- Coffee button in the header on every page (round, accent colour, same as
+  thesecondwar.pl). `SITE.support` is the one support link; `CoffeeIcon.astro`
+  is shared by the header, `CoffeeButton`, `SupportCard` and the sidebar.
+- `BattleLocator.astro`: `full` fills the sidebar's width.
+- Header and footer widened to `max-w-6xl` to match the article grid. Other
+  pages keep their `max-w-3xl` content for now.
+- Not ported yet: battle and person sidebars, places and series in the sidebar
+  (this site has neither yet), portraits.
+
+**Port back to thesecondwar.pl:** none.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -943,6 +1088,10 @@ finished, tick it here and add its section above.
   play) and a locator map on every battle page (§9)
 - [x] Battle timeline (Gantt chart) per front, with sub-battles under their
   parent operation (§8)
+- [x] "W skrócie / In brief" boxes on all 423 milestones, PL and EN (§12)
+- [x] Event pages: sidebar (date, "W skrócie", people, battle, a support
+  card that stays in view); coffee button in the header (§13)
+- [ ] Battle and person pages: sidebars like the event pages
 - [ ] Public-domain images from Wikimedia Commons, with captions and credits.
 
 ### 5. Template leftovers and code health
@@ -963,6 +1112,8 @@ finished, tick it here and add its section above.
 - [x] Remove `plq.json` (a leftover Wikipedia API response, never tracked).
 
 ### 6. Content quality
+- [ ] Go through the 82 inconsistencies found by the "In brief" writers
+  (§12 review list).
 - [ ] One review list of the ~115 open fact-check items (sources disagree, or
   the claim is defensible) left by the 1918 fact-checks. Decide on each, or
   add a "sources differ" note.

@@ -1,6 +1,7 @@
 ---
 import ThemeToggle from '@/components/ThemeToggle.astro';
 import LangSwitch from '@/components/LangSwitch.astro';
+import CoffeeIcon from '@/components/CoffeeIcon.astro';
 import { SITE, NAV_LINKS, NAV_LINKS_EN } from '@/site.config';
 import type { Alternates, Lang } from '@/i18n';
 
@@ -28,12 +29,12 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
 ---
 
 <header class="border-line bg-paper/90 sticky top-0 z-40 border-b backdrop-blur">
-  <div class="mx-auto flex max-w-3xl items-center justify-between gap-4 px-6 py-4">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-4">
     <a href={homeHref} class="font-display text-ink text-lg font-medium">
       {SITE.name}
     </a>
 
-    <div class="flex items-center gap-5">
+    <div class="flex items-center gap-3 sm:gap-5">
       {/* Desktop: links inline */}
       <nav class="hidden items-center gap-5 sm:flex" aria-label="Primary">
         {
@@ -52,6 +53,16 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
         }
       </nav>
 
+      <a
+        href={SITE.support}
+        target="_blank"
+        rel="noopener noreferrer"
+        title={lang === 'en' ? 'Buy us a coffee' : 'Kup nam kawę'}
+        aria-label={lang === 'en' ? 'Buy us a coffee' : 'Kup nam kawę'}
+        class="bg-signal hover:bg-ink hover:text-paper flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-white transition-colors"
+      >
+        <CoffeeIcon class="h-4 w-4" />
+      </a>
       <LangSwitch lang={lang} alternates={alternates} />
       <ThemeToggle />
 
@@ -104,7 +115,7 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
   >
     <nav aria-label="Primary" class="overflow-hidden">
       <ul
-        class="border-line bg-paper mx-auto max-w-3xl -translate-y-2 border-t px-6 py-2 opacity-0 transition duration-300 ease-out group-data-[open=true]:translate-y-0 group-data-[open=true]:opacity-100 motion-reduce:transition-none"
+        class="border-line bg-paper mx-auto max-w-6xl -translate-y-2 border-t px-6 py-2 opacity-0 transition duration-300 ease-out group-data-[open=true]:translate-y-0 group-data-[open=true]:opacity-100 motion-reduce:transition-none"
       >
         {
           links.map((link) => (

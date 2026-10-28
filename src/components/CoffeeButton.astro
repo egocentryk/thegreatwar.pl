@@ -1,40 +1,21 @@
 ---
 import Button from "@/components/Button.astro"
+import CoffeeIcon from "@/components/CoffeeIcon.astro"
 import type { Lang } from "@/i18n"
+import { SITE } from "@/site.config"
 
 interface Props {
   lang?: Lang
+  class?: string
 }
 
-const { lang = "pl" } = Astro.props
+const { lang = "pl", class: className } = Astro.props
 ---
 
 <!-- Floats right inside a prose block so the text wraps around it. -->
-<div class="not-prose float-right mb-2 ml-4 sm:mb-3 sm:ml-6 print:hidden">
-  <Button
-    href="https://buymeacoffee.com/thegreatwar"
-    variant="accent"
-    size="responsive"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <svg
-      class="size-3.5 sm:size-4"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      aria-hidden="true"
-    >
-      <path d="M10 2v2"></path>
-      <path d="M14 2v2"></path>
-      <path d="M6 2v2"></path>
-      <path
-        d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"
-      ></path>
-    </svg>
+<div class:list={["not-prose float-right mb-2 ml-4 sm:mb-3 sm:ml-6 print:hidden", className]}>
+  <Button href={SITE.support} variant="accent" size="responsive" target="_blank" rel="noopener noreferrer">
+    <CoffeeIcon class="size-3.5 sm:size-4" />
     {lang === "en" ? "Buy us a coffee" : "Kup nam kawę"}
   </Button>
 </div>

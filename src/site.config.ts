@@ -4,6 +4,8 @@ export const SITE = {
   name: "TheGreatWar.pl",
   role: "Product design & frontend engineering",
   email: "timelineof@thegreatwar.pl",
+  // The only way to support the site (CoffeeButton, SupportCard, header).
+  support: "https://buymeacoffee.com/thegreatwar",
   tagline:
     "Wielka Wojna zapisana przez daty, wydarzenia, rozkazy i polityczne decyzje.",
   description:

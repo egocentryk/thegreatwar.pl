@@ -9,9 +9,12 @@ import { Image } from "astro:assets"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import Button from "@/components/Button.astro"
+import ArticleSidebar from "@/components/ArticleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import InBrief from "@/components/InBrief.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
 import { compareTimelineEntries } from "@/utils/groupTimelineEntries"
@@ -119,7 +122,7 @@ const ogArticle = {
   alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
-    <div class="mx-auto max-w-3xl px-6">
+    <div class="mx-auto max-w-6xl px-6">
       <a
         href="/timeline"
         class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
@@ -144,27 +147,25 @@ const ogArticle = {
       >
         {title}
       </h1>
-    </div>
 
     {
       headerImageAsset && (
-        <div class="mx-auto mt-8 max-w-5xl overflow-hidden rounded-sm">
+        <div class="mt-8 overflow-hidden rounded-sm">
           <Image
             src={headerImageAsset}
             alt={title}
             class="h-auto w-full object-cover"
-            sizes="(min-width: 1024px) 1024px, 100vw"
+            sizes="(min-width: 1024px) 672px, 100vw"
           />
         </div>
       )
     }
 
-    <div class="mx-auto max-w-3xl px-6">
       <dl
         class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs"
       >
         <div>
-          <dt class="inline">Kategoria:</dt><dd class="inline">
+          <dt class="inline">Kategoria: </dt><dd class="inline">
             <a
               href={`/kategoria/${slugify(category)}`}
               class="text-ink hover:text-signal transition-colors"
@@ -184,7 +185,7 @@ const ogArticle = {
           )
         }
         <div>
-          <dt class="inline">Data:</dt><dd class="inline">{formattedDate}</dd>
+          <dt class="inline">Data: </dt><dd class="inline">{formattedDate}</dd>
         </div>
         <div>
           <dt class="inline">{authors.length > 1 ? "Autorzy: " : "Autor: "}</dt>
@@ -241,71 +242,96 @@ const ogArticle = {
         }
       </dl>
 
-      <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
-        <CoffeeButton />
-        <Content />
-      </div>
+        {/* Text on the left; on wide screens the right column holds the date,
+            "W skrócie", people, the battle and a support card that stays in
+            view, so the same blocks in the text column show only on smaller
+            screens. */}
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <div class="lg:hidden">
+            <InBrief points={entry.data.brief} />
+          </div>
 
-      <Sources sources={entry.data.sources} />
-      <ReportError title={title} />
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+            <CoffeeButton class="lg:hidden" />
+            <Content />
+          </div>
 
-      <RelatedEvents id={entry.id} />
+          <Sources sources={entry.data.sources} />
+          <ReportError title={title} />
+          <div class="lg:hidden">
+            <SupportCard />
+          </div>
 
-      {
-        (previous || next) && (
-          <nav
-            aria-label="Sąsiednie wydarzenia"
-            class="border-line mt-12 grid gap-4 border-t pt-6 sm:grid-cols-2"
-          >
-            {previous ? (
-              <a
-                href={`/${previous.id}`}
-                rel="prev"
-                class="group border-line hover:border-signal block rounded-sm border p-4 transition-colors"
+          <RelatedEvents id={entry.id} />
+
+          {
+            (previous || next) && (
+              <nav
+                aria-label="Sąsiednie wydarzenia"
+                class="border-line mt-12 grid gap-4 border-t pt-6 sm:grid-cols-2"
               >
-                <span class="text-ink-soft block font-mono text-[11px]">
-                  ← Poprzednie wydarzenie · {formatDate(previous.data.date)}
-                </span>
-                <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg transition-colors">
-                  {previous.data.title}
-                </span>
-              </a>
-            ) : (
-              <span class="hidden sm:block" />
-            )}
-            {next && (
-              <a
-                href={`/${next.id}`}
-                rel="next"
-                class="group border-line hover:border-signal block rounded-sm border p-4 text-right transition-colors"
-              >
-                <span class="text-ink-soft block font-mono text-[11px]">
-                  {formatDate(next.data.date)} · Następne wydarzenie →
-                </span>
-                <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg transition-colors">
-                  {next.data.title}
-                </span>
-              </a>
-            )}
-          </nav>
-        )
-      }
+                {previous ? (
+                  <a
+                    href={`/${previous.id}`}
+                    rel="prev"
+                    class="group border-line hover:border-signal block rounded-sm border p-4 transition-colors"
+                  >
+                    <span class="text-ink-soft block font-mono text-[11px]">
+                      ← Poprzednie wydarzenie · {formatDate(previous.data.date)}
+                    </span>
+                    <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg transition-colors">
+                      {previous.data.title}
+                    </span>
+                  </a>
+                ) : (
+                  <span class="hidden sm:block" />
+                )}
+                {next && (
+                  <a
+                    href={`/${next.id}`}
+                    rel="next"
+                    class="group border-line hover:border-signal block rounded-sm border p-4 text-right transition-colors"
+                  >
+                    <span class="text-ink-soft block font-mono text-[11px]">
+                      {formatDate(next.data.date)} · Następne wydarzenie →
+                    </span>
+                    <span class="font-display text-ink group-hover:text-signal mt-1 block text-lg transition-colors">
+                      {next.data.title}
+                    </span>
+                  </a>
+                )}
+              </nav>
+            )
+          }
 
-      <div class="mt-10 flex flex-wrap gap-3">
-        {
-          url && (
-            <Button href={url} variant="solid">
-              Visit live →
-            </Button>
-          )
-        }
-        {
-          repo && (
-            <Button href={repo} variant="ghost">
-              View source
-            </Button>
-          )
-        }
+          <div class="mt-10 flex flex-wrap gap-3">
+            {
+              url && (
+                <Button href={url} variant="solid">
+                  Visit live →
+                </Button>
+              )
+            }
+            {
+              repo && (
+                <Button href={repo} variant="ghost">
+                  View source
+                </Button>
+              )
+            }
+          </div>
+        </div>
+
+        <ArticleSidebar
+          class="pt-10"
+          date={date}
+          body={entry.body ?? ""}
+          battleId={battle?.id}
+          brief={entry.data.brief}
+          previous={previous && { href: `/${previous.id}`, title: previous.data.title, date: previous.data.date }}
+          next={next && { href: `/${next.id}`, title: next.data.title, date: next.data.date }}
+        />
       </div>
     </div>
   </article>
