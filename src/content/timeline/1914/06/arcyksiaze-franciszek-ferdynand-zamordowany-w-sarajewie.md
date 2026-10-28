@@ -7,7 +7,6 @@ authors: [Łukasz Skowroń]
 tags: [zamach w Sarajewie, Franciszek Ferdynand, Austro-Węgry, Serbia]
 milestone: true
 draft: false
-headerImage: "assassination-archduke-franz-ferdinand.jpg"
 brief:
   - "28 czerwca 1914 roku w Sarajewie Gavrilo Princip, dziewiętnastoletni bośniacki Serb związany z Młodą Bośnią, zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię."
   - "Tłem zamachu była aneksja Bośni i Hercegowiny przez Austro-Węgry w 1908 roku. Zamachowcy dostali broń od ludzi związanych z serbskim wywiadem i Czarną Ręką, ale udział całego rządu Serbii jest słabiej udokumentowany."

@@ -2,7 +2,7 @@
 title: Archduke Franz Ferdinand assassinated in Sarajevo
 summary: On 28 June 1914 Gavrilo Princip shot Archduke Franz Ferdinand and his wife Sophie, setting off the July Crisis.
 source: arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie
-sourceHash: 0c36162d24992ae8ae9f7f2d784ae53216af9de2
+sourceHash: 3075a5c880a8d46e81d32425298cd93ae3fb5318
 brief:
   - "On 28 June 1914 in Sarajevo, Gavrilo Princip, a nineteen-year-old Bosnian Serb linked to Young Bosnia, shot Archduke Franz Ferdinand and his wife Sophie."
   - "The background was Austria-Hungary's annexation of Bosnia and Herzegovina in 1908. The assassins got weapons from people linked to Serbian intelligence and the Black Hand; approval by the whole Serbian government is far less documented."
