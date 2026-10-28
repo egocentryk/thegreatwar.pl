@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Pest, now Budapest (Hungary)
 deathPlace: Budapest
 source: istvan-tisza
-sourceHash: 3297cc4c6168393c1c57e1c90d8e19ad9a3418ba
+sourceHash: 84067700e5334011373358d466ff76871475da45
 ---
 
 Count István Tisza was the strongest politician in the Hungarian half of the Habsburg monarchy and the only one of its leaders who in July 1914 opposed war with Serbia for almost two weeks. Once he gave way, however, he waged it with iron consistency as Prime Minister of Hungary until 1917, and then, out of office, as leader of the majority in the Budapest parliament. He defended dualism, that is, Hungary's equal standing with Austria, the rule of the Hungarian nobility over the Kingdom's nationalities and a narrow franchise, and so for the Slovaks, Romanians, Serbs and the Hungarian left he became a symbol of the old order and of the war. He was killed by soldiers on the first day of the Hungarian revolution, 31 October 1918.

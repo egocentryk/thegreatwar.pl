@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Košariská (Slovakia)
 deathPlace: Ivanka pri Dunaji (Slovakia)
 source: milan-rastislav-stefanik
-sourceHash: 88b499a5b4d12b0d73df1e0cae63dd4d88fb159f
+sourceHash: c9f2e0a5be5cfad42c546c0ab290aadff06a63ae
 ---
 
 Milan Rastislav Štefánik was the third founding father of Czechoslovakia, alongside [Tomáš Masaryk](/postacie/tomas-masaryk) and [Edvard Beneš](/postacie/edvard-benes), and the only Slovak among them. The son of a village pastor from Upper Hungary, he made a career in France as an astronomer, and during the war became an airman and a general of the French army. His connections in the Paris salons opened the way for Masaryk to the French government, and his journeys to Russia, Romania, America and Italy gave the Czechoslovak movement what it needed most: soldiers. He was killed in an air crash in May 1919, while flying to his homeland for the first time since the war. Slovaks regard him as their greatest national hero.

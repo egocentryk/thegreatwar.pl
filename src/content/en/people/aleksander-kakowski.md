@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Dębiny near Przasnysz (Russian Empire)
 deathPlace: Warsaw
 source: aleksander-kakowski
-sourceHash: 69ef884c3ec50334f532e98fb99e6344c21df679
+sourceHash: 7442d3cd3890fb2516bb8e55ab0fd88de3b8ff51
 ---
 
 During the Great War Aleksander Kakowski was the most important churchman in the Kingdom of Poland and one of the three regents who in 1917–1918 exercised the highest Polish authority in Warsaw. He became Archbishop of Warsaw in 1913 with the consent of the Tsarist government and for the first year of the war stood loyally by Russia. When the Germans took Warsaw in 1915, he stayed in the city and throughout the three years of occupation was one of the few undisputed authorities for the Poles. In 1917, reluctantly and after long hesitation, he joined the Regency Council set up by Berlin and Vienna. A year later that same council proclaimed Poland's independence, and in November 1918 it handed power to [Józef Piłsudski](/postacie/jozef-pilsudski). Kakowski remained archbishop, and in 1919 he was made a cardinal.

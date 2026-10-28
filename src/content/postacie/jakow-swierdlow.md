@@ -10,6 +10,11 @@ birthPlace: Niżny Nowogród (Imperium Rosyjskie)
 deathPlace: Moskwa
 aliases: [Jakow Swierdłow]
 wikiTitles: [Jakow_Swierdłow]
+photo:
+  src: ../../assets/postacie/jakow-swierdlow.jpg
+  credit: Пётр Адольфович Оцуп (1883-1963)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2_%D0%AF%D0%BA%D0%BE%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87.jpg
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
 sources:

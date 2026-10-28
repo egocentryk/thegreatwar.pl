@@ -10,6 +10,11 @@ birthPlace: Jelizawetgrad (dziś Kropywnycki, Ukraina)
 deathPlace: Mougins (Francja)
 aliases: [Wołodymyr Wynnyczenko]
 wikiTitles: [Wołodymyr_Wynnyczenko]
+photo:
+  src: ../../assets/postacie/wolodymyr-wynnyczenko.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Vynnychenko.jpg
 authors: [Natalia]
 tags: [Ukraina, Rosja, rewolucja październikowa, inicjatywy pokojowe]
 sources:

@@ -6,7 +6,7 @@ country: Union of South Africa
 birthPlace: Bovenplaats near Riebeek West (Cape Colony)
 deathPlace: Irene near Pretoria
 source: jan-smuts
-sourceHash: 1f13bdd470f12f09c2db50d827f0a8d0a8f6dbc2
+sourceHash: ecbe0ff5bff141f9de6d5224b7691df4ea5329b4
 ---
 
 Few men played such varied roles in the Great War as Jan Christiaan Smuts: he commanded an army of the British Empire in Africa and then sat in its government in London. A dozen or so years earlier, as a Boer general, he had fought against the British. In 1914, as defence minister of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki), he helped [Louis Botha](/postacie/louis-botha) put down the Boer rebellion and planned the invasion of a German colony. In 1916 he led a great offensive in German East Africa and occupied most of the colony, but failed to destroy the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). From 1917 he was in London as one of the closest advisers of [David Lloyd George](/postacie/david-lloyd-george): he wrote the report from which the Royal Air Force grew, conducted secret peace talks with the Austrians, and in 1919 was among the founders of the League of Nations. To some he was a visionary and a statesman on an imperial scale; to others a politician who spoke of peace and a commonwealth of nations while entrenching the rule of the white minority at home.

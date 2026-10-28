@@ -10,6 +10,11 @@ birthPlace: Seitenstetten (Austria)
 deathPlace: Salzburg
 aliases: [Heinrich Lammasch]
 wikiTitles: [Heinrich_Lammasch]
+photo:
+  src: ../../assets/postacie/heinrich-lammasch.jpg
+  credit: Isidor Harkányi
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Lammasch.jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Karol I Habsburg, inicjatywy pokojowe, polityka wewnętrzna]
 sources:

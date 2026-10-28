@@ -10,6 +10,11 @@ birthPlace: Stapeley koło Nantwich (Anglia)
 deathPlace: Londyn
 aliases: [David Beatty]
 wikiTitles: [David_Beatty]
+photo:
+  src: ../../assets/postacie/david-beatty.jpg
+  credit: Speaight Ltd
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Rear_Admiral_David_Beatty_pre-1915.jpg
 authors: [Natalia]
 tags: [David Beatty, Royal Navy, Grand Fleet, Morze Północne]
 sources:

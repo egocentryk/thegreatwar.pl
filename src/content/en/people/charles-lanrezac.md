@@ -6,7 +6,7 @@ country: France
 birthPlace: Pointe-à-Pitre (Guadeloupe)
 deathPlace: Neuilly-sur-Seine
 source: charles-lanrezac
-sourceHash: 8f11b10cf463fc125fb80bd4e8b03904bdf45494
+sourceHash: 5562e7cd45acb60fdb5773b54fb6a4c8594c42ce
 ---
 
 Charles Lanrezac commanded the French Fifth Army for less than five weeks, from mobilisation until 3 September 1914, but those weeks were enough to make him one of the most controversial figures of the opening of the war. His army stood on the left wing of the French forces, where the German right wing was advancing through Belgium. Lanrezac understood earlier than the high command where the main blow was coming from, and his retreat from Charleroi saved the Fifth Army from encirclement. At Guise he carried out the only major French counter-attack of the Great Retreat. Even so, just before the Battle of the Marne the commander-in-chief took his command from him. To some he was a victim who had saved France, to others a tired and quarrelsome general who could work neither with his superiors nor with the British.

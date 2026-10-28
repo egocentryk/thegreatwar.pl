@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Salonica (Ottoman Empire)
 deathPlace: Istanbul (Turkey)
 source: mustafa-kemal
-sourceHash: 0b940fd6ba85b1043763024c22c737d6e2dc9737
+sourceHash: 3ef09c8b577042f71c9c0c7cd426a4b8bf22e655
 ---
 
 Mustafa Kemal, known from 1934 as Atatürk, entered the Great War as a little-known lieutenant-colonel, military attaché in Sofia, and came out of it as one of the most highly regarded generals of the Ottoman army. On 25 April 1915, on his own initiative, he threw his division into a counter-attack against the Australians and New Zealanders landing at Gallipoli, and in August he retook the Sari Bair ridge and stopped the British at Suvla. In the following years he commanded a corps in the Caucasus, where he recaptured Muş and Bitlis, and then an army in Palestine and Syria. He was a critic of Enver Pasha and of the German advisers, and was not afraid to tell his superiors that the war was lost. After the defeat he placed himself at the head of the Turkish national movement, won the war for the borders of the new Turkey and proclaimed the republic, of which he was the first president.

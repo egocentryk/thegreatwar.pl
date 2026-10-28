@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Knowsley Hall (Lancashire)
 source: lord-derby
-sourceHash: 0822ad876802b8e5bd0eef8aea52f13a46ecc9ac
+sourceHash: 3ed5f93b52ec64e2f5f744c5d46fc3e7a8549b8e
 ---
 
 Edward George Villiers Stanley, 17th Earl of Derby, was one of the richest men in England and the most influential aristocrat of its industrial north, known as the "uncrowned king of Lancashire". During the Great War he made his mark in two roles. In 1915, as Director-General of Recruiting, he gave the British voluntary system a last chance in the scheme named after him. From December 1916 to April 1918 he was Secretary of State for War in the government of [David Lloyd George](/postacie/david-lloyd-george) and stood between the prime minister and the generals the prime minister wanted to be rid of. This second role was judged harshly: he defended Field Marshal [Douglas Haig](/postacie/douglas-haig) and General William Robertson but was unable to protect them, and Haig himself compared him to a feather pillow.

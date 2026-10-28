@@ -10,6 +10,11 @@ birthPlace: Bielkenfeld (Prusy Wschodnie)
 deathPlace: Bagdad (Imperium Osmańskie)
 aliases: [Colmar von der Goltz]
 wikiTitles: [Colmar_von_der_Goltz]
+photo:
+  src: ../../assets/postacie/colmar-von-der-goltz.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Goltz-portrait.jpg
 authors: [Natalia]
 tags: [Niemcy, Imperium Osmańskie, okupacja niemiecka, Persja]
 sources:

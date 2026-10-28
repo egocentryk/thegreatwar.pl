@@ -10,6 +10,11 @@ birthPlace: Münster (Prusy)
 deathPlace: Berlin
 aliases: [Alexander von Kluck]
 wikiTitles: [Alexander_von_Kluck]
+photo:
+  src: ../../assets/postacie/alexander-von-kluck.jpg
+  credit: autor nieznany
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bildnis_Alexander_von_Kluck.png
 authors: [Natalia]
 tags: [Alexander von Kluck, Niemcy, Francja, Brytyjski Korpus Ekspedycyjny]
 sources:

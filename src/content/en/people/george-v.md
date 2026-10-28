@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Sandringham (England)
 source: jerzy-v
-sourceHash: dc7a7ebdde2fa708275fadf907ea35deb0dda70d
+sourceHash: 16cda5d466688439a63c6c0d88face9578f4da34
 ---
 
 George V was a constitutional monarch who did not take the decisions on war and peace, but for four years he was the war's most visible symbol throughout the British Empire. He visited troops, hospitals, factories and shipyards hundreds of times, handed out thousands of decorations and, as an example, gave up alcohol. He was a cousin of two emperors: the enemy, [Wilhelm II](/postacie/wilhelm-ii), and the ally, [Nicholas II](/postacie/mikolaj-ii). Behind the scenes he corresponded with generals and had a hand in the removal of Field Marshal [John French](/postacie/john-french), and in 1917, under the pressure of anti-German feeling, he changed the name of his dynasty to Windsor and prevented the deposed Tsar from coming to England.

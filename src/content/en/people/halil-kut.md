@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Constantinople (Ottoman Empire)
 deathPlace: Istanbul (Turkey)
 source: halil-kut
-sourceHash: d6b038028ebc02a4aa5ab75c2154195c72adf4cc
+sourceHash: 4bd3d15a40b47bd4484f976e7071c634503776fe
 ---
 
 Halil, during the Great War first Halil Bey, then Halil Pasha, and from 1934 Halil Kut, was one of the "political soldiers" of the Committee of Union and Progress who, thanks to the Young Turk Revolution and their kinship with the powerful, rose quickly to the highest posts. He was the younger brother of the father of the minister of war [Enver Pasha](/postacie/enver-pasza), although he was a year younger than his nephew. He went down in history as the victor of Kut, where in April 1916 he accepted the surrender of more than 13,000 British and Indian soldiers of General Charles Townshend. A year later he lost Baghdad to the British, and in 1918 he commanded the troops that took Baku. Historians also count him among the perpetrators of the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), something he himself did not conceal in his memoirs.

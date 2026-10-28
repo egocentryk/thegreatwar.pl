@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Breslau (Prussia)
 deathPlace: Kiev
 source: hermann-von-eichhorn
-sourceHash: 33168eb16c37dfdeb1feddb200570e346356d318
+sourceHash: cbbcffaf403e25e4b5b52ae006418817c60ec299
 ---
 
 Hermann von Eichhorn was one of the oldest German army commanders of the First World War and one of the least talked about, although for three years he led one of the most effective armies on the Eastern Front. His 10th Army was the northern arm of the pincers in the [Second Battle of the Masurian Lakes](/bitwy/zimowa-bitwa-na-mazurach), in 1915 it took Kovno and Vilna, and in 1916 at Lake Naroch it repulsed the first great Russian offensive after the Great Retreat. From the summer of 1916 Eichhorn commanded an army group in Lithuania and Courland whose troops took Riga and the Estonian islands and in the spring of 1918 occupied Livonia and Estonia. His last task was command of the troops occupying Ukraine. In that post his name became linked with the overthrow of the Central Rada and the rule of the Hetman, and on 30 July 1918 he was killed in Kiev by a bomb thrown by a Left Socialist Revolutionary.

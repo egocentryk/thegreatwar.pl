@@ -6,7 +6,7 @@ country: Ukraine
 birthPlace: Poltava (Ukraine)
 deathPlace: Paris
 source: symon-petlura
-sourceHash: fdd44dfb9155eadb05c156f3d5cc959cac44d918
+sourceHash: 2e3fa6288c99b07faa2e81d4f167ef326dd96b8d
 ---
 
 Symon Petliura was a journalist who within a few revolutionary months became a military leader. Until 1917 he had never worn a uniform, and he spent the war as an official of the zemstvo organisations behind the Russian front. After the fall of tsarism he headed the Ukrainian military movement, organised the first units of the [Ukrainian People's Republic](/ukrainska-republika-ludowa) and defended Kyiv against the Bolsheviks. In November 1918, when the Central Powers had lost the war, he led the uprising against Hetman Skoropadskyi and as Chief Otaman restored the republic. He was never an ally of the Central Powers: he fought the Bolsheviks, opposed the German occupation, and after the war sought support from the victorious Allies and from Poland. In 1920 he concluded an alliance with Józef Piłsudski. For Ukrainians he is a symbol of the struggle for independence; for many Jews, a symbol of the pogroms that were committed in 1919–1920 by, among others, his troops.

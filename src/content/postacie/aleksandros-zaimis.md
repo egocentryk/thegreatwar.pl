@@ -10,6 +10,11 @@ birthPlace: Ateny
 deathPlace: Wiedeń
 aliases: [Aleksandros Zaimis]
 wikiTitles: [Aleksandros_Zaimis]
+photo:
+  src: ../../assets/postacie/aleksandros-zaimis.jpg
+  credit: George Grantham Bain Collection (Library of Congress)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alexandros_Zaimis_02.jpg
 authors: [Łukasz Skowroń]
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos, neutralność]
 sources:

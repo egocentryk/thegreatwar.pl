@@ -10,6 +10,11 @@ birthPlace: Saint-Omer (Francja)
 deathPlace: Paryż
 aliases: [Alexandre Ribot]
 wikiTitles: [Alexandre_Ribot]
+photo:
+  src: ../../assets/postacie/alexandre-ribot.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alexandre_Ribot,_French_Prime_minister.jpg
 authors: [Łukasz Skowroń]
 tags: [Francja, Aristide Briand, Robert Nivelle]
 sources:

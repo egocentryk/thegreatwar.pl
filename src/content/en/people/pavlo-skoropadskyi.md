@@ -6,7 +6,7 @@ country: Ukraine
 birthPlace: Wiesbaden (Germany)
 deathPlace: Metten (Germany)
 source: pawlo-skoropadski
-sourceHash: 8c3828c590d8541fd5802539de979febbb5fd0b8
+sourceHash: 5ca8a108b4fd0885a36b111236469b34d0a36107
 ---
 
 Pavlo Skoropadskyi was one of the most extraordinary figures of the Eastern Front. An aristocrat from a family of the Cossack elite, a Guards officer and an aide-de-camp to the Tsar, he commanded Russian cavalry against the Germans for three years of the war, and in 1918, with their help, became Hetman of Ukraine. He was not formally an ally of the Central Powers, but his power rested from the first day to the last on the German and Austro-Hungarian troops who had come to Ukraine for the grain promised at Brest. For seven and a half months he built a state in Kyiv with its own administration, schools and academy of sciences, while at the same time restoring estates to the landowners and watching the occupiers carry off food. When Germany lost the war, his Ukrainian State collapsed within a month. The Ukrainian left regarded him as Berlin's puppet, the monarchists as the founder of the first effective Ukrainian state. Historians still weigh these two verdicts today.

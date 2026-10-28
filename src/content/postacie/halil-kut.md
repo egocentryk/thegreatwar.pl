@@ -11,6 +11,11 @@ birthPlace: Konstantynopol (Imperium Osmańskie)
 deathPlace: Stambuł (Turcja)
 aliases: [Halil Kut, Halil Pasza, Halil Bej]
 wikiTitles: [Halil_Kut]
+photo:
+  src: ../../assets/postacie/halil-kut.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Halil_Kut.png
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Enver Pasza, Indie Brytyjskie, ludobójstwo Ormian]
 sources:

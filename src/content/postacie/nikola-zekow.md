@@ -10,6 +10,11 @@ birthPlace: Sliwen (Imperium Osmańskie, dziś Bułgaria)
 deathPlace: Füssen (Niemcy)
 aliases: [Nikoła Żekow]
 wikiTitles: [Nikoła_Żekow]
+photo:
+  src: ../../assets/postacie/nikola-zekow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:BASA-237K-1-343-7-Nikola_Zhekov.jpg
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, Serbia, Grecja, Niemcy]
 sources:

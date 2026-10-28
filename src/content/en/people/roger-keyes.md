@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Tundiani, Punjab (British India)
 deathPlace: Tingewick (England)
 source: roger-keyes
-sourceHash: 9212070ff847b5f30cf5976abdd15508c2daa424
+sourceHash: 39143a14bafa41502a88969270dc2be1464cb091
 ---
 
 Sir Roger Keyes was the most pugnacious of the British admirals of the First World War. He was always looking for a fight, always proposing the bolder course, and could not bear waiting. In August 1914 he helped devise the plan for the Royal Navy's first victory, [in the Heligoland Bight](/bitwy/bitwa-w-zatoce-helgolandzkiej); in 1915, as chief of staff of the fleet at the Dardanelles, he argued to the end that the ships could force the straits; and in 1918, as commander of the Dover Patrol, he led the [Zeebrugge Raid](/rajd-na-zeebrugge), the most famous action of the British navy in this war. To his contemporaries he was a hero in the spirit of Nelson. Historians value his courage and energy, but point out that his plans often promised more than they could deliver.

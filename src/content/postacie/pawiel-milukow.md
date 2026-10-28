@@ -10,6 +10,11 @@ birthPlace: Moskwa (Imperium Rosyjskie)
 deathPlace: Aix-les-Bains (Francja)
 aliases: [Pawieł Milukow]
 wikiTitles: [Pawieł_Milukow]
+photo:
+  src: ../../assets/postacie/pawiel-milukow.jpg
+  credit: Фотография ателье Буллы
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Pavel_Milyukov.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
 sources:

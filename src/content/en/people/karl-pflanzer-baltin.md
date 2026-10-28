@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Pécs (Hungary)
 deathPlace: Vienna
 source: karl-pflanzer-baltin
-sourceHash: a2f19eca9387703df807a99a6745b69b5ec10965
+sourceHash: 6df4e8cd58f527470008d25cd937912e375b0c83
 ---
 
 In June 1914 Karl Pflanzer-Baltin asked to be retired. He was 59, in poor health, and his career seemed to be over. The war made him one of the best-known generals of the monarchy. In autumn 1914 he formed a group out of hastily assembled units that defended the Eastern Carpathians against the Russians, and in winter 1915 it retook Bukovina with Czernowitz. As commander of the Seventh Army he held the southernmost sector of the Eastern Front for a year and a half, until in June 1916 his army collapsed under the blows of the Brusilov Offensive. Removed under German pressure, he returned in 1918 to lead the last victorious attack of the Austro-Hungarian army in Albania.

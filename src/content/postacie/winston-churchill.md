@@ -10,6 +10,11 @@ birthPlace: Pałac Blenheim, Woodstock (Anglia)
 deathPlace: Londyn
 aliases: [Winston Churchill]
 wikiTitles: [Winston_Churchill]
+photo:
+  src: ../../assets/postacie/winston-churchill.jpg
+  credit: "Flickr: Sir Winston Churchill"
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948.jpg
 authors: [Łukasz Skowroń]
 tags: [Winston Churchill, Wielka Brytania, Royal Navy, Dardanele]
 sources:

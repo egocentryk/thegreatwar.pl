@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Edinburgh (Scotland)
 deathPlace: Dublin (Kilmainham Gaol)
 source: james-connolly
-sourceHash: 564ba74fa4ca385c4fd2fc147c9b81e49b44aaa2
+sourceHash: be773c01f7de0597b2fd7884583701ab1fb6235c
 ---
 
 James Connolly was the only prominent Marxist among the leaders of the [Easter Rising](/wybuch-powstania-wielkanocnego), and at the same time the commander of his own, if small, workers' militia. The son of Irish emigrants from a working-class district of Edinburgh, self-taught, a journalist and trade union organiser in Scotland, Ireland and the United States, from the first days of the war he urged the Irish to exploit Britain's commitment on the Continent to fight for independence. In January 1916 he joined the conspirators of the Irish Republican Brotherhood, signed the Proclamation of the Irish Republic and during the rising commanded all the rebel forces in Dublin. Badly wounded, he was shot last of the leaders, tied to a chair, which provoked outrage even among opponents of the rising.

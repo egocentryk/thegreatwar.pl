@@ -10,6 +10,11 @@ birthPlace: Hirai w prowincji Suō (dziś Yamaguchi, Japonia)
 deathPlace: Tokio
 aliases: [Masatake Terauchi]
 wikiTitles: [Masatake_Terauchi]
+photo:
+  src: ../../assets/postacie/masatake-terauchi.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Masatake_Terauchi_2.jpg
 authors: [Łukasz Skowroń]
 tags: [Japonia, Chiny, Rosja]
 sources:

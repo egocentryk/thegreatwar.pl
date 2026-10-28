@@ -10,6 +10,11 @@ birthPlace: Jurczyce pod Krakowem (Austro-Węgry)
 deathPlace: Londyn
 aliases: [Józef Haller]
 wikiTitles: [Józef_Haller]
+photo:
+  src: ../../assets/postacie/jozef-haller.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Jozef_Haller.jpg
 authors: [Łukasz Skowroń]
 tags: [Polska, Legiony Polskie, Francja, Roman Dmowski]
 sources:

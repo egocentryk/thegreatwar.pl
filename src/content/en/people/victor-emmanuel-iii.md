@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Naples (Italy)
 deathPlace: Alexandria (Egypt)
 source: wiktor-emanuel-iii
-sourceHash: 654eb60f269f3143b0e42deddd828dbbab9db1fb
+sourceHash: df3229887a7b717d370503fbf42f3e6fbeaf176e
 ---
 
 Victor Emmanuel III was King of Italy for almost half a century, but the war of 1915–1918 was the only period in which he enjoyed the sincere esteem of most of his subjects. In May 1915 it was his decision that settled Italy's entry into the war on the side of the Entente, although the majority of parliament preferred neutrality. Under the constitution he was supreme commander, but he handed the direction of operations to the chief of staff, General [Luigi Cadorna](/postacie/luigi-cadorna), while he himself lived near the front for three and a half years, touring the trenches, hospitals and rear areas every day. The press called him the "soldier king" (re soldato). At the hardest moment, after the defeat at Caporetto, he struck the Allies as a calm man, certain that the army would hold. The memory of this was later overshadowed by his role in the fascists' rise to power, which the Italians did not forgive the dynasty.

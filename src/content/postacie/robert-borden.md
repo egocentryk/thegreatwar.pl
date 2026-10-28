@@ -10,6 +10,11 @@ birthPlace: Grand-Pré (Nowa Szkocja)
 deathPlace: Ottawa
 aliases: [Robert Borden]
 wikiTitles: [Robert_Borden]
+photo:
+  src: ../../assets/postacie/robert-borden.jpg
+  credit: William James Topley
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:RobertLBorden.jpg
 authors: [Łukasz Skowroń]
 tags: [Kanada, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
 sources:

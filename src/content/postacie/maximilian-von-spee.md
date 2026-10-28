@@ -10,6 +10,11 @@ birthPlace: Kopenhaga (Dania)
 deathPlace: Południowy Atlantyk, koło Falklandów
 aliases: [Maximilian von Spee]
 wikiTitles: [Maximilian_von_Spee]
+photo:
+  src: ../../assets/postacie/maximilian-von-spee.jpg
+  credit: Ferdinand Urbahns
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Vonspee1.JPG
 authors: [Łukasz Skowroń]
 tags: [Maximilian von Spee, Kaiserliche Marine, Ocean Spokojny]
 sources:

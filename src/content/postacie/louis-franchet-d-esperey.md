@@ -10,6 +10,11 @@ birthPlace: Mostaganem (Algieria)
 deathPlace: Saint-Amancet (Francja)
 aliases: [Louis Franchet d'Espérey, Louis Franchet d’Espérey]
 wikiTitles: [Louis_Franchet_d’Espérey]
+photo:
+  src: ../../assets/postacie/louis-franchet-d-esperey.jpg
+  credit: Henri Manuel
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Franchet_d%27Esperey_-_photo_Henri_Manuel.jpg
 authors: [Natalia]
 tags: [Louis Franchet d'Espérey, Francja, Serbia, Bułgaria]
 sources:

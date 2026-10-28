@@ -10,6 +10,11 @@ birthPlace: Split (Dalmacja, Austria)
 deathPlace: Zagrzeb
 aliases: [Ante Trumbić]
 wikiTitles: [Ante_Trumbić]
+photo:
+  src: ../../assets/postacie/ante-trumbic.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ante_Trumbi%C4%87_(2).jpg
 authors: [Łukasz Skowroń]
 tags: [Serbia, Austro-Węgry, Włochy]
 sources:

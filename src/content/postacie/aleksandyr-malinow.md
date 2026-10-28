@@ -10,6 +10,11 @@ birthPlace: Pandakli w Besarabii (dziś Orichiwka, Ukraina)
 deathPlace: Sofia
 aliases: [Aleksandyr Malinow]
 wikiTitles: [Aleksandyr_Malinow]
+photo:
+  src: ../../assets/postacie/aleksandyr-malinow.jpg
+  credit: originally uploaded by Nk
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Al.malinov.jpg
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, inicjatywy pokojowe, Niemcy]
 sources:

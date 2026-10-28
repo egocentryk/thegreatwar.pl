@@ -10,6 +10,11 @@ birthPlace: Nantes (Francja)
 deathPlace: Paryż
 aliases: [Aristide Briand]
 wikiTitles: [Aristide_Briand]
+photo:
+  src: ../../assets/postacie/aristide-briand.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Aristide_Briand.png
 authors: [Łukasz Skowroń]
 tags: [Aristide Briand, Francja, Grecja]
 sources:

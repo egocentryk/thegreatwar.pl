@@ -10,6 +10,11 @@ birthPlace: Dzierżynowo, gubernia wileńska (Imperium Rosyjskie)
 deathPlace: Moskwa
 aliases: [Feliks Dzierżyński]
 wikiTitles: [Feliks_Dzierżyński]
+photo:
+  src: ../../assets/postacie/feliks-dzierzynski.jpg
+  credit: M.S. Nappelbaum
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Feliks_Dzier%C5%BCy%C5%84ski.jpg
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
 sources:

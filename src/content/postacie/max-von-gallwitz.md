@@ -10,6 +10,11 @@ birthPlace: Wrocław (Prusy)
 deathPlace: Neapol
 aliases: [Max von Gallwitz]
 wikiTitles: [Max_von_Gallwitz]
+photo:
+  src: ../../assets/postacie/max-von-gallwitz.jpg
+  credit: Bain
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Max_Karl_Wilhelm_von_Gallwitz_in_1915.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Królestwo Polskie, wielki odwrót 1915, Serbia]
 sources:

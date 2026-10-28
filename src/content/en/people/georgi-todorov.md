@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Bolhrad (Bessarabia, now Ukraine)
 deathPlace: Sofia
 source: georgi-todorow
-sourceHash: 62a14f74275693ad5f092610636f9b0815029599
+sourceHash: b0401d07fda2ce5e30539f54ee990677e2b9c064
 ---
 
 Georgi Todorov belonged to the generation of Bulgarian generals who as young volunteers had fought to free their country from Turkish rule and then led its army in three successive wars. In autumn 1915 he commanded the Second Army, which within a few weeks occupied Serbian Macedonia, cut the railway from Salonika and prevented the Serbs from joining up with the Entente troops. After this success he held the front against Sarrail's armies for almost three years. As fate would have it, in the critical days of September 1918, in the absence of the sick commander-in-chief, it was he who stood at the head of the Bulgarian army when the front broke at Dobro Pole. His signature was on the letter in which Bulgaria asked for a suspension of hostilities.

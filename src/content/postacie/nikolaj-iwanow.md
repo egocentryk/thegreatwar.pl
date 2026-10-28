@@ -8,6 +8,11 @@ born: 1851-08-03
 died: 1919-01-27
 aliases: [Nikołaj Iwanow]
 wikiTitles: [Nikołaj_Iwanow_(generał)]
+photo:
+  src: ../../assets/postacie/nikolaj-iwanow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Nikolai_I._Ivanov.jpeg
 authors: [Łukasz Skowroń]
 tags: [Rosja, Galicja, rewolucja lutowa]
 sources:

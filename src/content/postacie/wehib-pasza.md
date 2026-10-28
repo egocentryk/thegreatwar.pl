@@ -11,6 +11,11 @@ birthPlace: Janina (Imperium Osmańskie, dziś Grecja)
 deathPlace: Stambuł (Turcja)
 aliases: [Wehib Pasza]
 wikiTitles: [Wehib_Pasza]
+photo:
+  src: ../../assets/postacie/wehib-pasza.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Mehmet_vehip.jpg
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Kaukaz, Dardanele]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Londyn (Wielka Brytania)
 deathPlace: Genewa
 aliases: [Johann Heinrich von Bernstorff]
 wikiTitles: [Johann_Heinrich_von_Bernstorff]
+photo:
+  src: ../../assets/postacie/johann-heinrich-von-bernstorff.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Johann_Heinrich_von_Bernstorff.jpg
 authors: [Łukasz Skowroń]
 tags: [Stany Zjednoczone, okręty podwodne, inicjatywy pokojowe]
 sources:

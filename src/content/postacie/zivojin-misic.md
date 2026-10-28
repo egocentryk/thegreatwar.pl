@@ -10,6 +10,11 @@ birthPlace: Struganik koło Mionicy (Serbia)
 deathPlace: Belgrad
 aliases: [Živojin Mišić]
 wikiTitles: [Živojin_Mišić]
+photo:
+  src: ../../assets/postacie/zivojin-misic.jpg
+  credit: Uroš Predić
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Uro%C5%A1_Predi%C4%87_-_vojvoda_%C5%BDivojin_Mi%C5%A1i%C4%87,_1919.jpg
 authors: [Łukasz Skowroń]
 tags: [Serbia, Austro-Węgry, Bułgaria]
 sources:

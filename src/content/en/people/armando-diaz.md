@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Naples (Italy)
 deathPlace: Rome
 source: armando-diaz
-sourceHash: b9d5d2b180957c7c8a93a08f4e03c37512a801bd
+sourceHash: 0a03288855e89509dd15a7be11f80c494fa91b98
 ---
 
 Armando Diaz took command of the Italian Army on 8 November 1917, when after the defeat at Caporetto it was falling back to the Piave, having lost hundreds of thousands of men and nearly half its artillery. Within a year he turned it into an army that in June 1918 repulsed Austria-Hungary's last great offensive and in October routed it at Vittorio Veneto. He was neither a brilliant nor a daring commander. He was, however, the opposite of his predecessor, Luigi Cadorna: he cared for his soldiers, trusted his subordinates and worked with the government and the Allies. Foch and some Italian politicians criticised him for the caution with which he delayed the final offensive, but in Italy he was remembered as the "Duke of Victory", the author of the bulletin announcing the end of the war with Austria on 4 November 1918.

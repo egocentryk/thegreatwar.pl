@@ -10,6 +10,11 @@ birthPlace: Wrotham Park (Anglia)
 deathPlace: Thorpe-le-Soken (Anglia)
 aliases: [Julian Byng]
 wikiTitles: [Julian_Byng]
+photo:
+  src: ../../assets/postacie/julian-byng.jpg
+  credit: Rice studio / Library and Archives Canada
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Lord-byng.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Kanada, Brytyjski Korpus Ekspedycyjny]
 sources:

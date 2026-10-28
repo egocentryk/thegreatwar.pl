@@ -6,7 +6,7 @@ country: United States
 birthPlace: Watertown (New York, United States)
 deathPlace: Washington, D.C.
 source: robert-lansing
-sourceHash: 2e91f5d27e5704b9046823083444fec0551bf44c
+sourceHash: c1a5fe248a60c3076c941221d2874443c8ed6334
 ---
 
 Robert Lansing directed American diplomacy for almost the whole war, from June 1915 to February 1920, but he was never its real author. Foreign policy was conducted by President [Woodrow Wilson](/postacie/woodrow-wilson) himself and, alongside him, by his trusted adviser, Colonel [Edward House](/postacie/edward-house). Lansing was a lawyer, a specialist in international law, and the author and signatory of dozens of notes in which the United States argued with Germany over submarine warfare and with Britain over the blockade, and in which in October 1918 it passed on the armistice terms to Germany. Privately he was convinced from 1915 that America ought to side with the Entente, and he did a great deal to bring that about. In Paris in 1919 he did not believe in the League of Nations or in national self-determination, which in the end cost him his post.

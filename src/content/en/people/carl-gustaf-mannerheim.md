@@ -6,7 +6,7 @@ country: Finland
 birthPlace: Askainen (Finland)
 deathPlace: Lausanne (Switzerland)
 source: carl-gustaf-mannerheim
-sourceHash: 59450d4bbc3f255c2544769360d8c190fe70dbc6
+sourceHash: 470f80c6ccc1612938fe7f1483fa2a51f87b54c4
 ---
 
 Carl Gustaf Emil Mannerheim lived through the Great War in two entirely different roles. Until the autumn of 1917 he was a general of the Russian Army, a cavalry commander who fought the Austrians and Germans in Poland, Galicia, Volhynia and Romania, and who kept a portrait of Tsar Nicholas II in his drawing room for the rest of his life. From January 1918 he was the leader of the Finnish Whites, who defeated the Reds in a bloody civil war, and in December of that year he became regent of independent Finland. What put him on this side of the White–Red divide was not a choice of alliance but the war against Bolshevism. He cooperated reluctantly with the Germans, on whose help the government in Vaasa was counting, and he left when Finland began to subordinate itself to them. That is why it was he, and not the pro-German politicians, whom Finland sent to the victorious Entente after Germany's defeat. The "side" field of this page, set to the Central Powers, therefore describes the camp in which White Finland found itself in 1918 rather than the views of Mannerheim himself.

@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Alcsút (Hungary)
 deathPlace: Rain near Straubing (Germany)
 source: jozef-august-habsburg
-sourceHash: 095e792c1853f990da9c438af3b4e2e163a8b1a7
+sourceHash: 387d08b83b1d5c1bf6df31ec3214717363ad4475
 ---
 
 Archduke Joseph August was the most Hungarian of the Habsburgs who held command during the war. The Hungarians called him simply "Archduke Joseph". For a year and a half his VII Corps, made up largely of Hungarians, defended the Karst plateau on the Isonzo, scene of some of the bloodiest fighting on the whole Italian front. From December 1916 he commanded the front in the Eastern Carpathians and in Moldavia, and in 1918 an army on the Piave and an army group in the Tyrol. In the last days of the monarchy Emperor Charles made him a field marshal and his plenipotentiary in Hungary, where he had to hand power over to the revolution. A year later he briefly stood at the head of the Hungarian state himself.

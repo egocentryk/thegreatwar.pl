@@ -6,7 +6,7 @@ country: Ukraine
 birthPlace: Yelisavetgrad (now Kropyvnytskyi, Ukraine)
 deathPlace: Mougins (France)
 source: wolodymyr-wynnyczenko
-sourceHash: b951d9c3ab7fc8adcad4ef7085d031b7555412b3
+sourceHash: 22eb7755db0604acb6ea547af68ce579557245a6
 ---
 
 Volodymyr Vynnychenko was the most popular Ukrainian writer of his generation and one of the three men who led the Ukrainian revolution. In 1917, as the first head of the Central Rada's government, he negotiated autonomy for Ukraine with Petrograd. In the winter of 1917–1918, when Kyiv found itself at war with the Bolsheviks, he headed the cabinet that sent a delegation to the peace negotiations at Brest. In November 1918 he became head of the Directorate that overthrew Hetman Skoropadskyi. He tied himself neither to the Central Powers nor to the Entente. He was a socialist, an opponent of a standing army and an advocate of agreement with the Russian revolution, and in 1918 he fought the hetmanate that rested on German bayonets. His quarrel with Symon Petliura split the leadership of the reborn republic.

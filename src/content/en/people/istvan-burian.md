@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Stomfa, now Stupava (Hungary, now Slovakia)
 deathPlace: Vienna
 source: istvan-burian
-sourceHash: bbbdba1832bd6897722c6b19daaa45361f24f6bb
+sourceHash: abdd8c68747c758d48199d4c259ef3ee507a13f7
 ---
 
 Baron István Burián, in German Stephan Burián von Rajecz, directed the diplomacy of the Habsburg monarchy twice: from January 1915 to December 1916 and from April to October 1918. He was a professional diplomat of the old school, an expert on the Balkans and the closest confidant of the Hungarian Prime Minister [István Tisza](/postacie/istvan-tisza). In his first term he failed to stop Italy and Romania from joining the Entente, but he won Bulgaria over to the Central Powers and pressed for the union of the Kingdom of Poland with the monarchy. In his second, as Austria-Hungary was already falling apart, he tried in vain to bring about peace. Contemporaries and historians reproached him for pedantry and inflexibility, though no one questioned his integrity or his knowledge of his craft.

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Fallodon (Northumberland)
 source: edward-grey
-sourceHash: 6ea2741f2437a2970d72d834fdfe0043a62e32bc
+sourceHash: 75aacf650b438068dabe454abb9892368cad43a7
 ---
 
 Sir Edward Grey directed British foreign policy for eleven years, from December 1905 to December 1916, longer without a break than anyone before or since. It was he who built the agreements with France and Russia, who in July 1914 tried to stop the war with a conference of the powers, and who on 3 August made the speech in the House of Commons that convinced Parliament and a divided government that Britain could not leave France and Belgium to their fate. During the war he conducted the secret diplomacy of the Entente: he negotiated Italy's entry, courted the Balkan states, promised Constantinople to Russia and signed the agreement partitioning Asiatic Turkey. Weary and losing his sight, he left the government together with Asquith.

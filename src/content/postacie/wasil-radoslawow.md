@@ -10,6 +10,11 @@ birthPlace: Łowecz (Imperium Osmańskie, dziś Bułgaria)
 deathPlace: Berlin (Niemcy)
 aliases: [Wasił Radosławow]
 wikiTitles: [Wasił_Radosławow]
+photo:
+  src: ../../assets/postacie/wasil-radoslawow.jpg
+  credit: Vopicka, Charles J
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Radoslavof-bulgaria--secretsofbalkans00vopiuoft.png
 authors: [Natalia]
 tags: [Bułgaria, neutralność, Niemcy]
 sources:

@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Dresden (Saxony)
 deathPlace: Boulogne-Billancourt (France)
 source: gieorgij-lwow
-sourceHash: f491f82686849fe4186b8e3decea949c271f189d
+sourceHash: 7f311148d70a531bb04cc42f539adc8f5482df1c
 ---
 
 Prince Georgy Yevgenyevich Lvov was the most respected figure in Russian local self-government. During the war he headed the All-Russian Zemstvo Union, which set up hospitals, evacuated the wounded and supplied the army wherever the bureaucracy failed. As a result, although he never sought power, he stood at the top of almost every list of a future "government of confidence". After the [February Revolution](/rewolucja-lutowa) he became the first prime minister of the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji). He governed for less than four months, believing that the free Russian people would establish order by themselves. In July 1917, convinced that he could not halt the disintegration of the state, he handed power to [Alexander Kerensky](/postacie/aleksander-kierenski).

@@ -5,7 +5,7 @@ role: Commander of Allied forces in North Russia (1918), head of the British mil
 country: United Kingdom
 deathPlace: St Austell (Cornwall)
 source: frederick-poole
-sourceHash: ae19c9172fd10f9e550b8240cb72944becaa94fd
+sourceHash: c5105dcc845b7d6f84429efbabb24937bb3116ee
 ---
 
 Sir Frederick Cuthbert Poole was a British gunner who began the war as a retired major and ended it as the general responsible for the first stage of the Allied intervention in Russia. He knew the country from two years' service with the Tsarist army, so in spring 1918 London sent him to Murmansk to defend the northern ports and depots against the Germans. Poole went much further than the Americans wanted: he took Archangel, sent small columns hundreds of kilometres inland and became in practice master of a region in which a Russian government was operating. After a few months his methods had alienated Allied diplomats and the Russians themselves, so in October he was recalled to London. He then briefly led a mission to General Denikin in southern Russia.

@@ -10,6 +10,11 @@ birthPlace: Korfu (Wyspy Jońskie)
 deathPlace: Londyn
 aliases: [Ian Hamilton]
 wikiTitles: [Ian_Hamilton_(generał)]
+photo:
+  src: ../../assets/postacie/ian-hamilton.jpg
+  credit: P. S. Rogers
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sir_Ian_Hamilton.jpg
 authors: [Łukasz Skowroń]
 tags: [Ian Hamilton, Wielka Brytania, Dardanele]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Bursa (Imperium Osmańskie)
 deathPlace: Stambuł (Turcja)
 aliases: [Nureddin Pasza, Nureddin Bej]
 wikiTitles: [Nureddin_Pasza]
+photo:
+  src: ../../assets/postacie/nureddin-pasza.jpg
+  credit: NA
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sakalli_Nureddin_Pasha.jpg
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Indie Brytyjskie, Wielka Brytania]
 sources:

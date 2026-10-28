@@ -10,6 +10,11 @@ birthPlace: Trent (Anglia)
 deathPlace: Delhi (Indie Brytyjskie)
 aliases: [Henry Rawlinson]
 wikiTitles: [Henry_Rawlinson_(baron)]
+photo:
+  src: ../../assets/postacie/henry-rawlinson.jpg
+  credit: John Singer Sargent
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Henry_Seymour_Rawlinson,_1st_Baron_Rawlinson_of_Trent_by_John_Singer_Sargent.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 sources:

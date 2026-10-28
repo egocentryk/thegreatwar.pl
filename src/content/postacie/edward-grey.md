@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Fallodon (Northumberland)
 aliases: [Edward Grey]
 wikiTitles: [Edward_Grey]
+photo:
+  src: ../../assets/postacie/edward-grey.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ed_Grey.jpg
 authors: [Natalia]
 tags: [Edward Grey, Wielka Brytania, neutralność Belgii]
 sources:

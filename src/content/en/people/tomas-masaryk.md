@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Hodonín (Moravia)
 deathPlace: Lány (Bohemia)
 source: tomas-masaryk
-sourceHash: 0beaaf731eb0552d3b2f7b4c572cc21d28b39978
+sourceHash: afde38bac6e7502c397b67faf01e136d2d4481ec
 ---
 
 When the war broke out, Tomáš Garrigue Masaryk was 64, a professor of philosophy at the Czech university in Prague and a deputy in the Vienna parliament, better known for his polemics than for any political influence. Over the next four years, without a state, money or a formal mandate, he persuaded the Entente governments that Austria-Hungary must be broken up and an independent state of Czechs and Slovaks founded on its ruins. He headed the Czechoslovak National Council in exile, built an army out of prisoners of war in Russia and sought President Wilson's support in the United States. In November 1918, while still across the ocean, he was elected the first President of Czechoslovakia. The Czechs called him the "President Liberator", and historians still argue only about how much of the fall of the Habsburg monarchy was his doing and how much the result of the military defeat of the Central Powers.

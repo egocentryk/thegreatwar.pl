@@ -10,6 +10,11 @@ birthPlace: Gubernia chersońska (Imperium Rosyjskie, dziś Ukraina)
 deathPlace: Okolice Wielbarka (Prusy Wschodnie)
 aliases: [Aleksandr Samsonow]
 wikiTitles: [Aleksandr_Samsonow]
+photo:
+  src: ../../assets/postacie/aleksandr-samsonow.jpg
+  credit: unknown painter
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Samsonov_Alexander_Vasilevich.jpg
 authors: [Łukasz Skowroń]
 tags: [Aleksandr Samsonow, Rosja, Prusy Wschodnie]
 sources:

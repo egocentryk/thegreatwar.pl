@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Tsarskoye Selo (Russian Empire)
 deathPlace: Yekaterinburg
 source: mikolaj-ii
-sourceHash: 70e9959ffd1949c357b6726f67b10f94f7f029d0
+sourceHash: 60a4ee80bd5b0661ea8543f3fa9876c2a6ec4a8d
 ---
 
 Nicholas II Romanov was the last Emperor of Russia and the only monarch of a great power who personally took command of his army during this war. In the summer of 1914, after long hesitation, he agreed to the general mobilisation that pushed Europe into war. In the autumn of 1915, against the advice of almost all his ministers, he removed his uncle from command and went to Headquarters, which made him personally responsible from then on for every defeat. When the capital's garrison mutinied in March 1917, his own generals abandoned him and he was forced to renounce the throne. Sixteen months later the Bolsheviks murdered him together with his family in Yekaterinburg. He was courteous, pious and devoted to his family, but throughout his reign he defended an autocracy to which he could no longer give effective government.

@@ -10,6 +10,11 @@ birthPlace: Tundiani, Pendżab (Indie Brytyjskie)
 deathPlace: Tingewick (Anglia)
 aliases: [Roger Keyes]
 wikiTitles: [Roger_Keyes]
+photo:
+  src: ../../assets/postacie/roger-keyes.jpg
+  credit: Russell
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sir_Roger_Keyes.jpg
 authors: [Łukasz Skowroń]
 tags: [Royal Navy, Wielka Brytania, Dardanele, okręty podwodne]
 sources:

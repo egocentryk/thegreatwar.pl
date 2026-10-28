@@ -6,7 +6,7 @@ country: France
 birthPlace: Saint-Omer (France)
 deathPlace: Paris
 source: alexandre-ribot
-sourceHash: a9c937bc537457445887284390a39a7e89874e63
+sourceHash: d2c19c07464c7af49581a2814a30c0171b1a8813
 ---
 
 Alexandre Ribot was the oldest of the leading French politicians of the war. When he took over the Ministry of Finance in August 1914 he was 72, and he had been active in politics since the days when the Third Republic was still taking shape. For two and a half years he financed France's war effort, above all through loans rather than taxes, and negotiated joint financing of the war with the British. In March 1917, at the age of 75, he became prime minister and foreign minister. His six months in office fell in the hardest period of the war for France: [the Nivelle offensive](/bitwy/druga-bitwa-nad-aisne), mutinies in the army, revolution in Russia, the entry of the United States into the war and the first secret peace soundings. Ribot was not a leader equal to these events. He remained unbending, however, on war aims: he rejected any peace without Alsace and Lorraine and any offer in which he saw an attempt to split the coalition.

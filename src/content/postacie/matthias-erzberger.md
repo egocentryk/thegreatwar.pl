@@ -10,6 +10,11 @@ birthPlace: Buttenhausen (Wirtembergia)
 deathPlace: Bad Griesbach (Badenia)
 aliases: [Matthias Erzberger]
 wikiTitles: [Matthias_Erzberger]
+photo:
+  src: ../../assets/postacie/matthias-erzberger.jpg
+  credit: Bundesarchiv, Bild 146-1989-072-16 / Kerbs, Diethart
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1989-072-16,_Matthias_Erzberger.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, inicjatywy pokojowe, polityka wewnętrzna]
 sources:

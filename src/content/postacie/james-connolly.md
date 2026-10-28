@@ -10,6 +10,11 @@ birthPlace: Edynburg (Szkocja)
 deathPlace: Dublin (więzienie Kilmainham)
 aliases: [James Connolly]
 wikiTitles: [James_Connolly_(irlandzki_polityk)]
+photo:
+  src: ../../assets/postacie/james-connolly.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:James_Connolly3.jpg
 authors: [Łukasz Skowroń]
 tags: [Irlandia, Wielka Brytania, British Army]
 sources:

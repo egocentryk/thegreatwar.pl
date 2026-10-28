@@ -10,6 +10,11 @@ birthPlace: Saint-Affrique (Francja)
 deathPlace: Montastruc-la-Conseillère (Francja)
 aliases: [Noël de Castelnau]
 wikiTitles: [Noël_de_Castelnau]
+photo:
+  src: ../../assets/postacie/noel-de-castelnau.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%C3%89douard_de_Castelnau_-_Bain_Collection.jpg
 authors: [Łukasz Skowroń]
 tags: [Noël de Castelnau, Francja, Lotaryngia]
 sources:

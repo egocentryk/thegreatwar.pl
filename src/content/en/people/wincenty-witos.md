@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Wierzchosławice near Tarnów (Galicia, Austria-Hungary)
 deathPlace: Kraków
 source: wincenty-witos
-sourceHash: 6dde4a0fb11d530929a8c56894ad9eba2ec6f0ba
+sourceHash: ccdefc5df0c336674f9cd06b07bf3443ec972ec8
 ---
 
 Wincenty Witos was the most outstanding Polish politician of peasant origin and a symbol of the countryside's entry into high politics. A farmer and the wójt (village head) of his home village near Tarnów, a self-taught man who did not know German well, he became one of the most important Galician politicians during the war. In 1914 he and his party backed the Legions and the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy). Once convinced that Vienna would not fulfil Polish hopes, he led the populists into a break with the pro-Austrian policy. It was on his initiative that in May 1917 the Polish deputies from Galicia declared an independent and united Poland to be the nation's aim. In October 1918 he chaired the assembly which proclaimed that Galicia belonged to the Polish state, and he became head of the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna), the first Polish authority in the former Austrian partition. He was later three times prime minister of reborn Poland.

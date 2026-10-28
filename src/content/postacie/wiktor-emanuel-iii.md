@@ -10,6 +10,11 @@ birthPlace: Neapol (Włochy)
 deathPlace: Aleksandria (Egipt)
 aliases: [Wiktor Emanuel III]
 wikiTitles: [Wiktor_Emanuel_III]
+photo:
+  src: ../../assets/postacie/wiktor-emanuel-iii.jpg
+  credit: Possibly Mario Nunes Vais
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Vittorio_Emanuele_III_(c._1924-1934).jpg
 authors: [Natalia]
 tags: [Włochy, Antonio Salandra, Luigi Cadorna]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Carcassonne (Francja)
 deathPlace: Paryż
 aliases: [Maurice Sarrail]
 wikiTitles: [Maurice_Sarrail]
+photo:
+  src: ../../assets/postacie/maurice-sarrail.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Maurice_Sarrail.jpg
 authors: [Łukasz Skowroń]
 tags: [Francja, Serbia, Grecja]
 sources:

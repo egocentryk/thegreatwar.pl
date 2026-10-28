@@ -6,7 +6,7 @@ country: France
 birthPlace: Paris
 deathPlace: Versailles
 source: alexandre-millerand
-sourceHash: a0197003f671b1e85402ee7fb1ab6f2f3cbf472c
+sourceHash: e4b4ef9ad6711046dda17cf2acdd5e26c2374644
 ---
 
 Alexandre Millerand was France's Minister of War in the first and hardest year of the war. He took office in August 1914, when the French armies were retreating after the lost Battle of the Frontiers, and held it until October 1915. He saw the minister's role as service to the commander-in-chief: he shielded General Joffre from parliament, supported censorship and accepted sweeping powers for the army. At the same time he had to organise the production of ammunition and weapons for a war for which France was not prepared. He paid with his post for the shortages of armament, the failed offensives and the Sarrail affair. A few years later he was prime minister and then President of France, and as head of government in 1920 he sent a military mission to Poland during the war with the Bolsheviks.

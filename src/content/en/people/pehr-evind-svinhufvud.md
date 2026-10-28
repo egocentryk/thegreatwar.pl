@@ -6,7 +6,7 @@ country: Finland
 birthPlace: Sääksmäki (Finland)
 deathPlace: Luumäki (Finland)
 source: pehr-evind-svinhufvud
-sourceHash: 4abcd10c8ea42d10d2db6a5d83d65b9a8cfa79e0
+sourceHash: cca718fdd2c775553464d8e1d48945f5c903c665
 ---
 
 Pehr Evind Svinhufvud, called "Ukko-Pekka", or Old Pekka, by his countrymen, fought Russian rule over Finland all his life and during the Great War paid for it with exile to Siberia. After the revolution of 1917 he became head of the Finnish government, presented the declaration of independence to parliament and had to ask [Lenin](/postacie/wlodzimierz-lenin) in person to recognise it. In the civil war of 1918 he was the leader of the "White" government, and from May to December regent of the country. It was he and his ministers who based independent Finland on Germany, counting on a German guarantee to protect it from Russia. Germany's defeat in November 1918 ended both this policy and his regency. Finland did not declare war on the Entente, but in 1918 it was in practice a German satellite.

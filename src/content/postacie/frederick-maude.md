@@ -10,6 +10,11 @@ birthPlace: Gibraltar
 deathPlace: Bagdad (Imperium Osmańskie)
 aliases: [Frederick Stanley Maude, Frederick Maude]
 wikiTitles: [Frederick_Stanley_Maude]
+photo:
+  src: ../../assets/postacie/frederick-maude.jpg
+  credit: Maull and Fox
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sir_F._Stanley_Maude.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Indie Brytyjskie, Imperium Osmańskie, William Robertson]
 sources:

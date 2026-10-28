@@ -10,6 +10,11 @@ birthPlace: Kragujevac (Serbia)
 deathPlace: Nicea (Francja)
 aliases: [Radomir Putnik]
 wikiTitles: [Radomir_Putnik]
+photo:
+  src: ../../assets/postacie/radomir-putnik.jpg
+  credit: George Grantham Bain Collection (Library of Congress)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Radomir_Putnik.jpg
 authors: [Natalia]
 tags: [Radomir Putnik, Serbia, Austro-Węgry]
 sources:

@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Babele near Izmail (today Ukraine)
 deathPlace: Bucharest
 source: alexandru-averescu
-sourceHash: 0b094179aa7f9628ab59a4897b20f801b0bd65a2
+sourceHash: b613d03c7c23537cffff513c72c7745bb6c2fe68
 ---
 
 Alexandru Averescu was the most popular Romanian general of the First World War. He commanded the 2nd Army, which in the summer of 1917 at [Mărăști](/bitwy/bitwa-pod-marasti) won the first clear victory of the rebuilt Romanian Army. Soldiers and peasants saw in him a commander who knew how to win and did not belong to the discredited political elite. His rivals considered him a conceited and quarrelsome intriguer. At the darkest moment of the war, in February 1918, the king entrusted him with the government and with negotiations with the Central Powers, which weighed on his reputation. After the war he founded his own party and was prime minister three times.

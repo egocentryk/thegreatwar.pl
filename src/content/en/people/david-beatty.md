@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Stapeley near Nantwich (England)
 deathPlace: London
 source: david-beatty
-sourceHash: 3e91e00e5e33f35e2b265cc27190b26f497a21fc
+sourceHash: 340371837a807d1478a6904470b3b58da8c3a2e7
 ---
 
 David Beatty was the most popular British admiral of the First World War. Young, handsome, his cap tilted rakishly to one side, he was seen by the press and the public as a new Nelson. As commander of the battlecruisers he led them into action in the Heligoland Bight, at the Dogger Bank and at Jutland, where his force lost two ships in less than half an hour but drew the German fleet under the guns of Jellicoe's battleships. From the end of 1916 he commanded the entire Grand Fleet, and on 21 November 1918 he received the surrender of the German High Seas Fleet. His boldness won admiration, but his failings in command and signalling, and after the war his efforts to shape an account of Jutland favourable to himself, still divide historians today.

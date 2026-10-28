@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Szpetal Dolny near Włocławek (Congress Poland)
 deathPlace: Ann Arbor (United States)
 source: anton-denikin
-sourceHash: 7c91af1716be13c49db78f4d8a5e2bca75614862
+sourceHash: 398941787ecf8cb054a5d03ed0816288a89aba21
 ---
 
 General Anton Denikin was one of the best Russian field commanders of the war and at the same time the loudest critic of the revolutionary changes in the army in 1917. His 4th Rifle Brigade, known as the "Iron" Brigade, was among the most decorated units of the Tsarist army. After the February Revolution he was chief of staff to the supreme commander and commander of two fronts, and for supporting General Lavr Kornilov he ended up in prison. After the Bolshevik coup he helped found the White Volunteer Army, and after Kornilov's death he took command of it. In 1919 his forces came to within a few hundred kilometres of Moscow. He spent most of his life in exile, where he wrote multi-volume memoirs, one of the most important sources for the history of the revolution and the civil war.

@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Konofer, today Konuvere (Governorate of Estonia, now Estonia)
 deathPlace: Taganrog
 source: paul-von-rennenkampf
-sourceHash: 882d5e25e63f5a9d97c0e387aa45e25ef388df9a
+sourceHash: 7737c82dba558cfe0091499e85981f979d9f3138
 ---
 
 In 1914 General Paul von Rennenkampf commanded the Russian 1st Army, which was the first to enter East Prussia and on 20 August won at Gumbinnen the only major Russian victory of that campaign. A few days later the Germans destroyed the neighbouring army of Alexander Samsonov at Tannenberg, and Rennenkampf, who had not come to its aid, became in the eyes of the public the chief culprit of the defeat. After the defeat at the Masurian Lakes and the failure to close the pocket at Łódź he lost his command, and his German surname brought him accusations of treason. Historians today judge him more leniently than his contemporaries did, pointing out that his superiors made the more serious mistakes.

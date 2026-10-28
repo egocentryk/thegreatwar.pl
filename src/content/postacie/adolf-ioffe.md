@@ -10,6 +10,11 @@ birthPlace: Symferopol (Krym)
 deathPlace: Moskwa
 aliases: [Adolf Ioffe]
 wikiTitles: [Adolf_Ioffe]
+photo:
+  src: ../../assets/postacie/adolf-ioffe.jpg
+  credit: Moisej Nappelbaum
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Adolph_Joffe_1918_Crop.jpg
 authors: [Natalia]
 tags: [Rosja, Niemcy, Włodzimierz Lenin]
 sources:

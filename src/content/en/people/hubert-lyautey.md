@@ -6,7 +6,7 @@ country: France
 birthPlace: Nancy (France)
 deathPlace: Thorey (France)
 source: louis-lyautey
-sourceHash: bb8754d034efc5fba958a8cdbc1f6a5dcdb05957
+sourceHash: 412bf510d71c31b8954b12a98bb70069f05b80d3
 ---
 
 Louis Hubert Gonzalve Lyautey, known simply as Hubert Lyautey, was the most famous French colonial soldier of his generation. He spent the world war above all in Morocco, which he had governed as Resident-General since 1912. When in 1914 Paris demanded that he give up most of his troops and withdraw to the coast, he refused and held the country, while at the same time sending dozens of battalions to France. In December 1916 Aristide Briand brought him to Paris as Minister of War. His three months in office proved a string of humiliations for him: he had no say in the choice of General Nivelle, in whose plan he did not believe, and the left in parliament saw in him a general with the ambitions of a dictator. On 14 March 1917, shouted down in the Chamber of Deputies, he resigned and brought down the whole government with him. He returned to Morocco and governed it for another eight years.

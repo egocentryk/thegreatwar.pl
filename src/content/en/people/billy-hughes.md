@@ -6,7 +6,7 @@ country: Australia
 birthPlace: London (Pimlico)
 deathPlace: Sydney (Lindfield)
 source: billy-hughes
-sourceHash: ebbe5380b19c24e81a23226a56983a9834bd098b
+sourceHash: 185a5144e92612f66cd7b8bf22f36904d81758e4
 ---
 
 William Morris Hughes, known as Billy, was Prime Minister of Australia for most of the Great War and one of the most colourful figures in the politics of the Empire. Slight, almost deaf, hot-tempered and sharp-tongued, he made his way from wharf labourer and trade union organiser to a statesman who quarrelled with the President of the United States at the peace conference table. During the war he twice tried to introduce conscription for service overseas and twice lost in a popular vote, and in the process he split the [Australian Labor Party](https://pl.wikipedia.org/wiki/Australijska_Partia_Pracy), of which he had been one of the founders. The soldiers called him "the Little Digger", while the labour movement still regards him as a traitor.

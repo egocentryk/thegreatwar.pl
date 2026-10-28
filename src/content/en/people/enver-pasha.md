@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Constantinople (Ottoman Empire)
 deathPlace: near Baljuan (now Tajikistan)
 source: enver-pasza
-sourceHash: 2a42d0e662a4aac49bfce9c90af68ce1c1493a93
+sourceHash: 81b051bfa72f2aa0fbdd0d8ea183b7c654fcb70d
 ---
 
 İsmail Enver, known as Enver Pasha, was the youngest and most impetuous of the three Young Turk leaders who ruled the Ottoman Empire during the Great War. Together with Talat, minister of the interior and later grand vizier, and Djemal, minister of the navy, he formed a triumvirate in which he was responsible for the army. At the age of 32 he became minister of war and chief of the general staff, and after the outbreak of war deputy to the sultan as commander-in-chief. It was he who pushed hardest for an alliance with Germany and for war with Russia. In the winter of 1914 he personally led an army to Sarikamish, where it perished in the snow. Historians count him among the principal perpetrators of the Armenian genocide. After the defeat he fled the country, a court in Constantinople sentenced him to death in absentia, and he was killed in 1922 in Central Asia, fighting the Bolsheviks.

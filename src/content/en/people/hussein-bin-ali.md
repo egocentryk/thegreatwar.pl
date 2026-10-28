@@ -6,7 +6,7 @@ country: Hejaz
 birthPlace: Constantinople (Ottoman Empire)
 deathPlace: Amman (Transjordan)
 source: husajn-ibn-ali
-sourceHash: 722ca6da296396fdd43d42050b817b7a6a7f5ba8
+sourceHash: 3b8bf0579e12b3be3aa68b451fe52875fc8d6136
 ---
 
 Hussein bin Ali, Sharif and Emir of Mecca of the [Hashemite](https://pl.wikipedia.org/wiki/Haszymici) house, was the guardian of the holiest cities of Islam who in June 1916 renounced his allegiance to the sultan and caliph in Constantinople. His revolt, backed by British gold, weapons and ships, took the Hejaz from the Turks and then, led by his sons, reached as far as Damascus and Aleppo. For the Central Powers it was a propaganda blow, because a descendant of the Prophet had sided with the Christian powers against the jihad proclaimed by the sultan. Hussein hoped to be rewarded with the leadership of a great Arab state. He received the title of King of the Hejaz, and after the war felt cheated by his allies, with whom he broke. In 1924, abandoned by the British, he lost a war with Ibn Saud and died in exile.

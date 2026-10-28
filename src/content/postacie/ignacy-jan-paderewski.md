@@ -10,6 +10,11 @@ birthPlace: Kuryłówka na Podolu (Imperium Rosyjskie)
 deathPlace: Nowy Jork
 aliases: [Ignacy Jan Paderewski]
 wikiTitles: [Ignacy_Jan_Paderewski]
+photo:
+  src: ../../assets/postacie/ignacy-jan-paderewski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ignacy_Jan_Paderewski.PNG
 authors: [Natalia]
 tags: [Ignacy Jan Paderewski, Polska, Stany Zjednoczone, Woodrow Wilson]
 sources:

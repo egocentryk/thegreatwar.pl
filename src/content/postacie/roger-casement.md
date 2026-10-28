@@ -10,6 +10,11 @@ birthPlace: Sandycove pod Dublinem (Irlandia)
 deathPlace: Londyn (więzienie Pentonville)
 aliases: [Roger Casement]
 wikiTitles: [Roger_Casement]
+photo:
+  src: ../../assets/postacie/roger-casement.jpg
+  credit: National Library of Ireland on The Commons
+  license: No restrictions
+  source: https://commons.wikimedia.org/wiki/File:Sir_Roger_Casement_(6188264610).jpg
 authors: [Natalia]
 tags: [Irlandia, Niemcy, Wielka Brytania]
 sources:

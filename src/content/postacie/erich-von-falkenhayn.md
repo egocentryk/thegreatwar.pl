@@ -10,6 +10,11 @@ birthPlace: Białochowo koło Grudziądza (Prusy Zachodnie)
 deathPlace: Pałac Lindstedt pod Poczdamem
 aliases: [Erich von Falkenhayn]
 wikiTitles: [Erich_von_Falkenhayn]
+photo:
+  src: ../../assets/postacie/erich-von-falkenhayn.jpg
+  credit: Albert Meyer
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Erich_von_Falkenhayn-retouched.jpg
 authors: [Łukasz Skowroń]
 tags: [Erich von Falkenhayn, Niemcy, Rumunia]
 sources:

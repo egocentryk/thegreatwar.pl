@@ -10,6 +10,11 @@ birthPlace: Ust-Kamienogorsk (Imperium Rosyjskie)
 deathPlace: pod Jekaterynodarem
 aliases: [Ławr Korniłow]
 wikiTitles: [Ławr_Korniłow]
+photo:
+  src: ../../assets/postacie/lawr-kornilow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Kornilov1916.jpeg
 authors: [Łukasz Skowroń]
 tags: [Ławr Korniłow, Rosja, rewolucja lutowa, rewolucja październikowa]
 sources:

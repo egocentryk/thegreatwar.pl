@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Erfurt (Prussia)
 deathPlace: Berlin
 source: oskar-von-hutier
-sourceHash: 3d0becfe7d05b92fabf680a14fafce1e4dba056d
+sourceHash: 910c2517ce7fb95a840f6f00dcbecf482a876788
 ---
 
 Oskar von Hutier is one of the few German generals of the First World War whose name passed into military language. The French, and after them the British and Americans, called the German method of breaking through the front in 1917–1918 "Hutier tactics": a short, violent bombardment with massive use of gas, and an infantry attack that did not stop at points of resistance. Hutier did indeed twice apply it with great success, at Riga in September 1917 and on the Somme in March 1918. Historians stress, however, that he was not its creator. He was, though, an efficient and demanding army commander, to whom Ludendorff entrusted tasks that called for boldness.

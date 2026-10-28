@@ -10,6 +10,11 @@ birthPlace: Bajkowo, gubernia twerska (Imperium Rosyjskie)
 deathPlace: Piotrogród
 aliases: [Boris Stürmer]
 wikiTitles: [Boris_Stürmer]
+photo:
+  src: ../../assets/postacie/boris-sturmer.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%D0%A8%D1%82%D1%8E%D1%80%D0%BC%D0%B5%D1%80_%D0%91._(%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C).jpg
 authors: [Łukasz Skowroń]
 tags: [Boris Stürmer, Rosja, Mikołaj II]
 sources:

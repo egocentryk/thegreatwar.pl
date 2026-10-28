@@ -10,6 +10,11 @@ birthPlace: Leipnitz (Prusy)
 deathPlace: Burghorn koło Celle
 aliases: [August von Mackensen]
 wikiTitles: [August_von_Mackensen]
+photo:
+  src: ../../assets/postacie/august-von-mackensen.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:August_von_Mackensen_fieldmarshal.jpg
 authors: [Natalia]
 tags: [August von Mackensen, Niemcy, Serbia, Rumunia]
 sources:

@@ -11,6 +11,11 @@ birthPlace: Buzău (Wołoszczyzna)
 deathPlace: Buzău
 aliases: [Alexandru Marghiloman]
 wikiTitles: [Alexandru_Marghiloman]
+photo:
+  src: ../../assets/postacie/alexandru-marghiloman.jpg
+  credit: autor nieznany
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Alexandru_Marghiloman.png
 authors: [Natalia]
 tags: [Rumunia, Ferdynand I Rumuński, inicjatywy pokojowe, Ottokar Czernin]
 sources:

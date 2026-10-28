@@ -10,6 +10,11 @@ birthPlace: Stara Zagora (Imperium Osmańskie, dziś Bułgaria)
 deathPlace: Płowdiw
 aliases: [Stefan Toszew]
 wikiTitles: [Stefan_Toszew]
+photo:
+  src: ../../assets/postacie/stefan-toszew.jpg
+  credit: M. F. u. F
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Stefan_Toshev_(1916).jpg
 authors: [Natalia]
 tags: [Bułgaria, Rumunia, August von Mackensen]
 sources:

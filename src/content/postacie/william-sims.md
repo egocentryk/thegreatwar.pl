@@ -10,6 +10,11 @@ birthPlace: Port Hope (Ontario, Kanada)
 deathPlace: Boston
 aliases: [William Sims]
 wikiTitles: [William_Sims]
+photo:
+  src: ../../assets/postacie/william-sims.jpg
+  credit: user:RJHall
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:William_sowden_sims.jpg
 authors: [Łukasz Skowroń]
 tags: [Stany Zjednoczone, okręty podwodne, Wielka Brytania]
 sources:

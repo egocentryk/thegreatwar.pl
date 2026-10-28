@@ -10,6 +10,11 @@ birthPlace: Kamionek pod Warszawą (Imperium Rosyjskie)
 deathPlace: Drozdowo pod Łomżą
 aliases: [Roman Dmowski]
 wikiTitles: [Roman_Dmowski]
+photo:
+  src: ../../assets/postacie/roman-dmowski.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Roman_Dmowski_LOC_3c35372u.jpg
 authors: [Łukasz Skowroń]
 tags: [Roman Dmowski, Polska, Francja, Królestwo Polskie]
 sources:

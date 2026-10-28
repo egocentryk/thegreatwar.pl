@@ -6,7 +6,7 @@ country: Germany
 birthPlace: London (United Kingdom)
 deathPlace: Geneva
 source: johann-heinrich-von-bernstorff
-sourceHash: 99935af8bcd3a60f8fe386899d6cc4f76640c29c
+sourceHash: 726676e38d49f53743fce33dd86cee799fafe098
 ---
 
 Count Johann Heinrich von Bernstorff was, during the Great War, Germany's most important diplomat in a neutral country. As ambassador in Washington he fought a long duel over submarine warfare with [Woodrow Wilson](/postacie/woodrow-wilson) and his secretaries of state: after the sinking of the *Lusitania*, the *Arabic* and the *Sussex* he each time averted the threat of a break in relations, often going beyond his instructions from Berlin. He argued to his government that war with America meant Germany's defeat, and until the last moment he hoped for a peace mediated by Wilson. At the same time his embassy shielded and financed propaganda, espionage and sabotage in the United States. In America he became a symbol of German duplicity, and in Germany, for the right, a symbol of defeatism. Historians today see him above all as a diplomat who accurately foresaw the consequences of decisions he was unable to prevent.

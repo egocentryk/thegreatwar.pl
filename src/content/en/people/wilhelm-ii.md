@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Berlin
 deathPlace: Doorn (Netherlands)
 source: wilhelm-ii
-sourceHash: 8b169113c91239b5566dc3f800c1bf3287324595
+sourceHash: 465c6cd6dc4daebb464dd1889a5da9749de48e4d
 ---
 
 For thirty years Wilhelm II was the face of the German Empire. Loud, impulsive and hungry for attention, he wanted to be seen as a ruler who personally directed policy and the army, and his speeches, interviews and whims repeatedly shook Europe. To Germany's enemies he became the embodiment of Prussian militarism, the "Kaiser" whom British voters wanted to hang in 1918. In July 1914 his assurance that Germany would back Austria-Hungary set off the chain of decisions that led to war. During the war itself, however, his role was surprisingly modest. Formally he was the Supreme Warlord, but in practice he increasingly handed power to his generals, until in 1916 he found himself in the shadow of Hindenburg and Ludendorff. When the war was lost, the army abandoned him and he fled to the Netherlands, where he spent the last twenty-two years of his life.

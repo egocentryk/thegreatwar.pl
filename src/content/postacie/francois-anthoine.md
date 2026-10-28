@@ -10,6 +10,11 @@ birthPlace: Le Mans (Francja)
 deathPlace: Paryż
 aliases: [François Anthoine]
 wikiTitles: [François_Anthoine]
+photo:
+  src: ../../assets/postacie/francois-anthoine.jpg
+  credit: G.Garitan
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Le_g%C3%A9n%C3%A9ral_Anthoine_09977.jpg
 authors: [Łukasz Skowroń]
 tags: [Francja, Philippe Pétain, Douglas Haig]
 sources:

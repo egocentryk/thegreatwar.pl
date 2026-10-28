@@ -10,6 +10,11 @@ birthPlace: Saga (Japonia)
 deathPlace: Tokio
 aliases: [Shigenobu Ōkuma]
 wikiTitles: [Shigenobu_Ōkuma]
+photo:
+  src: ../../assets/postacie/shigenobu-okuma.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Shigenobu_Okuma_kimono.jpg
 authors: [Natalia]
 tags: [Japonia, Chiny]
 sources:

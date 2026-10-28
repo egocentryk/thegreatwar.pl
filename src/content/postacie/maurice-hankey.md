@@ -10,6 +10,11 @@ birthPlace: Biarritz (Francja)
 deathPlace: Redhill (Anglia)
 aliases: [Maurice Hankey]
 wikiTitles: [Maurice_Hankey]
+photo:
+  src: ../../assets/postacie/maurice-hankey.jpg
+  credit: Bassano Ltd
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Lord_Hankey.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, David Lloyd George]
 sources:

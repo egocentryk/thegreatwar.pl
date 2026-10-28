@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Obernkirchen (now Lower Saxony)
 deathPlace: Marktredwitz (Bavaria)
 source: reinhard-scheer
-sourceHash: deb484bcaa47522f52dda600037bff060400848a
+sourceHash: 58761769cbcba310be1bfdcc62fa08a6afaf3710
 ---
 
 Reinhard Scheer commanded the German High Seas Fleet in the only great clash of battle fleets of the First World War. At Jutland in 1916 his smaller fleet inflicted heavier losses on the British than it suffered itself, and twice broke out of a trap set by the Grand Fleet. Scheer soon concluded, however, that even the most successful battle at sea would not force Britain to make peace, and he became one of the loudest advocates of unrestricted submarine warfare, which in 1917 drew the United States into the war. In the last months of the war he directed the whole German war at sea. The plan for a final battle of the fleet, prepared by him and Hipper in October 1918, provoked a mutiny of the sailors with which the revolution in Germany began.

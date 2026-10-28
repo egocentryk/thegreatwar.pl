@@ -4,7 +4,7 @@ summary: Artilleryman trusted by the Tsar, victor of the Battle of Galicia. Led 
 role: Commander of the Russian Southwestern Front (1914–1916), General of Artillery
 country: Russian Empire
 source: nikolaj-iwanow
-sourceHash: 07e0386eb73fd353396d03e374f160fca033e1ba
+sourceHash: 227e93ed2ace79c6a9603b067373ba2bf441359f
 ---
 
 General of Artillery Nikolai Ivanov commanded the Russian Southwestern Front, which fought against Austria-Hungary, from the first day of the war until the spring of 1916. Under his command the Russians won the Battle of Galicia in 1914, took Lemberg and besieged Przemyśl, and he himself became one of the most popular generals at home and among the Allies. In 1915, however, his armies were driven out of Galicia, and in March 1916 he was replaced by Aleksei Brusilov. Ivanov, who enjoyed the trust of the Tsar and the Empress, moved to Headquarters. In March 1917 it was to him that Nicholas II entrusted the task of crushing the revolution in Petrograd, a task that ended before it had begun.

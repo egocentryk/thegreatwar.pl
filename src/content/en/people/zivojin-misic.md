@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Struganik near Mionica (Serbia)
 deathPlace: Belgrade
 source: zivojin-misic
-sourceHash: 2d7c77b43e147572d7e0a089743fb6f84694086b
+sourceHash: 561b3827912c0223ba1221af883816178fff6e5d
 ---
 
 Živojin Mišić was the most offensive-minded of the Serbian commanders of the Great War and the only one whose name is linked to both of Serbia's great victories. In November 1914 he took over the shattered First Army, withdrew it deeper into the country against the wishes of the Supreme Command, and a few days later led the counter-attack that began the Austro-Hungarian defeat [on the Kolubara](/bitwy/bitwa-nad-kolubara). In 1918, as chief of staff of the Serbian army, he was co-author and the most ardent advocate of the plan for the [breakthrough at Dobro Pole](/bitwy/bitwa-pod-dobrym-polem). Between those dates he was a commander who, in the worst moments of the retreat through Albania, preferred to keep fighting rather than give way, and who, after a quarrel over posts, found himself outside the army for several months.

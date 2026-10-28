@@ -10,6 +10,11 @@ birthPlace: Southampton (Anglia)
 deathPlace: Londyn
 aliases: [John Jellicoe]
 wikiTitles: [John_Jellicoe]
+photo:
+  src: ../../assets/postacie/john-jellicoe.jpg
+  credit: Bain News Service; restored by Adam Cuerden
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:John_Jellicoe,_Admiral_of_the_Fleet.jpg
 authors: [Łukasz Skowroń]
 tags: [John Jellicoe, Royal Navy, Grand Fleet, okręty podwodne]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Gdańsk (Prusy)
 deathPlace: Besenhausen koło Getyngi
 aliases: [Otto von Below]
 wikiTitles: [Otto_von_Below]
+photo:
+  src: ../../assets/postacie/otto-von-below.jpg
+  credit: Paul Tellgmann
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Otto_von_Below_LOC.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, wielki odwrót 1915, Włochy, Luigi Cadorna]
 sources:

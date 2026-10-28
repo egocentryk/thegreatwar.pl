@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Knowsley Hall (Lancashire)
 aliases: [Lord Derby, Edward Stanley]
 wikiTitles: [Edward_Stanley_(17._hrabia_Derby)]
+photo:
+  src: ../../assets/postacie/lord-derby.jpg
+  credit: William Orpen
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Edward_George_Villiers_Stanley,_17th_Earl_of_Derby_by_Sir_William_Orpen.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, British Army, Douglas Haig, David Lloyd George]
 sources:

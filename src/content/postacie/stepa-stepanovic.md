@@ -10,6 +10,11 @@ birthPlace: Kumodraž pod Belgradem (Serbia)
 deathPlace: Čačak (Królestwo Serbów, Chorwatów i Słoweńców)
 aliases: [Stepa Stepanović]
 wikiTitles: [Stepa_Stepanović]
+photo:
+  src: ../../assets/postacie/stepa-stepanovic.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Stepa_Stepanovic.jpg
 authors: [Łukasz Skowroń]
 tags: [Stepa Stepanović, Serbia, Austro-Węgry, Bułgaria]
 sources:

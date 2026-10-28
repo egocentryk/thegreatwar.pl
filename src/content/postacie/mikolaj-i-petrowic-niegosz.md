@@ -10,6 +10,11 @@ birthPlace: Njeguši (Czarnogóra)
 deathPlace: Antibes (Francja)
 aliases: [Mikołaj I Petrowić-Niegosz]
 wikiTitles: [Mikołaj_I_Petrowić-Niegosz]
+photo:
+  src: ../../assets/postacie/mikolaj-i-petrowic-niegosz.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:King_Nicholas_of_Montenegro_(1911).jpg
 authors: [Natalia]
 tags: [Mikołaj I Petrowić-Niegosz, Czarnogóra, Serbia]
 sources:

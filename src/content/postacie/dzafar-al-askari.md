@@ -10,6 +10,11 @@ birthPlace: Bagdad (Imperium Osmańskie)
 deathPlace: Bagdad
 aliases: [Dżafar al-Askari]
 wikiTitles: [Dżafar_al-Askari]
+photo:
+  src: ../../assets/postacie/dzafar-al-askari.jpg
+  credit: J. S. Murry -- Baghdad
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%D8%AC%D8%B9%D9%81%D8%B1_%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A.jpg
 authors: [Natalia]
 tags: [powstanie arabskie, Sanusijja, Imperium Osmańskie, Wielka Brytania]
 sources:

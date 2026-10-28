@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Zbaraż (Galicia, Austria-Hungary)
 deathPlace: Bystra near Bielsko
 source: ignacy-daszynski
-sourceHash: 7c889fb1b3e50c456fac9077c3714fdaa352297d
+sourceHash: 08eb9c884e7d1f68d054f474f763a507c22f8f1e
 ---
 
 For more than twenty years Ignacy Daszyński was the best-known Polish socialist in the Habsburg monarchy and one of the finest orators in the Vienna parliament. In 1914, together with his political friend [Józef Piłsudski](/postacie/jozef-pilsudski), he bet on Austria-Hungary against Russia, joined the leadership of the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) and defended the Legions in Vienna and Berlin. When the hopes of solving the Polish question at the side of the Central Powers came to nothing, he demanded an independent and united Poland ever more sharply from the parliamentary rostrum. In November 1918 he headed the Lublin government, the first Polish government to call its state a republic, and after a few days handed power to Piłsudski. Throughout his life he combined socialism with patriotism, which won him the respect of some and the dislike of others, both on the right and on the far left.

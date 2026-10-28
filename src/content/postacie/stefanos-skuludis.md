@@ -10,6 +10,11 @@ birthPlace: Konstantynopol (Imperium Osmańskie)
 deathPlace: Ateny
 aliases: [Stefanos Skuludis]
 wikiTitles: [Stefanos_Skuludis]
+photo:
+  src: ../../assets/postacie/stefanos-skuludis.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Premier_Skouloudis_LCCN2014700654.jpg
 authors: [Łukasz Skowroń]
 tags: [Grecja, Konstantyn I Grecki, neutralność]
 sources:

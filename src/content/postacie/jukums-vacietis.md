@@ -10,6 +10,11 @@ birthPlace: Jaunmuiža koło Kuldīgi (Kurlandia, dziś Łotwa)
 deathPlace: Moskwa
 aliases: [Jukums Vācietis]
 wikiTitles: [Jukums_Vācietis]
+photo:
+  src: ../../assets/postacie/jukums-vacietis.jpg
+  credit: Д. И. Богданов (ок. 1880 — до 1940)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B2_%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9,_1920_%D0%B3%D0%BE%D0%B4_(cropped).jpg
 authors: [Natalia]
 tags: [Rosja, Łotwa, rewolucja październikowa, Lew Trocki]
 sources:

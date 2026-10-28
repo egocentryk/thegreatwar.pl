@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Burg Belchau, now Białochowo near Graudenz (West Prussia)
 deathPlace: Lindstedt Palace near Potsdam
 source: erich-von-falkenhayn
-sourceHash: f503ae1beb72e7497ae311d306132058ec8b12bd
+sourceHash: 58e25bd85f495a9bdfb60a446dc69cdb3a0919bd
 ---
 
 Erich von Falkenhayn led the German army for almost two years, from the defeat on the Marne to August 1916. Earlier than most German generals, he understood that Germany could not defeat all its enemies at once and that only a favourable compromise could end the war. From this conviction grew his strategy of attrition: limited offensives in the east, defence in the west and one great blow that was to break France. That blow was the Battle of Verdun, which consumed hundreds of thousands of men on both sides and brought no decision. After his dismissal Falkenhayn smashed the Romanian army within a few months, but in Palestine he failed to stop the British. To this day he remains one of the most controversial figures of the German high command.

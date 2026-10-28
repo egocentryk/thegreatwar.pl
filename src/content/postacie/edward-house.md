@@ -10,6 +10,11 @@ birthPlace: Houston (Teksas, Stany Zjednoczone)
 deathPlace: Nowy Jork
 aliases: [Edward House, Edward Mandell House]
 wikiTitles: [Edward_Mandell_House]
+photo:
+  src: ../../assets/postacie/edward-house.jpg
+  credit: William Orpen
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Colonel_Edward_M._House.jpg
 authors: [Natalia]
 tags: [Stany Zjednoczone, Woodrow Wilson, inicjatywy pokojowe]
 sources:

@@ -6,7 +6,7 @@ country: France
 birthPlace: Bourgneuf (France)
 deathPlace: Nantes
 source: adolphe-guillaumat
-sourceHash: 3306ce0f285b3f2b6ea2edf5ae97a87a44d43f36
+sourceHash: 479ee6b754512163109cf9487e065c44a358043f
 ---
 
 General Marie Louis Adolphe Guillaumat was one of those French commanders who are seldom remembered, although at key moments of the war they were entrusted with the hardest tasks. In the space of three years he rose from divisional commander to army commander. In August 1917 his Second Army carried out at Verdun one of the first successful offensives after the mutinies in the French army. He then spent half a year commanding the Allied armies in Macedonia, where he put a quarrelsome command in order and began to prepare the offensive that in the autumn of 1918 knocked Bulgaria out of the war. The fruits of this work, however, were reaped by his successor, because in June 1918, when the Germans stood on the Marne, Clemenceau summoned him to defend Paris.

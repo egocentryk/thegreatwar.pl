@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Persenbeug on the Danube (Austria)
 deathPlace: Funchal, Madeira (Portugal)
 source: karol-i-habsburg
-sourceHash: 05530be6ce84b3511655c74e3644f4417bbb433a
+sourceHash: 99d4f01525594b1682ea8b5b19abb09f5dc2fe0a
 ---
 
 Charles I was the last ruler of the Habsburg dynasty. He came to the throne in November 1916, in the middle of the war, at the age of 29, after the almost 68-year reign of his great-uncle [Franz Joseph I](/postacie/franciszek-jozef-i). From his first days he was convinced that a prolonged war would destroy the monarchy: a German victory would turn it into a satellite of the Reich, while an Entente victory threatened it with partition. He replaced almost all of his predecessor's men, took supreme command himself, restored parliament and secretly sought a separate peace with France. When in the spring of 1918 his letter to his brother-in-law, Prince Sixtus, came to light, the monarchy lost what remained of its credibility in Berlin and with the Allies. In the autumn of 1918 the state broke up into national states, and Charles, who never formally abdicated, died in exile at the age of 34. To some he was a man of goodwill, the only monarch of the warring states who truly wanted peace; to others a weak and inconsistent ruler whose ideas came too late.

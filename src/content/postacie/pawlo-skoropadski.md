@@ -10,6 +10,11 @@ birthPlace: Wiesbaden (Niemcy)
 deathPlace: Metten (Niemcy)
 aliases: [Pawło Skoropadski]
 wikiTitles: [Pawło_Skoropadski]
+photo:
+  src: ../../assets/postacie/pawlo-skoropadski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Pavlo_Skoropadsky.jpg
 authors: [Łukasz Skowroń]
 tags: [Ukraina, okupacja niemiecka, Niemcy, Rosja]
 sources:

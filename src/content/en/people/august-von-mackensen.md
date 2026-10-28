@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Leipnitz (Prussia)
 deathPlace: Burghorn near Celle
 source: august-von-mackensen
-sourceHash: 7e302c456ce1029bb4669795779f3ba1f7b626ad
+sourceHash: 0388bc1ffe3ba5c821ee588f11588c282ca2600c
 ---
 
 August von Mackensen was one of the most successful commanders of the First World War. In 1914 he commanded a corps in East Prussia and an army in Poland; in May 1915 he broke through the Russian front at Gorlice, which began the Great Retreat of the Russians; in the autumn of that year he conquered Serbia, and in 1916 he defeated Romania and took Bucharest. When the war broke out he was 65; he ended it as a field marshal and, after Hindenburg, the most popular commander in Germany. In the black uniform of the Life Hussars, with a death's head on his busby, he became a living symbol of the old Prussian army, a symbol that the propaganda of the Third Reich also exploited years later.

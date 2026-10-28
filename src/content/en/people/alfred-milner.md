@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Giessen (Grand Duchy of Hesse)
 deathPlace: Sturry Court near Canterbury
 source: alfred-milner
-sourceHash: 765c0304c7d4bd84a267b2dc54b6b3d8dac330b5
+sourceHash: 34b818d7bd8291fa4f0ca06da6dbcc55740f2135
 ---
 
 Alfred Milner, Viscount Milner, was one of the most influential and at the same time least visible men of the British war effort. He belonged formally to no party, never sat in the House of Commons and had no voters behind him, and yet from December 1916 he was one of the five members of the [War Cabinet](/gabinet-wojenny) and, alongside Andrew Bonar Law, the closest collaborator of [David Lloyd George](/postacie/david-lloyd-george). He led a mission to Tsarist Russia, chaired the work on the empire's peace aims, revised the text of the [Balfour Declaration](/deklaracja-balfoura), and in March 1918 at Doullens he signed on behalf of Britain the agreement that handed the coordination of the Allied armies to General Foch. For the last months of the war he headed the War Office.

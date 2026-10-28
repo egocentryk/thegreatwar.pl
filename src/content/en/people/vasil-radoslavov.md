@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Lovech (Ottoman Empire, now Bulgaria)
 deathPlace: Berlin (Germany)
 source: wasil-radoslawow
-sourceHash: 74acc455d46a8c94ec1c76cddc384a2d71798433
+sourceHash: 1255b9311759053466c0ce4deffbc6bbd74a6be7
 ---
 
 Vasil Radoslavov was Prime Minister of Bulgaria for almost the whole of its war, from July 1913 to June 1918, and for most of that time he also directed its diplomacy. An experienced lawyer and leader of the Liberals, known after him as Radoslavists, he had admired Germany and distrusted Russia since his youth. Together with Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) he kept the country neutral for a year while negotiating with both sides, and on 6 September 1915 he signed the alliance with Germany that hurled Bulgaria against Serbia. He fell in the spring of 1918, when the peace with Romania disappointed the Bulgarians. After the war he fled to Germany, and at home he was convicted in absentia as one of those guilty of the second national catastrophe.

@@ -10,6 +10,11 @@ birthPlace: Babele koło Izmaiłu (dziś Ukraina)
 deathPlace: Bukareszt
 aliases: [Alexandru Averescu]
 wikiTitles: [Alexandru_Averescu]
+photo:
+  src: ../../assets/postacie/alexandru-averescu.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alexandru_Averescu_-_Foto01.jpg
 authors: [Łukasz Skowroń]
 tags: [Rumunia, August von Mackensen, inicjatywy pokojowe]
 sources:

@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Pisa (Italy)
 deathPlace: Rome
 source: sidney-sonnino
-sourceHash: 2cacc3a45e8e3845a1694fbc5fa648c388c256e2
+sourceHash: b151fd9ca3f0123fe122c6f53674406b0257a016
 ---
 
 Baron Sidney Sonnino directed Italian diplomacy throughout the war, from November 1914 to June 1919, in three successive governments. Together with Prime Minister [Antonio Salandra](/postacie/antonio-salandra) he bargained with both sides over the price of Italy's participation in the war, and in April 1915 he signed with the Entente the secret Treaty of London, which promised Italy the Trentino, Trieste, Istria and part of Dalmatia. This agreement became for him the measure of everything. He defended it against the Allies, against the Yugoslav movement, against Wilson's Fourteen Points and finally at the peace conference in Paris, where he was defeated. Honest, hard-working, stern and taciturn, he was regarded as the most stubborn diplomat of his age.

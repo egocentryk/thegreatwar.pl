@@ -10,6 +10,11 @@ birthPlace: Agra (Indie Brytyjskie)
 deathPlace: Albourne Place koło Hassocks (Sussex)
 aliases: [Eric Geddes]
 wikiTitles: [Eric_Geddes]
+photo:
+  src: ../../assets/postacie/eric-geddes.jpg
+  credit: Bain
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sir_Eric_Campbell-Geddes_in_1917.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Royal Navy, okręty podwodne, Douglas Haig]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Połtawa (Ukraina)
 deathPlace: Paryż
 aliases: [Symon Petlura]
 wikiTitles: [Symon_Petlura]
+photo:
+  src: ../../assets/postacie/symon-petlura.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Symon_Petlura_1919.jpg
 authors: [Natalia]
 tags: [Ukraina, Rosja, rewolucja październikowa, Polska]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Haynau, dziś Chojnów (Śląsk, dziś Polska)
 deathPlace: Bad Saarow (Brandenburgia)
 aliases: [Georg Michaelis]
 wikiTitles: [Georg_Michaelis]
+photo:
+  src: ../../assets/postacie/georg-michaelis.jpg
+  credit: Bundesarchiv, Bild 183-2004-0720-500
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2004-0720-500,_Georg_Michaelis.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, polityka wewnętrzna, inicjatywy pokojowe]
 sources:

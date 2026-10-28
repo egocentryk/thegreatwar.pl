@@ -6,7 +6,7 @@ country: Estonia
 birthPlace: Tahkuranna (Estonia)
 deathPlace: Burashevo (Kalinin Oblast, USSR)
 source: konstantin-pats
-sourceHash: 0197314f6a99a227640be7a493b1416c81fa4bd5
+sourceHash: ddcd6cb3d409d85a998939001bc7dcc630fa9029
 ---
 
 Konstantin Päts was one of the founding fathers of the Estonian state, which was born in the last year of the Great War between two occupations: Bolshevik and German. In 1917 he became head of the government of autonomous Estonia, and in February 1918, as a member of the three-man Salvation Committee, he proclaimed the independence of the republic and became Prime Minister of its Provisional Government. The Germans, who entered Tallinn the next day, recognised neither the state nor the government, and in June they arrested Päts and sent him to a camp. When the Reich lost the war in November 1918, he returned to lead the defence of the country against the Red Army. He looked to the Entente for support: Estonian politicians counted on the support of the Western powers, which were the first to recognise their assembly de facto. The republic itself, proclaimed in February 1918, declared neutrality towards all its neighbours.

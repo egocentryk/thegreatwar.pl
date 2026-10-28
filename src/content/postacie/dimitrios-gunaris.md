@@ -10,6 +10,11 @@ birthPlace: Patras (Grecja)
 deathPlace: Ateny
 aliases: [Dimitrios Gunaris]
 wikiTitles: [Dimitrios_Gunaris]
+photo:
+  src: ../../assets/postacie/dimitrios-gunaris.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Dimitrios_Gounaris.jpg
 authors: [Natalia]
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos]
 sources:

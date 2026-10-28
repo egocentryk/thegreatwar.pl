@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Sandringham (Anglia)
 aliases: [Jerzy V]
 wikiTitles: [Jerzy_V, Jerzy_V_Windsor]
+photo:
+  src: ../../assets/postacie/jerzy-v.jpg
+  credit: Bassano Ltd
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg
 authors: [Łukasz Skowroń]
 tags: [Jerzy V, Wielka Brytania, Douglas Haig, Wilhelm II]
 sources:

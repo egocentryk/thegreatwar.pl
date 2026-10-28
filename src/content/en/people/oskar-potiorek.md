@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Bad Bleiberg (Carinthia)
 deathPlace: Klagenfurt
 source: oskar-potiorek
-sourceHash: 80a24408e49b0c4821302419e6e303e4f0e25c9d
+sourceHash: a6d1b36cacacff2f5f764c7746ecdeed1271382d
 ---
 
 Oskar Potiorek was the man who failed the Habsburg monarchy twice in a single year. On 28 June 1914, as governor of Bosnia and Herzegovina, he was sitting in the car with Archduke Franz Ferdinand when the fatal shots were fired in Sarajevo. A few weeks later he took command of the troops that were to punish Serbia for the assassination. Between August and December 1914 he invaded Serbia three times and three times had to withdraw. Defeat on the Kolubara ended his career. He is regarded as one of the weakest commanders of the first year of the war, although historians point out that mistakes were also being made at the time in Vienna and in the high command.

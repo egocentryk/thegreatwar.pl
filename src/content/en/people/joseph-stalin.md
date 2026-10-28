@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Gori, Tiflis Governorate (Russian Empire)
 deathPlace: Kuntsevo near Moscow
 source: jozef-stalin
-sourceHash: 05e454c0b0f680966b4c508ca969eec22b1453da
+sourceHash: 8e6b6f55f98947ff88f2ba9ab8e829008712aa75
 ---
 
 Iosif Vissarionovich Dzhugashvili, known by the pseudonym Stalin, was a secondary figure in the years of the First World War. He spent almost the entire war in exile beyond the Arctic Circle, and the people who knew him in 1917 associated him with quiet editorial and party work rather than with rallies and the seizure of power. Even so, by November 1917 he already belonged to the narrow circle of Bolshevik leaders. As People's Commissar for Nationalities he dealt with Finland, Ukraine and the other nations breaking away from Russia; in the dispute over the Brest peace he stood by [Vladimir Lenin](/postacie/wlodzimierz-lenin); and in the summer and autumn of 1918, in the defence of Tsaritsyn on the Volga, he wielded power over troops and the apparatus of terror for the first time. He was on the Entente side only formally: the government he belonged to took Russia out of the war and concluded a separate peace with Germany. The future dictator of the Soviet Union is described here above all as a participant in those events.

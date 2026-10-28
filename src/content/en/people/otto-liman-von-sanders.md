@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Stolp (Prussia)
 deathPlace: Munich
 source: otto-liman-von-sanders
-sourceHash: 8379da5a4366e487bc18cd3077eb641e7710965c
+sourceHash: f9cdeb1fedc7c98601732e8cd8193f83ace1e342
 ---
 
 Otto Liman von Sanders spent the whole of the First World War in Turkish service. He came to Constantinople at the end of 1913 as head of the German military mission that was to reform the Ottoman army after its defeats in the Balkan Wars, and his very arrival set off an international crisis. In 1915 he commanded the Fifth Army, which defended the Gallipoli peninsula against the Allied landing, Turkey's greatest victory of the war. In 1918 he took over the front in Palestine and Syria, where his armies were routed by the British at Megiddo. He was the only senior German commander to lead Ottoman troops throughout the war, and his relations with the Turkish leaders and with German diplomats were almost always strained.

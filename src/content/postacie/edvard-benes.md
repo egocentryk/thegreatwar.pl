@@ -10,6 +10,11 @@ birthPlace: Kožlany (Czechy)
 deathPlace: Sezimovo Ústí (Czechosłowacja)
 aliases: [Edvard Beneš]
 wikiTitles: [Edvard_Beneš]
+photo:
+  src: ../../assets/postacie/edvard-benes.jpg
+  credit: United States Office of War Information
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Edvard_Bene%C5%A1.jpg
 authors: [Natalia]
 tags: [Czechosłowacy, Francja, Wielka Brytania, Austro-Węgry]
 sources:

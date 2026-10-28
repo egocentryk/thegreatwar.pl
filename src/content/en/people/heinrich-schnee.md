@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Neuhaldensleben (Germany)
 deathPlace: Berlin
 source: heinrich-schnee
-sourceHash: 8ee42e873c8d72606a5c6fccdb87d9065bbde454
+sourceHash: 8074af92d52efaa8d7375368d2b66a8a1a9a5adb
 ---
 
 Heinrich Schnee was the last governor of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), the largest and most populous colony of the Reich. A civil servant, lawyer and administrator, in August 1914 he tried to keep the colony out of the war and concluded a truce with the British which the commander of the colonial forces, [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), regarded as humiliating. The dispute between the two men over whether the colony should merely defend itself or fight was settled by Lettow-Vorbeck's victories. The governor, formally the superior of the military, withdrew more and more into the background, and from 1916 he wandered through the bush with the army until the surrender in November 1918. After the war he became the leading advocate of Germany's recovery of its colonies.

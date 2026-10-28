@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Brackenhurst (England)
 deathPlace: London
 source: edmund-allenby
-sourceHash: af8c89889d4e43f10956c8a5487ef2d2315605ee
+sourceHash: a8c6b5d48e7c6426ecc991b714308a342fe4d5bb
 ---
 
 Sir Edmund Allenby, a field marshal and Viscount Allenby of Megiddo from 1919, had two wars. On the Western Front he was one of many British generals: he commanded a division, then a cavalry corps, an infantry corps and an army, and his greatest battle, at Arras in the spring of 1917, began brilliantly and ended like all the others, amid mounting losses. He was regarded as a hot-tempered and obstinate commander, and Haig, his rival since their Staff College days, eventually got rid of him. Sent to Egypt, Allenby proved to be one of the best commanders of the war. He took Jerusalem before Christmas 1917, as the Prime Minister wanted, and in September 1918 at Megiddo he crushed the Turkish armies in Palestine in one of the most brilliant operations of the entire war. By the autumn of 1918 his troops were in Damascus and Aleppo, and the Ottoman Empire was asking for an armistice.

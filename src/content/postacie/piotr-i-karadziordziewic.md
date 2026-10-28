@@ -10,6 +10,11 @@ birthPlace: Belgrad (Serbia)
 deathPlace: Belgrad
 aliases: [Piotr I Karadziordziewić]
 wikiTitles: [Piotr_I_Karadziordziewić]
+photo:
+  src: ../../assets/postacie/piotr-i-karadziordziewic.jpg
+  credit: Uroš Predić
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Petar_I_Kara%C4%91or%C4%91evi%C4%87.jpg
 authors: [Łukasz Skowroń]
 tags: [Serbia, Aleksander Karađorđević, Nikola Pašić]
 sources:

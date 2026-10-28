@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Karaul, Tambov Governorate (Russian Empire)
 deathPlace: Moscow
 source: gieorgij-cziczerin
-sourceHash: 52e40f8754d3ac2d154a3bc815a3b185efda9ef5
+sourceHash: 3c5def85efce517b4bd0859e4595d1c2d5e8d6c6
 ---
 
 Georgy Chicherin was the most unusual of the men who ruled Soviet Russia in 1918. A descendant of old nobility, related to Pushkin, a polyglot and a connoisseur of Mozart and Wagner, he had begun his career in the archive of the tsarist foreign ministry. Throughout the war he was an émigré and an opponent of the war, and in London he ended up in prison. He returned to Russia in January 1918, rose in March from deputy to [Leon Trotsky](/postacie/lew-trocki) to head of Soviet diplomacy, and remained so for twelve years. In 1918 his task was to keep the [Brest peace](/traktat-brzeski) alive: to give way to the Germans as much as was needed to stop them resuming the war, and to protest against Entente landings without breaking with the Entente altogether. He was on the Entente side only formally: the government he served had taken Russia out of the war.

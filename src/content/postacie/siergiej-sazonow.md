@@ -10,6 +10,11 @@ birthPlace: Gubernia riazańska (Imperium Rosyjskie)
 deathPlace: Nicea (Francja)
 aliases: [Siergiej Sazonow]
 wikiTitles: [Siergiej_Sazonow]
+photo:
+  src: ../../assets/postacie/siergiej-sazonow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sergei_Dmitrievich_Sazonov_(cropped).jpg
 authors: [Łukasz Skowroń]
 tags: [Siergiej Sazonow, Rosja, Królestwo Polskie]
 sources:

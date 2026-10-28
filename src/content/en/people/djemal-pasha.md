@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Mytilene on Lesbos (Ottoman Empire)
 deathPlace: Tiflis (Georgia)
 source: dzemal-pasza
-sourceHash: 5649c126f8da4e504ec0cb208291c90807c9dcb0
+sourceHash: f5f4517c201e902796c2b7310f5d1f9e3a12f7ce
 ---
 
 Ahmed Djemal, known as Djemal Pasha (in Turkish Cemal Paşa), was, together with the minister of war Enver and the minister of the interior Talat, one of the three Young Turk leaders who ruled the Ottoman Empire during the Great War. He was minister of the navy throughout the war, but played a more important role as commander of the Fourth Army and almost autocratic governor of Syria, which then also included Lebanon and Palestine. Twice he sent troops against the Suez Canal, and from 1916 he fought the Arab Revolt and the British in Palestine. The Arabs remembered him as "al-Saffah", the Butcher, for the executions of nationalist activists in Beirut and Damascus. His role in the Armenian genocide is disputed by historians. He was killed in 1922 in Tiflis by Armenian assassins.

@@ -10,6 +10,11 @@ birthPlace: Symbirsk (Imperium Rosyjskie)
 deathPlace: Nowy Jork (Stany Zjednoczone)
 aliases: [Aleksander Kiereński]
 wikiTitles: [Aleksander_Kiereński]
+photo:
+  src: ../../assets/postacie/aleksander-kierenski.jpg
+  credit: Karl Bulla
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Karenskiy_AF_1917.jpg
 authors: [Łukasz Skowroń]
 tags: [Aleksander Kiereński, Rosja, rewolucja lutowa, rewolucja październikowa]
 sources:

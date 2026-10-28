@@ -10,6 +10,11 @@ birthPlace: Temeszwar (dziś Timișoara, Rumunia)
 deathPlace: Wiedeń
 aliases: [Hermann Kövess]
 wikiTitles: [Hermann_Kövess_von_Kövesshaza]
+photo:
+  src: ../../assets/postacie/hermann-kovess.jpg
+  credit: K.u.k. Kriegspressequartier, Lichtbildstelle - Wien
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:F.M.v._K%C3%B6vess_(BildID_15718304).jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Serbia, Czarnogóra, Bukowina]
 sources:

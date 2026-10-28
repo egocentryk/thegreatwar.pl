@@ -10,6 +10,11 @@ birthPlace: Darmstadt (Wielkie Księstwo Hesji)
 deathPlace: Ruhpolding (Bawaria)
 aliases: [Georg von Hertling]
 wikiTitles: [Georg_von_Hertling]
+photo:
+  src: ../../assets/postacie/georg-von-hertling.jpg
+  credit: Bruckmann, F
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Georg_von_Hertling.jpeg
 authors: [Natalia]
 tags: [Georg von Hertling, Niemcy, polityka wewnętrzna]
 sources:

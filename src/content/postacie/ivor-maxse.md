@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Midhurst (Anglia)
 aliases: [Ivor Maxse]
 wikiTitles: [Ivor_Maxse]
+photo:
+  src: ../../assets/postacie/ivor-maxse.jpg
+  credit: Francis Dodd
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Generals_of_the_British_Army_-_Lieut-Gen._Sir_F._Ivor_Maxse.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 sources:

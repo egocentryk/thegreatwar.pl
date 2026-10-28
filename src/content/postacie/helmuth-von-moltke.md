@@ -10,6 +10,11 @@ birthPlace: Gersdorf (Meklemburgia)
 deathPlace: Berlin
 aliases: [Helmuth von Moltke]
 wikiTitles: [Helmuth_Johannes_Ludwig_von_Moltke]
+photo:
+  src: ../../assets/postacie/helmuth-von-moltke.jpg
+  credit: E. Bieber
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Generalleutnant_von_Moltke,_der_neue_Chef_des_Generalstabs,_1906_(cropped).jpg
 authors: [Natalia]
 tags: [Helmuth von Moltke, Niemcy, Wilhelm II]
 sources:

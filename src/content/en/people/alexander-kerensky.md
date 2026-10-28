@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Simbirsk (Russian Empire)
 deathPlace: New York (United States)
 source: aleksander-kierenski
-sourceHash: 1fd3be894001d59605d10b2ea570c87265855e2f
+sourceHash: 98b4ccd86a457d866fb2b61155f07ba2871e7ecd
 ---
 
 Alexander Fyodorovich Kerensky was the most popular man in Russia in the spring of 1917 and the most hated by the autumn of the same year. A lawyer, a defence counsel in political trials and a socialist deputy in the Duma, during the [February Revolution](/rewolucja-lutowa) he was the only man to sit both in the Provisional Government and in the leadership of the Petrograd Soviet. He was in turn minister of justice, minister of war and prime minister, and finally supreme commander as well. He wanted revolutionary Russia to keep faith with its allies and to fight on until a general peace without annexations. He staked everything on an [offensive](/bitwy/ofensywa-kierenskiego) that ended in defeat, and in his quarrel with General [Lavr Kornilov](/postacie/lawr-kornilow) he lost the trust of both the army and the left. In November 1917 he was overthrown by the [Bolsheviks](https://pl.wikipedia.org/wiki/Bolszewicy), who soon took Russia out of the war. He spent the rest of his long life in exile, explaining why he had lost.

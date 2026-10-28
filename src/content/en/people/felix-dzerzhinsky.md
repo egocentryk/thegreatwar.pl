@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Dzierżynowo, Vilna Governorate (Russian Empire)
 deathPlace: Moscow
 source: feliks-dzierzynski
-sourceHash: 8957464817bfa6b72d9dd458756d089e67a81a92
+sourceHash: 31a1f32ba59e77b23d26005ff8bc9fba8c03db82
 ---
 
 Felix Dzerzhinsky, a Pole from a noble family near Vilna, spent the first years of the war in tsarist prisons and in katorga. He was freed only by the [February Revolution](/rewolucja-lutowa). Nine months later he was at the head of the [Cheka](/powolanie-czeka), the All-Russian Extraordinary Commission, which the government of [Vladimir Lenin](/postacie/wlodzimierz-lenin) set up to fight counter-revolution and sabotage. In 1918 he turned an office of a few dozen people in Petrograd into a powerful political police with the right to arrest, try and shoot without trial, and in the autumn he directed the [Red Terror](/czerwony-terror). In the dispute over the Brest peace he sided with Lenin's opponents, and in July his own institution became the instrument of an assassination of the German envoy. He was on the side of the Entente only formally: the government he served took Russia out of the war.

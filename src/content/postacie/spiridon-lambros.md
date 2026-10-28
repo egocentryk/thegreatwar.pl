@@ -10,6 +10,11 @@ birthPlace: Korfu (Wyspy Jońskie, dziś Grecja)
 deathPlace: Ateny
 aliases: [Spiridon Lambros]
 wikiTitles: [Spiridon_Lambros]
+photo:
+  src: ../../assets/postacie/spiridon-lambros.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Spyridon_Lampros_1896.jpg
 authors: [Natalia]
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos]
 sources:

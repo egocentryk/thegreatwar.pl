@@ -6,7 +6,7 @@ country: United States
 birthPlace: Staunton (Virginia, United States)
 deathPlace: Washington, D.C.
 source: woodrow-wilson
-sourceHash: 2ba3ce32112b97be2cbc13e226507791f6e25bac
+sourceHash: ed7891654bd579ee6837325b06cb6e71bfd61199
 ---
 
 Thomas Woodrow Wilson, a professor of history and political science who became President of the United States, was one of the few figures of this war whose influence reached far beyond the battlefield. For two and a half years he kept his country neutral, arguing in endless notes with Germany over submarine warfare and with Britain over the blockade, and he tried to mediate between the belligerents. In April 1917 he took America into the war, which, thanks to its men, money and industry, ended a year and a half later in Germany's defeat. His Fourteen Points became the best-known peace programme of the age and, for Poles, Czechs, Slovaks and Yugoslavs, a promise of freedom. At the Paris Peace Conference Wilson brought the League of Nations into being, but his own country rejected the Treaty of Versailles, and he himself, paralysed after a stroke, ended his presidency a broken man.

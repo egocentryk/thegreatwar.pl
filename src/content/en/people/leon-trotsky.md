@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Yanovka, Kherson Governorate (Russian Empire)
 deathPlace: Coyoacán (Mexico)
 source: lew-trocki
-sourceHash: 55937fefdd28a0fe094c386b5cba5effb7c9fee3
+sourceHash: 22dcc19d394ca82d9116d869116e057ada45344a
 ---
 
 Lev Davidovich Bronstein, who went down in history under the pseudonym Trotsky, was, alongside [Vladimir Lenin](/postacie/wlodzimierz-lenin), the most important leader of the October Revolution. In the First World War he appeared in three roles. Until 1917 he was an émigré, a journalist and an opponent of the war, the author of the Zimmerwald manifesto. In the autumn of 1917, as chairman of the Petrograd Soviet, he prepared the coup that gave power to the Bolsheviks. Then, as commissar for foreign affairs, he conducted the negotiations with the Central Powers at Brest-Litovsk and proclaimed the famous formula "neither war nor peace", which ended in a German offensive and a peace even harsher than the one he had rejected. From March 1918 he built the Red Army from scratch. He was on the side of the Entente only formally: together with Lenin he took Russia out of the war, breaking its obligations to its allies.

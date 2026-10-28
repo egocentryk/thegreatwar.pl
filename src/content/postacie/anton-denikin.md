@@ -10,6 +10,11 @@ birthPlace: Szpetal Dolny pod Włocławkiem (Królestwo Polskie)
 deathPlace: Ann Arbor (Stany Zjednoczone)
 aliases: [Anton Denikin]
 wikiTitles: [Anton_Denikin]
+photo:
+  src: ../../assets/postacie/anton-denikin.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Denikin1.PNG
 authors: [Natalia]
 tags: [Rosja, Ławr Korniłow, rewolucja lutowa, rewolucja październikowa]
 sources:

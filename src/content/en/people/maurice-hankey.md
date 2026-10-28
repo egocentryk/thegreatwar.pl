@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Biarritz (France)
 deathPlace: Redhill (England)
 source: maurice-hankey
-sourceHash: 856e79158ebedb3e640be4b7830a90e88404df47
+sourceHash: b5aba27dae02aa0334d06c2101df1d07e14b9c5e
 ---
 
 Maurice Hankey commanded no army and headed no ministry, and yet few people knew as much as he did about Britain's conduct of the war. Throughout the war he was secretary of the successive bodies that directed it: the War Council, the Dardanelles Committee, the War Committee and finally the War Cabinet of [David Lloyd George](/postacie/david-lloyd-george). He kept the minutes, drew up the agenda, drafted the resolutions of Allied conferences and made sure that government decisions reached the ministries. The British Cabinet Office grew out of his secretariat. He was also an unofficial adviser to two prime ministers, and ideas ranging from the Dardanelles expedition to tanks and convoys passed through his hands.

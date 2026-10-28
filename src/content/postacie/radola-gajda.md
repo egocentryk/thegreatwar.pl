@@ -10,6 +10,11 @@ birthPlace: Kotor (Dalmacja, Austria)
 deathPlace: Praga
 aliases: [Radola Gajda]
 wikiTitles: [Radola_Gajda]
+photo:
+  src: ../../assets/postacie/radola-gajda.jpg
+  credit: neznamy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Gajda-portret.JPG
 authors: [Natalia]
 tags: [Czechosłowacy, Rosja, rewolucja październikowa]
 sources:

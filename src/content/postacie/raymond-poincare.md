@@ -10,6 +10,11 @@ birthPlace: Bar-le-Duc (Francja)
 deathPlace: Paryż
 aliases: [Raymond Poincaré]
 wikiTitles: [Raymond_Poincaré]
+photo:
+  src: ../../assets/postacie/raymond-poincare.jpg
+  credit: Braun
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Raymond_Poincar%C3%A9_officiel_(cropped).jpg
 authors: [Natalia]
 tags: [Raymond Poincaré, Francja, Georges Clemenceau]
 sources:

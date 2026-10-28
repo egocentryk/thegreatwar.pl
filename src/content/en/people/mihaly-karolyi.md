@@ -6,7 +6,7 @@ country: Hungary
 birthPlace: Budapest (Hungary)
 deathPlace: Vence (France)
 source: mihaly-karolyi
-sourceHash: 1ed24019ed8a217bce57acdfca4f4a536c4bd779
+sourceHash: e47010bf090f706b56d91797d39c7c581a50b76a
 ---
 
 Count Mihály Károlyi, one of the richest men in Hungary, was during the war the chief opponent of [István Tisza](/postacie/istvan-tisza)'s policy and the best-known Hungarian advocate of peace and of an understanding with the Entente. For the first years of the war he was a second-rank politician, but once the country had grown weary of the war, his slogans of a separate peace, a break with the German alliance and democratic reform brought him great popularity. In the last days of October 1918 the [Aster Revolution](/rewolucja-w-wiedniu-i-budapeszcie) carried him to power. As prime minister he broke the union with Austria, took Hungary out of the war and in November became head of the [Hungarian People's Republic](/niepodleglosc-wegier). Formally, then, he belonged to the camp of the Central Powers, but in 1918 it was he who broke Hungary away from them. He hoped that the victors would treat a democratic Hungary leniently. He was disappointed, and after less than five months in power he had to step down. He remains to this day one of the most controversial figures in Hungarian history.

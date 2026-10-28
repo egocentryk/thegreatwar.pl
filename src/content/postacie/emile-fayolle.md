@@ -10,6 +10,11 @@ birthPlace: Le Puy-en-Velay (Francja)
 deathPlace: Paryż
 aliases: [Émile Fayolle]
 wikiTitles: [Marie_Émile_Fayolle]
+photo:
+  src: ../../assets/postacie/emile-fayolle.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Marie_%C3%89mile_Fayolle_(1852_%E2%80%93_1928)_.jpg
 authors: [Natalia]
 tags: [Francja, Ferdinand Foch, Philippe Pétain, Włochy]
 sources:

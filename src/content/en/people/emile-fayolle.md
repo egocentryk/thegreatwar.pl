@@ -6,7 +6,7 @@ country: France
 birthPlace: Le Puy-en-Velay (France)
 deathPlace: Paris
 source: emile-fayolle
-sourceHash: 183c084ec451a2ed9a638f0760ff8c9f4c45e3ac
+sourceHash: 2aa60bd7af3bb736a4ae6603aa1aae85b5aa83e3
 ---
 
 Marie Émile Fayolle was 62 years old and had been retired for three months when he was recalled to the army in August 1914. Four years later he commanded an army group which in March 1918 helped to stop the German offensive towards Amiens and Paris, and in the summer and autumn drove the Germans back from the Marne towards the frontier. Along the way he led the French 6th Army in the Battle of the Somme, Army Group Centre in the difficult year of the mutinies, and the French forces sent to help Italy after Caporetto. He was a gunner and a teacher, cautious and methodical, convinced that the front had to be taken position by position rather than in a single assault. The diary he kept throughout the war, published in 1964, is among the most interesting French testimonies of those years.

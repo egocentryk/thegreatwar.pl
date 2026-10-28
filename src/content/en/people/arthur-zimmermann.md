@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Marggrabowa, now Olecko (East Prussia, now Poland)
 deathPlace: Berlin
 source: arthur-zimmermann
-sourceHash: 7c124f745717957a5f7210a90df9713c4de2c70d
+sourceHash: ce7c820ce163af53dd6ab82aadd7fea79474544c
 ---
 
 Arthur Zimmermann headed German diplomacy for less than nine months, from November 1916 to August 1917, but his name is known to anyone who has read about America's entry into the war. In January 1917 he signed a telegram proposing to Mexico an alliance against the United States and the recovery of Texas, New Mexico and Arizona. British intelligence intercepted and decoded it, and when the Americans published it, Zimmermann himself confirmed that it was genuine. Earlier, as Under-Secretary of State, he had for years been the real driving force of the Foreign Office: in July 1914 he assured the Austrians of German support, and during the war he backed plans to stir up revolts and revolutions behind the enemy's lines, from Ireland to Russia. He was the first man in the history of the Reich without noble origins to head its diplomacy.

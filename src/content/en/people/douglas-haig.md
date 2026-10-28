@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Edinburgh (Scotland)
 deathPlace: London
 source: douglas-haig
-sourceHash: 8a03614b422c6892d16b81e8cbbf9b69f0e52268
+sourceHash: 13743ccf5d32e60f40297b0bd64642de67ad89dd
 ---
 
 Sir Douglas Haig, a field marshal from 1917 and Earl Haig from 1919, commanded the largest army in British history for three years, from December 1915 to the end of the war. At its peak nearly two million soldiers from the British Isles and the Dominions fought under his orders on the Western Front. He led them into the [Battle of the Somme](/bitwy/bitwa-nad-somma), at Arras and Passchendaele, survived the German offensive in the spring of 1918, and in the autumn led the victorious attacks that forced Germany to ask for an armistice. No other British commander of the war arouses such controversy. To some he was the architect of victory, to others a "butcher" who sent hundreds of thousands of men to their deaths in the hope of a breakthrough that never came.

@@ -6,7 +6,7 @@ country: Greece
 birthPlace: Corfu (Ionian Islands, now Greece)
 deathPlace: Athens
 source: spiridon-lambros
-sourceHash: 3ee51d149b1daf323ab75f42c0cc84ae032f44b3
+sourceHash: 597b6796747ad0569d743cacafca0269cc6626bd
 ---
 
 Spyridon Lambros was one of the most distinguished Greek scholars of his age, and he went down in the history of the war as the prime minister who for seven months led the royalist part of a divided Greece. He was neither a politician nor a deputy. King [Constantine I](/postacie/konstantyn-i) appointed him in October 1916, when a rival government of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) was taking shape in Salonika and the Entente powers did not want to deal with any party cabinet. His government accepted a succession of ultimatums from a French admiral, lived through bloody fighting in Athens and the blockade of the country, and in the end apologised to the Allies. To the King's supporters he was a respected professor who, in a hopeless position, defended what remained of the state's independence. To the Venizelists and to most of the French he was merely an obedient tool of the court. After Constantine was removed from the throne he paid for it with exile and the confiscation of his property.

@@ -6,7 +6,7 @@ country: France
 birthPlace: Mouilleron-en-Pareds (France)
 deathPlace: Paris
 source: georges-clemenceau
-sourceHash: 7e6b38d0d24d188654563dd0a53e19db15001728
+sourceHash: 19baf89961c4195f0fcee05b4084dfcbf87c633f
 ---
 
 Georges Clemenceau took over the government of France in November 1917, at the worst moment of the war. The army had barely recovered from the mutinies, Russia was dropping out of the war, the Italians were retreating after Caporetto, and the country was living on spy scandals and rumours of a compromise peace. For three years the 76-year-old radical, a doctor by training and a journalist by inclination, had been the fiercest critic of successive cabinets. As prime minister and minister of war he promised "war, nothing but war": he dealt with politicians suspected of defeatism, restored confidence in the government and, in the spring of 1918, during the great German offensives, supported giving General Foch command over the Allied armies. The French called him the "Father of Victory" ("Père la Victoire"). As president of the peace conference in Paris he was one of the makers of the Treaty of Versailles, which some considered too harsh and others, including he himself at the end of his life, too weak.

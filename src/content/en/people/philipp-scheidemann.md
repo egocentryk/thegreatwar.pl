@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Kassel (Prussia)
 deathPlace: Copenhagen
 source: philipp-scheidemann
-sourceHash: a3c00fc17cd0a8f9c746c622186125da5e616f56
+sourceHash: cd759bcfefa2fcc3358549e9c2c048e8762526b3
 ---
 
 Philipp Scheidemann, a printer from Kassel who became one of the finest speakers in the German parliament, was throughout the war, alongside Friedrich Ebert, the most important leader of the [Social Democratic Party of Germany](https://pl.wikipedia.org/wiki/Socjaldemokratyczna_Partia_Niemiec). He supported the war credits, but more loudly than anyone else in the party he demanded peace without annexations, so that his name became a slogan: the "Scheidemann peace". In October 1918 he became the first Social Democrat in history to enter the Reich government. On 9 November 1918, without consulting Ebert, he proclaimed the German republic from a window of the Reichstag. That single gesture made him a symbol of the new state and, in the eyes of his enemies, a symbol of the "November betrayal".

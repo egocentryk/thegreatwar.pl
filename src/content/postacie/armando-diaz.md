@@ -10,6 +10,11 @@ birthPlace: Neapol (Włochy)
 deathPlace: Rzym
 aliases: [Armando Diaz]
 wikiTitles: [Armando_Diaz]
+photo:
+  src: ../../assets/postacie/armando-diaz.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Armando_Diaz_cropped_111-SC-44886_-_NARA_-_55248534.jpg
 authors: [Łukasz Skowroń]
 tags: [Armando Diaz, Włochy, Austro-Węgry, Luigi Cadorna]
 sources:

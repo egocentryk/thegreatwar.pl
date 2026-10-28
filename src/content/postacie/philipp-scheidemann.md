@@ -10,6 +10,11 @@ birthPlace: Kassel (Prusy)
 deathPlace: Kopenhaga
 aliases: [Philipp Scheidemann]
 wikiTitles: [Philipp_Scheidemann]
+photo:
+  src: ../../assets/postacie/philipp-scheidemann.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1979-122-29A,_Philipp_Scheidemann.jpg
 authors: [Natalia]
 tags: [Niemcy, Socjaldemokratyczna Partia Niemiec, rewolucja listopadowa, inicjatywy pokojowe]
 sources:

@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Danzig (Prussia)
 deathPlace: Besenhausen near Göttingen
 source: otto-von-below
-sourceHash: 1582edcadff4d1f51aa6ac51d2e371b4dc715936
+sourceHash: 33fd2268f4e0c168a235afce8ae914d2bf7fe75c
 ---
 
 Otto von Below commanded on more fronts in the First World War than almost any other German general. He fought in East Prussia in 1914, led the advance into Lithuania and Courland in 1915, defended the Macedonian front in 1916 and Arras in 1917, and in March 1918 his army struck in the great Spring Offensive. His name, however, is associated above all with one battle: in October 1917 the German and Austro-Hungarian 14th Army under his command broke through the Italian front at Caporetto and threw the Italians back as far as the Piave. He is sometimes confused with his cousin, General Fritz von Below, who in 1916 commanded the German defence on the Somme.

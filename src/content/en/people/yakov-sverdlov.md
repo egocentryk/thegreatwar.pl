@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Nizhny Novgorod (Russian Empire)
 deathPlace: Moscow
 source: jakow-swierdlow
-sourceHash: 34abf11a559216304c8591c540ab771d2e1ffe69
+sourceHash: c98bc568030594379ad9b28aa3bcec26b744c629
 ---
 
 Yakov Sverdlov was the most important organiser of the Bolshevik party in 1917 and 1918 and the man who turned a collection of resolutions into a working apparatus of power. He was neither a theorist nor a great orator, but he remembered hundreds of names and biographies of activists and knew whom to send where. From November 1917 he chaired the [All-Russian Central Executive Committee](https://pl.wikipedia.org/wiki/Wszechrosyjski_Centralny_Komitet_Wykonawczy), and was thus formally the Soviet head of state, while at the same time running the party secretariat. In this double role he opened and dispersed the Constituent Assembly, gathered a majority for the Brest peace for [Vladimir Lenin](/postacie/wlodzimierz-lenin), received the credentials of the German envoy and signed the acts that justified the murder of the imperial family and the Red Terror. He was on the side of the Entente only formally: the government he helped to build took Russia out of the war. He died in March 1919, aged 33.

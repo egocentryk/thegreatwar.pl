@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Darmstadt (Grand Duchy of Hesse)
 deathPlace: Ruhpolding (Bavaria)
 source: georg-von-hertling
-sourceHash: da0a0b10e5d992495e8fe250b6c0c763df4a69a8
+sourceHash: 990591125990b9b31cd802a28f762d0ff3571d38
 ---
 
 Count Georg von Hertling was the penultimate chancellor of Imperial Germany. He took office on 1 November 1917, at the age of 74, and held it for eleven months, which brought Germany the greatest triumph and the greatest defeat of the war: the peace of Brest with Russia, the great spring offensive in the west, and then retreat and the request for an armistice. He was a Catholic philosopher, a professor in Munich, for many years a deputy and leader of the Centre Party, and from 1912 Minister-President of Bavaria. He was the first Reich Chancellor to come from a political party, and the first to agree a programme with the Reichstag majority before taking office, although he himself was an opponent of parliamentary government. Faced with the Supreme Army Command of [Paul von Hindenburg](/postacie/paul-von-hindenburg) and [Erich Ludendorff](/postacie/erich-ludendorff), however, he was almost powerless.

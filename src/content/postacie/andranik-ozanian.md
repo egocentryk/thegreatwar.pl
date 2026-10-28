@@ -10,6 +10,11 @@ birthPlace: Şebinkarahisar (Imperium Osmańskie)
 deathPlace: Richardson Springs (Kalifornia, Stany Zjednoczone)
 aliases: [Andranik Ozanian, Andranik]
 wikiTitles: [Andranik_Ozanian]
+photo:
+  src: ../../assets/postacie/andranik-ozanian.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:General_Andranik.jpg
 authors: [Natalia]
 tags: [Armenia, Kaukaz, ludobójstwo Ormian]
 sources:

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Agra (British India)
 deathPlace: Albourne Place near Hassocks (Sussex)
 source: eric-geddes
-sourceHash: 5204841ef702bc15d96b42d99da5409190628738
+sourceHash: c6921860bb017c8b2d4dfe108789d068b806628c
 ---
 
 Sir Eric Geddes was the best known of the "men of push and go" whom [David Lloyd George](/postacie/david-lloyd-george) brought from business into public service during the war. He was neither a soldier, nor a sailor, nor a politician, but a railwayman and manager, and yet within three years he held the honorary ranks of major-general and vice-admiral, sorted out the rear services of the British Army in France and stood at the head of the Admiralty at the most difficult stage of the submarine war. His name, however, is associated above all with two controversies: the unceremonious removal of Admiral Jellicoe on Christmas Eve 1917, and the slogan that Germany should be "squeezed like a lemon".

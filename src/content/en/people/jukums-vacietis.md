@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Jaunmuiža near Kuldīga (Courland, now Latvia)
 deathPlace: Moscow
 source: jukums-vacietis
-sourceHash: 55ed197b1fcd9534754cade0d4e113f1c5a9d5d9
+sourceHash: 34dbf42be9bf1916a0e3f61a7334b8597bd3f0ae
 ---
 
 Jukums Vācietis, known in Russia as Ioakim Vatsetis, was a Latvian officer of the Tsarist army who rose from commanding a rifle battalion at Riga to become commander-in-chief of the Red Army. In 1915–1917 his 5th Zemgale Latvian Rifle Regiment was among the best units of the Russian 12th Army, which held the line of the Daugava. After the revolution Vācietis, although he never joined the party, sided with the Bolsheviks, and his Latvians became their most reliable troops. In 1918 he fought the Polish corps of Dowbor-Muśnicki, crushed the revolt of the Left Socialist Revolutionaries in Moscow, commanded the front against the Czechoslovaks on the Volga, and from September was the first commander-in-chief of the armed forces of the Soviet republic. The Bolsheviks, who took Russia out of the war with Germany, built their army largely through former Tsarist officers like him. He died in 1938, shot during the Great Purge.

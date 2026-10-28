@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Simferopol (Crimea)
 deathPlace: Moscow
 source: adolf-ioffe
-sourceHash: 7df99caaeb8ac0c391d3de95d105e256f5c7d48d
+sourceHash: db0f6aa8b949e1cfaea4199fa5ef8512eca02ebf
 ---
 
 Adolph Joffe was the first diplomat of the Bolshevik revolution. A friend and the closest collaborator of [Leon Trotsky](/postacie/lew-trocki), a doctor by training and a revolutionary by conviction, in December 1917 he headed the delegation that negotiated an armistice with the Central Powers at Brest-Litovsk. It meant Russia's de facto exit from the war, and so from the Entente camp to which it formally belonged. At Brest Joffe presented the Soviet programme of a peace without annexations or indemnities, and later, as a member of the delegation, watched the Germans shatter these illusions. From the spring of 1918 he was the representative of Soviet Russia in Berlin, where he signed onerous agreements supplementing the Brest treaty while at the same time funding German revolutionaries. A few days before the end of the war the Germans expelled him from the country.

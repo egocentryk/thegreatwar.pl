@@ -6,7 +6,7 @@ country: France
 birthPlace: Nantes (France)
 deathPlace: Paris
 source: aristide-briand
-sourceHash: 44a1c60b2eeb47f39f96643bd9aacb94fde8e08b
+sourceHash: 632227be986d07a1e08bb582f61c553e1a6ace32
 ---
 
 Aristide Briand was France's longest-serving Prime Minister during the war. He governed from October 1915 to March 1917, and thus through Verdun, the Somme, the entry into the war and defeat of Romania, and the fiercest disputes over who should direct the war: the government, parliament or the high command. A former socialist and a master of parliamentary compromise, he could reconcile quarrelling factions, but was not always able to take hard decisions. He was the chief champion of the Salonika expedition and of the policy that turned Greece into a battlefield of diplomats. He removed Joffre from command and staked everything on Nivelle, which turned against him. After the war, as Foreign Minister for many years, he became the symbol of reconciliation with Germany and in 1926 received the Nobel Peace Prize.

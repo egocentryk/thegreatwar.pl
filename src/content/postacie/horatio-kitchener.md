@@ -10,6 +10,11 @@ birthPlace: Gunsborough koło Listowel (hrabstwo Kerry, Irlandia)
 deathPlace: Morze u zachodnich wybrzeży Orkadów
 aliases: [Horatio Kitchener]
 wikiTitles: [Horatio_Kitchener]
+photo:
+  src: ../../assets/postacie/horatio-kitchener.jpg
+  credit: Elliott & Fry
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Lord_Kitchener_AWM_A03547.jpg
 authors: [Natalia]
 tags: [Herbert Kitchener, Wielka Brytania, British Army]
 sources:

@@ -6,7 +6,7 @@ country: State of Slovenes, Croats and Serbs
 birthPlace: Biserjane near Sveti Jurij ob Ščavnici (Styria, Austria)
 deathPlace: Belgrade
 source: anton-korosec
-sourceHash: 7827770dcf23287a80d647d190d59ded457480e5
+sourceHash: b809161eab5e9bc017ed8aa35918c20b22ff3c79
 ---
 
 Anton Korošec was a Catholic priest from Lower Styria who within a year and a half went from being a loyal deputy in the Imperial Council in Vienna to head of the first Yugoslav state. On 30 May 1917 he read out in parliament the May Declaration, which demanded the unification of the Slovenes, Croats and Serbs of the monarchy, still under the Habsburg sceptre. A year later he led the movement that broke with the Habsburgs. In October 1918 he became president of the National Council in Zagreb and, after the collapse of the monarchy, formally the highest representative of the State of Slovenes, Croats and Serbs. He went over to the Entente camp only in the last weeks of the war, and in Geneva he defended that state's equal standing with Serbia.

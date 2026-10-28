@@ -10,6 +10,11 @@ birthPlace: Popasnoje, gubernia jekaterynosławska (Imperium Rosyjskie)
 deathPlace: Królestwo Serbów, Chorwatów i Słoweńców
 aliases: [Michaił Rodzianko]
 wikiTitles: [Michaił_Rodzianko]
+photo:
+  src: ../../assets/postacie/michail-rodzianko.jpg
+  credit: Karl Fischer / Karl Fischer
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Michail_Rodzyanko.jpg
 authors: [Natalia]
 tags: [Rosja, rewolucja lutowa, Mikołaj II]
 sources:

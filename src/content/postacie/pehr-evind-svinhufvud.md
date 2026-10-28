@@ -10,6 +10,11 @@ birthPlace: Sääksmäki (Finlandia)
 deathPlace: Luumäki (Finlandia)
 aliases: [Pehr Evind Svinhufvud]
 wikiTitles: [Pehr_Evind_Svinhufvud]
+photo:
+  src: ../../assets/postacie/pehr-evind-svinhufvud.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Pehr_Evind_Svinhufvud_(cropped).jpg
 authors: [Natalia]
 tags: [Finlandia, Niemcy, rewolucja październikowa]
 sources:

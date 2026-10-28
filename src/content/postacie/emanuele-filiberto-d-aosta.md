@@ -10,6 +10,11 @@ birthPlace: Genua (Włochy)
 deathPlace: Turyn (Włochy)
 aliases: [książę Aosty Emanuele Filiberto, Emanuele Filiberto]
 wikiTitles: [Emanuel_Filiberto_d’Aosta]
+photo:
+  src: ../../assets/postacie/emanuele-filiberto-d-aosta.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:2nd_Duke_of_Aosta.jpg
 authors: [Łukasz Skowroń]
 tags: [Włochy, Austro-Węgry, Luigi Cadorna]
 sources:

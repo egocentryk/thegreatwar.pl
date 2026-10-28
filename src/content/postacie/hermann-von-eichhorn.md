@@ -10,6 +10,11 @@ birthPlace: Wrocław (Prusy)
 deathPlace: Kijów
 aliases: [Hermann von Eichhorn]
 wikiTitles: [Hermann_von_Eichhorn]
+photo:
+  src: ../../assets/postacie/hermann-von-eichhorn.jpg
+  credit: Hoffotograf J. B. Ciulina, Frankfurt am Main
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Generalfeldmarschall_Hermann_von_Eichhorn_1.png
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Ukraina, okupacja niemiecka]
 sources:

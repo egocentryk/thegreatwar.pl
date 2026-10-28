@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Buzău (Wallachia)
 deathPlace: Buzău
 source: alexandru-marghiloman
-sourceHash: bc9f5cf861945017524adebee4fbeb6ea8ec8678
+sourceHash: 597ca9c822f9b689d396df0e66fe82ad79fa1a03
 ---
 
 Alexandru Marghiloman was the last leader of the old Romanian Conservative Party and the best-known advocate in Romania of good relations with Germany. In 1914–1916 he opposed going to war on the side of the Entente, and when the king and the government fled from the invader to Moldavia, he stayed in occupied Bucharest. In the spring of 1918, when Romania, cut off from its allies by the revolution in Russia, had to sue for peace, the king entrusted the government to him. Marghiloman signed the humiliating Peace of Bucharest, but his cabinet also accepted the union of Bessarabia with Romania. To the end of his life he believed that he had saved the state, the dynasty and the army. For most of his compatriots he remained "the Germans' man", and his time in office was soon overshadowed by the Entente's victory. The political diary he kept for nearly thirty years is one of the most important sources for the history of Romania during the Great War.

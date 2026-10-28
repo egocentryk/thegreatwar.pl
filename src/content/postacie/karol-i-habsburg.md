@@ -10,6 +10,11 @@ birthPlace: Persenbeug nad Dunajem (Austria)
 deathPlace: Funchal na Maderze (Portugalia)
 aliases: [Karol I Habsburg, Karol I, arcyksiążę Karol]
 wikiTitles: [Karol_I_Habsburg]
+photo:
+  src: ../../assets/postacie/karol-i-habsburg.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Emperor_Charles_I_of_Austria.jpg
 authors: [Łukasz Skowroń]
 tags: [Karol I Habsburg, Austro-Węgry, inicjatywy pokojowe]
 sources:

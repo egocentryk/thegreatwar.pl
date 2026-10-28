@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Londyn
 aliases: [Herbert Plumer]
 wikiTitles: [Herbert_Onslow_Plumer]
+photo:
+  src: ../../assets/postacie/herbert-plumer.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Herbertplumer.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Belgia]
 sources:

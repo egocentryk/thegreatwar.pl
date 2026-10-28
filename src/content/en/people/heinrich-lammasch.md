@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Seitenstetten (Austria)
 deathPlace: Salzburg
 source: heinrich-lammasch
-sourceHash: cd5c77d87a089675d4313330cd48a79841ca8072
+sourceHash: a617c481ba02f53b8765c3e69db839f3697ceef9
 ---
 
 Heinrich Lammasch was one of the most eminent jurists of the Habsburg monarchy and one of the few members of its elite who throughout the war loudly demanded a peace without victors and vanquished. A professor of criminal and international law, a participant in the Hague peace conferences and several times an arbitrator in disputes between states, he had warned even before 1914 against Austria-Hungary's close bond with Germany. During the war he drew the suspicion of the general staff and the hostility of the press, and in the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)) he was shouted down as the "advocate of the Entente". Emperor [Charles I](/postacie/karol-i-habsburg), however, valued him and twice offered him the premiership. The first time, in the summer of 1917, Lammasch declined. The second time, in October 1918, he accepted office when there was nothing left to save, and as the last prime minister of imperial Austria he brought about the peaceful transfer of power to the republic.

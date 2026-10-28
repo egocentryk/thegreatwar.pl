@@ -10,6 +10,11 @@ birthPlace: Bruksela
 deathPlace: Marche-les-Dames (Belgia)
 aliases: [Albert I]
 wikiTitles: [Albert_I_Koburg]
+photo:
+  src: ../../assets/postacie/albert-i.jpg
+  credit: Studio of Eugène Pirou
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Albert_I_Koning_der_Belgen.jpg
 authors: [Natalia]
 tags: [Albert I, Belgia, neutralność Belgii]
 sources:

@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Udine (Venetia)
 deathPlace: Innsbruck
 source: victor-dankl
-sourceHash: 4ee11242b3801a2640bea655444fe09099938ce2
+sourceHash: fe4ad4698d1d113d3407320fdc058e9b0dac0e3b
 ---
 
 Viktor Dankl, from 1918 Count Dankl von Krasnik, was the commander who gave the Austro-Hungarian army its first victory of the First World War. On 23–25 August 1914 his First Army defeated the Russians at Kraśnik in the Lublin region, and the monarchy, just humiliated by defeat in Serbia, hailed him as a hero. The success proved short-lived, for two weeks later Dankl's army had to fall back from Lublin. In 1915, with very modest forces, he halted the Italians on the Tyrolean border, and in 1916 his Eleventh Army opened the great offensive from Tyrol. After it, amid quarrels with his superiors and because of illness, he left the front and held no further command until the end of the war.

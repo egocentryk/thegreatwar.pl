@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Darmstadt (Grand Duchy of Hesse)
 deathPlace: Yekaterinburg
 source: aleksandra-fiodorowna
-sourceHash: 20854285a9bf810fede7bae2d3ae98b90e869ede
+sourceHash: eb0d7361313b4a6ae520049402faf863258ee149
 ---
 
 Alexandra Feodorovna, born Princess Alix of Hesse, was the wife of Emperor [Nicholas II](/postacie/mikolaj-ii) and the last Empress of Russia. For twenty years of marriage she lived apart from the court and society, absorbed in her family and her son's illness. During the war her role suddenly grew. When in September 1915 the Tsar left for General Headquarters, it was she in Petrograd who suggested names of ministers to him and pressed for the removal of people she considered enemies of autocracy and of her "Friend", [Grigori Rasputin](/postacie/grigorij-rasputin). She also worked as a nursing sister in a hospital for the wounded. Born in Germany, in Russia she was regarded as "the German woman" and suspected of treason, although there is no evidence whatever of this. After the revolution she shared her husband's fate until her death at the hands of the Bolsheviks in Yekaterinburg.

@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Dymokury (Bohemia)
 deathPlace: Vienna
 source: ottokar-czernin
-sourceHash: 64363e0d3968c12bfc9c617da1a07d3eece67dbe
+sourceHash: d091b5f4b3943711097324f315d9bc92b5767f79
 ---
 
 Count Ottokar Czernin directed the diplomacy of the Habsburg monarchy for sixteen months, from December 1916 to April 1918, at a time when it was being decided whether Austria-Hungary would survive the war. He believed that the state would not last another wartime winter, and throughout this time he spoke of peace, but he never dared to break with Germany, in whose alliance he saw the last guarantee of the old order. As the "minister of peace" he agreed to unrestricted submarine warfare, at Brest-Litovsk he signed the "bread peace" with Ukraine, which outraged the Poles, and in Romania he imposed the peace of Buftea. He fell over a scandal he himself had provoked, when he publicly attacked the French prime minister and brought about the disclosure of his own emperor's secret peace efforts.

@@ -10,6 +10,11 @@ birthPlace: Ludwigsburg (Wirtembergia)
 deathPlace: Poczdam-Bornstedt
 aliases: [Wilhelm Groener]
 wikiTitles: [Wilhelm_Groener]
+photo:
+  src: ../../assets/postacie/wilhelm-groener.jpg
+  credit: Bundesarchiv, Bild 102-01049 / Georg Pahl
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-01049,_Wilhelm_Groener.jpg
 authors: [Natalia]
 tags: [Niemcy, Ukraina, rewolucja listopadowa, gospodarka]
 sources:

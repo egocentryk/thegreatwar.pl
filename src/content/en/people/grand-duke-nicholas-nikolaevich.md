@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: St Petersburg (Russian Empire)
 deathPlace: Antibes (France)
 source: mikolaj-mikolajewicz
-sourceHash: 163412222fe4f05095a56e8ed2498459158bf0a3
+sourceHash: b2a1c604ed342841291b4c2cbf3e3a26f895d4c0
 ---
 
 Grand Duke Nicholas Nikolaevich Romanov, known in the family as "Nikolasha", was commander-in-chief of the Russian Army for the first thirteen months of the war. He was in command during the great victories over Austria-Hungary in Galicia and the heavy defeats in the clashes with the Germans, from Tannenberg to the Great Retreat of 1915. Almost two metres tall, stern and hot-tempered, he enjoyed a popularity in the army and in society that no other member of the dynasty had. That popularity eventually became one of the reasons for his fall: in September 1915 Tsar [Nicholas II](/postacie/mikolaj-ii) took command himself and sent his uncle to the Caucasus. In Poland his name is associated above all with the proclamation to the Poles of August 1914.

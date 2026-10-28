@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Homberg (Hesse)
 deathPlace: Bad Reichenhall
 source: max-hoffmann
-sourceHash: 7dd5c00ce0276c2a0d280d025e418b6acbbb21ab
+sourceHash: ee30c3991d6c83787a624223b3551f6ef9a04762
 ---
 
 Max Hoffmann never commanded an army, yet he was among the men who most shaped the fortunes of the Eastern Front. In August 1914, as a lieutenant-colonel on the staff of the 8th Army, he drew up the plan by which the Germans crushed the Russians at Tannenberg. For the next two years he was the closest collaborator of Hindenburg and Ludendorff, and from 1916, as chief of staff to Prince Leopold of Bavaria, he in effect directed the whole front from the Baltic to the Carpathians. At the end of 1917 it was he who talked to the Bolsheviks about an armistice, and at the conference in Brest-Litovsk he became for the Russians the embodiment of German power. His memoirs and diaries still shape the picture of the war in the east, not least because of how mercilessly he judged his superiors in them.

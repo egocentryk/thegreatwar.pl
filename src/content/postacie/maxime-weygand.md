@@ -10,6 +10,11 @@ birthPlace: Bruksela (Belgia)
 deathPlace: Paryż
 aliases: [Maxime Weygand]
 wikiTitles: [Maxime_Weygand]
+photo:
+  src: ../../assets/postacie/maxime-weygand.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Maxime_Weygand.jpg
 authors: [Natalia]
 tags: [Ferdinand Foch, Francja]
 sources:

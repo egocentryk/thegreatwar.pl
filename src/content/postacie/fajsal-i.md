@@ -10,6 +10,11 @@ birthPlace: Mekka (Imperium Osmańskie)
 deathPlace: Berno (Szwajcaria)
 aliases: [Fajsal I, Fajsal]
 wikiTitles: [Fajsal_I]
+photo:
+  src: ../../assets/postacie/fajsal-i.jpg
+  credit: Vandyk photographic studio
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Faisal_I,_King_of_Syria_and_King_of_Iraq_cropped.jpg
 authors: [Łukasz Skowroń]
 tags: [powstanie arabskie, Imperium Osmańskie, Wielka Brytania, Francja]
 sources:

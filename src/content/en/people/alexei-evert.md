@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Moscow (Russian Empire)
 deathPlace: Mozhaysk
 source: aleksiej-ewert
-sourceHash: d105c4573c64a967f8edf89c208bc5807d287dda
+sourceHash: 8dff51bb445a2db68f17344bf606b1201d5190e9
 ---
 
 Alexei Yermolayevich Evert was one of the most senior commanders of the Russian army throughout the war. In 1914, after the defeat at Kraśnik, he took over the 4th Army and led it to victories over the Austrians near Lublin and over the Germans on the Vistula. From the autumn of 1915 he commanded the Western Front for a year and a half, the strongest of all the Russian fronts, which guarded the road to Minsk and Moscow. In 1916 his troops were to deliver the main blow of the summer campaign, but Evert, disheartened by the bloody defeat at Lake Naroch, kept putting off the attack, and when he finally struck at Baranovichi he suffered heavy losses for no gain. For many contemporaries he became a symbol of a wasted chance of victory. In March 1917 he came out in favour of the Tsar's abdication, and soon afterwards he lost his post. He was killed during the Red Terror.

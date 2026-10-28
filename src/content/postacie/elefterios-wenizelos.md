@@ -10,6 +10,11 @@ birthPlace: Murnies koło Chanii (Kreta)
 deathPlace: Paryż
 aliases: [Elefterios Wenizelos]
 wikiTitles: [Elefterios_Wenizelos]
+photo:
+  src: ../../assets/postacie/elefterios-wenizelos.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg
 authors: [Natalia]
 tags: [Elefterios Wenizelos, Grecja, Konstantyn I Grecki]
 sources:

@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Sofia
 deathPlace: Sofia
 source: borys-iii
-sourceHash: 5c950ab9777e540472b0d1bdb896ee8a55002f4a
+sourceHash: 904f263ed058cfd73a261d6a822aecaa1a381252
 ---
 
 Boris, Prince of Tarnovo, was during the Great War the heir to the Bulgarian throne and a young officer who took no great decisions. It was his father, Tsar [Ferdinand I](/postacie/ferdynand-i-koburg), who in 1915 brought the country into the war on Germany's side. Boris served at headquarters as a liaison officer, travelling between staffs, fronts and allies, and during the Romanian campaign he smoothed over disputes between Bulgarian and German commanders. His hour came in September 1918. When the Macedonian front collapsed, the heir to the throne went from regiment to regiment trying to stop the retreat, and won a popularity his father had never had. On 3 October 1918, after Ferdinand's abdication, he became tsar. Thanks to him Bulgaria was the only one of the defeated states to keep its monarchy.

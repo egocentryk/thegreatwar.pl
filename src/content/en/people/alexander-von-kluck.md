@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Münster (Prussia)
 deathPlace: Berlin
 source: alexander-von-kluck
-sourceHash: 7f44e57a4a365e0dee98f4cbaecc63ad1a640a28
+sourceHash: 2c5d72485f25b5fcf33dc7681fb604ecafd5d5da
 ---
 
 In 1914 Alexander von Kluck commanded the German First Army, the strongest and westernmost army of the right wing, which was to pass through Belgium and northern France, sweep round Paris and encircle the French armies. Within a month his soldiers marched several hundred kilometres, defeated the British at Mons and Le Cateau and came within a few dozen kilometres of the French capital. Yet it was Kluck's own decisions, the turn east of Paris and the hasty march across the Marne, that exposed the German right wing and opened the way to their defeat on the Marne. To this day he remains one of the most disputed figures of that battle.

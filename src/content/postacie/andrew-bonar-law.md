@@ -10,6 +10,11 @@ birthPlace: Kingston, dziś Rexton (Nowy Brunszwik, Kanada)
 deathPlace: Londyn
 aliases: [Andrew Bonar Law]
 wikiTitles: [Andrew_Bonar_Law]
+photo:
+  src: ../../assets/postacie/andrew-bonar-law.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:A._Bonar_Law_LCCN2014715818_(cropped).jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, David Lloyd George, Herbert Henry Asquith, Irlandia]
 sources:

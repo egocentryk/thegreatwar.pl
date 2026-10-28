@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Kingston, now Rexton (New Brunswick, Canada)
 deathPlace: London
 source: andrew-bonar-law
-sourceHash: 806fc658f04a6ca74969e0ca1828df8b2d529064
+sourceHash: e5400fad4b0406c3b07a8ed2c0442b10a522f282
 ---
 
 Andrew Bonar Law led the British Conservatives throughout the war and was one of the three men on whom it depended who governed Britain. Canadian by birth, a Scottish iron merchant by profession and a Presbyterian by faith, he did not fit a party of landowners and the Church of England, yet he kept it in line through the years of the wartime party truce. In May 1915 he brought the Conservatives into the [coalition government](/rzad-koalicyjny-asquitha) of [Herbert Henry Asquith](/postacie/herbert-henry-asquith), in December 1916 he decided his fall, and then, instead of becoming Prime Minister himself, he handed power to [David Lloyd George](/postacie/david-lloyd-george). As Chancellor of the Exchequer and Leader of the House of Commons he was the second man in the government until the end of the war: he looked after the finances, Parliament and the loyalty of his own party while the Prime Minister ran the war.

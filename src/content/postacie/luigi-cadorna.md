@@ -10,6 +10,11 @@ birthPlace: Pallanza, dziś Verbania (Włochy)
 deathPlace: Bordighera (Włochy)
 aliases: [Luigi Cadorna]
 wikiTitles: [Luigi_Cadorna]
+photo:
+  src: ../../assets/postacie/luigi-cadorna.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Luigi_Cadorna_02.jpg
 authors: [Łukasz Skowroń]
 tags: [Luigi Cadorna, Włochy, Austro-Węgry]
 sources:

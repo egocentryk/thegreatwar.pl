@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Munich (Bavaria)
 deathPlace: Munich
 source: leopold-bawarski
-sourceHash: d92097ae7eabc6d7b9b6632f656f701bee92e098
+sourceHash: 0eec3cc6c80a55e56eecdef565c5a3f6d523fb6d
 ---
 
 At the outbreak of the war Prince Leopold of Bavaria was a sixty-eight-year-old field marshal who had been in retirement for a year and a half. In the spring of 1915 he returned to service and until the end of the war commanded on the Eastern Front, first the Ninth Army, which entered Warsaw in August 1915, then an army group, and from 1916, as Hindenburg's successor, all the German forces in the East. Behind him worked an outstanding chief of staff, General Max Hoffmann, who usually receives the credit for the decisions of this command. The prince was not merely a figurehead, however: he had two wars and half a century of service behind him, he knew how to work with people and how to manage the conflicting interests of the allies. It was at his headquarters in Brest-Litovsk that the armistice and the peace with Soviet Russia were signed.

@@ -10,6 +10,11 @@ birthPlace: Tremadog (Walia)
 deathPlace: Bovington Camp (Dorset, Anglia)
 aliases: [Thomas Edward Lawrence]
 wikiTitles: [Thomas_Edward_Lawrence]
+photo:
+  src: ../../assets/postacie/thomas-edward-lawrence.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Te_lawrence.jpg
 authors: [Natalia]
 tags: [powstanie arabskie, Wielka Brytania, Imperium Osmańskie]
 sources:

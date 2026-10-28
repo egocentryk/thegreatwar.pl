@@ -10,6 +10,11 @@ birthPlace: Prowincja Anhui (Chiny)
 deathPlace: Szanghaj
 aliases: [Duan Qirui]
 wikiTitles: [Duan_Qirui]
+photo:
+  src: ../../assets/postacie/duan-qirui.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:DuanQirui.jpg
 authors: [Natalia]
 tags: [Chiny, Japonia]
 sources:

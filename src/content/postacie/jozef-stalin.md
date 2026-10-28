@@ -10,6 +10,11 @@ birthPlace: Gori, gubernia tyfliska (Imperium Rosyjskie)
 deathPlace: Kuncewo pod Moskwą
 aliases: [Józef Stalin]
 wikiTitles: [Józef_Stalin]
+photo:
+  src: ../../assets/postacie/jozef-stalin.jpg
+  credit: Franklin D. Roosevelt Library
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
 sources:

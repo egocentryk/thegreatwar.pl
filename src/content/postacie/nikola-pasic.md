@@ -10,6 +10,11 @@ birthPlace: Zaječar (Serbia)
 deathPlace: Belgrad
 aliases: [Nikola Pašić]
 wikiTitles: [Nikola_Pašić]
+photo:
+  src: ../../assets/postacie/nikola-pasic.jpg
+  credit: Petrovic, Vojislav Maksim, 1885?-1934
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:NikolaPasic--serbiaherpeopleh00petruoft.png
 authors: [Natalia]
 tags: [Nikola Pašić, Serbia, Aleksander Karađorđević]
 sources:

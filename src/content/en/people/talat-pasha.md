@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Kardzhali (Ottoman Empire, now Bulgaria)
 deathPlace: Berlin
 source: mehmet-talaat
-sourceHash: ef829587576916e0ef703201a213273a9f9e1762
+sourceHash: 5e17b8569447df41aa9ac899ceae723005895dd0
 ---
 
 Mehmed Talat, known as Talat Pasha (in Western spelling also Talaat), was the most important civilian leader of the Ottoman Empire during the Great War. Together with the minister of war, [Enver Pasha](/postacie/enver-pasza), and the minister of the navy, [Djemal Pasha](/postacie/dzemal-pasza), he formed the Young Turk triumvirate which from 1913 ruled the state in the name of the Committee of Union and Progress. As minister of the interior he directed, from the spring of 1915, the deportations of the Armenians, which turned into genocide, and historians regard him as the chief organiser of that crime. In February 1917 he became grand vizier. At Brest-Litovsk he recovered for the empire the lands lost to Russia in 1878, but in the autumn of 1918 he had to admit defeat. He fled to Germany, a court in Constantinople sentenced him to death in absentia, and in 1921 he was shot dead in Berlin by an Armenian who had lost his family in the deportations.

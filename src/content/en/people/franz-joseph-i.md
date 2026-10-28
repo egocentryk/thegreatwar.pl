@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Schönbrunn Palace (Vienna)
 deathPlace: Schönbrunn Palace (Vienna)
 source: franciszek-jozef-i
-sourceHash: a28d292c4bb438477d8cee9e5520093b81184240
+sourceHash: b9837bc0ec9844f1d2da17231df7cb81bf59edd3
 ---
 
 In 1914 Franz Joseph I was the oldest monarch in Europe. He had reigned since 1848, and for most of his subjects he was the only ruler they had ever known. He was regarded as the embodiment of the multinational monarchy and as an emperor of peace who, after the defeats of his youth, had avoided wars for almost half a century. Yet it was he, as the supreme authority in the state, who in the summer of 1914 approved the ultimatum to Serbia and signed the mobilisation orders and the declaration of war that drew Europe into a world war. During the war, too old to command, he placed the army in the hands of Archduke Friedrich and General Conrad, and made the monarchy ever more dependent on Germany. He died in November 1916, living to see neither victory nor the fall of his state.

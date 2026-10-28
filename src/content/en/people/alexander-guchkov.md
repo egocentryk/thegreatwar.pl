@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Moscow (Russian Empire)
 deathPlace: Paris (France)
 source: aleksandr-guczkow
-sourceHash: 479cbed643d49213f7779bd17c1595752a416b46
+sourceHash: 98d9327805a10fb924766a7c72152b380bf4a646
 ---
 
 Alexander Ivanovich Guchkov was one of the most colourful figures in Russian politics of the early 20th century: a Moscow financier, a volunteer in other people's wars, a duellist and the leader of the moderately liberal [Octobrist](https://pl.wikipedia.org/wiki/Oktiabryści) party. For years he fought for a modern army, controlled by parliament rather than by the court. During the war he headed the war-industries committees, which mobilised private industry to produce for the army and at the same time became a centre of opposition. The Empress wanted him hanged. In March 1917 it was he who brought back from Pskov the act of abdication of [Nicholas II](/postacie/mikolaj-ii), and then, as war minister, he tried to save discipline in the army. After two months he concluded that he had failed, and left.

@@ -6,7 +6,7 @@ country: Canada
 birthPlace: Grand-Pré (Nova Scotia)
 deathPlace: Ottawa
 source: robert-borden
-sourceHash: 49117386217080510ac505a7d28e1b3f4cefc69b
+sourceHash: f33c12de2752599fc42783db2b532679eb9bbf3c
 ---
 
 Sir Robert Laird Borden was Prime Minister of Canada throughout the Great War. A country that in 1914 had little more than 3,000 regular soldiers sent over 400,000 men overseas, and the Canadian Corps became one of the best formations on the Western Front. Borden led Canada through this effort, but paid a high price for it: the introduction of conscription in 1917 divided the country along the language line for decades. At the same time this cautious, cool lawyer from Nova Scotia, who began the war as a loyal subject of the Empire, ended it as one of the chief architects of the dominions' independence. It was largely thanks to him that Canada had a separate delegation at the peace conference, signed the Treaty of Versailles in its own name and joined the League of Nations.

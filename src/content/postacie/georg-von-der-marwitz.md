@@ -10,6 +10,11 @@ birthPlace: Nożynko (Klein Nossin) koło Słupska
 deathPlace: Unichowo (Wundichow) na Pomorzu
 aliases: [Georg von der Marwitz]
 wikiTitles: [Georg_von_der_Marwitz]
+photo:
+  src: ../../assets/postacie/georg-von-der-marwitz.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:General_Marwitz_1914.jpg
 authors: [Natalia]
 tags: [Niemcy, Brytyjski Korpus Ekspedycyjny, czołgi, Australia]
 sources:

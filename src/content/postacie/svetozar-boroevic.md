@@ -10,6 +10,11 @@ birthPlace: Umetić (Chorwacja)
 deathPlace: Klagenfurt
 aliases: [Svetozar Boroević]
 wikiTitles: [Svetozar_Boroević_von_Bojna]
+photo:
+  src: ../../assets/postacie/svetozar-boroevic.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Svetozar_boroevic_von_bojna.jpg
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Włochy, Galicja]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Troia (Apulia, Włochy)
 deathPlace: Rzym
 aliases: [Antonio Salandra]
 wikiTitles: [Antonio_Salandra]
+photo:
+  src: ../../assets/postacie/antonio-salandra.jpg
+  credit: Mario Nunes Vais
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Antonio_Salandra_01.jpg
 authors: [Łukasz Skowroń]
 tags: [Antonio Salandra, Włochy, neutralność]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Tulle (Francja)
 deathPlace: Paryż
 aliases: [Robert Nivelle]
 wikiTitles: [Robert_Nivelle]
+photo:
+  src: ../../assets/postacie/robert-nivelle.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Robert_Georges_Nivelle.jpg
 authors: [Łukasz Skowroń]
 tags: [Robert Nivelle, Francja, Philippe Pétain]
 sources:

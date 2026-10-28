@@ -6,7 +6,7 @@ country: France
 birthPlace: Cauchy-à-la-Tour (France)
 deathPlace: Port-Joinville, Île d’Yeu (France)
 source: philippe-petain
-sourceHash: 9acdf73e1e797763408c29c16304f1a8fa4dc88e
+sourceHash: ce283f6c8fc43a5f42c3a2f2609ee096febe7018
 ---
 
 Philippe Pétain made an unprecedented career during this war. In August 1914 he was a 58-year-old colonel preparing for retirement, because his superiors considered him an officer with no future. Four years later he was a Marshal of France. Before the war he was one of the few critics of the doctrine of the offensive at all costs and he kept repeating that "firepower kills". The war proved him right. In 1916 he organised the defence of Verdun, and in May 1917, after the failure of the Nivelle Offensive, he took command of an army in which mutinies had broken out, and restored its ability to fight. The soldiers saw in him a commander who did not send them to their deaths needlessly. Politicians and allies accused him of pessimism, and in 1918 he had to yield precedence to Foch. The same authority of the victor of Verdun led him in 1940 to head a state that embarked on collaboration with Germany. That is why his biography is today one of the most painful in France.

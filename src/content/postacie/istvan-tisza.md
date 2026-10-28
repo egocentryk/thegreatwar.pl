@@ -10,6 +10,11 @@ birthPlace: Peszt, dziś Budapeszt (Węgry)
 deathPlace: Budapeszt
 aliases: [István Tisza]
 wikiTitles: [István_Tisza]
+photo:
+  src: ../../assets/postacie/istvan-tisza.jpg
+  credit: Gyula Benczúr
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Istvan_Tisza.jpg
 authors: [Natalia]
 tags: [István Tisza, Austro-Węgry, Serbia, Karol I Habsburg]
 sources:

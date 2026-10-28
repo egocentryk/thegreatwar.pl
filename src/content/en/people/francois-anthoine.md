@@ -6,7 +6,7 @@ country: France
 birthPlace: Le Mans (France)
 deathPlace: Paris
 source: francois-anthoine
-sourceHash: f5f5f1431fab5db7c8f0168cadfb7ee0cfbb60a2
+sourceHash: 27e877f848c30602a02086f67daaa4a151c7db9d
 ---
 
 General François Paul Anthoine is almost forgotten today, although in 1917 he was one of the most important French commanders. In the spring his Fourth Army took the Moronvilliers heights in Champagne, the only sector of the Nivelle offensive in which the French had any real success. In the summer and autumn his First Army fought in Flanders on the left flank of the British, in the only great battle of the war in which a French army operated under the general direction of a British commander. Then, as chief of staff to General Philippe Pétain, he lived through the worst months of 1918 at headquarters. He paid for them with his post, because he was considered a pessimist, and he was given no further command for the rest of the war.

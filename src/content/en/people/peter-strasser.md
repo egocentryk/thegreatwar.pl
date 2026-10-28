@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Hanover (Prussia)
 deathPlace: North Sea off the Norfolk coast (England)
 source: peter-strasser
-sourceHash: 1ff32b943888ffba3258a279cb7d85a7a8af9134
+sourceHash: 9da68d29980032876c0d29a70f4dc300c80c2ba6
 ---
 
 Peter Strasser led the German navy's airship service throughout the war. He took it over in 1913, when after two disasters it had only a handful of men and not a single airship, and he left it as a force of several thousand men and more than a dozen bases. His Zeppelins scouted over the North Sea for the High Seas Fleet, but they went down in history above all as bombers. From January 1915 to August 1918 Strasser planned, and often personally led, the raids on England. He believed that large airships could bomb Great Britain effectively, even as aircraft and anti-aircraft guns destroyed them ever more easily. He was killed aboard the newest Zeppelin, L 70, shot down over the sea off the Norfolk coast during the last airship raid of the war.

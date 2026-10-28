@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Sigmaringen (Germany)
 deathPlace: Sinaia
 source: ferdynand-i-rumunski
-sourceHash: 13fc2ae2318b4d821b27fb303734dca70ae1043d
+sourceHash: 8564a375ad71d2e0956d2d400fe1848767ca5d1a
 ---
 
 Ferdinand I was the second King of Romania and one of the most remarkable monarchs of the Great War. A German prince of the Catholic line of the Hohenzollerns, brought up in Swabia, in 1916 he signed the declaration of war on Austria-Hungary knowing that it meant war with Germany, his family's homeland. The 1916 campaign ended in disaster: Romania lost its capital and two-thirds of its territory, and the king and the government took refuge in Jassy. Yet Ferdinand survived defeat, occupation, the collapse of his Russian ally and a humiliating peace that he never ratified. When the war ended, he ruled a state twice the size it had been in 1914. The Romanians called him "the Loyal", because he kept the oath he had sworn to his new homeland, and "the Unifier" (Întregitorul).

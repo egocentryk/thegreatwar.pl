@@ -6,7 +6,7 @@ country: Hejaz
 birthPlace: Mecca (Ottoman Empire)
 deathPlace: Bern (Switzerland)
 source: fajsal-i
-sourceHash: b12dc6c3a54519a2180323737dcd1433ddb7b410
+sourceHash: f89e19c09dbb385f8154228b51f41a23e6a897af
 ---
 
 Emir Faisal, the third son of the Sharif of Mecca [Hussein bin Ali](/postacie/husajn-ibn-ali), was the most important commander and politician of the Arab Revolt. In June 1916 he proclaimed the independence of the Arabs from the Turks outside Medina, and then, with British gold, weapons and advisers, the most famous of whom was [Thomas Edward Lawrence](/postacie/thomas-edward-lawrence), he led the Arab Northern Army from the Hejaz via Al Wajh and Aqaba all the way to Damascus. In the autumn of 1918 he headed an Arab government in Syria, a year later he fought for its independence at the peace conference in Paris, and in March 1920 he was proclaimed king. Four months later the French drove him out. The British, who had not kept their promises to him in Syria, placed him on the throne of Iraq in 1921. He is regarded as one of the ablest Arab leaders of his age: a military leader out of necessity and a diplomat by talent.

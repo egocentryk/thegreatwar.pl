@@ -10,6 +10,11 @@ birthPlace: Hohenfinow (Niemcy)
 deathPlace: Hohenfinow
 aliases: [Theobald von Bethmann Hollweg]
 wikiTitles: [Theobald_von_Bethmann_Hollweg]
+photo:
+  src: ../../assets/postacie/theobald-von-bethmann-hollweg.jpg
+  credit: autor nieznany
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Theobald_von_Bethmann_Hollweg(cropped).jpg
 authors: [Łukasz Skowroń]
 tags: [Theobald von Bethmann Hollweg, Niemcy, polityka wewnętrzna]
 sources:

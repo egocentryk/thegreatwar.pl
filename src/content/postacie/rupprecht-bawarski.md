@@ -10,6 +10,11 @@ birthPlace: Monachium (Bawaria)
 deathPlace: Leutstetten koło Starnbergu
 aliases: [Rupprecht Bawarski, Ruppert Maria Wittelsbach]
 wikiTitles: [Ruppert_Maria_Wittelsbach]
+photo:
+  src: ../../assets/postacie/rupprecht-bawarski.jpg
+  credit: Bernhard Dittmar
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Rupprecht_von_Bayern.jpg
 authors: [Natalia]
 tags: [Niemcy, Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 sources:

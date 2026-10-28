@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Zaječar (Serbia)
 deathPlace: Belgrade
 source: nikola-pasic
-sourceHash: d51646da1cb24c0abb7b28bd2531f49a5ab5a221
+sourceHash: 274cbe38a154d2397f77fc5a9a07b052abed0042
 ---
 
 Nikola Pašić headed the Serbian government throughout the Great War, from the assassination in Sarajevo to the union with the South Slav lands of the Habsburg monarchy. Taciturn, cautious and distrustful, with a long grey beard that became his trademark, he had been the country's most important politician since the 1880s and the undisputed leader of the Radical Party. It was he who answered the Austro-Hungarian ultimatum in July 1914, he who bargained with the Allies over the borders of a future Serbia, and he who in 1917 signed the declaration on Corfu on a common state of Serbs, Croats and Slovenes. To some he was the creator of Yugoslavia, to others a politician who from the start saw it above all as an enlarged Serbia.

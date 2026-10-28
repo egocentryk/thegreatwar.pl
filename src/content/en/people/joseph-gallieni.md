@@ -6,7 +6,7 @@ country: France
 birthPlace: Saint-Béat (France)
 deathPlace: Versailles
 source: joseph-gallieni
-sourceHash: 9baedbc32fe32d0e5fc9de3da231034c78b0deeb
+sourceHash: fdbfa51ee394d72bc2fa1f217162d84162d949f2
 ---
 
 In 1914 Joseph Gallieni was a retired general, France's most famous colonial soldier and the former superior of the commander-in-chief, Joseph Joffre. At the end of August, as the Germans approached Paris, he was entrusted with the defence of the capital. In early September he was one of the first to see that the German First Army had exposed its flank, and he pressed for an immediate attack. That manoeuvre grew into the Battle of the Marne, and the Paris taxis he sent to the front became one of the legends of the war. In the autumn of 1915 he became minister of war and tried to bring general headquarters under government control. He lost that struggle, resigned, gravely ill, in March 1916 and died two months later. For decades the French argued over how much of the victory on the Marne was owed to him and how much to Joffre.

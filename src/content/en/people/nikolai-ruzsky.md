@@ -5,7 +5,7 @@ role: Commander of the North-Western Front (1914–1915) and the Northern Front 
 country: Russia
 deathPlace: Pyatigorsk
 source: nikolaj-ruzski
-sourceHash: f9977b7131472f0761d1def624dd7ea20536ccd6
+sourceHash: 3a26d2dedb92fd94bb6289c40cbf26389d997b22
 ---
 
 General of Infantry Nikolai Ruzsky was one of the most important Russian commanders of the First World War, although his fame came early and faded quickly. In August 1914 his 3rd Army routed the Austrians east of Lemberg and took the city, which made him a hero in Russia, "the conqueror of Galicia". In the autumn he took over the North-Western Front and fought the Germans in the Kingdom of Poland, at Warsaw, Łódź and on the Bzura, and in the winter of 1915 his troops suffered defeat in Masuria. In poor health, he gave up and regained command several times. He went down in history, however, above all as commander of the Northern Front, at whose headquarters in Pskov Tsar [Nicholas II](/postacie/mikolaj-ii) renounced the throne in March 1917.

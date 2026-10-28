@@ -10,6 +10,11 @@ birthPlace: Ankona (Państwo Kościelne)
 deathPlace: Opawa
 aliases: [Eduard von Böhm-Ermolli]
 wikiTitles: [Eduard_von_Böhm-Ermolli]
+photo:
+  src: ../../assets/postacie/eduard-von-bohm-ermolli.jpg
+  credit: Popscreen
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:General_Eduard_von_B%C3%B6hm_Ermolli_w%C3%A4hrend_des_ersten_Weltkriegs.jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Galicja, Ukraina]
 sources:

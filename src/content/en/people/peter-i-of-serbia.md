@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Belgrade (Serbia)
 deathPlace: Belgrade
 source: piotr-i-karadziordziewic
-sourceHash: ed2191948eac3dfccac8bc9c4fa33af787b8e271
+sourceHash: a6914c24ed2b33b54c0ae9419f5361b7827786fd
 ---
 
 Peter I Karađorđević (in Polish Piotr I Karadziordziewić) was King of Serbia throughout the Great War, but hardly ruled at all. Four days before the assassination in Sarajevo, ill and weary of the conflict between the politicians and the officers, he handed his royal powers to his son Alexander, who as regent and commander-in-chief led the country until the end of the war. Even so, the old king, a former volunteer of the Foreign Legion and guerrilla fighter in Bosnia, became one of the war's most recognisable figures. He appeared at the front at the hardest moments, and in the winter of 1915, aged over seventy and almost blind, he crossed the mountains of Montenegro and Albania with the army. The Serbs called him King Liberator, and colloquially simply "the old king".

@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Moscow (Russian Empire)
 deathPlace: Moscow
 source: nikolaj-bucharin
-sourceHash: 2dcc127f00d8c1b89cd2302e4e13134c1c6ef194
+sourceHash: 09dcf598edf21512799fb6ef544e5d51d031bc6f
 ---
 
 Nikolai Bukharin was the youngest of the great Bolshevik leaders and their ablest theorist. During the war, as an émigré, he wrote works on imperialism that [Vladimir Lenin](/postacie/wlodzimierz-lenin) drew on, while at the same time arguing with him over the national question and the state. In 1917 he led the Bolsheviks in Moscow, and after the revolution he took over the editorship of *Pravda*. His role in the history of the war is concentrated in a few weeks at the turn of 1917 and 1918. When Lenin decided to accept the peace imposed by Germany, Bukharin put himself at the head of the Left Communists, who demanded a "revolutionary war" against imperialism and counted on revolution in Europe. For several weeks he had the majority of the party behind him and very nearly brought about a split. In the history of the USSR he later made his name as the theorist of the New Economic Policy, an opponent of forced collectivisation and a victim of one of the great show trials.

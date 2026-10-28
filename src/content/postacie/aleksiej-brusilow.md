@@ -10,6 +10,11 @@ birthPlace: Tyflis, dziś Tbilisi (Imperium Rosyjskie, dziś Gruzja)
 deathPlace: Moskwa
 aliases: [Aleksiej Brusiłow]
 wikiTitles: [Aleksiej_Brusiłow]
+photo:
+  src: ../../assets/postacie/aleksiej-brusilow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D1%83%D1%81%D0%B8%D0%BB%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg
 authors: [Natalia]
 tags: [Aleksiej Brusiłow, Rosja, Galicja, rewolucja lutowa]
 sources:

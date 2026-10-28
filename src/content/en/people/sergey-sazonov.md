@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Ryazan Governorate (Russian Empire)
 deathPlace: Nice (France)
 source: siergiej-sazonow
-sourceHash: ab298806c381805c34948ad4fc35dfc21b811d96
+sourceHash: 54553e32533559da1b6bace9bcc68cabde1ff766
 ---
 
 Sergey Dmitriyevich Sazonov directed Russian foreign policy throughout the July Crisis of 1914 and the first two years of the war. It was he who persuaded Tsar [Nicholas II](/postacie/mikolaj-ii) to order the general mobilisation that made war with Germany certain. He then became the advocate of Entente unity, negotiated the future partition of Turkey, secured for Russia the promise of Constantinople and sought an alliance with the Balkan states. In Russia he was one of the few ministers who looked for an understanding with the Duma, and on the Polish question he urged the Tsar to proclaim autonomy for the Kingdom of Poland. He paid for it with his dismissal in July 1916. To the Allies he was the guarantor of Russia's loyalty; to his opponents, especially the Germans, one of those to blame for the outbreak of the war.

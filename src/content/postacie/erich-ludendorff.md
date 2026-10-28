@@ -10,6 +10,11 @@ birthPlace: Kruszewnia koło Poznania
 deathPlace: Monachium
 aliases: [Erich Ludendorff]
 wikiTitles: [Erich_Ludendorff]
+photo:
+  src: ../../assets/postacie/erich-ludendorff.jpg
+  credit: Alexander Binder
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Erich_Ludendorff.jpg
 authors: [Łukasz Skowroń]
 tags: [Erich Ludendorff, Niemcy, Paul von Hindenburg]
 sources:

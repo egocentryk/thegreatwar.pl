@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Kenderes (Hungary)
 deathPlace: Estoril (Portugal)
 source: miklos-horthy
-sourceHash: 697d1a8f51d9243decd6c08ea095c7d2cd8117df
+sourceHash: bbb2f2e2818f0a4c5ba6be47ee0621748150fded
 ---
 
 Miklós Horthy is known above all as regent of Hungary from 1920 to 1944, but his career began on the Adriatic. During the First World War he was one of the most enterprising officers of the Austro-Hungarian Navy, which spent most of the war in harbour. As commander of the fast cruiser [*Novara*](https://pl.wikipedia.org/wiki/SMS_Novara_(1913)) he led raids on the Italian and Albanian coasts and on the barrage in the Strait of Otranto, and in May 1917, badly wounded, he emerged from the [largest surface battle in the Adriatic](/starcie-w-ciesninie-otranto) a hero. After the [Cattaro mutiny](/bunt-w-kotorze) Emperor [Charles I](/postacie/karol-i-habsburg) passed over many more senior admirals and gave him command of the whole fleet. Horthy tried to restore its fighting spirit, but his only major operation ended in the [sinking of the dreadnought *Szent István*](/zatopienie-szent-istvana), and half a year later it was he who had to [hand the ships over](/flota-dla-panstwa-shs) to the Yugoslav state. The fame of the "hero of the *Novara*" helped him in 1919 to take the lead of the Hungarian counter-revolution.

@@ -6,7 +6,7 @@ country: Greece
 birthPlace: Patras (Greece)
 deathPlace: Athens
 source: dimitrios-gunaris
-sourceHash: b49c747dad631604ae0447794adbbf71ecd3467d
+sourceHash: 8be572a9f1872f7623b032787a46fc78cc68f447
 ---
 
 Dimitrios Gounaris was the most gifted orator and the most important political opponent of [Eleftherios Venizelos](/postacie/elefterios-wenizelos). When in March 1915 King [Constantine I](/postacie/konstantyn-i) rejected the plan for Greek participation in the Dardanelles operation, it was Gounaris who took over the government from Venizelos and for five months pursued a policy of neutrality that the Entente did not trust. Later he was one of the pillars of the royal cabinets, and after Constantine's fall in 1917 he was sent into exile in Corsica. After the war he returned, led the anti-Venizelists to victory and as prime minister led Greece during the war with Turkey. After it was lost, he paid for the defeat with his life.

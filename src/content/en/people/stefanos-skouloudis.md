@@ -6,7 +6,7 @@ country: Greece
 birthPlace: Constantinople (Ottoman Empire)
 deathPlace: Athens
 source: stefanos-skuludis
-sourceHash: f2a43752e9a4cea0a4d8c8af58f0ea83fd95b078
+sourceHash: 85169fbdc3d210885260e3902e60e0677a23babf
 ---
 
 Stefanos Skouloudis was one of the oldest politicians to head a government during the Great War. When in November 1915 King [Constantine I](/postacie/konstantyn-i) entrusted him with the premiership, he was 76 and had behind him a long career as a banker, diplomat and minister. He governed for only seven months, but they were the months in which Greece, formally neutral, became the base of the Entente army at Salonika, and its government had to yield to one Allied demand after another while not wishing to break with Germany. To the Entente and to the supporters of [Eleftherios Venizelos](/postacie/elefterios-wenizelos) he was the embodiment of the court policy that handed Fort Rupel to the Bulgarians. To the royalist camp he was an aged patriot who out of a sense of duty accepted an office nobody wanted.

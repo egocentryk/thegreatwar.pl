@@ -10,6 +10,11 @@ birthPlace: Sadzawki koło Siemianowic (Górny Śląsk, Prusy)
 deathPlace: Warszawa
 aliases: [Wojciech Korfanty]
 wikiTitles: [Wojciech_Korfanty]
+photo:
+  src: ../../assets/postacie/wojciech-korfanty.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Wojciech_Korfanty_4.jpg
 authors: [Natalia]
 tags: [Wojciech Korfanty, Polska, Niemcy, Wielkopolska]
 sources:

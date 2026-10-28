@@ -10,6 +10,11 @@ birthPlace: Moskwa
 deathPlace: Moskwa
 aliases: [Nikołaj Bucharin]
 wikiTitles: [Nikołaj_Bucharin]
+photo:
+  src: ../../assets/postacie/nikolaj-bucharin.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:N.I._Bukharin_(1888-1938).jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin, inicjatywy pokojowe]
 sources:

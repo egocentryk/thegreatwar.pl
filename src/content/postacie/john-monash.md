@@ -10,6 +10,11 @@ birthPlace: Melbourne (Australia)
 deathPlace: Melbourne
 aliases: [John Monash]
 wikiTitles: [John_Monash]
+photo:
+  src: ../../assets/postacie/john-monash.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:John_Monash_1.jpg
 authors: [Natalia]
 tags: [Australia, Brytyjski Korpus Ekspedycyjny, czołgi]
 sources:

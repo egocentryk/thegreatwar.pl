@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Kherson Governorate (Russian Empire, now Ukraine)
 deathPlace: Near Willenberg (East Prussia)
 source: aleksandr-samsonow
-sourceHash: fc78d3122439ffe96271258a578a24f1d4f59412
+sourceHash: 40985ba7c32936f5bcfa012f2bc8163f13c8395d
 ---
 
 General Alexander Samsonov commanded the Russian 2nd Army in August 1914, in the first Russian offensive into East Prussia. Less than two weeks after crossing the border his army was encircled and destroyed at Tannenberg, and more than 90,000 soldiers were taken prisoner. Samsonov did not survive the defeat: on the night of 29–30 August he walked away from his staff in the forest near Willenberg (Wielbark) and shot himself. His name became a symbol of the catastrophe, to which, however, not only his own mistakes contributed, but also the plan, the haste and the chaos of command at every level of the Russian army.

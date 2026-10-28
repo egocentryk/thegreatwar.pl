@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Londyn
 aliases: [Hubert Gough]
 wikiTitles: [Hubert_Gough]
+photo:
+  src: ../../assets/postacie/hubert-gough.jpg
+  credit: Official British military photographer
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:LtGenHubert_de_la_Poer_Gough.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Douglas Haig, Irlandia]
 sources:

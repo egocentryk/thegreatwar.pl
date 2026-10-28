@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Hohenfinow (Germany)
 deathPlace: Hohenfinow
 source: theobald-von-bethmann-hollweg
-sourceHash: 32f47717a1a8cfd2a1b0b44fda5676416def81c6
+sourceHash: 0c0e313bb9ebc62f12b58ddf2235989fca31a4a9
 ---
 
 Theobald von Bethmann Hollweg was Chancellor of the German Empire for eight years, from July 1909 to July 1917. It was he who directed German policy in the July Crisis of 1914, he who admitted in the Reichstag that the invasion of Belgium was a wrong, and he who called the guarantee of its neutrality "a scrap of paper". During the war he tried to steer between the advocates of sweeping annexations and the Social Democrats, held back unrestricted submarine warfare for two years and in December 1916 announced the peace offer of the Central Powers. In the end, however, he lost to the military. For a hundred years historians have argued whether he was a helpless philosopher dragged into war by the generals or a politician who knowingly risked a world war.

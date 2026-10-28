@@ -10,6 +10,11 @@ birthPlace: Staunton (Wirginia, Stany Zjednoczone)
 deathPlace: Waszyngton
 aliases: [Woodrow Wilson]
 wikiTitles: [Woodrow_Wilson]
+photo:
+  src: ../../assets/postacie/woodrow-wilson.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:President_Woodrow_Wilson_by_Harris_%26_Ewing,_1914-crop.jpg
 authors: [Łukasz Skowroń]
 tags: [Woodrow Wilson, Stany Zjednoczone, inicjatywy pokojowe]
 sources:

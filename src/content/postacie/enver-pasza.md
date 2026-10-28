@@ -10,6 +10,11 @@ birthPlace: Konstantynopol (Imperium Osmańskie)
 deathPlace: okolice Bałdżuanu (dziś Tadżykistan)
 aliases: [Enver Pasza, İsmail Enver]
 wikiTitles: [İsmail_Enver, Enver_Pasza]
+photo:
+  src: ../../assets/postacie/enver-pasza.jpg
+  credit: Nicola Perscheid
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Enver_Pasha_1911.jpg
 authors: [Natalia]
 tags: [Enver Pasza, Imperium Osmańskie, Kaukaz, ludobójstwo Ormian]
 sources:

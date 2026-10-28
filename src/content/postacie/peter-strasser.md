@@ -10,6 +10,11 @@ birthPlace: Hanower (Prusy)
 deathPlace: Morze Północne u wybrzeży Norfolk (Anglia)
 aliases: [Peter Strasser]
 wikiTitles: [Peter_Strasser]
+photo:
+  src: ../../assets/postacie/peter-strasser.jpg
+  credit: P. Strasser
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:PeterStrasser.jpg
 authors: [Natalia]
 tags: [Peter Strasser, sterowce, Kaiserliche Marine, lotnictwo]
 sources:

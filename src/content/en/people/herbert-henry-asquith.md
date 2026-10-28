@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Morley (England)
 deathPlace: Sutton Courtenay (England)
 source: herbert-henry-asquith
-sourceHash: 80506816ab1c4efd6a2dce09c4e596d878b22a68
+sourceHash: 1e7ba2f47105bd50a2e81802719848b9ab7443f4
 ---
 
 Herbert Henry Asquith was the Prime Minister who took Britain into the war as a united country and led its government for more than two years. A superb parliamentarian and a master at reconciling quarrelling ministers, he was seen as a man of peace who could not become the leader of a total war. Under his government the decisions were taken to send the army to France, to mount the Dardanelles expedition, to create the Ministry of Munitions and to introduce the first conscription in the country's history. The Gallipoli disaster, the shell crisis, the rising in Dublin and the slaughter on the Somme undermined his authority, and in December 1916 his dispute with David Lloyd George ended his premiership and split the Liberal Party for good.

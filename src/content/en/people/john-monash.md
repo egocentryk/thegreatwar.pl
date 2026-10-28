@@ -6,7 +6,7 @@ country: Australia
 birthPlace: Melbourne (Australia)
 deathPlace: Melbourne
 source: john-monash
-sourceHash: f7a598f9ee1dc452b55202937167c5f7c7f27fb1
+sourceHash: 89b8bad35ff2c02a3362ac37701e9640598c3507
 ---
 
 Sir John Monash was not a professional soldier. Before the war he was a civil engineer, a pioneer of reinforced concrete in Australia, and soldiering was something he did after hours as a militia officer. The son of Jewish immigrants from Krotoszyn in Greater Poland, as fluent in German as in English, in 1914 he did not look like a candidate for a great commander, and he had to put up with rumours that he was a German spy. At Gallipoli he commanded a brigade without much success, and in Flanders a division that fought well. Only as commander of the Australian Corps in 1918 did he show what he could do. The battles of Hamel, Amiens and Mont Saint-Quentin, prepared with an engineer's precision, made him in the eyes of many historians one of the finest commanders of the Western Front, and in Australia a national hero whose face is today on the hundred-dollar note.

@@ -6,7 +6,7 @@ country: Belgium
 birthPlace: Brussels
 deathPlace: Marche-les-Dames (Belgium)
 source: albert-i
-sourceHash: 3c69f96daa604719e5bfd0563bd2af5cffe111bd
+sourceHash: 244c326f00f6dff6ea53f2aec5cb5fbe30effc1f
 ---
 
 Albert I was the king of a small, neutral state that in August 1914 stood in the path of the most powerful army in Europe. He rejected the German ultimatum, took personal command of the army, led it out of Antwerp and halted it on the Yser, where for four years he defended the last scrap of free Belgium. He did not leave for France with the government, and his presence among the soldiers made him the "Soldier King", a symbol of resistance admired throughout the Allied world. At the same time he guarded the independence of his army, was unwilling to bleed it white in great offensives and quietly sounded out the possibility of a compromise peace. Only in September 1918 did he take command of the Allied Flanders Army Group and lead the offensive that liberated western Belgium.

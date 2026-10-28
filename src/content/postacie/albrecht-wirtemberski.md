@@ -10,6 +10,11 @@ birthPlace: Wiedeń (Austria)
 deathPlace: Altshausen (Wirtembergia)
 aliases: [Albrecht Wirtemberski]
 wikiTitles: [Albrecht_Wirtemberski]
+photo:
+  src: ../../assets/postacie/albrecht-wirtemberski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Herzog_Albrecht_Portrait.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Belgia, broń chemiczna]
 sources:

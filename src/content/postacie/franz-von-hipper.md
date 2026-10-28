@@ -10,6 +10,11 @@ birthPlace: Weilheim (Bawaria)
 deathPlace: Hamburg-Othmarschen
 aliases: [Franz von Hipper]
 wikiTitles: [Franz_von_Hipper]
+photo:
+  src: ../../assets/postacie/franz-von-hipper.jpg
+  credit: Ferdinand Urbahns
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Vizeadmiral_Hipper,_der_Befehlshaber_der_deutschen_Aufkl%C3%A4rungsschiffe_in_der_Seeschlacht.png
 authors: [Natalia]
 tags: [Franz von Hipper, Kaiserliche Marine, Morze Północne]
 sources:

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Southampton (England)
 deathPlace: London
 source: john-jellicoe
-sourceHash: 6f0305a23f38e7230af74daac859ef4db3b0e3a3
+sourceHash: 908527b39a7be2ac3abe6619a1b402ad20d1fb87
 ---
 
 For more than two years John Rushworth Jellicoe commanded the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), the largest war fleet in the world, on which it depended whether Britain would keep command of the sea, the blockade of Germany and the supply of food from overseas. He was the only British commander to lead the whole battle fleet in an engagement with the German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte). At Jutland in 1916 he did not win the victory the country expected, but he prevented a defeat and kept a superiority that the Germans never challenged again. Then, as First Sea Lord, the professional head of the Royal Navy, he fought unrestricted submarine warfare at its most dangerous. For a long time he did not believe in convoys, and at the end of 1917 the Prime Minister, who considered him a pessimist, had him removed. The dispute over his caution continues to this day.

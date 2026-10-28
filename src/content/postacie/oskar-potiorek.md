@@ -10,6 +10,11 @@ birthPlace: Bad Bleiberg (Karyntia)
 deathPlace: Klagenfurt
 aliases: [Oskar Potiorek]
 wikiTitles: [Oskar_Potiorek]
+photo:
+  src: ../../assets/postacie/oskar-potiorek.jpg
+  credit: Carl Pietzner
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Potiorek_oskar_fzm_1853_1933_photo2.jpg
 authors: [Natalia]
 tags: [Oskar Potiorek, Austro-Węgry, Serbia]
 sources:

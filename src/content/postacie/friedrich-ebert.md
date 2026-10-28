@@ -10,6 +10,11 @@ birthPlace: Heidelberg (Wielkie Księstwo Badenii)
 deathPlace: Berlin
 aliases: [Friedrich Ebert]
 wikiTitles: [Friedrich_Ebert]
+photo:
+  src: ../../assets/postacie/friedrich-ebert.jpg
+  credit: Bundesarchiv, Bild 102-00015 / Georg Pahl
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00015,_Friedrich_Ebert.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Socjaldemokratyczna Partia Niemiec, rewolucja listopadowa, polityka wewnętrzna]
 sources:

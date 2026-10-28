@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Sliven (Ottoman Empire, now Bulgaria)
 deathPlace: Füssen (Germany)
 source: nikola-zekow
-sourceHash: f70859db15f68764ff0be56b2bc2bf0ac20ffe77
+sourceHash: 3a48bc5959840ba0a6d08c68713d6423ce79ecef
 ---
 
 Throughout the war that Bulgaria waged on the side of the Central Powers, Nikola Zhekov stood at the head of its army. Formally the commander-in-chief was Tsar [Ferdinand](/postacie/ferdynand-i-koburg), but it was Zhekov, as commander of the field army, who directed the troops in the Serbian campaign of 1915, in the war with Romania and through three years of fighting on the Macedonian front. He was among the most resolute supporters of the alliance with Germany, with which he cooperated, though not without disputes. His command ended in disaster: when the Allies broke through the front at Dobro Pole in September 1918, he was undergoing medical treatment in Vienna. After the war a court convicted him as one of those responsible for the "second national catastrophe", and in the 1930s he became one of the leaders of the Bulgarian far right.

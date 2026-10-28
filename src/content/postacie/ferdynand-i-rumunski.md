@@ -10,6 +10,11 @@ birthPlace: Sigmaringen (Niemcy)
 deathPlace: Sinaia
 aliases: [Ferdynand I Rumuński]
 wikiTitles: [Ferdynand_I_Rumuński, Ferdynand_I_Hohenzollern-Sigmaringen]
+photo:
+  src: ../../assets/postacie/ferdynand-i-rumunski.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:King_Ferdinand_of_Romania.jpg
 authors: [Łukasz Skowroń]
 tags: [Ferdynand I Rumuński, Rumunia, Siedmiogród, neutralność]
 sources:

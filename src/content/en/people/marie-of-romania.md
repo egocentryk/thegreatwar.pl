@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Eastwell Park, Kent (England)
 deathPlace: Sinaia
 source: maria-rumunska
-sourceHash: d1ab02a440236f3c753f6cc4f171be92c52e5477
+sourceHash: 9cdeaee0c64e461c07c14fb72772a7158752f508
 ---
 
 Marie, wife of King [Ferdinand I](/postacie/ferdynand-i-rumunski), was the best-known woman on a throne during the Great War and one of the few who had real influence on politics. A British princess, granddaughter of Queen Victoria and of the Russian Tsar Alexander II, she supported Romania's entry into the war on the side of the Entente from the start and used her kinship with the courts in London and Petrograd to that end. When the 1916 campaign ended in disaster, she worked in the hospitals of Jassy, crowded with refugees and wounded, and became a symbol of resistance for the Romanians. In 1918 she was one of the few in the king's entourage who opposed a separate peace with the Central Powers to the end. The Romanians called her "the mother of the wounded", and after the war she became the face of Greater Romania at the peace conference in Paris.

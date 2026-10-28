@@ -10,6 +10,11 @@ birthPlace: Hrvatska Kostajnica (Chorwacja i Slawonia, Austro-Węgry)
 deathPlace: Praga
 aliases: [Svetozar Pribićević]
 wikiTitles: [Svetozar_Pribićević]
+photo:
+  src: ../../assets/postacie/svetozar-pribicevic.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Svetozar_Pribi%C4%87evi%C4%87_(1).jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Serbia, polityka wewnętrzna]
 sources:

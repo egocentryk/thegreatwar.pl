@@ -10,6 +10,11 @@ birthPlace: Pokrowskoje, gubernia tobolska (Imperium Rosyjskie)
 deathPlace: Piotrogród
 aliases: [Grigorij Rasputin]
 wikiTitles: [Grigorij_Rasputin]
+photo:
+  src: ../../assets/postacie/grigorij-rasputin.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg
 authors: [Natalia]
 tags: [Grigorij Rasputin, Rosja, Mikołaj II]
 sources:

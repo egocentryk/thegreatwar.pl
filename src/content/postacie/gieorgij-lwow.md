@@ -10,6 +10,11 @@ birthPlace: Drezno (Saksonia)
 deathPlace: Boulogne-Billancourt (Francja)
 aliases: [Gieorgij Lwow]
 wikiTitles: [Gieorgij_Lwow]
+photo:
+  src: ../../assets/postacie/gieorgij-lwow.jpg
+  credit: Wood, Alan
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Georgy_Lvov,_1918.jpg
 authors: [Natalia]
 tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
 sources:

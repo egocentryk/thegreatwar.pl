@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Bielkenfeld (East Prussia)
 deathPlace: Baghdad (Ottoman Empire)
 source: colmar-von-der-goltz
-sourceHash: 447a74e828712764e3e7700ded6b27a35fc3fc71
+sourceHash: 659f2099d9e7358dcd0d9f54548fd8c0dd7be7e9
 ---
 
 Field Marshal Colmar von der Goltz, known to the Turks as Goltz Pasha, was in 1914 one of the oldest and best-known soldiers of the German Empire. He had made his name with the book "The Nation in Arms" of 1883, in which he foretold wars waged with the strength of entire nations, and in Turkey he was remembered as the teacher of the generation of officers who commanded the Ottoman army in the Great War. When war broke out he was 71 and retired. He first governed occupied Belgium, then returned to the Bosporus as adviser to the Sultan, and in the last months of his life commanded the Ottoman Sixth Army in Iraq, which shut up a British division in Kut. He died ten days before its surrender.

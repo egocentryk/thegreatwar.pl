@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Gibraltar
 deathPlace: Baghdad (Ottoman Empire)
 source: frederick-maude
-sourceHash: 0fd46401aa6fcde5e4d732c0f264a1afa883785e
+sourceHash: f389804aae7b0ba9af6d6c572477254db9fc3cd2
 ---
 
 Lieutenant-General Sir Frederick Stanley Maude, known in the army and in his family simply as Stanley Maude, was one of the few British commanders of the Great War who went down in history as winners of a campaign. He took command in Mesopotamia in the summer of 1916, a few months after the humiliating surrender of Kut, when the army was sick, badly supplied and demoralised. Within half a year he turned it into an efficient army, and in the winter of 1917 he led it to victories that brought the British Kut and Baghdad. For the government in London, weary of bloody and fruitless offensives in France, the capture of Baghdad was one of the few great successes of that spring. Maude did not live to see the end of the war: he died of cholera in the captured city in November 1917.

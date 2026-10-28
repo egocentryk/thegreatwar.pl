@@ -10,6 +10,11 @@ birthPlace: Tarbes (Francja)
 deathPlace: Paryż
 aliases: [Ferdinand Foch]
 wikiTitles: [Ferdinand_Foch]
+photo:
+  src: ../../assets/postacie/ferdinand-foch.jpg
+  credit: Åhlen & Åkerlund, Stockholm 1915
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ferdinand_Foch_pre_1915.jpg
 authors: [Natalia]
 tags: [Ferdinand Foch, Francja]
 sources:

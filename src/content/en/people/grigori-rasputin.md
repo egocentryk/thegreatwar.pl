@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Pokrovskoye, Tobolsk Governorate (Russian Empire)
 deathPlace: Petrograd
 source: grigorij-rasputin
-sourceHash: 2d2f873009e22227707fb1f70c175f5284218be2
+sourceHash: 0c618576f6d96ce4312b48298dfc0de0581223b6
 ---
 
 Grigori Yefimovich Rasputin held no office and was neither a clergyman nor a soldier, yet he became one of the most famous figures of wartime Russia. A Siberian peasant, wandering pilgrim and self-styled "starets", he won the trust of Emperor [Nicholas II](/postacie/mikolaj-ii) and his wife [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna), because they believed that his prayers saved the life of their son, who suffered from haemophilia. When the Tsar left for Headquarters in 1915, it was widely believed in the capital that Rasputin, through the Empress, appointed and dismissed ministers. His drunken excesses and rumours of treason discredited the dynasty more than the defeats at the front. In December 1916 aristocratic conspirators murdered him, but the monarchy outlived him by only ten weeks. Historians still argue over how much of his power was reality and how much legend.

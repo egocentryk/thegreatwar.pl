@@ -10,6 +10,11 @@ birthPlace: Erfurt (Prusy)
 deathPlace: Berlin
 aliases: [Oskar von Hutier]
 wikiTitles: [Oskar_von_Hutier]
+photo:
+  src: ../../assets/postacie/oskar-von-hutier.jpg
+  credit: Halsey, Francis Whiting
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:General_von_hutier.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Francja, Brytyjski Korpus Ekspedycyjny]
 sources:

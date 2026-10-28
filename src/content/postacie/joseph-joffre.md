@@ -10,6 +10,11 @@ birthPlace: Rivesaltes (Francja)
 deathPlace: Paryż
 aliases: [Joseph Joffre]
 wikiTitles: [Joseph_Joffre]
+photo:
+  src: ../../assets/postacie/joseph-joffre.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Portrait_de_Joseph_Joffre_(cropped)(b).jpg
 authors: [Łukasz Skowroń]
 tags: [Joseph Joffre, Francja]
 sources:

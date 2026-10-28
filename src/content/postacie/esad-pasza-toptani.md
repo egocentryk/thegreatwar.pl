@@ -11,6 +11,11 @@ birthPlace: Tirana (Imperium Osmańskie, dziś Albania)
 deathPlace: Paryż
 aliases: [Esad Pasza Toptani, Esad Pasza]
 wikiTitles: [Esad_Pasza_Toptani]
+photo:
+  src: ../../assets/postacie/esad-pasza-toptani.jpg
+  credit: Pietro Marubi
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Esat_Pash%C3%AB_Toptani_(c._1902).jpg
 authors: [Natalia]
 tags: [Esad Pasza Toptani, Albania, Serbia, Włochy]
 sources:

@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Potsdam (Germany)
 deathPlace: Hechingen (Germany)
 source: wilhelm-nastepca-tronu
-sourceHash: da8b84442c9349ddf1a960877fd6d89f84155a74
+sourceHash: d455b8cd3d1f949f6553b34d478fb8cd39ea45af
 ---
 
 Wilhelm, the last crown prince of the German Empire and the Kingdom of Prussia, was throughout the war one of the best-known German commanders, although he almost never truly commanded. In August 1914, as a 32-year-old officer who had never commanded anything larger than a regiment, he was given the 5th Army. It was in fact run by his chief of staff, and his father, Emperor [Wilhelm II](/postacie/wilhelm-ii), told him to follow his advice. In 1916 the crown prince's army conducted the German offensive at Verdun, and for the French and British the "Kronprinz" became the face of that battle. From the autumn of 1916 to the end of the war he commanded an army group in the central part of the Western Front, which in 1917 repulsed the Nivelle offensive and in 1918 conducted several great offensives. In politics he sided with the generals against the chancellor, and after the war, in exile and after his return home, he fought the republic and helped Hitler on his road to power.

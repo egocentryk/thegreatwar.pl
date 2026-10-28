@@ -10,6 +10,11 @@ birthPlace: Zułów na Wileńszczyźnie (Imperium Rosyjskie)
 deathPlace: Warszawa
 aliases: [Józef Piłsudski]
 wikiTitles: [Józef_Piłsudski]
+photo:
+  src: ../../assets/postacie/jozef-pilsudski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:J%C3%B3zef_Pi%C5%82sudski_(22-1-4)_cropped.jpg
 authors: [Łukasz Skowroń]
 tags: [Józef Piłsudski, Legiony Polskie, Polska, Królestwo Polskie]
 sources:

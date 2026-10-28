@@ -10,6 +10,11 @@ birthPlace: Askainen (Finlandia)
 deathPlace: Lozanna (Szwajcaria)
 aliases: [Carl Gustaf Mannerheim, Carl Gustaf Emil Mannerheim]
 wikiTitles: [Carl_Gustaf_Emil_Mannerheim]
+photo:
+  src: ../../assets/postacie/carl-gustaf-mannerheim.jpg
+  credit: Ulrich Romberg ("Rembrandt"), Schaffhausen
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Carl_Gustaf_Mannerheim_3.jpg
 authors: [Łukasz Skowroń]
 tags: [Finlandia, Rosja, rewolucja październikowa]
 sources:

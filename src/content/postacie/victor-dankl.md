@@ -10,6 +10,11 @@ birthPlace: Udine (Królestwo Lombardzko-Weneckie)
 deathPlace: Innsbruck
 aliases: [Victor Dankl, Viktor Dankl]
 wikiTitles: [Victor_Dankl]
+photo:
+  src: ../../assets/postacie/victor-dankl.jpg
+  credit: The New York Times Current History (1914)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Viktor_von_Dankl_-_Project_Gutenberg_eText_16363.jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Galicja, Włochy]
 sources:

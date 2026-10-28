@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Wrotham Park (England)
 deathPlace: Thorpe-le-Soken (England)
 source: julian-byng
-sourceHash: 46c9276e2ddf6dd1559ff91625e9250402c52d54
+sourceHash: 7f08d464ce8c2fca38e0017e9198ae3f238880c5
 ---
 
 Sir Julian Byng, from 1919 a baron and from 1928 Viscount Byng of Vimy, was one of the few British generals of the First World War whom the soldiers genuinely liked. He had neither a brilliant mind nor political talents, but he listened to his subordinates, cared about training and was not afraid of new methods. He commanded cavalry at Ypres, carried out the evacuation of Suvla and, as commander of the Canadian Corps, prepared the capture of Vimy Ridge, which Canadians still regard as the birth of their nation. His Third Army was the first to break the Hindenburg Line with massed tanks at Cambrai, and in 1918 it withstood the blow of the Spring Offensive and went forward in the Hundred Days Offensive. He put the name Vimy into his title, and then for five years was Governor General of Canada.

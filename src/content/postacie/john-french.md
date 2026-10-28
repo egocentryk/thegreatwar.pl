@@ -10,6 +10,11 @@ birthPlace: Ripple (hrabstwo Kent, Anglia)
 deathPlace: Zamek Deal (hrabstwo Kent)
 aliases: [John French]
 wikiTitles: [John_French]
+photo:
+  src: ../../assets/postacie/john-french.jpg
+  credit: Hainer, Paris
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Field_Marshal_Sir_John_French_2.jpg
 authors: [Łukasz Skowroń]
 tags: [John French, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
 sources:

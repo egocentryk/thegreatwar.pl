@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Züllichau, now Sulechów (Prussia, now Poland)
 deathPlace: Bernbeuren (Bavaria)
 source: rudiger-von-der-goltz
-sourceHash: ee8238c4abf3df9e7789e81b90f7179355910de2
+sourceHash: 6790c7363536879d15b26c413ef96505520db73f
 ---
 
 Count Rüdiger von der Goltz, of the same widely branched Prussian family as Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz), was for most of the war one of many capable commanders of regiments, brigades and divisions on the Western and Eastern Fronts. Fame came to him only in 1918. In the spring he led the German Baltic Division across the Baltic; it helped the Finnish Whites win the civil war and captured Helsinki, and for the next eight months he was the man in Finland whose opinion the regent, the government and the army had to reckon with. After the war, in 1919, he commanded German volunteers in Latvia, where he moved from fighting the Bolsheviks to an attempt to subordinate the country to the Baltic Germans. These last two roles made him one of the symbols of German ambitions on the Baltic at the end of the war.

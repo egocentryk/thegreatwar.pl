@@ -10,6 +10,11 @@ birthPlace: Poczdam (Niemcy)
 deathPlace: Hechingen (Niemcy)
 aliases: [następca tronu Wilhelm, Wilhelm Hohenzollern]
 wikiTitles: [Wilhelm_Hohenzollern_(1882–1951)]
+photo:
+  src: ../../assets/postacie/wilhelm-nastepca-tronu.jpg
+  credit: E. Bieber
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Kronprinz_Wilhelm_1._Leib-Husarenregiment.jpg
 authors: [Natalia]
 tags: [Niemcy, Wilhelm II, Erich von Falkenhayn]
 sources:

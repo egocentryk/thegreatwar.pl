@@ -10,6 +10,11 @@ birthPlace: Poznań
 deathPlace: Neudeck (dziś Ogrodzieniec, Polska)
 aliases: [Paul von Hindenburg]
 wikiTitles: [Paul_von_Hindenburg]
+photo:
+  src: ../../assets/postacie/paul-von-hindenburg.jpg
+  credit: Bundesarchiv, Bild 183-C06886
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-C06886,_Paul_v._Hindenburg.jpg
 authors: [Natalia]
 tags: [Paul von Hindenburg, Niemcy, Erich Ludendorff, Prusy Wschodnie]
 sources:

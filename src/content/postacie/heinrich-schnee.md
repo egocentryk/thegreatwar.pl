@@ -10,6 +10,11 @@ birthPlace: Neuhaldensleben (Niemcy)
 deathPlace: Berlin
 aliases: [Heinrich Schnee]
 wikiTitles: [Heinrich_Schnee]
+photo:
+  src: ../../assets/postacie/heinrich-schnee.jpg
+  credit: NN
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Heinrich_Schnee.jpg
 authors: [Natalia]
 tags: [Niemiecka Afryka Wschodnia, Paul von Lettow-Vorbeck, kolonie niemieckie]
 sources:

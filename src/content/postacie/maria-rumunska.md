@@ -10,6 +10,11 @@ birthPlace: Eastwell Park, hrabstwo Kent (Anglia)
 deathPlace: Sinaia
 aliases: [Maria Koburg, królowa Maria]
 wikiTitles: [Maria_Koburg]
+photo:
+  src: ../../assets/postacie/maria-rumunska.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Queen_Mary_of_Romania_2.jpg
 authors: [Łukasz Skowroń]
 tags: [Rumunia, Ferdynand I Rumuński, Wielka Brytania]
 sources:

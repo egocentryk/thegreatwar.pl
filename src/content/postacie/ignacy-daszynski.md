@@ -10,6 +10,11 @@ birthPlace: Zbaraż (Galicja, Austro-Węgry)
 deathPlace: Bystra koło Bielska
 aliases: [Ignacy Daszyński]
 wikiTitles: [Ignacy_Daszyński]
+photo:
+  src: ../../assets/postacie/ignacy-daszynski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ignacy_Daszy%C5%84ski_%C5%BCycie_praca_walka_71.jpg
 authors: [Łukasz Skowroń]
 tags: [Ignacy Daszyński, Polska, Galicja, Legiony Polskie]
 sources:

@@ -6,7 +6,7 @@ country: Portugal
 birthPlace: Caminha (Portugal)
 deathPlace: Lisbon
 source: sidonio-pais
-sourceHash: b5772b502a982477acbe77a20861ac2e41e5d41e
+sourceHash: 4fe51dea3a89155a7a1ab9dae2cd3475138aa837
 ---
 
 Sidónio Bernardino Cardoso da Silva Pais ruled Portugal for less than a year, from a coup d'état in December 1917 until his death at an assassin's hand in December 1918. It was the year in which Portuguese troops suffered in Flanders one of the heaviest defeats in their history, and the country, exhausted by high prices, strikes and epidemics, stood on the brink of civil war. Pais came to power as an opponent of the government that had drawn Portugal into the war on the side of the Entente, and many considered him a Germanophile. Yet he did not take Portugal out of the war. Instead he built Portugal's first presidential system, in which he was himself both head of state and head of government, and his supporters surrounded him with a cult. To some he was the saviour of the fatherland and a martyr, to others a dictator and a harbinger of Salazar's authoritarian state.

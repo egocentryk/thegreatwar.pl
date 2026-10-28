@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Simbirsk (Russian Empire)
 deathPlace: Gorki near Moscow
 source: wlodzimierz-lenin
-sourceHash: 82db97c0dbc304b39af9a111245aab2c0c8df34f
+sourceHash: 9a1bafc9da124fbab85dfbf0de93ac50f8f8ac78
 ---
 
 Vladimir Ilyich Ulyanov, known by the pseudonym Lenin, was in the First World War the most uncompromising opponent of the war in the socialist camp and, towards its end, the man who changed its course in the east. He appears on the Entente side only because he was a citizen of one of its powers. In reality, from 1914 he wished defeat on his own country's government and called for the war between states to be turned into a civil war between classes. Until the spring of 1917 he was an émigré in Switzerland, the leader of a small faction. In April the Germans let him through to Russia, counting on him to weaken it from within. Seven months later his party seized power in Petrograd, and in March 1918, against the majority of his own comrades, Lenin forced through the Treaty of Brest-Litovsk, which took Russia out of the war and opened the way for Germany's last great offensive in the west. His state outlived defeated Germany by more than seventy years.

@@ -10,6 +10,11 @@ birthPlace: Palermo (Włochy)
 deathPlace: Rzym
 aliases: [Vittorio Emanuele Orlando]
 wikiTitles: [Vittorio_Emanuele_Orlando]
+photo:
+  src: ../../assets/postacie/vittorio-emanuele-orlando.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:VittorioEmanuelleOrlando28379v.jpg
 authors: [Łukasz Skowroń]
 tags: [Vittorio Emanuele Orlando, Włochy, Sidney Sonnino, Luigi Cadorna]
 sources:

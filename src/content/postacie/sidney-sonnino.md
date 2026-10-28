@@ -10,6 +10,11 @@ birthPlace: Piza (Włochy)
 deathPlace: Rzym
 aliases: [Sidney Sonnino]
 wikiTitles: [Sidney_Sonnino]
+photo:
+  src: ../../assets/postacie/sidney-sonnino.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sidney_Sonnino_2.jpg
 authors: [Natalia]
 tags: [Sidney Sonnino, Włochy, Albania]
 sources:

@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Bajkowo, Tver Governorate (Russian Empire)
 deathPlace: Petrograd
 source: boris-sturmer
-sourceHash: 9f5ac2c4db51419fcb21938e1ef503b43f2e22ae
+sourceHash: b33b5a04961549af9e5009d166935d2202aed0d4
 ---
 
 Boris Vladimirovich Stürmer headed the Russian government for less than ten months of 1916, but he became one of the symbols of the decay of tsarist rule. He was an aged courtier and governor with no experience of national politics, and he was made prime minister by Tsar [Nicholas II](/postacie/mikolaj-ii), who was looking for an obedient executor of his will. Contemporaries were convinced that the appointment had been arranged by the Empress [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna) and [Grigori Rasputin](/postacie/grigorij-rasputin). For several months Stürmer combined the offices of prime minister, minister of the interior and later minister of foreign affairs. His German surname and rumours of a separate peace with Germany led the opposition in the Duma to accuse him publicly of treason in November 1916. No evidence was ever found, but his dismissal could no longer save the monarchy.

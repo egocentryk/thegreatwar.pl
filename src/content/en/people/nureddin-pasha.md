@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Bursa (Ottoman Empire)
 deathPlace: Istanbul (Turkey)
 source: nureddin-pasza
-sourceHash: d268cac4299626f425725f233991ed6d43b47945
+sourceHash: d34580290e69c7c4e63a44b890410b40b57a878a
 ---
 
 Nureddin, during the Great War still a colonel, that is Nureddin Bey, and from 1918 Nureddin Pasha, known in Turkey as "the Bearded" (Sakallı), commanded the Ottoman forces in Iraq during the most important six months of the campaign there. In September 1915 he lost to the British at Kut, but in November at Ctesiphon he stopped the march of General Townshend's division on Baghdad, and then shut it up in Kut. That siege ended in April 1916 with one of the most humiliating surrenders in the history of the British Army, although Nureddin was no longer at the town by then. After the war he was one of the leading commanders of the Turkish national movement. His name is also associated with brutal repression of Greeks and Kurds and with the lynching of the Metropolitan of Smyrna in 1922.

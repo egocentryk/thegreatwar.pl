@@ -10,6 +10,11 @@ birthPlace: Grazzano Monferrato, dziś Grazzano Badoglio (Włochy)
 deathPlace: Grazzano Badoglio (Włochy)
 aliases: [Pietro Badoglio]
 wikiTitles: [Pietro_Badoglio]
+photo:
+  src: ../../assets/postacie/pietro-badoglio.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Pietro_Badoglio_3.jpg
 authors: [Natalia]
 tags: [Włochy, Austro-Węgry, Armando Diaz, Luigi Cadorna]
 sources:

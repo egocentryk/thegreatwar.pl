@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Kotor (Dalmatia, Austria)
 deathPlace: Prague
 source: radola-gajda
-sourceHash: 845d91431864d869ccc8b7270aa4733b3749e808
+sourceHash: 2bf0ceb980b6434cc0deaabaaed549acd9528d1a
 ---
 
 Radola Gajda was the most daring and the most controversial commander of the Czechoslovak forces in Russia. In 1915 he was serving as a reservist in the Austro-Hungarian army, and by September 1918, at the age of 26, he was a general. In the spring and summer of 1918 his troops seized the central section of the Trans-Siberian Railway and fought their way east beyond Lake Baikal. He later entered the service of Admiral [Alexander Kolchak](/postacie/aleksandr-kolczak), took Perm in December 1918 and commanded the Siberian Army. His life story, full of changed names, false titles and sudden reversals, ends less gloriously: in independent Czechoslovakia he became the leader of the fascist movement.

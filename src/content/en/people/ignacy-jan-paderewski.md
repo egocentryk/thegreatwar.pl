@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Kuryłówka in Podolia (Russian Empire)
 deathPlace: New York
 source: ignacy-jan-paderewski
-sourceHash: 91b206855b30cff983476d602c0620cd4d9bcf07
+sourceHash: ef36eea7701dbcff07ae33682f304e31fc0499e9
 ---
 
 In 1914 Ignacy Jan Paderewski was the most famous Pole in the world, but he was no politician. He was known as a pianist who filled the largest concert halls of Europe and America. The war made a diplomat of him. First he raised money for the victims of the war in the Polish lands; then he used his fame and his access to the most important people in Washington to persuade President [Woodrow Wilson](/postacie/woodrow-wilson) and his adviser [Edward House](/postacie/edward-house) that the United States should support an independent Poland. As the representative in America of the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) he won the Polish diaspora over to it and helped recruit volunteers for the Polish army in France. In December 1918 he came home as a man trusted by the Allies and brought about a compromise between [Józef Piłsudski](/postacie/jozef-pilsudski) and [Roman Dmowski](/postacie/roman-dmowski). In 1919, as prime minister, he signed the Treaty of Versailles.

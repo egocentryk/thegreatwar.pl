@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Kumodraž near Belgrade (Serbia)
 deathPlace: Čačak (Kingdom of Serbs, Croats and Slovenes)
 source: stepa-stepanovic
-sourceHash: 013733e33be1ed5222ad45dc4c897dc1501db8b1
+sourceHash: 4ba67050ddcffddefd3adfe5657c7d00518b8a70
 ---
 
 Stepa Stepanović went through the whole of the Great War at the head of the same Serbian Second Army. In August 1914 his Second Army won on Mount Cer the first Allied victory of the war; in December of the same year it advanced in the front line on Belgrade; in the autumn of 1915 it held back the Bulgarians for several weeks; and in September 1918 it broke the front at Dobro Pole, which within two weeks knocked Bulgaria out of the war. The son of a peasant from near Belgrade, strict with his officers and close to his soldiers, shunning journalists and politics, he remains to this day one of the most popular national heroes in Serbia.

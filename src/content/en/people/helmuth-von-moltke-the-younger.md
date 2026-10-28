@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Gersdorf (Mecklenburg)
 deathPlace: Berlin
 source: helmuth-von-moltke
-sourceHash: 602d5c589d782fee4fc9042c121d7bb356a33c7b
+sourceHash: 8f24163a4bfbb225213dafe7feef67501ca5b020
 ---
 
 Helmuth von Moltke, known as the Younger, spent eight years preparing the German Army for a great war and then commanded it for six weeks. He inherited from his predecessor a plan that was to crush France within a few weeks, before Russia could mobilise, and in August 1914 he put it into effect. In the July Crisis he was among those who pressed hardest for war, but once it had broken out he could not bear the burden of command. The defeat on the Marne in September 1914 wrecked German hopes of a quick victory and broke the man himself. Historians still argue over how much of the defeat was his fault and how much was due to the flaws of the plan itself.

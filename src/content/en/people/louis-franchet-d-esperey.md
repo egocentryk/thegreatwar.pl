@@ -6,7 +6,7 @@ country: France
 birthPlace: Mostaganem (Algeria)
 deathPlace: Saint-Amancet (France)
 source: louis-franchet-d-esperey
-sourceHash: 22ca547b76676a287e185f4dd12c4797dfda909d
+sourceHash: cc58ef37278c41da0bf8331a013dd68e3bd4e570
 ---
 
 Louis Franchet d'Espérey was one of the few French generals who came out of the First World War with a reputation as a victor. In August 1914, as a corps commander, he won at Guise the only major counter-attack of the Great Retreat, and a few days later he took over the Fifth Army and led it into the gap between the German armies on the Marne. For the following years he commanded army groups on the Western Front, but in May 1918 the Germans broke through on the Aisne in his sector. Removed from France, he was given the command at Salonika, which was regarded almost as exile. Three months later his troops broke the Bulgarian front, and Bulgaria became the first of the Central Powers to ask for an armistice. The French usually spell the general's name "d'Espèrey", with a grave accent, but in Poland the form "d'Espérey" has become established.

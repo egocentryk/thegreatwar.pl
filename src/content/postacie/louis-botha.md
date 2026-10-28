@@ -10,6 +10,11 @@ birthPlace: Greytown (Natal)
 deathPlace: Pretoria
 aliases: [Louis Botha]
 wikiTitles: [Louis_Botha]
+photo:
+  src: ../../assets/postacie/louis-botha.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Louis_Botha.png
 authors: [Łukasz Skowroń]
 tags: [Louis Botha, Związek Południowej Afryki, Afryka Południowo-Zachodnia, rebelia burska]
 sources:

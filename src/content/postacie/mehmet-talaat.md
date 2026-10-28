@@ -10,6 +10,11 @@ birthPlace: Kyrdżali (Imperium Osmańskie, dziś Bułgaria)
 deathPlace: Berlin
 aliases: [Talat Pasza, Talaat Pasza, Mehmet Talaat]
 wikiTitles: [Mehmet_Talaat]
+photo:
+  src: ../../assets/postacie/mehmet-talaat.jpg
+  credit: Ambassador Henry Morgenthau, Sr
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Mehmet_Talat_Pasha.jpg
 authors: [Łukasz Skowroń]
 tags: [Talat Pasza, Imperium Osmańskie, ludobójstwo Ormian, Niemcy]
 sources:

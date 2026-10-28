@@ -10,6 +10,11 @@ birthPlace: Kenderes (Węgry)
 deathPlace: Estoril (Portugalia)
 aliases: [Miklós Horthy]
 wikiTitles: [Miklós_Horthy]
+photo:
+  src: ../../assets/postacie/miklos-horthy.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Portraits_de_Mikl%C3%B3s_Horthy.jpg
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Włochy, Morze Śródziemne, Karol I Habsburg]
 sources:

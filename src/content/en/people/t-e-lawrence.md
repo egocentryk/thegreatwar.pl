@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Tremadog (Wales)
 deathPlace: Bovington Camp (Dorset, England)
 source: thomas-edward-lawrence
-sourceHash: cfd3768c0ee476eea25b08180e4f69432c83b2c1
+sourceHash: 5c281d1b34c38a02568ec0e4f60b98f5a3e08a30
 ---
 
 Thomas Edward Lawrence, known as "Lawrence of Arabia", was a young Oxford archaeologist who during the Great War became the most famous British officer in the Middle East. From the autumn of 1916, as liaison officer and adviser to Emir [Faisal](/postacie/fajsal-i), he helped to lead the Arab Revolt against the Turks: he helped to devise the plan for the march on Wejh, conceived and led the expedition to Aqaba, blew up trains on the Hejaz Railway and in the autumn of 1918 rode into Damascus with the Arabs. His influence on the desert war was great, though smaller than the legend claimed. That legend was created by the American journalist Lowell Thomas and by Lawrence himself, author of "Seven Pillars of Wisdom", one of the best-known books about the war. After the war he fought for the Arab cause in Paris and London, and then fled from fame, serving under an assumed name as a private in the air force.

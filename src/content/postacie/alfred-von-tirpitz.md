@@ -10,6 +10,11 @@ birthPlace: Kostrzyn (Prusy, dziś Polska)
 deathPlace: Ebenhausen koło Monachium
 aliases: [Alfred von Tirpitz]
 wikiTitles: [Alfred_von_Tirpitz]
+photo:
+  src: ../../assets/postacie/alfred-von-tirpitz.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alfred_von_Tirpitz.jpg
 authors: [Łukasz Skowroń]
 tags: [Alfred von Tirpitz, Kaiserliche Marine, okręty podwodne]
 sources:

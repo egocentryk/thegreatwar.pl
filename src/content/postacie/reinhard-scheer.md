@@ -10,6 +10,11 @@ birthPlace: Obernkirchen (dziś Dolna Saksonia)
 deathPlace: Marktredwitz (Bawaria)
 aliases: [Reinhard Scheer]
 wikiTitles: [Reinhard_Scheer]
+photo:
+  src: ../../assets/postacie/reinhard-scheer.jpg
+  credit: The European Library
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File:Almirante_Reinhard_Scheer.jpg
 authors: [Łukasz Skowroń]
 tags: [Reinhard Scheer, Kaiserliche Marine, Morze Północne, okręty podwodne]
 sources:

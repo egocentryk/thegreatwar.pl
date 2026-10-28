@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Grazzano Monferrato, now Grazzano Badoglio (Italy)
 deathPlace: Grazzano Badoglio (Italy)
 source: pietro-badoglio
-sourceHash: 751a0bdf5177adb8c75dc2a467cbb5c41b0bbf88
+sourceHash: 3ad07f497d383c2ee4fdc5551d4edc69679d814c
 ---
 
 During the First World War Pietro Badoglio made a career without precedent in the Italian Army: in February 1915 he was a staff lieutenant-colonel, and by the autumn of 1917 a lieutenant-general and corps commander. He made his name with the carefully prepared capture of Monte Sabotino on the Isonzo in August 1916. A year later his XXVII Corps found itself at the very centre of the breakthrough at Caporetto, yet Badoglio not only escaped responsibility but became deputy to the new chief of staff, General Armando Diaz. As his right-hand man he helped rebuild the army and win the victory at Vittorio Veneto, and on 3 November 1918 he signed the armistice with Austria-Hungary on behalf of the Allies. His later path, from the conquest of Ethiopia to the fall of Mussolini in 1943, has made him to this day one of the most controversial figures in twentieth-century Italian history.

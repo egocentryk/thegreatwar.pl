@@ -6,7 +6,7 @@ country: United States
 birthPlace: Houston (Texas, United States)
 deathPlace: New York
 source: edward-house
-sourceHash: 9f8d9f050f89ffcaf19bd485428672981367e3ba
+sourceHash: a45a3b576931276dbea1e8d986d51980969000ee
 ---
 
 Edward Mandell House, known to everyone as "Colonel House", was for most of the war the most influential man in American foreign policy, although he held no office and never served in the army. He was the friend and confidant of President [Woodrow Wilson](/postacie/woodrow-wilson), who said of him that he was his "second personality". In 1914–1916 he travelled around the capitals of Europe, looking for a road to peace through American mediation. After the United States entered the war he represented the president at Allied conferences, directed preparations for the future peace conference and helped write the Fourteen Points. In the autumn of 1918 in Paris he persuaded the Entente prime ministers to accept Wilson's programme as the basis of the armistice. At the peace conference, however, his compromises led to a break with the president, whom he never saw again.

@@ -6,7 +6,7 @@ country: Armenia
 birthPlace: Şebinkarahisar (Ottoman Empire)
 deathPlace: Richardson Springs (California, United States)
 source: andranik-ozanian
-sourceHash: a593dc72a516d3acfa41a91ed801c90172cea0c0
+sourceHash: 68551af6bda995bf6158ad0674b52b02577afcfc
 ---
 
 Andranik Ozanian, known simply as Andranik or General (Armenian: zoravar) Andranik, was the most famous Armenian guerrilla of the turn of the 19th and 20th centuries and one of the most legendary figures in the history of his nation. For more than a decade he fought Ottoman and Kurdish forces in the mountains of Turkish Armenia, in the Balkan War he fought on the side of Bulgaria, and during the Great War he commanded a unit of Armenian volunteers in the Russian army. In 1918, when the Russian army fell apart and the Turks advanced into Transcaucasia, he defended Erzurum, and then, refusing to recognise the peace concluded by the young Republic of Armenia, he fought on his own account in Nakhichevan and Zangezur. For Armenians he is a national hero. Azerbaijani historians, and some Western ones, hold his units responsible for violence against the Muslim population.

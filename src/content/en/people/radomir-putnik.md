@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Kragujevac (Serbia)
 deathPlace: Nice (France)
 source: radomir-putnik
-sourceHash: 9c43739e24aa5fcbae8e7c957c17d1642ea77525
+sourceHash: 4ec89a56f55260b65784e326ebcec761f1368229
 ---
 
 Radomir Putnik was the brain of the Serbian army in the two Balkan Wars and in the first years of the Great War. Formally the commander-in-chief was the regent, [Alexander](/postacie/aleksander-i-karadziordziewic), but operations were directed by the chief of staff of the Supreme Command, an ailing, taciturn old gentleman who for years had scarcely left his office. In 1914 his armies three times repulsed the Austro-Hungarian invasion and in December recaptured Belgrade. A year later, attacked simultaneously by the Germans, the Austrians and the Bulgarians, Putnik avoided encirclement and led the army through the mountains of Montenegro and Albania to the Adriatic. He made the journey himself in a litter, and soon afterwards lost his post. He died in exile, without living to see his return home.

@@ -6,7 +6,7 @@ country: Canada
 birthPlace: Napperton (Ontario, Canada)
 deathPlace: Montreal
 source: arthur-currie
-sourceHash: 9e5337df68a1fefd0a2717e5b4920453ab27d823
+sourceHash: 67a5392151bb2ab74fe017ac1414e5e8fd7b6ae6
 ---
 
 Sir Arthur Currie was one of only two corps commanders on the Western Front, the other being the Australian John Monash, who were not professional soldiers. He started in 1897 as a gunner in the ranks of the Canadian militia, and in June 1917 he became the first Canadian to command the Canadian Corps, one of the best formations in the entire British Army. He led it at Hill 70 and Passchendaele, and in the last hundred days of the war from Amiens through the Drocourt–Quéant Line, the Canal du Nord, Cambrai and Valenciennes all the way to Mons. He liked to say that victory had to be paid for with shells, not with soldiers' lives. Canadian historians, among them Pierre Berton and Jack Granatstein, consider him the finest commander in their country's history. In his lifetime, however, he was a controversial figure, and his record is burdened by a pre-war embezzlement of regimental funds.

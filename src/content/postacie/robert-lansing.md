@@ -10,6 +10,11 @@ birthPlace: Watertown (Nowy Jork, Stany Zjednoczone)
 deathPlace: Waszyngton
 aliases: [Robert Lansing]
 wikiTitles: [Robert_Lansing]
+photo:
+  src: ../../assets/postacie/robert-lansing.jpg
+  credit: National Photo Company Collection
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Robt._Lansing_LCCN2016821442_(3x4a).jpg
 authors: [Natalia]
 tags: [Stany Zjednoczone, Woodrow Wilson, neutralność]
 sources:

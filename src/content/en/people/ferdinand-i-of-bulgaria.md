@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Vienna (Austria)
 deathPlace: Coburg (Germany)
 source: ferdynand-i-koburg
-sourceHash: 88fd1fe8284a57bab29edea5e059ed373038d28b
+sourceHash: 292608d26e1efc15708bf6cb887bc09c8ed135b7
 ---
 
 Ferdinand of the house of Saxe-Coburg and Gotha ruled Bulgaria for 31 years, longer than any other monarch of the modern Bulgarian state. He was first prince and, from 1908, tsar. A German aristocrat brought up in Vienna, a Catholic on the throne of an Orthodox country, he was regarded as the most skilful and most cunning politician in the Balkans. Abroad he was called "the fox". He proclaimed Bulgaria's independence and built up its army, but twice led the country into wars that ended in national catastrophe: in 1913 and in 1915–1918. In the autumn of 1915 it was above all he who decided that Bulgaria would side with the Central Powers. He was also the first of the monarchs of that camp to lose his throne.

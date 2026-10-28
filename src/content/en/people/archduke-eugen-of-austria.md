@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Židlochovice (Gross Seelowitz) in Moravia (Czech Republic)
 deathPlace: Merano (Italy)
 source: eugeniusz-habsburg
-sourceHash: f35ee5a9cd566f6052ff5c57b14ce5d43ff506fa
+sourceHash: 6e4d5cd6fe5c61f6a450d27e67b4bf42bf27d8f3
 ---
 
 Archduke Eugen was one of the few members of the imperial family who were professional, thoroughly trained soldiers. After Oskar Potiorek's defeat in Serbia he took over the forces in the Balkans in December 1914, and from May 1915 he commanded for two and a half years on the front against Italy, which stretched from the Swiss border to the Adriatic. Under his authority the Austro-Hungarian army held off the first battles of the Isonzo, carried out the Trentino offensive in 1916 and in the autumn of 1917, together with the Germans, routed the Italians at Caporetto. Modest, direct and liked by his soldiers, he was above all a figurehead and a coordinator: the plans of operations were drawn up at the high command and in his staff, in which the energetic General Alfred Krauß played the leading role. When Emperor Karl reorganised the army command, he went into retirement at the beginning of 1918. He was the last Habsburg at the head of the Teutonic Order.

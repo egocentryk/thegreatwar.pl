@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Ancona (Papal States)
 deathPlace: Opava
 source: eduard-von-bohm-ermolli
-sourceHash: 7cf6da52995af8347a0f93dc1187ff5573730518
+sourceHash: 13c3f0b827ce25e9ebc4715f5cb0b1182d828402
 ---
 
 Eduard von Böhm-Ermolli commanded the Austro-Hungarian Second Army from the first month of the war until May 1918. Few generals of this war stayed so long in one post. His army fought first on the Serbian border, then in Galicia, in Congress Poland and in the Carpathians, and on 22 June 1915 it entered recaptured Lemberg. From the autumn of 1915 Böhm-Ermolli commanded an army group in Eastern Galicia which came through the Brusilov offensive better than others, and in July 1917 it repulsed the Kerensky offensive and threw the Russians back to the Zbruch. He was not a strategist of Conrad's calibre nor a press hero like Dankl, but he was regarded as one of the most solid generals of the monarchy. The Germans, under whose authority he spent much of the war, valued him particularly highly.

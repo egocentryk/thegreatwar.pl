@@ -6,7 +6,7 @@ country: China
 birthPlace: Anhui Province (China)
 deathPlace: Shanghai
 source: duan-qirui
-sourceHash: 1e0977d0d9382c401c35e75017980d187e1857f0
+sourceHash: 71641f32b3adfc170d70415592e09c1c4b68088d
 ---
 
 Duan Qirui was the strongest man in Beijing in the years when China was entering the Great War. A general of the Beiyang Army and a protégé of [Yuan Shikai](https://pl.wikipedia.org/wiki/Yuan_Shikai), after Yuan's death in 1916 he ruled as premier on behalf of weak presidents, and it was he who forced through the breaking of relations with Germany in March 1917 and the declaration of war on it in August. For him the war was a chance to recover the German rights in Shandong, free China from some of its unequal obligations and obtain money with which he could build his own army and unite the country by force. The money came mainly from Japan, and the secret agreements he concluded in return turned after the war against China and against him personally. The dispute over the war that he unleashed contributed to the split of the state into north and south.

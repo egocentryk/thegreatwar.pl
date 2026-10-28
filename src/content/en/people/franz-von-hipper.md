@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Weilheim (Bavaria)
 deathPlace: Hamburg-Othmarschen
 source: franz-von-hipper
-sourceHash: 3f9112449eaab7d42a97a23a8a03508862de826f
+sourceHash: d5cb1ffe7366ca661b287b6520b0d6153e86633c
 ---
 
 Franz Hipper, from 1916 Ritter von Hipper, commanded the German battlecruisers throughout the war, the fastest and most frequently engaged heavy ships of the Imperial Navy. His squadron shelled English towns, for which the British press called him a "baby-killer"; in January 1915 it escaped from a trap at Dogger Bank at the cost of the cruiser *Blücher*, and at Jutland it sank three British battlecruisers. He was regarded as one of the best naval commanders of the war, respected by his enemies as well. In August 1918 he took command of the High Seas Fleet, but his last plan, a great sortie by the fleet a few days before the armistice, ended in a mutiny of the sailors.

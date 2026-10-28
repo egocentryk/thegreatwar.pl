@@ -10,6 +10,11 @@ birthPlace: Symbirsk (Imperium Rosyjskie)
 deathPlace: Gorki pod Moskwą
 aliases: [Włodzimierz Lenin]
 wikiTitles: [Włodzimierz_Lenin]
+photo:
+  src: ../../assets/postacie/wlodzimierz-lenin.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Lenin_in_1920_(cropped).jpg
 authors: [Łukasz Skowroń]
 tags: [Włodzimierz Lenin, Rosja, rewolucja październikowa, inicjatywy pokojowe]
 sources:

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Edinburgh (Scotland)
 deathPlace: London
 source: edmund-ironside
-sourceHash: 1cafa751ea32ab9b0be9bcd9ac4fdd4e65f7f4cc
+sourceHash: 51cfa3db4b430719e25c6f043991713f342c2077
 ---
 
 William Edmund Ironside, known to his fellow officers ironically as "Tiny", because he stood over 190 centimetres tall and weighed over a hundred kilograms, was one of the most colourful British officers of his generation. He spoke several languages fluently, including Russian. In the Great War he served for four years on staffs on the Western Front, longest as chief of staff of the 4th Canadian Division, with which he fought at Vimy and Passchendaele. In the autumn of 1918, aged 38, he took command of the Allied forces at Archangel and for a year waged a war against the Bolsheviks in the far north of Russia, which went on long after the armistice in the west. Later he commanded in Persia, and in 1939 he became Chief of the Imperial General Staff. When he was made a baron, he took the title Ironside of Archangel.

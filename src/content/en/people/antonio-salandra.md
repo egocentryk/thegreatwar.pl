@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Troia (Apulia, Italy)
 deathPlace: Rome
 source: antonio-salandra
-sourceHash: b682efed42b5cdd68d0da9fca10ab3cf876e8086
+sourceHash: b8807752a6df7187fe88eabc97b890f99795a448
 ---
 
 Antonio Salandra was Prime Minister of Italy for two years and three months, from March 1914 to June 1916, but those two years decided the fate of the country. In August 1914 he declared the neutrality of Italy, which was bound to Germany and Austria-Hungary by the Triple Alliance. In the autumn he announced that Italy would be guided by "sacred egoism", and together with the Foreign Minister [Sidney Sonnino](/postacie/sidney-sonnino) he bargained with both sides over the price of Italian participation in the war. In April 1915 he concluded a secret agreement with the Entente, and in May, against the majority of parliament and with the support of the King and the street, he took Italy into the war against Austria-Hungary. He was counting on a short campaign. When the war proved long, bloody and unsuccessful, and the Austrian offensive in the Trentino threatened Venice, parliament brought him down.

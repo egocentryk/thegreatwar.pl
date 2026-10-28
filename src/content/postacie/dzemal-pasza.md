@@ -10,6 +10,11 @@ birthPlace: Mitylena na Lesbos (Imperium Osmańskie)
 deathPlace: Tyflis (Gruzja)
 aliases: [Dżemal Pasza, Ahmed Cemal, Ahmed Dżemal Pasza]
 wikiTitles: [Ahmed_Cemal]
+photo:
+  src: ../../assets/postacie/dzemal-pasza.jpg
+  credit: Underwood & Underwood, New York
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ahmed_Djemal_-_Project_Gutenberg_eText_10338.png
 authors: [Natalia]
 tags: [Imperium Osmańskie, Egipt, powstanie arabskie, ludobójstwo Ormian]
 sources:

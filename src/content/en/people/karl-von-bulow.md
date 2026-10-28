@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Berlin
 deathPlace: Berlin
 source: karl-von-bulow
-sourceHash: ed2c2fb4571078ccbc7fffce4eb449d35c9a27c6
+sourceHash: 128e2fb0720e4238402fdfe2eb3dfa2bae788f59
 ---
 
 In 1914 Karl von Bülow commanded the German 2nd Army, which together with the 1st Army of [Alexander von Kluck](/postacie/alexander-von-kluck) formed the striking right wing of the German forces in the west. His troops took Liège and Namur, defeated the French Fifth Army on the Sambre and at Guise, and in early September crossed the Marne. Yet it was Bülow who on 9 September, after a conversation with an envoy of the Supreme Army Command, was the first to order the retreat that ended the Battle of the Marne and wrecked the German plan for a quick victory. For years he was regarded as one of the main culprits of that defeat. Six months later a serious illness ended his career.

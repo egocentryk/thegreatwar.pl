@@ -10,6 +10,11 @@ birthPlace: Ateny (Grecja)
 deathPlace: Palermo (Włochy)
 aliases: [Konstantyn I]
 wikiTitles: [Konstantyn_I_Grecki]
+photo:
+  src: ../../assets/postacie/konstantyn-i.jpg
+  credit: George Grantham Bain Collection
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Constantineiofgreece.jpg
 authors: [Łukasz Skowroń]
 tags: [Konstantyn I Grecki, Grecja, Elefterios Wenizelos, neutralność]
 sources:

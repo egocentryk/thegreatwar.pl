@@ -10,6 +10,11 @@ birthPlace: Saarlouis (Niemcy)
 deathPlace: Hamburg
 aliases: [Paul von Lettow-Vorbeck]
 wikiTitles: [Paul_von_Lettow-Vorbeck]
+photo:
+  src: ../../assets/postacie/paul-von-lettow-vorbeck.jpg
+  credit: Bundesarchiv, Bild 183-R05765
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R05765,_Paul_Emil_von_Lettow-Vorbeck.jpg
 authors: [Natalia]
 tags: [Paul von Lettow-Vorbeck, Niemiecka Afryka Wschodnia, kolonie niemieckie]
 sources:

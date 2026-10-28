@@ -10,6 +10,11 @@ birthPlace: Cetynia (Czarnogóra)
 deathPlace: Marsylia (Francja)
 aliases: [Aleksander Karadziordziewić, regent Aleksander, Aleksander I Karadziordziewić]
 wikiTitles: [Aleksander_I_Karadziordziewić]
+photo:
+  src: ../../assets/postacie/aleksander-i-karadziordziewic.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Kralj_aleksandar1.jpg
 authors: [Łukasz Skowroń]
 tags: [Aleksander Karađorđević, Serbia, Nikola Pašić]
 sources:

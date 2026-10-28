@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Miševići near Nova Varoš (Ottoman Empire, now Serbia)
 deathPlace: Belgrade
 source: petar-bojovic
-sourceHash: ee0212c0c102ab1fa86d305d23325c85473df0f2
+sourceHash: 9333748f825cb3499c2a01fcaa07bb204d359a5f
 ---
 
 Petar Bojović was the youngest of Serbia's four vojvodas of the Great War and the only one who commanded both an army and the entire armed forces in it. In 1914 he led the First Army across the Sava into Syrmia and back to the Drina, until a wound put him out of action. In the autumn of 1915 he covered the line of retreat to Kosovo against the Bulgarians. For two and a half years, from the retreat through Albania to the summer of 1918, he was chief of staff of the Supreme Command, which rebuilt the army on Corfu and led it on the Salonika front. In the final offensive he again took command of the First Army and on 1 November 1918 entered Belgrade with it. He was a hard-working, stubborn soldier with no taste for politics, and the author of many military textbooks.

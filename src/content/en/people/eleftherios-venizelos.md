@@ -6,7 +6,7 @@ country: Greece
 birthPlace: Mournies near Chania (Crete)
 deathPlace: Paris
 source: elefterios-wenizelos
-sourceHash: 5cce3d099137f92193b1858f459bc1195c19c399
+sourceHash: fa9b3f719c68377d2871cb6e60806ead871fc84b
 ---
 
 Eleftherios Venizelos was the most outstanding Greek politician of his age and one of the few leaders of small states with whom the great powers spoke as equals. A Cretan lawyer and insurgent, he took over the government in Athens in 1910, reformed the state and the army, and in the Balkan Wars almost doubled the territory of Greece. From the first days of the Great War he was convinced that the Entente would win and that Greece must stand at its side to gain the lands inhabited by Greeks in Asia Minor. King [Constantine I](/postacie/konstantyn-i) thought otherwise and in 1915 twice forced him to resign. The quarrel between the two most popular men in Greece grew into the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa): in 1916 Venizelos headed a government in Salonika, and in June 1917, after the Entente had removed the king, he returned to Athens and brought the whole country into the war. After the war he brought back from Paris a treaty that fulfilled almost all the dreams of Greek nationalism, only to lose an election a few months later.

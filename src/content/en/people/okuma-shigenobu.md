@@ -6,7 +6,7 @@ country: Japan
 birthPlace: Saga (Japan)
 deathPlace: Tokyo
 source: shigenobu-okuma
-sourceHash: 15eb15cb8d14bf0b403603f16113f6bcf4c2e2d4
+sourceHash: 125d7f87a84df07cbffd50a589f16bda1e8c324c
 ---
 
 Ōkuma Shigenobu was one of the fathers of modern Japan and the most popular politician of his era. When in April 1914, aged 76, he became prime minister for the second time, he was already a legend: the creator of Japan's first liberal party, the founder of the college that grew into Waseda University, and a veteran who had lost a leg in an assassination attempt. His government brought Japan into the Great War on the side of the Entente, captured the German fortress of Tsingtao and the Pacific islands, and in 1915 presented China with the "Twenty-One Demands", which poisoned relations between the two countries for a long time. Foreign policy, however, was in practice directed by his minister Katō Takaaki, and Ōkuma himself was less a strategist than a popular leader who won elections for his cabinet.

@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Kamionek near Warsaw (Russian Empire)
 deathPlace: Drozdowo near Łomża
 source: roman-dmowski
-sourceHash: 63e8118885984a5e3b6bbd04e9b7b869b1d22e5e
+sourceHash: b1e7137a236ca5a8e888e529aa0000e24bbee273
 ---
 
 During the Great War Roman Dmowski was the chief opponent of [Józef Piłsudski](/postacie/jozef-pilsudski) and his mirror image. In 1914 Piłsudski staked everything on Austria against Russia; Dmowski staked it on Russia and her Western allies against Germany, in which he saw Poland's mortal enemy. For the first year of the war he worked in Warsaw and Petrograd, hoping for the unification of the Polish lands under the Tsar's sceptre. When Russia proved weak, he moved to the West and for three years tried to convince London, Paris and Washington that they needed an independent Poland. The Polish National Committee he founded in 1917 became the Entente's recognised representative of the Poles; it had its own army in France and in 1919 provided the core of the Polish delegation to the peace conference. Dmowski signed the Treaty of Versailles. He was at the same time a nationalist politician and an avowed antisemite, which already then harmed him in the eyes of his Western partners and still weighs on how he is judged today.

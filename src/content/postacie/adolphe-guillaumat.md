@@ -10,6 +10,11 @@ birthPlace: Bourgneuf (Francja)
 deathPlace: Nantes
 aliases: [Adolphe Guillaumat]
 wikiTitles: [Adolphe_Guillaumat]
+photo:
+  src: ../../assets/postacie/adolphe-guillaumat.jpg
+  credit: Agence de presse Meurisse
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Adolphe_Guillaumat_1921.jpg
 authors: [Natalia]
 tags: [Francja, Grecja, Serbia, Bułgaria]
 sources:

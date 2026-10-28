@@ -9,6 +9,11 @@ died: 1936-12-20
 deathPlace: St Austell (Kornwalia)
 aliases: [Frederick Poole, Frederick Cuthbert Poole]
 wikiTitles: [Frederick_Cuthbert_Poole]
+photo:
+  src: ../../assets/postacie/frederick-poole.jpg
+  credit: Not stated, United States Army Signal Corps
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Frederick_Cuthbert_Poole_(c.1918).jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Rosja]
 sources:

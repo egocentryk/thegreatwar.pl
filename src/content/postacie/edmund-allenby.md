@@ -10,6 +10,11 @@ birthPlace: Brackenhurst (Anglia)
 deathPlace: Londyn
 aliases: [Edmund Allenby]
 wikiTitles: [Edmund_Allenby]
+photo:
+  src: ../../assets/postacie/edmund-allenby.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Edmund_Allenby.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Imperium Osmańskie, Brytyjski Korpus Ekspedycyjny, powstanie arabskie]
 sources:

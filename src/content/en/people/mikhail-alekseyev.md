@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Vyazma (Russian Empire)
 deathPlace: Yekaterinodar
 source: michail-aleksiejew
-sourceHash: 261ba5b06655e050e196184f4d986605d105cb43
+sourceHash: 2e2c48d1aa22ffb8ec0810c3c38b982c2a51b5cf
 ---
 
 General Mikhail Alekseyev was the most important staff officer of the Russian Army in this war. In 1914, as chief of staff of the Southwestern Front, he helped bring about the victory in Galicia; in 1915 he led the armies out of the Kingdom of Poland; and from September 1915, as chief of staff to Tsar [Nicholas II](/postacie/mikolaj-ii), he in fact directed all of Russia's operations. In March 1917 his telegrams to the front commanders settled the Emperor's abdication. After the Bolshevik coup he created the nucleus of the White Volunteer Army. The son of a soldier who had risen to officer rank, modest and extraordinarily hard-working, he was one of the few Russian generals who reached the top without connections at court.

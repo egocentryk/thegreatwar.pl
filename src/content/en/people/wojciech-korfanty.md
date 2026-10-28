@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Sadzawki near Siemianowice (Upper Silesia, Prussia)
 deathPlace: Warsaw
 source: wojciech-korfanty
-sourceHash: 19ccd773a4a1cb2d72002a97fa008c2e64b98aab
+sourceHash: 393285782eb77930f51403557b5cebb318dd1dc3
 ---
 
 Wojciech Korfanty was the most important leader of the Polish national movement in Upper Silesia and one of the ablest Polish politicians in the German Empire. A miner's son, in 1903 he became the first to win a Reichstag election on openly Polish slogans, breaking with the tradition in which Silesian Catholics voted for the German Centre Party. He spent most of the war, however, on the margins of politics, pushed there by conflicts with his former allies. He returned to the stage in 1918, as Germany was collapsing. In June he won a by-election to the Reichstag, and on 25 October, from its rostrum, he demanded that the lands of the Prussian partition and Upper Silesia be joined to Poland. In November he took the lead of the Polish movement in the Prussian partition in Poznań as a member of the Commissariat of the Supreme People's Council. His greatest work, the struggle for Upper Silesia in 1919–1921, came after the Great War.

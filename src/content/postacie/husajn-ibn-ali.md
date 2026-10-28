@@ -11,6 +11,11 @@ birthPlace: Konstantynopol (Imperium Osmańskie)
 deathPlace: Amman (Transjordania)
 aliases: [Husajn ibn Ali]
 wikiTitles: [Husajn_Ibn_Ali]
+photo:
+  src: ../../assets/postacie/husajn-ibn-ali.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sharif_Husayn.jpg
 authors: [Natalia]
 tags: [powstanie arabskie, Imperium Osmańskie, Wielka Brytania]
 sources:

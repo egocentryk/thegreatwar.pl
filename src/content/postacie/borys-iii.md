@@ -10,6 +10,11 @@ birthPlace: Sofia
 deathPlace: Sofia
 aliases: [Borys III]
 wikiTitles: [Borys_III]
+photo:
+  src: ../../assets/postacie/borys-iii.jpg
+  credit: Dimitar Karastoyanov
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:BASA-3K-7-342-28-Boris_III_of_Bulgaria.jpeg
 authors: [Natalia]
 tags: [Bułgaria, August von Mackensen, Niemcy]
 sources:

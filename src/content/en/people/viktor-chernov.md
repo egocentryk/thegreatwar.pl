@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Khvalynsk, Saratov Governorate (Russian Empire)
 deathPlace: New York (United States)
 source: wiktor-czernow
-sourceHash: 52ea17a7946286bf110671cf968f639f70f8b67c
+sourceHash: 3f700774225ae7afd60f4133adabbc3c06fa986d
 ---
 
 Viktor Mikhailovich Chernov was a co-founder and the chief theorist of the [Socialist Revolutionary Party](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów), the SRs, the largest revolutionary party in Russia, which spoke in the name of the peasants. During the war, in emigration, he was one of the leaders of its anti-war wing. In 1917 he returned home and, as minister of agriculture in the Provisional Government, tried to prepare the transfer of land to the peasants, which made him a target of hatred on the right and did not satisfy the left. In January 1918 he presided over the only session of the Constituent Assembly, which the Bolsheviks dispersed. His fate shows how the party that won the most votes in the first free elections in Russian history lost power to the far smaller Bolsheviks.

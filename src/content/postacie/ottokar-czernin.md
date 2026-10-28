@@ -10,6 +10,11 @@ birthPlace: Dymokury (Czechy)
 deathPlace: Wiedeń
 aliases: [Ottokar Czernin]
 wikiTitles: [Ottokar_Czernin]
+photo:
+  src: ../../assets/postacie/ottokar-czernin.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ottokar_Graf_Czernin_-_Project_Gutenberg_eText_17998.jpg
 authors: [Łukasz Skowroń]
 tags: [Ottokar Czernin, Austro-Węgry, Karol I Habsburg, inicjatywy pokojowe]
 sources:

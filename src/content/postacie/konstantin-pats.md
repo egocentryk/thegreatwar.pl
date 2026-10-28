@@ -10,6 +10,11 @@ birthPlace: Tahkuranna (Estonia)
 deathPlace: Buraszewo (obwód kaliniński, ZSRR)
 aliases: [Konstantin Päts]
 wikiTitles: [Konstantin_Päts]
+photo:
+  src: ../../assets/postacie/konstantin-pats.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Konstantin_P%C3%A4ts.jpg
 authors: [Natalia]
 tags: [Estonia, Rosja, okupacja niemiecka, rewolucja październikowa]
 sources:

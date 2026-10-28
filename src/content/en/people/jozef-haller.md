@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Jurczyce near Kraków (Austria-Hungary)
 deathPlace: London
 source: jozef-haller
-sourceHash: f62a5c1f092b242935dc0b2d0c58f94affd8857a
+sourceHash: ca778b040069791435b4779028a9a0feb92b32b2
 ---
 
 During the Great War Józef Haller travelled a road that no other Polish commander travelled. He began in 1914 as an organiser of volunteers at Austria's side, for three years fought in the Legions against Russia, and in February 1918, at the head of the Second Brigade, broke through the Austrian front at Rarańcza in protest against the Peace of Brest-Litovsk. In May his Polish II Corps fought the Germans at Kaniów, and he himself reached France via Moscow and Murmansk, where the Polish National Committee of [Roman Dmowski](/postacie/roman-dmowski) made him commander-in-chief of the Polish Army. Thus a legionnaire who in 1917 had sworn an oath of brotherhood in arms with the Central Powers became the leader of a Polish army on the side of the Entente. The Blue Army, called Haller's Army after him, returned home in 1919 as the best-equipped part of the Polish Army. Haller was more a soldier than a politician, but his choices of 1918–1919 tied him for life to the National camp and set him against [Józef Piłsudski](/postacie/jozef-pilsudski).

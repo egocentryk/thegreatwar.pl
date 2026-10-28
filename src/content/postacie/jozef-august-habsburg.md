@@ -10,6 +10,11 @@ birthPlace: Alcsút (Węgry)
 deathPlace: Rain koło Straubing (Niemcy)
 aliases: [Józef August Habsburg, arcyksiążę Józef August]
 wikiTitles: [Józef_August_Habsburg]
+photo:
+  src: ../../assets/postacie/jozef-august-habsburg.jpg
+  credit: A Magyar Nemzeti Múzeum Történeti Fényképtár tulajdona
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Habsburg-Lotaringiai_J%C3%B3zsef_%C3%81gost.jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Włochy, Rumunia]
 sources:

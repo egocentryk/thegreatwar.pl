@@ -10,6 +10,11 @@ birthPlace: Manchester (Anglia)
 deathPlace: Llanystumdwy (Walia)
 aliases: [David Lloyd George]
 wikiTitles: [David_Lloyd_George]
+photo:
+  src: ../../assets/postacie/david-lloyd-george.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:David_Lloyd_George.jpg
 authors: [Łukasz Skowroń]
 tags: [David Lloyd George, Wielka Brytania, Douglas Haig]
 sources:

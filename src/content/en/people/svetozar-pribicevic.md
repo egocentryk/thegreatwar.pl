@@ -6,7 +6,7 @@ country: State of Slovenes, Croats and Serbs
 birthPlace: Hrvatska Kostajnica (Croatia-Slavonia, Austria-Hungary)
 deathPlace: Prague
 source: svetozar-pribicevic
-sourceHash: add7d07a3f4438e8bf662971efb771ac6e9bb09f
+sourceHash: b680aa2da5cc2c5f46c8f66b2561a5df3c90420e
 ---
 
 Svetozar Pribićević was a Croatian Serb who spent most of the war in Austro-Hungarian prison and internment, and who in the autumn of 1918 turned out to be the most influential politician in Zagreb. As leader of the Croat-Serb Coalition, which governed Croatia, and vice-president of the National Council of Slovenes, Croats and Serbs, he prepared the Sabor's break with the monarchy on 29 October 1918, and then brought about the union of the State of SHS with Serbia without any constitutional guarantees. At the time he was a fervent supporter of a unitary, centralised state. Ten years later he became one of its harshest critics.

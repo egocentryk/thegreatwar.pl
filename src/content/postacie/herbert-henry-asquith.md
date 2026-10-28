@@ -10,6 +10,11 @@ birthPlace: Morley (Anglia)
 deathPlace: Sutton Courtenay (Anglia)
 aliases: [Herbert Henry Asquith]
 wikiTitles: [Herbert_Henry_Asquith]
+photo:
+  src: ../../assets/postacie/herbert-henry-asquith.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Herbert_Henry_Asquith.jpg
 authors: [Łukasz Skowroń]
 tags: [Herbert Henry Asquith, Wielka Brytania, David Lloyd George]
 sources:

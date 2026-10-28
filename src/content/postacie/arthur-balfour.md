@@ -10,6 +10,11 @@ birthPlace: Whittingehame (Szkocja)
 deathPlace: Woking (Anglia)
 aliases: [Arthur Balfour]
 wikiTitles: [Arthur_Balfour]
+photo:
+  src: ../../assets/postacie/arthur-balfour.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:A.J._Balfour_LCCN2014682753_(cropped).jpg
 authors: [Natalia]
 tags: [Arthur Balfour, Wielka Brytania, Royal Navy, syjonizm]
 sources:

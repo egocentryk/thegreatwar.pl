@@ -10,6 +10,11 @@ birthPlace: Niżny Nowogród (Imperium Rosyjskie)
 deathPlace: Mała Wieś pod Grójcem
 aliases: [Zdzisław Lubomirski]
 wikiTitles: [Zdzisław_Lubomirski]
+photo:
+  src: ../../assets/postacie/zdzislaw-lubomirski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Zdzis%C5%82aw_Lubomirski_(-1925).jpg
 authors: [Łukasz Skowroń]
 tags: [Królestwo Polskie, okupacja niemiecka, Polska]
 sources:

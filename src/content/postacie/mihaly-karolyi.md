@@ -10,6 +10,11 @@ birthPlace: Budapeszt (Węgry)
 deathPlace: Vence (Francja)
 aliases: [Mihály Károlyi]
 wikiTitles: [Mihály_Károlyi]
+photo:
+  src: ../../assets/postacie/mihaly-karolyi.jpg
+  credit: Révész és Bíró
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:K%C3%A1rolyi_Mih%C3%A1ly_k%C3%B6zt%C3%A1rsas%C3%A1gi_eln%C3%B6k.png
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, István Tisza, Karol I Habsburg, inicjatywy pokojowe]
 sources:

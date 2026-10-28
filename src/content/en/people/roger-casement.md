@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Sandycove near Dublin (Ireland)
 deathPlace: London (Pentonville Prison)
 source: roger-casement
-sourceHash: 988018d8ad33083f25362d0ca90f87ebcc65a277
+sourceHash: 5e169eb8bb2199382a24504fe159d4790bd66770
 ---
 
 Sir Roger Casement travelled a road that no other figure of the First World War travelled: from a British consul, knighted for exposing the crimes committed against Africans and Indians, to a prisoner sentenced to death for high treason. An Irishman raised in Ulster in a Protestant family, in the last years before the war he became a supporter of full Irish independence. In the autumn of 1914 he made his way to Germany to seek German help for an Irish rising and to recruit Irish prisoners of war for a brigade that would fight the British. His mission ended in failure, and he himself, put ashore from a German submarine on the Irish coast three days before the [Easter Rising](/wybuch-powstania-wielkanocnego), ended his life on the gallows in London.

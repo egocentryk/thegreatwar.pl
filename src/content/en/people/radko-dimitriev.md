@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Gradets (Bulgaria)
 deathPlace: Pyatigorsk
 source: radko-dimitriew
-sourceHash: eb073a147a64f6d35c0d46daec63594276cb4078
+sourceHash: d2464205481b907d36f0b3da4e35a098fc0d3742
 ---
 
 Radko Dimitriev was one of the most famous Bulgarian generals, the victor over the Turks in the First Balkan War, and during the First World War a general of the Russian army. When war broke out in 1914 he gave up his post as Bulgaria's envoy in St Petersburg and joined the army that he regarded as the army of his country's liberators. For more than half a year he commanded the Russian Third Army: he besieged Przemyśl, approached Kraków and fought in the Carpathians. In May 1915 it was his army that took the main blow of the Germans and Austrians at Gorlice and was shattered, and he himself lost his command. When a few months later Bulgaria sided with the Central Powers, Dimitriev remained in Russian service. He was killed in 1918 as a hostage of the Bolsheviks.

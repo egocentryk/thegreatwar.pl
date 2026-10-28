@@ -10,6 +10,11 @@ birthPlace: Sterianul de Mijloc, gmina Butimanu (Rumunia)
 deathPlace: Bukareszt
 aliases: [Constantin Prezan]
 wikiTitles: [Constantin_Prezan]
+photo:
+  src: ../../assets/postacie/constantin-prezan.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Prezan-Constantin.jpg
 authors: [Natalia]
 tags: [Rumunia, August von Mackensen, Siedmiogród]
 sources:

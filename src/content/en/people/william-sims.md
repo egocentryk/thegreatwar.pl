@@ -6,7 +6,7 @@ country: United States
 birthPlace: Port Hope (Ontario, Canada)
 deathPlace: Boston
 source: william-sims
-sourceHash: 4dd23fc338dc9362036704de1d6404921e9378ac
+sourceHash: 7ade549a2025252d39ed591e2dda2fa704c882cb
 ---
 
 William Sowden Sims was the most important American admiral of the First World War, although he fought no battle in it. He arrived in London in April 1917, at a moment when German submarines were sinking ships faster than the Allies could build them, and from the first days he pressed Washington to send to Europe every vessel capable of fighting them. He supported the introduction of convoys and made the American destroyers part of the British system of shipping defence, placing them under British admirals. On the day of the armistice he commanded about 370 vessels and more than 80,000 men in several dozen bases from Ireland to Corfu. He was also an unruly man, openly Anglophile and perpetually at odds with his superiors, and after the war he accused his own department of having prolonged the war by its sluggishness.

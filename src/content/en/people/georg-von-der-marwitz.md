@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Nożynko (Klein Nossin) near Słupsk
 deathPlace: Unichowo (Wundichow) in Pomerania
 source: georg-von-der-marwitz
-sourceHash: 34a3dc2cdbc39189af9bbf0337cfbbbb2b64bfb4
+sourceHash: ef00c40e15f6aa17061d97599a87323f25010262
 ---
 
 Georg von der Marwitz was one of the last great cavalrymen of the Prussian army and one of the few German generals who held commands on both fronts in every phase of this war. In August 1914 he led a cavalry corps ahead of the armies marching through Belgium on Paris; in 1915 he fought in the Carpathians and in Galicia; and from the end of 1916 he commanded the Second Army on the Somme. His name is linked with two battles in which British tanks played the leading role: Cambrai in November 1917, where after the initial surprise he managed to recover most of the lost ground, and Amiens on 8 August 1918, the day Ludendorff called the black day of the German army.

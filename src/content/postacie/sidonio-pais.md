@@ -10,6 +10,11 @@ birthPlace: Caminha (Portugalia)
 deathPlace: Lizbona
 aliases: [Sidónio Pais]
 wikiTitles: [Sidónio_Pais]
+photo:
+  src: ../../assets/postacie/sidonio-pais.jpg
+  credit: Octávio Bobone
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Sid%C3%B3nio_Pais.jpg
 authors: [Natalia]
 tags: [Sidónio Pais, Portugalia]
 sources:

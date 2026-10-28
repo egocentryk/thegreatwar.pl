@@ -10,6 +10,11 @@ birthPlace: Konofer, dziś Konuvere (gubernia estlandzka, dziś Estonia)
 deathPlace: Taganrog
 aliases: [Paul von Rennenkampf]
 wikiTitles: [Paul_von_Rennenkampf]
+photo:
+  src: ../../assets/postacie/paul-von-rennenkampf.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Paul_Rennenkampff.jpg
 authors: [Natalia]
 tags: [Paul von Rennenkampf, Rosja, Prusy Wschodnie]
 sources:

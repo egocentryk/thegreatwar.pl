@@ -6,7 +6,7 @@ country: United States
 birthPlace: Laclede (Missouri, United States)
 deathPlace: Washington, D.C.
 source: john-pershing
-sourceHash: 228b1abdef2162639b675820f33bc2f5bb2dfacc
+sourceHash: d64990c83174d1f7f5ed6c3b97adb6a460f3ac45
 ---
 
 John Joseph Pershing, known as "Black Jack", commanded the forces of the United States in France from the first weeks after America entered the war until its end. When he arrived in Europe in June 1917 he had only a staff behind him, and the army he was to lead did not yet exist. By November 1918 he commanded almost two million soldiers in two field armies. Throughout that time he stubbornly refused the French and British, who wanted to feed Americans into their own divisions as replacements, and won for them an independent army with its own sector of the front. He led it at [Saint-Mihiel](/bitwy/bitwa-pod-saint-mihiel) and in the [Meuse–Argonne offensive](/bitwy/ofensywa-moza-argonne), the bloodiest battle in the history of the American army. To some he was a great organiser who gave America an army worthy of a great power; to others a stubborn general who paid for independence with the lives of thousands of soldiers.

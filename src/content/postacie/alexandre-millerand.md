@@ -10,6 +10,11 @@ birthPlace: Paryż
 deathPlace: Wersal
 aliases: [Alexandre Millerand]
 wikiTitles: [Alexandre_Millerand]
+photo:
+  src: ../../assets/postacie/alexandre-millerand.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alexandre_Millerand_(cropped).jpg
 authors: [Natalia]
 tags: [Alexandre Millerand, Francja, Joseph Joffre]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Miševići koło Novej Varoši (Imperium Osmańskie, dziś Serbia)
 deathPlace: Belgrad
 aliases: [Petar Bojović]
 wikiTitles: [Petar_Bojović]
+photo:
+  src: ../../assets/postacie/petar-bojovic.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Vojvoda_Petar_Bojovi%C4%87.jpg
 authors: [Natalia]
 tags: [Serbia, Austro-Węgry, Bułgaria]
 sources:

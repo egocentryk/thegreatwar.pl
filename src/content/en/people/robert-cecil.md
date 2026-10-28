@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Chelwood Gate (East Sussex, England)
 source: robert-cecil
-sourceHash: 53bf943cbdd8b749778e18a5a200147dbfc4ac45
+sourceHash: 48ed0cf3d7af746fb8e6d2ed93a64dcc2a531df6
 ---
 
 Lord Robert Cecil, son of a prime minister and cousin of [Arthur Balfour](/postacie/arthur-balfour), embodied during the war the two faces of British diplomacy. As Minister of Blockade from February 1916 to July 1918 he directed the economic war against Germany: he rationed supplies to neutral countries, kept blacklists of firms trading with the enemy and fended off protests from the United States. At the same time, as Under-Secretary of State at the Foreign Office, he began writing earlier than anyone else in the government about an organisation that after the war would prevent further conflicts. From these reflections grew his role in creating the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów), to which he devoted the rest of his life and for which he received the Nobel Peace Prize in 1937.

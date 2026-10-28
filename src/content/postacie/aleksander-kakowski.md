@@ -10,6 +10,11 @@ birthPlace: Dębiny pod Przasnyszem (Imperium Rosyjskie)
 deathPlace: Warszawa
 aliases: [Aleksander Kakowski]
 wikiTitles: [Aleksander_Kakowski]
+photo:
+  src: ../../assets/postacie/aleksander-kakowski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Aleksander_Kakowski_(-1939).jpg
 authors: [Natalia]
 tags: [Królestwo Polskie, okupacja niemiecka, Polska]
 sources:

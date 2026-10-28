@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Berlin
 deathPlace: Berlin
 source: wilhelm-solf
-sourceHash: 4a4544af45dfee6d25606b90da2b76fdfea98903
+sourceHash: 08864de427f3f7cfd22fc74bd588d95696e68e8a
 ---
 
 Wilhelm Solf was one of the few liberals in the government of Imperial Germany. An Indologist by training, he governed Samoa for eleven years and from 1911 headed the Imperial Colonial Office. The war took his colonies from him within a few months, but not his post. For four years he was one of the most loyal supporters of Chancellor Theobald von Bethmann Hollweg, argued for a compromise peace and constitutional reform, and at the same time drew up plans for a great German empire in Central Africa. In October 1918 Chancellor Max von Baden entrusted him with the Foreign Office. Solf signed the notes in which Germany asked President Wilson for an armistice and, as the last foreign minister of the empire, steered German diplomacy through the revolution until his resignation in December 1918.

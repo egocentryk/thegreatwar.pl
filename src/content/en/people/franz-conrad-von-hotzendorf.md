@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Penzing near Vienna (Austria)
 deathPlace: Bad Mergentheim (Germany)
 source: franz-conrad-von-hotzendorf
-sourceHash: a2e35c1ea9884e14477fefd2a2ed515a3cb489fa
+sourceHash: dd3bfff451911162d1202ebda8092c560aca2a1d
 ---
 
 For more than ten years Franz Conrad von Hötzendorf was the most important soldier of the Habsburg Monarchy and one of the men who did most to bring about the war. As Chief of the General Staff from 1906 he demanded again and again a preventive war against Serbia or Italy, and in the summer of 1914 he was among the most ardent supporters of a reckoning with Belgrade. During the war the nominal commander-in-chief was Archduke Friedrich, but it was Conrad who planned and directed the operations of the Austro-Hungarian Army. His bold, sweeping plans usually ended in defeat: in Galicia in 1914, in the Carpathians in the winter of 1915, in the Tyrol in 1916 and on the Piave in 1918. Victories were won mostly with the help of the Germans, on whom the monarchy became ever more dependent. For decades revered in Austria as a strategic genius, he is today judged very critically by most historians.

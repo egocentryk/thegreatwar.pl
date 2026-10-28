@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Palermo (Italy)
 deathPlace: Rome
 source: vittorio-emanuele-orlando
-sourceHash: cecb9580a4ba0047772132384aba4c53571e3530
+sourceHash: f45b2e1aee2304b04dd2c27e14232eeb2b36ff98
 ---
 
 Vittorio Emanuele Orlando took over the government of Italy at the worst moment of its war, in the last days of October 1917, when the army was retreating in disorder from Caporetto. An eminent professor of public law from Palermo, until then Minister of the Interior accused by the Supreme Command of leniency towards opponents of the war, he proved to be the prime minister the country needed at that time. He changed the commander-in-chief, united parliament and public opinion around the defence on the Piave, and in October 1918 pressed the army to deal Austria-Hungary the final blow at Vittorio Veneto. As the "premier of victory" he sat in Paris in the "Big Four" alongside Wilson, Clemenceau and Lloyd George, but there he lost the dispute over Fiume and the Adriatic coast, and disappointment at the "mutilated victory" contributed to the crisis from which fascism grew.

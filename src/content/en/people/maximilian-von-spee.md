@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Copenhagen (Denmark)
 deathPlace: South Atlantic, off the Falkland Islands
 source: maximilian-von-spee
-sourceHash: e46c6e1784536acb62bf5693e11be80de730af24
+sourceHash: e54595d5e775498002b71fecc9d07d8bade681c2
 ---
 
 Maximilian Graf von Spee commanded the only permanent formation of the German navy outside Europe, the East Asia Squadron. When war broke out his ships were at the other end of the world, without a base and without assured coal supplies. Spee led them across the whole Pacific Ocean, on 1 November 1914 off the coast of Chile he inflicted on the Royal Navy its first defeat in a naval battle in more than a hundred years, and five weeks later he was killed together with most of the squadron and both his sons in the Battle of the Falkland Islands. His campaign lasted only four months, but during that time it tied down dozens of Allied ships on every ocean.

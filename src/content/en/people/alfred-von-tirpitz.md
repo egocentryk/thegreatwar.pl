@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Küstrin (Prussia, now Kostrzyn in Poland)
 deathPlace: Ebenhausen near Munich
 source: alfred-von-tirpitz
-sourceHash: 7cc2481646bbddc1af6bfcd5b70217e1612c4704
+sourceHash: 4692c230d268c324c3b5e19f99fa3713bfe88a9b
 ---
 
 For almost twenty years Alfred von Tirpitz headed the Imperial Naval Office and built the second-largest navy in the world. His battleship programme was meant to force Britain to reckon with Germany, but in reality it pushed Britain towards an understanding with France and Russia. When war broke out, it turned out that his fleet could not threaten the Royal Navy's command of the sea. Tirpitz, who as an official did not command any ships, then became the loudest advocate of ruthless submarine warfare. In March 1916 he lost this dispute with the chancellor and left office, and a year later he became leader of the nationalist German Fatherland Party, which fought against a compromise peace.

@@ -10,6 +10,11 @@ birthPlace: Chwałyńsk, gubernia saratowska (Imperium Rosyjskie)
 deathPlace: Nowy Jork (Stany Zjednoczone)
 aliases: [Wiktor Czernow]
 wikiTitles: [Wiktor_Czernow]
+photo:
+  src: ../../assets/postacie/wiktor-czernow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Portrait_of_Minister_VM_Chernov_Trim_Edit.jpg
 authors: [Natalia]
 tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
 sources:

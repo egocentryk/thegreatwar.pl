@@ -10,6 +10,11 @@ birthPlace: Moskwa (Imperium Rosyjskie)
 deathPlace: Saint-Laurent-du-Var (Francja)
 aliases: [Nikołaj Judenicz]
 wikiTitles: [Nikołaj_Judenicz]
+photo:
+  src: ../../assets/postacie/nikolaj-judenicz.jpg
+  credit: "Сканирование: Владимир Васильев"
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Nikolai_N._Yudenich.jpg
 authors: [Natalia]
 tags: [Rosja, Kaukaz, Imperium Osmańskie]
 sources:

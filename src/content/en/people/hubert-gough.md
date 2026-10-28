@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: London
 source: hubert-gough
-sourceHash: 131fa625fa4c8ef3bbb82d88b998aae7e538455d
+sourceHash: 27c3b205c8b133ffdc8c0e3cc428b0742fe22f26
 ---
 
 Sir Hubert Gough rose faster during the war than anyone else in the British Army. In August 1914 he was a colonel with the temporary rank of brigadier-general commanding a cavalry brigade, and less than two years later, aged 45, he became a full general and an army commander, the youngest on the Western Front. His army, first called the Reserve Army and then the Fifth Army, fought on the Somme, at Bullecourt and in the Third Battle of Ypres, and in March 1918 took the main blow of the German Spring Offensive. After that defeat the government stripped him of his command. Gough spent the rest of his long life fighting for his good name and largely regained it. Historians still argue, however, whether in 1918 he was the victim of other men's mistakes or paid belatedly for his own of 1916–1917.

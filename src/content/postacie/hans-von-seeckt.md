@@ -10,6 +10,11 @@ birthPlace: Szlezwik (Prusy)
 deathPlace: Berlin
 aliases: [Hans von Seeckt]
 wikiTitles: [Hans_von_Seeckt]
+photo:
+  src: ../../assets/postacie/hans-von-seeckt.jpg
+  credit: Ernst Sandau
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Gen._Von_Seeckt_LCCN2014711010_(cropped)(2).tif
 authors: [Natalia]
 tags: [Niemcy, August von Mackensen, Galicja, Imperium Osmańskie]
 sources:

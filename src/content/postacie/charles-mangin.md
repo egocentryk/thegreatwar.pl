@@ -10,6 +10,11 @@ birthPlace: Sarrebourg (Lotaryngia)
 deathPlace: Paryż
 aliases: [Charles Mangin]
 wikiTitles: [Charles_Mangin]
+photo:
+  src: ../../assets/postacie/charles-mangin.jpg
+  credit: Agence de presse Meurisse
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:G%C3%A9n%C3%A9ral_Charles_Mangin_agence_Meurisse_BNF_Gallica.jpg
 authors: [Łukasz Skowroń]
 tags: [Francja, Robert Nivelle, Ferdinand Foch]
 sources:

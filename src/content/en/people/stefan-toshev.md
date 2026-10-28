@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Stara Zagora (Ottoman Empire, now Bulgaria)
 deathPlace: Plovdiv
 source: stefan-toszew
-sourceHash: 81f74a5a9148dcf3d845f7a80fc7aaaf9cf79366
+sourceHash: d575be6bd1eb2ef7ccc803d011e412d6ba3f1dfd
 ---
 
 Stefan Toshev was the commander who gave Bulgaria its most celebrated victory of the Great War. In September 1916 his 3rd Army took the Romanian fortress of Turtucaia on the Danube in a few days, captured nearly 30,000 soldiers and within a few weeks wrested southern Dobruja from Romania, land that Bulgaria had lost in 1913. He was also a stubborn and proud officer who did not want to be a mere executor of a German field marshal's orders. His disputes with [August von Mackensen](/postacie/august-von-mackensen) cost him his command before the Dobruja campaign was over. After the war he defended with his pen the honour of the Bulgarian army against what German generals wrote about it.

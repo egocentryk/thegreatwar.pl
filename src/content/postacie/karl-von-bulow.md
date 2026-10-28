@@ -10,6 +10,11 @@ birthPlace: Berlin
 deathPlace: Berlin
 aliases: [Karl von Bülow]
 wikiTitles: [Karl_von_Bülow]
+photo:
+  src: ../../assets/postacie/karl-von-bulow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Karl_von_B%C3%BClow.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Francja, Belgia]
 sources:

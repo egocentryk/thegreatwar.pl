@@ -10,6 +10,11 @@ birthPlace: Londyn
 deathPlace: Chelwood Gate (hrabstwo East Sussex, Anglia)
 aliases: [Robert Cecil]
 wikiTitles: [Robert_Cecil_(wicehrabia)]
+photo:
+  src: ../../assets/postacie/robert-cecil.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood_-_Project_Gutenberg_eText_15306.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, blokada morska, Arthur Balfour]
 sources:

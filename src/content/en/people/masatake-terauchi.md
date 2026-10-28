@@ -6,7 +6,7 @@ country: Japan
 birthPlace: Hirai, Suō Province (now Yamaguchi, Japan)
 deathPlace: Tokyo
 source: masatake-terauchi
-sourceHash: ac5ae0f26bf9cbafe496ab76db1db9a6f7072511
+sourceHash: 5a91d855107b534cf1de6a60276d9d8502e2870f
 ---
 
 Masatake Terauchi was a soldier-administrator from the circle of Field Marshal [Aritomo Yamagata](https://pl.wikipedia.org/wiki/Aritomo_Yamagata), the man who carried out the annexation of Korea and ruled it with a firm hand for six years. In the autumn of 1916 the elder statesmen placed him at the head of a government that rested on no party. His cabinet led Japan through the second half of the war: it sent Japanese destroyers to the Mediterranean in exchange for secret promises concerning Shantung and the Pacific islands, bought itself influence in Peking with loans, concluded an agreement with the United States on China and in August 1918 sent troops to Siberia. A few weeks later he was brought down by the rice riots, and his successor was Japan's first fully party-based prime minister.

@@ -10,6 +10,11 @@ birthPlace: Carskie Sioło (Imperium Rosyjskie)
 deathPlace: Jekaterynburg
 aliases: [Mikołaj II]
 wikiTitles: [Mikołaj_II_Romanow]
+photo:
+  src: ../../assets/postacie/mikolaj-ii.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Mikola_II_(cropped)-2.jpg
 authors: [Łukasz Skowroń]
 tags: [Mikołaj II, Rosja, rewolucja lutowa]
 sources:

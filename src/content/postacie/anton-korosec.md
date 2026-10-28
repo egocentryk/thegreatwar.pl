@@ -10,6 +10,11 @@ birthPlace: Biserjane koło Svetego Jurija ob Ščavnici (Styria, Austria)
 deathPlace: Belgrad
 aliases: [Anton Korošec]
 wikiTitles: [Anton_Korošec]
+photo:
+  src: ../../assets/postacie/anton-korosec.jpg
+  credit: Bundesarchiv, Bild 183-2010-0420-501
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2010-0420-501,_Anton_Korosec.jpg
 authors: [Natalia]
 tags: [Austro-Węgry, Serbia, Włochy]
 sources:

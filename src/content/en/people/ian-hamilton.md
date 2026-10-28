@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Corfu (Ionian Islands)
 deathPlace: London
 source: ian-hamilton
-sourceHash: 1f7aca3a681ff4eae4a5ac78e47bfade0269f89f
+sourceHash: 1f6b612ad88ec210cbf344e0796adb925dd7a9e1
 ---
 
 Sir Ian Hamilton was one of the most experienced and best-read British generals of his age. He fought on several continents, wrote poems and novels, spoke German and French, and watched the Russo-Japanese War at close quarters as an observer with the Japanese army. In March 1915 Lord Kitchener gave him command of the troops that were to help the fleet force its way through the Dardanelles. For seven months Hamilton conducted a campaign on the Gallipoli peninsula that was meant to open the road to Constantinople and ended as one of the Entente's most painful defeats. In October 1915 the government recalled him, and he never again held a command in the field. Historians still argue over how much of the blame for the disaster was his and how much belonged to the politicians, who gave him too few men, too little ammunition and too little time.

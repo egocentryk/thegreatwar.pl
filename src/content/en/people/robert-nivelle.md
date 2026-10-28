@@ -6,7 +6,7 @@ country: France
 birthPlace: Tulle (France)
 deathPlace: Paris
 source: robert-nivelle
-sourceHash: cb519bbd20287347ae21d8e6295075c7da09a80c
+sourceHash: 4438d8dd1456466f545a0f8d0b80cb4c092f9898
 ---
 
 During the war Robert Nivelle travelled a path as dizzying as Pétain's, only in the opposite direction. In August 1914 he was a colonel of artillery; in May 1916 he took over the defence of Verdun, and that autumn, together with General [Charles Mangin](/postacie/charles-mangin), he retook the forts of Douaumont and Vaux. These victories, his eloquence, his self-assurance and his fluent English led the government in December 1916 to put him at the head of the French armies in place of [Joseph Joffre](/postacie/joseph-joffre), passing over generals senior to him in post. Nivelle promised that with the method tried at Verdun he would break the front within two days and end the war of position. He convinced French and British politicians of this, but not his own commanders. The offensive on the Chemin des Dames in April 1917 brought gains, but no breakthrough; instead it brought enormous losses and a disillusionment that drove the French army to mutiny. After five months in command Nivelle lost his post and remained far from the front until the end of the war. In France his name became a byword for excessive optimism, although some historians regard that verdict as too harsh.

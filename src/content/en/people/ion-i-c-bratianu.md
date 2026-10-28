@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Ștefănești (Romania)
 deathPlace: Bucharest
 source: ion-bratianu
-sourceHash: 6b3f43f6fbfb4e18d161f3dcf94693a1c7c9e5e2
+sourceHash: 3ab4e4534d86209e088d06b06e75260eb0e615b5
 ---
 
 Ion I. C. Brătianu, called Ionel by Romanians to distinguish him from his famous father, was the most powerful Romanian politician of the first quarter of the 20th century. As prime minister in 1914–1918 he kept the country neutral for two years, negotiating simultaneously with the Entente and with the Central Powers, until in August 1916 he decided that the moment had come to reach for Transylvania. The war brought Romania first defeat and occupation, and only afterwards the union that Brătianu defended at the peace conference in Paris. To some he was the architect of Greater Romania, to others a cold gambler who took an unprepared army into the war and delayed too long. The press called him "the sphinx", because until the last moment nobody knew what he intended.

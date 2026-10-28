@@ -10,6 +10,11 @@ birthPlace: Petersburg (Imperium Rosyjskie)
 deathPlace: Antibes (Francja)
 aliases: [Mikołaj Mikołajewicz]
 wikiTitles: [Mikołaj_Romanow_(1856–1929)]
+photo:
+  src: ../../assets/postacie/mikolaj-mikolajewicz.jpg
+  credit: «ВЭС». (СПб; 1914 год)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Grand_Duke_Nicholas_-_Project_Gutenberg_eText_16363.jpg
 authors: [Łukasz Skowroń]
 tags: [Mikołaj Mikołajewicz, Rosja, Mikołaj II, Kaukaz]
 sources:

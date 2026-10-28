@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Bekhteyevo, Smolensk Governorate (Russian Empire)
 deathPlace: Kommunarka near Moscow
 source: nikolaj-krylenko
-sourceHash: be3d257d2db8d75de1a5108cb5fd1067d6d8fb8c
+sourceHash: 94a0f73c3642156b9999cab3256ac80d3b761f53
 ---
 
 Nikolai Krylenko was the most improbable commander-in-chief in the history of the Russian Army. A Bolshevik activist with a legal education, during the war an ensign and signals officer in a rifle regiment, in November 1917 he took command, at Lenin's wish, of an army of many millions. He was not meant to lead it to victory but to lead it out of the war. He sent envoys across the front to the Germans, took over General Headquarters at Mogilev, where his predecessor was murdered before his eyes, and in February 1918 issued the order ending the war and demobilising the army. From the Allies' point of view it was he, as the executor of Lenin's policy, who sealed Russia's exit from the Entente. After the war he was the chief prosecutor in the Soviet show trials, until he himself fell victim to the Great Purge.

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Gunsborough near Listowel (County Kerry, Ireland)
 deathPlace: The sea off the west coast of Orkney
 source: horatio-kitchener
-sourceHash: 3ab215badcd95a1b053e95989b768c9c9e351973
+sourceHash: 5aaac1ca28cd274c2baefe9fd1686fcf615d16ef
 ---
 
 Horatio Herbert Kitchener, 1st Earl Kitchener, known as Lord Kitchener, was in 1914 the most famous soldier of the British Empire. The conqueror of the Sudan and a commander in the Boer War, he took over the War Office in the first days of the war and was one of the few who claimed from the outset that the conflict would last for years. From a small professional army he built the mass volunteer New Armies, and his face on a recruiting poster became one of the symbols of the war. As a minister, however, he was a difficult colleague who could neither share power nor work with politicians, and the shell crisis and the defeat at the Dardanelles undermined his position. He died in June 1916, when the ship taking him to Russia struck a mine.

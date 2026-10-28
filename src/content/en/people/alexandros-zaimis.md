@@ -6,7 +6,7 @@ country: Greece
 birthPlace: Athens
 deathPlace: Vienna
 source: aleksandros-zaimis
-sourceHash: d29a6f0e5bdbaaec1190bce06fb2bb2973c347c7
+sourceHash: 3a1a7329c4ee062e1da3bd76484faabc20609c75
 ---
 
 During the war Alexandros Zaimis was the man King [Constantine I](/postacie/konstantyn-i) turned to at moments of greatest crisis. Three times he headed the government: in October 1915, after the second resignation of [Eleftherios Venizelos](/postacie/elefterios-wenizelos); in June 1916, when the Entente powers presented Greece with an ultimatum; and in May 1917, in the last weeks of Constantine's reign. Loyal to the monarchy but well disposed towards the Allies and belonging to neither of the two feuding camps, he was the only politician with whom the king, the Entente envoys and Venizelos himself were all willing to talk. His first government refused to help Serbia, his second demobilised the army at the powers' demand, and his third handed the king the demand for abdication and carried out the change on the throne. Zaimis never had a party or a programme of his own, and his governments were caretaker governments. Thanks to this he came through the National Schism as one of the few politicians respected on both sides.

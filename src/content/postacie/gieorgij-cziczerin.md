@@ -10,6 +10,11 @@ birthPlace: Karaul, gubernia tambowska (Imperium Rosyjskie)
 deathPlace: Moskwa
 aliases: [Gieorgij Cziczerin]
 wikiTitles: [Gieorgij_Cziczerin]
+photo:
+  src: ../../assets/postacie/gieorgij-cziczerin.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Georgy_Chicherin_1920s.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja październikowa, Niemcy, Wielka Brytania]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Saint-Béat (Francja)
 deathPlace: Wersal
 aliases: [Joseph Gallieni]
 wikiTitles: [Joseph_Gallieni]
+photo:
+  src: ../../assets/postacie/joseph-gallieni.jpg
+  credit: George Grantham Bain Collection (Library of Congress)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Joseph_Gallieni_01.jpg
 authors: [Natalia]
 tags: [Joseph Gallieni, Francja, Paryż, Joseph Joffre]
 sources:

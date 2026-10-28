@@ -10,6 +10,11 @@ birthPlace: Mouilleron-en-Pareds (Francja)
 deathPlace: Paryż
 aliases: [Georges Clemenceau]
 wikiTitles: [Georges_Clemenceau]
+photo:
+  src: ../../assets/postacie/georges-clemenceau.jpg
+  credit: Paul Nadar
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Georges_Clemenceau_par_Nadar.jpg
 authors: [Łukasz Skowroń]
 tags: [Georges Clemenceau, Francja, Ferdinand Foch]
 sources:

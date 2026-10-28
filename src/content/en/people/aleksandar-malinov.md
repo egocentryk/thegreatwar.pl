@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Pandakli in Bessarabia (now Orikhivka, Ukraine)
 deathPlace: Sofia
 source: aleksandyr-malinow
-sourceHash: a2734a66908b961ea63c9b92a7d0329cb69996c7
+sourceHash: 5f10ff0db713b700305ca24e9b465f8bde45bd62
 ---
 
 Aleksandar Malinov led the Bulgarian Democratic Party for 35 years and was prime minister three times. His first government proclaimed Bulgaria's independence in 1908, and his second, appointed in June 1918, had to end the Great War for it. In 1915 Malinov was among the opposition leaders who warned Tsar Ferdinand against war on the side of the Central Powers and predicted a second national catastrophe. Three years later, as the prediction was coming true, the tsar entrusted him with power. Malinov was unable to lead Bulgaria out of the war on its own terms. After the collapse of the front in Macedonia his government asked for an armistice, put down a soldiers' mutiny near Sofia and accepted the tsar's abdication. Although he himself had opposed the alliance with Germany, it was he who signed the acts of defeat of a country that others had led into it.

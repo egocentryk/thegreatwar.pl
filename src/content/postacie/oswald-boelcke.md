@@ -10,6 +10,11 @@ birthPlace: Giebichenstein koło Halle (Niemcy)
 deathPlace: Okolice Bapaume (Francja)
 aliases: [Oswald Boelcke]
 wikiTitles: [Oswald_Boelcke]
+photo:
+  src: ../../assets/postacie/oswald-boelcke.jpg
+  credit: Willi Sanke
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Hauptmann_Boelcke.jpg
 authors: [Natalia]
 tags: [Niemcy, lotnictwo]
 sources:

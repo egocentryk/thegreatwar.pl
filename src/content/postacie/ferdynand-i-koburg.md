@@ -10,6 +10,11 @@ birthPlace: Wiedeń (Austria)
 deathPlace: Coburg (Niemcy)
 aliases: [Ferdynand I Koburg]
 wikiTitles: [Ferdynand_I_Koburg]
+photo:
+  src: ../../assets/postacie/ferdynand-i-koburg.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Zar_Ferdinand_Bulgarien.jpg
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, Serbia, Rumunia, neutralność]
 sources:

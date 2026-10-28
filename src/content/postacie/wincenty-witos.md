@@ -10,6 +10,11 @@ birthPlace: Wierzchosławice koło Tarnowa (Galicja, Austro-Węgry)
 deathPlace: Kraków
 aliases: [Wincenty Witos]
 wikiTitles: [Wincenty_Witos]
+photo:
+  src: ../../assets/postacie/wincenty-witos.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Witos_1920.jpg
 authors: [Łukasz Skowroń]
 tags: [Wincenty Witos, Polska, Galicja]
 sources:

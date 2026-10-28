@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Moscow (Russian Empire)
 deathPlace: Saint-Laurent-du-Var (France)
 source: nikolaj-judenicz
-sourceHash: aaccd1dc21e787c1efec440d6f1a66f278d66ab9
+sourceHash: 8295d3cc5c7b82908748db1c3dc7d26b21188932
 ---
 
 General Nikolai Yudenich is regarded as one of the ablest Russian commanders of the war, and under his direction the Caucasus front was the only one on which Russia kept winning right up to the revolution. As chief of staff of the Caucasus Army in the winter of 1914 he stopped the Turks at Sarikamish, and as its commander in 1916 he took Erzurum, Trebizond and Erzincan, smashing the Ottoman Third Army. His victories relieved the British in Mesopotamia and at the Dardanelles, and at the beginning of 1917 the Russians controlled most of Turkish Armenia. The revolution cut his career short. In the Civil War he led the Whites in north-western Russia, and in the autumn of 1919 his troops came right up to Petrograd.

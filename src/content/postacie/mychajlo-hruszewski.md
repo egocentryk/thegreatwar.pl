@@ -10,6 +10,11 @@ birthPlace: Chełm (Polska)
 deathPlace: Kisłowodzk (Rosja)
 aliases: [Mychajło Hruszewski]
 wikiTitles: [Mychajło_Hruszewski]
+photo:
+  src: ../../assets/postacie/mychajlo-hruszewski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Hrushevskyi_Mykhailo_XX.jpg
 authors: [Łukasz Skowroń]
 tags: [Ukraina, Rosja, rewolucja lutowa, rewolucja październikowa]
 sources:

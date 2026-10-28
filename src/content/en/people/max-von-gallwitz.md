@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Breslau (Prussia)
 deathPlace: Naples
 source: max-von-gallwitz
-sourceHash: 688a9f81c8e5f16e820930df6a7bce24be55a107
+sourceHash: 38d764a92e2ede460316c852e13d92980118965c
 ---
 
 Max von Gallwitz was one of the few German generals who commanded large formations in the First World War on all of Germany's main fronts: in Belgium, in East Prussia and in Poland, in Serbia, on the Somme, at Verdun and finally against the Americans. An artilleryman by profession, in August 1914 he took the Belgian fortress of Namur with heavy guns. In July 1915 his army group broke through the Russian front at Przasnysz and on the Narew, which contributed to the Russians' loss of Warsaw and the whole of Congress Poland. In the autumn of that year he led a German army across the Danube into Serbia. From 1916 he fought in the west, and in 1918 his army group bore the first great American offensives at Saint-Mihiel and in the Argonne.

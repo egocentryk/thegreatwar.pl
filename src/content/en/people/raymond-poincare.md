@@ -6,7 +6,7 @@ country: France
 birthPlace: Bar-le-Duc (France)
 deathPlace: Paris
 source: raymond-poincare
-sourceHash: 0aa4ca5c21fd1897240c5d149c46047cf48fd787
+sourceHash: c0de002a755fd03257b77d3c2d6061eb70aca54c
 ---
 
 Raymond Poincaré was President of France throughout the war. A lawyer and politician of the moderate centre, he came from Lorraine and remembered from childhood the German occupation after the defeat of 1870. As prime minister and president he strengthened the alliance with Russia, and in July 1914 he visited St Petersburg, a few days before the outbreak of war. It was he who in August called on the French to form a "sacred union" of all parties. The constitution of the Third Republic gave the president little power, and in the first years of the war military decisions were taken over by the commander-in-chief, Joseph Joffre. Poincaré was nevertheless a persistent observer, adviser and intermediary between governments, generals and allies. In November 1917 he made the most important choice of his presidency: he entrusted the government to Georges Clemenceau, whom he could not stand but who promised victory.

@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Nizhny Novgorod (Russian Empire)
 deathPlace: Mała Wieś near Grójec
 source: zdzislaw-lubomirski
-sourceHash: 8675c7dbf919098bd9b1d74d39807e23d54f1d35
+sourceHash: 73f843853ad375f455646c4992ceabecedeb9b46
 ---
 
 During the Great War Prince Zdzisław Lubomirski was the steward of Warsaw and then one of the three regents of the Kingdom of Poland. Until 1914 he was known above all as a charitable and social activist. In August 1915, as the Russians were leaving the city, it was to him that they handed over the administration of the capital, and under German occupation he defended its inhabitants against requisitions and deportations for forced labour. The popularity he won then led to his joining the Regency Council in 1917, where he was regarded as the most energetic of the regents. On 10 November 1918 it was he who waited at the station for [Józef Piłsudski](/postacie/jozef-pilsudski) returning from Magdeburg, and four days later, together with the other regents, he handed all power over to him. His life shows the path taken by a large part of the Kingdom's elite: from loyalty to Russia through cautious cooperation with the occupier to an independent state.

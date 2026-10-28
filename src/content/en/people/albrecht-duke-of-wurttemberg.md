@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Vienna (Austria)
 deathPlace: Altshausen (Württemberg)
 source: albrecht-wirtemberski
-sourceHash: eb70673c3c1d902a02f19c5d9a1dd4cd2f7a8db0
+sourceHash: 27cb71e6ff6f68bfcc78973f4f9cc85b40b07040
 ---
 
 Duke Albrecht of Württemberg, heir presumptive to the throne of the [Kingdom of Württemberg](https://pl.wikipedia.org/wiki/Królestwo_Wirtembergii), commanded the German Fourth Army from 1914 to 1917. His troops defeated the French in the Ardennes in August 1914, and in the autumn of that year, transferred to Flanders, they made bloody attacks on the Yser and at Ypres, which gave birth to the German Langemarck legend. Under his command, on 22 April 1915, the Germans carried out the first large-scale chlorine attack at Ypres. From 1917 until the end of the war he commanded an army group on the quieter, southern sector of the Western Front, in Lorraine and Alsace. He was one of those princely commanders who enjoyed respect in the army, although his name always remained in the shadow of his Bavarian cousin Rupprecht and his staff officers.

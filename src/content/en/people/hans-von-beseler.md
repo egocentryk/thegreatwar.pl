@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Greifswald (Germany)
 deathPlace: Neubabelsberg near Potsdam
 source: hans-von-beseler
-sourceHash: 94de84f95c715e6d3f9c14a5c0b9e2bb89971c00
+sourceHash: 09c24d84f3e8b04cf069ece0fae2bde18f291560
 ---
 
 Hans Hartwig von Beseler left his mark on the history of the First World War twice. First as a fortress specialist who in 1914 took Antwerp in less than two weeks, and in 1915 Novogeorgievsk, today's Modlin, in a week. Then as the German Governor-General in Warsaw, who for more than three years ruled the occupied part of the Kingdom of Poland. It was he who on 5 November 1916 read out at the Royal Castle the manifesto announcing the creation of a Kingdom of Poland, and he who tried to build a Polish army at Germany's side. His plan failed: the Poles did not want to fight for the Central Powers, and in November 1918 Beseler had to flee Warsaw in disguise.

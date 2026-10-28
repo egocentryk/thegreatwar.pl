@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Manchester (England)
 deathPlace: Llanystumdwy (Wales)
 source: david-lloyd-george
-sourceHash: 7df21543aea806d7f0cd96390c91635d2afa9d40
+sourceHash: 03b0b3aee86c9a527c8d34bb5a6dc1cdfd632dda
 ---
 
 David Lloyd George was the most dynamic British politician of the First World War and stood in the front rank of its leaders throughout. A radical Liberal and Welsh solicitor, known before the war for social reform and a dislike of armaments, in 1915 he built the Ministry of Munitions from scratch, in 1916 he succeeded Kitchener at the War Office, and in December of that year he pushed [Herbert Henry Asquith](/postacie/herbert-henry-asquith) from power and took over the government. As Prime Minister he created a small War Cabinet, forced convoys on the admirals and a unified command on the allies. All the while, however, he was in conflict with his own generals, [Douglas Haig](/postacie/douglas-haig) and William Robertson, whose strategy he distrusted but whom he could not, or dared not, dismiss. He won the war, but broke his own party in the process.

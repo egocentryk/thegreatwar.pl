@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Dublin (Ireland)
 deathPlace: Minster (Kent, England)
 source: edward-carson
-sourceHash: 9d950a759335affe61fbba4285557f85a1fab275
+sourceHash: 36db649b216e0c35d2c8b86f84ceef06c5034fc4
 ---
 
 Edward Carson, a Dublin barrister and leader of the Irish Unionists, entered the war as a man who only a few weeks earlier had headed an armed resistance movement against his own government. The Ulster Volunteers he had organised to fight Irish home rule became in 1914 the 36th (Ulster) Division of the British Army. Carson himself was in turn Attorney General in the coalition government, leader of the unofficial opposition, one of the three politicians who in December 1916 removed [H. H. Asquith](/postacie/herbert-henry-asquith) from power, First Lord of the Admiralty in the darkest months of the submarine war, and a member of the War Cabinet. Yet the cause of Ulster always remained the most important thing for him, and twice it led him out of government.

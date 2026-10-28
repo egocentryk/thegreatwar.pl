@@ -10,6 +10,11 @@ birthPlace: Bovenplaats koło Riebeek West (Kolonia Przylądkowa)
 deathPlace: Irene koło Pretorii
 aliases: [Jan Smuts]
 wikiTitles: [Jan_Smuts]
+photo:
+  src: ../../assets/postacie/jan-smuts.jpg
+  credit: Harris & Ewing, photographer
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Jan_Christiaan_Smuts.jpg
 authors: [Łukasz Skowroń]
 tags: [Związek Południowej Afryki, Niemiecka Afryka Wschodnia, Louis Botha]
 sources:

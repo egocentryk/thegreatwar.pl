@@ -10,6 +10,11 @@ birthPlace: Košariská (Słowacja)
 deathPlace: Ivanka pri Dunaji (Słowacja)
 aliases: [Milan Rastislav Štefánik, Milan Štefánik]
 wikiTitles: [Milan_Rastislav_Štefánik]
+photo:
+  src: ../../assets/postacie/milan-rastislav-stefanik.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Milan_Rastislav_%C5%A0tef%C3%A1nik.jpg
 authors: [Łukasz Skowroń]
 tags: [Czechosłowacy, Francja, Włochy, Rosja]
 sources:

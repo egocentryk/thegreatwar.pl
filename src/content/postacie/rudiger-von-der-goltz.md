@@ -10,6 +10,11 @@ birthPlace: Züllichau, dziś Sulechów (Prusy, dziś Polska)
 deathPlace: Bernbeuren (Bawaria)
 aliases: [Rüdiger von der Goltz]
 wikiTitles: [Rüdiger_von_der_Goltz]
+photo:
+  src: ../../assets/postacie/rudiger-von-der-goltz.jpg
+  credit: WSOY
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:V_d_goltz.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Finlandia, Morze Bałtyckie, Łotwa]
 sources:

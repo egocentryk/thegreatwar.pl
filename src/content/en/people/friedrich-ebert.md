@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Heidelberg (Grand Duchy of Baden)
 deathPlace: Berlin
 source: friedrich-ebert
-sourceHash: 6e1b5bd721fc69b9a45ec8649ea8cf91f7885133
+sourceHash: 0fb936cd80bf3d37c09ab8c02dda6b697bf85f8c
 ---
 
 Friedrich Ebert, the son of a Heidelberg tailor and a saddler by trade, had led Germany's largest party, the [Social Democratic Party of Germany](https://pl.wikipedia.org/wiki/Socjaldemokratyczna_Partia_Niemiec), since 1913. Throughout the war he supported the defence of the country and the policy of the "castle peace" (Burgfrieden), and at that price he watched his party split into two hostile halves. At the same time he patiently built in the Reichstag the coalition that forced through the peace resolution of 1917 and the parliamentarisation of the Reich in the autumn of 1918. On 9 November 1918, the day of the revolution, he took over the office of chancellor from Prince Max of Baden, and then led the revolutionary government that ended the war, held elections to the National Assembly and relied on the old army against the radical left. In 1919 he became the first President of Germany. To some he is the father of German democracy; to others, the man who betrayed the revolution and left the republic an army of generals hostile to it.

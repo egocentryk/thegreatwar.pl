@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Popasnoye, Yekaterinoslav Governorate (Russian Empire)
 deathPlace: Kingdom of Serbs, Croats and Slovenes
 source: michail-rodzianko
-sourceHash: 11079211e0287747775a21989213903340972ce4
+sourceHash: e9735c8ca1493cc1265409953e79e8d23b03b9e9
 ---
 
 Mikhail Vladimirovich Rodzianko was for six years chairman of the Russian [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) and its best-known face. A landowner, a former Guards officer and a convinced constitutional monarchist, throughout the war he warned [Nicholas II](/postacie/mikolaj-ii) that government by men who lacked the country's confidence, and the influence of [Grigori Rasputin](/postacie/grigorij-rasputin), were leading the monarchy to its ruin. When the Petrograd garrison mutinied in March 1917, he headed the Provisional Committee of the Duma, and his night-time conversation with General [Nikolai Ruzsky](/postacie/nikolaj-ruzski) decided the Tsar's abdication. He wanted to save the dynasty, but helped to bring about its end. Within a few days the revolution pushed him aside.

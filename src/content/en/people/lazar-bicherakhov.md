@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Petersburg (Russia)
 deathPlace: Dornstadt near Ulm (Germany)
 source: lazar-biczerachow
-sourceHash: 8405bde6ad311c3ba5f4f5a855757ca0d384ca29
+sourceHash: 5d21d8fc64fa3a9a034051818ad5678cd42e2826
 ---
 
 Lazar Bicherakhov was one of the few Russian officers who did not lay down their arms after the [Bolshevik coup](/rewolucja-pazdziernikowa) and fought the Central Powers to the end of the war. An Ossetian from the Terek Cossacks and commander of a small but hard-fighting detachment of "partisans" in Persia, at the turn of 1917 and 1918 he and his men went into British pay. He then became the main armed force of the mission of General [Lionel Dunsterville](/misja-dunsterville), which was making its way through Persia to the Caspian Sea. In 1918 he routed the Persian Jangalis at Manjil, for a time commanded the troops of the Bolshevik Baku Commune against the Turks, and then took control of the Dagestan coast. The British saw him as a hero, the Bolsheviks as a traitor. The Whites recognised him as one of their generals, although he did not submit to [Anton Denikin](/postacie/anton-denikin). He acted in the history of the war in the Caucasus with great freedom, often on his own initiative, and to this day he provokes extreme judgements.

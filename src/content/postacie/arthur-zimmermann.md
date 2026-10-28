@@ -10,6 +10,11 @@ birthPlace: Marggrabowa, dziś Olecko (Prusy Wschodnie, dziś Polska)
 deathPlace: Berlin
 aliases: [Arthur Zimmermann]
 wikiTitles: [Arthur_Zimmermann]
+photo:
+  src: ../../assets/postacie/arthur-zimmermann.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Artur_Zimmermann._Staatssekret%C3%A4r_des_Ausw%C3%A4rtigen_Amtes_(cropped).png
 authors: [Natalia]
 tags: [Niemcy, Stany Zjednoczone, wywiad, okręty podwodne]
 sources:

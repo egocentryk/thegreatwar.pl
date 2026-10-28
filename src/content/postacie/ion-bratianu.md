@@ -10,6 +10,11 @@ birthPlace: Ștefănești (Rumunia)
 deathPlace: Bukareszt
 aliases: [Ion I.C. Brătianu, Ion Brătianu]
 wikiTitles: [Ion_I.C._Brătianu]
+photo:
+  src: ../../assets/postacie/ion-bratianu.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:IonelBratianu3b40761r.jpg
 authors: [Natalia]
 tags: [Rumunia, neutralność, Siedmiogród, Ferdynand I Rumuński]
 sources:

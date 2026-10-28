@@ -10,6 +10,11 @@ birthPlace: Pointe-à-Pitre (Gwadelupa)
 deathPlace: Neuilly-sur-Seine
 aliases: [Charles Lanrezac]
 wikiTitles: []
+photo:
+  src: ../../assets/postacie/charles-lanrezac.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Charles_Lanrezac.gif
 authors: [Łukasz Skowroń]
 tags: [Charles Lanrezac, Francja, Joseph Joffre, wielki odwrót]
 sources:

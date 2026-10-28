@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Janina (Ottoman Empire, now Greece)
 deathPlace: Istanbul (Turkey)
 source: wehib-pasza
-sourceHash: 917dffd14a819e85ced0c9d97f56c5f35b0ab6f1
+sourceHash: 2afbf599ebd49060af7cf3246ba051aa0a252c6d
 ---
 
 Mehmed Vehip, known as Vehip Pasha (Turkish: Vehip Paşa), and after surnames were introduced in Turkey Mehmet Vehip Kaçı, was one of the ablest Ottoman generals of the Great War and at the same time one of the most forgotten. In the summer of 1915 he commanded the defence of the southern tip of the Gallipoli peninsula. From the spring of 1916 he headed the Third Army in the Caucasus, which the Russians shattered that same summer, and in 1918 he led it on a victorious march that restored Erzurum, Kars and Batumi to Turkey. The Germans then came to regard him as an obstacle, and Enver Pasha sent him back to the capital. After the war he gave testimony that remains to this day one of the most frequently cited Ottoman accounts of the [Armenian genocide](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian). He spent most of the rest of his life in exile.

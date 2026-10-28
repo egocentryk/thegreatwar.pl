@@ -10,6 +10,11 @@ birthPlace: Edynburg (Szkocja)
 deathPlace: Londyn
 aliases: [Douglas Haig]
 wikiTitles: [Douglas_Haig]
+photo:
+  src: ../../assets/postacie/douglas-haig.jpg
+  credit: Library of Congress
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Douglas_Haig.jpg
 authors: [Łukasz Skowroń]
 tags: [Douglas Haig, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
 sources:

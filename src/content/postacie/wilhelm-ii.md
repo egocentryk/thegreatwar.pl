@@ -10,6 +10,11 @@ birthPlace: Berlin
 deathPlace: Doorn (Holandia)
 aliases: [Wilhelm II]
 wikiTitles: [Wilhelm_II_Hohenzollern]
+photo:
+  src: ../../assets/postacie/wilhelm-ii.jpg
+  credit: Studio of Thomas Heinrich Voigt
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Kaiser_Wilhelm_II_of_Germany_-_1902.jpg
 authors: [Łukasz Skowroń]
 tags: [Wilhelm II, Niemcy, rewolucja listopadowa]
 sources:

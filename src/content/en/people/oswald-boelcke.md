@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Giebichenstein near Halle (Germany)
 deathPlace: Near Bapaume (France)
 source: oswald-boelcke
-sourceHash: bc1aa42a11903cdaca73c58a5d803fce18da5b7a
+sourceHash: 9bf0acf452ecfe1d90ce2af050ca9a294d91a75e
 ---
 
 Oswald Boelcke was the first airman to understand that fighting in the air was a separate kind of war, requiring its own tactics, its own units and special training. In the autumn of 1915, flying a Fokker monoplane with a machine gun firing through the propeller, he and Max Immelmann became the heroes of the "Fokker Scourge", and in January 1916 the two of them were the first airmen to receive the Pour le Mérite. In the summer of 1916 he set down the rules of air combat known as the "Dicta Boelcke" and advised gathering fighters into separate squadrons. He himself took command of one of the first of them, Jagdstaffel 2, which wrested air superiority over the Somme from the British. When he was killed in an accident on 28 October 1916, he was 25 years old and had 40 confirmed victories, more than any other pilot in the world. His pupils, led by Manfred von Richthofen, fought by his rules for the next two years.

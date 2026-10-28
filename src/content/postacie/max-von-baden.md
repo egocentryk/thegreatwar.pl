@@ -10,6 +10,11 @@ birthPlace: Baden-Baden (Wielkie Księstwo Badenii)
 deathPlace: Konstancja (Badenia)
 aliases: [Max von Baden, Max Badeński]
 wikiTitles: [Max_von_Baden]
+photo:
+  src: ../../assets/postacie/max-von-baden.jpg
+  credit: Bundesarchiv, Bild 183-R04103
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R04103,_Prinz_Max_von_Baden.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, inicjatywy pokojowe, polityka wewnętrzna, rewolucja listopadowa]
 sources:

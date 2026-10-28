@@ -10,6 +10,11 @@ birthPlace: Greifswald (Niemcy)
 deathPlace: Neubabelsberg koło Poczdamu
 aliases: [Hans von Beseler, Hans Hartwig von Beseler]
 wikiTitles: [Hans_Hartwig_von_Beseler]
+photo:
+  src: ../../assets/postacie/hans-von-beseler.jpg
+  credit: Nicola Perscheid
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:General_von_Beseler_(cropped).jpg
 authors: [Natalia]
 tags: [Niemcy, Królestwo Polskie, okupacja niemiecka, Antwerpia]
 sources:

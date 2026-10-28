@@ -10,6 +10,11 @@ birthPlace: Gorisa koło Kutaisi (Gruzja, Imperium Rosyjskie)
 deathPlace: Nowy Jork (Stany Zjednoczone)
 aliases: [Irakli Cereteli]
 wikiTitles: [Irakli_Cereteli]
+photo:
+  src: ../../assets/postacie/irakli-cereteli.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Irakly_Tsereteli.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, Rada Piotrogrodzka, rewolucja lutowa, Gruzja]
 sources:

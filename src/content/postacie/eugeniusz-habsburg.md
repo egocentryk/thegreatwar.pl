@@ -10,6 +10,11 @@ birthPlace: Židlochovice (Gross Seelowitz) na Morawach (Czechy)
 deathPlace: Merano (Włochy)
 aliases: [Eugeniusz Habsburg, arcyksiążę Eugeniusz]
 wikiTitles: [Eugeniusz_Ferdynand_Habsburg]
+photo:
+  src: ../../assets/postacie/eugeniusz-habsburg.jpg
+  credit: Josef Büche
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Josef_B%C3%BCche_Erzherzog_Eugen.jpg
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Włochy, Serbia]
 sources:

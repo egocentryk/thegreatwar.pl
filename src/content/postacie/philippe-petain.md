@@ -10,6 +10,11 @@ birthPlace: Cauchy-à-la-Tour (Francja)
 deathPlace: Port-Joinville, Île d’Yeu (Francja)
 aliases: [Philippe Pétain]
 wikiTitles: [Philippe_Pétain]
+photo:
+  src: ../../assets/postacie/philippe-petain.jpg
+  credit: Harris & Ewing
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Philippe_P%C3%A9tain_(en_civil,_autour_de_1930).jpg
 authors: [Łukasz Skowroń]
 tags: [Philippe Pétain, Francja]
 sources:

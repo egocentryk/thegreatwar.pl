@@ -10,6 +10,11 @@ birthPlace: Champigny-sur-Marne (Francja)
 deathPlace: Paryż
 aliases: [Albert Thomas]
 wikiTitles: [Albert_Thomas_(polityk)]
+photo:
+  src: ../../assets/postacie/albert-thomas.jpg
+  credit: National Photo Company
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Albert_Thomas_01.jpg
 authors: [Natalia]
 tags: [Francja, gospodarka, Rosja]
 sources:

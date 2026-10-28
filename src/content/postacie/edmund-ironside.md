@@ -10,6 +10,11 @@ birthPlace: Edynburg (Szkocja)
 deathPlace: Londyn
 aliases: [Edmund Ironside]
 wikiTitles: [Edmund_Ironside]
+photo:
+  src: ../../assets/postacie/edmund-ironside.jpg
+  credit: War Office
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Edmund_Ironside.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, Rosja, Kanada]
 sources:

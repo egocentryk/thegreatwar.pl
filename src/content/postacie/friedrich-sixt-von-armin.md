@@ -10,6 +10,11 @@ birthPlace: Wetzlar (Prusy)
 deathPlace: Magdeburg
 aliases: [Friedrich Sixt von Armin]
 wikiTitles: [Friedrich_Sixt_von_Armin]
+photo:
+  src: ../../assets/postacie/friedrich-sixt-von-armin.jpg
+  credit: autor nieznany
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Friedrich_Sixt_von_Armin.png
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Belgia, Brytyjski Korpus Ekspedycyjny]
 sources:

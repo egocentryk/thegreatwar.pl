@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Schleswig (Prussia)
 deathPlace: Berlin
 source: hans-von-seeckt
-sourceHash: 76e5a23b36f700c14f1a586b8b92855d7729c6e1
+sourceHash: 3f7cf6d4b6c095fb47c11ff5ee3735ceb6072706
 ---
 
 Throughout the First World War Hans von Seeckt was a staff officer, never a commander, and yet he was among the most influential German soldiers of his time. As chief of staff to [August von Mackensen](/postacie/august-von-mackensen) he helped to plan the breakthrough of the Russian front at Gorlice in 1915 and the conquest of Serbia. In the German army it was said at the time that where Mackensen was, there was Seeckt, and where Seeckt was, there was victory. In 1916–1917 he shored up the Austro-Hungarian front in the Carpathians, and in the last year of the war he was chief of staff of the Ottoman army. After the war he became head of the army of the Weimar Republic and built the 100,000-strong Reichswehr, from which came the commanders of the German army of the Second World War.

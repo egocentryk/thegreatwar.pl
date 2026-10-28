@@ -10,6 +10,11 @@ birthPlace: Napperton (Ontario, Kanada)
 deathPlace: Montreal
 aliases: [Arthur Currie]
 wikiTitles: [Arthur_Currie]
+photo:
+  src: ../../assets/postacie/arthur-currie.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:ArthurCurrie.jpg
 authors: [Łukasz Skowroń]
 tags: [Kanada, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
 sources:

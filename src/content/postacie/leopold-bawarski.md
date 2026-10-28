@@ -10,6 +10,11 @@ birthPlace: Monachium (Bawaria)
 deathPlace: Monachium
 aliases: [Leopold Bawarski]
 wikiTitles: [Leopold_Bawarski]
+photo:
+  src: ../../assets/postacie/leopold-bawarski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Prinz_Leopold_von_Bayern.png
 authors: [Natalia]
 tags: [Niemcy, Rosja, Królestwo Polskie, okupacja niemiecka]
 sources:

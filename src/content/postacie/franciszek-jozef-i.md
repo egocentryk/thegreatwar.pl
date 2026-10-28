@@ -10,6 +10,11 @@ birthPlace: Pałac Schönbrunn (Wiedeń)
 deathPlace: Pałac Schönbrunn (Wiedeń)
 aliases: [Franciszek Józef I]
 wikiTitles: [Franciszek_Józef_I]
+photo:
+  src: ../../assets/postacie/franciszek-jozef-i.jpg
+  credit: Carl Pietzner
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Franz_Joseph_I_of_Austria.1910_(cropped).jpg
 authors: [Natalia]
 tags: [Franciszek Józef I, Austro-Węgry, Serbia, Galicja]
 sources:

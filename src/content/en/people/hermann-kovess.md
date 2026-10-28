@@ -6,7 +6,7 @@ country: Austria-Hungary
 birthPlace: Temesvár (now Timișoara, Romania)
 deathPlace: Vienna
 source: hermann-kovess
-sourceHash: ce26262d42840e302fd438629aaee51b3d69cbf7
+sourceHash: 2676fd3a593b94743585945fdbfe25a82b02bb33
 ---
 
 Hermann Kövess von Kövessháza, a baron from 1917, was among the most successful commanders of the Austro-Hungarian Army, although he began the war as one of the oldest and most overlooked generals of the monarchy. In 1914, while colleagues younger than him were taking over armies, he commanded a corps. Only in 1915 was he given independent tasks: his troops occupied the left-bank part of the fortress of Ivangorod, and in the autumn, as commander of the 3rd Army, he took Belgrade. In the winter of 1915/1916 he conquered Montenegro and northern Albania within a few weeks, and in the summer of 1917 he retook Bukovina with Czernowitz. He was one of the few generals of the monarchy whom the Germans also respected. Finally, in November 1918, Emperor Charles made him commander-in-chief of an army that was just ceasing to exist.

@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Haynau, now Chojnów (Silesia, now Poland)
 deathPlace: Bad Saarow (Brandenburg)
 source: georg-michaelis
-sourceHash: 7f3f9e4dcdaa6dfadd208b2b51680288d8d5215c
+sourceHash: fbe3fbda6d2f12f64fc82f83c8d5a2d8700b8ac8
 ---
 
 Georg Michaelis was Chancellor of the German Empire for three and a half months, from 14 July to 1 November 1917. Until then he was known only to a narrow circle of officials and officers: he was an efficient Prussian administrator who during the war organised the country's supply of grain and bread. He became chancellor because the Kaiser, after the fall of [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg), needed someone who would be accepted by the Supreme Army Command of [Paul von Hindenburg](/postacie/paul-von-hindenburg) and [Erich Ludendorff](/postacie/erich-ludendorff) and who would not immediately alienate the Reichstag. During his short time in office parliament passed a peace resolution, the Pope issued an appeal for peace, and a sailors' mutiny broke out in the fleet. Michaelis failed to cope with any of these matters. He was the first chancellor without a noble title and the first whose departure was forced by the Reichstag parties.

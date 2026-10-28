@@ -6,7 +6,7 @@ country: Serbia
 birthPlace: Cetinje (Montenegro)
 deathPlace: Marseille (France)
 source: aleksander-i-karadziordziewic
-sourceHash: dade9070ca5df102bbac4c4194bacabc3674594b
+sourceHash: 20606b2ce70236e7af29b444e324d5e37c0c58ab
 ---
 
 Alexander Karađorđević, in Polish Karadziordziewić, was twenty-five when, four days before the assassination in Sarajevo, his ailing father, King [Peter I](/postacie/piotr-i-karadziordziewic), handed power to him. As regent and formal commander-in-chief he went through the whole war with the Serbian army: the victories of 1914, the defeat and the retreat through Albania in the winter of 1915, exile on Corfu, three years on the Salonika front and the return to Belgrade in the autumn of 1918. Operations were directed by the chiefs of staff, but in war policy and army affairs Alexander had more and more say, and his power grew at the expense of the politicians and officers with whom he competed. On 1 December 1918 it was he who proclaimed the Kingdom of Serbs, Croats and Slovenes, the future Yugoslavia, which he then ruled as king until his death at the hands of an assassin in 1934.

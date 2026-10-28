@@ -10,6 +10,11 @@ birthPlace: Bołgrad (Besarabia, dziś Ukraina)
 deathPlace: Sofia
 aliases: [Georgi Todorow]
 wikiTitles: [Georgi_Todorow_(generał)]
+photo:
+  src: ../../assets/postacie/georgi-todorow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Gen_todorov.jpg
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, Serbia, Grecja]
 sources:

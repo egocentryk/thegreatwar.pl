@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Trent (England)
 deathPlace: Delhi (British India)
 source: henry-rawlinson
-sourceHash: c8dda62260d093839b8e39fb2867317052575bf9
+sourceHash: 9767b9a42dabfc73a7c2c03fd602c37b34c06bb7
 ---
 
 Sir Henry Rawlinson, Baron Rawlinson from 1919, commanded the British Fourth Army in two battles that mark the extremes of the British experience on the Western Front. On 1 July 1916 his soldiers suffered, [on the Somme](/bitwy/bitwa-nad-somma), the heaviest losses of a single day in the history of the British Army. On 8 August 1918 the same army, with Canadians and Australians in the front line, broke through the front [at Amiens](/bitwy/bitwa-pod-amiens) on a day that [Erich Ludendorff](/postacie/erich-ludendorff) called the black day of the German Army. Rawlinson was an intelligent, ambitious and sociable officer, valued by politicians but also regarded as an intriguer. For historians, his path from the Somme to Amiens is the best example of how the British Army learned to wage industrial war.

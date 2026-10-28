@@ -6,7 +6,7 @@ country: Union of South Africa
 birthPlace: Greytown (Natal)
 deathPlace: Pretoria
 source: louis-botha
-sourceHash: 825ef13e67317214e3c4f617025c32fa840e1eb2
+sourceHash: 95448f3ae370ffa94f2d4ca33336e09908a092ac
 ---
 
 Louis Botha was one of the most remarkable figures of the Great War. A dozen or so years earlier, as commandant-general of the Transvaal, he had fought against the British in the Boer War, and in 1914, as prime minister of a British dominion, he sided with the Empire without hesitation. He paid for it with a revolt by part of his own people. He put down the Boer rebellion personally, and then himself led the forces of the Union of South Africa across the Namib Desert and in July 1915 accepted the surrender of German South West Africa. Later he sent soldiers to East Africa and to France, and in 1919 he signed the Treaty of Versailles on behalf of his country. He died two months later.

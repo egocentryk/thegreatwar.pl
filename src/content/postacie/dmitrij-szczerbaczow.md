@@ -9,6 +9,11 @@ died: 1932-01-18
 deathPlace: Nicea
 aliases: [Dmitrij Szczerbaczow]
 wikiTitles: [Dmitrij_Szczerbaczow]
+photo:
+  src: ../../assets/postacie/dmitrij-szczerbaczow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:1930_-_Generalul_rus_Dmitri_Scerbaciov.png
 authors: [Natalia]
 tags: [Rosja, Galicja, Rumunia]
 sources:

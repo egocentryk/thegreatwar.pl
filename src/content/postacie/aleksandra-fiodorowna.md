@@ -10,6 +10,11 @@ birthPlace: Darmstadt (Wielkie Księstwo Hesji)
 deathPlace: Jekaterynburg
 aliases: [Aleksandra Fiodorowna]
 wikiTitles: [Aleksandra_Fiodorowna_(1872–1918)]
+photo:
+  src: ../../assets/postacie/aleksandra-fiodorowna.jpg
+  credit: Boasson and Eggler, St. Petersburg
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alexandra_Fyodorovna_LOC_01137u.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, Mikołaj II, Grigorij Rasputin]
 sources:

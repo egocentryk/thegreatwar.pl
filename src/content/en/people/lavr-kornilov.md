@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Ust-Kamenogorsk (Russian Empire)
 deathPlace: near Yekaterinodar
 source: lawr-kornilow
-sourceHash: db900c4738610e04dcf60d4682b1358e82a6d8eb
+sourceHash: cf80700d56ecd02a0ac1c7b042f6096dfcaa7826
 ---
 
 General Lavr Kornilov was the most controversial Russian commander of the war. In 1914–1915 he made his name as a recklessly brave divisional commander, in 1916 all Russia talked of his escape from Austro-Hungarian captivity, and in the summer of 1917, after the defeat of the last Russian offensive, the government entrusted him with the supreme command. The right and the officers saw in him the man who would halt the disintegration of the army and the state. The left saw in him a would-be dictator. His September conflict with the prime minister Alexander Kerensky, known as the Kornilov affair or Kornilov putsch, ended in the general's defeat, but it weakened the Provisional Government still further and opened the way for the Bolsheviks' coup. After the October Revolution Kornilov co-founded the White Volunteer Army and was killed at its head in the spring of 1918.

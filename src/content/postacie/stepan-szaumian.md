@@ -10,6 +10,11 @@ birthPlace: Tyflis (Gruzja)
 deathPlace: Okolice Krasnowodska (Zakaspie, dziś Turkmenistan)
 aliases: [Stepan Szaumian]
 wikiTitles: [Stepan_Szaumian]
+photo:
+  src: ../../assets/postacie/stepan-szaumian.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Stepan_Shaumyan.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, Azerbejdżan, Kaukaz, Włodzimierz Lenin]
 sources:

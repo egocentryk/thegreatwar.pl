@@ -10,6 +10,11 @@ birthPlace: Laclede (Missouri, Stany Zjednoczone)
 deathPlace: Waszyngton
 aliases: [John Pershing]
 wikiTitles: [John_Pershing]
+photo:
+  src: ../../assets/postacie/john-pershing.jpg
+  credit: Richard Leopold Seyffert
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:John_Pershing_as_Army_Chief_of_Staff_bust.jpg
 authors: [Łukasz Skowroń]
 tags: [John Pershing, Stany Zjednoczone, Francja]
 sources:

@@ -5,7 +5,7 @@ role: Commander of the Russian 11th and 7th Armies (1915–1917), de facto comma
 country: Russia
 deathPlace: Nice
 source: dmitrij-szczerbaczow
-sourceHash: 5bb4cf928491f528c8e00edeac0dada28c90a281
+sourceHash: 93baa6a097d811a9c2ea6ed215175a6383e30140
 ---
 
 General of Infantry Dmitry Shcherbachev went through the whole war on the southern wing of the Eastern Front. In 1914 he commanded a corps at Lemberg and Przemyśl, in 1915–1917 the 11th and then the 7th Army in Eastern Galicia, and from the spring of 1917, as deputy to the King of Romania, he in practice directed the entire Romanian Front. He was regarded as an educated, cautious and methodical commander who seldom suffered defeat but also seldom exploited victory. His hardest decisions, however, came at the end of 1917: he refused to recognise Lenin's government, concluded the armistice of Focșani with the Central Powers and helped the Romanians disarm the disintegrating Russian troops.

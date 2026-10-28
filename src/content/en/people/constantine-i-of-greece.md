@@ -6,7 +6,7 @@ country: Greece
 birthPlace: Athens (Greece)
 deathPlace: Palermo (Italy)
 source: konstantyn-i
-sourceHash: ee14d8fd2dbaf06b2c48ffc761c09d979cb2bc81
+sourceHash: 64fd0bee8b8962110b78bfcbda4e9291f05d6f8d
 ---
 
 Constantine I came to the throne in 1913 as the most popular man in Greece: the commander who in the Balkan Wars had taken Salonika and Ioannina and almost doubled the state's territory. Four years later a French commissioner sent him into exile. Throughout that time the king held to one conviction: Greece should not enter the Great War, and certainly not against Germany, whose army he admired and feared. This stance led him into open conflict with the prime minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos), whom he twice forced to resign, and with the Entente powers, which from 1915 were fighting on Greek soil. From the quarrel between king and prime minister grew the [National Schism](https://pl.wikipedia.org/wiki/Schizma_narodowa), a rift that divided the Greeks for decades to come. Formally, Greece entered the war on the side of the Entente, but only after Constantine had been removed.

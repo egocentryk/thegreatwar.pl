@@ -10,6 +10,11 @@ birthPlace: Stomfa, dziś Stupava (Węgry, dziś Słowacja)
 deathPlace: Wiedeń
 aliases: [István Burián]
 wikiTitles: [István_Burián]
+photo:
+  src: ../../assets/postacie/istvan-burian.jpg
+  credit: Lipót Strelisky
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Buri%C3%A1n_Istv%C3%A1n.jpg
 authors: [Łukasz Skowroń]
 tags: [István Burián, Austro-Węgry, Włochy, István Tisza]
 sources:

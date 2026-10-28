@@ -10,6 +10,11 @@ birthPlace: Dublin (Irlandia)
 deathPlace: Minster (hrabstwo Kent, Anglia)
 aliases: [Edward Carson]
 wikiTitles: [Edward_Carson]
+photo:
+  src: ../../assets/postacie/edward-carson.jpg
+  credit: J. Beagles & Co., Ltd
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Sir_Edward_Carson,_bw_photo_portrait_seated.jpg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Irlandia, Royal Navy, David Lloyd George]
 sources:

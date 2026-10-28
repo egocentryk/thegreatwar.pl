@@ -6,7 +6,7 @@ country: Montenegro
 birthPlace: Njeguši (Montenegro)
 deathPlace: Antibes (France)
 source: mikolaj-i-petrowic-niegosz
-sourceHash: d4681d3d6b22a1317f100afde6fd027f4b7d258e
+sourceHash: 2bebc9db968b8acf186a727c9b6ebbf99ef700d5
 ---
 
 Nicholas I Petrović-Njegoš, in Polish Petrowić-Niegosz, ruled Montenegro for nearly sixty years, longer than most of the European monarchs of his day. He turned a small mountain principality into an independent kingdom, and through his daughters' marriages became related to the courts of Russia, Italy and Serbia. In 1914 he was the first to stand by Serbia against Austria-Hungary. The war, however, brought him defeat: in January 1916 the Austrians overran his country in a few days, and he himself went into an exile from which he never returned. Accused by the Serbs of treachery and by the Allies of disloyalty, he was deposed in November 1918, and Montenegro became part of the new Yugoslav state.

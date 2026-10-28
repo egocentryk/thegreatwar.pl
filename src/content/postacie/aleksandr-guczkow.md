@@ -10,6 +10,11 @@ birthPlace: Moskwa (Imperium Rosyjskie)
 deathPlace: Paryż (Francja)
 aliases: [Aleksandr Guczkow]
 wikiTitles: [Aleksandr_Guczkow]
+photo:
+  src: ../../assets/postacie/aleksandr-guczkow.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Guchkov.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja lutowa, Mikołaj II]
 sources:

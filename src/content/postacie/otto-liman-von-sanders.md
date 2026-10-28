@@ -10,6 +10,11 @@ birthPlace: Słupsk (Prusy)
 deathPlace: Monachium
 aliases: [Otto Liman von Sanders]
 wikiTitles: [Otto_Liman_von_Sanders]
+photo:
+  src: ../../assets/postacie/otto-liman-von-sanders.jpg
+  credit: "\"Photo © by American Press Assn.\""
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Otto_Liman_Von_Sanders.jpg
 authors: [Natalia]
 tags: [Otto Liman von Sanders, Imperium Osmańskie, Dardanele, Niemcy]
 sources:

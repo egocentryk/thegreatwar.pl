@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Midhurst (England)
 source: ivor-maxse
-sourceHash: 2044d15cd6e2d9eb50dfe897c4fca600c58f4773
+sourceHash: fe6f4466b2c9e674468c190af7b5fc98a3d79857
 ---
 
 Sir Ivor Maxse was one of those British generals who best understood what trench warfare demanded. He was not a great strategist or an army commander, but a teacher. From volunteers of Kitchener's New Armies he built the 18th Division, one of the best in the British Army, which on 1 July 1916 took all its objectives and in September captured Thiepval, considered an impregnable fortress. He then commanded a corps at Ypres and during the German offensive in the spring of 1918, and in the last months of the war, as Inspector-General of Training, he standardised the fighting methods of the army that defeated the Germans in the autumn. He was a fiery and demanding man who struck fear into lazy officers, yet he was open to new ideas and warm towards those who were not afraid of him.

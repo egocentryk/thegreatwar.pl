@@ -10,6 +10,11 @@ birthPlace: Bechtiejewo, gubernia smoleńska (Imperium Rosyjskie)
 deathPlace: Kommunarka pod Moskwą
 aliases: [Nikołaj Krylenko]
 wikiTitles: [Nikołaj_Krylenko]
+photo:
+  src: ../../assets/postacie/nikolaj-krylenko.jpg
+  credit: Bain News Service
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Nikolai_Krylenko.jpg
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin, inicjatywy pokojowe]
 sources:

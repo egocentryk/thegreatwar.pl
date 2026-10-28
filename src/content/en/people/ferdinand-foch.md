@@ -6,7 +6,7 @@ country: France
 birthPlace: Tarbes (France)
 deathPlace: Paris
 source: ferdinand-foch
-sourceHash: 49c98f18763dee8fbbacc3c24ebcfb0a53d1d54e
+sourceHash: a2c99a6b2d392e2ea516f1ee24d311f6bb146ad7
 ---
 
 Ferdinand Foch is the only commander of this war who in its last year directed the armies of several states at once. Before 1914 he was the best-known French military theorist and the teacher of a generation of officers. In the first months of the war he commanded a corps in Lorraine and an army on the Marne, and then coordinated the defence of Flanders. In 1915–1916 he conducted bloody and largely fruitless offensives in Artois and on the Somme, for which he paid with removal from command. In the spring of 1918, at the moment of greatest danger, the Allies entrusted him with the joint direction of the armies on the Western Front. He halted the last German offensives, went over to the counter-offensive and in November, in his railway carriage in the forest of Compiègne, dictated the armistice terms to the Germans. He was a Marshal of France, a British Field Marshal and a Marshal of Poland.

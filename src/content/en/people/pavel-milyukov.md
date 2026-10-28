@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Moscow (Russian Empire)
 deathPlace: Aix-les-Bains (France)
 source: pawiel-milukow
-sourceHash: e77cf1a2c03958eb3498c13aa1136cbb54cc00ae
+sourceHash: 6587387b2b987ce558e7237d56f1e54455e6a099
 ---
 
 Pavel Nikolayevich Milyukov was the most eminent Russian liberal of his age: a historian, a publicist and for many years the leader of the [Kadets](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna), the Constitutional Democratic Party. During the war he was a champion of fighting on to victory alongside the Allies and of Russian control over Constantinople and the Straits, for which he was nicknamed "Milyukov of the Dardanelles". In 1915 he became the head of the opposition Progressive Bloc in the Duma, and in November 1916 he delivered the "stupidity or treason?" speech, which became one of the harbingers of the fall of tsarism. After the [February Revolution](/rewolucja-lutowa) he became foreign minister, but his promise to honour Russia's wartime commitments provoked the first crisis of the new government, and after two months he had to go. He spent the rest of his life in emigration.

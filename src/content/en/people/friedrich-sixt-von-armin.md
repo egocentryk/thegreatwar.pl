@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Wetzlar (Prussia)
 deathPlace: Magdeburg
 source: friedrich-sixt-von-armin
-sourceHash: 894231dea11a81df49d83ad8f3fae59523dbaa58
+sourceHash: e4386c1e4b1219415ffb62854ad0e23417c77262
 ---
 
 Friedrich Sixt von Armin fought the British for longer than almost any other German general. His IV Corps met them as early as Mons and Le Cateau in August 1914, held them off at Loos in 1915 and on the Somme in 1916. From March 1917 until the end of the war Sixt von Armin commanded the Fourth Army in Flanders, which bore the brunt of the Third Battle of Ypres, the longest and most exhausting offensive of the British Army in this war. In Germany he was called the "Lion of Flanders". Even so, he is today one of the least known German army commanders, in the shadow not only of [Hindenburg](/postacie/paul-von-hindenburg) and [Ludendorff](/postacie/erich-ludendorff), but also of his own chief of staff, Fritz von Loßberg. In texts, British ones included, his name was often wrongly spelt "Sixt von Arnim".

@@ -10,6 +10,11 @@ birthPlace: Londyn (Pimlico)
 deathPlace: Sydney (Lindfield)
 aliases: [Billy Hughes]
 wikiTitles: [Billy_Hughes]
+photo:
+  src: ../../assets/postacie/billy-hughes.jpg
+  credit: National Library of Australia
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Billy_Hughes_1908.jpg
 authors: [Natalia]
 tags: [Australia, Wielka Brytania, Japonia, Brytyjski Korpus Ekspedycyjny]
 sources:

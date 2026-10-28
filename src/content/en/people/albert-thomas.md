@@ -6,7 +6,7 @@ country: France
 birthPlace: Champigny-sur-Marne (France)
 deathPlace: Paris
 source: albert-thomas
-sourceHash: f7e4473030e55de1dcf438f6ac75d560bc27b41b
+sourceHash: 8ad35b554a944126e6d6dacd5ed97904b81c6ab8
 ---
 
 Albert Thomas was the most important socialist in France's wartime governments and the man who turned her industry into a munitions factory. In 1914 the French army was using shells much faster than the country, deprived of the occupied north with its mines and steelworks, could make them. Thomas, a historian and journalist who had never run a business, organised arms production from the autumn of 1914, from May 1915 as under-secretary of state and from December 1916 as France's first minister of armament. He worked with the great industrialists while also looking after the working conditions of hundreds of thousands of men and women workers. He was also one of the fathers of the Entente's economic cooperation and France's envoy to revolutionary Russia. He left the government in September 1917, when his party abandoned the "sacred union". After the war he headed the International Labour Office in Geneva for thirteen years.

@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Ludwigsburg (Württemberg)
 deathPlace: Potsdam-Bornstedt
 source: wilhelm-groener
-sourceHash: 0b3da8c6c167d58416febc078ab1bc798833f8b1
+sourceHash: b8c3289d063af25360829dc1dcc7e35c39844435
 ---
 
 Wilhelm Groener was one of the most able organisers of the Imperial Army and one of the few of its generals who understood that wars are fought not only by armies but by whole societies. In 1914 his railwaymen carried millions of soldiers to the frontiers. In 1916–1917 he directed the entire German war economy, and in 1918 the German occupation of Ukraine. In the last weeks of the war he replaced General Erich Ludendorff, and it was he who on 9 November 1918 told Wilhelm II that the army no longer stood behind him. A day later he made an agreement with Friedrich Ebert under which the army recognised the revolutionary government and the government relied on the army. The monarchists never forgave him for it, and the left still sees the pact as the original sin of the Weimar Republic.

@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Pallanza, now Verbania (Italy)
 deathPlace: Bordighera (Italy)
 source: luigi-cadorna
-sourceHash: b3e05b0f6489c31aa637e028ca58093bf5d7cef1
+sourceHash: e8a338d90aa99001322a020d7341da52436d9ec4
 ---
 
 Luigi Cadorna commanded the Italian army from the first day of the war with Austria-Hungary until the autumn of 1917, and for two and a half years he held power in Italy such as no other commander in the Entente countries had. Formally he was only chief of staff, yet he commanded the army in the king's name, admitting neither the government nor parliament to it. He waged a war of attrition on the Isonzo: eleven offensives in which the Italians lost hundreds of thousands of men to push the front forward by a few or a dozen or so kilometres. In August 1916 he took Gorizia, and in the summer of 1917 he brought Austria-Hungary to the brink of exhaustion, but in the autumn of that year the German-Austrian offensive at Caporetto drove his army back to the Piave. Ruthless towards his soldiers and subordinates and distrustful of politicians, after the war he became for many Italians a symbol of cruelty and incompetence, and for others a stern but devoted commander who built an army capable of victory.

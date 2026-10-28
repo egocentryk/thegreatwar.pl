@@ -10,6 +10,11 @@ birthPlace: Paryż
 deathPlace: Paryż
 aliases: [Paul Painlevé]
 wikiTitles: [Paul_Painlevé]
+photo:
+  src: ../../assets/postacie/paul-painleve.jpg
+  credit: Gallery
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File:Paul_Painlev%C3%A9_Wellcome.jpg
 authors: [Natalia]
 tags: [Francja, Philippe Pétain, Robert Nivelle]
 sources:

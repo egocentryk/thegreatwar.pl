@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Munich (Bavaria)
 deathPlace: Leutstetten near Starnberg
 source: rupprecht-bawarski
-sourceHash: 0bb4ad978b4231d9fb47cc3ea7453f7b0e8c7843
+sourceHash: 9b81da6adc2e6d4f4c72a85b4b2de1bf858b4c05
 ---
 
 Rupprecht, Crown Prince of Bavaria, fought on the Western Front throughout the war, first as commander of the 6th Army and from 1916 as commander of an army group that held the sector facing the British, from the Somme to the sea. It was his troops who bore the battles of Arras, Messines and Passchendaele in 1917, and in the spring of 1918 they led the great offensives against the British. He owed his command to his birth, but unlike other princes in generals' uniforms he proved a competent commander. He kept an extensive diary, today one of the most valuable sources for the history of the war in the west, and earlier than most German generals he understood that Germany would not win this war.

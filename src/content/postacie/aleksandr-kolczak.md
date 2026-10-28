@@ -10,6 +10,11 @@ birthPlace: Petersburg
 deathPlace: Irkuck
 aliases: [Aleksandr Kołczak]
 wikiTitles: [Aleksandr_Kołczak]
+photo:
+  src: ../../assets/postacie/aleksandr-kolczak.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Kolchak.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, Morze Czarne, miny morskie, rewolucja październikowa]
 sources:

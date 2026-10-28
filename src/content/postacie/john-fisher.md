@@ -10,6 +10,11 @@ birthPlace: Ramboda (Cejlon)
 deathPlace: Londyn
 aliases: [John Fisher]
 wikiTitles: [John_Arbuthnot_Fisher]
+photo:
+  src: ../../assets/postacie/john-fisher.jpg
+  credit: Underwood & Underwood
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Adm._John_Fisher.jpg
 authors: [Łukasz Skowroń]
 tags: [John Fisher, Royal Navy, Winston Churchill, Dardanele]
 sources:

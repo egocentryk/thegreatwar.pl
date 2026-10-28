@@ -6,7 +6,7 @@ country: France
 birthPlace: Saint-Affrique (France)
 deathPlace: Montastruc-la-Conseillère (France)
 source: noel-de-castelnau
-sourceHash: 5b1204b36850f4fbda8c950042cfb4166026355f
+sourceHash: cf47950e228e7b69f1d7a9d52def333ce3e90e11
 ---
 
 Noël Édouard de Curières de Castelnau was one of the most important French generals of the first years of the war, and also one of the most controversial. Before 1914 he helped to draw up the French war plan. In August 1914 he was defeated at Morhange, but a few days later he threw back the Germans on the Mortagne, and in September he saved Nancy, for which he was called "the saviour of Nancy". In the autumn he opened the race to the sea, in 1915 he conducted the great offensive in Champagne, and as Joffre's chief of staff he played a key role in the first days of the Battle of Verdun. The war took three of his sons. Although many considered him one of France's ablest generals, he never became commander-in-chief or a marshal. The obstacle was not only his disputes with Joffre and Foch, but also his fervent Catholicism, which aroused distrust in the anticlerical Third Republic.

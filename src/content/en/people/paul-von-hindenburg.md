@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Posen
 deathPlace: Neudeck (now Ogrodzieniec, Poland)
 source: paul-von-hindenburg
-sourceHash: d81a9f8d399dce441807f9432f97b7f5a0fb1d80
+sourceHash: 7d577025e59c6d0b19014c71b79b7937ee7ccc78
 ---
 
 Paul von Hindenburg entered the war as a retired general of whom few outside the army had heard. Within a few days he was the most famous man in Germany. The victory at Tannenberg in August 1914 made him the "saviour of East Prussia" and a living symbol of German strength. Together with his chief of staff Erich Ludendorff he formed the most famous command partnership of the war: Hindenburg supplied calm, authority and a name, Ludendorff energy and plans. From August 1916 the two directed the entire German army, and their influence on politics was so great that contemporaries already spoke of a military dictatorship. Hindenburg came through defeat with his legend intact, and his later role as President of the Reich, who in 1933 appointed Hitler chancellor, cast a shadow over his whole biography.

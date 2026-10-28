@@ -10,6 +10,11 @@ birthPlace: Saloniki (Imperium Osmańskie)
 deathPlace: Stambuł (Turcja)
 aliases: [Mustafa Kemal]
 wikiTitles: [Mustafa_Kemal_Atatürk]
+photo:
+  src: ../../assets/postacie/mustafa-kemal.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg
 authors: [Natalia]
 tags: [Imperium Osmańskie, Dardanele, Kaukaz]
 sources:

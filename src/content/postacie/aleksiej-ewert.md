@@ -10,6 +10,11 @@ birthPlace: Moskwa (Imperium Rosyjskie)
 deathPlace: Możajsk
 aliases: [Aleksiej Ewert]
 wikiTitles: [Aleksiej_Ewert]
+photo:
+  src: ../../assets/postacie/aleksiej-ewert.jpg
+  credit: Фотография ателье Буллы
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Alexey_Evert.jpeg
 authors: [Natalia]
 tags: [Rosja, Królestwo Polskie, Niemcy]
 sources:

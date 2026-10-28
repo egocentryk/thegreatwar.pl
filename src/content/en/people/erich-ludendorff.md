@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Kruszewnia near Poznań
 deathPlace: Munich
 source: erich-ludendorff
-sourceHash: 9e491f43bef97bb62f6c17ecd01cc233ba2326c3
+sourceHash: 05b88dc21c54e1cc98ce77e69b21ddddf2947f53
 ---
 
 Erich Ludendorff was Germany's most powerful soldier in the First World War. He made his name in the first week of the war at Liège, and then, as chief of staff to Paul von Hindenburg, led the German army to victories over the Russians at Tannenberg and at the Masurian Lakes. From August 1916, as First Quartermaster General, he effectively directed the whole German war effort, and increasingly the policy of the Reich as well. He was exceptionally hard-working and a master of staff craft, but he lacked political judgement and restraint. In the spring of 1918 he staked everything on the great offensives in the west, and when he lost, he himself demanded an armistice, only to blame the politicians for the defeat afterwards. After the war he became one of the leaders of the far right and a herald of the stab-in-the-back myth.

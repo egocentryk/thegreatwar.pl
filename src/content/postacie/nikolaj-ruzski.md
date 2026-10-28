@@ -9,6 +9,11 @@ died: 1918-11-01
 deathPlace: Piatigorsk
 aliases: [Nikołaj Ruzski]
 wikiTitles: [Nikołaj_Ruzski]
+photo:
+  src: ../../assets/postacie/nikolaj-ruzski.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Nikolai_Ruzsky.jpg
 authors: [Łukasz Skowroń]
 tags: [Rosja, Królestwo Polskie, rewolucja lutowa, Mikołaj II]
 sources:

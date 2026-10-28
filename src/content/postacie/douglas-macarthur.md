@@ -10,6 +10,11 @@ birthPlace: Little Rock (Arkansas, Stany Zjednoczone)
 deathPlace: Waszyngton
 aliases: [Douglas MacArthur]
 wikiTitles: [Douglas_MacArthur]
+photo:
+  src: ../../assets/postacie/douglas-macarthur.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:MacArthur_Manila_(cropped2).jpg
 authors: [Natalia]
 tags: [Stany Zjednoczone, John Pershing, Francja]
 sources:

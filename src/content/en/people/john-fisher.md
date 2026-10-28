@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Ramboda (Ceylon)
 deathPlace: London
 source: john-fisher
-sourceHash: 46a9089834a47b03e9a5c87efdb7760a901bbc84
+sourceHash: ce79793c125c73e24d3a7d83fd9e6a91ec7364f5
 ---
 
 John Arbuthnot Fisher, from 1909 Lord Fisher of Kilverstone, was the most influential and the most quarrelsome admiral of his age. As First Sea Lord, the professional head of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy), from 1904 to 1910 he rebuilt the fleet for a war with Germany and gave it the battleship Dreadnought, which gave its name to a whole new generation of warships. In October 1914, aged 73, he returned to the Admiralty alongside [Winston Churchill](/postacie/winston-churchill). He quickly avenged the defeat at Coronel and launched an enormous shipbuilding programme, but the Dardanelles expedition wrecked his partnership with Churchill. His sudden departure in May 1915 helped bring down the Liberal government of [H. H. Asquith](/postacie/herbert-henry-asquith) and ended his career.

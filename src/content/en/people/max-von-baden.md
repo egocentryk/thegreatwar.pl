@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Baden-Baden (Grand Duchy of Baden)
 deathPlace: Konstanz (Baden)
 source: max-von-baden
-sourceHash: a857d156b3961f36743b3744d8c81d35943ba0a5
+sourceHash: ce35b562860e2c2c6ed51bd7ddcfa78189247cb9
 ---
 
 Prince Maximilian of Baden, commonly known as Max von Baden, was the last chancellor of the German Empire. He held office for only five weeks, from 3 October to 9 November 1918, but that short time held more turning points than all the earlier years of the war. His government sent the President of the United States a request for an armistice, brought the Social Democrats into power for the first time, carried out reforms that made Germany a parliamentary monarchy, and secured the dismissal of General Erich Ludendorff. On 9 November, when the revolution reached Berlin, the prince announced the Emperor's abdication on his own authority and handed his office to the leader of the Social Democrats. He wanted to save the monarchy and unwittingly opened the way to the republic. An aristocrat and a general without political experience, regarded by some as a noble liberal and by others as a weak and bewildered man, he still divides historians today.

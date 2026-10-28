@@ -6,7 +6,7 @@ country: France
 birthPlace: Carcassonne (France)
 deathPlace: Paris
 source: maurice-sarrail
-sourceHash: 8c541d19d447206be882d51378058a27ac46ef7b
+sourceHash: 5abfaa3d8adf8b3cfa717a30c9618d01ff40db32
 ---
 
 Maurice Sarrail was the most politicised general of the French army in this war. A republican, a Dreyfusard and a freemason, in an officer corps dominated by Catholics and conservatives he was regarded as a man of the left, and twice it was politics that decided his fate. In 1914 he commanded the Third Army at Verdun. In the summer of 1915 Joffre removed him from command, and the left's defence of Sarrail provoked the first great conflict between politicians and the military in France. The government then gave him a new task: an expedition to the East. For more than two years Sarrail commanded at Salonika a multinational army of French, British, Serbs, Italians, Russians and Greeks, took Bitola and played an important part in removing the Greek king from his throne. He did not, however, lead his troops to victory in Macedonia, and by the end of 1917 he had lost the confidence of all the Allies.

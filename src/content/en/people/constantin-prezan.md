@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Sterianul de Mijloc, Butimanu commune (Romania)
 deathPlace: Bucharest
 source: constantin-prezan
-sourceHash: d9c9aa4ab356fefa073ece9641895d7e0099e4b7
+sourceHash: 38d16ab6ac8d1faed566c1ae9afd4a5e12ba7d53
 ---
 
 Constantin Prezan was the most important commander of the Romanian army in the First World War, although he never won the popularity of his rival, General [Alexandru Averescu](/postacie/alexandru-averescu). In 1916 he led the Northern Army in Transylvania and then directed the unsuccessful counter-offensive before Bucharest. From December 1916, as chief of staff of general headquarters, he rebuilt the shattered army, and in the summer of 1917 he co-ordinated the battles in which the Romanians held Moldavia. A calm, taciturn military engineer, close to the King and to Prime Minister Brătianu, he was made Marshal of Romania in 1930.

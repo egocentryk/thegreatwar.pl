@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Buttenhausen (Württemberg)
 deathPlace: Bad Griesbach (Baden)
 source: matthias-erzberger
-sourceHash: 9d41c982e5057bcb8e82f8e170a7115461de9a14
+sourceHash: 2f6f2ed24c69aac4b468680e6e2af14e7c06347d
 ---
 
 Matthias Erzberger was the most energetic, the most influential and the most hated German parliamentarian of the war years. The son of a village tailor from Württemberg and a deputy of the Catholic [Centre Party](https://pl.wikipedia.org/wiki/Niemiecka_Partia_Centrum), in 1914 he drew up programmes of vast annexations, and three years later he was one of the first politicians to say publicly that Germany would not win the war. He was the author of the Reichstag's July peace resolution, helped bring down two chancellors, and on 11 November 1918, as head of the German delegation, signed the armistice in the forest of Compiègne. The right made him the symbol of the "betrayal" that had supposedly robbed Germany of victory. In 1921 he was murdered by nationalist assassins.

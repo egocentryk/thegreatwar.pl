@@ -10,6 +10,11 @@ birthPlace: Hodonín (Morawy)
 deathPlace: Lány (Czechy)
 aliases: [Tomáš Masaryk, Tomáš Garrigue Masaryk]
 wikiTitles: [Tomáš_Masaryk]
+photo:
+  src: ../../assets/postacie/tomas-masaryk.jpg
+  credit: autor nieznany
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG
 authors: [Łukasz Skowroń]
 tags: [Czechosłowacy, Austro-Węgry, Stany Zjednoczone, Woodrow Wilson]
 sources:

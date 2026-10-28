@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Kožlany (Bohemia)
 deathPlace: Sezimovo Ústí (Czechoslovakia)
 source: edvard-benes
-sourceHash: 0bb380274c26f3644cb2a8b181e02dca85143163
+sourceHash: 90c1747e035a69d5aec9df64df8b882860716d50
 ---
 
 Edvard Beneš was the youngest of the three leaders of the Czechoslovak independence movement in exile and the one who did the greatest share of the day-to-day work. When he fled Prague in 1915, he was 31 and a little-known lecturer in sociology. For three years in Paris he ran the office of the [Czechoslovak National Council](https://pl.wikipedia.org/wiki/Czechosłowacka_Rada_Narodowa), wrote articles and memoranda, maintained secret contact with the homeland and negotiated with French and British officials. In the summer of 1918 it was he who won recognition in Paris and London of the Council as the nucleus of a government, and in October he announced the formation of a Czechoslovak provisional government. For the next seventeen years he directed the foreign policy of the state he had helped to create, and later he was its president in its most tragic years.

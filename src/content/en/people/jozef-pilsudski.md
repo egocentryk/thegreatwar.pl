@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Zułów in the Vilna region (Russian Empire)
 deathPlace: Warsaw
 source: jozef-pilsudski
-sourceHash: 5912a7c253fa2675fafa8f1c5d1df1aa107d994f
+sourceHash: d555de7e036727fa95600701ac38c127ccabe672
 ---
 
 Józef Piłsudski entered the Great War as the leader of a handful of Galician riflemen and emerged from it as the head of the reviving Polish state. For years he had foreseen a conflict between the partitioning powers, and he staked his hopes on Austria-Hungary against Russia, which he regarded as the main enemy. On 6 August 1914 his company marched into the Kingdom of Poland, and for the next two years he commanded the First Brigade of the Polish Legions, fighting alongside the Central Powers. When Russia was falling apart and Germany wanted a Polish army without a Polish government, he broke with the Germans and in July 1917 ended up in a German prison. Freed in the days of the revolution in Germany, he returned to Warsaw on 10 November 1918 and within a few days took control of the army and the state. To some he was the creator of independence; to others, especially the National Democrats, he was a man who had backed the wrong horse and only by good luck managed to change mounts in time. The dispute accompanied him to the end of his life and continues to this day.

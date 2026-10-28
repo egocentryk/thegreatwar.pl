@@ -10,6 +10,11 @@ birthPlace: Penzing pod Wiedniem (Austria)
 deathPlace: Bad Mergentheim (Niemcy)
 aliases: [Franz Conrad von Hötzendorf]
 wikiTitles: [Franz_Conrad_von_Hötzendorf]
+photo:
+  src: ../../assets/postacie/franz-conrad-von-hotzendorf.jpg
+  credit: Hermann Torggler
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Franz_Conrad_von_H%C3%B6tzendorf_(Hermann_Torggler,_1915).jpg
 authors: [Łukasz Skowroń]
 tags: [Franz Conrad von Hötzendorf, Austro-Węgry, Galicja, Włochy]
 sources:

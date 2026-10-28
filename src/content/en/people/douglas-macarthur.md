@@ -6,7 +6,7 @@ country: United States
 birthPlace: Little Rock (Arkansas, United States)
 deathPlace: Washington, D.C.
 source: douglas-macarthur
-sourceHash: e28f67a5225a82e3b8c191612b26852e3780c2aa
+sourceHash: b3c94e2e6ac8bc1bfb3d7164698bb1e4c34d18a8
 ---
 
 Douglas MacArthur went down in history as a commander of the Second World War and the Korean War, but he won fame as early as 1918 in France. He was the originator and chief of staff of the 42nd Division, made up of National Guard units from many states and therefore called the "Rainbow". In the summer of 1918, as a 38-year-old brigadier general, he took command of its 84th Infantry Brigade and led it at Saint-Mihiel and in the Meuse–Argonne offensive. He went on raids into the German trenches, wore neither a helmet nor a gas mask, was gassed twice and returned home as one of the most decorated American soldiers of the war. Even then he showed the traits that accompanied him all his life: great courage, talent, theatricality and a tendency to speak of himself only in superlatives.

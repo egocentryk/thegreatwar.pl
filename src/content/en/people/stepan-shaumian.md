@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Tiflis (Georgia)
 deathPlace: Near Krasnovodsk (Transcaspia, now Turkmenistan)
 source: stepan-szaumian
-sourceHash: 4ea5ed101b83822b2636d4cbff25e79d2ec57bdb
+sourceHash: f48a4fd49e10ed57186cea81d6561f915c7e9b60
 ---
 
 Stepan Shaumian was the most important Bolshevik in the Caucasus and one of the few whom [Vladimir Lenin](/postacie/wlodzimierz-lenin) trusted without reservation. An Armenian from Tiflis, educated in Riga and Berlin, a journalist and organiser of the workers of the Baku oilfields, he spent most of the war in prison and in exile. After the revolution Lenin appointed him Extraordinary Commissar for the Caucasus. In the spring of 1918 Shaumian became head of the Bolshevik Baku Commune, which ruled the largest oil centre in the world of its day, while the whole of the South Caucasus was breaking away from Russia and the Turkish army was approaching from the west. His rule began with bloody fighting against the Muslims of Baku and ended three months later, when the city council, against the Bolsheviks' wishes, called in the British for help. In September 1918 Shaumian was shot together with other Baku commissars and became one of the foremost martyrs of the Soviet pantheon. In this war the Bolsheviks took Russia out of the Entente camp, but on the Caspian Sea Shaumian fought to the end against the same enemy as the British, although he refused to cooperate with the British themselves.

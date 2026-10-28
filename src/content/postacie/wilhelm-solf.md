@@ -10,6 +10,11 @@ birthPlace: Berlin
 deathPlace: Berlin
 aliases: [Wilhelm Solf]
 wikiTitles: [Wilhelm_Solf]
+photo:
+  src: ../../assets/postacie/wilhelm-solf.jpg
+  credit: Bundesarchiv, Bild 137-31813
+  license: CC BY-SA 3.0 DE
+  source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_137-31813,_Samoa,_Dr._Wilhelm_Solf.jpg
 authors: [Natalia]
 tags: [Niemcy, kolonie niemieckie, inicjatywy pokojowe, Woodrow Wilson]
 sources:

@@ -10,6 +10,11 @@ birthPlace: Homberg (Hesja)
 deathPlace: Bad Reichenhall
 aliases: [Max Hoffmann]
 wikiTitles: [Max_Hoffmann]
+photo:
+  src: ../../assets/postacie/max-hoffmann.jpg
+  credit: M. Hoffmann
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:GeneralMaxHoffmann.jpg
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Erich Ludendorff, Prusy Wschodnie]
 sources:

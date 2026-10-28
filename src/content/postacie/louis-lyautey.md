@@ -10,6 +10,11 @@ birthPlace: Nancy (Francja)
 deathPlace: Thorey (Francja)
 aliases: [Louis Lyautey, Hubert Lyautey]
 wikiTitles: [Louis_Hubert_Gonzalve_Lyautey]
+photo:
+  src: ../../assets/postacie/louis-lyautey.jpg
+  credit: Leo Wehrli
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:LYAUTEY_PHOTO.jpg
 authors: [Łukasz Skowroń]
 tags: [Francja, Maroko, Robert Nivelle, Aristide Briand]
 sources:

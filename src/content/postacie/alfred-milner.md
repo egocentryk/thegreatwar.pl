@@ -10,6 +10,11 @@ birthPlace: Gießen (Wielkie Księstwo Hesji)
 deathPlace: Sturry Court koło Canterbury
 aliases: [Alfred Milner]
 wikiTitles: [Alfred_Milner]
+photo:
+  src: ../../assets/postacie/alfred-milner.jpg
+  credit: Henry Walter ('H. Walter') Barnett (1862-1934)
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:Lord_Milner_2.jpg
 authors: [Natalia]
 tags: [Wielka Brytania, David Lloyd George, Ferdinand Foch, Związek Południowej Afryki]
 sources:

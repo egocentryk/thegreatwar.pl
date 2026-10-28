@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Tiflis, now Tbilisi (Russian Empire, now Georgia)
 deathPlace: Moscow
 source: aleksiej-brusilow
-sourceHash: 2bd2bbbbb500c6ea1c89ac42ec0c26a824fa787d
+sourceHash: 14af5f5641f9ab7193d88e15bd3ec355db55718c
 ---
 
 General of Cavalry Aleksei Brusilov was the ablest commander of the Russian Army in the First World War and one of the few generals of the war whose name is borne by a great operation. In 1914 he led the 8th Army across Galicia into the Carpathians, in 1915 he withdrew it in good order to Volhynia, and in June 1916 his Southwestern Front broke through the Austro-Hungarian front in an offensive that went down in history as the Brusilov offensive. After the February Revolution he quickly adapted to the new order and in the summer of 1917 was commander-in-chief for less than two months. In 1920, during the war with Poland, he supported the Bolsheviks, which long marked his memory both among the White émigrés and in Poland.

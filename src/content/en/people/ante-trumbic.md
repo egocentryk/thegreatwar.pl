@@ -6,7 +6,7 @@ country: State of Slovenes, Croats and Serbs
 birthPlace: Split (Dalmatia, Austria)
 deathPlace: Zagreb
 source: ante-trumbic
-sourceHash: c54adab8063d93a3d699dd97185b33a93f552827
+sourceHash: 158f54127d4b0eb945956fb7905f3d00890f289b
 ---
 
 Ante Trumbić was the most important spokesman of the South Slavs of the Habsburg Monarchy in the Allied camp. A lawyer and former mayor of Split, an Austrian subject, he went into exile after the outbreak of war and from 1915 presided over the [Yugoslav Committee](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański) in London. For four years he fought on two fronts: against Italy, to which the Allies had promised the eastern coast of the Adriatic, and against the Serbian prime minister [Nikola Pašić](/postacie/nikola-pasic), who wanted unification on Serbian terms. He signed the [Corfu Declaration](/deklaracja-z-korfu) with Pašić, and in November 1918 in Geneva he forced him for a few days to accept an equal partnership. The state that finally came into being, however, was not the one he had worked for.

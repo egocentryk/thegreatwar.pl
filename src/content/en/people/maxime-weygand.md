@@ -6,7 +6,7 @@ country: France
 birthPlace: Brussels (Belgium)
 deathPlace: Paris
 source: maxime-weygand
-sourceHash: 25c61ee8f4239ad350b332c65770496ed70eb4f2
+sourceHash: abe71626180488f383eff4579dbef422ab570ced
 ---
 
 Maxime Weygand spent the whole war at the side of [Ferdinand Foch](/postacie/ferdinand-foch). From the end of August 1914 he was his chief of staff in the Ninth Army, then in the Northern Army Group and in the commands that followed, and in the spring of 1918, when Foch became commander of the Allied armies, he took charge of his staff. For four years he turned his chief's ideas and instructions into clear orders, spoke on his behalf with the British and the Americans, and smoothed over the quarrels that Foch's impetuosity provoked. He himself never once commanded troops in the field. In November 1918 it was he who, in the railway carriage in the Forest of Compiègne, read the armistice terms to the Germans and discussed the details with them. After the war he became one of the most important generals in France, and in 1940 he was given the supreme command in a hopeless situation and came out in favour of an armistice with Germany. That later role has overshadowed, in French memory, the years in which he was the closest collaborator of the victor of 1918.

@@ -6,7 +6,7 @@ country: France
 birthPlace: Paris
 deathPlace: Paris
 source: paul-painleve
-sourceHash: 9409ef57dd7cb6f7d8b9e5923abe1cc882a9c16c
+sourceHash: 8de758bafc777c622bc99c44caa844a72597a412
 ---
 
 Paul Painlevé was one of the most eminent mathematicians of his time and also the politician who, in the hardest year of the war, was responsible for the French army. He became Minister of War in March 1917, on the eve of General Nivelle's offensive, in which he did not believe. When the attack failed and mutinies broke out in the army, he handed command to General Pétain and made General Foch chief of the general staff. From September to November 1917 he was prime minister. His short government closed the period of the "sacred union" with the socialists, and at Rapallo, after the Italian defeat at Caporetto, Painlevé co-founded the Allied Supreme War Council. Brought down by the Chamber amid espionage scandals, he gave way to Clemenceau. To this day he is judged in sharply different ways: as the minister who saved the army from further slaughter, or as a politician too weak for wartime.

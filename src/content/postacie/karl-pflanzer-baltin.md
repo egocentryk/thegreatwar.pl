@@ -10,6 +10,11 @@ birthPlace: Pecz (Węgry)
 deathPlace: Wiedeń
 aliases: [Karl Pflanzer-Baltin, Karl von Pflanzer-Baltin]
 wikiTitles: [Karl_Pflanzer-Baltin]
+photo:
+  src: ../../assets/postacie/karl-pflanzer-baltin.jpg
+  credit: K.u.k. Kriegspressequartier, Lichtbildstelle - Wien
+  license: domena publiczna
+  source: https://commons.wikimedia.org/wiki/File:G.O.Kerl_Freiherr_Pflanzer-Baltin_(BildID_15718255).jpg
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Bukowina, Galicja, Albania]
 sources:

@@ -6,7 +6,7 @@ country: Russia
 birthPlace: St Petersburg
 deathPlace: Irkutsk
 source: aleksandr-kolczak
-sourceHash: f5f53e95d318049328ba68c3aff4c6f55c540bdf
+sourceHash: f08016dcf8eb405f639ad597dec22d256048d3d9
 ---
 
 Admiral Alexander Kolchak was the ablest Russian naval commander of this war and one of the most tragic figures of the Russian Revolution. Before he became a fighting officer, he won fame as an Arctic explorer. In 1914–1916, as a staff officer and commander of the Mine Division of the Baltic Fleet, he was the principal author of Russia's mine war against Germany. From the summer of 1916, as the youngest fleet commander among the belligerent powers, he led the Black Sea Fleet, which bottled up the Turks and Germans in the Bosporus. In June 1917 mutinous sailors took his command from him. After the Bolshevik coup, refusing to accept Russia's withdrawal from the war, he volunteered for service with the British, and in November 1918 in Omsk he became head of White Russia as Supreme Ruler. He was shot by the Bolsheviks.

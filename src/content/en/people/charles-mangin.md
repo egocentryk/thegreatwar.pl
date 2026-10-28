@@ -6,7 +6,7 @@ country: France
 birthPlace: Sarrebourg (Lorraine)
 deathPlace: Paris
 source: charles-mangin
-sourceHash: c9419385d13fbf0a03bd899f24048917e73b53f4
+sourceHash: c3915b32887aa4df0c5ed9d2b3fd9472454450aa
 ---
 
 Charles Mangin was the most offensive-minded and at the same time the most controversial of the French generals of this war. An officer of the colonial infantry who had spent half his life in Africa and Asia, he won fame in October 1916, when his soldiers retook Fort Douaumont at Verdun in a few hours. A few months later, as commander of the 6th Army in General Nivelle's failed offensive, he lost his post and became one of the scapegoats of the defeat. He returned in 1918 to lead the counter-attack on the Matz and the counter-offensive from Villers-Cotterêts that turned the tide of the Second Battle of the Marne. Soldiers and political opponents called him "the butcher", and [Georges Clemenceau](/postacie/georges-clemenceau), according to his secretary's account, said of him that he waged war like a soldier and not like a civil servant, although Clemenceau himself believed that obedience was not for him.

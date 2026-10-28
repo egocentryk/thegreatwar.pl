@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Whittingehame (Scotland)
 deathPlace: Woking (England)
 source: arthur-balfour
-sourceHash: 4070b3068cfb677665565ffe4d5fa3c445b88d7e
+sourceHash: a9673542da8fa7ae2e43a193dde15226d568b385
 ---
 
 Arthur James Balfour was one of the few politicians who influenced British war policy throughout the war, even though he began it as a member of the opposition. A former Conservative Prime Minister, a philosopher and a master of parliamentary debate, in 1914 he joined [Herbert Henry Asquith](/postacie/herbert-henry-asquith)'s War Council, in May 1915 he replaced [Winston Churchill](/postacie/winston-churchill) at the Admiralty, and in December 1916, in [David Lloyd George](/postacie/david-lloyd-george)'s government, he took over the Foreign Office. In that post he passed the Zimmermann telegram to the Americans, went to Washington after the United States entered the war, and signed the declaration on a "national home" for the Jews in Palestine that bears his name to this day.
