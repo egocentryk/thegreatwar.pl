@@ -1230,11 +1230,44 @@ Ported from thesecondwar.pl (`seo.md` §15), with WWI terms.
 
 **Port back to thesecondwar.pl:** the `exclude` field (`utils/glossary.ts`).
 
-**Later:** the writers' notes on figures where sources disagree (rounded
-or left out) and on thin sourcing (Ober Ost, the 1916–18 Kingdom of
-Poland, the Czechoslovak Legion) are in the session's scratch notes;
-Britannica, IWM, PWN and 1914-1918-online refused automated reading, so a
-pass with those sources would strengthen several entries.
+**Later:** Britannica, IWM, PWN and 1914-1918-online refused automated
+reading, so a pass with those sources would strengthen several entries,
+above all those with thin sourcing below.
+
+### Writers' notes (figures rounded or left out, thin sourcing)
+
+#### Group A (14)
+- bajonczycy termEn → "Bayonne men" (as the EN articles).
+- krolestwo-polskie covers Congress Poland (1815–1915) and the 1916–18 Kingdom; zabory covers partitions and the 1914 zones.
+- Disagreements rounded: Kadrówka ~150 (144 vs 145–168); Legions "at their peak over 20,000"; TRS end "end of August"; first Kucharzewski government date left out.
+- Kadrówka main page: austro-wegry-wypowiadaja-wojne-rosji (the Kadrówka article mentions it in one sentence).
+- Thin sourcing: Kingdom 1916–18 (pl.wiki page didn't load); Kadrówka in Kielce, Bayonne banner, Blue Army in the Vosges rest on Wikipedia + our articles; "Kraków annexed by Austria in 1846" from general knowledge only.
+- PWN inactive, 1914-1918-online blocked, Britannica 403 for this writer.
+#### Group E (14)
+- kryzys-lipcowy: also the name of the July Days 1917; excluded on dni-lipcowe-w-piotrogrodzie (new `exclude` field); PL long notes the double name.
+- traktat-brzeski pattern narrowed to skip the peace with Ukraine.
+- rozejm, neutralnosc: general terms (257 / 479 articles), kept.
+- Bolsheviks renamed Russian Communist Party: "March 1918" (7th Congress).
+- Brest annulled 13 XI 1918 (a TVP snippet's 13 IX is wrong).
+#### Group B (14)
+- szturmowcy termEn → "Storm troops"; patternEn widened to "storm troop(s)".
+- stawka pattern: only after a lowercase word or comma ("Stawka" = stake / rate at sentence start).
+- Disagreements: Russian partial mobilisation 28 vs 29 VII (date left out); Hindenburg Line built from IX 1916, broken IX–X 1918; Falkenhayn's "bleed white" intent disputed; Zuber debate on the Schlieffen Plan noted.
+- Britannica, IWM 403; 1914-1918-online anti-AI check (not bypassed).
+#### Group C (14)
+- Patterns fixed: twierdza (verb twierdzić excluded), gaz-bojowy (gazeta excluded), front-wojskowy (only clearly Russian fronts; "Western Front" / "Front zachodni" mean France).
+- drednot covers battleships (pattern matches "pancernik"); korpus, dywizja, grupa-armii without a main page.
+- Rounded: U-boats "more than 370 built", "several thousand ships"; POWs 7–9 million; Cambrai "several hundred tanks" (our article: 476); Flers tank counts 9–32 across sources; Landsturm ages only "up to 45" (Germany).
+- Unconfirmed: whether the Legions formally belonged to the Landsturm (left out).
+#### Group F (14)
+- biezenstwo termEn → "Bezhenstvo" (as the EN articles).
+- Patterns fixed: czeka (verb czekać), duma (Dumba, Dumbarton…), biali (adjective), czerwona-armia (Finnish Red Guard), GG warszawskie (only Warsaw/Lublin; not Belgium), hiszpanka (no "pandemia"), racjonowanie (no "głód"), EN Bezhenstvo (not every refugee).
+- Disagreements worded around: Sovnarkom "night of 8–9 XI 1917"; Petrograd Soviet "March 1917"; flu deaths "dziesiątki milionów" / 25–50 million+; Cheka victims (official just under 13,000, historians tens of thousands to over 100,000); Ober Ost HQ Kovno (pl.wiki: Königsberg); Czechoslovak Legion 40–50 thousand (our figure).
+- Thin sourcing: Ober Ost (histclo weak; rests on Wikipedia + our articles), Czechoslovak Legion (en.wiki, zpe, our articles).
+#### Group D (14)
+- Patterns fixed: samolot-mysliwski (not "myśliwy" = hunter), mina-morska (naval only; not tunnel mines), haubica (not trench mortars).
+- panstwa-centralne also matches "Trójprzymierze" (Italy was a member; the definition explains). blokada, rajder cover wider uses, explained in the long text.
+- Rounded: Vickers range "kilka kilometrów"; Fiedler "na początku XX wieku"; North Sea mine barrage "ponad 70 tysięcy".
 
 ---
 
