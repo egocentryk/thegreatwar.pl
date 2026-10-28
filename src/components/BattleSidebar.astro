@@ -1,9 +1,11 @@
 ---
 // Right-hand column of a battle page on wide screens (lg+): an infobox with
-// the locator map, dates, front, place, the sides with their commanders and
-// the result, then "W skrócie" and the support card. On smaller screens the
-// page keeps its facts table above the text instead, so this column is
-// hidden there.
+// the locator map, dates, front, place, the sides with their commanders'
+// portraits and the result, then "W skrócie" and the support card. On
+// smaller screens the page keeps its facts table above the text instead, so
+// this column is hidden there.
+import { Image } from "astro:assets"
+import type { ImageMetadata } from "astro"
 import BattleLocator from "@/components/BattleLocator.astro"
 import SidebarSupport from "@/components/SidebarSupport.astro"
 import { locale, type Lang } from "@/i18n"
@@ -14,6 +16,7 @@ export interface Commander {
   href?: string
   // Links to the Polish page (no English one yet).
   pl?: boolean
+  photo?: ImageMetadata
 }
 
 interface Props {
@@ -76,9 +79,19 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
                       <li>
                         {c.href ? (
                           <a href={c.href} hreflang={c.pl ? "pl" : undefined} class="group flex items-center gap-2.5">
-                            <span class="border-line bg-surface text-ink-soft font-display flex size-8 shrink-0 items-center justify-center rounded-full border text-xs">
-                              {c.name.charAt(0)}
-                            </span>
+                            {c.photo ? (
+                              <Image
+                                src={c.photo}
+                                alt=""
+                                width={64}
+                                height={64}
+                                class="border-line size-8 shrink-0 rounded-full border object-cover object-top"
+                              />
+                            ) : (
+                              <span class="border-line bg-surface text-ink-soft font-display flex size-8 shrink-0 items-center justify-center rounded-full border text-xs">
+                                {c.name.charAt(0)}
+                              </span>
+                            )}
                             <span class="text-ink group-hover:text-signal text-[13px] leading-snug transition-colors">
                               {c.name}
                               {c.pl && <span class="lang-mark">(PL)</span>}

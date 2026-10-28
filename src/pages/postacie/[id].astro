@@ -1,8 +1,10 @@
 ---
+import { Image } from "astro:assets"
 import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
 import PersonSidebar from "@/components/PersonSidebar.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
@@ -42,6 +44,7 @@ const {
   deathPlace,
   bornYearOnly,
   diedYearOnly,
+  photo,
   authors,
   tags,
 } = person.data
@@ -76,7 +79,7 @@ const mentionedBattles = allBattles
   .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
 const coPeople = found.coPeople.flatMap(({ id, count }) => {
   const other = people.find((p) => p.id === id)
-  return other ? [{ href: `/postacie/${id}`, name: other.data.name, count }] : []
+  return other ? [{ href: `/postacie/${id}`, name: other.data.name, count, photo: other.data.photo?.src }] : []
 })
 // Facts for the sidebar infobox.
 const facts = [
@@ -89,7 +92,12 @@ const facts = [
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
 const jsonLd = [
-  personLd(Astro.site!, { ...person.data, lang: "pl", path: pagePath }),
+  personLd(Astro.site!, {
+    ...person.data,
+    lang: "pl",
+    path: pagePath,
+    image: photo ? `/og/postacie/${person.id}.jpg` : undefined,
+  }),
   breadcrumbLd(Astro.site!, [
     { name: "Strona główna", path: "/" },
     { name: "Postacie", path: "/postacie" },
@@ -104,6 +112,7 @@ import { eventsById, personMentions } from "@/utils/related"
   jsonLd={jsonLd}
   title={`${name} (${lifeYears(person)})`}
   description={summary}
+  image={photo ? `/og/postacie/${person.id}.jpg` : undefined}
   alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
@@ -115,18 +124,34 @@ import { eventsById, personMentions } from "@/utils/related"
         ← Wszystkie postacie
       </a>
 
-      <p
-        class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase"
-      >
-        {country} · {side}
-      </p>
+      <div class="flex items-start justify-between gap-6">
+        <div class="min-w-0">
+          <p
+            class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase"
+          >
+            {country} · {side}
+          </p>
 
-      <h1
-        class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl"
-      >
-        {name}
-      </h1>
-      <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
+          <h1
+            class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl"
+          >
+            {name}
+          </h1>
+          <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
+        </div>
+        {
+          photo && (
+            <Image
+              src={photo.src}
+              alt={name}
+              widths={[112, 160, 224, 320]}
+              sizes="(min-width: 640px) 160px, 112px"
+              loading="eager"
+              class="border-line mt-6 aspect-[3/4] w-28 shrink-0 rounded-sm border object-cover sm:w-40 lg:hidden"
+            />
+          )
+        }
+      </div>
 
       {/* Wide screens: the facts move into the sidebar; authors and tags stay
           here in one line. */}
@@ -212,13 +237,30 @@ import { eventsById, personMentions } from "@/utils/related"
             </>
           )
         }
+        {
+          photo && (
+            <>
+              <dt>Fotografia:</dt>
+              <dd>
+                <a
+                  href={photo.source}
+                  class="text-ink hover:text-signal transition-colors"
+                  rel="noopener"
+                >
+                  {photo.credit}, {photo.license}, Wikimedia Commons
+                </a>
+              </dd>
+            </>
+          )
+        }
       </dl>
 
       <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
         <div class="min-w-0">
-          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton class="lg:hidden" />
             <Content />
+            <PersonPreviews body={person.body ?? ""} lang="pl" />
           </div>
 
           <Sources sources={person.data.sources} />
@@ -229,6 +271,8 @@ import { eventsById, personMentions } from "@/utils/related"
         </div>
 
         <PersonSidebar
+          name={name}
+          photo={photo}
           facts={facts}
           battles={commanded.map((battle) => ({
             href: `/bitwy/${battle.id}`,

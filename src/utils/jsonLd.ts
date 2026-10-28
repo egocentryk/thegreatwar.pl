@@ -200,6 +200,7 @@ export function personLd(
     birthPlace?: string
     deathPlace?: string
     wikiTitles: string[]
+    image?: string
   },
 ): JsonLdNode {
   const url = abs(site, p.path)
@@ -223,6 +224,7 @@ export function personLd(
     ...(p.deathPlace ? { deathPlace: { "@type": "Place", name: p.deathPlace } } : {}),
     url,
     mainEntityOfPage: url,
+    ...(p.image ? { image: abs(site, p.image) } : {}),
     ...(wiki.length ? { sameAs: wiki } : {}),
   }
 }

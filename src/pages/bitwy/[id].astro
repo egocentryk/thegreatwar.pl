@@ -4,6 +4,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import BattleSidebar from "@/components/BattleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
 import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
@@ -60,12 +61,12 @@ const relatedEntries = await getCollection(
 const relatedByYear = groupTimelineEntries(relatedEntries)
 // Commanders with a person page become links.
 const people = await getPeople()
-// The same, for the sidebar infobox.
+// The same, with portraits, for the sidebar infobox.
 const infoSides = sides.map((side) => ({
   name: side.name,
   commanders: side.commanders.map((name) => {
     const person = personByName(people, name)
-    return { name, href: person && `/postacie/${person.id}` }
+    return { name, href: person && `/postacie/${person.id}`, photo: person?.data.photo?.src }
   }),
 }))
 
@@ -260,9 +261,10 @@ const ogArticle = {
             <InBrief points={battle.data.brief} />
           </div>
 
-          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton class="lg:hidden" />
             <Content />
+            <PersonPreviews body={battle.body ?? ""} lang="pl" />
           </div>
 
           <Sources sources={battle.data.sources} />

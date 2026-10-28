@@ -1,8 +1,10 @@
 ---
 // English person page: /en/people/<english-slug>.
+import { Image } from "astro:assets"
 import { getCollection, getEntry, render } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
 import PersonSidebar from "@/components/PersonSidebar.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
@@ -23,7 +25,7 @@ export async function getStaticPaths() {
 const { person } = Astro.props
 const source = (await getEntry(person.data.source))!
 const { name, summary, role, country, birthPlace, deathPlace } = person.data
-const { born, died, bornYearOnly, diedYearOnly, side, authors } = source.data
+const { born, died, bornYearOnly, diedYearOnly, side, photo, authors } = source.data
 await render(person)
 const html = await rewriteEnHtml(person.rendered?.html ?? "")
 const fmt = (d: Date) => formatDate(d, "long", undefined, "en-GB")
@@ -68,7 +70,7 @@ const coPeople = await Promise.all(
       (async () => {
         const href = await enUrlFor("people", id)
         const en = href ? await getEntry("peopleEn", href.split("/").pop()!) : undefined
-        return { href: href ?? plPath.people(id), name: en?.data.name ?? other.data.name, pl: !en, count }
+        return { href: href ?? plPath.people(id), name: en?.data.name ?? other.data.name, pl: !en, count, photo: other.data.photo?.src }
       })(),
     ]
   }),
@@ -95,6 +97,7 @@ const jsonLd = [
     deathPlace,
     lang: "en",
     path: pagePath,
+    image: photo ? `/og/postacie/${source.id}.jpg` : undefined,
   }),
   breadcrumbLd(Astro.site!, [
     { name: "Home", path: "/en" },
@@ -111,6 +114,7 @@ import { eventsById, personMentions } from "@/utils/related"
   jsonLd={jsonLd}
   title={`${name} (${lifeYears(source)})`}
   description={summary}
+  image={photo ? `/og/postacie/${source.id}.jpg` : undefined}
   lang="en"
   alternates={{ pl: plPath.people(source.id) }}
 >
@@ -120,11 +124,27 @@ import { eventsById, personMentions } from "@/utils/related"
         ← All people
       </a>
 
-      <p class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase">
-        {country} · {sideEn(side)}
-      </p>
-      <h1 class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl">{name}</h1>
-      <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
+      <div class="flex items-start justify-between gap-6">
+        <div class="min-w-0">
+          <p class="text-signal mt-6 -mb-3 font-mono text-[10px] tracking-[0.2em] uppercase">
+            {country} · {sideEn(side)}
+          </p>
+          <h1 class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl">{name}</h1>
+          <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
+        </div>
+        {
+          photo && (
+            <Image
+              src={photo.src}
+              alt={name}
+              widths={[112, 160, 224, 320]}
+              sizes="(min-width: 640px) 160px, 112px"
+              loading="eager"
+              class="border-line mt-6 aspect-[3/4] w-28 shrink-0 rounded-sm border object-cover sm:w-40 lg:hidden"
+            />
+          )
+        }
+      </div>
 
       {/* Wide screens: the facts move into the sidebar; the authors stay here. */}
       <dl class="border-line text-ink-soft mt-6 hidden flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs lg:flex">
@@ -141,13 +161,26 @@ import { eventsById, personMentions } from "@/utils/related"
         <dd class="text-ink">{diedYearOnly ? died.getUTCFullYear() : fmt(died)}{deathPlace && `, ${deathPlace}`}</dd>
         <dt>{authors.length > 1 ? "Authors:" : "Author:"}</dt>
         <dd class="text-ink">{authors.join(", ")}</dd>
+        {
+          photo && (
+            <>
+              <dt>Photo:</dt>
+              <dd>
+                <a href={photo.source} class="text-ink hover:text-signal transition-colors" rel="noopener">
+                  {photo.credit}, {photo.license}, Wikimedia Commons
+                </a>
+              </dd>
+            </>
+          )
+        }
       </dl>
 
       <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
         <div class="min-w-0">
-          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton lang="en" class="lg:hidden" />
             <Fragment set:html={html} />
+            <PersonPreviews body={person.body ?? ""} lang="en" />
           </div>
 
           <Sources sources={source.data.sources} lang="en" />
@@ -159,6 +192,8 @@ import { eventsById, personMentions } from "@/utils/related"
 
         <PersonSidebar
           lang="en"
+          name={name}
+          photo={photo}
           facts={facts}
           battles={commanded.map((c) => ({
             href: c.href,

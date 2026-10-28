@@ -4,6 +4,7 @@ import { getCollection, getEntry, render } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import BattleSidebar from "@/components/BattleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
 import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
@@ -47,7 +48,7 @@ const commanderLinks = await Promise.all(
         const person = personByName(people, plName)
         if (!person) return { name, href: undefined, pl: false }
         const en = await enUrlFor("people", person.id)
-        return { name, href: en ?? plPath.people(person.id), pl: !en }
+        return { name, href: en ?? plPath.people(person.id), pl: !en, photo: person.data.photo?.src }
       }),
     ),
   ),
@@ -181,9 +182,10 @@ const ogArticle = {
             <InBrief points={battle.data.brief} lang="en" />
           </div>
 
-          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton lang="en" class="lg:hidden" />
             <Fragment set:html={html} />
+            <PersonPreviews body={battle.body ?? ""} lang="en" />
           </div>
 
           <Sources sources={source.data.sources} lang="en" />

@@ -107,30 +107,42 @@ const people = defineCollection({
     pattern: "**/*.md",
     generateId: idFromFilename,
   }),
-  schema: z.object({
-    name: z.string(),
-    summary: z.string().max(160),
-    // Role during the war, one line: "Naczelny wódz armii francuskiej (1914–1916)".
-    role: z.string(),
-    country: z.string(),
-    side: z.enum(["Ententa", "Państwa centralne", "Sprawa polska"]),
-    born: z.coerce.date(),
-    died: z.coerce.date(),
-    // Only the year is reliably known: pages show "1863", not a made-up day.
-    bornYearOnly: z.boolean().default(false),
-    diedYearOnly: z.boolean().default(false),
-    birthPlace: z.string().optional(),
-    deathPlace: z.string().optional(),
-    // Forms used in battle `commanders` lists, so battles can link here.
-    aliases: z.array(z.string()).default([]),
-    // pl.wikipedia titles (with underscores) whose links this page replaces.
-    wikiTitles: z.array(z.string()).default([]),
-    authors: z.array(z.string()).min(1),
-    tags: z.array(z.string()).default([]),
-    // Pages the article was researched from, shown as "Źródła" / "Sources".
-    sources: z.array(z.url()).default([]),
-    draft: z.boolean().default(false),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      name: z.string(),
+      summary: z.string().max(160),
+      // Role during the war, one line: "Naczelny wódz armii francuskiej (1914–1916)".
+      role: z.string(),
+      country: z.string(),
+      side: z.enum(["Ententa", "Państwa centralne", "Sprawa polska"]),
+      born: z.coerce.date(),
+      died: z.coerce.date(),
+      // Only the year is reliably known: pages show "1863", not a made-up day.
+      bornYearOnly: z.boolean().default(false),
+      diedYearOnly: z.boolean().default(false),
+      birthPlace: z.string().optional(),
+      deathPlace: z.string().optional(),
+      // Forms used in battle `commanders` lists, so battles can link here.
+      aliases: z.array(z.string()).default([]),
+      // pl.wikipedia titles (with underscores) whose links this page replaces.
+      wikiTitles: z.array(z.string()).default([]),
+      // Black-and-white portrait from Wikimedia Commons, written by
+      // scripts/person-photos.mjs; the same script writes the social card
+      // to public/og/postacie/<id>.jpg.
+      photo: z
+        .object({
+          src: image(),
+          credit: z.string(),
+          license: z.string(),
+          source: z.url(),
+        })
+        .optional(),
+      authors: z.array(z.string()).min(1),
+      tags: z.array(z.string()).default([]),
+      // Pages the article was researched from, shown as "Źródła" / "Sources".
+      sources: z.array(z.url()).default([]),
+      draft: z.boolean().default(false),
+    }),
 })
 
 // ─── English translations ────────────────────────────────────────────

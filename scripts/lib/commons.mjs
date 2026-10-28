@@ -19,6 +19,10 @@ export function cleanAuthor(raw = "") {
   a = a.replace(/\s*\((Photo identification number[^)]*)\)/i, "")
   a = a.replace(/\s+-\s+Author wrote the Story.*$/i, "") // a book's author noting he didn't take the photos
   if (/^This work was published on territory of/i.test(a)) return UNKNOWN // a copyright notice, not a name
+  a = a.replace(/\s*\((?:image )?originally uploaded[^)]*\)?.*$/i, "").replace(/\s*\(Original uploader was[^)]*\)/i, "") // uploader notes
+  if (/^(unknown \/ inconnu|unknown\/not specified|photographer not credited|unknown, presumably official|original uploader was|image loaded from|author of the images is not credited|it is government property)/i.test(a)) return UNKNOWN
+  a = a.replace(/^Unknown[,.]?\s*\((.+)\)$/i, "$1").replace(/^Unknown, (.+)$/i, "$1") // "Unknown (Bain News Service, publisher)"
+  a = a.replace(/^(.+?), publisher$/i, "$1")
   a = a.replace(/^(.{4,})\1$/, "$1") // "UnknownUnknown" (the whole field twice)
   a = a.replace(/^(anonymous|unknown|nieznany|unknown-anonymous|\(unknown\)|unknown (author|photographer)|unknown \/ not disclosed|не указан)\s*(autor nieznany \/ unknown author)?\.?$/i, UNKNOWN)
   if (/^the original uploader was /i.test(a)) return UNKNOWN // the uploader, not the author

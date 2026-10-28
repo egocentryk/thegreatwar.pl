@@ -1133,6 +1133,54 @@ Story…" and "This work was published on territory of…" notices).
 
 ---
 
+## 16. Portraits of people and hover previews (2026-10-28)
+
+Ported from thesecondwar.pl (`seo.md` §13, commits "black-and-white
+portraits", "portraits and social cards for all person pages", "hover
+previews of people").
+
+- 240 of 242 person pages have a portrait: the main image of the person's
+  own pl.wikipedia page (else en.wikipedia), only when it is on Commons
+  under a free licence (222 public domain, the rest CC BY-SA / CC BY / CC0 /
+  "no restrictions"). `scripts/person-photos.mjs` makes a 600×800
+  black-and-white crop (`src/assets/postacie/<slug>.jpg`), a 1200×630 social
+  card (`public/og/postacie/<slug>.jpg`, the page's `og:image` and the
+  Person JSON-LD `image` in both languages) and writes the `photo:` block
+  (credit, licence, Commons page). The chosen files are listed in
+  `src/data/person-photos.json`.
+- Shown on the person page (beside the title below lg, at the top of the
+  sidebar on wide screens, with the credit), in the people index, in the
+  event sidebar ("Postacie w tekście"), the battle infobox (commanders) and
+  the person sidebar ("Najczęściej obok").
+- Hover previews (`PersonPreviews.astro`): a person link in the text of an
+  article, battle or person page shows a card with the portrait, years and
+  role; on touch screens the first tap opens it. Each page carries only the
+  people it links. The text blocks carry `data-glossary-scope`, the
+  attribute thesecondwar.pl's previews (and glossary) look for.
+- No portrait: Fritz von Below and Alexander von Linsingen (their only
+  Commons images are under 200 px wide). Four small ones (252–297 px) are
+  used: Hutier, Liman von Sanders, Lambros, Wynnyczenko. Roger Casement's
+  ("No restrictions", Flickr Commons) and Charles Lanrezac's (GIF, en.wiki
+  only) were added by hand.
+- Option a (the pl.wikipedia image) everywhere; 122 people also have an
+  option b from en.wikipedia. The review gallery
+  (`dist/_review/people`, built by the review script) shows both.
+- Credits: Bundesarchiv files (CC BY-SA 3.0 DE) are credited "Bundesarchiv,
+  Bild <number>" with the photographer when known, as their licence asks;
+  the same for the 7 Bundesarchiv article images (§15).
+
+**Port back to thesecondwar.pl:** new rules in `scripts/lib/commons.mjs`
+`cleanAuthor` (uploader notes, "Unknown (X)" → X, ", publisher", and
+"Unknown / Inconnu", "Photographer not credited" and similar → unknown
+author); the Bundesarchiv credit format (check its article images and
+portraits).
+
+**Later:** option b for anyone whose portrait is from long after the war
+(e.g. a 1930s photo), and a portrait for von Below and Linsingen from
+another archive.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1197,6 +1245,8 @@ finished, tick it here and add its section above.
 - [x] Images from Wikimedia Commons, with captions and credits: 311 pages (§15)
   - [ ] The 230 milestones and battles still without an image; repeated and
     doubtful picks (§15)
+- [x] Portraits for 240 of 242 people, with social cards, and hover previews of
+  people in the text (§16)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

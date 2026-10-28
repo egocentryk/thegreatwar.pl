@@ -1,9 +1,11 @@
 ---
 // Right-hand column of an event article on wide screens (lg+): the date with
-// the neighbouring events, "W skrócie", the people linked in the text, the
-// battle with its locator map, and a support card that stays in view while
-// the text scrolls. On smaller screens the page shows "W skrócie" and the
-// support card below the text instead, so this column is hidden there.
+// the neighbouring events, "W skrócie", the people linked in the text with
+// their portraits, the battle with its locator map, and a support card that
+// stays in view while the text scrolls. On smaller screens the page shows
+// "W skrócie" and the support card below the text instead, so this column is
+// hidden there.
+import { Image } from "astro:assets"
 import BattleLocator from "@/components/BattleLocator.astro"
 import SidebarSupport from "@/components/SidebarSupport.astro"
 import { locale, type Lang } from "@/i18n"
@@ -46,7 +48,9 @@ const linked = [...new Set([...body.matchAll(/\]\(\/postacie\/([a-z0-9-]+)\)/g)]
 const peopleById = new Map((await localPeople(lang)).map((p) => [p.id, p]))
 const people = linked.flatMap((id) => {
   const person = peopleById.get(id)
-  return person ? [{ href: person.href, name: person.data.name, years: lifeYears(person.source) }] : []
+  return person
+    ? [{ href: person.href, name: person.data.name, years: lifeYears(person.source), photo: person.source.data.photo?.src }]
+    : []
 })
 const PEOPLE_SHOWN = 6
 
@@ -124,9 +128,19 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
           {people.slice(0, PEOPLE_SHOWN).map((person) => (
             <li>
               <a href={person.href} class="group flex items-center gap-3">
-                <span class="border-line bg-surface text-ink-soft font-display flex size-10 shrink-0 items-center justify-center rounded-full border text-sm">
-                  {person.name.charAt(0)}
-                </span>
+                {person.photo ? (
+                  <Image
+                    src={person.photo}
+                    alt=""
+                    width={80}
+                    height={80}
+                    class="border-line size-10 shrink-0 rounded-full border object-cover object-top"
+                  />
+                ) : (
+                  <span class="border-line bg-surface text-ink-soft font-display flex size-10 shrink-0 items-center justify-center rounded-full border text-sm">
+                    {person.name.charAt(0)}
+                  </span>
+                )}
                 <span class="min-w-0">
                   <span class="text-ink group-hover:text-signal block truncate text-sm leading-snug transition-colors">
                     {person.name}

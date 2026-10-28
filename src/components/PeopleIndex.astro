@@ -1,5 +1,7 @@
 ---
-// People grouped by side and country. Used by /postacie and /en/people.
+// People grouped by side and country, with their portraits. Used by
+// /postacie and /en/people.
+import { Image } from "astro:assets"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { locale, sideEn, type Lang } from "@/i18n"
 import { localPeople } from "@/i18n/local"
@@ -74,18 +76,29 @@ const t = {
                     <li>
                       <a
                         href={person.href}
-                        class="group border-line bg-surface hover:border-signal flex h-full flex-col rounded-sm border p-5 transition-all hover:-translate-y-0.5"
+                        class="group border-line bg-surface hover:border-signal flex h-full gap-4 rounded-sm border p-5 transition-all hover:-translate-y-0.5"
                       >
-                        <span class="flex items-baseline justify-between gap-3">
-                          <span class="font-display text-ink group-hover:text-signal text-lg leading-snug transition-colors">
-                            {person.data.name}
+                        {person.source.data.photo && (
+                          <Image
+                            src={person.source.data.photo.src}
+                            alt=""
+                            widths={[56, 112]}
+                            sizes="56px"
+                            class="border-line aspect-[3/4] w-12 shrink-0 self-start rounded-xs border object-cover sm:w-14"
+                          />
+                        )}
+                        <span class="flex min-w-0 flex-1 flex-col">
+                          <span class="flex items-baseline justify-between gap-3">
+                            <span class="font-display text-ink group-hover:text-signal text-lg leading-snug transition-colors">
+                              {person.data.name}
+                            </span>
+                            <span class="text-ink-soft shrink-0 font-mono text-[11px]">
+                              {lifeYears(person.source)}
+                            </span>
                           </span>
-                          <span class="text-ink-soft shrink-0 font-mono text-[11px]">
-                            {lifeYears(person.source)}
+                          <span class="text-ink-soft mt-2 text-sm leading-6">
+                            {person.data.role}
                           </span>
-                        </span>
-                        <span class="text-ink-soft mt-2 text-sm leading-6">
-                          {person.data.role}
                         </span>
                       </a>
                     </li>

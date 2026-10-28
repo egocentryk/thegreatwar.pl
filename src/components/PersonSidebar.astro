@@ -1,29 +1,36 @@
 ---
-// Right-hand column of a person page on wide screens (lg+): the facts, the
-// battles the person commanded, the people who appear beside them most, and
-// the support card. On smaller screens the page keeps the facts above the
-// text and the lists below it, so this column is hidden there.
+// Right-hand column of a person page on wide screens (lg+): the portrait with
+// its credit, the facts, the battles the person commanded, the people who
+// appear beside them most, and the support card. On smaller screens the page
+// keeps the portrait and facts above the text and the lists below it, so this
+// column is hidden there.
+import { Image } from "astro:assets"
+import type { ImageMetadata } from "astro"
 import SidebarSupport from "@/components/SidebarSupport.astro"
 import type { Lang } from "@/i18n"
 
 interface Props {
   lang?: Lang
+  name: string
+  photo?: { src: ImageMetadata; credit: string; license: string; source: string }
   facts: { label: string; value: string }[]
   battles: { href: string; title: string; when: string; pl?: boolean }[]
-  coPeople: { href: string; name: string; count: number; pl?: boolean }[]
+  coPeople: { href: string; name: string; count: number; photo?: ImageMetadata; pl?: boolean }[]
 }
 
-const { lang = "pl", facts, battles, coPeople } = Astro.props
+const { lang = "pl", name, photo, facts, battles, coPeople } = Astro.props
 const SHOWN = 6
 
 const t = {
   pl: {
+    photo: "Fot.",
     battles: "Dowodził w bitwach",
     co: "Najczęściej obok",
     all: (n: number) => `wszystkie (${n}) ↓`,
     anchor: "#dowodzil",
   },
   en: {
+    photo: "Photo:",
     battles: "Commanded in battles",
     co: "Most often alongside",
     all: (n: number) => `all (${n}) ↓`,
@@ -35,16 +42,38 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
 ---
 
 <aside class="hidden space-y-8 pt-10 lg:block print:hidden">
-  <dl class="border-line divide-line divide-y overflow-hidden rounded-sm border text-sm">
+  <div class="border-line overflow-hidden rounded-sm border">
     {
-      facts.map((fact) => (
-        <div class="px-4 py-3">
-          <dt class={label}>{fact.label}</dt>
-          <dd class="text-ink mt-1 text-[13px] leading-5">{fact.value}</dd>
-        </div>
-      ))
+      photo && (
+        <figure class="border-line border-b">
+          <Image
+            src={photo.src}
+            alt={name}
+            widths={[320, 480, 640]}
+            sizes="380px"
+            loading="eager"
+            class="aspect-[3/4] w-full object-cover"
+          />
+          <figcaption class="text-ink-soft px-4 py-2 font-mono text-[10px] leading-4">
+            {t.photo}{" "}
+            <a href={photo.source} rel="noopener" class="hover:text-signal transition-colors">
+              {photo.credit}, {photo.license}, Wikimedia Commons
+            </a>
+          </figcaption>
+        </figure>
+      )
     }
-  </dl>
+    <dl class="divide-line divide-y text-sm">
+      {
+        facts.map((fact) => (
+          <div class="px-4 py-3">
+            <dt class={label}>{fact.label}</dt>
+            <dd class="text-ink mt-1 text-[13px] leading-5">{fact.value}</dd>
+          </div>
+        ))
+      }
+    </dl>
+  </div>
 
   {
     battles.length > 0 && (
@@ -80,9 +109,19 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
           {coPeople.slice(0, SHOWN).map((other) => (
             <li>
               <a href={other.href} hreflang={other.pl ? "pl" : undefined} class="group flex items-center gap-3">
-                <span class="border-line bg-surface text-ink-soft font-display flex size-10 shrink-0 items-center justify-center rounded-full border text-sm">
-                  {other.name.charAt(0)}
-                </span>
+                {other.photo ? (
+                  <Image
+                    src={other.photo}
+                    alt=""
+                    width={80}
+                    height={80}
+                    class="border-line size-10 shrink-0 rounded-full border object-cover object-top"
+                  />
+                ) : (
+                  <span class="border-line bg-surface text-ink-soft font-display flex size-10 shrink-0 items-center justify-center rounded-full border text-sm">
+                    {other.name.charAt(0)}
+                  </span>
+                )}
                 <span class="min-w-0 flex-1">
                   <span class="text-ink group-hover:text-signal block truncate text-sm leading-snug transition-colors">
                     {other.name}
