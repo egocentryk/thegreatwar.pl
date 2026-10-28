@@ -1043,6 +1043,44 @@ sidebar on the right.
 
 ---
 
+## 14. One width for every page; multi-column homepage (2026-10-28)
+
+Ported from thesecondwar.pl (commits "wider multi-column homepage, one width
+for every page" and "more ways to buy us a coffee").
+
+- Every page container is `max-w-6xl`, like the header and footer: list
+  pages (timeline, year and month pages, battles, people, tags, categories,
+  fronts, authors, search), about and 404. Article text keeps its reading
+  width. The battle map and battle timeline stay at `max-w-5xl`, as on
+  thesecondwar.pl.
+- Homepage (`Home.astro`), about half the length:
+  - hero in two columns: headline and buttons; the counts and the blue
+    support card (`SupportCard` variant `home`, `stacked`);
+  - search below the hero (`Search` `bare`);
+  - "Tego dnia" in three columns;
+  - war years as five cards in one row (`WarYears`), keeping this site's
+    highlighted events per year;
+  - "Od czego zacząć" as dark covers, four per row. thesecondwar.pl puts
+    the article's photo on each; this site has no photos yet, so they are
+    typographic. Below lg they grow with their text (`min-h-64`) instead of
+    a fixed 3:4, so long titles are not cut off on phones;
+  - fronts as a fronts × years heatmap (1914–1918);
+  - the Polish thread beside the random battles (thesecondwar.pl puts
+    family history and series there, which this site does not have), then
+    the chronicle pages;
+  - a last row with "Wesprzyj kronikę" (`SupportBand.astro`), about and
+    contact.
+- `PeopleIndex`: the countries of each side flow into two or three columns,
+  so countries with one or two people no longer leave half a row empty.
+- Section components (`OnThisDay`, `WarYears`, `TurningPoints`,
+  `ReadingPath`, `Fronts`, `PolishThread`, `RandomEvents`, `RandomBattles`)
+  no longer set their own container; the homepage does.
+
+**Port back to thesecondwar.pl:** the `min-h-64` covers below lg (its long
+titles are cut off on phones too, when an article has no photo).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1103,6 +1141,7 @@ finished, tick it here and add its section above.
 - [x] Event pages: sidebar (date, "W skrócie", people, battle, a support
   card that stays in view); coffee button in the header (§13)
 - [x] Battle and person pages: sidebars like the event pages (§13)
+- [x] One width for every page; multi-column homepage with a support band (§14)
 - [ ] Public-domain images from Wikimedia Commons, with captions and credits.
 
 ### 5. Template leftovers and code health

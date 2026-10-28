@@ -40,7 +40,7 @@ const fronts = [...new Set(phases.map((phase) => phase.front))].map(
 const eyebrow = lang === "en" ? "Battles" : "Bitwy"
 ---
 
-<section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+<section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
   <SectionHeading eyebrow={eyebrow} count={byStartDate.length} level={1} />
   <a
     href={lang === "en" ? "/en/battles/timeline" : "/bitwy/os-czasu"}

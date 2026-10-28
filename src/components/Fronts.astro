@@ -5,8 +5,6 @@ import { frontEn, plural, type Lang } from "@/i18n"
 import { FRONT_NOTES_EN } from "@/i18n/data-en"
 import { localBattles, localEvents, paths } from "@/i18n/local"
 
-const YEARS = [1914, 1915, 1916, 1917, 1918]
-
 interface Props {
   lang?: Lang
 }
@@ -16,12 +14,16 @@ const to = paths(lang)
 const entries = await localEvents(lang)
 const battles = await localBattles(lang)
 
+// One column per war year.
+const COLUMNS = [1914, 1915, 1916, 1917, 1918].map((year) => ({
+  label: String(year),
+  test: (y: number) => y === year,
+}))
+
 const fronts = Object.entries(FRONT_NOTES).map(([front, note]) => {
   const frontEntries = entries.filter((entry) => entry.data.frontKey === front)
-  const perYear = YEARS.map(
-    (year) =>
-      frontEntries.filter((entry) => entry.data.date.getUTCFullYear() === year)
-        .length,
+  const perColumn = COLUMNS.map(
+    (column) => frontEntries.filter((entry) => column.test(entry.data.date.getUTCFullYear())).length,
   )
   return {
     front: lang === "en" ? frontEn(front) : front,
@@ -30,93 +32,117 @@ const fronts = Object.entries(FRONT_NOTES).map(([front, note]) => {
     anchor: to.frontAnchor(front),
     eventCount: frontEntries.length,
     battleCount: battles.filter((battle) => battle.data.frontKey === front).length,
-    perYear,
+    perColumn,
   }
   // The English page lists only fronts with something translated.
 }).filter((front) => lang === "pl" || front.eventCount > 0)
-// One scale for every card, so the theatres compare at a glance; the bars
-// use its square root so small theatres still show their shape.
-const busiestYear = Math.max(...fronts.flatMap((front) => front.perYear))
+// One scale for the whole table; the square root keeps quiet years visible.
+const busiest = Math.max(...fronts.flatMap((front) => front.perColumn))
+const shade = (count: number) => (count ? Math.round(12 + Math.sqrt(count / busiest) * 88) : 0)
 
 const t = {
   pl: {
     eyebrow: "Fronty",
     lead: "Wojna na wszystkich kontynentach i morzach.",
-    perYear: "Wydarzenia w kolejnych latach",
+    front: "Front",
+    events: "Wydarzenia",
+    battles: "Bitwy",
+    less: "mniej",
+    more: "więcej",
+    cell: (front: string, year: string, n: number) => `${front}, ${year}: ${n} ${plural("pl", n, ["wydarzenie", "wydarzenia", "wydarzeń"], ["", ""])}`,
   },
   en: {
     eyebrow: "Fronts",
     lead: "War on every continent and ocean.",
-    perYear: "Events in each year",
+    front: "Front",
+    events: "Events",
+    battles: "Battles",
+    less: "fewer",
+    more: "more",
+    cell: (front: string, year: string, n: number) => `${front}, ${year}: ${n} ${plural("en", n, ["", "", ""], ["event", "events"])}`,
   },
 }[lang]
 ---
 
-<section id="fronty" class="mx-auto max-w-3xl px-6 pb-20">
+<section id="fronty">
   <SectionHeading eyebrow={t.eyebrow} count={fronts.length} />
 
-  <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
-    {t.lead}
-  </p>
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">
+      {t.lead}
+    </p>
+    <p class="text-ink-soft flex items-center gap-1.5 font-mono text-[10px]" aria-hidden="true">
+      {t.less}
+      {[0.15, 0.35, 0.6, 1].map((level) => (
+        <span class="size-3 rounded-[2px]" style={`background: color-mix(in oklab, var(--signal) ${Math.round(level * 100)}%, transparent)`} />
+      ))}
+      {t.more}
+    </p>
+  </div>
 
-  <ul class="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2">
-    {
-      fronts.map((front) => (
-        <li class="group border-line bg-surface hover:border-signal flex flex-col rounded-sm border p-5 transition-colors">
-          <div class="flex items-start justify-between gap-4">
-            <h3 class="font-display text-ink group-hover:text-signal text-xl leading-snug transition-colors">
-              <a href={front.href}>{front.front}</a>
-            </h3>
-            <span class="font-display text-ink text-3xl leading-none font-medium tabular-nums">
-              {front.eventCount}
-            </span>
-          </div>
-          <p class="text-ink-soft mt-2 text-sm leading-6">{front.note}</p>
-
-          <div class="mt-auto pt-5">
-            <div
-              class="flex h-10 items-end gap-1.5"
-              aria-label={`${t.perYear}: ${front.perYear.join(", ")}`}
-            >
-              {front.perYear.map((count, index) => (
-                <span
-                  class="bg-ink/25 group-hover:bg-signal/60 block flex-1 rounded-t-[2px] transition-colors"
-                  style={`height: ${count ? Math.max(6, Math.round(Math.sqrt(count / busiestYear) * 100)) : 0}%`}
-                  title={`${YEARS[index]}: ${count}`}
-                />
-              ))}
-            </div>
-            <div
-              class="text-ink-soft border-line mt-1 flex gap-1.5 border-t pt-1 font-mono text-[9px]"
-              aria-hidden="true"
-            >
-              {YEARS.map((year) => (
-                <span class="flex-1 text-center">'{String(year).slice(2)}</span>
-              ))}
-            </div>
-
-            <div class="mt-4 flex flex-wrap gap-x-4 gap-y-1 font-mono text-xs">
-              <a
-                href={front.href}
-                class="text-signal hover:underline"
-              >
-                {front.eventCount}{" "}
-                {plural(lang, front.eventCount, ["wydarzenie", "wydarzenia", "wydarzeń"], ["event", "events"])}{" "}
-                →
-              </a>
-              {front.battleCount > 0 && (
-                <a
-                  href={`${to.battles}#${front.anchor}`}
-                  class="text-ink-soft hover:text-signal transition-colors"
-                >
-                  {front.battleCount}{" "}
-                  {plural(lang, front.battleCount, ["bitwa", "bitwy", "bitew"], ["battle", "battles"])} →
+  {/* Fronts × years: each cell shaded by the number of events that year. */}
+  <div class="-mx-6 mt-8 overflow-x-auto px-6">
+    <table class="w-full min-w-[38rem] table-fixed border-separate border-spacing-1 text-left">
+      <colgroup>
+        <col class="w-44 lg:w-72" />
+        {COLUMNS.map(() => <col />)}
+        <col class="w-24" />
+        <col class="w-16" />
+      </colgroup>
+      <thead>
+        <tr class="text-ink-soft font-mono text-[10px] tracking-[0.1em] uppercase">
+          <th scope="col" class="pb-2 font-normal">{t.front}</th>
+          {COLUMNS.map((column) => <th scope="col" class="pb-2 text-center font-normal">{column.label}</th>)}
+          <th scope="col" class="pb-2 pl-3 text-right font-normal">{t.events}</th>
+          <th scope="col" class="pb-2 pl-3 text-right font-normal">{t.battles}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          fronts.map((front) => (
+            <tr class="group">
+              <th scope="row" class="pr-4 font-normal">
+                <a href={front.href} title={front.note} class="block py-1">
+                  <span class="font-display text-ink group-hover:text-signal block leading-snug transition-colors">{front.front}</span>
+                  <span class="text-ink-soft hidden truncate text-[11px] leading-4 lg:block">{front.note}</span>
                 </a>
-              )}
-            </div>
-          </div>
-        </li>
-      ))
-    }
-  </ul>
+              </th>
+              {front.perColumn.map((count, index) => (
+                <td class="p-0">
+                  {count ? (
+                    <a
+                      href={front.href}
+                      title={t.cell(front.front, COLUMNS[index].label, count)}
+                      aria-label={t.cell(front.front, COLUMNS[index].label, count)}
+                      class:list={[
+                        "flex h-10 items-center justify-center rounded-[3px] font-mono text-[11px] tabular-nums transition-[filter] hover:brightness-110",
+                        shade(count) > 55 ? "text-white" : "text-ink",
+                      ]}
+                      style={`background: color-mix(in oklab, var(--signal) ${shade(count)}%, transparent)`}
+                    >
+                      {count}
+                    </a>
+                  ) : (
+                    <span class="border-line block h-10 rounded-[3px] border border-dashed" aria-hidden="true" />
+                  )}
+                </td>
+              ))}
+              <td class="pl-3 text-right font-mono text-xs">
+                <a href={front.href} class="text-signal hover:underline">{front.eventCount}</a>
+              </td>
+              <td class="pl-3 text-right font-mono text-xs">
+                {front.battleCount > 0 ? (
+                  <a href={`${to.battles}#${front.anchor}`} class="text-ink-soft hover:text-signal transition-colors">
+                    {front.battleCount}
+                  </a>
+                ) : (
+                  <span class="text-ink-soft">–</span>
+                )}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
 </section>

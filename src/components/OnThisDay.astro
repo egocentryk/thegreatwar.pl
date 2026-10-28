@@ -71,7 +71,6 @@ const scriptText =
 
 <section
   id="tego-dnia"
-  class="mx-auto max-w-3xl px-6 pb-20"
   data-on-this-day
   data-per-year={PER_YEAR}
   data-text={scriptText}
@@ -85,10 +84,10 @@ const scriptText =
     {t.note}
   </p>
 
-  <ol class="mt-8 space-y-8" data-years aria-live="polite">
+  <ol class="mt-8 grid gap-x-12 gap-y-8 md:grid-cols-2 lg:grid-cols-3" data-years aria-live="polite">
     {
       initialYears.map(({ year, items }) => (
-        <li class="grid grid-cols-1 gap-3 sm:grid-cols-[5rem_minmax(0,1fr)]">
+        <li class="grid grid-cols-1 content-start gap-3">
           <span class="text-signal font-mono text-sm" data-year>
             {year}
           </span>
@@ -144,7 +143,7 @@ const scriptText =
   </ol>
 
   <template data-year-template>
-    <li class="grid grid-cols-1 gap-3 sm:grid-cols-[5rem_minmax(0,1fr)]">
+    <li class="grid grid-cols-1 content-start gap-3">
       <span class="text-signal font-mono text-sm" data-year></span>
       <ul class="border-line space-y-4 border-l pl-4" data-items></ul>
     </li>

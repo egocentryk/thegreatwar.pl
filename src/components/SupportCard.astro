@@ -1,6 +1,7 @@
 ---
-// "Wesprzyj kronikę": the support card after an article on screens without
-// the sidebar (the sidebar has its own card that stays in view).
+// "Wesprzyj kronikę": the support card after an article, battle or person
+// page on screens without the sidebar (variant "article"), or in the
+// homepage hero ("home").
 import Button from "@/components/Button.astro"
 import CoffeeIcon from "@/components/CoffeeIcon.astro"
 import type { Lang } from "@/i18n"
@@ -8,31 +9,72 @@ import { SITE } from "@/site.config"
 
 interface Props {
   lang?: Lang
+  variant?: "article" | "home"
+  // Text above the button instead of beside it (narrow columns).
+  stacked?: boolean
 }
 
-const { lang = "pl" } = Astro.props
+const { lang = "pl", variant = "article", stacked = false } = Astro.props
 
 const t = {
   pl: {
-    title: "Ta kronika jest bezpłatna i bez reklam.",
-    text: "Każdy tekst powstaje na podstawie kilku źródeł, ze sprawdzonymi datami i liczbami. Jeśli ten był dla Ciebie wartościowy, możesz wesprzeć pisanie kolejnych.",
+    article: {
+      title: "Ta kronika jest bezpłatna i bez reklam.",
+      text: "Każdy tekst powstaje na podstawie kilku źródeł, ze sprawdzonymi datami i liczbami. Jeśli ten był dla Ciebie wartościowy, możesz wesprzeć pisanie kolejnych.",
+    },
+    home: {
+      title: "Ta kronika jest bezpłatna i bez reklam.",
+      text: "Każdy tekst powstaje na podstawie kilku źródeł, ze sprawdzonymi datami i liczbami. Jeśli kronika jest dla Ciebie wartościowa, możesz wesprzeć pisanie kolejnych tekstów.",
+    },
     button: "Kup nam kawę",
   },
   en: {
-    title: "This chronicle is free and has no ads.",
-    text: "Every text is written from several sources, with dates and figures checked. If this one was useful to you, you can support the next ones.",
+    article: {
+      title: "This chronicle is free and has no ads.",
+      text: "Every text is written from several sources, with dates and figures checked. If this one was useful to you, you can support the next ones.",
+    },
+    home: {
+      title: "This chronicle is free and has no ads.",
+      text: "Every text is written from several sources, with dates and figures checked. If the chronicle is useful to you, you can support the next texts.",
+    },
     button: "Buy us a coffee",
   },
 }[lang]
+const copy = t[variant]
+// The homepage card is filled with the accent colour, with a white button.
+const home = variant === "home"
 ---
 
-<aside class="border-signal/40 bg-surface mt-12 max-w-2xl rounded-sm border p-5 sm:flex sm:items-center sm:gap-6 print:hidden">
+<aside
+  class:list={[
+    "mt-12 max-w-2xl rounded-sm border p-5 print:hidden",
+    !stacked && "sm:flex sm:items-center sm:gap-6",
+    home ? "border-signal bg-signal" : "border-signal/40 bg-surface",
+  ]}
+>
   <div class="min-w-0 flex-1">
-    <p class="font-display text-ink text-lg leading-snug">{t.title}</p>
-    <p class="text-ink-soft mt-1.5 text-sm leading-6">{t.text}</p>
+    <p class:list={["font-display text-lg leading-snug", home ? "text-white" : "text-ink"]}>{copy.title}</p>
+    <p class:list={["mt-1.5 text-sm leading-6", home ? "text-white/85" : "text-ink-soft"]}>{copy.text}</p>
   </div>
-  <Button href={SITE.support} variant="accent" target="_blank" rel="noopener noreferrer" class="mt-4 shrink-0 sm:mt-0">
-    <CoffeeIcon />
-    {t.button}
-  </Button>
+  {
+    home ? (
+      <a
+        href={SITE.support}
+        target="_blank"
+        rel="noopener noreferrer"
+        class:list={[
+          "text-signal hover:bg-paper mt-4 inline-flex shrink-0 items-center gap-2 rounded-full bg-white px-5 py-2.5 text-sm font-medium transition-colors",
+          !stacked && "sm:mt-0",
+        ]}
+      >
+        <CoffeeIcon />
+        {t.button}
+      </a>
+    ) : (
+      <Button href={SITE.support} variant="accent" target="_blank" rel="noopener noreferrer" class="mt-4 shrink-0 sm:mt-0">
+        <CoffeeIcon />
+        {t.button}
+      </Button>
+    )
+  }
 </aside>

@@ -6,10 +6,12 @@ import { paths } from "@/i18n/local"
 interface Props {
   // Full results page: all hits and the query kept in the URL.
   full?: boolean
+  // Homepage hero: no own container and no lead.
+  bare?: boolean
   lang?: Lang
 }
 
-const { full = false, lang = "pl" } = Astro.props
+const { full = false, bare = false, lang = "pl" } = Astro.props
 const to = paths(lang)
 const LIMIT = full ? 200 : 6
 // Example searches shown as chips under the field; hidden while empty.
@@ -58,7 +60,7 @@ const scriptText =
 
 <section
   id="szukaj"
-  class:list={["mx-auto max-w-3xl px-6", full ? "pt-16 pb-24 sm:pt-24" : "pb-20"]}
+  class:list={[!bare && "mx-auto max-w-6xl px-6", full ? "pt-16 pb-24 sm:pt-24" : !bare && "pb-20"]}
   data-search
   data-limit={LIMIT}
   data-full={full ? "" : undefined}
@@ -67,7 +69,7 @@ const scriptText =
   <SectionHeading eyebrow={t.eyebrow} level={full ? 1 : 2} />
 
   {
-    !full && (
+    !full && !bare && (
       <p class="font-display text-ink text-2xl leading-snug sm:text-3xl">
         {t.lead}
       </p>

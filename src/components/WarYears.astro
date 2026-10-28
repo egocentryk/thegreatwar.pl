@@ -83,26 +83,27 @@ const t = {
 }[lang]
 ---
 
-<section id="lata-wojny" class="mx-auto max-w-3xl px-6 pb-20">
+<section id="lata-wojny">
   <SectionHeading eyebrow={t.eyebrow} count={cards.length} />
 
-  <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+  <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">
     {t.lead}
   </p>
 
-  <ol class="border-line mt-8 border-t">
+  {/* One card per year; the war's five years fit one row on wide screens. */}
+  <ol class="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-5">
     {
       cards.map((y) => (
-        <li class="group/year border-line grid grid-cols-1 gap-x-8 gap-y-4 border-b py-8 sm:grid-cols-[9rem_minmax(0,1fr)]">
-          <div>
+        <li class="group/year border-line bg-surface hover:border-signal flex min-w-0 flex-col rounded-sm border p-5 transition-colors">
+          <div class="flex items-end justify-between gap-3">
             <a
               href={y.href}
               hreflang={y.pl && lang === "en" ? "pl" : undefined}
-              class="font-display text-ink hover:text-signal group-hover/year:text-signal block text-6xl leading-none font-medium tracking-tight transition-colors sm:text-7xl"
+              class="font-display text-ink group-hover/year:text-signal text-5xl leading-none font-medium tracking-tight transition-colors"
             >
               {y.year}
             </a>
-            <p class="text-ink-soft mt-3 font-mono text-[11px] leading-5">
+            <p class="text-ink-soft text-right font-mono text-[10px] leading-4">
               {y.eventCount}{" "}
               {plural(lang, y.eventCount, ["wydarzenie", "wydarzenia", "wydarzeń"], ["event", "events"])}
               <br />
@@ -111,57 +112,47 @@ const t = {
             </p>
           </div>
 
-          <div class="min-w-0">
-            <p class="text-ink-soft text-sm leading-6">{y.summary}</p>
+          <p class="text-ink-soft mt-4 line-clamp-4 text-sm leading-6">{y.summary}</p>
 
-            <div
-              class="mt-5 flex h-14 items-end gap-1"
-              aria-label={t.perMonth(y.year)}
-            >
+          <ul class="mt-4 space-y-1.5">
+            {y.highlights.map((entry) => (
+              <li>
+                <a
+                  href={entry.href}
+                  hreflang={entry.pl ? "pl" : undefined}
+                  class="text-ink hover:text-signal flex items-baseline gap-2 text-xs leading-5 transition-colors"
+                >
+                  <span class="bg-signal size-1.5 shrink-0 -translate-y-px rounded-full" aria-hidden="true" />
+                  <span>
+                    {entry.title}
+                    {entry.pl && <span class="lang-mark">(PL)</span>}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+
+          <div class="mt-auto pt-5">
+            <div class="flex h-10 items-end gap-0.5" aria-label={t.perMonth(y.year)}>
               {y.months.map((m) =>
                 m.count ? (
                   <a
                     href={m.href}
                     title={`${m.label}: ${m.count}`}
                     aria-label={`${m.label}: ${m.count}`}
-                    class="bg-ink/25 hover:bg-signal! group-hover/year:bg-signal/50 block flex-1 rounded-t-[2px] transition-colors"
+                    class="bg-ink/25 hover:bg-signal! group-hover/year:bg-signal/50 block flex-1 rounded-t-xs transition-colors"
                     style={`height: ${m.height}%`}
                   />
                 ) : (
-                  <span
-                    class="border-line block h-px flex-1 border-t border-dashed"
-                    aria-hidden="true"
-                  />
+                  <span class="border-line block h-px flex-1 border-t border-dashed" aria-hidden="true" />
                 ),
               )}
             </div>
-            <div
-              class="text-ink-soft mt-1 flex gap-1 font-mono text-[9px] uppercase"
-              aria-hidden="true"
-            >
+            <div class="text-ink-soft mt-1 flex gap-0.5 font-mono text-[8px] uppercase" aria-hidden="true">
               {t.initials.split("").map((letter) => (
                 <span class="flex-1 text-center">{letter}</span>
               ))}
             </div>
-
-            <ul class="mt-5 flex flex-wrap gap-2">
-              {y.highlights.map((entry) => (
-                <li>
-                  <a
-                    href={entry.href}
-                    hreflang={entry.pl ? "pl" : undefined}
-                    class="border-line text-ink hover:border-signal hover:text-signal inline-flex items-center gap-2 rounded-full border px-3 py-1 text-xs transition-colors"
-                  >
-                    <span
-                      class="bg-signal size-1.5 shrink-0 rounded-full"
-                      aria-hidden="true"
-                    />
-                    {entry.title}
-                    {entry.pl && <span class="lang-mark">(PL)</span>}
-                  </a>
-                </li>
-              ))}
-            </ul>
           </div>
         </li>
       ))

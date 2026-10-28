@@ -55,7 +55,7 @@ const t = {
 import { listUrl } from "@/utils/filteredPages"
 ---
 
-<section id="polska" class="mx-auto max-w-3xl px-6 pb-20">
+<section id="polska">
   <SectionHeading eyebrow={t.eyebrow} count={steps.length} />
 
   <div class="border-line bg-surface relative overflow-hidden rounded-sm border">
@@ -65,7 +65,7 @@ import { listUrl } from "@/utils/filteredPages"
     ></span>
 
     <div class="p-6 sm:p-8">
-      <p class="font-display text-ink max-w-lg text-2xl leading-snug sm:text-3xl">
+      <p class="font-display text-ink text-2xl leading-snug sm:text-3xl">
         {t.lead}
       </p>
       <p class="text-ink-soft mt-3 max-w-lg text-sm leading-6">
@@ -115,7 +115,7 @@ import { listUrl } from "@/utils/filteredPages"
 
       <a
         href={listUrl("tag", lang, TAG)}
-        class="text-signal mt-8 inline-block font-mono text-xs hover:underline"
+        class="text-signal mt-6 block font-mono text-xs hover:underline"
       >
         {t.all}
       </a>

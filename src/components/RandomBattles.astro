@@ -43,14 +43,13 @@ const t = {
 
 <section
   id="bitwy"
-  class="mx-auto max-w-3xl px-6 pb-20"
   data-random-battles
   data-pool={to.battleCards}
 >
   <SectionHeading eyebrow={t.eyebrow} count={battles.length} />
 
   <div class="flex flex-wrap items-end justify-between gap-4">
-    <p class="font-display text-ink max-w-md text-2xl leading-snug sm:text-3xl">
+    <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">
       {t.lead}
     </p>
     <button
@@ -63,7 +62,7 @@ const t = {
     </button>
   </div>
 
-  <ul class="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-3" aria-live="polite">
+  <ul class="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-3 lg:grid-cols-1" aria-live="polite">
     {
       initial.map((card) => (
         <li data-card class="min-w-0 transition-opacity duration-300">
@@ -91,7 +90,7 @@ const t = {
 
             <span
               data-title
-              class="font-display text-ink group-hover:text-signal mt-4 block text-xl leading-snug transition-colors"
+              class="font-display text-ink group-hover:text-signal mt-4 block text-xl leading-snug transition-colors lg:mt-2 lg:text-lg"
             >
               {card.title}
             </span>
@@ -101,13 +100,13 @@ const t = {
 
             <span
               data-summary
-              class="text-ink-soft mt-4 line-clamp-5 block text-sm leading-6"
+              class="text-ink-soft mt-4 line-clamp-5 block text-sm leading-6 lg:hidden"
             >
               {card.summary}
             </span>
 
-            <span class="border-line mt-auto block border-t pt-4">
-              <span data-sides class="text-ink-soft block font-mono text-[11px] leading-5">
+            <span class="border-line mt-auto block border-t pt-4 lg:mt-3 lg:pt-3">
+              <span data-sides class="text-ink-soft block font-mono text-[11px] leading-5 lg:hidden">
                 {card.sides}
               </span>
               <span data-verdict class="text-ink mt-1 block text-sm font-medium">

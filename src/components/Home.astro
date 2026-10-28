@@ -8,7 +8,8 @@ import RandomBattles from "@/components/RandomBattles.astro"
 import RandomEvents from "@/components/RandomEvents.astro"
 import ReadingPath from "@/components/ReadingPath.astro"
 import Search from "@/components/Search.astro"
-import SectionHeading from "@/components/SectionHeading.astro"
+import SupportBand from "@/components/SupportBand.astro"
+import SupportCard from "@/components/SupportCard.astro"
 import TurningPoints from "@/components/TurningPoints.astro"
 import WarYears from "@/components/WarYears.astro"
 import {
@@ -95,32 +96,53 @@ const t = {
 }[lang]
 ---
 
-<section class="mx-auto max-w-3xl px-6 pt-16 pb-20 sm:pt-24">
-    <p
-      class="text-ink-soft mb-6 inline-flex items-center gap-2 font-mono text-xs"
-    >
-      <span class="bg-signal h-1.5 w-1.5 rounded-full" aria-hidden="true"
-      ></span>
-      {t.status}
-    </p>
+{/* Wide multi-column layout (max-w-6xl); one column on phones. */}
+<div class="mx-auto max-w-6xl space-y-20 px-6 pt-16 pb-24 sm:pt-24">
+  <div class="grid gap-x-16 gap-y-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)]">
+    <section>
+      <p class="text-ink-soft mb-6 inline-flex items-center gap-2 font-mono text-xs">
+        <span class="bg-signal h-1.5 w-1.5 rounded-full" aria-hidden="true"></span>
+        {t.status}
+      </p>
 
-    <h1
-      class="font-display text-ink max-w-2xl text-4xl leading-[1.1] font-medium sm:text-5xl"
-    >
-      {t.tagline}
-    </h1>
+      <h1 class="font-display text-ink max-w-2xl text-4xl leading-[1.1] font-medium sm:text-5xl">
+        {t.tagline}
+      </h1>
 
-    <p class="text-ink-soft mt-6 max-w-md">
-      {t.intro}
-    </p>
+      <p class="text-ink-soft mt-6 max-w-md">
+        {t.intro}
+      </p>
 
-    <div class="mt-8 flex flex-wrap items-center gap-3">
-      <Button href={to.timeline} variant="solid">{t.timeline}</Button>
-      <Button href="#contact" variant="ghost">{t.write}</Button>
+      <div class="mt-8 flex flex-wrap items-center gap-3">
+        <Button href={to.timeline} variant="solid">{t.timeline}</Button>
+        <Button href="#contact" variant="ghost">{t.write}</Button>
+      </div>
+    </section>
+
+    <div class="space-y-10 lg:pt-1">
+      <dl class="border-line grid grid-cols-[1fr_0.75fr_1.75fr] gap-4 border-t pt-6">
+        <div>
+          <dt class="text-ink-soft font-mono text-xs">{t.events}</dt>
+          <dd class="font-display text-ink mt-1 text-2xl">{allTimeline.length}</dd>
+        </div>
+        <div>
+          <dt class="text-ink-soft font-mono text-xs">{t.battles}</dt>
+          <dd class="font-display text-ink mt-1 text-2xl">{allBattles.length}</dd>
+        </div>
+        <div>
+          <dt class="text-ink-soft font-mono text-xs">{t.period}</dt>
+          <dd class="font-display text-ink mt-1 text-2xl">{coveredUntil}</dd>
+        </div>
+      </dl>
+
+      <div class="[&>aside]:mt-0 [&>aside]:max-w-none">
+        <SupportCard lang={lang} variant="home" stacked />
+      </div>
     </div>
-  </section>
+  </div>
 
-  <Search lang={lang} />
+  {/* Below the hero, so the results can grow without pushing it apart. */}
+  <Search lang={lang} bare />
 
   {allTimeline.length > 0 && <OnThisDay lang={lang} />}
 
@@ -132,55 +154,31 @@ const t = {
 
   {Object.keys(FRONT_NOTES).length > 0 && <Fronts lang={lang} />}
 
-  {POLISH_THREAD.length > 0 && <PolishThread lang={lang} />}
+  <div class="grid gap-x-16 gap-y-20 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,1fr)]">
+    {POLISH_THREAD.length > 0 && <PolishThread lang={lang} />}
+    {allBattles.length > 0 && <RandomBattles lang={lang} />}
+  </div>
 
   {allTimeline.length > 0 && <RandomEvents lang={lang} />}
 
-  {allBattles.length > 0 && <RandomBattles lang={lang} />}
+  <div class="border-line grid gap-x-12 gap-y-16 border-t pt-16 lg:grid-cols-3">
+    <SupportBand lang={lang} />
 
-  <section id="about" class="mx-auto max-w-3xl px-6 pb-20">
-    <SectionHeading eyebrow={t.about} />
-    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
-      {t.aboutLead}
-    </p>
-    <p class="text-ink-soft mt-6 max-w-xl">
-      {t.aboutText}
-    </p>
+    <section id="about">
+      <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.about}</p>
+      <p class="font-display text-ink mt-3 text-2xl leading-snug">{t.aboutLead}</p>
+      <p class="text-ink-soft mt-4 text-sm leading-6">{t.aboutText}</p>
+      <a href={lang === "en" ? "/en/about" : "/about"} class="text-signal mt-4 inline-block font-mono text-xs hover:underline">
+        {t.more}
+      </a>
+    </section>
 
-    <dl class="border-line mt-8 grid max-w-xl grid-cols-[1fr_0.75fr_1.75fr] gap-4 border-t pt-6">
-      <div>
-        <dt class="text-ink-soft font-mono text-xs">{t.events}</dt>
-        <dd class="font-display text-ink mt-1 text-2xl">
-          {allTimeline.length}
-        </dd>
-      </div>
-      <div>
-        <dt class="text-ink-soft font-mono text-xs">{t.battles}</dt>
-        <dd class="font-display text-ink mt-1 text-2xl">{allBattles.length}</dd>
-      </div>
-      <div>
-        <dt class="text-ink-soft font-mono text-xs">{t.period}</dt>
-        <dd class="font-display text-ink mt-1 text-2xl">{coveredUntil}</dd>
-      </div>
-    </dl>
-
-    <a
-      href={lang === "en" ? "/en/about" : "/about"}
-      class="text-signal mt-6 inline-block font-mono text-xs hover:underline"
-    >
-      {t.more}
-    </a>
-  </section>
-
-  <section id="contact" class="mx-auto max-w-3xl px-6 pb-24">
-    <SectionHeading eyebrow={t.talk} />
-    <p class="font-display text-ink max-w-lg text-2xl sm:text-3xl">
-      {t.contact}
-    </p>
-    <a
-      href={`mailto:${SITE.email}`}
-      class="text-signal mt-4 inline-flex items-center gap-2 font-mono hover:underline"
-    >
-      {SITE.email}
-    </a>
-  </section>
+    <section id="contact">
+      <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.talk}</p>
+      <p class="font-display text-ink mt-3 text-2xl leading-snug">{t.contact}</p>
+      <a href={`mailto:${SITE.email}`} class="text-signal mt-4 inline-flex items-center gap-2 font-mono text-sm hover:underline">
+        {SITE.email}
+      </a>
+    </section>
+  </div>
+</div>

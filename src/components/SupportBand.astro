@@ -1,0 +1,49 @@
+---
+// Homepage "Wesprzyj kronikę" column: what support pays for and the
+// coffee button.
+import Button from "@/components/Button.astro"
+import CoffeeIcon from "@/components/CoffeeIcon.astro"
+import type { Lang } from "@/i18n"
+import { SITE } from "@/site.config"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+
+const t = {
+  pl: {
+    eyebrow: "Wesprzyj kronikę",
+    title: "Kronika jest bezpłatna i bez reklam. Tak ma zostać.",
+    text: "Wsparcie czytelników to jedyne źródło finansowania projektu. Pokrywa koszty utrzymania strony i pozwala pisać kolejne artykuły, biogramy i tłumaczenia.",
+    uses: ["Utrzymanie strony", "Nowe artykuły i biogramy", "Wersja angielska"],
+    button: "Kup nam kawę",
+    note: "Bez zakładania konta, przez Buy Me a Coffee.",
+  },
+  en: {
+    eyebrow: "Support the chronicle",
+    title: "The chronicle is free and has no ads. We want to keep it that way.",
+    text: "Readers' support is the project's only source of funding. It pays for running the site and lets us write more articles, biographies and translations.",
+    uses: ["Running the site", "New articles and biographies", "The English edition"],
+    button: "Buy us a coffee",
+    note: "No account needed, through Buy Me a Coffee.",
+  },
+}[lang]
+---
+
+<section aria-labelledby="support-title">
+  <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{t.eyebrow}</p>
+  <h2 id="support-title" class="font-display text-ink mt-3 text-2xl leading-snug">{t.title}</h2>
+  <p class="text-ink-soft mt-4 text-sm leading-6">{t.text}</p>
+  <ul class="mt-4 flex flex-wrap gap-2 font-mono text-[11px]">
+    {t.uses.map((use) => <li class="border-line text-ink-soft rounded-full border px-3 py-1">{use}</li>)}
+  </ul>
+  <div class="mt-6 flex flex-wrap items-center gap-3">
+    <Button href={SITE.support} variant="accent" target="_blank" rel="noopener noreferrer">
+      <CoffeeIcon />
+      {t.button}
+    </Button>
+    <span class="text-ink-soft font-mono text-[11px]">{t.note}</span>
+  </div>
+</section>

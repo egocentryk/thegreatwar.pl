@@ -45,7 +45,7 @@ const t = {
 }[lang]
 ---
 
-<section class="mx-auto max-w-3xl px-6 pt-16 pb-24 sm:pt-24">
+<section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
   <SectionHeading eyebrow={t.eyebrow} count={people.length} level={1} />
 
   <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
@@ -62,13 +62,14 @@ const t = {
           <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
             {group.side}
           </h2>
-          <div class="mt-8 space-y-10">
+          {/* Countries flow into columns, so small ones pack together. */}
+          <div class="mt-8 gap-x-6 sm:columns-2 lg:columns-3">
             {group.countries.map(({ country, people }) => (
-              <section>
+              <section class="mb-10 break-inside-avoid">
                 <h3 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
                   {country}
                 </h3>
-                <ul class="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
+                <ul class="mt-4 grid grid-cols-1 gap-3">
                   {people.map((person) => (
                     <li>
                       <a
