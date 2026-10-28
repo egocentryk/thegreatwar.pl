@@ -3,6 +3,7 @@ import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import InBrief from "@/components/InBrief.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
@@ -208,6 +209,8 @@ const ogArticle = {
           )
         }
       </dl>
+
+      <InBrief points={battle.data.brief} />
 
       <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
         <CoffeeButton />

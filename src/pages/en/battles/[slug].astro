@@ -3,6 +3,7 @@
 import { getCollection, getEntry, render } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import InBrief from "@/components/InBrief.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
@@ -158,6 +159,8 @@ const ogArticle = {
         <dt>{authors.length > 1 ? "Authors:" : "Author:"}</dt>
         <dd class="text-ink">{authors.join(", ")}</dd>
       </dl>
+
+      <InBrief points={battle.data.brief} lang="en" />
 
       <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
         <CoffeeButton lang="en" />

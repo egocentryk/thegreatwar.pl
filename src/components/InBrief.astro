@@ -1,0 +1,25 @@
+---
+// "W skrócie" / "In brief": the 3–5 points of an article (`brief:` in its
+// front matter), above the text. Shows nothing when there are none.
+import type { Lang } from "@/i18n"
+
+interface Props {
+  points: string[]
+  lang?: Lang
+}
+
+const { points, lang = "pl" } = Astro.props
+---
+
+{
+  points.length > 0 && (
+    <aside class="border-signal bg-surface mt-10 max-w-2xl border-l-2 px-5 py-4">
+      <h2 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
+        {lang === "en" ? "In brief" : "W skrócie"}
+      </h2>
+      <ul class="text-ink mt-3 list-disc space-y-1.5 pl-4 text-sm leading-6 marker:text-ink-soft">
+        {points.map((point) => <li>{point}</li>)}
+      </ul>
+    </aside>
+  )
+}

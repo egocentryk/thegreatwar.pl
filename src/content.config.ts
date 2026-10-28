@@ -54,6 +54,8 @@ const timeline = defineCollection({
       repo: z.url().optional(),
       // Key moment of the war; highlighted in the timeline and on its page.
       milestone: z.boolean().default(false),
+      // "W skrócie": 3–5 short points shown above the text (milestones).
+      brief: z.array(z.string()).max(5).default([]),
       // Pages the article was researched from, shown as "Źródła" / "Sources".
       sources: z.array(z.url()).default([]),
       draft: z.boolean().default(false),
@@ -88,6 +90,8 @@ const battles = defineCollection({
     authors: z.array(z.string()).min(1),
     tags: z.array(z.string()).default([]),
     milestone: z.boolean().default(false),
+    // "W skrócie": 3–5 short points shown above the text (milestones).
+    brief: z.array(z.string()).max(5).default([]),
     // Pages the article was researched from, shown as "Źródła" / "Sources".
     sources: z.array(z.url()).default([]),
     draft: z.boolean().default(false),
@@ -137,6 +141,7 @@ const people = defineCollection({
 const enBase = {
   title: z.string(),
   summary: z.string().max(160),
+  brief: z.array(z.string()).max(5).default([]),
   sourceHash: z.string().optional(),
   draft: z.boolean().default(false),
 }
