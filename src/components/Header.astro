@@ -36,7 +36,7 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
 
     <div class="flex items-center gap-3 sm:gap-5">
       {/* Desktop: links inline */}
-      <nav class="hidden items-center gap-5 sm:flex" aria-label="Primary">
+      <nav class="hidden items-center gap-5 lg:flex" aria-label="Primary">
         {
           links.map((link) => (
             <a
@@ -75,7 +75,7 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
         aria-label={menuLabels.open}
         data-label-open={menuLabels.open}
         data-label-close={menuLabels.close}
-        class="text-ink-soft hover:border-signal hover:text-signal border-line flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center rounded-full border transition-colors sm:hidden"
+        class="text-ink-soft hover:border-signal hover:text-signal border-line flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center rounded-full border transition-colors lg:hidden"
       >
         <svg
           data-menu-icon-open
@@ -111,7 +111,7 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
     data-menu-panel
     data-open="false"
     inert
-    class="group grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 ease-out data-[open=true]:grid-rows-[1fr] motion-reduce:transition-none sm:hidden"
+    class="group grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 ease-out data-[open=true]:grid-rows-[1fr] motion-reduce:transition-none lg:hidden"
   >
     <nav aria-label="Primary" class="overflow-hidden">
       <ul
@@ -182,9 +182,9 @@ const menuLabels = lang === 'en' ? { open: 'Open menu', close: 'Close menu' } : 
       },
       { signal },
     );
-    // Close when the viewport grows to the desktop layout (Tailwind `sm`).
+    // Close when the viewport grows to the desktop layout (Tailwind `lg`).
     window
-      .matchMedia('(min-width: 40rem)')
+      .matchMedia('(min-width: 64rem)')
       .addEventListener('change', (event) => event.matches && setOpen(false), { signal });
     document.addEventListener(
       'click',

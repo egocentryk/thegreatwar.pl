@@ -1,0 +1,131 @@
+---
+// The glossary's index (/slownik, /en/glossary): every term A–Z with its short
+// definition, filterable by category.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import type { Lang } from "@/i18n"
+import { listPageLd } from "@/utils/jsonLd"
+import { CATEGORIES, GLOSSARY, glossaryPath, termName, termPath, type Category } from "@/utils/glossary"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const en = lang === "en"
+const entries = [...GLOSSARY].sort((a, b) => termName(lang, a).localeCompare(termName(lang, b), en ? "en" : "pl"))
+const letters = [...new Set(entries.map((e) => termName(lang, e).charAt(0).toUpperCase()))]
+const used = (Object.keys(CATEGORIES) as Category[]).filter((c) => entries.some((e) => e.category === c))
+
+const t = {
+  pl: {
+    title: "Słownik",
+    lead: "Pojęcia, skróty i nazwy, które często pojawiają się w kronice: od Legionów Polskich po ziemię niczyją.",
+    description: "Słownik I wojny światowej: krótkie wyjaśnienia pojęć, skrótów i nazw używanych w kronice – sprawa polska, wojsko, broń, wojna na morzu, polityka i rewolucja.",
+    all: "Wszystkie",
+  },
+  en: {
+    title: "Glossary",
+    lead: "Terms, abbreviations and names that often appear in the chronicle, from the Polish Legions to no man's land.",
+    description: "A glossary of the First World War: short explanations of the terms, abbreviations and names used in the chronicle – the Polish question, the military, weapons, the war at sea, politics and revolution.",
+    all: "All",
+  },
+}[lang]
+
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path: glossaryPath(lang),
+  name: t.title,
+  description: t.description,
+  items: entries.map((e) => termPath(lang, e)),
+})
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+  lang={lang}
+  alternates={en ? { pl: glossaryPath("pl") } : { en: glossaryPath("en") }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24" data-glossary-index>
+    <SectionHeading eyebrow={t.title} count={entries.length} level={1} />
+    <p class="font-display text-ink max-w-2xl text-2xl leading-snug sm:text-3xl">{t.lead}</p>
+
+    <div class="mt-8 flex flex-wrap gap-2 font-mono text-[11px]" role="group">
+      <button type="button" data-filter="" aria-pressed="true" class="filter border-line rounded-full border px-3 py-1">{t.all}</button>
+      {
+        used.map((c) => (
+          <button type="button" data-filter={c} aria-pressed="false" class="filter border-line rounded-full border px-3 py-1">
+            {CATEGORIES[c][lang]}
+          </button>
+        ))
+      }
+    </div>
+
+    <nav class="text-ink-soft mt-6 flex flex-wrap gap-x-3 gap-y-1 font-mono text-xs" aria-label="A–Z">
+      {letters.map((l) => <a href={`#${l}`} class="hover:text-signal transition-colors">{l}</a>)}
+    </nav>
+
+    <div class="mt-10 space-y-10">
+      {
+        letters.map((letter) => (
+          <section id={letter} data-letter>
+            <h2 class="font-display text-signal border-line border-b pb-2 text-2xl">{letter}</h2>
+            <ul class="mt-4 grid gap-x-10 gap-y-5 sm:grid-cols-2 lg:grid-cols-3">
+              {entries
+                .filter((e) => termName(lang, e).charAt(0).toUpperCase() === letter)
+                .map((e) => (
+                  <li data-category={e.category}>
+                    <a href={termPath(lang, e)} class="group block">
+                      <span class="font-display text-ink group-hover:text-signal block text-lg leading-snug transition-colors">
+                        {termName(lang, e)}
+                      </span>
+                      {(en ? e.expansionEn : e.expansion) && (
+                        <span class="text-ink-soft block font-mono text-[10px]">{en ? e.expansionEn : e.expansion}</span>
+                      )}
+                      <span class="text-ink-soft mt-1 line-clamp-3 block text-sm leading-6">{en ? e.shortEn : e.short}</span>
+                    </a>
+                  </li>
+                ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .filter {
+    cursor: pointer;
+    color: var(--ink-soft);
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .filter:hover,
+  .filter[aria-pressed="true"] {
+    color: var(--signal);
+    border-color: var(--signal);
+  }
+</style>
+
+<script>
+  function initGlossaryIndex() {
+    const root = document.querySelector<HTMLElement>("[data-glossary-index]")
+    if (!root) return
+    const buttons = [...root.querySelectorAll<HTMLButtonElement>("[data-filter]")]
+    buttons.forEach((button) =>
+      button.addEventListener("click", () => {
+        const filter = button.dataset.filter
+        buttons.forEach((b) => b.setAttribute("aria-pressed", String(b === button)))
+        root.querySelectorAll<HTMLElement>("[data-category]").forEach((item) => {
+          item.hidden = Boolean(filter) && item.dataset.category !== filter
+        })
+        root.querySelectorAll<HTMLElement>("[data-letter]").forEach((section) => {
+          section.hidden = !section.querySelector("[data-category]:not([hidden])")
+        })
+      }),
+    )
+  }
+  document.addEventListener("astro:page-load", initGlossaryIndex)
+</script>

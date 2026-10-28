@@ -11,7 +11,9 @@ import { enUrlFor } from "@/i18n"
 import Button from "@/components/Button.astro"
 import ArticleSidebar from "@/components/ArticleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import GlossaryMarks from "@/components/GlossaryMarks.astro"
 import PersonPreviews from "@/components/PersonPreviews.astro"
+import { termsIn } from "@/utils/glossary"
 import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
@@ -114,6 +116,8 @@ const ogArticle = {
   tags,
   authors: authors.map((name) => listUrl("author", "pl", name)),
 }
+// Glossary terms used in the text (marked in the browser).
+const glossaryTerms = termsIn(entry.body ?? "", "pl", entry.id)
 ---
 
 <BaseLayout
@@ -259,6 +263,7 @@ const ogArticle = {
           <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton class="lg:hidden" />
             <Content />
+            <GlossaryMarks terms={glossaryTerms} lang="pl" />
             <PersonPreviews body={entry.body ?? ""} lang="pl" />
           </div>
 

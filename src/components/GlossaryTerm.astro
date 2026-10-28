@@ -1,0 +1,168 @@
+---
+// One glossary term (/slownik/<slug>, /en/glossary/<slugEn>): the definition,
+// related pages, sources, and every article that uses the term.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import Sources from "@/components/Sources.astro"
+import { locale, plural, type Lang } from "@/i18n"
+import { curated, localPeople } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { formatDate } from "@/utils/formatDate"
+import { CATEGORIES, GLOSSARY, articlesUsing, glossaryPath, termName, termPath, type GlossaryEntry } from "@/utils/glossary"
+
+interface Props {
+  entry: GlossaryEntry
+  lang?: Lang
+}
+
+const { entry, lang = "pl" } = Astro.props
+const en = lang === "en"
+const name = termName(lang, entry)
+const expansion = en ? entry.expansionEn : entry.expansion
+const short = en ? entry.shortEn : entry.short
+const long = en ? entry.longEn : entry.long
+
+// Related pages: timeline slugs, "bitwy/<id>" and "postacie/<id>".
+const people = new Map((await localPeople(lang)).map((p) => [p.id, p]))
+const plPeople = new Map((await localPeople("pl")).map((p) => [p.id, p]))
+const see = (
+  await Promise.all(
+    entry.see.map(async (ref) => {
+      if (ref.startsWith("postacie/")) {
+        const id = ref.slice(9)
+        const p = people.get(id) ?? plPeople.get(id)
+        return p ? { href: p.href, title: p.data.name, pl: !people.has(id) } : undefined
+      }
+      const battle = ref.startsWith("bitwy/")
+      const item = await curated(lang, battle ? "battles" : "timeline", battle ? ref.slice(6) : ref)
+      return { href: item.href, title: item.title, pl: item.pl }
+    }),
+  )
+).filter((x) => x !== undefined)
+
+const articles = await articlesUsing(entry, lang)
+const years = [...new Set(articles.map((a) => a.date.getUTCFullYear()))]
+const others = GLOSSARY.filter((e) => e.category === entry.category && e.slug !== entry.slug)
+
+const t = {
+  pl: {
+    back: "← Słownik",
+    see: "Zobacz też",
+    used: "W kronice",
+    usedLead: (n: number) => `${n} ${plural("pl", n, ["tekst używa", "teksty używają", "tekstów używa"], ["", ""])} tego pojęcia.`,
+    others: "Inne hasła",
+  },
+  en: {
+    back: "← Glossary",
+    see: "See also",
+    used: "In the chronicle",
+    usedLead: (n: number) => `${n} ${plural("en", n, ["", "", ""], ["article uses", "articles use"])} this term.`,
+    others: "Other terms",
+  },
+}[lang]
+
+const path = termPath(lang, entry)
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path,
+  name,
+  description: short,
+  trail: [{ name: en ? "Glossary" : "Słownik", path: glossaryPath(lang) }],
+  items: articles.map((a) => a.href),
+})
+---
+
+<BaseLayout
+  title={en ? `${name} – glossary` : `${name} – co to jest? Słownik I wojny światowej`}
+  description={short}
+  lang={lang}
+  alternates={en ? { pl: termPath("pl", entry) } : { en: termPath("en", entry) }}
+  jsonLd={jsonLd}
+>
+  <article class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <a href={glossaryPath(lang)} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">{t.back}</a>
+
+    <div class="mt-6 lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+      <div class="min-w-0">
+        <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{CATEGORIES[entry.category][lang]}</p>
+        <h1 class="font-display text-ink mt-3 text-3xl font-medium sm:text-4xl">{name}</h1>
+        {expansion && <p class="text-ink-soft mt-2 font-mono text-xs">{expansion}</p>}
+        <p class="font-display text-ink mt-6 text-xl leading-snug">{short}</p>
+        <div class="text-ink-soft mt-6 space-y-4 leading-7">
+          {long.map((paragraph) => <p>{paragraph}</p>)}
+        </div>
+        <Sources sources={entry.sources} lang={lang} />
+      </div>
+
+      <aside class="mt-12 space-y-8 lg:mt-0 lg:pt-1">
+        {
+          see.length > 0 && (
+            <div class="border-line border-t pt-5">
+              <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.see}</p>
+              <ul class="mt-3 space-y-2">
+                {see.map((item) => (
+                  <li>
+                    <a href={item.href} hreflang={item.pl ? "pl" : undefined} class="text-ink hover:text-signal text-sm transition-colors">
+                      {item.title} {item.pl && <span class="lang-mark">(PL)</span>} →
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+        {
+          others.length > 0 && (
+            <div class="border-line border-t pt-5">
+              <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">
+                {t.others} · {CATEGORIES[entry.category][lang]}
+              </p>
+              <ul class="mt-3 flex flex-wrap gap-2">
+                {others.map((other) => (
+                  <li>
+                    <a
+                      href={termPath(lang, other)}
+                      class="border-line text-ink hover:border-signal hover:text-signal inline-block rounded-full border px-3 py-1 text-xs transition-colors"
+                    >
+                      {termName(lang, other)}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+      </aside>
+    </div>
+
+    {
+      articles.length > 0 && (
+        <section class="mt-16">
+          <SectionHeading eyebrow={t.used} count={articles.length} />
+          <p class="text-ink-soft -mt-4 mb-6 text-sm">{t.usedLead(articles.length)}</p>
+          <div class="space-y-6">
+            {years.map((year) => (
+              <div class="grid gap-2 sm:grid-cols-[5rem_minmax(0,1fr)]">
+                <p class="font-display text-signal text-xl">{year}</p>
+                <ul class="grid gap-x-8 gap-y-1.5 md:grid-cols-2">
+                  {articles
+                    .filter((a) => a.date.getUTCFullYear() === year)
+                    .map((a) => (
+                      <li class="min-w-0">
+                        <a href={a.href} class="group flex gap-3 text-sm">
+                          <span class="text-ink-soft w-24 shrink-0 font-mono text-[11px] leading-6">
+                            {formatDate(a.date, "long", undefined, locale(lang)).replace(/ \d{4}$/, "")}
+                          </span>
+                          <span class="text-ink group-hover:text-signal truncate leading-6 transition-colors">{a.title}</span>
+                        </a>
+                      </li>
+                    ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
+      )
+    }
+  </article>
+</BaseLayout>

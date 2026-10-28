@@ -4,7 +4,9 @@ import { Image } from "astro:assets"
 import { getCollection, getEntry, render } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import GlossaryMarks from "@/components/GlossaryMarks.astro"
 import PersonPreviews from "@/components/PersonPreviews.astro"
+import { termsIn } from "@/utils/glossary"
 import PersonSidebar from "@/components/PersonSidebar.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
@@ -108,6 +110,8 @@ const jsonLd = [
 import { tagEn } from "@/i18n/data-en"
 import { listUrl } from "@/utils/filteredPages"
 import { eventsById, personMentions } from "@/utils/related"
+// Glossary terms used in the text (marked in the browser).
+const glossaryTerms = termsIn(person.body ?? "", "en", `postacie/${source.id}`)
 ---
 
 <BaseLayout
@@ -180,6 +184,7 @@ import { eventsById, personMentions } from "@/utils/related"
           <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton lang="en" class="lg:hidden" />
             <Fragment set:html={html} />
+            <GlossaryMarks terms={glossaryTerms} lang="en" />
             <PersonPreviews body={person.body ?? ""} lang="en" />
           </div>
 

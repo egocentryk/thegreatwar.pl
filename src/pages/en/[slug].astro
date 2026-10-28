@@ -6,7 +6,9 @@ import { Image } from "astro:assets"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import ArticleSidebar from "@/components/ArticleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import GlossaryMarks from "@/components/GlossaryMarks.astro"
 import PersonPreviews from "@/components/PersonPreviews.astro"
+import { termsIn } from "@/utils/glossary"
 import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
@@ -95,6 +97,8 @@ const ogArticle = {
   tags: tags.map(tagEn),
   authors: authors.map((name) => listUrl("author", "en", name)),
 }
+// Glossary terms used in the text (marked in the browser).
+const glossaryTerms = termsIn(entry.body ?? "", "en", source.id)
 ---
 
 <BaseLayout
@@ -200,6 +204,7 @@ const ogArticle = {
           <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
             <CoffeeButton lang="en" class="lg:hidden" />
             <Fragment set:html={html} />
+            <GlossaryMarks terms={glossaryTerms} lang="en" />
             <PersonPreviews body={entry.body ?? ""} lang="en" />
           </div>
 

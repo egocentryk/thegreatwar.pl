@@ -1,0 +1,16 @@
+---
+import GlossaryTerm from "@/components/GlossaryTerm.astro"
+import { GLOSSARY, type GlossaryEntry } from "@/utils/glossary"
+
+export function getStaticPaths() {
+  return GLOSSARY.map((entry) => ({ params: { slug: entry.slugEn }, props: { entry } }))
+}
+
+interface Props {
+  entry: GlossaryEntry
+}
+
+const { entry } = Astro.props
+---
+
+<GlossaryTerm entry={entry} lang="en" />

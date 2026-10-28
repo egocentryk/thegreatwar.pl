@@ -1181,6 +1181,63 @@ another archive.
 
 ---
 
+## 17. Homepage: "Ludzie Wielkiej Wojny" (2026-10-28)
+
+New here (not on thesecondwar.pl).
+
+- `RandomPeople.astro`, above "Lata wojny": six people with their portraits,
+  country, years and role. A new set on every visit, on the "Wylosuj innych"
+  button, and every 7 s while the section is on screen. Rotation pauses on
+  hover or focus and is off with `prefers-reduced-motion`; only a set the
+  reader asked for is announced (`aria-live`). New portraits load before
+  the swap, so no card flashes empty.
+- Like the random battles (§1c), the pool is a static file the browser
+  caches (`/postacie.json`, `/en/people.json`, 70 KB raw, from
+  `utils/personCard.ts`): only people with a portrait, each with a 300×400
+  WebP. The homepage carries just the six on screen.
+
+**Port to thesecondwar.pl:** same files; it has portraits for every person.
+
+---
+
+## 18. Glossary ("Słownik") (2026-10-28)
+
+Ported from thesecondwar.pl (`seo.md` §15), with WWI terms.
+
+- 84 terms PL/EN in seven categories (Sprawa polska, Wojsko, Broń i
+  technika, Wojna na morzu, Polityka i dyplomacja, Rosja i rewolucja,
+  Okupacja i ludność), in `src/data/glossary.json`: short and long
+  definitions, full forms, related pages, sources (each checked in at least
+  two, one not Wikipedia).
+- `/slownik` and `/en/glossary` (A–Z, category filter) and a page per term
+  listing every article that uses it; titles "<term> – co to jest? Słownik
+  I wojny światowej". Articles, battles and person pages mark the first
+  mention of each term in the browser, with a hover/tap card
+  (`GlossaryMarks.astro`): a median of 3 terms per article, at most 13.
+- "Słownik" in the top menu; the full menu now starts at 1024 px.
+- How: candidate terms with Polish patterns for inflected forms
+  (`seed.py`), counted in the articles (`measure.py`), 6 writer agents with
+  the second site's brief, a merge script that checks length, related
+  pages and sources. Many patterns had to be narrowed after the writers
+  checked them in the articles: "twierdza" vs the verb "twierdzić", "gaz"
+  vs "gazeta", "Stawka" (the Russian high command) vs "stawka" (a stake),
+  "Duma" vs Dumba / Dumbarton, "Czeka" vs "czekać", "myśliwiec" vs
+  "myśliwy", naval mines vs tunnel mines, "Front zachodni" (France) vs the
+  Russian Western Front.
+- New: `exclude` on a term lists pages where its pattern means something
+  else ("kryzys lipcowy" is also the July Days of 1917); the term is
+  neither marked nor listed there.
+
+**Port back to thesecondwar.pl:** the `exclude` field (`utils/glossary.ts`).
+
+**Later:** the writers' notes on figures where sources disagree (rounded
+or left out) and on thin sourcing (Ober Ost, the 1916–18 Kingdom of
+Poland, the Czechoslovak Legion) are in the session's scratch notes;
+Britannica, IWM, PWN and 1914-1918-online refused automated reading, so a
+pass with those sources would strengthen several entries.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1247,6 +1304,8 @@ finished, tick it here and add its section above.
     doubtful picks (§15)
 - [x] Portraits for 240 of 242 people, with social cards, and hover previews of
   people in the text (§16)
+- [x] Homepage "Ludzie Wielkiej Wojny": six rotating people with portraits (§17)
+- [x] Glossary ("Słownik"): 84 terms PL/EN with hover cards in the text (§18)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:
