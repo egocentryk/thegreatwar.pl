@@ -3,8 +3,10 @@ import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import PersonSidebar from "@/components/PersonSidebar.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { formatDate, formatDateRange } from "@/utils/formatDate"
@@ -76,6 +78,13 @@ const coPeople = found.coPeople.flatMap(({ id, count }) => {
   const other = people.find((p) => p.id === id)
   return other ? [{ href: `/postacie/${id}`, name: other.data.name, count }] : []
 })
+// Facts for the sidebar infobox.
+const facts = [
+  { label: "Urodzony", value: `${bornYearOnly ? born.getUTCFullYear() : formatDate(born)}${birthPlace ? `, ${birthPlace}` : ""}` },
+  { label: "Zmarł", value: `${diedYearOnly ? died.getUTCFullYear() : formatDate(died)}${deathPlace ? `, ${deathPlace}` : ""}` },
+  { label: "Kraj", value: [country, side].filter(Boolean).join(" · ") },
+  { label: "Rola", value: role },
+]
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
@@ -98,7 +107,7 @@ import { eventsById, personMentions } from "@/utils/related"
   alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
-    <div class="mx-auto max-w-3xl px-6">
+    <div class="mx-auto max-w-6xl px-6">
       <a
         href="/postacie"
         class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
@@ -119,8 +128,41 @@ import { eventsById, personMentions } from "@/utils/related"
       </h1>
       <p class="text-ink-soft mt-3 max-w-2xl">{role}</p>
 
+      {/* Wide screens: the facts move into the sidebar; authors and tags stay
+          here in one line. */}
+      <dl class="border-line text-ink-soft mt-6 hidden flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs lg:flex">
+        <div>
+          <dt class="inline">{authors.length > 1 ? "Autorzy: " : "Autor: "}</dt>
+          <dd class="inline">
+            {authors.map((author, index) => (
+              <>
+                {index > 0 && ", "}
+                <a href={`/autor/${slugify(author)}`} class="text-ink hover:text-signal transition-colors">{author}</a>
+              </>
+            ))}
+          </dd>
+        </div>
+        {tags.length > 0 && (
+          <div>
+            <dt class="inline">Tagi: </dt>
+            <dd class="inline">
+              {tags.map((tag, index) => (
+                <>
+                  {index > 0 && ", "}
+                  {tagPages.has(slugify(tag)) ? (
+                    <a href={`/tag/${slugify(tag)}`} class="text-ink hover:text-signal transition-colors">{tag}</a>
+                  ) : (
+                    tag
+                  )}
+                </>
+              ))}
+            </dd>
+          </div>
+        )}
+      </dl>
+
       <dl
-        class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]"
+        class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr] lg:hidden"
       >
         <dt>Urodzony:</dt>
         <dd class="text-ink">
@@ -172,19 +214,34 @@ import { eventsById, personMentions } from "@/utils/related"
         }
       </dl>
 
-      <div
-        class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0"
-      >
-        <CoffeeButton />
-        <Content />
-      </div>
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+            <CoffeeButton class="lg:hidden" />
+            <Content />
+          </div>
 
-      <Sources sources={person.data.sources} />
-      <ReportError title={name} />
+          <Sources sources={person.data.sources} />
+          <ReportError title={name} />
+          <div class="lg:hidden">
+            <SupportCard />
+          </div>
+        </div>
+
+        <PersonSidebar
+          facts={facts}
+          battles={commanded.map((battle) => ({
+            href: `/bitwy/${battle.id}`,
+            title: battle.data.title,
+            when: formatDateRange(battle.data.startDate, battle.data.endDate),
+          }))}
+          coPeople={coPeople}
+        />
+      </div>
 
       {
         commanded.length > 0 && (
-          <section class="mt-16">
+          <section id="dowodzil" class="mt-16">
             <SectionHeading eyebrow="Dowodził w bitwach" count={commanded.length} />
             <ul class="border-line border-t">
               {commanded.map((battle) => (
@@ -231,7 +288,7 @@ import { eventsById, personMentions } from "@/utils/related"
 
       {
         coPeople.length > 0 && (
-          <section class="mt-16">
+          <section class="mt-16 lg:hidden">
             <SectionHeading eyebrow="Najczęściej obok" />
             <p class="text-ink-soft -mt-4 mb-4 text-sm">Postacie, które pojawiają się w tych samych wydarzeniach.</p>
             <ul class="flex flex-wrap gap-2">

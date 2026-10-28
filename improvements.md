@@ -1025,8 +1025,19 @@ sidebar on the right.
 - `BattleLocator.astro`: `full` fills the sidebar's width.
 - Header and footer widened to `max-w-6xl` to match the article grid. Other
   pages keep their `max-w-3xl` content for now.
-- Not ported yet: battle and person sidebars, places and series in the sidebar
-  (this site has neither yet), portraits.
+- Battle pages (`bitwy/[id].astro`, `en/battles/[slug].astro`):
+  `BattleSidebar.astro`, an infobox with the locator map, dates, front (linked
+  to its front page), place, the sides with their commanders and the result,
+  then "W skrócie". Person pages (`postacie/[id].astro`,
+  `en/people/[slug].astro`): `PersonSidebar.astro` with the facts (born, died,
+  country and side, role), up to 6 battles commanded (with a link down to the
+  full list) and up to 6 people most often alongside. On wide screens the
+  facts table above the text gives way to one row with the authors and tags;
+  on smaller screens the pages are unchanged.
+- `SidebarSupport.astro`: the support card that stays in view, shared by the
+  three sidebars.
+- Not ported yet: places and series in the sidebars (this site has neither
+  yet), portraits (commanders and people show their initial).
 
 **Port back to thesecondwar.pl:** none.
 
@@ -1091,7 +1102,7 @@ finished, tick it here and add its section above.
 - [x] "W skrócie / In brief" boxes on all 423 milestones, PL and EN (§12)
 - [x] Event pages: sidebar (date, "W skrócie", people, battle, a support
   card that stays in view); coffee button in the header (§13)
-- [ ] Battle and person pages: sidebars like the event pages
+- [x] Battle and person pages: sidebars like the event pages (§13)
 - [ ] Public-domain images from Wikimedia Commons, with captions and credits.
 
 ### 5. Template leftovers and code health

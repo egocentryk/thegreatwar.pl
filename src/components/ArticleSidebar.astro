@@ -5,10 +5,9 @@
 // the text scrolls. On smaller screens the page shows "W skrócie" and the
 // support card below the text instead, so this column is hidden there.
 import BattleLocator from "@/components/BattleLocator.astro"
-import CoffeeIcon from "@/components/CoffeeIcon.astro"
+import SidebarSupport from "@/components/SidebarSupport.astro"
 import { locale, type Lang } from "@/i18n"
 import { localBattles, localPeople } from "@/i18n/local"
-import { SITE } from "@/site.config"
 import { formatDate, formatDateRange } from "@/utils/formatDate"
 import { lifeYears } from "@/utils/people"
 
@@ -60,9 +59,6 @@ const t = {
     people: "Postacie w tekście",
     more: (n: number) => `i ${n} więcej`,
     battle: "Bitwa",
-    supportTitle: "Kronika jest bezpłatna i bez reklam.",
-    supportText: "Jeśli ten tekst był dla Ciebie wartościowy, możesz wesprzeć pisanie kolejnych.",
-    button: "Kup nam kawę",
   },
   en: {
     previous: "← Previous",
@@ -70,9 +66,6 @@ const t = {
     people: "People in this article",
     more: (n: number) => `and ${n} more`,
     battle: "Battle",
-    supportTitle: "The chronicle is free and has no ads.",
-    supportText: "If this article was useful to you, you can support the next ones.",
-    button: "Buy us a coffee",
   },
 }[lang]
 const block = "border-line border-t pt-5"
@@ -170,19 +163,5 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
     )
   }
 
-  <div class="sticky top-24">
-    <div class="bg-signal rounded-sm p-4 text-white">
-      <p class="font-display leading-snug">{t.supportTitle}</p>
-      <p class="mt-1.5 text-xs leading-5 text-white/85">{t.supportText}</p>
-      <a
-        href={SITE.support}
-        target="_blank"
-        rel="noopener noreferrer"
-        class="text-signal hover:bg-paper mt-3 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-medium transition-colors"
-      >
-        <CoffeeIcon />
-        {t.button}
-      </a>
-    </div>
-  </div>
+  <SidebarSupport lang={lang} />
 </aside>

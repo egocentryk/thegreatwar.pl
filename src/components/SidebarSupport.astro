@@ -1,0 +1,42 @@
+---
+// The support card at the bottom of the article, battle and person sidebars;
+// it stays in view while the text scrolls.
+import CoffeeIcon from "@/components/CoffeeIcon.astro"
+import type { Lang } from "@/i18n"
+import { SITE } from "@/site.config"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+
+const t = {
+  pl: {
+    title: "Kronika jest bezpłatna i bez reklam.",
+    text: "Jeśli ten tekst był dla Ciebie wartościowy, możesz wesprzeć pisanie kolejnych.",
+    button: "Kup nam kawę",
+  },
+  en: {
+    title: "The chronicle is free and has no ads.",
+    text: "If this article was useful to you, you can support the next ones.",
+    button: "Buy us a coffee",
+  },
+}[lang]
+---
+
+<div class="sticky top-24">
+  <div class="bg-signal rounded-sm p-4 text-white">
+    <p class="font-display leading-snug">{t.title}</p>
+    <p class="mt-1.5 text-xs leading-5 text-white/85">{t.text}</p>
+    <a
+      href={SITE.support}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-signal hover:bg-paper mt-3 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-medium transition-colors"
+    >
+      <CoffeeIcon />
+      {t.button}
+    </a>
+  </div>
+</div>

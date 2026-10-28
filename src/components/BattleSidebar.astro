@@ -1,0 +1,121 @@
+---
+// Right-hand column of a battle page on wide screens (lg+): an infobox with
+// the locator map, dates, front, place, the sides with their commanders and
+// the result, then "W skrócie" and the support card. On smaller screens the
+// page keeps its facts table above the text instead, so this column is
+// hidden there.
+import BattleLocator from "@/components/BattleLocator.astro"
+import SidebarSupport from "@/components/SidebarSupport.astro"
+import { locale, type Lang } from "@/i18n"
+import { formatDateRange } from "@/utils/formatDate"
+
+export interface Commander {
+  name: string
+  href?: string
+  // Links to the Polish page (no English one yet).
+  pl?: boolean
+}
+
+interface Props {
+  lang?: Lang
+  // Polish battle id.
+  id: string
+  frontKey: string
+  front: string
+  frontHref?: string
+  startDate: Date
+  endDate: Date
+  location: string
+  sides: { name: string; commanders: Commander[] }[]
+  result: string
+  milestone?: boolean
+  brief?: string[]
+}
+
+const { lang = "pl", id, frontKey, front, frontHref, startDate, endDate, location, sides, result, milestone, brief = [] } =
+  Astro.props
+const en = lang === "en"
+
+const t = {
+  pl: { dates: "Daty", front: "Front", place: "Miejsce", sides: "Strony", result: "Wynik" },
+  en: { dates: "Dates", front: "Front", place: "Location", sides: "Sides", result: "Result" },
+}[lang]
+const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
+---
+
+<aside class="hidden space-y-8 pt-10 lg:block print:hidden">
+  <div class="border-line overflow-hidden rounded-sm border">
+    <div class="border-line border-b p-4 font-mono text-[11px]">
+      <BattleLocator id={id} frontKey={frontKey} lang={lang} full />
+    </div>
+    <dl class="divide-line divide-y text-sm">
+      <div class="px-4 py-3">
+        <dt class={label}>{t.dates}</dt>
+        <dd class="text-ink mt-1">{formatDateRange(startDate, endDate, locale(lang))}</dd>
+      </div>
+      <div class="px-4 py-3">
+        <dt class={label}>{t.front}</dt>
+        <dd class="text-ink mt-1">
+          {frontHref ? <a href={frontHref} class="hover:text-signal transition-colors">{front}</a> : front}
+        </dd>
+      </div>
+      <div class="px-4 py-3">
+        <dt class={label}>{t.place}</dt>
+        <dd class="text-ink-soft mt-1 text-[13px] leading-5">{location}</dd>
+      </div>
+      <div class="px-4 py-3">
+        <dt class={label}>{t.sides}</dt>
+        <dd class="mt-2 space-y-4">
+          {
+            sides.map((side) => (
+              <div>
+                <p class="text-ink font-medium">{side.name}</p>
+                {side.commanders.length > 0 && (
+                  <ul class="mt-2 space-y-2">
+                    {side.commanders.map((c) => (
+                      <li>
+                        {c.href ? (
+                          <a href={c.href} hreflang={c.pl ? "pl" : undefined} class="group flex items-center gap-2.5">
+                            <span class="border-line bg-surface text-ink-soft font-display flex size-8 shrink-0 items-center justify-center rounded-full border text-xs">
+                              {c.name.charAt(0)}
+                            </span>
+                            <span class="text-ink group-hover:text-signal text-[13px] leading-snug transition-colors">
+                              {c.name}
+                              {c.pl && <span class="lang-mark">(PL)</span>}
+                            </span>
+                          </a>
+                        ) : (
+                          <span class="text-ink-soft flex items-center gap-2.5 text-[13px] leading-snug">
+                            <span class="border-line size-8 shrink-0 rounded-full border border-dashed" aria-hidden="true" />
+                            {c.name}
+                          </span>
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            ))
+          }
+        </dd>
+      </div>
+      <div class="bg-surface px-4 py-3">
+        <dt class={label}>{t.result}</dt>
+        <dd class:list={["text-ink mt-1 text-[13px] leading-5", milestone && "font-semibold"]}>{result}</dd>
+      </div>
+    </dl>
+  </div>
+
+  {
+    brief.length > 0 && (
+      <div class="border-signal bg-surface border-l-2 px-4 py-3">
+        <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{en ? "In brief" : "W skrócie"}</p>
+        <ul class="text-ink marker:text-ink-soft mt-2 list-disc space-y-1.5 pl-4 text-[13px] leading-5">
+          {brief.map((point) => <li>{point}</li>)}
+        </ul>
+      </div>
+    )
+  }
+
+  <SidebarSupport lang={lang} />
+</aside>

@@ -1,0 +1,102 @@
+---
+// Right-hand column of a person page on wide screens (lg+): the facts, the
+// battles the person commanded, the people who appear beside them most, and
+// the support card. On smaller screens the page keeps the facts above the
+// text and the lists below it, so this column is hidden there.
+import SidebarSupport from "@/components/SidebarSupport.astro"
+import type { Lang } from "@/i18n"
+
+interface Props {
+  lang?: Lang
+  facts: { label: string; value: string }[]
+  battles: { href: string; title: string; when: string; pl?: boolean }[]
+  coPeople: { href: string; name: string; count: number; pl?: boolean }[]
+}
+
+const { lang = "pl", facts, battles, coPeople } = Astro.props
+const SHOWN = 6
+
+const t = {
+  pl: {
+    battles: "Dowodził w bitwach",
+    co: "Najczęściej obok",
+    all: (n: number) => `wszystkie (${n}) ↓`,
+    anchor: "#dowodzil",
+  },
+  en: {
+    battles: "Commanded in battles",
+    co: "Most often alongside",
+    all: (n: number) => `all (${n}) ↓`,
+    anchor: "#commanded",
+  },
+}[lang]
+const block = "border-line border-t pt-5"
+const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
+---
+
+<aside class="hidden space-y-8 pt-10 lg:block print:hidden">
+  <dl class="border-line divide-line divide-y overflow-hidden rounded-sm border text-sm">
+    {
+      facts.map((fact) => (
+        <div class="px-4 py-3">
+          <dt class={label}>{fact.label}</dt>
+          <dd class="text-ink mt-1 text-[13px] leading-5">{fact.value}</dd>
+        </div>
+      ))
+    }
+  </dl>
+
+  {
+    battles.length > 0 && (
+      <div class={block}>
+        <p class={label}>{t.battles}</p>
+        <ul class="mt-3 space-y-3">
+          {battles.slice(0, SHOWN).map((battle) => (
+            <li>
+              <a href={battle.href} hreflang={battle.pl ? "pl" : undefined} class="group block">
+                <span class="text-ink group-hover:text-signal block text-sm leading-snug transition-colors">
+                  {battle.title}
+                  {battle.pl && <span class="lang-mark">(PL)</span>}
+                </span>
+                <span class="text-ink-soft block font-mono text-[10px]">{battle.when}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        {battles.length > SHOWN && (
+          <a href={t.anchor} class="text-ink-soft hover:text-signal mt-3 inline-block font-mono text-[10px] transition-colors">
+            {t.all(battles.length)}
+          </a>
+        )}
+      </div>
+    )
+  }
+
+  {
+    coPeople.length > 0 && (
+      <div class={block}>
+        <p class={label}>{t.co}</p>
+        <ul class="mt-3 space-y-3">
+          {coPeople.slice(0, SHOWN).map((other) => (
+            <li>
+              <a href={other.href} hreflang={other.pl ? "pl" : undefined} class="group flex items-center gap-3">
+                <span class="border-line bg-surface text-ink-soft font-display flex size-10 shrink-0 items-center justify-center rounded-full border text-sm">
+                  {other.name.charAt(0)}
+                </span>
+                <span class="min-w-0 flex-1">
+                  <span class="text-ink group-hover:text-signal block truncate text-sm leading-snug transition-colors">
+                    {other.name}
+                    {other.pl && <span class="lang-mark">(PL)</span>}
+                  </span>
+                </span>
+                <span class="text-ink-soft font-mono text-[10px]">{other.count}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
+
+  <SidebarSupport lang={lang} />
+</aside>

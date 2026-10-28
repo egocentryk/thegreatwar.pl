@@ -2,10 +2,13 @@
 import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
+import BattleSidebar from "@/components/BattleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
 import InBrief from "@/components/InBrief.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
+import { paths } from "@/i18n/local"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { BATTLE_PHASES } from "@/data/battlePhases"
@@ -55,6 +58,14 @@ const relatedEntries = await getCollection(
 const relatedByYear = groupTimelineEntries(relatedEntries)
 // Commanders with a person page become links.
 const people = await getPeople()
+// The same, for the sidebar infobox.
+const infoSides = sides.map((side) => ({
+  name: side.name,
+  commanders: side.commanders.map((name) => {
+    const person = personByName(people, name)
+    return { name, href: person && `/postacie/${person.id}` }
+  }),
+}))
 
 // Structured data for search engines (utils/jsonLd.ts).
 const pagePath = Astro.url.pathname.replace(/(.)\/+$/, "$1")
@@ -104,7 +115,7 @@ const ogArticle = {
   alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
-    <div class="mx-auto max-w-3xl px-6">
+    <div class="mx-auto max-w-6xl px-6">
       <a
         href="/bitwy"
         class="text-ink-soft hover:text-signal font-mono text-xs transition-colors"
@@ -126,8 +137,37 @@ const ogArticle = {
         {title}
       </h1>
 
+      {/* Wide screens: the facts move into the sidebar infobox; authors
+          and tags stay here in one line. */}
+      <dl class="border-line text-ink-soft mt-6 hidden flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs lg:flex">
+        <div>
+          <dt class="inline">{authors.length > 1 ? "Autorzy: " : "Autor: "}</dt>
+          <dd class="inline">
+            {authors.map((name, index) => (
+              <>
+                {index > 0 && ", "}
+                <a href={`/autor/${slugify(name)}`} class="text-ink hover:text-signal transition-colors">{name}</a>
+              </>
+            ))}
+          </dd>
+        </div>
+        {tags.length > 0 && (
+          <div>
+            <dt class="inline">Tagi: </dt>
+            <dd class="inline">
+              {tags.map((tag, index) => (
+                <>
+                  {index > 0 && ", "}
+                  <a href={`/tag/${slugify(tag)}`} class="text-ink hover:text-signal transition-colors">{tag}</a>
+                </>
+              ))}
+            </dd>
+          </div>
+        )}
+      </dl>
+
       <dl
-        class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]"
+        class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr] lg:hidden"
       >
         <dt>Daty:</dt>
         <dd class="text-ink">{formatDateRange(startDate, endDate)}</dd>
@@ -210,15 +250,38 @@ const ogArticle = {
         }
       </dl>
 
-      <InBrief points={battle.data.brief} />
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <div class="lg:hidden">
+            <InBrief points={battle.data.brief} />
+          </div>
 
-      <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
-        <CoffeeButton />
-        <Content />
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+            <CoffeeButton class="lg:hidden" />
+            <Content />
+          </div>
+
+          <Sources sources={battle.data.sources} />
+          <ReportError title={title} />
+          <div class="lg:hidden">
+            <SupportCard />
+          </div>
+        </div>
+
+        <BattleSidebar
+          id={battle.id}
+          frontKey={front}
+          front={front}
+          frontHref={paths("pl").front(front)}
+          startDate={startDate}
+          endDate={endDate}
+          location={location}
+          sides={infoSides}
+          result={result}
+          milestone={milestone}
+          brief={battle.data.brief}
+        />
       </div>
-
-      <Sources sources={battle.data.sources} />
-      <ReportError title={title} />
 
       {
         relatedEntries.length > 0 && (

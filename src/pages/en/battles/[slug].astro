@@ -2,10 +2,12 @@
 // English battle page: /en/battles/<english-slug>.
 import { getCollection, getEntry, render } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
+import BattleSidebar from "@/components/BattleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
 import InBrief from "@/components/InBrief.astro"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { BATTLE_PHASES } from "@/data/battlePhases"
@@ -102,7 +104,7 @@ const ogArticle = {
   alternates={{ pl: plPath.battles(source.id) }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
-    <div class="mx-auto max-w-3xl px-6">
+    <div class="mx-auto max-w-6xl px-6">
       <a href="/en/battles" class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">
         ← All battles
       </a>
@@ -117,7 +119,16 @@ const ogArticle = {
 
       <h1 class="font-display text-ink mt-6 max-w-2xl text-3xl font-medium sm:text-4xl">{title}</h1>
 
-      <dl class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr]">
+      {/* Wide screens: the facts move into the sidebar infobox; the authors
+          stay here. */}
+      <dl class="border-line text-ink-soft mt-6 hidden flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs lg:flex">
+        <div>
+          <dt class="inline">{authors.length > 1 ? "Authors: " : "Author: "}</dt>
+          <dd class="text-ink inline">{authors.join(", ")}</dd>
+        </div>
+      </dl>
+
+      <dl class="border-line text-ink-soft mt-6 grid gap-x-6 gap-y-3 border-y py-4 font-mono text-xs sm:grid-cols-[8rem_1fr] lg:hidden">
         <dt>Dates:</dt>
         <dd class="text-ink">{range}</dd>
         <dt>Front:</dt>
@@ -160,15 +171,39 @@ const ogArticle = {
         <dd class="text-ink">{authors.join(", ")}</dd>
       </dl>
 
-      <InBrief points={battle.data.brief} lang="en" />
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <div class="lg:hidden">
+            <InBrief points={battle.data.brief} lang="en" />
+          </div>
 
-      <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
-        <CoffeeButton lang="en" />
-        <Fragment set:html={html} />
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0">
+            <CoffeeButton lang="en" class="lg:hidden" />
+            <Fragment set:html={html} />
+          </div>
+
+          <Sources sources={source.data.sources} lang="en" />
+          <ReportError title={title} lang="en" />
+          <div class="lg:hidden">
+            <SupportCard lang="en" />
+          </div>
+        </div>
+
+        <BattleSidebar
+          lang="en"
+          id={source.id}
+          frontKey={source.data.front}
+          front={frontEn(front)}
+          frontHref={paths("en").front(front)}
+          startDate={startDate}
+          endDate={endDate}
+          location={location}
+          sides={sides.map((side, s) => ({ name: side.name, commanders: commanderLinks[s] }))}
+          result={result}
+          milestone={milestone}
+          brief={battle.data.brief}
+        />
       </div>
-
-      <Sources sources={source.data.sources} lang="en" />
-      <ReportError title={title} lang="en" />
 
       {
         related.length > 0 && (
