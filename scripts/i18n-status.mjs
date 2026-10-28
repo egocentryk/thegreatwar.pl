@@ -1,6 +1,7 @@
 // English edition status: for every file in src/content/en, checks that its
 // Polish source exists, that it has the same links, and whether the Polish
-// text changed since translation (sourceHash = SHA-1 of the Polish file).
+// text changed since translation (sourceHash = SHA-1 of the Polish file
+// without its `sources:` list, which English pages share untranslated).
 //
 // Usage: node scripts/i18n-status.mjs           (report)
 //        node scripts/i18n-status.mjs --stamp   (record the current hash in
@@ -68,7 +69,7 @@ for (const [kind, plDir] of Object.entries(KINDS)) {
       continue
     }
     const pl = readFileSync(plFile, "utf8")
-    const hash = createHash("sha1").update(pl).digest("hex")
+    const hash = createHash("sha1").update(pl.replace(/^sources:\n(?: {2}- .*\n)*/m, "")).digest("hex")
 
     const a = links(pl).join("\n")
     const b = links(en).join("\n")

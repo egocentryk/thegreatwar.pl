@@ -1,0 +1,34 @@
+---
+// "Zgłoś błąd" / "Report an error": a mailto link with the page's title and
+// address filled in, under the text of articles, battles and person pages.
+import { SITE } from "@/site.config"
+import type { Lang } from "@/i18n"
+
+interface Props {
+  title: string
+  lang?: Lang
+}
+
+const { title, lang = "pl" } = Astro.props
+const url = new URL(Astro.url.pathname, Astro.site).href
+const t =
+  lang === "en"
+    ? {
+        lead: "Spotted a mistake?",
+        link: "Report an error",
+        subject: `Error: ${title}`,
+        body: `Page: ${url}\n\nWhat is wrong (and, if you can, a source):\n`,
+      }
+    : {
+        lead: "Widzisz błąd?",
+        link: "Zgłoś go",
+        subject: `Błąd: ${title}`,
+        body: `Strona: ${url}\n\nCo jest nie tak (i, jeśli to możliwe, źródło):\n`,
+      }
+const href = `mailto:${SITE.email}?subject=${encodeURIComponent(t.subject)}&body=${encodeURIComponent(t.body)}`
+---
+
+<p class="text-ink-soft mt-8 max-w-2xl font-mono text-xs print:hidden">
+  {t.lead}
+  <a href={href} class="hover:text-signal underline underline-offset-4 transition-colors">{t.link}</a>
+</p>

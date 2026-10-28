@@ -3,6 +3,8 @@ import { getCollection, render, type CollectionEntry } from "astro:content"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import ReportError from "@/components/ReportError.astro"
+import Sources from "@/components/Sources.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { BATTLE_PHASES } from "@/data/battlePhases"
@@ -211,6 +213,9 @@ const ogArticle = {
         <CoffeeButton />
         <Content />
       </div>
+
+      <Sources sources={battle.data.sources} />
+      <ReportError title={title} />
 
       {
         relatedEntries.length > 0 && (

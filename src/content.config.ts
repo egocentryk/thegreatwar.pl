@@ -54,6 +54,8 @@ const timeline = defineCollection({
       repo: z.url().optional(),
       // Key moment of the war; highlighted in the timeline and on its page.
       milestone: z.boolean().default(false),
+      // Pages the article was researched from, shown as "Źródła" / "Sources".
+      sources: z.array(z.url()).default([]),
       draft: z.boolean().default(false),
     }),
 })
@@ -86,6 +88,8 @@ const battles = defineCollection({
     authors: z.array(z.string()).min(1),
     tags: z.array(z.string()).default([]),
     milestone: z.boolean().default(false),
+    // Pages the article was researched from, shown as "Źródła" / "Sources".
+    sources: z.array(z.url()).default([]),
     draft: z.boolean().default(false),
   }),
 })
@@ -119,6 +123,8 @@ const people = defineCollection({
     wikiTitles: z.array(z.string()).default([]),
     authors: z.array(z.string()).min(1),
     tags: z.array(z.string()).default([]),
+    // Pages the article was researched from, shown as "Źródła" / "Sources".
+    sources: z.array(z.url()).default([]),
     draft: z.boolean().default(false),
   }),
 })

@@ -215,3 +215,34 @@
     @apply bg-ink-soft/35 group-hover:bg-signal h-2;
   }
 }
+
+/* Print: black on white whatever the theme, no site chrome or buttons
+   (header, footer, anything marked `print:hidden`), and list rows kept
+   whole across pages. */
+@media print {
+  :root,
+  .dark {
+    color-scheme: light;
+    --paper: #fff;
+    --ink: #000;
+    --ink-soft: #444;
+    --signal: #000;
+    --line: #ccc;
+    --surface: #fff;
+  }
+  body > header,
+  body > footer {
+    display: none;
+  }
+  main li,
+  main aside {
+    break-inside: avoid;
+  }
+  main h2 {
+    break-after: avoid;
+  }
+  /* Long lists skip rendering off-screen months; the printout needs them all. */
+  .tl-month {
+    content-visibility: visible;
+  }
+}

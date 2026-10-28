@@ -110,6 +110,7 @@ These come from the owner's explicit instructions over many sessions. Follow all
 
 ### Content
 - **Polish**, same tone as existing articles. **Historically accurate**: every fact verified on the web in several sources (see section 6).
+- **`sources:` in the front matter**: a list of the URLs of the pages the article was actually checked against (fetched and read, not just seen in search results), most important first, at most 12, each in double quotes. They are shown as "Źródła" at the end of the article and on its English page. Don't list pages you didn't open, and don't list sources from memory.
 - **Length fits the event**: minor event ≈ 4–5 paragraphs (headings optional); major event longer, with `##` sections.
 - **One article per event** in the owner's list. Merging is allowed only for trivially paired items (e.g. two Persian ministers resigning on the same day) — and you must tell the owner.
 - **summary ≤ 160 characters** (schema enforces it; count them).
@@ -209,7 +210,7 @@ This is the workflow used for every month since September 1914. It works well �
    - **All rules from section 4** (writers don't see memory).
    - Accumulated **pl.wiki traps** (section 8) and lessons, plus which earlier articles and battle pages to read so writers don't contradict them.
    - The full batch table with a **group** column (A, B, C…), plus the battle-page table.
-   - Instructions: verify everything, soften disagreements, report changes to slugs, don't edit other files, don't run the build, don't commit; deliverable = list of files + 1-line summary each + all source URLs + uncertainties + inconsistencies found in existing pages.
+   - Instructions: verify everything, soften disagreements, report changes to slugs, don't edit other files, don't run the build, don't commit; every article gets `sources:` in its front matter (section 4); deliverable = list of files + 1-line summary each + all source URLs + uncertainties + inconsistencies found in existing pages.
 5. **Launch writers in parallel**: about 10–15 `general-purpose` subagents (model `opus`), each owning one group of 3–5 related files (e.g. a battle page + its articles; one theatre; one diplomatic thread). Same-topic files go to the same group so they're complementary. Run them in the background, all in one message. Prompt: "Read the brief at <path>, you are group X, write every row whose grp is X — nothing else; privacy rule; reply with the deliverable."
    - **Lessons from May 1915 (20 writers):** (a) the **WebSearch budget is shared by the whole session (200 calls)** and ran out mid-batch — tell writers to use WebSearch sparingly and prefer WebFetch of known sources (archive.org djvu texts, naval-history.net, FRUS); with 20 writers, ~10 searches each. (b) Writers overwrote each other's helper scripts in the shared scratchpad — tell each writer to use its own subfolder `scratchpad/grp<X>/`. (c) pl.wiki API returns 429 under parallel load — batch titles (50 per request) and retry. (d) Writers sometimes report "errors" in existing pages that aren't there (e.g. a "duplicate section" in the Szuajba page) — check before fixing.
 6. **While waiting**: prepare the checkers (section 7) with the month folder and the new battle slugs. Give the owner a short status as each writer reports.

@@ -1,0 +1,25 @@
+---
+// "Drukuj" / "Print": opens the browser's print dialog (print styles in
+// global.css). Hidden in the printout itself.
+import type { Lang } from "@/i18n"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+---
+
+<button
+  type="button"
+  data-print
+  class="border-line text-ink-soft hover:border-signal hover:text-signal cursor-pointer rounded-sm border px-3 py-1.5 font-mono text-xs transition-colors print:hidden"
+>
+  {lang === "en" ? "Print" : "Drukuj"}
+</button>
+
+<script>
+  document.addEventListener("click", (event) => {
+    if ((event.target as Element).closest("[data-print]")) window.print()
+  })
+</script>

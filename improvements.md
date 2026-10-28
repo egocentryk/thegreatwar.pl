@@ -846,6 +846,47 @@ what differs on this site and the numbers measured here.
 
 ---
 
+## 11. Trust and print: sources, "report an error", print styles, complete Event references (2026-10-28)
+
+Ported from thesecondwar.pl (`seo.md` §8–10 and `roadmap.md` §1 and §4), plus
+one new feature to port back.
+
+**Ported:**
+
+- `sources:` on events, battles and people (`src/content.config.ts`) and a
+  "Źródła / Sources" list under the text (`src/components/Sources.astro`) on
+  the six detail pages; English pages show the Polish list.
+  `scripts/i18n-status.mjs` leaves `sources:` out of the translation hash, so
+  adding sources never makes an English page stale. Writers add `sources:`
+  to new articles (`workflow.md` §4).
+- `scripts/person-sources.mjs`: the person's pl.wikipedia biography (from
+  `wikiTitles`) and its en.wikipedia counterpart, checked against the API
+  (redirects resolved, missing pages skipped). It wrote 241 of 242 person
+  pages, all with both languages; none is a disambiguation page. Charles
+  Lanrezac has no pl.wikipedia page and got en and fr by hand.
+- Print styles (`global.css`): black on white in either theme; no header,
+  footer or anything marked `print:hidden` (the coffee button, the
+  year/month navigation); month blocks drop `content-visibility` so the
+  whole list prints. `PrintButton.astro` sits beside the `<h1>` of every year
+  and month page (this site has no key dates or series pages yet).
+- `pageEntities.ts`: Event references to battles in `about` / `mentions`
+  carry the summary, start and end dates and location, so Search Console
+  doesn't report incomplete Events (`seo.md` §10). The build has 4,692 Event
+  nodes, and none of them lacks `startDate` or `location`.
+
+**New here (port to thesecondwar.pl):**
+
+- `ReportError.astro`: "Widzisz błąd? Zgłoś go" / "Spotted a mistake? Report
+  an error" under the sources on articles, battles and person pages, in both
+  languages. It is a `mailto:` to `SITE.email` with the page title in the
+  subject and the page URL in the body. It is hidden in print.
+
+**Not ported:** `scripts/extract-sources.mjs` (sources from writer
+transcripts). Only 7 transcripts are left for this project, so milestone
+sources need the research method (fetch 3–5 sources and check the facts).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -890,6 +931,7 @@ finished, tick it here and add its section above.
   titles, descriptions and `<h1>`, Open Graph article tags, shorter titles,
   list-page JSON-LD with `about` / `mentions`, list-page descriptions, and
   noindex on search and small tag pages (§10)
+- [x] Complete Event references in `about` / `mentions` (`seo.md` §10) (§11)
 
 ### 4. Reader features
 - [x] "Meanwhile" (same days, other fronts) and "Related" (battle, people,
@@ -925,3 +967,9 @@ finished, tick it here and add its section above.
   the claim is defensible) left by the 1918 fact-checks. Decide on each, or
   add a "sources differ" note.
 - [ ] A visible "Sources" section on each article.
+  - [x] Field, list and person pages from Wikipedia (§11).
+  - [ ] Milestones (262 events, 161 battles): fetch 3–5 sources, check
+    the key facts.
+  - [ ] The other events, over time.
+- [x] "Report an error" link on articles, battles and people (§11)
+- [x] Print styles and a print button on year and month pages (§11)

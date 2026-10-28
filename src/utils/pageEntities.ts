@@ -19,6 +19,9 @@ const BATTLE_LINK = /\]\(\/bitwy\/([a-z0-9-]+)\)/g
 const WIKI_LINK = /\]\((https?:\/\/pl\.wikipedia\.org\/wiki\/[^\s)]+(?:\([^\s)]*\))?[^\s)]*)\)/g
 
 type Ref = { url: string; name: string }
+// Battles carry what Google needs to read the reference as a complete Event
+// (it doesn't follow the @id to the battle page).
+type BattleRef = Ref & { description: string; startDate: Date; endDate: Date; location: string }
 
 let cache: Promise<Awaited<ReturnType<typeof build>>> | undefined
 async function build() {
@@ -31,6 +34,20 @@ async function build() {
   ])
   const refs = <T extends { id: string; href: string }>(list: T[], name: (item: T) => string) =>
     new Map<string, Ref>(list.map((item) => [item.id, { url: item.href, name: name(item) }]))
+  const battleRefs = (list: typeof plBattles) =>
+    new Map<string, BattleRef>(
+      list.map((b) => [
+        b.id,
+        {
+          url: b.href,
+          name: b.data.title,
+          description: b.data.summary,
+          startDate: b.data.startDate,
+          endDate: b.data.endDate,
+          location: b.data.location,
+        },
+      ]),
+    )
   // Tags and Wikipedia titles that stand for a person with a page.
   const personByName = new Map<string, string>()
   const personByWiki = new Map<string, string>()
@@ -40,7 +57,7 @@ async function build() {
   }
   return {
     people: { pl: refs(plPeople, (p) => p.data.name), en: refs(enPeople, (p) => p.data.name) },
-    battles: { pl: refs(plBattles, (b) => b.data.title), en: refs(enBattles, (b) => b.data.title) },
+    battles: { pl: battleRefs(plBattles), en: battleRefs(enBattles) },
     personByName,
     personByWiki,
   }
@@ -62,15 +79,25 @@ export async function pageEntities(
   const data = await (cache ??= build())
   const abs = (path: string) => new URL(path, site).href
   // English page if translated, else the Polish one.
-  const ref = (kind: "people" | "battles", id: string) =>
-    data[kind][lang].get(id) ?? data[kind].pl.get(id)
+  const day = (date: Date) => date.toISOString().slice(0, 10)
   const person = (id: string): JsonLdNode | undefined => {
-    const r = ref("people", id)
+    const r = data.people[lang].get(id) ?? data.people.pl.get(id)
     return r && { "@type": "Person", "@id": `${abs(r.url)}#person`, name: r.name, url: abs(r.url) }
   }
   const battle = (id: string): JsonLdNode | undefined => {
-    const r = ref("battles", id)
-    return r && { "@type": "Event", "@id": `${abs(r.url)}#event`, name: r.name, url: abs(r.url) }
+    const r = data.battles[lang].get(id) ?? data.battles.pl.get(id)
+    return (
+      r && {
+        "@type": "Event",
+        "@id": `${abs(r.url)}#event`,
+        name: r.name,
+        description: r.description,
+        startDate: day(r.startDate),
+        endDate: day(r.endDate),
+        location: { "@type": "Place", name: r.location },
+        url: abs(r.url),
+      }
+    )
   }
 
   const seen = new Set<string>()

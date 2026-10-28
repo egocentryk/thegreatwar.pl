@@ -5,6 +5,8 @@ import { getEntry, render } from "astro:content"
 import { Image } from "astro:assets"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import ReportError from "@/components/ReportError.astro"
+import Sources from "@/components/Sources.astro"
 import { formatDate } from "@/utils/formatDate"
 import {
   categoryEn,
@@ -184,6 +186,9 @@ const ogArticle = {
         <CoffeeButton lang="en" />
         <Fragment set:html={html} />
       </div>
+
+      <Sources sources={source.data.sources} lang="en" />
+      <ReportError title={title} lang="en" />
 
       <RelatedEvents id={source.id} lang="en" />
 

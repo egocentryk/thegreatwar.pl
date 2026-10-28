@@ -1,4 +1,5 @@
 ---
+import PrintButton from "@/components/PrintButton.astro"
 import type { Lang } from "@/i18n"
 import { paths } from "@/i18n/local"
 import type { TimelineYearGroup } from "@/utils/groupTimelineEntries"
@@ -91,7 +92,7 @@ function groupEntriesByDay(
   visibleYearGroups.length > 0 && (
     <>
       {showYearNav && (
-        <div class="border-line mt-10 space-y-4 border-b pb-4 font-mono">
+        <div class="border-line mt-10 space-y-4 border-b pb-4 font-mono print:hidden">
           <nav
             class="font-display flex flex-wrap gap-x-6 gap-y-2 text-2xl leading-none font-medium sm:gap-x-8 sm:text-3xl"
             aria-label={t.years}
@@ -158,9 +159,12 @@ function groupEntriesByDay(
 
           return (
             <section>
-              <YearHeading class="font-display text-ink text-3xl font-medium sm:text-4xl">
-                {heading ?? yearGroup.year}
-              </YearHeading>
+              <div class="flex items-baseline justify-between gap-4">
+                <YearHeading class="font-display text-ink text-3xl font-medium sm:text-4xl">
+                  {heading ?? yearGroup.year}
+                </YearHeading>
+                {heading && <PrintButton lang={lang} />}
+              </div>
 
               <div class="mt-6 space-y-8">
                 {visibleMonths.map((monthGroup) => (
