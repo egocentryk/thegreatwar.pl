@@ -15,6 +15,12 @@ result: Zwycięstwo Niemiec. Rosyjska 2 Armia została okrążona i zniszczona, 
 authors: [Łukasz Skowroń]
 tags: [Prusy Wschodnie, Rosja, Niemcy, Paul von Hindenburg]
 milestone: true
+brief:
+  - "Bitwa pod Tannenbergiem rozegrała się pod koniec sierpnia 1914 roku na południu Prus Wschodnich. Główna bitwa toczyła się w dniach 26–30 sierpnia."
+  - "Rosja uderzyła na Prusy Wschodnie dwiema armiami, które dzieliły jeziora mazurskie. Niemcy przechwytywali rosyjskie rozkazy nadawane przez radio bez szyfrowania."
+  - "Hindenburg i Ludendorff zostawili przeciw Rennenkampfowi słabą osłonę i rzucili główne siły na 2 Armię Samsonowa. Do 29 sierpnia niemieckie kleszcze zamknęły się na jej tyłach."
+  - "Rosjanie stracili około 30 tysięcy zabitych i rannych, a do niewoli trafiło ponad 90 tysięcy żołnierzy. Samsonow odebrał sobie życie w lesie."
+  - "Tannenberg uczynił z Hindenburga i Ludendorffa bohaterów narodowych. Rosyjska ofensywa skłoniła jednak Niemców do przerzucenia na wschód dwóch korpusów w przededniu bitwy nad Marną."
 ---
 
 [Bitwa pod Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem) rozegrała się pod koniec sierpnia 1914 roku na południu [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie), na terenach dzisiejszej Warmii i Mazur. Pierwsze starcia miały miejsce 23 sierpnia, a główna bitwa toczyła się w dniach 26–30 sierpnia. Zakończyła się okrążeniem i zniszczeniem rosyjskiej 2 Armii i była największym zwycięstwem Niemiec na froncie wschodnim w pierwszym roku wojny.

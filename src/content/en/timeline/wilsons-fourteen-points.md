@@ -2,7 +2,13 @@
 title: Wilson's Fourteen Points
 summary: On 8 January 1918 Wilson laid a fourteen-point peace programme before Congress. In the thirteenth he demanded an independent Poland with access to the sea.
 source: czternascie-punktow-wilsona
-sourceHash: 126bf692da9630e5c2cf3346cc16532b2ab403df
+sourceHash: 1f46148cfd6ab89158de81f6e4145d05c0a63e44
+brief:
+  - "On 8 January 1918 President Woodrow Wilson read an address on war aims before a joint session of Congress. Its core was a programme of fourteen points, which he called \"the programme of the world's peace\"."
+  - "The address was meant to answer the Bolsheviks, reach the German socialists and make clear to the Entente that the aims of the secret treaties had to be revised. The material was prepared by a group of scholars called the Inquiry."
+  - "The programme demanded, among other things, open diplomacy, freedom of the seas, reduced armaments, the evacuation of Russia, Belgium and France, and a general association of nations, later the League of Nations."
+  - "The thirteenth point demanded an independent Poland on territories inhabited by indisputably Polish populations, with free access to the sea. It was the first so concrete commitment by a great power to the Polish cause."
+  - "The address did not achieve its immediate aims, but in October 1918 Germany asked Wilson for an armistice on the basis of his programme, and the Fourteen Points served as the basis of the peace negotiations in Paris."
 ---
 
 On 8 January 1918 the President of the United States, [Woodrow Wilson](/postacie/woodrow-wilson), stood before a joint session of [Congress](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) and read an address on war aims and peace terms. Its core was a programme of fourteen points, which the president called "the programme of the world's peace" and at the same time "the only possible programme". The speech came as a surprise. It was known that the president would address Congress, but few, even among members of the cabinet and Allied diplomats, knew its subject. Wilson did not want the newspapers to speculate about the content of the address beforehand, because such guesses were often taken afterwards for what he had actually said. The address went down in history as "Wilson's Fourteen Points" and became the best-known peace programme of the war.

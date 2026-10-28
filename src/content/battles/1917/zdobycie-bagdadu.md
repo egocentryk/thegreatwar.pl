@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Turcy wycofali się w nocy z 10 na 11 marca na p
 authors: [Łukasz Skowroń]
 tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania]
 milestone: true
+brief:
+  - "Zdobycie Bagdadu, od 5 do 11 marca 1917 roku, było największym sukcesem Brytyjczyków na Bliskim Wschodzie od początku wojny. Wojska generała Fredericka Stanleya Maude'a ruszyły spod Al-Azizijji na stolicę Mezopotamii."
+  - "Rozbity turecki XVIII Korpus był wyczerpany i głodny, a Maude przekonał Londyn, że każda zwłoka da Turkom czas na umocnienie się. 4 marca Robertson zgodził się na marsz."
+  - "Turcy przez trzy noce bronili się nad Dijalą, gdzie nocne próby przeprawy się załamały. Maude przeniósł więc ciężar działań na prawy brzeg Tygrysu i obchodził tam przeciwnika."
+  - "Wieczorem 10 marca Halil Pasza uznał, że dalsza walka grozi utratą całego korpusu, i nocą wycofał się na północ. Rano 11 marca Brytyjczycy weszli do Bagdadu bez walki."
+  - "Zajęcie Bagdadu zatarło upokorzenie z Al-Kutu, a Turcy stracili najważniejszą bazę w Mezopotamii. Wojna o Mezopotamię trwała jednak dalej, bo Turcy zatrzymali się na północ od miasta."
 ---
 
 Zdobycie Bagdadu było największym sukcesem Brytyjczyków na Bliskim Wschodzie od początku wojny. Niecałe dwa tygodnie po [odzyskaniu Al-Kutu](/bitwy/druga-bitwa-pod-al-kutem) wojska generała [Fredericka Stanleya Maude'a](/postacie/frederick-maude) ruszyły znad [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) spod Al-Azizijji na stolicę osmańskiej [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Rozbity XVIII Korpus nie miał już sił, by zatrzymać je na długo. Najpierw przez trzy noce bronił się nad rzeką [Dijalą](https://pl.wikipedia.org/wiki/Nahr_Dijala), wpadającą do Tygrysu kilkanaście kilometrów poniżej miasta. Potem stanął przeciw kolumnom, które obchodziły go prawym brzegiem Tygrysu. Wieczorem 10 marca dowódca 6 Armii Halil Pasza ([Halil Kut](/postacie/halil-kut)) uznał, że dalsza walka grozi utratą całego korpusu, i nocą wycofał się na północ. Rano 11 marca Brytyjczycy weszli do [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad) bez walki.

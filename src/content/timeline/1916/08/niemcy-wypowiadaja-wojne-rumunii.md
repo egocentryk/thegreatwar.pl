@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Niemcy, Rumunia, wypowiedzenie wojny, Wilhelm II]
 milestone: true
 draft: false
+brief:
+  - "28 sierpnia 1916 roku Niemcy wypowiedziały wojnę Rumunii, niecałą dobę po tym, jak Rumunia wypowiedziała wojnę Austro-Węgrom, a jej straże przednie przekroczyły przełęcze Karpat."
+  - "Rumunię wiązał od 1883 roku tajny sojusz z Austro-Węgrami i Niemcami, ale w 1914 roku ogłosiła neutralność, a 17 sierpnia 1916 roku premier Ion I.C. Brătianu podpisał traktat z Ententą."
+  - "Wiadomość zaskoczyła Falkenhayna i cesarza, który mówił, że wojna jest przegrana. Wezwanie Hindenburga do Pszczyny z pominięciem szefa sztabu sprawiło, że Falkenhayn 28 sierpnia poprosił o dymisję."
+  - "Państwa centralne miały gotowy plan wojny z Rumunią. Feldmarszałek August von Mackensen dostał rozkaz, by uderzyć z północnej Bułgarii jak najszybciej, choć Bułgaria wciąż nie była w stanie wojny z Rumunią."
+  - "Kampania, która w sierpniu wydawała się w Pszczynie katastrofą, przyniosła jedno z największych zwycięstw wojny: 6 grudnia 1916 roku wojska Mackensena wkroczyły do Bukaresztu."
 ---
 
 28 sierpnia 1916 roku, w poniedziałek, berlińska Agencja Wolffa podała krótki komunikat. Ponieważ [Rumunia](https://pl.wikipedia.org/wiki/Królestwo_Rumunii), „łamiąc w haniebny sposób traktaty zawarte z Austro-Węgrami i Niemcami”, poprzedniego wieczoru [wypowiedziała wojnę](/rumunia-wypowiada-wojne-austro-wegrom) sojusznikowi Rzeszy, cesarski poseł w [Bukareszcie](https://pl.wikipedia.org/wiki/Bukareszt) otrzymał polecenie, by zażądał paszportów i oświadczył rządowi rumuńskiemu, że [Cesarstwo Niemieckie](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) uważa się odtąd również za będące w stanie wojny z Rumunią. W ten sposób niecałą dobę po tym, jak rumuński poseł w Wiedniu wręczył notę o wojnie, a rumuńskie straże przednie przekroczyły przełęcze Karpat, Niemcy stanęły u boku Austro-Węgier przeciw nowemu przeciwnikowi.

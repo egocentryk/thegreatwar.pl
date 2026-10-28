@@ -2,7 +2,12 @@
 title: Arrest of Piłsudski
 summary: On the night of 21–22 July 1917 the Germans arrested Józef Piłsudski and Kazimierz Sosnkowski in Warsaw. The Commandant spent over a year in Magdeburg.
 source: aresztowanie-pilsudskiego
-sourceHash: dd3ef389c8130435434e5503bd825dbd14290cbc
+sourceHash: bbfff10623159a2840afe067c4370552b2a08cb6
+brief:
+  - "On the night of 21–22 July 1917 German gendarmes arrested in Warsaw Józef Piłsudski, the creator of the Legions, and his chief of staff, Colonel Kazimierz Sosnkowski."
+  - "The arrest followed the oath crisis: at Piłsudski's call legionaries of the I and III Brigades had refused to swear an oath of \"brotherhood in arms\" with Germany and Austria-Hungary."
+  - "Piłsudski was taken via Danzig, Spandau and Wesel to the citadel in Magdeburg. The Provisional Council of State lasted barely a month without him, and the POW went deeper underground."
+  - "The Germans wanted to get rid of a troublesome leader, but made him a symbol of the struggle for independence. Released in November 1918, Piłsudski arrived in Warsaw on 10 November."
 ---
 
 On the night of 21–22 July 1917 German gendarmes arrested in Warsaw [Józef Piłsudski](/postacie/jozef-pilsudski), the creator of the [Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) and until recently head of the military department of the [Provisional Council of State](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu). Detained with him was his closest associate and chief of staff, Colonel [Kazimierz Sosnkowski](https://pl.wikipedia.org/wiki/Kazimierz_Sosnkowski). Some accounts place the arrest on the morning of 22 July. Both were immediately taken out of the city. The man who in August 1914 had led the first Polish unit out of Kraków to fight Russia alongside the Central Powers had become a prisoner of Germany.

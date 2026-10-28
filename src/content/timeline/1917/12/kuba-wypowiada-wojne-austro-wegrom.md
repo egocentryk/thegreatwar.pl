@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Ameryka Łacińska, Austro-Węgry, wypowiedzenie wojny, Stany Zjednoczone]
 milestone: true
 draft: false
+brief:
+  - "16 grudnia 1917 roku prezydent Mario García Menocal ogłosił, że między Kubą a Austro-Węgrami istnieje stan wojny. Kuba znów poszła za Waszyngtonem, dziewięć dni po decyzji Stanów Zjednoczonych."
+  - "Wniosek prezydenta przeszedł przez obie izby Kongresu w kilka dni. Propozycję, by wypowiedzieć wojnę także Imperium Osmańskiemu i Bułgarii, odrzucono."
+  - "Wojsk Kuba na front nie wysłała. Jej wkładem był cukier: 24 grudnia podpisano kontrakt na sprzedaż Stanom Zjednoczonym i Wielkiej Brytanii 75 procent zbiorów z 1918 roku."
+  - "Menocal chciał wysłać kontyngent do Europy, ale Waszyngton odmówił, uznając, że od Kuby potrzebny jest przede wszystkim cukier. Żaden kubański oddział na front nie dotarł."
+  - "Dzięki udziałowi w wojnie Kuba zasiadła w gronie zwycięzców i została członkiem założycielem Ligi Narodów. Wojenne ceny cukru dały jej krótki okres bogactwa, zakończony krachem pod koniec 1920 roku."
 ---
 
 16 grudnia 1917 roku prezydent [Kuby](https://pl.wikipedia.org/wiki/Kuba) [Mario García Menocal](https://pl.wikipedia.org/wiki/Mario_García_Menocal) ogłosił, że między Republiką Kuby a cesarsko-królewskim rządem [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) istnieje stan wojny. Kuba, która osiem miesięcy wcześniej, dzień po Stanach Zjednoczonych, [wypowiedziała wojnę Niemcom](/kuba-i-panama-wypowiadaja-wojne-niemcom), znów poszła za Waszyngtonem. Od [amerykańskiej decyzji](/usa-wypowiadaja-wojne-austro-wegrom) minęło dziewięć dni, od [podobnego kroku Panamy](/panama-wypowiada-wojne-austro-wegrom) sześć.

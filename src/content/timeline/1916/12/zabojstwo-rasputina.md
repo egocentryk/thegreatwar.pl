@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Rosja, Mikołaj II, Grigorij Rasputin]
 milestone: true
 draft: false
+brief:
+  - "Nad ranem 30 grudnia 1916 roku w pałacu Jusupowów nad Mojką w Piotrogrodzie zamordowano Grigorija Rasputina, „starca”, który cieszył się bezgranicznym zaufaniem cesarzowej Aleksandry Fiodorowny."
+  - "Źródłem jego wpływów była hemofilia carewicza Aleksego. W czasie wojny do rządu trafiali ministrowie uważani za protegowanych Rasputina, a pogłoski o zdradzie podkopywały autorytet dynastii."
+  - "Zabójcami byli książę Feliks Jusupow, wielki książę Dymitr Pawłowicz, poseł Władimir Puriszkiewicz, porucznik Siergiej Suchotin i lekarz Stanisław Łazowert. Chcieli ratować monarchię przed człowiekiem, który ją kompromitował."
+  - "Pewne jest, że Jusupow strzelił do Rasputina, a Puriszkiewicz trafił go co najmniej dwa razy. Ciało wrzucono do przerębli w Małej Newce, a 1 stycznia 1917 roku nurkowie wydobyli je spod lodu."
+  - "Zabójców nie postawiono przed sądem, a zamach niewiele zmienił. Dziesięć tygodni później wybuchła rewolucja lutowa, która obaliła dynastię."
 ---
 
 Nad ranem 30 grudnia 1916 roku (17 grudnia według kalendarza juliańskiego) w [pałacu Jusupowów nad Mojką](https://pl.wikipedia.org/wiki/Pałac_Jusupowów_nad_Mojką) w Piotrogrodzie zamordowano [Grigorija Rasputina](/postacie/grigorij-rasputin), syberyjskiego chłopa i „starca”, który od dziesięciu lat cieszył się bezgranicznym zaufaniem cesarzowej Aleksandry Fiodorowny. Zabójcami byli książę [Feliks Jusupow](https://pl.wikipedia.org/wiki/Feliks_Jusupow), mąż siostrzenicy cara, kuzyn cara wielki książę [Dymitr Pawłowicz](https://pl.wikipedia.org/wiki/Dymitr_Romanow_(1891–1942)), poseł do Dumy [Władimir Puriszkiewicz](https://pl.wikipedia.org/wiki/Władimir_Puriszkiewicz), porucznik Siergiej Suchotin i lekarz Stanisław Łazowert. Przed świtem wrzucili ciało pod lód rzeki, a jeszcze tego samego dnia wiadomość o zniknięciu Rasputina obiegła miasto. Brytyjska chronologia wojny notuje zabójstwo dzień później, pod 31 grudnia.

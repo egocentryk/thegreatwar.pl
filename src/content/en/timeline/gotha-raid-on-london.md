@@ -2,7 +2,13 @@
 title: Gotha raid on London
 summary: On 13 June 1917 fourteen Gothas bombed the City and East End by day, killing 162 people, 18 of them children at a Poplar school. No bomber was lost.
 source: nalot-gothow-na-londyn
-sourceHash: 069bf5137ac52eaef4e00ecb6ab97ba77f1051d7
+sourceHash: 426ed45c9010bde1544f45a1d03739576cffd47c
+brief:
+  - "Shortly before noon on 13 June 1917 fourteen Gotha G.IV bombers bombed the City of London, the docklands and the East End in broad daylight."
+  - "According to the British official history 162 people were killed and 432 injured. It was the deadliest single air raid on Britain of the whole war."
+  - "Eighteen children were killed at the school in Upper North Street, Poplar, sixteen of them in the infants' class. Their funeral became a great demonstration of mourning."
+  - "The defence proved helpless: 92 pilots took off, but most never saw the enemy. All the Gothas of Captain Ernst Brandenburg's Kagohl 3 returned to their bases."
+  - "The raid caused outrage, and the government decided to expand the air services. After another raid on 7 July Jan Smuts's committee was appointed, which led to the creation of the Royal Air Force in 1918."
 ---
 
 Shortly before noon on Wednesday 13 June 1917 a formation of fourteen twin-engined [Gotha G.IV](https://pl.wikipedia.org/wiki/Gotha_G.IV) bombers appeared over [London](https://pl.wikipedia.org/wiki/Londyn). Within a few minutes they dropped their bombs on the [City of London](https://pl.wikipedia.org/wiki/City_of_London), the docklands and the [East End](https://pl.wikipedia.org/wiki/East_End). According to H. A. Jones's British official history of the air war, 162 people were killed and 432 injured. It was the deadliest single air raid on Britain of the whole war. The British chronology of the war gives a total of about 590 casualties, almost all of them civilians. What shocked people most was the death of eighteen children at a school in Poplar. All the bombers returned to their bases.

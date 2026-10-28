@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "15 maja 1915 roku o 23.30 brytyjska 1 Armia generała Douglasa Haiga zaatakowała nocą Niemców pod Festubert. Według brytyjskiej historii oficjalnej było to pierwsze nocne natarcie armii brytyjskiej w tej wojnie."
+  - "Po klęsce pod Aubers Haig postawił na długi, metodyczny ostrzał i bliskie cele. Od 13 maja 433 działa i haubice ostrzeliwały niemieckie okopy, a ostrzał trwał ostatecznie 60 godzin."
+  - "Nocne natarcie zaproponował generał Henry Horne. Do ataku ruszyło około 10 tysięcy żołnierzy z 6 i 5 Brygady 2 Dywizji oraz indyjskiej brygady Garhwal."
+  - "Na prawym skrzydle 6 Brygada w milczeniu doszła do niemieckiego okopu i zajęła okop wsparcia. Na lewym Niemcy byli czujni i ogniem karabinów maszynowych skosili 5 Brygadę i brygadę Garhwal."
+  - "O świcie 16 maja 7 Dywizja wdarła się w niemieckie okopy na północ od Festubert, ale między dywizjami została luka. Zaczęła się dziesięciodniowa bitwa o kilkaset metrów błota."
 ---
 
 15 maja 1915 roku, pół godziny przed północą, brytyjska piechota wyszła w ciemność przed swoje okopy pod [Festubert](https://pl.wikipedia.org/wiki/Festubert) we francuskiej Flandrii. Sześć dni po krwawej klęsce [pod Aubers](/brytyjczycy-atakuja-grzbiet-aubers) 1 Armia generała [Douglasa Haiga](/postacie/douglas-haig) ponowiła natarcie, by wesprzeć Francuzów walczących o grzbiet Vimy w [Artois](https://pl.wikipedia.org/wiki/Artois). Tym razem uderzyła nocą. Według brytyjskiej historii oficjalnej było to pierwsze nocne natarcie armii brytyjskiej w tej wojnie. Na prawym skrzydle udało się w pełni: żołnierze doszli do niemieckiego okopu, zanim padł pierwszy strzał. Na lewym Niemcy czekali w pogotowiu.

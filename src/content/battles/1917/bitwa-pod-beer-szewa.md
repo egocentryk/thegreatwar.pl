@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Beer Szewa i większość jej studni wpadły w r
 authors: [Natalia]
 tags: [Australia, Imperium Osmańskie, Wielka Brytania, Nowa Zelandia]
 milestone: true
+brief:
+  - "Bitwa pod Beer Szewą, stoczona 31 października 1917 roku, otworzyła jesienną ofensywę generała Edmunda Allenby'ego w Palestynie i przełamała półroczny pat na linii Gaza – Beer Szewa."
+  - "Allenby postanowił obejść turecką linię od wschodu. Kluczem była woda: armia mogła walczyć dalej tylko wtedy, gdyby miasto padło pierwszego dnia, a jego studnie zostały zdobyte nietknięte."
+  - "Piechota XX Korpusu zdobyła rano okopy na zachodzie, ale konnica do 15.00 walczyła o wzgórze Tel es-Saba na wschodzie, a Beer Szewa wciąż była w rękach Turków."
+  - "O zmierzchu 4 i 12 Pułk australijskiej 4 Brygady Lekkiej Konnicy przegalopowały otwartą równinę, przeskoczyły tureckie okopy i wpadły do miasta, zanim obrońcy zdążyli wysadzić studnie."
+  - "Zdobycie Beer Szewy otworzyło drogę do obejścia tureckiej linii: 7 listopada Turcy opuścili Gazę, a 9 grudnia poddała się Jerozolima. W Australii szarża stała się legendą."
 ---
 
 Bitwa pod Beer Szewą otworzyła jesienną ofensywę generała [Edmunda Allenby'ego](/postacie/edmund-allenby) w Palestynie i przełamała półroczny pat na linii Gaza – [Beer Szewa](https://pl.wikipedia.org/wiki/Beer_Szewa). 31 października 1917 roku dwie brytyjskie dywizje piechoty zaatakowały miasto od zachodu, a dwie dywizje konne, po nocnym marszu przez pustynię, od wschodu. Rano piechota zdobyła okopy na zachodnim przedpolu, ale konnica do popołudnia walczyła o wzgórze Tel es-Saba i dzień się kończył. Miasto, a przede wszystkim jego studnie, trzeba było zdobyć przed zmrokiem, bo bez wody konie nie mogły walczyć dalej. O zmierzchu dwa pułki australijskiej [Lekkiej Konnicy](https://pl.wikipedia.org/wiki/Australian_Light_Horse) z 4 Brygady przegalopowały około 6 kilometrów otwartej równiny, przeskoczyły tureckie okopy i wpadły do Beer Szewy, zanim obrońcy zdążyli wysadzić studnie. Szarża pod Beer Szewą stała się jednym z najsłynniejszych epizodów w historii australijskiego wojska.

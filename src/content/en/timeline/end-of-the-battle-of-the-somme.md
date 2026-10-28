@@ -2,7 +2,13 @@
 title: End of the Battle of the Somme
 summary: On 18 November 1916, in the first snowstorm of winter, the British attacked on the Ancre for the last time. After four and a half months the Somme was over.
 source: koniec-bitwy-nad-somma
-sourceHash: 2248c71be512b384c5d6971aa256c589004d7059
+sourceHash: 049159673fe495d32291d03139e4b92e7b1d9776
+brief:
+  - "On 18 November 1916 the British Fifth Army carried out the last attack of the Battle of the Somme, begun on 1 July, on the river Ancre in a blizzard."
+  - "The Canadians and British took two German trenches on the ridge above Grandcourt, but north of the river the attack broke down, and the next day rain flooded the battlefield."
+  - "At their furthest point the Allies had advanced about ten kilometres; they had not broken through or taken Bapaume or Péronne, and the two sides together had lost more than a million men."
+  - "On the Somme the British Army learned to attack behind a creeping barrage, while the Germans, after the \"battle of materiel\", turned in December 1916 to defence in a deep zone of strongpoints."
+  - "The battle started a dispute over Haig in London that goes on to this day: he claimed the offensive had relieved Verdun and worn the Germans down, while critics saw it as a slaughter."
 ---
 
 On 18 November 1916 the British Fifth Army carried out the last attack of the Battle of the Somme on the river Ancre. The first snow of the winter fell during the night, and the attack went in at dawn in a blizzard that later turned into pouring rain. The Canadians and British took two new German trenches on the ridge above Grandcourt, but north of the river the attack broke down once again. The next day rain flooded the battlefield and neither side was able to fight on. So ended, after four and a half months, the battle that had begun [on 1 July](/pierwszy-dzien-bitwy-nad-somma) with the bloodiest day in the history of the British Army. At their furthest point the Allies had advanced about ten kilometres; they had not broken through the front and had not taken any of the towns that were to fall in the first days of the offensive. The two sides together had lost more than a million men.

@@ -10,6 +10,12 @@ dayOrder: 7
 tags: [Niemcy, Brytyjski Korpus Ekspedycyjny, broń chemiczna, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "24 maja 1915 roku o świcie Niemcy wypuścili pod Ypres chlor na froncie długim na około 7 kilometrów, od Hooge po Turco Farm. Był to ich ostatni tej wiosny atak na łuk Ypres."
+  - "Brytyjczycy spodziewali się ataku i mieli proste respiratory, ale wielu nie zdążyło ich założyć. Ostrzał zerwał wszystkie linie telefoniczne, a szeregi batalionów wypełniali rekruci."
+  - "Niemcy zajęli Mouse Trap Farm i przełamali linię na grzbiecie Bellewaarde. Z około 670 żołnierzy Royal Dublin Fusiliers po walkach wycofało się tylko 21."
+  - "Brytyjskie kontrataki przy Bellewaarde nie odzyskały utraconych okopów, a w nocy pod Mouse Trap Farm oddano klin frontu głęboki na około kilometr."
+  - "Dzień kosztował Brytyjczyków tysiące zabitych, rannych, zatrutych i wziętych do niewoli. Niemcy przesunęli front o kilkaset metrów, ale nie przełamali go i do Ypres nie doszli."
 ---
 
 24 maja 1915 roku, w [poniedziałek Zielonych Świątek](https://pl.wikipedia.org/wiki/Zielone_Świątki), Niemcy po raz ostatni tej wiosny uderzyli na łuk [Ypres](https://pl.wikipedia.org/wiki/Ieper). O świcie wypuścili z butli [chlor](https://pl.wikipedia.org/wiki/Chlor) na froncie długim na około 7 kilometrów, od wsi Hooge na wschodzie po Turco Farm na północ od miasta. Według brytyjskiej historii oficjalnej był to atak gazowy na największą skalę, jakiego Brytyjczycy dotąd doświadczyli. Tym razem nie spadła na zaskoczonych Francuzów, jak [22 kwietnia](/poczatek-drugiej-bitwy-pod-ypres), ale na brytyjskie oddziały, które spodziewały się ataku i miały proste respiratory. Mimo to dzień przyniósł im jedne z najcięższych strat w całej [drugiej bitwie pod Ypres](/bitwy/druga-bitwa-pod-ypres).

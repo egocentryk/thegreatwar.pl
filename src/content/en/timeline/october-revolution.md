@@ -2,7 +2,13 @@
 title: October Revolution
 summary: On 7 November 1917 the Bolsheviks seized Petrograd and overthrew the Provisional Government. The Winter Palace fell at night; the Soviet Congress took power.
 source: rewolucja-pazdziernikowa
-sourceHash: a804a17a5fa8f16fb22666f1b953c92e1a6fb2ec
+sourceHash: ee188c72ef293dac691cba4724872aa37023b832
+brief:
+  - "On 7 November 1917 (25 October in the Julian calendar) the Bolsheviks seized power in Petrograd and overthrew the Provisional Government, hence the name October Revolution."
+  - "After the Kornilov revolt collapsed the Bolsheviks won majorities in the soviets, while Kerensky's government lost its authority. Vladimir Lenin pressed for a rising, and Leon Trotsky directed the Military Revolutionary Committee."
+  - "The committee's units occupied the bridges, stations, telegraph and State Bank almost without a fight. Kerensky left to find troops at the front, while the ministers waited in the Winter Palace for help that never came."
+  - "During the night of 7–8 November the Winter Palace was taken and the ministers arrested. The Second All-Russian Congress of Soviets took power and announced an offer of peace to all nations."
+  - "The coup was far less bloody than the February Revolution. For the Entente it meant the threat of Russia leaving the war, and for Germany the hope of moving divisions from the east to the west."
 ---
 
 On 7 November 1917 (25 October in the Julian calendar) the [Bolsheviks](https://pl.wikipedia.org/wiki/Bolszewicy) seized power in Petrograd. During the night and the day that followed, the units of the [Military Revolutionary Committee](https://pl.wikipedia.org/wiki/Komitet_Wojskowo-Rewolucyjny) of the Petrograd Soviet, that is [Red Guards](https://pl.wikipedia.org/wiki/Czerwona_Gwardia_(Rosja)), soldiers of the garrison and sailors of the Baltic Fleet, occupied the bridges, railway stations, telegraph, telephone exchange, power station and State Bank almost without a fight. At ten in the morning the committee announced that the [Provisional Government](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) had been overthrown. The prime minister, [Alexander Kerensky](/postacie/aleksander-kierenski), left the city to look for troops at the front, while his ministers, shut up in the [Winter Palace](https://pl.wikipedia.org/wiki/Pałac_Zimowy), waited for help that never came. At about 2.10 a.m. on the night of 7–8 November the palace was taken and the ministers arrested. At the same time the Second All-Russian Congress of Soviets was in session at the Smolny, and the Bolsheviks handed it the power they had won.

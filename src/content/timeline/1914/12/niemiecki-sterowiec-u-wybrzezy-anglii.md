@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [sterowce, Wielka Brytania, Niemcy, Royal Naval Air Service]
 milestone: true
 draft: false
+brief:
+  - "Po południu 15 grudnia 1914 roku w pobliżu ujścia Humbera zauważono niemiecki sterowiec. Był to jedyny potwierdzony z wielu meldunków o wrogich statkach powietrznych nad Anglią."
+  - "Brytyjczycy bali się zeppelinów od lat. Od września 1914 roku obroną powietrzną kierowała Admiralicja Churchilla, a od 1 października Londyn był zaciemniony."
+  - "Cesarz Wilhelm II długo nie godził się na naloty na Wyspy Brytyjskie, a sterowce marynarki służyły głównie do rozpoznania nad Morzem Północnym."
+  - "Według brytyjskiej historii oficjalnej sterowiec najpewniej prowadził rozpoznanie dla okrętów Hippera, ale nie wiadomo, która to była jednostka ani jakie miała zadanie."
+  - "Sterowiec nie zrzucił żadnej bomby, ale był zapowiedzią nalotów. W styczniu 1915 roku sterowce marynarki po raz pierwszy zbombardowały Anglię."
 ---
 
 Po południu 15 grudnia 1914 roku w pobliżu ujścia [Humbera](https://pl.wikipedia.org/wiki/Humber), na wschodnim wybrzeżu Anglii, zauważono niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec). Brytyjskie zestawienia wydarzeń wojny odnotowały ten dzień jako pierwsze pojawienie się nieprzyjacielskiego statku powietrznego w pobliżu Wysp Brytyjskich. Od początku wojny do władz napływały liczne meldunki o tajemniczych sterowcach nad Anglią, ale tylko ten jeden udało się potwierdzić. Nie wiadomo jednak dokładnie, który sterowiec to był ani jakie miał zadanie.

@@ -2,7 +2,13 @@
 title: Armistice of Mudros
 summary: On 30 October 1918, aboard the battleship Agamemnon at Mudros, the Ottoman Empire signed an armistice with the Entente. Fighting ended at noon on 31 October.
 source: rozejm-w-mudros
-sourceHash: 881d4b8bc433dd8d30824573c3f905eed0617ee2
+sourceHash: ed0327ffdd28108743b09c34c1ba8930ce2d35f4
+brief:
+  - "At 9.40 p.m. on 30 October 1918, aboard the British battleship Agamemnon at Mudros on Lemnos, Vice-Admiral Somerset Gough-Calthorpe and the minister of marine Rauf Bey signed an armistice between the Entente and the Ottoman Empire."
+  - "The empire's fate was sealed by Bulgaria's capitulation, which cut Turkey off from Germany by land. In the south the British and the Arabs had taken Damascus and Aleppo, and in Mesopotamia a last offensive was under way up the Tigris."
+  - "Calthorpe negotiated alone, without the French, and set a 9 p.m. deadline. The armistice had 25 articles: Turkey opened the Dardanelles and the Bosporus, handed over the forts, surrendered prisoners and demobilised its army."
+  - "Articles 7 and 24, allowing the Allies to occupy strategic points and the Armenian vilayets, caused the greatest apprehension. The British used them at once, entering Mosul on 3 November."
+  - "At noon on 31 October the guns fell silent on all Ottoman fronts, and Turkey became the second of the Central Powers to leave the war. The armistice opened the way to the partition of the empire."
 ---
 
 At 9.40 p.m. on 30 October 1918, aboard the British battleship *Agamemnon*, lying in the harbour of [Mudros](https://pl.wikipedia.org/wiki/Mudros) on the Greek island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos), an [armistice](https://pl.wikipedia.org/wiki/Rozejm_w_Mudros) was signed between the [Entente](https://pl.wikipedia.org/wiki/Ententa) and the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). The signature for the Allies was that of the British commander-in-chief in the Mediterranean, Vice-Admiral Somerset Gough-Calthorpe; for the Ottoman government the signatories were the minister of marine, [Rauf Bey](https://pl.wikipedia.org/wiki/Rauf_Orbay), the under-secretary of state at the foreign ministry, Reşat Hikmet Bey, and Lieutenant-Colonel Sadullah Bey of the general staff. Hostilities were to cease at noon local time on Thursday, 31 October. Four years after the [Ottoman fleet had bombarded Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea, Turkey became the second of the [Central Powers](https://pl.wikipedia.org/wiki/Państwa_centralne), after Bulgaria, to leave the war.

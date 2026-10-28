@@ -10,6 +10,11 @@ dayOrder: 5
 tags: [Belgia, Niemcy, Albert I, wyścig do morza]
 milestone: true
 draft: false
+brief:
+  - "16 października 1914 roku Niemcy zaatakowali Diksmuide nad Yser, bronione przez Belgów i francuskich marynarzy. Od tego dnia Belgowie liczą bitwę nad Yser, choć główne niemieckie natarcie ruszyło dwa dni później."
+  - "Po upadku Antwerpii wyczerpana armia belgijska zajęła linię rzeki od Diksmuide po morze. Król Albert I zgodził się tu walczyć i wzywał, by za zdrajcę uznać każdego, kto bez rozkazu mówi o odwrocie."
+  - "Diksmuide broniła brygada fizylierów marynarki kontradmirała Pierre'a Ronarc'ha, około 6,5 tysiąca ludzi. Miała utrzymać miasto przez kilka dni, a obroniła je przez ponad trzy tygodnie."
+  - "18 października ruszyło główne natarcie 4 Armii Albrechta Wirtemberskiego i Belgowie stracili wysunięte placówki. Gdy Niemcy sforsowali rzekę, Belgowie otworzyli śluzy w Nieuport i wpuścili morze na równinę."
 ---
 
 16 października 1914 roku pierwsze niemieckie oddziały zaatakowały [Diksmuide](https://pl.wikipedia.org/wiki/Diksmuide), miasteczko nad rzeką [Yser](https://pl.wikipedia.org/wiki/IJzer), bronione przez Belgów i francuskich marynarzy. Od tego dnia Belgowie liczą [bitwę nad Yser](https://pl.wikipedia.org/wiki/Bitwa_nad_Yser), a brytyjska kronika wojny, notując ją pod tą datą, zaznacza, że jest to data belgijska. Główne niemieckie natarcie ruszyło dwa dni później. Stawką było to, czy armia belgijska utrzyma ostatni skrawek swojego kraju i czy Niemcy przebiją się wzdłuż wybrzeża do portów nad kanałem La Manche.

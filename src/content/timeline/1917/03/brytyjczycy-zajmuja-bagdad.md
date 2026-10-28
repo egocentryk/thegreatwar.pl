@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania, Royal Navy]
 milestone: true
 draft: false
+brief:
+  - "11 marca 1917 roku wojska brytyjskie i indyjskie generała Fredericka Stanleya Maude'a weszły do Bagdadu, najważniejszego miasta osmańskiej Mezopotamii. Nie musiały o nie walczyć."
+  - "Poprzedniego wieczoru, gdy Brytyjczycy sforsowali Dijalę, dowódca 6 Armii Halil Pasza nakazał odwrót na północ, do Samarry. W nocy saperzy wysadzali to, co mieli zniszczyć, a w mieście zaczęły się rabunki."
+  - "Rano patrol batalionu Black Watch zajął dworzec, a 35 Brygada z batalionem Buffs na czele weszła do miasta i zawiesiła na cytadeli brytyjską flagę. Maude przypłynął po południu z flotyllą kanonierek."
+  - "Turcy stracili najważniejszą bazę w Mezopotamii i dużą część wojska. Według historii oficjalnej z 91 tureckich dział uratowali tylko 28."
+  - "Było to największe dotąd zwycięstwo Wielkiej Brytanii nad Imperium Osmańskim. Umocniło brytyjski prestiż w Persji, w Afganistanie i wśród muzułmanów w Indiach, a dla Niemiec było ciosem."
 ---
 
 11 marca 1917 roku rano wojska brytyjskie i indyjskie weszły do [Bagdadu](https://pl.wikipedia.org/wiki/Bagdad), dawnej stolicy kalifów z dynastii [Abbasydów](https://pl.wikipedia.org/wiki/Abbasydzi) i najważniejszego miasta osmańskiej Mezopotamii. Nie musiały o nie walczyć. Turcy opuścili Bagdad w nocy, a po ostatnich patrolach zostały w nim tylko pożary, wybuchy w cytadeli i rabujące bazary bandy. Dla generała [Fredericka Stanleya Maude'a](/postacie/frederick-maude), który od grudnia 1916 roku prowadził swoje wojska w górę [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), był to cel całej kampanii. Dla Wielkiej Brytanii, która po Gallipoli i [kapitulacji Al-Kutu](/kapitulacja-al-kutu) długo nie miała na tym froncie czym się pochwalić, było to największe dotąd zwycięstwo nad Imperium Osmańskim.

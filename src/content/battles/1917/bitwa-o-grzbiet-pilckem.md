@@ -17,6 +17,12 @@ result: Częściowy sukces aliantów. Na północy zdobyto grzbiet Pilckem i lin
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, czołgi]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Pilckem była pierwszym natarciem trzeciej bitwy pod Ypres. 31 lipca 1917 roku o 3.50 rano ruszyło dziewięć dywizji 5 Armii generała Huberta Gougha, wspieranych przez 2 Armię i Francuzów."
+  - "Gough wyznaczył na pierwszy dzień bardzo głębokie cele, mimo ostrzeżeń, że rozproszy to artylerię. Kluczem do pola bitwy był płaskowyż Gheluvelt, na którym Niemcy skupili najwięcej dział."
+  - "Na północy alianci w kilka godzin zdobyli grzbiet Pilckem i doszli nad Steenbeek, ale po południu, w zaczynającym się deszczu, niemieckie dywizje przeciwnatarcia zepchnęły wysunięte brygady w centrum."
+  - "Na płaskowyżu Gheluvelt Brytyjczycy posunęli się tylko o kilkaset metrów. Według historii oficjalnej 5 Armia straciła od 31 lipca do 3 sierpnia 27 001 zabitych, rannych i zaginionych."
+  - "Natarcie było większym sukcesem niż pierwszy dzień nad Sommą, ale płaskowyż pozostał w rękach niemieckich, a deszcz i mokry sierpień zamieniły pole bitwy w bagna i odebrały ofensywie tempo."
 ---
 
 Bitwa o grzbiet Pilckem była pierwszym natarciem [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). 31 lipca 1917 roku o 3.50 rano, po mniej więcej dwóch tygodniach ostrzału, dziewięć dywizji brytyjskiej 5 Armii generała [Huberta Gougha](/postacie/hubert-gough) ruszyło do ataku z łuku wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper), osłaniane na południu przez 2 Armię, a na północy przez dwie dywizje francuskiej 1 Armii. Na północnym skrzydle alianci w kilka godzin zdobyli niski grzbiet Pilckem, z którego Niemcy od 1915 roku obserwowali kanał pod [Boezinge](https://pl.wikipedia.org/wiki/Boezinge), i podeszli nad strumień Steenbeek. W centrum część brygad wdarła się na ponad trzy kilometry, ale po południu, w zaczynającym się deszczu, zepchnęły je niemieckie dywizje przeciwnatarcia. Na najważniejszym odcinku, na płaskowyżu Gheluvelt przy drodze z Ypres do Menin, Brytyjczycy posunęli się tylko o kilkaset metrów. Deszcz padał potem przez cztery dni i zamienił pole bitwy w błoto.

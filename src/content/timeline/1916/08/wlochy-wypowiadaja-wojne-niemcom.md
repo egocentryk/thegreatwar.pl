@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Włochy, Niemcy, wypowiedzenie wojny, Sidney Sonnino]
 milestone: true
 draft: false
+brief:
+  - "27 sierpnia 1916 roku minister spraw zagranicznych Sidney Sonnino przekazał przez rząd Szwajcarii deklarację, że od 28 sierpnia Włochy uważają się za będące w stanie wojny z Niemcami."
+  - "Włochy walczyły z Austro-Węgrami od maja 1915 roku, ale z Niemcami formalnie pozostawały w pokoju. W praktyce stały po przeciwnych stronach, a w 1916 roku obie strony zaostrzały kurs gospodarczy."
+  - "Sprzymierzeni naciskali, by Rzym dotrzymał zobowiązań z układu londyńskiego. Krok zgrano z wystąpieniem Rumunii, a deklaracja wyliczała niemieckie dostawy broni dla Austro-Węgier i udział Niemców w walkach."
+  - "Wojskowo deklaracja niewiele od razu zmieniła, ale politycznie Włochy przestały być sojusznikiem „na pół etatu” i mogły domagać się pełnego udziału w decyzjach Ententy."
+  - "Rachunek przyszedł po roku: w październiku 1917 roku uderzenie 14 Armii, złożonej z dywizji niemieckich i austro-węgierskich, pod Caporetto przyniosło Włochom najcięższą klęskę w całej wojnie."
 ---
 
 W niedzielę 27 sierpnia 1916 roku minister spraw zagranicznych Włoch [Sidney Sonnino](/postacie/sidney-sonnino) polecił przekazać rządowi związkowemu [Szwajcarii](https://pl.wikipedia.org/wiki/Szwajcaria), z prośbą o doręczenie rządowi Rzeszy, krótką deklarację. Kończyła się ona oświadczeniem, że w imieniu króla rząd włoski uważa [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) za będące w stanie wojny z [Cesarstwem Niemieckim](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) od 28 sierpnia. Tego wieczoru późne wydania rzymskich gazet ogłosiły to oficjalnie, a ambasada Stanów Zjednoczonych natychmiast zadepeszowała do Waszyngtonu, że rząd włoski przesłał przez Szwajcarię wypowiedzenie wojny Niemcom, ważne od jutra. Następnego dnia ambasador Włoch w Waszyngtonie, Vincenzo Macchi di Cellere, notą powiadomił o decyzji swojego rządu sekretarza stanu.

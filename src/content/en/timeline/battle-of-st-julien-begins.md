@@ -2,7 +2,13 @@
 title: Battle of St Julien begins
 summary: On 24 April 1915 the Germans struck the Canadians at Ypres with chlorine. The 1st Canadian Division's front gave way, and in the afternoon St Julien fell.
 source: poczatek-bitwy-pod-st-julien
-sourceHash: 50b8d57600ce379a40a0f41eaf78fa9105e3ec03
+sourceHash: b64964c6dd35081090f71c0b7fb4d35e9920990e
+brief:
+  - "At dawn on 24 April 1915 the Germans released a cloud of chlorine at Ypres for the second time in three days, this time straight onto the trenches of the 1st Canadian Division. So began the Battle of St Julien."
+  - "After two days of fighting the Canadian front formed a sharp wedge, and many units had already lost half their strength. The Canadians had no masks and covered their faces with wet handkerchiefs."
+  - "The worst hit was the 15th Battalion, which lost 647 men that day. Fired on from three sides and fighting with jamming Ross rifles, the Canadians fell back all day."
+  - "General Turner withdrew the remnants of the 3rd Brigade to the GHQ Line, exposing the flank of Currie's brigade. In the afternoon the Germans took the ruins of Sint-Juliaan, but the Canadians held Gravenstafel Ridge."
+  - "It was the division's bloodiest day at Ypres: it lost 3,058 men. The 10th Brigade's counter-attack on 25 April was bled white, and the village stayed in German hands until the summer of 1917."
 ---
 
 At dawn on 24 April 1915 the Germans released a cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor) near [Ypres](https://pl.wikipedia.org/wiki/Ieper) for the second time in three days. This time the gas drifted straight onto the trenches of the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska), which since the evening of 22 April had been patching the gap left by the [shattered French divisions](/poczatek-drugiej-bitwy-pod-ypres). Behind the cloud came the infantry of the German reserve corps. The Canadians, gassed, fired on from three sides and fighting with rifles that jammed in action, fell back step by step all day. In the afternoon they lost the village of Sint-Juliaan, which the British called St Julien. It gave its name to the battle that began that day and, according to British nomenclature, lasted until 4 May.

@@ -2,7 +2,13 @@
 title: Nicholas II takes supreme command
 summary: On 5 September 1915 Nicholas II arrived at the Stavka in Mogilev and took command of the army. Grand Duke Nicholas left; Alekseyev became chief of staff.
 source: mikolaj-ii-obejmuje-naczelne-dowodztwo
-sourceHash: 146e94121bb8eff188841d14545897bfebaffbdb
+sourceHash: 021c4081d3a03340e7246e91d641f766703f043a
+brief:
+  - "On 5 September 1915 Tsar Nicholas II arrived at the Stavka near Mogilev and himself assumed supreme command of the Russian army. He replaced Grand Duke Nicholas Nikolaevich."
+  - "By the summer of 1915 the army was retreating, and Russia had lost Galicia, the Kingdom of Poland and part of Lithuania. The Tsar believed his place was with the army; historians also point to the Empress and Rasputin."
+  - "Eight ministers, including Sazonov and Krivoshein, begged the Tsar in a collective letter not to change the commander-in-chief. They warned that his decision threatened Russia and the dynasty with grave consequences."
+  - "The Tsar had no experience of command, so the actual direction of operations rested with his chief of staff, General Mikhail Alekseyev. The Grand Duke became Viceroy of the Caucasus."
+  - "The ministers' warnings proved accurate: from then on the Tsar was personally responsible for every defeat and stayed far from the capital. In Petrograd the influence of the Empress and Rasputin over appointments grew."
 ---
 
 On 5 September 1915 (23 August by the Julian calendar) Tsar [Nicholas II](/postacie/mikolaj-ii) arrived at the headquarters, the Stavka, near [Mogilev](https://pl.wikipedia.org/wiki/Mohylew) and himself assumed supreme command of the Russian army. He replaced Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz), who had been commander-in-chief [since the beginning of the war](/wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej). The new commander-in-chief's chief of staff was General [Mikhail Alekseyev](/postacie/michail-aleksiejew), until then commander of the Western Front.

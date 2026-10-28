@@ -10,6 +10,11 @@ dayOrder: 1
 tags: [Francja, Niemcy, wyścig do morza, Arras]
 milestone: true
 draft: false
+brief:
+  - "1 października 1914 roku trzy korpusy niemieckiej 6 Armii uderzyły między Arras a Douai. Brytyjska kronika wojny datuje bitwę pod Arras, najcięższą fazę walk w Artois, na 1–4 października."
+  - "Joffre chciał obejść niemieckie skrzydło siłami gen. Louisa de Maud'huy, a Falkenhayn nakazał 6 Armii księcia Rupprechta Bawarskiego natarcie pod Arras. Obie strony miały ten sam zamiar, tylko w przeciwnym kierunku."
+  - "Niemcy uprzedzili francuski atak. 77 Dywizja gen. Barbota, wyładowana z pociągów dzień wcześniej, odparła pierwsze uderzenie pod Monchy-le-Preux, ale musiała cofać się w stronę Arras, osłaniając wyładunek X Korpusu."
+  - "Francuski plan obejścia okazał się nie do wykonania i Maud'huy musiał bronić samego Arras. Wsie na wschód od miasta odbili dopiero Brytyjczycy w kwietniu 1917 roku."
 ---
 
 1 października 1914 roku rozpoczęła się [bitwa pod Arras](https://pl.wikipedia.org/wiki/Bitwa_pod_Arras_(1914)). Tego dnia na odcinku między [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) a Douai niemal jednocześnie weszły do walki trzy korpusy niemieckiej 6 Armii. Natrafiły na francuskie zgrupowanie generała Louisa de Maud'huy, które samo szykowało się do natarcia. Zamiast obejść skrzydło przeciwnika, Francuzi musieli bronić Arras.

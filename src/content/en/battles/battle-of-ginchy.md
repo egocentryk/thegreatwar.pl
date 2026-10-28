@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Fritz von Below]
 result: British victory. The 16th (Irish) Division took Ginchy and held it against German counter-attacks, but the attacks on the neighbouring sectors achieved little and the Quadrilateral redoubt remained in German hands.
 source: bitwa-pod-ginchy
-sourceHash: 6e7a31de6054e14cc320dd8d57a8a590f69ac1db
+sourceHash: cc49a0a1d46bd405764f89f559977063b689bd13
+brief:
+  - "On 9 September 1916, during the Battle of the Somme, the British Fourth Army made a one-day attack on Ginchy, a village at the highest point of the ridge overlooking the German third position."
+  - "From 3 September the 7th Division had broken into the ruins of Ginchy three times and been driven out three times. The attacks were too weak, and machine guns near Delville Wood enfiladed them."
+  - "At 4.45 p.m. the 16th (Irish) Division, made up of volunteers from Irish nationalist circles, attacked. Its 48th Brigade took the village that same evening, captured about two hundred prisoners and beat off counter-attacks."
+  - "On the flanks the attack failed: the Quadrilateral redoubt remained in German hands and fell only on 18 September. The Irish division lost about 40 per cent of its strength on 1–10 September."
+  - "The capture of Ginchy gave the British the ridge from Leuze Wood to Delville Wood and a base for the attack of 15 September. For Ireland the battle became one of the most important places of memory of the First World War."
 ---
 
 The Battle of Ginchy was a short, one-day attack by the British Fourth Army during the [Battle of the Somme](/bitwy/bitwa-nad-somma). The village of [Ginchy](https://pl.wikipedia.org/wiki/Ginchy) stood at the highest point of the ridge the British had been fighting for since mid-July, and it dominated the surrounding country. From 3 September the British 7th Division had broken into its ruins three times and been driven out three times. On 9 September at 4.45 p.m. the 16th (Irish) Division, made up of volunteers from Irish nationalist circles, attacked on a broad front from Leuze Wood to Delville Wood, with the London 56th Division beside it. The Irish brigade that attacked the village itself took it that same evening, captured about two hundred prisoners and beat off German counter-attacks during the night. Elsewhere the attack failed. The capture of Ginchy gave the British the whole ridge from Leuze Wood to Delville Wood and a good base for the great attack of 15 September.

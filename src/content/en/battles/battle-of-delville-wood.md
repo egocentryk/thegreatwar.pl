@@ -9,7 +9,13 @@ sides:
     commanders: [Fritz von Below, Max von Gallwitz, Friedrich Sixt von Armin]
 result: British victory. After seven weeks of fighting the wood and the village of Longueval remained in their hands, opening the way for the September attacks on the Somme. Both sides suffered heavy losses.
 source: bitwa-o-las-delville
-sourceHash: 80dbbc5d6a8e77b311769593c1d13bb47eaa7c56
+sourceHash: 2a267763fa1b50fe71141e2fb7a5c479640aedad
+brief:
+  - "The Battle of Delville Wood lasted from 15 July to 3 September 1916 and was one of the bloodiest and longest engagements of the Battle of the Somme. It was fought for a copse of less than 65 hectares on the eastern edge of Longueval."
+  - "The wood adjoined Longueval and overlooked the village. After the British attack of 14 July 1916 the village and the wood formed a narrow salient which the German artillery could shell from three sides."
+  - "On 15 July the wood was taken by the 1st South African Infantry Brigade of Brigadier-General Henry Lukin. For six days and five nights it beat off one German counter-attack after another under heavy shellfire."
+  - "According to Buchan, on 14 July the brigade numbered 121 officers and 3,032 other ranks, and about 750 men assembled in Happy Valley after the battle. All officers of the 2nd and 3rd Battalions who went into the wood were killed, wounded or captured."
+  - "Further British divisions drove the Germans out of the wood at the end of August, and their last counter-attack was repulsed at the beginning of September. For South Africa Delville Wood became the symbol of its part in the First World War."
 ---
 
 The Battle of Delville Wood was one of the bloodiest and longest engagements of the [Battle of the Somme](/bitwy/bitwa-nad-somma). It was fought for a copse of less than 65 hectares on the eastern edge of the village of [Longueval](https://pl.wikipedia.org/wiki/Longueval), which after the British attack of 14 July 1916 had become the tip of a narrow salient in the German lines. On 15 July the wood was taken by the 1st South African Infantry Brigade of Brigadier-General Henry Lukin. For six days and five nights it held out there under fire from three sides against one German division after another, and came out decimated. Further British divisions then fought for the wood and the neighbouring village. The Germans were finally driven out of the wood only at the end of August, and their last counter-attack was repulsed at the beginning of September. British soldiers called the place Devil's Wood, and for South Africa it became the symbol of its part in the First World War.

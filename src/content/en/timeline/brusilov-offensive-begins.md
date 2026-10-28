@@ -2,7 +2,13 @@
 title: Brusilov offensive begins
 summary: On 4 June 1916 Russian guns opened fire from the Styr to Czernowitz. The Brusilov offensive had begun, and on the Dniester the Russians broke through at once.
 source: poczatek-ofensywy-brusilowa
-sourceHash: e7d420345c3183ff629abf5214c19990b0f2cae9
+sourceHash: 280ae44c85837d5cca898cf781ef1d7b42830e14
+brief:
+  - "On 4 June 1916 General Aleksei Brusilov's Russian South-Western Front began a great offensive against Austria-Hungary. The Russian artillery opened fire from the Styr to Czernowitz."
+  - "Brusilov did not want to repeat the mistakes of Lake Naroch, so each of his armies prepared its own breakthrough. The enemy did not know where the main blow would fall."
+  - "In Volhynia Kaledin's 8th Army mainly bombarded, wrecking the Austro-Hungarian positions, while near Tarnopol the 11th Army attacked to pin down the enemy. The assault at Olyka was set for the next day."
+  - "On the Dniester General Platon Lechitsky's 9th Army at once broke through the front of Pflanzer-Baltin's Austro-Hungarian 7th Army. The Russians penetrated 5 kilometres deep into the Austrian positions."
+  - "The next day Kaledin's infantry broke through the 4th Army's defences, and on 7 June the Russians entered Lutsk. So began the offensive that brought the Russian army its greatest victory of the war."
 ---
 
 On 4 June 1916 (22 May by the Julian calendar then used in Russia) the Russian South-Western Front began a great offensive against Austria-Hungary. At dawn the Russian batteries opened fire along the whole front, from the [Styr](https://pl.wikipedia.org/wiki/Styr) in Volhynia to [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce) in Bukovina. The Austrian official history writes that on the most important sectors the bombardment reached an intensity the Eastern Front had never yet known. That day all four armies of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) began their attack: in Volhynia with a bombardment intended to prepare the assault for the following day, near Tarnopol and on the Dniester with infantry attacks as well. On the Austro-Hungarian side it happened to be the 60th birthday of Archduke [Friedrich](https://pl.wikipedia.org/wiki/Fryderyk_Habsburg), the nominal commander-in-chief of the army.

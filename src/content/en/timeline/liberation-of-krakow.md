@@ -2,7 +2,13 @@
 title: Liberation of Kraków
 summary: On 31 October 1918 Polish soldiers of the Austro-Hungarian army disarmed the Kraków garrison without a shot. The Austrian command handed power to the Poles.
 source: wyzwolenie-krakowa
-sourceHash: 71292f4f7c450f5635570ed5a29cf35d03fcfa29
+sourceHash: cae62c3564f4a9336cdaf4626f55c3ef5d494567
+brief:
+  - "On 31 October 1918 Polish soldiers of the Austro-Hungarian army and conspirators disarmed the barracks in Podgórze without a single shot and by midday had taken control of the centre of Kraków."
+  - "On 28 October Polish deputies chaired by Wincenty Witos set up the Polish Liquidation Commission in Kraków, but the declaration remained on paper and Colonel Bolesław Roja held back the order to rise."
+  - "On hearing of Czechoslovak independence Lieutenant Antoni Stawarz did not wait: his detachment took the station at Płaszów, and in the morning he entered the Kalwaryjska Street barracks and disarmed the astonished Austrians."
+  - "At about 11.30 a.m. the Austrian commandant, General Siegmund von Benigni, gave way, and the Polish flag was hoisted on the Town Hall Tower. By the afternoon the Polish Liquidation Commission was exercising power in the city."
+  - "Kraków liberated itself, through the efforts of local soldiers and conspirators. The ease of the coup was not repeated in Lwów, which Ukrainian soldiers seized during the night before 1 November."
 ---
 
 On 31 October 1918 Kraków passed into Polish hands. Polish soldiers of the [Austro-Hungarian army](https://pl.wikipedia.org/wiki/Armia_Austro-Węgier) and conspirators disarmed the barracks in Podgórze early in the morning, marched across the Vistula and by midday had taken control of the city centre without firing a single shot. At about half past eleven the Austrian military command concluded that it had nothing to defend itself with and handed over power. The white-and-red flag was hoisted on the town hall tower. The former Polish capital was one of the first cities that, as the Habsburg monarchy disintegrated, threw off foreign rule by their own efforts, before anyone in Vienna, Warsaw or Paris could decide their fate.

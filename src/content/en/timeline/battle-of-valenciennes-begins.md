@@ -2,7 +2,13 @@
 title: Battle of Valenciennes begins
 summary: On 1 November 1918 the Canadians took Mont Houy near Valenciennes in under an hour, supported by fire such as no other brigade had ever had.
 source: poczatek-bitwy-pod-valenciennes
-sourceHash: 07d391c198a9cc32e67617483046d0beb0b5a715
+sourceHash: 4d31784d46d07c9834b3ed828d5731a6242326c5
+brief:
+  - "At 5.15 a.m. on 1 November 1918 the Canadian 10th Brigade attacked the wooded hill of Mont Houy south of Valenciennes, while the British divisions of XXII and XVII Corps advanced alongside it."
+  - "The Germans had anchored their wing on the Scheldt Canal, and shelling the town was forbidden because of French civilians. Valenciennes had to fall before the great attack, to cover its left flank."
+  - "The single-brigade attack was supported by more than 300 barrels firing on the Germans from the front, flank and rear. The hill, for which the Scots had fought in vain, fell in under an hour."
+  - "Sergeant Hugh Cairns of the 46th Battalion took post after post and forced dozens of Germans to surrender. He died of wounds on 2 November, and his Victoria Cross was the last awarded to a Canadian in this war."
+  - "The 12th Brigade crossed the canal from the west and broke into the town. The Canadians took 1,400 prisoners for very few losses, and the British beat off a counter-attack backed by captured tanks."
 ---
 
 On 1 November 1918 at 5.15 a.m. the Canadian 10th Brigade attacked the wooded hill of Mont Houy south of [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes). Alongside it the British divisions of XXII and XVII Corps advanced on a front from the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) Canal to the village of Artres on the Rhonelle. The hill, for which the Scots had fought in vain a few days earlier, fell in under an hour. By evening the Canadians stood in the suburbs of the town, and their second brigade had crossed the canal from the west and broken into Valenciennes, which the Germans had occupied [since 25 August 1914](/niemcy-zajmuja-valenciennes).

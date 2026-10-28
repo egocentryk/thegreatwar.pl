@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "21 marca 1918 roku o 4.40 ponad sześć tysięcy niemieckich dział otworzyło ogień na froncie od Croisilles po Oise. Tak zaczęła się operacja Michael, pierwsza z wielkich ofensyw Ludendorffa."
+  - "Ludendorff chciał wygrać wojnę, zanim do Francji dotrą masy Amerykanów. Po pokoju z Rosją Niemcy zebrali 63 dywizje, a naprzeciw brytyjskiej 5 Armii Gougha stanęło ich około czterdziestu trzech."
+  - "Po pięciogodzinnym ostrzale, zaplanowanym metodą Bruchmüllera, niemiecka piechota ruszyła w gęstej mgle. Oddziały szturmowe omijały reduty, a brytyjskie placówki nie widziały ani siebie nawzajem, ani nieprzyjaciela."
+  - "Do wieczora Niemcy przeszli przez prawie całą przednią strefę obrony 5 Armii i wdarli się w główną. Brytyjczycy stracili około 38,5 tysiąca ludzi, w tym około 21 tysięcy jeńców, a Niemcy podobnie."
+  - "Był to drugi najgorszy dzień w historii armii brytyjskiej. Po raz pierwszy od 1914 roku na froncie zachodnim w ciągu jednego dnia przerwano obronę przygotowaną w głąb."
 ---
 
 21 marca 1918 roku, w czwartek, o 4.40 rano na froncie długości około 70–80 kilometrów, od Croisilles na południowy wschód od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) po rzekę [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) pod La Fère, otworzyło ogień ponad sześć tysięcy niemieckich dział i kilka tysięcy moździerzy okopowych. Tak zaczęła się operacja Michael, pierwsza z wielkich ofensyw, którymi [Erich Ludendorff](/postacie/erich-ludendorff) chciał wygrać wojnę, zanim do Francji dotrą masy żołnierzy amerykańskich. Po pięciu godzinach ostrzału niemiecka piechota ruszyła w gęstej mgle na brytyjską 5 Armię generała [Huberta Gougha](/postacie/hubert-gough) i prawe skrzydło 3 Armii generała [Juliana Bynga](/postacie/julian-byng). Do wieczora przeszła przez prawie całą przednią strefę obrony Gougha i wdarła się w główną. Był to drugi najgorszy dzień w historii armii brytyjskiej, po [1 lipca 1916 roku](/pierwszy-dzien-bitwy-nad-somma): Brytyjczycy stracili około 38,5 tysiąca ludzi, w tym około 21 tysięcy jeńców. Godziny podajemy za brytyjską historią oficjalną.

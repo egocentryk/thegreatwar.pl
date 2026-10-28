@@ -9,7 +9,13 @@ sides:
     commanders: [Erich von Falkenhayn, Fevzi Pasha, Ali Fuad Bey]
 result: British victory. On 8 December the British took the Turkish defences west of Jerusalem, that night the Turks abandoned the city, and on 9 December the mayor surrendered it without a fight.
 source: zdobycie-jerozolimy
-sourceHash: 271f12aaa13a5616bd96c24ab1feef234060ec33
+sourceHash: 062c8245716d2d946c6a4fef278b6d9d988ac9f5
+brief:
+  - "The capture of Jerusalem, from 7 to 9 December 1917, ended General Sir Edmund Allenby's autumn campaign in Palestine. The fighting was conducted by Lieutenant-General Sir Philip Chetwode's XX Corps."
+  - "Chetwode concluded that the city could not be cut off from the north and decided to strike closer to it. The troops had detailed orders to respect the holy places, and Lloyd George wanted Jerusalem for Christmas."
+  - "On 8 December, in pouring rain, two divisions surprised the Turks in their trenches west of the city, while Mott's Detachment came up from the south. The attack, however, halted short of the suburbs."
+  - "During the night the defenders panicked and left the city. On the morning of 9 December the mayor came out with a white flag and searched long for someone to accept the surrender, until Major-General John Shea did."
+  - "The Holy City passed into British hands without street fighting or damage to any place of worship, ending four hundred years of Ottoman rule. On 11 December Allenby entered Jerusalem on foot."
 ---
 
 The capture of [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima) ended General Sir [Edmund Allenby](/postacie/edmund-allenby)'s autumn campaign in Palestine. After a failed attempt to outflank the city from the north, the British shifted their effort closer to it. On 8 December 1917, in pouring rain, two divisions of Lieutenant-General Sir Philip Chetwode's XX Corps surprised the Turks in their trenches west of the city, while a third came up from the south along the road from [Hebron](https://pl.wikipedia.org/wiki/Hebron). The attack halted short of the suburbs, but during the night the defenders panicked and abandoned the city. On the morning of 9 December the mayor of Jerusalem came out with a white flag to meet the British and spent a long time looking for someone who would accept his surrender. The Holy City of three religions passed into British hands without fighting in its streets and without damage to a single place of worship.

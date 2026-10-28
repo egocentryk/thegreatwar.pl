@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, wojna pozycyjna]
 milestone: true
 draft: false
+brief:
+  - "17 kwietnia 1915 roku o 19.05 brytyjscy saperzy odpalili miny pod niemieckimi okopami na Wzgórzu 60 koło Zillebeke, na południowy wschód od Ypres. Była to pierwsza duża brytyjska operacja minowa na froncie zachodnim."
+  - "Wzgórze, usypane z ziemi przy budowie kolei, dawało widok na Zillebeke i Ypres. Górnicy z kompanii tunelowych Royal Engineers od marca kopali pod nim chodniki długie na ponad 90 metrów."
+  - "Zaraz po wybuchach piechota brytyjskiej 5 Dywizji wbiegła do lejów i w ciągu kilku minut opanowała szczyt, tracąc według historii oficjalnej tylko siedmiu ludzi."
+  - "Niemcy kontratakowali i ostrzeliwali wzgórze z trzech stron. 13 Brygada straciła w ciągu trzech dni 1362 ludzi, a obie strony oskarżały się wzajemnie o użycie gazu."
+  - "Wzgórze stało się dla Brytyjczyków kosztownym występem. 5 maja Niemcy odzyskali szczyt po ataku z użyciem gazu, a pod wzgórzem przez dwa lata toczyła się podziemna wojna."
 ---
 
 17 kwietnia 1915 roku o 19.05 ziemia na południowy wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper) zatrzęsła się od kilku potężnych wybuchów. Brytyjscy saperzy odpalili miny podłożone w tunelach pod niemieckimi okopami na Wzgórzu 60, niewielkim wzniesieniu koło wsi [Zillebeke](https://pl.wikipedia.org/wiki/Zillebeke). Zaraz potem do lejów ruszyła piechota brytyjskiej 5 Dywizji i w ciągu kilku minut opanowała szczyt, tracąc zaledwie kilku ludzi. Była to pierwsza duża brytyjska operacja minowa na froncie zachodnim. Utrzymanie zdobytego wzgórza kosztowało jednak znacznie więcej niż jego zdobycie.

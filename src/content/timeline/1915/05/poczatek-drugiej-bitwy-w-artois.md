@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Francja, Niemcy, Ferdinand Foch, Arras]
 milestone: true
 draft: false
+brief:
+  - "9 maja 1915 roku o 10 rano francuska 10 Armia generała Victora d'Urbala uderzyła na północ od Arras, na wzgórza Vimy. Zaczęła się druga bitwa w Artois."
+  - "Ofensywę zaplanował generał Ferdinand Foch, by wykorzystać przerzucanie niemieckich dywizji na wschód i pomóc Rosjanom. Francuska artyleria metodycznie burzyła niemieckie okopy przez sześć dni."
+  - "Dywizja Marokańska z korpusu generała Philippe'a Pétaina w niecałe dwie godziny dotarła na wzgórze 140, najwyższy punkt grzbietu. W Legii Cudzoziemskiej walczyła polska kompania bajończyków."
+  - "Odwody stały zbyt daleko, a Niemcy wzięli wysunięte oddziały w krzyżowy ogień. Po południu Francuzi musieli zejść z grzbietu, a na skrzydłach natarcie załamało się niemal od razu."
+  - "Niemcy szybko przerzucili pod Vimy odwody i zaskoczenia już nie było. Zaczęły się zacięte walki o pojedyncze wsie i wzgórza, które miały trwać ponad pięć tygodni."
 ---
 
 9 maja 1915 roku o 10 rano francuska 10 Armia generała Victora d'Urbala ruszyła do natarcia na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Celem były wzgórza [Vimy](https://pl.wikipedia.org/wiki/Vimy), z których Niemcy od [jesieni 1914 roku](/bitwy/pierwsza-bitwa-w-artois) obserwowali całą okolicę. Tak zaczęła się druga bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), największa aliancka ofensywa na zachodzie wiosną 1915 roku. Tego samego dnia rano, kilkadziesiąt kilometrów dalej na północ, [Brytyjczycy zaatakowali grzbiet Aubers](/brytyjczycy-atakuja-grzbiet-aubers). Pierwsze godziny przyniosły Francuzom sukces, jakiego na froncie zachodnim nie widziano od miesięcy.

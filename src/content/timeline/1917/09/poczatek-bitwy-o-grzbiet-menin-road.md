@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "20 września 1917 roku o 5.40 jedenaście dywizji brytyjskiej 2 i 5 Armii, w tym dwie australijskie, ruszyło na wschód od Ypres do trzeciego wielkiego natarcia trzeciej bitwy pod Ypres."
+  - "Po raz pierwszy prowadził je generał Herbert Plumer, który przez trzy tygodnie gromadził działa i amunicję i wyznaczył piechocie skromne, płytkie cele."
+  - "Australijczycy szli tuż za potężnym wałem ogniowym i w niespełna pół godziny zdobyli Glencorse Wood i Nonne Bosschen, miejsca sierpniowych walk, a potem okopali się na skraju Polygon Wood."
+  - "Niemieckie dywizje przeciwnatarcia przez wiele godzin przedzierały się przez pole lejów pod ostrzałem kierowanym przez lotników. Do zmroku wszystkie przeciwnatarcia zostały odparte."
+  - "Brytyjczycy wzięli ponad 3 tysiące jeńców, a Niemcy w kilka godzin stracili teren, którego bronili od 31 lipca. Plumer od razu zaczął szykować następny skok."
 ---
 
 20 września 1917 roku o 5.40, gdy niebo na wschodzie dopiero się różowiło, artyleria brytyjskiej 2 i 5 Armii otworzyła ogień na froncie długości około 13 kilometrów, od kanału Ypres–Comines po linię kolejową do Staden. Jedenaście dywizji, w tym dwie australijskie, ruszyło na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper) do trzeciego wielkiego natarcia [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Po raz pierwszy prowadził je generał [Herbert Plumer](/postacie/herbert-plumer), który przez trzy tygodnie gromadził działa i amunicję i wyznaczył piechocie skromne, płytkie cele. Wieczorem okazało się, że metoda zadziałała. Na płaskowyżu Gheluvelt, przy drodze z Ypres do [Menin](https://pl.wikipedia.org/wiki/Menen), Australijczycy zdobyli lasy Glencorse Wood i Nonne Bosschen i okopali się na skraju Polygon Wood, a niemieckie odwody, które próbowały ich stamtąd zepchnąć, utonęły w ogniu artylerii.

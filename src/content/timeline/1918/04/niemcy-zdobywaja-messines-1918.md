@@ -10,6 +10,12 @@ dayOrder: 5
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Związek Południowej Afryki]
 milestone: true
 draft: false
+brief:
+  - "10 kwietnia 1918 roku niemiecka 4 Armia generała Friedricha Sixta von Armina uderzyła we mgle na północ od Armentières, dzień po przełamaniu frontu portugalskiego przez 6 Armię."
+  - "Brytyjski IX Korpus był słaby: jego trzy dywizje straciły w marcu nad Sommą ponad połowę ludzi, a uzupełnienia składały się głównie z dziewiętnastolatków."
+  - "Niemcy przeszli przez Lys, zajęli Ploegsteert i większą część lasu Ploegsteert, a 17 Rezerwowa Dywizja zdobyła Messines, miasteczko na grzbiecie na południe od Ypres."
+  - "Wieczorem Brygada Południowoafrykańska, licząca około 1300 ludzi, w kontrataku przeszła na chwilę przez ruiny Messines, ale musiała się cofnąć na linię tuż na zachód od miasteczka."
+  - "Nocą Brytyjczycy odbili Wytschaete i odtworzyli ciągłą, cienką linię, lecz Messines, las Ploegsteert i większość grzbietu zostały w rękach niemieckich."
 ---
 
 10 kwietnia 1918 roku niemiecka ofensywa we Flandrii objęła nowy odcinek. Dzień wcześniej 6 Armia generała Ferdinanda von Quasta [przełamała front portugalski](/poczatek-bitwy-nad-lys) na południe od [Armentières](https://pl.wikipedia.org/wiki/Armentières) i doszła do rzeki [Lys](https://pl.wikipedia.org/wiki/Leie). Teraz na północ od miasta ruszyła [4 Armia](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin). W porannej mgle jej dywizje przeszły przez Lys, zajęły Ploegsteert i większą część lasu Ploegsteert i zdobyły [Messines](https://pl.wikipedia.org/wiki/Mesen), miasteczko na grzbiecie na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Niemcy [zajęli je po raz pierwszy](/niemcy-zdobywaja-messines) 1 listopada 1914 roku. Niespełna rok przed kwietniowym natarciem, 7 czerwca 1917 roku, Brytyjczycy [odebrali ten grzbiet](/poczatek-bitwy-pod-messines-1917) po wybuchu dziewiętnastu wielkich min. Do wieczora brytyjski IX Korpus zatrzymał Niemców na zachodnich stokach, a Brygada Południowoafrykańska w kontrataku przeszła na chwilę przez ruiny Messines.

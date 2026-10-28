@@ -2,7 +2,13 @@
 title: Greece enters the war
 summary: On 27 June 1917 Venizelos took power in Athens. His government broke off relations with the Central Powers, and all of Greece went to war on the Entente side.
 source: grecja-przystepuje-do-wojny
-sourceHash: bb7ea4a909d07b201b85278248f42b5003e300c8
+sourceHash: 4b403768c4f981819bee3f1983a4d9f05720aad0
+brief:
+  - "On 27 June 1917 Eleftherios Venizelos entered Athens under the cover of French troops and was sworn in as prime minister before King Alexander."
+  - "From that day the declaration of war proclaimed on 23 November 1916 by the provisional government in Salonika was recognised as binding on the whole of Greece, which broke off relations with the Central Powers."
+  - "The sources date the individual acts differently: according to Falls the ministers were to ask for their passports on 28 June, while one American source gives 2 July for the declaration of war on Germany and Bulgaria."
+  - "The new government exiled royalist leaders, among them Dimitrios Gounaris and Ioannis Metaxas, to Corsica or the Aegean islands. The Allies were freed from the threat to the rear of the Salonika front."
+  - "Mobilisation proceeded with great difficulty, but a year later ten Greek divisions, some 300,000 men, were supporting the Allies in Macedonia. The National Schism, however, went on."
 ---
 
 On 27 June 1917 [Eleftherios Venizelos](/postacie/elefterios-wenizelos), who [had formed a government the day before](/wenizelos-premierem-grecji), entered [Athens](https://pl.wikipedia.org/wiki/Ateny) and was sworn in as prime minister. From that day, according to the British official history of the Macedonian campaign (Falls), the declaration of war proclaimed [on 23 November 1916](/rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii) by the provisional government in Salonika was officially recognised as binding on the whole of Greece. The British chronology of the war puts it the same way, also recording under 27 June the breaking off of diplomatic relations with Germany, Austria-Hungary and Turkey. A country that for almost three years had argued over whether to fight, and since the autumn of 1916 had had two governments, stood as a whole on the side of the [Entente](https://pl.wikipedia.org/wiki/Ententa).

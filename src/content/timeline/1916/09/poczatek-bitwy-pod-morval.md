@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Francja, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "25 września 1916 roku o 12.35 brytyjska 4 Armia generała Henry’ego Rawlinsona ruszyła nad Sommą do natarcia na wsie Morval, Lesbœufs i Gueudecourt."
+  - "Wsie miały paść już 15 września, ale natarcie utknęło, a deszcze i opóźnienia Francuzów trzy razy odkładały nowy atak. Foch i Haig uzgodnili, że obie armie uderzą razem, nie wcześniej niż w południe."
+  - "Cztery dywizje XIV Korpusu szły tuż za zaporą ogniową i w niespełna trzy godziny zdobyły Morval i Lesbœufs. Historia oficjalna uznała to za najbardziej udaną operację 4 Armii od połowy lipca."
+  - "Pod Gueudecourt natarcie 21 Dywizji załamało się przed nieprzeciętymi zasiekami, a Francuzi nie zdołali okrążyć Combles, bo Frégicourt się utrzymało."
+  - "Wieczorem niemieckie dowództwo oceniało swoje położenie jako groźne. Niemcy opuścili Combles w nocy i następnego dnia Combles i Gueudecourt były już w rękach sprzymierzonych."
 ---
 
 25 września 1916 roku, dokładnie rok po pierwszym dniu [bitwy pod Loos](/poczatek-bitwy-pod-loos), brytyjska 4 Armia generała [Henry’ego Rawlinsona](/postacie/henry-rawlinson) ruszyła do kolejnego wielkiego natarcia w [bitwie nad Sommą](/bitwy/bitwa-nad-somma). O 12.35, w samo południe pogodnego jesiennego dnia, piechota czterech dywizji XIV Korpusu wyszła z okopów za ścianą ognia własnej artylerii i w niespełna trzy godziny zdobyła dwie wsie na grzbiecie nad Sommą, [Morval](https://pl.wikipedia.org/wiki/Morval_(Pas-de-Calais)) i [Lesbœufs](https://pl.wikipedia.org/wiki/Lesbœufs). Brytyjska historia oficjalna nazwała to „pokrzepiającym doświadczeniem” i uznała natarcie za najbardziej udaną operację 4 Armii od połowy lipca. Na lewym skrzydle atak na trzecią wieś, [Gueudecourt](https://pl.wikipedia.org/wiki/Gueudecourt), załamał się jednak przed nieprzeciętymi zasiekami, a Francuzi na prawym skrzydle nie zdołali okrążyć [Combles](https://pl.wikipedia.org/wiki/Combles). Mimo to wieczorem niemieckie dowództwo oceniało swoje położenie jako groźne.

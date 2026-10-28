@@ -15,6 +15,12 @@ result: Zwycięstwo Rosji. Front austro-węgierski został przełamany na Wołyn
 authors: [Łukasz Skowroń]
 tags: [Rosja, Austro-Węgry, Niemcy, Aleksiej Brusiłow]
 milestone: true
+brief:
+  - "4 czerwca 1916 roku cztery armie Frontu Południowo-Zachodniego generała Aleksieja Brusiłowa uderzyły jednocześnie od Wołynia po Bukowinę. Było to największe zwycięstwo armii rosyjskiej w I wojnie światowej."
+  - "Ofensywa miała być tylko uderzeniem pomocniczym wobec natarcia Frontu Zachodniego Ewerta. Termin przyspieszyła austriacka ofensywa pod Asiago, po której Włosi błagali Rosjan o szybką pomoc."
+  - "Brusiłow kazał każdej armii przygotować własne natarcie na wybranym odcinku, by przeciwnik nie wiedział, gdzie spadnie główny cios. Piechota podkopała się blisko austriackich pozycji, a artyleria strzelała według dokładnego planu."
+  - "Rosjanie w kilka dni przerwali front pod Łuckiem i nad Dniestrem, zajęli Łuck, a potem Czerniowce i niemal całą Bukowinę. Według austriackiej historii oficjalnej Austro-Węgry straciły w czerwcu i lipcu 475 tysięcy ludzi."
+  - "Ofensywa uratowała Włochów, osłabiła Niemców pod Verdun i skłoniła Rumunię do wojny, ale Kowla ani Lwowa nie zdobyto. Ogromne straty wyczerpały ostatnie rezerwy armii carskiej i pogłębiły zmęczenie wojną."
 ---
 
 Ofensywa Brusiłowa była największym zwycięstwem armii rosyjskiej w I wojnie światowej i jednym z największych przełamań frontu w całej wojnie. 4 czerwca 1916 roku cztery armie [Frontu Południowo-Zachodniego](https://pl.wikipedia.org/wiki/Front_Południowo-Zachodni_(Imperium_Rosyjskie)) generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow) uderzyły jednocześnie na całej długości frontu, od Wołynia po Bukowinę. W ciągu kilku dni przerwały austro-węgierskie pozycje pod Łuckiem i nad Dniestrem i zajęły Łuck, a w ciągu kilku tygodni Czerniowce i niemal całą Bukowinę. Austro-Węgry straciły w czerwcu i lipcu prawie pół miliona żołnierzy, w tym ponad ćwierć miliona wziętych do niewoli lub zaginionych. Ofensywa, pomyślana jako uderzenie pomocnicze, uratowała Włochów, przyspieszyła koniec niemieckich natarć pod Verdun i skłoniła Rumunię do przystąpienia do wojny. Rosjanie nie zdołali jednak zdobyć węzła kolejowego w Kowlu, a w kolejnych, coraz krwawszych natarciach latem i jesienią stracili setki tysięcy ludzi.

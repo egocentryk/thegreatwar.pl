@@ -2,7 +2,12 @@
 title: Austrians capture Lovćen
 summary: On 10 January 1916 Austro-Hungarian infantry reached the summit of Lovćen, the Montenegrin mountain fortress above Kotor. The road to Cetinje lay open.
 source: austriacy-zdobywaja-lovcen
-sourceHash: 32e3eaab6c90cded52878805b54f3bc1b09b87a7
+sourceHash: 62f638a79d593e047031d6dde7502834e9c680ba
+brief:
+  - "On 10 January 1916 Austro-Hungarian infantry reached the summit of Lovćen, the Montenegrin mountain fortress above Kotor. The Austro-Hungarian communiqué announced it a day later, hence also the date of 11 January."
+  - "The attack of Ignaz Trollmann's XIX Corps began on 8 January with a massive bombardment from the Kotor fortress guns and warships. On 9 January the defenders lost all their heavy artillery."
+  - "The exhausted, hungry Montenegrin soldiers refused to make a night counter-attack. The next morning King Nicholas I gave way to his government, which wanted to ask the Austrians for an armistice."
+  - "The fall of Lovćen made Kotor safe on the landward side and opened the road to Cetinje. On 11 January the Montenegrins asked for a ceasefire, and Vienna demanded unconditional surrender."
 ---
 
 At dusk on 10 January 1916, fires lit on the summit of the [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) massif signalled that Austro-Hungarian infantry had reached the top of the mountain the Montenegrins called sacred. According to the Austrian official history, the first to get there were the leading detachments of Lieutenant-Colonel Törk's group of the 47th Infantry Division. The same day the last defenders of the Krstac pass, through which the serpentine road ran from [Kotor](https://pl.wikipedia.org/wiki/Kotor) to the country's capital, abandoned their positions under the fire of naval guns. A British chronology of the war records the taking of Lovćen under 10 January. The Austro-Hungarian communiqué announced it a day later, which is why some studies give the date as 11 January.

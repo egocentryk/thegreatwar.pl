@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Na północy alianci zdobyli Langemarck i posunęli 
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, Irlandia]
 milestone: true
+brief:
+  - "Bitwa pod Langemarck, toczona 16–18 sierpnia 1917 roku, była drugim wielkim natarciem trzeciej bitwy pod Ypres. Uderzyło osiem dywizji 5 Armii generała Huberta Gougha i francuski I Korpus."
+  - "Po dwóch tygodniach deszczów Gough nacierał znów na całym froncie armii, a jego artyleria nie zdołała zdusić niemieckich baterii na płaskowyżu Gheluvelt. Dywizje irlandzkie były wyczerpane i przetrzebione."
+  - "Na północy natarcie się udało: brytyjska 20 i 29 Dywizja zdobyły ruiny Langemarck, a Francuzi, brodząc przez zalane łąki, wzięli silnie umocniony przyczółek Drie Grachten."
+  - "Pod Frezenberg dywizje 16 (Irlandzka) i 36 (Ulsterska) wykrwawiły się przed betonowymi schronami, a na płaskowyżu Gheluvelt niemieckie przeciwnatarcia zepchnęły Brytyjczyków niemal na pozycje wyjściowe."
+  - "Bitwa pogłębiła kryzys zaufania do Gougha. 25 sierpnia Haig przekazał główne zadanie, zdobycie płaskowyżu Gheluvelt, 2 Armii generała Herberta Plumera."
 ---
 
 Bitwa pod Langemarck była drugim wielkim natarciem [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). 16 sierpnia 1917 roku o 4.45, po dwóch tygodniach deszczów i kilku odroczeniach, osiem dywizji brytyjskiej 5 Armii generała [Huberta Gougha](/postacie/hubert-gough) i francuski I Korpus uderzyły na niemiecką 4 Armię na froncie od drogi z [Ypres](https://pl.wikipedia.org/wiki/Ieper) do Menin po zalewiska nad IJzer. Na północnym skrzydle natarcie się udało: brytyjska 20 i 29 Dywizja zdobyły ruiny wsi [Langemarck](https://pl.wikipedia.org/wiki/Langemark), a Francuzi, brodząc przez zalane łąki, wzięli silnie umocniony przyczółek Drie Grachten. W centrum i na południu było inaczej. Dwie dywizje irlandzkie, 16 (Irlandzka) i 36 (Ulsterska), wykrwawiły się przed betonowymi schronami pod Frezenberg, a na płaskowyżu Gheluvelt Londyńczycy z 56 Dywizji i żołnierze 8 Dywizji, którzy rano przedarli się przez las Glencorse Wood i nad strumień Hanebeek, do wieczora zostali zepchnięci niemal na pozycje wyjściowe. Bitwa pogłębiła kryzys zaufania do Gougha i skłoniła feldmarszałka [Douglasa Haiga](/postacie/douglas-haig) do przekazania głównej roli w ofensywie generałowi Plumerowi.

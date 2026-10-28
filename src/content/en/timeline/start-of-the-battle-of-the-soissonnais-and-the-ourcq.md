@@ -2,7 +2,13 @@
 title: Start of the Battle of the Soissonnais and the Ourcq
 summary: On 23 July 1918 the British 15th and 34th Divisions, thrown in straight off the march, attacked with Mangin's army south of Soissons. They gained very little.
 source: poczatek-bitwy-w-soissonnais-i-nad-ourcq
-sourceHash: 5d7c06241e8fdae3d941f067b6be61603c7e96af
+sourceHash: f2957f556e369f34fd58d5192549ce659151ee33
+brief:
+  - "On 23 July 1918 two British divisions, the 15th (Scottish) and the 34th, attacked the western flank of the German salient on the Marne, on the plateaus south of Soissons, as part of General Mangin's French 10th Army."
+  - "The first impetus of Mangin's counter-offensive of 18 July was spent, so he brought in fresh divisions. The British went into battle the day after arriving at the front, knowing neither the ground nor the position of their own line."
+  - "The barrage fell behind the German machine-gun nests, and the French divisions on both sides did not move. The Scots at Buzancy advanced in places only about 150 metres."
+  - "Only the 34th Division's 102nd Brigade got as far as the Bois de Reugny. According to the British official history the day brought no other result, and the same was true of the whole 10th Army."
+  - "British historiography dates the Battle of the Soissonnais and the Ourcq from 23 July; both divisions fought in it for ten days. On 2 August the Germans gave up Soissons and fell back behind the Vesle."
 ---
 
 On 23 July 1918 two British divisions, the 15th (Scottish) and the 34th, went into the attack against the western flank of the German salient on the Marne, on the plateaus south of [Soissons](https://pl.wikipedia.org/wiki/Soissons). They fought as part of General [Charles Mangin's](/postacie/charles-mangin) French 10th Army, far from the rest of the British army, and went into battle the day after arriving at the front, after a night spent relieving exhausted American and French divisions. They knew neither the ground nor the position of their own line, and received their orders at the last moment. That day they gained very little, as did the French divisions fighting beside them. British historiography dates from 23 July the Battle of the Soissonnais and the Ourcq, in which both divisions fought for the next ten days, until the Germans gave up Soissons and fell back behind the Vesle.

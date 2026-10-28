@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Ferdinand von Quast]
 result: German victory. The Germans took Neuve-Église, the Ravelsberg ridge and Bailleul, but did not break through the front. The British fell back to the Meteren–Kemmel line, and the offensive was clearly losing momentum.
 source: bitwa-pod-bailleul
-sourceHash: ecbdc33e221773ea192ac2c5b325d92231743ae0
+sourceHash: 98740d5181f31994d9d3f853e54afe463882d83f
+brief:
+  - "From 13 to 15 April 1918 a dozen or so divisions of the German 6th and 4th Armies attacked the British IX Corps holding the low hills near Bailleul, from Meteren to Neuve-Église. It was part of the Battles of the Lys."
+  - "The Germans aimed at Bailleul and the Flanders hills that commanded the plain as far as Ypres. The defenders were British brigades bled white in March, with almost no reserves behind the front."
+  - "On 13 April General Nicholson's brigades gave up the salient in front of Bailleul, and on 14 April the Germans took Neuve-Église. That evening the German 6th Army reported that its attack had \"died away\"."
+  - "On the afternoon of 15 April the Germans took Mont de Lille, Crucifix Corner and the Ravelsberg ridge. The young soldiers of the 59th Division could not withstand the flank attack, and during the night the British abandoned Bailleul."
+  - "The loss of the town did not mean a breakthrough: the front fell back a few kilometres towards Kemmel, and the Germans advanced ever more slowly. Bailleul, with more than 13,000 inhabitants before the war, was reduced to rubble."
 ---
 
 The Battle of Bailleul was a fight for the belt of low hills that closes off the flat Lys valley in French Flanders from the north. After the first days of the German offensive known as Operation Georgette, the British front had bent here into a great salient. From 13 to 15 April 1918 a dozen or so divisions of the German 6th and 4th Armies attacked the positions of the British IX Corps, which was holding the knolls from Meteren to Neuve-Église. General Alexander Hamilton-Gordon's troops consisted largely of the remnants of brigades already bled white in March on the Somme and in the first days of the Battle of the Lys. For two days they beat off the attacks, although on 13 April they gave up the projecting salient in front of Bailleul and on 14 April the village of Neuve-Église. On the afternoon of 15 April, however, the Germans took the Ravelsberg ridge east of the town. The young soldiers of the newly arrived 59th Division could not withstand an attack from the flank, and during the night the British abandoned [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)). The town, since [October 1914](/brytyjczycy-zajmuja-bailleul) one of the largest British centres behind the front at Ypres, was reduced to rubble.

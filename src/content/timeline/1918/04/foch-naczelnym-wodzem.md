@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [Ferdinand Foch, Douglas Haig, Georges Clemenceau, Albert I]
 milestone: true
 draft: false
+brief:
+  - "14 kwietnia 1918 roku generał Ferdinand Foch otrzymał tytuł naczelnego wodza armii sojuszniczych we Francji, uzgodniony przez rządy francuski i brytyjski w wymianie listów. Tytuł nie dawał mu nowych uprawnień."
+  - "Droga do tytułu zaczęła się 26 marca w Doullens, gdzie Foch dostał koordynację działań armii, a 3 kwietnia w Beauvais powierzono mu kierownictwo strategiczne. Naczelni wodzowie zachowali władzę taktyczną."
+  - "Tego samego dnia w Abbeville Foch kategorycznie odmówił Haigowi zluzowania wyczerpanych brytyjskich dywizji, broniących się od pięciu dni we Flandrii. Chciał oszczędzać francuskie odwody."
+  - "Foch nie był generalissimusem w pełnym znaczeniu: nie mógł mianować obcych generałów, armia belgijska pozostała poza jego władzą, a każdy naczelny wódz mógł się odwołać do swojego rządu."
+  - "Uprawnienia Focha stopniowo rosły: 2 maja jego władza koordynacyjna objęła front włoski, latem otrzymał buławę marszałka Francji, a jesienią poprowadził armie sojusznicze do zwycięstwa."
 ---
 
 14 kwietnia 1918 roku generał [Ferdinand Foch](/postacie/ferdinand-foch) otrzymał tytuł „naczelnego wodza armii sojuszniczych we Francji” (Général en chef des Armées alliées en France). Rządy francuski i brytyjski uzgodniły go w wymianie listów, bez nowej konferencji. Tytuł nie dawał Fochowi nowych uprawnień, ale nazywał po imieniu to, co od trzech tygodni powoli się rodziło: po prawie czterech latach wojny armie sojusznicze na froncie zachodnim miały wspólnego wodza. Tego samego dnia Foch dał wyraz swojej władzy w sposób dla Brytyjczyków bolesny. Na naradzie w [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) odmówił marszałkowi [Douglasowi Haigowi](/postacie/douglas-haig) zluzowania wyczerpanych brytyjskich dywizji, które od pięciu dni broniły się przed niemiecką ofensywą we Flandrii.

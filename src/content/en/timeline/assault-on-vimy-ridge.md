@@ -2,7 +2,13 @@
 title: Assault on Vimy Ridge
 summary: On 9 April 1917, in a snowstorm, four Canadian divisions attacked Vimy Ridge. By evening they held almost all of it except the highest point, Hill 145.
 source: szturm-na-grzbiet-vimy
-sourceHash: d1747f393e9ab723f45b1d542f2734165baac8b7
+sourceHash: 5a03845416eadf2d4ce9ce9ea55e41cd4221aa1c
+brief:
+  - "On Easter Monday, 9 April 1917, the Canadian Corps attacked Vimy Ridge. For the first time all four Canadian divisions went into battle together."
+  - "The ridge had been fought over for two and a half years, and in 1915 the French twice tried to take it. Lieutenant-General Julian Byng planned the attack to the minute, and every battalion rehearsed its task."
+  - "The infantry advanced in a snowstorm close behind the creeping barrage, supported by 983 guns and mortars. On the right wing the Canadians passed through Thélus and went down the eastern slope above the Douai plain."
+  - "On the left wing the 4th Division failed to take Hill 145, the highest point of the ridge. German machine guns cut down half of the 87th Battalion's first wave."
+  - "In the first two days the Canadian Corps lost 7,707 men, but in a single day it took almost the whole ridge. Hill 145 fell on 10 April and the Pimple on 12 April."
 ---
 
 On 9 April 1917, Easter Monday, at 5.30 a.m., at the very moment the British Third Army went into the attack [at Arras](/poczatek-bitwy-pod-arras-1917), the Canadian Corps attacked Vimy Ridge to its north. For the first time in history all four Canadian divisions went into battle together, side by side, with soldiers from every province of the country. Before them lay a ridge that had been fought over for two and a half years: in 1915 the French [twice tried](/poczatek-drugiej-bitwy-w-artois) to take it and suffered enormous losses, and [in May 1916](/niemiecki-atak-na-grzbiet-vimy) the British lost some of their trenches here. Within a few hours the Canadians took almost the whole ridge and descended its eastern slope above the [Douai](https://pl.wikipedia.org/wiki/Douai) plain. By evening only the highest point, Hill 145, and the northern end of the ridge remained in German hands.

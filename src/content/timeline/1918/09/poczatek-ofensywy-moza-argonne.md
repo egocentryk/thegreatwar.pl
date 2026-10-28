@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Stany Zjednoczone, John Pershing, Francja, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "26 września 1918 roku o 5.30 rano dziewięć dywizji amerykańskiej 1 Armii gen. Johna Pershinga ruszyło między Mozą a Argonnami, a pięć minut wcześniej w Szampanii uderzyła francuska 4 Armia gen. Gouraud."
+  - "Ofensywa była pierwszym z serii uderzeń zaplanowanych przez marszałka Focha. Zaledwie dwa tygodnie po Saint-Mihiel na nowy odcinek przerzucono nocami około 600 tysięcy Amerykanów, osiągając zaskoczenie."
+  - "Natarcie wspierało około 2700 dział, 189 czołgów Renault i 821 samolotów. We mgle piechota przedzierała się przez zasieki i leje, a zaskoczeni Niemcy na większości odcinka bronili się słabo."
+  - "Najlepiej poszło na skrzydłach, ale w centrum niedoświadczona 79 Dywizja utknęła przed wzgórzem Montfaucon. Pod Cheppy ciężko ranny został ppłk George Patton."
+  - "Wieczorem cała pierwsza pozycja niemiecka była w rękach Amerykanów, którzy posunęli się o około 8 kilometrów. Montfaucon padł dopiero następnego dnia, a zaskoczenie się skończyło."
 ---
 
 26 września 1918 roku o 5.30 rano dziewięć dywizji amerykańskiej 1 Armii generała [Johna Pershinga](/postacie/john-pershing) wyszło z okopów między rzeką [Mozą](https://pl.wikipedia.org/wiki/Moza) a lesistym pasmem [Argonny](https://pl.wikipedia.org/wiki/Argonny), na północny zachód od Verdun. Pięć minut wcześniej na zachód od Argonny, w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), do natarcia ruszyła francuska 4 Armia generała Henriego Gouraud. Tak zaczęła się ofensywa nazwana przez Amerykanów ofensywą Moza-Argonne, a przez Francuzów bitwą w Szampanii i w Argonnach. Była to pierwsza z serii potężnych uderzeń, które marszałek [Ferdinand Foch](/postacie/ferdinand-foch) zaplanował na ostatnie dni września na całym froncie od Mozy po morze. Zaskoczeni Niemcy oddali w ciągu dnia całą pierwszą pozycję, a Amerykanie posunęli się w najlepszych miejscach o około 8 kilometrów. Nie zdołali jednak zdobyć wzgórza Montfaucon, kluczowego punktu niemieckiej obrony.

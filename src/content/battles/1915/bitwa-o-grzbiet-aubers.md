@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Brytyjczycy i Hindusi nie utrzymali żadnego skr
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "9 maja 1915 roku brytyjska 1 Armia generała Douglasa Haiga uderzyła na grzbiet Aubers, by wesprzeć francuską ofensywę w Artois. Bitwa trwała jeden dzień."
+  - "Haig chciał powtórzyć metodę spod Neuve-Chapelle: dwa zgrupowania i krótki, czterdziestominutowy ostrzał. Niemcy wyciągnęli jednak wnioski z marca i wzmocnili przedpiersia, zasieki i stanowiska karabinów maszynowych."
+  - "Na południu ogień karabinów maszynowych zatrzymał piechotę przed nieprzeciętymi zasiekami. Pod Fromelles kilka oddziałów wdarło się w niemieckie linie, ale nad ranem 10 maja ostatni ocaleli wrócili."
+  - "Według brytyjskiej historii oficjalnej 1 Armia straciła 9 maja 11 619 zabitych, rannych i zaginionych. Straty niemieckie były wielokrotnie mniejsze, a Niemcy mogli jeszcze tego wieczoru przerzucić odwody przeciw Francuzom."
+  - "Klęska ujawniła brak pocisków burzących. Publikacja „The Timesa” o braku pocisków wywołała kryzys amunicyjny, który doprowadził do powstania rządu koalicyjnego i ministerstwa amunicji z Davidem Lloydem George'em na czele."
 ---
 
 Bitwa o grzbiet [Aubers](https://pl.wikipedia.org/wiki/Aubers) była brytyjskim natarciem, które 9 maja 1915 roku miało wesprzeć wielką francuską ofensywę w [Artois](https://pl.wikipedia.org/wiki/Artois), zwaną [drugą bitwą w Artois](/bitwy/druga-bitwa-w-artois). 1 Armia generała [Douglasa Haiga](/postacie/douglas-haig) uderzyła dwoma zgrupowaniami na płaskiej równinie na zachód od niskiego grzbietu Aubers, mniej więcej tam, gdzie dwa miesiące wcześniej walczyła [pod Neuve-Chapelle](/bitwy/bitwa-pod-neuve-chapelle). Tym razem Niemcy byli przygotowani. Po czterdziestominutowym ostrzale, który niemal nie uszkodził ich umocnień, ogień karabinów maszynowych zatrzymał atakujących w ziemi niczyjej. Na północy kilka oddziałów wdarło się w niemieckie linie, ale do rana następnego dnia musiało się wycofać. Bitwa trwała jeden dzień i kosztowała Brytyjczyków i Hindusów ponad 11 tysięcy ludzi. Jej przebieg ujawnił brak pocisków burzących, co wkrótce stało się w Wielkiej Brytanii sprawą polityczną.

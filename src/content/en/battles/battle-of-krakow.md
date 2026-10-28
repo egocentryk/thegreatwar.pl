@@ -11,7 +11,13 @@ sides:
     commanders: [Nikolai Ivanov, Platon Lechitsky, Alexei Evert, Radko Dimitriev]
 result: Inconclusive. The Austrians halted the Russians in the forefield of Kraków but failed to drive them away from the fortress. The Russians made no attempt to storm it.
 source: bitwa-pod-krakowem
-sourceHash: 239f5dfde12c2192eb8c04f008e916dfcd322899
+sourceHash: bfa44085ce87ea19e1f52f4ee123640190ab9bd9
+brief:
+  - "The Battle of Kraków, also called the first battle for Kraków, was fought in the second half of November 1914 on the northern and eastern forefield of the fortress of Kraków."
+  - "After their defeat on the Vistula the Austro-Hungarian armies fell back to Kraków, and the Russian 9th Army of General Lechitsky came up to the fortress. The Russians meant only to blockade it, not storm it."
+  - "On 16 November the Austro-Hungarian 4th Army sallied from the fortress and struck the left wing of the 9th Army. At Krzywopłoty two Legion battalions held off Russian attacks for two days."
+  - "The Russians moved corps of the 3rd Army across the Vistula and began pushing the Austrians back. On 25 November the attack was broken off, and by 28 November the 4th Army was back under the cover of the forts."
+  - "Historians judge the outcome differently, but Kraków remained in Austrian hands. The Russian threat from the south-east led at the beginning of December to the Battle of Limanowa."
 ---
 
 The [Battle of Kraków](https://pl.wikipedia.org/wiki/Pierwsza_bitwa_o_Kraków), also called the first battle for Kraków, was fought in the second half of November 1914 on the northern and eastern forefield of the [fortress of Kraków](https://pl.wikipedia.org/wiki/Twierdza_Kraków). After their defeat on the Vistula the Austro-Hungarian armies fell back to the city itself, and the Russian armies followed them towards Silesia and Kraków. On 16 November the Austro-Hungarian [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) sallied from the fortress and struck the Russians in the flank. For ten days bloody fighting raged on the frozen fields between Kraków, Proszowice and Słomniki, involving several hundred thousand soldiers on both sides. Neither side won a decisive success. The Russians did not take Kraków, and the Austrians did not drive them away from the fortress.

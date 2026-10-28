@@ -2,7 +2,13 @@
 title: Armistice of Compiègne
 summary: At dawn on 11 November 1918 Germany signed an armistice with the Entente in Foch's railway carriage in the Forest of Compiègne. At 11 a.m. the guns fell silent.
 source: rozejm-w-compiegne
-sourceHash: 9aa6a6ced818a38acbc63eda90a18c14dc7e5618
+sourceHash: abc32ec4f625221986cce67dc0cce0f1b102b950
+brief:
+  - "On 11 November 1918, a few minutes after five in the morning, in Marshal Foch's carriage in the Forest of Compiègne, Matthias Erzberger and three other German delegates signed an armistice with the Entente and the United States."
+  - "The delegation arrived on 8 November and was read the terms, and Foch refused to extend the 72-hour deadline. Meanwhile revolution broke out in Berlin, and the government's consent to sign came on the evening of 10 November."
+  - "The agreement had 34 articles: Germany had to evacuate Belgium, France and Alsace-Lorraine within 15 days, leave the left bank of the Rhine, surrender guns, aircraft and submarines, and renounce the Treaty of Brest-Litovsk."
+  - "Hostilities ceased at 11 a.m. French time, but fighting went on to the last moment. The Canadian George Lawrence Price was killed at 10.58, and a minute later the American Sergeant Henry Gunther."
+  - "The armistice did not formally end the war, but it deprived Germany of the ability to resume it. The state of war was ended only by the Treaty of Versailles, and 11 November became a day of remembrance for the fallen."
 ---
 
 On 11 November 1918, a few minutes after five in the morning, in the office carriage of Marshal [Ferdinand Foch](/postacie/ferdinand-foch)'s train, standing on a siding in the [Forest of Compiègne](https://pl.wikipedia.org/wiki/Las_Compiègne) near [Rethondes](https://pl.wikipedia.org/wiki/Rethondes) station, the representatives of Germany signed an agreement on the cessation of hostilities with the Entente powers and the United States. For the Allies, the signatories were Foch, Supreme Commander of the Allied armies, and the British First Sea Lord, Admiral Rosslyn Wemyss. For Germany, they were the state secretary [Matthias Erzberger](/postacie/matthias-erzberger), the diplomat Count Alfred von Oberndorff, Major General Detlof von Winterfeldt and Captain Ernst Vanselow. According to Foch's report, agreement on the final text was reached at 5.05 a.m. and the signatures were affixed at 5.10. Other accounts give times from 5.12 to 5.20, but the parties agreed that five o'clock would be taken as the time of signing. Six hours later, at 11 a.m. French time (noon in Germany), hostilities ceased along the fronts. After four years, three months and a few days, the Great War in the west was over.

@@ -2,7 +2,13 @@
 title: Battle of Pozières Ridge begins
 summary: On the night of 23 July 1916 the 1st Australian Division took most of Pozières on the Somme, the only success of the great British attack that night.
 source: poczatek-bitwy-o-grzbiet-pozieres
-sourceHash: 21726049b21e2e129d4c45ddfce88f1c2d64c3e0
+sourceHash: 3f5ea48830b043433d53f2649f405ade729417b8
+brief:
+  - "On the night of 23 July 1916, half an hour after midnight, the 1st Australian Division attacked the heavily fortified village of Pozières on the ridge beside the Albert–Bapaume road and took it within two hours."
+  - "The British had several times attacked Pozières without success, so Douglas Haig handed the task to General Hubert Gough's Reserve Army, which sent in the 1st Australian Division."
+  - "The attack was preceded by a night bombardment visible from nearly 30 kilometres away. The Australians dug in along the main street, beat off the first German counter-attack and next night took the northern part of the village."
+  - "The great attack of the British Fourth Army, made the same night from Pozières to Guillemont, broke down everywhere else. Haig decided from then on to wear the Germans down with a series of smaller attacks."
+  - "The Germans wanted Pozières back at any cost and turned the village into a field of shell holes. In four days of fighting the 1st Division lost 5,285 men, and the Australians faced another six weeks of fighting."
 ---
 
 On Sunday 23 July 1916, half an hour after midnight, the infantry of the 1st Australian Division went in to attack the village of [Pozières](https://pl.wikipedia.org/wiki/Pozières) in Picardy, which lay on a ridge beside the road from Albert to Bapaume. Over the previous three weeks of the [Battle of the Somme](/bitwy/bitwa-nad-somma) the British had several times attacked this heavily fortified point without success. The Australians took it within two hours. By dawn they had dug in along the main street, in the morning they beat off the first German counter-attack, and the following night they occupied the northern part of the village. The great attack of the British Fourth Army, made the same night from Pozières to Guillemont, broke down everywhere else. The capture of the village was therefore the only success of the day, and for the Australians the beginning of six weeks of the heaviest fighting in their history.

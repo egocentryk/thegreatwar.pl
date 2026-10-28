@@ -11,7 +11,13 @@ sides:
     commanders: [Nikolai Ivanov, Radko Dimitriev, Aleksei Brusilov]
 result: Austro-Hungarian victory. The Russian Third Army fell back behind the Dunajec, and the threat of the Kraków fortress being outflanked from the south passed.
 source: bitwa-pod-limanowa
-sourceHash: 972ff76929bc32874ff48a130ef992e7014f0333
+sourceHash: 66be5ba8ed809df540ba487ebc04b8ffec9b9de4
+brief:
+  - "The Battle of Limanowa, also called the Battle of Limanowa–Łapanów, was fought from 1 to 12 December 1914 in the foothills and mountains south-east of Kraków."
+  - "The Russian Third Army of General Radko Dimitriev had advanced into a gap between the Austro-Hungarian armies and threatened to outflank Kraków. Conrad decided to strike its flank and rear from the mountains."
+  - "Josef Roth's group came out of the Raba valley but stalled at Łapanów, and the Russian VIII Corps struck its wing at Limanowa. The fighting for every hill went on in snow and frost."
+  - "The decision came when the Austro-Hungarian Third Army arrived from the Carpathians and threatened to cut the Russians off. On 12 December they left Nowy Sącz and fell back behind the Dunajec."
+  - "The battle halted the Russian march westwards and ended the threat to Kraków. The front on the Dunajec and the Biała held until May 1915 and the breakthrough at Gorlice."
 ---
 
 The [Battle of Limanowa](https://pl.wikipedia.org/wiki/Bitwa_pod_Limanową), also called the Battle of Limanowa–Łapanów or the Limanowa operation, was fought in the first half of December 1914 in the foothills and mountains south-east of Kraków. The Austro-Hungarian army, which since August had suffered defeat after defeat in the east, struck from the Raba valley into the flank and rear of the Russian Third Army advancing on Kraków. The fighting took place in snow and frost, on the steep slopes of the [Island Beskids](https://pl.wikipedia.org/wiki/Beskid_Wyspowy) and the [Wiśnicz Foothills](https://pl.wikipedia.org/wiki/Pogórze_Wiśnickie), around [Łapanów](https://pl.wikipedia.org/wiki/Łapanów), [Limanowa](https://pl.wikipedia.org/wiki/Limanowa) and [Nowy Sącz](https://pl.wikipedia.org/wiki/Nowy_Sącz). After ten days, when a second Austro-Hungarian army arrived from the Carpathians, the Russians had to withdraw behind the Dunajec. It was one of the last major successes that the Austro-Hungarian army won almost without German help.

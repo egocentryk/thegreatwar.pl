@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Belgia, Francja, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "17 kwietnia 1918 roku, w dziewiątym dniu bitwy nad Lys, Niemcy zaatakowali pasmo wzgórz z Kemmelbergiem, Mont Rouge i Mont Noir, a równocześnie armię belgijską na północ od Ypres."
+  - "Oba natarcia, o wspólnym kryptonimie „Tannenberg”, miały ścisnąć z dwóch stron łuk Ypres i zmusić Brytyjczyków do jego opuszczenia."
+  - "Pod Merkem Niemcy wbili się w linię belgijską, ale kontrataki Belgów odzyskały do wieczora cały utracony teren. Brytyjski historyk oficjalny przyznał im „palmę pierwszeństwa” tego dnia."
+  - "Pod Kemmel, Mont Noir i Meteren Brytyjczycy, Australijczycy i Francuzi odparli wszystkie ataki. Niemcy zdobyli tylko skrawki terenu, jak lasek przed Mont Noir czy zagrodę Donegal Farm."
+  - "Wieczorem dowództwa obu niemieckich armii meldowały, że natarcia nie można kontynuować. Brytyjska historia oficjalna nazywa 17 kwietnia dniem „całkowicie udanego oporu”."
 ---
 
 17 kwietnia 1918 roku, w dziewiątym dniu [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918), Niemcy spróbowali jednym potężnym uderzeniem przesądzić losy walk we Flandrii. Od południa 4 Armia generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin) i prawe skrzydło 6 Armii zaatakowały pasmo wzgórz z [Kemmelbergiem](https://pl.wikipedia.org/wiki/Kemmelberg), Mont Rouge i Mont Noir, ostatnią przeszkodę między równiną nad Lys a drogami ku kanałowi La Manche. Równocześnie na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper) Korpus Gwardii uderzył spod lasu Houthulst na armię belgijską. Według dokumentów zdobytych później na 4 Armii oba natarcia, noszące wspólny kryptonim „Tannenberg”, miały ścisnąć z dwóch stron łuk Ypres i zmusić Brytyjczyków do jego opuszczenia. Wieczorem było jasne, że zawiodły na całej linii.

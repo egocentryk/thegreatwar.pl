@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Niemcy, Ferdinand Foch, Francja, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "11 listopada 1918 roku kilka minut po piątej rano w wagonie marszałka Focha w lesie Compiègne Matthias Erzberger i trzej inni delegaci niemieccy podpisali rozejm z Ententą i Stanami Zjednoczonymi."
+  - "Delegacja przyjechała 8 listopada i usłyszała warunki, a Foch odmówił przedłużenia 72-godzinnego terminu. W tym czasie w Berlinie wybuchła rewolucja, a zgodę na podpisanie rząd przysłał wieczorem 10 listopada."
+  - "Układ miał 34 artykuły: Niemcy musieli w ciągu 15 dni ewakuować Belgię, Francję i Alzację-Lotaryngię, opuścić lewy brzeg Renu, wydać działa, samoloty i okręty podwodne oraz wyrzec się traktatu brzeskiego."
+  - "Walki ustały o 11.00 czasu francuskiego, ale trwały do ostatniej chwili. Kanadyjczyk George Lawrence Price zginął o 10.58, a minutę później amerykański sierżant Henry Gunther."
+  - "Rozejm nie kończył formalnie wojny, ale odbierał Niemcom możliwość jej wznowienia. Stan wojny zakończył dopiero traktat wersalski, a 11 listopada stał się dniem pamięci o poległych."
 ---
 
 11 listopada 1918 roku kilka minut po piątej rano w wagonie-biurze pociągu marszałka [Ferdinanda Focha](/postacie/ferdinand-foch), stojącym na bocznicy w [lesie Compiègne](https://pl.wikipedia.org/wiki/Las_Compiègne) koło stacji [Rethondes](https://pl.wikipedia.org/wiki/Rethondes), przedstawiciele Niemiec podpisali układ o zawieszeniu broni z państwami Ententy i Stanami Zjednoczonymi. Za sprzymierzonych podpisali Foch, naczelny wódz armii sojuszniczych, i brytyjski pierwszy lord morski admirał Rosslyn Wemyss. Za Niemcy podpisali sekretarz stanu [Matthias Erzberger](/postacie/matthias-erzberger), dyplomata hrabia Alfred von Oberndorff, generał major Detlof von Winterfeldt i komandor Ernst Vanselow. Według raportu Focha porozumienie co do ostatecznego tekstu osiągnięto o 5.05, a podpisy złożono o 5.10. Inne relacje podają godziny od 5.12 do 5.20, ale strony umówiły się, że za godzinę podpisania uznaje się piątą. Sześć godzin później, o 11.00 czasu francuskiego (w Niemczech było wtedy południe), na frontach ustały działania wojenne. Po czterech latach, trzech miesiącach i kilku dniach wielka wojna na zachodzie dobiegła końca.

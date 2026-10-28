@@ -15,6 +15,12 @@ result: Nierozstrzygnięta, z niewielką przewagą Niemców. Zdobyli Mouse Trap 
 authors: [Natalia]
 tags: [Niemcy, Brytyjski Korpus Ekspedycyjny, broń chemiczna, Wielka Brytania]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Bellewaarde, stoczona 24 i 25 maja 1915 roku na wschód od Ypres, była ostatnim etapem drugiej bitwy pod Ypres. Zaczęła się od największego ataku chlorem, jakiego Brytyjczycy dotąd doświadczyli."
+  - "Obie strony były wyczerpane po walkach z kwietnia i maja. Brytyjskie bataliony uzupełniano niedoszkolonymi rekrutami, a żołnierze mieli tylko proste respiratory."
+  - "24 maja o świcie Niemcy wypuścili chlor na froncie długości około 7 kilometrów. Zdobyli Mouse Trap Farm pod Wieltje i wyrwali lukę przy jeziorze Bellewaarde, a niektóre brytyjskie bataliony przestały istnieć."
+  - "Nocne kontrataki 84 i 80 Brygady nie odzyskały okopów, a 4 Dywizja oddała klin frontu przy Mouse Trap Farm. Wieczorem niemieckie dowództwo zrezygnowało z dalszych większych operacji."
+  - "Niemcy przesunęli front o kilkaset metrów i mieli lepszy wgląd w łuk Ypres, ale go nie przełamali. Bitwa obnażyła katastrofalny brak amunicji w armii brytyjskiej."
 ---
 
 Bitwa o grzbiet Bellewaarde, stoczona 24 i 25 maja 1915 roku na wschód i północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), była ostatnim etapem [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Zaczęła się o świcie od niemieckiego ataku [chlorem](https://pl.wikipedia.org/wiki/Chlor), według brytyjskiej historii oficjalnej największego, jakiego Brytyjczycy dotąd doświadczyli. Objął on prawie cały odcinek brytyjskiego V Korpusu. Brytyjczycy mieli już proste respiratory i nie dali się zaskoczyć, ale wiele oddziałów, złożonych w dużej części z niedoszkolonych rekrutów, zostało niemal całkowicie zniszczonych. Niemcy wyrwali w brytyjskiej linii dwie luki: przy jeziorze i grzbiecie Bellewaarde oraz przy gospodarstwie Mouse Trap Farm. Nocne kontrataki ich nie zamknęły, ale Niemcy też nie mieli już sił, by iść dalej. Wieczorem 24 maja ich dowództwo wstrzymało natarcie, a 25 maja walki wygasły.

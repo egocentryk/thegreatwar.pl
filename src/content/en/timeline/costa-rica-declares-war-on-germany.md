@@ -2,7 +2,13 @@
 title: Costa Rica declares war on Germany
 summary: On 23 May 1918 Federico Tinoco's government, unrecognised by Washington, declared war on Germany. Congress gave way only under threat of dissolution.
 source: kostaryka-wypowiada-wojne-niemcom
-sourceHash: bf0c00c6c1c13e109a1c975c31060b14ac475336
+sourceHash: b502281dd5d5a6e57afd9a198731158a6c42af1f
+brief:
+  - "On 23 May 1918 Costa Rica's Congress passed a resolution and President Federico Tinoco Granados signed a decree declaring a state of war with Germany. Unlike Nicaragua, Costa Rica acted only against Germany."
+  - "Tinoco overthrew President González on 27 January 1917, and Woodrow Wilson refused to recognise his government. On 23 April 1918 Secretary of State Lansing declared that the US position \"will not change in the future\"."
+  - "On 22 May Tinoco demanded a declaration of war from Congress in person. The deputies rebelled and gave way only under threat of dissolution, and Minister Amadeo Johanning preferred to resign."
+  - "According to the American diplomat Johnson, the war was for Tinoco an instrument of domestic policy and a pretext for obtaining money. Washington gave no answer, although Wilson congratulated Nicaragua."
+  - "The dictatorship lasted until the summer of 1919. Because the powers did not recognise Tinoco's government, Costa Rica did not take part in the Paris Peace Conference or become a party to the Treaty of Versailles."
 ---
 
 On 23 May 1918 [Costa Rica](https://pl.wikipedia.org/wiki/Kostaryka) found itself at war with the German Empire. That day Congress passed a resolution authorising the government to take this step, and President [Federico Tinoco Granados](https://pl.wikipedia.org/wiki/Federico_Tinoco_Granados) signed a decree declaring that a state of war existed with the German government. Both acts were published in [San José](https://pl.wikipedia.org/wiki/San_José) the following morning. The decree stated that Costa Rica was entering the war in the name of humanitarian principles, but gave no specific reasons. The government also officially announced that Germans living in the country would not be molested either in their persons or in their property. Unlike [Nicaragua](/nikaragua-wypowiada-wojne-niemcom), which two weeks earlier had declared war on both empires, Costa Rica acted only against Germany.

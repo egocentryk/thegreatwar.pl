@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Imperium Osmańskie, Dardanele, Australia]
 milestone: true
 draft: false
+brief:
+  - "W nocy z 8 na 9 stycznia 1916 roku ostatni żołnierze brytyjscy odpłynęli spod przylądka Helles. Na półwyspie Gallipoli nie został ani jeden żołnierz aliantów."
+  - "Rankiem 8 stycznia na przylądku było jeszcze niecałe 17 tysięcy żołnierzy. Admirał John de Robeck uznał pogodę za dobrą, ale wieczorem zerwał się sztorm, który utrudniał zaokrętowanie."
+  - "Ostatnia łódź odbiła od brzegu o 3.45, a Turcy zorientowali się dopiero po wybuchu porzuconego składu amunicji. Razem z ewakuacją Suvli i Anzac alianci wycofali ponad 118 tysięcy żołnierzy przy znikomych stratach."
+  - "Kampania, która miała otworzyć cieśniny i wyeliminować Turcję z wojny, skończyła się klęską Ententy. Według brytyjskiej historii oficjalnej straty brytyjskie wyniosły około 205 tysięcy ludzi."
+  - "Dla Imperium Osmańskiego Gallipoli było jednym z największych zwycięstw wojny, a jego bohaterem został Mustafa Kemal. Uwolnione dywizje tureckie trafiły na inne fronty."
 ---
 
 Brytyjska chronologia wojny notuje zakończenie ewakuacji półwyspu [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) pod 8 stycznia 1916 roku. Ostatni etap odwrotu z przylądka Helles zaczął się bowiem wieczorem tego dnia, a skończył nad ranem następnego: według brytyjskiej historii oficjalnej kampanii lądowej ostatnia łódź odbiła od brzegu 9 stycznia o 3.45, a według historii działań floty ostatnie niszczyciele odpłynęły tuż przed piątą. Na półwyspie, na którym alianci wylądowali 25 kwietnia 1915 roku, nie został ani jeden ich żołnierz. Tak skończyła się [bitwa o Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), najbardziej ambitne przedsięwzięcie Ententy poza frontem zachodnim.

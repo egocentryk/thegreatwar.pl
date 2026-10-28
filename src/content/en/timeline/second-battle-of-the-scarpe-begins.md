@@ -2,7 +2,13 @@
 title: Second Battle of the Scarpe begins
 summary: On 23 April 1917, St George's Day, the British struck again at Arras. They took Gavrelle and Guémappe, but at Rœux and Monchy the fighting was indecisive.
 source: poczatek-drugiej-bitwy-nad-scarpe
-sourceHash: 2e312ec64b729f885808d8efb3ac135a8bf18386
+sourceHash: 5706af58776edec3ea1471642a37095feeaba669
+brief:
+  - "On St George's Day, 23 April 1917, nine British divisions attacked again at Arras, on a front of about 15 km on both banks of the Scarpe."
+  - "Douglas Haig wanted to pin down the Germans at Arras as long as the French were fighting on the Aisne. This time there was no surprise, and Colonel Fritz von Loßberg had had time to rebuild the German defences."
+  - "The 63rd (Royal Naval) Division took Gavrelle, and the Scottish 15th Division drove the Germans out of Guémappe. Rœux and the chemical works on the Scarpe were fought over house by house."
+  - "Almost everywhere German counter-attacks took back what the British had won in the morning. Many participants called it the hardest fighting they had experienced since the beginning of the war."
+  - "For between a few hundred metres and 2 km of ground the British paid, by various estimates, from more than 8,000 to about 10,000 killed, wounded and missing. Rœux and Infantry Hill stayed in German hands."
 ---
 
 At 4.45 a.m. on 23 April 1917, after an eight-day pause, the British infantry went over the top again at [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). On a front of about 15 km, from Croisilles to Gavrelle, on both banks of the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), nine divisions of General [Edmund Allenby's](/postacie/edmund-allenby) Third Army and the right wing of the First Army moved forward. It was St George's Day, the feast of England's patron saint, and also one of the bloodiest days of the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). The British official history records that many participants called this fighting the hardest they had experienced since the beginning of the war. By evening the British had taken Gavrelle and Guémappe, but almost everywhere else German counter-attacks had taken back what they had won in the morning.

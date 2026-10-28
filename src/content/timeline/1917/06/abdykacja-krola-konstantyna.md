@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos, Francja]
 milestone: true
 draft: false
+brief:
+  - "12 czerwca 1917 roku król Konstantyn I, zmuszony ultimatum wysokiego komisarza Charles'a Jonnarta, zgodził się opuścić Grecję i wyznaczył na następcę młodszego syna, Aleksandra."
+  - "Konstantyn nie podpisał aktu abdykacji: odpowiedź rządu mówiła tylko, że król „postanowił opuścić kraj”. Rojaliści przez następne lata uważali go za jedynego prawowitego władcę."
+  - "Sprzymierzeni uważali króla za ukrytego sojusznika Niemiec, bo od 1914 roku trzymał Grecję z dala od wojny i dwukrotnie doprowadził do dymisji Elefteriosa Wenizelosa."
+  - "Gdy w Pireusie lądowały francuskie wojska, rodzina królewska wymknęła się z pałacu w Atenach otoczonego przez tłum. Według Fallsa 14 czerwca zaokrętowała się w Oropos i popłynęła na wygnanie."
+  - "Podział Grecji na dwa państwa się skończył, a pod koniec czerwca Wenizelos stanął na czele rządu, który zerwał stosunki z państwami centralnymi. Konstantyn wrócił na tron w grudniu 1920 roku."
 ---
 
 12 czerwca 1917 roku skończyło się pierwsze panowanie króla [Konstantyna I](/postacie/konstantyn-i). Rano wysoki komisarz mocarstw opiekuńczych Charles Jonnart otrzymał formalną odpowiedź rządu greckiego na [swoje ultimatum](/ultimatum-jonnarta): król opuszcza kraj razem z następcą tronu, a na swojego następcę wyznacza młodszego syna, [Aleksandra](https://pl.wikipedia.org/wiki/Aleksander_Grecki). Po południu, gdy w Pireusie lądowały już francuskie wojska, rodzina królewska wymknęła się z pałacu w Atenach otoczonego przez tłum, który chciał ją zatrzymać. Dwa dni później Konstantyn odpłynął na wygnanie. Pod naciskiem Francji i Wielkiej Brytanii Grecja straciła władcę, który od 1914 roku trzymał ją z dala od wojny.

@@ -15,6 +15,12 @@ result: Zwycięstwo Imperium Osmańskiego. Alianci zniszczyli forty u wejścia d
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Francja, Royal Navy, Dardanele]
 milestone: true
+brief:
+  - "Od 19 lutego do 18 marca 1915 roku flota brytyjska i francuska próbowała sforsować Dardanele bez udziału wojsk lądowych. Okręty miały zniszczyć tureckie forty, oczyścić cieśninę z min i stanąć pod Konstantynopolem."
+  - "Głównym orędownikiem operacji był Winston Churchill, a plan przygotował wiceadmirał Sackville Carden. Pod jego rozkazami zebrało się szesnaście okrętów liniowych, w większości starych pancerników."
+  - "Okręty uciszyły forty u wejścia do cieśniny, ale utknęły przed polami minowymi przed Przesmykiem. Słabe trałowce nie potrafiły ich oczyścić pod ogniem ruchomych baterii."
+  - "18 marca w zatoce Eren Köy pancerniki Bouvet, Irresistible i Ocean zatonęły na minach postawionych potajemnie przez turecki stawiacz min Nusret. Turcy stracili około 120 zabitych i rannych."
+  - "Klęska 18 marca przesądziła, że o Dardanele trzeba walczyć na lądzie, i doprowadziła do desantu 25 kwietnia 1915 roku. W Turcji 18 marca obchodzony jest jako dzień zwycięstwa pod Çanakkale."
 ---
 
 Morska operacja w [Dardanelach](https://pl.wikipedia.org/wiki/Dardanele) była próbą sforsowania cieśniny przez flotę brytyjską i francuską bez udziału wojsk lądowych. Okręty miały zniszczyć tureckie forty, oczyścić cieśninę z min, wpłynąć na [Morze Marmara](https://pl.wikipedia.org/wiki/Morze_Marmara) i stanąć pod [Konstantynopolem](https://pl.wikipedia.org/wiki/Konstantynopol). Brytyjczycy liczyli, że widok pancerników pod stolicą wywoła przewrót w Turcji albo zmusi ją do wyjścia z wojny, a cieśniny otworzą drogę morską do Rosji. Przez cztery tygodnie flota stopniowo posuwała się w głąb Dardaneli, ale utknęła przed polami minowymi w najwęższym miejscu cieśniny. Wielki atak 18 marca zakończył się zatopieniem trzech pancerników i przesądził o tym, że o Dardanele trzeba będzie walczyć na lądzie.

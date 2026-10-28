@@ -2,7 +2,13 @@
 title: End of the Battle of Verdun
 summary: On 18 December 1916 Zouaves retook Les Chambrettes farm, ending Mangin's December attack and the Battle of Verdun, under way since February, the war's longest.
 source: koniec-bitwy-pod-verdun
-sourceHash: 216059ff39ba69d31cce749e4edb3f7dffa563f9
+sourceHash: e89d0451c4bbe57f917aa3041c3253dd2bf9c3bb
+brief:
+  - "On 18 December 1916 a battalion of French Zouaves retook the ruins of Les Chambrettes farm north of Verdun. It was the last act of General Charles Mangin's December attack and the end of the Battle of Verdun."
+  - "The attack was meant to push the Germans back from the forts of Douaumont and Vaux, recovered in the autumn. On 15 December, after a four-day bombardment, four French divisions attacked on a front about 10 kilometres wide."
+  - "In four days the French drove the Germans off the heights on the right bank of the Meuse and, according to Buchan, took 11,387 prisoners. On the German side the Fifth Army commander, General Ewald von Lochow, lost his post."
+  - "The battle had lasted since 21 February, nearly ten months, longer than any other in the war. According to the most frequently cited figures, the French lost about 377,000 men and the Germans about 337,000."
+  - "Neither side achieved its aim: the Germans did not take Verdun, and France held the city but bled for it. Verdun became for the French a symbol of the whole war, and Nivelle based his 1917 offensive plan on its method."
 ---
 
 On 18 December 1916, at three in the afternoon, a battalion of French [Zouaves](https://pl.wikipedia.org/wiki/Żuawi), without shelter or hot food for several days, in snow and mud, retook the ruins of Les Chambrettes farm on the plateau north of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). It was the last act of General [Charles Mangin](/postacie/charles-mangin)'s December attack, which in four days had driven the Germans off the heights on the right bank of the Meuse, and at the same time the end of the [Battle of Verdun](/bitwy/bitwa-pod-verdun). The battle had lasted since 21 February, nearly ten months, longer than any other in the war. The British chronology of the war, on which our timeline is based, ends it on 18 December. German studies often give 19 December, and French casualty returns run to 20 December.

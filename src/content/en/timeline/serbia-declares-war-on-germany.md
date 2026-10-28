@@ -2,7 +2,12 @@
 title: Serbia declares war on Germany
 summary: On 6 August 1914 Serbia declared war on Germany, ally of Austria-Hungary. The two states had no common border, but the declaration was a political statement.
 source: serbia-wypowiada-wojne-niemcom
-sourceHash: a9967aeb4a649314e0222b6bfadf40953d1a92a6
+sourceHash: 0f9aeac7b5db604834a2702d8f03ff7212e22491
+brief:
+  - "On 6 August 1914 Nikola Pašić's government, working in the wartime capital of Niš, declared war on Germany, although the two states had no common border."
+  - "The declaration changed little militarily but carried a political message: Belgrade held Germany jointly responsible for the war, as German support had let Vienna take a hard line towards Serbia."
+  - "In 1914 Serbia faced only the Austro-Hungarian army. After the invasion of 12 August the Serbs under Vojvoda Radomir Putnik won the first Allied victory of the war at the Battle of Cer."
+  - "Germany dealt with Serbia only in the autumn of 1915, when forces under August von Mackensen overran the country and the remnants of the Serbian army withdrew through the mountains of Albania to the Adriatic."
 ---
 
 On 6 August 1914 [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) declared war on [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). The decision was taken by the government of Prime Minister [Nikola Pašić](/postacie/nikola-pasic), working in the country's wartime capital, [Niš](https://pl.wikipedia.org/wiki/Nisz). A week earlier Serbia had been attacked by [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry), and Germany had stood behind Vienna's policy since the start of the crisis.

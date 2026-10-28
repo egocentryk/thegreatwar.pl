@@ -9,6 +9,12 @@ authors: [Natalia]
 dayOrder: 3
 tags: [Nowa Zelandia, Australia, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "12 października 1917 roku o 5.25, w deszczu i błocie, dwie dywizje II Korpusu Anzac ruszyły na grzbiet nad wsią Passchendaele: 3 Dywizja Australijska na samą wieś, a Dywizja Nowozelandzka na ostrogę Bellevue."
+  - "Douglas Haig wciąż wierzył, że Niemcy są bliscy załamania. Natarcie przygotowano w trzy dni po nieudanym ataku pod Poelcappelle, a artyleria utknęła w błocie daleko z tyłu."
+  - "Nowozelandczycy nie zdołali przeciąć pasów zasieków przed schronami na ostrodze Bellevue. Garstka Australijczyków doszła do kościoła w Passchendaele, ale zawróciła, nie spotkawszy nikogo."
+  - "Po południu obie dywizje cofnęły się prawie na linię wyjściową, a ranni całymi dniami leżeli w błocie. Dywizja Nowozelandzka straciła około 2,7 tysiąca ludzi, w tym około 845 zabitych lub śmiertelnie rannych."
+  - "Był to dzień największej liczby ofiar w historii Nowej Zelandii. 13 października wstrzymano natarcia, a zdobycie Passchendaele Haig powierzył Korpusowi Kanadyjskiemu."
 ---
 
 12 października 1917 roku o 5.25 rano, w deszczu i błocie, dwie dywizje II Korpusu Anzac ruszyły na grzbiet nad wsią [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), ostatnie wzniesienie przed równiną na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). 3 Dywizja Australijska generała [Johna Monasha](/postacie/john-monash) miała zdobyć samą wieś, a Dywizja Nowozelandzka ostrogę Bellevue na północ od niej. Natarcie, przygotowane w trzy dni po [nieudanym ataku pod Poelcappelle](/poczatek-bitwy-pod-poelcappelle), załamało się przed nieprzeciętymi zasiekami i betonowymi schronami. Garstka Australijczyków doszła do kościoła w Passchendaele i zawróciła, nie spotkawszy nikogo, a po południu obie dywizje cofnęły się prawie na linię wyjściową. Dla [Nowej Zelandii](https://pl.wikipedia.org/wiki/Nowa_Zelandia) był to dzień największej liczby ofiar w całej jej historii.

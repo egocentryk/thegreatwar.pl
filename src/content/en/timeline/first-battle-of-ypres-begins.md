@@ -2,7 +2,13 @@
 title: First Battle of Ypres begins
 summary: On 19 October 1914 a British attack on Menin ran into new German corps. This was how the First Battle of Ypres began.
 source: poczatek-pierwszej-bitwy-pod-ypres
-sourceHash: 7d9312fddbe8c5e881e099d0cf842fd874410271
+sourceHash: f7163fef0631eaab0dcfc17a0ecebdcd1ca68a19
+brief:
+  - "On 19 October 1914 the First Battle of Ypres began, the last and bloodiest battle of the Race to the Sea. This date was adopted after the war by the British Battles Nomenclature Committee."
+  - "Field Marshal French and General Foch meant to advance east from Ypres and turn the German flank. In reality a new German Fourth Army under Albrecht of Württemberg, with four new reserve corps, was marching through Belgium."
+  - "General Thompson Capper's British 7th Division advanced on Menin, but airmen spotted approaching German columns and Rawlinson called off the attack. That day the Germans took Roeselare."
+  - "French still underestimated the enemy and ordered Haig's newly arrived I Corps to advance through Torhout on Bruges. On 20 October the German Fourth and Sixth Armies attacked along the whole front from La Bassée to the sea."
+  - "The planned Allied offensive turned into a defensive battle lasting more than a month. The Allies held Ypres at the cost of enormous losses, and at Ypres the regular British Army bled to death."
 ---
 
 On 19 October 1914 the [First Battle of Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres) began, the last and bloodiest battle of the [Race to the Sea](/bitwy/wyscig-do-morza). This date was adopted after the war by the British Battles Nomenclature Committee. That day the British 7th Division advanced on Menin to turn the German flank, but instead of weak screens it ran into the head of a new German army that was approaching through Belgium towards [Ypres](https://pl.wikipedia.org/wiki/Ieper). The attack was called off, and in the following weeks it was the Germans who attacked, trying to break through the front and reach the Channel ports.

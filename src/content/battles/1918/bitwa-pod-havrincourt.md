@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. 62 Dywizja zdobyła Havrincourt i przednią lini
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Nowa Zelandia, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "12 września 1918 roku brytyjska 3 Armia generała Juliana Bynga uderzyła trzema dywizjami brytyjskimi i nowozelandzką na grzbiety pod Havrincourt, wysunięte stanowiska przed Linią Hindenburga."
+  - "Po wycofaniu się Niemców na pozycje sprzed marcowej ofensywy Byng przekonywał, że trzeba ich nieustannie atakować, i proponował jak najszybciej uchwycić przednią linię pozycji Hindenburga."
+  - "62 Dywizja, która zdobyła Havrincourt już w listopadzie 1917 roku, ominęła wieś z obu stron i odbiła ją, a 37 Dywizja zajęła Trescault. Nowozelandczycy tylko częściowo opanowali grzbiet Trescault."
+  - "Wieczorem świeża niemiecka 20 Dywizja kontratakowała Havrincourt przy wsparciu samolotów, ale jej natarcie rozbiło się w ogniu karabinów i artylerii, a 62 Dywizja utrzymała wieś."
+  - "Bitwa otworzyła bitwy o Linię Hindenburga i dała Brytyjczykom stanowiska z widokiem na główną pozycję Hindenburga oraz pozycje wyjściowe do natarcia na Canal du Nord."
 ---
 
 Bitwa pod Havrincourt była niewielkim, jednodniowym natarciem brytyjskiej 3 Armii generała [Juliana Bynga](/postacie/julian-byng), ale otworzyła ostatni wielki rozdział wojny na froncie zachodnim. 12 września 1918 roku trzy dywizje brytyjskie i nowozelandzka uderzyły na grzbiety pod wsią [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), gdzie Niemcy trzymali wysunięte stanowiska przed Linią Hindenburga i miejscami samą jej przednią linię. Do wieczora Brytyjczycy zdobyli Havrincourt i [Trescault](https://pl.wikipedia.org/wiki/Trescault) i odparli kontrataki świeżych dywizji niemieckich. Brytyjska komisja do spraw nazewnictwa bitew uznała ten dzień za pierwszą z [bitew o Linię Hindenburga](/bitwy/bitwy-o-linie-hindenburga), które zakończyły się w październiku przełamaniem całej niemieckiej pozycji.

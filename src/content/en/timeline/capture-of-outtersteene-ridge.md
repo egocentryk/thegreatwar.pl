@@ -2,7 +2,13 @@
 title: Capture of Outtersteene Ridge
 summary: At noon on 18 August 1918 the Scottish 9th Division surprised the Germans near Bailleul and took Outtersteene Ridge. The clearing of the Lys salient had begun.
 source: zdobycie-grzbietu-outtersteene
-sourceHash: 9180c52f27d7b5d2ace52b42fbdda6f0c5d03b78
+sourceHash: 71b1aba3781abc65ebefb40cd21730cc1a2eb63b
+brief:
+  - "At 11 a.m. on 18 August 1918 the Scottish 9th Division of the British Second Army attacked the low Outtersteene Ridge in French Flanders, between Meteren and Bailleul, the last higher ground the Germans held there."
+  - "After the defeat at Amiens the Germans no longer planned an offensive in Flanders and were removing stores from the Lys salient. Near Bailleul, however, they still held firmly, and the Scots were to force them back."
+  - "General Hugh Tudor relied on surprise and smoke: the infantry left the trenches right after the first smoke salvo. The Scots took the Hoegenacker mill, and the 29th Division the village of Outtersteene."
+  - "The attack lasted little more than an hour, and a German counter-attack quickly collapsed. In the evening the British counted 697 prisoners, for losses of 671 killed, wounded and missing."
+  - "The success threatened to outflank the German salient at Merville and opened the \"Advance in Flanders\". In less than three weeks the Lys salient had vanished from the map."
 ---
 
 On 18 August 1918, a Sunday, on a hot morning, the Scottish 9th Division of the British Second Army attacked in French Flanders a low ridge by the hamlet of Outtersteene, between [Meteren](https://pl.wikipedia.org/wiki/Méteren) and [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)). The attack began at 11 a.m., at an hour when nobody expected it, and lasted little more than an hour. Under cover of smoke the Scots took the crest of the ridge with the Hoegenacker mill, and the 29th Division took the village of Outtersteene. Almost 700 Germans were taken prisoner. It was the first British attack since April in the salient that the Germans had driven into the front during the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918), and the beginning of its clearing.

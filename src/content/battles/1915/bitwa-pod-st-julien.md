@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Niemcy zdobyli St. Julien i zmusili aliantów do skr
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna]
 milestone: true
+brief:
+  - "Bitwa pod St. Julien, stoczona od 24 kwietnia do 4 maja 1915 roku, była drugim etapem II bitwy pod Ypres. Zaczęła się o świcie od niemieckiego ataku chlorem na okopy 1 Dywizji Kanadyjskiej."
+  - "Kanadyjczycy nie mieli masek i zasłaniali twarze mokrymi chustkami. Cofnęli się, a po południu 24 kwietnia Niemcy zajęli wieś Sint-Juliaan, przez Brytyjczyków nazywaną St. Julien."
+  - "Przez kolejne dni Brytyjczycy, Hindusi i Francuzi raz po raz kontratakowali w pośpiechu, przez otwarte pole i przy słabym wsparciu artylerii. Natarcia załamywały się z ciężkimi stratami."
+  - "Smith-Dorrien zaproponował wycofanie się na krótszą linię i stracił za to dowództwo nad wojskami w łuku. W nocy z 3 na 4 maja alianci wycofali się bliżej Ypres, ale Niemcy nie przełamali frontu."
+  - "Dla Kanadyjczyków była to pierwsza wielka próba na froncie zachodnim, która przyniosła im opinię wojska, które nie ustępuje. Z tych walk wyrósł wiersz Johna McCrae In Flanders Fields."
 ---
 
 Bitwa pod St. Julien była drugim etapem [II bitwy pod Ypres](https://pl.wikipedia.org/wiki/II_bitwa_pod_Ypres). Zaczęła się 24 kwietnia 1915 roku o świcie, gdy Niemcy wypuścili chmurę [chloru](https://pl.wikipedia.org/wiki/Chlor) na okopy [1 Dywizji Kanadyjskiej](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) na wierzchołku łuku frontu na północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Kanadyjczycy cofnęli się, a po południu stracili wieś Sint-Juliaan, przez Brytyjczyków nazywaną St. Julien. Przez kolejne dni Brytyjczycy, Hindusi i Francuzi raz po raz kontratakowali, by odzyskać utracony teren. Natarcia, prowadzone w pośpiechu, przez otwarte pole i przy słabym wsparciu artylerii, załamywały się z ciężkimi stratami. Na początku maja alianci wycofali się na krótszą linię, bliżej Ypres. Niemcy nie przełamali jednak frontu, a miasto pozostało w rękach sprzymierzonych.

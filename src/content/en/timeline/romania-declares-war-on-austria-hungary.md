@@ -2,7 +2,13 @@
 title: Romania declares war on Austria-Hungary
 summary: On 27 August 1916 a crown council approved Romania's entry into the war. That evening its envoy handed a note in Vienna and troops crossed the Carpathians.
 source: rumunia-wypowiada-wojne-austro-wegrom
-sourceHash: 6898bc21c6fbcf685b233da038962986ec85c80b
+sourceHash: d2b80d2ff87331429bcdd97b3931a3410223a34f
+brief:
+  - "On 27 August 1916 a crown council in Bucharest approved Romania's entry into the war on the side of the Entente. That evening the minister Edgar Mavrocordat handed a note in Vienna declaring war on Austria-Hungary."
+  - "The treaty with the Entente, signed ten days earlier, obliged Romania to attack by 28 August at the latest. At the crown council only Petre P. Carp spoke for war alongside Germany."
+  - "The aim of the war was Transylvania and the other Hungarian lands inhabited by Romanians, as well as Bukovina. The Entente promised Romania the whole of Transylvania, the Banat, Crișana, Maramureș and most of Bukovina."
+  - "Ion I.C. Brătianu chose the moment of the Brusilov offensive's successes, but in Cyril Falls's view waited too long. That same evening Romanian advance guards crossed the Carpathian passes and entered Transylvania."
+  - "Germany, Turkey and Bulgaria soon declared war on Romania. In December 1916 Bucharest fell, but Romania survived the defeat and after the war annexed Transylvania, Bukovina and Bessarabia."
 ---
 
 On Sunday 27 August 1916 (14 August by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), then in force in Romania), a crown council met at the [Cotroceni Palace](https://pl.wikipedia.org/wiki/Pałac_Cotroceni) in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). King [Ferdinand I](/postacie/ferdynand-i-rumunski) and Prime Minister [Ion I.C. Brătianu](/postacie/ion-bratianu) presented the country's leading politicians with a decision that had in effect already been taken: [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) was entering the war on the side of the Entente. That same evening, at about 9 p.m., the Romanian minister in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń), Edgar Mavrocordat, handed a note at the Austro-Hungarian foreign ministry in which Romania declared that from that moment it considered itself at war with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). The government proclaimed general mobilisation. According to the Austrian official history, at the same hour Romanian advance guards crossed the Carpathian passes and entered Transylvania.

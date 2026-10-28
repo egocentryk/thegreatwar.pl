@@ -15,6 +15,12 @@ result: Lokalny sukces kanadyjski przy ogólnym niepowodzeniu. Kanadyjczycy zdob
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "Bitwa pod Arleux, toczona 28–29 kwietnia 1917 roku, była czwartą fazą bitwy pod Arras i jednym z ograniczonych natarć, którymi Brytyjczycy wspierali francuską ofensywę nad Aisne."
+  - "Haig kontynuował walki pod Arras tylko po to, by pomóc Nivelle’owi, którego ofensywa przynosiła wielkie straty. Brytyjskie dywizje były wyczerpane, a bataliony mocno przetrzebione."
+  - "28 kwietnia o 4.25 sześć dywizji uderzyło na froncie około 10 km. Pod Rœux, Gavrelle i Oppy natarcie zawiodło, a niemieckie kontrataki zepchnęły Brytyjczyków na pozycje wyjściowe."
+  - "Jedynym prawdziwym sukcesem było zdobycie wsi Arleux przez 2 Brygadę 1 Dywizji Kanadyjskiej. Brytyjska historia oficjalna nazwała je „jedynym namacalnym sukcesem całej operacji”."
+  - "Według brytyjskiej historii oficjalnej bitwa była „w ogóle porażką”, bo Brytyjczycy nie mieli jeszcze odpowiedzi na obronę w głąb Loßberga. Pozycja pod Fresnoy posłużyła Kanadyjczykom do natarcia 3 maja."
 ---
 
 Bitwa pod Arleux była czwartą fazą [bitwy pod Arras](/bitwy/bitwa-pod-arras-1917) i jednym z wielu ograniczonych natarć, którymi Brytyjczycy wiosną 1917 roku podtrzymywali nacisk na Niemców, by wesprzeć francuską ofensywę nad Aisne. 28 kwietnia o 4.25 rano trzy dywizje brytyjskiej 3 Armii oraz dwie brytyjskie i jedna kanadyjska dywizja 1 Armii uderzyły na froncie długości około 10 km, od Monchy-le-Preux po wieś [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle). Na prawie całej długości natarcie się nie powiodło: Rœux i zakłady chemiczne nad Scarpe znów oparły się szturmom, a pod Gavrelle i [Oppy](https://pl.wikipedia.org/wiki/Oppy) niemieckie kontrataki zepchnęły Brytyjczyków na pozycje wyjściowe. Jedynym prawdziwym sukcesem było zdobycie Arleux przez 2 Brygadę 1 Dywizji Kanadyjskiej. Brytyjska historia oficjalna nazwała je „jedynym namacalnym sukcesem całej operacji”.

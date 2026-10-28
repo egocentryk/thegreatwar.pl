@@ -10,6 +10,11 @@ dayOrder: 4
 tags: [Charleroi, Francja, Niemcy, bitwa graniczna]
 milestone: true
 draft: false
+brief:
+  - "21 sierpnia 1914 roku nad Sambrą, w rejonie Charleroi, rozpoczęła się bitwa francuskiej 5 Armii gen. Charles'a Lanrezaca z niemiecką 2 Armią gen. Karla von Bülowa, jedna z najważniejszych bitew granicznych."
+  - "Lanrezac ostrzegał, że Niemcy idą przez Belgię znacznie większymi siłami, niż sądzono, ale Joffre przesunął 5 Armię na północ dopiero w ostatniej chwili. Francuzi nie zdążyli w pełni obsadzić linii rzeki."
+  - "Niemiecka straż przednia uchwyciła przeprawy m.in. pod Auvelais i Tamines, a francuskie kontrataki kończyły się ciężkimi stratami. 22 sierpnia w Tamines Niemcy rozstrzelali kilkuset mieszkańców."
+  - "Gdy niemiecka 3 Armia sforsowała Mozę pod Dinant, Lanrezac nakazał odwrót. Klęska nad Sambrą wraz z porażkami w Ardenach i pod Mons zapoczątkowała wielki odwrót sprzymierzonych."
 ---
 
 21 sierpnia 1914 roku nad rzeką [Sambrą](https://pl.wikipedia.org/wiki/Sambra), w rejonie belgijskiego miasta [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), rozpoczęła się bitwa między francuską 5 Armią generała Charles'a Lanrezaca a niemiecką 2 Armią generała [Karla von Bülowa](/postacie/karl-von-bulow). Była to jedna z najważniejszych [bitew granicznych](/bitwy/bitwa-graniczna), które zadecydowały o przebiegu pierwszych tygodni wojny na zachodzie.

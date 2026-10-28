@@ -2,7 +2,13 @@
 title: Murder of the imperial family
 summary: On the night of 16–17 July 1918 in Yekaterinburg the Bolsheviks murdered the former Tsar Nicholas II, his wife, their five children and four companions.
 source: zamordowanie-rodziny-carskiej
-sourceHash: ed167f37775e53039cbc6139bd63edb6136588f2
+sourceHash: 384f817a594ec6e1ab0f00e31be467e6fb08e107
+brief:
+  - "On the night of 16–17 July 1918, in the cellar of the Ipatiev house in Yekaterinburg, a Bolshevik firing squad murdered the former Emperor Nicholas II, his wife, their five children and four companions."
+  - "The Romanovs had been moved to Yekaterinburg in the spring of 1918. With units of the Czechoslovak Legion approaching the city, the Bolsheviks did not want the family to fall into their hands."
+  - "The killing was directed by the commandant of the house, Yakov Yurovsky, and the formal decision was taken by the Ural Soviet. How much was the Urals' initiative and how much an order from Moscow is still disputed."
+  - "The bodies were taken to a forest near Koptyaki and later buried in the Porosenkov Log meadow. The Bolsheviks announced only the tsar's execution, claiming his wife and son had been taken to a \"safe place\"."
+  - "The remains were discovered in 1979 and buried in 1998 in the Peter and Paul Cathedral in St Petersburg. In 2000 the Russian Orthodox Church canonised the imperial family."
 ---
 
 On the night of 16–17 July 1918, in the cellar of the house of the engineer Nikolai Ipatiev in [Yekaterinburg](https://pl.wikipedia.org/wiki/Jekaterynburg) in the Urals, a Bolshevik firing squad shot and finished off with bayonets the former Emperor [Nicholas II](/postacie/mikolaj-ii), his wife [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna), their five children and four people who had shared their captivity. The killing was directed by the commandant of the house, [Yakov Yurovsky](https://pl.wikipedia.org/wiki/Jakow_Jurowski), and the formal decision was taken by the presidium of the Ural Regional Soviet. Units of the [Czechoslovak Legion](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) and Russian anti-Bolsheviks were then approaching the city, and the Bolsheviks did not want the Romanovs to fall into their hands. The family that had given Russia its rulers for more than three hundred years, and which had [lost the throne](/abdykacja-mikolaja-ii) in March 1917, perished without trial, and its death was concealed for years. How much of the decision was the Urals' own initiative and how much an order from Moscow is still disputed by historians.

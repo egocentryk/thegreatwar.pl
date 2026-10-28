@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Arthur Balfour, Imperium Osmańskie, syjonizm]
 milestone: true
 draft: false
+brief:
+  - "2 listopada 1917 roku brytyjski minister spraw zagranicznych Arthur Balfour zapewnił w liście lorda Rothschilda, że rząd przychylnie odnosi się do utworzenia w Palestynie siedziby narodowej dla narodu żydowskiego."
+  - "Było to pierwsze publiczne poparcie dla syjonizmu ze strony wielkiego mocarstwa. O deklarację zabiegali Chaim Weizman i Nachum Sokołow, a rząd Lloyda George'a myślał o podziale ziem osmańskich."
+  - "Pod wpływem sprzeciwu Edwina Montagu i wątpliwości lorda Curzona tekst złagodzono i dodano zastrzeżenia o prawach społeczności nieżydowskich w Palestynie i Żydów w innych krajach."
+  - "Rząd liczył przede wszystkim na korzyści propagandowe w Rosji i Ameryce, a także na osłonę Kanału Sueskiego. Deklaracja kłóciła się z obietnicami złożonymi Arabom i z porozumieniem Sykes-Picot."
+  - "W 1922 roku tekst deklaracji wszedł do aktu mandatu nad Palestyną. Stała się jednym z dokumentów założycielskich przyszłego Izraela i zarazem jednym ze źródeł konfliktu izraelsko-palestyńskiego."
 ---
 
 2 listopada 1917 roku brytyjski minister spraw zagranicznych [Arthur Balfour](/postacie/arthur-balfour) podpisał krótki list do [lorda Rothschilda](https://pl.wikipedia.org/wiki/Walter_Rothschild_(baron)), bankiera, zoologa i jednego z przywódców społeczności żydowskiej w Wielkiej Brytanii. Przekazywał mu w imieniu rządu „deklarację sympatii dla żydowskich dążeń syjonistycznych”, którą przedstawiono gabinetowi i którą gabinet zatwierdził. Jej sedno mieściło się w jednym zdaniu:

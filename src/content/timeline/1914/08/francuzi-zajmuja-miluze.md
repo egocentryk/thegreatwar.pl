@@ -10,6 +10,11 @@ dayOrder: 4
 tags: [Alzacja, Francja, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "Wieczorem 8 sierpnia 1914 roku francuski VII Korpus wkroczył do Miluzy, największego miasta południowej Alzacji. Po raz pierwszy od 1871 roku Francuzi zajęli ważne alzackie miasto."
+  - "We Francji wiadomość wywołała euforię, a Joseph Joffre wydał odezwę do „dzieci Alzacji”. Zajęcie Miluzy miało zapowiadać rychłe odzyskanie Alzacji i Lotaryngii."
+  - "Rano 9 sierpnia posiłki niemieckiej 7 Armii uderzyły w rejonie Cernay. Gen. Louis Bonneau, któremu groziło okrążenie, 10 sierpnia wycofał się z Miluzy w kierunku Belfortu."
+  - "Joffre odsunął Bonneau od dowództwa jako pierwszego z wielu generałów. Krótkie zajęcie Miluzy stało się symbolem złudzeń pierwszych dni wojny, a miasto wróciło do Francji dopiero w listopadzie 1918 roku."
 ---
 
 Wieczorem 8 sierpnia 1914 roku oddziały francuskiego VII Korpusu wkroczyły do [Miluzy](https://pl.wikipedia.org/wiki/Miluza), największego miasta południowej [Alzacji](https://pl.wikipedia.org/wiki/Alzacja). Po raz pierwszy od 1871 roku, gdy prowincja przeszła pod panowanie niemieckie, francuscy żołnierze zajęli ważne alzackie miasto.

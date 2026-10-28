@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Niemcy zajęli Bapaume i wypchnęli prawe skrzyd
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "Pierwsza bitwa pod Bapaume toczyła się 24–25 marca 1918 roku. Była drugim etapem niemieckiej operacji Michael, po trzech dniach bitwy pod Saint-Quentin."
+  - "Brytyjska 3 Armia gen. Bynga zbyt długo trzymała się występu pod Flesquières i straciła łączność z 5 Armią. W powstałą lukę wdarły się 24 marca dywizje niemieckiej 2 Armii."
+  - "Przez dwa dni brytyjskie dywizje cofały się przez pustkowie dawnego pola bitwy nad Sommą. Niemcy zajęli Bapaume, a nocą 25 marca 3 Armia wycofała się za rzekę Ancre."
+  - "Niemcy nie rozbili jednak 3 Armii ani nie rozdzielili armii brytyjskich. Ich wyczerpana piechota, bez artylerii, która nie nadążała przez pustkowie, posuwała się coraz wolniej."
+  - "W nocy z 24 na 25 marca Haig przekonał się, że Francuzi mogą się od niego odsunąć, by osłaniać Paryż. Kryzys doprowadził do konferencji w Doullens, na której Foch dostał zadanie koordynacji."
 ---
 
 Pierwsza bitwa pod Bapaume była drugim etapem niemieckiej [operacji Michael](/bitwy/operacja-michael), największego natarcia tej wojny. Po trzech dniach [bitwy pod Saint-Quentin](/bitwy/bitwa-pod-saint-quentin-1918) brytyjska 5 Armia cofnęła się za Sommę, a 3 Armia generała [Juliana Bynga](/postacie/julian-byng), która zbyt długo trzymała się występu pod Flesquières, straciła z nią łączność. W powstałą lukę wdarły się 24 marca 1918 roku, w Niedzielę Palmową, dywizje niemieckiej 2 Armii. Przez dwa dni brytyjskie dywizje wracały przez pustkowie, które same zdobywały w 1916 roku, przez Combles, Flers, High Wood i [Pozières](https://pl.wikipedia.org/wiki/Pozières). Niemcy zajęli [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), cel całej [bitwy nad Sommą](/bitwy/bitwa-nad-somma), i doszli do rzeki [Ancre](https://pl.wikipedia.org/wiki/Ancre). Nocą 24 marca dowódca brytyjski [Douglas Haig](/postacie/douglas-haig) przekonał się też, że Francuzi mogą się od niego odsunąć, by osłaniać Paryż. Dwa dni później kryzys doprowadził do konferencji w Doullens.

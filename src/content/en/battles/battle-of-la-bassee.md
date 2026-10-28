@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Erich von Falkenhayn]
 result: Inconclusive. The British failed to take La Bassée and the Germans took Neuve-Chapelle, but did not break the front. The line between Givenchy and Fauquissart lasted until 1915.
 source: bitwa-pod-la-bassee
-sourceHash: b235e6de610659575289bc506212344671f08976
+sourceHash: d8d25e4b569a8c994d793c666e7443e8d4c2902c
+brief:
+  - "The Battle of La Bassée, fought from 10 October to 2 November 1914, was the first of a series of battles the British army fought in Flanders in the autumn of 1914, in the last stage of the race to the sea."
+  - "The British II Corps of General Horace Smith-Dorrien, brought from the Aisne, was to turn the flank of the German Sixth Army together with the French cavalry and take La Bassée."
+  - "The advance moved slowly across the marshy plain and stalled. From 20 October the Germans attacked, and II Corps withdrew to a line from Givenchy through Neuve-Chapelle to Fauquissart."
+  - "With the help of the Indian Lahore and Meerut Divisions the exhausted II Corps held the front, although it lost Neuve-Chapelle. In October the corps lost almost 14,000 men."
+  - "The battle ended British attempts to turn the German flank south of the Lys. It saw the first fighting on the Western Front by troops of the British Indian Army."
 ---
 
 The Battle of [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée) was the first of a series of battles that the British army fought in Flanders in the autumn of 1914, in the last stage of the [race to the sea](/bitwy/wyscig-do-morza). The British II Corps of General Horace Smith-Dorrien, brought [from the Aisne](/bef-opuszcza-aisne), was to turn the northern flank of the German Sixth Army together with the French cavalry and take La Bassée, a small town on the canal linking Aire with Lille. After a few days of slow progress the attack stalled, and from 20 October the British had to beat off increasingly strong German counter-attacks. The exhausted II Corps, supported by the first Indian units, held the front, although it lost Neuve-Chapelle, and La Bassée remained in German hands until October 1918.

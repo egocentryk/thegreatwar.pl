@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Syjam, Niemcy, Austro-Węgry, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "22 lipca 1917 roku o świcie Królestwo Syjamu ogłosiło stan wojny z Niemcami i Austro-Węgrami. Decyzję podjął osobiście król Vajiravudh, panujący jako Rama VI."
+  - "Syjam, wyspa niepodległości między posiadłościami Francji i Wielkiej Brytanii, wciąż był związany traktatami nierównoprawnymi. Przez trzy lata zachowywał neutralność, a książęta byli podzieleni."
+  - "Wojna miała zapewnić Syjamowi miejsce wśród zwycięzców i uwolnienie od traktatów nierównoprawnych. Decyzja była też ustępstwem wobec rosnącej presji aliantów."
+  - "Jeszcze tego dnia internowano około 320 Niemców i Austro-Węgrów, zajęto dziewięć niemieckich statków na Menamie i skonfiskowano niemiecki majątek."
+  - "W 1918 roku do Francji popłynęło niespełna 1300 syjamskich ochotników. Syjam wziął udział w konferencji pokojowej w Paryżu, został członkiem założycielem Ligi Narodów i stopniowo pozbył się eksterytorialności."
 ---
 
 22 lipca 1917 roku, w niedzielę o świcie, Królestwo Syjamu ogłosiło, że jest w stanie wojny z Niemcami i Austro-Węgrami. Decyzję podjął osobiście król [Vajiravudh](https://pl.wikipedia.org/wiki/Vajiravudh), panujący jako Rama VI. Jeszcze tego ranka amerykański chargé d'affaires w [Bangkoku](https://pl.wikipedia.org/wiki/Bangkok) Arnold depeszował do Waszyngtonu: „Syjam wypowiedział wojnę Niemcom i Austrii około szóstej rano. Niemcy i Austriacy są internowani. Poselstwa niemieckie i austriackie chronione przez specjalne straże. Wszystkie niemieckie statki od razu internowano”. Syjam był jedynym niepodległym państwem Azji Południowo-Wschodniej, które z własnej woli przystąpiło do wojny. Wojna była mu potrzebna nie dla zdobyczy na froncie, lecz dla miejsca wśród zwycięzców.

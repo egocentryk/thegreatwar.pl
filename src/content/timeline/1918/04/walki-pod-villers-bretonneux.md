@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Australia, Wielka Brytania, Niemcy, czołgi]
 milestone: true
 draft: false
+brief:
+  - "24 kwietnia 1918 roku o świcie, w gęstej mgle, cztery dywizje niemieckiej 2 Armii z trzynastoma czołgami A7V uderzyły na brytyjski III Korpus i w ciągu kilku godzin zdobyły Villers-Bretonneux."
+  - "Brytyjska 8 i 58 Dywizja, ciężko poturbowane w marcu, nie miały czym się bronić przed czołgami. Niemcy doszli do drogi z Cachy do Fouilloy, około 13 kilometrów od Amiens, i dalej nie przeszli."
+  - "Przed południem pod Cachy brytyjski Mark IV porucznika Franka Mitchella stoczył pierwszy w historii pojedynek z niemieckim czołgiem A7V „Nixe” i kilka razy go trafił, a załoga „Nixe” opuściła wóz."
+  - "Gen. Rawlinson uznał odbicie miasteczka za konieczne. Po sporach między dowódcami atak 13 i 15 Brygady Australijskiej przesunięto na 22.00, bo Glasgow odmówił natarcia za dnia."
+  - "W nocy obie brygady obeszły Villers-Bretonneux i 25 kwietnia, w trzecią rocznicę lądowania na Gallipoli, miasteczko znów było w rękach sprzymierzonych. Niemcy nigdy już nie podeszli tak blisko Amiens."
 ---
 
 24 kwietnia 1918 roku Niemcy po raz ostatni spróbowali podejść pod [Amiens](https://pl.wikipedia.org/wiki/Amiens). O świcie, w gęstej mgle, cztery dywizje niemieckiej 2 Armii, prowadzone przez trzynaście czołgów [A7V](https://pl.wikipedia.org/wiki/A7V), uderzyły na brytyjski III Korpus na płaskowyżu na południe od Sommy i w ciągu kilku godzin zdobyły miasteczko [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), to samo, które Australijczycy i Brytyjczycy obronili trzy tygodnie wcześniej, [4 kwietnia](/bitwy/bitwa-nad-avre). Przed południem pod wsią [Cachy](https://pl.wikipedia.org/wiki/Cachy) brytyjski czołg po raz pierwszy w historii stoczył pojedynek z czołgiem nieprzyjaciela. Wieczorem dowódcy sprzymierzonych postanowili odbić miasteczko jeszcze tej samej nocy. Dwie brygady australijskie ruszyły w ciemności, bez przygotowania artyleryjskiego, i do rana 25 kwietnia, w trzecią rocznicę lądowania na Gallipoli, Villers-Bretonneux znów było w rękach sprzymierzonych.

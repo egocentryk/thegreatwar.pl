@@ -2,7 +2,12 @@
 title: Austria-Hungary at war with Portugal
 summary: On 15 March 1916 Austria-Hungary followed Germany and broke with Portugal. The two were now at war, though by contemporary sources with no separate declaration.
 source: austro-wegry-w-stanie-wojny-z-portugalia
-sourceHash: ab74e77cb9c21da6ad6caef8d693bfae923d0f54
+sourceHash: 459c629e9be2e72a7e100f8b2cda1b24db3881ff
+brief:
+  - "On 15 March 1916 Austria-Hungary followed Germany and broke off diplomatic relations with Portugal. The British chronology of the war also records an Austro-Hungarian declaration of war under that date."
+  - "Contemporary sources, such as the American minister's cable from Lisbon, speak only of a breach of relations. It seems Vienna handed over no separate declaration, and the state of war followed from Germany's war with Portugal."
+  - "The Dual Alliance did not oblige Austria-Hungary to fight every enemy of Germany, but Vienna, increasingly dependent on Berlin, could not keep normal relations with Portugal. Lisbon had also requisitioned two of its ships."
+  - "The new state of war had little practical significance, as the two countries had no common border. It did, however, give Portugal a place among the states that made peace with Austria and Hungary."
 ---
 
 On 15 March 1916 [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) found itself at war with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) as well. The British chronology of the war records two events under that date: [Vienna's breaking off of diplomatic relations with Lisbon](/austro-wegry-zrywaja-stosunki-z-portugalia) and an Austro-Hungarian declaration of war. Most later lists of the declarations of war of 1914–1918 give the same date.

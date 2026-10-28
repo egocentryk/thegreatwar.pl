@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, Max von Gallwitz, Georg von der Marwitz, Crown Prince Wilhelm, Karl von Einem]
 result: "Allied victory. In 47 days the Americans broke through successive German positions, cleared the Argonne and reached the heights above Sedan, while the French reached the Aisne and the Meuse. The offensive tied down dozens of German divisions but cost the First Army about 117,000 killed and wounded."
 source: ofensywa-moza-argonne
-sourceHash: 83d778a8fbc6d35a03e7cb7df89aeb1b1b785831
+sourceHash: bf620795c8f126bc8e033430619c6aca9091ff65
+brief:
+  - "The Meuse–Argonne offensive lasted from 26 September to 11 November 1918. Pershing's American First Army attacked between the Meuse and the Argonne, the French Fourth Army in Champagne."
+  - "The objective was the German railway lines through Sedan and Mézières, on which the supply of most German forces in France depended. The sector was fortified with exceptional care."
+  - "After a brilliant first day the attack stuck fast in traffic jams on ruined roads and under fire from both flanks. In October the Americans broke the Kriemhilde position in costly attacks."
+  - "On 1 November the attack was resumed and shattered the German defence. When the armistice came into force on 11 November, the Americans stood on the Meuse and the heights above Sedan."
+  - "The First Army lost about 117,000 killed and wounded, making the offensive the bloodiest battle in the history of the American army. It tied down dozens of German divisions."
 ---
 
 The Meuse–Argonne offensive was the last and largest battle fought by the Americans in the First World War. On 26 September 1918 the American First Army of General [John Pershing](/postacie/john-pershing) struck northwards in a narrow corridor between the river [Meuse](https://pl.wikipedia.org/wiki/Moza) and the wooded ridge of the [Argonne](https://pl.wikipedia.org/wiki/Argonny), and beside it, west of the Argonne, in [Champagne](https://pl.wikipedia.org/wiki/Szampania), the French Fourth Army of General Henri Gouraud moved off. The objective was the German railway lines running through [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) and Mézières, on which the supply of most of the German forces in France depended. On the first day the Americans, helped by surprise, passed through the first German position, but they failed to take the hill of Montfaucon and soon stuck fast in traffic jams on ruined roads and under fire from both flanks. Throughout October they bled themselves white in frontal attacks on successive belts of fortifications, until in mid-month they broke through the main German position, the so-called Kriemhilde position. On 1 November the attack was resumed and this time shattered the German defence. When the armistice came into force on 11 November, the Americans stood on the Meuse and on the heights above Sedan.

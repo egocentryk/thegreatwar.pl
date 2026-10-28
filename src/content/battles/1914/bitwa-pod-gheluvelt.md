@@ -17,6 +17,12 @@ result: Zwycięstwo obronne Brytyjczyków. Niemcy zdobyli Gheluvelt, Zandvoorde 
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, Douglas Haig]
 milestone: true
+brief:
+  - "Bitwa pod Gheluvelt, stoczona od 29 do 31 października 1914 roku na wschód i południowy wschód od Ypres, była najbardziej krytycznym momentem pierwszej bitwy pod Ypres."
+  - "Gen. Falkenhayn uznał, że 4 Armia nie przełamie frontu nad morzem, i utworzył grupę Fabecka. Miała ona uderzyć na najsłabszy odcinek, broniony przez wyczerpane dywizje brytyjskie i spieszoną kawalerię."
+  - "29 października Niemcy zdobyli skrzyżowanie pod Gheluvelt, a 30 października zajęli Zandvoorde i Hollebeke. Brytyjczykom brakowało amunicji, ciężkich dział i drutu kolczastego."
+  - "31 października Niemcy opanowali Gheluvelt, a pociski trafiły sztaby dwóch dywizji w zamku Hooge. Kontratak około 370 żołnierzy 2 Batalionu Worcestershire zamknął jednak wyrwę."
+  - "Niemcy byli bliżej zwycięstwa niż kiedykolwiek w tej bitwie, ale frontu nie przełamali. Brytyjczycy i Francuzi zyskali czas na ściągnięcie posiłków, a walki pod Ypres trwały dalej."
 ---
 
 Bitwa pod Gheluvelt, stoczona od 29 do 31 października 1914 roku na wschód i południowy wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), była najbardziej krytycznym momentem [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Po niepowodzeniu natarć nowych korpusów rezerwowych na północ od miasta Niemcy utworzyli świeże zgrupowanie uderzeniowe generała Maxa von Fabecka i rzucili je na najsłabszy odcinek frontu, broniony przez wyczerpane dywizje brytyjskie i spieszoną kawalerię. 29 października zdobyli ważne skrzyżowanie dróg przed wsią Gheluvelt, 30 października zajęli Zandvoorde i Hollebeke, a 31 października, gdy do kwatery 6 Armii przybył cesarz [Wilhelm II](/postacie/wilhelm-ii), przełamali linię brytyjską pod samym Gheluvelt. Kontratak 2 Batalionu Worcestershire zamknął wyrwę. Brytyjska chronologia wojny opisuje ten dzień krótko: linia brytyjska przerwana i odtworzona.

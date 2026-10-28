@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. 4 Armia zdobyła Messines, Ploegsteert, las Ploe
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Związek Południowej Afryki]
 milestone: true
+brief:
+  - "Bitwa pod Messines, toczona 10–11 kwietnia 1918 roku na północ od Armentières, była drugim aktem niemieckiej ofensywy we Flandrii, znanej jako bitwa nad Lys."
+  - "Dzień po przełamaniu frontu portugalskiego przez 6 Armię do natarcia ruszyła niemiecka 4 Armia generała Sixta von Armina. Broniły się tu trzy dywizje IX Korpusu, wykrwawione w marcu nad Sommą."
+  - "Rankiem 10 kwietnia, w gęstej mgle, Niemcy przeszli Lys, wdarli się do lasu Ploegsteert i zdobyli Messines. Wieczorem Brygada Południowoafrykańska przeszła na chwilę przez wieś, a w nocy Brytyjczycy utrzymali Wytschaete."
+  - "11 kwietnia Niemcy zdobyli wzgórze 63 nad lasem Ploegsteert, skąd mogli wziąć grzbiet od tyłu, i w nocy IX Korpus zszedł z południowej części grzbietu przed Wulverghem i Neuve-Église."
+  - "W dwa dni przepadła większość brytyjskich zdobyczy z czerwca 1917 roku, a Niemcom otworzyła się droga na Bailleul i wzgórza Flandrii. Nie przełamali jednak frontu, a Wytschaete przetrwało."
 ---
 
 Bitwa pod Messines w kwietniu 1918 roku była drugim aktem niemieckiej ofensywy we Flandrii, znanej jako [bitwa nad Lys](/bitwy/bitwa-nad-lys-1918). Dzień po tym, jak 6 Armia przełamała front portugalski na południe od [Armentières](https://pl.wikipedia.org/wiki/Armentières), do natarcia przystąpiła na północ od miasta [4 Armia](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin). Rankiem 10 kwietnia, w gęstej mgle, jej dywizje przeszły po kładkach przez [Lys](https://pl.wikipedia.org/wiki/Leie), wdarły się do lasu Ploegsteert i zdobyły [Messines](https://pl.wikipedia.org/wiki/Mesen), które Brytyjczycy odbili w czerwcu 1917 roku po wybuchu wielkich min. Broniły się tu trzy dywizje brytyjskiego IX Korpusu, wykrwawione w marcu nad Sommą i uzupełnione w większości bardzo młodymi rekrutami. Nie dały się rozbić: wieczorem nowo odtworzona Brygada Południowoafrykańska przeszła na chwilę przez Messines, a w nocy Brytyjczycy utrzymali [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate). 11 kwietnia Niemcy zdobyli jednak wzgórze 63 nad lasem Ploegsteert, skąd mogli wziąć grzbiet od tyłu, i w nocy IX Korpus zszedł z południowej części grzbietu. W dwa dni przepadła większość zdobyczy z czerwca 1917 roku.

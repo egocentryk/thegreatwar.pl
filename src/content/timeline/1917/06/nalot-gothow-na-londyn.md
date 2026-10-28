@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [lotnictwo, Niemcy, Wielka Brytania, Royal Flying Corps]
 milestone: true
 draft: false
+brief:
+  - "13 czerwca 1917 roku przed południem czternaście bombowców Gotha G.IV zbombardowało w biały dzień City of London, dzielnice portowe i East End."
+  - "Według brytyjskiej historii oficjalnej zginęły 162 osoby, a 432 zostały ranne. Był to najkrwawszy pojedynczy nalot na Wielką Brytanię w całej wojnie."
+  - "W szkole przy Upper North Street w Poplar zginęło osiemnaściorga dzieci, w tym szesnaścioro maluchów z oddziału przedszkolnego. Ich pogrzeb stał się wielką manifestacją żałoby."
+  - "Obrona okazała się bezradna: wystartowało 92 pilotów, ale większość nie zobaczyła nieprzyjaciela. Wszystkie Gothy eskadry Kagohl 3 kapitana Ernsta Brandenburga wróciły do baz."
+  - "Nalot wywołał w kraju oburzenie, a rząd postanowił rozbudować lotnictwo. Po kolejnym nalocie 7 lipca powołano komisję Jana Smutsa, co doprowadziło do utworzenia w 1918 roku Royal Air Force."
 ---
 
 Przed południem w środę 13 czerwca 1917 roku nad [Londynem](https://pl.wikipedia.org/wiki/Londyn) pojawiła się formacja czternastu dwusilnikowych bombowców [Gotha G.IV](https://pl.wikipedia.org/wiki/Gotha_G.IV). W ciągu kilku minut zrzuciły bomby na [City of London](https://pl.wikipedia.org/wiki/City_of_London), dzielnice portowe i [East End](https://pl.wikipedia.org/wiki/East_End). Według brytyjskiej historii oficjalnej wojny powietrznej H. A. Jonesa zginęły 162 osoby, a 432 zostały ranne. Był to najkrwawszy pojedynczy nalot na Wielką Brytanię w całej wojnie. Brytyjska chronologia wojny podaje łącznie około 590 ofiar, prawie wyłącznie cywilów. Najbardziej wstrząsnęła ludźmi śmierć osiemnaściorga dzieci w szkole w Poplar. Wszystkie bombowce wróciły do baz.

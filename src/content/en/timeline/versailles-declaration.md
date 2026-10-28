@@ -2,7 +2,13 @@
 title: Versailles declaration
 summary: On 3 June 1918 at Versailles the French, British and Italian prime ministers made a united, independent Poland with access to the sea a condition of peace.
 source: deklaracja-wersalska
-sourceHash: 330c2bb7fc8bbba8e67b0fa9c636d3396855566c
+sourceHash: c9d12fad5ec49d001ac77c91ade775941f63a2d5
+brief:
+  - "On 3 June 1918 at Versailles the prime ministers Clemenceau, Lloyd George and Orlando declared that a united and independent Polish state with free access to the sea was one of the conditions of a just peace."
+  - "The declaration was drawn up on the margins of the Supreme War Council's session in days of crisis, with the Germans on the Marne. The United States, formally only an \"associated power\", did not sign it."
+  - "The Versailles formula went further than Wilson's words, as it did not restrict Poland to ethnically Polish lands. It said nothing, however, about borders, which were left to the peace conference."
+  - "A second declaration expressed only \"earnest sympathy\" for the aspirations of the Czechoslovaks and Yugoslavs, without mentioning independence. The caution was largely the work of Italy's Foreign Minister Sidney Sonnino."
+  - "Roman Dmowski regarded the declaration as the greatest success of his diplomacy. After the Entente's victory it became, with Wilson's Fourteen Points, the starting point of the talks on Poland at the peace conference."
 ---
 
 On 3 June 1918 at [Versailles](https://pl.wikipedia.org/wiki/Wersal) the prime ministers of the three European Entente powers, [Georges Clemenceau](/postacie/georges-clemenceau), [David Lloyd George](/postacie/david-lloyd-george) and [Vittorio Emanuele Orlando](/postacie/vittorio-emanuele-orlando), agreed at the close of the Supreme War Council's session on two short political declarations. The first concerned Poland. In Polish translation (the translations differ slightly from one another) it read: "The creation of a united and independent Polish state with free access to the sea constitutes one of the conditions of a solid and just peace and of the rule of right in Europe". The second expressed sympathy for the national aspirations towards freedom of the Czechoslovaks and the Yugoslavs. For the first time France, Britain and Italy jointly and publicly included the restoration of a united Poland among the conditions of the future peace. [Roman Dmowski](/postacie/roman-dmowski) later regarded this act as the greatest success of his diplomacy.

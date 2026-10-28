@@ -2,7 +2,13 @@
 title: Balfour Declaration
 summary: On 2 November 1917 Arthur Balfour assured Lord Rothschild that Britain supported the establishment in Palestine of a national home for the Jewish people.
 source: deklaracja-balfoura
-sourceHash: bf2c07cb68e0ca5c9bbe914f4839824f31751b02
+sourceHash: 620f179ae5b7604693ecc98ff6957ddd105541c2
+brief:
+  - "On 2 November 1917 the British Foreign Secretary Arthur Balfour assured Lord Rothschild in a letter that the government viewed with favour the establishment in Palestine of a national home for the Jewish people."
+  - "It was the first public support for Zionism from a great power. Chaim Weizmann and Nahum Sokolow had campaigned for it, and Lloyd George's government was thinking of partitioning the Ottoman lands."
+  - "After Edwin Montagu's opposition and Lord Curzon's doubts the text was softened, and provisos were added on the rights of non-Jewish communities in Palestine and of Jews in other countries."
+  - "The government counted above all on propaganda benefits in Russia and America, and on shielding the Suez Canal. The declaration clashed with promises made to the Arabs and with the Sykes–Picot Agreement."
+  - "In 1922 the text was incorporated into the mandate for Palestine. It became one of the founding documents of the future Israel and at the same time one of the sources of the Israeli–Palestinian conflict."
 ---
 
 On 2 November 1917 the British Foreign Secretary [Arthur Balfour](/postacie/arthur-balfour) signed a short letter to [Lord Rothschild](https://pl.wikipedia.org/wiki/Walter_Rothschild_(baron)), banker, zoologist and one of the leaders of the Jewish community in Britain. In it he conveyed, on behalf of the government, a "declaration of sympathy with Jewish Zionist aspirations" which had been submitted to and approved by the Cabinet. Its core fitted into a single sentence:

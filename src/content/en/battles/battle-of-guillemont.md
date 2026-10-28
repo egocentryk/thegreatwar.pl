@@ -9,7 +9,13 @@ sides:
     commanders: [Fritz von Below, Max von Gallwitz]
 result: British victory. The British took Guillemont, Falfemont Farm and Leuze Wood, eliminated the salient at Delville Wood and closed up to Ginchy, which they did not, however, take in those days.
 source: bitwa-pod-guillemont
-sourceHash: 9dc7380569aa83180819763c37b9681e680b3746
+sourceHash: 3781c4866dbbac3572962256ce2cbc558341dc2b
+brief:
+  - "The Battle of Guillemont, fought on 3–6 September 1916 on the Somme, ended the failed British attacks since 23 July on a village on the right wing of the front, where it joined the French."
+  - "The earlier attacks had been made on a narrow front under fire from Falfemont Farm and Ginchy, so Haig urged Rawlinson to make a carefully prepared attack on a wider front, in agreement with the French."
+  - "On 3 September the 20th (Light) Division, reinforced by the Irish 47th Brigade, took Guillemont in less than three hours, advancing close behind a creeping barrage."
+  - "Falfemont Farm, swept by flanking fire, fell only on 5 September and the British entered Leuze Wood, while the 7th Division several times broke into Ginchy and each time had to withdraw."
+  - "The British eliminated the salient at Delville Wood and joined up with the French, and the battle is regarded as proof that their army had learned something over the summer. Ginchy fell on 9 September."
 ---
 
 The Battle of Guillemont ended one of the most frustrating chapters of the [Battle of the Somme](/bitwy/bitwa-nad-somma). The village of [Guillemont](https://pl.wikipedia.org/wiki/Guillemont), on the right wing of the British front where it joined the French, had beaten off one attack after another for more than five weeks. From 23 July to the end of August British battalions several times broke into its ruins and each time were thrown out of them or perished there cut off. Only on 3 September 1916 did the 20th (Light) Division, reinforced by the Irish 47th Brigade of the 16th Division, take the village in less than three hours. On its right the 5th Division broke through the German second position, but for two days it could not take Falfemont Farm, which was swept by flanking fire because the French had failed to clear the neighbouring ravine in time. The farm fell on 5 September and the British entered Leuze Wood above Combles. On the left the 7th Division several times broke into [Ginchy](https://pl.wikipedia.org/wiki/Ginchy) and each time had to withdraw from it.

@@ -10,6 +10,11 @@ dayOrder: 4
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Australia, Francja]
 milestone: true
 draft: false
+brief:
+  - "25 lutego 1917 roku żołnierze brytyjskiej 5 Armii weszli bez walki do Serre i Pys nad Ancre. Niemcy, którzy bronili tych pozycji od początku bitwy nad Sommą, zniknęli na odcinku od Le Transloy po Serre."
+  - "Cesarz Wilhelm II zatwierdził już 4 lutego plan odwrotu na nową pozycję, ale wyczerpana zimowymi walkami 1 Armia Belowa nie mogła czekać do marca. Rupprecht kazał jej 18 lutego cofnąć się na pozycję Riegel I."
+  - "Odwrót odkryły brytyjskie patrole, które 22–24 lutego doszły daleko w głąb niemieckich pozycji, nie napotykając przeciwnika. Australijczycy, atakując 25 lutego okop Malt bez wsparcia artylerii, stracili około 170 ludzi."
+  - "Był to pierwszy etap wielkiego niemieckiego odwrotu na Linię Hindenburga. W połowie marca Niemcy wycofali się na całym froncie od Arras po Soissons, a 17 marca Australijczycy weszli do Bapaume."
 ---
 
 25 lutego 1917 roku żołnierze brytyjskiej 5 Armii weszli bez walki do Serre, wsi nad rzeką [Ancre](https://pl.wikipedia.org/wiki/Ancre), o którą przez ponad pół roku rozbijały się kolejne natarcia. Na południe od rzeki zajęli [Pys](https://pl.wikipedia.org/wiki/Pys), dotarli pod [Miraumont](https://pl.wikipedia.org/wiki/Miraumont) i do [Warlencourt](https://pl.wikipedia.org/wiki/Warlencourt-Eaucourt). Niemcy, którzy bronili tych pozycji od początku [bitwy nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą), po prostu zniknęli. Na odcinku długim na kilkanaście kilometrów, od Le Transloy po Serre, Brytyjczycy niemal nigdzie nie mieli z nimi styczności. Nikt jeszcze o tym nie wiedział, ale był to pierwszy krok wielkiego niemieckiego odwrotu na nową pozycję, którą Brytyjczycy nazywali Linią Hindenburga.

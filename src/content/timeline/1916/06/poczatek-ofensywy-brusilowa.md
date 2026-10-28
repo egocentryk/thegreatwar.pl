@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Rosja, Austro-Węgry, Aleksiej Brusiłow, Bukowina]
 milestone: true
 draft: false
+brief:
+  - "4 czerwca 1916 roku rosyjski Front Południowo-Zachodni generała Aleksieja Brusiłowa rozpoczął wielką ofensywę przeciw Austro-Węgrom. Rosyjska artyleria otworzyła ogień od Styru po Czerniowce."
+  - "Brusiłow nie chciał powtarzać błędów spod jeziora Narocz, więc każda z jego armii przygotowała własne przełamanie. Przeciwnik nie wiedział, gdzie spadnie główne uderzenie."
+  - "Na Wołyniu 8 Armia Kaledina prowadziła głównie ostrzał, który zrujnował pozycje austro-węgierskie, a pod Tarnopolem 11 Armia atakowała, by wiązać przeciwnika. Szturm pod Ołyką wyznaczono na następny dzień."
+  - "Nad Dniestrem 9 Armia generała Płatona Leczyckiego od razu przerwała front austro-węgierskiej 7 Armii Pflanzera-Baltina. Rosjanie wdarli się na 5 kilometrów w głąb austriackich pozycji."
+  - "Następnego dnia piechota Kaledina przerwała obronę 4 Armii, a 7 czerwca Rosjanie weszli do Łucka. Tak zaczęła się ofensywa, która przyniosła armii rosyjskiej największe zwycięstwo w tej wojnie."
 ---
 
 4 czerwca 1916 roku, według kalendarza juliańskiego, którego używała wtedy Rosja, 22 maja, rosyjski Front Południowo-Zachodni rozpoczął wielką ofensywę przeciw Austro-Węgrom. O świcie rosyjskie baterie otworzyły ogień na całym froncie, od [Styru](https://pl.wikipedia.org/wiki/Styr) na Wołyniu po [Czerniowce](https://pl.wikipedia.org/wiki/Czerniowce) w Bukowinie. Austriacka historia oficjalna pisze, że ostrzał osiągnął na najważniejszych odcinkach siłę, jakiej front wschodni jeszcze nie znał. Tego dnia natarcie zaczęły wszystkie cztery armie generała [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow): na Wołyniu ostrzałem, który miał przygotować szturm następnego dnia, pod Tarnopolem i nad Dniestrem także atakami piechoty. Po stronie austro-węgierskiej był to akurat dzień 60. urodzin arcyksięcia [Fryderyka](https://pl.wikipedia.org/wiki/Fryderyk_Habsburg), nominalnego naczelnego wodza armii.

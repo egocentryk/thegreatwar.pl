@@ -2,7 +2,13 @@
 title: Start of the Battle of Thiepval Ridge
 summary: On 26 September 1916 the Reserve Army attacked Thiepval Ridge on the Somme. The 18th Division broke into Thiepval and the 11th at last took Mouquet Farm.
 source: poczatek-bitwy-o-grzbiet-thiepval
-sourceHash: 64901d4db5178549d445111b4447b737ef8e073e
+sourceHash: b1852d714bc6148bb700001eb9c8da3d3a8db4d8
+brief:
+  - "On 26 September 1916 at 12.35 p.m. General Hubert Gough's Reserve Army attacked Thiepval Ridge on the Somme, the last high ridge north of the Albert–Bapaume road held by the Germans."
+  - "Since 1914 the 180th Infantry Regiment from Württemberg had turned Thiepval into a fortress of deep dugouts and redoubts, against which the British attack broke on 1 July."
+  - "The Canadians almost reached the crest of the ridge beyond Courcelette, and the 11th Division after hours of fighting took Mouquet Farm, fought for in vain by the Australians since August."
+  - "General Ivor Maxse's carefully trained 18th Division broke into Thiepval and, helped by a tank, took most of the village. The three battalions of the 54th Brigade lost 840 of their 2,290 men."
+  - "The Stuff and Schwaben Redoubts remained in German hands, but the British had at last entered Thiepval, and on the next morning the 18th Division completed the capture of the village."
 ---
 
 On 26 September 1916 at 12.35 p.m., on a sunny autumn midday, General [Hubert Gough](/postacie/hubert-gough)'s Reserve Army went into the attack on [Thiepval](https://pl.wikipedia.org/wiki/Thiepval) Ridge, the last high ridge above the Somme north of the Albert–Bapaume road still held by the Germans. The front of the attack was about five and a half kilometres long, from Courcelette to the old German trenches south of Thiepval. By evening the Canadians had advanced onto the heights beyond Courcelette and almost reached the crest of the ridge, the British 11th Division had, after hours of fighting, taken the ruins of Mouquet Farm, for which the Australians had fought in vain since August, and the 18th Division had broken into Thiepval and taken most of the village. The most important points on the crest of the ridge, the Stuff and Schwaben Redoubts, nevertheless remained in German hands.

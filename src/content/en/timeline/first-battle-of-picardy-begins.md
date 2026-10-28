@@ -2,7 +2,12 @@
 title: First Battle of Picardy begins
 summary: On 22 September 1914 General de Castelnau's new French Second Army attacked north of the Oise. The Race to the Sea had begun.
 source: poczatek-pierwszej-bitwy-w-pikardii
-sourceHash: b4f8fc85620fd1a7e5a747d3c02176672bcfc1ea
+sourceHash: 2fc0093020be9441a8875125093c9c5428e0b196
+brief:
+  - "On 22 September 1914, north of the Oise, General Noël de Castelnau's newly formed French Second Army attacked to turn the German flank. It was the first major battle of the Race to the Sea and lasted until 26 September."
+  - "After the deadlock on the Aisne the front ran from Switzerland to near Compiègne, with no line further west. The French moved troops over their own undamaged railways, while the German railways could not keep up."
+  - "On the first day the French pushed the Germans out of some positions but found no empty space ahead. On 23 and 24 September the German XVIII Corps arrived and with II Corps counter-attacked at Roye and Lassigny."
+  - "The battle was indecisive but set the pattern for the following weeks: every attempt to outflank ended in a head-on clash, and each new stretch of front froze into trenches."
 ---
 
 On 22 September 1914 the First Battle of Picardy began in [Picardy](https://pl.wikipedia.org/wiki/Pikardia), north of the river [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). The newly formed French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) went over to the attack in order to turn the flank of the German armies from the west. The battle, which lasted until 26 September, was the first major engagement of the so-called [Race to the Sea](/bitwy/wyscig-do-morza), the series of attempts to outflank the enemy which in the autumn of 1914 extended the Western Front all the way to the North Sea coast.

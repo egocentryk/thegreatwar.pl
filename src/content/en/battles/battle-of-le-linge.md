@@ -9,7 +9,13 @@ sides:
     commanders: [Hans Gaede]
 result: Inconclusive. The French took part of the ridge but not all the summits, and German counter-attacks in the autumn won back some of their gains. The front froze here until the end of the war.
 source: bitwa-o-le-linge
-sourceHash: 53ac30216c51624cd8bd314f1e0acba1d6399aa6
+sourceHash: e4fff28e116a4dcddc0dc8ff33dcbb4159b5a8b1
+brief:
+  - "From 20 July to 16 October 1915 French chasseurs alpins stormed the wooded Linge ridge in the Vosges, west of Colmar. It was the bloodiest clash in the Vosges in the summer of 1915."
+  - "General Joseph Joffre preferred an \"outflanking by the heights\" and, against the commanders on the spot, halted the advance in the Fecht valley. The Germans had turned the ridge into a fortress of trenches, concrete shelters and wire."
+  - "In July and August the French, at the cost of enormous losses, took part of the ridge and, briefly, several summits. On 26 July the chasseurs broke onto the Lingekopf and seized the Collet du Linge pass."
+  - "From the end of August the Germans counter-attacked with gas and flamethrowers. When the fighting died down in mid-October, the front line had barely moved."
+  - "The battle brought neither side any strategic advantage, and both lost thousands of killed and wounded. Le Linge entered French memory as the \"tomb of the chasseurs\"."
 ---
 
 The Battle of Le Linge was the bloodiest clash in the Vosges in the summer of 1915. For almost three months French battalions of [chasseurs alpins](https://pl.wikipedia.org/wiki/Strzelcy_alpejscy) stormed the wooded Linge ridge in the [Vosges](https://pl.wikipedia.org/wiki/Wogezy), west of [Colmar](https://pl.wikipedia.org/wiki/Colmar), which the Germans had turned into a fortress of trenches, concrete shelters and wire entanglements. The fighting took place on a sector two to three kilometres long, often at grenade-throwing distance. In July and August the French took part of the ridge and, briefly, several summits, and from the end of August the Germans counter-attacked with gas and flamethrowers. When the fighting died down in mid-October, the front line had barely moved, and both sides had lost thousands of killed and wounded. Le Linge entered French memory as the "tomb of the chasseurs".

@@ -2,7 +2,13 @@
 title: The Battle of Neuve Chapelle begins
 summary: On 10 March 1915, after a 35-minute bombardment, the British First Army attacked at Neuve Chapelle. It took the village in hours but could go no further.
 source: poczatek-bitwy-pod-neuve-chapelle
-sourceHash: 85fb47cb2aeb40c97c7878a502ea7bb276fb7116
+sourceHash: d262a7c1aca2a99ead70b06cb87af0a2a47feb03
+brief:
+  - "On 10 March 1915 General Douglas Haig's First Army attacked at Neuve Chapelle in French Flanders. It was the first offensive the British had planned and carried out on their own since the front congealed into trenches."
+  - "Haig wanted to eliminate the German salient, take the village and push on to the Aubers Ridge. Preparations were thorough: maps from aerial photographs and more than 340 concealed guns with a timetable to the minute."
+  - "After a 35-minute bombardment British and Indian infantry crossed no man's land. On the left the 23rd Brigade was held up by intact wire, but according to French's report by 11 o'clock the whole village was taken."
+  - "Then the attack lost momentum: cut telephone lines delayed orders, and the Germans secured the flanks of the breach. The renewed advance began only at about 3.30 p.m. and was stopped by fire."
+  - "The battle ended on 13 March, and the Aubers Ridge remained in German hands. The first day proved that a trench front could be broken, but showed how hard it was to exploit such a breakthrough."
 ---
 
 At 7.30 a.m. on 10 March 1915 the British artillery opened fire on the German trenches around the village of [Neuve Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) in French Flanders. Half an hour later the infantry of General [Douglas Haig's](/postacie/douglas-haig) First Army, British and Indian, went into the attack. It was the first offensive that the British Expeditionary Force had planned and carried out on its own since the Western Front had congealed into trenches. In the morning everything went to plan: before noon the village was in British hands and the German line was broken on a front of about two kilometres. In the afternoon, however, the attack began to bog down.

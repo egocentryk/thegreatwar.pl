@@ -2,7 +2,13 @@
 title: Austria-Hungary declares war on Serbia
 summary: On 28 July 1914 Austria-Hungary declared war on Serbia by telegram. That same night Belgrade was shelled and the First World War began.
 source: austro-wegry-wypowiadaja-wojne-serbii
-sourceHash: c231803c759224d47eda15c004a5e31f0390167a
+sourceHash: 6219325555e6f548f58c11589f06c29dd794628d
+brief:
+  - "On 28 July 1914, exactly a month after the assassination in Sarajevo, Austria-Hungary declared war on Serbia. For many historians this day marks the beginning of the First World War."
+  - "Leopold Berchtold sent the declaration by telegram to Prime Minister Nikola Pašić in Niš, as diplomatic relations had been broken off three days earlier. It was the first time war had been declared by telegram."
+  - "Wilhelm II judged the Serbian reply a moral victory for Vienna and proposed merely occupying Belgrade, but Bethmann Hollweg passed the proposal on only late in the evening, when war had already been declared."
+  - "On the night of 28–29 July Austro-Hungarian artillery in Zemun and river monitors shelled Belgrade. The Serbian campaign began in earnest only in mid-August, once mobilisation was complete."
+  - "Vienna counted on a short, local war, but Russia stood behind Serbia and Germany behind Austria-Hungary. Within a week the Balkan conflict had turned into a general European war."
 ---
 
 On 28 July 1914, exactly a month after the assassination in Sarajevo, [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) declared war on [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). That same night the first shells fell on Belgrade. For many historians this day marks the beginning of the [First World War](https://pl.wikipedia.org/wiki/I_wojna_światowa). A conflict that Vienna had wanted to confine to a short reckoning with its neighbour drew all the great powers of Europe into war within a week.

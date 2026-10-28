@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [Niemcy, okręty podwodne, Stany Zjednoczone, Theobald von Bethmann Hollweg]
 milestone: true
 draft: false
+brief:
+  - "31 stycznia 1917 roku ambasador Johann Heinrich von Bernstorff zawiadomił USA, że od 1 lutego niemieckie okręty podwodne będą bez ostrzeżenia zatapiać każdy statek w strefach wokół Wielkiej Brytanii, Francji i Włoch."
+  - "Admirał Henning von Holtzendorff wyliczał, że zatapianie 600 tysięcy ton miesięcznie zmusi Wielką Brytanię do pokoju przed żniwami. Hindenburg i Ludendorff nie wierzyli już w zwycięstwo na lądzie."
+  - "Kanclerz Bethmann Hollweg prosił o zwłokę, ale 9 stycznia w Pszczynie nie podjął już prawdziwej walki. Cesarz Wilhelm II rozkazał rozpocząć nieograniczoną wojnę podwodną 1 lutego."
+  - "Hindenburg liczył się z możliwością wojny ze Stanami Zjednoczonymi. 3 lutego Wilson zerwał z Niemcami stosunki dyplomatyczne, a 6 kwietnia 1917 roku Stany Zjednoczone wypowiedziały Niemcom wojnę."
+  - "W kwietniu okręty podwodne zatopiły ponad 860 tysięcy ton, najwięcej w całej wojnie, ale Wielka Brytania nie skapitulowała przed żniwami. Wojna podwodna sprowadziła za to na front zachodni armię Stanów Zjednoczonych."
 ---
 
 31 stycznia 1917 roku po południu niemiecki ambasador w Waszyngtonie hrabia [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff) wręczył sekretarzowi stanu [Robertowi Lansingowi](/postacie/robert-lansing) notę swojego rządu z dwoma memoriałami. Niemcy zawiadamiali w niej, że od 1 lutego w strefach wokół Wielkiej Brytanii, Francji i Włoch oraz na wschodnim Morzu Śródziemnym będą „wszelkimi środkami” zatrzymywać całą żeglugę, także państw neutralnych. Każdy statek napotkany w tych strefach miał zostać zatopiony bez ostrzeżenia. Tego samego dnia identyczną wiadomość otrzymał w Berlinie ambasador amerykański James W. Gerard, a Austro-Węgry ogłosiły podobną strefę blokady wokół Włoch. Od zobowiązań, które Niemcy przyjęli po [kryzysie wywołanym zatopieniem Sussexa](/nota-usa-w-sprawie-sussexa), odstępowali z kilkugodzinnym uprzedzeniem. Rozpoczynała się nieograniczona wojna podwodna, której domagały się od dwóch lat niemiecka marynarka i od pół roku Naczelne Dowództwo.

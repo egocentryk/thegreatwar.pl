@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Niemcy, Stany Zjednoczone, Wielka Brytania, wywiad]
 milestone: true
 draft: false
+brief:
+  - "19 stycznia 1917 roku ambasador Bernstorff przekazał z Waszyngtonu do Meksyku tajny telegram sekretarza stanu Arthura Zimmermanna z propozycją sojuszu przeciw Stanom Zjednoczonym."
+  - "Depesza była skutkiem decyzji z Pszczyny o rozpoczęciu 1 lutego nieograniczonej wojny podwodnej, która mogła oznaczać wojnę z Ameryką."
+  - "Zimmermann obiecywał Meksykowi wsparcie finansowe i odzyskanie ziem w Teksasie, Nowym Meksyku i Arizonie, a prezydent Carranza miał wciągnąć do sojuszu Japonię."
+  - "Brytyjski Room 40 przechwycił depeszę już 16 stycznia, a komandor Hall czekał z ujawnieniem, by nie zdradzić, że Brytyjczycy czytają niemieckie kody i amerykańskie depesze."
+  - "Telegram, opublikowany w amerykańskiej prasie 1 marca, wzburzył opinię publiczną, a 3 marca Zimmermann przyznał, że jest prawdziwy. 6 kwietnia 1917 roku Stany Zjednoczone wypowiedziały Niemcom wojnę."
 ---
 
 19 stycznia 1917 roku w ambasadzie Niemiec w Waszyngtonie siedmiu szyfrantów przez wiele godzin rozszyfrowywało długą depeszę z Berlina. Telegram nr 157, liczący 856 grup cyfr, zawierał instrukcje kanclerza w sprawie wojny podwodnej. Dołączony do niego krótszy telegram nr 158 był przeznaczony dla niemieckiego posła w [Meksyku](https://pl.wikipedia.org/wiki/Meksyk) Heinricha von Eckardta. Jeszcze tego samego dnia dwóch urzędników zaszyfrowało go na nowo starszym kodem, który znała placówka w Meksyku, i ambasador hrabia [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff) wysłał go zwykłym telegrafem do stolicy Meksyku. Depesza dotarła tam jeszcze tego dnia. Podpisał ją sekretarz stanu w Urzędzie Spraw Zagranicznych [Arthur Zimmermann](/postacie/arthur-zimmermann), od listopada [kierujący niemiecką dyplomacją](/zimmermann-ministrem-spraw-zagranicznych). Proponował w niej Meksykowi sojusz przeciw Stanom Zjednoczonym.

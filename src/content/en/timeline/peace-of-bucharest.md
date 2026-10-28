@@ -2,7 +2,13 @@
 title: Peace of Bucharest
 summary: On 7 May 1918 in Bucharest the Marghiloman government signed peace with the Central Powers. Romania lost Dobruja and the Carpathian passes; Germany got its oil.
 source: pokoj-w-bukareszcie
-sourceHash: d1f1f1fa87cb21d3457c60a970b02d22b15fa201
+sourceHash: 045d53b981200be867311d2901afa67dc3add631
+brief:
+  - "On 7 May 1918 in the Cotroceni Palace in occupied Bucharest, Alexandru Marghiloman's government signed a peace treaty with Germany, Austria-Hungary, Bulgaria and Turkey, turning the terms of Buftea into a final peace."
+  - "Romania ceded southern Dobruja with a strip of the north to Bulgaria, and the rest of the region to the four Central Powers jointly. To Austria-Hungary it handed over the ridges and passes of the Carpathians."
+  - "Wallachia with Bucharest remained under occupation with no set end date, and the Romanian army was partly disbanded and reduced to a lower peacetime strength."
+  - "For Germany the economic provisions were the most valuable: the right to requisition grain and oil, and the exclusive right to exploit the state oil lands around Ploiești for a company mostly owned by Germans and Austrians."
+  - "The treaty never fully came into force, as King Ferdinand I never promulgated it. On 10 November 1918 Romania re-entered the war, and the Armistice of Compiègne obliged Germany to renounce this peace."
 ---
 
 On 7 May 1918 (24 April by the Julian calendar, which Romania used) a [peace treaty](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1918)) between Romania and Germany, Austria-Hungary, Bulgaria and Turkey was signed in the [Cotroceni Palace](https://pl.wikipedia.org/wiki/Pałac_Cotroceni) in occupied [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). It was signed for Romania by the prime minister [Alexandru Marghiloman](/postacie/alexandru-marghiloman), the foreign minister Constantin Arion and two plenipotentiaries, Mihail Burghele and Ion Papiniu. The Central Powers were represented by, among others, the German Foreign Secretary Richard von Kühlmann, the Austro-Hungarian foreign minister [István Burián](/postacie/istvan-burian) and the Bulgarian prime minister [Vasil Radoslavov](/postacie/wasil-radoslawow). Some contemporary publications, among them American law journals and *Current History*, gave the date as 6 May, but the treaty itself is dated 7 May, and historians accept that date.

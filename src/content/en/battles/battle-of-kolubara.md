@@ -9,7 +9,13 @@ sides:
     commanders: [Oskar Potiorek, Liborius von Frank]
 result: Serbian victory. The Serbian counter-offensive routed Potiorek's armies, retook Valjevo and Belgrade and by mid-December drove the Austro-Hungarians out of the country.
 source: bitwa-nad-kolubara
-sourceHash: 2cd8393a8f3f8034568ae2ea382f5c6a4751c812
+sourceHash: 4a839ea826cd3905931b860a3606107d1782e67b
+brief:
+  - "The Battle of Kolubara, fought from 16 November to 15 December 1914, was the largest engagement on the Balkan front in 1914. Austria-Hungary had then invaded Serbia for the third time."
+  - "The exhausted Serbian army, almost without shells, fell back behind the Kolubara and into the mountains. General Živojin Mišić withdrew the First Army to rest it, and on 2 December Potiorek occupied abandoned Belgrade."
+  - "The Serbs received ammunition from France, Greece and Russia, though the French shells had to be converted. On 3 December Mišić's First Army took the enemy by surprise with a counter-offensive from Suvobor."
+  - "The Austro-Hungarian retreat turned into flight. On 15 December the Serbs returned to Belgrade, and Serbia had been cleared of the invader's troops."
+  - "The victory wrecked Austro-Hungarian plans for a quick defeat of Serbia, and Potiorek lost his command. In the winter, however, the exhausted country fell victim to an epidemic of typhus."
 ---
 
 The [Battle of Kolubara](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) was the largest engagement on the Balkan front in 1914 and one of the most unexpected victories of the first year of the war. In November the forces of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry), entering [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) for the third time, pushed the exhausted Serbian army deep into the country and on 2 December occupied the abandoned city of [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). While Vienna was celebrating an imminent victory, the Serbs, at last supplied with ammunition, went over to the counter-offensive. In less than two weeks they routed the armies of General [Oskar Potiorek](/postacie/oskar-potiorek) and drove them out of the whole country.

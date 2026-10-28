@@ -2,7 +2,13 @@
 title: Third Battle of the Scarpe begins
 summary: At 3.45 a.m. on 3 May 1917, still in darkness, three British armies struck again at Arras. They failed almost everywhere. Only the Canadians succeeded.
 source: poczatek-trzeciej-bitwy-nad-scarpe
-sourceHash: 6e7efeeea5dbd279dd13f1c3926be462e8417986
+sourceHash: 7196676c05c5a23108fcf86d86da599e018a0214
+brief:
+  - "On 3 May 1917, still in darkness, the British Third and First Armies attacked on a broad front at Arras for the last time in this battle, while the Fifth Army attacked at Bullecourt."
+  - "The Nivelle Offensive had failed, but Douglas Haig could not break off the battle himself while the French announced further attacks. He set a more modest objective: a defensive line from Lens to Riencourt."
+  - "The attack in the dark ended in chaos: battalions lost direction and lost the creeping barrage. German counter-attacks took back the ground they had won, including Chérisy."
+  - "Only the Canadians succeeded, taking Fresnoy and beating off counter-attacks. The Canadian Corps lost 1,474 men that day and took 491 Germans prisoner."
+  - "The British official history called the attack \"nothing less than a disaster\". Falls pointed to exhausted divisions, poorly trained drafts and the new German tactics of defence in depth."
 ---
 
 At 3.45 a.m. on 3 May 1917, more than an hour and a half before sunrise, the British infantry attacked on a broad front at [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) for the last time in this battle. On a front more than 14 miles (over 22 km) long, from the valley of the Sensée stream past Monchy-le-Preux and the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) to the village of [Fresnoy](https://pl.wikipedia.org/wiki/Fresnoy-en-Gohelle), the divisions of General [Edmund Allenby's](/postacie/edmund-allenby) Third Army and General Henry Horne's First Army went forward. At the same time, on the right flank, General [Hubert Gough's](/postacie/hubert-gough) Fifth Army attacked the Hindenburg Line at [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt). By evening it was clear that the attack on the Scarpe had failed almost everywhere. The British official history (Cyril Falls) called it "nothing less than a disaster", and the capture of Fresnoy by the Canadians the one bright spot of a day that many witnesses regarded as the blackest of the whole war. The British chronology of the war gives 2 May as the start of the battle, but the attack went in early on 3 May, as the official history and other accounts confirm.

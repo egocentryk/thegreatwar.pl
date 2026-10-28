@@ -2,7 +2,13 @@
 title: Battle of Arras (1917) begins
 summary: On Easter Monday, 9 April 1917, the British and Canadians attacked at Arras. In one day they advanced 5 km and took thousands of prisoners.
 source: poczatek-bitwy-pod-arras-1917
-sourceHash: 2e1e1252f0441f353e81e92fd4209beef7bd8298
+sourceHash: dbcdcd463decbb3476aad1aaf6df8c7f0f747edc
+brief:
+  - "On Easter Monday, 9 April 1917, British and Canadian infantry attacked at Arras. The offensive was meant to draw in German reserves ahead of the French attack on the Aisne."
+  - "Nearly 2,800 guns and howitzers were brought up, almost three times as many as the Germans had. Many soldiers waited for the signal in the cellars and chalk quarries beneath Arras."
+  - "North of the Scarpe the British advanced more than five kilometres, the furthest in a single day since the start of trench warfare, and the Canadians took almost the whole of Vimy Ridge."
+  - "Ludwig von Falkenhausen's German 6th Army kept its reserves 25–30 km behind the front and could not use them in time. British cavalry, however, failed to exploit the gap that opened east of Arras that evening."
+  - "The British official history counted the day \"among the great days of the war\", but there was no breakthrough. In the following days the British advanced ever more slowly and suffered heavier losses."
 ---
 
 On 9 April 1917, [Easter Monday](https://pl.wikipedia.org/wiki/Poniedziałek_Wielkanocny), at 5.30 a.m., thousands of guns opened fire on a front more than twenty kilometres long around [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) in northern France, and the British and Canadian infantry went over the top. So began the great British spring offensive, which was meant to draw in the German reserves ahead of the French attack on the Aisne. The first day was one of the British Army's best days of the whole war. The British official history writes that Easter Monday 1917 "must be counted among the great days of the war": it was the most powerful and at the same time the most successful British attack yet carried out. North of the [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) river British troops advanced more than five kilometres, the furthest in a single day since the start of trench warfare, and the Canadians took almost the whole of Vimy Ridge.

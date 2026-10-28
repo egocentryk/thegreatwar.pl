@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Lotaryngia, Francja, Niemcy, Noël de Castelnau]
 milestone: true
 draft: false
+brief:
+  - "4 września 1914 roku niemiecka 6 Armia księcia Rupprechta Bawarskiego uderzyła na wzgórza Grand Couronné przed Nancy. Broniła ich osłabiona 2 Armia gen. Noëla de Castelnau, a bitwa toczyła się równocześnie z bitwą nad Marną."
+  - "Joffre zabierał Castelnau kolejne korpusy na zachód, więc wzgórz broniły w dużej części dywizje rezerwowe wspierane przez XX Korpus. Najcięższe walki toczyły się w lesie koło Champenoux i na zboczach Amance."
+  - "W nocy z 6 na 7 września francuskie oddziały rezerwowe cofnęły się bez rozkazu z Sainte-Geneviève, ale Niemcy nie wykorzystali okazji. Relacje o tym, czy Castelnau był gotów oddać Nancy, są sprzeczne."
+  - "Od 8 września Moltke zabierał Rupprechtowi wojska na zagrożone prawe skrzydło, a od 10 września Niemcy zaczęli się wycofywać. Daty końca bitwy podawane są różnie, od 11 do 13 września."
+  - "Nancy pozostało w rękach francuskich przez całą wojnę. Utrzymanie prawego skrzydła pozwoliło Joffre'owi przenieść wojska nad Marnę i związało w Lotaryngii duże siły niemieckie."
 ---
 
 4 września 1914 roku w Lotaryngii rozpoczęła się bitwa o Grand Couronné, nazywana też bitwą o Nancy. Niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) uderzyła na łańcuch wzgórz osłaniających od północnego wschodu [Nancy](https://pl.wikipedia.org/wiki/Nancy), stolicę francuskiej Lotaryngii. Broniła ich osłabiona 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau). Bitwa toczyła się równocześnie z wielką bitwą nad Marną i miała rozstrzygnąć, czy Niemcom uda się przełamać francuski front od wschodu.

@@ -15,6 +15,12 @@ result: Zwycięstwo Rosji. Po nieudanych próbach odsieczy i przebicia się z ok
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Rosja, Galicja, Przemyśl]
 milestone: true
+brief:
+  - "Drugie oblężenie Przemyśla, od listopada 1914 do 22 marca 1915 roku, było najdłuższym oblężeniem I wojny światowej w Europie. W twierdzy zostało około 130 tysięcy żołnierzy gen. Hermanna Kusmanka."
+  - "Armia Oblężnicza gen. Andrieja Sieliwanowa nie szturmowała fortów. Otoczyła twierdzę pierścieniem okopów, odcięła ją od dostaw i czekała, aż załodze skończy się żywność."
+  - "Zimą obrońców nękały głód, zimno i choroby, a z twierdzy wywożono pocztę samolotami i balonami. Austro-węgierskie próby odsieczy przez Karpaty kosztowały setki tysięcy ludzi i zakończyły się niepowodzeniem."
+  - "19 marca nieudany wypad na wschód przyniósł ogromne straty. Rankiem 22 marca saperzy wysadzili forty, a załoga skapitulowała. Do niewoli poszło według najczęstszych danych około 117 tysięcy podoficerów i szeregowych."
+  - "Upadek Przemyśla był jedną z największych klęsk monarchii habsburskiej. Po tej zimie armia austro-węgierska nigdy już w pełni się nie odbudowała i coraz bardziej zależała od Niemiec."
 ---
 
 Drugie oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) było najdłuższym oblężeniem I wojny światowej w Europie. Zaczęło się w listopadzie 1914 roku, niespełna miesiąc po [odsieczy](/odsiecz-przemysla), która zakończyła [pierwsze oblężenie](/bitwy/pierwsze-oblezenie-przemysla). Gdy armie austro-węgierskie znów cofnęły się na zachód i w Karpaty, w twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało około 130 tysięcy żołnierzy generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten) i kilkanaście tysięcy cywilów. Tym razem Rosjanie nie próbowali zdobywać fortów szturmem, lecz postanowili wziąć załogę głodem. Przez całą zimę Austro-Węgry próbowały przebić się do Przemyśla przez Karpaty i straciły w tych walkach setki tysięcy ludzi. 22 marca 1915 roku, po nieudanej próbie wyrwania się z okrążenia, wygłodzona załoga wysadziła forty i poddała się. Była to jedna z największych kapitulacji tej wojny.

@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Niemcy, Rosja, Ukraina, Włodzimierz Lenin]
 milestone: true
 draft: false
+brief:
+  - "18 lutego 1918 roku w południe wygasł rozejm na froncie wschodnim, a kilka godzin później wojska niemieckie ruszyły od Zatoki Ryskiej po Wołyń. Rozpoczęła się operacja Faustschlag, ostatnia wielka ofensywa na wschodzie."
+  - "Trocki ogłosił 10 lutego, że Rosja kończy wojnę, ale nie podpisze pokoju aneksyjnego. Niemieckie dowództwo uznało to oświadczenie za wypowiedzenie rozejmu i chciało wymusić pokój na swoich warunkach."
+  - "Prawie nikt nie stawiał oporu, bo większość rosyjskich żołnierzy wróciła już do domów. Jeszcze tego samego wieczoru Niemcy zajęli Dźwińsk, którego nie zdołali zdobyć w 1915 roku."
+  - "W nocy Lenin minimalną większością przeforsował w Komitecie Centralnym przyjęcie niemieckich warunków. Niemcy parli jednak dalej, a 3 marca Rosja podpisała w Brześciu traktat pokojowy."
 ---
 
 18 lutego 1918 roku w południe wygasł rozejm, który od połowy grudnia wstrzymywał walki na froncie wschodnim. Kilka godzin później wojska niemieckie ruszyły na całej długości frontu, od Zatoki Ryskiej po Wołyń. Rozpoczęła się operacja Faustschlag („uderzenie pięścią”), ostatnia wielka ofensywa na wschodzie. Już wieczorem Niemcy byli w [Dźwińsku](https://pl.wikipedia.org/wiki/Dyneburg), którego nie zdołali zdobyć w 1915 roku, a na południu w Łucku. Formuła „ani wojna, ani pokój”, którą bolszewicy ogłosili w Brześciu, przetrwała nieco ponad tydzień.

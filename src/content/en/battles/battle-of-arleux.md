@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below, Fritz von Loßberg]
 result: A local Canadian success amid general failure. The Canadians took Arleux and several hundred prisoners, but the British took neither Rœux nor Oppy and suffered heavy losses.
 source: bitwa-pod-arleux
-sourceHash: 14ec82773ef590099aa33eac997ee00b6e8b7312
+sourceHash: 749650fad293689c01f764000bc6126d75fa8da0
+brief:
+  - "The Battle of Arleux, fought on 28–29 April 1917, was the fourth phase of the Battle of Arras and one of the limited attacks with which the British supported the French offensive on the Aisne."
+  - "Haig continued the fighting at Arras solely to help Nivelle, whose offensive was bringing heavy losses. The British divisions were exhausted and their battalions badly depleted."
+  - "At 4.25 a.m. on 28 April six divisions attacked on a front about 10 km long. At Rœux, Gavrelle and Oppy the attack failed, and German counter-attacks drove the British back to their starting positions."
+  - "The only real success was the capture of Arleux by the 2nd Brigade of the 1st Canadian Division. The British official history called it \"the only tangible success of the whole operation\"."
+  - "The British official history judged the battle \"on the whole a failure\", as the British had no answer yet to Loßberg's defence in depth. The position at Fresnoy served the Canadians for the attack of 3 May."
 ---
 
 The Battle of Arleux was the fourth phase of the [Battle of Arras](/bitwy/bitwa-pod-arras-1917) and one of the many limited attacks with which the British kept up the pressure on the Germans in the spring of 1917 in support of the French offensive on the Aisne. On 28 April at 4.25 a.m. three divisions of the British Third Army, together with two British divisions and one Canadian division of the First Army, attacked on a front about 10 km long, from Monchy-le-Preux to the village of [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle). Along almost its whole length the attack failed: Rœux and the chemical works on the Scarpe once again withstood the assaults, and at Gavrelle and [Oppy](https://pl.wikipedia.org/wiki/Oppy) German counter-attacks drove the British back to their starting positions. The only real success was the capture of Arleux by the 2nd Brigade of the 1st Canadian Division. The British official history called it "the only tangible success of the whole operation".

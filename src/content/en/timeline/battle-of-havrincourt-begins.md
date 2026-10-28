@@ -2,7 +2,13 @@
 title: Battle of Havrincourt begins
 summary: On 12 September 1918 Byng's Third Army took Havrincourt and Trescault in front of the Hindenburg Line, while New Zealanders fought the elite Jäger Division.
 source: poczatek-bitwy-pod-havrincourt
-sourceHash: abd21b502c6d6d54adcfc2e44545780e60c32237
+sourceHash: 365445883a73d639d248b62652adcbdda5798a97
+brief:
+  - "At 5.25 a.m. on 12 September 1918 the artillery of General Julian Byng's British Third Army opened fire on a front of about 8 kilometres between Gouzeaucourt Wood and the Canal du Nord. Four brigades went into the attack."
+  - "The objectives were two ridges in front of the Hindenburg Line and the village of Havrincourt. Byng believed the German divisions were exhausted and had to be attacked continuously, though Haig did not yet intend to assault the main position."
+  - "The 62nd Division, which had taken Havrincourt in November 1917, bypassed the village on both sides and recaptured it, while the 37th Division took Trescault. An evening German counter-attack on Havrincourt broke down."
+  - "The New Zealanders had the hardest task on the Trescault ridge, held by the elite Jäger Division. Sergeant Harry Laurent and a handful of men took 111 soldiers prisoner, and he received the Victoria Cross."
+  - "The Third Army advanced on average almost one and a half kilometres. The British committee recognised the attack as the start of the battles of the Hindenburg Line, and Byng regarded 12 September as the most important day of his command."
 ---
 
 At 5.25 a.m. on 12 September 1918 the artillery of General [Julian Byng](/postacie/julian-byng)'s British Third Army opened fire on a front of about 8 kilometres between Gouzeaucourt Wood and the Canal du Nord. Behind the barrage four brigades went into the attack: one New Zealand and three British. Their objectives were two ridges in front of the Hindenburg Line and the village of [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), which lay right against the German position. On the same day, more than 200 kilometres to the south-east, [the Americans attacked the Saint-Mihiel salient](/poczatek-bitwy-pod-saint-mihiel). The British Battles Nomenclature Committee later recognised the attack at Havrincourt as the start of the battles of the Hindenburg Line, which in October brought the breaking of the whole position.

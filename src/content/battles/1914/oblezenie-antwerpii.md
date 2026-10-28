@@ -17,6 +17,12 @@ result: Zwycięstwo Niemiec. Twierdza skapitulowała 10 października, ale armia
 authors: [Natalia]
 tags: [Belgia, Niemcy, Antwerpia, Winston Churchill]
 milestone: true
+brief:
+  - "Od 27 września do 10 października 1914 roku wojska niemieckie gen. Hansa von Beselera oblegały Antwerpię, redutę narodową i ostatnią twierdzę Belgii, w której schroniła się armia belgijska."
+  - "Po odwrocie znad Marny Niemcy uznali armię belgijską w Antwerpii za zagrożenie. O wyniku miała przesądzić ciężka artyleria, w tym moździerze kalibru 420 i 305 milimetrów."
+  - "Pociski rozbiły zewnętrzny pierścień fortów, a Niemcy sforsowali Nete. Winston Churchill przysłał z posiłkami brytyjską Dywizję Marynarki, by Belgowie bronili się jeszcze kilka dni."
+  - "Król Albert wyprowadził armię polową z twierdzy na zachód. 9 października Niemcy wkroczyli do miasta, a 10 października twierdza formalnie skapitulowała."
+  - "Belgia straciła największy port, ale jej armia przetrwała i stanęła nad Yser, zamykając Niemcom drogę do Dunkierki i Calais. Spór o sens wyprawy Churchilla trwa do dziś."
 ---
 
 [Oblężenie Antwerpii](https://pl.wikipedia.org/wiki/Oblężenie_Antwerpii), trwające od 27 września do 10 października 1914 roku, zakończyło walkę o ostatnią twierdzę Belgii. Wojska niemieckie generała [Hansa von Beselera](/postacie/hans-von-beseler), wsparte najcięższą artylerią oblężniczą, w niespełna dwa tygodnie rozbiły zewnętrzny pierścień fortów i zmusiły miasto do kapitulacji. Armia belgijska, której zagłada była głównym celem Niemców, zdołała się jednak wycofać i wkrótce stanęła do obrony nad rzeką Yser.

@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Brytyjczycy nie zdobyli La Bassée, a Niemcy zajęli
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Indie Brytyjskie, wyścig do morza]
 milestone: true
+brief:
+  - "Bitwa pod La Bassée, toczona od 10 października do 2 listopada 1914 roku, była pierwszą z serii bitew, które armia brytyjska stoczyła jesienią 1914 roku we Flandrii, na ostatnim odcinku wyścigu do morza."
+  - "Brytyjski II Korpus gen. Horace'a Smith-Dorriena, przerzucony znad Aisne, miał wraz z francuską kawalerią obejść skrzydło niemieckiej 6 Armii i zdobyć La Bassée."
+  - "Natarcie posuwało się wolno przez podmokłą równinę i utknęło. Od 20 października Niemcy przeszli do natarcia, a II Korpus wycofał się na linię od Givenchy przez Neuve-Chapelle do Fauquissart."
+  - "Z pomocą indyjskich dywizji Lahore i Meerut wyczerpany II Korpus utrzymał front, choć stracił Neuve-Chapelle. W październiku korpus stracił prawie 14 tysięcy żołnierzy."
+  - "Bitwa zakończyła brytyjskie próby obejścia niemieckiego skrzydła na południe od Lys. Po raz pierwszy walczyły w niej na froncie zachodnim wojska armii Indii Brytyjskich."
 ---
 
 Bitwa pod [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée) była pierwszą z serii bitew, które jesienią 1914 roku armia brytyjska stoczyła we Flandrii, na ostatnim odcinku [wyścigu do morza](/bitwy/wyscig-do-morza). Brytyjski II Korpus generała Horace'a Smith-Dorriena, przerzucony [znad Aisne](/bef-opuszcza-aisne), miał wraz z francuską kawalerią obejść północne skrzydło niemieckiej 6 Armii i zdobyć La Bassée, miasteczko przy kanale łączącym Aire z Lille. Po kilku dniach powolnych postępów natarcie utknęło, a od 20 października Brytyjczycy musieli odpierać coraz silniejsze niemieckie kontrataki. Wyczerpany II Korpus, wsparty przez pierwsze oddziały indyjskie, utrzymał front, choć stracił Neuve-Chapelle, a La Bassée pozostało w rękach niemieckich aż do października 1918 roku.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Imperium Osmańskie, Wielka Brytania, Erich von Falkenhayn, David Lloyd George]
 milestone: true
 draft: false
+brief:
+  - "9 grudnia 1917 roku Jerozolima poddała się bez walki wojskom generała sir Edmunda Allenby'ego. Po czterystu latach rządów osmańskich Święte Miasto przeszło w ręce brytyjskie."
+  - "Dzień wcześniej brytyjska 60 i 74 Dywizja zdobyły tureckie umocnienia na zachód od miasta. Allenby nie chciał walczyć w samym mieście, a obrońcy w nocy uciekli na północ i wschód."
+  - "Rano burmistrz Husajn Salim al-Husajni wyszedł z białą flagą i pismem gubernatora o poddaniu miasta. Przez kilka godzin szukał kogoś, kto zechciałby przyjąć kapitulację, aż przyjął ją generał major John Shea."
+  - "Mieszkańcy witali Brytyjczyków entuzjastycznie, a żadne ze świętych miejsc nie zostało uszkodzone. Po raz pierwszy od XIII wieku miasto przeszło pod władzę chrześcijańskiego państwa."
+  - "Dla Imperium Osmańskiego była to dotkliwa strata prestiżu, a dla Ententy dobra wiadomość w ponurym czasie po Caporetto. Lloyd George dostał Jerozolimę dwa tygodnie przed Bożym Narodzeniem."
 ---
 
 9 grudnia 1917 roku, w niedzielę, [Jerozolima](https://pl.wikipedia.org/wiki/Jerozolima) poddała się wojskom generała sir [Edmunda Allenby'ego](/postacie/edmund-allenby). Nie było szturmu ani walk na ulicach. Poprzedniego dnia Brytyjczycy zdobyli tureckie umocnienia na zachód od miasta, a w nocy jego obrońcy uciekli. Rano burmistrz Husajn Salim al-Husajni wyszedł z białą flagą na spotkanie Brytyjczyków, niosąc pismo osmańskiego gubernatora o poddaniu miasta, i przez kilka godzin szukał kogoś, kto zechciałby je przyjąć. Po czterystu latach rządów osmańskich Święte Miasto chrześcijan, żydów i muzułmanów przeszło w ręce brytyjskie, a żadne z jego świętych miejsc nie zostało uszkodzone.

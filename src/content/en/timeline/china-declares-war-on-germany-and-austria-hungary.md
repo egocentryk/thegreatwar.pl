@@ -2,7 +2,13 @@
 title: China declares war on Germany and Austria-Hungary
 summary: At 10 a.m. on 14 August 1917 China proclaimed a state of war with Germany and Austria-Hungary. The proclamation was signed by President Feng Guozhang.
 source: chiny-wypowiadaja-wojne-niemcom-i-austro-wegrom
-sourceHash: c97e848d20314f4a929e2c2f71045d7471004def
+sourceHash: adbfa6a26b7327f7963366a2821ee38b5d5a486e
+brief:
+  - "At ten in the morning on 14 August 1917 the Republic of China announced that it was at war with Germany and Austria-Hungary. President Feng Guozhang signed the proclamation, and all treaties with the two states were annulled."
+  - "Five months of dispute had passed since the break with Germany on 14 March, in which President Li Yuanhong fell and parliament was dissolved. Prime Minister Duan Qirui, who pressed for war, had no opponents left in Peking."
+  - "Duan was counting on a place at the peace conference, the recovery of the German rights in Shantung and foreign loans. Japan, however, held secret Allied promises to support its claims to Shantung."
+  - "The Chinese army never set out for Europe; China's main contribution was the labour of more than 140,000 workers behind the Western Front. The south under Sun Yat-sen did not recognise the decision."
+  - "At the Paris Peace Conference the powers awarded the German rights in Shantung to Japan, which gave rise to the May Fourth Movement. China refused to sign the Treaty of Versailles."
 ---
 
 At ten in the morning on 14 August 1917 the Republic of China announced that it was at war with Germany and Austria-Hungary. The proclamation was signed by President [Feng Guozhang](https://pl.wikipedia.org/wiki/Feng_Guozhang), who had been in office in [Peking](https://pl.wikipedia.org/wiki/Pekin) for two weeks. It recalled that China had tried to persuade Germany to change its submarine policy and, when that failed, had broken off relations with it in defence of international law and of the lives of its citizens. Now it was declaring war on Austria-Hungary as well, because it too pursued the same policy "without any modification". Before noon the Chinese Ministry of Foreign Affairs informed the legations that all treaties with Germany and Austria-Hungary had been annulled, as had those provisions of the 1901 protocol that ended the [Boxer Rebellion](https://pl.wikipedia.org/wiki/Powstanie_bokserów), and of other international agreements, that concerned only China's relations with those two states. China announced that it would observe the [Hague Conventions](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) and other agreements on the humane conduct of war.

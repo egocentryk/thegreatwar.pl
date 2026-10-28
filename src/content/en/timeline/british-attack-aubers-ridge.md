@@ -2,7 +2,13 @@
 title: British attack Aubers Ridge
 summary: On 9 May 1915 the British First Army attacked Aubers Ridge to support the French in Artois. Machine-gun fire stopped the attack in no man's land.
 source: brytyjczycy-atakuja-grzbiet-aubers
-sourceHash: 85af86a7b27120aa8eee54110c6b3a75f09b029f
+sourceHash: 38af3f27467c0e26243c7c1f22252c3b7fdcbb39
+brief:
+  - "On 9 May 1915 General Douglas Haig's British First Army attacked the German positions in front of the Aubers ridge in French Flanders, to support the French offensive in Artois."
+  - "The bombardment lasted only 40 minutes, as the British lacked heavy guns and high-explosive shells. The Germans had built thick breastworks and placed machine guns closely, and the bombardment barely touched them."
+  - "At the Rue du Bois the infantry lay down in no man's land before the uncut wire. At Fromelles soldiers broke into the German trenches, but, cut off, they were driven out by counter-attacks."
+  - "According to the British official history the First Army lost 458 officers and 11,161 other ranks that day, without holding a single metre of German trench. German losses were many times smaller."
+  - "It was one of the bloodiest defeats of the British army in 1915. The shortage of shells it revealed reached the newspapers a few days later and became a political issue in Britain."
 ---
 
 On 9 May 1915, on a sunny Sunday morning, General [Douglas Haig](/postacie/douglas-haig)'s British First Army attacked the German positions in front of the [Aubers](https://pl.wikipedia.org/wiki/Aubers) ridge in French Flanders. The attack was meant to support the great French offensive that began the same day a few dozen kilometres to the south, in [Artois](https://pl.wikipedia.org/wiki/Artois). The British hoped to repeat the success of the first day of the [Battle of Neuve Chapelle](/bitwy/bitwa-pod-neuve-chapelle) in March. It ended as one of the bloodiest defeats of the British army in 1915: by the evening the First Army had lost more than 11,000 killed, wounded and missing and had not held a single metre of German trench.

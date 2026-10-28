@@ -10,6 +10,11 @@ dayOrder: 4
 tags: [Francja, Niemcy, Alexander von Kluck, wojna pozycyjna]
 milestone: true
 draft: false
+brief:
+  - "8 stycznia 1915 roku francuska piechota zaatakowała niemieckie okopy na wzgórzach nad wsią Crouy, kilka kilometrów na północ od Soissons. Tak zaczęła się bitwa pod Soissons."
+  - "Francuzi trzymali wąski przyczółek na północnym brzegu Aisne, a Niemcy panowali nad nim z grzbietu płaskowyżu. Gen. Maunoury polecił gen. Henriemu Berthelotowi zdobycie wzgórza 132."
+  - "Krótki ostrzał otworzył w zasiekach zaledwie cztery przejścia, ale strzelcy marokańscy i strzelcy piesi w ciągu kilku minut zdobyli wzgórze 132 i dwie linie niemieckich okopów."
+  - "Francuzi nie wiedzieli, że Niemcy sami szykowali tu natarcie. III Korpus gen. von Lochowa postanowił odbić wzgórza, a wezbrana Aisne zagrażała mostom, przez które zaopatrywano francuskie oddziały."
 ---
 
 8 stycznia 1915 roku francuska piechota zaatakowała niemieckie okopy na wzgórzach nad wsią [Crouy](https://pl.wikipedia.org/wiki/Crouy), kilka kilometrów na północ od [Soissons](https://pl.wikipedia.org/wiki/Soissons). Pierwszego dnia natarcie zakończyło się pełnym sukcesem: strzelcy marokańscy i strzelcy piesi w ciągu kilku minut zdobyli wzgórze 132 i dwie linie niemieckich okopów. Tak zaczęła się bitwa pod Soissons, nazywana przez Francuzów bitwą pod Crouy, która miała trwać tydzień i skończyć się zupełnie inaczej, niż zaczęła.

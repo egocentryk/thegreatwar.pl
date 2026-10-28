@@ -2,7 +2,13 @@
 title: Russia declares war on Turkey
 summary: On 2 November 1914 Nicholas II issued a manifesto of war with Turkey. The Tsar said it would open Russia's way to its Black Sea aims, that is, the Straits.
 source: rosja-wypowiada-wojne-turcji
-sourceHash: 08499353686326191e859443db054aab0bacf0e9
+sourceHash: cf899cd321bc8560a714c0b9d35e8a1b67166847
+brief:
+  - "On 2 November 1914 Emperor Nicholas II signed at Tsarskoye Selo a manifesto declaring war on the Ottoman Empire. By the Julian calendar then used in Russia the date was 20 October."
+  - "The war was the answer to the attack by the Turco-German fleet on Russian ports on the Black Sea. Until then the foreign minister, Sergey Sazonov, had worked with the allies to keep Turkey neutral."
+  - "The manifesto said the war would open to Russia the way to its historic tasks on the shores of the Black Sea. Everyone in Russia understood this meant Constantinople and the Black Sea Straits."
+  - "The declaration opened a front in the Caucasus. In the first days of November a corps under General Georgy Bergmann crossed the border and advanced towards the fortress of Erzurum."
+  - "On 5 November Britain and France declared war on Turkey, and soon London assured Petrograd that the question of Constantinople and the Straits would be settled in accordance with Russian wishes."
 ---
 
 On 2 November 1914, or 20 October according to the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in force in Russia, Emperor [Nicholas II](/postacie/mikolaj-ii) signed at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) a manifesto declaring war on the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). It was the answer to the [attack by the Turco-German fleet on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea. Some Western chronologies give the date as 1 November, but the manifesto is dated 20 October Old Style, that is, 2 November. Russia, which had been fighting Germany and Austria-Hungary for three months, now had one more enemy.

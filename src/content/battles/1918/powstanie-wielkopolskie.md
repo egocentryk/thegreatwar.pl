@@ -15,6 +15,12 @@ result: Zwycięstwo powstańców. Do połowy stycznia 1919 roku opanowali więks
 authors: [Łukasz Skowroń]
 tags: [Polska, Niemcy, Wielkopolska]
 milestone: true
+brief:
+  - "Powstanie wielkopolskie wybuchło 27 grudnia 1918 roku w Poznaniu, w czasie wizyty Paderewskiego, gdy niemiecki pochód zrywał polskie i alianckie flagi, a przed hotelem Bazar padły strzały."
+  - "Polacy w pruskiej Prowincji Poznańskiej od dawna opierali się germanizacji. Naczelna Rada Ludowa liczyła na konferencję pokojową, ale konspiratorzy od tygodni gromadzili broń i szykowali oddziały."
+  - "Powstańcy w kilka dni opanowali Poznań, a do połowy stycznia 1919 roku większą część prowincji. Dowództwo objął mjr Stanisław Taczak, a po nim gen. Józef Dowbor-Muśnicki, twórca Armii Wielkopolskiej."
+  - "Walki z niemieckim Grenzschutzem przerwał rozejm w Trewirze 16 lutego 1919 roku, który zakazał Niemcom ataków na Polaków i wytyczył linię demarkacyjną."
+  - "Było to jedno z nielicznych zwycięskich polskich powstań. Traktat wersalski przyznał Polsce prawie całą Prowincję Poznańską, także miasta, których powstańcy nie zdobyli."
 ---
 
 Powstanie wielkopolskie wybuchło niespodziewanie, w czasie wizyty [Ignacego Jana Paderewskiego](/postacie/ignacy-jan-paderewski) w Poznaniu. Po południu 27 grudnia 1918 roku niemiecki pochód z udziałem żołnierzy przeszedł przez centrum miasta i zrywał z domów polskie i alianckie flagi. Przed hotelem [Bazar](https://pl.wikipedia.org/wiki/Hotel_Bazar_w_Poznaniu), w którym zatrzymał się Paderewski, padły strzały, a polskie oddziały ochotnicze i konspiracyjne, od tygodni gotowe do walki, w ciągu kilku dni opanowały prawie cały [Poznań](https://pl.wikipedia.org/wiki/Poznań). Walki szybko rozlały się na całą prowincję. Do połowy stycznia 1919 roku powstańcy zajęli większą część pruskiej Wielkopolski, potem odpierali kontrataki niemieckiego Grenzschutzu. Walki przerwał dopiero rozejm, który alianci przedłużyli Niemcom w Trewirze 16 lutego 1919 roku. Było to jedno z niewielu zwycięskich polskich powstań, a jego zdobycze potwierdził w czerwcu 1919 roku traktat wersalski.

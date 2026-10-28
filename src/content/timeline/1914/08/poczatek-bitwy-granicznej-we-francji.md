@@ -9,6 +9,11 @@ dayOrder: 7
 tags: [bitwa graniczna, Francja, Niemcy, Joseph Joffre]
 milestone: true
 draft: false
+brief:
+  - "Ówczesne kroniki wojny odnotowują 6 sierpnia 1914 roku jako początek bitwy granicznej, czyli serii starć armii francuskich z Niemcami od Alzacji po granicę belgijską, trwającej aż do bitwy nad Marną."
+  - "Niemcy według planu Schlieffena skierowały główne siły przez Belgię, by obejść umocnioną granicę. Francja Joffre'a uderzała na wschód, do Alzacji i Lotaryngii, a następnie przez Ardeny."
+  - "Na bitwę graniczną złożyły się m.in. walki pod Miluzą, w Lotaryngii, w Ardenach, pod Charleroi i pod Mons. 22 sierpnia był najkrwawszym dniem w historii armii francuskiej: zginęło około 27 tysięcy żołnierzy."
+  - "Bitwa graniczna zakończyła się zwycięstwem Niemiec i wielkim odwrotem Francuzów i Brytyjczyków w kierunku Paryża, który zatrzymał się dopiero nad Marną."
 ---
 
 Ówczesne kroniki wojny odnotowują 6 sierpnia 1914 roku jako początek tzw. [bitwy granicznej](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)). Pod tą nazwą kryje się nie jedno starcie, lecz cała seria bitew, które armie francuskie stoczyły z Niemcami w pierwszym miesiącu wojny, od Alzacji na południu po granicę belgijską na północy, aż do bitwy nad Marną na początku września.

@@ -17,6 +17,12 @@ result: Zwycięstwo obronne Brytyjczyków. Gwardia pruska wdarła się w linię 
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig, wyścig do morza]
 milestone: true
+brief:
+  - "Bitwa pod Nonne Bosschen, stoczona 11 listopada 1914 roku na wschód od Ypres, była ostatnim wielkim natarciem niemieckim w pierwszej bitwie pod Ypres."
+  - "Niemcy ściągnęli pod Ypres doborowe oddziały, w tym dywizję gwardii pruskiej. Naprzeciw nich stały wykrwawione bataliony brytyjskie, a brygada FitzClarence'a miała nieco ponad 800 żołnierzy."
+  - "Po najsilniejszym od początku walk ostrzale gwardia przerwała linię przy drodze z Menin i przeszła przez lasek Nonne Bosschen. Zatrzymał ją ogień artylerzystów, za którymi nie było już piechoty."
+  - "Po południu kontratak 2 Batalionu Oxfordshire and Buckinghamshire Light Infantry wyparł gwardzistów z lasu. Dawne okopy pierwszej linii zostały jednak w rękach niemieckich."
+  - "Poza jednym wyłomem Niemcy nie osiągnęli nic i front pod Ypres się utrzymał. Obie strony były u kresu sił, a 22 listopada Brytyjczycy kończą pierwszą bitwę pod Ypres."
 ---
 
 Bitwa pod Nonne Bosschen, stoczona 11 listopada 1914 roku na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), była ostatnim wielkim natarciem niemieckim w [pierwszej bitwie pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Po najsilniejszym od początku walk ostrzale artyleryjskim Niemcy uderzyli na froncie od Messines po las Polygon. Wszędzie zostali odparci z wyjątkiem jednego odcinka przy drodze z Menin do Ypres, gdzie świeża, doborowa dywizja złożona z pułków gwardii pruskiej przerwała linię wykrwawionej brytyjskiej brygady i weszła w głąb pozycji. Część gwardzistów dotarła przez lasek Nonne Bosschen niemal pod stanowiska brytyjskich baterii. Zatrzymał ich ogień artylerzystów, a po południu kontratak 2 Batalionu Oxfordshire and Buckinghamshire Light Infantry wyparł ich z lasu. Front pod Ypres się utrzymał.

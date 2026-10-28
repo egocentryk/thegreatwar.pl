@@ -11,7 +11,13 @@ sides:
     commanders: [Hans von Beseler]
 result: German victory. The fortress capitulated on 10 October, but Belgium's field army withdrew westwards and took up the defence on the Yser.
 source: oblezenie-antwerpii
-sourceHash: 52109f508a22f8f9ed9f50c6deb008204cbe58c2
+sourceHash: cf2e9243bb4687d7023dbb867e9ee0b0d066197b
+brief:
+  - "From 27 September to 10 October 1914 German troops under General Hans von Beseler besieged Antwerp, the national redoubt and last fortress of Belgium, where the Belgian army had taken refuge."
+  - "After the retreat from the Marne the Germans saw the Belgian army in Antwerp as a threat. The outcome was to be decided by heavy artillery, including 420 mm and 305 mm mortars."
+  - "The shells smashed the outer ring of forts and the Germans crossed the Nete. Winston Churchill sent the British Royal Naval Division as reinforcements so that the Belgians would hold out a few more days."
+  - "King Albert led the field army out of the fortress westwards. On 9 October the Germans entered the city, and on 10 October the fortress formally capitulated."
+  - "Belgium lost its largest port, but its army survived and took up positions on the Yser, barring the Germans' way to Dunkirk and Calais. The dispute over Churchill's expedition continues to this day."
 ---
 
 The [siege of Antwerp](https://pl.wikipedia.org/wiki/Oblężenie_Antwerpii), which lasted from 27 September to 10 October 1914, ended the struggle for Belgium's last fortress. The German troops of General [Hans von Beseler](/postacie/hans-von-beseler), supported by the heaviest siege artillery, smashed the outer ring of forts in less than two weeks and forced the city to capitulate. The Belgian army, whose destruction was the Germans' main aim, nevertheless managed to withdraw and soon took up the defence on the river Yser.

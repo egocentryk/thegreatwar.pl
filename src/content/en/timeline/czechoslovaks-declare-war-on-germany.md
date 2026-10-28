@@ -2,7 +2,13 @@
 title: Czechoslovaks declare war on Germany
 summary: On 13 August 1918, per the British chronology, the Czechoslovaks declared war on Germany too. They had three armies, in Russia, France and Italy.
 source: czechoslowacy-wypowiadaja-wojne-niemcom
-sourceHash: 7bafa693d94be65d4a6ff1678e66efeb8b086197
+sourceHash: daa75f67c2e70e74eaa7d1d2a451a213538abe7a
+brief:
+  - "Under 13 August 1918 the British official chronology of the war records that the Czechoslovaks declared war on Germany. The text of a separate act declaring war on that day has not been found."
+  - "That day Reuters circulated Balfour's declaration, in which Britain recognised the Czechoslovaks as an Allied nation and their three armies as one army at war with Austria-Hungary and Germany."
+  - "The Czechs and Slovaks in exile had declared war on Austria-Hungary on 14 November 1915, and from February 1916 the movement was led by Masaryk and Beneš's Czechoslovak National Council."
+  - "In the summer of 1918 the Czechoslovak army was fighting in Russia, France and Italy. The largest force was the corps in Russia, which with Russian anti-Bolsheviks took Kazan on 7 August."
+  - "The state of war with Germany was of legal and political significance: thanks to it Czechoslovakia sat at the Peace Conference among the Allies and signed the Treaty of Versailles on 28 June 1919."
 ---
 
 Under 13 August 1918 the British official chronology of the war, published in 1922, records briefly: "Czecho-Slovaks declare war on Germany". In its list of declarations of war it adds a footnote that on this day a state of war was declared "on behalf of the Czecho-Slovaks as a nation", while 28 October 1918, the day independence was proclaimed in Prague, is taken as the official date of Czechoslovakia's entry into the war as a belligerent state. A nation that as yet had neither a state nor a government, and whose lands lay deep inside Austria-Hungary, had by then been fighting on the side of the Entente for three years. It had three armies, in Russia, France and Italy, and its leaders in exile were working to have the Allies recognise it as a full participant in the war.

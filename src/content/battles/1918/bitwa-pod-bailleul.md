@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Niemcy zdobyli Neuve-Église, grzbiet Ravelsberg
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
+brief:
+  - "Od 13 do 15 kwietnia 1918 roku kilkanaście dywizji niemieckiej 6 i 4 Armii nacierało na brytyjski IX Korpus, broniący pasa niskich wzgórz pod Bailleul, od Meteren po Neuve-Église. Była to część bitwy nad Lys."
+  - "Celem Niemców były Bailleul i pasmo flandryjskich wzgórz, które panowało nad równiną aż po Ypres. Bronili się Brytyjczycy z brygad wykrwawionych w marcu, prawie bez odwodów za frontem."
+  - "13 kwietnia brygady gen. Nicholsona oddały wysunięty łuk przed Bailleul, a 14 kwietnia Niemcy zajęli Neuve-Église. Wieczorem sztab niemieckiej 6 Armii meldował jednak, że jej natarcie „wygasło”."
+  - "15 kwietnia po południu Niemcy zdobyli Mont de Lille, Crucifix Corner i grzbiet Ravelsberg. Młodzi żołnierze 59 Dywizji nie wytrzymali natarcia od flanki i w nocy Brytyjczycy opuścili Bailleul."
+  - "Utrata miasta nie oznaczała przełamania: front cofnął się o kilka kilometrów pod Kemmel, a Niemcy posuwali się coraz wolniej. Bailleul, liczące przed wojną ponad 13 tysięcy mieszkańców, zamieniło się w gruzy."
 ---
 
 Bitwa pod Bailleul była walką o pas niskich wzgórz, które zamykają od północy płaską dolinę Lys we francuskiej Flandrii. Po pierwszych dniach niemieckiej ofensywy, nazwanej operacją Georgette, front brytyjski wygiął się tu w wielki łuk. Od 13 do 15 kwietnia 1918 roku kilkanaście dywizji niemieckiej 6 i 4 Armii nacierało na pozycje brytyjskiego IX Korpusu, broniącego się na pagórkach od Meteren po Neuve-Église. Wojska generała Alexandra Hamilton-Gordona składały się w dużej części z resztek brygad wykrwawionych już w marcu nad Sommą i w pierwszych dniach bitwy nad Lys. Przez dwa dni odpierały ataki, choć 13 kwietnia oddały wysunięty łuk przed Bailleul, a 14 kwietnia wieś Neuve-Église. 15 kwietnia po południu Niemcy zdobyli jednak grzbiet Ravelsberg na wschód od miasta. Młodzi żołnierze świeżo przybyłej 59 Dywizji nie wytrzymali natarcia od flanki i w nocy Brytyjczycy opuścili [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)). Miasto, od [października 1914 roku](/brytyjczycy-zajmuja-bailleul) jeden z największych brytyjskich ośrodków na tyłach frontu pod Ypres, legło w gruzach.

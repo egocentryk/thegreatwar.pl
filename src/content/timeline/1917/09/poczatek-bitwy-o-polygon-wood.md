@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "26 września 1917 roku o 5.50 siedem dywizji, pięć brytyjskich i dwie australijskie, ruszyło pod Ypres w drugim skoku generała Herberta Plumera, sześć dni po natarciu przy drodze do Menin."
+  - "Dzień wcześniej niemieckie natarcie na południowy skraj lasu Polygon i ostrzał tyłów 15 Brygady Australijskiej omal nie udaremniły ataku. Plumer i Birdwood postanowili jednak go nie odwoływać."
+  - "Za zaporą, którą Charles Bean nazwał najdoskonalszą osłoną australijskich żołnierzy, 14 Brygada zdobyła kopiec Butte i odcinek linii Flandern I. Brytyjska 3 Dywizja weszła do Zonnebeke."
+  - "Po południu niemieckie dywizje przeciwnatarcia schodzące z grzbietu Broodseinde wpadły w ogień artylerii i nie doszły do nowej linii. Nacierający nie oddali ani kawałka zdobytego terenu."
+  - "Według brytyjskiej historii oficjalnej siedem dywizji straciło w bitwie ponad 15 tysięcy ludzi. Dla Niemców był to dzień klęski nowej taktyki obrony, a Plumer szykował skok na grzbiet Broodseinde."
 ---
 
 26 września 1917 roku o 5.50 rano, gdy z ciemności zaczynał się wyłaniać płaskowyż na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), masa brytyjskich dział otworzyła ogień jednocześnie, „jednym trzaskiem”, jak zapisano w niemal wszystkich meldunkach. Za ścianą pyłu i dymu ruszyło siedem dywizji: pięć brytyjskich i dwie australijskie. Był to drugi skok generała [Herberta Plumera](/postacie/herbert-plumer) w [trzeciej bitwie pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), sześć dni po [natarciu przy drodze do Menin](/poczatek-bitwy-o-grzbiet-menin-road). Do południa Australijczycy zdobyli resztę lasu Polygon z kopcem Butte i odcinek niemieckiej linii Flandern I, a Brytyjczycy weszli do [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). Po południu niemieckie dywizje przeciwnatarcia, schodzące z grzbietu Broodseinde w pełnym słońcu, zostały rozbite ogniem artylerii, zanim zdołały dojść do nowej linii.

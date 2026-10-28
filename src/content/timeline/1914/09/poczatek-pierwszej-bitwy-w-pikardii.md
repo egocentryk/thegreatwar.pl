@@ -10,6 +10,11 @@ dayOrder: 7
 tags: [Francja, Niemcy, Noël de Castelnau, wyścig do morza]
 milestone: true
 draft: false
+brief:
+  - "22 września 1914 roku na północ od Oise nowo utworzona francuska 2 Armia gen. Noëla de Castelnau ruszyła do natarcia, by obejść skrzydło Niemców. Była to pierwsza duża bitwa wyścigu do morza, trwająca do 26 września."
+  - "Po impasie nad Aisne front ciągnął się od Szwajcarii do okolic Compiègne, a dalej na zachód nie było żadnej linii. Francuzi przewozili wojska po własnych, nieuszkodzonych kolejach, a niemiecka kolej nie nadążała z przewozami."
+  - "Pierwszego dnia Francuzi zepchnęli Niemców z części pozycji, ale nie znaleźli pustki, na którą liczyli. 23 i 24 września przybył niemiecki XVIII Korpus i wraz z II Korpusem przeszedł do kontrataku pod Roye i Lassigny."
+  - "Bitwa nie przyniosła rozstrzygnięcia, ale wyznaczyła schemat kolejnych tygodni: każda próba obejścia kończyła się czołowym starciem, a nowy odcinek frontu zastygał w okopach."
 ---
 
 22 września 1914 roku w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), na północ od rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), rozpoczęła się pierwsza bitwa w Pikardii. Nowo utworzona francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) ruszyła do natarcia, by obejść od zachodu skrzydło armii niemieckich. Bitwa, trwająca do 26 września, była pierwszym dużym starciem tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza), czyli serii prób oskrzydlenia przeciwnika, które jesienią 1914 roku przesunęły front zachodni aż do wybrzeża Morza Północnego.

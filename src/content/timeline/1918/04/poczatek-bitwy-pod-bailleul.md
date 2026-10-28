@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "13 kwietnia 1918 roku, w piątym dniu bitwy nad Lys, Niemcy uderzyli na niskie wzgórza między Bailleul a Neuve-Église, bronione przez brytyjski IX Korpus generała Alexandra Hamilton-Gordona."
+  - "Za Bailleul wznosiło się pasmo flandryjskich wzgórz od Mont des Cats po Kemmelberg. Kto je zdobył, panował nad równiną aż po Ypres i zagrażał tyłom wojsk w łuku Ypres."
+  - "Rano natarcie Bawarczyków i 214 Dywizji z 4 Armii rozbiło się na styku armii, bo sztaby źle współpracowały, a 117 Dywizja wpadła pod ogień sąsiadów i brytyjskie karabiny maszynowe."
+  - "Najcięższe walki toczyły się o Neuve-Église. Wieczorem Niemcy wdarli się do wsi i zaczęli obchodzić lewe skrzydło brygad generała Cecila Nicholsona broniących łuku przed Bailleul."
+  - "Nocą brygady cofnęły się na przygotowaną linię przez Ravelsberg po Crucifix Corner. Oficer Korpusu Alpejskiego wspominał, że tego dnia zdobyli zaledwie kilkaset metrów terenu."
 ---
 
 13 kwietnia 1918 roku, w piątym dniu [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918), niemiecka ofensywa we Flandrii uderzyła z całą siłą w lewe skrzydło brytyjskiego frontu, na niskie wzgórza między [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)) a Neuve-Église ([Nieuwkerke](https://pl.wikipedia.org/wiki/Nieuwkerke)). Bronił ich IX Korpus generała Alexandra Hamilton-Gordona z 2 Armii generała [Herberta Plumera](/postacie/herbert-plumer), złożony w dużej części z brygad, które walczyły bez przerwy od 9 kwietnia, a niektóre jeszcze w marcu nad Sommą. Przeciw nim nacierało sześć dywizji II Korpusu Bawarskiego, w tym świeży Korpus Alpejski, i kilka dywizji niemieckiej 4 Armii. Przez cały dzień Brytyjczycy odpierali ataki, ale wieczorem, gdy Niemcy wdarli się do Neuve-Église i zaczęli obchodzić ich lewe skrzydło, opuścili wysunięty łuk przed Bailleul i cofnęli się na grzbiet Ravelsberg. Tak zaczęła się bitwa, którą brytyjska komisja do spraw nazewnictwa bitew nazwała później bitwą pod Bailleul.

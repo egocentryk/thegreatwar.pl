@@ -9,7 +9,13 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Tom von Prince]
 result: German victory. Indian Expeditionary Force "B" withdrew to its ships, leaving weapons, ammunition and equipment on the shore.
 source: bitwa-pod-tanga
-sourceHash: 73785f23639b4e8da0cea8f482af79c3e15d5068
+sourceHash: f9b305667308147c22fd223e3e49c26ab77b48dc
+brief:
+  - "On 2–5 November 1914 about 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force \"B\" tried to take the port of Tanga in German East Africa."
+  - "Aitken underestimated the enemy, and his force was poorly trained and exhausted by the voyage. He also warned the Germans that the truce was ending, which let Lettow-Vorbeck bring up reinforcements by rail."
+  - "On 4 November the attack on the town stalled in dense scrub, and swarms of wild bees added to the confusion. An askari counter-attack turned the retreat of the Indian units into a rout."
+  - "The British withdrew to their ships, losing more than 800 killed and wounded and leaving weapons and ammunition on the shore. The Germans lost about 150 men."
+  - "The defeat ended British plans for a quick conquest of the colony. For four years Lettow-Vorbeck tied down far larger Allied forces in East Africa."
 ---
 
 The Battle of Tanga was the first major battle in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and one of the most humiliating British defeats of the whole war. About 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force "B" tried to take the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). They were beaten by roughly 1,000 soldiers of the German colonial forces, most of them African [askaris](https://pl.wikipedia.org/wiki/Askarysi), under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Because of a swarm of wild bees that scattered some of the attackers on the decisive day, the battle is sometimes called the "Battle of the Bees".

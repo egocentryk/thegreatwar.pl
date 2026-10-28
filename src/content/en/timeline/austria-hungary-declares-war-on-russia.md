@@ -2,7 +2,13 @@
 title: Austria-Hungary declares war on Russia
 summary: On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg handed over the declaration of war. The monarchy's main front shifted to Galicia.
 source: austro-wegry-wypowiadaja-wojne-rosji
-sourceHash: e1c3a4196fa6a98816028324749efffa47a82e0d
+sourceHash: 16deadae0d6607b585ac6bfb5e70c22230dd6602
+brief:
+  - "On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg, Count Friedrich Szápáry, handed Sergey Sazonov a declaration of war on Russia."
+  - "Austria-Hungary was the last of the great powers in the east to declare war, as it was still mobilising and had sent part of its forces against Serbia. Germany had declared war on Russia on 1 August."
+  - "Galicia became the monarchy's main front. After initial successes at Kraśnik and Komarów the Austro-Hungarian army suffered a heavy defeat, and in early September the Russians took Lemberg."
+  - "For the first time since the partitions two of the partitioning powers went to war against each other. On the same day Józef Piłsudski's First Cadre Company set out from Kraków."
+  - "For the Habsburg monarchy it meant a war on two fronts, against Serbia and Russia, for which its army was not prepared."
 ---
 
 On 6 August 1914 the ambassador of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) in [St Petersburg](https://pl.wikipedia.org/wiki/Petersburg), Count Friedrich Szápáry, handed the Russian Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), a declaration of war. The Habsburg monarchy justified it by Russia's hostile attitude in the conflict with Serbia and by the fact that [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) was at war with Germany, Vienna's ally.

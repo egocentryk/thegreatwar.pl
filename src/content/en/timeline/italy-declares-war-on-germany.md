@@ -2,7 +2,13 @@
 title: Italy declares war on Germany
 summary: On 27 August 1916 Sonnino sent a declaration through the Swiss government that from 28 August Italy considered itself at war with Germany.
 source: wlochy-wypowiadaja-wojne-niemcom
-sourceHash: 106f5e8e1b99fe6b0218a526471b88992b347172
+sourceHash: a0e6c8f0e4a053709f19d1c4319e559d8ff6bdd7
+brief:
+  - "On 27 August 1916 the Italian foreign minister, Sidney Sonnino, sent a declaration through the Swiss government that from 28 August Italy considered itself at war with Germany."
+  - "Italy had been fighting Austria-Hungary since May 1915 but was formally at peace with Germany. In practice the two stood on opposite sides, and in 1916 both hardened their economic measures."
+  - "The allies pressed Rome to honour its Treaty of London commitments. The step was timed with Romania's entry, and the declaration listed German arms deliveries to Austria-Hungary and German participation in the fighting."
+  - "Militarily the declaration changed little at once, but politically Italy ceased to be a \"part-time\" ally and could demand a full share in the Entente's decisions."
+  - "The bill came a year later: in October 1917 the attack at Caporetto by the Fourteenth Army, made up of German and Austro-Hungarian divisions, brought Italy its heaviest defeat of the whole war."
 ---
 
 On Sunday 27 August 1916 the Italian foreign minister, [Sidney Sonnino](/postacie/sidney-sonnino), had a short declaration delivered to the federal government of [Switzerland](https://pl.wikipedia.org/wiki/Szwajcaria), with a request that it be passed on to the government of the Reich. It ended with the statement that, in the name of the King, the Italian government considered the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) to be at war with the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) from 28 August. That evening the late editions of the Rome newspapers announced it officially, and the United States embassy at once cabled Washington that the Italian government had sent a declaration of war on Germany through Switzerland, effective from the next day. The following day the Italian ambassador in Washington, Vincenzo Macchi di Cellere, informed the Secretary of State of his government's decision by note.

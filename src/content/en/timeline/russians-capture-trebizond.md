@@ -2,7 +2,12 @@
 title: Russians capture Trebizond
 summary: In mid-April 1916 the Turks abandoned Trebizond, the chief port of northern Anatolia, without a fight. On 18 April General Lyakhov's Russians entered it.
 source: rosjanie-zdobywaja-trapezunt
-sourceHash: a312fcc2f35658f6e19ca319dea00e5d4882fdca
+sourceHash: 161c6ca9845f6aa7f904fb8c1cb59635f3b9d81d
+brief:
+  - "In mid-April 1916 the Russian Caucasus Army captured Trebizond, the largest port on the northern coast of Anatolia. The town was undefended."
+  - "On 14 April General Vladimir Lyakhov's detachment crossed the Kara Dere river and, supported by battleships of the Black Sea Fleet, broke the last strong Turkish position before Trebizond."
+  - "The Turks abandoned the town on the night of 15–16 April, and on 18 April the Russian units entered it. General Nikolai Yudenich arrived on a destroyer, and the Greeks welcomed the Russians with flowers."
+  - "The capture of Trebizond was the Caucasus Army's second great success of 1916, after Erzurum. The Turks lost the shortest supply route to their Third Army, and the Russians gained a port and a fleet base."
 ---
 
 In mid-April 1916 the Russian Caucasus Army captured [Trebizond](https://pl.wikipedia.org/wiki/Trabzon), today's Trabzon, the largest port on the northern coast of Anatolia. The town was undefended. After the lost battle on the Kara Dere river, the Turkish troops abandoned it on the night of 15–16 April, and General Vladimir Lyakhov's Russian Coastal Detachment entered it on 18 April, 5 April by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) then in use in Russia. A British chronology of the war records the capture of Trebizond under 17 April. On that day Lyakhov's troops were standing a dozen or so kilometres from the town, resting after the pursuit and not yet knowing that the way was open.

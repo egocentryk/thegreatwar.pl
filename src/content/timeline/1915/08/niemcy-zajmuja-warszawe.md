@@ -9,6 +9,12 @@ dayOrder: 4
 tags: [Niemcy, Królestwo Polskie, wielki odwrót 1915, okupacja niemiecka]
 milestone: true
 draft: false
+brief:
+  - "5 sierpnia 1915 roku do opuszczonej nocą przez Rosjan Warszawy weszły bez walki oddziały niemieckiej 9 Armii feldmarszałka księcia Leopolda Bawarskiego. Skończyło się trwające od 1815 roku rosyjskie panowanie."
+  - "Letnia ofensywa państw centralnych zagroziła rosyjskim armiom w środkowej Polsce od trzech stron. Generał Michaił Aleksiejew zdecydował się wycofać 2 i 4 Armię za Wisłę."
+  - "Rosjanie wywieźli z miasta urzędy, uniwersytet i maszyny fabryczne, a nad ranem wysadzili mosty na Wiśle. Zarząd miasta przejęli Polacy z Komitetu Obywatelskiego i Straży Obywatelskiej."
+  - "Rosjanie okopali się na Pradze i ostrzeliwali śródmieście, a Niemcy zajęli ją dopiero 8 sierpnia. 24 sierpnia utworzyli Generalne Gubernatorstwo Warszawskie z generałem Hansem Hartwigiem von Beselerem na czele."
+  - "Zdobycie Warszawy było największym sukcesem propagandowym państw centralnych na wschodzie, ale rosyjskie armie wyszły z worka. Okupacja niemiecka trwała do listopada 1918 roku."
 ---
 
 5 sierpnia 1915 roku nad ranem wycofujący się Rosjanie wysadzili mosty na Wiśle, a kilka godzin później od zachodu do [Warszawy](https://pl.wikipedia.org/wiki/Warszawa) weszły pierwsze oddziały niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) feldmarszałka [księcia Leopolda Bawarskiego](/postacie/leopold-bawarski). Miasto zajęto bez walki. Niemiecki komunikat wojenny z tego dnia donosił, że armia księcia Leopolda przełamała w ciągu dnia i nocy zewnętrzną i wewnętrzną linię fortów, w której rosyjskie straże tylne jeszcze zacięcie się broniły, a „miasto zostało dziś przed południem zajęte przez nasze wojska”. Dla Warszawy skończyło się w ten sposób rosyjskie panowanie, które od [kongresu wiedeńskiego](https://pl.wikipedia.org/wiki/Kongres_wiedeński) w 1815 roku trwało równo sto lat. Zaczęła się trwająca ponad trzy lata okupacja niemiecka.

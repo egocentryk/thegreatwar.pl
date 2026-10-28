@@ -2,7 +2,12 @@
 title: First Battle of Champagne begins
 summary: On 20 December 1914 the French Fourth Army attacked the German trenches in Champagne. The first great offensive against fortified lines in the west had begun.
 source: poczatek-pierwszej-bitwy-w-szampanii
-sourceHash: 8f5b4ecdaa5a025f1303a5f1638a7d1337fe3e02
+sourceHash: 7ed27bcadc69b83ae2268f38062565fbae251007
+brief:
+  - "On 20 December 1914 the French Fourth Army of General Fernand de Langle de Cary attacked the German positions in Champagne, east of Reims. It was the first great Allied offensive against fortified trench lines."
+  - "General Joffre wanted to exploit the move of German corps to the east. His plan was to attack the salient around Noyon from two sides and threaten the railways supplying the German armies."
+  - "On the first day XVII Corps and I Colonial Corps took pieces of German trench, but nowhere broke the front. The infantry was held up in front of the wire under machine-gun fire."
+  - "The fighting dragged on with breaks until 17 March 1915. The French advanced at best 2–3 kilometres, losing more than 90,000 killed, wounded and missing."
 ---
 
 On 20 December 1914 the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) began an attack on the German positions in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](https://pl.wikipedia.org/wiki/Reims). The British chronology of the war records under this date the start of the First Battle of Champagne. It was the first great Allied offensive against the fortified lines of trenches which since the autumn had cut across France from the sea to Switzerland. The first day brought the French only small gains, and the fighting then dragged on, with breaks, until mid-March 1915.

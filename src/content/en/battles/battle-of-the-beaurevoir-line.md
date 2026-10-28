@@ -9,7 +9,13 @@ sides:
     commanders: [Max von Boehn, Adolph von Carlowitz]
 result: British and Australian victory. The Fourth Army broke through the last prepared position of the Hindenburg Line on a front of about 10 km and took Montbrehain and Beaurevoir, forcing the Germans to abandon the St Quentin Canal in front of the Third Army.
 source: bitwa-o-linie-beaurevoir
-sourceHash: 3aa8cbee119555ae8be5ce85df9c17f1c36e5ddf
+sourceHash: 950b79e73346041a4344d63e51dd5b895469183b
+brief:
+  - "From 3 to 5 October 1918 General Henry Rawlinson's British Fourth Army fought for the Beaurevoir Line, the last position of the Hindenburg Line. It was the final act in breaking the line on the Fourth Army's sector."
+  - "The line, some three or four kilometres behind the main position, consisted of two rows of trenches with concrete emplacements and dense wire. Haig hoped to release the Cavalry Corps into open country once it was broken."
+  - "On 3 October the Fourth Army broke through the line along its whole length, and the 46th Division took Ramicourt and Montbrehain. In the afternoon German counter-attacks retook Montbrehain, and the hills stayed in German hands."
+  - "On 5 October the 2nd Australian Division took Montbrehain, and Lieutenant George Ingram received the last Victoria Cross awarded to an Australian on the Western Front. In the evening the British entered Beaurevoir."
+  - "From 29 September to 5 October the Fourth Army took 14,664 prisoners and came out onto ground with no prepared defences. Montbrehain was the last battle of the Australian infantry in the war."
 ---
 
 The Battle of the Beaurevoir Line was the final act in the breaking of the Hindenburg Line by General [Henry Rawlinson's](/postacie/henry-rawlinson) British Fourth Army. After the [Battle of the St Quentin Canal](/bitwy/bitwa-o-kanal-saint-quentin) one more German position still stood before the British and Australians: the reserve line which the Germans called the Hindenburg-Reserve-Stellung and the British, after the village of [Beaurevoir](https://pl.wikipedia.org/wiki/Beaurevoir), the Beaurevoir Line. On 3 October 1918 the Fourth Army attacked it on a front of more than ten kilometres and broke through along its whole length, but could not at once hold the hills behind it. Only in renewed attacks on 4 and 5 October did Montbrehain and Beaurevoir fall. The fight for [Montbrehain](https://pl.wikipedia.org/wiki/Montbrehain) on 5 October was the last battle of the Australian infantry in the war.

@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Niemcy przełamali wszystkie strefy obrony bryty
 authors: [Natalia]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
+brief:
+  - "21 marca 1918 roku, po pięciogodzinnym ostrzale z ponad sześciu tysięcy dział, trzy armie niemieckie uderzyły we mgle na front brytyjski od Oise po okolice Arras. Była to pierwsza faza operacji Michael."
+  - "Po pokoju z Rosją Ludendorff chciał rozstrzygnąć wojnę, zanim dotrą masy Amerykanów. Brytyjska 5 Armia Gougha była rozciągnięta na zbyt długim froncie, a jej obrona w głąb istniała głównie na mapach."
+  - "Gęsta mgła pozwoliła Niemcom zająć strefę wysuniętą prawie wszędzie w pierwszym uderzeniu. Brytyjczycy stracili tego dnia około 38 tysięcy ludzi, w tym blisko 21 tysięcy jeńców."
+  - "W kolejnych dwóch dniach 5 Armia cofnęła się za kanał Crozat i Sommę, a 3 Armia generała Juliana Bynga oddała występ Flesquières."
+  - "Bitwa nie przyniosła Niemcom rozstrzygnięcia: 5 Armia cofała się, ale się nie rozpadła. 23 marca Ludendorff rozkazał trzem armiom nacierać w rozbieżnych kierunkach, co osłabiło natarcie."
 ---
 
 Bitwa pod [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin) była pierwszą fazą [operacji Michael](/bitwy/operacja-michael), wielkiej niemieckiej ofensywy, którą Niemcy nazywali „wielką bitwą we Francji”, a potocznie [Kaiserschlacht](https://pl.wikipedia.org/wiki/Kaiserschlacht), „bitwą cesarza”. Rankiem 21 marca 1918 roku, po pięciogodzinnym ostrzale z ponad sześciu tysięcy dział, trzy armie niemieckie uderzyły na froncie długim na około 70–80 kilometrów, od [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) po okolice Arras. Gęsta mgła sprawiła, że brytyjscy obrońcy widzieli napastników dopiero z odległości kilkunastu, kilkudziesięciu metrów. Najsilniejszy cios spadł na brytyjską 5 Armię generała [Huberta Gougha](/postacie/hubert-gough), która rozciągnięta na zbyt długim odcinku straciła pierwszego dnia całą strefę wysuniętą, a na prawym skrzydle także strefę bojową. Brytyjczycy stracili tego dnia około 38 tysięcy ludzi, w tym blisko 21 tysięcy jeńców. Był to po [1 lipca 1916](/bitwy/bitwa-nad-somma) najgorszy dzień w dziejach armii brytyjskiej. W kolejnych dwóch dniach 5 Armia cofnęła się za kanał Crozat i Sommę, a 3 Armia generała [Juliana Bynga](/postacie/julian-byng) oddała występ Flesquières. Niemieckie straty były jednak równie ciężkie, a na północy natarcie utknęło.

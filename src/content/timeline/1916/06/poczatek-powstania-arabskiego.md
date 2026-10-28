@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [Imperium Osmańskie, Wielka Brytania, powstanie arabskie]
 milestone: true
 draft: false
+brief:
+  - "5 czerwca 1916 roku synowie szarifa Mekki Husajna ibn Alego, Ali i Fajsal, ogłosili pod Medyną niezależność Arabów od panowania tureckiego. Tak według George'a Antoniusa zaczęło się powstanie arabskie."
+  - "Szarif od dawna źle układał się z młodoturkami i od 1915 roku korespondował z McMahonem, który obiecał wspierać niepodległość Arabów. Przeważyły egzekucje 21 arabskich działaczy 6 maja w Damaszku i Bejrucie."
+  - "Fajsal wyrwał się z Damaszku fortelem, przekonując Dżemala Paszę, że powinien poprowadzić ochotników z Hidżazu. Wraz z Alim wybrał na wystąpienie poniedziałek 5 czerwca."
+  - "Data bywa podawana różnie, bo w samej Mekce walki wybuchły dopiero 10 czerwca. W Jordanii właśnie tego dnia obchodzi się rocznicę Wielkiej Rewolty Arabskiej."
+  - "Siły były bardzo nierówne, a atak Fajsala na Medynę został odparty. Medyna, połączona koleją z Damaszkiem, przetrwała całą wojnę."
 ---
 
 O wschodzie słońca 5 czerwca 1916 roku dwaj synowie [Husajna ibn Alego](/postacie/husajn-ibn-ali), szarifa i emira [Mekki](https://pl.wikipedia.org/wiki/Mekka), wyjechali konno z [Medyny](https://pl.wikipedia.org/wiki/Medyna_(miasto)) do grobowca Hamzy, stryja Proroka, leżącego tuż pod miastem. Obozowało tam około 1500 ochotników, których szarif wystawił na żądanie władz osmańskich, oficjalnie dla armii walczącej z Brytyjczykami. Najstarszy syn szarifa, [Ali](https://pl.wikipedia.org/wiki/Ali_ibn_Husajn_(król_Hidżazu)), i trzeci z kolei, [Fajsal](/postacie/fajsal-i), ogłosili przed nimi w imieniu ojca niezależność Arabów od panowania tureckiego. Potem odjechali razem z ochotnikami na południowy wschód od miasta, gdzie czekali na nich wojownicy okolicznych plemion. Tak, według libańskiego historyka George'a Antoniusa, autora klasycznej historii arabskiego ruchu narodowego, zaczęło się [powstanie arabskie](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)).

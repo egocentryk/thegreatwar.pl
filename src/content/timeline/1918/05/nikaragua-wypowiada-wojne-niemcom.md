@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Ameryka Łacińska, Niemcy, Austro-Węgry, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "8 maja 1918 roku minister spraw zagranicznych Nikaragui zawiadomił poselstwo Stanów Zjednoczonych, że Kongres uchwalił dekret o stanie wojny z Niemcami i Austro-Węgrami oraz wprowadził w kraju stan wojenny."
+  - "Według „Current History” Kongres przyjął wypowiedzenie wojny już 7 maja, na wniosek prezydenta Emiliana Chamorra, przy zaledwie czterech głosach sprzeciwu. Większość zestawień podaje datę 8 maja."
+  - "Nikaragua od lat była zależna od Stanów Zjednoczonych: w stolicy stacjonował oddział marines, a finanse kontrolowali amerykańscy bankierzy. Chamorro mógł występować jako wierny sojusznik Waszyngtonu."
+  - "Prezydent Woodrow Wilson przesłał Chamorrze osobiste gratulacje. Nikaragua nie wysłała jednak na front żołnierzy, a jej udział w wojnie miał przede wszystkim znaczenie polityczne."
+  - "Udział w wojnie zapewnił Nikaragui miejsce wśród zwycięzców. Jej przedstawiciel podpisał w czerwcu 1919 roku traktat wersalski, a wraz z nim pakt Ligi Narodów."
 ---
 
 8 maja 1918 roku minister spraw zagranicznych [Nikaragui](https://pl.wikipedia.org/wiki/Nikaragua) oficjalnie zawiadomił poselstwo Stanów Zjednoczonych w [Managui](https://pl.wikipedia.org/wiki/Managua), że Kongres uchwalił dekret o wojnie. Jego pierwszy artykuł głosił: „Od dnia dzisiejszego istnieje i zostaje ogłoszony stan wojny między Nikaraguą a cesarskimi rządami Niemiec i Austro-Węgier”. Drugi stwierdzał, że Nikaragua łączy się ze Stanami Zjednoczonymi i z innymi republikami Ameryki Łacińskiej, które prowadzą wojnę z tymi państwami. Trzeci wprowadzał w kraju stan wojenny i upoważniał władzę wykonawczą do podjęcia wszelkich środków, jakie uzna za właściwe i konieczne, by Nikaragua mogła skutecznie współdziałać w wykonaniu dekretu. Amerykański poseł Benjamin Jefferson przekazał tekst do Waszyngtonu depeszą wysłaną o trzeciej po południu. Rok po [zerwaniu stosunków z Berlinem](/nikaragua-zrywa-stosunki-z-niemcami) Nikaragua stała się państwem wojującym.

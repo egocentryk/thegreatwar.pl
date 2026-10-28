@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "18 sierpnia 1918 roku o 11 szkocka 9 Dywizja z brytyjskiej 2 Armii uderzyła we francuskiej Flandrii na niski grzbiet Outtersteene, między Meteren a Bailleul, ostatnie wyżej położone miejsce, jakie trzymali tu Niemcy."
+  - "Po klęsce pod Amiens Niemcy nie planowali już ofensywy we Flandrii i wywozili zapasy z klinu nad Lys. Pod Bailleul trzymali jednak front mocno, a Szkoci mieli ich zmusić do odwrotu."
+  - "Gen. Hugh Tudor postawił na zaskoczenie i dym: piechota wyszła z okopów zaraz po pierwszej salwie dymnej. Szkoci zajęli młyn Hoegenacker, a 29 Dywizja wieś Outtersteene."
+  - "Atak trwał niewiele ponad godzinę, a niemiecki kontratak szybko się załamał. Wieczorem Brytyjczycy policzyli 697 jeńców, tracąc 671 zabitych, rannych i zaginionych."
+  - "Sukces groził oskrzydleniem niemieckiego występu pod Merville i otworzył „natarcie we Flandrii”. W ciągu niecałych trzech tygodni klin nad Lys zniknął z mapy."
 ---
 
 18 sierpnia 1918 roku, w niedzielę, w upalne przedpołudnie, szkocka 9 Dywizja z brytyjskiej 2 Armii uderzyła we francuskiej Flandrii na niski grzbiet koło przysiółka Outtersteene, między [Meteren](https://pl.wikipedia.org/wiki/Méteren) a [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)). Atak zaczął się o 11, w porze, w której nikt się go nie spodziewał, i trwał niewiele ponad godzinę. Szkoci pod osłoną dymu zajęli szczyt grzbietu z młynem Hoegenacker, a 29 Dywizja wieś Outtersteene. Do niewoli trafiło prawie 700 Niemców. Było to pierwsze od kwietnia brytyjskie natarcie w klinie, który Niemcy wbili we front w czasie [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918), i początek jego wyzwalania.

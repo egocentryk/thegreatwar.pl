@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Rosja, Mikołaj II, rewolucja lutowa, Rada Piotrogrodzka]
 milestone: true
 draft: false
+brief:
+  - "12 marca 1917 roku zbuntował się garnizon Piotrogrodu. Pułk po pułku żołnierze przyłączali się do strajkujących robotników, a do wieczora powstańcy opanowali większą część stolicy."
+  - "Rosję wyczerpały straty wojenne, inflacja i brak chleba w miastach, a autorytet monarchii podkopywały ciągłe zmiany ministrów i pogłoski o wpływach Rasputina."
+  - "Bunt zaczął oddział szkolny batalionu zapasowego Wołyńskiego Pułku Gwardii, który zabił swojego dowódcę. Tłum zdobył Arsenał, otworzył więzienie Kriesty i podpalał gmachy policji."
+  - "W Pałacu Taurydzkim powstały tego dnia Komitet Tymczasowy Dumy z Michaiłem Rodzianką na czele i Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich. Tak zrodziła się „dwuwładza”."
+  - "Rewolucję nazwano lutową, bo według kalendarza juliańskiego garnizon zbuntował się 27 lutego. Trzy dni później Mikołaj II zrzekł się tronu, a władzę objął Rząd Tymczasowy."
 ---
 
 12 marca 1917 roku, w poniedziałek, w Piotrogrodzie zbuntowały się wojska garnizonu. Od czterech dni miasto ogarniały [strajki i demonstracje](/strajki-i-demonstracje-w-piotrogrodzie), a dzień wcześniej żołnierze strzelali do tłumu. Teraz pułk po pułku przyłączał się do robotników. Do wieczora powstańcy opanowali większą część stolicy, zdobyli arsenał, otworzyli więzienia i podpalili gmachy policji. Rząd przestał działać, a w [Pałacu Taurydzkim](https://pl.wikipedia.org/wiki/Pałac_Taurydzki), siedzibie [Dumy Państwowej](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)), powstały tego samego dnia dwa nowe ośrodki władzy: Komitet Tymczasowy Dumy i Rada Delegatów Robotniczych. Ten dzień uważa się za rozstrzygający moment [rewolucji lutowej](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)).

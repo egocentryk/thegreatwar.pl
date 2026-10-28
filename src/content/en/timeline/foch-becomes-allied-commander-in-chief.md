@@ -2,7 +2,13 @@
 title: Foch becomes Allied commander-in-chief
 summary: On 14 April 1918 Foch became commander-in-chief of the Allied armies in France. That day at Abbeville he refused to relieve Haig's British divisions.
 source: foch-naczelnym-wodzem
-sourceHash: 4e263bf720541e814ab70cdb16aa712c11734357
+sourceHash: 46b9771037d504dbf20d02ceb44e474cd56f47ad
+brief:
+  - "On 14 April 1918 General Ferdinand Foch received the title of commander-in-chief of the Allied armies in France, agreed by the French and British governments in an exchange of letters. The title gave him no new powers."
+  - "The road to it began on 26 March at Doullens, where Foch was given the coordination of the armies, and on 3 April at Beauvais he was given strategic direction. The commanders-in-chief kept tactical control."
+  - "That same day at Abbeville Foch categorically refused Haig relief for the exhausted British divisions that had been holding out for five days in Flanders. He wanted to husband the French reserves."
+  - "Foch was not a generalissimo in the full sense: he could not appoint foreign generals, the Belgian army stayed outside his authority, and every commander-in-chief could appeal to his own government."
+  - "Foch's powers gradually grew: on 2 May his coordinating authority was extended to the Italian front, in the summer he received a Marshal's baton, and in the autumn he led the Allied armies to victory."
 ---
 
 On 14 April 1918 General [Ferdinand Foch](/postacie/ferdinand-foch) received the title of "commander-in-chief of the Allied armies in France" (Général en chef des Armées alliées en France). The French and British governments agreed on it in an exchange of letters, without a new conference. The title gave Foch no new powers, but it gave a name to what had been slowly taking shape for three weeks: after almost four years of war the Allied armies on the Western Front had a common commander. That same day Foch exercised his authority in a way the British found painful. At a meeting at [Abbeville](https://pl.wikipedia.org/wiki/Abbeville_(Francja)) he refused Field Marshal [Douglas Haig](/postacie/douglas-haig) relief for the exhausted British divisions which had been holding out for five days against the German offensive in Flanders.

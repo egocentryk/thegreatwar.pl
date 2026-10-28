@@ -10,6 +10,11 @@ dayOrder: 3
 tags: [Niemiecka Afryka Wschodnia, Brytyjska Afryka Wschodnia, Indie Brytyjskie, Związek Południowej Afryki]
 milestone: true
 draft: false
+brief:
+  - "5 marca 1916 roku spod góry Longido w Brytyjskiej Afryce Wschodniej ruszyła na południe 1 Dywizja gen. Stewarta. Tak zaczęła się ofensywa zaplanowana przez nowego naczelnego dowódcę, gen. Jana Smutsa."
+  - "Dywizja miała obejść Kilimandżaro od zachodu i wyjść na tyły Niemców broniących przejścia pod Tavetą, by odciąć im drogę odwrotu. Dlatego wyruszyła dwa dni przed kolumnami wschodnimi."
+  - "Główne siły Smutsa ruszyły od wschodu wieczorem 7 marca. Zgranie obu ruchów w niezmapowanym buszu okazało się bardzo trudne, a łączność możliwa była tylko radiem przez Longido."
+  - "1 Dywizja posuwała się wolno, w ulewach i bez wiadomości o przeciwniku. Doszła do Moshi już po tym, jak Niemcy wymknęli się na południe."
 ---
 
 5 marca 1916 roku rano spod góry Longido w [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), na północny zachód od [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro), wyruszyła na południe 1 Dywizja generała majora Jamesa Marshalla Stewarta. Tak zaczęła się ofensywa, którą nowy naczelny dowódca, generał porucznik [Jan Smuts](/postacie/jan-smuts), [zaplanował zaraz po przybyciu](/smuts-dowodca-w-afryce-wschodniej) do Afryki Wschodniej. Dywizja zakończyła koncentrację pod Longido 3 marca. W tym samym miejscu w listopadzie 1914 roku Stewart [bezskutecznie atakował Niemców](/potyczka-pod-longido), teraz z tego samego kierunku miał wejść w głąb [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).

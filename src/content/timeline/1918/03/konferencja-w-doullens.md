@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [Ferdinand Foch, Douglas Haig, Philippe Pétain, Georges Clemenceau]
 milestone: true
 draft: false
+brief:
+  - "26 marca 1918 roku w ratuszu w Doullens, szóstego dnia niemieckiej ofensywy nad Sommą, Georges Clemenceau i lord Alfred Milner podpisali porozumienie powierzające gen. Fochowi koordynację armii sojuszniczych."
+  - "Do marca 1918 roku armie brytyjska i francuska walczyły pod osobnym dowództwem. Gdy Niemcy uderzyli 21 marca, wzajemna pomoc zawiodła, a między obu armiami groziła otwarta luka."
+  - "W nocy z 24 na 25 marca Pétain powiedział Haigowi, że w razie dalszego odwrotu Francuzi będą osłaniać Paryż, odsłaniając prawe skrzydło Brytyjczyków. Milner przyjechał do Francji na polecenie Lloyda George'a."
+  - "Na naradzie Foch przekonywał, że trzeba walczyć przed Amiens i nie cofać się ani o krok. Haig zgodził się mu podporządkować i poparł rozszerzenie jego zadania na cały front zachodni."
+  - "Po raz pierwszy wojska brytyjskie i francuskie we Francji miały nad sobą jednego człowieka, choć Foch mógł tylko koordynować, a nie rozkazywać. 14 kwietnia rządy zgodziły się nadać mu tytuł naczelnego wodza."
 ---
 
 26 marca 1918 roku w ratuszu w [Doullens](https://pl.wikipedia.org/wiki/Doullens), małym mieście na północ od [Amiens](https://pl.wikipedia.org/wiki/Amiens), zebrali się najważniejsi politycy i wojskowi Francji i Wielkiej Brytanii. Od sześciu dni trwała [wielka ofensywa niemiecka](/bitwy/operacja-michael) nad Sommą. Brytyjskie armie cofały się, a między nimi a Francuzami groziła otwarta luka. Po naradzie premier Francji [Georges Clemenceau](/postacie/georges-clemenceau) i brytyjski minister lord [Alfred Milner](/postacie/alfred-milner) podpisali krótkie porozumienie. Generał [Ferdinand Foch](/postacie/ferdinand-foch) otrzymał w nim zadanie koordynowania działań armii sojuszniczych na froncie zachodnim. Po raz pierwszy od początku wojny wojska brytyjskie i francuskie we Francji miały nad sobą jednego człowieka, który mógł nimi wspólnie kierować, choć na razie tylko w ograniczonym zakresie.

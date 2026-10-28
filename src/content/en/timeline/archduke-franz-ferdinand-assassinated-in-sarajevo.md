@@ -2,7 +2,13 @@
 title: Archduke Franz Ferdinand assassinated in Sarajevo
 summary: On 28 June 1914 Gavrilo Princip shot Archduke Franz Ferdinand and his wife Sophie, setting off the July Crisis.
 source: arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie
-sourceHash: 3a24371c49269011e8ca261d8fe12b594cc3a25e
+sourceHash: 0c36162d24992ae8ae9f7f2d784ae53216af9de2
+brief:
+  - "On 28 June 1914 in Sarajevo, Gavrilo Princip, a nineteen-year-old Bosnian Serb linked to Young Bosnia, shot Archduke Franz Ferdinand and his wife Sophie."
+  - "The background was Austria-Hungary's annexation of Bosnia and Herzegovina in 1908. The assassins got weapons from people linked to Serbian intelligence and the Black Hand; approval by the whole Serbian government is far less documented."
+  - "That morning Nedeljko Čabrinović threw a bomb that exploded under the next car. After the town hall the archduke's driver took a wrong turning, and the car stalled almost in front of Princip, who fired two shots."
+  - "Vienna chose to use the killing to settle accounts with Serbia: it won Germany's \"blank cheque\" on 5 and 6 July, sent Serbia an ultimatum on 23 July and declared war on 28 July 1914."
+  - "The Sarajevo assassination became the immediate trigger of the July Crisis, which within five weeks led to a war between the great powers, although the deeper causes of that war already existed."
 ---
 
 On 28 June 1914, in [Sarajevo](https://pl.wikipedia.org/wiki/Sarajewo), [Archduke Franz Ferdinand](https://pl.wikipedia.org/wiki/Franciszek_Ferdynand_Habsburg), heir to the Austro-Hungarian throne, and his wife [Sophie, Duchess of Hohenberg](https://pl.wikipedia.org/wiki/Zofia_von_Hohenberg), were killed. The assassin was [Gavrilo Princip](https://pl.wikipedia.org/wiki/Gavrilo_Princip), a nineteen-year-old Bosnian Serb linked to the [Young Bosnia](https://pl.wikipedia.org/wiki/Młoda_Bośnia) movement. The [assassination](https://pl.wikipedia.org/wiki/Zamach_w_Sarajewie) itself was not yet the formal beginning of the [world war](https://pl.wikipedia.org/wiki/I_wojna_światowa), but it became the immediate trigger of the July Crisis, which within five weeks led Europe from a local political killing to a war between the great powers.

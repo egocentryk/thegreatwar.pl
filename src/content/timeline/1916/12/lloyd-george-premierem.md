@@ -8,6 +8,11 @@ dayOrder: 1
 tags: [Wielka Brytania, David Lloyd George, Herbert Henry Asquith]
 milestone: true
 draft: false
+brief:
+  - "7 grudnia 1916 roku David Lloyd George przyjął od króla Jerzego V urząd premiera Wielkiej Brytanii, dwa dni po dymisji Herberta Henry'ego Asquitha."
+  - "Gabinet utworzył w nieco ponad dobę, opierając się na konserwatystach, Partii Pracy i części liberałów, bo niemal wszyscy czołowi liberałowie stanęli po stronie Asquitha."
+  - "Wojną miał odtąd kierować pięcioosobowy Gabinet Wojenny z premierem na czele, który zebrał się po raz pierwszy 9 grudnia, a jego sekretarzem został Maurice Hankey."
+  - "Rozłam w Partii Liberalnej okazał się trwały, a Lloyd George nie zdołał podporządkować sobie generałów, choć po zwycięstwie w 1918 roku okrzyknięto go „człowiekiem, który wygrał wojnę”."
 ---
 
 7 grudnia 1916 roku około 19.30 [David Lloyd George](/postacie/david-lloyd-george) stawił się u króla [Jerzego V](/postacie/jerzy-v) i przyjął urząd premiera Wielkiej Brytanii. Dwa dni wcześniej [do dymisji podał się](/dymisja-asquitha) [Herbert Henry Asquith](/postacie/herbert-henry-asquith), a misję utworzenia rządu Lloyd George otrzymał wieczorem 6 grudnia, dlatego część opracowań od tego dnia liczy jego premierostwo. Stworzenie gabinetu zajęło mu nieco ponad dobę. Zdołał tego dokonać, choć niemal wszyscy czołowi liberałowie stanęli po stronie Asquitha, a sam Asquith był przekonany, że jego rywal poniesie porażkę.

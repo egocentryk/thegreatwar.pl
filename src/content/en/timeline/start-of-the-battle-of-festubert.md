@@ -2,7 +2,13 @@
 title: Start of the Battle of Festubert
 summary: At 11.30 p.m. on 15 May 1915 the British 2nd Division and the Garhwal Brigade attacked the Germans at Festubert, the first British night attack of the war.
 source: poczatek-bitwy-pod-festubert
-sourceHash: c83701a0f2c4825934bc2bc6679f38b21049f5eb
+sourceHash: 161ded9b1a3685cbd8e47083d5e785a95a01eadd
+brief:
+  - "At 11.30 p.m. on 15 May 1915 General Douglas Haig's First Army attacked the Germans at Festubert by night. According to the British official history, it was the British Army's first night attack of the war."
+  - "After the defeat at Aubers Haig relied on a slow, methodical bombardment and close objectives. From 13 May 433 guns and howitzers shelled the German trenches, and the bombardment finally lasted 60 hours."
+  - "The night attack had been proposed by General Henry Horne. Some 10,000 men went in: the 6th and 5th Brigades of the 2nd Division and the Indian Garhwal Brigade."
+  - "On the right the 6th Brigade reached the German trench in silence and took the support trench. On the left the Germans were alert and their machine guns mowed down the 5th Brigade and the Garhwal Brigade."
+  - "At dawn on 16 May the 7th Division broke into the German trenches north of Festubert, but a gap remained between the divisions. A battle had begun in which for ten days a few hundred metres of mud would be won."
 ---
 
 On 15 May 1915, half an hour before midnight, British infantry went out into the darkness in front of their trenches at [Festubert](https://pl.wikipedia.org/wiki/Festubert) in French Flanders. Six days after the bloody defeat [at Aubers](/brytyjczycy-atakuja-grzbiet-aubers), General [Douglas Haig](/postacie/douglas-haig)'s First Army renewed the attack in order to support the French fighting for Vimy Ridge in [Artois](https://pl.wikipedia.org/wiki/Artois). This time it struck at night. According to the British official history, it was the British Army's first night attack of this war. On the right wing it succeeded completely: the men reached the German trench before the first shot was fired. On the left the Germans were waiting, ready.

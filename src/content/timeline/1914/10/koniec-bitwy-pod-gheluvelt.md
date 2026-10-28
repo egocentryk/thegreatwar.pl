@@ -10,6 +10,12 @@ dayOrder: 7
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig, John French]
 milestone: true
 draft: false
+brief:
+  - "31 października 1914 roku był najbardziej krytycznym dniem pierwszej bitwy pod Ypres. Około południa Niemcy zdobyli Gheluvelt przy drodze z Menin do Ypres i przerwali linię brytyjskiej 1 Dywizji."
+  - "Grupa armijna gen. Maxa von Fabecka zaplanowała decydujące uderzenie, które miał oglądać cesarz Wilhelm II. Gheluvelt broniły przetrzebione bataliony, według brytyjskich szacunków najwyżej dwa tysiące ludzi."
+  - "Pocisk, który trafił w zamek Hooge, zabił sześciu oficerów sztabów dwóch dywizji i ciężko ranił gen. Samuela Lomaxa. Marszałek John French wspominał później najgorsze pół godziny w swoim życiu."
+  - "Wyrwę zamknął kontratak 2 Batalionu Worcestershire majora Edwarda Hankeya, ostatniej rezerwy na tym odcinku. Batalion przebiegł otwarte pole pod ogniem i stracił według różnych danych od 187 do 192 ludzi."
+  - "Niemcy byli tego dnia najbliżej przełamania frontu pod Ypres w 1914 roku. Kontratak pod Gheluvelt przeszedł do legendy armii brytyjskiej, ale dla 1 i 7 Dywizji był początkiem końca starej armii zawodowej."
 ---
 
 31 października 1914 roku był najbardziej krytycznym dniem [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Około południa Niemcy zdobyli wieś [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld) przy drodze z Menin do [Ypres](https://pl.wikipedia.org/wiki/Ieper) i przerwali linię brytyjskiej 1 Dywizji. Niemieckie pociski zabiły kilku oficerów sztabów dwóch brytyjskich dywizji i ciężko raniły dowódcę jednej z nich. Przez kilka godzin wydawało się, że droga do Ypres i dalej, do portów nad kanałem La Manche, stoi otworem. Wyrwę zamknął kontratak jednego batalionu, 2 Batalionu Worcestershire. Brytyjska chronologia wojny opisuje ten dzień słowami: linia brytyjska przerwana i odtworzona. Tym dniem kończy się według brytyjskiej nomenklatury bitwa pod Gheluvelt.

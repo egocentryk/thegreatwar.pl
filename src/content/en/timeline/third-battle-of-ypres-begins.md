@@ -2,7 +2,13 @@
 title: Third Battle of Ypres begins
 summary: On 31 July 1917 the British and French attacked from Ypres. They took Pilckem Ridge but stalled on the Gheluvelt plateau, and in the afternoon a downpour began.
 source: poczatek-trzeciej-bitwy-pod-ypres
-sourceHash: 22f13d612613901e70490749b86059be61cf2c50
+sourceHash: 6479c9312684f8f89a13ffcfee47b4c6c2fde941
+brief:
+  - "At 3.50 a.m. on 31 July 1917 the infantry of the British Fifth and Second Armies and the French First Army attacked from Ypres. So began the Third Battle of Ypres, which Douglas Haig had been preparing for a year and a half."
+  - "The offensive was to drive the Germans from the ridges around Ypres and then from the Belgian coast. The German Fourth Army had prepared a defence in depth with counter-attack divisions behind Passchendaele Ridge."
+  - "In the north the Allies took Pilckem Ridge, and the French entered Bikschote. On the Gheluvelt plateau, the most strongly defended sector, the attack stalled."
+  - "In the afternoon a German counter-attack drove back the furthest forward brigades and retook Sint-Juliaan. Rain began that fell for the next four days and turned the battlefield into mud."
+  - "Haig judged the first day a success, but nowhere had the German defence been broken. The offensive lasted more than three months and became a byword for fighting in mud."
 ---
 
 At 3.50 a.m. on 31 July 1917, in darkness under low clouds, thousands of guns opened a barrage on the front from the river Lys to the flooded meadows near Steenstraat, and behind it the infantry of the British Fifth and Second Armies and the French First Army went into the attack. So began the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), the great offensive that Field Marshal [Douglas Haig](/postacie/douglas-haig) had been preparing for a year and a half and which was to drive the Germans from the ridges around [Ypres](https://pl.wikipedia.org/wiki/Ieper), and then from the Belgian coast. The first day brought success in the north, where the Allies took Pilckem Ridge, and disappointment on the most important sector, the Gheluvelt plateau. In the afternoon the rain began that was to decide the fate of the whole campaign.

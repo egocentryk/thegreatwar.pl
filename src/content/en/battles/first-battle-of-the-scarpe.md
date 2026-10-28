@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Fritz von Loßberg]
 result: British victory. The Third Army advanced more than 5 km in places, took Monchy-le-Preux and by 12 April had captured more than 7,500 prisoners and over 100 guns, but did not break the front, and from 11 April its attacks achieved less and less.
 source: pierwsza-bitwa-nad-scarpe-1917
-sourceHash: 5edbe3aef429c53e3be966797dc1d25f4b5c5642
+sourceHash: 3f050e67fb8b3c493398bdac58ab8c553a0f2f72
+brief:
+  - "The First Battle of the Scarpe, fought on 9–14 April 1917, was the first and most successful stage of the Battle of Arras. General Edmund Allenby's British Third Army attacked on both sides of the river."
+  - "The attack was meant to draw in German reserves ahead of the French offensive on the Aisne. Falkenhausen did not expect it until mid-April and kept his five reserve divisions far behind the front."
+  - "On 9 April, behind a creeping barrage, the infantry went through two, in places three, German positions in a few hours, and north of the Scarpe it advanced more than five kilometres."
+  - "The British could not exploit the breach before the German reserves arrived. On 11 April infantry and cavalry took Monchy-le-Preux, but further attacks broke against fresh divisions."
+  - "The battle gained more ground and prisoners than any earlier British offensive on the Western Front, but after a few days it took on a \"painfully familiar\" appearance, and it ended on 14 April."
 ---
 
 The First Battle of the Scarpe was the first and most successful stage of the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). On Easter Monday, 9 April 1917, General [Edmund Allenby](/postacie/edmund-allenby)'s British Third Army attacked east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), on both sides of the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe). At the same time the Canadians were storming the neighbouring Vimy Ridge. After a massive artillery bombardment and behind a creeping barrage, the infantry went through two German positions in a few hours, and on part of the front through three. North of the river it advanced about 3.5 miles, more than five kilometres, the furthest in a single day since the start of trench warfare on the Western Front. The German reserves, however, stood too far back to intervene, and the British were unable to exploit the breach before they arrived. On 11 April infantry and cavalry took the village of [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux), which dominated the surrounding country, but further attacks broke against fresh German divisions. On 14 April the battle came to an end.

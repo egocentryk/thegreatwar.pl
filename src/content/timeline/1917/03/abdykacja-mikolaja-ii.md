@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Rosja, Mikołaj II, rewolucja lutowa, Mikołaj Mikołajewicz]
 milestone: true
 draft: false
+brief:
+  - "15 marca 1917 roku w salonce pociągu cesarskiego w Pskowie Mikołaj II zrzekł się tronu za siebie i za dwunastoletniego syna Aleksego, przekazując koronę bratu, wielkiemu księciu Michałowi."
+  - "Po buncie garnizonu w Piotrogrodzie car próbował wrócić z Mohylewa do Carskiego Sioła, ale jego pociąg zawrócono. W Pskowie gen. Ruzski przekonywał go do rządu odpowiedzialnego przed Dumą."
+  - "Rodzianko uznał to ustępstwo za spóźnione, a gen. Aleksiejew zapytał dowódców frontów o zdanie. Wszyscy, z wielkim księciem Mikołajem Mikołajewiczem i gen. Brusiłowem, opowiedzieli się za abdykacją."
+  - "Mikołaj najpierw zgodził się abdykować na rzecz syna, ale nie chcąc się z nim rozstawać, zmienił zdanie. Około 23.40 wręczył akt wysłannikom Dumy, Guczkowowi i Szulginowi."
+  - "16 marca Michał odmówił przyjęcia korony do czasu decyzji Zgromadzenia Ustawodawczego. Ponad trzystuletnie panowanie Romanowów dobiegło końca, a Rosja przestała być monarchią."
 ---
 
 15 marca 1917 roku (2 marca według kalendarza juliańskiego) w salonce pociągu cesarskiego, stojącego na stacji w [Pskowie](https://pl.wikipedia.org/wiki/Psków), car [Mikołaj II](/postacie/mikolaj-ii) podpisał akt zrzeczenia się tronu. Abdykował za siebie i za dwunastoletniego syna, następcę tronu [Aleksego](https://pl.wikipedia.org/wiki/Aleksy_Romanow_(1904–1918)), a koronę przekazał młodszemu bratu, wielkiemu księciu [Michałowi Aleksandrowiczowi](https://pl.wikipedia.org/wiki/Michał_Romanow_(1878–1918)). Do decyzji skłonili go nie rewolucjoniści, lecz jego własni generałowie, którzy uznali, że tylko odejście cesarza pozwoli opanować [rewolucję w stolicy](/rewolucja-lutowa) i dalej prowadzić wojnę. Akt wręczył przed północą dwóm wysłannikom Dumy. Następnego dnia Michał odmówił przyjęcia korony i ponad trzystuletnie panowanie dynastii [Romanowów](https://pl.wikipedia.org/wiki/Romanowowie) dobiegło końca.

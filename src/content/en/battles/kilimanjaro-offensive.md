@@ -9,7 +9,13 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Georg Kraut]
 result: British victory. The Germans lost the Kilimanjaro area with Taveta and Moshi and fell back south along the railway, but their forces were not destroyed.
 source: ofensywa-kilimandzarska
-sourceHash: 3e5121e2aec283b0451ace1de720db2334de7cde
+sourceHash: 5046c89c6abf5ba6fbc876f2d650237796ade34c
+brief:
+  - "The Kilimanjaro offensive, from 5 to 21 March 1916, was Lieutenant-General Jan Smuts's first major operation in East Africa and the first serious British advance into German East Africa since the start of the war."
+  - "The Kilimanjaro area, with its plantations and the railway to Moshi, was the most important point of the front, and the Germans had held the border town of Taveta since August 1914. Smuts wanted to strike before the rains."
+  - "The plan was a converging advance from two sides: Stewart's 1st Division went round the mountain from the west, while Tighe's troops and van Deventer's horsemen attacked from the east, to encircle Lettow-Vorbeck's forces."
+  - "The British took Salaita and Taveta, forced the Germans to withdraw after hard fighting at Latema Nek, and on 14 March entered the abandoned Moshi. The 1st Division arrived too late to close the encirclement."
+  - "The Germans lost the most valuable corner of their colony and were now on the defensive, but after the fight at Kahe on 21 March Lettow-Vorbeck withdrew south in good order. His forces were not destroyed."
 ---
 
 The Kilimanjaro offensive was Lieutenant-General [Jan Smuts](/postacie/jan-smuts)'s first major operation in East Africa and the first serious British advance into [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) since the start of the war. In less than three weeks of March 1916 British, South African and Indian troops drove the Germans from their positions at the foot of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro), recovered Taveta, occupied since August 1914, and took Moshi, the terminus of the railway running from the coast. Smuts hoped that a converging advance from two sides would encircle and destroy the main force of the commander of the German colonial troops, [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). It did not succeed: after several hard-fought engagements the Germans withdrew to the south, and soon afterwards the rainy season began.

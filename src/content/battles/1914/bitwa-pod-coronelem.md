@@ -15,6 +15,12 @@ result: Zwycięstwo Niemiec. Brytyjczycy stracili dwa krążowniki pancerne wraz
 authors: [Łukasz Skowroń]
 tags: [Royal Navy, Kaiserliche Marine, Maximilian von Spee, Ocean Spokojny]
 milestone: true
+brief:
+  - "Wieczorem 1 listopada 1914 roku u wybrzeży środkowego Chile Eskadra Wschodnioazjatycka wiceadmirała Maximiliana von Spee rozbiła brytyjski zespół kontradmirała Christophera Cradocka."
+  - "Cradock miał słabe siły: dwa stare krążowniki pancerne z załogami w dużej części z rezerwistów. Najsilniejszy okręt, powolny Canopus, zostawił w tyle i mimo to zdecydował się na walkę."
+  - "Po zachodzie słońca brytyjskie okręty rysowały się na tle jasnego nieba. Około godziny 19 Niemcy otworzyli ogień, a Good Hope i Monmouth zatonęły z całymi załogami, razem z admirałem Cradockiem."
+  - "Zginęło około 1600 brytyjskich marynarzy, a Niemcy mieli zaledwie trzech rannych. Eskadra von Spee zużyła jednak mniej więcej połowę amunicji do ciężkich dział, której nie było skąd uzupełnić."
+  - "Była to pierwsza od ponad stu lat porażka Royal Navy w bitwie morskiej. Admirał Fisher wysłał w pościg krążowniki liniowe, które 8 grudnia 1914 roku dopadły Spee u Falklandów."
 ---
 
 [Bitwa pod Coronelem](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem) rozegrała się wieczorem 1 listopada 1914 roku na Pacyfiku, u wybrzeży środkowego [Chile](https://pl.wikipedia.org/wiki/Chile). Niemiecka Eskadra Wschodnioazjatycka wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee) rozbiła w niej brytyjski zespół kontradmirała [Christophera Cradocka](https://pl.wikipedia.org/wiki/Christopher_Cradock). Dwa brytyjskie krążowniki pancerne poszły na dno z całymi załogami, a Niemcy mieli zaledwie trzech rannych. Była to pierwsza od ponad stu lat porażka [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) w bitwie morskiej.

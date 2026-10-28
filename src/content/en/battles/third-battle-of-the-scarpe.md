@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below, Fritz von Loßberg]
 result: British defeat. The attack of the Third and First Armies was repulsed along almost the whole front with heavy losses. The only lasting gain was Fresnoy, taken by the Canadians and lost on 8 May.
 source: trzecia-bitwa-nad-scarpe-1917
-sourceHash: 899831cd539513ba06a5d641afb906b8c26882cc
+sourceHash: 64a1df9ed6e32953430f3baa001fdbe2d4d72b4f
+brief:
+  - "The Third Battle of the Scarpe, fought on 3–4 May 1917, was the last great general British attack in the Battle of Arras. At 3.45 a.m. on 3 May, while it was still dark, three armies went forward at once."
+  - "Haig already knew that the Nivelle offensive would bring no breakthrough, but still wanted to support the French. The attack was made by tired divisions, filled up with poorly trained recruits, against a waiting enemy."
+  - "The too early zero hour proved fatal: in the darkness battalions lost direction, and German counter-attacks took back the ground won. The attack failed along almost the entire front."
+  - "The only clear success was the capture of the village of Fresnoy by the Canadians of the 1st Canadian Division, but on 8 May the fresh 5th Bavarian Division retook it."
+  - "The British official history called the attack \"nothing less than a disaster\". After it Haig gave up further general attacks at Arras and began moving forces to Flanders."
 ---
 
 The Third Battle of the Scarpe was the last great general British attack in the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). On 3 May 1917 at 3.45 a.m., while it was still dark, three armies went forward at once: General [Edmund Allenby](/postacie/edmund-allenby)'s Third Army on both banks of the [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), General Henry Horne's First Army at Gavrelle, Oppy and Fresnoy, and on the right flank General [Hubert Gough](/postacie/hubert-gough)'s Fifth Army at Bullecourt. The attack, carried out by tired divisions against an enemy who was waiting for them, failed along almost the entire length of the front. The British official history called it "nothing less than a disaster", and many of those who took part regarded the day as the blackest of the whole war. The only clear success was the capture of the village of Fresnoy by the Canadians. After this battle [Douglas Haig](/postacie/douglas-haig) gave up further general attacks at Arras and began moving forces to Flanders.

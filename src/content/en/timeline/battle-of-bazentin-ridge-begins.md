@@ -2,7 +2,13 @@
 title: Battle of Bazentin Ridge begins
 summary: At dawn on 14 July 1916, after a night approach and five minutes of shelling, the British took the German second position from Longueval to Bazentin-le-Petit.
 source: poczatek-bitwy-o-grzbiet-bazentin
-sourceHash: 92f84ea140b12ec2a6557f6d4710bce7daff2ec3
+sourceHash: 8720bc3dbd8405109ca7308130aad2268643898a
+brief:
+  - "On 14 July 1916 the British Fourth Army carried out its most successful attack since the start of the Battle of the Somme, taking the German second position from Longueval to Bazentin-le-Petit Wood by noon."
+  - "General Henry Rawlinson chose a night approach and a dawn attack. Douglas Haig long opposed it and gave way only on 12 July, while the French warned that such inexperienced troops could not manage a night approach."
+  - "More than 22,000 men formed up by night about 350–450 metres from the German trenches almost without loss. At 3.25 a.m., after only five minutes of hurricane fire, they went in, and surprise was almost complete."
+  - "The success could not be fully exploited: the Germans held the northern part of Longueval and Delville Wood, and the British entered High Wood, empty in the morning, only in the evening, during a rare mounted cavalry action."
+  - "The British took 42 officers and about 1,400 men prisoner, and the four assault divisions lost 9,194 men – a lot, but little compared with 1 July. High Wood was to cost another two months of fighting."
 ---
 
 On 14 July 1916, the day of the French [national holiday](https://pl.wikipedia.org/wiki/Święto_Narodowe_Francji), the British Fourth Army carried out its most successful attack since the start of the [Battle of the Somme](/bitwy/bitwa-nad-somma). Two weeks after the [first day](/pierwszy-dzien-bitwy-nad-somma), when its infantry had advanced in broad daylight, in even waves, often onto uncut wire and surviving machine guns, General [Henry Rawlinson](/postacie/henry-rawlinson) tried something entirely different. Four divisions crossed no man's land by night, formed up a few hundred metres from the German trenches and at 3.25 a.m., in the grey light before dawn, after only five minutes of hurricane fire, went in to the assault. By noon the German second position on a front of about 5.5 kilometres, from Longueval to Bazentin-le-Petit Wood, was in British hands. In the evening the cavalry went into the attack. Yet the day also ended with the first signs that the success could not be fully exploited.

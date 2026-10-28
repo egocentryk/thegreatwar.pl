@@ -2,7 +2,13 @@
 title: Battle of the St Quentin Canal begins
 summary: On 29 September 1918 the British 46th Division crossed the St Quentin Canal in fog, while Americans and Australians stormed the Hindenburg Line at Bellicourt.
 source: poczatek-bitwy-o-kanal-saint-quentin
-sourceHash: 48258f18dd13afa888508d422bdde4faebde24b5
+sourceHash: b86f568f24a53de3e6b3207c1d665295e4f69714
+brief:
+  - "At 5.50 a.m. on 29 September 1918 General Henry Rawlinson's British Fourth Army attacked the Hindenburg Line north of Saint-Quentin. It was the last of four blows Foch dealt the Germans on successive days."
+  - "In thick fog the British 46th Division crossed the deep canal cutting at Bellenglise and Riqueval, partly on lifebelts from the cross-Channel ferries, and seized the bridge at Riqueval intact."
+  - "The division, whose attacks in 1915 and 1916 had ended in disaster, took 4,200 prisoners that day for the loss of fewer than 800 men. In the afternoon it linked up with Australians advancing from the tunnel."
+  - "Over the tunnel at Bellicourt the American 30th and 27th and the Australian 3rd and 5th Divisions fought heavy and confused battles. Germans who had sat out the first wave in dugouts fired on the backs of the following units."
+  - "By evening the Fourth Army held the greater part of the main Hindenburg Line position, though fighting over the tunnel went on. That same day at Spa Ludendorff and Hindenburg demanded an immediate armistice."
 ---
 
 At 5.50 a.m. on 29 September 1918 General [Henry Rawlinson's](/postacie/henry-rawlinson) British Fourth Army attacked the Hindenburg Line north of [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). It was the last of four blows that Marshal [Ferdinand Foch](/postacie/ferdinand-foch) dealt the Germans on successive days: on 26 September the [Meuse-Argonne offensive](/poczatek-ofensywy-moza-argonne) began, on 27 September the Canadians and British [crossed the Canal du Nord](/poczatek-bitwy-o-kanal-du-nord), and on 28 September the Belgians and British [attacked at Ypres](/poczatek-piatej-bitwy-pod-ypres). That day, in thick fog, the British 46th Division crossed the deep cutting of the canal at Bellenglise and Riqueval and took more than four thousand prisoners. To its north, over the underground stretch of the canal at Bellicourt, two American and two Australian divisions fought heavy and confused battles all day. The Battle of the St Quentin Canal had begun, the most important of the [battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga).

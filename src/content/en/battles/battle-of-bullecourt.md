@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below, Otto von Moser]
 result: A costly British tactical success. The Australians held and widened their breach in the Hindenburg Line and the British took the ruins of Bullecourt. There was no breakthrough, and losses exceeded 14,000 men.
 source: bitwa-pod-bullecourt
-sourceHash: 2aae6463b21ee6ca1915a982bc2326840dac7165
+sourceHash: c1add26fec1ba2689938f959478a1da6483b41d5
+brief:
+  - "The Battle of Bullecourt, fought from 3 to 17 May 1917, was the longest and bloodiest episode of the final phase of the Battle of Arras. Gough's Fifth Army attacked the Hindenburg Line here for the second time."
+  - "On 11 April the 4th Australian Division had suffered a heavy defeat here. In May the attack was only meant to support the Third Army and pin the Germans, and this time very thorough artillery preparation preceded it."
+  - "On 3 May the 6th Brigade of the 2nd Australian Division broke into the German trenches east of the village and held a lodgement, but the British 62nd Division failed to take Bullecourt itself."
+  - "The attack turned into a two-week struggle for a few hundred metres of trench. The Australians widened the breach with bombs, the Germans counter-attacked, and on 17 May Londoners of the 58th Division took the last of the ruins."
+  - "British and Australian losses exceeded 14,000 men. The battle gained a reputation as a slaughterhouse and left the Australians bitter towards Gough and distrustful of tanks."
 ---
 
 The Battle of Bullecourt was the longest and bloodiest episode of the final phase of the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). Early on 3 May 1917, at the same time as the Third Battle of the Scarpe, General [Hubert Gough's](/postacie/hubert-gough) Fifth Army attacked the Hindenburg Line for the second time at the village of [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt), where on 11 April the [4th Australian Division had suffered a heavy defeat](/koniec-pierwszej-bitwy-nad-scarpe). This time the 2nd Australian Division broke into the German trenches east of the village and held a small lodgement there, but the British 62nd Division failed to take Bullecourt itself. An attack meant to last one day turned into a two-week struggle for a few hundred metres of trench and a few hectares of rubble. Successive Australian and British divisions widened the breach with bombs, while the Germans counter-attacked again and again, including with flamethrowers. On 17 May Londoners of the 58th Division took the last scrap of the ruins. Both sides suffered enormous losses, and in Australian memory the battle remained one of the hardest of the whole war.

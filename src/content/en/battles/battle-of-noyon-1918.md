@@ -9,7 +9,13 @@ sides:
     commanders: [Crown Prince Wilhelm, Oskar von Hutier]
 result: German victory. The Germans took Noyon and the heights north of the town, and the French front fell back several kilometres. The French nevertheless held the Mont Renaud hill and the road to Compiègne, while the gap between the Allied armies widened.
 source: bitwa-pod-noyon-1918
-sourceHash: 238e302a93ef39cdada0506f640d147a3ae06514
+sourceHash: 654d123fab0f01ff3a341063f0edcb6dc236e501
+brief:
+  - "The Battle of Noyon, fought on 25–26 March 1918, was the fighting on the southern wing of Operation Michael, the great German offensive begun on 21 March 1918."
+  - "General Oskar von Hutier's German 18th Army, which had shattered the right wing of the British Fifth Army, was pressing south-west between the Oise and the Somme, and Ludendorff aimed to separate the French and the British."
+  - "Facing it were successive French divisions, brought by lorry straight into the fighting, often without artillery or ammunition, together with the remnants of the British III Corps."
+  - "On 25 March the Germans broke their line and in the evening entered Noyon, and by the morning of 26 March the town was entirely in their hands. The French fell back another few kilometres but held the Mont Renaud hill."
+  - "The crisis widened the gap between the French and the British and led on 26 March to the Doullens conference, at which the coordination of the two armies' operations was entrusted to General Ferdinand Foch."
 ---
 
 The Battle of Noyon was the fighting on the southern wing of [Operation Michael](/bitwy/operacja-michael), the great German offensive begun on 21 March 1918. The German 18th Army of General [Oskar von Hutier](/postacie/oskar-von-hutier), which in the first days had shattered the right wing of the British Fifth Army, was pressing south-west between the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) and the Somme. Facing it were successive French divisions, brought by lorry straight into the fighting, often without artillery or ammunition, together with the remnants of the British III Corps. On 25 March the Germans broke their line, in the evening they entered [Noyon](https://pl.wikipedia.org/wiki/Noyon), and by the morning of 26 March the town was entirely in their hands. That day the French fell back another few kilometres, but they stopped the Germans on the Mont Renaud hill, which closed the Oise valley and the road to [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) and Paris.

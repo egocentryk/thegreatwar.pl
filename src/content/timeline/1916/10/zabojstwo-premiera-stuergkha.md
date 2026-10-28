@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Austro-Węgry, Karl Stürgkh, Friedrich Adler, Franciszek Józef I]
 milestone: true
 draft: false
+brief:
+  - "21 października 1916 roku w restauracji wiedeńskiego hotelu Meissl & Schadn socjaldemokrata Friedrich Adler zastrzelił premiera austriackiej połowy monarchii, hrabiego Karla Stürgkha."
+  - "Stürgkh od 16 marca 1914 roku rządził bez parlamentu, rozporządzeniami. Od lipca 1914 roku zawieszono prawa obywatelskie i wprowadzono cenzurę, a Rada Państwa nie zebrała się ani razu."
+  - "Adler, syn przywódcy socjalistów Victora Adlera, był przeciwnikiem wojny i linii własnej partii. Uznał, że przy zamkniętym parlamencie i cenzurze nie ma już legalnej drogi protestu."
+  - "W 1917 roku Adlera skazano na śmierć, ale wyrok zamieniono na 18 lat ciężkiego więzienia, a jesienią 1918 roku cesarz Karol I go amnestionował."
+  - "Zamach nie zmienił bezpośrednio kursu państwa, ale przyspieszył zwrot austriackiej socjaldemokracji ku hasłom pokojowym. Rada Państwa zebrała się ponownie dopiero 30 maja 1917 roku."
 ---
 
 21 października 1916 roku, w sobotę, w [Wiedniu](https://pl.wikipedia.org/wiki/Wiedeń) zginął premier austriackiej połowy monarchii habsburskiej, hrabia [Karl Stürgkh](https://pl.wikipedia.org/wiki/Karl_Stürgkh). W porze obiadu, w sali jadalnej hotelu Meissl & Schadn przy placu Neuer Markt w Śródmieściu zastrzelił go [Friedrich Adler](https://pl.wikipedia.org/wiki/Friedrich_Adler_(filozof)), działacz socjaldemokratyczny i syn przywódcy austriackich socjalistów [Victora Adlera](https://pl.wikipedia.org/wiki/Victor_Adler). Zamachowiec nie próbował uciekać. Chciał, żeby jego czyn odczytano jako protest przeciw rządom bez parlamentu, które Stürgkh sprawował od wiosny 1914 roku, i przeciw wojnie.

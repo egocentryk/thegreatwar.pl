@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Brytyjczycy przełamali niemiecką pozycję
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Stany Zjednoczone, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa nad Selle, od 17 do 25 października 1918 roku, była jedną z ostatnich wielkich bitew armii brytyjskiej na froncie zachodnim. Trzy armie brytyjskie z amerykańskim II Korpusem sforsowały rzekę pod Le Cateau."
+  - "Po utracie Cambrai Niemcy stanęli za Selle na pozycji Hermanna. Ich dowództwo uważało, że szansa na rozejm zależy od zatrzymania bitwy: „Brytyjczycy nie mogą przejść przez Selle na naszym froncie”."
+  - "17 października 4 Armia gen. Rawlinsona przeprawiła się we mgle przez rzekę i do wieczora zajęła Le Cateau. W nocy 20 października, przy pełni księżyca, przez Selle przeszła 3 Armia gen. Bynga."
+  - "23 i 24 października trzy armie wspólnym nocnym natarciem zepchnęły Niemców aż pod Kanał Sambra–Oise, las Mormal i Valenciennes. Sprzymierzeni wzięli w bitwie około 20 tysięcy jeńców i 475 dział."
+  - "Bitwa pokazała, że Niemcy nie mogą już zatrzymać Brytyjczyków nawet za przeszkodą wodną. Zbiegła się z dymisją Ludendorffa 26 października, a znad kanału Brytyjczycy ruszyli 4 listopada do bitwy nad Sambrą."
 ---
 
 Bitwa nad Selle była jedną z ostatnich wielkich bitew armii brytyjskiej na froncie zachodnim. Po zdobyciu [Cambrai](/bitwy/bitwa-pod-cambrai-1918) Niemcy zatrzymali się za niewielką rzeką Selle, dopływem [Skaldy](https://pl.wikipedia.org/wiki/Skalda), na nowej linii obrony nazwanej pozycją Hermanna. Rankiem 17 października 1918 roku brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), razem z amerykańskim II Korpusem, przeprawiła się przez rzekę we mgle na południe od [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis), a do wieczora zajęła samo miasto, pod którym w sierpniu 1914 roku Brytyjski Korpus Ekspedycyjny stoczył [jedną z bitew odwrotu spod Mons](/bitwy/bitwa-pod-le-cateau). W nocy 20 października przez Selle przeszła w świetle księżyca 3 Armia generała [Juliana Bynga](/postacie/julian-byng), a 23 i 24 października trzy armie brytyjskie wspólnym natarciem zepchnęły Niemców o kilka do kilkunastu kilometrów, aż pod Kanał Sambra–Oise, las Mormal i [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes). Według brytyjskiej historii oficjalnej sprzymierzeni wzięli w tej bitwie około 20 tysięcy jeńców i 475 dział.

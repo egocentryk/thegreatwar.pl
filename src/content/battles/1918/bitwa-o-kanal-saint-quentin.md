@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. 4 Armia przełamała główną pozycję Lin
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Stany Zjednoczone, Australia, Niemcy]
 milestone: true
+brief:
+  - "Od 29 września do 2 października 1918 roku brytyjska 4 Armia gen. Henry'ego Rawlinsona, z dywizjami amerykańskimi i australijskimi, atakowała najsilniejszy odcinek Linii Hindenburga nad Kanałem Saint-Quentin."
+  - "Kanał tworzył przednią fosę niemieckiej pozycji, a tunel pod Bellicourt, długi na około 5,7 km, służył za schron dla odwodów. Uderzenie 4 Armii było ostatnim z serii natarć zarządzonych przez marszałka Focha."
+  - "Natarcie nad tunelem, powierzone dwóm niedoświadczonym dywizjom amerykańskim i dwóm australijskim, utknęło w krwawych walkach. Amerykańska 27 Dywizja straciła według Beana około 5 tysięcy ludzi."
+  - "Sukces przyszedł pod Bellenglise: brytyjska 46 Dywizja przeprawiła się we mgle przez kanał na kołach ratunkowych, zdobyła nietknięty most w Riqueval i wzięła 4200 jeńców, tracąc mniej niż 800 ludzi."
+  - "W ciągu czterech dni 4 Armia zajęła główną pozycję i pozycję wsparcia Linii Hindenburga i stanęła przed linią Beaurevoir. Tego samego dnia w Spa Ludendorff i Hindenburg żądali wystąpienia o rozejm."
 ---
 
 Bitwa o Kanał Saint-Quentin była najważniejszą z [bitew o Linię Hindenburga](/bitwy/bitwy-o-linie-hindenburga) i jednym z decydujących starć ostatnich miesięcy wojny na froncie zachodnim. Rankiem 29 września 1918 roku brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) zaatakowała najsilniejszy odcinek niemieckiej pozycji, w miejscu, gdzie jej przednią fosę tworzył głęboki Kanał Saint-Quentin, a jego podziemny odcinek pod [Bellicourt](https://pl.wikipedia.org/wiki/Bellicourt) służył Niemcom za gigantyczny schron. Natarcie przez tunel, powierzone dwóm niedoświadczonym dywizjom amerykańskim i dwóm australijskim, utknęło w krwawych walkach o pozycje wysunięte. Sukces przyszedł tam, gdzie spodziewano się go najmniej: brytyjska 46 Dywizja we mgle zbiegła do kanału, przeprawiła się przez wodę na kołach ratunkowych z promów kursujących przez kanał La Manche, zdobyła nietknięty most w Riqueval i do popołudnia wzięła ponad cztery tysiące jeńców. W ciągu czterech dni 4 Armia zajęła główną pozycję i pozycję wsparcia Linii Hindenburga na froncie kilkunastu kilometrów i stanęła przed jej ostatnią linią, pod Beaurevoir.

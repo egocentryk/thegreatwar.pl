@@ -2,7 +2,13 @@
 title: Germans occupy Warsaw
 summary: On 5 August 1915 troops of the German Ninth Army entered Warsaw, abandoned by the Russians overnight. Russian rule, in place since 1815, came to an end.
 source: niemcy-zajmuja-warszawe
-sourceHash: 40cfca43dd946c1fe16bb63366027b8c1f218b4e
+sourceHash: ae13051ee5a3e71bd9891edbb86199f6868b1b40
+brief:
+  - "On 5 August 1915 units of the German Ninth Army of Field Marshal Prince Leopold of Bavaria entered Warsaw, abandoned by the Russians overnight, without a fight. Russian rule, in place since 1815, came to an end."
+  - "The summer offensive of the Central Powers threatened the Russian armies in central Poland from three sides. General Mikhail Alekseyev decided to withdraw the Second and Fourth Armies behind the Vistula."
+  - "The Russians removed offices, the university and factory machinery, and in the early morning blew up the Vistula bridges. Poles from the Citizens' Committee and the Citizens' Guard took over the running of the city."
+  - "The Russians dug in at Praga and shelled the city centre; the Germans took it only on 8 August. On 24 August they created the Government General of Warsaw under General Hans Hartwig von Beseler."
+  - "The capture of Warsaw was the greatest propaganda success of the Central Powers in the east, but the Russian armies got out of the pocket. The German occupation lasted until November 1918."
 ---
 
 In the early morning of 5 August 1915 the retreating Russians blew up the bridges over the Vistula, and a few hours later the first units of the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of Field Marshal [Prince Leopold of Bavaria](/postacie/leopold-bawarski) entered [Warsaw](https://pl.wikipedia.org/wiki/Warszawa) from the west. The city was taken without a fight. The German war communiqué of that day reported that Prince Leopold's army had broken through, in the course of a day and a night, the outer and inner lines of forts, in which Russian rearguards were still putting up a stubborn defence, and that "the city was occupied by our troops this morning". For Warsaw this ended the Russian rule which, since the [Congress of Vienna](https://pl.wikipedia.org/wiki/Kongres_wiedeński) in 1815, had lasted exactly a hundred years. A German occupation lasting more than three years began.

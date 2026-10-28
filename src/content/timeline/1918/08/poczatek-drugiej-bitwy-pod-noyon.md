@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Ferdinand Foch, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "17 sierpnia 1918 roku francuska 10 Armia gen. Charles'a Mangina ruszyła do natarcia na zalesionych wzgórzach między Oise a Aisne. Od tego dnia Francuzi liczą drugą bitwę pod Noyon."
+  - "Ofensywa pod Amiens zwolniła, więc Foch postanowił zadawać Niemcom kolejne ciosy w różnych punktach frontu, tak by nie mieli czasu przerzucać odwodów. Zażądał, by armie ruszały „najpóźniej 20 sierpnia”."
+  - "Mangin nie rzucił od razu całej armii na główną pozycję. VII i XXX Korpus do 8.00 zepchnęły niemieckie oddziały wysunięte i zajęły wzgórza pod Autrêches, z których miało wyjść główne natarcie."
+  - "18 i 19 sierpnia 10 Armia zdobyła pas głębokości około 2 kilometrów. 20 sierpnia Mangin uderzył dwunastoma dywizjami i przełamał główną pozycję niemiecką, a Ludendorff nazwał to „kolejnym czarnym dniem”."
+  - "Natarcie było pierwszym krokiem do rozszerzenia ofensywy sprzymierzonych na cały front. 21 sierpnia ruszyła brytyjska 3 Armia, a w ciągu dwóch tygodni Francuzi doszli nad Ailette i odbili Noyon."
 ---
 
 17 sierpnia 1918 roku rano francuska 10 Armia generała [Charles’a Mangina](/postacie/charles-mangin) ruszyła do natarcia na zalesionych wzgórzach między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), na północny zachód od [Soissons](https://pl.wikipedia.org/wiki/Soissons). Nie było to jeszcze wielkie uderzenie, tylko pierwsze z serii natarć przygotowawczych. Dwa korpusy z centrum armii do 8.00 zepchnęły niemieckie oddziały wysunięte i zajęły wzgórza, z których za kilka dni miało wyjść główne natarcie. Od tego dnia Francuzi liczą drugą bitwę pod Noyon, która w ciągu dwóch tygodni zaprowadziła ich nad rzekę [Ailette](https://pl.wikipedia.org/wiki/Ailette) i do odbitego [Noyon](https://pl.wikipedia.org/wiki/Noyon). Był to także pierwszy krok do rozszerzenia ofensywy, którą sprzymierzeni zaczęli 8 sierpnia pod Amiens, na cały front od Aisne po Scarpe.

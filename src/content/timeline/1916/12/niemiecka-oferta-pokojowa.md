@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Niemcy, Austro-Węgry, Theobald von Bethmann Hollweg, inicjatywy pokojowe]
 milestone: true
 draft: false
+brief:
+  - "12 grudnia 1916 roku kanclerz Bethmann Hollweg przekazał przez państwa neutralne notę z propozycją rokowań pokojowych, a identyczne noty złożyły Austro-Węgry, Bułgaria i Turcja."
+  - "Inicjatywa wyszła od austro-węgierskiego ministra Buriána, a Berlin uznał, że najlepszy moment nadszedł po zdobyciu Bukaresztu, gdy nie groziło wrażenie słabości."
+  - "Nota nie zawierała żadnych warunków pokoju, za to chwaliła „niezniszczalną siłę” państw centralnych i grożyła, że w razie odmowy doprowadzą one walkę do zwycięskiego końca."
+  - "Rząd Rzeszy liczył, że odmowa Ententy da mu usprawiedliwienie dla nieograniczonej wojny podwodnej, której od miesięcy domagały się Admiralicja i Naczelne Dowództwo."
+  - "Ententa odrzuciła ofertę 30 grudnia 1916 roku, nazywając ją manewrem wojennym, a miesiąc później Niemcy ogłosili nieograniczoną wojnę podwodną."
 ---
 
 12 grudnia 1916 roku przed południem kanclerz Rzeszy [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg) wezwał do siebie, każdego z osobna, ambasadora Hiszpanii, posła Szwajcarii i amerykańskiego chargé d’affaires Josepha Grew. Byli to przedstawiciele państw, które w czasie wojny reprezentowały interesy Niemiec w krajach nieprzyjacielskich. Każdemu wręczył notę z propozycją podjęcia rokowań pokojowych i poprosił o przekazanie jej rządom Ententy. Stany Zjednoczone miały ją doręczyć Francji, Wielkiej Brytanii, Japonii, Rumunii, Rosji i Serbii, Hiszpania Belgii i Portugalii, a Szwajcaria Włochom. Tego samego dnia identyczne noty złożyły w Wiedniu, Sofii i Konstantynopolu rządy Austro-Węgier, Bułgarii i Turcji. Osobno powiadomiono papieża [Benedykta XV](https://pl.wikipedia.org/wiki/Benedykt_XV) i pozostałe państwa neutralne. Po południu kanclerz odczytał notę w Reichstagu. Państwa centralne po raz pierwszy w tej wojnie oficjalnie i wspólnie zaproponowały przeciwnikom rozmowy o pokoju.

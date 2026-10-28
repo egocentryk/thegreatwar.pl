@@ -9,6 +9,12 @@ dayOrder: 9
 tags: [wypowiedzenie wojny, Austro-Węgry, Rosja, Galicja]
 milestone: true
 draft: false
+brief:
+  - "6 sierpnia 1914 roku ambasador Austro-Węgier w Petersburgu, hrabia Friedrich Szápáry, wręczył Siergiejowi Sazonowowi wypowiedzenie wojny Rosji."
+  - "Austro-Węgry zrobiły to jako ostatnie z wielkich mocarstw walczących na wschodzie, bo trwała mobilizacja, a część wojsk wysłano przeciw Serbii. Niemcy wypowiedziały Rosji wojnę już 1 sierpnia."
+  - "Głównym frontem monarchii stała się Galicja. Po sukcesach pod Kraśnikiem i Komarowem armia austro-węgierska poniosła ciężką klęskę, a na początku września Rosjanie zajęli Lwów."
+  - "Po raz pierwszy od rozbiorów dwa państwa zaborcze stanęły przeciw sobie. Tego samego dnia Pierwsza Kompania Kadrowa Józefa Piłsudskiego wyruszyła z Krakowa."
+  - "Dla monarchii habsburskiej oznaczało to wojnę na dwóch frontach, z Serbią i z Rosją, do której jej armia nie była przygotowana."
 ---
 
 6 sierpnia 1914 roku ambasador [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry) w [Petersburgu](https://pl.wikipedia.org/wiki/Petersburg), hrabia Friedrich Szápáry, wręczył rosyjskiemu ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) wypowiedzenie wojny. Monarchia habsburska uzasadniała je wrogą postawą Rosji w konflikcie z Serbią oraz tym, że [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) znalazła się w stanie wojny z Niemcami, sojusznikiem Wiednia.

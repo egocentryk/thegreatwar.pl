@@ -2,7 +2,13 @@
 title: Fighting on the Ancre
 summary: On 5 April 1918 the Germans attacked on the Ancre. At Dernancourt the Australians lost the embankment but held the ridge. Ludendorff then ended Michael.
 source: walki-nad-ancre
-sourceHash: 22dfe17ce2091b0d7ac7a1fd6b3833594b0b86b1
+sourceHash: 6715e41672397189fa1de9b665b29326df2e1155
+brief:
+  - "On 5 April 1918, the sixteenth day of Operation Michael, the Germans made their last attempt to break through to Amiens, attacking the British Third Army above the Ancre valley."
+  - "At Dernancourt the German 50th Reserve Division broke the Australian line on the railway embankment and was on the ridge at 10.30, but the neighbouring divisions had not kept pace."
+  - "At 5.15 p.m. the Australians counter-attacked and dug in behind the morning's front. Charles Bean judged the German attack the strongest the Australians ever faced."
+  - "Further north, from Albert to Bucquoy, tired British divisions and the New Zealanders held the front. Only at Bucquoy did the Germans take the eastern half of the village."
+  - "That evening Ludendorff ordered the offensive broken off. Operation Michael had moved the front more than 60 kilometres but had not separated the British and French armies."
 ---
 
 On 5 April 1918, the sixteenth day of [Operation Michael](/bitwy/operacja-michael), the Germans made their last attempt to break through to [Amiens](https://pl.wikipedia.org/wiki/Amiens). The day before, their attack south of the Somme, [on the Avre and at Villers-Bretonneux](/walki-nad-avre), had stuck in the rain before the Australian and French lines. Now the blow was to fall north of the river, on the British Third Army holding the heights above the valley of the [Ancre](https://pl.wikipedia.org/wiki/Ancre), from [Buire](https://pl.wikipedia.org/wiki/Buire-sur-l’Ancre) past German-held [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) to Hébuterne and [Bucquoy](https://pl.wikipedia.org/wiki/Bucquoy). By evening the Germans had won only a few scraps of ground, paid for with heavy losses, and [Erich Ludendorff](/postacie/erich-ludendorff) ordered a halt to the offensive which since 21 March had been meant to decide the war.

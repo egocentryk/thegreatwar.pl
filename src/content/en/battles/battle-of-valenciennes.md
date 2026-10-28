@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Bruno von Mudra]
 result: Canadian-British victory. The Canadians took Mont Houy and cleared Valenciennes on 2 November, and on the night of 2/3 November the Germans abandoned the Scheldt line and fell back eastwards.
 source: bitwa-pod-valenciennes-1918
-sourceHash: e81fdd4c465f8f7d67b657a3e48a05c2aa7497fa
+sourceHash: 6fdc352719549633308ed08378edc0b5f621e631
+brief:
+  - "On 1–2 November 1918 the Canadian Corps and the British XXII Corps took the hill of Mont Houy and liberated Valenciennes, a key point of the German Hermann Position on the Scheldt."
+  - "The town could not be shelled because many civilians remained there, and to the west it was protected by the flooded Scheldt Canal. A first attack on Mont Houy by the Scottish 51st Division on 28 October failed."
+  - "At 5.15 a.m. on 1 November the 10th Canadian Brigade attacked under cover of more than 300 guns. Mont Houy fell in less than an hour, and on the morning of 2 November the Canadians cleared Valenciennes."
+  - "According to Nicholson Canadian losses were 80 killed and about 300 wounded, with almost 1,800 prisoners taken. Sergeant Hugh Cairns earned here the last Victoria Cross of the war won by a Canadian."
+  - "On the morning of 3 November it became clear that the Germans had abandoned the Scheldt line. The fall of Valenciennes exposed the left flank of the German defence on the Sambre; it was the Canadians' last great battle of the war."
 ---
 
 The Battle of Valenciennes was the last great set-piece attack of the Canadian Corps in the First World War. [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes), a town on the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) in northern France which the Germans had [occupied in August 1914](/niemcy-zajmuja-valenciennes), was in the last days of October 1918 a key point of the German Hermann Position. To the west and north it was protected by the Scheldt Canal and floods, and to the south by the wooded hill of Mont Houy. After a failed attack by the Scottish 51st Division on 28 October, at 5.15 a.m. on 1 November a single Canadian brigade struck the hill under cover of artillery fire heavier than any other single infantry brigade received in the whole war. Mont Houy fell in less than an hour, and on the morning of 2 November the Canadians cleared Valenciennes of Germans. The last [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) of the war won by a Canadian was earned here by Sergeant Hugh Cairns.

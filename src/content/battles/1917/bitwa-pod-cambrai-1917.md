@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Brytyjczycy przełamali Linię Hindenburga na głęb
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, czołgi]
 milestone: true
+brief:
+  - "Bitwa pod Cambrai, toczona od 20 listopada do 7 grudnia 1917 roku, była pierwszą bitwą, w której czołgi użyte w masie poprowadziły natarcie całej armii, brytyjskiej 3 Armii generała Juliana Bynga."
+  - "Plan łączył pomysły Fullera i Tudora: zamiast wielodniowego ostrzału kilkaset czołgów miało zgnieść zasieki Linii Hindenburga, a artyleria otworzyć ogień dopiero w chwili ataku, bez wstrzeliwania się."
+  - "20 listopada zaskoczenie było całkowite: w kilka godzin Brytyjczycy przeszli przez cały system niemieckich umocnień i posunęli się na pięć, sześć kilometrów, kosztem około czterech tysięcy ludzi."
+  - "Sukcesu nie rozwinięto: kawaleria nie przeszła przez kanał, natarcie utknęło pod Bourlon, a 30 listopada Niemcy uderzyli z zaskoczenia i odebrali większość zdobyczy. 3 Armia wycofała się na grzbiet Flesquières."
+  - "Straty obu stron okazały się mniej więcej równe. Obie armie wyciągnęły z Cambrai wnioski na 1918 rok: Niemcy w ofensywie wiosennej, a Brytyjczycy w natarciach z czołgami pod Amiens."
 ---
 
 Bitwa pod Cambrai była pierwszą w historii bitwą, w której [czołgi](https://pl.wikipedia.org/wiki/Czołg) użyte w masie, na suchym i nierozrytym pociskami terenie, poprowadziły natarcie całej armii. Rankiem 20 listopada 1917 roku brytyjska 3 Armia generała [Juliana Bynga](/postacie/julian-byng) zaatakowała na południowy zachód od [Cambrai](https://pl.wikipedia.org/wiki/Cambrai) bez zwykłego, wielodniowego ostrzału. Kilkaset czołgów zgniotło zasieki uważanej za niezdobytą Linii Hindenburga, a ponad tysiąc dział otworzyło ogień dopiero w chwili ataku, strzelając według map i obliczeń, bez wcześniejszego wstrzeliwania się. W ciągu kilku godzin Brytyjczycy przeszli przez cały system niemieckich umocnień na froncie około dziesięciu kilometrów i posunęli się na pięć, sześć kilometrów, kosztem około czterech tysięcy ludzi. W Wielkiej Brytanii zabiły na tę wiadomość dzwony. Sukcesu nie udało się jednak rozwinąć: kawaleria nie przeszła przez kanał, natarcie utknęło przed grzbietem Bourlon, a 30 listopada Niemcy uderzyli z zaskoczenia od południa i odebrali Brytyjczykom większość zdobyczy. Na początku grudnia 3 Armia wycofała się na grzbiet Flesquières, a straty obu stron okazały się mniej więcej równe.

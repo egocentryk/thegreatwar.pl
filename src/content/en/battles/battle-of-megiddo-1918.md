@@ -9,7 +9,13 @@ sides:
     commanders: [Otto Liman von Sanders, Mustafa Kemal, Cevat Pasha, Mehmed Cemal Pasha]
 result: Decisive British victory. The infantry broke the front by the sea and the cavalry closed the lines of retreat. The Turkish Seventh and Eighth Armies were destroyed and the Fourth Army fell back in disorder towards Damascus.
 source: bitwa-pod-megiddo
-sourceHash: 5b0fbb43bffbd631c0b8233b98d7cfc663a4d67f
+sourceHash: 9e8154b03dd1c1e3428fedf0ae679cbc4a4f114f
+brief:
+  - "The Battle of Megiddo, fought on 19–25 September 1918 in northern Palestine, was the last great battle of the Palestine campaign and one of the most crushing victories of the whole war."
+  - "General Edmund Allenby secretly massed an overwhelming superiority on a narrow stretch of the coast, while dummy camps in the Jordan Valley convinced Liman von Sanders that the British would strike on the eastern flank."
+  - "At dawn on 19 September the infantry broke the Turkish front on the Plain of Sharon in a few hours, and three cavalry divisions raced through. By the next morning they held the Turks' roads of retreat in the Jezreel Valley."
+  - "The Turkish Seventh and Eighth Armies, trapped in the hills of Samaria, disintegrated under blows from the ground and from the air. According to Falls, by the evening of 20 September the British held about 25,000 prisoners."
+  - "In six days Allenby destroyed two of the three Turkish armies in Palestine. The battle opened the road to Damascus and, together with the collapse of Bulgaria, sealed the fate of the Ottoman Empire."
 ---
 
 The Battle of Megiddo was the last great battle of the Palestine campaign and one of the most crushing victories of the whole war. General [Edmund Allenby](/postacie/edmund-allenby), who had spent the summer rebuilding his army after giving up experienced divisions to France, secretly massed an overwhelming superiority in infantry and artillery on a narrow stretch of the coast. At dawn on 19 September 1918 his infantry broke the Turkish front on the [Plain of Sharon](https://pl.wikipedia.org/wiki/Równina_Szaron) within a few hours, and three cavalry divisions raced through the gap. By the next morning they were already standing in the [Jezreel Valley](https://pl.wikipedia.org/wiki/Dolina_Jezreel), several dozen kilometres behind the enemy, on the roads by which he could retreat. The Turkish Seventh and Eighth Armies, trapped in the hills of Samaria, disintegrated under blows from the ground and from the air, and the Fourth Army beyond the Jordan had to flee north. British intelligence did not overrate the enemy: the Turks no longer had either the men or the supplies to stop a blow planned in this way.

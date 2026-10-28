@@ -2,7 +2,13 @@
 title: Start of the Battle of Morval
 summary: On 25 September 1916 the British Fourth Army attacked on the Somme at noon and took Morval and Lesbœufs in three hours. At Gueudecourt the attack failed.
 source: poczatek-bitwy-pod-morval
-sourceHash: 4519127ed92c989244ec351d935b989217edb356
+sourceHash: 638345e294150c225ea8c3080114d45de184cdbc
+brief:
+  - "On 25 September 1916 at 12.35 p.m. General Henry Rawlinson's British Fourth Army attacked on the Somme towards the villages of Morval, Lesbœufs and Gueudecourt."
+  - "The villages were to have fallen on 15 September, but that attack stalled, and rain and French delays put off the new attack three times. Foch and Haig agreed that both armies would attack together, no earlier than noon."
+  - "Four divisions of XIV Corps advanced close behind the barrage and took Morval and Lesbœufs in less than three hours. The official history judged it the Fourth Army's most successful operation since mid-July."
+  - "At Gueudecourt the 21st Division's attack collapsed before uncut wire, and the French failed to encircle Combles because Frégicourt held out."
+  - "By evening the German command judged its position dangerous. The Germans abandoned Combles that night, and the next day Combles and Gueudecourt were already in Allied hands."
 ---
 
 On 25 September 1916, exactly a year after the first day of the [Battle of Loos](/poczatek-bitwy-pod-loos), the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson) launched another great attack in the [Battle of the Somme](/bitwy/bitwa-nad-somma). At 12.35 p.m., at noon on a fine autumn day, the infantry of four divisions of XIV Corps left their trenches behind a curtain of fire from their own artillery and in less than three hours took two villages on the ridge above the Somme, [Morval](https://pl.wikipedia.org/wiki/Morval_(Pas-de-Calais)) and [Lesbœufs](https://pl.wikipedia.org/wiki/Lesbœufs). The British official history called it an "exhilarating experience" and judged the attack the most successful operation of the Fourth Army since mid-July. On the left wing, however, the attack on a third village, [Gueudecourt](https://pl.wikipedia.org/wiki/Gueudecourt), collapsed before uncut wire, and the French on the right wing failed to encircle [Combles](https://pl.wikipedia.org/wiki/Combles). Even so, by evening the German command judged its position to be dangerous.

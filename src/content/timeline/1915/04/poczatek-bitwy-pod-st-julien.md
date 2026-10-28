@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "24 kwietnia 1915 roku o świcie Niemcy po raz drugi w ciągu trzech dni wypuścili pod Ypres chmurę chloru, tym razem wprost na okopy 1 Dywizji Kanadyjskiej. Tak zaczęła się bitwa pod St. Julien."
+  - "Po dwóch dniach walk kanadyjski front tworzył ostry klin, a wiele oddziałów straciło już połowę stanu. Kanadyjczycy nie mieli masek i zasłaniali twarze mokrymi chustkami."
+  - "Najciężej ucierpiał 15 Batalion, który stracił tego dnia 647 ludzi. Kanadyjczycy, ostrzeliwani z trzech stron i walczący zacinającymi się karabinami Rossa, cofali się przez cały dzień."
+  - "Gen. Turner wycofał resztki 3 Brygady na linię GHQ, odsłaniając skrzydło brygady Curriego. Po południu Niemcy zajęli ruiny Sint-Juliaan, ale Kanadyjczycy utrzymali grzbiet Gravenstafel."
+  - "Był to najkrwawszy dzień dywizji pod Ypres: straciła 3058 ludzi. Kontratak 10 Brygady 25 kwietnia został wykrwawiony, a wieś pozostała w niemieckich rękach aż do lata 1917 roku."
 ---
 
 24 kwietnia 1915 roku, o świcie, Niemcy po raz drugi w ciągu trzech dni wypuścili pod [Ypres](https://pl.wikipedia.org/wiki/Ieper) chmurę [chloru](https://pl.wikipedia.org/wiki/Chlor). Tym razem gaz popłynął wprost na okopy [1 Dywizji Kanadyjskiej](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska), która od wieczora 22 kwietnia łatała wyrwę po [rozbitych francuskich dywizjach](/poczatek-drugiej-bitwy-pod-ypres). Za chmurą ruszyła piechota niemieckich korpusów rezerwowych. Kanadyjczycy, zatruci, ostrzeliwani z trzech stron i walczący karabinami, które zacinały się w ogniu, przez cały dzień cofali się krok po kroku. Po południu stracili wieś Sint-Juliaan, przez Brytyjczyków nazywaną St. Julien. Od niej wzięła nazwę bitwa, która zaczęła się tego dnia i według brytyjskiej nomenklatury trwała do 4 maja.

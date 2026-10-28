@@ -2,7 +2,13 @@
 title: United States declares war on Austria-Hungary
 summary: On 7 December 1917 Congress, at Wilson's request, declared the United States at war with Austria-Hungary. Only one congressman voted against.
 source: usa-wypowiadaja-wojne-austro-wegrom
-sourceHash: 9daa227dbfa4a1c7ce9bfaa2904a7f33df1e07ea
+sourceHash: 20ea61c71e4b2aa84e4f0ffd05e5a6d5e9fc119f
+brief:
+  - "On 7 December 1917, eight months after entering the war against Germany, Congress passed a resolution declaring war with Austria-Hungary, and President Woodrow Wilson signed it the same day."
+  - "The proposal came from Wilson, who in his message of 4 December called the monarchy the vassal of the German Government. He did not seek war with Turkey and Bulgaria, calling them \"mere tools\"."
+  - "The Senate voted unanimously, 74 to nothing. In the House of Representatives only the socialist Meyer London voted against, while Jeannette Rankin this time supported the resolution."
+  - "From 7 December many immigrants from Austria-Hungary formally became enemy aliens, but Wilson's proclamation of 11 December treated them more leniently than the Germans."
+  - "Militarily the declaration changed little at once, but it mattered politically, especially for Italy: the United States could now send soldiers to the Italian front, which it did in 1918."
 ---
 
 On 7 December 1917, eight months after [entering the war against Germany](/usa-wypowiadaja-wojne-niemcom), the United States found itself at war with Austria-Hungary as well. That day both houses of [Congress](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) passed a joint resolution, and President [Woodrow Wilson](/postacie/woodrow-wilson) signed it the same day. The Senate voted unanimously, 74 to nothing, and in the House of Representatives only one member voted against, the socialist Meyer London of New York. According to the House's website 365 members voted for the resolution, while the *New York Times Current History* gave 363. Unlike the April debate on war with Germany, this time nobody in Congress doubted the outcome. The most that was disputed was why the war covered only the Habsburg monarchy and not Germany's other allies.

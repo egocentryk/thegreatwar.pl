@@ -2,7 +2,13 @@
 title: Start of the Battle of the Scarpe
 summary: At 3 a.m. on 26 August 1918 the Canadians attacked east of Arras and retook Monchy-le-Preux by 8 a.m. The Allied offensive spread to the First Army front.
 source: poczatek-bitwy-nad-scarpe-1918
-sourceHash: 7265605de6b65f5fc053f9fa5dcb5f95108e2cc2
+sourceHash: a2c06d7eab6ddf6d29ffc6beadb732be19a14092
+brief:
+  - "At three in the morning on 26 August 1918 General Arthur Currie's Canadian Corps attacked east of Arras, on both sides of the Cambrai road. North of the Scarpe the 51st (Highland) Division joined in."
+  - "After the victory at Amiens the Canadians were brought back to Arras. The Germans expected an attack, so Currie could surprise them only with the hour, moved from dawn to three in the morning."
+  - "Behind an excellent barrage the 3rd Canadian Division bypassed Orange Hill and at 7.40 took Monchy-le-Preux, from which the Germans had overlooked Arras since March. In the afternoon the 2nd Division took Guémappe."
+  - "A strong German counter-attack was broken up, but the Canadians advanced no further that day. According to Canadian sources the corps advanced more than five kilometres."
+  - "The Allied offensive begun at Amiens spread to the British First Army front, and the Germans began preparing a retreat from Bapaume to Noyon. The Canadians still faced the Fresnes–Rouvroy and Drocourt–Quéant lines."
 ---
 
 At three o'clock in the morning on 26 August 1918 General [Arthur Currie](/postacie/arthur-currie)'s Canadian Corps attacked east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), on both sides of the road to [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Two Canadian divisions, backed by a powerful barrage, passed through the German forward lines in the dark, and before eight in the morning took the hill with the ruins of the village of [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux), from which the Germans had been looking down on Arras since March. North of the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) the 51st (Highland) Division joined in. In this way the great Allied offensive, begun eighteen days earlier [at Amiens](/poczatek-bitwy-pod-amiens), spread to the front of General Henry Horne's British First Army. By the evening, after a full day's fighting, the Canadians stood more than five kilometres further on than in the morning, and the German command began to prepare a retreat on the front from Bapaume to Noyon.

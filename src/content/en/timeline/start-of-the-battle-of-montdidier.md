@@ -2,7 +2,13 @@
 title: Start of the Battle of Montdidier
 summary: On 8 August 1918 Debeney's French First Army attacked alongside the British at Amiens. It took Moreuil and crossed the Avre, but did not reach Arvillers.
 source: poczatek-bitwy-pod-montdidier
-sourceHash: bdbdaa79c3370cbe94ca42a286a9a3c39cac68e0
+sourceHash: 3698a57a986c850ab18c224a2b168d0a64de2583
+brief:
+  - "On 8 August 1918, alongside the Canadians and Australians attacking at Amiens, General Marie-Eugène Debeney's French First Army went into the attack on a sector from the Amiens–Roye road to near Montdidier."
+  - "The French had no large concentrations of tanks, so they could not attack by surprise. Their artillery opened fire with the British at 4.20 a.m., and the infantry of XXXI Corps moved off 45 minutes later."
+  - "XXXI Corps took Moreuil and came out onto the Santerre plateau, while IX Corps forced the river Avre after hard fighting. German resistance stiffened, and it was too late for Arvillers."
+  - "Debeney turned down Haig's request to throw his cavalry at the rear of the Germans at Montdidier, as his cavalry was far away and the roads were clogged with infantry."
+  - "According to the British official history the French took 150 officers and 3,200 men prisoner. Ludendorff decided that same day that the right wing of the Eighteenth Army would have to be pulled back from Montdidier."
 ---
 
 On 8 August 1918, in the same thick fog in which the Canadians and Australians [were breaking through the German front at Amiens](/poczatek-bitwy-pod-amiens), the French First Army of General Marie-Eugène Debeney went into the attack on their right flank. On a sector about 29 kilometres wide, from the Amiens–Roye road to the vicinity of [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)), it had ten divisions in the front line and four more in reserve, together with the II Cavalry Corps. That day the French took [Moreuil](https://pl.wikipedia.org/wiki/Moreuil), crossed the river [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) and advanced several kilometres onto the Santerre plateau. So began the Battle of Montdidier, the French part of the first great Allied attack of the offensive that was to end only with the armistice.

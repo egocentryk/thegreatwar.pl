@@ -15,6 +15,12 @@ result: Zwycięstwo osmańskie. Trzy próby odsieczy się nie powiodły, a 29 kw
 authors: [Łukasz Skowroń]
 tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania]
 milestone: true
+brief:
+  - "Od 7 grudnia 1915 do 29 kwietnia 1916 roku wojska osmańskie oblegały w Al-Kucie nad Tygrysem 6 Dywizję (Poona) generała Charlesa Townshenda. Była to największa klęska brytyjskiej wyprawy do Mezopotamii."
+  - "Po bitwie pod Ktezyfonem Townshend postanowił czekać w Al-Kucie na odsiecz, a generał John Nixon poparł tę decyzję. Obaj byli przekonani, że odsiecz przebije się bez większych trudności."
+  - "Garnizon odparł tureckie szturmy, w tym wielki atak w Wigilię. Feldmarszałek Colmar von der Goltz postanowił wziąć miasto głodem."
+  - "Trzy próby odsieczy, podjęte od stycznia do kwietnia 1916 roku, rozbiły się o tureckie okopy, powodzie i błoto. Korpus Tygrysu stracił w niespełna cztery miesiące ponad 23 tysiące ludzi."
+  - "29 kwietnia 1916 roku, po 147 dniach, wygłodzony garnizon skapitulował. Tysiące jeńców zmarły w niewoli, a Brytyjczycy odbili Al-Kut dopiero w lutym 1917 roku."
 ---
 
 Oblężenie Al-Kutu było największą klęską brytyjskiej wyprawy do [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) i jedną z najcięższych porażek Wielkiej Brytanii w całej wojnie. Po [bitwie pod Ktezyfonem](/bitwy/bitwa-pod-ktezyfonem) 6 Dywizja (Poona) generała Charlesa Townshenda [cofnęła się](/odwrot-spod-ktezyfonu) do [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i postanowiła tam czekać na odsiecz. 7 grudnia 1915 roku wojska osmańskie zaczęły otaczać miasto. Garnizon odparł szturmy, w tym wielki atak w Wigilię, ale trzy próby odsieczy, podjęte od stycznia do kwietnia 1916 roku, rozbiły się o tureckie okopy, powodzie i błoto. 29 kwietnia 1916 roku, po 147 dniach, wygłodzony garnizon skapitulował. Około 13 tysięcy ludzi poszło do niewoli, z której wielu nie wróciło.

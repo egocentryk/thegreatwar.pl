@@ -2,7 +2,13 @@
 title: Battle of Gheluvelt begins
 summary: On 29 October 1914 the Germans attacked the crossroads at Gheluvelt on the Menin–Ypres road in fog. The next day Fabeck's group began its great offensive.
 source: poczatek-bitwy-pod-gheluvelt
-sourceHash: a541abfb1d87bcba53bbd4d8a84ad681567bae92
+sourceHash: 32bd79bb8cdcc397809e196391eb5f4271dec914
+brief:
+  - "At dawn on 29 October 1914, in thick fog, German infantry struck the British positions at the crossroads by Gheluvelt, east of Ypres. British nomenclature dates the Battle of Gheluvelt from this day."
+  - "After the failure at Langemarck, Falkenhayn decided to strike between Gheluvelt and Messines. General Max von Fabeck's new army group received some 260 heavy guns, and its five fresh divisions moved up at night unnoticed."
+  - "The Bavarian 16th Reserve Infantry Regiment, in which Adolf Hitler served, broke into the line by the Menin road. The Guards lost the crossroads, and the Grenadier Guards battalion alone lost 470 men that day."
+  - "Counter-attacks recovered almost all the lost trenches, but not the crossroads. In the morning Haig had four brigades in reserve; by the evening he had not a single intact one."
+  - "On 30 October Fabeck's group took Zandvoorde, wiping out two Life Guards squadrons, and drove the cavalry from Hollebeke. The Germans stood some five kilometres from Ypres, but the attack on Gheluvelt itself failed."
 ---
 
 At dawn on 29 October 1914, in thick fog, German infantry struck the British positions at the crossroads by the village of [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld), east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). British nomenclature dates the Battle of Gheluvelt, the second and most critical stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres), from this day. The Germans took the crossroads and inflicted heavy losses on the best battalions of the British Guards. This was, however, only a prelude. Behind their line a new strike group under General Max von Fabeck was just completing its concentration, and on 30 October it went over to the attack south-east of Ypres.

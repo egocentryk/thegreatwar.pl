@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Niemcy zdobyli Kemmelberg, wieś Kemmel i Dranou
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Wielka Brytania, broń chemiczna]
 milestone: true
+brief:
+  - "25–26 kwietnia 1918 roku Niemcy szturmem zdobyli Kemmelberg, wzgórze wznoszące się na około 156 metrów nad równiną Flandrii i od 1914 roku najważniejszy punkt obserwacyjny aliantów na południe od Ypres."
+  - "Od kilku dni wzgórza bronili Francuzi, którzy przejęli odcinek od wyczerpanych dywizji brytyjskich. Niemcy chcieli zdobyć Kemmel i odciąć wojska alianckie w łuku pod Ypres."
+  - "Po ostrzale z ogromnym udziałem gazu oddziały Alpenkorps wdarły się na szczyt w nieco ponad godzinę. Do południa Niemcy zajęli wzgórze, wieś Kemmel i Dranoutre, biorąc tysiące jeńców."
+  - "Brytyjczycy na lewym skrzydle bronili się zacięcie. Francusko-brytyjski kontratak 26 kwietnia nie odzyskał wzgórza, ale związał Alpenkorps i 56 Dywizję, a Plumer skrócił łuk pod Ypres."
+  - "Niemieckie zwycięstwo pozostało niewykorzystane: dywizje zatrzymały się na pierwszym celu, a odcięcie Ypres nigdy nie nastąpiło. Ostatnie natarcie 29 kwietnia zamknęło niemiecką ofensywę we Flandrii."
 ---
 
 Druga bitwa o wzgórze Kemmel była najbardziej spektakularnym niemieckim sukcesem w całej [bitwie nad Lys](/bitwy/bitwa-nad-lys-1918). [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), wzgórze wznoszące się na około 156 metrów nad płaską równiną Flandrii, był od 1914 roku najważniejszym punktem obserwacyjnym aliantów na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Od kilku dni bronili go Francuzi, którzy przejęli ten odcinek od wyczerpanych dywizji brytyjskich. 25 kwietnia 1918 roku, po kilkugodzinnym ostrzale z ogromnym udziałem pocisków gazowych, niemieckie oddziały górskie Alpenkorps wdarły się na szczyt w nieco ponad godzinę. Do południa Niemcy zajęli całe wzgórze, wieś [Kemmel](https://pl.wikipedia.org/wiki/Kemmel) i [Dranoutre](https://pl.wikipedia.org/wiki/Dranouter), a do niewoli wzięli kilka tysięcy żołnierzy francuskiej 28 Dywizji Piechoty i jej sąsiadów. Brytyjczycy na lewym skrzydle bronili się zacięcie i nie pozwolili zamknąć łuku pod Ypres. Francusko-brytyjski kontratak 26 kwietnia nie odzyskał wzgórza, ale związał najlepsze niemieckie oddziały. Niemcy nie wykorzystali sukcesu i przełamania nie było.

@@ -2,7 +2,13 @@
 title: Allies land at Gallipoli
 summary: On 25 April 1915 British, Australian, New Zealand and French troops landed at the Dardanelles. The Turks put up fierce resistance.
 source: alianci-laduja-na-gallipoli
-sourceHash: bf61c79d87b8b82f389b8efd69a2d4428c06b246
+sourceHash: 965754ff616c690fc80014feae164b1fe628011a
+brief:
+  - "At dawn on 25 April 1915 Allied troops began landing on the Gallipoli peninsula. It was the first day of the months-long Gallipoli campaign."
+  - "Five weeks after Turkish mines and forts had repulsed the fleet, General Ian Hamilton tried to seize the shores of the Dardanelles with land forces. Liman von Sanders had concentrated the Turkish divisions inland."
+  - "The Australians and New Zealanders landed in what was later named Anzac Cove, but a counter-attack by Lieutenant Colonel Mustafa Kemal's division drove them from their forward positions into a narrow beachhead."
+  - "The British 29th Division landed on five beaches around Cape Helles. On V and W Beaches Turkish machine guns inflicted enormous losses, and none of the first day's objectives was reached."
+  - "The Allies held on at several points on the coast but took none of their main objectives. In Australia and New Zealand 25 April became a national day, observed as Anzac Day."
 ---
 
 At dawn on 25 April 1915 Allied troops began landing on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. Five weeks after [Turkish mines and forts had repulsed the fleet](/atak-floty-w-dardanelach-odparty), General [Ian Hamilton](/postacie/ian-hamilton) was trying to seize the shores of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele) with land forces. The British 29th Division landed on five beaches around Cape Helles, at the southern tip of the peninsula. The Australians and New Zealanders went ashore some twenty kilometres further north, on the west coast. The French put a force ashore on the Asian side of the strait, at Kum Kale, while ships carrying the Naval Division feigned a landing at the neck of the peninsula, at Bulair. It was the first day of the months-long [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli).

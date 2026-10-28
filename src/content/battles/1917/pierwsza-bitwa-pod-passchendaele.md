@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Natarcie na wieś Passchendaele i ostrogę Belle
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Nowa Zelandia, Australia, Niemcy]
 milestone: true
+brief:
+  - "Pierwsza bitwa pod Passchendaele, stoczona 12 października 1917 roku, była ostatnim październikowym natarciem na grzbiet Passchendaele. II Korpus Anzac generała Alexandra Godleya ruszył o 5.25 w deszczu."
+  - "Haig wyznaczył natarcie zaledwie trzy dni po nieudanym ataku pod Poelcappelle. Artyleria ugrzęzła w błocie, a przed schronami na ostrodze Bellevue ciągnęły się szerokie pasy nieprzeciętych zasieków."
+  - "Nowozelandczycy utknęli przed drutami i w kilka godzin stracili około 2,7 tysiąca ludzi, w tym około 845 zabitych lub śmiertelnie rannych. Był to najtragiczniejszy dzień w historii Nowej Zelandii."
+  - "Garstka Australijczyków z 3 Dywizji doszła do kościoła w Passchendaele, ale po południu dywizja wróciła prawie na linię wyjściową. Według Beana straciła 3199 ludzi."
+  - "Klęska przekreśliła nadzieje Haiga na wielkie zwycięstwo we Flandrii w 1917 roku. Natarcia wstrzymano do poprawy pogody, a zdobycie Passchendaele powierzono Korpusowi Kanadyjskiemu."
 ---
 
 Pierwsza bitwa pod Passchendaele była drugim i ostatnim październikowym natarciem, którym brytyjskie dowództwo próbowało zdobyć grzbiet Passchendaele, zanim zima zakończy [trzecią bitwę pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). 12 października 1917 roku o 5.25, zaledwie trzy dni po nieudanym natarciu [pod Poelcappelle](/bitwy/bitwa-pod-poelcappelle), II Korpus Anzac generała Alexandra Godleya ruszył w deszczu na wieś [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) i ostrogę Bellevue. 3 Dywizja Australijska generała [Johna Monasha](/postacie/john-monash) miała zdobyć wieś, a Dywizja Nowozelandzka generała Andrew Russella ostrogę, przed którą stały betonowe schrony z karabinami maszynowymi, osłonięte szerokimi pasami nieprzeciętych zasieków. Artyleria, która ugrzęzła w błocie, dała tylko słaby i nieregularny ostrzał. Nowozelandczycy utknęli przed drutami i w kilka godzin stracili około 2,7 tysiąca ludzi, w tym około 845 zabitych lub śmiertelnie rannych. Był to najtragiczniejszy dzień w historii Nowej Zelandii. Garstka Australijczyków doszła do kościoła w Passchendaele, ale po południu cała 3 Dywizja Australijska wróciła prawie na linię wyjściową. Po tej klęsce feldmarszałek [Douglas Haig](/postacie/douglas-haig) wstrzymał natarcia do poprawy pogody i powierzył zdobycie Passchendaele Kanadyjczykom.

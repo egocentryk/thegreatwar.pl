@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Grecja, Elefterios Wenizelos, Bułgaria, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "27 czerwca 1917 roku Elefterios Wenizelos wjechał do Aten pod osłoną wojsk francuskich i złożył przysięgę jako premier przed królem Aleksandrem."
+  - "Od tego dnia wypowiedzenie wojny ogłoszone 23 listopada 1916 roku przez rząd tymczasowy w Salonikach uznano za wiążące dla całej Grecji, a kraj zerwał stosunki z państwami centralnymi."
+  - "Źródła datują poszczególne akty różnie: według Fallsa posłowie mieli zażądać paszportów 28 czerwca, a jedno z amerykańskich źródeł podaje wypowiedzenie wojny Niemcom i Bułgarii 2 lipca."
+  - "Nowy rząd zesłał przywódców obozu królewskiego, m.in. Dimitriosa Gunarisa i Joanisa Metaksasa, na Korsykę albo na wyspy Morza Egejskiego. Sprzymierzeni pozbyli się zagrożenia na tyłach frontu salonickiego."
+  - "Mobilizacja szła z wielkim trudem, ale rok później dziesięć greckich dywizji, około 300 tysięcy ludzi, wspierało sprzymierzonych w Macedonii. Schizma narodowa trwała jednak dalej."
 ---
 
 27 czerwca 1917 roku [Elefterios Wenizelos](/postacie/elefterios-wenizelos), który [dzień wcześniej utworzył rząd](/wenizelos-premierem-grecji), wjechał do [Aten](https://pl.wikipedia.org/wiki/Ateny) i złożył przysięgę jako premier. Od tego dnia, jak podaje brytyjska historia oficjalna kampanii macedońskiej (Falls), wypowiedzenie wojny ogłoszone [23 listopada 1916 roku](/rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii) przez rząd tymczasowy w Salonikach uznano oficjalnie za wiążące dla całej Grecji. Tak samo ujmuje to brytyjska chronologia wojny, która pod 27 czerwca notuje też zerwanie stosunków dyplomatycznych z Niemcami, Austro-Węgrami i Turcją. Kraj, który przez prawie trzy lata spierał się o to, czy walczyć, i od jesieni 1916 roku miał dwa rządy, stanął jako całość po stronie [Ententy](https://pl.wikipedia.org/wiki/Ententa).

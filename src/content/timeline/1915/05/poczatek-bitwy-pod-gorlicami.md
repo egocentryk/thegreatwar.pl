@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Niemcy, Austro-Węgry, Rosja, August von Mackensen]
 milestone: true
 draft: false
+brief:
+  - "1 maja 1915 roku setki niemieckich i austro-węgierskich dział zaczęły ostrzał rosyjskich okopów między Tarnowem a Gorlicami. 2 maja ruszyła piechota 11 Armii generała Augusta von Mackensena."
+  - "Falkenhayn przyjął plan Conrada, by przełamać front na tyłach Rosjan walczących w Karpatach. Pod Gorlicami stała osłabiona 3 Armia generała Radko Dimitriewa, cierpiąca na brak pocisków."
+  - "Z frontu zachodniego ściągnięto osiem doborowych dywizji, w tym pruską Gwardię. Według najczęściej przytaczanych danych armie Mackensena miały ponad tysiąc dział i moździerzy."
+  - "2 maja po czterogodzinnym ostrzale Niemcy i Austro-Węgrzy szturmowali rosyjskie pozycje. Austro-węgierska 12 Dywizja Piechoty z Krakowa, złożona w większości z Polaków, zdobywała okopy na wzgórzu Pustki."
+  - "Wieczorem 2 maja pierwsza linia rosyjska była przełamana na całym odcinku natarcia. Dimitriew nie zgodził się jednak na odwrót i nakazał trzymać pozycje."
 ---
 
 1 maja 1915 roku na pogórzu między [Tarnowem](https://pl.wikipedia.org/wiki/Tarnów) a [Gorlicami](https://pl.wikipedia.org/wiki/Gorlice) odezwały się setki niemieckich i austro-węgierskich dział. Baterie, które przez ostatnie dni potajemnie zajmowały stanowiska, zaczęły wstrzeliwać się w rosyjskie okopy i prowadzić ogień nękający. Brytyjska chronologia wojny od tego dnia liczy bitwę pod Gorlicami i Tarnowem. Główne uderzenie nastąpiło jednak dopiero następnego ranka: 2 maja, po czterogodzinnym huraganowym ostrzale, do natarcia ruszyła piechota nowej niemieckiej 11 Armii generała [Augusta von Mackensena](/postacie/august-von-mackensen) i jeszcze tego dnia przełamała pierwszą linię rosyjskiej obrony.

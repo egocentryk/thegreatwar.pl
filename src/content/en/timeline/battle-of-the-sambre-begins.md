@@ -2,7 +2,13 @@
 title: Battle of the Sambre begins
 summary: On 4 November 1918 the British crossed the Sambre–Oise Canal and Mormal Forest in fog, and the New Zealanders took Le Quesnoy. Wilfred Owen fell at Ors.
 source: poczatek-bitwy-nad-sambra
-sourceHash: 21179dd5293bafd4bedb49f8a110a4ce7060ca15
+sourceHash: 3285045d4f16dfc6d4cf547e365bd6b065d341d3
+brief:
+  - "At dawn on 4 November 1918 the British Fourth, Third and First Armies set off on the last great battle of the war, against the German second Hermann position resting on the Sambre–Oise Canal, the Sambre and Mormal Forest."
+  - "In the fog sappers threw footbridges and bridges on petrol tins across the canal. The crossing at Ors went worst, and in that fighting the 25-year-old poet Wilfred Owen of the 2nd Battalion, Manchester Regiment, was killed."
+  - "When the fog lifted, Royal Air Force aircraft strafed the retreating Germans. The British took Landrecies and fought through most of Mormal Forest, although resistance in the hedges in front of it was at times fierce."
+  - "The New Zealand Division took the Vauban fortress of Le Quesnoy: Second Lieutenant Leslie Averill climbed the rampart by ladder and the garrison capitulated. It was one of the New Zealanders' best days of the war."
+  - "By evening the British had crossed the canal along about 24 kilometres and taken about 10,000 prisoners. On the night of 4–5 November the German Second Army began falling back to the Antwerp–Meuse position."
 ---
 
 On 4 November 1918, at dawn, three British armies set off on the last great battle of the war. On a front running from the Sambre–Oise Canal near Oisy to the area of [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes), about 50 kilometres long according to Field Marshal [Sir Douglas Haig](/postacie/douglas-haig), the Fourth, Third and First Armies attacked the German second Hermann position, which rested on the canal, the canalised [Sambre](https://pl.wikipedia.org/wiki/Sambra) and Mormal Forest. On the right flank, in the Oise valley, General Debeney's French First Army attacked. By evening the British had crossed the canal along a stretch of about 24 kilometres, fought their way through most of the forest, taken the fortress of Le Quesnoy and captured about 10,000 prisoners. It was also the day on which Wilfred Owen was killed.

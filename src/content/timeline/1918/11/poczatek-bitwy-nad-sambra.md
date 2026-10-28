@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Nowa Zelandia]
 milestone: true
 draft: false
+brief:
+  - "4 listopada 1918 roku o świcie brytyjska 4, 3 i 1 Armia ruszyły do ostatniej wielkiej bitwy tej wojny, na niemiecką drugą pozycję Hermanna opartą o Kanał Sambra–Oise, Sambrę i las Mormal."
+  - "We mgle saperzy rzucali przez kanał kładki i mostki na bańkach po nafcie. Pod Ors przeprawa szła najgorzej, a w tej walce zginął 25-letni poeta Wilfred Owen z 2 batalionu pułku Manchester."
+  - "Gdy mgła opadła, samoloty RAF ostrzeliwały cofających się Niemców. Brytyjczycy zajęli Landrecies i przebili się przez większą część lasu Mormal, choć w żywopłotach przed nim opór bywał zacięty."
+  - "Dywizja Nowozelandzka zdobyła otoczoną wałami Vaubana twierdzę Le Quesnoy: ppor. Leslie Averill wspiął się na wał po drabinie, a garnizon skapitulował. Był to jeden z najlepszych dni Nowozelandczyków w tej wojnie."
+  - "Do wieczora Brytyjczycy przeszli kanał na długości około 24 kilometrów i wzięli około 10 tysięcy jeńców. W nocy z 4 na 5 listopada niemiecka 2 Armia zaczęła odwrót na pozycję Antwerpia–Moza."
 ---
 
 4 listopada 1918 roku, o świcie, trzy armie brytyjskie ruszyły do ostatniej wielkiej bitwy tej wojny. Na froncie od Kanału Sambra–Oise pod Oisy po okolice [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes), długim według feldmarszałka [Douglasa Haiga](/postacie/douglas-haig) na około 50 kilometrów, 4, 3 i 1 Armia uderzyły na niemiecką drugą pozycję Hermanna, opartą o kanał, skanalizowaną [Sambrę](https://pl.wikipedia.org/wiki/Sambra) i las Mormal. Na prawym skrzydle, w dolinie Oise, nacierała francuska 1 Armia generała Debeneya. Do wieczora Brytyjczycy przeszli przez kanał na długości około 24 kilometrów, przebili się przez większą część lasu, zdobyli twierdzę Le Quesnoy i wzięli około 10 tysięcy jeńców. Był to też dzień, w którym zginął Wilfred Owen.

@@ -2,7 +2,13 @@
 title: Germany declares war on Romania
 summary: On 28 August 1916 Germany declared war on Romania, a day after it turned against Austria-Hungary. The surprise at Pless cost Falkenhayn his post.
 source: niemcy-wypowiadaja-wojne-rumunii
-sourceHash: e7960fd01cf93363da5f317efef6435330618960
+sourceHash: 75a7f137da5cdc621735bcfb20c068b71fb4f43a
+brief:
+  - "On 28 August 1916 Germany declared war on Romania, less than a day after Romania had declared war on Austria-Hungary and its advance guards had crossed the Carpathian passes."
+  - "Since 1883 Romania had been bound by a secret alliance with Austria-Hungary and Germany, but in 1914 it declared neutrality, and on 17 August 1916 Prime Minister Ion I.C. Brătianu signed a treaty with the Entente."
+  - "The news surprised Falkenhayn and the Kaiser, who said the war was lost. Hindenburg's summons to Pless over the head of the chief of staff led Falkenhayn to ask to be relieved on 28 August."
+  - "The Central Powers had a plan ready for war with Romania. Field Marshal August von Mackensen was ordered to strike from northern Bulgaria as soon as possible, though Bulgaria was still not at war with Romania."
+  - "The campaign which in August had seemed a catastrophe at Pless became one of the greatest victories of the war: on 6 December 1916 Mackensen's troops entered Bucharest."
 ---
 
 On Monday 28 August 1916 the Wolff Agency in Berlin issued a short communiqué. Since [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii), "breaking in a shameful manner the treaties concluded with Austria-Hungary and Germany", had the previous evening [declared war](/rumunia-wypowiada-wojne-austro-wegrom) on the Reich's ally, the imperial minister in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt) had been instructed to ask for his passports and to declare to the Romanian government that the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) henceforth also considered itself at war with Romania. Thus, less than a day after the Romanian minister in Vienna had handed over the declaration of war and Romanian advance guards had crossed the Carpathian passes, Germany took its stand beside Austria-Hungary against the new enemy.

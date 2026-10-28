@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Francja, Niemcy, Joseph Joffre, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "6 września 1914 roku, po dwóch tygodniach odwrotu, armie francuskie i Brytyjski Korpus Ekspedycyjny uderzyły na Niemców na froncie długości około 200 kilometrów, od okolic Paryża po Verdun."
+  - "Kluck, zamiast obejść Paryż od zachodu, skręcił na południowy wschód i 3 września przekroczył Marnę. Gen. Joseph Gallieni dostrzegł, że niemiecka flanka odsłoniła się przed garnizonem stolicy."
+  - "Joffre utworzył nowe 6 Armię Maunoury'ego i 9 Armię Focha, przekonał marszałka Frencha do udziału w bitwie i wydał słynny rozkaz dzienny: żadne załamanie nie może być tolerowane."
+  - "Kluck zawrócił korpusy nad Ourcq, by zatrzymać Maunoury'ego, i między jego armią a armią Bülowa powstała luka. 9 września, po naradach z ppłk. Hentschem, Niemcy zarządzili odwrót nad Aisne."
+  - "Bitwa przekreśliła niemiecki plan szybkiego zwycięstwa na zachodzie i zmusiła Niemcy do długiej wojny na dwa fronty. Francuzi nazwali ją „cudem nad Marną”."
 ---
 
 6 września 1914 roku, po dwóch tygodniach odwrotu, armie francuskie i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) zatrzymały się i uderzyły na Niemców na froncie długości około 200 kilometrów, od okolic Paryża po Verdun. Tak zaczęła się [bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), jedna z najważniejszych bitew całej wojny. W ciągu kilku dni zdecydowała, że Niemcy nie pokonają Francji w jednej szybkiej kampanii.

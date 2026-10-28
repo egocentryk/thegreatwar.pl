@@ -15,6 +15,12 @@ result: Zwycięstwo Niemiec. Indyjski Korpus Ekspedycyjny „B” wycofał się 
 authors: [Natalia]
 tags: [Niemiecka Afryka Wschodnia, Paul von Lettow-Vorbeck, Indie Brytyjskie, Wielka Brytania]
 milestone: true
+brief:
+  - "W dniach 2–5 listopada 1914 roku około 8 tysięcy żołnierzy Indyjskiego Korpusu Ekspedycyjnego „B” gen. Arthura Aitkena próbowało zdobyć port Tanga w Niemieckiej Afryce Wschodniej."
+  - "Aitken lekceważył przeciwnika, a jego korpus był słabo wyszkolony i wyczerpany podróżą. Uprzedził też Niemców o zerwaniu rozejmu, co pozwoliło Lettow-Vorbeckowi przerzucić koleją posiłki."
+  - "4 listopada natarcie na miasto utknęło w zaroślach, a roje dzikich pszczół spotęgowały zamęt. Kontratak askarysów zamienił odwrót oddziałów indyjskich w ucieczkę."
+  - "Brytyjczycy wycofali się na statki, tracąc ponad 800 zabitych i rannych i zostawiając na brzegu broń i amunicję. Niemcy stracili około 150 ludzi."
+  - "Klęska zakończyła brytyjskie plany szybkiego zdobycia kolonii. Lettow-Vorbeck przez cztery lata wiązał w Afryce Wschodniej znacznie większe siły alianckie."
 ---
 
 Bitwa pod Tangą była pierwszą dużą bitwą w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) i jedną z najbardziej upokarzających porażek brytyjskich w całej wojnie. Około 8 tysięcy żołnierzy Indyjskiego Korpusu Ekspedycyjnego „B” generała majora Arthura Aitkena próbowało zdobyć port [Tanga](https://pl.wikipedia.org/wiki/Tanga). Pokonał ich mniej więcej tysiąc żołnierzy niemieckich wojsk kolonialnych, w większości afrykańskich [askarysów](https://pl.wikipedia.org/wiki/Askarysi), pod dowództwem podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). Z powodu roju dzikich pszczół, który w decydującym dniu rozpędził część atakujących, bitwę nazywa się czasem „bitwą pszczół”.

@@ -8,6 +8,11 @@ dayOrder: 2
 tags: [wypowiedzenie wojny, Wielka Brytania, Francja, Austro-Węgry]
 milestone: true
 draft: false
+brief:
+  - "12 sierpnia 1914 roku Wielka Brytania i Francja wypowiedziały wojnę Austro-Węgrom. Źródła podają dla francuskiej deklaracji 11 lub 12 sierpnia, ale decyzje zapadły praktycznie równocześnie."
+  - "Przez ponad tydzień Londyn i Paryż utrzymywały stosunki z Wiedniem, bo monarchia nie zaatakowała ich bezpośrednio. Zmieniło się to po wypowiedzeniu przez Austro-Węgry wojny Rosji 6 sierpnia."
+  - "Dla monarchii habsburskiej oznaczało to przede wszystkim zagrożenie na morzu. Już 16 sierpnia francuskie okręty zatopiły u wybrzeży Czarnogóry krążownik SMS Zenta."
+  - "Deklaracja zamknęła krąg wypowiedzeń wojny między wielkimi mocarstwami i pokazała, że wojna stała się starciem dwóch bloków: państw centralnych i Ententy."
 ---
 
 12 sierpnia 1914 roku [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) i [Francja](https://pl.wikipedia.org/wiki/III_Republika_Francuska) wypowiedziały wojnę [Austro-Węgrom](https://pl.wikipedia.org/wiki/Austro-Węgry). Źródła różnią się co do dokładnej daty francuskiej deklaracji, podając 11 lub 12 sierpnia, ale w obu stolicach decyzje zapadły praktycznie równocześnie. Tym samym zamknął się krąg wypowiedzeń wojny między wielkimi mocarstwami Europy.

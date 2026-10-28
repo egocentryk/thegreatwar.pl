@@ -2,7 +2,13 @@
 title: Start of the Battle of the Transloy Ridges
 summary: On 1 October 1916 the British Fourth Army attacked on the Somme at Eaucourt l’Abbaye and the Flers Line, aided by tanks and New Zealanders. Next day it rained.
 source: poczatek-bitwy-o-grzbiety-transloy
-sourceHash: 233074a92ac662e210c3ecacdbe2c5d31f4e7c39
+sourceHash: 97ee38602ff1c249d4de09e4939844727bf0971f
+brief:
+  - "At 3.15 p.m. on 1 October 1916 General Henry Rawlinson's British Fourth Army attacked on the Somme at Eaucourt l’Abbaye and the Flers Line, part of the German third position."
+  - "Haig was preparing a great attack towards Le Transloy, and Rawlinson first wanted to straighten the army's left wing. The attack was made by exhausted divisions of III Corps and the New Zealand Division."
+  - "The New Zealanders, preceded by a wall of fire from drums of burning oil, quickly took their objective. Two tanks led the Londoners across the Flers Line, then stuck fast and were burnt."
+  - "Lieutenant-Colonel Roland Bradford rallied a broken attack under fire and took Flers Trench at about 9.30 p.m., winning the Victoria Cross. By evening the British held almost the whole Flers Line."
+  - "The attack achieved almost all its objectives, but on 2 October the rain began. The autumn downpours turned the Battle of the Transloy Ridges into an exhausting struggle in the mud."
 ---
 
 On 1 October 1916, on a fine autumn afternoon, the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson) opened a new phase of the [Battle of the Somme](/bitwy/bitwa-nad-somma). At 3.15 p.m. the infantry of III Corps and the New Zealand Division left their trenches to take the buildings of the former abbey of Eaucourt l’Abbaye and the stretch of the German third position known as the Flers Line, which ran as far as the village of [Le Sars](https://pl.wikipedia.org/wiki/Le_Sars). The New Zealanders, preceded by a wall of fire from drums of burning oil, quickly took their objective. Two tanks led the Londoners across the line of German trenches and through the ruins of the abbey, then stuck fast and were burnt. Lieutenant-Colonel Roland Bradford, who under fire rallied a broken attack and led it forward again, won the Victoria Cross that day. By evening the British held almost the whole Flers Line. It was a good start to the fighting that the British later called the Battle of the Transloy Ridges. The next day, however, the rain began, and the autumn downpours turned it into an exhausting struggle in the mud.

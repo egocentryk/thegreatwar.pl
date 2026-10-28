@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Natarcie zdobyło w kilka godzin prawie wszystki
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Menin Road, toczona 20–25 września 1917 roku, była trzecim wielkim natarciem trzeciej bitwy pod Ypres i pierwszym, które poprowadził generał Herbert Plumer."
+  - "Po nieudanych sierpniowych atakach 5 Armii na płaskowyż Gheluvelt Haig oddał główne zadanie 2 Armii Plumera, który zażądał trzech tygodni na przygotowania. Przerwa zmyliła Niemców."
+  - "Plumer zastosował metodę „ugryźć i utrzymać”: płytkie cele w trzech skokach i najgęstszy dotąd wał ogniowy, z 1295 działami 2 Armii. 20 września o 10.15 Australijczycy stanęli na skraju Polygon Wood."
+  - "Po południu i wieczorem ogień artylerii rozbił niemieckie dywizje przeciwnatarcia, zanim doszły do nowej linii. Silny kontratak z 25 września odzyskał tylko część terenu."
+  - "Bitwa była pierwszym prawdziwym sukcesem trzeciej bitwy pod Ypres, choć według brytyjskiej historii oficjalnej kosztowała 20 255 zabitych, rannych i zaginionych. Otworzyła serię sukcesów Plumera."
 ---
 
 Bitwa o grzbiet Menin Road była trzecim wielkim natarciem [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres) i pierwszym, które poprowadził generał [Herbert Plumer](/postacie/herbert-plumer). 20 września 1917 roku o 5.40, we mgle po nocnym deszczu, jedenaście dywizji brytyjskiej 2 i 5 Armii, w tym dwie australijskie, ruszyło za najgęstszym wałem ogniowym, jaki dotąd widziano na froncie zachodnim. Celem był płaskowyż Gheluvelt przy drodze z [Ypres](https://pl.wikipedia.org/wiki/Ieper) do [Menin](https://pl.wikipedia.org/wiki/Menen), o który 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) na próżno biła się przez cały sierpień. Tym razem cele wyznaczono płytko, na nie więcej niż półtora kilometra, a natarcie podzielono na trzy skoki z długimi przerwami na okopanie się. Do 10.15 Australijczycy zajęli lasy Glencorse Wood i Nonne Bosschen i stanęli na skraju Polygon Wood, a po południu i wieczorem ogień artylerii rozbił nadciągające niemieckie dywizje przeciwnatarcia, zanim zdołały dojść do nowej linii. Przez następne dni Niemcy na próżno próbowali odzyskać teren, a 25 września uderzyli silnie na południe od Polygon Wood, w przeddzień kolejnego brytyjskiego natarcia.

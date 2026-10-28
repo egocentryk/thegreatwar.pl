@@ -10,6 +10,12 @@ dayOrder: 6
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "25 września 1915 roku sześć dywizji 1 Armii generała Douglasa Haiga zaatakowało niemieckie okopy pod Loos, na północ od Lens. Była to brytyjska część wielkiej jesiennej ofensywy aliantów."
+  - "Brytyjczycy mieli za mało dział i pocisków, więc po raz pierwszy użyli gazu na dużą skalę. Wiatr był jednak bardzo słaby i w kilku miejscach chlor zawrócił na ich własne okopy."
+  - "15 Dywizja (Szkocka) z Nowych Armii zdobyła Loos i wzgórze 70, a 9 Dywizja (Szkocka) Redutę Hohenzollernów i kopalnię Fosse 8. Przy kanale natarcie 2 Dywizji załamało się całkowicie."
+  - "Marszałek John French trzymał odwody za daleko i zgodził się na ich ruszenie dopiero o 9.30. Gdy 21 i 24 Dywizja zbliżyły się po zmroku do frontu, Niemcy zdążyli obsadzić drugą pozycję."
+  - "Według brytyjskiej historii oficjalnej 1 Armia straciła tego dnia 470 oficerów i około 15 tysięcy żołnierzy. Na 26 września Haig wyznaczył natarcie świeżych dywizji na drugą pozycję niemiecką."
 ---
 
 25 września 1915 roku o 5.50 rano brytyjscy saperzy odkręcili w okopach pierwszej linii między Grenay a kanałem La Bassée tysiące butli z [chlorem](https://pl.wikipedia.org/wiki/Chlor). Czterdzieści minut później sześć dywizji 1 Armii generała [Douglasa Haiga](/postacie/douglas-haig) ruszyło do ataku na niemieckie okopy w zagłębiu węglowym na północ od [Lens](https://pl.wikipedia.org/wiki/Lens). Tak zaczęła się bitwa pod [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle), brytyjska część wielkiej jesiennej ofensywy aliantów, która tego samego dnia ruszyła też w Szampanii i pod Vimy. Brytyjczycy po raz pierwszy użyli gazu bojowego na dużą skalę i po raz pierwszy wysłali do wielkiej bitwy dywizje Nowych Armii lorda Kitchenera. Do południa zdobyli Loos, wzgórze 70, Redutę Hohenzollernów i kopalnię Fosse 8, ale odwody, które miały pójść dalej, dotarły w pobliże frontu dopiero wieczorem.

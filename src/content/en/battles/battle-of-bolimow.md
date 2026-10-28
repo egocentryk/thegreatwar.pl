@@ -9,7 +9,13 @@ sides:
     commanders: [Vladimir Smirnov, Vasily Gurko, Alexander Litvinov]
 result: Inconclusive. The Germans took several Russian strongpoints near Humin and Wola Szydłowiecka, but did not break through the front. The Russians suffered enormous losses in counter-attacks.
 source: bitwa-pod-bolimowem
-sourceHash: 9fa38975672d6988be01019771fbb3b30db375c4
+sourceHash: 4a709738bc0171a787fcf40027a37c16368f582b
+brief:
+  - "At the turn of January and February 1915 the German Ninth Army attacked on the Rawka near Bolimów, about 60 kilometres west of Warsaw. It was the heaviest episode of the winter fighting on the Rawka and the Bzura."
+  - "The attack was meant to tie down Russian reserves before the German offensive in East Prussia. Mackensen massed on a narrow sector a concentration of artillery the Eastern Front had never seen before."
+  - "On 31 January the Germans fired some 18,000 tear-gas shells, using chemical weapons on a large scale for the first time in the war. In the frost the xylyl bromide hardly evaporated."
+  - "The Germans took several Russian positions, including Wola Szydłowiecka with its fortified distillery. General Gurko's Russian counter-attacks broke down with heavy losses, and around 6 February both sides halted."
+  - "The battle decided nothing, but the failure of the gas led German scientists to seek a more effective method. In April 1915 at Ypres chlorine released from cylinders was used."
 ---
 
 The [Battle of Bolimów](https://pl.wikipedia.org/wiki/Bitwa_pod_Bolimowem), also called the Battle of Humin or of Wola Szydłowiecka, was the heaviest episode of the winter [fighting on the Rawka and the Bzura](/bitwy/walki-nad-rawka-i-bzura). At the turn of January and February 1915 the German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) attacked on a narrow sector of the front near [Bolimów](https://pl.wikipedia.org/wiki/Bolimów), about 60 kilometres west of Warsaw. It has gone down in history above all because here, for the first time in this war, the Germans used chemical weapons on a large scale, firing some 18,000 tear-gas shells. In the frost the gas failed. The Germans captured several Russian positions, and over the following days the Russians tried in vain to retake them, losing tens of thousands of men.

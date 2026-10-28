@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [sterowce, Royal Flying Corps, Wielka Brytania, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "Po południu 2 września 1916 roku na Londyn wyruszyła największa dotąd niemiecka wyprawa sterowców nad Anglię – według Jonesa 16 statków: 12 marynarki i 4 armii."
+  - "Deszcz i śnieg nad Morzem Północnym rozproszyły wyprawę i żaden sterowiec marynarki nie dotarł nad Londyn. Zginęły cztery osoby, a szkody były znikome."
+  - "Najdalej doszedł wojskowy SL 11 hauptmanna Wilhelma Schramma, który od północnego zachodu zrzucał bomby na podlondyńskie wsie i przedmieścia."
+  - "Około 2.15 nad ranem 3 września porucznik William Leefe Robinson z 39 Dywizjonu zapalił SL 11 amunicją wybuchową z karabinu Lewis. Sterowiec spadł pod Cuffley, a cała załoga zginęła."
+  - "Był to pierwszy niemiecki sterowiec zniszczony nad brytyjskim lądem. Robinson dostał Krzyż Wiktorii, a armia niemiecka praktycznie zrezygnowała z nalotów sterowcami na Wielką Brytanię."
 ---
 
 Po południu 2 września 1916 roku z baz w Niemczech wystartowała największa wyprawa [sterowców](https://pl.wikipedia.org/wiki/Sterowiec), jaką Niemcy wysłali dotąd nad Anglię. Według brytyjskiej historii oficjalnej wojny powietrznej, *The War in the Air* H. A. Jonesa, było to 16 statków powietrznych: 12 należących do marynarki i 4 do armii. Jedynym celem całej wyprawy był [Londyn](https://pl.wikipedia.org/wiki/Londyn). Brytyjska chronologia wojny mówi o czternastu sterowcach, które zaatakowały Anglię, co i tak było największą liczbą w jednym nalocie. Noc skończyła się jednak dla Niemców porażką. Około 2.15 nad ranem 3 września porucznik William Leefe Robinson zestrzelił w płomieniach nad wsią [Cuffley](https://pl.wikipedia.org/wiki/Cuffley) wojskowy sterowiec SL 11. Był to pierwszy niemiecki sterowiec zniszczony nad brytyjskim lądem.

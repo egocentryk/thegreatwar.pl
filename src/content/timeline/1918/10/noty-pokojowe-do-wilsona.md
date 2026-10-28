@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Niemcy, Austro-Węgry, Woodrow Wilson, inicjatywy pokojowe]
 milestone: true
 draft: false
+brief:
+  - "W nocy z 3 na 4 października 1918 roku kanclerz Max von Baden przez Szwajcarię, a minister István Burián przez Szwecję wysłali prezydentowi Wilsonowi noty z prośbą o rozejm i rokowania na podstawie czternastu punktów."
+  - "O prośbie zdecydowało naczelne dowództwo: 29 września w Spa Hindenburg i Ludendorff zażądali natychmiastowego wystąpienia do Wilsona. Książę Max uważał pośpiech za błąd, ale ustąpił."
+  - "Niemiecka nota była bardzo krótka i prosiła o natychmiastowy powszechny rozejm, a austro-węgierska, obszerniejsza, zapewniała, że monarchia prowadziła wojnę „zawsze i wyłącznie obronną”."
+  - "Noty zaskoczyły sojuszników Ameryki, którzy obawiali się, że Wilson zacznie rokować ponad ich głowami. Odpowiedź do Berlina przyszła 8 października: prezydent zażądał wyjaśnień i ewakuacji okupowanych terenów."
+  - "Nota z 4 października miała dać wojsku czas na wytchnienie, ale zapoczątkowała trwającą cały październik wymianę not i stała się pierwszym krokiem do rozejmu z 11 listopada."
 ---
 
 W nocy z 3 na 4 października 1918 roku nowy kanclerz Rzeszy, książę [Max von Baden](/postacie/max-von-baden), wysłał przez [Szwajcarię](https://pl.wikipedia.org/wiki/Szwajcaria) notę do prezydenta Stanów Zjednoczonych [Woodrowa Wilsona](/postacie/woodrow-wilson). Rząd niemiecki prosił w niej o przywrócenie pokoju, o zawiadomienie wszystkich państw wojujących i zaproszenie ich do rokowań, a przede wszystkim o „natychmiastowe zawarcie powszechnego rozejmu na lądzie, na morzu i w powietrzu”. Kilka godzin później, także w nocy 4 października, podobną notę wysłał do Waszyngtonu, przez Szwecję, austro-węgierski minister spraw zagranicznych [István Burián](/postacie/istvan-burian). Oba państwa przyjmowały za podstawę pokoju program, który Wilson ogłosił w styczniu jako [czternaście punktów](/czternascie-punktow-wilsona). Po czterech latach wojny państwa centralne same poprosiły przeciwnika o zawieszenie broni.

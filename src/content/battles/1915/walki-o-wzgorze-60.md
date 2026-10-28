@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Brytyjczycy zdobyli wzgórze 17 kwietnia i odpar
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, wojna pozycyjna]
 milestone: true
+brief:
+  - "Wieczorem 17 kwietnia 1915 roku brytyjscy saperzy wysadzili miny pod niemieckimi okopami na Wzgórzu 60 koło Zillebeke, na południowym skraju łuku Ypres. Piechota 5 Dywizji zajęła szczyt w kilka minut, niemal bez strat."
+  - "Wzgórze 60 było sztuczną hałdą z ziemi z budowy kolei, ale dawało widok na Zillebeke i Ypres. Miny podłożyli w tunelach zawodowi górnicy z nowych kompanii tunelowych Royal Engineers."
+  - "Przez kolejne dni Brytyjczycy odpierali gwałtowne niemieckie kontrataki i utrzymali wzgórze za cenę tysięcy zabitych i rannych. Za walki o nie przyznano pięć Krzyży Wiktorii."
+  - "1 maja Niemcy zaatakowali wzgórze chlorem, a 5 maja, po kolejnym ataku gazowym, odzyskali szczyt. Brytyjskie kontrataki, ostatni o świcie 7 maja, się załamały."
+  - "Była to pierwsza duża brytyjska operacja minowa na froncie zachodnim i początek wojny podziemnej pod wzgórzem. 7 czerwca 1917 roku, w pierwszym dniu bitwy pod Messines, wybuchły pod nim dwa olbrzymie ładunki."
 ---
 
 Walki o Wzgórze 60 toczyły się wiosną 1915 roku na południowym skraju łuku frontu wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper). Wieczorem 17 kwietnia brytyjscy saperzy wysadzili miny podłożone w tunelach pod niemieckimi okopami na szczycie niewielkiej, sztucznej hałdy koło wsi [Zillebeke](https://pl.wikipedia.org/wiki/Zillebeke), a piechota 5 Dywizji zajęła ją w kilka minut, niemal bez strat. Przez następne dni Brytyjczycy odpierali gwałtowne niemieckie kontrataki i utrzymali wzgórze, płacąc za to tysiącami zabitych i rannych. Na początku maja Niemcy dwukrotnie zaatakowali je z użyciem chloru i 5 maja odzyskali szczyt. Była to pierwsza duża brytyjska operacja minowa na froncie zachodnim i zapowiedź dwuletniej wojny podziemnej, która toczyła się pod wzgórzem aż do czerwca 1917 roku.

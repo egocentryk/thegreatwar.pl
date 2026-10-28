@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Wielka Brytania, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "25 kwietnia 1918 roku, w siedemnastym dniu ofensywy nad Lys, niemiecki Alpenkorps zdobył Kemmelberg, wzgórze, z którego alianci od 1914 roku obserwowali równinę na południe od Ypres."
+  - "Wzgórza broniła francuska 28 Dywizja Piechoty. Przez dwie godziny Niemcy zasypywali alianckie baterie, drogi i odwody iperytem, gazem łzawiącym i pociskami burzącymi."
+  - "O szóstej piechota ruszyła we mgle do szturmu i o 7.10 stanęła na szczycie, a pół godziny później padła wieś Kemmel. Niemcy podali 6500 jeńców, przeważnie Francuzów."
+  - "Na wschód od wzgórza bataliony brytyjskiego XXII Korpusu stoczyły zacięty bój obronny i nie pozwoliły Niemcom zamknąć łuku pod Ypres. Po południu natarcie wygasło."
+  - "Utrata wzgórza zaostrzyła pretensje między sojusznikami, a kontratak 26 kwietnia go nie odzyskał. Planowane przełamanie ku Poperinge jednak nie nastąpiło."
 ---
 
 25 kwietnia 1918 roku, w siedemnastym dniu niemieckiej [ofensywy nad Lys](/bitwy/bitwa-nad-lys-1918), Niemcy odnieśli we Flandrii swój najgłośniejszy sukces. Po kilku godzinach ostrzału, w którym pociski gazowe zasypały francuskie baterie, niemieckie oddziały górskie z Alpenkorps wdarły się na [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), wzgórze, z którego alianci od 1914 roku obserwowali całą równinę na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Szczyt padł w nieco ponad godzinę, a do południa Niemcy zajęli całe wzgórze, wieś [Kemmel](https://pl.wikipedia.org/wiki/Kemmel) i kilka okolicznych wsi. Wieczorny komunikat niemiecki mówił o 6500 jeńcach, przeważnie Francuzach. Tego samego dnia brytyjskie bataliony na wschód od wzgórza stoczyły jedną z najbardziej zaciętych walk obronnych tej wiosny i nie pozwoliły Niemcom zamknąć łuku pod Ypres.

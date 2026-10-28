@@ -10,6 +10,11 @@ dayOrder: 6
 tags: [Francja, Niemcy, wyścig do morza, Pikardia]
 milestone: true
 draft: false
+brief:
+  - "22 września 1914 roku, według brytyjskiej chronologii wojny, rozpoczęła się pierwsza bitwa pod Albert w departamencie Somma. Większość współczesnych historyków datuje właściwą bitwę na 25–29 września."
+  - "Po nierozstrzygniętej bitwie nad Aisne obie strony próbowały obejść otwarte skrzydło przeciwnika. Francuska 2 Armia gen. Noëla de Castelnau i niemiecka 6 Armia księcia Rupprechta Bawarskiego uderzyły na siebie na północ od Sommy."
+  - "25 września Francuzi ruszyli z okolic Albert na wschód, ale natrafili na nacierających Niemców, którzy zajęli Bapaume i 27 września dotarli do Thiepval. 28 września Francuzi zatrzymali ich na linii Maricourt – Fricourt – Thiepval."
+  - "Walki zakończyły się bez rozstrzygnięcia, a front między Albert a Bapaume przetrwał niemal bez zmian do lata 1916 roku. 1 lipca 1916 roku właśnie tu rozpoczęła się bitwa nad Sommą."
 ---
 
 22 września 1914 roku, według brytyjskiej chronologii wojny, rozpoczęła się pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)), małym miastem w departamencie Somma. Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Ruprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Walki zakończyły się 29 września bez rozstrzygnięcia, a front, który wtedy powstał między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), przetrwał niemal bez zmian do lata 1916 roku.

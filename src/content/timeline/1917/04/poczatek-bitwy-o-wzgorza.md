@@ -10,6 +10,11 @@ dayOrder: 3
 tags: [Francja, Niemcy, Robert Nivelle]
 milestone: true
 draft: false
+brief:
+  - "17 kwietnia 1917 roku francuska 4 Armia generała François Anthoine'a zaatakowała masyw Moronvilliers w Szampanii, na wschód od Reims. Było to pomocnicze uderzenie ofensywy Nivelle'a."
+  - "Z kredowych wzgórz, trzymanych od jesieni 1914 roku, Niemcy widzieli francuskie tyły. Obrona była głęboka, a pod Mont Cornillet i Mont Perthois kryły się tunele, o których Francuzi nie wiedzieli."
+  - "8 Pułk Żuawów z Dywizji Marokańskiej zdobył o świcie szczyt Mont Sans Nom. Na Mont Cornillet niemiecka załoga, która wyszła z tunelu, zepchnęła po południu Francuzów z grzbietu."
+  - "Do wieczora Francuzi przeszli przez pierwszą pozycję i wzięli ponad 2 tysiące jeńców, ale nigdzie nie przełamali frontu. Mont Cornillet padł dopiero 20 maja."
 ---
 
 17 kwietnia 1917 roku o 4.45 rano, jeszcze po ciemku, w deszczu i śniegu, francuska 4 Armia generała [François Anthoine'a](/postacie/francois-anthoine) zaatakowała masyw Moronvilliers w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims). Było to drugie, pomocnicze uderzenie [ofensywy Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a), wykonane dzień po tym, jak 5 i 6 Armia [ruszyły na Chemin des Dames](/poczatek-ofensywy-nivellea). Do wieczora Francuzi przeszli przez pierwszą niemiecką pozycję, zdobyli Mont Sans Nom i dotarli pod szczyty Mont Blond i Mont Cornillet. Wzięli ponad 2 tysiące jeńców, ale nigdzie nie przełamali frontu, a na zachodnim skrzydle natarcie utknęło już w pierwszych godzinach. Francuzi nazwali walki, które się wtedy zaczęły, bitwą o wzgórza (bataille des Monts).

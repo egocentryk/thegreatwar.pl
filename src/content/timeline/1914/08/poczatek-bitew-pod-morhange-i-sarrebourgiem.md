@@ -10,6 +10,11 @@ dayOrder: 1
 tags: [Lotaryngia, Francja, Niemcy, Noël de Castelnau]
 milestone: true
 draft: false
+brief:
+  - "14 sierpnia 1914 roku francuska 1 Armia gen. Auguste'a Dubaila i 2 Armia gen. Noëla de Castelnau przekroczyły granicę i ruszyły do głównej ofensywy w Lotaryngii."
+  - "Joffre wierzył, że zdecydowane natarcie przełamie obronę wroga, a odzyskanie Lotaryngii miało ogromne znaczenie symboliczne. Przez pierwsze dni Francuzi posuwali się niemal bez przeszkód."
+  - "Niemiecka 6 Armia księcia Rupprechta Bawarskiego i 7 Armia celowo się wycofywały, a 20 sierpnia przeszły do zmasowanego kontrataku. 2 Armia poniosła ciężką klęskę pod Morhange, a 1 Armia wycofała się spod Sarrebourga."
+  - "Ofensywa była krwawą porażką doktryny ofensywy za wszelką cenę. Wraz z klęską w Ardenach zmusiła Joffre'a do zmiany planów i doprowadziła do wielkiego odwrotu zakończonego nad Marną."
 ---
 
 14 sierpnia 1914 roku rozpoczęła się główna ofensywa armii francuskiej w [Lotaryngii](https://pl.wikipedia.org/wiki/Lotaryngia). Dwie armie, 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) i 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau), przekroczyły granicę i ruszyły w głąb prowincji utraconej przez Francję w 1871 roku. Walki, które się wtedy zaczęły, nazwano później bitwami pod [Morhange](https://pl.wikipedia.org/wiki/Morhange) i [Sarrebourgiem](https://pl.wikipedia.org/wiki/Sarrebourg).

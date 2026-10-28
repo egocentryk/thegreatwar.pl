@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Wielka Brytania, British Army, Herbert Henry Asquith, Herbert Kitchener]
 milestone: true
 draft: false
+brief:
+  - "27 stycznia 1916 roku ustawa o służbie wojskowej (Military Service Act) otrzymała sankcję królewską. Wielka Brytania, która dotąd walczyła armią ochotników, wprowadziła pobór."
+  - "Ustawa obejmowała nieżonatych mężczyzn i bezdzietnych wdowców od 18 do 41 lat, którzy nie zgłosili się w ramach planu lorda Derby. Spełniała obietnicę Asquitha, że żonatych nie powoła się przed kawalerami."
+  - "Zwolnienia, także z powodu sprzeciwu sumienia, przyznawały trybunały lokalne, od których można było się odwołać. Obdżektorzy zwykle dostawali tylko zwolnienie ze służby z bronią w ręku."
+  - "Ustawa nie obejmowała Irlandii, a opór w Wielkiej Brytanii był słabszy, niż się obawiano. Partia Pracy potępiła pobór, ale nie zażądała uchylenia ustawy i pozostała w rządzie."
+  - "Ustawa nie dała armii tylu ludzi, ilu się spodziewano, bo wielu powołanych uzyskało zwolnienia albo się nie stawiło. Już w maju 1916 roku pobór rozciągnięto na mężczyzn żonatych."
 ---
 
 27 stycznia 1916 roku ustawa o służbie wojskowej (Military Service Act) otrzymała sankcję królewską. Wielka Brytania, jedyne wielkie mocarstwo europejskie, które dotąd prowadziło wojnę armią złożoną wyłącznie z ochotników, wprowadziła [pobór](https://pl.wikipedia.org/wiki/Pobór_(wojsko)). W [Izbie Lordów](https://pl.wikipedia.org/wiki/Izba_Lordów) ogłoszono zgodę króla na siedem ustaw naraz, a zaraz potem odczytano mowę tronową i odroczono sesję parlamentu do 15 lutego. Ustawa przeszła przez obie izby w niecały miesiąc i, jak zauważał „Annual Register”, ze zdumiewającą jednomyślnością, choć oznaczała jedną z największych zmian w brytyjskich nastrojach od wielu lat.

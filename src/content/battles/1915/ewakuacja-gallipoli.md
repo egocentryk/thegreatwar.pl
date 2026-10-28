@@ -15,6 +15,12 @@ result: Udany odwrót aliantów. Wszystkie wojska wycofano z półwyspu prawie b
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Imperium Osmańskie, Dardanele, Australia]
 milestone: true
+brief:
+  - "Od 18 grudnia 1915 do 9 stycznia 1916 roku alianci potajemnie wycofali ostatnie wojska z półwyspu Gallipoli. Ewakuacja zakończyła bitwę o Gallipoli, najbardziej ambitne przedsięwzięcie Ententy poza frontem zachodnim."
+  - "Generał Charles Monro zalecił ewakuację już 31 października, ale rząd w Londynie długo się wahał. Dopiero 7 grudnia gabinet postanowił ewakuować Suvlę i Anzac, a Helles na razie zatrzymać."
+  - "Najważniejsze było, by Turcy niczego nie zauważyli: pierwszą linię obsadzano do ostatniej chwili, a samoczynnie wypalające karabiny udawały obecność żołnierzy. W nocach z 18 na 19 i z 19 na 20 grudnia opuszczono Suvlę i Anzac."
+  - "Przylądek Helles ewakuowano w nocy z 8 na 9 stycznia 1916 roku, choć Turcy byli już czujni. Według brytyjskiej historii oficjalnej odbyło się to bez utraty jednego życia."
+  - "Kampania zakończyła się zwycięstwem Imperium Osmańskiego, ale sam odwrót był wielkim sukcesem taktycznym. Brytyjska historia oficjalna przypisuje go dobrym planom, współpracy armii i floty oraz niezwykłemu szczęściu do pogody."
 ---
 
 Ewakuacja Gallipoli zakończyła [bitwę o Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), najbardziej ambitne przedsięwzięcie Ententy poza frontem zachodnim. Na trzech przyczółkach na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) stało pod koniec listopada 1915 roku ponad 130 tysięcy żołnierzy brytyjskich, australijskich, nowozelandzkich, indyjskich i francuskich. W wielu miejscach od Turków dzieliło ich zaledwie kilkanaście metrów, a plaże, z których mieli odpłynąć, leżały w zasięgu tureckiej artylerii. Dowódcy obawiali się, że odwrót będzie kosztował dziesiątki tysięcy zabitych, rannych i jeńców. Tymczasem w dwóch etapach, w nocach z 18 na 19 i z 19 na 20 grudnia spod Suvli i Anzac oraz w nocy z 8 na 9 stycznia 1916 roku spod Helles, alianci wycofali ostatnie oddziały tak, że Turcy zorientowali się dopiero po fakcie. Odwrót, który miał być katastrofą, okazał się najlepiej przeprowadzoną operacją całej kampanii.

@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Niemcy zajęli Noyon i wzgórza na północ od m
 authors: [Natalia]
 tags: [Francja, Niemcy, Brytyjski Korpus Ekspedycyjny, Philippe Pétain]
 milestone: true
+brief:
+  - "Bitwa pod Noyon, toczona 25–26 marca 1918 roku, była walką na południowym skrzydle operacji Michael, wielkiej niemieckiej ofensywy rozpoczętej 21 marca 1918 roku."
+  - "Niemiecka 18 Armia generała Oskara von Hutiera, która rozbiła prawe skrzydło brytyjskiej 5 Armii, parła między Oise a Sommą na południowy zachód, a Ludendorff chciał rozdzielić Francuzów i Brytyjczyków."
+  - "Naprzeciw niej stawały kolejne francuskie dywizje, dowożone ciężarówkami prosto do walki, często bez artylerii i amunicji, razem z resztkami brytyjskiego III Korpusu."
+  - "25 marca Niemcy przełamali ich linię i wieczorem weszli do Noyon, a rano 26 marca miasto było całkowicie w ich rękach. Francuzi cofnęli się o kolejne kilka kilometrów, ale utrzymali wzgórze Mont Renaud."
+  - "Kryzys otworzył lukę między Francuzami a Brytyjczykami i doprowadził 26 marca do konferencji w Doullens, na której koordynację działań obu armii powierzono generałowi Ferdinandowi Fochowi."
 ---
 
 Bitwa pod Noyon była walką na południowym skrzydle [operacji Michael](/bitwy/operacja-michael), wielkiej niemieckiej ofensywy rozpoczętej 21 marca 1918 roku. Niemiecka 18 Armia generała [Oskara von Hutiera](/postacie/oskar-von-hutier), która w pierwszych dniach rozbiła prawe skrzydło brytyjskiej 5 Armii, parła między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a Sommą na południowy zachód. Naprzeciw niej stawały kolejne francuskie dywizje, dowożone ciężarówkami prosto do walki, często bez artylerii i amunicji, razem z resztkami brytyjskiego III Korpusu. 25 marca Niemcy przełamali ich linię, wieczorem weszli do [Noyon](https://pl.wikipedia.org/wiki/Noyon), a rano 26 marca miasto było całkowicie w ich rękach. Tego dnia Francuzi cofnęli się o kolejne kilka kilometrów, ale zatrzymali Niemców na wzgórzu Mont Renaud, zamykającym dolinę Oise i drogę na [Compiègne](https://pl.wikipedia.org/wiki/Compiègne) i Paryż.

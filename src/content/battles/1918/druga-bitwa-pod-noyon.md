@@ -15,6 +15,12 @@ result: Zwycięstwo francuskie. 10 Armia przełamała 20 sierpnia niemiecką poz
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Ferdinand Foch, Erich Ludendorff]
 milestone: true
+brief:
+  - "Druga bitwa pod Noyon toczyła się od 17 do 29 sierpnia 1918 roku. Była francuską częścią ofensywy sprzymierzonych, która zaczęła się 8 sierpnia pod Amiens."
+  - "Gdy natarcie nad Sommą utknęło na starych okopach pod Roye i Chaulnes, marszałek Foch postanowił rozszerzyć je na skrzydła i uderzyć tam, gdzie opór był najsłabszy."
+  - "20 sierpnia 10 Armia gen. Mangina uderzyła dwunastoma dywizjami między Oise a Aisne i przełamała niemiecką pozycję. Ludendorff nazwał ten dzień „kolejnym czarnym dniem”."
+  - "W ciągu trzech dni wojska Mangina doszły do Oise i Ailette, a 3 Armia Humberta zajęła masyw Lassigny. Płaskowyży na północ od Soissons Francuzi jednak nie zdobyli."
+  - "Zagrożeni oskrzydleniem Niemcy cofnęli się za kanał i Sommę, a 29 sierpnia Francuzi wkroczyli do zrujnowanego Noyon, zdobytego przez Niemców pięć miesięcy wcześniej."
 ---
 
 Druga bitwa pod Noyon była francuską częścią wielkiej ofensywy sprzymierzonych, która zaczęła się 8 sierpnia 1918 roku [pod Amiens](/bitwy/bitwa-pod-amiens). Gdy natarcie Brytyjczyków i francuskiej 1 Armii nad Sommą utknęło na starych okopach pod Roye i Chaulnes, marszałek [Ferdinand Foch](/postacie/ferdinand-foch) postanowił rozszerzyć je na skrzydła. Na południu zadanie dostały dwie francuskie armie: 10 Armia generała [Charles’a Mangina](/postacie/charles-mangin), stojąca między [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) a [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), i [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Francja)) generała Georges’a Humberta, stojąca naprzeciw masywu [Lassigny](https://pl.wikipedia.org/wiki/Lassigny) i [Noyon](https://pl.wikipedia.org/wiki/Noyon). Po kilku dniach przygotowawczych natarć Mangin uderzył 20 sierpnia dwunastoma dywizjami na froncie około 20 kilometrów, od okolic Soissons po Oise, i przełamał niemiecką pozycję. W ciągu następnych trzech dni jego wojska doszły do Oise i rzeki [Ailette](https://pl.wikipedia.org/wiki/Ailette), a armia Humberta zajęła masyw Lassigny. [Erich Ludendorff](/postacie/erich-ludendorff) nazwał 20 sierpnia „kolejnym czarnym dniem” armii niemieckiej. Zagrożeni oskrzydleniem od południa Niemcy w ostatnich dniach sierpnia wycofali się za kanał i Sommę, a 29 sierpnia Francuzi wkroczyli do zrujnowanego Noyon.

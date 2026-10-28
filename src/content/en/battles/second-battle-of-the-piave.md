@@ -9,7 +9,13 @@ sides:
     commanders: [Emperor Charles I, Arthur Arz von Straußenburg, Franz Conrad von Hötzendorf, Svetozar Boroević, Archduke Joseph August, Wenzel von Wurm, Viktor von Scheuchenstuel, Alexander von Krobatin]
 result: Victory for Italy and its allies. The offensive in the mountains collapsed on the first day, and the divisions that had crossed the Piave withdrew to the left bank after a week of fighting. Austria-Hungary lost about 118,000 killed, wounded and prisoners, and about 140,000 men including the sick.
 source: druga-bitwa-nad-piawa
-sourceHash: 8fb8a5a5ad166afe1fcc222ae1c076343262f723
+sourceHash: 1b56b61503145011d117ea8233977e49e1dd9bdc
+brief:
+  - "On 15 June 1918 Austria-Hungary began its last great offensive: it struck from the mountains, on the Asiago plateau and in the Monte Grappa massif, and across the Piave, from the Montello hill to the sea."
+  - "With Russia and Romania out of the war, the monarchy wanted to crush Italy. The dispute between Conrad and Boroević split its forces between two thrusts, and the Italians knew the day and hour of the attack."
+  - "In the mountains the offensive collapsed on the first day. On the Piave the Austrians won bridgeheads, but the swollen river and aircraft destroyed their bridges, and Italian reserves arrived faster."
+  - "On 20 June Emperor Charles I agreed to a retreat, and on the night of 22/23 June the troops crossed back to the left bank. The defeat cost the monarchy about 140,000 men including the sick."
+  - "The Italian army showed that Caporetto was a thing of the past. The Austro-Hungarian army was no longer capable of any offensive, and in mid-July the emperor removed Conrad from his command."
 ---
 
 The Second Battle of the Piave was the last great offensive of the Austro-Hungarian army. With Russia and Romania out of the war, the Habsburg monarchy could for the first time throw almost all its forces onto a single front, and it resolved to crush Italy before the fate of the war was decided in the west. On 15 June 1918 it struck simultaneously from the mountains, on the [Asiago](https://pl.wikipedia.org/wiki/Asiago) plateau and in the Monte Grappa massif, and across the [Piave](https://pl.wikipedia.org/wiki/Piawa), from the Montello hill to the sea. The Italians, however, knew the day and hour of the attack. In the mountains the offensive collapsed on the very first day. On the Piave the Austrians crossed the river and won bridgeheads, but the river, swollen by rain, and aircraft destroyed their bridges, and Italian reserves arrived faster than Austrian ones. On 20 June Emperor Charles I agreed to a retreat, and on the night of 22/23 June the troops crossed back to the left bank. The defeat cost the monarchy about 140,000 men and took away its last hope of victory.

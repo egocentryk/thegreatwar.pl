@@ -2,7 +2,13 @@
 title: Airship raid and the downing of SL 11
 summary: On the night of 2–3 September 1916, 16 airships set out for London. Lieutenant Leefe Robinson shot down SL 11 over Cuffley, and the rest of the raid collapsed.
 source: nalot-sterowcow-i-zestrzelenie-sl-11
-sourceHash: af866f84b353de888c3ce216e9291422c7bc2dc8
+sourceHash: f93c7a48bb9f4e8f68049c58d00cc2e3a43ceb12
+brief:
+  - "On the afternoon of 2 September 1916 the largest German airship raid yet sent against England set out for London – according to Jones, 16 airships: 12 naval and 4 army."
+  - "Rain and snow over the North Sea scattered the force and none of the naval airships reached London. Four people were killed and the damage was negligible."
+  - "The farthest to get was the army's SL 11 of Hauptmann Wilhelm Schramm, which approached from the north-west and bombed villages and suburbs north of London."
+  - "At about 2.15 a.m. on 3 September Lieutenant William Leefe Robinson of No. 39 Squadron set SL 11 alight with explosive rounds from his Lewis gun. It fell near Cuffley and the whole crew was killed."
+  - "It was the first German airship destroyed over British soil. Robinson received the Victoria Cross, and the German army practically gave up airship raids on Great Britain."
 ---
 
 On the afternoon of 2 September 1916 the largest raid of [airships](https://pl.wikipedia.org/wiki/Sterowiec) the Germans had so far sent against England took off from bases in Germany. According to the British official history of the air war, H.A. Jones's *The War in the Air*, there were 16 airships: 12 belonging to the navy and 4 to the army. The sole target of the whole raid was [London](https://pl.wikipedia.org/wiki/Londyn). The British chronology of the war speaks of fourteen airships attacking England, which was in any case the largest number in a single raid. For the Germans, however, the night ended in failure. At about 2.15 a.m. on 3 September Lieutenant William Leefe Robinson shot down the army airship SL 11 in flames over the village of [Cuffley](https://pl.wikipedia.org/wiki/Cuffley). It was the first German airship destroyed over British soil.

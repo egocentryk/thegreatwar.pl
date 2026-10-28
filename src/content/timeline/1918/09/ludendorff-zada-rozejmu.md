@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Niemcy, Erich Ludendorff, Paul von Hindenburg, inicjatywy pokojowe]
 milestone: true
 draft: false
+brief:
+  - "29 września 1918 roku w Spa Hindenburg i Ludendorff oznajmili cesarzowi i ministrowi spraw zagranicznych, że wojny nie da się prowadzić dalej i Niemcy muszą natychmiast poprosić o rozejm."
+  - "Ostatni tydzień września przyniósł ciosy jeden po drugim: Bułgaria prosiła o rozejm, a sprzymierzeni uderzyli między Mozą a Argonnami, nad Kanałem du Nord i pod Ypres. Ludendorff od tygodni był u kresu sił."
+  - "Sekretarz stanu Paul von Hintze zaproponował „rewolucję od góry”, czyli rząd z udziałem większości parlamentarnej, i zwrócenie się bezpośrednio do prezydenta Wilsona. Cesarz Wilhelm II przyjął oba wnioski."
+  - "Kanclerz Hertling zastał decyzje podjęte bez niego i poprosił o zwolnienie. Ludendorff mówił potem, że politycy mają „zjeść zupę, którą nam nawarzyli”, co historycy uważają za zalążek legendy o ciosie w plecy."
+  - "Nowym kanclerzem został książę Max von Baden, a notę z prośbą o rozejm, datowaną 3 października, przekazano Wilsonowi przez Szwajcarię. Rozejm podpisano dopiero 11 listopada."
 ---
 
 29 września 1918 roku w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)), belgijskim uzdrowisku, w którym mieściła się niemiecka kwatera główna, przywódcy armii oznajmili cesarzowi i ministrowi spraw zagranicznych, że wojny nie da się już prowadzić dalej i że Niemcy muszą natychmiast poprosić o rozejm. Feldmarszałek [Paul von Hindenburg](/postacie/paul-von-hindenburg) i generał [Erich Ludendorff](/postacie/erich-ludendorff), pierwszy kwatermistrz generalny i faktyczny kierownik naczelnego dowództwa, jeszcze w lipcu zapewniali, że ofensywa przyniesie zwycięstwo, a w połowie sierpnia na [naradzie w Spa](/narada-w-spa) przekonywali, że armia utrzyma się na ziemi francuskiej. Teraz sami zażądali, by przez prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson) zaproponować przeciwnikom pokój i zawieszenie broni. Cesarz [Wilhelm II](/postacie/wilhelm-ii) się zgodził. Tego samego dnia zapadła też decyzja o oddaniu władzy rządowi opartemu na większości w Reichstagu. Był to początek końca Cesarstwa Niemieckiego.

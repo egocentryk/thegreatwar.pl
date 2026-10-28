@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, wyścig do morza]
 milestone: true
 draft: false
+brief:
+  - "19 października 1914 roku rozpoczęła się pierwsza bitwa pod Ypres, ostatnia i najkrwawsza bitwa wyścigu do morza. Tę datę przyjęła po wojnie brytyjska komisja do spraw nazewnictwa bitew."
+  - "Marszałek French i gen. Foch chcieli ruszyć z Ypres na wschód i obejść niemieckie skrzydło. W rzeczywistości przez Belgię maszerowała nowa 4 Armia Albrechta Wirtemberskiego z czterema nowymi korpusami rezerwowymi."
+  - "Brytyjska 7 Dywizja gen. Thompsona Cappera ruszyła na Menin, ale lotnicy wypatrzyli nadciągające kolumny niemieckie i Rawlinson odwołał natarcie. Tego dnia Niemcy zdobyli Roeselare."
+  - "French wciąż nie doceniał sił przeciwnika i nakazał nowo przybyłemu I Korpusowi Haiga marsz przez Torhout na Brugię. 20 października niemiecka 4 i 6 Armia uderzyły na całym froncie od La Bassée po morze."
+  - "Planowana ofensywa aliantów zamieniła się w bój obronny, który trwał ponad miesiąc. Alianci utrzymali Ypres kosztem ogromnych strat, a pod Ypres wykrwawiła się zawodowa armia brytyjska."
 ---
 
 19 października 1914 roku rozpoczęła się [pierwsza bitwa pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), ostatnia i najkrwawsza bitwa [wyścigu do morza](/bitwy/wyscig-do-morza). Tę datę przyjęła po wojnie brytyjska komisja do spraw nazewnictwa bitew. Tego dnia brytyjska 7 Dywizja ruszyła na Menin, by obejść niemieckie skrzydło, ale zamiast słabych osłon natrafiła na czoło nowej niemieckiej armii, która nadciągała przez Belgię w stronę [Ypres](https://pl.wikipedia.org/wiki/Ieper). Natarcie odwołano, a w kolejnych tygodniach to Niemcy atakowali, próbując przełamać front i dotrzeć do portów nad kanałem La Manche.

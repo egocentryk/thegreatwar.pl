@@ -15,6 +15,12 @@ result: Zwycięstwo obronne aliantów. Niemcy sforsowali Yser i zdobyli Diksmuid
 authors: [Natalia]
 tags: [Belgia, Niemcy, Albert I, wyścig do morza]
 milestone: true
+brief:
+  - "Od 16 października do 10 listopada 1914 roku wyczerpana armia belgijska broniła linii rzeki Yser między Nieuport a Diksmuide przed niemiecką 4 Armią. Bitwa zamknęła wyścig do morza."
+  - "Po upadku Antwerpii król Albert I postanowił bronić się nad Yser. Belgów wspierali francuscy fizylierzy marynarki kontradmirała Ronarc'ha w Diksmuide i brytyjskie okręty od strony morza."
+  - "Niemcy przeszli przez rzekę i zepchnęli Belgów za nasyp kolejowy Nieuport–Diksmuide. W nocy z 29 na 30 października otwarto śluzy w Nieuport i morska woda zaczęła zalewać poldery."
+  - "Ostatnie wielkie natarcie Niemców 30 października załamało się, a woda zmusiła ich do odwrotu za Yser. 10 listopada zdobyli jeszcze Diksmuide, ale dalej już nie przeszli."
+  - "Niemcy nie przebili się do Dunkierki i Calais. Skrawek wolnej Belgii przetrwał do końca wojny, a król Albert stał się bohaterem narodowym i symbolem oporu."
 ---
 
 [Bitwa nad Yser](https://pl.wikipedia.org/wiki/Bitwa_nad_Yser) była ostatnim akordem [wyścigu do morza](/bitwy/wyscig-do-morza). W drugiej połowie października 1914 roku wyczerpana armia belgijska, która kilka dni wcześniej wymknęła się z Antwerpii, broniła linii niewielkiej rzeki [Yser](https://pl.wikipedia.org/wiki/IJzer) między [Nieuport](https://pl.wikipedia.org/wiki/Nieuwpoort_(Belgia)) a [Diksmuide](https://pl.wikipedia.org/wiki/Diksmuide) przed nową niemiecką 4 Armią. Wspierali ją francuscy fizylierzy marynarki, a od strony morza brytyjskie okręty. Po dwóch tygodniach walk, gdy Niemcy przeszli już przez rzekę, Belgowie otworzyli śluzy w Nieuport i wpuścili morze na nisko położoną równinę. Zalany pas ziemi zatrzymał natarcie. 10 listopada Niemcy zdobyli jeszcze Diksmuide, ostatni przyczółek aliantów na wschodnim brzegu, ale dalej już nie przeszli. Ostatni skrawek wolnej Belgii przetrwał do końca wojny.

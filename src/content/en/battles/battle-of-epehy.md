@@ -9,7 +9,13 @@ sides:
     commanders: [Max von Boehn, Georg von der Marwitz]
 result: British victory. In the centre the Australians took all their objectives; the wings halted short of the final line. More than 9,000 prisoners were taken, and the front came up to the Hindenburg Line.
 source: bitwa-pod-epehy
-sourceHash: 68dba328697b290ffbd06f3cc23a8e11e50e7a46
+sourceHash: 01542311226e6eee01b904fcf2a4885df86f5fee
+brief:
+  - "The Battle of Épehy began at 5.20 a.m. on 18 September 1918, when Rawlinson's British Fourth Army and V Corps of Byng's Third Army attacked in rain and mist on a front about 27 kilometres long."
+  - "The objective was the outer German positions in front of the St Quentin Canal, largely old British trenches lost in March. It was the second preliminary attack, after Havrincourt, before the assault on the Hindenburg Line."
+  - "Rawlinson relied on surprise: no preliminary bombardment, 1,488 guns opening fire only at zero hour, and only 20 tanks, because the rest were being saved for the assault on the main line."
+  - "In the centre two Australian divisions of General Monash took all their objectives, while on the wings, at Ronssoy, Épehy and in front of Saint-Quentin, fighting went on into the night and not all lines were reached."
+  - "In a single day the British and Australians took more than 9,000 prisoners and came within assaulting distance of the Hindenburg Line. The battle showed that the Germans could no longer hold even strongly fortified positions."
 ---
 
 The Battle of [Épehy](https://pl.wikipedia.org/wiki/Épehy) was the second preliminary attack, after the [Battle of Havrincourt](/bitwy/bitwa-pod-havrincourt), before the great assault on the Hindenburg Line. At 5.20 a.m. on 18 September 1918, in rain and mist, three corps of the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson) and V Corps of the Third Army of General [Julian Byng](/postacie/julian-byng) attacked on a front about 27 kilometres long, from Holnon near Saint-Quentin to Gouzeaucourt. Their objective was the outer German positions on the ridge in front of the St Quentin Canal, largely old British trenches lost in March at the start of [Operation Michael](/bitwy/operacja-michael). In the centre two Australian divisions of General [John Monash](/postacie/john-monash) took all their objectives and more than 4,000 prisoners. On the wings, at the fortified villages of Ronssoy and Épehy and in front of Saint-Quentin, fighting went on into the night and the assigned lines were not reached everywhere. Even so, in a single day the British and Australians took more than 9,000 prisoners and came within assaulting distance of the main German position.

@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Brytyjczycy zdobyli Eaucourt l’Abbaye i Le Sars, a
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Francja, Niemcy]
 milestone: true
+brief:
+  - "Bitwa o grzbiety Le Transloy, toczona od 1 do 18 października 1916 roku, była ostatnim dużym natarciem brytyjskiej 4 Armii gen. Rawlinsona w bitwie nad Sommą."
+  - "Po wrześniowych sukcesach Haig liczył, że jeszcze w październiku wspólne uderzenie trzech armii przełamie niemiecką obronę przed Le Transloy i Bapaume."
+  - "Brytyjczycy zdobyli 1 października Eaucourt l’Abbaye, a 7 października Le Sars, ale kolejne natarcia w deszczu i błocie na okopy przed Le Transloy i Butte de Warlencourt dawały kilkaset metrów albo nic."
+  - "Niemcy, wzmocnieni świeżymi dywizjami, artylerią i samolotami, obsadzali pierwszą linię słabo, a karabiny maszynowe ukrywali w głębi, poza zasięgiem brytyjskiej zapory ogniowej."
+  - "Bitwa pokazała, że ofensywa nad Sommą osiągnęła swoje granice: po 18 października alianci ograniczyli się do lokalnych natarć, a Butte de Warlencourt pozostał w rękach niemieckich do lutego 1917 roku."
 ---
 
 Bitwa o grzbiety Le Transloy była ostatnim dużym natarciem brytyjskiej 4 Armii w [bitwie nad Sommą](/bitwy/bitwa-nad-somma). Po wrześniowych sukcesach pod Flers, [Morval](/bitwy/bitwa-pod-morval) i Gueudecourt główny grzbiet nad Sommą był w rękach aliantów, a przed armią generała [Henry’ego Rawlinsona](/postacie/henry-rawlinson) otwierała się szeroka, płytka dolina z niższymi grzbietami, za którymi leżały wieś [Le Transloy](https://pl.wikipedia.org/wiki/Le_Transloy) i miasteczko [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). [Douglas Haig](/postacie/douglas-haig) liczył, że jeszcze w październiku wspólne uderzenie trzech armii przełamie niemiecką obronę. 1 października Brytyjczycy zdobyli opactwo Eaucourt l’Abbaye, a 7 października wieś [Le Sars](https://pl.wikipedia.org/wiki/Le_Sars) przy drodze do Bapaume. Potem przyszły deszcze. W błocie, przy niskich chmurach, które oślepiały lotnictwo i artylerię, kolejne natarcia 7, 12 i 18 października na niemieckie okopy przed Le Transloy i na kredowy pagórek Butte de Warlencourt kończyły się zyskiem kilkuset metrów albo niczym. Francuzi na prawym skrzydle wdarli się w połowie miesiąca do [Sailly-Saillisel](https://pl.wikipedia.org/wiki/Sailly-Saillisel). Niemcy, wzmocnieni świeżymi dywizjami, artylerią i samolotami, zmienili sposób obrony i utrzymali swoje pozycje.

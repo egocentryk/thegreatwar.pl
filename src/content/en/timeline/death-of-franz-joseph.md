@@ -2,7 +2,13 @@
 title: Death of Franz Joseph
 summary: On 21 November 1916 the 86-year-old Emperor Franz Joseph I died at Schönbrunn after almost 68 years on the throne. His great-nephew Charles I succeeded him.
 source: smierc-franciszka-jozefa
-sourceHash: 8479971d65b764b4baddde1d24afe0e254e0fd1e
+sourceHash: 719cef80d565b64d20304370da91b1835b770c0e
+brief:
+  - "On the evening of 21 November 1916 the 86-year-old Emperor of Austria and King of Hungary, Franz Joseph I, died at Schönbrunn Palace, having reigned since 2 December 1848, almost 68 years."
+  - "The emperor, ill with pneumonia, went on reading reports and receiving petitioners until his last day, and for most of his subjects he was the only monarch they had ever known."
+  - "He left the state in a bad condition: armies shattered by the Brusilov offensive, growing dependence on Germany, shortages of bread and coal in the cities and a paralysed political life."
+  - "That same evening the 29-year-old Archduke Charles, the grandson of the emperor's brother, succeeded by operation of law, convinced from the outset that the monarchy had to get out of the war quickly."
+  - "Under his rule Galicia obtained broad autonomy and Poles held the highest offices of state. The monarchy outlived the old emperor by less than two years and fell apart in the autumn of 1918."
 ---
 
 On the evening of 21 November 1916 the Emperor of Austria and King of Hungary, [Franz Joseph I](/postacie/franciszek-jozef-i), died at [Schönbrunn Palace](https://pl.wikipedia.org/wiki/Pałac_Schönbrunn) outside Vienna. He was 86 and had reigned since 2 December 1848, almost 68 years, longer than any other ruler of the Habsburg dynasty. For most of his subjects he was the only monarch they had ever known. He died in the third year of a war that he himself had declared on Serbia in the summer of 1914 and whose end was nowhere in sight. That same evening the 29-year-old Archduke [Charles](/postacie/karol-i-habsburg), the grandson of his brother, became emperor and king by operation of law.

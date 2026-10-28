@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: British victory. The Australians and British took Polygon Wood, the Butte, a stretch of the Flandern I line and the approaches to Zonnebeke, and all German counter-attacks were repulsed.
 source: bitwa-o-polygon-wood
-sourceHash: 79e91618bde225e987406d0f4a5735eb0d3a984b
+sourceHash: 950d2587da52b38993fe1ad48afb9f5737597a5e
+brief:
+  - "The Battle of Polygon Wood, fought on 26 September – 3 October 1917, was the second of General Herbert Plumer's three \"bites\" in the Third Battle of Ypres."
+  - "At 5.50 a.m. on 26 September seven divisions, five British and two Australian, went forward behind a wall of fire. The main task went to I Anzac Corps: the rest of Polygon Wood with the Butte, and the Tokio spur."
+  - "A German attack on 25 September nearly upset the operation, but by noon almost all the objectives had been taken. The counter-attacks of four German counter-attack divisions broke down under artillery fire."
+  - "The British official history gives 15,375 killed, wounded and missing in the seven attacking divisions. German attempts to recapture the ground up to 3 October failed."
+  - "The battle was one of the cleanest victories of Plumer's method and forced the Germans into a hurried change of defensive tactics, which proved disastrous as early as 4 October at Broodseinde."
 ---
 
 The Battle of Polygon Wood was the second of General [Herbert Plumer's](/postacie/herbert-plumer) three September–October "bites" in the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). At 5.50 a.m. on 26 September 1917, six days after the [Battle of the Menin Road Ridge](/bitwy/bitwa-o-grzbiet-menin-road), seven divisions, five British and two Australian, went forward behind a wall of fire on a front of about 8 kilometres, from the [Ypres](https://pl.wikipedia.org/wiki/Ieper)–Menin road to the Gravenstafel spur. The main task went to I Anzac Corps: the 5th Australian Division was to take the rest of Polygon Wood with the mound known as the Butte, and the 4th Australian Division the Tokio spur in front of [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). Although a German attack the day before had nearly upset the whole operation, by noon almost all the objectives had been taken, and the counter-attacks of four German counter-attack divisions broke down under artillery fire. Further attempts to recapture the ground, up to 3 October, also failed. The battle forced the German command into another hurried change of defensive tactics.

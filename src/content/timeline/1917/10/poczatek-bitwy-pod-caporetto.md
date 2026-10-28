@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Włochy, Niemcy, Austro-Węgry, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "24 października 1917 roku o drugiej w nocy Niemcy i Austro-Węgry rozpoczęły nad górną Soczą wspólną ofensywę przeciw Włochom, nazwaną dwunastą bitwą nad Isonzo i znaną jako bitwa pod Caporetto."
+  - "Austriacy, wyczerpani jedenastą bitwą nad Isonzo, uzyskali pomoc Niemców. Generał Luigi Cadorna wiedział od zbiegów o planie, ale nie wierzył w wielką ofensywę w tak trudnych górach."
+  - "Ostrzał gazowy i mgła sparaliżowały włoską obronę. Pod Bovcem niemieccy pionierzy wypełnili fosgenem wąwóz, w którym kryli się żołnierze włoskiego 87 pułku piechoty."
+  - "Niemiecka 12 Dywizja Śląska poszła dnem doliny Soczy, zajęła Caporetto, dziś Kobarid, i przed północą stanęła na dawnej granicy, 23 kilometry od miejsca wyjścia."
+  - "Do wieczora front włoskiej 2 Armii był rozerwany na długości ponad 30 kilometrów, a do niewoli trafiło według Maria Silvestriego około 35 tysięcy Włochów. Otwierała się droga na równinę Friuli."
 ---
 
 24 października 1917 roku o drugiej w nocy na froncie nad górną [Soczą](https://pl.wikipedia.org/wiki/Socza), od Rombonu nad [Bovcem](https://pl.wikipedia.org/wiki/Bovec) po płaskowyż Bainsizza, odezwały się setki dział. Rozpoczęła się wspólna ofensywa Niemiec i Austro-Węgier przeciw Włochom, nazwana dwunastą bitwą nad Isonzo, a we Włoszech i na świecie znana jako bitwa pod Caporetto. Po kilku godzinach ostrzału, w deszczu i mgle, piechota nowej niemieckiej 14 Armii generała [Ottona von Belowa](/postacie/otto-von-below) ruszyła do szturmu. Do wieczora włoski front był rozerwany na długości ponad 30 kilometrów, a niemiecka dywizja, która szła dnem doliny Soczy, zajęła miasteczko Caporetto, dziś słoweński [Kobarid](https://pl.wikipedia.org/wiki/Kobarid), i stanęła na dawnej granicy włosko-austriackiej.

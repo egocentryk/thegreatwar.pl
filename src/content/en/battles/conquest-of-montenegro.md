@@ -9,7 +9,13 @@ sides:
     commanders: [Nicholas I of Montenegro, Janko Vukotić, Petar Pešić]
 result: Austro-Hungarian victory. The Lovćen and Cetinje fell within a few days, King Nicholas left for Italy and the Montenegrin army laid down its arms. Montenegro remained occupied until 1918.
 source: podboj-czarnogory
-sourceHash: ad14a89803cf9d3c833f6b56102078a60eff5b3e
+sourceHash: c723eb6adf7e8b6f09fee2c090e289a277cb7280
+brief:
+  - "The conquest of Montenegro, from 5 to 25 January 1916, was a winter epilogue to the conquest of Serbia. General Hermann Kövess's Third Army attacked Montenegro from three sides."
+  - "Franz Conrad von Hötzendorf decided to deal with Montenegro. Vienna regarded the capture of the Lovćen massif as a necessity, because from it the Montenegrins threatened the fleet base at Kotor."
+  - "At Mojkovac the Montenegrins repelled the attacks and held the line of the Tara, but in the west the Lovćen fell after three days of fighting. On 13 January the Austrians entered the capital, Cetinje, without a fight."
+  - "The government asked for an armistice, and on 19 January King Nicholas I left via Scutari for Italy. On 21 January General Vukotić disbanded the army, and on 25 January the terms for laying down arms were signed."
+  - "Montenegro was the only Entente state to lose both its entire territory and its army, and it remained occupied until 1918. In November 1918 an assembly in Podgorica deposed the King and proclaimed union with Serbia."
 ---
 
 The conquest of Montenegro was a short winter epilogue to the [conquest of Serbia](/bitwy/podboj-serbii). King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz)'s small mountain monarchy had fought alongside Serbia since August 1914, and its guns on the [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) massif had threatened the Austro-Hungarian fleet base at [Kotor](https://pl.wikipedia.org/wiki/Kotor) from the start of the war. When at the end of 1915 the remnants of the Serbian army crossed Montenegro and Albania to the Adriatic, the Austro-Hungarian chief of the general staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), decided to deal with his last opponent in the Balkans. At the beginning of January 1916 General [Hermann Kövess](/postacie/hermann-kovess)'s Third Army attacked Montenegro from three sides. The Lovćen fell after three days of fighting, and on 13 January the Austrians entered the capital, [Cetinje](https://pl.wikipedia.org/wiki/Cetynia). The government asked for an armistice, the King left for Italy, and the exhausted and hungry Montenegrin army dispersed to their homes or laid down its arms. Montenegro was the only Entente state to lose in this war not only its entire territory but also its army.

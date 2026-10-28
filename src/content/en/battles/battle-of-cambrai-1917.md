@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Georg von der Marwitz, Otto von Moser]
 result: Inconclusive. The British broke through the Hindenburg Line to a depth of several kilometres but did not take the Bourlon ridge, and after the German counter-attack of 30 November they withdrew to the Flesquières ridge. Each side lost about 40,000–45,000 men.
 source: bitwa-pod-cambrai-1917
-sourceHash: a92ef8a9ebc84119c9bd5de377a7ee402c28809d
+sourceHash: 7b68a08a70692c21427d8930877f574783537902
+brief:
+  - "The Battle of Cambrai, fought from 20 November to 7 December 1917, was the first battle in which tanks used in mass led the attack of a whole army, General Julian Byng's British Third Army."
+  - "The plan combined the ideas of Fuller and Tudor: instead of a bombardment lasting several days, hundreds of tanks would crush the Hindenburg Line's wire, and the guns would open fire only at zero hour, without registering."
+  - "On 20 November the surprise was complete: within a few hours the British passed through the whole system of German defences and advanced five or six kilometres, at a cost of about four thousand men."
+  - "The success was not exploited: the cavalry did not cross the canal, the attack stalled at Bourlon, and on 30 November the Germans struck by surprise and retook most gains. The Third Army fell back to the Flesquières ridge."
+  - "The losses of the two sides turned out to be roughly equal. Both armies drew lessons from Cambrai for 1918: the Germans in their spring offensive, the British in their tank attacks at Amiens."
 ---
 
 The Battle of Cambrai was the first battle in history in which [tanks](https://pl.wikipedia.org/wiki/Czołg), used in mass on dry ground not churned up by shellfire, led the attack of a whole army. On the morning of 20 November 1917 the British Third Army of General [Julian Byng](/postacie/julian-byng) attacked south-west of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai) without the usual bombardment lasting several days. Several hundred tanks crushed the wire of the Hindenburg Line, thought to be impregnable, and more than a thousand guns opened fire only at the moment of the attack, shooting from maps and calculations without registering beforehand. Within a few hours the British passed through the whole system of German defences on a front of about ten kilometres and advanced five or six kilometres, at a cost of about four thousand men. In Britain the church bells were rung at the news. The success could not be exploited, however: the cavalry did not get across the canal, the attack stalled in front of the Bourlon ridge, and on 30 November the Germans struck by surprise from the south and took back most of the British gains. At the beginning of December the Third Army withdrew to the Flesquières ridge, and the losses of the two sides turned out to be roughly equal.

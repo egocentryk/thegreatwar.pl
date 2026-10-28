@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Brytyjska 1, 3 i 4 Armia przełamały cał�
 authors: [Natalia]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "Bitwy o Linię Hindenburga to brytyjska nazwa natarć z 12 września – 12 października 1918 roku, w których brytyjska 1, 3 i 4 Armia z Kanadyjczykami, Australijczykami i Amerykanami zdobyły najsilniejszą niemiecką pozycję."
+  - "Linia Hindenburga, budowana od jesieni 1916 roku, była pasem umocnień głębokim od 6 do 9 kilometrów, opartym o Canal du Nord i Kanał Saint-Quentin. Uważano ją za niemal nie do zdobycia."
+  - "Po walkach na przedpolu pod Havrincourt i Épehy Kanadyjczycy 27 września przeszli Canal du Nord, a 29 września 46 Dywizja przeprawiła się przez Kanał Saint-Quentin pod Bellenglise."
+  - "Na początku października Brytyjczycy zdobyli linię Beaurevoir–Fonsomme, zajęli Cambrai i ścigali Niemców aż nad rzekę Selle pod Le Cateau."
+  - "Klęska na tej pozycji była jedną z przyczyn, dla których 29 września Ludendorff zażądał natychmiastowego rozejmu. Bitwy przesądziły, że wojna skończy się w 1918 roku, a nie w 1919."
 ---
 
 Bitwy o Linię Hindenburga to brytyjska nazwa serii natarć, w których jesienią 1918 roku brytyjska 1, 3 i 4 Armia, a z nimi Kanadyjczycy, Australijczycy, Nowozelandczycy i dwie dywizje amerykańskie, zdobyły najsilniejszą niemiecką pozycję na froncie zachodnim. Linię Hindenburga, którą Niemcy nazywali Siegfriedstellung, budowano od jesieni 1916 roku i uważano za niemal nie do zdobycia. Najpierw, 12 i 18 września, Brytyjczycy wyparli Niemców z jej przedpola pod Havrincourt i Épehy. Pod koniec września, w ramach wielkiej ofensywy sprzymierzonych na całym froncie, przełamali ją nad Canal du Nord i nad Kanałem Saint-Quentin, a na początku października zdobyli ostatnią linię za nią i zajęli [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Klęska na tej pozycji była jedną z przyczyn, dla których niemieckie naczelne dowództwo zażądało od rządu natychmiastowego rozejmu.

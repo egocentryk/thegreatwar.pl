@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "31 lipca 1917 roku o 3.50 piechota brytyjskiej 5 i 2 Armii oraz francuskiej 1 Armii ruszyła do ataku spod Ypres. Tak zaczęła się trzecia bitwa pod Ypres, którą Douglas Haig szykował od półtora roku."
+  - "Ofensywa miała wyprzeć Niemców z wzgórz wokół Ypres, a potem z wybrzeża belgijskiego. Niemiecka 4 Armia przygotowała obronę w głąb i dywizje przeciwnatarcia za grzbietem Passchendaele."
+  - "Na północy alianci zdobyli grzbiet Pilckem, a Francuzi weszli do Bikschote. Na płaskowyżu Gheluvelt, najsilniej bronionym odcinku, natarcie utknęło."
+  - "Po południu niemieckie przeciwnatarcie zepchnęło najdalej wysunięte brygady i odbiło Sint-Juliaan. Zaczął się deszcz, który padał przez następne cztery dni i zamienił pole bitwy w błoto."
+  - "Haig ocenił pierwszy dzień jako sukces, ale niemieckiej obrony nigdzie nie przełamano. Ofensywa trwała ponad trzy miesiące i przeszła do historii jako synonim walki w błocie."
 ---
 
 31 lipca 1917 roku o 3.50 nad ranem, w ciemności pod niskimi chmurami, tysiące dział otworzyły ogień zaporowy na froncie od rzeki Lys po zalane łąki pod Steenstraat, a za nim ruszyła do ataku piechota brytyjskiej 5 i 2 Armii oraz francuskiej 1 Armii. Tak zaczęła się [trzecia bitwa pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), wielka ofensywa, którą feldmarszałek [Douglas Haig](/postacie/douglas-haig) szykował od półtora roku i która miała wyprzeć Niemców z wzgórz wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper), a potem z wybrzeża belgijskiego. Pierwszy dzień przyniósł sukces na północy, gdzie alianci zdobyli grzbiet Pilckem, i rozczarowanie na najważniejszym odcinku, płaskowyżu Gheluvelt. Po południu zaczął się deszcz, który miał przesądzić o losie całej kampanii.

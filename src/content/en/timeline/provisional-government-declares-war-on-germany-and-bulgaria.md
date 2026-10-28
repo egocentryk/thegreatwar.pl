@@ -2,7 +2,13 @@
 title: Provisional government declares war on Germany and Bulgaria
 summary: On 23 November 1916 Venizelos's National Defence government in Salonika declared war on Germany and Bulgaria. Greece now had two governments, one at war.
 source: rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii
-sourceHash: f514823cceea9ba82fd118cf873430c8ed4d79dc
+sourceHash: b375d370948282e00eb88c4023bbc0af7d00de21
+brief:
+  - "On 23 November 1916 the provisional government of National Defence in Salonika, headed by Eleftherios Venizelos, declared war on Germany and Bulgaria. Some sources give 24 or 25 November."
+  - "Venizelos had waited more than six weeks, because the Allies would not recognise his government and Briand still hoped for an understanding with King Constantine I. War was not declared on Austria-Hungary or Turkey."
+  - "In his proclamation Venizelos promised to help liberate the lands invaded by the Bulgarians and assured the King of his loyalty. His watchword was: \"We are not against the King, but against the Bulgarians.\""
+  - "Greece now had two governments: one at war in Salonika and a neutral one in Athens. London decided to recognise Venizelos's government only in December, after Athens issued a warrant for his arrest."
+  - "The division lasted until June 1917, when Constantine left the country and Greece as a whole entered the war. The rift of November 1916 nevertheless divided the Greeks for decades as the National Schism."
 ---
 
 On 23 November 1916, or 10 November by the Julian calendar then used in Greece, the provisional government of National Defence in [Salonika](https://pl.wikipedia.org/wiki/Saloniki) declared war on Germany and Bulgaria. It was headed by a triumvirate: [Eleftherios Venizelos](/postacie/elefterios-wenizelos), Admiral [Pavlos Kountouriotis](https://pl.wikipedia.org/wiki/Pawlos_Kunduriotis) and General [Panagiotis Danglis](https://pl.wikipedia.org/wiki/Panajotis_Danglis). The date of 23 November is given by the British chronology of the war and by the British official history of the Macedonian campaign (Falls). Other sources speak of the following days. The Greek historian Loukianos Hassiotis, author of the entry in the international encyclopedia of the First World War, and Venizelos's British biographer S. B. Chester give 24 November, and the New York monthly *Current History*, published by the *New York Times*, gives 25 November. The difference may stem from the fact that the news from Salonika, the announcement of the decision and Venizelos's proclamation reached the press with a delay. We follow the date in the chronology.

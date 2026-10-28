@@ -2,7 +2,12 @@
 title: Battle of Mons
 summary: On 23 August 1914 the British Expeditionary Force fought its first battle at Mons. It inflicted heavy losses on the Germans but had to begin a retreat.
 source: bitwa-pod-mons
-sourceHash: e36becc4dbf91e85ddee13243fffe78f86028115
+sourceHash: 52f3728c70932b610f85401c133e35cc56f10d88
+brief:
+  - "On 23 August 1914 near the Belgian town of Mons, Field Marshal Sir John French's British Expeditionary Force fought its first battle of the war, the first in Western Europe since Waterloo in 1815."
+  - "The British held the line of the Mons–Condé canal, unaware that General Alexander von Kluck's much more numerous German First Army was heading for them. The main weight fell on Smith-Dorrien's II Corps."
+  - "The rapid, accurate rifle fire of the British professionals inflicted heavy losses on the Germans. For defending the bridges at Nimy, Lieutenant Maurice Dease and Private Sidney Godley won the war's first Victoria Crosses."
+  - "After the French Fifth Army's defeat at Charleroi the British faced encirclement and the next day began the Great Retreat. They lost about 1,600 men at Mons, and the battle quickly became a legend."
 ---
 
 On 23 August 1914, near the Belgian town of [Mons](https://pl.wikipedia.org/wiki/Mons), the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) fought its first battle of the war. It was the first time the British had fought in Western Europe since the Battle of Waterloo in 1815.

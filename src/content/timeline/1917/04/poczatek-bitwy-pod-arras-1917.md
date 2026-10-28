@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Kanada]
 milestone: true
 draft: false
+brief:
+  - "9 kwietnia 1917 roku, w Poniedziałek Wielkanocny, piechota brytyjska i kanadyjska zaatakowała pod Arras. Ofensywa miała ściągnąć niemieckie odwody przed francuskim natarciem nad Aisne."
+  - "Przed atakiem ściągnięto blisko 2,8 tysiąca dział i haubic, prawie trzy razy więcej, niż mieli Niemcy. Wielu żołnierzy czekało na sygnał w piwnicach i kamieniołomach pod Arras."
+  - "Na północ od Scarpe Brytyjczycy posunęli się o ponad pięć kilometrów, najdalej w ciągu jednego dnia od początku wojny pozycyjnej, a Kanadyjczycy zdobyli prawie cały grzbiet Vimy."
+  - "Niemiecka 6 Armia Ludwiga von Falkenhausena trzymała odwody 25–30 km za frontem i nie zdążyła ich użyć. Brytyjska kawaleria nie wykorzystała jednak luki, która wieczorem otworzyła się na wschód od Arras."
+  - "Brytyjska historia oficjalna zaliczyła ten dzień do „wielkich dni wojny”, ale przełomu nie było. W kolejnych dniach Brytyjczycy posuwali się coraz wolniej i ponosili większe straty."
 ---
 
 9 kwietnia 1917 roku, w [Poniedziałek Wielkanocny](https://pl.wikipedia.org/wiki/Poniedziałek_Wielkanocny), o 5.30 rano, tysiące dział otworzyły ogień na froncie długości ponad dwudziestu kilometrów wokół [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) w północnej Francji, a piechota brytyjska i kanadyjska wyszła z okopów. Tak zaczęła się wielka wiosenna ofensywa Brytyjczyków, która miała ściągnąć niemieckie odwody przed francuskim natarciem nad Aisne. Pierwszy dzień był jednym z najlepszych dni armii brytyjskiej w całej wojnie. Brytyjska historia oficjalna pisze, że Poniedziałek Wielkanocny 1917 roku „trzeba zaliczyć do wielkich dni wojny”: było to najpotężniejsze i zarazem najbardziej udane natarcie brytyjskie, jakie dotąd przeprowadzono. Na północ od rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) wojska brytyjskie posunęły się o ponad pięć kilometrów, najdalej w ciągu jednego dnia od początku wojny pozycyjnej, a Kanadyjczycy zdobyli prawie cały grzbiet Vimy.

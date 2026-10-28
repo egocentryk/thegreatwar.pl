@@ -2,7 +2,13 @@
 title: Prussian Guard attack at Nonne Bosschen
 summary: On 11 November 1914 the Prussian Guard broke into the British line at Ypres. Gunners and an Oxfordshire counter-attack stopped the last great German attack.
 source: atak-gwardii-pod-nonne-bosschen
-sourceHash: dce0da340df708011eea17fb41016244def5870b
+sourceHash: f32bf31d55b0615e28250a7c801cdf75e8da3494
+brief:
+  - "On 11 November 1914 the Germans launched their last great attack of the First Battle of Ypres. They were repulsed almost everywhere, but by the Menin road the Prussian Guard broke the British line and pushed through Nonne Bosschen wood."
+  - "After the heaviest bombardment yet, 25 battalions attacked a sector held by at most 7,850 men. The 1st Guard Infantry Brigade overwhelmed FitzClarence's three Scottish battalions, but their resistance broke up its formations."
+  - "The guardsmen who emerged from the wood were stopped by gunners firing over open sights and by cooks, telephonists and sappers with rifles. They did not know there was no British infantry left behind the guns."
+  - "In the afternoon the 2nd Battalion, Oxfordshire and Buckinghamshire Light Infantry, the 2nd Division's last reserve, drove the Guard out of the wood, losing only 5 killed and 22 wounded. That night FitzClarence was mortally hit."
+  - "It was the last great German attack at Ypres in 1914. The Germans suffered heavy losses and gained only a stretch of the old British front line between the Menin road and Polygon Wood."
 ---
 
 On 11 November 1914 the Germans launched their last great attack in the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). After the heaviest bombardment since the fighting began, more than a dozen divisions advanced on a front from Messines to Polygon Wood. Almost everywhere they were repulsed. Only by the road from Menin to [Ypres](https://pl.wikipedia.org/wiki/Ieper) did the elite regiments of the Prussian Guard break through the British line and push through Nonne Bosschen wood almost to the positions of the British artillery. They were stopped by gunners, cooks and sappers with rifles in their hands, and in the afternoon the 2nd Battalion, Oxfordshire and Buckinghamshire Light Infantry drove them out of the wood. The British Battles Nomenclature Committee singled out this day as a separate battle, the Battle of Nonne Bosschen.

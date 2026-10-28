@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Stany Zjednoczone, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "15 lipca 1918 roku kilka minut po północy niemiecka artyleria otworzyła ogień po obu stronach Reims. Zaczynała się piąta i ostatnia wielka ofensywa niemiecka tego roku, nazywana „szturmem pokoju”."
+  - "Ludendorff chciał odciąć Reims i ściągnąć na południe odwody sprzymierzonych przed uderzeniem we Flandrii. Sekretu nie dochowano: 14 lipca Francuzi wzięli 27 jeńców i poznali godzinę ostrzału."
+  - "Na wschód od Reims gen. Henri Gouraud zostawił w pierwszych okopach tylko garstkę ochotników i bronił się na pozycji pośredniej. Niemiecki ostrzał spadł na puste okopy, a natarcie skończyło się zupełnym niepowodzeniem."
+  - "Na zachód od Reims Niemcy przeszli Marnę po obu stronach Dormans, ale po około pięciu kilometrach utknęli. Amerykańska 3 Dywizja nie oddała niczego, zyskując przydomek „Skała nad Marną”."
+  - "Foch nie pozwolił wstrzymać przygotowań kontrofensywy Mangina. Wkrótce Niemcy przerwali natarcie, a trzy dni po jego rozpoczęciu inicjatywa na froncie zachodnim przeszła w ręce sprzymierzonych."
 ---
 
 15 lipca 1918 roku, kilka minut po północy, tysiące niemieckich dział otworzyły ogień na froncie długim na ponad 100 kilometrów, od okolic Château-Thierry nad Marną po wzgórza Szampanii na wschód od Reims. Zaczynała się piąta i ostatnia wielka ofensywa niemiecka tego roku. Generał [Erich Ludendorff](/postacie/erich-ludendorff) chciał po obu stronach [Reims](https://pl.wikipedia.org/wiki/Reims) przełamać front francuski, odciąć miasto i ściągnąć na południe odwody sprzymierzonych, zanim uderzy na Brytyjczyków we Flandrii. Żołnierzom mówiono, że będzie to „szturm pokoju” (*Friedensturm*), który zakończy wojnę. Tym razem jednak Francuzi znali dzień, a nawet godzinę natarcia. Na wschód od Reims niemieckie dywizje rozbiły się o obronę, która cofnęła się przed ich ciosem, a na zachód od miasta przeszły wprawdzie [Marnę](https://pl.wikipedia.org/wiki/Marna), ale po kilku kilometrach utknęły. Wieczorem francuskie dowództwo mogło uznać, że najgorsze minęło.

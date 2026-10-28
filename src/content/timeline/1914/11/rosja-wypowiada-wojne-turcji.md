@@ -8,6 +8,12 @@ dayOrder: 4
 tags: [wypowiedzenie wojny, Rosja, Imperium Osmańskie, Mikołaj II]
 milestone: true
 draft: false
+brief:
+  - "2 listopada 1914 roku car Mikołaj II podpisał w Carskim Siole manifest o wypowiedzeniu wojny Imperium Osmańskiemu. Według kalendarza juliańskiego była to data 20 października."
+  - "Wojna była odpowiedzią na atak floty turecko-niemieckiej na rosyjskie porty nad Morzem Czarnym. Wcześniej minister Siergiej Sazonow razem z sojusznikami zabiegał o utrzymanie tureckiej neutralności."
+  - "Manifest zapowiadał, że wojna otworzy Rosji drogę do „zadań historycznych na brzegach Morza Czarnego”. W Rosji rozumiano, że chodzi o Konstantynopol i cieśniny czarnomorskie."
+  - "Wypowiedzenie wojny otworzyło front na Kaukazie. W pierwszych dniach listopada korpus gen. Georgija Bergmanna przekroczył granicę i ruszył w stronę twierdzy Erzurum."
+  - "5 listopada wojnę Turcji wypowiedziały Wielka Brytania i Francja, a wkrótce Londyn zapewnił Piotrogród, że sprawa Konstantynopola i cieśnin zostanie rozwiązana zgodnie z rosyjskimi życzeniami."
 ---
 
 2 listopada 1914 roku, a według obowiązującego w Rosji [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański) 20 października, cesarz [Mikołaj II](/postacie/mikolaj-ii) podpisał w [Carskim Siole](https://pl.wikipedia.org/wiki/Carskie_Sioło) manifest o wypowiedzeniu wojny [Imperium Osmańskiemu](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Była to odpowiedź na [atak floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym. Część zachodnich zestawień podaje datę 1 listopada, ale manifest nosi datę 20 października starego stylu, czyli 2 listopada. Rosja, która od trzech miesięcy walczyła z Niemcami i Austro-Węgrami, miała odtąd jeszcze jednego przeciwnika.

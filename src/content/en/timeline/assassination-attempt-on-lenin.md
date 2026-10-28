@@ -2,7 +2,13 @@
 title: Assassination attempt on Lenin
 summary: On 30 August 1918 Lenin was gravely wounded in Moscow; that morning Uritsky, the Petrograd Cheka chief, was killed. The Bolsheviks answered with Red Terror.
 source: zamach-na-lenina
-sourceHash: c37ce68ecb2b2baf043f9a33089d6994fe5f20f8
+sourceHash: 06d5ce1194dd07f695ae4dde6f2344827b0965c3
+brief:
+  - "On the evening of 30 August 1918 in Moscow, after a rally at the Michelson works, shots were fired at Vladimir Lenin. Two bullets hit him in the neck and shoulder, and for several days it was uncertain whether he would survive."
+  - "That morning in Petrograd the poet Leonid Kannegisser had shot dead the chairman of the Petrograd Cheka, Moisei Uritsky. In the summer of 1918 Bolshevik power hung by a thread."
+  - "The Socialist Revolutionary Fanny Kaplan was detained on the spot and admitted firing. She was shot without trial on 3 September, and historians still doubt whether it really was she who fired."
+  - "The Bolsheviks answered with mass terror. On 5 September the Council of People's Commissars adopted the decree on Red Terror, and a wave of arrests and executions swept the whole country."
+  - "Lenin survived and returned to work in mid-October, and propaganda made him a martyr of the revolution. His health, however, never returned to what it had been."
 ---
 
 30 August 1918 was the blackest day for the Bolsheviks since they had seized power. In the morning in Petrograd a young poet and former officer cadet, Leonid Kannegisser, shot dead the chairman of the Petrograd Cheka, Moisei Uritsky. In the evening in Moscow, after a rally at the Michelson works, shots were fired at the chairman of the Council of People's Commissars, [Vladimir Lenin](/postacie/wlodzimierz-lenin). Two bullets hit him in the neck and shoulder, and for several days it was uncertain whether he would survive. The Socialist Revolutionary [Fanny Kaplan](https://pl.wikipedia.org/wiki/Fanny_Kapłan) was detained on the spot. For the Soviet authorities the two attacks became the signal to unleash mass terror, which from then on was officially called red.

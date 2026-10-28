@@ -15,6 +15,12 @@ result: Zwycięstwo Polski. W nocy z 21 na 22 listopada wojska ukraińskie opuś
 authors: [Natalia]
 tags: [Polska, Ukraina, Lwów, Galicja]
 milestone: true
+brief:
+  - "W nocy z 31 października na 1 listopada 1918 roku ukraińscy żołnierze armii austro-węgierskiej opanowali Lwów i ogłosili go stolicą nowego państwa ukraińskiego."
+  - "Gdy monarchia Habsburgów się rozpadała, o stolicę Galicji upomnieli się naraz Polacy i Ukraińcy. Ukraińcy przyspieszyli przewrót, bo 1 listopada miała przyjechać polska Komisja Likwidacyjna."
+  - "Polscy ochotnicy, w dużej części uczniowie, studenci i harcerze, zwani później Orlętami Lwowskimi, przez trzy tygodnie walczyli o szkoły, koszary i pojedyncze gmachy w zachodniej części miasta."
+  - "20 listopada z Przemyśla przebiła się odsiecz ppłk. Tokarzewskiego-Karaszewicza. Po polskim natarciu 21 listopada Ukraińcy w nocy z 21 na 22 listopada opuścili miasto."
+  - "Po zajęciu miasta doszło do pogromu Żydów, a Ukraińcy oblegali Lwów do maja 1919 roku. Obrona Lwowa stała się jednym z mitów założycielskich II Rzeczypospolitej."
 ---
 
 Obrona Lwowa była pierwszym starciem [wojny polsko-ukraińskiej](https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska) i jednym z najbardziej niezwykłych epizodów końca wielkiej wojny. Gdy monarchia Habsburgów rozpadała się na państwa narodowe, o stolicę Galicji upomniały się dwa narody naraz. W nocy z 31 października na 1 listopada 1918 roku ukraińscy żołnierze armii austro-węgierskiej opanowali [Lwów](https://pl.wikipedia.org/wiki/Lwów) i ogłosili go stolicą nowego państwa ukraińskiego. Jeszcze tego samego dnia polscy mieszkańcy miasta, w większości ochotnicy bez wojskowego przeszkolenia, chwycili za broń. Przez trzy tygodnie na ulicach, w szkołach, koszarach i na cmentarzach toczyły się walki, w których po polskiej stronie brali udział uczniowie gimnazjów, studenci i harcerze. Do historii przeszli jako [Orlęta Lwowskie](https://pl.wikipedia.org/wiki/Orlęta_Lwowskie). 20 listopada do miasta przebiła się odsiecz z Przemyśla, a w nocy z 21 na 22 listopada wojska ukraińskie wycofały się ze Lwowa. Wojna o miasto i całą Galicję Wschodnią dopiero się jednak zaczynała.

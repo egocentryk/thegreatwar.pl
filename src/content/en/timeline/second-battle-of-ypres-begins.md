@@ -2,7 +2,13 @@
 title: Second Battle of Ypres begins
 summary: On 22 April 1915 the Germans released a cloud of chlorine at Ypres. Two French divisions broke, and a gap several kilometres wide opened north of the town.
 source: poczatek-drugiej-bitwy-pod-ypres
-sourceHash: fbd3f5581d0b720bf3ab4c9b67ef581de594a1a6
+sourceHash: aa24e6c1d4a4cf3f6eff04a1cb9b9e57f8066e1a
+brief:
+  - "Towards evening on 22 April 1915 the Germans released chlorine at Ypres onto the trenches of two French divisions. It was the first Western Front attack with a gas meant to kill, and the start of the Second Battle of Ypres."
+  - "The chemist Fritz Haber proposed releasing gas from cylinders and letting the wind carry it to the enemy's trenches. Falkenhayn treated the attack as a trial of the new weapon, not an attempt to break the front."
+  - "The French soldiers had no protection whatsoever against gas. The front of the 45th (Algerian) Division and the 87th Territorial Division disintegrated within a few dozen minutes, and the Germans took Langemarck."
+  - "A gap more than 7 kilometres wide opened in the Allied front. The Germans, however, halted on the ridge near Pilkem, as they had no reserves, and the Canadians counter-attacked that same night."
+  - "Modern historians estimate the number killed by the gas at 800–1,400. For the Allies the attack was a shock and a breach of the laws of war, and soon the first improvised masks were being sewn."
 ---
 
 Towards evening on 22 April 1915, on the northern edge of the salient around [Ypres](https://pl.wikipedia.org/wiki/Ieper), German pioneers opened the valves of several thousand steel cylinders. A greenish-yellow cloud of [chlorine](https://pl.wikipedia.org/wiki/Chlor) rose over no man's land, and a light breeze carried it onto the trenches of two French divisions. Within an hour their defence had ceased to exist, and a gap several kilometres wide opened in the Allied front. It was the first attack on the Western Front with a war gas intended to kill, and at the same time the beginning of the Second Battle of Ypres, which lasted until 25 May.

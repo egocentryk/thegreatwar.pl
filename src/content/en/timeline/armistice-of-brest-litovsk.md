@@ -2,7 +2,13 @@
 title: Armistice of Brest-Litovsk
 summary: On 15 December 1917 at Brest-Litovsk Soviet Russia and the Central Powers signed an armistice from the Baltic to the Black Sea, taking Russia out of the war.
 source: rozejm-w-brzesciu
-sourceHash: 7d5cb6a29ce7d88d3c08c5697fb7fc1c9a47c033
+sourceHash: 7a448d18041848f65f9ef151076d7fb81bbff17f
+brief:
+  - "On 15 December 1917 at Brest-Litovsk plenipotentiaries of the Russian supreme command signed an armistice with Germany, Austria-Hungary, Bulgaria and Turkey. Russia in practice left the war."
+  - "Lenin's government demanded an armistice on 21 November. Talks began on 3 December, but the dispute over an armistice on all fronts ended only in a provisional ceasefire from 7 to 17 December."
+  - "When the talks resumed on 13 December the Russians accepted a separate armistice. The ban on troop transfers went into the text, but with a proviso that gave the Germans a loophole."
+  - "The agreement had eleven articles: the armistice ran from 17 December to 14 January 1918 and extended itself automatically, and organised fraternisation was allowed at set meeting points."
+  - "For the Germans the armistice was a great strategic victory, freeing divisions for the West. It lasted until 18 February 1918, when the Germans resumed hostilities."
 ---
 
 On 15 December 1917 (2 December in the Julian calendar), at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć), the headquarters of the German supreme command in the East, plenipotentiaries of the Russian supreme command signed an armistice agreement with representatives of the commands of Germany, Austria-Hungary, Bulgaria and Turkey. The armistice was to come into force at noon on 17 December and last until 14 January 1918, and, unless either side denounced it, to be extended automatically. It covered the whole land front from the Baltic to the Black Sea, the Caucasus front in Asia, the Baltic east of the 15th meridian and the whole of the Black Sea. For Russia, which had been fighting Germany, Austria-Hungary and Turkey since the autumn of 1914, and Bulgaria as well since the autumn of 1915, this meant leaving the war in practice. The British chronology of the war records the signing of the armistice under this date and the start of its validity under 17 December. We describe both events here together, as well as the resumption of the negotiations on 13 December.

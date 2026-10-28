@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "Bitwa o grzbiet Gravenstafel toczyła się w dniach 22–23 kwietnia 1915 roku pod Ypres. Po niemieckim ataku chlorem francuskie dywizje na północ od miasta poszły w rozsypkę."
+  - "Cały ciężar obrony spadł na 1 Dywizję Kanadyjską gen. Edwina Aldersona, której lewe skrzydło zostało nagle odsłonięte. Kanadyjczycy i brytyjskie bataliony łatali wyrwę bez rozpoznania i niemal bez wsparcia artylerii."
+  - "Kilka minut przed północą około 1500 Kanadyjczyków zaatakowało na bagnety Kitcheners' Wood. Zdobyli lasek, ale o świcie wycofali się na jego skraj, a z obu batalionów zostało mniej niż 500 ludzi."
+  - "23 kwietnia Kanadyjczycy i Brytyjczycy atakowali przez otwarte pole pod Mauser Ridge. Natarcie załamało się około 19, a historia oficjalna uznała, że nie miało żadnych szans na powodzenie."
+  - "Wieczorem 23 kwietnia od Kitcheners' Wood po kanał ciągnęła się już ciągła, choć cienka linia. Kanadyjczycy kupili czas, którego alianci potrzebowali, by ściągnąć posiłki."
 ---
 
 Wieczorem 22 kwietnia 1915 roku, gdy po [niemieckim ataku chlorem](/poczatek-drugiej-bitwy-pod-ypres) francuskie dywizje na północ od Ypres poszły w rozsypkę, cały ciężar obrony spadł na ich sąsiadów, żołnierzy [1 Dywizji Kanadyjskiej](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska). Przez noc i następny dzień Kanadyjczycy i ściągane w pośpiechu bataliony brytyjskie łatali wyrwę we froncie, kontratakując bez rozpoznania, bez planu i niemal bez wsparcia artylerii. Brytyjska komisja do spraw nazewnictwa bitew nazwała te walki bitwą o grzbiet Gravenstafel i zamknęła je w dniach 22–23 kwietnia.

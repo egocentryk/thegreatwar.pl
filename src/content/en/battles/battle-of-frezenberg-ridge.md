@@ -9,7 +9,13 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Otto von Hügel, Richard von Schubert, Berthold von Deimling]
 result: Inconclusive. The Germans took Frezenberg Ridge and moved the front about a kilometre closer to Ypres, but did not break the British defence.
 source: bitwa-o-grzbiet-frezenberg
-sourceHash: e9427fe6a8fd09a56ff7b3072248c0b5b9cab77d
+sourceHash: 99e5b6351bdab5274e21ad35ddc1305883b562a7
+brief:
+  - "The Battle of Frezenberg Ridge, fought from 8 to 13 May 1915 east of Ypres, was the third stage of the Second Battle of Ypres. The German 4th Army massed most of three corps against two exhausted British divisions."
+  - "After withdrawing from the tip of the salient, the British held a poor line of shallow trenches overlooked from the German heights. They were short of heavy guns, ammunition, wire and dugouts."
+  - "On 8 May a hurricane bombardment levelled the 28th Division's trenches, and the Germans opened a gap more than 3 kilometres wide. The Canadians of Princess Patricia's Canadian Light Infantry stopped it widening to the south."
+  - "Evening counter-attacks closed the gap, and in the following days dismounted cavalry replaced the worn-out infantry. After a final great assault on 13 May the fighting died down."
+  - "The Germans gained a strip of ground about a kilometre deep but did not reach Ypres. V Corps lost more than 9,300 men, and the official history judged that German artillery superiority decided the fighting."
 ---
 
 The Battle of Frezenberg Ridge, fought from 8 to 13 May 1915 east of [Ypres](https://pl.wikipedia.org/wiki/Ieper), was the third stage of the [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres). A few days after the British had withdrawn from the tip of the salient to a shorter line, the German 4th Army massed most of three corps and a superiority in heavy artillery against two exhausted British divisions. On 8 May a hurricane bombardment levelled the trenches on the exposed slope of Frezenberg Ridge, and the German infantry opened a gap more than 3 kilometres wide in the British front. The last reserves closed it, and in the following days dismounted cavalry replaced the worn-out infantry in the trenches. The Germans gained a strip of ground about a kilometre deep, but they did not reach Ypres. Both sides paid an enormous price for it.

@@ -2,7 +2,13 @@
 title: Surrender of Kut
 summary: On 29 April 1916 the starving garrison of Kut surrendered to the Turks. After a 147-day siege over 13,000 of Townshend's soldiers and followers were captured.
 source: kapitulacja-al-kutu
-sourceHash: f28cdc1e402f9e9801201ab369f079d1142b37e2
+sourceHash: c3c18ac067288f2ca40930b39e96bb70db464b52
+brief:
+  - "On 29 April 1916, after a siege of 147 days, General Charles Townshend surrendered Kut on the Tigris to the Ottoman forces. It was hunger, not an assault, that forced the garrison to surrender."
+  - "After the failure of the third attempt at relief and the unsuccessful voyage of the Julnar there was no hope of rescue. From 26 April the men lived only on what the airmen dropped, and many had dysentery or scurvy."
+  - "In the negotiations Townshend offered the Turks 40 guns and one million pounds for the release of the garrison on parole. Enver Pasha, however, demanded all the men, the guns and the equipment."
+  - "According to the British official history the garrison numbered 13,309 men. Townshend remained an honoured prisoner until the end of the war, while of the roughly 12,000 men who went into captivity over 4,000 died."
+  - "In Britain the surrender was received as a humiliation. The reckoning over the expedition led in the summer to the Mesopotamia Commission, while in Turkey the victory was credited above all to Halil."
 ---
 
 On 29 April 1916, after a siege of 147 days, General Charles Townshend surrendered [Kut](https://pl.wikipedia.org/wiki/Al-Kut) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) to the Ottoman forces. In the morning he destroyed his guns and ammunition, and in the afternoon the Turks entered the town. According to the British official history (Moberly, *The Campaign in Mesopotamia*, vol. II), the garrison numbered 13,309 men that day: 10,061 soldiers, including 2,592 British and 6,988 Indian rank and file, and 3,248 Indian followers. It was not an assault that forced them to surrender, but hunger. After the failure of the [third attempt at relief](/bitwy/trzecia-proba-odsieczy-al-kutu) and the unsuccessful [voyage of the *Julnar*](/rejs-statku-julnar), there was no longer any hope of rescue.

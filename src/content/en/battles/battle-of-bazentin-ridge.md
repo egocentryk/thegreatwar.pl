@@ -9,7 +9,13 @@ sides:
     commanders: [Fritz von Below, Friedrich Sixt von Armin]
 result: British victory. The British took the German second position on a front of about 5.5 km but could not exploit their success. High Wood returned to German hands, and the fighting for Longueval and Delville Wood went on for weeks.
 source: bitwa-o-grzbiet-bazentin
-sourceHash: 9bc18324b88a9dbbb4d8c818f7a7cc908a466c48
+sourceHash: d4257e1c252e9bbf4035f11dc344fe7e8d9b1e37
+brief:
+  - "The Battle of Bazentin Ridge, fought on the Somme on 14–17 July 1916, was the second great British attack of the battle. Its target was the German second position on the ridge from Longueval to Bazentin-le-Petit."
+  - "General Henry Rawlinson attacked quite differently from 1 July: more than 22,000 soldiers crossed no man's land at night, and at 3.25 a.m. on 14 July, after five minutes of hurricane bombardment, went over to the assault."
+  - "Haig thought the night approach too risky and the French thought it madness, but Rawlinson and the corps and division commanders held to their plan. Surprise of the Germans was almost complete."
+  - "Within hours the British took both Bazentins and half of Longueval and stood on the ridge, and in the evening the cavalry went into the attack. By 17 July the Germans had brought up reinforcements and held High Wood and northern Longueval."
+  - "The dawn assault was one of the most successful British attacks of 1916 and showed that the army could learn. It was also a lost opportunity: the British took High Wood only on 15 September."
 ---
 
 The Battle of Bazentin Ridge was the second great British attack of the [Battle of the Somme](/bitwy/bitwa-nad-somma). Two weeks after the disaster of the [first day](/pierwszy-dzien-bitwy-nad-somma), General [Henry Rawlinson](/postacie/henry-rawlinson), commander of the 4th Army, struck at the German second defensive position, which ran along a ridge from Longueval to Bazentin-le-Petit. He did it quite differently from 1 July: more than 22,000 soldiers of six brigades crossed no man's land at night and formed up a few hundred metres from the German trenches, and at 3.25 a.m. on 14 July, after a hurricane bombardment of only five minutes, they went over to the assault. Within a few hours the British had taken both Bazentins and half of Longueval and stood on the crest of the ridge. In the evening even the cavalry went into the attack, for the first time in months on the Western Front. The success could not, however, be developed. By 17 July the Germans had brought up reinforcements and held High Wood and the northern part of Longueval, and the front came to a standstill again.

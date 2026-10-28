@@ -10,6 +10,12 @@ dayOrder: 7
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "3 października 1918 roku o 6.05 rano brytyjska 4 Armia gen. Henry'ego Rawlinsona uderzyła na linię Beaurevoir, ostatnią pozycję Linii Hindenburga, cztery dni po przełamaniu głównej pozycji nad Kanałem Saint-Quentin."
+  - "Linię tworzyły dwa okopy z betonowymi stanowiskami karabinów maszynowych i gęstym drutem. Nacierały brytyjska 46 i 32 Dywizja oraz australijska 2 Dywizja, a Korpus Kawalerii czekał w pogotowiu."
+  - "Do południa linia była przełamana na całej długości: 139 Brygada wzięła Ramicourt, a do 11.30 Montbrehain z ponad tysiącem jeńców. Australijczycy sami przedzierali się przez zasieki pod Estrées."
+  - "Niemcy rzucili do kontrataku wszystko, co mieli pod ręką, i do 15.00 odzyskali Montbrehain. Kawaleria nie ruszyła, a wzgórza z Montbrehain i Beaurevoir pozostały w rękach niemieckich."
+  - "Wieczorem 4 Armia trzymała linię na froncie około 10 kilometrów – znaczny, choć mniejszy od oczekiwań sukces. Tej samej nocy nowy rząd Maxa Badeńskiego poprosił prezydenta USA o rozejm."
 ---
 
 3 października 1918 roku o 6.05 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) uderzyła na ostatnią pozycję Linii Hindenburga, linię odwodową, którą Brytyjczycy nazywali od wsi [Beaurevoir](https://pl.wikipedia.org/wiki/Beaurevoir) linią Beaurevoir. Cztery dni wcześniej 4 Armia [przełamała główną pozycję nad Kanałem Saint-Quentin](/bitwy/bitwa-o-kanal-saint-quentin), a dwa dni wcześniej Francuzi [weszli do Saint-Quentin](/francuzi-odbijaja-saint-quentin). Teraz brytyjska 46 i 32 Dywizja oraz australijska 2 Dywizja zaatakowały na froncie kilkunastu kilometrów od Sequehart po Beaurevoir. Do południa linia była przełamana na całej długości, a Brytyjczycy weszli do Montbrehain, ale po południu niemieckie kontrataki odebrały im część zdobyczy.

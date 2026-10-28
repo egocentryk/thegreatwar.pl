@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Fritz von Below, Georg von der Marwitz]
 result: German success. The Germans broke contact without significant losses, shortened the front by about 40 km and gained 13–14 reserve divisions. The Allies regained a devastated strip of land.
 source: odwrot-na-linie-hindenburga
-sourceHash: f8e3fac53ed079c32702ad9b79be29d42e0f29e1
+sourceHash: d681d265ebf88c3a3980271ad171612312052ccd
+brief:
+  - "From 22 February to 5 April 1917 the German army voluntarily withdrew from the great bulge in the front between Arras and Soissons to a new position, the Siegfriedstellung, which the British called the Hindenburg Line."
+  - "Hindenburg and Ludendorff had the position built after the losses on the Somme. Kaiser Wilhelm II signed the order to retreat on 4 February, when the German divisions on the Somme were exhausted."
+  - "The retreat was covered by the \"Alberich\" undertaking: the Germans blew up roads and bridges, demolished towns and villages, felled trees, filled in wells and carried off the population, turning the belt into a desert."
+  - "The British and French followed across the devastated ground: on 17 March the Australians entered Bapaume, and on 18 March Péronne and Noyon were occupied. By 19–20 March the main German forces had reached the new position."
+  - "The Germans shortened the front by about 40 kilometres and, according to Falls, saved 13–14 divisions. The retreat struck at Nivelle's plan, and the Hindenburg Line was broken only in September 1918."
 ---
 
 In the spring of 1917 the German army on the Western Front did something that neither side had done since the autumn of 1914: it voluntarily handed the enemy a large stretch of conquered ground. Between the end of February and the beginning of April the troops of several German armies withdrew from the great bulge in the front between Arras and Soissons to a new, carefully prepared position, which the Germans called the Siegfriedstellung and the British the Hindenburg Line. The retreat was preceded and covered by an undertaking code-named "Alberich": the systematic destruction of the whole belt of land being abandoned. The Germans blew up roads, bridges and railway lines, demolished towns and villages, felled trees, filled in wells and carried off the population. The British and French, who were preparing for a great spring offensive, had to follow them across a wasteland, and part of their plans lost their point.

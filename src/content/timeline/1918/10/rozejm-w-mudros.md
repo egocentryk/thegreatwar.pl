@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [Imperium Osmańskie, Wielka Brytania, Royal Navy, Dardanele]
 milestone: true
 draft: false
+brief:
+  - "30 października 1918 roku o 21.40 na brytyjskim pancerniku „Agamemnon” w porcie Mudros na Lemnos wiceadmirał Somerset Gough-Calthorpe i minister marynarki Rauf Bej podpisali rozejm między Ententą a Imperium Osmańskim."
+  - "O losie imperium przesądziła kapitulacja Bułgarii, która odcięła Turcję lądem od Niemiec. Na południu Brytyjczycy i Arabowie zajęli już Damaszek i Aleppo, a w Mezopotamii trwała ostatnia ofensywa nad Tygrysem."
+  - "Calthorpe prowadził rokowania sam, bez Francuzów, i postawił termin do 21.00. Rozejm liczył 25 artykułów: Turcja otwierała Dardanele i Bosfor, oddawała forty, wydawała jeńców i demobilizowała armię."
+  - "Najwięcej obaw budziły artykuły 7 i 24, pozwalające sprzymierzonym zająć punkty strategiczne i wilajety ormiańskie. Brytyjczycy skorzystali z nich od razu, zajmując 3 listopada Mosul."
+  - "W południe 31 października umilkły działa na wszystkich frontach osmańskich, a Turcja jako druga z państw centralnych wyszła z wojny. Rozejm otworzył drogę do podziału imperium."
 ---
 
 30 października 1918 roku o 21.40 na pokładzie brytyjskiego pancernika „Agamemnon”, stojącego w porcie [Mudros](https://pl.wikipedia.org/wiki/Mudros) na greckiej wyspie [Lemnos](https://pl.wikipedia.org/wiki/Limnos), podpisano [rozejm](https://pl.wikipedia.org/wiki/Rozejm_w_Mudros) między [Ententą](https://pl.wikipedia.org/wiki/Ententa) a [Imperium Osmańskim](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). W imieniu sprzymierzonych podpis złożył brytyjski naczelny dowódca na Morzu Śródziemnym, wiceadmirał Somerset Gough-Calthorpe, a w imieniu rządu osmańskiego minister marynarki [Rauf Bej](https://pl.wikipedia.org/wiki/Rauf_Orbay), podsekretarz stanu w ministerstwie spraw zagranicznych Reşat Hikmet Bej i podpułkownik sztabu generalnego Sadullah Bej. Działania wojenne miały ustać w czwartek 31 października w południe czasu miejscowego. Cztery lata po tym, jak [flota osmańska ostrzelała rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym, Turcja jako drugie po Bułgarii z [państw centralnych](https://pl.wikipedia.org/wiki/Państwa_centralne) wyszła z wojny.

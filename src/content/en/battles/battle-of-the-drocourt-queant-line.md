@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: Canadian–British victory. The Drocourt–Quéant Line was broken along the whole sector attacked, and on the night of 2/3 September the Germans withdrew behind the Sensée and the Canal du Nord. The Canadian Corps took about 6,000 prisoners and lost over 5,600 men.
 source: bitwa-o-linie-drocourt-queant
-sourceHash: 78d2edcf341c8f775d9f6e98d9a708c874bd7e16
+sourceHash: c7f1c658e0439fdc11c3c2505c95d1370205fe7b
+brief:
+  - "On 2–3 September 1918 General Arthur Currie's Canadian Corps of the British First Army broke the Drocourt–Quéant Line east of Arras, the northern extension of the Hindenburg Line, called by the Germans the Wotan position."
+  - "After a week on the Scarpe Horne and Currie decided to attack only when everything was ready. Currie chose the line's most sensitive point, on both sides of the Arras–Cambrai road, with Mark V tanks and strong artillery."
+  - "At 5 a.m. on 2 September the Canadians crossed both trench lines within a few hours and took Dury and Cagnicourt, and by 11 p.m. the Buissy Switch too. Seven of them received the Victoria Cross for that day."
+  - "At about midday the German Supreme Army Command acknowledged defeat and ordered a retreat behind the Sensée and the Canal du Nord and to the Hindenburg Line. From 1 to 3 September the corps lost 297 officers and 5,325 other ranks."
+  - "It was one of the most important victories of the Hundred Days Offensive: the Germans lost hope of wintering quietly before the Hindenburg Line, and Currie inclined to rank it above 8 August at Amiens."
 ---
 
 The Battle of the Drocourt–Quéant Line was the assault in which, on 2 September 1918, the Canadian Corps of General [Arthur Currie](/postacie/arthur-currie), part of the British First Army, broke through the strongest German position east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). The Drocourt–Quéant Line, which the Germans counted as part of the Wotan position, was the northern extension of the Hindenburg Line and barred the way to the [Douai](https://pl.wikipedia.org/wiki/Douai) plain and to [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). After a week of heavy fighting [on the Scarpe](/bitwy/bitwa-nad-scarpe-1918) the Canadians attacked it at dawn, crossed both its trench lines within a few hours, and by evening had also taken the switch position behind it and the villages of Cagnicourt and Villers-lès-Cagnicourt. To their right the British XVII Corps of the Third Army broke into the southern end of the line, where it joined the Hindenburg Line. That same day the German Supreme Army Command ordered a retreat: during the night the Germans broke contact with the Canadians and fell back behind the Sensée and the Canal du Nord, and further south to the positions from which they had launched their spring offensive in March.

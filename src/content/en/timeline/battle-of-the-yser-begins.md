@@ -2,7 +2,12 @@
 title: Battle of the Yser begins
 summary: On 16 October 1914 the Germans attacked Diksmuide. By Belgian reckoning this began the Battle of the Yser, in defence of the last strip of their country.
 source: poczatek-bitwy-nad-yser
-sourceHash: 30b374dcdb5ba73ebae5a69ac62a94a582b2cba9
+sourceHash: 5feca5735f4c7829e10a4cd697ab8e2f3f6f0f08
+brief:
+  - "On 16 October 1914 the Germans attacked Diksmuide on the Yser, held by the Belgians and French marines. The Belgians date the Battle of the Yser from this day, though the main German attack began two days later."
+  - "After the fall of Antwerp the exhausted Belgian army took up the river line from Diksmuide to the sea. King Albert I agreed to fight here and called for anyone speaking of retreat without orders to be regarded as a traitor."
+  - "Diksmuide was held by Rear-Admiral Pierre Ronarc'h's brigade of fusiliers marins, some 6,500 men. Ordered to hold the town for a few days, he held it for more than three weeks."
+  - "On 18 October the main attack of Albrecht of Württemberg's Fourth Army began, and the Belgians lost their advanced posts. When the Germans crossed the river, the Belgians opened the sluices at Nieuport and let the sea into the plain."
 ---
 
 On 16 October 1914 the first German units attacked [Diksmuide](https://pl.wikipedia.org/wiki/Diksmuide), a small town on the river [Yser](https://pl.wikipedia.org/wiki/IJzer) held by the Belgians and French marines. The Belgians date the [Battle of the Yser](https://pl.wikipedia.org/wiki/Bitwa_nad_Yser) from this day, and the British chronology of the war, recording it under this date, notes that it is the Belgian date. The main German attack began two days later. At stake was whether the Belgian army would hold the last strip of its country and whether the Germans would break through along the coast to the Channel ports.

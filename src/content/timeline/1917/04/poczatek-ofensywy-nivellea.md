@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Robert Nivelle, czołgi]
 milestone: true
 draft: false
+brief:
+  - "16 kwietnia 1917 roku o szóstej rano francuska piechota zaatakowała na froncie długości około 40 kilometrów, od Laffaux pod Soissons po Courcy pod Reims, na grzbiet Chemin des Dames."
+  - "Generał Robert Nivelle zapowiadał przełamanie frontu w ciągu 24, najwyżej 48 godzin. Generałowie Micheler i Pétain nie byli tego pewni, a Niemcy od tygodni wiedzieli o ofensywie."
+  - "Karabiny maszynowe ukryte w betonowych schronach i podziemnych kamieniołomach zatrzymały Francuzów na stokach. Senegalscy strzelcy pod Hurtebise cofnęli się po krótkiej walce."
+  - "Pod Berry-au-Bac po raz pierwszy weszły do boju francuskie czołgi Schneider CA1. Komendant Louis Bossut zginął, a według francuskich zestawień zniszczono 57 czołgów."
+  - "Wieczorem Francuzi w większości miejsc trzymali tylko pierwszą linię niemieckich okopów, choć wzięli ponad 10 tysięcy jeńców. Nazwa Chemin des Dames stała się we Francji symbolem bezsensownej rzezi."
 ---
 
 16 kwietnia 1917 roku o szóstej rano, w zimny i mglisty poniedziałek, francuska piechota wyszła z okopów na froncie długości około 40 kilometrów, od Laffaux pod [Soissons](https://pl.wikipedia.org/wiki/Soissons) po Courcy pod [Reims](https://pl.wikipedia.org/wiki/Reims). Zaczęło się główne uderzenie [ofensywy Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a), na którą Francja czekała całą zimę. Dwie armie Rezerwowej Grupy Armii generała Alfreda Michelera, 6 generała [Charles'a Mangina](/postacie/charles-mangin) i 5 generała Oliviera Mazela, miały jednym gwałtownym ciosem przejść cały system niemieckich umocnień na grzbiecie Chemin des Dames i na równinie nad [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Wódz naczelny, generał [Robert Nivelle](/postacie/robert-nivelle), zapowiadał przełamanie frontu w ciągu 24, najwyżej 48 godzin. W rozkazie do żołnierzy pisał: „Nadeszła godzina! Ufności! Odwagi! Niech żyje Francja!”.

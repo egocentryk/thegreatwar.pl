@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Francuzi zajęli część grzbietu, ale nie zdobyli 
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Alzacja, Joseph Joffre]
 milestone: true
+brief:
+  - "Od 20 lipca do 16 października 1915 roku francuscy strzelcy alpejscy szturmowali zalesiony grzbiet Linge w Wogezach, na zachód od Colmaru. Była to najkrwawsza bitwa w Wogezach latem 1915 roku."
+  - "Generał Joseph Joffre wolał „obejście górą” i wbrew dowódcom na miejscu wstrzymał natarcie w dolinie Fecht. Niemcy zamienili grzbiet w twierdzę z okopów, betonowych schronów i zasieków."
+  - "W lipcu i sierpniu Francuzi za cenę ogromnych strat zdobyli część grzbietu i na krótko kilka szczytów. 26 lipca strzelcy wdarli się na Lingekopf i opanowali przełęcz Collet du Linge."
+  - "Od końca sierpnia Niemcy kontratakowali, używając gazów i miotaczy ognia. Gdy w połowie października walki wygasły, linia frontu prawie się nie zmieniła."
+  - "Bitwa nie przyniosła żadnej ze stron korzyści strategicznych, a obie straciły tysiące zabitych i rannych. Linge przeszło do francuskiej pamięci jako „grobowiec strzelców”."
 ---
 
 Bitwa o Le Linge była najkrwawszym starciem w Wogezach latem 1915 roku. Przez prawie trzy miesiące francuskie bataliony [strzelców alpejskich](https://pl.wikipedia.org/wiki/Strzelcy_alpejscy) szturmowały zalesiony grzbiet Linge w [Wogezach](https://pl.wikipedia.org/wiki/Wogezy), na zachód od [Colmaru](https://pl.wikipedia.org/wiki/Colmar), który Niemcy zamienili w twierdzę z okopów, betonowych schronów i zasieków. Walczono na odcinku długim na dwa–trzy kilometry, często na odległość rzutu granatem. W lipcu i sierpniu Francuzi zdobyli część grzbietu i na krótko kilka szczytów, a od końca sierpnia Niemcy kontratakowali, używając gazów i miotaczy ognia. Gdy w połowie października walki wygasły, linia frontu prawie się nie zmieniła, a obie strony straciły tysiące zabitych i rannych. Linge przeszło do francuskiej pamięci jako „grobowiec strzelców”.

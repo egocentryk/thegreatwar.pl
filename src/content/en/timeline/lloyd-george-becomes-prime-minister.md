@@ -2,7 +2,12 @@
 title: Lloyd George becomes prime minister
 summary: On 7 December 1916 David Lloyd George became Prime Minister. He relied on the Conservatives and Labour, while most Liberals backed Asquith.
 source: lloyd-george-premierem
-sourceHash: 4b4d47bd14e4f1aad623abf73b63846c2605b6f4
+sourceHash: 840229fa73b40b38935298b242963c48fb906ed7
+brief:
+  - "On 7 December 1916 David Lloyd George accepted the office of Prime Minister of the United Kingdom from King George V, two days after Herbert Henry Asquith had resigned."
+  - "He formed his cabinet in a little over a day, relying on the Conservatives, Labour and part of the Liberals, because almost all the leading Liberals sided with Asquith."
+  - "The war was now to be directed by a five-member War Cabinet headed by the prime minister, which first met on 9 December, with Maurice Hankey as its secretary."
+  - "The split in the Liberal Party proved lasting, and Lloyd George failed to bring the generals under his control, although after the victory of 1918 he was hailed as \"the man who won the war\"."
 ---
 
 At about 7.30 p.m. on 7 December 1916 [David Lloyd George](/postacie/david-lloyd-george) presented himself to King [George V](/postacie/jerzy-v) and accepted the office of Prime Minister of the United Kingdom. Two days earlier [Herbert Henry Asquith](/postacie/herbert-henry-asquith) [had resigned](/dymisja-asquitha), and Lloyd George was asked to form a government on the evening of 6 December, which is why some studies date his premiership from that day. Forming the cabinet took him a little over a day. He managed it even though almost all the leading Liberals sided with Asquith, and Asquith himself was convinced that his rival would fail.

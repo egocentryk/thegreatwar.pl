@@ -9,7 +9,13 @@ sides:
     commanders: [Archduke Eugen of Austria, Otto von Below, Konrad Krafft von Dellmensingen, Svetozar Boroević, Alfred Krauss]
 result: Decisive Central Powers victory. The Italian 2nd Army was routed and the whole Italian army fell back from the Isonzo more than a hundred kilometres, behind the Piave. The Italians lost nearly 300,000 prisoners and more than 3,000 guns, but stopped the enemy on the Piave and Monte Grappa.
 source: dwunasta-bitwa-nad-isonzo
-sourceHash: fe45abe4a86fd52097bd8778df73cce950dd589c
+sourceHash: 5dccff9c4b5fc801ac09e557b55e296e6df57564
+brief:
+  - "The Twelfth Battle of the Isonzo, better known as the Battle of Caporetto, fought from 24 October to 9 November 1917, was the greatest defeat of the Italian army in the whole war."
+  - "The exhausted Austrians asked the Germans for help. General Otto von Below's new 14th Army was to break the front with a narrow, deep blow between Bovec and Tolmin, using a short bombardment and assault detachments."
+  - "On 24 October, after a night gas bombardment, the infantry advanced along the Isonzo valley floor and by the afternoon was in Kobarid. Within three days the whole Italian front from the Carnic Alps to the sea collapsed."
+  - "General Luigi Cadorna ordered a retreat behind the Tagliamento and then behind the Piave. Nearly 300,000 Italians were taken prisoner, and Italy lost almost half its artillery."
+  - "The front held on the Piave and Monte Grappa, Diaz replaced Cadorna, and at Rapallo the Allies set up the Supreme War Council. The Central Powers, however, did not achieve their strategic aim."
 ---
 
 The Twelfth Battle of the Isonzo, better known as the Battle of Caporetto, was the greatest defeat of the Italian army in the whole war. On 24 October 1917 the new German 14th Army of General [Otto von Below](/postacie/otto-von-below), made up of German and Austro-Hungarian divisions, struck on the upper [Isonzo](https://pl.wikipedia.org/wiki/Socza) at [Bovec](https://pl.wikipedia.org/wiki/Bovec) and [Tolmin](https://pl.wikipedia.org/wiki/Tolmin), at the weakest point of the Italian 2nd Army. After a night gas bombardment the infantry passed through the Italian lines along the valley floor in rain and fog, and by the afternoon of the first day the Germans were in [Kobarid](https://pl.wikipedia.org/wiki/Kobarid), in Italian Caporetto. Within three days the whole Italian front from the Carnic Alps to the sea collapsed. General [Luigi Cadorna](/postacie/luigi-cadorna) ordered a retreat first behind the [Tagliamento](https://pl.wikipedia.org/wiki/Tagliamento) and then behind the [Piave](https://pl.wikipedia.org/wiki/Piawa), some hundred and fifty kilometres from the starting line. Nearly 300,000 Italian soldiers were taken prisoner, and hundreds of thousands of scattered soldiers and civilian refugees flooded the roads of Friuli and Venetia. The front came to a halt only on the Piave and Monte Grappa, and Cadorna lost his post.

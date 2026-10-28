@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie w obronie. Niemcy posunęli się 12 kwietnia o ki
 authors: [Natalia]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Australia]
 milestone: true
+brief:
+  - "W dniach 12–15 kwietnia 1918 roku niemiecka 6 Armia nacierała nad Lys na Hazebrouck, najważniejszy węzeł kolejowy na tyłach brytyjskiego frontu we Flandrii, przez który szło zaopatrzenie dla łuku Ypres."
+  - "Brytyjczycy mieli przeciw niej tylko wyczerpane, wymieszane dywizje. 12 kwietnia Niemcy zrobili w ich froncie dwa wyłomy i doszli na około 8 kilometrów od miasta, a Haig wzywał do walki „plecami do muru”."
+  - "13 kwietnia 4 Brygada Gwardii przez cały dzień broniła się pod Vieux-Berquin przed czterema niemieckimi pułkami i została prawie wybita, dając czas 1 Dywizji Australijskiej na zajęcie linii przed lasem Nieppe."
+  - "Australijczycy i świeża 5 Dywizja, ściągnięta z Włoch, zamknęli drogę przez las Nieppe. 14 i 15 kwietnia niemieckie ataki rozbijały się o ich linię, a 6 Armia meldowała, że jej natarcie wygasło."
+  - "Pod Hazebrouck niemieckie natarcie we Flandrii po raz pierwszy wyraźnie straciło rozpęd. Miasto pozostało w rękach brytyjskich, a Niemcy przenieśli wysiłek na północ, przeciw wzgórzom Flandrii z Kemmelbergiem."
 ---
 
 Bitwa pod Hazebrouck była walką o drogę do najważniejszego węzła kolejowego na tyłach brytyjskiego frontu we Flandrii. Po trzech dniach [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918) niemiecka 6 Armia wbiła się głęboko w równinę na zachód od Armentières i 12 kwietnia 1918 roku ruszyła na [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), przez które szło zaopatrzenie z portów nad kanałem La Manche dla całej brytyjskiej 2 Armii i dla łuku Ypres. Brytyjczycy mieli przeciw niej tylko wyczerpane, wymieszane dywizje, z których większość przeszła już w marcu przez walki nad Sommą. Pierwszego dnia Niemcy zrobili w ich froncie dwa wyłomy, głębokie na kilka kilometrów, i doszli na około 8 kilometrów od miasta. 13 kwietnia, w czasie gdy z pociągów wysiadała przerzucona spod Amiens 1 Dywizja Australijska, 4 Brygada Gwardii przez cały dzień broniła się przed czterema niemieckimi pułkami pod Vieux-Berquin i została prawie wybita. Za nią Australijczycy i świeża 5 Dywizja, ściągnięta z Włoch, zamknęli drogę przez las Nieppe. 14 i 15 kwietnia niemieckie ataki rozbijały się o ich linię, a niemiecka 6 Armia meldowała, że jej natarcie wygasło.

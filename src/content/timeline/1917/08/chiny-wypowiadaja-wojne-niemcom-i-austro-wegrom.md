@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [Chiny, Niemcy, Austro-Węgry, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "14 sierpnia 1917 roku o dziesiątej rano Republika Chińska ogłosiła stan wojny z Niemcami i Austro-Węgrami. Proklamację podpisał prezydent Feng Guozhang, a wszystkie traktaty z tymi państwami unieważniono."
+  - "Od zerwania stosunków z Niemcami 14 marca minęło pięć miesięcy sporu, w którym upadł prezydent Li Yuanhong i rozwiązano parlament. Premier Duan Qirui, który parł do wojny, nie miał już przeciwników w Pekinie."
+  - "Duan liczył na miejsce na konferencji pokojowej, odzyskanie niemieckich praw w Szantungu i zagraniczne pożyczki. Japonia miała jednak tajne obietnice aliantów, że poprą jej roszczenia do Szantungu."
+  - "Chińskie wojsko nigdy nie wyruszyło do Europy, a najważniejszym wkładem Chin była praca ponad 140 tysięcy robotników na tyłach frontu zachodniego. Południe pod wodzą Sun Jat-sena nie uznało decyzji."
+  - "Na konferencji w Paryżu mocarstwa przyznały niemieckie prawa w Szantungu Japonii, co dało początek Ruchowi 4 Maja. Chiny odmówiły podpisania traktatu wersalskiego."
 ---
 
 14 sierpnia 1917 roku o dziesiątej rano Republika Chińska ogłosiła, że jest w stanie wojny z Niemcami i Austro-Węgrami. Proklamację podpisał prezydent [Feng Guozhang](https://pl.wikipedia.org/wiki/Feng_Guozhang), który od dwóch tygodni urzędował w [Pekinie](https://pl.wikipedia.org/wiki/Pekin). Przypominała, że Chiny próbowały skłonić Niemcy do zmiany polityki podwodnej, a gdy to się nie udało, w obronie prawa międzynarodowego i życia swoich obywateli zerwały z nimi stosunki. Teraz wypowiadały wojnę także Austro-Węgrom, bo i one prowadziły tę samą politykę „bez żadnego złagodzenia”. Jeszcze przed południem chińskie Ministerstwo Spraw Zagranicznych zawiadomiło poselstwa, że wszystkie traktaty z Niemcami i Austro-Węgrami zostały unieważnione, podobnie jak te postanowienia protokołu z 1901 roku, kończącego [powstanie bokserów](https://pl.wikipedia.org/wiki/Powstanie_bokserów), i innych umów międzynarodowych, które dotyczyły tylko stosunków Chin z tymi dwoma państwami. Chiny zapowiedziały, że będą przestrzegać [konwencji haskich](https://pl.wikipedia.org/wiki/Konwencje_haskie_z_1899_i_1907_roku) i innych umów o humanitarnym prowadzeniu wojny.

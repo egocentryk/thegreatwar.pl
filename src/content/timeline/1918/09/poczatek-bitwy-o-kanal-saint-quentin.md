@@ -10,6 +10,12 @@ dayOrder: 6
 tags: [Brytyjski Korpus Ekspedycyjny, Stany Zjednoczone, Australia, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "29 września 1918 roku o 5.50 brytyjska 4 Armia gen. Henry'ego Rawlinsona uderzyła na Linię Hindenburga na północ od Saint-Quentin. Był to ostatni z czterech ciosów, które Foch zadawał Niemcom dzień po dniu."
+  - "W gęstej mgle brytyjska 46 Dywizja przeprawiła się przez głęboki wykop kanału pod Bellenglise i Riqueval, między innymi na kołach ratunkowych z promów, i zdobyła nietknięty most w Riqueval."
+  - "Dywizja, która w 1915 i 1916 roku ponosiła klęski, wzięła tego dnia 4200 jeńców, tracąc mniej niż 800 ludzi. Po południu połączyła się z Australijczykami nacierającymi od strony tunelu."
+  - "Nad tunelem pod Bellicourt amerykańska 30 i 27 Dywizja oraz australijska 3 i 5 Dywizja toczyły ciężkie i chaotyczne walki. Niemcy, którzy przeczekali pierwszą falę w schronach, strzelali w plecy następnym oddziałom."
+  - "Wieczorem 4 Armia zdobyła większą część głównej pozycji Linii Hindenburga, choć nad tunelem walka trwała. Tego samego dnia w Spa Ludendorff i Hindenburg zażądali natychmiastowego rozejmu."
 ---
 
 29 września 1918 roku o 5.50 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) uderzyła na Linię Hindenburga na północ od [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin). Był to ostatni z czterech ciosów, które marszałek [Ferdinand Foch](/postacie/ferdinand-foch) zadawał Niemcom dzień po dniu: 26 września ruszyła [ofensywa Moza-Argonne](/poczatek-ofensywy-moza-argonne), 27 września Kanadyjczycy i Brytyjczycy [przeszli przez Canal du Nord](/poczatek-bitwy-o-kanal-du-nord), a 28 września Belgowie i Brytyjczycy [uderzyli pod Ypres](/poczatek-piatej-bitwy-pod-ypres). Tego dnia w gęstej mgle brytyjska 46 Dywizja przeprawiła się przez głęboki wykop kanału pod Bellenglise i Riqueval i wzięła ponad cztery tysiące jeńców. Na północ od niej, nad podziemnym odcinkiem kanału pod Bellicourt, dwie dywizje amerykańskie i dwie australijskie przez cały dzień toczyły ciężkie i chaotyczne walki. Zaczęła się bitwa o Kanał Saint-Quentin, najważniejsza z [bitew o Linię Hindenburga](/bitwy/bitwy-o-linie-hindenburga).

@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Natarcia niemieckiej 4 i 6 Armii na wzgórz
 authors: [Natalia]
 tags: [Wielka Brytania, Belgia, Francja, Niemcy]
 milestone: true
+brief:
+  - "Pierwsza bitwa o wzgórze Kemmel toczyła się od 17 do 19 kwietnia 1918 roku. Była częścią niemieckiej ofensywy we Flandrii, nazywanej przez Brytyjczyków bitwą nad Lys."
+  - "Pasmo wzgórz z Kemmelbergiem zamykało drogę znad Lys do Ypres i dalej ku kanałowi La Manche. Natarcie „Tannenberg” miało ścisnąć łuk Ypres z dwóch stron jak kleszcze."
+  - "17 kwietnia niemiecka 4 Armia gen. Sixta von Armina uderzyła na wzgórza, ale zmęczone dywizje brytyjskiej 2 Armii Plumera, z Australijczykami pod Meteren, utrzymały swoje linie."
+  - "Pod Merkem Belgowie odbili kontratakami wszystko, co stracili rano, i wzięli prawie osiemset jeńców. Było to ich pierwsze tak wyraźne zwycięstwo od bitwy nad Yser w 1914 roku."
+  - "19 kwietnia obronę wzgórza Kemmel przejęła francuska 28 Dywizja. Zwycięstwo okazało się tylko odroczeniem, bo Niemcy zdobyli wzgórze sześć dni później, 25 kwietnia."
 ---
 
 Pierwsza bitwa o wzgórze Kemmel była próbą rozstrzygnięcia niemieckiej ofensywy we Flandrii jednym ciosem w pasmo wzgórz, które zamykało drogę od równiny nad Lys do Ypres i dalej ku kanałowi La Manche. Po zdobyciu [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), Meteren i Wytschaete Niemcy stanęli u stóp łańcucha wzniesień od Mont des Cats przez Mont Noir i Mont Rouge po [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), najwyższy i najbardziej wysunięty z nich. 17 kwietnia 1918 roku 4 Armia generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin), wspierana przez prawe skrzydło 6 Armii, uderzyła od południa na wzgórza, a równocześnie spod lasu Houthulst na armię belgijską na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Oba natarcia, zaplanowane jako dwa ramiona kleszczy wokół łuku Ypres, poniosły całkowitą klęskę. Zmęczone dywizje brytyjskiej 2 Armii generała [Herberta Plumera](/postacie/herbert-plumer) utrzymały swoje linie, a Belgowie pod [Merkem](https://pl.wikipedia.org/wiki/Merkem) odbili wszystko, co stracili rano, i wzięli prawie osiemset jeńców. 18 kwietnia Niemcy ponowili już tylko słabe ataki, a 19 kwietnia obronę wzgórza Kemmel przejęła francuska 28 Dywizja. Niepowodzenie omal nie skłoniło Niemców do przerwania całej ofensywy we Flandrii.

@@ -10,6 +10,11 @@ dayOrder: 5
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, wyścig do morza]
 milestone: true
 draft: false
+brief:
+  - "12 października 1914 roku brytyjski korpus kawalerii gen. Edmunda Allenby'ego zdobył we francuskiej Flandrii wzgórze Mont des Cats. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Messines."
+  - "Marszałek French i gen. Foch uzgodnili wspólne natarcie na wschód. Kawaleria Allenby'ego miała osłaniać lewe skrzydło III Korpusu, a naprzeciw niej stał niemiecki IV Korpus Kawalerii gen. von Hollena."
+  - "Wzgórze zdobyła pod wieczór 3 Brygada Kawalerii, atakując pieszo. Wśród rannych pozostawionych przez Niemców był dziewiętnastoletni książę Maksymilian Heski, siostrzeniec Wilhelma II, który wkrótce zmarł."
+  - "Po wycofaniu się Niemców za Lys Brytyjczycy zajęli Kemmel, Messines i Wytschaete i po raz pierwszy od Szwajcarii do Morza Północnego ciągnęła się nieprzerwana linia sprzymierzonych. Była to jednak ostatnia chwila przewagi aliantów."
 ---
 
 12 października 1914 roku brytyjski korpus kawalerii generała [Edmunda Allenby'ego](/postacie/edmund-allenby) ruszył we francuskiej Flandrii na wschód, w stronę granicy belgijskiej. Pod wieczór, po zaciętej walce, jego pułki zdobyły wzgórze Mont des Cats, na którym broniła się niemiecka kawaleria. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Messines. Jej stawką był niewysoki grzbiet między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper), o który kawalerzyści mieli walczyć przez kolejne trzy tygodnie.

@@ -2,7 +2,12 @@
 title: First Battle of Albert begins
 summary: In September 1914 the French and Germans clashed at Albert and Bapaume. On the heights above the Somme a front formed that held until the Somme battle of 1916.
 source: poczatek-pierwszej-bitwy-pod-albert
-sourceHash: bb7df46a00a5e4f64cd76ed63030d2b95b4bf062
+sourceHash: 8a991f454b6818144ecff334ef4a448fb943b371
+brief:
+  - "On 22 September 1914, according to the British chronology of the war, the First Battle of Albert began in the Somme department. Most modern historians date the battle proper to 25–29 September."
+  - "After the indecisive Battle of the Aisne both sides tried to turn the enemy's open flank. General Noël de Castelnau's French Second Army and Crown Prince Rupprecht of Bavaria's German Sixth Army clashed north of the Somme."
+  - "On 25 September the French advanced east from Albert but ran into attacking Germans, who took Bapaume and reached Thiepval on 27 September. On 28 September the French stopped them on a line from Maricourt through Fricourt to Thiepval."
+  - "The fighting ended without a decision, and the front between Albert and Bapaume survived almost unchanged until the summer of 1916. It was here, on 1 July 1916, that the Battle of the Somme began."
 ---
 
 On 22 September 1914, according to the British chronology of the war, the First Battle of [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) began, named after a small town in the Somme department. The French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and the German Sixth Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) tried to outflank each other north of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). The fighting ended on 29 September without a decision, and the front that then formed between Albert and [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) survived almost unchanged until the summer of 1916.

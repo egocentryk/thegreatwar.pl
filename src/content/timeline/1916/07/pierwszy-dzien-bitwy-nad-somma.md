@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Brytyjski Korpus Ekspedycyjny, Francja, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "1 lipca 1916 roku o 7.30 rano brytyjska piechota i francuska 6 Armia ruszyły do natarcia nad Sommą. Wielka ofensywa uzgodniona w Chantilly miała przede wszystkim odciążyć Francuzów pod Verdun."
+  - "Natarcie poprzedził siedmiodniowy ostrzał, który jednak nie dosięgnął głębokich niemieckich schronów. Obrońcy zdążyli wyjść na górę i kosili ogniem karabinów maszynowych fale piechoty idącej równym krokiem."
+  - "Na północ od drogi z Albert do Bapaume natarcie załamało się prawie wszędzie, mimo wyłomu Dywizji Ulsterskiej w reducie Schwaben. 1 batalion z Nowej Fundlandii pod Beaumont-Hamel stracił 710 ludzi."
+  - "Na południu Francuzi i prawe skrzydło brytyjskie zdobyli wszystkie wyznaczone cele, m.in. wieś Montauban. Francuska 6 Armia wzięła ponad 4 tysiące jeńców przy niewielkich stratach."
+  - "Armia brytyjska straciła tego dnia 57 470 ludzi, w tym 19 240 zabitych i zmarłych z ran, co uczyniło go najkrwawszym dniem w jej dziejach. Dla Brytyjczyków 1 lipca 1916 roku stał się symbolem całej wojny."
 ---
 
 W sobotę 1 lipca 1916 roku o 7.30 rano brytyjska piechota wyszła z okopów na froncie długim na ponad 20 kilometrów, od [Gommecourt](https://pl.wikipedia.org/wiki/Gommecourt_(Pas-de-Calais)) na północy po [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) nad [Sommą](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Obok niej, po obu brzegach rzeki, ruszyła francuska 6 Armia. Tak zaczęła się wielka ofensywa, którą sprzymierzeni uzgodnili [w grudniu 1915 roku w Chantilly](/druga-konferencja-w-chantilly) i która po [niemieckim uderzeniu pod Verdun](/poczatek-bitwy-pod-verdun) miała przede wszystkim odciążyć Francuzów. Dzień skończył się dwojako. Na południu Francuzi i prawe skrzydło brytyjskie zdobyli wszystkie wyznaczone cele. Na północ od drogi z [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) do [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) natarcie załamało się prawie wszędzie w ogniu niemieckich karabinów maszynowych. Według brytyjskiej historii oficjalnej armia brytyjska straciła tego dnia 57 470 zabitych, rannych, zaginionych i wziętych do niewoli, w tym 19 240 zabitych i zmarłych z ran. Był to najkrwawszy dzień w jej dziejach.

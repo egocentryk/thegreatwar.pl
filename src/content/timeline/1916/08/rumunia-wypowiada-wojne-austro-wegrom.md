@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Rumunia, Austro-Węgry, wypowiedzenie wojny, Ferdynand I Rumuński]
 milestone: true
 draft: false
+brief:
+  - "27 sierpnia 1916 roku rada koronna w Bukareszcie zatwierdziła wejście Rumunii do wojny po stronie Ententy. Wieczorem poseł Edgar Mavrocordat wręczył w Wiedniu notę o stanie wojny z Austro-Węgrami."
+  - "Traktat z Ententą, podpisany dziesięć dni wcześniej, zobowiązywał Rumunię do uderzenia najpóźniej 28 sierpnia. Na radzie koronnej jedynie Petre P. Carp opowiedział się za wojną u boku Niemiec."
+  - "Celem wojny był Siedmiogród i inne ziemie węgierskie zamieszkane przez Rumunów, a także Bukowina. Ententa obiecała Rumunii cały Siedmiogród, Banat, Kriszanę, Marmarosz i większą część Bukowiny."
+  - "Ion I.C. Brătianu wybrał chwilę sukcesów ofensywy Brusiłowa, ale według Cyrila Fallsa zwlekał zbyt długo. Tego samego wieczoru rumuńskie straże przednie przekroczyły przełęcze karpackie i weszły do Siedmiogrodu."
+  - "Wkrótce wojnę Rumunii wypowiedziały Niemcy, Turcja i Bułgaria. W grudniu 1916 roku padł Bukareszt, ale Rumunia przetrwała klęskę i po wojnie przyłączyła Siedmiogród, Bukowinę i Besarabię."
 ---
 
 27 sierpnia 1916 roku, w niedzielę (14 sierpnia według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), obowiązującego wtedy w Rumunii), w [Pałacu Cotroceni](https://pl.wikipedia.org/wiki/Pałac_Cotroceni) w [Bukareszcie](https://pl.wikipedia.org/wiki/Bukareszt) zebrała się rada koronna. Król [Ferdynand I](/postacie/ferdynand-i-rumunski) i premier [Ion I.C. Brătianu](/postacie/ion-bratianu) przedstawili najważniejszym politykom kraju decyzję, która w istocie już zapadła: [Rumunia](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) przystępuje do wojny po stronie Ententy. Tego samego wieczoru, około godziny 21, poseł rumuński w [Wiedniu](https://pl.wikipedia.org/wiki/Wiedeń) Edgar Mavrocordat wręczył w austro-węgierskim ministerstwie spraw zagranicznych notę, w której Rumunia oświadczała, że od tej chwili uważa się za będącą w stanie wojny z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry). Rząd ogłosił powszechną mobilizację. Według austriackiej historii oficjalnej o tej samej godzinie rumuńskie straże przednie przekroczyły przełęcze karpackie i weszły do Siedmiogrodu.

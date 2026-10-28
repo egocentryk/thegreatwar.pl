@@ -2,7 +2,13 @@
 title: First airship raid on England
 summary: On 19 January 1915 the airships L 3 and L 4 bombed Great Yarmouth, King's Lynn and Norfolk villages. Four people died. It was the first airship raid on England.
 source: pierwszy-nalot-sterowcow-na-anglie
-sourceHash: fecd72f26323972ce1b3c3f97767165d60bd5a39
+sourceHash: 09d916150613366c2e432bfb6f2e68973b24656e
+brief:
+  - "On the evening of 19 January 1915 the German naval airships L 3 and L 4 bombed Great Yarmouth, King's Lynn and several Norfolk villages. It was the first airship raid on Great Britain."
+  - "Only at the beginning of January 1915 had Kaiser Wilhelm II agreed to attacks on military targets on the English coast, but not on London. The targets were the Humber area and the Thames estuary."
+  - "A strong wind drove the airships over Norfolk, more than 100 kilometres south of the Humber. The crews did not even know which towns they had bombed, and not one target on the list was hit."
+  - "Four people were killed and sixteen wounded. Samuel Smith and Martha Taylor of Great Yarmouth were the first people in Great Britain killed as a result of an air raid."
+  - "The raid opened a campaign that lasted, with breaks, until 1918. In more than fifty airship raids over 500 people were killed in Great Britain, most of them civilians."
 ---
 
 On the evening of 19 January 1915 two German naval [airships](https://pl.wikipedia.org/wiki/Sterowiec), L 3 and L 4, appeared over the county of [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)) in eastern England. They dropped bombs on [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth), [King's Lynn](https://pl.wikipedia.org/wiki/King’s_Lynn) and several coastal villages. Four people were killed and more than a dozen wounded. It was the first airship raid on Great Britain and the first in which people were killed on British soil. A third airship, L 6, turned back because of a breakdown before it reached England.

@@ -2,7 +2,12 @@
 title: Japan declares war on Germany
 summary: On 23 August 1914 Japan declared war on Germany. The war spread to the Far East and the Pacific, and Japan reached for Germany's possessions in Asia.
 source: japonia-wypowiada-wojne-niemcom
-sourceHash: e1dead4bd47db80336bdaf3c58562294647b5be1
+sourceHash: 74631a3488d08f60c12b7c9e09a824ad72550a2c
+brief:
+  - "On 23 August 1914 Japan declared war on Germany, the first state outside Europe to enter the war as an independent participant. The conflict now spread to the Far East and the Pacific."
+  - "Japan had been Britain's ally since 1902, but Ōkuma Shigenobu's government saw the war as a chance to seize Germany's possessions in Asia. Its ultimatum of 15 August went unanswered."
+  - "In early September Japanese troops landed on the Shantung peninsula and besieged Tsingtao, which capitulated on 7 November 1914. In October the fleet occupied the Marianas, the Carolines and the Marshall Islands."
+  - "At little cost Japan strengthened its position in China and the Pacific. After the war it sat among the victors in Paris and received the former German islands as a League of Nations mandate."
 ---
 
 On 23 August 1914 [Japan](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) declared war on Germany. It was the first state outside Europe to enter the war as an independent participant rather than as part of a European empire. The conflict, which had begun in the Balkans, now also spread to the Far East and the Pacific.

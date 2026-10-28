@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "29 października 1914 roku o świcie, w gęstej mgle, niemiecka piechota uderzyła na brytyjskie pozycje przy skrzyżowaniu dróg pod Gheluvelt, na wschód od Ypres. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Gheluvelt."
+  - "Po niepowodzeniu pod Langemarck Falkenhayn postanowił uderzyć między Gheluvelt a Messines. Nowa grupa armijna gen. Maxa von Fabecka otrzymała około 260 ciężkich dział, a pięć jej świeżych dywizji podeszło nocą niezauważonych."
+  - "Bawarski 16 Rezerwowy Pułk Piechoty, w którym służył Adolf Hitler, wdarł się w linię przy drodze z Menin. Gwardziści stracili skrzyżowanie, a sam batalion Grenadier Guards stracił tego dnia 470 ludzi."
+  - "Kontrataki odzyskały prawie wszystkie okopy, ale nie skrzyżowanie. Haig miał rano w odwodzie cztery brygady, a wieczorem ani jednej nienaruszonej."
+  - "30 października grupa Fabecka zdobyła Zandvoorde, wybijając dwa szwadrony Life Guards, i zepchnęła kawalerię spod Hollebeke. Niemcy stanęli około pięciu kilometrów od Ypres, a natarcie na samo Gheluvelt się nie powiodło."
 ---
 
 29 października 1914 roku o świcie, w gęstej mgle, niemiecka piechota uderzyła na brytyjskie pozycje przy skrzyżowaniu dróg pod wsią [Gheluvelt](https://pl.wikipedia.org/wiki/Geluveld), na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Gheluvelt, drugi i najbardziej krytyczny etap [pierwszej bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Niemcy zdobyli skrzyżowanie i zadali ciężkie straty najlepszym batalionom brytyjskiej gwardii. Była to jednak tylko przygrywka. Za ich linią kończyło właśnie koncentrację nowe zgrupowanie uderzeniowe generała Maxa von Fabecka, które 30 października ruszyło do natarcia na południowy wschód od Ypres.

@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Stany Zjednoczone, Niemcy, czołgi]
 milestone: true
 draft: false
+brief:
+  - "8 października 1918 roku o 4.30 rano brytyjska 3 Armia gen. Juliana Bynga, a czterdzieści minut później 4 Armia gen. Rawlinsona uderzyły na froncie ponad 27 kilometrów, od Sequehart po przedmieścia Cambrai."
+  - "Pięć dni wcześniej 4 Armia wdarła się w linię Beaurevoir, więc przed sprzymierzonymi były już tylko niedokończone okopy i wsie zamienione w gniazda karabinów maszynowych. Niemcy szykowali się do odwrotu."
+  - "Amerykańska 30 Dywizja z czołgami zdobyła Brancourt-le-Grand i Prémont, biorąc ponad 1500 jeńców, ale Korpus Kawalerii nie zdołał przebić się na otwarty teren."
+  - "Pod Niergnies Niemcy kontratakowali zdobytymi brytyjskimi czołgami Mark IV – było to jedno z ostatnich w tej wojnie starć czołgów z czołgami. 63 (Royal Naval) Dywizja odbiła wieś i odcięła Cambrai od południa."
+  - "Do wieczora sprzymierzeni przeszli od pięciu do sześciu kilometrów, a do klatek odesłano osiem tysięcy jeńców. W nocy z 8 na 9 października Niemcy zaczęli odwrót na pozycję Hermanna i opuścili Cambrai."
 ---
 
 8 października 1918 roku o 4.30 rano brytyjska 3 Armia generała [Juliana Bynga](/postacie/julian-byng), a czterdzieści minut później 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) uderzyły na Niemców na froncie ponad 27 kilometrów, od Sequehart na północ od Saint-Quentin po południowe przedmieścia [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Pięć dni wcześniej 4 Armia [wdarła się w linię Beaurevoir](/poczatek-bitwy-o-linie-beaurevoir), ostatnią przygotowaną pozycję systemu Hindenburga. Teraz przed Brytyjczykami i walczącą u ich boku amerykańską 30 Dywizją były już tylko niedokończone okopy, wsie zamienione w gniazda karabinów maszynowych i odwody wyniszczonych niemieckich dywizji. Do wieczora sprzymierzeni przeszli od pięciu do sześciu kilometrów i wzięli kilka tysięcy jeńców. Pod Niergnies, na południe od Cambrai, doszło do jednego z ostatnich w tej wojnie starć czołgów z czołgami, bo Niemcy rzucili do kontrataku zdobyte wcześniej czołgi brytyjskie. Zaczęła się bitwa pod Cambrai, ostatnia z [bitew o Linię Hindenburga](/bitwy/bitwy-o-linie-hindenburga).

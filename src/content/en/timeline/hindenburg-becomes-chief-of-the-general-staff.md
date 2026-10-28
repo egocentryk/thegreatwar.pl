@@ -2,7 +2,12 @@
 title: Hindenburg becomes Chief of the General Staff
 summary: On 29 August 1916 Wilhelm II dismissed Falkenhayn. Hindenburg became Chief of the General Staff of the Field Army, with Ludendorff as his deputy.
 source: hindenburg-szefem-sztabu-generalnego
-sourceHash: bb4805fc8832d55ffd9215e6087efba6927304f0
+sourceHash: 60a1b3a5ff08a9d1137acac61c51d8da0d73e2d7
+brief:
+  - "On 29 August 1916 at Pless Kaiser Wilhelm II removed General Erich von Falkenhayn and appointed Field Marshal Paul von Hindenburg Chief of the General Staff of the Field Army."
+  - "Falkenhayn's plan collapsed in the summer of 1916: Verdun did not fall, the Allies attacked on the Somme and the Brusilov offensive shattered the Austro-Hungarian front. Romania's entry on 27 August was the final blow."
+  - "General Erich Ludendorff became First Quartermaster General with joint responsibility for all decisions. Hindenburg represented the army before the Kaiser, while Ludendorff in practice conducted the war."
+  - "So began the Third OHL. Its influence on the policy of the Reich grew month by month, and the rule of Hindenburg and Ludendorff in 1917–1918 was spoken of as a military dictatorship."
 ---
 
 On 29 August 1916 at [Pless](https://pl.wikipedia.org/wiki/Pszczyna) in Upper Silesia, where the German headquarters was then located, Kaiser [Wilhelm II](/postacie/wilhelm-ii) removed General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) from the post of Chief of the General Staff of the Field Army. His successor was Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg), until then commander-in-chief of the German forces in the East. His long-standing chief of staff, General [Erich Ludendorff](/postacie/erich-ludendorff), received the post of First Quartermaster General (Erster Generalquartiermeister) and joint responsibility for all decisions. So began the Third OHL, the third leadership of the Supreme Army Command (Oberste Heeresleitung) in this war, after Moltke and Falkenhayn. Under Hindenburg and Ludendorff Germany fought on until the autumn of 1918.

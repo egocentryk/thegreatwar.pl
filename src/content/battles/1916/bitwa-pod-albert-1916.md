@@ -15,6 +15,12 @@ result: Częściowy sukces aliantów. Na północ od drogi Albert–Bapaume nata
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, wojna pozycyjna]
 milestone: true
+brief:
+  - "Bitwa pod Albert to brytyjska nazwa pierwszych dwóch tygodni bitwy nad Sommą, od 1 do 13 lipca 1916 roku. Zaczęła się od katastrofy pierwszego dnia, gdy 4 Armia straciła ponad 57 tysięcy ludzi."
+  - "Na północ od drogi Albert–Bapaume natarcie załamało się w ogniu karabinów maszynowych, ale na południe od niej Brytyjczycy i Francuzi przełamali pierwszą pozycję niemiecką. Tam Haig przeniósł dalszy wysiłek."
+  - "W deszczu i błocie kolejne dywizje zdobywały La Boisselle, Contalmaison i las Mametz, gdzie walijska 38 Dywizja straciła blisko 4 tysiące ludzi. Las Trônes 14 lipca wciąż nie był całkiem zdobyty."
+  - "Od 2 do 13 lipca 4 Armia straciła około 25 tysięcy ludzi, a w całej bitwie ponad 80 tysięcy. Straty niemieckie od 1 do 10 lipca niemiecka historia oficjalna podaje na ponad 40 tysięcy."
+  - "Bitwa nie przyniosła przełamania, ale alianci podeszli pod drugą pozycję niemiecką. Po nieudanym szturmie na fort Souville 11 lipca Falkenhayn nakazał pod Verdun przejść do ścisłej obrony i zaczął zabierać stamtąd artylerię."
 ---
 
 Bitwa pod Albert to brytyjska nazwa pierwszych dwóch tygodni [bitwy nad Sommą](/bitwy/bitwa-nad-somma), od 1 do 13 lipca 1916 roku. Zaczęła się od katastrofy pierwszego dnia, gdy brytyjska 4 Armia straciła ponad 57 tysięcy ludzi, a na północ od drogi z [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) do Bapaume nie zdobyła prawie nic. Na południe od tej drogi Brytyjczycy i Francuzi przełamali jednak pierwszą pozycję niemiecką. W następnych dniach brytyjskie dowództwo porzuciło natarcie na północnym odcinku i przeniosło wysiłek tam, gdzie odniosło sukces. Przez prawie dwa tygodnie, w deszczu i błocie, dywizja po dywizji zdobywała ruiny wsi La Boisselle i [Contalmaison](https://pl.wikipedia.org/wiki/Contalmaison) oraz gęste lasy Mametz i Trônes, które osłaniały drugą niemiecką pozycję na grzbiecie Longueval – Bazentin. Gdy 14 lipca ruszyło natarcie na ten grzbiet, Brytyjczycy mieli za sobą kolejne 25 tysięcy zabitych, rannych i zaginionych, a Niemcy zaczęli przerzucać nad Sommę dywizje i działa spod [Verdun](/bitwy/bitwa-pod-verdun).

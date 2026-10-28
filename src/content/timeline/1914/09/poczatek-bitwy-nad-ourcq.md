@@ -10,6 +10,12 @@ dayOrder: 8
 tags: [Francja, Niemcy, Joseph Gallieni, Alexander von Kluck]
 milestone: true
 draft: false
+brief:
+  - "5 września 1914 roku pod Monthyon i Penchard, kilka kilometrów od Meaux, francuska 6 Armia gen. Michela Maunoury'ego zderzyła się z korpusem osłaniającym prawe skrzydło armii Klucka. Był to pierwszy akt bitwy nad Marną."
+  - "Kluck skręcił na południowy wschód i przeszedł na wschód od Paryża, odsłaniając swoje prawe skrzydło. Osłaniał je tylko IV Korpus Rezerwowy gen. Hansa von Gronaua, a reszta armii była już za Marną."
+  - "Gronau sam zaatakował, a jego artyleria zadała ciężkie straty francuskim dywizjom rezerwowym. W walkach pod Villeroy poległ poeta Charles Péguy, porucznik 276 Pułku Piechoty."
+  - "Gronau zrozumiał, że ma przed sobą całą armię, i zaalarmował Klucka, który zaczął zawracać korpusy znad Marny. W nocy z 7 na 8 września Gallieni wysłał część żołnierzy na front paryskimi taksówkami."
+  - "Przerzucenie armii Klucka nad Ourcq otworzyło lukę między nią a armią Bülowa, w którą weszli alianci. 9 września Niemcy nakazali odwrót, co przesądziło o losach kampanii 1914 roku na zachodzie."
 ---
 
 5 września 1914 roku, na północny wschód od Paryża, francuska 6 Armia generała [Michela Maunoury'ego](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) zderzyła się z niemieckim korpusem osłaniającym prawe skrzydło 1 Armii generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Walki na wzgórzach pod [Monthyon](https://pl.wikipedia.org/wiki/Monthyon) i Penchard, kilka kilometrów od [Meaux](https://pl.wikipedia.org/wiki/Meaux), rozpoczęły bitwę nad rzeką [Ourcq](https://pl.wikipedia.org/wiki/Ourcq_(rzeka)). Był to pierwszy akt [bitwy nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), która zatrzymała niemiecki marsz na Paryż i przekreśliła nadzieje Niemiec na szybkie zwycięstwo na zachodzie.

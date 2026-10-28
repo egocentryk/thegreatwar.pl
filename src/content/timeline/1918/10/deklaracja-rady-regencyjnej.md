@@ -8,6 +8,11 @@ dayOrder: 1
 tags: [Królestwo Polskie, Polska, okupacja niemiecka, Woodrow Wilson]
 milestone: true
 draft: false
+brief:
+  - "7 października 1918 roku w Warszawie Rada Regencyjna wydała orędzie „Do Narodu Polskiego”, zapowiadając niepodległe państwo obejmujące wszystkie ziemie polskie, z dostępem do morza."
+  - "Orędzie było odpowiedzią na prośbę Niemiec i Austro-Węgier o rozejm na podstawie czternastu punktów Wilsona. Skoro okupanci przyjęli te zasady, regenci mogli się na nie powołać."
+  - "Regenci rozwiązali Radę Stanu i zapowiedzieli rząd przedstawicieli wszystkich warstw, demokratyczną ordynację oraz Sejm, w którego ręce mieli złożyć władzę. Wkrótce przejęli też zwierzchnictwo nad wojskiem."
+  - "Orędzie nie przysporzyło regentom wyraźnie większego poparcia, ale było przełomem: pierwszy raz od rozbiorów władza na ziemiach polskich ogłosiła publicznie cel pełnej niepodległości i zjednoczenia."
 ---
 
 7 października 1918 roku w Warszawie [Rada Regencyjna](https://pl.wikipedia.org/wiki/Rada_Regencyjna) Królestwa Polskiego wydała [orędzie „Do Narodu Polskiego”](https://pl.wikipedia.org/wiki/Deklaracja_niepodległości_Królestwa_Polskiego_(1918)). Ogłosił je tego samego dnia dodatek nadzwyczajny „Monitora Polskiego”, dziennika urzędowego Królestwa. Regenci, arcybiskup [Aleksander Kakowski](/postacie/aleksander-kakowski), [Józef Ostrowski](https://pl.wikipedia.org/wiki/Józef_Ostrowski_(regent)) i książę [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski), oświadczyli, że opierają się na zasadach pokojowych prezydenta Stanów Zjednoczonych, które w odniesieniu do Polski prowadzą „do utworzenia niepodległego państwa, obejmującego wszystkie ziemie polskie, z dostępem do morza”. Zapowiedzieli rząd złożony z przedstawicieli wszystkich warstw i kierunków politycznych, demokratyczną ordynację wyborczą i zwołanie Sejmu, w którego ręce mieli złożyć swoją władzę. Organ powołany rok wcześniej przez Berlin i Wiedeń po raz pierwszy przemówił w imieniu niepodległej Polski, nie pytając o zgodę mocarstw okupacyjnych.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Kanada, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "26 września 1916 roku o 12.35 Armia Rezerwowa generała Huberta Gougha uderzyła nad Sommą na grzbiet Thiepval, ostatni wysoki grzbiet na północ od drogi Albert–Bapaume w rękach Niemców."
+  - "Wirtemberski 180 Pułk Piechoty od 1914 roku zamieniał Thiepval w twierdzę z głębokimi schronami i redutami, o którą 1 lipca rozbiło się brytyjskie natarcie."
+  - "Kanadyjczycy niemal sięgnęli szczytu grzbietu za Courcelette, a 11 Dywizja po wielogodzinnej walce zdobyła farmę Mouquet, o którą od sierpnia na próżno walczyli Australijczycy."
+  - "Starannie wyszkolona 18 Dywizja generała Ivora Maxse'a wdarła się do Thiepval i przy wsparciu czołgu opanowała większą część wsi. Trzy bataliony 54 Brygady straciły 840 z 2290 ludzi."
+  - "Reduty Stuff i Schwaben zostały w rękach niemieckich, ale Brytyjczycy weszli wreszcie do Thiepval, a rankiem następnego dnia 18 Dywizja dokończyła zdobywanie wsi."
 ---
 
 26 września 1916 roku o 12.35, w słoneczne jesienne południe, Armia Rezerwowa generała [Huberta Gougha](/postacie/hubert-gough) ruszyła do natarcia na grzbiet [Thiepval](https://pl.wikipedia.org/wiki/Thiepval), ostatni wysoki grzbiet nad Sommą na północ od drogi Albert–Bapaume, który Niemcy wciąż trzymali. Front natarcia miał około pięciu i pół kilometra, od Courcelette po stare niemieckie okopy na południe od Thiepval. Do wieczora Kanadyjczycy posunęli się na wzgórza za Courcelette i niemal sięgnęli szczytu grzbietu, brytyjska 11 Dywizja po wielogodzinnej walce zdobyła ruiny farmy Mouquet, o które od sierpnia na próżno walczyli Australijczycy, a 18 Dywizja wdarła się do Thiepval i opanowała większą część wsi. Najważniejsze punkty na szczycie grzbietu, reduty Stuff i Schwaben, zostały jednak w rękach niemieckich.

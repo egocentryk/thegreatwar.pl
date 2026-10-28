@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "15 sierpnia 1917 roku o 4.25 dwie dywizje Korpusu Kanadyjskiego zaatakowały wzgórze 70 nad Lens. Była to pierwsza bitwa korpusu pod dowództwem Kanadyjczyka, generała Arthura Curriego."
+  - "Natarcie miało wiązać Niemców, gdy we Flandrii trwała trzecia bitwa pod Ypres. Currie przekonał przełożonych, że zamiast Lens trzeba zdobyć panujące nad miastem wzgórze 70."
+  - "Po dwudziestu minutach Kanadyjczycy stali na grzbiecie, a przed szóstą rano zajęli prawie wszystkie cele. Od razu wkopali karabiny maszynowe, a obserwatorzy artylerii zajęli stanowiska na szczycie."
+  - "Niemieckie kontrataki ginęły pod ogniem kanadyjskiej artylerii, jak przewidział Currie. Dzień kosztował Kanadyjczyków według ich historii oficjalnej 1056 zabitych i 2432 rannych."
+  - "Do 18 sierpnia Kanadyjczycy odparli według Curriego 21 niemieckich kontrataków, także z miotaczami ognia i iperytem. Wzgórza 70 Niemcy już nie odzyskali."
 ---
 
 15 sierpnia 1917 roku o 4.25, gdy zaczynało świtać, dwie dywizje Korpusu Kanadyjskiego ruszyły do natarcia na wzgórze 70, bezdrzewne, kredowe wzniesienie na północnych przedmieściach górniczego miasta [Lens](https://pl.wikipedia.org/wiki/Lens) w północnej Francji. Po dwudziestu minutach stały na jego grzbiecie, a przed szóstą rano zajęły prawie wszystkie wyznaczone cele. Przez resztę dnia Niemcy raz po raz kontratakowali, ale ich fale piechoty ginęły pod ogniem kanadyjskiej artylerii, kierowanej przez obserwatorów ze zdobytego szczytu. Była to pierwsza bitwa korpusu pod dowództwem Kanadyjczyka, generała [Arthura Curriego](/postacie/arthur-currie), i dokładnie taki jej przebieg Currie zaplanował.

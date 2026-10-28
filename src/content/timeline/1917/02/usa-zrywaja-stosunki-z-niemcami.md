@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Stany Zjednoczone, Niemcy, Woodrow Wilson, neutralność]
 milestone: true
 draft: false
+brief:
+  - "3 lutego 1917 roku prezydent Woodrow Wilson oznajmił przed połączonymi izbami Kongresu, że Stany Zjednoczone zrywają stosunki dyplomatyczne z Niemcami. Ambasador Bernstorff otrzymał paszporty, a Gerarda odwołano z Berlina."
+  - "Była to odpowiedź na ogłoszenie przez Niemcy nieograniczonej wojny podwodnej. Niemcy cofnęli w ten sposób obietnicę złożoną po nocie w sprawie Sussexa, że nie będą zatapiać statków handlowych bez ostrzeżenia."
+  - "Wilson długo się wahał, bo chciał uniknąć wojny, ale większość ministrów opowiadała się za zerwaniem. W przemówieniu zapewniał, że wojny nie pragnie, i zapowiedział, że dopiero „jawne czyny” Niemiec skłonią go do dalszych kroków."
+  - "Niemieckie kierownictwo liczyło, że Ameryka przełknie wojnę podwodną, i zerwanie było dla Berlina zaskoczeniem. Neutralne państwa Europy poprzestały na protestach, cieplej odpowiedziały Brazylia i inne kraje Ameryki Łacińskiej."
+  - "Zerwanie otworzyło drogę do wojny: po publikacji telegramu Zimmermanna i zatopieniu kilku amerykańskich statków w marcu Stany Zjednoczone 6 kwietnia 1917 roku wypowiedziały Niemcom wojnę."
 ---
 
 3 lutego 1917 roku o drugiej po południu prezydent [Woodrow Wilson](/postacie/woodrow-wilson) stanął w sali [Izby Reprezentantów](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_Stanów_Zjednoczonych) przed połączonymi izbami [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) i oznajmił, że Stany Zjednoczone zrywają wszelkie stosunki dyplomatyczne z Cesarstwem Niemieckim. Trzy minuty wcześniej radca prawny Departamentu Stanu Lester Woolsey wręczył w ambasadzie niemieckiej hrabiemu [Johannowi Heinrichowi von Bernstorffowi](/postacie/johann-heinrich-von-bernstorff) notę sekretarza stanu i paszporty dla ambasadora i jego personelu. Ambasador amerykański w Berlinie James W. Gerard został odwołany. Była to odpowiedź na [ogłoszenie przez Niemcy nieograniczonej wojny podwodnej](/niemcy-oglaszaja-nieograniczona-wojne-podwodna), które Bernstorff przekazał w Waszyngtonie trzy dni wcześniej.

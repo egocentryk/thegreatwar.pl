@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Irlandia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "9 września 1916 roku pod wieczór irlandzka 16 Dywizja zdobyła ruiny Ginchy, najwyższego punktu grzbietu na prawym skrzydle brytyjskim nad Sommą."
+  - "Przez poprzedni tydzień brytyjska 7 Dywizja trzy razy wdzierała się do wsi i trzy razy ją traciła. Irlandczycy z 16 Dywizji, ochotnicy i w większości nacjonaliści, byli już wyczerpani walkami pod Guillemont."
+  - "Sześć irlandzkich batalionów ruszyło o 16.45 i według Priora i Wilsona zdobyło wieś w około dwie godziny, a potem odparło kontrataki. Na sąsiednich odcinkach natarcie się nie powiodło."
+  - "Wśród poległych był porucznik Tom Kettle z 9 Batalionu Royal Dublin Fusiliers, ekonomista, poeta i były poseł nacjonalistów. Jego grób zaginął."
+  - "W dniach 1–10 września 16 Dywizja straciła 240 oficerów i 4090 żołnierzy. Zdobycie Ginchy dało Brytyjczykom cały grzbiet od lasu Leuze po las Delville."
 ---
 
 9 września 1916 roku pod wieczór irlandzka 16 Dywizja zdobyła ruiny wsi [Ginchy](https://pl.wikipedia.org/wiki/Ginchy), najwyższego punktu grzbietu na prawym skrzydle brytyjskim nad Sommą. Przez poprzedni tydzień brytyjska 7 Dywizja trzy razy wdzierała się do wsi i trzy razy była z niej wypierana. Tym razem sześć irlandzkich batalionów ruszyło do szturmu o 16.45 i według historyków Robina Priora i Trevora Wilsona w ciągu około dwóch godzin zdobyło wieś. Wzięli około dwustu jeńców i do rana odpierali niemieckie kontrataki. Zwycięstwo było okupione wysoką ceną, a na sąsiednich odcinkach natarcie się nie powiodło. Wśród poległych tego dnia był porucznik 9 Batalionu Royal Dublin Fusiliers Tom Kettle, ekonomista, poeta i jeden z najbardziej znanych irlandzkich polityków swojego pokolenia.

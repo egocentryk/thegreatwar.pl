@@ -2,7 +2,13 @@
 title: Assembly at Alba Iulia
 summary: On 1 December 1918 the Great National Assembly at Alba Iulia proclaimed the union of Transylvania, the Banat and the Romanian lands of Hungary with Romania.
 source: zgromadzenie-w-alba-iulia
-sourceHash: 5faaca3abfaa5b678592bb5e88509ed0c9a603c4
+sourceHash: c573de13ae7ce53a449c4fbe50393b40b9cd17f7
+brief:
+  - "On 1 December 1918 at Alba Iulia the 1,228 delegates of the Great National Assembly unanimously voted for the union of the Romanians of Transylvania, the Banat and other Hungarian lands with Romania."
+  - "Romanians made up the majority of these lands but had only a handful of deputies in Budapest. As the monarchy collapsed, the National Council rejected Oszkár Jászi's federation proposal in Arad."
+  - "The resolution promised provisional autonomy and full national freedom for all co-inhabiting peoples, universal suffrage for both sexes and a radical land reform. A crowd of many thousands gathered outside the town."
+  - "The next day a Directing Council headed by Iuliu Maniu was elected, and King Ferdinand sanctioned the union by a decree of 24 December. Most of the country, however, was still controlled by the Hungarian authorities."
+  - "The assembly closed a year in which Bessarabia, Bukovina and Transylvania joined Romania. The border with Hungary was fixed by the Treaty of Trianon, and since 1990 1 December has been Romania's national day."
 ---
 
 On 1 December 1918 (18 November in the Julian calendar, which Romania still used at the time) there met in [Alba Iulia](https://pl.wikipedia.org/wiki/Alba_Iulia) the Great National Assembly of the Romanians of [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), the [Banat](https://pl.wikipedia.org/wiki/Banat_(kraina)) and other Hungarian lands. Its 1,228 delegates unanimously voted for "the union of these Romanians and of all the territories inhabited by them with Romania". A crowd of many thousands gathered outside the town, about a hundred thousand people according to contemporary accounts and Romanian studies. The British chronology of the war records under this day that an assembly of Romanians from Transylvania, the Banat and other districts of Hungary proclaimed union with Romania. On the same day King [Ferdinand I](/postacie/ferdynand-i-rumunski) [made his ceremonial entry](/rzad-rumunski-wraca-do-bukaresztu) into liberated Bucharest.

@@ -2,7 +2,12 @@
 title: Third Battle of Artois begins
 summary: On 25 September 1915 the French Tenth Army again attacked Vimy Ridge. The left wing reached Souchez, but on the rest of the front the attack broke down.
 source: poczatek-trzeciej-bitwy-w-artois
-sourceHash: cc3554473953bbe1a73e90a2e559c53881d19b84
+sourceHash: eb95d78ee280842ee27dcf3e1ceacdc9e9b8f5d6
+brief:
+  - "On 25 September 1915, after four days of bombardment, General Victor d'Urbal's French Tenth Army attacked the heights of Vimy north of Arras for the third time. It was part of the largest Allied offensive in the west so far."
+  - "General Ferdinand Foch demanded an immediate breakthrough towards Douai, and this time the reserves were placed close to the front. The French infantry, however, went forward only in the early afternoon, long after the British at Loos."
+  - "On the left wing General Paul Maistre's XXI Corps reached Souchez, but in the centre and near Arras the attack broke down with heavy losses."
+  - "Over the next few days the French took Souchez and briefly reached the highest point of Vimy Ridge, but could not hold the ridge itself."
 ---
 
 On 25 September 1915, after four days of bombardment, General Victor d'Urbal's French Tenth Army attacked the German positions north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) for the third time in less than a year. The objective was again the heights of [Vimy](https://pl.wikipedia.org/wiki/Vimy), which the French had failed to take [in the spring](/bitwy/druga-bitwa-w-artois), and beyond them the plain of [Douai](https://pl.wikipedia.org/wiki/Douai). So began the Third Battle of [Artois](https://pl.wikipedia.org/wiki/Artois). It was part of the largest Allied offensive in the west so far: on the morning of the same day, immediately north of the Tenth Army, [the British attacked at Loos](/poczatek-bitwy-pod-loos), and the main French attack went in in Champagne.

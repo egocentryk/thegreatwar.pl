@@ -9,6 +9,11 @@ dayOrder: 3
 tags: [Imperium Osmańskie, Rosja, SMS Goeben, Wilhelm Souchon]
 milestone: true
 draft: false
+brief:
+  - "Przed świtem 29 października 1914 roku okręty floty osmańskiej bez wypowiedzenia wojny ostrzelały rosyjskie porty nad Morzem Czarnym: Odessę, Sewastopol, Teodozję i Noworosyjsk. Wyprawą dowodził niemiecki adm. Wilhelm Souchon."
+  - "Imperium Osmańskie od sierpnia wiązał z Niemcami tajny sojusz, ale wielki wezyr Said Halim Pasza zwlekał z wejściem do wojny. Enver Pasza wręczył Souchonowi tajny rozkaz ataku, o którym nie wiedziała większość rządu."
+  - "W Odessie torpedowce zatopiły kanonierkę Donieć, Yavuz Sultan Selim, dawny Goeben, ostrzelał Sewastopol, a Midilli, dawny Breslau, podpalił dziesiątki zbiorników ropy w Noworosyjsku. Wszystkie okręty wróciły bez strat."
+  - "Wojskowe skutki nalotu były niewielkie, ale polityczne ogromne: 2 listopada Rosja, a 5 listopada Wielka Brytania i Francja wypowiedziały Turcji wojnę. Otworzyło to nowe fronty, m.in. na Kaukazie i w Dardanelach."
 ---
 
 Przed świtem 29 października 1914 roku okręty floty [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) zaatakowały bez wypowiedzenia wojny rosyjskie porty nad [Morzem Czarnym](https://pl.wikipedia.org/wiki/Morze_Czarne). W ciągu kilku godzin ostrzelano [Odessę](https://pl.wikipedia.org/wiki/Odessa), [Sewastopol](https://pl.wikipedia.org/wiki/Sewastopol), [Teodozję](https://pl.wikipedia.org/wiki/Teodozja_(miasto)) i [Noworosyjsk](https://pl.wikipedia.org/wiki/Noworosyjsk). Wyprawą dowodził niemiecki admirał [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon), [od września dowódca floty osmańskiej](/souchon-dowodca-floty-tureckiej), a najważniejsze okręty miały niemieckie załogi. Nalot trwał jeden poranek, ale przesądził o tym, że Turcja przystąpiła do wojny po stronie Niemiec.

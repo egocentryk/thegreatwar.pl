@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Nowa Zelandia, Irlandia]
 milestone: true
 draft: false
+brief:
+  - "7 czerwca 1917 roku o 3.10 pod niemieckimi okopami na grzbiecie Messines na południe od Ypres wybuchło 19 wielkich min. Zaraz potem dziewięć dywizji 2 Armii generała Herberta Plumera ruszyło do szturmu."
+  - "Saperzy kompanii tunelowych przygotowywali miny od początku 1916 roku. Najsilniejsze miały po ponad 40 ton amonalu i były największymi minami wysadzonymi w tej wojnie."
+  - "Oszołomieni obrońcy w większości poddawali się bez walki. Nowozelandczycy zdobyli Messines, a dwie dywizje irlandzkie, 36 (Ulsterska) i 16 (Irlandzka), razem oczyściły ruiny Wytschaete."
+  - "Po południu oddziały odwodowe zeszły na wschodnie stoki i do wieczora zajęły niemal całą linię Oosttaverne. Do następnego dnia wzięto ponad 6,4 tysiąca jeńców."
+  - "Grzbiet, z którego Niemcy przez dwa i pół roku patrzyli na brytyjskie pozycje, zdobyto w niecałe dwanaście godzin. Był to najlepszy dzień armii brytyjskiej na froncie zachodnim od początku wojny."
 ---
 
 7 czerwca 1917 roku o 3.10 nad ranem, gdy na wschodzie ledwie szarzało, grzbiet między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate) na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper) uniósł się w powietrze. W ciągu kilkunastu sekund pod niemieckimi okopami wybuchło 19 wielkich min, zawierających razem setki ton materiału wybuchowego. Zaraz potem otworzyło ogień ponad dwa tysiące brytyjskich dział, a dziewięć dywizji 2 Armii generała [Herberta Plumera](/postacie/herbert-plumer) ruszyło do szturmu. Grzbiet, który Niemcy [zdobyli w listopadzie 1914 roku](/bitwy/bitwa-pod-messines) i z którego przez dwa i pół roku patrzyli na brytyjskie pozycje, był przed południem w rękach Brytyjczyków, Australijczyków, Nowozelandczyków i Irlandczyków. Wieczorem oddziały odwodowe zeszły na jego wschodnie stoki i zajęły większość niemieckiej linii Oosttaverne. Był to najlepszy dzień armii brytyjskiej na froncie zachodnim od początku wojny.

@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Niemcy rano zdobyli Villers-Bretonneux, ale
 authors: [Natalia]
 tags: [Australia, Wielka Brytania, Niemcy, czołgi]
 milestone: true
+brief:
+  - "24 kwietnia 1918 roku cztery dywizje niemieckiej 2 Armii z trzynastoma czołgami A7V uderzyły w gęstej mgle i zdobyły Villers-Bretonneux, wzgórze, z którego widać było Amiens i jego węzeł kolejowy."
+  - "Tego samego dnia pod Cachy doszło do pierwszego w historii starcia czołgów z czołgami: brytyjski Mark IV porucznika Franka Mitchella trafił niemiecki A7V „Nixe”."
+  - "W nocy na 25 kwietnia dwie brygady australijskie, 15 Elliotta i 13 Glasgowa, bez przygotowania artyleryjskiego obeszły miasteczko z północy i z południa. Rano Villers-Bretonneux znów było w rękach sprzymierzonych."
+  - "Bitwa zamknęła niemieckie próby zdobycia Amiens, a Niemcy nie osiągnęli żadnego celu. Stąd 8 sierpnia 1918 roku Australijczycy i Kanadyjczycy ruszyli do bitwy pod Amiens."
+  - "Odbicie miasteczka w trzecią rocznicę lądowania na Gallipoli, w Anzac Day, uczyniło z niego symbol. W 1938 roku odsłonięto tu australijski pomnik narodowy."
 ---
 
 Bitwa pod Villers-Bretonneux była ostatnią próbą zbliżenia się Niemców do [Amiens](https://pl.wikipedia.org/wiki/Amiens) wiosną 1918 roku. Trzy tygodnie po zakończeniu [operacji Michael](/bitwy/operacja-michael), rankiem 24 kwietnia 1918 roku, cztery dywizje niemieckiej 2 Armii, poprzedzone przez trzynaście czołgów [A7V](https://pl.wikipedia.org/wiki/A7V), uderzyły w gęstej mgle na dwie osłabione dywizje brytyjskie i zdobyły miasteczko [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), położone na wzgórzu, z którego widać było Amiens i jego węzeł kolejowy. Tego dnia pod pobliskim [Cachy](https://pl.wikipedia.org/wiki/Cachy) doszło do pierwszego w historii starcia czołgów z czołgami. Jeszcze tej samej nocy dwie brygady australijskie, wsparte przez Brytyjczyków, bez przygotowania artyleryjskiego, w świetle księżyca obeszły miasteczko z północy i z południa. Rano 25 kwietnia, w trzecią rocznicę lądowania na Gallipoli, Villers-Bretonneux znów było w rękach sprzymierzonych. Dla Australijczyków bitwa stała się jednym z najważniejszych miejsc pamięci obu wojen światowych.

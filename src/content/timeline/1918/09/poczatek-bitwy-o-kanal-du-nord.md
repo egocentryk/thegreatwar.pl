@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Kanada, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "27 września 1918 roku o 5.20 Korpus Kanadyjski gen. Arthura Curriego i lewe skrzydło brytyjskiej 3 Armii zaatakowały na zachód od Cambrai. Było to drugie z czterech uderzeń zaplanowanych przez marszałka Focha."
+  - "Niemcy zalali bagna nad kanałem na północ od Sains-lès-Marquion, więc Currie przeprawił dwie dywizje przez suche koryto na odcinku szerokim na niespełna dwa i pół kilometra, a potem rozwinął je wachlarzem."
+  - "Kanadyjczycy zdobyli linię Marquion i otoczyli las Bourlon, o który Brytyjczycy walczyli na próżno w listopadzie 1917 roku. Wieczorem las był oczyszczony, a lewe skrzydło doszło do drogi z Cambrai do Douai."
+  - "Na południu 3 Armia gen. Bynga przedzierała się przez Linię Hindenburga pod Flesquières. Dywizja Gwardii przeszła przez suche koryto kanału, a za ten jeden dzień przyznano siedem Krzyży Wiktorii."
+  - "W nocy dowódca niemieckiej 17 Armii nakazał odwrót za rzekę Sensée. Kanadyjczycy liczyli na szybkie zdobycie Cambrai, ale Niemcy nie oddali miasta bez ciężkiej walki."
 ---
 
 27 września 1918 roku o 5.20 rano Korpus Kanadyjski generała [Arthura Curriego](/postacie/arthur-currie) i lewe skrzydło brytyjskiej 3 Armii zaatakowały na zachód od [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Kanadyjczycy przeszli przez suche koryto niedokończonego Kanału du Nord na odcinku szerokim na niespełna dwa i pół kilometra, a potem rozwinęli się wachlarzem na północ i na wschód. Do wieczora zdobyli dwie linie umocnień, wieś [Bourlon](https://pl.wikipedia.org/wiki/Bourlon) i las Bourlon, a na lewym skrzydle doszli do drogi z Cambrai do [Douai](https://pl.wikipedia.org/wiki/Douai). Na południe od nich brytyjskie korpusy przedzierały się przez labirynt okopów Linii Hindenburga pod [Flesquières](https://pl.wikipedia.org/wiki/Flesquières). Dzień wcześniej Amerykanie i Francuzi [zaatakowali między Mozą a Argonnami](/poczatek-ofensywy-moza-argonne). Teraz przyszła kolej na drugie z czterech uderzeń zaplanowanych przez marszałka [Ferdinanda Focha](/postacie/ferdinand-foch).

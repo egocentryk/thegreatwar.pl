@@ -15,6 +15,12 @@ result: Zwycięstwo niemieckie. Atakujący nie utrzymali żadnego skrawka zdobyt
 authors: [Natalia]
 tags: [Australia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa pod Fromelles 19–20 lipca 1916 roku była natarciem pomocniczym we francuskiej Flandrii. Brytyjska 61 Dywizja i 5 Dywizja Australijska miały pokazać Niemcom, że nie mogą bezkarnie zabierać stąd wojsk nad Sommę."
+  - "Obie dywizje były świeże i niedoświadczone, a Niemcy bronili się w betonowych schronach na płaskiej, podmokłej równinie. Najsilniejszym punktem był występ Sugarloaf, z którego karabiny maszynowe omiatały ziemię niczyją."
+  - "Brytyjczycy zostali zatrzymani przed niemieckimi okopami, a Australijczycy wdarli się w linię nieprzyjaciela na dwóch odcinkach. Nad ranem 20 lipca bawarskie kontrataki wyparły ich z powrotem."
+  - "5 Dywizja Australijska straciła 5533 ludzi, a 61 Dywizja 1547, razem ponad 7 tysięcy. Dla Australii była to najczarniejsza doba w jej historii wojskowej."
+  - "Natarcie nie osiągnęło nic i na lata zaciążyło na stosunkach Australijczyków z brytyjskim dowództwem. W 2009 roku z mogił pod Pheasant Wood wydobyto szczątki 250 żołnierzy, pochowanych potem na nowym cmentarzu."
 ---
 
 Bitwa pod Fromelles była natarciem pomocniczym, które brytyjskie dowództwo przeprowadziło we francuskiej Flandrii w trzecim tygodniu [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Wieczorem 19 lipca 1916 roku dwie świeże, niedoświadczone dywizje, brytyjska 61 i 5 Dywizja Australijska, zaatakowały w biały dzień niemieckie pozycje naprzeciw wsi [Fromelles](https://pl.wikipedia.org/wiki/Fromelles), około 80 kilometrów na północ od pola bitwy nad Sommą. Miały pokazać Niemcom, że nie mogą bezkarnie zabierać stąd wojsk na południe. Brytyjczycy zostali zatrzymani przed niemieckimi okopami, Australijczycy na dwóch odcinkach wdarli się w linię nieprzyjaciela, ale nad ranem 20 lipca bawarskie kontrataki wyparły ich z powrotem. Jedna noc kosztowała 5 Dywizję Australijską 5533 zabitych, rannych i wziętych do niewoli, a brytyjską 61 Dywizję ponad 1,5 tysiąca. Dla Australii była to najczarniejsza doba w jej historii wojskowej.

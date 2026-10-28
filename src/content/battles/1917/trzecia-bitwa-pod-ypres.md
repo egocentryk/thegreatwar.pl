@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Brytyjczycy zdobyli płaskowyż Gheluvelt i grzbiet 
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig, Kanada]
 milestone: true
+brief:
+  - "Trzecia bitwa pod Ypres, znana jako bitwa pod Passchendaele, toczona od 31 lipca do 10 listopada 1917 roku, była główną ofensywą brytyjską 1917 roku, wspieraną na północy przez francuską 1 Armię."
+  - "Haig liczył, że przełamie niemiecką obronę i dojdzie do Roeselare i belgijskiego wybrzeża z bazami okrętów podwodnych. Admiralicja gorąco popierała plan, a Lloyd George był sceptyczny."
+  - "Pierwszego dnia zdobyto grzbiet Pilckem, ale zaczęło padać, a wyjątkowo deszczowy sierpień zamienił pole bitwy w bagno. We wrześniu ograniczone natarcia Plumera przyniosły serię sukcesów aż po Broodseinde."
+  - "Haig parł dalej w jesiennych deszczach. Natarcia 9 i 12 października załamały się w błocie, a 6 listopada Kanadyjczycy zajęli ruiny Passchendaele. Front przesunął się o kilka kilometrów."
+  - "Ofensywa nie osiągnęła żadnego z wielkich celów, a obie strony straciły po około ćwierć miliona ludzi. Passchendaele stało się symbolem bezsensownej rzezi w błocie."
 ---
 
 Trzecia bitwa pod Ypres, znana powszechnie jako [bitwa pod Passchendaele](https://pl.wikipedia.org/wiki/Bitwa_pod_Passchendaele), była główną ofensywą brytyjską 1917 roku. Od 31 lipca do 10 listopada armie [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), wspierane na północy przez francuską 1 Armię, nacierały z łuku wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper) na niskie wzgórza na wschód i północny wschód od miasta. Feldmarszałek [Douglas Haig](/postacie/douglas-haig) liczył, że przełamie niemiecką obronę, dojdzie do węzła kolejowego w [Roeselare](https://pl.wikipedia.org/wiki/Roeselare) i wybrzeża belgijskiego z bazami okrętów podwodnych. Pierwszego dnia zdobyto grzbiet Pilckem, ale już po południu zaczęło padać, a wyjątkowo deszczowy sierpień zamienił rozorane pociskami pola w bagno. Po wrześniowych sukcesach ograniczonych natarć generała [Herberta Plumera](/postacie/herbert-plumer) Haig parł dalej w jesiennych deszczach, aż 6 listopada Kanadyjczycy zajęli ruiny wsi Passchendaele. Front przesunął się o kilka kilometrów, a obie strony straciły po ćwierć miliona lub więcej ludzi. Nazwa Passchendaele stała się w Wielkiej Brytanii, Kanadzie, Australii i Nowej Zelandii synonimem bezsensownej rzezi w błocie.

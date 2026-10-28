@@ -9,7 +9,13 @@ sides:
     commanders: [Karl von Müller, Hellmuth von Mücke]
 result: Australian victory. The cruiser Emden was destroyed, and most of her crew were killed or captured. The landing party escaped on the schooner Ayesha.
 source: bitwa-kolo-wysp-kokosowych
-sourceHash: 27d668c5725c1a1c1eba3f2022ef0aac61f78e29
+sourceHash: 62c5eb7b844f7aaa47b912d8c987f736b5a9bf51
+brief:
+  - "On 9 November 1914 in the Indian Ocean the Australian light cruiser Sydney caught the German cruiser Emden, which for two months had been wreaking havoc on the shipping lanes around India."
+  - "Karl von Müller landed a party on Direction Island to destroy the cable and wireless station. The station staff managed to send a signal, which was picked up by a convoy not far away."
+  - "Sydney was bigger and faster and outranged Emden. Captain John Glossop kept his distance and methodically battered his opponent until Müller ran the burning ship onto the reef of North Keeling Island."
+  - "Hellmuth von Mücke's landing party escaped from the island in the schooner Ayesha and after a long odyssey reached Constantinople in May 1915."
+  - "The destruction of Emden ended the most famous cruiser raid of the war. It was the Australian navy's first engagement with the enemy and its first victory."
 ---
 
 The [Battle of Cocos](https://pl.wikipedia.org/wiki/Bitwa_koło_Wysp_Kokosowych) was fought on 9 November 1914 in the Indian Ocean. The Australian light cruiser [HMAS Sydney](https://pl.wikipedia.org/wiki/HMAS_Sydney_(1912)) caught the German cruiser [Emden](https://pl.wikipedia.org/wiki/SMS_Emden_(1908)), which for two months had been wreaking havoc on the shipping lanes around India. After less than two hours of fighting the shattered Emden ran herself onto a reef. It was the first engagement of a ship of the [Australian navy](https://pl.wikipedia.org/wiki/Royal_Australian_Navy) with the enemy.

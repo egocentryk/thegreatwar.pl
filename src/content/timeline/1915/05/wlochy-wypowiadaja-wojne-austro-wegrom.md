@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Włochy, Austro-Węgry, wypowiedzenie wojny, Antonio Salandra]
 milestone: true
 draft: false
+brief:
+  - "23 maja 1915 roku włoski ambasador w Wiedniu, książę Giuseppe Avarna, przekazał wypowiedzenie wojny. Włochy, przez ponad trzydzieści lat sojusznik Austro-Węgier w trójprzymierzu, stanęły po stronie Ententy."
+  - "26 kwietnia premier Antonio Salandra i Sonnino podpisali w Londynie układ z Ententą. W zamian za obietnicę Trydentu, Triestu, Istrii i części Dalmacji Włochy zobowiązały się przystąpić do wojny w ciągu miesiąca."
+  - "Cesarz Franciszek Józef I w manifeście „Do moich ludów!” nazwał decyzję Rzymu wiarołomstwem, „jakiego nie zna historia”. Poczucie zdrady było w monarchii powszechne."
+  - "Włochy wypowiedziały wojnę wyłącznie Austro-Węgrom, bo chciały uniknąć starcia z Niemcami. Niemcom wypowiedziały ją dopiero w sierpniu 1916 roku."
+  - "W nocy z 23 na 24 maja otwarto front włoski, od przełęczy Stelvio po Adriatyk. Wojna trwała trzy i pół roku i według różnych szacunków kosztowała Włochy od około 600 do 650 tysięcy żołnierzy."
 ---
 
 23 maja 1915 roku, w niedzielę, około kwadransa po trzeciej po południu, włoski ambasador w Wiedniu, książę Giuseppe Avarna, przekazał austro-węgierskiemu ministrowi spraw zagranicznych, baronowi [Istvánowi Buriánowi](/postacie/istvan-burian), wypowiedzenie wojny. [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)), które przez ponad trzydzieści lat było sojusznikiem monarchii habsburskiej w [trójprzymierzu](https://pl.wikipedia.org/wiki/Trójprzymierze), stanęło do walki po stronie Ententy.

@@ -2,7 +2,13 @@
 title: Mangin's counter-offensive
 summary: On 18 July 1918 Mangin's French Tenth Army, with Americans and hundreds of tanks, struck the German flank from Villers-Cotterêts without a bombardment.
 source: kontrofensywa-mangina
-sourceHash: cd6dc6318e0b6b7912695a098637e7e7ac09c8f5
+sourceHash: 2355324e562bfc1c9e20d5d07ed94c9706ba8d64
+brief:
+  - "At 4.35 a.m. on 18 July 1918 General Charles Mangin's French Tenth Army emerged from the forests around Villers-Cotterêts and struck the western flank of the German salient on the Marne. General Degoutte's Sixth Army attacked at the same time."
+  - "Foch had for weeks been thinking of striking this salient, supplied by a single railway line through Soissons. When the Germans attacked at Reims on 15 July, he refused to let Pétain halt Mangin's preparations."
+  - "There was no bombardment lasting several days: the barrage moved forward at once, followed by infantry and almost five hundred tanks. The spearhead was XX Corps, with the American 1st and 2nd Divisions and the 1st Moroccan Division."
+  - "The surprise was complete. In the first two days the Allies took more than 17,000 prisoners, and Ludendorff, who was then at Mons, had to halt preparations for the \"Hagen\" offensive in Flanders."
+  - "Historians regard 18 July 1918 as the turning point of the war in the west. The initiative passed into Allied hands and did not return to the Germans before the end of the war."
 ---
 
 On 18 July 1918 at 4.35 a.m., in the grey light of morning and the remnants of the night's mist, the French Tenth Army of General [Charles Mangin](/postacie/charles-mangin) emerged from the forests around [Villers-Cotterêts](https://pl.wikipedia.org/wiki/Villers-Cotterêts) and struck the western flank of the German salient on the Marne. There was no bombardment lasting several days, such as had heralded every great offensive for three years. The artillery opened fire at the moment of the attack, and the creeping barrage at once moved forward, with the infantry and hundreds of tanks close behind it. At the same time, south of Mangin, the Sixth Army of General Jean Degoutte attacked. Three days earlier the Germans had launched [their last great offensive](/poczatek-drugiej-bitwy-nad-marna) on both sides of Reims, and now it was they who were taken by surprise. By the evening the French, Americans and Moroccans had broken into their positions, in places to a depth of several or even a dozen or so kilometres. The initiative on the Western Front, which the Germans had held since 21 March, passed into Allied hands and did not return to the Germans before the end of the war.

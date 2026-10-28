@@ -9,6 +9,11 @@ dayOrder: 2
 tags: [wypowiedzenie wojny, Rosja, Włochy, Bułgaria]
 milestone: true
 draft: false
+brief:
+  - "19 października 1915 roku ogłoszono manifest cara Mikołaja II o wojnie z Bułgarią, a rząd w Rzymie oznajmił, że Włochy są z nią w stanie wojny. Przeciw Bułgarii stanęły wszystkie wielkie mocarstwa Ententy."
+  - "Car nazwał atak Bułgarii na Serbię zdradą sprawy słowiańskiej. Winą obarczał „rząd Ferdynanda Koburga”, który uległ niemieckim rachubom i wrogości do Serbów."
+  - "Dla Rosjan była to gorzka wojna z krajem, który niespełna czterdzieści lat wcześniej odzyskał państwowość dzięki rosyjskiemu zwycięstwu nad Turcją. Rosja mogła jednak na razie działać przeciw Bułgarii tylko na morzu."
+  - "Włochy wypowiadały wojnę po raz trzeci w tym roku, ale wciąż nie walczyły z Niemcami. Rząd Salandry nie spieszył się z wysłaniem wojsk do Salonik, a włoska dywizja dotarła tam dopiero latem 1916 roku."
 ---
 
 19 października 1915 roku [Rosja](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) i [Włochy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) dołączyły do państw walczących z [Bułgarią](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). Tego dnia w Piotrogrodzie ogłoszono manifest cesarza [Mikołaja II](/postacie/mikolaj-ii) o wypowiedzeniu wojny Bułgarii, a rząd w Rzymie oznajmił, że Włochy są z nią w stanie wojny. Od [bułgarskiego wypowiedzenia wojny Serbii](/bulgaria-i-serbia-wypowiadaja-sobie-wojne) minęło pięć dni. Wcześniej stan wojny z Bułgarią ogłosiły [Wielka Brytania](/wielka-brytania-wypowiada-wojne-bulgarii), Czarnogóra i [Francja](/francja-wypowiada-wojne-bulgarii). Teraz przeciw Bułgarii stały już wszystkie wielkie mocarstwa Ententy.

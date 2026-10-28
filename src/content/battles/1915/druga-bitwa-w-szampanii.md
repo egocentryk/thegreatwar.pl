@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Francuzi posunęli się o 3–4 kilometry i zdobyli 
 authors: [Natalia]
 tags: [Francja, Niemcy, Joseph Joffre, Noël de Castelnau]
 milestone: true
+brief:
+  - "Od 25 września do 6 listopada 1915 roku 2 Armia generała Pétaina i 4 Armia generała de Langle de Cary nacierały w Szampanii, na wschód od Reims. Była to największa ofensywa armii francuskiej w 1915 roku."
+  - "Joffre chciał wykorzystać słabość Niemców na zachodzie, pomóc Rosji i wrócić do wojny manewrowej. Na froncie długim na około 25–30 kilometrów w pierwszej linii stanęło 20 dywizji."
+  - "Pierwszego dnia Francuzi przeszli przez niemiecką pierwszą linię na kilku odcinkach i wzięli około 14 tysięcy jeńców. Druga pozycja, ukryta na odwrotnych stokach, wytrzymała jednak wszystkie ataki."
+  - "Pułkownik Fritz von Loßberg kazał bronić drugiej pozycji, a Niemcy ściągnęli odwody. 3 października Joffre zrezygnował z przełamania, a dalsze walki toczono już tylko o pojedyncze wzgórza."
+  - "Francuzi posunęli się o 3–4 kilometry, ale ofensywa kosztowała ich około 140–180 tysięcy ludzi. Wnioski z bitwy doprowadziły Niemców do obrony w głąb, a Falkenhayna do planu, który zakończył się bitwą pod Verdun."
 ---
 
 Druga bitwa w [Szampanii](https://pl.wikipedia.org/wiki/Szampania) była największą ofensywą armii francuskiej w 1915 roku i główną częścią jesiennego natarcia aliantów na froncie zachodnim. 25 września dwie armie z grupy armii generała [Noëla de Castelnau](/postacie/noel-de-castelnau), 2 Armia generała [Philippe'a Pétaina](/postacie/philippe-petain) i 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), uderzyły na niemiecką [3 Armię](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims), na tych samych kredowych wzgórzach, na których zimą i wiosną walczono w [pierwszej bitwie w Szampanii](/bitwy/pierwsza-bitwa-w-szampanii). Tym razem Francuzi rzucili do walki znacznie więcej dywizji i artylerii. Pierwszego dnia przeszli przez niemiecką pierwszą linię na kilku odcinkach i wzięli kilkanaście tysięcy jeńców. Druga niemiecka pozycja, ukryta na odwrotnych stokach, wytrzymała jednak wszystkie ataki. Walki, z przerwami, trwały do listopada i kosztowały Francuzów około 140–180 tysięcy zabitych, rannych i zaginionych.

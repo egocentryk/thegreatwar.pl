@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Brytyjczycy zdobyli grzbiet i wieś Outtersteene
 authors: [Natalia]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "18 sierpnia 1918 roku o 11 przed południem 27 Brygada szkockiej 9 Dywizji, a za nią 29 Dywizja, uderzyły na niski grzbiet Outtersteene między Meteren a Bailleul we francuskiej Flandrii."
+  - "Po kwietniowej bitwie nad Lys Niemcy zostali w płaskim klinie pod ostrzałem z wzgórz. Grzbiet, wysoki na niecałe 40 metrów nad poziomem morza, był ostatnim wyżej położonym terenem, jaki tu trzymali."
+  - "Plan opierał się na zaskoczeniu i dymie: atak wyznaczono w środku dnia, a wał ogniowy częściowo dymny. Po niecałych dwóch godzinach Szkoci stali na grzbiecie, a 29 Dywizja zajęła wieś Outtersteene."
+  - "18 sierpnia Brytyjczycy stracili 671 ludzi i wzięli 697 jeńców, a następnego dnia zdobyli farmę Lyndé i „The Trucks”, osiągając wszystkie cele natarcia."
+  - "Utrata grzbietu zagroziła występowi pod Merville i przyspieszyła odwrót Niemców znad Lys. Do 6 września oddali niemal cały teren zdobyty w kwietniu, z Bailleul i wzgórzem Kemmel włącznie."
 ---
 
 Bitwa o grzbiet Outtersteene była niewielkim, starannie przygotowanym natarciem brytyjskiej 2 Armii we francuskiej Flandrii, które otworzyło odwrót Niemców z klinu zdobytego w kwietniu 1918 roku w [bitwie nad Lys](/bitwy/bitwa-nad-lys-1918). 18 sierpnia o 11 przed południem, w upalny dzień i pod osłoną dymu, 27 Brygada szkockiej 9 Dywizji uderzyła z północy na grzbiet między [Meteren](https://pl.wikipedia.org/wiki/Méteren) a [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), a za nią ruszyła 29 Dywizja. Niemcy zostali całkowicie zaskoczeni. Po niecałych dwóch godzinach Brytyjczycy stali na szczycie grzbietu i za wsią Outtersteene, wziąwszy prawie 700 jeńców. Grzbiet był wysoki ledwie na kilkanaście metrów ponad otaczającą równinę, ale był ostatnim wzniesieniem w tej okolicy, które Niemcy jeszcze trzymali. Jego utrata zagroziła całemu niemieckiemu występowi pod [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)). Już następnego dnia Niemcy zaczęli się wycofywać, a do początku września oddali bez większej walki niemal cały teren zdobyty w kwietniu, z Bailleul i wzgórzem Kemmel włącznie.

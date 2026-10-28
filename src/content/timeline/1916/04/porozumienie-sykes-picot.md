@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Francja, Rosja, Wielka Brytania, Imperium Osmańskie]
 milestone: true
 draft: false
+brief:
+  - "26 kwietnia 1916 roku w Piotrogrodzie Siergiej Sazonow i ambasador Francji Maurice Paléologue wymienili tajne listy. Rosja przyjęła w nich plan podziału azjatyckich ziem Imperium Osmańskiego."
+  - "Plan uzgodnili wcześniej Mark Sykes i François Georges-Picot. Sprawa stała się pilna jesienią 1915 roku, gdy Brytyjczycy w Kairze obiecywali szarifowi Mekki niepodległość Arabów, a Francja obawiała się o Syrię."
+  - "W zamian Francja uznała rosyjskie roszczenia do wschodniej Anatolii, w tym prowincji Erzurum, Trapezunt, Wan i Bitlis. Porozumienie nie przewidywało dla Ormian żadnej autonomii."
+  - "Plan dzielił ziemie osmańskie na strefy: niebieską pod władzą Francji, czerwoną pod władzą Wielkiej Brytanii, strefy A i B dla państwa arabskiego oraz brązową, czyli Palestynę pod zarządem międzynarodowym."
+  - "Porozumienie było ściśle tajne, aż w listopadzie 1917 roku bolszewicy opublikowali jego teksty. Nazwa „Sykes-Picot” stała się w świecie arabskim symbolem zdrady i arbitralnych granic narzuconych przez mocarstwa."
 ---
 
 26 kwietnia 1916 roku w [Piotrogrodzie](https://pl.wikipedia.org/wiki/Petersburg) rosyjski minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) i ambasador Francji Maurice Paléologue wymienili tajne listy. Rosja przyjęła w nich plan podziału azjatyckich ziem [Imperium Osmańskiego](https://pl.wikipedia.org/wiki/Imperium_Osmańskie), który kilka miesięcy wcześniej uzgodnili brytyjski polityk Mark Sykes i francuski dyplomata François Georges-Picot. W zamian Francja uznała rosyjskie roszczenia do wschodniej Anatolii. Był to pierwszy formalny krok w łańcuchu tajnych not, które przeszły do historii jako [umowa Sykes-Picot](https://pl.wikipedia.org/wiki/Umowa_Sykes-Picot). Dokument nazywany dziś tym imieniem, czyli brytyjsko-francuski podział Bliskiego Wschodu, Londyn i Paryż potwierdziły dopiero w maju.

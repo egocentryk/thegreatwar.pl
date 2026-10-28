@@ -2,7 +2,13 @@
 title: Start of the Battle of Le Linge
 summary: On 20 July 1915 French chasseurs alpins attacked the German positions on the Linge ridge in the Vosges. The first assault collapsed under fire from bunkers.
 source: poczatek-bitwy-o-le-linge
-sourceHash: 7de6082982648f1e533472aa04c4d3af7a6c1fdb
+sourceHash: b4078f9a8edab8c0a95a604546c3ee71df3bf71f
+brief:
+  - "At 2 p.m. on 20 July 1915 French chasseurs alpins went in to storm the Linge ridge in the Vosges, west of Colmar. So began the Battle of Le Linge, one of the bloodiest battles on this sector of the front."
+  - "General Joseph Joffre wanted to outflank the enemy \"by the heights\", across the crests dominating the valleys. The assault went to General Charles Nollet's 129th Division, though General de Pouydraguin warned of the risk."
+  - "On the wooded slopes the Bavarian Landwehr held trenches, concrete shelters and thick wire. The German positions lay about 200 metres higher than the French jumping-off trenches."
+  - "The first assault took none of the three summits: the Lingekopf, the Schratzmännele and the Barrenkopf. The 22nd Chasseur Alpin Battalion lost 192 killed and more than 400 wounded under machine-gun fire."
+  - "The battle lasted until mid-October and, for small changes in the line, cost the French several thousand dead. Le Linge entered their memory as the \"tomb of the chasseurs\"."
 ---
 
 On 20 July 1915 at 2 p.m., after an artillery bombardment lasting many hours, French battalions of [chasseurs alpins](https://pl.wikipedia.org/wiki/Strzelcy_alpejscy) went in to storm the Linge ridge in the [Vosges](https://pl.wikipedia.org/wiki/Wogezy), between the Orbey and Munster valleys, west of [Colmar](https://pl.wikipedia.org/wiki/Colmar). On the steep, wooded slopes they were met by German trenches, concrete shelters and thick wire, held by the Bavarian [Landwehr](https://pl.wikipedia.org/wiki/Landwehra). The first assault failed to take any of the ridge's three summits: the Lingekopf, the Schratzmännele and the Barrenkopf. So began the Battle of Le Linge, one of the bloodiest battles on this sector of the front. It lasted until mid-October, and the French paid for a small scrap of mountain with several thousand dead. Le Linge entered their memory as the "tomb of the chasseurs".

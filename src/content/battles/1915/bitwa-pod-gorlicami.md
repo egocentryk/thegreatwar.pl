@@ -17,6 +17,12 @@ result: Zwycięstwo Niemiec i Austro-Węgier. Front rosyjskiej 3 Armii został p
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Austro-Węgry, Rosja, Galicja]
 milestone: true
+brief:
+  - "2 maja 1915 roku niemiecka 11 Armia generała Augusta von Mackensena, wsparta przez Austro-Węgrów, uderzyła na rosyjską 3 Armię pod Gorlicami. Było to największe zwycięstwo państw centralnych na wschodzie w 1915 roku."
+  - "Austro-Węgry wykrwawiły się zimą w Karpatach, więc Falkenhayn uznał, że sojusznikowi trzeba pomóc. Z dywizji ściągniętych z frontu zachodniego utworzono 11 Armię, a dowództwo objął niemiecki generał."
+  - "Na wąskim odcinku Mackensen miał ogromną przewagę artylerii, a Rosjanie płytkie okopy i bardzo mało pocisków. Po czterogodzinnym ostrzale pierwsza linia rosyjska została przełamana na całym odcinku natarcia."
+  - "Rosyjski kontratak 4 maja pod Cieklinem się załamał, a wieczorem 5 maja generał Radko Dimitriew nakazał całej 3 Armii odwrót za Wisłokę. Rosjanie stracili dziesiątki tysięcy jeńców."
+  - "Przełamanie otworzyło drogę do pościgu: w czerwcu państwa centralne odzyskały Przemyśl i Lwów, a latem Rosjanie opuścili Królestwo Polskie. Po obu stronach frontu walczyli też Polacy."
 ---
 
 Bitwa pod [Gorlicami](https://pl.wikipedia.org/wiki/Gorlice) była największym zwycięstwem państw centralnych na froncie wschodnim w 1915 roku i jednym z nielicznych w całej wojnie przypadków, gdy natarcie przełamało ustabilizowany front okopów i przerodziło się w operację na setki kilometrów. 2 maja 1915 roku, po kilku godzinach ostrzału z ponad tysiąca dział i moździerzy, nowa niemiecka 11 Armia generała [Augusta von Mackensena](/postacie/august-von-mackensen), wsparta przez armie austro-węgierskie, uderzyła na pozycje rosyjskiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) między Ciężkowicami a Gorlicami. W ciągu czterech dni obrona rosyjska rozpadła się na całej głębokości, a 5 maja wieczorem dowódca 3 Armii nakazał odwrót. Walczono na ziemiach, które dziś leżą w Małopolsce i na Podkarpaciu, a po obu stronach frontu stali także Polacy.

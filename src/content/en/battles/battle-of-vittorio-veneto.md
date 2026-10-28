@@ -9,7 +9,13 @@ sides:
     commanders: [Emperor Charles I, Arthur Arz von Straußenburg, Svetozar Boroević, Alexander von Krobatin, Alois Schönburg-Hartenstein, Wenzel von Wurm]
 result: Decisive victory for Italy and its allies. After the front on the Piave was broken, the Austro-Hungarian army disintegrated, and the Armistice of Villa Giusti ended the war on the Italian front on 4 November at 3 p.m. Between about 400,000 and more than 430,000 of the monarchy's soldiers were taken prisoner.
 source: bitwa-pod-vittorio-veneto
-sourceHash: 56f7bbdfbd65082ae6a73227c4f593d37e677d03
+sourceHash: 5bb32d7691accc55da4bc6d5fe4c1386535ef9e9
+brief:
+  - "On 24 October 1918, exactly a year after Caporetto, General Armando Diaz opened the offensive with an attack on the Grappa. It was the last battle of the war on the Italian front and the last of the Austro-Hungarian army."
+  - "On the Grappa the Austrians held off the assaults for three days, inflicting heavy losses on the Italians. The main blow across the swollen Piave went in only on the night of 26/27 October."
+  - "The British, French and Italians seized three bridgeheads, and mutinies began in the Austro-Hungarian army: Hungarian, Czech, Croatian and Polish regiments refused to fight. On 30 October the Italians entered Vittorio."
+  - "The armistice signed on 3 November at Villa Giusti near Padua came into force on 4 November at 3 p.m. In the last day and a half of the war hundreds of thousands of the monarchy's soldiers were taken prisoner."
+  - "For the Italians Vittorio Veneto became the answer to Caporetto and the symbol of victory. Austria-Hungary, which had entered the battle as one state, came out of it as several new states."
 ---
 
 The Battle of Vittorio Veneto was the last battle of the war on the Italian front and the last battle of the Austro-Hungarian army. On 24 October 1918, exactly a year after the breakthrough at Caporetto, General [Armando Diaz](/postacie/armando-diaz) opened the offensive with an attack in the Monte Grappa massif. There the Austrians held off the assaults for three more days, inflicting heavy losses on the Italians. The main blow across the swollen [Piave](https://pl.wikipedia.org/wiki/Piawa), twice postponed because of downpours, went in only on the night of 26/27 October. The British, French and Italians seized three bridgeheads on the left bank, and at the same time mutinies began in the Austro-Hungarian army: first Hungarian regiments, then Czech, Croatian, Polish and others refused to go to the front and demanded to be sent home. On 28 October the army began to withdraw, on 30 October the Italians entered the small town of Vittorio, and the retreat turned into disintegration. The armistice signed on 3 November at Villa Giusti near Padua came into force on 4 November at 3 p.m. In the last day and a half of the war hundreds of thousands of soldiers of the monarchy, which in those same days ceased to exist, were taken prisoner.

@@ -2,7 +2,13 @@
 title: German gas attack at Bellewaarde
 summary: At dawn on 24 May 1915 the Germans released chlorine at Ypres on a 7 km front, took Mouse Trap Farm and part of Bellewaarde Ridge but did not break through.
 source: niemiecki-atak-gazowy-pod-bellewaarde
-sourceHash: c25a7ff7b0ffb2a9332249c6764c22f720982fbd
+sourceHash: 21a1e7713b1eaab3e5505788d19e8a810c227c51
+brief:
+  - "At dawn on 24 May 1915 the Germans released chlorine at Ypres on a front about 7 kilometres long, from Hooge to Turco Farm. It was their last attack on the Ypres salient that spring."
+  - "The British were expecting an attack and had simple respirators, but many did not put them on in time. The shelling cut every telephone line, and recruits filled the ranks of the battalions."
+  - "The Germans took Mouse Trap Farm and broke through on Bellewaarde Ridge. Of the roughly 670 men of the Royal Dublin Fusiliers, only 21 withdrew after the fighting."
+  - "British counter-attacks at Bellewaarde did not recover the lost trenches, and during the night at Mouse Trap Farm a wedge of the front about a kilometre deep was given up."
+  - "The day cost the British thousands of killed, wounded, gassed and captured. The Germans moved the front forward by a few hundred metres, but did not break through and did not reach Ypres."
 ---
 
 On 24 May 1915, [Whit Monday](https://pl.wikipedia.org/wiki/Zielone_Świątki), the Germans struck the [Ypres](https://pl.wikipedia.org/wiki/Ieper) salient for the last time that spring. At dawn they released [chlorine](https://pl.wikipedia.org/wiki/Chlor) from cylinders on a front about 7 kilometres long, from the village of Hooge in the east to Turco Farm north of the town. According to the British official history it was the largest gas attack the British had yet experienced. This time it fell not on surprised French troops, as on [22 April](/poczatek-drugiej-bitwy-pod-ypres), but on British units that were expecting an attack and had simple respirators. Even so, the day brought them some of the heaviest losses of the entire [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres).

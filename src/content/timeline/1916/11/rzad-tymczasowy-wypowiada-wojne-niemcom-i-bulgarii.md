@@ -9,6 +9,12 @@ dayOrder: 4
 tags: [Grecja, Elefterios Wenizelos, Bułgaria, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "23 listopada 1916 roku tymczasowy rząd Obrony Narodowej w Salonikach, z Elefteriosem Wenizelosem na czele, wypowiedział wojnę Niemcom i Bułgarii. Część źródeł podaje 24 lub 25 listopada."
+  - "Wenizelos czekał z tym ponad sześć tygodni, bo sprzymierzeni nie chcieli uznać jego rządu, a Briand wciąż liczył na porozumienie z królem Konstantynem I. Wojny nie wypowiedziano Austro-Węgrom ani Turcji."
+  - "W odezwie Wenizelos zapowiadał udział w wyzwoleniu ziem zajętych przez Bułgarów i zapewniał o lojalności wobec króla. Jego hasło brzmiało: „Nie występujemy przeciw królowi, lecz przeciw Bułgarom”."
+  - "Grecja miała odtąd dwa rządy: walczący w Salonikach i neutralny w Atenach. Londyn postanowił uznać rząd Wenizelosa dopiero w grudniu, gdy Ateny wydały nakaz jego aresztowania."
+  - "Podział trwał do czerwca 1917 roku, gdy Konstantyn opuścił kraj, a cała Grecja przystąpiła do wojny. Rozłam z listopada 1916 roku dzielił jednak Greków jeszcze przez dziesięciolecia jako schizma narodowa."
 ---
 
 23 listopada 1916 roku, czyli 10 listopada według kalendarza juliańskiego, którym posługiwała się Grecja, tymczasowy rząd Obrony Narodowej w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) wypowiedział wojnę Niemcom i Bułgarii. Na jego czele stała trójca: [Elefterios Wenizelos](/postacie/elefterios-wenizelos), admirał [Pawlos Kunduriotis](https://pl.wikipedia.org/wiki/Pawlos_Kunduriotis) i generał [Panajotis Danglis](https://pl.wikipedia.org/wiki/Panajotis_Danglis). Datę 23 listopada podają brytyjska chronologia wojny i brytyjska historia oficjalna kampanii macedońskiej (Falls). Inne źródła mówią o kolejnych dniach. Grecki historyk Loukianos Hassiotis, autor hasła w międzynarodowej encyklopedii pierwszej wojny światowej, i brytyjski biograf Wenizelosa S. B. Chester podają 24 listopada, a nowojorski miesięcznik „Current History”, wydawany przez „New York Timesa”, 25 listopada. Różnica może wynikać z tego, że wiadomość z Salonik, ogłoszenie decyzji i odezwa Wenizelosa docierały do prasy z opóźnieniem. Przyjmujemy datę z chronologii.

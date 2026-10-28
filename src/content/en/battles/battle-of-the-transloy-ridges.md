@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Fritz von Below]
 result: Inconclusive. The British took Eaucourt l’Abbaye and Le Sars and the French broke into Sailly-Saillisel, but the attacks on the positions before Le Transloy and the Butte de Warlencourt collapsed in rain, mud and German machine-gun fire.
 source: bitwa-o-grzbiety-transloy
-sourceHash: a792458d53f8142d92e6e25fef3a77f6a84f3b4c
+sourceHash: b1411aa075309d5737b9c9aed1b25b2890a1c595
+brief:
+  - "The Battle of the Transloy Ridges, fought from 1 to 18 October 1916, was the last major attack of General Rawlinson's British Fourth Army in the Battle of the Somme."
+  - "After the September successes Haig hoped that a combined blow by three armies would still break the German defence before Le Transloy and Bapaume in October."
+  - "The British took Eaucourt l’Abbaye on 1 October and Le Sars on 7 October, but further attacks in rain and mud on the trenches before Le Transloy and the Butte de Warlencourt gained a few hundred metres or nothing."
+  - "The Germans, reinforced with fresh divisions, artillery and aircraft, held the front line thinly and hid their machine guns in depth, out of range of the British barrage."
+  - "The battle showed that the Somme offensive had reached its limits: after 18 October the Allies limited themselves to local attacks, and the Butte de Warlencourt stayed in German hands until February 1917."
 ---
 
 The Battle of the Transloy Ridges was the last major attack of the British Fourth Army in the [Battle of the Somme](/bitwy/bitwa-nad-somma). After the September successes at Flers, [Morval](/bitwy/bitwa-pod-morval) and Gueudecourt the main ridge above the Somme was in Allied hands, and before the army of General [Henry Rawlinson](/postacie/henry-rawlinson) opened a wide, shallow valley with lower ridges, behind which lay the village of [Le Transloy](https://pl.wikipedia.org/wiki/Le_Transloy) and the small town of [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). [Douglas Haig](/postacie/douglas-haig) hoped that a combined blow by three armies would still break the German defence in October. On 1 October the British took the abbey of Eaucourt l’Abbaye, and on 7 October the village of [Le Sars](https://pl.wikipedia.org/wiki/Le_Sars) on the road to Bapaume. Then came the rains. In the mud, under low clouds that blinded the airmen and the artillery, the successive attacks of 7, 12 and 18 October on the German trenches before Le Transloy and on the chalk mound of the Butte de Warlencourt ended in a gain of a few hundred metres or nothing at all. The French on the right flank broke into [Sailly-Saillisel](https://pl.wikipedia.org/wiki/Sailly-Saillisel) in the middle of the month. The Germans, reinforced with fresh divisions, artillery and aircraft, changed their method of defence and held their positions.

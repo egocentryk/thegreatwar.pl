@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjsko-kanadyjskie. Korpus Kanadyjski posunął się o po
 authors: [Łukasz Skowroń]
 tags: [Kanada, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa nad Scarpe, od 26 do 30 sierpnia 1918 roku, rozszerzyła sierpniową ofensywę aliantów na front brytyjskiej 1 Armii pod Arras. Uderzył Korpus Kanadyjski gen. Arthura Curriego i szkocka 51 Dywizja."
+  - "Po zwycięstwie pod Amiens Haig i Foch postanowili rozszerzać ofensywę na skrzydła. Kanadyjczycy musieli tu jednak, bez zaskoczenia, szturmować kolejne linie wśród starych okopów z lat 1917–1918."
+  - "O trzeciej w nocy 26 sierpnia Kanadyjczycy ruszyli po obu stronach drogi do Cambrai i o 7.40 odbili Monchy-le-Preux, zdobyte w kwietniu 1917 roku i utracone w marcu 1918."
+  - "28 sierpnia 3 Dywizja Kanadyjska przełamała linię Fresnes–Rouvroy, a wyczerpana 2 Dywizja utknęła na zasiekach. W ciągu trzech dni obie dywizje straciły 254 oficerów i 5547 szeregowych."
+  - "Natarcie zagroziło skrzydłu niemieckich armii nad Sommą, które dostały rozkaz odwrotu. Kanadyjczycy zdobyli podstawę do szturmu na linię Drocourt–Quéant, przełamaną 2 września."
 ---
 
 Bitwa nad Scarpe w 1918 roku rozszerzyła sierpniową ofensywę aliantów na północ, na front brytyjskiej 1 Armii generała Henry'ego Horne'a pod [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Kilka dni po zwycięstwie pod Amiens Korpus Kanadyjski generała [Arthura Curriego](/postacie/arthur-currie) wrócił na swoje stare pozycje na wschód od miasta. O trzeciej w nocy 26 sierpnia uderzył po obu stronach drogi z Arras do [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), a na północ od rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) dołączyła do niego szkocka 51 Dywizja (Highland). Jeszcze tego ranka Kanadyjczycy odbili wzgórze z wsią [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux), zdobyte z takim trudem w kwietniu 1917 roku i utracone w marcu 1918. Przez następne trzy dni wgryzali się w kolejne niemieckie linie wśród starych okopów z lat 1917–1918, a 28 sierpnia przełamali na znacznej długości pozycję Fresnes–Rouvroy. Okupili to ciężkimi stratami. 30 sierpnia bitwa się skończyła, a przed Korpusem Kanadyjskim stała już najsilniejsza z niemieckich pozycji w tym rejonie, linia Drocourt–Quéant.

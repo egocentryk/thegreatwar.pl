@@ -2,7 +2,13 @@
 title: The Meuse–Argonne offensive begins
 summary: On 26 September 1918 the Americans attacked between the Meuse and the Argonne, the French in Champagne. The first German position fell, but Montfaucon held.
 source: poczatek-ofensywy-moza-argonne
-sourceHash: 0c51fc615dd477414826c02d97175b811b413161
+sourceHash: 75626d86b207606c4d72ea9a29409b8e7b83a3fe
+brief:
+  - "At 5.30 a.m. on 26 September 1918 nine divisions of General John Pershing's American First Army attacked between the Meuse and the Argonne; five minutes earlier General Gouraud's French Fourth Army had attacked in Champagne."
+  - "The offensive was the first of a series of blows planned by Marshal Foch. Only two weeks after Saint-Mihiel some 600,000 Americans were moved by night to the new sector, achieving surprise."
+  - "The attack was supported by about 2,700 guns, 189 Renault tanks and 821 aircraft. In the fog the infantry struggled through wire and craters, and on most of the sector the surprised Germans put up a feeble defence."
+  - "Things went best on the flanks, but in the centre the inexperienced 79th Division got stuck in front of the hill of Montfaucon. Near Cheppy Lieutenant Colonel George Patton was seriously wounded."
+  - "By evening the whole first German position was in American hands and the Americans had advanced about 8 kilometres. Montfaucon fell only the next day, and surprise was over."
 ---
 
 On 26 September 1918 at 5.30 a.m. nine divisions of the American First Army of General [John Pershing](/postacie/john-pershing) went over the top between the river [Meuse](https://pl.wikipedia.org/wiki/Moza) and the wooded ridge of the [Argonne](https://pl.wikipedia.org/wiki/Argonny), north-west of Verdun. Five minutes earlier, west of the Argonne, in [Champagne](https://pl.wikipedia.org/wiki/Szampania), the French Fourth Army of General Henri Gouraud had begun its attack. So began the offensive that the Americans called the Meuse–Argonne offensive and the French the Battle of Champagne and the Argonne. It was the first of a series of powerful blows that Marshal [Ferdinand Foch](/postacie/ferdinand-foch) had planned for the last days of September along the whole front from the Meuse to the sea. In the course of the day the surprised Germans gave up the whole of their first position, and in the best places the Americans advanced about 8 kilometres. They failed, however, to take the hill of Montfaucon, the key point of the German defence.

@@ -2,7 +2,13 @@
 title: Fighting for the Scherpenberg
 summary: On 29 April 1918 the Germans attacked the Scherpenberg and Mont Rouge. The French and British repulsed them, and that evening Ludendorff halted the offensive.
 source: walki-o-scherpenberg
-sourceHash: 73d35e5f54c2a14b1629ca9801e2986d9d69ba16
+sourceHash: 224c92e87fe60e7e9f67021919bde10e4a81d28c
+brief:
+  - "On 29 April 1918, four days after the capture of the Kemmelberg, seven divisions of the German Fourth Army struck at the Scherpenberg and Mont Rouge to force the British to abandon Ypres."
+  - "After a gas bombardment the Alpenkorps broke the French line, took Locre and reached the saddle between the hills. A false report even reached Haig that the Scherpenberg had fallen."
+  - "At about 1.15 p.m. French reserves drove the Alpenkorps off the slope, and in the British sector the German infantry was cut down by machine guns and artillery."
+  - "At 8.35 p.m. Fritz von Loßberg proposed halting the offensive, and Ludendorff accepted. So ended Operation \"Georgette\", the second great German offensive of the spring of 1918."
+  - "The Germans had taken Armentières, Bailleul and the Kemmelberg, but not Hazebrouck, and had not forced the British out of Ypres. British losses on the Lys were over 82,000 men."
 ---
 
 On 29 April 1918 the German Fourth Army attacked in Flanders for the last time. Four days after the [capture of the Kemmelberg](/niemcy-zdobywaja-wzgorze-kemmel), seven divisions struck at the Scherpenberg and Mont Rouge, the last heights between the front and the plain that stretches towards Poperinge and the ports on the English Channel. Taking them was meant to force the British to abandon Ypres. In the morning it seemed that the Germans were close to their goal: they took the village of Locre and the saddle between the two hills, and a report even reached [Douglas Haig](/postacie/douglas-haig)'s headquarters that the Scherpenberg had fallen. It was false. At noon French reserves drove the Germans off the slope, and in the British sector the attack collapsed within a few hours. Late in the evening [Erich Ludendorff](/postacie/erich-ludendorff) agreed to halt it. So ended Operation "Georgette", the second great German offensive of the spring of 1918.

@@ -2,7 +2,13 @@
 title: Battle of the Marne begins
 summary: On 6 September 1914 the French armies and the British went over to the counter-offensive from Paris to Verdun. The battle that decided 1914 had begun.
 source: poczatek-bitwy-nad-marna
-sourceHash: 76bf4c083d258d981b07e841f0c1635390242f0c
+sourceHash: d6f525dafcf1e24717a24b98872dd29c30a607e1
+brief:
+  - "On 6 September 1914, after two weeks of retreat, the French armies and the British Expeditionary Force struck at the Germans on a front about 200 kilometres long, from the outskirts of Paris to Verdun."
+  - "Instead of passing west of Paris, Kluck turned south-east and crossed the Marne on 3 September. General Joseph Gallieni saw that the German flank now lay exposed to the capital's garrison."
+  - "Joffre formed the new 6th Army under Maunoury and 9th Army under Foch, persuaded Field Marshal French to join the battle and issued his famous order of the day: no failure could be tolerated."
+  - "Kluck turned his corps back to the Ourcq to halt Maunoury, opening a gap between his army and Bülow's. On 9 September, after consultations with Lieutenant Colonel Hentsch, the Germans ordered a retreat to the Aisne."
+  - "The battle wrecked the German plan for a quick victory in the west and forced Germany into a long two-front war. The French called it the \"Miracle of the Marne\"."
 ---
 
 On 6 September 1914, after two weeks of retreat, the French armies and the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) halted and struck at the Germans on a front about 200 kilometres long, from the outskirts of Paris to Verdun. So began the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), one of the most important battles of the whole war. Within a few days it decided that Germany would not defeat France in a single rapid campaign.

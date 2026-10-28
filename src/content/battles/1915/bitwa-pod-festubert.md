@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Brytyjczycy zdobyli niemiecką pierwszą linię na o
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Kanada, Douglas Haig]
 milestone: true
+brief:
+  - "Od 15 do 25 maja 1915 roku brytyjska 1 Armia generała Douglasa Haiga ponowiła pod Festubert natarcie dla wsparcia francuskiej ofensywy w Artois. Była to druga próba po krwawym niepowodzeniu pod Aubers."
+  - "Haig zmienił metodę: zamiast krótkiego ostrzału wybrał długie, metodyczne niszczenie niemieckich okopów i bliski cel. Ostrzał trwał 60 godzin, a natarcie zaczęło się w nocy z 15 na 16 maja."
+  - "Nocą 6 Brygada w milczeniu zajęła niemieckie okopy, ale na lewym skrzydle Niemcy odparli atak ogniem karabinów maszynowych. Po dwóch dniach Niemcy wycofali się na nową, kopaną w pośpiechu linię."
+  - "Brytyjczycy nie wiedzieli, gdzie biegnie nowa linia, a Niemcy zdążyli ją obsadzić świeżymi oddziałami. Przez dziesięć dni brytyjskie, indyjskie i kanadyjskie dywizje zdobywały w błocie pojedyncze okopy i sady."
+  - "Według brytyjskiej historii oficjalnej straty wyniosły 16 648 zabitych, rannych i zaginionych za przesunięcie frontu o kilkaset metrów. Bitwa obnażyła brak ciężkich dział i pocisków w armii brytyjskiej."
 ---
 
 Bitwa pod [Festubert](https://pl.wikipedia.org/wiki/Festubert) była drugą próbą brytyjskiej 1 Armii generała [Douglasa Haiga](/postacie/douglas-haig), by w maju 1915 roku wesprzeć wielką francuską ofensywę w [Artois](https://pl.wikipedia.org/wiki/Artois). Po krwawym niepowodzeniu [pod Aubers](/bitwy/bitwa-o-grzbiet-aubers) 9 maja Brytyjczycy zmienili metodę. Zamiast krótkiego, gwałtownego ostrzału i dalekiego celu wybrali kilkudniowe, powolne niszczenie niemieckich okopów i natarcie na głębokość zaledwie kilometra. Uderzenie zaczęło się w nocy z 15 na 16 maja, co według brytyjskiej historii oficjalnej było pierwszym nocnym natarciem armii brytyjskiej w tej wojnie. Przez dziesięć dni brytyjskie, indyjskie i kanadyjskie dywizje zdobywały w błocie pojedyncze okopy, rowy i sady, płacąc za każdy z nich setkami zabitych i rannych. Niemcy wycofali się na nową linię, ale frontu nie oddali.

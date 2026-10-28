@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Kanada, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "1 października 1916 roku o 15.15 Korpus Kanadyjski generała Juliana Bynga uderzył na okop Regina, ostatnią niemiecką linię na północnym stoku grzbietu Thiepval nad Sommą."
+  - "Tym natarciem zaczęła się bitwa o wzgórza nad Ancre. Okop Regina miał być punktem wyjścia wielkiej październikowej ofensywy, w której Armia Rezerwowa chciała odciąć Niemców w dolinie Ancre."
+  - "Okop leżał za szczytem wzgórza i artyleria z trudem w niego trafiała, a zasieki były prawie nietknięte. Bronili go świeżo przybyli żołnierze niemieckiej Brygady Piechoty Morskiej."
+  - "Wyczerpane bataliony kanadyjskie wpadły pod ogień karabinów maszynowych, a tych, którzy wdarli się do okopu Regina, piechota morska wyparła kontratakami. Kanadyjczycy utrzymali tylko okop Kenora."
+  - "5 Brygada Kanadyjska zmalała z 1717 do 773 ludzi. Potem pogoda się załamała, a okop Regina zdobywano jeszcze przez sześć tygodni."
 ---
 
 1 października 1916 roku o 15.15 Korpus Kanadyjski generała [Juliana Bynga](/postacie/julian-byng) uderzył na okop Regina, ostatnią niemiecką linię na północnym stoku grzbietu Thiepval nad Sommą. Tym natarciem zaczyna się według brytyjskiego nazewnictwa bitwa o wzgórza nad Ancre, w której Armia Rezerwowa generała [Huberta Gougha](/postacie/hubert-gough) przez sześć tygodni walczyła o resztę grzbietu. Pierwszy dzień skończył się porażką. Zasieki przed okopem były prawie nietknięte, a świeża niemiecka Brygada Piechoty Morskiej wyparła kontratakami prawie wszystkich, którzy wdarli się do okopu. Na zachodzie, w ruinach redut Schwaben i Stuff nad doliną [Ancre](https://pl.wikipedia.org/wiki/Ancre), trwały tymczasem nieustanne walki na granaty.

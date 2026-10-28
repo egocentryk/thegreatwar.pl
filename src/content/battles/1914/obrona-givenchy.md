@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Niemcy przełamali linię Korpusu Indyjskiego, ale k
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "Obrona Givenchy, stoczona 20–21 grudnia 1914 roku we francuskiej Flandrii, była najcięższą bitwą Korpusu Indyjskiego w pierwszą zimę wojny i ostatnią dużą bitwą na froncie brytyjskim w 1914 roku."
+  - "Wyczerpany korpus gen. Jamesa Willcocksa od dwóch miesięcy tkwił w zalanych okopach, bez zimowego umundurowania i granatów. Niemieckie uderzenie poprzedziły nieudane lokalne natarcia z 16–19 grudnia."
+  - "20 grudnia Niemcy wysadzili pod okopami brygady Sirhind dziesięć min i zaatakowali z granatami. Zdobyli Givenchy i wdarli się w linię aż pod Festubert, a Manchesterzy dwukrotnie bili się o wieś."
+  - "Sytuację opanowały dopiero świeże brygady brytyjskiej 1 Dywizji z I Korpusu, które wieczorem 21 grudnia odbiły Givenchy. 22 grudnia Haig przejął cały odcinek od Willcocksa."
+  - "Niemcy wgnietli linię brytyjską, ale nie przełamali frontu. Bitwa zakończyła pierwszy okres służby Korpusu Indyjskiego we Francji i pokazała znaczenie min, granatów i moździerzy okopowych."
 ---
 
 Obrona Givenchy była najcięższą bitwą, jaką Korpus Indyjski stoczył w pierwszą zimę wojny. 20 grudnia 1914 roku, po kilku dniach nieudanych natarć brytyjskich i indyjskich, Niemcy uderzyli na całym froncie korpusu między kanałem La Bassée a Neuve-Chapelle. Wysadzili pod okopami serię min, a następnie zaatakowali piechotą uzbrojoną w granaty ręczne. Zdobyli wieś [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée) i wdarli się w linię na kilkaset metrów w głąb, aż pod [Festubert](https://pl.wikipedia.org/wiki/Festubert). Przez dwie doby wyczerpane bataliony indyjskie i brytyjskie, wspierane przez francuskich terytorialsów, trzymały się na kolejnych liniach, a Manchesterzy dwukrotnie bili się o samą wieś. Sytuację opanowały dopiero świeże brygady brytyjskiego I Korpusu, po czym Korpus Indyjski został zluzowany i odesłany na odpoczynek.

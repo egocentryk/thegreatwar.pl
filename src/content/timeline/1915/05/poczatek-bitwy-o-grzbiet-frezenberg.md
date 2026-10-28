@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Kanada]
 milestone: true
 draft: false
+brief:
+  - "8 maja 1915 roku o 5.30 rano niemiecka artyleria rozpoczęła jeden z najcięższych ostrzałów drugiej bitwy pod Ypres. Najmocniej uderzył w 28 Dywizję na odsłoniętym stoku grzbietu Frezenberg."
+  - "Cztery dni wcześniej Brytyjczycy wycofali się na nową, krótszą linię o płytkich okopach bez schronów. Niemcy widzieli je z wyższych grzbietów, a Brytyjczycy mieli tylko kilkanaście zużytych dział ciężkich."
+  - "Około 10 Niemcy przełamali linię 83 Brygady pod wsią Frezenberg i rozbijali kolejne bataliony. Po południu w brytyjskim froncie ziała wyrwa szeroka na ponad 3 kilometry."
+  - "Kanadyjski batalion Princess Patricia's Canadian Light Infantry majora Hamiltona Gaulta odpierał ataki na grzbiecie Bellewaarde i nie pozwolił rozszerzyć wyrwy na południe. Zostało z niego około 150 ludzi."
+  - "Wieczorne kontrataki ostatnich odwodów nie odzyskały okopów, ale zamknęły wyrwę. W nocy Brytyjczycy założyli nową linię za grzbietem Verlorenhoek, a straty tego dnia były ogromne."
 ---
 
 8 maja 1915 roku o 5.30 rano niemiecka artyleria otworzyła ogień na brytyjskie okopy na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Był to jeden z najcięższych ostrzałów od początku [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Najmocniej uderzył w 28 Dywizję, której okopy leżały na odsłoniętym przednim stoku niskiego grzbietu Frezenberg. Przed 10 niemiecka piechota wdarła się w zniszczoną linię, a po południu w brytyjskim froncie ziała wyrwa szeroka na ponad 3 kilometry. Do wieczora zamknęły ją ostatnie odwody, wysyłane do kontrataków przez otwarte pole. Tak zaczęła się bitwa o grzbiet Frezenberg, która według brytyjskiej nomenklatury trwała do 13 maja.

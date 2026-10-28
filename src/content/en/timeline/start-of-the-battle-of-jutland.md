@@ -2,7 +2,13 @@
 title: Start of the Battle of Jutland
 summary: On 31 May 1916 the Grand Fleet and the High Seas Fleet clashed off Jutland. By day the British lost three battlecruisers but cut off the Germans' way home.
 source: poczatek-bitwy-jutlandzkiej
-sourceHash: 7ab1811208879e0f1916227d700e71af01b2354d
+sourceHash: 24ad6a79d99b8341f7c458020888341f3f092ef5
+brief:
+  - "On 31 May 1916 the largest naval battle of the First World War began in the North Sea. John Jellicoe's Grand Fleet and Reinhard Scheer's High Seas Fleet together put to sea some 250 ships."
+  - "Scheer hoped to lure Beatty's battlecruisers into a trap, but the cryptanalysts of Room 40 were intercepting German signals. The Grand Fleet was thus at sea before the Germans were."
+  - "In the battlecruiser duel Indefatigable and Queen Mary blew up, and later Invincible with Admiral Hood. By nightfall the British had lost three battlecruisers and the armoured cruiser Defence."
+  - "Jellicoe deployed his 24 dreadnoughts across the Germans' course and \"crossed their T\". Scheer twice escaped with a 180-degree turn, while the Grand Fleet stayed between the Germans and their bases."
+  - "The night was to bring the decision. The battle cost the British about 6,100 killed and the Germans about 2,550, and the dispute over who really won at Jutland continues to this day."
 ---
 
 On 31 May 1916, in the North Sea about a hundred kilometres west of the coast of the [Jutland peninsula](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki), the largest naval battle of the First World War began. Admiral [John Jellicoe](/postacie/john-jellicoe)'s British [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) and Admiral [Reinhard Scheer](/postacie/reinhard-scheer)'s German [High Seas Fleet](https://pl.wikipedia.org/wiki/Hochseeflotte) together put to sea some 250 ships: according to the most commonly cited figures, 151 British and 99 German. Throughout the afternoon and evening there was first a duel of the [battlecruisers](https://pl.wikipedia.org/wiki/Krążownik_liniowy) and then a clash of the main forces of both fleets. By nightfall the British had lost three battlecruisers and an armoured cruiser, and more than four thousand sailors had died in their explosions. Even so, in the evening the Grand Fleet stood between the Germans and their bases. Times are given in Greenwich Mean Time, as in the British official history. German accounts give later times.

@@ -2,7 +2,13 @@
 title: Battle of Megiddo begins
 summary: At dawn on 19 September 1918 Allenby's infantry broke the Turkish front by the sea within hours, and three cavalry divisions raced north through the gap.
 source: poczatek-bitwy-pod-megiddo
-sourceHash: eabee844c5fa451ed2c1bb4db5d8ef06ecc8d30d
+sourceHash: f440f79415ce06be12a6cb31e1dd52716c61350e
+brief:
+  - "At 4.30 a.m. on 19 September 1918 several hundred British guns opened fire over the coastal Plain of Sharon north of Jaffa. So began the last great offensive of General Edmund Allenby in Palestine."
+  - "All summer Allenby had confirmed the Turks in the belief that he would again strike across the Jordan, while moving divisions to the coast by night. Liman von Sanders forbade a withdrawal to the second line."
+  - "There was no preliminary bombardment. Within hours the infantry of XXI Corps broke through the entire Turkish trench system by the sea and swung into the depths of the Samarian hills."
+  - "Three cavalry divisions of the Desert Mounted Corps passed north through the open gap, while aircraft bombed headquarters and telephone exchanges. For many hours Liman in Nazareth did not know what was happening."
+  - "That day the Turkish Eighth Army ceased to exist as an organised force. XXI Corps took about 7,000 prisoners and 100 guns, and by evening the cavalry stood at the entrances to the passes through the Carmel hills."
 ---
 
 At 4.30 a.m. on 19 September 1918 several hundred British guns thundered over the coastal [Plain of Sharon](https://pl.wikipedia.org/wiki/Równina_Szaron), a dozen or so kilometres north of Jaffa. So began the last great offensive of General [Edmund Allenby](/postacie/edmund-allenby) in Palestine. Before nightfall his infantry had broken through the entire Turkish trench system by the sea and swung like a door on its hinges into the depths of the Samarian hills, and three cavalry divisions of the Desert Mounted Corps passed north through the open gap. That day the Turkish Eighth Army ceased to exist as an organised force, and the army group headquarters in Nazareth did not know for many hours what was happening on its right flank.

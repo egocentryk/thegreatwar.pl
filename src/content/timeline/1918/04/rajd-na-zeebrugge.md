@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [Royal Navy, Kaiserliche Marine, Belgia, okręty podwodne]
 milestone: true
 draft: false
+brief:
+  - "Tuż po północy 23 kwietnia 1918 roku, w dzień świętego Jerzego, okręty brytyjskiego Patrolu Dover zaatakowały okupowane przez Niemców porty Zeebrugge i Ostendę na wybrzeżu Belgii."
+  - "Wiceadmirał Roger Keyes chciał zatopić w wejściach do kanałów stare krążowniki wypełnione betonem, by niemieckie okręty podwodne i torpedowce nie mogły wychodzić z bazy w Brugii."
+  - "W Zeebrugge krążownik Vindictive przybił do mola i wysadził desant, okręt podwodny C3 wysadził wiadukt, a blokowce Intrepid i Iphigenia zatonęły w kanale. Pod Ostendą blokowce osiadły na mieliźnie."
+  - "Brytyjczycy stracili ponad sześciuset zabitych, rannych i zaginionych. Niemcy pogłębili przejście obok wraków, a już 25 kwietnia pierwszy okręt podwodny znów wyszedł przez Zeebrugge."
+  - "Rajd, przeprowadzony w czasie walk nad Lys, wywołał w Wielkiej Brytanii ogromny entuzjazm. Za tę noc przyznano osiem Krzyży Wiktorii."
 ---
 
 Tuż po północy 23 kwietnia 1918 roku, w [dzień świętego Jerzego](https://pl.wikipedia.org/wiki/Dzień_Świętego_Jerzego), patrona Anglii, okręty brytyjskiego Patrolu Dover zaatakowały dwa okupowane przez Niemców porty na wybrzeżu Belgii, [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) i [Ostendę](https://pl.wikipedia.org/wiki/Ostenda). Celem [operacji](https://pl.wikipedia.org/wiki/Rajd_na_Zeebrugge_i_Ostendę), przygotowanej przez wiceadmirała [Rogera Keyesa](/postacie/roger-keyes), było zatopienie w wejściach do kanałów starych krążowników wypełnionych betonem, tak by niemieckie okręty podwodne i torpedowce nie mogły wychodzić w morze ze swojej bazy w [Brugii](https://pl.wikipedia.org/wiki/Brugia). W Zeebrugge stary krążownik Vindictive przybił do wielkiego mola i wysadził desant, okręt podwodny wysadził w powietrze wiadukt łączący molo z lądem, a dwa okręty blokujące zatonęły w kanale. Pod Ostendą blokowce minęły wejście do portu i osiadły na mieliźnie. Brytyjczycy stracili w ciągu kilku godzin ponad sześciuset zabitych, rannych i zaginionych. Za tę noc przyznano osiem [Krzyży Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).

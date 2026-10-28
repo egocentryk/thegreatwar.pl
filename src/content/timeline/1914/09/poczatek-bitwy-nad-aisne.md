@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Francja, Niemcy, wojna pozycyjna]
 milestone: true
 draft: false
+brief:
+  - "12 września 1914 roku Francuzi i Brytyjski Korpus Ekspedycyjny, ścigający Niemców po bitwie nad Marną, dotarli nad Aisne. Niemcy przestali się cofać i zajęli wzgórza na północnym brzegu rzeki."
+  - "Niemcy wybrali dogodną pozycję: strome zbocza i grzbiet Chemin des Dames, z którego widzieli całą dolinę. Joffre sądził jednak, że wciąż się cofają, i nakazał forsować rzekę."
+  - "13 września Brytyjczycy przeprawili się po uszkodzonych mostach, kładkach i łodziach. Lukę między armiami Klucka i Bülowa zatkał w ostatniej chwili VII Korpus Rezerwowy gen. Hansa von Zwehla."
+  - "14 września natarcie I Korpusu Haiga we mgle dotarło na grzbiet, ale po jej opadnięciu utknęło pod ogniem. Według brytyjskich szacunków I Korpus stracił tego dnia około 3,5 tysiąca ludzi, a Brytyjczycy zaczęli się okopywać."
+  - "Nad Aisne skończył się pościg po Marnie i zaczęła się wojna pozycyjna. Obie strony zaczęły szukać otwartego skrzydła na północy, co rozpoczęło tak zwany wyścig do morza."
 ---
 
 12 września 1914 roku wojska francuskie i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), które od kilku dni ścigały armie niemieckie pokonane nad Marną, dotarły nad rzekę [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), między Compiègne a Berry-au-Bac. Tam natrafiły na przeciwnika, który przestał się cofać. Niemcy zajęli wzgórza na północnym brzegu rzeki i postanowili się na nich bronić. Tak zaczęła się pierwsza bitwa nad Aisne, pierwsza wielka bitwa tej wojny, w której obie strony zaczęły się zakopywać w ziemi.

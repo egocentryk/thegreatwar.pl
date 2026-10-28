@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Nowa Zelandia, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "4 października 1917 roku dwanaście dywizji brytyjskich i dominialnych uderzyło pod Ypres na grzbiet Broodseinde. Był to trzeci skok generała Herberta Plumera w trzeciej bitwie pod Ypres."
+  - "Główny ciężar dźwigały cztery dywizje Anzac, po raz pierwszy nacierające obok siebie. Niemcy przygotowali na ten sam świt własne natarcie, więc Australijczycy zderzyli się z nimi w ziemi niczyjej."
+  - "Niemiecki ostrzał przed natarciem zabił lub ranił według Charlesa Beana około jednej siódmej nacierających żołnierzy I Korpusu Anzac. Mimo to przed dziewiątą grzbiet był zdobyty."
+  - "Za grzbietem Brytyjczycy po raz pierwszy od maja 1915 roku zobaczyli niezniszczoną flamandzką równinę. Niemieckie odwody wpadały pod ogień artylerii i nie zdołały nawet podejść."
+  - "Brytyjczycy policzyli 4759 jeńców, a niemiecka historia oficjalna pisała o „czarnym dniu 4 października”. Haig był pewien, że przeciwnik jest bliski załamania, ale od południa padał deszcz."
 ---
 
 4 października 1917 roku o szóstej rano, w mżawce i porywistym wietrze, dwanaście dywizji brytyjskich i dominialnych uderzyło na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper) na grzbiet Broodseinde, z którego od 1915 roku Niemcy patrzyli na cały łuk Ypres. Był to trzeci skok generała [Herberta Plumera](/postacie/herbert-plumer) w [trzeciej bitwie pod Ypres](/bitwy/trzecia-bitwa-pod-ypres), osiem dni po [bitwie o Polygon Wood](/bitwy/bitwa-o-polygon-wood). Główny ciężar dźwigały cztery dywizje Anzac, trzy australijskie i nowozelandzka, po raz pierwszy w tej wojnie nacierające obok siebie. Na ten sam świt niemiecka 4 Dywizja Gwardii i pułk 45 Dywizji Rezerwowej przygotowały własne natarcie, więc Australijczycy zderzyli się z nacierającymi Niemcami w ziemi niczyjej. Przed dziewiątą grzbiet był zdobyty, do niewoli trafiło kilka tysięcy Niemców, a ich przeciwnatarcia rozbiły się o ogień artylerii. W południe zaczęło padać.

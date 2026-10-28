@@ -15,6 +15,12 @@ result: Sukces obronny sprzymierzonych. Niemcy posunęli się o 2–3 km, zajęl
 authors: [Natalia]
 tags: [Australia, Francja, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "4 kwietnia 1918 roku, w deszczu, dwie armie niemieckie uderzyły na froncie około 24 km od Grivesnes po Sommę. Było to ostatnie wielkie uderzenie operacji Michael na Amiens."
+  - "Niemcy chcieli zająć linię około 8 km od Amiens, z której ciężkie działa mogłyby ostrzeliwać dworzec i mosty w mieście. Według brytyjskiej historii oficjalnej użyli 17 dywizji, w tym sześciu świeżych."
+  - "Na południu francuska 1 Armia straciła kilka wsi nad Avre i cofnęła się o ponad 3 km, a na północy zmęczona brytyjska 14 Dywizja oddała teren nad Sommą i wieś Le Hamel."
+  - "Po południu Niemcy stanęli kilkaset metrów od Villers-Bretonneux. Około 17.45 kontratak australijskiego 36 Batalionu i oddziałów brytyjskich odrzucił ich, a około 19 linia była znów bezpieczna."
+  - "Natarcie nie osiągnęło żadnego celu: Niemcy nie zdobyli ani Villers-Bretonneux, ani linii do ostrzału Amiens. Wieczorem 5 kwietnia Ludendorff wstrzymał ofensywę."
 ---
 
 Bitwa nad Avre była ostatnim wielkim uderzeniem niemieckim w czasie [operacji Michael](/bitwy/operacja-michael), ofensywy rozpoczętej 21 marca 1918 roku. Po trzech dniach przerwy, w deszczu, który nie ustawał przez cały dzień, dwie armie niemieckie zaatakowały 4 kwietnia na froncie długości około 24 km, od Grivesnes na południe od [Moreuil](https://pl.wikipedia.org/wiki/Moreuil) po [Sommę](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Chciały zająć teren, z którego ciężka artyleria mogłaby ostrzeliwać węzeł kolejowy i mosty w [Amiens](https://pl.wikipedia.org/wiki/Amiens), a następnego dnia uderzyć na samo miasto. Na południu francuska 1 Armia straciła kilka wsi nad [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) i cofnęła się o ponad 3 km. Na północy brytyjski XIX Korpus oddał teren nad Sommą i stracił wieś [Le Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)), a pod wieczór Niemcy stanęli kilkaset metrów od [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), miasteczka na płaskowyżu panującym nad drogą do Amiens. Kontratak australijskiego 36 Batalionu i brytyjskich oddziałów odrzucił ich w ostatniej chwili. Natarcie nie osiągnęło żadnego ze swoich celów, a dzień później niemieckie dowództwo zrezygnowało z dalszych ataków na Amiens.

@@ -2,7 +2,12 @@
 title: German attack at Arras
 summary: On 28 March 1918 the Germans attacked at Arras in Operation Mars. The British defence held; in the evening Ludendorff called it off and turned to Amiens.
 source: niemiecki-atak-pod-arras
-sourceHash: 9d23a39ad06d0950ce108773d385c1cec43977e9
+sourceHash: c4bf803125216a7291cb294cefe17491313e8d1e
+brief:
+  - "On 28 March 1918 General Otto von Below's German Seventeenth Army attacked at Arras, on both sides of the Scarpe, in Operation Mars. It was to break the British Third Army, which it had failed to smash since 21 March."
+  - "The British expected the attack and held the front line only with outposts, deploying their machine guns in depth. This time, unlike on 21 March, there was no fog."
+  - "South of the Scarpe the Germans pushed two Scottish divisions back to the rear Green Line, and north of the river seven divisions struck the 4th and 56th Divisions, but by evening every attack had collapsed under fire."
+  - "In the evening Ludendorff cancelled Operation Mars and the Walküre attack. He shifted the main effort towards Amiens and ordered the Georgette attack on the Lys to be prepared; it began on 9 April."
 ---
 
 On 28 March 1918, Maundy Thursday, the German spring offensive struck in a new place. In the first week of [Operation Michael](/bitwy/operacja-michael) the German forces had advanced several dozen kilometres on the Somme, but furthest in the south, against the shattered British Fifth Army and the approaching French. On the northern wing General [Otto von Below](/postacie/otto-von-below)'s Seventeenth Army had been unable since 21 March to break the British Third Army. Now it was to do so at [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), on both sides of the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), in an operation called Mars. The German soldiers, as the British official history records, went into the attack convinced that one more effort would be enough to break the British front. By evening it was clear that the attack had failed.

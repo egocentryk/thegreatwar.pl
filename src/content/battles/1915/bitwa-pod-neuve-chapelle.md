@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Brytyjczycy i Hindusi zdobyli Neuve-Chapelle i zlikw
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "Od 10 do 13 marca 1915 roku brytyjska 1 Armia generała Douglasa Haiga nacierała pod Neuve-Chapelle we francuskiej Flandrii. Była to pierwsza starannie zaplanowana ofensywa armii brytyjskiej w wojnie okopowej."
+  - "Gdy Francuzi wycofali się ze wspólnego natarcia, marszałek John French postanowił atakować sam. Haig wybrał słaby odcinek niemieckiego frontu, a ostrzał rozplanowano co do minuty na podstawie zdjęć lotniczych."
+  - "10 marca, po krótkim i silnym ostrzale, dwie brytyjskie i dwie indyjskie dywizje w kilka godzin zdobyły Neuve-Chapelle. Potem natarcie utknęło, bo łączność zawiodła, a Niemcy zabezpieczyli skrzydła wyłomu."
+  - "Przez dwa kolejne dni Brytyjczycy i Hindusi na próżno próbowali dojść do grzbietu Aubers, a niemieckie przeciwnatarcie 12 marca się załamało. Każda ze stron straciła po kilkanaście tysięcy ludzi."
+  - "Bitwa stała się wzorem dla kolejnych brytyjskich ofensyw, ale pokazała, jak trudno wykorzystać przełamanie. Brak amunicji doprowadził potem, po Aubers, do kryzysu amunicyjnego w Wielkiej Brytanii."
 ---
 
 Bitwa pod [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) była pierwszą ofensywą, którą armia brytyjska starannie zaplanowała i przeprowadziła na froncie zachodnim po przejściu do wojny okopowej. 10 marca 1915 roku cztery dywizje 1 Armii generała [Douglasa Haiga](/postacie/douglas-haig), dwie brytyjskie i dwie indyjskie, po krótkim, lecz bardzo silnym ostrzale artyleryjskim uderzyły na niemiecki występ wokół wsi Neuve-Chapelle we francuskiej Flandrii. W ciągu kilku godzin zdobyły wieś i wdarły się w niemieckie linie na szerokości około dwóch kilometrów. Potem natarcie utknęło. Przez kolejne dwa dni Brytyjczycy i Hindusi na próżno próbowali dojść do niskiego grzbietu Aubers, a Niemcy zdążyli ściągnąć posiłki i zbudować nową linię obrony. Bitwa kosztowała obie strony po kilkanaście tysięcy ludzi i nie zmieniła położenia na froncie, ale na długo wyznaczyła wzór, według którego Brytyjczycy planowali kolejne ofensywy.

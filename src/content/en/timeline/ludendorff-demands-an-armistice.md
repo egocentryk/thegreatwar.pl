@@ -2,7 +2,13 @@
 title: Ludendorff demands an armistice
 summary: On 29 September 1918 at Spa Hindenburg and Ludendorff demanded an immediate armistice request. The Kaiser agreed to appeal to Wilson and to parliamentary rule.
 source: ludendorff-zada-rozejmu
-sourceHash: 8f81833de0aa5b9005706f47c7881536c021b424
+sourceHash: a333d3c4ddb5131752cfe776bb2892a81d065b05
+brief:
+  - "On 29 September 1918 at Spa, Hindenburg and Ludendorff told the Kaiser and the foreign secretary that the war could no longer be continued and that Germany must immediately ask for an armistice."
+  - "The last week of September brought blow after blow: Bulgaria asked for an armistice, and the Allies attacked between the Meuse and the Argonne, on the Canal du Nord and at Ypres. Ludendorff had been at the end of his strength for weeks."
+  - "Secretary of State Paul von Hintze proposed a \"revolution from above\", a government including the parliamentary majority, and a direct appeal to President Wilson. Kaiser Wilhelm II accepted both proposals."
+  - "Chancellor Hertling found the decisions taken without him and asked to be relieved. Ludendorff later said the politicians should \"eat the soup they have cooked for us\", which historians see as the germ of the stab-in-the-back myth."
+  - "Prince Max von Baden became chancellor, and the note requesting an armistice, dated 3 October, was passed to Wilson through Switzerland. The armistice was not signed until 11 November."
 ---
 
 On 29 September 1918 at [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)), the Belgian spa town that housed German General Headquarters, the army's leaders told the Kaiser and the foreign secretary that the war could no longer be continued and that Germany must immediately ask for an armistice. Field Marshal [Paul von Hindenburg](/postacie/paul-von-hindenburg) and General [Erich Ludendorff](/postacie/erich-ludendorff), First Quartermaster General and the real head of the Supreme Army Command, had assured everyone as late as July that the offensive would bring victory, and in mid-August at the [Spa conference](/narada-w-spa) they had argued that the army would hold its ground on French soil. Now they themselves demanded that peace and a ceasefire be proposed to the enemy through President [Woodrow Wilson](/postacie/woodrow-wilson). Kaiser [Wilhelm II](/postacie/wilhelm-ii) agreed. On the same day the decision was also taken to hand power to a government based on a majority in the Reichstag. It was the beginning of the end of the German Empire.

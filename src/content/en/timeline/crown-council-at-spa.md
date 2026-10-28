@@ -2,7 +2,13 @@
 title: Crown council at Spa
 summary: On 14 August 1918 a crown council at Spa accepted that Germany could not win the war militarily. It resolved to seek peace, but only at a "suitable moment".
 source: narada-w-spa
-sourceHash: 298c007cf17b8cce07658e1a449a60a122f659be
+sourceHash: 9fe3b19510c3352f0e49790dc75293f3a99c62e0
+brief:
+  - "On 14 August 1918 a crown council chaired by Wilhelm II met at Spa, the seat of German General Headquarters. It was six days after the defeat at Amiens."
+  - "The day before, Ludendorff admitted to Chancellor Hertling and Secretary of State Hintze that the enemy could no longer be forced to make peace by an offensive, and that the war would have to be ended by diplomatic means."
+  - "Hintze described a grim external situation: Austria-Hungary could hold out at most until winter, and Bulgaria and Turkey were causing trouble. The Reich's leaders recorded for the first time that the war could not be won militarily."
+  - "The Emperor ordered a \"suitable moment\" to be sought for an understanding with the enemy through the neutrals. Emperor Charles I and Burián, who came to Spa, wanted to act faster, but the Germans thought this premature."
+  - "In practice Germany waited for further successes in the West, which never came. A month and a half later it was Ludendorff who demanded an immediate request for an armistice."
 ---
 
 On 14 August 1918 a crown council met under the chairmanship of Emperor [Wilhelm II](/postacie/wilhelm-ii) at [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)), the Belgian spa town that housed German General Headquarters. Six days after the defeat at [Amiens](/bitwy/bitwa-pod-amiens), the leaders of the Reich for the first time recorded in a signed protocol that the war could no longer be won by military means and that preparations had to be made for an understanding with the enemy. When in 1919 the German government published documents on the origins of the armistice, it began the whole story of the peace efforts with precisely this meeting. At the same time, however, it was decided not to hurry and to wait for a "suitable moment", which never came.

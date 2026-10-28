@@ -2,7 +2,13 @@
 title: The Zimmermann Telegram
 summary: On 19 January 1917 the German embassy in Washington passed a secret offer of an alliance against the US to Mexico. The British had been reading it for two days.
 source: telegram-zimmermanna
-sourceHash: a24994242231e9297ef556e71877981e28aed2f0
+sourceHash: d9d864569cc968d47de87bb54810ac6a2becb1aa
+brief:
+  - "On 19 January 1917 Ambassador Bernstorff forwarded from Washington to Mexico a secret telegram from State Secretary Arthur Zimmermann proposing an alliance against the United States."
+  - "The dispatch followed the decision taken at Pless to begin unrestricted submarine warfare on 1 February, which Berlin knew might mean war with America."
+  - "Zimmermann offered Mexico financial support and the recovery of territory in Texas, New Mexico and Arizona, and President Carranza was to invite Japan to join the alliance."
+  - "Britain's Room 40 had intercepted the dispatch as early as 16 January, and Captain Hall held it back so as not to reveal that the British were reading German codes and American dispatches."
+  - "Published in the American press on 1 March, the telegram outraged public opinion, and on 3 March Zimmermann admitted it was genuine. On 6 April 1917 the United States declared war on Germany."
 ---
 
 On 19 January 1917, at the German embassy in Washington, seven cipher clerks spent many hours decoding a long dispatch from Berlin. Telegram no. 157, consisting of 856 groups of figures, contained the chancellor's instructions on submarine warfare. Attached to it was a shorter telegram, no. 158, intended for the German minister in [Mexico](https://pl.wikipedia.org/wiki/Meksyk), Heinrich von Eckardt. That same day two officials re-encoded it in an older code known to the legation in Mexico, and the ambassador, Count [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff), sent it by ordinary telegraph to Mexico City. The dispatch arrived there the same day. It was signed by the state secretary of the Foreign Office, [Arthur Zimmermann](/postacie/arthur-zimmermann), who had [headed German diplomacy](/zimmermann-ministrem-spraw-zagranicznych) since November. In it he proposed to Mexico an alliance against the United States.

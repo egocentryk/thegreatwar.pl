@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Na grzbiecie Passchendaele i ostrodze Bellevue natar
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Francja]
 milestone: true
+brief:
+  - "Bitwa pod Poelcappelle, stoczona 9 października 1917 roku, była pierwszym październikowym natarciem trzeciej bitwy pod Ypres i pierwszą od września poważną porażką metody generała Herberta Plumera."
+  - "Haig, przekonany, że Niemcy słabną, przyśpieszył natarcie na pięć dni po Broodseinde. Po pięciu dniach deszczu artyleria utknęła w błocie, a piechota szła na pozycje wyjściowe całą noc."
+  - "Na grzbiecie Passchendaele i przed betonowymi schronami na ostrodze Bellevue natarcie 66 i 49 Dywizji się załamało, a zdobyty rano teren w większości oddano."
+  - "Na nizinach na północy Dywizja Gwardii, 29 Dywizja i francuska 2 Dywizja posunęły się o ponad dwa kilometry, pod skraj lasu Houthulst. Alianci stracili zapewne ponad 12 tysięcy ludzi w ciągu jednego dnia."
+  - "Fałszywe meldunki o sukcesie skłoniły dowództwo do wyznaczenia kolejnego natarcia na 12 października, z tej samej linii i przez te same zasieki, co przyniosło jeszcze cięższe straty."
 ---
 
 Bitwa pod Poelcappelle była pierwszym październikowym natarciem w [trzeciej bitwie pod Ypres](/bitwy/trzecia-bitwa-pod-ypres) i pierwszą od września poważną porażką metody generała [Herberta Plumera](/postacie/herbert-plumer). 9 października 1917 roku o 5.20, zaledwie pięć dni po zwycięstwie [pod Broodseinde](/bitwy/bitwa-pod-broodseinde), brytyjska [2 Armia](https://pl.wikipedia.org/wiki/2_Armia_(Wielka_Brytania)) Plumera i 5 Armia generała [Huberta Gougha](/postacie/hubert-gough), wspierane na północy przez Francuzów, uderzyły na froncie długości około 12 kilometrów, od Reutel po las Houthulst. Po pięciu dniach deszczu artyleria utknęła w błocie, a dwie dywizje brytyjskie, które miały zdobyć przedpola wsi [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), szły na pozycje wyjściowe całą noc i ruszyły wyczerpane, część z opóźnieniem. Na grzbiecie i przed betonowymi schronami na ostrodze Bellevue natarcie się załamało, a zdobyty rano teren w większości oddano. Na nizinach na północy, gdzie ziemia była mniej zryta pociskami, brytyjska Dywizja Gwardii, 29 Dywizja i francuska 2 Dywizja posunęły się o ponad dwa kilometry, pod skraj lasu Houthulst. Fałszywe meldunki o sukcesie skłoniły dowództwo do wyznaczenia następnego natarcia już na 12 października.

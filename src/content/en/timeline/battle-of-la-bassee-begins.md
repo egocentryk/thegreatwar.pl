@@ -2,7 +2,12 @@
 title: Battle of La Bassée begins
 summary: On 10 October 1914 the British II Corps, moved from the Aisne, marched towards Béthune and La Bassée. So began the British fighting in Flanders.
 source: poczatek-bitwy-pod-la-bassee
-sourceHash: 19f290183066e530ea09d0bf10f6f280fa810986
+sourceHash: f197791d3f212581237918eb21baa2a614af44e0
+brief:
+  - "On 10 October 1914, according to the official British chronology, the Battle of La Bassée began. General Horace Smith-Dorrien's British II Corps, freshly moved from the Aisne, was marching towards Béthune."
+  - "North of the French Tenth Army's left wing there were only French cavalry and Territorial divisions. Foch and Field Marshal John French agreed at Doullens on a joint advance, with the British to outflank Lille from the north."
+  - "Thanks to French buses and forced marching, the divisions of II Corps covered about 35 kilometres on 10 October. They went into action only two days later, heading straight east towards La Bassée."
+  - "On 13 October the Germans retook Givenchy, and II Corps lost almost a thousand men. Instead of a manoeuvre came weeks of fighting for every village, and the Germans held La Bassée until the autumn of 1918."
 ---
 
 On 10 October 1914, according to the official British chronology, the Battle of [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée) began. That day the British II Corps of General Horace Smith-Dorrien, freshly moved from the Aisne, was approaching Béthune by a rapid march to take its place on the left wing of the French armies. In this way the British entered the last stage of the [Race to the Sea](/bitwy/wyscig-do-morza), which over the following weeks was to be decided on the plains of French and Belgian Flanders.

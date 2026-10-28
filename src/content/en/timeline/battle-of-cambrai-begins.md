@@ -2,7 +2,13 @@
 title: Battle of Cambrai
 summary: On 20 November 1917 hundreds of British tanks, with no preliminary bombardment, broke the Hindenburg Line at Cambrai. Over 4,000 prisoners were taken.
 source: poczatek-bitwy-pod-cambrai
-sourceHash: dbf2819fff0beb3ef099b74d55229958fedbd750
+sourceHash: d7e2562d5b4a63a085961d6999ace5766774d9a7
+brief:
+  - "On 20 November 1917 General Julian Byng's British Third Army attacked the Hindenburg Line at Cambrai without artillery preparation. Several hundred Mark IV tanks drove ahead of the infantry."
+  - "The new method was the work of, among others, General Hugh Elles and J. F. C. Fuller, who wanted to use tanks in mass on dry ground. More than a thousand guns opened fire only at the moment of the attack."
+  - "Surprise was complete: within four hours the British had passed through the whole German defence system and advanced five or six kilometres, at a low cost."
+  - "At Flesquières German field guns destroyed many tanks and the attack stalled. The cavalry failed to cross the canal at Masnières, and Bourlon ridge remained in German hands."
+  - "By evening more than four thousand prisoners had been taken, and church bells rang in Britain. The rejoicing was premature: on 30 November a German counter-attack took back most of the gains."
 ---
 
 On Tuesday 20 November 1917, at 6.20 a.m., on a front some ten kilometres long south-west of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), an attack began such as the Western Front had never seen. The British Third Army of General [Julian Byng](/postacie/julian-byng) assaulted the Hindenburg Line without a single shot of artillery preparation. Several hundred tanks drove ahead of the infantry to crush the wire, and more than a thousand guns opened fire only at the moment of the attack, aiming by maps and calculation. Surprise was complete. Within four hours the British had passed through the whole system of German defences, advanced five or six kilometres and by evening taken more than four thousand prisoners, at a cost many times lower than in the attacks in Flanders. Even so, the day's plan was not fulfilled: the attack stalled at Flesquières, the cavalry did not get across the canal, and Bourlon ridge remained in German hands.

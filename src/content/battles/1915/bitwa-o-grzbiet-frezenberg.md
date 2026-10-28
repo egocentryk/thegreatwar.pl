@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Niemcy zajęli grzbiet Frezenberg i przesunęli fron
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Kanada]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Frezenberg, stoczona od 8 do 13 maja 1915 roku na wschód od Ypres, była trzecim etapem drugiej bitwy pod Ypres. Niemiecka 4 Armia skupiła przeciw dwóm wykrwawionym dywizjom brytyjskim większość trzech korpusów."
+  - "Po wycofaniu się z wierzchołka łuku Brytyjczycy stali na złej linii płytkich okopów, widocznej z niemieckich wzniesień. Brakowało im ciężkich dział, amunicji, zasieków i schronów."
+  - "8 maja huraganowy ostrzał zrównał z ziemią okopy 28 Dywizji, a Niemcy otworzyli wyrwę szeroką na ponad 3 kilometry. Kanadyjczycy z Princess Patricia's Canadian Light Infantry nie pozwolili rozszerzyć jej na południe."
+  - "Wieczorne kontrataki zamknęły wyrwę, a w następnych dniach wyczerpaną piechotę zastąpiła spieszona kawaleria. Po ostatnim wielkim natarciu 13 maja walki ucichły."
+  - "Niemcy zdobyli pas ziemi głęboki na około kilometr, ale nie doszli do Ypres. V Korpus stracił ponad 9,3 tysiąca ludzi, a według historii oficjalnej o przebiegu walk przesądziła przewaga niemieckiej artylerii."
 ---
 
 Bitwa o grzbiet Frezenberg, stoczona od 8 do 13 maja 1915 roku na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), była trzecim etapem [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Kilka dni po tym, jak Brytyjczycy wycofali się z wierzchołka łuku na krótszą linię, niemiecka 4 Armia zebrała naprzeciw dwóch wykrwawionych dywizji brytyjskich większość trzech korpusów i przewagę ciężkiej artylerii. 8 maja huraganowy ostrzał zrównał z ziemią okopy na odsłoniętym stoku grzbietu Frezenberg, a niemiecka piechota otworzyła w brytyjskim froncie wyrwę szeroką na ponad 3 kilometry. Zamknęły ją ostatnie odwody, a w następnych dniach w okopach zastąpiła wyczerpaną piechotę spieszona kawaleria. Niemcy zdobyli pas ziemi głęboki na około kilometr, ale do Ypres nie doszli. Obie strony zapłaciły za to ogromną cenę.

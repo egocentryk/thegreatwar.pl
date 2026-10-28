@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Brytyjczycy zdobyli Guillemont, farmę Falfemont
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Irlandia, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa pod Guillemont, stoczona 3–6 września 1916 roku nad Sommą, zakończyła trwające od 23 lipca nieudane brytyjskie natarcia na wieś na prawym skrzydle frontu, przy styku z Francuzami."
+  - "Wcześniejsze ataki prowadzono wąskim frontem, pod ogniem z farmy Falfemont i Ginchy, dlatego Haig ponaglał Rawlinsona do starannie przygotowanego natarcia na szerszym froncie, w porozumieniu z Francuzami."
+  - "3 września 20 Dywizja (Lekka), wzmocniona irlandzką 47 Brygadą, zdobyła Guillemont w niespełna trzy godziny, idąc tuż za ruchomą zaporą ogniową."
+  - "Farma Falfemont, ostrzeliwana z flanki, padła dopiero 5 września, a Brytyjczycy weszli do lasu Leuze, natomiast 7 Dywizja kilka razy wdarła się do Ginchy i za każdym razem musiała się wycofać."
+  - "Brytyjczycy zlikwidowali występ pod lasem Delville i połączyli się z Francuzami, a bitwa uchodzi za dowód, że ich armia nauczyła się czegoś przez lato. Ginchy padło 9 września."
 ---
 
 Bitwa pod Guillemont zakończyła jeden z najbardziej frustrujących rozdziałów [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Wieś [Guillemont](https://pl.wikipedia.org/wiki/Guillemont), leżąca na prawym skrzydle brytyjskiego frontu, przy styku z Francuzami, przez ponad pięć tygodni odpierała kolejne natarcia. Od 23 lipca do końca sierpnia brytyjskie bataliony kilka razy wdzierały się w jej ruiny i za każdym razem były z nich wyrzucane albo ginęły w nich odcięte. Dopiero 3 września 1916 roku 20 Dywizja (Lekka), wzmocniona irlandzką 47 Brygadą z 16 Dywizji, zdobyła wieś w niespełna trzy godziny. Na jej prawym skrzydle 5 Dywizja przełamała drugą pozycję niemiecką, ale przez dwa dni nie mogła zdobyć farmy Falfemont, ostrzeliwanej z flanki, bo Francuzom nie udało się w porę oczyścić sąsiedniego wąwozu. Farma padła 5 września, a Brytyjczycy weszli do lasu Leuze nad Combles. Na lewym skrzydle 7 Dywizja kilka razy wdarła się do [Ginchy](https://pl.wikipedia.org/wiki/Ginchy) i za każdym razem musiała się z niego wycofać.

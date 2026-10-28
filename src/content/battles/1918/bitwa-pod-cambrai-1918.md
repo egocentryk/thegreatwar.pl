@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. 3 i 4 Armia przeszły przez niedokończone 
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Kanada, Niemcy, czołgi]
 milestone: true
+brief:
+  - "8 i 9 października 1918 roku brytyjska 3 Armia gen. Juliana Bynga i 4 Armia gen. Henry'ego Rawlinsona, z amerykańską 30 Dywizją, uderzyły na froncie ponad 27 kilometrów od Sequehart po przedmieścia Cambrai."
+  - "Po przełamaniu Linii Hindenburga i linii Beaurevoir Niemcy stali na resztkach umocnień, z wyczerpanymi odwodami. Cambrai, ważny węzeł kolejowy, było otoczone przez Brytyjczyków z trzech stron."
+  - "8 października Brytyjczycy i Amerykanie przeszli przez ostatnie niedokończone okopy i posunęli się o pięć–sześć kilometrów. Pod Niergnies Niemcy kontratakowali zdobytymi brytyjskimi czołgami Mark IV, ale zostali odparci."
+  - "W nocy Niemcy zaczęli odwrót na pozycję Hermanna, a garnizon opuścił Cambrai. 9 października Kanadyjczycy przeszli kanał Skaldy i spotkali się w płonącym mieście z patrolami brytyjskiej 57 Dywizji."
+  - "Bitwa zakończyła walki o Linię Hindenburga: przed Brytyjczykami nie było już przygotowanych umocnień aż po Selle. W dniu natarcia prezydent Wilson wysłał Niemcom pierwszą odpowiedź na ich prośbę o rozejm."
 ---
 
 Bitwa pod Cambrai w październiku 1918 roku była ostatnią z [bitew o Linię Hindenburga](/bitwy/bitwy-o-linie-hindenburga). Rankiem 8 października brytyjska 3 Armia generała [Juliana Bynga](/postacie/julian-byng) i 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), a z nimi amerykańska 30 Dywizja, uderzyły na froncie ponad 27 kilometrów od Sequehart po południowe przedmieścia [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Przeszły przez ostatnie, niedokończone okopy niemieckie i wyszły na otwarty teren, niezryty okopami. Niemcy kontratakowali nawet czołgami, zdobytymi wcześniej na Brytyjczykach, ale wieczorem albo w nocy ich dowództwo kazało wycofać armie na tyłową pozycję Hermanna. W nocy z 8 na 9 października Kanadyjczycy przeszli przez kanał Skaldy na północ od miasta, a ich patrole i patrole brytyjskiej 57 Dywizji spotkały się w Cambrai, które Niemcy próbowali przed odejściem spalić. Miasto, o które Brytyjczycy na próżno walczyli jesienią 1917 roku, po ponad czterech latach okupacji znów było francuskie.

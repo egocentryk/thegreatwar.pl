@@ -15,6 +15,12 @@ result: Zwycięstwo kanadyjsko-brytyjskie. Linię Drocourt–Quéant przełamano
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Erich Ludendorff]
 milestone: true
+brief:
+  - "2 i 3 września 1918 roku Korpus Kanadyjski gen. Arthura Curriego z brytyjskiej 1 Armii przełamał na wschód od Arras linię Drocourt–Quéant, północne przedłużenie Linii Hindenburga, zwane przez Niemców pozycją Wotan."
+  - "Po tygodniu walk nad Scarpe Horne i Currie postanowili uderzyć dopiero, gdy wszystko będzie gotowe. Currie wybrał najczulszy punkt linii po obu stronach drogi Arras–Cambrai, z czołgami Mark V i silną artylerią."
+  - "O 5.00 rano 2 września Kanadyjczycy w ciągu kilku godzin przeszli przez obie linie okopów i zdobyli Dury i Cagnicourt, a do 23.00 także przełącznik Buissy. Siedmiu z nich dostało za ten dzień Krzyż Wiktorii."
+  - "Około południa niemieckie naczelne dowództwo uznało porażkę i nakazało odwrót za Sensée i Canal du Nord oraz na Linię Hindenburga. Od 1 do 3 września korpus stracił 297 oficerów i 5325 szeregowych."
+  - "Było to jedno z najważniejszych zwycięstw ofensywy stu dni: Niemcy stracili nadzieję na spokojne przezimowanie przed Linią Hindenburga, a Currie uważał je za większe niż 8 sierpnia pod Amiens."
 ---
 
 Bitwa o linię Drocourt–Quéant była szturmem, w którym 2 września 1918 roku Korpus Kanadyjski generała [Arthura Curriego](/postacie/arthur-currie), wchodzący w skład brytyjskiej 1 Armii, przełamał najsilniejszą niemiecką pozycję na wschód od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Linia Drocourt–Quéant, przez Niemców zaliczana do pozycji Wotan, była północnym przedłużeniem Linii Hindenburga i zamykała drogę na równinę [Douai](https://pl.wikipedia.org/wiki/Douai) i do [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Po tygodniu ciężkich walk [nad Scarpe](/bitwy/bitwa-nad-scarpe-1918) Kanadyjczycy uderzyli na nią o świcie, w ciągu kilku godzin przeszli przez obie jej linie okopów, a do wieczora zdobyli jeszcze pozycję ryglową za nią i wsie Cagnicourt i Villers-lès-Cagnicourt. Na prawo od nich brytyjski XVII Korpus z 3 Armii wdarł się w południowy kraniec linii, tam, gdzie łączyła się z Linią Hindenburga. Jeszcze tego samego dnia niemieckie naczelne dowództwo nakazało odwrót: w nocy Niemcy oderwali się od Kanadyjczyków i cofnęli za Sensée i Canal du Nord, a dalej na południe na pozycje, z których w marcu ruszyli do wiosennej ofensywy.

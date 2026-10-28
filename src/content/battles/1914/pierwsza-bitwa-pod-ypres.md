@@ -17,6 +17,12 @@ result: Zwycięstwo obronne aliantów. Niemcy nie przełamali frontu i nie dotar
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, wyścig do morza]
 milestone: true
+brief:
+  - "Pierwsza bitwa pod Ypres, stoczona od 19 października do 22 listopada 1914 roku, była ostatnią i największą bitwą wyścigu do morza. Zderzyły się w niej ofensywy aliantów i Niemców."
+  - "Alianci chcieli obejść północne skrzydło Niemców, a gen. Falkenhayn rzucił do Flandrii nową 4 Armię, złożoną w dużej części z ochotników, by przełamać front i dotrzeć do portów nad kanałem La Manche."
+  - "Niemcy atakowali niemal bez przerwy przez pięć tygodni. Najbliżej przełamania byli 31 października pod Gheluvelt i 11 listopada pod Nonne Bosschen, ale kontrataki zamykały wyrwy."
+  - "Brytyjski Korpus Ekspedycyjny i nadciągające francuskie korpusy utrzymały Ypres. Wokół miasta powstał łuk Ypres, gdzie przez kolejne cztery lata toczyły się jedne z najkrwawszych walk wojny."
+  - "Bitwa zamknęła wyścig do morza i zapoczątkowała wojnę pozycyjną na zachodzie. Stara zawodowa armia brytyjska niemal przestała istnieć: od sierpnia do końca listopada straciła prawie 90 tysięcy ludzi."
 ---
 
 [Pierwsza bitwa pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), stoczona od 19 października do 22 listopada 1914 roku, była ostatnią i największą bitwą [wyścigu do morza](/bitwy/wyscig-do-morza). Pod starym flandryjskim miastem [Ypres](https://pl.wikipedia.org/wiki/Ieper) zderzyły się dwie ofensywy. Alianci chcieli ruszyć na wschód i obejść północne skrzydło Niemców, a Niemcy, którzy przerzucili do Flandrii nową armię złożoną w dużej części z ochotników, zamierzali przełamać front i dotrzeć do portów nad kanałem La Manche. Przez pięć tygodni Niemcy atakowali niemal bez przerwy, najpierw na północ i wschód od miasta, potem na południowy wschód. Kilka razy byli bliscy przełamania, ale [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) i nadciągające francuskie korpusy utrzymały front. Ypres pozostało w rękach aliantów, a zawodowa armia brytyjska, która w sierpniu wyruszyła do Francji, niemal przestała istnieć.

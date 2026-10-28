@@ -10,6 +10,11 @@ dayOrder: 3
 tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "7 grudnia 1915 roku wojska osmańskie pułkownika Nureddina Beja zaczęły zamykać pierścień wokół Al-Kutu nad Tygrysem. Nureddin wezwał generała Charlesa Townshenda do kapitulacji."
+  - "Townshend chciał wycofać się do Ali al-Gharbi, ale generał John Nixon się nie zgodził i obiecał posiłki w ciągu tygodnia. Townshend postanowił zostać, choć znał z historii los wojsk zamykających się w twierdzach."
+  - "W mieście zostało 11 607 żołnierzy i 43 działa, a także ponad 6 tysięcy mieszkańców. Wokół Al-Kutu stały cztery tureckie dywizje, które walczyły pod Ktezyfonem."
+  - "Turcy nie śpieszyli się do szturmu, tylko okopywali się i podchodzili sapami. Garnizon nie spodziewał się, że czeka go blisko pięć miesięcy oblężenia."
 ---
 
 7 grudnia 1915 roku wojska osmańskie pułkownika [Nureddina Beja](/postacie/nureddin-pasza) zaczęły zamykać pierścień wokół [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). Według brytyjskiej historii oficjalnej (Moberly) tureckie siły ocenione na dywizję z ośmioma działami okopały się na prawym brzegu, na północny zachód od miasta. Na lewym brzegu, również od północnego zachodu, stało około 1500 żołnierzy z działami, a kilka kilometrów w górę rzeki większa część dwóch dywizji. Przez cały dzień tureckie działa ostrzeliwały miasto. Tego dnia Nureddin przysłał generałowi Charlesowi Townshendowi list z wezwaniem do kapitulacji. Moberly odnotowuje krótko, że możliwa była tylko jedna odpowiedź. Ten dzień uważa się zwykle za początek oblężenia, które trwało prawie pięć miesięcy.

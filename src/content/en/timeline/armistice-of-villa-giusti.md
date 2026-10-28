@@ -2,7 +2,13 @@
 title: Armistice of Villa Giusti
 summary: On 3 November 1918 near Padua Austria-Hungary signed an armistice with the Allies. Fighting ceased at 3 p.m. on 4 November; the Habsburg monarchy left the war.
 source: rozejm-w-villa-giusti
-sourceHash: b236d80c26cbfc4960578be9d24054e5473cbaa1
+sourceHash: 0b05cc9230fe42d629f2b113ea44d464c6e35c5f
+brief:
+  - "On 3 November 1918 at Villa Giusti on the outskirts of Padua General Viktor Weber von Webenau's commission signed an armistice with the Allies, for whom General Pietro Badoglio signed. Fighting was to cease at 3 p.m. on 4 November."
+  - "Austria-Hungary was leaving the war as a state in dissolution, its army retreating in disorder. Badoglio declared that the terms were not open to discussion, and the commission's communication with Vienna was very slow."
+  - "In Vienna Emperor Karl I hesitated, accepted the terms and then tried to revoke his acceptance, but the order to cease fighting had already gone out to the troops. Weber took the responsibility upon himself and accepted."
+  - "The monarchy was to demobilise its army, hand over half its artillery and withdraw behind a line through the Brenner Pass to the sea, almost exactly the frontier promised to Italy in the Treaty of London of 1915."
+  - "For 24 hours after the signing the Italians kept advancing while the monarchy's soldiers laid down their arms. According to an Italian communiqué some 300,000 men were taken prisoner, poisoning the memory of the armistice for years."
 ---
 
 On 3 November 1918, at the villa of Count Vettor Giusti del Giardino on the outskirts of [Padua](https://pl.wikipedia.org/wiki/Padwa), the Austro-Hungarian armistice commission under General of Infantry Viktor Weber von Webenau signed an [armistice](https://pl.wikipedia.org/wiki/Rozejm_w_Villa_Giusti) with the Allies. It was signed on their behalf by the deputy chief of the Italian General Staff, Lieutenant-General [Pietro Badoglio](/postacie/pietro-badoglio). Fighting on land, at sea and in the air was to cease the next day, 4 November, at 3 p.m. Austria-Hungary, which had begun the war in 1914 by declaring it on Serbia, was leaving it as a state in dissolution, and for several days its army had been [retreating in disorder](/bitwy/bitwa-pod-vittorio-veneto) before the Italians, British and French. The last day and a half of the war, when the Austro-Hungarian troops had stopped fighting but the Italians kept advancing, was to cost the monarchy hundreds of thousands of prisoners and poison the memory of this armistice for years.

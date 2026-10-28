@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "23 kwietnia 1917 roku, w dniu św. Jerzego, dziewięć brytyjskich dywizji znów zaatakowało pod Arras, na froncie długości około 15 km po obu stronach Scarpe."
+  - "Douglas Haig chciał wiązać Niemców pod Arras, dopóki Francuzi walczyli nad Aisne. Tym razem nie było jednak zaskoczenia, a pułkownik Fritz von Loßberg zdążył przebudować niemiecką obronę."
+  - "63 Dywizja Królewskiej Marynarki zdobyła Gavrelle, a szkocka 15 Dywizja wyparła Niemców z Guémappe. O Rœux i zakłady chemiczne nad Scarpe walczono dom po domu."
+  - "Prawie wszędzie niemieckie kontrataki odebrały Brytyjczykom to, co zdobyli rano. Wielu uczestników nazwało te walki najcięższymi, jakie przeżyli od początku wojny."
+  - "Za kilkaset metrów do 2 km ziemi Brytyjczycy zapłacili według różnych szacunków od ponad 8 do około 10 tysięcy zabitych, rannych i zaginionych. Rœux i Infantry Hill zostały w rękach niemieckich."
 ---
 
 23 kwietnia 1917 roku o 4.45 rano, po ośmiu dniach przerwy, brytyjska piechota znów wyszła z okopów pod [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Na froncie długości około 15 km, od Croisilles po Gavrelle, po obu stronach rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), ruszyło dziewięć dywizji 3 Armii generała [Edmunda Allenby’ego](/postacie/edmund-allenby) i prawego skrzydła 1 Armii. Był to dzień św. Jerzego, patrona Anglii, i zarazem jeden z najkrwawszych dni [bitwy pod Arras](/bitwy/bitwa-pod-arras-1917). Brytyjska historia oficjalna odnotowuje, że wielu uczestników nazwało te walki najcięższymi, jakie przeżyli od początku wojny. Do wieczora Brytyjczycy zdobyli Gavrelle i Guémappe, ale prawie wszędzie indziej niemieckie kontrataki odebrały im to, co zdobyli rano.

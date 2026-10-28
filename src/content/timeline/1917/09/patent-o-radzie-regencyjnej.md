@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Królestwo Polskie, Niemcy, Austro-Węgry, okupacja niemiecka]
 milestone: true
 draft: false
+brief:
+  - "12 września 1917 roku Niemcy i Austro-Węgry wydały patent, który przekazywał najwyższą władzę w Królestwie Polskim, aż do objęcia jej przez króla lub regenta, trzyosobowej Radzie Regencyjnej."
+  - "Patent był drugim, po akcie 5 listopada, krokiem okupantów w budowie Królestwa. Powstał po upadku Tymczasowej Rady Stanu, której członkowie złożyli mandaty 25 sierpnia."
+  - "Rada Regencyjna miała powołać Prezydenta Ministrów i sprawować władzę prawodawczą z nową Radą Stanu. Każda polska ustawa wymagała jednak zgody generał-gubernatora, a wojsko pozostało w rękach Beselera."
+  - "Regentami zostali arcybiskup Aleksander Kakowski, książę Zdzisław Lubomirski i Józef Ostrowski. Objęli urząd 27 października, i dopiero wtedy patent wszedł w życie."
+  - "Rada Regencyjna, przez wielu uważana za narzędzie okupantów, przetrwała do końca wojny. W październiku 1918 roku ogłosiła niepodległość Polski, a 14 listopada przekazała władzę Piłsudskiemu."
 ---
 
 12 września 1917 roku cesarz [Karol I](/postacie/karol-i-habsburg) podpisał w [Reichenau an der Rax](https://pl.wikipedia.org/wiki/Reichenau_an_der_Rax) w Dolnej Austrii pismo odręczne do austro-węgierskiego generał-gubernatora w Lublinie, hrabiego [Stanisława Szeptyckiego](https://pl.wikipedia.org/wiki/Stanisław_Szeptycki). Upoważniał go w nim, by „w zupełnem porozumieniu” z cesarzem [Wilhelmem II](/postacie/wilhelm-ii) wydał razem z niemieckim generał-gubernatorem warszawskim [Hansem Hartwigiem von Beselerem](/postacie/hans-von-beseler) dołączony patent „o władzy państwowej w Królestwie Polskiem”. Akt nosi tę samą datę i podpisy obu generał-gubernatorów. Jego pierwszy artykuł stanowił, że najwyższa władza państwowa w [Królestwie Polskim](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)), aż do jej objęcia przez króla lub regenta, przechodzi na [Radę Regencyjną](https://pl.wikipedia.org/wiki/Rada_Regencyjna), „nie naruszając międzynarodowego stanowiska państw okupacyjnych”. Brytyjska chronologia wojny pisze pod tą datą, że państwa centralne nadały Polsce tymczasową konstytucję. W austro-węgierskiej strefie okupacyjnej patent ogłosił 15 września wydawany w Lublinie dziennik urzędowy władz wojskowych.

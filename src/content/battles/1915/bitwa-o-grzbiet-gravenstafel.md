@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Niemcy po ataku gazowym zajęli grzbiet pod Pilkem i
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Francja]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Gravenstafel, stoczona 22 i 23 kwietnia 1915 roku na północ od Ypres, była pierwszym etapem drugiej bitwy pod Ypres. Zaczęła się od pierwszego na froncie zachodnim ataku chlorem."
+  - "22 kwietnia około 17 Niemcy otworzyli butle na froncie długim na około 6 kilometrów. Chmura chloru w kilkadziesiąt minut rozbiła dwie francuskie dywizje i otworzyła w alianckim froncie wyrwę szeroką na kilka kilometrów."
+  - "W nocy kanadyjski 10 i 16 Batalion zaatakowały na bagnety Kitcheners' Wood, a 23 kwietnia Kanadyjczycy i Brytyjczycy kontratakowali bez rozpoznania i niemal bez wsparcia artylerii. Straty były ogromne."
+  - "Niemcy nie mieli odwodów, by wykorzystać sukces, i zatrzymali się na wyznaczonej linii. Wieczorem 23 kwietnia alianci zamknęli wyrwę nową, ciągłą linią, ale utraconego terenu nie odzyskali."
+  - "Dla 1 Dywizji Kanadyjskiej był to chrzest ognia, który ugruntował jej opinię. Nazajutrz Niemcy zaatakowali gazem samych Kanadyjczyków i zaczęła się bitwa pod St. Julien."
 ---
 
 Bitwa o grzbiet Gravenstafel, stoczona 22 i 23 kwietnia 1915 roku na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper), była pierwszym etapem [drugiej bitwy pod Ypres](/bitwy/druga-bitwa-pod-ypres). Zaczęła się od pierwszego na froncie zachodnim ataku [chlorem](https://pl.wikipedia.org/wiki/Chlor), który rozbił dwie francuskie dywizje i otworzył w alianckim froncie wyrwę szeroką na kilka kilometrów. Przez noc i następny dzień [1 Dywizja Kanadyjska](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska) i ściągane z odwodów bataliony brytyjskie zamykały ją, kontratakując bez rozpoznania i niemal bez wsparcia artylerii. Niemcy nie przeszli dalej, ale cena była ogromna, a utraconego terenu nie odzyskano.

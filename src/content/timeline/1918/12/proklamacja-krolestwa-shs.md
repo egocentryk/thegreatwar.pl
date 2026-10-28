@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Serbia, Aleksander Karađorđević, Belgrad, Włochy]
 milestone: true
 draft: false
+brief:
+  - "1 grudnia 1918 roku wieczorem w Belgradzie regent Aleksander przyjął delegację Rady Narodowej z Zagrzebia i w imieniu króla Piotra I proklamował Królestwo Serbów, Chorwatów i Słoweńców."
+  - "Proklamowane 29 października w Zagrzebiu Państwo SHS po miesiącu znalazło się w położeniu bez wyjścia: nikt go nie uznał, nie miało wojska, a Włosi zajmowali Istrię, Rijekę i część Dalmacji."
+  - "Za namową Svetozara Pribićevicia delegacja odłożyła instrukcję z Zagrzebia z warunkami zjednoczenia, a jej życzenia w adresie odczytanym przez Ante Pavelicia były tylko prośbami, bez gwarancji."
+  - "W Chorwacji nastroje były wrogie: 5 grudnia na placu Jelačicia w Zagrzebiu doszło do strzelaniny z żołnierzami wznoszącymi okrzyki na cześć republiki, w której według oficjalnego sprawozdania zginęło 13 osób."
+  - "Zjednoczenie dokonało się bez umowy o ustroju. Spór Serbów z Chorwatami o państwo scentralizowane lub federację stał się główną osią polityki jugosłowiańskiej aż do upadku królestwa w 1941 roku."
 ---
 
 1 grudnia 1918 roku wieczorem w [Belgradzie](https://pl.wikipedia.org/wiki/Belgrad) regent Serbii [Aleksander](/postacie/aleksander-i-karadziordziewic) przyjął delegację Rady Narodowej z Zagrzebia, wysłuchał jej adresu i w imieniu swojego ojca, króla [Piotra I](/postacie/piotr-i-karadziordziewic), proklamował zjednoczenie Serbii z ziemiami Państwa Słoweńców, Chorwatów i Serbów w jedno [Królestwo Serbów, Chorwatów i Słoweńców](https://pl.wikipedia.org/wiki/Królestwo_Serbów,_Chorwatów_i_Słoweńców). Tak powstało pierwsze wspólne państwo południowych Słowian, nazywane w skrócie Królestwem SHS, a od 1929 roku oficjalnie [Królestwem Jugosławii](https://pl.wikipedia.org/wiki/Królestwo_Jugosławii). Zjednoczenie dokonało się jednak bez żadnej umowy o tym, jak nowe państwo ma być urządzone, i ta niedopowiedziana sprawa ciążyła na nim przez cały okres międzywojenny.

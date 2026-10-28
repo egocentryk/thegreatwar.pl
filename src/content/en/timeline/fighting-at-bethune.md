@@ -2,7 +2,13 @@
 title: Fighting at Béthune
 summary: On 18 April 1918 six German divisions attacked Givenchy, Festubert and the La Bassée canal. The British repulsed the attack and Béthune stayed in their hands.
 source: walki-pod-bethune
-sourceHash: 58c82b71cb2436d42284f47a18abd95db71bac41
+sourceHash: a91e14b94db5fbe9a3d980cd379fe303940de074
+brief:
+  - "On 18 April 1918, the tenth day of the offensive on the Lys, six divisions of the German 6th Army tried for the last time to break the southern wing of the British First Army."
+  - "Their objectives were Givenchy, Festubert and the La Bassée canal line, and beyond them Béthune. A night gas bombardment preceded the attack, lasting seven hours in front of the 1st Division."
+  - "At Givenchy and Festubert the redoubts in the ruins and counter-attacks, among them by the 1st Gloucestershire, stopped the Germans. On the canal their crossing attempts collapsed before 6.30."
+  - "By evening the front had returned roughly to its morning line. The British official history called 18 April \"another day of successful defence\"."
+  - "Béthune and the coal mines on which the French armaments industry depended remained in Allied hands. On 20 April Rupprecht of Bavaria ordered the 6th Army to go over to the defensive."
 ---
 
 On 18 April 1918, on the tenth day of the German [offensive on the Lys](/bitwy/bitwa-nad-lys-1918), German troops tried for the last time to break the southern wing of the British First Army in Flanders. Their objectives were the ruined villages of [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée) and [Festubert](https://pl.wikipedia.org/wiki/Festubert) and the line of the La Bassée canal, and beyond them the town of [Béthune](https://pl.wikipedia.org/wiki/Béthune). After a night gas bombardment six divisions of the German 6th Army went in to the assault in the morning mist. By evening it was clear that the attack had failed. The British official history says briefly that 18 April was "another day of successful defence", and that the German plans to take Givenchy, Festubert and Béthune had been "completely frustrated".

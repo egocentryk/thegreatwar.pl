@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Stany Zjednoczone, Austro-Węgry, Woodrow Wilson, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "7 grudnia 1917 roku, osiem miesięcy po przystąpieniu do wojny z Niemcami, Kongres przyjął rezolucję o stanie wojny z Austro-Węgrami, a prezydent Woodrow Wilson podpisał ją tego samego dnia."
+  - "Wniosek wyszedł od Wilsona, który 4 grudnia w orędziu nazwał monarchię wasalem rządu niemieckiego. Wojny Turcji i Bułgarii nie wypowiedział, bo uznał je za „tylko narzędzia”."
+  - "Senat głosował jednogłośnie, 74 głosami za. W Izbie Reprezentantów przeciw był tylko socjalista Meyer London, a Jeannette Rankin tym razem poparła rezolucję."
+  - "Od 7 grudnia wielu imigrantów z Austro-Węgier stało się formalnie wrogimi cudzoziemcami, ale proklamacja Wilsona z 11 grudnia potraktowała ich łagodniej niż Niemców."
+  - "Wojskowo decyzja niewiele zmieniała od razu, ale miała znaczenie polityczne, zwłaszcza dla Włoch: Stany Zjednoczone mogły wysłać żołnierzy na front włoski, co nastąpiło w 1918 roku."
 ---
 
 7 grudnia 1917 roku, osiem miesięcy po [przystąpieniu do wojny z Niemcami](/usa-wypowiadaja-wojne-niemcom), Stany Zjednoczone znalazły się w stanie wojny także z Austro-Węgrami. Tego dnia obie izby [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) przyjęły wspólną rezolucję, a prezydent [Woodrow Wilson](/postacie/woodrow-wilson) jeszcze tego samego dnia ją podpisał. Senat głosował jednogłośnie, 74 głosami za, a w Izbie Reprezentantów przeciw był tylko jeden poseł, socjalista Meyer London z Nowego Jorku. Według strony internetowej Izby za rezolucją głosowało 365 posłów, a „New York Times Current History” podawał 363. W przeciwieństwie do kwietniowej debaty o wojnie z Niemcami tym razem nikt w Kongresie nie wątpił w wynik. Sporna była najwyżej kwestia, dlaczego wojna obejmuje tylko monarchię Habsburgów, a nie pozostałych sojuszników Niemiec.

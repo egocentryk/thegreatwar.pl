@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Australijczycy i Brytyjczycy zdobyli las Polygon
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Erich Ludendorff]
 milestone: true
+brief:
+  - "Bitwa o Polygon Wood, toczona 26 września – 3 października 1917 roku, była drugim z trzech „ugryzień” generała Herberta Plumera w trzeciej bitwie pod Ypres."
+  - "26 września o 5.50 siedem dywizji, pięć brytyjskich i dwie australijskie, ruszyło za ścianą ognia. Główne zadanie dostał I Korpus Anzac: zdobycie reszty lasu Polygon z kopcem Butte i ostrogi Tokio."
+  - "Niemieckie natarcie z 25 września omal nie pokrzyżowało operacji, ale do południa niemal wszystkie cele były zdobyte. Kontrataki czterech niemieckich dywizji przeciwnatarcia rozbiły się o ogień artylerii."
+  - "Brytyjska historia oficjalna podaje 15 375 zabitych, rannych i zaginionych w siedmiu nacierających dywizjach. Niemieckie próby odbicia terenu do 3 października zawiodły."
+  - "Bitwa była jednym z najczystszych zwycięstw metody Plumera i zmusiła Niemców do pośpiesznej zmiany taktyki obronnej, która okazała się zgubna już 4 października pod Broodseinde."
 ---
 
 Bitwa o Polygon Wood była drugim z trzech wrześniowo-październikowych „ugryzień” generała [Herberta Plumera](/postacie/herbert-plumer) w [trzeciej bitwie pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). 26 września 1917 roku o 5.50, sześć dni po [bitwie o grzbiet Menin Road](/bitwy/bitwa-o-grzbiet-menin-road), siedem dywizji, pięć brytyjskich i dwie australijskie, ruszyło za ścianą ognia na froncie około 8 kilometrów, od drogi z [Ypres](https://pl.wikipedia.org/wiki/Ieper) do Menin po ostrogę Gravenstafel. Główne zadanie dostał I Korpus Anzac: 5 Dywizja Australijska miała zdobyć resztę lasu Polygon z kopcem zwanym Butte, a 4 Dywizja Australijska ostrogę Tokio przed [Zonnebeke](https://pl.wikipedia.org/wiki/Zonnebeke). Mimo że dzień wcześniej niemieckie natarcie omal nie pokrzyżowało całej operacji, do południa niemal wszystkie cele były zdobyte, a kontrataki czterech niemieckich dywizji przeciwnatarcia rozbiły się o ogień artylerii. Kolejne próby odbicia terenu, do 3 października, też zawiodły. Bitwa zmusiła niemieckie dowództwo do kolejnej, pośpiesznej zmiany taktyki obronnej.

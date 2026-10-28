@@ -15,6 +15,12 @@ result: Taktyczny sukces brytyjski za bardzo wysoką cenę. Australijczycy utrzy
 authors: [Natalia]
 tags: [Australia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa pod Bullecourt, toczona od 3 do 17 maja 1917 roku, była najdłuższym i najkrwawszym epizodem końcowej fazy bitwy pod Arras. 5 Armia Gougha zaatakowała tu Linię Hindenburga po raz drugi."
+  - "11 kwietnia 4 Dywizja Australijska poniosła tu ciężką klęskę. W maju natarcie miało już tylko wspierać 3 Armię i wiązać Niemców, a tym razem poprzedziło je bardzo staranne przygotowanie artyleryjskie."
+  - "3 maja 6 Brygada 2 Dywizji Australijskiej wdarła się w niemieckie okopy na wschód od wsi i utrzymała przyczółek, ale brytyjska 62 Dywizja nie zdołała zdobyć samego Bullecourt."
+  - "Natarcie zamieniło się w dwutygodniowy bój o kilkaset metrów okopów. Australijczycy poszerzali wyłom granatami, Niemcy kontratakowali, a 17 maja Londyńczycy z 58 Dywizji zajęli ostatni skrawek ruin."
+  - "Straty brytyjskie i australijskie przekroczyły 14 tysięcy ludzi. Bitwa zyskała opinię rzeźni, a Australijczykom zostawiła gorycz wobec Gougha i nieufność wobec czołgów."
 ---
 
 Bitwa pod Bullecourt była najdłuższym i najkrwawszym epizodem końcowej fazy [bitwy pod Arras](/bitwy/bitwa-pod-arras-1917). Rankiem 3 maja 1917 roku, równocześnie z trzecią bitwą nad Scarpe, 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) zaatakowała po raz drugi Linię Hindenburga przy wsi [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt), gdzie 11 kwietnia [4 Dywizja Australijska poniosła ciężką klęskę](/koniec-pierwszej-bitwy-nad-scarpe). Tym razem 2 Dywizja Australijska wdarła się w niemieckie okopy na wschód od wsi i utrzymała tam niewielki przyczółek, ale brytyjska 62 Dywizja nie zdołała zdobyć samego Bullecourt. Natarcie, które miało trwać jeden dzień, zamieniło się w dwutygodniowy bój o kilkaset metrów okopów i kilka hektarów gruzów. Kolejne dywizje australijskie i brytyjskie poszerzały wyłom granatami, a Niemcy raz po raz kontratakowali, także z miotaczami ognia. 17 maja Londyńczycy z 58 Dywizji zajęli ostatni skrawek ruin. Obie strony poniosły ogromne straty, a w pamięci Australijczyków bitwa została jako jedna z najcięższych w całej wojnie.

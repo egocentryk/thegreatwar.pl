@@ -8,6 +8,11 @@ dayOrder: 4
 tags: [Niemcy, Paul von Hindenburg, Erich Ludendorff, Erich von Falkenhayn]
 milestone: true
 draft: false
+brief:
+  - "29 sierpnia 1916 roku w Pszczynie cesarz Wilhelm II odwołał generała Ericha von Falkenhayna i mianował szefem Sztabu Generalnego Armii Polowej feldmarszałka Paula von Hindenburga."
+  - "Plan Falkenhayna załamał się latem 1916 roku: Verdun nie padło, alianci uderzyli nad Sommą, a ofensywa Brusiłowa rozbiła front austro-węgierski. Przelało czarę wystąpienie Rumunii 27 sierpnia."
+  - "Generał Erich Ludendorff został pierwszym generalnym kwatermistrzem ze współodpowiedzialnością za wszystkie decyzje. Hindenburg reprezentował armię wobec cesarza, a Ludendorff w praktyce prowadził wojnę."
+  - "Tak zaczęła się trzecia OHL. Jej wpływ na politykę Rzeszy rósł z miesiąca na miesiąc, a o rządach Hindenburga i Ludendorffa w latach 1917–1918 mówiono jako o dyktaturze wojskowej."
 ---
 
 29 sierpnia 1916 roku w [Pszczynie](https://pl.wikipedia.org/wiki/Pszczyna) na Górnym Śląsku, gdzie mieściła się wtedy niemiecka kwatera główna, cesarz [Wilhelm II](/postacie/wilhelm-ii) odwołał generała [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn) ze stanowiska szefa Sztabu Generalnego Armii Polowej. Jego następcą został feldmarszałek [Paul von Hindenburg](/postacie/paul-von-hindenburg), dotychczasowy naczelny dowódca wojsk niemieckich na wschodzie. Jego wieloletni szef sztabu, generał [Erich Ludendorff](/postacie/erich-ludendorff), otrzymał stanowisko pierwszego generalnego kwatermistrza (Erster Generalquartiermeister) i współodpowiedzialność za wszystkie decyzje. Tak zaczęła się trzecia OHL, czyli trzecie po Moltkem i Falkenhaynie kierownictwo Naczelnego Dowództwa Wojsk Lądowych (Oberste Heeresleitung) w tej wojnie. Pod rządami Hindenburga i Ludendorffa Niemcy walczyły aż do jesieni 1918 roku.

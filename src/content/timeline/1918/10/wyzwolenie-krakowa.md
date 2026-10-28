@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Polska, Galicja, Austro-Węgry]
 milestone: true
 draft: false
+brief:
+  - "31 października 1918 roku polscy żołnierze armii austro-węgierskiej i konspiratorzy bez jednego strzału rozbroili koszary w Podgórzu i przed południem opanowali centrum Krakowa."
+  - "28 października polscy posłowie pod przewodnictwem Wincentego Witosa powołali w Krakowie Polską Komisję Likwidacyjną, ale deklaracja pozostała na papierze, a płk Bolesław Roja wstrzymywał się z rozkazem."
+  - "Na wieść o niepodległości Czechosłowacji por. Antoni Stawarz nie czekał: jego oddział zajął dworzec w Płaszowie, a rano wszedł do koszar przy ulicy Kalwaryjskiej i rozbroił zaskoczonych Austriaków."
+  - "Około 11.30 austriacki komendant gen. Siegmund von Benigni ustąpił, a na wieży ratuszowej zawisła polska flaga. Po południu władzę w mieście sprawowała już Polska Komisja Likwidacyjna."
+  - "Kraków wyzwolił się sam, siłami miejscowych żołnierzy i konspiratorów. Łatwość tego przewrotu nie powtórzyła się we Lwowie, który w nocy na 1 listopada opanowali żołnierze ukraińscy."
 ---
 
 31 października 1918 roku Kraków przeszedł w ręce polskie. Polscy żołnierze [armii austro-węgierskiej](https://pl.wikipedia.org/wiki/Armia_Austro-Węgier) i konspiratorzy rozbroili wczesnym rankiem koszary w Podgórzu, przemaszerowali przez Wisłę i przed południem opanowali centrum miasta, nie oddając ani jednego strzału. Około wpół do dwunastej austriacka komenda wojskowa uznała, że nie ma czym się bronić, i oddała władzę. Na wieży ratuszowej zawisła biało-czerwona flaga. Dawna stolica Polski była jednym z pierwszych miast, które w rozpadzie monarchii Habsburgów same zrzuciły obce panowanie, zanim ktokolwiek zdołał zdecydować o ich losie w Wiedniu, Warszawie czy Paryżu.

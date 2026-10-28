@@ -2,7 +2,12 @@
 title: Defence of Givenchy
 summary: On 20 December 1914 the Germans blew mines under the Indian Corps' trenches at Givenchy and broke its line. Men from Manchester retook the village that evening.
 source: obrona-givenchy
-sourceHash: 781f16cfdce7af19637b4a74dcf8dd3a7e65bf8e
+sourceHash: 1b2c019d0c9b2641f3ac550966253473e7dfb489
+brief:
+  - "On 20 December 1914 the Germans attacked the Indian Corps in French Flanders. At about 9 a.m. German mines exploded under the trenches by the village of Givenchy, and infantry with grenades went in to the attack."
+  - "The blow fell on troops exhausted by the attacks of 19 December. During the night there was a downpour, the trenches filled with water and the mud-clogged rifles jammed."
+  - "By noon the Germans had smashed the Sirhind Brigade, and after 1 p.m. they broke into Givenchy. The village, the key to the defence, was retaken after 3 p.m. by the 1st Manchesters with the bayonet."
+  - "The next day the Germans again drove the Manchesters out, and fresh brigades of the 1st Division retook the village on the evening of 21 December. For the Indian Corps it was the hardest trial of the first winter."
 ---
 
 On 20 December 1914, the same day that the French [began their offensive in Champagne](/poczatek-pierwszej-bitwy-w-szampanii), the Germans attacked the Indian Corps in French Flanders. At dawn heavy artillery and trench-mortar fire fell on its whole front, from the La Bassée canal to Neuve-Chapelle. At about 9 a.m. German mines exploded under the trenches east and north of the village of [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée), and immediately afterwards infantry armed with grenades went in to the attack. By noon the Germans had smashed one of the Indian brigades, taken Givenchy and broken into the line as far as [Festubert](https://pl.wikipedia.org/wiki/Festubert). The British chronology of the war records this day as the start of the Defence of Givenchy, which lasted until 21 December.

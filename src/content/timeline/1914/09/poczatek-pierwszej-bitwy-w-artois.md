@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Francja, Niemcy, wyścig do morza, Arras]
 milestone: true
 draft: false
+brief:
+  - "27 września 1914 roku rozpoczęła się pierwsza bitwa w Artois, kolejny etap wyścigu do morza. Według brytyjskiej chronologii trwała do 12 października, choć inne opracowania podają inne nazwy i daty."
+  - "Między Arras, Lens a Douai nie było jeszcze ciągłej linii frontu. Joffre zgromadził wokół Arras siły gen. Louisa de Maud'huy, a Falkenhayn skierował tam 6 Armię księcia Rupprechta."
+  - "1 października Niemcy uprzedzili francuskie natarcie, a do 4 października zajęli Lens, Souchez, Neuville-Saint-Vaast i wzgórza Vimy. Joffre zabronił odwrotu, a zgrupowanie Maud'huy stało się 10 Armią."
+  - "Francuzi utrzymali Arras, ale Niemcy zdobyli Lens, ośrodek zagłębia węglowego, oraz wzgórza Vimy i Lorette. Grzbiet Vimy na trwałe odbili dopiero Kanadyjczycy w kwietniu 1917 roku."
 ---
 
 27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) i zagłębia węglowego wokół [Lens](https://pl.wikipedia.org/wiki/Lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.

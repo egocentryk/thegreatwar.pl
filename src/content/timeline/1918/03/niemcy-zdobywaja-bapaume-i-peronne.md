@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "24 marca 1918 roku, czwartego dnia operacji Michael, Niemcy szli przez pobojowisko znad Sommy. Brytyjska chronologia notuje wtedy zajęcie Bapaume i Péronne, ale żadne z miast nie zostało zdobyte szturmem."
+  - "Péronne brytyjska 5 Armia opuściła już po południu 23 marca, a Bapaume 3 Armia oddała bez walki późnym wieczorem 24 marca. Niemcy weszli do niego dopiero około południa 25 marca."
+  - "Rano luka między 5 a 3 Armią urosła do ponad 6 kilometrów. Niemcy szli nią na zachód przez wsie, o które Brytyjczycy walczyli w 1916 roku, a Brygada Południowoafrykańska została prawie doszczętnie zniszczona."
+  - "W nocy w Dury Pétain przekazał Haigowi rozkaz, w którym pierwszym celem było utrzymanie armii francuskich razem, a łączność z Brytyjczykami dopiero drugim. Haig uznał, że Francuzi chcą przede wszystkim osłonić Paryż."
+  - "Ocena tej rozmowy budzi spory, ale stało się jasne, że dwie armie mogą rozejść się w przeciwnych kierunkach. Dwa dni później sprzymierzeni spotkali się w Doullens."
 ---
 
 24 marca 1918 roku, w Niedzielę Palmową, minął czwarty dzień niemieckiej [operacji Michael](/bitwy/operacja-michael). Mgła znów zalegała w dolinach do 9–10 rano. Brytyjska chronologia wojny zapisuje pod tą datą, że wojska niemieckie zajęły [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) i [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)). W rzeczywistości oba miasta nie padły tego samego dnia i żadne nie zostało zdobyte szturmem. Péronne brytyjska 5 Armia opuściła już po południu 23 marca, a Bapaume 3 Armia oddała bez walki późnym wieczorem 24 marca. Niemcy weszli do niego według historii ich własnych pułków dopiero około południa 25 marca. Utrata obu miast zamykała jednak dzień, w którym dywizje generała [Juliana Bynga](/postacie/julian-byng) cofały się przez pobojowisko z 1916 roku, a Niemcy wdzierali się w lukę między dwiema armiami brytyjskimi. W nocy w Dury pod Amiens doszło do rozmowy, po której marszałek [Douglas Haig](/postacie/douglas-haig) uznał, że wspólny front sprzymierzonych może się rozpaść.

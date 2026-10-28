@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "9 października 1917 roku armie generałów Herberta Plumera i Huberta Gougha, wspierane przez Francuzów, ruszyły pod Ypres na kolejny skok trzeciej bitwy pod Ypres, pięć dni po zwycięstwie pod Broodseinde."
+  - "Douglas Haig wierzył, że armia niemiecka jest bliska załamania, i przyśpieszył natarcie. Po pięciu dniach deszczu działa ugrzęzły w błocie, a ostrzał był rzadki i nieregularny."
+  - "Brytyjska 66 i 49 Dywizja dotarły na pozycje po całonocnym marszu w błocie. 49 Dywizja ugrzęzła w dolinie Ravebeek przed nieprzeciętymi zasiekami i schronami na ostrodze Bellevue."
+  - "Na nizinach na północy Dywizja Gwardii i Francuzi posunęli się o ponad dwa kilometry, pod skraj lasu Houthulst. Na grzbiecie niemal cały zdobyty teren został stracony."
+  - "Straty były ciężkie, a setki rannych zostały w błocie przed Bellevue. Mimo to Plumer zameldował o dobrej podstawie do zdobycia Passchendaele 12 października, a Haig wydał rozkaz do kolejnego natarcia."
 ---
 
 9 października 1917 roku o 5.20 rano brytyjska artyleria otworzyła ogień na froncie długości około 12 kilometrów na wschód i północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Pięć dni po [zwycięstwie pod Broodseinde](/poczatek-bitwy-pod-broodseinde) armie generałów [Herberta Plumera](/postacie/herbert-plumer) i [Huberta Gougha](/postacie/hubert-gough), wspierane przez Francuzów, ruszyły na kolejny skok w [trzeciej bitwie pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Tym razem nic nie przypominało wrześniowych natarć. Po pięciu dniach deszczu działa ugrzęzły w błocie, ostrzał był rzadki i nieregularny, a dwie brytyjskie dywizje, które miały podejść pod wieś [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), dotarły na pozycje wyjściowe po całonocnym marszu, część już po rozpoczęciu natarcia. Do wieczora na grzbiecie i przed schronami na ostrodze Bellevue niemal cały zdobyty teren został stracony. Na nizinach na północy Brytyjczycy i Francuzi posunęli się jednak o ponad dwa kilometry, pod skraj lasu Houthulst.

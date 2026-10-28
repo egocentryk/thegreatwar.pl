@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. 16 (Irlandzka) Dywizja zdobyła Ginchy i utrzyma
 authors: [Natalia]
 tags: [Irlandia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "9 września 1916 roku, w bitwie nad Sommą, brytyjska 4 Armia przeprowadziła jednodniowe natarcie na Ginchy, wieś w najwyższym punkcie grzbietu, z której widać było niemiecką trzecią pozycję."
+  - "Od 3 września 7 Dywizja trzy razy wdzierała się do ruin Ginchy i trzy razy była z nich wypierana. Atakowano zbyt słabymi siłami, a karabiny maszynowe spod lasu Delville ostrzeliwały natarcia z boku."
+  - "O 16.45 ruszyła 16 (Irlandzka) Dywizja, złożona z ochotników z irlandzkich środowisk nacjonalistycznych. Jej 48 Brygada zajęła wieś jeszcze tego wieczoru, wzięła około dwustu jeńców i odparła kontrataki."
+  - "Na skrzydłach natarcie się nie powiodło: reduta Quadrilateral pozostała w rękach niemieckich i padła dopiero 18 września. Irlandzka dywizja straciła w dniach 1–10 września około 40 procent stanu."
+  - "Zdobycie Ginchy dało Brytyjczykom grzbiet od lasu Leuze po las Delville i podstawę do natarcia 15 września. W Irlandii bitwa stała się jednym z najważniejszych miejsc pamięci I wojny światowej."
 ---
 
 Bitwa pod Ginchy była krótkim, jednodniowym natarciem brytyjskiej 4 Armii w [bitwie nad Sommą](/bitwy/bitwa-nad-somma). Wieś [Ginchy](https://pl.wikipedia.org/wiki/Ginchy) leżała w najwyższym punkcie grzbietu, o który Brytyjczycy walczyli od połowy lipca, i panowała nad okolicą. Od 3 września brytyjska 7 Dywizja trzy razy wdzierała się do jej ruin i trzy razy była z nich wypierana. 9 września o 16.45 do natarcia ruszyła na szerokim froncie, od lasu Leuze po las Delville, 16 (Irlandzka) Dywizja, złożona z ochotników z irlandzkich środowisk nacjonalistycznych, a obok niej londyńska 56 Dywizja. Brygada irlandzka, która nacierała na samą wieś, zajęła ją jeszcze tego wieczoru, wzięła około dwustu jeńców i w nocy odparła niemieckie kontrataki. Na innych odcinkach natarcie się nie powiodło. Zdobycie Ginchy dało Brytyjczykom cały grzbiet od lasu Leuze po las Delville i dogodną podstawę do wielkiego natarcia 15 września.

@@ -15,6 +15,12 @@ result: Zwycięstwo Niemiec. Po całodziennej obronie II Korpus Polski z braku a
 authors: [Natalia]
 tags: [Polska, Niemcy, Ukraina, Legiony Polskie]
 milestone: true
+brief:
+  - "Bitwa pod Kaniowem, stoczona 11 maja 1918 roku w kilku wsiach na zachód od Kaniowa nad Dnieprem, była ostatnią bitwą II Korpusu Polskiego, w którym służyli też legioniści spod Rarańczy."
+  - "Niemcy, faktycznie rządzący okupowaną Ukrainą, nie chcieli tolerować na swoim zapleczu niezależnego polskiego wojska i zażądali jego rozbrojenia. Polacy odmówili."
+  - "W nocy z 10 na 11 maja wyraźnie liczniejsze oddziały niemieckie otoczyły polskie kwatery i uderzyły bez ostrzeżenia. Korpus generała Józefa Hallera bronił się przez cały dzień w obronie okrężnej."
+  - "Gdy zabrakło amunicji, korpus przyjął warunki kapitulacji i 12 maja złożył broń. Niemcy nie dotrzymali umowy i wysłali jeńców do obozów, ale część Polaków, wśród nich Haller, zdołała zbiec."
+  - "Militarnie było to drobne starcie, ale w polskiej pamięci Kaniów stał się symbolem zbrojnego sprzeciwu wobec państw centralnych. Haller dotarł do Francji i objął dowództwo Armii Polskiej we Francji."
 ---
 
 Bitwa pod Kaniowem była ostatnią bitwą [II Korpusu Polskiego](https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji), polskiej formacji powstałej z żołnierzy dawnej armii rosyjskiej i z legionistów, którzy w lutym 1918 roku [przebili się pod Rarańczą](/bitwa-pod-rarancza) przez front austriacki. Wiosną korpus stanął w okolicach [Kaniowa](https://pl.wikipedia.org/wiki/Kaniów_(Ukraina)) nad [Dnieprem](https://pl.wikipedia.org/wiki/Dniepr), na Ukrainie okupowanej przez wojska niemieckie i austro-węgierskie. Niemcy nie zamierzali tolerować na swoim zapleczu niezależnego polskiego wojska i zażądali jego rozbrojenia. Polacy odmówili. W nocy z 10 na 11 maja 1918 roku niemieckie oddziały, mające wyraźną przewagę liczebną, otoczyły polskie kwatery i uderzyły bez ostrzeżenia. Korpus generała [Józefa Hallera](/postacie/jozef-haller) bronił się przez cały dzień, a gdy zabrakło amunicji, przyjął warunki kapitulacji. Militarnie było to drobne starcie na marginesie wielkiej wojny, ale w polskiej pamięci Kaniów stał się symbolem zbrojnego sprzeciwu wobec państw centralnych.

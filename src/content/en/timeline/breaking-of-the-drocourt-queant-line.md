@@ -2,7 +2,13 @@
 title: Breaking of the Drocourt–Quéant Line
 summary: On 2 September 1918 the Canadians broke the Drocourt–Quéant Line near Arras, and at noon the German command ordered a retreat to the Hindenburg Line.
 source: przelamanie-linii-drocourt-queant
-sourceHash: bb2b8b50b7de33179b92d11bc0352d653db560fb
+sourceHash: 2bdc14a3465866c39f4e1f54a6425b0cf6cf0cdd
+brief:
+  - "At five in the morning on 2 September 1918 General Arthur Currie's Canadian Corps struck east of Arras at the Drocourt–Quéant Line, the strongest German position in the area and the northern extension of the Hindenburg Line."
+  - "The Canadians had been advancing on this line for a week: on 26 August they attacked on the Scarpe and broke the Fresnes–Rouvroy Line. General Horne and Currie decided to attack only when everything was ready."
+  - "Behind a barrage and with tanks, the Canadians passed through both lines on a front of about 6.5 kilometres and took Dury, Cagnicourt and Villers-lès-Cagnicourt, while the British XVII Corps broke in near Quéant."
+  - "At about noon the German Supreme Army Command acknowledged defeat and ordered a retreat from the whole salient won in March, behind the Sensée and the Canal du Nord and to the Hindenburg Line."
+  - "From 1 to 3 September the corps lost more than 5,600 men and took about 6,000 prisoners, and seven Canadians received the Victoria Cross. Currie inclined to think it a greater victory than 8 August at Amiens."
 ---
 
 At five in the morning on 2 September 1918 the Canadian Corps of General [Arthur Currie](/postacie/arthur-currie) struck east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) at the Drocourt–Quéant Line, the strongest German position in the area and the northern extension of the Hindenburg Line. By evening the Canadians had passed through both its lines on a front of about 6.5 kilometres, taken the villages of Dury, Cagnicourt and Villers-lès-Cagnicourt and captured thousands of prisoners, while the British XVII Corps broke into the southern end of the position near Quéant. At about noon the German Supreme Army Command acknowledged defeat and ordered a retreat from the whole salient won in March. Currie wrote in his diary the next day that he was not sure whether 8 August at Amiens or this day had been the greater victory, but he inclined towards the latter.

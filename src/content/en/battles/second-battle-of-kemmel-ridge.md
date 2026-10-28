@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Fritz von Loßberg]
 result: German victory. The Germans took Kemmelberg, the village of Kemmel and Dranoutre, capturing about 6,500 prisoners, mostly French. They did not, however, break the front or cut off Ypres, and the British shortened the Ypres salient.
 source: druga-bitwa-o-wzgorze-kemmel
-sourceHash: a0a48259f24c983b3e0cdb3284e13fd0494cf182
+sourceHash: af002b8ab7d9ce25acef00979253d3a537be5711
+brief:
+  - "On 25–26 April 1918 the Germans stormed Kemmelberg, a hill rising to about 156 metres above the plain of Flanders and since 1914 the Allies' most important observation point south of Ypres."
+  - "For a few days the hill had been held by the French, who had taken over the sector from exhausted British divisions. The Germans aimed to take Kemmel and cut off the Allied troops in the Ypres salient."
+  - "After a bombardment with a huge proportion of gas shells the Alpenkorps broke onto the summit in little more than an hour. By midday the Germans held the hill, the village of Kemmel and Dranoutre, with thousands of prisoners."
+  - "The British on the left wing put up a stubborn defence. The Franco-British counter-attack of 26 April did not recover the hill, but it tied down the Alpenkorps and the 56th Division, and Plumer shortened the Ypres salient."
+  - "The German victory remained unexploited: the divisions halted on the first objective, and Ypres was never cut off. The last attack, on 29 April, ended in failure and closed the German offensive in Flanders."
 ---
 
 The Second Battle of Kemmel Ridge was the most spectacular German success of the entire [Battle of the Lys](/bitwy/bitwa-nad-lys-1918). [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), a hill rising to about 156 metres above the flat plain of Flanders, had been the Allies' most important observation point south of [Ypres](https://pl.wikipedia.org/wiki/Ieper) since 1914. For a few days it had been held by the French, who had taken over the sector from exhausted British divisions. On 25 April 1918, after a bombardment lasting several hours with a huge proportion of gas shells, the German mountain troops of the Alpenkorps broke onto the summit in little more than an hour. By midday the Germans had taken the whole hill, the village of [Kemmel](https://pl.wikipedia.org/wiki/Kemmel) and [Dranoutre](https://pl.wikipedia.org/wiki/Dranouter), and had captured several thousand men of the French 28th Infantry Division and its neighbours. The British on the left wing put up a stubborn defence and did not allow the Ypres salient to be closed. The Franco-British counter-attack of 26 April did not recover the hill, but it tied down the best German troops. The Germans did not exploit their success and there was no breakthrough.

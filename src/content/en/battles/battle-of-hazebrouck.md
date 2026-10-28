@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Ferdinand von Quast]
 result: A British defensive victory. On 12 April the Germans advanced several kilometres but did not reach Hazebrouck. From 13 April their attack bogged down before Nieppe Forest and at Vieux-Berquin.
 source: bitwa-pod-hazebrouck
-sourceHash: 729725377c1a6fb711d9f82544212ad99715d347
+sourceHash: dcb420b28d25ed38f752c14acaca12c1352d9aec
+brief:
+  - "On 12–15 April 1918 the German Sixth Army drove across the Lys plain on Hazebrouck, the most important railway junction behind the British front in Flanders, through which ran supplies for the Ypres salient."
+  - "Against it the British had only exhausted, intermingled divisions. On 12 April the Germans made two breaches in their front and came within about 8 kilometres of the town, and Haig called for a fight \"with our backs to the wall\"."
+  - "On 13 April the 4th Guards Brigade held out all day at Vieux-Berquin against four German regiments and was almost wiped out, giving the 1st Australian Division time to occupy its line before Nieppe Forest."
+  - "The Australians and the fresh 5th Division, brought back from Italy, closed the road through Nieppe Forest. On 14 and 15 April German attacks broke against their line, and the Sixth Army reported its offensive had petered out."
+  - "At Hazebrouck the German offensive in Flanders clearly lost momentum for the first time. The town remained in British hands, and the Germans shifted their effort north, against the Flanders hills with the Kemmelberg."
 ---
 
 The Battle of Hazebrouck was a struggle for the road to the most important railway junction behind the British front in Flanders. After three days of the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918) the German Sixth Army had driven deep into the plain west of Armentières, and on 12 April 1918 it advanced on [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), through which ran the supplies from the English Channel ports for the whole British Second Army and for the Ypres salient. Against it the British had only exhausted, intermingled divisions, most of which had already been through the March fighting on the Somme. On the first day the Germans made two breaches in their front, several kilometres deep, and came to within about 8 kilometres of the town. On 13 April, while the 1st Australian Division, brought up from Amiens, was detraining, the 4th Guards Brigade held out all day against four German regiments at Vieux-Berquin and was almost wiped out. Behind it the Australians and the fresh 5th Division, brought back from Italy, closed the road through Nieppe Forest. On 14 and 15 April the German attacks broke against their line, and the German Sixth Army reported that its offensive had petered out.

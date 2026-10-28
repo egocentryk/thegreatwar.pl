@@ -15,6 +15,12 @@ result: Zwycięstwo państw centralnych. Serbia została zajęta i otwarto lądo
 authors: [Łukasz Skowroń]
 tags: [Serbia, Austro-Węgry, Niemcy, Bułgaria]
 milestone: true
+brief:
+  - "Od 6 października do 4 grudnia 1915 roku wojska Niemiec, Austro-Węgier i Bułgarii zajęły Serbię. Była to najszybsza i najpełniejsza kampania państw centralnych w 1915 roku."
+  - "Niemcom chodziło przede wszystkim o otwarcie kolei z Węgier przez Belgrad, Nisz i Sofię do Konstantynopola. Bułgaria przyłączyła się do ataku w zamian za obietnicę serbskiej Macedonii."
+  - "Armie feldmarszałka Augusta von Mackensena przeszły Sawę i Dunaj, a 9 października Serbowie opuścili Belgrad. Od 14 października Bułgarzy uderzyli od wschodu i odcięli Serbię od Salonik."
+  - "Wojewoda Radomir Putnik nie dał się okrążyć ani pod Kragujevcem, ani na Kosowym Polu. Francuzi z Salonik nie zdołali przebić się na północ, a armia serbska z królem i rządem wycofała się przez góry Czarnogóry i Albanii."
+  - "Państwa centralne otworzyły drogę do Turcji, ale armii serbskiej nie zniszczyły. Na początku 1916 roku alianci przewieźli ponad sto tysięcy jej żołnierzy na Korfu, a później walczyli oni na froncie salonickim."
 ---
 
 Podbój Serbii był najszybszą i najpełniejszą kampanią państw centralnych w 1915 roku. Rok wcześniej mała armia serbska trzykrotnie odparła inwazję Austro-Węgier, a w grudniu 1914 roku [rozbiła je nad Kolubarą](/bitwy/bitwa-nad-kolubara). Jesienią 1915 roku przeciw [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii) stanęły jednak trzy państwa naraz. 6 października niemiecka 11 Armia i austro-węgierska 3 Armia pod wspólnym dowództwem feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) uderzyły przez Sawę i Dunaj, a tydzień później od wschodu zaatakowała [Bułgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). W ciągu niespełna dwóch miesięcy wojska państw centralnych zajęły cały kraj. Francuzi i Brytyjczycy, którzy wylądowali w Salonikach, nie zdołali przebić się na północ. Armia serbska nie dała się jednak okrążyć. Razem z królem, rządem i tysiącami uchodźców wycofała się przez zaśnieżone góry Czarnogóry i Albanii nad Adriatyk.

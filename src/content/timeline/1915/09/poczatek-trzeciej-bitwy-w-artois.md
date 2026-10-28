@@ -10,6 +10,11 @@ dayOrder: 5
 tags: [Francja, Niemcy, Ferdinand Foch, Arras]
 milestone: true
 draft: false
+brief:
+  - "25 września 1915 roku, po czterech dniach ostrzału, francuska 10 Armia generała Victora d'Urbala po raz trzeci uderzyła na wzgórza Vimy na północ od Arras. Była to część największej jak dotąd ofensywy aliantów na zachodzie."
+  - "Generał Ferdinand Foch zażądał od razu przełamania w kierunku Douai, a odwody ustawiono tym razem blisko frontu. Francuska piechota ruszyła jednak dopiero wczesnym popołudniem, długo po Brytyjczykach pod Loos."
+  - "Na lewym skrzydle XXI Korpus generała Paula Maistre'a dotarł do Souchez, ale w centrum i pod Arras natarcie załamało się z ciężkimi stratami."
+  - "W kolejnych dniach Francuzi zdobyli Souchez i na krótko dotarli do najwyższego punktu grzbietu Vimy, ale samego grzbietu nie utrzymali."
 ---
 
 25 września 1915 roku, po czterech dniach ostrzału, francuska 10 Armia generała Victora d'Urbala po raz trzeci w ciągu niespełna roku uderzyła na niemieckie pozycje na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Celem znów były wzgórza [Vimy](https://pl.wikipedia.org/wiki/Vimy), których Francuzom nie udało się zdobyć [wiosną](/bitwy/druga-bitwa-w-artois), a za nimi równina [Douai](https://pl.wikipedia.org/wiki/Douai). Tak zaczęła się trzecia bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois). Była częścią największej jak dotąd ofensywy aliantów na zachodzie: tego samego dnia rano tuż na północ od 10 Armii [Brytyjczycy zaatakowali pod Loos](/poczatek-bitwy-pod-loos), a główne natarcie francuskie ruszyło w Szampanii.

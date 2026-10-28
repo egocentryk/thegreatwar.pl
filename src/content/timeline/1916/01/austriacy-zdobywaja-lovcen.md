@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Czarnogóra, Austro-Węgry, Mikołaj I Petrowić-Niegosz]
 milestone: true
 draft: false
+brief:
+  - "10 stycznia 1916 roku austro-węgierska piechota weszła na szczyt Lovćenu, górskiej twierdzy Czarnogórców nad Kotorem. Austro-węgierski komunikat ogłosił to dzień później, stąd też data 11 stycznia."
+  - "Natarcie XIX Korpusu Ignaza Trollmanna ruszyło 8 stycznia po zmasowanym ostrzale z dział twierdzy kotorskiej i okrętów. 9 stycznia obrońcy stracili całą ciężką artylerię."
+  - "Wyczerpani, głodni żołnierze czarnogórscy odmówili nocnego kontrataku. Król Mikołaj I następnego ranka ustąpił rządowi, który chciał prosić Austriaków o zawieszenie broni."
+  - "Upadek Lovćenu uwolnił Kotor od zagrożenia z lądu i otworzył drogę na Cetynię. 11 stycznia Czarnogórcy poprosili o rozejm, a Wiedeń zażądał bezwarunkowej kapitulacji."
 ---
 
 10 stycznia 1916 roku, o zmierzchu, ogniska zapalone na szczycie masywu [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) dały znać, że austro-węgierska piechota dotarła na wierzchołek góry, którą Czarnogórcy nazywali świętą. Według austriackiej historii oficjalnej pierwsze weszły tam przednie oddziały grupy podpułkownika Törka z 47 Dywizji Piechoty. Tego samego dnia ostatni obrońcy przełęczy Krstac, przez którą biegła serpentyna z [Kotoru](https://pl.wikipedia.org/wiki/Kotor) do stolicy kraju, porzucili swoje stanowiska pod ogniem dział okrętowych. Brytyjska chronologia wojny notuje zajęcie Lovćenu pod 10 stycznia. Austro-węgierski komunikat ogłosił je dzień później, dlatego część opracowań podaje datę 11 stycznia.

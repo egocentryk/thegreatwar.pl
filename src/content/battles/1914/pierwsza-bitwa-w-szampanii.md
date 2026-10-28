@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Francuzi posunęli się miejscami o 2–3 kilometry 
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Joseph Joffre, Fernand de Langle de Cary]
 milestone: true
+brief:
+  - "Pierwsza bitwa w Szampanii, toczona od 20 grudnia 1914 do 17 marca 1915 roku, była pierwszą wielką ofensywą Francuzów przeciw umocnionym pozycjom niemieckim na froncie zachodnim."
+  - "Gen. Joffre chciał uderzyć z dwóch stron na występ frontu pod Noyon i zagrozić niemieckim kolejom. Francuska 4 Armia gen. de Langle de Cary miała nacierać od Suippes w kierunku Rethel."
+  - "Natarcia w grudniu i styczniu przyniosły niewielkie zdobycze, a 13 stycznia mróz i błoto wstrzymały ofensywę. 16 lutego wznowiono ją na węższym odcinku, ale Niemcy łatali wyrwy rezerwami."
+  - "Francuzi posunęli się w najlepszym razie o 2–3 kilometry. Najczęściej podaje się, że 4 Armia straciła 93 432 zabitych, rannych i zaginionych, a Niemcy około 46 tysięcy ludzi."
+  - "Ofensywa nie osiągnęła żadnego celu, ale dowództwo francuskie utwierdziło się w przekonaniu, że piechota dobrze wsparta artylerią może przebić się przez niemieckie linie."
 ---
 
 Pierwsza bitwa w [Szampanii](https://pl.wikipedia.org/wiki/Szampania) była pierwszą wielką ofensywą Francuzów przeciw umocnionym pozycjom niemieckim na froncie zachodnim. Francuska 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) przez blisko trzy miesiące, od grudnia 1914 do marca 1915 roku, atakowała okopy niemieckiej [3 Armii](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) na kredowych równinach na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims). Walki toczyły się w deszczu, błocie i mrozie wokół kilku małych wsi: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus i Massiges. Francuzi posunęli się w najlepszym razie o 2–3 kilometry, a zapłacili za to stratami liczonymi w dziesiątkach tysięcy ludzi.

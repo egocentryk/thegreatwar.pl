@@ -2,7 +2,12 @@
 title: Battle of the Ardennes begins
 summary: On 22 August 1914 French armies advancing through the Ardennes ran into strong German forces. It was the bloodiest day in the history of the French army.
 source: poczatek-bitwy-w-ardenach
-sourceHash: 215988017202c1dd28130c9e7f09dd0b821493e4
+sourceHash: 9c4d695c70872211d648ba6f53c53e7b67fec5a9
+brief:
+  - "On 22 August 1914, in the forests of the Ardennes, a battle between two French and two German armies flared up in earnest. The day went down as the bloodiest in the history of the French army."
+  - "Joffre believed the German centre in the Ardennes was weak and sent in General Ruffey's Third Army and General de Langle de Cary's Fourth Army. Reconnaissance failed: two strong German armies were advancing."
+  - "The columns collided in dense forest, often in mist, at places such as Rossignol, Virton and Ethe. French infantry charging with the bayonet fell under fire, and at Rossignol the 3rd Colonial Division was almost destroyed."
+  - "That day some 27,000 French soldiers were killed across the whole front of the Battles of the Frontiers. On 23 August the French fell back behind the Meuse, which, with Charleroi and Mons, forced the Great Retreat."
 ---
 
 On 22 August 1914, in the forests of the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny), in the Belgian province of Luxembourg, a battle between two French and two German armies flared up in earnest. That day went down in history as the bloodiest in the annals of the French army.

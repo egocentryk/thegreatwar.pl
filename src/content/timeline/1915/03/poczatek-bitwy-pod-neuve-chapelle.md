@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "10 marca 1915 roku 1 Armia gen. Douglasa Haiga uderzyła pod Neuve-Chapelle we francuskiej Flandrii. Była to pierwsza ofensywa zaplanowana i przeprowadzona samodzielnie przez Brytyjczyków od zastygnięcia frontu."
+  - "Haig chciał zlikwidować niemiecki występ, zdobyć wieś i dojść na grzbiet Aubers. Przygotowania były staranne: mapy z fotografii lotniczych i ponad 340 ukrytych dział z rozkładem ognia co do minuty."
+  - "Po 35-minutowym ostrzale brytyjska i indyjska piechota przebiegła przez ziemię niczyją. Na lewym skrzydle 23 Brygada utknęła na nietkniętych zasiekach, ale według raportu Frencha do 11 cała wieś była zdobyta."
+  - "Potem natarcie straciło tempo: przerwane linie telefoniczne opóźniały rozkazy, a Niemcy zabezpieczyli skrzydła wyłomu. Dalsze natarcie ruszyło dopiero około 15.30 i utknęło pod ogniem."
+  - "Bitwa skończyła się 13 marca, a grzbiet Aubers pozostał w rękach niemieckich. Pierwszy dzień dowiódł, że front okopowy można przełamać, ale pokazał, jak trudno takie przełamanie wykorzystać."
 ---
 
 10 marca 1915 roku o 7.30 rano brytyjska artyleria otworzyła ogień na niemieckie okopy wokół wsi [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) we francuskiej Flandrii. Pół godziny później do natarcia ruszyła piechota 1 Armii generała [Douglasa Haiga](/postacie/douglas-haig), brytyjska i indyjska. Zaczęła się pierwsza ofensywa, którą Brytyjski Korpus Ekspedycyjny zaplanował i przeprowadził samodzielnie od czasu, gdy front zachodni zastygł w okopach. Rano wszystko szło zgodnie z planem: przed południem wieś była w rękach brytyjskich, a niemiecka linia przerwana na szerokości około dwóch kilometrów. Po południu natarcie zaczęło jednak grzęznąć.

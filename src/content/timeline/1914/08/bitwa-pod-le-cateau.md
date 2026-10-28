@@ -10,6 +10,12 @@ dayOrder: 13
 tags: [Brytyjski Korpus Ekspedycyjny, Wielka Brytania, Niemcy, Francja]
 milestone: true
 draft: false
+brief:
+  - "26 sierpnia 1914 roku pod Le Cateau brytyjski II Korpus gen. Horace'a Smith-Dorriena stoczył całodzienną bitwę z niemiecką 1 Armią, trzy dni po bitwie pod Mons."
+  - "Wyczerpany odwrotem korpus był doganiany przez Niemców, więc Smith-Dorrien postanowił stanąć do walki, by zadać im silny cios. Zrobił to wbrew woli marszałka Johna Frencha, który chciał nieprzerwanego odwrotu."
+  - "Najważniejszą rolę odegrała artyleria ustawiona w otwartym polu tuż za piechotą. Prawe skrzydło przy Le Cateau zostało ostrzelane z boku, a bataliony Suffolków i KOYLI niemal całkowicie zniszczono."
+  - "Po południu II Korpus wycofał się pod osłoną francuskiej kawalerii gen. Sordeta. Według brytyjskiej historii oficjalnej z około 40 tysięcy żołnierzy straty poniosło 7812, a stracono też 38 dział."
+  - "Niemiecki pościg stracił impet. Wielu historyków uważa, że bitwa uratowała Korpus Ekspedycyjny przed rozbiciem, choć French później obwiniał Smith-Dorriena o nieposłuszeństwo."
 ---
 
 26 sierpnia 1914 roku pod [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis) w północnej Francji brytyjski II Korpus generała Horace'a Smith-Dorriena stoczył całodzienną bitwę z niemiecką 1 Armią. Trzy dni po [bitwie pod Mons](/bitwy/bitwa-pod-mons) Brytyjczycy znów stanęli do walki, tym razem wbrew woli naczelnego dowództwa. Był to jeden z najkrwawszych dni w dziejach [Brytyjskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) w 1914 roku.

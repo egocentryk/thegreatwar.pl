@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Francja, Niemcy, artyleria oblężnicza, jeńcy wojenni]
 milestone: true
 draft: false
+brief:
+  - "24 października 1916 roku o 11.40 trzy francuskie dywizje generała Charlesa Mangina ruszyły w gęstej mgle za ruchomą zaporą ogniową na niemieckie pozycje pod Verdun."
+  - "Niemcy zajęli fort Douaumont bez walki 25 lutego, a majowa próba jego odbicia się nie powiodła. Tym razem dwie haubice kolejowe kalibru 400 mm przebiły jego strop i załoga opuściła fort."
+  - "Po południu fort zajął kolonialny pułk piechoty marokańskiej (RICM), napotykając niewielki opór. Francuzi odzyskali też wieś Douaumont i umocnienia Thiaumont, ale fortu Vaux tego dnia nie zdobyli."
+  - "W ciągu dwóch dni Francuzi wzięli ponad 6 tysięcy jeńców. Nivelle ogłosił, że w cztery godziny odebrano teren, którego zdobycie zajęło nieprzyjacielowi osiem miesięcy."
+  - "Sukces uczynił z Nivelle'a i Mangina bohaterów, a metoda krótkiego natarcia za ruchomą zaporą wydawała się receptą na zwycięstwo. W połowie grudnia Nivelle został naczelnym wodzem."
 ---
 
 24 października 1916 roku o 11.40 trzy francuskie dywizje wyszły z okopów na prawym brzegu [Mozy](https://pl.wikipedia.org/wiki/Moza) pod [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) i w gęstej mgle ruszyły za ruchomą zaporą ogniową na niemieckie pozycje. Po południu żołnierze kolonialnego pułku piechoty marokańskiej weszli do fortu Douaumont, największego fortu twierdzy, który Niemcy [zajęli bez walki 25 lutego](/niemcy-zdobywaja-fort-douaumont). Tego samego dnia Francuzi odzyskali ruiny wsi [Douaumont](https://pl.wikipedia.org/wiki/Douaumont), umocnienia Thiaumont i niemal cały teren między fortami Douaumont i Vaux, o który przez osiem miesięcy toczyła się [bitwa pod Verdun](/bitwy/bitwa-pod-verdun). W ciągu dwóch dni wzięli ponad 6 tysięcy jeńców. Dla Francji, która od lutego wykrwawiała się w obronie, była to jedna z najradośniejszych wiadomości całej wojny.

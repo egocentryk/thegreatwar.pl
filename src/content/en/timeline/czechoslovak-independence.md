@@ -2,7 +2,12 @@
 title: Czechoslovak independence
 summary: "On 28 October 1918 the National Committee took power in Prague and passed its first law: \"The independent Czechoslovak state has come into being\"."
 source: niepodleglosc-czechoslowacji
-sourceHash: 289083da1b852154c6c3f88a4bc9a0587438dfed
+sourceHash: b69f31702d4f72271a497a25f7260dad8ea4f2da
+brief:
+  - "On 28 October 1918 the Czechoslovak National Committee took power in Prague without a shot being fired and in the evening passed a law: \"The independent Czechoslovak state has come into being.\""
+  - "The trigger was Andrássy's note, in which Austria-Hungary asked Wilson for an armistice and accepted his conditions. Prague took it as the monarchy's capitulation, and crowds tore imperial eagles from buildings."
+  - "The law and appeal were signed by five \"men of 28 October\": Švehla, Rašín, Stříbrný, Soukup and the Slovak Šrobár. The Committee took over office after office, and the Austrian garrison made no attempt to stop it."
+  - "In the following days the Slovaks backed a common state in the Martin Declaration, and on 14 November the Revolutionary National Assembly proclaimed a republic and elected Masaryk president."
 ---
 
 On Monday 28 October 1918 almost four hundred years of Habsburg rule over the Czech lands came to an end in [Prague](https://pl.wikipedia.org/wiki/Praga) without a shot being fired. The Czechoslovak National Committee took over the offices in the city, and in the evening it passed a law that began with the words: "The independent Czechoslovak state has come into being." It and an appeal to the nation were signed by five men whom the Czechs have since called "the men of 28 October": the Agrarian [Antonín Švehla](https://pl.wikipedia.org/wiki/Antonín_Švehla), the National Democrat [Alois Rašín](https://pl.wikipedia.org/wiki/Alois_Rašín), the National Socialist Jiří Stříbrný, the Social Democrat František Soukup and the Slovak [Vavro Šrobár](https://pl.wikipedia.org/wiki/Vavro_Šrobár). Ten days earlier the provisional government in exile had proclaimed independence in the [Washington Declaration](/deklaracja-waszyngtonska). Now the new state came into being on the spot. The day became Czechoslovakia's national holiday, and the British chronology of the war takes it as the official date of Czechoslovakia's entry into the war as a state.

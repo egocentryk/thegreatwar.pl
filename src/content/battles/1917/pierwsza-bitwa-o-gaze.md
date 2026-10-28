@@ -15,6 +15,12 @@ result: Zwycięstwo osmańskie. Brytyjczycy otoczyli miasto i zdobyli Ali Muntar
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Wielka Brytania, Australia, Nowa Zelandia]
 milestone: true
+brief:
+  - "Pierwsza bitwa o Gazę, toczona 26–27 marca 1917 roku, była pierwszą próbą wdarcia się wojsk brytyjskich do Palestyny. Generał Charles Dobell chciał zdobyć miasto szybkim uderzeniem z marszu."
+  - "Wszystko musiało się rozstrzygnąć w ciągu jednego dnia, bo konie nie miały wody. Chetwode szacował garnizon na około 2 tysiące ludzi, nie wiedząc, że Kress niedawno wzmocnił go niemal dwukrotnie."
+  - "26 marca konnica australijska, nowozelandzka i brytyjska otoczyła Gazę od wschodu i północy, a walijska 53 Dywizja zdobyła po południu wzgórze Ali Muntar. O zmroku garnizon był bliski kapitulacji."
+  - "Dowódcy, nie wiedząc o tym i obawiając się tureckich posiłków, kazali konnicy przerwać walkę. Piechota w nieporozumieniu porzuciła zdobyte wzgórza, a 27 marca na próżno próbowała je odzyskać."
+  - "Brytyjczycy stracili 3967 ludzi, a meldunki Murraya obudziły w Londynie przesadne nadzieje. Turcy zamienili Gazę w twierdzę, która padła dopiero na początku listopada 1917 roku."
 ---
 
 Pierwsza bitwa o Gazę była pierwszą próbą wdarcia się wojsk brytyjskich do Palestyny. 26 marca 1917 roku, po nocnym marszu i porannej mgle, konnica australijska, nowozelandzka i brytyjska otoczyła [Gazę](https://pl.wikipedia.org/wiki/Gaza_(miasto)) od wschodu i północy, a walijska 53 Dywizja piechoty zdobyła po południu panujące nad miastem wzgórze Ali Muntar. O zmroku garnizon był bliski kapitulacji, ale dowódcy brytyjscy nie wiedzieli o tym. Obawiając się nadciągających tureckich posiłków i myśląc o koniach, które cały dzień stały bez wody, kazali konnicy przerwać walkę. Piechota w nieporozumieniu porzuciła zdobyte pozycje, 27 marca na próżno próbowała je odzyskać, a w nocy na 28 marca cała armia wróciła za Wadi Ghazze. Gaza, którą zdobyto prawie bez reszty, pozostała w rękach tureckich jeszcze przez ponad siedem miesięcy.

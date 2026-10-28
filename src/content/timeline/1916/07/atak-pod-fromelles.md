@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Australia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "19 lipca 1916 roku o osiemnastej brytyjska 61 Dywizja i 5 Dywizja Australijska zaatakowały niemieckie okopy pod Fromelles we francuskiej Flandrii. Dla obu dywizji był to pierwszy bój na froncie zachodnim."
+  - "Było to natarcie pomocnicze, które miało zatrzymać wojska niemieckie z dala od trwającej od trzech tygodni bitwy nad Sommą. W jednym z bawarskich pułków po siedmiu godzinach ostrzału przetrwało 60 z 75 schronów."
+  - "Brytyjczycy i australijska 15 Brygada zostali skoszeni ogniem z występu Sugarloaf. 14 i 8 Brygada wdarły się do niemieckiej linii, ale w nocy Bawarczycy kontratakami zaszli je od skrzydeł i od tyłu."
+  - "Rano 20 lipca Australijczycy wycofali się przez ziemię niczyją, a cała dawna linia znów była niemiecka. 5 Dywizja Australijska straciła w ciągu jednej nocy 5533 oficerów i żołnierzy, a 61 Dywizja 1547."
+  - "Noc z 19 na 20 lipca uchodzi w Australii za najczarniejszą dobę w dziejach kraju. Brytyjska historia oficjalna pisała, że tej bitwy „nie trzeba było w ogóle staczać”."
 ---
 
 19 lipca 1916 roku o osiemnastej, w pełnym świetle letniego dnia, dwanaście batalionów brytyjskiej 61 Dywizji i 5 Dywizji Australijskiej zaatakowało niemieckie okopy na płaskiej, podmokłej równinie naprzeciw wsi [Fromelles](https://pl.wikipedia.org/wiki/Fromelles) we francuskiej Flandrii. Było to natarcie pomocnicze: od trzech tygodni trwała [bitwa nad Sommą](/bitwy/bitwa-nad-somma), a brytyjskie dowództwo chciało przekonać Niemców, że i tutaj, 80 kilometrów dalej na północ, grozi im ofensywa, i zatrzymać ich wojska z dala od Sommy. Atakowano mniej więcej tam, gdzie w maju 1915 roku Brytyjczycy przegrali [bitwę o grzbiet Aubers](/bitwy/bitwa-o-grzbiet-aubers), i przeciw tej samej bawarskiej dywizji. Dla obu atakujących dywizji był to pierwszy bój na froncie zachodnim, dla wielu żołnierzy pierwszy w życiu. Następnego ranka ocaleni wracali do swoich okopów, a [ziemia niczyja](https://pl.wikipedia.org/wiki/Ziemia_niczyja) była zasłana zabitymi i rannymi. Noc z 19 na 20 lipca uchodzi w Australii za najczarniejszą dobę w dziejach kraju.

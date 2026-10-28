@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "21 października 1914 roku brytyjski I Korpus gen. Douglasa Haiga ruszył spod Ypres w stronę Langemarck i Poelkapelle, z rozkazem marszu aż na Brugię. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Langemarck."
+  - "Marszałek French sądził, że naprzeciw stoi tylko jeden korpus niemiecki. Nadciągała jednak nowa 4 Armia Albrechta Wirtemberskiego, a według historii oficjalnej Niemcy mieli tu pięć dywizji przeciw dwóm dywizjom Haiga."
+  - "2 Dywizja posunęła się o kilometr–dwa pod silnym ogniem, ale gdy francuska kawaleria de Mitry'ego wycofała się za kanał, lewe skrzydło korpusu zostało odsłonięte. Haig nakazał zatrzymać się i okopać."
+  - "I Korpus stracił tego dnia 982 zabitych, rannych i zaginionych. Niemieckie pułki, złożone w znacznej części z młodych ochotników, nacierały zbitymi masami i poniosły bardzo ciężkie straty."
+  - "Wieczorem French nakazał wszystkim korpusom utrzymać i umocnić pozycje do przybycia posiłków. Plan obejścia niemieckiego skrzydła we Flandrii przestał istnieć, a pod Ypres zaczęła się długa bitwa obronna."
 ---
 
 21 października 1914 roku brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) ruszył do natarcia na północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper), w stronę wsi [Langemarck](https://pl.wikipedia.org/wiki/Langemark) i Poelkapelle. Miał przejść przez Flandrię aż do Brugii. Zamiast słabej osłony niemieckiej trafił na kilka dywizji nowych niemieckich korpusów rezerwowych, które same nacierały na Ypres. Po kilku godzinach walki Haig wstrzymał natarcie, a wieczorem cała armia brytyjska pod Ypres przeszła do obrony. Tym dniem brytyjska nomenklatura rozpoczyna bitwę pod Langemarck, pierwszy etap [I bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres).

@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: Canadian tactical victory. The Canadian Corps took the village of Passchendaele and the highest part of the ridge, but the offensive halted short of Westrozebeke, and the salient won was narrow, waterlogged and under fire from three sides.
 source: druga-bitwa-pod-passchendaele
-sourceHash: ef0679d773374c5a57325c97fadca5feb2018cbb
+sourceHash: 9717992e45f0cf233bfbd0541901eb8907b398d9
+brief:
+  - "The Second Battle of Passchendaele, fought from 26 October to 10 November 1917, was the final act of the Third Battle of Ypres. It was fought almost entirely by General Arthur Currie's Canadian Corps."
+  - "After the bloody failures of 9 and 12 October Haig nevertheless resolved to take the village on the ridge, so his army could winter on higher ground. Currie predicted it would cost 16,000 killed and wounded."
+  - "Currie insisted on time to prepare: plank roads, artillery moved forward and reconnaissance. The Canadians attacked four times, on 26 and 30 October and on 6 and 10 November, each time through swamps."
+  - "On 6 November, less than three hours after the attack began, the ruins of Passchendaele were in Canadian hands, and on 10 November the Canadians took the high ground north of the village."
+  - "According to the Canadian official history the corps lost 15,654 men in Flanders, almost exactly as Currie had predicted. In Canada Passchendaele became a symbol of mud and futile sacrifice."
 ---
 
 The Second Battle of Passchendaele was the final act of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). After the bloody failures [at Poelcappelle](/bitwy/bitwa-pod-poelcappelle) on 9 October and [in the First Battle of Passchendaele](/bitwy/pierwsza-bitwa-pod-passchendaele) on 12 October, Field Marshal [Douglas Haig](/postacie/douglas-haig) nevertheless resolved to take the village on the ridge so that his army could spend the winter on higher, drier ground. He entrusted the task to the four divisions of the Canadian Corps of General [Arthur Currie](/postacie/arthur-currie). Currie did not want this battle and predicted that it would cost 16,000 killed and wounded. He did, however, insist on time for preparation: plank roads, artillery moved forward and thorough reconnaissance. The Canadians attacked four times, on 26 and 30 October and on 6 and 10 November, each time advancing only a few hundred metres, through swamps and past concrete shelters. On 6 November they entered the ruins of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), and on 10 November they occupied the rest of the high ground north of the village. According to the Canadian official history the corps lost 15,654 men in Flanders, almost exactly as many as Currie had predicted.

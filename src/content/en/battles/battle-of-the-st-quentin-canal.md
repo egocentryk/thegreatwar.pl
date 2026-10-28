@@ -9,7 +9,13 @@ sides:
     commanders: [Max von Boehn, Adolph von Carlowitz]
 result: Allied victory. The Fourth Army broke through the main position of the Hindenburg Line on a front of a dozen or so kilometres, and the 46th Division forced the canal, taking about 4,200 prisoners. By 2 October the British and Australians stood before the Beaurevoir Line, the last position of the system.
 source: bitwa-o-kanal-saint-quentin
-sourceHash: e56825a689f827c227fbc44a57468b26b249801f
+sourceHash: 41f4e7961bba296b325264f0a6b3c70ab76c85b2
+brief:
+  - "From 29 September to 2 October 1918 General Henry Rawlinson's British Fourth Army, with American and Australian divisions, attacked the strongest sector of the Hindenburg Line on the St Quentin Canal."
+  - "The canal formed the front moat of the German position, and the Bellicourt tunnel, about 5.7 km long, served as a shelter for reserves. The Fourth Army's blow was the last of the series of attacks ordered by Marshal Foch."
+  - "The attack above the tunnel, entrusted to two inexperienced American divisions and two Australian ones, stalled in bloody fighting. According to Bean the American 27th Division lost about 5,000 men."
+  - "Success came at Bellenglise: the British 46th Division crossed the canal in fog on lifebelts, captured the bridge at Riqueval intact and took 4,200 prisoners, losing fewer than 800 men."
+  - "Within four days the Fourth Army took the main and support positions of the Hindenburg Line and stood before the Beaurevoir Line. That same day at Spa Ludendorff and Hindenburg demanded an application for an armistice."
 ---
 
 The Battle of the St Quentin Canal was the most important of the [Battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga) and one of the decisive engagements of the last months of the war on the Western Front. On the morning of 29 September 1918 the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson) attacked the strongest sector of the German position, where its front moat was formed by the deep St Quentin Canal, while the canal's underground stretch beneath [Bellicourt](https://pl.wikipedia.org/wiki/Bellicourt) served the Germans as a gigantic shelter. The attack over the tunnel, entrusted to two inexperienced American divisions and two Australian ones, stalled in bloody fighting for the outpost positions. Success came where it was least expected: in the fog the British 46th Division ran down to the canal, crossed the water on lifebelts taken from the cross-Channel ferries, captured the bridge at Riqueval intact and by the afternoon had taken more than four thousand prisoners. Within four days the Fourth Army took the main position and the support position of the Hindenburg Line on a front of a dozen or so kilometres and stood before its last line, at Beaurevoir.

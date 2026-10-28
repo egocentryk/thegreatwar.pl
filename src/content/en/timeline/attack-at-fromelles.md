@@ -2,7 +2,13 @@
 title: Attack at Fromelles
 summary: On the evening of 19 July 1916 British and Australian troops attacked at Fromelles. By morning the 5th Australian Division had lost 5,533 men and held nothing.
 source: atak-pod-fromelles
-sourceHash: d463cba8752494701e0cae104b0081dd5cb8c64e
+sourceHash: eece3e1aac53d70b12ab25e129b9dea2f8127935
+brief:
+  - "At 6 p.m. on 19 July 1916 the British 61st Division and the 5th Australian Division attacked the German trenches at Fromelles in French Flanders. For both divisions it was their first action on the Western Front."
+  - "It was a subsidiary attack meant to keep German troops away from the Battle of the Somme, which had been going on for three weeks. In one Bavarian regiment 60 of the 75 shelters survived seven hours of bombardment."
+  - "The British and the Australian 15th Brigade were mown down by fire from the Sugarloaf salient. The 14th and 8th Brigades broke into the German line, but during the night Bavarian counter-attacks got round their flanks and rear."
+  - "On the morning of 20 July the Australians withdrew across no man's land, and the whole old line was German again. The 5th Australian Division lost 5,533 officers and men in a single night, and the 61st Division 1,547."
+  - "The night of 19–20 July is regarded in Australia as the blackest 24 hours in the country's history. The British official history said that this battle \"need never have been fought\"."
 ---
 
 At 6 p.m. on 19 July 1916, in the full light of a summer day, twelve battalions of the British 61st Division and the 5th Australian Division attacked the German trenches on the flat, marshy plain opposite the village of [Fromelles](https://pl.wikipedia.org/wiki/Fromelles) in French Flanders. It was a subsidiary attack: the [Battle of the Somme](/bitwy/bitwa-nad-somma) had been going on for three weeks, and the British command wanted to convince the Germans that here too, 80 kilometres further north, an offensive threatened them, and so keep their troops away from the Somme. The attack went in roughly where the British had lost the [Battle of Aubers Ridge](/bitwy/bitwa-o-grzbiet-aubers) in May 1915, and against the same Bavarian division. For both attacking divisions it was their first action on the Western Front, and for many of the men the first of their lives. The next morning the survivors were making their way back to their own trenches, and [no man's land](https://pl.wikipedia.org/wiki/Ziemia_niczyja) was strewn with dead and wounded. The night of 19–20 July is regarded in Australia as the blackest 24 hours in the country's history.

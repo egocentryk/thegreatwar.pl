@@ -2,7 +2,13 @@
 title: Battle of Poelcappelle
 summary: On 9 October 1917, after a night march through mud, the British attacked at Ypres towards Passchendaele and were repulsed. Guards and French reached Houthulst.
 source: poczatek-bitwy-pod-poelcappelle
-sourceHash: 5fea1d9d8f6f6be9af2099b0426f27c4682911ae
+sourceHash: 874439b3bea4ea917581842150e46cd9eedc102b
+brief:
+  - "On 9 October 1917 the armies of Generals Herbert Plumer and Hubert Gough, supported by the French, moved off on the next bound of the Third Battle of Ypres, five days after the victory at Broodseinde."
+  - "Douglas Haig believed the German army was close to collapse and brought the attack forward. After five days of rain the guns were stuck in the mud, and the bombardment was thin and ragged."
+  - "The British 66th and 49th Divisions reached their positions after marching all night through mud. The 49th Division bogged down in the Ravebeek valley in front of uncut wire and the pillboxes on the Bellevue spur."
+  - "On the lowlands to the north the Guards Division and the French advanced more than two kilometres, to the edge of Houthulst Forest. On the ridge almost all the ground gained was lost."
+  - "Losses were heavy, and hundreds of wounded were left in the mud in front of Bellevue. Even so, Plumer reported a good jumping-off point for taking Passchendaele on 12 October, and Haig ordered the next attack."
 ---
 
 On 9 October 1917 at 5.20 a.m. the British artillery opened fire on a front about 12 kilometres long east and north-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). Five days after the [victory at Broodseinde](/poczatek-bitwy-pod-broodseinde), the armies of Generals [Herbert Plumer](/postacie/herbert-plumer) and [Hubert Gough](/postacie/hubert-gough), supported by the French, moved off on the next bound of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). This time nothing resembled the September attacks. After five days of rain the guns were stuck in the mud, the bombardment was thin and ragged, and the two British divisions that were to advance on the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) reached their starting positions after marching all night, some of them only after the attack had begun. By evening almost all the ground gained on the ridge and in front of the pillboxes on the Bellevue spur had been lost. On the lowlands to the north, however, the British and French advanced more than two kilometres, to the edge of Houthulst Forest.

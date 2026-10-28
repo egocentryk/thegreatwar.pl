@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Rosja, Niemcy, Austro-Węgry, Polska]
 milestone: true
 draft: false
+brief:
+  - "3 marca 1918 roku w Białym Pałacu Twierdzy Brzeskiej delegacja Rosji Radzieckiej podpisała traktat pokojowy z Niemcami, Austro-Węgrami, Bułgarią i Turcją. Rosja wyszła z wojny na warunkach podyktowanych siłą."
+  - "Po niemieckiej ofensywie delegacja Grigorija Sokolnikowa przyjechała tylko po to, by podpisać. Sokolnikow mówił, że to pokój, który Rosja „zgrzytając zębami” musi przyjąć."
+  - "Rosja wyrzekła się Polski, Litwy i Kurlandii, zgodziła się opuścić Inflanty, Estonię, Finlandię i Ukrainę oraz oddać Turcji okręgi Karsu, Ardahanu i Batumi. Musiała też całkowicie zdemobilizować armię."
+  - "Słowo „Polska” w traktacie nie padło. O losie Królestwa Polskiego mieli decydować Berlin i Wiedeń, a Rosja uznała traktat, który oddawał Ukrainie Chełmszczyznę."
+  - "Traktat przetrwał niespełna dziewięć miesięcy. W rozejmie z Compiègne 11 listopada 1918 roku Niemcy musiały się go wyrzec, a 13 listopada władze radzieckie uznały go za nieważny."
 ---
 
 3 marca 1918 roku, w niedzielę, w Białym Pałacu [Twierdzy Brzeskiej](https://pl.wikipedia.org/wiki/Twierdza_Brzeska) delegacja Rosji Radzieckiej podpisała [traktat pokojowy](https://pl.wikipedia.org/wiki/Traktat_brzeski) z Niemcami, Austro-Węgrami, Bułgarią i Turcją. Po trzech miesiącach rokowań, przerwanych w lutym przez [„ani wojnę, ani pokój”](/ani-wojna-ani-pokoj) Trockiego i niemiecką ofensywę, Rosja wyszła z wojny na warunkach podyktowanych jej siłą. Wyrzekła się zwierzchnictwa nad Polską, Litwą i Kurlandią, zgodziła się opuścić Inflanty, Estonię, Finlandię i Ukrainę oraz oddać Turcji okręgi Karsu, Ardahanu i Batumi. Na wschodzie zakończyła się tego dnia wojna, która od sierpnia 1914 roku pochłonęła miliony ofiar.

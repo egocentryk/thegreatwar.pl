@@ -9,7 +9,13 @@ sides:
     commanders: [Andrei Selivanov]
 result: Russian victory. After failed relief attempts and a failed break-out, the garrison destroyed the forts and capitulated. About 117,000–120,000 soldiers were taken prisoner.
 source: drugie-oblezenie-przemysla
-sourceHash: b5d261ae376b5afdf54c001c7def6ae0b0d996e8
+sourceHash: 0d7c99a68c4ccf9c54f93331fe8987061533c7a9
+brief:
+  - "The second siege of Przemyśl, from November 1914 to 22 March 1915, was the longest siege of the First World War in Europe. About 130,000 soldiers under General Hermann Kusmanek remained in the fortress."
+  - "General Andrei Selivanov's Siege Army did not storm the forts. It surrounded the fortress with a ring of trenches, cut it off from supplies and waited for the garrison to run out of food."
+  - "In winter hunger, cold and disease wore down the defenders, and mail left the fortress by aircraft and balloon. Austro-Hungarian relief attempts across the Carpathians cost hundreds of thousands of men and failed."
+  - "On 19 March a failed sortie to the east brought huge losses. On the morning of 22 March sappers blew up the forts and the garrison surrendered; about 117,000 NCOs and other ranks went into captivity."
+  - "The fall of Przemyśl was one of the greatest defeats of the Habsburg monarchy. After that winter the Austro-Hungarian army never fully recovered and depended more and more on German help."
 ---
 
 The second siege of the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) was the longest siege of the First World War in Europe. It began in November 1914, less than a month after the [relief](/odsiecz-przemysla) that had ended the [first siege](/bitwy/pierwsze-oblezenie-przemysla). When the Austro-Hungarian armies again fell back westwards and into the Carpathians, about 130,000 soldiers under General [Hermann Kusmanek von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten) and more than ten thousand civilians remained in the fortress on the [San](https://pl.wikipedia.org/wiki/San). This time the Russians did not try to take the forts by storm but decided to starve the garrison out. Throughout the winter Austria-Hungary tried to break through to Przemyśl across the Carpathians and lost hundreds of thousands of men in the fighting. On 22 March 1915, after a failed attempt to break out of the encirclement, the starving garrison blew up the forts and surrendered. It was one of the largest capitulations of the war.

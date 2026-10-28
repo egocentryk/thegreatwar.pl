@@ -2,7 +2,13 @@
 title: First day on the Somme
 summary: On 1 July 1916 the British and French attacked on the Somme. The French and the British right succeeded, but the British Army lost 57,000 men.
 source: pierwszy-dzien-bitwy-nad-somma
-sourceHash: d7d1777847a3ec18eef6d1c34b5499572d315f5b
+sourceHash: 5cb85ba409e190abcfab51bb59d5433a41efc3c0
+brief:
+  - "At 7.30 a.m. on 1 July 1916 British infantry and the French Sixth Army attacked on the Somme. The great offensive agreed at Chantilly was above all meant to relieve the French at Verdun."
+  - "The attack was preceded by seven days of bombardment, which could not reach the deep German dug-outs. The defenders got up in time and mowed down with machine guns the waves of infantry advancing at a steady walk."
+  - "North of the road from Albert to Bapaume the attack broke down almost everywhere, despite the Ulster Division's breach at the Schwaben Redoubt. The Newfoundland battalion at Beaumont-Hamel lost 710 men."
+  - "In the south the French and the British right wing took all their objectives, including the village of Montauban. The French Sixth Army took more than 4,000 prisoners with light losses."
+  - "The British Army lost 57,470 men that day, including 19,240 killed and died of wounds, the bloodiest day in its history. For the British, 1 July 1916 became a symbol of the whole war."
 ---
 
 On Saturday 1 July 1916, at 7.30 a.m., British infantry left their trenches on a front more than 20 kilometres long, from [Gommecourt](https://pl.wikipedia.org/wiki/Gommecourt_(Pas-de-Calais)) in the north to [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) on the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Beside them, on both banks of the river, the French Sixth Army moved off. So began the great offensive that the Allies had agreed [at Chantilly in December 1915](/druga-konferencja-w-chantilly) and which, after the [German attack at Verdun](/poczatek-bitwy-pod-verdun), was above all meant to relieve the French. The day ended in two different ways. In the south the French and the British right wing took all their objectives. North of the road from [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) to [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) the attack broke down almost everywhere under German machine-gun fire. According to the British official history, the British Army lost 57,470 men that day killed, wounded, missing and taken prisoner, including 19,240 killed and died of wounds. It was the bloodiest day in its history.

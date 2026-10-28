@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Brytyjczycy odzyskali Bailleul i Armentières, ale n
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, wyścig do morza]
 milestone: true
+brief:
+  - "Bitwa pod Armentières toczyła się od 13 października do 2 listopada 1914 roku we francuskiej Flandrii, w dolinie Lys. Walczył w niej głównie brytyjski III Korpus gen. Williama Pulteneya."
+  - "Brytyjski Korpus Ekspedycyjny przechodził znad Aisne na północ. III Korpus miał wraz z kawalerią Allenby'ego posuwać się na wschód, na północ od Lille, i obejść niemieckie skrzydło."
+  - "W pierwszym tygodniu Brytyjczycy zdobyli Meteren, wkroczyli do Bailleul, przeprawili się przez Lys i 17 października zajęli Armentières. Nie zdołali jednak dojść do Lille."
+  - "Od 20 października przeważające siły niemieckie zmusiły III Korpus do obrony. Walki przybrały charakter pozycyjny, a Brytyjczycy odpierali kolejne ataki na wschód od miasta."
+  - "Brytyjczycy nie odzyskali Lille, ale zatrzymali Niemców na linii Lys i utrzymali Armentières. Ustalona wtedy linia przetrwała niemal bez zmian do wiosny 1918 roku."
 ---
 
 Bitwa pod Armentières toczyła się od 13 października do 2 listopada 1914 roku we francuskiej Flandrii, w dolinie rzeki [Lys](https://pl.wikipedia.org/wiki/Leie). Walczył w niej głównie brytyjski III Korpus generała Williama Pulteneya. W pierwszym tygodniu Brytyjczycy przeszli do natarcia, zdobyli Meteren, wkroczyli do [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), przeprawili się przez Lys i zajęli [Armentières](https://pl.wikipedia.org/wiki/Armentières). Nie zdołali jednak dojść do Lille. Od 20 października przeważające siły niemieckie zmusiły ich do obrony, a do końca bitwy III Korpus odpierał kolejne ataki na wschód od miasta. Linia, która się tu wtedy ustaliła, przetrwała niemal bez zmian do wiosny 1918 roku.

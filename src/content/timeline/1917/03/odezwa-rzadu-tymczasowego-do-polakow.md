@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Polska, Rosja, Królestwo Polskie, rewolucja lutowa]
 milestone: true
 draft: false
+brief:
+  - "30 marca 1917 roku dziennik rosyjskiego Rządu Tymczasowego ogłosił odezwę do Polaków, uchwaloną dzień wcześniej. Rosja po raz pierwszy oficjalnie uznała prawo Polaków do niepodległego państwa."
+  - "Na rząd naciskała Rada Piotrogrodzka, która 27 marca uznała prawo Polski do całkowitej niepodległości bez warunków. Autorstwo tekstu przypisuje się ministrowi spraw zagranicznych Pawłowi Milukowowi."
+  - "Państwo polskie miało powstać ze wszystkich ziem zamieszkanych w większości przez Polaków, ale być połączone z Rosją „wolnym sojuszem wojskowym”, a jego granice miała zatwierdzić rosyjska konstytuanta."
+  - "W przeciwieństwie do aktu 5 listopada odezwa mówiła wprost o niepodległości i zjednoczeniu trzech zaborów. Dotyczyła jednak ziem, których Rosja nie kontrolowała, bo Królestwo okupowały państwa centralne."
+  - "Odezwa nie dała Polakom ani kilometra ziemi, ale sprawa polska stała się sprawą całej koalicji, a zachodni sojusznicy mogli odtąd otwarcie mówić o niepodległej Polsce, nie urażając Rosji."
 ---
 
 30 marca 1917 roku (17 marca według kalendarza juliańskiego) urzędowy dziennik rosyjskiego [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) opublikował odezwę zaczynającą się od słowa „Polacy”. Rosja, która od półtora wieku panowała nad większą częścią ziem polskich, po raz pierwszy oficjalnie uznała prawo Polaków do niepodległego państwa, utworzonego „ze wszystkich ziem zamieszkanych w większości przez naród polski”. Państwo to miało być jednak połączone z Rosją „wolnym sojuszem wojskowym”, a zmiany granic Rosji, potrzebne do jego utworzenia, miało zatwierdzić rosyjskie Zgromadzenie Ustawodawcze. Odezwa była najważniejszym aktem w sprawie polskiej od [manifestu dwóch cesarzy](/akt-5-listopada) z listopada 1916 roku i odpowiedzią na niego ze strony nowej, porewolucyjnej Rosji.

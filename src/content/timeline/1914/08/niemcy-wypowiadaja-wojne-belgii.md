@@ -9,6 +9,11 @@ dayOrder: 9
 tags: [wypowiedzenie wojny, Niemcy, Belgia, Theobald von Bethmann Hollweg]
 milestone: true
 draft: false
+brief:
+  - "4 sierpnia 1914 roku o 6 rano niemiecki poseł wręczył w Brukseli notę zapowiadającą użycie siły. Nie nazywała ona tego wprost wypowiedzeniem wojny, ale dwie godziny później Niemcy przekroczyli granicę."
+  - "Neutralna Belgia leżała na drodze głównego uderzenia na Francję przewidzianego w planie Schlieffena. Niemcy były gwarantem jej neutralności z traktatu londyńskiego z 1839 roku."
+  - "Kanclerz Bethmann Hollweg przyznał w Reichstagu, że wkroczenie do Belgii łamie prawo międzynarodowe, bo „konieczność nie zna prawa”. Król Albert I wezwał Belgów do obrony, której pierwszym punktem była twierdza Liège."
+  - "Atak przesądził o przystąpieniu do wojny Wielkiej Brytanii jeszcze tego samego wieczoru i wpłynął na opinię światową. Dla Belgii zaczynały się ponad cztery lata okupacji."
 ---
 
 4 sierpnia 1914 roku o godzinie 6 rano niemiecki poseł w Brukseli wręczył belgijskiemu ministrowi spraw zagranicznych krótką notę. [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) oświadczały w niej, że wobec odrzucenia przez [Belgię](https://pl.wikipedia.org/wiki/Belgia) ich „życzliwych propozycji” są zmuszone przeprowadzić, „w razie potrzeby siłą oręża”, zapowiadane wcześniej działania. Nota nie nazywała tego wprost wypowiedzeniem wojny, ale w praktyce nim była. Dwie godziny później wojska niemieckie przekroczyły granicę.

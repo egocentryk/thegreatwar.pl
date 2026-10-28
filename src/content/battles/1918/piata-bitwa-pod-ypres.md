@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Grupa Armii Flandria odbiła w dwa dni wszy
 authors: [Łukasz Skowroń]
 tags: [Belgia, Wielka Brytania, Niemcy, Albert I]
 milestone: true
+brief:
+  - "Piąta bitwa pod Ypres toczyła się od 28 września do 2 października 1918 roku. Była pierwszym natarciem Grupy Armii Flandria pod dowództwem króla Belgów Alberta I."
+  - "Grupa, złożona z armii belgijskiej, brytyjskiej 2 Armii i dywizji francuskich, była północnym skrzydłem serii natarć marszałka Focha od Mozy po morze."
+  - "28 września sprzymierzeni zdobyli grzbiet Passchendaele, las Houthulst i płaskowyż Gheluvelt, o które w 1917 roku walczono ponad trzy miesiące. Następnego dnia odbili Diksmuide i Messines."
+  - "Potem natarcie ugrzęzło w błocie pobojowiska: drogi się zapchały, artyleria nie nadążała, a żywność trzeba było zrzucać z samolotów. 2 października wieczorem Plumer wstrzymał natarcie."
+  - "Grupa Armii Flandria wzięła około 10 tysięcy jeńców i 300 dział. Klęska we Flandrii była jedną z przyczyn, dla których Ludendorff uznał, że Niemcy muszą prosić o rozejm."
 ---
 
 Piąta bitwa pod Ypres była pierwszym natarciem nowo utworzonej Grupy Armii Flandria, złożonej z armii belgijskiej, brytyjskiej 2 Armii i kilku dywizji francuskich pod dowództwem króla Belgów [Alberta I](/postacie/albert-i). 28 września 1918 roku o 5.30 rano, w ulewnym deszczu, uderzyła na słabą niemiecką [4 Armię](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) na wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Tego jednego dnia sprzymierzeni zdobyli grzbiet Passchendaele, las Houthulst i płaskowyż Gheluvelt, czyli prawie cały teren, o który w 1917 roku Brytyjczycy walczyli przez ponad trzy miesiące i który oddali bez walki w kwietniu 1918 roku. Następnego dnia Belgowie odzyskali Diksmuide, a Brytyjczycy Messines i Wytschaete. Potem natarcie ugrzęzło w błocie zrytego pociskami pobojowiska: drogi się zapchały, artyleria nie nadążała, żywność dla belgijskich i francuskich dywizji trzeba było zrzucać z samolotów, a Niemcy zdążyli ściągnąć świeże dywizje. 2 października wieczorem generał Herbert Plumer wstrzymał natarcie 2 Armii.

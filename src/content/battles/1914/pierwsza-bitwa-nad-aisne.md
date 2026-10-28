@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Niemcy utrzymali wzgórza na północ od Aisne, a fr
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Wielka Brytania, Francja, Niemcy, John French]
 milestone: true
+brief:
+  - "Pierwsza bitwa nad Aisne, stoczona w dniach 12–15 września 1914 roku w północnej Francji, była bezpośrednim następstwem bitwy nad Marną. Walki nad rzeką trwały jednak do około 28 września."
+  - "Wycofujący się znad Marny Niemcy zatrzymali się na silnej pozycji na grzbiecie Chemin des Dames. Gen. Joffre był przekonany, że przeciwnik jest rozbity i będzie się cofał dalej."
+  - "13 września Brytyjczycy przeprawili się przez Aisne, ale niemiecki VII Korpus Rezerwowy zajął grzbiet zaledwie kilka godzin przed nimi. 14 września natarcie I Korpusu Haiga utknęło pod ogniem karabinów maszynowych."
+  - "15 września brytyjskie dowództwo nakazało okopać się. Płytkie jamy strzeleckie zamieniły się w ciągu kilku dni w głębokie rowy połączone przejściami."
+  - "Bitwę uważa się za początek wojny okopowej na froncie zachodnim. Natarcia czołowe zawiodły, więc obie strony próbowały obejść skrzydło przeciwnika, co dało początek wyścigowi do morza."
 ---
 
 Pierwsza bitwa nad Aisne, stoczona we wrześniu 1914 roku w północnej Francji, była bezpośrednim następstwem [bitwy nad Marną](/bitwy/pierwsza-bitwa-nad-marna). Francuzi i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), ścigający wycofujące się armie niemieckie, natrafili nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) na przeciwnika, który zatrzymał się na silnej pozycji i nie zamierzał jej oddać. Kilka dni natarć nie przyniosło przełamania. Żołnierze obu stron zaczęli kopać okopy, a na froncie zachodnim skończyła się wojna manewrowa. Bitwę uważa się powszechnie za początek wojny okopowej, która na zachodzie trwała niemal do końca wojny.

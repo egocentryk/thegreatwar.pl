@@ -2,7 +2,13 @@
 title: Treaty of Brest-Litovsk
 summary: On 3 March 1918 Soviet Russia signed peace with the Central Powers at Brest. It lost Poland, Lithuania, Courland, Livonia, Estonia, Finland and Ukraine.
 source: traktat-brzeski
-sourceHash: 3edeb3bbec7cc4228abd0ecc7b9124f47e646ddf
+sourceHash: 10cb8e2884f706ca31a79a8022315c34e345883a
+brief:
+  - "On 3 March 1918, in the White Palace of the Brest Fortress, the delegation of Soviet Russia signed a peace treaty with Germany, Austria-Hungary, Bulgaria and Turkey. Russia left the war on terms dictated by force."
+  - "After the German offensive Grigori Sokolnikov's delegation came only to sign. Sokolnikov said it was a peace which Russia, \"grinding its teeth\", was compelled to accept."
+  - "Russia renounced Poland, Lithuania and Courland, agreed to evacuate Livonia, Estonia, Finland and Ukraine, and to hand Kars, Ardahan and Batum to Turkey. It also had to demobilise its army completely."
+  - "The word \"Poland\" did not appear in the treaty. The fate of the Kingdom of Poland was to be decided by Berlin and Vienna, and Russia recognised the treaty that gave Chełm Land to Ukraine."
+  - "The treaty lasted less than nine months. In the Armistice of Compiègne of 11 November 1918 Germany had to renounce it, and on 13 November the Soviet authorities declared it null and void."
 ---
 
 On Sunday 3 March 1918, in the White Palace of the [Brest Fortress](https://pl.wikipedia.org/wiki/Twierdza_Brzeska), the delegation of Soviet Russia signed a [peace treaty](https://pl.wikipedia.org/wiki/Traktat_brzeski) with Germany, Austria-Hungary, Bulgaria and Turkey. After three months of negotiations, broken off in February by Trotsky's ["neither war nor peace"](/ani-wojna-ani-pokoj) and the German offensive, Russia left the war on terms dictated to it by force. It renounced sovereignty over Poland, Lithuania and Courland, agreed to evacuate Livonia, Estonia, Finland and Ukraine, and to hand over to Turkey the districts of Kars, Ardahan and Batum. That day the war in the east, which since August 1914 had claimed millions of victims, came to an end.

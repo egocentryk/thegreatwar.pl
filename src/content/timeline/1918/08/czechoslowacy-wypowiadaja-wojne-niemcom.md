@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Czechosłowacy, Niemcy, Austro-Węgry, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "Pod datą 13 sierpnia 1918 roku brytyjska oficjalna chronologia wojny odnotowuje, że Czechosłowacy wypowiedzieli wojnę Niemcom. Tekstu osobnego aktu wypowiedzenia wojny z tego dnia nie udało się odnaleźć."
+  - "Tego dnia agencja Reutera rozesłała deklarację Balfoura, w której Wielka Brytania uznała Czechosłowaków za naród sprzymierzony, a ich trzy armie za jedną armię wojującą z Austro-Węgrami i Niemcami."
+  - "Czesi i Słowacy na emigracji wypowiedzieli wojnę Austro-Węgrom już 14 listopada 1915 roku, a od lutego 1916 roku ruchem kierowała Czechosłowacka Rada Narodowa Masaryka i Beneša."
+  - "Latem 1918 roku czechosłowackie wojsko walczyło w Rosji, we Francji i we Włoszech. Największy był korpus w Rosji, który 7 sierpnia razem z rosyjskimi przeciwnikami bolszewików zajął Kazań."
+  - "Stan wojny z Niemcami miał znaczenie prawne i polityczne: dzięki niemu Czechosłowacja zasiadła na konferencji pokojowej wśród państw sprzymierzonych i 28 czerwca 1919 roku podpisała traktat wersalski."
 ---
 
 13 sierpnia 1918 roku brytyjska oficjalna chronologia wojny, wydana w 1922 roku, odnotowuje krótko: „Czechosłowacy wypowiadają wojnę Niemcom”. W zestawieniu wypowiedzeń wojny dodaje przypis, że tego dnia stan wojny ogłoszono „w imieniu Czechosłowaków jako narodu”, a za oficjalną datę przystąpienia Czechosłowacji do wojny jako państwa wojującego przyjmuje się 28 października 1918 roku, dzień proklamowania niepodległości w Pradze. Naród, który nie miał jeszcze państwa ani rządu, a jego ziemie leżały w głębi Austro-Węgier, walczył wtedy po stronie Ententy od trzech lat. Miał trzy armie: w Rosji, we Francji i we Włoszech, a jego przywódcy na emigracji zabiegali o to, by sprzymierzeni uznali go za równoprawnego uczestnika wojny.

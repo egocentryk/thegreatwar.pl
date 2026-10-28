@@ -2,7 +2,13 @@
 title: Kerensky Offensive begins
 summary: On 1 July 1917, after two days of artillery fire, Russian infantry attacked in eastern Galicia. At Koniuchy it broke through the Austro-Hungarian front.
 source: poczatek-ofensywy-kierenskiego
-sourceHash: 71b71db6083c54c8dba251c03a3bdafe581c5e9f
+sourceHash: 9f398b81d105b0cf1679b5f3b72dcdf3d1550f22
+brief:
+  - "On 1 July 1917, after a two-day artillery bombardment, the infantry of the Russian Eleventh and Seventh Armies attacked in eastern Galicia, between Zborów and Brzeżany."
+  - "The war minister, Alexander Kerensky, had spent weeks urging the soldiers to fight. More than 30 divisions were concentrated on a sector about 65 kilometres wide, and for the first time the Russians had superiority in firepower."
+  - "At Koniuchy the Eleventh Army broke through the front at the junction of the German South Army and the Austro-Hungarian Second Army, capturing most of the defenders."
+  - "At Brzeżany the Seventh Army took several lines of trenches, but was thrown back in a night fight. The Russian 52nd Division refused to attack at all."
+  - "Kerensky telegraphed about a \"great triumph of the revolution\", but the joy proved premature. The shock units suffered heavy losses, and the Seventh Army was unable to resume the attack."
 ---
 
 On 1 July 1917 (18 June in the Julian calendar) the army of revolutionary Russia began its first and last great offensive. In the morning the infantry of the Russian Eleventh and Seventh Armies left their trenches in eastern Galicia, between [Zborów](https://pl.wikipedia.org/wiki/Zborów) and [Brzeżany](https://pl.wikipedia.org/wiki/Brzeżany), and advanced on the Austro-Hungarian, German and Turkish positions. The attack was preceded by a two-day artillery bombardment that had begun on 29 June. That is the date the British chronology of the war gives as the start of the offensive. At Koniuchy the Russians broke through the front and took thousands of prisoners; at Brzeżany they were repulsed after a day-long fight. In the evening the war minister, [Alexander Kerensky](/postacie/aleksander-kierenski), telegraphed Petrograd about a "great triumph of the revolution".

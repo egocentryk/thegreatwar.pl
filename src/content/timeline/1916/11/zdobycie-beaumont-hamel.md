@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Wielka Brytania, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "13 listopada 1916 roku o 5.45, w gęstej mgle, brytyjska 5 Armia gen. Huberta Gougha uderzyła na obu brzegach Ancre. Tak zaczęła się bitwa nad Ancre, ostatni akt bitwy nad Sommą."
+  - "Głównym celem było Beaumont-Hamel, umocnione głębokimi schronami w kredzie. 1 lipca natarcie rozbiło się tu w ogniu karabinów maszynowych, a batalion z Nowej Fundlandii stracił w pół godziny 710 ludzi."
+  - "Tym razem nowa mina na grzbiecie Hawthorn wybuchła dokładnie w chwili ataku. Do wieczora Szkoci z 51 Dywizji Górnoszkockiej opanowali ruiny wsi i wąwóz Y Ravine, a Freyberg dotarł pod Beaucourt."
+  - "Na południe od rzeki Brytyjczycy szybko zdobyli Saint-Pierre-Divion, ale pod Serre 3 Dywizja ugrzęzła w błocie i nieprzeciętych zasiekach. O 16.30 dowództwo odwołało dalsze ataki na Serre."
+  - "Zdobycie wsi nie zmieniło biegu bitwy, która wkrótce się skończyła, ale miało wymowę symboliczną. Ludendorff nazwał ten dzień „szczególnie ciężkim ciosem”."
 ---
 
 13 listopada 1916 roku, o 5.45, w gęstej mgle, brytyjska 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) uderzyła na obu brzegach rzeki [Ancre](https://pl.wikipedia.org/wiki/Ancre). Tak zaczęła się bitwa nad Ancre, ostatni akt [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Głównym celem było [Beaumont-Hamel](https://pl.wikipedia.org/wiki/Beaumont-Hamel), wieś w dolinie na północ od rzeki, o którą Brytyjczycy bezskutecznie walczyli [pierwszego dnia bitwy](/pierwszy-dzien-bitwy-nad-somma), 1 lipca. Tym razem natarcie w dużej części się udało. Do wieczora Szkoci z 51 Dywizji Górnoszkockiej opanowali ruiny wsi i wąwóz, w którym przez cztery miesiące kryli się jej obrońcy. Na skrzydle 63 Dywizja Królewskiej Marynarki przedarła się wzdłuż rzeki aż pod Beaucourt, a na drugim brzegu Brytyjczycy w niespełna dwie godziny zdobyli wieś Saint-Pierre-Divion. Tylko na północy, pod Serre, natarcie znów załamało się w błocie, tak samo jak przed czterema miesiącami.

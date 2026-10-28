@@ -9,7 +9,13 @@ sides:
     commanders: [Dmytro Vitovsky, Hryhoriy Kossak, Hnat Stefaniv]
 result: Polish victory. On the night of 21–22 November the Ukrainian forces left the city and on 22 November the Poles took Lwów. The Ukrainians, however, surrounded it on three sides and besieged it until May 1919.
 source: obrona-lwowa-1918
-sourceHash: ff7801df98b22a04d0752ee4e16d65b477b9c6b8
+sourceHash: fa59e02b8f69f969f2bc3c092133c02585d27b80
+brief:
+  - "On the night of 31 October to 1 November 1918 Ukrainian soldiers of the Austro-Hungarian army seized Lwów and proclaimed it the capital of a new Ukrainian state."
+  - "As the Habsburg monarchy broke up, Poles and Ukrainians both laid claim to the capital of Galicia. The Ukrainians hurried their coup because a Polish Liquidation Commission was due on 1 November."
+  - "Polish volunteers, many of them pupils, students and scouts later called the Lwów Eaglets, fought for three weeks for schools, barracks and individual buildings in the western part of the city."
+  - "On 20 November Lieutenant-Colonel Tokarzewski-Karaszewicz's relief force broke through from Przemyśl. After the Polish attack of 21 November the Ukrainians left the city on the night of 21–22 November."
+  - "A pogrom of the Jews followed the capture of the city, and the Ukrainians besieged Lwów until May 1919. The Defence of Lwów became one of the founding myths of the Second Polish Republic."
 ---
 
 The Defence of Lwów was the first clash of the [Polish–Ukrainian War](https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska) and one of the most extraordinary episodes of the end of the Great War. As the Habsburg monarchy broke up into nation states, two nations laid claim to the capital of Galicia at once. On the night of 31 October to 1 November 1918 Ukrainian soldiers of the Austro-Hungarian army seized [Lwów](https://pl.wikipedia.org/wiki/Lwów) and proclaimed it the capital of a new Ukrainian state. That same day the city's Polish inhabitants, most of them volunteers with no military training, took up arms. For three weeks fighting raged in the streets, schools, barracks and cemeteries, and on the Polish side grammar-school pupils, university students and scouts took part. They went down in history as the [Lwów Eaglets](https://pl.wikipedia.org/wiki/Orlęta_Lwowskie). On 20 November a relief force from Przemyśl fought its way into the city, and on the night of 21–22 November the Ukrainian troops withdrew from Lwów. The war for the city and for the whole of Eastern Galicia, however, was only beginning.

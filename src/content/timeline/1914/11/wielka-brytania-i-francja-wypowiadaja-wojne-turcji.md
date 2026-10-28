@@ -8,6 +8,12 @@ dayOrder: 4
 tags: [wypowiedzenie wojny, Wielka Brytania, Francja, Imperium Osmańskie]
 milestone: true
 draft: false
+brief:
+  - "5 listopada 1914 roku Wielka Brytania i Francja wypowiedziały wojnę Imperium Osmańskiemu, trzy dni po Rosji. Na morzu Brytyjczycy walczyli z Turkami już od kilku dni."
+  - "Rząd osmański nie spełnił żądania aliantów, by wydalił niemieckie misje wojskową i morską. 3 listopada brytyjskie i francuskie okręty ostrzelały forty u wejścia do Dardaneli."
+  - "Dla Wielkiej Brytanii był to koniec XIX-wiecznej polityki podtrzymywania Imperium Osmańskiego jako zapory przed Rosją. Grey zapewnił Rosjan, że losy Konstantynopola i cieśnin rozstrzygną się zgodnie z ich interesami."
+  - "Wojna otworzyła nowe fronty: Londyn ogłosił aneksję Cypru, Egipt stał się w grudniu brytyjskim protektoratem, a nad Zatoką Perską zaczynała się kampania mezopotamska."
+  - "Najważniejszym skutkiem okazały się Dardanele. Zamknięcie cieśnin odcięło Rosję od sojuszników i w 1915 roku doprowadziło do ataku floty na Dardanele oraz bitwy o Gallipoli."
 ---
 
 5 listopada 1914 roku [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) i [Francja](https://pl.wikipedia.org/wiki/III_Republika_Francuska) wypowiedziały wojnę [Imperium Osmańskiemu](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Trzy dni wcześniej zrobiła to [Rosja](/rosja-wypowiada-wojne-turcji), a na morzu Brytyjczycy walczyli z Turkami już od kilku dni. Formalna deklaracja zamykała drogę, która zaczęła się tydzień wcześniej od [nalotu floty turecko-niemieckiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym.

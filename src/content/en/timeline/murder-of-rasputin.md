@@ -2,7 +2,13 @@
 title: Murder of Rasputin
 summary: Before dawn on 30 December 1916 aristocratic plotters in Petrograd killed Grigori Rasputin, the imperial couple's favourite, and sank his body in the Neva.
 source: zabojstwo-rasputina
-sourceHash: 3c394dcac5aaaf6e1ba1778e2ad3591730e7d943
+sourceHash: e5cb6c9951e024747fc1c8a6479f9fb5f07d0c8f
+brief:
+  - "Before dawn on 30 December 1916, in the Yusupov Palace on the Moika in Petrograd, Grigori Rasputin was murdered: the starets who had enjoyed the boundless trust of Empress Alexandra Feodorovna."
+  - "His power came from Tsarevich Alexei's haemophilia. During the war men regarded as Rasputin's protégés entered the government, and rumours of treason undermined the dynasty's authority."
+  - "The killers were Prince Felix Yusupov, Grand Duke Dmitri Pavlovich, the deputy Vladimir Purishkevich, Lieutenant Sergei Sukhotin and the physician Stanislaus Lazovert. They wanted to save the monarchy from a man discrediting it."
+  - "What is certain is that Yusupov shot Rasputin and Purishkevich hit him at least twice. The body was dropped through the ice of the Malaya Nevka, and on 1 January 1917 divers recovered it."
+  - "The killers were never brought to trial, and the murder changed little. Ten weeks later the February Revolution broke out and overthrew the dynasty."
 ---
 
 Before dawn on 30 December 1916 (17 December by the Julian calendar), in the [Yusupov Palace on the Moika](https://pl.wikipedia.org/wiki/Pałac_Jusupowów_nad_Mojką) in Petrograd, [Grigori Rasputin](/postacie/grigorij-rasputin) was murdered: a Siberian peasant and *starets* ("elder") who for ten years had enjoyed the boundless trust of Empress Alexandra Feodorovna. The killers were Prince [Felix Yusupov](https://pl.wikipedia.org/wiki/Feliks_Jusupow), husband of the Tsar's niece, the Tsar's cousin Grand Duke [Dmitri Pavlovich](https://pl.wikipedia.org/wiki/Dymitr_Romanow_(1891–1942)), the Duma deputy [Vladimir Purishkevich](https://pl.wikipedia.org/wiki/Władimir_Puriszkiewicz), Lieutenant Sergei Sukhotin and the physician Stanislaus Lazovert. Before daybreak they threw the body under the ice of the river, and that same day news of Rasputin's disappearance spread through the city. The British chronology of the war records the murder a day later, under 31 December.

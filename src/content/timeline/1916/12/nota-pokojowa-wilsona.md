@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Stany Zjednoczone, Woodrow Wilson, neutralność, inicjatywy pokojowe]
 milestone: true
 draft: false
+brief:
+  - "18 grudnia 1916 roku sekretarz stanu Robert Lansing rozesłał do wszystkich walczących państw notę prezydenta Woodrowa Wilsona. Prezydent prosił, by każde z nich jasno określiło warunki zakończenia wojny."
+  - "Wilson obawiał się, że jeśli nic nie zrobi, Stany Zjednoczone wcześniej czy później wpadną w wojnę z Niemcami z powodu okrętów podwodnych. Niemiecka oferta pokojowa z 12 grudnia uprzedziła jego wystąpienie."
+  - "Nota zastrzegała, że prezydent nie proponuje pokoju ani nawet pośrednictwa, tylko sondaż. Wilson pisał jednak, że cele obu stron są „w gruncie rzeczy takie same”."
+  - "Alianci poczuli się urażeni, bo odczytali te słowa jako stawianie ich na jednym poziomie moralnym z państwami centralnymi. Państwa centralne przyjęły notę uprzejmie, a neutralne poparły prezydenta."
+  - "Państwa centralne nie podały warunków, a Ententa ogłosiła 10 stycznia 1917 roku warunki tak dalekie od niemieckich, że nadzieje na rokowania upadły. W kwietniu 1917 roku Wilson poprosił Kongres o wypowiedzenie wojny Niemcom."
 ---
 
 18 grudnia 1916 roku o 21.30 sekretarz stanu [Robert Lansing](/postacie/robert-lansing) wysłał z Waszyngtonu do amerykańskich ambasadorów i posłów we wszystkich walczących państwach depeszę okólną z notą prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson). Prezydent sugerował w niej, by każde z państw prowadzących wojnę jasno określiło, na jakich warunkach mogłoby ją zakończyć i jakie gwarancje uznałoby za wystarczające, by podobny konflikt się nie powtórzył. Dyplomaci mieli odczytać notę ministrom spraw zagranicznych „z najwyższym naciskiem” i dać do zrozumienia, że rządowi Stanów Zjednoczonych „bardzo trudno byłoby zrozumieć odpowiedź odmowną”. Do historii dokument przeszedł jako nota pokojowa Wilsona, choć sam prezydent zastrzegał w niej, że nie proponuje pokoju.

@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Ameryka Łacińska, Austro-Węgry, wypowiedzenie wojny, Kanał Panamski]
 milestone: true
 draft: false
+brief:
+  - "10 grudnia 1917 roku Zgromadzenie Narodowe Panamy jednogłośnie ogłosiło stan wojny z Austro-Węgrami, zaledwie trzy dni po tym, jak zrobiły to Stany Zjednoczone."
+  - "Amerykański poseł William Jennings Price nieoficjalnie zasugerował ten krok, bo Zgromadzenie kończyło sesję, a tylko ono mogło ogłosić stan wojny. Lansing pytał go potem, dlaczego działał bez instrukcji."
+  - "Za całą sprawą stał Kanał Panamski. Stan wojny pozwalał traktować poddanych monarchii Habsburgów tak jak Niemców, których Amerykanie internowali na wyspie Taboga."
+  - "Panama nie miała armii, a jej udział w wojnie sprowadzał się do współpracy przy ochronie kanału i poparcia politycznego dla Stanów Zjednoczonych."
+  - "Status państwa wojującego dał Panamie miejsce przy stole zwycięzców. Podpisała traktat wersalski i traktat z Austrią w Saint-Germain-en-Laye i została członkiem założycielem Ligi Narodów."
 ---
 
 10 grudnia 1917 roku, w poniedziałek po południu, Zgromadzenie Narodowe [Panamy](https://pl.wikipedia.org/wiki/Panama) jednogłośnie przyjęło rezolucję, która ogłaszała, że Republika Panamy pozostaje „od dzisiaj, 10 grudnia 1917 roku” w stanie wojny z Cesarstwem [Austro-Węgierskim](https://pl.wikipedia.org/wiki/Austro-Węgry). Stało się to zaledwie trzy dni po tym, jak [Stany Zjednoczone wypowiedziały wojnę Austro-Węgrom](/usa-wypowiadaja-wojne-austro-wegrom). Mała republika, która w kwietniu jako jedna z pierwszych w Ameryce Łacińskiej [stanęła u boku Waszyngtonu przeciw Niemcom](/kuba-i-panama-wypowiadaja-wojne-niemcom), znów poszła za swoim potężnym protektorem, tym razem jako pierwsze państwo na kontynencie amerykańskim po samych Stanach Zjednoczonych.

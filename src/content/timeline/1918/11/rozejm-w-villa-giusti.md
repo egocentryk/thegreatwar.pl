@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [Austro-Węgry, Włochy, inicjatywy pokojowe, Karol I Habsburg]
 milestone: true
 draft: false
+brief:
+  - "3 listopada 1918 roku w Villa Giusti na przedmieściach Padwy komisja gen. Viktora Webera von Webenau podpisała rozejm z aliantami, za których podpisał gen. Pietro Badoglio. Walki miały ustać 4 listopada o 15.00."
+  - "Austro-Węgry wychodziły z wojny jako państwo w stanie rozpadu, a ich armia cofała się w nieładzie. Badoglio oświadczył, że warunki nie podlegają dyskusji, a łączność komisji z Wiedniem była bardzo powolna."
+  - "W Wiedniu cesarz Karol I wahał się, przyjął warunki i znów chciał je odwołać, ale rozkaz przerwania walki już poszedł do wojsk. Weber wziął odpowiedzialność na siebie i przyjął warunki."
+  - "Monarchia miała zdemobilizować armię, wydać połowę artylerii i wycofać się za linię przez przełęcz Brenner ku morzu, niemal dokładnie granicę obiecaną Włochom w traktacie londyńskim z 1915 roku."
+  - "Przez 24 godziny po podpisaniu Włosi szli naprzód, a żołnierze monarchii składali broń. Według włoskiego komunikatu wzięto wtedy do niewoli około 300 tysięcy ludzi, co na lata zatruło pamięć o rozejmie."
 ---
 
 3 listopada 1918 roku w willi hrabiego Vettora Giustiego del Giardino na przedmieściach [Padwy](https://pl.wikipedia.org/wiki/Padwa) austro-węgierska komisja rozejmowa generała piechoty Viktora Webera von Webenau podpisała [rozejm](https://pl.wikipedia.org/wiki/Rozejm_w_Villa_Giusti) z aliantami. W ich imieniu podpisał go zastępca szefa włoskiego sztabu generalnego generał porucznik [Pietro Badoglio](/postacie/pietro-badoglio). Walki na lądzie, morzu i w powietrzu miały ustać nazajutrz, 4 listopada, o 15.00. Austro-Węgry, które w 1914 roku rozpoczęły wojnę wypowiedzeniem jej Serbii, wychodziły z niej jako państwo w stanie rozpadu, a ich armia od kilku dni [cofała się w nieładzie](/bitwy/bitwa-pod-vittorio-veneto) przed Włochami, Brytyjczykami i Francuzami. Ostatnie półtorej doby wojny, gdy wojska austro-węgierskie przestały walczyć, a włoskie szły dalej, miało kosztować monarchię setki tysięcy jeńców i na lata zatruć pamięć o tym rozejmie.

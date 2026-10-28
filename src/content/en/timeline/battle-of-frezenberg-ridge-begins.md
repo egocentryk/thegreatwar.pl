@@ -2,7 +2,13 @@
 title: Battle of Frezenberg Ridge begins
 summary: On 8 May 1915, after a hurricane bombardment, the Germans broke the British front on Frezenberg Ridge near Ypres. The last reserves closed the gap at night.
 source: poczatek-bitwy-o-grzbiet-frezenberg
-sourceHash: e3daf0641e43ff1f7ee2ed9b3977cdba258858ac
+sourceHash: f08a5d599573cae1cb0ae8094b99ce6783a42ffd
+brief:
+  - "At 5.30 a.m. on 8 May 1915 the German artillery began one of the heaviest bombardments of the Second Battle of Ypres. It struck hardest at the 28th Division on the exposed slope of Frezenberg Ridge."
+  - "Four days earlier the British had withdrawn to a new, shorter line of shallow trenches without dugouts. The Germans overlooked it from higher ridges, and the British had only a dozen or so worn-out heavy guns."
+  - "At about 10 a.m. the Germans broke the line of the 83rd Brigade near the village of Frezenberg and destroyed battalion after battalion. By afternoon a gap more than 3 kilometres wide yawned in the British front."
+  - "The Canadian battalion Princess Patricia's Canadian Light Infantry under Major Hamilton Gault held Bellewaarde Ridge and stopped the gap widening to the south. About 150 of its men were left."
+  - "Evening counter-attacks by the last reserves did not recover the trenches but closed the gap. During the night the British established a new line behind Verlorenhoek Ridge; the day's losses were enormous."
 ---
 
 At 5.30 a.m. on 8 May 1915 the German artillery opened fire on the British trenches east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). It was one of the heaviest bombardments since the start of the [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres). It struck hardest at the 28th Division, whose trenches lay on the exposed forward slope of the low Frezenberg Ridge. Before 10 a.m. the German infantry broke into the shattered line, and in the afternoon a gap more than 3 kilometres wide yawned in the British front. By evening it had been closed by the last reserves, sent into counter-attacks across open ground. So began the Battle of Frezenberg Ridge, which by British nomenclature lasted until 13 May.

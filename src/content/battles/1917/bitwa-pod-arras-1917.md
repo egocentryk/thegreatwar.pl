@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Pierwszego dnia Brytyjczycy posunęli się najdalej 
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Kanada, Australia]
 milestone: true
+brief:
+  - "Bitwa pod Arras, toczona od 9 kwietnia do połowy maja 1917 roku, była wielką ofensywą brytyjską wiosny 1917 roku, w której uderzyły trzy armie Brytyjskiego Korpusu Ekspedycyjnego."
+  - "Natarcie miało przede wszystkim ściągnąć niemieckie odwody przed główną ofensywą francuską generała Nivelle’a nad Aisne. Przygotowano je z ogromną przewagą artylerii i podziemiami pod Arras."
+  - "Pierwszy dzień, 9 kwietnia, był jednym z największych sukcesów armii brytyjskiej: Kanadyjczycy zdobyli prawie cały grzbiet Vimy, a pod Fampoux Brytyjczycy posunęli się o ponad pięć kilometrów."
+  - "Po trzech dniach Niemcy zamknęli wyłom świeżymi dywizjami, a Loßberg przebudował obronę. Ponieważ ofensywa Nivelle’a zawiodła, Brytyjczycy atakowali dalej w coraz kosztowniejszych walkach o wsie nad Scarpe."
+  - "Ofensywa kosztowała Brytyjczyków nieco poniżej 150 tysięcy ludzi, a średnia dzienna strat była wyższa niż nad Sommą. Ściągnęła niemieckie odwody, ale nie uratowała ofensywy Nivelle’a."
 ---
 
 Bitwa pod Arras była wielką ofensywą brytyjską wiosny 1917 roku. W Poniedziałek Wielkanocny, 9 kwietnia, trzy armie Brytyjskiego Korpusu Ekspedycyjnego uderzyły na niemieckie pozycje wokół [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) w [Artois](https://pl.wikipedia.org/wiki/Artois): 3 Armia po obu stronach rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), Korpus Kanadyjski 1 Armii na grzbiecie Vimy, a kilka dni później 5 Armia pod [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt). Natarcie miało przede wszystkim ściągnąć niemieckie odwody przed główną ofensywą francuską nad Aisne. Pierwszy dzień był jednym z największych sukcesów armii brytyjskiej w całej wojnie: Kanadyjczycy zdobyli prawie cały grzbiet Vimy, o który Francuzi bezskutecznie walczyli w 1915 roku, a pod Fampoux wojska brytyjskie posunęły się o ponad pięć kilometrów, najdalej od początku wojny pozycyjnej na froncie zachodnim. Już po trzech dniach Niemcy zamknęli jednak wyłom świeżymi dywizjami, a bitwa zamieniła się w serię coraz kosztowniejszych natarć na wsie i wzgórza nad Scarpe. Ponieważ francuska ofensywa zawiodła, Brytyjczycy musieli atakować dalej, aż do połowy maja. Kosztowało to ich około 150 tysięcy ludzi, a średnia dzienna strat była wyższa niż nad Sommą.

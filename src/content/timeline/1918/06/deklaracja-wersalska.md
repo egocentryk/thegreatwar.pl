@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Polska, Roman Dmowski, Francja, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "3 czerwca 1918 roku w Wersalu premierzy Clemenceau, Lloyd George i Orlando uznali, że utworzenie zjednoczonego i niepodległego państwa polskiego z wolnym dostępem do morza jest jednym z warunków trwałego pokoju."
+  - "Deklaracja powstała na marginesie obrad Najwyższej Rady Wojennej w dniach kryzysu, gdy Niemcy stali nad Marną. Nie podpisały jej Stany Zjednoczone, formalnie tylko „państwo stowarzyszone”."
+  - "Wersalska formuła szła dalej niż słowa Wilsona, bo nie ograniczała Polski do ziem etnicznie polskich. Nie mówiła jednak nic o granicach, które odłożono do konferencji pokojowej."
+  - "Druga deklaracja wyrażała tylko „szczerą sympatię” dla dążeń Czechosłowaków i Jugosłowian, bez mowy o niepodległości. Ostrożność była w dużej mierze dziełem włoskiego ministra Sidneya Sonnina."
+  - "Roman Dmowski uważał deklarację za największy sukces swojej dyplomacji. Po zwycięstwie Ententy stała się, wraz z czternastoma punktami Wilsona, punktem wyjścia rozmów o Polsce na konferencji pokojowej."
 ---
 
 3 czerwca 1918 roku w [Wersalu](https://pl.wikipedia.org/wiki/Wersal) premierzy trzech europejskich mocarstw Ententy, [Georges Clemenceau](/postacie/georges-clemenceau), [David Lloyd George](/postacie/david-lloyd-george) i [Vittorio Emanuele Orlando](/postacie/vittorio-emanuele-orlando), uzgodnili na zakończenie obrad Najwyższej Rady Wojennej dwie krótkie deklaracje polityczne. Pierwsza dotyczyła Polski. W polskim przekładzie (tłumaczenia nieco się od siebie różnią) brzmiała: „Utworzenie zjednoczonego i niepodległego państwa polskiego z wolnym dostępem do morza stanowi jeden z warunków trwałego i sprawiedliwego pokoju oraz panowania prawa w Europie”. Druga wyrażała sympatię dla dążeń wolnościowych Czechosłowaków i Jugosłowian. Po raz pierwszy Francja, Wielka Brytania i Włochy wspólnie i publicznie wpisały odbudowę zjednoczonej Polski do warunków przyszłego pokoju. [Roman Dmowski](/postacie/roman-dmowski) uważał później ten akt za największy sukces swojej dyplomacji.

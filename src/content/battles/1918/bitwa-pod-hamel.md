@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Korpus Australijski w około półtorej god
 authors: [Łukasz Skowroń]
 tags: [Australia, Stany Zjednoczone, Niemcy, czołgi]
 milestone: true
+brief:
+  - "Rankiem 4 lipca 1918 roku dziesięć batalionów Korpusu Australijskiego, z sześćdziesięcioma czołgami Mark V i ponad sześciuset działami, zdobyło Hamel, lasy Vaire i Hamel oraz grzbiet za nimi nad Sommą."
+  - "Z tych pozycji Niemcy obserwowali i ostrzeliwali tyły Australijczyków. Plan natarcia przygotował generał John Monash, a czołgi miały iść za wałem ogniowym i pomagać piechocie, a nie ją zastępować."
+  - "Razem z Australijczykami walczyły cztery kompanie amerykańskiej 33 Dywizji, choć generał Pershing zakazał ich udziału. Dzień ataku wybrano celowo: było to amerykańskie Święto Niepodległości."
+  - "Monash pisał, że wszystko skończyło się w 93 minuty. Do niewoli trafiło ponad 1600 Niemców, a nocny kontratak na wzgórze na wschód od Hamel został odparty."
+  - "Hamel pokazało, jak połączyć piechotę, czołgi, artylerię i lotnictwo w zaskakującym natarciu. Te same metody, na znacznie większą skalę, zastosowano 8 sierpnia 1918 roku w bitwie pod Amiens."
 ---
 
 Bitwa pod Hamel była niewielkim, starannie przygotowanym natarciem Korpusu Australijskiego na niemieckie pozycje na południowym brzegu [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)), na wschód od Amiens. Rankiem 4 lipca 1918 roku dziesięć batalionów australijskiej piechoty, wspartych przez sześćdziesiąt nowych brytyjskich czołgów [Mark V](https://pl.wikipedia.org/wiki/Mark_V), ponad sześćset dział i samoloty Royal Air Force, zdobyło wieś [Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)), lasy Vaire i Hamel oraz grzbiet za nimi. Razem z Australijczykami walczyły cztery kompanie amerykańskiej 33 Dywizji, a dzień ataku wybrano celowo: było to amerykańskie [Święto Niepodległości](https://pl.wikipedia.org/wiki/Dzień_Niepodległości_(Stany_Zjednoczone)). Generał [John Monash](/postacie/john-monash), który zaplanował bitwę, pisał później, że wszystko skończyło się w 93 minuty. Według australijskiego historyka oficjalnego Charlesa Beana było to najbardziej udane natarcie sprzymierzonych od początku wielkiej ofensywy niemieckiej w marcu, a jego metody stały się wzorem dla bitwy pod Amiens 8 sierpnia 1918 roku.

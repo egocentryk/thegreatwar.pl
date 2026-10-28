@@ -15,6 +15,12 @@ result: Zwycięstwo państw centralnych. Twierdza padła 6 września, a dwie rum
 authors: [Natalia]
 tags: [Rumunia, Bułgaria, Niemcy, August von Mackensen]
 milestone: true
+brief:
+  - "Bitwa pod Tutrakanem trwała od 2 do 6 września 1916 roku. Była pierwszą wielką bitwą wojny bułgarsko-rumuńskiej i pierwszą ciężką klęską armii rumuńskiej w I wojnie światowej."
+  - "Naddunajską twierdzę Turtucaia nazywano czasem „drugim Verdun”, ale jej załoga miała za plecami szeroką rzekę bez mostu. Twierdzę obsadzała 17 Dywizja Piechoty, złożona głównie z rezerwistów."
+  - "Bułgarska 3 Armia generała Stefana Toszewa, podporządkowana Mackensenowi i wsparta niewielkim oddziałem niemieckim, otoczyła twierdzę. 5 września Bułgarzy zdobyli południową i wschodnią część głównej linii fortów."
+  - "6 września rumuńskie kontrataki się załamały, wybuchła panika, a setki żołnierzy utonęły w Dunaju. Wieczorem załoga skapitulowała, a do niewoli trafiło około 28 tysięcy Rumunów."
+  - "Klęska wstrząsnęła Rumunią: 9 września wstrzymano ofensywę w Siedmiogrodzie, a dywizje zaczęto przerzucać na południe. Dało to Erichowi von Falkenhaynowi czas na zebranie sił do kontruderzenia."
 ---
 
 Bitwa pod Tutrakanem była pierwszą wielką bitwą wojny bułgarsko-rumuńskiej i pierwszą ciężką klęską armii rumuńskiej w I wojnie światowej. Niespełna tydzień po [przystąpieniu Rumunii do wojny](/rumunia-wypowiada-wojne-austro-wegrom) bułgarska 3 Armia, wsparta niewielkim oddziałem niemieckim, otoczyła naddunajską twierdzę Turtucaia i po dwóch dniach szturmu zmusiła jej załogę do kapitulacji. Do niewoli trafiło około 28 tysięcy żołnierzy rumuńskich. Klęska wstrząsnęła Rumunią i zmusiła jej dowództwo do przerzucenia sił z Siedmiogrodu na południe, co w dużej mierze przesądziło o losach całej kampanii 1916 roku.

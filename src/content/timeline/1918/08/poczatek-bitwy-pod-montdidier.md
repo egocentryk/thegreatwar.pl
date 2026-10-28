@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Douglas Haig, Ferdinand Foch]
 milestone: true
 draft: false
+brief:
+  - "8 sierpnia 1918 roku, obok Kanadyjczyków i Australijczyków nacierających pod Amiens, do natarcia ruszyła francuska 1 Armia gen. Marie-Eugène'a Debeneya, na odcinku od drogi Amiens–Roye po okolice Montdidier."
+  - "Francuzi nie mieli dużych zgrupowań czołgów, więc nie mogli uderzyć z zaskoczenia. Ich artyleria otworzyła ogień razem z brytyjską o 4.20, a piechota XXXI Korpusu ruszyła 45 minut później."
+  - "XXXI Korpus zdobył Moreuil i wyszedł na płaskowyż Santerre, a IX Korpus po ciężkiej walce sforsował rzekę Avre. Opór Niemców tężał, a na Arvillers było już za późno."
+  - "Debeney odmówił prośbie Haiga o rzucenie kawalerii na tyły Niemców pod Montdidier, bo jego jazda stała daleko, a drogi były zatkane piechotą."
+  - "Według brytyjskiej historii oficjalnej Francuzi wzięli 150 oficerów i 3200 żołnierzy do niewoli. Ludendorff już tego dnia uznał, że prawe skrzydło 18 Armii trzeba będzie odciągnąć spod Montdidier."
 ---
 
 8 sierpnia 1918 roku, w tej samej gęstej mgle, w której Kanadyjczycy i Australijczycy [przełamywali niemiecki front pod Amiens](/poczatek-bitwy-pod-amiens), do natarcia ruszyła na ich prawym skrzydle francuska 1 Armia generała Marie-Eugène'a Debeneya. Na odcinku od drogi Amiens–Roye po okolice [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)), szerokim na około 29 kilometrów, miała w pierwszej linii dziesięć dywizji, a w odwodzie cztery następne i II Korpus Kawalerii. Tego dnia Francuzi zdobyli [Moreuil](https://pl.wikipedia.org/wiki/Moreuil), przeszli rzekę [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) i posunęli się w głąb płaskowyżu Santerre o kilka kilometrów. Tak zaczęła się bitwa pod Montdidier, francuska część pierwszego wielkiego natarcia sprzymierzonych w ofensywie, która miała się zakończyć dopiero rozejmem.

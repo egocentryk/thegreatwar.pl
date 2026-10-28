@@ -10,6 +10,11 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "20 grudnia 1914 roku Niemcy uderzyli we francuskiej Flandrii na Korpus Indyjski. Około godziny 9 pod okopami koło wsi Givenchy wybuchły niemieckie miny, a do ataku ruszyła piechota z granatami."
+  - "Uderzenie spadło na wojska skrajnie zmęczone po natarciach z 19 grudnia. W nocy lała ulewa, okopy wypełniła woda, a ubłocone karabiny się zacinały."
+  - "Do południa Niemcy rozbili brygadę Sirhind, a po 13 wdarli się do Givenchy. Wieś, kluczową dla obrony, odbił po 15 batalion Manchester Regiment w walce na bagnety."
+  - "Następnego dnia Niemcy znów wyparli Manchesterów, a wieś odzyskały wieczorem 21 grudnia świeże brygady 1 Dywizji. Dla Korpusu Indyjskiego była to najcięższa próba pierwszej zimy wojny."
 ---
 
 20 grudnia 1914 roku, tego samego dnia, gdy Francuzi [rozpoczęli ofensywę w Szampanii](/poczatek-pierwszej-bitwy-w-szampanii), Niemcy uderzyli we francuskiej Flandrii na Korpus Indyjski. O świcie na cały jego front, od kanału La Bassée po Neuve-Chapelle, spadł ogień ciężkiej artylerii i moździerzy okopowych. Około godziny 9 pod okopami na wschód i północ od wsi [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée) wybuchły niemieckie miny, a zaraz potem do ataku ruszyła piechota z granatami. Do południa Niemcy rozbili jedną z brygad indyjskich, zajęli Givenchy i wdarli się w linię aż pod [Festubert](https://pl.wikipedia.org/wiki/Festubert). Brytyjska chronologia wojny notuje ten dzień jako początek obrony Givenchy, która trwała do 21 grudnia.

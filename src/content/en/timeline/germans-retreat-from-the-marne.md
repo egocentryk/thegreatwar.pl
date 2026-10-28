@@ -2,7 +2,13 @@
 title: Germans retreat from the Marne
 summary: On 9 September 1914 the German 1st and 2nd Armies began to retreat from the Marne, sealed by Moltke's envoy Hentsch. The plan for a quick victory failed.
 source: niemcy-wycofuja-sie-znad-marny
-sourceHash: bf30bf26719d3399eddf405e3c92e259b81b0544
+sourceHash: 4f7ce9e39cbac49fe0707e07b377df7856a7b6a1
+brief:
+  - "On 9 September 1914 General Karl von Bülow's German 2nd Army, and a few hours later General Alexander von Kluck's 1st Army, began to withdraw from the Marne. That day the Battle of the Marne was decided."
+  - "Kluck had moved corps to the Ourcq against Maunoury's 6th Army, opening a gap some 40–50 kilometres wide between him and Bülow. The British and the left wing of the French 5th Army were entering it."
+  - "Moltke sent Lieutenant-Colonel Richard Hentsch to the front with oral powers. Bülow ordered a retreat when airmen reported the British in the gap, and at Mareuil Hentsch told General Kuhl that the 1st Army must withdraw."
+  - "By 12–13 September the Germans had fallen back to the Aisne, and on 14 September Moltke was removed. Hentsch was blamed for \"giving away\" the victory, but most historians think he merely sealed what was inevitable."
+  - "The retreat meant the collapse of the Schlieffen Plan: Paris was saved and Germany had to prepare for a long war on two fronts. The front halted on the Aisne, and the war began to turn into trench warfare."
 ---
 
 On 9 September 1914 the armies of the German right wing began to withdraw from the [Marne](https://pl.wikipedia.org/wiki/Marna). The retreat was first ordered by the commander of the 2nd Army, General [Karl von Bülow](/postacie/karl-von-bulow). A few hours later, on the instruction of an envoy of the Supreme Army Command, Lieutenant-Colonel Richard Hentsch, the 1st Army of General [Alexander von Kluck](/postacie/alexander-von-kluck) also began to fall back. That day the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną) was decided, and with it the fate of the German plan to defeat France quickly. For the French it was the "Miracle of the Marne".

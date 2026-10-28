@@ -2,7 +2,12 @@
 title: Austria-Hungary declares war on Belgium
 summary: On 22 August 1914 Austria-Hungary declared war on Belgium. Vienna accused the Belgians of cooperating with France and Britain against Germany.
 source: austro-wegry-wypowiadaja-wojne-belgii
-sourceHash: bb9527599a6cb3e5a6dd50f0052f7721afc1b93c
+sourceHash: 078668ced0218a47e84b8c0b061e7a312b718013
+brief:
+  - "On 22 August 1914 Austria-Hungary declared war on Belgium, with which it had no direct disputes. It was an act of solidarity with Germany, which had been invading Belgium for three weeks."
+  - "Vienna accused Belgium of military cooperation with France and Britain and of mistreating Austro-Hungarian subjects. According to Belgian documents, the note reached the government in Antwerp only on 28 August."
+  - "The declaration was above all a formality, as the Austro-Hungarian army sent no divisions to the Western Front. Heavy 305 mm Škoda mortars lent to the Germans were, however, in action in Belgium."
+  - "Vienna's decision was a further step in the widening of the war: the camps of the Central Powers and the Entente were by now almost fully formed."
 ---
 
 On 22 August 1914 [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) declared war on [Belgium](https://pl.wikipedia.org/wiki/Belgia). The two states had no direct disputes with each other, and Belgium had been defending itself against the German invasion for three weeks. Vienna's decision was an expression of solidarity with Germany, the Habsburg monarchy's most important ally.

@@ -2,7 +2,13 @@
 title: Poland regains independence
 summary: On 11 November 1918 the Regency Council handed Piłsudski command of the army, while Warsaw disarmed the Germans. The day became Independence Day.
 source: odzyskanie-niepodleglosci-przez-polske
-sourceHash: 01c35e8071ef6d21370197ad5d828d99901ca2d1
+sourceHash: a3be3b6dedf6a9c3b8613a91fa10a91e36cc2510
+brief:
+  - "On the evening of 11 November 1918 in Warsaw the Regency Council handed Józef Piłsudski military authority and supreme command of the Polish armed forces. That same morning Germany signed the armistice near Compiègne."
+  - "From the evening of 10 November, the day Piłsudski returned from Magdeburg, Polish soldiers and inhabitants disarmed the German garrison. About 30,000 Germans left Warsaw over the following days."
+  - "The already weak regents decided to hand Piłsudski the army and announced that they would place supreme authority in the hands of a future national government. A day later they entrusted him with forming it."
+  - "All three partitioning powers had lost the war or fallen apart, but the new state still had no borders and no recognised government, and in Lwów the Poles were fighting the Ukrainians."
+  - "The recovery of independence took weeks, but 11 November was adopted as the symbolic date. The act of 23 April 1937 established National Independence Day, which was restored in 1989."
 ---
 
 On the evening of 11 November 1918 in Warsaw the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) handed [Józef Piłsudski](/postacie/jozef-pilsudski) military authority and supreme command of the Polish armed forces. All day Polish soldiers, members of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) and ordinary inhabitants had been disarming the German garrison in the city, which only a few days earlier had held the whole Kingdom in its grip. That same morning, in the forest near Compiègne, Germany [signed the armistice](/rozejm-w-compiegne) with the Entente. After four years of war and more than a hundred and twenty years of bondage, Poland for the first time since the partitions had its own army under a single command in a capital free of foreign soldiers. This day was later adopted as the symbolic date of the recovery of independence.

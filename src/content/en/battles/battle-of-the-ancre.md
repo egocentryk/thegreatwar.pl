@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Fritz von Below]
 result: Partial British victory. The Fifth Army took Saint-Pierre-Divion, Beaumont-Hamel and Beaucourt and captured over 7,000 prisoners, but failed to take Serre or the Redan Ridge. Snow and mud ended the Battle of the Somme.
 source: bitwa-nad-ancre
-sourceHash: dad016bb0f243c47dcd3dbbc28170738ce3150a7
+sourceHash: 9bc6d1bd6fdbf9d803ed92e31e7d657627e512bc
+brief:
+  - "The Battle of the Ancre, fought on 13–18 November 1916, was the last great British attack of the Battle of the Somme. It was made by General Hubert Gough's Fifth Army on both banks of the river."
+  - "The attack was postponed again and again because of rain. Haig wanted a success before the Allied conference at Chantilly on 15 November, and historians dispute whether the battle was fought mainly for political effect."
+  - "On 13 November, in fog, the British took Saint-Pierre-Divion and Beaumont-Hamel, the objective of 1 July, and Beaucourt the next day. Lieutenant-Colonel Bernard Freyberg, who led the spearhead at Beaucourt, won the Victoria Cross."
+  - "At Serre and on the Redan Ridge the attack stuck in mud and machine-gun fire. The last attack, on 18 November, took place in the first snowstorm of winter and ended the Battle of the Somme."
+  - "According to the official history the Fifth Army lost 23,274 men from 11 to 24 November and took 7,183 prisoners. The battle brought the British their largest gains since mid-September, but the Germans held Serre."
 ---
 
 The Battle of the Ancre was the last great British attack of the [Battle of the Somme](/bitwy/bitwa-nad-somma). On 13 November 1916, after weeks of postponements because of rain, the Fifth Army of General [Hubert Gough](/postacie/hubert-gough) attacked in fog on both banks of the river [Ancre](https://pl.wikipedia.org/wiki/Ancre). On the north bank it attacked the old German positions against which the whole northern wing of the offensive had broken on 1 July. This time the attack largely succeeded. On the south bank the 39th Division took the village of Saint-Pierre-Divion in under two hours. After a day of fighting the 51st (Highland) Division seized the ruins of [Beaumont-Hamel](https://pl.wikipedia.org/wiki/Beaumont-Hamel), the village before which the Newfoundland battalion had bled to death on 1 July. The 63rd (Royal Naval) Division broke through along the river to [Beaucourt](https://pl.wikipedia.org/wiki/Beaucourt-sur-l’Ancre) and took the village the next day, and Lieutenant-Colonel [Bernard Freyberg](https://pl.wikipedia.org/wiki/Bernard_Freyberg), who led its spearhead, was awarded the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for it. In the north, at Serre, the attack again stuck in the mud and machine-gun fire. Further attacks achieved little, and the last, on 18 November, took place in the first snowstorm of winter. With that the Battle of the Somme came to an end.

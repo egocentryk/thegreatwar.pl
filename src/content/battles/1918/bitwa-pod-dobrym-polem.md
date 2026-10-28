@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. W trzy dni Serbowie i Francuzi zdobyli trzy
 authors: [Natalia]
 tags: [Serbia, Francja, Bułgaria, Louis Franchet d'Espérey]
 milestone: true
+brief:
+  - "Od 15 do 17 września 1918 roku Serbowie i Francuzi szturmowali bułgarskie pozycje na grzbiecie Dobro Pole–Sokol–Vetrenik w Macedonii. Bitwa otworzyła ostatnią ofensywę sprzymierzonych na froncie salonickim."
+  - "Plan, którego orędownikiem był wojewoda Živojin Mišić, wydawał się szalony: grzbiet wznosił się średnio na ponad 1350 metrów. Bułgarzy nie spodziewali się tu ataku, a ich druga i trzecia pozycja były słabo umocnione."
+  - "Po całodniowym ostrzale 14 września o 5.30 rano 15 września francuska 17 Dywizja Kolonialna i 122 Dywizja oraz serbska Dywizja Szumadijska ruszyły do szturmu i do nocy zdobyły Vetrenik, Dobro Pole i Sokol."
+  - "Przez wyłom przeszły Dywizje Jugosłowiańska i Timocka, wchodząc od razu na serbską ziemię. Do wieczora 17 września padły druga i trzecia pozycja bułgarska, a gen. Rusew wycofał się bez rozkazu."
+  - "Przełamanie pod Dobrym Polem rozcięło bułgarski front i w ciągu dwóch tygodni wyprowadziło Bułgarię z wojny. Było to najważniejsze zwycięstwo armii serbskiej, która wracała do kraju po klęsce z 1915 roku."
 ---
 
 Bitwa pod Dobrym Polem otworzyła ostatnią ofensywę sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). 15 września 1918 roku o 5.30 rano dwie francuskie dywizje i serbska Dywizja Szumadijska ruszyły do szturmu na bułgarskie okopy na nagim górskim grzbiecie wznoszącym się na blisko dwa tysiące metrów n.p.m. nad kotliną [Meglena](https://pl.wikipedia.org/wiki/Meglena). Do wieczora zdobyły szczyty Vetrenik, Dobro Pole i Sokol, a w nocy przez wyłom przeszły dywizje serbskie, które szły już po własnej ziemi. Do wieczora 17 września padły także druga i trzecia linia obrony. Bułgarzy, przekonani, że w tak wysokich górach nikt nie zaatakuje, stracili pozycję, na której opierała się cała obrona Macedonii. Przełamanie pod Dobrym Polem w ciągu dwóch tygodni wyprowadziło Bułgarię z wojny.

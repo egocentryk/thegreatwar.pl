@@ -9,7 +9,13 @@ sides:
     commanders: [Maximilian von Spee]
 result: German victory. The British lost two armoured cruisers with all hands; the Germans lost no ship.
 source: bitwa-pod-coronelem
-sourceHash: cf18ad418760b852d792f5a122145aaad97c29d9
+sourceHash: 0fa764e1b931d4d21640cb1d30ade57cb2cfca45
+brief:
+  - "On the evening of 1 November 1914, off the coast of central Chile, the German East Asia Squadron of Vice-Admiral Maximilian von Spee destroyed the British force of Rear-Admiral Christopher Cradock."
+  - "Cradock had weak forces: two old armoured cruisers crewed largely by reservists. He left his most powerful ship, the slow Canopus, behind, and nevertheless chose to fight."
+  - "After sunset the British ships stood out against the bright sky. At about 7 p.m. the Germans opened fire, and Good Hope and Monmouth went down with all hands, Admiral Cradock among them."
+  - "About 1,600 British sailors were killed, while the Germans had only three wounded. Spee's squadron, however, had fired roughly half its heavy-gun ammunition, with nowhere to replenish it."
+  - "It was the Royal Navy's first defeat in a naval battle in more than a hundred years. Admiral Fisher sent battlecruisers after Spee, and on 8 December 1914 they caught him off the Falklands."
 ---
 
 The [Battle of Coronel](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem) was fought on the evening of 1 November 1914 in the Pacific, off the coast of central [Chile](https://pl.wikipedia.org/wiki/Chile). The German East Asia Squadron of Vice-Admiral [Maximilian von Spee](/postacie/maximilian-von-spee) destroyed the British force of Rear-Admiral [Christopher Cradock](https://pl.wikipedia.org/wiki/Christopher_Cradock). Two British armoured cruisers went down with all hands, while the Germans had only three wounded. It was the first defeat of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) in a naval battle in more than a hundred years.

@@ -2,7 +2,12 @@
 title: Battle of Messines begins
 summary: On 12 October 1914 Allenby's British cavalry took the Mont des Cats in Flanders. The battle for the Messines ridge south of Ypres had begun.
 source: poczatek-bitwy-pod-messines
-sourceHash: 04f17f85a0323f26cfe6233105df4dbbf11ecd50
+sourceHash: 6e8ead0da13a4aab876098c407ffadbdec3d18fa
+brief:
+  - "On 12 October 1914 General Edmund Allenby's British Cavalry Corps took the Mont des Cats in French Flanders. British nomenclature dates the start of the Battle of Messines from this day."
+  - "Field Marshal French and General Foch had agreed on a joint advance eastwards. Allenby's cavalry was to cover the left flank of III Corps, facing General von Hollen's German IV Cavalry Corps."
+  - "The 3rd Cavalry Brigade took the hill towards evening, attacking on foot. Among the wounded the Germans left behind was the nineteen-year-old Prince Maximilian of Hesse, a nephew of Wilhelm II, who died soon afterwards."
+  - "After the Germans fell back behind the Lys, the British took Kemmel, Messines and Wytschaete, and for the first time an unbroken Allied line ran from Switzerland to the North Sea. It was, however, the last moment of Allied advantage."
 ---
 
 On 12 October 1914 the British Cavalry Corps of General [Edmund Allenby](/postacie/edmund-allenby) moved east through French Flanders towards the Belgian border. Towards evening, after fierce fighting, its regiments took the Mont des Cats, a hill held by German cavalry. British nomenclature dates the start of the Battle of Messines from this day. At stake was the low ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper), for which the cavalrymen were to fight for the next three weeks.

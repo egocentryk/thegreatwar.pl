@@ -2,7 +2,13 @@
 title: Germany declares war on Portugal
 summary: On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal.
 source: niemcy-wypowiadaja-wojne-portugalii
-sourceHash: 10c42fc7610b8570d516e6859da94387807b2635
+sourceHash: 6e05059b611ceba6074ee85019f7221f45167676
+brief:
+  - "On 9 March 1916 the German minister Friedrich Rosen handed over a note in Lisbon stating that Germany considered itself at war with Portugal. The following evening Rosen left for Madrid."
+  - "The immediate cause was the seizure by the Portuguese, at Britain's request, of German and Austro-Hungarian merchant ships in the Tagus on 23 February. Lisbon refused to revoke the decision."
+  - "The note listed Portugal's breaches of neutrality, but Lisbon replied that it had never proclaimed neutrality. Afonso Costa's government sought the rupture, hoping war would protect the colonies and strengthen the republic."
+  - "On 10 March Congress unanimously backed the government, and Costa declared that Portugal would fulfil its obligations to Britain. A cabinet called the \"Sacred Union\" was formed."
+  - "The first soldiers of the Portuguese Expeditionary Corps landed in France at the beginning of 1917. On 9 April 1918 a German blow fell on the Portuguese sector of the front, opening the Battle of the Lys."
 ---
 
 On the afternoon of Thursday 9 March 1916 the German minister in [Lisbon](https://pl.wikipedia.org/wiki/Lizbona), Friedrich Rosen, asked the Foreign Minister of [Portugal](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska), Augusto Soares, for an urgent audience. The minister gave him an appointment at 6 p.m. According to the Lisbon press Rosen arrived punctually, in a black frock coat and top hat, and the conversation lasted less than twenty minutes. The minister handed over a long note from his government. It listed the German grievances against Portugal and ended with the statement that the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) henceforth considered itself to be in a state of war with Portugal. That same evening the American minister in Lisbon cabled Washington that the German government "considers itself in a state of war with Portugal" and that German interests were being taken over by the Spanish legation.

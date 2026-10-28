@@ -2,7 +2,13 @@
 title: Start of the Battle of the Canal du Nord
 summary: At 5.20 a.m. on 27 September 1918 the Canadians crossed the dry Canal du Nord; by evening they held Bourlon Wood and the Third Army was in the Hindenburg Line.
 source: poczatek-bitwy-o-kanal-du-nord
-sourceHash: f1cff5d709ddf55569473fd3fdb042f3f12aff66
+sourceHash: 574e338dc433d6782e07c6a67cb92882841d00a8
+brief:
+  - "At 5.20 a.m. on 27 September 1918 General Arthur Currie's Canadian Corps and the left wing of the British Third Army attacked west of Cambrai. It was the second of the four blows planned by Marshal Foch."
+  - "The Germans had flooded the marshes along the canal north of Sains-lès-Marquion, so Currie sent two divisions across its dry bed on a stretch less than two and a half kilometres wide and then fanned them out."
+  - "The Canadians took the Marquion line and surrounded Bourlon Wood, fought over in vain by the British in November 1917. By evening the wood was cleared, and the left wing had reached the road from Cambrai to Douai."
+  - "To the south General Byng's Third Army fought through the Hindenburg Line at Flesquières. The Guards Division crossed the dry bed of the canal, and seven Victoria Crosses were awarded for this one day."
+  - "That night the commander of the German Seventeenth Army ordered a retreat behind the river Sensée. The Canadians hoped to take Cambrai soon, but the Germans did not give up the city without hard fighting."
 ---
 
 At 5.20 a.m. on 27 September 1918 General [Arthur Currie](/postacie/arthur-currie)'s Canadian Corps and the left wing of the British Third Army attacked west of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). The Canadians crossed the dry bed of the unfinished Canal du Nord on a stretch less than two and a half kilometres wide and then fanned out to the north and east. By the evening they had taken two lines of defences, the village of [Bourlon](https://pl.wikipedia.org/wiki/Bourlon) and Bourlon Wood, and on the left wing had reached the road from Cambrai to [Douai](https://pl.wikipedia.org/wiki/Douai). South of them British corps fought their way through the maze of trenches of the Hindenburg Line at [Flesquières](https://pl.wikipedia.org/wiki/Flesquières). The day before, the Americans and French had [attacked between the Meuse and the Argonne](/poczatek-ofensywy-moza-argonne). Now came the turn of the second of the four blows planned by Marshal [Ferdinand Foch](/postacie/ferdinand-foch).

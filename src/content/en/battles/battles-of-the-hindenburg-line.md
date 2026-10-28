@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Max von Boehn, Otto von Below, Georg von der Marwitz]
 result: Allied victory. The British First, Third and Fourth Armies broke through the whole Hindenburg Line between Cambrai and Saint-Quentin and came out into open country. The Germans lost Cambrai and fell back to the Selle, and their high command demanded an armistice.
 source: bitwy-o-linie-hindenburga
-sourceHash: 8b99131287f8f13c49658c3523e9844d49718c80
+sourceHash: 795348235dc2025357db8853adb00f2d979ab350
+brief:
+  - "The Battles of the Hindenburg Line is the British name for the attacks of 12 September – 12 October 1918 in which the British First, Third and Fourth Armies, with Canadians, Australians and Americans, took the strongest German line."
+  - "The Hindenburg Line, under construction since the autumn of 1916, was a belt of fortifications from 6 to 9 kilometres deep, resting on the Canal du Nord and the St Quentin Canal. It was regarded as almost impregnable."
+  - "After the fighting in the outpost zone at Havrincourt and Épehy, the Canadians crossed the Canal du Nord on 27 September, and on 29 September the 46th Division crossed the St Quentin Canal at Bellenglise."
+  - "At the beginning of October the British took the Beaurevoir–Fonsomme Line, occupied Cambrai and pursued the Germans as far as the river Selle near Le Cateau."
+  - "The defeat on this position was one of the reasons why on 29 September Ludendorff demanded an immediate armistice. The battles settled that the war would end in 1918 and not in 1919."
 ---
 
 The Battles of the Hindenburg Line is the British name for a series of attacks in which, in the autumn of 1918, the British First, Third and Fourth Armies, and with them Canadians, Australians, New Zealanders and two American divisions, captured the strongest German position on the Western Front. The Hindenburg Line, which the Germans called the Siegfriedstellung, had been under construction since the autumn of 1916 and was regarded as almost impregnable. First, on 12 and 18 September, the British drove the Germans out of its outpost zone at Havrincourt and Épehy. At the end of September, as part of the great Allied offensive along the whole front, they broke through it on the Canal du Nord and on the St Quentin Canal, and at the beginning of October they took the last line behind it and occupied [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). The defeat on this position was one of the reasons why the German Supreme Army Command demanded an immediate armistice from the government.

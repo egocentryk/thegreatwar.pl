@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Gustav Scanzoni von Lichtenfels]
 result: German victory. The attackers held on to none of the trenches they had taken and lost over 7,000 men, including 5,533 Australians. German losses are estimated at 1,500–2,000.
 source: bitwa-pod-fromelles
-sourceHash: 7b865c8330e23115e4b02a794c668e39ae4309b9
+sourceHash: be4f29654d34e62f83bdf1f0df6b3a341a577799
+brief:
+  - "The Battle of Fromelles on 19–20 July 1916 was a subsidiary attack in French Flanders. The British 61st and the 5th Australian Division were to show the Germans that they could not take troops from here to the Somme with impunity."
+  - "Both divisions were fresh and inexperienced, while the Germans held concrete shelters on a flat, marshy plain. The strongest point was the Sugarloaf salient, from which machine guns could sweep no man's land."
+  - "The British were stopped in front of the German trenches, while the Australians broke into the enemy line on two sectors. Towards morning on 20 July Bavarian counter-attacks drove them back."
+  - "The 5th Australian Division lost 5,533 men and the 61st Division 1,547, together more than 7,000. For Australia it was the blackest twenty-four hours in its military history."
+  - "The attack achieved nothing and weighed on relations between the Australians and the British command for years. In 2009 the remains of 250 soldiers were recovered from the graves by Pheasant Wood and buried in a new cemetery."
 ---
 
 The Battle of Fromelles was a subsidiary attack that the British command carried out in French Flanders in the third week of the [Battle of the Somme](/bitwy/bitwa-nad-somma). On the evening of 19 July 1916 two fresh, inexperienced divisions, the British 61st and the 5th Australian Division, attacked in broad daylight the German positions opposite the village of [Fromelles](https://pl.wikipedia.org/wiki/Fromelles), about 80 kilometres north of the Somme battlefield. They were to show the Germans that they could not take troops from here to the south with impunity. The British were stopped in front of the German trenches; the Australians broke into the enemy line on two sectors, but towards morning on 20 July Bavarian counter-attacks drove them back. A single night cost the 5th Australian Division 5,533 killed, wounded and captured, and the British 61st Division more than 1,500. For Australia it was the blackest twenty-four hours in its military history.

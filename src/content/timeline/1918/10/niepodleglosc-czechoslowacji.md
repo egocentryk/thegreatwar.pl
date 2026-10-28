@@ -8,6 +8,11 @@ dayOrder: 1
 tags: [Czechosłowacy, Austro-Węgry, Karol I Habsburg]
 milestone: true
 draft: false
+brief:
+  - "28 października 1918 roku Czechosłowacki Komitet Narodowy bez jednego wystrzału przejął władzę w Pradze i wieczorem uchwalił ustawę: „Samodzielne państwo czechosłowackie weszło w życie”."
+  - "Impulsem była nota Andrássyego, w której Austro-Węgry prosiły Wilsona o rozejm i przyjmowały jego warunki. W Pradze uznano ją za kapitulację monarchii, a tłumy zrywały z budynków cesarskie orły."
+  - "Ustawę i odezwę podpisało pięciu „mężów 28 października”: Švehla, Rašín, Stříbrný, Soukup i Słowak Šrobár. Komitet przejmował kolejne urzędy, a austriacki garnizon nie próbował przeszkodzić przewrotowi."
+  - "W następnych dniach Słowacy w deklaracji martińskiej opowiedzieli się za wspólnym państwem, a 14 listopada Rewolucyjne Zgromadzenie Narodowe ogłosiło republikę i wybrało Masaryka na prezydenta."
 ---
 
 28 października 1918 roku, w poniedziałek, w [Pradze](https://pl.wikipedia.org/wiki/Praga) bez jednego wystrzału zakończyło się prawie czterysta lat panowania Habsburgów nad Czechami. Czechosłowacki Komitet Narodowy przejął urzędy w mieście, a wieczorem uchwalił ustawę, która zaczynała się od słów: „Samodzielne państwo czechosłowackie weszło w życie”. Pod nią i pod odezwą do narodu podpisało się pięciu ludzi, których Czesi nazywają odtąd „mężami 28 października”: agrariusz [Antonín Švehla](https://pl.wikipedia.org/wiki/Antonín_Švehla), narodowy demokrata [Alois Rašín](https://pl.wikipedia.org/wiki/Alois_Rašín), narodowy socjalista Jiří Stříbrný, socjaldemokrata František Soukup i Słowak [Vavro Šrobár](https://pl.wikipedia.org/wiki/Vavro_Šrobár). Dziesięć dni wcześniej emigracyjny rząd tymczasowy ogłosił niepodległość w [deklaracji waszyngtońskiej](/deklaracja-waszyngtonska). Teraz nowe państwo powstało na miejscu. Dzień ten stał się w Czechosłowacji świętem narodowym, a brytyjska chronologia wojny przyjmuje go za oficjalną datę przystąpienia Czechosłowacji do wojny jako państwa.

@@ -2,7 +2,13 @@
 title: Germans capture Noyon
 summary: On 25 March 1918 Hutier's army broke the French reinforcements on the Oise and entered Noyon in the evening. The gap between the French and British widened.
 source: niemcy-zdobywaja-noyon
-sourceHash: a7fb9e33c0b77f9dd062a25dd460042efa89c0d1
+sourceHash: 6f09c5098411c42c895cd21a1eb3f1a5b8dcdee7
+brief:
+  - "On 25 March 1918, the fifth day of Operation Michael, General Oskar von Hutier's German 18th Army captured Noyon on the Oise, the town that until March 1917 had been the point of the German front closest to Paris."
+  - "Facing Hutier were French divisions brought up by lorry one by one, most of them without their own artillery, mixed in with the exhausted remnants of the British III and XVIII Corps."
+  - "In the morning the Germans broke through the French reinforcements, and through a misunderstanding the key Porquéricourt hill was left without defenders. At about 10 p.m. the Germans entered the northern districts of Noyon."
+  - "The same day the French also lost Nesle and the line of the Canal du Nord. Their retreat to the south-west carried them ever further from the British, and \"an enormous gap\" yawned between the armies."
+  - "The crisis at the junction of the Allied armies meant that on 26 March at Doullens the coordination of operations was entrusted to General Ferdinand Foch. Noyon remained in German hands until the end of August 1918."
 ---
 
 On 25 March 1918, the fifth day of [Operation Michael](/bitwy/operacja-michael), the German 18th Army of General [Oskar von Hutier](/postacie/oskar-von-hutier) captured [Noyon](https://pl.wikipedia.org/wiki/Noyon) on the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). In the morning its divisions broke through the line of French reinforcements, rushed up to take the place of the shattered right wing of the British Fifth Army, and in the evening they entered the town which for two and a half years, until March 1917, had been the point of the German front closest to Paris. The same day the French also lost [Nesle](https://pl.wikipedia.org/wiki/Nesle) and the line of the Canal du Nord, and their retreat to the south-west carried them ever further from the British, who were falling back westwards. The British official history records that on that day the line of the Somme was lost along the whole battle front and a considerable retirement took place, despite the arrival of French divisions.

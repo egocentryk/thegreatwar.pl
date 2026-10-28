@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjsko-kanadyjskie. Korpus Kanadyjski sforsował kanał, 
 authors: [Natalia]
 tags: [Kanada, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Od 27 września do 1 października 1918 roku Korpus Kanadyjski gen. Arthura Curriego i brytyjska 3 Armia walczyły o Kanał du Nord. Było to jedno z czterech wielkich uderzeń aliantów na froncie zachodnim."
+  - "Na północ od drogi Arras–Cambrai Niemcy zalali tereny nad kanałem, więc Currie wybrał suchy odcinek pod Inchy-en-Artois. Cały korpus miał przejść przez wąskie gardło, a potem rozwinąć się wachlarzem."
+  - "27 września o 5.20 Kanadyjczycy przeszli przez suche koryto na odcinku zaledwie dwóch i pół kilometra i jeszcze tego dnia zdobyli wieś i las Bourlon, o które Brytyjczycy na próżno walczyli w 1917 roku."
+  - "W ciągu dwóch dni 1 i 3 Armia wybiły wyłom szeroki na blisko 20 kilometrów. Kolejne walki przed Cambrai przyniosły niewielkie zdobycze, ale korpus wziął w pięć dni ponad 7000 jeńców i 205 dział."
+  - "Natarcie razem z uderzeniem nad Kanałem Saint-Quentin przełamało Linię Hindenburga i umocniło opinię Curriego jako jednego z najzdolniejszych dowódców korpusów. Samo Cambrai padło 9 października."
 ---
 
 Bitwa o Kanał du Nord była jednym z czterech wielkich uderzeń, którymi pod koniec września 1918 roku alianci zaatakowali Niemców na całym froncie zachodnim. 27 września o 5.20 rano Korpus Kanadyjski generała [Arthura Curriego](/postacie/arthur-currie) z brytyjskiej 1 Armii przeszedł na wąskim, zaledwie dwuipółkilometrowym odcinku przez suche koryto niedokończonego kanału, po czym rozwinął się wachlarzem na szerokość prawie dziewięciu kilometrów. Jeszcze tego dnia Kanadyjczycy zdobyli wieś [Bourlon](https://pl.wikipedia.org/wiki/Bourlon) i las Bourlon, o który Brytyjczycy na próżno walczyli jesienią 1917 roku, a na prawo od nich 3 Armia generała [Juliana Bynga](/postacie/julian-byng) wdarła się w ostatnie pozycje Linii Hindenburga na zachód od kanału Skaldy. W ciągu dwóch dni obie armie wybiły w niemieckiej obronie wyłom szeroki na blisko 20 i głęboki na blisko 10 kilometrów. Kolejne dni ciężkich walk na przedpolu [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), z 28 września do 1 października, przyniosły już niewielkie zdobycze terenu, ale związały kilkanaście niemieckich dywizji i przygotowały zdobycie miasta w październiku.

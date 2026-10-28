@@ -2,7 +2,13 @@
 title: Start of the Battle of Gorlice
 summary: On 1 May 1915 German and Austro-Hungarian guns began shelling the Russians at Gorlice, and on 2 May Mackensen's army attacked and broke through the front.
 source: poczatek-bitwy-pod-gorlicami
-sourceHash: a37ce5d9d22ab97e60c5bf9f07d26072f6979b50
+sourceHash: 1671bba11180d437db55b7fd763bdb20b54a023f
+brief:
+  - "On 1 May 1915 hundreds of German and Austro-Hungarian guns began shelling the Russian trenches between Tarnów and Gorlice. On 2 May the infantry of General August von Mackensen's Eleventh Army attacked."
+  - "Falkenhayn accepted Conrad's plan to break the front in the rear of the Russian armies fighting in the Carpathians. At Gorlice stood General Radko Dimitriev's weakened Third Army, short of shells."
+  - "Eight picked divisions, including the Prussian Guard, were brought from the Western Front. According to the most frequently cited figures, Mackensen's armies had more than a thousand guns and mortars."
+  - "On 2 May, after a four-hour bombardment, German and Austro-Hungarian troops stormed the Russian positions. The Austro-Hungarian 12th Infantry Division from Kraków, mostly Poles, took the trenches on Pustki hill."
+  - "By the evening of 2 May the first Russian line had been broken along the whole front of the attack. Dimitriev, however, refused to permit a retreat and ordered the positions to be held."
 ---
 
 On 1 May 1915 hundreds of German and Austro-Hungarian guns opened up in the foothills between [Tarnów](https://pl.wikipedia.org/wiki/Tarnów) and [Gorlice](https://pl.wikipedia.org/wiki/Gorlice). Batteries that had secretly taken up their positions over the preceding days began ranging on the Russian trenches and firing harassing fire. The British chronology of the war counts the Battle of Gorlice and Tarnów from this day. The main blow, however, came only the next morning: on 2 May, after a four-hour hurricane bombardment, the infantry of General [August von Mackensen](/postacie/august-von-mackensen)'s new German Eleventh Army went into the attack and broke through the first line of the Russian defences that same day.

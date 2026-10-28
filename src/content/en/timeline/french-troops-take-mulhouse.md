@@ -2,7 +2,12 @@
 title: French troops take Mulhouse
 summary: On 8 August 1914 French troops entered Mulhouse in Alsace. France celebrated, but within two days a German counter-attack forced the French to retreat.
 source: francuzi-zajmuja-miluze
-sourceHash: 83445feab8ee5aabc2c064a29464c16053f46514
+sourceHash: 200b68712f59d20d2d26a1c8241c4025e014627e
+brief:
+  - "On the evening of 8 August 1914 the French VII Corps entered Mulhouse, the largest town in southern Alsace. For the first time since 1871 French soldiers had taken an important Alsatian town."
+  - "The news caused euphoria in France, and Joseph Joffre issued a proclamation to the \"children of Alsace\". The capture was to herald the early recovery of Alsace and Lorraine."
+  - "On the morning of 9 August reinforcements of the German 7th Army struck around Cernay. Threatened with encirclement, General Louis Bonneau left Mulhouse on 10 August, withdrawing towards Belfort."
+  - "Joffre removed Bonneau, the first of many generals dismissed. The brief occupation of Mulhouse became a symbol of the illusions of the first days of the war, and the town returned to France only in November 1918."
 ---
 
 On the evening of 8 August 1914 units of the French VII Corps entered [Mulhouse](https://pl.wikipedia.org/wiki/Miluza), the largest town in southern [Alsace](https://pl.wikipedia.org/wiki/Alzacja). For the first time since 1871, when the province passed under German rule, French soldiers had taken an important Alsatian town.

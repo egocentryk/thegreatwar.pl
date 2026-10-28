@@ -17,6 +17,12 @@ result: Strategiczne zwycięstwo Francji i Wielkiej Brytanii. Niemcy wycofali si
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Joseph Joffre]
 milestone: true
+brief:
+  - "Pierwsza bitwa nad Marną, stoczona w dniach 6–12 września 1914 roku na froncie od okolic Paryża po Verdun, była jedną z najważniejszych bitew I wojny światowej. Walczyło w niej blisko dwa miliony żołnierzy."
+  - "Po dwóch tygodniach odwrotu sprzymierzonych gen. Kluck skręcił na wschód od Paryża i odsłonił flankę. Gen. Joffre wydał rozkaz ogólnej kontrofensywy, a 6 Armia Maunoury'ego uderzyła nad Ourcq."
+  - "Kluck przerzucał korpusy nad Ourcq, przez co między jego 1 Armią a 2 Armią Bülowa otworzyła się luka. Weszli w nią Brytyjczycy i lewe skrzydło francuskiej 5 Armii, a 9 Armia Focha utrzymała centrum."
+  - "9 września, po misji ppłk. Richarda Hentscha, armie niemieckie zaczęły się wycofywać. Do 12–13 września cofnęły się nad Aisne i tam się okopały."
+  - "Niemiecki plan szybkiego pokonania Francji upadł, a Niemcy zostali skazani na długą wojnę na dwóch frontach. Francuzi nazwali bitwę „cudem nad Marną”."
 ---
 
 [Pierwsza bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), stoczona we wrześniu 1914 roku na froncie długości około 200 kilometrów, od okolic Paryża po Verdun, była jedną z najważniejszych bitew I wojny światowej. Wojska francuskie i [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), po dwóch tygodniach odwrotu, przeszły do kontrofensywy i zmusiły armie niemieckie do cofnięcia się nad Aisne. Niemiecki plan pokonania Francji w kilka tygodni upadł, a wojna na zachodzie zmieniła charakter.

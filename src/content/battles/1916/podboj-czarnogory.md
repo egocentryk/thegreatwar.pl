@@ -15,6 +15,12 @@ result: Zwycięstwo Austro-Węgier. Lovćen i Cetynia padły w ciągu kilku dni,
 authors: [Natalia]
 tags: [Czarnogóra, Austro-Węgry, Mikołaj I Petrowić-Niegosz, Franz Conrad von Hötzendorf]
 milestone: true
+brief:
+  - "Podbój Czarnogóry, trwający od 5 do 25 stycznia 1916 roku, był zimowym epilogiem podboju Serbii. 3 Armia generała Hermanna Kövessa uderzyła na Czarnogórę z trzech stron."
+  - "Franz Conrad von Hötzendorf postanowił rozprawić się z Czarnogórą. Wiedeń uważał za konieczne zdobycie masywu Lovćen, z którego Czarnogórcy zagrażali bazie floty w Kotorze."
+  - "Pod Mojkovacem Czarnogórcy odparli ataki i utrzymali linię Tary, ale na zachodzie Lovćen padł po trzech dniach walk. 13 stycznia Austriacy weszli bez walki do stolicy, Cetyni."
+  - "Rząd poprosił o rozejm, a król Mikołaj I 19 stycznia wyjechał przez Szkodrę do Włoch. 21 stycznia generał Vukotić rozwiązał armię, a 25 stycznia podpisano warunki złożenia broni."
+  - "Czarnogóra jako jedyne państwo Ententy straciła całe terytorium i armię i była okupowana do 1918 roku. W listopadzie 1918 roku zgromadzenie w Podgoricy ogłosiło detronizację króla i połączenie z Serbią."
 ---
 
 Podbój Czarnogóry był krótkim, zimowym epilogiem [podboju Serbii](/bitwy/podboj-serbii). Mała górska monarchia króla [Mikołaja I](/postacie/mikolaj-i-petrowic-niegosz) walczyła u boku Serbii od sierpnia 1914 roku, a jej działa na masywie [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)) od początku wojny zagrażały austro-węgierskiej bazie floty w [Kotorze](https://pl.wikipedia.org/wiki/Kotor). Gdy pod koniec 1915 roku resztki armii serbskiej przeszły przez Czarnogórę i Albanię nad Adriatyk, austro-węgierski szef sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) postanowił rozprawić się z ostatnim przeciwnikiem na Bałkanach. Na początku stycznia 1916 roku 3 Armia generała [Hermanna Kövessa](/postacie/hermann-kovess) uderzyła na Czarnogórę z trzech stron. Lovćen padł po trzech dniach walk, 13 stycznia Austriacy weszli do stolicy, [Cetyni](https://pl.wikipedia.org/wiki/Cetynia). Rząd poprosił o rozejm, król wyjechał do Włoch, a wyczerpana i głodna armia czarnogórska rozeszła się do domów albo złożyła broń. Czarnogóra jako jedyne państwo Ententy straciła w tej wojnie nie tylko całe terytorium, lecz także armię.

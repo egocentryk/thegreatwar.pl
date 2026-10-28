@@ -9,7 +9,13 @@ sides:
     commanders: [Radko Dimitriev, Dmitry Shcherbachev]
 result: Austro-Hungarian victory. The garrison repelled the assault of 5–8 October, and the Russians lifted the siege in the face of the Central Powers' counter-offensive.
 source: pierwsze-oblezenie-przemysla
-sourceHash: 358509c635dfd43069318d4bd6d5e322144120de
+sourceHash: eaff0ea234ca3598865fb548f03a85956424965e
+brief:
+  - "The first siege of Przemyśl lasted from the second half of September to 9–11 October 1914. More than 120,000 soldiers under General Hermann Kusmanek remained in the encircled fortress on the San."
+  - "After the defeat in the Battle of Galicia the Austro-Hungarian armies withdrew westwards. The fortress barred the road from Eastern Galicia to Kraków and to the Carpathian passes."
+  - "The Russian 3rd Army of General Radko Dimitriev, without heavy siege artillery, assaulted the forts on 5–8 October. The defenders drove back the attacks, and the Russians suffered heavy losses."
+  - "With General Boroević's Austro-Hungarian 3rd Army approaching, the Russians broke off the siege. On 9 October Austro-Hungarian cavalry entered Przemyśl."
+  - "The defence was one of Austria-Hungary's few successes in the first months of the war. In November the Russians surrounded the fortress again, and it capitulated on 22 March 1915."
 ---
 
 The first siege of the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) lasted from the second half of September to 9–11 October 1914. After the defeat in the [Battle of Galicia](/bitwy/bitwa-galicyjska) the Austro-Hungarian armies withdrew westwards, leaving more than 120,000 soldiers under General [Hermann Kusmanek von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten) in the encircled fortress on the [San](https://pl.wikipedia.org/wiki/San). The Russian [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) of General [Radko Dimitriev](/postacie/radko-dimitriew) tried to take the fortress by storm, but on 5–8 October it suffered heavy losses and achieved nothing. Immediately afterwards the siege was lifted by an Austro-Hungarian relief force. This was the first part of one of the longest sieges of the First World War, which ended with the fortress's capitulation in March 1915.

@@ -2,7 +2,13 @@
 title: Capture of Ginchy
 summary: On 9 September 1916 the Irish 16th Division took the ruins of Ginchy on the Somme in about two hours. Among the dead was the poet and former MP Tom Kettle.
 source: zdobycie-ginchy
-sourceHash: fa5dd5415b363dbaa9554f6334f81d2148442341
+sourceHash: a535d7276f25599431be32d5e029cbb3433a8ef5
+brief:
+  - "Towards evening on 9 September 1916 the Irish 16th Division took the ruins of Ginchy, the highest point of the ridge on the British right wing on the Somme."
+  - "During the previous week the British 7th Division had three times broken into the village and three times lost it. The Irish of the 16th Division, mostly nationalist volunteers, were already worn out by Guillemont."
+  - "Six Irish battalions went over at 4.45 p.m. and, according to Prior and Wilson, took the village in about two hours, then beat off counter-attacks. On the neighbouring sectors the attack failed."
+  - "Among the dead was Lieutenant Tom Kettle of the 9th Battalion Royal Dublin Fusiliers, an economist, poet and former nationalist MP. His grave was lost."
+  - "From 1 to 10 September the 16th Division lost 240 officers and 4,090 men. The capture of Ginchy gave the British the whole ridge from Leuze Wood to Delville Wood."
 ---
 
 Towards evening on 9 September 1916 the Irish 16th Division took the ruins of the village of [Ginchy](https://pl.wikipedia.org/wiki/Ginchy), the highest point of the ridge on the British right wing on the Somme. During the previous week the British 7th Division had three times broken into the village and three times been driven out of it. This time six Irish battalions went over to the assault at 4.45 p.m. and, according to the historians Robin Prior and Trevor Wilson, took the village in about two hours. They captured about two hundred prisoners and beat off German counter-attacks until morning. The victory came at a high price, and on the neighbouring sectors the attack failed. Among those killed that day was Lieutenant Tom Kettle of the 9th Battalion Royal Dublin Fusiliers, an economist, poet and one of the best-known Irish politicians of his generation.

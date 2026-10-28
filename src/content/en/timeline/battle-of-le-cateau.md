@@ -2,7 +2,13 @@
 title: Battle of Le Cateau
 summary: On 26 August 1914 Smith-Dorrien's II Corps stood and fought at Le Cateau against the wishes of GHQ. It paid a high price but halted the German pursuit.
 source: bitwa-pod-le-cateau
-sourceHash: 9990979735f4172c4f34807d1ac58e800dc0329e
+sourceHash: 6e6aca9ba48da82f50969bbd073423677ca6ffca
+brief:
+  - "On 26 August 1914 at Le Cateau the British II Corps of General Horace Smith-Dorrien fought a day-long battle against the German 1st Army, three days after the Battle of Mons."
+  - "With his exhausted corps about to be caught by the Germans, Smith-Dorrien decided to stand and deal them a heavy blow. He did so against the wishes of Field Marshal John French, who wanted the retreat to continue."
+  - "The artillery, placed in the open just behind the infantry, played the key part. The right wing near Le Cateau was enfiladed, and battalions of the Suffolks and the KOYLI were almost completely destroyed."
+  - "In the afternoon II Corps withdrew, covered by General Sordet's French cavalry. According to the British official history, of roughly 40,000 soldiers 7,812 became casualties, and 38 guns were lost."
+  - "The German pursuit lost its momentum. Many historians believe the battle saved the Expeditionary Force from destruction, although French later blamed Smith-Dorrien for disobedience."
 ---
 
 On 26 August 1914 at [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis) in northern France the British II Corps of General Horace Smith-Dorrien fought a day-long battle against the German 1st Army. Three days after the [Battle of Mons](/bitwy/bitwa-pod-mons) the British stood and fought again, this time against the wishes of the commander-in-chief. It was one of the bloodiest days in the history of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) in 1914.

@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Nowa Zelandia, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "12 września 1918 roku o 5.25 artyleria brytyjskiej 3 Armii gen. Juliana Bynga otworzyła ogień na froncie około 8 kilometrów między lasem Gouzeaucourt a Canal du Nord. Do ataku ruszyły cztery brygady."
+  - "Celem były dwa grzbiety przed Linią Hindenburga i wieś Havrincourt. Byng uważał, że niemieckie dywizje są wyczerpane i trzeba je nieustannie atakować, choć Haig nie zamierzał jeszcze szturmować głównej pozycji."
+  - "62 Dywizja, która zdobyła Havrincourt już w listopadzie 1917 roku, obeszła wieś z obu stron i odbiła ją, a 37 Dywizja zajęła Trescault. Wieczorny niemiecki kontratak na Havrincourt się załamał."
+  - "Najtrudniej mieli Nowozelandczycy na grzbiecie Trescault, gdzie bronili się strzelcy elitarnej Dywizji Strzelców. Sierżant Harry Laurent z garstką ludzi wziął do niewoli 111 żołnierzy i dostał Krzyż Wiktorii."
+  - "3 Armia posunęła się średnio o prawie półtora kilometra. Brytyjska komisja uznała natarcie za początek bitew o Linię Hindenburga, a Byng uważał 12 września za najważniejszy dzień swojego dowodzenia."
 ---
 
 12 września 1918 roku o 5.25 rano artyleria brytyjskiej 3 Armii generała [Juliana Bynga](/postacie/julian-byng) otworzyła ogień na froncie około 8 kilometrów między lasem Gouzeaucourt a Canal du Nord. Za zaporą ogniową ruszyły do ataku cztery brygady: jedna nowozelandzka i trzy brytyjskie. Ich celem były dwa grzbiety przed Linią Hindenburga i wieś [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), która leżała przy samej niemieckiej pozycji. Tego samego dnia, ponad 200 kilometrów na południowy wschód, [Amerykanie uderzyli na występ pod Saint-Mihiel](/poczatek-bitwy-pod-saint-mihiel). Brytyjska komisja do spraw nazewnictwa bitew uznała później natarcie pod Havrincourt za początek bitew o Linię Hindenburga, które w październiku przyniosły przełamanie całej pozycji.

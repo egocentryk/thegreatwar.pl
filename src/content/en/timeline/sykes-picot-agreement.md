@@ -2,7 +2,13 @@
 title: Sykes–Picot Agreement
 summary: On 26 April 1916 Russia and France exchanged secret notes. Russia accepted the Anglo-French plan to partition Asiatic Turkey and secured Armenia for itself.
 source: porozumienie-sykes-picot
-sourceHash: 42beedce640185f6c2b721e7fbed3ef7503f13d8
+sourceHash: ec91f149ad9edc3a3bc6001b220c50e0004b2ecd
+brief:
+  - "On 26 April 1916 in Petrograd Sergei Sazonov and the French ambassador Maurice Paléologue exchanged secret letters. In them Russia accepted a plan to partition the Asian lands of the Ottoman Empire."
+  - "The plan had been agreed earlier by Mark Sykes and François Georges-Picot. The matter became urgent in the autumn of 1915, when the British in Cairo were promising the Sharif of Mecca Arab independence and France feared for Syria."
+  - "In return France recognised Russian claims to eastern Anatolia, including the provinces of Erzurum, Trebizond, Van and Bitlis. The agreement provided no autonomy whatsoever for the Armenians."
+  - "The plan divided the Ottoman lands into zones: a blue zone under French rule, a red zone under British rule, zones A and B for an Arab state, and a brown zone, Palestine, under international administration."
+  - "The agreement was strictly secret until the Bolsheviks published its texts in November 1917. The name \"Sykes-Picot\" became a symbol in the Arab world of betrayal and of arbitrary borders imposed by the great powers."
 ---
 
 On 26 April 1916 in [Petrograd](https://pl.wikipedia.org/wiki/Petersburg) the Russian foreign minister [Sergei Sazonov](/postacie/siergiej-sazonow) and the French ambassador Maurice Paléologue exchanged secret letters. In them Russia accepted a plan to partition the Asian lands of the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie) that had been agreed a few months earlier by the British politician Mark Sykes and the French diplomat François Georges-Picot. In return France recognised Russian claims to eastern Anatolia. This was the first formal step in the chain of secret notes that went down in history as the [Sykes–Picot Agreement](https://pl.wikipedia.org/wiki/Umowa_Sykes-Picot). The document known by that name today, the Anglo-French partition of the Middle East, was not confirmed by London and Paris until May.

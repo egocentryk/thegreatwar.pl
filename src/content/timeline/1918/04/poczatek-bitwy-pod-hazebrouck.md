@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "12 kwietnia 1918 roku, w czwartym dniu bitwy nad Lys, niemiecka 6 Armia ruszyła na Hazebrouck, węzeł kolejowy, przez który szło zaopatrzenie dla brytyjskich wojsk we Flandrii."
+  - "Gdyby Niemcy zajęli Hazebrouck albo wzięli je pod ogień, Brytyjczycy musieliby prawdopodobnie oddać cały łuk Ypres, a może i cofnąć się ku wybrzeżu."
+  - "Niemcy zrobili w froncie dwa wyłomy, pod Pacaut i między Vieux-Berquin a Bailleul, i zbliżyli się do Hazebrouck na mniej więcej 8 kilometrów. Przez większą część dnia linia brytyjska nie była ciągła."
+  - "Wieczorem front jednak stał: przed lasem Nieppe świeża 5 Dywizja ściągnięta z Włoch, pod Vieux-Berquin 4 Brygada Gwardii, a pod Meteren improwizowane oddziały 33 Dywizji."
+  - "W nocy do Hazebrouck zaczęli przyjeżdżać Australijczycy z 1 Dywizji Australijskiej, którzy do świtu utworzyli nową linię za frontem brytyjskich dywizji."
 ---
 
 12 kwietnia 1918 roku był jednym z najbardziej krytycznych dni wiosny 1918 roku dla armii brytyjskiej. Czwarty dzień [bitwy nad Lys](/bitwy/bitwa-nad-lys-1918) niemiecka 6 Armia zaczęła od uderzenia w kierunku [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), węzła kolejowego, przez który szło zaopatrzenie dla brytyjskich wojsk we Flandrii. Przeciw sobie miała zmęczone, wymieszane dywizje, w dużej części bez własnej artylerii, z batalionami prowadzonymi przez młodszych oficerów. W ciągu dnia Niemcy zrobili w froncie dwa wyłomy, głębokie na kilka kilometrów, na południe od Lys pod Pacaut i na północ od niej między Vieux-Berquin a Bailleul, i zbliżyli się do Hazebrouck na mniej więcej 8 kilometrów. Brytyjska historia oficjalna pisze, że przez większą część dnia linia nie była ciągła, a sztaby dywizji, mimo meldunków lotników co godzinę, nie wiedziały, gdzie przebiega. Wieczorem front jednak stał: przed lasem Nieppe świeża 5 Dywizja, ściągnięta z Włoch, pod Vieux-Berquin 4 Brygada Gwardii, a pod Meteren improwizowane oddziały 33 Dywizji. W nocy do Hazebrouck zaczęli przyjeżdżać Australijczycy.

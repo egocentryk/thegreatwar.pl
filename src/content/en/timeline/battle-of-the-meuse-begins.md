@@ -2,7 +2,12 @@
 title: Battle of the Meuse begins
 summary: On 25 August 1914 the French Fourth Army, pulled back from the Ardennes, took post behind the Meuse from Mézières to Stenay. The fight for the crossings began.
 source: poczatek-bitwy-nad-moza
-sourceHash: 70e8c7572ba4de2f11adb0244b7299ed0287708f
+sourceHash: 1060e004c0b628e39fe5cedb9a8769c214b3e801
+brief:
+  - "On 25 August 1914 the French Fourth Army of General Fernand de Langle de Cary, beaten in the Ardennes, took up positions behind the Meuse from near Mézières to Stenay. The fight for the crossings began."
+  - "That day Joffre issued General Instruction No. 2: the armies were to fall back gradually while a new army formed near Amiens. A breach of the Fourth Army's line could have cut the French front in two."
+  - "On 26 August the Germans seized an undamaged bridge at Donchery, and on 27 August they launched a general attack. The French counter-attacked, with the Colonial Corps near Stenay and XI Corps in the La Marfée wood."
+  - "On 28 August the Fourth Army's counter-attack won local successes, but that evening it was ordered back to the Aisne. Its stand on the Meuse slowed the German centre and kept the front from being torn apart."
 ---
 
 On 25 August 1914 the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), beaten a few days earlier in the Ardennes, took up positions behind the [Meuse](https://pl.wikipedia.org/wiki/Moza), on the stretch from near Mézières to [Stenay](https://pl.wikipedia.org/wiki/Stenay). On its right wing, in the area of [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse), the Third Army was withdrawing across the river. So began the Battle of the Meuse, one of the most important engagements of the Great Retreat. Over the following days the French defended the crossings against the advancing German armies, inflicting heavy losses on them.

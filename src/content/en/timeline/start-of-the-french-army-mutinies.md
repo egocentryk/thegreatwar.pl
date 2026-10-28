@@ -2,7 +2,13 @@
 title: Start of the French Army mutinies
 summary: 'On 3 May 1917 near Soissons about 1,000 men of the 2nd Colonial Division shouted "Down with the war!". After Nivelle''s defeat, mutinies swept the army.'
 source: poczatek-buntow-w-armii-francuskiej
-sourceHash: 701e640c18b2732de22d654bddb8d39a60cb581f
+sourceHash: b80ec8205067249160fbd42ff27658f8d7fb6be5
+brief:
+  - "On 2 and 3 May 1917 at Saint-Bandry near Soissons about a thousand soldiers of the 2nd Colonial Infantry Division, ordered back to the front, sang the Internationale and shouted \"Down with the war!\"."
+  - "The immediate cause was disappointment after the Nivelle offensive, which promised a breakthrough but within a few days cost more than a hundred thousand killed, wounded and missing. Soldiers also resented the lack of leave."
+  - "It was not the first collective disobedience: on 29 April near Mourmelon-le-Grand about 200 soldiers had refused to return to the line. None before, however, had been on such a scale."
+  - "The mutineers generally did not refuse to defend the trenches, only to take part in further attacks. Of the 119 cases of collective indiscipline, 80 fell between 25 May and 10 June."
+  - "The crisis was brought under control by General Philippe Pétain, who combined severity towards the ringleaders with reforms: regular leave, better food and the abandonment of costly attacks."
 ---
 
 On 2 and 3 May 1917 at Saint-Bandry, a village west of [Soissons](https://pl.wikipedia.org/wiki/Soissons) where the French 2nd Colonial Infantry Division was resting after the April fighting, the first large mutiny in the French Army broke out. The division had been ordered back to the front to take part in another attack on the Chemin des Dames. According to the tally of the French historian André Loez, about a thousand soldiers, mainly from the 43rd Colonial Infantry Regiment, gathered in their billets, sang [the Internationale](https://pl.wikipedia.org/wiki/Międzynarodówka_(pieśń)) and shouted "Down with the war!" ("À bas la guerre!"). Shots were fired, and anti-war leaflets circulated in the camp. It was not the first case of collective disobedience, but none before had been on such a scale. It was the beginning of a wave of mutinies that in May and June swept through several dozen French divisions and for a long time put France out of action for major offensives.

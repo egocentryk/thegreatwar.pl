@@ -10,6 +10,12 @@ dayOrder: 8
 tags: [Belgia, Wielka Brytania, Francja, Albert I]
 milestone: true
 draft: false
+brief:
+  - "14 października 1918 roku o 5.35 rano Grupa Armii Flandria króla Alberta I ruszyła do drugiego wielkiego natarcia we Flandrii, od rzeki Leie pod Comines po Diksmuide, na pozycję Flandria II."
+  - "Pierwsze natarcie, piąta bitwa pod Ypres, ugrzęzło w błocie dawnego pobojowiska. Przez dwa tygodnie sprzymierzeni naprawiali drogi i podciągali artylerię, a król Albert czekał na świeże dywizje francuskie."
+  - "Natarcie ruszyło bez przygotowania artyleryjskiego, we mgle. Brytyjska 2 Armia zajęła wzgórza nad Menen i oczyściła Ledegem, a szeregowiec Thomas Ricketts zdobył Krzyż Wiktorii jako najmłodszy żołnierz armii lądowej."
+  - "W środku frontu francuski VII Korpus otoczył i według brytyjskiej chronologii odbił Roeselare, a Belgowie doszli do Izegem i zdobyli Kortemark."
+  - "Do wieczora sprzymierzeni przełamali pozycję na prawie całej długości i wzięli ponad 6 tysięcy jeńców. Przełamanie przesądziło odwrót Niemców spod Lille, a wkrótce Belgowie odzyskali Ostendę, Brugię i Zeebrugge."
 ---
 
 14 października 1918 roku o 5.35 rano Grupa Armii Flandria króla Belgów [Alberta I](/postacie/albert-i) ruszyła do drugiego wielkiego natarcia we Flandrii, na całym froncie od rzeki [Leie](https://pl.wikipedia.org/wiki/Leie) pod Comines po Diksmuide. Armia belgijska, brytyjska 2 Armia i dwa korpusy francuskie uderzyły na pozycję Flandria II, ostatnią przygotowaną linię niemieckiej 4 Armii na zachód od Leie. Do wieczora przełamały ją na prawie całej długości, posunęły się miejscami o kilka kilometrów i wzięły ponad 6 tysięcy jeńców. Francuzi otoczyli i według brytyjskiej chronologii wojny odbili [Roeselare](https://pl.wikipedia.org/wiki/Roeselare), a Belgowie doszli do Izegem i zdobyli Kortemark. Brytyjczycy nazwali tę operację bitwą pod Courtrai, od francuskiej nazwy miasta [Kortrijk](https://pl.wikipedia.org/wiki/Kortrijk), do którego doszli kilka dni później. Francuzi mówią o bitwie pod Roulers, czyli pod Roeselare.

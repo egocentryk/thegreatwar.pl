@@ -2,7 +2,13 @@
 title: Patent on the Regency Council
 summary: On 12 September 1917 Germany and Austria-Hungary issued a patent giving power in the Kingdom of Poland to a three-man Regency Council, under occupiers' control.
 source: patent-o-radzie-regencyjnej
-sourceHash: 3dbc585fbc59a5aa08ea47fcccfa63ce91fe06d1
+sourceHash: eee12fd7ba41c78e3ac23d1aeb6593340fc25cb1
+brief:
+  - "On 12 September 1917 Germany and Austria-Hungary issued a patent that passed supreme authority in the Kingdom of Poland, until a king or regent assumed it, to a three-man Regency Council."
+  - "The patent was the occupiers' second step, after the Act of 5th November, in building the Kingdom. It followed the fall of the Provisional Council of State, whose members resigned on 25 August."
+  - "The Regency Council was to appoint a President of Ministers and legislate with a new Council of State. Every Polish law, however, needed the governor-general's consent, and the army stayed under Beseler."
+  - "The regents were Archbishop Aleksander Kakowski, Prince Zdzisław Lubomirski and Józef Ostrowski. They took office on 27 October, and only then did the patent come into force."
+  - "The Regency Council, regarded by many as a tool of the occupiers, lasted until the end of the war. In October 1918 it proclaimed Poland's independence, and on 14 November it handed power to Piłsudski."
 ---
 
 On 12 September 1917 Emperor [Charles I](/postacie/karol-i-habsburg) signed at [Reichenau an der Rax](https://pl.wikipedia.org/wiki/Reichenau_an_der_Rax) in Lower Austria a handwritten letter to the Austro-Hungarian Governor-General in Lublin, Count [Stanisław Szeptycki](https://pl.wikipedia.org/wiki/Stanisław_Szeptycki). In it he authorised him, "in complete agreement" with Emperor [Wilhelm II](/postacie/wilhelm-ii), to issue jointly with the German Governor-General of Warsaw, [Hans Hartwig von Beseler](/postacie/hans-von-beseler), the attached patent "on state authority in the Kingdom of Poland". The act bears the same date and the signatures of both governors-general. Its first article laid down that supreme state authority in the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)), until it was assumed by a king or regent, passed to a [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna), "without prejudice to the international position of the occupying powers". The British chronology of the war records under this date that the Central Powers granted Poland a provisional constitution. In the Austro-Hungarian zone of occupation the patent was published on 15 September in the official gazette of the military authorities issued in Lublin.

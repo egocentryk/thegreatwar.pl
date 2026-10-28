@@ -2,7 +2,13 @@
 title: Second Battle of Artois begins
 summary: On 9 May 1915 the French Tenth Army attacked near Arras. Pétain's corps reached Vimy Ridge in two hours, but without reserves it could not hold it.
 source: poczatek-drugiej-bitwy-w-artois
-sourceHash: f0d0a7023fbb647f98bd64b01bd3fba05c5858cc
+sourceHash: 48602c0ab8e08167aba00aa8f4c7348a3e0358a5
+brief:
+  - "At 10 a.m. on 9 May 1915 General Victor d'Urbal's French Tenth Army attacked north of Arras towards the heights of Vimy. The Second Battle of Artois had begun."
+  - "General Ferdinand Foch planned the offensive to exploit the transfer of German divisions to the east and to help the Russians. The French artillery methodically destroyed the German trenches for six days."
+  - "The Moroccan Division of General Philippe Pétain's corps reached Hill 140, the highest point of the ridge, in less than two hours. A Polish company of Bayonne men fought in the Foreign Legion."
+  - "The reserves were too far back, and the Germans caught the forward units in crossfire. In the afternoon the French had to come down from the ridge, while on the flanks the attack failed almost at once."
+  - "The Germans quickly moved reserves to Vimy and surprise was lost. Bitter fighting for individual villages and hills began, and it was to last more than five weeks."
 ---
 
 At 10 a.m. on 9 May 1915 the French Tenth Army of General Victor d'Urbal went over to the attack north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). The objective was the heights of [Vimy](https://pl.wikipedia.org/wiki/Vimy), from which the Germans had been observing the whole area since [the autumn of 1914](/bitwy/pierwsza-bitwa-w-artois). Thus began the Second Battle of [Artois](https://pl.wikipedia.org/wiki/Artois), the largest Allied offensive in the west in the spring of 1915. On the morning of the same day, a few dozen kilometres further north, [the British attacked Aubers Ridge](/brytyjczycy-atakuja-grzbiet-aubers). The first hours brought the French a success not seen on the Western Front for months.

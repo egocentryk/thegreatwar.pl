@@ -2,7 +2,13 @@
 title: Start of the First Battle of Mount Kemmel
 summary: On 17 April 1918 the Germans attacked the Flanders hills near Kemmel and the Belgians at Merkem. British, Australians, French and Belgians beat off the attacks.
 source: poczatek-pierwszej-bitwy-o-wzgorze-kemmel
-sourceHash: e4be008837232ffa8bffaef023bbdc7d42c78608
+sourceHash: c95a5b6f45e3be8b031a232d832093cda2e7d2cf
+brief:
+  - "On 17 April 1918, the ninth day of the Battle of the Lys, the Germans attacked the range of hills with the Kemmelberg, Mont Rouge and Mont Noir, and at the same time the Belgian army north of Ypres."
+  - "The two attacks, sharing the code name \"Tannenberg\", were to squeeze the Ypres salient from two sides and force the British to abandon it."
+  - "At Merkem the Germans drove into the Belgian line, but Belgian counter-attacks had won back all the lost ground by evening. The British official historian awarded them \"the palm\" for the day."
+  - "At Kemmel, Mont Noir and Meteren the British, Australians and French beat off every attack. The Germans took only scraps of ground, such as a copse before Mont Noir or Donegal Farm."
+  - "That evening both German army commands reported that the attack could not be continued. The British official history calls 17 April a day of \"completely successful resistance\"."
 ---
 
 On 17 April 1918, the ninth day of the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918), the Germans tried to decide the fighting in Flanders with one powerful blow. From the south, General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin)'s Fourth Army and the right wing of the Sixth Army attacked the range of hills with the [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), Mont Rouge and Mont Noir, the last obstacle between the Lys plain and the roads to the Channel. At the same time, north of [Ypres](https://pl.wikipedia.org/wiki/Ieper), the Guard Corps struck at the Belgian army from Houthulst Forest. According to documents later captured from the Fourth Army, the two attacks, sharing the code name "Tannenberg", were to squeeze the Ypres salient from two sides and force the British to abandon it. By evening it was clear that they had failed all along the line.

@@ -2,7 +2,13 @@
 title: Second Battle of Champagne begins
 summary: On 25 September 1915 two French armies attacked in Champagne. They took the German first line and 14,000 prisoners, but the second position stopped the attack.
 source: poczatek-drugiej-bitwy-w-szampanii
-sourceHash: 47b3d6f15a02985f20e9ff30dab20a592d0627d7
+sourceHash: 5b5ba220606cf81953b3ce50a19c663062e10ad7
+brief:
+  - "At 9.15 a.m. on 25 September 1915, after three days of bombardment, the French infantry attacked in Champagne, east of Reims. The Second Battle of Champagne, the main part of the Allied autumn offensive, had begun."
+  - "General Joseph Joffre hoped for a breakthrough that would force the Germans out of France and relieve the Russians. General de Langle de Cary's Fourth Army and General Pétain's Second Army went into the attack."
+  - "Despite heavy rain the French broke through the first German line in four places. According to the French official history they took about 14,000 prisoners that day."
+  - "The Germans had withdrawn most of their artillery behind a second position on reverse slopes. There the attackers ran into intact wire and machine-gun fire."
+  - "Colonel Fritz von Loßberg ordered the second position held at all costs, and German reserves set off for Champagne. The breakthrough Joffre had hoped for did not come."
 ---
 
 At 9.15 a.m. on 25 September 1915, after three days of bombardment, the French infantry went over to the attack in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](https://pl.wikipedia.org/wiki/Reims). So began the Second Battle of Champagne, the main part of the great Allied autumn offensive in the west. A few hours later and about 150 kilometres further north-west [the French Tenth Army attacked](/poczatek-trzeciej-bitwy-w-artois), and earlier still that morning [the British at Loos](/poczatek-bitwy-pod-loos). The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), hoped for a breakthrough in Champagne that would force the Germans to retreat from France and relieve the Russians retreating in the east. In his order of the day of 23 September he told the soldiers that their onrush would be irresistible and would carry them at one stroke to the German batteries, beyond the enemy's fortified lines.

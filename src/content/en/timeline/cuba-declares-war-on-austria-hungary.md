@@ -2,7 +2,13 @@
 title: Cuba declares war on Austria-Hungary
 summary: On 16 December 1917 Cuba proclaimed a state of war with Austria-Hungary. President Menocal's request passed both houses of Congress in a few days.
 source: kuba-wypowiada-wojne-austro-wegrom
-sourceHash: 224669a27d7b268d3495803766d0cdf6b7370bfd
+sourceHash: 1b5038c9e9d09cca57bba4b0ee34a9e7dd4b4a3a
+brief:
+  - "On 16 December 1917 President Mario García Menocal proclaimed that a state of war existed between Cuba and Austria-Hungary. Cuba again followed Washington, nine days after the American decision."
+  - "The president's request passed both houses of Congress in a few days. A proposal to declare war on the Ottoman Empire and Bulgaria as well was rejected."
+  - "Cuba sent no troops to the front. Its contribution was sugar: on 24 December a contract was signed for the sale of 75 per cent of the 1918 crop to the United States and Britain."
+  - "Menocal wanted to send a contingent to Europe, but Washington declined, judging that what it needed from Cuba was above all sugar. No Cuban unit reached the front."
+  - "Thanks to its part in the war Cuba took its place among the victors and became a founding member of the League of Nations. Wartime sugar prices brought a brief boom, which ended in a crash at the end of 1920."
 ---
 
 On 16 December 1917 the President of [Cuba](https://pl.wikipedia.org/wiki/Kuba), [Mario García Menocal](https://pl.wikipedia.org/wiki/Mario_García_Menocal), proclaimed that a state of war existed between the Republic of Cuba and the Imperial and Royal Government of [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). Cuba, which eight months earlier, a day after the United States, had [declared war on Germany](/kuba-i-panama-wypowiadaja-wojne-niemcom), once again followed Washington. Nine days had passed since the [American decision](/usa-wypowiadaja-wojne-austro-wegrom), and six since [Panama's similar step](/panama-wypowiada-wojne-austro-wegrom).

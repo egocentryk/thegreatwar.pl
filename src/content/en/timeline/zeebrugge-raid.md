@@ -2,7 +2,13 @@
 title: Zeebrugge raid
 summary: On St George's night, 23 April 1918, the Royal Navy attacked Zeebrugge and Ostend to seal the Germans' exits from Bruges. Two blockships were sunk at Zeebrugge.
 source: rajd-na-zeebrugge
-sourceHash: 82f38dae05793deaf1a587edc954585a7727e73f
+sourceHash: dddb989868852823bedd3765a3e59529f1beacf5
+brief:
+  - "Just after midnight on 23 April 1918, St George's Day, ships of the British Dover Patrol attacked the German-occupied ports of Zeebrugge and Ostend on the Belgian coast."
+  - "Vice-Admiral Roger Keyes planned to sink old cruisers filled with concrete in the canal entrances, so that German submarines and torpedo boats could not put to sea from their base at Bruges."
+  - "At Zeebrugge the cruiser Vindictive came alongside the mole and landed a storming party, the submarine C3 blew up the viaduct, and the blockships Intrepid and Iphigenia sank in the canal. Off Ostend the blockships ran aground."
+  - "The British lost more than 600 killed, wounded and missing. The Germans dredged a channel past the wrecks, and as early as 25 April the first submarine again went out through Zeebrugge."
+  - "Coming during the fighting on the Lys, the raid caused enormous enthusiasm in Britain. Eight Victoria Crosses were awarded for that night."
 ---
 
 Just after midnight on 23 April 1918, on [St George's Day](https://pl.wikipedia.org/wiki/Dzień_Świętego_Jerzego), the feast of England's patron saint, ships of the British Dover Patrol attacked two German-occupied ports on the Belgian coast, [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) and [Ostend](https://pl.wikipedia.org/wiki/Ostenda). The aim of the [operation](https://pl.wikipedia.org/wiki/Rajd_na_Zeebrugge_i_Ostendę), planned by Vice-Admiral [Roger Keyes](/postacie/roger-keyes), was to sink old cruisers filled with concrete in the entrances to the canals, so that German submarines and torpedo boats could not put to sea from their base at [Bruges](https://pl.wikipedia.org/wiki/Brugia). At Zeebrugge the old cruiser *Vindictive* came alongside the great mole and landed a storming party, a submarine blew up the viaduct linking the mole to the shore, and two blockships sank in the canal. Off Ostend the blockships missed the harbour entrance and ran aground. Within a few hours the British lost more than 600 killed, wounded and missing. Eight [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) were awarded for that night.

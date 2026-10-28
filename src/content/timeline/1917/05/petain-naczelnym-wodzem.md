@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [Francja, Philippe Pétain, Robert Nivelle, Ferdinand Foch]
 milestone: true
 draft: false
+brief:
+  - "15 maja 1917 roku Rada Ministrów Francji odwołała generała Roberta Nivelle'a. Wodzem naczelnym armii Północy i Północnego Wschodu został generał Philippe Pétain, a szefem sztabu generalnego generał Ferdinand Foch."
+  - "Los Nivelle'a był przesądzony od chwili, gdy jego ofensywa nad Aisne nie przyniosła przełomu. Rząd zwlekał z odwołaniem, a 11 maja Nivelle odmówił podania się do dymisji."
+  - "Pétain, obrońca Verdun, miał opinię dowódcy, który nie posyła żołnierzy na śmierć bez potrzeby. W dyrektywie z 19 maja uznał przełamanie frontu „na razie” za niemożliwe i zapowiedział natarcia o ograniczonych celach."
+  - "Pétain obiecał żołnierzom regularne urlopy, lepsze jedzenie i kwatery. Bunty, które zaczęły się na początku maja, rozlały się jednak szeroko dopiero po jego nominacji."
+  - "Łącząc reformy z surowością sądów wojennych, Pétain do lata uspokoił armię. Ciężar walk na froncie zachodnim w 1917 roku przeszedł na Brytyjczyków."
 ---
 
 15 maja 1917 roku Rada Ministrów Francji odwołała generała [Roberta Nivelle'a](/postacie/robert-nivelle) ze stanowiska wodza naczelnego armii Północy i Północnego Wschodu, czyli wszystkich wojsk francuskich we Francji. Dekretem z tego dnia jego miejsce zajął generał [Philippe Pétain](/postacie/philippe-petain), od dwóch tygodni [szef sztabu generalnego](/petain-szefem-sztabu-generalnego) i doradca wojskowy rządu. Na stanowisku szefa sztabu generalnego zastąpił go generał [Ferdinand Foch](/postacie/ferdinand-foch). Miesiąc po rozpoczęciu ofensywy, która miała jednym ciosem rozstrzygnąć wojnę, armią francuską pokierował generał znany z tego, że oszczędzał życie żołnierzy. Zmiana przyszła w ostatniej chwili, bo w armii [zaczęły się już bunty](/poczatek-buntow-w-armii-francuskiej).

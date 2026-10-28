@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Rosja, Imperium Osmańskie, Kaukaz, Morze Czarne]
 milestone: true
 draft: false
+brief:
+  - "W połowie kwietnia 1916 roku rosyjska Armia Kaukaska zdobyła Trapezunt, największy port północnego wybrzeża Anatolii. Miasto nie było bronione."
+  - "14 kwietnia oddział generała Władimira Lachowa przeszedł rzekę Kara Dere i przy wsparciu pancerników Floty Czarnomorskiej przełamał ostatnią silną pozycję turecką przed Trapezuntem."
+  - "Turcy opuścili miasto w nocy z 15 na 16 kwietnia, a 18 kwietnia weszły do niego rosyjskie oddziały. Generał Nikołaj Judenicz przypłynął na niszczycielu, a Grecy witali Rosjan kwiatami."
+  - "Zdobycie Trapezuntu było drugim po Erzurum wielkim sukcesem Armii Kaukaskiej w 1916 roku. Turcy stracili najkrótszą drogę zaopatrzenia 3 Armii, a Rosjanie zyskali port i bazę floty."
 ---
 
 W połowie kwietnia 1916 roku rosyjska Armia Kaukaska zdobyła [Trapezunt](https://pl.wikipedia.org/wiki/Trabzon), dzisiejszy Trabzon, największy port północnego wybrzeża Anatolii. Miasto nie było bronione. Po przegranej bitwie nad rzeką Kara Dere tureckie wojska opuściły je w nocy z 15 na 16 kwietnia, a rosyjski nadmorski oddział generała Władimira Lachowa wszedł do niego 18 kwietnia, 5 kwietnia według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), obowiązującego wówczas w Rosji. Brytyjska chronologia wojny notuje zdobycie Trapezuntu pod 17 kwietnia. Tego dnia oddziały Lachowa stały kilkanaście kilometrów od miasta i odpoczywały po pościgu, jeszcze nie wiedząc, że droga jest wolna.

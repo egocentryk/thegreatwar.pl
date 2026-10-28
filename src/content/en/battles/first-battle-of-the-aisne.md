@@ -11,7 +11,13 @@ sides:
     commanders: [Alexander von Kluck, Karl von Bülow, Josias von Heeringen]
 result: Inconclusive. The Germans held the heights north of the Aisne and the front froze into a line of trenches. Both sides began the race to the sea.
 source: pierwsza-bitwa-nad-aisne
-sourceHash: 67e444b861e8bf8e75849313ff02450efb59bedb
+sourceHash: 975ece156ee021782fc3c0fb6597e5fc6da5e152
+brief:
+  - "The First Battle of the Aisne, fought on 12–15 September 1914 in northern France, followed directly from the Battle of the Marne. The fighting on the river, however, went on until about 28 September."
+  - "The Germans retreating from the Marne halted on a strong position on the Chemin des Dames ridge. General Joffre was convinced that the enemy was beaten and would continue to fall back."
+  - "On 13 September the British crossed the Aisne, but the German VII Reserve Corps occupied the ridge only a few hours before them. On 14 September Haig's I Corps was stopped by machine-gun fire."
+  - "On 15 September the British command ordered the troops to dig in. Within a few days shallow rifle pits had turned into deep trenches linked by communication passages."
+  - "The battle is regarded as the beginning of trench warfare on the Western Front. With frontal attacks failing, both sides tried to turn the enemy's flank, which began the race to the sea."
 ---
 
 The First Battle of the Aisne, fought in September 1914 in northern France, followed directly from the [Battle of the Marne](/bitwy/pierwsza-bitwa-nad-marna). The French and the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny), pursuing the retreating German armies, came up against an enemy on the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) who had halted on a strong position and had no intention of giving it up. Several days of attacks brought no breakthrough. Soldiers on both sides began to dig trenches, and the war of manoeuvre on the Western Front came to an end. The battle is widely regarded as the beginning of the trench warfare that lasted in the west almost until the end of the war.

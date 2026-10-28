@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Ameryka Łacińska, Niemcy, Stany Zjednoczone, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "19 lipca 1918 roku w Tegucigalpie prezydent Hondurasu Francisco Bertrand podpisał dekret numer 58, który ogłaszał stan wojny z Cesarstwem Niemieckim. Podobnie jak Haiti, Honduras nie wspomniał o Austro-Węgrzech."
+  - "Dekret powoływał się na „solidarność kontynentalną” ze Stanami Zjednoczonymi. Według Unii Panamerykańskiej Honduras był ostatnim z ośmiu państw Ameryki Łacińskiej, które wypowiedziały wojnę Niemcom."
+  - "Tegucigalpie zależało wtedy na przychylności Waszyngtonu z powodu sporu z Nikaraguą o wioskę Las Trojas. Bertrand chciał, by arbitrem był sam Wilson, choć źródła nie wiążą wprost obu spraw."
+  - "Honduras nie wysłał do Europy żołnierzy ani okrętów. Władze zarekwirowały jednak motorówki niemieckich firm w Amapali, co sparaliżowało ich handel."
+  - "Status państwa wojującego zapewnił Hondurasowi miejsce na konferencji pokojowej w Paryżu, a w czerwcu 1919 roku Policarpo Bonilla podpisał w jego imieniu traktat wersalski."
 ---
 
 19 lipca 1918 roku w [Tegucigalpie](https://pl.wikipedia.org/wiki/Tegucigalpa) prezydent [Hondurasu](https://pl.wikipedia.org/wiki/Honduras) [Francisco Bertrand](https://pl.wikipedia.org/wiki/Francisco_Bertrand) podpisał na posiedzeniu rady ministrów dekret numer 58. Jego pierwszy artykuł głosił: „Ogłasza się, że istnieje stan wojny między Republiką Honduras a rządem Cesarstwa Niemieckiego”. Drugi zapowiadał, że rząd złoży z niego sprawozdanie Kongresowi Narodowemu na najbliższej sesji. Pod dekretem obok podpisu prezydenta znalazły się podpisy wszystkich ministrów. Tego samego dnia o dziesiątej wieczorem amerykański chargé d’affaires Curtis wysłał do Waszyngtonu depeszę z pełnym tekstem, a minister spraw zagranicznych poprosił go, by przekazał rządowi Stanów Zjednoczonych „żywe uczucia serdeczności” Hondurasu i jego życzenia powodzenia sprawy, której Amerykanie bronią „w imię wolności narodów”. Czternaście miesięcy po [zerwaniu stosunków z Berlinem](/honduras-zrywa-stosunki-z-niemcami) Honduras stał się państwem wojującym.

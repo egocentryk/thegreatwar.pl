@@ -2,7 +2,13 @@
 title: US breaks off relations with Germany
 summary: On 3 February 1917 Wilson told Congress that the United States was breaking off diplomatic relations with Germany. Ambassador Bernstorff got his passports.
 source: usa-zrywaja-stosunki-z-niemcami
-sourceHash: 3d0b03507bbb69ee4077b993fe6444055e849613
+sourceHash: 5960ac3bc9fd20fbe3411446e8209e4532e96a09
+brief:
+  - "On 3 February 1917 President Woodrow Wilson announced before a joint session of Congress that the United States was breaking off diplomatic relations with Germany. Ambassador Bernstorff received his passports and Gerard was recalled."
+  - "It was the answer to Germany's announcement of unrestricted submarine warfare. Germany was thereby withdrawing the promise it had made after the Sussex note not to sink merchant ships without warning."
+  - "Wilson hesitated for a long time, wanting to avoid war, but most of the cabinet favoured a break. In his speech he insisted America did not want war, and said only \"overt acts\" by Germany would lead him to further steps."
+  - "The German leadership had counted on America swallowing the submarine campaign, and the break came as a surprise in Berlin. Europe's neutrals confined themselves to protests, while Brazil and other Latin American states responded more warmly."
+  - "The break opened the way to war: after the publication of the Zimmermann Telegram and the sinking of several American ships in March, the United States declared war on Germany on 6 April 1917."
 ---
 
 At two o'clock in the afternoon of 3 February 1917 President [Woodrow Wilson](/postacie/woodrow-wilson) stood in the chamber of the [House of Representatives](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_Stanów_Zjednoczonych) before a joint session of [Congress](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) and announced that the United States was severing all diplomatic relations with the German Empire. Three minutes earlier the State Department's counselor, Lester Woolsey, had handed Count [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff) at the German embassy a note from the Secretary of State and passports for the ambassador and his staff. The American ambassador in Berlin, James W. Gerard, was recalled. It was the answer to [Germany's announcement of unrestricted submarine warfare](/niemcy-oglaszaja-nieograniczona-wojne-podwodna), which Bernstorff had delivered in Washington three days earlier.

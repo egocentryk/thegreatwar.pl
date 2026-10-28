@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjsko-australijskie. 4 Armia przełamała ostatnią przy
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Niemcy, Wielka Brytania]
 milestone: true
+brief:
+  - "Od 3 do 5 października 1918 roku brytyjska 4 Armia gen. Henry'ego Rawlinsona walczyła o linię Beaurevoir, ostatnią pozycję Linii Hindenburga. Był to ostatni akt jej przełamania na odcinku 4 Armii."
+  - "Linia, około trzech–czterech kilometrów za główną pozycją, składała się z dwóch rzędów okopów z betonowymi stanowiskami i gęstymi zasiekami. Haig liczył, że po jej przełamaniu puści w pole Korpus Kawalerii."
+  - "3 października 4 Armia przełamała linię na całej długości, a 46 Dywizja zdobyła Ramicourt i Montbrehain. Po południu niemieckie kontrataki odebrały jej Montbrehain, a wzgórza pozostały w rękach Niemców."
+  - "5 października 2 Dywizja Australijska zdobyła Montbrehain, a por. George Ingram dostał ostatni Krzyż Wiktorii przyznany Australijczykowi na froncie zachodnim. Wieczorem Brytyjczycy weszli do Beaurevoir."
+  - "Od 29 września do 5 października 4 Armia wzięła 14 664 jeńców i wyszła na teren bez przygotowanych umocnień. Montbrehain było ostatnią bitwą australijskiej piechoty w tej wojnie."
 ---
 
 Bitwa o linię Beaurevoir była ostatnim aktem przełamania Linii Hindenburga przez brytyjską 4 Armię generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson). Po [bitwie o Kanał Saint-Quentin](/bitwy/bitwa-o-kanal-saint-quentin) przed Brytyjczykami i Australijczykami została jeszcze jedna niemiecka pozycja: linia odwodowa, którą Niemcy nazywali Hindenburg-Reserve-Stellung, a Brytyjczycy od wsi [Beaurevoir](https://pl.wikipedia.org/wiki/Beaurevoir) linią Beaurevoir. 3 października 1918 roku 4 Armia uderzyła na nią na froncie kilkunastu kilometrów i przełamała ją na całej długości, ale wzgórz za nią nie zdołała od razu utrzymać. Dopiero w ponownych natarciach 4 i 5 października padły Montbrehain i Beaurevoir. Walka o [Montbrehain](https://pl.wikipedia.org/wiki/Montbrehain) 5 października była ostatnią bitwą australijskiej piechoty w tej wojnie.

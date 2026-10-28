@@ -2,7 +2,13 @@
 title: Honduras declares war on Germany
 summary: On 19 July 1918 President Francisco Bertrand declared a state of war with Germany by decree. Honduras was the last of eight Latin American states to do so.
 source: honduras-wypowiada-wojne-niemcom
-sourceHash: 8b80dd3e638906224b917ee34ba2fa9761b0535a
+sourceHash: 0cc35825926140acbcc5b6e89247e100a04561e9
+brief:
+  - "On 19 July 1918 in Tegucigalpa the President of Honduras, Francisco Bertrand, signed decree number 58 declaring a state of war with the German Empire. Like Haiti, Honduras made no mention of Austria-Hungary."
+  - "The decree invoked \"continental solidarity\" with the United States. According to the Pan American Union, Honduras was the last of eight Latin American states to declare war on Germany."
+  - "Tegucigalpa was then anxious for Washington's goodwill because of a dispute with Nicaragua over the village of Las Trojas. Bertrand wanted Wilson himself as arbitrator, although the sources do not link the two matters directly."
+  - "Honduras sent neither soldiers nor ships to Europe. The authorities did, however, requisition the motor launches of German firms in Amapala, which paralysed their trade."
+  - "Belligerent status gave Honduras a seat at the Paris Peace Conference, and in June 1919 Policarpo Bonilla signed the Treaty of Versailles on its behalf."
 ---
 
 On 19 July 1918 in [Tegucigalpa](https://pl.wikipedia.org/wiki/Tegucigalpa) the President of [Honduras](https://pl.wikipedia.org/wiki/Honduras), [Francisco Bertrand](https://pl.wikipedia.org/wiki/Francisco_Bertrand), signed decree number 58 at a meeting of the council of ministers. Its first article stated: "It is declared that a state of war exists between the Republic of Honduras and the government of the German Empire." The second announced that the government would report on it to the National Congress at its next session. Beside the president's signature, the decree bore the signatures of all the ministers. At ten o'clock that evening the American chargé d'affaires, Curtis, sent the full text to Washington, and the foreign minister asked him to convey to the United States government the "lively feelings of cordiality" of Honduras and its wishes for the success of the cause the Americans were defending "in the name of the freedom of nations". Fourteen months after [breaking off relations with Berlin](/honduras-zrywa-stosunki-z-niemcami), Honduras became a belligerent.

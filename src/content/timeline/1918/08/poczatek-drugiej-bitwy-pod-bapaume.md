@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Wielka Brytania, Australia, Nowa Zelandia, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "31 sierpnia 1918 roku o 5 rano niewielka australijska brygada uderzyła na Mont Saint-Quentin, wzgórze panujące nad Péronne i przeprawami przez Sommę. Od tego dnia brytyjska komisja liczy drugą bitwę pod Bapaume."
+  - "Od 21 sierpnia brytyjska 3 i 4 Armia parły naprzód, a w nocy z 28 na 29 sierpnia Niemcy opuścili Bapaume. Na nowej linii przez Mont Saint-Quentin liczyli przetrwać zimę."
+  - "Gen. John Monash zamiast forsować Sommę pod Péronne przeprawił 5 Brygadę pod Cléry. Natarcie zaskoczyło Niemców i dało ponad 700 jeńców, ale kontratak zepchnął Australijczyków ze wsi."
+  - "Monash przerzucił przez rzekę kolejne brygady i wieczorem Australijczycy mieli na północnym brzegu Sommy duży przyczółek. Na froncie 3 Armii Nowozelandczycy odparli niemieckie kontrataki pod Bancourt i Frémicourt."
+  - "1 września Australijczycy zdobyli Mont Saint-Quentin i niemal całe Péronne. Po przełamaniu linii Drocourt–Quéant Niemcy postanowili wycofać się ku Linii Hindenburga."
 ---
 
 31 sierpnia 1918 roku o 5 rano niewielka australijska brygada uderzyła na Mont Saint-Quentin, wzgórze panujące nad [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)) i przeprawami przez Sommę. Dalej na północ, na wzgórzach za odzyskanym właśnie [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), dywizje brytyjskiej 3 Armii generała [Juliana Bynga](/postacie/julian-byng) odpierały niemieckie kontrataki i szykowały się do kolejnego natarcia. Od tego dnia brytyjska komisja do spraw nazewnictwa bitew liczy drugą bitwę pod Bapaume, trwającą do 3 września. Brytyjska chronologia wojny umieszcza jej początek pod 21 sierpnia, a marszałek [Douglas Haig](/postacie/douglas-haig) w swoim raporcie nazwał „bitwą pod Bapaume” całe natarcie 3 Armii od 21 sierpnia do 1 września. Komisja zaliczyła jednak walki pierwszych dni do bitwy pod Albert, a nazwę bitwy pod Bapaume zachowała dla ostatniego etapu, w którym Niemcy stracili linię Sommy.

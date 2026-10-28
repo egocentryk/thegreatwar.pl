@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Królestwo Polskie, Niemcy, Austro-Węgry, Legiony Polskie]
 milestone: true
 draft: false
+brief:
+  - "5 listopada 1916 roku w Warszawie i Lublinie generał-gubernatorzy Beseler i Kuk ogłosili manifest cesarzy Niemiec i Austro-Węgier o utworzeniu Królestwa Polskiego z ziem odebranych Rosji."
+  - "Nowe państwo nazwano „samodzielnym”, a nie niepodległym. Nie miało króla, rządu, konstytucji ani wyznaczonych granic, a władzę zachowali obaj generał-gubernatorzy."
+  - "Po ogromnych stratach 1916 roku Ludendorff domagał się zależnego od Niemiec państwa polskiego, które dałoby państwom centralnym polskiego rekruta. Austro-Węgry musiały ustąpić."
+  - "Już 9 listopada Beseler i Kuk wezwali Polaków do zaciągu ochotniczego, zanim powstał jakikolwiek polski rząd. Wywołało to oburzenie, a Piłsudski przestrzegał, że wojsko bez rządu nie ma sensu."
+  - "Akt dawał niewiele, ale sprawa polska stała się kwestią międzynarodową. Wyrosła z niego Rada Regencyjna przekazała w listopadzie 1918 roku władzę Piłsudskiemu."
 ---
 
 W niedzielę 5 listopada 1916 roku, punktualnie w południe, generał-gubernator warszawski [Hans Hartwig von Beseler](/postacie/hans-von-beseler) wszedł na podwyższenie w Sali Wielkiej [Zamku Królewskiego w Warszawie](https://pl.wikipedia.org/wiki/Zamek_Królewski_w_Warszawie) i w imieniu cesarza [Wilhelma II](/postacie/wilhelm-ii) odczytał po niemiecku manifest dwóch monarchów. W tym samym czasie w [Lublinie](https://pl.wikipedia.org/wiki/Lublin) austro-węgierski generał-gubernator [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk) ogłosił ten sam tekst w imieniu cesarza [Franciszka Józefa I](/postacie/franciszek-jozef-i). Niemcy i Austro-Węgry zapowiadały, że z ziem [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), odebranych Rosji przez ich armie, utworzą „państwo samodzielne z dziedziczną monarchią i konstytucyjnym ustrojem”. Po raz pierwszy od rozbiorów wielkie mocarstwa oficjalnie obiecały Polakom własne państwo. Dokument przeszedł do historii jako akt 5 listopada.

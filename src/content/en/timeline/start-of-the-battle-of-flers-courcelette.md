@@ -2,7 +2,13 @@
 title: Start of the Battle of Flers-Courcelette
 summary: On 15 September 1916 tanks went into battle for the first time, on the Somme. The British took Flers, Martinpuich and High Wood; the Canadians took Courcelette.
 source: poczatek-bitwy-pod-flers-courcelette
-sourceHash: 8f4a1f0ca0234d6a491648b7edb360fc55723f7a
+sourceHash: 7f150ed936cee0ea5ae5aa72f513793c6f411d3a
+brief:
+  - "At 6.20 a.m. on 15 September 1916 the British Fourth Army and the right wing of the Reserve Army attacked on the Somme on a front of about ten kilometres. Tanks went into battle for the first time in history."
+  - "Of the 42 tanks allotted to the Fourth Army, 30 reached their places. Many stuck or lost their way, but at Flers a tank drove up the main street of the village, followed by cheering soldiers."
+  - "The 41st Division took Flers, the New Zealanders the Switch Line and the 47th Division, after hard fighting, High Wood. At Ginchy the Guards suffered heavy losses, and Raymond Asquith, the Prime Minister's son, was killed there."
+  - "In the evening the 22nd Battalion of French-speaking Canadians and the 25th Battalion from Nova Scotia took Courcelette, and the 15th (Scottish) Division took Martinpuich."
+  - "There was no breakthrough and the cavalry did not move, but no day of the offensive had won the British so much ground. The dispute over whether the tanks' secret had been squandered on too few machines lasted for decades."
 ---
 
 At 6.20 a.m. on 15 September 1916 the British Fourth Army and the right wing of the Reserve Army attacked on the Somme on a front of about ten kilometres, from the ravine near Combles to the Albert–Bapaume road. It was the strongest British attack since the [first day of the battle](/pierwszy-dzien-bitwy-nad-somma), 1 July, and the first in history in which tanks took part. Several dozen steel machines, whose existence most British soldiers knew nothing about, let alone the Germans, crawled out of the morning mist ahead of the advancing infantry. By evening the British had taken High Wood and the villages of [Flers](https://pl.wikipedia.org/wiki/Flers_(Somma)) and [Martinpuich](https://pl.wikipedia.org/wiki/Martinpuich), and the Canadians [Courcelette](https://pl.wikipedia.org/wiki/Courcelette). The breakthrough that General [Douglas Haig](/postacie/douglas-haig) had hoped for did not come, but no day since the start of the offensive had won the British so much ground. What stayed in memory above all was a single sentence: about a tank driving up the main street of Flers with cheering soldiers behind it.

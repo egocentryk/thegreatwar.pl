@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych, osiągnięte powoli i dużym kosztem. Franc
 authors: [Natalia]
 tags: [Francja, Niemcy, Brytyjski Korpus Ekspedycyjny, Ferdinand Foch]
 milestone: true
+brief:
+  - "Bitwa w Soissonnais i nad Ourcq to brytyjska nazwa walk szkockiej 15 i 34 Dywizji w 10 Armii Mangina na południe od Soissons od 23 lipca do 2 sierpnia 1918 roku."
+  - "Po uderzeniu Mangina 18 lipca natarcie na zachodnie skrzydło niemieckiego występu nad Marną szybko hamowało. Dwie dywizje brytyjskie zluzowały 23 lipca amerykańską 1 i francuską 38 Dywizję i od razu poszły do ataku."
+  - "Wielkich zdobyczy nie było: Szkoci 28 lipca na krótko zdobyli Buzancy, a 34 Dywizja 1 sierpnia wzgórza pod Beugneux. Obie dywizje straciły razem ponad 4 tysiące i prawie 2,5 tysiąca ludzi."
+  - "Stały nacisk na całym obwodzie występu sprawił, że w nocy z 1 na 2 sierpnia Niemcy zaczęli odwrót za Vesle i Aisne, a 2 sierpnia opuścili Soissons."
+  - "Bitwa zakończyła usuwanie występu nad Marną, a Ludendorff stracił inicjatywę na froncie zachodnim. Kolejny cios Foch zadał 8 sierpnia pod Amiens."
 ---
 
 Bitwa w Soissonnais i nad Ourcq to nazwa, pod którą brytyjska historiografia zna udział dwóch dywizji brytyjskich, szkockiej 15 i 34, w drugiej fazie kontrofensywy nad Marną latem 1918 roku. 18 lipca generał [Charles Mangin](/postacie/charles-mangin) [uderzył spod lasu Villers-Cotterêts](/kontrofensywa-mangina) na zachodnie skrzydło głębokiego występu, który Niemcy wbili w maju między [Soissons](https://pl.wikipedia.org/wiki/Soissons) a Reims. Pierwszy impet szybko się wyczerpał, a Niemcy wzmocnili skrzydła występu świeżymi dywizjami i artylerią. Mangin ściągnął więc do swojej 10 Armii nowe siły, wśród nich dwie dywizje brytyjskie, które 23 lipca, prosto z marszu, zluzowały wykrwawioną amerykańską 1 Dywizję i francuską 38 Dywizję i od razu poszły do natarcia. Przez następne dziesięć dni walczyły na płaskowyżach na południe od Soissons, w kraju poprzecinanym wąwozami, lasami i polami niezżętego zboża, bez okopów i z mapami w skali 1:80 000. Wielkich zdobyczy terenu nie było. Szkoci na krótko zdobyli 28 lipca wieś Buzancy, a 34 Dywizja 1 sierpnia wzgórza pod Beugneux. Stały nacisk Francuzów, Brytyjczyków i Amerykanów na całym obwodzie występu sprawił jednak, że Niemcy w nocy z 1 na 2 sierpnia zaczęli wielki odwrót za rzeki [Vesle](https://pl.wikipedia.org/wiki/Vesle) i Aisne, a 2 sierpnia po południu opuścili Soissons.

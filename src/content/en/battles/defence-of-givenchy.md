@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: Inconclusive. The Germans broke through the Indian Corps' line, but counter-attacks retook Givenchy and most of the trenches. In front of Festubert some ground remained in German hands.
 source: obrona-givenchy
-sourceHash: 44fed7df0619ef940a219efb9fbf169f2954cf54
+sourceHash: dcf116a37e695d50bad75c68012b8118eced5998
+brief:
+  - "The Defence of Givenchy, fought on 20–21 December 1914 in French Flanders, was the heaviest battle of the Indian Corps in the first winter of the war and the last major battle on the British front in 1914."
+  - "General James Willcocks's exhausted corps had spent two months in flooded trenches, without winter clothing or grenades. The German blow was preceded by unsuccessful local attacks on 16–19 December."
+  - "On 20 December the Germans blew ten mines under the Sirhind Brigade's trenches and attacked with grenades. They took Givenchy and broke in as far as Festubert, and the Manchesters twice fought for the village."
+  - "The situation was brought under control only by fresh brigades of the British 1st Division of I Corps, which retook Givenchy on the evening of 21 December. On 22 December Haig took over the whole sector from Willcocks."
+  - "The Germans dented the British line but did not break the front. The battle ended the Indian Corps' first period in France and showed the weight of mines, grenades and trench mortars."
 ---
 
 The Defence of Givenchy was the heaviest battle fought by the Indian Corps in the first winter of the war. On 20 December 1914, after several days of unsuccessful British and Indian attacks, the Germans struck along the whole front of the corps between the La Bassée canal and Neuve-Chapelle. They blew a series of mines under the trenches and then attacked with infantry armed with hand grenades. They took the village of [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée) and broke into the line several hundred metres deep, as far as [Festubert](https://pl.wikipedia.org/wiki/Festubert). For two days and nights exhausted Indian and British battalions, supported by French territorials, held on in successive lines, and the Manchesters twice fought for the village itself. The situation was brought under control only by fresh brigades of the British I Corps, after which the Indian Corps was relieved and sent to rest.

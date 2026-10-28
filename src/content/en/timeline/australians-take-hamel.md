@@ -2,7 +2,13 @@
 title: Australians take Hamel
 summary: At 3.10 a.m. on 4 July 1918 Australians with Mark V tanks and Americans attacked Hamel on the Somme. In about 90 minutes they took the village, woods and ridge.
 source: australijczycy-zdobywaja-hamel
-sourceHash: 7f005eea2dd2b1ba8bc92d6fcf552122a0814ac3
+sourceHash: 6805b854b97fbe80f54dfc2a1431e11f42d88b14
+brief:
+  - "At 3.10 a.m. on 4 July 1918 ten battalions of General John Monash's Australian Corps, four companies of the American 33rd Division and sixty Mark V tanks advanced on Hamel on the Somme, about 20 kilometres east of Amiens."
+  - "The day before, General Pershing ordered the American companies withdrawn because they had not finished their training. Six were withdrawn, but Field Marshal Haig decided that the attack was to go ahead as planned."
+  - "Night bombers drowned out the noise of the tanks, and an accurate barrage and smokescreens took the Germans by surprise. The fiercest fighting was at Pear Trench, where Private Henry Dalziel won the Victoria Cross."
+  - "By about 4.45 a.m. the whole objective line was in Allied hands. Monash wrote that \"the whole thing was over in 93 minutes\", and tanks and aircraft brought ammunition and supplies up to the captured line."
+  - "The Australians took the ridge behind Hamel and more than 1,600 prisoners in all. It was the first attack by Americans alongside Australians, and it served as the model for the attack at Amiens."
 ---
 
 On 4 July 1918, American Independence Day, at 3.10 a.m., ten battalions of General [John Monash](/postacie/john-monash)'s Australian Corps, four companies of the American 33rd Division and sixty British [Mark V](https://pl.wikipedia.org/wiki/Mark_V) tanks advanced behind a creeping barrage against the German positions at the village of [Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)) on the south bank of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)), about 20 kilometres east of Amiens. By about 4.45 a.m. the whole objective line, from the Somme to the Roman road near Villers-Bretonneux, was in Allied hands. Monash later wrote that "the whole thing was over in 93 minutes" and that no battle he knew of, "not even Messines", had gone so smoothly and so exactly to timetable. By evening some 1,500 Germans had been taken prisoner. According to the Australian official historian Charles Bean, it was the most successful Allied attack since the start of the great German offensive in March, and also the first time that American soldiers had attacked shoulder to shoulder with Australians.

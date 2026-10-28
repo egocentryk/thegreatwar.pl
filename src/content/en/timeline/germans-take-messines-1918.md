@@ -2,7 +2,13 @@
 title: Germans take Messines
 summary: On 10 April 1918 the German 4th Army attacked in fog north of Armentières and took Messines. In the evening the South Africans briefly retook the village.
 source: niemcy-zdobywaja-messines-1918
-sourceHash: 29ebb783dd88b0ea43ce8127ddab73971c80400c
+sourceHash: f739f1cfce8531edb887088c698c4594536ec485
+brief:
+  - "On 10 April 1918 General Friedrich Sixt von Armin's German 4th Army attacked in fog north of Armentières, the day after the 6th Army had broken through the Portuguese front."
+  - "The British IX Corps was weak: its three divisions had lost more than half their men on the Somme in March, and their replacements were mainly nineteen-year-olds."
+  - "The Germans crossed the Lys, took Ploegsteert and most of Ploegsteert Wood, and the 17th Reserve Division captured Messines, the small town on the ridge south of Ypres."
+  - "In the evening the South African Brigade, about 1,300 men, counter-attacked and briefly passed through the ruins of Messines, but had to fall back to a line just west of the town."
+  - "During the night the British retook Wytschaete and restored a continuous, if thin, line, but Messines, Ploegsteert Wood and most of the ridge stayed in German hands."
 ---
 
 On 10 April 1918 the German offensive in Flanders spread to a new sector. The day before, General Ferdinand von Quast's 6th Army had [broken through the Portuguese front](/poczatek-bitwy-nad-lys) south of [Armentières](https://pl.wikipedia.org/wiki/Armentières) and reached the river [Lys](https://pl.wikipedia.org/wiki/Leie). Now, north of the town, the [4th Army](https://pl.wikipedia.org/wiki/4_Armia_(Cesarstwo_Niemieckie)) of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin) went into action. In the morning fog its divisions crossed the Lys, took Ploegsteert and most of Ploegsteert Wood and captured [Messines](https://pl.wikipedia.org/wiki/Mesen), the small town on the ridge south of [Ypres](https://pl.wikipedia.org/wiki/Ieper). The Germans had [first taken it](/niemcy-zdobywaja-messines) on 1 November 1914. Less than a year before the April attack, on 7 June 1917, the British had [recaptured the ridge](/poczatek-bitwy-pod-messines-1917) after exploding nineteen great mines. By evening the British IX Corps had stopped the Germans on the western slopes, and the South African Brigade, counter-attacking, briefly passed through the ruins of Messines.

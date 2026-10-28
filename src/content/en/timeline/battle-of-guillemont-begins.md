@@ -2,7 +2,13 @@
 title: Battle of Guillemont begins
 summary: On 3 September 1916 British and Irish troops took Guillemont on the Somme in under three hours, after it had been fought for in vain since late July.
 source: poczatek-bitwy-pod-guillemont
-sourceHash: a974a5c09d02a7d83d7b223b33850444f2c62694
+sourceHash: 8d4dafee5db04cd1dd29d2431913f184698f3702
+brief:
+  - "On Sunday 3 September 1916 the British Fourth Army and the French Sixth Army attacked together on the Somme. The main British objective was the ruined village of Guillemont."
+  - "From 23 July the British had attacked Guillemont many times in vain, as the defenders sat out bombardments in deep dugouts. Haig wanted it taken before a great offensive with tanks."
+  - "At noon the 20th (Light) Division and the Irish 47th Brigade of the 16th Division set off. They advanced close behind the barrage, and before 3.30 p.m. Guillemont was in British hands."
+  - "Elsewhere the day failed: the attack on Falfemont Farm ended in failure and the 7th Division was driven out of Ginchy. The price was high: the 59th Brigade lost nearly 1,400 men and the 47th more than a thousand."
+  - "The capture of Guillemont and the breaking of the second position south of it were the only British successes on the Somme that Sunday. The village that had blocked their right wing all summer had fallen."
 ---
 
 On Sunday 3 September 1916 the British Fourth Army and the French Sixth Army attacked together on the front from [Delville Wood](/bitwy/bitwa-o-las-delville) to the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). The main British objective was the ruined village of [Guillemont](https://pl.wikipedia.org/wiki/Guillemont) on the right wing of their front on the Somme. For more than five weeks of the [Battle of the Somme](/bitwy/bitwa-nad-somma) one division after another had broken into it and perished in its rubble. This time the 20th (Light) Division and the Irish 47th Brigade of the 16th Division set off at noon. Less than three hours later they were already beyond the village. That same day, however, the attack on the neighbouring Falfemont Farm ended in failure, and the 7th Division, which had broken into [Ginchy](https://pl.wikipedia.org/wiki/Ginchy), was driven out of it. The capture of Guillemont and the breaking of the second position south of the village were the only British successes on the Somme that Sunday.

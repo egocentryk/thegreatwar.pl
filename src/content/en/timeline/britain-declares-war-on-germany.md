@@ -2,7 +2,12 @@
 title: Britain declares war on Germany
 summary: At 11 p.m. London time on 4 August 1914 the ultimatum expired. Britain and its whole empire found themselves at war with Germany.
 source: wielka-brytania-wypowiada-wojne-niemcom
-sourceHash: e71b89aab8e5a6938bd8f279f0612c1ad0543af0
+sourceHash: 91871c6e65ae49fbb6a4b00e4cc5da8d31aefd70
+brief:
+  - "At 11 p.m. London time on 4 August 1914 the British ultimatum expired. Berlin had given no assurance that it would respect Belgian neutrality, and Great Britain was at war with Germany."
+  - "The immediate cause was Belgium, whose neutrality Britain had guaranteed since 1839. Sir Edward Grey and most of the cabinet also feared German domination of the Continent and the threat from its fleet."
+  - "The whole British Empire entered the war, including Canada, Australia, New Zealand, South Africa and British India. The fleet was already at its war stations, with Admiral John Jellicoe taking command of the Grand Fleet."
+  - "With Britain and its empire in the war, the conflict took on a global dimension. Most people expected it to be over by Christmas, but it lasted more than four years."
 ---
 
 On 4 August 1914 at 11 p.m. London time, that is midnight in Berlin, the British ultimatum to Germany expired. Berlin had given no assurance that it would respect Belgian neutrality, and its troops had been advancing into Belgian territory since the morning. From that moment [Great Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) was at war with [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie).

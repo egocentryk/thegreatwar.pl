@@ -2,7 +2,13 @@
 title: Outbreak of the Easter Rising
 summary: On 24 April 1916 the Irish Volunteers and the Citizen Army seized central Dublin. Patrick Pearse read the proclamation of the Irish Republic at the GPO.
 source: wybuch-powstania-wielkanocnego
-sourceHash: ee86a3965d1fed7dcda341bba3ed84f320fda0a5
+sourceHash: 4e466f009193276c7e5060601cda4169338a08a3
+brief:
+  - "On 24 April 1916, Easter Monday, Irish nationalists seized a dozen or so buildings in the centre of Dublin. Outside the General Post Office Patrick Pearse read the proclamation of the Irish Republic."
+  - "The rising was prepared by the secret Military Council of the Irish Republican Brotherhood, counting on German help. The interception of the Aud and MacNeill's countermanding order meant only about 1,200 people turned out."
+  - "The insurgents occupied a ring of buildings around the centre, including the Four Courts, Jacob's factory and St Stephen's Green. They failed, however, to take Dublin Castle, the telephone exchange or Trinity College."
+  - "The British were taken completely by surprise, but quickly brought in reinforcements from the Curragh and gained an overwhelming superiority. On 29 April Pearse agreed to unconditional surrender."
+  - "According to the Glasnevin Trust at least 485 people died. The execution of fourteen leaders turned opinion in Ireland, and within a few years the rising became a symbol of the struggle for independence."
 ---
 
 On 24 April 1916, [Easter Monday](https://pl.wikipedia.org/wiki/Poniedziałek_Wielkanocny), at about noon, armed units of Irish nationalists seized a dozen or so buildings in the centre of [Dublin](https://pl.wikipedia.org/wiki/Dublin), among them the General Post Office in Sackville Street. Outside the Post Office [Patrick Pearse](https://pl.wikipedia.org/wiki/Patrick_Pearse) read the proclamation of the Irish Republic. So began the [Easter Rising](https://pl.wikipedia.org/wiki/Powstanie_wielkanocne), the largest armed rising in [Ireland](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)) since 1798, directed against British rule at a time when the [United Kingdom](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) was at war with Germany.

@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Brytyjczycy zdobyli drugą pozycję niemiecką n
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Bazentin, stoczona nad Sommą 14–17 lipca 1916 roku, była drugim wielkim natarciem brytyjskim tej bitwy. Celem była druga niemiecka pozycja na grzbiecie od Longueval po Bazentin-le-Petit."
+  - "Gen. Henry Rawlinson zaatakował inaczej niż 1 lipca: ponad 22 tysiące żołnierzy przeszło nocą przez ziemię niczyją, a o 3.25 nad ranem 14 lipca, po pięciu minutach huraganowego ostrzału, ruszyło do szturmu."
+  - "Haig uważał nocne podejście za zbyt ryzykowne, a Francuzi za szaleństwo, ale Rawlinson i dowódcy korpusów i dywizji obstawali przy swoim planie. Zaskoczenie Niemców było prawie zupełne."
+  - "W kilka godzin Brytyjczycy zajęli oba Bazentin, połowę Longueval i stanęli na grzbiecie, a wieczorem do ataku ruszyła kawaleria. Do 17 lipca Niemcy ściągnęli posiłki i utrzymali High Wood oraz północną część Longueval."
+  - "Świtowy szturm był jednym z najbardziej udanych natarć brytyjskich 1916 roku i pokazał, że armia potrafi się uczyć. Był też straconą szansą: High Wood Brytyjczycy zdobyli dopiero 15 września."
 ---
 
 Bitwa o grzbiet Bazentin była drugim wielkim natarciem brytyjskim w [bitwie nad Sommą](/bitwy/bitwa-nad-somma). Dwa tygodnie po katastrofie [pierwszego dnia](/pierwszy-dzien-bitwy-nad-somma) generał [Henry Rawlinson](/postacie/henry-rawlinson), dowódca 4 Armii, uderzył na drugą niemiecką pozycję obronną, biegnącą grzbietem od Longueval po Bazentin-le-Petit. Zrobił to zupełnie inaczej niż 1 lipca: ponad 22 tysiące żołnierzy sześciu brygad przeszło nocą przez ziemię niczyją i ustawiło się kilkaset metrów od niemieckich okopów, a o 3.25 nad ranem 14 lipca, po zaledwie pięciu minutach huraganowego ostrzału, ruszyło do szturmu. W ciągu kilku godzin Brytyjczycy zajęli oba Bazentin, połowę Longueval i stanęli na szczycie grzbietu. Wieczorem do ataku ruszyła nawet kawaleria, po raz pierwszy od miesięcy na froncie zachodnim. Sukcesu nie udało się jednak rozwinąć. Do 17 lipca Niemcy ściągnęli posiłki, utrzymali las High Wood i północną część Longueval, a front znów stanął.

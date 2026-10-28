@@ -2,7 +2,13 @@
 title: Start of the Battle of the Ancre Heights
 summary: On 1 October 1916 the Canadians attacked Regina Trench beyond the Thiepval ridge on the Somme. Uncut wire and German marines repelled almost the whole assault.
 source: poczatek-bitwy-o-wzgorza-nad-ancre
-sourceHash: 6cf601486da37a12117da122d92222f8e9b1f7ce
+sourceHash: 3abccc8499b4b47b87bf7d3deed3dc5429c0b333
+brief:
+  - "On 1 October 1916 at 3.15 p.m. General Julian Byng's Canadian Corps attacked Regina Trench, the last German line on the northern slope of the Thiepval ridge on the Somme."
+  - "This attack opened the Battle of the Ancre Heights. Regina Trench was to be the starting line for a great October offensive in which the Reserve Army hoped to cut off the Germans in the Ancre valley."
+  - "The trench lay beyond the crest and British artillery had difficulty hitting it, and the wire was almost untouched. It was held by the fresh German Marine Infantry Brigade, just arrived in the line."
+  - "The exhausted Canadian battalions ran into machine-gun fire, and the marines drove out with counter-attacks those who had broken into Regina Trench. The Canadians held only Kenora Trench."
+  - "The 5th Canadian Brigade went from 1,717 to 773 men. Then the weather broke, and Regina Trench was fought over for another six weeks."
 ---
 
 On 1 October 1916 at 3.15 p.m. the Canadian Corps of General [Julian Byng](/postacie/julian-byng) attacked Regina Trench, the last German line on the northern slope of the Thiepval ridge on the Somme. In British nomenclature this attack opens the Battle of the Ancre Heights, in which the Reserve Army of General [Hubert Gough](/postacie/hubert-gough) fought for six weeks for the rest of the ridge. The first day ended in failure. The wire in front of the trench was almost untouched, and the fresh German Marine Infantry Brigade drove out with counter-attacks almost all those who had broken into the trench. To the west, meanwhile, in the ruins of the Schwaben and Stuff redoubts above the valley of the [Ancre](https://pl.wikipedia.org/wiki/Ancre), ceaseless bombing fights went on.

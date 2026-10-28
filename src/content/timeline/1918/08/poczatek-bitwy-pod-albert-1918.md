@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, czołgi]
 milestone: true
 draft: false
+brief:
+  - "21 sierpnia 1918 roku o 4.55 brytyjska 3 Armia gen. Juliana Bynga ruszyła do natarcia na froncie około 14 km, od Miraumont nad Ancre po Moyenneville, bez wcześniejszego ostrzału i z ponad setką czołgów."
+  - "Po utknięciu natarcia pod Amiens Haig przekonał Focha, by przenieść ofensywę na północ od Sommy, na front 3 Armii, gdzie teren był dobry dla czołgów, a Niemcy nie spodziewali się ataku."
+  - "Gęsta mgła pomagała piechocie, bo niemieccy karabinierzy maszynowi strzelali na ślepo, ale wiele czołgów zgubiło drogę. Do południa Brytyjczycy zajęli Bucquoy, Puisieux, Achiet-le-Petit, Courcelles i Moyenneville."
+  - "Gdy mgła opadła, natarcie stanęło pod nasypem kolei z Albert do Arras, na którym Niemcy mieli główną linię oporu. Według depeszy Haiga 3 Armia wzięła ponad 2 tysiące jeńców."
+  - "Niemcy uznali dzień za swoje zwycięstwo, ale ich kontrnatarcie 22 sierpnia zostało wszędzie odparte. Tego dnia do walki weszła 4 Armia, a 23 sierpnia natarcie objęło cały front od Sommy po Arras."
 ---
 
 21 sierpnia 1918 roku o 4.55 rano brytyjska 3 Armia generała [Juliana Bynga](/postacie/julian-byng) ruszyła do natarcia na froncie długości około 14 km, od Miraumont nad rzeką [Ancre](https://pl.wikipedia.org/wiki/Ancre) po Moyenneville na południe od Arras. Dwa jej korpusy, IV i VI, szły za zaporą ogniową, bez wcześniejszego ostrzału, z ponad setką czołgów, w mgle tak gęstej, że według niektórych relacji widać było ledwie na kilka metrów. Do południa zdobyły wysuniętą strefę niemieckiej obrony, zajęły [Bucquoy](https://pl.wikipedia.org/wiki/Bucquoy), [Puisieux](https://pl.wikipedia.org/wiki/Puisieux_(Pas-de-Calais)), [Achiet-le-Petit](https://pl.wikipedia.org/wiki/Achiet-le-Petit), Courcelles i Moyenneville i podeszły pod nasyp linii kolejowej z Albert do Arras, na którym Niemcy mieli główną linię oporu. Tam, gdy mgła opadła, natarcie stanęło. Był to pierwszy dzień bitwy pod Albert i początek drugiego wielkiego uderzenia brytyjskiego po [zwycięstwie pod Amiens](/poczatek-bitwy-pod-amiens) 8 sierpnia.

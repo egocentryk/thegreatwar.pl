@@ -2,7 +2,12 @@
 title: Declaration of the Regency Council
 summary: "On 7 October 1918 the Regency Council's proclamation \"To the Polish Nation\" declared the aim of an independent Poland and dissolved the Council of State."
 source: deklaracja-rady-regencyjnej
-sourceHash: 1353bdecefd18eb8123b8297bf14a027d07200eb
+sourceHash: fcbaea969d648850cebf4fa02314fb19aca11134
+brief:
+  - "On 7 October 1918 in Warsaw the Regency Council issued the proclamation \"To the Polish Nation\", announcing an independent state comprising all Polish lands, with access to the sea."
+  - "The proclamation responded to the German and Austro-Hungarian requests for an armistice based on Wilson's Fourteen Points. Since the occupiers had accepted those principles, the regents could invoke them."
+  - "The regents dissolved the Council of State and announced a government of all classes, a democratic electoral law and a Sejm into whose hands they would lay down power. Soon they also took over authority over the army."
+  - "The proclamation did not win the regents markedly greater support, but it was a turning point: for the first time since the partitions an authority on Polish soil publicly declared full independence and unification its aim."
 ---
 
 On 7 October 1918 in Warsaw the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) of the Kingdom of Poland issued the [proclamation "To the Polish Nation"](https://pl.wikipedia.org/wiki/Deklaracja_niepodległości_Królestwa_Polskiego_(1918)). It was published the same day in a special supplement of the *Monitor Polski*, the Kingdom's official gazette. The regents, Archbishop [Aleksander Kakowski](/postacie/aleksander-kakowski), [Józef Ostrowski](https://pl.wikipedia.org/wiki/Józef_Ostrowski_(regent)) and Prince [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski), declared that they based themselves on the peace principles of the President of the United States, which in respect of Poland led "to the creation of an independent state comprising all Polish lands, with access to the sea". They announced a government made up of representatives of all classes and political tendencies, a democratic electoral law and the convening of a Sejm, into whose hands they would lay down their authority. A body created a year earlier by Berlin and Vienna spoke for the first time in the name of an independent Poland, without asking the consent of the occupying powers.

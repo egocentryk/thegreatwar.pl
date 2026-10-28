@@ -15,6 +15,12 @@ result: Francuska porażka strategiczna. Przełamania nie było. Francuzi zdobyl
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Robert Nivelle, czołgi]
 milestone: true
+brief:
+  - "Druga bitwa nad Aisne, toczona od 16 kwietnia do 9 maja 1917 roku, była głównym uderzeniem ofensywy Nivelle'a na grzbiet Chemin des Dames i równinę na północ od Reims."
+  - "Generał Robert Nivelle obiecywał przełamanie niemieckiego frontu w ciągu 24, najwyżej 48 godzin. Dowódcy i minister Painlevé mieli wątpliwości, a Niemcy dobrze wiedzieli, co się szykuje."
+  - "16 kwietnia ocalałe niemieckie karabiny maszynowe kosiły francuską piechotę, a do wieczora zdobyła ona w większości miejsc tylko pierwsze linie okopów. Po raz pierwszy w armii francuskiej do boju weszły czołgi."
+  - "W kolejnych tygodniach Francuzi zdobyli znaczną część grzbietu, wzięli wielu jeńców i zajęli Craonne, ale przełamania nie było. Według brytyjskiej historii oficjalnej do 25 kwietnia stracili 96 125 ludzi."
+  - "Rozczarowanie zniweczyło zdobycze: 15 maja Nivelle'a zastąpił Pétain, a przez armię przetoczyła się fala buntów. Ciężar walk na froncie zachodnim przeszedł na Brytyjczyków."
 ---
 
 Druga bitwa nad Aisne była głównym uderzeniem wielkiej wiosennej [ofensywy Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a), na którą Francja postawiła w 1917 roku wszystko. Generał [Robert Nivelle](/postacie/robert-nivelle), [od grudnia 1916 roku](/nivelle-naczelnym-wodzem) wódz naczelny armii francuskich, obiecywał rządowi i sojusznikom, że gwałtownym ciosem przełamie niemiecki front w ciągu 24, najwyżej 48 godzin, a potem wyjdzie na otwartą przestrzeń i rozbije niemieckie odwody. 16 kwietnia 1917 roku o szóstej rano piechota trzech francuskich armii ruszyła do natarcia na grzbiet Chemin des Dames nad [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) i na równinę na północ od [Reims](https://pl.wikipedia.org/wiki/Reims). Pierwszego dnia miała przejść niemieckie pozycje i zejść w dolinę [Ailette](https://pl.wikipedia.org/wiki/Ailette), a wkrótce potem zająć [Laon](https://pl.wikipedia.org/wiki/Laon). Do wieczora w większości miejsc zdobyła tylko pierwsze linie okopów. Bitwa trwała jeszcze ponad trzy tygodnie i przyniosła Francuzom znaczne zdobycze terenowe, ale obietnica przełomu legła w gruzach, a razem z nią zaufanie żołnierzy do dowództwa.

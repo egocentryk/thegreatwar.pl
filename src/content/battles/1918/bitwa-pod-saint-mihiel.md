@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. W ciągu dwóch dni Amerykanie i Francuzi z
 authors: [Łukasz Skowroń]
 tags: [Stany Zjednoczone, John Pershing, Niemcy, Francja]
 milestone: true
+brief:
+  - "12 września 1918 roku amerykańska 1 Armia generała Johna Pershinga, z francuskim II Korpusem Kolonialnym w swoim składzie, uderzyła na niemiecki występ Saint-Mihiel na południowy wschód od Verdun."
+  - "Niemcy trzymali występ od 1914 roku. Przecinał on linię kolejową z Verdun do Toul i Nancy, a im samym osłaniał Metz i zagłębie rudy żelaza wokół Briey."
+  - "Natarcie zaskoczyło Niemców w chwili, gdy zaczynali opuszczać występ. Rankiem 13 września oddziały 26 i 1 Dywizji spotkały się pod Vigneulles i zamknęły worek."
+  - "Według raportu Pershinga Amerykanie wzięli prawie 16 tysięcy jeńców i 443 działa. Francja odzyskała ponad 500 km² terytorium, a nowy front był o około 35 kilometrów krótszy."
+  - "Bitwa dowiodła, że Amerykańskie Siły Ekspedycyjne potrafią prowadzić duże natarcie własnymi sztabami. Zaraz potem 1 Armia ruszyła do ofensywy między Mozą a Argonnami."
 ---
 
 Bitwa pod Saint-Mihiel była pierwszą wielką operacją przeprowadzoną przez samodzielną armię amerykańską pod rozkazami amerykańskiego naczelnego wodza. 12 września 1918 roku 1 Armia generała [Johna Pershinga](/postacie/john-pershing), z francuskim II Korpusem Kolonialnym w swoim składzie, uderzyła na niemiecki występ frontu wokół miasteczka [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) nad [Mozą](https://pl.wikipedia.org/wiki/Moza), który od czterech lat wcinał się w linie francuskie na południowy wschód od Verdun. Natarcie zaskoczyło Niemców w chwili, gdy zaczynali opuszczać występ. Rankiem 13 września oddziały nacierające z południa i z zachodu spotkały się pod [Vigneulles](https://pl.wikipedia.org/wiki/Vigneulles-lès-Hattonchâtel), zamykając w worku tych obrońców, którzy nie zdążyli się wycofać. Do 16 września sprzymierzeni umocnili się na nowej, znacznie krótszej linii przed niemiecką pozycją Michel. Bitwa nie była tak krwawa jak wcześniejsze walki Amerykanów nad Marną, ale miała ogromne znaczenie: dowiodła, że [Amerykańskie Siły Ekspedycyjne](https://pl.wikipedia.org/wiki/Amerykański_Korpus_Ekspedycyjny) potrafią prowadzić duże natarcie własnymi sztabami.

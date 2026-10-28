@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Ferdinand von Quast, Richard von Kraewel, Karl Dieffenbach]
 result: British victory. The Germans took only part of the ruins of Givenchy, a few trenches and craters and one redoubt at Festubert. The attack on the canal line and Béthune broke down with heavy losses.
 source: bitwa-pod-bethune
-sourceHash: fd741e056fd76abc0b17fdce4dc6155c4ae3dc06
+sourceHash: 0e6e49aa2d5af9970d22789549277caf68dc6654
+brief:
+  - "On 18 April 1918, after a seven-hour bombardment heavy with gas shell, six divisions of the German 6th Army attacked the front from Givenchy to Robecq. It was the last attempt to break the British southern flank on the Lys."
+  - "Behind the La Bassée Canal lay Béthune, an important railway junction and the gateway to the last part of the Pas-de-Calais coalfield in French hands. The Germans wanted to secure the left flank of their wedge."
+  - "At Givenchy the Germans burst into the Black Watch trenches, but the redoubts held and machine guns across the canal raked their flank. By 11 a.m. the attack had stalled, and at Festubert counter-attacks cleared the village."
+  - "On the La Bassée Canal the attempts to cross broke down under fire, and 115 Germans surrendered under the embankment. By evening the Germans held only scraps of the ground taken in the morning."
+  - "The battle ended the German attempts to widen the wedge southwards: Béthune and the mines around Bruay stayed in Allied hands. For the British it was proof that German storm troops could be stopped."
 ---
 
 The Battle of Béthune was the last attempt to break the southern flank of the British in Flanders during the German [Lys offensive](/bitwy/bitwa-nad-lys-1918). In the first week of Operation "Georgette" the German 6th Army had driven a deep wedge into the British front between Armentières and the La Bassée Canal, but its left, southern side still hung on the ruins of the village of [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée), on Festubert and on the line of the canal, behind which lay the town of [Béthune](https://pl.wikipedia.org/wiki/Béthune), an important railway junction and the gateway to the last part of the Pas-de-Calais coalfield that remained in French hands. On the morning of 18 April 1918, after a seven-hour bombardment with a large proportion of gas shell, six German divisions attacked the front from Givenchy to [Robecq](https://pl.wikipedia.org/wiki/Robecq). The British 1st Division, which had taken over the Givenchy–Festubert sector less than a day and a half earlier, and the 3rd and 4th Divisions on the canal beat off the attack, and by evening the Germans held only scraps of the ground taken in the morning. German documents call the day "another painful failure" of the 6th Army.

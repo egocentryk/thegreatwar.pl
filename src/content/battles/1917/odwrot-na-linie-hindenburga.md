@@ -15,6 +15,12 @@ result: Niemiecki sukces. Niemcy bez większych strat oderwali się od przeciwni
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Brytyjski Korpus Ekspedycyjny, Francja, okupacja niemiecka]
 milestone: true
+brief:
+  - "Od 22 lutego do 5 kwietnia 1917 roku armia niemiecka dobrowolnie wycofała się z wielkiego łuku frontu między Arras a Soissons na nową pozycję, Siegfriedstellung, którą Brytyjczycy nazwali Linią Hindenburga."
+  - "Hindenburg i Ludendorff kazali zbudować tę pozycję po stratach nad Sommą. Rozkaz odwrotu cesarz Wilhelm II podpisał 4 lutego, gdy niemieckie dywizje nad Sommą były wyczerpane."
+  - "Odwrót osłaniało przedsięwzięcie „Alberich”: Niemcy wysadzali drogi i mosty, burzyli miasta i wsie, ścinali drzewa, zasypywali studnie i wywozili ludność, zamieniając opuszczany pas w pustynię."
+  - "Brytyjczycy i Francuzi szli za Niemcami przez spustoszony teren: 17 marca Australijczycy weszli do Bapaume, a 18 marca zajęto Péronne i Noyon. Do 19–20 marca główne siły niemieckie osiągnęły nową pozycję."
+  - "Niemcy skrócili front o około 40 kilometrów i według Fallsa zaoszczędzili 13–14 dywizji. Odwrót uderzył w plan Nivelle'a, a Linię Hindenburga przełamano dopiero we wrześniu 1918 roku."
 ---
 
 Wiosną 1917 roku armia niemiecka na froncie zachodnim zrobiła coś, czego od jesieni 1914 roku nie zrobiła żadna ze stron: dobrowolnie oddała przeciwnikowi duży kawał zdobytej ziemi. Między końcem lutego a początkiem kwietnia wojska kilku niemieckich armii wycofały się z wielkiego łuku frontu między Arras a Soissons na nową, starannie przygotowaną pozycję, którą Niemcy nazywali Siegfriedstellung, a Brytyjczycy Linią Hindenburga. Odwrót poprzedziło i osłaniało przedsięwzięcie o kryptonimie „Alberich”: systematyczne zniszczenie całego opuszczanego pasa ziemi. Niemcy wysadzali drogi, mosty i tory, burzyli miasta i wsie, ścinali drzewa, zasypywali studnie i wywozili ludność. Brytyjczycy i Francuzi, którzy szykowali się do wielkiej wiosennej ofensywy, musieli iść za nimi przez pustynię, a część ich planów straciła sens.

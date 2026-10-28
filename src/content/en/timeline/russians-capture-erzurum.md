@@ -2,7 +2,13 @@
 title: Russians capture Erzurum
 summary: On 16 February 1916 Cossacks rode into Erzurum, left by the Turks. The fall of a fortress thought impregnable was Russia's greatest success in the Caucasus.
 source: rosjanie-zdobywaja-erzurum
-sourceHash: 6f503126e360e3addda74b2b7753eec0b8ab0adc
+sourceHash: edcb47651eda600493800f7d8057e4949c0453dc
+brief:
+  - "On 16 February 1916 a regiment of Terek Cossacks rode into Erzurum, the most important Ottoman fortress in eastern Anatolia, left by the Turks. At noon General Yudenich entered the town."
+  - "The capture ended the five-day assault and the winter offensive of the Caucasus Army, under way since 10 January, in which the Russians shattered the Ottoman Third Army."
+  - "On 14 February the Russians took Fort Tafet, and the next day Mahmud Kâmil Pasha ordered a retreat. Because the real pursuit started late, most of the Turkish divisions escaped encirclement."
+  - "In Erzurum itself the Russians captured 327 guns, most of an old type. The fall of a fortress regarded as impregnable was the Russian army's greatest success in the Caucasus."
+  - "In the Entente countries the news was received with relief as the first great Allied victory over the Turks. The defeat forced the Turks to shift troops and supplies to the Caucasus."
 ---
 
 At 7 a.m. on 16 February 1916 a regiment of [Terek Cossacks](https://pl.wikipedia.org/wiki/Kozacy_tereccy), followed by infantry, rode into [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), the most important Ottoman fortress in eastern Anatolia. No one was defending the town any longer. At noon the commander of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), General [Nikolai Yudenich](/postacie/nikolaj-judenicz), entered it. So ended the five-day [assault](/poczatek-szturmu-erzurum) and the winter offensive, under way since 10 January, in which the Russians shattered the Ottoman Third Army. The date of 16 February is given consistently by the British chronology of the war and by W. E. D. Allen and Paul Muratoff's history of the Caucasian wars. In Russia, where the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) was still in use, it was 3 February, and it is under that date that the capture of Erzurum entered Russian memory.

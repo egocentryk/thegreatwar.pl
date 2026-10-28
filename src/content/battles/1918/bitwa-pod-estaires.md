@@ -15,6 +15,12 @@ result: Niemieckie zwycięstwo taktyczne. 6 Armia rozbiła portugalską 2 Dywizj
 authors: [Natalia]
 tags: [Wielka Brytania, Niemcy, Portugalia, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa pod Estaires, toczona 9–11 kwietnia 1918 roku, otworzyła operację „Georgette”, drugą wielką ofensywę niemiecką wiosny 1918 roku, zwaną przez Brytyjczyków bitwami nad Lys."
+  - "Główny cios niemieckiej 6 Armii generała von Quasta spadł na portugalską 2 Dywizję, wyczerpaną po ciężkiej zimie, niepełną i mającą zejść z linii jeszcze tej samej nocy."
+  - "Po czterech i pół godzinie huraganowego ostrzału Niemcy uderzyli w gęstej mgle. W ciągu kilku godzin portugalska dywizja przestała istnieć jako zorganizowana siła, a Niemcy doszli nad Lawe i Lys."
+  - "Lancashirska 55 Dywizja obroniła ruiny Givenchy, a w następnych dwóch dniach Niemcy przeszli Lys i zajęli Estaires, opuszczone Armentières i Merville, ale nie przerwali cienkiej linii brytyjskiej."
+  - "Bitwa była największym niemieckim sukcesem pierwszych dni operacji Georgette i zagroziła Hazebrouck. Dla Portugalii 9 kwietnia stał się narodową traumą i jednym z najważniejszych miejsc pamięci wojny."
 ---
 
 Bitwa pod Estaires otworzyła drugą wielką ofensywę niemiecką wiosny 1918 roku, operację „Georgette”, którą Brytyjczycy nazywają [bitwami nad Lys](/bitwy/bitwa-nad-lys-1918). Rankiem 9 kwietnia 1918 roku, po czterech i pół godzinie huraganowego ostrzału, [6 Armia](https://pl.wikipedia.org/wiki/6_Armia_(Cesarstwo_Niemieckie)) generała Ferdinanda von Quasta uderzyła w gęstej mgle na płaski, podmokły odcinek frontu między kanałem La Bassée a [Armentières](https://pl.wikipedia.org/wiki/Armentières), we francuskiej Flandrii. Główny cios spadł na 2 Dywizję [Portugalskiego Korpusu Ekspedycyjnego](https://pl.wikipedia.org/wiki/Portugalski_Korpus_Ekspedycyjny), wyczerpaną, niepełną i mającą zejść z linii jeszcze tej samej nocy. W ciągu kilku godzin dywizja przestała istnieć jako zorganizowana siła, a Niemcy wdarli się na kilka kilometrów, aż nad rzeki [Lawe](https://pl.wikipedia.org/wiki/Lawe) i [Leie](https://pl.wikipedia.org/wiki/Leie) (Lys). Na południowym skrzydle wyłomu lancashirska 55 Dywizja obroniła jednak ruiny Givenchy, a na północnym brytyjskie oddziały zbudowały naprędce nową linię wzdłuż rzek. W następnych dwóch dniach Niemcy przeszli Lys, zajęli [Estaires](https://pl.wikipedia.org/wiki/Estaires), opuszczone przez Brytyjczyków Armentières i [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)), ale nie zdołali przerwać cienkiej, wciąż cofającej się linii obrony.

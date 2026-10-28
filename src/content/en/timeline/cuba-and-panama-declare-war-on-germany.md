@@ -2,7 +2,13 @@
 title: Cuba and Panama declare war on Germany
 summary: On 7 April 1917, a day after the USA, Cuba and Panama declared war on Germany. The Cuban Congress voted unanimously; in Panama the president decided.
 source: kuba-i-panama-wypowiadaja-wojne-niemcom
-sourceHash: 952629cf66c68fc4cf27c367d7a4c3250518da9e
+sourceHash: 1dccd2592c146b0c999f0ee7bf37bb7d3144e386
+brief:
+  - "On 7 April 1917, a day after the United States, Cuba and Panama declared war on Germany. They were the first Latin American states to enter the war."
+  - "Both houses of the Cuban Congress unanimously resolved that a state of war existed with the German Empire. President Mario García Menocal cited Germany's violations of international law and Cuba's ties with the Americans."
+  - "That same day the Cubans took over the German ships interned since 1914, because their crews intended to scuttle them at the entrance to Havana harbour."
+  - "In Panama the decision came in a proclamation by President Ramón Maximiliano Valdés. The country of the Panama Canal held that neutrality was impossible when the state guaranteeing its independence was at war."
+  - "The military significance of the two declarations was slight. Cuba's most important contribution turned out to be sugar, and Panama gave the Americans freedom of action in defending the canal."
 ---
 
 On Saturday 7 April 1917, only a day after the [United States declared war on Germany](/usa-wypowiadaja-wojne-niemcom), its two nearest neighbours followed its lead. In [Havana](https://pl.wikipedia.org/wiki/Hawana) both houses of the Cuban Congress resolved unanimously that a state of war existed between the Republic of [Cuba](https://pl.wikipedia.org/wiki/Kuba) and the German Empire. On the same day the president of [Panama](https://pl.wikipedia.org/wiki/Panama), [Ramón Maximiliano Valdés](https://pl.wikipedia.org/wiki/Ramón_Maximiliano_Valdés), issued a proclamation announcing that his country would stand beside the United States against its enemies. These were the first Latin American states to enter the war.

@@ -11,7 +11,13 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Georg von Kleist, Otto von Hügel]
 result: Indecisive. The British advance on Bruges was halted on the first day, but the German reserve corps, despite heavy losses, failed to break the front north of Ypres.
 source: bitwa-pod-langemarck
-sourceHash: 967dffbb62aa62e349fe3338a5e04b69f687c7c8
+sourceHash: 4c8a48a2d26d906310882d26268ecf9a092335ef
+brief:
+  - "The Battle of Langemarck was fought from 21 to 24 October 1914 north and north-east of Ypres. It was the first stage of the First Battle of Ypres."
+  - "Field Marshal French believed there was at most one German corps north of Ypres. In reality four new reserve corps were arriving, with many poorly trained volunteers among their men."
+  - "On 21 October General Douglas Haig's I Corps set off towards Bruges, but ran into the advancing Germans and went over to the defensive. For three days the British beat off attacks, inflicting enormous losses."
+  - "German losses were many times higher than British ones, reaching in some regiments, according to various studies, as much as 70 per cent of their strength. The reserve corps did not break the front."
+  - "These battles and the attack of 10 November gave rise in Germany to the Langemarck myth of young men going to their deaths singing. Historians have long since challenged this version."
 ---
 
 The Battle of Langemarck was fought from 21 to 24 October 1914 north and north-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper) in Flanders. It was the first stage of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). On 21 October General [Douglas Haig](/postacie/douglas-haig)'s British I Corps set off to attack towards Bruges, convinced that it faced at most one German corps. Instead it ran into several new German reserve corps which were themselves advancing on Ypres. The British halted on the very first day and went over to the defensive, and for the next three days they beat off attacks by young, poorly trained German soldiers, inflicting enormous losses on them. These battles, together with the later attack of 10 November, gave rise in Germany to the Langemarck myth.

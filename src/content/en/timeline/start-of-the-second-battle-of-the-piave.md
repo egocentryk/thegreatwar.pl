@@ -2,7 +2,13 @@
 title: Start of the Second Battle of the Piave
 summary: On 15 June 1918 Austria-Hungary attacked at Asiago, the Grappa and the Piave. In the mountains it failed, but on the river it took the Montello and bridgeheads.
 source: poczatek-drugiej-bitwy-nad-piawa
-sourceHash: efe78d06e3dd68ea59acbe7eec3340c5ee7a98d2
+sourceHash: f4d29c25c306f6fa2d2e3f71ab9ec868be1bbca8
+brief:
+  - "At three in the morning on 15 June 1918 the Austro-Hungarian artillery opened fire from the Asiago plateau to the mouth of the Piave. The last great offensive of the Habsburg monarchy, meant to force Italy to make peace, was beginning."
+  - "Italian intelligence established the day and hour of the bombardment, and on the Asiago plateau the Allied artillery forestalled the attack with fire before midnight. Today 15 June is celebrated in Italy as Artillery Day."
+  - "In the mountains the attack of Conrad von Hötzendorf's Eleventh Army broke down: the French and British held the Asiago front, and on Monte Grappa the Italians retook most of the gains during the night and the next day."
+  - "On the Piave Boroević's troops crossed the river at several points in thick mist. They took the eastern part of the Montello hill and formed a bridgehead at San Donà di Piave."
+  - "British and Italian airmen smashed the pontoon bridges, cutting the Austrians off from their rear. General Armando Diaz could safely send almost all his reserves to the river, and in the evening it began to rain."
 ---
 
 At three in the morning on 15 June 1918 thousands of Austro-Hungarian guns opened fire on a front more than a hundred kilometres long, from the [Asiago](https://pl.wikipedia.org/wiki/Asiago) plateau in the Alps to the mouth of the [Piave](https://pl.wikipedia.org/wiki/Piawa) on the Adriatic. The last great offensive of the Habsburg monarchy was beginning. Seven months after the [First Battle of the Piave](/bitwy/pierwsza-bitwa-nad-piawa) the Austrians wanted to finish the work of the autumn of 1917: break through the front in the mountains and on the river, descend into the Venetian plain and force Italy to make peace. By midday it was clear that in the mountains the attack had broken down. On the Piave, however, Austro-Hungarian troops crossed the river at several points, took part of the Montello hill and captured thousands of prisoners.

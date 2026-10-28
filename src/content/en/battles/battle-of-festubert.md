@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: Inconclusive. The British took the German front line on a stretch of several kilometres and advanced a few hundred metres, but did not break through the front.
 source: bitwa-pod-festubert
-sourceHash: 6d6d823a595954630bbca85da15283b7a5edeb08
+sourceHash: 6ce3a65ed97ab3bca0afc23ef3953e3b1daf025a
+brief:
+  - "From 15 to 25 May 1915 General Douglas Haig's British First Army renewed its attack at Festubert to support the French offensive in Artois. It was a second attempt after the bloody failure at Aubers."
+  - "Haig changed his method: instead of a short bombardment he chose a slow, methodical destruction of the German trenches and a close objective. The bombardment lasted 60 hours, and the attack began on the night of 15–16 May."
+  - "At night the 6th Brigade took the German trenches in silence, but on the left the Germans beat off the attack with machine-gun fire. After two days the Germans fell back to a new line dug in haste."
+  - "The British did not know where the new line ran, and the Germans had time to man it with fresh troops. For ten days British, Indian and Canadian divisions took single trenches and orchards in the mud."
+  - "According to the British official history, losses came to 16,648 killed, wounded and missing for a few hundred metres of ground. The battle exposed the British Army's shortage of heavy guns and shells."
 ---
 
 The Battle of [Festubert](https://pl.wikipedia.org/wiki/Festubert) was the second attempt by General [Douglas Haig](/postacie/douglas-haig)'s British First Army to support the great French offensive in [Artois](https://pl.wikipedia.org/wiki/Artois) in May 1915. After the bloody failure [at Aubers](/bitwy/bitwa-o-grzbiet-aubers) on 9 May the British changed their method. Instead of a short, violent bombardment and a distant objective, they chose a slow destruction of the German trenches lasting several days and an advance to a depth of only a kilometre. The attack began on the night of 15–16 May, which according to the British official history was the British Army's first night attack of the war. For ten days British, Indian and Canadian divisions took single trenches, ditches and orchards in the mud, paying hundreds of killed and wounded for each of them. The Germans fell back to a new line, but did not give up the front.

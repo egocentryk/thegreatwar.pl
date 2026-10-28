@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Francja, Stany Zjednoczone, Ferdinand Foch, czołgi]
 milestone: true
 draft: false
+brief:
+  - "18 lipca 1918 roku o 4.35 francuska 10 Armia gen. Charles'a Mangina wyszła z lasów wokół Villers-Cotterêts i uderzyła na zachodnie skrzydło niemieckiego występu nad Marną. Jednocześnie natarła 6 Armia gen. Degoutte'a."
+  - "Foch od tygodni myślał o uderzeniu w ten występ, zaopatrywany jedną linią kolejową przez Soissons. Gdy 15 lipca Niemcy ruszyli pod Reims, nie pozwolił Pétainowi wstrzymać przygotowań Mangina."
+  - "Nie było wielodniowego ostrzału: wał ogniowy ruszył od razu, a za nim piechota i prawie pięćset czołgów. Ostrzem był XX Korpus z amerykańską 1 i 2 Dywizją oraz 1 Dywizją Marokańską."
+  - "Zaskoczenie było zupełne. W ciągu dwóch pierwszych dni sprzymierzeni wzięli ponad 17 tysięcy jeńców, a Ludendorff, przebywający wtedy w Mons, musiał wstrzymać przygotowania ofensywy „Hagen” we Flandrii."
+  - "Historycy uznają 18 lipca 1918 roku za punkt zwrotny wojny na zachodzie. Inicjatywa przeszła w ręce sprzymierzonych i nie wróciła już do Niemców do końca wojny."
 ---
 
 18 lipca 1918 roku o 4.35, w szarym świetle poranka i resztkach nocnej mgły, francuska 10 Armia generała [Charles'a Mangina](/postacie/charles-mangin) wyszła z lasów wokół [Villers-Cotterêts](https://pl.wikipedia.org/wiki/Villers-Cotterêts) i uderzyła na zachodnie skrzydło niemieckiego występu nad Marną. Nie było wielodniowego ostrzału, który od trzech lat zapowiadał każdą wielką ofensywę. Artyleria otworzyła ogień w chwili natarcia, a wał ogniowy od razu ruszył naprzód, z piechotą i setkami czołgów tuż za nim. Jednocześnie na południe od Mangina natarła 6 Armia generała Jeana Degoutte'a. Trzy dni wcześniej Niemcy zaczęli po obu stronach Reims [swoją ostatnią wielką ofensywę](/poczatek-drugiej-bitwy-nad-marna), a teraz to oni zostali zaskoczeni. Do wieczora Francuzi, Amerykanie i Marokańczycy wdarli się w ich pozycje miejscami na kilka, a nawet kilkanaście kilometrów. Inicjatywa na froncie zachodnim, którą Niemcy trzymali od 21 marca, przeszła w ręce sprzymierzonych i nie wróciła już do Niemców do końca wojny.

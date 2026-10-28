@@ -2,7 +2,12 @@
 title: Guatemala declares war on Germany
 summary: On 23 April 1918 President Estrada Cabrera promulgated a decree by which Guatemala adopted towards Germany the same belligerent attitude as the United States.
 source: gwatemala-wypowiada-wojne-niemcom
-sourceHash: 4dcb3b55db21e1a2653fbcbe7dd9124732300373
+sourceHash: 5599b7a87658a6745e09b019a78191c74d438cfb
+brief:
+  - "On 23 April 1918 President Manuel Estrada Cabrera signed Decree No. 976, by which Guatemala adopted towards the German Empire \"the same belligerent attitude as the United States\"."
+  - "Guatemala had broken off relations with Germany on 27 April 1917. The dictator based his power on good relations with Washington, which pressed him to curb the influence of the wealthy German colony."
+  - "Guatemala was the first of the five Central American republics to become a belligerent. It was soon followed by Nicaragua, Costa Rica and Honduras, and only El Salvador remained neutral."
+  - "Guatemala sent no soldiers to the front; its war consisted of supporting the Americans and dealing with German interests at home. It earned it a place among the victors and membership of the League of Nations."
 ---
 
 On 23 April 1918, in the Palace of the Executive Power in the capital of [Guatemala](https://pl.wikipedia.org/wiki/Gwatemala), President [Manuel Estrada Cabrera](https://pl.wikipedia.org/wiki/Manuel_Estrada_Cabrera) signed the formula "Publíquese y cúmplase" ("Let it be published and carried out") under Decree No. 976 of the Legislative Assembly. Its first article read: "In the present international conflict Guatemala adopts towards the German Empire the same belligerent attitude as the United States". The word "war" did not appear in it, but everyone understood what it meant. A year after [breaking off relations with Germany](/gwatemala-zrywa-stosunki-z-niemcami) Guatemala became a belligerent, the first of the five republics that had once formed the [Central American federation](https://pl.wikipedia.org/wiki/Zjednoczone_Prowincje_Ameryki_Środkowej).

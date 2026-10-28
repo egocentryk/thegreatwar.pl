@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, Otto von Below]
 result: British–Canadian victory. The Canadian Corps advanced more than 8 km, retook Monchy-le-Preux and captured much of the Fresnes–Rouvroy line, taking more than 3,300 prisoners, 53 guns and 519 machine guns. It halted in front of the Drocourt–Quéant line.
 source: bitwa-nad-scarpe-1918
-sourceHash: 62787ff87b0b33eeb6ea081fe282d93bef4e2127
+sourceHash: 61f866d96b6cf0d51f34473621def95141f8f4b3
+brief:
+  - "The Battle of the Scarpe, from 26 to 30 August 1918, extended the Allies' August offensive to the British First Army's front at Arras. General Arthur Currie's Canadian Corps attacked with the Scottish 51st Division."
+  - "After the victory at Amiens Haig and Foch decided to widen the offensive onto the flanks. Here, however, the Canadians had no surprise and had to storm successive lines among the old trenches of 1917–1918."
+  - "At 3 a.m. on 26 August the Canadians attacked on both sides of the Cambrai road and at 7.40 a.m. retook Monchy-le-Preux, captured in April 1917 and lost in March 1918."
+  - "On 28 August the 3rd Canadian Division broke through the Fresnes–Rouvroy line, while the exhausted 2nd Division was stopped by wire. In three days the two divisions lost 254 officers and 5,547 other ranks."
+  - "The attack threatened the flank of the German armies on the Somme, which were ordered to withdraw. The Canadians gained a starting line for the assault on the Drocourt–Quéant line, broken on 2 September."
 ---
 
 The Battle of the Scarpe in 1918 extended the Allies' August offensive northwards, to the front of General Henry Horne's British First Army at [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). A few days after the victory at Amiens, General [Arthur Currie](/postacie/arthur-currie)'s Canadian Corps returned to its old positions east of the town. At 3 a.m. on 26 August it attacked on both sides of the road from Arras to [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), and north of the River [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) it was joined by the Scottish 51st (Highland) Division. That same morning the Canadians retook the hill with the village of [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux), captured with such difficulty in April 1917 and lost in March 1918. Over the next three days they ground their way into successive German lines among the old trenches of 1917–1918, and on 28 August they broke through the Fresnes–Rouvroy position along a considerable length. They paid for it with heavy losses. On 30 August the battle ended, and the Canadian Corps now faced the strongest German position in the area, the Drocourt–Quéant line.

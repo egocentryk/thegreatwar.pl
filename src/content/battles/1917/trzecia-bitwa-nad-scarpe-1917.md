@@ -15,6 +15,12 @@ result: Klęska brytyjska. Natarcie 3 i 1 Armii odparto prawie na całym froncie
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Kanada, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "Trzecia bitwa nad Scarpe, stoczona 3–4 maja 1917 roku, była ostatnim wielkim ogólnym natarciem brytyjskim w bitwie pod Arras. 3 maja o 3.45, jeszcze po ciemku, ruszyły jednocześnie trzy armie."
+  - "Haig wiedział już, że ofensywa Nivelle'a nie da przełomu, ale wciąż chciał wspierać Francuzów. Natarcie prowadziły zmęczone dywizje, uzupełnione słabo wyszkolonymi rekrutami, przeciw czekającym Niemcom."
+  - "Zbyt wczesna godzina zero okazała się fatalna: w ciemności bataliony gubiły kierunek, a niemieckie przeciwnatarcia odbierały zdobyty teren. Natarcie załamało się prawie na całej długości frontu."
+  - "Jedynym wyraźnym sukcesem było zdobycie wsi Fresnoy przez Kanadyjczyków z 1 Dywizji Kanadyjskiej, ale 8 maja świeża 5 Bawarska Dywizja odbiła ją."
+  - "Brytyjska historia oficjalna nazwała natarcie „niczym innym jak klęską”. Po nim Haig zrezygnował z dalszych ogólnych natarć pod Arras i zaczął przenosić siły do Flandrii."
 ---
 
 Trzecia bitwa nad Scarpe była ostatnim wielkim, ogólnym natarciem brytyjskim w [bitwie pod Arras](/bitwy/bitwa-pod-arras-1917). 3 maja 1917 roku o 3.45, jeszcze w ciemnościach, ruszyły jednocześnie trzy armie: 3 Armia generała [Edmunda Allenby’ego](/postacie/edmund-allenby) po obu stronach rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), 1 Armia generała Henry’ego Horne’a pod Gavrelle, Oppy i Fresnoy, a na prawym skrzydle 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) pod Bullecourt. Natarcie, prowadzone przez zmęczone dywizje przeciw czekającemu na nie przeciwnikowi, skończyło się niepowodzeniem prawie na całej długości frontu. Brytyjska historia oficjalna nazwała je „niczym innym jak klęską”, a wielu uczestników uważało ten dzień za najczarniejszy w całej wojnie. Jedynym wyraźnym sukcesem było zdobycie wsi Fresnoy przez Kanadyjczyków. Po tej bitwie [Douglas Haig](/postacie/douglas-haig) zrezygnował z dalszych ogólnych natarć pod Arras i zaczął przenosić siły do Flandrii.

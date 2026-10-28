@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Australia, Wielka Brytania, Niemcy, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "5 kwietnia 1918 roku, szesnastego dnia operacji Michael, Niemcy po raz ostatni spróbowali przebić się do Amiens, uderzając na brytyjską 3 Armię nad doliną Ancre."
+  - "Pod Dernancourt niemiecka 50 Dywizja Rezerwowa przerwała linię australijską na nasypie kolejowym i o 10.30 była na grzbiecie, ale sąsiednie dywizje nie dotrzymały jej kroku."
+  - "O 17.15 Australijczycy kontratakowali i okopali się za porannym frontem. Charles Bean uznał to niemieckie natarcie za najsilniejsze, z jakim zmierzyli się Australijczycy."
+  - "Dalej na północ, od Albert po Bucquoy, zmęczone dywizje brytyjskie i Nowozelandczycy utrzymali front. Tylko w Bucquoy Niemcy zdobyli wschodnią połowę wsi."
+  - "Wieczorem Ludendorff nakazał przerwać ofensywę. Operacja Michael przesunęła front o ponad 60 kilometrów, ale nie rozdzieliła armii brytyjskiej i francuskiej."
 ---
 
 5 kwietnia 1918 roku, szesnastego dnia [operacji Michael](/bitwy/operacja-michael), Niemcy po raz ostatni spróbowali przebić się do [Amiens](https://pl.wikipedia.org/wiki/Amiens). Dzień wcześniej ich natarcie na południe od Sommy, [nad Avre i pod Villers-Bretonneux](/walki-nad-avre), utknęło w deszczu przed australijskimi i francuskimi liniami. Teraz cios miał spaść na północ od rzeki, na brytyjską 3 Armię broniącą wzgórz nad doliną [Ancre](https://pl.wikipedia.org/wiki/Ancre), od [Buire](https://pl.wikipedia.org/wiki/Buire-sur-l’Ancre) przez okolice zajętego przez Niemców [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) po Hébuterne i [Bucquoy](https://pl.wikipedia.org/wiki/Bucquoy). Do wieczora Niemcy zdobyli tylko kilka skrawków ziemi, okupionych ciężkimi stratami, a [Erich Ludendorff](/postacie/erich-ludendorff) nakazał przerwać ofensywę, która od 21 marca miała rozstrzygnąć wojnę.

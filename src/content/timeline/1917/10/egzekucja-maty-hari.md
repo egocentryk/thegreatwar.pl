@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Holandia, wywiad]
 milestone: true
 draft: false
+brief:
+  - "15 października 1917 roku na poligonie pod fortem Vincennes pluton egzekucyjny rozstrzelał 41-letnią Margarethę Zelle, znaną jako Mata Hari, holenderską tancerkę skazaną za szpiegostwo na rzecz Niemiec."
+  - "Mata Hari zasłynęła w 1905 roku w Paryżu jako egzotyczna tancerka, a później żyła jako kurtyzana bogatych protektorów. W czasie wojny wzięła pieniądze od niemieckiego wywiadu i nadano jej kryptonim H-21."
+  - "Jednocześnie zgodziła się szpiegować dla Francji. Zgubiły ją przechwycone przez Francuzów depesze niemieckiego attaché w Madrycie, które pozwalały ją łatwo rozpoznać."
+  - "W lipcu 1917 roku sąd wojenny jednogłośnie skazał ją na śmierć, a prezydent Raymond Poincaré nie skorzystał z prawa łaski. Kraj po buntach w armii i aferach szukał zdrajców, a ona nadawała się na symbol."
+  - "Większość historyków uważa dziś, że wzięła pieniądze od Niemców, ale nie przekazała żadnej ze stron niczego istotnego. Jej proces opierał się na poszlakach, a imię stało się synonimem kobiety fatalnej."
 ---
 
 Przed świtem 15 października 1917 roku w paryskim więzieniu dla kobiet Saint-Lazare obudzono 41-letnią Margarethę Geertruidę Zelle, znaną całej Europie jako [Mata Hari](https://pl.wikipedia.org/wiki/Mata_Hari). Do celi weszli sędzia śledczy kapitan Pierre Bouchardon, jej adwokat Édouard Clunet, protestancki kapelan więzienny pastor Jules Arboux i dwie zakonnice. Dopiero wtedy dowiedziała się, że prezydent odrzucił jej prośbę o łaskę i że za chwilę zostanie rozstrzelana. Według relacji amerykańskiego dziennikarza Henry'ego Walesa z agencji International News Service, który był na miejscu egzekucji, zapytała tylko, czy może napisać dwa listy. Napisała je w pośpiechu na brzegu pryczy i oddała adwokatowi. Potem ubrała się starannie, włożyła długi płaszcz obszyty futrem, duży kapelusz i rękawiczki, i powiedziała: „Jestem gotowa”.

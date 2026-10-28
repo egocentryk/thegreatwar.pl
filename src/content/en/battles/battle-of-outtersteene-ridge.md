@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria"]
 result: British victory. The British took the ridge and the village of Outtersteene, captured almost 700 prisoners and threatened the German salient at Merville. The next day the Germans began to withdraw from the Lys.
 source: bitwa-o-grzbiet-outtersteene
-sourceHash: 7d9f0e18f67d6f4a41e795428d0077eee98503d6
+sourceHash: 788c6bcb8e790659e76fa31b38769ced6acf1d23
+brief:
+  - "At 11 a.m. on 18 August 1918 the 27th Brigade of the Scottish 9th Division, followed by the 29th Division, attacked the low Outtersteene ridge between Meteren and Bailleul in French Flanders."
+  - "After the April Battle of the Lys the Germans were left in a flat salient under fire from the heights. The ridge, less than 40 metres above sea level, was the last higher ground they held here."
+  - "The plan relied on surprise and smoke: the attack was set for the middle of the day and the barrage was partly smoke. In less than two hours the Scots stood on the ridge, and the 29th Division took the village of Outtersteene."
+  - "On 18 August the British lost 671 men and took 697 prisoners, and the next day they took Lyndé farm and \"The Trucks\", achieving all the objectives of the attack."
+  - "The loss of the ridge threatened the salient at Merville and hastened the German withdrawal from the Lys. By 6 September they had given up almost all the ground taken in April, Bailleul and Mount Kemmel included."
 ---
 
 The Battle of Outtersteene Ridge was a small, carefully prepared attack by the British Second Army in French Flanders which opened the German retreat from the salient won in April 1918 in the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918). At 11 a.m. on 18 August, on a hot day and under cover of smoke, the 27th Brigade of the Scottish 9th Division struck from the north at the ridge between [Meteren](https://pl.wikipedia.org/wiki/Méteren) and [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), and the 29th Division moved off behind it. The Germans were taken completely by surprise. In less than two hours the British stood on the crest of the ridge and beyond the village of Outtersteene, having taken almost 700 prisoners. The ridge rose barely a dozen or so metres above the surrounding plain, but it was the last high ground in the area that the Germans still held. Its loss threatened the whole German salient at [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)). The very next day the Germans began to withdraw, and by the beginning of September they had given up, without much fighting, almost all the ground taken in April, Bailleul and Mount Kemmel included.

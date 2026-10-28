@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Irlandia, Wielka Brytania, British Army, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "24 kwietnia 1916 roku, w Poniedziałek Wielkanocny, irlandzcy nacjonaliści zajęli kilkanaście budynków w centrum Dublina. Przed Pocztą Główną Patrick Pearse odczytał proklamację Republiki Irlandzkiej."
+  - "Powstanie przygotowała tajna Rada Wojskowa Irlandzkiego Bractwa Republikańskiego, licząc na pomoc Niemiec. Przechwycenie statku Aud i rozkaz MacNeilla odwołujący manewry sprawiły, że stawiło się tylko około 1200 ludzi."
+  - "Powstańcy zajęli pierścień budynków wokół centrum, m.in. Four Courts, fabrykę Jacoba i St Stephen’s Green. Nie zdobyli jednak Zamku Dublińskiego, centrali telefonicznej ani Kolegium Trójcy Świętej."
+  - "Brytyjczycy byli całkowicie zaskoczeni, ale szybko ściągnęli posiłki z Curragh i zyskali ogromną przewagę. 29 kwietnia Pearse zgodził się na bezwarunkową kapitulację."
+  - "Według Glasnevin Trust zginęło co najmniej 485 osób. Egzekucje czternastu przywódców odwróciły nastroje w Irlandii, a powstanie stało się w ciągu kilku lat symbolem walki o niepodległość."
 ---
 
 24 kwietnia 1916 roku, w [Poniedziałek Wielkanocny](https://pl.wikipedia.org/wiki/Poniedziałek_Wielkanocny), około południa uzbrojone oddziały irlandzkich nacjonalistów zajęły kilkanaście budynków w centrum [Dublina](https://pl.wikipedia.org/wiki/Dublin), w tym gmach Poczty Głównej (General Post Office) przy Sackville Street. Przed pocztą [Patrick Pearse](https://pl.wikipedia.org/wiki/Patrick_Pearse) odczytał proklamację Republiki Irlandzkiej. Tak zaczęło się [powstanie wielkanocne](https://pl.wikipedia.org/wiki/Powstanie_wielkanocne), największe wystąpienie zbrojne w [Irlandii](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)) od 1798 roku, wymierzone w brytyjskie rządy w chwili, gdy [Zjednoczone Królestwo](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) prowadziło wojnę z Niemcami.

@@ -9,7 +9,13 @@ sides:
     commanders: [Mahmud Kâmil Pasha, Vehip Pasha]
 result: Russian victory. The Turks withdrew from the whole Lazistan coast, and on 18 April 1916 the Russians entered the abandoned city of Trebizond without a fight.
 source: ofensywa-trapezuncka
-sourceHash: 687740fa4ef6c8e4e8b574d95a0080f7f635d1b5
+sourceHash: ac7d950d8a396a95521986b73b12b81c2f3b3eef
+brief:
+  - "The Trebizond offensive lasted from 5 February to 18 April 1916. General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast from the Russian border to Trebizond."
+  - "Trebizond was the most important port of northern Anatolia, through which the Ottoman Third Army received men and supplies. Lyakhov was to pin down the Turks on the coast during Yudenich's Erzurum offensive."
+  - "Ships of the Black Sea Fleet shelled the Turkish trenches from the sea, and landing parties came ashore behind the defenders, among other places at Atina. On 8 March the Russians entered Rize."
+  - "In April two plastun brigades, dismounted Kuban Cossacks, were brought in by sea. On 14 April the Russians broke the last Turkish line on the Kara Dere river, and on 18 April they entered the abandoned Trebizond without a fight."
+  - "The operation showed how much command of the sea mattered, though it also exposed poor army–navy cooperation. Russia gained a port through which it could supply the troops fighting deep in Anatolia."
 ---
 
 The Trebizond offensive was one of the few successful combined army and navy operations of the First World War. For ten weeks, from February to April 1916, General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast, from the Russian border towards [Trebizond](https://pl.wikipedia.org/wiki/Trabzon). Ships of the [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska) shelled the Turkish trenches from the sea, and small landing parties came ashore behind each successive line of the defenders. When two brigades of Kuban Cossacks were brought in by sea in April, the Russians broke through the last line of defence on the Kara Dere river, and the Turks abandoned Trebizond without a fight. Russia gained a port through which it could supply the army standing at [Erzurum](https://pl.wikipedia.org/wiki/Erzurum).

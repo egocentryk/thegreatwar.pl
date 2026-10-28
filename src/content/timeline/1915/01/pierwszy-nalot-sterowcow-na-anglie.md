@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [sterowce, Wielka Brytania, Kaiserliche Marine, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "Wieczorem 19 stycznia 1915 roku niemieckie sterowce marynarki L 3 i L 4 zbombardowały Great Yarmouth, King’s Lynn i kilka miejscowości Norfolku. Był to pierwszy nalot sterowców na Wielką Brytanię."
+  - "Cesarz Wilhelm II dopiero na początku stycznia 1915 roku zgodził się na ataki na cele wojskowe na wybrzeżu Anglii, ale nie na Londyn. Celem wyprawy były okolice Humbera i ujście Tamizy."
+  - "Silny wiatr zniósł sterowce nad Norfolk, ponad 100 kilometrów na południe od Humbera. Załogi nie wiedziały nawet, które miasta bombardują, a żaden wyznaczony cel nie został trafiony."
+  - "Zginęły cztery osoby, a szesnaście zostało rannych. Samuel Smith i Martha Taylor z Great Yarmouth byli pierwszymi ludźmi zabitymi w Wielkiej Brytanii w wyniku nalotu z powietrza."
+  - "Nalot otworzył kampanię, która trwała z przerwami do 1918 roku. W ponad pięćdziesięciu nalotach sterowców zginęło w Wielkiej Brytanii ponad 500 osób, w większości cywilów."
 ---
 
 Wieczorem 19 stycznia 1915 roku nad hrabstwem [Norfolk](https://pl.wikipedia.org/wiki/Norfolk_(Wielka_Brytania)) we wschodniej Anglii pojawiły się dwa niemieckie [sterowce](https://pl.wikipedia.org/wiki/Sterowiec) marynarki wojennej, L 3 i L 4. Zrzuciły bomby na [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth), [King’s Lynn](https://pl.wikipedia.org/wiki/King’s_Lynn) i kilka nadmorskich miejscowości. Zginęły cztery osoby, a kilkanaście zostało rannych. Był to pierwszy nalot sterowców na Wielką Brytanię i pierwszy, w którym na brytyjskiej ziemi zginęli ludzie. Trzeci sterowiec, L 6, z powodu awarii zawrócił, zanim dotarł nad Anglię.

@@ -9,7 +9,13 @@ sides:
     commanders: [Franz Conrad von Hötzendorf, Alexander von Linsingen, Archduke Joseph Ferdinand, Eduard von Böhm-Ermolli, Felix von Bothmer, Karl von Pflanzer-Baltin]
 result: Russian victory. The Austro-Hungarian front was broken in Volhynia and Bukovina, and the Russians recovered Lutsk, Czernowitz and Bukovina. They did not reach their operational objectives, Kovel and Lemberg.
 source: ofensywa-brusilowa
-sourceHash: 0363b61639170e7f3a51a1b822e72190b954e6a8
+sourceHash: 419e123a51dbb24ee51736a60bde5cc50fe25534
+brief:
+  - "On 4 June 1916 the four armies of General Aleksei Brusilov's South-Western Front struck simultaneously from Volhynia to Bukovina. It was the greatest victory of the Russian army in the First World War."
+  - "The offensive was meant only as a subsidiary blow supporting the attack of Evert's Western Front. The Austrian offensive at Asiago brought the date forward, as the Italians begged the Russians for quick help."
+  - "Brusilov had each army prepare its own attack on a chosen sector, so that the enemy would not know where the main blow would fall. The infantry dug close to the Austrian positions, and the artillery fired to a precise plan."
+  - "Within days the Russians broke through at Lutsk and on the Dniester, took Lutsk, and then Czernowitz and almost all of Bukovina. According to the Austrian official history, Austria-Hungary lost 475,000 men in June and July."
+  - "The offensive saved the Italians, weakened the Germans at Verdun and drew Romania into the war, but neither Kovel nor Lemberg was taken. The huge losses exhausted the Tsar's army's last reserves and deepened war-weariness."
 ---
 
 The Brusilov offensive was the greatest victory of the Russian army in the First World War and one of the greatest breakthroughs of the whole war. On 4 June 1916 the four armies of General [Aleksei Brusilov](/postacie/aleksiej-brusilow)'s [South-Western Front](https://pl.wikipedia.org/wiki/Front_Południowo-Zachodni_(Imperium_Rosyjskie)) struck simultaneously along the whole length of the front, from Volhynia to Bukovina. Within a few days they broke through the Austro-Hungarian positions at Lutsk and on the Dniester and took Lutsk, and within a few weeks Czernowitz and almost all of Bukovina. In June and July Austria-Hungary lost almost half a million soldiers, more than a quarter of a million of them taken prisoner or missing. The offensive, conceived as a subsidiary blow, saved the Italians, hastened the end of the German attacks at Verdun and induced Romania to enter the war. The Russians, however, failed to take the railway junction of Kovel, and in further, ever bloodier attacks in the summer and autumn they lost hundreds of thousands of men.

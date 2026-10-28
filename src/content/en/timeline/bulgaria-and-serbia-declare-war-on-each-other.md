@@ -2,7 +2,12 @@
 title: Bulgaria and Serbia declare war on each other
 summary: On 14 October 1915 Tsar Ferdinand issued a manifesto on war with Serbia. Bulgaria joined the Central Powers and struck at Serbia from the east.
 source: bulgaria-i-serbia-wypowiadaja-sobie-wojne
-sourceHash: 38b085ecdfce5afb47ecf8bfa7ea8d0b97514cb6
+sourceHash: c386be192118ea651d7d65b70e0254e12a8bef23
+brief:
+  - "On 14 October 1915 Tsar Ferdinand issued a manifesto on war with Serbia. Bulgaria entered the war on the side of the Central Powers, which had promised it the whole of Serbian Macedonia."
+  - "The manifesto presented Bulgaria as the victim of Serbian aggression, but this was a pretext. According to the Austro-Hungarian official history, the Bulgarians provoked the frontier clash of 11 October."
+  - "The Bulgarian First Army struck at eastern Serbia towards Niš, and the Second Army advanced into Serbian Macedonia. As early as 15–16 October the Bulgarians reached Vranje and cut the railway to Salonika."
+  - "Serbia, already defending itself in the north against Mackensen's armies, had to fight on two fronts. Within a few weeks the Bulgarians, Germans and Austrians conquered it, and the Serbian army retreated through Albania."
 ---
 
 On 14 October 1915, that is 1 October according to the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański) which Bulgaria then used, Tsar [Ferdinand](/postacie/ferdynand-i-koburg) issued a manifesto to the nation on war with Serbia. [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) entered the world war on the side of Germany, Austria-Hungary and Turkey. After more than a year of neutrality and bargaining between the two sides, it chose the Central Powers, which had promised it what the Entente could not give: the whole of Serbian [Macedonia](https://pl.wikipedia.org/wiki/Macedonia_(kraina_historyczna)). For a week Serbia had been defending itself in the north against the armies of Field Marshal [August von Mackensen](/postacie/august-von-mackensen). Now it was attacked from the east as well.

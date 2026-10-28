@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Karl von Fasbender]
 result: Canadian victory. The Canadian Corps took the whole of Vimy Ridge, and the Germans withdrew onto the Douai plain, to the Oppy–Méricourt line. There was no breakthrough.
 source: bitwa-o-grzbiet-vimy
-sourceHash: 32a0c2d2465169eddd9ae3c01df39b48b38265a2
+sourceHash: 6548b6c503c926e96940f54aa8984d3313ce9a77
+brief:
+  - "The Battle of Vimy Ridge, fought on 9–12 April 1917, was the northern part of the British offensive at Arras. The ridge had been in German hands since 1914, and the French had twice failed to take it in 1915."
+  - "Lieutenant-General Julian Byng's Canadian Corps prepared the attack with great care: rehearsals on a full-size model of the ground, subways through the chalk and a bombardment of more than a million shells."
+  - "On the morning of 9 April, Easter Monday, in a snowstorm, all four Canadian divisions attacked at once. Behind a creeping barrage they took almost the whole ridge within a few hours."
+  - "The hardest task fell to the 4th Division at Hill 145, which fell only on 10 April. On 12 April the Canadians took the Pimple, and the Germans withdrew onto the plain."
+  - "The Canadian Corps lost 10,602 men on 9–14 April. Strategically the victory changed little, but in Canada Vimy became a symbol, and its place in Canadian memory is beyond dispute."
 ---
 
 The Battle of Vimy Ridge was the northern part of the British offensive [at Arras](/bitwy/bitwa-pod-arras-1917) in the spring of 1917. The ridge, a low but steeply east-facing line of hills between Arras and [Lens](https://pl.wikipedia.org/wiki/Lens), had been in German hands since the autumn of 1914 and dominated the whole area. In 1915 the French had twice tried to take it, losing tens of thousands of men. On the morning of 9 April 1917, Easter Monday, in a snowstorm, all four divisions of the Canadian Corps, fighting together for the first time, went into the attack at once. After careful planning, weeks of preparation and behind a powerful creeping barrage, the Canadians took almost the whole ridge within a few hours. Its highest point, Hill 145, fell the next day, and on 12 April the last German strongpoint at its northern end, called the Pimple, followed. The Germans withdrew onto the plain. The victory cost the Canadians more than 10,000 killed and wounded and became one of the most important events in Canadian history.

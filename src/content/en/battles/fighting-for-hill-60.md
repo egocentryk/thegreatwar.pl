@@ -9,7 +9,13 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Berthold von Deimling]
 result: German victory. The British took the hill on 17 April and beat off counter-attacks, but on 5 May the Germans, using gas, recovered the summit.
 source: walki-o-wzgorze-60
-sourceHash: 17419a324351f230d0059b42427b97f13d65fb04
+sourceHash: 4781ff5109a1a8740f5154a937b9e64754257120
+brief:
+  - "On the evening of 17 April 1915 British sappers blew mines under the German trenches on Hill 60 near Zillebeke, at the southern edge of the Ypres salient. The 5th Division's infantry took the summit within minutes, almost without loss."
+  - "Hill 60 was an artificial mound of spoil from the building of a railway, but it gave a view over Zillebeke and Ypres. The mines were laid in tunnels by professional miners of the new Royal Engineers tunnelling companies."
+  - "Over the following days the British beat off violent German counter-attacks and held the hill at the cost of thousands of killed and wounded. Five Victoria Crosses were awarded for the fighting for it."
+  - "On 1 May the Germans attacked the hill with chlorine, and on 5 May, after another gas attack, they recovered the summit. The British counter-attacks, the last at dawn on 7 May, collapsed."
+  - "It was the first large British mining operation on the Western Front and the start of an underground war beneath the hill. On 7 June 1917, on the first day of the Battle of Messines, two huge charges went up under it."
 ---
 
 The fighting for Hill 60 took place in the spring of 1915 on the southern edge of the salient around [Ypres](https://pl.wikipedia.org/wiki/Ieper). On the evening of 17 April British sappers blew mines laid in tunnels under the German trenches on the top of a small artificial mound near the village of [Zillebeke](https://pl.wikipedia.org/wiki/Zillebeke), and the infantry of the 5th Division occupied it within minutes, almost without loss. Over the following days the British beat off violent German counter-attacks and held the hill, paying for it with thousands of killed and wounded. At the beginning of May the Germans twice attacked it using chlorine, and on 5 May they recovered the summit. It was the first large British mining operation on the Western Front and a foretaste of the two-year underground war that went on beneath the hill until June 1917.

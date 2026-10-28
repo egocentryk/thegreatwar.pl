@@ -2,7 +2,12 @@
 title: Battle of the Frontiers begins
 summary: In early August 1914 the Battle of the Frontiers began, a series of clashes between French and German armies that lasted until the Battle of the Marne.
 source: poczatek-bitwy-granicznej-we-francji
-sourceHash: 85fd5015361b197e9c08ba4bc063ee7036b357f3
+sourceHash: a4e17e1b03ffa81b3a645aa3aa0b207654e6ff0b
+brief:
+  - "Contemporary chronicles record 6 August 1914 as the start of the Battle of the Frontiers, a series of French battles against the Germans from Alsace to the Belgian border that lasted until the Battle of the Marne."
+  - "Germany, following the Schlieffen Plan, sent its main forces through Belgium to bypass the fortified border. Joffre's France struck east into Alsace and Lorraine and then through the Ardennes."
+  - "The Battle of the Frontiers included the fighting at Mulhouse, in Lorraine, in the Ardennes, at Charleroi and at Mons. 22 August was the bloodiest day in the French army's history: about 27,000 soldiers were killed."
+  - "The Battle of the Frontiers ended in a German victory and the Great Retreat of the French and British towards Paris, which came to a halt only on the Marne."
 ---
 
 Contemporary chronicles of the war record 6 August 1914 as the start of the so-called [Battle of the Frontiers](https://pl.wikipedia.org/wiki/Bitwa_graniczna_(1914)). The name covers not a single clash but a whole series of battles that the French armies fought against the Germans in the first month of the war, from Alsace in the south to the Belgian border in the north, right up to the Battle of the Marne at the beginning of September.

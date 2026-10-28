@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Francuzi zdobyli wzgórze Lorette, Carency, Ablain-S
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Ferdinand Foch, Arras]
 milestone: true
+brief:
+  - "Od 9 maja do 18 czerwca 1915 roku francuska 10 Armia generała Victora d'Urbala próbowała zdobyć wzgórza Vimy na północ od Arras. Była to największa aliancka ofensywa na zachodzie wiosną 1915 roku."
+  - "Joffre chciał wykorzystać przerzucanie niemieckich dywizji na wschód i pomóc Rosjanom. Francuzi postawili na siłę ognia: metodyczny ostrzał trwał sześć dni."
+  - "Pierwszego dnia Dywizja Marokańska z korpusu Pétaina w niecałe dwie godziny dotarła na grzbiet Vimy. Odwody stały jednak zbyt daleko i Niemcy zdążyli zamknąć wyłom."
+  - "Przez ponad pięć tygodni Francuzi walczyli dom po domu o pojedyncze wsie i wzgórza. Zdobyli Carency, Neuville-Saint-Vaast i wzgórze Notre-Dame-de-Lorette, ale natarcie z 16–18 czerwca na grzbiet się nie powiodło."
+  - "Według francuskich danych 10 Armia straciła około 102,5 tysiąca ludzi, a Niemcy według szacunków 65–75 tysięcy. Grzbiet Vimy pozostał w rękach niemieckich aż do kwietnia 1917 roku."
 ---
 
 Druga bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois) była największą aliancką ofensywą na froncie zachodnim wiosną 1915 roku. 9 maja francuska 10 Armia generała Victora d'Urbala uderzyła na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), by zdobyć wzgórza [Vimy](https://pl.wikipedia.org/wiki/Vimy), z których Niemcy panowali nad okolicą od jesieni 1914 roku. Tego samego dnia dalej na północ zaatakowała brytyjska 1 Armia. Pierwszego dnia XXXIII Korpus generała [Philippe'a Pétaina](/postacie/philippe-petain) w niecałe dwie godziny przeszedł około czterech kilometrów i jego czołowe oddziały stanęły na grzbiecie Vimy. Odwody były jednak zbyt daleko i Niemcy zdążyli zamknąć wyłom. Potem przez ponad pięć tygodni Francuzi walczyli o pojedyncze wsie, wzgórza i umocnienia. Zdobyli wzgórze Notre-Dame-de-Lorette i kilka silnie umocnionych wsi, ale grzbietu Vimy nie zdobyli, a straty obu stron poszły w setki tysięcy ludzi.

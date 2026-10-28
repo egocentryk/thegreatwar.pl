@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Niemcy zajęli część Locre i na kilka go
 authors: [Natalia]
 tags: [Francja, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
+brief:
+  - "29 kwietnia 1918 roku siedem dywizji niemieckiej 4 Armii uderzyło we Flandrii na wzgórza Scherpenberg i Mont Rouge. Było to ostatnie natarcie operacji „Georgette”, czyli bitew nad Lys."
+  - "Cztery dni wcześniej Alpenkorps zdobył Kemmelberg, a teraz Niemcy chcieli zejść na równinę pod Poperinge i zmusić Brytyjczyków do opuszczenia łuku pod Ypres. Jeńcy i dezerterzy zapowiedzieli atak."
+  - "Na odcinku francuskim Alpenkorps zajął część Locre i przełęcz między Scherpenbergiem a Mont Rouge, co wywołało alarm w sztabach. Do 13.15 francuskie odwody zepchnęły go ze zbocza."
+  - "Na odcinku brytyjskim niemiecka piechota, idąca w otwartym terenie, załamała się w ogniu artylerii i karabinów maszynowych. Obrona rozbudowana w głąb i szybkie kontrataki zatrzymały natarcie."
+  - "O 20.35 Loßberg zaproponował Ludendorffowi wstrzymanie ofensywy, a ten się zgodził. Operacja „Georgette” nie zdobyła Hazebrouck ani portów nad kanałem, a Niemcy zostali w ostrzeliwanym klinie nad Lys."
 ---
 
 Bitwa o Scherpenberg była ostatnim natarciem niemieckiej ofensywy we Flandrii, nazwanej przez Niemców operacją „Georgette”, a przez Brytyjczyków [bitwami nad Lys](/bitwy/bitwa-nad-lys-1918). 25 kwietnia 1918 roku niemiecki Alpenkorps zdobył [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), najwyższe wzgórze tej części Flandrii. Cztery dni później 4 Armia generała [Friedricha Sixta von Armina](/postacie/friedrich-sixt-von-armin) spróbowała pójść dalej: zdobyć leżące za nim wzgórza Scherpenberg i Mont Rouge, zejść na równinę pod [Poperinge](https://pl.wikipedia.org/wiki/Poperinge) i zmusić Brytyjczyków do opuszczenia łuku pod [Ypres](https://pl.wikipedia.org/wiki/Ieper). Rano 29 kwietnia siedem dywizji niemieckich uderzyło na froncie długości kilkunastu kilometrów, od Locre po jezioro Zillebeke. Tylko na prawym skrzydle, przeciw Francuzom, odniosły chwilowy sukces: zajęły część Locre i przełęcz między Scherpenbergiem a Mont Rouge, co przez kilka godzin wywoływało w sztabach sprzymierzonych alarm. W południe francuskie odwody odrzuciły je ze zbocza, a na odcinku brytyjskim natarcie załamało się w ogniu artylerii i karabinów maszynowych. Wieczorem szef sztabu 4 Armii poradził [Erichowi Ludendorffowi](/postacie/erich-ludendorff) wstrzymanie ofensywy, a ten się zgodził.

@@ -9,7 +9,13 @@ sides:
     commanders: [Georgi Todorov, Friedrich von Scholtz, Kuno von Steuben, Ivan Rusev]
 result: Allied victory. In three days the Serbs and French took three successive Bulgarian defensive positions and opened a breach in the front through which the Serbian armies advanced towards the Vardar.
 source: bitwa-pod-dobrym-polem
-sourceHash: 6ecd96f2fd2e9e16b8889689c2e5413ba0a56036
+sourceHash: 24453f977b7db009d20e431ac1c58db55daa1b41
+brief:
+  - "From 15 to 17 September 1918 the Serbs and French stormed the Bulgarian positions on the Dobro Pole–Sokol–Vetrenik ridge in Macedonia. The battle opened the last Allied offensive on the Salonika front."
+  - "The plan, championed by Vojvoda Živojin Mišić, seemed insane: the ridge rose to an average of over 1,350 metres. The Bulgarians did not expect an attack here, and their second and third positions were only partly fortified."
+  - "After a day-long bombardment on 14 September, at 5.30 a.m. on 15 September the French 17th Colonial and 122nd Divisions and the Serbian Šumadija Division attacked and by nightfall had taken Vetrenik, Dobro Pole and Sokol."
+  - "The Yugoslav and Timok Divisions passed through the breach, stepping at once onto Serbian soil. By the evening of 17 September the second and third Bulgarian positions had fallen, and General Rusev had withdrawn without orders."
+  - "The breakthrough at Dobro Pole split the Bulgarian front and within two weeks took Bulgaria out of the war. It was the greatest victory of the Serbian army, which was returning home after its defeat of 1915."
 ---
 
 The Battle of Dobro Pole opened the last Allied offensive on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki). At 5.30 a.m. on 15 September 1918 two French divisions and the Serbian Šumadija Division went over the top against the Bulgarian trenches on a bare mountain ridge rising to almost two thousand metres above sea level over the [Meglena](https://pl.wikipedia.org/wiki/Meglena) basin. By evening they had taken the peaks of Vetrenik, Dobro Pole and Sokol, and during the night Serbian divisions passed through the breach, already marching on their own soil. By the evening of 17 September the second and third lines of defence had also fallen. The Bulgarians, convinced that no one would attack in such high mountains, lost the position on which the whole defence of Macedonia rested. Within two weeks the breakthrough at Dobro Pole had taken Bulgaria out of the war.

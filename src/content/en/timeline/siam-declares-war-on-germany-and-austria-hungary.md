@@ -2,7 +2,13 @@
 title: Siam declares war on Germany and Austria-Hungary
 summary: On 22 July 1917 King Vajiravudh declared war on Germany and Austria-Hungary. At dawn the Siamese interned the Germans and seized nine German ships.
 source: syjam-wypowiada-wojne-niemcom-i-austro-wegrom
-sourceHash: b4bb3f401be834fbddc6e3da17a3b586a059a414
+sourceHash: 6597237c13eeb0f5a67380dc7daf7a982a057f80
+brief:
+  - "At dawn on 22 July 1917 the Kingdom of Siam announced that it was at war with Germany and Austria-Hungary. The decision was taken personally by King Vajiravudh, who reigned as Rama VI."
+  - "Siam, an island of independence between French and British possessions, was still bound by unequal treaties. For three years it stayed neutral, while its princes were divided."
+  - "The war was to win Siam a place among the victors and freedom from the unequal treaties. The decision was also a concession to growing Allied pressure."
+  - "That same day about 320 Germans and Austro-Hungarians were interned, nine German ships on the Chao Phraya were seized and German property was confiscated."
+  - "In 1918 just under 1,300 Siamese volunteers sailed to France. Siam took part in the Paris Peace Conference, became a founding member of the League of Nations and gradually got rid of extraterritoriality."
 ---
 
 At dawn on Sunday 22 July 1917 the Kingdom of Siam announced that it was at war with Germany and Austria-Hungary. The decision was taken personally by King [Vajiravudh](https://pl.wikipedia.org/wiki/Vajiravudh), who reigned as Rama VI. That same morning the American chargé d'affaires in [Bangkok](https://pl.wikipedia.org/wiki/Bangkok), Arnold, cabled Washington: "Siam declared war on Germany and Austria about six this morning. Germans and Austrians are interned. German and Austrian legations protected by special guards. All German ships interned at once." Siam was the only independent state in South-East Asia to enter the war of its own free will. It needed the war not for gains at the front but for a place among the victors.

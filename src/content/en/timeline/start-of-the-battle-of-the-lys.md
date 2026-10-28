@@ -2,7 +2,13 @@
 title: Start of the Battle of the Lys
 summary: On 9 April 1918, in fog, the German Sixth Army struck on the Lys. The Portuguese 2nd Division broke, but the British held Givenchy and the line of the rivers.
 source: poczatek-bitwy-nad-lys
-sourceHash: 03b2da6cd8d860a44747b111d2b1a7d778562c13
+sourceHash: d5cbb6b432b851447423d42cea168a56235b4a2e
+brief:
+  - "At 4.15 a.m. on 9 April 1918 the German Sixth Army's artillery opened fire from the La Bassée Canal to Armentières. So began the Battle of the Lys, the second great offensive of the spring of 1918."
+  - "The front was held by the weakened Portuguese 2nd Division, short of almost 6,000 soldiers. Its relief was planned to start only on the night of 9–10 April."
+  - "After a bombardment directed by Georg Bruchmüller, four German divisions struck the Portuguese in fog. Within a few hours the Portuguese 2nd Division had ceased to exist as an organised force."
+  - "On the southern flank General Hugh Jeudwine's British 55th Division held Givenchy and Festubert, taking 641 Germans prisoner."
+  - "By the morning of 10 April the British, having used up all their reserves, had ringed the breach with a thin line along the Lawe and the Lys. For Portugal 9 April became the darkest day of the war."
 ---
 
 On Tuesday 9 April 1918, at 4.15 a.m., in darkness and thick fog, the artillery of the German Sixth Army opened fire on the front from the La Bassée Canal to Armentières, in French Flanders. So began the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918), the second great offensive of the spring of 1918, which [Erich Ludendorff](/postacie/erich-ludendorff) had prepared in haste after calling off [Operation Michael](/bitwy/operacja-michael) before Amiens four days earlier. After four and a half hours of bombardment the German infantry struck at the sector held by the Portuguese. Within a few hours the Portuguese 2nd Division had ceased to exist as an organised force, and the Germans reached the rivers [Lawe](https://pl.wikipedia.org/wiki/Lawe) and [Leie](https://pl.wikipedia.org/wiki/Leie) (Lys) and crossed the Lys at one point. On the southern flank, however, the British 55th Division held all its positions at [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée) and [Festubert](https://pl.wikipedia.org/wiki/Festubert), and by evening the British, throwing in their last reserves, had closed the breach with a thin line along the rivers. Times are given after the British official history.

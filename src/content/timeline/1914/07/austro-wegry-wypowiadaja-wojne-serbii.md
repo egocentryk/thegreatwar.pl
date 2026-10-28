@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [wypowiedzenie wojny, Austro-Węgry, Serbia, Franciszek Józef I]
 milestone: true
 draft: false
+brief:
+  - "28 lipca 1914 roku, dokładnie miesiąc po zamachu w Sarajewie, Austro-Węgry wypowiedziały wojnę Serbii. Dla wielu historyków ten dzień jest początkiem I wojny światowej."
+  - "Leopold Berchtold wysłał wypowiedzenie telegramem do premiera Nikoli Pašicia w Niszu, bo stosunki dyplomatyczne zerwano trzy dni wcześniej. Po raz pierwszy w historii wojnę wypowiedziano telegramem."
+  - "Wilhelm II uznał serbską odpowiedź na ultimatum za moralny sukces Wiednia i proponował jedynie zajęcie Belgradu, ale Bethmann Hollweg przekazał tę propozycję dopiero wieczorem, gdy wojna była już wypowiedziana."
+  - "W nocy z 28 na 29 lipca austro-węgierska artyleria z Zemunu i monitory rzeczne ostrzelały Belgrad. Kampania serbska na dobre rozpoczęła się jednak dopiero w połowie sierpnia, po mobilizacji."
+  - "Wiedeń liczył na krótką, lokalną wojnę, ale za Serbią stała Rosja, a za Austro-Węgrami Niemcy. W ciągu tygodnia konflikt na Bałkanach zamienił się w wojnę ogólnoeuropejską."
 ---
 
 28 lipca 1914 roku, dokładnie miesiąc po zamachu w Sarajewie, [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) wypowiedziały wojnę [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Tej samej nocy na Belgrad spadły pierwsze pociski. Dla wielu historyków ten dzień jest początkiem [I wojny światowej](https://pl.wikipedia.org/wiki/I_wojna_światowa). Konflikt, który Wiedeń chciał ograniczyć do krótkiej rozprawy z sąsiadem, w ciągu tygodnia wciągnął wszystkie wielkie mocarstwa Europy.

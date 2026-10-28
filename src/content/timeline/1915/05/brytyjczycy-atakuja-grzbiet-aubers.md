@@ -10,6 +10,12 @@ dayOrder: 5
 tags: [Brytyjski Korpus Ekspedycyjny, Indie Brytyjskie, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "9 maja 1915 roku brytyjska 1 Armia gen. Douglasa Haiga zaatakowała niemieckie pozycje przed grzbietem Aubers we francuskiej Flandrii, by wesprzeć francuską ofensywę w Artois."
+  - "Ostrzał trwał tylko 40 minut, bo Brytyjczykom brakowało ciężkich dział i pocisków burzących. Niemcy zdążyli zbudować grube przedpiersia i rozmieścić gęsto karabiny maszynowe, których ostrzał niemal nie naruszył."
+  - "Przy Rue du Bois piechota zaległa w ziemi niczyjej przed nieprzeciętymi zasiekami. Pod Fromelles żołnierze wdarli się do niemieckich okopów, ale odcięci zostali wyparci przez kontrataki."
+  - "Według brytyjskiej historii oficjalnej 1 Armia straciła tego dnia 458 oficerów i 11 161 szeregowych, nie utrzymując ani metra niemieckich okopów. Straty niemieckie były wielokrotnie mniejsze."
+  - "Była to jedna z najkrwawszych klęsk armii brytyjskiej w 1915 roku. Ujawniony brak pocisków trafił kilka dni później do prasy i stał się w Wielkiej Brytanii sprawą polityczną."
 ---
 
 9 maja 1915 roku, w słoneczny niedzielny poranek, brytyjska 1 Armia generała [Douglasa Haiga](/postacie/douglas-haig) zaatakowała niemieckie pozycje przed grzbietem [Aubers](https://pl.wikipedia.org/wiki/Aubers) we francuskiej Flandrii. Natarcie miało wesprzeć wielką francuską ofensywę, która tego samego dnia ruszyła kilkadziesiąt kilometrów na południe, w [Artois](https://pl.wikipedia.org/wiki/Artois). Brytyjczycy liczyli, że powtórzą sukces pierwszego dnia [bitwy pod Neuve-Chapelle](/bitwy/bitwa-pod-neuve-chapelle) z marca. Skończyło się jedną z najkrwawszych klęsk armii brytyjskiej w 1915 roku: do wieczora 1 Armia straciła ponad 11 tysięcy zabitych, rannych i zaginionych i nie utrzymała ani metra niemieckich okopów.

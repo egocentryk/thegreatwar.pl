@@ -2,7 +2,13 @@
 title: Nicaragua declares war on Germany
 summary: On 8 May 1918 Nicaragua announced that Congress had declared war on Germany and Austria-Hungary. President Chamorro openly sided with the United States.
 source: nikaragua-wypowiada-wojne-niemcom
-sourceHash: af3122118bc8687f42611475bbfe72af985ec8c9
+sourceHash: 94e2e596cca3d419f1299b448350974af956841d
+brief:
+  - "On 8 May 1918 the Foreign Minister of Nicaragua informed the United States legation that Congress had passed a decree declaring a state of war with Germany and Austria-Hungary and introducing martial law."
+  - "According to Current History, Congress adopted the declaration of war on 7 May, at the request of President Emiliano Chamorro, with only four votes against. Most lists give the date of 8 May."
+  - "Nicaragua had for years been dependent on the United States: a detachment of Marines was stationed in the capital and American bankers controlled its finances. Chamorro could present himself as Washington's loyal ally."
+  - "President Woodrow Wilson sent Chamorro his personal congratulations. Nicaragua, however, sent no soldiers to the front, and its part in the war was above all of political significance."
+  - "Taking part in the war secured Nicaragua a place among the victors. Its representative signed the Treaty of Versailles in June 1919, and with it the Covenant of the League of Nations."
 ---
 
 On 8 May 1918 the Foreign Minister of [Nicaragua](https://pl.wikipedia.org/wiki/Nikaragua) officially informed the United States legation in [Managua](https://pl.wikipedia.org/wiki/Managua) that Congress had passed a decree on the war. Its first article stated: "From this day a state of war exists and is declared between Nicaragua and the Imperial Governments of Germany and Austria-Hungary". The second stated that Nicaragua joined the United States and the other Latin American republics at war with those states. The third introduced martial law in the country and authorised the executive to take all measures it deemed proper and necessary for Nicaragua to co-operate effectively in carrying out the decree. The American minister, Benjamin Jefferson, passed the text to Washington in a telegram sent at three in the afternoon. A year after [breaking off relations with Berlin](/nikaragua-zrywa-stosunki-z-niemcami), Nicaragua became a belligerent.

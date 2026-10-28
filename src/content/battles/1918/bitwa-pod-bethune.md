@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Niemcy zajęli tylko część ruin Givenchy, kil
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, broń chemiczna]
 milestone: true
+brief:
+  - "18 kwietnia 1918 roku, po siedmiogodzinnym ostrzale z dużą ilością gazu, sześć dywizji niemieckiej 6 Armii uderzyło na front od Givenchy po Robecq. Była to ostatnia próba przełamania południowego skrzydła brytyjskiego nad Lys."
+  - "Za kanałem La Bassée leżało Béthune, ważny węzeł kolejowy i brama do ostatniej części zagłębia węglowego Pas-de-Calais w rękach francuskich. Niemcy chcieli zabezpieczyć lewe skrzydło swojego klina."
+  - "Pod Givenchy Niemcy wdarli się do okopów 1 batalionu Black Watch, ale reduty się utrzymały, a karabiny maszynowe zza kanału biły w ich flankę. Do 11 natarcie stanęło, a pod Festubert kontrataki odzyskały wieś."
+  - "Nad kanałem La Bassée próby przeprawy załamały się pod ogniem, a 115 Niemców poddało się pod nasypem. Do wieczora Niemcy zachowali tylko skrawki terenu zdobytego rano."
+  - "Bitwa zamknęła niemieckie próby rozszerzenia klina na południe: Béthune i kopalnie wokół Bruay zostały w rękach sprzymierzonych. Dla Brytyjczyków był to dowód, że niemieckie oddziały szturmowe można zatrzymać."
 ---
 
 Bitwa pod Béthune była ostatnią próbą przełamania południowego skrzydła brytyjskiego we Flandrii w czasie niemieckiej [ofensywy nad Lys](/bitwy/bitwa-nad-lys-1918). Przez pierwszy tydzień operacji „Georgette” niemiecka 6 Armia wbiła w front brytyjski głęboki klin między Armentières a kanałem La Bassée, ale jego lewy, południowy bok wciąż zawisał na ruinach wsi [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée), na Festubert i na linii kanału, za którą leżało miasto [Béthune](https://pl.wikipedia.org/wiki/Béthune), ważny węzeł kolejowy i brama do ostatniej części zagłębia węglowego Pas-de-Calais, jaka pozostała w rękach francuskich. Rankiem 18 kwietnia 1918 roku, po siedmiogodzinnym ostrzale z dużą ilością pocisków gazowych, sześć dywizji niemieckich uderzyło na front od Givenchy po [Robecq](https://pl.wikipedia.org/wiki/Robecq). Brytyjska 1 Dywizja, która przejęła odcinek Givenchy–Festubert niespełna półtorej doby wcześniej, oraz 3 i 4 Dywizja nad kanałem odparły natarcie, a do wieczora Niemcy zachowali tylko skrawki zdobytego rano terenu. Niemieckie dokumenty nazywają ten dzień „kolejnym bolesnym niepowodzeniem” 6 Armii.

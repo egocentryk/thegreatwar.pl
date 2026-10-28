@@ -10,6 +10,11 @@ dayOrder: 3
 tags: [Francja, Niemcy, Charles Lanrezac, Louis Franchet d'Espérey]
 milestone: true
 draft: false
+brief:
+  - "29 sierpnia 1914 roku francuska 5 Armia gen. Charles'a Lanrezaca przerwała odwrót i uderzyła na niemiecką 2 Armię Bülowa w dolinie Oise. Był to jedyny duży kontratak sprzymierzonych w czasie wielkiego odwrotu."
+  - "Joffre potrzebował czasu na zebranie nowej 6 Armii i wymusił natarcie na Lanrezacu, który się mu sprzeciwiał. Marszałek John French odmówił udziału Brytyjczyków, więc Francuzi walczyli sami."
+  - "Natarcie na Saint-Quentin utknęło w ogniu artylerii, ale po południu I Korpus gen. Louisa Franchet d'Espéreya poprowadził kontratak, który odrzucił niemiecką Gwardię w stronę rzeki."
+  - "Sukces był kruchy i wieczorem Joffre zezwolił na odwrót za Oise. Bitwa zatrzymała jednak armię Bülowa na półtorej doby i skłoniła Klucka do zwrotu na wschód od Paryża, co otworzyło Francuzom szansę nad Marną."
 ---
 
 29 sierpnia 1914 roku francuska 5 Armia generała Charles'a Lanrezaca po raz pierwszy od klęski pod Charleroi przestała się cofać i uderzyła na Niemców. W dolinie rzeki [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)), w rejonie miasteczka [Guise](https://pl.wikipedia.org/wiki/Guise) i miasta [Saint-Quentin](https://pl.wikipedia.org/wiki/Saint-Quentin), rozpoczęła się bitwa pod Guise. Niemcy nazywają ją bitwą pod Saint-Quentin. Był to jedyny duży kontratak sprzymierzonych w czasie wielkiego odwrotu i jedno z najważniejszych starć, które poprzedziły bitwę nad Marną.

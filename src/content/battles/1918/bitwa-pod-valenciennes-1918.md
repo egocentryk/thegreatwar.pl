@@ -15,6 +15,12 @@ result: Zwycięstwo kanadyjsko-brytyjskie. Kanadyjczycy zdobyli Mont Houy i 2 li
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Valenciennes]
 milestone: true
+brief:
+  - "1–2 listopada 1918 roku Korpus Kanadyjski i brytyjski XXII Korpus zdobyły wzgórze Mont Houy i wyzwoliły Valenciennes, kluczowy punkt niemieckiej pozycji Hermanna nad Skaldą."
+  - "Miasta nie wolno było ostrzeliwać, bo przebywało w nim wielu cywilów, a od zachodu chronił je zalany kanał Skaldy. Pierwszy atak szkockiej 51 Dywizji na Mont Houy 28 października się nie powiódł."
+  - "1 listopada o 5.15 kanadyjska 10 Brygada uderzyła pod osłoną ponad 300 dział. Mont Houy padło w niecałą godzinę, a 2 listopada rano Kanadyjczycy oczyścili Valenciennes."
+  - "Straty kanadyjskie wyniosły według Nicholsona 80 zabitych i około 300 rannych, a wzięto prawie 1800 jeńców. Sierżant Hugh Cairns zdobył tu ostatni w tej wojnie Krzyż Wiktorii dla Kanadyjczyka."
+  - "Rankiem 3 listopada okazało się, że Niemcy porzucili linię Skaldy. Upadek Valenciennes odsłonił lewe skrzydło niemieckiej obrony nad Sambrą i był ostatnią wielką bitwą Kanadyjczyków w tej wojnie."
 ---
 
 Bitwa pod Valenciennes była ostatnim wielkim, zaplanowanym natarciem Korpusu Kanadyjskiego w pierwszej wojnie światowej. [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes), miasto nad [Skaldą](https://pl.wikipedia.org/wiki/Skalda) w północnej Francji, które Niemcy [zajęli w sierpniu 1914 roku](/niemcy-zajmuja-valenciennes), było w ostatnich dniach października 1918 roku kluczowym punktem niemieckiej pozycji Hermanna. Od zachodu i północy chroniły je kanał Skaldy i rozlewiska, a od południa zalesione wzgórze Mont Houy. Po nieudanym ataku szkockiej 51 Dywizji z 28 października 1 listopada o 5.15 rano jedna kanadyjska brygada uderzyła na wzgórze pod osłoną ognia artylerii tak silnego, jakiego w całej wojnie nie dostała żadna inna pojedyncza brygada piechoty. Mont Houy padło w niecałą godzinę, a 2 listopada rano Kanadyjczycy oczyścili Valenciennes z Niemców. Ostatni w tej wojnie [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) dla Kanadyjczyka zdobył tu sierżant Hugh Cairns.

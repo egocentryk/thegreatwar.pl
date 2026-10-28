@@ -2,7 +2,13 @@
 title: United States declares war on Germany
 summary: On 6 April 1917 the House of Representatives passed the war resolution and Wilson signed it. The United States was at war with Germany.
 source: usa-wypowiadaja-wojne-niemcom
-sourceHash: 690f71ab027954bcbd3a56bdb2aa98c03709aaf5
+sourceHash: 6dde8b9908a7937e706dbeb7b5771d55e3f03b9c
+brief:
+  - "On Good Friday, 6 April 1917, the House of Representatives passed the war resolution by 373 votes to 50, and President Woodrow Wilson signed it. The United States was at war with Germany."
+  - "Two days earlier the Senate had passed the resolution by 82 votes to 6. Opponents such as Robert La Follette argued that Britain had broken the law of the sea just as Germany had."
+  - "Among the opponents in the House was Jeannette Rankin, the first woman in Congress. That same day 91 German ships that had taken refuge in American ports since 1914 were seized."
+  - "The United States entered the war almost without a land army, and Wilson called his country an \"associated power\" rather than an allied one. The Allies could now count on American credits."
+  - "The German high command reckoned that submarines would force Britain to make peace before the Americans could carry a significant army across the ocean. The next day Cuba declared war on Germany."
 ---
 
 On 6 April 1917, Good Friday, the United States entered the war against Germany. At 3.12 a.m. the [House of Representatives](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_Stanów_Zjednoczonych) passed by 373 votes to 50 the joint resolution of Congress which the [Senate](https://pl.wikipedia.org/wiki/Senat_Stanów_Zjednoczonych) had approved two days earlier. At 1.18 p.m. President [Woodrow Wilson](/postacie/woodrow-wilson) signed it and issued a proclamation that a state of war existed. Two months had passed since the breaking off of diplomatic relations, and four days since the [president's address](/wilson-prosi-kongres-o-wypowiedzenie-wojny) to Congress.

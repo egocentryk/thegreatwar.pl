@@ -9,6 +9,11 @@ dayOrder: 5
 tags: [wypowiedzenie wojny, Niemcy, Francja, René Viviani]
 milestone: true
 draft: false
+brief:
+  - "3 sierpnia 1914 roku o 18:45 niemiecki ambasador baron Wilhelm von Schoen wręczył René Vivianiemu wypowiedzenie wojny Francji. Niemcy prowadziły odtąd wojnę na dwa fronty."
+  - "Nota zarzucała Francji „jawnie wrogie akty”, w tym rzekome bombardowanie linii kolejowej koło Karlsruhe i Norymbergi. Zarzuty były fałszywe: żadnych francuskich nalotów nie było."
+  - "Wypowiedzenie wynikało z planu Schlieffena, który zakładał szybkie pokonanie Francji przez Belgię, zanim główne siły zostaną przerzucone na wschód. Francja z kolei chciała odzyskać Alzację i Lotaryngię."
+  - "4 sierpnia prezydent Raymond Poincaré wezwał do „świętego zjednoczenia”, a parlament jednogłośnie przyjął kredyty wojenne. Na froncie zachodnim miały się rozegrać najkrwawsze bitwy tej wojny."
 ---
 
 3 sierpnia 1914 roku o godzinie 18:45 niemiecki ambasador w Paryżu, baron Wilhelm von Schoen, wręczył premierowi i ministrowi spraw zagranicznych Francji [René Vivianiemu](https://pl.wikipedia.org/wiki/René_Viviani) wypowiedzenie wojny. Od tej chwili [Niemcy](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) prowadziły wojnę na dwa fronty: z Rosją na wschodzie i z [Francją](https://pl.wikipedia.org/wiki/III_Republika_Francuska) na zachodzie.

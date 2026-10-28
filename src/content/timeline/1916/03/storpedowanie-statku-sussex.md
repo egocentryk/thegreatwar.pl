@@ -9,6 +9,11 @@ dayOrder: 1
 tags: [Niemcy, Francja, okręty podwodne, Stany Zjednoczone]
 milestone: true
 draft: false
+brief:
+  - "24 marca 1916 roku niemiecki okręt podwodny UB-29 storpedował bez ostrzeżenia w kanale La Manche francuski prom pasażerski Sussex, płynący z Folkestone do Dieppe."
+  - "Wybuch oderwał dziób statku, ale Sussex utrzymał się na wodzie i został odholowany do Boulogne. Zginęło co najmniej 50 osób, wśród nich hiszpański kompozytor Enrique Granados z żoną."
+  - "Żaden Amerykanin nie zginął, ale kilku zostało rannych. Atak wywołał najpoważniejszy od czasów Lusitanii kryzys w stosunkach amerykańsko-niemieckich."
+  - "18 kwietnia Stany Zjednoczone zagroziły zerwaniem stosunków dyplomatycznych. 4 maja Berlin ustąpił i złożył „przyrzeczenie Sussex”, że nie będzie zatapiać statków handlowych bez ostrzeżenia."
 ---
 
 24 marca 1916 roku, około trzeciej po południu, niemiecki okręt podwodny [UB-29](https://pl.wikipedia.org/wiki/SM_UB-29) storpedował bez ostrzeżenia w kanale [La Manche](https://pl.wikipedia.org/wiki/La_Manche) statek pasażerski Sussex, płynący z [Folkestone](https://pl.wikipedia.org/wiki/Folkestone) do [Dieppe](https://pl.wikipedia.org/wiki/Dieppe_(Francja)). Wybuch oderwał dziób statku, ale Sussex utrzymał się na wodzie i został odholowany do [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer). Zginęło co najmniej 50 osób, według niektórych szacunków nawet 80–100. Brytyjska chronologia wojny nazywa Sussex statkiem brytyjskim, ale prom należał od 1914 roku do francuskich kolei państwowych i pływał pod banderą francuską. Wśród rannych byli obywatele Stanów Zjednoczonych i ten atak wywołał najpoważniejszy od czasów [Lusitanii](/zatopienie-lusitanii) kryzys w stosunkach amerykańsko-niemieckich.

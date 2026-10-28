@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Eberhard von Claer]
 result: German defensive victory. The British took Loos and a salient up to about 3 kilometres deep, but did not break the German second position and lost more than twice as many men as the defenders.
 source: bitwa-pod-loos
-sourceHash: 3d259056d2f919772028ad9ad9a4fd9d216c97da
+sourceHash: c140df1f0df6c97e8a38a1dd8f0d2090b27eec37
+brief:
+  - "From 25 September to 8 October 1915 General Douglas Haig's British First Army attacked at Loos, north of Lens. It was the largest British offensive of 1915 and part of the great Allied autumn offensive."
+  - "Neither French nor Haig wanted to fight on the flat ground of the coalfield, but Joffre and Foch insisted. Short of guns and shells, the British used chlorine on a large scale for the first time."
+  - "On the first day they took Loos, Hill 70 and the Hohenzollern Redoubt, as New Army divisions went into a great battle for the first time. Field Marshal John French's reserves, however, stood far behind the front."
+  - "On 26 September the inexperienced 21st and 24th Divisions attacked the intact German second position and were shattered within a few hours. The Germans later recaptured Fosse 8 and the Hohenzollern Redoubt."
+  - "The battle cost the British more than 50,000 killed, wounded and missing. The dispute over the reserves led French to step down in December 1915, and Haig took over command."
 ---
 
 The Battle of [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle) was the largest British offensive of 1915 and the British part of the great Allied autumn offensive on the Western Front. On 25 September 1915 six divisions of General [Douglas Haig](/postacie/douglas-haig)'s First Army went into the attack in the coalfield north of [Lens](https://pl.wikipedia.org/wiki/Lens), behind a cloud of chlorine released from more than 5,000 cylinders. It was the first time the British had used poison gas on such a scale and the first time they had thrown divisions of the New Armies, the volunteers recruited by Lord Kitchener in 1914, into a great battle. On the first day they took the village of Loos, Hill 70 and the Hohenzollern Redoubt and in several places went through the whole German first position. The reserves that were to exploit this success, however, stood far behind the front. When on the following day two inexperienced divisions attacked the second position, they were shattered within a few hours. The fighting dragged on into October and cost the British about 50,000 men. The dispute over who was to blame cost the commander of the British Expeditionary Force, Field Marshal [John French](/postacie/john-french), his post.

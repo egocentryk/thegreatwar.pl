@@ -8,6 +8,11 @@ dayOrder: 11
 tags: [wypowiedzenie wojny, Wielka Brytania, Niemcy, Edward Grey]
 milestone: true
 draft: false
+brief:
+  - "4 sierpnia 1914 roku o godzinie 23 czasu londyńskiego upłynął termin brytyjskiego ultimatum. Berlin nie zapewnił, że uszanuje neutralność Belgii, i Wielka Brytania znalazła się w stanie wojny z Niemcami."
+  - "Bezpośrednim powodem była Belgia, której neutralność Wielka Brytania gwarantowała od 1839 roku. Edward Grey i większość rządu obawiali się też dominacji Niemiec na kontynencie i zagrożenia ze strony ich floty."
+  - "Do wojny przystąpiło całe Imperium brytyjskie, w tym Kanada, Australia, Nowa Zelandia, Związek Południowej Afryki i Indie Brytyjskie. Flota stała już na pozycjach wojennych, a Grand Fleet dowodził adm. John Jellicoe."
+  - "Wraz z przystąpieniem Wielkiej Brytanii i jej imperium konflikt nabrał wymiaru światowego. Większość ludzi spodziewała się końca wojny przed Bożym Narodzeniem, a trwała ponad cztery lata."
 ---
 
 4 sierpnia 1914 roku o godzinie 23 czasu londyńskiego, czyli o północy w Berlinie, upłynął termin brytyjskiego ultimatum wobec Niemiec. Berlin nie zapewnił, że uszanuje neutralność Belgii, a jego wojska od rana posuwały się w głąb belgijskiego terytorium. Od tej chwili [Wielka Brytania](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) znajdowała się w stanie wojny z [Niemcami](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie).

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Australia, Imperium Osmańskie, Dardanele]
 milestone: true
 draft: false
+brief:
+  - "25 kwietnia 1915 roku o świcie wojska sprzymierzonych zaczęły lądować na półwyspie Gallipoli. Był to pierwszy dzień wielomiesięcznej bitwy o Gallipoli."
+  - "Pięć tygodni po tym, jak tureckie miny i forty odparły flotę, gen. Ian Hamilton próbował zdobyć brzegi Dardaneli siłami lądowymi. Liman von Sanders skupił tureckie dywizje w głębi lądu."
+  - "Australijczycy i Nowozelandczycy wylądowali w zatoce nazwanej później zatoką Anzac, ale kontratak dywizji ppłk. Mustafy Kemala zepchnął ich z wysuniętych pozycji na wąski przyczółek."
+  - "Brytyjska 29 Dywizja lądowała na pięciu plażach wokół przylądka Helles. Na plażach V i W tureckie karabiny maszynowe zadały ogromne straty, a celów pierwszego dnia nie osiągnięto."
+  - "Sprzymierzeni utrzymali się w kilku miejscach wybrzeża, ale nie zdobyli żadnego z głównych celów. Dzień 25 kwietnia stał się w Australii i Nowej Zelandii świętem narodowym, Anzac Day."
 ---
 
 25 kwietnia 1915 roku, o świcie, wojska sprzymierzonych zaczęły lądować na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). Pięć tygodni po tym, jak [tureckie miny i forty odparły flotę](/atak-floty-w-dardanelach-odparty), generał [Ian Hamilton](/postacie/ian-hamilton) próbował zdobyć brzegi [Dardaneli](https://pl.wikipedia.org/wiki/Dardanele) siłami lądowymi. Brytyjska 29 Dywizja wylądowała na pięciu plażach wokół przylądka Helles, na południowym krańcu półwyspu. Australijczycy i Nowozelandczycy zeszli na ląd około dwudziestu kilometrów dalej na północ, na zachodnim wybrzeżu. Francuzi wysadzili oddział na azjatyckim brzegu cieśniny, pod Kum Kale, a okręty z Dywizją Marynarki pozorowały desant u nasady półwyspu, pod Bulair. Był to pierwszy dzień wielomiesięcznej [bitwy o Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli).

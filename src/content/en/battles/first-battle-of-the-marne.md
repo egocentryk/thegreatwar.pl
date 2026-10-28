@@ -11,7 +11,13 @@ sides:
     commanders: [Helmuth von Moltke, Alexander von Kluck, Karl von Bülow]
 result: Strategic victory for France and the United Kingdom. The Germans withdrew to the Aisne and the plan for a quick defeat of France collapsed.
 source: pierwsza-bitwa-nad-marna
-sourceHash: 7cbdf4c0ca9eafb79c1f99af9f37697f62a26dcf
+sourceHash: 675cb6c6c083409b6a451eb4a4578c67e06cbc48
+brief:
+  - "The First Battle of the Marne, fought on 6–12 September 1914 on a front from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. Nearly two million soldiers fought in it."
+  - "After two weeks of Allied retreat General Kluck turned to pass east of Paris and exposed his flank. General Joffre ordered a general counter-offensive, and Maunoury's Sixth Army struck on the Ourcq."
+  - "Kluck moved corps to the Ourcq, opening a gap between his 1st Army and Bülow's 2nd Army. The British and the left wing of the French Fifth Army advanced into it, while Foch's Ninth Army held the centre."
+  - "On 9 September, after the mission of Lieutenant Colonel Richard Hentsch, the German armies began to withdraw. By 12–13 September they had fallen back to the Aisne and dug in there."
+  - "The German plan for a quick defeat of France collapsed, and Germany was condemned to a long war on two fronts. The French called the battle the \"Miracle of the Marne\"."
 ---
 
 The [First Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), fought in September 1914 on a front some 200 kilometres long, from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. After two weeks of retreat, the French armies and the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) went over to the counter-offensive and forced the German armies to fall back to the Aisne. The German plan to defeat France in a few weeks collapsed, and the war in the west changed its character.

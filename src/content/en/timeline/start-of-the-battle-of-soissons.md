@@ -2,7 +2,12 @@
 title: Start of the battle of Soissons
 summary: On 8 January 1915 the French attacked German trenches on the heights above the Aisne north of Soissons. Moroccan tirailleurs took Hill 132 in minutes.
 source: poczatek-bitwy-pod-soissons
-sourceHash: ba06105a171b25657b8ff56c0e0ac64cb7166d7a
+sourceHash: 5cd901ff8d612584d6c069b44412e7cf0124e46b
+brief:
+  - "On 8 January 1915 French infantry attacked the German trenches on the heights above the village of Crouy, a few kilometres north of Soissons. So began the Battle of Soissons."
+  - "The French held a narrow bridgehead on the northern bank of the Aisne, overlooked by the Germans from the crest of the plateau. General Maunoury ordered General Henri Berthelot to take Hill 132."
+  - "A short bombardment opened only four gaps in the wire, but Moroccan tirailleurs and chasseurs à pied took Hill 132 and two lines of German trenches within a few minutes."
+  - "The French did not know that the Germans were preparing an attack here themselves. General von Lochow's III Corps decided to retake the heights, while the swollen Aisne threatened the bridges supplying the French."
 ---
 
 On 8 January 1915 French infantry attacked the German trenches on the heights above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy), a few kilometres north of [Soissons](https://pl.wikipedia.org/wiki/Soissons). On the first day the attack was a complete success: Moroccan tirailleurs and chasseurs à pied took Hill 132 and two lines of German trenches within a few minutes. So began the Battle of Soissons, called by the French the Battle of Crouy, which was to last a week and end quite differently from the way it began.

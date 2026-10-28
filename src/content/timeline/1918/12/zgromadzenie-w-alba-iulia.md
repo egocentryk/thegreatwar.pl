@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Rumunia, Siedmiogród, Austro-Węgry]
 milestone: true
 draft: false
+brief:
+  - "1 grudnia 1918 roku w Alba Iulia 1228 delegatów Wielkiego Zgromadzenia Narodowego jednogłośnie uchwaliło zjednoczenie Rumunów z Siedmiogrodu, Banatu i innych ziem węgierskich z Rumunią."
+  - "Rumuni stanowili większość mieszkańców tych ziem, ale mieli w Budapeszcie zaledwie kilku posłów. Gdy monarchia się rozpadała, Rada Narodowa odrzuciła w Aradzie propozycję federacji Oszkára Jásziego."
+  - "Uchwała zapowiadała tymczasową autonomię oraz pełną wolność narodową dla wszystkich narodów, powszechne głosowanie dla obu płci i radykalną reformę rolną. Pod miastem zebrał się wielotysięczny tłum."
+  - "Następnego dnia wybrano Radę Dyrektorską z Iuliu Maniu na czele, a król Ferdynand zatwierdził unię dekretem z 24 grudnia. Większą część kraju kontrolowały jednak jeszcze władze węgierskie."
+  - "Zgromadzenie zamknęło rok, w którym do Rumunii przyłączyły się Besarabia, Bukowina i Siedmiogród. Granicę z Węgrami ustalił traktat w Trianon, a od 1990 roku 1 grudnia jest świętem narodowym Rumunii."
 ---
 
 1 grudnia 1918 roku (18 listopada według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia) w [Alba Iulia](https://pl.wikipedia.org/wiki/Alba_Iulia) zebrało się Wielkie Zgromadzenie Narodowe Rumunów z [Siedmiogrodu](https://pl.wikipedia.org/wiki/Siedmiogród), [Banatu](https://pl.wikipedia.org/wiki/Banat_(kraina)) i innych ziem węgierskich. 1228 delegatów jednogłośnie uchwaliło „zjednoczenie tych Rumunów i wszystkich zamieszkanych przez nich terytoriów z Rumunią”. Pod miastem zebrał się wielotysięczny tłum, według ówczesnych relacji i rumuńskich opracowań około stu tysięcy ludzi. Brytyjska chronologia wojny notuje pod tym dniem, że zgromadzenie Rumunów z Siedmiogrodu, Banatu i innych okręgów Węgier ogłosiło unię z Rumunią. Tego samego dnia król [Ferdynand I](/postacie/ferdynand-i-rumunski) [uroczyście wjechał](/rzad-rumunski-wraca-do-bukaresztu) do wyzwolonego Bukaresztu.

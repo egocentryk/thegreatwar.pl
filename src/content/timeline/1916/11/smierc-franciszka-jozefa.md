@@ -8,6 +8,12 @@ dayOrder: 4
 tags: [Austro-Węgry, Franciszek Józef I, Karol I Habsburg, Galicja]
 milestone: true
 draft: false
+brief:
+  - "21 listopada 1916 roku wieczorem w pałacu Schönbrunn zmarł 86-letni cesarz Austrii i król Węgier Franciszek Józef I, który panował od 2 grudnia 1848 roku, a więc prawie 68 lat."
+  - "Cesarz, chory na zapalenie płuc, do ostatniego dnia czytał raporty i przyjmował interesantów, a dla większości poddanych był jedynym monarchą, jakiego znali."
+  - "Zostawił państwo w złym stanie: armie rozbite przez ofensywę Brusiłowa, rosnącą zależność od Niemiec, brak chleba i węgla w miastach oraz sparaliżowane życie polityczne."
+  - "Tego samego wieczoru tron objął z mocy prawa 29-letni arcyksiążę Karol, wnuk brata cesarza, który od początku był przekonany, że monarchia musi jak najszybciej wyjść z wojny."
+  - "Za jego panowania Galicja uzyskała szeroką autonomię, a Polacy zajmowali najwyższe urzędy w państwie. Monarchia przetrwała cesarza niespełna dwa lata i rozpadła się jesienią 1918 roku."
 ---
 
 21 listopada 1916 roku wieczorem w [pałacu Schönbrunn](https://pl.wikipedia.org/wiki/Pałac_Schönbrunn) pod Wiedniem zmarł cesarz Austrii i król Węgier [Franciszek Józef I](/postacie/franciszek-jozef-i). Miał 86 lat i panował od 2 grudnia 1848 roku, a więc prawie 68 lat, dłużej niż którykolwiek inny władca z dynastii Habsburgów. Dla większości jego poddanych był jedynym monarchą, jakiego kiedykolwiek znali. Odszedł w trzecim roku wojny, którą sam wypowiedział Serbii latem 1914 roku i której końca nie było widać. Tego samego wieczoru cesarzem i królem został z mocy prawa 29-letni arcyksiążę [Karol](/postacie/karol-i-habsburg), wnuk jego brata.

@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Pierwszego dnia front niemiecki pękł na s
 authors: [Łukasz Skowroń]
 tags: [Australia, Kanada, Niemcy, czołgi]
 milestone: true
+brief:
+  - "Od 8 do 11 sierpnia 1918 roku brytyjska 4 Armia gen. Henry'ego Rawlinsona, z Korpusem Kanadyjskim i Australijskim, oraz francuska 1 Armia gen. Debeneya uderzyły na niemiecką 2 Armię na wschód od Amiens."
+  - "Natarcie miało uwolnić Amiens i linię kolejową Paryż–Amiens. Przygotowano je w ścisłej tajemnicy: Kanadyjczyków przerzucono nocą, a podstępem odwracano uwagę Niemców ku Flandrii i Arras."
+  - "8 sierpnia o 4.20, we mgle i bez wcześniejszego ostrzału, piechota ruszyła z ponad czterystoma czołgami bojowymi. Do wieczora sprzymierzeni posunęli się w środku o 12–13 kilometrów i wzięli około 15 tysięcy jeńców."
+  - "Od 9 sierpnia opór rósł, a czołgów ubywało. Na pasie starych okopów z 1916 roku natarcie słabło i 11 sierpnia Haig je wstrzymał. Sprzymierzeni wzięli w bitwie 29 873 jeńców."
+  - "Ludendorff nazwał 8 sierpnia „czarnym dniem armii niemieckiej” i uznał, że o nowej ofensywie nie można już myśleć. Bitwa otworzyła ofensywę stu dni, w której sprzymierzeni nie zatrzymali się aż do rozejmu."
 ---
 
 Bitwa pod Amiens była pierwszą wielką ofensywą sprzymierzonych latem 1918 roku poza Marną i jedną z najważniejszych bitew całej wojny. Rankiem 8 sierpnia 1918 roku brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), w której główną siłę stanowiły Korpus Kanadyjski i Korpus Australijski, uderzyła we mgle, bez wcześniejszego przygotowania artyleryjskiego, z ponad czterystoma czołgami bojowymi, na niemiecką 2 Armię na wschód od [Amiens](https://pl.wikipedia.org/wiki/Amiens). Na jej prawym skrzydle nacierała francuska 1 Armia generała Marie-Eugène'a Debeneya. Niemcy zostali całkowicie zaskoczeni. Do wieczora sprzymierzeni posunęli się w środku o 12–13 kilometrów i wzięli około 15 tysięcy jeńców. Generał [Erich Ludendorff](/postacie/erich-ludendorff) nazwał później 8 sierpnia „czarnym dniem armii niemieckiej w historii tej wojny”. W kolejnych dniach natarcie słabło, a 11 sierpnia marszałek [Douglas Haig](/postacie/douglas-haig) je wstrzymał. Bitwa pod Amiens otworzyła serię zwycięstw sprzymierzonych, nazwaną później [ofensywą stu dni](https://pl.wikipedia.org/wiki/Ofensywa_stu_dni).

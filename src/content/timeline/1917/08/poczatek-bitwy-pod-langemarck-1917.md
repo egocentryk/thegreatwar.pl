@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, Irlandia]
 milestone: true
 draft: false
+brief:
+  - "16 sierpnia 1917 roku brytyjska 5 Armia i francuski I Korpus ruszyły do drugiego wielkiego natarcia trzeciej bitwy pod Ypres, po dwóch tygodniach deszczu i kilku odroczeniach."
+  - "Na północy 20 (Lekka) Dywizja zdobyła ruiny Langemarck, a Francuzi przyczółek Drie Grachten. Nowofundlandczycy z 29 Dywizji doszli do ostatniego celu."
+  - "W centrum wyczerpane dywizje irlandzkie, 16 i 36, natrafiły na nietknięte umocnione farmy pod Frezenberg. Niemieckie przeciwnatarcie wybiło albo wzięło do niewoli ich wysunięte grupy."
+  - "Na płaskowyżu Gheluvelt powtórzył się scenariusz z 31 lipca: niemieckie kontrataki zepchnęły Brytyjczyków niemal na pozycje wyjściowe, a Niemcy wciąż panowali nad całym łukiem Ypres."
+  - "Robin Prior i Trevor Wilson szacują straty 5 Armii z tego dnia na około 15 tysięcy ludzi. Francuzi stracili zaledwie kilkaset, a w 5 Armii zaczęło się szukanie winnych."
 ---
 
 16 sierpnia 1917 roku o 4.45 nad ranem, po dwóch tygodniach deszczu i kilku odroczeniach, brytyjska 5 Armia i francuski I Korpus ruszyły do drugiego wielkiego natarcia [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Na froncie od drogi z [Ypres](https://pl.wikipedia.org/wiki/Ieper) do Menin po zalane łąki nad IJzer, osiem dywizji brytyjskich i dwie francuskie poszły za wałem ogniowym przez błoto, w którym jeszcze dwa dni wcześniej grzęzły działa. Wieczorem bilans był podwójny. Na północy Brytyjczycy zdobyli ruiny wsi [Langemarck](https://pl.wikipedia.org/wiki/Langemark), a Francuzi przyczółek Drie Grachten. W centrum i na południu niemieckie przeciwnatarcia zepchnęły nacierających niemal tam, skąd wyszli, a dwie dywizje irlandzkie straciły w kilka godzin tysiące ludzi.

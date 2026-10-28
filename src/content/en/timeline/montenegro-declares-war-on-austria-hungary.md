@@ -2,7 +2,12 @@
 title: Montenegro declares war on Austria-Hungary
 summary: On 5 August 1914 Montenegro declared war on Austria-Hungary, siding with Serbia. Guns on Mount Lovćen threatened the fleet base at Kotor.
 source: czarnogora-wypowiada-wojne-austro-wegrom
-sourceHash: 373053c0ec08b9940f8ffdbfe63a86b3b21ec6d0
+sourceHash: e95de60d4949def7b87ebfda7418f42b23b94b67
+brief:
+  - "On 5 August 1914, according to contemporary chronicles, Montenegro declared war on Austria-Hungary. Other sources give 6 or 7 August, but all agree it was Serbia's first ally."
+  - "King Nicholas I's Montenegro was bound to Serbia by language, faith and dynastic ties. It ordered mobilisation as early as 26 July, and the Serbian general Božidar Janković became its chief of staff."
+  - "The small, poorly armed army had one asset: guns on Mount Lovćen could shell the Austro-Hungarian fleet base in the Bay of Kotor. In autumn 1914 Montenegrin troops advanced with the Serbs into Herzegovina."
+  - "Montenegro fought on until January 1916, when it capitulated after the fall of Serbia. In November 1918 an assembly in Podgorica deposed Nicholas I and proclaimed union with Serbia."
 ---
 
 On 5 August 1914 the [Kingdom of Montenegro](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) declared war on [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). This is the date given by contemporary chronicles of the war. Other sources give 6 or 7 August, partly because Montenegro was then still using the Julian calendar and news from Cetinje reached Europe with a delay. All sources agree, however, that the small Balkan monarchy entered the war in the first week of August, as Serbia's first ally.

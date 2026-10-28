@@ -2,7 +2,13 @@
 title: Liberia declares war on Germany
 summary: On 4 August 1917 the Liberian Congress unanimously declared war on Germany. The same day the Germans in Monrovia were taken aboard the French cruiser Desaix.
 source: liberia-wypowiada-wojne-niemcom
-sourceHash: d7bd6f8f17bc78b52285cbbc013478f207505a76
+sourceHash: 148466a3147e9c018152daf828a68d64490c6221
+brief:
+  - "On 4 August 1917 the Congress of Liberia unanimously declared war on the German Empire. That same day the German men in Monrovia were taken aboard the French armoured cruiser Desaix."
+  - "Liberia had broken off relations with Germany on 8 May, but the declaration of war got stuck in disputes between the allies. Washington waited for London to promise to lift its restrictions on Liberian trade."
+  - "On 21 July Britain, France and the United States gave Liberia a \"positive assurance\" that they would defend it against German aggression. Washington, however, refused a formal convention."
+  - "Liberia had neither an army nor money and was counting on Washington's protection. On 10 April 1918 the German submarine U-154 shelled Monrovia."
+  - "After the war Liberia signed the Treaty of Versailles and became one of the founding members of the League of Nations. Germany recognised that its treaties with Liberia had lapsed as of 4 August 1917."
 ---
 
 On the morning of 4 August 1917 the French armoured cruiser *Desaix* entered the roadstead of [Monrovia](https://pl.wikipedia.org/wiki/Monrovia). An hour later the Congress of [Liberia](https://pl.wikipedia.org/wiki/Liberia) unanimously passed a joint resolution of both houses declaring war on the German Empire. Before the ship's commander came ashore, Liberian soldiers arrested all the German men in the capital, and at four in the afternoon they were escorted on board. Only the managers of German firms were left behind, to draw up inventories of their property and hand it over to the government. The American minister James L. Curtis cabled Washington the next day that the Liberian soldiers had behaved in exemplary fashion and there had been no disturbances among the population. One of the two independent states of Africa, alongside Ethiopia, had become a belligerent. It could wage war neither on land nor at sea. What mattered was a place at the side of the United States and among the future victors.

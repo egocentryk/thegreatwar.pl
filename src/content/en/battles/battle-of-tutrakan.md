@@ -9,7 +9,13 @@ sides:
     commanders: [Mihail Aslan, Constantin Teodorescu]
 result: Central Powers victory. The fortress fell on 6 September, and two Romanian divisions were almost entirely destroyed or taken prisoner.
 source: bitwa-pod-tutrakanem
-sourceHash: c1cc4c0c2d7efa319e0c7edc18b1871e0f76b4a8
+sourceHash: aa02f7912c33907f9f001d3c774239b4f02cac37
+brief:
+  - "The Battle of Tutrakan lasted from 2 to 6 September 1916. It was the first great battle of the Bulgarian–Romanian war and the first heavy defeat of the Romanian army in the First World War."
+  - "The Danube fortress of Turtucaia was sometimes called \"a second Verdun\", but its garrison had a wide river at its back and no bridge. It was held by the 17th Infantry Division, composed mainly of reservists."
+  - "The Bulgarian 3rd Army of General Stefan Toshev, under Mackensen and supported by a small German detachment, surrounded the fortress. On 5 September the Bulgarians took the southern and eastern part of the main line."
+  - "On 6 September the Romanian counter-attacks collapsed, panic broke out and hundreds of soldiers drowned in the Danube. In the evening the garrison capitulated, and about 28,000 Romanians were taken prisoner."
+  - "The defeat shook Romania: on 9 September the offensive in Transylvania was halted and divisions were sent south. This gave Erich von Falkenhayn time to gather forces for the counter-stroke."
 ---
 
 The Battle of Tutrakan was the first great battle of the Bulgarian–Romanian war and the first heavy defeat of the Romanian army in the First World War. Less than a week after [Romania entered the war](/rumunia-wypowiada-wojne-austro-wegrom), the Bulgarian 3rd Army, supported by a small German detachment, surrounded the Danube fortress of Turtucaia and after two days of assault forced its garrison to capitulate. About 28,000 Romanian soldiers were taken prisoner. The defeat shook Romania and forced its command to move forces from Transylvania to the south, which to a large extent decided the fate of the whole 1916 campaign.

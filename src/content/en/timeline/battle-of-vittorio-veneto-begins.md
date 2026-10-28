@@ -2,7 +2,13 @@
 title: Battle of Vittorio Veneto begins
 summary: On 24 October 1918, the anniversary of Caporetto, the Italians attacked the Grappa. The Austrians held, and the swollen Piave delayed the main crossing.
 source: poczatek-bitwy-pod-vittorio-veneto
-sourceHash: 548cb27cebac26b3c1a81719d97983eadc91ab15
+sourceHash: 201ca6bb826df7e4d428ec1b1b94a65d8537f771
+brief:
+  - "On 24 October 1918, exactly a year after Caporetto, the Italian army began its last offensive. Before dawn thousands of guns opened fire on the Austro-Hungarian positions in the Monte Grappa massif."
+  - "General Armando Diaz's plan put the main blow on the middle Piave, from where the 8th Army was to strike towards Vittorio. General Giardino's 4th Army attack on the Grappa was to pin down the Austrian reserves."
+  - "In cloud and fog the Dual Monarchy's hungry soldiers beat off almost all the assaults on the Grappa. The Italians took only Monte Valderoa and, according to Italian sources, lost more than three thousand men that day."
+  - "Overnight the British 7th Division took the northern part of the island of Grave di Papadopoli, but the Piave, swollen by downpours, prevented the crossing and Diaz postponed the main blow."
+  - "The same day on the Asiago plateau a battalion of the Hungarian 25th Infantry Regiment refused to fight for Austria. It was the first mutiny, a portent of the Austro-Hungarian army's disintegration."
 ---
 
 On 24 October 1918, exactly a year after the Germans and Austrians had broken through the Isonzo front at [Caporetto](/poczatek-bitwy-pod-caporetto), the Italian army began its last offensive. Before dawn thousands of guns opened fire on the Austro-Hungarian positions in the Monte Grappa massif, between the [Brenta](https://pl.wikipedia.org/wiki/Brenta_(rzeka)) and the [Piave](https://pl.wikipedia.org/wiki/Piawa), and in the morning the Italian infantry went in to storm the rocky summits. The first day brought no victory. In cloud and fog, the Dual Monarchy's soldiers, weakened by hunger, beat off almost all the attacks, and the Piave, swollen by downpours, prevented the main thrust from crossing the river. The only success of the day was the British capture of part of the island of Grave di Papadopoli in the middle of the Piave. At the same time, behind the front on the Asiago plateau, the first Hungarian battalion refused to fight for Austria.

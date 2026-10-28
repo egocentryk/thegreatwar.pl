@@ -15,6 +15,12 @@ result: Zwycięstwo Serbii. Serbska kontrofensywa rozbiła armie Potiorka, odzys
 authors: [Łukasz Skowroń]
 tags: [Serbia, Austro-Węgry, Radomir Putnik, Oskar Potiorek]
 milestone: true
+brief:
+  - "Bitwa nad Kolubarą, toczona od 16 listopada do 15 grudnia 1914 roku, była największym starciem na froncie bałkańskim w 1914 roku. Austro-Węgry po raz trzeci wkroczyły wtedy do Serbii."
+  - "Wyczerpana armia serbska, niemal bez pocisków, cofnęła się za Kolubarę i w góry. Gen. Živojin Mišić wycofał 1 Armię, by dać jej odpocząć, a 2 grudnia Potiorek zajął opuszczony Belgrad."
+  - "Serbowie otrzymali amunicję z Francji, Grecji i Rosji, choć francuskie pociski trzeba było przerabiać. 3 grudnia 1 Armia Mišicia zaskoczyła przeciwnika kontrofensywą spod Suvoboru."
+  - "Odwrót Austro-Węgrów zamienił się w ucieczkę. 15 grudnia Serbowie wrócili do Belgradu, a kraj został oczyszczony z wojsk najeźdźcy."
+  - "Zwycięstwo przekreśliło austro-węgierskie plany szybkiego pokonania Serbii, a Potiorek stracił dowództwo. Wycieńczony kraj padł jednak zimą ofiarą epidemii tyfusu plamistego."
 ---
 
 [Bitwa nad Kolubarą](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) była największym starciem na froncie bałkańskim w 1914 roku i jednym z najbardziej niespodziewanych zwycięstw pierwszego roku wojny. W listopadzie wojska [Austro-Węgier](https://pl.wikipedia.org/wiki/Austro-Węgry), po raz trzeci wkraczające do [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii), zepchnęły wyczerpaną armię serbską w głąb kraju i 2 grudnia zajęły opuszczony [Belgrad](https://pl.wikipedia.org/wiki/Belgrad). Gdy w Wiedniu świętowano bliskie zwycięstwo, Serbowie, zaopatrzeni wreszcie w amunicję, przeszli do kontrofensywy. W niecałe dwa tygodnie rozbili armie generała [Oskara Potiorka](/postacie/oskar-potiorek) i wyparli je z całego kraju.

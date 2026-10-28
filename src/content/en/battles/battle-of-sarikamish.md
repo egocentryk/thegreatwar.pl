@@ -9,7 +9,13 @@ sides:
     commanders: [Illarion Vorontsov-Dashkov, Alexander Myshlayevsky, Nikolai Yudenich, Georgy Berkhman]
 result: Decisive Russian victory. The Ottoman 3rd Army lost most of its soldiers, largely to frost and disease. IX Corps was captured, and the Turks long lost the capacity to attack in the Caucasus.
 source: bitwa-pod-sarykamyszem
-sourceHash: 54e16413616d5686b2787c05fd630cbf3f3ea425
+sourceHash: fa2728b1d5aa92cf6c1d293c53997fea71d43b6b
+brief:
+  - "The Battle of Sarikamish, fought from 22 December 1914 to 17 January 1915, was the first great battle on the Caucasus front and one of the greatest defeats in the history of the Ottoman army."
+  - "Enver Pasha wanted to destroy the weakened Russian Caucasus Army and recover Kars, Ardahan and Batumi. When the 3rd Army's commander judged a winter offensive impracticable, Enver took command himself."
+  - "IX and X Corps were to cross the snowbound mountains into the Russian rear at Sarikamish. Soldiers without winter uniforms froze to death by the thousand on the way, and the town was not taken."
+  - "General Nikolai Yudenich counter-attacked and encircled the remnants of IX Corps, which capitulated on 4 January. The Turkish General Staff estimated the 3rd Army's losses at about 60,000 men."
+  - "The Ottoman authorities shifted part of the blame onto the Armenians, part of the background to the Armenian genocide. A Russian request for relief also became one of the impulses for the attack on the Dardanelles."
 ---
 
 The Battle of Sarikamish (Turkish: Sarıkamış) was the first great battle on the Caucasus front and one of the greatest defeats in the history of the Ottoman army. At the turn of 1914 and 1915 the Minister of War, [Enver Pasha](/postacie/enver-pasza), led the Ottoman 3rd Army on a winter march through the mountains to outflank the Russian troops on the border and take [Sarikamish](https://pl.wikipedia.org/wiki/Sarıkamış), a railway station on the road to the fortress of [Kars](https://pl.wikipedia.org/wiki/Kars). The plan was bold, but it took no account of conditions. Soldiers without winter uniforms or supplies marched over passes in deep snow and frost, freezing to death by the thousand along the way. When they reached Sarikamish there were too few of them to break the defence. A Russian counter-attack encircled the remnants of two corps, and of an army numbering some 90,000 men in December only some fifteen thousand fit for combat remained after a few weeks.

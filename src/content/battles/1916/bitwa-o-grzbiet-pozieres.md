@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie okupione ogromnymi stratami. Australijczycy zdoby
 authors: [Łukasz Skowroń]
 tags: [Australia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Pozières, toczona od 23 lipca do 3 września 1916 roku w ramach bitwy nad Sommą, była dla Australijczyków najcięższą próbą całej I wojny światowej."
+  - "Gen. Gough, dowódca Armii Rezerwowej, dostał I Korpus ANZAC, by zdobyć wieś Pozières przy drodze Albert–Bapaume, którą Brytyjczycy przez trzy tygodnie na próżno atakowali."
+  - "W nocy na 23 lipca 1 Dywizja Australijska zdobyła wieś, a 4 sierpnia 2 Dywizja Australijska wywalczyła szczyt grzbietu z ruinami wiatraka i utrzymała go mimo niemieckich kontrataków."
+  - "Trzy dywizje australijskie na zmianę posuwały się potem wąskim klinem ku farmie Mouquet, by zajść od tyłu Thiepval, ale farmy nie zdobyły."
+  - "I Korpus ANZAC stracił około 23 tysięcy zabitych, rannych i zaginionych, a niedobór ochotników skłonił premiera Billy'ego Hughesa do referendum o poborze, które podzieliło Australię."
 ---
 
 Bitwa o grzbiet Pozières była dla Australijczyków najcięższą próbą całej I wojny światowej. Rozegrała się w ramach [bitwy nad Sommą](/bitwy/bitwa-nad-somma), na środku brytyjskiego odcinka frontu, wokół wsi [Pozières](https://pl.wikipedia.org/wiki/Pozières) przy drodze z [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) do [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). W nocy na 23 lipca 1916 roku 1 Dywizja Australijska zdobyła wieś, którą Brytyjczycy przez trzy tygodnie na próżno atakowali. 4 sierpnia 2 Dywizja Australijska wywalczyła szczyt grzbietu z ruinami wiatraka, jeden z najwyższych punktów pola bitwy. Potem trzy dywizje I Korpusu ANZAC na zmianę posuwały się wąskim klinem na północ, ku farmie Mouquet, by zajść od tyłu niemiecką twierdzę Thiepval. Farmy nie zdobyły. Gdy na początku września Kanadyjczycy zluzowali Australijczyków, ci w niespełna siedem tygodni stracili około 23 tysięcy zabitych, rannych i zaginionych. Australijski historyk oficjalny Charles Bean napisał później, że grzbiet Pozières jest „gęściej zasiany australijską ofiarą niż jakiekolwiek inne miejsce na ziemi”.

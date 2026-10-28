@@ -15,6 +15,12 @@ result: Nierozstrzygnięta, strategicznie korzystna dla Francuzów. Niemcy posun
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Erich Ludendorff, czołgi]
 milestone: true
+brief:
+  - "9 czerwca 1918 roku niemiecka 18 Armia gen. Oskara von Hutiera uderzyła między Montdidier a Noyon na francuską 3 Armię gen. Humberta. Była to czwarta wielka niemiecka ofensywa wiosny 1918 roku."
+  - "Natarcie „Gneisenau” miało pomóc występowi nad Marną i wyrównać front, ale pośpiech zdradził Niemców. Francuzi znali dzień i godzinę ataku i zawczasu zgromadzili odwody, czołgi i lotnictwo."
+  - "Pierwszego dnia Niemcy przeszli w centrum około 10 kilometrów, sforsowali Matz i wzięli ponad 8 tysięcy jeńców, a 10 czerwca wyszli nad Oise, około 10 kilometrów od Compiègne."
+  - "11 czerwca gen. Charles Mangin, z pięcioma świeżymi dywizjami i około 140 czołgami, wykonał przygotowany w niecałą dobę kontratak, który odbił Méry i Belloy. Następnego dnia Niemcy przerwali natarcie."
+  - "Niemiecki sposób natarcia przestał zaskakiwać: Hutier nie doszedł do Compiègne ani nie połączył występów. Kontratak Mangina zapowiadał nowy sposób walki, a 18 lipca to on poprowadził uderzenie nad Marną."
 ---
 
 Bitwa nad Matz była czwartą z wielkich niemieckich ofensyw wiosny 1918 roku i pierwszą, którą Francuzi przewidzieli co do dnia i godziny. Po zwycięstwie nad Aisne Niemcy stali nad Marną w głębokim występie, a na zachód od niego, między [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)) a [Noyon](https://pl.wikipedia.org/wiki/Noyon), francuski front wciąż wcinał się klinem między ten występ a drugi, utworzony w marcu nad Sommą. 9 czerwca 1918 roku niemiecka 18 Armia generała [Oskara von Hutiera](/postacie/oskar-von-hutier) uderzyła na ten klin, broniony przez francuską [3 Armię](https://pl.wikipedia.org/wiki/3_Armia_(Francja)) generała Georges'a Humberta. Pierwszego dnia przeszła w centrum około 10 kilometrów i przekroczyła rzekę Matz, drugiego wyszła nad [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). 11 czerwca generał [Charles Mangin](/postacie/charles-mangin) wykonał na jej prawe skrzydło szybki kontratak z udziałem ponad stu czołgów, a następnego dnia niemieckie naczelne dowództwo przerwało natarcie. Do [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), leżącego przed bitwą około 20–25 kilometrów za frontem, Niemcy nie doszli.

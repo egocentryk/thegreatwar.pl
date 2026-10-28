@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: British victory. The Seventeenth Army's attack at Arras took only the forward zone of the British defences and collapsed with heavy losses. Ludendorff abandoned Operations Mars and Walküre and turned his effort towards Amiens and the Lys.
 source: pierwsza-bitwa-pod-arras-1918
-sourceHash: 9521e6627368cc887f564e0c5c41b47fd38647d3
+sourceHash: a6a4bfb5b3964a6ca20800d9f8394fc061cd78b7
+brief:
+  - "The First Battle of Arras was fought on 28 March 1918, the seventh day of Operation Michael. Otto von Below's German Seventeenth Army struck on both sides of the Scarpe in Operation Mars."
+  - "The attack was meant to smash the bastion of Arras, open the way to the north-west and give fresh impetus to an offensive that was clearly flagging on this wing."
+  - "After a bombardment of several hours nine German divisions fell upon four British ones. This time there was no fog, and the defence in depth, with concealed machine guns, had been carefully prepared."
+  - "The Germans took the forward zone, but along the whole front from the Somme to Oppy they were thrown back with enormous losses. In the evening Ludendorff forbade any renewal of the attack."
+  - "It was the first clear defeat of the spring offensive. Ludendorff cancelled the attack Walküre and turned towards Amiens and the Lys, and Arras remained in British hands until the end of the war."
 ---
 
 The First Battle of Arras was an attempt to extend the great German spring offensive northwards, onto the strongest sector of the British front. On the morning of 28 March 1918, Maundy Thursday, the seventh day of [Operation Michael](/bitwy/operacja-michael), General [Otto von Below](/postacie/otto-von-below)'s German Seventeenth Army struck on both sides of the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) at General [Julian Byng](/postacie/julian-byng)'s British Third Army and the right wing of General Henry Horne's First Army. The Germans called this attack Operation Mars. It was meant to smash the bastion of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), open the way to the north-west and give fresh impetus to an offensive that was clearly flagging on this wing. After a bombardment of several hours, similar to that of 21 March, nine German divisions fell upon four British ones. This time, however, there was no fog, and the defence had been carefully prepared. The Germans took the forward zone of the position and in places came up to the main line of resistance, but along the whole front from the Somme to [Oppy](https://pl.wikipedia.org/wiki/Oppy) they were thrown back with enormous losses. In the evening [Erich Ludendorff](/postacie/erich-ludendorff) forbade any renewal of the attack. It was the first clear defeat of the spring offensive.

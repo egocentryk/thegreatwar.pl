@@ -2,7 +2,13 @@
 title: Battle of the Mortagne begins
 summary: On 25 August 1914 the armies of Castelnau and Dubail halted the German drive on the Trouée de Charmes in Lorraine and went over to a counter-offensive.
 source: poczatek-bitwy-nad-mortagne
-sourceHash: 7e1544cdf4e86f1405e09f4e6232b126da74fbb9
+sourceHash: 6f0f552898b5cfb19fdbacb4b48c085249505328
+brief:
+  - "On 25 August 1914 in Lorraine the French Second Army of General Noël de Castelnau and First Army of General Auguste Dubail halted the German attack and counter-attacked. The French call it the battle of the Trouée de Charmes."
+  - "After Morhange the armies of Rupprecht of Bavaria and Heeringen tried to pass through the unfortified gap between Toul and Épinal. At Gerbéviller German soldiers shot, according to various sources, some 50–60 civilians."
+  - "At Rozelieures the Germans came within about 10 kilometres of the Moselle, but were stopped by 75 mm guns near Borville. Castelnau ordered: \"Forward everywhere, with all your strength!\""
+  - "The French could not turn victory into a rout, as the Germans dug in between the Mortagne and the Meurthe. The British chronology gives 3 September as the end of the battle."
+  - "The right wing of the French front stayed intact, so Joffre could move corps from Lorraine to the Paris area ahead of the Battle of the Marne."
 ---
 
 On 25 August 1914 in Lorraine, between the Moselle and the river Mortagne, the decisive day was fought of the battle which the British chronology of the war calls the Battle of the Mortagne and the French the battle of the Trouée de Charmes. The French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and First Army of General [Auguste Dubail](https://pl.wikipedia.org/wiki/Auguste_Dubail) halted the German attack and went over to a counter-attack. While in the north the Allies were falling back before the German right wing, in the east France won one of its first victories.

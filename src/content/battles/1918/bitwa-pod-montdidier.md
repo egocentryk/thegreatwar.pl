@@ -15,6 +15,12 @@ result: Zwycięstwo Francuzów. Odbili Montdidier, odsunęli Niemców od linii k
 authors: [Natalia]
 tags: [Francja, Niemcy, Ferdinand Foch, Erich Ludendorff]
 milestone: true
+brief:
+  - "Bitwa pod Montdidier, toczona 8–15 sierpnia 1918 roku, była francuską częścią wielkiego natarcia na wschód od Amiens, które otworzyło ostatnią fazę wojny na froncie zachodnim."
+  - "Montdidier było od marca wierzchołkiem niemieckiego występu, z którego artyleria ostrzeliwała linię kolejową Paryż–Amiens. Francuska 1 Armia Debeneya, podległa na czas operacji Haigowi, miała obejść miasto i osłonić Brytyjczyków."
+  - "1 Armia ruszyła 8 sierpnia, 45 minut po Brytyjczykach, przeszła Avre i oskrzydliła Montdidier od północy i południa. 10 sierpnia do walki weszła 3 Armia Humberta."
+  - "Niemcy opuścili okrążone miasto w nocy z 9 na 10 sierpnia, a Francuzi weszli do zupełnie zniszczonych ruin. Potem natarcie utknęło na pasie starych okopów z lat 1915–1916, a atak na Roye odwołano."
+  - "Według danych francuskich 1 i 3 Armia wzięły 11 114 żołnierzy i 259 oficerów do niewoli. Bitwa odsunęła Niemców od Amiens i linii kolejowej Paryż–Amiens i otworzyła okres nieprzerwanych natarć sprzymierzonych."
 ---
 
 Bitwa pod Montdidier była francuską częścią wielkiego natarcia, które 8 sierpnia 1918 roku rozpoczęło na wschód od [Amiens](https://pl.wikipedia.org/wiki/Amiens) ostatnią fazę wojny na froncie zachodnim. Gdy brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) przełamywała front między Sommą a drogą do Roye, na jej prawym skrzydle ruszyła francuska 1 Armia generała Marie-Eugène'a Debeneya, oddana na czas operacji pod rozkazy marszałka [Douglasa Haiga](/postacie/douglas-haig). Jej zadaniem było osłonić Brytyjczyków, przejść rzekę [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) i obejść od północy i południa [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)), zdobyte przez Niemców w marcu. 10 sierpnia do walki weszła także sąsiednia 3 Armia generała Georges'a Humberta. Okrążone miasto Niemcy opuścili w nocy z 9 na 10 sierpnia, a Francuzi weszli do zupełnie zniszczonych ruin. Potem natarcie utknęło na pasie starych okopów sprzed 1917 roku, a 15 sierpnia przerwano przygotowania do uderzenia na Roye.

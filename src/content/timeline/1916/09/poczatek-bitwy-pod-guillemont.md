@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Irlandia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "W niedzielę 3 września 1916 roku brytyjska 4 Armia i francuska 6 Armia uderzyły razem nad Sommą. Głównym celem Brytyjczyków była zrujnowana wieś Guillemont."
+  - "Od 23 lipca Brytyjczycy atakowali Guillemont wiele razy bez skutku, bo obrońcy przetrwali ostrzał w głębokich schronach. Haig chciał zdobyć wieś przed wielką ofensywą z udziałem czołgów."
+  - "W południe ruszyły 20 Dywizja (Lekka) i irlandzka 47 Brygada z 16 Dywizji. Szły tuż za zaporą ogniową i przed 15.30 Guillemont było w rękach Brytyjczyków."
+  - "Gdzie indziej się nie udało: natarcie na farmę Falfemont skończyło się klęską, a 7 Dywizję wyparto z Ginchy. Cena była wysoka: 59 Brygada straciła prawie 1400 ludzi, a 47 Brygada ponad tysiąc."
+  - "Zdobycie Guillemont i przełamanie drugiej pozycji na południe od wsi były tej niedzieli jedynymi sukcesami Brytyjczyków nad Sommą. Padła wieś, która przez całe lato blokowała ich prawe skrzydło."
 ---
 
 W niedzielę 3 września 1916 roku brytyjska 4 Armia i francuska 6 Armia uderzyły razem na froncie od [lasu Delville](/bitwy/bitwa-o-las-delville) po [Sommę](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Najważniejszym celem Brytyjczyków była zrujnowana wieś [Guillemont](https://pl.wikipedia.org/wiki/Guillemont) na prawym skrzydle ich frontu nad Sommą. Przez ponad pięć tygodni [bitwy nad Sommą](/bitwy/bitwa-nad-somma) kolejne dywizje wdzierały się do niej i ginęły w jej gruzach. Tym razem w południe ruszyły 20 Dywizja (Lekka) i irlandzka 47 Brygada z 16 Dywizji. Niespełna trzy godziny później stały już za wsią. Tego samego dnia skończyło się jednak klęską natarcie na sąsiednią farmę Falfemont, a 7 Dywizja, która wdarła się do [Ginchy](https://pl.wikipedia.org/wiki/Ginchy), została z niego wyparta. Zdobycie Guillemont i przełamanie drugiej pozycji na południe od wsi były w tę niedzielę jedynymi sukcesami Brytyjczyków nad Sommą.

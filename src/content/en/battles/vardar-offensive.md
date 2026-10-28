@@ -9,7 +9,13 @@ sides:
     commanders: [Georgi Todorov, Friedrich von Scholtz, Kuno von Steuben, Stefan Nerezov]
 result: Allied victory. The Bulgarian front collapsed, the Bulgarian army began to mutiny, and on 29 September Bulgaria signed an armistice and became the first of the Central Powers to leave the war.
 source: ofensywa-nad-wardarem
-sourceHash: b29ecd9f5680a52d00c283d4b2b7ced385385bea
+sourceHash: 80dedd0634bc46ffdc4f0b9ea655918899c228ed
+brief:
+  - "The Vardar offensive lasted from 15 to 29 September 1918. It was the last and only decisive Allied operation on the Salonika front, where the Entente troops had barely moved for almost three years."
+  - "General Franchet d'Espérey adopted the Serbian plan of attacking in the mountains above the Moglena basin, where Bulgarian defences had little depth and the valleys led straight to the Vardar."
+  - "On 15 September the Serbs and French broke through at Dobro Pole. The British and Greek attack at Doiran broke down but tied down the reserves, and Bulgarian units began to mutiny."
+  - "In the pursuit the Allies cut the Bulgarian front in two, and on 29 September French cavalry, after crossing trackless mountains, took Skopje and cut off Fleck's German corps."
+  - "On the evening of 29 September Bulgaria signed an armistice in Salonika, the first of the Central Powers to leave the war. This helped push Germany to seek a suspension of hostilities too."
 ---
 
 The Vardar offensive was the last, and the only decisive, Allied operation on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki). For almost three years the Entente troops in Macedonia had barely moved, and in Paris and London many regarded Salonika as an expensive internment camp. In September 1918 General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) struck where nobody expected it: at the highest mountains on the whole front. On 15 September the Serbs and French broke through the Bulgarian positions at Dobro Pole, and the Serbian armies, the French cavalry, the British, the Greeks and the Italians set off in a pursuit which within two weeks cut the Bulgarian front in two. On 29 September French cavalrymen rode into [Skopje](https://pl.wikipedia.org/wiki/Skopje), and that evening in Salonika Bulgaria signed an armistice. It was the first breach in the bloc of the Central Powers.

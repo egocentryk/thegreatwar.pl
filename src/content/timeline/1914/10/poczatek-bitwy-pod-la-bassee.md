@@ -10,6 +10,11 @@ dayOrder: 3
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, wyścig do morza]
 milestone: true
 draft: false
+brief:
+  - "10 października 1914 roku, według oficjalnej brytyjskiej chronologii, rozpoczęła się bitwa pod La Bassée. Brytyjski II Korpus gen. Horace'a Smith-Dorriena, przerzucony znad Aisne, maszerował w stronę Béthune."
+  - "Na północ od lewego skrzydła francuskiej 10 Armii stały tylko francuska kawaleria i dywizje terytorialne. Foch i marszałek John French uzgodnili w Doullens wspólne natarcie, w którym Brytyjczycy mieli obejść Lille od północy."
+  - "Dzięki francuskim autobusom i forsownemu marszowi dywizje II Korpusu pokonały 10 października około 35 kilometrów. Do walki weszły dopiero po dwóch dniach, kierując się prosto na wschód, w stronę La Bassée."
+  - "13 października Niemcy odbili Givenchy, a II Korpus stracił prawie tysiąc ludzi. Zamiast manewru zaczęły się wielotygodniowe walki o każdą wieś, a Niemcy utrzymali La Bassée aż do jesieni 1918 roku."
 ---
 
 10 października 1914 roku rozpoczęła się, według oficjalnej brytyjskiej chronologii, bitwa pod [La Bassée](https://pl.wikipedia.org/wiki/La_Bassée). Tego dnia brytyjski II Korpus generała Horace'a Smith-Dorriena, świeżo przerzucony znad Aisne, w szybkim marszu zbliżał się do Béthune, by zająć miejsce na lewym skrzydle armii francuskich. W ten sposób Brytyjczycy weszli do ostatniego etapu [wyścigu do morza](/bitwy/wyscig-do-morza), który przez kolejne tygodnie miał się rozstrzygać na równinach francuskiej i belgijskiej Flandrii.

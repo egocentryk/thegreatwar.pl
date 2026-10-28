@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Niemcy stracili rejon Kilimandżaro z Tavetą i 
 authors: [Łukasz Skowroń]
 tags: [Niemiecka Afryka Wschodnia, Związek Południowej Afryki, Paul von Lettow-Vorbeck, Brytyjska Afryka Wschodnia]
 milestone: true
+brief:
+  - "Ofensywa kilimandżarska, od 5 do 21 marca 1916 roku, była pierwszą wielką operacją generała porucznika Jana Smutsa w Afryce Wschodniej i pierwszym poważnym brytyjskim natarciem w głąb Niemieckiej Afryki Wschodniej."
+  - "Rejon Kilimandżaro z plantacjami i koleją do Moshi był najważniejszym punktem frontu, a Niemcy trzymali od sierpnia 1914 roku przygraniczną Tavetę. Smuts chciał uderzyć przed porą deszczową."
+  - "Plan przewidywał zbieżne natarcie z dwóch stron: 1 Dywizja Stewarta obchodziła górę od zachodu, a od wschodu nacierały wojska Tighe'a i konnica van Deventera. Celem było okrążenie sił Lettow-Vorbecka."
+  - "Brytyjczycy zajęli Salaitę i Tavetę, po ciężkich walkach pod Latema Nek zmusili Niemców do odwrotu, a 14 marca weszli do opuszczonego Moshi. 1 Dywizja nadeszła za późno, by zamknąć okrążenie."
+  - "Niemcy stracili najcenniejszy zakątek kolonii i odtąd byli w defensywie, ale po starciu pod Kahe 21 marca Lettow-Vorbeck wycofał się w porządku na południe. Jego siły nie zostały rozbite."
 ---
 
 Ofensywa kilimandżarska była pierwszą wielką operacją generała porucznika [Jana Smutsa](/postacie/jan-smuts) w Afryce Wschodniej i pierwszym od początku wojny poważnym brytyjskim natarciem w głąb [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). W ciągu niespełna trzech tygodni marca 1916 roku wojska brytyjskie, południowoafrykańskie i indyjskie wyparły Niemców z ich pozycji u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro), odzyskały okupowaną od sierpnia 1914 roku Tavetę i zajęły Moshi, końcową stację kolei biegnącej od wybrzeża. Smuts liczył na to, że dzięki zbieżnemu natarciu z dwóch stron okrąży i rozbije główne siły dowódcy niemieckich wojsk kolonialnych, [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). To się nie udało: Niemcy po kilku zaciętych potyczkach wycofali się na południe, a wkrótce potem zaczęła się pora deszczowa.

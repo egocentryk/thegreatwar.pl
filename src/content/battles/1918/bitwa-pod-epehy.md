@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Australijczycy zdobyli w centrum wszystkie cele,
 authors: [Natalia]
 tags: [Wielka Brytania, Australia, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa pod Épehy rozpoczęła się 18 września 1918 roku o 5.20 rano: brytyjska 4 Armia Rawlinsona i V Korpus z 3 Armii Bynga uderzyły w deszczu i mgle na froncie długim na około 27 kilometrów."
+  - "Celem były zewnętrzne pozycje niemieckie przed kanałem Saint-Quentin, w dużej części dawne okopy brytyjskie utracone w marcu. Było to drugie, po Havrincourt, natarcie wstępne przed szturmem na Linię Hindenburga."
+  - "Rawlinson postawił na zaskoczenie: bez wstępnego ostrzału, z 1488 działami otwierającymi ogień w godzinie zero i tylko 20 czołgami, bo resztę oszczędzano na szturm głównej linii."
+  - "W centrum dwie dywizje australijskie generała Monasha zdobyły wszystkie cele, a na skrzydłach, pod Ronssoy, Épehy i przed Saint-Quentin, walczono do nocy i nie wszędzie doszło się do wyznaczonych linii."
+  - "W jeden dzień Brytyjczycy i Australijczycy wzięli ponad 9 tysięcy jeńców i podeszli na odległość szturmu do Linii Hindenburga. Bitwa pokazała, że Niemcy nie potrafią już utrzymać nawet silnie umocnionych pozycji."
 ---
 
 Bitwa pod [Épehy](https://pl.wikipedia.org/wiki/Épehy) była drugim, po [bitwie pod Havrincourt](/bitwy/bitwa-pod-havrincourt), natarciem wstępnym przed wielkim szturmem na Linię Hindenburga. 18 września 1918 roku o 5.20 rano, w deszczu i mgle, trzy korpusy brytyjskiej 4 Armii generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) i V Korpus z 3 Armii generała [Juliana Bynga](/postacie/julian-byng) uderzyły na froncie długim na około 27 kilometrów, od Holnon pod Saint-Quentin po Gouzeaucourt. Ich celem były zewnętrzne pozycje niemieckie na grzbiecie przed kanałem Saint-Quentin, w dużej części dawne okopy brytyjskie, utracone w marcu na początku [operacji Michael](/bitwy/operacja-michael). W centrum dwie dywizje australijskie generała [Johna Monasha](/postacie/john-monash) zdobyły wszystkie cele i wzięły ponad 4 tysiące jeńców. Na skrzydłach, przy umocnionych wsiach Ronssoy, Épehy i przed Saint-Quentin, walczono do nocy i nie wszędzie doszło się do wyznaczonych linii. Mimo to w jeden dzień Brytyjczycy i Australijczycy wzięli ponad 9 tysięcy jeńców i podeszli na odległość szturmu do głównej pozycji niemieckiej.

@@ -9,7 +9,13 @@ sides:
     commanders: [Friedrich Kress von Kressenstein, İsmet Bey]
 result: British victory. Beersheba and most of its wells fell into British hands the same day. The British took almost 2,000 prisoners and 15 guns.
 source: bitwa-pod-beer-szewa
-sourceHash: 218566924e210d68f096fcd542bae76afceb067c
+sourceHash: 34226cd36a094150cffc21821ce3eb1a9e5fc000
+brief:
+  - "The Battle of Beersheba, fought on 31 October 1917, opened General Edmund Allenby's autumn offensive in Palestine and broke the six-month deadlock on the Gaza – Beersheba line."
+  - "Allenby decided to turn the Turkish line from the east. Water was the key: the army could fight on only if the town fell on the first day and its wells were captured intact."
+  - "The XX Corps infantry took the western trenches in the morning, but in the east the mounted troops fought for the hill of Tel el Saba until 3 p.m., and Beersheba was still in Turkish hands."
+  - "At dusk the 4th and 12th Regiments of the Australian 4th Light Horse Brigade galloped across the open plain, jumped the Turkish trenches and burst into the town before the defenders could blow up the wells."
+  - "The capture of Beersheba opened the way to turning the Turkish line: on 7 November the Turks abandoned Gaza, and on 9 December Jerusalem surrendered. In Australia the charge became a legend."
 ---
 
 The Battle of Beersheba opened General [Edmund Allenby's](/postacie/edmund-allenby) autumn offensive in Palestine and broke the six-month deadlock on the Gaza – [Beersheba](https://pl.wikipedia.org/wiki/Beer_Szewa) line. On 31 October 1917 two British infantry divisions attacked the town from the west, and two mounted divisions, after a night march across the desert, from the east. In the morning the infantry took the trenches on the western approaches, but the cavalry fought for the hill of Tel el Saba until the afternoon, and the day was drawing to a close. The town, and above all its wells, had to be taken before dark, because without water the horses could not go on fighting. At dusk two regiments of the Australian [Light Horse](https://pl.wikipedia.org/wiki/Australian_Light_Horse) from the 4th Brigade galloped across about 6 kilometres of open plain, jumped the Turkish trenches and burst into Beersheba before the defenders could blow up the wells. The charge at Beersheba became one of the most famous episodes in the history of the Australian army.

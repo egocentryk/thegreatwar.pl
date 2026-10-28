@@ -11,7 +11,13 @@ sides:
     commanders: [Erich von Falkenhayn, "Albrecht, Duke of Württemberg", "Rupprecht, Crown Prince of Bavaria", Max von Fabeck]
 result: Allied defensive victory. The Germans failed to break the front and did not reach the Channel ports. A salient formed around Ypres and was held until 1918.
 source: pierwsza-bitwa-pod-ypres
-sourceHash: 7f2e6b3bc154518a863dfeefc1ca5afacc85f35f
+sourceHash: b86a4fa023e091f8b7a0905996f78c7b4c2cedcd
+brief:
+  - "The First Battle of Ypres, fought from 19 October to 22 November 1914, was the last and largest battle of the race to the sea. Allied and German offensives collided in it."
+  - "The Allies wanted to turn the Germans' northern flank, while General Falkenhayn threw into Flanders a new Fourth Army, made up largely of volunteers, to break the front and reach the Channel ports."
+  - "The Germans attacked almost without pause for five weeks. They came closest to a breakthrough at Gheluvelt on 31 October and at Nonne Bosschen on 11 November, but counter-attacks closed the gaps."
+  - "The British Expeditionary Force and the arriving French corps held Ypres. Around the town formed the Ypres Salient, where for the next four years some of the bloodiest fighting of the war took place."
+  - "The battle closed the race to the sea and began trench warfare in the west. The old regular British army all but ceased to exist: from August to the end of November it lost almost 90,000 men."
 ---
 
 The [First Battle of Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), fought from 19 October to 22 November 1914, was the last and largest battle of the [race to the sea](/bitwy/wyscig-do-morza). Two offensives collided at the old Flemish town of [Ypres](https://pl.wikipedia.org/wiki/Ieper). The Allies wanted to advance eastwards and turn the Germans' northern flank, while the Germans, who had moved into Flanders a new army made up largely of volunteers, intended to break the front and reach the Channel ports. For five weeks the Germans attacked almost without pause, first to the north and east of the town, then to the south-east. Several times they came close to a breakthrough, but the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) and the arriving French corps held the line. Ypres stayed in Allied hands, and the regular British army that had set out for France in August all but ceased to exist.

@@ -10,6 +10,11 @@ dayOrder: 5
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Francja, wyścig do morza]
 milestone: true
 draft: false
+brief:
+  - "13 października 1914 roku brytyjski III Korpus gen. Williama Pulteneya ruszył do natarcia spod Hazebrouck i pod wsią Meteren natrafił na okopanych Niemców. Tym starciem brytyjska nomenklatura rozpoczyna bitwę pod Armentières."
+  - "III Korpus był ostatnim korpusem Brytyjskiego Korpusu Ekspedycyjnego przeniesionym do Flandrii znad Aisne. Wraz z kawalerią Allenby'ego miał posuwać się na wschód i przejść na północ od Lille."
+  - "Natarcie ruszyło dopiero około 14, w deszczu i mgle, a artyleria niewiele mogła pomóc. Dopiero po zmroku 10 Brygada zdobyła Meteren, a III Korpus stracił tego dnia 708 zabitych, rannych i zaginionych."
+  - "Wśród ciężko rannych był porucznik Bernard Montgomery. W nocy Niemcy wycofali się za Lys, a Brytyjczycy weszli 14 października do Bailleul i trzy dni później do Armentières, gdzie natarcie wkrótce się zatrzymało."
 ---
 
 13 października 1914 roku brytyjski III Korpus generała Williama Pulteneya ruszył do natarcia spod [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) we francuskiej Flandrii. Pod wsią [Méteren](https://pl.wikipedia.org/wiki/Méteren) natrafił na okopanych Niemców i dopiero po zmroku, po całym dniu walki w deszczu i mgle, zdobył ich pozycję. Tym starciem brytyjska nomenklatura rozpoczyna bitwę pod Armentières, w której III Korpus przez kolejne trzy tygodnie walczył w dolinie rzeki [Lys](https://pl.wikipedia.org/wiki/Leie).

@@ -2,7 +2,13 @@
 title: Second Battle of the Marne begins
 summary: On 15 July 1918 the Germans attacked either side of Reims. In Champagne they broke against Gouraud's defence; on the Marne they crossed at Dormans and stalled.
 source: poczatek-drugiej-bitwy-nad-marna
-sourceHash: d3793911845c97fc1a46f4cd8ca1c5e1e2bf91bf
+sourceHash: 023e79f69563bcfa8f87f2288e509d9eb47948be
+brief:
+  - "A few minutes after midnight on 15 July 1918 the German artillery opened fire on both sides of Reims. The fifth and last great German offensive of the year, called a \"peace offensive\", was beginning."
+  - "Ludendorff wanted to cut off Reims and draw the Allied reserves south before striking in Flanders. The secret was not kept: on 14 July the French took 27 prisoners and learned the hour of the bombardment."
+  - "East of Reims General Henri Gouraud left only a handful of volunteers in the forward trenches and fought on the intermediate position. The German bombardment fell on empty trenches and the attack failed completely."
+  - "West of Reims the Germans crossed the Marne on both sides of Dormans but stalled about five kilometres beyond it. The American 3rd Division gave up nothing, earning the nickname \"Rock of the Marne\"."
+  - "Foch refused to let the preparations for Mangin's counter-offensive be halted. The Germans soon broke off the attack, and three days after it began the initiative on the Western Front passed to the Allies."
 ---
 
 On 15 July 1918, a few minutes after midnight, thousands of German guns opened fire along a front more than 100 kilometres long, from near Château-Thierry on the Marne to the hills of Champagne east of Reims. The fifth and last great German offensive of the year was beginning. General [Erich Ludendorff](/postacie/erich-ludendorff) wanted to break the French front on both sides of [Reims](https://pl.wikipedia.org/wiki/Reims), cut off the city and draw the Allied reserves south before striking at the British in Flanders. The soldiers were told that this would be a "peace offensive" (*Friedensturm*) that would end the war. This time, however, the French knew the day and even the hour of the attack. East of Reims the German divisions broke against a defence that had drawn back before their blow, and west of the city, although they crossed the [Marne](https://pl.wikipedia.org/wiki/Marna), they stalled after a few kilometres. By evening the French command could consider that the worst was over.

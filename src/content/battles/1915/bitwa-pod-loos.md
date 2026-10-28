@@ -15,6 +15,12 @@ result: Niemieckie zwycięstwo obronne. Brytyjczycy zdobyli Loos i klin o głęb
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna, Douglas Haig]
 milestone: true
+brief:
+  - "Od 25 września do 8 października 1915 roku brytyjska 1 Armia generała Douglasa Haiga nacierała pod Loos, na północ od Lens. Była to największa brytyjska ofensywa 1915 roku i część jesiennego natarcia aliantów."
+  - "Ani French, ani Haig nie chcieli bić się na płaskim terenie zagłębia węglowego, ale nalegali na to Joffre i Foch. Z braku dział i pocisków Brytyjczycy po raz pierwszy użyli chloru na dużą skalę."
+  - "Pierwszego dnia zdobyli Loos, wzgórze 70 i Redutę Hohenzollernów, a dywizje Nowych Armii po raz pierwszy poszły do wielkiej bitwy. Odwody marszałka Johna Frencha stały jednak daleko za frontem."
+  - "26 września niedoświadczone 21 i 24 Dywizja uderzyły na nienaruszoną drugą pozycję niemiecką i zostały rozbite w kilka godzin. Niemcy odbili potem Fosse 8 i Redutę Hohenzollernów."
+  - "Bitwa kosztowała Brytyjczyków ponad 50 tysięcy zabitych, rannych i zaginionych. Spór o odwody doprowadził w grudniu 1915 roku do ustąpienia Frencha, a dowództwo objął Haig."
 ---
 
 Bitwa pod [Loos](https://pl.wikipedia.org/wiki/Loos-en-Gohelle) była największą brytyjską ofensywą 1915 roku i brytyjską częścią wielkiego jesiennego natarcia aliantów na froncie zachodnim. 25 września 1915 roku sześć dywizji 1 Armii generała [Douglasa Haiga](/postacie/douglas-haig) ruszyło do ataku w zagłębiu węglowym na północ od [Lens](https://pl.wikipedia.org/wiki/Lens), za chmurą chloru wypuszczonego z ponad 5 tysięcy butli. Brytyjczycy po raz pierwszy użyli gazu bojowego na tak dużą skalę i po raz pierwszy rzucili do wielkiej bitwy dywizje Nowych Armii, czyli ochotników zwerbowanych przez lorda Kitchenera w 1914 roku. Pierwszego dnia zdobyli wieś Loos, wzgórze 70 i Redutę Hohenzollernów i w kilku miejscach przeszli przez całą pierwszą pozycję niemiecką. Odwody, które miały wykorzystać ten sukces, stały jednak daleko za frontem. Gdy następnego dnia dwie niedoświadczone dywizje uderzyły na drugą pozycję, zostały rozbite w kilka godzin. Walki ciągnęły się do października i kosztowały Brytyjczyków około 50 tysięcy ludzi. Spór o to, kto zawinił, kosztował stanowisko dowódcę Brytyjskiego Korpusu Ekspedycyjnego, marszałka [Johna Frencha](/postacie/john-french).

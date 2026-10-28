@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Front bułgarski rozpadł się, armia bułg
 authors: [Łukasz Skowroń]
 tags: [Serbia, Francja, Bułgaria, Louis Franchet d'Espérey]
 milestone: true
+brief:
+  - "Ofensywa nad Wardarem trwała od 15 do 29 września 1918 roku. Była ostatnią i jedyną rozstrzygającą operacją sprzymierzonych na froncie salonickim, gdzie przez prawie trzy lata stali niemal w miejscu."
+  - "Gen. Franchet d’Espérey przyjął serbski plan uderzenia w górach nad kotliną Meglena, gdzie bułgarskie umocnienia miały małą głębokość, a doliny prowadziły prosto ku Wardarowi."
+  - "15 września Serbowie i Francuzi przełamali front pod Dobrym Polem. Natarcie Brytyjczyków i Greków pod Dojranem się załamało, ale związało odwody, a bułgarskie oddziały zaczęły się buntować."
+  - "W pościgu sprzymierzeni rozcięli bułgarski front na dwie części, a 29 września francuska kawaleria po marszu przez bezdroża zajęła Skopje i odcięła niemiecki korpus Flecka."
+  - "Wieczorem 29 września Bułgaria podpisała w Salonikach rozejm i jako pierwsze z państw centralnych wyszła z wojny. Przyczyniło się to do decyzji Niemiec, by szukać zawieszenia broni."
 ---
 
 Ofensywa nad Wardarem była ostatnią i jedyną rozstrzygającą operacją sprzymierzonych na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). Przez prawie trzy lata wojska Ententy stały w Macedonii niemal w miejscu, a w Paryżu i Londynie wielu uważało Saloniki za kosztowny obóz internowania. We wrześniu 1918 roku generał [Louis Franchet d’Espérey](/postacie/louis-franchet-d-esperey) uderzył tam, gdzie nikt się nie spodziewał: na najwyższe góry na całym froncie. 15 września Serbowie i Francuzi przełamali bułgarskie pozycje pod Dobrym Polem, a armie serbskie, francuska kawaleria, Brytyjczycy, Grecy i Włosi ruszyli w pościg, który w dwa tygodnie rozciął bułgarski front na dwie części. 29 września francuscy kawalerzyści wjechali do [Skopje](https://pl.wikipedia.org/wiki/Skopje), a wieczorem tego dnia w Salonikach Bułgaria podpisała rozejm. Był to pierwszy wyłom w bloku państw centralnych.

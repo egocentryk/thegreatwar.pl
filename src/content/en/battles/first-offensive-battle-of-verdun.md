@@ -9,7 +9,13 @@ sides:
     commanders: [Crown Prince Wilhelm, Ewald von Lochow]
 result: French victory. The French recovered Forts Douaumont and Vaux, the Côte du Poivre and Louvemont heights and Bezonvaux, took well over ten thousand prisoners and pushed the Germans several kilometres back from the city.
 source: pierwsza-ofensywna-bitwa-pod-verdun
-sourceHash: 32b569804b93c784a49a5bf478473f64bbca6bc1
+sourceHash: 0d3bce71c3d07d1937e5e2af7d922fb72ead5d88
+brief:
+  - "From 24 October to 18 December 1916 the French under Generals Robert Nivelle and Charles Mangin counter-attacked at Verdun, bringing the eight-month battle on the right bank of the Meuse to a close."
+  - "The attack was carefully prepared: regiments practised advancing behind a creeping barrage, and on 23 October two 400 mm railway howitzers pierced the roofs of Fort Douaumont and drove its garrison out."
+  - "On 24 October three divisions advanced in fog and within a few hours recovered Fort Douaumont, Douaumont village and the Thiaumont works. On 2 November the Germans abandoned the wrecked Fort Vaux."
+  - "On 15 December Mangin struck with four divisions and by 18 December had driven the Germans off the Louvemont and Côte du Poivre heights and out of Bezonvaux, pushing the front several kilometres from Verdun."
+  - "In the two attacks the French took well over ten thousand prisoners. The success made Nivelle commander-in-chief in place of Joffre, but his offensive of 1917 ended in heavy losses."
 ---
 
 The First Offensive Battle of Verdun was the autumn counter-offensive with which the French brought the [Battle of Verdun](/bitwy/bitwa-pod-verdun) to a close. After eight months on the defensive, Generals [Robert Nivelle](/postacie/robert-nivelle), commander of the 2nd Army, and [Charles Mangin](/postacie/charles-mangin), commander of the grouping on the right bank of the [Meuse](https://pl.wikipedia.org/wiki/Moza), prepared two carefully planned attacks with limited objectives. On 24 October three divisions, preceded by a bombardment lasting several days in which two heavy 400 mm [railway howitzers](https://pl.wikipedia.org/wiki/Działo_kolejowe) smashed the roofs of Fort Douaumont, advanced in fog behind a creeping barrage. Within a few hours they had recovered the fort, the village of [Douaumont](https://pl.wikipedia.org/wiki/Douaumont) and the Thiaumont works, and with them ground the Germans had been fighting for since February. On 2 November the Germans abandoned the wrecked [Fort Vaux](https://pl.wikipedia.org/wiki/Fort_de_Vaux). On 15 December Mangin struck again, with four divisions, and by 18 December had driven the Germans off the heights of [Louvemont](https://pl.wikipedia.org/wiki/Louvemont-Côte-du-Poivre) and the Côte du Poivre and out of [Bezonvaux](https://pl.wikipedia.org/wiki/Bezonvaux). In the two attacks the French took well over ten thousand prisoners. The success raised Nivelle to the post of commander-in-chief of the French army.

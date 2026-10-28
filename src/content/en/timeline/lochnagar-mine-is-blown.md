@@ -2,7 +2,13 @@
 title: The Lochnagar mine is blown
 summary: At 7.28 a.m. on 1 July 1916 the Lochnagar mine, the largest yet on the Western Front, went up at La Boisselle. The 34th Division's attack still failed.
 source: wybuch-miny-lochnagar
-sourceHash: a49dd48831f1a46ec32a3e862e45155a002a96a3
+sourceHash: bfb93e1cacfdd9717ef21f0bfbcb79e0aa3cc526
+brief:
+  - "On 1 July 1916 at 7.28 a.m., two minutes before zero hour on the first day of the Battle of the Somme, British sappers fired the Lochnagar mine beneath the German trenches south of the village of La Boisselle."
+  - "Tunnelling companies dug a gallery in complete silence under the Schwabenhöhe and loaded 60,000 lb of ammonal. Together with the Y Sap mine these were the largest mines yet detonated on the Western Front."
+  - "The blast left a crater about 82 metres across and destroyed some German dugouts, but the deep dugouts of the 110th Reserve Infantry Regiment survived the bombardment, and the Germans knew the attack was coming."
+  - "Attacking at 7.30, the British 34th Division ran into machine-gun fire and lost 6,380 officers and men, the most of any British division that day. La Boisselle remained in German hands."
+  - "The Lochnagar crater survives to this day. Richard Dunning bought it in 1978, and every year on 1 July a ceremony is held there in honour of the British, French and German soldiers who fell."
 ---
 
 On 1 July 1916 at 7.28 a.m., two minutes before zero hour on [the first day of the Battle of the Somme](/pierwszy-dzien-bitwy-nad-somma), British sappers fired a mine named Lochnagar beneath the German trenches south of the village of La Boisselle. Two charges, together 60,000 lb (about 27 tonnes) of [ammonal](https://pl.wikipedia.org/wiki/Amonal), hurled earth, chalk and German dugouts into the air on the sector the Germans called the Schwabenhöhe. Together with its twin, the Y Sap mine on the other side of the village, these were the largest mines yet detonated on the Western Front. The explosion left a crater that has survived to this day as the [Lochnagar Crater](https://pl.wikipedia.org/wiki/Krater_Lochnagar), one of the most visited memorial sites on the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). The blast, however, did not bring victory. The British 34th Division, attacking here, lost more men that day than any other division, and La Boisselle remained in German hands.

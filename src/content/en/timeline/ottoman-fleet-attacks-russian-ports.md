@@ -2,7 +2,12 @@
 title: Ottoman fleet attacks Russian ports
 summary: On 29 October 1914 Admiral Souchon's Ottoman warships shelled Russian Black Sea ports without a declaration of war. Turkey entered the war.
 source: turecka-flota-atakuje-rosje
-sourceHash: 24d88fd284d963f62551460ff85d38a7df95c865
+sourceHash: 3c955df7c75bba731a5b9cab2887c1ee793f6562
+brief:
+  - "Before dawn on 29 October 1914 Ottoman warships shelled Russian Black Sea ports without a declaration of war: Odessa, Sevastopol, Feodosia and Novorossiysk. The raid was led by the German admiral Wilhelm Souchon."
+  - "The Ottoman Empire had been secretly allied to Germany since August, but Grand Vizier Said Halim Pasha kept delaying entry into the war. Enver Pasha handed Souchon a secret order to attack, unknown to most of the government."
+  - "At Odessa torpedo boats sank the gunboat Donets, Yavuz Sultan Selim, formerly the Goeben, shelled Sevastopol, and Midilli, formerly the Breslau, set dozens of oil tanks alight at Novorossiysk. All the ships returned without loss."
+  - "The raid's military effects were slight but its political effects huge: Russia declared war on Turkey on 2 November, and Britain and France on 5 November, opening new fronts in the Caucasus, Mesopotamia and the Dardanelles."
 ---
 
 Before dawn on 29 October 1914 warships of the [Ottoman Empire](https://pl.wikipedia.org/wiki/Imperium_Osmańskie)'s fleet attacked Russian ports on the [Black Sea](https://pl.wikipedia.org/wiki/Morze_Czarne) without a declaration of war. Within a few hours [Odessa](https://pl.wikipedia.org/wiki/Odessa), [Sevastopol](https://pl.wikipedia.org/wiki/Sewastopol), [Feodosia](https://pl.wikipedia.org/wiki/Teodozja_(miasto)) and [Novorossiysk](https://pl.wikipedia.org/wiki/Noworosyjsk) were shelled. The expedition was commanded by the German admiral [Wilhelm Souchon](https://pl.wikipedia.org/wiki/Wilhelm_Souchon), [commander of the Ottoman fleet since September](/souchon-dowodca-floty-tureckiej), and the most important ships had German crews. The raid lasted a single morning, but it settled that Turkey would enter the war on Germany's side.

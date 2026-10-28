@@ -9,6 +9,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Stany Zjednoczone, okręty podwodne, marynarka handlowa]
 milestone: true
 draft: false
+brief:
+  - "7 maja 1915 roku około 14.10 niemiecki okręt podwodny U-20 storpedował u południowych wybrzeży Irlandii brytyjski liniowiec Lusitania. Statek zatonął w ciągu 18 minut."
+  - "Niemcy od lutego uważali wody wokół Wysp Brytyjskich za strefę wojenną. Ambasada niemiecka ostrzegała w nowojorskich gazetach, że pasażerowie statków brytyjskich płyną na własne ryzyko."
+  - "Kapitanlejtnant Walther Schwieger wystrzelił jedną torpedę, po której nastąpiła druga, silna eksplozja. Jej przyczyna do dziś pozostaje sporna."
+  - "Zginęło prawie 1200 osób, w tym niemal 100 dzieci i ponad stu Amerykanów. Lusitania wiozła amunicję, ale prawo morskie wymagało zapewnienia bezpieczeństwa pasażerom przed zatopieniem statku."
+  - "Zatopienie wywołało najpoważniejszy kryzys w stosunkach Berlina z Waszyngtonem. Stany Zjednoczone nie przystąpiły wtedy do wojny, ale duża część amerykańskiej opinii trwale odwróciła się od Niemiec."
 ---
 
 7 maja 1915 roku około godziny 14.10 niemiecki okręt podwodny [U-20](https://pl.wikipedia.org/wiki/SM_U-20_(1912)) storpedował u południowych wybrzeży [Irlandii](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), kilkanaście mil morskich od przylądka Old Head of Kinsale, brytyjski liniowiec [Lusitania](https://pl.wikipedia.org/wiki/RMS_Lusitania). Jeden z największych i najszybszych statków pasażerskich świata zatonął w ciągu 18 minut. Zginęło prawie 1200 osób, w tym ponad stu obywateli Stanów Zjednoczonych. Zatopienie Lusitanii stało się najgłośniejszym epizodem niemieckiej wojny podwodnej i wywołało najpoważniejszy od początku wojny kryzys w stosunkach Berlina z Waszyngtonem.

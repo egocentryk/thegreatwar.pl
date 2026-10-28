@@ -2,7 +2,13 @@
 title: Proclamation of the Kingdom of Serbs, Croats and Slovenes
 summary: On 1 December 1918 in Belgrade Regent Alexander received the Zagreb National Council's delegation and proclaimed the Kingdom of Serbs, Croats and Slovenes.
 source: proklamacja-krolestwa-shs
-sourceHash: bf2310793c310b26d327ec729a8789a780652f8f
+sourceHash: 7fb7fc050419676eda1e62af10295a5523022f37
+brief:
+  - "On the evening of 1 December 1918 in Belgrade Regent Alexander received the delegation of the Zagreb National Council and, in the name of King Peter I, proclaimed the Kingdom of Serbs, Croats and Slovenes."
+  - "The State of SHS, proclaimed in Zagreb on 29 October, was in a hopeless position after a month: nobody had recognised it, it had no effective army, and the Italians were occupying Istria, Rijeka and part of Dalmatia."
+  - "Persuaded by Svetozar Pribićević, the delegation set aside the Zagreb instructions with the conditions of union, and the wishes in the address read by Ante Pavelić were merely requests, without guarantees."
+  - "The mood in Croatia was hostile: on 5 December shooting broke out on Jelačić Square in Zagreb with soldiers cheering for a republic, and according to the official report 13 people were killed."
+  - "The union was achieved without any agreement on the form of the state. The Serb–Croat dispute over centralism or federation became the main axis of Yugoslav politics until the fall of the kingdom in 1941."
 ---
 
 On the evening of 1 December 1918 in [Belgrade](https://pl.wikipedia.org/wiki/Belgrad), the Regent of Serbia, [Alexander](/postacie/aleksander-i-karadziordziewic), received a delegation of the National Council from Zagreb, listened to its address and, in the name of his father, King [Peter I](/postacie/piotr-i-karadziordziewic), proclaimed the union of Serbia with the lands of the State of Slovenes, Croats and Serbs in a single [Kingdom of Serbs, Croats and Slovenes](https://pl.wikipedia.org/wiki/Królestwo_Serbów,_Chorwatów_i_Słoweńców). Thus the first common state of the South Slavs came into being, known for short as the Kingdom of SHS and, from 1929, officially as the [Kingdom of Yugoslavia](https://pl.wikipedia.org/wiki/Królestwo_Jugosławii). The union, however, was achieved without any agreement on how the new state was to be organised, and this unspoken question weighed on it throughout the interwar period.

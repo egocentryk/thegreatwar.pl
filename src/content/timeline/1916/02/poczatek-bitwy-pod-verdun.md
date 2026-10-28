@@ -10,6 +10,12 @@ dayOrder: 5
 tags: [Francja, Niemcy, Erich von Falkenhayn, Joseph Joffre]
 milestone: true
 draft: false
+brief:
+  - "Rankiem 21 lutego 1916 roku ponad 1200 niemieckich dział otworzyło ogień na francuskie pozycje na północ od Verdun. Zaczęła się bitwa, która z przerwami trwała do grudnia 1916 roku."
+  - "Falkenhayn pisał po wojnie, że chciał „wykrwawić” Francję, ale część historyków uważa tę wersję za późniejszą. Verdun leżało w wysuniętym łuku frontu, a jego forty pozbawiono w 1915 roku większości dział."
+  - "Atak 5 Armii następcy tronu Wilhelma, zaplanowany na 12 lutego, opóźniła o ponad tydzień zła pogoda. Ostrzał trwał około dziewięciu godzin, a po południu ruszyła niemiecka piechota."
+  - "W lesie Caures strzelcy podpułkownika Drianta przez prawie dobę opóźniali natarcie, a Driant zginął 22 lutego. W ciągu czterech dni Niemcy przełamali dwie francuskie linie obrony."
+  - "25 lutego Niemcy niemal bez walki weszli do fortu Douaumont, a dowództwo pod Verdun objął gen. Pétain. Bitwa, która miała trwać kilka tygodni, przerodziła się w walkę na wyniszczenie."
 ---
 
 Rankiem 21 lutego 1916 roku niemiecka artyleria otworzyła ogień na francuskie pozycje na północ od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)), starej twierdzy nad [Mozą](https://pl.wikipedia.org/wiki/Moza). Ostrzał z ponad tysiąca dwustu dział trwał cały dzień, a po południu do ataku ruszyła niemiecka piechota. Tak zaczęła się bitwa, która z przerwami trwała do grudnia 1916 roku, pochłonęła setki tysięcy ofiar po obu stronach i stała się dla Francuzów symbolem całej wojny. Pierwsze dni należały do Niemców: w ciągu czterech dób przełamali dwie francuskie linie obrony i stanęli u stóp fortów, a francuskie dowództwo przeżyło jeden z najcięższych kryzysów wojny.

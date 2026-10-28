@@ -15,6 +15,12 @@ result: Zdecydowane zwycięstwo Rosji. Osmańska 3 Armia została rozbita pod K�
 authors: [Natalia]
 tags: [Rosja, Imperium Osmańskie, Kaukaz]
 milestone: true
+brief:
+  - "Ofensywa erzurumska, od 10 stycznia do 16 lutego 1916 roku, była największym zwycięstwem rosyjskiej Armii Kaukaskiej w I wojnie światowej. W środku zimy generał Nikołaj Judenicz zaatakował osmańską 3 Armię."
+  - "Judenicz chciał rozbić 3 Armię, zanim dotrą do niej dywizje uwolnione po ewakuacji Gallipoli. Przygotowania prowadzono w największej tajemnicy, a Turcy spodziewali się spokoju aż do wiosny."
+  - "W bitwie pod Köprüköy, 10–19 stycznia, Rosjanie uderzyli przez zaśnieżony grzbiet Çakırbaba, uważany przez Turków za niedostępny, rozdzielili armię osmańską i odrzucili ją za forty Erzurum."
+  - "11 lutego Rosjanie uderzyli na twierdzę uchodzącą za nie do zdobycia, szturmując forty i obchodząc je przez góry. 16 lutego rano do Erzurum wjechali kozacy, a w samym mieście zdobyto 327 dział."
+  - "Armia osmańska na Kaukazie została rozbita, choć nie udało się jej okrążyć. Upadek Erzurum otworzył Rosjanom drogę w głąb Anatolii, ku Trabzonowi i Erzincanowi."
 ---
 
 Ofensywa erzurumska była największym zwycięstwem rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) w I wojnie światowej. W środku zimy, gdy w górach [Wyżyny Armeńskiej](https://pl.wikipedia.org/wiki/Wyżyna_Armeńska) leżał głęboki śnieg, a Turcy spodziewali się spokoju aż do wiosny, generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz) zaatakował osmańską 3 Armię. W bitwie pod Köprüköy, od 10 do 19 stycznia 1916 roku, przełamał jej umocnione linie i odrzucił ją za forty [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). Po trzech tygodniach przygotowań, 11 lutego, Rosjanie uderzyli na samą twierdzę, uchodzącą za nie do zdobycia. 16 lutego rano kozacy wjechali do miasta. Klęska otworzyła Rosjanom drogę w głąb Anatolii, ku Trabzonowi i Erzincanowi.

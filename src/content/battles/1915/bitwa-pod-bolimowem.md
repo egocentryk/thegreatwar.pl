@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Niemcy zdobyli kilka rosyjskich punktów oporu pod H
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Królestwo Polskie, broń chemiczna]
 milestone: true
+brief:
+  - "Na przełomie stycznia i lutego 1915 roku niemiecka 9 Armia uderzyła nad Rawką pod Bolimowem, około 60 kilometrów na zachód od Warszawy. Była to najcięższa część zimowych walk nad Rawką i Bzurą."
+  - "Natarcie miało związać rosyjskie odwody przed niemiecką ofensywą w Prusach Wschodnich. Mackensen skupił na wąskim odcinku silną artylerię, jakiej front wschodni dotąd nie znał."
+  - "31 stycznia Niemcy wystrzelili około 18 tysięcy pocisków z gazem łzawiącym, po raz pierwszy w tej wojnie używając broni chemicznej na dużą skalę. W mrozie bromek ksylilu prawie nie parował."
+  - "Niemcy zdobyli kilka rosyjskich pozycji, m.in. Wolę Szydłowiecką z ufortyfikowaną gorzelnią. Rosyjskie kontrataki generała Gurki załamywały się z ciężkimi stratami, a około 6 lutego obie strony wstrzymały ataki."
+  - "Bitwa niczego nie rozstrzygnęła, ale niepowodzenie gazu skłoniło niemieckich naukowców do szukania skuteczniejszej metody. W kwietniu 1915 roku pod Ypres użyto chloru wypuszczanego z butli."
 ---
 
 [Bitwa pod Bolimowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Bolimowem), nazywana też bitwą pod Huminem albo pod Wolą Szydłowiecką, była najcięższym epizodem zimowych [walk nad Rawką i Bzurą](/bitwy/walki-nad-rawka-i-bzura). Na przełomie stycznia i lutego 1915 roku niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) uderzyła na wąskim odcinku frontu pod [Bolimowem](https://pl.wikipedia.org/wiki/Bolimów), około 60 kilometrów na zachód od Warszawy. Do historii przeszła przede wszystkim dlatego, że Niemcy po raz pierwszy w tej wojnie użyli tu broni chemicznej na dużą skalę, wystrzeliwując około 18 tysięcy pocisków z gazem łzawiącym. Gaz w mrozie zawiódł. Niemcy zdobyli kilka rosyjskich pozycji, a Rosjanie przez kolejne dni bezskutecznie próbowali je odbić, tracąc dziesiątki tysięcy ludzi.

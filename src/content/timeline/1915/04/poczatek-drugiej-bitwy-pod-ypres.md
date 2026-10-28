@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Niemcy, Francja, Kanada, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "22 kwietnia 1915 roku pod wieczór Niemcy wypuścili pod Ypres chmurę chloru na okopy dwóch francuskich dywizji. Był to pierwszy na froncie zachodnim atak gazem, który miał zabijać, i początek drugiej bitwy pod Ypres."
+  - "Chemik Fritz Haber zaproponował wypuszczenie gazu z butli, by wiatr zaniósł go na okopy przeciwnika. Falkenhayn traktował atak jako próbę nowej broni, a nie jako próbę przełamania frontu."
+  - "Francuscy żołnierze nie mieli żadnej ochrony przed gazem. Front 45 Dywizji (algierskiej) i 87 Dywizji Terytorialnej rozpadł się w ciągu kilkudziesięciu minut, a Niemcy zajęli Langemarck."
+  - "W alianckim froncie otworzyła się wyrwa szeroka na ponad 7 kilometrów. Niemcy zatrzymali się jednak na grzbiecie pod Pilkem, bo nie mieli odwodów, a Kanadyjczycy jeszcze w nocy kontratakowali."
+  - "Współcześni historycy szacują liczbę zabitych przez gaz na 800–1400. Dla aliantów atak był szokiem i złamaniem prawa wojennego, a wkrótce zaczęto szyć pierwsze prowizoryczne maski."
 ---
 
 22 kwietnia 1915 roku, pod wieczór, na północnym skraju łuku frontu wokół [Ypres](https://pl.wikipedia.org/wiki/Ieper) niemieccy saperzy odkręcili zawory kilku tysięcy stalowych butli. Nad ziemią niczyją uniosła się zielonkawożółta chmura [chloru](https://pl.wikipedia.org/wiki/Chlor), którą lekki wiatr zepchnął na okopy dwóch francuskich dywizji. W ciągu godziny ich obrona przestała istnieć, a w alianckim froncie otworzyła się wyrwa szeroka na kilka kilometrów. Był to pierwszy na froncie zachodnim atak gazem bojowym, który miał zabijać, i zarazem początek drugiej bitwy pod Ypres, trwającej do 25 maja.

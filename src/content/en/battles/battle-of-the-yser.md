@@ -9,7 +9,13 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Hans von Beseler]
 result: Allied defensive victory. The Germans crossed the Yser and took Diksmuide, but the flooding of the plain stopped them. Belgium kept a strip of territory, held until 1918.
 source: bitwa-nad-yser
-sourceHash: 5279d580055035699149bd6cb998b24876332acc
+sourceHash: 56bb0d8958702528c88a1a8a7a3734d0caaecffb
+brief:
+  - "From 16 October to 10 November 1914 the exhausted Belgian army held the line of the river Yser between Nieuport and Diksmuide against the German Fourth Army. The battle ended the race to the sea."
+  - "After the fall of Antwerp King Albert I decided to stand on the Yser. The Belgians were supported by Rear Admiral Ronarc'h's French naval fusiliers at Diksmuide and by British warships from the sea."
+  - "The Germans crossed the river and pushed the Belgians back behind the Nieuport–Diksmuide railway embankment. On the night of 29–30 October the sluices at Nieuport were opened and seawater began to flood the polders."
+  - "The last great German assault on 30 October failed, and the water forced the Germans back across the Yser. On 10 November they still took Diksmuide, but got no further."
+  - "The Germans did not break through to Dunkirk and Calais. A strip of free Belgium survived until the end of the war, and King Albert became a national hero and a symbol of resistance."
 ---
 
 The [Battle of the Yser](https://pl.wikipedia.org/wiki/Bitwa_nad_Yser) was the final act of the [race to the sea](/bitwy/wyscig-do-morza). In the second half of October 1914 the exhausted Belgian army, which had slipped out of Antwerp a few days earlier, held the line of the small river [Yser](https://pl.wikipedia.org/wiki/IJzer) between [Nieuport](https://pl.wikipedia.org/wiki/Nieuwpoort_(Belgia)) and [Diksmuide](https://pl.wikipedia.org/wiki/Diksmuide) against the new German Fourth Army. It was supported by French naval fusiliers and, from the sea, by British warships. After two weeks of fighting, with the Germans already across the river, the Belgians opened the sluices at Nieuport and let the sea onto the low-lying plain. The flooded strip of land halted the advance. On 10 November the Germans still took Diksmuide, the last Allied bridgehead on the eastern bank, but they got no further. The last strip of free Belgium survived until the end of the war.

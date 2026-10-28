@@ -8,6 +8,11 @@ dayOrder: 3
 tags: [Portugalia, Austro-Węgry, wypowiedzenie wojny, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "15 marca 1916 roku Austro-Węgry poszły za Niemcami i zerwały stosunki dyplomatyczne z Portugalią. Brytyjska chronologia wojny notuje pod tą datą także austro-węgierskie wypowiedzenie wojny."
+  - "Źródła z epoki, m.in. depesza amerykańskiego posła w Lizbonie, mówią tylko o zerwaniu stosunków. Wszystko wskazuje na to, że Wiedeń nie wręczył osobnej deklaracji, a stan wojny wynikał z wojny Niemiec z Portugalią."
+  - "Dwuprzymierze nie zobowiązywało Austro-Węgier do wojny z każdym wrogiem Niemiec, ale coraz bardziej zależny od Berlina Wiedeń nie mógł utrzymywać zwykłych stosunków z Portugalią. Lizbona zarekwirowała też dwa jego statki."
+  - "Nowy stan wojny miał niewielkie znaczenie praktyczne, bo oba kraje nie miały wspólnej granicy. Dał jednak Portugalii miejsce wśród państw, które zawierały pokój z Austrią i Węgrami."
 ---
 
 15 marca 1916 roku [Portugalia](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) znalazła się w stanie wojny także z [Austro-Węgrami](https://pl.wikipedia.org/wiki/Austro-Węgry). Brytyjska chronologia wojny notuje pod tą datą dwa wydarzenia: [zerwanie przez Wiedeń stosunków dyplomatycznych z Lizboną](/austro-wegry-zrywaja-stosunki-z-portugalia) i austro-węgierskie wypowiedzenie wojny. Tę samą datę podaje większość późniejszych zestawień wypowiedzeń wojny z lat 1914–1918.

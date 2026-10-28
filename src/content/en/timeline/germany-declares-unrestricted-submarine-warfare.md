@@ -2,7 +2,13 @@
 title: Germany declares unrestricted submarine warfare
 summary: On 31 January 1917 Germany told the USA that from the next day its U-boats would sink all ships around the British Isles without warning.
 source: niemcy-oglaszaja-nieograniczona-wojne-podwodna
-sourceHash: 786a9b2fb616cb886e39bf4b579ead1b0741fa8e
+sourceHash: 7e83b876aca98924ddd8f776f0649bbfc5738310
+brief:
+  - "On 31 January 1917 Ambassador Johann Heinrich von Bernstorff informed the USA that from 1 February German U-boats would sink without warning every ship in zones around Great Britain, France and Italy."
+  - "Admiral Henning von Holtzendorff calculated that sinking 600,000 tons a month would force Great Britain to make peace before the harvest. Hindenburg and Ludendorff no longer believed in victory on land."
+  - "Chancellor Bethmann Hollweg asked for a delay, but on 9 January at Pless he no longer put up a real fight. Kaiser Wilhelm II ordered unrestricted submarine warfare to begin on 1 February."
+  - "Hindenburg reckoned with the possibility of war with the United States. On 3 February Wilson broke off diplomatic relations with Germany, and on 6 April 1917 the United States declared war on Germany."
+  - "In April U-boats sank over 860,000 tons, the most of the whole war, but Great Britain did not capitulate before the harvest. Instead, submarine warfare brought the United States Army to the Western Front."
 ---
 
 On the afternoon of 31 January 1917 the German Ambassador in Washington, Count [Johann Heinrich von Bernstorff](/postacie/johann-heinrich-von-bernstorff), handed Secretary of State [Robert Lansing](/postacie/robert-lansing) a note from his government with two memoranda. In it Germany announced that from 1 February, in zones around Great Britain, France and Italy and in the eastern Mediterranean, it would stop "with every available weapon" all shipping, including that of neutral states. Every ship met in these zones was to be sunk without warning. On the same day the American Ambassador in Berlin, James W. Gerard, received an identical message, and Austria-Hungary announced a similar blockade zone around Italy. Germany was abandoning, at a few hours' notice, the undertakings it had given after the [crisis caused by the sinking of the *Sussex*](/nota-usa-w-sprawie-sussexa). Unrestricted submarine warfare was beginning, as the German navy had demanded for two years and the Supreme Army Command for half a year.

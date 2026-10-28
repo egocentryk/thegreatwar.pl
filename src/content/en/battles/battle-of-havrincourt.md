@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: British victory. The 62nd Division took Havrincourt and the front line of the Hindenburg position, and the 37th Division Trescault. The New Zealanders only partly took the Trescault ridge. German counter-attacks were repulsed.
 source: bitwa-pod-havrincourt
-sourceHash: b998423fb9f09772a3b757c3800d72468bc6eb63
+sourceHash: 839b75e6342931d9ef1cfcbe6c2968b2390d5429
+brief:
+  - "On 12 September 1918 General Julian Byng's British Third Army attacked with three British divisions and the New Zealand Division the ridges near Havrincourt, outposts in front of the Hindenburg Line."
+  - "After the Germans fell back to their positions of before the March offensive, Byng argued that they had to be attacked continuously and proposed seizing the front line of the Hindenburg position as soon as possible."
+  - "The 62nd Division, which had taken Havrincourt in November 1917, passed the village on both sides and recaptured it, and the 37th Division took Trescault. The New Zealanders only partly took the Trescault ridge."
+  - "In the evening the fresh German 20th Division counter-attacked Havrincourt with support from aircraft, but its attack broke down under rifle and artillery fire, and the 62nd Division held the village."
+  - "The battle opened the battles of the Hindenburg Line and gave the British outposts overlooking the main Hindenburg position and jumping-off positions for the attack on the Canal du Nord."
 ---
 
 The Battle of Havrincourt was a small, one-day attack by General [Julian Byng](/postacie/julian-byng)'s British Third Army, but it opened the last great chapter of the war on the Western Front. On 12 September 1918 three British divisions and the New Zealand Division attacked the ridges near the village of [Havrincourt](https://pl.wikipedia.org/wiki/Havrincourt), where the Germans held outposts in front of the Hindenburg Line and in places its front line itself. By evening the British had taken Havrincourt and [Trescault](https://pl.wikipedia.org/wiki/Trescault) and beaten off counter-attacks by fresh German divisions. The British Battles Nomenclature Committee recognised the day as the first of the [battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga), which ended in October with the breaking of the entire German position.

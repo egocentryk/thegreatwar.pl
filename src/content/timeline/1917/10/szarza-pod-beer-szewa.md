@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Australia, Imperium Osmańskie, Wielka Brytania, Nowa Zelandia]
 milestone: true
 draft: false
+brief:
+  - "31 października 1917 roku wojska generała Edmunda Allenby'ego zdobyły Beer Szewę. Był to pierwszy krok trzeciej bitwy o Gazę: zamiast atakować Gazę frontalnie, Allenby obchodził turecką linię od wschodu."
+  - "Miasto musiało paść przed zmrokiem, bo jego studnie jako jedyne w okolicy mogły napoić konie konnicy. Rano piechota XX Korpusu zdobyła tureckie okopy na zachód od miasta."
+  - "Na wschodzie Nowozelandczycy zdobyli wzgórze Tel es-Saba dopiero o 15.00. Do zmroku zostały niespełna dwie godziny, więc generał porucznik Harry Chauvel rzucił do szarży 4 Brygadę Lekkiej Konnicy."
+  - "Około 800 australijskich jeźdźców z bagnetami w dłoniach przeskoczyło tureckie okopy i wpadło do miasta. Tureccy saperzy w większości uciekli, nie wysadziwszy studni."
+  - "Wieczorem Beer Szewa była w rękach Brytyjczyków, a do niewoli trafiło prawie 2 tysiące żołnierzy osmańskich. Turcy, spodziewając się marszu na Hebron i Jerozolimę, zaczęli przerzucać wojska spod Gazy."
 ---
 
 31 października 1917 roku, krótko po zachodzie słońca, według najczęściej podawanych szacunków około 800 jeźdźców australijskiej 4 Brygady [Lekkiej Konnicy](https://pl.wikipedia.org/wiki/Australian_Light_Horse) ruszyło galopem na [Beer Szewę](https://pl.wikipedia.org/wiki/Beer_Szewa), osmańskie miasto na skraju pustyni Negew. Nie mieli szabel, więc trzymali w dłoniach bagnety. Przejechali kilka kilometrów otwartej równiny, przeskoczyli tureckie okopy i w niespełna godzinę od rozkazu byli w mieście. Tureccy saperzy nie zdążyli wysadzić studni, a bez nich cała jesienna ofensywa generała [Edmunda Allenby'ego](/postacie/edmund-allenby) mogła utknąć już pierwszego dnia. Wieczorem Beer Szewa była w rękach Brytyjczyków, a do niewoli trafiło prawie 2 tysiące żołnierzy osmańskich.

@@ -2,7 +2,13 @@
 title: Execution of Edith Cavell
 summary: On 12 October 1915 the Germans shot the British nurse Edith Cavell in Brussels. She had helped Allied soldiers escape from occupied Belgium.
 source: rozstrzelanie-edith-cavell
-sourceHash: 23161cc5213f3613ab25fc22d8be79589f634e2a
+sourceHash: 9bef4034bfbd493fab83242b3ac15120097cae81
+brief:
+  - "At dawn on 12 October 1915 the Germans shot the British nurse Edith Cavell and the Belgian architect Philippe Baucq at Schaerbeek on the outskirts of Brussels."
+  - "Cavell ran a school of nursing in Brussels and belonged to a network that helped Allied soldiers and young Belgians escape from occupied Belgium to the neutral Netherlands."
+  - "Arrested on 5 August, she admitted helping soldiers escape. On 11 October a German court martial sentenced her to death for \"conducting soldiers to the enemy\"."
+  - "Night-time efforts by American diplomats and the Spanish minister to obtain a pardon came to nothing. General Traugott von Sauberzweig refused to accept the plea for mercy."
+  - "The Germans considered the sentence lawful, but critics pointed to the haste of the execution. Her death caused enormous outrage in Britain and the United States, and propaganda made her a symbol of German barbarity."
 ---
 
 At dawn on 12 October 1915, at the Tir National military rifle range in [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek) on the outskirts of [Brussels](https://pl.wikipedia.org/wiki/Bruksela), a German firing squad shot the 49-year-old British nurse [Edith Cavell](https://pl.wikipedia.org/wiki/Edith_Cavell). The Belgian architect Philippe Baucq died with her. A German court martial had sentenced them the previous day for helping Allied soldiers and young Belgians escape from occupied Belgium to the neutral [Netherlands](https://pl.wikipedia.org/wiki/Holandia). Night-time efforts by American diplomats and the Spanish minister to obtain a pardon, or at least a postponement of the execution, came to nothing.

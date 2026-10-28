@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Brytyjski Korpus Ekspedycyjny, Francja, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "18 listopada 1916 roku brytyjska 5 Armia przeprowadziła nad rzeką Ancre, w śnieżnej zamieci, ostatnie natarcie bitwy nad Sommą, trwającej od 1 lipca."
+  - "Kanadyjczycy i Brytyjczycy zdobyli dwa niemieckie okopy na grzbiecie nad Grandcourt, ale na północ od rzeki natarcie się załamało, a następnego dnia deszcz zalał pole bitwy."
+  - "Alianci posunęli się w najdalszym miejscu o około dziesięciu kilometrów, nie przełamali frontu i nie zdobyli Bapaume ani Péronne, a obie strony straciły łącznie ponad milion ludzi."
+  - "Armia brytyjska nauczyła się nad Sommą natarcia za ruchomą zaporą ogniową, a Niemcy po „bitwie materiałowej” przeszli w grudniu 1916 roku do obrony w głębokiej strefie umocnionych punktów."
+  - "Bitwa wywołała w Londynie spór o Haiga, który trwa do dziś: on sam twierdził, że ofensywa odciążyła Verdun i wyniszczyła Niemców, krytycy widzieli w niej rzeź."
 ---
 
 18 listopada 1916 roku brytyjska 5 Armia przeprowadziła nad rzeką Ancre ostatnie natarcie bitwy nad Sommą. W nocy spadł pierwszy śnieg tej zimy, a atak ruszył o świcie w śnieżnej zamieci, która potem przeszła w ulewny deszcz. Kanadyjczycy i Brytyjczycy zdobyli na grzbiecie nad Grandcourt dwa nowe niemieckie okopy, ale na północ od rzeki natarcie znów się załamało. Następnego dnia deszcz zalał pole bitwy i żadna ze stron nie była już w stanie walczyć dalej. Tak skończyła się, po czterech i pół miesiącach, bitwa, która zaczęła się [1 lipca](/pierwszy-dzien-bitwy-nad-somma) najkrwawszym dniem w dziejach armii brytyjskiej. Alianci posunęli się w najdalszym miejscu o około dziesięciu kilometrów, nie przełamali frontu i nie zdobyli żadnego z miast, które miały paść w pierwszych dniach ofensywy. Obie strony straciły łącznie ponad milion ludzi.

@@ -9,7 +9,13 @@ sides:
     commanders: [Erich von Falkenhayn, Fritz von Below, Fritz von Loßberg]
 result: Partial Allied success. North of the Albert–Bapaume road the attack collapsed, but south of it the British and French took the German first position and closed up to the second.
 source: bitwa-pod-albert-1916
-sourceHash: 7134751d26bbb5d6b4d296ef0434dfe05b97f7b4
+sourceHash: d5686e98aa373ef565d6e343d608f66977ea9743
+brief:
+  - "The Battle of Albert is the British name for the first two weeks of the Battle of the Somme, from 1 to 13 July 1916. It began with the disaster of the first day, when the Fourth Army lost more than 57,000 men."
+  - "North of the Albert–Bapaume road the attack collapsed under machine-gun fire, but south of it the British and French broke through the German first position. Haig shifted his further effort there."
+  - "In rain and mud division after division fought for La Boisselle, Contalmaison and Mametz Wood, where the Welsh 38th Division lost nearly 4,000 men. Trônes Wood was still not entirely taken on 14 July."
+  - "From 2 to 13 July the Fourth Army lost about 25,000 men, and more than 80,000 in the battle as a whole. The German official history gives German losses from 1 to 10 July as more than 40,000."
+  - "The battle brought no breakthrough, but the Allies closed up to the German second position. After the failed assault on Fort Souville on 11 July, Falkenhayn ordered strict defence at Verdun and began taking artillery away."
 ---
 
 The Battle of Albert is the British name for the first two weeks of the [Battle of the Somme](/bitwy/bitwa-nad-somma), from 1 to 13 July 1916. It began with the disaster of the first day, when the British Fourth Army lost more than 57,000 men and took almost nothing north of the road from [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) to Bapaume. South of that road, however, the British and French broke through the German first position. In the days that followed the British command abandoned the attack on the northern sector and shifted its effort to where it had succeeded. For almost two weeks, in rain and mud, division after division fought for the ruined villages of La Boisselle and [Contalmaison](https://pl.wikipedia.org/wiki/Contalmaison) and the dense Mametz and Trônes Woods, which screened the German second position on the Longueval – Bazentin ridge. By the time the attack on that ridge began on 14 July, the British had suffered another 25,000 killed, wounded and missing, and the Germans had begun moving divisions and guns from [Verdun](/bitwy/bitwa-pod-verdun) to the Somme.

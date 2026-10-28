@@ -19,6 +19,12 @@ result: Nierozstrzygnięta, z przewagą Niemców. Zajęli północną i wschodni
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Brytyjski Korpus Ekspedycyjny, Kanada, broń chemiczna]
 milestone: true
+brief:
+  - "Druga bitwa pod Ypres, stoczona od 22 kwietnia do 25 maja 1915 roku, była jedyną wielką ofensywą niemiecką na froncie zachodnim w 1915 roku. Niemcy po raz pierwszy na zachodzie użyli w niej gazu bojowego na dużą skalę."
+  - "Falkenhayn chciał związać aliantów na zachodzie i wypróbować nową broń. 22 kwietnia chmura chloru rozbiła dwie francuskie dywizje, ale Niemcy nie mieli odwodów, by wykorzystać wyrwę."
+  - "Wyrwę zamknęli w pośpiechu Kanadyjczycy, Brytyjczycy i Francuzi, płacąc ogromne straty. W kolejnych tygodniach Niemcy, wspierani przez ciężką artylerię i nowe chmury gazu, krok po kroku spychali aliantów w głąb łuku."
+  - "Według brytyjskiej historii oficjalnej armia brytyjska straciła od 22 kwietnia do 31 maja 59 275 ludzi, a Niemcy według Reichsarchivu 34 933. Smith-Dorrien stracił dowództwo 2 Armii."
+  - "Front przesunął się o kilka kilometrów bliżej Ypres, ale zrujnowane miasto pozostało w rękach aliantów. Bitwa zapoczątkowała wojnę chemiczną na froncie zachodnim."
 ---
 
 Druga bitwa pod Ypres, stoczona od 22 kwietnia do 25 maja 1915 roku, była jedyną wielką ofensywą niemiecką na froncie zachodnim w 1915 roku. Zapamiętano ją przede wszystkim jako bitwę, w której Niemcy po raz pierwszy na zachodzie użyli gazu bojowego na dużą skalę. Chmura [chloru](https://pl.wikipedia.org/wiki/Chlor), wypuszczona 22 kwietnia z tysięcy butli, rozbiła dwie francuskie dywizje i otworzyła wyrwę na północ od [Ypres](https://pl.wikipedia.org/wiki/Ieper). Niemcy, którzy traktowali atak jako próbę nowej broni, nie mieli odwodów, by ją wykorzystać. Wyrwę zamknęli w pośpiechu Kanadyjczycy, Brytyjczycy i Francuzi, płacąc za to ogromne straty. Przez kolejne tygodnie Niemcy, wspierani przez przeważającą ciężką artylerię i kolejne chmury gazu, krok po kroku spychali aliantów w głąb łuku. Gdy bitwa wygasła, front stał o kilka kilometrów bliżej Ypres, ale miasto, choć obrócone w ruinę, pozostało w rękach aliantów.

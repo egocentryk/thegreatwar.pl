@@ -2,7 +2,13 @@
 title: Fighting on the Avre
 summary: On 4 April 1918, in the rain, the Germans struck at Amiens. By evening they were at Villers-Bretonneux, but an Australian counter-attack threw them back.
 source: walki-nad-avre
-sourceHash: db768acdfd53dd16e00e18bedcd555a328057970
+sourceHash: c1414f0851ddcfeab94b76ddeccde14a867326a8
+brief:
+  - "On 4 April 1918 the German 18th and 2nd Armies attacked towards Amiens in the rain on a front about 24 km long, from Grivesnes to the Somme. It was Michael's last attempt with a real chance of success."
+  - "On the Avre General Debeney's French First Army fell back more than 3 km and lost several villages, but in the evening reinforcements arrived and the dent in the front stopped growing."
+  - "In the morning the Australian 35th Battalion beat off the Bavarians, but on the flanks the tired British 14th Division fell back and the commander of its 42nd Brigade was taken prisoner."
+  - "In the afternoon the Germans came within a few hundred metres of Villers-Bretonneux. At about 5.45 p.m. a counter-attack by the Australian 36th Battalion and British battalions threw them back from the town."
+  - "The Germans pushed the Allies back 2–3 km but did not reach the line from which they could bombard the railway junction at Amiens. Ludendorff later wrote that the battle ended on 4 April."
 ---
 
 On 4 April 1918 the Germans tried for the last time during [Operation Michael](/bitwy/operacja-michael) to break through to [Amiens](https://pl.wikipedia.org/wiki/Amiens). After three days of preparation two armies, General [Oskar von Hutier's](/postacie/oskar-von-hutier) 18th Army and General [Georg von der Marwitz's](/postacie/georg-von-der-marwitz) 2nd Army, attacked on a front about 24 km long, from Grivesnes south of [Moreuil](https://pl.wikipedia.org/wiki/Moreuil) to the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). It rained all day. The French on the [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) fell back several kilometres and lost several villages, and the British gave up ground on the Somme. In the afternoon the Germans came within a few hundred metres of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), the last high ground before Amiens. An evening counter-attack by the Australian 36th Battalion and several British battalions threw them back from the town. It was the last day on which the German drive on Amiens had a real chance of success.

@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: German victory. The attack on Passchendaele village and the Bellevue spur was repulsed and almost all the ground gained was given up. In the north the British advanced a little towards Houthulst Forest.
 source: pierwsza-bitwa-pod-passchendaele
-sourceHash: d4b2dbbdc4dace85aa1d07a2cda55e188a7bf825
+sourceHash: 7ea4988c83f2539c3ea1df0c2c9e2d9087429bd5
+brief:
+  - "The First Battle of Passchendaele, fought on 12 October 1917, was the last October attack on the Passchendaele ridge. General Alexander Godley's II Anzac Corps advanced in the rain at 5.25 a.m."
+  - "Haig set the attack only three days after the failure at Poelcappelle. The artillery was stuck in the mud, and in front of the pillboxes on the Bellevue spur ran broad belts of uncut wire."
+  - "The New Zealanders were held up at the wire and within a few hours lost about 2,700 men, including about 845 killed or mortally wounded. It was the most tragic day in New Zealand's history."
+  - "A handful of Australians of the 3rd Division reached the church in Passchendaele, but in the afternoon the division fell back almost to its start line. According to Bean it lost 3,199 men."
+  - "The defeat dashed Haig's hopes of a great victory in Flanders in 1917. The attacks were halted until the weather improved, and the capture of Passchendaele was entrusted to the Canadian Corps."
 ---
 
 The First Battle of Passchendaele was the second and last October attack with which the British command tried to take the Passchendaele ridge before winter brought the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) to an end. On 12 October 1917 at 5.25 a.m., only three days after the failed attack [at Poelcappelle](/bitwy/bitwa-pod-poelcappelle), General Alexander Godley's II Anzac Corps advanced in the rain on the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) and the Bellevue spur. General [John Monash](/postacie/john-monash)'s 3rd Australian Division was to take the village, and General Andrew Russell's New Zealand Division the spur, in front of which stood concrete machine-gun pillboxes protected by broad belts of uncut wire. The artillery, stuck in the mud, provided only a weak and ragged barrage. The New Zealanders were held up in front of the wire and within a few hours lost about 2,700 men, including about 845 killed or mortally wounded. It was the most tragic day in New Zealand's history. A handful of Australians reached the church in Passchendaele, but in the afternoon the whole 3rd Australian Division fell back almost to its start line. After this defeat Field Marshal [Douglas Haig](/postacie/douglas-haig) halted the attacks until the weather improved and entrusted the capture of Passchendaele to the Canadians.

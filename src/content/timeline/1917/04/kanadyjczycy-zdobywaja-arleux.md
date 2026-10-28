@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "28 kwietnia 1917 roku sześć dywizji brytyjskich i kanadyjskich zaatakowało pod Arras na froncie długości około 10 km. Prawie wszędzie natarcie się załamało."
+  - "Było to natarcie pomocnicze: Douglas Haig prowadził dalej bitwę pod Arras, by pomagać Nivelle’owi, którego ofensywa nad Aisne zawiodła. Brytyjskie dywizje, od trzech tygodni w walce, były bardzo osłabione."
+  - "2 Brygada 1 Dywizji Kanadyjskiej w niespełna dwie godziny przeszła przez niemiecką pętlę okopów i zajęła ruiny Arleux-en-Gohelle. Brytyjska historia oficjalna nazwała to „jedynym namacalnym sukcesem całej operacji”."
+  - "Pod Rœux, Gavrelle i Oppy natarcia brytyjskie się załamały, a oddziały, które przedarły się dalej, zostały otoczone albo zepchnięte na pozycje wyjściowe."
+  - "Według kanadyjskiej historii oficjalnej straty Kanadyjczyków zbliżyły się do tysiąca ludzi, a wzięli około 450 jeńców. Zdobyty występ posłużył im za podstawę natarcia na Fresnoy 3 maja."
 ---
 
 28 kwietnia 1917 roku o 4.25 rano Brytyjczycy i Kanadyjczycy po raz kolejny ruszyli do natarcia pod [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Na froncie długości około 10 km, od Monchy-le-Preux nad Scarpe po wieś [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle) u stóp grzbietu Vimy, zaatakowało sześć dywizji. Prawie wszędzie natarcie się załamało. Wyjątkiem była 2 Brygada 1 Dywizji Kanadyjskiej, która w niespełna dwie godziny przeszła przez niemiecką pętlę okopów, zajęła ruiny Arleux i utrzymała je mimo kontrataków. Brytyjska historia oficjalna nazwała to „jedynym namacalnym sukcesem całej operacji”.

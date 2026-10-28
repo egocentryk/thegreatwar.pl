@@ -2,7 +2,13 @@
 title: Start of the Battle of the Selle
 summary: On 17 October 1918 the British Fourth Army, with two American divisions, forced the Selle in fog and by evening had retaken Le Cateau.
 source: poczatek-bitwy-nad-selle
-sourceHash: 01e02401cd686062670295806891204147216f88
+sourceHash: e66decdd091e35f5310d22949d5db685eceba796
+brief:
+  - "At 5.20 a.m. on 17 October 1918 General Henry Rawlinson's British Fourth Army attacked the German position beyond the river Selle, south of Le Cateau. Three corps attacked, among them the American II Corps."
+  - "The Germans had dug in beyond the river on the Hermann Position, which covered the railway junction at Aulnoye. The British expected exhausted opponents but ran into nine divisions, five of them fresh."
+  - "In thick fog the men crossed the river by footbridges. The American 30th and 27th Divisions held the ridge above the valley, while XIII Corps fought hardest around the station and railway triangle at Le Cateau."
+  - "The South African Brigade and battalions of the 198th Brigade cleared the town, and at six in the evening the whole of Le Cateau, except a small suburb, was in British hands."
+  - "The Fourth Army had forced the Selle and broken into the Hermann Position, and between 17 and 19 October took more than 5,100 prisoners and 60 guns. The same day the Germans gave up Douai and abandoned Lille."
 ---
 
 At 5.20 a.m. on 17 October 1918 the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson) attacked the German position beyond the river Selle, south of [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis). Three corps, the British IX and XIII and the American II, crossed the river in thick fog, broke into a new German defensive line called the Hermann Position, and after a day of fighting stood on the ridge beyond the valley. By evening Le Cateau was in British hands, the small town near which in August 1914 the British Expeditionary Force had [given battle](/bitwy/bitwa-pod-le-cateau) during the retreat from Mons.

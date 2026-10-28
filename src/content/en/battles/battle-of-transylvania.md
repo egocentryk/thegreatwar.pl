@@ -9,7 +9,13 @@ sides:
     commanders: [Arthur Arz von Straußenburg, Erich von Falkenhayn]
 result: Central Powers victory. By mid-October the Romanians had been driven out of almost all of Transylvania, but their armies withdrew behind the Carpathians and held the passes.
 source: bitwa-o-siedmiogrod
-sourceHash: 1a206cd3862bb6d57ce0c57c3a4b83276e29e000
+sourceHash: 3be657b7c6a19938358f1d011067c7f3f82a4b09
+brief:
+  - "On the evening of 27 August 1916, at the hour of the declaration of war on Austria-Hungary, three Romanian armies set off through the Carpathian passes into Transylvania, whose conquest was the aim of the whole war."
+  - "General Arz von Straußenburg's weak units fell back, and on 29 August the Romanians took Brașov, but the offensive soon lost momentum and after the defeat in Dobruja the Romanian command halted it."
+  - "The Central Powers brought up reinforcements, and Falkenhayn's German Ninth Army routed the Romanians at Sibiu on 26–29 September and in the battle for Brașov on 7–9 October."
+  - "By 14 October the Romanians had been driven out of almost all of Transylvania, but their armies withdrew behind the Carpathians and held the passes, as none of them had been encircled."
+  - "Romania failed to use the best opportunity in its history: Falkenhayn broke through in the Jiu valley only in mid-November, and on 6 December the Central Powers took Bucharest."
 ---
 
 The Battle of Transylvania was the first great operation of the Romanian army in the First World War and at the same time its first defeat. On the evening of 27 August 1916, at the hour of the declaration of war on Austria-Hungary, three armies of [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii) set off through the Carpathian passes into [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), a land inhabited mostly by Romanians, whose conquest was the aim of the whole war. The weak Austro-Hungarian units fell back before them, and on 29 August the Romanians took [Brașov](https://pl.wikipedia.org/wiki/Braszów). The offensive soon lost momentum, however, and after the defeat in Dobruja the Romanian command halted it. The Central Powers gained time to bring up reinforcements. From the end of September the German Ninth Army of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn) and the Austro-Hungarian First Army of General Arthur Arz von Straußenburg routed the Romanians at Sibiu and Brașov and by 14 October had driven them back across the mountains.

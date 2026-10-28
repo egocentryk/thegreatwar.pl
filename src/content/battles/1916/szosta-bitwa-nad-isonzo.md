@@ -15,6 +15,12 @@ result: Zwycięstwo Włoch. Włosi zdobyli przedmoście Gorycji z Monte Sabotino
 authors: [Natalia]
 tags: [Włochy, Austro-Węgry, Luigi Cadorna, wojna pozycyjna]
 milestone: true
+brief:
+  - "Szósta bitwa nad Isonzo, stoczona 6–17 sierpnia 1916 roku, była pierwszym wielkim zwycięstwem armii włoskiej w pierwszej wojnie światowej."
+  - "Generał Luigi Cadorna potajemnie przerzucił z Trydentu nad dolną Soczę kilkanaście dywizji i setki ciężkich dział. Austro-węgierska 5 Armia była osłabiona wysyłaniem wojsk na front wschodni."
+  - "6 sierpnia Włosi zdobyli Monte Sabotino i szczyt San Michele. 8 sierpnia obrońcy oddali przedmoście Gorycji, 9 sierpnia Włosi weszli do miasta, a Austriacy opuścili płaskowyż Doberdò."
+  - "Na nowej linii obrony, na wzgórzach na wschód od Gorycji, Włosi utknęli i 17 sierpnia Cadorna wstrzymał natarcie. Włosi stracili około 51 tysięcy ludzi, a Austro-Węgrzy około 41 tysięcy."
+  - "Zwycięstwo wywołało we Włoszech ogromny entuzjazm i umocniło pozycję Cadorny, ale militarnie było ograniczone: wzgórza nad Gorycją zostały w rękach Austriaków, a do Triestu wciąż było daleko."
 ---
 
 Szósta bitwa nad Isonzo była pierwszym wielkim zwycięstwem armii włoskiej w pierwszej wojnie światowej. Po piętnastu miesiącach krwawych i bezowocnych natarć nad [Soczą](https://pl.wikipedia.org/wiki/Socza) generał [Luigi Cadorna](/postacie/luigi-cadorna) przerzucił potajemnie z Trydentu nad dolną Soczę kilkanaście dywizji i setki ciężkich dział, a 6 sierpnia 1916 roku uderzył na przedmoście [Gorycji](https://pl.wikipedia.org/wiki/Gorycja) i na górę Monte San Michele na płaskowyżu [Kras](https://pl.wikipedia.org/wiki/Kras_(płaskowyż)). Osłabiona wysyłaniem wojsk na front wschodni austro-węgierska 5 Armia nie zdołała odeprzeć tego uderzenia. Jeszcze pierwszego dnia Włosi zdobyli Monte Sabotino, bronione przez Austriaków od początku wojny, i szczyt San Michele, a 8 sierpnia obrońcy oddali całe przedmoście na zachodnim brzegu Soczy. 9 sierpnia do Gorycji weszły pierwsze oddziały włoskie, a Austriacy opuścili płaskowyż Doberdò. Na nowej linii obrony, na wzgórzach na wschód od miasta, Włosi utknęli jednak tak samo jak wcześniej przed przedmościem. 17 sierpnia Cadorna wstrzymał natarcie.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Australia, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "18 września 1918 roku o 5.20, w ulewnym deszczu i gęstej mgle, brytyjska 4 Armia gen. Henry'ego Rawlinsona i prawe skrzydło 3 Armii ruszyły na zewnętrzne pozycje Linii Hindenburga między Saint-Quentin a Gouzeaucourt."
+  - "Rawlinson postawił na zaskoczenie, jak pod Amiens: nie było wstępnego ostrzału, a 1488 dział otworzyło ogień dopiero w godzinie zero. Czołgów było tylko dwadzieścia, więc ustawiono też atrapy z płótna."
+  - "W centrum australijska 4 i 1 Dywizja zdobyły wszystkie cele, w tym ufortyfikowane Le Verguier. Na skrzydłach Brytyjczycy walczyli cały dzień z 2 Dywizją Gwardii i Korpusem Alpejskim o Ronssoy i Épehy."
+  - "Wieczorem niemieckie kontrataki zostały odparte, a nocny atak dał Australijczykom całą wysuniętą pozycję Linii Hindenburga na ich odcinku, z widokiem na kanał Saint-Quentin."
+  - "Do niewoli poszło ponad 9 tysięcy Niemców. Dzień pokazał, że armia niemiecka nie potrafi już utrzymać nawet silnych pozycji, a Haig zapewnił Focha, że jest gotów uderzyć na główną Linię Hindenburga."
 ---
 
 18 września 1918 roku o 5.20 rano, w ulewnym deszczu i gęstej mgle, brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) i prawe skrzydło 3 Armii ruszyły na zewnętrzne pozycje Linii Hindenburga między Saint-Quentin a Gouzeaucourt. Sześć dni wcześniej 3 Armia [zdobyła Havrincourt](/poczatek-bitwy-pod-havrincourt) na północnym odcinku tej samej linii. Teraz przyszła kolej na pas dawnych okopów brytyjskich, utraconych [21 marca](/poczatek-operacji-michael), z umocnionymi wsiami Le Verguier, Ronssoy i [Épehy](https://pl.wikipedia.org/wiki/Épehy). Do wieczora Australijczycy w centrum zdobyli wszystkie cele, a Brytyjczycy na skrzydłach, po całym dniu walk, wyparli Niemców z większości umocnionych wsi. Do niewoli poszło ponad 9 tysięcy Niemców.

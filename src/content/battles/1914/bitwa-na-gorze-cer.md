@@ -15,6 +15,11 @@ result: Zwycięstwo Serbii. Wojska austro-węgierskie wycofały się za Drinę i
 authors: [Natalia]
 tags: [Serbia, Austro-Węgry, Stepa Stepanović]
 milestone: true
+brief:
+  - "Bitwa na górze Cer, nazywana też bitwą nad Jadarem, rozegrała się w dniach 15–24 sierpnia 1914 roku w zachodniej Serbii. Była pierwszym zwycięstwem aliantów w I wojnie światowej."
+  - "12 sierpnia Austro-Węgry rozpoczęły inwazję na Serbię. Wojewoda Radomir Putnik rozpoznał, że główne uderzenie idzie od zachodu, i skierował tam 2 Armię gen. Stepy Stepanovicia."
+  - "W nocy z 15 na 16 sierpnia Serbowie wkroczyli na zbocza góry Cer. 19 sierpnia morale wojsk austro-węgierskich się załamało, a do 24 sierpnia wycofały się one za Drinę i Sawę."
+  - "Austro-Węgry straciły ponad 40 tysięcy zabitych, rannych i wziętych do niewoli, a Serbia około 18–20 tysięcy. Stepa Stepanović otrzymał za zwycięstwo stopień wojewody."
 ---
 
 [Bitwa na górze Cer](https://pl.wikipedia.org/wiki/Bitwa_na_górze_Cer), nazywana też bitwą nad Jadarem, rozegrała się w dniach 15–24 sierpnia 1914 roku w zachodniej [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii). Zakończyła się rozbiciem wojsk austro-węgierskich i była pierwszym zwycięstwem aliantów w I wojnie światowej.

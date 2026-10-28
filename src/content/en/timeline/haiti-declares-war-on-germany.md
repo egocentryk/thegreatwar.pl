@@ -2,7 +2,13 @@
 title: Haiti declares war on Germany
 summary: On 12 July 1918 Haiti's Council of State, standing in for the dissolved parliament, declared a state of war with Germany. US-occupied Haiti followed Washington.
 source: haiti-wypowiada-wojne-niemcom
-sourceHash: 2029804612802c26657f912695ab48c26a0baa2c
+sourceHash: 58c1420e3033a97c0a115191174ea54c4a02de04
+brief:
+  - "On 12 July 1918 the Council of State of the Republic of Haiti, at the government's request, resolved that a state of war existed with the German Empire. President Philippe Sudré Dartiguenave approved it, and it made no mention of Austria-Hungary."
+  - "Haiti had been occupied by the United States since 28 July 1915. The resolution was passed by a Council of State appointed by the president, because the elected parliament had been dissolved after refusing to declare war."
+  - "According to the historian Percy Alvin Martin, the real reason was probably Dartiguenave's wish to align Haiti's policy with Washington's. The Haitians also had their own sympathy for France and dislike of Germany."
+  - "The declaration made it possible to strike at the influential German community: on 24 July a decree placed the eight largest German trading houses under sequestration. Haiti had no army it could send to Europe."
+  - "Taking part in the war secured Haiti a place among the victors, and it signed the Treaty of Versailles in June 1919. The American occupation, however, lasted until 1934."
 ---
 
 On 12 July 1918 the Council of State of the Republic of [Haiti](https://pl.wikipedia.org/wiki/Haiti), which at the time exercised legislative power, resolved at the government's request that from that day a state of war existed between Haiti and the [German Empire](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). President Philippe Sudré Dartiguenave approved the resolution, and the official gazette *Le Moniteur* published it on 13 July. More than a year after [breaking off diplomatic relations with Berlin](/haiti-zrywa-stosunki-z-niemcami), the only French-speaking republic in the Americas became a belligerent. The declaration concerned Germany alone and made no mention of Austria-Hungary.

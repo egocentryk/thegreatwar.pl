@@ -2,7 +2,13 @@
 title: Germans take Mount Kemmel
 summary: On 25 April 1918, after a gas bombardment, the Alpenkorps took the French-held Kemmelberg in just over an hour. The British held the flank at Ypres.
 source: niemcy-zdobywaja-wzgorze-kemmel
-sourceHash: 629ea4039ad1030362dbfe64549152b60a757df6
+sourceHash: 76b0a26554d60385a8b53330baf687e9fab39a85
+brief:
+  - "On 25 April 1918, the seventeenth day of the offensive on the Lys, the German Alpenkorps took the Kemmelberg, the hill from which the Allies had since 1914 observed the plain south of Ypres."
+  - "The hill was held by the French 28th Infantry Division. For two hours the Germans smothered the Allied batteries, roads and reserves with mustard gas, tear gas and high explosive."
+  - "At six the infantry attacked in fog and at 7.10 a.m. stood on the summit; half an hour later the village of Kemmel fell. The Germans claimed 6,500 prisoners, mostly French."
+  - "East of the hill battalions of the British XXII Corps fought a stubborn defensive action and prevented the Germans from closing the Ypres salient. In the afternoon the attack petered out."
+  - "The loss of the hill sharpened recriminations between the allies, and the counter-attack on 26 April did not regain it. But the planned breakthrough towards Poperinge did not come."
 ---
 
 On 25 April 1918, the seventeenth day of the German [offensive on the Lys](/bitwy/bitwa-nad-lys-1918), the Germans won their most celebrated success in Flanders. After several hours of bombardment, in which gas shells smothered the French batteries, German mountain troops of the Alpenkorps broke onto the [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), the hill from which the Allies had since 1914 observed the whole plain south of [Ypres](https://pl.wikipedia.org/wiki/Ieper). The summit fell in just over an hour, and by midday the Germans had taken the whole hill, the village of [Kemmel](https://pl.wikipedia.org/wiki/Kemmel) and several neighbouring villages. The German evening communiqué spoke of 6,500 prisoners, mostly French. On the same day British battalions east of the hill fought one of the most stubborn defensive actions of that spring and prevented the Germans from closing the Ypres salient.

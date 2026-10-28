@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Rosja, Imperium Osmańskie, Kaukaz, Enver Pasza]
 milestone: true
 draft: false
+brief:
+  - "16 lutego 1916 roku do opuszczonego przez Turków Erzurum, najważniejszej twierdzy osmańskiej we wschodniej Anatolii, wjechał pułk Kozaków terskich. W południe wjechał tam gen. Judenicz."
+  - "Zdobycie miasta zakończyło pięciodniowy szturm i trwającą od 10 stycznia zimową ofensywę Armii Kaukaskiej, w której Rosjanie rozbili osmańską 3 Armię."
+  - "14 lutego Rosjanie zdobyli fort Tafet, a następnego dnia Mahmud Kâmil Pasza nakazał odwrót. Spóźniony pościg sprawił, że większość tureckich dywizji uniknęła okrążenia."
+  - "W samym Erzurum Rosjanie zdobyli 327 dział, w większości starego typu. Upadek twierdzy uchodzącej za nie do zdobycia był największym sukcesem armii rosyjskiej na Kaukazie."
+  - "W państwach Ententy przyjęto wiadomość z ulgą jako pierwsze wielkie zwycięstwo aliantów nad Turkami. Klęska zmusiła Turków do przesunięcia na Kaukaz wojsk i zapasów."
 ---
 
 16 lutego 1916 roku o 7.00 rano do [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), najważniejszej twierdzy osmańskiej we wschodniej Anatolii, wjechał pułk [Kozaków terskich](https://pl.wikipedia.org/wiki/Kozacy_tereccy), a za nim piechota. Miasta nikt już nie bronił. W południe wjechał do niego dowódca rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz). Tak zakończył się pięciodniowy [szturm](/poczatek-szturmu-erzurum) i trwająca od 10 stycznia zimowa ofensywa, w której Rosjanie rozbili osmańską 3 Armię. Datę 16 lutego podają zgodnie brytyjska chronologia wojny i historia wojen kaukaskich W.E.D. Allena i Pawła Muratowa. W Rosji, gdzie obowiązywał jeszcze [kalendarz juliański](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 3 lutego i pod tą datą zdobycie Erzurum zapisało się w rosyjskiej pamięci.

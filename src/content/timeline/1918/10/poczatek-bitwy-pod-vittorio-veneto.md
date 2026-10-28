@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Włochy, Austro-Węgry, Armando Diaz, Wielka Brytania]
 milestone: true
 draft: false
+brief:
+  - "24 października 1918 roku, dokładnie rok po Caporetto, armia włoska rozpoczęła ostatnią ofensywę. Przed świtem tysiące dział otworzyły ogień na austro-węgierskie pozycje w masywie Monte Grappa."
+  - "Plan gen. Armanda Diaza zakładał główny cios na środkowej Piawie, skąd 8 Armia miała uderzyć na Vittorio. Natarcie 4 Armii gen. Giardina na Grappie miało wiązać austriackie odwody."
+  - "W chmurach i mgle wygłodzeni żołnierze monarchii odparli prawie wszystkie szturmy na Grappie. Włosi zdobyli tylko Monte Valderoa, a według źródeł włoskich stracili tego dnia ponad trzy tysiące ludzi."
+  - "Brytyjczycy z 7 Dywizji zajęli w nocy północną część wyspy Grave di Papadopoli, ale wezbrana po ulewach Piawa uniemożliwiła przeprawę i Diaz odłożył główne uderzenie."
+  - "Tego samego dnia na płaskowyżu Asiago batalion węgierskiego 25 Pułku Piechoty odmówił walki za Austrię. Był to pierwszy bunt, zapowiedź rozkładu armii austro-węgierskiej."
 ---
 
 24 października 1918 roku, dokładnie rok po tym, jak Niemcy i Austriacy przełamali front nad Soczą pod [Caporetto](/poczatek-bitwy-pod-caporetto), armia włoska rozpoczęła swoją ostatnią ofensywę. Przed świtem tysiące dział otworzyły ogień na austro-węgierskie pozycje w masywie Monte Grappa, między [Brentą](https://pl.wikipedia.org/wiki/Brenta_(rzeka)) a [Piawą](https://pl.wikipedia.org/wiki/Piawa), a rano włoska piechota ruszyła do szturmu na skaliste szczyty. Pierwszy dzień nie przyniósł zwycięstwa. W chmurach i mgle wycieńczeni głodem żołnierze monarchii odparli prawie wszystkie ataki, a Piawa, wezbrana po ulewach, uniemożliwiła głównemu uderzeniu przejście rzeki. Jedynym sukcesem dnia było zajęcie przez Brytyjczyków części wyspy Grave di Papadopoli na środku Piawy. Jednocześnie na tyłach frontu, na płaskowyżu Asiago, pierwszy węgierski batalion odmówił walki za Austrię.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Australia, Francja, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "4 kwietnia 1918 roku niemiecka 18 i 2 Armia uderzyły w deszczu na Amiens na froncie długości około 24 km, od Grivesnes po Sommę. Była to ostatnia próba operacji Michael z realną szansą powodzenia."
+  - "Nad Avre francuska 1 Armia generała Debeneya cofnęła się o ponad 3 km i straciła kilka wsi, ale wieczorem nadeszły posiłki i wgięcie frontu przestało się powiększać."
+  - "Rano australijski 35 Batalion odparł natarcia Bawarczyków, lecz na skrzydłach zmęczona brytyjska 14 Dywizja cofnęła się, a dowódca 42 Brygady dostał się do niewoli."
+  - "Po południu Niemcy podeszli na kilkaset metrów do Villers-Bretonneux. Około 17.45 kontratak australijskiego 36 Batalionu i batalionów brytyjskich odrzucił ich od miasteczka."
+  - "Niemcy zepchnęli sprzymierzonych o 2–3 km, ale nie doszli do linii, z której mogliby razić węzeł kolejowy w Amiens. Ludendorff napisał później, że bitwa skończyła się 4 kwietnia."
 ---
 
 4 kwietnia 1918 roku Niemcy po raz ostatni w czasie [operacji Michael](/bitwy/operacja-michael) spróbowali przebić się do [Amiens](https://pl.wikipedia.org/wiki/Amiens). Po trzech dniach przygotowań dwie armie, 18 Armia generała [Oskara von Hutiera](/postacie/oskar-von-hutier) i 2 Armia generała [Georga von der Marwitza](/postacie/georg-von-der-marwitz), uderzyły na froncie długości około 24 km, od Grivesnes na południe od [Moreuil](https://pl.wikipedia.org/wiki/Moreuil) po [Sommę](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Przez cały dzień lał deszcz. Francuzi nad [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) cofnęli się o kilka kilometrów i stracili kilka wsi, a Brytyjczycy oddali teren nad Sommą. Po południu Niemcy podeszli na kilkaset metrów do [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), ostatniego wzniesienia przed Amiens. Wieczorny kontratak australijskiego 36 Batalionu i kilku batalionów brytyjskich odrzucił ich od miasteczka. Był to ostatni dzień, w którym niemieckie natarcie na Amiens miało realną szansę powodzenia.

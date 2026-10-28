@@ -15,6 +15,12 @@ result: Obronne zwycięstwo Francji. Niemcy zdobyli forty Douaumont i Vaux, ale 
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Erich von Falkenhayn, Joseph Joffre]
 milestone: true
+brief:
+  - "Bitwa pod Verdun, toczona od 21 lutego do 18 grudnia 1916 roku o wzgórza nad Mozą, była najdłuższą bitwą I wojny światowej."
+  - "Falkenhayn uderzył 5 Armią na prawym brzegu Mozy po bezprzykładnym ostrzale, a 25 lutego Niemcy niemal bez walki zajęli fort Douaumont, największy fort Verdun."
+  - "Gen. Pétain zatrzymał natarcie i dowoził ludzi oraz amunicję Świętą Drogą z Bar-le-Duc, a rotacja dywizji, zwana norią, sprawiła, że przez Verdun przeszła większość armii francuskiej."
+  - "Niemcy zdobyli w czerwcu fort Vaux i doszli pod fort Souville, ale dalej nie przeszli, a jesienią Francuzi odbili Douaumont, zajęli opuszczony fort Vaux i odzyskali większość utraconego terenu."
+  - "Bitwa kosztowała obie strony łącznie około 700 tysięcy zabitych, rannych i zaginionych, a Verdun stało się dla Francuzów symbolem wytrwałości narodu i całej wojny."
 ---
 
 Bitwa pod [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) była najdłuższą bitwą I wojny światowej. 21 lutego 1916 roku niemiecka [5 Armia](https://pl.wikipedia.org/wiki/5_Armia_(Cesarstwo_Niemieckie)) po bezprzykładnym ostrzale artyleryjskim uderzyła na francuskie pozycje na północ od starej twierdzy nad [Mozą](https://pl.wikipedia.org/wiki/Moza). W ciągu kilku dni przełamała dwie linie obrony i niemal bez walki zajęła fort Douaumont, największy fort Verdun. Francuzi jednak się nie załamali. Pod dowództwem generała [Philippe'a Pétaina](/postacie/philippe-petain) zatrzymali natarcie, a jedyną drogą z [Bar-le-Duc](https://pl.wikipedia.org/wiki/Bar-le-Duc) dowozili na front nieprzerwany strumień ludzi i amunicji. Przez następne miesiące Niemcy szturmowali wzgórza po obu brzegach rzeki, w czerwcu zdobyli fort Vaux i podeszli na kilka kilometrów od miasta, ale dalej nie przeszli. Gdy latem zaczęły się ofensywy aliantów nad Sommą i Rosjan na wschodzie, inicjatywa przeszła na Francuzów, którzy w październiku i grudniu odzyskali większość utraconego terenu. Bitwa kosztowała obie strony łącznie około 700 tysięcy zabitych, rannych i zaginionych, a Verdun stało się dla Francuzów symbolem całej wojny.

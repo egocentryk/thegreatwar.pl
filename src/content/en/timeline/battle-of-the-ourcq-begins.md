@@ -2,7 +2,13 @@
 title: Battle of the Ourcq begins
 summary: On 5 September 1914 Maunoury's French Sixth Army struck the flank of Kluck's army near Meaux. The clash at Monthyon opened the great Battle of the Marne.
 source: poczatek-bitwy-nad-ourcq
-sourceHash: b54b79553164ca527784dc60aa477e4d911c433c
+sourceHash: 1ccc3965e97eb5726f3c3e33e4fd6cd9f16c1153
+brief:
+  - "On 5 September 1914 at Monthyon and Penchard, a few kilometres from Meaux, General Michel Maunoury's French Sixth Army collided with the corps covering the right wing of Kluck's army. It was the first act of the Battle of the Marne."
+  - "Kluck had turned south-east and passed east of Paris, exposing his right wing. It was covered only by General Hans von Gronau's IV Reserve Corps, while the rest of the army was already south of the Marne."
+  - "Gronau attacked himself, and his artillery inflicted heavy losses on the French reserve divisions. The poet Charles Péguy, a lieutenant of the 276th Infantry Regiment, was killed near Villeroy."
+  - "Gronau realised he faced a whole army and alerted Kluck, who began turning his corps back from the Marne. On the night of 7 to 8 September Gallieni sent some soldiers to the front in Paris taxis."
+  - "Moving Kluck's army to the Ourcq opened a gap between it and Bülow's army, which the Allies entered. On 9 September the Germans ordered a retreat, deciding the 1914 campaign in the west."
 ---
 
 On 5 September 1914, north-east of Paris, the French Sixth Army of General [Michel Maunoury](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) collided with the German corps covering the right wing of the 1st Army of General [Alexander von Kluck](/postacie/alexander-von-kluck). The fighting on the hills at [Monthyon](https://pl.wikipedia.org/wiki/Monthyon) and Penchard, a few kilometres from [Meaux](https://pl.wikipedia.org/wiki/Meaux), began the battle on the river [Ourcq](https://pl.wikipedia.org/wiki/Ourcq_(rzeka)). It was the first act of the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), which halted the German march on Paris and dashed Germany's hopes of a quick victory in the west.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Australia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "3 maja 1917 roku 5 Armia generała Huberta Gougha po raz drugi zaatakowała Linię Hindenburga pod Bullecourt. Było to część ostatniego wielkiego wysiłku Brytyjczyków w bitwie pod Arras."
+  - "11 kwietnia 4 Dywizja Australijska straciła tu ponad trzy tysiące ludzi za czołgami, które zawiodły. Tym razem Australijczycy odmówili współpracy z czołgami i natarcie oparto na artylerii."
+  - "Australijska 6 Brygada generała Johna Gellibranda zdobyła oba okopy Linii Hindenburga na wschód od wsi i utrzymała przyczółek, choć 5 Brygada na jej prawym skrzydle się wycofała."
+  - "Brytyjska 62 Dywizja, która nigdy jeszcze nie brała udziału w wielkiej bitwie, nie zdobyła Bullecourt. Straciła blisko trzy tysiące ludzi, a nocny atak 7 Dywizji na wieś też zawiódł."
+  - "Przyczółka nie dało się ani łatwo opuścić, ani utrzymać bez zdobycia wsi, więc Haig postanowił walczyć dalej. Zaczęła się dwutygodniowa, wyjątkowo krwawa bitwa na wyniszczenie."
 ---
 
 Wczesnym rankiem 3 maja 1917 roku 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) po raz drugi zaatakowała Linię Hindenburga pod [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt), kilkanaście kilometrów na południowy wschód od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Natarcie ruszyło o 3.45, w tej samej chwili co [trzecia bitwa nad Scarpe](/poczatek-trzeciej-bitwy-nad-scarpe) na północ od niego, i było częścią ostatniego wielkiego wysiłku Brytyjczyków w [bitwie pod Arras](/bitwy/bitwa-pod-arras-1917). Chronologia, na której opiera się nasz kalendarz, podaje jako początek bitwy 2 maja, ale brytyjska historia oficjalna i Australian War Memorial zgodnie datują szturm na 3 maja. Dzień przyniósł Brytyjczykom tylko jeden trwały zysk: niewielki przyczółek, który australijska 6 Brygada zdobyła i utrzymała w okopach Linii Hindenburga na wschód od wsi. Z niego wyrosła dwutygodniowa, wyjątkowo krwawa bitwa.

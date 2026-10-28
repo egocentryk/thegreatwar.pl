@@ -9,7 +9,13 @@ sides:
     commanders: [Hermann von Eichhorn, Franz Hermann Zierold]
 result: A German victory. After a day's defence the Polish II Corps, out of ammunition, accepted terms of capitulation and laid down its arms on 12 May. Most of the soldiers were taken prisoner; some, including General Haller, managed to escape.
 source: bitwa-pod-kaniowem
-sourceHash: 359f08327839252992c702fa78ae43ed61a8e296
+sourceHash: e0d035ea2023299c89cd31d8c44f6556cc24823a
+brief:
+  - "The Battle of Kaniów, fought on 11 May 1918 in several villages west of Kaniów on the Dnieper, was the last battle of the Polish II Corps, which included the legionnaires who had broken through at Rarańcza."
+  - "The Germans, who held real power in occupied Ukraine, had no intention of tolerating an independent Polish force in their rear and demanded that it be disarmed. The Poles refused."
+  - "On the night of 10/11 May German units with a clear numerical advantage surrounded the Polish quarters and attacked without warning. General Józef Haller's corps defended itself all day in an all-round defence."
+  - "When its ammunition ran out, the corps accepted terms of capitulation and laid down its arms on 12 May. The Germans broke the agreement and sent the prisoners to camps, but some Poles, Haller among them, escaped."
+  - "Militarily it was a minor clash, but in Polish memory Kaniów became a symbol of armed opposition to the Central Powers. Haller reached France and took command of the Polish Army in France."
 ---
 
 The Battle of Kaniów was the last battle of the [Polish II Corps](https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji), a Polish formation made up of soldiers of the former Russian army and of legionnaires who in February 1918 had [broken through the Austrian front at Rarańcza](/bitwa-pod-rarancza). In the spring the corps took up quarters near [Kaniów](https://pl.wikipedia.org/wiki/Kaniów_(Ukraina)) on the [Dnieper](https://pl.wikipedia.org/wiki/Dniepr), in Ukraine, which was occupied by German and Austro-Hungarian troops. The Germans had no intention of tolerating an independent Polish force in their rear and demanded that it be disarmed. The Poles refused. On the night of 10/11 May 1918 German units with a clear numerical advantage surrounded the Polish quarters and attacked without warning. General [Józef Haller](/postacie/jozef-haller)'s corps defended itself all day, and when its ammunition ran out it accepted terms of capitulation. Militarily it was a minor clash on the margins of the Great War, but in Polish memory Kaniów became a symbol of armed opposition to the Central Powers.

@@ -15,6 +15,12 @@ result: Częściowe zwycięstwo brytyjskie. 5 Armia zdobyła Saint-Pierre-Divion
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig, Kanada]
 milestone: true
+brief:
+  - "Bitwa nad Ancre, stoczona 13–18 listopada 1916 roku, była ostatnim wielkim natarciem brytyjskim w bitwie nad Sommą. Prowadziła je 5 Armia generała Huberta Gougha na obu brzegach rzeki."
+  - "Atak wielokrotnie odkładano z powodu deszczu. Haig chciał sukcesu przed konferencją sprzymierzonych w Chantilly 15 listopada, a historycy spierają się, czy bitwę stoczono głównie dla efektu politycznego."
+  - "13 listopada we mgle Brytyjczycy zdobyli Saint-Pierre-Divion i Beaumont-Hamel, cel z 1 lipca, a następnego dnia Beaucourt. Prowadzący natarcie na Beaucourt podpułkownik Bernard Freyberg dostał Krzyż Wiktorii."
+  - "Pod Serre i na grzbiecie Redan natarcie utknęło w błocie i w ogniu karabinów maszynowych. Ostatni atak, 18 listopada, odbył się w pierwszej zimowej śnieżycy i zakończył bitwę nad Sommą."
+  - "Według historii oficjalnej 5 Armia straciła od 11 do 24 listopada 23 274 ludzi i wzięła 7183 jeńców. Bitwa przyniosła Brytyjczykom największe zdobycze od połowy września, ale Niemcy utrzymali Serre."
 ---
 
 Bitwa nad Ancre była ostatnim wielkim natarciem brytyjskim w [bitwie nad Sommą](/bitwy/bitwa-nad-somma). 13 listopada 1916 roku, po tygodniach odkładania ataku z powodu deszczu, 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) uderzyła we mgle na obu brzegach rzeki [Ancre](https://pl.wikipedia.org/wiki/Ancre). Na północnym brzegu atakowała stare niemieckie pozycje, o które 1 lipca rozbiło się całe północne skrzydło ofensywy. Tym razem natarcie w dużej części się udało. Na południowym brzegu 39 Dywizja w niespełna dwie godziny zdobyła wieś Saint-Pierre-Divion. 51 Dywizja Górnoszkocka po całodziennej walce opanowała ruiny [Beaumont-Hamel](https://pl.wikipedia.org/wiki/Beaumont-Hamel), wieś, przed którą 1 lipca wykrwawił się batalion z Nowej Fundlandii. 63 Dywizja Królewskiej Marynarki przedarła się wzdłuż rzeki pod [Beaucourt](https://pl.wikipedia.org/wiki/Beaucourt-sur-l’Ancre) i następnego dnia zdobyła wieś, a dowodzący jej czołówką podpułkownik [Bernard Freyberg](https://pl.wikipedia.org/wiki/Bernard_Freyberg) dostał za to [Krzyż Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Na północy, pod Serre, natarcie znów utknęło w błocie i w ogniu karabinów maszynowych. Kolejne ataki przyniosły już niewiele, a ostatni, 18 listopada, odbył się w pierwszej zimowej śnieżycy. Na tym bitwa nad Sommą się skończyła.

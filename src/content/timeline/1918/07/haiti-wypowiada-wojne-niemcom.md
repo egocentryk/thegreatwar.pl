@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Ameryka Łacińska, Niemcy, Stany Zjednoczone, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "12 lipca 1918 roku Rada Stanu Republiki Haiti na wniosek rządu uznała, że istnieje stan wojny z Cesarstwem Niemieckim. Prezydent Philippe Sudré Dartiguenave zatwierdził uchwałę, a deklaracja nie wspominała o Austro-Węgrzech."
+  - "Haiti od 28 lipca 1915 roku było okupowane przez Stany Zjednoczone. Uchwałę podjęła Rada Stanu mianowana przez prezydenta, bo wybrany parlament rozwiązano, gdy odmówił wypowiedzenia wojny."
+  - "Według historyka Percy'ego Alvina Martina prawdziwym powodem była zapewne wola Dartiguenave'a, by dostosować politykę Haiti do polityki Waszyngtonu. Haitańczycy mieli też własne sympatie do Francji i niechęć do Niemiec."
+  - "Wypowiedzenie wojny pozwoliło uderzyć w wpływową społeczność niemiecką: 24 lipca dekret objął sekwestrem osiem największych niemieckich domów handlowych. Haiti nie miało armii, którą mogłoby wysłać do Europy."
+  - "Udział w wojnie zapewnił Haiti miejsce wśród zwycięzców: w czerwcu 1919 roku podpisało traktat wersalski. Okupacja amerykańska trwała jednak aż do 1934 roku."
 ---
 
 12 lipca 1918 roku Rada Stanu Republiki [Haiti](https://pl.wikipedia.org/wiki/Haiti), sprawująca wówczas władzę ustawodawczą, na wniosek rządu uznała, że od tego dnia istnieje stan wojny między Haiti a [Cesarstwem Niemieckim](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Prezydent Philippe Sudré Dartiguenave zatwierdził uchwałę, a urzędowy dziennik „Le Moniteur” ogłosił ją 13 lipca. Ponad rok po [zerwaniu stosunków dyplomatycznych z Berlinem](/haiti-zrywa-stosunki-z-niemcami) jedyna francuskojęzyczna republika Ameryki stała się państwem wojującym. Wypowiedzenie dotyczyło tylko Niemiec, nie wspominało o Austro-Węgrzech.

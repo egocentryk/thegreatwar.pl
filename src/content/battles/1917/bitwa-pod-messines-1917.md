@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. 2 Armia zdobyła w jeden dzień cały grzbiet Me
 authors: [Łukasz Skowroń]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Australia, Nowa Zelandia]
 milestone: true
+brief:
+  - "Bitwa pod Messines, toczona 7–14 czerwca 1917 roku, była jednym z najstaranniej przygotowanych i najbardziej udanych natarć armii brytyjskiej. Jej celem był grzbiet Messines–Wytschaete na południe od Ypres."
+  - "Niemcy trzymali grzbiet od 1914 roku. Saperzy przez półtora roku drążyli pod nim głębokie chodniki minowe, a natarcie poprzedził ostrzał około 2,3 tysiąca dział i haubic."
+  - "7 czerwca o 3.10 wybuchło 19 wielkich min, a dziewięć dywizji 2 Armii generała Herberta Plumera ruszyło do szturmu. Przed południem cały grzbiet był w brytyjskich rękach, a wieczorem także linia Oosttaverne."
+  - "Niemieckie kontrataki zawiodły i w nocy z 10 na 11 czerwca Niemcy wycofali się dalej na wschód. 2 Armia straciła od 1 do 12 czerwca 24 562 zabitych, rannych i zaginionych."
+  - "Plan wykonano niemal według rozkładu, ale do głównej ofensywy pod Ypres minęło ponad siedem tygodni, które Niemcy wykorzystali na umocnienie obrony. Bitwa była wstępem do trzeciej bitwy pod Ypres."
 ---
 
 Bitwa pod Messines była jednym z najstaranniej przygotowanych i najbardziej udanych natarć armii brytyjskiej w całej wojnie. O 3.10 nad ranem 7 czerwca 1917 roku pod niemieckimi pozycjami na grzbiecie między [Messines](https://pl.wikipedia.org/wiki/Mesen) a [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), na południe od [Ypres](https://pl.wikipedia.org/wiki/Ieper), wybuchło w ciągu kilkunastu sekund 19 wielkich min, wydrążonych przez saperów w ciągu półtora roku podziemnej pracy. Zaraz potem dziewięć dywizji 2 Armii generała [Herberta Plumera](/postacie/herbert-plumer), w tym Australijczycy, Nowozelandczycy oraz Irlandczycy z północy i południa wyspy, ruszyło do szturmu za ogniem ponad dwóch tysięcy dział. Przed południem cały grzbiet był w brytyjskich rękach, a wieczorem także linia Oosttaverne u jego wschodniego podnóża. W kolejnych dniach Niemcy próbowali kontratakować, a w nocy z 10 na 11 czerwca wycofali się dalej na wschód. Bitwa była wstępem do wielkiej ofensywy pod Ypres, którą Brytyjczycy rozpoczęli pod koniec lipca.

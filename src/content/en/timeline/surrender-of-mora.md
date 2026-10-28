@@ -2,7 +2,12 @@
 title: Surrender of Mora
 summary: On 18 February 1916, after a siege of a year and a half, the German garrison of the mountain above Mora surrendered. It was the end of the fighting in Kamerun.
 source: kapitulacja-mory
-sourceHash: 2862a5415003b73294ffe849157087b91912905e
+sourceHash: 0f698ad40d0037f32b5060b7a88718a1f0aa22bc
+brief:
+  - "On 18 February 1916 the German garrison of the mountain above Mora, in the far north of Kamerun, capitulated. According to the British official history, this ended the campaign in Kamerun."
+  - "Captain Ernst von Raben had held out on the mountain since August 1914. After the failed assault of September 1915 the Allies confined themselves to a blockade, and the defenders lacked medicines, clothes and boots."
+  - "General Frederick Cunliffe informed Raben that the rest of the German forces had withdrawn into Muni and been interned. Raben concluded that further fighting made no sense and accepted honourable terms."
+  - "According to the British official history 11 Germans and 145 African soldiers went into captivity, and a British company rendered them military honours. The colony now had to be divided between the British and the French."
 ---
 
 On 18 February 1916 the German garrison of the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)), in the far north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), capitulated. Captain Ernst von Raben had held out there since August 1914, when his company beat off the [first Allied attack](/pierwszy-atak-na-more). He surrendered on honourable terms only when he learned that the rest of the German forces in Kamerun had [taken refuge in Spanish Muni](/niemcy-przechodza-do-gwinei-hiszpanskiej). According to the British official history (Moberly, *Togoland and the Cameroons*), the surrender of Mora ended the campaign in Kamerun.

@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Włochy, Austro-Węgry, Franz Conrad von Hötzendorf, lotnictwo]
 milestone: true
 draft: false
+brief:
+  - "15 czerwca 1918 roku o trzeciej nad ranem austro-węgierska artyleria otworzyła ogień od płaskowyżu Asiago po ujście Piawy. Zaczynała się ostatnia wielka ofensywa monarchii Habsburgów, która miała zmusić Włochy do pokoju."
+  - "Włoski wywiad ustalił dzień i godzinę ostrzału, a na płaskowyżu Asiago artyleria aliancka uprzedziła atak ogniem jeszcze przed północą. Dziś 15 czerwca obchodzony jest we Włoszech jako święto artylerii."
+  - "W górach natarcie 11 Armii Conrada von Hötzendorfa się załamało: Francuzi i Brytyjczycy utrzymali front na Asiago, a większość zdobyczy na Monte Grappa Włosi odbili w nocy i następnego dnia."
+  - "Nad Piawą wojska Boroevicia przeszły rzekę w gęstej mgle w kilku miejscach. Zdobyły wschodnią część wzgórza Montello i utworzyły przyczółek pod San Donà di Piave."
+  - "Brytyjscy i włoscy lotnicy rozbijali mosty pontonowe, odcinając Austriaków od zaplecza. Gen. Armando Diaz mógł bez obaw skierować nad rzekę prawie wszystkie odwody, a wieczorem zaczęło padać."
 ---
 
 15 czerwca 1918 roku o trzeciej nad ranem tysiące austro-węgierskich dział otworzyły ogień na froncie długim na ponad sto kilometrów, od płaskowyżu [Asiago](https://pl.wikipedia.org/wiki/Asiago) w Alpach po ujście [Piawy](https://pl.wikipedia.org/wiki/Piawa) do Adriatyku. Zaczynała się ostatnia wielka ofensywa monarchii Habsburgów. Siedem miesięcy po [pierwszej bitwie nad Piawą](/bitwy/pierwsza-bitwa-nad-piawa) Austriacy chcieli dokończyć dzieła z jesieni 1917 roku: przełamać front w górach i nad rzeką, zejść na równinę Wenecji i zmusić Włochy do pokoju. Do południa okazało się, że w górach natarcie się załamało. Nad Piawą wojska austro-węgierskie przeszły jednak rzekę w kilku miejscach, zdobyły część wzgórza Montello i wzięły tysiące jeńców.

@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Australia, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "W nocy na 23 lipca 1916 roku, pół godziny po północy, 1 Dywizja Australijska ruszyła na silnie umocnioną wieś Pozières na grzbiecie przy drodze z Albert do Bapaume i zdobyła ją w ciągu dwóch godzin."
+  - "Brytyjczycy kilka razy bezskutecznie atakowali wcześniej Pozières, więc Douglas Haig przekazał to zadanie Armii Rezerwowej generała Huberta Gougha, a ten wysłał do walki 1 Dywizję Australijską."
+  - "Natarcie poprzedził nocny ostrzał widoczny z blisko 30 kilometrów. Australijczycy okopali się wzdłuż głównej ulicy, rano odparli pierwszy niemiecki kontratak, a następnej nocy zajęli północną część wsi."
+  - "Wielkie natarcie brytyjskiej 4 Armii, przeprowadzone tej samej nocy od Pozières po Guillemont, wszędzie indziej się załamało. Haig postanowił odtąd wyczerpywać Niemców serią mniejszych natarć."
+  - "Niemcy chcieli odzyskać Pozières za wszelką cenę i zamieniali wieś w pole lejów. W ciągu czterech dni walk 1 Dywizja straciła 5285 ludzi, a przed Australijczykami było jeszcze sześć tygodni walk."
 ---
 
 W niedzielę 23 lipca 1916 roku, pół godziny po północy, piechota 1 Dywizji Australijskiej ruszyła do natarcia na wieś [Pozières](https://pl.wikipedia.org/wiki/Pozières) w Pikardii, leżącą na grzbiecie przy drodze z Albert do Bapaume. Wcześniej przez trzy tygodnie [bitwy nad Sommą](/bitwy/bitwa-nad-somma) Brytyjczycy kilka razy bezskutecznie atakowali ten silnie umocniony punkt. Australijczycy zdobyli go w ciągu dwóch godzin. Do świtu okopali się wzdłuż głównej ulicy, rano odparli pierwszy niemiecki kontratak, a następnej nocy zajęli północną część wsi. Wielkie natarcie brytyjskiej 4 Armii, przeprowadzone tej samej nocy od Pozières po Guillemont, wszędzie indziej się załamało. Zdobycie wsi było więc jedynym sukcesem tego dnia, a dla Australijczyków początkiem sześciu tygodni najcięższych walk w ich historii.

@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: Inconclusive. The British and Indians took Neuve-Chapelle and eliminated the German salient, but did not reach Aubers Ridge or break through the front.
 source: bitwa-pod-neuve-chapelle
-sourceHash: 80b49c2bb654007a102efda8a3db06cea2c76802
+sourceHash: ef27ff2f09863c108d83782a4303d4507a48a62a
+brief:
+  - "From 10 to 13 March 1915 General Douglas Haig's British First Army attacked at Neuve-Chapelle in French Flanders. It was the British army's first carefully planned offensive of trench warfare."
+  - "When the French withdrew from a joint attack, Field Marshal John French decided to attack alone. Haig chose a weak sector of the German front, and the fire was planned to the minute using aerial photographs."
+  - "On 10 March, after a short but very heavy bombardment, two British and two Indian divisions took Neuve-Chapelle within a few hours. Then the attack stalled, as communications failed and the Germans secured the flanks of the breach."
+  - "For the next two days the British and Indians tried in vain to reach Aubers Ridge, and a German counter-attack on 12 March broke down. The battle cost each side more than ten thousand men."
+  - "The battle set the pattern for later British offensives, but showed how hard it was to exploit a break-in. The shortage of ammunition, after Aubers, led to the shell crisis in Britain."
 ---
 
 The Battle of [Neuve-Chapelle](https://pl.wikipedia.org/wiki/Neuve-Chapelle) was the first offensive that the British army carefully planned and carried out on the Western Front after the onset of trench warfare. On 10 March 1915 four divisions of General [Douglas Haig's](/postacie/douglas-haig) First Army, two British and two Indian, after a short but very heavy artillery bombardment, attacked the German salient around the village of Neuve-Chapelle in French Flanders. Within a few hours they had taken the village and broken into the German lines on a frontage of about two kilometres. Then the attack stalled. For the next two days the British and Indians tried in vain to reach the low Aubers Ridge, while the Germans had time to bring up reinforcements and build a new line of defence. The battle cost each side more than ten thousand men and did not change the situation at the front, but for a long time it set the pattern by which the British planned their later offensives.

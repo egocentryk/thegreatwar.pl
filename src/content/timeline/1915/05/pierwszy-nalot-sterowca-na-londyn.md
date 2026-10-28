@@ -9,6 +9,11 @@ dayOrder: 2
 tags: [sterowce, Wielka Brytania, Niemcy, Wilhelm II]
 milestone: true
 draft: false
+brief:
+  - "Późnym wieczorem 31 maja 1915 roku niemiecki sterowiec armii LZ 38 kapitana Ericha Linnarza zbombardował północne i wschodnie dzielnice Londynu. Był to pierwszy nalot na stolicę Wielkiej Brytanii."
+  - "Cesarz Wilhelm II długo nie zgadzał się na atak na Londyn, między innymi ze względu na krewnych z brytyjskiej rodziny królewskiej. Na początku maja 1915 roku zezwolił na bombardowanie, ale tylko na wschód od Tower."
+  - "LZ 38 przeleciał nad Stoke Newington, Shoreditch, Whitechapel i Stepney. Zginęło siedem osób, w tym troje dzieci, a 35 zostało rannych, a obrona Londynu okazała się bezsilna."
+  - "Po nalocie rząd ograniczył prasę do oficjalnych komunikatów. Nalot otworzył kampanię bombardowań Londynu, która trwała z przerwami do 1918 roku."
 ---
 
 Późnym wieczorem 31 maja 1915 roku nad [Londynem](https://pl.wikipedia.org/wiki/Londyn) pojawił się niemiecki [sterowiec](https://pl.wikipedia.org/wiki/Sterowiec) armii [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), dowodzony przez kapitana Ericha Linnarza. W ciągu kilkunastu minut zrzucił na północne i wschodnie dzielnice miasta ponad sto bomb burzących i zapalających. Zginęło siedem osób, w tym troje dzieci, a 35 zostało rannych. Był to pierwszy nalot na stolicę Wielkiej Brytanii, która dotąd wydawała się poza zasięgiem wojny.

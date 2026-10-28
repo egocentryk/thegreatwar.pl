@@ -2,7 +2,13 @@
 title: Britain introduces conscription
 summary: On 27 January 1916 the Military Service Act received royal assent. Unmarried men in Great Britain aged 18 to 41 became liable for conscription.
 source: wielka-brytania-wprowadza-pobor
-sourceHash: eb4e69e580147d13a659285bfa0193d5d0a00ae0
+sourceHash: 0274f334846c829c37dd5ab4dde354b82ee6f4c3
+brief:
+  - "On 27 January 1916 the Military Service Act received royal assent. Britain, which had so far fought the war with an army of volunteers, introduced conscription."
+  - "The Act covered single men and childless widowers aged 18 to 41 who had not come forward under the Derby Scheme. It fulfilled Asquith's promise that married men would not be called up before single men."
+  - "Exemptions, including for conscientious objection, were granted by local tribunals, with a right of appeal. Conscientious objectors usually received only exemption from armed service."
+  - "The Act did not cover Ireland, and resistance in Britain was weaker than had been feared. The Labour Party condemned conscription but did not demand the repeal of the Act and remained in the government."
+  - "The Act did not give the army as many men as expected, because many of those called up obtained exemptions or failed to report. As early as May 1916 conscription was extended to married men."
 ---
 
 On 27 January 1916 the Military Service Act received royal assent. Britain, the only great European power that had so far fought the war with an army made up solely of volunteers, introduced [conscription](https://pl.wikipedia.org/wiki/Pobór_(wojsko)). In the [House of Lords](https://pl.wikipedia.org/wiki/Izba_Lordów) the King's assent to seven Acts at once was announced, and immediately afterwards the King's Speech was read and Parliament was prorogued until 15 February. The Act passed through both Houses in less than a month and, as the *Annual Register* observed, with astonishing unanimity, although it represented one of the greatest changes in British opinion for many years.

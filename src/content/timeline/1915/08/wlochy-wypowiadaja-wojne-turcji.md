@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Włochy, Imperium Osmańskie, wypowiedzenie wojny, Sidney Sonnino]
 milestone: true
 draft: false
+brief:
+  - "20 sierpnia 1915 roku ambasador Włoch w Konstantynopolu, markiz Camillo Garroni, wręczył wielkiemu wezyrowi wypowiedzenie wojny. Stan wojny z Imperium Osmańskim zaczął obowiązywać 21 sierpnia."
+  - "W układzie londyńskim z 26 kwietnia 1915 roku Włochy zobowiązały się walczyć z wszystkimi wrogami Ententy. Rząd Salandry długo zwlekał, obawiając się m.in. nasilenia powstania w Libii."
+  - "Bezpośrednim powodem zerwania był zakaz wyjazdu Włochów z portów Syrii i Anatolii. 3 sierpnia Garroni wręczył ultimatum, a Porta przyjęła żądania, ale nie dotrzymała obietnic."
+  - "Włoska nota wyliczała też łamanie przez Turcję pokoju z 1912 roku, m.in. wspieranie bractwa Sanusijja walczącego z Włochami w Libii."
+  - "Wypowiedzenie wojny niewiele zmieniło na frontach: Włochy nie wysłały wojsk do Dardaneli, a ich głównym polem walki z Turcją pozostała Libia. Niemcom wypowiedziały wojnę dopiero pod koniec sierpnia 1916 roku."
 ---
 
 21 sierpnia 1915 roku [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) znalazło się w stanie wojny z [Imperium Osmańskim](https://pl.wikipedia.org/wiki/Imperium_Osmańskie). Deklarację wręczono dzień wcześniej. W piątek 20 sierpnia w południe ambasador Włoch w Konstantynopolu, markiz Camillo Garroni, przekazał wielkiemu wezyrowi [Saidowi Halimowi Paszy](https://pl.wikipedia.org/wiki/Said_Halim_Pasza) notę, w której oświadczał, że od następnego dnia Włochy uważają się za będące w stanie wojny z Turcją. Tak wynika z depesz samego Garroniego, opublikowanych później w zbiorze włoskich dokumentów dyplomatycznych. Brytyjska chronologia i większość opracowań podają datę 21 sierpnia, czyli dzień, w którym stan wojny zaczął obowiązywać.

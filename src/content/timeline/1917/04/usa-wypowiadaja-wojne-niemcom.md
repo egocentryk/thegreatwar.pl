@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Stany Zjednoczone, Niemcy, Woodrow Wilson, okręty podwodne]
 milestone: true
 draft: false
+brief:
+  - "6 kwietnia 1917 roku, w Wielki Piątek, Izba Reprezentantów przyjęła stosunkiem głosów 373 do 50 rezolucję wojenną, a prezydent Woodrow Wilson ją podpisał. Stany Zjednoczone znalazły się w stanie wojny z Niemcami."
+  - "Dwa dni wcześniej Senat przyjął rezolucję 82 głosami przeciw 6. Przeciwnicy, jak Robert La Follette, dowodzili, że Wielka Brytania łamała prawo morskie tak samo jak Niemcy."
+  - "Wśród przeciwników w Izbie była Jeannette Rankin, pierwsza kobieta w Kongresie. Tego samego dnia zajęto 91 niemieckich statków, które od 1914 roku chroniły się w amerykańskich portach."
+  - "Stany Zjednoczone weszły do wojny niemal bez armii lądowej, a Wilson nazywał swój kraj „państwem stowarzyszonym”, a nie sprzymierzonym. Alianci mogli jednak liczyć na amerykańskie kredyty."
+  - "Niemieckie dowództwo liczyło, że okręty podwodne zmuszą Wielką Brytanię do pokoju, zanim Amerykanie przewiozą przez ocean liczącą się armię. Następnego dnia wojnę Niemcom wypowiedziała Kuba."
 ---
 
 6 kwietnia 1917 roku, w Wielki Piątek, Stany Zjednoczone przystąpiły do wojny z Niemcami. O 3:12 nad ranem [Izba Reprezentantów](https://pl.wikipedia.org/wiki/Izba_Reprezentantów_Stanów_Zjednoczonych) przyjęła stosunkiem głosów 373 do 50 wspólną rezolucję Kongresu, którą [Senat](https://pl.wikipedia.org/wiki/Senat_Stanów_Zjednoczonych) zatwierdził dwa dni wcześniej. O 13:18 prezydent [Woodrow Wilson](/postacie/woodrow-wilson) ją podpisał i ogłosił proklamację o istnieniu stanu wojny. Od zerwania stosunków dyplomatycznych minęły dwa miesiące, a od [orędzia prezydenta](/wilson-prosi-kongres-o-wypowiedzenie-wojny) do Kongresu cztery dni.

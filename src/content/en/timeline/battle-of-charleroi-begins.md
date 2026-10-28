@@ -2,7 +2,12 @@
 title: Battle of Charleroi begins
 summary: On 21 August 1914 the French 5th Army and the German 2nd Army clashed on the Sambre. The Germans seized the river crossings before the French could occupy them.
 source: poczatek-bitwy-pod-charleroi
-sourceHash: c1a8245ef8b0834c13f0576004c311f1a729e878
+sourceHash: 1efba4cef933cdab46dcc156e71eb6ea2d9359df
+brief:
+  - "On 21 August 1914 on the Sambre near Charleroi a battle began between the French 5th Army of General Charles Lanrezac and the German 2nd Army of General Karl von Bülow, one of the key engagements of the Battle of the Frontiers."
+  - "Lanrezac had warned that the Germans were marching through Belgium in far greater strength than thought, but Joffre shifted the 5th Army north only at the last moment. The French could not fully occupy the river line."
+  - "The German advance guard seized crossings at places such as Auvelais and Tamines, and French counter-attacks ended in heavy losses. On 22 August at Tamines the Germans shot several hundred inhabitants."
+  - "When the German 3rd Army forced the Meuse at Dinant, Lanrezac ordered a retreat. The defeat on the Sambre, with the setbacks in the Ardennes and at Mons, began the Great Retreat of the Allies."
 ---
 
 On 21 August 1914, on the river [Sambre](https://pl.wikipedia.org/wiki/Sambra) near the Belgian town of [Charleroi](https://pl.wikipedia.org/wiki/Charleroi), a battle began between the French 5th Army of General Charles Lanrezac and the German 2nd Army of General [Karl von Bülow](/postacie/karl-von-bulow). It was one of the most important engagements of the [Battle of the Frontiers](/bitwy/bitwa-graniczna), which decided the course of the first weeks of the war in the west.

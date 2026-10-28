@@ -2,7 +2,12 @@
 title: First Battle of Artois begins
 summary: On 27 September 1914 the Race to the Sea reached Artois. The French and Germans began fighting for Arras, Lens and the heights that shaped the front for years.
 source: poczatek-pierwszej-bitwy-w-artois
-sourceHash: 23cb90d0e840059b1b3398f7942596aeaf4b2d02
+sourceHash: 67e18cbb88997cc5aaae8925455abd4870f15c91
+brief:
+  - "On 27 September 1914 the First Battle of Artois began, another stage of the Race to the Sea. According to the British chronology it lasted until 12 October, though other studies use other names and dates."
+  - "There was still no continuous front between Arras, Lens and Douai. Joffre assembled General Louis de Maud'huy's forces around Arras, while Falkenhayn sent Crown Prince Rupprecht's Sixth Army there."
+  - "On 1 October the Germans forestalled the French attack, and by 4 October they had taken Lens, Souchez, Neuville-Saint-Vaast and the heights of Vimy. Joffre forbade a retreat, and Maud'huy's group became the Tenth Army."
+  - "The French held Arras, but the Germans won Lens, the centre of the coalfield, and the Vimy and Lorette heights. Vimy Ridge was permanently recaptured only by the Canadians in April 1917."
 ---
 
 On 27 September 1914 the First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) began, another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After the fighting in Picardy and at Albert, both sides moved their attempts to outflank the enemy further north, to the area around [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) and the coalfield around [Lens](https://pl.wikipedia.org/wiki/Lens). The battle lasted until 12 October. The French held Arras, but the Germans took Lens and the heights north of the town, and the front that settled here lasted with few changes until 1917.

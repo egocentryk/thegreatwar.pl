@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Alzacja, Joseph Joffre]
 milestone: true
 draft: false
+brief:
+  - "20 lipca 1915 roku o 14 francuscy strzelcy alpejscy ruszyli do szturmu na grzbiet Linge w Wogezach, na zachód od Colmaru. Zaczęła się bitwa o Le Linge, jedna z najkrwawszych na tym odcinku frontu."
+  - "Generał Joseph Joffre chciał obejść nieprzyjaciela „górą”, przez grzbiety panujące nad dolinami. Szturm powierzono 129 Dywizji generała Charlesa Nolleta, choć generał de Pouydraguin ostrzegał przed ryzykiem."
+  - "Na zalesionych stokach broniła się bawarska Landwehra w okopach, betonowych schronach i gęstych zasiekach. Niemieckie pozycje leżały około 200 metrów wyżej niż francuskie okopy wyjściowe."
+  - "Pierwszy szturm nie zdobył żadnego z trzech szczytów: Lingekopf, Schratzmännele i Barrenkopf. 22 Batalion Strzelców Alpejskich stracił pod ogniem karabinów maszynowych 192 zabitych i ponad 400 rannych."
+  - "Bitwa trwała do połowy października i przy niewielkich zmianach linii frontu kosztowała Francuzów kilka tysięcy zabitych. Linge przeszło do ich pamięci jako „grobowiec strzelców”."
 ---
 
 20 lipca 1915 roku o 14, po wielogodzinnym ostrzale artyleryjskim, francuskie bataliony [strzelców alpejskich](https://pl.wikipedia.org/wiki/Strzelcy_alpejscy) ruszyły do szturmu na grzbiet Linge w [Wogezach](https://pl.wikipedia.org/wiki/Wogezy), między doliną Orbey a doliną Munster, na zachód od [Colmaru](https://pl.wikipedia.org/wiki/Colmar). Na stromych, zalesionych stokach czekały na nich niemieckie okopy, betonowe schrony i gęste zasieki, na których broniła się bawarska [Landwehra](https://pl.wikipedia.org/wiki/Landwehra). Pierwszy szturm nie zdobył żadnego z trzech szczytów grzbietu: Lingekopf, Schratzmännele i Barrenkopf. Tak zaczęła się bitwa o Le Linge, jedna z najkrwawszych bitew na tym odcinku frontu. Trwała do połowy października, a Francuzi zapłacili za niewielki skrawek gór kilkoma tysiącami zabitych. Linge przeszło do ich pamięci jako „grobowiec strzelców”.

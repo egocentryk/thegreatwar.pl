@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Ukraina, Austro-Węgry, Królestwo Polskie, Ottokar Czernin]
 milestone: true
 draft: false
+brief:
+  - "9 lutego 1918 roku w Brześciu Litewskim Niemcy, Austro-Węgry, Bułgaria i Turcja podpisały pierwszy traktat pokojowy tej wojny, z Ukraińską Republiką Ludową. Czernin nazwał go „pokojem chlebowym”."
+  - "Wiedeń stał przed widmem głodu, więc cesarz Karol zgodził się na warunki Ukraińców. Ukraina obiecała państwom centralnym nadwyżkę zboża, którą Rada zagwarantowała w wysokości co najmniej miliona ton."
+  - "W zamian traktat dawał Ukrainie Chełmszczyznę i część Podlasia, a tajny protokół przewidywał wydzielenie ukraińskiej części Galicji Wschodniej. Tymczasem Centralna Rada opuściła Kijów, do którego wchodzili bolszewicy."
+  - "Dla Polaków był to „czwarty rozbiór”. Rząd Kucharzewskiego podał się do dymisji, Rada Regencyjna zaprotestowała, a w nocy z 15 na 16 lutego II Brygada Hallera przebiła się pod Rarańczą na stronę rosyjską."
+  - "Wiedeń szybko zapowiedział, że los Chełmszczyzny ustali komisja z udziałem Polaków, ale zaufania Polaków do państw centralnych nie udało się już odbudować. Ukrainę zaś zajęły wojska niemieckie i austro-węgierskie."
 ---
 
 9 lutego 1918 roku (27 stycznia według kalendarza juliańskiego) około drugiej w nocy w cytadeli [Brześcia Litewskiego](https://pl.wikipedia.org/wiki/Brześć) podpisano pierwszy [traktat pokojowy](https://pl.wikipedia.org/wiki/Traktat_brzeski_(9_lutego_1918)) tej wojny. Niemcy, Austro-Węgry, Bułgaria i Turcja zawarły pokój z Ukraińską Republiką Ludową, którą [tydzień wcześniej](/uznanie-ukrainy-przez-panstwa-centralne) uznały za niepodległe państwo. Austro-węgierski minister spraw zagranicznych hrabia [Ottokar Czernin](/postacie/ottokar-czernin), który zabiegał o to porozumienie od pierwszych dni rokowań, nazwał je „pokojem chlebowym” (*Brotfrieden*). Ukraina obiecywała zboże głodującym Wiedniowi i Berlinowi, a w zamian dostawała granicę, która odcinała od ziem polskich [Chełmszczyznę](https://pl.wikipedia.org/wiki/Gubernia_chełmska) i część Podlasia. Dla Polaków był to „czwarty rozbiór”.

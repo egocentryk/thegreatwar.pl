@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Rosja, Austro-Węgry, Aleksander Kiereński, Galicja]
 milestone: true
 draft: false
+brief:
+  - "1 lipca 1917 roku, po dwudniowym ostrzale artyleryjskim, piechota rosyjskiej 11 i 7 Armii ruszyła do natarcia w Galicji Wschodniej, między Zborowem a Brzeżanami."
+  - "Minister wojny Aleksander Kiereński od tygodni namawiał żołnierzy do walki. Na odcinku szerokim około 65 kilometrów zgromadzono ponad 30 dywizji, a Rosjanie po raz pierwszy mieli przewagę ognia."
+  - "Pod Koniuchami 11 Armia przełamała front na styku niemieckiej Armii Południowej i austro-węgierskiej 2 Armii i wzięła do niewoli większość obrońców."
+  - "Pod Brzeżanami 7 Armia zdobyła kilka linii okopów, ale w nocnym boju została odrzucona. Rosyjska 52 Dywizja w ogóle odmówiła pójścia do ataku."
+  - "Kiereński depeszował o „wielkim triumfie rewolucji”, ale radość okazała się przedwczesna. Oddziały szturmowe poniosły ciężkie straty, a 7 Armia nie była już w stanie wznowić natarcia."
 ---
 
 1 lipca 1917 roku (18 czerwca według kalendarza juliańskiego) armia rewolucyjnej Rosji rozpoczęła swoją pierwszą i ostatnią wielką ofensywę. Rano piechota rosyjskiej 11 i 7 Armii wyszła z okopów w Galicji Wschodniej, między [Zborowem](https://pl.wikipedia.org/wiki/Zborów) a [Brzeżanami](https://pl.wikipedia.org/wiki/Brzeżany), i ruszyła na pozycje austro-węgierskie, niemieckie i tureckie. Natarcie poprzedził dwudniowy ostrzał artyleryjski, który zaczął się 29 czerwca. Tę datę brytyjska chronologia wojny podaje jako początek ofensywy. Pod Koniuchami Rosjanie przełamali front i wzięli tysiące jeńców, pod Brzeżanami po całodziennym boju zostali odparci. Wieczorem minister wojny [Aleksander Kiereński](/postacie/aleksander-kierenski) depeszował do Piotrogrodu o „wielkim triumfie rewolucji”.

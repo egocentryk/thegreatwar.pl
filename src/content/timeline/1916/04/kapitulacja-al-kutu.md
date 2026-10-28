@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania, Enver Pasza]
 milestone: true
 draft: false
+brief:
+  - "29 kwietnia 1916 roku, po 147 dniach oblężenia, generał Charles Townshend poddał Al-Kut nad Tygrysem wojskom osmańskim. Do kapitulacji zmusił garnizon głód, a nie szturm."
+  - "Po porażce trzeciej próby odsieczy i nieudanym rejsie statku Julnar nie było nadziei na ratunek. Od 26 kwietnia obrońcy żyli tylko z tego, co zrzucili lotnicy, a wielu chorowało na czerwonkę i szkorbut."
+  - "W rokowaniach Townshend oferował Turkom 40 dział i milion funtów za wypuszczenie garnizonu na słowo honoru. Enver Pasza zażądał jednak wszystkich ludzi, dział i sprzętu."
+  - "Według brytyjskiej historii oficjalnej garnizon liczył 13 309 ludzi. Townshend był do końca wojny honorowym jeńcem, a z około 12 tysięcy jego żołnierzy, którzy poszli do niewoli, zmarło ponad 4 tysiące."
+  - "W Wielkiej Brytanii kapitulację przyjęto jako upokorzenie. Rozliczenie wyprawy doprowadziło latem do powołania Komisji Mezopotamskiej, a w Turcji zwycięstwo przypisano przede wszystkim Halilowi."
 ---
 
 29 kwietnia 1916 roku, po 147 dniach oblężenia, generał Charles Townshend poddał [Al-Kut](https://pl.wikipedia.org/wiki/Al-Kut) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) wojskom osmańskim. Rano zniszczył działa i amunicję, a po południu Turcy weszli do miasta. Według brytyjskiej historii oficjalnej (Moberly, *The Campaign in Mesopotamia*, tom II) garnizon liczył tego dnia 13 309 ludzi: 10 061 żołnierzy, w tym 2592 brytyjskich i 6988 indyjskich szeregowych i podoficerów, oraz 3248 indyjskich pomocników (followers). Do kapitulacji nie zmusił ich szturm, tylko głód. Po porażce [trzeciej próby odsieczy](/bitwy/trzecia-proba-odsieczy-al-kutu) i nieudanym [rejsie statku Julnar](/rejs-statku-julnar) nie było już nadziei na ratunek.

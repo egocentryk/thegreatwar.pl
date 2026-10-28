@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: Canadian victory. The Canadians took and held Hill 70, inflicting heavy losses on the Germans and tying down their reserves, but did not take Lens, which remained in German hands until the autumn of 1918.
 source: bitwa-o-wzgorze-70
-sourceHash: 06113ccae3bd2f505b37ae5090cfa5b44a267bd5
+sourceHash: 658524e09a9222e7055a0b7eab2d35470755af9d
+brief:
+  - "The Battle of Hill 70, fought above Lens on 15–25 August 1917, was the first battle of the Canadian Corps under a Canadian commander, General Arthur Currie."
+  - "The attack was meant to draw German reserves away from Flanders. Currie persuaded his superiors to attack Hill 70 instead of Lens, since the Germans would have to retake it under Canadian artillery fire."
+  - "At dawn on 15 August two Canadian divisions quickly took the summit, and over three days, by Currie's count, beat off 21 counter-attacks, some with flamethrowers and under cover of mustard gas."
+  - "The attacks on Lens itself on 21–25 August, in the ruins and cellars of the town, brought heavy losses and little ground. In eleven days of fighting the Canadian Corps lost more than 8,500 men."
+  - "The capture of the hill was a model of the limited-objective attack and achieved the diversion: the German Sixth Army used up divisions that could have relieved exhausted units in Flanders."
 ---
 
 The Battle of Hill 70 was the first battle of the Canadian Corps under a Canadian commander, General [Arthur Currie](/postacie/arthur-currie). It was meant to draw German attention and reserves away from Flanders, where the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) had been under way since 31 July. The headquarters of the British First Army wanted the Canadians to strike straight at the ruined mining town of [Lens](https://pl.wikipedia.org/wiki/Lens). Currie persuaded his superiors that Hill 70, which dominated the town from the north, mattered more: the Germans would not tolerate the loss of so valuable an observation point and would have to retake it, and then the Canadian artillery would inflict losses on them such as no attack could. At dawn on 15 August 1917 two Canadian divisions took the summit within a few dozen minutes, and over the next three days, by Currie's count, beat off 21 German counter-attacks, some of them delivered with flamethrowers and under cover of a new gas, mustard gas. The plan worked. Things went worse on 21–25 August, when the Canadians tried to break into Lens itself: the attacks in the ruins of the town brought heavy losses and little ground. In eleven days of fighting the Canadian Corps lost more than 8,500 men, and the Germans, by various estimates, between 10,000 and 20,000.

@@ -2,7 +2,13 @@
 title: Brazil declares war on Germany
 summary: On 26 October 1917 the Brazilian Congress recognised that Germany had imposed a state of war on Brazil. The immediate cause was the sinking of the Macau.
 source: brazylia-wypowiada-wojne-niemcom
-sourceHash: daf1410e45f6f5c9bc3bc5972b271571406ea897
+sourceHash: 5aab2d4cd89c70713df046835de27d6d3eefb044
+brief:
+  - "On 26 October 1917 the Brazilian Congress recognised and proclaimed a state of war with the German Empire, \"provoked by the latter\". President Venceslau Brás signed a decree that day giving the resolution the force of law."
+  - "The immediate cause was the sinking of the steamer Macau by U-93 on 18 October. The Germans detained her captain, who was never seen again. It was the fourth Brazilian ship sunk by German vessels."
+  - "The government had been moving towards the Entente for months: it broke off relations with Germany, seized German ships and revoked its neutrality. The war did not have unanimous support, being opposed by the labour movement among others."
+  - "Brazil was the only state in South America to enter the war. Its most important contribution was the navy, which in 1918 patrolled the waters between Dakar and Gibraltar."
+  - "This contribution was enough to earn Brazil a seat at the victors' table at the Paris Peace Conference and to make it one of the founding members of the League of Nations."
 ---
 
 On 26 October 1917, at three in the afternoon, the Chamber of Deputies in [Rio de Janeiro](https://pl.wikipedia.org/wiki/Rio_de_Janeiro) adopted a resolution which the Senate also approved unanimously at 5.40 p.m. "A state of war between Brazil and the German Empire, provoked by the latter, is recognised and proclaimed," ran its first sentence. Congress authorised the president to take all the steps he considered necessary for national defence and public security, to open the necessary credits and to raise loans. The same day President [Venceslau Brás](https://pl.wikipedia.org/wiki/Venceslau_Brás) signed Decree No. 3361, which gave the resolution the force of law. The largest state of South America, six months after [breaking off relations with Germany](/brazylia-zrywa-stosunki-z-niemcami), took its stand on the side of the Entente and the United States. Formally Brazil did not declare war; it merely recognised that Germany had brought about a state of war.

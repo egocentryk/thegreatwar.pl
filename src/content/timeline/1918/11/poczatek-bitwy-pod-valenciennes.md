@@ -10,6 +10,12 @@ dayOrder: 7
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Valenciennes]
 milestone: true
 draft: false
+brief:
+  - "1 listopada 1918 roku o 5.15 rano kanadyjska 10 Brygada uderzyła na zalesione wzgórze Mont Houy na południe od Valenciennes, a obok niej ruszyły brytyjskie dywizje XXII i XVII Korpusu."
+  - "Niemcy oparli tu skrzydło o kanał Skaldy, a miasta nie wolno było ostrzeliwać z powodu francuskich cywilów. Valenciennes musiało upaść przed wielkim natarciem, by osłonić jego lewe skrzydło."
+  - "Natarcie jednej brygady wspierało ponad 300 luf, które biły w Niemców od czoła, z boku i od tyłu. Wzgórze, o które wcześniej bezskutecznie walczyli Szkoci, padło w niecałą godzinę."
+  - "Sierżant Hugh Cairns z 46 Batalionu zdobywał kolejne stanowiska i zmusił do poddania się dziesiątki Niemców. Zmarł z ran 2 listopada, a jego Krzyż Wiktorii był ostatnim przyznanym Kanadyjczykowi w tej wojnie."
+  - "12 Brygada przeszła kanał od zachodu i wdarła się do miasta. Kanadyjczycy wzięli 1400 jeńców przy bardzo niewielkich stratach, a Brytyjczycy odparli kontratak wspierany zdobytymi czołgami."
 ---
 
 1 listopada 1918 roku o 5.15 rano kanadyjska 10 Brygada uderzyła na zalesione wzgórze Mont Houy na południe od [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes). Razem z nią ruszyły brytyjskie dywizje XXII i XVII Korpusu, na froncie od kanału [Skaldy](https://pl.wikipedia.org/wiki/Skalda) po wieś Artres nad Rhonelle. Wzgórze, o które kilka dni wcześniej bezskutecznie walczyli Szkoci, padło w niecałą godzinę. Do wieczora Kanadyjczycy stali na przedmieściach miasta, a ich druga brygada przeszła kanał od zachodu i wdarła się do Valenciennes, okupowanego przez Niemców [od 25 sierpnia 1914 roku](/niemcy-zajmuja-valenciennes).

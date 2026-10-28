@@ -2,7 +2,13 @@
 title: Battle of Épehy
 summary: On 18 September 1918, in rain and fog, the British and Australians attacked the outposts of the Hindenburg Line. They took over 9,000 prisoners and Épehy.
 source: bitwa-pod-epehy-1918
-sourceHash: ccf1d9a0fb14f21459204cf74c660fbc8476b22f
+sourceHash: b85cb27dd0172e41c1fad7eeab095a9c0a08b7e2
+brief:
+  - "At 5.20 a.m. on 18 September 1918, in pouring rain and thick fog, General Henry Rawlinson's British Fourth Army and the right wing of the Third Army advanced against the outer Hindenburg Line between Saint-Quentin and Gouzeaucourt."
+  - "Rawlinson relied on surprise, as at Amiens: there was no preliminary bombardment, and the 1,488 guns opened fire only at zero hour. There were only twenty tanks, so canvas dummies were set up as well."
+  - "In the centre the Australian 4th and 1st Divisions took all their objectives, including fortified Le Verguier. On the flanks the British fought all day against the 2nd Guard Division and the Alpine Corps for Ronssoy and Épehy."
+  - "In the evening German counter-attacks were repulsed, and a night attack gave the Australians the whole Hindenburg Line outpost position on their sector, overlooking the St Quentin Canal."
+  - "More than 9,000 Germans were taken prisoner. The day showed that the German Army could no longer hold even strong positions, and Haig assured Foch that he was ready to attack the main Hindenburg Line."
 ---
 
 On 18 September 1918 at 5.20 a.m., in pouring rain and thick fog, General [Henry Rawlinson](/postacie/henry-rawlinson)'s British Fourth Army and the right wing of the Third Army advanced against the outer positions of the Hindenburg Line between Saint-Quentin and Gouzeaucourt. Six days earlier the Third Army had [taken Havrincourt](/poczatek-bitwy-pod-havrincourt) on the northern sector of the same line. Now it was the turn of the belt of old British trenches, lost [on 21 March](/poczatek-operacji-michael), with the fortified villages of Le Verguier, Ronssoy and [Épehy](https://pl.wikipedia.org/wiki/Épehy). By evening the Australians in the centre had taken all their objectives, and the British on the flanks, after a whole day of fighting, had driven the Germans out of most of the fortified villages. More than 9,000 Germans were taken prisoner.

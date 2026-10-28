@@ -10,6 +10,11 @@ dayOrder: 1
 tags: [Bułgaria, Serbia, wypowiedzenie wojny, August von Mackensen]
 milestone: true
 draft: false
+brief:
+  - "14 października 1915 roku car Ferdynand ogłosił manifest o wojnie z Serbią. Bułgaria przystąpiła do wojny po stronie państw centralnych, które obiecały jej całą serbską Macedonię."
+  - "Manifest przedstawiał Bułgarię jako ofiarę serbskiej napaści, ale było to pretekstem. Według austro-węgierskiej historii oficjalnej to Bułgarzy wywołali 11 października starcie na granicy."
+  - "Bułgarska 1 Armia uderzyła na wschodnią Serbię w stronę Niszu, a 2 Armia na serbską Macedonię. Już 15–16 października Bułgarzy dotarli do Vranja i przerwali kolej do Salonik."
+  - "Serbia, broniąca się już na północy przed armiami Mackensena, musiała walczyć na dwóch frontach. W ciągu kilku tygodni Bułgarzy, Niemcy i Austriacy podbili kraj, a serbska armia wycofała się przez Albanię."
 ---
 
 14 października 1915 roku, czyli 1 października według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), którego Bułgaria wtedy używała, car [Ferdynand](/postacie/ferdynand-i-koburg) ogłosił manifest do narodu o wojnie z Serbią. [Bułgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) przystąpiła do wojny światowej po stronie Niemiec, Austro-Węgier i Turcji. Po ponad roku neutralności i licytacji między obiema stronami wybrała państwa centralne, które obiecały jej to, czego Ententa dać nie mogła: całą serbską [Macedonię](https://pl.wikipedia.org/wiki/Macedonia_(kraina_historyczna)). Od tygodnia Serbia broniła się na północy przed armiami feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen). Teraz zaatakowano ją także od wschodu.

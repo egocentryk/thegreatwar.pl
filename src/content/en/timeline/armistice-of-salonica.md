@@ -2,7 +2,13 @@
 title: Armistice of Salonica
 summary: On 29 September 1918 Bulgaria signed an armistice at Salonica. The fighting stopped at noon on 30 September, the first Central Power out of the war.
 source: rozejm-w-salonikach
-sourceHash: 689a02259e5e9cda4a41df7bbb9d1b95e49de6f0
+sourceHash: 14f56bc1048156f26e3639421bc239ec4847659c
+brief:
+  - "Late in the evening of 29 September 1918 in Salonica General Louis Franchet d'Espérey and delegates of the Bulgarian government signed a convention suspending hostilities. The fighting stopped at noon on 30 September."
+  - "Bulgaria was forced into it by defeat: in two weeks the Vardar offensive had shattered its front in Macedonia, and the retreating regiments had begun to mutiny. Malinov's government, with the Tsar's consent, asked for an armistice."
+  - "Franchet d'Espérey refused any pause in operations and dictated terms: evacuation of Greek and Serbian territory, demobilisation of the army except three divisions, and captivity for the soldiers west of Skopje."
+  - "The talks took place in the shadow of the Radomir rebellion, where a republic was proclaimed on 27 September. The rebel soldiers marched on Sofia but were routed, and on 2 October government troops retook Radomir."
+  - "Bulgaria was the first of the Central Powers to leave the war, cutting the Ottoman Empire off from Germany and exposing Austria-Hungary. On 3 October Tsar Ferdinand abdicated in favour of his son Boris III."
 ---
 
 At noon on 30 September 1918 the guns fell silent on the Macedonian front. Late in the evening of the previous day, at the headquarters of the Allied armies in [Salonica](https://pl.wikipedia.org/wiki/Saloniki), General [Louis Franchet d'Espèrey](/postacie/louis-franchet-d-esperey) and delegates of the Bulgarian government had signed a military convention for the suspension of hostilities. The [Tsardom of Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii), which less than three years earlier had [entered the war](/bulgaria-i-serbia-wypowiadaja-sobie-wojne) on the side of Germany, Austria-Hungary and Turkey, was the first of the [Central Powers](https://pl.wikipedia.org/wiki/Państwa_centralne) to lay down its arms. It was forced into the decision by defeat: in two weeks the [Vardar offensive](/bitwy/ofensywa-nad-wardarem) had shattered the Bulgarian front in Macedonia, and the retreating regiments had begun to mutiny.

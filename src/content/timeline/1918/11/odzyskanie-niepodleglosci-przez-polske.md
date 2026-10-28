@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Polska, Józef Piłsudski, Królestwo Polskie, okupacja niemiecka]
 milestone: true
 draft: false
+brief:
+  - "11 listopada 1918 roku wieczorem w Warszawie Rada Regencyjna przekazała Józefowi Piłsudskiemu władzę wojskową i naczelne dowództwo wojsk polskich. Tego samego ranka Niemcy podpisały rozejm pod Compiègne."
+  - "Od wieczora 10 listopada, dnia powrotu Piłsudskiego z Magdeburga, żołnierze polscy, członkowie POW i mieszkańcy rozbrajali niemiecki garnizon. Około 30 tysięcy Niemców opuściło Warszawę w następnych dniach."
+  - "Słabi już regenci postanowili oddać Piłsudskiemu wojsko, a sami zapowiedzieli złożenie władzy w ręce przyszłego rządu narodowego. Dzień później powierzyli mu misję jego utworzenia."
+  - "Wszystkie trzy mocarstwa rozbiorowe przegrały wojnę albo się rozpadły, ale nowe państwo nie miało jeszcze granic ani uznanego rządu, a we Lwowie Polacy walczyli z Ukraińcami."
+  - "Odzyskiwanie niepodległości trwało tygodnie, lecz 11 listopada przyjęto za symboliczną datę. Ustawa z 23 kwietnia 1937 roku ustanowiła Narodowe Święto Niepodległości, przywrócone w 1989 roku."
 ---
 
 11 listopada 1918 roku wieczorem w Warszawie [Rada Regencyjna](https://pl.wikipedia.org/wiki/Rada_Regencyjna) przekazała [Józefowi Piłsudskiemu](/postacie/jozef-pilsudski) władzę wojskową i naczelne dowództwo wojsk polskich. Przez cały dzień żołnierze polscy, członkowie [Polskiej Organizacji Wojskowej](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) i zwykli mieszkańcy rozbrajali w mieście niemiecki garnizon, który jeszcze kilka dni wcześniej trzymał w ręku całe Królestwo. Tego samego dnia rano w lesie pod Compiègne Niemcy [podpisały rozejm](/rozejm-w-compiegne) z Ententą. Po czterech latach wojny i ponad stu dwudziestu latach niewoli Polska po raz pierwszy od rozbiorów miała własne wojsko pod jednym dowództwem w stolicy wolnej od obcych żołnierzy. Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości.

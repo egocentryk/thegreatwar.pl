@@ -2,7 +2,13 @@
 title: Revolution in Berlin
 summary: On 9 November 1918 the revolution reached Berlin. The chancellor announced the Kaiser's abdication and handed power to Ebert; Scheidemann proclaimed a republic.
 source: rewolucja-w-berlinie
-sourceHash: e05cd2fcf6b2e2798fc7dd35a7213031c59157a1
+sourceHash: 34a5fc09bf03cba30853605ae39e83f9c620c2ea
+brief:
+  - "On 9 November 1918 the German Empire collapsed within a few hours. In the morning a general strike began in Berlin, and hundreds of thousands of workers and soldiers marched towards the city centre."
+  - "The revolution that began with the Kiel mutiny was taking city after city, while Wilhelm II at Spa refused to abdicate. The Social Democrats gave the chancellor an ultimatum, and the garrison went over to the revolution."
+  - "At 11.30 a.m. Prince Max von Baden announced the Kaiser's abdication on his own authority, and at midday handed the chancellorship to Friedrich Ebert. It was a revolutionary act, carried out by men who did not want a revolution."
+  - "A few minutes after 2 p.m. Philipp Scheidemann proclaimed the German republic from a window of the Reichstag, and at about 4 p.m. Karl Liebknecht proclaimed a \"free socialist republic\" in front of the palace."
+  - "At Spa General Groener told the Kaiser that the army no longer stood behind him, and the next day Wilhelm II set off for the Dutch border. For opponents of the republic 9 November became a date of \"treason\"."
 ---
 
 On 9 November 1918 the German Empire collapsed within a few hours. In the morning a general strike began in [Berlin](https://pl.wikipedia.org/wiki/Berlin), and hundreds of thousands of workers and soldiers marched towards the city centre. Before noon the chancellor, Prince [Max von Baden](/postacie/max-von-baden), announced on his own authority that Kaiser [Wilhelm II](/postacie/wilhelm-ii) was renouncing the throne. At midday he handed over his office to the Social Democratic leader [Friedrich Ebert](/postacie/friedrich-ebert). At about 2 p.m. [Philipp Scheidemann](/postacie/philipp-scheidemann) proclaimed the German republic from a window of the Reichstag, and two hours later [Karl Liebknecht](https://pl.wikipedia.org/wiki/Karl_Liebknecht) proclaimed a "free socialist republic" in front of the imperial palace. Meanwhile, at headquarters in [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)), General [Wilhelm Groener](/postacie/wilhelm-groener) told the Kaiser that the army would no longer follow him. That same day the German delegation in the Forest of Compiègne was considering the [armistice terms](/niemieccy-parlamentariusze-u-focha) it had heard from Marshal Foch.

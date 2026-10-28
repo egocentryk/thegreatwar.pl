@@ -2,7 +2,12 @@
 title: Battle of Armentières begins
 summary: On 13 October 1914 the British III Corps attacked the Germans at Meteren in Flanders. After a day's fighting in rain it took the village, losing over 700 men.
 source: poczatek-bitwy-pod-armentieres
-sourceHash: 815c6f4197fe217edcbfa0f012753fb311e80c9b
+sourceHash: fdd37c90951df29a8cad462a83fedd4beefc56d5
+brief:
+  - "On 13 October 1914 General William Pulteney's British III Corps attacked from Hazebrouck and ran into entrenched Germans at Meteren. British nomenclature begins the Battle of Armentières with this engagement."
+  - "III Corps was the last corps of the British Expeditionary Force to move to Flanders from the Aisne. With Allenby's cavalry it was to advance eastwards and pass to the north of Lille."
+  - "The attack began only at about 2 p.m., in rain and mist, with little help from the artillery. Only after dark did the 10th Brigade take Meteren, and III Corps lost 708 killed, wounded and missing that day."
+  - "Among the seriously wounded was Lieutenant Bernard Montgomery. That night the Germans withdrew behind the Lys, and the British entered Bailleul on 14 October and Armentières three days later, where the advance soon halted."
 ---
 
 On 13 October 1914 the British III Corps of General William Pulteney went over to the attack from [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) in French Flanders. At the village of [Méteren](https://pl.wikipedia.org/wiki/Méteren) it ran into entrenched Germans and only took their position after dark, after a whole day of fighting in rain and fog. British nomenclature begins the Battle of Armentières with this engagement, in which III Corps fought for the next three weeks in the valley of the river [Lys](https://pl.wikipedia.org/wiki/Leie).

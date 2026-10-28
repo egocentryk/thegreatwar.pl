@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Adolph von Carlowitz, Bruno von Mudra, Oskar von Hutier]
 result: Allied victory. The British broke the last prepared German line on this sector and took about 10,000 prisoners. On the night of 4/5 November the Germans began their retreat to the Antwerp–Meuse position.
 source: bitwa-nad-sambra-1918
-sourceHash: 227e92093438753d633d36aae2b3ba4860d7ff9c
+sourceHash: 868cc4409353ce9d62c21181d87a7f0bcaf76b1d
+brief:
+  - "The Battle of the Sambre, fought on 4 November 1918, was the British Army's last great battle of the war. The Fourth, Third and First Armies attacked on a front about 50 kilometres long, with the French First Army on their right."
+  - "Behind the Sambre–Oise Canal and the Forest of Mormal the Germans held the second Hermann position, covering the railway through Aulnoye and Maubeuge. The depleted British divisions spent ten days preparing bridges and fire plans."
+  - "In the fog sappers threw footbridges across the canal at Catillon, Ors and Landrecies. At Ors the crossing broke down, and Lieutenant-Colonel James Marshall, Second Lieutenant James Kirk and the 25-year-old poet Wilfred Owen were killed."
+  - "The Third Army went through the Forest of Mormal, and the New Zealand Division surrounded the fortress of Le Quesnoy. Second Lieutenant Leslie Averill climbed the single ladder onto the rampart and the garrison capitulated."
+  - "That day the British took about 10,000 prisoners and more than 200 guns. On the night of 4/5 November the German Second Army began falling back to the Antwerp–Meuse position, and on 11 November the Canadians entered Mons."
 ---
 
 The Battle of the [Sambre](https://pl.wikipedia.org/wiki/Sambra), fought on 4 November 1918, was the last great battle of the British Army in the First World War. A week before the armistice three British armies, the Fourth, Third and First, attacked on a front about 50 kilometres long, from the Sambre–Oise Canal in the south to the area of [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes) in the north, while the French First Army advanced on their right flank. In a single day the British crossed the canal at Catillon, Ors and [Landrecies](https://pl.wikipedia.org/wiki/Landrecies), went through the great Forest of Mormal, and the New Zealanders climbed a ladder onto the ramparts of the fortress of [Le Quesnoy](https://pl.wikipedia.org/wiki/Le_Quesnoy). The poet [Wilfred Owen](https://pl.wikipedia.org/wiki/Wilfred_Owen) was killed at the crossing at Ors. After this defeat the German Second Army no longer tried to make a stand on any prepared line, and on the night of 4/5 November it began to fall back to the Antwerp–Meuse position.

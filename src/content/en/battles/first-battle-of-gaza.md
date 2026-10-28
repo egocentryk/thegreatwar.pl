@@ -9,7 +9,13 @@ sides:
     commanders: [Djemal Pasha, Friedrich Kress von Kressenstein, Tiller]
 result: Ottoman victory. The British surrounded the town and took Ali Muntar, but broke off the battle and withdrew behind the Wadi Ghazze. They lost nearly 4,000 men, the Turks and Germans about 2,400.
 source: pierwsza-bitwa-o-gaze
-sourceHash: 18d94a30d5397fb91245013874e9ea3c898e3812
+sourceHash: 83c44f9d453c03f9488822afd5eb268a84657741
+brief:
+  - "The First Battle of Gaza, fought on 26–27 March 1917, was the first British attempt to break into Palestine. General Charles Dobell wanted to take the town by a swift stroke on the march."
+  - "Everything had to be decided in a single day, because the horses had no water. Chetwode estimated the garrison at about 2,000 men, not knowing that Kress had recently almost doubled it."
+  - "On 26 March Australian, New Zealand and British cavalry surrounded Gaza from the east and north, and in the afternoon the Welsh 53rd Division took Ali Muntar. At dusk the garrison was close to surrender."
+  - "Not knowing this, and fearing Turkish reinforcements, the commanders ordered the cavalry to break off. Through a misunderstanding the infantry abandoned the hills it had won, and on 27 March it failed to retake them."
+  - "The British lost 3,967 men, and Murray's reports raised exaggerated hopes in London. The Turks turned Gaza into a fortress, which fell only at the beginning of November 1917."
 ---
 
 The First Battle of Gaza was the first British attempt to break into Palestine. On 26 March 1917, after a night march and a morning fog, Australian, New Zealand and British cavalry surrounded [Gaza](https://pl.wikipedia.org/wiki/Gaza_(miasto)) from the east and north, and in the afternoon the Welsh 53rd Infantry Division took Ali Muntar, the hill that dominates the town. At dusk the garrison was close to surrender, but the British commanders did not know it. Fearing the approaching Turkish reinforcements and thinking of the horses, which had stood without water all day, they ordered the cavalry to break off the fight. Through a misunderstanding the infantry abandoned the positions it had captured, on 27 March it tried in vain to retake them, and on the night of 27/28 March the whole army went back behind the Wadi Ghazze. Gaza, which had been all but taken, remained in Turkish hands for more than seven months.

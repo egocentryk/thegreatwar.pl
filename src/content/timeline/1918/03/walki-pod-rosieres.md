@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Ferdinand Foch]
 milestone: true
 draft: false
+brief:
+  - "27 marca 1918 roku, siódmego dnia niemieckiej ofensywy, sześć dywizji brytyjskiego XIX Korpusu generała Herberta Wattsa broniło się przed Rosières-en-Santerre przeciw jedenastu niemieckim na drodze do Amiens."
+  - "Dywizje Wattsa walczyły i cofały się prawie bez przerwy od 21 marca, niektóre zredukowane do jednej brygady. Po konferencji w Doullens dostały rozkaz utrzymania się za wszelką cenę do przybycia Francuzów."
+  - "Brytyjczycy niemal wszędzie utrzymali pozycje, a na kilku odcinkach skutecznie kontratakowali. 8 Dywizja przez cały dzień utrzymała poranną linię przed Rosières."
+  - "O losach dnia przesądziło to, co działo się na tyłach: Niemcy przeszli Sommę pod Chipilly i zajęli Lamotte, a na prawym skrzydle weszli do Montdidier. Przed Amiens stała już tylko improwizowana Carey's Force."
+  - "W nocy Foch zgodził się na odwrót lewego skrzydła korpusu, a Gough dowiedział się, że zostaje odwołany. Brytyjska historia oficjalna uznaje ten dzień za dowód „niezwykłej zdolności oporu” 5 Armii."
 ---
 
 27 marca 1918 roku, siódmego dnia niemieckiej ofensywy wiosennej, resztki brytyjskiej 5 Armii stoczyły na płaskowyżu Santerre, przed wsią [Rosières-en-Santerre](https://pl.wikipedia.org/wiki/Rosières-en-Santerre), jedną z najbardziej zaciętych bitew obronnych tej wojny. XIX Korpus generała Herberta Wattsa miał sześć dywizji, które od [21 marca](/poczatek-operacji-michael) prawie bez przerwy walczyły i cofały się, a naprzeciw nich stało jedenaście niemieckich. Brytyjczycy niemal wszędzie utrzymali swoje pozycje, a na kilku odcinkach skutecznie kontratakowali. Mimo to wieczorem ich położenie było groźniejsze niż rano: Niemcy przeszli Sommę na tyłach lewego skrzydła korpusu, a na prawym zajęli Montdidier. Przed [Amiens](https://pl.wikipedia.org/wiki/Amiens) stała już tylko improwizowana zbieranina saperów i kolejarzy, a dowódca armii, generał [Hubert Gough](/postacie/hubert-gough), dowiedział się tego wieczoru, że zostaje odwołany.

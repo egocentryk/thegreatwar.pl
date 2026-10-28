@@ -2,7 +2,13 @@
 title: German peace offer
 summary: On 12 December 1916 Germany and her allies proposed peace negotiations to the Entente. The note contained no terms, but plenty of boasting.
 source: niemiecka-oferta-pokojowa
-sourceHash: 5809dc602eee2ea8785acc1cf3a188df3b335e49
+sourceHash: 36f9b9b30dd7249bd0bee57dbff7b8f6978852a8
+brief:
+  - "On 12 December 1916 Chancellor Bethmann Hollweg passed a note proposing peace negotiations through the neutral states, and Austria-Hungary, Bulgaria and Turkey presented identical notes."
+  - "The initiative came from the Austro-Hungarian foreign minister Burián, and Berlin judged that the best moment had come after the capture of Bucharest, when there was no risk of an impression of weakness."
+  - "The note stated no peace terms, but praised the \"indestructible strength\" of the Central Powers and threatened that if refused they would carry the struggle on to a victorious end."
+  - "The Reich government reckoned that an Entente refusal would give it a justification for unrestricted submarine warfare, which the Admiralty and the Supreme Army Command had been demanding for months."
+  - "The Entente rejected the offer on 30 December 1916, calling it a war manoeuvre, and a month later Germany announced unrestricted submarine warfare."
 ---
 
 On the morning of 12 December 1916 the Reich Chancellor, [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollweg), summoned, one by one, the Spanish ambassador, the Swiss minister and the American chargé d'affaires, Joseph Grew. They represented the states that during the war looked after Germany's interests in enemy countries. He handed each of them a note proposing the opening of peace negotiations and asked them to pass it on to the Entente governments. The United States was to deliver it to France, Britain, Japan, Romania, Russia and Serbia, Spain to Belgium and Portugal, and Switzerland to Italy. On the same day the governments of Austria-Hungary, Bulgaria and Turkey presented identical notes in Vienna, Sofia and Constantinople. Pope [Benedict XV](https://pl.wikipedia.org/wiki/Benedykt_XV) and the other neutral states were notified separately. In the afternoon the Chancellor read the note out in the Reichstag. For the first time in this war the Central Powers had officially and jointly proposed peace talks to their opponents.

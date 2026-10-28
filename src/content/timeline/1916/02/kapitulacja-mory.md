@@ -9,6 +9,11 @@ dayOrder: 1
 tags: [Kamerun, kolonie niemieckie, Wielka Brytania, Francja]
 milestone: true
 draft: false
+brief:
+  - "18 lutego 1916 roku skapitulowała niemiecka załoga góry nad Morą na dalekiej północy Kamerunu. Według brytyjskiej historii oficjalnej zakończyło to kampanię w Kamerunie."
+  - "Kapitan Ernst von Raben bronił się na górze od sierpnia 1914 roku. Po nieudanym szturmie z września 1915 roku alianci ograniczyli się do blokady, a obrońcom brakowało lekarstw, ubrań i butów."
+  - "Gen. Frederick Cunliffe zawiadomił Rabena, że reszta niemieckich sił wycofała się do Muni i została internowana. Raben uznał dalszą walkę za bezcelową i przyjął honorowe warunki."
+  - "Do niewoli poszło według brytyjskiej historii oficjalnej 11 Niemców i 145 afrykańskich żołnierzy, którym alianci oddali honory wojskowe. Kolonię Brytyjczycy i Francuzi musieli teraz podzielić między siebie."
 ---
 
 18 lutego 1916 roku skapitulowała niemiecka załoga góry nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) na dalekiej północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Kapitan Ernst von Raben bronił się tu od sierpnia 1914 roku, gdy jego kompania odparła [pierwszy atak aliantów](/pierwszy-atak-na-more). Poddał się na honorowych warunkach, dopiero gdy dowiedział się, że reszta niemieckich wojsk w Kamerunie [schroniła się w hiszpańskim Muni](/niemcy-przechodza-do-gwinei-hiszpanskiej). Według brytyjskiej historii oficjalnej (Moberly, *Togoland and the Cameroons*) kapitulacja Mory zakończyła kampanię w Kamerunie.

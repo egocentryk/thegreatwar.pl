@@ -9,7 +9,12 @@ sides:
     commanders: [Oskar Potiorek, Liborius von Frank]
 result: Serbian victory. The Austro-Hungarian forces withdrew across the Drina and the Sava.
 source: bitwa-na-gorze-cer
-sourceHash: 2ce42b3b217d50854e5da4cdd7bb8afed8c0c321
+sourceHash: a7a1890e59214bc635da2dbbed3ffc543501f4a8
+brief:
+  - "The Battle of Cer, also known as the Battle of the Jadar, was fought on 15–24 August 1914 in western Serbia. It was the first Allied victory of the First World War."
+  - "On 12 August Austria-Hungary invaded Serbia. Vojvoda Radomir Putnik recognised that the main thrust was coming from the west and sent there the Second Army under General Stepa Stepanović."
+  - "On the night of 15–16 August the Serbs moved onto the slopes of Mount Cer. On 19 August Austro-Hungarian morale collapsed, and by 24 August their forces had withdrawn across the Drina and the Sava."
+  - "Austria-Hungary lost more than 40,000 killed, wounded and taken prisoner, and Serbia some 18,000–20,000. Stepa Stepanović was promoted for the victory to the rank of vojvoda."
 ---
 
 The [Battle of Cer](https://pl.wikipedia.org/wiki/Bitwa_na_górze_Cer), also known as the Battle of the Jadar, was fought on 15–24 August 1914 in western [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii). It ended in the rout of the Austro-Hungarian forces and was the first Allied victory of the First World War.

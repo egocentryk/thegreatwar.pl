@@ -15,6 +15,12 @@ result: Zwycięstwo Wielkiej Brytanii. Niemcy stracili dwa krążowniki pancerne
 authors: [Łukasz Skowroń]
 tags: [Royal Navy, Kaiserliche Marine, Maximilian von Spee, Doveton Sturdee]
 milestone: true
+brief:
+  - "8 grudnia 1914 roku na południowym Atlantyku zespół wiceadmirała Dovetona Sturdeego rozbił niemiecką Eskadrę Wschodnioazjatycką wiceadmirała Maximiliana von Spee. Było to pięć tygodni po klęsce pod Coronelem."
+  - "Po Coronelu admirał John Fisher wysłał na południowy Atlantyk krążowniki liniowe Invincible i Inflexible, szybsze od niemieckich okrętów i uzbrojone w działa 305 mm."
+  - "Spee chciał zniszczyć stację radiową i składy węgla na Falklandach, ale rankiem 8 grudnia zobaczył w Port Stanley brytyjskie okręty liniowe. Przerwał atak i próbował uciec na południowy wschód."
+  - "Krążowniki liniowe dogoniły Niemców. Zatonęły Scharnhorst, Gneisenau, Nürnberg i Leipzig, a zginęło około 1900 niemieckich marynarzy, w tym Spee i obaj jego synowie. Uciekł tylko Dresden."
+  - "Bitwa zmyła hańbę Coronela. Jedyny stały zespół niemieckiej marynarki poza Europą przestał istnieć, a szlaki handlowe na południowym Atlantyku i Pacyfiku znów były bezpieczne."
 ---
 
 [Bitwa koło Falklandów](https://pl.wikipedia.org/wiki/Bitwa_koło_Falklandów) rozegrała się 8 grudnia 1914 roku na południowym Atlantyku. Brytyjski zespół wiceadmirała [Dovetona Sturdeego](https://pl.wikipedia.org/wiki/Doveton_Sturdee), z dwoma nowoczesnymi krążownikami liniowymi na czele, dopadł i rozbił niemiecką Eskadrę Wschodnioazjatycką wiceadmirała [Maximiliana von Spee](/postacie/maximilian-von-spee). Zatonęły cztery z pięciu niemieckich krążowników, zginął sam Spee i około 1900 jego marynarzy. Pięć tygodni po klęsce [pod Coronelem](/bitwy/bitwa-pod-coronelem) [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) wzięła odwet, a Niemcy stracili jedyny zespół okrętów, jaki mieli na oceanach świata.

@@ -9,7 +9,13 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg"]
 result: Inconclusive, with a slight German advantage. The Germans took Mouse Trap Farm and part of Bellewaarde Ridge but did not break through the front. Both sides then halted their attacks.
 source: bitwa-o-grzbiet-bellewaarde
-sourceHash: 5aa927688f9434f1df0446c5f41fb19833ee5456
+sourceHash: 5fd1a091c227cfa4a4f302a9b2fed23fa6729f40
+brief:
+  - "The Battle of Bellewaarde Ridge, fought on 24 and 25 May 1915 east of Ypres, was the final stage of the Second Battle of Ypres. It began with the largest chlorine attack the British had yet experienced."
+  - "Both sides were exhausted after the fighting of April and May. The British battalions had been filled with half-trained recruits, and the soldiers had only simple respirators."
+  - "At dawn on 24 May the Germans released chlorine on a front of about 7 kilometres. They took Mouse Trap Farm near Wieltje and tore a gap at Bellewaarde Lake, and some British battalions ceased to exist."
+  - "Night counter-attacks by the 84th and 80th Brigades did not recover the trenches, and the 4th Division gave up the salient at Mouse Trap Farm. That evening the German command abandoned further major operations."
+  - "The Germans moved the front forward by several hundred metres and gained a better view into the Ypres salient, but did not break through. The battle exposed the disastrous shortage of ammunition in the British army."
 ---
 
 The Battle of Bellewaarde Ridge, fought on 24 and 25 May 1915 east and north-east of [Ypres](https://pl.wikipedia.org/wiki/Ieper), was the final stage of the [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres). It began at dawn with a German [chlorine](https://pl.wikipedia.org/wiki/Chlor) attack which, according to the British official history, was the largest the British had yet experienced. It covered almost the whole sector of the British V Corps. The British already had simple respirators and were not taken by surprise, but many units, made up largely of half-trained recruits, were almost entirely destroyed. The Germans tore two gaps in the British line: at Bellewaarde Lake and Ridge, and at Mouse Trap Farm. Night counter-attacks did not close them, but the Germans no longer had the strength to go further. On the evening of 24 May their command halted the attack, and on 25 May the fighting died down.

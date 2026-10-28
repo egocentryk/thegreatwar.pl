@@ -2,7 +2,13 @@
 title: The charge at Beersheba
 summary: On 31 October 1917 the British took Beersheba. At dusk two regiments of the Australian Light Horse galloped into the town and saved its wells.
 source: szarza-pod-beer-szewa
-sourceHash: 4481dc9a6d433aa025d14377e9f2d26d34f9b5c6
+sourceHash: 5e9135956611a03d3416f676c5f8876918188518
+brief:
+  - "On 31 October 1917 General Edmund Allenby's troops took Beersheba. It was the first step of the Third Battle of Gaza: instead of attacking Gaza frontally, Allenby outflanked the Turkish line from the east."
+  - "The town had to fall before dark, because its wells were the only ones in the area that could water the cavalry's horses. In the morning the infantry of XX Corps took the Turkish trenches west of the town."
+  - "In the east the New Zealanders took Tel el Saba only at 3 p.m. With less than two hours left until dark, Lieutenant-General Harry Chauvel sent the 4th Light Horse Brigade into a charge."
+  - "About 800 Australian horsemen, bayonets in hand, jumped the Turkish trenches and galloped into the town. Most of the Turkish engineers fled without blowing up the wells."
+  - "By evening Beersheba was in British hands, and almost 2,000 Ottoman soldiers had been taken prisoner. The Turks, expecting an advance on Hebron and Jerusalem, began moving troops from Gaza."
 ---
 
 On 31 October 1917, shortly after sunset, according to the most commonly cited estimates about 800 horsemen of the Australian 4th [Light Horse](https://pl.wikipedia.org/wiki/Australian_Light_Horse) Brigade galloped towards [Beersheba](https://pl.wikipedia.org/wiki/Beer_Szewa), an Ottoman town on the edge of the Negev desert. They had no swords, so they held bayonets in their hands. They rode several kilometres across open plain, jumped the Turkish trenches and were in the town less than an hour after the order was given. The Turkish engineers did not manage to blow up the wells, and without them the whole autumn offensive of General [Edmund Allenby](/postacie/edmund-allenby) could have stalled on the very first day. By the evening Beersheba was in British hands, and almost 2,000 Ottoman soldiers had been taken prisoner.

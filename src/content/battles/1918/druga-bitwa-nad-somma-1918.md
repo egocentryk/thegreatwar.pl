@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Brytyjska 3 Armia posunęła się średnio 
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Nowa Zelandia, Erich Ludendorff]
 milestone: true
+brief:
+  - "Druga bitwa nad Sommą to brytyjska nazwa natarcia, w którym od 21 sierpnia do 3 września 1918 roku brytyjska 3 i 4 Armia wyparły Niemców z dawnego pola bitwy nad Sommą z 1916 roku."
+  - "Po bitwie pod Amiens Haig nie chciał dalej uderzać czołowo na południe od Sommy. Przeniósł ciężar ofensywy na północ, gdzie 21 sierpnia we mgle ruszyła 3 Armia generała Juliana Bynga."
+  - "W ciągu dwóch tygodni Brytyjczycy, Australijczycy i Nowozelandczycy odbili Albert, Bapaume i Péronne. Australijczycy generała Monasha zdobyli z marszu wzgórze Mont Saint-Quentin."
+  - "Ziemię, o którą w 1916 roku walczono przez prawie pięć miesięcy, sprzymierzeni odzyskali w niespełna dwa tygodnie. 2 września niemieckie naczelne dowództwo kazało cofnąć się na Linię Hindenburga."
+  - "Była to pierwsza bitwa, w której armia brytyjska przeszła do ciągłego, ruchomego nacierania na szerokim froncie. Niemieckie armie traciły ludzi szybciej, niż mogły ich uzupełniać."
 ---
 
 Druga bitwa nad Sommą to brytyjska nazwa natarcia, w którym od 21 sierpnia do 3 września 1918 roku brytyjska 3 i 4 Armia wyparły Niemców z dawnego pola bitwy nad Sommą z 1916 roku. Po [bitwie pod Amiens](/bitwy/bitwa-pod-amiens) 8–11 sierpnia marszałek [Douglas Haig](/postacie/douglas-haig) nie chciał dalej uderzać czołowo na coraz silniejszą obronę niemiecką na południe od Sommy. Przeniósł ciężar ofensywy na północ, gdzie 21 sierpnia ruszyła 3 Armia generała [Juliana Bynga](/postacie/julian-byng). W ciągu dwóch tygodni Brytyjczycy, Australijczycy i Nowozelandczycy odbili [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)), [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) i [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), zdobyli Mont Saint-Quentin i wzięli kilkadziesiąt tysięcy jeńców. Ziemię, o którą w 1916 roku walczono przez prawie pięć miesięcy, a którą Niemcy zajęli w marcu 1918 roku w kilka dni, sprzymierzeni odzyskali w niespełna dwa tygodnie. 2 września niemieckie naczelne dowództwo postanowiło wycofać armie na Linię Hindenburga, z której wyruszyły do wiosennej ofensywy.

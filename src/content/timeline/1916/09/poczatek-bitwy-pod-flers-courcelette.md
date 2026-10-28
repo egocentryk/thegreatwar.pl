@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [czołgi, Brytyjski Korpus Ekspedycyjny, Kanada, Nowa Zelandia]
 milestone: true
 draft: false
+brief:
+  - "15 września 1916 roku o 6.20 brytyjska 4 Armia i prawe skrzydło Armii Rezerwowej uderzyły nad Sommą na froncie około dziesięciu kilometrów. Po raz pierwszy w historii do boju weszły czołgi."
+  - "Z 42 czołgów przeznaczonych dla 4 Armii na miejsce dotarło 30. Wiele utknęło lub zgubiło drogę, ale pod Flers czołg wjechał główną ulicą wsi, a za nim szli wiwatujący żołnierze."
+  - "41 Dywizja zdobyła Flers, Nowozelandczycy linię Switch Line, a 47 Dywizja po ciężkich walkach High Wood. Pod Ginchy Gwardia poniosła ciężkie straty, a zginął tam Raymond Asquith, syn premiera."
+  - "Wieczorem 22 Batalion francuskojęzycznych Kanadyjczyków i 25 Batalion z Nowej Szkocji zdobyły Courcelette, a 15 Dywizja (szkocka) zajęła Martinpuich."
+  - "Przełamania nie było, a kawaleria nie ruszyła, ale żaden dzień ofensywy nie przyniósł Brytyjczykom tyle ziemi. Spór o to, czy tajemnicę czołgów zmarnowano zbyt małą liczbą maszyn, trwał dziesięciolecia."
 ---
 
 15 września 1916 roku o 6.20 rano brytyjska 4 Armia i prawe skrzydło Armii Rezerwowej uderzyły nad Sommą na froncie długości około dziesięciu kilometrów, od wąwozu pod Combles po drogę z Albert do Bapaume. Było to najsilniejsze natarcie brytyjskie od [pierwszego dnia bitwy](/pierwszy-dzien-bitwy-nad-somma), 1 lipca, i pierwsze w historii, w którym wzięły udział czołgi. Kilkadziesiąt stalowych maszyn, o których istnieniu nie wiedziała większość brytyjskich żołnierzy, a tym bardziej Niemcy, wypełzło z porannej mgły przed nacierającą piechotą. Do wieczora Brytyjczycy zdobyli las High Wood, wsie [Flers](https://pl.wikipedia.org/wiki/Flers_(Somma)) i [Martinpuich](https://pl.wikipedia.org/wiki/Martinpuich), a Kanadyjczycy [Courcelette](https://pl.wikipedia.org/wiki/Courcelette). Przełamania, na które liczył generał [Douglas Haig](/postacie/douglas-haig), nie było, ale żaden dzień od początku ofensywy nie przyniósł Brytyjczykom tyle ziemi. W pamięci zostało przede wszystkim jedno zdanie: o czołgu, który jedzie główną ulicą Flers, a za nim idą wiwatujący żołnierze.

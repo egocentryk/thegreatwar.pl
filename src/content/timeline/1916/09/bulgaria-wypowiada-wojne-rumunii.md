@@ -8,6 +8,12 @@ dayOrder: 5
 tags: [Bułgaria, Rumunia, wypowiedzenie wojny, Rosja]
 milestone: true
 draft: false
+brief:
+  - "1 września 1916 roku Bułgaria wypowiedziała wojnę Rumunii, a bułgarska 3 Armia ruszyła do natarcia na granicy Dobrudży. W stanie wojny z Rumunią znalazły się wszystkie cztery państwa centralne."
+  - "Bułgarom chodziło przede wszystkim o południową Dobrudżę, którą Rumunia zabrała im w 1913 roku. Manifest cara Ferdynanda I wzywał, by „zgnieść podstępnego sąsiada”."
+  - "Decyzję poprzedziło kilka dni wahań: premier Wasił Radosławow zapewniał Ententę o neutralności, a Rumuni obiecywali ustąpienie Dobrudży. Zerwanie stosunków 30 sierpnia przesądziło sprawę."
+  - "Rumuni liczyli, że Bułgarzy nie odważą się uderzyć na Dobrudżę, w której stoją Rosjanie. Pod Dobriczem Bułgarzy po raz pierwszy w nowożytnej historii walczyli z wojskami rosyjskimi i nie ustąpili."
+  - "Rumunia musiała walczyć na dwóch frontach. Już 6 września Bułgarzy i Niemcy zdobyli twierdzę Tutrakan, a do stycznia 1917 roku wojska państw centralnych zajęły całą Dobrudżę."
 ---
 
 1 września 1916 roku, w piątek przed południem, [Bułgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) ogłosiła, że jest w stanie wojny z [Rumunią](https://pl.wikipedia.org/wiki/Królestwo_Rumunii). Rumuński historyk Constantin Kirițescu pisał, że rano do odciętego od świata poselstwa rumuńskiego w [Sofii](https://pl.wikipedia.org/wiki/Sofia) przyszedł urzędnik bułgarskiego ministerstwa spraw zagranicznych i wręczył posłowi notę z wypowiedzeniem wojny. Tego samego dnia ukazał się manifest cara [Ferdynanda I](/postacie/ferdynand-i-koburg), a bułgarska 3 Armia ruszyła do natarcia na granicy [Dobrudży](https://pl.wikipedia.org/wiki/Dobrudża). W Bułgarii, która wiosną 1916 roku przeszła na [kalendarz gregoriański](https://pl.wikipedia.org/wiki/Kalendarz_gregoriański), był to 1 września. W Rumunii, gdzie wciąż liczono czas po staremu, kalendarze pokazywały 19 sierpnia.

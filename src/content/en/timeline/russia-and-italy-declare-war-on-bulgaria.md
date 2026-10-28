@@ -2,7 +2,12 @@
 title: Russia and Italy declare war on Bulgaria
 summary: On 19 October 1915 Nicholas II's manifesto on war with Bulgaria, "betrayer of the Slav cause", was published. Italy also declared war on Bulgaria that day.
 source: rosja-i-wlochy-wypowiadaja-wojne-bulgarii
-sourceHash: 779aa168314de341949eb9e30420b75eef584702
+sourceHash: c603bac9ffcb5b444cb5847db3f834169f904a1e
+brief:
+  - "On 19 October 1915 Nicholas II's manifesto on war with Bulgaria was published, and the government in Rome announced that Italy was at war with it. All the great powers of the Entente now stood against Bulgaria."
+  - "The tsar called Bulgaria's attack on Serbia a betrayal of the Slav cause. He blamed \"the government of Ferdinand of Coburg\", which had yielded to German calculations and hostility towards the Serbs."
+  - "For the Russians it was a bitter war against a country that less than forty years earlier had regained its statehood after Russia's war with Turkey. For the time being, however, Russia could act against Bulgaria only at sea."
+  - "This was Italy's third declaration of war that year, but it was still not at war with Germany. Salandra's government was in no hurry to send troops to Salonika, and an Italian division arrived only in the summer of 1916."
 ---
 
 On 19 October 1915 [Russia](https://pl.wikipedia.org/wiki/Imperium_Rosyjskie) and [Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) joined the states fighting [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii). That day the manifesto of Emperor [Nicholas II](/postacie/mikolaj-ii) declaring war on Bulgaria was published in Petrograd, and the government in Rome announced that Italy was at war with it. Five days had passed since [Bulgaria declared war on Serbia](/bulgaria-i-serbia-wypowiadaja-sobie-wojne). Earlier, [Britain](/wielka-brytania-wypowiada-wojne-bulgarii), Montenegro and [France](/francja-wypowiada-wojne-bulgarii) had declared themselves at war with Bulgaria. Now all the great powers of the Entente stood against Bulgaria.

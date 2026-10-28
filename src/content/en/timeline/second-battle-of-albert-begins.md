@@ -2,7 +2,13 @@
 title: Second Battle of Albert begins
 summary: In thick fog on 21 August 1918 Britain's Third Army attacked with tanks north of the Ancre, took Bucquoy and Achiet-le-Petit and reached the Albert–Arras line.
 source: poczatek-bitwy-pod-albert-1918
-sourceHash: 19be12e062726bc71a72501c771e274b4f767348
+sourceHash: 3f46bd60a2f26e3faae3b500474725d45ae712d5
+brief:
+  - "At 4.55 a.m. on 21 August 1918 General Julian Byng's British Third Army attacked on a front of about 14 km, from Miraumont on the Ancre to Moyenneville, without a preliminary bombardment and with more than a hundred tanks."
+  - "After the Amiens attack stalled, Haig persuaded Foch to shift the offensive north of the Somme, to the Third Army front, where the ground was good for tanks and the Germans did not expect an attack."
+  - "Thick fog helped the infantry, as the German machine-gunners fired blind, but many tanks lost their way. By noon the British had taken Bucquoy, Puisieux, Achiet-le-Petit, Courcelles and Moyenneville."
+  - "When the fog lifted, the attack stopped at the embankment of the Albert–Arras railway, the German main line of resistance. According to Haig's dispatch the Third Army took more than 2,000 prisoners."
+  - "The Germans considered the day their victory, but their counter-attack on 22 August was everywhere repulsed. That day the Fourth Army joined in, and on 23 August the attack covered the whole front from the Somme to Arras."
 ---
 
 On 21 August 1918, at 4.55 a.m., General [Julian Byng](/postacie/julian-byng)'s British Third Army went into the attack on a front about 14 km long, from Miraumont on the river [Ancre](https://pl.wikipedia.org/wiki/Ancre) to Moyenneville south of Arras. Two of its corps, IV and VI, advanced behind a barrage, without any preliminary bombardment, with more than a hundred tanks, in fog so thick that according to some accounts one could see barely a few metres. By noon they had taken the German forward zone, captured [Bucquoy](https://pl.wikipedia.org/wiki/Bucquoy), [Puisieux](https://pl.wikipedia.org/wiki/Puisieux_(Pas-de-Calais)), [Achiet-le-Petit](https://pl.wikipedia.org/wiki/Achiet-le-Petit), Courcelles and Moyenneville and come up against the embankment of the Albert–Arras railway, on which the Germans had their main line of resistance. There, when the fog lifted, the attack stopped. It was the first day of the Battle of Albert and the start of the second great British blow after the [victory at Amiens](/poczatek-bitwy-pod-amiens) on 8 August.

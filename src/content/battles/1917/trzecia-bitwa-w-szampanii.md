@@ -15,6 +15,12 @@ result: Częściowy sukces Francuzów. 4 Armia zdobyła większość grzbietu Mo
 authors: [Natalia]
 tags: [Francja, Niemcy, Robert Nivelle, broń chemiczna]
 milestone: true
+brief:
+  - "Trzecia bitwa w Szampanii, nazywana przez Francuzów bitwą o wzgórza, toczona od 17 kwietnia do 20 maja 1917 roku, była natarciem pomocniczym w ofensywie Nivelle'a na wschód od Reims."
+  - "Celem francuskiej 4 Armii generała François Anthoine'a był masyw Moronvilliers, z którego Niemcy od 1914 roku widzieli całą równinę Szampanii. Bronili go w betonowych schronach i tunelach wydrążonych w kredzie."
+  - "17 kwietnia o 4.45 Francuzi ruszyli w zawiei i w pierwszych dniach wdarli się na większość szczytów, biorąc kilka tysięcy jeńców. Przełamania nie było, a niemieckie kontrataki odbierały część zdobyczy."
+  - "Walki o pojedyncze szczyty trwały do 20 maja, gdy Francuzi zdobyli Mont Cornillet. W tunelu pod nim zginęły setki niemieckich żołnierzy, a Francuzi znaleźli tam w 1917 roku ponad 600 ciał."
+  - "Bitwa była najbardziej udaną częścią ofensywy Nivelle'a i odebrała Niemcom obserwację, ale frontu nie przełamała. Na wzgórzach pojawiły się też pierwsze oznaki buntów w armii francuskiej."
 ---
 
 Trzecia bitwa w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), przez Francuzów nazywana bitwą o wzgórza (bataille des Monts), była częścią wiosennej [ofensywy Nivelle'a](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a). Dzień po głównym uderzeniu nad Aisne i na Chemin des Dames francuska 4 Armia generała [François Anthoine'a](/postacie/francois-anthoine) zaatakowała na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims) masyw Moronvilliers, pasmo kredowych wzgórz, z których Niemcy od 1914 roku patrzyli na całą równinę wokół [Châlons](https://pl.wikipedia.org/wiki/Châlons-en-Champagne). W pierwszych dniach Francuzi wdarli się na większość szczytów i wzięli kilka tysięcy jeńców, ale przełamania, na które liczył naczelny wódz, nie było. Niemcy bronili się w betonowych schronach i w tunelach wydrążonych pod wzgórzami, a ich kontrataki odbierały część zdobyczy. Walki o pojedyncze szczyty trwały do 20 maja, kiedy Francuzi zdobyli wreszcie Mont Cornillet, a w tunelu pod nim zginęły setki niemieckich żołnierzy.

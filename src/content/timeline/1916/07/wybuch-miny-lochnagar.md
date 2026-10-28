@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, British Army, Niemcy, wojna pozycyjna]
 milestone: true
 draft: false
+brief:
+  - "1 lipca 1916 roku o 7.28, dwie minuty przed godziną zero pierwszego dnia bitwy nad Sommą, brytyjscy saperzy odpalili pod niemieckimi okopami na południe od wsi La Boisselle minę Lochnagar."
+  - "Saperzy kompanii tunelowych w zupełnej ciszy wykopali chodnik pod pozycję Schwabenhöhe i załadowali 60 tysięcy funtów amonalu. Razem z miną Y Sap były to największe miny zdetonowane dotąd na froncie zachodnim."
+  - "Wybuch zostawił lej o średnicy około 82 metrów i zniszczył część niemieckich schronów, ale głębokie schrony 110 Rezerwowego Pułku Piechoty przetrwały bombardowanie, a Niemcy wiedzieli, że atak nadchodzi."
+  - "Atakująca o 7.30 brytyjska 34 Dywizja wpadła pod ogień karabinów maszynowych i straciła 6380 oficerów i żołnierzy, najwięcej ze wszystkich brytyjskich dywizji tego dnia. La Boisselle pozostało w rękach niemieckich."
+  - "Lej Lochnagar przetrwał do dziś. W 1978 roku kupił go Richard Dunning, a co roku 1 lipca odbywa się nad nim uroczystość ku czci poległych żołnierzy brytyjskich, francuskich i niemieckich."
 ---
 
 1 lipca 1916 roku o 7.28, dwie minuty przed godziną zero [pierwszego dnia bitwy nad Sommą](/pierwszy-dzien-bitwy-nad-somma), brytyjscy saperzy odpalili pod niemieckimi okopami na południe od wsi La Boisselle minę nazwaną Lochnagar. Dwa ładunki, razem 60 tysięcy funtów (około 27 ton) [amonalu](https://pl.wikipedia.org/wiki/Amonal), wyrzuciły w powietrze ziemię, kredę i niemieckie schrony na odcinku zwanym przez Niemców Schwabenhöhe. Razem z bliźniaczą miną Y Sap po drugiej stronie wsi były to największe miny, jakie dotąd zdetonowano na froncie zachodnim. Po wybuchu został lej, który przetrwał do dziś jako [krater Lochnagar](https://pl.wikipedia.org/wiki/Krater_Lochnagar), jedno z najczęściej odwiedzanych miejsc pamięci nad [Sommą](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Wybuch nie przyniósł jednak zwycięstwa. Atakująca tu brytyjska 34 Dywizja straciła tego dnia więcej ludzi niż jakakolwiek inna dywizja, a La Boisselle pozostało w rękach niemieckich.

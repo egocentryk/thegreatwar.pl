@@ -9,6 +9,11 @@ dayOrder: 8
 tags: [wypowiedzenie wojny, Serbia, Niemcy, Nikola Pašić]
 milestone: true
 draft: false
+brief:
+  - "6 sierpnia 1914 roku rząd Nikoli Pašicia, działający w wojennej stolicy w Niszu, wypowiedział wojnę Niemcom, choć oba państwa nie miały wspólnej granicy."
+  - "Deklaracja niewiele zmieniała militarnie, ale miała wymowę polityczną: Belgrad uważał Niemcy za współodpowiedzialne za wojnę, bo to ich poparcie umożliwiło Wiedniowi twardy kurs wobec Serbii."
+  - "W 1914 roku Serbii zagrażała tylko armia austro-węgierska. Po inwazji 12 sierpnia Serbowie wojewody Radomira Putnika odnieśli w bitwie na górze Cer pierwsze zwycięstwo aliantów w tej wojnie."
+  - "Niemcy zajęły się Serbią dopiero jesienią 1915 roku: siły pod dowództwem Augusta von Mackensena zajęły kraj, a resztki armii serbskiej wycofały się przez góry Albanii nad Adriatyk."
 ---
 
 6 sierpnia 1914 roku [Serbia](https://pl.wikipedia.org/wiki/Królestwo_Serbii) wypowiedziała wojnę [Niemcom](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie). Decyzję podjął rząd premiera [Nikoli Pašicia](/postacie/nikola-pasic), działający w wojennej stolicy kraju, [Niszu](https://pl.wikipedia.org/wiki/Nisz). Tydzień wcześniej Serbia została zaatakowana przez [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry), a Niemcy od początku kryzysu stały za polityką Wiednia.

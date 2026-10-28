@@ -15,6 +15,12 @@ result: Zwycięstwo Brytyjczyków. Po siedmiu tygodniach walk las i wieś Longue
 authors: [Natalia]
 tags: [Związek Południowej Afryki, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa o las Delville trwała od 15 lipca do 3 września 1916 roku i była jednym z najkrwawszych i najdłuższych bojów bitwy nad Sommą. Walczono o niespełna 65-hektarowy zagajnik na wschodnim skraju wsi Longueval."
+  - "Las przylegał do Longueval i górował nad wsią. Po brytyjskim natarciu z 14 lipca 1916 roku wieś i las tworzyły wąski występ, który niemiecka artyleria mogła ostrzeliwać z trzech stron."
+  - "15 lipca las zdobyła 1 Brygada Piechoty Południowoafrykańskiej generała brygady Henry'ego Lukina. Przez sześć dni i pięć nocy odpierała w nim kolejne niemieckie kontrataki pod ciężkim ostrzałem."
+  - "Według Buchana brygada liczyła 14 lipca 121 oficerów i 3032 żołnierzy, a po bitwie zebrało się w Happy Valley około 750 ludzi. Wszyscy oficerowie 2 i 3 Batalionu, którzy weszli do lasu, zostali zabici, ranni lub wzięci do niewoli."
+  - "Kolejne dywizje brytyjskie wyparły Niemców z lasu pod koniec sierpnia, a ostatni kontratak odparto na początku września. Dla Afryki Południowej las Delville stał się symbolem jej udziału w I wojnie światowej."
 ---
 
 Bitwa o las Delville była jednym z najkrwawszych i najdłuższych bojów [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Toczyła się o niespełna 65-hektarowy zagajnik na wschodnim skraju wsi [Longueval](https://pl.wikipedia.org/wiki/Longueval), który po brytyjskim natarciu z 14 lipca 1916 roku stał się wierzchołkiem wąskiego występu w niemieckich liniach. 15 lipca las zdobyła 1 Brygada Piechoty Południowoafrykańskiej generała brygady Henry'ego Lukina. Przez sześć dni i pięć nocy broniła się w nim pod ostrzałem z trzech stron przed kolejnymi niemieckimi dywizjami i wyszła z niego zdziesiątkowana. Potem o las i sąsiednią wieś walczyły kolejne dywizje brytyjskie. Niemców ostatecznie wyparto z lasu dopiero pod koniec sierpnia, a ich ostatni kontratak odparto na początku września. Brytyjscy żołnierze nazywali to miejsce Devil's Wood, Diabelskim Lasem, a dla Afryki Południowej stało się ono symbolem jej udziału w I wojnie światowej.

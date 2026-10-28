@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Stany Zjednoczone, Woodrow Wilson, Polska, inicjatywy pokojowe]
 milestone: true
 draft: false
+brief:
+  - "8 stycznia 1918 roku prezydent Woodrow Wilson odczytał przed połączonymi izbami Kongresu orędzie o celach wojny, którego rdzeniem był program czternastu punktów, nazwany przez niego „programem pokoju świata”."
+  - "Orędzie miało odpowiedzieć bolszewikom, trafić do niemieckich socjalistów i dać do zrozumienia Ententie, że cele z tajnych traktatów trzeba zrewidować. Materiały przygotował zespół uczonych zwany Inquiry."
+  - "Program żądał m.in. jawnej dyplomacji, wolności mórz, ograniczenia zbrojeń, ewakuacji Rosji, Belgii i Francji oraz utworzenia ogólnego związku narodów, z którego wyrosła później Liga Narodów."
+  - "Punkt trzynasty żądał niepodległej Polski na ziemiach bezspornie polskich, z wolnym dostępem do morza. Było to pierwsze tak konkretne zobowiązanie mocarstwa wobec sprawy polskiej."
+  - "Doraźnych celów orędzie nie osiągnęło, ale w październiku 1918 roku Niemcy poprosili Wilsona o rozejm na podstawie jego programu, a czternaście punktów posłużyło za podstawę rokowań pokojowych w Paryżu."
 ---
 
 8 stycznia 1918 roku prezydent Stanów Zjednoczonych [Woodrow Wilson](/postacie/woodrow-wilson) stanął przed połączonymi izbami [Kongresu](https://pl.wikipedia.org/wiki/Kongres_Stanów_Zjednoczonych) i odczytał orędzie o celach wojny i warunkach pokoju. Jego rdzeniem był program złożony z czternastu punktów, który prezydent nazwał „programem pokoju świata”, a zarazem „jedynym możliwym programem”. Wystąpienie było zaskoczeniem. Wiedziano, że prezydent przemówi do Kongresu, ale niewielu, nawet wśród członków gabinetu i alianckich dyplomatów, znało jego temat. Wilson nie chciał, by gazety zawczasu spekulowały o treści orędzia, bo takie domysły często brano potem za to, co rzeczywiście powiedział. Orędzie przeszło do historii jako „czternaście punktów Wilsona” i stało się najbardziej znanym programem pokojowym tej wojny.

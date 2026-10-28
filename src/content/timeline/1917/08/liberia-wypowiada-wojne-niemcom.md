@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Liberia, Niemcy, Stany Zjednoczone, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "4 sierpnia 1917 roku Kongres Liberii jednogłośnie wypowiedział wojnę Cesarstwu Niemieckiemu. Tego samego dnia niemieckich mężczyzn z Monrovii zabrano na francuski krążownik pancerny Desaix."
+  - "Liberia zerwała stosunki z Niemcami 8 maja, ale wypowiedzenie wojny utknęło w sporach między sojusznikami. Waszyngton czekał, aż Londyn obieca znieść ograniczenia liberyjskiego handlu."
+  - "21 lipca Wielka Brytania, Francja i Stany Zjednoczone dały Liberii „stanowcze zapewnienie”, że będą jej bronić przed niemiecką agresją. Waszyngton odmówił jednak formalnej konwencji."
+  - "Liberia nie miała armii ani pieniędzy i liczyła na opiekę Waszyngtonu. 10 kwietnia 1918 roku niemiecki okręt podwodny U-154 ostrzelał Monrovię."
+  - "Po wojnie Liberia podpisała traktat wersalski i znalazła się wśród członków założycieli Ligi Narodów. Niemcy uznały, że ich traktaty z Liberią wygasły z dniem 4 sierpnia 1917 roku."
 ---
 
 4 sierpnia 1917 roku rano na redę [Monrovii](https://pl.wikipedia.org/wiki/Monrovia) wpłynął francuski krążownik pancerny Desaix. Godzinę później Kongres [Liberii](https://pl.wikipedia.org/wiki/Liberia) jednogłośnie uchwalił wspólną rezolucję obu izb o wypowiedzeniu wojny Cesarstwu Niemieckiemu. Zanim dowódca okrętu zszedł na ląd, liberyjscy żołnierze aresztowali wszystkich niemieckich mężczyzn w stolicy, a o czwartej po południu odprowadzono ich na pokład. Na miejscu zostawiono tylko kierowników niemieckich firm, którzy mieli spisać majątek i przekazać go rządowi. Amerykański poseł James L. Curtis depeszował nazajutrz do Waszyngtonu, że liberyjscy żołnierze zachowywali się wzorowo, a wśród ludności nie było żadnych zamieszek. Jedno z dwóch, obok Etiopii, niepodległych państw Afryki stało się państwem walczącym. Wojny nie mogła prowadzić ani na lądzie, ani na morzu. Chodziło o miejsce u boku Stanów Zjednoczonych i wśród przyszłych zwycięzców.

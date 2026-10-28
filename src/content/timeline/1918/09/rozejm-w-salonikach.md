@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Bułgaria, Francja, Louis Franchet d'Espérey, Niemcy]
 milestone: true
 draft: false
+brief:
+  - "Późnym wieczorem 29 września 1918 roku w Salonikach gen. Louis Franchet d’Espérey i delegaci rządu bułgarskiego podpisali konwencję o zawieszeniu broni. Walki ustały w południe 30 września."
+  - "Do decyzji zmusiła Bułgarię klęska: w dwa tygodnie ofensywa nad Wardarem rozbiła jej front w Macedonii, a cofające się pułki zaczęły się buntować. Rząd Malinowa za zgodą cara poprosił o rozejm."
+  - "Franchet d’Espérey odrzucił prośbę o przerwę w działaniach i podyktował warunki: ewakuację ziem greckich i serbskich, demobilizację armii poza trzema dywizjami oraz niewolę dla żołnierzy na zachód od Skopje."
+  - "Rokowania toczyły się w cieniu buntu w Radomirze, gdzie 27 września proklamowano republikę. Zbuntowani żołnierze ruszyli na Sofię, ale zostali rozbici, a 2 października wojska rządowe odzyskały Radomir."
+  - "Bułgaria jako pierwsza z państw centralnych wyszła z wojny, co odcięło Imperium Osmańskie od Niemiec i odsłoniło Austro-Węgry. 3 października car Ferdynand abdykował na rzecz syna Borysa III."
 ---
 
 30 września 1918 roku w południe na froncie macedońskim zamilkły działa. Poprzedniego dnia późnym wieczorem w kwaterze głównej armii sprzymierzonych w [Salonikach](https://pl.wikipedia.org/wiki/Saloniki) generał [Louis Franchet d’Espérey](/postacie/louis-franchet-d-esperey) i delegaci rządu bułgarskiego podpisali konwencję wojskową o zawieszeniu broni. [Carstwo Bułgarii](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii), które niespełna trzy lata wcześniej [przystąpiło do wojny](/bulgaria-i-serbia-wypowiadaja-sobie-wojne) u boku Niemiec, Austro-Węgier i Turcji, jako pierwsze z [państw centralnych](https://pl.wikipedia.org/wiki/Państwa_centralne) złożyło broń. Do decyzji zmusiła je klęska: w dwa tygodnie [ofensywa nad Wardarem](/bitwy/ofensywa-nad-wardarem) rozbiła front bułgarski w Macedonii, a cofające się pułki zaczęły się buntować.

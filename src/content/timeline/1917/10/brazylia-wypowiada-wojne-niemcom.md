@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Ameryka Łacińska, Niemcy, wypowiedzenie wojny, okręty podwodne]
 milestone: true
 draft: false
+brief:
+  - "26 października 1917 roku brazylijski Kongres uznał i ogłosił stan wojny z Cesarstwem Niemieckim, „wywołany przez to ostatnie”. Prezydent Venceslau Brás podpisał tego dnia dekret nadający uchwale moc prawa."
+  - "Bezpośrednim powodem było zatopienie 18 października parowca Macau przez U-93. Niemcy zatrzymali kapitana, którego nikt więcej nie zobaczył. Był to czwarty brazylijski statek zatopiony przez niemieckie okręty."
+  - "Rząd od miesięcy szedł w stronę Ententy: zerwał stosunki z Niemcami, przejął niemieckie statki i odwołał neutralność. Wojna nie była jednak jednomyślnie popierana, sprzeciwiał się jej m.in. ruch robotniczy."
+  - "Brazylia była jedynym państwem Ameryki Południowej, które przystąpiło do wojny. Jej najważniejszym wkładem była flota, która w 1918 roku patrolowała wody między Dakarem a Gibraltarem."
+  - "Ten udział wystarczył, by Brazylia zasiadła przy stole zwycięzców na konferencji pokojowej w Paryżu i została jednym z państw założycielskich Ligi Narodów."
 ---
 
 26 października 1917 roku o trzeciej po południu Izba Deputowanych w [Rio de Janeiro](https://pl.wikipedia.org/wiki/Rio_de_Janeiro) przyjęła uchwałę, którą o 17.40 jednogłośnie zatwierdził także Senat. „Uznaje się i ogłasza stan wojny między Brazylią a Cesarstwem Niemieckim, wywołany przez to ostatnie” – brzmiało jej pierwsze zdanie. Kongres upoważnił prezydenta do podjęcia wszelkich kroków, jakie uzna za potrzebne dla obrony narodowej i bezpieczeństwa publicznego, do otwarcia niezbędnych kredytów i zaciągania pożyczek. Tego samego dnia prezydent [Venceslau Brás](https://pl.wikipedia.org/wiki/Venceslau_Brás) podpisał dekret nr 3361, który nadał uchwale moc prawa. Największe państwo Ameryki Południowej, sześć miesięcy po [zerwaniu stosunków z Niemcami](/brazylia-zrywa-stosunki-z-niemcami), stanęło po stronie Ententy i Stanów Zjednoczonych. Formalnie Brazylia nie wypowiedziała wojny, tylko uznała, że stan wojny wywołały Niemcy.

@@ -15,6 +15,12 @@ result: Zwycięstwo kanadyjskie. Kanadyjczycy zdobyli i utrzymali wzgórze 70, z
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, broń chemiczna]
 milestone: true
+brief:
+  - "Bitwa o wzgórze 70, toczona 15–25 sierpnia 1917 roku nad Lens, była pierwszą bitwą Korpusu Kanadyjskiego pod dowództwem Kanadyjczyka, generała Arthura Curriego."
+  - "Natarcie miało odciągnąć niemieckie odwody od Flandrii. Currie przekonał przełożonych, by zamiast Lens zaatakować wzgórze 70, bo Niemcy będą je odbijać pod ogniem kanadyjskiej artylerii."
+  - "15 sierpnia o świcie dwie dywizje kanadyjskie szybko zdobyły szczyt, a w ciągu trzech dni odparły według Curriego 21 kontrataków, prowadzonych także z miotaczami ognia i pod osłoną iperytu."
+  - "Natarcia na samo Lens 21–25 sierpnia, w ruinach i piwnicach miasta, przyniosły duże straty i niewiele zdobyczy. W ciągu jedenastu dni walk Korpus Kanadyjski stracił ponad 8,5 tysiąca ludzi."
+  - "Zdobycie wzgórza było wzorem natarcia o ograniczonym celu i spełniło zadanie dywersji: niemiecka 6 Armia zużyła dywizje, które mogły zluzować wyczerpane oddziały we Flandrii."
 ---
 
 Bitwa o wzgórze 70 była pierwszą bitwą Korpusu Kanadyjskiego pod dowództwem Kanadyjczyka, generała [Arthura Curriego](/postacie/arthur-currie). Miała odciągnąć uwagę i odwody Niemców od Flandrii, gdzie od 31 lipca trwała [trzecia bitwa pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Dowództwo brytyjskiej 1 Armii chciało, by Kanadyjczycy uderzyli wprost na zrujnowane górnicze miasto [Lens](https://pl.wikipedia.org/wiki/Lens). Currie przekonał przełożonych, że ważniejsze jest panujące nad miastem od północy wzgórze 70: Niemcy nie zniosą utraty tak cennego punktu obserwacyjnego, będą musieli je odbijać, a wtedy kanadyjska artyleria zada im straty, jakich nie zadałoby żadne natarcie. 15 sierpnia 1917 roku o świcie dwie dywizje kanadyjskie w kilkadziesiąt minut zdobyły szczyt, a w ciągu następnych trzech dni odparły według Curriego 21 niemieckich kontrataków, prowadzonych także z miotaczami ognia i pod osłoną nowego gazu, iperytu. Plan się powiódł. Gorzej poszło 21–25 sierpnia, gdy Kanadyjczycy próbowali wedrzeć się do samego Lens: natarcia w ruinach miasta przyniosły duże straty i niewiele zdobyczy. W ciągu jedenastu dni walk Korpus Kanadyjski stracił ponad 8,5 tysiąca ludzi, a Niemcy według różnych szacunków od 10 do 20 tysięcy.

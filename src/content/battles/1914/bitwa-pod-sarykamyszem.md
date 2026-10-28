@@ -15,6 +15,12 @@ result: Zdecydowane zwycięstwo Rosji. Osmańska 3 Armia straciła większość 
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Rosja, Kaukaz, Enver Pasza]
 milestone: true
+brief:
+  - "Bitwa pod Sarykamyszem, toczona od 22 grudnia 1914 do 17 stycznia 1915 roku, była pierwszą wielką bitwą na froncie kaukaskim i jedną z największych klęsk w dziejach armii osmańskiej."
+  - "Enver Pasza chciał zniszczyć osłabioną rosyjską Armię Kaukaską i odzyskać Kars, Ardahan i Batumi. Gdy dowódca 3 Armii uznał zimową ofensywę za niewykonalną, Enver sam objął dowództwo."
+  - "IX i X Korpus miały przejść przez zaśnieżone góry na tyły Rosjan pod Sarykamyszem. Żołnierze bez zimowych mundurów tysiącami zamarzali po drodze i nie zdołali zdobyć miasteczka."
+  - "Gen. Nikołaj Judenicz przeszedł do kontrataku i okrążył resztki IX Korpusu, który 4 stycznia skapitulował. Turecki Sztab Generalny szacował straty 3 Armii na około 60 tysięcy ludzi."
+  - "Władze osmańskie zrzuciły część winy za klęskę na Ormian, co należało do tła ludobójstwa Ormian. Rosyjska prośba o odciążenie frontu stała się też jednym z impulsów do ataku na Dardanele."
 ---
 
 Bitwa pod Sarykamyszem (tur. Sarıkamış) była pierwszą wielką bitwą na froncie kaukaskim i jedną z największych klęsk w dziejach armii osmańskiej. Na przełomie 1914 i 1915 roku minister wojny [Enver Pasza](/postacie/enver-pasza) poprowadził osmańską 3 Armię w zimowy marsz przez góry, by obejść rosyjskie wojska nad granicą i zdobyć [Sarykamysz](https://pl.wikipedia.org/wiki/Sarıkamış), stację kolejową na drodze do twierdzy [Kars](https://pl.wikipedia.org/wiki/Kars). Plan był śmiały, ale nie liczył się z warunkami. Żołnierze bez zimowych mundurów i zapasów maszerowali przez przełęcze w głębokim śniegu i mrozie, tysiącami zamarzając po drodze. Gdy dotarli pod Sarykamysz, było ich za mało, by przełamać obronę. Rosyjski kontratak okrążył resztki dwóch korpusów, a z armii liczącej w grudniu około 90 tysięcy ludzi po kilku tygodniach zostało tylko kilkanaście tysięcy zdolnych do walki.

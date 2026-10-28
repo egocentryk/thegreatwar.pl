@@ -2,7 +2,12 @@
 title: Outbreak of the Greater Poland Uprising
 summary: On 27 December 1918, after a German march in Poznań, shots rang out by the Bazar hotel. Poles attacked police headquarters and took the station and post office.
 source: wybuch-powstania-wielkopolskiego
-sourceHash: ae43764e89bbd20f4d59f17ad855c0c5d98a238a
+sourceHash: 5661a16ea6ea2ad90520e6ecfe73328cb54c5f9d
+brief:
+  - "Late in the afternoon of 27 December 1918 shots rang out in the streets of Poznań, beginning the Greater Poland Uprising. Nobody had planned it for that day, and the Supreme People's Council wanted to wait for the peace conference."
+  - "The spark was Ignacy Jan Paderewski's visit and a German march with soldiers of the 6th Grenadier Regiment, who tore down Allied and Polish flags. Outside the Bazar hotel someone fired; it is not known who, or at whom."
+  - "Polish units of the People's Guard, the Polish Military Organisation and the Guard and Security Service moved on the Police Presidium. Franciszek Ratajczak and Antoni Andrzejewski fell, remembered as the first to die in Poznań."
+  - "By morning the Poles held the Police Presidium, the Main Station and the main post office. In the following days the insurgents took the Citadel, and Poles took up arms in Gniezno, Września, Środa and many other places."
 ---
 
 Late in the afternoon of 27 December 1918 shots rang out in the streets of [Poznań](https://pl.wikipedia.org/wiki/Poznań), and with them the Greater Poland Uprising began. Nobody had planned it for that day. The Polish military underground had been gathering weapons for weeks, but the [Supreme People's Council](https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa), which led the Polish movement in the Prussian partition, wanted to wait for a decision of the peace conference. The spark turned out to be the visit of [Ignacy Jan Paderewski](/postacie/ignacy-jan-paderewski), whom [Poznań had welcomed the day before](/paderewski-w-poznaniu) like a statesman, and the German demonstration organised in response. By morning the Poles controlled a large part of the city.

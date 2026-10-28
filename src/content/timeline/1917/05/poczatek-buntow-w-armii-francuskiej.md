@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Francja, Robert Nivelle, Philippe Pétain]
 milestone: true
 draft: false
+brief:
+  - "2 i 3 maja 1917 roku w Saint-Bandry pod Soissons około tysiąca żołnierzy 2 Dywizji Piechoty Kolonialnej, która miała wrócić na front, śpiewało Międzynarodówkę i krzyczało „Precz z wojną!”."
+  - "Bezpośrednią przyczyną był zawód po ofensywie Nivelle'a, która obiecywała przełom, a w kilka dni kosztowała ponad sto tysięcy zabitych, rannych i zaginionych. Żołnierze skarżyli się też na brak urlopów."
+  - "Nie był to pierwszy przypadek zbiorowej niesubordynacji, bo już 29 kwietnia pod Mourmelon-le-Grand około 200 żołnierzy odmówiło powrotu na pozycje. Żaden wcześniejszy nie miał jednak takiej skali."
+  - "Buntownicy na ogół nie odmawiali obrony okopów, lecz udziału w kolejnych natarciach. Ze 119 przypadków zbiorowej niesubordynacji 80 przypadło na okres od 25 maja do 10 czerwca."
+  - "Kryzys opanował generał Philippe Pétain, który połączył surowość wobec przywódców buntów z reformami: regularnymi urlopami, lepszym jedzeniem i rezygnacją z kosztownych natarć."
 ---
 
 2 i 3 maja 1917 roku w Saint-Bandry, wiosce na zachód od [Soissons](https://pl.wikipedia.org/wiki/Soissons), gdzie po kwietniowych walkach odpoczywała francuska 2 Dywizja Piechoty Kolonialnej, doszło do pierwszego wielkiego buntu w armii francuskiej. Dywizja dostała rozkaz powrotu na front, by wziąć udział w kolejnym natarciu na Chemin des Dames. Według zestawienia francuskiego historyka André Loeza około tysiąca żołnierzy, głównie z 43 Pułku Piechoty Kolonialnej, zebrało się w kwaterach, śpiewało [Międzynarodówkę](https://pl.wikipedia.org/wiki/Międzynarodówka_(pieśń)) i krzyczało „Precz z wojną!” („À bas la guerre!”). Padły strzały, a po obozowisku krążyły ulotki przeciw wojnie. Nie był to jeszcze pierwszy przypadek zbiorowej odmowy posłuszeństwa, ale żaden wcześniejszy nie miał takiej skali. Był to początek fali buntów, które w maju i czerwcu przetoczyły się przez kilkadziesiąt francuskich dywizji i na długo wyłączyły Francję z wielkich ofensyw.

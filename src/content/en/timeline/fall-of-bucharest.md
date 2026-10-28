@@ -2,7 +2,13 @@
 title: Fall of Bucharest
 summary: On 6 December 1916 Falkenhayn's and Mackensen's troops entered Bucharest unopposed. Ploiești fell the same day, and the cut-off Cerna Group laid down its arms.
 source: upadek-bukaresztu
-sourceHash: 1ffe7ed42c8f32006bad730386e5786493b59b5c
+sourceHash: b07812809ec4ffe664dbaf08566fa4005197862e
+brief:
+  - "At noon on 6 December 1916 the first units of General Erich von Falkenhayn's German Ninth Army entered Bucharest. The Romanian capital surrendered without a fight."
+  - "The city's fate had been decided a few days earlier by the Romanian defeat in the Battle of the Argeș. The government moved to Iași, and the high command concluded it could no longer defend Wallachia."
+  - "Bucharest was formally a fortress, but its guns had been removed before the war and there were not enough men to man the forts. In answer to Mackensen's demand, the Romanians declared it an open city."
+  - "The same day the Germans stormed Ploiești, the centre of the oilfields, although wells and oil stores there had already been set on fire. On the Danube the cut-off Romanian Cerna Group capitulated."
+  - "Bucharest was the fourth enemy capital taken by the Central Powers and remained occupied until the end of the war. The Romanian army was not destroyed: rebuilt in Moldavia, it returned to the fight in the summer of 1917."
 ---
 
 At noon on 6 December 1916 the first units of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) entered [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). The Romanian capital, which before the war had about 345,000 inhabitants, surrendered without a fight. The same day the Germans stormed [Ploiești](https://pl.wikipedia.org/wiki/Ploeszti), the centre of the oilfields, and on the Danube the Romanian Cerna Group, cut off from the rest of the army, capitulated. The Austrian official history called 6 December a day of "particular misfortune" for Romania. For the army group commander, Field Marshal [August von Mackensen](/postacie/august-von-mackensen), it was his 67th birthday. In Romania, which reckoned time by the [Julian calendar](https://pl.wikipedia.org/wiki/Kalendarz_juliański), it was 23 November.

@@ -15,6 +15,12 @@ result: Zwycięstwo Niemiec. Francuzi stracili wzgórze 132 i niemal cały przyc
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, Alexander von Kluck, Joseph Joffre]
 milestone: true
+brief:
+  - "Bitwa pod Soissons, stoczona w dniach 8–14 stycznia 1915 roku na północnym brzegu Aisne, była jedną z pierwszych dużych bitew wojny okopowej na froncie zachodnim. Francuzi nazywają ją bitwą pod Crouy."
+  - "8 stycznia oddziały generała Henriego Berthelota zdobyły wzgórze 132 nad Crouy. Niemcy, którzy sami szykowali w tym miejscu natarcie, odpowiedzieli silnym kontratakiem przygotowanym przez pułkownika Hansa von Seeckta."
+  - "Wezbrana od deszczy Aisne zerwała mosty za plecami Francuzów. 12 stycznia Niemcy odbili wzgórze 132, a 13 stycznia uderzyli pod Vregny i zaskoczyli obrońców."
+  - "14 stycznia Francuzi wycofali się za Aisne, tracąc prawie cały przyczółek na północnym brzegu. Według niemieckiej historii oficjalnej Niemcy wzięli około 5200 jeńców, a straty francuskie przekroczyły 11 tysięcy."
+  - "Porażka tak blisko Paryża wywołała ostrą krytykę francuskiego dowództwa, a Berthelot stracił dowództwo. Dla Niemców starannie przygotowane, ograniczone natarcie stało się wzorem lokalnych ataków w wojnie pozycyjnej."
 ---
 
 Bitwa pod Soissons, stoczona w dniach 8–14 stycznia 1915 roku, była jedną z pierwszych dużych bitew wojny okopowej na froncie zachodnim. Rozegrała się na stromych, poprzecinanych jarami wzgórzach na północnym brzegu rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), zaledwie kilka kilometrów od [Soissons](https://pl.wikipedia.org/wiki/Soissons) i około 100 kilometrów od Paryża. Zaczęła się od francuskiego sukcesu: oddziały francuskiej 6 Armii zdobyły wzgórze 132 nad wsią [Crouy](https://pl.wikipedia.org/wiki/Crouy). Skończyła się jednak francuską porażką. Niemcy, którzy sami szykowali w tym miejscu natarcie, odpowiedzieli silnym kontratakiem, a wezbrana od ulewnych deszczy Aisne zerwała część mostów za plecami Francuzów. W ciągu kilku dni Francuzi stracili nie tylko zdobyty teren, ale prawie cały przyczółek, który trzymali na północnym brzegu rzeki od września 1914 roku.

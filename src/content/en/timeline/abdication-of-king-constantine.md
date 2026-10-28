@@ -2,7 +2,13 @@
 title: Abdication of King Constantine
 summary: On 12 June 1917 King Constantine I, forced by the Entente, left Athens, leaving the throne to his younger son Alexander. He did not formally abdicate.
 source: abdykacja-krola-konstantyna
-sourceHash: 53eccc6fdbfe80f8850098f0c18aec479cf46922
+sourceHash: cc6feebec3ba58dedc877c3763e77cd3d6bf04d8
+brief:
+  - "On 12 June 1917 King Constantine I, forced by the ultimatum of High Commissioner Charles Jonnart, agreed to leave Greece and named his younger son, Alexander, as his successor."
+  - "Constantine did not sign an act of abdication: the government's reply said only that the king \"had decided to leave the country\". For years afterwards the royalists regarded him as the only legitimate ruler."
+  - "The Allies regarded the king as a covert ally of Germany, because since 1914 he had kept Greece out of the war and twice brought about the resignation of Eleftherios Venizelos."
+  - "As French troops landed at Piraeus, the royal family slipped out of the palace in Athens, surrounded by a crowd. According to Falls they embarked at Oropos on 14 June and sailed into exile."
+  - "The division of Greece into two states came to an end, and at the end of June Venizelos headed a government that broke off relations with the Central Powers. Constantine returned to the throne in December 1920."
 ---
 
 On 12 June 1917 the first reign of King [Constantine I](/postacie/konstantyn-i) came to an end. In the morning the high commissioner of the protecting powers, Charles Jonnart, received the Greek government's formal reply to [his ultimatum](/ultimatum-jonnarta): the king would leave the country together with the heir to the throne, and he named his younger son, [Alexander](https://pl.wikipedia.org/wiki/Aleksander_Grecki), as his successor. In the afternoon, as French troops were already landing at Piraeus, the royal family slipped out of the palace in Athens, which was surrounded by a crowd that wanted to stop them. Two days later Constantine sailed into exile. Under pressure from France and Britain, Greece lost the ruler who since 1914 had kept it out of the war.

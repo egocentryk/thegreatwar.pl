@@ -15,6 +15,12 @@ result: Decydujące zwycięstwo Włoch i ich sojuszników. Po przełamaniu front
 authors: [Natalia]
 tags: [Włochy, Austro-Węgry, Armando Diaz, Wielka Brytania]
 milestone: true
+brief:
+  - "24 października 1918 roku, dokładnie rok po Caporetto, generał Armando Diaz rozpoczął ofensywę natarciem na Grappie. Była to ostatnia bitwa wojny na froncie włoskim i ostatnia bitwa armii austro-węgierskiej."
+  - "Na Grappie Austriacy przez trzy dni odpierali szturmy, zadając Włochom ciężkie straty. Główne uderzenie przez wezbraną Piawę ruszyło dopiero w nocy z 26 na 27 października."
+  - "Brytyjczycy, Francuzi i Włosi uchwycili trzy przyczółki, a w armii austro-węgierskiej zaczęły się bunty: pułki węgierskie, czeskie, chorwackie i polskie odmawiały walki. 30 października Włosi weszli do Vittorio."
+  - "Rozejm podpisany 3 listopada w Villa Giusti pod Padwą wszedł w życie 4 listopada o 15.00. W ostatnich półtorej doby wojny do niewoli trafiły setki tysięcy żołnierzy monarchii."
+  - "Dla Włochów Vittorio Veneto stało się odpowiedzią na Caporetto i symbolem zwycięstwa. Austro-Węgry, które weszły w bitwę jako jedno państwo, wyszły z niej jako kilka nowych państw."
 ---
 
 Bitwa pod Vittorio Veneto była ostatnią bitwą wojny na froncie włoskim i ostatnią bitwą armii austro-węgierskiej. 24 października 1918 roku, dokładnie rok po przełamaniu pod Caporetto, generał [Armando Diaz](/postacie/armando-diaz) rozpoczął ofensywę natarciem w masywie Monte Grappa. Tam Austriacy jeszcze przez trzy dni odpierali szturmy, zadając Włochom ciężkie straty. Główne uderzenie przez wezbraną [Piawę](https://pl.wikipedia.org/wiki/Piawa), dwukrotnie odkładane z powodu ulew, ruszyło dopiero w nocy z 26 na 27 października. Brytyjczycy, Francuzi i Włosi uchwycili na lewym brzegu trzy przyczółki, a w tym samym czasie w armii austro-węgierskiej zaczęły się bunty: najpierw pułki węgierskie, potem czeskie, chorwackie, polskie i inne odmawiały pójścia na front i domagały się powrotu do domu. 28 października armia zaczęła się wycofywać, 30 października Włosi weszli do miasteczka Vittorio, a odwrót zamienił się w rozpad. Rozejm podpisany 3 listopada w Villa Giusti pod Padwą wszedł w życie 4 listopada o 15.00. W ostatnich półtorej doby wojny do niewoli trafiły setki tysięcy żołnierzy monarchii, która w tych samych dniach przestała istnieć.

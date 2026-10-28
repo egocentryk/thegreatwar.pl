@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Oskar von Hutier, Georg von der Marwitz]
 result: French victory. They retook Montdidier, pushed the Germans back from the Paris–Amiens railway and took about 11,000 prisoners, but the advance on Roye stalled on the old trenches of 1915–1916.
 source: bitwa-pod-montdidier
-sourceHash: a00bfc9a6cb8d5c6b89bc31c20214e4209f5d318
+sourceHash: 53304f35a63793a6f0f0c191914a9775148ec6c5
+brief:
+  - "The Battle of Montdidier, fought from 8 to 15 August 1918, was the French part of the great attack east of Amiens which opened the last phase of the war on the Western Front."
+  - "Since March Montdidier had been the apex of a German salient from which artillery shelled the Paris–Amiens railway. Debeney's French First Army, under Haig for the operation, was to outflank the town and cover the British."
+  - "The First Army moved off on 8 August, 45 minutes after the British, crossed the Avre and outflanked Montdidier from the north and south. On 10 August Humbert's Third Army joined the battle."
+  - "The Germans abandoned the encircled town during the night of 9–10 August, and the French entered its utterly destroyed ruins. The advance then stalled on a belt of old trenches from 1915–1916, and the attack on Roye was cancelled."
+  - "According to French data the First and Third Armies took 11,114 men and 259 officers prisoner. The battle pushed the Germans back from Amiens and the Paris–Amiens railway and opened a period of uninterrupted Allied attacks."
 ---
 
 The Battle of Montdidier was the French part of the great attack which on 8 August 1918, east of [Amiens](https://pl.wikipedia.org/wiki/Amiens), opened the last phase of the war on the Western Front. While General [Henry Rawlinson's](/postacie/henry-rawlinson) British Fourth Army was breaking through the front between the Somme and the road to Roye, on its right flank General Marie-Eugène Debeney's French First Army moved off, placed for the duration of the operation under the orders of Field Marshal [Douglas Haig](/postacie/douglas-haig). Its task was to cover the British, cross the [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) and outflank from the north and south [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)), taken by the Germans in March. On 10 August the neighbouring Third Army of General Georges Humbert also joined the battle. The Germans abandoned the encircled town during the night of 9–10 August, and the French entered its utterly destroyed ruins. The advance then stalled on a belt of old trenches from before 1917, and on 15 August preparations for an attack on Roye were broken off.

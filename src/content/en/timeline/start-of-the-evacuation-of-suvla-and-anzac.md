@@ -2,7 +2,12 @@
 title: Start of the evacuation of Suvla and Anzac
 summary: On the night of 18/19 December 1915 half of the last garrisons left Suvla and Anzac. Next day the remaining troops staged an ordinary day for the Turks.
 source: poczatek-ewakuacji-suvli-i-anzac
-sourceHash: fc96a6271f5886176d0f8ba08be9a5f98e4e1edc
+sourceHash: f3ae7ebd40d0f80fe3b1ef3784413c96f2107042
+brief:
+  - "The British chronology records under 19 December 1915 the start of the evacuation of the Suvla and Anzac bridgeheads at Gallipoli. In reality troops had been taken off them since 8 December."
+  - "Over ten nights the garrisons of the two bridgeheads were reduced from more than 80,000 to about 40,000 men. The remaining soldiers were to embark in two nights without the Turks noticing anything."
+  - "On the night of 18/19 December, in complete silence, 9,900 men were taken off from Anzac and about 11,000 from Suvla. There were no casualties."
+  - "On Sunday 19 December the remaining troops staged an ordinary day, while VIII Corps attacked at Helles to divert the Turks. According to the British official history, this helped convince them there was no question of an evacuation."
 ---
 
 The British chronology of the war records under 19 December 1915 the start of the evacuation of the [Suvla](https://pl.wikipedia.org/wiki/Suvla) and [Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac) bridgeheads on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. In reality troops had been taken off them since 8 December, when [the government's order](/rozkaz-ewakuacji-suvli-i-anzac) reached General William Birdwood. Over ten nights, on an exceptionally calm sea, the garrisons of the two bridgeheads were reduced from more than 80,000 to about 40,000 men. The night of 18/19 December was fixed as the start of the last and most dangerous stage: in two nights all the remaining 40,000 soldiers were to embark without the Turks noticing anything.

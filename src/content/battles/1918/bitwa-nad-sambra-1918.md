@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. Brytyjczycy przełamali ostatnią przygotow
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Nowa Zelandia]
 milestone: true
+brief:
+  - "Bitwa nad Sambrą, stoczona 4 listopada 1918 roku, była ostatnią wielką bitwą armii brytyjskiej w tej wojnie. Brytyjska 4, 3 i 1 Armia uderzyły na froncie około 50 kilometrów, a na prawym skrzydle nacierała francuska 1 Armia."
+  - "Niemcy obsadzili za Kanałem Sambra–Oise i lasem Mormal drugą linię pozycji Hermanna, osłaniającą kolej przez Aulnoye i Maubeuge. Przetrzebione dywizje brytyjskie przez dziesięć dni przygotowywały mosty i plany ognia."
+  - "We mgle saperzy przerzucali kładki przez kanał pod Catillon, Ors i Landrecies. Pod Ors przeprawa się załamała, a zginęli tam ppłk James Marshall, ppor. James Kirk i 25-letni poeta Wilfred Owen."
+  - "3 Armia przeszła przez las Mormal, a Dywizja Nowozelandzka otoczyła twierdzę Le Quesnoy. Ppor. Leslie Averill wspiął się po jedynej drabinie na wał i garnizon skapitulował."
+  - "Brytyjczycy wzięli tego dnia około 10 tysięcy jeńców i ponad 200 dział. W nocy z 4 na 5 listopada niemiecka 2 Armia zaczęła odwrót na pozycję Antwerpia–Moza, a 11 listopada Kanadyjczycy weszli do Mons."
 ---
 
 Bitwa nad [Sambrą](https://pl.wikipedia.org/wiki/Sambra), stoczona 4 listopada 1918 roku, była ostatnią wielką bitwą armii brytyjskiej w I wojnie światowej. Tydzień przed rozejmem trzy armie brytyjskie, 4, 3 i 1, uderzyły na froncie długim na około 50 kilometrów, od Kanału Sambra–Oise na południu po okolice [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes) na północy, a na ich prawym skrzydle nacierała francuska 1 Armia. W ciągu jednego dnia Brytyjczycy przeprawili się przez kanał pod Catillon, Ors i [Landrecies](https://pl.wikipedia.org/wiki/Landrecies), przeszli przez wielki las Mormal, a Nowozelandczycy wspięli się po drabinie na wały twierdzy [Le Quesnoy](https://pl.wikipedia.org/wiki/Le_Quesnoy). Przy przeprawie pod Ors zginął poeta [Wilfred Owen](https://pl.wikipedia.org/wiki/Wilfred_Owen). Po tej klęsce niemiecka 2 Armia nie próbowała już stawiać oporu na żadnej przygotowanej linii, a w nocy z 4 na 5 listopada zaczęła się cofać na pozycję Antwerpia–Moza.

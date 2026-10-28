@@ -11,7 +11,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Maximilian von Laffert]
 result: Inconclusive. The British recovered Bailleul and Armentières but did not reach Lille. After German counter-attacks the front settled east of Armentières.
 source: bitwa-pod-armentieres
-sourceHash: 82dc2d8f1bed082ee242970c2cfad65f96545451
+sourceHash: 22bbc02b2f09ba4d7f2661b4a3564f63e198ea88
+brief:
+  - "The Battle of Armentières was fought from 13 October to 2 November 1914 in French Flanders, in the valley of the Lys. It was fought mainly by the British III Corps of General William Pulteney."
+  - "The British Expeditionary Force was moving north from the Aisne. Together with Allenby's cavalry, III Corps was to advance east, north of Lille, and outflank the German wing."
+  - "In the first week the British took Meteren, entered Bailleul, crossed the Lys and on 17 October occupied Armentières. They could not, however, reach Lille."
+  - "From 20 October superior German forces compelled III Corps to go on the defensive. The fighting took on a static character, and the British beat off successive attacks east of the town."
+  - "The British did not recover Lille, but they stopped the Germans on the Lys line and held Armentières. The line that settled then survived almost unchanged until the spring of 1918."
 ---
 
 The Battle of Armentières was fought from 13 October to 2 November 1914 in French Flanders, in the valley of the river [Lys](https://pl.wikipedia.org/wiki/Leie). It was fought mainly by the British III Corps of General William Pulteney. In the first week the British went over to the attack, took Meteren, entered [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), crossed the Lys and occupied [Armentières](https://pl.wikipedia.org/wiki/Armentières). They could not, however, reach Lille. From 20 October superior German forces compelled them to go on the defensive, and until the end of the battle III Corps beat off successive attacks east of the town. The line that settled here at that time survived almost unchanged until the spring of 1918.

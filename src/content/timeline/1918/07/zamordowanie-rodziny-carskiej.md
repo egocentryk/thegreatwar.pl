@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Rosja, Mikołaj II, Włodzimierz Lenin, Czechosłowacy]
 milestone: true
 draft: false
+brief:
+  - "W nocy z 16 na 17 lipca 1918 roku w piwnicy domu Ipatiewa w Jekaterynburgu bolszewicki pluton egzekucyjny zamordował byłego cesarza Mikołaja II, jego żonę, pięcioro dzieci i czworo ich towarzyszy."
+  - "Romanowów przewieziono do Jekaterynburga wiosną 1918 roku. Gdy do miasta zbliżały się oddziały Korpusu Czechosłowackiego, bolszewicy nie chcieli, by rodzina wpadła w ich ręce."
+  - "Zbrodnią kierował komendant domu Jakow Jurowski, a formalną decyzję podjęła Rada Uralska. Ile w niej było inicjatywy Uralu, a ile polecenia Moskwy, historycy spierają się do dziś."
+  - "Ciała wywieziono do lasu koło wsi Koptiaki, a potem zakopano na łące Porosionkow Łog. Bolszewicy ogłosili tylko rozstrzelanie cara, twierdząc, że jego żonę i syna przewieziono w „bezpieczne miejsce”."
+  - "Szczątki odkryto w 1979 roku, a w 1998 roku pochowano je w soborze Pietropawłowskim w Petersburgu. W 2000 roku Rosyjski Kościół Prawosławny ogłosił rodzinę carską świętymi."
 ---
 
 W nocy z 16 na 17 lipca 1918 roku w piwnicy domu inżyniera Nikołaja Ipatiewa w [Jekaterynburgu](https://pl.wikipedia.org/wiki/Jekaterynburg) na Uralu bolszewicki pluton egzekucyjny zastrzelił i dobił bagnetami byłego cesarza [Mikołaja II](/postacie/mikolaj-ii), jego żonę [Aleksandrę Fiodorowną](/postacie/aleksandra-fiodorowna), ich pięcioro dzieci oraz czworo ludzi, którzy towarzyszyli im w niewoli. Zbrodnią kierował komendant domu [Jakow Jurowski](https://pl.wikipedia.org/wiki/Jakow_Jurowski), a formalną decyzję podjęło prezydium Uralskiej Rady Obwodowej. Do miasta zbliżały się wtedy oddziały [Korpusu Czechosłowackiego](https://pl.wikipedia.org/wiki/Korpus_Czechosłowacki) i rosyjskich antybolszewików, a bolszewicy nie chcieli, by Romanowowie wpadli w ich ręce. Rodzina, z której ponad trzysta lat wywodzili się władcy Rosji i która [utraciła tron](/abdykacja-mikolaja-ii) w marcu 1917 roku, zginęła bez sądu, a jej śmierć przez lata ukrywano. Ile w tej decyzji było inicjatywy Uralu, a ile polecenia Moskwy, historycy spierają się do dziś.

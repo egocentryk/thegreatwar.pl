@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, broń chemiczna]
 milestone: true
 draft: false
+brief:
+  - "18 kwietnia 1918 roku, w dziesiątym dniu ofensywy nad Lys, sześć dywizji niemieckiej 6 Armii po raz ostatni spróbowało przełamać południowe skrzydło brytyjskiej 1 Armii."
+  - "Celem były Givenchy, Festubert i linia kanału La Bassée, a dalej Béthune. Natarcie poprzedził nocny ostrzał gazowy, który przed 1 Dywizją trwał siedem godzin."
+  - "Pod Givenchy i Festubert reduty w ruinach wsi i kontrataki, między innymi 1 batalionu pułku Gloucestershire, zatrzymały Niemców. Nad kanałem ich próby przeprawy załamały się przed 6.30."
+  - "Wieczorem front wrócił mniej więcej do porannego przebiegu. Brytyjska historia oficjalna nazwała 18 kwietnia „kolejnym dniem udanej obrony”."
+  - "Béthune i kopalnie węgla, od których zależał francuski przemysł zbrojeniowy, zostały w rękach sprzymierzonych. 20 kwietnia Rupprecht Bawarski kazał 6 Armii przejść do obrony."
 ---
 
 18 kwietnia 1918 roku, w dziesiątym dniu niemieckiej [ofensywy nad Lys](/bitwy/bitwa-nad-lys-1918), wojska niemieckie po raz ostatni spróbowały przełamać południowe skrzydło brytyjskiej 1 Armii we Flandrii. Ich celem były ruiny wsi [Givenchy](https://pl.wikipedia.org/wiki/Givenchy-lès-la-Bassée) i [Festubert](https://pl.wikipedia.org/wiki/Festubert) oraz linia kanału La Bassée, a dalej miasto [Béthune](https://pl.wikipedia.org/wiki/Béthune). Po nocnym ostrzale gazowym sześć dywizji niemieckiej 6 Armii ruszyło do szturmu w porannej mgle. Wieczorem było jasne, że natarcie się nie powiodło. Brytyjska historia oficjalna pisze krótko, że 18 kwietnia był „kolejnym dniem udanej obrony”, a niemieckie plany zdobycia Givenchy, Festubert i Béthune zostały „całkowicie udaremnione”.

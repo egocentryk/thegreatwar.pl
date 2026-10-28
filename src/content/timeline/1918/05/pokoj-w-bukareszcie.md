@@ -9,6 +9,12 @@ dayOrder: 1
 tags: [Rumunia, Niemcy, Bułgaria, gospodarka]
 milestone: true
 draft: false
+brief:
+  - "7 maja 1918 roku w pałacu Cotroceni w okupowanym Bukareszcie rząd Alexandru Marghilomana podpisał traktat pokojowy z Niemcami, Austro-Węgrami, Bułgarią i Turcją, zamieniając w pokój ostateczny warunki z Buftei."
+  - "Rumunia oddawała Bułgarii południową Dobrudżę z pasem północnej, a resztę krainy cedowała na rzecz czterech państw centralnych łącznie. Austro-Węgrom oddawała grzbiety i przełęcze Karpat."
+  - "Wołoszczyzna z Bukaresztem pozostawała pod okupacją bez wyznaczonego terminu, a armię rumuńską częściowo rozwiązano i zmniejszono do stanu pokojowego."
+  - "Dla Niemiec najcenniejsze były postanowienia gospodarcze: prawo rekwizycji zboża i ropy oraz wyłączne prawo eksploatacji państwowych terenów roponośnych wokół Ploeszti dla spółki z przewagą kapitału niemieckiego."
+  - "Traktat nigdy nie wszedł w pełni w życie, bo król Ferdynand I go nie ogłosił. 10 listopada 1918 roku Rumunia ponownie przystąpiła do wojny, a rozejm w Compiègne zobowiązał Niemcy do wyrzeczenia się tego pokoju."
 ---
 
 7 maja 1918 roku (24 kwietnia według kalendarza juliańskiego, którym posługiwała się Rumunia) w [pałacu Cotroceni](https://pl.wikipedia.org/wiki/Pałac_Cotroceni) w okupowanym [Bukareszcie](https://pl.wikipedia.org/wiki/Bukareszt) podpisano [traktat pokojowy](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1918)) między Rumunią a Niemcami, Austro-Węgrami, Bułgarią i Turcją. Za Rumunię podpisali go premier [Alexandru Marghiloman](/postacie/alexandru-marghiloman), minister spraw zagranicznych Constantin Arion oraz dwaj pełnomocnicy, Mihail Burghele i Ion Papiniu. Państwa centralne reprezentowali m.in. niemiecki sekretarz stanu spraw zagranicznych Richard von Kühlmann, austro-węgierski minister spraw zagranicznych [István Burián](/postacie/istvan-burian) i premier Bułgarii [Wasił Radosławow](/postacie/wasil-radoslawow). Część ówczesnych publikacji, m.in. amerykańskie czasopisma prawnicze i „Current History”, podawała datę 6 maja, ale sam traktat nosi datę 7 maja i tę przyjmują historycy.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Serbia, Niemcy, Austro-Węgry, August von Mackensen]
 milestone: true
 draft: false
+brief:
+  - "6 października 1915 roku setki niemieckich i austro-węgierskich dział otworzyły ogień wzdłuż całej północnej granicy Serbii. Grupa armii feldmarszałka Augusta von Mackensena rozpoczęła czwartą w tej wojnie inwazję na Serbię."
+  - "Erich von Falkenhayn chciał otworzyć lądową drogę z Niemiec do Turcji, przez kolej biegnącą przez Belgrad i Nisz. Na początku września Bułgaria zobowiązała się uderzyć na Serbię razem z Niemcami."
+  - "Serbska armia nie odbudowała się po stratach 1914 roku i epidemii tyfusu. Ententa odwiodła Serbów od uderzenia na Bułgarów, więc musieli bronić się na dwóch frontach."
+  - "Pierwszego dnia austro-węgierskie oddziały przeszły Drinę i Sawę, a Niemcy przewieźli pierwszych żołnierzy przez Dunaj pod Ramem. Belgrad i Smederevo znalazły się pod ciężkim ostrzałem."
+  - "W nocy z 6 na 7 października przez rzeki przeprawiły się główne siły. 9 października Belgrad był w rękach wojsk państw centralnych, a 14 października wojnę Serbii wypowiedziała Bułgaria."
 ---
 
 6 października 1915 roku, czyli 23 września według kalendarza juliańskiego, którego Serbia wtedy używała, po południu na całej północnej granicy [Serbii](https://pl.wikipedia.org/wiki/Królestwo_Serbii), od rumuńskiej Orszowy nad Dunajem po [Višegrad](https://pl.wikipedia.org/wiki/Višegrad) nad Driną, zagrzmiały setki niemieckich i austro-węgierskich dział. Dzień wcześniej artyleria zaczęła się wstrzeliwać, teraz rozpoczął się ostrzał właściwy. Tego samego dnia pierwsze oddziały austro-węgierskie przeszły na serbski brzeg Driny i Sawy. Grupa armii feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen) rozpoczęła czwartą w tej wojnie inwazję na Serbię. Tym razem przeciw Serbom stanęły nie tylko Austro-Węgry, ale też Niemcy, a za kilka dni miała się do nich przyłączyć Bułgaria.

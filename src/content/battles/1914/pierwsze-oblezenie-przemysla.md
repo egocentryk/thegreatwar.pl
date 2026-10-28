@@ -15,6 +15,12 @@ result: Zwycięstwo Austro-Węgier. Załoga odparła szturm z 5–8 październik
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Rosja, Galicja, Przemyśl]
 milestone: true
+brief:
+  - "Pierwsze oblężenie Przemyśla trwało od drugiej połowy września do 9–11 października 1914 roku. W okrążonej twierdzy nad Sanem zostało ponad 120 tysięcy żołnierzy gen. Hermanna Kusmanka."
+  - "Po klęsce w bitwie galicyjskiej armie austro-węgierskie wycofały się na zachód. Twierdza zamykała drogę z Galicji Wschodniej na Kraków i na przełęcze karpackie."
+  - "Rosyjska 3 Armia gen. Radko Dimitriewa, bez ciężkiej artylerii oblężniczej, szturmowała forty w dniach 5–8 października. Obrońcy odparli ataki, a Rosjanie ponieśli ciężkie straty."
+  - "Wobec zbliżania się austro-węgierskiej 3 Armii gen. Boroevicia Rosjanie przerwali oblężenie. 9 października do Przemyśla weszła austro-węgierska kawaleria."
+  - "Obrona była jednym z nielicznych sukcesów Austro-Węgier w pierwszych miesiącach wojny. W listopadzie Rosjanie znów otoczyli twierdzę, która skapitulowała 22 marca 1915 roku."
 ---
 
 Pierwsze oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) trwało od drugiej połowy września do 9–11 października 1914 roku. Po klęsce w [bitwie galicyjskiej](/bitwy/bitwa-galicyjska) armie austro-węgierskie wycofały się na zachód, a w okrążonej twierdzy nad [Sanem](https://pl.wikipedia.org/wiki/San) zostało ponad 120 tysięcy żołnierzy pod dowództwem generała [Hermanna Kusmanka von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten). Rosyjska [3 Armia](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) generała [Radko Dimitriewa](/postacie/radko-dimitriew) próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła. Zaraz potem oblężenie przerwała austro-węgierska odsiecz. Była to pierwsza część jednego z najdłuższych oblężeń I wojny światowej, które zakończyło się kapitulacją twierdzy w marcu 1915 roku.

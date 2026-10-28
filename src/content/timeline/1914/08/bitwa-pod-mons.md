@@ -10,6 +10,11 @@ dayOrder: 8
 tags: [Brytyjski Korpus Ekspedycyjny, Wielka Brytania, Niemcy, Belgia]
 milestone: true
 draft: false
+brief:
+  - "23 sierpnia 1914 roku pod belgijskim Mons Brytyjski Korpus Ekspedycyjny marszałka Johna Frencha stoczył swoją pierwszą bitwę w tej wojnie, pierwszą w Europie Zachodniej od Waterloo w 1815 roku."
+  - "Brytyjczycy bronili linii kanału Mons–Condé, nie wiedząc, że idzie na nich znacznie liczniejsza niemiecka 1 Armia gen. Alexandra von Klucka. Główny ciężar walki spadł na II Korpus gen. Smith-Dorriena."
+  - "Szybki i celny ogień karabinowy brytyjskich zawodowców zadał Niemcom ciężkie straty. Za obronę mostów w Nimy por. Maurice Dease i szer. Sidney Godley otrzymali pierwsze w tej wojnie Krzyże Wiktorii."
+  - "Po klęsce francuskiej 5 Armii pod Charleroi Brytyjczykom groziło okrążenie i następnego dnia zaczęli wielki odwrót. Stracili pod Mons około 1600 żołnierzy, a bitwa szybko stała się legendą."
 ---
 
 23 sierpnia 1914 roku pod belgijskim miastem [Mons](https://pl.wikipedia.org/wiki/Mons) [Brytyjski Korpus Ekspedycyjny](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) stoczył swoją pierwszą bitwę w tej wojnie. Brytyjczycy walczyli w Europie Zachodniej po raz pierwszy od bitwy pod Waterloo w 1815 roku.

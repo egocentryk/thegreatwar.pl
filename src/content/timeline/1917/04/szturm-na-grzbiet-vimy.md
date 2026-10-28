@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Kanada, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "9 kwietnia 1917 roku, w Poniedziałek Wielkanocny, Korpus Kanadyjski zaatakował grzbiet Vimy. Po raz pierwszy wszystkie cztery dywizje kanadyjskie szły do boju razem."
+  - "O grzbiet walczono od dwóch i pół roku, a Francuzi w 1915 roku dwukrotnie próbowali go zdobyć. Generał porucznik Julian Byng rozpisał natarcie co do minuty, a każdy batalion przećwiczył swoje zadanie."
+  - "Piechota szła w śnieżycy tuż za ruchomą zaporą ogniową, wspierana przez 983 działa i moździerze. Na prawym skrzydle Kanadyjczycy przeszli przez Thélus i zeszli wschodnim stokiem nad równinę Douai."
+  - "Na lewym skrzydle 4 Dywizja nie zdołała zdobyć wzgórza 145, najwyższego punktu grzbietu. Niemieckie karabiny maszynowe ścięły połowę pierwszej fali 87 Batalionu."
+  - "W ciągu dwóch pierwszych dni Korpus Kanadyjski stracił 7707 ludzi, ale w jeden dzień zdobył prawie cały grzbiet. Wzgórze 145 padło 10 kwietnia, a wzgórze Pimple 12 kwietnia."
 ---
 
 9 kwietnia 1917 roku, w Poniedziałek Wielkanocny, o 5.30 rano, w tej samej chwili, w której [pod Arras](/poczatek-bitwy-pod-arras-1917) ruszyła do natarcia brytyjska 3 Armia, na północ od niej zaatakował grzbiet Vimy Korpus Kanadyjski. Po raz pierwszy w historii wszystkie cztery dywizje kanadyjskie szły do boju razem, ramię w ramię, z żołnierzami ze wszystkich prowincji kraju. Przed nimi leżał grzbiet, o który od dwóch i pół roku toczyły się walki: Francuzi w 1915 roku [dwukrotnie próbowali](/poczatek-drugiej-bitwy-w-artois) go zdobyć i ponieśli ogromne straty, a Brytyjczycy [w maju 1916 roku](/niemiecki-atak-na-grzbiet-vimy) stracili tu część swoich okopów. Kanadyjczycy w ciągu kilku godzin zajęli prawie cały grzbiet i zeszli jego wschodnim stokiem nad równinę [Douai](https://pl.wikipedia.org/wiki/Douai). Wieczorem w rękach niemieckich pozostał tylko najwyższy punkt, wzgórze 145, i północny kraniec grzbietu.

@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjsko-francuskie. Alianci zdobyli ostatnie wsie na grzbi
 authors: [Natalia]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Francja, Niemcy]
 milestone: true
+brief:
+  - "25–28 września 1916 roku brytyjska 4 Armia gen. Henry'ego Rawlinsona, razem z francuską 6 Armią, uderzyła nad Sommą na Morval, Lesbœufs i Gueudecourt, nie zdobyte w bitwie pod Flers-Courcelette."
+  - "Natarcie, kilka razy przesuwane z powodu ulew i nieprzygotowania Francuzów, oparto na ciężkim ostrzale i ruchomej zaporze ogniowej, a nie na czołgach. Niemcy bronili się na słabiej rozbudowanej trzeciej pozycji."
+  - "25 września piechota XIV Korpusu w ciągu trzech godzin zajęła Morval i Lesbœufs. Pod Gueudecourt natarcie 21 Dywizji załamało się na nieprzeciętych zasiekach przed okopem Gird Trench."
+  - "26 września Niemcy opuścili Combles, do którego weszli Brytyjczycy i Francuzi, a pod Gueudecourt czołg, samolot, artyleria i piechota wzięły 362 żołnierzy i 8 oficerów przy stratach pięciu ludzi."
+  - "Historia oficjalna uznała natarcie za najbardziej udane od 14 lipca, a cały główny grzbiet był w rękach aliantów. Przełamania nie było: brakowało świeżych dywizji, a Francuzi utknęli przed Sailly-Saillisel."
 ---
 
 Bitwa pod Morval była trzecim wielkim natarciem brytyjskiej 4 Armii we wrześniu 1916 roku, w czasie [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Jej celem były trzy wsie, których nie udało się zdobyć dziesięć dni wcześniej, w [bitwie pod Flers-Courcelette](/bitwy/bitwa-pod-flers-courcelette): [Morval](https://pl.wikipedia.org/wiki/Morval_(Pas-de-Calais)), [Lesbœufs](https://pl.wikipedia.org/wiki/Lesbœufs) i [Gueudecourt](https://pl.wikipedia.org/wiki/Gueudecourt). 25 września w południe, w pierwszą rocznicę [bitwy pod Loos](/bitwy/bitwa-pod-loos), piechota generała [Henry’ego Rawlinsona](/postacie/henry-rawlinson) ruszyła do ataku razem z francuską 6 Armią, która nacierała na prawo od niej. W ciągu trzech godzin Brytyjczycy zajęli Morval i Lesbœufs, a nazajutrz, po niezwykłym współdziałaniu czołgu, samolotu, artylerii i piechoty, także Gueudecourt. Tej samej nocy Niemcy opuścili [Combles](https://pl.wikipedia.org/wiki/Combles), do którego od dwóch stron weszli Brytyjczycy i Francuzi. Brytyjska historia oficjalna uznała natarcie z 25 września za najbardziej udaną operację 4 Armii od [świtowego szturmu 14 lipca](/bitwy/bitwa-o-grzbiet-bazentin). Sukcesu nie dało się jednak rozwinąć: brakowało świeżych dywizji, Francuzi posuwali się wolno, a Niemcy zdołali wycofać artylerię i zbudować nowe linie obrony.

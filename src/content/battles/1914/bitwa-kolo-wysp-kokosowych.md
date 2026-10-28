@@ -15,6 +15,12 @@ result: Zwycięstwo Australii. Krążownik Emden został zniszczony, a jego zał
 authors: [Natalia]
 tags: [Royal Australian Navy, Kaiserliche Marine, Karl von Müller, Australia]
 milestone: true
+brief:
+  - "9 listopada 1914 roku na Oceanie Indyjskim australijski krążownik Sydney dopadł niemiecki krążownik Emden, który od dwóch miesięcy siał spustoszenie na szlakach żeglugowych wokół Indii."
+  - "Karl von Müller wysadził oddział na Direction Island, by zniszczyć stację kablową i radiową. Personel stacji zdążył jednak nadać sygnał, odebrany w przepływającym nieopodal konwoju."
+  - "Sydney był większy, szybszy i miał działa o większym zasięgu. Kapitan John Glossop trzymał się na dystansie i metodycznie rozbijał Emden, aż Müller wyrzucił płonący okręt na rafę North Keeling."
+  - "Oddział Hellmutha von Mückego uciekł z wyspy na szkunerze Ayesha i po długiej odysei dotarł w maju 1915 roku do Konstantynopola."
+  - "Zniszczenie Emdena zakończyło najsłynniejszy rajd krążownika w tej wojnie. Było to pierwsze starcie i pierwsze zwycięstwo australijskiej marynarki wojennej."
 ---
 
 [Bitwa koło Wysp Kokosowych](https://pl.wikipedia.org/wiki/Bitwa_koło_Wysp_Kokosowych) rozegrała się 9 listopada 1914 roku na Oceanie Indyjskim. Australijski krążownik lekki [HMAS Sydney](https://pl.wikipedia.org/wiki/HMAS_Sydney_(1912)) dopadł niemiecki krążownik [Emden](https://pl.wikipedia.org/wiki/SMS_Emden_(1908)), który od dwóch miesięcy siał spustoszenie na szlakach żeglugowych wokół Indii. Po niespełna dwóch godzinach walki rozbity Emden wyrzucił się na rafę. Było to pierwsze starcie okrętu [australijskiej marynarki wojennej](https://pl.wikipedia.org/wiki/Royal_Australian_Navy) z nieprzyjacielem.

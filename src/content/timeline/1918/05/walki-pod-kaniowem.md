@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Polska, Niemcy, Ukraina, Legiony Polskie]
 milestone: true
 draft: false
+brief:
+  - "W nocy z 10 na 11 maja 1918 roku niemiecka piechota bez wypowiedzenia zaatakowała kwatery II Korpusu Polskiego gen. Józefa Hallera we wsiach na zachód od Kaniowa nad Dnieprem."
+  - "Niemcy, rządzący Ukrainą po przewrocie hetmana Skoropadskiego, nie chcieli mieć na zapleczu niezależnego polskiego wojska. 6 maja gen. Zierold dał Polakom trzy godziny na kapitulację, a potem ściągał posiłki."
+  - "Zaskoczony w pierwszych godzinach korpus zamknął się w obronie okrężnej pod Jemczychą i przez cały dzień odpierał natarcia. Dwa szwadrony 6 pułku ułanów szarżowały na niemiecką piechotę."
+  - "Z braku amunicji wstrzymano ogień, w nocy podpisano honorową kapitulację, a 12 maja polskie pułki złożyły broń. Niemcy nie dotrzymali umowy i odesłali rozbrojonych żołnierzy do obozów jenieckich."
+  - "Pod Kaniowem skończył się II Korpus Polski, ale Haller zdołał uciec i przez Moskwę i Murmańsk dotarł do Francji. Bitwa urosła do rangi symbolu, a napis „Kaniów 11 V 1918” umieszczono na Grobie Nieznanego Żołnierza."
 ---
 
 W nocy z 10 na 11 maja 1918 roku, w strugach deszczu, niemiecka piechota zaatakowała kwatery [II Korpusu Polskiego](https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji) rozłożone we wsiach na zachód od [Kaniowa](https://pl.wikipedia.org/wiki/Kaniów_(Ukraina)) nad Dnieprem. Uderzenie przyszło bez wypowiedzenia, kilka dni po tym, jak Polacy odrzucili żądanie złożenia broni. Zaskoczony w pierwszych godzinach korpus generała [Józefa Hallera](/postacie/jozef-haller) zdołał się pozbierać i przez cały dzień odpierał natarcia przeważających sił. Po południu skończyła się amunicja. Ogień wstrzymano, w nocy podpisano kapitulację, a nazajutrz polskie pułki złożyły broń. Dla żołnierzy, którzy w lutym [przeszli z Hallerem front pod Rarańczą](/bitwa-pod-rarancza), była to druga w ciągu trzech miesięcy otwarta walka z państwami centralnymi i zarazem koniec ich korpusu.

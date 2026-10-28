@@ -8,6 +8,11 @@ dayOrder: 1
 tags: [Polska, Józef Piłsudski, Niemcy, okupacja niemiecka]
 milestone: true
 draft: false
+brief:
+  - "W nocy z 21 na 22 lipca 1917 roku niemieccy żandarmi aresztowali w Warszawie Józefa Piłsudskiego, twórcę Legionów, i jego szefa sztabu, pułkownika Kazimierza Sosnkowskiego."
+  - "Aresztowanie było następstwem kryzysu przysięgowego: na wezwanie Piłsudskiego legioniści I i III Brygady odmówili przysięgi na „braterstwo broni” z Niemcami i Austro-Węgrami."
+  - "Piłsudskiego wywieziono przez Gdańsk, Spandau i Wesel do cytadeli w Magdeburgu. Tymczasowa Rada Stanu przetrwała bez niego zaledwie miesiąc, a POW zeszła głębiej do konspiracji."
+  - "Niemcy chcieli pozbyć się kłopotliwego przywódcy, a uczynili z niego symbol walki o niepodległość. Zwolniony w listopadzie 1918 roku, Piłsudski przyjechał do Warszawy 10 listopada."
 ---
 
 W nocy z 21 na 22 lipca 1917 roku niemieccy żandarmi aresztowali w Warszawie [Józefa Piłsudskiego](/postacie/jozef-pilsudski), twórcę [Legionów](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) i do niedawna referenta wojskowego [Tymczasowej Rady Stanu](https://pl.wikipedia.org/wiki/Tymczasowa_Rada_Stanu). Razem z nim zatrzymano jego najbliższego współpracownika i szefa sztabu, pułkownika [Kazimierza Sosnkowskiego](https://pl.wikipedia.org/wiki/Kazimierz_Sosnkowski). Część relacji mówi o aresztowaniu rankiem 22 lipca. Obu natychmiast wywieziono z miasta. Człowiek, który w sierpniu 1914 roku wyprowadził z Krakowa pierwszy polski oddział do walki z Rosją u boku państw centralnych, stał się więźniem Niemiec.

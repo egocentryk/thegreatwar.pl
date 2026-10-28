@@ -9,6 +9,11 @@ dayOrder: 3
 tags: [wypowiedzenie wojny, Austro-Węgry, Belgia]
 milestone: true
 draft: false
+brief:
+  - "22 sierpnia 1914 roku Austro-Węgry wypowiedziały wojnę Belgii, z którą nie miały bezpośrednich sporów. Był to wyraz solidarności z Niemcami, które od trzech tygodni prowadziły inwazję na Belgię."
+  - "Wiedeń zarzucił Belgii współpracę wojskową z Francją i Wielką Brytanią oraz złe traktowanie obywateli Austro-Węgier. Według dokumentów belgijskich nota dotarła do rządu w Antwerpii dopiero 28 sierpnia."
+  - "Wypowiedzenie miało głównie znaczenie formalne, bo armia austro-węgierska nie wysłała dywizji na front zachodni. W Belgii działały jednak wypożyczone Niemcom moździerze Škody kalibru 305 mm."
+  - "Decyzja Wiednia była kolejnym krokiem w rozszerzaniu się wojny: obóz państw centralnych i obóz Ententy były już niemal w pełni ukształtowane."
 ---
 
 22 sierpnia 1914 roku [Austro-Węgry](https://pl.wikipedia.org/wiki/Austro-Węgry) wypowiedziały wojnę [Belgii](https://pl.wikipedia.org/wiki/Belgia). Oba państwa nie miały ze sobą bezpośrednich sporów, a Belgia od trzech tygodni broniła się przed niemiecką inwazją. Decyzja Wiednia była wyrazem solidarności z Niemcami, najważniejszym sojusznikiem monarchii habsburskiej.

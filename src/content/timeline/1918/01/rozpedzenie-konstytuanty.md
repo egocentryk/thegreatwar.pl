@@ -8,6 +8,12 @@ dayOrder: 2
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
 milestone: true
 draft: false
+brief:
+  - "19 stycznia 1918 roku o świcie w Pałacu Taurydzkim w Piotrogrodzie dowódca warty, marynarz anarchista Anatolij Żelezniakow, przerwał obrady Wszechrosyjskiego Zgromadzenia Ustawodawczego, mówiąc, że „warta jest zmęczona”."
+  - "Po wyjściu bolszewików i lewicowych eserowców w sali zostali głównie eserowcy, wciąż stanowiący większość posłów. W ostatnich minutach przegłosowali ustawę o ziemi i ogłosili Rosję republiką federacyjną."
+  - "Gdy posłowie wrócili po południu, zastali zamknięte drzwi i wartę z karabinami maszynowymi. W nocy z 19 na 20 stycznia Wszechrosyjski Centralny Komitet Wykonawczy przyjął dekret o rozwiązaniu Konstytuanty."
+  - "W obronie zgromadzenia nie wybuchło powstanie, a większość chłopów pozostała obojętna. 23 stycznia bolszewicy zastąpili Konstytuantę III Wszechrosyjskim Zjazdem Rad."
+  - "Pierwszy wolno wybrany parlament Rosji obradował niespełna trzynaście godzin. Jego rozpędzenie oznaczało koniec rosyjskiej demokracji parlamentarnej zrodzonej w rewolucji lutowej."
 ---
 
 19 stycznia 1918 roku (6 stycznia według kalendarza juliańskiego) o świcie w [Pałacu Taurydzkim](https://pl.wikipedia.org/wiki/Pałac_Taurydzki) w Piotrogrodzie dowódca warty, marynarz anarchista, przerwał obrady [Wszechrosyjskiego Zgromadzenia Ustawodawczego](https://pl.wikipedia.org/wiki/Wszechrosyjskie_Zgromadzenie_Ustawodawcze). Posłowie rozeszli się, umówieni na wieczór, ale do sali już nie wrócili. Jeszcze tego samego dnia rząd Lenina postanowił rozwiązać Konstytuantę, a w nocy zatwierdził to najwyższy organ władzy radzieckiej. Zgromadzenie, na które Rosja czekała od obalenia caratu i które wyłoniono w [pierwszych w jej dziejach powszechnych wyborach](/wybory-do-konstytuanty), obradowało niespełna trzynaście godzin. Był to koniec rosyjskiej demokracji parlamentarnej zrodzonej w rewolucji lutowej.

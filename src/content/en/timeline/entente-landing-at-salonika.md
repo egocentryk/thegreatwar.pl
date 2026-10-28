@@ -2,7 +2,13 @@
 title: Entente landing at Salonika
 summary: On 5 October 1915 the French 156th Division and British 10th Division began landing at Salonika to save Serbia, but that day Venizelos's government fell.
 source: ladowanie-ententy-w-salonikach
-sourceHash: 7abcfb0a649b3b952aaaeebeb269f9801405c660
+sourceHash: 41021d1fc8904633dfabeae5aaddb0c069799889
+brief:
+  - "On 5 October 1915 the first French and British troops, brought from the Dardanelles, began to land at Salonika. They were to cross neutral Greece to the aid of threatened Serbia."
+  - "The landing took place under a formal protest from the Greek government, but with the consent of Prime Minister Eleftherios Venizelos. The French division of General Maurice Bailloud was the first ashore."
+  - "That same day Venizelos resigned, because King Constantine I had refused to back his policy. The expedition lost its purpose, as Greece was now almost certain not to help Serbia."
+  - "The Greeks had been promised 150,000 men, but some 20,000 arrived at Salonika. According to Cyril Falls, the landing most likely came too late to save Serbia."
+  - "The Entente troops stayed in Salonika as uninvited guests in a neutral country. So began the Salonika front, which lasted until the end of the war."
 ---
 
 On 5 October 1915 the first French and British troops began to come ashore in the port of [Salonika](https://pl.wikipedia.org/wiki/Saloniki). They had sailed from the Dardanelles to cross neutral Greece and come to the aid of Serbia, which Austria-Hungary and Germany were about to attack any day, and soon Bulgaria as well. The landing, preceded by a week of diplomatic twists and turns, took place under a formal protest from the Greek government, but [with the consent of Prime Minister Eleftherios Venizelos](/wenizelos-prosi-o-wyladowanie-w-salonikach). Before the soldiers had pitched their tents, Venizelos had ceased to be prime minister. So began the presence of Entente troops in Macedonia, out of which grew the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki), which lasted until the end of the war.

@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Adolph von Carlowitz, Bruno von Mudra]
 result: Allied victory. The British broke the German Hermann Position on the Selle, took about 20,000 prisoners and 475 guns, and reached the Sambre–Oise Canal and the Forest of Mormal.
 source: bitwa-nad-selle
-sourceHash: 6a4ed98ffd980ebb7052af5b6456e991151a4317
+sourceHash: 51152eb760f53262ad49a5a79e5bcec6ff1e1af8
+brief:
+  - "The Battle of the Selle, from 17 to 25 October 1918, was one of the British Army's last great battles on the Western Front. Three British armies, with the American II Corps, forced the river near Le Cateau."
+  - "After losing Cambrai the Germans halted behind the Selle on the Hermann Position. Their command believed the chance of an armistice depended on stopping the battle: \"The British must not cross the Selle on our front.\""
+  - "On 17 October General Rawlinson's Fourth Army crossed the river in fog and by evening had taken Le Cateau. On the night of 20 October, under a full moon, General Byng's Third Army crossed the Selle."
+  - "On 23 and 24 October three armies in a joint night attack pushed the Germans back to the Sambre–Oise Canal, the Forest of Mormal and Valenciennes. The Allies took about 20,000 prisoners and 475 guns in the battle."
+  - "The battle showed that the Germans could no longer stop the British even behind a water obstacle. It coincided with Ludendorff's dismissal on 26 October, and from the canal the British set out on 4 November for the Sambre."
 ---
 
 The Battle of the Selle was one of the last great battles of the British Army on the Western Front. After the capture of [Cambrai](/bitwy/bitwa-pod-cambrai-1918) the Germans halted behind the small River Selle, a tributary of the [Scheldt](https://pl.wikipedia.org/wiki/Skalda), on a new line of defence called the Hermann Position. On the morning of 17 October 1918 the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson), together with the American II Corps, crossed the river in fog south of [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis), and by the evening had taken the town itself, near which in August 1914 the British Expeditionary Force had fought [one of the battles of the retreat from Mons](/bitwy/bitwa-pod-le-cateau). On the night of 20 October the Third Army of General [Julian Byng](/postacie/julian-byng) crossed the Selle by moonlight, and on 23 and 24 October three British armies in a joint attack pushed the Germans back by several to more than ten kilometres, up to the Sambre–Oise Canal, the Forest of Mormal and [Valenciennes](https://pl.wikipedia.org/wiki/Valenciennes). According to the British official history the Allies took about 20,000 prisoners and 475 guns in this battle.

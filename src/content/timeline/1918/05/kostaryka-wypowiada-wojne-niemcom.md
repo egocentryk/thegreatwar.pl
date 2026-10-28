@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Ameryka Łacińska, Niemcy, Stany Zjednoczone, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "23 maja 1918 roku Kongres Kostaryki uchwalił rezolucję, a prezydent Federico Tinoco Granados podpisał dekret o stanie wojny z Niemcami. W odróżnieniu od Nikaragui Kostaryka wystąpiła tylko przeciw Niemcom."
+  - "Tinoco obalił prezydenta Gonzáleza 27 stycznia 1917 roku, a Woodrow Wilson odmawiał uznania jego rządu. 23 kwietnia 1918 roku sekretarz stanu Lansing oświadczył, że stanowisko USA „nie zmieni się w przyszłości”."
+  - "22 maja Tinoco osobiście zażądał od Kongresu wypowiedzenia wojny. Deputowani się zbuntowali i ustąpili dopiero pod groźbą rozwiązania Kongresu, a minister Amadeo Johanning wolał podać się do dymisji."
+  - "Według amerykańskiego dyplomaty Johnsona wojna była dla Tinoca narzędziem polityki wewnętrznej i pretekstem do zdobycia pieniędzy. Waszyngton nie odpowiedział, choć Nikaragui Wilson gratulował."
+  - "Dyktatura przetrwała do lata 1919 roku. Ponieważ mocarstwa nie uznawały rządu Tinoca, Kostaryka nie uczestniczyła w konferencji pokojowej w Paryżu i nie została stroną traktatu wersalskiego."
 ---
 
 23 maja 1918 roku [Kostaryka](https://pl.wikipedia.org/wiki/Kostaryka) znalazła się w stanie wojny z Cesarstwem Niemieckim. Tego dnia Kongres uchwalił rezolucję upoważniającą rząd do tego kroku, a prezydent [Federico Tinoco Granados](https://pl.wikipedia.org/wiki/Federico_Tinoco_Granados) podpisał dekret, który ogłaszał, że istnieje stan wojny z rządem niemieckim. Oba akty opublikowano w [San José](https://pl.wikipedia.org/wiki/San_José) następnego dnia rano. Dekret głosił, że Kostaryka przystępuje do wojny w imię zasad humanitaryzmu, ale nie wymieniał żadnych konkretnych przyczyn. Rząd ogłosił też oficjalnie, że mieszkający w kraju Niemcy nie będą niepokojeni ani w swojej osobie, ani w swoim mieniu. W odróżnieniu od [Nikaragui](/nikaragua-wypowiada-wojne-niemcom), która dwa tygodnie wcześniej wypowiedziała wojnę obu cesarstwom, Kostaryka wystąpiła tylko przeciw Niemcom.

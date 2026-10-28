@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Brytyjski Korpus Ekspedycyjny, Kanada, Niemcy, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "3 maja 1917 roku, jeszcze po ciemku, brytyjska 3 i 1 Armia po raz ostatni w tej bitwie uderzyły na szerokim froncie pod Arras, a 5 Armia zaatakowała pod Bullecourt."
+  - "Ofensywa Nivelle'a nie przyniosła przełomu, ale Douglas Haig nie mógł sam przerwać bitwy, bo Francuzi zapowiadali kolejne ataki. Wyznaczył więc skromniejszy cel: dogodną linię obronną od Lens po Riencourt."
+  - "Natarcie w ciemności skończyło się chaosem: bataliony zbaczały z kierunku i gubiły zaporę ogniową. Niemieckie kontrataki odebrały im zdobyte odcinki, m.in. Chérisy."
+  - "Sukces mieli tylko Kanadyjczycy, którzy zdobyli Fresnoy i odparli kontrataki. Korpus Kanadyjski stracił tego dnia 1474 ludzi i wziął do niewoli 491 Niemców."
+  - "Brytyjska historia oficjalna nazwała natarcie „niczym innym jak klęską”. Falls wskazywał na zmęczenie dywizji, słabe wyszkolenie uzupełnień i nową niemiecką taktykę głębokiej obrony."
 ---
 
 3 maja 1917 roku o 3.45, ponad półtorej godziny przed wschodem słońca, brytyjska piechota po raz ostatni w tej bitwie uderzyła na szerokim froncie pod [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Na odcinku długości ponad 14 mil (ponad 22 km), od doliny strumienia Sensée przez okolice Monchy-le-Preux i rzekę [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) po wieś [Fresnoy](https://pl.wikipedia.org/wiki/Fresnoy-en-Gohelle), ruszyły dywizje 3 Armii generała [Edmunda Allenby’ego](/postacie/edmund-allenby) i 1 Armii generała Henry’ego Horne’a. Jednocześnie na prawym skrzydle 5 Armia generała [Huberta Gougha](/postacie/hubert-gough) zaatakowała Linię Hindenburga pod [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt). Wieczorem było jasne, że natarcie nad Scarpe zakończyło się niepowodzeniem prawie wszędzie. Brytyjska historia oficjalna (Cyril Falls) nazwała je „niczym innym jak klęską”, a zdobycie Fresnoy przez Kanadyjczyków jedynym jasnym punktem dnia, który wielu świadków uważało za najczarniejszy w całej wojnie. Brytyjska chronologia wojny podaje jako początek bitwy 2 maja, ale natarcie ruszyło nad ranem 3 maja, co potwierdzają historia oficjalna i inne opracowania.

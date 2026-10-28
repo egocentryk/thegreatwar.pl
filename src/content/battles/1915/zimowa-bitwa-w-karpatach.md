@@ -17,6 +17,12 @@ result: Klęska państw centralnych. Przemyśla nie udało się odblokować, a t
 authors: [Natalia]
 tags: [Austro-Węgry, Rosja, Karpaty, Przemyśl]
 milestone: true
+brief:
+  - "Zimowa bitwa w Karpatach to seria ofensyw i kontrofensyw, toczonych od 23 stycznia do 15 kwietnia 1915 roku na grzbietach i przełęczach Karpat."
+  - "Conrad von Hötzendorf chciał zimową ofensywą przez góry uratować oblężony Przemyśl, w którym zamknięto około 130 tysięcy żołnierzy. Rosjanie w tym samym czasie chcieli przejść przez Karpaty na Węgry."
+  - "Austro-Węgry, wspierane przez niemiecką Armię Południową, trzykrotnie próbowały się przebić, ale natarcia utknęły w śniegu i mrozie. Zimno i choroby zabiły więcej żołnierzy niż kule."
+  - "22 marca Przemyśl skapitulował, a do niewoli poszło około 117–120 tysięcy żołnierzy. Rosyjska ofensywa na Węgry utknęła w górach i 15 kwietnia Iwanow ją wstrzymał."
+  - "Według austriackiej historii oficjalnej Austro-Węgry straciły w Karpatach około 800 tysięcy ludzi i odtąd nie mogły prowadzić wielkich operacji bez Niemiec. Wyczerpani Rosjanie nie zatrzymali potem przełamania pod Gorlicami."
 ---
 
 Zimowa bitwa w Karpatach to seria ofensyw i kontrofensyw, które od stycznia do kwietnia 1915 roku toczyły się na grzbietach i przełęczach [Karpat](https://pl.wikipedia.org/wiki/Karpaty). Austro-Węgry, wspierane przez niemiecką Armię Południową, trzykrotnie próbowały przebić się przez góry do [oblężonego Przemyśla](/bitwy/drugie-oblezenie-przemysla) i odepchnąć Rosjan od granicy Węgier. Rosjanie w tym samym czasie próbowali przejść przez Karpaty na Nizinę Węgierską. Żadnej ze stron się to nie udało. Walczono w głębokim śniegu, przy silnym mrozie, bez odpowiedniego ekwipunku, a zimno i choroby zabiły więcej żołnierzy niż kule. Dla armii austro-węgierskiej była to katastrofa, po której nigdy w pełni się nie podniosła.

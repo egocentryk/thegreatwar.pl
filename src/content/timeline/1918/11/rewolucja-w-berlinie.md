@@ -8,6 +8,12 @@ dayOrder: 3
 tags: [Niemcy, Wilhelm II, rewolucja listopadowa, Socjaldemokratyczna Partia Niemiec]
 milestone: true
 draft: false
+brief:
+  - "9 listopada 1918 roku w ciągu kilku godzin upadło Cesarstwo Niemieckie. Rano w Berlinie zaczął się strajk generalny, a setki tysięcy robotników i żołnierzy ruszyły w pochodach do śródmieścia."
+  - "Rewolucja, która zaczęła się od buntu marynarzy w Kilonii, ogarniała kolejne miasta, a Wilhelm II w Spa odmawiał abdykacji. Socjaldemokraci postawili kanclerzowi ultimatum, a pułk po pułku garnizon przechodził na stronę rewolucji."
+  - "O 11.30 książę Max von Baden na własną rękę ogłosił abdykację cesarza, a w południe przekazał urząd kanclerza Friedrichowi Ebertowi. Był to akt rewolucyjny, dokonany przez ludzi, którzy rewolucji nie chcieli."
+  - "Kilka minut po 14.00 Philipp Scheidemann proklamował z okna Reichstagu republikę niemiecką, a około 16.00 Karl Liebknecht ogłosił przed zamkiem „wolną socjalistyczną republikę”."
+  - "W Spa gen. Groener oznajmił cesarzowi, że wojsko już za nim nie stoi, a Wilhelm II następnego dnia ruszył ku granicy holenderskiej. Dla przeciwników republiki 9 listopada stał się datą „zdrady”."
 ---
 
 9 listopada 1918 roku w ciągu kilku godzin upadło Cesarstwo Niemieckie. Rano w [Berlinie](https://pl.wikipedia.org/wiki/Berlin) zaczął się strajk generalny, a setki tysięcy robotników i żołnierzy ruszyły w pochodach do śródmieścia. Przed południem kanclerz, książę [Max von Baden](/postacie/max-von-baden), na własną rękę ogłosił, że cesarz [Wilhelm II](/postacie/wilhelm-ii) zrzeka się tronu. W południe przekazał urząd przywódcy socjaldemokratów [Friedrichowi Ebertowi](/postacie/friedrich-ebert). Około 14.00 [Philipp Scheidemann](/postacie/philipp-scheidemann) proklamował z okna Reichstagu republikę niemiecką, a dwie godziny później [Karl Liebknecht](https://pl.wikipedia.org/wiki/Karl_Liebknecht) ogłosił przed zamkiem cesarskim „wolną socjalistyczną republikę”. Tymczasem w kwaterze głównej w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)) generał [Wilhelm Groener](/postacie/wilhelm-groener) oznajmił cesarzowi, że armia nie pójdzie już za nim. Tego samego dnia niemiecka delegacja w lesie Compiègne zastanawiała się nad [warunkami rozejmu](/niemieccy-parlamentariusze-u-focha), które usłyszała od marszałka Focha.

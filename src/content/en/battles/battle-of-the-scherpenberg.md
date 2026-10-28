@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Fritz von Loßberg]
 result: Allied victory. The Germans took part of Locre and, for a few hours, the col between the Scherpenberg and Mont Rouge, but were thrown back. In the evening they halted the attack, which ended Operation Georgette.
 source: bitwa-o-scherpenberg
-sourceHash: a6f404d2f5d287c7606f51e3259cc45e042f0612
+sourceHash: da760f9b14812b6833f5d8bd561f354c1d3ee0e8
+brief:
+  - "On 29 April 1918 seven divisions of the German Fourth Army attacked the Scherpenberg and Mont Rouge hills in Flanders. It was the last attack of Operation \"Georgette\", the Battles of the Lys."
+  - "Four days earlier the Alpenkorps had taken Kemmelberg; now the Germans wanted to reach the plain near Poperinge and force the British out of the Ypres salient. Prisoners and deserters had foretold the attack."
+  - "On the French sector the Alpenkorps took part of Locre and the col between the Scherpenberg and Mont Rouge, causing alarm in the staffs. By 1.15 p.m. French reserves had pushed it off the slope."
+  - "On the British sector the German infantry, advancing across open ground, broke down under artillery and machine-gun fire. Defence in depth and swift counter-attacks halted the attack."
+  - "At 8.35 p.m. Loßberg proposed halting the offensive, and Ludendorff agreed. \"Georgette\" had reached neither Hazebrouck nor the Channel ports, leaving the Germans in a salient on the Lys under fire."
 ---
 
 The Battle of the Scherpenberg was the last attack of the German offensive in Flanders, called Operation "Georgette" by the Germans and the [Battles of the Lys](/bitwy/bitwa-nad-lys-1918) by the British. On 25 April 1918 the German Alpenkorps had taken [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), the highest hill in that part of Flanders. Four days later the Fourth Army of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin) tried to go further: to take the Scherpenberg and Mont Rouge hills behind it, descend to the plain near [Poperinge](https://pl.wikipedia.org/wiki/Poperinge) and force the British to abandon the salient at [Ypres](https://pl.wikipedia.org/wiki/Ieper). On the morning of 29 April seven German divisions attacked on a front of a dozen or so kilometres, from Locre to Zillebeke Lake. Only on the right wing, against the French, did they gain a momentary success: they took part of Locre and the col between the Scherpenberg and Mont Rouge, which caused alarm in the Allied staffs for several hours. By midday French reserves had thrown them back off the slope, and on the British sector the attack broke down under artillery and machine-gun fire. In the evening the Fourth Army's chief of staff advised [Erich Ludendorff](/postacie/erich-ludendorff) to halt the offensive, and he agreed.

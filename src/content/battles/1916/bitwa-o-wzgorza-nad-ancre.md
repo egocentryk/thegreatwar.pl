@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. Armia Rezerwowa zdobyła reduty Stuff i Schwaben
 authors: [Natalia]
 tags: [Wielka Brytania, Kanada, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa o wzgórza nad Ancre trwała od 1 października do 11 listopada 1916 roku. Armia Rezerwowa generała Huberta Gougha walczyła o północną krawędź grzbietu Thiepval, panującą nad doliną Ancre."
+  - "Grzbiet miał być punktem wyjścia do wielkiego natarcia, które odcięłoby Niemców w dolinie górnej Ancre. Gough chciał go oczyścić w kilka dni, ale jesienne deszcze zamieniły pole bitwy w bagno."
+  - "Kanadyjczycy kilkakrotnie bezskutecznie atakowali okop Regina, zatrzymywani przez nieprzecięte zasieki. Brytyjczycy zdobyli redutę Stuff 9 października, a ostatni skrawek reduty Schwaben 14 października."
+  - "21 października cztery dywizje za znakomitą zaporą ogniową zdobyły okop Stuff i większość okopu Regina. Resztę okopu Regina Kanadyjczycy wzięli w nocy z 10 na 11 listopada."
+  - "Brytyjczycy opanowali cały grzbiet, ale po sześciu tygodniach zamiast kilku dni, a wielka ofensywa nigdy się nie odbyła. Wnioski z walk o okop Regina Kanadyjczycy wykorzystali przed natarciem na grzbiet Vimy w kwietniu 1917 roku."
 ---
 
 Bitwa o wzgórza nad Ancre była ciągiem dalszym [bitwy o grzbiet Thiepval](/bitwy/bitwa-o-grzbiet-thiepval) i przedostatnim etapem [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Pod koniec września 1916 roku Armia Rezerwowa generała [Huberta Gougha](/postacie/hubert-gough) zdobyła ruiny [Thiepval](https://pl.wikipedia.org/wiki/Thiepval) i farmę Mouquet, ale Niemcy wciąż trzymali północną krawędź grzbietu: część reduty Stuff, północny róg reduty Schwaben i biegnący za szczytem okop, który Kanadyjczycy nazywali Regina. Kto trzymał tę krawędź, ten patrzył w dół na dolinę [Ancre](https://pl.wikipedia.org/wiki/Ancre) z wsiami Grandcourt i Miraumont i na niemieckie baterie ukryte za rzeką. Gough chciał oczyścić grzbiet w kilka dni, a potem uderzyć na północ i, razem z natarciem z drugiego brzegu rzeki, odciąć Niemców w dolinie górnej Ancre. Zaczęły się jednak jesienne deszcze. Pole bitwy zamieniło się w bagno, a Niemcy bronili każdego okopu i kontratakowali bez wytchnienia. Redutę Stuff Brytyjczycy zdobyli 9 października, ostatni skrawek reduty Schwaben 14 października, okop Stuff i większość okopu Regina 21 października, a resztę okopu Regina Kanadyjczycy wzięli dopiero w nocy z 10 na 11 listopada. Grzbiet, który miał być punktem wyjścia do większej ofensywy, zdobywano przez sześć tygodni.

@@ -11,7 +11,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: Inconclusive. On the Passchendaele ridge and the Bellevue spur the attack was repulsed, but in the north the British and French advanced 2–2.5 km, to Houthulst Forest.
 source: bitwa-pod-poelcappelle
-sourceHash: 092d39573815141f2f836c4489340434685a88f5
+sourceHash: 6e7e5eb78fe994f475a581206ee9adc554604462
+brief:
+  - "The Battle of Poelcappelle, fought on 9 October 1917, was the first October attack of the Third Battle of Ypres and the first serious failure since September of General Herbert Plumer's method."
+  - "Haig, convinced that the Germans were weakening, brought the attack forward to five days after Broodseinde. After five days of rain the artillery was stuck in the mud, and the infantry marched all night to the start line."
+  - "On the Passchendaele ridge and in front of the concrete pillboxes on the Bellevue spur the attack of the 66th and 49th Divisions broke down, and most of the ground taken in the morning was given up."
+  - "On the lowlands in the north the Guards Division, the 29th Division and the French 2nd Division advanced more than two kilometres, to the edge of Houthulst Forest. The Allies probably lost more than 12,000 men in a single day."
+  - "False reports of success led the command to set the next attack for 12 October, from the same line and through the same wire, which brought even heavier losses."
 ---
 
 The Battle of Poelcappelle was the first October attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) and the first serious failure since September of General [Herbert Plumer's](/postacie/herbert-plumer) method. At 5.20 a.m. on 9 October 1917, only five days after the victory [at Broodseinde](/bitwy/bitwa-pod-broodseinde), Plumer's British [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(Wielka_Brytania)) and General [Hubert Gough's](/postacie/hubert-gough) Fifth Army, supported in the north by the French, attacked on a front of about 12 kilometres, from Reutel to Houthulst Forest. After five days of rain the artillery was stuck in the mud, and the two British divisions that were to take the approaches to the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)) had marched to their jumping-off positions all night and set off exhausted, some of them late. On the ridge and in front of the concrete pillboxes on the Bellevue spur the attack broke down, and most of the ground taken in the morning was given up. On the lowlands in the north, where the ground was less churned by shells, the British Guards Division, the 29th Division and the French 2nd Division advanced more than two kilometres, to the edge of Houthulst Forest. False reports of success led the command to set the next attack for as early as 12 October.

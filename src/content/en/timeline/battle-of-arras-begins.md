@@ -2,7 +2,12 @@
 title: Battle of Arras begins
 summary: On 1 October 1914 three German corps attacked between Arras and Douai. The Battle of Arras began, the heaviest phase of the fighting in Artois.
 source: poczatek-bitwy-pod-arras
-sourceHash: 92d83009159b2aafb8fc12fe629e19ecf4f5f7cb
+sourceHash: 786d0c8893b9765a9e4c1e624e65948c8fbf764f
+brief:
+  - "On 1 October 1914 three corps of the German 6th Army attacked between Arras and Douai. The British chronology of the war dates the Battle of Arras, the heaviest phase of the fighting in Artois, to 1–4 October."
+  - "Joffre wanted to turn the German flank with General Louis de Maud'huy's group, while Falkenhayn ordered Crown Prince Rupprecht of Bavaria's 6th Army to attack at Arras. Both sides had the same intention in opposite directions."
+  - "The Germans forestalled the French attack. General Barbot's 77th Division, detrained the day before, beat off the first assault near Monchy-le-Preux but had to fall back towards Arras, covering the detrainment of X Corps."
+  - "The French plan to outflank the Germans proved impossible, and Maud'huy had to defend Arras itself. The villages east of the town were retaken only by the British in April 1917."
 ---
 
 On 1 October 1914 the [Battle of Arras](https://pl.wikipedia.org/wiki/Bitwa_pod_Arras_(1914)) began. That day, on the sector between [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) and Douai, three corps of the German 6th Army went into action almost simultaneously. They ran into General Louis de Maud'huy's French group, which was itself preparing to attack. Instead of outflanking the enemy's wing, the French had to defend Arras.

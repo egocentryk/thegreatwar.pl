@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, czołgi]
 milestone: true
 draft: false
+brief:
+  - "20 listopada 1917 roku brytyjska 3 Armia generała Juliana Bynga zaatakowała pod Cambrai Linię Hindenburga bez przygotowania artyleryjskiego. Na czele piechoty jechało kilkaset czołgów Mark IV."
+  - "Nowy sposób walki był dziełem m.in. generała Hugh Ellesa i J. F. C. Fullera, którzy chcieli użyć czołgów w masie na suchym terenie. Ponad tysiąc dział otworzyło ogień dopiero w chwili ataku."
+  - "Zaskoczenie było zupełne: w ciągu czterech godzin Brytyjczycy przeszli przez cały system niemieckich umocnień i posunęli się w głąb na pięć, sześć kilometrów, ponosząc niewielkie straty."
+  - "Pod Flesquières niemieckie działa polowe zniszczyły wiele czołgów, a natarcie utknęło. Kawaleria nie przeszła przez kanał pod Masnières, a grzbiet Bourlon pozostał w rękach Niemców."
+  - "Do wieczora wzięto ponad cztery tysiące jeńców, a w Wielkiej Brytanii zabiły dzwony. Radość była przedwczesna: 30 listopada niemieckie kontrnatarcie odebrało Brytyjczykom większość zdobyczy."
 ---
 
 We wtorek 20 listopada 1917 roku, o 6.20 rano, na froncie długim na około dziesięć kilometrów na południowy zachód od [Cambrai](https://pl.wikipedia.org/wiki/Cambrai) ruszyło natarcie, jakiego front zachodni jeszcze nie widział. Brytyjska 3 Armia generała [Juliana Bynga](/postacie/julian-byng) zaatakowała Linię Hindenburga bez jednego strzału przygotowania artyleryjskiego. Na czele piechoty jechało kilkaset czołgów, które miały zgnieść zasieki, a ponad tysiąc dział otworzyło ogień dopiero w chwili ataku, celując według map i obliczeń. Zaskoczenie było zupełne. W ciągu czterech godzin Brytyjczycy przeszli przez cały system niemieckich umocnień, posunęli się w głąb na pięć, sześć kilometrów i do wieczora wzięli ponad cztery tysiące jeńców, przy stratach wielokrotnie mniejszych niż w natarciach we Flandrii. Mimo to plan dnia nie został wykonany: pod Flesquières natarcie utknęło, kawaleria nie przeszła przez kanał, a grzbiet Bourlon pozostał w rękach Niemców.

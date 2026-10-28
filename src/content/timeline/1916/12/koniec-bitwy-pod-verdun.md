@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Francja, Niemcy, wojna pozycyjna, jeńcy wojenni]
 milestone: true
 draft: false
+brief:
+  - "18 grudnia 1916 roku batalion francuskich żuawów odbił ruiny ferme Les Chambrettes na północ od Verdun. Był to ostatni akt grudniowego natarcia generała Charles'a Mangina i koniec bitwy pod Verdun."
+  - "Natarcie miało odepchnąć Niemców od odzyskanych jesienią fortów Douaumont i Vaux. 15 grudnia, po czterodniowym ostrzale, cztery francuskie dywizje ruszyły do ataku na froncie szerokim na około 10 kilometrów."
+  - "W ciągu czterech dni Francuzi zepchnęli Niemców ze wzgórz na prawym brzegu Mozy i według Buchana wzięli 11 387 jeńców. Po stronie niemieckiej dowódca 5 Armii generał Ewald von Lochow stracił stanowisko."
+  - "Bitwa trwała od 21 lutego, blisko dziesięć miesięcy, dłużej niż jakakolwiek inna w tej wojnie. Według najczęściej przytaczanych obliczeń Francuzi stracili około 377 tysięcy ludzi, a Niemcy około 337 tysięcy."
+  - "Żadna ze stron nie osiągnęła swego celu: Niemcy nie zdobyli Verdun, a Francja obroniła miasto, ale się wykrwawiła. Verdun stało się dla Francuzów symbolem całej wojny, a Nivelle oparł na jego metodzie plan ofensywy 1917 roku."
 ---
 
 18 grudnia 1916 roku o trzeciej po południu batalion francuskich [żuawów](https://pl.wikipedia.org/wiki/Żuawi), od kilku dni bez schronienia i ciepłej strawy, w śniegu i błocie, odbił ruiny ferme Les Chambrettes na płaskowyżu na północ od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Był to ostatni akt grudniowego natarcia generała [Charles'a Mangina](/postacie/charles-mangin), które w ciągu czterech dni zepchnęło Niemców ze wzgórz na prawym brzegu Mozy, i zarazem koniec [bitwy pod Verdun](/bitwy/bitwa-pod-verdun). Bitwa trwała od 21 lutego, czyli blisko dziesięć miesięcy, dłużej niż jakakolwiek inna w tej wojnie. Brytyjska chronologia wojny, na której opiera się nasza oś czasu, kończy ją 18 grudnia. Niemieckie opracowania podają często 19 grudnia, a francuskie zestawienia strat sięgają 20 grudnia.

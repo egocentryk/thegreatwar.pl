@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Royal Navy, Kaiserliche Marine, Morze Północne, John Jellicoe]
 milestone: true
 draft: false
+brief:
+  - "31 maja 1916 roku na Morzu Północnym zaczęła się największa bitwa morska I wojny światowej. Grand Fleet admirała Johna Jellicoe i Flota Pełnomorska admirała Reinharda Scheera wystawiły razem około 250 okrętów."
+  - "Scheer chciał wciągnąć w pułapkę krążowniki liniowe Beatty’ego, ale kryptolodzy z Room 40 przechwytywali niemieckie depesze. Grand Fleet wyszła w morze, zanim zrobili to Niemcy."
+  - "W pojedynku krążowników liniowych eksplodowały Indefatigable i Queen Mary, a później Invincible z admirałem Hoodem. Do zmroku Brytyjczycy stracili trzy krążowniki liniowe i krążownik pancerny Defence."
+  - "Jellicoe rozwinął 24 drednoty w linię bojową w poprzek kursu Niemców i „przeciął im T”. Scheer dwukrotnie wycofał się zwrotem o 180 stopni, a Grand Fleet pozostała między Niemcami a ich bazami."
+  - "Rozstrzygnięcie miała przynieść noc. Bitwa kosztowała Brytyjczyków około 6100 zabitych, a Niemców około 2550, a spór o to, kto naprawdę wygrał pod Jutlandią, trwa do dziś."
 ---
 
 31 maja 1916 roku na Morzu Północnym, około stu kilometrów na zachód od wybrzeży [Półwyspu Jutlandzkiego](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki), zaczęła się największa bitwa morska I wojny światowej. Brytyjska [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet) admirała [Johna Jellicoe](/postacie/john-jellicoe) i niemiecka [Flota Pełnomorska](https://pl.wikipedia.org/wiki/Hochseeflotte) admirała [Reinharda Scheera](/postacie/reinhard-scheer) wystawiły razem około 250 okrętów: według najczęściej podawanych zestawień 151 brytyjskich i 99 niemieckich. Przez całe popołudnie i wieczór trwał najpierw pojedynek [krążowników liniowych](https://pl.wikipedia.org/wiki/Krążownik_liniowy), a potem starcie głównych sił obu flot. Do zmroku Brytyjczycy stracili trzy krążowniki liniowe i krążownik pancerny, a w ich eksplozjach zginęło ponad cztery tysiące marynarzy. Mimo to wieczorem Grand Fleet stała między Niemcami a ich bazami. Godziny podajemy według czasu Greenwich, jak brytyjska historia oficjalna. Relacje niemieckie podają godziny późniejsze.

@@ -2,7 +2,13 @@
 title: Start of the Arab Revolt
 summary: On 5 June 1916 the sons of the Sharif of Mecca, Ali and Faisal, proclaimed near Medina the Arabs' independence from the Turks. Thus began the Arab Revolt.
 source: poczatek-powstania-arabskiego
-sourceHash: ec3076d6f1b661c45cd617c63e593de83310f57c
+sourceHash: 7258070635637b27e4c3ea2021b31cf7a759b35f
+brief:
+  - "On 5 June 1916 Ali and Faisal, sons of Hussein bin Ali, Sharif of Mecca, proclaimed near Medina the independence of the Arabs from Turkish rule. Thus, according to George Antonius, began the Arab Revolt."
+  - "The sharif had long been on bad terms with the Young Turks and from 1915 corresponded with McMahon, who promised to support Arab independence. The hanging of 21 Arab activists on 6 May in Damascus and Beirut tipped the balance."
+  - "Faisal got away from Damascus by a ruse, persuading Djemal Pasha that he should lead the volunteers from the Hejaz. Together with Ali he chose Monday 5 June for the rising."
+  - "The date is given in various ways, since in Mecca itself fighting broke out only on 10 June. In Jordan the anniversary of the Great Arab Revolt is celebrated precisely on that day."
+  - "The forces were very unequal, and Faisal's attack on Medina was beaten off. Medina, linked by railway to Damascus, held out for the whole war."
 ---
 
 At sunrise on 5 June 1916 two sons of [Hussein bin Ali](/postacie/husajn-ibn-ali), Sharif and Emir of [Mecca](https://pl.wikipedia.org/wiki/Mekka), rode out of [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)) to the tomb of Hamza, the Prophet's uncle, just outside the city. About 1,500 volunteers were camped there, whom the sharif had raised at the demand of the Ottoman authorities, officially for the army fighting the British. The sharif's eldest son, [Ali](https://pl.wikipedia.org/wiki/Ali_ibn_Husajn_(król_Hidżazu)), and his third son, [Faisal](/postacie/fajsal-i), proclaimed before them, in their father's name, the independence of the Arabs from Turkish rule. Then they rode off with the volunteers to the south-east of the city, where the warriors of the neighbouring tribes were waiting for them. Thus, according to the Lebanese historian George Antonius, author of the classic history of the Arab national movement, began the [Arab Revolt](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)).

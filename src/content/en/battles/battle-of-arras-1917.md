@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Otto von Below, Fritz von Loßberg]
 result: Inconclusive. On the first day the British advanced further than at any time since the start of trench warfare and the Canadians took Vimy Ridge, but the front was not broken. In five weeks a few kilometres were gained at a cost of about 150,000 men.
 source: bitwa-pod-arras-1917
-sourceHash: e6092d49891e6b735c6cd11c806d86ba37dfb328
+sourceHash: f648367d75eeb2c49c3001c0daea31c620432c54
+brief:
+  - "The Battle of Arras, fought from 9 April to mid-May 1917, was the great British offensive of the spring of 1917, in which three armies of the British Expeditionary Force attacked."
+  - "The attack was above all meant to draw in the German reserves ahead of General Nivelle's main French offensive on the Aisne. It was prepared with huge artillery superiority and the underground of Arras."
+  - "The first day, 9 April, was one of the British Army's greatest successes: the Canadians took almost all of Vimy Ridge, and at Fampoux the British advanced more than five kilometres."
+  - "After three days the Germans sealed the breach with fresh divisions, and Loßberg rebuilt the defence. Because the Nivelle offensive failed, the British fought on in ever costlier attacks on the villages above the Scarpe."
+  - "The offensive cost the British a little under 150,000 men, and the average daily loss was higher than on the Somme. It drew in German reserves but did not save the Nivelle offensive."
 ---
 
 The Battle of Arras was the great British offensive of the spring of 1917. On Easter Monday, 9 April, three armies of the British Expeditionary Force struck the German positions around [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) in [Artois](https://pl.wikipedia.org/wiki/Artois): the Third Army on both banks of the [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), the First Army's Canadian Corps on Vimy Ridge, and a few days later the Fifth Army at [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt). The attack was above all meant to draw in the German reserves ahead of the main French offensive on the Aisne. The first day was one of the British Army's greatest successes of the whole war: the Canadians took almost all of Vimy Ridge, for which the French had fought in vain in 1915, and at Fampoux British troops advanced more than five kilometres, the furthest since the start of trench warfare on the Western Front. After only three days, however, the Germans had sealed the breach with fresh divisions, and the battle turned into a series of ever more costly attacks on the villages and hills above the Scarpe. Because the French offensive failed, the British had to go on attacking until mid-May. It cost them about 150,000 men, and the average daily loss was higher than on the Somme.

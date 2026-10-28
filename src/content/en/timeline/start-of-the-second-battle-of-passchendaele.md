@@ -2,7 +2,13 @@
 title: Start of the Second Battle of Passchendaele
 summary: On 26 October 1917 the Canadians attacked the Passchendaele ridge in rain. After hard fighting they took the Bellevue spur, where the New Zealanders had failed.
 source: poczatek-drugiej-bitwy-pod-passchendaele
-sourceHash: 8f9635847dda5a3824632f1f9e549baba05f9916
+sourceHash: 85b9d3ff45c88dca03f72a430b8f2421ce814f50
+brief:
+  - "At 5.40 a.m. on 26 October 1917, in mist and rain, General Arthur Currie's Canadian Corps attacked the German positions in front of the village of Passchendaele. It was the last stage of the three-month offensive in Flanders."
+  - "Currie considered the attack too costly and predicted 16,000 killed and wounded, but Haig wanted the village before winter. The Canadians obtained time to build roads and gun platforms."
+  - "In the morning the attack on the Bellevue spur nearly collapsed, but Lieutenant Robert Shankland held a patch of ground. In the afternoon the 52nd Battalion took the pillboxes that had stopped earlier attacks."
+  - "On the ridge south of the Ravebeek swamp the 46th Battalion took all its objectives. The British subsidiary attacks on both flanks achieved almost nothing, and only the French advanced in the north."
+  - "According to the Canadian official history the day cost the Canadians 585 killed, 965 wounded and 8 prisoners. Three of them won the Victoria Cross for the fight for Bellevue."
 ---
 
 At 5.40 a.m. on 26 October 1917, in mist and rain, General [Arthur Currie's](/postacie/arthur-currie) Canadian Corps attacked the German positions in front of the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), on the ridge east of [Ypres](https://pl.wikipedia.org/wiki/Ieper). So began the Second Battle of Passchendaele, the last stage of the three-month British offensive in Flanders. The Canadians struck where, two weeks earlier, [on 12 October](/poczatek-pierwszej-bitwy-pod-passchendaele), the New Zealanders and Australians had bled themselves white. It was a hard day, full of reversals. In the morning the attack on the Bellevue spur nearly collapsed, but in the afternoon the Canadians took the pillboxes before which the previous attacks had stopped. On the ridge south of the Ravebeek swamp a Canadian battalion took all its objectives. The subsidiary British attacks on both flanks failed, and only the French advanced on the far north. The Canadians paid for the day with more than 1,500 killed, wounded and missing, and three of them won the [Victoria Cross](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) for the fight for Bellevue.

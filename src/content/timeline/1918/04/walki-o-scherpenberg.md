@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Francja, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "29 kwietnia 1918 roku, cztery dni po zdobyciu Kemmelbergu, siedem dywizji niemieckiej 4 Armii uderzyło na wzgórza Scherpenberg i Mont Rouge, by zmusić Brytyjczyków do opuszczenia Ypres."
+  - "Po ostrzale gazowym Alpenkorps przerwał linię francuską, zajął Locre i dotarł do przełęczy między wzgórzami. Do Haiga doszła nawet fałszywa wiadomość, że Scherpenberg padł."
+  - "Około 13.15 francuskie odwody zepchnęły Alpenkorps ze zbocza, a na odcinku brytyjskim niemiecka piechota ginęła w ogniu karabinów maszynowych i dział."
+  - "O 20.35 Fritz von Loßberg zaproponował wstrzymanie ofensywy, a Ludendorff przyjął radę. Tak skończyła się operacja „Georgette”, druga wielka ofensywa niemiecka wiosny 1918 roku."
+  - "Niemcy zdobyli Armentières, Bailleul i Kemmelberg, ale nie zajęli Hazebrouck i nie zmusili Brytyjczyków do opuszczenia Ypres. Brytyjczycy stracili nad Lys ponad 82 tysiące ludzi."
 ---
 
 29 kwietnia 1918 roku niemiecka 4 Armia po raz ostatni zaatakowała we Flandrii. Cztery dni po [zdobyciu Kemmelbergu](/niemcy-zdobywaja-wzgorze-kemmel) siedem dywizji uderzyło na wzgórza Scherpenberg i Mont Rouge, ostatnie wzniesienia między frontem a równiną, która ciągnie się ku Poperinge i portom nad kanałem La Manche. Ich zdobycie miało zmusić Brytyjczyków do opuszczenia Ypres. Rano wydawało się, że Niemcy są blisko celu: zajęli wieś Locre i przełęcz między oboma wzgórzami, a do kwatery głównej [Douglasa Haiga](/postacie/douglas-haig) doszła nawet wiadomość, że Scherpenberg padł. Była fałszywa. W południe francuskie odwody zepchnęły Niemców ze zbocza, a na odcinku brytyjskim natarcie załamało się w ciągu kilku godzin. Późnym wieczorem [Erich Ludendorff](/postacie/erich-ludendorff) zgodził się je wstrzymać. Tak skończyła się operacja „Georgette”, druga wielka ofensywa niemiecka wiosny 1918 roku.

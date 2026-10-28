@@ -8,6 +8,12 @@ tags: [zamach w Sarajewie, Franciszek Ferdynand, Austro-Węgry, Serbia]
 milestone: true
 draft: false
 headerImage: "assassination-archduke-franz-ferdinand.jpg"
+brief:
+  - "28 czerwca 1914 roku w Sarajewie Gavrilo Princip, dziewiętnastoletni bośniacki Serb związany z Młodą Bośnią, zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię."
+  - "Tłem zamachu była aneksja Bośni i Hercegowiny przez Austro-Węgry w 1908 roku. Zamachowcy dostali broń od ludzi związanych z serbskim wywiadem i Czarną Ręką, ale udział całego rządu Serbii jest słabiej udokumentowany."
+  - "Rano Nedeljko Čabrinović rzucił bombę, która eksplodowała pod następnym autem kolumny. Po wizycie w ratuszu kierowca arcyksięcia pomylił trasę, a samochód zatrzymał się niemal dokładnie przed Principem, który oddał dwa strzały."
+  - "Wiedeń postanowił wykorzystać zamach do rozprawy z Serbią: 5 i 6 lipca uzyskał „czek in blanco” od Niemiec, 23 lipca postawił Serbii ultimatum, a 28 lipca 1914 roku wypowiedział jej wojnę."
+  - "Zamach w Sarajewie stał się bezpośrednim zapalnikiem kryzysu lipcowego, który w ciągu pięciu tygodni doprowadził do wojny między mocarstwami, choć głębsze przyczyny tej wojny istniały już wcześniej."
 ---
 
 28 czerwca 1914 roku w [Sarajewie](https://pl.wikipedia.org/wiki/Sarajewo) zginęli [arcyksiążę Franciszek Ferdynand](https://pl.wikipedia.org/wiki/Franciszek_Ferdynand_Habsburg), następca tronu austro-węgierskiego, oraz jego żona [Zofia, księżna Hohenberg](https://pl.wikipedia.org/wiki/Zofia_von_Hohenberg). Zabójstwa dokonał [Gavrilo Princip](https://pl.wikipedia.org/wiki/Gavrilo_Princip), dziewiętnastoletni bośniacki Serb związany z ruchem [Młoda Bośnia](https://pl.wikipedia.org/wiki/Młoda_Bośnia). Sam [zamach](https://pl.wikipedia.org/wiki/Zamach_w_Sarajewie) nie był jeszcze początkiem [wojny światowej](https://pl.wikipedia.org/wiki/I_wojna_światowa) w sensie formalnym, ale stał się bezpośrednim zapalnikiem kryzysu lipcowego, który w ciągu pięciu tygodni doprowadził Europę od lokalnego zamachu politycznego do wojny między mocarstwami.

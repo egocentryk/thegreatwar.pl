@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Wielka Brytania, Imperium Osmańskie, Indie Brytyjskie, lotnictwo]
 milestone: true
 draft: false
+brief:
+  - "19 września 1918 roku o 4.30 kilkaset brytyjskich dział otworzyło ogień nad nadmorską równiną Szaron na północ od Jafy. Tak zaczęła się ostatnia wielka ofensywa gen. Edmunda Allenby'ego w Palestynie."
+  - "Przez całe lato Allenby utwierdzał Turków w przekonaniu, że znów uderzy przez Jordan, a nocami przerzucał dywizje na wybrzeże. Liman von Sanders zakazał cofnięcia się na drugą linię."
+  - "Nie było wcześniejszego przygotowania artyleryjskiego. Piechota XXI Korpusu w kilka godzin przełamała cały system tureckich okopów nad morzem i obróciła się w głąb gór Samarii."
+  - "Przez otwarty wyłom przeszły na północ trzy dywizje jazdy Pustynnego Korpusu Konnego, a lotnictwo bombardowało kwatery i centrale telefoniczne. Liman w Nazarecie przez wiele godzin nie wiedział, co się dzieje."
+  - "Turecka 8 Armia przestała tego dnia istnieć jako zorganizowana siła. XXI Korpus wziął około 7 tysięcy jeńców i 100 dział, a wieczorem jazda stała u wejść do przełęczy przez wzgórza Karmelu."
 ---
 
 19 września 1918 roku o 4.30 nad nadmorską [równiną Szaron](https://pl.wikipedia.org/wiki/Równina_Szaron), kilkanaście kilometrów na północ od Jafy, zagrzmiało kilkaset brytyjskich dział. Tak zaczęła się ostatnia wielka ofensywa generała [Edmunda Allenby'ego](/postacie/edmund-allenby) w Palestynie. Zanim zapadł zmrok, jego piechota przełamała cały system tureckich okopów nad morzem i obróciła się jak drzwi na zawiasach w głąb gór Samarii, a przez otwarty wyłom przeszły na północ trzy dywizje jazdy Pustynnego Korpusu Konnego. Turecka 8 Armia przestała tego dnia istnieć jako zorganizowana siła, a dowództwo grupy armii w Nazarecie przez wiele godzin nie wiedziało, co się dzieje na jej prawym skrzydle.

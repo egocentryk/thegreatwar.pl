@@ -2,7 +2,13 @@
 title: February Revolution
 summary: On 12 March 1917 the Petrograd garrison joined the strikers. Tsarist rule in the capital collapsed; a Duma Committee and a Soviet arose in the Tauride Palace.
 source: rewolucja-lutowa
-sourceHash: 6822e69572b794be4ca177d994e47589f6a96008
+sourceHash: bb1b25e36578b8e51ab7147ad665989224eab60f
+brief:
+  - "On 12 March 1917 the Petrograd garrison mutinied. Regiment after regiment joined the striking workers, and by evening the insurgents controlled most of the capital."
+  - "Russia was worn down by war losses, inflation and bread shortages in the cities, while constant changes of ministers and rumours about Rasputin's influence undermined the monarchy."
+  - "The mutiny was started by the training detachment of the Volhynian Guards Regiment's reserve battalion, which killed its commander. The crowd took the Arsenal, opened Kresty prison and burned police buildings."
+  - "That same day the Provisional Committee of the Duma under Mikhail Rodzianko and the Petrograd Soviet of Workers' and Soldiers' Deputies arose in the Tauride Palace, giving birth to \"dual power\"."
+  - "It is called the February Revolution because by the Julian calendar the garrison mutinied on 27 February. Three days later Nicholas II renounced the throne and power passed to the Provisional Government."
 ---
 
 On Monday 12 March 1917 the garrison troops in Petrograd mutinied. For four days the city had been gripped by [strikes and demonstrations](/strajki-i-demonstracje-w-piotrogrodzie), and the day before soldiers had fired on the crowd. Now regiment after regiment joined the workers. By evening the insurgents controlled most of the capital, had taken the arsenal, opened the prisons and set police buildings on fire. The government ceased to function, and in the [Tauride Palace](https://pl.wikipedia.org/wiki/Pałac_Taurydzki), the seat of the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)), two new centres of power arose that same day: the Provisional Committee of the Duma and the Soviet of Workers' Deputies. This day is regarded as the decisive moment of the [February Revolution](https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)).

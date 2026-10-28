@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Niemcom nie udało się okrążyć armii rosyjskich,
 authors: [Natalia]
 tags: [Niemcy, Rosja, Królestwo Polskie, Paul von Rennenkampf]
 milestone: true
+brief:
+  - "Bitwa pod Łodzią, toczona od 11 listopada do 6 grudnia 1914 roku wokół Łodzi, była jedną z największych bitew manewrowych pierwszej wojny światowej."
+  - "Rosjanie szykowali ofensywę na Śląsk, ale Niemcy poznali ich zamiary z przechwyconych depesz. Hindenburg i Ludendorff przerzucili 9 Armię Mackensena pod Toruń, by uderzyła w bok rosyjskiej 2 Armii."
+  - "Niemcy niemal okrążyli Łódź, ale nie zamknęli pierścienia od południa. Grupa gen. Scheffera sama znalazła się w kotle i 24 listopada wyrwała się z niego pod Brzezinami."
+  - "Walki trwały dalej bez rozstrzygnięcia. W nocy z 5 na 6 grudnia Rosjanie opuścili Łódź, a miasto, w którym zginęło co najmniej 135 cywilów, znalazło się pod niemiecką okupacją."
+  - "Niemcom nie udało się zniszczyć rosyjskich armii, ale strategicznie zyskali: rosyjska ofensywa na Śląsk została przerwana i już nigdy nie doszło do niej w takiej skali."
 ---
 
 [Bitwa pod Łodzią](https://pl.wikipedia.org/wiki/Bitwa_pod_Łodzią_(1914)), nazywana też bitwą łódzką lub operacją łódzką, była jedną z największych bitew manewrowych pierwszej wojny światowej. Rozegrała się w listopadzie i na początku grudnia 1914 roku w sercu [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), na polach i w lasach wokół [Łodzi](https://pl.wikipedia.org/wiki/Łódź). Niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Augusta von Mackensena](/postacie/august-von-mackensen) uderzyła spod Torunia w bok rosyjskich armii, które szykowały się do marszu na Śląsk, i niemal zamknęła je w kotle pod Łodzią. Po kilku dniach to Niemcy znaleźli się w okrążeniu, z którego wyrwali się pod Brzezinami. Walki zakończyły się dopiero wtedy, gdy Rosjanie opuścili Łódź, a wojska niemieckie wkroczyły do miasta.

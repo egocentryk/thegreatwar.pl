@@ -2,7 +2,12 @@
 title: Germany mobilises and declares war on Russia
 summary: On 1 August 1914 Germany ordered general mobilisation and in the evening declared war on Russia. The war ceased to be a Balkan conflict.
 source: niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji
-sourceHash: c0aedff5aa4a705ca18e7b5c2936a4a3df8e13f7
+sourceHash: 1426feefe3948b419b1e0da71e2a0b1abe93fb90
+brief:
+  - "On 1 August 1914 Kaiser Wilhelm II ordered general mobilisation, and in the evening Germany declared war on Russia. For the first time one great power had declared war on another."
+  - "At noon the German ultimatum demanding that Russia halt its mobilisation expired. Ambassador Friedrich von Pourtalès asked Sazonov three times whether Russia would stop, then handed over the note."
+  - "A telegram from Lichnowsky suggesting French neutrality led the Kaiser to try sending the whole army east, but the offer proved a misunderstanding and Moltke was told he could do as he saw fit."
+  - "Formally Germany began the war, which allowed Italy to declare neutrality. Following the Schlieffen Plan, Germany declared war on France on 3 August and entered Belgium on 4 August."
 ---
 
 On 1 August 1914 [Germany](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) took two steps that turned a war in the Balkans into a war of the great powers. In the afternoon Kaiser [Wilhelm II](/postacie/wilhelm-ii) ordered general [mobilisation](https://pl.wikipedia.org/wiki/Mobilizacja), and in the evening the German ambassador in St Petersburg handed the Russian government a [declaration of war](https://pl.wikipedia.org/wiki/Wypowiedzenie_wojny). For the first time in this conflict one great power had declared war on another.

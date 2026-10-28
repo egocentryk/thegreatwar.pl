@@ -15,6 +15,12 @@ result: Zwycięstwo kanadyjskie. Korpus Kanadyjski zdobył cały grzbiet Vimy, a
 authors: [Łukasz Skowroń]
 tags: [Kanada, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
+brief:
+  - "Bitwa o grzbiet Vimy, toczona 9–12 kwietnia 1917 roku, była północną częścią brytyjskiej ofensywy pod Arras. Grzbiet był od 1914 roku w rękach Niemców, a Francuzi w 1915 roku dwukrotnie nie zdołali go zdobyć."
+  - "Korpus Kanadyjski generała porucznika Juliana Bynga starannie przygotował natarcie: próby na makiecie terenu, podziemne przejścia w kredzie i ostrzał, w którym na niemieckie pozycje spadło ponad milion pocisków."
+  - "Rankiem 9 kwietnia, w Poniedziałek Wielkanocny, w zawiei śnieżnej ruszyły jednocześnie wszystkie cztery dywizje kanadyjskie. Za ruchomą zaporą ogniową w kilka godzin zajęły niemal cały grzbiet."
+  - "Najtrudniej poszło 4 Dywizji na wzgórzu 145, które padło dopiero 10 kwietnia. 12 kwietnia Kanadyjczycy zdobyli wzgórze Pimple, a Niemcy wycofali się na równinę."
+  - "Korpus Kanadyjski stracił w dniach 9–14 kwietnia 10 602 ludzi. Strategicznie zwycięstwo niewiele zmieniło, ale w Kanadzie Vimy stało się symbolem i ma niepodważalne miejsce w pamięci narodowej."
 ---
 
 Bitwa o grzbiet Vimy była północną częścią brytyjskiej ofensywy [pod Arras](/bitwy/bitwa-pod-arras-1917) wiosną 1917 roku. Grzbiet, niski, ale stromo opadający na wschód wał wzgórz między Arras a [Lens](https://pl.wikipedia.org/wiki/Lens), był od jesieni 1914 roku w rękach Niemców i panował nad całą okolicą. Francuzi w 1915 roku dwukrotnie próbowali go zdobyć, tracąc dziesiątki tysięcy ludzi. Rankiem 9 kwietnia 1917 roku, w Poniedziałek Wielkanocny, w zawiei śnieżnej, do natarcia ruszyły jednocześnie wszystkie cztery dywizje Korpusu Kanadyjskiego, po raz pierwszy walczące razem. Po starannie zaplanowanym, wielotygodniowym przygotowaniu i za potężną ruchomą zaporą ogniową Kanadyjczycy w ciągu kilku godzin zajęli niemal cały grzbiet. Najwyższy jego punkt, wzgórze 145, padł następnego dnia, a 12 kwietnia ostatni niemiecki punkt oparcia na północnym krańcu, zwany Pimple. Niemcy wycofali się na równinę. Zwycięstwo kosztowało Kanadyjczyków ponad 10 tysięcy zabitych i rannych i stało się jednym z najważniejszych wydarzeń w historii Kanady.

@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Belgia, Niemcy, Albert I, Antwerpia]
 milestone: true
 draft: false
+brief:
+  - "18 sierpnia 1914 roku nad rzeką Gete, na wschód od Brukseli, armia belgijska starła się z główną siłą niemieckiej 1 Armii. Walki trwały do 19 sierpnia."
+  - "Po upadku Liège Belgowie zajęli linię od Tienen po Jodoigne, by osłaniać stolicę i czekać na Francuzów i Brytyjczyków. Wobec przytłaczającej przewagi Niemców groziło im jednak okrążenie."
+  - "Wieczorem 18 sierpnia król Albert I nakazał odwrót do Antwerpii, choć oznaczało to oddanie Brukseli bez walki. 20 sierpnia Niemcy wkroczyli do stolicy."
+  - "Decyzja króla ocaliła armię belgijską, która z Antwerpii przez kolejne tygodnie wiązała znaczne siły niemieckie, a po upadku twierdzy walczyła dalej nad Yser."
 ---
 
 18 sierpnia 1914 roku nad rzeką Gete w środkowej [Belgii](https://pl.wikipedia.org/wiki/Belgia) doszło do starcia armii belgijskiej z nacierającymi wojskami niemieckimi. Walki, trwające do 19 sierpnia, były częścią zmagań o Antwerpię i zadecydowały o dalszej strategii króla [Alberta I](/postacie/albert-i).

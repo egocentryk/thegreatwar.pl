@@ -8,6 +8,11 @@ dayOrder: 2
 tags: [Ameryka Łacińska, Niemcy, Stany Zjednoczone, wypowiedzenie wojny]
 milestone: true
 draft: false
+brief:
+  - "23 kwietnia 1918 roku prezydent Manuel Estrada Cabrera podpisał dekret numer 976, w którym Gwatemala przyjęła wobec Cesarstwa Niemieckiego „tę samą postawę wojującą co Stany Zjednoczone”."
+  - "Gwatemala zerwała stosunki z Niemcami 27 kwietnia 1917 roku. Dyktator opierał władzę na dobrych stosunkach z Waszyngtonem, a Waszyngton naciskał na ograniczenie wpływów bogatej kolonii niemieckiej."
+  - "Gwatemala była pierwszą z pięciu republik środkowoamerykańskich, które przystąpiły do wojny. Wkrótce poszły jej śladem Nikaragua, Kostaryka i Honduras, a neutralny pozostał tylko Salwador."
+  - "Gwatemala nie wysłała żołnierzy na front, a jej wojna polegała na wspieraniu Amerykanów i rozprawie z niemieckimi interesami w kraju. Przyniosła jej miejsce wśród zwycięzców i członkostwo w Lidze Narodów."
 ---
 
 23 kwietnia 1918 roku w Pałacu Władzy Wykonawczej w stolicy [Gwatemali](https://pl.wikipedia.org/wiki/Gwatemala) prezydent [Manuel Estrada Cabrera](https://pl.wikipedia.org/wiki/Manuel_Estrada_Cabrera) podpisał formułę „Publiquese y cúmplase” („Ogłosić i wykonać”) pod dekretem numer 976 Zgromadzenia Ustawodawczego. Jego pierwszy artykuł brzmiał: „W obecnym konflikcie międzynarodowym Gwatemala przyjmuje wobec Cesarstwa Niemieckiego tę samą postawę wojującą co Stany Zjednoczone”. Nie padło w nim słowo „wojna”, ale wszyscy rozumieli, co oznacza. Rok po [zerwaniu stosunków z Niemcami](/gwatemala-zrywa-stosunki-z-niemcami) Gwatemala stała się państwem wojującym, pierwszym spośród pięciu republik, które niegdyś tworzyły [federację środkowoamerykańską](https://pl.wikipedia.org/wiki/Zjednoczone_Prowincje_Ameryki_Środkowej).

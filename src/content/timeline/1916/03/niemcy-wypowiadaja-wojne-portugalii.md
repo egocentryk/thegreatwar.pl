@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Portugalia, Niemcy, wypowiedzenie wojny, Afonso Costa]
 milestone: true
 draft: false
+brief:
+  - "9 marca 1916 roku niemiecki poseł Friedrich Rosen wręczył w Lizbonie notę, w której Niemcy uznały się za będące w stanie wojny z Portugalią. Następnego dnia Rosen wyjechał do Madrytu."
+  - "Bezpośrednią przyczyną było zajęcie przez Portugalczyków, na prośbę Wielkiej Brytanii, niemieckich i austro-węgierskich statków handlowych na Tagu 23 lutego. Lizbona odmówiła cofnięcia tej decyzji."
+  - "Nota wyliczała portugalskie naruszenia neutralności, ale Lizbona odpowiadała, że nigdy neutralności nie ogłosiła. Rząd Afonso Costy świadomie szedł na zerwanie, licząc, że udział w wojnie obroni kolonie i wzmocni republikę."
+  - "10 marca Kongres jednogłośnie poparł rząd, a Costa zapowiedział wypełnienie zobowiązań wobec Wielkiej Brytanii. Powstał gabinet nazwany „Świętą Unią”."
+  - "Portugalski Korpus Ekspedycyjny wylądował we Francji na początku 1917 roku. 9 kwietnia 1918 roku na portugalski odcinek frontu spadło niemieckie uderzenie, które rozpoczęło bitwę nad Lys."
 ---
 
 9 marca 1916 roku, w czwartek po południu, niemiecki poseł w [Lizbonie](https://pl.wikipedia.org/wiki/Lizbona) Friedrich Rosen poprosił ministra spraw zagranicznych [Portugalii](https://pl.wikipedia.org/wiki/Pierwsza_Republika_Portugalska) Augusta Soaresa o pilne przyjęcie. Minister wyznaczył mu godzinę 18. Według lizbońskiej prasy Rosen przyszedł punktualnie, w czarnym surducie i cylindrze, a rozmowa trwała niespełna dwadzieścia minut. Poseł wręczył długą notę swojego rządu. Wyliczała ona niemieckie zarzuty wobec Portugalii i kończyła się oświadczeniem, że [Cesarstwo Niemieckie](https://pl.wikipedia.org/wiki/Cesarstwo_Niemieckie) uważa się odtąd za będące w stanie wojny z Portugalią. Jeszcze tego wieczoru amerykański poseł w Lizbonie depeszował do Waszyngtonu, że rząd niemiecki „uważa się za będący w stanie wojny z Portugalią”, a interesy niemieckie przejmuje poselstwo Hiszpanii.

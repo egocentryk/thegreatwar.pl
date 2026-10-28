@@ -2,7 +2,13 @@
 title: Canadians capture Arleux
 summary: On 28 April 1917 the Canadian 2nd Brigade took Arleux-en-Gohelle, the day's only success, as British attacks at Rœux, Gavrelle and Oppy failed.
 source: kanadyjczycy-zdobywaja-arleux
-sourceHash: 0ec263f54d2e645d8df7b1085be55d3dd0474f6a
+sourceHash: 26e1f8ddcee849a6c39b470f46cc0e8547343229
+brief:
+  - "On 28 April 1917 six British and Canadian divisions attacked near Arras on a front about 10 km long. Almost everywhere the attack broke down."
+  - "It was a subsidiary attack: Douglas Haig kept the Battle of Arras going to help Nivelle, whose offensive on the Aisne had failed. The British divisions, in action for three weeks, were greatly weakened."
+  - "The 2nd Brigade of the 1st Canadian Division went through the German loop of trenches in under two hours and took the ruins of Arleux-en-Gohelle. The British official history called it \"the only tangible success of the whole operation\"."
+  - "At Rœux, Gavrelle and Oppy the British attacks failed, and parties that pushed further were surrounded or driven back to their start lines."
+  - "According to the Canadian official history Canadian losses approached 1,000 men, and they took about 450 prisoners. The captured salient became the base for their attack on Fresnoy on 3 May."
 ---
 
 At 4.25 a.m. on 28 April 1917 the British and Canadians once again went into the attack near [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Six divisions attacked on a front about 10 km long, from Monchy-le-Preux on the Scarpe to the village of [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle) at the foot of Vimy Ridge. Almost everywhere the attack broke down. The exception was the 2nd Brigade of the 1st Canadian Division, which in less than two hours went through the German loop of trenches, took the ruins of Arleux and held them against counter-attacks. The British official history called this "the only tangible success of the whole operation".

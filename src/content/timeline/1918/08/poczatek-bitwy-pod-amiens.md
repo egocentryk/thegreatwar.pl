@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Brytyjski Korpus Ekspedycyjny, Australia, Kanada, czołgi]
 milestone: true
 draft: false
+brief:
+  - "8 sierpnia 1918 roku o 4.20, bez wcześniejszego ostrzału, dywizje kanadyjskie, australijskie i brytyjskie 4 Armii gen. Rawlinsona ruszyły z ponad czterystoma czołgami pod Amiens. Obok uderzyła francuska 1 Armia."
+  - "Przygotowania trwały niecałe dwa tygodnie w największej tajemnicy. Korpus Kanadyjski przewieziono nocami spod Arras, a dwa jego bataliony udawały we Flandrii, że cały korpus idzie pod Ypres."
+  - "Zaskoczona we mgle niemiecka 2 Armia straciła w ciągu kilku godzin front między Sommą a Avre. Przed południem Australijczycy byli na zewnętrznej linii obrony Amiens, a lekkie czołgi i kawaleria wyszły na tyły Niemców."
+  - "Wieczorem sprzymierzeni stali 11–13 kilometrów dalej na wschód i wzięli ponad 15 tysięcy jeńców. Gorzej poszło tylko III Korpusowi na północ od Sommy, który zatrzymano pod Chipilly."
+  - "Ludendorff nazwał 8 sierpnia „czarnym dniem armii niemieckiej” i uznał, że wojnę trzeba będzie zakończyć. Od tego dnia armie sprzymierzone nie zatrzymały się już aż do rozejmu."
 ---
 
 8 sierpnia 1918 roku o 4.20 rano ponad dwa tysiące brytyjskich dział otworzyło ogień na froncie długim na ponad 18 kilometrów, od Morlancourt nad Ancre po drogę z [Amiens](https://pl.wikipedia.org/wiki/Amiens) do Roye. Jednocześnie, bez żadnego wcześniejszego ostrzału, ruszyły za wałem ogniowym dywizje kanadyjskie, australijskie i brytyjskie 4 Armii generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson), a z nimi ponad czterysta czołgów. Trzy kwadranse później na ich prawym skrzydle uderzyła francuska 1 Armia generała Marie-Eugène'a Debeneya. Niemiecka 2 Armia została zaskoczona we mgle i w ciągu kilku godzin jej front między Sommą a Avre przestał istnieć. Wieczorem sprzymierzeni stali 11–13 kilometrów dalej na wschód, a w ich klatkach jenieckich było ponad 15 tysięcy Niemców. Generał [Erich Ludendorff](/postacie/erich-ludendorff) napisał później, że 8 sierpnia był „czarnym dniem armii niemieckiej w historii tej wojny”.

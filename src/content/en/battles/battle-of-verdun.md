@@ -9,7 +9,13 @@ sides:
     commanders: [Erich von Falkenhayn, Crown Prince Wilhelm, Konstantin Schmidt von Knobelsdorf]
 result: French defensive victory. The Germans took Forts Douaumont and Vaux but did not capture the Meuse Heights. In the autumn the French regained most of the lost ground.
 source: bitwa-pod-verdun
-sourceHash: ec973c1f25a02ecea834a7715b611eb96ed2b63d
+sourceHash: 5e8c8d641504f3436ff61f2877f8f57d732d279e
+brief:
+  - "The Battle of Verdun, fought from 21 February to 18 December 1916 for the heights above the Meuse, was the longest battle of the First World War."
+  - "Falkenhayn struck with the 5th Army on the right bank of the Meuse after a bombardment without precedent, and on 25 February the Germans took Fort Douaumont, the largest of the Verdun forts, almost without a fight."
+  - "General Pétain halted the advance and brought men and ammunition along the Sacred Way from Bar-le-Duc, while a rotation of divisions known as the noria meant that most of the French army passed through Verdun."
+  - "In June the Germans took Fort Vaux and reached Fort Souville but got no further, and in the autumn the French retook Douaumont, occupied the abandoned Fort Vaux and regained most of the lost ground."
+  - "The battle cost the two sides together about 700,000 killed, wounded and missing, and Verdun became for the French a symbol of the nation's endurance and of the whole war."
 ---
 
 The Battle of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)) was the longest battle of the First World War. On 21 February 1916 the German [5th Army](https://pl.wikipedia.org/wiki/5_Armia_(Cesarstwo_Niemieckie)), after an artillery bombardment without precedent, struck the French positions north of the old fortress on the [Meuse](https://pl.wikipedia.org/wiki/Moza). Within a few days it broke through two lines of defence and took Fort Douaumont, the largest of the Verdun forts, almost without a fight. The French, however, did not collapse. Under General [Philippe Pétain](/postacie/philippe-petain) they halted the advance, and along the single road from [Bar-le-Duc](https://pl.wikipedia.org/wiki/Bar-le-Duc) they brought an unbroken stream of men and ammunition to the front. Over the following months the Germans assaulted the heights on both banks of the river; in June they took Fort Vaux and came within a few kilometres of the town, but got no further. When the Allied offensive on the Somme and the Russian offensive in the east began in the summer, the initiative passed to the French, who in October and December regained most of the lost ground. The battle cost the two sides together about 700,000 killed, wounded and missing, and Verdun became for the French the symbol of the whole war.

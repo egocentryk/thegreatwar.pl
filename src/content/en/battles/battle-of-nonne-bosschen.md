@@ -11,7 +11,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Alexander von Linsingen, Karl von Plettenberg, Arnold von Winckler]
 result: British defensive victory. The Prussian Guard broke into the British line but was stopped and driven out of Nonne Bosschen wood. The Germans held only a stretch of the old British front line.
 source: bitwa-pod-nonne-bosschen
-sourceHash: 2619deb93172d855c9b656251124240f6a0a48f9
+sourceHash: 9c88810150afc5c882a4766541bfc718a12f2ebb
+brief:
+  - "The Battle of Nonne Bosschen, fought on 11 November 1914 east of Ypres, was the last great German attack of the First Battle of Ypres."
+  - "The Germans brought picked troops to Ypres, including a division of the Prussian Guard. Facing them were bled-out British battalions; FitzClarence's brigade had just over 800 soldiers."
+  - "After the heaviest bombardment since the battle began, the Guard broke the line by the Menin road and went through Nonne Bosschen wood. It was stopped by the fire of gunners with no infantry behind them."
+  - "In the afternoon a counter-attack by the 2nd Battalion, Oxfordshire and Buckinghamshire Light Infantry drove the guardsmen out of the wood. The old front-line trenches, however, stayed in German hands."
+  - "Apart from one breach the Germans achieved nothing, and the front at Ypres held. Both sides were at the end of their strength, and on 22 November the British end the First Battle of Ypres."
 ---
 
 The Battle of Nonne Bosschen, fought on 11 November 1914 east of [Ypres](https://pl.wikipedia.org/wiki/Ieper), was the last great German attack of the [First Battle of Ypres](/bitwy/pierwsza-bitwa-pod-ypres). After the heaviest artillery bombardment since the fighting began, the Germans attacked on a front from Messines to Polygon Wood. They were repulsed everywhere except on one sector by the Menin–Ypres road, where a fresh, picked division made up of Prussian Guard regiments broke the line of a bled-out British brigade and pushed deep into the position. Some of the guardsmen got through Nonne Bosschen wood almost up to the British battery positions. They were stopped by the gunners' fire, and in the afternoon a counter-attack by the 2nd Battalion, Oxfordshire and Buckinghamshire Light Infantry drove them out of the wood. The front at Ypres held.

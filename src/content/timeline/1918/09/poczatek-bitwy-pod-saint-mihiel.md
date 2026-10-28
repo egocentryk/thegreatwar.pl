@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Stany Zjednoczone, John Pershing, czołgi, lotnictwo]
 milestone: true
 draft: false
+brief:
+  - "12 września 1918 roku o 5.00 rano amerykańska 1 Armia gen. Johna Pershinga uderzyła na niemiecki występ Saint-Mihiel. Po raz pierwszy cała armia amerykańska walczyła pod rozkazami własnego naczelnego wodza."
+  - "Niemcy trzymali występ od września 1914 roku. Po sporach z marszałkiem Fochem uzgodniono, że 1 Armia zlikwiduje występ, ale nie pójdzie na Metz, bo miała wkrótce zacząć ofensywę między Mozą a Argonnami."
+  - "Od 1.00 w nocy około 3 tysięcy dział ostrzeliwało niemieckie pozycje. Czołgi ugrzęzły w błocie, więc piechota sama przechodziła przez zasieki: przecinała drut, przerzucała przez niego siatki i deptała po nim."
+  - "Czołgami dowodził ppłk George Patton, a nad polem bitwy działało 1481 samolotów pod rozkazami płk. Williama „Billy'ego” Mitchella – największe dotąd zgrupowanie lotnictwa w jednej operacji."
+  - "Do wieczora Amerykanie zajęli kilkanaście wsi, wzięli tysiące jeńców i posunęli się o około 8 kilometrów, a Niemcy cofali się na pozycję Michel. Gen. Gallwitz zaliczył 12 września do swoich „nielicznych czarnych dni”."
 ---
 
 12 września 1918 roku o 5.00 rano piechota amerykańskiej 1 Armii ruszyła do natarcia na niemiecki występ frontu wokół [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) nad Mozą, na południowy wschód od Verdun. Po raz pierwszy w tej wojnie cała armia amerykańska walczyła pod rozkazami własnego naczelnego wodza, generała [Johna Pershinga](/postacie/john-pershing), a francuskie dywizje, które w niej uczestniczyły, podlegały jemu. Do wieczora Amerykanie przeszli przez pasy zasieków, uważane za nie do przebycia, zajęli kilkanaście wsi, wzięli tysiące jeńców i posunęli się na południowej ścianie występu o około 8 kilometrów. Godziny podajemy za raportem końcowym Pershinga i przewodnikiem amerykańskiej komisji pomników wojennych (American Battle Monuments Commission) z 1938 roku.

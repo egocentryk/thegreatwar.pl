@@ -10,6 +10,12 @@ dayOrder: 4
 tags: [Francja, Niemcy, Joseph Joffre, Noël de Castelnau]
 milestone: true
 draft: false
+brief:
+  - "25 września 1915 roku o 9.15, po trzech dniach ostrzału, francuska piechota ruszyła do natarcia w Szampanii, na wschód od Reims. Zaczęła się druga bitwa w Szampanii, główna część jesiennej ofensywy aliantów."
+  - "Generał Joseph Joffre liczył na przełamanie, które zmusi Niemców do odwrotu z Francji i odciąży Rosjan. Do ataku ruszyły 4 Armia generała de Langle de Cary i 2 Armia generała Pétaina."
+  - "Mimo ulewnego deszczu Francuzi przełamali pierwszą niemiecką linię w czterech miejscach. Według francuskiej historii oficjalnej wzięli tego dnia około 14 tysięcy jeńców."
+  - "Niemcy wycofali większość artylerii za drugą pozycję na odwrotnych stokach. Tam nacierający natknęli się na nienaruszone zasieki i ogień karabinów maszynowych."
+  - "Pułkownik Fritz von Loßberg kazał bronić drugiej pozycji za wszelką cenę, a do Szampanii ruszyły niemieckie odwody. Przełamanie, na które liczył Joffre, nie nastąpiło."
 ---
 
 25 września 1915 roku o 9.15 rano, po trzech dniach ostrzału, francuska piechota ruszyła do natarcia w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims). Tak zaczęła się druga bitwa w Szampanii, główna część wielkiej jesiennej ofensywy aliantów na zachodzie. Kilka godzin później i około 150 kilometrów dalej na północny zachód [uderzyła francuska 10 Armia](/poczatek-trzeciej-bitwy-w-artois), a jeszcze wcześniej rano [Brytyjczycy pod Loos](/poczatek-bitwy-pod-loos). Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), liczył, że w Szampanii nastąpi przełamanie, które zmusi Niemców do odwrotu z Francji i odciąży wycofujących się na wschodzie Rosjan. W rozkazie dziennym z 23 września zapowiadał żołnierzom, że ich zryw będzie nie do powstrzymania i jednym uderzeniem zaniesie ich aż do niemieckich baterii, za umocnione linie wroga.

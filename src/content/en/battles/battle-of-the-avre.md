@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, Oskar von Hutier, Georg von der Marwitz]
 result: Allied defensive success. The Germans advanced 2–3 km and took Le Hamel, Castel, Mailly-Raineval and Morisel, but failed to capture Villers-Bretonneux or come within effective artillery range of Amiens. The next day Ludendorff called off Operation Michael.
 source: bitwa-nad-avre
-sourceHash: 717a632cfcb07f175bcc7c2de3b0082bcca8c5a0
+sourceHash: 329bbde41f5ade448d3fa245d74a19f1f3fbf72d
+brief:
+  - "On 4 April 1918, in rain, two German armies attacked on a front of about 24 km from Grivesnes to the Somme. It was the last great blow of Operation Michael against Amiens."
+  - "The Germans aimed to reach a line about 8 km from Amiens, from which heavy guns could shell the station and bridges in the city. According to the British official history they used 17 divisions, six of them fresh."
+  - "In the south the French First Army lost several villages on the Avre and fell back more than 3 km, while in the north the tired British 14th Division gave ground along the Somme and lost the village of Le Hamel."
+  - "In the afternoon the Germans stood a few hundred metres from Villers-Bretonneux. At about 5.45 p.m. a counter-attack by the Australian 36th Battalion and British units threw them back, and by about 7 p.m. the line was secure again."
+  - "The attack achieved none of its objectives: the Germans took neither Villers-Bretonneux nor a line from which to shell Amiens. On the evening of 5 April Ludendorff halted the offensive."
 ---
 
 The Battle of the Avre was the last great German blow of [Operation Michael](/bitwy/operacja-michael), the offensive launched on 21 March 1918. After a three-day pause, in rain that did not let up all day, two German armies attacked on 4 April on a front about 24 km long, from Grivesnes south of [Moreuil](https://pl.wikipedia.org/wiki/Moreuil) to the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). They aimed to seize ground from which heavy artillery could shell the railway junction and bridges at [Amiens](https://pl.wikipedia.org/wiki/Amiens), and to strike at the city itself the following day. In the south the French First Army lost several villages on the [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) and fell back more than 3 km. In the north the British XIX Corps gave ground along the Somme and lost the village of [Le Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)), and by evening the Germans stood a few hundred metres from [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), a small town on the plateau commanding the road to Amiens. A counter-attack by the Australian 36th Battalion and British units threw them back at the last moment. The attack achieved none of its objectives, and a day later the German command gave up further attacks on Amiens.

@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Francuzi zajęli Souchez i część stoków grzbietu
 authors: [Natalia]
 tags: [Francja, Niemcy, Ferdinand Foch, Arras]
 milestone: true
+brief:
+  - "Od 25 września do 15 października 1915 roku francuska 10 Armia generała Victora d'Urbala po raz trzeci atakowała wzgórza Vimy na północ od Arras. Była to północna część jesiennej ofensywy aliantów."
+  - "Joffre traktował Artois jako natarcie towarzyszące głównemu uderzeniu w Szampanii, ale generał Ferdinand Foch liczył na przełamanie w kierunku Douai. Tym razem odwody ustawiono blisko frontu."
+  - "Pierwszego dnia najlepiej poszło na lewym skrzydle, przy Brytyjczykach, a 26 września Francuzi zdobyli Souchez. 28 września część III Korpusu dotarła na wzgórze 140, ale kontrataki Gwardii zepchnęły ją z grzbietu."
+  - "Już 26 września Joffre ograniczył natarcie w Artois na rzecz Szampanii, a z braku amunicji nie zgodził się na dalsze wielkie działania. Według francuskiej historii oficjalnej 10 Armia straciła 48 230 ludzi."
+  - "Francuzi posunęli się o 1–3 kilometry i zdobyli Souchez, ale grzbiet Vimy pozostał w rękach niemieckich. Zdobyli go dopiero Kanadyjczycy w kwietniu 1917 roku."
 ---
 
 Trzecia bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois) była północną częścią wielkiej jesiennej ofensywy aliantów na froncie zachodnim w 1915 roku. 25 września francuska 10 Armia generała Victora d'Urbala po raz trzeci uderzyła na niemieckie pozycje na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), by zdobyć wzgórza [Vimy](https://pl.wikipedia.org/wiki/Vimy) i otworzyć sobie drogę na równinę [Douai](https://pl.wikipedia.org/wiki/Douai). Tego samego dnia na jej lewym skrzydle Brytyjczycy zaatakowali [pod Loos](https://pl.wikipedia.org/wiki/Bitwa_pod_Loos), a około 150 kilometrów dalej na południowy wschód główne natarcie francuskie ruszyło w Szampanii. W Artois miało być natarciem towarzyszącym, ale generał [Ferdinand Foch](/postacie/ferdinand-foch) liczył na przełamanie. Po kilku dniach walk Francuzi zdobyli zrujnowaną wieś [Souchez](https://pl.wikipedia.org/wiki/Souchez), o którą walczyli od maja, i na krótko dotarli do najwyższego punktu grzbietu Vimy. Na więcej zabrakło sił i amunicji, a naczelne dowództwo wolało je oszczędzać dla Szampanii.

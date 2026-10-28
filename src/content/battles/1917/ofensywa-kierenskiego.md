@@ -15,6 +15,12 @@ result: Porażka Rosji. Natarcie 11 i 7 Armii na Lwów utknęło po dwóch dniac
 authors: [Łukasz Skowroń]
 tags: [Rosja, Austro-Węgry, Niemcy, Aleksander Kiereński]
 milestone: true
+brief:
+  - "Ofensywa Kiereńskiego, toczona od 1 do 16 lipca 1917 roku, była ostatnią wielką ofensywą armii rosyjskiej w I wojnie światowej. Armie Frontu Południowo-Zachodniego miały zdobyć Lwów."
+  - "Rząd Tymczasowy, naciskany przez sojuszników, liczył, że zwycięstwo wzmocni rewolucyjną Rosję i przywróci dyscyplinę. Minister wojny Aleksander Kiereński osobiście zagrzewał żołnierzy na wiecach."
+  - "Pod Koniuchami i Zborowem Rosjanie i brygada czechosłowacka rozbili dwie austro-węgierskie dywizje, ale pod Brzeżanami Armia Południowa odparła natarcie, a 7 lipca 11 Armia przeszła do obrony."
+  - "Od 6 lipca 8 Armia generała Ławra Korniłowa przełamała front pod Stanisławowem i zdobyła Halicz i Kałusz, ale nad wezbraną Łomnicą zatrzymały ją niemieckie posiłki, a oddziały coraz częściej odmawiały walki."
+  - "19 lipca Niemcy i Austriacy uderzyli spod Złoczowa i Rosjanie stracili prawie całą Galicję Wschodnią. Nieudana ofensywa była jednym z gwoździ do trumny Rządu Tymczasowego."
 ---
 
 Ofensywa Kiereńskiego była ostatnią wielką ofensywą armii rosyjskiej w I wojnie światowej. Rząd Tymczasowy, naciskany przez sojuszników i przekonany, że zwycięstwo wzmocni rewolucyjną Rosję i przywróci dyscyplinę w wojsku, rzucił do natarcia armie [Frontu Południowo-Zachodniego](https://pl.wikipedia.org/wiki/Front_Południowo-Zachodni_(Imperium_Rosyjskie)). Ich celem był [Lwów](https://pl.wikipedia.org/wiki/Lwów). Po dwóch dniach ognia artylerii 1 lipca 1917 roku piechota 11 i 7 Armii zaatakowała między [Zborowem](https://pl.wikipedia.org/wiki/Zborów) a [Brzeżanami](https://pl.wikipedia.org/wiki/Brzeżany). Pod Koniuchami i Zborowem Rosjanie i walcząca u ich boku brygada czechosłowacka rozbili dwie austro-węgierskie dywizje, ale pod Brzeżanami niemiecka Armia Południowa odparła natarcie. Od 6 lipca uderzała na południe od Dniestru 8 Armia generała [Ławra Korniłowa](/postacie/lawr-kornilow). Przełamała front pod [Stanisławowem](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk), zdobyła [Halicz](https://pl.wikipedia.org/wiki/Halicz_(miasto)) i [Kałusz](https://pl.wikipedia.org/wiki/Kałusz), lecz nad wezbraną [Łomnicą](https://pl.wikipedia.org/wiki/Łomnica_(dopływ_Dniestru)) zatrzymały ją niemieckie posiłki. Rosyjskie oddziały coraz częściej odmawiały pójścia do ataku. W połowie lipca ofensywa wygasła, a kilka dni później Niemcy i Austriacy przeszli do kontrnatarcia.

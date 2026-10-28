@@ -15,6 +15,12 @@ result: Zdecydowane zwycięstwo państw centralnych. Włoska 2 Armia została ro
 authors: [Łukasz Skowroń]
 tags: [Włochy, Austro-Węgry, Niemcy, Luigi Cadorna]
 milestone: true
+brief:
+  - "Dwunasta bitwa nad Isonzo, znana jako bitwa pod Caporetto, toczona od 24 października do 9 listopada 1917 roku, była największą klęską armii włoskiej w całej wojnie."
+  - "Wyczerpani Austriacy poprosili Niemców o pomoc. Nowa 14 Armia generała Ottona von Belowa miała przełamać front wąskim, głębokim uderzeniem między Bovcem a Tolminem, krótkim ostrzałem i oddziałami szturmowymi."
+  - "24 października, po nocnym ostrzale gazowym, piechota przeszła dnem doliny Soczy i po południu była w Kobaridzie. W ciągu trzech dni załamał się cały włoski front od Alp Karnickich po morze."
+  - "Generał Luigi Cadorna nakazał odwrót za Tagliamento, a potem za Piawę. Do niewoli trafiło blisko 300 tysięcy Włochów, a Włochy straciły prawie połowę swojej artylerii."
+  - "Front zatrzymał się na Piawie i Monte Grappa, Cadornę zastąpił Diaz, a sprzymierzeni powołali w Rapallo Najwyższą Radę Wojenną. Państwa centralne nie osiągnęły jednak celu strategicznego."
 ---
 
 Dwunasta bitwa nad Isonzo, znana częściej jako bitwa pod Caporetto, była największą klęską armii włoskiej w całej wojnie. 24 października 1917 roku nowa niemiecka 14 Armia generała [Ottona von Belowa](/postacie/otto-von-below), złożona z dywizji niemieckich i austro-węgierskich, uderzyła nad górną [Soczą](https://pl.wikipedia.org/wiki/Socza) pod [Bovcem](https://pl.wikipedia.org/wiki/Bovec) i [Tolminem](https://pl.wikipedia.org/wiki/Tolmin), w najsłabszym miejscu włoskiej 2 Armii. Po nocnym ostrzale gazowym piechota w deszczu i mgle przeszła przez włoskie linie dnem doliny, a już po południu pierwszego dnia Niemcy byli w [Kobaridzie](https://pl.wikipedia.org/wiki/Kobarid), po włosku Caporetto. W ciągu trzech dni załamał się cały włoski front od Alp Karnickich po morze. Generał [Luigi Cadorna](/postacie/luigi-cadorna) nakazał odwrót najpierw za [Tagliamento](https://pl.wikipedia.org/wiki/Tagliamento), a potem za [Piawę](https://pl.wikipedia.org/wiki/Piawa), sto kilkadziesiąt kilometrów od linii wyjściowej. Do niewoli trafiło blisko 300 tysięcy włoskich żołnierzy, a setki tysięcy rozproszonych i cywilnych uciekinierów zalały drogi Friuli i Wenecji. Front zatrzymał się dopiero na Piawie i Monte Grappa, a Cadorna stracił stanowisko.

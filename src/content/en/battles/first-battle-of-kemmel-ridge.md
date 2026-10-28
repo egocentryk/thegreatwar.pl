@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin, Fritz von Loßberg]
 result: Allied victory. The attacks of the German Fourth and Sixth Armies on Mount Kemmel, Mont Rouge and Mont Noir and on the Belgian army at Merkem broke down with heavy losses. The French took over the Kemmel sector.
 source: pierwsza-bitwa-o-wzgorze-kemmel
-sourceHash: 2e2a1871a62815072f23329479c74b3e1064a44e
+sourceHash: 702b3acc4f27bcb337c00f7240e27f5ba9a2306f
+brief:
+  - "The First Battle of Kemmel Ridge was fought from 17 to 19 April 1918. It was part of the German offensive in Flanders known to the British as the Battle of the Lys."
+  - "The range of hills with Kemmelberg barred the way from the Lys plain to Ypres and on towards the Channel. The \"Tannenberg\" attack was meant to squeeze the Ypres salient from two sides like a pincer."
+  - "On 17 April General Sixt von Armin's German Fourth Army attacked the hills, but the exhausted divisions of Plumer's British Second Army, with the Australians at Meteren, held their lines."
+  - "At Merkem the Belgians recovered by counter-attacks everything they had lost in the morning and took almost eight hundred prisoners, their first such clear victory since the Battle of the Yser in 1914."
+  - "On 19 April the French 28th Division took over the defence of Mount Kemmel. The victory proved only a postponement: the Germans took the hill six days later, on 25 April."
 ---
 
 The First Battle of Kemmel Ridge was an attempt to decide the German offensive in Flanders with a single blow against the range of hills that barred the way from the Lys plain to Ypres and on towards the English Channel. After taking [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), Meteren and Wytschaete, the Germans stood at the foot of the chain of heights running from Mont des Cats through Mont Noir and Mont Rouge to [Kemmelberg](https://pl.wikipedia.org/wiki/Kemmelberg), the highest and most advanced of them. On 17 April 1918 the Fourth Army of General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin), supported by the right wing of the Sixth Army, attacked the hills from the south, while at the same time it struck from Houthulst Forest at the Belgian army north of [Ypres](https://pl.wikipedia.org/wiki/Ieper). Both attacks, planned as the two arms of a pincer around the Ypres salient, ended in complete failure. The exhausted divisions of General [Herbert Plumer](/postacie/herbert-plumer)'s British Second Army held their lines, and the Belgians at [Merkem](https://pl.wikipedia.org/wiki/Merkem) recovered everything they had lost in the morning and took almost eight hundred prisoners. On 18 April the Germans made only weak renewed attacks, and on 19 April the French 28th Division took over the defence of Mount Kemmel. The failure very nearly led the Germans to break off the whole offensive in Flanders.

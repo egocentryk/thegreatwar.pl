@@ -2,7 +2,13 @@
 title: Execution of Mata Hari
 summary: On 15 October 1917 Mata Hari, a Dutch dancer convicted of spying for Germany, was shot at Vincennes. The evidence of her guilt is disputed to this day.
 source: egzekucja-maty-hari
-sourceHash: 75f168b8237238b7dabb710171f54f3cd0143072
+sourceHash: 09ef6b83170b28e36a8941ef70c75498e6c4aa5c
+brief:
+  - "On 15 October 1917 a firing squad on the training ground by the fort of Vincennes shot 41-year-old Margaretha Zelle, known as Mata Hari, a Dutch dancer convicted of spying for Germany."
+  - "Mata Hari became famous in Paris in 1905 as an exotic dancer and later lived as a courtesan of wealthy protectors. During the war she took money from German intelligence and was given the code name H-21."
+  - "At the same time she agreed to spy for France. She was undone by telegrams of the German attaché in Madrid, intercepted by the French, which made her easy to identify."
+  - "In July 1917 a court martial unanimously sentenced her to death, and President Raymond Poincaré did not exercise his right of clemency. After the army mutinies and scandals the country sought traitors, and she suited the role."
+  - "Most historians now believe she took German money but passed nothing of importance to either side. Her trial rested on circumstantial evidence, and her name became a byword for a femme fatale."
 ---
 
 Before dawn on 15 October 1917, in the Saint-Lazare women's prison in Paris, 41-year-old Margaretha Geertruida Zelle, known throughout Europe as [Mata Hari](https://pl.wikipedia.org/wiki/Mata_Hari), was woken. Into her cell came the examining magistrate Captain Pierre Bouchardon, her lawyer Édouard Clunet, the Protestant prison chaplain Pastor Jules Arboux and two nuns. Only then did she learn that the President had rejected her plea for clemency and that she was about to be shot. According to the account of the American journalist Henry Wales of the International News Service, who was present at the execution, she asked only whether she might write two letters. She wrote them hastily on the edge of her bunk and handed them to her lawyer. Then she dressed with care, put on a long fur-trimmed coat, a large hat and gloves, and said: "I am ready."

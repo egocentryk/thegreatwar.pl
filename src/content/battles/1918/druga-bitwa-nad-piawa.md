@@ -15,6 +15,12 @@ result: Zwycięstwo Włoch i ich sojuszników. Natarcie w górach załamało si�
 authors: [Łukasz Skowroń]
 tags: [Włochy, Austro-Węgry, Armando Diaz, Franz Conrad von Hötzendorf]
 milestone: true
+brief:
+  - "15 czerwca 1918 roku Austro-Węgry rozpoczęły swoją ostatnią wielką ofensywę: uderzyły z gór, na płaskowyżu Asiago i w masywie Grappa, oraz przez Piawę, od wzgórza Montello po morze."
+  - "Po wyjściu Rosji i Rumunii z wojny monarchia chciała rozbić Włochy. Spór Conrada i Boroevicia sprawił, że siły podzielono między dwa uderzenia, a Włosi znali dzień i godzinę ataku."
+  - "W górach natarcie załamało się pierwszego dnia. Nad Piawą Austriacy zdobyli przyczółki, ale wezbrana rzeka i lotnictwo zniszczyły ich mosty, a włoskie odwody napływały szybciej."
+  - "20 czerwca cesarz Karol I zgodził się na odwrót, a w nocy z 22 na 23 czerwca wojska przeszły z powrotem na lewy brzeg. Klęska kosztowała monarchię około 140 tysięcy ludzi razem z chorymi."
+  - "Armia włoska pokazała, że Caporetto było przeszłością. Armia austro-węgierska nie była już zdolna do żadnej ofensywy, a w połowie lipca cesarz odwołał Conrada z dowództwa."
 ---
 
 Druga bitwa nad Piawą była ostatnią wielką ofensywą armii austro-węgierskiej. Po wyjściu Rosji i Rumunii z wojny monarchia Habsburgów po raz pierwszy mogła rzucić prawie wszystkie siły na jeden front i postanowiła rozbić Włochy, zanim na zachodzie rozstrzygną się losy wojny. 15 czerwca 1918 roku uderzyła jednocześnie z gór, na płaskowyżu [Asiago](https://pl.wikipedia.org/wiki/Asiago) i w masywie Monte Grappa, oraz przez [Piawę](https://pl.wikipedia.org/wiki/Piawa), od wzgórza Montello po morze. Włosi znali jednak datę i godzinę ataku. W górach natarcie załamało się już pierwszego dnia. Nad Piawą Austriacy przeszli rzekę i zdobyli przyczółki, ale wezbrana od deszczów rzeka i lotnictwo zniszczyły ich mosty, a włoskie odwody napływały szybciej niż austriackie. 20 czerwca cesarz Karol I zgodził się na odwrót i w nocy z 22 na 23 czerwca wojska przeszły z powrotem na lewy brzeg. Klęska kosztowała monarchię około 140 tysięcy ludzi i odebrała jej ostatnią nadzieję na zwycięstwo.

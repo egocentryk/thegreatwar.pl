@@ -10,6 +10,12 @@ dayOrder: 10
 tags: [Lotaryngia, Francja, Niemcy, Noël de Castelnau]
 milestone: true
 draft: false
+brief:
+  - "25 sierpnia 1914 roku w Lotaryngii francuska 2 Armia gen. Noëla de Castelnau i 1 Armia gen. Auguste'a Dubaila zatrzymały niemieckie natarcie i przeszły do kontrataku. Francuzi nazywają te walki bitwą o przesmyk Charmes."
+  - "Po klęsce pod Morhange armie Rupprechta Bawarskiego i Heeringena chciały przejść przez nieufortyfikowany przesmyk między Toul a Épinal. W Gerbéviller niemieccy żołnierze rozstrzelali według różnych źródeł około 50–60 cywilów."
+  - "Pod Rozelieures Niemcy podeszli na około 10 kilometrów do Mozeli, ale zatrzymał ich ogień dział kalibru 75 mm spod Borville. Castelnau wydał rozkaz: „Wszędzie naprzód, z całą siłą!”."
+  - "Francuzi nie zdołali zamienić zwycięstwa w pogrom, bo Niemcy okopali się między Mortagne a Meurthe. Brytyjska chronologia podaje, że bitwa zakończyła się 3 września."
+  - "Prawe skrzydło frontu francuskiego pozostało nienaruszone, dzięki czemu Joffre mógł przerzucać korpusy z Lotaryngii w rejon Paryża przed bitwą nad Marną."
 ---
 
 25 sierpnia 1914 roku w Lotaryngii, między Mozelą a rzeką Mortagne, rozegrał się decydujący dzień bitwy, którą brytyjska chronologia wojny nazywa bitwą nad Mortagne, a Francuzi bitwą o przesmyk Charmes. Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i 1 Armia generała [Auguste'a Dubaila](https://pl.wikipedia.org/wiki/Auguste_Dubail) zatrzymały niemieckie natarcie i przeszły do kontrataku. W czasie gdy na północy alianci cofali się przed niemieckim prawym skrzydłem, na wschodzie Francja odniosła jedno ze swoich pierwszych zwycięstw.

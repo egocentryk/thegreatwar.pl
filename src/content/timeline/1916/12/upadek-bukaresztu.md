@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Rumunia, August von Mackensen, Erich von Falkenhayn, okupacja niemiecka]
 milestone: true
 draft: false
+brief:
+  - "6 grudnia 1916 roku w południe pierwsze oddziały niemieckiej 9 Armii generała Ericha von Falkenhayna weszły do Bukaresztu. Stolica Rumunii poddała się bez walki."
+  - "Los miasta rozstrzygnęła kilka dni wcześniej klęska Rumunów w bitwie nad Argeșem. Rząd przeniósł się do Jass, a naczelne dowództwo uznało, że nie zdoła dłużej bronić Wołoszczyzny."
+  - "Bukareszt był formalnie twierdzą, ale działa wyjęto z fortów jeszcze przed wojną, a do obsadzenia umocnień brakowało ludzi. Rumuni ogłosili go miastem otwartym, odpowiadając na żądanie Mackensena."
+  - "Tego samego dnia Niemcy zdobyli szturmem Ploeszti, centrum zagłębia naftowego, choć wcześniej podpalono tam szyby i zapasy ropy. Nad Dunajem skapitulowała odcięta rumuńska grupa Cerny."
+  - "Bukareszt był czwartą stolicą nieprzyjacielską zdobytą przez państwa centralne i pozostał pod okupacją do końca wojny. Armii rumuńskiej nie zniszczono: odbudowana w Mołdawii, latem 1917 roku znów stanęła do walki."
 ---
 
 6 grudnia 1916 roku w południe pierwsze oddziały niemieckiej [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) generała [Ericha von Falkenhayna](/postacie/erich-von-falkenhayn) wkroczyły do [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt). Stolica Rumunii, licząca przed wojną około 345 tysięcy mieszkańców, poddała się bez walki. Tego samego dnia Niemcy zdobyli szturmem [Ploeszti](https://pl.wikipedia.org/wiki/Ploeszti), centrum zagłębia naftowego, a nad Dunajem skapitulowała odcięta od reszty armii rumuńska grupa Cerny. Austriacka historia oficjalna nazwała 6 grudnia dniem „szczególnego nieszczęścia” dla Rumunii. Dla dowódcy grupy armii, feldmarszałka [Augusta von Mackensena](/postacie/august-von-mackensen), był to dzień 67. urodzin. W Rumunii, liczącej czas według [kalendarza juliańskiego](https://pl.wikipedia.org/wiki/Kalendarz_juliański), był to 23 listopada.

@@ -2,7 +2,13 @@
 title: Abdication of Nicholas II
 summary: Late on 15 March 1917 at Pskov Nicholas II gave up the throne for himself and his son in favour of his brother Michael. The next day Michael declined the crown.
 source: abdykacja-mikolaja-ii
-sourceHash: d3cdac6d1916089090c906bd487594a6cf03bb26
+sourceHash: 618eb2161d74b1ee71dcdfeeaf52ce449744190b
+brief:
+  - "On 15 March 1917, in the saloon car of the imperial train at Pskov, Nicholas II renounced the throne for himself and his twelve-year-old son Alexei, handing the crown to his brother, Grand Duke Michael."
+  - "After the Petrograd garrison mutinied, the Tsar tried to return from Mogilev to Tsarskoye Selo, but his train was turned back. At Pskov General Ruzsky urged him to appoint a government responsible to the Duma."
+  - "Rodzianko declared this concession too late, and General Alekseyev asked the front commanders for their opinion. All of them, including Grand Duke Nicholas Nikolaevich and General Brusilov, favoured abdication."
+  - "Nicholas first agreed to abdicate in favour of his son, but, not wishing to be parted from him, changed his mind. At about 11.40 p.m. he handed the act to the Duma's envoys, Guchkov and Shulgin."
+  - "On 16 March Michael declined the crown until the Constituent Assembly decided. The more than three-hundred-year rule of the Romanovs came to an end, and Russia ceased to be a monarchy."
 ---
 
 On 15 March 1917 (2 March in the Julian calendar), in the saloon car of the imperial train standing at the station in [Pskov](https://pl.wikipedia.org/wiki/Psków), Tsar [Nicholas II](/postacie/mikolaj-ii) signed an act renouncing the throne. He abdicated for himself and for his twelve-year-old son, the heir to the throne, [Alexei](https://pl.wikipedia.org/wiki/Aleksy_Romanow_(1904–1918)), and handed the crown to his younger brother, Grand Duke [Michael Alexandrovich](https://pl.wikipedia.org/wiki/Michał_Romanow_(1878–1918)). He was brought to this decision not by revolutionaries but by his own generals, who had concluded that only the Emperor's departure would make it possible to master the [revolution in the capital](/rewolucja-lutowa) and go on fighting the war. He handed the act to two envoys of the Duma before midnight. The next day Michael declined the crown, and the more than three-hundred-year rule of the [Romanov](https://pl.wikipedia.org/wiki/Romanowowie) dynasty came to an end.

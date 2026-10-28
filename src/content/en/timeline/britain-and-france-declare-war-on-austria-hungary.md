@@ -2,7 +2,12 @@
 title: Britain and France declare war on Austria-Hungary
 summary: On 12 August 1914 Britain and France declared war on Austria-Hungary. From then on the Entente powers were at war with both Central Powers.
 source: wielka-brytania-i-francja-wypowiadaja-wojne-austro-wegrom
-sourceHash: 1253290b48bee5b48e9a83febfd8c7b255bba6fc
+sourceHash: 5f6a6e84fd54a5846cec3082e71388eb58b3b1b8
+brief:
+  - "On 12 August 1914 Britain and France declared war on Austria-Hungary. Sources give 11 or 12 August for the French declaration, but the decisions were taken practically simultaneously."
+  - "For more than a week London and Paris had kept relations with Vienna, as the monarchy had not attacked them directly. This changed after Austria-Hungary declared war on Russia on 6 August."
+  - "For the Habsburg monarchy it meant above all a threat at sea. As early as 16 August French warships sank the cruiser SMS Zenta off the coast of Montenegro."
+  - "The declaration closed the circle of declarations of war between the great powers and showed that the war had become a clash of two blocs: the Central Powers and the Entente."
 ---
 
 On 12 August 1914 [Britain](https://pl.wikipedia.org/wiki/Zjednoczone_Królestwo_Wielkiej_Brytanii_i_Irlandii) and [France](https://pl.wikipedia.org/wiki/III_Republika_Francuska) declared war on [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry). Sources differ on the exact date of the French declaration, giving 11 or 12 August, but in both capitals the decisions were taken practically simultaneously. With this the circle of declarations of war between the great powers of Europe was closed.

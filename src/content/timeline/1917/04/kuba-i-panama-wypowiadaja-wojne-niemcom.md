@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Stany Zjednoczone, Niemcy, wypowiedzenie wojny, Ameryka Łacińska]
 milestone: true
 draft: false
+brief:
+  - "7 kwietnia 1917 roku, dzień po Stanach Zjednoczonych, wojnę Niemcom wypowiedziały Kuba i Panama. Były to pierwsze państwa Ameryki Łacińskiej, które przystąpiły do wojny."
+  - "Obie izby kubańskiego Kongresu jednomyślnie uchwaliły stan wojny z Cesarstwem Niemieckim. Prezydent Mario García Menocal powoływał się na niemieckie łamanie prawa międzynarodowego i więzy z Amerykanami."
+  - "Jeszcze tego dnia Kubańczycy przejęli internowane od 1914 roku niemieckie statki, bo załogi zamierzały je zatopić u wejścia do portu w Hawanie."
+  - "W Panamie decyzję ogłosił w proklamacji prezydent Ramón Maximiliano Valdés. Kraj, przez który biegł Kanał Panamski, uznał, że wobec państwa gwarantującego jego niepodległość neutralność jest niemożliwa."
+  - "Wojskowe znaczenie obu deklaracji było niewielkie. Najważniejszym wkładem Kuby okazał się cukier, a Panama zapewniła Amerykanom swobodę działania w obronie kanału."
 ---
 
 7 kwietnia 1917 roku, w sobotę, zaledwie dzień po tym, jak [Stany Zjednoczone wypowiedziały wojnę Niemcom](/usa-wypowiadaja-wojne-niemcom), w ich ślady poszli dwaj najbliżsi sąsiedzi. W [Hawanie](https://pl.wikipedia.org/wiki/Hawana) obie izby kubańskiego Kongresu jednomyślnie uchwaliły, że między Republiką [Kuby](https://pl.wikipedia.org/wiki/Kuba) a Cesarstwem Niemieckim istnieje stan wojny. Tego samego dnia prezydent [Panamy](https://pl.wikipedia.org/wiki/Panama) [Ramón Maximiliano Valdés](https://pl.wikipedia.org/wiki/Ramón_Maximiliano_Valdés) ogłosił proklamację, w której zapowiedział, że jego kraj stanie u boku Stanów Zjednoczonych przeciw ich wrogom. Były to pierwsze państwa Ameryki Łacińskiej, które przystąpiły do wojny.

@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Ardeny, Francja, Niemcy, bitwa graniczna]
 milestone: true
 draft: false
+brief:
+  - "22 sierpnia 1914 roku w lasach Ardenów na dobre rozgorzała bitwa między dwiema armiami francuskimi a dwiema niemieckimi. Ten dzień przeszedł do historii jako najkrwawszy w dziejach armii francuskiej."
+  - "Joffre sądził, że niemieckie centrum w Ardenach jest słabe, i rzucił do natarcia 3 Armię gen. Ruffeya i 4 Armię gen. de Langle de Cary. Rozpoznanie zawiodło: naprzeciw szły dwie silne armie niemieckie."
+  - "Kolumny zderzyły się w gęstych lasach, często we mgle, m.in. pod Rossignol, Virton i Ethe. Francuska piechota nacierająca na bagnety padała pod ogniem, a pod Rossignol niemal całkowicie rozbito 3 Dywizję Kolonialną."
+  - "Tego dnia na całym froncie bitew granicznych zginęło około 27 tysięcy francuskich żołnierzy. 23 sierpnia Francuzi zaczęli się wycofywać za Mozę, co wraz z porażkami pod Charleroi i Mons doprowadziło do wielkiego odwrotu."
 ---
 
 22 sierpnia 1914 roku w lasach [Ardenów](https://pl.wikipedia.org/wiki/Ardeny), w belgijskiej prowincji Luksemburg, na dobre rozgorzała bitwa między dwiema armiami francuskimi a dwiema armiami niemieckimi. Ten dzień przeszedł do historii jako najkrwawszy w dziejach armii francuskiej.

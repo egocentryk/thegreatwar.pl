@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Austriacy zatrzymali Rosjan na przedpolu Krakowa, al
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Rosja, Galicja, Legiony Polskie]
 milestone: true
+brief:
+  - "Bitwa pod Krakowem, nazywana też pierwszą bitwą o Kraków, toczyła się w drugiej połowie listopada 1914 roku na północnym i wschodnim przedpolu twierdzy Kraków."
+  - "Po klęsce nad Wisłą armie austro-węgierskie cofnęły się pod Kraków, a rosyjska 9 Armia gen. Leczyckiego podeszła pod twierdzę. Rosjanie nie zamierzali jej szturmować, a jedynie ją blokować."
+  - "16 listopada austro-węgierska 4 Armia wyszła z twierdzy i uderzyła w lewe skrzydło 9 Armii. Pod Krzywopłotami dwa bataliony Legionów przez dwa dni odpierały rosyjskie ataki."
+  - "Rosjanie przerzucili przez Wisłę korpusy 3 Armii i zaczęli spychać Austriaków. 25 listopada natarcie przerwano, a do 28 listopada 4 Armia wróciła pod osłonę fortów."
+  - "Historycy różnie oceniają wynik bitwy, ale Kraków pozostał w rękach austriackich. Rosyjskie zagrożenie od południowego wschodu doprowadziło na początku grudnia do bitwy pod Limanową."
 ---
 
 [Bitwa pod Krakowem](https://pl.wikipedia.org/wiki/Pierwsza_bitwa_o_Kraków), nazywana też pierwszą bitwą o Kraków, rozegrała się w drugiej połowie listopada 1914 roku na północnym i wschodnim przedpolu [twierdzy Kraków](https://pl.wikipedia.org/wiki/Twierdza_Kraków). Po klęsce nad Wisłą armie austro-węgierskie cofnęły się pod samo miasto, a rosyjskie armie szły za nimi w stronę Śląska i Krakowa. 16 listopada austro-węgierska [4 Armia](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) wyszła z twierdzy i uderzyła w bok Rosjan. Przez dziesięć dni na mroźnych polach między Krakowem, Proszowicami a Słomnikami toczyły się krwawe walki, w których po obu stronach wzięło udział kilkaset tysięcy żołnierzy. Żadna ze stron nie odniosła rozstrzygającego sukcesu. Rosjanie nie zdobyli Krakowa, a Austriacy nie odrzucili ich od twierdzy.

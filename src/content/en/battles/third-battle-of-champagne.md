@@ -9,7 +9,13 @@ sides:
     commanders: [Crown Prince Wilhelm, Fritz von Below, Karl von Einem]
 result: Partial French success. The 4th Army took most of the Moronvilliers ridge and deprived the Germans of their observation points over the Champagne plain, but did not break the front, and the fighting for the summits went on for more than a month.
 source: trzecia-bitwa-w-szampanii
-sourceHash: 1f0b020d7b0032208784382acbe1e6c8f7bea543
+sourceHash: 928af1dbffb866f577bb380372be626aca2566d4
+brief:
+  - "The Third Battle of Champagne, called by the French the Battle of the Hills, fought from 17 April to 20 May 1917, was a subsidiary attack of the Nivelle Offensive east of Reims."
+  - "General François Anthoine's French 4th Army aimed at the Moronvilliers massif, from which the Germans had overlooked the whole Champagne plain since 1914. They held it in concrete shelters and tunnels cut into the chalk."
+  - "At 4.45 a.m. on 17 April the French advanced in a blizzard and in the first days reached most of the summits, taking several thousand prisoners. There was no breakthrough, and German counter-attacks won back some gains."
+  - "The fighting for individual summits lasted until 20 May, when the French took Mont Cornillet. Hundreds of German soldiers died in the tunnel beneath it, where the French found more than 600 bodies in 1917."
+  - "The battle was the most successful part of the Nivelle Offensive and denied the Germans observation, but did not break the front. The hills also saw the first signs of the mutinies in the French army."
 ---
 
 The Third Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania), called by the French the Battle of the Hills (bataille des Monts), was part of the spring [Nivelle Offensive](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a). The day after the main blow on the Aisne and the Chemin des Dames, the French 4th Army of General [François Anthoine](/postacie/francois-anthoine) attacked the Moronvilliers massif east of [Reims](https://pl.wikipedia.org/wiki/Reims), a range of chalk hills from which the Germans had overlooked the whole plain around [Châlons](https://pl.wikipedia.org/wiki/Châlons-en-Champagne) since 1914. In the first days the French forced their way onto most of the summits and took several thousand prisoners, but the breakthrough the commander-in-chief had counted on did not come. The Germans held out in concrete shelters and in tunnels bored under the hills, and their counter-attacks won back part of the gains. The fighting for individual summits lasted until 20 May, when the French finally took Mont Cornillet, and hundreds of German soldiers died in the tunnel beneath it.

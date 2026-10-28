@@ -9,6 +9,11 @@ dayOrder: 3
 tags: [wypowiedzenie wojny, Japonia, Niemcy, Tsingtao]
 milestone: true
 draft: false
+brief:
+  - "23 sierpnia 1914 roku Japonia wypowiedziała wojnę Niemcom jako pierwsze państwo spoza Europy, które przystąpiło do wojny samodzielnie. Konflikt objął odtąd Daleki Wschód i Pacyfik."
+  - "Japonię od 1902 roku wiązał sojusz z Wielką Brytanią, ale rząd Shigenobu Ōkumy widział w wojnie szansę zdobycia niemieckich posiadłości w Azji. Ultimatum z 15 sierpnia pozostało bez odpowiedzi."
+  - "Na początku września Japończycy wylądowali na półwyspie Szantung i oblegli Tsingtao, które skapitulowało 7 listopada 1914 roku. W październiku flota zajęła Mariany, Karoliny i Wyspy Marshalla."
+  - "Japonia niewielkim kosztem umocniła swoją pozycję w Chinach i na Pacyfiku. Po wojnie zasiadła wśród zwycięzców w Paryżu, a dawne niemieckie wyspy otrzymała jako mandat Ligi Narodów."
 ---
 
 23 sierpnia 1914 roku [Japonia](https://pl.wikipedia.org/wiki/Cesarstwo_Wielkiej_Japonii) wypowiedziała wojnę Niemcom. Było to pierwsze państwo spoza Europy, które przystąpiło do wojny jako samodzielny uczestnik, a nie jako część europejskiego imperium. Konflikt, zaczęty na Bałkanach, objął odtąd także Daleki Wschód i Pacyfik.

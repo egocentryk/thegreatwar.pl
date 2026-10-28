@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. 3 Armia posunęła się miejscami o ponad 5 km, 
 authors: [Natalia]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "Pierwsza bitwa nad Scarpe, toczona 9–14 kwietnia 1917 roku, była pierwszym i najbardziej udanym etapem bitwy pod Arras. Brytyjska 3 Armia generała Edmunda Allenby'ego uderzyła po obu stronach rzeki."
+  - "Natarcie miało ściągnąć niemieckie odwody przed ofensywą francuską nad Aisne. Falkenhausen spodziewał się ataku dopiero w połowie kwietnia i trzymał pięć dywizji odwodu daleko za frontem."
+  - "9 kwietnia za ruchomą zaporą ogniową piechota w kilka godzin przeszła przez dwie, miejscami trzy niemieckie pozycje, a na północ od Scarpe posunęła się o ponad pięć kilometrów."
+  - "Brytyjczycy nie zdołali wykorzystać wyłomu, zanim nadeszły niemieckie odwody. 11 kwietnia piechota i kawaleria zdobyły Monchy-le-Preux, ale kolejne natarcia rozbijały się o świeże dywizje."
+  - "Bitwa przyniosła więcej terenu i jeńców niż którakolwiek wcześniejsza brytyjska ofensywa na froncie zachodnim, ale po kilku dniach przybrała „boleśnie znajomy” wygląd i 14 kwietnia się skończyła."
 ---
 
 Pierwsza bitwa nad Scarpe była pierwszym i najbardziej udanym etapem [bitwy pod Arras](/bitwy/bitwa-pod-arras-1917). W Poniedziałek Wielkanocny, 9 kwietnia 1917 roku, brytyjska 3 Armia generała [Edmunda Allenby'ego](/postacie/edmund-allenby) uderzyła na wschód od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), po obu stronach rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe). W tym samym czasie Kanadyjczycy szturmowali sąsiedni grzbiet Vimy. Po potężnym ostrzale artyleryjskim i za ruchomą zaporą ogniową piechota w kilka godzin przeszła przez dwie, a na części frontu przez trzy niemieckie pozycje. Na północ od rzeki posunęła się o około 3,5 mili, czyli ponad pięć kilometrów, najdalej w ciągu jednego dnia od początku wojny pozycyjnej na froncie zachodnim. Niemieckie odwody stały jednak za daleko, żeby przeciwdziałać, a Brytyjczycy nie zdołali wykorzystać wyłomu, zanim nadeszły. 11 kwietnia piechota i kawaleria zdobyły dominującą nad okolicą wieś [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux), ale kolejne natarcia rozbijały się o świeże niemieckie dywizje. 14 kwietnia bitwa się skończyła.

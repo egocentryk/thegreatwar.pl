@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Brytyjczycy posunęli się o kilkaset metrów do 2 k
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
+brief:
+  - "Druga bitwa nad Scarpe, toczona 23–24 kwietnia 1917 roku, była drugim wielkim natarciem brytyjskim w bitwie pod Arras. Dziewięć dywizji 3 i 1 Armii uderzyło po obu stronach Scarpe."
+  - "Natarcie wznowiono głównie po to, by wspierać francuską ofensywę nad Aisne. Niemcy wykorzystali ośmiodniową przerwę: Loßberg zbudował nową, głęboką obronę opartą na dywizjach przeciwnatarcia."
+  - "23 kwietnia o 4.45 o zaskoczeniu nie było mowy, a niemiecka artyleria i kontrataki odbierały wiele zdobyczy. Szkoci zdobyli Rœux i zakłady chemiczne, ale Niemcy je odbili."
+  - "Po dwóch dniach Brytyjczycy zdobyli Guémappe, Gavrelle i grzbiet nad doliną Cojeul, ale Rœux i zakłady chemiczne pozostały w rękach niemieckich. Kanadyjska historia oficjalna podaje około 10 tysięcy strat."
+  - "Bitwa pokazała, że okres łatwych zdobyczy pod Arras się skończył. Kolejne natarcia tych samych zmęczonych dywizji przynosiły coraz mniej przy coraz większych stratach."
 ---
 
 Druga bitwa nad Scarpe była drugim wielkim natarciem brytyjskim w [bitwie pod Arras](/bitwy/bitwa-pod-arras-1917). Po ośmiodniowej przerwie, w dniu św. Jerzego, patrona Anglii, dziewięć dywizji 3 Armii generała [Edmunda Allenby’ego](/postacie/edmund-allenby) i 1 Armii generała Henry’ego Horne’a uderzyło po obu stronach rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), od Croisilles po Gavrelle. Tym razem nie było mowy o zaskoczeniu, a Niemcy mieli już nowy, głęboki system obrony, oparty na silnych kontratakach. Wielu uczestników nazwało ten dzień najcięższym, jaki przeżyli od początku wojny. Po dwóch dniach Brytyjczycy zdobyli Guémappe, Gavrelle i grzbiet nad doliną Cojeul, ale Rœux i zakłady chemiczne nad Scarpe pozostały w rękach niemieckich, a straty były wysokie. Natarcie wznowiono głównie dlatego, że trzeba było wspierać [francuską ofensywę nad Aisne](/bitwy/druga-bitwa-nad-aisne), która nie przyniosła obiecanego przełomu.

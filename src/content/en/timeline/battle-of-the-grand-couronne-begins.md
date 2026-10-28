@@ -2,7 +2,13 @@
 title: Battle of the Grand Couronné begins
 summary: On 4 September 1914 Crown Prince Rupprecht's army struck the Grand Couronné heights before Nancy. General Castelnau's French held the city for over a week.
 source: poczatek-bitwy-o-grand-couronne
-sourceHash: 8c6bef6534cb98cc56a046608e0419b1815d8008
+sourceHash: 3714dafcdcbf63db8528277c7513f9b1f28a27d3
+brief:
+  - "On 4 September 1914 Crown Prince Rupprecht of Bavaria's German Sixth Army attacked the Grand Couronné heights before Nancy, held by General Noël de Castelnau's weakened Second Army, as the Battle of the Marne raged."
+  - "Joffre kept taking Castelnau's corps west, so the heights were held largely by reserve divisions backed by XX Corps. The heaviest fighting was in the forest near Champenoux and on the slopes of Amance."
+  - "On the night of 6/7 September French reserve units fell back without orders from Sainte-Geneviève, but the Germans failed to exploit it. Accounts of whether Castelnau was ready to give up Nancy conflict."
+  - "From 8 September Moltke took troops from Rupprecht for the threatened right wing, and from 10 September the Germans began to withdraw. The dates given for the end of the battle vary from 11 to 13 September."
+  - "Nancy remained in French hands throughout the war. Holding the right wing let Joffre move troops to the Marne and tied down large German forces in Lorraine."
 ---
 
 On 4 September 1914 the Battle of the Grand Couronné, also called the Battle of Nancy, began in Lorraine. The German Sixth Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) attacked the chain of hills shielding [Nancy](https://pl.wikipedia.org/wiki/Nancy), the capital of French Lorraine, from the north-east. They were defended by the weakened Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau). The battle was fought at the same time as the great Battle of the Marne and was to decide whether the Germans could break the French front from the east.

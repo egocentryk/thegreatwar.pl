@@ -2,7 +2,13 @@
 title: Start of the battle of the Beaurevoir Line
 summary: On 3 October 1918 the British and Australians broke the Beaurevoir Line, the Hindenburg Line's last position. Montbrehain fell, but the Germans retook it.
 source: poczatek-bitwy-o-linie-beaurevoir
-sourceHash: 825fb036a0dc2596787547118b2eb3511890abae
+sourceHash: 78d1d96fb9deb57dd09f2350b90111fb385c4343
+brief:
+  - "At 6.05 a.m. on 3 October 1918 General Henry Rawlinson's British Fourth Army struck the Beaurevoir Line, the last position of the Hindenburg Line, four days after breaking the main position on the St Quentin Canal."
+  - "The line consisted of two trenches with concrete machine-gun posts and dense wire. The British 46th and 32nd Divisions and the Australian 2nd Division attacked, while the Cavalry Corps was held in readiness."
+  - "By noon the line had been broken along its whole length: the 139th Brigade took Ramicourt and, by 11.30 a.m., Montbrehain with more than a thousand prisoners. The Australians forced their own way through the wire near Estrées."
+  - "The Germans threw everything they had to hand into a counter-attack and by 3 p.m. had recovered Montbrehain. The cavalry never went forward, and the heights with Montbrehain and Beaurevoir stayed in German hands."
+  - "By evening the Fourth Army held the line on a front of about 10 kilometres, a considerable though smaller success than expected. That night Max von Baden's new government asked the US President for an armistice."
 ---
 
 At 6.05 a.m. on 3 October 1918 the British Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson) struck the last position of the Hindenburg Line, the reserve line which the British called the Beaurevoir Line after the village of [Beaurevoir](https://pl.wikipedia.org/wiki/Beaurevoir). Four days earlier the Fourth Army had [broken the main position on the St Quentin Canal](/bitwy/bitwa-o-kanal-saint-quentin), and two days earlier the French had [entered Saint-Quentin](/francuzi-odbijaja-saint-quentin). Now the British 46th and 32nd Divisions and the Australian 2nd Division attacked on a front of a dozen or so kilometres from Sequehart to Beaurevoir. By noon the line had been broken along its whole length and the British had entered Montbrehain, but in the afternoon German counter-attacks took back part of their gains.

@@ -2,7 +2,13 @@
 title: Pétain becomes commander-in-chief
 summary: On 15 May 1917 the French government removed Nivelle. Pétain became commander-in-chief of the armies of the North and North-East, Foch chief of staff.
 source: petain-naczelnym-wodzem
-sourceHash: f49c8d66296eebc40c090bf82e383fbca2be2006
+sourceHash: b3f9386c8025860a2e6665c8f6a917166a2f5675
+brief:
+  - "On 15 May 1917 the French Council of Ministers removed General Robert Nivelle. General Philippe Pétain became commander-in-chief of the armies of the North and North-East, and General Ferdinand Foch chief of the general staff."
+  - "Nivelle's fate had been sealed once his offensive on the Aisne failed to bring a breakthrough. The government delayed his removal, and on 11 May Nivelle refused to resign of his own accord."
+  - "Pétain, the defender of Verdun, was known as a commander who did not send soldiers to their deaths needlessly. His directive of 19 May called a breakthrough impossible \"for the time being\" and announced attacks with limited objectives."
+  - "Pétain promised the soldiers regular leave, better food and billets. The mutinies, which had begun at the start of May, nevertheless spread widely only after his appointment."
+  - "Combining reform with the severity of the courts martial, Pétain had calmed the army by the summer. The burden of the fighting on the Western Front in 1917 passed to the British."
 ---
 
 On 15 May 1917 the French Council of Ministers removed General [Robert Nivelle](/postacie/robert-nivelle) from the post of commander-in-chief of the armies of the North and North-East, that is, of all French forces in France. By a decree of that day his place was taken by General [Philippe Pétain](/postacie/philippe-petain), for the past two weeks [chief of the general staff](/petain-szefem-sztabu-generalnego) and military adviser to the government. As chief of the general staff he was replaced by General [Ferdinand Foch](/postacie/ferdinand-foch). A month after the start of the offensive that was to decide the war at a single blow, the French army came under the command of a general known for sparing his soldiers' lives. The change came at the last moment, for [mutinies had already begun](/poczatek-buntow-w-armii-francuskiej) in the army.

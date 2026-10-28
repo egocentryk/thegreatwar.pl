@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Brytyjski Korpus Ekspedycyjny, Nowa Zelandia, Niemcy, czołgi]
 milestone: true
 draft: false
+brief:
+  - "1 października 1916 roku o 15.15 brytyjska 4 Armia generała Henry’ego Rawlinsona uderzyła nad Sommą na Eaucourt l’Abbaye i linię Flers, odcinek niemieckiej trzeciej pozycji."
+  - "Haig szykował wielkie natarcie na Le Transloy, a Rawlinson chciał najpierw wyrównać lewe skrzydło armii. Natarcie przeprowadziły wyczerpane dywizje III Korpusu i Dywizja Nowozelandzka."
+  - "Nowozelandczycy, poprzedzeni ścianą ognia z beczek z płonącą ropą, szybko zajęli swój cel. Dwa czołgi przeprowadziły Londyńczyków przez linię Flers, a potem ugrzęzły i spłonęły."
+  - "Podpułkownik Roland Bradford zebrał pod ogniem rozbite natarcie i około 21.30 zdobył okop Flers, za co dostał Krzyż Wiktorii. Do wieczora Brytyjczycy mieli prawie całą linię Flers."
+  - "Natarcie osiągnęło niemal wszystkie cele, ale 2 października zaczęło padać. Jesienne deszcze zmieniły bitwę o grzbiety Le Transloy w wyczerpujące zmagania w błocie."
 ---
 
 1 października 1916 roku, w pogodne jesienne popołudnie, brytyjska 4 Armia generała [Henry’ego Rawlinsona](/postacie/henry-rawlinson) rozpoczęła nową fazę [bitwy nad Sommą](/bitwy/bitwa-nad-somma). O 15.15 piechota III Korpusu i Dywizji Nowozelandzkiej wyszła z okopów, by zdobyć zabudowania dawnego opactwa Eaucourt l’Abbaye i odcinek niemieckiej trzeciej pozycji zwany linią Flers, ciągnący się aż pod wieś [Le Sars](https://pl.wikipedia.org/wiki/Le_Sars). Nowozelandczycy, poprzedzeni ścianą ognia z beczek z płonącą ropą, w krótkim czasie zajęli swój cel. Dwa czołgi przeprowadziły Londyńczyków przez linię niemieckich okopów i przez ruiny opactwa, a potem utknęły i spłonęły. Podpułkownik Roland Bradford, który pod ogniem zebrał rozbite natarcie i poprowadził je ponownie, zasłużył tego dnia na Krzyż Wiktorii. Do wieczora Brytyjczycy mieli prawie całą linię Flers. Był to dobry początek walk, które Brytyjczycy nazwali później bitwą o grzbiety Le Transloy. Nazajutrz jednak zaczęło padać i jesienne deszcze zmieniły ją w wyczerpujące zmagania w błocie.

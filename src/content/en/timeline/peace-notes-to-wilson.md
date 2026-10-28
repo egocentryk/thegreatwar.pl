@@ -2,7 +2,13 @@
 title: Peace notes to Wilson
 summary: On 4 October 1918 Germany and Austria-Hungary sent President Wilson notes asking for an armistice and peace talks on the basis of the Fourteen Points.
 source: noty-pokojowe-do-wilsona
-sourceHash: 158d48d12d3cd4907272f4567937f446a8ba5974
+sourceHash: 6d5e5bc7f6143f9e6fc529f175fe124b8015ffb4
+brief:
+  - "During the night of 3–4 October 1918 Chancellor Max von Baden, through Switzerland, and foreign minister István Burián, through Sweden, sent President Wilson notes asking for an armistice and talks based on the Fourteen Points."
+  - "The decision was taken by the Supreme Army Command: on 29 September at Spa Hindenburg and Ludendorff demanded an immediate approach to Wilson. Prince Max considered the haste a mistake, but gave way."
+  - "The German note was very short and asked for an immediate general armistice, while the longer Austro-Hungarian note asserted that the monarchy had waged \"always and solely a defensive war\"."
+  - "The notes took America's allies by surprise, and they feared Wilson would negotiate over their heads. The reply to Berlin came on 8 October: the President demanded clarifications and the evacuation of occupied territory."
+  - "The note of 4 October was meant to give the army a breathing space, but it opened an exchange of notes lasting the whole of October and became the first step towards the armistice of 11 November."
 ---
 
 During the night of 3–4 October 1918 the new Imperial Chancellor, Prince [Max von Baden](/postacie/max-von-baden), sent a note through [Switzerland](https://pl.wikipedia.org/wiki/Szwajcaria) to the President of the United States, [Woodrow Wilson](/postacie/woodrow-wilson). In it the German government asked him to restore peace, to inform all the belligerent states and invite them to negotiations, and above all to bring about "the immediate conclusion of a general armistice on land, on sea and in the air". A few hours later, also during the night of 4 October, the Austro-Hungarian foreign minister [István Burián](/postacie/istvan-burian) sent a similar note to Washington through Sweden. Both states accepted as the basis of peace the programme Wilson had announced in January as the [Fourteen Points](/czternascie-punktow-wilsona). After four years of war the Central Powers themselves had asked the enemy for a ceasefire.

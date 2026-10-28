@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin, Aleksander Kiereński]
 milestone: true
 draft: false
+brief:
+  - "7 listopada 1917 roku (25 października według kalendarza juliańskiego) bolszewicy przejęli władzę w Piotrogrodzie i obalili Rząd Tymczasowy. Stąd nazwa rewolucji październikowej."
+  - "Po upadku buntu Korniłowa bolszewicy zdobyli większość w radach, a rząd Kiereńskiego tracił resztki autorytetu. Włodzimierz Lenin nalegał na powstanie, a Lew Trocki kierował Komitetem Wojskowo-Rewolucyjnym."
+  - "Oddziały komitetu niemal bez walki zajęły mosty, dworce, telegraf i Bank Państwowy. Kiereński wyjechał szukać wojska na froncie, a ministrowie czekali w Pałacu Zimowym na pomoc, która nie nadeszła."
+  - "W nocy z 7 na 8 listopada Pałac Zimowy został zajęty, a ministrowie aresztowani. II Wszechrosyjski Zjazd Rad ogłosił przejęcie władzy i zapowiedział propozycję pokoju dla wszystkich narodów."
+  - "Przewrót był znacznie mniej krwawy niż rewolucja lutowa. Dla ententy oznaczał groźbę wycofania się Rosji z wojny, a dla Niemiec nadzieję na przerzucenie dywizji ze wschodu na zachód."
 ---
 
 7 listopada 1917 roku (25 października według kalendarza juliańskiego) [bolszewicy](https://pl.wikipedia.org/wiki/Bolszewicy) przejęli władzę w Piotrogrodzie. W nocy i w ciągu dnia oddziały [Komitetu Wojskowo-Rewolucyjnego](https://pl.wikipedia.org/wiki/Komitet_Wojskowo-Rewolucyjny) Rady Piotrogrodzkiej, czyli [czerwonogwardziści](https://pl.wikipedia.org/wiki/Czerwona_Gwardia_(Rosja)), żołnierze garnizonu i marynarze Floty Bałtyckiej, niemal bez walki zajęły mosty, dworce, telegraf, centralę telefoniczną, elektrownię i Bank Państwowy. O dziesiątej rano komitet ogłosił, że [Rząd Tymczasowy](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji) został obalony. Premier [Aleksander Kiereński](/postacie/aleksander-kierenski) wyjechał z miasta szukać wojska na froncie, a jego ministrowie, zamknięci w [Pałacu Zimowym](https://pl.wikipedia.org/wiki/Pałac_Zimowy), czekali na pomoc, która nie nadeszła. Około 2.10 w nocy z 7 na 8 listopada pałac został zajęty, a ministrowie aresztowani. W tym samym czasie w Smolnym obradował II Wszechrosyjski Zjazd Rad, któremu bolszewicy przekazali zdobytą władzę.

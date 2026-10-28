@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Francja, Niemcy, Joseph Joffre, Fernand de Langle de Cary]
 milestone: true
 draft: false
+brief:
+  - "20 grudnia 1914 roku francuska 4 Armia gen. Fernanda de Langle de Cary uderzyła na niemieckie pozycje w Szampanii, na wschód od Reims. Była to pierwsza wielka ofensywa aliantów przeciw umocnionym liniom okopów."
+  - "Gen. Joffre chciał wykorzystać przerzucanie niemieckich korpusów na wschód. Plan zakładał uderzenie z dwóch stron na występ frontu pod Noyon, by zagrozić kolejom zaopatrującym Niemców."
+  - "Pierwszego dnia XVII Korpus i I Korpus Kolonialny zdobyły kawałki niemieckich okopów, ale nigdzie nie przełamały frontu. Piechota utykała przed zasiekami pod ogniem karabinów maszynowych."
+  - "Walki ciągnęły się z przerwami do 17 marca 1915 roku. Francuzi posunęli się w najlepszym razie o 2–3 kilometry, tracąc ponad 90 tysięcy zabitych, rannych i zaginionych."
 ---
 
 20 grudnia 1914 roku francuska 4 Armia generała [Fernanda de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) rozpoczęła natarcie na niemieckie pozycje w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), na wschód od [Reims](https://pl.wikipedia.org/wiki/Reims). Brytyjska chronologia wojny notuje pod tą datą początek pierwszej bitwy w Szampanii. Była to pierwsza wielka ofensywa aliantów przeciw umocnionym liniom okopów, które od jesieni przecinały Francję od morza po Szwajcarię. Pierwszy dzień przyniósł Francuzom tylko niewielkie zdobycze, a walki ciągnęły się potem, z przerwami, do połowy marca 1915 roku.

@@ -15,6 +15,12 @@ result: Zwycięstwo Austro-Węgier. Czarnogórcy stracili Lovćen i całą cię�
 authors: [Łukasz Skowroń]
 tags: [Czarnogóra, Austro-Węgry, Mikołaj I Petrowić-Niegosz]
 milestone: true
+brief:
+  - "8–11 stycznia 1916 roku austro-węgierski XIX Korpus Ignaza Trollmanna zdobył masyw Lovćen nad Zatoką Kotorską, świętą górę Czarnogórców i naturalną twierdzę osłaniającą Cetynię."
+  - "Z Lovćenu czarnogórskie baterie mogły ostrzeliwać bazę floty w Kotorze, dlatego Conrad postanowił uderzyć na górę. Obrońcy, około 9 tysięcy ludzi, byli głodni, źle ubrani i mieli mało amunicji."
+  - "8 stycznia, po ostrzale z dział twierdzy i okrętów, piechota ruszyła na skaliste stoki, omijając przełęcz Krstac przez grzbiet Solar. O zmierzchu 10 stycznia Austriacy stanęli na szczycie."
+  - "Czarnogórscy żołnierze odmówili nocnego kontrataku, a 11 stycznia król Mikołaj zgodził się poprosić o rozejm. Obrońcy stracili całą ciężką artylerię, a większość oddziałów rozeszła się do domów."
+  - "Upadek Lovćenu przesądził o losie Czarnogóry: 13 stycznia Austriacy weszli bez walki do Cetyni, a kilkanaście dni później armia czarnogórska złożyła broń. Kotor stał się bezpieczną bazą okrętów podwodnych."
 ---
 
 Bitwa o Lovćen była najważniejszym starciem austro-węgierskiego [podboju Czarnogóry](/bitwy/podboj-czarnogory). Masyw [Lovćen](https://pl.wikipedia.org/wiki/Lovćen_(pasmo_górskie)), wznoszący się prawie dwa kilometry nad [Zatoką Kotorską](https://pl.wikipedia.org/wiki/Zatoka_Kotorska), był dla Czarnogórców świętą górą i naturalną twierdzą, która osłaniała stolicę kraju, [Cetynię](https://pl.wikipedia.org/wiki/Cetynia). Dla Austro-Węgier był zagrożeniem dla ich najdalej na południe wysuniętej bazy floty w [Kotorze](https://pl.wikipedia.org/wiki/Kotor). 8 stycznia 1916 roku XIX Korpus marszałka polnego porucznika Ignaza Trollmanna, po zmasowanym ostrzale z setek dział lądowych i z okrętów, zaczął wspinaczkę na skaliste stoki. Po trzech dniach walk w deszczu i śniegu obrona załamała się, wieczorem 10 stycznia Austriacy stanęli na szczycie, a 11 stycznia ich przednie oddziały doszły na skraj płaskowyżu, z którego było już tylko kilka kilometrów do Cetyni.

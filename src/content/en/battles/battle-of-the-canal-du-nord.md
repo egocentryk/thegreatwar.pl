@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: British and Canadian victory. The Canadian Corps forced the canal and took Bourlon Wood and the Marcoing Line, and the Third Army broke through the Hindenburg Line south-west of Cambrai. Neither the city itself nor the crossings of the Scheldt Canal north of it were taken.
 source: bitwa-o-kanal-du-nord
-sourceHash: 8b92061cbab26a43e16f9e2781c801f4ce99d87c
+sourceHash: ff083a5a7a8a298b3019ce93b2feb8797485f93f
+brief:
+  - "From 27 September to 1 October 1918 General Arthur Currie's Canadian Corps and the British Third Army fought for the Canal du Nord. It was one of the four great blows struck by the Allies along the Western Front."
+  - "North of the Arras–Cambrai road the Germans had flooded the ground by the canal, so Currie chose the dry stretch opposite Inchy-en-Artois. The whole corps was to pass through a bottleneck and then fan out."
+  - "At 5.20 a.m. on 27 September the Canadians crossed the dry bed on a front of only two and a half kilometres and that same day took Bourlon village and Bourlon Wood, for which the British had fought in vain in 1917."
+  - "Within two days the First and Third Armies tore a breach nearly 20 kilometres wide. The fighting before Cambrai then brought only small gains, but in five days the corps took more than 7,000 prisoners and 205 guns."
+  - "Together with the attack on the St Quentin Canal, the battle broke the Hindenburg Line and strengthened Currie's reputation as one of the ablest corps commanders. Cambrai itself fell on 9 October."
 ---
 
 The Battle of the Canal du Nord was one of the four great blows with which the Allies attacked the Germans along the whole Western Front at the end of September 1918. On 27 September at 5.20 a.m. the Canadian Corps of General [Arthur Currie](/postacie/arthur-currie), part of the British First Army, crossed the dry bed of the unfinished canal on a narrow front of only two and a half kilometres, and then fanned out to a width of almost nine kilometres. That same day the Canadians took the village of [Bourlon](https://pl.wikipedia.org/wiki/Bourlon) and Bourlon Wood, for which the British had fought in vain in the autumn of 1917, while on their right the Third Army of General [Julian Byng](/postacie/julian-byng) broke into the last positions of the Hindenburg Line west of the Scheldt Canal. Within two days the two armies had torn a breach in the German defences nearly 20 kilometres wide and nearly 10 kilometres deep. The following days of heavy fighting before [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), from 28 September to 1 October, brought only small gains of ground, but they tied down a dozen or so German divisions and prepared the capture of the city in October.

@@ -11,7 +11,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Max von Fabeck, Erich von Falkenhayn]
 result: German success without a breakthrough. The Germans took Messines, Wytschaete and the whole ridge, but the Allies held the front before Mount Kemmel.
 source: bitwa-pod-messines
-sourceHash: 72e6888d3439a3c2bb02216b5f52b08a1991e0a8
+sourceHash: 050d3bd395922b524f8c2bed6afd79b631f423c1
+brief:
+  - "The Battle of Messines, fought from 12 October to 2 November 1914 in Flanders, was one of the last stages of the Race to the Sea. It was fought mainly by the cavalry corps of General Edmund Allenby."
+  - "In mid-October the British cavalrymen pushed the German cavalry off the hills of French Flanders and occupied a low ridge between Messines and Wytschaete, south of Ypres."
+  - "For two weeks the cavalry, fighting dismounted like infantry, defended the ridge against an ever stronger enemy. Indian soldiers helped them, and on 31 October so did the London Scottish."
+  - "On 30 October the Fabeck group attacked, supported by more than 250 heavy guns. On 1 November the Germans took the ridge, and the British cavalry left Messines."
+  - "The cavalry gained time for the French to arrive, and the Germans did not break through to Mount Kemmel. From the lost ridge, however, they watched the British positions for two and a half years."
 ---
 
 The Battle of Messines, fought from 12 October to 2 November 1914, was one of the last stages of the [Race to the Sea](/bitwy/wyscig-do-morza) and part of the great fighting in Flanders that brought it to an end on the North Sea coast. Its main participant on the British side was the cavalry corps of General [Edmund Allenby](/postacie/edmund-allenby). In mid-October the cavalrymen pushed the German cavalry off the hills of French Flanders and occupied a low ridge between [Messines](https://pl.wikipedia.org/wiki/Mesen) and [Wytschaete](https://pl.wikipedia.org/wiki/Wijtschate), south of [Ypres](https://pl.wikipedia.org/wiki/Ieper). For the next two weeks, fighting dismounted like infantry, they defended it against an ever stronger enemy. At the turn of October and November, after heavy fighting in which Indian soldiers, the first volunteer battalion of the Territorial Force and the French also took part, the Germans took the ridge but failed to break through the front.

@@ -8,6 +8,11 @@ dayOrder: 3
 tags: [Imperium Osmańskie, Rumunia, wypowiedzenie wojny, Enver Pasza]
 milestone: true
 draft: false
+brief:
+  - "30 sierpnia 1916 roku amerykański chargé d'affaires w Konstantynopolu doniósł, że Turcja wspólnie z Niemcami i Bułgarią wypowiada wojnę Rumunii. Źródła podają też daty 29 sierpnia i 1 września."
+  - "Wołoszczyzna i Mołdawia przez kilkaset lat były księstwami lennymi Imperium Osmańskiego. W pierwszym roku wojny Rumunia zamknęła drogę przez swoje terytorium dla niemieckich transportów wojskowych do Turcji."
+  - "Enver Pasza z góry zobowiązał się do wspólnej wojny z Rumunią. Na front rumuński wysłał VI Korpus, który mimo opóźnień na bułgarskich kolejach wszedł do walki w Dobrudży pod koniec września."
+  - "Według Altaya Atlego w Rumunii walczyło około 39 tysięcy tureckich żołnierzy. Turecka deklaracja domknęła krąg: w ciągu kilku dni z Rumunią były w stanie wojny wszystkie cztery państwa centralne."
 ---
 
 30 sierpnia 1916 roku o szóstej po południu amerykański chargé d'affaires w [Konstantynopolu](https://pl.wikipedia.org/wiki/Stambuł), Hoffman Philip, wysłał do Waszyngtonu krótką depeszę. Donosił w niej, że osmańska Rada Ministrów poprzedniego dnia podjęła uchwałę, zatwierdzoną następnie dekretem sułtana, na mocy której [Turcja](https://pl.wikipedia.org/wiki/Imperium_Osmańskie), wspólnie z Niemcami i Bułgarią, wypowiada wojnę [Rumunii](https://pl.wikipedia.org/wiki/Królestwo_Rumunii). Na czele rządu stał wielki wezyr [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza), a dekret podpisał sułtan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V). Od [rumuńskiego wypowiedzenia wojny Austro-Węgrom](/rumunia-wypowiada-wojne-austro-wegrom) minęły trzy dni, a od [niemieckiej deklaracji](/niemcy-wypowiadaja-wojne-rumunii) dwa.

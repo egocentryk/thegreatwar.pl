@@ -9,6 +9,11 @@ dayOrder: 3
 tags: [wypowiedzenie wojny, Czarnogóra, Austro-Węgry, Mikołaj I Petrowić-Niegosz]
 milestone: true
 draft: false
+brief:
+  - "5 sierpnia 1914 roku, według ówczesnych kronik, Czarnogóra wypowiedziała wojnę Austro-Węgrom. Inne źródła podają 6 lub 7 sierpnia, ale wszystkie zgadzają się, że był to pierwszy sojusznik Serbii."
+  - "Króla Mikołaja I łączyły z Serbią wspólny język, wiara i więzy dynastyczne. Czarnogóra zarządziła mobilizację już 26 lipca, a szefem sztabu jej armii został serbski gen. Božidar Janković."
+  - "Mała i słabo uzbrojona armia miała jeden atut: działa na górze Lovćen mogły ostrzeliwać bazę austro-węgierskiej floty w Zatoce Kotorskiej. Jesienią 1914 roku Czarnogórcy z Serbami wkroczyli do Hercegowiny."
+  - "Czarnogóra walczyła do stycznia 1916 roku, gdy po upadku Serbii skapitulowała. W listopadzie 1918 roku zgromadzenie w Podgoricy zdetronizowało Mikołaja I i ogłosiło połączenie z Serbią."
 ---
 
 5 sierpnia 1914 roku [Królestwo Czarnogóry](https://pl.wikipedia.org/wiki/Królestwo_Czarnogóry) wypowiedziało wojnę [Austro-Węgrom](https://pl.wikipedia.org/wiki/Austro-Węgry). Taką datę podają ówczesne kroniki wojny. Inne źródła wskazują na 6 lub 7 sierpnia, co wynika między innymi z tego, że Czarnogóra posługiwała się wówczas kalendarzem juliańskim, a informacje z Cetynii docierały do Europy z opóźnieniem. Wszystkie źródła zgodnie potwierdzają jednak, że mała bałkańska monarchia przystąpiła do wojny w pierwszym tygodniu sierpnia, jako pierwszy sojusznik Serbii.

@@ -15,6 +15,12 @@ result: Zwycięstwo państw centralnych. W niespełna dwa tygodnie zajęły one 
 authors: [Natalia]
 tags: [Niemcy, Rosja, Austro-Węgry, Ukraina]
 milestone: true
+brief:
+  - "Operacja Faustschlag, trwająca od 18 lutego do 3 marca 1918 roku, była ostatnią wielką ofensywą na froncie wschodnim I wojny światowej."
+  - "Bolszewicy ogłosili w Brześciu koniec wojny, ale odmówili podpisania pokoju aneksyjnego. Niemcy wypowiedzieli więc rozejm, a Ludendorff żądał „krótkiego, ale silnego uderzenia”."
+  - "Rozpadająca się armia rosyjska prawie nie stawiała oporu. Niewielkie oddziały, przewożone koleją od stacji do stacji, zajęły Dźwińsk, Mińsk, Psków, Rewel, Żytomierz i Kijów."
+  - "Od końca lutego do ofensywy dołączyli Austro-Węgrzy. Na Ukrainie Niemcy występowali jako sprzymierzeńcy Centralnej Rady, a w kwietniu oba mocarstwa opanowały cały kraj."
+  - "Lenin przeforsował przyjęcie znacznie cięższych warunków i 3 marca Rosja podpisała traktat brzeski. Dla Niemiec było to zwycięstwo pozorne, bo na wschodzie zostały dziesiątki dywizji."
 ---
 
 Operacja Faustschlag („uderzenie pięścią”) była ostatnią wielką ofensywą na froncie wschodnim I wojny światowej. Po tym, jak bolszewicy w Brześciu ogłosili koniec wojny, ale odmówili podpisania pokoju, Niemcy wypowiedzieli rozejm i 18 lutego 1918 roku ruszyli na wschód. Rozpadająca się armia rosyjska prawie nie stawiała oporu. Niewielkie oddziały, przewożone koleją od stacji do stacji, w ciągu kilku dni zajęły miasta, o które w latach 1915–1917 toczono wielomiesięczne bitwy. Ofensywa zmusiła rząd [Włodzimierza Lenina](/postacie/wlodzimierz-lenin) do przyjęcia znacznie cięższych warunków niż te, które odrzucał w styczniu, i zakończyła się podpisaniem [traktatu brzeskiego](https://pl.wikipedia.org/wiki/Traktat_brzeski) 3 marca 1918 roku.

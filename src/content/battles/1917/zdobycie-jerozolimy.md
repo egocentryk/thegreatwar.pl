@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. 8 grudnia Brytyjczycy zdobyli tureckie umocnieni
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Wielka Brytania, Erich von Falkenhayn, David Lloyd George]
 milestone: true
+brief:
+  - "Zdobycie Jerozolimy, od 7 do 9 grudnia 1917 roku, zakończyło jesienną kampanię generała sir Edmunda Allenby'ego w Palestynie. Walki prowadził XX Korpus generała porucznika sir Philipa Chetwode'a."
+  - "Chetwode uznał, że miasta nie da się odciąć od północy, i postanowił uderzyć bliżej niego. Wojska dostały szczegółowe rozkazy o poszanowaniu świętych miejsc, a Lloyd George chciał Jerozolimy na Boże Narodzenie."
+  - "8 grudnia, w ulewnym deszczu, dwie dywizje zaskoczyły Turków w okopach na zachód od miasta, a od południa nadchodził oddział Motta. Natarcie zatrzymało się jednak przed przedmieściami."
+  - "W nocy obrońcy wpadli w popłoch i opuścili miasto. 9 grudnia rano burmistrz wyszedł z białą flagą i długo szukał kogoś, kto przyjmie kapitulację, aż formalnie przyjął ją generał major John Shea."
+  - "Święte Miasto przeszło w ręce brytyjskie bez walki na ulicach i bez uszkodzenia żadnego miejsca kultu, co skończyło czterysta lat rządów osmańskich. 11 grudnia Allenby wszedł do Jerozolimy pieszo."
 ---
 
 Zdobycie [Jerozolimy](https://pl.wikipedia.org/wiki/Jerozolima) zakończyło jesienną kampanię generała sir [Edmunda Allenby'ego](/postacie/edmund-allenby) w Palestynie. Po nieudanej próbie obejścia miasta od północy Brytyjczycy przenieśli wysiłek bliżej niego. 8 grudnia 1917 roku, w ulewnym deszczu, dwie dywizje XX Korpusu generała porucznika sir Philipa Chetwode'a zaskoczyły Turków w ich okopach na zachód od miasta, a trzecia nadchodziła od południa drogą z [Hebronu](https://pl.wikipedia.org/wiki/Hebron). Natarcie zatrzymało się jeszcze przed przedmieściami, ale w nocy obrońcy wpadli w popłoch i opuścili miasto. 9 grudnia rano burmistrz Jerozolimy wyszedł z białą flagą na spotkanie Brytyjczyków i długo szukał kogoś, kto przyjąłby od niego kapitulację. Święte Miasto trzech religii przeszło w ręce brytyjskie bez walki na jego ulicach i bez uszkodzenia żadnego miejsca kultu.

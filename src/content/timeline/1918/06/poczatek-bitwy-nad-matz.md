@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Erich Ludendorff, Philippe Pétain]
 milestone: true
 draft: false
+brief:
+  - "9 czerwca 1918 roku niemiecka 18 Armia gen. Oskara von Hutiera uderzyła na francuską 3 Armię gen. Humberta na froncie ponad 30 kilometrów między Montdidier a Noyon. Była to czwarta wielka ofensywa tej wiosny, „Gneisenau”."
+  - "Natarcie miało wyprostować front między występami znad Sommy i znad Aisne i otworzyć drogę na Compiègne. Tym razem przygotowania były jawne, a w nocy z 8 na 9 czerwca dezerter zdradził dzień i godzinę ataku."
+  - "Francuska artyleria uprzedziła Niemców ogniem o 23.50, ale niemiecki ostrzał trwał 3 godziny i 20 minut. Szturmowe grupy przeszły około południa przez główną linię oporu prawie na całej szerokości natarcia."
+  - "Do wieczora Niemcy przeszli w centrum około 10 kilometrów, przekroczyli rzekę Matz i wzięli ponad 8 tysięcy jeńców. Prawe skrzydło natarcia pod Montdidier zyskało niewiele."
+  - "Francuski front tym razem się nie rozsypał, a wojska cofały się w porządku. Fayolle gromadził odwody do kontrataku, który 11 czerwca poprowadził gen. Charles Mangin."
 ---
 
 9 czerwca 1918 roku niemiecka 18 Armia generała [Oskara von Hutiera](/postacie/oskar-von-hutier) uderzyła na francuską 3 Armię generała Georges'a Humberta na froncie ponad 30 kilometrów między [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)) a [Noyon](https://pl.wikipedia.org/wiki/Noyon). Natarcie o kryptonimie „Gneisenau”, czwarte z wielkich niemieckich ofensyw tej wiosny, miało wyprostować front między dwoma wielkimi występami, wbitymi w linie sprzymierzonych w marcu nad Sommą i pod koniec maja nad Aisne, i otworzyć drogę na [Compiègne](https://pl.wikipedia.org/wiki/Compiègne). Po raz pierwszy od marca Francuzi wiedzieli dokładnie, kiedy Niemcy uderzą, a mimo to pierwszy dzień przyniósł im kolejną porażkę. Do wieczora Niemcy przeszli w centrum około 10 kilometrów, przekroczyli rzekę Matz i wzięli ponad 8 tysięcy jeńców. Tym razem jednak francuski front się nie rozsypał.

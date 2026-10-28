@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Fritz von Below]
 result: Anglo-French victory. The Allies took the last villages on the ridge between Combles and Gueudecourt and broke through the third German position, but tired troops and slow French progress prevented them from exploiting the success.
 source: bitwa-pod-morval
-sourceHash: 7a9c54a1dbb8aa027420efb646c993c49343fc66
+sourceHash: c654eb189999cf55901de45457b285734757ee94
+brief:
+  - "On 25–28 September 1916 General Henry Rawlinson's British Fourth Army, together with the French Sixth Army, attacked Morval, Lesbœufs and Gueudecourt on the Somme, not taken at Flers-Courcelette."
+  - "The attack, postponed several times by torrential rain and French unreadiness, relied on a heavy bombardment and a creeping barrage rather than on tanks. The Germans held their less developed third position."
+  - "On 25 September the infantry of XIV Corps took Morval and Lesbœufs within three hours. At Gueudecourt the 21st Division's attack broke down on uncut wire in front of Gird Trench."
+  - "On 26 September the Germans abandoned Combles, which the British and French entered, and at Gueudecourt a tank, an aircraft, artillery and infantry took 362 men and eight officers for the loss of five men."
+  - "The official history judged it the most successful attack since 14 July, and the whole main ridge was in Allied hands. There was no breakthrough: fresh divisions were lacking and the French were held up before Sailly-Saillisel."
 ---
 
 The Battle of Morval was the third great attack of the British Fourth Army in September 1916, during the [Battle of the Somme](/bitwy/bitwa-nad-somma). Its objectives were three villages that had not been taken ten days earlier at the [Battle of Flers-Courcelette](/bitwy/bitwa-pod-flers-courcelette): [Morval](https://pl.wikipedia.org/wiki/Morval_(Pas-de-Calais)), [Lesbœufs](https://pl.wikipedia.org/wiki/Lesbœufs) and [Gueudecourt](https://pl.wikipedia.org/wiki/Gueudecourt). At noon on 25 September, the first anniversary of the [Battle of Loos](/bitwy/bitwa-pod-loos), the infantry of General [Henry Rawlinson](/postacie/henry-rawlinson) went into the attack together with the French Sixth Army, which advanced on its right. Within three hours the British had taken Morval and Lesbœufs, and the next day, after remarkable co-operation between a tank, an aircraft, artillery and infantry, Gueudecourt as well. That same night the Germans abandoned [Combles](https://pl.wikipedia.org/wiki/Combles), which the British and French entered from two sides. The British official history judged the attack of 25 September the most successful operation of the Fourth Army since the [dawn assault of 14 July](/bitwy/bitwa-o-grzbiet-bazentin). The success could not be exploited, however: there were no fresh divisions, the French advanced slowly, and the Germans managed to withdraw their artillery and build new lines of defence.

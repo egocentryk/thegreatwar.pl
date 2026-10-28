@@ -2,7 +2,13 @@
 title: Battle of Bailleul begins
 summary: On 13 April 1918 the Germans attacked the hills between Bailleul and Neuve-Église. The British gave up an exposed salient but held the Ravelsberg ridge.
 source: poczatek-bitwy-pod-bailleul
-sourceHash: 8dcb7821965cbed6557c3beff55e8ff7d655d982
+sourceHash: a3ed87653f88d1d9393c9002977e4ea43f79f1fa
+brief:
+  - "On 13 April 1918, the fifth day of the Battle of the Lys, the Germans attacked the low hills between Bailleul and Neuve-Église, held by General Alexander Hamilton-Gordon's British IX Corps."
+  - "Behind Bailleul rose the Flanders hills from Mont des Cats to Kemmelberg. Whoever took them commanded the plain as far as Ypres and threatened the rear of the troops in the Ypres salient."
+  - "In the morning the attack by the Bavarians and the Fourth Army's 214th Division broke down at the junction of the armies, as the staffs failed to co-operate and the 117th Division came under its neighbour's and British fire."
+  - "The heaviest fighting was for Neuve-Église. In the evening the Germans broke into the village and began to outflank the left wing of General Cecil Nicholson's brigades in the salient before Bailleul."
+  - "During the night the brigades fell back to a prepared line through the Ravelsberg to Crucifix Corner. An Alpine Corps officer recalled that his men gained only a few hundred metres that day."
 ---
 
 On 13 April 1918, the fifth day of the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918), the German offensive in Flanders struck with full force at the left wing of the British front, on the low hills between [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)) and Neuve-Église ([Nieuwkerke](https://pl.wikipedia.org/wiki/Nieuwkerke)). They were defended by General Alexander Hamilton-Gordon's IX Corps of General [Herbert Plumer](/postacie/herbert-plumer)'s Second Army, made up largely of brigades that had been fighting without a break since 9 April, and some of them since March on the Somme. Against them advanced six divisions of the II Bavarian Corps, including the fresh Alpine Corps, and several divisions of the German Fourth Army. All day the British repulsed attacks, but in the evening, when the Germans broke into Neuve-Église and began to outflank their left wing, they abandoned the exposed salient in front of Bailleul and fell back to the Ravelsberg ridge. So began the battle that the British Battles Nomenclature Committee later named the Battle of Bailleul.

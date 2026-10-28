@@ -2,7 +2,12 @@
 title: First airship raid on London
 summary: In the night of 31 May – 1 June 1915 the German airship LZ 38 bombed east London. Seven people were killed, including children, and 35 were injured.
 source: pierwszy-nalot-sterowca-na-londyn
-sourceHash: d3ce1a832d38e2c146e8a8c9b4408d16ad2ed171
+sourceHash: 9c4e12accda5b1c005b38b4be39acfbe46c85f62
+brief:
+  - "Late in the evening of 31 May 1915 the German army airship LZ 38, commanded by Captain Erich Linnarz, bombed the northern and eastern districts of London. It was the first air raid on the British capital."
+  - "Emperor Wilhelm II long refused to permit an attack on London, partly because of his relatives in the British royal family. At the beginning of May 1915 he allowed bombing, but only east of the Tower."
+  - "LZ 38 flew over Stoke Newington, Shoreditch, Whitechapel and Stepney. Seven people were killed, including three children, and 35 were injured, while London's defences proved powerless."
+  - "After the raid the government restricted newspapers to official communiqués. The raid opened a campaign of bombing against London that continued intermittently until 1918."
 ---
 
 Late in the evening of 31 May 1915 the German army [airship](https://pl.wikipedia.org/wiki/Sterowiec) [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), commanded by Captain Erich Linnarz, appeared over [London](https://pl.wikipedia.org/wiki/Londyn). Within a quarter of an hour or so it dropped more than a hundred high-explosive and incendiary bombs on the northern and eastern districts of the city. Seven people were killed, including three children, and 35 were injured. It was the first air raid on the capital of Great Britain, which until then had seemed beyond the reach of the war.

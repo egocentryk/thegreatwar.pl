@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: German victory. The British and Indians held on to no part of the German trenches, and in a single day lost more than 11,600 killed, wounded and missing.
 source: bitwa-o-grzbiet-aubers
-sourceHash: aeaec6ad51b4cfb97839871d06748c4e2f30860c
+sourceHash: 9ab4cb7a3666dd252718e659e4cc879afe55248a
+brief:
+  - "On 9 May 1915 General Douglas Haig's British First Army attacked Aubers Ridge to support the French offensive in Artois. The battle lasted one day."
+  - "Haig wanted to repeat the Neuve-Chapelle method: two attacking groups and a short, forty-minute bombardment. The Germans, however, had learned from March and strengthened their breastworks, wire and machine-gun posts."
+  - "In the south machine-gun fire stopped the infantry in front of uncut wire. At Fromelles a few units broke into the German lines, but in the early hours of 10 May the last survivors returned."
+  - "According to the British official history, the First Army lost 11,619 killed, wounded and missing on 9 May. German losses were many times smaller, and that evening the Germans could still move reserves against the French."
+  - "The defeat exposed the lack of high-explosive shells. The Times's report on the shortage triggered the Shell Crisis, which led to a coalition government and the Ministry of Munitions headed by David Lloyd George."
 ---
 
 The Battle of [Aubers](https://pl.wikipedia.org/wiki/Aubers) Ridge was a British attack which on 9 May 1915 was meant to support the great French offensive in [Artois](https://pl.wikipedia.org/wiki/Artois) known as the [Second Battle of Artois](/bitwy/druga-bitwa-w-artois). General [Douglas Haig's](/postacie/douglas-haig) First Army attacked with two groups on the flat plain west of the low Aubers Ridge, roughly where it had fought two months earlier [at Neuve-Chapelle](/bitwy/bitwa-pod-neuve-chapelle). This time the Germans were ready. After a forty-minute bombardment that barely damaged their defences, machine-gun fire stopped the attackers in no man's land. In the north a few units broke into the German lines, but had to withdraw by the following morning. The battle lasted one day and cost the British and Indians more than 11,000 men. It exposed the lack of high-explosive shells, which soon became a political issue in Britain.

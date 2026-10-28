@@ -2,7 +2,13 @@
 title: Act of 5 November
 summary: On 5 November 1916 a manifesto of the German and Austrian emperors was proclaimed in Warsaw and Lublin, promising a Kingdom of Poland without a king or borders.
 source: akt-5-listopada
-sourceHash: 3c4076d0272d936bb0405c80fd5dfe003f5a4f46
+sourceHash: ac9edf8b424bf76398a7465548637102dc12cdad
+brief:
+  - "On 5 November 1916 in Warsaw and Lublin the Governors-General Beseler and Kuk proclaimed a manifesto of the two emperors creating a Kingdom of Poland from lands taken from Russia."
+  - "The new state was called self-governing (samodzielne), not sovereign. It had no king, no government, no constitution and no fixed borders, and power remained with the two governors-general."
+  - "After the heavy losses of 1916 Ludendorff demanded a Polish state dependent on Germany, which could give the Central Powers Polish recruits. Austria-Hungary had to give way."
+  - "As early as 9 November Beseler and Kuk called on the Poles to volunteer, before any Polish government existed. This caused indignation, and Piłsudski warned that an army without a government made no sense."
+  - "The act itself gave little, but the Polish question became an international issue. The Regency Council that grew out of it handed power to Piłsudski in November 1918."
 ---
 
 On Sunday 5 November 1916, at noon precisely, the Governor-General of Warsaw, [Hans Hartwig von Beseler](/postacie/hans-von-beseler), mounted a dais in the Great Hall of the [Royal Castle in Warsaw](https://pl.wikipedia.org/wiki/Zamek_Królewski_w_Warszawie) and, in the name of Emperor [Wilhelm II](/postacie/wilhelm-ii), read out in German the manifesto of the two monarchs. At the same time in [Lublin](https://pl.wikipedia.org/wiki/Lublin) the Austro-Hungarian Governor-General [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk) proclaimed the same text in the name of Emperor [Franz Joseph I](/postacie/franciszek-jozef-i). Germany and Austria-Hungary announced that from the lands of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), taken from Russia by their armies, they would create "an independent state with a hereditary monarchy and a constitutional system". For the first time since the partitions, great powers had officially promised the Poles a state of their own. The document went down in history as the Act of 5 November.

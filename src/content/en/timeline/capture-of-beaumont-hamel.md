@@ -2,7 +2,13 @@
 title: Capture of Beaumont-Hamel
 summary: On 13 November 1916, in fog, Scots of the 51st Division took Beaumont-Hamel, where the Newfoundlanders had bled on 1 July. At Serre the attack failed again.
 source: zdobycie-beaumont-hamel
-sourceHash: 7ae8417cc4ccfc988851232ade42832cee5f8dff
+sourceHash: b66931297df24ea4ec588d1627e92bbbda0ae069
+brief:
+  - "On 13 November 1916 at 5.45 a.m., in thick fog, General Hubert Gough's British Fifth Army attacked on both banks of the Ancre. So began the Battle of the Ancre, the last act of the Battle of the Somme."
+  - "The main objective was Beaumont-Hamel, fortified with deep chalk dugouts. On 1 July the attack had broken down there under machine-gun fire, and the Newfoundland battalion lost 710 men in roughly half an hour."
+  - "This time a new mine on Hawthorn Ridge went up exactly at the moment of the assault. By evening the Scots of the 51st (Highland) Division held the village ruins and Y Ravine, and Freyberg had reached Beaucourt."
+  - "South of the river the British quickly took Saint-Pierre-Divion, but at Serre the 3rd Division stuck fast in mud and uncut wire. At 4.30 p.m. command called off further attacks on Serre."
+  - "The capture of the village did not change the course of the battle, which soon ended, but it carried symbolic weight. Ludendorff called the day \"a particularly heavy blow\"."
 ---
 
 On 13 November 1916, at 5.45 a.m., in thick fog, the British Fifth Army of General [Hubert Gough](/postacie/hubert-gough) attacked on both banks of the river [Ancre](https://pl.wikipedia.org/wiki/Ancre). So began the Battle of the Ancre, the last act of the [Battle of the Somme](/bitwy/bitwa-nad-somma). The main objective was [Beaumont-Hamel](https://pl.wikipedia.org/wiki/Beaumont-Hamel), a village in a valley north of the river, which the British had fought for in vain on the [first day of the battle](/pierwszy-dzien-bitwy-nad-somma), 1 July. This time the attack largely succeeded. By evening the Scots of the 51st (Highland) Division held the ruins of the village and the ravine in which its defenders had sheltered for four months. On the flank the 63rd (Royal Naval) Division broke through along the river as far as Beaucourt, and on the other bank the British took the village of Saint-Pierre-Divion in under two hours. Only in the north, at Serre, did the attack again founder in the mud, just as it had four months earlier.

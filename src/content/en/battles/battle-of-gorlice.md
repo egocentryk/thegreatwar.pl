@@ -11,7 +11,13 @@ sides:
     commanders: [Nikolai Ivanov, Radko Dimitriev]
 result: Victory for Germany and Austria-Hungary. The front of the Russian Third Army was broken, and the Russians had to fall back from Western Galicia and the Carpathians.
 source: bitwa-pod-gorlicami
-sourceHash: 94522c3cb1e86c3b5ae0d954aca7741fe79dd30d
+sourceHash: 6dc662fe38783ef713ef8ebcf50ca85c53cf2366
+brief:
+  - "On 2 May 1915 General August von Mackensen's German Eleventh Army, supported by Austro-Hungarian armies, struck the Russian Third Army at Gorlice. It was the greatest Central Powers victory in the east in 1915."
+  - "Austria-Hungary had bled itself white in the Carpathians in the winter, so Falkenhayn decided the ally had to be helped. Divisions from the Western Front formed the Eleventh Army, under the command of a German general."
+  - "On a narrow sector Mackensen had an enormous superiority in artillery, while the Russians had shallow trenches and very few shells. After a four-hour bombardment the Russian first line was broken along the whole sector of the attack."
+  - "A Russian counter-attack at Cieklin on 4 May collapsed, and on the evening of 5 May General Radko Dimitriev ordered the whole Third Army to retreat behind the Wisłoka. The Russians lost tens of thousands of prisoners."
+  - "The breakthrough opened the way to a pursuit: in June the Central Powers recovered Przemyśl and Lemberg, and in the summer the Russians abandoned the Kingdom of Poland. Poles fought on both sides of the front."
 ---
 
 The Battle of [Gorlice](https://pl.wikipedia.org/wiki/Gorlice) was the greatest victory of the Central Powers on the Eastern Front in 1915 and one of the few cases in the whole war in which an attack broke through a stabilised front of trenches and grew into an operation reaching hundreds of kilometres. On 2 May 1915, after several hours of bombardment by more than a thousand guns and mortars, the new German Eleventh Army of General [August von Mackensen](/postacie/august-von-mackensen), supported by Austro-Hungarian armies, struck the positions of the Russian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Imperium_Rosyjskie)) between Ciężkowice and Gorlice. Within four days the Russian defence collapsed throughout its depth, and on the evening of 5 May the commander of the Third Army ordered a retreat. The fighting took place on land that today lies in Lesser Poland and Subcarpathia, and there were Poles on both sides of the front.

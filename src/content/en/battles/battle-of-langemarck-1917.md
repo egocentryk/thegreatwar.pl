@@ -11,7 +11,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: Inconclusive. In the north the Allies took Langemarck and advanced one to one and a half kilometres, but in the centre and on the Gheluvelt plateau German counter-attacks drove the British back to their start lines.
 source: bitwa-pod-langemarck-1917
-sourceHash: 231f69470f64182f1e6b70bf20767dbba53c364d
+sourceHash: 46333e37f2d743907b17182c0acdf8aa0cc9d5a7
+brief:
+  - "The Battle of Langemarck, fought on 16–18 August 1917, was the second great attack of the Third Battle of Ypres. Eight divisions of General Hubert Gough's Fifth Army and the French I Corps attacked."
+  - "After two weeks of rain Gough again attacked along his whole front, and his artillery had failed to suppress the German batteries on the Gheluvelt plateau. The Irish divisions were exhausted and depleted."
+  - "In the north the attack succeeded: the British 20th and 29th Divisions took the ruins of Langemarck, and the French, wading across flooded meadows, captured the strongly fortified Drie Grachten bridgehead."
+  - "At Frezenberg the 16th (Irish) and 36th (Ulster) Divisions bled to death in front of concrete shelters, and on the Gheluvelt plateau German counter-attacks drove the British back almost to their start lines."
+  - "The battle deepened the crisis of confidence in Gough. On 25 August Haig handed the main task, the capture of the Gheluvelt plateau, to General Herbert Plumer's Second Army."
 ---
 
 The Battle of Langemarck was the second great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres). At 4.45 a.m. on 16 August 1917, after two weeks of rain and several postponements, eight divisions of General [Hubert Gough's](/postacie/hubert-gough) British Fifth Army and the French I Corps attacked the German Fourth Army on a front running from the [Ypres](https://pl.wikipedia.org/wiki/Ieper)–Menin road to the floods along the IJzer. On the northern flank the attack succeeded: the British 20th and 29th Divisions took the ruins of the village of [Langemarck](https://pl.wikipedia.org/wiki/Langemark), and the French, wading across flooded meadows, captured the strongly fortified Drie Grachten bridgehead. In the centre and the south it was a different story. Two Irish divisions, the 16th (Irish) and the 36th (Ulster), bled to death in front of concrete shelters near Frezenberg, and on the Gheluvelt plateau the Londoners of the 56th Division and the men of the 8th Division, who in the morning had pushed through Glencorse Wood and reached the Hanebeek stream, were driven back almost to their start lines by evening. The battle deepened the crisis of confidence in Gough and led Field Marshal [Douglas Haig](/postacie/douglas-haig) to hand the leading role in the offensive to General Plumer.

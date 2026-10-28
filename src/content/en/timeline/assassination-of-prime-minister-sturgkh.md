@@ -2,7 +2,13 @@
 title: Assassination of Prime Minister Stürgkh
 summary: On 21 October 1916 in a Vienna restaurant the socialist Friedrich Adler shot Austrian Prime Minister Karl Stürgkh, who had ruled without parliament since 1914.
 source: zabojstwo-premiera-stuergkha
-sourceHash: 0d58b2d8d2e075e87d172163b4cf09a266721f9e
+sourceHash: 2beec0762ca9cf689a822438d857687b7e57a73e
+brief:
+  - "On 21 October 1916, in the restaurant of Vienna's Hotel Meissl & Schadn, the Social Democrat Friedrich Adler shot Count Karl Stürgkh, Prime Minister of the Austrian half of the monarchy."
+  - "From 16 March 1914 Stürgkh had ruled without parliament, by decree. From July 1914 civil rights were suspended and censorship introduced, and the Imperial Council did not meet once."
+  - "Adler, son of the socialist leader Victor Adler, opposed the war and his own party's line. He concluded that, with parliament closed and the press censored, there was no legal way left to protest."
+  - "In 1917 Adler was sentenced to death, but the sentence was commuted to 18 years' hard imprisonment, and in the autumn of 1918 Emperor Karl I amnestied him."
+  - "The killing did not directly change the course of the state, but it hastened the Austrian Social Democrats' turn towards peace slogans. The Imperial Council met again only on 30 May 1917."
 ---
 
 On Saturday 21 October 1916, in [Vienna](https://pl.wikipedia.org/wiki/Wiedeń), Count [Karl Stürgkh](https://pl.wikipedia.org/wiki/Karl_Stürgkh), Prime Minister of the Austrian half of the Habsburg Monarchy, was killed. At lunchtime, in the dining room of the Hotel Meissl & Schadn on the Neuer Markt in the Innere Stadt, he was shot by [Friedrich Adler](https://pl.wikipedia.org/wiki/Friedrich_Adler_(filozof)), a Social Democratic activist and the son of the leader of the Austrian socialists, [Victor Adler](https://pl.wikipedia.org/wiki/Victor_Adler). The assassin made no attempt to flee. He wanted his act to be read as a protest against the government without parliament that Stürgkh had conducted since the spring of 1914, and against the war.

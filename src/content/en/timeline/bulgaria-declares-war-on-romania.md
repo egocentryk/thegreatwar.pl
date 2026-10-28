@@ -2,7 +2,13 @@
 title: Bulgaria declares war on Romania
 summary: On 1 September 1916 Bulgaria declared war on Romania to regain the Dobruja lost in 1913. Tsar Ferdinand called for a fight against the "treacherous neighbour".
 source: bulgaria-wypowiada-wojne-rumunii
-sourceHash: 0a21707f2e683f10a51a2221823863198652f903
+sourceHash: 703545cee2b64d18006d393167747fb18606885c
+brief:
+  - "On 1 September 1916 Bulgaria declared war on Romania, and the Bulgarian Third Army went over to the attack on the Dobruja border. All four Central Powers were now at war with Romania."
+  - "Above all the Bulgarians wanted the southern Dobruja, which Romania had taken from them in 1913. Tsar Ferdinand I's manifesto called for the war to \"crush the treacherous neighbour\"."
+  - "The decision followed several days of hesitation: Prime Minister Vasil Radoslavov assured the Entente of neutrality, and the Romanians promised to cede the Dobruja. The breaking of relations on 30 August settled the matter."
+  - "The Romanians believed the Bulgarians would not dare attack the Dobruja while the Russians stood in it. Near Dobrich the Bulgarians fought Russian troops for the first time in their modern history and did not give way."
+  - "Romania now had to fight on two fronts. As early as 6 September the Bulgarians and Germans took the fortress of Tutrakan, and by January 1917 the Central Powers had occupied the whole of the Dobruja."
 ---
 
 On 1 September 1916, a Friday, before noon, [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) announced that it was at war with [Romania](https://pl.wikipedia.org/wiki/Królestwo_Rumunii). The Romanian historian Constantin Kirițescu wrote that in the morning an official of the Bulgarian foreign ministry came to the Romanian legation in [Sofia](https://pl.wikipedia.org/wiki/Sofia), already cut off from the world, and handed the minister a note declaring war. On the same day the manifesto of Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) appeared, and the Bulgarian Third Army went over to the attack on the border of the [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). In Bulgaria, which had adopted the [Gregorian calendar](https://pl.wikipedia.org/wiki/Kalendarz_gregoriański) in the spring of 1916, it was 1 September. In Romania, where time was still reckoned in the old style, the calendars showed 19 August.

@@ -2,7 +2,13 @@
 title: Battle of Gravenstafel Ridge begins
 summary: On the night of 22–23 April 1915 Canadians counter-attacked at Ypres to close the gas-attack gap. Of 1,500 men who charged the wood, under 500 were left.
 source: poczatek-bitwy-o-grzbiet-gravenstafel
-sourceHash: cd777fbc36e5b1bc4ce68641d518ed31bd85c4a5
+sourceHash: 9b4a74a84cceb8ec06f29d9dce2461f714bd6364
+brief:
+  - "The Battle of Gravenstafel Ridge was fought on 22–23 April 1915 at Ypres. After the German chlorine attack the French divisions north of the town broke and scattered."
+  - "The whole weight of the defence fell on General Edwin Alderson's 1st Canadian Division, whose left flank was suddenly exposed. Canadians and British battalions patched the gap without reconnaissance and almost without artillery."
+  - "A few minutes before midnight about 1,500 Canadians charged Kitcheners' Wood with the bayonet. They took the wood but at dawn fell back to its edge, and fewer than 500 men were left of the two battalions."
+  - "On 23 April Canadians and British attacked across open fields at Mauser Ridge. The attack broke down at about 7 p.m., and the official history judged that it had no chance of success."
+  - "By the evening of 23 April a continuous, if thin, line ran from Kitcheners' Wood to the canal. The Canadians had bought the time the Allies needed to bring up reinforcements."
 ---
 
 On the evening of 22 April 1915, when after the [German chlorine attack](/poczatek-drugiej-bitwy-pod-ypres) the French divisions north of Ypres broke and scattered, the whole weight of the defence fell on their neighbours, the soldiers of the [1st Canadian Division](https://pl.wikipedia.org/wiki/1_Dywizja_Kanadyjska). Through the night and the following day the Canadians and British battalions brought up in haste patched the gap in the front, counter-attacking without reconnaissance, without a plan and almost without artillery support. The British Battles Nomenclature Committee named this fighting the Battle of Gravenstafel Ridge and confined it to 22–23 April.

@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Friedrich Sixt von Armin]
 result: British victory. Within a few hours the attack took almost all its objectives to a depth of about 1–1.5 km, including Glencorse Wood, Nonne Bosschen and the edge of Polygon Wood. German counter-attacks collapsed under artillery fire.
 source: bitwa-o-grzbiet-menin-road
-sourceHash: 8d63003b842ed832c930c0f5267401c23722e748
+sourceHash: 9291ae63b5b6e3b4dc482c8663dbb088d7822f86
+brief:
+  - "The Battle of the Menin Road Ridge, fought on 20–25 September 1917, was the third great attack of the Third Battle of Ypres and the first to be led by General Herbert Plumer."
+  - "After the Fifth Army's failed August attacks on the Gheluvelt plateau, Haig gave the main task to Plumer's Second Army, and Plumer demanded three weeks to prepare. The pause misled the Germans."
+  - "Plumer applied bite and hold: shallow objectives in three bounds and the densest barrage yet, with the Second Army's 1,295 guns. By 10.15 a.m. on 20 September the Australians stood on the edge of Polygon Wood."
+  - "In the afternoon and evening artillery fire broke up the German counter-attack divisions before they reached the new line. A strong counter-attack on 25 September recovered only part of the ground."
+  - "The battle was the first real success of the Third Battle of Ypres, though the British official history gives 20,255 killed, wounded and missing. It opened a series of successes for Plumer."
 ---
 
 The Battle of the Menin Road Ridge was the third great attack of the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres) and the first to be led by General [Herbert Plumer](/postacie/herbert-plumer). On 20 September 1917 at 5.40 a.m., in mist after a night of rain, eleven divisions of the British Second and Fifth Armies, two of them Australian, advanced behind the densest barrage yet seen on the Western Front. The objective was the Gheluvelt plateau beside the road from [Ypres](https://pl.wikipedia.org/wiki/Ieper) to [Menin](https://pl.wikipedia.org/wiki/Menen), for which General [Hubert Gough](/postacie/hubert-gough)'s Fifth Army had fought in vain throughout August. This time the objectives were set shallow, no more than a kilometre and a half deep, and the attack was divided into three bounds with long pauses for digging in. By 10.15 a.m. the Australians had taken Glencorse Wood and Nonne Bosschen and stood on the edge of Polygon Wood, and in the afternoon and evening artillery fire broke up the approaching German counter-attack divisions before they could reach the new line. Over the following days the Germans tried in vain to recover the ground, and on 25 September they struck hard south of Polygon Wood, on the eve of the next British attack.

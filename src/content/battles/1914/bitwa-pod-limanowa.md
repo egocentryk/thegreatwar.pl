@@ -17,6 +17,12 @@ result: Zwycięstwo Austro-Węgier. Rosyjska 3 Armia cofnęła się za Dunajec, 
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Rosja, Galicja, Legiony Polskie]
 milestone: true
+brief:
+  - "Bitwa pod Limanową, nazywana też bitwą limanowsko-łapanowską, toczyła się od 1 do 12 grudnia 1914 roku na pogórzu i w górach na południowy wschód od Krakowa."
+  - "Rosyjska 3 Armia gen. Radko Dimitriewa weszła w lukę między armiami austro-węgierskimi i groziła obejściem twierdzy Kraków. Conrad postanowił uderzyć z gór w jej bok i tyły."
+  - "Grupa Josefa Rotha wyszła z doliny Raby, ale utknęła pod Łapanowem, a rosyjski VIII Korpus uderzył na jej skrzydło pod Limanową. Walki toczyły się w śniegu i mrozie o każde wzgórze."
+  - "Rozstrzygnięcie przyniosło nadejście z Karpat austro-węgierskiej 3 Armii, które zagroziło Rosjanom odcięciem. 12 grudnia opuścili oni Nowy Sącz i cofnęli się za Dunajec."
+  - "Bitwa zatrzymała rosyjski marsz na zachód i oddaliła groźbę odcięcia Krakowa. Front na Dunajcu i Białej przetrwał do maja 1915 roku i przełamania pod Gorlicami."
 ---
 
 [Bitwa pod Limanową](https://pl.wikipedia.org/wiki/Bitwa_pod_Limanową), nazywana też bitwą limanowsko-łapanowską lub operacją limanowską, rozegrała się w pierwszej połowie grudnia 1914 roku na pogórzu i w górach na południowy wschód od Krakowa. Armia austro-węgierska, która od sierpnia ponosiła na wschodzie klęskę za klęską, uderzyła z doliny Raby w bok i na tyły rosyjskiej 3 Armii, idącej na Kraków. Walki toczyły się w śniegu i mrozie, na stromych zboczach [Beskidu Wyspowego](https://pl.wikipedia.org/wiki/Beskid_Wyspowy) i [Pogórza Wiśnickiego](https://pl.wikipedia.org/wiki/Pogórze_Wiśnickie), w okolicach [Łapanowa](https://pl.wikipedia.org/wiki/Łapanów), [Limanowej](https://pl.wikipedia.org/wiki/Limanowa) i [Nowego Sącza](https://pl.wikipedia.org/wiki/Nowy_Sącz). Po dziesięciu dniach, gdy z Karpat nadeszła druga armia austro-węgierska, Rosjanie musieli się wycofać za Dunajec. Był to jeden z ostatnich dużych sukcesów, które armia Austro-Węgier odniosła niemal bez pomocy niemieckiej.

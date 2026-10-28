@@ -15,6 +15,12 @@ result: Zwycięstwo brytyjskie. 3 Armia przełamała główną niemiecką linię
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, czołgi]
 milestone: true
+brief:
+  - "Od 21 do 23 sierpnia 1918 roku brytyjska 3 Armia gen. Juliana Bynga i lewe skrzydło 4 Armii gen. Rawlinsona uderzyły między Ancre a Arras. Było to drugie wielkie uderzenie Brytyjczyków w ofensywie stu dni."
+  - "Gdy natarcie pod Amiens ugrzęzło na starych okopach z 1916 roku, Haig odmówił Fochowi dalszych ataków i przeniósł ofensywę na północ, gdzie teren był mniej zryty i lepszy dla czołgów."
+  - "21 sierpnia w gęstej mgle 3 Armia ruszyła bez przygotowania artyleryjskiego i doszła do kolei Albert–Arras, a 22 sierpnia 18 Dywizja obeszła i odbiła ruiny Albert, utracone w marcu."
+  - "23 sierpnia obie armie uderzyły na froncie ponad 50 km: 3 Armia wzięła w kleszcze niemiecką linię na kolei, a Australijczycy zdobyli Chuignes. W trzy dni do niewoli trafiło ponad 10 tysięcy Niemców."
+  - "Bitwa przeniosła ofensywę na szeroki front i zapoczątkowała ciąg natarć bez wytchnienia, przypominających wojnę manewrową. We wrześniu Niemcy cofnęli się na Linię Zygfryda."
 ---
 
 Bitwa pod Albert była drugim wielkim uderzeniem Brytyjczyków w [ofensywie stu dni](https://pl.wikipedia.org/wiki/Ofensywa_stu_dni), która zaczęła się 8 sierpnia 1918 roku [pod Amiens](/bitwy/bitwa-pod-amiens). Gdy natarcie 4 Armii na południe od Sommy ugrzęzło na starych okopach z 1916 roku, [Douglas Haig](/postacie/douglas-haig) przeniósł ciężar ofensywy na północ, na front 3 Armii generała [Juliana Bynga](/postacie/julian-byng), między rzeką [Ancre](https://pl.wikipedia.org/wiki/Ancre) a Arras. 21 sierpnia o świcie, w gęstej mgle, dwa korpusy Bynga z czołgami ruszyły bez przygotowania artyleryjskiego i doszły pod linię kolejową z [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) do Arras, na której Niemcy mieli główną linię oporu. 22 sierpnia lewe skrzydło 4 Armii generała [Henry’ego Rawlinsona](/postacie/henry-rawlinson) odbiło ruiny Albert, utracone w marcu, a 23 sierpnia obie armie uderzyły na froncie długości ponad 50 km, od Sommy po okolice Arras. Niemiecka linia na kolei padła, Australijczycy zdobyli Chuignes na południe od Sommy, a do niewoli trafiło w trzy dni ponad 10 tysięcy Niemców. Był to początek ciągłego natarcia, które w następnych tygodniach odepchnęło Niemców aż na Linię Zygfryda.

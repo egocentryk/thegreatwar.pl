@@ -15,6 +15,12 @@ result: Nierozstrzygnięta. Legioniści odbili wzgórza nad Łowczówkiem i utrz
 authors: [Natalia]
 tags: [Austro-Węgry, Rosja, Galicja, Legiony Polskie]
 milestone: true
+brief:
+  - "W dniach 22–25 grudnia 1914 roku I Brygada Legionów Polskich stoczyła na wzgórzach nad Białą, na południe od Tarnowa, najcięższy bój oddziałów Piłsudskiego w 1914 roku."
+  - "Rosjanie przerwali tu front austro-węgierski. Brygadę wezwano nagle z Nowego Sącza, a dowodził nią ppłk Kazimierz Sosnkowski, bo Piłsudskiego nie było wtedy przy wojsku."
+  - "22 i 23 grudnia legioniści odbili z marszu wzgórza 360 i 343. Odcięci od tyłów, bez jedzenia i z brakami amunicji, przez kolejne dni, także w Wigilię, odpierali rosyjskie kontrataki."
+  - "25 grudnia Rosjanie przełamali obronę na prawym skrzydle i brygada wycofała się. Najczęściej podaje się, że straciła 128 zabitych i 342 rannych, a wzięła około 600 jeńców."
+  - "Bój pokazał, że ochotnicze oddziały Piłsudskiego stały się pełnowartościowym wojskiem. Historycy zwracają jednak uwagę, że jego znaczenie dla przebiegu wojny bywa przeceniane."
 ---
 
 [Bitwa pod Łowczówkiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Łowczówkiem) to najcięższy bój, jaki oddziały [Józefa Piłsudskiego](/postacie/jozef-pilsudski) stoczyły w 1914 roku, i pierwszy, w którym walczyły jako [I Brygada Legionów Polskich](https://pl.wikipedia.org/wiki/I_Brygada_Legionów_Polskich). Rozegrała się w dniach 22–25 grudnia 1914 roku na zalesionych, pociętych wąwozami wzgórzach [Pogórza Rożnowskiego](https://pl.wikipedia.org/wiki/Pogórze_Rożnowskie), nad doliną [Białej](https://pl.wikipedia.org/wiki/Biała_(dopływ_Dunajca)), kilkanaście kilometrów na południe od [Tarnowa](https://pl.wikipedia.org/wiki/Tarnów). Brygada, wezwana nagle z kwater w [Nowym Sączu](https://pl.wikipedia.org/wiki/Nowy_Sącz), uderzyła z marszu na Rosjan, którzy przerwali tu front austro-węgierski, odbiła wzgórza nad [Łowczówkiem](https://pl.wikipedia.org/wiki/Łowczówek) i przez trzy dni, w deszczu ze śniegiem, bez jedzenia i z brakami amunicji, odpierała rosyjskie kontrataki. Walki trwały także w Wigilię i w pierwszy dzień Bożego Narodzenia. Piłsudskiego nie było wtedy przy wojsku. Brygadą dowodził jej szef sztabu, podpułkownik [Kazimierz Sosnkowski](https://pl.wikipedia.org/wiki/Kazimierz_Sosnkowski).

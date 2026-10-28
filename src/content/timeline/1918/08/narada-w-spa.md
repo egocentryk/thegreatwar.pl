@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Niemcy, Austro-Węgry, Erich Ludendorff, Wilhelm II]
 milestone: true
 draft: false
+brief:
+  - "14 sierpnia 1918 roku w Spa, siedzibie niemieckiej kwatery głównej, zebrała się pod przewodnictwem Wilhelma II rada koronna. Było to sześć dni po klęsce pod Amiens."
+  - "Dzień wcześniej Ludendorff przyznał w rozmowie z kanclerzem Hertlingiem i sekretarzem stanu Hintzem, że ofensywą nie da się już zmusić przeciwnika do pokoju, a wojnę trzeba będzie zakończyć drogą dyplomatyczną."
+  - "Hintze przedstawił ponure położenie zewnętrzne: Austro-Węgry wytrzymają najwyżej do zimy, a Bułgaria i Turcja sprawiają kłopoty. Przywódcy Rzeszy po raz pierwszy zapisali, że wojny nie da się wygrać militarnie."
+  - "Cesarz polecił szukać „stosownej chwili” na porozumienie z wrogiem za pośrednictwem neutralnych. Przybyły do Spa cesarz Karol I i minister Burián chcieli działać szybciej, ale Niemcy uznali to za przedwczesne."
+  - "W praktyce Niemcy czekali na kolejne sukcesy na zachodzie, które nie nadeszły. Półtora miesiąca później to Ludendorff zażądał natychmiastowej prośby o rozejm."
 ---
 
 14 sierpnia 1918 roku w [Spa](https://pl.wikipedia.org/wiki/Spa_(Belgia)), belgijskim uzdrowisku, w którym mieściła się niemiecka kwatera główna, zebrała się pod przewodnictwem cesarza [Wilhelma II](/postacie/wilhelm-ii) rada koronna. Sześć dni po klęsce pod [Amiens](/bitwy/bitwa-pod-amiens) przywódcy Rzeszy po raz pierwszy zapisali w podpisanym protokole, że wojny nie da się już wygrać środkami militarnymi i że trzeba przygotować się do porozumienia z wrogiem. Gdy w 1919 roku rząd niemiecki opublikował dokumenty o genezie rozejmu, właśnie od tej narady zaczynał całą historię starań o pokój. Zarazem jednak postanowiono z tym nie spieszyć i czekać na „stosowną chwilę”, która nigdy nie nadeszła.

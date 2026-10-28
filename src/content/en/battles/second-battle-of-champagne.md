@@ -9,7 +9,13 @@ sides:
     commanders: [Erich von Falkenhayn, Karl von Einem]
 result: Inconclusive. The French advanced 3–4 kilometres and took the Main de Massiges and Tahure, but did not break the German second position and suffered enormous losses.
 source: druga-bitwa-w-szampanii
-sourceHash: 46a53803795b5aebc85cf9e674447c74ae395759
+sourceHash: f558cedfac5c9d95d53985b40285fd17c0d59a93
+brief:
+  - "From 25 September to 6 November 1915 General Pétain's 2nd Army and General de Langle de Cary's 4th Army attacked in Champagne, east of Reims. It was the largest offensive of the French army in 1915."
+  - "Joffre wanted to exploit German weakness in the west, help Russia and return to a war of manoeuvre. On a front about 25–30 kilometres long, 20 divisions stood in the first line."
+  - "On the first day the French got through the German first line in several sectors and took about 14,000 prisoners. The second position, hidden on the reverse slopes, nevertheless withstood all attacks."
+  - "Colonel Fritz von Loßberg ordered the second position to be held, and the Germans brought up reserves. On 3 October Joffre abandoned the breakthrough, and the fighting continued only for individual hills."
+  - "The French advanced 3–4 kilometres, but the offensive cost them about 140,000–180,000 men. The lessons led the Germans to defence in depth, and Falkenhayn to the plan that led to the Battle of Verdun."
 ---
 
 The Second Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the largest offensive of the French army in 1915 and the main part of the Allies' autumn attack on the Western Front. On 25 September two armies of General [Noël de Castelnau](/postacie/noel-de-castelnau)'s army group, General [Philippe Pétain](/postacie/philippe-petain)'s 2nd Army and General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary)'s 4th Army, struck the German [3rd Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) east of [Reims](https://pl.wikipedia.org/wiki/Reims), on the same chalk hills where fighting had raged in winter and spring in the [First Battle of Champagne](/bitwy/pierwsza-bitwa-w-szampanii). This time the French threw far more divisions and artillery into the fight. On the first day they got through the German first line in several sectors and took well over ten thousand prisoners. The German second position, hidden on the reverse slopes, nevertheless withstood all attacks. The fighting, with pauses, went on until November and cost the French about 140,000–180,000 killed, wounded and missing.

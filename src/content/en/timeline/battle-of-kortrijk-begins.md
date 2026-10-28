@@ -2,7 +2,13 @@
 title: Battle of Kortrijk begins
 summary: On 14 October 1918 the Belgians, British and French attacked again in Flanders. They broke through the last German position and retook Roeselare.
 source: poczatek-bitwy-pod-kortrijk
-sourceHash: ae0ac1502d125652863cbaeeac15261ec41addc7
+sourceHash: 26a6f8145101307382c80558f03411f7e62fca6b
+brief:
+  - "At 5.35 a.m. on 14 October 1918 King Albert I's Flanders Army Group began its second great offensive in Flanders, from the river Lys at Comines to Diksmuide, against the Flandern II Stellung."
+  - "The first offensive, the Fifth Battle of Ypres, had bogged down in the mud of the old battlefield. For two weeks the Allies repaired roads and brought up artillery, while King Albert waited for fresh French divisions."
+  - "The attack went in without a preliminary bombardment, in fog. The British Second Army took the hills above Menen and cleared Ledegem, and Private Thomas Ricketts won the Victoria Cross as the army's youngest combat recipient."
+  - "In the centre of the front the French VII Corps surrounded and, according to the British chronology, retook Roeselare, while the Belgians reached Izegem and took Kortemark."
+  - "By evening the Allies had broken through almost the whole line and taken more than 6,000 prisoners. The breakthrough settled the German withdrawal from Lille, and soon the Belgians recovered Ostend, Bruges and Zeebrugge."
 ---
 
 At 5.35 a.m. on 14 October 1918 the Flanders Army Group of [Albert I](/postacie/albert-i), King of the Belgians, moved off on its second great offensive in Flanders, along the whole front from the river [Lys](https://pl.wikipedia.org/wiki/Leie) at Comines to Diksmuide. The Belgian Army, the British Second Army and two French corps attacked the Flandern II Stellung, the last prepared line of the German Fourth Army west of the Lys. By evening they had broken through it along almost its entire length, advanced several kilometres in places and taken more than 6,000 prisoners. The French surrounded and, according to the British chronology of the war, retook [Roeselare](https://pl.wikipedia.org/wiki/Roeselare), while the Belgians reached Izegem and took Kortemark. The British named the operation the Battle of Courtrai, after the French name of the town of [Kortrijk](https://pl.wikipedia.org/wiki/Kortrijk), which they reached a few days later. The French speak of the Battle of Roulers, that is, of Roeselare.

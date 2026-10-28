@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "27 maja 1918 roku o pierwszej w nocy niemiecka artyleria otworzyła ogień nad Aisne, między Reims a Soissons. Tak zaczęła się trzecia wielka ofensywa wiosny 1918 roku, pomyślana przez Ludendorffa jako dywersja."
+  - "Sektor uchodził za najspokojniejszy na froncie, dlatego wysłano tam na odpoczynek cztery wyczerpane dywizje brytyjskiego IX Korpusu. Francuską 6 Armią dowodził gen. Denis Duchêne."
+  - "Ostrzał zaplanowany przez Georga Bruchmüllera trwał dwie godziny i czterdzieści minut. O 3.40 ruszyła piechota: przeciw sześciu dywizjom sprzymierzonych w pierwszej linii szło siedemnaście niemieckich."
+  - "W ciągu kilku godzin Niemcy zdobyli cały grzbiet Chemin des Dames i przeszli Aisne po nieuszkodzonych mostach, bo rozkaz ich wysadzenia nie dotarł na czas. Wieczorem stanęli nad Vesle."
+  - "Był to jeden z największych sukcesów armii niemieckiej na zachodzie. W następnych dniach Niemcy doszli do Marny, a brytyjska historia oficjalna winą obarcza przede wszystkim Duchêne'a."
 ---
 
 27 maja 1918 roku, w poniedziałek, o pierwszej w nocy, w zupełnych ciemnościach, bo księżyca nie było, niemiecka artyleria otworzyła ogień na froncie nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), między Reims a Soissons. Tak zaczęła się trzecia wielka ofensywa wiosny 1918 roku, którą [Erich Ludendorff](/postacie/erich-ludendorff) pomyślał jako uderzenie odciągające francuskie odwody z Flandrii. Po dwóch godzinach i czterdziestu minutach najcięższego ostrzału tej wojny niemiecka piechota ruszyła na grzbiet Chemin des Dames, którego bronili Francuzi z 6 Armii generała Denisa Duchêne'a i cztery wyczerpane dywizje brytyjskiego IX Korpusu, przysłane tu na odpoczynek po bitwach marcowych i kwietniowych. W ciągu kilku godzin Niemcy zdobyli cały grzbiet, o który Francuzi walczyli przez cały 1917 rok, przeszli Aisne po nieuszkodzonych mostach, a wieczorem stanęli nad Vesle, około 20 kilometrów od swoich okopów wyjściowych. Był to jeden z największych sukcesów armii niemieckiej w całej wojnie na zachodzie. Godziny podajemy za brytyjską historią oficjalną, w czasie sprzymierzonych, o godzinę wcześniejszym od niemieckiego.

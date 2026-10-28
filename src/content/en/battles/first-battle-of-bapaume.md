@@ -9,7 +9,13 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below, Georg von der Marwitz]
 result: German victory. The Germans took Bapaume and pushed the right wing of the British Third Army back behind the Ancre, but did not destroy it or split the British armies. Their exhausted infantry, without its artillery, which was stuck in the wasteland, advanced ever more slowly.
 source: pierwsza-bitwa-pod-bapaume-1918
-sourceHash: c48dd41f51c14de9e67da968b7fd37bacc29d48f
+sourceHash: f70fc6c566df15cc16d229ae27fda87639f013af
+brief:
+  - "The First Battle of Bapaume was fought on 24–25 March 1918. It was the second stage of the German Operation Michael, after three days of the Battle of St Quentin."
+  - "Byng's British Third Army had held on to the Flesquières salient for too long and lost touch with the Fifth Army. On 24 March divisions of the German Second Army broke into the gap."
+  - "For two days British divisions retreated across the wasteland of the old Somme battlefield. The Germans took Bapaume, and on the night of 25 March the Third Army withdrew behind the Ancre."
+  - "The Germans did not, however, destroy the Third Army or split the British armies. Their exhausted infantry, without artillery that could not keep up across the wasteland, advanced ever more slowly."
+  - "On the night of 24–25 March Haig learned that the French might draw away to cover Paris. The crisis led to the Doullens conference, where Foch was given the task of coordination."
 ---
 
 The First Battle of Bapaume was the second stage of the German [Operation Michael](/bitwy/operacja-michael), the largest offensive of the war. After three days of the [Battle of St Quentin](/bitwy/bitwa-pod-saint-quentin-1918) the British Fifth Army had fallen back behind the Somme, and the Third Army of General [Julian Byng](/postacie/julian-byng), which had held on to the Flesquières salient for too long, had lost touch with it. On 24 March 1918, Palm Sunday, divisions of the German Second Army broke into the resulting gap. For two days British divisions retreated across the wasteland they themselves had won in 1916, through Combles, Flers, High Wood and [Pozières](https://pl.wikipedia.org/wiki/Pozières). The Germans took [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), the objective of the whole [Battle of the Somme](/bitwy/bitwa-nad-somma), and reached the river [Ancre](https://pl.wikipedia.org/wiki/Ancre). On the night of 24 March the British commander [Douglas Haig](/postacie/douglas-haig) also learned that the French might draw away from him to cover Paris. Two days later the crisis led to the Doullens conference.

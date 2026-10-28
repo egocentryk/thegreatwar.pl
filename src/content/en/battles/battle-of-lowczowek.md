@@ -9,7 +9,13 @@ sides:
     commanders: [Radko Dimitriev]
 result: Inconclusive. The legionnaires retook the hills above Łowczówek and held them for three days, but on 25 December, when the Russians broke the front beside them, they had to withdraw. The front between the Biała and the Dunajec held.
 source: bitwa-pod-lowczowkiem
-sourceHash: d880e9280761155235d362722fff9e6dc445cc6f
+sourceHash: bec0e2e84f0e38e942bdb7a39ed36c0c1e9bec4f
+brief:
+  - "On 22–25 December 1914 the First Brigade of the Polish Legions fought on the hills above the Biała, south of Tarnów, the hardest battle of Piłsudski's troops in 1914."
+  - "The Russian Third Army had broken the Austro-Hungarian front here. The brigade was summoned suddenly from Nowy Sącz and led by Lieutenant-Colonel Kazimierz Sosnkowski, as Piłsudski was away."
+  - "On 22 and 23 December the legionnaires retook Hills 360 and 343 on the march. Cut off from the rear, without food and short of ammunition, they beat off Russian counter-attacks, on Christmas Eve too."
+  - "On 25 December the Russians broke through on the right wing and the brigade withdrew. It is most often said to have lost 128 killed and 342 wounded, and it took about 600 prisoners."
+  - "The fight showed that Piłsudski's volunteer units had become a fully fledged army. Historians point out, however, that its significance for the course of the war is sometimes overrated."
 ---
 
 The [Battle of Łowczówek](https://pl.wikipedia.org/wiki/Bitwa_pod_Łowczówkiem) was the hardest fight that the troops of [Józef Piłsudski](/postacie/jozef-pilsudski) fought in 1914, and the first in which they fought as the [First Brigade of the Polish Legions](https://pl.wikipedia.org/wiki/I_Brygada_Legionów_Polskich). It took place on 22–25 December 1914 on the wooded, ravine-cut hills of the [Rożnów Foothills](https://pl.wikipedia.org/wiki/Pogórze_Rożnowskie), above the valley of the [Biała](https://pl.wikipedia.org/wiki/Biała_(dopływ_Dunajca)), a dozen or so kilometres south of [Tarnów](https://pl.wikipedia.org/wiki/Tarnów). The brigade, summoned suddenly from its quarters in [Nowy Sącz](https://pl.wikipedia.org/wiki/Nowy_Sącz), attacked on the march the Russians who had broken through the Austro-Hungarian front here, retook the hills above [Łowczówek](https://pl.wikipedia.org/wiki/Łowczówek) and for three days, in sleet, without food and short of ammunition, beat off Russian counter-attacks. The fighting went on on Christmas Eve and on Christmas Day too. Piłsudski was not with the troops at the time. The brigade was commanded by its chief of staff, Lieutenant-Colonel [Kazimierz Sosnkowski](https://pl.wikipedia.org/wiki/Kazimierz_Sosnkowski).

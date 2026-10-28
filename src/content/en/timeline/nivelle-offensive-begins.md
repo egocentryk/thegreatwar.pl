@@ -2,7 +2,13 @@
 title: Nivelle offensive begins
 summary: At 6 a.m. on 16 April 1917 the French attacked on the Chemin des Dames. Meant to break through in two days, by evening they were stuck below the ridge.
 source: poczatek-ofensywy-nivellea
-sourceHash: 0c39a68c7f5d4019ae1996216d2cb14c02d1ba7d
+sourceHash: 2381e3efac43ff52ce07e1959e123dafc2afed71
+brief:
+  - "At six in the morning on 16 April 1917 the French infantry attacked the Chemin des Dames ridge on a front of about 40 kilometres, from Laffaux near Soissons to Courcy near Reims."
+  - "General Robert Nivelle promised a breakthrough within 24, or at most 48, hours. Generals Micheler and Pétain were not sure of it, and the Germans had known about the offensive for weeks."
+  - "Machine guns hidden in concrete shelters and underground quarries stopped the French on the slopes. The Senegalese tirailleurs near Hurtebise fell back after a short fight."
+  - "Near Berry-au-Bac French tanks, Schneider CA1s, went into action for the first time. Commandant Louis Bossut was killed, and according to French tallies 57 tanks were destroyed."
+  - "By evening the French held in most places only the first line of German trenches, although they took more than 10,000 prisoners. The name Chemin des Dames became in France a symbol of senseless slaughter."
 ---
 
 At six in the morning on 16 April 1917, a cold and misty Monday, the French infantry went over the top on a front of about 40 kilometres, from Laffaux near [Soissons](https://pl.wikipedia.org/wiki/Soissons) to Courcy near [Reims](https://pl.wikipedia.org/wiki/Reims). The main blow of the [Nivelle offensive](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a), which France had been awaiting all winter, had begun. Two armies of General Alfred Micheler's Reserve Army Group, General [Charles Mangin](/postacie/charles-mangin)'s Sixth and General Olivier Mazel's Fifth, were to pass with one violent blow through the whole system of German fortifications on the Chemin des Dames ridge and on the plain along the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). The commander-in-chief, General [Robert Nivelle](/postacie/robert-nivelle), promised a breakthrough within 24, or at most 48, hours. In his order to the troops he wrote: "The hour has come! Confidence! Courage! Long live France!"

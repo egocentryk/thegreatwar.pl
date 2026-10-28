@@ -10,6 +10,12 @@ dayOrder: 6
 tags: [Niemcy, Francja, Helmuth von Moltke, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "9 września 1914 roku niemiecka 2 Armia gen. Karla von Bülowa, a kilka godzin później 1 Armia gen. Alexandra von Klucka zaczęły się wycofywać znad Marny. Tego dnia rozstrzygnęła się bitwa nad Marną."
+  - "Kluck przerzucał korpusy nad Ourcq przeciw 6 Armii Maunoury'ego, przez co między nim a Bülowem otworzyła się luka szerokości około 40–50 kilometrów. Wchodzili w nią Brytyjczycy i lewe skrzydło 5 Armii."
+  - "Moltke wysłał na front ppłk. Richarda Hentscha z ustnymi pełnomocnictwami. Bülow nakazał odwrót, gdy lotnicy donieśli o Brytyjczykach w luce, a w Mareuil Hentsch oświadczył gen. Kuhlowi, że 1 Armia musi się wycofać."
+  - "Do 12–13 września Niemcy cofnęli się nad Aisne, a 14 września Moltke został odsunięty od dowodzenia. Hentscha obwiniano o „oddanie” zwycięstwa, ale większość historyków uważa, że jedynie przypieczętował to, co było nieuniknione."
+  - "Odwrót oznaczał upadek planu Schlieffena: Paryż był uratowany, a Niemcy musieli szykować się do długiej wojny na dwóch frontach. Front zatrzymał się nad Aisne, a wojna zaczęła zmieniać się w okopową."
 ---
 
 9 września 1914 roku armie niemieckiego prawego skrzydła zaczęły się wycofywać znad [Marny](https://pl.wikipedia.org/wiki/Marna). Najpierw odwrót nakazał dowódca 2 Armii, generał [Karl von Bülow](/postacie/karl-von-bulow). Kilka godzin później, na polecenie wysłannika naczelnego dowództwa, podpułkownika Richarda Hentscha, cofać się zaczęła także 1 Armia generała [Alexandra von Klucka](/postacie/alexander-von-kluck). Tego dnia rozstrzygnęła się [bitwa nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), a wraz z nią los niemieckiego planu szybkiego pokonania Francji. Dla Francuzów był to „cud nad Marną”.

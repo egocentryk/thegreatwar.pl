@@ -2,7 +2,13 @@
 title: Battle of Hill 70 begins
 summary: At dawn on 15 August 1917 the Canadian Corps took Hill 70 above Lens and then broke a series of German counter-attacks with artillery fire.
 source: poczatek-bitwy-o-wzgorze-70
-sourceHash: 20ee5fe027249afe26022ab34b08285309e180b7
+sourceHash: 74cc2f9e19dd3e4bd48dbdf5920d68bc66544123
+brief:
+  - "At 4.25 a.m. on 15 August 1917 two divisions of the Canadian Corps attacked Hill 70 above Lens. It was the corps' first battle under a Canadian commander, General Arthur Currie."
+  - "The attack was meant to pin down the Germans while the Third Battle of Ypres went on in Flanders. Currie persuaded his superiors that instead of Lens they should take Hill 70, which dominated the town."
+  - "Within twenty minutes the Canadians stood on the crest, and before six in the morning they had taken almost all their objectives. They dug in machine guns at once, and artillery observers took up positions on the summit."
+  - "German counter-attacks perished under Canadian artillery fire, just as Currie had planned. According to the Canadian official history the day cost 1,056 killed and 2,432 wounded."
+  - "By 18 August, according to Currie, the Canadians had repulsed 21 German counter-attacks, including some with flamethrowers and mustard gas. The Germans never regained Hill 70."
 ---
 
 On 15 August 1917 at 4.25 a.m., as day was beginning to break, two divisions of the Canadian Corps went into the attack on Hill 70, a treeless chalk rise on the northern outskirts of the mining town of [Lens](https://pl.wikipedia.org/wiki/Lens) in northern France. Within twenty minutes they stood on its crest, and before six in the morning they had taken almost all their objectives. For the rest of the day the Germans counter-attacked again and again, but their waves of infantry perished under the fire of the Canadian artillery, directed by observers on the captured summit. It was the corps' first battle under a Canadian commander, General [Arthur Currie](/postacie/arthur-currie), and it went exactly as Currie had planned.

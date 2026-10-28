@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Belgia, Niemcy, Antwerpia, artyleria oblężnicza]
 milestone: true
 draft: false
+brief:
+  - "27 września 1914 roku wojska gen. Hansa von Beselera rozpoczęły oblężenie Antwerpii, ostatniej twierdzy Belgii i schronienia jej armii. Oblężenie trwało do 10 października."
+  - "Antwerpia była belgijską redutą narodową otoczoną dwoma pierścieniami fortów. Wypady armii polowej króla Alberta I zagrażały niemieckiej komunikacji, więc Erich von Falkenhayn postanowił zdobyć twierdzę."
+  - "W piechocie Niemcy nie mieli wyraźnej przewagi, ale ich atutem była artyleria: moździerze Kruppa kalibru 420 milimetrów i Škody kalibru 305 milimetrów, przerzucone po kapitulacji Maubeuge."
+  - "28 września zaczęło się bombardowanie fortów Walem i Sint-Katelijne-Waver na odcinku między Mechelen a Lier. W ciągu kilku dni kolejne forty zewnętrznego pierścienia zamieniły się w ruiny."
+  - "10 października Antwerpia skapitulowała, mimo przybycia Winstona Churchilla i brytyjskiej Dywizji Marynarki. Armia belgijska zdążyła jednak wycofać się za Yser, gdzie zatrzymała Niemców."
 ---
 
 27 września 1914 roku wojska niemieckie generała [Hansa von Beselera](/postacie/hans-von-beseler) rozpoczęły oblężenie [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia), ostatniej twierdzy Belgii i schronienia jej armii. Po zdobyciu [Liège](https://pl.wikipedia.org/wiki/Liège), Namuru i Maubeuge Niemcy zamierzali w ten sam sposób, ogniem najcięższej artylerii, rozbić fortyfikacje największego portu Belgii. Oblężenie trwało do 10 października i zakończyło się upadkiem miasta, ale armia belgijska zdołała się z niego wymknąć.

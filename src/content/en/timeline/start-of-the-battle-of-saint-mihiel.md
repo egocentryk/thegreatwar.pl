@@ -2,7 +2,13 @@
 title: Start of the Battle of Saint-Mihiel
 summary: On 12 September 1918 Pershing's American First Army attacked the German Saint-Mihiel salient. In the rain it got through the wire and advanced about 8 km.
 source: poczatek-bitwy-pod-saint-mihiel
-sourceHash: 84466bf536ef7e5ae05fc1b0892e24989f72f8d8
+sourceHash: 71771f198094af1e2f882af319729c469ab21577
+brief:
+  - "At 5 a.m. on 12 September 1918 General John Pershing's American First Army attacked the German Saint-Mihiel salient. For the first time a whole American army fought under its own commander-in-chief."
+  - "The Germans had held the salient since September 1914. After disputes with Marshal Foch it was agreed that the First Army would eliminate it but not push on to Metz, as it was soon to attack between the Meuse and the Argonne."
+  - "From 1 a.m. about 3,000 guns shelled the German positions. The tanks bogged down in the mud, so the infantry got through the wire themselves, cutting it, throwing netting over it and trampling across it."
+  - "Lieutenant Colonel George Patton commanded the tanks, and 1,481 aircraft under Colonel William \"Billy\" Mitchell operated over the battlefield, the largest concentration of air power yet assembled for a single operation."
+  - "By evening the Americans had taken a dozen or more villages and thousands of prisoners and advanced about 8 kilometres, while the Germans fell back to the Michel position. Gallwitz counted 12 September among his \"few black days\"."
 ---
 
 At 5 a.m. on 12 September 1918 the infantry of the American First Army attacked the German salient around [Saint-Mihiel](https://pl.wikipedia.org/wiki/Saint-Mihiel) on the Meuse, south-east of Verdun. For the first time in this war a whole American army fought under the orders of its own commander-in-chief, General [John Pershing](/postacie/john-pershing), and the French divisions taking part in it were subordinate to him. By evening the Americans had got through belts of wire thought impassable, taken a dozen or more villages, captured thousands of prisoners and advanced about 8 kilometres on the southern face of the salient. Times are given according to Pershing's final report and the 1938 guide of the American Battle Monuments Commission.

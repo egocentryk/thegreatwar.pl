@@ -9,7 +9,13 @@ sides:
     commanders: []
 result: Insurgent victory. By mid-January 1919 they held most of the province, and the armistice signed at Trier on 16 February barred the Germans from attacking the Poles and drew a demarcation line. The Treaty of Versailles gave Poland almost all of Greater Poland.
 source: powstanie-wielkopolskie
-sourceHash: a94c711bac22d9420586e83b0bf358e479ab1bfb
+sourceHash: 04ce209380f019dc1b3479ff1c529bef7e472da9
+brief:
+  - "The Greater Poland uprising broke out in Poznań on 27 December 1918, during Paderewski's visit, when a German procession tore down Polish and Allied flags and shots were fired outside the Bazar hotel."
+  - "The Poles of the Prussian Province of Posen had long resisted Germanisation. The Supreme People's Council counted on the peace conference, but conspirators had been stockpiling arms and preparing units for weeks."
+  - "Within days the insurgents took Poznań, and by mid-January 1919 most of the province. Command passed from Major Stanisław Taczak to General Józef Dowbor-Muśnicki, who built the Greater Poland Army."
+  - "The fighting with the German Grenzschutz was ended by the armistice of Trier on 16 February 1919, which barred the Germans from attacking the Poles and drew a demarcation line."
+  - "It was one of the few victorious Polish uprisings. The Treaty of Versailles gave Poland almost the whole Province of Posen, including towns the insurgents had not taken."
 ---
 
 The Greater Poland uprising broke out unexpectedly, during the visit of [Ignacy Jan Paderewski](/postacie/ignacy-jan-paderewski) to Poznań. On the afternoon of 27 December 1918 a German procession, soldiers among them, marched through the city centre tearing Polish and Allied flags from the houses. Shots were fired outside the [Bazar](https://pl.wikipedia.org/wiki/Hotel_Bazar_w_Poznaniu) hotel, where Paderewski was staying, and Polish volunteer and underground units, ready to fight for weeks, took almost all of [Poznań](https://pl.wikipedia.org/wiki/Poznań) within a few days. The fighting quickly spread across the whole province. By mid-January 1919 the insurgents held most of Prussian Greater Poland, and then fought off counter-attacks by the German Grenzschutz. The fighting was ended only by the armistice which the Allies extended to Germany at Trier on 16 February 1919. It was one of the few victorious Polish uprisings, and its gains were confirmed by the Treaty of Versailles in June 1919.

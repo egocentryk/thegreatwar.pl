@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Związek Południowej Afryki, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "15 lipca 1916 roku około szóstej rano trzy bataliony 1 Brygady Piechoty Południowoafrykańskiej generała brygady Henry'ego Lukina weszły do lasu Delville na wschodnim skraju wsi Longueval."
+  - "Las i wieś Longueval tworzyły występ wbity w niemieckie linie. Rozkaz brzmiał, że las trzeba zdobyć za wszelką cenę, nawet jeśli Szkoci nie opanują północnej części wsi."
+  - "Opór był zaskakująco słaby i po południu niemal cały las był w rękach brygady. Był to chrzest bojowy żołnierzy ze Związku Południowej Afryki na froncie zachodnim."
+  - "Niemcy od razu przeszli do kontrataków i zasypali las ogniem artylerii, w szczytowych chwilach do 400 pocisków na minutę. Żołnierze z trudem okopywali się wśród korzeni i zwalonych drzew."
+  - "Do 20 lipca z lasu wyszła tylko garstka ocalałych, a brygada straciła ponad 2,5 tysiąca ludzi. Niemców wyparto z lasu Delville dopiero na przełomie sierpnia i września."
 ---
 
 15 lipca 1916 roku około szóstej rano trzy bataliony 1 Brygady Piechoty Południowoafrykańskiej generała brygady Henry'ego Lukina weszły do lasu Delville, na wschodnim skraju wsi [Longueval](https://pl.wikipedia.org/wiki/Longueval) w Pikardii. Po kilku godzinach zajęły prawie cały las, a przed wieczorem odparły pierwsze niemieckie kontrataki. Był to chrzest bojowy żołnierzy ze [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) na froncie zachodnim i zarazem początek walk, które przez następne tygodnie miały się toczyć o ten niewielki zagajnik. Brytyjscy żołnierze nazwali go wkrótce Devil's Wood, Diabelskim Lasem.

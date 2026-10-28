@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Australia, Stany Zjednoczone, czołgi, lotnictwo]
 milestone: true
 draft: false
+brief:
+  - "4 lipca 1918 roku o 3.10 dziesięć batalionów Korpusu Australijskiego gen. Johna Monasha, cztery kompanie amerykańskiej 33 Dywizji i sześćdziesiąt czołgów Mark V ruszyło na Hamel nad Sommą, około 20 kilometrów od Amiens."
+  - "Dzień wcześniej gen. Pershing kazał wycofać amerykańskie kompanie, bo nie skończyły szkolenia. Sześć wycofano, ale marszałek Haig zdecydował, że atak ma się odbyć zgodnie z planem."
+  - "Nocne loty bombowców zagłuszały warkot czołgów, a celny wał ogniowy i zasłony dymne zaskoczyły Niemców. Najostrzejsza walka toczyła się pod Pear Trench, gdzie Krzyż Wiktorii zdobył szeregowy Henry Dalziel."
+  - "Około 4.45 cała wyznaczona linia była w rękach sprzymierzonych. Monash pisał, że „wszystko skończyło się w 93 minuty”, a czołgi i samoloty dostarczały na zdobytą linię amunicję i zaopatrzenie."
+  - "Australijczycy zajęli grzbiet za Hamel i wzięli łącznie ponad 1600 jeńców. Był to pierwszy wspólny atak Amerykanów z Australijczykami, a jego przebieg posłużył za wzór natarcia pod Amiens."
 ---
 
 4 lipca 1918 roku, w amerykańskie Święto Niepodległości, o 3.10 rano dziesięć batalionów Korpusu Australijskiego generała [Johna Monasha](/postacie/john-monash), cztery kompanie amerykańskiej 33 Dywizji i sześćdziesiąt brytyjskich czołgów [Mark V](https://pl.wikipedia.org/wiki/Mark_V) ruszyło za wałem ogniowym na niemieckie pozycje przy wsi [Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)) na południowym brzegu [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)), około 20 kilometrów na wschód od Amiens. Około 4.45 cała wyznaczona linia, od Sommy po rzymską drogę pod Villers-Bretonneux, była w rękach sprzymierzonych. Monash pisał później, że „wszystko skończyło się w 93 minuty” i że żadna bitwa, którą znał, „nawet Messines”, nie przebiegła tak gładko i tak dokładnie według rozkładu. Do wieczora do niewoli trafiło około 1500 Niemców. Według australijskiego historyka oficjalnego Charlesa Beana było to najbardziej udane natarcie sprzymierzonych od początku wielkiej ofensywy niemieckiej w marcu, a zarazem pierwszy raz, gdy żołnierze amerykańscy nacierali ramię w ramię z Australijczykami.

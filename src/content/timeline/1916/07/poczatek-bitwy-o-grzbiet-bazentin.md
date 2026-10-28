@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
 milestone: true
 draft: false
+brief:
+  - "14 lipca 1916 roku brytyjska 4 Armia przeprowadziła najbardziej udane natarcie od początku bitwy nad Sommą i przed południem zdobyła drugą pozycję niemiecką od Longueval po las Bazentin-le-Petit."
+  - "Generał Henry Rawlinson postawił na nocne podejście i atak o świcie. Douglas Haig długo się temu sprzeciwiał i ustąpił dopiero 12 lipca, a Francuzi ostrzegali, że niedoświadczone wojska nie podołają takiemu manewrowi."
+  - "Ponad 22 tysiące ludzi podeszło nocą na około 350–450 metrów od niemieckich okopów prawie bez strat. O 3.25, po zaledwie pięciu minutach huraganowego ognia, ruszyli do szturmu, a zaskoczenie było prawie zupełne."
+  - "Sukcesu nie wykorzystano w pełni: Niemcy utrzymali północną część Longueval i las Delville, a do pustego rano lasu High Wood Brytyjczycy weszli dopiero wieczorem, przy jednej z rzadkich szarż kawalerii."
+  - "Brytyjczycy wzięli do niewoli 42 oficerów i około 1400 żołnierzy, a cztery dywizje szturmowe straciły 9194 ludzi – dużo, ale niewiele wobec strat 1 lipca. High Wood miał kosztować jeszcze dwa miesiące walk."
 ---
 
 14 lipca 1916 roku, w dniu francuskiego [święta narodowego](https://pl.wikipedia.org/wiki/Święto_Narodowe_Francji), brytyjska 4 Armia przeprowadziła najbardziej udane natarcie od początku [bitwy nad Sommą](/bitwy/bitwa-nad-somma). Dwa tygodnie po [pierwszym dniu](/pierwszy-dzien-bitwy-nad-somma), w którym jej piechota szła w biały dzień, w równych falach, często na nieprzecięte zasieki i ocalałe karabiny maszynowe, generał [Henry Rawlinson](/postacie/henry-rawlinson) spróbował czegoś zupełnie innego. Cztery dywizje przeszły nocą przez ziemię niczyją, ustawiły się kilkaset metrów od niemieckich okopów i o 3.25, w szarym świetle przedświtu, po zaledwie pięciu minutach huraganowego ognia ruszyły do szturmu. Przed południem druga pozycja niemiecka na odcinku około 5,5 kilometra, od Longueval po las Bazentin-le-Petit, była w rękach brytyjskich. Wieczorem do ataku ruszyła kawaleria. Dzień zakończył się jednak także pierwszymi oznakami tego, że sukcesu nie uda się w pełni wykorzystać.

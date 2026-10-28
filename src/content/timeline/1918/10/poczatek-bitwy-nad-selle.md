@@ -10,6 +10,12 @@ dayOrder: 1
 tags: [Wielka Brytania, Stany Zjednoczone, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "17 października 1918 roku o 5.20 rano brytyjska 4 Armia gen. Henry'ego Rawlinsona uderzyła na niemiecką pozycję za rzeką Selle, na południe od Le Cateau. Nacierały trzy korpusy, w tym amerykański II."
+  - "Niemcy umocnili się za rzeką na pozycji Hermanna, która osłaniała węzeł kolejowy w Aulnoye. Brytyjczycy liczyli na wyczerpanych przeciwników, a trafili na dziewięć dywizji, w tym pięć świeżych."
+  - "W gęstej mgle żołnierze przechodzili rzekę po kładkach. Amerykańska 30 i 27 Dywizja utrzymały grzbiet nad doliną, a XIII Korpus toczył najcięższe walki pod dworcem i trójkątem torów pod Le Cateau."
+  - "Brygada Południowoafrykańska i bataliony 198 Brygady oczyściły miasto, a o szóstej wieczorem całe Le Cateau, oprócz małego przedmieścia, było w rękach brytyjskich."
+  - "4 Armia sforsowała Selle i wdarła się w pozycję Hermanna, a między 17 a 19 października wzięła ponad 5100 jeńców i 60 dział. Tego samego dnia Niemcy oddali bez walki Douai i opuścili Lille."
 ---
 
 17 października 1918 roku o 5.20 rano brytyjska 4 Armia generała [Henry'ego Rawlinsona](/postacie/henry-rawlinson) uderzyła na niemiecką pozycję za rzeką Selle, na południe od [Le Cateau](https://pl.wikipedia.org/wiki/Le_Cateau-Cambrésis). Trzy korpusy, brytyjski IX i XIII oraz amerykański II, przeprawiły się przez rzekę w gęstej mgle, wdarły się w nową niemiecką linię obrony, nazwaną pozycją Hermanna, i po całodziennych walkach stanęły na grzbiecie za doliną. Wieczorem w rękach brytyjskich było Le Cateau, miasteczko, pod którym w sierpniu 1914 roku Brytyjski Korpus Ekspedycyjny [przyjął bitwę](/bitwy/bitwa-pod-le-cateau) w czasie odwrotu spod Mons.

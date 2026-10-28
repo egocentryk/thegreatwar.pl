@@ -9,6 +9,12 @@ dayOrder: 2
 tags: [Rosja, Mikołaj II, Mikołaj Mikołajewicz, wielki odwrót 1915]
 milestone: true
 draft: false
+brief:
+  - "5 września 1915 roku car Mikołaj II przyjechał do Stawki pod Mohylewem i sam objął naczelne dowództwo armii rosyjskiej. Zastąpił wielkiego księcia Mikołaja Mikołajewicza."
+  - "Latem 1915 roku armia cofała się, a Rosja straciła Galicję, Królestwo Polskie i część Litwy. Car uważał, że jego miejsce jest przy wojsku; historycy wskazują też na wpływ cesarzowej i Rasputina."
+  - "Ośmiu ministrów, w tym Sazonow i Kriwoszein, w zbiorowym liście prosiło cara, by nie zmieniał naczelnego wodza. Ostrzegali, że decyzja grozi Rosji i dynastii ciężkimi skutkami."
+  - "Car nie miał doświadczenia w dowodzeniu, więc rzeczywiste kierowanie operacjami spoczęło na szefie sztabu, generale Michaile Aleksiejewie. Wielki książę został namiestnikiem Kaukazu."
+  - "Ostrzeżenia ministrów okazały się trafne: car odpowiadał odtąd osobiście za każdą klęskę i przebywał z dala od stolicy. W Piotrogrodzie rósł wpływ cesarzowej i Rasputina na obsadę urzędów."
 ---
 
 5 września 1915 roku (23 sierpnia według kalendarza juliańskiego) car [Mikołaj II](/postacie/mikolaj-ii) przyjechał do kwatery głównej, czyli Stawki, pod [Mohylewem](https://pl.wikipedia.org/wiki/Mohylew) i sam objął naczelne dowództwo armii rosyjskiej. Zastąpił wielkiego księcia [Mikołaja Mikołajewicza](/postacie/mikolaj-mikolajewicz), który [od początku wojny](/wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej) był naczelnym wodzem. Szefem sztabu nowego naczelnego wodza został generał [Michaił Aleksiejew](/postacie/michail-aleksiejew), dotychczasowy dowódca Frontu Zachodniego.

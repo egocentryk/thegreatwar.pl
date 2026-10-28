@@ -2,7 +2,12 @@
 title: Start of the Kilimanjaro offensive
 summary: On 5 March 1916 General Stewart's 1st Division set off south from Longido. It was to go round Kilimanjaro from the west and cut off the German retreat.
 source: poczatek-ofensywy-kilimandzarskiej
-sourceHash: 44272f8b35512b8fc668137edfa8cafb1db41c77
+sourceHash: 7122d98cf37ceec6ca93d78cfac3d9f5218a861a
+brief:
+  - "On 5 March 1916 General Stewart's 1st Division set off south from Longido mountain in British East Africa. This was the start of the offensive planned by the new commander-in-chief, Lieutenant-General Jan Smuts."
+  - "The division was to go round Kilimanjaro from the west and come out in the rear of the Germans holding the gap at Taveta, cutting off their retreat. That is why it set out two days before the eastern columns."
+  - "Smuts's main forces attacked from the east on the evening of 7 March. Coordinating the two movements in unmapped bush proved very difficult, and communication was possible only by wireless via Longido."
+  - "The 1st Division advanced slowly, in downpours and without news of the enemy. It reached Moshi only after the Germans had slipped away to the south."
 ---
 
 On the morning of 5 March 1916 Major-General James Marshall Stewart's 1st Division set off south from Longido mountain in [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), north-west of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro). This was the start of the offensive that the new commander-in-chief, Lieutenant-General [Jan Smuts](/postacie/jan-smuts), had [planned immediately after his arrival](/smuts-dowodca-w-afryce-wschodniej) in East Africa. The division had completed its concentration at Longido on 3 March. At this same place in November 1914 Stewart had [unsuccessfully attacked the Germans](/potyczka-pod-longido); now he was to push from the same direction deep into [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).

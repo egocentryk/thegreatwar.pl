@@ -15,6 +15,12 @@ result: Zwycięstwo taktyczne Kanadyjczyków. Korpus Kanadyjski zdobył wieś Pa
 authors: [Natalia]
 tags: [Kanada, Brytyjski Korpus Ekspedycyjny, Niemcy, Douglas Haig]
 milestone: true
+brief:
+  - "Druga bitwa pod Passchendaele, toczona od 26 października do 10 listopada 1917 roku, była ostatnim aktem trzeciej bitwy pod Ypres. Stoczył ją prawie w całości Korpus Kanadyjski generała Arthura Curriego."
+  - "Po krwawych niepowodzeniach 9 i 12 października Haig postanowił mimo to zdobyć wieś na grzbiecie, by armia przezimowała na wyższym terenie. Currie przewidywał, że będzie to kosztowało 16 tysięcy zabitych i rannych."
+  - "Currie wymógł czas na przygotowania: drogi z desek, wysuniętą artylerię i rozpoznanie. Kanadyjczycy nacierali czterokrotnie, 26 i 30 października oraz 6 i 10 listopada, za każdym razem przez bagna."
+  - "6 listopada, mniej niż trzy godziny po rozpoczęciu natarcia, ruiny Passchendaele były w rękach kanadyjskich, a 10 listopada Kanadyjczycy zajęli wzniesienia na północ od wsi."
+  - "Według kanadyjskiej historii oficjalnej korpus stracił we Flandrii 15 654 ludzi, niemal tyle, ile przewidział Currie. W Kanadzie Passchendaele stało się symbolem błota i daremnej ofiary."
 ---
 
 Druga bitwa pod Passchendaele była ostatnim aktem [trzeciej bitwy pod Ypres](/bitwy/trzecia-bitwa-pod-ypres). Po krwawych niepowodzeniach [pod Poelcappelle](/bitwy/bitwa-pod-poelcappelle) 9 października i [w pierwszej bitwie pod Passchendaele](/bitwy/pierwsza-bitwa-pod-passchendaele) 12 października feldmarszałek [Douglas Haig](/postacie/douglas-haig) postanowił jednak zdobyć wieś na grzbiecie, by jego armia mogła przezimować na wyższym, suchszym terenie. Zadanie powierzył czterem dywizjom Korpusu Kanadyjskiego generała [Arthura Curriego](/postacie/arthur-currie). Currie nie chciał tej bitwy i przewidywał, że będzie kosztowała 16 tysięcy zabitych i rannych. Wymógł jednak czas na przygotowania: drogi z desek, wysuniętą artylerię i dokładne rozpoznanie. Kanadyjczycy nacierali czterokrotnie, 26 i 30 października oraz 6 i 10 listopada, za każdym razem tylko na kilkaset metrów, przez bagna i obok betonowych schronów. 6 listopada wkroczyli do ruin [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), a 10 listopada zajęli resztę wzniesień na północ od wsi. Według kanadyjskiej historii oficjalnej korpus stracił we Flandrii 15 654 ludzi, niemal dokładnie tyle, ile przewidział Currie.

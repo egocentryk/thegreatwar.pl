@@ -15,6 +15,12 @@ result: Decydujące zwycięstwo brytyjskie. Piechota przełamała front nad morz
 authors: [Natalia]
 tags: [Wielka Brytania, Imperium Osmańskie, Indie Brytyjskie, Australia]
 milestone: true
+brief:
+  - "Bitwa pod Megiddo, toczona 19–25 września 1918 roku w północnej Palestynie, była ostatnią wielką bitwą kampanii palestyńskiej i jednym z najbardziej druzgocących zwycięstw całej wojny."
+  - "Generał Edmund Allenby zebrał w tajemnicy przytłaczającą przewagę na wąskim odcinku wybrzeża, a pozorowane obozy w dolinie Jordanu przekonały Limana von Sandersa, że Brytyjczycy uderzą na wschodnim skrzydle."
+  - "19 września o świcie piechota w ciągu kilku godzin przełamała turecki front na równinie Szaron, a przez wyłom pomknęły trzy dywizje jazdy. Następnego ranka stały w Dolinie Jezreel na drogach odwrotu Turków."
+  - "Tureckie 7 i 8 Armia, zamknięte w górach Samarii, rozsypały się pod uderzeniami z ziemi i z powietrza. Według Fallsa wieczorem 20 września Brytyjczycy mieli już około 25 tysięcy jeńców."
+  - "W ciągu sześciu dni Allenby zniszczył dwie z trzech tureckich armii w Palestynie. Bitwa otworzyła drogę na Damaszek i razem z rozbiciem Bułgarii przesądziła o losie Imperium Osmańskiego."
 ---
 
 Bitwa pod Megiddo była ostatnią wielką bitwą kampanii palestyńskiej i jednym z najbardziej druzgocących zwycięstw całej wojny. Generał [Edmund Allenby](/postacie/edmund-allenby), który przez lato przebudowywał swoją armię po oddaniu doświadczonych dywizji do Francji, zebrał w tajemnicy na wąskim odcinku wybrzeża przytłaczającą przewagę piechoty i artylerii. 19 września 1918 roku o świcie jego piechota w ciągu kilku godzin przełamała turecki front na [równinie Szaron](https://pl.wikipedia.org/wiki/Równina_Szaron), a przez wyłom pomknęły trzy dywizje jazdy. Następnego ranka stały już w [Dolinie Jezreel](https://pl.wikipedia.org/wiki/Dolina_Jezreel), kilkadziesiąt kilometrów za plecami przeciwnika, na drogach, którymi mógł się wycofać. Tureckie 7 i 8 Armia, zamknięte w górach Samarii, rozsypały się pod uderzeniami z ziemi i z powietrza, a 4 Armia za Jordanem musiała uciekać na północ. Brytyjski wywiad nie przeceniał przy tym przeciwnika: Turcy nie mieli już ani ludzi, ani zaopatrzenia, by powstrzymać tak zaplanowane uderzenie.

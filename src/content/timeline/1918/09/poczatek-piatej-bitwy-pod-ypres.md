@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Belgia, Wielka Brytania, Niemcy, Albert I]
 milestone: true
 draft: false
+brief:
+  - "28 września 1918 roku o 5.30 rano, w ulewnym deszczu, armia belgijska i brytyjska 2 Armia uderzyły spod Ypres. Dowodził nimi król Belgów Albert I na czele nowo utworzonej Grupy Armii Flandria."
+  - "Był to trzeci z wielkich ciosów marszałka Focha zadawanych dzień po dniu. Natarcie przygotowano w tajemnicy: Belgowie strzelali trzy godziny, a 2 Armia gen. Plumera uderzyła bez przygotowania."
+  - "Brytyjczycy zdobyli płaskowyż Gheluvelt, który odbił 4 Batalion Pułku Worcestershire, a dziewięć dywizji belgijskich wzięło Zonnebeke, ruiny Passchendaele i większą część lasu Houthulst."
+  - "Do wieczora sprzymierzeni odzyskali prawie cały teren, o który Brytyjczycy walczyli w 1917 roku, i posunęli się miejscami o 8–10 kilometrów, a niemiecka 4 Armia ustępowała niemal bez walki."
+  - "Wieści z Flandrii dotarły do Spa razem z doniesieniami o kryzysie w Bułgarii. Tego wieczoru gen. Erich Ludendorff doszedł do wniosku, że Niemcy muszą prosić o rozejm."
 ---
 
 28 września 1918 roku o 5.30 rano, w ulewnym deszczu, armia belgijska i brytyjska 2 Armia ruszyły do natarcia spod [Ypres](https://pl.wikipedia.org/wiki/Ieper). Dowodził nimi król Belgów [Albert I](/postacie/albert-i), na czele nowo utworzonej Grupy Armii Flandria. Do wieczora sprzymierzeni zdobyli grzbiet Passchendaele, płaskowyż Gheluvelt i las Houthulst, a więc prawie cały teren, o który Brytyjczycy walczyli od lipca do listopada 1917 roku, i posunęli się miejscami o 8–10 kilometrów. Niemiecka 4 Armia, która przez cztery lata broniła tych wzgórz z wielkim uporem, tego dnia ustępowała niemal bez walki. Był to trzeci z wielkich ciosów, które marszałek [Ferdinand Foch](/postacie/ferdinand-foch) zadawał Niemcom dzień po dniu: [26 września](/poczatek-ofensywy-moza-argonne) Amerykanie i Francuzi uderzyli między Mozą a Argonnami, [27 września](/poczatek-bitwy-o-kanal-du-nord) Brytyjczycy sforsowali Kanał du Nord, a teraz przyszła kolej na Flandrię.

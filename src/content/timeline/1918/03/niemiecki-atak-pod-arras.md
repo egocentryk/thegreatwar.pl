@@ -10,6 +10,11 @@ dayOrder: 3
 tags: [Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
 milestone: true
 draft: false
+brief:
+  - "28 marca 1918 roku niemiecka 17 Armia generała Ottona von Belowa uderzyła pod Arras, po obu stronach Scarpe, w operacji Mars. Miała przełamać brytyjską 3 Armię, której nie zdołała rozbić od 21 marca."
+  - "Brytyjczycy spodziewali się ataku i obsadzili pierwszą linię tylko placówkami, rozstawiając karabiny maszynowe w głąb. Tym razem, inaczej niż 21 marca, nie było mgły."
+  - "Na południe od Scarpe Niemcy zepchnęli dwie szkockie dywizje na tylną Zieloną Linię, a na północ od rzeki siedem dywizji uderzyło na 4 i 56 Dywizję, ale do wieczora wszystkie natarcia załamały się w ogniu."
+  - "Wieczorem Ludendorff odwołał operację Mars i natarcie Walküre. Główny wysiłek przeniósł na kierunek Amiens i kazał przygotować natarcie Georgette nad Lys, które ruszyło 9 kwietnia."
 ---
 
 28 marca 1918 roku, w Wielki Czwartek, niemiecka ofensywa wiosenna uderzyła w nowym miejscu. Przez pierwszy tydzień [operacji Michael](/bitwy/operacja-michael) wojska niemieckie posunęły się nad Sommą o kilkadziesiąt kilometrów, ale najdalej na południu, przeciw rozbitej brytyjskiej 5 Armii i nadciągającym Francuzom. Na północnym skrzydle 17 Armia generała [Ottona von Belowa](/postacie/otto-von-below) od 21 marca nie mogła przełamać brytyjskiej 3 Armii. Teraz miała to zrobić pod [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), po obu stronach rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), w operacji nazwanej Mars. Niemieccy żołnierze, jak pisze brytyjska historia oficjalna, szli do ataku przekonani, że wystarczy jeszcze jeden wysiłek, by przełamać front brytyjski. Wieczorem było jasne, że natarcie poniosło klęskę.

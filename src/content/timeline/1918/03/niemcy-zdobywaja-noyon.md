@@ -10,6 +10,12 @@ dayOrder: 2
 tags: [Francja, Niemcy, Brytyjski Korpus Ekspedycyjny, Philippe Pétain]
 milestone: true
 draft: false
+brief:
+  - "25 marca 1918 roku, piątego dnia operacji Michael, niemiecka 18 Armia generała Oskara von Hutiera zdobyła Noyon nad Oise, miasto, które do marca 1917 roku było najbliższym Paryża punktem niemieckiego frontu."
+  - "Naprzeciw Hutiera stali Francuzi dowożeni ciężarówkami dywizja po dywizji, w większości bez własnej artylerii, wymieszani z wyczerpanymi resztkami brytyjskiego III i XVIII Korpusu."
+  - "Rano Niemcy przełamali linię francuskich posiłków, a kluczowe wzgórze Porquéricourt zostało wskutek nieporozumienia bez obrońców. Około 22.00 Niemcy weszli do północnych dzielnic Noyon."
+  - "Tego samego dnia Francuzi stracili Nesle i linię Canal du Nord. Ich odwrót na południowy zachód coraz bardziej oddalał ich od Brytyjczyków, a między armiami ziała „ogromna luka”."
+  - "Kryzys na styku armii sprzymierzonych sprawił, że 26 marca w Doullens koordynację działań powierzono generałowi Ferdinandowi Fochowi. Noyon pozostało w rękach niemieckich do końca sierpnia 1918 roku."
 ---
 
 25 marca 1918 roku, piątego dnia [operacji Michael](/bitwy/operacja-michael), niemiecka 18 Armia generała [Oskara von Hutiera](/postacie/oskar-von-hutier) zdobyła [Noyon](https://pl.wikipedia.org/wiki/Noyon) nad [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). Rano jej dywizje przełamały linię francuskich posiłków, dowiezionych w pośpiechu na miejsce rozbitego prawego skrzydła brytyjskiej 5 Armii, a wieczorem weszły do miasta, które przez dwa i pół roku, do marca 1917 roku, było najbliższym Paryża punktem niemieckiego frontu. Tego samego dnia Francuzi stracili też [Nesle](https://pl.wikipedia.org/wiki/Nesle) i linię Canal du Nord, a ich odwrót na południowy zachód coraz bardziej oddalał ich od Brytyjczyków, cofających się na zachód. Brytyjska historia oficjalna pisze, że tego dnia na całym froncie bitwy utracono linię Sommy i nastąpił znaczny odwrót, mimo przybycia dywizji francuskich.

@@ -11,7 +11,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Erich von Falkenhayn]
 result: Inconclusive. The French took the Lorette spur, Carency, Ablain-Saint-Nazaire and Neuville-Saint-Vaast, but did not hold Vimy Ridge or break the front.
 source: druga-bitwa-w-artois
-sourceHash: c47aa6673568d432da11c378d80ad115bd5b4061
+sourceHash: 4803c4b20f1d92e3cb405977bce58aa138f01ab1
+brief:
+  - "From 9 May to 18 June 1915 General Victor d'Urbal's French 10th Army tried to take Vimy Ridge north of Arras. It was the largest Allied offensive on the Western Front in the spring of 1915."
+  - "Joffre wanted to exploit the transfer of German divisions to the east and to help the Russians. The French relied on firepower: the methodical bombardment lasted six days."
+  - "On the first day the Moroccan Division of Pétain's corps reached the crest of Vimy Ridge in less than two hours. The reserves, however, were too far away, and the Germans had time to close the breach."
+  - "For more than five weeks the French fought house by house for individual villages and hills. They took Carency, Neuville-Saint-Vaast and the Notre-Dame-de-Lorette spur, but the attack on the ridge on 16–18 June failed."
+  - "According to French figures the 10th Army lost about 102,500 men, and German losses are estimated at 65,000–75,000. Vimy Ridge remained in German hands until April 1917."
 ---
 
 The Second Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was the largest Allied offensive on the Western Front in the spring of 1915. On 9 May the French 10th Army of General Victor d'Urbal attacked north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) to take [Vimy](https://pl.wikipedia.org/wiki/Vimy) Ridge, from which the Germans had dominated the surrounding country since the autumn of 1914. The same day, further north, the British First Army attacked. On the first day the XXXIII Corps of General [Philippe Pétain](/postacie/philippe-petain) advanced about four kilometres in less than two hours and its leading units stood on the crest of Vimy Ridge. The reserves, however, were too far away, and the Germans had time to close the breach. Then for more than five weeks the French fought for individual villages, hills and strongpoints. They took the Notre-Dame-de-Lorette spur and several heavily fortified villages, but did not take Vimy Ridge, and the losses on both sides ran into hundreds of thousands of men.

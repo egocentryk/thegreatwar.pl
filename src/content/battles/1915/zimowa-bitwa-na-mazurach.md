@@ -15,6 +15,12 @@ result: Zwycięstwo Niemiec. Rosyjska 10 Armia została wyparta z Prus Wschodnic
 authors: [Natalia]
 tags: [Prusy Wschodnie, Rosja, Niemcy, Paul von Hindenburg]
 milestone: true
+brief:
+  - "Zimowa bitwa na Mazurach toczyła się od 7 do 22 lutego 1915 roku na pograniczu Prus Wschodnich i guberni suwalskiej, w śnieżycy i mrozie."
+  - "Niemcy uprzedzili planowaną rosyjską ofensywę na Prusy Wschodnie. Hindenburg i Ludendorff uzyskali nowe korpusy dla frontu wschodniego i rzucili do natarcia 8 Armię Belowa oraz nową 10 Armię Eichhorna."
+  - "Plan zakładał podwójne oskrzydlenie rosyjskiej 10 Armii gen. Siwersa: kleszcze z rejonu Pisza i z północy miały się zejść pod Augustowem. Zaskoczenie było całkowite, a 14 lutego Niemcy zajęli Ełk."
+  - "Okrążony w Puszczy Augustowskiej XX Korpus gen. Bułgakowa przez kilka dni próbował przebić się do Grodna i 21 lutego skapitulował. Szacunki strat rosyjskich bardzo się różnią."
+  - "Niemcy wyparli Rosjan z Prus Wschodnich i świętowali „drugi Tannenberg”, ale trzy z czterech korpusów Siwersa uniknęły okrążenia i obsadziły linię Grodno–Biebrza. Rosja nie poniosła klęski strategicznej."
 ---
 
 [Zimowa bitwa na Mazurach](https://pl.wikipedia.org/wiki/Bitwa_nad_jeziorami_mazurskimi_(1915)), nazywana też drugą bitwą nad jeziorami mazurskimi, a w literaturze rosyjskiej operacją augustowską, rozegrała się w lutym 1915 roku na pograniczu [Prus Wschodnich](https://pl.wikipedia.org/wiki/Prusy_Wschodnie) i guberni suwalskiej, na ziemiach, które dziś w większości należą do Polski. Dwie armie niemieckie, dowodzone przez feldmarszałka [Paula von Hindenburga](/postacie/paul-von-hindenburg) i jego szefa sztabu [Ericha Ludendorffa](/postacie/erich-ludendorff), zaatakowały w śnieżycy i mrozie rosyjską [10 Armię](https://pl.wikipedia.org/wiki/10_Armia_(Imperium_Rosyjskie)) i wyparły ją z ostatniego skrawka niemieckiej prowincji. Okrążony w [Puszczy Augustowskiej](https://pl.wikipedia.org/wiki/Puszcza_Augustowska) rosyjski XX Korpus musiał złożyć broń. Niemcom nie udało się jednak zniszczyć całej armii przeciwnika, a ich zwycięstwo nie zmieniło położenia na froncie wschodnim.

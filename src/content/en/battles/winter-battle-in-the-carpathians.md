@@ -11,7 +11,13 @@ sides:
     commanders: [Nikolai Ivanov, Aleksei Brusilov, Radko Dimitriev]
 result: Defeat of the Central Powers. Przemyśl could not be relieved and the fortress capitulated on 22 March. The Russian offensive into Hungary also stalled in the mountains.
 source: zimowa-bitwa-w-karpatach
-sourceHash: db2ccf4b7e8cc4591238c639fffe926d44bece50
+sourceHash: 862f26549036a9f09ed1519ad7f3928d28136454
+brief:
+  - "The Winter Battle in the Carpathians was a series of offensives and counter-offensives fought from 23 January to 15 April 1915 on the ridges and passes of the Carpathians."
+  - "Conrad von Hötzendorf wanted a winter offensive across the mountains to save besieged Przemyśl, where about 130,000 soldiers were shut up. At the same time the Russians aimed to cross the Carpathians into Hungary."
+  - "Austria-Hungary, supported by the German South Army, tried three times to break through, but the attacks bogged down in snow and frost. Cold and disease killed more soldiers than bullets."
+  - "On 22 March Przemyśl capitulated and about 117,000–120,000 soldiers went into captivity. The Russian offensive into Hungary stalled in the mountains, and on 15 April Ivanov halted it."
+  - "By the Austrian official history, Austria-Hungary lost about 800,000 men in the Carpathians and could no longer wage major operations without German help. The exhausted Russians then failed to stop the breakthrough at Gorlice."
 ---
 
 The Winter Battle in the Carpathians was a series of offensives and counter-offensives fought from January to April 1915 on the ridges and passes of the [Carpathians](https://pl.wikipedia.org/wiki/Karpaty). Austria-Hungary, supported by the German South Army, tried three times to break through the mountains to [besieged Przemyśl](/bitwy/drugie-oblezenie-przemysla) and to push the Russians back from the Hungarian border. At the same time the Russians tried to cross the Carpathians onto the Hungarian Plain. Neither side succeeded. The fighting took place in deep snow and severe frost, without proper equipment, and cold and disease killed more soldiers than bullets. For the Austro-Hungarian army it was a catastrophe from which it never fully recovered.

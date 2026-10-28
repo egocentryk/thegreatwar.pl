@@ -10,6 +10,11 @@ dayOrder: 2
 tags: [Wielka Brytania, Dardanele, Australia, Nowa Zelandia]
 milestone: true
 draft: false
+brief:
+  - "Brytyjska chronologia notuje pod 19 grudnia 1915 roku początek ewakuacji przyczółków Suvla i Anzac na Gallipoli. W rzeczywistości wojska wywożono z nich już od 8 grudnia."
+  - "Przez dziesięć nocy załogi obu przyczółków zmniejszono z ponad 80 tysięcy do około 40 tysięcy ludzi. Pozostali żołnierze mieli odpłynąć w dwie noce tak, by Turcy niczego nie zauważyli."
+  - "W nocy z 18 na 19 grudnia w zupełnej ciszy zabrano spod Anzac 9900 ludzi, a spod Suvli około 11 tysięcy. Nie było żadnych strat."
+  - "W niedzielę 19 grudnia pozostali żołnierze udawali zwykły dzień, a VIII Korpus zaatakował pod Helles, by odwrócić uwagę Turków. Według brytyjskiej historii oficjalnej pomogło to przekonać ich, że o ewakuacji nie ma mowy."
 ---
 
 Brytyjska chronologia wojny notuje pod 19 grudnia 1915 roku początek ewakuacji przyczółków [Suvla](https://pl.wikipedia.org/wiki/Suvla) i [Anzac](https://pl.wikipedia.org/wiki/Zatoka_Anzac) na półwyspie [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)). W rzeczywistości wojska wywożono z nich już od 8 grudnia, gdy do generała Williama Birdwooda dotarł [rozkaz rządu](/rozkaz-ewakuacji-suvli-i-anzac). Przez dziesięć nocy, przy wyjątkowo spokojnym morzu, załogi obu przyczółków zmniejszono z ponad 80 tysięcy do około 40 tysięcy ludzi. Na noc z 18 na 19 grudnia wyznaczono początek ostatniego, najgroźniejszego etapu: w dwie noce miało odpłynąć wszystkich pozostałych 40 tysięcy żołnierzy, tak by Turcy niczego nie zauważyli.

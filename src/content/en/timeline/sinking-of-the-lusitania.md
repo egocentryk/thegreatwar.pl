@@ -2,7 +2,13 @@
 title: Sinking of the Lusitania
 summary: On 7 May 1915 U-20 torpedoed the British liner Lusitania off Ireland. Within 18 minutes almost 1,200 people died, including more than a hundred Americans.
 source: zatopienie-lusitanii
-sourceHash: d7a639ef1ffadec2d47e6aee7b56aa5ed367e359
+sourceHash: 0051b8d378f8ac99bb14e41cf0e5d9462ec28e20
+brief:
+  - "At about 2.10 p.m. on 7 May 1915 the German submarine U-20 torpedoed the British liner Lusitania off the southern coast of Ireland. The ship sank within 18 minutes."
+  - "Since February the Germans had regarded the waters around the British Isles as a war zone. The German embassy warned in New York newspapers that passengers on British ships travelled at their own risk."
+  - "Kapitänleutnant Walther Schwieger fired a single torpedo, which was followed by a second, unusually powerful explosion. Its cause remains disputed to this day."
+  - "Almost 1,200 people died, including almost 100 children and more than a hundred Americans. Lusitania carried ammunition, but the law of the sea required the safety of passengers to be ensured before a sinking."
+  - "The sinking caused the most serious crisis between Berlin and Washington since the start of the war. The United States did not enter the war then, but much of American opinion turned permanently against Germany."
 ---
 
 On 7 May 1915 at about 2.10 p.m. the German submarine [U-20](https://pl.wikipedia.org/wiki/SM_U-20_(1912)) torpedoed the British liner [Lusitania](https://pl.wikipedia.org/wiki/RMS_Lusitania) off the southern coast of [Ireland](https://pl.wikipedia.org/wiki/Irlandia_(wyspa)), a dozen or so nautical miles from the Old Head of Kinsale. One of the largest and fastest passenger ships in the world sank within 18 minutes. Almost 1,200 people died, including more than a hundred citizens of the United States. The sinking of the Lusitania became the most notorious episode of the German submarine war and caused the most serious crisis in relations between Berlin and Washington since the beginning of the war.

@@ -10,6 +10,12 @@ dayOrder: 3
 tags: [Kanada, Wielka Brytania, Niemcy, Brytyjski Korpus Ekspedycyjny]
 milestone: true
 draft: false
+brief:
+  - "26 sierpnia 1918 roku o trzeciej w nocy Korpus Kanadyjski gen. Arthura Curriego zaatakował na wschód od Arras, po obu stronach drogi do Cambrai. Na północ od Scarpe dołączyła szkocka 51 Dywizja (Highland)."
+  - "Po zwycięstwie pod Amiens Kanadyjczyków przewieziono z powrotem pod Arras. Niemcy spodziewali się natarcia, więc Currie mógł ich zaskoczyć tylko porą ataku, przesuniętą ze świtu na trzecią w nocy."
+  - "Za znakomitą zaporą ogniową 3 Dywizja Kanadyjska obeszła wzgórze Orange Hill i o 7.40 zdobyła Monchy-le-Preux, skąd Niemcy od marca patrzyli na Arras. Po południu 2 Dywizja zajęła Guémappe."
+  - "Silny niemiecki kontratak został rozbity, ale tego dnia Kanadyjczycy nie posunęli się już dalej. Według kanadyjskich źródeł korpus przeszedł ponad pięć kilometrów."
+  - "Ofensywa aliantów, rozpoczęta pod Amiens, objęła front brytyjskiej 1 Armii, a Niemcy zaczęli szykować odwrót od Bapaume po Noyon. Kanadyjczyków czekały walki o linie Fresnes–Rouvroy i Drocourt–Quéant."
 ---
 
 26 sierpnia 1918 roku, o trzeciej w nocy, Korpus Kanadyjski generała [Arthura Curriego](/postacie/arthur-currie) zaatakował na wschód od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), po obu stronach drogi do [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Dwie dywizje kanadyjskie, wsparte potężną zaporą ogniową, przeszły po ciemku przez niemieckie linie przednie, a przed ósmą rano zdobyły wzgórze z ruinami wsi [Monchy-le-Preux](https://pl.wikipedia.org/wiki/Monchy-le-Preux), skąd Niemcy od marca patrzyli na Arras. Na północ od rzeki [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) dołączyła szkocka 51 Dywizja (Highland). W ten sposób wielka ofensywa aliantów, rozpoczęta osiemnaście dni wcześniej [pod Amiens](/poczatek-bitwy-pod-amiens), objęła front brytyjskiej 1 Armii generała Henry'ego Horne'a. Wieczorem po całym dniu walk Kanadyjczycy stali o ponad pięć kilometrów dalej niż rano, a niemieckie dowództwo zaczęło szykować odwrót na froncie od Bapaume po Noyon.

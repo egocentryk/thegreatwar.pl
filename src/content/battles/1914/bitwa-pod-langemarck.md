@@ -17,6 +17,12 @@ result: Nierozstrzygnięta. Brytyjskie natarcie na Brugię zatrzymano w pierwszy
 authors: [Natalia]
 tags: [Brytyjski Korpus Ekspedycyjny, Niemcy, Belgia, Douglas Haig]
 milestone: true
+brief:
+  - "Bitwa pod Langemarck toczyła się od 21 do 24 października 1914 roku na północ i północny wschód od Ypres. Była pierwszym etapem I bitwy pod Ypres."
+  - "Marszałek French wierzył, że na północ od Ypres stoi najwyżej jeden korpus niemiecki. W rzeczywistości nadciągały cztery nowe korpusy rezerwowe, w których służyło wielu słabo wyszkolonych ochotników."
+  - "21 października I Korpus gen. Douglasa Haiga ruszył w stronę Brugii, ale natrafił na nacierających Niemców i przeszedł do obrony. Przez trzy dni Brytyjczycy odpierali ataki, zadając ogromne straty."
+  - "Straty niemieckie były wielokrotnie wyższe od brytyjskich, a w niektórych pułkach sięgały według różnych opracowań nawet 70 procent stanów. Korpusy rezerwowe nie przełamały frontu."
+  - "Z tych walk i z natarcia z 10 listopada zrodził się w Niemczech mit Langemarck o młodzieży idącej na śmierć ze śpiewem. Historycy dawno podważyli tę wersję."
 ---
 
 Bitwa pod Langemarck toczyła się od 21 do 24 października 1914 roku na północ i północny wschód od [Ypres](https://pl.wikipedia.org/wiki/Ieper) we Flandrii. Była pierwszym etapem [I bitwy pod Ypres](/bitwy/pierwsza-bitwa-pod-ypres). Brytyjski I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) ruszył 21 października do natarcia w stronę Brugii, przekonany, że ma przed sobą najwyżej jeden korpus niemiecki. Natrafił na kilka nowych niemieckich korpusów rezerwowych, które same nacierały na Ypres. Brytyjczycy zatrzymali się już pierwszego dnia i przeszli do obrony, a przez kolejne trzy dni odpierali ataki młodych, słabo wyszkolonych żołnierzy niemieckich, zadając im ogromne straty. Z tych walk i z późniejszego natarcia z 10 listopada zrodził się w Niemczech mit Langemarck.

@@ -17,6 +17,12 @@ result: Zwycięstwo Rosji. Niemcy nie zdobyli Warszawy, a Austriacy przepraw pod
 authors: [Natalia]
 tags: [Niemcy, Rosja, Królestwo Polskie, Paul von Hindenburg]
 milestone: true
+brief:
+  - "Bitwa pod Warszawą i Dęblinem, toczona od 28 września do 8 listopada 1914 roku, była jedną z największych operacji 1914 roku na froncie wschodnim i pierwszą wielką bitwą w sercu Królestwa Polskiego."
+  - "Po klęsce Austro-Węgier w Galicji Niemcy utworzyli 9 Armię Hindenburga, która razem z austro-węgierską 1 Armią Dankla uderzyła przez Królestwo Polskie, by odciągnąć Rosjan od Galicji."
+  - "Wojska państw centralnych doszły nad Wisłę, a 12 października Niemcy stanęli na przedpolach Warszawy. Rosjanie ściągnęli jednak koleją kolejne korpusy i przeszli do natarcia."
+  - "Mackensen wycofał się spod Warszawy, a natarcie Dankla pod Dęblinem się załamało. 27 października państwa centralne rozpoczęły ogólny odwrót na zachód."
+  - "Była to pierwsza poważna porażka Hindenburga i Ludendorffa na wschodzie. Rosjanie odzyskali niemal całe Królestwo Polskie, ale zniszczone koleje nie pozwoliły im od razu wkroczyć na Śląsk."
 ---
 
 [Bitwa pod Warszawą i Iwangorodem](https://pl.wikipedia.org/wiki/Bitwa_pod_Warszawą_i_Iwangorodem), nazywana też bitwą pod Warszawą i Dęblinem, była jedną z największych operacji 1914 roku na froncie wschodnim i pierwszą wielką bitwą tej wojny stoczoną w sercu [Królestwa Polskiego](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)). Iwangorod to ówczesna rosyjska nazwa [twierdzy Dęblin](https://pl.wikipedia.org/wiki/Twierdza_Dęblin) u ujścia Wieprza do Wisły. Pod koniec września niemiecka [9 Armia](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) i austro-węgierska [1 Armia](https://pl.wikipedia.org/wiki/1_Armia_(austro-węgierska)) ruszyły ze Śląska i z zachodniej Galicji na północny wschód, by odciągnąć Rosjan od pokonanej armii habsburskiej. Doszły nad Wisłę, a niemieckie oddziały stanęły kilkanaście kilometrów od Warszawy. Rosjanie zgromadzili tu jednak znacznie większe siły, sforsowali Wisłę i zmusili przeciwnika do odwrotu, który zatrzymał się dopiero w pobliżu granic Śląska i pod Krakowem.

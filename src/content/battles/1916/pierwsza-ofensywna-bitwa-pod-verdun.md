@@ -15,6 +15,12 @@ result: Zwycięstwo francuskie. Francuzi odzyskali forty Douaumont i Vaux, wzgó
 authors: [Łukasz Skowroń]
 tags: [Francja, Niemcy, artyleria oblężnicza, wojna pozycyjna]
 milestone: true
+brief:
+  - "Od 24 października do 18 grudnia 1916 roku Francuzi gen. Roberta Nivelle'a i Charles'a Mangina przeszli pod Verdun do kontrnatarcia, kończąc ośmiomiesięczną bitwę na prawym brzegu Mozy."
+  - "Natarcie starannie przygotowano: pułki ćwiczyły marsz za ruchomą zaporą ogniową, a dwie haubice kolejowe kalibru 400 mm 23 października przebiły stropy fortu Douaumont i zmusiły załogę do wyjścia."
+  - "24 października trzy dywizje ruszyły we mgle i w kilka godzin odzyskały fort Douaumont, wieś Douaumont i umocnienia Thiaumont. 2 listopada Niemcy opuścili zniszczony fort Vaux."
+  - "15 grudnia Mangin uderzył czterema dywizjami i do 18 grudnia zepchnął Niemców ze wzgórz Louvemont i Côte du Poivre oraz z Bezonvaux, odsuwając front od Verdun o kilka kilometrów."
+  - "W obu natarciach Francuzi wzięli kilkanaście tysięcy jeńców. Sukces wyniósł Nivelle'a na stanowisko naczelnego wodza w miejsce Joffre'a, ale jego ofensywa w 1917 roku zakończyła się ciężkimi stratami."
 ---
 
 Pierwsza ofensywna bitwa pod Verdun to jesienne kontrnatarcie, którym Francuzi zakończyli [bitwę pod Verdun](/bitwy/bitwa-pod-verdun). Po ośmiu miesiącach obrony generałowie [Robert Nivelle](/postacie/robert-nivelle), dowódca 2 Armii, i [Charles Mangin](/postacie/charles-mangin), dowódca zgrupowania na prawym brzegu [Mozy](https://pl.wikipedia.org/wiki/Moza), przygotowali dwa starannie zaplanowane uderzenia z ograniczonymi celami. 24 października trzy dywizje, poprzedzone kilkudniowym ostrzałem, w którym dwie ciężkie [haubice kolejowe](https://pl.wikipedia.org/wiki/Działo_kolejowe) kalibru 400 mm rozbiły stropy fortu Douaumont, ruszyły we mgle za ruchomą zaporą ogniową. W ciągu kilku godzin odzyskały fort, wieś [Douaumont](https://pl.wikipedia.org/wiki/Douaumont) i umocnienia Thiaumont, a na nich teren, o który Niemcy walczyli od lutego. 2 listopada Niemcy opuścili zniszczony [fort Vaux](https://pl.wikipedia.org/wiki/Fort_de_Vaux). 15 grudnia Mangin uderzył ponownie, czterema dywizjami, i do 18 grudnia zepchnął Niemców ze wzgórz [Louvemont](https://pl.wikipedia.org/wiki/Louvemont-Côte-du-Poivre) i Côte du Poivre oraz z [Bezonvaux](https://pl.wikipedia.org/wiki/Bezonvaux). W obu natarciach Francuzi wzięli kilkanaście tysięcy jeńców. Sukces wyniósł Nivelle'a na stanowisko naczelnego wodza armii francuskiej.

@@ -2,7 +2,12 @@
 title: Torpedoing of the Sussex
 summary: On 24 March 1916 UB-29 torpedoed the French passenger ferry Sussex without warning in the Channel. At least 50 people died; Americans were among the wounded.
 source: storpedowanie-statku-sussex
-sourceHash: e9ab5a571ad037584e4ae10e0c087bae93d09737
+sourceHash: 960fe9ca80b6682c14689ce8a3dcd8c4e8dd0e8b
+brief:
+  - "On 24 March 1916 the German submarine UB-29 torpedoed without warning, in the English Channel, the French passenger ferry Sussex, sailing from Folkestone to Dieppe."
+  - "The explosion tore off the ship's bow, but Sussex stayed afloat and was towed into Boulogne. At least 50 people were killed, among them the Spanish composer Enrique Granados and his wife."
+  - "No American was killed, but several were wounded. The attack provoked the most serious crisis in American–German relations since the Lusitania."
+  - "On 18 April the United States threatened to break off diplomatic relations. On 4 May Berlin gave way with the \"Sussex pledge\" not to sink merchant ships without warning."
 ---
 
 On 24 March 1916, at about three in the afternoon, the German submarine [UB-29](https://pl.wikipedia.org/wiki/SM_UB-29) torpedoed without warning, in the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), the passenger ship *Sussex*, sailing from [Folkestone](https://pl.wikipedia.org/wiki/Folkestone) to [Dieppe](https://pl.wikipedia.org/wiki/Dieppe_(Francja)). The explosion tore off the ship's bow, but *Sussex* stayed afloat and was towed into [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer). At least 50 people were killed, by some estimates as many as 80–100. The British chronology of the war calls *Sussex* a British ship, but since 1914 the ferry had belonged to the French State Railways and sailed under the French flag. Citizens of the United States were among the wounded, and the attack provoked the most serious crisis in American–German relations since the [*Lusitania*](/zatopienie-lusitanii).

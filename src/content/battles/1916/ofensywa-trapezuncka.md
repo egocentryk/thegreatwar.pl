@@ -15,6 +15,12 @@ result: Zwycięstwo Rosji. Turcy wycofali się z całego wybrzeża Lazystanu, a 
 authors: [Natalia]
 tags: [Rosja, Imperium Osmańskie, Kaukaz, Morze Czarne]
 milestone: true
+brief:
+  - "Ofensywa trapezuncka trwała od 5 lutego do 18 kwietnia 1916 roku. Nadmorski oddział generała Władimira Lachowa przeszedł wzdłuż stromego wybrzeża Lazystanu od rosyjskiej granicy do Trapezuntu."
+  - "Trapezunt był najważniejszym portem północnej Anatolii, przez który osmańska 3 Armia dostawała ludzi i zaopatrzenie. Lachow miał przykuć Turków na wybrzeżu w czasie ofensywy Judenicza na Erzurum."
+  - "Okręty Floty Czarnomorskiej ostrzeliwały tureckie okopy z morza, a desanty lądowały na tyłach obrońców, m.in. pod Atiną. 8 marca Rosjanie weszli do Rize."
+  - "W kwietniu morzem przywieziono dwie brygady płastunów, pieszych Kozaków kubańskich. 14 kwietnia Rosjanie przełamali ostatnią turecką linię nad rzeką Kara Dere, a 18 kwietnia bez walki weszli do opuszczonego Trapezuntu."
+  - "Operacja pokazała, ile znaczy panowanie na morzu, choć ujawniła też spory dowództwa armii i floty. Rosja zyskała port, przez który mogła zaopatrywać wojska walczące w głębi Anatolii."
 ---
 
 Ofensywa trapezuncka była jedną z niewielu udanych operacji połączonych armii i floty w I wojnie światowej. Przez dziesięć tygodni, od lutego do kwietnia 1916 roku, nadmorski oddział generała Władimira Lachowa posuwał się wzdłuż stromego wybrzeża Lazystanu, od rosyjskiej granicy w stronę [Trapezuntu](https://pl.wikipedia.org/wiki/Trabzon). Okręty [Floty Czarnomorskiej](https://pl.wikipedia.org/wiki/Flota_Czarnomorska) ostrzeliwały tureckie okopy z morza, a małe desanty lądowały na tyłach kolejnych pozycji obrońców. Gdy w kwietniu morzem przywieziono dwie brygady kozaków kubańskich, Rosjanie przełamali ostatnią linię obrony nad rzeką Kara Dere, a Turcy opuścili Trapezunt bez walki. Rosja zyskała port, przez który mogła zaopatrywać armię stojącą pod [Erzurum](https://pl.wikipedia.org/wiki/Erzurum).

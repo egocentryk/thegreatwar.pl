@@ -2,7 +2,13 @@
 title: Wilson's peace note
 summary: On 18 December 1916 President Wilson asked all the belligerents to state on what terms they were ready to end the war. The Allies took offence.
 source: nota-pokojowa-wilsona
-sourceHash: 14a44e4847bb8f3708f8405c625dce229b655201
+sourceHash: d9780689e2a5463a6b5c2782e77d36384c001965
+brief:
+  - "On 18 December 1916 Secretary of State Robert Lansing sent President Woodrow Wilson's note to all the belligerent countries. The President asked each of them to state clearly on what terms it could end the war."
+  - "Wilson believed that if he did nothing, the United States would sooner or later be drawn into war with Germany over submarines. The German peace offer of 12 December forestalled his move."
+  - "The note stressed that the President was not proposing peace or even offering mediation, only proposing soundings. Yet Wilson wrote that the objects of both sides were \"virtually the same\"."
+  - "The Allies took offence, reading these words as putting them on the same moral level as the Central Powers. The Central Powers received the note politely, and the neutral states backed the President."
+  - "The Central Powers stated no terms, and on 10 January 1917 the Entente announced terms so far from the German ones that hopes of negotiations collapsed. In April 1917 Wilson asked Congress to declare war on Germany."
 ---
 
 On 18 December 1916 at 9.30 p.m. the Secretary of State, [Robert Lansing](/postacie/robert-lansing), sent from Washington to the American ambassadors and ministers in all the belligerent countries a circular telegram containing a note from President [Woodrow Wilson](/postacie/woodrow-wilson). In it the President suggested that each of the warring states should state clearly on what terms it could end the war and what guarantees it would consider sufficient to prevent a similar conflict from recurring. The diplomats were to read the note to the foreign ministers "with the utmost earnestness" and to make it understood that the government of the United States "would find it very hard to understand a negative reply". The document went down in history as Wilson's peace note, although the President himself stressed in it that he was not proposing peace.

@@ -2,7 +2,13 @@
 title: Panama declares war on Austria-Hungary
 summary: On 10 December 1917 Panama's National Assembly unanimously declared a state of war with Austria-Hungary, three days after the US Congress did so.
 source: panama-wypowiada-wojne-austro-wegrom
-sourceHash: f9b2fc5320b3c77d5387d00d54c315ab8b514f18
+sourceHash: 337644c313700f12a4f16586412adf3707c1d2dc
+brief:
+  - "On 10 December 1917 the National Assembly of Panama unanimously declared a state of war with Austria-Hungary, only three days after the United States had done so."
+  - "The American minister William Jennings Price unofficially suggested the step, because the Assembly was ending its session and only it could declare war. Lansing later asked why he had acted without instructions."
+  - "Behind it all stood the Panama Canal. A state of war allowed Habsburg subjects to be treated like the Germans, whom the Americans interned on the island of Taboga."
+  - "Panama had no army, and its part in the war came down to cooperation in protecting the canal and political support for the United States."
+  - "Belligerent status gave Panama a place at the victors' table. It signed the Treaty of Versailles and the Treaty of Saint-Germain-en-Laye with Austria and became a founding member of the League of Nations."
 ---
 
 On the afternoon of Monday 10 December 1917 the National Assembly of [Panama](https://pl.wikipedia.org/wiki/Panama) unanimously adopted a resolution declaring that the Republic of Panama was "from today, 10 December 1917" in a state of war with the [Austro-Hungarian](https://pl.wikipedia.org/wiki/Austro-Węgry) Empire. This came only three days after [the United States declared war on Austria-Hungary](/usa-wypowiadaja-wojne-austro-wegrom). The small republic, which in April had been one of the first in Latin America to [stand beside Washington against Germany](/kuba-i-panama-wypowiadaja-wojne-niemcom), once again followed its powerful protector, this time as the first state in the Americas after the United States itself.

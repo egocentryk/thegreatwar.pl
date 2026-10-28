@@ -2,7 +2,12 @@
 title: Operation Faustschlag begins
 summary: At noon on 18 February 1918 the armistice on the Eastern Front expired. The Germans advanced and that same day, almost without a fight, took Dvinsk and Lutsk.
 source: poczatek-operacji-faustschlag
-sourceHash: 10346471939734ec0476e3694e0de5cd92b6e896
+sourceHash: 7be4e2b2bfda81644b27bcc05281fa9e42e8eaf8
+brief:
+  - "At noon on 18 February 1918 the armistice on the Eastern Front expired, and a few hours later German troops advanced from the Gulf of Riga to Volhynia. Operation Faustschlag, the last great offensive in the east, had begun."
+  - "On 10 February Trotsky had announced that Russia was ending the war but would not sign an annexationist peace. The German command treated this as notice ending the armistice and wanted to force a peace on its terms."
+  - "Almost no one resisted, because most Russian soldiers had already gone home. That same evening the Germans took Dvinsk, which they had failed to take in 1915."
+  - "During the night Lenin forced through acceptance of the German terms in the Central Committee by the narrowest of majorities. The Germans pressed on, however, and on 3 March Russia signed the peace treaty at Brest."
 ---
 
 At noon on 18 February 1918 the armistice that had halted the fighting on the Eastern Front since mid-December expired. A few hours later German troops moved forward along the whole length of the front, from the Gulf of Riga to Volhynia. Operation Faustschlag ("fist punch"), the last great offensive in the east, had begun. By the evening the Germans were in [Dvinsk](https://pl.wikipedia.org/wiki/Dyneburg), which they had failed to take in 1915, and in the south in Lutsk. The formula of "neither war nor peace" that the Bolsheviks had proclaimed at Brest had lasted a little over a week.

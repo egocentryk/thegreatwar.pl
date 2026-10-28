@@ -9,7 +9,13 @@ sides:
     commanders: [Halil Pasha, Kâzım Karabekir]
 result: British victory. The Turks withdrew northwards on the night of 10–11 March, and on 11 March the British occupied Baghdad without a fight.
 source: zdobycie-bagdadu
-sourceHash: 7bdb8c16c63e011bdb7ae9b68943b98102060b95
+sourceHash: 0732f05db19ad6260b417340df3bcd24fdc79849
+brief:
+  - "The capture of Baghdad, from 5 to 11 March 1917, was the greatest British success in the Middle East since the start of the war. General Frederick Stanley Maude's troops set off from Aziziyah towards the capital of Mesopotamia."
+  - "The battered Turkish XVIII Corps was exhausted and hungry, and Maude persuaded London that any delay would give the Turks time to dig in. On 4 March Robertson agreed to the advance."
+  - "The Turks held the Diyala for three nights, where the night crossings broke down. Maude therefore shifted the weight of operations to the right bank of the Tigris and outflanked the enemy there."
+  - "On the evening of 10 March Halil Pasha concluded that further fighting risked the loss of the whole corps and withdrew north during the night. On the morning of 11 March the British entered Baghdad without a fight."
+  - "The occupation of Baghdad wiped out the humiliation of Kut, and the Turks lost their most important base in Mesopotamia. The war for Mesopotamia went on, however, as the Turks halted north of the city."
 ---
 
 The capture of Baghdad was the greatest British success in the Middle East since the start of the war. Less than two weeks after [retaking Kut](/bitwy/druga-bitwa-pod-al-kutem), the troops of General [Frederick Stanley Maude](/postacie/frederick-maude) set off from the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) at Aziziyah towards the capital of Ottoman [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). The battered XVIII Corps no longer had the strength to hold them for long. First it defended itself for three nights on the [Diyala](https://pl.wikipedia.org/wiki/Nahr_Dijala), which flows into the Tigris some ten or fifteen kilometres below the city. Then it stood against the columns outflanking it along the right bank of the Tigris. On the evening of 10 March the commander of the Sixth Army, Halil Pasha ([Halil Kut](/postacie/halil-kut)), concluded that further fighting risked the loss of the whole corps, and withdrew northwards during the night. On the morning of 11 March the British entered [Baghdad](https://pl.wikipedia.org/wiki/Bagdad) without a fight.

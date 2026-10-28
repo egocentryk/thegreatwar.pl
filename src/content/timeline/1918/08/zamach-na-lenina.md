@@ -8,6 +8,12 @@ dayOrder: 1
 tags: [Rosja, Włodzimierz Lenin, rewolucja październikowa]
 milestone: true
 draft: false
+brief:
+  - "30 sierpnia 1918 roku wieczorem w Moskwie, po wiecu w zakładach Michelsona, padły strzały do Włodzimierza Lenina. Dwie kule trafiły go w szyję i ramię, a przez kilka dni nie było pewne, czy przeżyje."
+  - "Rano tego samego dnia w Piotrogrodzie poeta Leonid Kannegiser zastrzelił przewodniczącego piotrogrodzkiej Czeki Moisieja Urickiego. Latem 1918 roku władza bolszewików wisiała na włosku."
+  - "Na miejscu zatrzymano eserkę Fanny Kapłan, która przyznała się do strzałów. Rozstrzelano ją 3 września bez procesu, a historycy do dziś wątpią, czy to rzeczywiście ona strzelała."
+  - "Bolszewicy odpowiedzieli masowym terrorem. 5 września Rada Komisarzy Ludowych przyjęła uchwałę o czerwonym terrorze, a fala aresztowań i egzekucji objęła cały kraj."
+  - "Lenin przeżył i w połowie października wrócił do pracy, a propaganda uczyniła z niego męczennika rewolucji. Jego zdrowie nigdy jednak nie wróciło do dawnego stanu."
 ---
 
 30 sierpnia 1918 roku był najczarniejszym dniem bolszewików od przejęcia władzy. Rano w Piotrogrodzie młody poeta i były junkier Leonid Kannegiser zastrzelił przewodniczącego piotrogrodzkiej Czeki Moisieja Urickiego. Wieczorem w Moskwie, po wiecu w zakładach Michelsona, padły strzały do przewodniczącego Rady Komisarzy Ludowych [Włodzimierza Lenina](/postacie/wlodzimierz-lenin). Dwie kule trafiły go w szyję i ramię, a przez kilka dni nie było pewne, czy przeżyje. Na miejscu zatrzymano eserkę [Fanny Kapłan](https://pl.wikipedia.org/wiki/Fanny_Kapłan). Oba zamachy stały się dla władzy radzieckiej sygnałem do rozpętania masowego terroru, który odtąd oficjalnie nazywano czerwonym.

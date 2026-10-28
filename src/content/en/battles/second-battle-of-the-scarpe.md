@@ -9,7 +9,13 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Otto von Below, Fritz von Loßberg]
 result: Inconclusive. The British advanced from a few hundred metres to 2 km, took Guémappe and Gavrelle and captured more than 2,700 prisoners, but Rœux and the chemical works remained in German hands.
 source: druga-bitwa-nad-scarpe-1917
-sourceHash: 03e0f34fcc1ff49fd447e59bb4e721fccbd0e2ec
+sourceHash: f09b808c5245707ead7840a1d21d1bac95ca8134
+brief:
+  - "The Second Battle of the Scarpe, fought on 23–24 April 1917, was the second great British attack in the Battle of Arras. Nine divisions of the Third and First Armies attacked on both sides of the Scarpe."
+  - "The attack was renewed mainly to support the French offensive on the Aisne. The Germans used the eight-day pause well: Loßberg built a new, deep defence based on counter-attack divisions."
+  - "At 4.45 a.m. on 23 April there was no question of surprise, and German artillery and counter-attacks took back many gains. The Scots took Rœux and the chemical works, but the Germans retook them."
+  - "After two days the British had taken Guémappe, Gavrelle and the ridge above the Cojeul valley, but Rœux and the chemical works stayed in German hands. The Canadian official history gives about 10,000 casualties."
+  - "The battle showed that the period of easy gains at Arras was over. The following attacks by the same tired divisions achieved less and less at ever greater cost."
 ---
 
 The Second Battle of the Scarpe was the second great British attack in the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). After an eight-day pause, on St George's Day, the feast of England's patron saint, nine divisions of General [Edmund Allenby](/postacie/edmund-allenby)'s Third Army and General Henry Horne's First Army attacked on both sides of the river [Scarpe](https://pl.wikipedia.org/wiki/Scarpe), from Croisilles to Gavrelle. This time there was no question of surprise, and the Germans already had a new, deep defensive system based on strong counter-attacks. Many of those who took part called it the hardest day they had lived through since the start of the war. After two days the British had taken Guémappe, Gavrelle and the ridge above the Cojeul valley, but Rœux and the chemical works on the Scarpe remained in German hands, and losses were high. The attack was renewed mainly because the [French offensive on the Aisne](/bitwy/druga-bitwa-nad-aisne), which had not brought the promised breakthrough, had to be supported.

@@ -2,7 +2,13 @@
 title: British take Baghdad
 summary: On 11 March 1917 Maude's troops entered Baghdad unopposed, the Turks having left it overnight. It was Britain's greatest success in the Middle East so far.
 source: brytyjczycy-zajmuja-bagdad
-sourceHash: ab4cb5630632eb4a5f3c1f283f6b4f3d342c6189
+sourceHash: 1a2127c93585a2a11d941eea5c5d129ef0216e0a
+brief:
+  - "On 11 March 1917 General Frederick Stanley Maude's British and Indian troops entered Baghdad, the most important city of Ottoman Mesopotamia. They did not have to fight for it."
+  - "The previous evening, after the British had forced the Diyala, the Sixth Army commander Halil Pasha ordered a retreat north to Samarra. During the night sappers blew up what they were to destroy, and looting began in the city."
+  - "In the morning a Black Watch patrol occupied the station, and the 35th Brigade, led by the Buffs, entered the city and hoisted the British flag on the citadel. Maude arrived in the afternoon with a flotilla of gunboats."
+  - "The Turks lost their most important base in Mesopotamia and a large part of their army. According to the official history, of 91 Turkish guns they saved only 28."
+  - "It was Britain's greatest victory over the Ottoman Empire so far. It strengthened British prestige in Persia, in Afghanistan and among the Muslims of India, and for Germany it was a blow."
 ---
 
 On the morning of 11 March 1917 British and Indian troops entered [Baghdad](https://pl.wikipedia.org/wiki/Bagdad), the former capital of the [Abbasid](https://pl.wikipedia.org/wiki/Abbasydzi) caliphs and the most important city of Ottoman Mesopotamia. They did not have to fight for it. The Turks had left Baghdad during the night, and after their last patrols all that remained were fires, explosions in the citadel and gangs looting the bazaars. For General [Frederick Stanley Maude](/postacie/frederick-maude), who since December 1916 had been leading his troops up the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), it was the goal of the whole campaign. For Britain, which after Gallipoli and the [surrender of Kut](/kapitulacja-al-kutu) had long had nothing to boast of on this front, it was the greatest victory over the Ottoman Empire so far.

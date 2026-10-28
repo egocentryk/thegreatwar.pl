@@ -9,7 +9,13 @@ sides:
     commanders: [Grand Duke Nicholas Nikolaevich, Nikolai Ruzsky, Paul von Rennenkampf, Sergei Scheidemann, Pavel Plehve]
 result: Inconclusive. The Germans failed to encircle the Russian armies but halted the Russian march on Silesia. The Russians abandoned Łódź and withdrew to the Bzura and Rawka.
 source: bitwa-pod-lodzia
-sourceHash: 8882e147543dfe026be3e745812f69678b65fa33
+sourceHash: bad232b765c2b332a736e9c5f6b2d55a51016264
+brief:
+  - "The Battle of Łódź, fought from 11 November to 6 December 1914 around Łódź, was one of the greatest battles of manoeuvre of the First World War."
+  - "The Russians were preparing an offensive into Silesia, but the Germans learned of it from intercepted radio messages. Hindenburg and Ludendorff moved Mackensen's Ninth Army to Thorn to strike the Russian Second Army's flank."
+  - "The Germans almost encircled Łódź, but could not close the ring from the south. General Scheffer's group was itself surrounded and on 24 November broke out at Brzeziny."
+  - "The fighting went on without a decision. On the night of 5–6 December the Russians abandoned Łódź, and the city, where at least 135 civilians had been killed, came under German occupation."
+  - "The Germans failed to destroy the Russian armies, but gained strategically: the Russian offensive into Silesia was stopped and never again took place on such a scale."
 ---
 
 The [Battle of Łódź](https://pl.wikipedia.org/wiki/Bitwa_pod_Łodzią_(1914)), also called the Łódź operation, was one of the greatest battles of manoeuvre of the First World War. It was fought in November and early December 1914 in the heart of [Congress Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)), in the fields and forests around [Łódź](https://pl.wikipedia.org/wiki/Łódź). The German [Ninth Army](https://pl.wikipedia.org/wiki/9_Armia_(Cesarstwo_Niemieckie)) of General [August von Mackensen](/postacie/august-von-mackensen) struck from Thorn into the flank of the Russian armies that were preparing to march on Silesia, and almost trapped them in a pocket at Łódź. After a few days it was the Germans who found themselves encircled, and they broke out at Brzeziny. The fighting ended only when the Russians abandoned Łódź and German troops marched into the city.

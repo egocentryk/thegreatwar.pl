@@ -15,6 +15,12 @@ result: Zwycięstwo sprzymierzonych. W 47 dni Amerykanie przełamali kolejne poz
 authors: [Łukasz Skowroń]
 tags: [Stany Zjednoczone, John Pershing, Francja, Niemcy]
 milestone: true
+brief:
+  - "Ofensywa Moza-Argonne trwała od 26 września do 11 listopada 1918 roku. Amerykańska 1 Armia gen. Pershinga nacierała między Mozą a Argonnami, a francuska 4 Armia w Szampanii."
+  - "Celem były niemieckie linie kolejowe przez Sedan i Mézières, od których zależało zaopatrzenie większości wojsk niemieckich we Francji. Odcinek był wyjątkowo silnie umocniony."
+  - "Po udanym pierwszym dniu natarcie utknęło w zatorach na zniszczonych drogach i pod ogniem z obu skrzydeł. W październiku Amerykanie w kosztownych natarciach przełamali pozycję Kriemhildy."
+  - "1 listopada natarcie ruszyło na nowo i rozbiło niemiecką obronę. Gdy 11 listopada wszedł w życie rozejm, Amerykanie stali nad Mozą i na wzgórzach nad Sedanem."
+  - "1 Armia straciła około 117 tysięcy zabitych i rannych, co uczyniło ofensywę najkrwawszą bitwą w dziejach armii amerykańskiej. Związała ona dziesiątki niemieckich dywizji."
 ---
 
 Ofensywa Moza-Argonne była ostatnią i największą bitwą Amerykanów w pierwszej wojnie światowej. 26 września 1918 roku amerykańska 1 Armia generała [Johna Pershinga](/postacie/john-pershing) uderzyła na północ, w wąskim korytarzu między rzeką [Mozą](https://pl.wikipedia.org/wiki/Moza) a lesistym pasmem [Argonny](https://pl.wikipedia.org/wiki/Argonny), a obok niej, na zachód od Argonny, w [Szampanii](https://pl.wikipedia.org/wiki/Szampania), ruszyła francuska 4 Armia generała Henriego Gouraud. Celem były niemieckie linie kolejowe biegnące przez [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) i Mézières, od których zależało zaopatrzenie większości wojsk niemieckich we Francji. Pierwszego dnia Amerykanie, korzystając z zaskoczenia, przeszli przez pierwszą pozycję niemiecką, ale nie zdobyli wzgórza Montfaucon i wkrótce utknęli w zatorach na zniszczonych drogach i pod ogniem z obu skrzydeł. Przez cały październik wykrwawiali się w frontalnych natarciach na kolejne pasy umocnień, aż w połowie miesiąca przerwali główną pozycję niemiecką, tak zwaną pozycję Kriemhildy. 1 listopada natarcie ruszyło na nowo i tym razem rozbiło niemiecką obronę. Gdy 11 listopada wszedł w życie rozejm, Amerykanie stali nad Mozą i na wzgórzach nad Sedanem.
