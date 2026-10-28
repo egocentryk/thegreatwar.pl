@@ -1081,6 +1081,58 @@ titles are cut off on phones too, when an article has no photo).
 
 ---
 
+## 15. Images from Wikimedia Commons (2026-10-28)
+
+Ported from thesecondwar.pl (`seo.md` §12): the same scripts, component and
+data format.
+
+- 311 pages show a freely licensed photo, painting or map from Wikimedia
+  Commons (`ArticleFigure.astro`, data `src/data/images.json`, files
+  `src/assets/images/{timeline,battles}/`), with a caption in both languages
+  and the credit line its licence needs (author, licence link, Commons page).
+  It is also the page's `og:image` and the `image` of its Article JSON-LD.
+  281 are public domain, the rest CC BY / CC BY-SA / CC0. 257 photos or
+  paintings, 54 maps. 7 of the 8 "Od czego zacząć" covers now show their
+  article's photo (`ReadingPath.astro`, as on thesecondwar.pl).
+- Scope: all 310 battle pages and the 262 milestone events (572 pages).
+  The finder (`scripts/commons-images.mjs`) found free candidates for 541;
+  review agents chose an image for 311 and left 230 without one (candidates
+  from the wrong page, modern photos, memorials, other periods). The owner
+  took the picks as they are, to be improved later.
+- Pipeline (as on thesecondwar.pl): `commons-images.mjs` (candidates) →
+  320 px thumbnails → review agents (one image per page or none, captions
+  only from the Commons description and the page summary) → an approval
+  gallery → `scripts/article-images.mjs` (1,600 px JPEG, credits;
+  `--clean` tidies author fields).
+- This site's milestones have no `sources:` yet, so the exact Wikipedia
+  page comes from the article's own pl.wikipedia links: only a link that
+  names an event ("Bitwa…", "Oblężenie…", "Rozejm…", "Traktat…",
+  "Rewolucja…"), covers 75% of the title's content words and has no year
+  after 1919 (16 pages). The others are found by searching the English
+  title, cleaned of "begins", "Start of the" etc. (`enSearch`, new in
+  `commons-images.mjs`).
+- Wikimedia rate-limits downloads (HTTP 429); re-running the importer on
+  the missing refs fills them in.
+- `src/assets/images` is 66 MB; the first build after new images takes
+  about a minute instead of 35 s (Astro caches the resized files).
+
+**Port back to thesecondwar.pl:** `enSearch` in `commons-images.mjs`; two
+rules in `scripts/lib/commons.mjs` `cleanAuthor` (" - Author wrote the
+Story…" and "This work was published on territory of…" notices).
+
+**Later:**
+- The 230 pages without an image, and the 31 with no candidates at all:
+  other archives (NAC, IWM, Bundesarchiv, Library of Congress) or a better
+  Wikipedia page per item.
+- Repeated images: 8 files are used for different subjects (e.g. one
+  Ypres-salient map on 9 pages). Keep each on its best pages.
+- About 30 picks the reviewers doubted (photo from near, not of, the event)
+  and 3 graphic images: check or replace.
+- The Kronstadt map ("Die Schlacht bei Kronstadt, 7–9 Oktober 1916") fits
+  the Brașov battle page; it is only a candidate on the Transylvania page.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1142,7 +1194,9 @@ finished, tick it here and add its section above.
   card that stays in view); coffee button in the header (§13)
 - [x] Battle and person pages: sidebars like the event pages (§13)
 - [x] One width for every page; multi-column homepage with a support band (§14)
-- [ ] Public-domain images from Wikimedia Commons, with captions and credits.
+- [x] Images from Wikimedia Commons, with captions and credits: 311 pages (§15)
+  - [ ] The 230 milestones and battles still without an image; repeated and
+    doubtful picks (§15)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

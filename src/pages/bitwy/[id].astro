@@ -4,7 +4,9 @@ import BaseLayout from "@/layouts/BaseLayout.astro"
 import { enUrlFor } from "@/i18n"
 import BattleSidebar from "@/components/BattleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
+import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
@@ -111,6 +113,7 @@ const ogArticle = {
   jsonLd={jsonLd}
   article={ogArticle}
   title={pageTitle}
+  image={articleImage(`bitwy/${battle.id}`)?.asset.src}
   description={summary}
   alternates={{ en: enUrl }}
 >
@@ -252,6 +255,7 @@ const ogArticle = {
 
       <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
         <div class="min-w-0">
+          <ArticleFigure ref={`bitwy/${battle.id}`} />
           <div class="lg:hidden">
             <InBrief points={battle.data.brief} />
           </div>

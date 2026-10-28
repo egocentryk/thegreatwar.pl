@@ -11,7 +11,9 @@ import { enUrlFor } from "@/i18n"
 import Button from "@/components/Button.astro"
 import ArticleSidebar from "@/components/ArticleSidebar.astro"
 import CoffeeButton from "@/components/CoffeeButton.astro"
+import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
+import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
@@ -96,7 +98,7 @@ const jsonLd = [
     date,
     authors,
     tags,
-    image: headerImageAsset?.src,
+    image: (headerImageAsset ?? articleImage(entry.id)?.asset)?.src,
   }),
   breadcrumbLd(Astro.site!, [
     { name: "Strona główna", path: "/" },
@@ -118,7 +120,7 @@ const ogArticle = {
   article={ogArticle}
   title={`${title} (${formattedDate})`}
   description={summary}
-  image={headerImageAsset?.src}
+  image={(headerImageAsset ?? articleImage(entry.id)?.asset)?.src}
   alternates={{ en: enUrl }}
 >
   <article class="pt-16 pb-24 sm:pt-24">
@@ -248,6 +250,7 @@ const ogArticle = {
             screens. */}
       <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
         <div class="min-w-0">
+          <ArticleFigure ref={entry.id} />
           <div class="lg:hidden">
             <InBrief points={entry.data.brief} />
           </div>

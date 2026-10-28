@@ -1,9 +1,11 @@
 ---
+import { Image } from "astro:assets"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { READING_PATH } from "@/data/homepage"
 import { locale, type Lang } from "@/i18n"
 import { READING_PATH_EN } from "@/i18n/data-en"
 import { curated } from "@/i18n/local"
+import { articleImage } from "@/utils/articleImages"
 import { formatDate, formatDateRange } from "@/utils/formatDate"
 import { readingMinutes } from "@/utils/requireEntry"
 
@@ -28,6 +30,8 @@ const steps = await Promise.all(
         ? formatDateRange(item.date, item.endDate, loc)
         : formatDate(item.date, "long", undefined, loc),
       minutes: readingMinutes(item.body),
+      // Cover photo from the article's own image (utils/articleImages.ts).
+      image: articleImage(battle ? `bitwy/${step.slug}` : step.slug),
       note: lang === "en" ? (READING_PATH_EN[step.slug] ?? step.note) : step.note,
     }
   }),
@@ -61,8 +65,8 @@ const t = {
     </p>
   </div>
 
-  {/* Typographic covers, always dark in both themes (thesecondwar.pl puts
-      the article's photo under the gradient; this site has no photos yet). */}
+  {/* Covers: the article's photo in black and white under a dark gradient,
+      or a typographic cover when it has none. Always dark, in both themes. */}
   <ol class="mt-8 grid grid-cols-2 gap-3 lg:grid-cols-4">
     {
       steps.map((step, index) => (
@@ -72,12 +76,22 @@ const t = {
             hreflang={step.pl ? "pl" : undefined}
             class="group relative flex min-h-64 flex-col justify-end lg:aspect-[3/4] overflow-hidden rounded-sm bg-[#16171c] text-white"
           >
-            <span
-              class="font-display absolute -top-4 -right-2 text-[11rem] leading-none font-medium text-white/[0.06] transition-colors select-none group-hover:text-white/10"
-              aria-hidden="true"
-            >
-              {String(index + 1).padStart(2, "0")}
-            </span>
+            {step.image ? (
+              <Image
+                src={step.image.asset}
+                alt=""
+                widths={[320, 480, 640].filter((w) => w <= step.image!.asset.width)}
+                sizes="(min-width: 1024px) 270px, 50vw"
+                class="absolute inset-0 size-full object-cover opacity-70 grayscale transition duration-500 group-hover:scale-105 group-hover:opacity-85"
+              />
+            ) : (
+              <span
+                class="font-display absolute -top-4 -right-2 text-[11rem] leading-none font-medium text-white/[0.06] transition-colors select-none group-hover:text-white/10"
+                aria-hidden="true"
+              >
+                {String(index + 1).padStart(2, "0")}
+              </span>
+            )}
             <span class="absolute inset-0 bg-linear-to-t from-black/90 via-black/45 to-black/10" aria-hidden="true" />
 
             <span class="relative p-4 sm:p-5">
@@ -95,6 +109,11 @@ const t = {
               </span>
               <span class="mt-1 block font-mono text-[11px] text-white/60">{step.when}</span>
               <span class="mt-2 line-clamp-2 hidden text-xs leading-5 text-white/70 sm:block">{step.note}</span>
+              {step.image && !/public domain|domena|cc0/i.test(step.image.license) && (
+                <span class="mt-2 block truncate font-mono text-[9px] text-white/40">
+                  {lang === "en" ? "Photo" : "Fot."} {step.image.author} · {step.image.license}
+                </span>
+              )}
             </span>
           </a>
         </li>

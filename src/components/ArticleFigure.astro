@@ -1,0 +1,49 @@
+---
+// The image of an article or battle page (utils/articleImages.ts), with its
+// caption and the credit line its licence requires. Shows nothing when the
+// page has no image.
+import { Image } from "astro:assets"
+import type { Lang } from "@/i18n"
+import { articleImage } from "@/utils/articleImages"
+
+interface Props {
+  // Polish id: a timeline slug, or "bitwy/<slug>" for a battle page.
+  ref: string
+  lang?: Lang
+}
+
+const { ref, lang = "pl" } = Astro.props
+const image = articleImage(ref)
+const caption = image?.caption[lang]
+---
+
+{
+  image && (
+    <figure class="mt-10 max-w-2xl">
+      <Image
+        src={image.asset}
+        alt={caption ?? ""}
+        widths={[480, 800, 1200, 1600].filter((w) => w <= image.asset.width)}
+        sizes="(min-width: 768px) 672px, 100vw"
+        class="border-line h-auto w-full rounded-sm border"
+      />
+      <figcaption class="mt-2 text-sm leading-6">
+        <span class="text-ink">{caption}</span>
+        <span class="text-ink-soft mt-1 block font-mono text-[11px] leading-5">
+          {lang === "en" ? "Author" : "Autor"}: {image.author} ·{" "}
+          {image.licenseUrl ? (
+            <a href={image.licenseUrl} rel="license noopener" target="_blank" class="hover:text-signal underline">
+              {image.license}
+            </a>
+          ) : (
+            image.license
+          )}{" "}
+          ·{" "}
+          <a href={image.source} rel="noopener" target="_blank" class="hover:text-signal underline">
+            Wikimedia Commons
+          </a>
+        </span>
+      </figcaption>
+    </figure>
+  )
+}
