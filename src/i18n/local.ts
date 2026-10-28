@@ -90,6 +90,7 @@ export function paths(lang: Lang) {
     leaves: en ? "/en/kartki" : "/kartki",
     searchIndex: en ? "/en/search.json" : "/szukaj.json",
     battleCards: en ? "/en/battles.json" : "/bitwy.json",
+    personCards: en ? "/en/people.json" : "/postacie.json",
   }
 }
 

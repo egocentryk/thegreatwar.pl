@@ -6,6 +6,7 @@ import OnThisDay from "@/components/OnThisDay.astro"
 import PolishThread from "@/components/PolishThread.astro"
 import RandomBattles from "@/components/RandomBattles.astro"
 import RandomEvents from "@/components/RandomEvents.astro"
+import RandomPeople from "@/components/RandomPeople.astro"
 import ReadingPath from "@/components/ReadingPath.astro"
 import Search from "@/components/Search.astro"
 import SupportBand from "@/components/SupportBand.astro"
@@ -145,6 +146,8 @@ const t = {
   <Search lang={lang} bare />
 
   {allTimeline.length > 0 && <OnThisDay lang={lang} />}
+
+  <RandomPeople lang={lang} />
 
   {WAR_YEARS.length > 0 && <WarYears lang={lang} />}
 

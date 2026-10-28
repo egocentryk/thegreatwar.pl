@@ -1,0 +1,223 @@
+---
+// Homepage "Ludzie Wielkiej Wojny": six people with their portraits, a new
+// set on every visit, on the button and every few seconds while the section
+// is on screen (paused on hover or focus, off with reduced motion). The pool
+// is a static file (utils/personCard.ts).
+import SectionHeading from "@/components/SectionHeading.astro"
+import type { Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { localPersonCards } from "@/utils/personCard"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
+const PICK_COUNT = 6
+
+const cards = await localPersonCards(lang)
+
+// Build-time pick: shown without JavaScript and replaced on every visit.
+const initial = [...cards].sort(() => Math.random() - 0.5).slice(0, PICK_COUNT)
+
+const t = {
+  pl: {
+    eyebrow: "Ludzie Wielkiej Wojny",
+    lead: "Dowódcy, politycy i władcy, którzy prowadzili wojnę.",
+    shuffle: "Wylosuj innych",
+    all: "Wszystkie postacie",
+  },
+  en: {
+    eyebrow: "People of the Great War",
+    lead: "The commanders, politicians and rulers who waged the war.",
+    shuffle: "Pick others",
+    all: "All people",
+  },
+}[lang]
+---
+
+<section id="postacie" data-random-people data-pool={to.personCards}>
+  <SectionHeading eyebrow={t.eyebrow} count={cards.length} />
+
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">
+      {t.lead}
+    </p>
+    <button
+      type="button"
+      data-shuffle
+      class="border-line text-ink-soft hover:border-signal hover:text-signal inline-flex cursor-pointer items-center gap-2 rounded-sm border px-3 py-2 font-mono text-xs transition-colors"
+    >
+      <span aria-hidden="true" data-shuffle-icon class="inline-block transition-transform duration-500">↻</span>
+      {t.shuffle}
+    </button>
+  </div>
+
+  <ul data-list class="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+    {
+      initial.map((card) => (
+        <li data-card class="min-w-0 transition-opacity duration-300">
+          <a href={card.href} data-href class="group block">
+            <span class="border-line bg-surface relative block aspect-[3/4] overflow-hidden rounded-sm border">
+              <img
+                data-photo
+                src={card.photo}
+                alt=""
+                width="300"
+                height="400"
+                loading="lazy"
+                class="size-full object-cover transition duration-500 group-hover:scale-105"
+              />
+            </span>
+            <span data-country class="text-signal mt-3 block truncate font-mono text-[10px] tracking-[0.15em] uppercase">
+              {card.country}
+            </span>
+            <span data-name class="font-display text-ink group-hover:text-signal mt-1 block leading-snug transition-colors">
+              {card.name}
+            </span>
+            <span data-years class="text-ink-soft mt-0.5 block font-mono text-[11px]">{card.years}</span>
+            <span data-role class="text-ink-soft mt-1.5 line-clamp-3 block text-xs leading-5">{card.role}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+
+  <div class="mt-6">
+    <a href={to.people} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">
+      {t.all} ({cards.length}) →
+    </a>
+  </div>
+</section>
+
+<script>
+  import type { PersonCard as Card } from "@/utils/personCard"
+
+  const ROTATE_MS = 7000
+
+  // Fetched once per page load from a static file the browser caches.
+  const pools = new Map<string, Promise<Card[]>>()
+  function loadPool(url: string) {
+    if (!pools.has(url)) {
+      pools.set(
+        url,
+        fetch(url)
+          .then((response) => (response.ok ? response.json() : []))
+          .catch(() => []),
+      )
+    }
+    return pools.get(url)!
+  }
+
+  // Pick `count` different people, avoiding the ones already on screen when possible.
+  function pick(cards: Card[], count: number, exclude: Set<string>) {
+    const fresh = cards.filter((card) => !exclude.has(card.href))
+    const pool = fresh.length >= count ? fresh : cards
+    const copy = [...pool]
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[copy[i], copy[j]] = [copy[j], copy[i]]
+    }
+    return copy.slice(0, count)
+  }
+
+  function fill(item: Element, card: Card) {
+    const set = (selector: string, text: string) => {
+      const el = item.querySelector(selector)
+      if (el) el.textContent = text
+    }
+    item.querySelector<HTMLAnchorElement>("[data-href]")?.setAttribute("href", card.href)
+    item.querySelector<HTMLImageElement>("[data-photo]")?.setAttribute("src", card.photo)
+    set("[data-country]", card.country)
+    set("[data-name]", card.name)
+    set("[data-years]", card.years)
+    set("[data-role]", card.role)
+  }
+
+  function initRandomPeople() {
+    const section = document.querySelector<HTMLElement>("[data-random-people]")
+    const url = section?.dataset.pool
+    if (!section || !url) return
+    const list = section.querySelector<HTMLElement>("[data-list]")
+    const items = [...section.querySelectorAll("[data-card]")]
+    const current = () =>
+      new Set(items.map((item) => item.querySelector("[data-href]")?.getAttribute("href") ?? ""))
+
+    const show = async (animate: boolean) => {
+      const cards = await loadPool(url)
+      if (cards.length < items.length) return
+      const picks = pick(cards, items.length, current())
+      // Load the new portraits before swapping, so no card flashes empty.
+      await Promise.all(
+        picks.map(
+          (card) =>
+            new Promise((resolve) => {
+              const img = new Image()
+              img.onload = img.onerror = resolve
+              img.src = card.photo
+            }),
+        ),
+      )
+      if (!animate) {
+        items.forEach((item, i) => fill(item, picks[i]))
+        return
+      }
+      items.forEach((item) => item.classList.add("opacity-0"))
+      window.setTimeout(() => {
+        items.forEach((item, i) => {
+          fill(item, picks[i])
+          item.classList.remove("opacity-0")
+        })
+      }, 300)
+    }
+
+    show(false)
+
+    let turns = 0
+    const icon = section.querySelector<HTMLElement>("[data-shuffle-icon]")
+    const spin = () => {
+      turns += 1
+      if (icon) icon.style.transform = `rotate(${turns * 360}deg)`
+    }
+    section.querySelector("[data-shuffle]")?.addEventListener("click", () => {
+      spin()
+      // Announce a set the reader asked for, not the automatic ones.
+      list?.setAttribute("aria-live", "polite")
+      show(true)
+      restart()
+    })
+
+    // Rotation: only while the section is on screen and not hovered or
+    // focused, never with reduced motion.
+    const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+    let timer: number | undefined
+    let visible = false
+    let held = false
+    const stop = () => window.clearInterval(timer)
+    const restart = () => {
+      stop()
+      if (reduced || !visible || held) return
+      timer = window.setInterval(() => {
+        list?.removeAttribute("aria-live")
+        show(true)
+      }, ROTATE_MS)
+    }
+    new IntersectionObserver(([entry]) => {
+      visible = entry.isIntersecting
+      restart()
+    }).observe(section)
+    const hold = (value: boolean) => () => {
+      held = value
+      restart()
+    }
+    section.addEventListener("mouseenter", hold(true))
+    section.addEventListener("mouseleave", hold(false))
+    section.addEventListener("focusin", hold(true))
+    section.addEventListener("focusout", hold(false))
+    document.addEventListener("astro:before-swap", stop, { once: true })
+  }
+
+  // astro:page-load fires on the first load and after every client-side navigation.
+  document.addEventListener("astro:page-load", initRandomPeople)
+</script>
