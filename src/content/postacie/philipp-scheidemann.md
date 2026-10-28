@@ -12,6 +12,9 @@ aliases: [Philipp Scheidemann]
 wikiTitles: [Philipp_Scheidemann]
 authors: [Natalia]
 tags: [Niemcy, Socjaldemokratyczna Partia Niemiec, rewolucja listopadowa, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Philipp_Scheidemann"
+  - "https://en.wikipedia.org/wiki/Philipp_Scheidemann"
 ---
 
 Philipp Scheidemann, drukarz z Kassel, który został jednym z najlepszych mówców niemieckiego parlamentu, przez całą wojnę był obok Friedricha Eberta najważniejszym przywódcą [Socjaldemokratycznej Partii Niemiec](https://pl.wikipedia.org/wiki/Socjaldemokratyczna_Partia_Niemiec). Popierał kredyty wojenne, ale głośniej niż ktokolwiek w partii domagał się pokoju bez aneksji, tak że jego nazwisko stało się hasłem: „pokój Scheidemanna”. W październiku 1918 roku jako pierwszy socjaldemokrata w historii wszedł do rządu Rzeszy. 9 listopada 1918 roku, bez porozumienia z Ebertem, proklamował z okna Reichstagu republikę niemiecką. Ten jeden gest uczynił go symbolem nowego państwa, a w oczach jego wrogów symbolem „zdrady listopadowej”.

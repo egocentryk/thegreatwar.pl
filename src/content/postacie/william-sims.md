@@ -12,6 +12,9 @@ aliases: [William Sims]
 wikiTitles: [William_Sims]
 authors: [Łukasz Skowroń]
 tags: [Stany Zjednoczone, okręty podwodne, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/William_Sims"
+  - "https://en.wikipedia.org/wiki/William_Sims"
 ---
 
 William Sowden Sims był najważniejszym amerykańskim admirałem pierwszej wojny światowej, choć nie stoczył w niej żadnej bitwy. Przypłynął do Londynu w kwietniu 1917 roku, w chwili gdy niemieckie okręty podwodne topiły statki szybciej, niż alianci mogli je budować, i od pierwszych dni naciskał na Waszyngton, by wysłał do Europy wszystkie okręty zdolne do walki z nimi. Popierał wprowadzenie konwojów i uczynił amerykańskie niszczyciele częścią brytyjskiego systemu obrony żeglugi, podporządkowując je brytyjskim admirałom. W dniu rozejmu dowodził około 370 okrętami i ponad 80 tysiącami ludzi w kilkudziesięciu bazach od Irlandii po Korfu. Był też człowiekiem niepokornym, otwarcie anglofilskim i wiecznie skłóconym z przełożonymi, a po wojnie oskarżył własne ministerstwo, że przez jego opieszałość wojna trwała dłużej, niż musiała.

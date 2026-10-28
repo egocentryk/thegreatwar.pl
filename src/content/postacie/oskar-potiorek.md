@@ -12,6 +12,9 @@ aliases: [Oskar Potiorek]
 wikiTitles: [Oskar_Potiorek]
 authors: [Natalia]
 tags: [Oskar Potiorek, Austro-Węgry, Serbia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Oskar_Potiorek"
+  - "https://en.wikipedia.org/wiki/Oskar_Potiorek"
 ---
 
 Oskar Potiorek był człowiekiem, który dwukrotnie zawiódł monarchię habsburską w ciągu jednego roku. 28 czerwca 1914 roku, jako namiestnik Bośni i Hercegowiny, siedział w samochodzie z arcyksięciem Franciszkiem Ferdynandem, gdy w Sarajewie padły śmiertelne strzały. Kilka tygodni później stanął na czele wojsk, które miały ukarać Serbię za zamach. Między sierpniem a grudniem 1914 roku trzy razy wkraczał do Serbii i trzy razy musiał się z niej wycofać. Klęska nad Kolubarą zakończyła jego karierę. Uchodzi za jednego z najsłabszych dowódców pierwszego roku wojny, choć historycy przypominają, że błędy popełniano wtedy także w Wiedniu i w naczelnym dowództwie.

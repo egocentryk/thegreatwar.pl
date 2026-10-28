@@ -12,6 +12,9 @@ aliases: [David Lloyd George]
 wikiTitles: [David_Lloyd_George]
 authors: [Łukasz Skowroń]
 tags: [David Lloyd George, Wielka Brytania, Douglas Haig]
+sources:
+  - "https://pl.wikipedia.org/wiki/David_Lloyd_George"
+  - "https://en.wikipedia.org/wiki/David_Lloyd_George"
 ---
 
 David Lloyd George był najbardziej dynamicznym brytyjskim politykiem pierwszej wojny światowej i przez całą wojnę stał w pierwszym szeregu jej przywódców. Radykalny liberał i walijski adwokat, przed wojną kojarzony z reformami społecznymi i niechęcią do zbrojeń, w 1915 roku zbudował od podstaw Ministerstwo Amunicji, w 1916 roku zastąpił Kitchenera w Ministerstwie Wojny, a w grudniu tego roku odsunął od władzy [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith) i stanął na czele rządu. Jako premier stworzył mały Gabinet Wojenny, wymusił na admirałach konwoje, a na sojusznikach wspólne dowództwo. Przez cały czas był jednak w konflikcie z własnymi generałami, [Douglasem Haigiem](/postacie/douglas-haig) i Williamem Robertsonem, których strategii nie ufał, ale których nie potrafił lub nie odważył się odwołać. Wygrał wojnę, ale rozbił przy tym własną partię.

@@ -12,6 +12,9 @@ aliases: [Herbert Plumer]
 wikiTitles: [Herbert_Onslow_Plumer]
 authors: [Natalia]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Belgia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Herbert_Onslow_Plumer"
+  - "https://en.wikipedia.org/wiki/Herbert_Plumer,_1st_Viscount_Plumer"
 ---
 
 Sir Herbert Plumer, po wojnie marszałek polny i wicehrabia Plumer of Messines, wyglądał jak karykatura starego brytyjskiego generała: niski, pulchny, z siwym wąsem i rumianą twarzą. Za tym wyglądem krył się jednak dowódca, którego wielu historyków uważa za najlepszego dowódcę armii w Brytyjskim Korpusie Ekspedycyjnym. Przez blisko trzy lata bronił z 2 Armią łuku [Ypres](https://pl.wikipedia.org/wiki/Ieper), najbardziej znienawidzonego odcinka frontu. W czerwcu 1917 roku zdobył grzbiet Messines w jednym z najlepiej przygotowanych natarć tej wojny, a we wrześniu i październiku poprowadził w trzeciej bitwie pod Ypres serię ograniczonych natarć, które na kilka tygodni przywróciły Brytyjczykom inicjatywę. Żołnierze nazywali go „Daddy” lub „Plum” i ufali mu bardziej niż niemal komukolwiek z wyższych dowódców.

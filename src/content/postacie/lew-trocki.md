@@ -12,6 +12,9 @@ aliases: [Lew Trocki]
 wikiTitles: [Lew_Trocki]
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Lew_Trocki"
+  - "https://en.wikipedia.org/wiki/Leon_Trotsky"
 ---
 
 Lew Dawidowicz Bronsztejn, który przeszedł do historii pod pseudonimem Trocki, był obok [Włodzimierza Lenina](/postacie/wlodzimierz-lenin) najważniejszym przywódcą rewolucji październikowej. W pierwszej wojnie światowej występował w trzech rolach. Do 1917 roku był emigrantem, publicystą i przeciwnikiem wojny, autorem manifestu z Zimmerwaldu. Jesienią 1917 roku, jako przewodniczący Rady Piotrogrodzkiej, przygotował przewrót, który dał władzę bolszewikom. Potem jako komisarz spraw zagranicznych prowadził w Brześciu Litewskim rokowania z państwami centralnymi i ogłosił słynną formułę „ani wojna, ani pokój”, która skończyła się niemiecką ofensywą i pokojem jeszcze cięższym niż ten, który odrzucił. Od marca 1918 roku budował od podstaw Armię Czerwoną. Na stronie ententy znalazł się tylko formalnie: wraz z Leninem wyprowadził Rosję z wojny, łamiąc jej zobowiązania wobec sojuszników.

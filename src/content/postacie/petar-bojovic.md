@@ -12,6 +12,9 @@ aliases: [Petar Bojović]
 wikiTitles: [Petar_Bojović]
 authors: [Natalia]
 tags: [Serbia, Austro-Węgry, Bułgaria]
+sources:
+  - "https://pl.wikipedia.org/wiki/Petar_Bojović"
+  - "https://en.wikipedia.org/wiki/Petar_Bojović"
 ---
 
 Petar Bojović był najmłodszym z czterech serbskich wojewodów wielkiej wojny i jedynym, który dowodził w niej zarówno armią, jak i całym wojskiem. W 1914 roku prowadził 1 Armię przez Sawę do Sremu i z powrotem nad Drinę, aż rana wyłączyła go z walki. Jesienią 1915 roku osłaniał przed Bułgarami drogę odwrotu do Kosowa. Przez dwa i pół roku, od odwrotu przez Albanię do lata 1918 roku, był szefem sztabu naczelnego dowództwa, który odbudowywał armię na Korfu i prowadził ją na froncie salonickim. W ostatniej ofensywie znów stanął na czele 1 Armii i 1 listopada 1918 roku wkroczył z nią do Belgradu. Był żołnierzem pracowitym, upartym i niechętnym polityce, a także autorem wielu podręczników wojskowych.

@@ -12,6 +12,9 @@ aliases: [Eduard von Böhm-Ermolli]
 wikiTitles: [Eduard_von_Böhm-Ermolli]
 authors: [Natalia]
 tags: [Austro-Węgry, Galicja, Ukraina]
+sources:
+  - "https://pl.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli"
+  - "https://en.wikipedia.org/wiki/Eduard_von_Böhm-Ermolli"
 ---
 
 Eduard von Böhm-Ermolli dowodził austro-węgierską 2 Armią od pierwszego miesiąca wojny do maja 1918 roku. Niewielu generałów tej wojny tak długo pozostawało na jednym stanowisku. Jego armia walczyła najpierw na granicy serbskiej, potem w Galicji, w Królestwie Polskim i w Karpatach, a 22 czerwca 1915 roku wkroczyła do odzyskanego Lwowa. Od jesieni 1915 roku Böhm-Ermolli dowodził grupą armii w Galicji Wschodniej, która przetrwała ofensywę Brusiłowa lepiej niż inne, a w lipcu 1917 roku odparła ofensywę Kiereńskiego i odrzuciła Rosjan nad Zbrucz. Nie był strategiem na miarę Conrada ani bohaterem prasy jak Dankl, ale uchodził za jednego z najsolidniejszych generałów monarchii. Szczególnie cenili go Niemcy, pod których zwierzchnictwem spędził dużą część wojny.

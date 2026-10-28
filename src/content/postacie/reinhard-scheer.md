@@ -12,6 +12,9 @@ aliases: [Reinhard Scheer]
 wikiTitles: [Reinhard_Scheer]
 authors: [Łukasz Skowroń]
 tags: [Reinhard Scheer, Kaiserliche Marine, Morze Północne, okręty podwodne]
+sources:
+  - "https://pl.wikipedia.org/wiki/Reinhard_Scheer"
+  - "https://en.wikipedia.org/wiki/Reinhard_Scheer"
 ---
 
 Reinhard Scheer dowodził niemiecką Flotą Pełnomorską w jedynej wielkiej bitwie flot liniowych I wojny światowej. Pod Jutlandią w 1916 roku jego mniejsza flota zadała Brytyjczykom większe straty, niż sama poniosła, i dwa razy wyrwała się z pułapki zastawionej przez Grand Fleet. Scheer szybko jednak doszedł do wniosku, że nawet najbardziej udana bitwa na morzu nie zmusi Wielkiej Brytanii do pokoju, i stał się jednym z najgłośniejszych zwolenników nieograniczonej wojny podwodnej, która w 1917 roku wciągnęła do wojny Stany Zjednoczone. W ostatnich miesiącach wojny kierował całą niemiecką wojną morską. Plan ostatniego boju floty, przygotowany przez niego i Hippera w październiku 1918 roku, wywołał bunt marynarzy, od którego zaczęła się rewolucja w Niemczech.

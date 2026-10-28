@@ -12,6 +12,9 @@ aliases: [Colmar von der Goltz]
 wikiTitles: [Colmar_von_der_Goltz]
 authors: [Natalia]
 tags: [Niemcy, Imperium Osmańskie, okupacja niemiecka, Persja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Colmar_von_der_Goltz"
+  - "https://en.wikipedia.org/wiki/Colmar_Freiherr_von_der_Goltz"
 ---
 
 Feldmarszałek Colmar von der Goltz, przez Turków zwany Goltz Paszą, był w 1914 roku jednym z najstarszych i najbardziej znanych żołnierzy Cesarstwa Niemieckiego. Rozgłos przyniosła mu książka „Naród pod bronią” z 1883 roku, w której zapowiadał wojny prowadzone siłami całych narodów, a w Turcji pamiętano go jako nauczyciela pokolenia oficerów, które w czasie wielkiej wojny dowodziło armią osmańską. Gdy wybuchła wojna, miał 71 lat i był w stanie spoczynku. Najpierw rządził okupowaną Belgią, potem wrócił nad Bosfor jako doradca sułtana, a w ostatnich miesiącach życia dowodził osmańską 6 Armią w Iraku, która zamknęła w Al-Kucie brytyjską dywizję. Zmarł dziesięć dni przed jej kapitulacją.

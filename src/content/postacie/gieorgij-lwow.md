@@ -12,6 +12,9 @@ aliases: [Gieorgij Lwow]
 wikiTitles: [Gieorgij_Lwow]
 authors: [Natalia]
 tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
+sources:
+  - "https://pl.wikipedia.org/wiki/Gieorgij_Lwow"
+  - "https://en.wikipedia.org/wiki/Georgy_Lvov"
 ---
 
 Książę Gieorgij Jewgienjewicz Lwow był najbardziej szanowanym działaczem samorządowym w Rosji. W czasie wojny kierował Wszechrosyjskim Związkiem Ziemskim, który zakładał szpitale, ewakuował rannych i zaopatrywał armię tam, gdzie zawodziła biurokracja. Dzięki temu, choć nigdy nie zabiegał o władzę, znalazł się na czele niemal każdej listy przyszłego „rządu zaufania”. Po [rewolucji lutowej](/rewolucja-lutowa) został pierwszym premierem [Rządu Tymczasowego](https://pl.wikipedia.org/wiki/Rząd_Tymczasowy_Rosji). Rządził niespełna cztery miesiące, wierząc, że wolny naród rosyjski sam zaprowadzi u siebie porządek. W lipcu 1917 roku, przekonany, że nie jest w stanie powstrzymać rozpadu państwa, przekazał władzę [Aleksandrowi Kiereńskiemu](/postacie/aleksander-kierenski).

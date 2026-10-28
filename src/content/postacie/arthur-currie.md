@@ -12,6 +12,9 @@ aliases: [Arthur Currie]
 wikiTitles: [Arthur_Currie]
 authors: [Łukasz Skowroń]
 tags: [Kanada, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Arthur_Currie"
+  - "https://en.wikipedia.org/wiki/Arthur_Currie"
 ---
 
 Sir Arthur Currie był jednym z zaledwie dwóch dowódców korpusów na froncie zachodnim, obok Australijczyka Johna Monasha, którzy nie byli zawodowymi żołnierzami. Zaczynał w 1897 roku jako szeregowy kanonier w kanadyjskiej milicji, a w czerwcu 1917 roku jako pierwszy Kanadyjczyk objął dowództwo Korpusu Kanadyjskiego, jednej z najlepszych formacji całej armii brytyjskiej. Poprowadził ją pod wzgórze 70 i Passchendaele, a w ostatnich stu dniach wojny od Amiens przez linię Drocourt–Quéant, Canal du Nord, Cambrai i Valenciennes aż do Mons. Powtarzał, że za zwycięstwo trzeba płacić pociskami, a nie życiem żołnierzy. Kanadyjscy historycy, między innymi Pierre Berton i Jack Granatstein, uważają go za najwybitniejszego dowódcę w dziejach swojego kraju. Za życia był jednak postacią sporną, a jego życiorys obciąża przedwojenne sprzeniewierzenie pieniędzy pułku.

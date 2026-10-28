@@ -12,6 +12,9 @@ aliases: [Roger Casement]
 wikiTitles: [Roger_Casement]
 authors: [Natalia]
 tags: [Irlandia, Niemcy, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Roger_Casement"
+  - "https://en.wikipedia.org/wiki/Roger_Casement"
 ---
 
 Sir Roger Casement przeszedł drogę, jakiej nie przeszedł żaden inny człowiek pierwszej wojny światowej: od brytyjskiego konsula, nagrodzonego tytułem szlacheckim za ujawnienie zbrodni popełnianych na Afrykanach i Indianach, do więźnia skazanego na śmierć za zdradę stanu. Irlandczyk wychowany w Ulsterze, w protestanckiej rodzinie, w ostatnich latach przed wojną stał się zwolennikiem pełnej niepodległości Irlandii. Jesienią 1914 roku przedostał się do Niemiec, by zabiegać o niemiecką pomoc dla irlandzkiego powstania i werbować irlandzkich jeńców do brygady, która miałaby walczyć z Brytyjczykami. Jego misja zakończyła się porażką, a on sam, wysadzony z niemieckiego okrętu podwodnego na irlandzkim wybrzeżu trzy dni przed [powstaniem wielkanocnym](/wybuch-powstania-wielkanocnego), zakończył życie na szubienicy w Londynie.

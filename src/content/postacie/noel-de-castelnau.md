@@ -12,6 +12,9 @@ aliases: [Noël de Castelnau]
 wikiTitles: [Noël_de_Castelnau]
 authors: [Łukasz Skowroń]
 tags: [Noël de Castelnau, Francja, Lotaryngia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Noël_de_Castelnau"
+  - "https://en.wikipedia.org/wiki/Noël_Édouard,_vicomte_de_Curières_de_Castelnau"
 ---
 
 Noël Édouard de Curières de Castelnau był jednym z najważniejszych francuskich generałów pierwszych lat wojny, a zarazem jednym z najbardziej spornych. Przed 1914 rokiem współtworzył francuski plan wojny. W sierpniu 1914 roku poniósł klęskę pod Morhange, ale kilka dni później odparł Niemców nad Mortagne, a we wrześniu obronił Nancy, za co nazwano go „zbawcą Nancy”. Jesienią rozpoczął wyścig do morza, w 1915 roku prowadził wielką ofensywę w Szampanii, a jako szef sztabu Joffre'a odegrał kluczową rolę w pierwszych dniach bitwy pod Verdun. Wojna zabrała mu trzech synów. Choć wielu uważało go za jednego z najzdolniejszych generałów Francji, nigdy nie został naczelnym wodzem ani marszałkiem. Przeszkodą były nie tylko spory z Joffre'em i Fochem, ale też jego żarliwy katolicyzm, który w antyklerykalnej III Republice budził nieufność.

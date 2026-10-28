@@ -12,6 +12,9 @@ aliases: [Oskar von Hutier]
 wikiTitles: [Oskar_von_Hutier]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Francja, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Oskar_von_Hutier"
+  - "https://en.wikipedia.org/wiki/Oskar_von_Hutier"
 ---
 
 Oskar von Hutier jest jednym z niewielu niemieckich generałów pierwszej wojny światowej, których nazwisko przeszło do języka wojskowego. Francuzi, a za nimi Brytyjczycy i Amerykanie, nazywali „taktyką Hutiera” niemiecki sposób przełamywania frontu z lat 1917–1918: krótki, gwałtowny ostrzał z masowym użyciem gazu i natarcie piechoty, która nie zatrzymywała się przy punktach oporu. Hutier rzeczywiście dwa razy zastosował go z wielkim powodzeniem, pod Rygą we wrześniu 1917 roku i nad Sommą w marcu 1918 roku. Historycy podkreślają jednak, że nie był jego twórcą. Był za to sprawnym, wymagającym dowódcą armii, któremu Ludendorff powierzał zadania wymagające rozmachu.

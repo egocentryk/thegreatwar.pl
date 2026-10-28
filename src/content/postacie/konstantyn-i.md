@@ -12,6 +12,9 @@ aliases: [Konstantyn I]
 wikiTitles: [Konstantyn_I_Grecki]
 authors: [Łukasz Skowroń]
 tags: [Konstantyn I Grecki, Grecja, Elefterios Wenizelos, neutralność]
+sources:
+  - "https://pl.wikipedia.org/wiki/Konstantyn_I_Grecki"
+  - "https://en.wikipedia.org/wiki/Constantine_I_of_Greece"
 ---
 
 Konstantyn I wstąpił na tron w 1913 roku jako najpopularniejszy człowiek w Grecji: wódz, który w wojnach bałkańskich zdobył Saloniki i Janinę i niemal podwoił terytorium państwa. Cztery lata później francuski komisarz wyprawił go na wygnanie. Przez cały ten czas król trwał przy jednym przekonaniu: Grecja nie powinna wchodzić do wielkiej wojny, a już na pewno nie przeciw Niemcom, których armię podziwiał i której się bał. Ta postawa doprowadziła go do otwartego konfliktu z premierem [Elefteriosem Wenizelosem](/postacie/elefterios-wenizelos), którego dwa razy zmusił do dymisji, i z mocarstwami Ententy, które od 1915 roku walczyły na greckiej ziemi. Ze sporu króla z premierem wyrosła [schizma narodowa](https://pl.wikipedia.org/wiki/Schizma_narodowa), rozłam, który dzielił Greków jeszcze przez dziesięciolecia. Formalnie Grecja przystąpiła do wojny po stronie Ententy, ale stało się to dopiero po usunięciu Konstantyna.

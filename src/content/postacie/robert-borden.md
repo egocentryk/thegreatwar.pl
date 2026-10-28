@@ -12,6 +12,9 @@ aliases: [Robert Borden]
 wikiTitles: [Robert_Borden]
 authors: [Łukasz Skowroń]
 tags: [Kanada, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Robert_Borden"
+  - "https://en.wikipedia.org/wiki/Robert_Borden"
 ---
 
 Sir Robert Laird Borden był premierem Kanady przez całą wielką wojnę. Kraj, który w 1914 roku miał nieco ponad 3 tysiące żołnierzy zawodowych, wysłał za ocean ponad 400 tysięcy ludzi, a Korpus Kanadyjski stał się jedną z najlepszych formacji na froncie zachodnim. Borden poprowadził Kanadę przez ten wysiłek, ale zapłacił za niego wysoką cenę: wprowadzenie poboru w 1917 roku podzieliło kraj wzdłuż linii językowej na dziesięciolecia. Jednocześnie ten ostrożny, chłodny prawnik z Nowej Szkocji, który zaczynał wojnę jako lojalny poddany imperium, zakończył ją jako jeden z głównych architektów samodzielności dominiów. To w dużej mierze dzięki niemu Kanada miała osobną delegację na konferencji pokojowej, podpisała traktat wersalski we własnym imieniu i weszła do Ligi Narodów.

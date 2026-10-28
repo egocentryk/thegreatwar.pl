@@ -12,6 +12,9 @@ aliases: [Irakli Cereteli]
 wikiTitles: [Irakli_Cereteli]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Rada Piotrogrodzka, rewolucja lutowa, Gruzja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Irakli_Cereteli"
+  - "https://en.wikipedia.org/wiki/Irakli_Tsereteli"
 ---
 
 Irakli Cereteli był gruzińskim socjaldemokratą, który przez kilka miesięcy 1917 roku należał do najbardziej wpływowych ludzi w Rosji. Wrócił do Piotrogrodu z syberyjskiego zesłania kilka tygodni po [rewolucji lutowej](/rewolucja-lutowa) i szybko stał się nieformalnym przywódcą [Rady Piotrogrodzkiej](https://pl.wikipedia.org/wiki/Piotrogrodzka_Rada_Delegatów_Robotniczych_i_Żołnierskich). Był twórcą polityki „rewolucyjnego defensywizmu”: Rosja miała bronić się przed Niemcami, ale dążyć do powszechnego pokoju bez aneksji i kontrybucji. To on wprowadził socjalistów do rządu koalicyjnego i przez całą wiosnę i lato 1917 roku starał się utrzymać sojusz rad z liberałami. Gdy bolszewicy przejęli władzę, wrócił do Gruzji i pomógł ogłosić jej niepodległość. Jego klęska była klęską umiarkowanego socjalizmu w Rosji, który chciał zarazem kontynuować wojnę i zakończyć ją pokojem demokratycznym.

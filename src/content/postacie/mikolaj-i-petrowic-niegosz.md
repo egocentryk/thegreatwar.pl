@@ -12,6 +12,9 @@ aliases: [Mikołaj I Petrowić-Niegosz]
 wikiTitles: [Mikołaj_I_Petrowić-Niegosz]
 authors: [Natalia]
 tags: [Mikołaj I Petrowić-Niegosz, Czarnogóra, Serbia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Mikołaj_I_Petrowić-Niegosz"
+  - "https://en.wikipedia.org/wiki/Nicholas_I_of_Montenegro"
 ---
 
 Mikołaj I Petrović-Njegoš, po polsku Petrowić-Niegosz, rządził Czarnogórą blisko sześćdziesiąt lat, dłużej niż większość ówczesnych monarchów Europy. Z małego górskiego księstwa uczynił niepodległe królestwo, a dzięki małżeństwom córek spokrewnił się z dworami Rosji, Włoch i Serbii. W 1914 roku jako pierwszy stanął u boku Serbii przeciw Austro-Węgrom. Wojna przyniosła mu jednak klęskę: w styczniu 1916 roku jego kraj w kilka dni zajęli Austriacy, a on sam wyjechał na wygnanie, z którego już nie wrócił. Oskarżany przez Serbów o zdradę, a przez sojuszników o nielojalność, w listopadzie 1918 roku został zdetronizowany, a Czarnogóra weszła w skład nowego państwa jugosłowiańskiego.

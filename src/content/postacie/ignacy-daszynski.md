@@ -12,6 +12,9 @@ aliases: [Ignacy Daszyński]
 wikiTitles: [Ignacy_Daszyński]
 authors: [Łukasz Skowroń]
 tags: [Ignacy Daszyński, Polska, Galicja, Legiony Polskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ignacy_Daszyński"
+  - "https://en.wikipedia.org/wiki/Ignacy_Daszyński"
 ---
 
 Ignacy Daszyński był przez ponad dwadzieścia lat najbardziej znanym polskim socjalistą w monarchii habsburskiej i jednym z najlepszych mówców parlamentu wiedeńskiego. W 1914 roku, razem ze swoim przyjacielem politycznym [Józefem Piłsudskim](/postacie/jozef-pilsudski), postawił na Austro-Węgry przeciw Rosji, wszedł do kierownictwa [Naczelnego Komitetu Narodowego](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) i bronił Legionów w Wiedniu i Berlinie. Gdy nadzieje na rozwiązanie sprawy polskiej u boku państw centralnych zawiodły, z trybuny parlamentu coraz ostrzej domagał się niepodległej i zjednoczonej Polski. W listopadzie 1918 roku stanął na czele rządu lubelskiego, pierwszego polskiego rządu, który nazwał swoje państwo republiką, a po kilku dniach oddał władzę Piłsudskiemu. Przez całe życie łączył socjalizm z patriotyzmem, co zjednywało mu szacunek jednych, a niechęć innych, zarówno na prawicy, jak i na skrajnej lewicy.

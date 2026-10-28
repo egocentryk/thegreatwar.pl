@@ -12,6 +12,9 @@ aliases: [Thomas Edward Lawrence]
 wikiTitles: [Thomas_Edward_Lawrence]
 authors: [Natalia]
 tags: [powstanie arabskie, Wielka Brytania, Imperium Osmańskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Thomas_Edward_Lawrence"
+  - "https://en.wikipedia.org/wiki/T._E._Lawrence"
 ---
 
 Thomas Edward Lawrence, znany jako „Lawrence z Arabii”, był młodym archeologiem z Oksfordu, który w czasie wielkiej wojny został najsłynniejszym brytyjskim oficerem na Bliskim Wschodzie. Od jesieni 1916 roku jako oficer łącznikowy i doradca emira [Fajsala](/postacie/fajsal-i) pomagał prowadzić powstanie arabskie przeciw Turkom: współtworzył plan marszu na Al-Wadżh, wymyślił i poprowadził wyprawę na Akabę, wysadzał pociągi Kolei Hidżaskiej i jesienią 1918 roku wjechał z Arabami do Damaszku. Jego wpływ na wojnę na pustyni był ogromny, choć mniejszy, niż głosiła legenda. Tę legendę stworzyli amerykański dziennikarz Lowell Thomas i sam Lawrence, autor „Siedmiu filarów mądrości”, jednej z najgłośniejszych książek o tej wojnie. Po wojnie walczył o sprawę arabską w Paryżu i w Londynie, a potem uciekł od sławy, służąc pod przybranym nazwiskiem jako szeregowiec w lotnictwie.

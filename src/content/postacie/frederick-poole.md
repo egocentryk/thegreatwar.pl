@@ -11,6 +11,9 @@ aliases: [Frederick Poole, Frederick Cuthbert Poole]
 wikiTitles: [Frederick_Cuthbert_Poole]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Rosja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Frederick_Cuthbert_Poole"
+  - "https://en.wikipedia.org/wiki/Frederick_Poole"
 ---
 
 Sir Frederick Cuthbert Poole był brytyjskim artylerzystą, który wojnę zaczął jako emerytowany major, a skończył jako generał odpowiedzialny za pierwszy etap sojuszniczej interwencji w Rosji. Znał ten kraj z dwóch lat służby przy armii carskiej, więc wiosną 1918 roku Londyn wysłał go do Murmańska, by bronił północnych portów i składów przed Niemcami. Poole poszedł znacznie dalej, niż chcieli Amerykanie: zajął Archangielsk, wysłał małe kolumny setki kilometrów w głąb kraju i stał się w praktyce panem regionu, w którym działał rosyjski rząd. Po kilku miesiącach jego metody zraziły sojuszniczych dyplomatów i samych Rosjan, więc w październiku odwołano go do Londynu. Krótko kierował jeszcze misją przy generale Denikinie na południu Rosji.

@@ -12,6 +12,9 @@ aliases: [Charles Mangin]
 wikiTitles: [Charles_Mangin]
 authors: [Łukasz Skowroń]
 tags: [Francja, Robert Nivelle, Ferdinand Foch]
+sources:
+  - "https://pl.wikipedia.org/wiki/Charles_Mangin"
+  - "https://en.wikipedia.org/wiki/Charles_Mangin"
 ---
 
 Charles Mangin był najbardziej ofensywnym, a zarazem najbardziej kontrowersyjnym z francuskich generałów tej wojny. Oficer piechoty kolonialnej, który połowę życia spędził w Afryce i Azji, zdobył sławę w październiku 1916 roku, gdy jego żołnierze w kilka godzin odbili pod Verdun fort Douaumont. Kilka miesięcy później, jako dowódca 6 Armii w nieudanej ofensywie generała Nivelle'a, stracił stanowisko i został jednym z kozłów ofiarnych klęski. Wrócił w 1918 roku, by poprowadzić kontratak nad Matz i kontrofensywę spod Villers-Cotterêts, która odwróciła losy drugiej bitwy nad Marną. Żołnierze i przeciwnicy polityczni nazywali go „rzeźnikiem”, a [Georges Clemenceau](/postacie/georges-clemenceau) według relacji swojego sekretarza mówił o nim, że prowadził wojnę jak żołnierz, a nie jak urzędnik, choć sam uważał, że posłuszeństwo nie było dla niego.

@@ -12,6 +12,9 @@ aliases: [John French]
 wikiTitles: [John_French]
 authors: [Łukasz Skowroń]
 tags: [John French, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/John_French"
+  - "https://en.wikipedia.org/wiki/John_French,_1st_Earl_of_Ypres"
 ---
 
 Marszałek polny sir John French dowodził Brytyjskim Korpusem Ekspedycyjnym przez pierwsze półtora roku wojny: od wyjazdu do Francji w sierpniu 1914 roku, przez Mons, Marnę i Ypres, po nieudaną ofensywę pod Loos jesienią 1915 roku. Był odważnym, lubianym przez żołnierzy kawalerzystą, który zdobył sławę w wojnie burskiej, ale wojna na kontynencie przerosła jego doświadczenie i temperament. Kłócił się z Francuzami, z ministrem wojny [lordem Kitchenerem](/postacie/horatio-kitchener) i w końcu z własnymi podwładnymi, z których jeden, [Douglas Haig](/postacie/douglas-haig), zajął jego miejsce. Później dowodził obroną Wysp, a od 1918 roku jako lord namiestnik rządził Irlandią.

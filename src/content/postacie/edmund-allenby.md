@@ -12,6 +12,9 @@ aliases: [Edmund Allenby]
 wikiTitles: [Edmund_Allenby]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Imperium Osmańskie, Brytyjski Korpus Ekspedycyjny, powstanie arabskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edmund_Allenby"
+  - "https://en.wikipedia.org/wiki/Edmund_Allenby,_1st_Viscount_Allenby"
 ---
 
 Sir Edmund Allenby, od 1919 roku marszałek polny i wicehrabia Allenby of Megiddo, miał dwie wojny. Na froncie zachodnim był jednym z wielu brytyjskich generałów: dowodził dywizją, potem korpusem kawalerii, korpusem piechoty i armią, a jego największa bitwa, pod Arras wiosną 1917 roku, zaczęła się świetnie i skończyła jak wszystkie inne, wśród rosnących strat. Uchodził za dowódcę porywczego i upartego, a Haig, jego rywal jeszcze z czasów szkoły sztabu, w końcu się go pozbył. Odesłany do Egiptu, Allenby okazał się jednym z najlepszych dowódców tej wojny. Zdobył Jerozolimę przed Bożym Narodzeniem 1917 roku, jak chciał premier, a we wrześniu 1918 roku pod Megiddo rozbił armie tureckie w Palestynie w jednej z najbardziej błyskotliwych operacji całej wojny. Jesienią 1918 roku jego wojska były w Damaszku i Aleppo, a Imperium Osmańskie prosiło o rozejm.

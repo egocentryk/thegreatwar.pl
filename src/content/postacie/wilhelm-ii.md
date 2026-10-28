@@ -12,6 +12,9 @@ aliases: [Wilhelm II]
 wikiTitles: [Wilhelm_II_Hohenzollern]
 authors: [Łukasz Skowroń]
 tags: [Wilhelm II, Niemcy, rewolucja listopadowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wilhelm_II_Hohenzollern"
+  - "https://en.wikipedia.org/wiki/Wilhelm_II"
 ---
 
 Wilhelm II przez trzydzieści lat był twarzą Cesarstwa Niemieckiego. Głośny, impulsywny i żądny uwagi, chciał uchodzić za władcę, który osobiście kieruje polityką i armią, a jego przemówienia, wywiady i kaprysy wielokrotnie wstrząsały Europą. Dla przeciwników Niemiec stał się uosobieniem pruskiego militaryzmu, „kajzerem”, którego w 1918 roku brytyjscy wyborcy chcieli powiesić. W lipcu 1914 roku jego zapewnienie, że Niemcy poprą Austro-Węgry, uruchomiło łańcuch decyzji prowadzący do wojny. W czasie samej wojny jego rola była jednak zaskakująco skromna. Formalnie był najwyższym wodzem, ale w praktyce coraz bardziej oddawał władzę generałom, aż w 1916 roku znalazł się w cieniu Hindenburga i Ludendorffa. Gdy wojna była przegrana, armia go opuściła, a on sam uciekł do Holandii, gdzie spędził ostatnie dwadzieścia dwa lata życia.

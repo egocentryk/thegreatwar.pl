@@ -12,6 +12,9 @@ aliases: [Konstantin Päts]
 wikiTitles: [Konstantin_Päts]
 authors: [Natalia]
 tags: [Estonia, Rosja, okupacja niemiecka, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Konstantin_Päts"
+  - "https://en.wikipedia.org/wiki/Konstantin_Päts"
 ---
 
 Konstantin Päts był jednym z ojców estońskiego państwa, które narodziło się w ostatnim roku wielkiej wojny między dwiema okupacjami: bolszewicką i niemiecką. W 1917 roku stanął na czele rządu autonomicznej Estonii, w lutym 1918 roku jako członek trzyosobowego Komitetu Ocalenia ogłosił niepodległość republiki i został premierem jej Rządu Tymczasowego. Niemcy, którzy dzień później weszli do Tallinna, nie uznali ani państwa, ani rządu, a Pätsa w czerwcu aresztowali i wywieźli do obozu. Gdy w listopadzie 1918 roku Rzesza przegrała wojnę, wrócił, by pokierować obroną kraju przed Armią Czerwoną. Szukał oparcia w Entencie: estońscy politycy liczyli na poparcie zachodnich mocarstw, które jako pierwsze uznały ich zgromadzenie de facto. Sama republika, proklamowana w lutym 1918 roku, ogłosiła neutralność wobec wszystkich sąsiadów.

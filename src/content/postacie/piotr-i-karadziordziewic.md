@@ -12,6 +12,9 @@ aliases: [Piotr I Karadziordziewić]
 wikiTitles: [Piotr_I_Karadziordziewić]
 authors: [Łukasz Skowroń]
 tags: [Serbia, Aleksander Karađorđević, Nikola Pašić]
+sources:
+  - "https://pl.wikipedia.org/wiki/Piotr_I_Karadziordziewić"
+  - "https://en.wikipedia.org/wiki/Peter_I_of_Serbia"
 ---
 
 Piotr I Karađorđević, po polsku Karadziordziewić, był królem Serbii przez całą wielką wojnę, ale niemal nie rządził. Cztery dni przed zamachem w Sarajewie, chory i zmęczony konfliktem polityków z oficerami, przekazał uprawnienia królewskie synowi Aleksandrowi, który jako regent i naczelny wódz prowadził kraj do końca wojny. Mimo to stary król, dawny ochotnik Legii Cudzoziemskiej i partyzant z Bośni, stał się jedną z jej najbardziej rozpoznawalnych postaci. Pojawiał się na froncie w najcięższych chwilach, a zimą 1915 roku, mając ponad siedemdziesiąt lat i niemal nie widząc, przeszedł z armią przez góry Czarnogóry i Albanii. Serbowie nazywali go królem Oswobodzicielem, a potocznie po prostu „starym królem”.

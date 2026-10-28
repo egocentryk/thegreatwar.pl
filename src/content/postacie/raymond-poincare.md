@@ -12,6 +12,9 @@ aliases: [Raymond Poincaré]
 wikiTitles: [Raymond_Poincaré]
 authors: [Natalia]
 tags: [Raymond Poincaré, Francja, Georges Clemenceau]
+sources:
+  - "https://pl.wikipedia.org/wiki/Raymond_Poincaré"
+  - "https://en.wikipedia.org/wiki/Raymond_Poincaré"
 ---
 
 Raymond Poincaré był prezydentem Francji przez całą wojnę. Prawnik i polityk umiarkowanego centrum, pochodził z Lotaryngii i od dziecka pamiętał niemiecką okupację po klęsce 1870 roku. Jako premier i prezydent umacniał sojusz z Rosją, a w lipcu 1914 roku odwiedził Petersburg, kilka dni przed wybuchem wojny. To on w sierpniu wezwał Francuzów do „świętej jedności” wszystkich stronnictw. Konstytucja III Republiki dawała prezydentowi niewielką władzę, a w pierwszych latach wojny decyzje wojskowe przejął naczelny wódz Joseph Joffre. Poincaré był jednak wytrwałym obserwatorem, doradcą i pośrednikiem między rządami, generałami i sojusznikami. W listopadzie 1917 roku dokonał najważniejszego wyboru swojej prezydentury: powierzył rząd Georges'owi Clemenceau, którego nie znosił, ale który obiecywał zwycięstwo.

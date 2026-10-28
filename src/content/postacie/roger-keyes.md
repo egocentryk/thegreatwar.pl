@@ -12,6 +12,9 @@ aliases: [Roger Keyes]
 wikiTitles: [Roger_Keyes]
 authors: [Łukasz Skowroń]
 tags: [Royal Navy, Wielka Brytania, Dardanele, okręty podwodne]
+sources:
+  - "https://pl.wikipedia.org/wiki/Roger_Keyes"
+  - "https://en.wikipedia.org/wiki/Roger_Keyes,_1st_Baron_Keyes"
 ---
 
 Sir Roger Keyes był najbardziej zadziornym z brytyjskich admirałów pierwszej wojny światowej. Zawsze szukał bitwy, zawsze proponował śmielsze rozwiązanie i nie znosił czekania. W sierpniu 1914 roku współtworzył plan pierwszego zwycięstwa Royal Navy [w Zatoce Helgolandzkiej](/bitwy/bitwa-w-zatoce-helgolandzkiej), w 1915 roku jako szef sztabu floty pod Dardanelami do końca przekonywał, że okręty mogą przedrzeć się przez cieśniny, a w 1918 roku jako dowódca Patrolu Dover poprowadził [rajd na Zeebrugge](/rajd-na-zeebrugge), najsłynniejszą akcję brytyjskiej marynarki w tej wojnie. Dla współczesnych był bohaterem w duchu Nelsona. Historycy cenią jego odwagę i energię, ale zwracają uwagę, że jego plany często obiecywały więcej, niż mogły dać.

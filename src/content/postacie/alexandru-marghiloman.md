@@ -13,6 +13,9 @@ aliases: [Alexandru Marghiloman]
 wikiTitles: [Alexandru_Marghiloman]
 authors: [Natalia]
 tags: [Rumunia, Ferdynand I Rumuński, inicjatywy pokojowe, Ottokar Czernin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alexandru_Marghiloman"
+  - "https://en.wikipedia.org/wiki/Alexandru_Marghiloman"
 ---
 
 Alexandru Marghiloman był ostatnim przywódcą starej rumuńskiej Partii Konserwatywnej i najbardziej znanym w Rumunii zwolennikiem dobrych stosunków z Niemcami. W latach 1914–1916 sprzeciwiał się wojnie po stronie Ententy, a gdy król i rząd uciekli przed najeźdźcą do Mołdawii, został w okupowanym Bukareszcie. Wiosną 1918 roku, gdy Rumunia, odcięta od sojuszników przez rewolucję w Rosji, musiała prosić o pokój, król powierzył mu rząd. Marghiloman podpisał upokarzający pokój bukareszteński, ale jego gabinet przyjął też unię Besarabii z Rumunią. Do końca życia uważał, że uratował państwo, dynastię i armię. Dla większości rodaków pozostał „człowiekiem Niemców”, a jego rządy szybko przykryło zwycięstwo Ententy. Prowadzony przez niego przez blisko trzydzieści lat dziennik polityczny jest jednym z najważniejszych źródeł do dziejów Rumunii w czasie wielkiej wojny.

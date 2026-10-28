@@ -12,6 +12,9 @@ aliases: [Mychajło Hruszewski]
 wikiTitles: [Mychajło_Hruszewski]
 authors: [Łukasz Skowroń]
 tags: [Ukraina, Rosja, rewolucja lutowa, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Mychajło_Hruszewski"
+  - "https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky"
 ---
 
 Mychajło Hruszewski był historykiem, który napisał dzieje Ukrainy jako dzieje osobnego narodu, a potem przez rok stał na czele ukraińskiej rewolucji. W czasie wojny władze rosyjskie uznały go za austriackiego agenta i zesłały w głąb Rosji. Po rewolucji lutowej wrócił do Kijowa jako niekwestionowany autorytet ruchu narodowego i przewodniczący [Ukraińskiej Centralnej Rady](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada). Przez większość 1917 roku chciał autonomii Ukrainy w federacyjnej, demokratycznej Rosji. W styczniu 1918 roku, gdy na Kijów szły wojska bolszewików, to on odczytał uniwersał, który ogłosił niepodległość. Rada zawarła pokój z państwami centralnymi i wróciła do Kijowa pod osłoną ich wojsk, ale Niemcy szybko się jej pozbyli. Nie był jednak człowiekiem Berlina: był socjalistą i federalistą, a po pomoc Niemców sięgnął z konieczności, gdy republika traciła kraj.

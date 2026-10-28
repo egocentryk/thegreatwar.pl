@@ -12,6 +12,9 @@ aliases: [Karol I Habsburg, Karol I, arcyksiążę Karol]
 wikiTitles: [Karol_I_Habsburg]
 authors: [Łukasz Skowroń]
 tags: [Karol I Habsburg, Austro-Węgry, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Karol_I_Habsburg"
+  - "https://en.wikipedia.org/wiki/Charles_I_of_Austria"
 ---
 
 Karol I był ostatnim władcą z dynastii Habsburgów. Na tron wstąpił w listopadzie 1916 roku, w środku wojny, jako 29-latek, po prawie 68 latach panowania swojego stryjecznego dziadka [Franciszka Józefa I](/postacie/franciszek-jozef-i). Od pierwszych dni był przekonany, że przedłużająca się wojna zniszczy monarchię: zwycięstwo Niemiec uczyniłoby z niej satelitę Rzeszy, a zwycięstwo Ententy groziło jej rozbiorem. Wymienił niemal wszystkich ludzi poprzednika, sam objął naczelne dowództwo, przywrócił parlament i potajemnie szukał odrębnego pokoju z Francją. Gdy wiosną 1918 roku jego list do szwagra, księcia Sykstusa, wyszedł na jaw, monarchia straciła resztki zaufania w Berlinie i u aliantów. Jesienią 1918 roku państwo rozpadło się na państwa narodowe, a Karol, który nigdy formalnie nie abdykował, zmarł na wygnaniu w wieku 34 lat. Dla jednych był człowiekiem dobrej woli, który jako jedyny z monarchów walczących państw naprawdę chciał pokoju, dla innych władcą słabym i niekonsekwentnym, którego pomysły przyszły za późno.

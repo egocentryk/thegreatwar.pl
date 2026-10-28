@@ -12,6 +12,9 @@ aliases: [Alexandre Millerand]
 wikiTitles: [Alexandre_Millerand]
 authors: [Natalia]
 tags: [Alexandre Millerand, Francja, Joseph Joffre]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alexandre_Millerand"
+  - "https://en.wikipedia.org/wiki/Alexandre_Millerand"
 ---
 
 Alexandre Millerand był ministrem wojny Francji w pierwszym, najcięższym roku wojny. Objął urząd w sierpniu 1914 roku, gdy armie francuskie cofały się po przegranych bitwach granicznych, i kierował nim do października 1915 roku. Rolę ministra pojmował jako służbę naczelnemu wodzowi: chronił generała Joffre'a przed parlamentem, popierał cenzurę i zgadzał się na szerokie uprawnienia wojska. Zarazem musiał zorganizować produkcję amunicji i broni dla wojny, do której Francja nie była przygotowana. Za braki uzbrojenia, porażki ofensyw i sprawę generała Sarraila zapłacił stanowiskiem. Kilka lat później był premierem, a potem prezydentem Francji, i jako szef rządu w 1920 roku wysłał do Polski misję wojskową w czasie wojny z bolszewikami.

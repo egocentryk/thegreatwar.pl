@@ -12,6 +12,9 @@ aliases: [John Jellicoe]
 wikiTitles: [John_Jellicoe]
 authors: [Łukasz Skowroń]
 tags: [John Jellicoe, Royal Navy, Grand Fleet, okręty podwodne]
+sources:
+  - "https://pl.wikipedia.org/wiki/John_Jellicoe"
+  - "https://en.wikipedia.org/wiki/John_Jellicoe,_1st_Earl_Jellicoe"
 ---
 
 John Rushworth Jellicoe przez ponad dwa lata dowodził [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), największą flotą wojenną świata, od której zależało, czy Wielka Brytania utrzyma panowanie na morzu, blokadę Niemiec i dowóz żywności z zamorskich krajów. Jako jedyny brytyjski dowódca stanął na czele całej floty liniowej w bitwie z niemiecką [Flotą Pełnomorską](https://pl.wikipedia.org/wiki/Hochseeflotte). Pod Jutlandią w 1916 roku nie odniósł oczekiwanego przez kraj zwycięstwa, ale nie dopuścił do klęski i zachował przewagę, której Niemcy już nigdy nie zakwestionowali. Potem jako pierwszy lord morski, czyli zawodowy szef Royal Navy, prowadził walkę z nieograniczoną wojną podwodną w jej najgroźniejszym okresie. Długo nie wierzył w konwoje, a pod koniec 1917 roku premier, który uważał go za pesymistę, doprowadził do jego odwołania. Spór o jego ostrożność trwa do dziś.

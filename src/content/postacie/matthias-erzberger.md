@@ -12,6 +12,9 @@ aliases: [Matthias Erzberger]
 wikiTitles: [Matthias_Erzberger]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, inicjatywy pokojowe, polityka wewnętrzna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Matthias_Erzberger"
+  - "https://en.wikipedia.org/wiki/Matthias_Erzberger"
 ---
 
 Matthias Erzberger był najbardziej ruchliwym, najbardziej wpływowym i najbardziej znienawidzonym niemieckim parlamentarzystą czasów wojny. Syn wiejskiego krawca z Wirtembergii, poseł katolickiego [Centrum](https://pl.wikipedia.org/wiki/Niemiecka_Partia_Centrum), w 1914 roku układał programy wielkich aneksji, a trzy lata później jako jeden z pierwszych polityków powiedział publicznie, że Niemcy wojny nie wygrają. Był autorem lipcowej rezolucji pokojowej Reichstagu, przyczynił się do upadku dwóch kanclerzy, a 11 listopada 1918 roku jako przewodniczący niemieckiej delegacji podpisał rozejm w lesie Compiègne. Prawica uczyniła go symbolem „zdrady”, która rzekomo odebrała Niemcom zwycięstwo. W 1921 roku zamordowali go nacjonalistyczni zamachowcy.

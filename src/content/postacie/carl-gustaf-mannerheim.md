@@ -12,6 +12,9 @@ aliases: [Carl Gustaf Mannerheim, Carl Gustaf Emil Mannerheim]
 wikiTitles: [Carl_Gustaf_Emil_Mannerheim]
 authors: [Łukasz Skowroń]
 tags: [Finlandia, Rosja, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim"
+  - "https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim"
 ---
 
 Carl Gustaf Emil Mannerheim przeżył wielką wojnę w dwóch zupełnie różnych rolach. Do jesieni 1917 roku był generałem armii rosyjskiej, dowódcą kawalerii, który walczył z Austriakami i Niemcami w Polsce, Galicji, na Wołyniu i w Rumunii, a portret cesarza Mikołaja II trzymał w salonie do końca życia. Od stycznia 1918 roku był wodzem fińskich białych, którzy w krwawej wojnie domowej pokonali czerwonych, a w grudniu tego roku został regentem niepodległej Finlandii. Na tej stronie biało-czerwonego podziału postawił go nie wybór sojuszu, lecz wojna z bolszewizmem. Z Niemcami, na których pomoc liczył rząd w Vaasie, współpracował niechętnie i odszedł, gdy Finlandia zaczęła się im podporządkowywać. Dlatego to właśnie jego, a nie proniemieckich polityków, Finlandia wysłała po klęsce Niemiec do zwycięskiej Ententy. Pole „strona” tej strony, ustawione na państwa centralne, opisuje więc raczej obóz, w którym znalazła się biała Finlandia w 1918 roku, niż poglądy samego Mannerheima.

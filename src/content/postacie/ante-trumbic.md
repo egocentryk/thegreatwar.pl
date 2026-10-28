@@ -12,6 +12,9 @@ aliases: [Ante Trumbić]
 wikiTitles: [Ante_Trumbić]
 authors: [Łukasz Skowroń]
 tags: [Serbia, Austro-Węgry, Włochy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ante_Trumbić"
+  - "https://en.wikipedia.org/wiki/Ante_Trumbić"
 ---
 
 Ante Trumbić był najważniejszym rzecznikiem południowych Słowian z monarchii habsburskiej w obozie sprzymierzonych. Adwokat i były burmistrz Splitu, poddany austriacki, po wybuchu wojny wyjechał na emigrację i od 1915 roku przewodniczył [Komitetowi Jugosłowiańskiemu](https://pl.wikipedia.org/wiki/Komitet_Jugosłowiański) w Londynie. Przez cztery lata walczył na dwa fronty: z Włochami, którym sprzymierzeni obiecali wschodnie wybrzeże Adriatyku, i z premierem Serbii [Nikolą Pašiciem](/postacie/nikola-pasic), który chciał zjednoczenia na serbskich warunkach. Podpisał z Pašiciem [deklarację z Korfu](/deklaracja-z-korfu), a w listopadzie 1918 roku w Genewie na kilka dni wymusił na nim zgodę na równorzędne partnerstwo. Państwo, które w końcu powstało, nie było jednak tym, o które zabiegał.

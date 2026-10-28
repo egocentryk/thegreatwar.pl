@@ -12,6 +12,9 @@ aliases: [Joseph Gallieni]
 wikiTitles: [Joseph_Gallieni]
 authors: [Natalia]
 tags: [Joseph Gallieni, Francja, Paryż, Joseph Joffre]
+sources:
+  - "https://pl.wikipedia.org/wiki/Joseph_Gallieni"
+  - "https://en.wikipedia.org/wiki/Joseph_Gallieni"
 ---
 
 Joseph Gallieni był w 1914 roku emerytowanym generałem, najsłynniejszym żołnierzem kolonialnym Francji i dawnym przełożonym naczelnego wodza Josepha Joffre'a. Pod koniec sierpnia, gdy Niemcy zbliżali się do Paryża, powierzono mu obronę stolicy. Na początku września jako jeden z pierwszych dostrzegł, że niemiecka 1 Armia odsłoniła skrzydło, i naciskał na natychmiastowe uderzenie. Z tego manewru wyrosła bitwa nad Marną, a wysłane przez niego na front paryskie taksówki stały się jedną z legend wojny. Jesienią 1915 roku został ministrem wojny i próbował poddać kwaterę główną kontroli rządu. Przegrał ten spór, ciężko chory ustąpił w marcu 1916 roku i dwa miesiące później zmarł. O to, ile zwycięstwa nad Marną należy się jemu, a ile Joffre'owi, Francuzi spierali się przez dziesięciolecia.

@@ -12,6 +12,9 @@ aliases: [Maxime Weygand]
 wikiTitles: [Maxime_Weygand]
 authors: [Natalia]
 tags: [Ferdinand Foch, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Maxime_Weygand"
+  - "https://en.wikipedia.org/wiki/Maxime_Weygand"
 ---
 
 Maxime Weygand przeszedł całą wojnę u boku [Ferdinanda Focha](/postacie/ferdinand-foch). Od końca sierpnia 1914 roku był jego szefem sztabu w 9 Armii, potem w Grupie Armii Północ i w kolejnych dowództwach, a wiosną 1918 roku, gdy Foch został wodzem armii sprzymierzonych, stanął na czele jego sztabu. Przez cztery lata zamieniał myśli i polecenia swojego szefa w jasne rozkazy, rozmawiał w jego imieniu z Brytyjczykami i Amerykanami i łagodził spory, które Foch wywoływał swoją porywczością. Sam ani razu nie dowodził wojskiem w polu. W listopadzie 1918 roku to on w wagonie w lesie Compiègne odczytał Niemcom warunki rozejmu i on omawiał z nimi szczegóły. Po wojnie stał się jednym z najważniejszych generałów Francji, a w 1940 roku dostał naczelne dowództwo w beznadziejnym położeniu i opowiedział się za zawieszeniem broni z Niemcami. Ta późniejsza rola przesłoniła w pamięci Francuzów lata, w których był najbliższym współpracownikiem zwycięzcy z 1918 roku.

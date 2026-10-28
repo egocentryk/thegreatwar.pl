@@ -12,6 +12,9 @@ aliases: [Otto Liman von Sanders]
 wikiTitles: [Otto_Liman_von_Sanders]
 authors: [Natalia]
 tags: [Otto Liman von Sanders, Imperium Osmańskie, Dardanele, Niemcy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Otto_Liman_von_Sanders"
+  - "https://en.wikipedia.org/wiki/Otto_Liman_von_Sanders"
 ---
 
 Otto Liman von Sanders spędził całą I wojnę światową w służbie tureckiej. Przyjechał do Konstantynopola pod koniec 1913 roku jako szef niemieckiej misji wojskowej, która miała zreformować armię osmańską po klęskach w wojnach bałkańskich, i już samym przyjazdem wywołał międzynarodowy kryzys. W 1915 roku dowodził 5 Armią, która obroniła półwysep Gallipoli przed desantem sprzymierzonych, co było największym zwycięstwem Turcji w tej wojnie. W 1918 roku objął front w Palestynie i Syrii, gdzie jego armie zostały rozbite przez Brytyjczyków pod Megiddo. Był jedynym wysokim niemieckim dowódcą, który przez cały czas wojny dowodził wojskami osmańskimi, a jego stosunki z tureckimi przywódcami i z niemieckimi dyplomatami były niemal zawsze napięte.

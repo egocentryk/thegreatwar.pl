@@ -12,6 +12,9 @@ aliases: [Tomáš Masaryk, Tomáš Garrigue Masaryk]
 wikiTitles: [Tomáš_Masaryk]
 authors: [Łukasz Skowroń]
 tags: [Czechosłowacy, Austro-Węgry, Stany Zjednoczone, Woodrow Wilson]
+sources:
+  - "https://pl.wikipedia.org/wiki/Tomáš_Masaryk"
+  - "https://en.wikipedia.org/wiki/Tomáš_Masaryk"
 ---
 
 Tomáš Garrigue Masaryk w chwili wybuchu wojny miał 64 lata, był profesorem filozofii na czeskim uniwersytecie w Pradze i posłem do wiedeńskiego parlamentu, znanym bardziej z polemik niż z wpływów politycznych. Przez następne cztery lata, bez państwa, pieniędzy i formalnego mandatu, przekonywał rządy Ententy, że Austro-Węgry należy rozbić, a na ich gruzach powołać niepodległe państwo Czechów i Słowaków. Stanął na czele emigracyjnej Czechosłowackiej Rady Narodowej, w Rosji zbudował z jeńców wojennych armię, a w Stanach Zjednoczonych zabiegał o poparcie prezydenta Wilsona. W listopadzie 1918 roku, jeszcze za oceanem, został wybrany pierwszym prezydentem Czechosłowacji. Czesi nazwali go „prezydentem wyzwolicielem”, a historycy do dziś spierają się tylko o to, jak wiele z upadku monarchii habsburskiej było jego zasługą, a jak wiele skutkiem klęski militarnej państw centralnych.

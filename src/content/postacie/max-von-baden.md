@@ -12,6 +12,9 @@ aliases: [Max von Baden, Max Badeński]
 wikiTitles: [Max_von_Baden]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, inicjatywy pokojowe, polityka wewnętrzna, rewolucja listopadowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Max_von_Baden"
+  - "https://en.wikipedia.org/wiki/Prince_Maximilian_of_Baden"
 ---
 
 Książę Maksymilian Badeński, powszechnie zwany Maksem von Baden, był ostatnim kanclerzem Cesarstwa Niemieckiego. Urząd sprawował zaledwie pięć tygodni, od 3 października do 9 listopada 1918 roku, ale w tym krótkim czasie zmieściło się więcej przełomów niż w całych wcześniejszych latach wojny. Jego rząd wysłał prezydentowi Stanów Zjednoczonych prośbę o rozejm, po raz pierwszy wpuścił do władzy socjaldemokratów, przeprowadził reformy, które uczyniły z Niemiec monarchię parlamentarną, i doprowadził do odwołania generała Ericha Ludendorffa. 9 listopada, gdy rewolucja dotarła do Berlina, książę na własną rękę ogłosił abdykację cesarza i przekazał urząd przywódcy socjaldemokratów. Chciał ocalić monarchię, a mimo woli otworzył drogę republice. Arystokrata i generał bez doświadczenia politycznego, przez jednych uważany za szlachetnego liberała, przez innych za człowieka słabego i zagubionego, do dziś budzi wśród historyków sprzeczne oceny.

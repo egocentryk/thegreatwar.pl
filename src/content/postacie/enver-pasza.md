@@ -12,6 +12,9 @@ aliases: [Enver Pasza, İsmail Enver]
 wikiTitles: [İsmail_Enver, Enver_Pasza]
 authors: [Natalia]
 tags: [Enver Pasza, Imperium Osmańskie, Kaukaz, ludobójstwo Ormian]
+sources:
+  - "https://pl.wikipedia.org/wiki/İsmail_Enver"
+  - "https://en.wikipedia.org/wiki/Enver_Pasha"
 ---
 
 İsmail Enver, znany jako Enver Pasza, był najmłodszym i najbardziej porywczym z trzech przywódców młodotureckich, którzy rządzili Imperium Osmańskim w czasie wielkiej wojny. Obok ministra spraw wewnętrznych, a później wielkiego wezyra Talata i ministra marynarki Dżemala tworzył triumwirat, w którym odpowiadał za armię. W wieku 32 lat został ministrem wojny i szefem sztabu generalnego, a po wybuchu wojny zastępcą sułtana jako wodza naczelnego. To on najmocniej parł do sojuszu z Niemcami i do wojny z Rosją. Zimą 1914 roku sam poprowadził armię pod Sarykamysz, gdzie zginęła ona w śniegu. Historycy zaliczają go do głównych sprawców ludobójstwa Ormian. Po klęsce uciekł z kraju, sąd w Konstantynopolu skazał go zaocznie na śmierć, a zginął w 1922 roku w Azji Środkowej, walcząc z bolszewikami.

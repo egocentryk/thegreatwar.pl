@@ -12,6 +12,9 @@ aliases: [książę Aosty Emanuele Filiberto, Emanuele Filiberto]
 wikiTitles: [Emanuel_Filiberto_d’Aosta]
 authors: [Łukasz Skowroń]
 tags: [Włochy, Austro-Węgry, Luigi Cadorna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Emanuel_Filiberto_d’Aosta"
+  - "https://en.wikipedia.org/wiki/Prince_Emanuele_Filiberto,_Duke_of_Aosta"
 ---
 
 Emanuele Filiberto, drugi książę Aosty, był jedynym spośród włoskich dowódców armii z maja 1915 roku, który utrzymał stanowisko do końca wojny. Od pierwszego dnia walk z Austro-Węgrami w maju 1915 roku do zawieszenia broni w listopadzie 1918 roku dowodził 3 Armią, która na płaskowyżu Kras i pod Gorycją toczyła najkrwawsze z bitew nad Soczą, a potem broniła dolnej Piawy. Jego armia zdobyła Gorycję w sierpniu 1916 roku, a jesienią 1917 roku, gdy pod Caporetto rozpadała się sąsiednia 2 Armia, wycofała się w porządku nad Piawę. Stąd wziął się przydomek „niezwyciężonego księcia” (Duca invitto) i „niezwyciężonej armii”. Jako kuzyn króla [Wiktora Emanuela III](/postacie/wiktor-emanuel-iii) i, przez kilka lat, możliwy następca tronu, był też postacią polityczną: dla jednych symbolem wojennego zwycięstwa, dla króla rywalem, którego popularność budziła niepokój.

@@ -12,6 +12,9 @@ aliases: [Erich von Falkenhayn]
 wikiTitles: [Erich_von_Falkenhayn]
 authors: [Łukasz Skowroń]
 tags: [Erich von Falkenhayn, Niemcy, Rumunia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Erich_von_Falkenhayn"
+  - "https://en.wikipedia.org/wiki/Erich_von_Falkenhayn"
 ---
 
 Erich von Falkenhayn kierował armią niemiecką przez prawie dwa lata, od klęski nad Marną do sierpnia 1916 roku. Wcześniej niż większość niemieckich generałów zrozumiał, że Niemcy nie zdołają pokonać wszystkich przeciwników naraz i że wojnę może zakończyć tylko korzystny kompromis. Z tego przekonania wyrosła jego strategia wyczerpania: ograniczone ofensywy na wschodzie, obrona na zachodzie i jedno wielkie uderzenie, które miało złamać Francję. Uderzeniem tym była bitwa pod Verdun, która pochłonęła setki tysięcy ludzi po obu stronach i nie przyniosła rozstrzygnięcia. Po dymisji Falkenhayn w kilka miesięcy rozbił armię rumuńską, ale w Palestynie nie zdołał powstrzymać Brytyjczyków. Do dziś pozostaje jedną z najbardziej spornych postaci niemieckiego dowództwa.

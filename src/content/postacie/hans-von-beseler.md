@@ -12,6 +12,9 @@ aliases: [Hans von Beseler, Hans Hartwig von Beseler]
 wikiTitles: [Hans_Hartwig_von_Beseler]
 authors: [Natalia]
 tags: [Niemcy, Królestwo Polskie, okupacja niemiecka, Antwerpia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Hans_Hartwig_von_Beseler"
+  - "https://en.wikipedia.org/wiki/Hans_Hartwig_von_Beseler"
 ---
 
 Hans Hartwig von Beseler zapisał się w historii I wojny światowej dwa razy. Najpierw jako specjalista od twierdz, który w 1914 roku w niespełna dwa tygodnie zdobył Antwerpię, a w 1915 roku w tydzień Nowogieorgijewsk, dzisiejszy Modlin. Potem jako niemiecki generał-gubernator w Warszawie, który przez ponad trzy lata rządził okupowaną częścią Królestwa Polskiego. To on 5 listopada 1916 roku odczytał na Zamku Królewskim manifest zapowiadający utworzenie Królestwa Polskiego i on próbował zbudować polską armię u boku Niemiec. Jego plan się nie powiódł: Polacy nie chcieli walczyć za państwa centralne, a w listopadzie 1918 roku Beseler musiał uciekać z Warszawy w przebraniu.

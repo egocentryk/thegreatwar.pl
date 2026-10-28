@@ -13,6 +13,9 @@ aliases: [Husajn ibn Ali]
 wikiTitles: [Husajn_Ibn_Ali]
 authors: [Natalia]
 tags: [powstanie arabskie, Imperium Osmańskie, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Husajn_Ibn_Ali"
+  - "https://en.wikipedia.org/wiki/Hussein,_King_of_Hejaz"
 ---
 
 Husajn ibn Ali, szarif i emir Mekki z rodu [Haszymitów](https://pl.wikipedia.org/wiki/Haszymici), był strażnikiem najświętszych miast islamu, który w czerwcu 1916 roku wypowiedział posłuszeństwo sułtanowi i kalifowi w Konstantynopolu. Jego powstanie, wsparte brytyjskim złotem, bronią i okrętami, odebrało Turkom Hidżaz, a potem, prowadzone przez jego synów, dotarło aż do Damaszku i Aleppo. Dla państw centralnych był to cios propagandowy, bo potomek Proroka stanął po stronie chrześcijańskich mocarstw przeciw ogłoszonemu przez sułtana dżihadowi. Husajn liczył, że w nagrodę stanie na czele wielkiego państwa arabskiego. Dostał tytuł króla Hidżazu, a po wojnie poczuł się oszukany przez sojuszników, z którymi zerwał. W 1924 roku, opuszczony przez Brytyjczyków, przegrał wojnę z Ibn Saudem i zmarł na wygnaniu.

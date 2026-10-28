@@ -12,6 +12,9 @@ aliases: [Luigi Cadorna]
 wikiTitles: [Luigi_Cadorna]
 authors: [Łukasz Skowroń]
 tags: [Luigi Cadorna, Włochy, Austro-Węgry]
+sources:
+  - "https://pl.wikipedia.org/wiki/Luigi_Cadorna"
+  - "https://en.wikipedia.org/wiki/Luigi_Cadorna"
 ---
 
 Luigi Cadorna dowodził armią włoską od pierwszego dnia wojny z Austro-Węgrami do jesieni 1917 roku i przez dwa i pół roku miał we Włoszech władzę, jakiej nie miał żaden inny dowódca w krajach Ententy. Formalnie był tylko szefem sztabu, a armią w imieniu króla dowodził, nie dopuszczając do niej ani rządu, ani parlamentu. Prowadził wojnę na wyczerpanie nad Soczą: jedenaście ofensyw, w których Włosi tracili setki tysięcy ludzi, by przesunąć front o kilka czy kilkanaście kilometrów. W sierpniu 1916 roku zdobył Gorycję, a latem 1917 roku doprowadził Austro-Węgry na skraj wyczerpania, ale jesienią tego roku niemiecko-austriacka ofensywa pod Caporetto zepchnęła jego armię nad Piawę. Bezwzględny wobec żołnierzy i podwładnych, nieufny wobec polityków, po wojnie stał się dla wielu Włochów symbolem okrucieństwa i niekompetencji, dla innych zaś surowym, ale ofiarnym wodzem, który zbudował armię zdolną do zwycięstwa.

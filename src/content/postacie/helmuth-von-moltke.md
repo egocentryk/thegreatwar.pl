@@ -12,6 +12,9 @@ aliases: [Helmuth von Moltke]
 wikiTitles: [Helmuth_Johannes_Ludwig_von_Moltke]
 authors: [Natalia]
 tags: [Helmuth von Moltke, Niemcy, Wilhelm II]
+sources:
+  - "https://pl.wikipedia.org/wiki/Helmuth_Johannes_Ludwig_von_Moltke"
+  - "https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Younger"
 ---
 
 Helmuth von Moltke, zwany młodszym, przez osiem lat przygotowywał armię niemiecką do wielkiej wojny, a potem przez sześć tygodni nią dowodził. Odziedziczył po poprzedniku plan, który miał w ciągu kilku tygodni rozbić Francję, zanim zmobilizuje się Rosja, i w sierpniu 1914 roku wprowadził go w życie. W kryzysie lipcowym należał do tych, którzy najmocniej naciskali na wojnę, ale gdy już wybuchła, nie udźwignął ciężaru dowodzenia. Klęska nad Marną we wrześniu 1914 roku przekreśliła niemiecką nadzieję na szybkie zwycięstwo, a jego samego złamała. Historycy do dziś spierają się, ile w tej klęsce było jego winy, a ile wad samego planu.

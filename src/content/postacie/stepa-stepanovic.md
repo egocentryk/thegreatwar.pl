@@ -12,6 +12,9 @@ aliases: [Stepa Stepanović]
 wikiTitles: [Stepa_Stepanović]
 authors: [Łukasz Skowroń]
 tags: [Stepa Stepanović, Serbia, Austro-Węgry, Bułgaria]
+sources:
+  - "https://pl.wikipedia.org/wiki/Stepa_Stepanović"
+  - "https://en.wikipedia.org/wiki/Stepa_Stepanović"
 ---
 
 Stepa Stepanović przeszedł całą wielką wojnę na czele tej samej, serbskiej 2 Armii. Jego 2 Armia odniosła w sierpniu 1914 roku na górze Cer pierwsze zwycięstwo aliantów w tej wojnie, w grudniu tego samego roku szła w pierwszej linii na Belgrad, jesienią 1915 roku przez kilka tygodni powstrzymywała Bułgarów, a we wrześniu 1918 roku przełamała front pod Dobrym Polem, co w ciągu dwóch tygodni wyeliminowało z wojny Bułgarię. Syn chłopa spod Belgradu, surowy dla oficerów i bliski żołnierzom, unikający dziennikarzy i polityki, w Serbii do dziś jest jednym z najpopularniejszych bohaterów narodowych.

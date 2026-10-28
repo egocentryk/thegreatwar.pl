@@ -12,6 +12,9 @@ aliases: [Max Hoffmann]
 wikiTitles: [Max_Hoffmann]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Erich Ludendorff, Prusy Wschodnie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Max_Hoffmann"
+  - "https://en.wikipedia.org/wiki/Max_Hoffmann"
 ---
 
 Max Hoffmann nigdy nie dowodził armią, a mimo to należał do ludzi, którzy najmocniej wpłynęli na losy frontu wschodniego. W sierpniu 1914 roku, jako podpułkownik w sztabie 8 Armii, przygotował plan, według którego Niemcy rozbili Rosjan pod Tannenbergiem. Przez następne dwa lata był najbliższym współpracownikiem Hindenburga i Ludendorffa, a od 1916 roku, jako szef sztabu księcia Leopolda Bawarskiego, faktycznie kierował całym frontem od Bałtyku po Karpaty. Pod koniec 1917 roku to on rozmawiał z bolszewikami o rozejmie, a na konferencji w Brześciu Litewskim stał się dla Rosjan uosobieniem niemieckiej siły. Jego wspomnienia i dzienniki do dziś kształtują obraz wojny na wschodzie, także przez to, jak bezlitośnie ocenił w nich swoich przełożonych.

@@ -12,6 +12,9 @@ aliases: [Pawło Skoropadski]
 wikiTitles: [Pawło_Skoropadski]
 authors: [Łukasz Skowroń]
 tags: [Ukraina, okupacja niemiecka, Niemcy, Rosja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Pawło_Skoropadski"
+  - "https://en.wikipedia.org/wiki/Pavlo_Skoropadsky"
 ---
 
 Pawło Skoropadski był jedną z najbardziej niezwykłych postaci wschodniego frontu. Arystokrata z rodu kozackiej starszyzny, oficer gwardii i adiutant cara, przez trzy lata wojny dowodził rosyjską kawalerią przeciw Niemcom, a w 1918 roku z ich pomocą został hetmanem Ukrainy. Nie był formalnie sojusznikiem państw centralnych, ale jego władza od pierwszego do ostatniego dnia opierała się na wojskach niemieckich i austro-węgierskich, które przyszły na Ukrainę po zboże obiecane w Brześciu. Przez siedem i pół miesiąca budował w Kijowie państwo z własną administracją, szkołami i akademią nauk, a zarazem przywracał ziemianom majątki i patrzył, jak okupanci wywożą żywność. Gdy Niemcy przegrali wojnę, jego Państwo Ukraińskie runęło w ciągu miesiąca. Ukraińska lewica uważała go za marionetkę Berlina, monarchiści za twórcę pierwszego sprawnego ukraińskiego państwa. Historycy do dziś ważą obie te oceny.

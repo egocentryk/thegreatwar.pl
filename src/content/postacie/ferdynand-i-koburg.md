@@ -12,6 +12,9 @@ aliases: [Ferdynand I Koburg]
 wikiTitles: [Ferdynand_I_Koburg]
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, Serbia, Rumunia, neutralność]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ferdynand_I_Koburg"
+  - "https://en.wikipedia.org/wiki/Ferdinand_I_of_Bulgaria"
 ---
 
 Ferdynand z dynastii Sachsen-Coburg-Gotha rządził Bułgarią przez 31 lat, dłużej niż jakikolwiek inny monarcha nowożytnego państwa bułgarskiego. Najpierw był księciem, a od 1908 roku carem. Niemiecki arystokrata wychowany w Wiedniu, katolik na tronie prawosławnego kraju, uchodził za najzręczniejszego i najbardziej przebiegłego polityka na Bałkanach. Za granicą nazywano go „lisem”. Ogłosił niepodległość Bułgarii i zbudował jej armię, ale dwukrotnie poprowadził kraj do wojen, które skończyły się narodową katastrofą: w 1913 roku i w latach 1915–1918. Jesienią 1915 roku to przede wszystkim on przesądził o tym, że Bułgaria stanęła po stronie państw centralnych. Był też pierwszym z monarchów tego obozu, który stracił tron.

@@ -12,6 +12,9 @@ aliases: [Georges Clemenceau]
 wikiTitles: [Georges_Clemenceau]
 authors: [Łukasz Skowroń]
 tags: [Georges Clemenceau, Francja, Ferdinand Foch]
+sources:
+  - "https://pl.wikipedia.org/wiki/Georges_Clemenceau"
+  - "https://en.wikipedia.org/wiki/Georges_Clemenceau"
 ---
 
 Georges Clemenceau objął rząd Francji w listopadzie 1917 roku, w najgorszym momencie wojny. Armia ledwie otrząsnęła się po buntach, Rosja wypadała z wojny, Włosi cofali się po Caporetto, a kraj żył aferami szpiegowskimi i pogłoskami o kompromisowym pokoju. 76-letni radykał, lekarz z wykształcenia i dziennikarz z zamiłowania, przez trzy lata był najostrzejszym krytykiem kolejnych gabinetów. Jako premier i minister wojny zapowiedział „wojnę, nic tylko wojnę”: rozprawił się z politykami podejrzanymi o defetyzm, przywrócił zaufanie do władzy, a wiosną 1918 roku, w czasie wielkich ofensyw niemieckich, poparł powierzenie dowództwa nad armiami sprzymierzonymi generałowi Fochowi. Francuzi nazwali go „Ojcem Zwycięstwa”. Jako przewodniczący konferencji pokojowej w Paryżu był jednym z twórców traktatu wersalskiego, który jedni uważali za zbyt surowy, a inni, w tym on sam pod koniec życia, za zbyt słaby.

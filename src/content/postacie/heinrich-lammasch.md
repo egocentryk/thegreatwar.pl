@@ -12,6 +12,9 @@ aliases: [Heinrich Lammasch]
 wikiTitles: [Heinrich_Lammasch]
 authors: [Natalia]
 tags: [Austro-Węgry, Karol I Habsburg, inicjatywy pokojowe, polityka wewnętrzna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Heinrich_Lammasch"
+  - "https://en.wikipedia.org/wiki/Heinrich_Lammasch"
 ---
 
 Heinrich Lammasch był jednym z najwybitniejszych prawników monarchii habsburskiej i jednym z nielicznych ludzi jej elity, którzy przez całą wojnę głośno domagali się pokoju bez zwycięzców i pokonanych. Profesor prawa karnego i międzynarodowego, uczestnik konferencji pokojowych w Hadze i kilkakrotny arbiter w sporach między państwami, już przed 1914 rokiem ostrzegał przed ścisłym związkiem Austro-Węgier z Niemcami. W czasie wojny ściągnął na siebie podejrzliwość sztabu generalnego i niechęć prasy, a w [Izbie Panów](https://pl.wikipedia.org/wiki/Izba_Panów_(Austria)) zakrzykiwano go jako „adwokata Ententy”. Cesarz [Karol I](/postacie/karol-i-habsburg) cenił go jednak i dwa razy proponował mu stanowisko premiera. Za pierwszym razem, latem 1917 roku, Lammasch odmówił. Za drugim, w październiku 1918 roku, przyjął urząd, gdy nie było już czego ratować, i jako ostatni premier cesarskiej Austrii doprowadził do pokojowego przejęcia władzy przez republikę.

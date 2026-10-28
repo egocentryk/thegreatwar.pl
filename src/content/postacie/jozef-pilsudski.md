@@ -12,6 +12,9 @@ aliases: [Józef Piłsudski]
 wikiTitles: [Józef_Piłsudski]
 authors: [Łukasz Skowroń]
 tags: [Józef Piłsudski, Legiony Polskie, Polska, Królestwo Polskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Józef_Piłsudski"
+  - "https://en.wikipedia.org/wiki/Józef_Piłsudski"
 ---
 
 Józef Piłsudski wszedł w wielką wojnę jako przywódca garstki galicyjskich strzelców, a wyszedł z niej jako głowa odradzającego się państwa polskiego. Od lat przewidywał konflikt między zaborcami i postawił na Austro-Węgry przeciw Rosji, którą uważał za głównego wroga. 6 sierpnia 1914 roku jego kompania wkroczyła do Królestwa Polskiego, a przez następne dwa lata dowodził I Brygadą Legionów Polskich, walcząc u boku państw centralnych. Gdy Rosja się rozpadała, a Niemcy chciały polskiego wojska bez polskiej władzy, zerwał z nimi i w lipcu 1917 roku trafił do niemieckiego więzienia. Uwolniony w dniach rewolucji w Niemczech, 10 listopada 1918 roku wrócił do Warszawy, a w ciągu kilku dni przejął władzę nad wojskiem i państwem. Dla jednych był twórcą niepodległości, dla innych, zwłaszcza dla obozu narodowego, człowiekiem, który postawił na złego konia i tylko szczęśliwie zdążył się z niego przesiąść. Spór ten towarzyszył mu do końca życia i trwa do dziś.

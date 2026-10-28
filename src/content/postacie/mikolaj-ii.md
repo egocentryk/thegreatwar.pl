@@ -12,6 +12,9 @@ aliases: [Mikołaj II]
 wikiTitles: [Mikołaj_II_Romanow]
 authors: [Łukasz Skowroń]
 tags: [Mikołaj II, Rosja, rewolucja lutowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Mikołaj_II_Romanow"
+  - "https://en.wikipedia.org/wiki/Nicholas_II"
 ---
 
 Mikołaj II Romanow był ostatnim cesarzem Rosji i jedynym monarchą wielkiego mocarstwa, który w czasie tej wojny sam objął dowództwo armii. Latem 1914 roku po długich wahaniach zgodził się na powszechną mobilizację, która pchnęła Europę do wojny. Jesienią 1915 roku, wbrew niemal wszystkim ministrom, odsunął od dowództwa wuja i pojechał do Kwatery Głównej, przez co odpowiadał odtąd osobiście za każdą klęskę. Gdy w marcu 1917 roku zbuntował się garnizon stolicy, opuścili go własni generałowie i musiał się zrzec tronu. Szesnaście miesięcy później bolszewicy zamordowali go razem z rodziną w Jekaterynburgu. Był człowiekiem uprzejmym, pobożnym i oddanym rodzinie, ale przez całe panowanie bronił samowładztwa, któremu nie umiał już zapewnić skutecznych rządów.

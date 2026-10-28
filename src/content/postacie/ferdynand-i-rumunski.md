@@ -12,6 +12,9 @@ aliases: [Ferdynand I Rumuński]
 wikiTitles: [Ferdynand_I_Rumuński, Ferdynand_I_Hohenzollern-Sigmaringen]
 authors: [Łukasz Skowroń]
 tags: [Ferdynand I Rumuński, Rumunia, Siedmiogród, neutralność]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ferdynand_I_Rumuński"
+  - "https://en.wikipedia.org/wiki/Ferdinand_I_of_Romania"
 ---
 
 Ferdynand I był drugim królem Rumunii i jednym z najbardziej niezwykłych monarchów wielkiej wojny. Niemiecki książę z katolickiej linii Hohenzollernów, wychowany w Szwabii, w 1916 roku podpisał wypowiedzenie wojny Austro-Węgrom, wiedząc, że oznacza ono wojnę z Niemcami, ojczyzną swojej rodziny. Kampania 1916 roku skończyła się katastrofą: Rumunia straciła stolicę i dwie trzecie terytorium, a król z rządem schronił się w Jassach. Ferdynand przetrwał jednak klęskę, okupację, rozpad sojuszniczej Rosji i upokarzający pokój, którego nigdy nie zatwierdził. Gdy wojna się skończyła, rządził państwem dwukrotnie większym niż w 1914 roku. Rumuni nazwali go „Lojalnym”, bo dotrzymał przysięgi złożonej nowej ojczyźnie, i „Zjednoczycielem” (Întregitorul).

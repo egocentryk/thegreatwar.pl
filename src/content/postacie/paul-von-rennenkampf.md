@@ -12,6 +12,9 @@ aliases: [Paul von Rennenkampf]
 wikiTitles: [Paul_von_Rennenkampf]
 authors: [Natalia]
 tags: [Paul von Rennenkampf, Rosja, Prusy Wschodnie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Paul_von_Rennenkampf"
+  - "https://en.wikipedia.org/wiki/Paul_von_Rennenkampf"
 ---
 
 Generał Paul von Rennenkampf dowodził w 1914 roku rosyjską 1 Armią, która jako pierwsza wkroczyła do Prus Wschodnich i 20 sierpnia odniosła pod Gąbinem jedyne poważne zwycięstwo Rosjan w tej kampanii. Kilka dni później Niemcy rozbili pod Tannenbergiem sąsiednią armię Aleksandra Samsonowa, a Rennenkampf, który nie przyszedł jej z pomocą, stał się w oczach opinii publicznej głównym winnym klęski. Po porażce nad jeziorami mazurskimi i nieudanym zamknięciu kotła pod Łodzią stracił dowództwo, a niemieckie nazwisko ściągnęło na niego oskarżenia o zdradę. Historycy oceniają go dziś łagodniej niż współcześni, wskazując, że ważniejsze błędy popełnili jego przełożeni.

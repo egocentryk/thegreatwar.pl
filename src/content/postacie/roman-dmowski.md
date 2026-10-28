@@ -12,6 +12,9 @@ aliases: [Roman Dmowski]
 wikiTitles: [Roman_Dmowski]
 authors: [Łukasz Skowroń]
 tags: [Roman Dmowski, Polska, Francja, Królestwo Polskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Roman_Dmowski"
+  - "https://en.wikipedia.org/wiki/Roman_Dmowski"
 ---
 
 Roman Dmowski był w czasie wielkiej wojny głównym przeciwnikiem [Józefa Piłsudskiego](/postacie/jozef-pilsudski) i jego lustrzanym odbiciem. Piłsudski postawił w 1914 roku na Austrię przeciw Rosji, Dmowski na Rosję i jej zachodnich sojuszników przeciw Niemcom, w których widział śmiertelnego wroga Polski. Przez pierwszy rok wojny działał w Warszawie i Piotrogrodzie, licząc na zjednoczenie ziem polskich pod berłem cara. Gdy Rosja okazała się słaba, przeniósł się na Zachód i przez trzy lata przekonywał Londyn, Paryż i Waszyngton, że niepodległa Polska jest im potrzebna. Założony przez niego w 1917 roku Komitet Narodowy Polski stał się dla Ententy przedstawicielstwem Polaków, miał własną armię we Francji, a w 1919 roku dał trzon polskiej delegacji na konferencję pokojową. Dmowski podpisał traktat wersalski. Był zarazem politykiem nacjonalistycznym i zdeklarowanym antysemitą, co już wtedy szkodziło mu u zachodnich partnerów i do dziś ciąży na jego ocenie.

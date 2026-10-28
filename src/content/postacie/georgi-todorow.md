@@ -12,6 +12,9 @@ aliases: [Georgi Todorow]
 wikiTitles: [Georgi_Todorow_(generał)]
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, Serbia, Grecja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Georgi_Todorow_(generał)"
+  - "https://en.wikipedia.org/wiki/Georgi_Todorov_(general)"
 ---
 
 Georgi Todorow należał do pokolenia bułgarskich generałów, którzy jako młodzi ochotnicy walczyli o wyzwolenie kraju spod władzy tureckiej, a potem prowadzili jego armię w trzech kolejnych wojnach. Jesienią 1915 roku dowodził 2 Armią, która w kilka tygodni zajęła serbską Macedonię, przecięła kolej z Salonik i nie dopuściła do połączenia Serbów z wojskami Ententy. Po tym sukcesie przez prawie trzy lata trzymał front przeciw armiom Sarraila. Los sprawił, że w krytycznych dniach września 1918 roku, pod nieobecność chorego naczelnego wodza, to właśnie on stał na czele armii bułgarskiej, gdy front pod Dobrym Polem pękł. Jego podpis widniał pod listem, w którym Bułgaria poprosiła o zawieszenie broni.

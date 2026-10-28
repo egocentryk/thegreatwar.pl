@@ -12,6 +12,9 @@ aliases: [Eric Geddes]
 wikiTitles: [Eric_Geddes]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Royal Navy, okręty podwodne, Douglas Haig]
+sources:
+  - "https://pl.wikipedia.org/wiki/Eric_Geddes"
+  - "https://en.wikipedia.org/wiki/Eric_Geddes"
 ---
 
 Sir Eric Geddes był najbardziej znanym z „ludzi czynu”, których [David Lloyd George](/postacie/david-lloyd-george) ściągał w czasie wojny z biznesu do służby państwowej. Nie był ani żołnierzem, ani marynarzem, ani politykiem, tylko kolejarzem i menedżerem, a jednak w ciągu trzech lat nosił honorowy stopień generała majora i wiceadmirała, uporządkował zaplecze armii brytyjskiej we Francji i stanął na czele Admiralicji w najtrudniejszym okresie wojny podwodnej. Jego nazwisko kojarzy się jednak przede wszystkim z dwoma sprawami spornymi: z bezceremonialnym usunięciem admirała Jellicoe w Wigilię 1917 roku i z hasłem, że Niemcy trzeba „wycisnąć jak cytrynę”.

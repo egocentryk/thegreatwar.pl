@@ -12,6 +12,9 @@ aliases: [Julian Byng]
 wikiTitles: [Julian_Byng]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Kanada, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Julian_Byng"
+  - "https://en.wikipedia.org/wiki/Julian_Byng,_1st_Viscount_Byng_of_Vimy"
 ---
 
 Sir Julian Byng, od 1919 roku baron, a od 1928 roku wicehrabia Byng of Vimy, był jednym z niewielu brytyjskich generałów pierwszej wojny światowej, których żołnierze naprawdę lubili. Nie miał błyskotliwego umysłu ani politycznych talentów, ale słuchał podwładnych, dbał o szkolenie i nie bał się nowych metod. Dowodził kawalerią pod Ypres, przeprowadził ewakuację spod Suvli, a jako dowódca Korpusu Kanadyjskiego przygotował zdobycie grzbietu Vimy, które Kanadyjczycy do dziś uważają za narodziny swojego narodu. Jego 3 Armia jako pierwsza przełamała Linię Hindenburga masą czołgów pod Cambrai, a w 1918 roku przetrwała uderzenie wiosennej ofensywy i poszła naprzód w ofensywie stu dni. Nazwę Vimy wpisał do swojego tytułu, a potem przez pięć lat był gubernatorem generalnym Kanady.

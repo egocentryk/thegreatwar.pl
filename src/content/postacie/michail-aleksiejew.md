@@ -12,6 +12,9 @@ aliases: [Michaił Aleksiejew]
 wikiTitles: [Michaił_Aleksiejew_(generał)]
 authors: [Natalia]
 tags: [Rosja, wielki odwrót 1915, rewolucja lutowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Michaił_Aleksiejew_(generał)"
+  - "https://en.wikipedia.org/wiki/Mikhail_Alekseyev"
 ---
 
 Generał Michaił Aleksiejew był najważniejszym sztabowcem armii rosyjskiej w tej wojnie. W 1914 roku jako szef sztabu Frontu Południowo-Zachodniego współtworzył zwycięstwo w Galicji, w 1915 roku wyprowadził armie z Królestwa Polskiego, a od września 1915 roku jako szef sztabu cara [Mikołaja II](/postacie/mikolaj-ii) faktycznie kierował wszystkimi operacjami Rosji. W marcu 1917 roku jego telegramy do dowódców frontów przesądziły o abdykacji cesarza. Po przewrocie bolszewickim stworzył zaczątek białej Armii Ochotniczej. Syn żołnierza, który dosłużył się stopnia oficerskiego, skromny i niezwykle pracowity, był jednym z nielicznych generałów rosyjskich, którzy doszli na szczyt bez koneksji na dworze.

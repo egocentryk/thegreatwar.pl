@@ -12,6 +12,9 @@ aliases: [Adolf Ioffe]
 wikiTitles: [Adolf_Ioffe]
 authors: [Natalia]
 tags: [Rosja, Niemcy, Włodzimierz Lenin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Adolf_Ioffe"
+  - "https://en.wikipedia.org/wiki/Adolph_Joffe"
 ---
 
 Adolf Ioffe był pierwszym dyplomatą rewolucji bolszewickiej. Przyjaciel i najbliższy współpracownik [Lwa Trockiego](/postacie/lew-trocki), lekarz z wykształcenia i rewolucjonista z przekonania, w grudniu 1917 roku stanął na czele delegacji, która w Brześciu Litewskim wynegocjowała z państwami centralnymi rozejm. Oznaczał on faktyczne wyjście Rosji z wojny, a więc z obozu Ententy, do którego formalnie należała. Ioffe przedstawił w Brześciu radziecki program pokoju bez aneksji i odszkodowań, a potem jako członek delegacji przyglądał się, jak Niemcy rozbijają te złudzenia. Od wiosny 1918 roku był przedstawicielem Rosji Radzieckiej w Berlinie, gdzie podpisał uciążliwe układy uzupełniające traktat brzeski, a zarazem finansował niemieckich rewolucjonistów. Kilka dni przed końcem wojny Niemcy wydalili go z kraju.

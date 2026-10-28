@@ -12,6 +12,9 @@ aliases: [Nikołaj Krylenko]
 wikiTitles: [Nikołaj_Krylenko]
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikołaj_Krylenko"
+  - "https://en.wikipedia.org/wiki/Nikolai_Krylenko"
 ---
 
 Nikołaj Krylenko był najbardziej nieprawdopodobnym naczelnym wodzem w historii armii rosyjskiej. Bolszewicki działacz z wykształceniem prawniczym, w czasie wojny chorąży i oficer łączności w pułku strzelców, w listopadzie 1917 roku z woli Lenina objął dowództwo wielomilionowej armii. Nie miał jej poprowadzić do zwycięstwa, lecz wyprowadzić z wojny. Wysłał przez front parlamentariuszy do Niemców, zajął Kwaterę Główną w Mohylewie, gdzie na jego oczach zamordowano jego poprzednika, i w lutym 1918 roku wydał rozkaz o zakończeniu wojny i demobilizacji. Z punktu widzenia sprzymierzonych to on, jako wykonawca polityki Lenina, przypieczętował wyjście Rosji z Ententy. Po wojnie był głównym oskarżycielem w radzieckich procesach pokazowych, aż sam padł ofiarą wielkiej czystki.

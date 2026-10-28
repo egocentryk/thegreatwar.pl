@@ -12,6 +12,9 @@ aliases: [Armando Diaz]
 wikiTitles: [Armando_Diaz]
 authors: [Łukasz Skowroń]
 tags: [Armando Diaz, Włochy, Austro-Węgry, Luigi Cadorna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Armando_Diaz"
+  - "https://en.wikipedia.org/wiki/Armando_Diaz"
 ---
 
 Armando Diaz objął dowództwo armii włoskiej 8 listopada 1917 roku, gdy po klęsce pod Caporetto cofała się ona nad Piawę, straciwszy setki tysięcy ludzi i blisko połowę artylerii. W ciągu roku zrobił z niej armię, która w czerwcu 1918 roku odparła ostatnią wielką ofensywę Austro-Węgier, a w październiku rozbiła je pod Vittorio Veneto. Nie był wodzem błyskotliwym ani śmiałym. Był za to przeciwieństwem swojego poprzednika, Luigiego Cadorny: dbał o żołnierzy, ufał podwładnym, współpracował z rządem i sojusznikami. Za ostrożność, z jaką zwlekał z ostatnią ofensywą, krytykowali go Foch i część włoskich polityków, ale we Włoszech zapamiętano go jako „księcia zwycięstwa”, autora komunikatu ogłaszającego 4 listopada 1918 roku koniec wojny z Austrią.

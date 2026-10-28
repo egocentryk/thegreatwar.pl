@@ -12,6 +12,9 @@ aliases: [Rüdiger von der Goltz]
 wikiTitles: [Rüdiger_von_der_Goltz]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Finlandia, Morze Bałtyckie, Łotwa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Rüdiger_von_der_Goltz"
+  - "https://en.wikipedia.org/wiki/Rüdiger_von_der_Goltz"
 ---
 
 Hrabia Rüdiger von der Goltz, z tego samego rozgałęzionego pruskiego rodu co feldmarszałek [Colmar von der Goltz](/postacie/colmar-von-der-goltz), przez większą część wojny był jednym z wielu sprawnych dowódców pułków, brygad i dywizji na froncie zachodnim i wschodnim. Rozgłos przyniósł mu dopiero rok 1918. Wiosną poprowadził przez Bałtyk niemiecką Dywizję Bałtycką, która pomogła fińskim białym wygrać wojnę domową i zdobyła Helsinki, a potem przez osiem miesięcy był w Finlandii człowiekiem, z którego zdaniem liczyli się regent, rząd i armia. Po wojnie, w 1919 roku, dowodził niemieckimi ochotnikami na Łotwie, gdzie z walki z bolszewikami przeszedł do próby podporządkowania kraju Niemcom bałtyckim. Ostatnie dwie role uczyniły go jednym z symboli niemieckich ambicji nad Bałtykiem u schyłku wojny.

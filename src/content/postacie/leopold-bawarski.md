@@ -12,6 +12,9 @@ aliases: [Leopold Bawarski]
 wikiTitles: [Leopold_Bawarski]
 authors: [Natalia]
 tags: [Niemcy, Rosja, Królestwo Polskie, okupacja niemiecka]
+sources:
+  - "https://pl.wikipedia.org/wiki/Leopold_Bawarski"
+  - "https://en.wikipedia.org/wiki/Prince_Leopold_of_Bavaria"
 ---
 
 Książę Leopold Bawarski był w chwili wybuchu wojny sześćdziesięcioośmioletnim feldmarszałkiem, który od półtora roku był w stanie spoczynku. Wiosną 1915 roku wrócił do służby i do końca wojny dowodził na froncie wschodnim, najpierw 9 Armią, która w sierpniu 1915 roku weszła do Warszawy, potem grupą armii, a od 1916 roku jako następca Hindenburga wszystkimi wojskami niemieckimi na wschodzie. Za jego plecami działał wybitny szef sztabu, generał Max Hoffmann, i to on zwykle zbiera zasługi za decyzje tego dowództwa. Książę nie był jednak tylko figurą: miał za sobą dwie wojny i pół wieku służby, umiał współpracować z ludźmi i panować nad sprzecznymi interesami sojuszników. To w jego kwaterze w Brześciu Litewskim podpisano rozejm i pokój z Rosją Radziecką.

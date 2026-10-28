@@ -12,6 +12,9 @@ aliases: [Živojin Mišić]
 wikiTitles: [Živojin_Mišić]
 authors: [Łukasz Skowroń]
 tags: [Serbia, Austro-Węgry, Bułgaria]
+sources:
+  - "https://pl.wikipedia.org/wiki/Živojin_Mišić"
+  - "https://en.wikipedia.org/wiki/Živojin_Mišić"
 ---
 
 Živojin Mišić był najbardziej ofensywnym z serbskich dowódców wielkiej wojny i jedynym, którego nazwisko wiąże się z oboma wielkimi zwycięstwami Serbii. W listopadzie 1914 roku przejął rozbitą 1 Armię, wbrew naczelnemu dowództwu wycofał ją w głąb kraju, a kilka dni później poprowadził kontrnatarcie, od którego zaczęła się klęska Austro-Węgrów [nad Kolubarą](/bitwy/bitwa-nad-kolubara). W 1918 roku jako szef sztabu armii serbskiej był współautorem i najgorętszym orędownikiem planu [przełamania frontu pod Dobrym Polem](/bitwy/bitwa-pod-dobrym-polem). Między tymi datami był dowódcą, który w najgorszych chwilach odwrotu przez Albanię wolał bić się dalej, niż ustępować, a po kłótni o stanowiska na kilka miesięcy znalazł się poza armią.

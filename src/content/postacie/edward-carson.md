@@ -12,6 +12,9 @@ aliases: [Edward Carson]
 wikiTitles: [Edward_Carson]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Irlandia, Royal Navy, David Lloyd George]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edward_Carson"
+  - "https://en.wikipedia.org/wiki/Edward_Carson"
 ---
 
 Edward Carson, dubliński adwokat i przywódca irlandzkich unionistów, wszedł w wojnę jako człowiek, który kilka tygodni wcześniej stał na czele zbrojnego ruchu oporu przeciw własnemu rządowi. Ochotnicy z Ulsteru, których zorganizował do walki z autonomią Irlandii, stali się w 1914 roku 36 Dywizją Ulsterską armii brytyjskiej. Sam Carson był kolejno prokuratorem generalnym w rządzie koalicyjnym, przywódcą nieformalnej opozycji, jednym z trzech polityków, którzy w grudniu 1916 roku odsunęli od władzy [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith), pierwszym lordem Admiralicji w najczarniejszych miesiącach wojny podwodnej i członkiem Gabinetu Wojennego. Najważniejsza pozostawała dla niego jednak zawsze sprawa Ulsteru, i to ona dwukrotnie wyprowadziła go z rządu.

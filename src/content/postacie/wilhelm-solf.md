@@ -12,6 +12,9 @@ aliases: [Wilhelm Solf]
 wikiTitles: [Wilhelm_Solf]
 authors: [Natalia]
 tags: [Niemcy, kolonie niemieckie, inicjatywy pokojowe, Woodrow Wilson]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wilhelm_Solf"
+  - "https://en.wikipedia.org/wiki/Wilhelm_Solf"
 ---
 
 Wilhelm Solf był jednym z nielicznych liberałów w rządzie cesarskich Niemiec. Indolog z wykształcenia, przez jedenaście lat rządził Samoa, a od 1911 roku kierował Urzędem Kolonialnym Rzeszy. Wojna odebrała mu kolonie w ciągu kilku miesięcy, ale nie odebrała stanowiska. Przez cztery lata należał do najwierniejszych stronników kanclerza Theobalda von Bethmanna Hollwega, opowiadał się za pokojem kompromisowym i reformą ustroju, a jednocześnie układał plany wielkiego niemieckiego imperium w Afryce Środkowej. W październiku 1918 roku kanclerz Max von Baden powierzył mu Urząd Spraw Zagranicznych. Solf podpisywał noty, w których Niemcy prosiły prezydenta Wilsona o rozejm, i jako ostatni szef dyplomacji cesarstwa przeprowadził ją przez rewolucję, aż do dymisji w grudniu 1918 roku.

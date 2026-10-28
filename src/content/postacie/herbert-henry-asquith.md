@@ -12,6 +12,9 @@ aliases: [Herbert Henry Asquith]
 wikiTitles: [Herbert_Henry_Asquith]
 authors: [Łukasz Skowroń]
 tags: [Herbert Henry Asquith, Wielka Brytania, David Lloyd George]
+sources:
+  - "https://pl.wikipedia.org/wiki/Herbert_Henry_Asquith"
+  - "https://en.wikipedia.org/wiki/H._H._Asquith"
 ---
 
 Herbert Henry Asquith był premierem, który wprowadził Wielką Brytanię do wojny jako zjednoczony kraj i przez ponad dwa lata stał na czele jej rządu. Znakomity parlamentarzysta i mistrz godzenia skłóconych ministrów, uchodził za człowieka pokoju, który nie potrafił stać się przywódcą wojny totalnej. Za jego rządów zapadły decyzje o wysłaniu armii do Francji, o wyprawie na Dardanele, o utworzeniu Ministerstwa Amunicji i o pierwszym w dziejach kraju poborze. Klęska Gallipoli, kryzys amunicyjny, powstanie w Dublinie i rzeź nad Sommą podkopały jego autorytet, a w grudniu 1916 roku spór z Davidem Lloydem George'em zakończył jego premierostwo i na zawsze podzielił Partię Liberalną.

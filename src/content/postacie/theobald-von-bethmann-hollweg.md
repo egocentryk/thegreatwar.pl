@@ -12,6 +12,9 @@ aliases: [Theobald von Bethmann Hollweg]
 wikiTitles: [Theobald_von_Bethmann_Hollweg]
 authors: [Łukasz Skowroń]
 tags: [Theobald von Bethmann Hollweg, Niemcy, polityka wewnętrzna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg"
+  - "https://en.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg"
 ---
 
 Theobald von Bethmann Hollweg był kanclerzem Rzeszy Niemieckiej przez osiem lat, od lipca 1909 do lipca 1917 roku. To on kierował niemiecką polityką w kryzysie lipcowym 1914 roku, on przyznał w Reichstagu, że wkroczenie do Belgii jest bezprawiem, i on nazwał gwarancję jej neutralności „świstkiem papieru”. W czasie wojny próbował lawirować między zwolennikami wielkich aneksji a socjaldemokratami, przez dwa lata powstrzymywał nieograniczoną wojnę podwodną, a w grudniu 1916 roku ogłosił ofertę pokojową państw centralnych. Przegrał jednak z wojskowymi. Historycy od stu lat spierają się, czy był bezradnym filozofem wciągniętym w wojnę przez generałów, czy politykiem, który świadomie zaryzykował wojnę światową.

@@ -12,6 +12,9 @@ aliases: [Arthur Balfour]
 wikiTitles: [Arthur_Balfour]
 authors: [Natalia]
 tags: [Arthur Balfour, Wielka Brytania, Royal Navy, syjonizm]
+sources:
+  - "https://pl.wikipedia.org/wiki/Arthur_Balfour"
+  - "https://en.wikipedia.org/wiki/Arthur_Balfour"
 ---
 
 Arthur James Balfour należał do nielicznych polityków, którzy przez całą wojnę mieli wpływ na brytyjską politykę wojenną, choć zaczynał ją jako członek opozycji. Były premier konserwatystów, filozof i mistrz parlamentarnej dyskusji, w 1914 roku wszedł do Rady Wojennej [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith), w maju 1915 roku zastąpił [Winstona Churchilla](/postacie/winston-churchill) w Admiralicji, a w grudniu 1916 roku, w rządzie [Davida Lloyda George'a](/postacie/david-lloyd-george), objął Ministerstwo Spraw Zagranicznych. Na tym stanowisku przekazał Amerykanom telegram Zimmermanna, pojechał do Waszyngtonu po przystąpieniu Stanów Zjednoczonych do wojny i podpisał deklarację o „siedzibie narodowej” dla Żydów w Palestynie, która do dziś nosi jego nazwisko.

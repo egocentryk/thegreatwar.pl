@@ -12,6 +12,9 @@ aliases: [Wiktor Emanuel III]
 wikiTitles: [Wiktor_Emanuel_III]
 authors: [Natalia]
 tags: [Włochy, Antonio Salandra, Luigi Cadorna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wiktor_Emanuel_III"
+  - "https://en.wikipedia.org/wiki/Victor_Emmanuel_III"
 ---
 
 Wiktor Emanuel III był królem Włoch przez prawie pół wieku, ale wojna z lat 1915–1918 była jedynym okresem, w którym cieszył się szczerym uznaniem większości swoich poddanych. W maju 1915 roku to jego decyzja przesądziła o wejściu Włoch do wojny po stronie Ententy, choć większość parlamentu wolała neutralność. Według konstytucji był naczelnym wodzem, ale kierowanie operacjami oddał szefowi sztabu, generałowi [Luigiemu Cadornie](/postacie/luigi-cadorna), a sam przez trzy i pół roku mieszkał w pobliżu frontu, codziennie objeżdżając okopy, szpitale i tyły. Prasa nazwała go „królem żołnierzem” (re soldato). W najcięższej chwili, po klęsce pod Caporetto, zrobił na sojusznikach wrażenie człowieka spokojnego i pewnego, że armia się utrzyma. Pamięć o tym przesłoniła potem jego rola w dojściu do władzy faszystów, której Włosi nie wybaczyli dynastii.

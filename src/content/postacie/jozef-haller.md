@@ -12,6 +12,9 @@ aliases: [Józef Haller]
 wikiTitles: [Józef_Haller]
 authors: [Łukasz Skowroń]
 tags: [Polska, Legiony Polskie, Francja, Roman Dmowski]
+sources:
+  - "https://pl.wikipedia.org/wiki/Józef_Haller"
+  - "https://en.wikipedia.org/wiki/Józef_Haller"
 ---
 
 Józef Haller przeszedł w czasie wielkiej wojny drogę, jakiej nie przeszedł żaden inny polski dowódca. Zaczynał w 1914 roku jako organizator ochotników u boku Austrii, przez trzy lata walczył w Legionach przeciw Rosji, a w lutym 1918 roku na czele II Brygady przebił się pod Rarańczą przez front austriacki w proteście przeciw pokojowi brzeskiemu. W maju jego II Korpus Polski stoczył pod Kaniowem bój z Niemcami, a on sam przez Moskwę i Murmańsk dotarł do Francji, gdzie Komitet Narodowy Polski [Romana Dmowskiego](/postacie/roman-dmowski) uczynił go naczelnym wodzem Armii Polskiej. Tak legionista, który w 1917 roku złożył przysięgę na braterstwo broni z państwami centralnymi, stał się wodzem polskiego wojska po stronie Ententy. Błękitna Armia, nazywana od jego nazwiska Armią Hallera, wróciła w 1919 roku do kraju jako najlepiej uzbrojona część Wojska Polskiego. Haller był żołnierzem bardziej niż politykiem, ale jego wybory z lat 1918–1919 związały go na całe życie z obozem narodowym i postawiły naprzeciw [Józefa Piłsudskiego](/postacie/jozef-pilsudski).

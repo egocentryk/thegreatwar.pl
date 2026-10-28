@@ -12,6 +12,9 @@ aliases: [Aleksandr Kołczak]
 wikiTitles: [Aleksandr_Kołczak]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Morze Czarne, miny morskie, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksandr_Kołczak"
+  - "https://en.wikipedia.org/wiki/Alexander_Kolchak"
 ---
 
 Admirał Aleksandr Kołczak był najzdolniejszym rosyjskim dowódcą morskim tej wojny i jedną z najbardziej tragicznych postaci rosyjskiej rewolucji. Zanim został żołnierzem, zyskał sławę jako badacz Arktyki. W latach 1914–1916 jako sztabowiec i dowódca Dywizji Minowej Floty Bałtyckiej był głównym autorem rosyjskiej wojny minowej przeciw Niemcom. Od lata 1916 roku jako najmłodszy dowódca floty w armiach walczących państw prowadził Flotę Czarnomorską, która zamknęła Turków i Niemców w Bosforze. W czerwcu 1917 roku zbuntowani marynarze odebrali mu dowództwo. Po przewrocie bolszewickim, nie godząc się na wyjście Rosji z wojny, zgłosił się do służby u Brytyjczyków, a w listopadzie 1918 roku stanął w Omsku na czele białej Rosji jako Najwyższy Władca. Zginął rozstrzelany przez bolszewików.

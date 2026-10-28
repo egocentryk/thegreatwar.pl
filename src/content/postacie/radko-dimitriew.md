@@ -12,6 +12,9 @@ aliases: [Radko Dimitriew]
 wikiTitles: [Radko_Dimitriew]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Bułgaria, Galicja, wielki odwrót 1915]
+sources:
+  - "https://pl.wikipedia.org/wiki/Radko_Dimitriew"
+  - "https://en.wikipedia.org/wiki/Radko_Dimitriev"
 ---
 
 Radko Dimitriew był jednym z najsłynniejszych generałów bułgarskich, zwycięzcą Turków w pierwszej wojnie bałkańskiej, a w czasie pierwszej wojny światowej generałem armii rosyjskiej. Gdy w 1914 roku wybuchła wojna, porzucił stanowisko posła Bułgarii w Petersburgu i wstąpił do wojska, które uważał za armię wyzwolicieli swojego kraju. Przez ponad pół roku dowodził rosyjską 3 Armią: oblegał Przemyśl, podchodził pod Kraków i walczył w Karpatach. W maju 1915 roku to jego armia przyjęła pod Gorlicami główne uderzenie Niemców i Austriaków i została rozbita, a on sam stracił dowództwo. Gdy kilka miesięcy później Bułgaria stanęła po stronie państw centralnych, Dimitriew pozostał w rosyjskiej służbie. Zginął w 1918 roku jako zakładnik bolszewików.

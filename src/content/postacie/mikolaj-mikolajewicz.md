@@ -12,6 +12,9 @@ aliases: [Mikołaj Mikołajewicz]
 wikiTitles: [Mikołaj_Romanow_(1856–1929)]
 authors: [Łukasz Skowroń]
 tags: [Mikołaj Mikołajewicz, Rosja, Mikołaj II, Kaukaz]
+sources:
+  - "https://pl.wikipedia.org/wiki/Mikołaj_Romanow_(1856–1929)"
+  - "https://en.wikipedia.org/wiki/Grand_Duke_Nicholas_Nikolaevich_of_Russia_(born_1856)"
 ---
 
 Wielki książę Mikołaj Mikołajewicz Romanow, nazywany w rodzinie „Nikołaszą”, był przez pierwsze trzynaście miesięcy wojny naczelnym wodzem armii rosyjskiej. Dowodził w czasie wielkich zwycięstw nad Austro-Węgrami w Galicji i ciężkich klęsk w starciach z Niemcami, od Tannenbergu po wielki odwrót z 1915 roku. Wysoki na prawie dwa metry, surowy i porywczy, cieszył się w armii i w społeczeństwie popularnością, jakiej nie miał żaden inny członek dynastii. Ta popularność stała się w końcu jednym z powodów jego upadku: we wrześniu 1915 roku car [Mikołaj II](/postacie/mikolaj-ii) sam objął dowództwo, a wuja wysłał na Kaukaz. W Polsce jego nazwisko kojarzy się przede wszystkim z odezwą do Polaków z sierpnia 1914 roku.

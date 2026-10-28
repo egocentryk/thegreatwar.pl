@@ -12,6 +12,9 @@ aliases: [Nureddin Pasza, Nureddin Bej]
 wikiTitles: [Nureddin_Pasza]
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Indie Brytyjskie, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nureddin_Pasza"
+  - "https://en.wikipedia.org/wiki/Nureddin_Pasha"
 ---
 
 Nureddin, w czasie wielkiej wojny jeszcze pułkownik, czyli Nureddin Bej, a od 1918 roku Nureddin Pasza, zwany w Turcji „Brodatym” (Sakallı), dowodził wojskami osmańskimi w Iraku przez najważniejsze pół roku tamtejszej kampanii. We wrześniu 1915 roku przegrał z Brytyjczykami pod Al-Kutem, ale w listopadzie pod Ktezyfonem zatrzymał marsz dywizji generała Townshenda na Bagdad, a potem zamknął ją w Al-Kucie. To oblężenie skończyło się w kwietniu 1916 roku jedną z najbardziej upokarzających kapitulacji w dziejach armii brytyjskiej, choć Nureddina nie było już wtedy pod miastem. Po wojnie należał do czołowych dowódców tureckiego ruchu narodowego. Jego nazwisko wiąże się też z brutalnymi represjami wobec Greków i Kurdów oraz z lińczem metropolity Smyrny w 1922 roku.

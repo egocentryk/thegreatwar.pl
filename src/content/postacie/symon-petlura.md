@@ -12,6 +12,9 @@ aliases: [Symon Petlura]
 wikiTitles: [Symon_Petlura]
 authors: [Natalia]
 tags: [Ukraina, Rosja, rewolucja październikowa, Polska]
+sources:
+  - "https://pl.wikipedia.org/wiki/Symon_Petlura"
+  - "https://en.wikipedia.org/wiki/Symon_Petliura"
 ---
 
 Symon Petlura był dziennikarzem, który w ciągu kilku rewolucyjnych miesięcy stał się wodzem. Do 1917 roku nie nosił munduru, a wojnę spędził jako urzędnik organizacji ziemskich na tyłach rosyjskiego frontu. Po upadku caratu stanął na czele ukraińskiego ruchu wojskowego, zorganizował pierwsze oddziały [Ukraińskiej Republiki Ludowej](/ukrainska-republika-ludowa) i bronił Kijowa przed bolszewikami. W listopadzie 1918 roku, gdy państwa centralne przegrały wojnę, poprowadził powstanie przeciw hetmanowi Skoropadskiemu i jako Główny Ataman przywrócił republikę. Nigdy nie był sojusznikiem państw centralnych: zwalczał bolszewików, sprzeciwiał się niemieckiej okupacji, a po wojnie szukał oparcia u zwycięskich aliantów i w Polsce. W 1920 roku zawarł sojusz z Józefem Piłsudskim. Dla Ukraińców jest symbolem walki o niepodległość, dla wielu Żydów symbolem pogromów, które w latach 1919–1920 popełniały także jego wojska.

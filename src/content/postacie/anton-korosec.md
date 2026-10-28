@@ -12,6 +12,9 @@ aliases: [Anton Korošec]
 wikiTitles: [Anton_Korošec]
 authors: [Natalia]
 tags: [Austro-Węgry, Serbia, Włochy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Anton_Korošec"
+  - "https://en.wikipedia.org/wiki/Anton_Korošec"
 ---
 
 Anton Korošec był katolickim księdzem z Dolnej Styrii, który w ciągu półtora roku przeszedł drogę od lojalnego posła wiedeńskiej Rady Państwa do szefa pierwszego państwa jugosłowiańskiego. 30 maja 1917 roku odczytał w parlamencie deklarację majową, która żądała zjednoczenia Słoweńców, Chorwatów i Serbów z monarchii, jeszcze pod berłem Habsburgów. Rok później stał na czele ruchu, który z Habsburgami zerwał. W październiku 1918 roku został przewodniczącym Rady Narodowej w Zagrzebiu, a po rozpadzie monarchii formalnie najwyższym przedstawicielem Państwa Słoweńców, Chorwatów i Serbów. Do obozu Ententy przeszedł dopiero w ostatnich tygodniach wojny i w Genewie bronił równorzędnej pozycji tego państwa wobec Serbii.

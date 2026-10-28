@@ -12,6 +12,9 @@ aliases: [Józef Stalin]
 wikiTitles: [Józef_Stalin]
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Józef_Stalin"
+  - "https://en.wikipedia.org/wiki/Joseph_Stalin"
 ---
 
 Józef Wissarionowicz Dżugaszwili, znany pod pseudonimem Stalin, był w latach pierwszej wojny światowej postacią drugoplanową. Wojnę spędził niemal w całości na zesłaniu za kołem podbiegunowym, a z wydarzeniami 1917 roku łączyli go ludzie, którzy wtedy go znali, raczej z cichą pracą redakcyjną i partyjną niż z wiecami i przewrotem. Mimo to już w listopadzie 1917 roku należał do wąskiego grona przywódców bolszewickich. Jako ludowy komisarz do spraw narodowości zajmował się sprawą Finlandii, Ukrainy i innych narodów odchodzących od Rosji, w sporze o pokój brzeski stał przy [Włodzimierzu Leninie](/postacie/wlodzimierz-lenin), a latem i jesienią 1918 roku w obronie Carycyna nad Wołgą po raz pierwszy sprawował władzę nad wojskiem i aparatem terroru. Na stronie ententy znalazł się tylko formalnie: rząd, do którego należał, wyprowadził Rosję z wojny i zawarł odrębny pokój z Niemcami. Późniejszy dyktator Związku Radzieckiego jest tu opisany przede wszystkim jako uczestnik tych wydarzeń.

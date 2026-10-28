@@ -12,6 +12,9 @@ aliases: [Billy Hughes]
 wikiTitles: [Billy_Hughes]
 authors: [Natalia]
 tags: [Australia, Wielka Brytania, Japonia, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Billy_Hughes"
+  - "https://en.wikipedia.org/wiki/Billy_Hughes"
 ---
 
 William Morris Hughes, zwany Billym, był premierem Australii przez większość wielkiej wojny i jedną z najbarwniejszych postaci polityki imperium. Drobny, niemal głuchy, porywczy i obdarzony ciętym językiem, przeszedł drogę od robotnika portowego i działacza związkowego do męża stanu, który przy stole konferencji pokojowej kłócił się z prezydentem Stanów Zjednoczonych. W czasie wojny dwukrotnie próbował wprowadzić pobór do służby za granicą i dwukrotnie przegrał w głosowaniu powszechnym, a przy okazji rozbił [Australijską Partię Pracy](https://pl.wikipedia.org/wiki/Australijska_Partia_Pracy), której był jednym z założycieli. Żołnierze nazywali go „Małym Diggerem”, a ruch robotniczy do dziś uważa go za zdrajcę.

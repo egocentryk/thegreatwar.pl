@@ -12,6 +12,9 @@ aliases: [Horatio Kitchener]
 wikiTitles: [Horatio_Kitchener]
 authors: [Natalia]
 tags: [Herbert Kitchener, Wielka Brytania, British Army]
+sources:
+  - "https://pl.wikipedia.org/wiki/Horatio_Kitchener"
+  - "https://en.wikipedia.org/wiki/Herbert_Kitchener,_1st_Earl_Kitchener"
 ---
 
 Horatio Herbert Kitchener, 1. hrabia Kitchener, znany jako lord Kitchener, był w 1914 roku najsławniejszym żołnierzem imperium brytyjskiego. Zdobywca Sudanu i dowódca z wojny burskiej objął w pierwszych dniach wojny ministerstwo wojny i jako jeden z nielicznych od początku twierdził, że konflikt potrwa latami. Z niewielkiej armii zawodowej zbudował masowe Nowe Armie ochotników, a jego twarz z werbunkowego plakatu stała się jednym z symboli wojny. Jako minister był jednak trudnym kolegą, nie umiał dzielić się władzą ani pracować z politykami, a kryzys amunicyjny i klęska w Dardanelach podkopały jego pozycję. Zginął w czerwcu 1916 roku, gdy okręt, którym płynął do Rosji, wszedł na minę.

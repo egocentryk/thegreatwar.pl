@@ -12,6 +12,9 @@ aliases: [Friedrich Sixt von Armin]
 wikiTitles: [Friedrich_Sixt_von_Armin]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Belgia, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Friedrich_Sixt_von_Armin"
+  - "https://en.wikipedia.org/wiki/Friedrich_Sixt_von_Armin"
 ---
 
 Friedrich Sixt von Armin walczył z Brytyjczykami dłużej niż niemal którykolwiek inny niemiecki generał. Jego IV Korpus spotkał się z nimi już pod Mons i Le Cateau w sierpniu 1914 roku, bronił się przed nimi pod Loos w 1915 roku i nad Sommą w 1916 roku. Od marca 1917 roku do końca wojny Sixt von Armin dowodził 4 Armią we Flandrii, która przyjęła na siebie trzecią bitwę pod Ypres, najdłuższe i najbardziej wyczerpujące natarcie armii brytyjskiej w tej wojnie. W Niemczech nazywano go „lwem Flandrii”. Mimo to jest dziś jednym z najmniej znanych niemieckich dowódców armii, w cieniu nie tylko [Hindenburga](/postacie/paul-von-hindenburg) i [Ludendorffa](/postacie/erich-ludendorff), ale także własnego szefa sztabu, Fritza von Loßberga. W tekstach, także brytyjskich, często błędnie zapisywano jego nazwisko jako „Sixt von Arnim”.

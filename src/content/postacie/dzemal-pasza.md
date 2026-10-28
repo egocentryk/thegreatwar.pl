@@ -12,6 +12,9 @@ aliases: [Dżemal Pasza, Ahmed Cemal, Ahmed Dżemal Pasza]
 wikiTitles: [Ahmed_Cemal]
 authors: [Natalia]
 tags: [Imperium Osmańskie, Egipt, powstanie arabskie, ludobójstwo Ormian]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ahmed_Cemal"
+  - "https://en.wikipedia.org/wiki/Djemal_Pasha"
 ---
 
 Ahmed Dżemal, znany jako Dżemal Pasza (po turecku Cemal Paşa), był obok ministra wojny Envera i ministra spraw wewnętrznych Talata jednym z trzech przywódców młodotureckich, którzy rządzili Imperium Osmańskim w czasie wielkiej wojny. Przez całą wojnę był ministrem marynarki, ale ważniejszą rolę odegrał jako dowódca 4 Armii i niemal samowładny namiestnik Syrii, do której należały wtedy także Liban i Palestyna. Dwukrotnie wysyłał wojska na Kanał Sueski, a od 1916 roku walczył z powstaniem arabskim i z Brytyjczykami w Palestynie. Arabowie zapamiętali go jako „as-Saffaha”, czyli Rzeźnika, za egzekucje działaczy narodowych w Bejrucie i Damaszku. Jego rola w ludobójstwie Ormian jest przedmiotem sporów historyków. Zginął w 1922 roku w Tyflisie z rąk ormiańskich zamachowców.

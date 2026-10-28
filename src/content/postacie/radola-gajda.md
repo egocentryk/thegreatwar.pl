@@ -12,6 +12,9 @@ aliases: [Radola Gajda]
 wikiTitles: [Radola_Gajda]
 authors: [Natalia]
 tags: [Czechosłowacy, Rosja, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Radola_Gajda"
+  - "https://en.wikipedia.org/wiki/Radola_Gajda"
 ---
 
 Radola Gajda był najbardziej brawurowym i najbardziej kontrowersyjnym dowódcą czechosłowackiego wojska w Rosji. W 1915 roku służył jako rezerwista w armii austro-węgierskiej, a już we wrześniu 1918 roku, w wieku 26 lat, był generałem. Wiosną i latem 1918 roku jego oddziały opanowały środkowy odcinek Kolei Transsyberyjskiej i przebiły się na wschód aż za Bajkał. Później przeszedł na służbę admirała [Aleksandra Kołczaka](/postacie/aleksandr-kolczak), w grudniu 1918 roku zdobył Perm i dowodził Armią Syberyjską. Jego biografia, pełna zmienionych nazwisk, fałszywych tytułów i nagłych zwrotów, kończy się mniej chlubnie: w niepodległej Czechosłowacji został przywódcą ruchu faszystowskiego.

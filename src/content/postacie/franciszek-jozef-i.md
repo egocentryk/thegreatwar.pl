@@ -12,6 +12,9 @@ aliases: [Franciszek Józef I]
 wikiTitles: [Franciszek_Józef_I]
 authors: [Natalia]
 tags: [Franciszek Józef I, Austro-Węgry, Serbia, Galicja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Franciszek_Józef_I"
+  - "https://en.wikipedia.org/wiki/Franz_Joseph_I"
 ---
 
 Franciszek Józef I był w 1914 roku najstarszym monarchą Europy. Panował od 1848 roku, a dla większości jego poddanych był jedynym władcą, jakiego kiedykolwiek znali. Uchodził za uosobienie wielonarodowej monarchii i za cesarza pokoju, który po klęskach młodości unikał wojen przez prawie pół wieku. To jednak on, jako najwyższa władza w państwie, latem 1914 roku zatwierdził ultimatum wobec Serbii, podpisał rozkazy mobilizacji i wypowiedzenie wojny, które wciągnęło Europę w wojnę światową. W czasie wojny, zbyt stary, by dowodzić, oddał armię w ręce arcyksięcia Fryderyka i generała Conrada, a monarchię coraz bardziej uzależniał od Niemiec. Zmarł w listopadzie 1916 roku, nie doczekawszy ani zwycięstwa, ani upadku swojego państwa.

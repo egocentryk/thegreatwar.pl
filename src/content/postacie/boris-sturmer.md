@@ -12,6 +12,9 @@ aliases: [Boris Stürmer]
 wikiTitles: [Boris_Stürmer]
 authors: [Łukasz Skowroń]
 tags: [Boris Stürmer, Rosja, Mikołaj II]
+sources:
+  - "https://pl.wikipedia.org/wiki/Boris_Stürmer"
+  - "https://en.wikipedia.org/wiki/Boris_Shturmer"
 ---
 
 Boris Władimirowicz Stürmer kierował rządem Rosji przez niespełna dziesięć miesięcy 1916 roku, ale stał się jednym z symboli rozkładu carskiej władzy. Był sędziwym dworzaninem i gubernatorem, bez doświadczenia w polityce państwowej, a premierem uczynił go car [Mikołaj II](/postacie/mikolaj-ii), który szukał posłusznego wykonawcy swojej woli. Współcześni byli przekonani, że nominację załatwili caryca [Aleksandra Fiodorowna](/postacie/aleksandra-fiodorowna) i [Grigorij Rasputin](/postacie/grigorij-rasputin). Przez kilka miesięcy Stürmer skupiał w rękach urząd premiera, ministra spraw wewnętrznych, a potem ministra spraw zagranicznych. Jego niemieckie nazwisko i pogłoski o odrębnym pokoju z Niemcami sprawiły, że w listopadzie 1916 roku opozycja w Dumie oskarżyła go publicznie o zdradę. Dowodów nigdy nie znaleziono, ale dymisja nie uratowała już monarchii.

@@ -12,6 +12,9 @@ aliases: [Gieorgij Cziczerin]
 wikiTitles: [Gieorgij_Cziczerin]
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja październikowa, Niemcy, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Gieorgij_Cziczerin"
+  - "https://en.wikipedia.org/wiki/Georgy_Chicherin"
 ---
 
 Gieorgij Cziczerin był najbardziej nietypowym z ludzi, którzy w 1918 roku rządzili Rosją Radziecką. Potomek starej szlachty, spokrewniony z Puszkinem, poliglota, znawca Mozarta i Wagnera, zaczynał karierę w archiwum carskiego ministerstwa spraw zagranicznych. Przez całą wojnę był emigrantem i przeciwnikiem wojny, a w Londynie trafił do więzienia. Do Rosji wrócił w styczniu 1918 roku, z zastępcy [Lwa Trockiego](/postacie/lew-trocki) stał się w marcu kierownikiem radzieckiej dyplomacji i pozostał nim przez dwanaście lat. W 1918 roku jego zadaniem było utrzymać przy życiu [pokój brzeski](/traktat-brzeski): ustępować Niemcom tyle, ile trzeba, by nie wznowili wojny, i protestować przeciw desantom Ententy, nie zrywając z nią do końca. Na stronie Ententy znalazł się tylko formalnie: rząd, któremu służył, wyprowadził Rosję z wojny.

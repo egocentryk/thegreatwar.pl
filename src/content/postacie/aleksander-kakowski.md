@@ -12,6 +12,9 @@ aliases: [Aleksander Kakowski]
 wikiTitles: [Aleksander_Kakowski]
 authors: [Natalia]
 tags: [Królestwo Polskie, okupacja niemiecka, Polska]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksander_Kakowski"
+  - "https://en.wikipedia.org/wiki/Aleksander_Kakowski"
 ---
 
 Aleksander Kakowski był w czasie wielkiej wojny najważniejszym duchownym w Królestwie Polskim i jednym z trzech regentów, którzy w latach 1917–1918 sprawowali w Warszawie najwyższą polską władzę. Na arcybiskupstwo warszawskie trafił w 1913 roku za zgodą rządu carskiego i przez pierwszy rok wojny wiernie stał przy Rosji. Gdy w 1915 roku Warszawę zajęli Niemcy, pozostał w mieście i przez trzy lata okupacji był dla Polaków jednym z niewielu niekwestionowanych autorytetów. W 1917 roku, niechętnie i po długich wahaniach, wszedł do Rady Regencyjnej powołanej przez Berlin i Wiedeń. Rok później ta sama Rada ogłosiła niepodległość Polski, a w listopadzie 1918 roku oddała władzę [Józefowi Piłsudskiemu](/postacie/jozef-pilsudski). Kakowski pozostał arcybiskupem, a w 1919 roku został kardynałem.

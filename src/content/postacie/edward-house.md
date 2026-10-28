@@ -12,6 +12,9 @@ aliases: [Edward House, Edward Mandell House]
 wikiTitles: [Edward_Mandell_House]
 authors: [Natalia]
 tags: [Stany Zjednoczone, Woodrow Wilson, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edward_Mandell_House"
+  - "https://en.wikipedia.org/wiki/Edward_M._House"
 ---
 
 Edward Mandell House, nazywany przez wszystkich „pułkownikiem House’em”, przez większość wojny był najbardziej wpływowym człowiekiem w amerykańskiej polityce zagranicznej, choć nie piastował żadnego urzędu i nigdy nie służył w wojsku. Był przyjacielem i powiernikiem prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson), który mówił o nim, że jest jego „drugą osobowością”. W latach 1914–1916 jeździł po stolicach Europy, szukając drogi do pokoju z amerykańskim pośrednictwem. Po przystąpieniu Stanów Zjednoczonych do wojny reprezentował prezydenta na konferencjach sojuszników, kierował przygotowaniami do przyszłej konferencji pokojowej i pomagał pisać czternaście punktów. Jesienią 1918 roku w Paryżu nakłonił premierów Ententy do przyjęcia programu Wilsona jako podstawy rozejmu. Na konferencji pokojowej jego kompromisy doprowadziły jednak do zerwania z prezydentem, którego już nigdy więcej nie zobaczył.

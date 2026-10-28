@@ -12,6 +12,9 @@ aliases: [Stepan Szaumian]
 wikiTitles: [Stepan_Szaumian]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Azerbejdżan, Kaukaz, Włodzimierz Lenin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Stepan_Szaumian"
+  - "https://en.wikipedia.org/wiki/Stepan_Shaumian"
 ---
 
 Stepan Szaumian był najważniejszym bolszewikiem na Kaukazie i jednym z niewielu, którym [Włodzimierz Lenin](/postacie/wlodzimierz-lenin) ufał bez zastrzeżeń. Ormianin z Tyflisu, wykształcony w Rydze i Berlinie, publicysta i organizator robotników z bakijskich pól naftowych, przez większość wojny siedział w więzieniach i na zesłaniu. Po rewolucji Lenin mianował go nadzwyczajnym komisarzem do spraw Kaukazu. Wiosną 1918 roku Szaumian stanął na czele bolszewickiej Komuny Bakijskiej, która rządziła największym ośrodkiem naftowym ówczesnego świata, gdy cały Kaukaz Południowy odrywał się od Rosji, a od zachodu nadciągała armia turecka. Jego rządy zaczęły się od krwawych walk z muzułmanami w Baku, a skończyły po trzech miesiącach, gdy rada miasta wbrew bolszewikom wezwała na pomoc Brytyjczyków. We wrześniu 1918 roku Szaumian zginął rozstrzelany razem z innymi komisarzami bakijskimi i stał się jednym z najważniejszych męczenników radzieckiego panteonu. W tej wojnie bolszewicy wyprowadzili Rosję z obozu Ententy, ale nad Morzem Kaspijskim Szaumian do końca walczył z tym samym przeciwnikiem co Brytyjczycy, choć z nimi samymi współpracować nie chciał.

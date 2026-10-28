@@ -12,6 +12,9 @@ aliases: [Aleksiej Ewert]
 wikiTitles: [Aleksiej_Ewert]
 authors: [Natalia]
 tags: [Rosja, Królestwo Polskie, Niemcy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksiej_Ewert"
+  - "https://en.wikipedia.org/wiki/Aleksei_Evert"
 ---
 
 Aleksiej Jermołajewicz Ewert był jednym z najwyższych dowódców armii rosyjskiej przez całą wojnę. W 1914 roku objął po klęsce pod Kraśnikiem 4 Armię i poprowadził ją do zwycięstw nad Austriakami pod Lublinem i nad Niemcami nad Wisłą. Od jesieni 1915 roku przez półtora roku dowodził Frontem Zachodnim, najsilniejszym ze wszystkich frontów rosyjskich, który bronił drogi na Mińsk i Moskwę. W 1916 roku to jego wojska miały zadać główny cios letniej kampanii, ale Ewert, zniechęcony krwawą klęską nad jeziorem Narocz, odwlekał natarcie, a gdy wreszcie uderzył pod Baranowiczami, poniósł ciężkie straty bez żadnego zysku. Dla wielu współczesnych stał się symbolem zmarnowanej szansy na zwycięstwo. W marcu 1917 roku opowiedział się za abdykacją cara, a niedługo potem stracił stanowisko. Zginął w czasie czerwonego terroru.

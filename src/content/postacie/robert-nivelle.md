@@ -12,6 +12,9 @@ aliases: [Robert Nivelle]
 wikiTitles: [Robert_Nivelle]
 authors: [Łukasz Skowroń]
 tags: [Robert Nivelle, Francja, Philippe Pétain]
+sources:
+  - "https://pl.wikipedia.org/wiki/Robert_Nivelle"
+  - "https://en.wikipedia.org/wiki/Robert_Nivelle"
 ---
 
 Robert Nivelle przeszedł w czasie wojny drogę równie zawrotną jak Pétain, tylko w przeciwnym kierunku. W sierpniu 1914 roku był pułkownikiem artylerii, w maju 1916 roku przejął obronę Verdun, a jesienią tego roku, wraz z generałem [Charles'em Manginem](/postacie/charles-mangin), odbił forty Douaumont i Vaux. Te zwycięstwa, jego elokwencja, pewność siebie i płynna angielszczyzna sprawiły, że w grudniu 1916 roku rząd postawił go na czele armii francuskich w miejsce [Josepha Joffre'a](/postacie/joseph-joffre), z pominięciem generałów starszych od niego stanowiskiem. Nivelle obiecywał, że metodą wypróbowaną pod Verdun przełamie front w ciągu dwóch dni i zakończy wojnę pozycyjną. Przekonał do tego francuskich i brytyjskich polityków, ale nie własnych dowódców. Ofensywa na Chemin des Dames w kwietniu 1917 roku przyniosła zdobycze, jednak nie przełom, za to ogromne straty i rozczarowanie, które pchnęło armię francuską do buntów. Po pięciu miesiącach dowodzenia Nivelle stracił stanowisko i do końca wojny pozostał z dala od frontu. Jego nazwisko stało się we Francji synonimem nadmiernego optymizmu, choć część historyków uważa ten wyrok za zbyt surowy.

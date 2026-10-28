@@ -12,6 +12,9 @@ aliases: [Ignacy Jan Paderewski]
 wikiTitles: [Ignacy_Jan_Paderewski]
 authors: [Natalia]
 tags: [Ignacy Jan Paderewski, Polska, Stany Zjednoczone, Woodrow Wilson]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ignacy_Jan_Paderewski"
+  - "https://en.wikipedia.org/wiki/Ignacy_Jan_Paderewski"
 ---
 
 Ignacy Jan Paderewski był w 1914 roku najsłynniejszym Polakiem na świecie, ale nie politykiem. Znano go jako pianistę, który zapełniał największe sale koncertowe Europy i Ameryki. Wojna zrobiła z niego dyplomatę. Najpierw zbierał pieniądze dla ofiar wojny na ziemiach polskich, potem wykorzystał swoją sławę i dostęp do najważniejszych ludzi w Waszyngtonie, by przekonać prezydenta [Woodrowa Wilsona](/postacie/woodrow-wilson) i jego doradcę [Edwarda House’a](/postacie/edward-house), że Stany Zjednoczone powinny poprzeć niepodległą Polskę. Jako przedstawiciel [Komitetu Narodowego Polskiego](/powstanie-komitetu-narodowego-polskiego) w Ameryce zjednał dla niego Polonię i pomagał werbować ochotników do armii polskiej we Francji. W grudniu 1918 roku przyjechał do kraju jako człowiek zaufania aliantów i doprowadził do kompromisu między [Józefem Piłsudskim](/postacie/jozef-pilsudski) a [Romanem Dmowskim](/postacie/roman-dmowski). W 1919 roku jako premier podpisał traktat wersalski.

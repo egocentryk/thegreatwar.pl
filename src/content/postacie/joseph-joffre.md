@@ -12,6 +12,9 @@ aliases: [Joseph Joffre]
 wikiTitles: [Joseph_Joffre]
 authors: [Łukasz Skowroń]
 tags: [Joseph Joffre, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Joseph_Joffre"
+  - "https://en.wikipedia.org/wiki/Joseph_Joffre"
 ---
 
 Joseph Joffre dowodził armią francuską przez pierwsze dwa i pół roku wojny. Wszedł w nią z planem, który w sierpniu 1914 roku zawiódł. Francuskie armie przegrały bitwy graniczne i straciły w kilka tygodni setki tysięcy ludzi. Joffre nie stracił jednak głowy: przegrupował wojska, odwołał nieudolnych generałów i we wrześniu poprowadził sprzymierzonych do zwycięstwa nad Marną, które przekreśliło niemiecki plan szybkiej wojny. Przez następne dwa lata był najpotężniejszym człowiekiem we Francji, a zarazem dowódcą kosztownych i mało owocnych ofensyw. W grudniu 1916 roku odebrano mu dowództwo i na pocieszenie mianowano go pierwszym od pół wieku marszałkiem Francji. Dla Francuzów pozostał przede wszystkim „zwycięzcą znad Marny”, ale historycy do dziś spierają się o jego zasługi i o cenę, jaką za jego decyzje zapłaciła francuska piechota.

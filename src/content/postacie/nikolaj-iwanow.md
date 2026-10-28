@@ -10,6 +10,9 @@ aliases: [Nikołaj Iwanow]
 wikiTitles: [Nikołaj_Iwanow_(generał)]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Galicja, rewolucja lutowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikołaj_Iwanow_(generał)"
+  - "https://en.wikipedia.org/wiki/Nikolai_Ivanov_(general)"
 ---
 
 Generał artylerii Nikołaj Iwanow dowodził rosyjskim Frontem Południowo-Zachodnim, walczącym przeciw Austro-Węgrom, od pierwszego dnia wojny do wiosny 1916 roku. Pod jego dowództwem Rosjanie wygrali w 1914 roku bitwę galicyjską, zajęli Lwów i oblegli Przemyśl, a on sam stał się jednym z najpopularniejszych generałów w kraju i u sojuszników. W 1915 roku jego armie zostały jednak wyparte z Galicji, a w marcu 1916 roku zastąpił go Aleksiej Brusiłow. Iwanow, cieszący się zaufaniem cara i cesarzowej, przeszedł do Kwatery Głównej. W marcu 1917 roku to jemu Mikołaj II powierzył zadanie stłumienia rewolucji w Piotrogrodzie, które skończyło się, zanim się zaczęło.

@@ -12,6 +12,9 @@ aliases: [Wojciech Korfanty]
 wikiTitles: [Wojciech_Korfanty]
 authors: [Natalia]
 tags: [Wojciech Korfanty, Polska, Niemcy, Wielkopolska]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wojciech_Korfanty"
+  - "https://en.wikipedia.org/wiki/Wojciech_Korfanty"
 ---
 
 Wojciech Korfanty był najważniejszym przywódcą polskiego ruchu narodowego na Górnym Śląsku i jednym z najzdolniejszych polskich polityków w Rzeszy Niemieckiej. Syn górnika, w 1903 roku jako pierwszy wygrał wybory do Reichstagu pod hasłami otwarcie polskimi, zrywając z tradycją, w której śląscy katolicy głosowali na niemiecką partię Centrum. Większość wojny spędził jednak na marginesie polityki, zepchnięty tam przez konflikty z dawnymi sojusznikami. Wrócił na scenę w 1918 roku, gdy załamywały się Niemcy. W czerwcu wygrał wybory uzupełniające do Reichstagu, a 25 października z jego trybuny zażądał przyłączenia do Polski ziem zaboru pruskiego i Górnego Śląska. W listopadzie stanął w Poznaniu na czele polskiego ruchu w dzielnicy pruskiej jako członek Komisariatu Naczelnej Rady Ludowej. Jego największe dzieło, walka o Górny Śląsk w latach 1919–1921, przypadło już na czas po wielkiej wojnie.

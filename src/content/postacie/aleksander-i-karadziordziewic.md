@@ -12,6 +12,9 @@ aliases: [Aleksander Karadziordziewić, regent Aleksander, Aleksander I Karadzio
 wikiTitles: [Aleksander_I_Karadziordziewić]
 authors: [Łukasz Skowroń]
 tags: [Aleksander Karađorđević, Serbia, Nikola Pašić]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksander_I_Karadziordziewić"
+  - "https://en.wikipedia.org/wiki/Alexander_I_of_Yugoslavia"
 ---
 
 Aleksander Karađorđević, po polsku Karadziordziewić, miał dwadzieścia pięć lat, gdy cztery dni przed zamachem w Sarajewie jego chory ojciec, król [Piotr I](/postacie/piotr-i-karadziordziewic), przekazał mu władzę. Jako regent i formalny naczelny wódz przeszedł z armią serbską całą wojnę: zwycięstwa 1914 roku, klęskę i odwrót przez Albanię zimą 1915 roku, wygnanie na Korfu, trzy lata na froncie salonickim i powrót do Belgradu jesienią 1918 roku. Operacjami kierowali szefowie sztabu, ale w polityce wojennej i w sprawach armii Aleksander miał coraz więcej do powiedzenia, a jego władza rosła kosztem polityków i oficerów, z którymi rywalizował. 1 grudnia 1918 roku to on proklamował Królestwo Serbów, Chorwatów i Słoweńców, przyszłą Jugosławię, którą potem rządził jako król, aż do śmierci z ręki zamachowca w 1934 roku.

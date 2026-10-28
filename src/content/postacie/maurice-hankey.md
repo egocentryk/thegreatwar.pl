@@ -12,6 +12,9 @@ aliases: [Maurice Hankey]
 wikiTitles: [Maurice_Hankey]
 authors: [Natalia]
 tags: [Wielka Brytania, David Lloyd George]
+sources:
+  - "https://pl.wikipedia.org/wiki/Maurice_Hankey"
+  - "https://en.wikipedia.org/wiki/Maurice_Hankey,_1st_Baron_Hankey"
 ---
 
 Maurice Hankey nie dowodził żadną armią i nie kierował żadnym ministerstwem, a mimo to niewielu ludzi wiedziało o brytyjskim prowadzeniu wojny tyle co on. Przez całą wojnę był sekretarzem kolejnych ciał, które nią kierowały: Rady Wojennej, Komitetu Dardanelskiego, Komitetu Wojennego i wreszcie Gabinetu Wojennego [Davida Lloyda George'a](/postacie/david-lloyd-george). Prowadził protokoły, układał porządek obrad, redagował uchwały konferencji sojuszniczych i pilnował, by decyzje rządu docierały do ministerstw. Z jego sekretariatu wyrósł brytyjski Urząd Gabinetu (Cabinet Office). Był też nieoficjalnym doradcą dwóch premierów, przez których ręce przechodziły pomysły od wyprawy na Dardanele po czołgi i konwoje.

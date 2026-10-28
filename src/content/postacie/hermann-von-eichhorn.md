@@ -12,6 +12,9 @@ aliases: [Hermann von Eichhorn]
 wikiTitles: [Hermann_von_Eichhorn]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Rosja, Ukraina, okupacja niemiecka]
+sources:
+  - "https://pl.wikipedia.org/wiki/Hermann_von_Eichhorn"
+  - "https://en.wikipedia.org/wiki/Hermann_von_Eichhorn"
 ---
 
 Hermann von Eichhorn należał do najstarszych dowódców armii niemieckiej w I wojnie światowej i do tych, o których mówiło się najmniej, choć przez trzy lata stał na czele jednej z najskuteczniejszych armii na froncie wschodnim. Jego 10 Armia była północnym ramieniem kleszczy w [zimowej bitwie na Mazurach](/bitwy/zimowa-bitwa-na-mazurach), w 1915 roku zdobyła Kowno i Wilno, a w 1916 roku odparła nad jeziorem Narocz pierwszą wielką ofensywę rosyjską po wielkim odwrocie. Od lata 1916 roku Eichhorn dowodził grupą armii na Litwie i w Kurlandii, której wojska zdobyły Rygę i wyspy estońskie, a wiosną 1918 roku zajęły Inflanty i Estonię. Ostatnim jego zadaniem było dowództwo nad wojskami okupującymi Ukrainę. Na tym stanowisku związał swoje nazwisko z obaleniem Centralnej Rady i rządami hetmana, a 30 lipca 1918 roku zginął w Kijowie od bomby lewicowego eserowca.

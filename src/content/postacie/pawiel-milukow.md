@@ -12,6 +12,9 @@ aliases: [Pawieł Milukow]
 wikiTitles: [Pawieł_Milukow]
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
+sources:
+  - "https://pl.wikipedia.org/wiki/Pawieł_Milukow"
+  - "https://en.wikipedia.org/wiki/Pavel_Milyukov"
 ---
 
 Pawieł Nikołajewicz Milukow był najwybitniejszym rosyjskim liberałem swojej epoki: historykiem, publicystą i wieloletnim przywódcą [kadetów](https://pl.wikipedia.org/wiki/Partia_Konstytucyjno-Demokratyczna), czyli Partii Konstytucyjno-Demokratycznej. W czasie wojny był rzecznikiem walki do zwycięstwa u boku sojuszników i rosyjskiego panowania nad Konstantynopolem i cieśninami, za co przezywano go „Milukowem-Dardanelskim”. W 1915 roku stanął na czele opozycyjnego Bloku Postępowego w Dumie, a w listopadzie 1916 roku wygłosił mowę „głupota czy zdrada?”, która stała się jednym ze zwiastunów upadku caratu. Po [rewolucji lutowej](/rewolucja-lutowa) został ministrem spraw zagranicznych, ale jego obietnica dochowania wojennych zobowiązań wywołała pierwszy kryzys nowej władzy i po dwóch miesiącach musiał odejść. Resztę życia spędził na emigracji.

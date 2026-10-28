@@ -12,6 +12,9 @@ aliases: [Svetozar Boroević]
 wikiTitles: [Svetozar_Boroević_von_Bojna]
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Włochy, Galicja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Svetozar_Boroević_von_Bojna"
+  - "https://en.wikipedia.org/wiki/Svetozar_Boroević"
 ---
 
 Svetozar Boroević von Bojna był najskuteczniejszym obrońcą, jakiego miała armia austro-węgierska. Od czerwca 1915 do sierpnia 1917 roku jego 5 Armia odparła nad [Soczą](https://pl.wikipedia.org/wiki/Socza) jedenaście włoskich ofensyw, choć niemal zawsze miała mniej żołnierzy i dział niż przeciwnik. Wcześniej, w 1914 i 1915 roku, prowadził 3 Armię w Galicji i w Karpatach, a w 1918 roku dowodził grupą armii nad Piawą. W monarchii nazywano go „Lwem znad Isonzo”. Był synem oficera z Pogranicza Wojskowego, prawosławnym Słowianinem z Chorwacji i jedynym marszałkiem polnym armii cesarskiej wywodzącym się ze Słowian południowych. Po upadku monarchii nowe państwo jugosłowiańskie nie chciało go przyjąć i zmarł w biedzie w Austrii.

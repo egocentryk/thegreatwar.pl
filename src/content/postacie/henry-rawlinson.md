@@ -12,6 +12,9 @@ aliases: [Henry Rawlinson]
 wikiTitles: [Henry_Rawlinson_(baron)]
 authors: [Natalia]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
+sources:
+  - "https://pl.wikipedia.org/wiki/Henry_Rawlinson_(baron)"
+  - "https://en.wikipedia.org/wiki/Henry_Rawlinson,_1st_Baron_Rawlinson"
 ---
 
 Sir Henry Rawlinson, od 1919 roku baron Rawlinson, dowodził brytyjską 4 Armią w dwóch bitwach, które wyznaczają skrajności brytyjskiego doświadczenia na froncie zachodnim. 1 lipca 1916 roku jego żołnierze ponieśli [nad Sommą](/bitwy/bitwa-nad-somma) największe straty jednego dnia w dziejach armii brytyjskiej. 8 sierpnia 1918 roku ta sama armia, z Kanadyjczykami i Australijczykami w pierwszej linii, przełamała front [pod Amiens](/bitwy/bitwa-pod-amiens) w dniu, który [Erich Ludendorff](/postacie/erich-ludendorff) nazwał czarnym dniem armii niemieckiej. Rawlinson był inteligentnym, ambitnym i towarzyskim oficerem, cenionym przez polityków, ale też uważanym za intryganta. Jego droga od Sommy do Amiens jest dla historyków najlepszym przykładem tego, jak armia brytyjska uczyła się prowadzić wojnę przemysłową.

@@ -12,6 +12,9 @@ aliases: [Pehr Evind Svinhufvud]
 wikiTitles: [Pehr_Evind_Svinhufvud]
 authors: [Natalia]
 tags: [Finlandia, Niemcy, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Pehr_Evind_Svinhufvud"
+  - "https://en.wikipedia.org/wiki/Pehr_Evind_Svinhufvud"
 ---
 
 Pehr Evind Svinhufvud, przez rodaków nazywany „Ukko-Pekka”, czyli Stary Piotr, przez całe życie walczył z rosyjskim panowaniem nad Finlandią i w czasie wielkiej wojny zapłacił za to zesłaniem na Syberię. Po rewolucji 1917 roku stanął na czele fińskiego rządu, przedstawił parlamentowi deklarację niepodległości i musiał osobiście prosić o jej uznanie [Lenina](/postacie/wlodzimierz-lenin). W wojnie domowej 1918 roku był przywódcą „białego” rządu, a od maja do grudnia regentem kraju. To on i jego ministrowie oparli niepodległą Finlandię na Niemczech, licząc, że niemiecka gwarancja obroni ją przed Rosją. Klęska Rzeszy w listopadzie 1918 roku zakończyła tę politykę i jego regencję. Finlandia nie wypowiedziała wojny Entencie, ale w 1918 roku była w praktyce niemieckim satelitą.

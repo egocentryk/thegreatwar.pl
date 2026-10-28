@@ -12,6 +12,9 @@ aliases: [Charles Lanrezac]
 wikiTitles: []
 authors: [Łukasz Skowroń]
 tags: [Charles Lanrezac, Francja, Joseph Joffre, wielki odwrót]
+sources:
+  - "https://en.wikipedia.org/wiki/Charles_Lanrezac"
+  - "https://fr.wikipedia.org/wiki/Charles_Lanrezac"
 ---
 
 Charles Lanrezac dowodził francuską 5 Armią przez niespełna pięć tygodni, od mobilizacji do 3 września 1914 roku, ale te tygodnie wystarczyły, by stał się jedną z najbardziej spornych postaci początku wojny. Jego armia stała na lewym skrzydle wojsk francuskich, tam gdzie przez Belgię nadciągało niemieckie prawe skrzydło. Lanrezac wcześniej niż naczelne dowództwo zrozumiał, skąd idzie główne uderzenie, a jego odwrót spod Charleroi uratował 5 Armię przed okrążeniem. Pod Guise przeprowadził jedyny duży francuski kontratak w czasie wielkiego odwrotu. Mimo to tuż przed bitwą nad Marną naczelny wódz odebrał mu dowództwo. Dla jednych był ofiarą, która ocaliła Francję, dla innych zmęczonym i kłótliwym generałem, który nie umiał współpracować ani z przełożonymi, ani z Brytyjczykami.

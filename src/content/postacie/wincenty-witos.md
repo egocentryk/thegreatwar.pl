@@ -12,6 +12,9 @@ aliases: [Wincenty Witos]
 wikiTitles: [Wincenty_Witos]
 authors: [Łukasz Skowroń]
 tags: [Wincenty Witos, Polska, Galicja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wincenty_Witos"
+  - "https://en.wikipedia.org/wiki/Wincenty_Witos"
 ---
 
 Wincenty Witos był najwybitniejszym polskim politykiem chłopskiego pochodzenia i symbolem wejścia wsi do wielkiej polityki. Rolnik i wójt rodzinnej wsi pod Tarnowem, samouk, który nie znał dobrze niemieckiego, w czasie wojny stał się jednym z najważniejszych polityków galicyjskich. W 1914 roku wraz ze swoim stronnictwem poparł Legiony i [Naczelny Komitet Narodowy](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy). Gdy przekonał się, że Wiedeń nie spełni polskich nadziei, poprowadził ludowców do zerwania z polityką proaustriacką. To z jego inicjatywy w maju 1917 roku polscy posłowie z Galicji uznali za cel narodu niepodległą i zjednoczoną Polskę. W październiku 1918 roku przewodniczył zgromadzeniu, które ogłosiło przynależność Galicji do państwa polskiego, i stanął na czele [Polskiej Komisji Likwidacyjnej](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna), pierwszej polskiej władzy w dawnym zaborze austriackim. Później był trzykrotnie premierem odrodzonej Polski.

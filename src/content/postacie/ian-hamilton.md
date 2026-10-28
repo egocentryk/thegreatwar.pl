@@ -12,6 +12,9 @@ aliases: [Ian Hamilton]
 wikiTitles: [Ian_Hamilton_(generał)]
 authors: [Łukasz Skowroń]
 tags: [Ian Hamilton, Wielka Brytania, Dardanele]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ian_Hamilton_(generał)"
+  - "https://en.wikipedia.org/wiki/Ian_Hamilton_(British_Army_officer)"
 ---
 
 Sir Ian Hamilton był jednym z najbardziej doświadczonych i najbardziej oczytanych generałów brytyjskich swojej epoki. Walczył na kilku kontynentach, pisał wiersze i powieści, mówił po niemiecku i francusku, a wojnę rosyjsko-japońską oglądał z bliska jako obserwator przy armii japońskiej. W marcu 1915 roku lord Kitchener powierzył mu dowództwo wojsk, które miały pomóc flocie przedrzeć się przez Dardanele. Przez siedem miesięcy Hamilton prowadził na półwyspie Gallipoli kampanię, która miała otworzyć drogę do Konstantynopola, a skończyła się jedną z najdotkliwszych porażek Ententy. W październiku 1915 roku rząd go odwołał i już nigdy nie dostał dowództwa w polu. Historycy do dziś spierają się o to, ile w tej klęsce było jego winy, a ile winy polityków, którzy dali mu za mało ludzi, amunicji i czasu.

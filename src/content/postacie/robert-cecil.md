@@ -12,6 +12,9 @@ aliases: [Robert Cecil]
 wikiTitles: [Robert_Cecil_(wicehrabia)]
 authors: [Natalia]
 tags: [Wielka Brytania, blokada morska, Arthur Balfour]
+sources:
+  - "https://pl.wikipedia.org/wiki/Robert_Cecil_(wicehrabia)"
+  - "https://en.wikipedia.org/wiki/Robert_Cecil,_Viscount_Cecil_of_Chelwood"
 ---
 
 Lord Robert Cecil, syn premiera i kuzyn [Arthura Balfoura](/postacie/arthur-balfour), był w czasie wojny człowiekiem dwóch twarzy brytyjskiej dyplomacji. Jako minister blokady od lutego 1916 do lipca 1918 roku kierował gospodarczą wojną z Niemcami: racjonował dostawy dla krajów neutralnych, prowadził czarne listy firm handlujących z wrogiem i odpierał protesty Stanów Zjednoczonych. Jednocześnie, jako podsekretarz stanu w Foreign Office, wcześniej niż ktokolwiek w rządzie zaczął pisać o organizacji, która po wojnie miałaby zapobiegać kolejnym konfliktom. Z tych przemyśleń wyrosła jego rola w tworzeniu [Ligi Narodów](https://pl.wikipedia.org/wiki/Liga_Narodów), której poświęcił resztę życia i za którą w 1937 roku otrzymał Pokojową Nagrodę Nobla.

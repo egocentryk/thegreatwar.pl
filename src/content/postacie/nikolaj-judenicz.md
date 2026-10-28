@@ -12,6 +12,9 @@ aliases: [Nikołaj Judenicz]
 wikiTitles: [Nikołaj_Judenicz]
 authors: [Natalia]
 tags: [Rosja, Kaukaz, Imperium Osmańskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikołaj_Judenicz"
+  - "https://en.wikipedia.org/wiki/Nikolai_Yudenich"
 ---
 
 Generał Nikołaj Judenicz uchodzi za jednego z najzdolniejszych rosyjskich dowódców tej wojny, a front kaukaski był pod jego kierunkiem jedynym, na którym Rosja wygrywała aż do rewolucji. Jako szef sztabu Armii Kaukaskiej zimą 1914 roku zatrzymał Turków pod Sarykamyszem, a jako jej dowódca w 1916 roku zdobył Erzurum, Trabzon i Erzincan, rozbijając osmańską 3 Armię. Jego zwycięstwa odciążały Brytyjczyków w Mezopotamii i pod Dardanelami, a na początku 1917 roku Rosjanie panowali nad większą częścią tureckiej Armenii. Rewolucja przerwała jego karierę. W czasie wojny domowej stanął na czele białych na północnym zachodzie Rosji, a jesienią 1919 roku jego wojska podeszły pod sam Piotrogród.

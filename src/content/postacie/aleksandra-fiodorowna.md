@@ -12,6 +12,9 @@ aliases: [Aleksandra Fiodorowna]
 wikiTitles: [Aleksandra_Fiodorowna_(1872–1918)]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Mikołaj II, Grigorij Rasputin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksandra_Fiodorowna_(1872–1918)"
+  - "https://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Alix_of_Hesse)"
 ---
 
 Aleksandra Fiodorowna, urodzona jako księżniczka Alix Heska, była żoną cesarza [Mikołaja II](/postacie/mikolaj-ii) i ostatnią cesarzową Rosji. Przez dwadzieścia lat małżeństwa żyła z dala od dworu i społeczeństwa, skupiona na rodzinie i na chorobie syna. W czasie wojny jej rola nagle urosła. Gdy we wrześniu 1915 roku car wyjechał do Kwatery Głównej, to ona w Piotrogrodzie podsuwała mu nazwiska ministrów i nalegała na usunięcie ludzi, których uważała za wrogów samowładztwa i swojego „Przyjaciela”, [Grigorija Rasputina](/postacie/grigorij-rasputin). Pracowała też jako siostra miłosierdzia w szpitalu dla rannych. Urodzona w Niemczech, w Rosji uchodziła za „Niemkę” i była podejrzewana o zdradę, choć nie ma na to żadnego dowodu. Po rewolucji dzieliła losy męża aż do śmierci z rąk bolszewików w Jekaterynburgu.

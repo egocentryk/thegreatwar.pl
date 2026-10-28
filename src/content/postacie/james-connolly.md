@@ -12,6 +12,9 @@ aliases: [James Connolly]
 wikiTitles: [James_Connolly_(irlandzki_polityk)]
 authors: [Łukasz Skowroń]
 tags: [Irlandia, Wielka Brytania, British Army]
+sources:
+  - "https://pl.wikipedia.org/wiki/James_Connolly_(irlandzki_polityk)"
+  - "https://en.wikipedia.org/wiki/James_Connolly"
 ---
 
 James Connolly był jedynym wybitnym marksistą wśród przywódców [powstania wielkanocnego](/wybuch-powstania-wielkanocnego), a zarazem dowódcą własnej, choć niewielkiej, robotniczej milicji. Syn irlandzkich emigrantów z robotniczej dzielnicy Edynburga, samouk, dziennikarz i organizator związkowy w Szkocji, Irlandii i Stanach Zjednoczonych, od pierwszych dni wojny wzywał Irlandczyków, by wykorzystali zaangażowanie Wielkiej Brytanii na kontynencie do walki o niepodległość. W styczniu 1916 roku dołączył do spiskowców z Irlandzkiego Bractwa Republikańskiego, podpisał proklamację Republiki Irlandzkiej i w czasie powstania dowodził wszystkimi siłami powstańców w Dublinie. Ciężko ranny, został rozstrzelany jako ostatni z przywódców, przywiązany do krzesła, co wywołało oburzenie nawet wśród przeciwników powstania.

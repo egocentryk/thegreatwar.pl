@@ -12,6 +12,9 @@ aliases: [Johann Heinrich von Bernstorff]
 wikiTitles: [Johann_Heinrich_von_Bernstorff]
 authors: [Łukasz Skowroń]
 tags: [Stany Zjednoczone, okręty podwodne, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Johann_Heinrich_von_Bernstorff"
+  - "https://en.wikipedia.org/wiki/Johann_Heinrich_von_Bernstorff"
 ---
 
 Hrabia Johann Heinrich von Bernstorff był w latach wielkiej wojny najważniejszym dyplomatą Niemiec w państwie neutralnym. Jako ambasador w Waszyngtonie prowadził z [Woodrowem Wilsonem](/postacie/woodrow-wilson) i jego sekretarzami stanu długi pojedynek o wojnę podwodną: po zatopieniu Lusitanii, Arabica i Sussexa za każdym razem odsuwał groźbę zerwania stosunków, często wychodząc poza instrukcje z Berlina. Przekonywał swój rząd, że wojna z Ameryką oznacza klęskę Niemiec, i do ostatniej chwili liczył na pokój z pośrednictwem Wilsona. Zarazem jego ambasada osłaniała i finansowała propagandę, szpiegostwo i sabotaż w Stanach Zjednoczonych. W Ameryce stał się symbolem niemieckiej dwulicowości, w Niemczech zaś dla prawicy symbolem defetyzmu. Historycy widzą w nim dziś przede wszystkim dyplomatę, który trafnie przewidział skutki decyzji, jakich nie umiał powstrzymać.

@@ -12,6 +12,9 @@ aliases: [Dimitrios Gunaris]
 wikiTitles: [Dimitrios_Gunaris]
 authors: [Natalia]
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos]
+sources:
+  - "https://pl.wikipedia.org/wiki/Dimitrios_Gunaris"
+  - "https://en.wikipedia.org/wiki/Dimitrios_Gounaris"
 ---
 
 Dimitrios Gunaris był najzdolniejszym mówcą i najważniejszym politycznym przeciwnikiem [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos). Gdy w marcu 1915 roku król [Konstantyn I](/postacie/konstantyn-i) odrzucił plan udziału Grecji w operacji w Dardanelach, to Gunaris objął po Wenizelosie rząd i przez pięć miesięcy prowadził politykę neutralności, której Ententa nie ufała. Później był jednym z filarów królewskich gabinetów, a po upadku Konstantyna w 1917 roku trafił na zesłanie na Korsykę. Po wojnie wrócił, poprowadził antywenizelistów do zwycięstwa i jako premier kierował Grecją w czasie wojny z Turcją. Po jej przegraniu zapłacił za klęskę życiem.

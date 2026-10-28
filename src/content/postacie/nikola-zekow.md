@@ -12,6 +12,9 @@ aliases: [Nikoła Żekow]
 wikiTitles: [Nikoła_Żekow]
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, Serbia, Grecja, Niemcy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikoła_Żekow"
+  - "https://en.wikipedia.org/wiki/Nikola_Zhekov"
 ---
 
 Nikoła Żekow przez całą wojnę, jaką Bułgaria prowadziła po stronie państw centralnych, stał na czele jej armii. Formalnie naczelnym wodzem był car [Ferdynand](/postacie/ferdynand-i-koburg), ale to Żekow, jako głównodowodzący armii czynnej, kierował wojskiem w kampanii serbskiej 1915 roku, w wojnie z Rumunią i przez trzy lata walk na froncie macedońskim. Należał do najbardziej zdecydowanych zwolenników sojuszu z Niemcami, z którymi współpracował, choć nie bez sporów. Jego dowodzenie zakończyło się klęską: gdy we wrześniu 1918 roku sprzymierzeni przełamali front pod Dobrym Polem, leczył się w Wiedniu. Po wojnie sąd skazał go jako jednego z winnych „drugiej katastrofy narodowej”, a w latach trzydziestych stał się jednym z przywódców bułgarskiej skrajnej prawicy.

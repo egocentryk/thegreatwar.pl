@@ -12,6 +12,9 @@ aliases: [Constantin Prezan]
 wikiTitles: [Constantin_Prezan]
 authors: [Natalia]
 tags: [Rumunia, August von Mackensen, Siedmiogród]
+sources:
+  - "https://pl.wikipedia.org/wiki/Constantin_Prezan"
+  - "https://en.wikipedia.org/wiki/Constantin_Prezan"
 ---
 
 Constantin Prezan był najważniejszym dowódcą armii rumuńskiej w pierwszej wojnie światowej, choć nigdy nie zdobył popularności swojego rywala, generała [Alexandru Averescu](/postacie/alexandru-averescu). W 1916 roku prowadził Armię Północną w Siedmiogrodzie, a potem kierował nieudaną kontrofensywą pod Bukaresztem. Od grudnia 1916 roku jako szef sztabu kwatery głównej odbudowywał rozbitą armię, a latem 1917 roku koordynował bitwy, w których Rumuni obronili Mołdawię. Spokojny, małomówny inżynier wojskowy, bliski królowi i premierowi Brătianu, w 1930 roku został marszałkiem Rumunii.

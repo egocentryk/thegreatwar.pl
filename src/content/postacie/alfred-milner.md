@@ -12,6 +12,9 @@ aliases: [Alfred Milner]
 wikiTitles: [Alfred_Milner]
 authors: [Natalia]
 tags: [Wielka Brytania, David Lloyd George, Ferdinand Foch, Związek Południowej Afryki]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alfred_Milner"
+  - "https://en.wikipedia.org/wiki/Alfred_Milner,_1st_Viscount_Milner"
 ---
 
 Alfred Milner, wicehrabia Milner, był jednym z najbardziej wpływowych, a zarazem najmniej widocznych ludzi brytyjskiego wysiłku wojennego. Nie należał formalnie do żadnej partii, nigdy nie zasiadał w Izbie Gmin i nie miał za sobą wyborców, a jednak od grudnia 1916 roku był jednym z pięciu członków [Gabinetu Wojennego](/gabinet-wojenny) i najbliższym obok Andrew Bonar Lawa współpracownikiem [Davida Lloyda George'a](/postacie/david-lloyd-george). Prowadził misję do carskiej Rosji, przewodniczył pracom nad celami pokojowymi imperium, poprawiał tekst [deklaracji Balfoura](/deklaracja-balfoura), a w marcu 1918 roku w Doullens podpisał w imieniu Wielkiej Brytanii porozumienie, które oddało koordynację armii sprzymierzonych generałowi Fochowi. Przez ostatnie miesiące wojny kierował ministerstwem wojny.

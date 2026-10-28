@@ -12,6 +12,9 @@ aliases: [następca tronu Wilhelm, Wilhelm Hohenzollern]
 wikiTitles: [Wilhelm_Hohenzollern_(1882–1951)]
 authors: [Natalia]
 tags: [Niemcy, Wilhelm II, Erich von Falkenhayn]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wilhelm_Hohenzollern_(1882–1951)"
+  - "https://en.wikipedia.org/wiki/Wilhelm,_German_Crown_Prince"
 ---
 
 Wilhelm, ostatni następca tronu Cesarstwa Niemieckiego i Królestwa Prus, był przez całą wojnę jednym z najbardziej znanych niemieckich dowódców, choć prawie nigdy nie dowodził naprawdę. W sierpniu 1914 roku, jako 32-letni oficer, który nigdy nie dowodził niczym większym niż pułk, dostał 5 Armię. Faktycznie kierował nią jego szef sztabu, a ojciec, cesarz [Wilhelm II](/postacie/wilhelm-ii), kazał mu słuchać jego rad. W 1916 roku armia następcy tronu prowadziła niemieckie natarcie pod Verdun i dla Francuzów i Brytyjczyków „Kronprinz” stał się twarzą tej bitwy. Od jesieni 1916 roku do końca wojny dowodził grupą armii w środkowej części frontu zachodniego, która w 1917 roku odparła ofensywę Nivelle'a, a w 1918 roku prowadziła kilka wielkich natarć. W polityce stanął po stronie generałów przeciw kanclerzowi, a po wojnie, na emigracji i po powrocie do kraju, zwalczał republikę i pomógł Hitlerowi w drodze do władzy.

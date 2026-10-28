@@ -12,6 +12,9 @@ aliases: [Ottokar Czernin]
 wikiTitles: [Ottokar_Czernin]
 authors: [Łukasz Skowroń]
 tags: [Ottokar Czernin, Austro-Węgry, Karol I Habsburg, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ottokar_Czernin"
+  - "https://en.wikipedia.org/wiki/Ottokar_Czernin"
 ---
 
 Hrabia Ottokar Czernin kierował dyplomacją monarchii habsburskiej przez szesnaście miesięcy, od grudnia 1916 do kwietnia 1918 roku, w czasie, gdy rozstrzygało się, czy Austro-Węgry przetrwają wojnę. Wierzył, że państwo nie wytrzyma kolejnej wojennej zimy, i przez cały ten czas mówił o pokoju, ale nigdy nie odważył się zerwać z Niemcami, w których sojuszu widział ostatnią gwarancję starego porządku. Jako „minister pokoju” zgodził się na nieograniczoną wojnę podwodną, w Brześciu Litewskim podpisał „pokój chlebowy” z Ukrainą, który oburzył Polaków, a w Rumunii narzucił pokój w Buftei. Upadł przez skandal, który sam wywołał, gdy publicznie zaatakował premiera Francji i doprowadził do ujawnienia tajnych zabiegów pokojowych własnego cesarza.

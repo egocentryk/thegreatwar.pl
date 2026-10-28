@@ -12,6 +12,9 @@ aliases: [Wołodymyr Wynnyczenko]
 wikiTitles: [Wołodymyr_Wynnyczenko]
 authors: [Natalia]
 tags: [Ukraina, Rosja, rewolucja październikowa, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wołodymyr_Wynnyczenko"
+  - "https://en.wikipedia.org/wiki/Volodymyr_Vynnychenko"
 ---
 
 Wołodymyr Wynnyczenko był najpopularniejszym ukraińskim pisarzem swojego pokolenia i jednym z trzech ludzi, którzy prowadzili ukraińską rewolucję. W 1917 roku jako pierwszy szef rządu Centralnej Rady wynegocjował z Piotrogrodem autonomię Ukrainy. Zimą 1917 i 1918 roku, gdy Kijów znalazł się w wojnie z bolszewikami, kierował gabinetem, który wysłał delegację na rokowania pokojowe do Brześcia. W listopadzie 1918 roku stanął na czele Dyrektoriatu, który obalił hetmana Skoropadskiego. Nie wiązał się ani z państwami centralnymi, ani z Ententą. Był socjalistą, przeciwnikiem stałej armii i rzecznikiem porozumienia z rosyjską rewolucją, a w 1918 roku zwalczał hetmanat oparty na niemieckich bagnetach. Jego spór z Symonem Petlurą rozbił przywództwo odrodzonej republiki.

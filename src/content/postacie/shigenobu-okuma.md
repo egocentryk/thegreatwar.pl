@@ -12,6 +12,9 @@ aliases: [Shigenobu Ōkuma]
 wikiTitles: [Shigenobu_Ōkuma]
 authors: [Natalia]
 tags: [Japonia, Chiny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Shigenobu_Ōkuma"
+  - "https://en.wikipedia.org/wiki/Ōkuma_Shigenobu"
 ---
 
 Shigenobu Ōkuma był jednym z ojców nowoczesnej Japonii i najpopularniejszym politykiem swojej epoki. Gdy w kwietniu 1914 roku, mając 76 lat, po raz drugi został premierem, był już legendą: twórcą pierwszej japońskiej partii liberalnej, założycielem uczelni, z której wyrósł Uniwersytet Waseda, i weteranem, który w zamachu stracił nogę. Jego rząd wprowadził Japonię do wielkiej wojny po stronie Ententy, zdobył niemiecką twierdzę Tsingtao i wyspy na Pacyfiku, a w 1915 roku przedstawił Chinom „21 żądań”, które na długo zatruły stosunki obu państw. Polityką zagraniczną kierował jednak w praktyce jego minister Takaaki Katō, a sam Ōkuma bardziej niż strategiem był popularnym przywódcą, który dla swojego gabinetu wygrywał wybory.

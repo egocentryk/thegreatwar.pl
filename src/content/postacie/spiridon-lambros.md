@@ -12,6 +12,9 @@ aliases: [Spiridon Lambros]
 wikiTitles: [Spiridon_Lambros]
 authors: [Natalia]
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos]
+sources:
+  - "https://pl.wikipedia.org/wiki/Spiridon_Lambros"
+  - "https://en.wikipedia.org/wiki/Spyridon_Lambros"
 ---
 
 Spiridon Lambros był jednym z najwybitniejszych greckich uczonych swojej epoki, a do historii wojny przeszedł jako premier, który przez siedem miesięcy kierował królewską częścią podzielonej Grecji. Nie był politykiem ani posłem. Król [Konstantyn I](/postacie/konstantyn-i) powołał go w październiku 1916 roku, gdy w Salonikach powstawał konkurencyjny rząd [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos), a mocarstwa Ententy nie chciały rozmawiać z żadnym gabinetem partyjnym. Jego rząd przyjął kolejne ultimatum francuskiego admirała, przeżył krwawe walki w Atenach i blokadę kraju, a w końcu przeprosił sprzymierzonych. Dla zwolenników króla był szanowanym profesorem, który w beznadziejnym położeniu bronił resztek niezależności państwa. Dla wenizelistów i dla większości Francuzów był tylko posłusznym narzędziem dworu. Po usunięciu Konstantyna z tronu zapłacił za to zesłaniem i konfiskatą majątku.

@@ -12,6 +12,9 @@ aliases: [Grigorij Rasputin]
 wikiTitles: [Grigorij_Rasputin]
 authors: [Natalia]
 tags: [Grigorij Rasputin, Rosja, Mikołaj II]
+sources:
+  - "https://pl.wikipedia.org/wiki/Grigorij_Rasputin"
+  - "https://en.wikipedia.org/wiki/Grigori_Rasputin"
 ---
 
 Grigorij Jefimowicz Rasputin nie piastował żadnego urzędu, nie był duchownym ani żołnierzem, a mimo to stał się jedną z najsłynniejszych postaci wojennej Rosji. Syberyjski chłop, wędrowny pątnik i samozwańczy „starzec”, zdobył zaufanie cesarza [Mikołaja II](/postacie/mikolaj-ii) i jego żony [Aleksandry Fiodorowny](/postacie/aleksandra-fiodorowna), bo wierzyli, że jego modlitwy ratują życie ich chorego na hemofilię syna. Gdy w 1915 roku car wyjechał do Kwatery Głównej, w stolicy powszechnie sądzono, że to Rasputin, za pośrednictwem carycy, mianuje i odwołuje ministrów. Jego pijackie ekscesy i pogłoski o zdradzie kompromitowały dynastię bardziej niż klęski na froncie. W grudniu 1916 roku zamordowali go spiskowcy z arystokracji, ale monarchia przetrwała go tylko o dziesięć tygodni. Historycy do dziś spierają się, ile było w jego władzy rzeczywistości, a ile legendy.

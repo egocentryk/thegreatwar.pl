@@ -12,6 +12,9 @@ aliases: [Georg von der Marwitz]
 wikiTitles: [Georg_von_der_Marwitz]
 authors: [Natalia]
 tags: [Niemcy, Brytyjski Korpus Ekspedycyjny, czołgi, Australia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Georg_von_der_Marwitz"
+  - "https://en.wikipedia.org/wiki/Georg_von_der_Marwitz"
 ---
 
 Georg von der Marwitz był jednym z ostatnich wielkich kawalerzystów armii pruskiej i jednym z niewielu niemieckich generałów, którzy w tej wojnie dowodzili na obu frontach w każdej jej fazie. W sierpniu 1914 roku prowadził korpus kawalerii przed armiami maszerującymi przez Belgię na Paryż, w 1915 roku walczył w Karpatach i w Galicji, a od końca 1916 roku dowodził 2 Armią nad Sommą. Jego nazwisko łączy się z dwiema bitwami, w których główną rolę odegrały brytyjskie czołgi: pod Cambrai w listopadzie 1917 roku, gdzie po początkowym zaskoczeniu zdołał odzyskać większość straconego terenu, i pod Amiens 8 sierpnia 1918 roku, w dniu, który Ludendorff nazwał czarnym dniem armii niemieckiej.

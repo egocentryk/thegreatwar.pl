@@ -12,6 +12,9 @@ aliases: [Maurice Sarrail]
 wikiTitles: [Maurice_Sarrail]
 authors: [Łukasz Skowroń]
 tags: [Francja, Serbia, Grecja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Maurice_Sarrail"
+  - "https://en.wikipedia.org/wiki/Maurice_Sarrail"
 ---
 
 Maurice Sarrail był najbardziej upolitycznionym generałem francuskiej armii tej wojny. Republikanin, dreyfusista i wolnomularz, w korpusie oficerskim zdominowanym przez katolików i konserwatystów uchodził za człowieka lewicy, i to polityka dwa razy rozstrzygała o jego losie. W 1914 roku dowodził 3 Armią pod Verdun. Latem 1915 roku Joffre odebrał mu dowództwo, a obrona Sarraila przez lewicę wywołała pierwszy wielki konflikt między politykami a wojskiem we Francji. Rząd dał mu wtedy nowe zadanie: wyprawę na Wschód. Przez ponad dwa lata Sarrail dowodził w Salonikach wielonarodową armią Francuzów, Brytyjczyków, Serbów, Włochów, Rosjan i Greków, zdobył Bitolę i odegrał ważną rolę w usunięciu z tronu greckiego króla. Do zwycięstwa w Macedonii jednak swoich wojsk nie doprowadził, a pod koniec 1917 roku stracił zaufanie wszystkich sojuszników.

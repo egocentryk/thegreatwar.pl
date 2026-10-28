@@ -12,6 +12,9 @@ aliases: [Vittorio Emanuele Orlando]
 wikiTitles: [Vittorio_Emanuele_Orlando]
 authors: [Łukasz Skowroń]
 tags: [Vittorio Emanuele Orlando, Włochy, Sidney Sonnino, Luigi Cadorna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Vittorio_Emanuele_Orlando"
+  - "https://en.wikipedia.org/wiki/Vittorio_Emanuele_Orlando"
 ---
 
 Vittorio Emanuele Orlando objął rząd Włoch w najgorszym momencie ich wojny, w ostatnich dniach października 1917 roku, gdy armia cofała się w nieładzie spod Caporetto. Wybitny profesor prawa publicznego z Palermo, do tej pory minister spraw wewnętrznych oskarżany przez naczelne dowództwo o pobłażliwość wobec przeciwników wojny, okazał się premierem, jakiego kraj wtedy potrzebował. Zmienił naczelnego wodza, zjednoczył parlament i opinię publiczną wokół obrony na Piawie, a w październiku 1918 roku naciskał na armię, by zadała Austro-Węgrom ostateczny cios pod Vittorio Veneto. Jako „premier zwycięstwa” zasiadł w Paryżu w „wielkiej czwórce” obok Wilsona, Clemenceau i Lloyda George’a, ale przegrał tam spór o Fiume i wybrzeże Adriatyku, a rozczarowanie „okaleczonym zwycięstwem” przyczyniło się do kryzysu, z którego wyrósł faszyzm.

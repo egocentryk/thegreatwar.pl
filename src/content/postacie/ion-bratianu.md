@@ -12,6 +12,9 @@ aliases: [Ion I.C. Brătianu, Ion Brătianu]
 wikiTitles: [Ion_I.C._Brătianu]
 authors: [Natalia]
 tags: [Rumunia, neutralność, Siedmiogród, Ferdynand I Rumuński]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ion_I.C._Brătianu"
+  - "https://en.wikipedia.org/wiki/Ion_I._C._Brătianu"
 ---
 
 Ion I.C. Brătianu, nazywany przez Rumunów Ionelem, by odróżnić go od sławnego ojca, był najpotężniejszym politykiem Rumunii pierwszej ćwierci XX wieku. Jako premier w latach 1914–1918 przez dwa lata utrzymywał kraj w neutralności, rozmawiając jednocześnie z Ententą i z państwami centralnymi, aż w sierpniu 1916 roku uznał, że nadeszła chwila, by sięgnąć po Siedmiogród. Wojna przyniosła Rumunii najpierw klęskę i okupację, a dopiero potem zjednoczenie, którego Brătianu bronił na konferencji pokojowej w Paryżu. Dla jednych był architektem Wielkiej Rumunii, dla innych zimnym graczem, który wprowadził do wojny nieprzygotowaną armię i za długo zwlekał. Prasa nazywała go „sfinksem”, bo do ostatniej chwili nikt nie wiedział, co zamierza.

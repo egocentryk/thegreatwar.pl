@@ -12,6 +12,9 @@ aliases: [Alexandru Averescu]
 wikiTitles: [Alexandru_Averescu]
 authors: [Łukasz Skowroń]
 tags: [Rumunia, August von Mackensen, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alexandru_Averescu"
+  - "https://en.wikipedia.org/wiki/Alexandru_Averescu"
 ---
 
 Alexandru Averescu był najpopularniejszym rumuńskim generałem pierwszej wojny światowej. Dowodził 2 Armią, która latem 1917 roku pod [Mărăști](/bitwy/bitwa-pod-marasti) odniosła pierwsze wyraźne zwycięstwo odbudowanej armii rumuńskiej. Żołnierze i chłopi widzieli w nim dowódcę, który umie wygrywać i nie należy do skompromitowanej elity politycznej. Rywale uważali go za zarozumiałego i kłótliwego intryganta. W najczarniejszej chwili wojny, w lutym 1918 roku, król powierzył mu rząd i rokowania z państwami centralnymi, które zaciążyły na jego reputacji. Po wojnie stworzył własne stronnictwo i trzykrotnie był premierem.

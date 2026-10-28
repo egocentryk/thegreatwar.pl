@@ -12,6 +12,9 @@ aliases: [Dżafar al-Askari]
 wikiTitles: [Dżafar_al-Askari]
 authors: [Natalia]
 tags: [powstanie arabskie, Sanusijja, Imperium Osmańskie, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Dżafar_al-Askari"
+  - "https://en.wikipedia.org/wiki/Ja'far_al-Askari"
 ---
 
 Dżafar al-Askari przeszedł w czasie wielkiej wojny drogę, jakiej nie przeszedł chyba żaden inny oficer: walczył najpierw przeciw Brytyjczykom, a potem u ich boku. Arab z Bagdadu, wykształcony w Konstantynopolu i w Niemczech, w 1915 roku zorganizował i poprowadził wojska bractwa [Sanusijja](https://pl.wikipedia.org/wiki/Sanusijja) w ich wyprawie na zachodnią granicę Egiptu. W lutym 1916 roku dostał się do niewoli pod Agagią. W kairskim więzieniu, wstrząśnięty egzekucjami arabskich działaczy w Syrii, postanowił przyłączyć się do powstania szarifa Mekki. Od 1917 roku dowodził regularnymi oddziałami Arabskiej Armii Północnej emira [Fajsala](/postacie/fajsal-i), z którą walczył pod Petrą, At-Tafilą i Ma’anem, aż do zajęcia Syrii. Po wojnie współtworzył armię i państwo irackie, dwa razy był premierem Iraku i zginął w 1936 roku podczas pierwszego wojskowego zamachu stanu w tym kraju.

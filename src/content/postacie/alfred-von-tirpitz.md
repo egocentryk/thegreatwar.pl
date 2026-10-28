@@ -12,6 +12,9 @@ aliases: [Alfred von Tirpitz]
 wikiTitles: [Alfred_von_Tirpitz]
 authors: [Łukasz Skowroń]
 tags: [Alfred von Tirpitz, Kaiserliche Marine, okręty podwodne]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alfred_von_Tirpitz"
+  - "https://en.wikipedia.org/wiki/Alfred_von_Tirpitz"
 ---
 
 Alfred von Tirpitz przez prawie dwadzieścia lat kierował Urzędem Marynarki Rzeszy i zbudował drugą co do wielkości flotę wojenną świata. Jego program budowy pancerników miał zmusić Wielką Brytanię do liczenia się z Niemcami, a w rzeczywistości pchnął ją ku porozumieniu z Francją i Rosją. Gdy wybuchła wojna, okazało się, że jego flota nie może zagrozić panowaniu Royal Navy na morzu. Tirpitz, który jako urzędnik nie dowodził okrętami, został wtedy najgłośniejszym rzecznikiem bezwzględnej wojny podwodnej. W marcu 1916 roku przegrał ten spór z kanclerzem i odszedł, a rok później stanął na czele nacjonalistycznej Niemieckiej Partii Ojczyźnianej, która zwalczała pokój kompromisowy.

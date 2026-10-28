@@ -12,6 +12,9 @@ aliases: [Heinrich Schnee]
 wikiTitles: [Heinrich_Schnee]
 authors: [Natalia]
 tags: [Niemiecka Afryka Wschodnia, Paul von Lettow-Vorbeck, kolonie niemieckie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Heinrich_Schnee"
+  - "https://en.wikipedia.org/wiki/Heinrich_Schnee"
 ---
 
 Heinrich Schnee był ostatnim gubernatorem [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), największej i najludniejszej kolonii Rzeszy. Urzędnik cywilny, prawnik i administrator, w sierpniu 1914 roku próbował uchronić kolonię przed wojną i zawarł z Brytyjczykami rozejm, który dowódca wojsk kolonialnych [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) uznał za upokarzający. Spór obu ludzi o to, czy kolonia ma się bronić, czy walczyć, rozstrzygnęły zwycięstwa Lettow-Vorbecka. Gubernator, formalnie zwierzchnik wojska, coraz bardziej usuwał się w cień, a od 1916 roku wędrował razem z armią przez busz, aż do kapitulacji w listopadzie 1918 roku. Po wojnie stał się czołowym rzecznikiem odzyskania przez Niemcy kolonii.

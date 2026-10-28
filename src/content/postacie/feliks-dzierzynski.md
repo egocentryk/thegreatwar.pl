@@ -12,6 +12,9 @@ aliases: [Feliks Dzierżyński]
 wikiTitles: [Feliks_Dzierżyński]
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Feliks_Dzierżyński"
+  - "https://en.wikipedia.org/wiki/Felix_Dzerzhinsky"
 ---
 
 Feliks Dzierżyński, Polak ze szlacheckiej rodziny spod Wilna, spędził pierwsze lata wojny w carskich więzieniach i na katordze. Uwolniła go dopiero [rewolucja lutowa](/rewolucja-lutowa). Dziewięć miesięcy później stał na czele [Czeki](/powolanie-czeka), Wszechrosyjskiej Komisji Nadzwyczajnej, którą rząd [Włodzimierza Lenina](/postacie/wlodzimierz-lenin) powołał do walki z kontrrewolucją i sabotażem. W 1918 roku z kilkudziesięcioosobowego biura w Piotrogrodzie zrobił potężną policję polityczną z prawem aresztowania, sądzenia i rozstrzeliwania bez sądu, a jesienią kierował [czerwonym terrorem](/czerwony-terror). W sporze o pokój brzeski był po stronie przeciwników Lenina, a w lipcu jego własna instytucja stała się narzędziem zamachu na niemieckiego posła. Na stronie ententy znalazł się tylko formalnie: rząd, któremu służył, wyprowadził Rosję z wojny.

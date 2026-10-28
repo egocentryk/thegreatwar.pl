@@ -13,6 +13,9 @@ aliases: [Halil Kut, Halil Pasza, Halil Bej]
 wikiTitles: [Halil_Kut]
 authors: [Łukasz Skowroń]
 tags: [Imperium Osmańskie, Enver Pasza, Indie Brytyjskie, ludobójstwo Ormian]
+sources:
+  - "https://pl.wikipedia.org/wiki/Halil_Kut"
+  - "https://en.wikipedia.org/wiki/Halil_Kut"
 ---
 
 Halil, w czasie wielkiej wojny najpierw Halil Bej, potem Halil Pasza, a od 1934 roku Halil Kut, był jednym z „politycznych żołnierzy” Komitetu Jedności i Postępu, którzy dzięki rewolucji młodotureckiej i pokrewieństwu z możnymi szybko doszli do najwyższych stanowisk. Był młodszym bratem ojca ministra wojny [Envera Paszy](/postacie/enver-pasza), choć od bratanka młodszym o rok. Do historii przeszedł jako zwycięzca spod Al-Kutu, gdzie w kwietniu 1916 roku przyjął kapitulację ponad 13 tysięcy brytyjskich i indyjskich żołnierzy generała Charlesa Townshenda. Rok później oddał Brytyjczykom Bagdad, a w 1918 roku dowodził wojskami, które zdobyły Baku. Historycy zaliczają go zarazem do sprawców [ludobójstwa Ormian](https://pl.wikipedia.org/wiki/Ludobójstwo_Ormian), czego on sam w swoich wspomnieniach nie ukrywał.

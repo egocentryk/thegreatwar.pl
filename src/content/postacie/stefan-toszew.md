@@ -12,6 +12,9 @@ aliases: [Stefan Toszew]
 wikiTitles: [Stefan_Toszew]
 authors: [Natalia]
 tags: [Bułgaria, Rumunia, August von Mackensen]
+sources:
+  - "https://pl.wikipedia.org/wiki/Stefan_Toszew"
+  - "https://en.wikipedia.org/wiki/Stefan_Toshev"
 ---
 
 Stefan Toszew był dowódcą, który dał Bułgarii jej najgłośniejsze zwycięstwo w wielkiej wojnie. We wrześniu 1916 roku jego 3 Armia w kilka dni zdobyła rumuńską twierdzę Turtucaię nad Dunajem, wzięła do niewoli blisko 30 tysięcy żołnierzy i w ciągu kilku tygodni odebrała Rumunii południową Dobrudżę, ziemię, którą Bułgaria straciła w 1913 roku. Był przy tym oficerem upartym i dumnym, który nie chciał być tylko wykonawcą rozkazów niemieckiego feldmarszałka. Spory z [Augustem von Mackensenem](/postacie/august-von-mackensen) kosztowały go dowództwo, zanim kampania w Dobrudży dobiegła końca. Po wojnie bronił piórem honoru bułgarskiej armii przed tym, co pisali o niej niemieccy generałowie.

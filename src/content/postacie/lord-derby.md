@@ -12,6 +12,9 @@ aliases: [Lord Derby, Edward Stanley]
 wikiTitles: [Edward_Stanley_(17._hrabia_Derby)]
 authors: [Natalia]
 tags: [Wielka Brytania, British Army, Douglas Haig, David Lloyd George]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edward_Stanley_(17._hrabia_Derby)"
+  - "https://en.wikipedia.org/wiki/Edward_Stanley,_17th_Earl_of_Derby"
 ---
 
 Edward George Villiers Stanley, 17. hrabia Derby, był jednym z najbogatszych ludzi w Anglii i najbardziej wpływowym arystokratą jej przemysłowej północy, nazywanym „niekoronowanym królem Lancashire”. W czasie wielkiej wojny zapisał się dwiema rolami. W 1915 roku, jako dyrektor generalny werbunku, dał brytyjskiemu systemowi ochotniczemu ostatnią szansę w planie nazwanym jego imieniem. Od grudnia 1916 do kwietnia 1918 roku był ministrem wojny w rządzie [Davida Lloyda George'a](/postacie/david-lloyd-george) i stał między premierem a generałami, których premier chciał się pozbyć. Tę drugą rolę oceniano surowo: bronił marszałka [Douglasa Haiga](/postacie/douglas-haig) i generała Williama Robertsona, ale nie umiał ich obronić, a sam Haig porównał go do poduszki z pierza.

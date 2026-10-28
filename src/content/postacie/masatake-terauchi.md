@@ -12,6 +12,9 @@ aliases: [Masatake Terauchi]
 wikiTitles: [Masatake_Terauchi]
 authors: [Łukasz Skowroń]
 tags: [Japonia, Chiny, Rosja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Masatake_Terauchi"
+  - "https://en.wikipedia.org/wiki/Terauchi_Masatake"
 ---
 
 Masatake Terauchi był żołnierzem-administratorem z kręgu marszałka [Aritomo Yamagaty](https://pl.wikipedia.org/wiki/Aritomo_Yamagata), człowiekiem, który przeprowadził aneksję Korei i przez sześć lat rządził nią twardą ręką. Jesienią 1916 roku starsi mężowie stanu postawili go na czele rządu, który nie opierał się na żadnej partii. Jego gabinet prowadził Japonię przez drugą połowę wojny: wysłał japońskie niszczyciele na Morze Śródziemne w zamian za tajne obietnice dotyczące Szantungu i wysp na Pacyfiku, pożyczkami kupił sobie wpływy w Pekinie, zawarł porozumienie ze Stanami Zjednoczonymi w sprawie Chin i w sierpniu 1918 roku wysłał wojsko na Syberię. Kilka tygodni później obaliły go zamieszki ryżowe, a jego następcą został pierwszy w pełni partyjny premier Japonii.

@@ -12,6 +12,9 @@ aliases: [Łazar Biczerachow]
 wikiTitles: [Łazar_Biczerachow]
 authors: [Natalia]
 tags: [Rosja, Wielka Brytania, Persja, Kaukaz]
+sources:
+  - "https://pl.wikipedia.org/wiki/Łazar_Biczerachow"
+  - "https://en.wikipedia.org/wiki/Lazar_Bicherakhov"
 ---
 
 Łazar Biczerachow był jednym z niewielu rosyjskich oficerów, którzy po [przewrocie bolszewickim](/rewolucja-pazdziernikowa) nie złożyli broni i do końca wojny walczyli z państwami centralnymi. Osetyjczyk z kozaków terskich, dowódca niewielkiego, ale bitnego oddziału „partyzantów” w Persji, na przełomie 1917 i 1918 roku przeszedł z ludźmi na żołd brytyjski. Stał się wtedy główną siłą zbrojną misji generała [Lionela Dunsterville'a](/misja-dunsterville), która przez Persję szła nad Morze Kaspijskie. W 1918 roku rozbił perskich dżangalijczyków pod Mandżilem, na pewien czas dowodził wojskami bolszewickiej Komuny Bakijskiej w walce z Turkami, a potem opanował wybrzeże Dagestanu. Brytyjczycy widzieli w nim bohatera, bolszewicy zdrajcę. Biali uznali go za swojego generała, choć nie podporządkował się [Antonowi Denikinowi](/postacie/anton-denikin). Działał w historii wojny na Kaukazie z wielką swobodą, często na własną rękę, i do dziś budzi skrajne oceny.

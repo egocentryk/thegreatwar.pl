@@ -12,6 +12,9 @@ aliases: [Karl Pflanzer-Baltin, Karl von Pflanzer-Baltin]
 wikiTitles: [Karl_Pflanzer-Baltin]
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Bukowina, Galicja, Albania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Karl_Pflanzer-Baltin"
+  - "https://en.wikipedia.org/wiki/Karl_von_Pflanzer-Baltin"
 ---
 
 Karl Pflanzer-Baltin w czerwcu 1914 roku poprosił o przeniesienie w stan spoczynku. Miał 59 lat, słabe zdrowie i karierę, która wydawała się zakończona. Wojna zrobiła z niego jednego z najbardziej znanych generałów monarchii. Jesienią 1914 roku z naprędce zebranych oddziałów stworzył grupę, która obroniła przed Rosjanami Karpaty Wschodnie, a zimą 1915 roku odbiła Bukowinę z Czerniowcami. Jako dowódca 7 Armii przez półtora roku trzymał najdalej na południe wysunięty odcinek frontu wschodniego, aż w czerwcu 1916 roku jego armia rozpadła się pod ciosami ofensywy Brusiłowa. Odsunięty pod naciskiem Niemców, wrócił w 1918 roku, by w Albanii poprowadzić ostatnie zwycięskie natarcie armii austro-węgierskiej.

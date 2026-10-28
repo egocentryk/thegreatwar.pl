@@ -12,6 +12,9 @@ aliases: [John Pershing]
 wikiTitles: [John_Pershing]
 authors: [Łukasz Skowroń]
 tags: [John Pershing, Stany Zjednoczone, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/John_Pershing"
+  - "https://en.wikipedia.org/wiki/John_J._Pershing"
 ---
 
 John Joseph Pershing, nazywany „Black Jack”, dowodził wojskami Stanów Zjednoczonych we Francji od pierwszych tygodni po przystąpieniu Ameryki do wojny aż do jej końca. Gdy w czerwcu 1917 roku przypłynął do Europy, miał za sobą tylko sztab, a armia, którą miał poprowadzić, jeszcze nie istniała. W listopadzie 1918 roku dowodził niemal dwoma milionami żołnierzy w dwóch armiach polowych. Przez cały ten czas uparcie odmawiał Francuzom i Brytyjczykom, którzy chcieli wcielać Amerykanów do swoich dywizji jako uzupełnienia, i wywalczył dla nich samodzielną armię z własnym odcinkiem frontu. Prowadził ją pod [Saint-Mihiel](/bitwy/bitwa-pod-saint-mihiel) i w [ofensywie Moza-Argonne](/bitwy/ofensywa-moza-argonne), najkrwawszej bitwie w dziejach armii amerykańskiej. Dla jednych był wielkim organizatorem, który dał Ameryce armię na miarę mocarstwa, dla innych upartym generałem, który za samodzielność zapłacił życiem tysięcy żołnierzy.

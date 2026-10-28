@@ -12,6 +12,9 @@ aliases: [Woodrow Wilson]
 wikiTitles: [Woodrow_Wilson]
 authors: [Łukasz Skowroń]
 tags: [Woodrow Wilson, Stany Zjednoczone, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Woodrow_Wilson"
+  - "https://en.wikipedia.org/wiki/Woodrow_Wilson"
 ---
 
 Thomas Woodrow Wilson, profesor historii i nauk politycznych, który został prezydentem Stanów Zjednoczonych, był jedną z niewielu postaci tej wojny, których wpływ wykraczał daleko poza pole bitwy. Przez dwa i pół roku utrzymywał neutralność swojego kraju, spierając się w niekończących się notach z Niemcami o wojnę podwodną i z Wielką Brytanią o blokadę, i próbował pośredniczyć między walczącymi. W kwietniu 1917 roku wprowadził Amerykę do wojny, która dzięki jej ludziom, pieniądzom i przemysłowi zakończyła się półtora roku później klęską Niemiec. Jego czternaście punktów stało się najbardziej znanym programem pokojowym epoki, a dla Polaków, Czechów, Słowaków i Jugosłowian obietnicą wolności. Na konferencji pokojowej w Paryżu Wilson doprowadził do powstania Ligi Narodów, ale własny kraj odrzucił traktat wersalski, a on sam, sparaliżowany po udarze, kończył prezydenturę jako człowiek złamany.

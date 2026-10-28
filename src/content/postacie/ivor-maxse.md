@@ -12,6 +12,9 @@ aliases: [Ivor Maxse]
 wikiTitles: [Ivor_Maxse]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Douglas Haig]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ivor_Maxse"
+  - "https://en.wikipedia.org/wiki/Ivor_Maxse"
 ---
 
 Sir Ivor Maxse należał do tych brytyjskich generałów, którzy najlepiej zrozumieli, czego wymaga wojna okopowa. Nie był wielkim strategiem ani dowódcą armii, lecz nauczycielem. Z ochotników z Nowych Armii Kitchenera zbudował 18 Dywizję, jedną z najlepszych w armii brytyjskiej, która 1 lipca 1916 roku zdobyła wszystkie swoje cele, a we wrześniu wzięła Thiepval, uważane za twierdzę nie do zdobycia. Potem dowodził korpusem pod Ypres i w czasie niemieckiej ofensywy wiosną 1918 roku, a w ostatnich miesiącach wojny jako inspektor generalny szkolenia ujednolicał metody walki armii, która jesienią pokonała Niemców. Był człowiekiem gwałtownym i wymagającym, budzącym postrach wśród leniwych oficerów, a zarazem otwartym na nowe pomysły i ciepłym wobec tych, którzy się go nie bali.

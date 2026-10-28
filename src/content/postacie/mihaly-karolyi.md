@@ -12,6 +12,9 @@ aliases: [Mihály Károlyi]
 wikiTitles: [Mihály_Károlyi]
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, István Tisza, Karol I Habsburg, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Mihály_Károlyi"
+  - "https://en.wikipedia.org/wiki/Mihály_Károlyi"
 ---
 
 Hrabia Mihály Károlyi, jeden z najbogatszych ludzi na Węgrzech, był w czasie wojny głównym przeciwnikiem polityki [Istvána Tiszy](/postacie/istvan-tisza) i najbardziej znanym węgierskim zwolennikiem pokoju i porozumienia z Ententą. Przez pierwsze lata wojny był politykiem drugiego planu, ale gdy kraj zmęczył się wojną, jego hasła odrębnego pokoju, zerwania sojuszu z Niemcami i demokratycznych reform przyniosły mu wielką popularność. W ostatnich dniach października 1918 roku [rewolucja astrów](/rewolucja-w-wiedniu-i-budapeszcie) wyniosła go do władzy. Jako premier zerwał unię z Austrią, wycofał Węgry z wojny i w listopadzie stanął na czele [Węgierskiej Republiki Ludowej](/niepodleglosc-wegier). Formalnie należał więc do obozu państw centralnych, ale w 1918 roku to on zerwał z nimi Węgry. Liczył, że zwycięzcy potraktują demokratyczne Węgry łagodnie. Zawiódł się, a po niespełna pięciu miesiącach rządów musiał ustąpić. Do dziś pozostaje jedną z najbardziej spornych postaci w dziejach Węgier.

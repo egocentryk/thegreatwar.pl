@@ -12,6 +12,9 @@ aliases: [István Tisza]
 wikiTitles: [István_Tisza]
 authors: [Natalia]
 tags: [István Tisza, Austro-Węgry, Serbia, Karol I Habsburg]
+sources:
+  - "https://pl.wikipedia.org/wiki/István_Tisza"
+  - "https://en.wikipedia.org/wiki/István_Tisza"
 ---
 
 Hrabia István Tisza był najsilniejszym politykiem węgierskiej połowy monarchii habsburskiej i jedynym z jej przywódców, który w lipcu 1914 roku przez blisko dwa tygodnie sprzeciwiał się wojnie z Serbią. Gdy jednak ustąpił, prowadził ją z żelazną konsekwencją jako premier Węgier aż do 1917 roku, a potem, już bez urzędu, jako przywódca większości w budapeszteńskim parlamencie. Bronił dualizmu, czyli równorzędnej pozycji Węgier wobec Austrii, panowania węgierskiej szlachty nad narodowościami Królestwa i wąskiego prawa wyborczego, przez co dla Słowaków, Rumunów, Serbów i węgierskiej lewicy stał się symbolem starego porządku i wojny. Zginął z rąk żołnierzy w pierwszym dniu węgierskiej rewolucji, 31 października 1918 roku.

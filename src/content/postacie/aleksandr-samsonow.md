@@ -12,6 +12,9 @@ aliases: [Aleksandr Samsonow]
 wikiTitles: [Aleksandr_Samsonow]
 authors: [Łukasz Skowroń]
 tags: [Aleksandr Samsonow, Rosja, Prusy Wschodnie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksandr_Samsonow"
+  - "https://en.wikipedia.org/wiki/Alexander_Samsonov"
 ---
 
 Generał Aleksandr Samsonow dowodził rosyjską 2 Armią w sierpniu 1914 roku, w pierwszej rosyjskiej ofensywie na Prusy Wschodnie. W ciągu niespełna dwóch tygodni od przekroczenia granicy jego armia została okrążona i rozbita pod Tannenbergiem, a do niewoli trafiło ponad 90 tysięcy żołnierzy. Samsonow nie przeżył klęski: w nocy z 29 na 30 sierpnia oddalił się od swojego sztabu w lesie pod Wielbarkiem i zastrzelił się. Jego nazwisko stało się symbolem katastrofy, do której przyczyniły się jednak nie tylko jego błędy, lecz także plan, pośpiech i chaos dowodzenia na wszystkich szczeblach rosyjskiej armii.

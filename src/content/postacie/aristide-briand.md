@@ -12,6 +12,9 @@ aliases: [Aristide Briand]
 wikiTitles: [Aristide_Briand]
 authors: [Łukasz Skowroń]
 tags: [Aristide Briand, Francja, Grecja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aristide_Briand"
+  - "https://en.wikipedia.org/wiki/Aristide_Briand"
 ---
 
 Aristide Briand był najdłużej urzędującym premierem Francji w czasie wojny. Rządził od października 1915 do marca 1917 roku, a więc przez Verdun, Sommę, przystąpienie i klęskę Rumunii oraz najostrzejsze spory o to, kto ma kierować wojną: rząd, parlament czy naczelne dowództwo. Dawny socjalista i mistrz parlamentarnego kompromisu, umiał godzić zwaśnione stronnictwa, ale nie zawsze potrafił podejmować twarde decyzje. Był głównym orędownikiem wyprawy do Salonik i polityki, która uczyniła z Grecji pole bitwy dyplomatów. Odsunął od dowództwa Joffre'a i postawił na Nivelle'a, co obróciło się przeciwko niemu. Po wojnie, jako wieloletni minister spraw zagranicznych, stał się symbolem pojednania z Niemcami i w 1926 roku dostał Pokojową Nagrodę Nobla.

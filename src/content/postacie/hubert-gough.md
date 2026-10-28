@@ -12,6 +12,9 @@ aliases: [Hubert Gough]
 wikiTitles: [Hubert_Gough]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Douglas Haig, Irlandia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Hubert_Gough"
+  - "https://en.wikipedia.org/wiki/Hubert_Gough"
 ---
 
 Sir Hubert Gough zrobił w czasie wojny karierę szybszą niż ktokolwiek w armii brytyjskiej. W sierpniu 1914 roku był pułkownikiem z tymczasowym stopniem generała brygady i dowodził brygadą kawalerii, a niecałe dwa lata później, mając 45 lat, został pełnym generałem i dowódcą armii, najmłodszym na froncie zachodnim. Jego armia, najpierw nazywana Rezerwową, potem 5 Armią, walczyła nad Sommą, pod Bullecourt i w trzeciej bitwie pod Ypres, a w marcu 1918 roku przyjęła główny cios niemieckiej ofensywy wiosennej. Po tej klęsce rząd odebrał mu dowództwo. Gough przez resztę długiego życia walczył o dobre imię i w dużej mierze je odzyskał. Historycy wciąż jednak spierają się, czy w 1918 roku był ofiarą cudzych błędów, czy zapłacił z opóźnieniem za własne z lat 1916–1917.

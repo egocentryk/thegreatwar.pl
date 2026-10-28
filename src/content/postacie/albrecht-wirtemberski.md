@@ -12,6 +12,9 @@ aliases: [Albrecht Wirtemberski]
 wikiTitles: [Albrecht_Wirtemberski]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Belgia, broń chemiczna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Albrecht_Wirtemberski"
+  - "https://en.wikipedia.org/wiki/Albrecht,_Duke_of_Württemberg"
 ---
 
 Książę Albrecht Wirtemberski, przewidywany następca tronu [Królestwa Wirtembergii](https://pl.wikipedia.org/wiki/Królestwo_Wirtembergii), dowodził w latach 1914–1917 niemiecką 4 Armią. Jego wojska pobiły Francuzów w Ardenach w sierpniu 1914 roku, a jesienią tego roku, przerzucone do Flandrii, prowadziły krwawe natarcia nad Yser i pod Ypres, z których narodziła się niemiecka legenda Langemarck. Pod jego dowództwem 22 kwietnia 1915 roku Niemcy przeprowadzili pod Ypres pierwszy wielki atak chlorem. Od 1917 roku do końca wojny dowodził grupą armii na spokojniejszym, południowym odcinku frontu zachodniego, w Lotaryngii i Alzacji. Należał do tych książąt-dowódców, którzy cieszyli się w armii szacunkiem, choć jego nazwisko zawsze pozostawało w cieniu bawarskiego kuzyna Rupprechta i jego sztabowców.

@@ -12,6 +12,9 @@ aliases: [Paul von Lettow-Vorbeck]
 wikiTitles: [Paul_von_Lettow-Vorbeck]
 authors: [Natalia]
 tags: [Paul von Lettow-Vorbeck, Niemiecka Afryka Wschodnia, kolonie niemieckie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck"
+  - "https://en.wikipedia.org/wiki/Paul_von_Lettow-Vorbeck"
 ---
 
 Paul von Lettow-Vorbeck dowodził niemieckimi wojskami kolonialnymi, [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Od sierpnia 1914 do listopada 1918 roku, z armią złożoną w większości z afrykańskich [askarysów](https://pl.wikipedia.org/wiki/Askarysi) i odciętą od Niemiec brytyjską blokadą, walczył z wielokrotnie liczniejszymi wojskami brytyjskimi, południowoafrykańskimi, indyjskimi, belgijskimi i portugalskimi. Nigdy nie dał się okrążyć ani rozbić, a broń złożył dopiero dwa tygodnie po rozejmie w Compiègne. W Niemczech stał się legendą „niepokonanego w polu” generała. Dziś pamięta się także o ogromnej cenie, jaką za jego kampanię zapłaciła ludność Afryki Wschodniej.

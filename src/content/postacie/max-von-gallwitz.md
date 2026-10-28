@@ -12,6 +12,9 @@ aliases: [Max von Gallwitz]
 wikiTitles: [Max_von_Gallwitz]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Królestwo Polskie, wielki odwrót 1915, Serbia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Max_von_Gallwitz"
+  - "https://en.wikipedia.org/wiki/Max_von_Gallwitz"
 ---
 
 Max von Gallwitz był jednym z nielicznych niemieckich generałów, którzy w I wojnie światowej dowodzili wielkimi jednostkami na wszystkich głównych frontach Niemiec: w Belgii, w Prusach Wschodnich i w Polsce, w Serbii, nad Sommą, pod Verdun i wreszcie przeciw Amerykanom. Artylerzysta z zawodu, w sierpniu 1914 roku zdobył ciężkimi działami belgijską twierdzę Namur. W lipcu 1915 roku jego grupa armijna przełamała front rosyjski pod Przasnyszem i nad Narwią, co przyczyniło się do utraty przez Rosjan Warszawy i całego Królestwa Polskiego. Jesienią tego roku poprowadził niemiecką armię przez Dunaj do Serbii. Od 1916 roku walczył na zachodzie, a w 1918 roku jego grupa armii przyjęła na siebie pierwsze wielkie ofensywy amerykańskie pod Saint-Mihiel i w Argonnach.

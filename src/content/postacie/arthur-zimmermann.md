@@ -12,6 +12,9 @@ aliases: [Arthur Zimmermann]
 wikiTitles: [Arthur_Zimmermann]
 authors: [Natalia]
 tags: [Niemcy, Stany Zjednoczone, wywiad, okręty podwodne]
+sources:
+  - "https://pl.wikipedia.org/wiki/Arthur_Zimmermann"
+  - "https://en.wikipedia.org/wiki/Arthur_Zimmermann"
 ---
 
 Arthur Zimmermann kierował niemiecką dyplomacją tylko przez niecałe dziewięć miesięcy, od listopada 1916 do sierpnia 1917 roku, ale jego nazwisko zna każdy, kto czytał o wejściu Ameryki do wojny. W styczniu 1917 roku podpisał depeszę, w której proponował Meksykowi sojusz przeciw Stanom Zjednoczonym i odzyskanie Teksasu, Nowego Meksyku i Arizony. Brytyjski wywiad ją przechwycił i odczytał, a gdy Amerykanie ją opublikowali, Zimmermann sam potwierdził, że jest prawdziwa. Wcześniej, jako podsekretarz stanu, był przez lata faktycznym motorem Urzędu Spraw Zagranicznych: w lipcu 1914 roku zapewniał Austriaków o niemieckim poparciu, a w czasie wojny popierał plany wzniecania powstań i rewolucji na tyłach przeciwników, od Irlandii po Rosję. Był pierwszym w dziejach Rzeszy człowiekiem bez szlacheckiego pochodzenia na czele jej dyplomacji.

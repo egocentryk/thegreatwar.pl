@@ -12,6 +12,9 @@ aliases: [Paul von Hindenburg]
 wikiTitles: [Paul_von_Hindenburg]
 authors: [Natalia]
 tags: [Paul von Hindenburg, Niemcy, Erich Ludendorff, Prusy Wschodnie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Paul_von_Hindenburg"
+  - "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
 ---
 
 Paul von Hindenburg wszedł do wojny jako generał w stanie spoczynku, o którym poza armią mało kto słyszał. Po kilku dniach był najsłynniejszym człowiekiem w Niemczech. Zwycięstwo pod Tannenbergiem w sierpniu 1914 roku uczyniło z niego „zbawcę Prus Wschodnich” i żywy symbol niemieckiej siły. Razem ze swoim szefem sztabu Erichem Ludendorffem stworzył najsłynniejszy duet dowódców tej wojny: Hindenburg dawał spokój, autorytet i nazwisko, Ludendorff energię i plany. Od sierpnia 1916 roku obaj kierowali całą armią niemiecką, a ich wpływ na politykę był tak wielki, że już współcześni mówili o dyktaturze wojskowej. Hindenburg przeżył klęskę bez uszczerbku dla swojej legendy, a jego późniejsza rola jako prezydenta Rzeszy, który w 1933 roku powołał Hitlera na kanclerza, rzuciła cień na całą jego biografię.

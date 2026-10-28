@@ -12,6 +12,9 @@ aliases: [François Anthoine]
 wikiTitles: [François_Anthoine]
 authors: [Łukasz Skowroń]
 tags: [Francja, Philippe Pétain, Douglas Haig]
+sources:
+  - "https://pl.wikipedia.org/wiki/François_Anthoine"
+  - "https://en.wikipedia.org/wiki/François_Anthoine"
 ---
 
 Generał François Paul Anthoine jest dziś niemal zapomniany, choć w 1917 roku był jednym z najważniejszych francuskich dowódców. Wiosną jego 4 Armia zdobywała wzgórza Moronvilliers w Szampanii, jedyny odcinek ofensywy Nivelle'a, na którym Francuzom w miarę się powiodło. Latem i jesienią jego 1 Armia walczyła we Flandrii na lewym skrzydle Brytyjczyków, w jedynej wielkiej bitwie tej wojny, w której francuska armia działała pod ogólnym kierownictwem brytyjskiego wodza. Potem jako szef sztabu generała Philippe'a Pétaina przeżył w kwaterze głównej najgorsze miesiące 1918 roku. Zapłacił za nie stanowiskiem, bo uznano go za pesymistę, i do końca wojny nie dostał już żadnego dowództwa.

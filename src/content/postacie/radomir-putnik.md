@@ -12,6 +12,9 @@ aliases: [Radomir Putnik]
 wikiTitles: [Radomir_Putnik]
 authors: [Natalia]
 tags: [Radomir Putnik, Serbia, Austro-Węgry]
+sources:
+  - "https://pl.wikipedia.org/wiki/Radomir_Putnik"
+  - "https://en.wikipedia.org/wiki/Radomir_Putnik"
 ---
 
 Radomir Putnik był mózgiem armii serbskiej w dwóch wojnach bałkańskich i w pierwszych latach wielkiej wojny. Formalnie naczelnym wodzem był regent [Aleksander](/postacie/aleksander-i-karadziordziewic), ale operacjami kierował szef sztabu Naczelnego Dowództwa, schorowany, małomówny starszy pan, który od lat prawie nie opuszczał swojego gabinetu. W 1914 roku jego armie trzykrotnie odparły inwazję Austro-Węgier i w grudniu odzyskały Belgrad. Rok później, zaatakowany jednocześnie przez Niemców, Austriaków i Bułgarów, Putnik nie dał się okrążyć i poprowadził wojsko przez góry Czarnogóry i Albanii nad Adriatyk. Sam przebył tę drogę w lektyce, a wkrótce potem stracił stanowisko. Zmarł na emigracji, nie doczekawszy powrotu do kraju.

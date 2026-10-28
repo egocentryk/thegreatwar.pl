@@ -12,6 +12,9 @@ aliases: [Anton Denikin]
 wikiTitles: [Anton_Denikin]
 authors: [Natalia]
 tags: [Rosja, Ławr Korniłow, rewolucja lutowa, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Anton_Denikin"
+  - "https://en.wikipedia.org/wiki/Anton_Denikin"
 ---
 
 Generał Anton Denikin był jednym z najlepszych rosyjskich dowódców liniowych tej wojny, a zarazem najgłośniejszym krytykiem rewolucyjnych zmian w armii w 1917 roku. Jego 4 Brygada Strzelców, zwana „żelazną”, należała do najbardziej odznaczonych jednostek armii carskiej. Po rewolucji lutowej był szefem sztabu naczelnego wodza i dowódcą dwóch frontów, a za poparcie generała Ławra Korniłowa trafił do więzienia. Po przewrocie bolszewickim współtworzył białą Armię Ochotniczą, a po śmierci Korniłowa stanął na jej czele. W 1919 roku jego wojska podeszły na kilkaset kilometrów pod Moskwę. Większość życia spędził na emigracji, gdzie napisał wielotomowe wspomnienia, jedno z najważniejszych źródeł do dziejów rewolucji i wojny domowej.

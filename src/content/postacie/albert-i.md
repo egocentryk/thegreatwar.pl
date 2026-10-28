@@ -12,6 +12,9 @@ aliases: [Albert I]
 wikiTitles: [Albert_I_Koburg]
 authors: [Natalia]
 tags: [Albert I, Belgia, neutralność Belgii]
+sources:
+  - "https://pl.wikipedia.org/wiki/Albert_I_Koburg"
+  - "https://en.wikipedia.org/wiki/Albert_I_of_Belgium"
 ---
 
 Albert I był królem małego, neutralnego państwa, które w sierpniu 1914 roku stanęło na drodze najpotężniejszej armii Europy. Odrzucił niemieckie ultimatum, osobiście objął dowództwo armii, wyprowadził ją z Antwerpii i zatrzymał nad Yser, gdzie przez cztery lata bronił ostatniego skrawka wolnej Belgii. Nie wyjechał do Francji razem z rządem, a jego obecność wśród żołnierzy uczyniła z niego „króla-rycerza”, symbol oporu podziwiany w całym świecie sprzymierzonych. Jednocześnie strzegł niezależności swojej armii, nie chciał jej wykrwawiać w wielkich ofensywach i po cichu sondował możliwość pokoju kompromisowego. Dopiero we wrześniu 1918 roku objął dowództwo sprzymierzonej Grupy Armii Flandria i poprowadził ofensywę, która wyzwoliła zachodnią Belgię.

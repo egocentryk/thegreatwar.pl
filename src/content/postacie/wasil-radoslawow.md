@@ -12,6 +12,9 @@ aliases: [Wasił Radosławow]
 wikiTitles: [Wasił_Radosławow]
 authors: [Natalia]
 tags: [Bułgaria, neutralność, Niemcy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wasił_Radosławow"
+  - "https://en.wikipedia.org/wiki/Vasil_Radoslavov"
 ---
 
 Wasił Radosławow był premierem Bułgarii przez prawie całą jej wojnę, od lipca 1913 do czerwca 1918 roku, a przez większość tego czasu kierował też dyplomacją. Doświadczony adwokat i przywódca liberałów, zwanych od jego nazwiska radosławistami, od młodości podziwiał Niemcy i nie ufał Rosji. Razem z carem [Ferdynandem I](/postacie/ferdynand-i-koburg) przez rok utrzymywał neutralność kraju i prowadził rozmowy z obiema stronami, a 6 września 1915 roku podpisał sojusz z Niemcami, który rzucił Bułgarię przeciw Serbii. Upadł wiosną 1918 roku, gdy pokój z Rumunią rozczarował Bułgarów. Po wojnie uciekł do Niemiec, a w kraju skazano go zaocznie jako jednego z winnych drugiej narodowej katastrofy.

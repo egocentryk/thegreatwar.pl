@@ -12,6 +12,9 @@ aliases: [Frederick Stanley Maude, Frederick Maude]
 wikiTitles: [Frederick_Stanley_Maude]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, Indie Brytyjskie, Imperium Osmańskie, William Robertson]
+sources:
+  - "https://pl.wikipedia.org/wiki/Frederick_Stanley_Maude"
+  - "https://en.wikipedia.org/wiki/Stanley_Maude"
 ---
 
 Generał porucznik sir Frederick Stanley Maude, w wojsku i w rodzinie nazywany po prostu Stanley Maude, był jednym z nielicznych brytyjskich dowódców wielkiej wojny, którzy przeszli do historii jako zwycięzcy kampanii. Objął dowództwo w Mezopotamii latem 1916 roku, kilka miesięcy po upokarzającej kapitulacji Al-Kutu, gdy wojsko było chore, źle zaopatrzone i zdemoralizowane. W ciągu pół roku zamienił je w sprawną armię, a zimą 1917 roku poprowadził ją do zwycięstw, które przyniosły Brytyjczykom Al-Kut i Bagdad. Dla rządu w Londynie, zmęczonego krwawymi i bezowocnymi ofensywami we Francji, zdobycie Bagdadu było jednym z niewielu wielkich sukcesów tamtej wiosny. Maude nie doczekał końca wojny: zmarł na cholerę w zdobytym mieście w listopadzie 1917 roku.

@@ -12,6 +12,9 @@ aliases: [Otto von Below]
 wikiTitles: [Otto_von_Below]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, wielki odwrót 1915, Włochy, Luigi Cadorna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Otto_von_Below"
+  - "https://en.wikipedia.org/wiki/Otto_von_Below"
 ---
 
 Otto von Below dowodził w I wojnie światowej na większej liczbie frontów niż prawie którykolwiek inny niemiecki generał. Walczył w Prusach Wschodnich w 1914 roku, prowadził natarcie na Litwę i Kurlandię w 1915 roku, bronił frontu macedońskiego w 1916 roku i Arras w 1917 roku, a w marcu 1918 roku jego armia uderzała w wielkiej ofensywie wiosennej. Jego nazwisko kojarzy się jednak przede wszystkim z jedną bitwą: w październiku 1917 roku niemiecko-austro-węgierska 14 Armia pod jego dowództwem przełamała front włoski pod Caporetto i odrzuciła Włochów aż nad Piawę. Bywa mylony z kuzynem, generałem Fritzem von Belowem, który w 1916 roku dowodził niemiecką obroną nad Sommą.

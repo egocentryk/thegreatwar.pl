@@ -12,6 +12,9 @@ aliases: [Douglas Haig]
 wikiTitles: [Douglas_Haig]
 authors: [Łukasz Skowroń]
 tags: [Douglas Haig, Wielka Brytania, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Douglas_Haig"
+  - "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig"
 ---
 
 Sir Douglas Haig, od 1917 roku marszałek polny, a od 1919 roku hrabia Haig, przez trzy lata, od grudnia 1915 roku do końca wojny, dowodził największą armią w dziejach Wielkiej Brytanii. Pod jego rozkazami walczyło na froncie zachodnim w szczytowym okresie blisko dwa miliony żołnierzy z Wysp i dominiów. Poprowadził ich do [bitwy nad Sommą](/bitwy/bitwa-nad-somma), pod Arras i Passchendaele, przetrwał niemiecką ofensywę wiosną 1918 roku, a jesienią poprowadził zwycięskie natarcia, które zmusiły Niemcy do proszenia o rozejm. Żaden inny brytyjski dowódca tej wojny nie budzi takich sporów. Dla jednych był architektem zwycięstwa, dla innych „rzeźnikiem”, który posyłał na śmierć setki tysięcy ludzi w nadziei na przełom, który nie nadchodził.

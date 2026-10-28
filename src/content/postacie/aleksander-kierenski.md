@@ -12,6 +12,9 @@ aliases: [Aleksander Kiereński]
 wikiTitles: [Aleksander_Kiereński]
 authors: [Łukasz Skowroń]
 tags: [Aleksander Kiereński, Rosja, rewolucja lutowa, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksander_Kiereński"
+  - "https://en.wikipedia.org/wiki/Alexander_Kerensky"
 ---
 
 Aleksander Fiodorowicz Kiereński był najpopularniejszym człowiekiem w Rosji wiosną 1917 roku i najbardziej znienawidzonym jesienią tego samego roku. Adwokat, obrońca w procesach politycznych i socjalistyczny poseł do Dumy, w czasie [rewolucji lutowej](/rewolucja-lutowa) jako jedyny zasiadał jednocześnie w Rządzie Tymczasowym i we władzach Rady Piotrogrodzkiej. Kolejno był ministrem sprawiedliwości, ministrem wojny i premierem, a w końcu także naczelnym wodzem. Chciał, by rewolucyjna Rosja dochowała zobowiązań wobec sojuszników i walczyła dalej, aż do powszechnego pokoju bez aneksji. Postawił na [ofensywę](/bitwy/ofensywa-kierenskiego), która skończyła się klęską, a w sporze z generałem [Ławrem Korniłowem](/postacie/lawr-kornilow) stracił zaufanie zarówno armii, jak i lewicy. W listopadzie 1917 roku obalili go [bolszewicy](https://pl.wikipedia.org/wiki/Bolszewicy), którzy wkrótce wyprowadzili Rosję z wojny. Resztę długiego życia spędził na emigracji, tłumacząc, dlaczego przegrał.

@@ -12,6 +12,9 @@ aliases: [Jukums Vācietis]
 wikiTitles: [Jukums_Vācietis]
 authors: [Natalia]
 tags: [Rosja, Łotwa, rewolucja październikowa, Lew Trocki]
+sources:
+  - "https://pl.wikipedia.org/wiki/Jukums_Vācietis"
+  - "https://en.wikipedia.org/wiki/Jukums_Vācietis"
 ---
 
 Jukums Vācietis, w Rosji znany jako Joakim Wacetis, był łotewskim oficerem armii carskiej, który przeszedł drogę od dowódcy batalionu strzelców pod Rygą do naczelnego wodza Armii Czerwonej. W latach 1915–1917 jego 5 Zemgalski Pułk Strzelców Łotewskich należał do najlepszych oddziałów rosyjskiej 12 Armii, broniącej linii Dźwiny. Po rewolucji Vācietis, choć nigdy nie wstąpił do partii, stanął po stronie bolszewików, a jego Łotysze stali się ich najpewniejszym wojskiem. W 1918 roku walczył z polskim korpusem Dowbora-Muśnickiego, stłumił w Moskwie bunt lewicowych eserowców, dowodził frontem przeciw Czechosłowakom nad Wołgą, a od września był pierwszym naczelnym wodzem sił zbrojnych republiki radzieckiej. Bolszewicy, którzy wyprowadzili Rosję z wojny z Niemcami, budowali swoją armię w dużej mierze rękami takich jak on dawnych oficerów carskich. Zginął w 1938 roku, rozstrzelany w czasie wielkiej czystki.

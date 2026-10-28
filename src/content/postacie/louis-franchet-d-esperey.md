@@ -12,6 +12,9 @@ aliases: [Louis Franchet d'Espérey, Louis Franchet d’Espérey]
 wikiTitles: [Louis_Franchet_d’Espérey]
 authors: [Natalia]
 tags: [Louis Franchet d'Espérey, Francja, Serbia, Bułgaria]
+sources:
+  - "https://pl.wikipedia.org/wiki/Louis_Franchet_d’Espérey"
+  - "https://en.wikipedia.org/wiki/Louis_Franchet_d'Espèrey"
 ---
 
 Louis Franchet d'Espérey należał do nielicznych francuskich generałów, którzy wyszli z pierwszej wojny światowej z opinią zwycięzców. W sierpniu 1914 roku jako dowódca korpusu wygrał pod Guise jedyny duży kontratak wielkiego odwrotu, a kilka dni później objął 5 Armię i poprowadził ją w lukę między armiami niemieckimi nad Marną. Przez następne lata dowodził grupami armii na froncie zachodnim, ale w maju 1918 roku na jego odcinku Niemcy przełamali front nad Aisne. Odsunięty z Francji, dostał dowództwo w Salonikach, które uchodziło niemal za zesłanie. Trzy miesiące później jego wojska przełamały front bułgarski, a Bułgaria jako pierwsze z państw centralnych poprosiła o rozejm. Nazwisko generała Francuzi piszą zwykle „d'Espèrey”, z akcentem grave, ale w Polsce przyjęła się forma „d'Espérey”.

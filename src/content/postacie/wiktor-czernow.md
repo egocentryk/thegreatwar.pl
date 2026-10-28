@@ -12,6 +12,9 @@ aliases: [Wiktor Czernow]
 wikiTitles: [Wiktor_Czernow]
 authors: [Natalia]
 tags: [Rosja, rewolucja lutowa, Rada Piotrogrodzka]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wiktor_Czernow"
+  - "https://en.wikipedia.org/wiki/Viktor_Chernov"
 ---
 
 Wiktor Michajłowicz Czernow był współzałożycielem i głównym teoretykiem [Partii Socjalistów-Rewolucjonistów](https://pl.wikipedia.org/wiki/Partia_Socjalistów-Rewolucjonistów), czyli eserowców, największej partii rewolucyjnej Rosji, która mówiła w imieniu chłopów. W czasie wojny był na emigracji jednym z przywódców jej skrzydła antywojennego. W 1917 roku wrócił do kraju i jako minister rolnictwa Rządu Tymczasowego próbował przygotować oddanie ziemi chłopom, co uczyniło go celem nienawiści prawicy i nie zadowoliło lewicy. W styczniu 1918 roku przewodniczył jedynemu posiedzeniu Zgromadzenia Ustawodawczego, rozpędzonego przez bolszewików. Jego losy pokazują, jak partia, która w pierwszych wolnych wyborach w dziejach Rosji zdobyła najwięcej głosów, straciła władzę na rzecz znacznie mniejszych bolszewików.

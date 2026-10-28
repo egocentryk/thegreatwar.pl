@@ -11,6 +11,9 @@ aliases: [Nikołaj Ruzski]
 wikiTitles: [Nikołaj_Ruzski]
 authors: [Łukasz Skowroń]
 tags: [Rosja, Królestwo Polskie, rewolucja lutowa, Mikołaj II]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikołaj_Ruzski"
+  - "https://en.wikipedia.org/wiki/Nikolai_Ruzsky"
 ---
 
 Generał piechoty Nikołaj Ruzski należał do najważniejszych rosyjskich dowódców pierwszej wojny światowej, choć jego sława przyszła wcześnie i szybko przygasła. W sierpniu 1914 roku jego 3 Armia rozbiła Austriaków na wschód od Lwowa i zajęła miasto, co uczyniło go w Rosji bohaterem, „zdobywcą Galicji”. Jesienią objął Front Północno-Zachodni i walczył z Niemcami w Królestwie Polskim, pod Warszawą, Łodzią i nad Bzurą, a zimą 1915 roku jego wojska poniosły klęskę na Mazurach. Chory, kilkakrotnie oddawał i odzyskiwał dowództwo. Do historii przeszedł jednak przede wszystkim jako dowódca Frontu Północnego, w którego kwaterze w Pskowie w marcu 1917 roku car [Mikołaj II](/postacie/mikolaj-ii) zrzekł się tronu.

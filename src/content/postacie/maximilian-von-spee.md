@@ -12,6 +12,9 @@ aliases: [Maximilian von Spee]
 wikiTitles: [Maximilian_von_Spee]
 authors: [Łukasz Skowroń]
 tags: [Maximilian von Spee, Kaiserliche Marine, Ocean Spokojny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Maximilian_von_Spee"
+  - "https://en.wikipedia.org/wiki/Maximilian_von_Spee"
 ---
 
 Maximilian hrabia von Spee był dowódcą jedynego stałego zespołu niemieckiej marynarki wojennej poza Europą, Eskadry Wschodnioazjatyckiej. Gdy wybuchła wojna, jego okręty znalazły się na drugim końcu świata, bez bazy i bez pewnych dostaw węgla. Spee przeprowadził je przez cały Ocean Spokojny, 1 listopada 1914 roku u wybrzeży Chile zadał Royal Navy pierwszą od ponad stu lat porażkę w bitwie morskiej, a pięć tygodni później zginął wraz z większością eskadry i obydwoma synami w bitwie koło Falklandów. Jego kampania trwała zaledwie cztery miesiące, ale przez ten czas wiązała dziesiątki okrętów aliantów na wszystkich oceanach.

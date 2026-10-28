@@ -12,6 +12,9 @@ aliases: [Andrew Bonar Law]
 wikiTitles: [Andrew_Bonar_Law]
 authors: [Łukasz Skowroń]
 tags: [Wielka Brytania, David Lloyd George, Herbert Henry Asquith, Irlandia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Andrew_Bonar_Law"
+  - "https://en.wikipedia.org/wiki/Bonar_Law"
 ---
 
 Andrew Bonar Law był przywódcą brytyjskich konserwatystów przez całą wojnę i jednym z trzech ludzi, od których zależało, kto rządzi Wielką Brytanią. Kanadyjczyk z urodzenia, szkocki kupiec żelaza z zawodu i prezbiterianin z wyznania, nie pasował do partii ziemian i Kościoła anglikańskiego, a mimo to utrzymał ją w ryzach przez lata wojennego rozejmu partyjnego. W maju 1915 roku wprowadził konserwatystów do [rządu koalicyjnego](/rzad-koalicyjny-asquitha) [Herberta Henry'ego Asquitha](/postacie/herbert-henry-asquith), w grudniu 1916 roku przesądził o jego upadku, a potem, zamiast samemu zostać premierem, oddał władzę [Davidowi Lloydowi George'owi](/postacie/david-lloyd-george). Jako kanclerz skarbu i przywódca Izby Gmin był do końca wojny drugim człowiekiem w rządzie: pilnował finansów, parlamentu i lojalności własnej partii, podczas gdy premier prowadził wojnę.

@@ -12,6 +12,9 @@ aliases: [Aleksandyr Malinow]
 wikiTitles: [Aleksandyr_Malinow]
 authors: [Łukasz Skowroń]
 tags: [Bułgaria, inicjatywy pokojowe, Niemcy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksandyr_Malinow"
+  - "https://en.wikipedia.org/wiki/Aleksandar_Malinov"
 ---
 
 Aleksandyr Malinow przez 35 lat stał na czele bułgarskiej Partii Demokratycznej i trzykrotnie był premierem. Jego pierwszy rząd ogłosił w 1908 roku niepodległość Bułgarii, a drugi, powołany w czerwcu 1918 roku, musiał zakończyć dla niej wielką wojnę. W 1915 roku Malinow należał do przywódców opozycji, którzy ostrzegali cara Ferdynanda przed wojną po stronie państw centralnych i przepowiadali drugą narodową katastrofę. Trzy lata później, gdy przepowiednia się spełniała, car powierzył mu władzę. Malinow nie zdołał wyprowadzić Bułgarii z wojny na własnych warunkach. Po załamaniu frontu w Macedonii jego rząd poprosił o rozejm, stłumił bunt żołnierzy pod Sofią i przyjął abdykację cara. Choć sam był przeciwnikiem sojuszu z Niemcami, to on podpisywał akty klęski kraju, który do niego wprowadzili inni.

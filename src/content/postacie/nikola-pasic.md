@@ -12,6 +12,9 @@ aliases: [Nikola Pašić]
 wikiTitles: [Nikola_Pašić]
 authors: [Natalia]
 tags: [Nikola Pašić, Serbia, Aleksander Karađorđević]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikola_Pašić"
+  - "https://en.wikipedia.org/wiki/Nikola_Pašić"
 ---
 
 Nikola Pašić stał na czele rządu Serbii przez całą wielką wojnę, od zamachu w Sarajewie po zjednoczenie z ziemiami południowosłowiańskimi monarchii habsburskiej. Małomówny, ostrożny i nieufny, z długą siwą brodą, która stała się jego znakiem rozpoznawczym, był od lat osiemdziesiątych XIX wieku najważniejszym politykiem kraju i niekwestionowanym przywódcą Partii Radykalnej. To on w lipcu 1914 roku odpowiadał na austro-węgierskie ultimatum, to on targował się z sojusznikami o granice przyszłej Serbii i to on w 1917 roku podpisał na Korfu deklarację o wspólnym państwie Serbów, Chorwatów i Słoweńców. Dla jednych był twórcą Jugosławii, dla innych politykiem, który od początku widział w niej przede wszystkim powiększoną Serbię.

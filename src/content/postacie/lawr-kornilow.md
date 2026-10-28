@@ -12,6 +12,9 @@ aliases: [Ławr Korniłow]
 wikiTitles: [Ławr_Korniłow]
 authors: [Łukasz Skowroń]
 tags: [Ławr Korniłow, Rosja, rewolucja lutowa, rewolucja październikowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ławr_Korniłow"
+  - "https://en.wikipedia.org/wiki/Lavr_Kornilov"
 ---
 
 Generał Ławr Korniłow był najbardziej kontrowersyjnym rosyjskim dowódcą tej wojny. W latach 1914–1915 dał się poznać jako odważny do szaleństwa dowódca dywizji, w 1916 roku cała Rosja mówiła o jego ucieczce z austro-węgierskiej niewoli, a latem 1917 roku, po klęsce ostatniej rosyjskiej ofensywy, rząd powierzył mu naczelne dowództwo. Prawica i oficerowie widzieli w nim człowieka, który powstrzyma rozkład armii i państwa. Lewica widziała w nim kandydata na dyktatora. Jego wrześniowy konflikt z premierem Aleksandrem Kiereńskim, zwany sprawą albo puczem Korniłowa, skończył się klęską generała, ale jeszcze bardziej osłabił Rząd Tymczasowy i otworzył bolszewikom drogę do przewrotu. Po rewolucji październikowej Korniłow współtworzył białą Armię Ochotniczą i zginął na jej czele wiosną 1918 roku.

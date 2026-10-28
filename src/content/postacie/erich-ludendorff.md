@@ -12,6 +12,9 @@ aliases: [Erich Ludendorff]
 wikiTitles: [Erich_Ludendorff]
 authors: [Łukasz Skowroń]
 tags: [Erich Ludendorff, Niemcy, Paul von Hindenburg]
+sources:
+  - "https://pl.wikipedia.org/wiki/Erich_Ludendorff"
+  - "https://en.wikipedia.org/wiki/Erich_Ludendorff"
 ---
 
 Erich Ludendorff był najpotężniejszym żołnierzem Niemiec w pierwszej wojnie światowej. Wsławił się w pierwszym tygodniu wojny pod Liège, a potem jako szef sztabu Paula von Hindenburga poprowadził armię niemiecką do zwycięstw nad Rosjanami pod Tannenbergiem i nad jeziorami mazurskimi. Od sierpnia 1916 roku, jako pierwszy kwatermistrz generalny, faktycznie kierował całą niemiecką wojną, a coraz częściej także polityką Rzeszy. Był niezwykle pracowity i znakomicie znał rzemiosło sztabowe, ale brakowało mu wyczucia polityki i umiaru. Wiosną 1918 roku postawił wszystko na jedną kartę w wielkich ofensywach na zachodzie, a gdy przegrał, sam zażądał rozejmu, by potem obwiniać za klęskę polityków. Po wojnie stał się jednym z przywódców skrajnej prawicy i głosicieli legendy o ciosie w plecy.

@@ -12,6 +12,9 @@ aliases: [August von Mackensen]
 wikiTitles: [August_von_Mackensen]
 authors: [Natalia]
 tags: [August von Mackensen, Niemcy, Serbia, Rumunia]
+sources:
+  - "https://pl.wikipedia.org/wiki/August_von_Mackensen"
+  - "https://en.wikipedia.org/wiki/August_von_Mackensen"
 ---
 
 August von Mackensen był jednym z najskuteczniejszych dowódców I wojny światowej. W 1914 roku dowodził korpusem w Prusach Wschodnich i armią w Polsce, w maju 1915 roku przełamał front rosyjski pod Gorlicami, co zapoczątkowało wielki odwrót Rosjan, jesienią tego roku podbił Serbię, a w 1916 roku pobił Rumunię i zajął Bukareszt. Gdy wybuchła wojna, miał 65 lat; skończył ją jako feldmarszałek i obok Hindenburga najpopularniejszy wódz Niemiec. W czarnym mundurze huzarów przybocznych, z trupią czaszką na kołpaku, stał się żywym symbolem dawnej armii pruskiej, z którego po latach korzystała także propaganda III Rzeszy.

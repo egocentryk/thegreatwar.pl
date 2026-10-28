@@ -11,6 +11,9 @@ aliases: [Dmitrij Szczerbaczow]
 wikiTitles: [Dmitrij_Szczerbaczow]
 authors: [Natalia]
 tags: [Rosja, Galicja, Rumunia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Dmitrij_Szczerbaczow"
+  - "https://en.wikipedia.org/wiki/Dmitry_Shcherbachev"
 ---
 
 Generał piechoty Dmitrij Szczerbaczow przeszedł całą wojnę na południowym skrzydle frontu wschodniego. W 1914 roku dowodził korpusem pod Lwowem i Przemyślem, w latach 1915–1917 kolejno 11 i 7 Armią w Galicji Wschodniej, a od wiosny 1917 roku, jako zastępca króla Rumunii, w praktyce kierował całym frontem rumuńskim. Uchodził za dowódcę wykształconego, ostrożnego i metodycznego, który rzadko ponosił klęski, ale też rzadko wykorzystywał zwycięstwa. Jego najtrudniejsze decyzje przypadły jednak na koniec 1917 roku: nie uznał rządu Lenina, zawarł z państwami centralnymi rozejm w Fokszanach i pomógł Rumunom rozbroić rozkładające się wojska rosyjskie.

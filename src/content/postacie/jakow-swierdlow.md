@@ -12,6 +12,9 @@ aliases: [Jakow Swierdłow]
 wikiTitles: [Jakow_Swierdłow]
 authors: [Natalia]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin]
+sources:
+  - "https://pl.wikipedia.org/wiki/Jakow_Swierdłow"
+  - "https://en.wikipedia.org/wiki/Yakov_Sverdlov"
 ---
 
 Jakow Swierdłow był najważniejszym organizatorem partii bolszewickiej w 1917 i 1918 roku i człowiekiem, który ze zbioru uchwał robił działający aparat władzy. Nie był teoretykiem ani wielkim mówcą, ale pamiętał setki nazwisk i życiorysów działaczy i wiedział, kogo gdzie posłać. Od listopada 1917 roku przewodniczył [Wszechrosyjskiemu Centralnemu Komitetowi Wykonawczemu](https://pl.wikipedia.org/wiki/Wszechrosyjski_Centralny_Komitet_Wykonawczy), a więc był formalnie głową państwa radzieckiego, i jednocześnie kierował sekretariatem partii. W tej podwójnej roli otwierał i rozpędzał Zgromadzenie Ustawodawcze, zbierał dla [Włodzimierza Lenina](/postacie/wlodzimierz-lenin) większość za pokojem brzeskim, przyjmował listy uwierzytelniające niemieckiego posła i podpisywał akty, które uzasadniały zamordowanie rodziny carskiej i czerwony terror. Na stronie ententy znalazł się tylko formalnie: rząd, który współtworzył, wyprowadził Rosję z wojny. Zmarł w marcu 1919 roku, mając 33 lata.

@@ -12,6 +12,9 @@ aliases: [Peter Strasser]
 wikiTitles: [Peter_Strasser]
 authors: [Natalia]
 tags: [Peter Strasser, sterowce, Kaiserliche Marine, lotnictwo]
+sources:
+  - "https://pl.wikipedia.org/wiki/Peter_Strasser"
+  - "https://en.wikipedia.org/wiki/Peter_Strasser"
 ---
 
 Peter Strasser przez całą wojnę kierował lotnictwem sterowcowym niemieckiej marynarki. Przejął je w 1913 roku, gdy po dwóch katastrofach miało tylko garstkę ludzi i ani jednego statku powietrznego, a zostawił jako formację liczącą kilka tysięcy ludzi i kilkanaście baz. Jego zeppeliny prowadziły rozpoznanie nad Morzem Północnym dla Floty Pełnomorskiej, ale przeszły do historii przede wszystkim jako bombowce. Od stycznia 1915 roku do sierpnia 1918 roku Strasser planował i często osobiście prowadził naloty na Anglię. Wierzył, że wielkie sterowce mogą skutecznie bombardować Wielką Brytanię, nawet gdy samoloty i działa przeciwlotnicze coraz łatwiej je niszczyły. Zginął na pokładzie najnowszego zeppelina L 70, zestrzelonego nad morzem u wybrzeży Norfolk podczas ostatniego nalotu sterowców w tej wojnie.

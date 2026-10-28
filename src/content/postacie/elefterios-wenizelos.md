@@ -12,6 +12,9 @@ aliases: [Elefterios Wenizelos]
 wikiTitles: [Elefterios_Wenizelos]
 authors: [Natalia]
 tags: [Elefterios Wenizelos, Grecja, Konstantyn I Grecki]
+sources:
+  - "https://pl.wikipedia.org/wiki/Elefterios_Wenizelos"
+  - "https://en.wikipedia.org/wiki/Eleftherios_Venizelos"
 ---
 
 Elefterios Wenizelos był najwybitniejszym greckim politykiem swojej epoki i jednym z nielicznych przywódców małych państw, z którymi wielkie mocarstwa rozmawiały jak z równymi. Kreteński adwokat i powstaniec, w 1910 roku objął rząd w Atenach, zreformował państwo i armię, a w wojnach bałkańskich niemal podwoił terytorium Grecji. Od pierwszych dni wielkiej wojny był przekonany, że zwycięży Ententa, a Grecja musi stanąć u jej boku, by zdobyć ziemie zamieszkane przez Greków w Azji Mniejszej. Król [Konstantyn I](/postacie/konstantyn-i) myślał inaczej i w 1915 roku dwa razy zmusił go do dymisji. Spór obu najpopularniejszych ludzi w Grecji przerodził się w [schizmę narodową](https://pl.wikipedia.org/wiki/Schizma_narodowa): w 1916 roku Wenizelos stanął na czele rządu w Salonikach, a w czerwcu 1917 roku, po usunięciu króla przez Ententę, wrócił do Aten i wprowadził do wojny cały kraj. Po wojnie przywiózł z Paryża traktat, który spełniał niemal wszystkie marzenia greckiego nacjonalizmu, by kilka miesięcy później przegrać wybory.

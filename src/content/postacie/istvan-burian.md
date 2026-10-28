@@ -12,6 +12,9 @@ aliases: [István Burián]
 wikiTitles: [István_Burián]
 authors: [Łukasz Skowroń]
 tags: [István Burián, Austro-Węgry, Włochy, István Tisza]
+sources:
+  - "https://pl.wikipedia.org/wiki/István_Burián"
+  - "https://en.wikipedia.org/wiki/Stephan_Burián_von_Rajecz"
 ---
 
 Baron István Burián, po niemiecku Stephan Burián von Rajecz, kierował dyplomacją monarchii habsburskiej dwukrotnie: od stycznia 1915 do grudnia 1916 roku i od kwietnia do października 1918 roku. Był zawodowym dyplomatą starej szkoły, znawcą Bałkanów i najbliższym zaufanym premiera Węgier [Istvána Tiszy](/postacie/istvan-tisza). W pierwszej kadencji nie zdołał zatrzymać Włoch i Rumunii przed przyłączeniem się do Ententy, ale pozyskał dla państw centralnych Bułgarię i forsował przyłączenie Królestwa Polskiego do monarchii. W drugiej, gdy Austro-Węgry już się rozpadały, próbował bezskutecznie doprowadzić do pokoju. Współcześni i historycy zarzucali mu pedanterię i brak elastyczności, choć nikt nie kwestionował jego uczciwości i znajomości rzemiosła.

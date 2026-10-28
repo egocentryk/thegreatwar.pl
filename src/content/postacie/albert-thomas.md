@@ -12,6 +12,9 @@ aliases: [Albert Thomas]
 wikiTitles: [Albert_Thomas_(polityk)]
 authors: [Natalia]
 tags: [Francja, gospodarka, Rosja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Albert_Thomas_(polityk)"
+  - "https://en.wikipedia.org/wiki/Albert_Thomas_(minister)"
 ---
 
 Albert Thomas był najważniejszym socjalistą w rządach wojennej Francji i człowiekiem, który zamienił jej przemysł w fabrykę amunicji. W 1914 roku armia francuska zużywała pociski znacznie szybciej, niż kraj, pozbawiony okupowanej północy z jej kopalniami i hutami, mógł je wytwarzać. Thomas, historyk i dziennikarz, który nigdy nie kierował przedsiębiorstwem, od jesieni 1914 roku organizował produkcję zbrojeniową, od maja 1915 roku jako podsekretarz stanu, a od grudnia 1916 roku jako pierwszy francuski minister uzbrojenia. Współpracował z wielkimi przemysłowcami, a zarazem dbał o warunki pracy setek tysięcy robotników i robotnic. Był też jednym z ojców współpracy gospodarczej Ententy i wysłannikiem Francji do rewolucyjnej Rosji. Odszedł z rządu we wrześniu 1917 roku, gdy jego partia porzuciła „świętą jedność”. Po wojnie przez trzynaście lat kierował Międzynarodowym Biurem Pracy w Genewie.

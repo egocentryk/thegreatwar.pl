@@ -12,6 +12,9 @@ aliases: [Stefanos Skuludis]
 wikiTitles: [Stefanos_Skuludis]
 authors: [Łukasz Skowroń]
 tags: [Grecja, Konstantyn I Grecki, neutralność]
+sources:
+  - "https://pl.wikipedia.org/wiki/Stefanos_Skuludis"
+  - "https://en.wikipedia.org/wiki/Stefanos_Skouloudis"
 ---
 
 Stefanos Skuludis należał do najstarszych polityków, którzy w czasie wielkiej wojny stanęli na czele rządu. Gdy w listopadzie 1915 roku król [Konstantyn I](/postacie/konstantyn-i) powierzył mu urząd premiera, miał 76 lat i za sobą długą karierę bankiera, dyplomaty i ministra. Rządził tylko siedem miesięcy, ale były to miesiące, w których Grecja, formalnie neutralna, stała się zapleczem armii Ententy w Salonikach, a jej rząd musiał ustępować kolejnym żądaniom sprzymierzonych, nie chcąc zarazem zrywać z Niemcami. Dla Ententy i dla zwolenników [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos) był uosobieniem dworskiej polityki, która oddała Bułgarom fort Rupel. Dla obozu królewskiego był sędziwym patriotą, który z poczucia obowiązku przyjął urząd, jakiego nikt nie chciał.

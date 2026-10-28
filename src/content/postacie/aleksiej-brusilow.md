@@ -12,6 +12,9 @@ aliases: [Aleksiej Brusiłow]
 wikiTitles: [Aleksiej_Brusiłow]
 authors: [Natalia]
 tags: [Aleksiej Brusiłow, Rosja, Galicja, rewolucja lutowa]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksiej_Brusiłow"
+  - "https://en.wikipedia.org/wiki/Aleksei_Brusilov"
 ---
 
 Generał kawalerii Aleksiej Brusiłow był najzdolniejszym dowódcą armii rosyjskiej w pierwszej wojnie światowej i jednym z niewielu generałów tej wojny, których nazwisko nosi wielka operacja. W 1914 roku poprowadził 8 Armię przez Galicję aż w Karpaty, w 1915 roku w porządku wycofał ją na Wołyń, a w czerwcu 1916 roku jego Front Południowo-Zachodni przełamał front austro-węgierski w ofensywie, która przeszła do historii jako ofensywa Brusiłowa. Po rewolucji lutowej szybko przystosował się do nowych porządków i latem 1917 roku przez niespełna dwa miesiące był naczelnym wodzem. W 1920 roku, w czasie wojny z Polską, poparł bolszewików, co na długo naznaczyło jego pamięć zarówno wśród białej emigracji, jak i w Polsce.

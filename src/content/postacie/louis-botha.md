@@ -12,6 +12,9 @@ aliases: [Louis Botha]
 wikiTitles: [Louis_Botha]
 authors: [Łukasz Skowroń]
 tags: [Louis Botha, Związek Południowej Afryki, Afryka Południowo-Zachodnia, rebelia burska]
+sources:
+  - "https://pl.wikipedia.org/wiki/Louis_Botha"
+  - "https://en.wikipedia.org/wiki/Louis_Botha"
 ---
 
 Louis Botha był jedną z najbardziej niezwykłych postaci wielkiej wojny. Kilkanaście lat wcześniej jako naczelny wódz Transwalu walczył przeciw Brytyjczykom w wojnie burskiej, a w 1914 roku, jako premier brytyjskiego dominium, bez wahania stanął po stronie Imperium. Zapłacił za to buntem części własnego narodu. Rebelię Burów stłumił osobiście, a potem sam poprowadził wojska Związku Południowej Afryki przez pustynię Namib i w lipcu 1915 roku przyjął kapitulację Niemieckiej Afryki Południowo-Zachodniej. Później wysyłał żołnierzy do Afryki Wschodniej i do Francji, a w 1919 roku podpisał w imieniu swojego kraju traktat wersalski. Zmarł dwa miesiące później.

@@ -12,6 +12,9 @@ aliases: [John Monash]
 wikiTitles: [John_Monash]
 authors: [Natalia]
 tags: [Australia, Brytyjski Korpus Ekspedycyjny, czołgi]
+sources:
+  - "https://pl.wikipedia.org/wiki/John_Monash"
+  - "https://en.wikipedia.org/wiki/John_Monash"
 ---
 
 Sir John Monash nie był zawodowym żołnierzem. Przed wojną był inżynierem budowlanym, pionierem żelbetu w Australii, a wojskiem zajmował się po godzinach jako oficer milicji. Syn żydowskich imigrantów z Krotoszyna w Wielkopolsce, mówiący po niemiecku jak po angielsku, w 1914 roku nie wyglądał na kandydata na wielkiego dowódcę i musiał znosić plotki, że jest niemieckim szpiegiem. Na Gallipoli dowodził brygadą bez większych sukcesów, a we Flandrii dywizją, która dobrze się biła. Dopiero jako dowódca Korpusu Australijskiego w 1918 roku pokazał, co potrafi. Bitwy pod Hamel, Amiens i Mont Saint-Quentin, przygotowane z inżynierską dokładnością, uczyniły go w oczach wielu historyków jednym z najlepszych dowódców frontu zachodniego, a w Australii bohaterem narodowym, którego twarz jest dziś na banknocie studolarowym.

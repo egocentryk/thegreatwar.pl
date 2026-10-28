@@ -12,6 +12,9 @@ aliases: [Maria Koburg, królowa Maria]
 wikiTitles: [Maria_Koburg]
 authors: [Łukasz Skowroń]
 tags: [Rumunia, Ferdynand I Rumuński, Wielka Brytania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Maria_Koburg"
+  - "https://en.wikipedia.org/wiki/Marie_of_Romania"
 ---
 
 Maria, żona króla [Ferdynanda I](/postacie/ferdynand-i-rumunski), była najbardziej znaną kobietą na tronie w czasie wielkiej wojny i jedną z niewielu, które miały realny wpływ na politykę. Brytyjska księżniczka, wnuczka królowej Wiktorii i rosyjskiego cara Aleksandra II, od początku popierała przystąpienie Rumunii do wojny po stronie Ententy i wykorzystywała do tego pokrewieństwo z dworami w Londynie i Piotrogrodzie. Gdy kampania 1916 roku skończyła się katastrofą, w zatłoczonych przez uchodźców i rannych Jassach pracowała w szpitalach i stała się dla Rumunów symbolem oporu. W 1918 roku jako jedna z nielicznych w otoczeniu króla do końca sprzeciwiała się separatystycznemu pokojowi z państwami centralnymi. Rumuni nazwali ją „matką rannych”, a po wojnie stała się twarzą Wielkiej Rumunii na konferencji pokojowej w Paryżu.

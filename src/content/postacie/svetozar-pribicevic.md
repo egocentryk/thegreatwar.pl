@@ -12,6 +12,9 @@ aliases: [Svetozar Pribićević]
 wikiTitles: [Svetozar_Pribićević]
 authors: [Natalia]
 tags: [Austro-Węgry, Serbia, polityka wewnętrzna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Svetozar_Pribićević"
+  - "https://en.wikipedia.org/wiki/Svetozar_Pribićević"
 ---
 
 Svetozar Pribićević był chorwackim Serbem, który przez większość wojny siedział w austro-węgierskim więzieniu i internowaniu, a jesienią 1918 roku okazał się najbardziej wpływowym politykiem w Zagrzebiu. Jako przywódca rządzącej w Chorwacji Koalicji Chorwacko-Serbskiej i wiceprzewodniczący Rady Narodowej Słoweńców, Chorwatów i Serbów przygotował zerwanie Saboru z monarchią 29 października 1918 roku, a potem doprowadził do tego, że Państwo SHS połączyło się z Serbią bez żadnych gwarancji ustrojowych. Był wtedy zagorzałym zwolennikiem państwa jednolitego i scentralizowanego. Dziesięć lat później stał się jednym z jego najostrzejszych krytyków.

@@ -12,6 +12,9 @@ aliases: [Aleksandros Zaimis]
 wikiTitles: [Aleksandros_Zaimis]
 authors: [Łukasz Skowroń]
 tags: [Grecja, Konstantyn I Grecki, Elefterios Wenizelos, neutralność]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksandros_Zaimis"
+  - "https://en.wikipedia.org/wiki/Alexandros_Zaimis"
 ---
 
 Aleksandros Zaimis był w czasie wojny człowiekiem, po którego król [Konstantyn I](/postacie/konstantyn-i) sięgał w chwilach największego kryzysu. Trzy razy stawał na czele rządu: w październiku 1915 roku, po drugiej dymisji [Elefteriosa Wenizelosa](/postacie/elefterios-wenizelos), w czerwcu 1916 roku, gdy mocarstwa Ententy postawiły Grecji ultimatum, i w maju 1917 roku, w ostatnich tygodniach panowania Konstantyna. Wierny monarchii, ale życzliwy sprzymierzonym i nienależący do żadnego z dwóch zwaśnionych obozów, był jedynym politykiem, z którym chętnie rozmawiali i król, i posłowie Ententy, i sam Wenizelos. Jego pierwszy rząd odmówił Serbii pomocy, drugi zdemobilizował armię na żądanie mocarstw, a trzeci przekazał królowi żądanie abdykacji i przeprowadził zmianę na tronie. Zaimis nigdy nie miał własnej partii ani programu, a jego rządy były rządami przejściowymi. Dzięki temu przetrwał schizmę narodową jako jeden z nielicznych polityków szanowanych po obu stronach.

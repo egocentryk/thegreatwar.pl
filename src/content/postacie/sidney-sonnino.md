@@ -12,6 +12,9 @@ aliases: [Sidney Sonnino]
 wikiTitles: [Sidney_Sonnino]
 authors: [Natalia]
 tags: [Sidney Sonnino, Włochy, Albania]
+sources:
+  - "https://pl.wikipedia.org/wiki/Sidney_Sonnino"
+  - "https://en.wikipedia.org/wiki/Sidney_Sonnino"
 ---
 
 Baron Sidney Sonnino kierował włoską dyplomacją przez całą wojnę, od listopada 1914 do czerwca 1919 roku, w trzech kolejnych rządach. Razem z premierem [Antoniem Salandrą](/postacie/antonio-salandra) targował się z obiema stronami o cenę włoskiego udziału w wojnie, a w kwietniu 1915 roku podpisał z Ententą tajny traktat londyński, który obiecywał Włochom Trydent, Triest, Istrię i część Dalmacji. Ten układ stał się dla niego miarą wszystkiego. Bronił go przed sojusznikami, przed ruchem jugosłowiańskim, przed czternastoma punktami Wilsona, a w końcu na konferencji pokojowej w Paryżu, gdzie poniósł porażkę. Uczciwy, pracowity, surowy i małomówny, uchodził za najbardziej upartego dyplomatę swojej epoki.

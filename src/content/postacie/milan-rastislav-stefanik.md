@@ -12,6 +12,9 @@ aliases: [Milan Rastislav Štefánik, Milan Štefánik]
 wikiTitles: [Milan_Rastislav_Štefánik]
 authors: [Łukasz Skowroń]
 tags: [Czechosłowacy, Francja, Włochy, Rosja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Milan_Rastislav_Štefánik"
+  - "https://en.wikipedia.org/wiki/Milan_Rastislav_Štefánik"
 ---
 
 Milan Rastislav Štefánik był trzecim, obok [Tomáša Masaryka](/postacie/tomas-masaryk) i [Edvarda Beneša](/postacie/edvard-benes), z ojców założycieli Czechosłowacji i jedynym Słowakiem w tym gronie. Syn wiejskiego pastora z Górnych Węgier zrobił we Francji karierę astronoma, a w czasie wojny został lotnikiem i generałem armii francuskiej. Jego znajomości w paryskich salonach otworzyły Masarykowi drogę do francuskiego rządu, a jego podróże do Rosji, Rumunii, Ameryki i Włoch dały czechosłowackiemu ruchowi to, czego potrzebował najbardziej: żołnierzy. Zginął w katastrofie lotniczej w maju 1919 roku, gdy po raz pierwszy od wojny leciał do ojczyzny. Słowacy uważają go za swojego największego bohatera narodowego.

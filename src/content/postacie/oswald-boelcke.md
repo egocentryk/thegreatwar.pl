@@ -12,6 +12,9 @@ aliases: [Oswald Boelcke]
 wikiTitles: [Oswald_Boelcke]
 authors: [Natalia]
 tags: [Niemcy, lotnictwo]
+sources:
+  - "https://pl.wikipedia.org/wiki/Oswald_Boelcke"
+  - "https://en.wikipedia.org/wiki/Oswald_Boelcke"
 ---
 
 Oswald Boelcke był pierwszym lotnikiem, który zrozumiał, że walka w powietrzu jest odrębnym rodzajem wojny, wymagającym własnej taktyki, własnych jednostek i specjalnego szkolenia. Jesienią 1915 roku, latając na jednopłatowym Fokkerze z karabinem strzelającym przez śmigło, został razem z Maxem Immelmannem bohaterem „plagi Fokkerów”, a w styczniu 1916 roku obaj jako pierwsi lotnicy dostali order Pour le Mérite. Latem 1916 roku spisał zasady walki powietrznej, znane jako „Dicta Boelcke”, i doradził zebranie myśliwców w osobne eskadry. Sam stanął na czele jednej z pierwszych z nich, Jagdstaffel 2, która nad Sommą odebrała Brytyjczykom przewagę w powietrzu. Gdy 28 października 1916 roku zginął w wypadku, miał 25 lat i 40 uznanych zwycięstw, więcej niż jakikolwiek pilot na świecie. Jego uczniowie, z Manfredem von Richthofenem na czele, przez kolejne dwa lata walczyli według jego reguł.

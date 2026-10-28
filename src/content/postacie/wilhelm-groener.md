@@ -12,6 +12,9 @@ aliases: [Wilhelm Groener]
 wikiTitles: [Wilhelm_Groener]
 authors: [Natalia]
 tags: [Niemcy, Ukraina, rewolucja listopadowa, gospodarka]
+sources:
+  - "https://pl.wikipedia.org/wiki/Wilhelm_Groener"
+  - "https://en.wikipedia.org/wiki/Wilhelm_Groener"
 ---
 
 Wilhelm Groener był jednym z najzdolniejszych organizatorów armii cesarskiej i jednym z niewielu jej generałów, którzy rozumieli, że wojnę toczą nie tylko armie, lecz całe społeczeństwa. W 1914 roku jego kolejarze przewieźli miliony żołnierzy na granice. W latach 1916–1917 kierował całą niemiecką gospodarką wojenną, a w 1918 roku niemiecką okupacją Ukrainy. W ostatnich tygodniach wojny zastąpił generała Ericha Ludendorffa i to on 9 listopada 1918 roku powiedział Wilhelmowi II, że wojsko już za nim nie stoi. Dzień później zawarł z Friedrichem Ebertem porozumienie, dzięki któremu armia uznała rewolucyjny rząd, a rząd oparł się na armii. Monarchiści nigdy mu tego nie wybaczyli, a lewica do dziś widzi w tym pakcie grzech pierworodny Republiki Weimarskiej.

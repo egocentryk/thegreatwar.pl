@@ -12,6 +12,9 @@ aliases: [Sidónio Pais]
 wikiTitles: [Sidónio_Pais]
 authors: [Natalia]
 tags: [Sidónio Pais, Portugalia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Sidónio_Pais"
+  - "https://en.wikipedia.org/wiki/Sidónio_Pais"
 ---
 
 Sidónio Bernardino Cardoso da Silva Pais rządził Portugalią przez niecały rok, od zamachu stanu w grudniu 1917 roku do śmierci z ręki zamachowca w grudniu 1918 roku. Był to rok, w którym portugalskie wojska poniosły we Flandrii jedną z najcięższych klęsk w swojej historii, a kraj, wyniszczony drożyzną, strajkami i epidemiami, stał na granicy wojny domowej. Pais doszedł do władzy jako przeciwnik rządu, który wciągnął Portugalię do wojny po stronie Ententy, i przez wielu uważany był za germanofila. Z wojny jednak nie wystąpił. Zbudował za to pierwszy w Portugalii ustrój prezydencki, w którym sam był głową państwa i szefem rządu, a jego zwolennicy otoczyli go kultem. Dla jednych był zbawcą ojczyzny i męczennikiem, dla innych dyktatorem i zapowiedzią autorytarnego państwa Salazara.

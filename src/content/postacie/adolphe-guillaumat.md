@@ -12,6 +12,9 @@ aliases: [Adolphe Guillaumat]
 wikiTitles: [Adolphe_Guillaumat]
 authors: [Natalia]
 tags: [Francja, Grecja, Serbia, Bułgaria]
+sources:
+  - "https://pl.wikipedia.org/wiki/Adolphe_Guillaumat"
+  - "https://en.wikipedia.org/wiki/Adolphe_Guillaumat"
 ---
 
 Generał Marie Louis Adolphe Guillaumat należał do tych francuskich dowódców, o których rzadko się pamięta, choć w kluczowych chwilach wojny powierzano im najtrudniejsze zadania. W ciągu trzech lat awansował z dowódcy dywizji na dowódcę armii. W sierpniu 1917 roku jego 2 Armia przeprowadziła pod Verdun jedną z pierwszych udanych ofensyw po buntach w armii francuskiej. Potem przez pół roku dowodził armiami sprzymierzonych w Macedonii, gdzie uporządkował skłócone dowództwo i zaczął przygotowywać ofensywę, która jesienią 1918 roku wyeliminowała z wojny Bułgarię. Owoce tej pracy zebrał jednak jego następca, bo w czerwcu 1918 roku, gdy Niemcy stanęli nad Marną, Clemenceau wezwał go do obrony Paryża.

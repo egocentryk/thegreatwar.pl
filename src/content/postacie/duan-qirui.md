@@ -12,6 +12,9 @@ aliases: [Duan Qirui]
 wikiTitles: [Duan_Qirui]
 authors: [Natalia]
 tags: [Chiny, Japonia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Duan_Qirui"
+  - "https://en.wikipedia.org/wiki/Duan_Qirui"
 ---
 
 Duan Qirui był najsilniejszym człowiekiem w Pekinie w latach, gdy Chiny przystępowały do wielkiej wojny. Generał armii Beiyang, wychowanek [Yuan Shikaia](https://pl.wikipedia.org/wiki/Yuan_Shikai), po jego śmierci w 1916 roku jako premier rządził w imieniu słabych prezydentów i to on przeforsował zerwanie stosunków z Niemcami w marcu 1917 roku i wypowiedzenie im wojny w sierpniu. Wojna była dla niego szansą na odzyskanie niemieckich praw w Szantungu, uwolnienie Chin od części nierównoprawnych zobowiązań i zdobycie pieniędzy, za które mógł zbudować własną armię i zjednoczyć kraj siłą. Pieniądze przyszły głównie z Japonii, a tajne umowy, które za nie zawarł, obróciły się po wojnie przeciw Chinom i przeciw niemu samemu. Spór o wojnę, który rozpętał, przyczynił się do rozpadu państwa na północ i południe.

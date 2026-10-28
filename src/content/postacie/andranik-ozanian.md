@@ -12,6 +12,9 @@ aliases: [Andranik Ozanian, Andranik]
 wikiTitles: [Andranik_Ozanian]
 authors: [Natalia]
 tags: [Armenia, Kaukaz, ludobójstwo Ormian]
+sources:
+  - "https://pl.wikipedia.org/wiki/Andranik_Ozanian"
+  - "https://en.wikipedia.org/wiki/Andranik"
 ---
 
 Andranik Ozanian, znany po prostu jako Andranik albo generał (orm. zorawar) Andranik, był najsłynniejszym ormiańskim partyzantem przełomu XIX i XX wieku i jedną z najbardziej legendarnych postaci w dziejach narodu. Przez kilkanaście lat walczył z oddziałami osmańskimi i kurdyjskimi w górach tureckiej Armenii, w wojnie bałkańskiej bił się po stronie Bułgarii, a w czasie wielkiej wojny dowodził drużyną ormiańskich ochotników w armii rosyjskiej. W 1918 roku, gdy armia rosyjska się rozpadła, a Turcy ruszyli na Zakaukazie, bronił Erzurum, a potem, nie uznając pokoju zawartego przez młodą Republikę Armenii, walczył na własną rękę w Nachiczewanie i Zangezurze. Dla Ormian jest bohaterem narodowym. Historycy azerbejdżańscy, a także część zachodnich, obciążają jego oddziały przemocą wobec ludności muzułmańskiej.

@@ -12,6 +12,9 @@ aliases: [Hans von Seeckt]
 wikiTitles: [Hans_von_Seeckt]
 authors: [Natalia]
 tags: [Niemcy, August von Mackensen, Galicja, Imperium Osmańskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Hans_von_Seeckt"
+  - "https://en.wikipedia.org/wiki/Hans_von_Seeckt"
 ---
 
 Hans von Seeckt przez całą I wojnę światową był oficerem sztabu, nigdy dowódcą, a mimo to należał do najbardziej wpływowych niemieckich wojskowych tego czasu. Jako szef sztabu [Augusta von Mackensena](/postacie/august-von-mackensen) współtworzył w 1915 roku przełamanie frontu rosyjskiego pod Gorlicami i podbój Serbii. W armii niemieckiej mówiono wtedy, że gdzie jest Mackensen, tam jest Seeckt, a gdzie Seeckt, tam zwycięstwo. W latach 1916–1917 ratował austro-węgierski front w Karpatach, a w ostatnim roku wojny był szefem sztabu armii osmańskiej. Po wojnie stanął na czele wojsk lądowych Republiki Weimarskiej i zbudował stutysięczną Reichswehrę, z której wyszli dowódcy armii niemieckiej z czasów II wojny światowej.

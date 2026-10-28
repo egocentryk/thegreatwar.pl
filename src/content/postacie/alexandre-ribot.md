@@ -12,6 +12,9 @@ aliases: [Alexandre Ribot]
 wikiTitles: [Alexandre_Ribot]
 authors: [Łukasz Skowroń]
 tags: [Francja, Aristide Briand, Robert Nivelle]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alexandre_Ribot"
+  - "https://en.wikipedia.org/wiki/Alexandre_Ribot"
 ---
 
 Alexandre Ribot był w czasie wojny najstarszym z ważnych polityków francuskich. Gdy w sierpniu 1914 roku obejmował ministerstwo finansów, miał 72 lata, a w polityce działał od czasów, gdy III Republika dopiero się kształtowała. Przez dwa i pół roku finansował wysiłek wojenny Francji, przede wszystkim pożyczkami, a nie podatkami, i negocjował z Brytyjczykami wspólne finansowanie wojny. W marcu 1917 roku, w wieku 75 lat, został premierem i ministrem spraw zagranicznych. Jego półroczne rządy przypadły na najtrudniejszy okres wojny dla Francji: [ofensywę Nivelle'a](/bitwy/druga-bitwa-nad-aisne), bunty w armii, rewolucję w Rosji, wejście do wojny Stanów Zjednoczonych i pierwsze tajne sondaże pokojowe. Ribot nie był przywódcą na miarę tych wydarzeń. Pozostał jednak nieugięty w sprawie celów wojny: odrzucał pokój bez Alzacji i Lotaryngii i każdą ofertę, w której widział próbę rozbicia koalicji.

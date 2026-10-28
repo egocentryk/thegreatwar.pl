@@ -12,6 +12,9 @@ aliases: [Victor Dankl, Viktor Dankl]
 wikiTitles: [Victor_Dankl]
 authors: [Natalia]
 tags: [Austro-Węgry, Galicja, Włochy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Victor_Dankl"
+  - "https://en.wikipedia.org/wiki/Viktor_Dankl_von_Krasnik"
 ---
 
 Victor Dankl, od 1918 roku hrabia Dankl von Krasnik, był dowódcą, który dał armii austro-węgierskiej jej pierwsze zwycięstwo w I wojnie światowej. W dniach 23–25 sierpnia 1914 roku jego 1 Armia pobiła Rosjan pod Kraśnikiem na Lubelszczyźnie, a w monarchii, upokorzonej właśnie klęską w Serbii, okrzyknięto go bohaterem. Sukces okazał się krótkotrwały, bo dwa tygodnie później armia Dankla musiała się cofać spod Lublina. W 1915 roku, z bardzo skromnymi siłami, zatrzymał Włochów na granicy Tyrolu, a w 1916 roku jego 11 Armia rozpoczęła wielką ofensywę z Tyrolu. Po niej, w atmosferze sporów z przełożonymi i z powodu choroby, odszedł z frontu i do końca wojny nie objął już żadnego dowództwa.

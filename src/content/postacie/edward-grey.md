@@ -12,6 +12,9 @@ aliases: [Edward Grey]
 wikiTitles: [Edward_Grey]
 authors: [Natalia]
 tags: [Edward Grey, Wielka Brytania, neutralność Belgii]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edward_Grey"
+  - "https://en.wikipedia.org/wiki/Edward_Grey,_1st_Viscount_Grey_of_Fallodon"
 ---
 
 Sir Edward Grey kierował brytyjską polityką zagraniczną przez jedenaście lat, od grudnia 1905 do grudnia 1916 roku, dłużej bez przerwy niż ktokolwiek przed nim i po nim. To on zbudował porozumienia z Francją i Rosją, w lipcu 1914 roku próbował zatrzymać wojnę konferencją mocarstw, a 3 sierpnia wygłosił w Izbie Gmin mowę, która przekonała parlament i podzielony rząd, że Wielka Brytania nie może zostawić Francji i Belgii samym sobie. W czasie wojny prowadził tajną dyplomację Ententy: negocjował przystąpienie Włoch, zabiegał o państwa bałkańskie, obiecał Rosji Konstantynopol i podpisał porozumienie o podziale azjatyckiej Turcji. Zmęczony i tracący wzrok, odszedł z rządu razem z Asquithem.

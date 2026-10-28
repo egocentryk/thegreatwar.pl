@@ -12,6 +12,9 @@ aliases: [Rupprecht Bawarski, Ruppert Maria Wittelsbach]
 wikiTitles: [Ruppert_Maria_Wittelsbach]
 authors: [Natalia]
 tags: [Niemcy, Wielka Brytania, Brytyjski Korpus Ekspedycyjny, Erich Ludendorff]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ruppert_Maria_Wittelsbach"
+  - "https://en.wikipedia.org/wiki/Rupprecht,_Crown_Prince_of_Bavaria"
 ---
 
 Rupprecht, następca tronu Bawarii, przez całą wojnę walczył na froncie zachodnim, najpierw jako dowódca 6 Armii, a od 1916 roku jako dowódca grupy armii, która broniła odcinka naprzeciw Brytyjczyków, od Sommy po morze. To jego wojska przyjęły na siebie bitwy pod Arras, Messines i Passchendaele w 1917 roku, a wiosną 1918 roku poprowadziły wielkie natarcia przeciw Brytyjczykom. Dowództwo zawdzięczał urodzeniu, ale w przeciwieństwie do innych książąt w mundurach generałów okazał się kompetentnym wodzem. Prowadził obszerny dziennik, dziś jedno z najcenniejszych źródeł do dziejów wojny na zachodzie, i wcześniej niż większość niemieckich generałów zrozumiał, że Niemcy tej wojny nie wygrają.

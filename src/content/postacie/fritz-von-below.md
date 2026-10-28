@@ -12,6 +12,9 @@ aliases: [Fritz von Below]
 wikiTitles: [Fritz_von_Below]
 authors: [Natalia]
 tags: [Niemcy, Francja, Erich von Falkenhayn, Erich Ludendorff]
+sources:
+  - "https://pl.wikipedia.org/wiki/Fritz_von_Below"
+  - "https://en.wikipedia.org/wiki/Fritz_von_Below"
 ---
 
 Fritz von Below był dowódcą, na którego 1 lipca 1916 roku spadło brytyjsko-francuskie natarcie nad Sommą. Jego 2 Armia, od dwóch lat trzymająca spokojny odcinek frontu w Pikardii, przyjęła najpotężniejsze uderzenie, jakie sprzymierzeni wyprowadzili dotąd na zachodzie. Przez prawie pięć miesięcy, od lipca jako dowódca nowej 1 Armii na północ od rzeki, prowadził bitwę obronną, w której Niemcy stracili kilka kilometrów terenu, ale nie dopuścili do przełamania. Doświadczenia jego armii, spisane z szefem sztabu Fritzem von Loßbergiem, stały się jedną z podstaw nowej niemieckiej taktyki obrony. Jest mniej znany niż jego kuzyn [Otto von Below](/postacie/otto-von-below), zwycięzca spod Caporetto, i często bywa z nim mylony.

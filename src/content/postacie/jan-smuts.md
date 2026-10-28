@@ -12,6 +12,9 @@ aliases: [Jan Smuts]
 wikiTitles: [Jan_Smuts]
 authors: [Łukasz Skowroń]
 tags: [Związek Południowej Afryki, Niemiecka Afryka Wschodnia, Louis Botha]
+sources:
+  - "https://pl.wikipedia.org/wiki/Jan_Smuts"
+  - "https://en.wikipedia.org/wiki/Jan_Smuts"
 ---
 
 Niewielu ludzi odegrało w wielkiej wojnie tak różne role jak Jan Christiaan Smuts: dowodził armią imperium brytyjskiego w Afryce, a potem zasiadał w jego rządzie w Londynie. Kilkanaście lat wcześniej jako burski generał walczył z Brytyjczykami. W 1914 roku, jako minister obrony [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki), pomagał [Louisowi Bocie](/postacie/louis-botha) tłumić rebelię Burów i planował inwazję na kolonię niemiecką. W 1916 roku poprowadził wielką ofensywę w Niemieckiej Afryce Wschodniej, zajął większą część kolonii, ale nie zdołał zniszczyć wojsk [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). Od 1917 roku był w Londynie jednym z najbliższych doradców [Davida Lloyda George'a](/postacie/david-lloyd-george): przygotował raport, z którego wyrosło Royal Air Force, prowadził tajne rozmowy pokojowe z Austriakami, a w 1919 roku należał do twórców Ligi Narodów. Dla jednych był wizjonerem i mężem stanu na miarę imperium, dla innych politykiem, który mówił o pokoju i wspólnocie narodów, a w kraju umacniał panowanie białej mniejszości.

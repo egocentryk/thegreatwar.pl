@@ -12,6 +12,9 @@ aliases: [Jerzy V]
 wikiTitles: [Jerzy_V, Jerzy_V_Windsor]
 authors: [Łukasz Skowroń]
 tags: [Jerzy V, Wielka Brytania, Douglas Haig, Wilhelm II]
+sources:
+  - "https://pl.wikipedia.org/wiki/Jerzy_V"
+  - "https://en.wikipedia.org/wiki/George_V"
 ---
 
 Jerzy V był monarchą konstytucyjnym, który nie podejmował decyzji o wojnie i pokoju, ale przez cztery lata był jej najbardziej widocznym symbolem w całym imperium brytyjskim. Setki razy odwiedzał wojska, szpitale, fabryki i stocznie, rozdał tysiące odznaczeń i dla przykładu wyrzekł się alkoholu. Był kuzynem dwóch cesarzy: wroga, [Wilhelma II](/postacie/wilhelm-ii), i sojusznika, [Mikołaja II](/postacie/mikolaj-ii). Za kulisami korespondował z generałami i miał swój udział w odsunięciu marszałka [Johna Frencha](/postacie/john-french), a w 1917 roku, pod presją nastrojów antyniemieckich, zmienił nazwę swojej dynastii na Windsor i nie dopuścił do przyjazdu obalonego cara do Anglii.

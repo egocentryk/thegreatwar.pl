@@ -12,6 +12,9 @@ aliases: [David Beatty]
 wikiTitles: [David_Beatty]
 authors: [Natalia]
 tags: [David Beatty, Royal Navy, Grand Fleet, Morze Północne]
+sources:
+  - "https://pl.wikipedia.org/wiki/David_Beatty"
+  - "https://en.wikipedia.org/wiki/David_Beatty,_1st_Earl_Beatty"
 ---
 
 David Beatty był najbardziej popularnym brytyjskim admirałem I wojny światowej. Młody, przystojny, z czapką zawadiacko przekrzywioną na bok, uchodził w oczach prasy i publiczności za nowego Nelsona. Jako dowódca krążowników liniowych prowadził je do walki w Zatoce Helgolandzkiej, na Dogger Bank i pod Jutlandią, gdzie jego zespół stracił dwa okręty w niecałe pół godziny, ale zaprowadził niemiecką flotę pod działa pancerników Jellicoe. Od końca 1916 roku dowodził całą Grand Fleet, a 21 listopada 1918 roku przyjął kapitulację niemieckiej Floty Pełnomorskiej. Jego śmiałość budziła podziw, ale błędy w dowodzeniu i łączności, a po wojnie zabiegi o korzystny dla siebie obraz bitwy jutlandzkiej, do dziś dzielą historyków.

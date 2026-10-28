@@ -12,6 +12,9 @@ aliases: [Georg Michaelis]
 wikiTitles: [Georg_Michaelis]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, polityka wewnętrzna, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Georg_Michaelis"
+  - "https://en.wikipedia.org/wiki/Georg_Michaelis"
 ---
 
 Georg Michaelis był kanclerzem Rzeszy Niemieckiej przez trzy i pół miesiąca, od 14 lipca do 1 listopada 1917 roku. Do tej chwili znała go tylko wąska grupa urzędników i oficerów: był sprawnym pruskim administratorem, który w czasie wojny organizował zaopatrzenie kraju w zboże i chleb. Kanclerzem został, bo cesarz po upadku [Theobalda von Bethmanna Hollwega](/postacie/theobald-von-bethmann-hollweg) potrzebował kogoś, kogo zaakceptuje Naczelne Dowództwo [Paula von Hindenburga](/postacie/paul-von-hindenburg) i [Ericha Ludendorffa](/postacie/erich-ludendorff), a kto nie zrazi od razu Reichstagu. Za jego krótkich rządów parlament przyjął rezolucję pokojową, papież wystąpił z apelem o pokój, a we flocie wybuchł bunt marynarzy. Michaelis nie poradził sobie z żadną z tych spraw. Był pierwszym kanclerzem bez szlacheckiego tytułu i pierwszym, którego odejście wymusiły partie Reichstagu.

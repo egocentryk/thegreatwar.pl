@@ -12,6 +12,9 @@ aliases: [Zdzisław Lubomirski]
 wikiTitles: [Zdzisław_Lubomirski]
 authors: [Łukasz Skowroń]
 tags: [Królestwo Polskie, okupacja niemiecka, Polska]
+sources:
+  - "https://pl.wikipedia.org/wiki/Zdzisław_Lubomirski"
+  - "https://en.wikipedia.org/wiki/Zdzisław_Lubomirski"
 ---
 
 Książę Zdzisław Lubomirski był w latach wielkiej wojny gospodarzem Warszawy, a potem jednym z trzech regentów Królestwa Polskiego. Do 1914 roku znano go przede wszystkim jako działacza dobroczynnego i społecznego. W sierpniu 1915 roku, gdy Rosjanie opuszczali miasto, to jemu oddali zarząd stolicy, a pod okupacją niemiecką bronił jej mieszkańców przed rekwizycjami i wywózkami na roboty. Popularność, jaką wtedy zdobył, sprawiła, że w 1917 roku wszedł do Rady Regencyjnej, w której uchodził za najbardziej energicznego z regentów. 10 listopada 1918 roku to on czekał na dworcu na [Józefa Piłsudskiego](/postacie/jozef-pilsudski) wracającego z Magdeburga, a cztery dni później wraz z pozostałymi regentami oddał mu całą władzę. Jego życiorys pokazuje drogę, którą przeszła duża część elit Królestwa: od lojalności wobec Rosji przez ostrożną współpracę z okupantem do niepodległego państwa.

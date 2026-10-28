@@ -12,6 +12,9 @@ aliases: [Friedrich Ebert]
 wikiTitles: [Friedrich_Ebert]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Socjaldemokratyczna Partia Niemiec, rewolucja listopadowa, polityka wewnętrzna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Friedrich_Ebert"
+  - "https://en.wikipedia.org/wiki/Friedrich_Ebert"
 ---
 
 Friedrich Ebert, syn krawca z Heidelbergu i z zawodu rymarz, stał od 1913 roku na czele największej niemieckiej partii, [Socjaldemokratycznej Partii Niemiec](https://pl.wikipedia.org/wiki/Socjaldemokratyczna_Partia_Niemiec). Przez całą wojnę popierał obronę kraju i polityką „pokoju grodowego” (Burgfrieden), a za tę cenę patrzył, jak jego partia rozpada się na dwie wrogie sobie części. Zarazem cierpliwie budował w Reichstagu koalicję, która wymusiła rezolucję pokojową z 1917 roku i parlamentaryzację Rzeszy jesienią 1918 roku. 9 listopada 1918 roku, w dniu rewolucji, przejął z rąk księcia Maksa Badeńskiego urząd kanclerza, a potem kierował rewolucyjnym rządem, który zakończył wojnę, przeprowadził wybory do Zgromadzenia Narodowego i oparł się na starym wojsku przeciw radykalnej lewicy. W 1919 roku został pierwszym prezydentem Niemiec. Dla jednych jest ojcem niemieckiej demokracji, dla innych człowiekiem, który zdradził rewolucję i zostawił republice w spadku armię wrogich jej generałów.

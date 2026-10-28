@@ -12,6 +12,9 @@ aliases: [Nikołaj Bucharin]
 wikiTitles: [Nikołaj_Bucharin]
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja październikowa, Włodzimierz Lenin, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Nikołaj_Bucharin"
+  - "https://en.wikipedia.org/wiki/Nikolai_Bukharin"
 ---
 
 Nikołaj Bucharin był najmłodszym z wielkich przywódców bolszewickich i ich najzdolniejszym teoretykiem. W czasie wojny jako emigrant pisał prace o imperializmie, z których korzystał [Włodzimierz Lenin](/postacie/wlodzimierz-lenin), a zarazem spierał się z nim o kwestię narodową i o państwo. W 1917 roku kierował bolszewikami w Moskwie, a po rewolucji objął redakcję „Prawdy”. Jego rola w historii wojny skupia się w kilku tygodniach na przełomie 1917 i 1918 roku. Gdy Lenin zdecydował się przyjąć narzucony przez Niemcy pokój, Bucharin stanął na czele lewicowych komunistów, którzy żądali „wojny rewolucyjnej” z imperializmem i liczyli na rewolucję w Europie. Przez kilka tygodni miał za sobą większość partii i omal nie doprowadził do jej rozłamu. W historii ZSRR zapisał się później jako twórca teorii Nowej Polityki Ekonomicznej, przeciwnik przymusowej kolektywizacji i ofiara jednego z wielkich procesów pokazowych.

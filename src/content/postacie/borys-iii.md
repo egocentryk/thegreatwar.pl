@@ -12,6 +12,9 @@ aliases: [Borys III]
 wikiTitles: [Borys_III]
 authors: [Natalia]
 tags: [Bułgaria, August von Mackensen, Niemcy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Borys_III"
+  - "https://en.wikipedia.org/wiki/Boris_III_of_Bulgaria"
 ---
 
 Borys, książę Tyrnowa, był w czasie wielkiej wojny następcą tronu Bułgarii i młodym oficerem, który nie podejmował wielkich decyzji. To jego ojciec, car [Ferdynand I](/postacie/ferdynand-i-koburg), w 1915 roku wprowadził kraj do wojny po stronie Niemiec. Borys służył w kwaterze głównej jako oficer łącznikowy, jeździł między sztabami, frontami i sojusznikami, a w czasie kampanii rumuńskiej łagodził spory między dowódcami bułgarskimi i niemieckimi. Jego godzina przyszła we wrześniu 1918 roku. Gdy front macedoński się rozpadł, następca tronu krążył od pułku do pułku, próbując zatrzymać odwrót, i zyskał popularność, jakiej ojciec nigdy nie miał. 3 października 1918 roku, po abdykacji Ferdynanda, został carem. Dzięki niemu Bułgaria jako jedyne z pokonanych państw zachowała monarchię.

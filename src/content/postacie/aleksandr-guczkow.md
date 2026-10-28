@@ -12,6 +12,9 @@ aliases: [Aleksandr Guczkow]
 wikiTitles: [Aleksandr_Guczkow]
 authors: [Łukasz Skowroń]
 tags: [Rosja, rewolucja lutowa, Mikołaj II]
+sources:
+  - "https://pl.wikipedia.org/wiki/Aleksandr_Guczkow"
+  - "https://en.wikipedia.org/wiki/Alexander_Guchkov"
 ---
 
 Aleksandr Iwanowicz Guczkow był jedną z najbarwniejszych postaci rosyjskiej polityki początku XX wieku: moskiewskim finansistą, ochotnikiem w cudzych wojnach, pojedynkowiczem i przywódcą umiarkowanie liberalnej partii [październikowców](https://pl.wikipedia.org/wiki/Oktiabryści). Od lat walczył o nowoczesną armię i o to, by miał nad nią kontrolę parlament, a nie dwór. W czasie wojny stanął na czele komitetów wojenno-przemysłowych, które mobilizowały prywatny przemysł do produkcji dla wojska, a zarazem stały się ośrodkiem opozycji. Cesarzowa chciała go powiesić. W marcu 1917 roku to on przywiózł z Pskowa akt abdykacji [Mikołaja II](/postacie/mikolaj-ii), a potem jako minister wojny próbował uratować dyscyplinę w armii. Po dwóch miesiącach uznał, że mu się nie udało, i odszedł.

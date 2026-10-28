@@ -12,6 +12,9 @@ aliases: [Franz von Hipper]
 wikiTitles: [Franz_von_Hipper]
 authors: [Natalia]
 tags: [Franz von Hipper, Kaiserliche Marine, Morze Północne]
+sources:
+  - "https://pl.wikipedia.org/wiki/Franz_von_Hipper"
+  - "https://en.wikipedia.org/wiki/Franz_von_Hipper"
 ---
 
 Franz Hipper, od 1916 roku Ritter von Hipper, przez całą wojnę dowodził niemieckimi krążownikami liniowymi, najszybszymi i najczęściej używanymi w boju ciężkimi okrętami cesarskiej floty. Jego zespół ostrzeliwał angielskie miasta, za co brytyjska prasa nazywała go „dzieciobójcą”, w styczniu 1915 roku uszedł z pułapki na Dogger Bank kosztem krążownika Blücher, a pod Jutlandią zatopił trzy brytyjskie krążowniki liniowe. Uchodził za jednego z najlepszych dowódców morskich wojny, cenionego także przez przeciwników. W sierpniu 1918 roku objął dowództwo Floty Pełnomorskiej, ale jego ostatni plan, wielki wypad floty na kilka dni przed rozejmem, zakończył się buntem marynarzy.

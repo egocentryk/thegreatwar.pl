@@ -12,6 +12,9 @@ aliases: [Józef August Habsburg, arcyksiążę Józef August]
 wikiTitles: [Józef_August_Habsburg]
 authors: [Natalia]
 tags: [Austro-Węgry, Włochy, Rumunia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Józef_August_Habsburg"
+  - "https://en.wikipedia.org/wiki/Archduke_Joseph_August_of_Austria"
 ---
 
 Arcyksiążę Józef August był najbardziej węgierskim z Habsburgów, którzy dowodzili w czasie wojny. Węgrzy nazywali go po prostu „arcyksięciem Józefem”. Przez półtora roku jego VII Korpus, złożony w dużej części z Węgrów, bronił płaskowyżu Krasu nad Soczą, gdzie toczyły się jedne z najkrwawszych walk całego frontu włoskiego. Od grudnia 1916 roku dowodził frontem w Karpatach Wschodnich i w Mołdawii, w 1918 roku armią nad Piawą i grupą armii w Tyrolu. W ostatnich dniach monarchii cesarz Karol mianował go marszałkiem polnym i swoim pełnomocnikiem na Węgrzech, gdzie musiał oddać władzę rewolucji. Rok później na krótko sam stanął na czele państwa węgierskiego.

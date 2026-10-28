@@ -12,6 +12,9 @@ aliases: [Alexander von Kluck]
 wikiTitles: [Alexander_von_Kluck]
 authors: [Natalia]
 tags: [Alexander von Kluck, Niemcy, Francja, Brytyjski Korpus Ekspedycyjny]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alexander_von_Kluck"
+  - "https://en.wikipedia.org/wiki/Alexander_von_Kluck"
 ---
 
 Alexander von Kluck dowodził w 1914 roku niemiecką 1 Armią, najsilniejszą i najdalej wysuniętą na zachód armią prawego skrzydła, która miała przejść przez Belgię i północną Francję, obejść Paryż i zamknąć armie francuskie w okrążeniu. Jego żołnierze przemaszerowali w ciągu miesiąca kilkaset kilometrów, pobili Brytyjczyków pod Mons i Le Cateau i doszli na kilkadziesiąt kilometrów od stolicy Francji. To jednak właśnie decyzje Klucka, zwrot na wschód od Paryża i pośpieszny marsz za Marnę, odsłoniły prawe skrzydło Niemców i otworzyły drogę do ich klęski nad Marną. Do dziś jest jedną z najbardziej spornych postaci tej bitwy.

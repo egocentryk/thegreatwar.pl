@@ -12,6 +12,9 @@ aliases: [Émile Fayolle]
 wikiTitles: [Marie_Émile_Fayolle]
 authors: [Natalia]
 tags: [Francja, Ferdinand Foch, Philippe Pétain, Włochy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Marie_Émile_Fayolle"
+  - "https://en.wikipedia.org/wiki/Émile_Fayolle"
 ---
 
 Marie Émile Fayolle miał 62 lata i od trzech miesięcy był na emeryturze, gdy w sierpniu 1914 roku wezwano go z powrotem do wojska. Cztery lata później dowodził grupą armii, która w marcu 1918 roku pomogła zatrzymać niemiecką ofensywę na Amiens i Paryż, a latem i jesienią odpychała Niemców od Marny ku granicy. Po drodze prowadził francuską 6 Armię w bitwie nad Sommą, Grupę Armii Centrum w trudnym roku buntów i wojska francuskie wysłane na pomoc Włochom po Caporetto. Był artylerzystą i wykładowcą, ostrożnym i metodycznym, przekonanym, że front trzeba zdobywać pozycja po pozycji, a nie jednym szturmem. Jego prowadzony przez całą wojnę dziennik, wydany w 1964 roku, należy do najciekawszych francuskich świadectw z tamtych lat.

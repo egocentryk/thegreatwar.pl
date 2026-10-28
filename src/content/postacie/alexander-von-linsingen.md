@@ -12,6 +12,9 @@ aliases: [Alexander von Linsingen]
 wikiTitles: [Alexander_von_Linsingen]
 authors: [Natalia]
 tags: [Niemcy, Galicja, wielki odwrót 1915, Ukraina]
+sources:
+  - "https://pl.wikipedia.org/wiki/Alexander_von_Linsingen"
+  - "https://en.wikipedia.org/wiki/Alexander_von_Linsingen"
 ---
 
 Alexander von Linsingen należał do najstarszych i najdłużej służących dowódców armii niemieckiej w I wojnie światowej. Gdy wybuchła wojna, miał 64 lata i dowodził korpusem. Po kampanii we Francji i Flandrii trafił na front wschodni, gdzie spędził ponad trzy lata. W 1915 roku poprowadził Armię Południową przez Karpaty i [nad Stryj](/bitwy/bitwa-nad-stryjem), potem nową Armię Bugu pod Brześć Litewski i Pińsk, a od jesieni tego roku stał na czele grupy armii na Wołyniu i Polesiu, w której pod niemieckim dowództwem walczyły także wojska austro-węgierskie. Latem 1916 roku jego wojska zatrzymały [ofensywę Brusiłowa](/bitwy/ofensywa-brusilowa) przed Kowlem, a w 1918 roku ruszyły na Ukrainę i weszły do Kijowa. Wojnę skończył jako dowódca wojsk w Berlinie, w dniach rewolucji listopadowej.

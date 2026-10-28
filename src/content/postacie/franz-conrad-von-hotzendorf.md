@@ -12,6 +12,9 @@ aliases: [Franz Conrad von Hötzendorf]
 wikiTitles: [Franz_Conrad_von_Hötzendorf]
 authors: [Łukasz Skowroń]
 tags: [Franz Conrad von Hötzendorf, Austro-Węgry, Galicja, Włochy]
+sources:
+  - "https://pl.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf"
+  - "https://en.wikipedia.org/wiki/Franz_Conrad_von_Hötzendorf"
 ---
 
 Franz Conrad von Hötzendorf był przez ponad dziesięć lat najważniejszym żołnierzem monarchii habsburskiej i jednym z ludzi, którzy najbardziej przyczynili się do wybuchu wojny. Jako szef sztabu generalnego od 1906 roku raz po raz domagał się wojny prewencyjnej z Serbią albo z Włochami, a latem 1914 roku należał do najgorliwszych zwolenników rozprawy z Belgradem. W czasie wojny formalnym wodzem naczelnym był arcyksiążę Fryderyk, ale to Conrad planował i prowadził operacje armii austro-węgierskiej. Jego śmiałe, rozległe plany kończyły się zwykle klęskami: w Galicji w 1914 roku, w Karpatach zimą 1915 roku, w Tyrolu w 1916 roku i nad Piawą w 1918 roku. Zwycięstwa odnoszono najczęściej z udziałem Niemców, od których monarchia stawała się coraz bardziej zależna. Przez dziesięciolecia otaczany w Austrii kultem jako genialny strateg, dziś oceniany jest przez większość historyków bardzo krytycznie.

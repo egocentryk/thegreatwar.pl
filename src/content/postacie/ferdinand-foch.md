@@ -12,6 +12,9 @@ aliases: [Ferdinand Foch]
 wikiTitles: [Ferdinand_Foch]
 authors: [Natalia]
 tags: [Ferdinand Foch, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Ferdinand_Foch"
+  - "https://en.wikipedia.org/wiki/Ferdinand_Foch"
 ---
 
 Ferdinand Foch jest jedynym dowódcą tej wojny, który w ostatnim roku kierował armiami kilku państw naraz. Przed 1914 rokiem był najbardziej znanym francuskim teoretykiem wojskowym i nauczycielem pokolenia oficerów. W pierwszych miesiącach wojny dowodził korpusem w Lotaryngii i armią nad Marną, a potem koordynował obronę Flandrii. W latach 1915–1916 prowadził krwawe i mało owocne natarcia w Artois i nad Sommą, za które zapłacił odsunięciem od dowództwa. Wiosną 1918 roku, w chwili największego zagrożenia, sojusznicy powierzyli mu wspólne kierownictwo armii na froncie zachodnim. Zatrzymał ostatnie niemieckie ofensywy, przeszedł do kontrnatarcia i w listopadzie w swoim wagonie w lesie Compiègne podyktował Niemcom warunki rozejmu. Był marszałkiem Francji, brytyjskim marszałkiem polnym i marszałkiem Polski.

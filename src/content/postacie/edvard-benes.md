@@ -12,6 +12,9 @@ aliases: [Edvard Beneš]
 wikiTitles: [Edvard_Beneš]
 authors: [Natalia]
 tags: [Czechosłowacy, Francja, Wielka Brytania, Austro-Węgry]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edvard_Beneš"
+  - "https://en.wikipedia.org/wiki/Edvard_Beneš"
 ---
 
 Edvard Beneš był najmłodszym z trzech przywódców czechosłowackiego ruchu niepodległościowego na emigracji i tym, który wykonał największą część codziennej pracy. Gdy w 1915 roku uciekł z Pragi, miał 31 lat i był mało znanym docentem socjologii. Przez trzy lata w Paryżu prowadził biuro [Czechosłowackiej Rady Narodowej](https://pl.wikipedia.org/wiki/Czechosłowacka_Rada_Narodowa), pisał artykuły i memoriały, utrzymywał tajną łączność z krajem i negocjował z francuskimi i brytyjskimi urzędnikami. Latem 1918 roku to on wywalczył w Paryżu i Londynie uznanie Rady za zalążek rządu, a w październiku ogłosił powstanie czechosłowackiego rządu tymczasowego. Przez następne siedemnaście lat kierował polityką zagraniczną państwa, które pomógł stworzyć, a potem był jego prezydentem w najtragiczniejszych latach.

@@ -12,6 +12,9 @@ aliases: [Pietro Badoglio]
 wikiTitles: [Pietro_Badoglio]
 authors: [Natalia]
 tags: [Włochy, Austro-Węgry, Armando Diaz, Luigi Cadorna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Pietro_Badoglio"
+  - "https://en.wikipedia.org/wiki/Pietro_Badoglio"
 ---
 
 Pietro Badoglio zrobił w czasie pierwszej wojny światowej karierę bez precedensu w armii włoskiej: w lutym 1915 roku był podpułkownikiem sztabu, a jesienią 1917 roku generałem porucznikiem i dowódcą korpusu. Rozgłos przyniosło mu starannie przygotowane zdobycie Monte Sabotino nad Soczą w sierpniu 1916 roku. Rok później jego XXVII Korpus znalazł się w samym centrum przełamania pod Caporetto, a mimo to Badoglio nie tylko uniknął odpowiedzialności, lecz został zastępcą nowego szefa sztabu, generała Armanda Diaza. Jako jego prawa ręka współtworzył odbudowę armii i zwycięstwo pod Vittorio Veneto, a 3 listopada 1918 roku podpisał w imieniu sprzymierzonych rozejm z Austro-Węgrami. Jego późniejsza droga, przez podbój Etiopii po upadek Mussoliniego w 1943 roku, sprawiła, że do dziś należy do najbardziej spornych postaci włoskiej historii XX wieku.

@@ -12,6 +12,9 @@ aliases: [Philippe Pétain]
 wikiTitles: [Philippe_Pétain]
 authors: [Łukasz Skowroń]
 tags: [Philippe Pétain, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Philippe_Pétain"
+  - "https://en.wikipedia.org/wiki/Philippe_Pétain"
 ---
 
 Philippe Pétain zrobił w czasie tej wojny karierę bez precedensu. W sierpniu 1914 roku był 58-letnim pułkownikiem, który szykował się do emerytury, bo przełożeni uważali go za oficera bez przyszłości. Cztery lata później był marszałkiem Francji. Przed wojną należał do nielicznych krytyków doktryny natarcia za wszelką cenę i powtarzał, że „ogień zabija”. Wojna przyznała mu rację. W 1916 roku zorganizował obronę Verdun, a w maju 1917 roku, po klęsce ofensywy Nivelle'a, objął dowództwo armii, w której wybuchły bunty, i przywrócił jej zdolność do walki. Żołnierze widzieli w nim dowódcę, który nie posyła ich na śmierć bez potrzeby. Politycy i sojusznicy zarzucali mu pesymizm, a w 1918 roku musiał ustąpić pierwszeństwa Fochowi. Ten sam autorytet zwycięzcy spod Verdun sprawił, że w 1940 roku stanął na czele państwa, które podjęło kolaborację z Niemcami. Dlatego jego biografia jest dziś we Francji jedną z najbardziej bolesnych.

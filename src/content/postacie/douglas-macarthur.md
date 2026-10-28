@@ -12,6 +12,9 @@ aliases: [Douglas MacArthur]
 wikiTitles: [Douglas_MacArthur]
 authors: [Natalia]
 tags: [Stany Zjednoczone, John Pershing, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Douglas_MacArthur"
+  - "https://en.wikipedia.org/wiki/Douglas_MacArthur"
 ---
 
 Douglas MacArthur przeszedł do historii jako dowódca z drugiej wojny światowej i wojny koreańskiej, ale sławę zdobył już we Francji w 1918 roku. Był pomysłodawcą i szefem sztabu 42 Dywizji, złożonej z oddziałów Gwardii Narodowej z wielu stanów i nazwanej dlatego „Rainbow”, czyli „Tęcza”. Latem 1918 roku jako 38-letni generał brygady objął dowództwo jej 84 Brygady Piechoty i poprowadził ją pod Saint-Mihiel i w ofensywie Moza–Argonne. Chodził na wypady do niemieckich okopów, nie nosił hełmu ani maski przeciwgazowej, dwa razy został zatruty gazem i wrócił do kraju jako jeden z najczęściej odznaczanych amerykańskich żołnierzy tej wojny. Już wtedy dał się poznać z cech, które towarzyszyły mu przez całe życie: wielkiej odwagi, talentu, teatralności i skłonności do opowiadania o sobie w samych superlatywach.

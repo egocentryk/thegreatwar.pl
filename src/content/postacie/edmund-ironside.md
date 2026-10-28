@@ -12,6 +12,9 @@ aliases: [Edmund Ironside]
 wikiTitles: [Edmund_Ironside]
 authors: [Natalia]
 tags: [Wielka Brytania, Rosja, Kanada]
+sources:
+  - "https://pl.wikipedia.org/wiki/Edmund_Ironside"
+  - "https://en.wikipedia.org/wiki/Edmund_Ironside,_1st_Baron_Ironside"
 ---
 
 William Edmund Ironside, zwany przez kolegów przekornie „Tiny” („maleńki”), bo mierzył ponad 190 centymetrów wzrostu i ważył ponad sto kilogramów, był jednym z najbardziej barwnych brytyjskich oficerów swojego pokolenia. Mówił biegle w kilku językach, w tym po rosyjsku. W wielkiej wojnie przez cztery lata służył w sztabach na froncie zachodnim, najdłużej jako szef sztabu 4 Dywizji Kanadyjskiej, z którą walczył pod Vimy i Passchendaele. Jesienią 1918 roku, mając 38 lat, objął dowództwo sił sojuszniczych w Archangielsku i przez rok prowadził na dalekiej północy Rosji wojnę z bolszewikami, która trwała jeszcze długo po rozejmie na zachodzie. Później dowodził w Persji, a w 1939 roku został szefem Imperialnego Sztabu Generalnego. Gdy otrzymał tytuł barona, przyjął nazwę Ironside of Archangel.

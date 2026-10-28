@@ -12,6 +12,9 @@ aliases: [Fajsal I, Fajsal]
 wikiTitles: [Fajsal_I]
 authors: [Łukasz Skowroń]
 tags: [powstanie arabskie, Imperium Osmańskie, Wielka Brytania, Francja]
+sources:
+  - "https://pl.wikipedia.org/wiki/Fajsal_I"
+  - "https://en.wikipedia.org/wiki/Faisal_I"
 ---
 
 Emir Fajsal, trzeci syn szarifa Mekki [Husajna ibn Alego](/postacie/husajn-ibn-ali), był najważniejszym dowódcą i politykiem powstania arabskiego. W czerwcu 1916 roku ogłosił pod Medyną niezależność Arabów od Turków, a potem, z brytyjskim złotem, bronią i doradcami, wśród których najsłynniejszy był [Thomas Edward Lawrence](/postacie/thomas-edward-lawrence), poprowadził Arabską Armię Północną z Hidżazu przez Al-Wadżh i Akabę aż do Damaszku. Jesienią 1918 roku stanął na czele arabskiego rządu w Syrii, rok później walczył o jej niepodległość na konferencji pokojowej w Paryżu, a w marcu 1920 roku został ogłoszony królem. Po czterech miesiącach wypędzili go Francuzi. Brytyjczycy, którzy nie dotrzymali mu obietnic w Syrii, osadzili go w 1921 roku na tronie Iraku. Uchodzi za jednego z najzdolniejszych przywódców arabskich swojej epoki: przywódcę wojskowego z konieczności, a dyplomatę z talentu.

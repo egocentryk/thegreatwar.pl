@@ -12,6 +12,9 @@ aliases: [Siergiej Sazonow]
 wikiTitles: [Siergiej_Sazonow]
 authors: [Łukasz Skowroń]
 tags: [Siergiej Sazonow, Rosja, Królestwo Polskie]
+sources:
+  - "https://pl.wikipedia.org/wiki/Siergiej_Sazonow"
+  - "https://en.wikipedia.org/wiki/Sergey_Sazonov"
 ---
 
 Siergiej Dmitriewicz Sazonow kierował rosyjską polityką zagraniczną przez cały kryzys lipcowy 1914 roku i przez pierwsze dwa lata wojny. To on przekonał cara [Mikołaja II](/postacie/mikolaj-ii) do powszechnej mobilizacji, która przesądziła o wojnie z Niemcami. Potem był rzecznikiem jedności Ententy, negocjował przyszły podział Turcji, wywalczył dla Rosji obietnicę Konstantynopola i zabiegał o sojusz z państwami bałkańskimi. W Rosji należał do nielicznych ministrów, którzy szukali porozumienia z Dumą, a w sprawie polskiej przekonywał cara do ogłoszenia autonomii Królestwa. Przypłacił to dymisją w lipcu 1916 roku. Dla sojuszników był gwarantem wierności Rosji, dla przeciwników, zwłaszcza niemieckich, jednym z winnych wybuchu wojny.

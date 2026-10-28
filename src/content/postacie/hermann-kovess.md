@@ -12,6 +12,9 @@ aliases: [Hermann Kövess]
 wikiTitles: [Hermann_Kövess_von_Kövesshaza]
 authors: [Natalia]
 tags: [Austro-Węgry, Serbia, Czarnogóra, Bukowina]
+sources:
+  - "https://pl.wikipedia.org/wiki/Hermann_Kövess_von_Kövesshaza"
+  - "https://en.wikipedia.org/wiki/Hermann_Kövess_von_Kövessháza"
 ---
 
 Hermann Kövess von Kövessháza, od 1917 roku baron, należał do najskuteczniejszych dowódców armii austro-węgierskiej, choć wojnę zaczął jako jeden z najstarszych i najbardziej pomijanych generałów monarchii. W 1914 roku, gdy młodsi od niego koledzy obejmowali armie, on dowodził korpusem. Dopiero w 1915 roku dostał samodzielne zadania: jego wojska zajęły lewobrzeżną część twierdzy Iwangród, a jesienią jako dowódca 3 Armii zdobył Belgrad. Zimą 1915/1916 roku w kilka tygodni podbił Czarnogórę i północną Albanię, a latem 1917 roku odbił Bukowinę z Czerniowcami. Był jednym z niewielu generałów monarchii, których cenili także Niemcy. Na koniec, w listopadzie 1918 roku, cesarz Karol uczynił go naczelnym wodzem armii, która właśnie przestawała istnieć.

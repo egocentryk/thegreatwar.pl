@@ -12,6 +12,9 @@ aliases: [Eugeniusz Habsburg, arcyksiążę Eugeniusz]
 wikiTitles: [Eugeniusz_Ferdynand_Habsburg]
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Włochy, Serbia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Eugeniusz_Ferdynand_Habsburg"
+  - "https://en.wikipedia.org/wiki/Archduke_Eugen_of_Austria"
 ---
 
 Arcyksiążę Eugeniusz należał do nielicznych członków rodziny cesarskiej, którzy byli zawodowymi, starannie wykształconymi żołnierzami. Po klęsce Oskara Potiorka w Serbii objął w grudniu 1914 roku wojska na Bałkanach, a od maja 1915 roku przez dwa i pół roku dowodził na froncie przeciw Włochom, który rozciągał się od granicy szwajcarskiej po Adriatyk. Pod jego zwierzchnictwem armia austro-węgierska odparła pierwsze bitwy nad Soczą, przeprowadziła w 1916 roku ofensywę w Tyrolu i jesienią 1917 roku, razem z Niemcami, rozbiła Włochów pod Caporetto. Skromny, bezpośredni i lubiany przez żołnierzy, był przede wszystkim symbolem i koordynatorem: plany operacji powstawały w naczelnym dowództwie i w jego sztabie, w którym główną rolę odgrywał energiczny generał Alfred Krauß. Gdy cesarz Karol przebudował dowództwo armii, odszedł na początku 1918 roku w stan spoczynku. Był ostatnim Habsburgiem na czele zakonu krzyżackiego.

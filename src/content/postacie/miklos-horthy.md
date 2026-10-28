@@ -12,6 +12,9 @@ aliases: [Miklós Horthy]
 wikiTitles: [Miklós_Horthy]
 authors: [Łukasz Skowroń]
 tags: [Austro-Węgry, Włochy, Morze Śródziemne, Karol I Habsburg]
+sources:
+  - "https://pl.wikipedia.org/wiki/Miklós_Horthy"
+  - "https://en.wikipedia.org/wiki/Miklós_Horthy"
 ---
 
 Miklós Horthy jest znany przede wszystkim jako regent Węgier w latach 1920–1944, ale jego kariera zaczęła się na Adriatyku. W czasie pierwszej wojny światowej był jednym z najbardziej przedsiębiorczych oficerów floty austro-węgierskiej, która przez większość wojny stała w portach. Jako dowódca szybkiego krążownika [Novara](https://pl.wikipedia.org/wiki/SMS_Novara_(1913)) prowadził wypady na włoskie i albańskie wybrzeże i na zaporę w Cieśninie Otranto, a w maju 1917 roku, ciężko ranny, wyszedł z [największej bitwy nawodnej na Adriatyku](/starcie-w-ciesninie-otranto) jako bohater. Po [buncie w Kotorze](/bunt-w-kotorze) cesarz [Karol I](/postacie/karol-i-habsburg) z pominięciem wielu starszych admirałów oddał mu dowództwo całej floty. Horthy próbował przywrócić jej ducha walki, ale jego jedyna wielka operacja skończyła się [zatopieniem drednota Szent István](/zatopienie-szent-istvana), a pół roku później to on musiał [przekazać okręty](/flota-dla-panstwa-shs) państwu jugosłowiańskiemu. Sława „bohatera z Novary” pomogła mu w 1919 roku stanąć na czele węgierskiej kontrrewolucji.

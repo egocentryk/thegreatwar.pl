@@ -12,6 +12,9 @@ aliases: [Louis Lyautey, Hubert Lyautey]
 wikiTitles: [Louis_Hubert_Gonzalve_Lyautey]
 authors: [Łukasz Skowroń]
 tags: [Francja, Maroko, Robert Nivelle, Aristide Briand]
+sources:
+  - "https://pl.wikipedia.org/wiki/Louis_Hubert_Gonzalve_Lyautey"
+  - "https://en.wikipedia.org/wiki/Hubert_Lyautey"
 ---
 
 Louis Hubert Gonzalve Lyautey, znany po prostu jako Hubert Lyautey, był najsłynniejszym francuskim żołnierzem kolonialnym swojego pokolenia. Wojnę światową przeżył przede wszystkim w Maroku, którym jako rezydent generalny rządził od 1912 roku. Gdy w 1914 roku Paryż zażądał, by oddał większość wojsk i wycofał się na wybrzeże, odmówił i utrzymał kraj, a zarazem wysłał do Francji dziesiątki batalionów. W grudniu 1916 roku Aristide Briand ściągnął go do Paryża na stanowisko ministra wojny. Trzy miesiące urzędowania okazały się dla niego pasmem upokorzeń: nie miał wpływu na wybór generała Nivelle'a, w którego plan nie wierzył, a lewica w parlamencie widziała w nim generała z ambicjami dyktatora. 14 marca 1917 roku, zakrzyczany w Izbie Deputowanych, podał się do dymisji i pociągnął za sobą cały rząd. Wrócił do Maroka i rządził nim jeszcze przez osiem lat.

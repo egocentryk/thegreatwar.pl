@@ -12,6 +12,9 @@ aliases: [Antonio Salandra]
 wikiTitles: [Antonio_Salandra]
 authors: [Łukasz Skowroń]
 tags: [Antonio Salandra, Włochy, neutralność]
+sources:
+  - "https://pl.wikipedia.org/wiki/Antonio_Salandra"
+  - "https://en.wikipedia.org/wiki/Antonio_Salandra"
 ---
 
 Antonio Salandra był premierem Włoch przez dwa lata i trzy miesiące, od marca 1914 do czerwca 1916 roku, ale te dwa lata zdecydowały o losie kraju. W sierpniu 1914 roku ogłosił neutralność Włoch, związanych z Niemcami i Austro-Węgrami trójprzymierzem. Jesienią zapowiedział, że Włochy będą się kierować „świętym egoizmem”, i razem z ministrem spraw zagranicznych [Sidneyem Sonninem](/postacie/sidney-sonnino) targował się z obiema stronami o cenę włoskiego udziału w wojnie. W kwietniu 1915 roku zawarł tajny układ z Ententą, a w maju, wbrew większości parlamentu i z poparciem króla oraz ulicy, wprowadził Włochy do wojny z Austro-Węgrami. Liczył na krótką kampanię. Gdy wojna okazała się długa, krwawa i nieudana, a austriacka ofensywa w Trydencie zagroziła Wenecji, parlament go obalił.

@@ -12,6 +12,9 @@ aliases: [Mustafa Kemal]
 wikiTitles: [Mustafa_Kemal_Atatürk]
 authors: [Natalia]
 tags: [Imperium Osmańskie, Dardanele, Kaukaz]
+sources:
+  - "https://pl.wikipedia.org/wiki/Mustafa_Kemal_Atatürk"
+  - "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atatürk"
 ---
 
 Mustafa Kemal, od 1934 roku znany jako Atatürk, wszedł do wielkiej wojny jako mało znany podpułkownik, attaché wojskowy w Sofii, a wyszedł z niej jako jeden z najbardziej cenionych generałów armii osmańskiej. 25 kwietnia 1915 roku, z własnej inicjatywy, rzucił swoją dywizję do kontrataku na Australijczyków i Nowozelandczyków lądujących na Gallipoli, a w sierpniu odbił grzbiet Sari Bair i zatrzymał Brytyjczyków pod Suvlą. W kolejnych latach dowodził korpusem na Kaukazie, gdzie odbił Muş i Bitlis, a potem armią w Palestynie i Syrii. Był krytykiem Envera Paszy i niemieckich doradców, nie bał się mówić przełożonym, że wojna jest przegrana. Po klęsce stanął na czele tureckiego ruchu narodowego, wygrał wojnę o granice nowej Turcji i ogłosił republikę, której był pierwszym prezydentem.

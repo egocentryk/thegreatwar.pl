@@ -12,6 +12,9 @@ aliases: [Karl von Bülow]
 wikiTitles: [Karl_von_Bülow]
 authors: [Łukasz Skowroń]
 tags: [Niemcy, Francja, Belgia]
+sources:
+  - "https://pl.wikipedia.org/wiki/Karl_von_Bülow"
+  - "https://en.wikipedia.org/wiki/Karl_von_Bülow"
 ---
 
 Karl von Bülow dowodził w 1914 roku niemiecką 2 Armią, która obok 1 Armii [Alexandra von Klucka](/postacie/alexander-von-kluck) tworzyła uderzeniowe prawe skrzydło wojsk niemieckich na zachodzie. Jego wojska zdobyły Liège i Namur, pobiły francuską 5 Armię nad Sambrą i pod Guise, a na początku września przekroczyły Marnę. To jednak właśnie Bülow 9 września, po rozmowie z wysłannikiem naczelnego dowództwa, jako pierwszy nakazał odwrót, który zakończył bitwę nad Marną i przekreślił niemiecki plan szybkiego zwycięstwa. Przez lata uchodził za jednego z głównych winnych tej klęski. Pół roku później ciężka choroba zakończyła jego karierę.

@@ -12,6 +12,9 @@ aliases: [Włodzimierz Lenin]
 wikiTitles: [Włodzimierz_Lenin]
 authors: [Łukasz Skowroń]
 tags: [Włodzimierz Lenin, Rosja, rewolucja październikowa, inicjatywy pokojowe]
+sources:
+  - "https://pl.wikipedia.org/wiki/Włodzimierz_Lenin"
+  - "https://en.wikipedia.org/wiki/Vladimir_Lenin"
 ---
 
 Włodzimierz Iljicz Uljanow, znany pod pseudonimem Lenin, był w pierwszej wojnie światowej najbardziej nieprzejednanym przeciwnikiem wojny w obozie socjalistów, a pod jej koniec człowiekiem, który zmienił jej przebieg na wschodzie. Na stronie ententy figuruje tylko dlatego, że był obywatelem jednego z jej mocarstw. W rzeczywistości od 1914 roku życzył klęski rządowi własnego kraju i wzywał, by wojnę między państwami zamienić w wojnę domową klas. Do wiosny 1917 roku był emigrantem w Szwajcarii, przywódcą niewielkiej frakcji. W kwietniu Niemcy przepuścili go do Rosji, licząc, że osłabi ją od środka. Siedem miesięcy później jego partia przejęła władzę w Piotrogrodzie, a w marcu 1918 roku, wbrew większości własnych towarzyszy, Lenin przeforsował pokój brzeski, który wyprowadził Rosję z wojny i otworzył Niemcom drogę do ostatniej wielkiej ofensywy na zachodzie. Jego państwo przetrwało pokonane Niemcy o ponad siedemdziesiąt lat.

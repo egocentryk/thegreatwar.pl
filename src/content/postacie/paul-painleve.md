@@ -12,6 +12,9 @@ aliases: [Paul Painlevé]
 wikiTitles: [Paul_Painlevé]
 authors: [Natalia]
 tags: [Francja, Philippe Pétain, Robert Nivelle]
+sources:
+  - "https://pl.wikipedia.org/wiki/Paul_Painlevé"
+  - "https://en.wikipedia.org/wiki/Paul_Painlevé"
 ---
 
 Paul Painlevé był jednym z najwybitniejszych matematyków swoich czasów i zarazem politykiem, który w najtrudniejszym roku wojny odpowiadał za armię francuską. Ministrem wojny został w marcu 1917 roku, w przededniu ofensywy generała Nivelle'a, w którą nie wierzył. Gdy natarcie zawiodło, a w armii wybuchły bunty, oddał dowództwo generałowi Pétainowi, a szefem sztabu generalnego uczynił generała Focha. Od września do listopada 1917 roku był premierem. Jego krótki rząd zamknął okres „świętej jedności” z socjalistami, a w Rapallo, po klęsce Włochów pod Caporetto, Painlevé współtworzył Najwyższą Radę Wojenną sprzymierzonych. Obalony przez Izbę w atmosferze afer szpiegowskich, ustąpił miejsca Clemenceau. Do dziś bywa oceniany skrajnie różnie: jako minister, który uratował armię przed dalszymi rzeziami, albo jako polityk zbyt słaby na czas wojny.

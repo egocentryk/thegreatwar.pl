@@ -12,6 +12,9 @@ aliases: [Georg von Hertling]
 wikiTitles: [Georg_von_Hertling]
 authors: [Natalia]
 tags: [Georg von Hertling, Niemcy, polityka wewnętrzna]
+sources:
+  - "https://pl.wikipedia.org/wiki/Georg_von_Hertling"
+  - "https://en.wikipedia.org/wiki/Georg_von_Hertling"
 ---
 
 Hrabia Georg von Hertling był przedostatnim kanclerzem cesarskich Niemiec. Objął urząd 1 listopada 1917 roku, w wieku 74 lat, i sprawował go przez jedenaście miesięcy, które przyniosły Niemcom największy triumf i największą klęskę wojny: pokój brzeski z Rosją, wielką ofensywę wiosenną na zachodzie, a potem odwrót i prośbę o rozejm. Był katolickim filozofem, profesorem w Monachium, wieloletnim posłem i przywódcą Centrum, a od 1912 roku premierem Bawarii. Jako pierwszy kanclerz Rzeszy wywodził się z partii politycznej i jako pierwszy przed objęciem urzędu uzgodnił program z większością Reichstagu, choć sam był przeciwnikiem rządów parlamentarnych. Wobec Naczelnego Dowództwa [Paula von Hindenburga](/postacie/paul-von-hindenburg) i [Ericha Ludendorffa](/postacie/erich-ludendorff) był jednak prawie bezsilny.
