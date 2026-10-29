@@ -56,7 +56,8 @@
    "sztandary-dla-armii-polskiej-we-francji",
    "armia-polska-sprzymierzona",
    "haller-naczelnym-wodzem",
-   "postacie/jozef-haller"
+   "postacie/jozef-haller",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://ipn.gov.pl/pl/historia-z-ipn/231218,Blekitna-armia-generala-Hallera.html",
@@ -152,7 +153,8 @@
    "postacie/anton-denikin",
    "postacie/aleksandr-kolczak",
    "zamach-kolczaka",
-   "poczatek-wojny-domowej-w-finlandii"
+   "poczatek-wojny-domowej-w-finlandii",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/White_movement",
@@ -183,7 +185,8 @@
   "see": [
    "poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie",
    "niemcy-zajmuja-warszawe",
-   "niemcy-zajmuja-bialystok"
+   "niemcy-zajmuja-bialystok",
+   "tematy/wojna-na-ziemiach-polskich"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Bieżeństwo",
@@ -215,7 +218,8 @@
    "robert-cecil-ministrem-blokady",
    "wielka-brytania-modyfikuje-deklaracje-londynska",
    "sojuszniczy-komitet-blokady",
-   "postacie/robert-cecil"
+   "postacie/robert-cecil",
+   "tematy/wojna-podwodna-1914-1918"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
@@ -248,7 +252,8 @@
    "lenin-wraca-do-piotrogrodu",
    "dni-lipcowe-w-piotrogrodzie",
    "rozpedzenie-konstytuanty",
-   "postacie/wlodzimierz-lenin"
+   "postacie/wlodzimierz-lenin",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://www.marxists.org/glossary/orgs/b/o.htm",
@@ -279,7 +284,8 @@
    "powolanie-czeka",
    "czerwony-terror",
    "zabojstwo-mirbacha",
-   "zamach-na-lenina"
+   "zamach-na-lenina",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Cheka",
@@ -312,7 +318,8 @@
    "powolanie-armii-czerwonej",
    "postacie/lew-trocki",
    "bitwy/operacja-faustschlag",
-   "bitwa-pod-pulkowem"
+   "bitwa-pod-pulkowem",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Red_Army",
@@ -345,7 +352,8 @@
    "bitwy/bitwa-pod-flers-courcelette",
    "poczatek-bitwy-pod-cambrai",
    "utworzenie-korpusu-pancernego",
-   "walki-pod-villers-bretonneux"
+   "walki-pod-villers-bretonneux",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Tanks_in_World_War_I",
@@ -377,7 +385,8 @@
    "pokoj-bez-zwyciestwa",
    "cztery-zasady-wilsona",
    "noty-pokojowe-do-wilsona",
-   "postacie/woodrow-wilson"
+   "postacie/woodrow-wilson",
+   "tematy/skutki-i-wojny-swiatowej"
   ],
   "sources": [
    "https://history.state.gov/milestones/1914-1920/fourteen-points",
@@ -471,7 +480,8 @@
    "bitwy/bitwa-jutlandzka",
    "poczatek-bitwy-jutlandzkiej",
    "amerykanskie-pancerniki-w-grand-fleet",
-   "postacie/john-fisher"
+   "postacie/john-fisher",
+   "tematy/przyczyny-i-wojny-swiatowej"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Dreadnought",
@@ -503,7 +513,8 @@
    "rewolucja-lutowa",
    "powstanie-rzadu-tymczasowego",
    "abdykacja-mikolaja-ii",
-   "zabojstwo-rasputina"
+   "zabojstwo-rasputina",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/State_Duma_(Russian_Empire)",
@@ -594,7 +605,8 @@
    "deklaracja-wersalska",
    "japonia-przystepuje-do-paktu-londynskiego",
    "traktat-rumunii-z-ententa",
-   "ententa-odrzuca-niemiecka-oferte-pokojowa"
+   "ententa-odrzuca-niemiecka-oferte-pokojowa",
+   "tematy/panstwa-centralne-i-ententa"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Ententa",
@@ -659,7 +671,8 @@
    "niemiecki-atak-gazowy-pod-bolimowem",
    "bitwy/druga-bitwa-pod-ypres",
    "bitwy/walki-nad-rawka-i-bzura",
-   "rosjanie-opuszczaja-osowiec"
+   "rosjanie-opuszczaja-osowiec",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://www.opcw.org/about-us/history",
@@ -691,7 +704,8 @@
    "postacie/hans-von-beseler",
    "akt-5-listopada",
    "patent-o-radzie-regencyjnej",
-   "pilsudski-wraca-do-warszawy"
+   "pilsudski-wraca-do-warszawy",
+   "tematy/wojna-na-ziemiach-polskich"
   ],
   "sources": [
    "https://muzhp.pl/kalendarium/utworzenie-generalnego-gubernatorstwa-z-siedziba-w-warszawie",
@@ -783,7 +797,8 @@
   ],
   "see": [
    "nowozelandczycy-zajmuja-samoe",
-   "bitwy/ofensywa-moza-argonne"
+   "bitwy/ofensywa-moza-argonne",
+   "tematy/skutki-i-wojny-swiatowej"
   ],
   "sources": [
    "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
@@ -815,7 +830,8 @@
    "padaja-ostatnie-forty-liege",
    "bitwy/oblezenie-antwerpii",
    "bitwy/oblezenie-nowogieorgijewska",
-   "ostrzal-paryza-z-dziala-dalekonosnego"
+   "ostrzal-paryza-z-dziala-dalekonosnego",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)",
@@ -848,7 +864,8 @@
    "poczatek-bitwy-pod-neuve-chapelle",
    "poczatek-bitwy-pod-gorlicami",
    "poczatek-bitwy-o-ryge",
-   "poczatek-operacji-michael"
+   "poczatek-operacji-michael",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Hurricane_bombardment",
@@ -943,7 +960,8 @@
   "see": [
    "austro-wegry-wypowiadaja-wojne-rosji",
    "pierwsze-walki-na-granicy-krolestwa-polskiego",
-   "postacie/jozef-pilsudski"
+   "postacie/jozef-pilsudski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/kalendarium-legionow-polskich",
@@ -972,7 +990,8 @@
   ],
   "see": [
    "bitwy/bitwa-nad-somma",
-   "poczatek-plagi-fokkerow"
+   "poczatek-plagi-fokkerow",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://www.nam.ac.uk/explore/weapons-western-front",
@@ -1007,7 +1026,8 @@
    "francja-uznaje-komitet-narodowy-polski",
    "wielka-brytania-uznaje-komitet-narodowy-polski",
    "stany-zjednoczone-uznaja-komitet-narodowy-polski",
-   "postacie/roman-dmowski"
+   "postacie/roman-dmowski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/tag/komitet-narodowy-polski",
@@ -1040,7 +1060,8 @@
    "komitet-do-spraw-konwojow",
    "pierwszy-regularny-konwoj",
    "postacie/william-sims",
-   "bitwy/bitwa-kolo-wysp-kokosowych"
+   "bitwy/bitwa-kolo-wysp-kokosowych",
+   "tematy/wojna-podwodna-1914-1918"
   ],
   "sources": [
    "https://ww1.nam.ac.uk/timeline/introduction-convoy-system/",
@@ -1103,7 +1124,8 @@
    "konwencja-w-bobrujsku",
    "bitwy/bitwa-pod-kaniowem",
    "walki-pod-kaniowem",
-   "bitwa-pod-rarancza"
+   "bitwa-pod-rarancza",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://niepodlegla.dzieje.pl/artykul/polskie-formacje-wojskowe-na-wschodzie-1914-1918",
@@ -1170,7 +1192,8 @@
    "akt-5-listopada",
    "niemcy-zajmuja-warszawe",
    "patent-o-radzie-regencyjnej",
-   "odzyskanie-niepodleglosci-przez-polske"
+   "odzyskanie-niepodleglosci-przez-polske",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Królestwo_Polskie_(kongresowe)",
@@ -1203,7 +1226,8 @@
    "arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie",
    "kajzer-obiecuje-austro-wegrom-pelne-poparcie",
    "austro-wegry-wypowiadaja-wojne-serbii",
-   "grey-proponuje-miedzynarodowa-konferencje-aby-powstrzymac-wojne"
+   "grey-proponuje-miedzynarodowa-konferencje-aby-powstrzymac-wojne",
+   "tematy/przyczyny-i-wojny-swiatowej"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Kryzys_lipcowy",
@@ -1237,7 +1261,8 @@
   "see": [
    "kryzys-przysiegowy",
    "aresztowanie-pilsudskiego",
-   "postacie/jozef-pilsudski"
+   "postacie/jozef-pilsudski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/100-rocznica-kryzysu-przysiegowego",
@@ -1334,7 +1359,8 @@
    "pierwsze-walki-na-granicy-krolestwa-polskiego",
    "kryzys-przysiegowy",
    "bitwa-pod-rarancza",
-   "postacie/jozef-pilsudski"
+   "postacie/jozef-pilsudski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/kalendarium-legionow-polskich",
@@ -1366,7 +1392,8 @@
    "bitwy/odwrot-na-linie-hindenburga",
    "poczatek-glownego-odwrotu-na-linie-hindenburga",
    "zakonczenie-odwrotu-na-linie-hindenburga",
-   "bitwy/bitwy-o-linie-hindenburga"
+   "bitwy/bitwy-o-linie-hindenburga",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
   ],
   "sources": [
    "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/siegfriedstellung",
@@ -1397,7 +1424,8 @@
    "poczatek-deportacji-ormian",
    "deklaracja-ententy-w-sprawie-rzezi-ormian",
    "bitwy/obrona-wanu",
-   "postacie/mehmet-talaat"
+   "postacie/mehmet-talaat",
+   "tematy/ludobojstwo-ormian"
   ],
   "sources": [
    "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview",
@@ -1428,7 +1456,8 @@
    "postacie/irakli-cereteli",
    "rewolucja-lutowa",
    "powstanie-rzadu-tymczasowego",
-   "rozpedzenie-konstytuanty"
+   "rozpedzenie-konstytuanty",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://www.marxists.org/glossary/orgs/m/e.htm",
@@ -1492,7 +1521,8 @@
   "see": [
    "pierwszy-atak-miotaczami-ognia",
    "bitwy/bitwa-pod-verdun",
-   "bitwy/bitwa-o-le-linge"
+   "bitwy/bitwa-o-le-linge",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Miotacz_ognia",
@@ -1525,7 +1555,8 @@
    "postacie/enver-pasza",
    "postacie/mehmet-talaat",
    "postacie/dzemal-pasza",
-   "poczatek-deportacji-ormian"
+   "poczatek-deportacji-ormian",
+   "tematy/ludobojstwo-ormian"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Młodoturcy",
@@ -1558,7 +1589,8 @@
    "austro-wegry-zarzadzaja-powszechna-mobilizacje",
    "niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji",
    "francja-zarzadza-powszechna-mobilizacje",
-   "poczatek-demobilizacji"
+   "poczatek-demobilizacji",
+   "tematy/przyczyny-i-wojny-swiatowej"
   ],
   "sources": [
    "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/juli-krise-1914",
@@ -1591,7 +1623,8 @@
    "niemcy-wypowiadaja-wojne-belgii",
    "wielka-brytania-zapowiada-obrone-neutralnosci-belgii",
    "wlochy-oglaszaja-neutralnosc",
-   "grecja-oglasza-zbrojna-neutralnosc"
+   "grecja-oglasza-zbrojna-neutralnosc",
+   "tematy/panstwa-centralne-i-ententa"
   ],
   "sources": [
    "https://avalon.law.yale.edu/20th_century/hague05.asp",
@@ -1623,7 +1656,8 @@
    "poczatek-nieograniczonej-wojny-podwodnej",
    "poczatek-niemieckiej-blokady-podwodnej",
    "zatopienie-lusitanii",
-   "nota-usa-w-sprawie-sussexa"
+   "nota-usa-w-sprawie-sussexa",
+   "tematy/wojna-podwodna-1914-1918"
   ],
   "sources": [
    "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/sea-war/u-boat-threat/",
@@ -1654,7 +1688,8 @@
   "see": [
    "rezolucja-kola-polskiego",
    "odezwa-wielkiego-ksiecia-mikolaja-do-polakow",
-   "powolanie-rady-regencyjnej"
+   "powolanie-rady-regencyjnej",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/kalendarium-legionow-polskich",
@@ -1686,7 +1721,8 @@
    "hindenburg-naczelnym-dowodca-na-wschodzie",
    "postacie/erich-ludendorff",
    "postacie/paul-von-hindenburg",
-   "hindenburg-feldmarszalkiem"
+   "hindenburg-feldmarszalkiem",
+   "tematy/wojna-na-ziemiach-polskich"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Ober_Ost",
@@ -1719,7 +1755,8 @@
    "moltke-szefem-sztabu-generalnego-armii-polowej",
    "falkenhayn-zastepuje-moltkego",
    "dymisja-ludendorffa",
-   "postacie/erich-ludendorff"
+   "postacie/erich-ludendorff",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
   ],
   "sources": [
    "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/oberste-heeresleitung-ohl",
@@ -1782,7 +1819,8 @@
    "tajny-sojusz-niemiec-i-imperium-osmanskiego",
    "wlochy-wypowiadaja-trojprzymierze",
    "akt-5-listopada",
-   "panstwa-centralne-atakuja-serbie"
+   "panstwa-centralne-atakuja-serbie",
+   "tematy/panstwa-centralne-i-ententa"
   ],
   "sources": [
    "https://pl.wikipedia.org/wiki/Państwa_centralne",
@@ -1815,7 +1853,8 @@
    "moltke-szefem-sztabu-generalnego-armii-polowej",
    "niemcy-wypowiadaja-wojne-belgii",
    "koniec-bitwy-nad-marna",
-   "postacie/helmuth-von-moltke"
+   "postacie/helmuth-von-moltke",
+   "tematy/przyczyny-i-wojny-swiatowej"
   ],
   "sources": [
    "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/schlieffen-plan",
@@ -1881,7 +1920,8 @@
    "patent-o-radzie-regencyjnej",
    "deklaracja-rady-regencyjnej",
    "odzyskanie-niepodleglosci-przez-polske",
-   "postacie/hans-von-beseler"
+   "postacie/hans-von-beseler",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/kalendarium-legionow-polskich",
@@ -1914,7 +1954,8 @@
    "pierwsze-posiedzenie-tymczasowej-rady-stanu",
    "rzad-lubelski",
    "odzyskanie-niepodleglosci-przez-polske",
-   "postacie/jozef-pilsudski"
+   "postacie/jozef-pilsudski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/polska-organizacja-wojskowa",
@@ -1973,7 +2014,8 @@
   "see": [
    "niemcy-odrzucaja-pomoc-zywnosciowa-dla-polski",
    "porozumienie-z-holenderskim-trustem-zamorskim",
-   "powstaje-holenderski-trust-zamorski"
+   "powstaje-holenderski-trust-zamorski",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
   ],
   "sources": [
    "https://everydaylivesinwar.herts.ac.uk/2015/04/food-and-the-first-world-war-in-germany/",
@@ -2005,7 +2047,8 @@
    "rozkaz-nr-1",
    "odezwa-rady-piotrogrodzkiej-do-polakow",
    "rewolucja-pazdziernikowa",
-   "zjazd-rad-w-berlinie"
+   "zjazd-rad-w-berlinie",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Soviet_(council)",
@@ -2038,7 +2081,8 @@
    "postacie/wlodzimierz-lenin",
    "rozpedzenie-konstytuanty",
    "moskwa-stolica-rosji",
-   "traktat-brzeski"
+   "traktat-brzeski",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Council_of_People%27s_Commissars",
@@ -2071,7 +2115,8 @@
    "rada-regencyjna-obejmuje-wladze",
    "deklaracja-rady-regencyjnej",
    "rozwiazanie-rady-regencyjnej",
-   "postacie/aleksander-kakowski"
+   "postacie/aleksander-kakowski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/aktualnosci/rada-regencyjna",
@@ -2169,7 +2214,8 @@
    "odezwa-rzadu-tymczasowego-do-polakow",
    "kierenski-premierem-rosji",
    "rewolucja-pazdziernikowa",
-   "postacie/gieorgij-lwow"
+   "postacie/gieorgij-lwow",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://www.marxists.org/glossary/orgs/p/r.htm",
@@ -2201,7 +2247,8 @@
    "powstanie-niemieckich-sil-powietrznych",
    "koniec-plagi-fokkerow",
    "smierc-czerwonego-barona",
-   "postacie/oswald-boelcke"
+   "postacie/oswald-boelcke",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/air-war/command-of-the-air/",
@@ -2267,7 +2314,8 @@
    "smierc-ferdinanda-von-zeppelina",
    "nalot-sterowcow-i-zestrzelenie-sl-11",
    "ostatni-nalot-zeppelinow",
-   "postacie/peter-strasser"
+   "postacie/peter-strasser",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://www.history.co.uk/article/terror-from-the-air-the-german-zeppelin-raids-of-1915-1918",
@@ -2299,7 +2347,8 @@
    "brytyjsko-francuska-wymiana-not-o-azji-mniejszej",
    "grey-zatwierdza-porozumienie-sykes-picot",
    "list-mcmahona-do-szarifa-mekki",
-   "deklaracja-balfoura"
+   "deklaracja-balfoura",
+   "tematy/panstwa-centralne-i-ententa"
   ],
   "sources": [
    "https://avalon.law.yale.edu/20th_century/sykes.asp",
@@ -2330,7 +2379,8 @@
    "poczatek-operacji-michael",
    "bitwy/operacja-michael",
    "bitwy/bitwa-o-ryge",
-   "postacie/oskar-von-hutier"
+   "postacie/oskar-von-hutier",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Stormtroopers_(Imperial_Germany)",
@@ -2363,7 +2413,8 @@
    "publikacja-telegramu-zimmermanna",
    "zimmermann-przyznaje-sie-do-telegramu",
    "wilson-prosi-kongres-o-wypowiedzenie-wojny",
-   "postacie/arthur-zimmermann"
+   "postacie/arthur-zimmermann",
+   "tematy/wojna-podwodna-1914-1918"
   ],
   "sources": [
    "https://www.archives.gov/milestone-documents/zimmermann-telegram",
@@ -2395,7 +2446,8 @@
    "poczatek-rokowan-pokojowych-w-brzesciu",
    "pokoj-brzeski-z-ukraina",
    "zjazd-rad-ratyfikuje-traktat-brzeski",
-   "alianci-odrzucaja-traktat-brzeski"
+   "alianci-odrzucaja-traktat-brzeski",
+   "tematy/rewolucje-w-rosji-1917"
   ],
   "sources": [
    "https://dzieje.pl/node/12800",
@@ -2459,7 +2511,8 @@
    "dekret-o-utworzeniu-tymczasowej-rady-stanu",
    "pierwsze-posiedzenie-tymczasowej-rady-stanu",
    "tymczasowa-rada-stanu-odpowiada-rzadowi-tymczasowemu",
-   "kryzys-przysiegowy"
+   "kryzys-przysiegowy",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/wiadomosci/105-lat-temu-jozef-pilsudski-wystapil-z-tymczasowej-rady-stanu",
@@ -2492,7 +2545,8 @@
    "poczatek-niemieckiej-blokady-podwodnej",
    "zatopienie-lusitanii",
    "zatoniecie-aboukir-hogue-i-cressy",
-   "kapitulacja-u-bootow"
+   "kapitulacja-u-bootow",
+   "tematy/wojna-podwodna-1914-1918"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/U-boat",
@@ -2558,7 +2612,8 @@
    "bitwy/bitwa-pod-verdun",
    "bitwy/bitwa-nad-somma",
    "postacie/erich-von-falkenhayn",
-   "koniec-bitwy-nad-somma"
+   "koniec-bitwy-nad-somma",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
   ],
   "sources": [
    "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/material",
@@ -2621,7 +2676,8 @@
   "see": [
    "akt-5-listopada",
    "odezwa-wielkiego-ksiecia-mikolaja-do-polakow",
-   "odzyskanie-niepodleglosci-przez-polske"
+   "odzyskanie-niepodleglosci-przez-polske",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
   ],
   "sources": [
    "https://dzieje.pl/infografiki/i-rozbior-polski",
@@ -2653,7 +2709,8 @@
    "poczatek-bitwy-o-grzbiet-bazentin",
    "bitwy/bitwa-nad-somma",
    "szturm-na-grzbiet-vimy",
-   "poczatek-operacji-michael"
+   "poczatek-operacji-michael",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Barrage_(artillery)",

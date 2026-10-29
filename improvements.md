@@ -1596,6 +1596,30 @@ same kind of question (przyczyny, skutki, okupacja, Zagłada).
   2–3.5 million, ~1 million Poles (Chwalba, war-numbers); English guides
   use both "Lemberg" and "Lwów" — pick one.
 
+### Third batch: guides 9–10, and guides on glossary pages
+
+- Państwa centralne i Ententa ("Kto z kim walczył w I wojnie
+  światowej?"; 2,423 words, 140 links to our pages, about 75 of them the
+  declarations of war and broken relations) and Ludobójstwo Ormian ("Co
+  spotkało Ormian w czasie I wojny światowej?"; 2,701 words, ten non-wiki
+  sources: Kévorkian/Sciences Po, USHMM, the Armenian National Institute,
+  genocide-museum.am, dzieje.pl; every figure a range or attributed).
+- Glossary term pages show the guides: `see` in `glossary.json` may now
+  hold `tematy/<id>`, shown first in the sidebar as "Temat" with the
+  question (`GlossaryTerm.astro`). 57 terms link their guide (gas warfare,
+  tanks → new weapons; Bolsheviks, Cheka → the revolutions; the Regency
+  Council, the Legions → the Polish question…).
+- Dev server: after adding a schema field (`question`) the running
+  `astro dev` kept old cached entries without it; `astro dev --force`
+  (clears the content cache) fixes it. The build was right.
+- Writers' notes: `1915/05/wlochy-wypowiadaja-wojne-austro-wegrom` says
+  Salandra and Sonnino signed the London pact "w Londynie" — it was Grey,
+  Cambon, Benckendorff and Imperiali (as `wlochy-podpisuja-pakt-londynski`
+  says); `abdykacja-krola-konstantyna`: title says abdication, summary says
+  he formally didn't abdicate; Talat and the others sentenced 5 VII 1919
+  (our page, Kévorkian) vs 10 VI (Armenian National Institute); Djemal
+  died 21 VII 1922 (our page) vs 25 VII (Kévorkian).
+
 ## 25. Polish thread: 29 Polish person pages with portraits (2026-10-29)
 
 New here (expansion-plan.md §A3, first part).

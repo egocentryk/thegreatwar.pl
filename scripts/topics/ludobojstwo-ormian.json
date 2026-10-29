@@ -1,0 +1,870 @@
+{
+ "slug": "ludobojstwo-ormian",
+ "paragraphs": [
+  {
+   "start": "W czasie I wojny światowej władze Imperium Osmańskiego",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "The Armenian genocide refers to the physical annihilation of ethnic Armenian Christian people living in the Ottoman Empire from spring 1915 through autumn 1916."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Rządzący Komitet Jedności i Postępu, z ministrem spraw wewnętrznych Talatem Paszą, oskarżał Ormian o sprzyjanie Rosji, zwłaszcza po klęsce pod Sarıkamışem. Wiosną 1915 roku zaczęły się deportacje, a 24 kwietnia w Konstantynopolu aresztowano kilkuset ormiańskich przywódców i intelektualistów, z których większość zamordowano. Od końca maja wysiedlenia objęły niemal całą Anatolię. Mężczyzn często mordowano na miejscu, a kobiety, dzieci i starców pędzono w marszach śmierci na pustynie, gdzie umierali z głodu, pragnienia i chorób."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "The deportees were regularly exposed to attacks from nomads as well as from their own guards."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Według większości szacunków historyków w latach 1915–1916 zginęło od około 600 tysięcy do ponad miliona Ormian, a strona ormiańska mówi o 1,5 miliona."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Turcja do dziś nie uznaje ich za ludobójstwo, choć uznały je liczne państwa, w tym Polska."
+    }
+   ]
+  },
+  {
+   "start": "Ormianie byli jednym z wielu narodów",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Armenian Christians were one of many distinct ethnic groups in the Ottoman Empire."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "In the Ottoman system that still prevailed in 1915, each important historical group enjoyed legitimate representation before the authorities in their respective institutions—the Patriarchate or Grand Rabbinate."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "w większości we wschodniej Anatolii, przy granicy z Rosją i Persją, ale także w Cylicji i w miastach zachodniej części kraju. Od dziesięcioleci byli ofiarami przemocy. W latach 1894–1896, za panowania sułtana Abdülhamida II, w masakrach zginęło ich według różnych szacunków od kilkudziesięciu do kilkuset tysięcy"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "In all, at least 80,000 Armenians were killed between 1894 and 1896."
+    }
+   ]
+  },
+  {
+   "start": "Rewolucja młodoturecka z lipca 1908 roku",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "The revolution of July 1908 reestablishing the constitution (which had been suspended after just two years of existence), announced a democratization of the regime and equal rights for all citizens regardless of their national or confessional inclination."
+    },
+    {
+     "url": "https://www.genocide-museum.am/eng/armenian_genocide.php",
+     "quote": "Armenians enthusiastically embraced this opportunity"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Ottoman soldiers, irregular troops, and civilians murdered as many as 20,000 Armenians in and around the city of Adana"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "The massacres in Cilicia in April 1909, which occurred before any event foreshadowing the First World War, marked a turning point in Turkish-Armenian relations. The political treatment of these crimes—approximately 25,000 Armenian victims in the region bordering the eastern Mediterranean—convinced the Armenian elite that the CUP was responsible for those events, and this contributed to a crisis of confidence between the two groups"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "They envisioned a future state that was not multi-ethnic and “Ottoman,” but culturally and homogeneously Turkish. Dense areas of Armenian settlement across eastern Anatolia presented a demographic obstacle to these ambitions. Following several years of political upheaval, CUP leaders seized dictatorial power in a coup on January 23, 1913."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Władzę w Konstantynopolu sprawował od 1913 roku Komitet Jedności i Postępu, a w nim triumwirat: minister wojny Enver Pasza, minister marynarki Dżemal Pasza i minister spraw wewnętrznych Mehmed Talat, znany później jako Talat Pasza."
+    }
+   ]
+  },
+  {
+   "start": "2 sierpnia 1914 roku przywódcy komitetu zawarli",
+   "quotes": [
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Talat należał do wąskiego grona przywódców, którzy 2 sierpnia 1914 roku zawarli tajny sojusz z Niemcami."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1914; November 2: The Ottoman Empire declares war on Russia."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1914; August 3: Meeting of the Central Committee (CC) of the CUP resulting in the formation of the Special Organization (OS) [Teşkilat-ı Mahsusa], a paramilitary group that exists independently of the official State structures and charged with the struggle against “internal enemies”."
+    },
+    {
+     "url": "https://www.armenian-genocide.org/genocidefaq.html",
+     "quote": "the Young Turks also relied on a newly-created secret outfit which they manned with convicts and irregular troops, called the Special Organization"
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Po stronie rosyjskiej walczyły drużyny ochotników ormiańskich, w części złożone z uciekinierów z Turcji, a władze osmańskie przedstawiały to jako dowód zdrady całego narodu, choć tysiące Ormian służyły w armii sułtana."
+    }
+   ]
+  },
+  {
+   "start": "Zimą 1914/1915 roku Enver poprowadził 3 Armię",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-sarykamyszem.md",
+     "quote": "summary: Zimą 1914 Enver Pasza poprowadził 3 Armię przez zaśnieżone góry na tyły Rosjan pod Sarykamyszem. Mróz, tyfus i rosyjski kontratak zniszczyły jego armię."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-sarykamyszem.md",
+     "quote": "Na przełomie 1914 i 1915 roku minister wojny Enver Pasza poprowadził osmańską 3 Armię w zimowy marsz przez góry"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-sarykamyszem.md",
+     "quote": "Mimo to władze osmańskie szybko zrzuciły część odpowiedzialności za klęskę na Ormian, oskarżając ich o zdradę, dezercję i pomoc dla wroga."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "The crushing defeat suffered by the Ottoman Army at Sarıkamış at the end of December 1914 had not only convinced the Central Committee of the Young Turks that it would be impossible to realize their ambitions, but also undoubtedly brought them to compensate for this upsetting event with a harsher policy toward its Armenian population."
+    },
+    {
+     "file": "src/content/timeline/1915/04/turcy-zajmuja-urmie.md",
+     "quote": "Według relacji misjonarzy żołnierzy Ormian służących w armii osmańskiej rozstrzelano jeszcze przed nadejściem Halila, a po jego klęsce zabijano także Ormian i Asyryjczyków z jego własnych oddziałów."
+    },
+    {
+     "file": "src/content/timeline/1915/05/bitwa-pod-dilmanem.md",
+     "quote": "Halil obwiniał o porażkę Ormian i Asyryjczyków, a według niemieckich świadków kilkuset służących w jego oddziałach żołnierzy i oficerów tych narodowości rozbrojono i zabito."
+    }
+   ]
+  },
+  {
+   "start": "25 lutego 1915 roku Enver podpisał rozkaz",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1915; February 25: The Minister of War, Enver Pasha, signs a degree ordering the disarmament of Armenian soldiers."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "W lutym 1915 roku ministerstwo wojny nakazało rozbroić żołnierzy ormiańskich i przenieść ich do batalionów roboczych, w których wielu później zamordowano."
+    },
+    {
+     "url": "https://www.genocide-museum.am/eng/armenian_genocide.php",
+     "quote": "The first phase of the Armenian Genocide was the conscription of about 60,000 Armenian men into the Ottoman army, their disarmament and murder by their Turkish fellow soldiers."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "W marcu aresztowano ormiańskich mężczyzn z Dörtyol nad Zatoką Aleksandretty i również wysłano ich do batalionów roboczych."
+    }
+   ]
+  },
+  {
+   "start": "Kiedy zapadła decyzja o zagładzie, historycy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Historycy wciąż spierają się, kiedy przywódcy Komitetu Jedności i Postępu postanowili zniszczyć Ormian. Część badaczy, między innymi Kévorkian i Taner Akçam, łączy tę decyzję z naradami komitetu centralnego w drugiej połowie marca 1915 roku, gdy do Konstantynopola wrócił z frontu kaukaskiego jeden z przywódców tajnej Organizacji Specjalnej, doktor Bahaeddin Şakir. Inni, jak Ronald Suny, widzą raczej stopniową radykalizację, przyspieszoną w kwietniu i maju przez alianckie lądowanie na Gallipoli i walki w Wanie."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "As we observe in other cases of mass violence perpetrated by a single-party State, we do not have in our posession a formal document of the decision to exterminate. It was the witnessing of the on-the-ground policies of the State-party that convinced contemporary observers—Consuls stationed in the areas concerned along with American and German ambassadors—of the premeditated nature of the CUP leaders’ genocidal plans."
+    }
+   ]
+  },
+  {
+   "start": "Pierwsze deportacje objęły Cylicję.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "8 kwietnia, według większości opracowań, wyruszył pierwszy konwój wysiedlonych z Zeytun, górskiego miasteczka w Cylicji"
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Władze uznały te wydarzenia za bunt całego miasta."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Według większości relacji w marcu doszło do starć między nimi a żandarmami"
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Historyk Raymond Kévorkian pisze o około 18 tysiącach osób, inne szacunki mówią o 20–25 tysiącach."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Pierwszych kierowano na zachód, przez przełęcze Taurusu do okolic Konyi, na pustkowia pod Sultaniye, w jedno z najbardziej niezdrowych miejsc Anatolii. Kolejnych pędzono na południe, do Aleppo, a dalej nad Eufrat"
+    },
+    {
+     "url": "https://www.armenian-genocide.org/genocidefaq.html",
+     "quote": "On the night of April 24, 1915, the Turkish government placed under arrest over 200 Armenian community leaders in Constantinople."
+    }
+   ]
+  },
+  {
+   "start": "Wieczorem 24 kwietnia, na rozkaz Talata",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Wieczorem 24 kwietnia, na rozkaz Talata, w Konstantynopolu aresztowano w pierwszej fali od około 240 do 270 ormiańskich przywódców politycznych, pisarzy, dziennikarzy, lekarzy, duchownych i kupców. Większość z nich zamordowano w kolejnych miesiącach."
+    },
+    {
+     "url": "https://www.armenian-genocide.org/genocidefaq.html",
+     "quote": "Hundreds more were apprehended soon after. They were all sent to prison in the interior of Anatolia, where most were summarily executed."
+    },
+    {
+     "url": "https://www.genocide-museum.am/eng/armenian_genocide.php",
+     "quote": "On April 24 and the following days 800 Armenians were arrested in Constantinople and exiled to the depths of Anatolia."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Latem aresztowano i zamordowano też dawnych politycznych sojuszników Talata, ormiańskich posłów Krikora Zohraba i Wartkesa Serengüliana."
+    },
+    {
+     "url": "https://www.genocide-museum.am/eng/armenian_genocide.php",
+     "quote": "Hereinafter, Armenians worldwide started to commemorate the Armenian genocide on April 24."
+    }
+   ]
+  },
+  {
+   "start": "Kilka dni wcześniej, 20 kwietnia, doszło do walk",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-obrony-wanu.md",
+     "quote": "20 kwietnia 1915 roku w Wanie, stolicy wschodnioanatolijskiego wilajetu nad jeziorem Wan, padły pierwsze strzały walk między wojskami osmańskimi a ormiańskimi mieszkańcami miasta."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-obrony-wanu.md",
+     "quote": "gubernatorem wilajetu Wan został Cevdet Bej, szwagier ministra wojny Envera Paszy."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-obrony-wanu.md",
+     "quote": "16 lub 17 kwietnia, według różnych relacji, Iszchan i jego towarzysze zostali zamordowani po drodze, w kurdyjskiej wsi, na rozkaz gubernatora. Następnego dnia rano Cevdet wezwał do siebie Wramiana i kazał go aresztować."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-obrony-wanu.md",
+     "quote": "W tych samych dniach oddziały nieregularne zaczęły napadać na ormiańskie wsie wokół Wanu."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-obrony-wanu.md",
+     "quote": "Większość historyków opisuje je jednak jako zbrojną samoobronę ludności, która miała wszelkie powody, by spodziewać się rzezi. Od tego dnia Ormianie przez blisko cztery tygodnie bronili się w swoich dzielnicach przed wojskami gubernatora Cevdeta Beja."
+    },
+    {
+     "file": "src/content/battles/1915/obrona-wanu.md",
+     "quote": "Władze w Konstantynopolu przedstawiały walki w Wanie jako powstanie na tyłach frontu kaukaskiego, przygotowane w porozumieniu z Rosjanami, i uczyniły z nich jedno z głównych uzasadnień deportacji Ormian."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-obrony-wanu.md",
+     "quote": "Poprzednik Cevdeta, Hasan Tahsin, pisał, że buntu w Wanie nie było i być nie mogło"
+    },
+    {
+     "file": "src/content/timeline/1915/05/rosjanie-zajmuja-wan.md",
+     "quote": "Wejście Rosjan zamykało obronę Wanu"
+    },
+    {
+     "file": "src/content/timeline/1915/08/rosjanie-opuszczaja-wan.md",
+     "quote": "Z nimi uciekały na Kaukaz dziesiątki tysięcy Ormian z miasta i okolicy."
+    }
+   ]
+  },
+  {
+   "start": "24 maja 1915 roku Francja, Wielka Brytania i Rosja",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/deklaracja-ententy-w-sprawie-rzezi-ormian.md",
+     "quote": "24 maja 1915 roku rządy Francji, Wielkiej Brytanii i Rosji ogłosiły wspólną deklarację w sprawie mordów na Ormianach w Imperium Osmańskim."
+    },
+    {
+     "file": "src/content/timeline/1915/05/deklaracja-ententy-w-sprawie-rzezi-ormian.md",
+     "quote": "„Wobec tych nowych zbrodni Turcji przeciwko ludzkości i cywilizacji rządy sprzymierzone oznajmiają publicznie Wysokiej Porcie, że pociągną do osobistej odpowiedzialności za te zbrodnie wszystkich członków rządu osmańskiego"
+    },
+    {
+     "file": "src/content/postacie/siergiej-sazonow.md",
+     "quote": "W maju 1915 roku z jego inicjatywy sojusznicy wydali wspólną deklarację"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1915; May 27: The Istanbul press announces the promulgation of the “provisional law of deportation”."
+    },
+    {
+     "file": "src/content/timeline/1915/05/deklaracja-ententy-w-sprawie-rzezi-ormian.md",
+     "quote": "Kilka dni później władze osmańskie wydały tymczasową ustawę o deportacjach, która nadała pozór legalności wysiedleniom prowadzonym od początku kwietnia. Latem objęły one niemal całą ludność ormiańską Anatolii."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Beginning in May 1915 the government expanded the deportations—regardless of distance from combat zones"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "The central government also required close monitoring and data collection on the number of Armenians deported, the amount and type of housing they left behind, and the number of deportees reaching holding camps."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "by confiscating the assets of murdered or deported Armenians"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Ottoman authorities generally refrained from mass deportations in the cities of Istanbul and Izmir"
+    }
+   ]
+  },
+  {
+   "start": "Schemat był niemal wszędzie podobny.",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "The operations were structured in several phases, according to a mode of operation that was largely identical everywhere."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Mężczyzn często mordowano na miejscu albo tuż za miastem, a kobiety, dzieci i starców pędzono w kolumnach na pustynię syryjską. Po drodze konwoje napadały oddziały Organizacji Specjalnej, Kurdowie i miejscowi bandyci."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "This violence included robbery (e.g., stripping victims naked to take their clothing and conducting body cavity searches for valuables), rape, abduction of young women and girls, extortion, torture, and murder."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "the two most important ones were located in gorges—those of Kemah, to the south-west of Erzincan on the Euphrates"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "and those of Kahta, in the mountains to the south of Malatya"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "In addition, tens of thousands of Armenian children were forcibly removed from their families and converted to Islam."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "a urzędników, którzy odmawiali udziału w zbrodni, odwoływano, a niekiedy zabijano."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Ofiarami deportacji i masakr padli także Asyryjczycy i inni chrześcijanie wschodniej Anatolii."
+    }
+   ]
+  },
+  {
+   "start": "Opór był rzadki. Ormianie uciekający",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/09/francuzi-zajmuja-wyspe-ruad.md",
+     "quote": "Kilka dni później okręty tej samej eskadry dostrzegły sygnały Ormian broniących się na górze Musa Dagh, uciekających przed deportacjami w czasie ludobójstwa Ormian. W połowie września francuskie okręty ewakuowały stamtąd ponad 4 tysiące ludzi."
+    },
+    {
+     "file": "src/content/timeline/1916/02/zatoniecie-krazownika-amiral-charner.md",
+     "quote": "We wrześniu 1915 roku brał udział w ewakuacji Ormian spod góry Musa Dagh"
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Amerykański ambasador Henry Morgenthau zanotował, że w sierpniu 1915 roku minister oświadczył mu, iż polityka wobec Ormian jest przesądzona, a w Anatolii nie będzie ich nigdzie."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Their reactions ranged from horror and formal protests to, in some instances, tacit support of the Ottomans."
+    },
+    {
+     "file": "src/content/postacie/otto-liman-von-sanders.md",
+     "quote": "W Smyrnie, zagroziwszy władzom użyciem wojska, powstrzymał deportacje miejscowych Ormian"
+    },
+    {
+     "file": "src/content/postacie/colmar-von-der-goltz.md",
+     "quote": "W grudniu 1915 roku feldmarszałek zagroził dymisją, jeśli deportacje Ormian nie zostaną wstrzymane."
+    },
+    {
+     "file": "src/content/postacie/theobald-von-bethmann-hollweg.md",
+     "quote": "kanclerz zanotował w grudniu 1915 roku, że jedynym celem Niemiec jest utrzymanie Turcji po swojej stronie do końca wojny, bez względu na to, czy zginą przy tym Ormianie."
+    }
+   ]
+  },
+  {
+   "start": "Kolumny szły pieszo setki kilometrów",
+   "quotes": [
+    {
+     "url": "https://dzieje.pl/node/19350",
+     "quote": "Z kobiet i starców formowano karawany i zmuszano do pieszego kilkuset kilometrowego marszu w kierunku Aleppo i innych punktów zbiorczych na terenie Syrii"
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Kolejnych pędzono na południe, do Aleppo, a dalej nad Eufrat, do Rakki i Dajr az-Zaur."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "local officials continued to move deportees, without adequate clothing, food, or water, back and forth across the desert under lethal sun during the day and in freezing cold at night."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Hundreds of thousands of Armenians died before reaching the designated holding camps. Many were killed or abducted, others committed suicide, and vast numbers died of starvation, dehydration, exposure, or disease en route."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Amerykański konsul generalny w Bejrucie przewidywał w czerwcu, że bez pomocy umrze z nich większość."
+    }
+   ]
+  },
+  {
+   "start": "Od października 1915 roku w Syrii",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "The frame of the new violence—the twenty-five concentration camps in Syria and upper Mesopotamia, which were set up beginning in October 1915—have remained terra incognita for a long time for researchers."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "These camps were run by a sub-director of deportees, which was himself attached to the Directorate of the Settlement of Tribes and Migrants (İskân-i Aşâyirîn ve Muhâcirin Müdîriyeti), a body linked to the Ministry of the Interior. These camps saw some 800,000 deportees pass through them. These deportees, who were many times moved from camp to camp, often succumbed to deprivation or epidemics."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Government regulations restricted the Armenian population to no more than 10 percent in designated areas"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Consequently, human and natural forces devastated the Armenian deportees until they reached the mandated lower population levels."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "A clandestine network, put to life by missionaries based at Aleppo and supported by American and German Consuls, had, however, provided for the rescue of some and inhibited their complete liquidation."
+    }
+   ]
+  },
+  {
+   "start": "Na przełomie lutego i marca 1916 roku",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "This undoubtedly explains the ultimate decision to destroy the remaining deportees near the end of February and the beginning of March 1916, by the Young Turk Central Committee. These actions were carried out among 500,000 surviving deportees, who had arrived over the course of six months in Syria and Mespotamia"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1916; February 22: The Minister of the Interior, Mehmed Talat, orders the liquidation of the Armenian deportees interned in the concentration camps along the Euphrates and at Der el-Zor. ** (T.V. No. 3540, read aloud on 12 April, 1919, dated May 5, 1919, p. 5)."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "From April to December 1916, two sites—Ras ul-Ayn in the north and Der el-Zor to the south—became the sites of systematic massacres, which claimed the lives of several hundred thousand people."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1916; July, Der el-Zor: The mutessarif, Ali Suad, is dismissed and replaced by Salih Zeki, the butcher of Armenians at Everek-Fenese."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1916; July to December, Der el-Zor: In five months the mutessarif, Salih Zeki, carries out the extermination of 192,750 deportees who are concentrated at Der el-Zor."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "One can estimate for sure that in these regions there included the extermination of 192,750 deportees concentrated at Der el-Zor between July and December 1916, which had been counted by the Turkish authorities themselves (T.V. No. 3540, May 5, 1919)."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1916; October 24, Der el-Zor: Around 2,000 orphans gathered by Hakkı Bey, the inspector of the CUP, of the northern camps, are bound together in twos and thrown into the Euphrates."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "nadzorowało obozy nad Eufratem, w których w 1916 roku wymordowano dziesiątki tysięcy ocalałych."
+    },
+    {
+     "url": "https://dzieje.pl/node/19350",
+     "quote": "W 2015 r. mija 100. rocznica masakry."
+    },
+    {
+     "url": "https://dzieje.pl/node/19350",
+     "quote": "Największym cmentarzyskiem Ormian stała się pustynia Del-el-Dzor, gdzie z powodu głodu, pragnienia i epidemii chorób zmarło kilkaset tysięcy spędzonych tam pod przymusem osób."
+    }
+   ]
+  },
+  {
+   "start": "Część deportowanych przeżyła.",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "several thousand children and young women who had been abducted by nomadic tribes, who were recovered after the armistice of October 1918, and over 100,000 deportees, mostly civilians, who had been dispatched along the Aleppo-Homs, Damascus, Maan, and Sinai route, who had been mostly employed in labor-related tasks for the army, whom the British discovered in an indescribable state, after their conquest of Palestine and Syria in 1917 and 1918."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-at-tafila.md",
+     "quote": "W miasteczku żyło też, jak zapisał Lawrence, około tysiąca Ormian, ocalałych z deportacji"
+    },
+    {
+     "file": "src/content/postacie/husajn-ibn-ali.md",
+     "quote": "Ormiańskie instytucje pamięci przypominają też, że w latach 1917–1918 wydawał odezwy wzywające plemiona, by przyjmowały i chroniły ocalałych"
+    },
+    {
+     "file": "src/content/timeline/1917/04/turcja-zrywa-stosunki-z-usa.md",
+     "quote": "Przede wszystkim zaś z amerykańskich pieniędzy prowadzono pomoc dla ocalałych z ludobójstwa Ormian"
+    },
+    {
+     "file": "src/content/timeline/1917/04/turcja-zrywa-stosunki-z-usa.md",
+     "quote": "date: 1917-04"
+    }
+   ]
+  },
+  {
+   "start": "Dokładnej liczby ofiar nie da się ustalić",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "It is impossible to give a precise number of the victims of this violence."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "The only empirical method that approaches reality is to compare the number of people counted before the war with the number of escapees."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Przed wojną w Imperium Osmańskim żyło od około 1,2–1,3 miliona Ormian według osmańskich spisów do ponad 2 milionów według ormiańskiego patriarchatu"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "There were approximately 1.5 million Armenians living in the Empire."
+    },
+    {
+     "url": "https://www.armenian-genocide.org/genocidefaq.html",
+     "quote": "Well over a million were deported in 1915."
+    },
+    {
+     "file": "src/content/timeline/1917/01/odpowiedz-ententy-na-note-wilsona.md",
+     "quote": "„masakrę setek tysięcy niewinnych Ormian”"
+    },
+    {
+     "file": "src/content/timeline/1917/01/odpowiedz-ententy-na-note-wilsona.md",
+     "quote": "date: 1917-01-10"
+    },
+    {
+     "file": "src/content/timeline/1916/02/rosjanie-zajmuja-mus.md",
+     "quote": "Masłowski pisał też, że wysiedlenie Ormian z terenów przyfrontowych przeprowadzono „z przerażającym okrucieństwem” i że zginęło przy tym około miliona ludzi."
+    }
+   ]
+  },
+  {
+   "start": "Według większości szacunków historyków w latach",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Według większości szacunków historyków w latach 1915–1916 zginęło od około 600 tysięcy do ponad miliona Ormian, a strona ormiańska mówi o 1,5 miliona."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "At least 664,000 and possibly as many as 1.2 million died during the genocide."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "Around 1,300,000 people, to which we must add victims of military operation and massacres carried out by the Ottoman Army and its paramilitary affiliates in Iranian Azerbaijan, Russian Azerbaijan, and in the Caucasus against Armenian civilian populations. This makes for a clear total of nearly 1,500,000 people."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1918; September 15 to 17: Fifteen to twenty thousand Armenians from Baku are massacred by the Tatar population of the town under the supervision of Dr. Bahaeddin Şakir, head of the S.O."
+    },
+    {
+     "url": "https://www.genocide-museum.am/eng/armenian_genocide.php",
+     "quote": "Approximately one and a half million Armenians were killed from 1915-1923."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "For several decades, the Turkish authorities represented by their ambassadors, members of the Turkish Historical Society, professors in public universities, and the mainstream political classes, have denied these numbers and have instead put forth the number of Armenian deaths as several hundred thousands; figures go between 300,000 and 600,000."
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec 1919 roku, według zestawienia",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1919; End of December: Armenian escapees are found at: Istanbul (150,000);"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "province of Adana (150,000, under French administration until November, 1921)"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "This makes for some 543,600 Armenians."
+    },
+    {
+     "file": "src/content/timeline/1916/02/rosjanie-zajmuja-mus.md",
+     "quote": "Ormiański Patriarchat w Konstantynopolu liczył ich tu na ponad 75 tysięcy, z ponad stu kościołami. Latem 1915 roku, w czasie ludobójstwa Ormian, zostali niemal wszyscy wymordowani"
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-trapezuncka.md",
+     "quote": "Z dawnej społeczności ormiańskiej Trapezuntu, liczącej przed wojną według szacunków około 30 tysięcy osób, wymordowanej i deportowanej w 1915 roku"
+    },
+    {
+     "file": "src/content/timeline/1916/02/rosjanie-zdobywaja-erzurum.md",
+     "quote": "Amerykański misjonarz Robert Stapleton, który pozostał w mieście z rodziną i zamienił swój dom na szpital, opowiadał Price'owi, jak ormiańskich mieszkańców miasta latem 1915 roku skazano na wysiedlenie, a potem wymordowano w drodze."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-sardarabadem.md",
+     "quote": "Na skrawku ziemi wokół Erywania i jeziora Sewan tłoczyły się setki tysięcy uchodźców"
+    },
+    {
+     "file": "src/content/timeline/1918/05/niepodleglosc-armenii.md",
+     "quote": "summary: 28 maja 1918 Ormiańska Rada Narodowa w Tyflisie postanowiła przejąć władzę nad ormiańskimi ziemiami. Ten dzień uznano za początek niepodległej Armenii."
+    }
+   ]
+  },
+  {
+   "start": "Historycy zgodnie uznają za głównego organizatora",
+   "quotes": [
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Jako minister spraw wewnętrznych kierował od wiosny 1915 roku deportacjami Ormian, które przerodziły się w ludobójstwo, i historycy uznają go za głównego organizatora tej zbrodni. W lutym 1917 roku został wielkim wezyrem."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "zaliczają Envera, który kierował armią i był jednym z przywódców tajnej Organizacji Specjalnej, do głównych sprawców."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "At the center of the operation were: Talât Pasa (minister of interior), Ismail Enver Pasa (minister of war), Baheddin Sakir (field director for the Special Organization), and Mehmed Nâzim (leader of demographic planning)."
+    },
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "Dżemal nie był głównym organizatorem deportacji, w Syrii sprzeciwiał się bezładnym rzeziom i często spierał się w tej sprawie z Talatem, a część deportowanych Ormian przeżyła na podległych mu terenach."
+    },
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "Turecki historyk Ümit Kurt zwraca uwagę, że Dżemal różnił się od Talata i Envera głównie metodą: zamiast zabijać, wolał przymusowo nawracać i asymilować Ormian, ale tak samo jak oni dążył do tego, by zniknęli jako naród z ziem osmańskich. Dlatego Kurt, podobnie jak wielu innych badaczy, zalicza go do sprawców ludobójstwa."
+    }
+   ]
+  },
+  {
+   "start": "Na początku października 1918 roku rząd Talata",
+   "quotes": [
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "Na początku października 1918 roku rząd Talata podał się do dymisji"
+    },
+    {
+     "file": "src/content/timeline/1918/10/izzet-pasza-wielkim-wezyrem.md",
+     "quote": "o deportacjach Ormian mówił oględnie jako o sprawie wymuszonej „koniecznościami wojny”."
+    },
+    {
+     "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+     "quote": "wydać bez warunków wszystkich jeńców sprzymierzonych oraz internowanych i uwięzionych Ormian"
+    },
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "Dwa dni po podpisaniu rozejmu w Mudros, w nocy z 1 na 2 listopada, uciekł razem z Enverem i Talatem z Konstantynopola na niemieckim okręcie."
+    }
+   ]
+  },
+  {
+   "start": "Pod naciskiem zwycięzców władze w Konstantynopolu",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1918; November 23: A commission of inquiry from the administration is set up by the sultan at the heart of the General Security and is presided over by Hasan Mazhar Bey, the former Governor of Ankara."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "From the outset, Hasan Mazhar addressed an official memorandum to the prefects and sub-prefects of the provinces, requesting originals or certified copies of the orders received by local authorities to deport and massacre Armenians, which were remitted."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1919; January 8: An extraordinary military tribunal is definitively formed by Sultan decree"
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1919; February 5 to April 8: Trials related to the massacres at Yozgat are held in front of the military tribunal at Istanbul. Here the kaymakam Kemal is condemned to death"
+    },
+    {
+     "url": "https://www.armenian-genocide.org/1919.html",
+     "quote": "Kemal Bey, the chief culprit of the Yozgat massacres, sentenced to death by the military tribunal, is publicly hanged."
+    },
+    {
+     "file": "src/content/postacie/wehib-pasza.md",
+     "quote": "że rzezie i grabież były skutkiem decyzji Komitetu Centralnego Jedności i Postępu"
+    },
+    {
+     "file": "src/content/postacie/wehib-pasza.md",
+     "quote": "Zeznanie odczytano w 1919 roku podczas procesów przed sądami wojennymi w Stambule."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1919; July 5: The military tribunal at Istanbul delivers a verdict aimed solely at those charged in the trial of Young Turk Ministers. Condemned to death in abstentia are: Talat, Enver, Cemal, and Dr. Nâzım"
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "W lipcu 1919 roku sąd wojenny w Konstantynopolu skazał go zaocznie na śmierć za wciągnięcie kraju do wojny i organizowanie masakr."
+    }
+   ]
+  },
+  {
+   "start": "Procesy szybko straciły rozmach.",
+   "quotes": [
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1919; May 22: Forty-one Young Turks charged with crimes are freed by the military tribunal at Istanbul."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "1919; May 28: British authorities decide to take control of the Young Turk members still interned in the prison of the Istanbul military court. They are put onto a warship and imprisoned at Malta."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "Reactions observed in the Istanbul press concerning the criminal proceedings of the Young Turks demonstrate that the vast majority of the population did not consider the acts against Armenians as crimes worthy of sanction."
+    },
+    {
+     "url": "https://www.armenian-genocide.org/1919.html",
+     "quote": "Former Ittihadist leaders join forces with Kemal."
+    },
+    {
+     "url": "https://www.armenian-genocide.org/1919.html",
+     "quote": "Halil Pasha and Kuchuk Talaat, both accused war criminals, escape from Constantinople to join Kemal's forces."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "15 marca 1921 roku na ulicy w Charlottenburgu zastrzelił go Soghomon Tehlirian, działacz partii Dasznakcutiun, który w czasie deportacji stracił rodzinę. Był to pierwszy zamach operacji „Nemezis”. Berliński sąd uniewinnił zamachowca w czerwcu 1921 roku"
+    },
+    {
+     "file": "src/content/postacie/dzemal-pasza.md",
+     "quote": "Zginął w 1922 roku w Tyflisie z rąk ormiańskich zamachowców."
+    },
+    {
+     "file": "src/content/postacie/enver-pasza.md",
+     "quote": "a zginął w 1922 roku w Azji Środkowej, walcząc z bolszewikami."
+    }
+   ]
+  },
+  {
+   "start": "Losy Ormian odegrały ważną rolę",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/coining-a-word-and-championing-a-cause-the-story-of-raphael-lemkin",
+     "quote": "Raphael Lemkin, a Polish-Jewish jurist, was born in 1900 on a small farm near the Polish town of Wolkowysk."
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "Urodził 24 czerwca 1900 r. we wsi Bezwodne w powiecie wołkowyskim (dziś obwód grodzieński na Białorusi). Pochodził ze skromnej rodziny żydowskiej."
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "W czasie jego studiów Europą wstrząsnęło morderstwo byłego wielkiego wezyra i ministra spraw wewnętrznych Turcji Mehmeta Talaata. Do zbrodni doszło 15 marca 1921 r. w Berlinie."
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "Proces zamachowca oraz wyrok uniewinniający były okazją do publicznej dyskusji na temat odpowiedzialności za masowe zbrodnie popełniane przez rządy prowadzące wojny."
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "Lemkin zwrócił uwagę na ten fakt w rozmowie z prof. Makarewiczem. Ten stał na stanowisku, że odpowiedzialność za tego rodzaju czyny może być wyłącznie moralna, ponieważ powołanie międzynarodowego trybunału byłoby pogwałceniem suwerenności państw."
+    }
+   ]
+  },
+  {
+   "start": "Lemkin wielokrotnie podkreślał",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Lawyer Raphael Lemkin, the coiner of the word and its later champion at the United Nations, repeatedly stated that early exposure to newspaper stories about Ottoman crimes against Armenians was key to his beliefs about the need for legal protection of groups."
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "W 1933 r. prace biura koncentrowały się na zagadnieniu zdefiniowania „zbrodni międzynarodowych”. Wtedy uwagę opinii przyciągały wieści z irackiego Simel, w którym wymordowano setki chrześcijan. Pod wrażeniem tych wydarzeń Lemkin zgłosił do Biura dwie propozycje zdefiniowania dwóch czynów ściganych przez prawo międzynarodowe: „zbrodni barbarzyństwa” (zbrodni przeciw narodom) i „zbrodni wandalizmu” (zbrodni przeciw kulturze)."
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "Został też reprezentantem RP w Międzynarodowym Biurze Unifikacji Prawa Karnego Ligi Narodów."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/coining-a-word-and-championing-a-cause-the-story-of-raphael-lemkin",
+     "quote": "went on to document Nazi atrocities in his 1944 book, Axis Rule in Occupied Europe. In this text, he introduced the word “genocide.”"
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "W opublikowanej w 1944 r. książce „Rządy Osi w okupowanej Europie” dziewiąty rozdział nosił tytuł „Ludobójstwo – nowy termin i nowe pojęcie destrukcji narodów”."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "(In 1948, in part due to the tireless efforts of Lemkin, the UN approved the Convention on the Prevention and Punishment of the Crime of Genocide.)"
+    },
+    {
+     "url": "https://dzieje.pl/postacie/rafal-lemkin",
+     "quote": "Po długiej batalii 9 grudnia 1948 r. Zgromadzenie Ogólne jednogłośnie przyjęło „Konwencję w sprawie zapobiegania i karania zbrodni ludobójstwa”."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "In an (unedited) speech at New Haven (Connecticut) in 1949, on the occasion of the adoption of the Convention for the repression and prevention of Genocide, Raphael Lemkin, who had been familiar with the Armenian case since 1921 and had lived since in Poland, noted, in order to illusrate the urgency of adopting the Convention: “It was only after the massacre of some 1,200,00 Armenian victims that the Allied victors had proclaimed to survivors that they favored appropriate laws and an adequate tribunal to deal with this abominable massacre. But it did nothing”"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "The origin of the term genocide and its codification in international law have their roots in the mass murder of Armenians."
+    }
+   ]
+  },
+  {
+   "start": "Ormianie nazywają zbrodnię Mec Jeghern",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Armenians call these events Medz Yeghern (the great crime) or Aghet (catastrophe)."
+    },
+    {
+     "url": "https://dzieje.pl/node/19350",
+     "quote": "Co roku około 24 kwietnia społeczności ormiańskie na całym świecie upamiętniają ofiary Metz Yeghern (Wielkiego Zła). W 2015 r. mija 100. rocznica masakry."
+    },
+    {
+     "url": "https://dzieje.pl/node/19350",
+     "quote": "Przypomnieli jednocześnie, że w 2001 r. eksterminację Ormian za ludobójstwo uznał parlament francuski. Obecnie parlamenty ponad 30 państw, w tym Austrii, Belgii, Grecji, Holandii, Kanady, Niemiec, Rosji, Szwecji, Szwajcarii, Włoch oraz 39 stanów USA przyjęły już uchwały uznające ludobójstwo Ormian. \"Również polski Sejm przyjął przez aklamację odpowiednią uchwałę 19 kwietnia 2005 roku\""
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Sejm RP uznał zbrodnię za ludobójstwo w 2005 roku."
+    },
+    {
+     "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/24/statement-by-president-joe-biden-on-armenian-remembrance-day/",
+     "quote": "April 24, 2021"
+    },
+    {
+     "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/24/statement-by-president-joe-biden-on-armenian-remembrance-day/",
+     "quote": "Each year on this day, we remember the lives of all those who died in the Ottoman-era Armenian genocide and recommit ourselves to preventing such an atrocity from ever again occurring."
+    }
+   ]
+  },
+  {
+   "start": "Turcja tej kwalifikacji nie uznaje.",
+   "quotes": [
+    {
+     "url": "https://www.armenian-genocide.org/genocidefaq.html",
+     "quote": "However, as a matter of policy, the present-day Republic of Turkey adamantly denies that a genocide was committed against the Armenians during W.W.I."
+    },
+    {
+     "url": "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa",
+     "quote": "The unofficial translation of the message of H.E. President Recep Tayyip Erdoğan, the then Prime Minister of the Republic of Turkey, on the events of 1915 (23 April 2014)."
+    },
+    {
+     "url": "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa",
+     "quote": "It is indisputable that the last years of the Ottoman Empire were a difficult period, full of suffering for Turkish, Kurdish, Arab, Armenian and millions of other Ottoman citizens, regardless of their religion or ethnic origin."
+    },
+    {
+     "url": "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa",
+     "quote": "The incidents of the First World War are our shared pain."
+    },
+    {
+     "url": "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa",
+     "quote": "we wish that the Armenians who lost their lives in the context of the early twentieth century rest in peace, and we convey our condolences to their grandchildren."
+    },
+    {
+     "url": "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa",
+     "quote": "we, as the Turkish Republic, have called for the establishment of a joint historical commission in order to study the events of 1915 in a scholarly manner. This call remains valid. Scholarly research to be carried out by Turkish, Armenian and international historians would play a significant role"
+    },
+    {
+     "url": "https://www.mfa.gov.tr/turkish-prime-minister-mr_-recep-tayyip-erdoğan-published-a-message-on-the-events-of-1915_-23-april-2014.en.mfa",
+     "quote": "It is with this understanding that we have opened our archives to all researchers."
+    },
+    {
+     "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/extermination-ottoman-armenians-young-turk-regime-1915-1916.html",
+     "quote": "Official scholarly books of the Turkish Republic describe events according to official discourse, and Turkish law severely penalizes the term “genocide” to describe these events."
+    }
+   ]
+  },
+  {
+   "start": "Wśród historyków zajmujących się tym tematem",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Although the term genocide was not coined until 1944, most scholars agree that the mass murder of Armenians fits this definition."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+     "quote": "Ottoman, Armenian, US, British, French, German, and Austrian documents from the time reveal that the CUP leadership intentionally targeted the Armenian population of Anatolia."
+    },
+    {
+     "file": "src/content/postacie/mehmet-talaat.md",
+     "quote": "Taner Akçam, Raymond Kévorkian, Ronald Suny i Kieser, autor biografii zatytułowanej „Talat Pasha: ojciec nowoczesnej Turcji, architekt ludobójstwa”, różnią się w ocenie, kiedy zapadła decyzja o zagładzie i jaką rolę odegrały w niej wojenne porażki, ale nie co do jego odpowiedzialności."
+    }
+   ]
+  }
+ ]
+}

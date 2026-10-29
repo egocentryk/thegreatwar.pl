@@ -1,0 +1,937 @@
+{
+ "slug": "panstwa-centralne-i-ententa",
+ "paragraphs": [
+  {
+   "start": "W I wojnie światowej walczyły ze sobą dwie koalicj",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Koalicja Niemiec i Austro-Węgier, do której przystąpiły Imperium Osmańskie (1914) i Bułgaria (1915)."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "w czasie wojny cała koalicja przeciwników państw centralnych, m.in. Serbii, Belgii, Japonii, Włoch i Rumunii, wspierana od 1917 roku przez USA."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "Wilson nazywał swój kraj „państwem stowarzyszonym”, a nie sprzymierzonym"
+    },
+    {
+     "file": "src/content/timeline/1914/07/austro-wegry-wypowiadaja-wojne-serbii.md",
+     "quote": "28 lipca 1914 Austro-Węgry wypowiedziały Serbii wojnę telegramem. Tej samej nocy ostrzelano Belgrad – zaczęła się I wojna światowa."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Jesienią 1918 roku sojusz się rozpadł: rozejmy podpisały kolejno Bułgaria, Turcja, Austro-Węgry i Niemcy."
+    }
+   ]
+  },
+  {
+   "start": "Rdzeniem państw centralnych był sojusz Niemiec z A",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Rdzeniem był sojusz niemiecko-austro-węgierski z 1879 roku, który po przystąpieniu Włoch w 1882 roku stał się trójprzymierzem."
+    },
+    {
+     "file": "src/content/timeline/1916/08/rumunia-wypowiada-wojne-austro-wegrom.md",
+     "quote": "do którego Rumunia przystąpiła w 1883 roku"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Trzon tworzyły sojusz francusko-rosyjski z 1892 roku, brytyjsko-francuska entente cordiale z 1904 roku i układ brytyjsko-rosyjski z 1907 roku; tylko pierwszy był sojuszem wojskowym, dwa pozostałe rozgraniczały strefy wpływów, stąd nazwa trójporozumienie."
+    }
+   ]
+  },
+  {
+   "start": "Oba bloki były w założeniu obronne, a latem 1914 r",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "3 sierpnia 1914 Włochy ogłosiły neutralność, uznając, że trójprzymierze nie zobowiązuje ich do udziału w wojnie wywołanej przez Austro-Węgry."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Nazwa pochodzi od ich położenia w środku Europy."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "a w czasie wojny cała koalicja przeciwników państw centralnych"
+    },
+    {
+     "file": "src/content/timeline/1914/09/pakt-londynski.md",
+     "quote": "5 września 1914 Wielka Brytania, Francja i Rosja zobowiązały się w Londynie, że nie zawrą odrębnego pokoju. Ententa stała się formalnym sojuszem wojennym."
+    }
+   ]
+  },
+  {
+   "start": "Po wypowiedzeniu wojny Serbii wydarzenia potoczyły",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md",
+     "quote": "1 sierpnia 1914 Niemcy ogłosiły mobilizację powszechną, a wieczorem wypowiedziały wojnę Rosji. Wojna przestała być konfliktem bałkańskim."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-francji.md",
+     "quote": "3 sierpnia 1914 Niemcy wypowiedziały wojnę Francji, powołując się na zmyślone francuskie naloty. Rozpoczęła się wojna na dwa fronty."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "4 sierpnia 1914 Niemcy zapowiedziały Belgii użycie siły i wkroczyły na jej terytorium. Kanclerz przyznał, że łamie prawo międzynarodowe."
+    },
+    {
+     "file": "src/content/timeline/1914/08/belgia-zrywa-stosunki-dyplomatyczne-z-niemcami.md",
+     "quote": "4 sierpnia 1914, po wkroczeniu wojsk niemieckich, Belgia zerwała stosunki z Niemcami i wręczyła niemieckiemu posłowi paszporty."
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-wypowiada-wojne-niemcom.md",
+     "quote": "4 sierpnia 1914 roku o godzinie 23 czasu londyńskiego, czyli o północy w Berlinie, upłynął termin brytyjskiego ultimatum wobec Niemiec."
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-wypowiada-wojne-niemcom.md",
+     "quote": "w stanie wojny znalazły się także Kanada, Australia, Nowa Zelandia, Związek Południowej Afryki i Indie Brytyjskie"
+    }
+   ]
+  },
+  {
+   "start": "W kolejnych dniach dopełniano formalności między p",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/czarnogora-wypowiada-wojne-austro-wegrom.md",
+     "quote": "5 sierpnia 1914 Czarnogóra wypowiedziała wojnę Austro-Węgrom, stając u boku Serbii. Działa z góry Lovćen zagroziły bazie floty w Kotorze."
+    },
+    {
+     "file": "src/content/timeline/1914/08/czarnogora-w-stanie-wojny-z-niemcami.md",
+     "quote": "8 sierpnia 1914 Czarnogóra zerwała stosunki dyplomatyczne z Niemcami, a między oboma państwami rozpoczął się stan wojny."
+    },
+    {
+     "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md",
+     "quote": "6 sierpnia 1914 ambasador Austro-Węgier wręczył w Petersburgu wypowiedzenie wojny. Główny front monarchii przesunął się do Galicji."
+    },
+    {
+     "file": "src/content/timeline/1914/08/serbia-wypowiada-wojne-niemcom.md",
+     "quote": "6 sierpnia 1914 Serbia wypowiedziała wojnę Niemcom, sojusznikowi Austro-Węgier. Oba państwa nie graniczyły ze sobą, ale deklaracja miała wymowę polityczną."
+    },
+    {
+     "file": "src/content/timeline/1914/08/francja-zrywa-stosunki-z-austro-wegrami.md",
+     "quote": "10 sierpnia 1914 Francja zerwała stosunki dyplomatyczne z Austro-Węgrami. Ambasadorowie obu państw opuścili Wiedeń i Paryż, a wkrótce wybuchła wojna."
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-i-francja-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "12 sierpnia 1914 Wielka Brytania i Francja wypowiedziały wojnę Austro-Węgrom. Mocarstwa Ententy walczyły odtąd z obydwoma państwami centralnymi."
+    },
+    {
+     "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-belgii.md",
+     "quote": "22 sierpnia 1914 Austro-Węgry wypowiedziały wojnę Belgii. Wiedeń oskarżył Belgów o współpracę z Francją i Wielką Brytanią przeciw Niemcom."
+    }
+   ]
+  },
+  {
+   "start": "Pierwszym państwem spoza Europy, które przystąpiło",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/japonia-wypowiada-wojne-niemcom.md",
+     "quote": "Było to pierwsze państwo spoza Europy, które przystąpiło do wojny jako samodzielny uczestnik"
+    },
+    {
+     "file": "src/content/timeline/1914/08/japonia-wypowiada-wojne-niemcom.md",
+     "quote": "Japonię od 1902 roku wiązał z Wielką Brytanią sojusz brytyjsko-japoński."
+    },
+    {
+     "file": "src/content/timeline/1914/08/japonia-wypowiada-wojne-niemcom.md",
+     "quote": "15 sierpnia wystosowało do Niemiec ultimatum, które pozostało bez odpowiedzi. Gdy 23 sierpnia minął termin, cesarz Yoshihito ogłosił wypowiedzenie wojny."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zrywaja-stosunki-z-japonia.md",
+     "quote": "23 sierpnia 1914, po upływie japońskiego ultimatum, Niemcy zerwały stosunki z Japonią. Ambasador Arthur von Rex opuścił Tokio."
+    },
+    {
+     "file": "src/content/timeline/1914/08/austro-wegry-zrywaja-stosunki-z-japonia.md",
+     "quote": "24 sierpnia 1914 Austro-Węgry zerwały stosunki z Japonią. Cesarz nakazał, by krążownik Kaiserin Elisabeth bronił Tsingtao razem z Niemcami."
+    },
+    {
+     "file": "src/content/timeline/1914/08/japonia-zrywa-stosunki-z-austro-wegrami.md",
+     "quote": "25 sierpnia 1914 Japonia zerwała stosunki dyplomatyczne z Austro-Węgrami. Ambasador baron Ladislaus Müller von Szentgyörgy opuścił Tokio."
+    },
+    {
+     "file": "src/content/timeline/1914/08/japonia-oglasza-stan-wojny-z-austro-wegrami.md",
+     "quote": "25 sierpnia 1914 Japonia i Austro-Węgry znalazły się w stanie wojny. Powodem był austro-węgierski krążownik Kaiserin Elisabeth stacjonujący w Tsingtao."
+    },
+    {
+     "file": "src/content/timeline/1914/11/kapitulacja-tsingtao.md",
+     "quote": "7 listopada 1914 po nocnym szturmie Japończyków niemiecka twierdza Tsingtao skapitulowała. Niemcy stracili jedyną bazę w Azji Wschodniej."
+    }
+   ]
+  },
+  {
+   "start": "Imperium Osmańskie zawarło z Niemcami tajny sojusz",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/tajny-sojusz-niemiec-i-imperium-osmanskiego.md",
+     "quote": "Ówczesne kroniki notują pod 4 sierpnia 1914 zawarcie tajnego sojuszu Niemiec i Turcji. Traktat podpisano w Konstantynopolu już 2 sierpnia."
+    },
+    {
+     "file": "src/content/timeline/1914/10/turecka-flota-atakuje-rosje.md",
+     "quote": "Przed świtem 29 października 1914 roku okręty floty Imperium Osmańskiego zaatakowały bez wypowiedzenia wojny rosyjskie porty nad Morzem Czarnym."
+    },
+    {
+     "file": "src/content/timeline/1914/10/turecka-flota-atakuje-rosje.md",
+     "quote": "30 października ambasadorowie Rosji, Wielkiej Brytanii i Francji zażądali paszportów, 2 listopada Rosja wypowiedziała Turcji wojnę, a 5 listopada zrobiły to Wielka Brytania i Francja. Imperium Osmańskie formalnie ogłosiło stan wojny 11 listopada"
+    },
+    {
+     "file": "src/content/timeline/1914/11/stan-wojny-miedzy-serbia-a-turcja.md",
+     "quote": "2 listopada 1914 Serbia, sojuszniczka Rosji, znalazła się w stanie wojny z Imperium Osmańskim. Oba kraje nie miały wspólnej granicy i nie walczyły ze sobą."
+    },
+    {
+     "file": "src/content/timeline/1914/11/turcja-zrywa-stosunki-z-belgia.md",
+     "quote": "6 listopada 1914 Imperium Osmańskie zerwało stosunki dyplomatyczne z Belgią. Poseł belgijski opuścił Konstantynopol, ale wojny nie wypowiedziano."
+    },
+    {
+     "file": "src/content/timeline/1914/08/tajny-sojusz-niemiec-i-imperium-osmanskiego.md",
+     "quote": "Przez następne miesiące Konstantynopol zwlekał z przystąpieniem do wojny."
+    }
+   ]
+  },
+  {
+   "start": "Włochy po ogłoszeniu neutralności targowały się z",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Ententa mogła zaoferować więcej, bo obiecywała cudze ziemie."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "w zamian za obietnicę Trydentu, Triestu, Istrii i części Dalmacji"
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "26 kwietnia 1915 Włochy podpisały w Londynie tajny układ z Ententą. Za obietnicę ziem nad Adriatykiem zobowiązały się wejść do wojny w ciągu miesiąca."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-trojprzymierze.md",
+     "quote": "4 maja 1915 włoski ambasador w Wiedniu przekazał notę, w której Włochy uznały sojusz z Austro-Węgrami za nieważny. Rząd utrzymywał krok w tajemnicy."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "23 maja 1915 Włochy wypowiedziały wojnę Austro-Węgrom, swojemu sojusznikowi z trójprzymierza. Stan wojny zaczął obowiązywać następnego dnia."
+    },
+    {
+     "file": "src/content/timeline/1915/05/niemcy-zrywaja-stosunki-z-wlochami.md",
+     "quote": "24 maja 1915 Niemcy zerwały stosunki dyplomatyczne z Włochami, które wypowiedziały wojnę Austro-Węgrom. Wojny między sobą Berlin i Rzym jednak nie wszczęły."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "Turcji Włochy wypowiedziały wojnę w sierpniu 1915 roku, a Niemcom dopiero w sierpniu 1916 roku."
+    },
+    {
+     "file": "src/content/timeline/1916/08/wlochy-wypowiadaja-wojne-niemcom.md",
+     "quote": "27 sierpnia 1916 Sonnino przekazał przez rząd Szwajcarii deklarację, że od 28 sierpnia Włochy uważają się za będące w stanie wojny z Niemcami."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "Rzym chciał uniknąć bezpośredniego starcia z Niemcami"
+    }
+   ]
+  },
+  {
+   "start": "O Bułgarię przez cały rok licytowały się obie stro",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md",
+     "quote": "Przez cały rok Ententa i państwa centralne licytowały się o Sofię."
+    },
+    {
+     "file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md",
+     "quote": "Państwa centralne mogły obiecać więcej, bo płaciły cudzym kosztem."
+    },
+    {
+     "file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md",
+     "quote": "6 września 1915 Bułgaria zawarła w Sofii tajny sojusz z Niemcami, a w Pszczynie konwencję wojskową. Za udział w ataku na Serbię miała dostać jej Macedonię."
+    },
+    {
+     "file": "src/content/timeline/1915/10/rosja-zrywa-stosunki-z-bulgaria.md",
+     "quote": "5 października 1915 Sofia odrzuciła rosyjskie ultimatum. Poseł Sawinski ogłosił zerwanie stosunków, a personel rosyjskiego poselstwa wyjechał z Bułgarii."
+    },
+    {
+     "file": "src/content/timeline/1915/10/wielka-brytania-zrywa-stosunki-z-bulgaria.md",
+     "quote": "W połowie października 1915 Wielka Brytania zerwała stosunki dyplomatyczne z Bułgarią. Bułgarski poseł opuścił Londyn, a armia bułgarska ruszyła na Serbię."
+    },
+    {
+     "file": "src/content/timeline/1915/10/bulgaria-i-serbia-wypowiadaja-sobie-wojne.md",
+     "quote": "14 października 1915 car Ferdynand ogłosił manifest o wojnie z Serbią. Bułgaria stanęła po stronie państw centralnych i uderzyła na Serbię od wschodu."
+    },
+    {
+     "file": "src/content/timeline/1915/10/bulgaria-i-serbia-wypowiadaja-sobie-wojne.md",
+     "quote": "Następnego dnia wojnę Bułgarii wypowiedziały Wielka Brytania i Czarnogóra, 16 października Francja, a 19 października Rosja i Włochy."
+    }
+   ]
+  },
+  {
+   "start": "Portugalia, związana sojuszem z Wielką Brytanią, n",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/03/niemcy-wypowiadaja-wojne-portugalii.md",
+     "quote": "Na prośbę Londynu nie ogłosiła w 1914 roku ani neutralności, ani przystąpienia do wojny, ale od początku stała przy brytyjskim sojuszniku."
+    },
+    {
+     "file": "src/content/timeline/1914/11/portugalia-zapowiada-wspolprace-z-wielka-brytania.md",
+     "quote": "23 listopada 1914 portugalski parlament upoważnił rząd do udziału w wojnie u boku Wielkiej Brytanii, „kiedy i jak uzna to za konieczne”."
+    },
+    {
+     "file": "src/content/timeline/1916/03/niemcy-wypowiadaja-wojne-portugalii.md",
+     "quote": "23 lutego, na prośbę Wielkiej Brytanii, Portugalczycy zajęli niemieckie i austro-węgierskie statki handlowe"
+    },
+    {
+     "file": "src/content/timeline/1916/03/niemcy-wypowiadaja-wojne-portugalii.md",
+     "quote": "9 marca 1916 niemiecki poseł Friedrich Rosen wręczył w Lizbonie notę, w której Niemcy uznały się za będące w stanie wojny z Portugalią."
+    },
+    {
+     "file": "src/content/timeline/1916/03/austro-wegry-w-stanie-wojny-z-portugalia.md",
+     "quote": "15 marca 1916 Austro-Węgry poszły za Niemcami i zerwały z Portugalią. Odtąd oba kraje były w stanie wojny, choć według źródeł z epoki bez osobnej deklaracji."
+    },
+    {
+     "file": "src/content/timeline/1917/02/portugalczycy-laduja-we-francji.md",
+     "quote": "2 lutego 1917 w Breście wylądowała 1 Brygada Portugalskiego Korpusu Ekspedycyjnego. Portugalczycy pojechali do Flandrii, by szkolić się pod okiem Brytyjczyków."
+    },
+    {
+     "file": "src/content/timeline/1916/03/niemcy-wypowiadaja-wojne-portugalii.md",
+     "quote": "Przypomniała też, że w sierpniu 1914 roku Portugalia otwarcie zadeklarowała wierność sojuszowi z Wielką Brytanią"
+    }
+   ]
+  },
+  {
+   "start": "Rumunia, formalnie sojusznik państw centralnych, w",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/08/rumunia-wypowiada-wojne-austro-wegrom.md",
+     "quote": "Rumunia, która jeszcze w 1914 roku była formalnie sojusznikiem państw centralnych"
+    },
+    {
+     "file": "src/content/timeline/1916/08/traktat-rumunii-z-ententa.md",
+     "quote": "chciał zdobyć dla Rumunii ziemie zamieszkane przez Rumunów w monarchii habsburskiej, przede wszystkim Siedmiogród, ale możliwie najmniejszym kosztem i w najdogodniejszej chwili"
+    },
+    {
+     "file": "src/content/timeline/1916/08/traktat-rumunii-z-ententa.md",
+     "quote": "17 sierpnia 1916 roku (4 sierpnia według kalendarza juliańskiego"
+    },
+    {
+     "file": "src/content/timeline/1916/08/traktat-rumunii-z-ententa.md",
+     "quote": "Obejmowała ona Siedmiogród, Kriszanę, Marmarosz, cały Banat i większą część Bukowiny"
+    },
+    {
+     "file": "src/content/timeline/1916/08/rumunia-wypowiada-wojne-austro-wegrom.md",
+     "quote": "27 sierpnia 1916 rada koronna zatwierdziła wejście Rumunii do wojny. Wieczorem poseł rumuński wręczył w Wiedniu notę, a wojska ruszyły przez Karpaty."
+    },
+    {
+     "file": "src/content/timeline/1916/08/rumunia-wypowiada-wojne-austro-wegrom.md",
+     "quote": "Rumunia wypowiedziała wojnę tylko monarchii habsburskiej."
+    },
+    {
+     "file": "src/content/timeline/1916/08/niemcy-wypowiadaja-wojne-rumunii.md",
+     "quote": "28 sierpnia 1916 Niemcy wypowiedziały wojnę Rumunii, dzień po jej wystąpieniu przeciw Austro-Węgrom. Zaskoczenie w Pszczynie kosztowało Falkenhayna stanowisko."
+    },
+    {
+     "file": "src/content/timeline/1916/08/turcja-wypowiada-wojne-rumunii.md",
+     "quote": "30 sierpnia 1916 Turcja ogłosiła, że wspólnie z Niemcami i Bułgarią wypowiada wojnę Rumunii. Enver Pasza szykował już korpus do walki w Dobrudży."
+    },
+    {
+     "file": "src/content/timeline/1916/09/bulgaria-wypowiada-wojne-rumunii.md",
+     "quote": "1 września 1916 Bułgaria wypowiedziała wojnę Rumunii, by odzyskać Dobrudżę utraconą w 1913 roku. Car Ferdynand wzywał do walki z „podstępnym sąsiadem”."
+    },
+    {
+     "file": "src/content/timeline/1916/08/rumunia-zrywa-stosunki-z-bulgaria.md",
+     "quote": "30 sierpnia 1916 wieczorem rumuński poseł w Sofii zażądał paszportów i zerwał stosunki z Bułgarią. Dwa dni później Bułgaria wypowiedziała Rumunii wojnę."
+    }
+   ]
+  },
+  {
+   "start": "Stany Zjednoczone długo pozostawały neutralne. W o",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/02/usa-zrywaja-stosunki-z-niemcami.md",
+     "quote": "Była to odpowiedź na ogłoszenie przez Niemcy nieograniczonej wojny podwodnej"
+    },
+    {
+     "file": "src/content/timeline/1917/02/usa-zrywaja-stosunki-z-niemcami.md",
+     "quote": "3 lutego 1917 Wilson ogłosił w Kongresie, że Stany Zjednoczone zrywają stosunki dyplomatyczne z Niemcami. Ambasador Bernstorff otrzymał paszporty."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "6 kwietnia 1917 Izba Reprezentantów przyjęła rezolucję wojenną, a Wilson ją podpisał. Stany Zjednoczone znalazły się w stanie wojny z Niemcami."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "Rezolucja dotyczyła tylko Niemiec."
+    },
+    {
+     "file": "src/content/timeline/1917/04/austro-wegry-zrywaja-stosunki-z-usa.md",
+     "quote": "8 kwietnia 1917 Czernin wręczył w Wiedniu amerykańskiemu chargé d’affaires paszporty. Austro-Węgry jako sojusznik Niemiec zerwały stosunki z USA."
+    },
+    {
+     "file": "src/content/timeline/1917/04/turcja-zrywa-stosunki-z-usa.md",
+     "quote": "20 kwietnia 1917 Imperium Osmańskie jako sojusznik Niemiec zerwało stosunki dyplomatyczne ze Stanami Zjednoczonymi. Ambasador Elkus leżał wtedy chory na tyfus."
+    },
+    {
+     "file": "src/content/timeline/1917/12/usa-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "7 grudnia 1917 Kongres na wniosek Wilsona uznał, że Stany Zjednoczone są w stanie wojny z Austro-Węgrami. Przeciw głosował tylko jeden poseł."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "Stany Zjednoczone nie zawarły sojuszu z Ententą"
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "Wilson nazywał swój kraj „państwem stowarzyszonym”, a nie sprzymierzonym"
+    },
+    {
+     "file": "src/content/timeline/1917/12/usa-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "Ta sama logika, przyznawał, prowadziłaby do wojny z Turcją i Bułgarią"
+    }
+   ]
+  },
+  {
+   "start": "Grecja przez prawie trzy lata spierała się o to, c",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/06/grecja-przystepuje-do-wojny.md",
+     "quote": "Kraj, który przez prawie trzy lata spierał się o to, czy walczyć, i od jesieni 1916 roku miał dwa rządy"
+    },
+    {
+     "file": "src/content/timeline/1915/10/konstantyn-zapewnia-o-neutralnosci-grecji.md",
+     "quote": "Na początku października 1915 król Konstantyn I zapewnił posła brytyjskiego, że Grecja pozostanie neutralna. Mobilizacja i lądowanie Ententy miały trwać."
+    },
+    {
+     "file": "src/content/timeline/1915/10/grecja-oglasza-zbrojna-neutralnosc.md",
+     "quote": "8 października 1915 rząd Zaimisa zawiadomił greckie poselstwa, że kraj zachowa zbrojną neutralność. Armia miała zostać pod bronią, ale nie iść na pomoc Serbii."
+    },
+    {
+     "file": "src/content/timeline/1916/11/rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii.md",
+     "quote": "23 listopada 1916 rząd Obrony Narodowej Wenizelosa w Salonikach wypowiedział wojnę Niemcom i Bułgarii. Grecja miała odtąd dwa rządy: walczący i neutralny."
+    },
+    {
+     "file": "src/content/timeline/1917/06/abdykacja-krola-konstantyna.md",
+     "quote": "12 czerwca 1917 król Konstantyn I, zmuszony przez Ententę, opuścił Ateny, zostawiając tron młodszemu synowi Aleksandrowi. Formalnie nie abdykował."
+    },
+    {
+     "file": "src/content/timeline/1917/06/grecja-przystepuje-do-wojny.md",
+     "quote": "27 czerwca 1917 Wenizelos objął władzę w Atenach. Jego rząd zerwał stosunki z państwami centralnymi, a cała Grecja stanęła do wojny po stronie Ententy."
+    }
+   ]
+  },
+  {
+   "start": "W 1917 roku do wojny dołączały państwa odległe od",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/07/syjam-wypowiada-wojne-niemcom-i-austro-wegrom.md",
+     "quote": "Wojna była mu potrzebna nie dla zdobyczy na froncie, lecz dla miejsca wśród zwycięzców."
+    },
+    {
+     "file": "src/content/timeline/1917/08/liberia-wypowiada-wojne-niemcom.md",
+     "quote": "4 sierpnia 1917 liberyjski Kongres jednogłośnie wypowiedział wojnę Niemcom. Tego samego dnia Niemców z Monrowii zabrano na francuski krążownik Desaix."
+    },
+    {
+     "file": "src/content/timeline/1917/05/liberia-zrywa-stosunki-z-niemcami.md",
+     "quote": "8 maja 1917 Liberia zerwała stosunki z Niemcami. Sekretarz stanu King cofnął exequatur niemieckiemu konsulowi, wskazując na wojnę podwodną."
+    },
+    {
+     "file": "src/content/timeline/1917/07/syjam-wypowiada-wojne-niemcom-i-austro-wegrom.md",
+     "quote": "22 lipca 1917 król Vajiravudh wypowiedział wojnę Niemcom i Austro-Węgrom. O świcie Syjamczycy internowali Niemców i zajęli dziewięć niemieckich statków."
+    },
+    {
+     "file": "src/content/timeline/1917/08/chiny-wypowiadaja-wojne-niemcom-i-austro-wegrom.md",
+     "quote": "14 sierpnia 1917 o dziesiątej rano Chiny ogłosiły stan wojny z Niemcami i Austro-Węgrami. Proklamację podpisał prezydent Feng Guozhang."
+    },
+    {
+     "file": "src/content/timeline/1917/03/chiny-zrywaja-stosunki-z-niemcami.md",
+     "quote": "14 marca 1917 Chiny zerwały stosunki dyplomatyczne z Niemcami w proteście przeciw wojnie podwodnej. Niemiecki poseł Paul von Hintze dostał paszporty."
+    },
+    {
+     "file": "src/content/timeline/1917/08/chiny-wypowiadaja-wojne-niemcom-i-austro-wegrom.md",
+     "quote": "Chiny chciały tam odzyskać niemieckie prawa w prowincji Szantung"
+    },
+    {
+     "file": "src/content/timeline/1917/08/chiny-wypowiadaja-wojne-niemcom-i-austro-wegrom.md",
+     "quote": "Chiny nie zamierzały jednak walczyć na froncie."
+    },
+    {
+     "file": "src/content/timeline/1916/12/chinscy-robotnicy-we-francji.md",
+     "quote": "Pod koniec 1916 Brytyjczycy, idąc śladem Francuzów, sięgnęli po robotników z Chin. Do 1918 roku na tyłach frontu we Francji pracowało ich ponad 100 tysięcy."
+    }
+   ]
+  },
+  {
+   "start": "Za Stanami Zjednoczonymi poszła Ameryka Łacińska,",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/04/kuba-i-panama-wypowiadaja-wojne-niemcom.md",
+     "quote": "7 kwietnia 1917, dzień po USA, wojnę Niemcom wypowiedziały Kuba i Panama. Kubański Kongres głosował jednomyślnie, w Panamie zdecydował prezydent."
+    },
+    {
+     "file": "src/content/timeline/1917/12/panama-wypowiada-wojne-austro-wegrom.md",
+     "quote": "10 grudnia 1917 Zgromadzenie Narodowe Panamy jednogłośnie ogłosiło stan wojny z Austro-Węgrami, trzy dni po decyzji Kongresu Stanów Zjednoczonych."
+    },
+    {
+     "file": "src/content/timeline/1917/12/kuba-wypowiada-wojne-austro-wegrom.md",
+     "quote": "16 grudnia 1917 Kuba ogłosiła stan wojny z Austro-Węgrami. Wniosek prezydenta Menocala przeszedł przez obie izby Kongresu w kilka dni."
+    },
+    {
+     "file": "src/content/timeline/1917/04/brazylia-zrywa-stosunki-z-niemcami.md",
+     "quote": "11 kwietnia 1917 Brazylia zerwała stosunki dyplomatyczne i handlowe z Niemcami po zatopieniu bez ostrzeżenia parowca Paraná u wybrzeży Normandii."
+    },
+    {
+     "file": "src/content/timeline/1917/10/brazylia-wypowiada-wojne-niemcom.md",
+     "quote": "26 października 1917 brazylijski Kongres uznał, że Niemcy narzuciły Brazylii stan wojny. Bezpośrednim powodem było zatopienie parowca Macau."
+    },
+    {
+     "file": "src/content/timeline/1917/04/gwatemala-zrywa-stosunki-z-niemcami.md",
+     "quote": "27 kwietnia 1917 Gwatemala zerwała stosunki z Niemcami i oddała Stanom Zjednoczonym do dyspozycji swoje wody, porty i koleje."
+    },
+    {
+     "file": "src/content/timeline/1917/05/nikaragua-zrywa-stosunki-z-niemcami.md",
+     "quote": "18 maja 1917 Kongres Nikaragui zerwał stosunki z Niemcami i pozwolił prezydentowi Chamorro oddać Stanom Zjednoczonym porty i wody terytorialne kraju."
+    },
+    {
+     "file": "src/content/timeline/1917/09/kostaryka-zrywa-stosunki-z-niemcami.md",
+     "quote": "21 września 1917 nieuznawany przez Waszyngton rząd Federica Tinoca zerwał stosunki z Niemcami. Liczył, że zjedna sobie w ten sposób Wilsona."
+    },
+    {
+     "file": "src/content/timeline/1917/06/haiti-zrywa-stosunki-z-niemcami.md",
+     "quote": "16 czerwca 1917 okupowane przez USA Haiti odesłało niemieckiego chargé d’affaires. Wcześniej Niemcy wydalili haitańskiego dyplomatę z Berlina."
+    },
+    {
+     "file": "src/content/timeline/1917/05/honduras-zrywa-stosunki-z-niemcami.md",
+     "quote": "17 maja 1917 prezydent Hondurasu Francisco Bertrand dekretem zerwał stosunki z Niemcami i ogłosił stan oblężenia. Kraj zaoferował USA współpracę."
+    },
+    {
+     "file": "src/content/timeline/1918/04/gwatemala-wypowiada-wojne-niemcom.md",
+     "quote": "23 kwietnia 1918 prezydent Estrada Cabrera ogłosił dekret, którym Gwatemala przyjęła wobec Niemiec tę samą postawę wojującą co Stany Zjednoczone."
+    },
+    {
+     "file": "src/content/timeline/1918/05/nikaragua-wypowiada-wojne-niemcom.md",
+     "quote": "8 maja 1918 rząd Nikaragui ogłosił, że Kongres wypowiedział wojnę Niemcom i Austro-Węgrom. Prezydent Chamorro stanął otwarcie u boku Stanów Zjednoczonych."
+    },
+    {
+     "file": "src/content/timeline/1918/05/kostaryka-wypowiada-wojne-niemcom.md",
+     "quote": "23 maja 1918 nieuznawany przez Waszyngton rząd Federica Tinoca wypowiedział wojnę Niemcom. Kongres ustąpił dopiero pod groźbą rozwiązania."
+    },
+    {
+     "file": "src/content/timeline/1918/07/haiti-wypowiada-wojne-niemcom.md",
+     "quote": "12 lipca 1918 haitańska Rada Stanu, która zastępowała rozwiązany parlament, ogłosiła stan wojny z Niemcami. Okupowane przez USA Haiti poszło za Waszyngtonem."
+    },
+    {
+     "file": "src/content/timeline/1918/07/honduras-wypowiada-wojne-niemcom.md",
+     "quote": "19 lipca 1918 prezydent Francisco Bertrand ogłosił dekretem stan wojny z Niemcami. Honduras był ostatnim z ośmiu państw Ameryki Łacińskiej, które to zrobiły."
+    },
+    {
+     "file": "src/content/timeline/1918/07/honduras-wypowiada-wojne-niemcom.md",
+     "quote": "Według zestawienia Unii Panamerykańskiej z 1919 roku wojnę Niemcom wypowiedziało osiem z dwudziestu państw Ameryki Łacińskiej"
+    }
+   ]
+  },
+  {
+   "start": "Kilka innych poprzestało na zerwaniu stosunków dyp",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/04/boliwia-zrywa-stosunki-z-niemcami.md",
+     "quote": "13 kwietnia 1917 Boliwia wręczyła paszporty niemieckiemu posłowi i zerwała stosunki z Niemcami. Przypomniała wojnę podwodną i storpedowanie Tubantii."
+    },
+    {
+     "file": "src/content/timeline/1917/06/dominikana-zrywa-stosunki-z-niemcami.md",
+     "quote": "W czerwcu 1917 amerykański rząd wojskowy w Santo Domingo cofnął exequatur niemieckim konsulom. Tak okupowana Dominikana zerwała stosunki z Niemcami."
+    },
+    {
+     "file": "src/content/timeline/1917/10/peru-zrywa-stosunki-z-niemcami.md",
+     "quote": "5 października 1917 peruwiański Kongres poparł zerwanie stosunków z Niemcami, które od miesięcy odmawiały odszkodowania za zatopioną barkę Lorton."
+    },
+    {
+     "file": "src/content/timeline/1917/10/urugwaj-zrywa-stosunki-z-niemcami.md",
+     "quote": "7 października 1917 nad ranem parlament Urugwaju upoważnił rząd do zerwania stosunków z Niemcami. Prezydent Viera jeszcze tego dnia podpisał dekret."
+    },
+    {
+     "file": "src/content/timeline/1917/12/ekwador-zrywa-stosunki-z-niemcami.md",
+     "quote": "7 grudnia 1917 Ekwador zerwał stosunki dyplomatyczne z Niemcami. Poszedł w ślady Peru i Urugwaju, które zrobiły to w październiku."
+    },
+    {
+     "file": "src/content/timeline/1918/08/czechoslowacy-wypowiadaja-wojne-niemcom.md",
+     "quote": "13 sierpnia 1918 według brytyjskiej chronologii Czechosłowacy ogłosili stan wojny także z Niemcami. Walczyli już trzema armiami: w Rosji, Francji i Włoszech."
+    }
+   ]
+  },
+  {
+   "start": "Żadna ze stron nie ogłosiła na początku wojny pełn",
+   "quotes": [
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "Bethmann Hollweg, \"The September Memorandum,\" Berlin, September 9, 1914"
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "the basin of Briey is to be annexed."
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "a war indemnity, to be paid in installments."
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "Incorporation of Liege and Verviers into Prussia"
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "Belgium must in all events – even should it continue to exist as a state – sink to the status of a vassal state"
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "Will become a German federal state and will receive a strip from the present Belgian province of Luxembourg"
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "to comprise France, Belgium, Holland, Denmark, Austria-Hungary, Poland (!) and possibly Italy, Sweden, and Norway."
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "must stabilize Germany’s economic predominance in central Europe."
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-980",
+     "quote": "the creation of a contiguous central African colonial empire, will be considered later"
+    }
+   ]
+  },
+  {
+   "start": "Sojusznicy Niemiec walczyli o cele bliższe. Austro",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/07/rada-ministrow-austro-wegier-decyduje-o-akcji-przeciw-serbii.md",
+     "quote": "14 lipca 1914 w Wiedniu zapadła polityczna decyzja o twardym kursie wobec Serbii i przygotowaniu ultimatum prowadzącego do wojny."
+    },
+    {
+     "file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md",
+     "quote": "Gdyby do wojny przeciw Bułgarii lub jej sojusznikom przystąpiła Rumunia, Bułgaria mogła odzyskać Dobrudżę utraconą w 1913 roku."
+    },
+    {
+     "file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md",
+     "quote": "Ceną za przyłączenie się Bułgarii była serbska Macedonia."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Wyrzekła się zwierzchnictwa nad Polską, Litwą i Kurlandią, zgodziła się opuścić Inflanty, Estonię, Finlandię i Ukrainę oraz oddać Turcji okręgi Karsu, Ardahanu i Batumi."
+    }
+   ]
+  },
+  {
+   "start": "Cele Ententy ustalano w tajnych umowach. Rosja zap",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/12/trepow-oglasza-prawo-rosji-do-konstantynopola.md",
+     "quote": "2 grudnia 1916 roku (19 listopada według kalendarza juliańskiego) nowy przewodniczący Rady Ministrów, czyli premier Rosji, Aleksandr Trepow"
+    },
+    {
+     "file": "src/content/timeline/1916/12/trepow-oglasza-prawo-rosji-do-konstantynopola.md",
+     "quote": "Rosja zawarła z sojusznikami porozumienie, które „w sposób najbardziej stanowczy” ustaliło jej prawo do cieśnin i Konstantynopola. Tajny układ z wiosny 1915 roku po raz pierwszy ogłoszono publicznie"
+    },
+    {
+     "file": "src/content/timeline/1917/04/konferencja-w-saint-jean-de-maurienne.md",
+     "quote": "Tymczasem w 1916 roku Wielka Brytania, Francja i Rosja podzieliły między siebie azjatyckie posiadłości sułtana w umowie Sykes-Picot"
+    },
+    {
+     "file": "src/content/timeline/1917/04/konferencja-w-saint-jean-de-maurienne.md",
+     "quote": "19 kwietnia 1917 roku na stacji kolejowej w Saint-Jean-de-Maurienne"
+    },
+    {
+     "file": "src/content/timeline/1917/04/konferencja-w-saint-jean-de-maurienne.md",
+     "quote": "Rzym domagał się teraz rekompensaty."
+    },
+    {
+     "file": "src/content/timeline/1916/08/traktat-rumunii-z-ententa.md",
+     "quote": "17 sierpnia 1916 Brătianu podpisał w Bukareszcie tajny traktat i konwencję wojskową z Ententą. Rumunia obiecała do 28 sierpnia uderzyć na Austro-Węgry."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "26 kwietnia 1915 Włochy podpisały w Londynie tajny układ z Ententą. Za obietnicę ziem nad Adriatykiem zobowiązały się wejść do wojny w ciągu miesiąca."
+    }
+   ]
+  },
+  {
+   "start": "Publicznie sprzymierzeni po raz pierwszy wspólnie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/odpowiedz-ententy-na-note-wilsona.md",
+     "quote": "10 stycznia 1917 alianci odpowiedzieli Wilsonowi i po raz pierwszy wspólnie ogłosili cele wojny. Osobną notę dołączyła Belgia."
+    },
+    {
+     "file": "src/content/timeline/1917/01/odpowiedz-ententy-na-note-wilsona.md",
+     "quote": "chciał, by alianci wymienili konkretne cele: zwrot Alzacji i Lotaryngii Francji, połączenie ziem włoskich z Włochami, zjednoczenie Serbów i Rumunów w ich państwach, spełnienie przynajmniej części dążeń Polaków i wyzwolenie chrześcijan spod władzy tureckiej"
+    },
+    {
+     "file": "src/content/timeline/1916/12/odpowiedz-panstw-centralnych-na-note-wilsona.md",
+     "quote": "Wszystkie cztery były niemal identyczne i w żadnej nie było tego, o co prosił Wilson."
+    },
+    {
+     "file": "src/content/timeline/1918/01/lloyd-george-o-celach-wojny.md",
+     "quote": "5 stycznia 1918 Lloyd George przedstawił związkowcom cele wojny Wielkiej Brytanii. Żądał odbudowy Belgii i niepodległej Polski, mówił o lidze narodów."
+    },
+    {
+     "file": "src/content/timeline/1918/01/czternascie-punktow-wilsona.md",
+     "quote": "8 stycznia 1918 roku prezydent Stanów Zjednoczonych Woodrow Wilson"
+    },
+    {
+     "file": "src/content/timeline/1918/06/deklaracja-wersalska.md",
+     "quote": "3 czerwca 1918 premierzy Francji, Wielkiej Brytanii i Włoch uznali w Wersalu zjednoczoną i niepodległą Polskę z dostępem do morza za warunek pokoju."
+    }
+   ]
+  },
+  {
+   "start": "Przez większość wojny Ententa nie miała wspólnego",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/03/konferencja-w-doullens.md",
+     "quote": "Do marca 1918 roku obie armie walczyły obok siebie, ale każda pod własnym dowództwem."
+    },
+    {
+     "file": "src/content/timeline/1915/07/pierwsza-konferencja-w-calais.md",
+     "quote": "6 lipca 1915 w Calais po raz pierwszy spotkali się premierzy Wielkiej Brytanii i Francji. Obie strony wyjechały z innym przekonaniem, co ustalono."
+    },
+    {
+     "file": "src/content/timeline/1915/12/druga-konferencja-w-chantilly.md",
+     "quote": "Pierwsza odbyła się w Chantilly 7 lipca 1915 roku, nazajutrz po konferencji w Calais"
+    },
+    {
+     "file": "src/content/timeline/1915/12/druga-konferencja-w-chantilly.md",
+     "quote": "6–8 grudnia 1915 w kwaterze Joffre'a w Chantilly dowódcy sprzymierzonych uzgodnili na 1916 rok jednoczesne ofensywy na wszystkich głównych frontach."
+    },
+    {
+     "file": "src/content/timeline/1916/03/trzecia-konferencja-w-chantilly.md",
+     "quote": "12 marca 1916 w Chantilly dowódcy sprzymierzonych postanowili, że wspólna ofensywa ruszy jak najszybciej, by ulżyć Verdun, a armia w Salonikach zostanie."
+    },
+    {
+     "file": "src/content/timeline/1916/11/konferencje-w-paryzu-i-chantilly.md",
+     "quote": "15–16 listopada 1916 w Chantilly dowódcy sprzymierzonych ułożyli plan wojny na 1917 rok, a obradujący równocześnie w Paryżu politycy w praktyce go przyjęli."
+    },
+    {
+     "file": "src/content/timeline/1916/06/paryska-konferencja-gospodarcza-aliantow.md",
+     "quote": "14–17 czerwca 1916 w Paryżu obradowało osiem państw Ententy. Uzgodniły wojnę gospodarczą z państwami centralnymi w czasie wojny i po jej zakończeniu."
+    }
+   ]
+  },
+  {
+   "start": "Stały organ powstał dopiero po klęsce Włochów pod",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/konferencja-w-rapallo.md",
+     "quote": "5–7 listopada 1917 premierzy Wielkiej Brytanii, Francji i Włoch obradowali w Rapallo nad ratowaniem Włoch po Caporetto i powołali Najwyższą Radę Wojenną."
+    },
+    {
+     "file": "src/content/timeline/1917/12/pierwsze-posiedzenie-najwyzszej-rady-wojennej.md",
+     "quote": "1 grudnia 1917 w Wersalu zebrała się Najwyższa Rada Wojenna sprzymierzonych. Clemenceau polecił wojskowym doradcom ocenić, jak prowadzić wojnę w 1918 roku."
+    },
+    {
+     "file": "src/content/timeline/1918/03/konferencja-w-doullens.md",
+     "quote": "Brytyjskie armie cofały się, a między nimi a Francuzami groziła otwarta luka."
+    },
+    {
+     "file": "src/content/timeline/1918/03/konferencja-w-doullens.md",
+     "quote": "26 marca 1918 w ratuszu w Doullens Francuzi i Brytyjczycy powierzyli gen. Fochowi koordynację działań armii sojuszniczych na froncie zachodnim."
+    },
+    {
+     "file": "src/content/timeline/1918/04/konferencja-w-beauvais.md",
+     "quote": "3 kwietnia 1918 w Beauvais rządy Francji, Wielkiej Brytanii i USA powierzyły gen. Fochowi kierownictwo strategiczne operacji na froncie zachodnim."
+    },
+    {
+     "file": "src/content/timeline/1918/04/foch-naczelnym-wodzem.md",
+     "quote": "14 kwietnia 1918 gen. Foch otrzymał tytuł naczelnego wodza armii sojuszniczych we Francji. Tego dnia w Abbeville odmówił Haigowi zluzowania brytyjskich dywizji."
+    },
+    {
+     "file": "src/content/timeline/1918/11/foch-naczelnym-wodzem-przeciw-niemcom.md",
+     "quote": "Po kapitulacji Austro-Węgier przywódcy Ententy powierzyli Fochowi kierownictwo strategiczne wojny z Niemcami na wszystkich frontach, w tym włoskim i bałkańskim."
+    }
+   ]
+  },
+  {
+   "start": "Po drugiej stronie od początku przeważały Niemcy.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/souchon-dowodca-floty-tureckiej.md",
+     "quote": "We wrześniu 1914 niemiecki admirał Wilhelm Souchon przejął dowództwo floty osmańskiej. Kilka tygodni później wciągnął Turcję do wojny."
+    },
+    {
+     "file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md",
+     "quote": "6 września 1915 Bułgaria zawarła w Sofii tajny sojusz z Niemcami, a w Pszczynie konwencję wojskową. Za udział w ataku na Serbię miała dostać jej Macedonię."
+    },
+    {
+     "file": "src/content/timeline/1914/08/tajny-sojusz-niemiec-i-imperium-osmanskiego.md",
+     "quote": "a niemiecka misja wojskowa miała mieć realny wpływ na dowodzenie armią osmańską"
+    },
+    {
+     "file": "src/content/timeline/1915/10/bulgaria-i-serbia-wypowiadaja-sobie-wojne.md",
+     "quote": "armie feldmarszałka Mackensena, który dowodził całością sił przeciw Serbii"
+    },
+    {
+     "file": "src/content/timeline/1916/11/smierc-franciszka-jozefa.md",
+     "quote": "W czerwcu 1916 roku ofensywa Brusiłowa rozbiła armie austro-węgierskie na Wołyniu i w Bukowinie. Ogromne straty w ludziach i sprzęcie sprawiły, że Austro-Węgry coraz bardziej zależały od niemieckiego sojusznika."
+    },
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "29 sierpnia 1916 Wilhelm II odwołał Falkenhayna. Szefem Sztabu Generalnego Armii Polowej został Hindenburg, a jego zastępcą Ludendorff."
+    },
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "państwa centralne zgodziły się na wspólne naczelne dowództwo pod zwierzchnictwem Wilhelma II, w praktyce sprawowane przez niemiecką OHL"
+    },
+    {
+     "file": "src/content/timeline/1917/12/usa-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "nie panią samej siebie, lecz tylko wasalem rządu niemieckiego"
+    }
+   ]
+  },
+  {
+   "start": "Pierwsza o rozejm poprosiła mała Czarnogóra, które",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/01/czarnogora-prosi-o-rozejm.md",
+     "quote": "Po upadku Lovćenu rząd Czarnogóry poprosił 11 stycznia 1916 o sześciodniowy rozejm. Wiedeń zażądał bezwarunkowego złożenia broni, a natarcie trwało dalej."
+    },
+    {
+     "file": "src/content/timeline/1917/11/bolszewicy-proponuja-rozejm.md",
+     "quote": "21 listopada 1917 rząd Lenina polecił naczelnemu dowództwu zaproponować wrogom rozejm, a ambasady sojusznicze otrzymały notę Trockiego. Gen. Duchonin odmówił."
+    },
+    {
+     "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+     "quote": "15 grudnia 1917 w Brześciu Litewskim Rosja Sowiecka i państwa centralne podpisały rozejm na froncie od Bałtyku po Morze Czarne. Rosja w praktyce wyszła z wojny."
+    },
+    {
+     "file": "src/content/timeline/1918/02/pokoj-brzeski-z-ukraina.md",
+     "quote": "9 lutego 1918 państwa centralne podpisały w Brześciu pokój z Ukraińską Republiką Ludową. W zamian za zboże obiecały jej Chełmszczyznę, co wzburzyło Polaków."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 Rosja Radziecka podpisała w Brześciu pokój z państwami centralnymi. Straciła Polskę, Litwę, Kurlandię, Inflanty, Estonię, Finlandię i Ukrainę."
+    },
+    {
+     "file": "src/content/timeline/1914/09/pakt-londynski.md",
+     "quote": "Pakt złamała dopiero Rosja."
+    },
+    {
+     "file": "src/content/timeline/1918/03/alianci-odrzucaja-traktat-brzeski.md",
+     "quote": "18 marca 1918 premierzy i ministrowie Ententy ogłosili, że nie uznają pokoju brzeskiego. Ostrzegali, że Polsce grozi czwarty rozbiór."
+    }
+   ]
+  },
+  {
+   "start": "Osamotniona Rumunia, niepokonana w polu, 9 grudnia",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/12/rozejm-w-fokszanach.md",
+     "quote": "9 grudnia 1917 w Fokszanach armie frontu rumuńskiego podpisały rozejm z państwami centralnymi. Osamotniona Rumunia, niepokonana w polu, przestała walczyć."
+    },
+    {
+     "file": "src/content/timeline/1918/03/pokoj-w-buftei.md",
+     "quote": "5 marca 1918 w Buftei Rumunia podpisała wstępny pokój z państwami centralnymi. Oddawała Dobrudżę, godziła się na korektę granicy i demobilizację armii."
+    },
+    {
+     "file": "src/content/timeline/1918/05/pokoj-w-bukareszcie.md",
+     "quote": "7 maja 1918 w Bukareszcie rząd Marghilomana podpisał pokój z państwami centralnymi. Rumunia traciła Dobrudżę i przełęcze w Karpatach, Niemcy brali jej ropę."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rumunia-wraca-do-wojny.md",
+     "quote": "10 listopada 1918 francuskie bataliony przeprawiły się przez Dunaj pod Ruse, a król Ferdynand wezwał Rumunów, by znów chwycili za broń przeciw Niemcom."
+    }
+   ]
+  },
+  {
+   "start": "Jesienią 1918 roku rozpadł się blok państw central",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/09/rozejm-w-salonikach.md",
+     "quote": "29 września 1918 Bułgaria podpisała w Salonikach rozejm z Ententą. W południe 30 września ustały walki, a Bułgaria pierwsza z państw centralnych wyszła z wojny."
+    },
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "29 września 1918 w Spa Hindenburg i Ludendorff zażądali natychmiastowej prośby o rozejm. Cesarz zgodził się na apel do Wilsona i na rząd parlamentarny."
+    },
+    {
+     "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+     "quote": "30 października 1918 na pancerniku „Agamemnon” w Mudros Imperium Osmańskie podpisało rozejm z Ententą. Walki ustały w południe 31 października."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md",
+     "quote": "3 listopada 1918 pod Padwą Austro-Węgry podpisały rozejm z aliantami. Walki ustały 4 listopada o 15.00, a monarchia Habsburgów wyszła z wojny."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą. O 11.00 na froncie zachodnim ucichły działa."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-belgradzki.md",
+     "quote": "13 listopada 1918 w Belgradzie Węgry podpisały z aliantami konwencję wojskową. Linia demarkacyjna oddała Banat, Baczkę i część Siedmiogrodu pod okupację."
+    }
+   ]
+  },
+  {
+   "start": "Państwa centralne tworzyły tylko cztery państwa: N",
+   "quotes": [
+    {
+     "url": "https://pl.wikipedia.org/wiki/Państwa_centralne",
+     "quote": "sojusz Cesarstwa Niemieckiego, Monarchii Austro-Węgierskiej, Carstwa Bułgarii i Imperium Osmańskiego"
+    },
+    {
+     "url": "https://pl.wikipedia.org/wiki/Ententa",
+     "quote": "dołączyła szeroka koalicja 25 państw, z których nie wszystkie wzięły czynny udział w wojnie"
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/?p=17",
+     "quote": "Minor European Powers: Portugal, Belgium, Romania, Greece"
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/?p=17",
+     "quote": "Other countries: Montenegro, San Marino, Brazil, Costa Rica, Cuba, Ecuador, Guatemala, Haiti, Honduras, Nicaragua, Panama, Peru, China, Siam, Liberia"
+    },
+    {
+     "file": "src/content/timeline/1917/10/peru-zrywa-stosunki-z-niemcami.md",
+     "quote": "5 października 1917 peruwiański Kongres poparł zerwanie stosunków z Niemcami, które od miesięcy odmawiały odszkodowania za zatopioną barkę Lorton."
+    }
+   ]
+  },
+  {
+   "start": "Przewaga ludzka była po stronie Ententy. Według De",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA (1924): 65 mln w 16 głównych państwach; AFP: ok. 70 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 12 mln; MBP: 15,07 mln; Kriwoszejew: 15,38 mln (ZPE: 15,8 mln)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "MBP: 7,94 mln; Departament Wojny USA: 8,41 mln (AFP i ZPE: 8 mln)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Rząd USA dla MBP: 4,27 mln; Departament Wojny USA: 4,36 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 11 mln; rząd niemiecki dla MBP: 13,25 mln (AFP: 13 mln, ZPE: 14 mln)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 7,8 mln; rząd austriacki dla MBP: 9 mln (tyle też AFP i ZPE)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"low\": 8904467"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Z dominiami i Indiami; sama Wielka Brytania ok. 5,7 mln (ZPE)"
+    },
+    {
+     "file": "src/content/timeline/1918/12/polska-zrywa-stosunki-z-niemcami.md",
+     "quote": "15 grudnia 1918 rząd w Warszawie zerwał stosunki z Niemcami. Poseł Harry Kessler, który miesiąc wcześniej przywiózł uznanie Berlina, musiał wyjechać z Polski."
+    }
+   ]
+  }
+ ]
+}

@@ -7,6 +7,7 @@ import Sources from "@/components/Sources.astro"
 import { locale, plural, type Lang } from "@/i18n"
 import { curated, localPeople } from "@/i18n/local"
 import { listPageLd } from "@/utils/jsonLd"
+import { localTopics } from "@/utils/topics"
 import { formatDate } from "@/utils/formatDate"
 import { CATEGORIES, GLOSSARY, articlesUsing, glossaryPath, termName, termPath, type GlossaryEntry } from "@/utils/glossary"
 
@@ -22,12 +23,16 @@ const expansion = en ? entry.expansionEn : entry.expansion
 const short = en ? entry.shortEn : entry.short
 const long = en ? entry.longEn : entry.long
 
+// Topic guides named in `see` ("tematy/<id>"), shown first as "Temat".
+const topicIds = entry.see.filter((ref) => ref.startsWith("tematy/")).map((ref) => ref.slice(7))
+const topics = (await localTopics(lang)).filter((topic) => topicIds.includes(topic.id))
+
 // Related pages: timeline slugs, "bitwy/<id>" and "postacie/<id>".
 const people = new Map((await localPeople(lang)).map((p) => [p.id, p]))
 const plPeople = new Map((await localPeople("pl")).map((p) => [p.id, p]))
 const see = (
   await Promise.all(
-    entry.see.map(async (ref) => {
+    entry.see.filter((ref) => !ref.startsWith("tematy/")).map(async (ref) => {
       if (ref.startsWith("postacie/")) {
         const id = ref.slice(9)
         const p = people.get(id) ?? plPeople.get(id)
@@ -48,6 +53,7 @@ const t = {
   pl: {
     back: "← Słownik",
     see: "Zobacz też",
+    topic: "Temat",
     used: "W kronice",
     usedLead: (n: number) => `${n} ${plural("pl", n, ["tekst używa", "teksty używają", "tekstów używa"], ["", ""])} tego pojęcia.`,
     others: "Inne hasła",
@@ -55,6 +61,7 @@ const t = {
   en: {
     back: "← Glossary",
     see: "See also",
+    topic: "Topic",
     used: "In the chronicle",
     usedLead: (n: number) => `${n} ${plural("en", n, ["", "", ""], ["article uses", "articles use"])} this term.`,
     others: "Other terms",
@@ -95,6 +102,15 @@ const jsonLd = listPageLd(Astro.site!, {
       </div>
 
       <aside class="mt-12 space-y-8 lg:mt-0 lg:pt-1">
+        {topics.map((topic) => (
+          <div class="border-line border-t pt-5">
+            <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.topic}</p>
+            <a href={topic.href} class="font-display text-ink hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+              {topic.title} →
+            </a>
+            <p class="text-ink-soft mt-1 text-sm leading-6">{topic.question}</p>
+          </div>
+        ))}
         {
           see.length > 0 && (
             <div class="border-line border-t pt-5">

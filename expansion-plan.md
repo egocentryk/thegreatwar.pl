@@ -76,9 +76,9 @@ is **no article on the causes and none on the results** today.
 - **Done 2026-10-29:** the page type and eight guides: causes, results,
   sprawa polska, new weapons, the war on Polish soil, the Russian
   revolutions, the submarine war, why Germany lost (improvements.md §24).
-  Next: Państwa centralne i Ententa, Ludobójstwo Ormian; then Życie w
-  okopach and Kobiety w czasie wojny after the A4 society batch gives them
-  articles to link.
+  Then guides 9–10: Państwa centralne i Ententa, Ludobójstwo Ormian; and
+  glossary term pages link their guide. Next: Życie w okopach and Kobiety w
+  czasie wojny, after the A4 society batch gives them articles to link.
 
 ### A2. Before the war: "Droga do wojny 1871–1914"
 
