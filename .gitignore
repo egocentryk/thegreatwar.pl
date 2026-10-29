@@ -24,3 +24,9 @@ pnpm-debug.log*
 .vscode/*
 !.vscode/extensions.json
 .idea/
+
+# writers' scratch folders (downloaded sources, temporary scripts, virtualenvs)
+scripts/**/tmp-*/
+venv/
+.venv/
+__pycache__/

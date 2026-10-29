@@ -6,7 +6,7 @@ the First World War with a complete English edition. A **topic guide**
 wojny światowej", "Sprawa polska 1914–1918"… It is what a student or a
 curious reader searches for, and the hub that leads into our dated articles.
 You write one guide in Polish, its evidence file, and its English translation.
-Scratch files go in `scripts/topics/tmp-<slug>/` (delete it when done). Don't
+Scratch files go in a scratch folder **outside the repo** (the scratchpad path the coordinator gives you, or `mktemp -d`; never inside the repo) (delete it when done). Don't
 edit any other repo file, don't run the build, don't commit.
 
 ## Read first
@@ -19,7 +19,7 @@ edit any other repo file, don't run the build, don't commit.
   certain, and report the conflict.
 - Tone and length model for a long text: `src/content/battles/1916/bitwa-nad-somma.md`.
 - The four published guides in `src/content/topics/` (and their evidence in
-  `scripts/topics/*.json`): match their form, and don't contradict them
+  `scripts/evidence/topics/*.json`): match their form, and don't contradict them
   where your topic overlaps.
 
 ## The Polish guide: `src/content/topics/<slug>.md`
@@ -59,7 +59,7 @@ Body, 1,800–2,800 words:
 - No pointer sentences ("więcej w artykule…"). The links carry the reader.
 - Figures as ranges with attribution where sources differ.
 
-## Evidence: `scripts/topics/<slug>.json`
+## Evidence: `scripts/evidence/topics/<slug>.json`
 
 Every paragraph needs an entry, with 1–5 verbatim quotes that together back
 every fact in it:
@@ -83,7 +83,7 @@ every fact in it:
 
 Check until it prints `0 problem(s)`:
 
-    cd /Users/lukaszskowron/Code/astro/thegreatwar.pl && python3 -I scripts/topics/check.py . <slug>
+    cd /Users/lukaszskowron/Code/astro/thegreatwar.pl && python3 -I scripts/checks/topics.py . <slug>
 
 ## English: `src/content/en/topics/<english-slug>.md`
 

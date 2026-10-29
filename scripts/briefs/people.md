@@ -5,7 +5,7 @@ the First World War with a complete English edition. Person pages
 (`/postacie/<slug>`) are reference pages outside the timeline. Only 9 of
 242 are Polish people, and this batch adds 30 people of the Polish thread.
 You write the people in your group: each one as a Polish page, then its
-English translation. Scratch files go in `scripts/people/tmp-<group>/`
+English translation. Scratch files go in a scratch folder **outside the repo** (the scratchpad path the coordinator gives you, or `mktemp -d`; never inside the repo)
 (delete it when done). Don't edit any other repo file, don't run the build,
 don't commit. **Portraits are not your job**: leave out `photo:`, since the
 coordinator adds it later with `scripts/person-photos.mjs`.

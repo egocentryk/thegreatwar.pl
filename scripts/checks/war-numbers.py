@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Check the researchers' datasets and merge them into src/data/war-numbers.json.
 
-Usage: python3 -I scripts/war-numbers/merge.py [--write]
+Usage: python3 -I scripts/checks/war-numbers.py [--write]
 
 Rules (BRIEF.md): every row has low <= high, both labels, and at least two
 sources of which one is not Wikipedia (rows of computed figures, like the
@@ -15,7 +15,7 @@ PARTS = ["headline", "deaths", "poland", "battles", "sea-production"]
 
 merged, problems = {}, []
 for part in PARTS:
-    path = os.path.join(HERE, f"{part}.json")
+    path = os.path.join(REPO, "scripts/evidence/war-numbers", f"{part}.json")
     if not os.path.exists(path):
         problems.append(f"{part}.json missing")
         continue

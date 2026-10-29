@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Check a topic guide (src/content/topics/<slug>.md) against its evidence
-file (scripts/topics/<slug>.json).
+file (scripts/evidence/topics/<slug>.json).
 
-Usage: python3 -I scripts/topics/check.py . <slug> [more slugs...]
+Usage: python3 -I scripts/checks/topics.py . <slug> [more slugs...]
 
 Evidence format:
 {
@@ -43,7 +43,7 @@ def split(path):
 def check(repo, slug):
     problems = []
     guide = os.path.join(repo, "src/content/topics", f"{slug}.md")
-    ev_path = os.path.join(repo, "scripts/topics", f"{slug}.json")
+    ev_path = os.path.join(repo, "scripts/evidence/topics", f"{slug}.json")
     if not os.path.exists(guide) or not os.path.exists(ev_path):
         return [f"missing {guide if not os.path.exists(guide) else ev_path}"]
     fm, body = split(guide)

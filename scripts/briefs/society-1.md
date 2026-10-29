@@ -6,7 +6,7 @@ the fighting and diplomacy well but has almost nothing on the Spanish flu,
 the air aces, spies and propaganda, and the shelling of Paris. This batch
 adds them. You write the rows of your group (table below): each article in
 Polish, then its English translation; person pages likewise. Scratch files
-go in `scripts/society/tmp-<group>/` (delete when done). Don't edit other
+go in a scratch folder **outside the repo** (the scratchpad path the coordinator gives you, or `mktemp -d`; never inside the repo) (delete when done). Don't edit other
 repo files, don't run the build, don't commit.
 
 ## Read first
@@ -16,7 +16,7 @@ repo files, don't run the build, don't commit.
   every date, the chronology-style "first/last" claims, soften or attribute
   disagreements), §8 (pl.wikipedia traps). Follow them exactly.
 - `translation-brief.md` (timeline articles and person pages).
-- For person pages: `scripts/people/BRIEF.md` (the person-page format;
+- For person pages: `scripts/briefs/people.md` (the person-page format;
   ignore its batch table) and the model `src/content/postacie/wojciech-korfanty.md`.
 - The existing articles around your topic (grep), so you don't contradict
   them and can link back to them.

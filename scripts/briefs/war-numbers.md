@@ -11,7 +11,7 @@ Model: thesecondwar.pl's version for WWII,
 (read two datasets there for the tone of titles, notes and row notes).
 
 You research **only your datasets** (named in your task) and write them to
-`scripts/war-numbers/<your-part>.json` as `{ "<datasetKey>": Dataset, ... }`.
+`scripts/evidence/war-numbers/<your-part>.json` as `{ "<datasetKey>": Dataset, ... }`.
 Do not edit anything else in the repo.
 
 ## Dataset format

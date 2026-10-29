@@ -10,7 +10,7 @@ thesecondwar.pl (`/Users/lukaszskowron/Code/astro/thesecondwar.pl/src/data/serie
 read the "wrzesien-1939" entry for tone and length).
 
 You write **one** series (subject in your task). Write only your own draft
-file `scripts/series/<slug>.json`; do not edit anything else in the repo.
+file `scripts/evidence/series/<slug>.json`; do not edit anything else in the repo.
 
 ## Choosing the steps
 
@@ -67,7 +67,7 @@ file `scripts/series/<slug>.json`; do not edit anything else in the repo.
 
 Check until it prints `0 problem(s)`:
 
-    cd /Users/lukaszskowron/Code/astro/thegreatwar.pl && python3 -I scripts/series/check.py . scripts/series/<slug>.json
+    cd /Users/lukaszskowron/Code/astro/thegreatwar.pl && python3 -I scripts/checks/series.py . scripts/evidence/series/<slug>.json
 
 Report back briefly: the steps (ref + one-line why), what you left out and
 why, and any inconsistencies you noticed between articles (file + what).

@@ -117,7 +117,7 @@ report:
    still fits. Six items fit now; check widths at 1024 px.
 4. Intros: 2–4 sentences per place, PL and EN, only from the place's own
    articles, every fact backed by a verbatim quote, checked by script (the
-   same pattern as `scripts/year-intros/check.py`).
+   same pattern as `scripts/checks/year-intros.py`).
 5. Gaps: if a place central to the Polish story has fewer than 5 items, add
    articles rather than lowering the threshold. Likely gaps are
    Śląsk/Katowice, Pomorze/Gdańsk and Wielkopolska before XII 1918; see

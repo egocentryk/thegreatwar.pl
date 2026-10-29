@@ -1,13 +1,13 @@
 # Brief: society batch 2 (women, the home fronts, culture)
 
-Same rules as `scripts/society/BRIEF.md`: read its "Read first",
+Same rules as `scripts/briefs/society-1.md`: read its "Read first",
 "Timeline articles" and "Person pages" sections and follow them exactly
 (dates verified, dayOrder below the existing ones on that day, sources
 opened and read with at least 2 not Wikipedia, links only backwards,
 English translation, no build, no commit). Only the batch table is
 different: this one replaces the table in BRIEF.md.
 
-Scratch folders: `scripts/society/tmp-<group>/` (delete when done).
+Scratch folders: a scratch folder **outside the repo** (the scratchpad path the coordinator gives you, or `mktemp -d`; never inside the repo) (delete when done).
 
 **Duplicates.** Before writing a row, search titles and summaries for the
 event in all its word forms (e.g. `grep -rliE "Curie|Skłodowsk|rentgen"

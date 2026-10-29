@@ -1867,6 +1867,22 @@ New here (expansion-plan.md §A3, part 2; brief `scripts/briefs/polish-thread-2.
 
 ---
 
+## 32. Scripts tidied: checks, briefs, evidence (2026-10-29)
+
+Owner's request ("don't make a mess in the repo").
+
+- `scripts/checks/` (with a README): `year-intros.py`, `series.py`,
+  `topics.py`, `war-numbers.py` — moved from per-feature folders.
+  `scripts/briefs/`: every writer brief. `scripts/evidence/<kind>/`: the
+  quote and source files the checks read. Paths updated in the scripts,
+  briefs, workflow.md and this file; all four checks pass and regenerate
+  `series.ts` and `year-intros.json` byte for byte.
+- Writers' scratch work goes outside the repo (the briefs now say so);
+  `scripts/**/tmp-*/`, `venv/`, `.venv/` and `__pycache__/` are gitignored
+  as a safety net (a writer's pip venv had appeared in a tmp folder).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked

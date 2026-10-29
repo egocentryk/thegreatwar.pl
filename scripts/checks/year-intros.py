@@ -2,8 +2,8 @@
 """Check a year-intro draft: every sentence backed by verbatim quotes, every
 number in a sentence present in one of its quotes.
 
-Usage: python3 -I scripts/year-intros/check.py . scripts/year-intros/1916.json [more...]
-       python3 -I scripts/year-intros/check.py . --build src/data/year-intros.json scripts/year-intros/19*.json
+Usage: python3 -I scripts/checks/year-intros.py . scripts/evidence/year-intros/1916.json [more...]
+       python3 -I scripts/checks/year-intros.py . --build src/data/year-intros.json scripts/evidence/year-intros/19*.json
 
 Draft format (one year per file, e.g. 1916.json):
 {

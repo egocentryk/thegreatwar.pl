@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Check a reading-series draft and turn the drafts into src/data/series.ts.
 
-Usage: python3 -I scripts/series/check.py . scripts/series/<slug>.json [more...]
-       python3 -I scripts/series/check.py . --build src/data/series.ts scripts/series/*.json
+Usage: python3 -I scripts/checks/series.py . scripts/evidence/series/<slug>.json [more...]
+       python3 -I scripts/checks/series.py . --build src/data/series.ts scripts/evidence/series/*.json
 
 Draft format (one series per file):
 {
