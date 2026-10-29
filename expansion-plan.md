@@ -212,9 +212,9 @@ page, and both guides (improvements.md §28). "Społeczeństwo": 27 → 49.
 - Effort: about 1M tokens for 10–12 overview pages plus translation.
 - **Done 2026-10-29:** Gallipoli, Mesopotamia, Sinai–Palestine, the Arab
   Revolt, East Africa, plus campaign navigation on every battle page
-  (improvements.md §23). Still open: the Nivelle Offensive, the Hundred
-  Days, the Battles of the Isonzo as a whole, and the thin fronts (Italy,
-  Asia and the Pacific).
+  (improvements.md §23). Then (§33): the Nivelle Offensive, the Hundred
+  Days, the Battles of the Isonzo, the Pacific 1914 overview, and three
+  Italian battles (Ortigara, Col di Lana, Third Monte Grappa).
 
 ### A6. After 1918: decide with thesecondwar.pl (owner's call)
 

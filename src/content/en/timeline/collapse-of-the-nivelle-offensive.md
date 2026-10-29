@@ -2,10 +2,10 @@
 title: Collapse of the Nivelle offensive
 summary: Around 20 April 1917 the French gave up hope of a breakthrough on the Aisne. They had 20,000 prisoners and huge losses; the Chemin des Dames fighting went on.
 source: zalamanie-ofensywy-nivellea
-sourceHash: 71623887b39e432f0ac1319a698137862ec88a04
+sourceHash: b8591ec94bcb5a12b749f03bc69e343d66b4a7a2
 ---
 
-The British chronology of the war on which our timeline is based records under 20 April 1917 that the French offensive "was stopped". That is a simplification. Five days after the [start of the attack on the Chemin des Dames](/poczatek-ofensywy-nivellea) it was already clear that the great [Nivelle offensive](https://pl.wikipedia.org/wiki/Ofensywa_Nivelle’a) would not bring the promised breakthrough, and around 20 April the French command halted the full-scale attack. The fighting did not stop, however. The very next day a third army, the Tenth, went into line between the Fifth and Sixth Armies, and the offensive, turned into an operation with limited objectives, continued intermittently until 9 May. What really collapsed around 20 April was the plan to decide the war with a single blow, and faith in General [Robert Nivelle](/postacie/robert-nivelle).
+The British chronology of the war on which our timeline is based records under 20 April 1917 that the French offensive "was stopped". That is a simplification. Five days after the [start of the attack on the Chemin des Dames](/poczatek-ofensywy-nivellea) it was already clear that the great [Nivelle offensive](/bitwy/ofensywa-nivellea) would not bring the promised breakthrough, and around 20 April the French command halted the full-scale attack. The fighting did not stop, however. The very next day a third army, the Tenth, went into line between the Fifth and Sixth Armies, and the offensive, turned into an operation with limited objectives, continued intermittently until 9 May. What really collapsed around 20 April was the plan to decide the war with a single blow, and faith in General [Robert Nivelle](/postacie/robert-nivelle).
 
 ## Gains
 

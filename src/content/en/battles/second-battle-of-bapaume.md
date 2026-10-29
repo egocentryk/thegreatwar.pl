@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Otto von Below, Georg von der Marwitz]
 result: British victory. The Third Army drove the Germans from their positions east of Bapaume, and the Australians of the Fourth Army took Mont Saint-Quentin and Péronne. Together with the breaking of the Drocourt–Quéant Line this forced the Germans to retreat behind the Canal du Nord, towards the Hindenburg Line.
 source: druga-bitwa-pod-bapaume-1918
-sourceHash: 712208dd9ec553c811f10a197b3560f49a07521f
+sourceHash: 91f03b3ac108ab8af18f9b988bfa1d8405a6a3b3
 brief:
   - "The Second Battle of Bapaume, 31 August – 3 September 1918, closed the second stage of the great British offensive later called the Hundred Days Offensive."
   - "After losing Bapaume on 29 August the Germans stood on a new line along the Somme to Péronne and across the heights near Morval, Le Transloy and Frémicourt. They hoped to hold it through the winter."
@@ -18,7 +18,7 @@ brief:
   - "The battle ended the struggle for the Somme line and dashed the German hope of wintering quietly in front of the Hindenburg Line."
 ---
 
-The Second Battle of Bapaume closed the second stage of the great British offensive of the summer of 1918, later called the [Hundred Days Offensive](https://pl.wikipedia.org/wiki/Ofensywa_stu_dni). From 21 August the British Third Army of General [Julian Byng](/postacie/julian-byng) and the left wing of the Fourth Army had crossed the old Somme battlefield, and on 29 August [the New Zealanders entered abandoned Bapaume](/nowozelandczycy-odbijaja-bapaume). The Germans then stood on a new line: along the Somme to [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), and further north across the heights near Mont Saint-Quentin, Morval, Le Transloy and Frémicourt. They hoped to hold it, as well as the Drocourt–Quéant Line further north, through the winter. In four days, from 31 August to 3 September, the Australians stormed Mont Saint-Quentin and Péronne, divisions of the Third Army drove the Germans from the ridges beyond [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), and the Canadians broke the Drocourt–Quéant Line. On 2 September the German command decided to retreat to the positions from which its offensive had started in March.
+The Second Battle of Bapaume closed the second stage of the great British offensive of the summer of 1918, later called the [Hundred Days Offensive](/bitwy/ofensywa-stu-dni). From 21 August the British Third Army of General [Julian Byng](/postacie/julian-byng) and the left wing of the Fourth Army had crossed the old Somme battlefield, and on 29 August [the New Zealanders entered abandoned Bapaume](/nowozelandczycy-odbijaja-bapaume). The Germans then stood on a new line: along the Somme to [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), and further north across the heights near Mont Saint-Quentin, Morval, Le Transloy and Frémicourt. They hoped to hold it, as well as the Drocourt–Quéant Line further north, through the winter. In four days, from 31 August to 3 September, the Australians stormed Mont Saint-Quentin and Péronne, divisions of the Third Army drove the Germans from the ridges beyond [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), and the Canadians broke the Drocourt–Quéant Line. On 2 September the German command decided to retreat to the positions from which its offensive had started in March.
 
 ## Name and dates
 

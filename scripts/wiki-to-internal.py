@@ -32,6 +32,9 @@ ALIASES = {
     "Kampania_mezopotamska": "kampania-mezopotamska",
     "Kampania_synajska_i_palestyńska": "kampania-synajsko-palestynska",
     "Powstanie_arabskie_(1916–1918)": "powstanie-arabskie",
+    "Ofensywa_Nivelle’a": "ofensywa-nivellea",
+    "Ofensywa_stu_dni": "ofensywa-stu-dni",
+    "Bitwy_nad_Isonzo": "bitwy-nad-isonzo",
 }
 
 LINK = re.compile(r"\]\((https://pl\.wikipedia\.org/wiki/((?:[^()\s#]|\([^()\s]*\))+))\)")

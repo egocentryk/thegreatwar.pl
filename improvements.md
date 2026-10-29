@@ -1881,6 +1881,42 @@ Owner's request ("don't make a mess in the repo").
   `scripts/**/tmp-*/`, `venv/`, `.venv/` and `__pycache__/` are gitignored
   as a safety net (a writer's pip venv had appeared in a tmp folder).
 
+## 33. Campaign overviews, second set; the Polish thread woven in (2026-10-29)
+
+- Seven battle pages, PL and EN (brief `scripts/briefs/battles.md`):
+  - overviews: Ofensywa Nivelle'a (16 IV – 9 V 1917; 2nd Aisne, 3rd
+    Champagne; Arras stays a separate British page), Ofensywa stu dni
+    (8 VIII – 11 XI 1918; 15 existing battles under it), Bitwy nad Isonzo
+    (all twelve, Caporetto the twelfth; casualties as in war-numbers),
+    Zajęcie niemieckich kolonii w Azji i na Pacyfiku (29 VIII – 7 XI 1914;
+    Samoa, New Guinea, Micronesia, Tsingtao under it);
+  - the thin Italian front: Bitwa o Ortigarę (10–29 VI 1917), Walki o Col
+    di Lana (8 VII 1915 – 18 IV 1916, the mine), Trzecia bitwa o Monte
+    Grappa (24 X – 1 XI 1918, under Vittorio Veneto).
+  31 sub-battles registered in `battleParents.ts`; map points added (the
+  Pacific overview on the world map, centred on Chuuk). `wiki-to-internal.py`
+  aliases for Ofensywa_Nivelle’a, Ofensywa_stu_dni, Bitwy_nad_Isonzo: 20
+  articles now link our pages (18 links kept: dated before the battle).
+- The 14 Polish-thread articles (§31) woven in: 13 links from the guides
+  "Sprawa polska", "Wojna na ziemiach polskich" and "Kobiety" (a few short
+  sentences added, each with evidence quotes); the series "Droga do
+  niepodległości" gains Korfanty in the Reichstag and the Naczelna Rada
+  Ludowa (18 steps). Not linked from any guide: the Vilnius conference,
+  the Lithuanian act, the Poznań soldiers' councils.
+
+### Writers' notes (for the review list)
+
+- `battles/1918/bitwa-pod-vittorio-veneto`: Giardino "halted after three
+  days" — the 4th Army attacked again on 29 X (Edmonds, it.wiki).
+- `battles/1917/pierwsza-bitwa-nad-piawa`: links "alpini" to the generic
+  Strzelcy_alpejscy (on the traps list).
+- Nivelle dismissed 15 V (our article, fr.wiki) vs 16 V (en.wiki).
+- Pacific: AN&MEF 1,000 + 500 (our articles, AWM encyclopedia) vs 1,500 +
+  500 (AWM media kit); New Ireland occupied 17 X
+  (`kapitulacja-niemieckiej-nowej-gwinei`) vs the Nusa taken at Kavieng in
+  September (`australijczycy-zdobywaja-komet`); Japanese name order differs
+  between the Tsingtao page (Western) and the Yap article (Japanese).
+
 ---
 
 ## Roadmap (checklist)
@@ -1968,6 +2004,9 @@ finished, tick it here and add its section above.
   page, and guides 11–12 (trenches, women), PL/EN (§28)
 - [x] Polish thread, part 2: 14 articles (POW, Prussian partition, Cieszyn,
   Lithuania, Jews in the Polish lands, Legia Kobiet), PL/EN (§31)
+- [x] Campaign overviews, second set (Nivelle, Hundred Days, Isonzo, the
+  Pacific 1914) and three Italian battles; Polish-thread articles linked
+  from the guides and the series (§33)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

@@ -2,7 +2,7 @@
 title: Battle of Amiens begins
 summary: On 8 August 1918, in fog, Canadians, Australians and tanks broke the front at Amiens, taking over 15,000 prisoners. Ludendorff called it the "black day".
 source: poczatek-bitwy-pod-amiens
-sourceHash: bcb79fc1258cf22e3b0c19808ce1d4a3b71755eb
+sourceHash: c40e0d7ce3e13f96a4021a7ebbc4b5fcafa4f3bf
 brief:
   - "At 4.20 a.m. on 8 August 1918, without a preliminary bombardment, the Canadian, Australian and British divisions of General Rawlinson's Fourth Army attacked at Amiens with more than four hundred tanks. The French First Army attacked alongside."
   - "The preparations took less than two weeks and were carried out in the utmost secrecy. The Canadian Corps was brought from Arras by night, while two of its battalions pretended in Flanders that the whole corps was heading for Ypres."
@@ -65,4 +65,4 @@ On the German side there was chaos. A German monograph of the 1920s wrote: "As t
 
 Ludendorff received the first reports at the Supreme Army Command headquarters at Avesnes. The numbers of prisoners and guns were not yet exceptional in this war, but news came from the front that frightened him more than the lost ground: whole units surrendering to single horsemen and tanks, officers losing control over their men, and retreating soldiers greeting divisions going up to the front with shouts of "blacklegs" and "war prolongers". In his memoirs Ludendorff wrote: "August 8th was the black day of the German Army in the history of this war." He concluded that a return to the offensive was no longer possible and that the war would have to be ended.
 
-For the Allies 8 August was the most successful day of the war on the Western Front. Surprise without registering the guns, tanks, aircraft and careful logistics, tested in July [at Hamel](/bitwy/bitwa-pod-hamel) and earlier, with less success, [at Cambrai](/bitwy/bitwa-pod-cambrai-1917), worked on a large scale. The battle went on for three more days, with diminishing success, but from that day the Allied armies did not stop until the armistice. The period was later called the [Hundred Days Offensive](https://pl.wikipedia.org/wiki/Ofensywa_stu_dni).
+For the Allies 8 August was the most successful day of the war on the Western Front. Surprise without registering the guns, tanks, aircraft and careful logistics, tested in July [at Hamel](/bitwy/bitwa-pod-hamel) and earlier, with less success, [at Cambrai](/bitwy/bitwa-pod-cambrai-1917), worked on a large scale. The battle went on for three more days, with diminishing success, but from that day the Allied armies did not stop until the armistice. The period was later called the [Hundred Days Offensive](/bitwy/ofensywa-stu-dni).
