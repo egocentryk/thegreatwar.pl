@@ -8,6 +8,7 @@
 import { Image } from "astro:assets"
 import BattleLocator from "@/components/BattleLocator.astro"
 import SidebarSeries from "@/components/SidebarSeries.astro"
+import TopicBox from "@/components/TopicBox.astro"
 import SidebarSupport from "@/components/SidebarSupport.astro"
 import { locale, type Lang } from "@/i18n"
 import { localBattles, localPeople } from "@/i18n/local"
@@ -180,6 +181,7 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
     )
   }
 
+  <TopicBox ref={id} lang={lang} variant="sidebar" />
   <SidebarSeries ref={id} lang={lang} />
 
   <SidebarSupport lang={lang} />

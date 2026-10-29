@@ -1509,6 +1509,64 @@ New here (expansion-plan.md §A5).
 
 ---
 
+## 24. Topic guides ("Tematy") (2026-10-29)
+
+New here (expansion-plan.md §A1).
+
+- A new page type for broad questions: content collections `topics`
+  (`src/content/topics/<slug>.md`, PL) and `topicsEn`
+  (`src/content/en/topics/`, `source:` + `sourceHash` like other
+  translations; `scripts/i18n-status.mjs` now checks them too). Fields:
+  title, summary, brief, order, updated, series, authors, sources.
+- Pages: `/tematy`, `/tematy/<slug>`, `/en/topics`, `/en/topics/<slug>`
+  (`TopicPage.astro`, `TopicCards.astro`, `utils/topics.ts`). A guide page
+  has: a lead that answers the question, "W skrócie", a contents list (in
+  the sidebar on wide screens), the text with glossary marks and person
+  previews, "Najważniejsze daty" (every article and battle page the text
+  links, in date order), sources, and the related series. JSON-LD: an
+  Article with `dateModified` (`topicLd`) and breadcrumbs.
+- `/tematy` and the homepage section are a list of questions, not cards
+  (owner's choice, so they don't look like the series): number, guide title,
+  the question in the display font (`question:` field, PL and EN, phrased
+  as readers search: "Dlaczego wybuchła I wojna światowa?"), the opening
+  answer, the section titles (on /tematy), and "7 rozdziałów · 24 daty ·
+  ok. 13 min". On the homepage two columns, without the sections line.
+- Links in: "Tematy" in the top menu, a section on the homepage after
+  "Od czego zacząć", a link on `/timeline`, and a "Temat" box
+  (`TopicBox.astro`) under the text and in the sidebar of every article and
+  battle page a guide links, automatically (125 pages in each language).
+- Guides are not dated, so unlike articles they may link any page.
+- Four guides, PL and EN, 2,150–2,650 words each, 39–40 links to our pages:
+  Przyczyny I wojny światowej, Skutki I wojny światowej, Sprawa polska w
+  czasie I wojny światowej, Nowe rodzaje broni w I wojnie światowej.
+- **How:** one writer agent per guide (brief: `scripts/topics/BRIEF.md`).
+  Every paragraph has an evidence entry in `scripts/topics/<slug>.json`:
+  verbatim quotes from our articles (checked by script) or from opened web
+  pages listed in the guide's `sources:`; every number in a paragraph must be
+  in its quotes. `python3 -I scripts/topics/check.py . <slug>` checks that,
+  the internal links and the brief's numbers. Figures agree with
+  `war-numbers.json` and the year intros, which the guides quote.
+
+- Top menu: "O projekcie" / "About" moved from the menu to the footer (the
+  footer link follows the page language); the menu has six items.
+
+**Port to thesecondwar.pl:** the whole set; its curriculum topics are the
+same kind of question (przyczyny, skutki, okupacja, Zagłada).
+
+### Writers' notes (for the review list)
+
+- U-boat war, April 1917 shipping losses: "ponad 860 tysięcy"
+  (`niemcy-oglaszaja-nieograniczona-wojne-podwodna`) vs "880 tysięcy"
+  (`poczatek-nieograniczonej-wojny-podwodnej`) vs "od około 835 do ponad 860
+  tysięcy" (`komitet-do-spraw-konwojow`); en.wiki 881,027.
+- Bruchmüller: "podpułkownik" (Riga article) vs "pułkownik" (glossary).
+- Gas injuries: glossary "ponad milion" vs OPCW "close to a million".
+- The 15–40 link range was read as a hard cap: the writers dropped person
+  links (Lenin, Ebert, Masaryk, Ludendorff…) and battle links; they can be
+  added back.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1583,6 +1641,8 @@ finished, tick it here and add its section above.
 - [x] "Wojna w liczbach": 4 headline figures and 9 sourced charts, PL/EN (§22)
 - [x] Campaign overviews (Gallipoli, Mesopotamia, Sinai–Palestine, Arab Revolt,
   East Africa) and campaign navigation on every battle page (§23)
+- [x] Topic guides ("Tematy"): causes, results, the Polish question, new
+  weapons, PL/EN, with "Temat" boxes on 125 pages (§24)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

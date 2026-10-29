@@ -1,0 +1,39 @@
+---
+// "Temat" on an article or battle page that a topic guide links
+// (utils/topics.ts). `variant="sidebar"` for the wide-screen sidebar, the
+// default under the text on smaller screens.
+import type { Lang } from "@/i18n"
+import { topicsOf } from "@/utils/topics"
+
+interface Props {
+  // Polish id: a timeline slug, or "bitwy/<slug>" for a battle page.
+  ref: string
+  lang?: Lang
+  variant?: "box" | "sidebar"
+}
+
+const { ref, lang = "pl", variant = "box" } = Astro.props
+const found = (await topicsOf(ref, lang)).slice(0, 2)
+const label = lang === "en" ? "Topic" : "Temat"
+---
+
+{
+  found.map((topic) =>
+    variant === "sidebar" ? (
+      <div class="border-line border-t pt-5">
+        <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{label}</p>
+        <a href={topic.href} class="font-display text-ink hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+          {topic.title} →
+        </a>
+      </div>
+    ) : (
+      <aside class="border-line bg-surface mt-12 max-w-2xl rounded-sm border p-5 print:hidden">
+        <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{label}</p>
+        <a href={topic.href} class="font-display text-ink hover:text-signal mt-1 block text-lg transition-colors">
+          {topic.title} →
+        </a>
+        <p class="text-ink-soft mt-1 text-sm leading-6">{topic.summary}</p>
+      </aside>
+    ),
+  )
+}

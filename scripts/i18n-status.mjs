@@ -18,7 +18,7 @@ import { readFileSync, writeFileSync, readdirSync, statSync } from "node:fs"
 import { join, basename } from "node:path"
 
 const ROOT = new URL("..", import.meta.url).pathname
-const KINDS = { timeline: "timeline", battles: "battles", people: "postacie" }
+const KINDS = { timeline: "timeline", battles: "battles", people: "postacie", topics: "topics" }
 const stampArg = process.argv.find((a) => a.startsWith("--stamp"))
 const stampOne = stampArg?.includes("=") ? stampArg.split("=")[1] : null
 const ci = process.argv.includes("--ci")

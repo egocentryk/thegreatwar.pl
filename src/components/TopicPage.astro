@@ -1,0 +1,210 @@
+---
+// One topic guide (utils/topics.ts): title and lead, "W skrócie", the text
+// with a contents list, the key dates (every article and battle page the text
+// links, in date order), sources. Used by /tematy/<id> and /en/topics/<slug>.
+import { render } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import GlossaryMarks from "@/components/GlossaryMarks.astro"
+import InBrief from "@/components/InBrief.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
+import ReportError from "@/components/ReportError.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import SidebarSupport from "@/components/SidebarSupport.astro"
+import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
+import { SERIES } from "@/data/series"
+import { locale, rewriteEnHtml, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { formatDate } from "@/utils/formatDate"
+import { termsIn } from "@/utils/glossary"
+import { breadcrumbLd, topicLd } from "@/utils/jsonLd"
+import { pageEntities } from "@/utils/pageEntities"
+import { resolveSeries } from "@/utils/series"
+import { readingList, type LocalTopic } from "@/utils/topics"
+import { slugify } from "@/utils/slugify"
+
+interface Props {
+  topic: LocalTopic
+  lang?: Lang
+}
+
+const { topic, lang = "pl" } = Astro.props
+const en = lang === "en"
+const to = paths(lang)
+const { source } = topic
+const { Content, headings } = await render(topic.entry)
+const html = en ? await rewriteEnHtml(topic.entry.rendered?.html ?? "") : undefined
+const contents = headings.filter((h) => h.depth === 2)
+const dates = await readingList(topic, lang)
+const seriesSource = source.data.series ? SERIES.find((s) => s.slug === source.data.series) : undefined
+const series = seriesSource ? await resolveSeries(seriesSource, lang) : undefined
+const glossaryTerms = termsIn(topic.entry.body ?? "", lang, source.id)
+const updated = formatDate(source.data.updated, "long", undefined, locale(lang))
+
+const t = {
+  pl: {
+    back: "← Wszystkie tematy",
+    eyebrow: "Temat",
+    contents: "W tym tekście",
+    dates: "Najważniejsze daty",
+    battle: "Bitwa",
+    updated: "Aktualizacja",
+    authors: (n: number) => (n > 1 ? "Autorzy" : "Autor"),
+    series: "Czytaj po kolei",
+    topics: "Tematy",
+  },
+  en: {
+    back: "← All topics",
+    eyebrow: "Topic",
+    contents: "In this guide",
+    dates: "Key dates",
+    battle: "Battle",
+    updated: "Updated",
+    authors: (n: number) => (n > 1 ? "Authors" : "Author"),
+    series: "Read in order",
+    topics: "Topics",
+  },
+}[lang]
+
+const entities = await pageEntities(Astro.site!, lang, { body: source.body ?? "" })
+const jsonLd = [
+  topicLd(Astro.site!, {
+    ...entities,
+    lang,
+    path: topic.href,
+    title: topic.title,
+    summary: topic.summary,
+    updated: source.data.updated,
+    authors: source.data.authors,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: en ? "Home" : "Strona główna", path: to.home },
+    { name: t.topics, path: to.topics },
+    { name: topic.title, path: topic.href },
+  ]),
+]
+---
+
+<BaseLayout
+  jsonLd={jsonLd}
+  title={topic.title}
+  description={topic.summary}
+  lang={lang}
+  alternates={topic.alternate ? (en ? { pl: topic.alternate } : { en: topic.alternate }) : {}}
+>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-6xl px-6">
+      <a href={to.topics} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors print:hidden">{t.back}</a>
+
+      <p class="text-signal mt-6 font-mono text-[10px] tracking-[0.2em] uppercase">{t.eyebrow}</p>
+      <h1 class="font-display text-ink mt-3 max-w-3xl text-3xl font-medium text-balance sm:text-4xl">{topic.title}</h1>
+      <p class="text-ink mt-4 max-w-2xl text-lg leading-8">{topic.summary}</p>
+
+      <dl class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs">
+        <div>
+          <dt class="inline">{t.authors(source.data.authors.length)}: </dt>
+          <dd class="inline">
+            {
+              source.data.authors.map((name, index) => (
+                <>
+                  {index > 0 && ", "}
+                  <a href={`/${en ? "en/author" : "autor"}/${slugify(name)}`} class="text-ink hover:text-signal transition-colors">
+                    {name}
+                  </a>
+                </>
+              ))
+            }
+          </dd>
+        </div>
+        <div>
+          <dt class="inline">{t.updated}: </dt><dd class="inline">{updated}</dd>
+        </div>
+      </dl>
+
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <InBrief points={topic.brief} lang={lang} />
+
+          {
+            contents.length > 2 && (
+              <nav class="border-line mt-8 max-w-2xl border-l-2 pl-5 lg:hidden" aria-label={t.contents}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.contents}</p>
+                <ol class="mt-2 space-y-1 text-sm">
+                  {contents.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-ink hover:text-signal transition-colors">{h.text}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            )
+          }
+
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
+            {en ? <Fragment set:html={html} /> : <Content />}
+            <GlossaryMarks terms={glossaryTerms} lang={lang} />
+            <PersonPreviews body={topic.entry.body ?? ""} lang={lang} />
+          </div>
+
+          <Sources sources={source.data.sources} lang={lang} />
+          <ReportError title={topic.title} lang={lang} />
+          <div class="lg:hidden">
+            <SupportCard lang={lang} />
+          </div>
+        </div>
+
+        <aside class="hidden space-y-8 pt-10 lg:block print:hidden">
+          {
+            contents.length > 2 && (
+              <nav aria-label={t.contents}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.contents}</p>
+                <ol class="mt-3 space-y-2 text-sm">
+                  {contents.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-ink hover:text-signal leading-snug transition-colors">{h.text}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            )
+          }
+          {
+            series && (
+              <div class="border-line border-t pt-5">
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.series}</p>
+                <a href={series.href} class="font-display text-ink hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+                  {series.title} →
+                </a>
+              </div>
+            )
+          }
+          <SidebarSupport lang={lang} />
+        </aside>
+      </div>
+
+      {
+        dates.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow={t.dates} count={dates.length} />
+            <ol class="border-line border-t">
+              {dates.map((item) => (
+                <li class="border-line border-b">
+                  <a href={item.href} class="group grid gap-x-4 py-3 sm:grid-cols-[13rem_1fr]">
+                    <span class="text-ink-soft font-mono text-xs leading-6">{item.when}</span>
+                    <span class="min-w-0">
+                      <span class="text-ink group-hover:text-signal block transition-colors">
+                        {item.battle && <span class="text-ink-soft mr-2 font-mono text-[9px] tracking-[0.2em] uppercase">{t.battle}</span>}
+                        {item.title}
+                      </span>
+                      <span class="text-ink-soft mt-0.5 block text-sm leading-6">{item.summary}</span>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>

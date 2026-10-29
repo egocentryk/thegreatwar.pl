@@ -1,0 +1,583 @@
+{
+ "slug": "nowe-rodzaje-broni-w-i-wojnie-swiatowej",
+ "paragraphs": [
+  {
+   "start": "I wojna światowa była pierwszą wielką wojną przemysłową",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Gdy jesienią 1914 roku zawiodły plany szybkiej wojny, a front zastygł w okopach, o wyniku zaczęły decydować liczba żołnierzy, produkcja przemysłu i wytrzymałość społeczeństw."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Karabiny maszynowe, szybkostrzelna artyleria i zasieki z drutu kolczastego dawały obrońcy tak dużą przewagę, że natarcia piechoty kończyły się ogromnymi stratami, a zdobycze liczono w setkach metrów."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Z impasu na zachodzie wyprowadziły dopiero w 1918 roku nowe metody: krótki, starannie zaplanowany ostrzał, taktyka oddziałów szturmowych, czołgi i współdziałanie wszystkich rodzajów broni."
+    }
+   ]
+  },
+  {
+   "start": "Pierwszy w pełni samoczynny karabin maszynowy zbudował",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Pierwszy w pełni samoczynny karabin maszynowy zbudował w połowie lat 80. XIX wieku Hiram Maxim. W 1914 roku wszystkie armie miały jego odmiany lub podobne konstrukcje: niemiecki MG 08, rosyjski Maxim, brytyjski Vickers, austro-węgierski Schwarzlose, francuski Hotchkiss."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Broń samoczynna strzelająca seriami, kilkaset pocisków na minutę."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Kaemy ustawione w ukryciu, z krzyżującymi się polami ostrzału, zadawały piechocie nacierającej w otwartym polu ogromne straty i w dużej mierze zepchnęły żołnierzy do okopów."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Po bitwie nad Marną i wyścigu do morza jesienią 1914 roku na zachodzie powstał nieprzerwany front od wybrzeża Belgii po granicę Szwajcarii, długi na około 700 kilometrów. Karabiny maszynowe, szybkostrzelna artyleria i zasieki z drutu kolczastego dawały obrońcy tak dużą przewagę, że natarcia piechoty kończyły się ogromnymi stratami, a zdobycze liczono w setkach metrów."
+    }
+   ]
+  },
+  {
+   "start": "Najgroźniejszą bronią frontu zachodniego była jednak",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W wojnie pozycyjnej ciężkie działa stały się główną bronią niszczącą okopy, schrony i baterie przeciwnika"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W 1914 roku moździerze Kruppa kalibru 420 mm, zwane Grubymi Bertami, i austro-węgierskie moździerze Škody kalibru 305 mm rozbiły forty Liège, Namuru, Maubeuge i Antwerpii"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Metodę dopracował niemiecki pułkownik Georg Bruchmüller: strzelanie z map bez wstrzeliwania, kolejne fazy ognia na łączność, artylerię i okopy, gaz i na koniec ruchoma zapora. Zastosowano ją pod Rygą w 1917 roku"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "1 lipca 1916 roku, po tygodniowym ostrzale artyleryjskim, brytyjska 4 Armia i francuska 6 Armia uderzyły na niemieckie pozycje po obu stronach rzeki Sommy w Pikardii. Pierwszy dzień przyniósł Brytyjczykom największe straty w ich dziejach: ponad 57 tysięcy zabitych, rannych i zaginionych"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Wielodniowe przygotowanie artyleryjskie, typowe dla natarć z lat 1915–1917, zdradzało miejsce ataku: obrońcy przeczekiwali je w głębokich schronach i ściągali odwody. Krótki ostrzał o wielkiej gęstości miał ogłuszyć i sparaliżować obronę na tak długo, by piechota zdążyła przejść ziemię niczyją. Brytyjczycy pod Neuve-Chapelle w marcu 1915 roku strzelali 35 minut"
+    }
+   ]
+  },
+  {
+   "start": "Pierwsi po gaz na dużą skalę sięgnęli Niemcy.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/01/niemiecki-atak-gazowy-pod-bolimowem.md",
+     "quote": "Rankiem 31 stycznia 1915 roku niemiecka artyleria otworzyła ogień na rosyjskie okopy nad Rawką, w okolicach Bolimowa. Wśród zwykłych pocisków na pozycje rosyjskie spadło około 18 tysięcy pocisków wypełnionych środkiem łzawiącym."
+    },
+    {
+     "file": "src/content/timeline/1915/01/niemiecki-atak-gazowy-pod-bolimowem.md",
+     "quote": "Zakończył się niepowodzeniem: w mroźnym powietrzu gaz prawie nie parował."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "Chemik Fritz Haber, dyrektor Instytutu Chemii Fizycznej Cesarza Wilhelma w Berlinie, zaproponował inną metodę: wypuścić gaz prosto z butli i pozwolić, by wiatr zaniósł go na okopy przeciwnika. Wybrał chlor. Niemiecki przemysł chemiczny produkował go w dużych ilościach, przechowywano go w zwykłych butlach przemysłowych, a jako gaz cięższy od powietrza miał płynąć przy ziemi i spływać do okopów."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Użycia gazów zakazywała deklaracja haska z 1899 roku, ale sięgnęły po nie wszystkie główne strony."
+    }
+   ]
+  },
+  {
+   "start": "22 kwietnia 1915 roku pod Ypres niemieccy saperzy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "22 kwietnia 1915 roku, pod wieczór, na północnym skraju łuku frontu wokół Ypres niemieccy saperzy odkręcili zawory kilku tysięcy stalowych butli."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "Do 11 kwietnia na froncie długości około 6 kilometrów zakopano według kanadyjskiej historii oficjalnej 5730 butli, większych i mniejszych."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "Żołnierze nie mieli żadnej ochrony przed gazem."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "W ciągu godziny ich obrona przestała istnieć, a w alianckim froncie otworzyła się wyrwa szeroka na kilka kilometrów."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "Współcześni historycy szacują liczbę zabitych przez gaz na 800–1400, a zatrutych na 2–3 tysiące ludzi."
+    }
+   ]
+  },
+  {
+   "start": "Gaz szybko stał się bronią codzienną.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na ziemiach polskich chloru użyli w maju 1915 roku nad Rawką i Bzurą, a w sierpniu pod Osowcem. Brytyjczycy odpowiedzieli gazem pod Loos we wrześniu 1915 roku."
+    },
+    {
+     "file": "src/content/timeline/1915/12/haig-dowodca-wojsk-brytyjskich-we-francji.md",
+     "quote": "O świcie 19 grudnia Niemcy wypuścili pod Ypres na brytyjski VI Korpus chmurę gazu, w której po raz pierwszy na froncie zachodnim do chloru dodano znacznie groźniejszy fosgen."
+    },
+    {
+     "file": "src/content/timeline/1915/12/haig-dowodca-wojsk-brytyjskich-we-francji.md",
+     "quote": "Według brytyjskiej historii oficjalnej gazem zatruło się jednak 1069 ludzi, z których 120 zmarło."
+    },
+    {
+     "file": "src/content/timeline/1916/06/niemcy-zdobywaja-thiaumont.md",
+     "quote": "Wieczorem 22 czerwca artyleria zaczęła ostrzeliwać rejon Froideterre – Fleury – Souville – Tavannes pociskami oznaczonymi zielonym krzyżem, wypełnionymi difosgenem, duszącym gazem silniejszym od używanego wcześniej chloru. Według różnych obliczeń wystrzelono ich ponad 100 tysięcy"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Później wprowadzono groźniejszy fosgen, a od lipca 1917 roku iperyt, nazwany od Ypres, który parzył skórę i długo utrzymywał się w terenie."
+    }
+   ]
+  },
+  {
+   "start": "Obrona przyszła równie szybko.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "Już następnego dnia żołnierzom kazano zasłaniać usta i nos mokrymi chustkami, a wkrótce zaczęto w pośpiechu szyć pierwsze prowizoryczne maski."
+    },
+    {
+     "file": "src/content/timeline/1915/12/haig-dowodca-wojsk-brytyjskich-we-francji.md",
+     "quote": "Żołnierze byli ostrzeżeni i mieli maski przeciwgazowe w postaci nasączonych kapturów, więc niemieckie patrole, które ruszyły za chmurą, zostały odparte."
+    },
+    {
+     "file": "src/content/timeline/1917/09/poczatek-bitwy-o-ryge.md",
+     "quote": "W pierwszej fazie strzelano głównie pociskami gazowymi, łącząc duszący „zielony krzyż” z drażniącym „niebieskim krzyżem”, który przenikał przez maski przeciwgazowe i zmuszał żołnierzy do ich zdejmowania."
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-o-wzgorze-70.md",
+     "quote": "Kompanie specjalne brytyjskich saperów wystrzeliwały na Lens z wyrzutni Livensa beczki z gazem"
+    },
+    {
+     "file": "src/content/timeline/1917/10/poczatek-bitwy-pod-caporetto.md",
+     "quote": "Pod Bovcem, po włosku Plezzo, niemiecki 35 batalion pionierów odpalił elektrycznie 894 zakopane w ziemi miotacze, wzorowane na brytyjskich miotaczach Livensa. Ich pociski wypełniły fosgenem wąwóz za włoską pierwszą linią, w którym kryli się żołnierze 87 pułku piechoty z brygady Friuli."
+    }
+   ]
+  },
+  {
+   "start": "Według Organizacji ds. Zakazu Broni Chemicznej",
+   "quotes": [
+    {
+     "url": "https://www.opcw.org/about-us/history",
+     "quote": "By the war's end, some 124,200 tonnes of chlorine, mustard and other chemical agents had been released"
+    },
+    {
+     "url": "https://www.opcw.org/about-us/history",
+     "quote": "more than 90,000 soldiers had suffered painful deaths due to exposure to them. Close to a million more people left the battlefields blind, disfigured or with debilitating injuries."
+    },
+    {
+     "url": "https://www.nam.ac.uk/explore/weapons-western-front",
+     "quote": "Despite all of this, British and Commonwealth forces suffered over 180,000 gas casualties during the conflict."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Maski przeciwgazowe szybko ograniczyły skuteczność tej broni."
+    }
+   ]
+  },
+  {
+   "start": "Czołg był brytyjską odpowiedzią na okopy i zasieki.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Nad „okrętem lądowym” pracował w Wielkiej Brytanii od 1915 roku komitet powołany przez Admiralicję. Dla zachowania tajemnicy robotnikom mówiono, że budują zbiorniki na wodę, i od tego pochodzi angielska nazwa tank."
+    },
+    {
+     "file": "src/content/timeline/1916/09/poczatek-bitwy-pod-flers-courcelette.md",
+     "quote": "15 września 1916 nad Sommą do boju po raz pierwszy weszły czołgi."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-flers-courcelette.md",
+     "quote": "Do ataku stanęło więc 36 czołgów."
+    },
+    {
+     "file": "src/content/timeline/1916/09/poczatek-bitwy-pod-flers-courcelette.md",
+     "quote": "Wiele utknęło lub zgubiło drogę, ale pod Flers czołg wjechał główną ulicą wsi, a za nim szli wiwatujący żołnierze."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-flers-courcelette.md",
+     "quote": "Twórcy czołgu, ze Swintonem na czele, ostrzegali przed użyciem kilkudziesięciu maszyn naraz."
+    }
+   ]
+  },
+  {
+   "start": "Pierwsze czołgi były powolne i zawodne.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Pierwsze Mark I pod Flers-Courcelette były powolne i zawodne, wiele utknęło lub się zepsuło, ale zaskoczyły Niemców. Francuzi użyli swoich czołgów po raz pierwszy w kwietniu 1917 roku."
+    },
+    {
+     "file": "src/content/timeline/1917/07/utworzenie-korpusu-pancernego.md",
+     "quote": "28 lipca 1917 brytyjskie oddziały czołgów wyodrębniono z Korpusu Karabinów Maszynowych jako samodzielny Tank Corps."
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-cambrai-1917.md",
+     "quote": "Rankiem 20 listopada 1917 roku brytyjska 3 Armia generała Juliana Bynga zaatakowała na południowy zachód od Cambrai bez zwykłego, wielodniowego ostrzału. Kilkaset czołgów zgniotło zasieki uważanej za niezdobytą Linii Hindenburga"
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-cambrai-1917.md",
+     "quote": "Korpus Pancerny przysłał wszystkie trzy brygady, łącznie 476 czołgów Mark IV: 378 bojowych"
+    },
+    {
+     "file": "src/content/battles/1917/bitwa-pod-cambrai-1917.md",
+     "quote": "Pierwszego dnia z 378 czołgów bojowych z walki wypadło 179"
+    }
+   ]
+  },
+  {
+   "start": "W 1918 roku czołgi, zwłaszcza lekki francuski",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W 1918 roku czołgi, zwłaszcza lekki francuski Renault FT z obrotową wieżą, stały się stałym elementem alianckich natarć. Niemcy zbudowali tylko około 20 własnych A7V; 24 kwietnia 1918 roku pod Villers-Bretonneux doszło do pierwszego w historii pojedynku czołgów."
+    },
+    {
+     "file": "src/content/timeline/1918/07/australijczycy-zdobywaja-hamel.md",
+     "quote": "4 lipca 1918 o 3.10 Australijczycy z czołgami Mark V i Amerykanami ruszyli na Hamel nad Sommą. W około półtorej godziny zajęli wieś, lasy i grzbiet za nimi."
+    },
+    {
+     "file": "src/content/timeline/1918/07/kontrofensywa-mangina.md",
+     "quote": "18 lipca 1918 francuska 10 Armia Mangina z Amerykanami i setkami czołgów uderzyła"
+    },
+    {
+     "file": "src/content/timeline/1918/08/poczatek-bitwy-pod-amiens.md",
+     "quote": "8 sierpnia 1918 we mgle Kanadyjczycy, Australijczycy i czołgi przełamali front pod Amiens, biorąc ponad 15 tysięcy jeńców. Ludendorff nazwał to „czarnym dniem”."
+    }
+   ]
+  },
+  {
+   "start": "Na początku wojny samoloty służyły do rozpoznania",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na początku wojny samoloty służyły do rozpoznania i kierowania ogniem artylerii, a lotnicy strzelali do siebie z pistoletów i karabinów. Przełomem było uzbrojenie strzelające do przodu, w kierunku lotu. Wiosną 1915 roku Francuz Roland Garros osłonił śmigło stalowymi klinami, a latem Niemcy wprowadzili jednopłatowiec Fokker z synchronizatorem. Dało im to przewagę, zwaną plagą Fokkerów"
+    },
+    {
+     "file": "src/content/timeline/1914/09/pierwsza-lacznosc-radiowa-samolotu-z-artyleria.md",
+     "quote": "We wrześniu 1914 lotnicy Royal Flying Corps nad Aisne po raz pierwszy kierowali ogniem artylerii przez radio."
+    },
+    {
+     "file": "src/content/timeline/1916/04/koniec-plagi-fokkerow.md",
+     "quote": "Wiosną 1916 nowe alianckie myśliwce i loty w grupach odebrały Fokkerom przewagę nad frontem zachodnim."
+    }
+   ]
+  },
+  {
+   "start": "Od 1916 roku myśliwce łączono w wyspecjalizowane",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Od 1916 roku myśliwce łączono w wyspecjalizowane eskadry, w Niemczech zwane Jagdstaffeln, tworzone z udziałem Oswalda Boelckego. Walczyły o panowanie w powietrzu, osłaniały samoloty rozpoznawcze i bombowe, atakowały balony obserwacyjne, a pod koniec wojny także wojska na ziemi. W 1917 roku nad frontem walczyły już całe formacje kilkudziesięciu maszyn."
+    },
+    {
+     "file": "src/content/postacie/oswald-boelcke.md",
+     "quote": "Gdy 28 października 1916 roku zginął w wypadku, miał 25 lat i 40 uznanych zwycięstw"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "pilotów z co najmniej pięcioma zwycięstwami nazywano asami"
+    },
+    {
+     "file": "src/content/postacie/oswald-boelcke.md",
+     "quote": "Jego uczniowie, z Manfredem von Richthofenem na czele, przez kolejne dwa lata walczyli według jego reguł."
+    },
+    {
+     "file": "src/content/timeline/1918/04/smierc-czerwonego-barona.md",
+     "quote": "21 kwietnia 1918 nad doliną Sommy zginął Manfred von Richthofen, as z 80 zwycięstwami."
+    }
+   ]
+  },
+  {
+   "start": "Lotnictwo przeniosło wojnę nad miasta.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "19 stycznia 1915 roku sterowce po raz pierwszy zbombardowały Anglię. W około 50 nalotach zginęło ponad 500 osób. Wypełnione wodorem sterowce były jednak bardzo wrażliwe na ogień: od 1916 roku brytyjscy lotnicy niszczyli je pociskami zapalającymi. Po zestrzeleniu SL 11 we wrześniu 1916 roku armia wycofała sterowce z nalotów, a marynarka prowadziła je do sierpnia 1918 roku. Bombardowanie Anglii przejęły samoloty."
+    },
+    {
+     "file": "src/content/timeline/1918/08/ostatni-nalot-zeppelinow.md",
+     "quote": "Brytyjski DH.4 zestrzelił nad morzem L 70, na którym zginął Peter Strasser, szef sterowców."
+    },
+    {
+     "file": "src/content/timeline/1917/06/nalot-gothow-na-londyn.md",
+     "quote": "13 czerwca 1917 czternaście Goth zbombardowało w biały dzień City i East End. Zginęły 162 osoby"
+    },
+    {
+     "file": "src/content/timeline/1917/06/nalot-gothow-na-londyn.md",
+     "quote": "Był to najkrwawszy pojedynczy nalot na Wielką Brytanię w całej wojnie."
+    }
+   ]
+  },
+  {
+   "start": "Lotnictwo stawało się osobnym rodzajem sił zbrojnych.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/11/powstanie-niemieckich-sil-powietrznych.md",
+     "quote": "Jesienią 1916 Niemcy połączyli lotnictwo, sterowce armii, artylerię przeciwlotniczą i obronę powietrzną kraju w Luftstreitkräfte pod jednym dowódcą."
+    },
+    {
+     "file": "src/content/timeline/1918/04/powstanie-raf.md",
+     "quote": "Pomysł zrodził się latem 1917 roku, po dziennych nalotach niemieckich bombowców na Londyn. Generał Jan Smuts, członek Gabinetu Wojennego, w raporcie z 17 sierpnia 1917 roku zalecił utworzenie odrębnej służby lotniczej, równorzędnej z armią i marynarką."
+    },
+    {
+     "file": "src/content/timeline/1918/04/powstanie-raf.md",
+     "quote": "1 kwietnia 1918 z połączenia Royal Flying Corps i Royal Naval Air Service powstały Królewskie Siły Powietrzne, samodzielne obok armii i floty."
+    },
+    {
+     "file": "src/content/timeline/1918/06/utworzenie-independent-force.md",
+     "quote": "5 czerwca 1918 Hugh Trenchard objął dowództwo nad brytyjskimi bombowcami pod Nancy. Nazajutrz powstały z nich Siły Niezależne do nalotów na Niemcy."
+    },
+    {
+     "file": "src/content/timeline/1918/06/utworzenie-independent-force.md",
+     "quote": "Miały one bombardować przemysł, koleje i lotniska w zachodnich Niemczech"
+    }
+   ]
+  },
+  {
+   "start": "Skalę tej zmiany pokazuje produkcja.",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Francja\", \"labelEn\": \"France\", \"low\": 52000, \"high\": 67987,"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Wielka Brytania\", \"labelEn\": \"United Kingdom\", \"low\": 52000, \"high\": 58144,"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Niemcy\", \"labelEn\": \"Germany\", \"low\": 47637, \"high\": 48537,"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Zestawienia różnią się tym, czy liczą tylko płatowce przyjęte przez wojsko i jak ujmują 1914 i koniec 1918 roku"
+    },
+    {
+     "url": "https://theaerodrome.com/aircraft/statistics.php",
+     "quote": "Aircraft Production France 67,987 Great Britain 58,144 Germany 48,537 Italy 20,000 United States 15,000 Austria-Hungary 5,431 Russia 4,700"
+    }
+   ]
+  },
+  {
+   "start": "Siłę okrętów podwodnych pokazał",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/zatoniecie-aboukir-hogue-i-cressy.md",
+     "quote": "22 września 1914 niemiecki U-9 zatopił w ciągu około godziny trzy brytyjskie krążowniki pancerne. Zginęło prawie 1500 marynarzy."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W lutym 1915 roku Niemcy ogłosili wody wokół Wysp Brytyjskich strefą wojenną; zatopienie Lusitanii w maju 1915 roku i kolejne incydenty z ofiarami wśród Amerykanów zmusiły ich do ograniczenia ataków."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Prawo morskie wymagało, by okręt zatrzymał statek handlowy, przeszukał go i przed zatopieniem zapewnił bezpieczeństwo załodze. Okręt podwodny, mały i bezbronny na powierzchni, nie mógł tego robić bez ryzyka."
+    },
+    {
+     "file": "src/content/timeline/1915/05/zatopienie-lusitanii.md",
+     "quote": "7 maja 1915 U-20 storpedował u wybrzeży Irlandii brytyjski liniowiec Lusitania. W 18 minut zginęło prawie 1200 osób, w tym ponad stu Amerykanów."
+    }
+   ]
+  },
+  {
+   "start": "Na przełomie 1916 i 1917 roku admiralicja",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na przełomie 1916 i 1917 roku admiralicja i Naczelne Dowództwo przekonały cesarza, że zatapianie około 600 tysięcy ton miesięcznie zmusi Wielką Brytanię do pokoju w ciągu pół roku. Od 1 lutego 1917 roku U-Booty atakowały bez ostrzeżenia wszystkie statki w strefach wokół Wielkiej Brytanii, Francji, Włoch i na wschodnim Morzu Śródziemnym. Straty żeglugi były ogromne, ale konwoje odwróciły sytuację, a decyzja ta przyczyniła się do przystąpienia USA do wojny w kwietniu 1917 roku."
+    },
+    {
+     "file": "src/content/timeline/1917/05/komitet-do-spraw-konwojow.md",
+     "quote": "zatopiły w nim według różnych zestawień od około 835 do ponad 860 tysięcy ton statków"
+    },
+    {
+     "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+     "quote": "W kwietniu straty sięgnęły 880 tysięcy ton, najwięcej w całej wojnie."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "6 kwietnia 1917 Izba Reprezentantów przyjęła rezolucję wojenną, a Wilson ją podpisał. Stany Zjednoczone znalazły się w stanie wojny z Niemcami."
+    }
+   ]
+  },
+  {
+   "start": "Ratunkiem okazały się konwoje.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Admiralicja uważała, że skupisko statków będzie łatwym celem, że kapitanowie nie utrzymają szyku, a okrętów eskorty zabraknie. W obliczu rekordowych strat wiosną 1917 roku zgodziła się na próby"
+    },
+    {
+     "file": "src/content/timeline/1917/06/admiralicja-zatwierdza-system-konwojow.md",
+     "quote": "14 czerwca 1917 admirał Jellicoe formalnie zatwierdził plan komitetu do spraw konwojów."
+    },
+    {
+     "file": "src/content/timeline/1917/07/pierwszy-regularny-konwoj.md",
+     "quote": "2 lipca 1917 z Hampton Roads wyszedł konwój HH 6, pierwszy z regularnej serii konwojów"
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Okręt podwodny trudniej znajdował grupę niż pojedyncze statki, a atakując, narażał się na kontratak eskorty."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Według Clodfeltera 41 na minach, 30 bombami głębinowymi i 13 przez statki-pułapki"
+    }
+   ]
+  },
+  {
+   "start": "W latach 1914–1918 w służbie niemieckiej marynarki",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"W służbie w latach 1914–1918\", \"labelEn\": \"In service 1914–1918\", \"low\": 351, \"high\": 375,"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Stracone ogółem\", \"labelEn\": \"Lost to all causes\", \"low\": 202, \"high\": 217, \"note\": \"uboat.net: 202 (z samozatopionymi przy ewakuacji Poli, Kotoru i Flandrii); Clodfelter: 217 (178 w walce i 39 z innych przyczyn)\""
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "zginęło ok. 5 tys. członków załóg"
+    },
+    {
+     "url": "https://uboat.net/wwi/boats/",
+     "quote": "During 1914-1918 375 U-boats sank about 7,677 merchant ships (15,717,187 tons)."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "20 listopada 1918 pierwsze 20 niemieckich okrętów podwodnych poddało się pod Harwich zespołowi kontradmirała Tyrwhitta."
+    }
+   ]
+  },
+  {
+   "start": "26 lutego 1915 roku w lesie Malancourt",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Pierwszy atak przeprowadzono 26 lutego 1915 roku w lesie Malancourt pod Verdun, a 30 lipca 1915 roku miotacze zaskoczyły Brytyjczyków pod Hooge."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Broń wyrzucająca strumień płonącej cieczy na odległość kilkunastu do kilkudziesięciu metrów."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Miotacz miał mały zasięg i działał krótko, a jego obsługa była łatwym celem. Broń siała jednak przerażenie i wypłaszała obrońców z okopów i schronów pod ogień piechoty."
+    }
+   ]
+  },
+  {
+   "start": "Pod ziemią toczyła się wojna minowa",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Minami nazywano też ładunki podkładane w tunelach pod okopami przeciwnika, ale to inna broń."
+    },
+    {
+     "file": "src/content/timeline/1917/06/poczatek-bitwy-pod-messines-1917.md",
+     "quote": "7 czerwca 1917 o 3.10 pod niemieckimi okopami na grzbiecie Messines wybuchło 19 wielkich min. Do wieczora 2 Armia Plumera zdobyła grzbiet i linię Oosttaverne."
+    },
+    {
+     "file": "src/content/timeline/1918/03/ostrzal-paryza-z-dziala-dalekonosnego.md",
+     "quote": "23 marca 1918 na Paryż zaczęły spadać pociski wystrzelone z odległości ok. 120 km."
+    },
+    {
+     "file": "src/content/timeline/1918/03/ostrzal-paryza-z-dziala-dalekonosnego.md",
+     "quote": "Działo paryskie nie mogło zniszczyć miasta ani trafić w konkretny cel. Jego zadaniem było zastraszenie mieszkańców Paryża"
+    },
+    {
+     "file": "src/content/timeline/1918/03/ostrzal-paryza-z-dziala-dalekonosnego.md",
+     "quote": "Ostrzał z przerwami trwał do 9 sierpnia 1918 roku. Według Huyona na Paryż i okolice spadło łącznie 367 pocisków, które zabiły 256 osób i raniły 620."
+    }
+   ]
+  },
+  {
+   "start": "Wojna wymusiła też nowe sposoby ukrywania się.",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Military_camouflage",
+     "quote": "Camouflage for equipment and positions was extensively developed for military use by the French in 1915, soon followed by other World War I armies."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Military_camouflage",
+     "quote": "The observation tree was invented by French painter Lucien-Victor Guirand de Scévola, who led the French army's camouflage unit, the first of its kind in any army."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Military_camouflage",
+     "quote": "The French established a Section de Camouflage (Camouflage Department) at Amiens in 1915, headed by Lucien-Victor Guirand de Scévola."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Dazzle_camouflage",
+     "quote": "He then outmaneuvered the reluctant Admiralty by going straight to Joseph Maclay, the Minister of Shipping, resulting in the British Merchant Service adopting dazzle painting in October 1917 and the Royal Navy following suit shortly afterwards."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Dazzle_camouflage",
+     "quote": "Norman Wilkinson explained in 1919 that he had intended dazzle primarily to mislead the enemy about a ship's course and so cause them to take up a poor firing position."
+    }
+   ]
+  },
+  {
+   "start": "Żadna z nowych broni nie przyniosła przełamania sama.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Z impasu na zachodzie wyprowadziły dopiero w 1918 roku nowe metody: krótki, starannie zaplanowany ostrzał, taktyka oddziałów szturmowych, czołgi i współdziałanie wszystkich rodzajów broni."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na dużą skalę taktykę tę zastosowano pod Rygą w 1917 roku i w ofensywie wiosennej 1918 roku, gdzie przyniosła głębokie wyłomy, ale nie rozstrzygnięcie."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "Gdy mgła opadła, przed oczami żołnierzy otworzył się widok, którego nie znali od 1914 roku: na płaskowyżu jednocześnie posuwały się piechota, czołgi, działa konne, kawaleria i samochody pancerne, a nad nimi krążyły samoloty."
+    }
+   ]
+  },
+  {
+   "start": "Wiele z tych nowości przetrwało wojnę.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/powstanie-raf.md",
+     "quote": "Zwykle uważa się je za pierwsze na świecie siły powietrzne samodzielne wobec armii i floty."
+    },
+    {
+     "url": "https://www.opcw.org/about-us/history",
+     "quote": "commonly known as the 1925 Geneva Protocol, bans the use of chemical and bacteriological (biological) weapons in war."
+    },
+    {
+     "url": "https://www.opcw.org/about-us/history",
+     "quote": "The Geneva Protocol does not, however, prohibit the development, production or possession of chemical weapons."
+    }
+   ]
+  },
+  {
+   "start": "Ocena części nowych broni do dziś budzi spory.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/09/poczatek-bitwy-pod-flers-courcelette.md",
+     "quote": "Spór o to, czy tajemnicę czołgów zmarnowano zbyt małą liczbą maszyn, trwał dziesięciolecia."
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-drugiej-bitwy-pod-ypres.md",
+     "quote": "Haber widział w tym dniu zmarnowaną szansę i twierdził po wojnie, że gdyby posłuchano go i przygotowano atak na dużą skalę, Niemcy mogłyby wygrać wojnę."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Niemcy przedstawiali wojnę podwodną jako odpowiedź na nią."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "a ich wojna z żeglugą, od lutego 1917 roku nieograniczona, wciągnęła do wojny Stany Zjednoczone."
+    }
+   ]
+  }
+ ]
+}

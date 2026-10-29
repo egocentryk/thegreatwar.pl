@@ -85,6 +85,8 @@ export function paths(lang: Lang) {
     // Anchor of a front on the battles page.
     frontAnchor: (name: string) => slugify(en ? frontEn(name) : name),
     people: en ? "/en/people" : "/postacie",
+    topics: en ? "/en/topics" : "/tematy",
+    topicPage: (slug: string) => (en ? `/en/topics/${slug}` : `/tematy/${slug}`),
     series: en ? "/en/series" : "/serie",
     seriesPage: (slug: string) => (en ? `/en/series/${slug}` : `/serie/${slug}`),
     search: en ? "/en/search" : "/szukaj",

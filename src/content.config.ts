@@ -145,6 +145,35 @@ const people = defineCollection({
     }),
 })
 
+// "topics" live in src/content/topics/*.md and are served at /tematy/<id>:
+// long guides to one broad question ("Przyczyny I wojny światowej"). Not
+// tied to a date, so they may link any article, battle or person; every
+// article a guide links shows a "Temat" box (utils/topics.ts).
+const topics = defineCollection({
+  loader: glob({
+    base: "./src/content/topics",
+    pattern: "**/*.md",
+    generateId: idFromFilename,
+  }),
+  schema: z.object({
+    title: z.string(),
+    // The guide's question as readers ask it ("Dlaczego wybuchła I wojna
+    // światowa?"), the headline on /tematy and the homepage.
+    question: z.string(),
+    summary: z.string().max(160),
+    brief: z.array(z.string()).max(5).default([]),
+    // Position on /tematy (lower first).
+    order: z.number().int(),
+    // Last substantive revision, shown on the page and in structured data.
+    updated: z.coerce.date(),
+    // Related reading series (data/series.ts slug).
+    series: z.string().optional(),
+    authors: z.array(z.string()).min(1),
+    sources: z.array(z.url()).default([]),
+    draft: z.boolean().default(false),
+  }),
+})
+
 // ─── English translations ────────────────────────────────────────────
 // src/content/en/<collection>/<english-slug>.md. Each file holds only the
 // translated text; dates, categories, battle links and the rest come from
@@ -191,4 +220,9 @@ const peopleEn = defineCollection({
   }),
 })
 
-export const collections = { timeline, battles, people, timelineEn, battlesEn, peopleEn }
+const topicsEn = defineCollection({
+  loader: glob({ base: "./src/content/en/topics", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({ ...enBase, question: z.string(), source: reference("topics") }),
+})
+
+export const collections = { timeline, battles, people, topics, timelineEn, battlesEn, peopleEn, topicsEn }

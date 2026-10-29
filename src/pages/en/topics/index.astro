@@ -1,0 +1,33 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TopicCards from "@/components/TopicCards.astro"
+import { paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { localTopics } from "@/utils/topics"
+
+const description =
+  "The big questions about the First World War, each in one guide: the causes and the results of the war, the Polish question, new weapons. With key dates and sources."
+const topics = await localTopics("en")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: paths("en").topics,
+  name: "Topics",
+  description,
+  items: topics.map((topic) => topic.href),
+})
+---
+
+<BaseLayout title="Topics: the First World War in questions" description={description} lang="en" alternates={{ pl: paths("pl").topics }} jsonLd={jsonLd}>
+  <section class="mx-auto max-w-6xl px-6 pt-16 sm:pt-24">
+    <SectionHeading eyebrow="Topics" count={topics.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">The big questions about the Great War.</p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+      Each topic is one guide that answers the whole question, with the key dates and links to the chronicle's articles
+      for more.
+    </p>
+  </section>
+  <div class="pt-10 pb-24">
+    <TopicCards lang="en" />
+  </div>
+</BaseLayout>

@@ -13,6 +13,7 @@ import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
 import BattleFamily from "@/components/BattleFamily.astro"
 import SeriesBox from "@/components/SeriesBox.astro"
+import TopicBox from "@/components/TopicBox.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
@@ -197,6 +198,7 @@ const glossaryTerms = termsIn(battle.body ?? "", "en", `bitwy/${source.id}`)
 
           <BattleFamily id={source.id} part="parent" lang="en" />
           <div class="lg:hidden">
+            <TopicBox ref={`bitwy/${source.id}`} lang="en" />
             <SeriesBox ref={`bitwy/${source.id}`} lang="en" />
           </div>
           <Sources sources={source.data.sources} lang="en" />

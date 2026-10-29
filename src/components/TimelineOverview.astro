@@ -22,9 +22,12 @@ const defaultYear = timelineByYear[0]?.year
     count={allTimeline.length}
     level={1}
   />
-  <p class="font-mono text-xs">
+  <p class="flex flex-wrap gap-x-6 gap-y-2 font-mono text-xs">
     <a href={lang === "en" ? "/en/key-dates" : "/najwazniejsze-daty"} class="text-signal hover:underline">
       {lang === "en" ? "Key dates on one page →" : "Najważniejsze daty na jednej stronie →"}
+    </a>
+    <a href={lang === "en" ? "/en/topics" : "/tematy"} class="text-ink-soft hover:text-signal transition-colors">
+      {lang === "en" ? "Topics: the big questions →" : "Tematy: najważniejsze pytania →"}
     </a>
   </p>
   {

@@ -14,6 +14,7 @@ import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
 import SeriesBox from "@/components/SeriesBox.astro"
+import TopicBox from "@/components/TopicBox.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
 import { formatDate } from "@/utils/formatDate"
@@ -210,6 +211,7 @@ const glossaryTerms = termsIn(entry.body ?? "", "en", source.id)
           </div>
 
           <div class="lg:hidden">
+            <TopicBox ref={source.id} lang="en" />
             <SeriesBox ref={source.id} lang="en" />
           </div>
           <Sources sources={source.data.sources} lang="en" />

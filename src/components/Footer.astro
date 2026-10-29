@@ -2,6 +2,7 @@
 import { SITE } from "@/site.config"
 
 const year = new Date().getFullYear()
+const en = Astro.url.pathname === "/en" || Astro.url.pathname.startsWith("/en/")
 ---
 
 <footer class="border-line border-t">
@@ -28,6 +29,7 @@ const year = new Date().getFullYear()
     </p>
 
     <nav class="flex items-center gap-4" aria-label="Links">
+      <a href={en ? "/en/about" : "/about"} class="hover:text-signal transition-colors">{en ? "About" : "O projekcie"}</a>
       {
         SITE.footerLinks.map((link) => (
           <a href={link.href} class="hover:text-signal transition-colors">

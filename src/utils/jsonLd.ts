@@ -104,6 +104,40 @@ export function articleLd(
   }
 }
 
+// A topic guide (/tematy/<id>): an Article about the whole war, with the
+// date of its last revision.
+export function topicLd(
+  site: URL,
+  a: {
+    lang: Lang
+    path: string
+    title: string
+    summary: string
+    updated: Date
+    authors: string[]
+    about?: JsonLdNode[]
+    mentions?: JsonLdNode[]
+  },
+): JsonLdNode {
+  return {
+    "@type": "Article",
+    "@id": `${abs(site, a.path)}#article`,
+    headline: a.title,
+    description: a.summary,
+    url: abs(site, a.path),
+    mainEntityOfPage: abs(site, a.path),
+    inLanguage: inLanguage(a.lang),
+    temporalCoverage: "1914/1918",
+    dateModified: isoDay(a.updated),
+    author: a.authors.map((name) => authorLd(site, name)),
+    publisher: { "@id": publisherId(site) },
+    isPartOf: { "@id": websiteId(site, a.lang) },
+    image: abs(site, SITE.ogImage),
+    ...(a.about?.length ? { about: a.about } : {}),
+    ...(a.mentions?.length ? { mentions: a.mentions } : {}),
+  }
+}
+
 // A battle page: a historical Event, plus the Article that describes it.
 export function battleLd(
   site: URL,

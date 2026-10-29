@@ -1,0 +1,92 @@
+---
+// The topic guides (utils/topics.ts) as a list of questions: number and
+// guide title, the question in the display font, the opening answer, the
+// sections and the count of key dates. On /tematy the full list; on the
+// homepage (`section`) a heading, two columns and no sections line.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { plural, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { localTopics, readingList } from "@/utils/topics"
+
+interface Props {
+  lang?: Lang
+  // Homepage: heading, lead and a link to /tematy.
+  section?: boolean
+}
+
+const { lang = "pl", section = false } = Astro.props
+const topics = await Promise.all(
+  (await localTopics(lang)).map(async (topic) => ({ ...topic, dates: (await readingList(topic, lang)).length })),
+)
+
+const t = {
+  pl: {
+    eyebrow: "Tematy",
+    lead: "Najważniejsze pytania o Wielką Wojnę, każde w jednym tekście.",
+    all: "Wszystkie tematy →",
+    read: "Czytaj →",
+    minutes: (n: number) => `ok. ${n} min`,
+  },
+  en: {
+    eyebrow: "Topics",
+    lead: "The big questions about the Great War, each in one guide.",
+    all: "All topics →",
+    read: "Read →",
+    minutes: (n: number) => `about ${n} min`,
+  },
+}[lang]
+const chapters = (n: number) => `${n} ${plural(lang, n, ["rozdział", "rozdziały", "rozdziałów"], ["section", "sections"])}`
+const dates = (n: number) => `${n} ${plural(lang, n, ["data", "daty", "dat"], ["date", "dates"])}`
+---
+
+{
+  topics.length > 0 && (
+    <section class:list={["mx-auto max-w-6xl px-6", section && "pb-20"]}>
+      {section && (
+        <>
+          <SectionHeading eyebrow={t.eyebrow} count={topics.length} />
+          <div class="flex flex-wrap items-end justify-between gap-4">
+            <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">{t.lead}</p>
+            <a href={paths(lang).topics} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">{t.all}</a>
+          </div>
+        </>
+      )}
+      <ol class:list={["border-line border-t", section && "mt-8 lg:grid lg:grid-cols-2 lg:gap-x-12"]}>
+        {topics.map((topic, index) => (
+          <li class="border-line border-b">
+            <a href={topic.href} class="group grid grid-cols-[2.5rem_minmax(0,1fr)] gap-x-4 py-7 sm:grid-cols-[4rem_minmax(0,1fr)]">
+              <span class="font-display text-signal text-3xl leading-none font-medium sm:text-4xl" aria-hidden="true">
+                {String(index + 1).padStart(2, "0")}
+              </span>
+              <span class="min-w-0">
+                <span class="text-ink-soft block font-mono text-[10px] tracking-[0.2em] uppercase">{topic.title}</span>
+                <span class="font-display text-ink group-hover:text-signal mt-2 block text-2xl leading-snug text-balance transition-colors sm:text-3xl">
+                  {topic.question}
+                </span>
+                <span class="text-ink-soft mt-3 block max-w-2xl leading-7">{topic.summary}</span>
+                {!section && topic.sections.length > 0 && (
+                  <span class="text-ink mt-4 block max-w-3xl text-sm leading-6">
+                    {topic.sections.map((name, i) => (
+                      <>
+                        {i > 0 && <span class="text-ink-soft mx-1.5" aria-hidden="true">·</span>}
+                        {name}
+                      </>
+                    ))}
+                  </span>
+                )}
+                <span class="text-ink-soft mt-4 flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-[11px]">
+                  <span>{chapters(topic.sections.length)}</span>
+                  <span aria-hidden="true">·</span>
+                  <span>{dates(topic.dates)}</span>
+                  <span aria-hidden="true">·</span>
+                  <span>{t.minutes(Math.max(5, Math.round(topic.minutes)))}</span>
+                  <span class="text-signal ml-auto">{t.read}</span>
+                </span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )
+}

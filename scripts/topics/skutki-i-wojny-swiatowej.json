@@ -1,0 +1,774 @@
+{
+ "slug": "skutki-i-wojny-swiatowej",
+ "paragraphs": [
+  {
+   "start": "I wojna światowa pochłonęła według różnych zestawień",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "quote": "More than 8.5 million soldiers died as a result of the hostilities"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Dane Departamentu Wojny USA (1924): 8,54 mln; najczęściej 9–10 mln; Wikipedia: do 11 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "AFP: 5–10 mln; Wikipedia: 6–13 mln; USHMM: do 13 mln"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Four empires collapsed due to the war, old countries were abolished, new ones were formed, boundaries were redrawn, international organizations were established, and many new and old ideologies took a firm hold in people's minds."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Historians are split on the impact of the treaty."
+    }
+   ]
+  },
+  {
+   "start": "Dokładnej liczby ofiar nikt nie zna",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Osoby; zabici, zmarli z ran i chorób we wszystkich armiach. Dane Departamentu Wojny USA (1924): 8,54 mln; najczęściej 9–10 mln; Wikipedia: do 11 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA (1924): 65 mln w 16 głównych państwach; AFP: ok. 70 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA (1924): 1,77 mln; niemiecka historia oficjalna (1934): 2,04 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Dane z 1918 r. i Departament Wojny USA: 1,7 mln; Urlanis: 1,81 mln; Krywoszejew: 2,25 mln"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "quote": "Although accurate casualty statistics are difficult to ascertain, an estimated 21 million men were wounded in combat."
+    }
+   ]
+  },
+  {
+   "start": "Najkrwawsze były wielkie bitwy na wyniszczenie",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Francuzi ok. 377–400 tys., Niemcy ok. 333–355 tys."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Imperium Brytyjskie ok. 420 tys., Francuzi ok. 200 tys., Niemcy od ok. 450 do 600 tys."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Rosjanie ok. 1–1,44 mln, państwa centralne ok. 0,95–1,5 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Serbia\", \"labelEn\": \"Serbia\", \"low\": 16.1, \"high\": 27.8, \"note\": \"Od 750 tys. do 1,25 mln ofiar; górna granica to szacunki serbskie\""
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "quote": "France lost sixteen percent of its mobilized forces, the highest mortality rate relative to troops deployed."
+    }
+   ]
+  },
+  {
+   "start": "Ofiary cywilne jeszcze trudniej policzyć",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Osoby; z ofiarami głodu, chorób, masakr i ludobójstwa Ormian, bez ofiar pandemii grypy 1918 r. (hiszpanki). AFP: 5–10 mln; Wikipedia: 6–13 mln; USHMM: do 13 mln"
+    },
+    {
+     "file": "src/content/timeline/1915/04/poczatek-deportacji-ormian.md",
+     "quote": "Deportacje z rozkazu władz osmańskich przerodziły się w ludobójstwo."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Rozrzut wynika z liczby ofiar blokady (0,3–0,76 mln)"
+    },
+    {
+     "url": "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+     "quote": "The war left 10 million refugees across Europe."
+    },
+    {
+     "url": "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+     "quote": "And three million widows and six million orphans."
+    }
+   ]
+  },
+  {
+   "start": "Na ziemiach polskich wojna była wojną bratobójczą",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Ogółem w armiach państw zaborczych\", \"labelEn\": \"Total in the partitioning powers' armies\", \"low\": 2900000, \"high\": 3400000, \"note\": \"Wrzosek (za S. Dąbrowskim): co najmniej 2,9 mln; „Zarys dziejów Polski” (red. J. Tazbir): 3,4 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Nałęcz: 385 tys.; MHP i Zamoyski: ok. 450 tys.; Wrzosek: ok. 530 tys."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Bieżeńcy i wysiedleni w głąb Rosji (1915, wszystkie narodowości)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "A. Prymaka-Oniszk nawet 2 mln z ziem polskich; Chwalba 3,5 mln z Królestwa i zaboru rosyjskiego"
+    },
+    {
+     "file": "src/content/timeline/1915/07/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie.md",
+     "quote": "Do jesieni Rosjanie opuścili całe Królestwo Polskie, a odwrót, któremu towarzyszyło niszczenie mienia i przymusowa ewakuacja ludności, zwana bieżeństwem"
+    }
+   ]
+  },
+  {
+   "start": "Osobną katastrofą była pandemia",
+   "quotes": [
+    {
+     "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html",
+     "quote": "In the United States, it was first identified in military personnel in spring 1918. It is estimated that about 500 million people or one-third of the world’s population became infected with this virus. The number of deaths was estimated to be at least 50 million worldwide"
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "grypa hiszpanka odmiana wirusa grypy, która doprowadziła na całym świecie do śmierci ok. 20 mln ludzi w latach 1918–1919"
+    },
+    {
+     "file": "src/content/timeline/1918/10/zajecie-damaszku.md",
+     "quote": "Wśród zwycięzców szerzyła się złośliwa malaria, którą przynieśli znad Jordanu, a wkrótce także hiszpanka."
+    },
+    {
+     "file": "src/content/timeline/1918/09/lettow-vorbeck-wraca-za-rovume.md",
+     "quote": "Do oddziału dotarła pandemia hiszpanki"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "bez ofiar pandemii grypy 1918 r. (hiszpanki)"
+    }
+   ]
+  },
+  {
+   "start": "Wojna zmiotła cztery monarchie",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Four empires collapsed due to the war"
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Od „bałkańskiego kotła” do upadku Habsburgów, Hohenzollernów i Romanowów"
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Zmierzch imperiów Wojna ujawniła słabość wielkich imperiów. Już w 1917 roku upadł carat w Rosji, obalony przez rewolucję lutową."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "At the end of the war, the Allies occupied Constantinople (Istanbul) and the Ottoman government collapsed."
+    }
+   ]
+  },
+  {
+   "start": "Pierwsza runęła Rosja.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "12 marca 1917 garnizon Piotrogrodu przeszedł na stronę strajkujących. Władza cara w stolicy upadła"
+    },
+    {
+     "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+     "quote": "Późnym wieczorem 15 marca 1917 w Pskowie Mikołaj II zrzekł się tronu za siebie i syna na rzecz brata Michała."
+    },
+    {
+     "file": "src/content/timeline/1917/09/rosja-republika.md",
+     "quote": "14 września 1917 Rząd Tymczasowy, nie czekając na Zgromadzenie Ustawodawcze, proklamował Republikę Rosyjską"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "7 listopada 1917 bolszewicy przejęli Piotrogród i obalili Rząd Tymczasowy."
+    },
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "powołał bolszewicki rząd, Radę Komisarzy Ludowych, z Leninem na czele"
+    }
+   ]
+  },
+  {
+   "start": "W styczniu 1918 roku bolszewicy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/01/rozpedzenie-konstytuanty.md",
+     "quote": "19 stycznia 1918 o świcie warta przerwała obrady Konstytuanty, a wieczorem władza radziecka ją rozwiązała. Pierwszy wolno wybrany parlament Rosji obradował raz."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 Rosja Radziecka podpisała w Brześciu pokój z państwami centralnymi. Straciła Polskę, Litwę, Kurlandię, Inflanty, Estonię, Finlandię i Ukrainę."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Według często przytaczanych danych na oderwanych ziemiach mieszkało około 56 milionów ludzi"
+    },
+    {
+     "file": "src/content/timeline/1918/07/zamordowanie-rodziny-carskiej.md",
+     "quote": "W nocy z 16 na 17 lipca 1918 w Jekaterynburgu bolszewicy zamordowali byłego cara Mikołaja II, jego żonę, pięcioro dzieci i czworo ich towarzyszy."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "At the time of the armistice Russia was in the grips of a civil war which left more than seven million people dead"
+    }
+   ]
+  },
+  {
+   "start": "Cesarstwo Niemieckie upadło w ciągu kilku dni.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "3 listopada 1918 patrol w Kilonii strzelał do pochodu marynarzy i robotników. Nazajutrz miasto było w rękach rad żołnierskich. Zaczęła się rewolucja."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+     "quote": "9 listopada 1918 rewolucja dotarła do Berlina. Kanclerz ogłosił abdykację cesarza i oddał władzę Ebertowi, a Scheidemann proklamował republikę."
+    },
+    {
+     "file": "src/content/timeline/1918/11/cesarz-wilhelm-w-holandii.md",
+     "quote": "10 listopada 1918 Wilhelm II opuścił Spa i przekroczył granicę holenderską w Eijsden."
+    },
+    {
+     "file": "src/content/timeline/1918/11/abdykacja-wilhelma-ii.md",
+     "quote": "28 listopada 1918 w holenderskim Amerongen Wilhelm II podpisał akt zrzeczenia się koron Prus i Rzeszy"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą."
+    }
+   ]
+  },
+  {
+   "start": "Monarchia Habsburgów rozpadła się na narody.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/10/manifest-cesarza-karola.md",
+     "quote": "16 października 1918 Karol I zapowiedział przebudowę Austrii w państwo związkowe narodów. Węgry zostały poza reformą, a narody monarchii ją odrzuciły."
+    },
+    {
+     "file": "src/content/timeline/1918/10/rewolucja-w-wiedniu-i-budapeszcie.md",
+     "quote": "31 października 1918 w Budapeszcie władzę objął Mihály Károlyi"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md",
+     "quote": "3 listopada 1918 pod Padwą Austro-Węgry podpisały rozejm z aliantami."
+    },
+    {
+     "file": "src/content/timeline/1918/11/abdykacja-karola-i.md",
+     "quote": "11 listopada 1918 Karol I zrzekł się udziału w sprawach państwa, ale nie abdykował. 12 listopada w Wiedniu proklamowano Republikę Niemieckiej Austrii."
+    },
+    {
+     "file": "src/content/timeline/1918/11/niepodleglosc-wegier.md",
+     "quote": "16 listopada 1918 przed parlamentem w Budapeszcie proklamowano Węgierską Republikę Ludową."
+    }
+   ]
+  },
+  {
+   "start": "Imperium Osmańskie podpisało 30 października",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+     "quote": "30 października 1918 na pancerniku „Agamemnon” w Mudros Imperium Osmańskie podpisało rozejm z Ententą."
+    },
+    {
+     "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+     "quote": "jego przywódcy, Talat, Enver i Dżemal, uciekli nocą z kraju na niemieckim okręcie. 13 listopada flota sprzymierzonych wpłynęła przez Dardanele do Konstantynopola"
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "1922: obalenie sułtana Turcji i przejęcie władzy przez Mustafę Kemala Atatürka"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "the Sèvres treaty was superseded by the Treaty of Lausanne which formally ended all hostilities and led to the creation of the modern Turkish Republic"
+    },
+    {
+     "file": "src/content/timeline/1918/10/abdykacja-ferdynanda.md",
+     "quote": "3 października 1918 car Bułgarii Ferdynand I zrzekł się tronu na rzecz syna Borysa III i wyjechał z kraju. Dynastia przetrwała klęskę."
+    }
+   ]
+  },
+  {
+   "start": "Na mapie Europy pojawiło się kilka nowych państw.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+     "quote": "11 listopada 1918 Rada Regencyjna oddała Piłsudskiemu dowództwo nad wojskiem, a Warszawa rozbrajała Niemców. Ten dzień stał się Świętem Niepodległości."
+    },
+    {
+     "file": "src/content/timeline/1918/11/pilsudski-wraca-do-warszawy.md",
+     "quote": "10 listopada 1918 rano Józef Piłsudski, zwolniony z Magdeburga, przyjechał do Warszawy."
+    },
+    {
+     "file": "src/content/timeline/1918/11/notyfikacja-pilsudskiego.md",
+     "quote": "16 listopada 1918 Józef Piłsudski depeszą radiową zawiadomił rządy państw wojujących i neutralnych o istnieniu niepodległego państwa polskiego."
+    },
+    {
+     "file": "src/content/timeline/1918/11/poczatek-walk-o-lwow.md",
+     "quote": "W nocy na 1 listopada 1918 ukraińscy żołnierze opanowali Lwów i ogłosili go stolicą państwa ukraińskiego. Jeszcze tego dnia polscy mieszkańcy chwycili za broń."
+    },
+    {
+     "file": "src/content/timeline/1918/12/wybuch-powstania-wielkopolskiego.md",
+     "quote": "27 grudnia 1918 po niemieckiej demonstracji w Poznaniu padły strzały przed hotelem Bazar."
+    }
+   ]
+  },
+  {
+   "start": "28 października 1918 roku Komitet Narodowy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/10/niepodleglosc-czechoslowacji.md",
+     "quote": "28 października 1918 Komitet Narodowy przejął władzę w Pradze i uchwalił pierwszą ustawę. „Samodzielne państwo czechosłowackie weszło w życie”."
+    },
+    {
+     "file": "src/content/timeline/1918/11/masaryk-prezydentem.md",
+     "quote": "14 listopada 1918 Zgromadzenie Narodowe w Pradze zdetronizowało Habsburgów, ogłosiło republikę i wybrało Masaryka na prezydenta."
+    },
+    {
+     "file": "src/content/timeline/1918/10/niepodleglosc-panstwa-shs.md",
+     "quote": "29 października 1918 chorwacki Sabor zerwał więzi z Austro-Węgrami, a władzę w nowym Państwie Słoweńców, Chorwatów i Serbów objęła Rada Narodowa."
+    },
+    {
+     "file": "src/content/timeline/1918/11/zgromadzenie-w-podgoricy.md",
+     "quote": "26 listopada 1918 Wielkie Zgromadzenie Narodowe w Podgoricy zdetronizowało króla Mikołaja I i ogłosiło zjednoczenie Czarnogóry z Serbią."
+    },
+    {
+     "file": "src/content/timeline/1918/12/proklamacja-krolestwa-shs.md",
+     "quote": "1 grudnia 1918 roku wieczorem w Belgradzie regent Serbii Aleksander przyjął delegację Rady Narodowej z Zagrzebia, wysłuchał jej adresu i w imieniu swojego ojca, króla Piotra I, proklamował zjednoczenie Serbii z ziemiami Państwa Słoweńców, Chorwatów i Serbów w jedno Królestwo Serbów, Chorwatów i Słoweńców. Tak powstało pierwsze wspólne państwo południowych Słowian, nazywane w skrócie Królestwem SHS, a od 1929 roku oficjalnie Królestwem Jugosławii."
+    }
+   ]
+  },
+  {
+   "start": "Rumunia, choć w maju 1918 roku",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/pokoj-w-bukareszcie.md",
+     "quote": "7 maja 1918 w Bukareszcie rząd Marghilomana podpisał pokój z państwami centralnymi."
+    },
+    {
+     "file": "src/content/timeline/1918/04/zjednoczenie-besarabii-z-rumunia.md",
+     "quote": "9 kwietnia 1918 Rada Kraju w Kiszyniowie przegłosowała 86 głosami połączenie Besarabii z Rumunią"
+    },
+    {
+     "file": "src/content/timeline/1918/11/unia-bukowiny-z-rumunia.md",
+     "quote": "28 listopada 1918 Kongres Generalny Bukowiny w Czerniowcach uchwalił połączenie kraju z Rumunią."
+    },
+    {
+     "file": "src/content/timeline/1918/12/zgromadzenie-w-alba-iulia.md",
+     "quote": "1 grudnia 1918 Wielkie Zgromadzenie Narodowe w Alba Iulia ogłosiło połączenie Siedmiogrodu, Banatu i ziem rumuńskich na Węgrzech z Królestwem Rumunii."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Romania united all Romanian-speaking people under a single state leading to Greater Romania."
+    }
+   ]
+  },
+  {
+   "start": "Na zachodnich obrzeżach dawnego imperium rosyjskiego",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Lithuania, Latvia and Estonia gained independence. They were occupied again by the Soviet Union in 1940. Finland gained a lasting independence"
+    },
+    {
+     "file": "src/content/timeline/1917/12/niepodleglosc-finlandii.md",
+     "quote": "6 grudnia 1917 Eduskunta stosunkiem głosów 100 do 88 przyjęła deklarację niepodległości przedstawioną przez senat Svinhufvuda."
+    },
+    {
+     "file": "src/content/timeline/1917/12/deklaracja-taryby.md",
+     "quote": "16 lutego 1918 roku Taryba uchwaliła nowy akt niepodległości, już bez wzmianki o związku z Niemcami."
+    },
+    {
+     "file": "src/content/timeline/1918/02/estonia-oglasza-niepodleglosc.md",
+     "quote": "estoński Komitet Ocalenia ogłosił w Tallinnie manifest proklamujący Republikę Estońską"
+    },
+    {
+     "file": "src/content/timeline/1918/11/uznanie-lotwy-i-estonii.md",
+     "quote": "Rady Ludowej, która 18 listopada proklamowała w Rydze niepodległą Republikę Łotewską"
+    }
+   ]
+  },
+  {
+   "start": "Ukraińcy proklamowali w Kijowie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/ukrainska-republika-ludowa.md",
+     "quote": "20 listopada 1917 Centralna Rada w Kijowie ogłosiła III Uniwersał. Proklamował on Ukraińską Republikę Ludową"
+    },
+    {
+     "file": "src/content/timeline/1918/12/zachodnioukrainska-republika-ludowa.md",
+     "quote": "Pod koniec 1918 roku rząd Zachodnioukraińskiej Republiki Ludowej działał w Tarnopolu."
+    },
+    {
+     "file": "src/content/timeline/1918/11/poczatek-walk-o-lwow.md",
+     "quote": "W nocy na 1 listopada 1918 ukraińscy żołnierze opanowali Lwów i ogłosili go stolicą państwa ukraińskiego."
+    },
+    {
+     "file": "src/content/timeline/1918/05/niepodleglosc-gruzji.md",
+     "quote": "26 maja 1918 Sejm Zakaukaski stwierdził rozpad federacji, a Gruzińska Rada Narodowa ogłosiła w Tyflisie niepodległość Gruzji"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Armenia, Georgia, and Azerbaijan were established as independent states in the Caucasus region. However, after the withdrawal of the Russian Army in 1917 and during 1920 Turkish invasion of Armenia, Turkey captured the Armenian territory around Artvin, Kars, and Iğdır, and these territorial losses became permanent. As consequence of invasions of Turkey and Russian Red Army all three Transcaucasian countries were proclaimed as Soviet Republics in 1920 and in 1922 were absorbed into the Soviet Union as the Transcaucasian Socialist Federative Soviet Republic."
+    }
+   ]
+  },
+  {
+   "start": "Na Bliskim Wschodzie arabskie ziemie",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)",
+     "quote": "the transition of German and Ottoman overseas possessions as \"mandates\" from the hands of these countries chiefly into the hands of Britain and France"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "The League of Nations granted Class A mandates for the Mandate for Syria and the Lebanon and British Mandate of Mesopotamia and Palestine"
+    },
+    {
+     "file": "src/content/timeline/1917/11/deklaracja-balfoura.md",
+     "quote": "2 listopada 1917 Arthur Balfour zapewnił lorda Rothschilda, że Wielka Brytania popiera utworzenie w Palestynie siedziby narodowej dla narodu żydowskiego."
+    },
+    {
+     "file": "src/content/timeline/1918/11/deklaracja-anglo-francuska.md",
+     "quote": "W pierwszych dniach listopada 1918 Wielka Brytania i Francja ogłosiły, że chcą „całkowitego wyzwolenia” ludów Syrii i Mezopotamii i rządów z ich wyboru."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)",
+     "quote": "The second category, of New Guinea, Samoa, and South West Africa"
+    }
+   ]
+  },
+  {
+   "start": "Nowych granic nie dało się wytyczyć",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)",
+     "quote": "the drawing of new national boundaries, sometimes involving plebiscites, to reflect ethnic boundaries more closely"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "The 1919 treaties generally included guarantees of minority rights, but there was no enforcement mechanism. The new states of eastern Europe mostly all had large ethnic minorities. Millions of Germans found themselves in the newly created countries as minorities. More than two million ethnic Hungarians found themselves living outside of Hungary"
+    }
+   ]
+  },
+  {
+   "start": "Konferencja pokojowa otworzyła się w Paryżu",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)",
+     "quote": "The Conference formally opened on 18 January 1919 at the Quai d'Orsay in Paris."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+     "quote": "Though nearly thirty nations participated, the representatives of the United Kingdom, France, the United States, and Italy became known as the “Big Four.”"
+    },
+    {
+     "file": "src/content/timeline/1918/12/wilson-przybywa-do-europy.md",
+     "quote": "13 grudnia 1918 Woodrow Wilson przypłynął do Brestu, jako pierwszy urzędujący prezydent USA w Europie."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+     "quote": "The Allied Powers refused to recognize the new Bolshevik Government and thus did not invite its representatives to the Peace Conference. The Allies also excluded the defeated Central Powers (Germany, Austria-Hungary, Turkey, and Bulgaria)."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/league",
+     "quote": "He and the other members of the “Big Three,” Georges Clemenceau of France and David Lloyd George of the United Kingdom"
+    }
+   ]
+  },
+  {
+   "start": "Traktat z Niemcami podpisano 28 czerwca",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Signed28 June 1919; 107 years ago (28 June 1919)[1]LocationHall of Mirrors in the Palace of Versailles, Versailles, France[2]Effective10 January 1920"
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+     "quote": "The Treaty required the new German Government to surrender approximately 10 percent of its prewar territory in Europe and all of its overseas possessions. It placed the harbor city of Danzig (now Gdansk) and the coal-rich Saarland under the administration of the League of Nations, and allowed France to exploit the economic resources of the Saarland until 1935. It limited the German Army and Navy in size, and allowed for the trial of Kaiser Wilhelm II and a number of other high-ranking German officials as war criminals. Under the terms of Article 231 of the Treaty, the Germans accepted responsibility for the war and the liability to pay financial reparations to the Allies. The Inter-Allied Commission determined the amount and presented its findings in 1921. The amount they determined was 132 billion gold Reichmarks"
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "quote": "The Versailles Treaty of 1919 forced Germany to cede 13 percent of its territory and to largely dismantle its armed forces."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "German troops were reduced to 100,000"
+    }
+   ]
+  },
+  {
+   "start": "Z pozostałymi pokonanymi zawarto osobne traktaty",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)",
+     "quote": "the Treaty of Saint-Germain, 10 September 1919 (Austria) the Treaty of Neuilly, 27 November 1919 (Bulgaria) the Treaty of Trianon, 4 June 1920 (Hungary) the Treaty of Sèvres, 10 August 1920; subsequently revised by the Treaty of Lausanne, 24 July 1923 (Ottoman Empire/Republic of Turkey)."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "was signed by Ottoman Empire on 10 August 1920, but was never ratified by the Sultan"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "As a result, Turkey became the only power of World War I to overturn the terms of its defeat, and negotiate with the Allies as an equal."
+    }
+   ]
+  },
+  {
+   "start": "Wilson nie przekonał własnego kraju.",
+   "quotes": [
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/league",
+     "quote": "Wilson left office never having convinced the United States to join it."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+     "quote": "In a final vote on March 19, 1920, the Treaty of Versailles fell short of ratification by seven votes. Consequently, the U.S. Government signed the Treaty of Berlin on August 25, 1921. This separate peace treaty with Germany stipulated that the United States would enjoy all “rights, privileges, indemnities, reparations or advantages” conferred to it by the Treaty of Versailles, but left out any mention of the League of Nations, which the United States never joined."
+    }
+   ]
+  },
+  {
+   "start": "Wojna zrujnowała finanse wszystkich walczących.",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Zniszczenia powstałe wskutek wojny szacuje się na około 273 mld dolarów. Dochody poszczególnych państw były zbyt małe, by pokryć wydatki. W związku z tym łatano budżety, dodrukowując papierowe pieniądze, które nie miały pokrycia ani w zasobach państwowych, ani w towarach na rynku. Efektem tych działań była hiperinflacja dochodząca w niektórych krajach do miliona procent."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "From being the world's largest overseas investor, it became one of its biggest debtors with interest payments forming around 40% of all government spending."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "The war left allied countries overburdened with debt to the United States, and the wrecked German economy was not able to pay reparations except when loaned by American banks. Many wished to restore the gold standard despite opinions that would hurt their economies. There was an overall shift in economic power from Europe to the United States"
+    }
+   ]
+  },
+  {
+   "start": "Najgłośniejszym przykładem była Republika Weimarska.",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "the abdication of Kaiser Wilhelm II, and the creation of the Weimar Republic"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Combined with the weight of war debt and already-high levels of inflation during the war, this weakened the finances of the German state. Whilst the value of the mark was stabilised during 1921 at around 90 marks to the dollar, hyperinflation caused in part by the printing of money to cover government expenses without raising taxes, particularly to pay workers striking in the occupied Ruhr, plagued Germany between late 1921 and 1923."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "the worth of fiat Papiermarks with respect to the earlier commodity Goldmarks was reduced to one trillionth (one million millionth) of its value"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "In December 1922 the Reparations Commission declared Germany in default, and on 11 January 1923 French and Belgian troops occupied the Ruhr until 1925."
+    }
+   ]
+  },
+  {
+   "start": "Wojna zmieniła położenie kobiet.",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Pod nieobecność mężczyzn, bardziej z konieczności niż z wyboru, kobiety: stały się aktywne we wszystkich sferach życia społecznego, podejmowały się utrzymania rodzin, na ich barkach spoczywała konieczność wykonywania codziennych obowiązków, powszechnie zastępowały nieobecnych mężczyzn w przemyśle, w rolnictwie i w administracji. Ciekawostka Kobiety w czasie wojny zażądały prawa do służby wojskowej, co traktowano wówczas jako żądanie rewolucyjne. Jednak już od 1914 roku na froncie służyły Polki, u boku Józefa Piłsudskiego. Pod koniec wojny służbę wojskową pełnić też mogły niektóre Brytyjki i Rosjanki."
+    },
+    {
+     "file": "src/content/timeline/1918/12/wybory-w-wielkiej-brytanii.md",
+     "quote": "Wybory odbyły się już według ustawy o reprezentacji ludu (Representation of the People Act), która otrzymała sankcję królewską 6 lutego 1918 roku. Zniosła ona prawie wszystkie cenzusy majątkowe dla mężczyzn: głosować mógł każdy, kto ukończył 21 lat, a żołnierz, który odbył służbę w tej wojnie, nawet od 19 lat. Przede wszystkim jednak po raz pierwszy przyznała prawo wyborcze kobietom, choć tylko tym, które ukończyły 30 lat"
+    },
+    {
+     "file": "src/content/timeline/1918/12/wybory-w-wielkiej-brytanii.md",
+     "quote": "14 grudnia 1918 w Wielkiej Brytanii po raz pierwszy głosowały kobiety."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rzad-moraczewskiego.md",
+     "quote": "a 28 listopada ordynację wyborczą, która dała prawo głosu kobietom"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "transforming them into electoral democracies by bringing near-universal suffrage for the first time in history, as in Germany (1919 German federal election), the United Kingdom (1918 United Kingdom general election), and the United States (1920 United States presidential election)."
+    }
+   ]
+  },
+  {
+   "start": "Do domów wracały miliony żołnierzy",
+   "quotes": [
+    {
+     "url": "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+     "quote": "Artillery fire caused 70 percent of the casualties in the fighting, after which between five and six million men were left mutilated for life."
+    },
+    {
+     "file": "src/content/timeline/1918/12/poczatek-demobilizacji.md",
+     "quote": "Na początku grudnia 1918 ruszyła demobilizacja armii brytyjskiej. Najpierw zwalniano ludzi potrzebnych gospodarce, co szybko wywołało gniew frontowców."
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "problemy z zatrudnieniem zdemobilizowanych żołnierzy, związane z dezorganizacją przemysłu, zniszczeniami wojennymi, koniecznością przestawienia gospodarki z wojennej na pokojową"
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "w taki sposób rodził się ruch kombatancki. Nabierał on znaczenia tym bardziej, że po wojnie społeczeństwa nie umiały zająć się weteranami."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "those who fought became what is known as \"the Lost Generation\" because they never fully recovered from their suffering."
+    }
+   ]
+  },
+  {
+   "start": "Wojna miała przynieść rozkwit demokracji",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Jednak wojna, zamiast doprowadzić do rozkwitu demokracji, czego oczekiwano, wzmocniła siły rewolucyjne lewicy i prawicy."
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Wydarzenia w Niemczech nie były jedyną próbą wsparcia „czerwonego marszu bolszewików” i wywołania światowej rewolucji proletariackiej. Jej idee wspierała powołana w marcu 1919 r. w Moskwie Międzynarodówka Komunistyczna, zwana także III Międzynarodówką. 20 marca 1919 roku proklamowana została komunistyczna republika na Węgrzech. Na jej czele stanął Bela Kuhn [czyt.: bela kun]. W kwietniu kolejny raz Niemcy, tym razem na terenie Bawarii, podjęli próbę powołania komunistycznej republiki."
+    },
+    {
+     "file": "src/content/timeline/1918/12/zalozenie-kpd.md",
+     "quote": "30 grudnia 1918 w Berlinie zaczął się zjazd, na którym Związek Spartakusa i lewicowi radykałowie z Bremy i Hamburga założyli Komunistyczną Partię Niemiec."
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "Fala nastrojów rewolucyjnych opadła po klęsce Armii Czerwonej pod Warszawą"
+    },
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "13–25.08.1920: Bitwa Warszawska (Cud nad Wisłą)"
+    }
+   ]
+  },
+  {
+   "start": "Z rozczarowania wojną wyrósł też faszyzm.",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Italy's lack of territorial gain led to the outcome being denounced as a mutilated victory."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Furious over the peace settlement, the Italian nationalist poet Gabriele D'Annunzio led disaffected war veterans and nationalists to form the Free State of Fiume in September 1919. His popularity among nationalists led him to be called Il Duce (\"The Leader\"), and he used black-shirted paramilitary in his assault on Fiume. The leadership title of Duce and the blackshirt paramilitary uniform would later be adopted by the Fascist movement of Benito Mussolini."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Benito Mussolini, who titled himself Duce and ruled the country from 1922 to 1943. In 1914, Benito Mussolini was forced out of the Italian Socialist Party"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Following the end of the war and the Treaty of Versailles in 1919, Mussolini created the Fasci di Combattimento or Combat League. It was originally dominated by patriotic socialist and syndicalist veterans"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I",
+     "quote": "Mussolini moved the organization away from the left and turned the revolutionary movement into an electoral movement in 1921 named the Partito Nazionale Fascista (National Fascist Party)."
+    }
+   ]
+  },
+  {
+   "start": "Najambitniejszym pomysłem nowego porządku",
+   "quotes": [
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/league",
+     "quote": "The League of Nations was an international organization, headquartered in Geneva, Switzerland , created after the First World War to provide a forum for resolving international disputes."
+    },
+    {
+     "file": "src/content/timeline/1918/01/czternascie-punktow-wilsona.md",
+     "quote": "14. Utworzenie ogólnego związku narodów na mocy szczegółowych umów, które zapewnią wzajemne gwarancje politycznej niepodległości i integralności terytorialnej państwom wielkim i małym."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/league",
+     "quote": "drafted the Covenant as Part I of the Treaty of Versailles."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/league",
+     "quote": "Most important for Wilson, the League would guarantee the territorial integrity and political independence of member states, authorize the League to take “any action…to safeguard the peace,” establish procedures for arbitration, and create the mechanisms for economic and military sanctions."
+    },
+    {
+     "url": "https://history.state.gov/milestones/1914-1920/league",
+     "quote": "The United States never joined the League. Most historians hold that the League operated much less effectively without U.S. participation than it would have otherwise."
+    }
+   ]
+  },
+  {
+   "start": "Traktat wersalski krytykowano od początku",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Critics including John Maynard Keynes declared the treaty too harsh, styling it as a \"Carthaginian peace.\" On the other hand, prominent Allied figures such as French Marshal Ferdinand Foch criticized the treaty for treating Germany too leniently."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "John Maynard Keynes, the principal representative of the British Treasury, denounced the Treaty as a \"Carthaginian peace\"."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "In his book The Economic Consequences of the Peace (published 1919), John Maynard Keynes referred to the Treaty of Versailles as a \"Carthaginian peace\", a misguided attempt to destroy Germany on behalf of French revanchism"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "He believed the sums being asked of Germany in reparations were many times more than it was possible for Germany to pay"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Marshal Ferdinand Foch stated \"this (treaty) is not peace. It is an armistice for twenty years.\""
+    }
+   ]
+  },
+  {
+   "start": "Historycy oceniają traktat bardzo różnie.",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "French economist Étienne Mantoux disputed that analysis."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "It has been argued—for instance by historian Gerhard Weinberg in his book A World at Arms[195] (1994)—that the treaty was in fact quite advantageous to Germany. The Bismarckian Reich was maintained as a political unit instead of being broken up, and Germany largely escaped post-war military occupation"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "The British military historian Correlli Barnett argued that the Treaty of Versailles was \"extremely lenient in comparison with the peace terms that Germany herself, when she was expecting to win the war, had had in mind to impose on the Allies\". Furthermore, he said, it was \"hardly a slap on the wrist\" when contrasted with the Treaty of Brest-Litovsk"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "The British historian of modern Germany Richard J. Evans wrote that during the war the German right was committed to an annexationist program which aimed at Germany annexing most of Europe and Africa. Consequently, any peace treaty that did not leave Germany as the conqueror would be unacceptable to them."
+    }
+   ]
+  },
+  {
+   "start": "Większy wpływ niż sam tekst traktatu",
+   "quotes": [
+    {
+     "url": "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "quote": "legenda o ciosie w plecy teoria spiskowa powstała po I wojnie światowej (po 1918 r.) w niemieckich kręgach; głosiła, że winę za przegraną wojnę ponoszą socjaliści, którzy podpisali rozejm w Compiègne na poniżających dla Niemiec warunkach i pomimo chęci Niemców do dalszej walki"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+     "quote": "Dla przeciwników republiki 9 listopada stał się datą „zdrady”."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "The Treaty created much resentment in Germany, which was exploited by Adolf Hitler in his rise to power at the helm of Nazi Germany. Central to this was belief in the stab-in-the-back myth, which held that the German army had not lost the war and had been betrayed by the Weimar Republic, who negotiated an unnecessary surrender. The Great Depression exacerbated the issue and led to a collapse of the German economy. Though the treaty may not have caused the crash, it was a convenient scapegoat."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+     "quote": "Historians are split on the impact of the treaty. Some saw it as a good solution in a difficult time, others saw it as a disastrous measure that would anger the Germans to seek revenge. The actual impact of the treaty is also disputed."
+    },
+    {
+     "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "quote": "What institutions and ideas developed after 1919 to prevent a recurrence? Why did they fail by 1939?"
+    }
+   ]
+  }
+ ]
+}

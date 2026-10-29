@@ -1,0 +1,33 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import TopicCards from "@/components/TopicCards.astro"
+import { paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { localTopics } from "@/utils/topics"
+
+const description =
+  "Najważniejsze pytania o I wojnę światową, każde w jednym tekście: przyczyny i skutki wojny, sprawa polska, nowa broń. Z najważniejszymi datami i źródłami."
+const topics = await localTopics("pl")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: paths("pl").topics,
+  name: "Tematy",
+  description,
+  items: topics.map((topic) => topic.href),
+})
+---
+
+<BaseLayout title="Tematy: I wojna światowa w pytaniach" description={description} alternates={{ en: paths("en").topics }} jsonLd={jsonLd}>
+  <section class="mx-auto max-w-6xl px-6 pt-16 sm:pt-24">
+    <SectionHeading eyebrow="Tematy" count={topics.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">Najważniejsze pytania o Wielką Wojnę.</p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+      Każdy temat to jeden tekst, który odpowiada na całe pytanie, z najważniejszymi datami i odnośnikami do artykułów
+      kroniki, w których można przeczytać więcej.
+    </p>
+  </section>
+  <div class="pt-10 pb-24">
+    <TopicCards />
+  </div>
+</BaseLayout>
