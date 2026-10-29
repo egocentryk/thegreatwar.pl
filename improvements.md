@@ -1749,7 +1749,54 @@ New here (expansion-plan.md §A4, first batch; brief `scripts/society/BRIEF.md`)
   92 (fr.wiki) — the new article gives all three.
 - Cavell arrested 5 VIII (our article, KUMC) vs 6 VIII (en.wiki).
 
----
+## 28. Society, batch 2, and guides 11–12 (2026-10-29)
+
+New here (expansion-plan.md §A4, second batch; brief `scripts/society/BRIEF2.md`).
+
+- 17 timeline articles, PL and EN:
+  - women (7): the "Right to Serve" march (17 VII 1915), Skłodowska-Curie's
+    X-ray cars (1 XI 1914, one source for the day — said in the text), the
+    Women's Battalion of Death (the banner blessing, 4 VII 1917), Elsie
+    Inglis's death, the vote in Britain (6 II 1918), Germany (12 XI) and
+    Poland (28 XI); new tag "kobiety";
+  - the home fronts (6): DORA (8 VIII 1914), bread cards in Germany
+    (22 II 1915), summer time (30 IV 1916), the turnip winter (the potato
+    ordinance of 1 XII 1916, from the newspaper text), British rationing
+    (25 II 1918), hunger in Warsaw and Łódź (Glasenapp's food decree,
+    9 X 1915); new tag "racjonowanie";
+  - culture (4): "In Flanders Fields", Barbusse's "Le Feu" and the Goncourt,
+    Sassoon's protest (read in the Commons 30 VII 1917), Owen's death.
+  "Społeczeństwo": 37 → 49.
+- Person page with portrait: Maria Skłodowska-Curie (country Francja, born
+  in Warsaw, said on the page).
+- Duplicate check done properly this time (stems in titles and summaries,
+  and every planned date): the two January 1918 strikes already existed and
+  were left out.
+- Guides 11–12, PL and EN: Życie w okopach ("Jak wyglądało życie żołnierza
+  w okopach?"; Canadian War Museum, our battle and society articles) and
+  Kobiety w czasie I wojny światowej ("Jak wojna zmieniła życie kobiet?";
+  1914-1918-online's women's mobilisation articles); twelve guides in all.
+  Glossary: okopy, ziemia niczyja, wojna pozycyjna → the trenches guide;
+  racjonowanie → the women guide.
+
+**Later:** guides can't link each other yet — `rewriteEnHtml` doesn't map
+`/tematy/…` to `/en/topics/…` (an English guide would point at the Polish
+one). Extend it before guides cross-link.
+
+### Writers' notes (for the review list)
+
+- CKO dissolved September 1915 (`1915/08/niemcy-zajmuja-warszawe`, the
+  Beseler page) vs liquidated 12 IX 1916 when the RGO was founded (IPN).
+- Glossary "racjonowanie": German bread cards "w styczniu 1915" — the
+  decree was 25 I, the cards came in February (Berlin 22 II, Reich 1 III).
+- Michaelis page: War Grain Company board November 1914 vs founded
+  December 1914 (DHM).
+- Barbusse's Goncourt on 15 XII 1916 rests on fr.wiki alone (others:
+  "December 1916").
+- Women in the first Sejm: "eight in all, with the supplementary
+  elections" (our article) vs eight at the first sitting (National
+  Geographic); who demanded the vote from Piłsudski: Moraczewska (our
+  article) or Budzińska-Tylicka (National Geographic) — the guide names both.
 
 ## Roadmap (checklist)
 
@@ -1832,6 +1879,8 @@ finished, tick it here and add its section above.
 - [x] People index as a portrait wall with filters (§26)
 - [x] Society, batch 1: 17 articles (flu, air aces, spies, Paris Gun) and 3
   person pages, PL/EN (§27)
+- [x] Society, batch 2: 17 articles (women, home fronts, culture), Curie's
+  page, and guides 11–12 (trenches, women), PL/EN (§28)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

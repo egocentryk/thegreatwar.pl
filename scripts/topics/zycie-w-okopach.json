@@ -1,0 +1,736 @@
+{
+ "slug": "zycie-w-okopach",
+ "paragraphs": [
+  {
+   "start": "Żołnierz I wojny światowej, zwłaszcza na froncie",
+   "quotes": [
+    {
+     "url": "https://www.bbc.com/news/magazine-25776836",
+     "quote": "As a result, the British army rotated men in and out continuously. Between battles, a unit spent perhaps 10 days a month in the trench system and, of those, rarely more than three days right up on the front line."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/behind-the-front-lines/rest-and-leisure/",
+     "quote": "They spent four to six days in the front trenches before moving back and spending an equal number of days in the secondary and, finally, the reserve trenches."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Życie w okopach oznaczało błoto, wodę, szczury, wszy, choroby i stały ostrzał."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/rats-lice-and-exhaustion/",
+     "quote": "Random shelling and sniping characterized trench warfare, with earth-shattering or deadly rifle shots periodically breaking the boredom of trench life."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "On the Eastern Front and in the Middle East, the areas to be covered were so vast, and the distances from the factories supplying shells, bullets, concrete and barbed wire so great, trench warfare in the West European style often did not occur."
+    }
+   ]
+  },
+  {
+   "start": "Na początku wojny armie maszerowały i walczyły w polu.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-aisne.md",
+     "quote": "We wrześniu 1914 Niemcy, wycofani znad Marny, obronili wzgórza nad Aisne przed Francuzami i Brytyjczykami."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-aisne.md",
+     "quote": "Żołnierze obu stron zaczęli kopać okopy, a na froncie zachodnim skończyła się wojna manewrowa."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-aisne.md",
+     "quote": "15 września brytyjskie dowództwo nakazało okopać się."
+    }
+   ]
+  },
+  {
+   "start": "Potem obie strony próbowały obejść się od północy.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/wyscig-do-morza.md",
+     "quote": "Po bitwie nad Aisne Francuzi, Brytyjczycy i Niemcy próbowali obejść się od północy. Do połowy października 1914 front dotarł do Morza Północnego."
+    },
+    {
+     "file": "src/content/battles/1914/wyscig-do-morza.md",
+     "quote": "Żadna ze stron nie obeszła skrzydła przeciwnika."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-pod-ypres.md",
+     "quote": "Od 19 października do 22 listopada 1914 alianci obronili Ypres przed nowymi armiami niemieckimi."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Po bitwie nad Marną i wyścigu do morza jesienią 1914 roku na zachodzie powstał nieprzerwany front od wybrzeża Belgii po granicę Szwajcarii, długi na około 700 kilometrów. Karabiny maszynowe, szybkostrzelna artyleria i zasieki z drutu kolczastego dawały obrońcy tak dużą przewagę, że natarcia piechoty kończyły się ogromnymi stratami, a zdobycze liczono w setkach metrów."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na froncie zachodnim trwała od jesieni 1914 do wiosny 1918 roku."
+    }
+   ]
+  },
+  {
+   "start": "Typowy system okopów składał się z kilku równoległych",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Typowy system składał się z kilku równoległych linii: pierwszej, wsparcia i odwodowej, oddalonych od siebie o kilkaset metrów i połączonych rowami dobiegowymi. Rowy kopano zygzakiem albo dzielono trawersami, by wybuch pocisku czy ogień wzdłuż rowu nie raził całej obsady."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Trenches featured a front parapet with a fire step and a rear parados to protect against rear blast."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Walls were revetted with sandbags, wire mesh, or wood, while floors used duckboards over drainage channels."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "In Flanders, high water tables flooded trenches, forcing Allied troops to build above-ground breastworks from sandbags."
+    }
+   ]
+  },
+  {
+   "start": "Z pierwszej linii w stronę przeciwnika wysuwano",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Temporary assembly trenches, utility \"saps\" into no-man's land, and rear fallback positions were also constructed."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Przed pierwszą linią stały pasy zasieków, a żołnierzy chroniły ziemianki i schrony, po stronie niemieckiej często głębokie i betonowe."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "German forces built concrete-reinforced, multi-story dugouts at least 4 m (12 ft) deep with ventilation and amenities."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Belts of barbed wire, razor wire, and concertina wire over 15 m (49 ft) deep stalled advancing infantry in target zones. Combined with machine-gun fire, wire obstacles caused the majority of failed assaults."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Wire was installed at night by wiring parties using quiet screw pickets invented by the Germans."
+    }
+   ]
+  },
+  {
+   "start": "Między okopami wrogich armii leżała",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Pas terenu między okopami walczących stron, którego nie kontrolowała żadna z nich. Zryty lejami i pokryty zasiekami, był pod ogniem obu stron"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "On the Western Front it was typically between 90 and 275 metres (100 and 300 yd), though only 25 metres (30 yd) on Vimy Ridge."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Nocą wychodziły na nią patrole, oddziały naprawiające zasieki i grupy wypadowe, a ranni po nieudanych natarciach leżeli tam często godzinami, bo nie można było do nich dotrzeć."
+    }
+   ]
+  },
+  {
+   "start": "Z czasem obrona przenosiła się w głąb.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Z czasem obrona przenosiła się w głąb: od przełomu 1916 i 1917 roku Niemcy bronili się w strefie umocnionych punktów, w której pierwsza linia była obsadzona słabo, a główną siłę trzymano dalej, do kontrataku."
+    },
+    {
+     "file": "src/content/timeline/1917/03/poczatek-glownego-odwrotu-na-linie-hindenburga.md",
+     "quote": "Brytyjska komisja do spraw nazewnictwa bitew uznała później ten dzień za początek niemieckiego odwrotu na Linię Hindenburga, liczonego od 14 marca do 5 kwietnia 1917 roku."
+    },
+    {
+     "file": "src/content/timeline/1917/03/poczatek-glownego-odwrotu-na-linie-hindenburga.md",
+     "quote": "ale teraz w ruch miał wejść cały front od okolic Arras po Soissons."
+    }
+   ]
+  },
+  {
+   "start": "Żołnierze nie siedzieli w okopach latami bez przerwy.",
+   "quotes": [
+    {
+     "url": "https://www.bbc.com/news/magazine-25776836",
+     "quote": "Units, often wet, cold and exposed to the enemy, would quickly lose their morale if they spent too much time in the trenches."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/behind-the-front-lines/rest-and-leisure/",
+     "quote": "They spent four to six days in the front trenches before moving back and spending an equal number of days in the secondary and, finally, the reserve trenches."
+    },
+    {
+     "url": "https://www.bbc.com/news/magazine-25776836",
+     "quote": "Between battles, a unit spent perhaps 10 days a month in the trench system and, of those, rarely more than three days right up on the front line."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "The 31st Australian Battalion once spent 53 days in the line at Villers-Bretonneux, but such a duration was a rare exception."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Pétain wprowadził też rotację dywizji, zwaną norią: jednostki zmieniano po krótkim okresie walki, zanim zostały całkiem wykrwawione."
+    }
+   ]
+  },
+  {
+   "start": "Dzień w okopach zaczynał się o świcie od alarmu",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/trench-routine/",
+     "quote": "Each dawn, the usual time for an enemy attack, soldiers woke to “stand-to,” guarding their front line trenches. Afterwards, if there had not been an assault, they gathered for inspections, breakfast, and the daily rum ration."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/trench-routine/",
+     "quote": "Following morning stand-to, inspection, and breakfast, soldiers undertook any number of chores, ranging from cleaning latrines to filling sandbags or repairing duckboards. During daylight hours, they conducted all work below ground and away from the snipers’ searching rifles. In between work fatigues, there was often time for leisure activities. Soldiers read, kept journals, wrote letters, or gambled."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Trenches were busiest at night under cover of darkness, which allowed movement of troops and supplies, maintenance of barbed wire, and reconnaissance."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/trench-routine/",
+     "quote": "Here, work parties repaired barbed wire or dug new trenches."
+    }
+   ]
+  },
+  {
+   "start": "Jedzenie było mdłe i monotonne.",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/trench-routine/",
+     "quote": "Bread rations usually arrived in three-pound loaves that were shared among several soldiers. Food was bland and monotonous, but no one ever starved."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Zdobycze przybierały postać występów, które wydłużały front i były trudne do obrony, a głodni żołnierze w wielu miejscach zatrzymywali się, by plądrować brytyjskie magazyny."
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "21 marca – 5 kwietnia 1918 trzy armie niemieckie przełamały front brytyjski nad Sommą"
+    }
+   ]
+  },
+  {
+   "start": "Najgorsze były warunki.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Życie w okopach oznaczało błoto, wodę, szczury, wszy, choroby i stały ostrzał."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/rats-lice-and-exhaustion/",
+     "quote": "Oversized rats, bloated by the food and waste of stationary armies, helped spread disease and were a constant irritant. In 1918, doctors also identified lice as the cause of trench fever, which plagued the troops with headaches, fevers, and muscle pain. The unsanitary conditions of trench life, especially the cold, persistent dampness, resulted in trench foot, a frost-bite-like infection that in extreme cases, led to gangrene and amputation."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Trench fever, spread by lice feces, infected over one million Allied troops, causing severe pain, fevers, and long-term lethargy."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Millions of rats inhabited the trenches, feeding on rations and corpses."
+    },
+    {
+     "file": "src/content/timeline/1916/02/macready-odchodzi-ze-sztabu-bef.md",
+     "quote": "Za tymi suchymi pozycjami kryły się realne problemy: przepełnione szpitale, uzupełnienia dla rozrastającej się armii i tak zwana stopa okopowa w zimie 1914/1915 roku."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Trench foot, caused by prolonged cold and wet conditions, resulted in thousands of casualties until routine hygiene inspections, sock changes, and waterproof boots were introduced."
+    }
+   ]
+  },
+  {
+   "start": "Jesienią i zimą okopy zamieniały się w bagno.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/bitwa-o-grzbiety-transloy.md",
+     "quote": "Kredowe podłoże i gleba zmieniały się w żółtoszare, lepkie błoto, które oblepiało ludzi do kolan, zatykało broń i zamieniało leje w ruchome piaski."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-o-grzbiety-transloy.md",
+     "quote": "Szkoci z 9 Dywizji, wracając z okopu Snag, porzucali po drodze przemoczone, oblepione błotem kilty, których nie mieli już siły nieść."
+    },
+    {
+     "file": "src/content/timeline/1917/07/poczatek-trzeciej-bitwy-pod-ypres.md",
+     "quote": "Zryta tygodniami ostrzału ziemia, pozbawiona zniszczonych rowów melioracyjnych, zamieniała się w błoto, a doliny strumieni w bagna."
+    },
+    {
+     "file": "src/content/battles/1917/trzecia-bitwa-pod-ypres.md",
+     "quote": "Od 31 lipca do 10 listopada 1917 Brytyjczycy nacierali spod Ypres na Passchendaele."
+    },
+    {
+     "file": "src/content/timeline/1917/11/kanadyjczycy-zdobywaja-passchendaele.md",
+     "quote": "Do czwartej rano wszystkie bataliony szturmowe były na pozycjach wyjściowych, w większości w lejach pełnych błota."
+    },
+    {
+     "file": "src/content/timeline/1916/12/koniec-bitwy-pod-verdun.md",
+     "quote": "18 grudnia 1916 żuawi odbili ferme Les Chambrettes."
+    },
+    {
+     "file": "src/content/timeline/1916/12/koniec-bitwy-pod-verdun.md",
+     "quote": "Buchan opisywał, że żołnierze, z odmrożonymi stopami, szli na kolanach albo wsparci na karabinach jak na kulach"
+    }
+   ]
+  },
+  {
+   "start": "Nawet w spokojne dni front zabijał.",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/trench-routine/",
+     "quote": "Outside of formal battles, snipers and shells regularly killed soldiers in the trenches, a phenomenon known as “wastage.” This regular death toll ensured the need for constant reinforcements. In the 800-strong infantry units, “wastage” rates were as high as 10 percent per month, or 80 soldiers killed or incapacitated."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Artillery fire was the main killer in the trenches, causing around 75 percent of casualties through direct hits and flying shell fragments."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "To counter a dramatic rise in lethal head wounds, armies introduced steel helmets starting in 1915: first the French Adrian helmet (replacing the kepi), followed by the British Brodie helmet, which was also adopted by US forces."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Protection from snipers prompted the use of armoured loopholes and trench periscopes"
+    }
+   ]
+  },
+  {
+   "start": "Wojna w okopach to także wypady",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "Pioneered by the Princess Patricia's Canadian Light Infantry in February 1915, trench raids were carried out in order to capture prisoners and \"booty\"—letters and other documents to provide intelligence about the unit occupying the opposing trenches."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "By 1916, raids developed into carefully planned combined-arms operations involving close cooperation between infantry and artillery"
+    },
+    {
+     "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+     "quote": "1 lipca 1916 Brytyjczycy i Francuzi uderzyli nad Sommą."
+    },
+    {
+     "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+     "quote": "Natarcie poprzedził siedmiodniowy ostrzał, który jednak nie dosięgnął głębokich niemieckich schronów."
+    },
+    {
+     "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+     "quote": "Armia brytyjska straciła tego dnia 57 470 ludzi, w tym 19 240 zabitych i zmarłych z ran"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "najczęściej 9–10 mln; Wikipedia: do 11 mln"
+    }
+   ]
+  },
+  {
+   "start": "Od 1915 roku żołnierzom zagrażał też gaz.",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Pierwszy wielki atak gazowy Niemcy przeprowadzili pod Ypres 22 kwietnia 1915 roku."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Później wprowadzono groźniejszy fosgen, a od lipca 1917 roku iperyt, nazwany od Ypres, który parzył skórę i długo utrzymywał się w terenie. Maski przeciwgazowe szybko ograniczyły skuteczność tej broni. Gazy zabiły około 90 tysięcy żołnierzy, a ponad milion zatruły, oślepiły lub okaleczyły."
+    },
+    {
+     "file": "src/content/timeline/1917/06/poczatek-bitwy-pod-messines-1917.md",
+     "quote": "7 czerwca 1917 o 3.10 pod niemieckimi okopami na grzbiecie Messines wybuchło 19 wielkich min."
+    }
+   ]
+  },
+  {
+   "start": "Po wielkich natarciach ranni często długo czekali",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/10/poczatek-pierwszej-bitwy-pod-passchendaele.md",
+     "quote": "12 października 1917 Australijczycy i Nowozelandczycy szli w deszczu na Passchendaele."
+    },
+    {
+     "file": "src/content/timeline/1917/10/poczatek-pierwszej-bitwy-pod-passchendaele.md",
+     "quote": "Nowozelandczycy, którzy dzień wcześniej przejęli odcinek przed Bellevue, zastali stoki zasłane rannymi z 9 października, leżącymi od kilku dni bez pomocy"
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/medicine/medical-treatments/",
+     "quote": "Front line medical officers treated many casualties but, often overwhelmed by sheer numbers, they quickly transported many of the wounded to field ambulances, located as close as safety allowed to the front lines. The ambulances took the wounded to dressing stations and, later, to casualty clearing stations."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/medicine/medical-treatments/",
+     "quote": "Often the doctors and medical orderlies were forced to practice a system of triage, a selection process to determine which patients would be operated on immediately, which could wait a few hours, and which were untreatable and, therefore, would be left to die."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/medicine/medical-treatments/",
+     "quote": "Following an initial recovery from surgery, patients could proceed to stationary and general hospitals in France and England for long-term care."
+    }
+   ]
+  },
+  {
+   "start": "Wojna przyspieszyła rozwój medycyny.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/11/samochody-rentgenowskie-marii-sklodowskiej-curie.md",
+     "quote": "Do końca wojny uczona zorganizowała flotę około 20 samochodów i około 200 stałych pracowni radiologicznych w szpitalach."
+    },
+    {
+     "file": "src/content/timeline/1914/11/samochody-rentgenowskie-marii-sklodowskiej-curie.md",
+     "quote": "Prześwietlenie pozwalało znaleźć w ciele rannego kulę albo odłamek i zobaczyć złamaną kość, zanim chirurg zacznie operować."
+    },
+    {
+     "file": "src/content/timeline/1917/11/smierc-elsie-inglis.md",
+     "quote": "założycielka kobiecych szpitali, które leczyły rannych we Francji, Serbii i Rosji"
+    },
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "według niemieckiego historyka Eckarda Michelsa w czasie drugiej bitwy nad Marną grypa wyłączyła z szeregów niemieckich blisko 400 tysięcy żołnierzy"
+    },
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "27 sierpnia 1918 w Bostonie zachorowali pierwsi marynarze."
+    },
+    {
+     "file": "src/content/timeline/1918/08/druga-fala-hiszpanki.md",
+     "quote": "Najdziwniejsze było to, że umierali przede wszystkim ludzie młodzi i zdrowi, w wieku 20–40 lat, zwykle najodporniejsi na grypę."
+    }
+   ]
+  },
+  {
+   "start": "Wojna raniła też psychikę.",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Shell_shock",
+     "quote": "During the early stages of World War I, in 1914, soldiers from the British Expeditionary Force began to report medical symptoms after combat, including tinnitus, amnesia, headaches, dizziness, tremors, and hypersensitivity to noise."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Shell_shock",
+     "quote": "The term was first published in 1915 in an article in The Lancet by Charles Myers."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/shellshock/",
+     "quote": "Poorly understood at the time and for many years afterwards, the crying, fear, paralysis, or insanity of soldiers exposed to the stress and horror of the trenches was often held by medical professionals to be the result of physical damage to the brain by the shock of exploding shells. Military authorities often saw its symptoms as expressions of cowardice or lack of moral character."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Shell_shock",
+     "quote": "Some men with shell shock were put on trial, and even executed, for military crimes including desertion and cowardice"
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/trench-conditions/shellshock/",
+     "quote": "Doctors diagnosed almost 10,000 Canadians with shellshock during the war. Medical treatment ranged from the gentle to the cruel. Freudian techniques of talk and physical therapy helped many victims, while more extreme methods involved electric shock therapy."
+    }
+   ]
+  },
+  {
+   "start": "Mimo wrogości na cichszych odcinkach frontu",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "W cichszych odcinkach już od listopada zdarzały się nieformalne przerwy w strzelaninie, na przykład gdy po zmroku obie strony przynosiły do okopów jedzenie. Dowódcy dostrzegali to zjawisko i próbowali je zwalczać. 5 grudnia generał Horace Smith-Dorrien, dowódca brytyjskiego II Korpusu, wydał memoriał zakazujący przyjacielskich kontaktów z nieprzyjacielem i nieoficjalnych umów w rodzaju „nie strzelamy, jeśli wy nie strzelacie”."
+    },
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "Pod koniec 1914 roku front zachodni zastygł w linii okopów od morza po Szwajcarię."
+    },
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "papież Benedykt XV wezwał walczące państwa do zawieszenia broni przynajmniej na noc Bożego Narodzenia. Rządy odrzuciły jego apel."
+    }
+   ]
+  },
+  {
+   "start": "W Wigilię i w Boże Narodzenie 1914 roku",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "W Wigilię i w pierwszy dzień Bożego Narodzenia 1914 roku na wielu odcinkach frontu zachodniego ucichły karabiny."
+    },
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "nie był jednym wydarzeniem, lecz serią lokalnych, nieuzgodnionych zawieszeń broni."
+    },
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "W Boże Narodzenie 1914 na części frontu zachodniego żołnierze sami przerwali walkę, wyszli z okopów, wymieniali prezenty i chowali poległych."
+    },
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "Najsłynniejszym elementem rozejmu stały się mecze piłki nożnej na ziemi niczyjej, i to właśnie ta część opowieści jest najsłabiej udokumentowana."
+    },
+    {
+     "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+     "quote": "W kolejnych latach dowództwa zapobiegały podobnym wydarzeniom ostrzałem i rozkazami, a w Boże Narodzenie 1915 roku doszło już tylko do nielicznych, krótkich zawieszeń broni."
+    }
+   ]
+  },
+  {
+   "start": "Prawdziwym wytchnieniem był pobyt na tyłach.",
+   "quotes": [
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/behind-the-front-lines/rest-and-leisure/",
+     "quote": "There was more free time in the rear areas, even though soldiers were ordered to train and provide work parties for the front. When not engaged in these activities, soldiers could idle away hours in a YMCA hut, often the centre of a soldier’s social life. The huts provided a quiet space in the daytime to catch up on reading and writing, and a gathering space for concerts or lectures in the evening."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/behind-the-front-lines/rest-and-leisure/",
+     "quote": "This system of rotation, along with occasional leave to England, prevented many soldiers from breaking down."
+    },
+    {
+     "url": "https://www.warmuseum.ca/firstworldwar/history/life-at-the-front/behind-the-front-lines/rest-and-leisure/",
+     "quote": "Sports also relieved the stress of war and the monotony of soldiering."
+    }
+   ]
+  },
+  {
+   "start": "Na froncie wschodnim, na rozległych przestrzeniach",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na froncie wschodnim, na rozległych przestrzeniach i przy rzadziej obsadzonych liniach, wojna częściej wracała do manewru, ale i tam front na długo zastygał w okopach: zimą 1914/1915 nad Nidą, Rawką i Bzurą, a w latach 1915–1917 na Wołyniu i w Galicji Wschodniej."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "On the Eastern Front and in the Middle East, the areas to be covered were so vast, and the distances from the factories supplying shells, bullets, concrete and barbed wire so great, trench warfare in the West European style often did not occur."
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Pod Bolimowem Niemcy po raz pierwszy masowo użyli gazów."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Od 4 czerwca 1916 cztery armie Brusiłowa przełamały front austro-węgierski na Wołyniu i w Bukowinie."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Pozycje, budowane od jesieni 1915 roku, składały się z trzech pasów umocnień, z głębokimi schronami, betonowymi stanowiskami karabinów maszynowych i kilkoma rzędami zasieków."
+    },
+    {
+     "file": "src/content/timeline/1915/01/poczatek-ofensywy-w-karpatach.md",
+     "quote": "23 stycznia 1915 Austro-Węgry i niemiecka Armia Południowa uderzyły w Karpatach."
+    },
+    {
+     "file": "src/content/timeline/1915/01/poczatek-ofensywy-w-karpatach.md",
+     "quote": "Żołnierze nocowali na śniegu, bez namiotów i ognia, a ranni, których nie dało się szybko znieść w dół, zamarzali."
+    }
+   ]
+  },
+  {
+   "start": "Na froncie włoskim walczono w górach.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/druga-bitwa-nad-isonzo.md",
+     "quote": "W nagiej skale nie dało się wykopać okopów, więc obrońcy kryli się za murkami z ułożonych kamieni. Pociski rozbijały je, a odłamki skał znacznie zwiększały straty."
+    },
+    {
+     "file": "src/content/battles/1915/druga-bitwa-nad-isonzo.md",
+     "quote": "Włosi znów atakowali nad Soczą, głównie Monte San Michele na Krasie."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "In the Alps, trenches reached heights of 3,900 m (12,800 ft) on steep rock and glaciers, including positions on the Ortler, Adamello-Presanella, and Marmolada."
+    }
+   ]
+  },
+  {
+   "start": "Na Gallipoli alianci po desancie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/alianci-laduja-na-gallipoli.md",
+     "quote": "25 kwietnia 1915 Brytyjczycy, Australijczycy, Nowozelandczycy i Francuzi wylądowali pod Dardanelami."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Trench_warfare",
+     "quote": "At the \"Quinn's Post\" in the cramped confines of the Anzac battlefield at Gallipoli, the opposing trenches were only 15 metres (16 yd) apart and the soldiers in the trenches constantly threw hand grenades at each other."
+    },
+    {
+     "file": "src/content/battles/1915/kampania-gallipolijska.md",
+     "quote": "wyczerpani czerwonką i upałem żołnierze"
+    },
+    {
+     "file": "src/content/timeline/1915/12/rozkaz-ewakuacji-suvli-i-anzac.md",
+     "quote": "Od 26 do 30 listopada nad półwyspem szalała burza, ulewa, a potem śnieżyca i mróz. Brytyjska historia oficjalna podaje, że pod samą Suvlą odnotowano ponad 5 tysięcy przypadków odmrożeń, a ponad 200 ludzi utonęło w zalanych okopach albo zamarzło."
+    },
+    {
+     "file": "src/content/timeline/1916/01/koniec-ewakuacji-gallipoli.md",
+     "quote": "W nocy z 8 na 9 stycznia 1916 ostatni żołnierze brytyjscy odpłynęli spod Helles."
+    }
+   ]
+  },
+  {
+   "start": "Wojna w okopach stworzyła własną literaturę.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/in-flanders-fields.md",
+     "quote": "3 maja 1915 pod Ypres kanadyjski lekarz John McCrae, dzień po pogrzebie przyjaciela, napisał „In Flanders Fields”"
+    },
+    {
+     "file": "src/content/timeline/1915/05/in-flanders-fields.md",
+     "quote": "napisał wiersz o zmarłych, którzy jeszcze niedawno żyli, a teraz leżą pod krzyżami wśród maków"
+    },
+    {
+     "file": "src/content/timeline/1915/05/in-flanders-fields.md",
+     "quote": "Nie jest to skarga na wojnę, lecz zachęta, by walczyć dalej."
+    },
+    {
+     "file": "src/content/timeline/1915/05/in-flanders-fields.md",
+     "quote": "Po wojnie z jego wiersza wziął się zwyczaj noszenia czerwonego maku polnego, który do dziś w krajach Wspólnoty Narodów przypina się w Dniu Pamięci."
+    }
+   ]
+  },
+  {
+   "start": "Francuz Henri Barbusse, który jako 41-letni",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/12/ogien-barbussea-z-nagroda-goncourtow.md",
+     "quote": "Mimo to w 1914 roku, mając 41 lat i chore płuca, zgłosił się na ochotnika do piechoty."
+    },
+    {
+     "file": "src/content/timeline/1916/12/ogien-barbussea-z-nagroda-goncourtow.md",
+     "quote": "„Ogień” opowiada o żołnierzach jednej drużyny"
+    },
+    {
+     "file": "src/content/timeline/1916/12/ogien-barbussea-z-nagroda-goncourtow.md",
+     "quote": "Barbusse pokazał wojnę jako brud, błoto, zmęczenie i śmierć, a nie jako bohaterski czyn"
+    },
+    {
+     "file": "src/content/timeline/1916/12/ogien-barbussea-z-nagroda-goncourtow.md",
+     "quote": "15 grudnia 1916 roku Nagrodę Goncourtów"
+    },
+    {
+     "file": "src/content/timeline/1916/12/ogien-barbussea-z-nagroda-goncourtow.md",
+     "quote": "Żołnierze przyjmowali ją za to jako wierny obraz tego, co przeżyli."
+    },
+    {
+     "file": "src/content/timeline/1916/12/ogien-barbussea-z-nagroda-goncourtow.md",
+     "quote": "Po wojnie część kombatantów, jak krytyk Jean Norton Cru, zarzucała „Ogniowi” mieszanie prawdy z literacką przesadą"
+    }
+   ]
+  },
+  {
+   "start": "W Wielkiej Brytanii najgłośniejszy był protest",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/07/protest-siegfrieda-sassoona.md",
+     "quote": "W 1916 roku dostał Krzyż Wojskowy za wynoszenie rannych spod ognia po wypadzie na niemieckie okopy."
+    },
+    {
+     "file": "src/content/timeline/1917/07/protest-siegfrieda-sassoona.md",
+     "quote": "30 lipca 1917 w Izbie Gmin odczytano protest poety Siegfrieda Sassoona, odznaczonego oficera, który odmówił służby, bo uznał, że wojnę celowo się przedłuża."
+    },
+    {
+     "file": "src/content/timeline/1917/07/protest-siegfrieda-sassoona.md",
+     "quote": "Władze nie chciały procesu przed sądem wojennym, który dałby protestowi rozgłos."
+    },
+    {
+     "file": "src/content/timeline/1917/07/protest-siegfrieda-sassoona.md",
+     "quote": "20 lipca komisja uznała, że przechodzi załamanie nerwowe i nie odpowiada za swoje czyny, a 23 lipca odesłano go do szpitala wojskowego Craiglockhart pod Edynburgiem, leczącego oficerów z nerwicą frontową."
+    }
+   ]
+  },
+  {
+   "start": "Tam Sassoon poznał młodszego poetę",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/smierc-wilfreda-owena.md",
+     "quote": "Wiosną, po wstrząśnieniu mózgu i wybuchu pocisku moździerza okopowego, rozpoznano u niego nerwicę frontową"
+    },
+    {
+     "file": "src/content/timeline/1918/11/smierc-wilfreda-owena.md",
+     "quote": "Sassoon zachęcił go, by pisał o tym, co przeżył na froncie."
+    },
+    {
+     "file": "src/content/timeline/1918/11/smierc-wilfreda-owena.md",
+     "quote": "„Dulce et Decorum Est”, w którym tytułową łacińską sentencję o słodyczy śmierci za ojczyznę nazwał „starym kłamstwem”. W szkicu przedmowy do zamierzonego tomu napisał: „Moim tematem jest Wojna i litość Wojny."
+    },
+    {
+     "file": "src/content/timeline/1918/11/smierc-wilfreda-owena.md",
+     "quote": "Latem 1918 roku wrócił na front"
+    },
+    {
+     "file": "src/content/timeline/1918/11/smierc-wilfreda-owena.md",
+     "quote": "4 listopada 1918, tydzień przed rozejmem, zginął przy przeprawie przez kanał pod Ors"
+    },
+    {
+     "file": "src/content/timeline/1918/11/smierc-wilfreda-owena.md",
+     "quote": "Jego wiersze wydał w 1920 roku Sassoon"
+    }
+   ]
+  },
+  {
+   "start": "Obraz okopów jako daremnej rzezi utrwaliła",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Lions_led_by_donkeys",
+     "quote": "Such works are in the literary tradition of the war poets like Wilfred Owen, Siegfried Sassoon and Erich Maria Remarque's novel (and subsequent film) All Quiet on the Western Front"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lions_led_by_donkeys",
+     "quote": "The phrase was implied by English popular historian Alan Clark in the title of his 1961 study of the Western Front of World War I, The Donkeys."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lions_led_by_donkeys",
+     "quote": "His study, which characterised British general officers of the period as incompetent, has been the subject of intense criticism by other historians such as John Terraine."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lions_led_by_donkeys",
+     "quote": "At one time Clark said Hart had given him the quote (unlikely as Hart had asked him where it came from) and Clark's biographer believes he invented the Ludendorff and Hoffmann attribution."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Lions_led_by_donkeys",
+     "quote": "The musical Oh, What a Lovely War! (1963) and the comedy television series Blackadder Goes Forth (1989) are two well-known works of popular culture, depicting the war as a matter of incompetent donkeys sending noble (or sometimes ignoble, in the case of Blackadder) lions to their doom."
+    }
+   ]
+  },
+  {
+   "start": "Przeciw temu obrazowi wystąpili historycy",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Lions_led_by_donkeys",
+     "quote": "Brian Bond, for having given rise to what Bond considered the myth and conventional wisdom of the \"necessary and successful\" Great War as futile."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+     "quote": "Cavalry represented less than three per cent of the BEF in France by September 1916, whilst the British were the most mechanised force in the world by 1918, supported by the world's largest air force."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+     "quote": "Popular \"media opinion\" had failed to grasp that under Haig, the British Army adopted a modern style of war in 1918."
+    },
+    {
+     "url": "https://www.bbc.com/news/magazine-25776836",
+     "quote": "During the war more than 200 generals were killed, wounded or captured."
+    },
+    {
+     "url": "https://www.bbc.com/news/magazine-25776836",
+     "quote": "By the summer of 1918 the British army was probably at its best ever and it inflicted crushing defeats on the Germans."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+     "quote": "Other historians, notably John Keegan, refused to accept that the British Army underwent a \"learning curve\"; despite this example, Bourne wrote that there \"is little disagreement among scholars about the nature of the military transformation\"."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+     "quote": "Tim Travers blamed the management of early campaigns on the ethos of the pre-war officer corps, which was based on privilege, with a hierarchy intent on self-preservation and maintaining individual reputations. As a consequence the army was poorly positioned to adapt quickly."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+     "quote": "He was nicknamed \"Butcher Haig\" for the two million British casualties under his command."
+    }
+   ]
+  },
+  {
+   "start": "Według Bourne'a wśród badaczy niewiele jest",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Douglas_Haig,_1st_Earl_Haig",
+     "quote": "There is no consensus on the speed of a learning curve."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Z impasu na zachodzie wyprowadziły dopiero w 1918 roku nowe metody: krótki, starannie zaplanowany ostrzał, taktyka oddziałów szturmowych, czołgi i współdziałanie wszystkich rodzajów broni."
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "8 sierpnia pod Amiens czołgi pomogły Kanadyjczykom i Australijczykom przełamać front"
+    }
+   ]
+  }
+ ]
+}

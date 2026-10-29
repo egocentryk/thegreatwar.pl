@@ -1,0 +1,22 @@
+---
+title: Death of Elsie Inglis
+summary: On 26 November 1917 the Scottish doctor Elsie Inglis died in Newcastle. She founded the women's hospitals that treated the wounded in France, Serbia and Russia.
+source: smierc-elsie-inglis
+sourceHash: e011d059b403a3767fab936256baff742cf1d210
+---
+
+On 26 November 1917 the Scottish doctor Elsie Inglis, founder of the Scottish Women's Hospitals, died at the Station Hotel in [Newcastle upon Tyne](https://pl.wikipedia.org/wiki/Newcastle_upon_Tyne). The day before she had come ashore there from the ship on which she had returned from Russia together with her unit and Serbian soldiers. She had been suffering from bowel cancer for months, but would not leave Russia until the Serbs she was caring for had left it. She was 53. Her sisters were at her bedside.
+
+She was born in 1864 at Naini Tal in India, where her father was an official. From 1886 she studied medicine at the Edinburgh School of Medicine for Women, and in 1892 she qualified to practise. She practised in [Edinburgh](https://pl.wikipedia.org/wiki/Edynburg) and was one of the leading Scottish suffragists, from 1906 to 1914 secretary of the Scottish Federation of Women's Suffrage Societies. The organisation belonged to the moderate wing of the movement, which campaigned for the vote without violence.
+
+## Women's hospitals
+
+When war broke out, Inglis offered the War Office hospitals staffed entirely by women. She was reportedly told to go home and sit still. So she raised money among the suffragists and founded the Scottish Women's Hospitals. Their doctors, nurses, orderlies and drivers worked for Allies who were more willing to accept help. The first unit went to France in November 1914, and at the abbey of Royaumont, north of Paris, a hospital was set up which ran under the French Red Cross until the end of the war. Further units went to Serbia. By the end of the war the organisation had sent fourteen units, to France, Serbia, Russia, Romania, Greece, Corsica and Malta, and more than a thousand women served in them.
+
+In 1915 Inglis herself went to Serbia as chief medical officer. The country was ravaged by an epidemic of [typhus](https://pl.wikipedia.org/wiki/Tyfus_plamisty), which also killed four of her colleagues. In the autumn, during the [conquest of Serbia](/bitwy/podboj-serbii) by the Central Powers, instead of escaping with the army over the mountains of Albania she stayed with the wounded at [Kruševac](https://pl.wikipedia.org/wiki/Kruševac) and was taken prisoner. She was released in February 1916 and returned home via Switzerland. In April she became the first woman to receive the Serbian [Order of the White Eagle](https://pl.wikipedia.org/wiki/Order_Orła_Białego_(Serbia)).
+
+## With the Serbs in Russia
+
+In August 1916 Inglis sailed with a new unit to [Odessa](https://pl.wikipedia.org/wiki/Odessa) to care for the soldiers of the 1st Serbian Volunteer Division. It was being formed in Russia from prisoners of war, Serbs, Croats and Slovenes from the Austro-Hungarian army, who wanted to fight against their own state. The division [went into action in the Dobruja](/rosjanie-wkraczaja-do-dobrudzy) and suffered heavy losses there, and Inglis's hospital went with it through the whole painful retreat across the [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża) as far as Brăila on the Danube, where a handful of women doctors dressed the wounds of thousands. The unit stayed on the Romanian front until September 1917 and then rejoined the Serbs. Inglis was by then seriously ill and could no longer operate, but she still ran the hospital. After the [Bolshevik coup](/rewolucja-pazdziernikowa) the division was being shipped out of Russia through [Archangel](https://pl.wikipedia.org/wiki/Archangielsk) to the Macedonian front, and Inglis sailed with the Serbs to Britain. Before leaving she telegraphed home: "Everything satisfactory and all well except me."
+
+Her coffin lay in state in [St Giles' Cathedral](https://pl.wikipedia.org/wiki/Katedra_św._Idziego_w_Edynburgu) in Edinburgh. Members of the British and Serbian royal families attended her funeral on 29 November, and the newspapers wrote of a great public tribute. [Winston Churchill](/postacie/winston-churchill) said of Inglis and her nurses that "they will shine in history". With the money left in the hospitals' funds, a maternity hospital bearing her name was opened in Edinburgh in 1925.

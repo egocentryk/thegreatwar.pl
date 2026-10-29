@@ -187,6 +187,9 @@ DORA and British rationing, summer time, hunger in Warsaw and Łódź) and
 culture ("In Flanders Fields", Wilfred Owen), then the guides "Życie w
 okopach" and "Kobiety w czasie wojny".
 
+**Done 2026-10-29 (batch 2):** all of the above — 17 articles, Curie's
+page, and both guides (improvements.md §28). "Społeczeństwo": 27 → 49.
+
 ### A5. Campaign overviews and thin fronts
 
 - The overview battle pages that articles keep linking to Wikipedia for
