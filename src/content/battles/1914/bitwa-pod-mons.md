@@ -26,7 +26,7 @@ Korpus Ekspedycyjny, dowodzony przez marszałka [Johna Frencha](/postacie/john-f
 
 Rano 23 sierpnia Niemcy zaatakowali przeprawy przez kanał. Główny ciężar walki spadł na II Korpus generała Horace'a Smith-Dorriena, broniący linii kanału i wysuniętego łuku przy mostach w Nimy. I Korpus generała [Douglasa Haiga](/postacie/douglas-haig) był mniej zaangażowany.
 
-Brytyjscy żołnierze byli zawodowcami, doskonale wyszkolonymi w szybkim i celnym strzelaniu z karabinu. Ich ogień był tak skuteczny, że według relacji Niemcy sądzili, iż mają przed sobą liczne karabiny maszynowe. Niemiecka piechota, nacierająca w zwartych szykach, poniosła ciężkie straty. Za obronę mostów w Nimy porucznik Maurice Dease i szeregowiec Sidney Godley otrzymali pierwsze w tej wojnie [Krzyże Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii).
+Brytyjscy żołnierze byli zawodowcami, doskonale wyszkolonymi w szybkim i celnym strzelaniu z karabinu. Ich ogień był tak skuteczny, że według relacji Niemcy sądzili, iż mają przed sobą liczne karabiny maszynowe. Niemiecka piechota, nacierająca w zwartych szykach, poniosła ciężkie straty. Za obronę mostów w Nimy porucznik Maurice Dease i szeregowiec Sidney Godley otrzymali jedne z pierwszych w tej wojnie [Krzyży Wiktorii](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii). Krzyże za ten dzień otrzymali też saperzy, kapitan Theodore Wright i kapral Charles Jarvis.
 
 Przewaga liczebna Niemców była jednak zbyt duża. Po południu przeprawili się przez kanał w kilku miejscach, a Brytyjczycy zaczęli wycofywać się na drugą linię. Wieczorem nadeszła wiadomość, że francuska 5 Armia po klęsce pod Charleroi rozpoczęła odwrót. Brytyjczykom groziło okrążenie.
 

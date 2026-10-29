@@ -253,6 +253,9 @@ should link to each other (§B8).
   - Gaz i nowa broń
 - Short articles: 247 are under 300 words. Expand the milestone ones first
   when sourcing them (`planned-improvements.md` §1).
+  **Done 2026-10-29:** the 10 short milestones and 20 key short articles,
+  with sources (improvements.md §34). Next: the ~400-word 1914 battle
+  pages (Mons, Charleroi, the Ardennes, Lorraine, Miluza).
 
 ---
 

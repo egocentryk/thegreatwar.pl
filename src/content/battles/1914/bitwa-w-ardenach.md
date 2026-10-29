@@ -28,7 +28,7 @@ Założenie było błędne. W Ardenach znajdowały się dwie silne armie niemiec
 
 22 sierpnia francuskie kolumny, maszerujące przez lasy, niespodziewanie natknęły się na przygotowane do walki oddziały niemieckie. W wielu miejscach naraz, między innymi pod Rossignol, [Virton](https://pl.wikipedia.org/wiki/Virton) i Neufchâteau oraz w rejonie [Longwy](https://pl.wikipedia.org/wiki/Longwy), doszło do gwałtownych, chaotycznych starć. Francuska piechota, w jaskrawych mundurach i nacierająca na bagnety, padała pod ogniem karabinów maszynowych i artylerii.
 
-Szczególnie ciężkie straty poniósł Korpus Kolonialny pod Rossignol, gdzie niemal zniszczona została jedna z jego dywizji. Tego dnia na całym froncie bitew granicznych zginęło około 27 tysięcy francuskich żołnierzy. To więcej niż w jakimkolwiek innym pojedynczym dniu walk w dziejach Francji.
+Szczególnie ciężkie straty poniósł Korpus Kolonialny pod Rossignol, gdzie niemal zniszczona została jedna z jego dywizji. Tego dnia na całym froncie bitew granicznych zginęło według często przytaczanych szacunków około 27 tysięcy francuskich żołnierzy, a według innych zestawień co najmniej 25 tysięcy. To więcej niż w jakimkolwiek innym pojedynczym dniu walk w dziejach Francji.
 
 ## Odwrót
 

@@ -1917,6 +1917,57 @@ Owner's request ("don't make a mess in the repo").
   September (`australijczycy-zdobywaja-komet`); Japanese name order differs
   between the Tsingtao page (Western) and the Yap article (Japanese).
 
+## 34. Short articles expanded (2026-10-29)
+
+- 30 of the 242 articles under 300 words rewritten at full length, PL and
+  EN (brief `scripts/briefs/expand-short.md`, checker
+  `scripts/checks/expand.py`): the 10 short milestones (Mons, Charleroi,
+  the Ardennes, Morhange–Sarrebourg, Miluza, Gete, three declarations of
+  war, the Kraśnik battle page) and 20 short articles on key events (the
+  July crisis mobilizations and ultimatums, Belgium and Luxembourg, the
+  German–Ottoman alliance, Italian neutrality, the Japanese ultimatum,
+  Hindenburg, the first days on the Kingdom's border, Kitchener's army,
+  the first bomb on England, Haller in France). 210–293 → 474–772 words
+  (Kraśnik 290 → 1,226), each with 3–8 `sources:` actually opened; these
+  are the first timeline articles with sources (planned-improvements §1).
+- Front matter unchanged except `sources:`; five summaries and three
+  "W skrócie" lists corrected where facts were wrong. The other ~210 short
+  articles are minor events whose length fits; the "Początek/Koniec
+  bitwy…" pointers stay short (their battle pages carry the story).
+- Corrections in the old texts: Grey on 24 VII proposed four-power
+  mediation, the conference came on 26 VII; Dease and Godley's VCs were
+  "among the first" (also on the Mons battle page; Wright and Jarvis
+  added); 22 VIII French dead "about 27,000, at least 25,000 by other
+  counts" (also on the Ardennes page and the Frontiers article); French
+  mobilization "nearly 2.9 million 1–15 VIII"; unverifiable claims removed
+  (the German state of imminent war handing power to the army, the Adolphe
+  Bridge meeting, the Prostki "first shots", Kitchener's "7 VIII, ages
+  19–30" appeal, a wounded boy at Dover). Two pl.wiki links converted to
+  our pages (Leon Biliński, Liège).
+- Port note: the checker compares front matter with `git HEAD`, so run it
+  before committing.
+
+### Writers' notes (for the review list)
+
+- `austro-wegry-wypowiadaja-wojne-belgii` (22 VIII): the note is dated The
+  Hague, 28 VIII (Grey Book No. 77, FRUS, Rauchensteiner); only British
+  chronicles give 22 VIII. Kept on 22 VIII with the facts in the text;
+  consider moving it.
+- `pierwsze-walki-na-granicy-krolestwa-polskiego` (1 VIII): no real
+  fighting that day; the title is loose (the text says so).
+- `general-haller-we-francji`: the Le Havre landing rests on the notes to
+  Dmowski's post-war edition only.
+- `japonia-oglasza-stan-wojny-z-austro-wegrami` (25 VIII): Rauchensteiner
+  says it was unclear for months whether the two were at war.
+- `wielka-brytania-wypowiada-wojne-niemcom`: "23:00 London" deadline not
+  in the primary texts ("12 o'clock to-night").
+- `pierwszy-niemiecki-nalot-na-anglie`: pilot "Stephan von Prondzynski"
+  (Castle) vs "Alfred", not the pilot (Dover Society).
+- Battle pages: `bitwa-nad-gete` withdrawal "around 16.30" vs the Belgian
+  official account ("till late in the evening"); `bitwa-pod-liege` "all
+  forts fell by 16 VIII" vs 16–17 VIII. The Mons, Charleroi, Ardennes,
+  Lorraine and Miluza battle pages are ~400 words: next candidates.
+
 ---
 
 ## Roadmap (checklist)
@@ -2007,6 +2058,8 @@ finished, tick it here and add its section above.
 - [x] Campaign overviews, second set (Nivelle, Hundred Days, Isonzo, the
   Pacific 1914) and three Italian battles; Polish-thread articles linked
   from the guides and the series (§33)
+- [x] Short articles expanded: 10 milestones and 20 key events, with
+  sources, PL/EN (§34)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

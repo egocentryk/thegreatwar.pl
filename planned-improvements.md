@@ -22,7 +22,9 @@ to articles, the map links to treaties).
 
 The `sources:` field and the "Źródła / Sources" list exist (`Sources.astro`,
 improvements.md §11), but **no timeline article and no battle page has any
-sources yet** (0 of 2,624 and 0 of 310). Only the 242 person pages have
+sources yet** (0 of 2,624 and 0 of 310). Update 2026-10-29: articles
+written since (§28–§33) and the 30 expanded ones (§34) have them: 77
+timeline articles and 13 battle pages, but only 9 of the 423 milestones. Only the 242 person pages have
 them, from their Wikipedia biographies (`scripts/person-sources.mjs`).
 thesecondwar.pl recovered sources for 730 pages from writer transcripts.
 That isn't possible here, because only 7 transcripts are left.

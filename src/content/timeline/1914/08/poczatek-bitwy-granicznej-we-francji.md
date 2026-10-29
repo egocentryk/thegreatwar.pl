@@ -36,7 +36,7 @@ Wcześniej, od 4 sierpnia, Belgowie bronili twierdzy Liège, co opisuje [bitwa p
 
 ## Klęska ofensywy
 
-Francuskie ofensywy w Lotaryngii i Ardenach załamały się pod ogniem niemieckiej artylerii i karabinów maszynowych. Francuska piechota, nacierająca w zwartych szykach i jaskrawych mundurach, ponosiła ogromne straty. 22 sierpnia był najkrwawszym dniem w historii armii francuskiej: zginęło około 27 tysięcy żołnierzy. Jednocześnie niemieckie prawe skrzydło przeszło przez Belgię i zagroziło lewemu skrzydłu armii francuskiej oraz Brytyjczykom.
+Francuskie ofensywy w Lotaryngii i Ardenach załamały się pod ogniem niemieckiej artylerii i karabinów maszynowych. Francuska piechota, nacierająca w zwartych szykach i jaskrawych mundurach, ponosiła ogromne straty. 22 sierpnia był najkrwawszym dniem w historii armii francuskiej: zginęło według często przytaczanych szacunków około 27 tysięcy żołnierzy, według innych zestawień co najmniej 25 tysięcy. Jednocześnie niemieckie prawe skrzydło przeszło przez Belgię i zagroziło lewemu skrzydłu armii francuskiej oraz Brytyjczykom.
 
 ## Znaczenie
 

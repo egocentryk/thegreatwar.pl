@@ -9,14 +9,30 @@ dayOrder: 7
 tags: [ultimatum wobec Belgii, Belgia, Niemcy, Albert I]
 milestone: false
 draft: false
+sources:
+  - "https://archive.org/details/cu31924026425144"
+  - "https://dbnl.org/tekst/_ons003197701_01/_ons003197701_01_0069.php"
+  - "http://www.firstworldwar.com/source/belgium_germanrequest.htm"
 ---
 
-3 sierpnia 1914 roku o godzinie 7 rano, dokładnie w chwili upływu terminu, rząd [Belgii](https://pl.wikipedia.org/wiki/Belgia) przekazał Niemcom odpowiedź na ultimatum z poprzedniego wieczoru. Była to stanowcza odmowa. Belgia nie zgodziła się na przemarsz wojsk niemieckich przez swoje terytorium i zapowiedziała, że będzie się bronić.
+3 sierpnia 1914 roku o godzinie 7 rano, w chwili upływu terminu, minister spraw zagranicznych [Belgii](https://pl.wikipedia.org/wiki/Belgia) Julien Davignon przekazał niemieckiemu posłowi Clausowi von Below-Saleskemu odpowiedź na [ultimatum z poprzedniego wieczoru](/niemcy-stawiaja-belgii-ultimatum). Była to stanowcza odmowa. Belgia nie zgodziła się na przemarsz wojsk niemieckich i zapowiedziała, że odeprze każdy zamach na swoje prawa.
 
-Decyzję podjęto w nocy podczas narady rządu i przywódców politycznych, zwołanej przez króla [Alberta I](/postacie/albert-i). Mimo świadomości, że armia belgijska jest nieporównanie słabsza od niemieckiej, nikt nie opowiedział się za ustępstwem. W odpowiedzi stwierdzono, że przyjęcie niemieckich propozycji oznaczałoby poświęcenie honoru narodu i zdradę obowiązków wobec Europy. Belgia przypominała, że jej neutralność gwarantowały mocarstwa, w tym Prusy, i zapowiadała, że odeprze każdy zamach na swoje prawa wszelkimi dostępnymi środkami.
+## Nocna narada
 
-Tego samego dnia król Albert zwrócił się do króla Wielkiej Brytanii [Jerzego V](/postacie/jerzy-v) z apelem o dyplomatyczne wsparcie w obronie belgijskiej neutralności. Rząd w Brukseli nie wzywał jeszcze pomocy wojskowej gwarantów. Chciał, by nie było żadnych wątpliwości, że to Niemcy jako pierwsze naruszą belgijską granicę.
+Decyzja zapadła w nocy w pałacu królewskim w [Brukseli](https://pl.wikipedia.org/wiki/Bruksela). Wieczorem 2 sierpnia rząd zebrał się tam z wyższymi oficerami, a później dołączyli ministrowie stanu, najbardziej doświadczeni politycy kraju. Według belgijskiego historyka Lode Wilsa spierano się nie o to, czy odrzucić żądania, lecz o to, jak daleko posunąć się w oporze. Z wyjątkiem jednego oficera nikt nie chciał rzucić do walki całej armii, by zatrzymać przemarsz. Szef sztabu proponował, by garnizony [Liège](https://pl.wikipedia.org/wiki/Liège) i [Namuru](https://pl.wikipedia.org/wiki/Namur) opóźniały nieprzyjaciela, a armia polowa wycofała się do [Antwerpii](https://pl.wikipedia.org/wiki/Antwerpia). Minister stanu Charles Woeste radził: „Trzeba starać się, stawiając opór, nie narazić się Niemcom”. Inny minister wspominał później słowa: „Trzeba będzie wystrzelić z armat, ale po tej demonstracji wycofać się do Antwerpii i pozwolić działać”. Większość uznała takie stawianie sprawy za zbyt dosadne. Po długiej dyskusji narada jednomyślnie postanowiła ultimatum odrzucić.
 
-Odmowa miała ogromne znaczenie moralne i polityczne. Małe państwo odrzuciło żądania najpotężniejszej armii Europy, wiedząc, że grozi mu inwazja i zniszczenie. W Wielkiej Brytanii i w innych krajach postawa Belgii wzbudziła powszechny podziw i stała się jednym z głównych argumentów za przystąpieniem Londynu do wojny.
+O 1:30 w nocy Below poprosił o widzenie z sekretarzem generalnym ministerstwa, baronem van der Elstem. Oświadczył, że francuskie sterowce zrzuciły bomby, a francuski patrol kawalerii przekroczył granicę, choć wojny nie wypowiedziano. Zapytany, gdzie do tego doszło, odpowiedział, że w Niemczech. Van der Elst stwierdził, że w takim razie nie rozumie celu tej wizyty. Below tłumaczył, że takie czyny pozwalają przypuszczać, iż Francja dopuści się kolejnych.
 
-Następnego dnia, 4 sierpnia rano, wojska niemieckie przekroczyły granicę Belgii. Belgijska armia, zmobilizowana kilka dni wcześniej, przystąpiła do obrony, a pierwsze ciężkie walki rozgorzały wokół fortów [Liège](https://pl.wikipedia.org/wiki/Liège).
+## „Honor narodu”
+
+Belgijska nota streszczała niemieckie żądania, po czym stwierdzała, że wywarły one na rządzie „głębokie i bolesne wrażenie”. Zamiary przypisywane Francji przeczyły formalnym zapewnieniom, jakie rząd francuski złożył 1 sierpnia. Gdyby jednak to Francja naruszyła neutralność, Belgia spełni swoje obowiązki i jej armia stawi najenergiczniejszy opór. Rząd przypominał, że niepodległość i neutralność kraju gwarantowały mocarstwa, „a zwłaszcza rząd Jego Królewskiej Mości króla Prus”. Zamach, którym grożą Niemcy, byłby rażącym pogwałceniem prawa międzynarodowego i „żaden interes strategiczny” go nie usprawiedliwia.
+
+Najważniejsze zdania brzmiały: „Rząd belgijski, przyjmując przedłożone mu propozycje, poświęciłby honor narodu i zdradziłby swoje obowiązki wobec Europy. Świadom roli, jaką Belgia od ponad osiemdziesięciu lat odgrywa w cywilizacji świata, nie chce wierzyć, że niepodległość Belgii można zachować tylko za cenę pogwałcenia jej neutralności. Jeśli ta nadzieja zostanie zawiedziona, rząd belgijski jest stanowczo zdecydowany odeprzeć wszelkimi dostępnymi mu środkami każdy zamach na swoje prawa”. Według Wilsa francuski poseł, wiedząc o wcześniejszych wątpliwościach co do belgijskiej determinacji, opublikował tekst odpowiedzi, gdy tylko się z nim zapoznał.
+
+## Jeszcze bez wzywania gwarantów
+
+W południe Davignon zawiadomił belgijskich posłów za granicą, że ponieważ nie doszło jeszcze do żadnego aktu wojny, rząd na razie nie wzywa pomocy mocarstw gwarantujących. Francuski poseł zapewnił go, że Francja odpowie natychmiast, jeśli Belgia ją wezwie. Bruksela chciała, by nie było wątpliwości, kto pierwszy naruszy jej granicę.
+
+Król [Albert I](/postacie/albert-i) zwrócił się tego dnia do króla [Jerzego V](/postacie/jerzy-v): „Pamiętając o licznych dowodach przyjaźni Waszej Królewskiej Mości i Waszego poprzednika, o przyjaznej postawie Anglii w 1870 roku i o dowodzie przyjaźni, jaki dopiero co nam daliście, zwracam się z najwyższym apelem o dyplomatyczną interwencję rządu Waszej Królewskiej Mości w obronie integralności Belgii”. Belgijski poseł w Londynie meldował, że minister [Edward Grey](/postacie/edward-grey) przedstawił sprawę gabinetowi i oświadczył, że naruszenie belgijskiej neutralności będzie oznaczało wojnę z Niemcami.
+
+Odmowa nie zatrzymała Niemiec. Rano 4 sierpnia Below wręczył Davignonowi notę zapowiadającą, że Niemcy przeprowadzą swoje zamiary, w razie potrzeby siłą oręża, a dwie godziny później wojska niemieckie przekroczyły granicę.

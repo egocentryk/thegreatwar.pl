@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm]
 result: German victory. The French suffered very heavy losses and withdrew behind the Meuse.
 source: bitwa-w-ardenach
-sourceHash: 0fd99c5815af58908c0e38f31acf57924df2204b
+sourceHash: 56e329800d7b26b315c4a3d5eb7046f7f6f55315
 ---
 
 The Battle of the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny), fought on 21–24 August 1914, was one of the bloodiest episodes of the [Battle of the Frontiers](/bitwy/bitwa-graniczna). It included 22 August, the day on which the French army suffered the heaviest losses in its entire history.
@@ -24,7 +24,7 @@ The assumption was wrong. In the Ardennes stood two strong German armies: the Fo
 
 On 22 August French columns marching through the forests unexpectedly ran into German units ready for battle. In many places at once, among them near Rossignol, [Virton](https://pl.wikipedia.org/wiki/Virton) and Neufchâteau and in the area of [Longwy](https://pl.wikipedia.org/wiki/Longwy), violent, chaotic clashes broke out. The French infantry, in bright uniforms and attacking with the bayonet, fell under machine-gun and artillery fire.
 
-The Colonial Corps suffered especially heavy losses at Rossignol, where one of its divisions was almost destroyed. That day about 27,000 French soldiers were killed along the whole front of the Battle of the Frontiers. That is more than on any other single day of fighting in the history of France.
+The Colonial Corps suffered especially heavy losses at Rossignol, where one of its divisions was almost destroyed. That day some 27,000 French soldiers were killed along the whole front of the Battle of the Frontiers according to frequently quoted estimates, and at least 25,000 according to other figures. That is more than on any other single day of fighting in the history of France.
 
 ## Retreat
 

@@ -10,22 +10,36 @@ dayOrder: 4
 tags: [Liège, Belgia, Niemcy, Erich Ludendorff]
 milestone: false
 draft: false
+sources:
+  - "https://archive.org/details/mywarmemories19101lude"
+  - "https://archive.org/details/militaryoperatio01edmouoft"
+  - "https://archive.org/details/warof1914militar01belg"
+  - "https://archive.org/details/siegeofligeperso00hame"
+  - "https://en.wikipedia.org/wiki/Battle_of_Li%C3%A8ge"
 ---
 
-7 sierpnia 1914 roku wojska niemieckie wkroczyły do [Liège](https://pl.wikipedia.org/wiki/Liège). Trzeciego dnia walk o belgijską twierdzę Niemcom udało się zająć samo miasto, choć otaczający je pierścień fortów pozostawał w rękach obrońców.
+7 sierpnia 1914 roku wojska niemieckie wkroczyły do [Liège](https://pl.wikipedia.org/wiki/Liège). Trzeciego dnia walk o belgijską twierdzę zajęły samo miasto, jego mosty na [Mozie](https://pl.wikipedia.org/wiki/Moza) i starą cytadelę, ale otaczający je pierścień dwunastu fortów pozostał w rękach obrońców. Główną rolę odegrał w tym oficer, o którym miał wkrótce usłyszeć cały świat: [Erich Ludendorff](/postacie/erich-ludendorff).
 
-## Brygada Ludendorffa
+## Nocny atak
 
-W nocy z 5 na 6 sierpnia niemieckie brygady zaatakowały w lukach między fortami. Większość natarć załamała się pod ogniem Belgów, ale 14 Brygada przedarła się przez linię obrony w miejscu, gdzie nie zdążono przygotować okopów. Gdy jej dowódca zginął, dowodzenie przejął oficer sztabowy [Erich Ludendorff](/postacie/erich-ludendorff). Brygada znalazła się na wzgórzach nad miastem, w samym środku belgijskiej obrony.
+Od chwili, gdy [wojska niemieckie wkroczyły do Belgii](/wojska-niemieckie-wkraczaja-do-belgii-i-atakuja-liege), zgrupowaniem uderzeniowym pod Liège dowodził generał [Otto von Emmich](https://pl.wikipedia.org/wiki/Otto_von_Emmich). Miał sześć brygad piechoty, każdą ze szwadronem kawalerii, baterią artylerii i batalionem strzelców. 5 sierpnia zażądał od gubernatora twierdzy, generała Gérarda Lemana, swobodnego przejścia, a po odmowie postanowił zdobyć miasto nocnym atakiem. Brygady miały przejść przez luki między fortami, zająć miasto i cytadelę, a potem brać forty od tyłu.
 
-Rano 7 sierpnia Ludendorff ruszył na przestarzałą cytadelę górującą nad Liège. Garnizon poddał się bez walki. Według relacji Ludendorff podjechał pod bramę samochodem i zażądał kapitulacji. Wraz z cytadelą w ręce Niemców przeszło całe miasto, jego mosty na [Mozie](https://pl.wikipedia.org/wiki/Moza) i ważny węzeł kolejowy.
+W nocy z 5 na 6 sierpnia natarcie w większości się załamało. Według brytyjskiej historii oficjalnej dwie kolumny od północy zabłądziły i wycofały się z ciężkimi stratami, choć jeden batalion dotarł do miasta i dostał się tam do niewoli. Jedna z kolumn południowych utknęła, w drugiej wybuchła panika i żołnierze strzelali do siebie nawzajem. Tej samej nocy niewielki oddział niemieckiej kawalerii wdarł się do Liège, by pojmać Lemana. Według belgijskiej relacji oficjalnej wszyscy napastnicy zginęli.
 
-## Forty wciąż walczą
+Przedarła się tylko kolumna środkowa, 14 Brygada Piechoty. Jej dowódca, generał von Wussow, zginął pod ogniem karabinów maszynowych pod Queue-du-Bois. Ludendorff, zastępca szefa sztabu 2 Armii [Karla von Bülowa](/postacie/karl-von-bulow), który towarzyszył Emmichowi jako obserwator, objął dowództwo i poprowadził brygadę dalej. Jak wspominał, wieś trzeba było zdobywać dom po domu, strzelając do budynków z haubic polowych. Około drugiej po południu 6 sierpnia brygada stanęła na wzgórzach La Chartreuse, tuż nad miastem.
 
-Zajęcie miasta nie oznaczało jednak końca bitwy. Dowódca twierdzy, generał Gérard Leman, po niemieckim wypadzie na swoją kwaterę przeniósł się do fortu Loncin na zachód od miasta i stamtąd kierował dalszą obroną. Wszystkie dwanaście fortów wciąż się broniło, blokując linie kolejowe potrzebne armii niemieckiej. Król Albert I już wcześniej wycofał belgijską dywizję polową z Liège, by nie dopuścić do jej okrążenia.
+## Cytadela
 
-Niemcy musieli sprowadzić ciężką artylerię oblężniczą, w tym moździerze kalibru 420 mm. Ostatnie forty padły dopiero 16 sierpnia.
+Ludendorff był w trudnym położeniu. Brygada była wyczerpana, brakowało amunicji, a o pozostałych brygadach nie było żadnych wieści. Na cytadeli pojawiły się wprawdzie białe flagi, ale wysłany do miasta parlamentariusz wrócił z wiadomością, że wywieszono je wbrew woli gubernatora. Noc z 6 na 7 sierpnia Niemcy spędzili w napięciu, odcięci wewnątrz pierścienia fortów, z około tysiącem belgijskich jeńców. Około dziesiątej wieczorem kompania strzelców zajęła bez walki mosty na Mozie.
 
-## Znaczenie
+Belgowie nie mieli już jednak czym bronić samego miasta. 6 sierpnia belgijska 3 Dywizja, która od trzech dni odpierała ataki znacznie liczniejszego przeciwnika, została wycofana, by nie dać się okrążyć, i odeszła na zachód, do głównych sił armii nad Gete. Leman przeniósł się w południe do fortu Loncin i stamtąd dowodził dalej. Forty miały odtąd bronić się samodzielnie.
 
-Zdobycie Liège przyniosło sławę Ludendorffowi, który otrzymał za nie najwyższe pruskie odznaczenie wojskowe, order Pour le Mérite. Kilka tygodni później został szefem sztabu 8 Armii w Prusach Wschodnich, gdzie razem z Paulem von Hindenburgiem odniósł zwycięstwo pod Tannenbergiem. Dla Belgów utrata miasta była ciosem, ale opór fortów pokazał, że kraj zamierza walczyć.
+Rano 7 sierpnia Emmich wydał rozkaz wejścia do miasta. Straż przednia skręciła w stronę fortu Loncin, a Ludendorff, przekonany, że cytadela jest już zajęta, pojechał tam zarekwirowanym belgijskim samochodem. Na miejscu nie zastał żadnego niemieckiego żołnierza. Jak sam opisał, zastukał w zamkniętą bramę, a kilkuset Belgów, którzy byli w środku, poddało się na jego wezwanie. W ciągu dnia nadeszły kolejne brygady i uwolniono niemieckich jeńców wziętych w nocy.
+
+## Miasto pod okupacją
+
+Mieszkańcy przyjęli wkroczenie Niemców w ciszy. Profesor uniwersytetu w Liège Paul Hamelius zapisał, że rano po mieście rozeszła się wieść: „Przechodzą”. Na moście Boverie stali już młodzi niemieccy wartownicy. Pierwszymi zarządzeniami okupanta były rozbrojenie straży obywatelskiej i wzięcie zakładników, którzy mieli ręczyć za spokój ludności. Ogłoszenia podpisywał burmistrz, z dopiskiem, że wydano je z rozkazu niemieckich władz wojskowych.
+
+Położenie Niemców wciąż było jednak niepewne. Forty ostrzeliwały drogi i linie kolejowe, którymi miały przejść niemieckie armie, a według Ludendorffa sytuację można było uznać za uratowaną dopiero po upadku fortów wschodnich. Do ich zniszczenia potrzebna była ciężka artyleria oblężnicza, która otworzyła ogień 12 sierpnia.
+
+Za Liège Ludendorff i Emmich otrzymali od cesarza order [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). Brytyjska historia oficjalna oceniała później, że opór twierdzy kosztował Niemców cztery do pięciu dni, Belgowie zaś mówili o co najmniej czterech. Dla Ludendorffa był to początek wielkiej kariery: dwa tygodnie później wezwano go na front wschodni.

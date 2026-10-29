@@ -2,7 +2,7 @@
 title: Battle of the Frontiers begins
 summary: In early August 1914 the Battle of the Frontiers began, a series of clashes between French and German armies that lasted until the Battle of the Marne.
 source: poczatek-bitwy-granicznej-we-francji
-sourceHash: a4e17e1b03ffa81b3a645aa3aa0b207654e6ff0b
+sourceHash: 281cdc95a7cdfea4a6e4437d7a72609131b9624a
 brief:
   - "Contemporary chronicles record 6 August 1914 as the start of the Battle of the Frontiers, a series of French battles against the Germans from Alsace to the Belgian border that lasted until the Battle of the Marne."
   - "Germany, following the Schlieffen Plan, sent its main forces through Belgium to bypass the fortified border. Joffre's France struck east into Alsace and Lorraine and then through the Ardennes."
@@ -30,7 +30,7 @@ Earlier, from 4 August, the Belgians had been defending the fortress of Liège, 
 
 ## The offensive fails
 
-The French offensives in Lorraine and the Ardennes collapsed under the fire of German artillery and machine guns. The French infantry, advancing in close order and in bright uniforms, suffered enormous losses. 22 August was the bloodiest day in the history of the French army: about 27,000 soldiers were killed. At the same time the German right wing passed through Belgium and threatened the left wing of the French army and the British.
+The French offensives in Lorraine and the Ardennes collapsed under the fire of German artillery and machine guns. The French infantry, advancing in close order and in bright uniforms, suffered enormous losses. 22 August was the bloodiest day in the history of the French army: some 27,000 soldiers were killed according to frequently quoted estimates, at least 25,000 according to other figures. At the same time the German right wing passed through Belgium and threatened the left wing of the French army and the British.
 
 ## Significance
 

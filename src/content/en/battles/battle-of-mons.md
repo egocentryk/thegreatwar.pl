@@ -9,7 +9,7 @@ sides:
     commanders: [Alexander von Kluck]
 result: German tactical victory. The British inflicted heavy losses but were forced to withdraw.
 source: bitwa-pod-mons
-sourceHash: c85152b485dfba044fb1eb023b865ccc8551f153
+sourceHash: 49149cbf530d0c4e63513906566dd7289e6d79cd
 ---
 
 The [Battle of Mons](https://pl.wikipedia.org/wiki/Bitwa_pod_Mons_(1914)), fought on 23 August 1914, was the first battle of the [British Expeditionary Force](https://pl.wikipedia.org/wiki/Brytyjski_Korpus_Ekspedycyjny) in the First World War. It was the first time the British had fought in Western Europe since the [Battle of Waterloo](https://pl.wikipedia.org/wiki/Bitwa_pod_Waterloo) in 1815, which had in fact been fought not far away.
@@ -22,7 +22,7 @@ The Expeditionary Force, commanded by Field Marshal [John French](/postacie/john
 
 On the morning of 23 August the Germans attacked the canal crossings. The main weight of the fighting fell on General Horace Smith-Dorrien's II Corps, which held the line of the canal and the salient at the bridges in Nimy. General [Douglas Haig's](/postacie/douglas-haig) I Corps was less heavily engaged.
 
-The British soldiers were professionals, superbly trained in rapid and accurate rifle fire. Their fire was so effective that, according to accounts, the Germans believed they were facing large numbers of machine guns. The German infantry, advancing in close formation, suffered heavy losses. For the defence of the bridges at Nimy, Lieutenant Maurice Dease and Private Sidney Godley received the first [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) of the war.
+The British soldiers were professionals, superbly trained in rapid and accurate rifle fire. Their fire was so effective that, according to accounts, the Germans believed they were facing large numbers of machine guns. The German infantry, advancing in close formation, suffered heavy losses. For the defence of the bridges at Nimy, Lieutenant Maurice Dease and Private Sidney Godley received some of the first [Victoria Crosses](https://pl.wikipedia.org/wiki/Krzyż_Wiktorii) of the war. Two sappers, Captain Theodore Wright and Lance-Corporal Charles Jarvis, also won the cross for that day.
 
 The Germans' numerical superiority was too great, however. In the afternoon they crossed the canal at several points and the British began to withdraw to a second line. In the evening news arrived that the French Fifth Army, after its defeat at Charleroi, had begun to retreat. The British were in danger of being encircled.
 
