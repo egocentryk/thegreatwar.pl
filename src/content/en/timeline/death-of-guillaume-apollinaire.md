@@ -1,0 +1,16 @@
+---
+title: Death of Guillaume Apollinaire
+summary: On 9 November 1918 the poet Guillaume Apollinaire, son of the Pole Angelika Kostrowicka, weakened by a war head wound, died of Spanish flu in Paris. He was 38.
+source: smierc-guillaumea-apollinairea
+sourceHash: 5138811c3887fc4ee8e778a687c9a14a0c5dadb1
+---
+
+On 9 November 1918, two days before the end of the war, [Guillaume Apollinaire](https://pl.wikipedia.org/wiki/Guillaume_Apollinaire), one of the most important poets of the French avant-garde, died in his flat on the Boulevard Saint-Germain in [Paris](https://pl.wikipedia.org/wiki/Paryż). He was 38. He was killed by the [Spanish flu](https://pl.wikipedia.org/wiki/Pandemia_grypy_hiszpanki), which was taking a heavy toll in Paris that autumn and which his body, weakened by a serious head wound received at the front, could not overcome. The writer Paul Léautaud noted in his diary that it was flu complicated by pneumonia. According to accounts, passers-by beneath his windows were shouting "Death to Wilhelm!". They meant Emperor [Wilhelm II](/postacie/wilhelm-ii), whose abdication [had been announced in Berlin that day](/rewolucja-w-berlinie). It sounded grim beneath the windows of a poet who himself bore the name Guillaume, that is, Wilhelm.
+
+Apollinaire was of Polish origin. He was born in 1880 in Rome as Wilhelm Apolinary Kostrowicki, the son of a Polish noblewoman, Angelika Kostrowicka, and a father whose name is unknown, most probably an Italian officer. He spent his childhood in Monaco and the south of France, and at the beginning of the twentieth century he settled in Paris, where he was friends with [Pablo Picasso](https://pl.wikipedia.org/wiki/Pablo_Picasso) and other avant-garde painters, wrote about the Cubists and in 1913 published the collection *Alcools*, including "Le Pont Mirabeau", one of the most famous poems in French poetry.
+
+When the war broke out he was not a French citizen. In August 1914 he volunteered, but the board deferred his application. He was accepted only in December. In the spring of 1915 he set off with the 38th Field Artillery Regiment for the front in Champagne, and in November, at his own request, he transferred to the infantry in order to become an officer. As a second lieutenant of the 96th Infantry Regiment he received French citizenship on 9 March 1916, and a week later, on 17 March, a shell splinter struck him in the temple while he was reading the *Mercure de France* in his trench. In May he underwent trepanation in Paris. He never returned to the front.
+
+His last years were productive. In June 1917 his play *Les Mamelles de Tirésias* (*The Breasts of Tiresias*) was staged, which he called a "surrealist drama". The word "surrealism", which Apollinaire had first used that spring, was taken up a few years later by André Breton and his friends. In April 1918 *Calligrammes* appeared, poems from the war years in which the words formed pictures, and on 2 May he married Jacqueline Kolb. Six months later he was dead.
+
+Apollinaire was buried in [Père Lachaise](https://pl.wikipedia.org/wiki/Père-Lachaise) cemetery, and his name was later inscribed in the Panthéon among the writers who died for France. He is one of the best-known victims of the Spanish flu, along with [Egon Schiele](/smierc-egona-schielego), who had died nine days earlier in Vienna.

@@ -1704,6 +1704,51 @@ New here (owner's choice of three proposals).
 **Port to thesecondwar.pl:** the same component (its people index has the
 same card layout).
 
+## 27. Society, batch 1: the flu, the air aces, spies and propaganda (2026-10-29)
+
+New here (expansion-plan.md §A4, first batch; brief `scripts/society/BRIEF.md`).
+
+- 17 timeline articles, PL and EN, our own batch (not from the British
+  chronology), each with 3–9 sources opened and read:
+  - the Spanish flu (6): the first cases at Camp Funston (4 III 1918), the
+    "Spanish" name (22 V), the second wave (27 VIII), the flu in the Polish
+    lands (24 X: Kraków, Warsaw, Poznań; Mieszkowski's 68–130 thousand
+    deaths), the deaths of Egon Schiele and Guillaume Apollinaire
+    (Kostrowicki);
+  - the air war (7, category Działania zbrojne): Garros's first kill
+    through the propeller, Immelmann's and Boelcke's deaths, Richthofen's
+    first victory, Bloody April (dated 30 IV 1917), Richthofen wounded,
+    Guynemer missing;
+  - spies and propaganda (3): the Bryce Report, the "Battle of the Somme"
+    film, Mata Hari's arrest;
+  - the Paris Gun (1): the shell that hit Saint-Gervais (29 III 1918).
+  "Społeczeństwo" grows from 27 to 37 articles.
+- Person pages with portraits: Manfred von Richthofen, Mata Hari (her guilt
+  disputed, said on the page), Edith Cavell; 8 pages now link them
+  (`wiki-to-internal.py`). Mata Hari's pl.wiki photo is a full-length dance
+  shot, so the en.wiki one, framed.
+- Four planned articles already existed and were not written again (the
+  writers checked; the coordinator's search had missed them): the first
+  and last shelling of Paris, Mata Hari's execution, Richthofen's death
+  ("Śmierć Czerwonego Barona"). **Search titles in all inflections before
+  planning a batch.**
+- New tags: grypa hiszpanka, Hiszpania, kultura, wywiad, propaganda,
+  zbrodnie wojenne, Holandia, Manfred von Richthofen; new person country:
+  Holandia / Netherlands.
+
+### Writers' notes (for the review list)
+
+- `battles/1917/bitwa-pod-arras-1917`: the RFC air offensive "od 5
+  kwietnia"; the official history (*The War in the Air* vol. 3): 4 April.
+- `postacie/oswald-boelcke`: Jasta 2 formed near Bertincourt; the official
+  history: Lagnicourt, 30 VIII 1916.
+- A namesake: the cavalry general Manfred von Richthofen (1915) appears
+  unlinked in `bitwa-pod-szawlami` and `poczatek-bitwy-pod-kupiszkami`;
+  never link him to the airman's page.
+- Saint-Gervais: 88 dead (Miller) vs 91 (the plaque, our August article) vs
+  92 (fr.wiki) — the new article gives all three.
+- Cavell arrested 5 VIII (our article, KUMC) vs 6 VIII (en.wiki).
+
 ---
 
 ## Roadmap (checklist)
@@ -1784,6 +1829,9 @@ finished, tick it here and add its section above.
   weapons, PL/EN, with "Temat" boxes on 125 pages (§24)
 - [x] Polish thread, part 1: 29 Polish person pages with portraits, PL/EN;
   54 pages now link them (§25)
+- [x] People index as a portrait wall with filters (§26)
+- [x] Society, batch 1: 17 articles (flu, air aces, spies, Paris Gun) and 3
+  person pages, PL/EN (§27)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

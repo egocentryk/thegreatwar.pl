@@ -167,6 +167,9 @@
   "dzemal-pasza": {
     "file": "Ahmed_Djemal_-_Project_Gutenberg_eText_10338.png"
   },
+  "edith-cavell": {
+    "file": "Edith Cavell.jpg"
+  },
   "edmund-allenby": {
     "file": "Edmund_Allenby.jpg"
   },
@@ -505,6 +508,9 @@
   "luigi-cadorna": {
     "file": "Luigi_Cadorna_02.jpg"
   },
+  "manfred-von-richthofen": {
+    "file": "Manfred von Richthofen.jpg"
+  },
   "maria-rumunska": {
     "file": "Queen_Mary_of_Romania_2.jpg"
   },
@@ -513,6 +519,14 @@
   },
   "masatake-terauchi": {
     "file": "Masatake_Terauchi_2.jpg"
+  },
+  "mata-hari": {
+    "file": "MataHari15.jpg",
+    "frame": [
+      0.7,
+      0.42,
+      0.12
+    ]
   },
   "matthias-erzberger": {
     "file": "Bundesarchiv_Bild_146-1989-072-16,_Matthias_Erzberger.jpg"

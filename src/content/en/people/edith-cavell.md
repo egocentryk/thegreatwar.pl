@@ -1,0 +1,44 @@
+---
+name: Edith Cavell
+summary: British nurse in Brussels who helped Allied soldiers escape from occupied Belgium. Shot by the Germans in 1915, she became a symbol.
+role: Matron of a nursing school in Brussels (1907–1915), member of a network smuggling Allied soldiers to the Netherlands
+country: United Kingdom
+birthPlace: Swardeston near Norwich (England)
+deathPlace: Schaerbeek near Brussels
+source: edith-cavell
+sourceHash: 44360c47e05930f63810e4daefb95f12f6fb51dc
+---
+
+Edith Cavell was an English nurse who from 1907 ran Belgium's first secular nursing school in Brussels. When the Germans occupied Belgium, she did not leave. She went on running the school and the clinic, which treated the wounded of both sides, and at the same time hid British and French soldiers who had been left behind the front line and helped them get through to the neutral Netherlands. Arrested in August 1915, she admitted everything. A German court martial sentenced her to death, and [on 12 October 1915 she was shot](/rozstrzelanie-edith-cavell) near Brussels. The execution of a woman, and a nurse at that, shocked the world and gave Allied propaganda one of the most powerful symbols of the war.
+
+## Before the war
+
+She was born on 4 December 1865 at [Swardeston](https://pl.wikipedia.org/wiki/Swardeston) near [Norwich](https://pl.wikipedia.org/wiki/Norwich), the daughter of an Anglican clergyman, Frederick Cavell. For several years she worked as a governess, in 1890–1895 for a family in Brussels. After returning to England she decided to become a nurse.
+
+At the end of 1895 she began work at a fever hospital in Tooting, London, and in September 1896 she started training at the London Hospital under its famous matron, Eva Lückes. In the autumn of 1897 she helped bring an epidemic of [typhoid](https://pl.wikipedia.org/wiki/Dur_brzuszny) under control in [Maidstone](https://pl.wikipedia.org/wiki/Maidstone). She then worked in London infirmaries for the poor, at St Pancras and at Shoreditch, where she was assistant matron, and in 1906 briefly in Manchester. In 1907 the Belgian surgeon Antoine Depage invited her to Brussels to run a new school for qualified nurses in [Ixelles](https://pl.wikipedia.org/wiki/Ixelles). Nursing in Belgium was then mainly the work of nuns, and a secular, professionally trained nurse was a novelty. Cavell introduced strict discipline and English standards at the school. In 1910 she founded the professional journal *L'infirmière*, and by 1911 her school was training nurses for three hospitals, 24 schools and 13 kindergartens. She is regarded as one of the founders of modern nursing in Belgium.
+
+## In occupied Brussels
+
+The outbreak of war found her in Norfolk, visiting her mother. She nevertheless returned to Brussels before [the Germans took the city](/niemcy-zajmuja-bruksele) on 20 August 1914. Her school and clinic carried on under the Red Cross emblem and took in the wounded of all armies, Germans included.
+
+In the autumn of 1914 many British and French soldiers, cut off after the August battles, were hiding in Belgium, and discovery meant the firing squad or a prisoner-of-war camp. A network sprang up that gave them shelter, false papers, money and guides to the Dutch border. Men were gathered at the château of Prince Réginald de Croÿ at [Bellignies](https://pl.wikipedia.org/wiki/Bellignies) near [Mons](https://pl.wikipedia.org/wiki/Mons), from where they were taken to hiding places in Brussels. From November 1914 one of these was Cavell's house. The network also included Princess Marie de Croÿ, the French teacher [Louise Thuliez](https://pl.wikipedia.org/wiki/Louise_Thuliez) and the Belgian architect Philippe Baucq, who organised the guides. Cavell knew that under German military law this was punishable by death. In time the network also smuggled out young Belgians and Frenchmen of military age who wanted to join the army.
+
+## Arrest, trial and execution
+
+The German secret police broke up the network in the summer of 1915, helped among other things by information from a Frenchman, Gaston Quien, who was convicted of collaboration by a French court after the war. Baucq and Thuliez were arrested on 31 July, and Cavell on 5 August. Some sources give 6 August. She spent ten weeks in prison at [Saint-Gilles](https://pl.wikipedia.org/wiki/Saint-Gilles_(Belgia)). In her statements she admitted helping about 60 British and 15 French soldiers and about a hundred French and Belgian men of military age to cross into the Netherlands. She also admitted that some of them had written to thank her after reaching England. This settled the verdict: the charge was no longer hiding people but "conducting soldiers to the enemy", for which the German military code prescribed death.
+
+The trial of more than 30 defendants took place on 7 and 8 October 1915 in the chamber of the Belgian Senate. Cavell defended herself briefly and openly. On 11 October the court sentenced her, Baucq and four others to death. During the night the secretary of the American legation, [Hugh Gibson](https://pl.wikipedia.org/wiki/Hugh_Gibson), later the first United States minister to reborn Poland, and the Spanish minister, the Marqués de Villalobar, begged the German authorities for clemency or at least a postponement of the execution, and the American minister Brand Whitlock wrote a plea for clemency to the Governor-General, [Moritz von Bissing](https://pl.wikipedia.org/wiki/Moritz_von_Bissing). The military governor of Brussels, General Traugott von Sauberzweig, who had confirmed the sentence, nevertheless refused to accept the plea. In the evening the Anglican chaplain Stirling Gahan was let into her cell. According to his account, Cavell told him then: "I realise that patriotism is not enough. I must have no hatred or bitterness towards anyone."
+
+At dawn on 12 October 1915, at the Tir National rifle range in [Schaerbeek](https://pl.wikipedia.org/wiki/Schaerbeek), she was shot together with Baucq. She was 49. Her death was certified by a German army doctor, the poet [Gottfried Benn](https://pl.wikipedia.org/wiki/Gottfried_Benn). The sentences on the others condemned to death were not carried out, thanks in part to the intercession of King [Alfonso XIII](https://pl.wikipedia.org/wiki/Alfons_XIII) of Spain. At the beginning of 1916 Kaiser [Wilhelm II](/postacie/wilhelm-ii) ruled that executions of women would henceforth require his approval.
+
+## Symbol
+
+The German authorities considered the sentence lawful, but the world saw it as a crime. In Britain and the United States Cavell's death caused enormous outrage, all the stronger because public opinion had been shaken a few months earlier by the [sinking of the *Lusitania*](/zatopienie-lusitanii) and the [report on the atrocities in Belgium](/raport-brycea). British propaganda presented her as an innocent victim of German barbarity, and her image appeared on recruiting posters and in countless pamphlets and prints. A year later a similar wave of anger swept Britain over the [execution of Captain Fryatt](/egzekucja-kapitana-fryatta). While the war was still on, a peak in the Canadian Rockies was named after Cavell.
+
+## After the war
+
+In May 1919 her remains were exhumed and brought to England. On 15 May a memorial service was held in [Westminster Abbey](https://pl.wikipedia.org/wiki/Opactwo_Westminsterskie), and on 19 May she was buried at [Norwich Cathedral](https://pl.wikipedia.org/wiki/Katedra_w_Norwich). In 1920 a monument to her was unveiled in London, near [Trafalgar Square](https://pl.wikipedia.org/wiki/Trafalgar_Square), inscribed with the words "Patriotism is not enough". During the Second World War [Adolf Hitler](https://pl.wikipedia.org/wiki/Adolf_Hitler) had her memorial in Paris destroyed. The Church of England commemorates her on 12 October.
+
+## Assessment
+
+Cavell was not charged with espionage, although German communiqués began to call her a spy after the execution. For a whole century she was presented as a nurse who saved people out of pure humanitarianism. In 2015, however, the former head of the British security service MI5, [Stella Rimington](https://pl.wikipedia.org/wiki/Stella_Rimington), presented documents from Belgian archives showing that the network to which Cavell belonged also passed military information to the British. How far Cavell herself was involved remains disputed. Many historians accept that under the law of war at the time the Germans had grounds to try her, and a post-war British committee on breaches of the laws of war judged the sentence lawful. What was criticised was the haste of the execution and the misleading of the diplomats. Cavell's death proved a propaganda disaster for Germany. She was later compared with [Mata Hari](/postacie/mata-hari), shot by the French in 1917: both were convicted of aiding the enemy, but only Cavell was remembered as a heroine.

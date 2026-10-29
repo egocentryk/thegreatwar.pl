@@ -177,6 +177,16 @@ topic (and, where the topic is a person, whether they have a page):
 Plan a batch of 50–80 "Społeczeństwo" articles across all fronts and
 years. These are also the stories most shared on social media.
 
+**Done 2026-10-29 (batch 1):** 17 articles (the flu, the air aces, spies
+and propaganda, Saint-Gervais) and person pages for Richthofen, Mata Hari
+and Cavell (improvements.md §27). Next (batch 2): women (the Right to
+Serve march, the Women's Battalion of Death, suffrage in Britain and
+Germany, Elsie Inglis, Skłodowska-Curie's X-ray cars), the home fronts
+(German bread cards, the turnip winter, the Vienna and Berlin strikes,
+DORA and British rationing, summer time, hunger in Warsaw and Łódź) and
+culture ("In Flanders Fields", Wilfred Owen), then the guides "Życie w
+okopach" and "Kobiety w czasie wojny".
+
 ### A5. Campaign overviews and thin fronts
 
 - The overview battle pages that articles keep linking to Wikipedia for

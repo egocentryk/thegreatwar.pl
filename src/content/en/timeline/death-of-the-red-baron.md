@@ -2,10 +2,10 @@
 title: Death of the Red Baron
 summary: On 21 April 1918 Manfred von Richthofen, the ace with 80 victories, was killed over the Somme valley, most probably hit by an Australian gunner on the ground.
 source: smierc-czerwonego-barona
-sourceHash: e086c254605650d1bcdfb019a83ff3965122f804
+sourceHash: 77e72d726b3f788b5cdd287649a086ad9c1b5429
 ---
 
-Shortly before noon on 21 April 1918 a red triplane crashed on a hill above the valley of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)), by the road from Bray to [Corbie](https://pl.wikipedia.org/wiki/Corbie), north of the village of [Vaux-sur-Somme](https://pl.wikipedia.org/wiki/Vaux-sur-Somme). The Australian soldiers who ran up to it found a dead or dying pilot in the cockpit. He was Rittmeister [Manfred von Richthofen](https://pl.wikipedia.org/wiki/Manfred_von_Richthofen), the most successful fighter pilot of the First World War, who the day before had scored his 79th and 80th victories. He was 25. German propaganda called him the "red battle flier", after the colour of his aircraft, and the nickname "Red Baron", under which he went down in history, became widespread mainly after the war.
+Shortly before noon on 21 April 1918 a red triplane crashed on a hill above the valley of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)), by the road from Bray to [Corbie](https://pl.wikipedia.org/wiki/Corbie), north of the village of [Vaux-sur-Somme](https://pl.wikipedia.org/wiki/Vaux-sur-Somme). The Australian soldiers who ran up to it found a dead or dying pilot in the cockpit. He was Rittmeister [Manfred von Richthofen](/postacie/manfred-von-richthofen), the most successful fighter pilot of the First World War, who the day before had scored his 79th and 80th victories. He was 25. German propaganda called him the "red battle flier", after the colour of his aircraft, and the nickname "Red Baron", under which he went down in history, became widespread mainly after the war.
 
 ## The last flight
 
