@@ -22,6 +22,11 @@ const defaultYear = timelineByYear[0]?.year
     count={allTimeline.length}
     level={1}
   />
+  <p class="font-mono text-xs">
+    <a href={lang === "en" ? "/en/key-dates" : "/najwazniejsze-daty"} class="text-signal hover:underline">
+      {lang === "en" ? "Key dates on one page →" : "Najważniejsze daty na jednej stronie →"}
+    </a>
+  </p>
   {
     defaultYear && (
       <TimelineArchive

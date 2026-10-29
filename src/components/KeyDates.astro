@@ -1,0 +1,101 @@
+---
+// "Najważniejsze daty": every milestone event of the chronicle, year by
+// year, with its date and one-line summary. Meant for revision and for
+// printing. Used by /najwazniejsze-daty and /en/key-dates.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import PrintButton from "@/components/PrintButton.astro"
+import { locale, plural, type Lang } from "@/i18n"
+import { localEvents, paths } from "@/i18n/local"
+import { formatDate } from "@/utils/formatDate"
+import { listPageLd } from "@/utils/jsonLd"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const to = paths(lang)
+const events = (await localEvents(lang)).filter((entry) => entry.data.milestone)
+const years = [...new Set(events.map((entry) => entry.data.date.getUTCFullYear()))].map((year) => ({
+  year,
+  events: events.filter((entry) => entry.data.date.getUTCFullYear() === year),
+}))
+const first = years[0]?.year
+const last = years.at(-1)?.year
+const count = plural(lang, events.length, ["kluczowe wydarzenie", "kluczowe wydarzenia", "kluczowych wydarzeń"], ["key event", "key events"])
+
+const t = {
+  pl: {
+    title: "Najważniejsze daty I wojny światowej",
+    eyebrow: "Do nauki i powtórki",
+    lead: `${events.length} ${count} z lat ${first}–${last}, od zamachu w Sarajewie po powstanie wielkopolskie, każde z datą i jednym zdaniem.`,
+    note: "Lista obejmuje wydarzenia wyróżnione w kronice jako przełomowe. Tytuł prowadzi do pełnego artykułu. Wydrukuj ją albo zapisz jako PDF, by mieć ściągę przed sprawdzianem lub maturą.",
+    timeline: "Cała oś czasu, rok po roku →",
+    description: `Najważniejsze daty I wojny światowej (${first}–${last}): ${events.length} kluczowych wydarzeń rok po roku, z krótkim opisem. Do nauki i druku.`,
+  },
+  en: {
+    title: "Key dates of the First World War",
+    eyebrow: "For study and revision",
+    lead: `${events.length} ${count} from ${first} to ${last}, from Sarajevo to the Greater Poland Uprising, each with its date and one sentence.`,
+    note: "The list covers the events marked in the chronicle as turning points. Each title leads to the full article. Print it or save it as a PDF for revision.",
+    timeline: "The full timeline, year by year →",
+    description: `Key dates of the First World War (${first}–${last}): ${events.length} turning points year by year, each with a short description. For study and printing.`,
+  },
+}[lang]
+
+const path = lang === "en" ? "/en/key-dates" : "/najwazniejsze-daty"
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path,
+  name: t.title,
+  description: t.description,
+  trail: [{ name: lang === "en" ? "Timeline" : "Oś czasu", path: to.timeline }],
+  items: events.map((entry) => entry.href),
+})
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+  lang={lang}
+  alternates={lang === "en" ? { pl: "/najwazniejsze-daty" } : { en: "/en/key-dates" }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24 print:pt-0 print:pb-0">
+    <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{t.eyebrow}</p>
+    <h1 class="font-display text-ink mt-3 text-3xl font-medium sm:text-4xl">{t.title}</h1>
+    <p class="text-ink mt-6 max-w-2xl leading-7">{t.lead}</p>
+    <p class="text-ink-soft mt-3 max-w-2xl text-sm leading-6 print:hidden">{t.note}</p>
+    <div class="mt-6 flex flex-wrap items-center gap-4 print:hidden">
+      <PrintButton lang={lang} />
+      <a href={to.timeline} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">{t.timeline}</a>
+    </div>
+
+    <div class="mt-12 space-y-10 print:mt-6 print:space-y-6">
+      {
+        years.map((group) => (
+          <section>
+            <h2 class="font-display text-ink text-2xl font-medium">{group.year}</h2>
+            <ol class="border-line mt-3 border-t">
+              {group.events.map((entry) => (
+                <li class="border-line grid gap-1 border-b py-3 sm:grid-cols-[9rem_1fr] sm:gap-4 print:grid-cols-[8rem_1fr] print:gap-4 print:py-1.5">
+                  <span class="text-ink-soft font-mono text-xs leading-6">
+                    {formatDate(entry.data.date, "long", undefined, locale(lang))}
+                  </span>
+                  <span class="min-w-0">
+                    <a href={entry.href} class="text-ink hover:text-signal font-medium transition-colors">
+                      {entry.data.title}
+                    </a>
+                    <span class="text-ink-soft mt-0.5 block text-sm leading-6 print:text-xs print:leading-5">
+                      {entry.data.summary}
+                    </span>
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

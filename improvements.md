@@ -1322,6 +1322,26 @@ when an intro is shown.
 
 ---
 
+## 20. Key dates page ("Najważniejsze daty") (2026-10-29)
+
+Ported from thesecondwar.pl (`seo.md` §9).
+
+- `src/components/KeyDates.astro`, pages `/najwazniejsze-daty` and
+  `/en/key-dates`: all 262 milestone events, 1914–1918, year by year, each
+  with its date, title and summary; a print button (the print styles from
+  §11 apply). `listPageLd` with breadcrumbs Home › Oś czasu › page and an
+  `ItemList` of the articles; hreflang pair; in the sitemap.
+- Linked from the top of `/timeline` and `/en/timeline`
+  (`TimelineOverview.astro`).
+- Changes from the original: titles "… I wojny światowej" / "… First World
+  War"; the lead names the real span ("od zamachu w Sarajewie po powstanie
+  wielkopolskie"); the series link (no series here yet) points to the
+  timeline instead.
+
+**When series exist here:** switch the second link back to `to.series`.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1391,6 +1411,7 @@ finished, tick it here and add its section above.
 - [x] Homepage "Ludzie Wielkiej Wojny": six rotating people with portraits (§17)
 - [x] Glossary ("Słownik"): 84 terms PL/EN with hover cards in the text (§18)
 - [x] "Rok w skrócie": quote-checked intros on the five year pages, PL/EN (§19)
+- [x] Key dates page: all 262 milestones on one printable page, PL/EN (§20)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:
