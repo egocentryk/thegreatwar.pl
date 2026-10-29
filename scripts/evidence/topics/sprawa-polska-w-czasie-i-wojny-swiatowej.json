@@ -173,6 +173,14 @@
     {
      "file": "src/data/year-intros.json",
      "quote": "5 sierpnia do opuszczonej przez Rosjan Warszawy weszły wojska niemieckie i skończyło się trwające od 1815 roku rosyjskie panowanie. Odchodząc, Rosjanie wywieźli urzędy, uniwersytet i maszyny fabryczne, a na wschód ciągnęła fala uchodźców, nazywana bieżeństwem."
+    },
+    {
+     "file": "src/content/timeline/1915/08/pow-po-wkroczeniu-niemcow-do-warszawy.md",
+     "quote": "22 sierpnia 1915 roku o piątej rano z Warszawy wymaszerował na front Batalion Warszawski Polskiej Organizacji Wojskowej"
+    },
+    {
+     "file": "src/content/timeline/1915/08/pow-po-wkroczeniu-niemcow-do-warszawy.md",
+     "quote": "Piłsudski nie chciał oddawać Legionom kolejnych ochotników bez politycznych ustępstw ze strony państw centralnych. Wstrzymał zaciąg"
     }
    ]
   },
@@ -498,6 +506,14 @@
     {
      "file": "src/content/timeline/1918/11/rzad-lubelski.md",
      "quote": "Pierwszy raz od rozbiorów na ziemiach polskich powstał rząd, który nazwał swoje państwo republiką."
+    },
+    {
+     "file": "src/content/timeline/1918/10/rada-narodowa-ksiestwa-cieszynskiego.md",
+     "quote": "19 października 1918 roku w Cieszynie polscy działacze narodowi powołali Radę Narodową Księstwa Cieszyńskiego"
+    },
+    {
+     "file": "src/content/timeline/1918/10/rada-narodowa-ksiestwa-cieszynskiego.md",
+     "quote": "doprowadzić do jego przyłączenia do odradzającej się Polski"
     }
    ]
   },
@@ -577,6 +593,10 @@
     {
      "file": "src/content/battles/1918/obrona-lwowa-1918.md",
      "quote": "Wojna o miasto i całą Galicję Wschodnią dopiero się jednak zaczynała."
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-we-lwowie.md",
+     "quote": "W dniu, w którym Polacy zajęli Lwów, w dzielnicy żydowskiej miasta zaczął się pogrom."
     }
    ]
   },
@@ -606,6 +626,14 @@
     {
      "file": "src/content/battles/1918/powstanie-wielkopolskie.md",
      "quote": "Do połowy stycznia 1919 roku powstańcy zajęli większą część pruskiej Wielkopolski"
+    },
+    {
+     "file": "src/content/timeline/1918/10/przemowienie-korfantego-w-reichstagu.md",
+     "quote": "Z trybuny niemieckiego parlamentu zażądał przyłączenia do państwa polskiego Poznańskiego"
+    },
+    {
+     "file": "src/content/timeline/1918/11/powstanie-naczelnej-rady-ludowej.md",
+     "quote": "Na początku grudnia Sejm Dzielnicowy wybrał nowy, 80-osobowy skład Rady"
     }
    ]
   },

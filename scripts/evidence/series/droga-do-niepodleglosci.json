@@ -259,6 +259,17 @@
       }
     },
     {
+      "ref": "przemowienie-korfantego-w-reichstagu",
+      "note": {
+        "pl": "Zabór pruski zabiera głos: z trybuny Reichstagu Korfanty żąda polskich ziem Rzeszy, a Polacy stamtąd zaczynają liczyć na konferencję pokojową, nie na Berlin.",
+        "en": "The Prussian partition speaks up: from the Reichstag rostrum Korfanty claims the Polish lands of the Reich, and their Poles now look to the peace conference, not to Berlin."
+      },
+      "quote": {
+        "pl": "Dla Polaków z zaboru pruskiego stała się zapowiedzią, że o ich losie zdecyduje nie Berlin, lecz konferencja pokojowa.",
+        "en": "For the Poles of the Prussian partition it was a sign that their fate would be decided not by Berlin but by the peace conference."
+      }
+    },
+    {
       "ref": "wyzwolenie-krakowa",
       "note": {
         "pl": "Kraków sam zrzuca obce panowanie w rozpadzie monarchii Habsburgów, zanim o jego losie zdecydowano w Wiedniu, Warszawie czy Paryżu.",
@@ -311,6 +322,17 @@
       "quote": {
         "pl": "Organ powołany w 1917 roku przez Berlin i Wiedeń przestał istnieć, a na czele odradzającego się państwa stanął jeden człowiek.",
         "en": "The body set up in 1917 by Berlin and Vienna ceased to exist, and a single man stood at the head of the reviving state."
+      }
+    },
+    {
+      "ref": "powstanie-naczelnej-rady-ludowej",
+      "note": {
+        "pl": "Zabór pruski zyskuje własną polską władzę, która zamiast powstania chce przejmować prowincję krok po kroku i czekać na rozstrzygnięcie konferencji pokojowej.",
+        "en": "The Prussian partition gains a Polish authority of its own, which instead of an uprising means to take over the province step by step and wait for the peace conference."
+      },
+      "quote": {
+        "pl": "Przywódcy Rady nie chcieli powstania. Liczyli, że granice wyznaczy konferencja pokojowa, a do tego czasu chcieli przejmować władzę w prowincji krok po kroku",
+        "en": "The Council's leaders did not want an uprising. They counted on the peace conference to fix the borders, and until then they wanted to take over authority in the province step by step"
       }
     },
     {

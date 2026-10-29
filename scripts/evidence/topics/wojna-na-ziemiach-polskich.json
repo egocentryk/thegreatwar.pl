@@ -537,6 +537,18 @@
     {
      "file": "src/data/war-numbers.json",
      "quote": "A. Prymaka-Oniszk nawet 2 mln z ziem polskich"
+    },
+    {
+     "file": "src/content/timeline/1915/05/wysiedlenia-zydow-przez-armie-rosyjska.md",
+     "quote": "Od pierwszych dni wojny rosyjscy dowódcy zarzucali Żydom nielojalność, sprzyjanie wrogowi i szpiegostwo."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wysiedlenia-zydow-przez-armie-rosyjska.md",
+     "quote": "wysiedlała ich z kolejnych miejscowości"
+    },
+    {
+     "file": "src/content/timeline/1915/05/wysiedlenia-zydow-przez-armie-rosyjska.md",
+     "quote": "Część historyków szacuje, że w czasie wielkiego odwrotu armia rosyjska deportowała w głąb Rosji około pół miliona Żydów."
     }
    ]
   },
@@ -775,6 +787,18 @@
     {
      "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
      "quote": "As neither Germany nor Austria-Hungary were willing to share their power"
+    },
+    {
+     "file": "src/content/timeline/1916/07/wybory-do-rady-miejskiej-warszawy.md",
+     "quote": "14 lipca 1916 roku o ósmej wieczorem zamknięto lokale wyborcze w Warszawie. Kończyło się głosowanie w wyborach do rady miejskiej, pierwszych od dziesięcioleci wyborach do władz miasta."
+    },
+    {
+     "file": "src/content/timeline/1916/07/wybory-do-rady-miejskiej-warszawy.md",
+     "quote": "radnych wybierano w sześciu kuriach"
+    },
+    {
+     "file": "src/content/timeline/1916/07/wybory-do-rady-miejskiej-warszawy.md",
+     "quote": "choć ostatnie słowo wciąż należało do niemieckich władz okupacyjnych"
     }
    ]
   },
@@ -870,6 +894,42 @@
     {
      "file": "src/content/battles/1918/obrona-lwowa-1918.md",
      "quote": "1–22 listopada 1918 polscy ochotnicy, w dużej części młodzież, przez trzy tygodnie bronili się we Lwowie przed Ukraińcami"
+    },
+    {
+     "file": "src/content/timeline/1918/11/porozumienie-w-sprawie-slaska-cieszynskiego.md",
+     "quote": "5 listopada 1918 roku w Polskiej Ostrawie przedstawiciele polskiej Rady Narodowej Księstwa Cieszyńskiego i czeskiego Krajowego Komitetu Narodowego dla Śląska"
+    },
+    {
+     "file": "src/content/timeline/1918/11/porozumienie-w-sprawie-slaska-cieszynskiego.md",
+     "quote": "zawarli porozumienie o tymczasowym podziale Śląska Cieszyńskiego"
+    },
+    {
+     "file": "src/content/timeline/1918/11/porozumienie-w-sprawie-slaska-cieszynskiego.md",
+     "quote": "Większa część dawnego Księstwa, z Cieszynem, Bielskiem i Koleją Koszycko-Bogumińską, przeszła pod zarząd polski."
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-w-kielcach.md",
+     "quote": "11 listopada 1918 roku, w dniu, w którym w Warszawie Rada Regencyjna oddała Piłsudskiemu dowództwo nad wojskiem, w Kielcach doszło do zajść antyżydowskich"
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-w-kielcach.md",
+     "quote": "Tłum mieszkańców, wśród nich wielu młodych ludzi, napadł na uczestników żydowskiego wiecu w miejskim teatrze."
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-w-kielcach.md",
+     "quote": "Zamieszki i rabunki trwały jeszcze następnego dnia. Zginęły cztery osoby"
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-we-lwowie.md",
+     "quote": "Od 22 do 24 listopada 1918 roku polscy żołnierze, także z oddziałów ochotniczych i z odsieczy, oraz cywile"
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-we-lwowie.md",
+     "quote": "rabowali żydowskie sklepy i mieszkania, podpalali domy i zabijali mieszkańców"
+    },
+    {
+     "file": "src/content/timeline/1918/11/pogrom-we-lwowie.md",
+     "quote": "Ustalenia polskich, żydowskich i amerykańskich komisji z lat 1918–1919 wahają się od około 50 do co najmniej 150 zabitych Żydów"
     }
    ]
   },

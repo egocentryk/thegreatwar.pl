@@ -231,11 +231,13 @@ export const SERIES: Series[] = [
       "czternascie-punktow-wilsona",
       "deklaracja-wersalska",
       "deklaracja-rady-regencyjnej",
+      "przemowienie-korfantego-w-reichstagu",
       "wyzwolenie-krakowa",
       "bitwy/obrona-lwowa-1918",
       "rzad-lubelski",
       "odzyskanie-niepodleglosci-przez-polske",
       "rozwiazanie-rady-regencyjnej",
+      "powstanie-naczelnej-rady-ludowej",
       "bitwy/powstanie-wielkopolskie",
     ],
     notes: {
@@ -279,6 +281,10 @@ export const SERIES: Series[] = [
         pl: "Pierwszy raz od rozbiorów władza na ziemiach polskich ogłasza za cel pełną niepodległość i zaczyna działać bez oglądania się na Berlin i Wiedeń.",
         en: "For the first time since the partitions an authority on Polish soil declares full independence its aim and begins acting without looking to Berlin and Vienna.",
       },
+      "przemowienie-korfantego-w-reichstagu": {
+        pl: "Zabór pruski zabiera głos: z trybuny Reichstagu Korfanty żąda polskich ziem Rzeszy, a Polacy stamtąd zaczynają liczyć na konferencję pokojową, nie na Berlin.",
+        en: "The Prussian partition speaks up: from the Reichstag rostrum Korfanty claims the Polish lands of the Reich, and their Poles now look to the peace conference, not to Berlin.",
+      },
       "wyzwolenie-krakowa": {
         pl: "Kraków sam zrzuca obce panowanie w rozpadzie monarchii Habsburgów, zanim o jego losie zdecydowano w Wiedniu, Warszawie czy Paryżu.",
         en: "Kraków throws off foreign rule by its own efforts as the Habsburg monarchy collapses, before Vienna, Warsaw or Paris can decide its fate.",
@@ -298,6 +304,10 @@ export const SERIES: Series[] = [
       "rozwiazanie-rady-regencyjnej": {
         pl: "Koniec regencji: organ powołany przez Berlin i Wiedeń przestaje istnieć, a na czele odradzającego się państwa staje jeden człowiek.",
         en: "The end of the regency: the body set up by Berlin and Vienna ceases to exist, and a single man stands at the head of the reviving state.",
+      },
+      "powstanie-naczelnej-rady-ludowej": {
+        pl: "Zabór pruski zyskuje własną polską władzę, która zamiast powstania chce przejmować prowincję krok po kroku i czekać na rozstrzygnięcie konferencji pokojowej.",
+        en: "The Prussian partition gains a Polish authority of its own, which instead of an uprising means to take over the province step by step and wait for the peace conference.",
       },
       "bitwy/powstanie-wielkopolskie": {
         pl: "Zamknięcie serii w zaborze pruskim: Polacy przejmują władzę w większej części Wielkopolski, zanim konferencja pokojowa zacznie mówić o granicach.",
