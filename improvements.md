@@ -1449,6 +1449,66 @@ Ported from thesecondwar.pl (`seo.md` §16).
 
 ---
 
+## 23. Campaign overview pages and campaign navigation (2026-10-29)
+
+New here (expansion-plan.md §A5).
+
+- Five overview battle pages, PL and EN, ~2,450–2,700 words each, 6–7
+  sources opened and read (British official histories on archive.org,
+  Lettow-Vorbeck's memoir, Hansard, AWM): Kampania gallipolijska
+  (19 II 1915 – 9 I 1916), Kampania mezopotamska (6 XI 1914 – 10 XI 1918;
+  Moberly and our Mosul pages give 10 XI, en.wiki's 14 XI not used),
+  Kampania synajsko-palestyńska (26 I 1915 – 30 X 1918), Powstanie arabskie
+  (10 VI 1916 – 30 X 1918; Medina held to 9/10 I 1919, said in the text),
+  Kampania wschodnioafrykańska (8 VIII 1914 – 25 XI 1918). `milestone:
+  false` (the owner decides milestones). Map points in `battle-coords.json`.
+- `battleParents.ts`: 44 existing battle pages put under the five
+  campaigns (Kut keeps its relief battles, Third Gaza keeps Beersheba).
+- `BattleFamily.astro` on every battle page (PL and EN), new: under the
+  text "Wchodzi w skład · n/N" with the parent and the previous / next
+  battle of the same parent; on a parent page a "Bitwy i etapy" list of all
+  its battles (sub-battles indented). Until now the grouping was visible
+  only on the battle timeline; it now also links the 31 existing parent
+  battles (e.g. Kampania serbska 1914, Bitwa graniczna) with their 141
+  sub-battles.
+- `scripts/wiki-to-internal.py`: rewrites `pl.wikipedia` links to our own
+  battle page (title match or `ALIASES` for campaign names that differ on
+  pl.wiki), in the Polish file and the same link in its English file, under
+  the workflow's link rules (no link to a battle that hasn't started by the
+  article's date, not the article's own `battle`, no duplicates). Run here
+  with `--only` the four campaigns pl.wiki has pages for: 63 files edited
+  (and their 63 English files, re-stamped); 26 links kept — mostly articles
+  dated before the campaign began (e.g. Kitchener's 1914 letter to the
+  Sharif, Sykes–Picot), which the rule keeps on Wikipedia.
+- Measured on the same script: of the 163 links to pages we already had
+  (expansion-plan §B2), only 13 files may change; 120 are articles dated
+  before the battle (planning, forecasts), 20 battle pages linking their own
+  pl.wiki article, 8 the article's own battle. Not run yet; one command:
+  `python3 -I scripts/wiki-to-internal.py --write` (then re-stamp the listed
+  English files one by one, `--stamp=<english-slug>`).
+
+**Port to thesecondwar.pl:** `BattleFamily.astro` and `wiki-to-internal.py`
+(its battleParents has campaigns too).
+
+### Writers' notes (for the review list)
+
+- Name spellings: "Dżewad Pasza" (`bitwa-pod-megiddo`) vs "Cevat Pasza"
+  (`bitwa-pod-jafa`, the Gallipoli page); "Australijska Lekka Kawaleria"
+  vs "Lekka Konnica" (`bitwa-pod-beer-szewa`); "Ahmed Dżemal Pasza"
+  (`atak-na-kanal-sueski`) vs "Dżemal Pasza"; EN "Ali Ihsan Pasha" vs
+  "Ali İhsan Bey".
+- Dates: Muslimiya taken 29 X (Falls) vs article dated 28 X (the article
+  says so); Moshi entered 14 III (Hordern, `ofensywa-kilimandzarska`) vs
+  `brytyjczycy-zajmuja-moshi` dated 13 III.
+- Mecca 1916: MacMunn & Falls (garrison taken 13 VI) vs Antonius (fort
+  4 VII, barracks 9 VII); `bitwa-o-mekke` follows Antonius and says so.
+- pl.wiki `Kampania_synajska_i_palestyńska` is wrong on Romani (the
+  23 IV 1916 Katia raid); pl.wiki `Kampania_mezopotamska` is in the traps
+  list — both now replaced by our pages where the rules allow.
+- Allied battleships lost at the Dardanelles: six (en.wiki infobox: seven).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1521,6 +1581,8 @@ finished, tick it here and add its section above.
 - [x] Key dates page: all 262 milestones on one printable page, PL/EN (§20)
 - [x] Reading series: 8 series, 126 steps with quote-checked notes, PL/EN (§21)
 - [x] "Wojna w liczbach": 4 headline figures and 9 sourced charts, PL/EN (§22)
+- [x] Campaign overviews (Gallipoli, Mesopotamia, Sinai–Palestine, Arab Revolt,
+  East Africa) and campaign navigation on every battle page (§23)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

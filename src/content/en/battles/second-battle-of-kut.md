@@ -9,7 +9,7 @@ sides:
     commanders: [Halil Pasha]
 result: British victory. The Turks lost all their positions on the Tigris from Sannaiyat to Shumran, abandoned Kut on 24 February 1917 and fell back towards Baghdad.
 source: druga-bitwa-pod-al-kutem
-sourceHash: 53caccdcd19dd23fd4bdc80460cfb28b6befa15a
+sourceHash: 8fe959d6e8f93e465e04fb6a5c2946bc3fe9b26c
 ---
 
 The Second Battle of Kut was revenge for the heaviest British defeat in the Middle East. Eight months after the [surrender of Kut](/kapitulacja-al-kutu), on the night of 13/14 December 1916, General [Frederick Stanley Maude](/postacie/frederick-maude) moved against the Turks on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). He did not storm head-on the positions against which three relief attempts had broken in the spring. He went out onto the right bank, cut across the Shatt al-Hai canal and for two months, trench by trench, pushed the Turks out of every bridgehead they held south of the river. The Ottoman troops defended themselves with great courage, but their lines grew thinner. On 22 February 1917 the British broke into the Sannaiyat position, on 23 February they crossed the Tigris at Shumran, upstream of Kut, and on 24 February the Turks abandoned the town and began a retreat towards [Baghdad](https://pl.wikipedia.org/wiki/Bagdad).
@@ -54,4 +54,4 @@ The official history does not give a full account of both sides' losses. By 4 Fe
 
 ## Significance
 
-The battle gave the British back the initiative in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) and erased the memory of the surrender of April 1916. Maude telegraphed that the town itself now had only sentimental value, but for British prestige in the East its recovery was very important. Something else mattered more, however: XVIII Corps was shattered and the Tigris was open to British vessels. On 26 February the gunboats caught up with the fleeing Turkish steamers and recaptured the gunboat *Firefly*, lost at Umm al-Tubul in December 1915. After a short pause at Aziziyah, Maude's troops moved on and entered Baghdad on 11 March 1917.
+The battle gave the British back the initiative in [Mesopotamia](/bitwy/kampania-mezopotamska) and erased the memory of the surrender of April 1916. Maude telegraphed that the town itself now had only sentimental value, but for British prestige in the East its recovery was very important. Something else mattered more, however: XVIII Corps was shattered and the Tigris was open to British vessels. On 26 February the gunboats caught up with the fleeing Turkish steamers and recaptured the gunboat *Firefly*, lost at Umm al-Tubul in December 1915. After a short pause at Aziziyah, Maude's troops moved on and entered Baghdad on 11 March 1917.

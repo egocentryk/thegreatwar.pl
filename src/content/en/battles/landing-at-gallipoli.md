@@ -9,10 +9,10 @@ sides:
     commanders: [Otto Liman von Sanders, Esat Pasha, Halil Sami, Mustafa Kemal]
 result: The Allies established two bridgeheads, at Helles and at Anzac Cove, but took neither the hill of Achi Baba nor the Sarı Bair ridge. The landing at Kum Kale ended in a planned withdrawal.
 source: ladowanie-na-gallipoli
-sourceHash: a3b77c0097a4a32d244021c385269b141a7c132a
+sourceHash: 36e68ef8b13ca6fb792a11e991fe499baf4d2a9f
 ---
 
-The landing on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula was the largest amphibious operation of the First World War. On 25 April 1915 General [Ian Hamilton](/postacie/ian-hamilton)'s Mediterranean Expeditionary Force went ashore at two main points: the British 29th Division around Cape Helles at the southern tip of the peninsula, and the Australian and New Zealand corps on the west coast, in a cove later named Anzac Cove. The French landed briefly at Kum Kale, on the Asian shore of the strait, while at Bulair and in Besika Bay warships feigned further landings. The Allies held on to the shore, but at the cost of heavy losses, and they did not take the hills that were to open their way to the Narrows of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). The [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli) had begun, and it lasted until January 1916.
+The landing on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula was the largest amphibious operation of the First World War. On 25 April 1915 General [Ian Hamilton](/postacie/ian-hamilton)'s Mediterranean Expeditionary Force went ashore at two main points: the British 29th Division around Cape Helles at the southern tip of the peninsula, and the Australian and New Zealand corps on the west coast, in a cove later named Anzac Cove. The French landed briefly at Kum Kale, on the Asian shore of the strait, while at Bulair and in Besika Bay warships feigned further landings. The Allies held on to the shore, but at the cost of heavy losses, and they did not take the hills that were to open their way to the Narrows of the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele). The [Gallipoli campaign](/bitwy/kampania-gallipolijska) had begun, and it lasted until January 1916.
 
 ## Name and dates
 

@@ -1,0 +1,105 @@
+---
+// A battle's place in a larger campaign or operation (data/battleParents.ts).
+// `part="parent"` (under the text): "Wchodzi w skład" with the parent and the
+// previous / next battle of the same parent. `part="children"` (before
+// "Na osi czasu"): every battle that belongs to this one, by start date, with
+// their own sub-battles indented.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { BATTLE_PARENTS } from "@/data/battleParents"
+import { locale, type Lang } from "@/i18n"
+import { localBattles, type LocalBattle } from "@/i18n/local"
+import { formatDateRange } from "@/utils/formatDate"
+
+interface Props {
+  // Polish battle id.
+  id: string
+  part: "parent" | "children"
+  lang?: Lang
+}
+
+const { id, part, lang = "pl" } = Astro.props
+const loc = locale(lang)
+const byId = new Map((await localBattles(lang)).map((battle) => [battle.id, battle]))
+const childrenOf = (parent: string) =>
+  Object.entries(BATTLE_PARENTS)
+    .filter(([child, p]) => p === parent && byId.has(child))
+    .map(([child]) => byId.get(child)!)
+    .sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
+
+const parent = BATTLE_PARENTS[id] ? byId.get(BATTLE_PARENTS[id]) : undefined
+const siblings = parent ? childrenOf(parent.id) : []
+const index = siblings.findIndex((battle) => battle.id === id)
+const previous = index > 0 ? siblings[index - 1] : undefined
+const next = index >= 0 ? siblings[index + 1] : undefined
+
+type Row = { battle: LocalBattle; depth: number }
+const rows: Row[] = []
+const walk = (parentId: string, depth: number) => {
+  for (const battle of childrenOf(parentId)) {
+    rows.push({ battle, depth })
+    walk(battle.id, depth + 1)
+  }
+}
+if (part === "children") walk(id, 0)
+
+const when = (battle: LocalBattle) => formatDateRange(battle.data.startDate, battle.data.endDate, loc)
+const t = {
+  pl: { partOf: "Wchodzi w skład", previous: "← Poprzednia", next: "Następna →", children: "Bitwy i etapy" },
+  en: { partOf: "Part of", previous: "← Previous", next: "Next →", children: "Battles and phases" },
+}[lang]
+---
+
+{
+  part === "parent" && parent && (
+    <aside class="border-line bg-surface mt-12 max-w-2xl rounded-sm border p-5 print:hidden">
+      <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">
+        {t.partOf} · {index + 1}/{siblings.length}
+      </p>
+      <a href={parent.href} class="font-display text-ink hover:text-signal mt-1 block text-lg transition-colors">
+        {parent.data.title}
+      </a>
+      <p class="text-ink-soft mt-0.5 font-mono text-[11px]">{when(parent)}</p>
+      {(previous || next) && (
+        <div class="mt-4 grid gap-3 font-mono text-xs sm:grid-cols-2">
+          {previous ? (
+            <a href={previous.href} class="text-ink-soft hover:text-signal min-w-0 transition-colors">
+              <span class="block">{t.previous}</span>
+              <span class="text-ink mt-0.5 block truncate font-sans text-sm">{previous.data.title}</span>
+            </a>
+          ) : (
+            <span />
+          )}
+          {next && (
+            <a href={next.href} class="text-ink-soft hover:text-signal min-w-0 transition-colors sm:text-right">
+              <span class="block">{t.next}</span>
+              <span class="text-ink mt-0.5 block truncate font-sans text-sm">{next.data.title}</span>
+            </a>
+          )}
+        </div>
+      )}
+    </aside>
+  )
+}
+
+{
+  part === "children" && rows.length > 0 && (
+    <section class="mt-16">
+      <SectionHeading eyebrow={t.children} count={rows.length} />
+      <ol class="border-line border-t">
+        {rows.map(({ battle, depth }) => (
+          <li class="border-line border-b" style={depth ? `padding-left: ${depth * 1.5}rem` : undefined}>
+            <a href={battle.href} class="group grid gap-x-4 py-3 sm:grid-cols-[13rem_1fr]">
+              <span class="text-ink-soft font-mono text-xs leading-6">{when(battle)}</span>
+              <span class="min-w-0">
+                <span class:list={["text-ink group-hover:text-signal block transition-colors", depth === 0 && "font-medium"]}>
+                  {battle.data.title}
+                </span>
+                <span class="text-ink-soft mt-0.5 block text-sm leading-6">{battle.data.summary}</span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )
+}

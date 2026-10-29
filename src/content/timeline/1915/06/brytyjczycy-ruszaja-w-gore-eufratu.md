@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 czerwca 1915 roku wojska brytyjskie i indyjskie generała George'a Gorringe'a ruszyły z rejonu [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) w górę [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Ich celem była [An-Nasirijja](https://pl.wikipedia.org/wiki/An-Nasirijja), ostatnie ważne miasto wilajetu Basry, które pozostało jeszcze w rękach tureckich. Po [zajęciu Al-Amary](/brytyjczycy-zajmuja-al-amare) nad Tygrysem dowódca wojsk brytyjskich w [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), generał John Nixon, chciał w ten sposób zamknąć drugą drogę, którą Turcy mogli zagrozić Basrze. Wojsko nie maszerowało pustynią, lecz płynęło statkami i łodziami przez rozlewiska dolnego Eufratu.
+27 czerwca 1915 roku wojska brytyjskie i indyjskie generała George'a Gorringe'a ruszyły z rejonu [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) w górę [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Ich celem była [An-Nasirijja](https://pl.wikipedia.org/wiki/An-Nasirijja), ostatnie ważne miasto wilajetu Basry, które pozostało jeszcze w rękach tureckich. Po [zajęciu Al-Amary](/brytyjczycy-zajmuja-al-amare) nad Tygrysem dowódca wojsk brytyjskich w [Mezopotamii](/bitwy/kampania-mezopotamska), generał John Nixon, chciał w ten sposób zamknąć drugą drogę, którą Turcy mogli zagrozić Basrze. Wojsko nie maszerowało pustynią, lecz płynęło statkami i łodziami przez rozlewiska dolnego Eufratu.
 
 ## Dlaczego An-Nasirijja
 

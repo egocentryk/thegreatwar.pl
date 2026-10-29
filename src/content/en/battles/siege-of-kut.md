@@ -9,7 +9,7 @@ sides:
     commanders: [Nureddin Bey, Colmar von der Goltz, Halil Bey]
 result: Ottoman victory. Three relief attempts failed, and on 29 April 1916 the starving garrison surrendered. About 13,000 soldiers and followers were taken prisoner.
 source: oblezenie-al-kutu
-sourceHash: acf780ccbf4d8358cc24c8b152d25d539b1d858f
+sourceHash: 2d108b538b3c43c9d97f83f62d92c5a075a483de
 brief:
   - "From 7 December 1915 to 29 April 1916 Ottoman troops besieged General Charles Townshend's 6th (Poona) Division in Kut on the Tigris. It was the greatest defeat of the British expedition to Mesopotamia."
   - "After the Battle of Ctesiphon Townshend decided to await relief in Kut, and General John Nixon backed the decision. Both men were convinced that the relief would break through without much difficulty."
@@ -18,7 +18,7 @@ brief:
   - "On 29 April 1916, after 147 days, the starving garrison surrendered. Thousands of prisoners died in captivity, and the British recaptured Kut only in February 1917."
 ---
 
-The Siege of Kut was the greatest defeat of the British expedition to [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) and one of the heaviest British reverses of the entire war. After the [Battle of Ctesiphon](/bitwy/bitwa-pod-ktezyfonem) General Charles Townshend's 6th (Poona) Division [fell back](/odwrot-spod-ktezyfonu) to [Kut](https://pl.wikipedia.org/wiki/Al-Kut) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and decided to await relief there. On 7 December 1915 Ottoman troops began to surround the town. The garrison beat off the assaults, including a great attack on Christmas Eve, but three relief attempts, made between January and April 1916, broke down against Turkish trenches, floods and mud. On 29 April 1916, after 147 days, the starving garrison surrendered. About 13,000 men went into captivity, from which many never returned.
+The Siege of Kut was the greatest defeat of the British expedition to [Mesopotamia](/bitwy/kampania-mezopotamska) and one of the heaviest British reverses of the entire war. After the [Battle of Ctesiphon](/bitwy/bitwa-pod-ktezyfonem) General Charles Townshend's 6th (Poona) Division [fell back](/odwrot-spod-ktezyfonu) to [Kut](https://pl.wikipedia.org/wiki/Al-Kut) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and decided to await relief there. On 7 December 1915 Ottoman troops began to surround the town. The garrison beat off the assaults, including a great attack on Christmas Eve, but three relief attempts, made between January and April 1916, broke down against Turkish trenches, floods and mud. On 29 April 1916, after 147 days, the starving garrison surrendered. About 13,000 men went into captivity, from which many never returned.
 
 ## Name and dates
 

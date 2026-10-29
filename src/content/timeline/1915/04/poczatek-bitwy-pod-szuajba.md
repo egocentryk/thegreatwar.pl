@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-12 kwietnia 1915 roku o świcie wojska tureckie zaatakowały ufortyfikowany obóz brytyjski pod Szuajbą (Shaiba), kilkanaście kilometrów na południowy zachód od [Basry](https://pl.wikipedia.org/wiki/Basra). Była to największa próba odzyskania przez Turków dolnej [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), utraconej jesienią 1914 roku. Przez cały dzień i noc obrońcy odpierali kolejne natarcia, a Brytyjczycy w Basrze z trudem przerzucali im posiłki przez zalaną wodą pustynię. Zaledwie trzy dni wcześniej dowództwo nad Zatoką Perską [objął generał John Nixon](/nixon-obejmuje-dowodztwo-w-mezopotamii).
+12 kwietnia 1915 roku o świcie wojska tureckie zaatakowały ufortyfikowany obóz brytyjski pod Szuajbą (Shaiba), kilkanaście kilometrów na południowy zachód od [Basry](https://pl.wikipedia.org/wiki/Basra). Była to największa próba odzyskania przez Turków dolnej [Mezopotamii](/bitwy/kampania-mezopotamska), utraconej jesienią 1914 roku. Przez cały dzień i noc obrońcy odpierali kolejne natarcia, a Brytyjczycy w Basrze z trudem przerzucali im posiłki przez zalaną wodą pustynię. Zaledwie trzy dni wcześniej dowództwo nad Zatoką Perską [objął generał John Nixon](/nixon-obejmuje-dowodztwo-w-mezopotamii).
 
 ## Siły Askerîego
 

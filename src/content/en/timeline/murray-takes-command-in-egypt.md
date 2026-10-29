@@ -2,10 +2,10 @@
 title: Murray takes command in Egypt
 summary: On 10 January 1916 Gen. Archibald Murray took over the Mediterranean Expeditionary Force from Monro to guard the Suez Canal and rebuild the Gallipoli divisions.
 source: murray-obejmuje-dowodztwo-w-egipcie
-sourceHash: 2429cb9263d9f19115a8d7433e32e422e2b5f705
+sourceHash: 2f95c824ced9d0caeaff472b80e14923065e0a47
 ---
 
-On 10 January 1916 Lieutenant-General Sir Archibald Murray took over command of the Mediterranean Expeditionary Force from General Charles Monro. He had arrived in [Egypt](https://pl.wikipedia.org/wiki/Egipt) the day before, 9 January, as the [last troops](/koniec-ewakuacji-gallipoli) from [Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli) were leaving Cape Helles. As recently as December Murray had been Chief of the Imperial General Staff in London, but he [had had to make way](/dymisja-archibalda-murraya) for General William Robertson. Now he was given an army that, after eight months of fighting on the peninsula, first had to be rebuilt.
+On 10 January 1916 Lieutenant-General Sir Archibald Murray took over command of the Mediterranean Expeditionary Force from General Charles Monro. He had arrived in [Egypt](https://pl.wikipedia.org/wiki/Egipt) the day before, 9 January, as the [last troops](/koniec-ewakuacji-gallipoli) from [Gallipoli](/bitwy/kampania-gallipolijska) were leaving Cape Helles. As recently as December Murray had been Chief of the Imperial General Staff in London, but he [had had to make way](/dymisja-archibalda-murraya) for General William Robertson. Now he was given an army that, after eight months of fighting on the peninsula, first had to be rebuilt.
 
 ## Two instructions
 

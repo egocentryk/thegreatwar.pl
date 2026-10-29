@@ -2,10 +2,10 @@
 title: Maude takes command in Mesopotamia
 summary: On 28 August 1916 Gen. Stanley Maude, until then commander of the Tigris Corps, took over the chief command in Mesopotamia from the ailing Gen. Percy Lake.
 source: maude-dowodca-w-mezopotamii
-sourceHash: bd980b2e8b0868269d861a33e01eaf013b43a2d8
+sourceHash: 6bf391bc969482fea3d16a3070f4b95dd4c1f2cc
 ---
 
-On 28 August 1916 Lieutenant-General Sir Percy Lake sailed from [Basra](https://pl.wikipedia.org/wiki/Basra) for England, and the chief command of the British forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) passed to General [Frederick Stanley Maude](/postacie/frederick-maude). The British official history (Moberly, *The Campaign in Mesopotamia*, vol. III) gives 27 August as the last day of command of Lake, who had [taken over the army in January](/lake-zastepuje-nixona), at the worst possible moment of the siege of Kut. According to Maude's biographer, General Charles Callwell, the new commander arrived in Basra on 24 August and spent several days discussing the state of the army with his predecessor. He was taking over a force that four months earlier had lived through the [surrender of Kut](/kapitulacja-al-kutu), and that all summer had been losing more men to disease than in combat.
+On 28 August 1916 Lieutenant-General Sir Percy Lake sailed from [Basra](https://pl.wikipedia.org/wiki/Basra) for England, and the chief command of the British forces in [Mesopotamia](/bitwy/kampania-mezopotamska) passed to General [Frederick Stanley Maude](/postacie/frederick-maude). The British official history (Moberly, *The Campaign in Mesopotamia*, vol. III) gives 27 August as the last day of command of Lake, who had [taken over the army in January](/lake-zastepuje-nixona), at the worst possible moment of the siege of Kut. According to Maude's biographer, General Charles Callwell, the new commander arrived in Basra on 24 August and spent several days discussing the state of the army with his predecessor. He was taking over a force that four months earlier had lived through the [surrender of Kut](/kapitulacja-al-kutu), and that all summer had been losing more men to disease than in combat.
 
 ## Why Lake was recalled
 

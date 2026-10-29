@@ -30,6 +30,6 @@ Wiosną, gdy wezbrane rzeki zalewały okolicę, Al-Kurna stawała się wyspą w�
 
 ## Pierwszy etap zamknięty
 
-Zajęcie Al-Kurny zakończyło pierwszy etap [kampanii mezopotamskiej](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Brytyjczycy panowali teraz nad całym Szatt al-Arab, Basrą i dojściem do niej od strony Tygrysu. Miasto było najlepszą wysuniętą pozycją, jaką mogli zająć, choć leżało daleko od Basry jak na siły, którymi dysponował generał porucznik Arthur Barrett.
+Zajęcie Al-Kurny zakończyło pierwszy etap [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Brytyjczycy panowali teraz nad całym Szatt al-Arab, Basrą i dojściem do niej od strony Tygrysu. Miasto było najlepszą wysuniętą pozycją, jaką mogli zająć, choć leżało daleko od Basry jak na siły, którymi dysponował generał porucznik Arthur Barrett.
 
 Zwycięstwo szybko przyniosło też korzyści polityczne. Okoliczni szejkowie arabscy, którzy w czasie walk zachowywali neutralność, zaczęli zgłaszać się do Brytyjczyków z zapewnieniami poparcia. Przesłuchania jeńców pozwoliły wreszcie ustalić, gdzie są pozostałe siły tureckie: główne oddziały cofnęły się w górę Tygrysu ku [Al-Amarze](https://pl.wikipedia.org/wiki/Al-Amara), a resztki dywizji z Basry stały nad Eufratem w rejonie [An-Nasirijji](https://pl.wikipedia.org/wiki/An-Nasirijja).

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 10 listopada 1915 roku ostatnie oddziały Korpusu Indyjskiego zeszły z linii frontu we Francji, którą trzymały przez ponad rok. Ich odcinek w okolicach Neuve-Chapelle i Givenchy przejął brytyjski XI Korpus. Dwie dywizje piechoty korpusu, 3 (Lahore) i 7 (Meerut), miały odpłynąć z [Marsylii](https://pl.wikipedia.org/wiki/Marsylia) na nowy teatr wojny, do [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Brytyjska chronologia wojny notuje pod tą datą, że korpus zaczął opuszczać Francję. Wyjazd był jednak rozłożony na tygodnie. Pierwsze oddziały wsiadły do pociągów już 7 listopada, a ostatni transport wypłynął z Marsylii dopiero 26 grudnia.
+Wieczorem 10 listopada 1915 roku ostatnie oddziały Korpusu Indyjskiego zeszły z linii frontu we Francji, którą trzymały przez ponad rok. Ich odcinek w okolicach Neuve-Chapelle i Givenchy przejął brytyjski XI Korpus. Dwie dywizje piechoty korpusu, 3 (Lahore) i 7 (Meerut), miały odpłynąć z [Marsylii](https://pl.wikipedia.org/wiki/Marsylia) na nowy teatr wojny, do [Mezopotamii](/bitwy/kampania-mezopotamska). Brytyjska chronologia wojny notuje pod tą datą, że korpus zaczął opuszczać Francję. Wyjazd był jednak rozłożony na tygodnie. Pierwsze oddziały wsiadły do pociągów już 7 listopada, a ostatni transport wypłynął z Marsylii dopiero 26 grudnia.
 
 ## Decyzja
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Derviş Bey]
 result: Rebel victory. Within three days they took the city, on 4 July they captured the Ajyad fort, and on 9 July the Jirwal barracks surrendered. More than 1,100 Turkish soldiers were taken prisoner.
 source: bitwa-o-mekke
-sourceHash: fe8138bdcb4e1430fbe853924745cfe5869841a7
+sourceHash: d0648b94774addcbf20ff233be2f3993b43263c0
 ---
 
-The Battle of Mecca was the first great success of the [Arab Revolt](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)). Before dawn on 10 June 1916 the men of Sharif [Hussein bin Ali](/postacie/husajn-ibn-ali) attacked the Turkish garrison of [Mecca](https://pl.wikipedia.org/wiki/Mekka), weakened by the departure of most of the troops to the mountains for the summer. Within three days they took the posts in the city and the government building, but the main barracks and the fort on the hill above the city, which had artillery, held out for almost a month. The rebels had no guns with which to take them. The issue was decided only by Egyptian mountain guns, sent from the Sudan by the British. On 4 July the Ajyad fort fell, and on the evening of 9 July the Jirwal barracks surrendered. The holiest city of Islam was in the hands of the Sharif, who in the autumn proclaimed himself king.
+The Battle of Mecca was the first great success of the [Arab Revolt](/bitwy/powstanie-arabskie). Before dawn on 10 June 1916 the men of Sharif [Hussein bin Ali](/postacie/husajn-ibn-ali) attacked the Turkish garrison of [Mecca](https://pl.wikipedia.org/wiki/Mekka), weakened by the departure of most of the troops to the mountains for the summer. Within three days they took the posts in the city and the government building, but the main barracks and the fort on the hill above the city, which had artillery, held out for almost a month. The rebels had no guns with which to take them. The issue was decided only by Egyptian mountain guns, sent from the Sudan by the British. On 4 July the Ajyad fort fell, and on the evening of 9 July the Jirwal barracks surrendered. The holiest city of Islam was in the hands of the Sharif, who in the autumn proclaimed himself king.
 
 ## Name and dates
 

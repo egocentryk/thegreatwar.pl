@@ -2,7 +2,7 @@
 title: End of the evacuation of Gallipoli
 summary: On the night of 8–9 January 1916 the last British troops sailed from Helles. After eight months of fighting the Gallipoli campaign ended in Allied defeat.
 source: koniec-ewakuacji-gallipoli
-sourceHash: b5df02e31f4e2d71d113fe4031ac5191f8676c8a
+sourceHash: a853b1dd0db12d632fefbe163a5a61d793408ace
 brief:
   - "On the night of 8–9 January 1916 the last British troops sailed from Cape Helles. Not a single Allied soldier remained on the Gallipoli peninsula."
   - "On the morning of 8 January fewer than 17,000 men were still on the cape. Admiral John de Robeck judged the weather fine, but in the evening a storm got up that made embarkation difficult."
@@ -11,7 +11,7 @@ brief:
   - "For the Ottoman Empire Gallipoli was one of the greatest victories of the war, and its best-known hero was Mustafa Kemal. The freed Turkish divisions went to other fronts."
 ---
 
-The British chronology of the war records the end of the evacuation of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula under 8 January 1916. The last stage of the withdrawal from Cape Helles began on the evening of that day and ended in the early hours of the next: according to the British official history of the land campaign, the last boat left the shore on 9 January at 3.45 a.m., and according to the history of naval operations the last destroyers sailed just before five. Not a single Allied soldier remained on the peninsula where the Allies had landed on 25 April 1915. Thus ended the [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), the most ambitious undertaking of the Entente outside the Western Front.
+The British chronology of the war records the end of the evacuation of the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula under 8 January 1916. The last stage of the withdrawal from Cape Helles began on the evening of that day and ended in the early hours of the next: according to the British official history of the land campaign, the last boat left the shore on 9 January at 3.45 a.m., and according to the history of naval operations the last destroyers sailed just before five. Not a single Allied soldier remained on the peninsula where the Allies had landed on 25 April 1915. Thus ended the [Gallipoli campaign](/bitwy/kampania-gallipolijska), the most ambitious undertaking of the Entente outside the Western Front.
 
 ## The last day
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Ahmed Bey]
 result: British victory. The Turks lost all their guns and about a thousand prisoners, and on 25 July the British took Nasiriyah, the last important town of the Basra vilayet.
 source: bitwa-pod-an-nasirijja
-sourceHash: 8923eefc3834a7ef7bed1aa9a45496d81da37425
+sourceHash: f028880f8a2deff48e146899a64c39beda02a6d9
 ---
 
 The Battle of Nasiriyah completed the British conquest of the Basra vilayet. The British and Indian troops of General George Gorringe, which at the end of June 1915 had [set off up the Euphrates](/brytyjczycy-ruszaja-w-gore-eufratu), fought their way out of the Akaika channel onto the main stream of the river on 5 July. A few kilometres short of [Nasiriyah](https://pl.wikipedia.org/wiki/An-Nasirijja), however, they came up against strong Turkish trenches with both flanks resting on marshes, and for nearly three weeks they had to wait for reinforcements, fighting in a heat that killed and wore down the soldiers faster than the enemy. On 24 July, after the arrival of two more brigades, heavy guns and aircraft, Gorringe broke through the Turkish positions on both banks of the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). During the night the Turks abandoned the town, and on the morning of 25 July the British entered Nasiriyah.
@@ -20,7 +20,7 @@ The British official history (Moberly, *The Campaign in Mesopotamia*) describes 
 
 ## Background
 
-After the [capture of Amara](/bitwy/druga-bitwa-pod-al-kurna) on the Tigris, the commander of the British forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), General John Nixon, wanted to take Nasiriyah on the Euphrates as well. The town was the Turkish seat of government in the land of the powerful Muntafiq tribal confederation. Nixon feared that the Turkish garrison could once again lead the Arabs from there against Basra, as it had in the spring [at Shaiba](/bitwy/bitwa-pod-szuajba). He also assumed that most of the Turkish troops had left the town for the Tigris, so resistance would be weak.
+After the [capture of Amara](/bitwy/druga-bitwa-pod-al-kurna) on the Tigris, the commander of the British forces in [Mesopotamia](/bitwy/kampania-mezopotamska), General John Nixon, wanted to take Nasiriyah on the Euphrates as well. The town was the Turkish seat of government in the land of the powerful Muntafiq tribal confederation. Nixon feared that the Turkish garrison could once again lead the Arabs from there against Basra, as it had in the spring [at Shaiba](/bitwy/bitwa-pod-szuajba). He also assumed that most of the Turkish troops had left the town for the Tigris, so resistance would be weak.
 
 Marching across the desert at the height of summer was impossible, so General Charles Melliss's 30th Brigade travelled in river steamers and boats across Hammar Lake and the Akaika channel, a branch of the Euphrates above [Suq ash-Shuyukh](https://pl.wikipedia.org/wiki/Suk_asz-Szujuch). It had no pack animals, and all its supplies went by water. The [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy) flotilla was commanded by Commander Wilfrid Nunn, who had the armed launch *Sumana*, the old paddle steamers *Shushan*, *Mahsoudi* and *Muzaffari*, and 4.7-inch guns mounted on boats. Pushing the vessels over the dam on the channel took several days, and only on the evening of 3 July were all of them through.
 

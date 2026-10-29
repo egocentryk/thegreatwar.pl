@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 stycznia 1916 roku generał porucznik sir Archibald Murray przejął od generała Charlesa Monro dowództwo Śródziemnomorskich Sił Ekspedycyjnych. Do [Egiptu](https://pl.wikipedia.org/wiki/Egipt) przybył dzień wcześniej, 9 stycznia, gdy z przylądka Helles odpływali [ostatni żołnierze](/koniec-ewakuacji-gallipoli) spod [Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli). Jeszcze w grudniu Murray był szefem Imperialnego Sztabu Generalnego w Londynie, ale [musiał ustąpić](/dymisja-archibalda-murraya) generałowi Williamowi Robertsonowi. Teraz dostał wojsko, które po ośmiu miesiącach walk na półwyspie trzeba było dopiero odbudować.
+10 stycznia 1916 roku generał porucznik sir Archibald Murray przejął od generała Charlesa Monro dowództwo Śródziemnomorskich Sił Ekspedycyjnych. Do [Egiptu](https://pl.wikipedia.org/wiki/Egipt) przybył dzień wcześniej, 9 stycznia, gdy z przylądka Helles odpływali [ostatni żołnierze](/koniec-ewakuacji-gallipoli) spod [Gallipoli](/bitwy/kampania-gallipolijska). Jeszcze w grudniu Murray był szefem Imperialnego Sztabu Generalnego w Londynie, ale [musiał ustąpić](/dymisja-archibalda-murraya) generałowi Williamowi Robertsonowi. Teraz dostał wojsko, które po ośmiu miesiącach walk na półwyspie trzeba było dopiero odbudować.
 
 ## Dwie instrukcje
 

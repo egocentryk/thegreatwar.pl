@@ -2,10 +2,10 @@
 title: Capture of Muslimiya
 summary: At the end of October 1918 Faisal's Arabs took the Muslimiya junction near Aleppo and cut the railway from Constantinople to Mesopotamia.
 source: zajecie-muslimiji
-sourceHash: c72645da72d83e7bd12b7d4eea19c2b989a890b0
+sourceHash: aa0d5a710a1384e1e90f1f4a767d0701e8feff4f
 ---
 
-On 28 October 1918, two days after the [capture of Aleppo](/zajecie-aleppo), the Arab troops of Emir [Faisal](/postacie/fajsal-i) took Muslimiya station, about 20 kilometres north of the city. It was the last Allied gain of the Palestine campaign. The British chronology of the war attributes it to British cavalry, but both Preston, the historian of the Desert Mounted Corps, and Cyril Falls's British official history write that the station was taken by the Sharif's Arabs, that is, soldiers of the [Arab Revolt](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)). The sources also differ on the day: Preston gives 28 October, Falls 29 October.
+On 28 October 1918, two days after the [capture of Aleppo](/zajecie-aleppo), the Arab troops of Emir [Faisal](/postacie/fajsal-i) took Muslimiya station, about 20 kilometres north of the city. It was the last Allied gain of the Palestine campaign. The British chronology of the war attributes it to British cavalry, but both Preston, the historian of the Desert Mounted Corps, and Cyril Falls's British official history write that the station was taken by the Sharif's Arabs, that is, soldiers of the [Arab Revolt](/bitwy/powstanie-arabskie). The sources also differ on the day: Preston gives 28 October, Falls 29 October.
 
 ## A Baghdad Railway junction
 

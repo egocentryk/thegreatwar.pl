@@ -1129,9 +1129,29 @@
     "lon": 13.5333,
     "source": "en:Eleventh Battle of the Isonzo"
   },
+  "kampania-gallipolijska": {
+    "lat": 40.2,
+    "lon": 26.33,
+    "source": "manual"
+  },
+  "kampania-mezopotamska": {
+    "lat": 33.0,
+    "lon": 45.0,
+    "source": "manual"
+  },
   "kampania-serbska-1914": {
     "lat": 44.27,
     "lon": 19.89,
+    "source": "manual"
+  },
+  "kampania-synajsko-palestynska": {
+    "lat": 31.8,
+    "lon": 34.9,
+    "source": "manual"
+  },
+  "kampania-wschodnioafrykanska": {
+    "lat": -7.0,
+    "lon": 36.0,
     "source": "manual"
   },
   "kontrofensywa-w-galicji-wschodniej": {
@@ -1442,6 +1462,11 @@
   "podboj-serbii": {
     "lat": 44.0,
     "lon": 20.9,
+    "source": "manual"
+  },
+  "powstanie-arabskie": {
+    "lat": 28.4,
+    "lon": 36.6,
     "source": "manual"
   },
   "powstanie-wielkopolskie": {

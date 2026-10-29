@@ -17,7 +17,7 @@ tags: [Imperium Osmańskie, powstanie arabskie, Egipt, Wielka Brytania]
 milestone: false
 ---
 
-Bitwa o Mekkę była pierwszym wielkim sukcesem [powstania arabskiego](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)). 10 czerwca 1916 roku przed świtem ludzie szarifa [Husajna ibn Alego](/postacie/husajn-ibn-ali) zaatakowali turecki garnizon [Mekki](https://pl.wikipedia.org/wiki/Mekka), osłabiony letnim wyjazdem większości wojska w góry. W ciągu trzech dni zdobyli posterunki w mieście i gmach rządowy, ale główne koszary i fort na wzgórzu nad miastem, mające artylerię, broniły się prawie przez miesiąc. Powstańcy nie mieli dział, którymi mogliby je zdobyć. Rozstrzygnęły dopiero egipskie działa górskie, przysłane z Sudanu przez Brytyjczyków. 4 lipca padł fort Dżijad, a 9 lipca wieczorem poddały się koszary Dżirwal. Najświętsze miasto islamu znalazło się w rękach szarifa, który jesienią ogłosił się królem.
+Bitwa o Mekkę była pierwszym wielkim sukcesem [powstania arabskiego](/bitwy/powstanie-arabskie). 10 czerwca 1916 roku przed świtem ludzie szarifa [Husajna ibn Alego](/postacie/husajn-ibn-ali) zaatakowali turecki garnizon [Mekki](https://pl.wikipedia.org/wiki/Mekka), osłabiony letnim wyjazdem większości wojska w góry. W ciągu trzech dni zdobyli posterunki w mieście i gmach rządowy, ale główne koszary i fort na wzgórzu nad miastem, mające artylerię, broniły się prawie przez miesiąc. Powstańcy nie mieli dział, którymi mogliby je zdobyć. Rozstrzygnęły dopiero egipskie działa górskie, przysłane z Sudanu przez Brytyjczyków. 4 lipca padł fort Dżijad, a 9 lipca wieczorem poddały się koszary Dżirwal. Najświętsze miasto islamu znalazło się w rękach szarifa, który jesienią ogłosił się królem.
 
 ## Nazwa i daty
 

@@ -2,10 +2,10 @@
 title: Percy Lake appointed commander in Mesopotamia
 summary: On 14 January 1916 Gen. Percy Lake, chief of staff of the army in India, was appointed commander in Mesopotamia in place of the gravely ill Gen. John Nixon.
 source: percy-lake-mianowany-dowodca-w-mezopotamii
-sourceHash: 8a1a5192254afa162d0733a69a23ed73f604c0fa
+sourceHash: bc6ee88800cb499db76e982534100a887df7fe34
 ---
 
-The British chronology of the war records under 14 January 1916 that Lieutenant-General Sir Percy Lake was appointed commander-in-chief in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). He was to replace General John Nixon, who had commanded there since April 1915. The British official history (Moberly) and the report of the Mesopotamia Commission do not give the exact date of the appointment. They write only that Nixon fell seriously ill in January and that Lake was sent from India to take his place. The change came at the worst possible moment. General Charles Townshend's division had for five weeks been [defending itself in Kut](/bitwy/oblezenie-al-kutu), and General Fenton Aylmer's Tigris Corps, advancing to relieve it, was in those very days fighting [on the Wadi stream](/bitwy/bitwa-nad-wadi).
+The British chronology of the war records under 14 January 1916 that Lieutenant-General Sir Percy Lake was appointed commander-in-chief in [Mesopotamia](/bitwy/kampania-mezopotamska). He was to replace General John Nixon, who had commanded there since April 1915. The British official history (Moberly) and the report of the Mesopotamia Commission do not give the exact date of the appointment. They write only that Nixon fell seriously ill in January and that Lake was sent from India to take his place. The change came at the worst possible moment. General Charles Townshend's division had for five weeks been [defending itself in Kut](/bitwy/oblezenie-al-kutu), and General Fenton Aylmer's Tigris Corps, advancing to relieve it, was in those very days fighting [on the Wadi stream](/bitwy/bitwa-nad-wadi).
 
 ## Nixon's illness
 

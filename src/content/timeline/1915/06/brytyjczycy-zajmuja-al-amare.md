@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 czerwca 1915 roku brytyjska flotylla rzeczna zajęła bez walki [Al-Amarę](https://pl.wikipedia.org/wiki/Al-Amara) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), około 140 kilometrów rzeką powyżej Al-Kurny. Był to finał pościgu, który zaczął się dwa dni wcześniej, gdy Turcy po [drugiej bitwie pod Al-Kurną](/bitwy/druga-bitwa-pod-al-kurna) porzucili pozycje na zalanych mokradłach i uciekli na północ. Miasto zdobyli nie żołnierze 6 Dywizji (Poona), lecz kilka małych uzbrojonych statków, na których płynęli generał Charles Townshend, dowódca flotylli komandor Wilfrid Nunn i główny oficer polityczny wojsk w [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) Percy Cox. Piechota została daleko w tyle.
+3 czerwca 1915 roku brytyjska flotylla rzeczna zajęła bez walki [Al-Amarę](https://pl.wikipedia.org/wiki/Al-Amara) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), około 140 kilometrów rzeką powyżej Al-Kurny. Był to finał pościgu, który zaczął się dwa dni wcześniej, gdy Turcy po [drugiej bitwie pod Al-Kurną](/bitwy/druga-bitwa-pod-al-kurna) porzucili pozycje na zalanych mokradłach i uciekli na północ. Miasto zdobyli nie żołnierze 6 Dywizji (Poona), lecz kilka małych uzbrojonych statków, na których płynęli generał Charles Townshend, dowódca flotylli komandor Wilfrid Nunn i główny oficer polityczny wojsk w [Mezopotamii](/bitwy/kampania-mezopotamska) Percy Cox. Piechota została daleko w tyle.
 
 ## Wyścig z piechotą
 

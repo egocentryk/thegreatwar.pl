@@ -9,7 +9,7 @@ sides:
     commanders: [Otto Liman von Sanders]
 result: A successful Allied withdrawal. All troops were taken off the peninsula almost without loss, though some equipment and stores had to be abandoned. The Gallipoli campaign ended in defeat for the Entente.
 source: ewakuacja-gallipoli
-sourceHash: fed8a06c3a2fbade534133e28f8fc0b9dcc08b56
+sourceHash: 5e74a33d5b9a505a1e3941dbd3b848256e2b3022
 brief:
   - "From 18 December 1915 to 9 January 1916 the Allies secretly withdrew their last troops from the Gallipoli peninsula. The evacuation ended the Gallipoli campaign, the Entente's most ambitious undertaking outside the Western Front."
   - "General Charles Monro recommended evacuation as early as 31 October, but the government in London long hesitated. Only on 7 December did the Cabinet decide to evacuate Suvla and Anzac and keep Helles for the time being."
@@ -18,7 +18,7 @@ brief:
   - "The campaign ended in an Ottoman victory, but the withdrawal itself was a great tactical success. The British official history credits good planning, army–navy cooperation and, above all, extraordinary luck with the weather."
 ---
 
-The evacuation of Gallipoli brought to an end the [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), the Entente's most ambitious undertaking outside the Western Front. At the end of November 1915 more than 130,000 British, Australian, New Zealand, Indian and French soldiers held three bridgeheads on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. In many places they were only a dozen or so metres from the Turks, and the beaches from which they were to embark lay within range of the Turkish artillery. The commanders feared that a withdrawal would cost tens of thousands killed, wounded and captured. Instead, in two stages – on the nights of 18/19 and 19/20 December from Suvla and Anzac, and on the night of 8/9 January 1916 from Helles – the Allies took off their last units in such a way that the Turks realised it only after the event. The retreat that was expected to be a catastrophe proved to be the best-executed operation of the whole campaign.
+The evacuation of Gallipoli brought to an end the [Gallipoli campaign](/bitwy/kampania-gallipolijska), the Entente's most ambitious undertaking outside the Western Front. At the end of November 1915 more than 130,000 British, Australian, New Zealand, Indian and French soldiers held three bridgeheads on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. In many places they were only a dozen or so metres from the Turks, and the beaches from which they were to embark lay within range of the Turkish artillery. The commanders feared that a withdrawal would cost tens of thousands killed, wounded and captured. Instead, in two stages – on the nights of 18/19 and 19/20 December from Suvla and Anzac, and on the night of 8/9 January 1916 from Helles – the Allies took off their last units in such a way that the Turks realised it only after the event. The retreat that was expected to be a catastrophe proved to be the best-executed operation of the whole campaign.
 
 ## Name and dates
 

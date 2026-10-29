@@ -2,10 +2,10 @@
 title: War Office takes over the Mesopotamian campaign
 summary: In mid-February 1916 control of operations in Mesopotamia passed from the Government of India and the India Office to the War Office in London.
 source: ministerstwo-wojny-przejmuje-kampanie-mezopotamska
-sourceHash: a63133c287e1d75aca8143d6671a54ae221dfddb
+sourceHash: a5e29f68eb811e6c015388ea7d6e732c31427356
 ---
 
-A British chronology of the war records under 16 February 1916 that the [War Office](https://pl.wikipedia.org/wiki/War_Office) took over control of operations in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) from the India Office. This ended an unusual arrangement under which the expedition to the Tigris and Euphrates had been directed since November 1914 not by London but by the Government of [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) and the Commander-in-Chief of the Indian Army, General Beauchamp Duff. The British official history (Moberly) gives no single date for the change, and the report of the Mesopotamia Commission of 1917 says only that the War Office took control of the expedition "early in February 1916". The decision itself was taken in London on 3 February, and the authorities in India accepted it on 10 February.
+A British chronology of the war records under 16 February 1916 that the [War Office](https://pl.wikipedia.org/wiki/War_Office) took over control of operations in [Mesopotamia](/bitwy/kampania-mezopotamska) from the India Office. This ended an unusual arrangement under which the expedition to the Tigris and Euphrates had been directed since November 1914 not by London but by the Government of [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) and the Commander-in-Chief of the Indian Army, General Beauchamp Duff. The British official history (Moberly) gives no single date for the change, and the report of the Mesopotamia Commission of 1917 says only that the War Office took control of the expedition "early in February 1916". The decision itself was taken in London on 3 February, and the authorities in India accepted it on 10 February.
 
 ## Too long a chain of command
 

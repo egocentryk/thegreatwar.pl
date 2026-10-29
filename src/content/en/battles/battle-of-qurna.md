@@ -9,10 +9,10 @@ sides:
     commanders: [Subhi Bey]
 result: British victory. The Qurna garrison capitulated, and the British occupied the town and closed the first stage of the Mesopotamian campaign.
 source: bitwa-pod-al-kurna
-sourceHash: e7a68fc6d2cda21359878c9adf589743a52086e5
+sourceHash: 4cffb0db738549e718b48c01eb79136647e7a45d
 ---
 
-The Battle of Qurna, called in British historiography the "first action at Qurna", was the last engagement of the first phase of the [Mesopotamian campaign](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). After the capture of [Basra](/brytyjczycy-zajmuja-basre), Indian Expeditionary Force "D" moved upriver to drive the Turks out of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), a small town at the confluence of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). The fighting lasted, with breaks, six days. It ended with the capitulation of the Turkish garrison, which had allowed itself to be cut off from its line of retreat to the north.
+The Battle of Qurna, called in British historiography the "first action at Qurna", was the last engagement of the first phase of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). After the capture of [Basra](/brytyjczycy-zajmuja-basre), Indian Expeditionary Force "D" moved upriver to drive the Turks out of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), a small town at the confluence of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). The fighting lasted, with breaks, six days. It ended with the capitulation of the Turkish garrison, which had allowed itself to be cut off from its line of retreat to the north.
 
 ## Why Qurna
 

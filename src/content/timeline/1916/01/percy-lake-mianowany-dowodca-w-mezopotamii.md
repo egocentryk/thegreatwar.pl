@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 14 stycznia 1916 roku, że generał porucznik sir Percy Lake został mianowany naczelnym dowódcą w [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Miał zastąpić generała Johna Nixona, który dowodził tam od kwietnia 1915 roku. Brytyjska historia oficjalna (Moberly) i raport Komisji Mezopotamskiej nie podają dokładnej daty nominacji. Piszą tylko, że Nixon w styczniu poważnie zachorował, a na jego miejsce przysłano z Indii Lake'a. Zmiana przypadła na najgorszy możliwy moment. Dywizja generała Charlesa Townshenda od pięciu tygodni [broniła się w Al-Kucie](/bitwy/oblezenie-al-kutu), a idący jej na odsiecz Korpus Tygrysu generała Fentona Aylmera właśnie w tych dniach walczył [nad strumieniem Wadi](/bitwy/bitwa-nad-wadi).
+Brytyjska chronologia wojny notuje pod 14 stycznia 1916 roku, że generał porucznik sir Percy Lake został mianowany naczelnym dowódcą w [Mezopotamii](/bitwy/kampania-mezopotamska). Miał zastąpić generała Johna Nixona, który dowodził tam od kwietnia 1915 roku. Brytyjska historia oficjalna (Moberly) i raport Komisji Mezopotamskiej nie podają dokładnej daty nominacji. Piszą tylko, że Nixon w styczniu poważnie zachorował, a na jego miejsce przysłano z Indii Lake'a. Zmiana przypadła na najgorszy możliwy moment. Dywizja generała Charlesa Townshenda od pięciu tygodni [broniła się w Al-Kucie](/bitwy/oblezenie-al-kutu), a idący jej na odsiecz Korpus Tygrysu generała Fentona Aylmera właśnie w tych dniach walczył [nad strumieniem Wadi](/bitwy/bitwa-nad-wadi).
 
 ## Choroba Nixona
 

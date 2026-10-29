@@ -9,10 +9,10 @@ sides:
     commanders: [Nazim Bey]
 result: British victory. The Turkish 50th Division was almost entirely destroyed and its commander taken prisoner. The British took more than 5,200 prisoners, occupied Haditha and Anah and destroyed the Turkish depots on the Euphrates.
 source: bitwa-pod-chan-al-baghdadi
-sourceHash: 83a00884e9db0bee8c92329348b81e8d93f667cc
+sourceHash: 26245288efab326172bfd263d0372a505abe259a
 ---
 
-The Battle of Khan al-Baghdadi was the last major British operation on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) during the [Mesopotamian campaign](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Half a year after the [victory at Ramadi](/brytyjczycy-zdobywaja-ramadi), the same Anglo-Indian 15th Division of General Harry Brooking repeated that manoeuvre on a larger scale. On 26 March 1918 the infantry pinned the Turks frontally, while the 11th Cavalry Brigade with armoured cars went round them through the desert and closed their line of retreat. During the night a Turkish attempt to break out collapsed, and at dawn on 27 March thousands of soldiers hung out white flags. In the pursuit the British reached Anah and went even further, on the way recapturing two of their own officers who had been taken prisoner two days earlier.
+The Battle of Khan al-Baghdadi was the last major British operation on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) during the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). Half a year after the [victory at Ramadi](/brytyjczycy-zdobywaja-ramadi), the same Anglo-Indian 15th Division of General Harry Brooking repeated that manoeuvre on a larger scale. On 26 March 1918 the infantry pinned the Turks frontally, while the 11th Cavalry Brigade with armoured cars went round them through the desert and closed their line of retreat. During the night a Turkish attempt to break out collapsed, and at dawn on 27 March thousands of soldiers hung out white flags. In the pursuit the British reached Anah and went even further, on the way recapturing two of their own officers who had been taken prisoner two days earlier.
 
 ## Name and dates
 

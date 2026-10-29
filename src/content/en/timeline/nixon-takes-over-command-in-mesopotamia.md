@@ -2,10 +2,10 @@
 title: Nixon takes over command in Mesopotamia
 summary: On 9 April 1915 Gen. John Nixon arrived in Basra and took over command in Mesopotamia from the ailing Gen. Arthur Barrett, on the eve of a Turkish attack.
 source: nixon-obejmuje-dowodztwo-w-mezopotamii
-sourceHash: bb097fa6d12dc1c994c7edc41f105bcbaa93bd4a
+sourceHash: c256725a5c134d8c5bd92164cc8c33e42962ecbb
 ---
 
-On 9 April 1915 General Sir John Nixon arrived in [Basra](https://pl.wikipedia.org/wiki/Basra) and took over command of the British and Indian troops in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). The Government of India had [appointed him to the post on 18 March](/john-nixon-dowodca-w-mezopotamii). The previous commander of Indian Expeditionary Force "D", Lieutenant-General Arthur Barrett, had been ill for some time. He formally retained command of the 6th (Poona) Division, but three days later left for India, and his division was taken over temporarily by the senior brigade commander, General Charles Fry. At the end of April General Charles Townshend took it over permanently.
+On 9 April 1915 General Sir John Nixon arrived in [Basra](https://pl.wikipedia.org/wiki/Basra) and took over command of the British and Indian troops in [Mesopotamia](/bitwy/kampania-mezopotamska). The Government of India had [appointed him to the post on 18 March](/john-nixon-dowodca-w-mezopotamii). The previous commander of Indian Expeditionary Force "D", Lieutenant-General Arthur Barrett, had been ill for some time. He formally retained command of the 6th (Poona) Division, but three days later left for India, and his division was taken over temporarily by the senior brigade commander, General Charles Fry. At the end of April General Charles Townshend took it over permanently.
 
 With Nixon came the staff of an army corps, which took over the work hitherto done by the staff of the 6th Division. The forces on the Persian Gulf were henceforth to form II Indian Corps: the 6th (Poona) Division, the new 12th Indian Division under General George Gorringe and the 6th Cavalry Brigade. New brigades were, however, still arriving from India and Egypt. General Charles Melliss's 30th Brigade disembarked at Basra on 6 April, and the last battalion of the 33rd Brigade on the day of Nixon's arrival. According to the British official history the new organisation had not yet been fully put into effect.
 

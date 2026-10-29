@@ -2,7 +2,7 @@
 title: British take Qurna
 summary: On 9 December 1914 Subhi Bey, vali of Basra, surrendered Qurna. Over a thousand Turks were captured and the British took a town held to be the biblical Eden.
 source: brytyjczycy-zajmuja-al-kurne
-sourceHash: 3c8284a1c462c6df646da3463f7d6f157e677155
+sourceHash: e229cd4ebf10b5130c57f2c0b222521803080dec
 ---
 
 On 9 December 1914 British and Indian troops occupied [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) at the confluence of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). The Turkish garrison, cut off the day before by [the Indians' crossing of the Tigris](/koniec-walk-o-al-kurne), surrendered without further fighting. The Turkish envoys had agreed to unconditional surrender during the night, and in the morning only the formalities remained.
@@ -23,6 +23,6 @@ In spring, when the swollen rivers flooded the surrounding country, Qurna became
 
 ## The first stage completed
 
-The capture of Qurna completed the first stage of the [Mesopotamian campaign](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). The British now controlled the whole of the Shatt al-Arab, Basra and the approach to it from the Tigris. The town was the best forward position they could take, although it lay far from Basra for the forces at the disposal of Lieutenant-General Arthur Barrett.
+The capture of Qurna completed the first stage of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). The British now controlled the whole of the Shatt al-Arab, Basra and the approach to it from the Tigris. The town was the best forward position they could take, although it lay far from Basra for the forces at the disposal of Lieutenant-General Arthur Barrett.
 
 The victory quickly brought political benefits too. The local Arab sheikhs, who had stayed neutral during the fighting, began coming to the British with assurances of support. The interrogation of prisoners at last made it possible to establish where the remaining Turkish forces were: the main body had fallen back up the Tigris towards [Amarah](https://pl.wikipedia.org/wiki/Al-Amara), and the remnants of the Basra division stood on the Euphrates in the area of [Nasiriyah](https://pl.wikipedia.org/wiki/An-Nasirijja).

@@ -2,10 +2,10 @@
 title: British take Amara
 summary: On 3 June 1915 a few British launches carrying Townshend sailed up the Tigris to Amara. Over a thousand Turkish soldiers surrendered to a handful of sailors.
 source: brytyjczycy-zajmuja-al-amare
-sourceHash: 609878c102a179a6668121c5b8d6f4444809455b
+sourceHash: d55dea5f624308a0b98191411b3be4ee4017d8f3
 ---
 
-On 3 June 1915 a British river flotilla took [Amara](https://pl.wikipedia.org/wiki/Al-Amara) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) without a fight, about 140 kilometres upriver from Qurna. It was the finale of a pursuit that had begun two days earlier, when the Turks, after the [second battle of Qurna](/bitwy/druga-bitwa-pod-al-kurna), abandoned their positions in the flooded marshes and fled north. The town was taken not by the soldiers of the 6th (Poona) Division but by a few small armed vessels carrying General Charles Townshend, the flotilla commander Captain Wilfrid Nunn, and the chief political officer of the forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), Percy Cox. The infantry had been left far behind.
+On 3 June 1915 a British river flotilla took [Amara](https://pl.wikipedia.org/wiki/Al-Amara) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) without a fight, about 140 kilometres upriver from Qurna. It was the finale of a pursuit that had begun two days earlier, when the Turks, after the [second battle of Qurna](/bitwy/druga-bitwa-pod-al-kurna), abandoned their positions in the flooded marshes and fled north. The town was taken not by the soldiers of the 6th (Poona) Division but by a few small armed vessels carrying General Charles Townshend, the flotilla commander Captain Wilfrid Nunn, and the chief political officer of the forces in [Mesopotamia](/bitwy/kampania-mezopotamska), Percy Cox. The infantry had been left far behind.
 
 ## A race with the infantry
 

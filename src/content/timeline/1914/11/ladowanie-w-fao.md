@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-6 listopada 1914 roku, dzień po tym, jak [Wielka Brytania wypowiedziała wojnę Imperium Osmańskiemu](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), brytyjskie i indyjskie wojska wylądowały pod Fao ([Al-Fau](https://pl.wikipedia.org/wiki/Al-Fau_(Irak))) u ujścia rzeki [Szatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab) do [Zatoki Perskiej](https://pl.wikipedia.org/wiki/Zatoka_Perska). Była to pierwsza operacja lądowa [kampanii mezopotamskiej](https://pl.wikipedia.org/wiki/Kampania_mezopotamska).
+6 listopada 1914 roku, dzień po tym, jak [Wielka Brytania wypowiedziała wojnę Imperium Osmańskiemu](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), brytyjskie i indyjskie wojska wylądowały pod Fao ([Al-Fau](https://pl.wikipedia.org/wiki/Al-Fau_(Irak))) u ujścia rzeki [Szatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab) do [Zatoki Perskiej](https://pl.wikipedia.org/wiki/Zatoka_Perska). Była to pierwsza operacja lądowa [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska).
 
 ## Z Bahrajnu do Fao
 

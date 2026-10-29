@@ -9,7 +9,7 @@ sides:
     commanders: [Cevat Pasha, Guido von Usedom]
 result: Ottoman victory. The Allies destroyed the forts at the entrance to the strait but did not break through the minefields. On 18 March they lost three battleships, and three others were badly damaged.
 source: morska-operacja-w-dardanelach
-sourceHash: eba5630178f5ba0566d86bac9518dbe1a977abd7
+sourceHash: bd6a5bb73843bd5c3c6c4c2914fb11a4c10633ae
 brief:
   - "From 19 February to 18 March 1915 the British and French fleets tried to force the Dardanelles without the help of land forces. The ships were to destroy the Turkish forts, clear the strait of mines and appear off Constantinople."
   - "The chief advocate of the operation was Winston Churchill, and the plan was drawn up by Vice-Admiral Sackville Carden. Sixteen capital ships gathered under his orders, most of them old pre-dreadnought battleships."
@@ -58,6 +58,6 @@ According to the most commonly given figures, the Turks lost about 120 killed an
 
 ## Significance
 
-18 March ended the attempt to force the Dardanelles with the fleet alone. De Robeck at first intended to renew the attack, but on 22 March, after a conference with Hamilton, both concluded that troops first had to be landed on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. The landing, which took place on 25 April 1915, began the months-long [Gallipoli campaign](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), which ended with the Allied evacuation in January 1916.
+18 March ended the attempt to force the Dardanelles with the fleet alone. De Robeck at first intended to renew the attack, but on 22 March, after a conference with Hamilton, both concluded that troops first had to be landed on the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) peninsula. The landing, which took place on 25 April 1915, began the months-long [Gallipoli campaign](/bitwy/kampania-gallipolijska), which ended with the Allied evacuation in January 1916.
 
 Historians still argue over whether a further attack by the fleet could have succeeded. On 18 March the Turks used up a large part of their ammunition for the heavy guns, and some participants, such as Carden's chief of staff, Commodore Roger Keyes, were convinced that the fleet had been one step from victory. Others point out that the minefields in the Narrows remained intact and that the minesweepers could not clear them under fire. What is certain is that the old battleships proved helpless against the combination of mines, mobile batteries and fire from the fortifications. In Turkey the defence of the Dardanelles became one of the most important national symbols, and 18 March is celebrated as the day of the victory at Çanakkale.

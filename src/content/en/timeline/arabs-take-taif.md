@@ -2,7 +2,7 @@
 title: The Arabs take Taif
 summary: On 22 September 1916, after a three-month siege, the Turkish garrison of Ta'if surrendered to Emir Abdullah. Hejaz governor Ghalib Pasha was captured.
 source: arabowie-zdobywaja-taif
-sourceHash: 20a454e4b4904bb76702f8722ca661c67db1db41
+sourceHash: 52a4a889c15c6bb8d0674ec6b4e87e6fab8200e8
 ---
 
 On 22 September 1916 the Turkish garrison of [Ta'if](https://pl.wikipedia.org/wiki/At-Ta’if), a mountain town south-east of Mecca, surrendered unconditionally to the forces of Emir [Abdullah](https://pl.wikipedia.org/wiki/Abd_Allah_I_ibn_Husajn), the second son of the Sharif of Mecca, [Hussein bin Ali](/postacie/husajn-ibn-ali). The Turkish Governor-General of the [Hejaz](https://pl.wikipedia.org/wiki/Hidżaz), Ghalib Pasha, was taken prisoner. This is the date given for the capitulation by the British official history of the campaign in Egypt and Palestine (MacMunn and Falls) and by the Turkish historian Mustafa Bostancı. The Lebanese historian George Antonius and Ahmad al-Siba'i, the author of a history of Mecca, give 21 September. The Sharif announced the victory in a communiqué that Reuters circulated from Cairo only a few days later.
@@ -27,4 +27,4 @@ The Ottoman authorities long concealed the defeat. Antonius quotes a communiqué
 
 ## Significance
 
-The capture of Ta'if closed the first stage of the [Arab Revolt](https://pl.wikipedia.org/wiki/Powstanie_arabskie_(1916–1918)). The Sharif held all the main towns of the Hejaz except [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), where the strong garrison of Fahreddin Pasha, linked by rail to Damascus, not only held out but also drove the Arabs back from the town's surroundings. Antonius notes that after the fall of Ta'if and the successful pilgrimage to Mecca at the beginning of October, attended by many Muslims from Egypt, Cairo began to treat the revolt as a serious blow to Turkey. The following months, however, proved the hardest for the insurgents, because the Turks from Medina threatened the road to Mecca.
+The capture of Ta'if closed the first stage of the [Arab Revolt](/bitwy/powstanie-arabskie). The Sharif held all the main towns of the Hejaz except [Medina](https://pl.wikipedia.org/wiki/Medyna_(miasto)), where the strong garrison of Fahreddin Pasha, linked by rail to Damascus, not only held out but also drove the Arabs back from the town's surroundings. Antonius notes that after the fall of Ta'if and the successful pilgrimage to Mecca at the beginning of October, attended by many Muslims from Egypt, Cairo began to treat the revolt as a serious blow to Turkey. The following months, however, proved the hardest for the insurgents, because the Turks from Medina threatened the road to Mecca.

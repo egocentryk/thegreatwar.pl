@@ -2,10 +2,10 @@
 title: Indian Corps leaves France
 summary: On 10 November 1915 the Indian Corps was finally relieved on the front in France. Its two infantry divisions set off via Marseilles for Mesopotamia.
 source: korpus-indyjski-opuszcza-francje
-sourceHash: db0ce714c5a80813e1a7532527e18d6591e35582
+sourceHash: 3825bc5fb11bd2d8260fb9fac5245ef1c59833e3
 ---
 
-On the evening of 10 November 1915 the last units of the Indian Corps came out of the front line in France, which they had held for more than a year. Their sector around Neuve-Chapelle and Givenchy was taken over by the British XI Corps. The corps' two infantry divisions, the 3rd (Lahore) and the 7th (Meerut), were to sail from [Marseilles](https://pl.wikipedia.org/wiki/Marsylia) for a new theatre of war, [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). The British chronology of the war records under this date that the corps began to leave France. The departure, however, was spread over weeks. The first units boarded trains as early as 7 November, and the last transport left Marseilles only on 26 December.
+On the evening of 10 November 1915 the last units of the Indian Corps came out of the front line in France, which they had held for more than a year. Their sector around Neuve-Chapelle and Givenchy was taken over by the British XI Corps. The corps' two infantry divisions, the 3rd (Lahore) and the 7th (Meerut), were to sail from [Marseilles](https://pl.wikipedia.org/wiki/Marsylia) for a new theatre of war, [Mesopotamia](/bitwy/kampania-mezopotamska). The British chronology of the war records under this date that the corps began to leave France. The departure, however, was spread over weeks. The first units boarded trains as early as 7 November, and the last transport left Marseilles only on 26 December.
 
 ## The decision
 

@@ -2,10 +2,10 @@
 title: First meeting of the Dardanelles Committee
 summary: On 7 June 1915 the Dardanelles Committee met for the first time. Kitchener persuaded it to send Hamilton three New Army divisions and new warships.
 source: pierwsze-posiedzenie-komitetu-dardanelskiego
-sourceHash: 2d8c84bb76da28f8254e926ea7d0f9dfe5cff5b7
+sourceHash: 89fcc3d47e340bcced35ae20f7b9afee4fe0ab92
 ---
 
-On the afternoon of 7 June 1915 the Dardanelles Committee, the British government's new body for the conduct of the war, met for the first time in London. It replaced the War Council, which had [last met on 14 May](/ostatnie-posiedzenie-rady-wojennej). Since then the purely Liberal government had fallen and been replaced by a [coalition cabinet](/rzad-koalicyjny-asquitha) that included the Conservatives. During those three weeks nobody had decided what to do next with the expedition to [Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), although General [Ian Hamilton](/postacie/ian-hamilton)'s request for reinforcements had been awaiting an answer since 17 May.
+On the afternoon of 7 June 1915 the Dardanelles Committee, the British government's new body for the conduct of the war, met for the first time in London. It replaced the War Council, which had [last met on 14 May](/ostatnie-posiedzenie-rady-wojennej). Since then the purely Liberal government had fallen and been replaced by a [coalition cabinet](/rzad-koalicyjny-asquitha) that included the Conservatives. During those three weeks nobody had decided what to do next with the expedition to [Gallipoli](/bitwy/kampania-gallipolijska), although General [Ian Hamilton](/postacie/ian-hamilton)'s request for reinforcements had been awaiting an answer since 17 May.
 
 ## Nine ministers
 

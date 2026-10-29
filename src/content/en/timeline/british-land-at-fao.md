@@ -2,10 +2,10 @@
 title: British land at Fao
 summary: On 6 November 1914 Indian troops, after a naval bombardment, landed at Fao on the Shatt al-Arab and took the Turkish fort. The Mesopotamian campaign began.
 source: ladowanie-w-fao
-sourceHash: a365adcf0e33d42d4906c6ceb0ee2bd3bc0a6330
+sourceHash: df8f90a5d8d95c7b31efb4ba68ac014a55bf2c35
 ---
 
-On 6 November 1914, the day after [Great Britain declared war on the Ottoman Empire](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), British and Indian troops landed at Fao ([Al-Faw](https://pl.wikipedia.org/wiki/Al-Fau_(Irak))) at the mouth of the [Shatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). It was the first land operation of the [Mesopotamian campaign](https://pl.wikipedia.org/wiki/Kampania_mezopotamska).
+On 6 November 1914, the day after [Great Britain declared war on the Ottoman Empire](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), British and Indian troops landed at Fao ([Al-Faw](https://pl.wikipedia.org/wiki/Al-Fau_(Irak))) at the mouth of the [Shatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). It was the first land operation of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska).
 
 ## From Bahrain to Fao
 

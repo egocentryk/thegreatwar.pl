@@ -17,7 +17,7 @@ tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania]
 milestone: false
 ---
 
-Bitwa pod Al-Kurną, w brytyjskiej historiografii nazywana „pierwszą akcją pod Kurną”, była ostatnim starciem pierwszej fazy [kampanii mezopotamskiej](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Po zajęciu [Basry](/brytyjczycy-zajmuja-basre) Indyjski Korpus Ekspedycyjny „D” ruszył w górę rzeki, by wyprzeć Turków z [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), miasteczka u zbiegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Walki trwały z przerwami sześć dni. Zakończyły się kapitulacją tureckiego garnizonu, który dał się odciąć od drogi odwrotu na północ.
+Bitwa pod Al-Kurną, w brytyjskiej historiografii nazywana „pierwszą akcją pod Kurną”, była ostatnim starciem pierwszej fazy [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Po zajęciu [Basry](/brytyjczycy-zajmuja-basre) Indyjski Korpus Ekspedycyjny „D” ruszył w górę rzeki, by wyprzeć Turków z [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), miasteczka u zbiegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Walki trwały z przerwami sześć dni. Zakończyły się kapitulacją tureckiego garnizonu, który dał się odciąć od drogi odwrotu na północ.
 
 ## Dlaczego Al-Kurna
 

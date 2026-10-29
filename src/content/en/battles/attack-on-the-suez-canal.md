@@ -9,7 +9,7 @@ sides:
     commanders: [Djemal Pasha, Friedrich Kress von Kressenstein]
 result: British victory. The attempt to cross the canal collapsed and the Ottoman army withdrew across Sinai to Beersheba. The British did not pursue.
 source: atak-na-kanal-sueski
-sourceHash: 2fe240fe5b734ed04838c1e8a25591dca52c164e
+sourceHash: e9b6edb63d9f69c84bcbfcb5acb801df64a996ad
 ---
 
 The attack on the Suez Canal was the first Ottoman offensive against Egypt in the First World War. At the turn of January and February 1915 an army commanded by [Ahmed Djemal Pasha](/postacie/dzemal-pasza) crossed the [Sinai](https://pl.wikipedia.org/wiki/Synaj_(półwysep)) desert and in the night of 2–3 February tried to cross the [Suez Canal](https://pl.wikipedia.org/wiki/Kanał_Sueski) on pontoons near [Ismailia](https://pl.wikipedia.org/wiki/Ismailia). The crossing collapsed under the fire of Indian troops, Egyptian artillery and British and French warships. After a whole day of fighting the Turks withdrew, and on 4 February the British rounded up several hundred prisoners on the eastern bank. The canal, through which troop transports from India, Australia and New Zealand passed, remained open.
@@ -18,7 +18,7 @@ The attack on the Suez Canal was the first Ottoman offensive against Egypt in th
 
 In Polish literature the operation appears as the attack or the first Turkish offensive on the Suez Canal. English-language historiography usually calls it the "Raid on the Suez Canal", Turkish historiography the "First Canal Operation" (Birinci Kanal Harekâtı).
 
-This page adopts the dates 3–4 February 1915, following the British chronology of the war and most studies. On 3 February the Turks attempted the crossing, and on 4 February the defenders discovered their retreat and destroyed a detachment that had remained by the canal. Broader accounts date the whole operation from 26 January, when the [first skirmishes with the approaching army](/turecki-marsz-na-kanal-sueski) took place at Kantara. 2 February, when the [Turkish advance guards](/tureckie-straze-przednie-nad-kanalem-sueskim) clashed with the defenders near Ismailia, can also be regarded as the prelude to the battle. The Polish Wikipedia has no separate article on this battle. It describes it briefly in the entry on the [Sinai and Palestine campaign](https://pl.wikipedia.org/wiki/Kampania_synajska_i_palestyńska).
+This page adopts the dates 3–4 February 1915, following the British chronology of the war and most studies. On 3 February the Turks attempted the crossing, and on 4 February the defenders discovered their retreat and destroyed a detachment that had remained by the canal. Broader accounts date the whole operation from 26 January, when the [first skirmishes with the approaching army](/turecki-marsz-na-kanal-sueski) took place at Kantara. 2 February, when the [Turkish advance guards](/tureckie-straze-przednie-nad-kanalem-sueskim) clashed with the defenders near Ismailia, can also be regarded as the prelude to the battle. The Polish Wikipedia has no separate article on this battle. It describes it briefly in the entry on the [Sinai and Palestine campaign](/bitwy/kampania-synajsko-palestynska).
 
 ## Background
 

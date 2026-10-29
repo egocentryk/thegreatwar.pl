@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 16 lutego 1916 roku, że [Ministerstwo Wojny](https://pl.wikipedia.org/wiki/War_Office) (War Office) przejęło od India Office kierowanie działaniami w [Mezopotamii](https://pl.wikipedia.org/wiki/Kampania_mezopotamska). Kończył się w ten sposób szczególny układ, w którym wyprawę nad Tygrys i Eufrat prowadził od listopada 1914 roku nie Londyn, lecz rząd [Indii Brytyjskich](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) i naczelny wódz armii indyjskiej, generał Beauchamp Duff. Brytyjska historia oficjalna (Moberly) nie podaje jednej daty zmiany, a raport Komisji Mezopotamskiej z 1917 roku pisze tylko, że Ministerstwo Wojny przejęło kontrolę nad wyprawą „na początku lutego 1916 roku”. Sama decyzja zapadła w Londynie 3 lutego, a władze w Indiach przyjęły ją 10 lutego.
+Brytyjska chronologia wojny notuje pod 16 lutego 1916 roku, że [Ministerstwo Wojny](https://pl.wikipedia.org/wiki/War_Office) (War Office) przejęło od India Office kierowanie działaniami w [Mezopotamii](/bitwy/kampania-mezopotamska). Kończył się w ten sposób szczególny układ, w którym wyprawę nad Tygrys i Eufrat prowadził od listopada 1914 roku nie Londyn, lecz rząd [Indii Brytyjskich](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) i naczelny wódz armii indyjskiej, generał Beauchamp Duff. Brytyjska historia oficjalna (Moberly) nie podaje jednej daty zmiany, a raport Komisji Mezopotamskiej z 1917 roku pisze tylko, że Ministerstwo Wojny przejęło kontrolę nad wyprawą „na początku lutego 1916 roku”. Sama decyzja zapadła w Londynie 3 lutego, a władze w Indiach przyjęły ją 10 lutego.
 
 ## Zbyt długa droga rozkazów
 

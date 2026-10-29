@@ -2,7 +2,7 @@
 title: Turkey declares war on Romania
 summary: On 30 August 1916 Turkey announced that, together with Germany and Bulgaria, it was declaring war on Romania. Enver Pasha was readying a corps for Dobruja.
 source: turcja-wypowiada-wojne-rumunii
-sourceHash: 51cfb2ff89eb16600d6605298234be80b6c8fb95
+sourceHash: 2389354334e49214a56b742d42bd7bd55108298c
 brief:
   - "On 30 August 1916 the American chargé d'affaires in Constantinople reported that Turkey, together with Germany and Bulgaria, was declaring war on Romania. Other sources give 29 August or 1 September."
   - "Wallachia and Moldavia had been vassal principalities of the Ottoman Empire for several hundred years. In the first year of the war Romania closed the route across its territory to German military transports for Turkey."
@@ -28,7 +28,7 @@ Dobruja retained a large Muslim population from Turkish times, Turks and Tatars,
 
 In the first year of the war the Turks had one main problem with Romania. Through its territory, and then through still-neutral Bulgaria, ran the only railway route from Germany and Austria-Hungary to Constantinople that avoided hostile Serbia. The Romanian historian Constantin Kirițescu described how Prime Minister [Ion I. C. Brătianu](/postacie/ion-bratianu) closed this route to military transports. About three weeks after the outbreak of war in Europe a train carrying 257 German soldiers in civilian clothes passed through Romania. Officially they were to work on building the Baghdad Railway; in reality they were going to strengthen the defences of the Dardanelles. After protests by supporters of the Entente, the Romanian government allowed only groups of at most 20 people to pass, and then banned the transport of arms and ammunition altogether.
 
-When in 1915 the British and French were assaulting the [Dardanelles](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), the Germans concluded that the fate of the Straits depended on supplying Turkey. Berlin and Vienna promised Bucharest a loan and concessions in Bukovina in return for free transit, but Brătianu refused. So the Germans tried to smuggle through Romania at least shells, weapon parts and aircraft engines, hidden in wagons with double walls or in barrels of lard and sugar. Romanian customs officers and railwaymen tracked down these consignments. Only when Bulgaria entered the war in the autumn of 1915 and the armies of the Central Powers conquered Serbia did a direct railway line from Germany to Turkey open.
+When in 1915 the British and French were assaulting the [Dardanelles](/bitwy/kampania-gallipolijska), the Germans concluded that the fate of the Straits depended on supplying Turkey. Berlin and Vienna promised Bucharest a loan and concessions in Bukovina in return for free transit, but Brătianu refused. So the Germans tried to smuggle through Romania at least shells, weapon parts and aircraft engines, hidden in wagons with double walls or in barrels of lard and sugar. Romanian customs officers and railwaymen tracked down these consignments. Only when Bulgaria entered the war in the autumn of 1915 and the armies of the Central Powers conquered Serbia did a direct railway line from Germany to Turkey open.
 
 ## Enver and the war in Europe
 

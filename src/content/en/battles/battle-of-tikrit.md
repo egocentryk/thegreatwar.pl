@@ -9,10 +9,10 @@ sides:
     commanders: [Halil Pasha]
 result: British victory. After a day-long assault on 5 November the Turks abandoned the position and the town overnight, and on 6 November the British occupied Tikrit. A few days later they returned to Samarra.
 source: bitwa-pod-tikritem
-sourceHash: 2a7ee3d6fcb29ee457442e0ba645f16154dda240
+sourceHash: 3cf5a033899d47de4bd466a77c26a1b4770dc703
 ---
 
-The Battle of Tikrit was the last victory won by British troops in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska) under the command of General [Frederick Stanley Maude](/postacie/frederick-maude). General Alexander Cobbe's British-Indian I Corps, which had spent the summer at [Samarra](https://pl.wikipedia.org/wiki/Samarra), moved up the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) at the beginning of November 1917 against the Turkish XVIII Corps. After a preliminary fight at Daur on 2 November, on 5 November the 7th Division stormed a strongly fortified position at [Tikrit](https://pl.wikipedia.org/wiki/Tikrit). The Turks defended themselves stubbornly all day, but withdrew north during the night, and on 6 November the British occupied the town. They had no intention of holding it, however. After destroying the Turkish base they returned to Samarra.
+The Battle of Tikrit was the last victory won by British troops in [Mesopotamia](/bitwy/kampania-mezopotamska) under the command of General [Frederick Stanley Maude](/postacie/frederick-maude). General Alexander Cobbe's British-Indian I Corps, which had spent the summer at [Samarra](https://pl.wikipedia.org/wiki/Samarra), moved up the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) at the beginning of November 1917 against the Turkish XVIII Corps. After a preliminary fight at Daur on 2 November, on 5 November the 7th Division stormed a strongly fortified position at [Tikrit](https://pl.wikipedia.org/wiki/Tikrit). The Turks defended themselves stubbornly all day, but withdrew north during the night, and on 6 November the British occupied the town. They had no intention of holding it, however. After destroying the Turkish base they returned to Samarra.
 
 ## Name and dates
 

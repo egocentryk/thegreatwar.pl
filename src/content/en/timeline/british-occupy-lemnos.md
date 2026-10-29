@@ -2,7 +2,7 @@
 title: British occupy Lemnos
 summary: On 23 February 1915 British marines arrived on the Greek island of Lemnos. Mudros Bay became the main base of the Allied fleet and troops at the Dardanelles.
 source: brytyjczycy-zajmuja-lemnos
-sourceHash: b807281f1041a665e613f3b8bbfeb5d868c6b61c
+sourceHash: e94bf3baa6f910d5028651360065d5d5c95c18c2
 ---
 
 On 23 February 1915 transports carrying two battalions of British marines, from Plymouth and from Chatham, sailed into [Mudros](https://pl.wikipedia.org/wiki/Mudros) Bay on the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos). They were commanded by Brigadier-General C. N. Trotman. Lemnos, lying in the north of the [Aegean Sea](https://pl.wikipedia.org/wiki/Morze_Egejskie), about 50 kilometres from the entrance to the [Dardanelles](https://pl.wikipedia.org/wiki/Dardanele), became the advanced base of the fleet that for four days had been [attacking the forts at the entrance to the Straits](/poczatek-ataku-floty-na-dardanele).
@@ -23,4 +23,4 @@ The organisation of the base was entrusted to Rear-Admiral Rosslyn Wemyss, who h
 
 The marines from Lemnos soon went into action. On 4 March two companies of the Plymouth battalion landed at Kum Kale and Sedd el Bahr to cover sailors destroying guns in the forts at the entrance to the Straits. They met strong Turkish resistance and returned to the ships the same day, having lost several dozen killed and wounded. On the same day the 3rd Australian Brigade arrived at Mudros from Egypt. In March it was joined by the Royal Naval Division and a French division.
 
-After the failed naval attack of 18 March, Mudros Bay became the place where troops concentrated before the [landing on the Gallipoli peninsula](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli). In April 1915 it teemed with warships and transports, and camps and field hospitals sprang up on its shores. Lemnos remained an Allied base until the end of the war. On 30 October 1918, in the harbour of Mudros, aboard the British battleship *Agamemnon*, the armistice that ended the war with the Ottoman Empire was signed.
+After the failed naval attack of 18 March, Mudros Bay became the place where troops concentrated before the [landing on the Gallipoli peninsula](/bitwy/kampania-gallipolijska). In April 1915 it teemed with warships and transports, and camps and field hospitals sprang up on its shores. Lemnos remained an Allied base until the end of the war. On 30 October 1918, in the harbour of Mudros, aboard the British battleship *Agamemnon*, the armistice that ended the war with the Ottoman Empire was signed.

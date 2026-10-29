@@ -2,10 +2,10 @@
 title: Second Battle of Qurna begins
 summary: On 31 May 1915 Townshend's division attacked Turkish posts north of Qurna in Arab boats across flooded marshes and took them before noon.
 source: poczatek-drugiej-bitwy-pod-al-kurna
-sourceHash: 90a375de4c6b209be6b4aa0a7f9c7fc2544e8648
+sourceHash: 19e28240e5705af721b8a09fbc3bffd7622b9b28
 ---
 
-On 31 May 1915 General Charles Townshend's British 6th (Poona) Division attacked the Turkish positions on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) north of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), which the British had taken [in December 1914](/bitwy/bitwa-pod-al-kurna). The British chronology of the war calls this engagement the "second action at Qurna". It opened the advance upriver that the commander of the British forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Kampania_mezopotamska), General John Nixon, had planned after the victory [at Shaiba](/bitwy/bitwa-pod-szuajba). Its objective was the town of Amara, further up the Tigris, an important centre of Ottoman administration and of trade with Persia.
+On 31 May 1915 General Charles Townshend's British 6th (Poona) Division attacked the Turkish positions on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) north of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), which the British had taken [in December 1914](/bitwy/bitwa-pod-al-kurna). The British chronology of the war calls this engagement the "second action at Qurna". It opened the advance upriver that the commander of the British forces in [Mesopotamia](/bitwy/kampania-mezopotamska), General John Nixon, had planned after the victory [at Shaiba](/bitwy/bitwa-pod-szuajba). Its objective was the town of Amara, further up the Tigris, an important centre of Ottoman administration and of trade with Persia.
 
 ## Attack in boats
 

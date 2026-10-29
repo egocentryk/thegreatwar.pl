@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 7 czerwca 1915 roku w Londynie zebrał się po raz pierwszy Komitet Dardanelski, nowe gremium brytyjskiego rządu do spraw prowadzenia wojny. Zastąpił on Radę Wojenną, która [ostatni raz obradowała 14 maja](/ostatnie-posiedzenie-rady-wojennej). Od tamtej pory upadł rząd samych liberałów, a jego miejsce zajął [gabinet koalicyjny](/rzad-koalicyjny-asquitha) z udziałem konserwatystów. Przez te trzy tygodnie nikt nie rozstrzygnął, co dalej z wyprawą na [Gallipoli](https://pl.wikipedia.org/wiki/Bitwa_o_Gallipoli), choć prośba generała [Iana Hamiltona](/postacie/ian-hamilton) o posiłki czekała na odpowiedź od 17 maja.
+Po południu 7 czerwca 1915 roku w Londynie zebrał się po raz pierwszy Komitet Dardanelski, nowe gremium brytyjskiego rządu do spraw prowadzenia wojny. Zastąpił on Radę Wojenną, która [ostatni raz obradowała 14 maja](/ostatnie-posiedzenie-rady-wojennej). Od tamtej pory upadł rząd samych liberałów, a jego miejsce zajął [gabinet koalicyjny](/rzad-koalicyjny-asquitha) z udziałem konserwatystów. Przez te trzy tygodnie nikt nie rozstrzygnął, co dalej z wyprawą na [Gallipoli](/bitwy/kampania-gallipolijska), choć prośba generała [Iana Hamiltona](/postacie/ian-hamilton) o posiłki czekała na odpowiedź od 17 maja.
 
 ## Dziewięciu ministrów
 
