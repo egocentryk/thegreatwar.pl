@@ -1661,6 +1661,27 @@ engraving) have portraits from long before the war; look for later ones.
   anachronisms), Stanisław_Szeptycki (Polska Siła Zbrojna command),
   Maurycy_Zamoyski (joined the KNP in 1918 — he was a founder in 1917).
 
+## 26. People index as a portrait wall (2026-10-29)
+
+New here (owner's choice of three proposals).
+
+- `/postacie` and `/en/people` (`PeopleIndex.astro`): the big cards in
+  country columns (very long; "Sprawa polska", one country, filled one
+  column of three) are replaced by a grid of portraits, 3 per row on phones
+  up to 8 on desktop, with name and years; the role shows over the portrait
+  on hover or focus and in the link title. Grouped by side, the Polish cause
+  first, people A–Z by surname within a side.
+- Filters (only with JavaScript; without it everyone is listed): chips for
+  side, chips for country (a select on phones, where the chip row ran to six
+  lines), and a name search that ignores diacritics. Sides with no match are
+  hidden and their counts follow the filters.
+- Each side fills full rows, so no column stands empty.
+
+**Port to thesecondwar.pl:** the same component (its people index has the
+same card layout).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked

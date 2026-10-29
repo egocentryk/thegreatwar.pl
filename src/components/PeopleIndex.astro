@@ -1,6 +1,8 @@
 ---
-// People grouped by side and country, with their portraits. Used by
-// /postacie and /en/people.
+// People as a wall of portraits, grouped by side (the Polish cause first),
+// with filter chips for side and country and a name search. Used by /postacie
+// and /en/people. Without JavaScript every person is shown and every link
+// works; the script only hides tiles.
 import { Image } from "astro:assets"
 import SectionHeading from "@/components/SectionHeading.astro"
 import { locale, sideEn, type Lang } from "@/i18n"
@@ -12,24 +14,31 @@ interface Props {
 }
 
 const { lang = "pl" } = Astro.props
+const loc = locale(lang)
 const people = await localPeople(lang)
 
-// The two camps and the Polish cause, each with its countries A–Z.
-const SIDES = ["Ententa", "Państwa centralne", "Sprawa polska"] as const
-const groups = SIDES.map((side) => {
-  const members = people.filter((person) => person.source.data.side === side)
-  const countries = [...new Set(members.map((person) => person.data.country))]
-    .sort((a, b) => a.localeCompare(b, locale(lang)))
-    .map((country) => ({
-      country,
-      people: members.filter((person) => person.data.country === country),
-    }))
-  return {
-    side: lang === "en" ? sideEn(side) : side,
-    count: members.length,
-    countries,
-  }
-}).filter((group) => group.count > 0)
+// Sort by surname: the last word that isn't a regnal number ("Albert I" →
+// "Albert", "Hans von Beseler" → "Beseler").
+const surname = (name: string) => {
+  const words = name.split(/\s+/).filter((w) => !/^[IVX]+$/.test(w))
+  return words.at(-1) ?? name
+}
+const byName = (a: (typeof people)[number], b: (typeof people)[number]) =>
+  surname(a.data.name).localeCompare(surname(b.data.name), loc) || a.data.name.localeCompare(b.data.name, loc)
+
+const SIDES = ["Sprawa polska", "Ententa", "Państwa centralne"] as const
+const sides = SIDES.map((side) => ({
+  key: side,
+  label: lang === "en" ? sideEn(side) : side,
+  people: people.filter((person) => person.source.data.side === side).sort(byName),
+})).filter((group) => group.people.length > 0)
+
+// Countries for the chips, the largest first.
+const countries = [...new Set(people.map((p) => p.data.country))]
+  .map((country) => ({ country, count: people.filter((p) => p.data.country === country).length }))
+  .sort((a, b) => b.count - a.count || a.country.localeCompare(b.country, loc))
+
+const fold = (s: string) => s.normalize("NFD").replace(/\p{M}/gu, "").replace(/ł/g, "l").replace(/Ł/g, "L").toLowerCase()
 
 const t = {
   pl: {
@@ -37,78 +46,188 @@ const t = {
     lead: "Ludzie, którzy prowadzili Wielką Wojnę.",
     intro:
       "Dowódcy, politycy i władcy, opisani przez pryzmat ich roli w latach 1914–1918. Przy każdej postaci znajdziesz bitwy, którymi dowodziła, i wydarzenia z osi czasu, w których się pojawia.",
+    all: "Wszyscy",
+    country: "Kraj",
+    allCountries: "wszystkie",
+    search: "Szukaj nazwiska…",
+    none: "Nikt nie pasuje do tych filtrów.",
   },
   en: {
     eyebrow: "People",
     lead: "The people who waged the Great War.",
     intro:
       "Commanders, politicians and rulers, seen through the part they played in 1914–1918. Each page lists the battles the person commanded and the timeline events in which they appear.",
+    all: "Everyone",
+    country: "Country",
+    allCountries: "all",
+    search: "Search by name…",
+    none: "No one matches these filters.",
   },
 }[lang]
+const chip =
+  "border-line text-ink-soft hover:border-ink hover:text-ink aria-pressed:border-signal aria-pressed:text-signal cursor-pointer rounded-full border px-3 py-1.5 transition-colors"
 ---
 
-<section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+<section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24" data-people>
   <SectionHeading eyebrow={t.eyebrow} count={people.length} level={1} />
 
-  <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
-    {t.lead}
-  </p>
-  <p class="text-ink-soft mt-4 max-w-xl text-sm leading-6">
-    {t.intro}
-  </p>
+  <div class="flex flex-wrap items-end justify-between gap-x-10 gap-y-4">
+    <div>
+      <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">{t.lead}</p>
+      <p class="text-ink-soft mt-4 max-w-xl text-sm leading-6">{t.intro}</p>
+    </div>
+    <input
+      type="search"
+      data-people-search
+      placeholder={t.search}
+      aria-label={t.search}
+      class="border-line bg-surface text-ink placeholder:text-ink-soft focus:border-signal hidden w-full rounded-sm border px-3 py-2 font-mono text-xs outline-none sm:w-64"
+    />
+  </div>
 
-  <div class="mt-12 space-y-16">
+  <div class="mt-8 hidden space-y-3 font-mono text-[11px]" data-people-filters>
+    <div class="flex flex-wrap gap-2" role="group" aria-label={t.eyebrow}>
+      <button type="button" class={chip} data-side="" aria-pressed="true">
+        {t.all} <span class="opacity-60">{people.length}</span>
+      </button>
+      {
+        sides.map((group) => (
+          <button type="button" class={chip} data-side={group.key} aria-pressed="false">
+            {group.label} <span class="opacity-60">{group.people.length}</span>
+          </button>
+        ))
+      }
+    </div>
+    {/* Phones: a select instead of the long row of country chips. */}
+    <label class="flex items-center gap-2 sm:hidden">
+      <span class="text-ink-soft tracking-[0.15em] uppercase">{t.country}:</span>
+      <select data-people-country-select class="border-line bg-surface text-ink rounded-sm border px-2 py-1.5">
+        <option value="">{t.allCountries}</option>
+        {countries.map(({ country, count }) => <option value={country}>{country} ({count})</option>)}
+      </select>
+    </label>
+    <div class="hidden flex-wrap items-center gap-x-3 gap-y-1.5 sm:flex" role="group" aria-label={t.country}>
+      <span class="text-ink-soft tracking-[0.15em] uppercase">{t.country}:</span>
+      <button type="button" class="text-ink-soft hover:text-ink aria-pressed:text-signal cursor-pointer" data-country="" aria-pressed="true">
+        {t.allCountries}
+      </button>
+      {
+        countries.map(({ country, count }) => (
+          <button type="button" class="text-ink-soft hover:text-ink aria-pressed:text-signal cursor-pointer" data-country={country} aria-pressed="false">
+            {country} <span class="opacity-50">{count}</span>
+          </button>
+        ))
+      }
+    </div>
+  </div>
+
+  <div class="mt-10 space-y-12">
     {
-      groups.map((group) => (
-        <section>
-          <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">
-            {group.side}
+      sides.map((group) => (
+        <section data-people-side={group.key}>
+          <h2 class="font-display text-ink flex items-baseline gap-3 text-2xl font-medium sm:text-3xl">
+            {group.label}
+            <span class="text-ink-soft font-mono text-xs" data-people-count>{group.people.length}</span>
           </h2>
-          {/* Countries flow into columns, so small ones pack together. */}
-          <div class="mt-8 gap-x-6 sm:columns-2 lg:columns-3">
-            {group.countries.map(({ country, people }) => (
-              <section class="mb-10 break-inside-avoid">
-                <h3 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
-                  {country}
-                </h3>
-                <ul class="mt-4 grid grid-cols-1 gap-3">
-                  {people.map((person) => (
-                    <li>
-                      <a
-                        href={person.href}
-                        class="group border-line bg-surface hover:border-signal flex h-full gap-4 rounded-sm border p-5 transition-all hover:-translate-y-0.5"
-                      >
-                        {person.source.data.photo && (
-                          <Image
-                            src={person.source.data.photo.src}
-                            alt=""
-                            widths={[56, 112]}
-                            sizes="56px"
-                            class="border-line aspect-[3/4] w-12 shrink-0 self-start rounded-xs border object-cover sm:w-14"
-                          />
-                        )}
-                        <span class="flex min-w-0 flex-1 flex-col">
-                          <span class="flex items-baseline justify-between gap-3">
-                            <span class="font-display text-ink group-hover:text-signal text-lg leading-snug transition-colors">
-                              {person.data.name}
-                            </span>
-                            <span class="text-ink-soft shrink-0 font-mono text-[11px]">
-                              {lifeYears(person.source)}
-                            </span>
-                          </span>
-                          <span class="text-ink-soft mt-2 text-sm leading-6">
-                            {person.data.role}
-                          </span>
-                        </span>
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </section>
+          <ul class="mt-5 grid grid-cols-3 gap-x-3 gap-y-5 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8">
+            {group.people.map((person) => (
+              <li data-country={person.data.country} data-name={fold(person.data.name)}>
+                <a href={person.href} class="group block" title={`${person.data.name} — ${person.data.role}`}>
+                  <span class="border-line bg-surface relative block aspect-[3/4] overflow-hidden rounded-xs border">
+                    {person.source.data.photo ? (
+                      <Image
+                        src={person.source.data.photo.src}
+                        alt=""
+                        widths={[120, 240]}
+                        sizes="(min-width: 1024px) 128px, (min-width: 640px) 25vw, 33vw"
+                        class="size-full object-cover transition duration-300 group-hover:scale-105"
+                      />
+                    ) : (
+                      <span class="font-display text-ink-soft flex size-full items-center justify-center text-2xl">
+                        {person.data.name.split(/\s+/).map((w) => w[0]).slice(0, 2).join("")}
+                      </span>
+                    )}
+                    <span class="bg-ink/85 text-paper absolute inset-x-0 bottom-0 hidden p-2 text-[11px] leading-4 group-hover:block group-focus-visible:block">
+                      {person.data.role}
+                    </span>
+                  </span>
+                  <span class="text-ink group-hover:text-signal mt-2 block text-sm leading-snug transition-colors">
+                    {person.data.name}
+                  </span>
+                  <span class="text-ink-soft mt-0.5 block font-mono text-[10px]">{lifeYears(person.source)}</span>
+                </a>
+              </li>
             ))}
-          </div>
+          </ul>
         </section>
       ))
     }
+    <p class="text-ink-soft hidden text-sm" data-people-none>{t.none}</p>
   </div>
 </section>
+
+<script>
+  // Side and country chips and the name search: hide tiles that don't match,
+  // then sides with nothing left.
+  function init() {
+    const root = document.querySelector<HTMLElement>("[data-people]")
+    if (!root || root.dataset.ready) return
+    root.dataset.ready = "1"
+    const search = root.querySelector<HTMLInputElement>("[data-people-search]")!
+    const filters = root.querySelector<HTMLElement>("[data-people-filters]")!
+    search.classList.remove("hidden")
+    filters.classList.remove("hidden")
+    const fold = (s: string) =>
+      s.normalize("NFD").replace(/\p{M}/gu, "").replace(/ł/g, "l").replace(/Ł/g, "L").toLowerCase()
+    let side = ""
+    let country = ""
+
+    function apply() {
+      const q = fold(search.value.trim())
+      let shown = 0
+      root!.querySelectorAll<HTMLElement>("[data-people-side]").forEach((section) => {
+        let n = 0
+        section.querySelectorAll<HTMLElement>("li[data-name]").forEach((li) => {
+          const ok =
+            (!side || section.dataset.peopleSide === side) &&
+            (!country || li.dataset.country === country) &&
+            (!q || li.dataset.name!.includes(q))
+          li.hidden = !ok
+          if (ok) n++
+        })
+        section.hidden = n === 0
+        section.querySelector<HTMLElement>("[data-people-count]")!.textContent = String(n)
+        shown += n
+      })
+      root!.querySelector<HTMLElement>("[data-people-none]")!.classList.toggle("hidden", shown > 0)
+    }
+
+    function press(attr: string, value: string) {
+      root!.querySelectorAll<HTMLElement>(`button[data-${attr}]`).forEach((b) => {
+        b.setAttribute("aria-pressed", String(b.getAttribute(`data-${attr}`) === value))
+      })
+    }
+
+    root.querySelectorAll<HTMLButtonElement>("button[data-side]").forEach((b) =>
+      b.addEventListener("click", () => {
+        side = b.dataset.side ?? ""
+        press("side", side)
+        apply()
+      }),
+    )
+    const select = root.querySelector<HTMLSelectElement>("[data-people-country-select]")!
+    const setCountry = (value: string) => {
+      country = value
+      press("country", country)
+      select.value = country
+      apply()
+    }
+    root.querySelectorAll<HTMLButtonElement>("button[data-country]").forEach((b) =>
+      b.addEventListener("click", () => setCountry(b.dataset.country ?? "")),
+    )
+    select.addEventListener("change", () => setCountry(select.value))
+    search.addEventListener("input", apply)
+  }
+  init()
+  document.addEventListener("astro:page-load", init)
+</script>
