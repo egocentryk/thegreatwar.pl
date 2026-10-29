@@ -1287,13 +1287,13 @@ Ported from thesecondwar.pl (`roadmap.md` §6, commit `1a05d79f`).
 - **How:** one writer agent per year, with the second site's brief. Each
   sentence carries 1–4 verbatim quotes from the year's articles (Polish
   sentences from Polish files, English from English files).
-  `scripts/year-intros/check.py` checks every quote against its file (links
+  `scripts/checks/year-intros.py` checks every quote against its file (links
   stripped) and that every number in a sentence appears in its quotes, then
   builds the JSON. The drafts with their quotes are kept beside it
-  (`scripts/year-intros/19xx.json`), so an intro can be edited and checked
+  (`scripts/evidence/year-intros/19xx.json`), so an intro can be edited and checked
   again:
 
-      python3 -I scripts/year-intros/check.py . --build src/data/year-intros.json scripts/year-intros/19*.json
+      python3 -I scripts/checks/year-intros.py . --build src/data/year-intros.json scripts/evidence/year-intros/19*.json
 
 - One fix after review: the Versailles declaration (1918) now reads
   "trwałego i sprawiedliwego pokoju" / "a solid and just peace", as both
@@ -1362,14 +1362,14 @@ Ported from thesecondwar.pl (`seo.md` §8, `roadmap.md` §3).
   na ziemiach polskich, Verdun 1916 (overview: `bitwy/bitwa-pod-verdun`),
   Bitwa nad Sommą (overview: `bitwy/bitwa-nad-somma`), Rosja 1917, 1918:
   ostatni rok wojny.
-- **How:** one writer agent per series (brief in `scripts/series/BRIEF.md`).
-  Drafts in `scripts/series/<slug>.json`: every intro sentence backed by
+- **How:** one writer agent per series (brief in `scripts/briefs/series.md`).
+  Drafts in `scripts/evidence/series/<slug>.json`: every intro sentence backed by
   verbatim quotes, every note by one verbatim quote from its own article in
-  the same language. `scripts/series/check.py` checks the quotes, the
+  the same language. `scripts/checks/series.py` checks the quotes, the
   numbers, the English pages, the date order and 8–18 steps, then writes
   `src/data/series.ts`:
 
-      python3 -I scripts/series/check.py . --build src/data/series.ts scripts/series/{lato-1914,legiony-polskie,droga-do-niepodleglosci,wojna-na-ziemiach-polskich,verdun,bitwa-nad-somma,rosja-1917,1918-ostatni-rok-wojny}.json
+      python3 -I scripts/checks/series.py . --build src/data/series.ts scripts/evidence/series/{lato-1914,legiony-polskie,droga-do-niepodleglosci,wojna-na-ziemiach-polskich,verdun,bitwa-nad-somma,rosja-1917,1918-ostatni-rok-wojny}.json
 
   (The file order is the order of the series on the pages.)
 
@@ -1413,10 +1413,10 @@ Ported from thesecondwar.pl (`seo.md` §16).
   (5), men mobilised (11), the costliest battles (10, Isonzo I–XI and
   Caporetto apart so Caporetto isn't counted twice), Verdun and the Somme
   by side (5), U-boats (5), aircraft production (7).
-- **How:** five research agents (brief in `scripts/war-numbers/BRIEF.md`),
+- **How:** five research agents (brief in `scripts/briefs/war-numbers.md`),
   each row with ≥ 2 sources opened and read, at least one not Wikipedia;
-  disputed figures as ranges. `scripts/war-numbers/merge.py` checks the
-  rules and writes the JSON from the parts (`scripts/war-numbers/*.json`).
+  disputed figures as ranges. `scripts/checks/war-numbers.py` checks the
+  rules and writes the JSON from the parts (`scripts/evidence/war-numbers/*.json`).
 - Left out for thin sourcing: Gorlice–Tarnów casualties, merchant shipping
   sunk by flag, artillery and shell production, Polish civilian deaths (one
   estimate only), Spanish flu deaths (not a war loss), buildings destroyed.
@@ -1539,11 +1539,11 @@ New here (expansion-plan.md §A1).
 - Four guides, PL and EN, 2,150–2,650 words each, 39–40 links to our pages:
   Przyczyny I wojny światowej, Skutki I wojny światowej, Sprawa polska w
   czasie I wojny światowej, Nowe rodzaje broni w I wojnie światowej.
-- **How:** one writer agent per guide (brief: `scripts/topics/BRIEF.md`).
-  Every paragraph has an evidence entry in `scripts/topics/<slug>.json`:
+- **How:** one writer agent per guide (brief: `scripts/briefs/topics.md`).
+  Every paragraph has an evidence entry in `scripts/evidence/topics/<slug>.json`:
   verbatim quotes from our articles (checked by script) or from opened web
   pages listed in the guide's `sources:`; every number in a paragraph must be
-  in its quotes. `python3 -I scripts/topics/check.py . <slug>` checks that,
+  in its quotes. `python3 -I scripts/checks/topics.py . <slug>` checks that,
   the internal links and the brief's numbers. Figures agree with
   `war-numbers.json` and the year intros, which the guides quote.
 
@@ -1649,7 +1649,7 @@ New here (expansion-plan.md §A3, first part).
   `wikiTitles`; no date rule) in timeline articles, battle pages, topic
   guides and person pages, and their English files: 54 pages now link the
   new people (Ostrowski 8, Dowbor-Muśnicki 7, Sosnkowski, Kuk, Tarnowski 5…).
-- Brief: `scripts/people/BRIEF.md`; workflow.md §2 and §4 updated (counts,
+- Brief: `scripts/briefs/people.md`; workflow.md §2 and §4 updated (counts,
   the link and portrait scripts).
 
 **Later:** Mikułowski-Pomorski (photo c. 1894) and Bobrzyński (an 1888
@@ -1706,7 +1706,7 @@ same card layout).
 
 ## 27. Society, batch 1: the flu, the air aces, spies and propaganda (2026-10-29)
 
-New here (expansion-plan.md §A4, first batch; brief `scripts/society/BRIEF.md`).
+New here (expansion-plan.md §A4, first batch; brief `scripts/briefs/society-1.md`).
 
 - 17 timeline articles, PL and EN, our own batch (not from the British
   chronology), each with 3–9 sources opened and read:
@@ -1751,7 +1751,7 @@ New here (expansion-plan.md §A4, first batch; brief `scripts/society/BRIEF.md`)
 
 ## 28. Society, batch 2, and guides 11–12 (2026-10-29)
 
-New here (expansion-plan.md §A4, second batch; brief `scripts/society/BRIEF2.md`).
+New here (expansion-plan.md §A4, second batch; brief `scripts/briefs/society-2.md`).
 
 - 17 timeline articles, PL and EN:
   - women (7): the "Right to Serve" march (17 VII 1915), Skłodowska-Curie's
@@ -1815,7 +1815,7 @@ Owner's choice of three proposals. The homepage section repeated the full
   guide, like `/bitwy/` and `/postacie/` (`enPath.topics`, `plPath.topics`,
   `topicsEn` in `enSlugMaps`). Before, an English guide linking another
   guide would have sent readers to the Polish one, so no guide did.
-- `scripts/topics/check.py` checks `/tematy/` links (the target guide must
+- `scripts/checks/topics.py` checks `/tematy/` links (the target guide must
   exist); the guide brief allows them.
 - 15 cross-links in the guides, PL and EN, each on a phrase already in the
   text (first unlinked mention, never a new sentence), reviewed in context:
@@ -1826,6 +1826,44 @@ Owner's choice of three proposals. The homepage section repeated the full
   Baltics; "skutkiem" meaning "as a result").
 
 **Port to thesecondwar.pl:** with the guides (§24).
+
+## 31. Polish thread, part 2: 14 timeline articles (2026-10-29)
+
+New here (expansion-plan.md §A3, part 2; brief `scripts/briefs/polish-thread-2.md`).
+
+- PL and EN, our own batch, sources opened and read (IPN, Polish history
+  journals, Lithuanian encyclopaedia and LRT, the Korfanty Institute's
+  Reichstag record, Morgenthau's report…):
+  - the POW: its founding (22 X 1914, Żuliński in Warsaw), the Warsaw
+    battalion marching to the Legions (22 VIII 1915);
+  - Warsaw city council elections (14 VII 1916; held under a German
+    ordinance of May 1916 — the 1915 Russian law never took effect, as the
+    brief wrongly assumed);
+  - the Prussian partition: Korfanty's Reichstag speech (25 X 1918), Poles
+    in the Poznań soldiers' councils (13 XI), the Naczelna Rada Ludowa
+    (14 XI);
+  - Cieszyn Silesia: the Rada Narodowa Księstwa Cieszyńskiego (19 X 1918),
+    the Polish–Czech agreement (5 XI); Lithuania: the Vilnius conference
+    (18–22 IX 1917), the act of independence (16 II 1918);
+  - Jews in the Polish lands: the Russian expulsions from the front zone
+    (anchored on the Kovno deadline, 18 V 1915), the pogroms in Kielce
+    (11 XI 1918) and Lwów (22–24 XI; every death toll attributed);
+  - the Ochotnicza Legia Kobiet (28 XI 1918, the first muster; other
+    founding dates given).
+- New tags: Śląsk Cieszyński, Żydzi. 28 XI 1918 renumbered (dayOrder 0–4).
+
+### Writers' notes (for the review list)
+
+- `deklaracja-taryby`: the Vilnius conference "18–23 września" — 18–22 IX
+  (the 23rd comes from an error in the act's text).
+- `polacy-zdobywaja-lwow` and `battles/1918/obrona-lwowa-1918`: the
+  "polska komisja rządowa" figure of 150 dead is the Foreign Ministry
+  delegates' (Chrzanowski, Wasercug); the government commission (Rymowicz)
+  gave about 50.
+- `postacie/wojciech-korfanty`: "the last speech by a Polish deputy in the
+  Reichstag" is stated flatly; sources support it only in part.
+- The NRL's precursor (the Poznań Citizens' Committee): founded / named in
+  1916 (our pages) vs named in July 1918 (Czub).
 
 ---
 
@@ -1912,6 +1950,8 @@ finished, tick it here and add its section above.
   person pages, PL/EN (§27)
 - [x] Society, batch 2: 17 articles (women, home fronts, culture), Curie's
   page, and guides 11–12 (trenches, women), PL/EN (§28)
+- [x] Polish thread, part 2: 14 articles (POW, Prussian partition, Cieszyn,
+  Lithuania, Jews in the Polish lands, Legia Kobiet), PL/EN (§31)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

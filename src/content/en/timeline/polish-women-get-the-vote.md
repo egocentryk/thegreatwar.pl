@@ -2,7 +2,7 @@
 title: Polish women get the vote
 summary: On 28 November 1918 Piłsudski signed the electoral law for the Legislative Sejm. The vote went to every citizen aged 21 and over "without distinction of sex".
 source: polki-otrzymuja-prawa-wyborcze
-sourceHash: 5b3e4059833cdcca263b3f4a373640437b7e317d
+sourceHash: 4d5a685c98d45d36324ff6a5568f31e9fb985928
 ---
 
 On 28 November 1918 [Józef Piłsudski](/postacie/jozef-pilsudski), as Provisional Chief of State, signed a decree on the electoral law for the [Legislative Sejm](https://pl.wikipedia.org/wiki/Sejm_Ustawodawczy_(1919–1922)) and a decree setting the election for 26 January 1919. The first article of the electoral law stated that a voter for the Sejm was "every citizen of the State without distinction of sex" who had reached the age of 21. Women could also stand as candidates. Polish women received full voting rights, to vote and to be elected, on the same terms as men, earlier than women in many of Europe's long-established democracies. The elections were to be universal, equal, direct, secret and proportional.

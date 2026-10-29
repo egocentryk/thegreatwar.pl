@@ -2,7 +2,7 @@
 title: Abdication of Wilhelm II
 summary: On 28 November 1918 at Amerongen Wilhelm II signed a renunciation of the crowns of Prussia and the Reich, 19 days after his abdication was announced in Berlin.
 source: abdykacja-wilhelma-ii
-sourceHash: 1d9405920aba78d0f8221f33433752b97eedae40
+sourceHash: 4fa51fe926954aa584e5e9998d70a4ee005e7da3
 ---
 
 On the morning of 28 November 1918, at Count Bentinck's castle at [Amerongen](https://pl.wikipedia.org/wiki/Amerongen) in the Netherlands, the former Kaiser [Wilhelm II](/postacie/wilhelm-ii) signed a formal act of abdication. In it he renounced "for ever" his rights to the crown of [Prussia](https://pl.wikipedia.org/wiki/Królestwo_Prus) and the rights to the imperial crown bound up with it. Nineteen days had passed since [the announcement of his abdication](/rewolucja-w-berlinie) by the Chancellor, Prince Max of Baden. That statement, however, had been a unilateral step by the chancellor, issued without the monarch's consent, and had no legal force. Wilhelm II himself, who had [fled to the Netherlands on 10 November](/cesarz-wilhelm-w-holandii), had not until then renounced the throne.

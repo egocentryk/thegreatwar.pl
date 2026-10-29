@@ -2,7 +2,7 @@
 title: Union of Bukovina with Romania
 summary: On 28 November 1918 the General Congress of Bukovina in Czernowitz voted to unite the land with Romania. Most Ukrainians boycotted the proceedings.
 source: unia-bukowiny-z-rumunia
-sourceHash: 3d6be8f7ccd4de7ab136b463595489a42c6fe3d4
+sourceHash: 4e038ca8185b77c40a582f170bfa9c71d71d713d
 ---
 
 On 28 November 1918 (15 November by the Julian calendar, which Romania used at the time) the General Congress of Bukovina, convened by the Romanian National Council, met in [Czernowitz](https://pl.wikipedia.org/wiki/Czerniowce). Under the chairmanship of the Council's president, the landowner and politician Iancu Flondor, the congress unanimously resolved on the "unconditional and everlasting union of Bukovina, within its old borders up to the Cheremosh, Colacin and the Dniester, with the Kingdom of Romania". Bukovina was the second land, after [Bessarabia](/zjednoczenie-besarabii-z-rumunia), to proclaim union with Romania in 1918.

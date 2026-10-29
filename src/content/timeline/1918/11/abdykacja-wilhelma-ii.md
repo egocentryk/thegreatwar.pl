@@ -4,7 +4,7 @@ summary: 28 listopada 1918 w holenderskim Amerongen Wilhelm II podpisał akt zrz
 category: Polityka
 date: 1918-11-28
 authors: [Łukasz Skowroń]
-dayOrder: 3
+dayOrder: 4
 tags: [Niemcy, Wilhelm II, Holandia, rewolucja listopadowa]
 milestone: false
 draft: false

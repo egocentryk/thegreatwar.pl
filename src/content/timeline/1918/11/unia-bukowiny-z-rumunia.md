@@ -4,7 +4,7 @@ summary: 28 listopada 1918 Kongres Generalny Bukowiny w Czerniowcach uchwalił p
 category: Polityka
 date: 1918-11-28
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Rumunia, Bukowina, Ukraina, Austro-Węgry]
 milestone: false
 draft: false

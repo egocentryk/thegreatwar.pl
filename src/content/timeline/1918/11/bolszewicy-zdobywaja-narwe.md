@@ -5,7 +5,7 @@ category: Działania zbrojne
 front: Front wschodni
 date: 1918-11-28
 authors: [Natalia]
-dayOrder: 2
+dayOrder: 3
 tags: [Estonia, Rosja, Niemcy]
 milestone: false
 draft: false

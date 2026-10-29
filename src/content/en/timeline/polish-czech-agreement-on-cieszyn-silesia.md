@@ -1,0 +1,24 @@
+---
+title: Polish-Czech agreement on Cieszyn Silesia
+summary: On 5 November 1918 the Polish and Czech national councils split Cieszyn Silesia provisionally. Most of it, with Cieszyn and Bielsko, came under Polish rule.
+source: porozumienie-w-sprawie-slaska-cieszynskiego
+sourceHash: e3737c7e44131164105b94934ec30ec9346c9c9f
+---
+
+On 5 November 1918, in [Polish Ostrava](https://pl.wikipedia.org/wiki/Śląska_Ostrawa), representatives of the Polish [National Council of the Duchy of Cieszyn](/rada-narodowa-ksiestwa-cieszynskiego) and of the Czech Provincial National Committee for Silesia (Zemský národní výbor pro Slezsko) concluded an agreement on the provisional division of [Cieszyn Silesia](https://pl.wikipedia.org/wiki/Śląsk_Cieszyński). Each council was to administer the part of the land it considered its own. The line was based on the nationality of the inhabitants of individual communes. The larger part of the former Duchy, with Cieszyn, Bielsko and the [Košice–Bohumín Railway](https://pl.wikipedia.org/wiki/Kolej_Koszycko-Bogumińska), came under Polish administration.
+
+## Two councils, one land
+
+Austria-Hungary fell apart within days. On 28 October [an independent Czechoslovak state was proclaimed](/niepodleglosc-czechoslowacji) in Prague, and the next day, in [Opava](https://pl.wikipedia.org/wiki/Opawa), the capital of Austrian Silesia, the Czechs set up the Provincial National Committee for Silesia. The Polish National Council, founded in Cieszyn two weeks earlier, declared on 30 October that the Duchy belonged to Poland. During the night of 31 October to 1 November, while [Polish soldiers were taking over Kraków](/wyzwolenie-krakowa), Poles of the Cieszyn garrison disarmed the Austrians and the Council assumed power in the districts of Bielsko, Cieszyn and Frysztat. On 1 November the Czech committee in Opava declared in turn that it was taking over power in the whole of Silesia, including the Cieszyn region. Both sides claimed the same land, and Czech flags had already been hoisted over the mines of the Karviná coalfield.
+
+Nevertheless, the two councils chose to negotiate. Under Austrian rule Polish-Czech relations in Cieszyn Silesia had generally been correct, and tension grew only when both nations saw a chance of having states of their own. The councils therefore agreed on a line of demarcation that was to remain in force until the governments in Warsaw and Prague decided on the border.
+
+## Terms
+
+The districts of Bielsko and Cieszyn and most of the district of Frysztat, together about 77 per cent of the Duchy's area, came under Polish administration. The Czech side took the district of Frydek and the rest of the Frysztat district, just under 23 per cent. According to calculations based on the Austrian census of 1910, in the Polish zone about three quarters of the inhabitants used Polish and only about 5 per cent Czech. In the Czech zone about 70 per cent spoke Czech and about 10 per cent Polish. Both zones also had a large German population.
+
+The division was complicated and had many exceptions. The existing management of the mines in the Karviná district, for example, was left in place. Polish historians describe the agreement as a division on the ethnographic principle. In Czech literature this is sometimes questioned, because the text of the agreement does not speak explicitly of a division by nationality. In the following days of November the governments in Warsaw and Prague accepted it as a provisional solution.
+
+## What followed
+
+The peace did not last long. According to the American historian Richard Watt, about a third of the Duchy's mines remained on the Polish side of the line, and the Czechs soon concluded that they had given away too much. The Polish zone also contained the Trzyniec ironworks and a section of the railway that Czechoslovakia needed to link the Czech lands with Slovakia. When the Polish authorities called elections to the Legislative Sejm for 26 January 1919 in the Cieszyn region as well, the Czechoslovak government, with the participation of President [Tomáš Masaryk](/postacie/tomas-masaryk), decided to occupy the land by force. On 23 January 1919 Czech troops crossed the line of 5 November, starting the [Polish-Czechoslovak War](https://pl.wikipedia.org/wiki/Wojna_polsko-czechosłowacka). The advance was halted by the [Battle of Skoczów](https://pl.wikipedia.org/wiki/Bitwa_pod_Skoczowem) on 28–30 January. A new line of demarcation, fixed in Paris on 3 February under pressure from the Great Powers, ran further east, to Poland's disadvantage. Finally, in July 1920, Cieszyn Silesia was divided roughly along the Olza. Czechoslovakia then received Zaolzie with the Karviná coalfield and Trzyniec, much of it lying in the zone that the agreement of 5 November had placed under Polish administration.

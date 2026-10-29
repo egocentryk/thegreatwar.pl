@@ -2,7 +2,7 @@
 title: Bolsheviks take Narva
 summary: On 28 November 1918 the Red Army attacked Narva, which the Germans were leaving. The Estonians had to give up the town. The Estonian War of Independence began.
 source: bolszewicy-zdobywaja-narwe
-sourceHash: d1b823628534156b756a4a8a212ad511d905516f
+sourceHash: 1d1273f5dc682aa56db685f872ae6b94f226ca58
 ---
 
 At half past five on the morning of 28 November 1918 the artillery of the Red Army opened fire on [Narva](https://pl.wikipedia.org/wiki/Narwa_(miasto)) and on the suburb of Jaanilinn ([Ivangorod](https://pl.wikipedia.org/wiki/Iwangorod)) on the other bank of the river. The 6th Rifle Division of the Soviet Seventh Army advanced on the town, and with it regiments of Estonian Red Riflemen, formed in Russia from Estonians who had fled from the Germans. On the same day, or according to some studies the next day, the Reds occupied the town. The Estonians count the start of their [War of Independence](https://pl.wikipedia.org/wiki/Wojna_estońsko-bolszewicka) from that day.

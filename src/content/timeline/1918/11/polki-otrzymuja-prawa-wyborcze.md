@@ -4,7 +4,7 @@ summary: 28 listopada 1918 Piłsudski podpisał ordynację wyborczą do Sejmu Us
 category: Polityka
 date: 1918-11-28
 authors: [Natalia]
-dayOrder: 0
+dayOrder: 1
 tags: [Polska, Józef Piłsudski, kobiety]
 milestone: false
 draft: false
