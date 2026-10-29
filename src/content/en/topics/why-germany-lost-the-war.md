@@ -9,16 +9,16 @@ brief:
   - "The spring offensives of 1918 won great gains but no decision, and from 8 August the Allies, under Foch's common direction, drove the Germans into retreat."
   - "Historians reject the \"stab in the back\" legend: it was Hindenburg and Ludendorff themselves who demanded an armistice on 29 September."
 source: dlaczego-niemcy-przegraly-wojne
-sourceHash: baff2baeba97156cc239b8dfa1b9fb32d06e7561
+sourceHash: 5e778e67d69a03a7017a945553037626bf467eb6
 ---
 
-Germany lost the First World War because it could not decide it quickly, and it could not win a long war of exhaustion against a coalition with more men and resources. Defeat on the Marne in 1914 condemned it to a war on two fronts, the naval blockade starved the country, and the great battles of attrition bled the army white. Unrestricted submarine warfare brought the United States into the war. In the spring of 1918 Ludendorff staked everything on offensives in the west, and when they failed the Allies drove the Germans into retreat, Germany's allies laid down their arms and revolution broke out at home.
+Germany lost the First World War because it could not decide it quickly, and it could not win a long war of exhaustion against a coalition with more men and resources. Defeat on the Marne in 1914 condemned it to a war on two fronts, the naval blockade starved the country, and the great battles of attrition bled the army white. Unrestricted [submarine warfare](/tematy/wojna-podwodna-1914-1918) brought the United States into the war. In the spring of 1918 Ludendorff staked everything on offensives in the west, and when they failed the Allies drove the Germans into retreat, Germany's allies laid down their arms and revolution broke out at home.
 
 ## A war on two fronts and a plan that failed
 
 The German war plan assumed that in a war on two fronts Germany would first quickly crush France, outflanking its fortified frontier through Belgium, and only then turn against Russia. In September 1914 the French and British stopped the Germans [on the Marne](/bitwy/pierwsza-bitwa-nad-marna), and on 9 September the armies of the German right wing [began to retreat](/niemcy-wycofuja-sie-znad-marny). The plan for a quick defeat of France had collapsed. The Chief of the General Staff, [Helmuth von Moltke](/postacie/helmuth-von-moltke), was [removed from command](/falkenhayn-zastepuje-moltkego), and Germany was condemned to the long war on two fronts that its staff officers had feared most.
 
-After the [race to the sea](/bitwy/wyscig-do-morza) an unbroken line of trenches ran from the Belgian coast to the Swiss border. Moltke's successor, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), believed that Germany could not defeat all its enemies at once, and waged a war of attrition. In such a war men and resources counted. Depending on the tally, Germany mobilised between 11 and 13.25 million soldiers during the war, but Russia alone mobilised between 12 and 15.38 million, and France between 7.94 and 8.41 million.
+After the [race to the sea](/bitwy/wyscig-do-morza) an unbroken line of [trenches](/tematy/zycie-w-okopach) ran from the Belgian coast to the Swiss border. Moltke's successor, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), believed that Germany could not defeat all its enemies at once, and waged a war of attrition. In such a war men and resources counted. Depending on the tally, Germany mobilised between 11 and 13.25 million soldiers during the war, but Russia alone mobilised between 12 and 15.38 million, and France between 7.94 and 8.41 million.
 
 ## Blockade and hunger
 
@@ -26,7 +26,7 @@ From the first months of the war the British fleet cut Germany off from overseas
 
 The blockade cut Germany off from food imports. The state took over the purchase and distribution of grain and built a system of ration cards and allocations, run among others by the future chancellor [Georg Michaelis](/postacie/georg-michaelis). In the winter of 1916–1917 the potato crop failed and city dwellers had to live on turnips. The period went down in history as the "turnip winter" (Steckrübenwinter). At times rations fell to 1,000 calories a day, and people looked for food on a black market that few could afford.
 
-According to various estimates the blockade killed between 0.3 and 0.76 million people. The German wartime health office gave 763,000 victims of hunger and disease, and a study of 1928 gave 424,000. The blockade continued after the armistice, and the last restrictions were lifted only on 12 July 1919, after the Treaty of Versailles had been signed.
+According to various estimates the blockade killed between 0.3 and 0.76 million people. The German wartime health office gave 763,000 victims of hunger and disease, and a study of 1928 gave 424,000. The blockade continued after the armistice, and the last restrictions were lifted only on 12 July 1919, after the [Treaty of Versailles](/tematy/skutki-i-wojny-swiatowej) had been signed.
 
 ## Attrition
 

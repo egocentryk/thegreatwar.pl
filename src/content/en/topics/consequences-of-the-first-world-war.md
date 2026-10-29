@@ -9,10 +9,10 @@ brief:
   - "The war left debts, inflation and millions of invalids, widows and orphans, but it also hastened votes for women in many countries."
   - "Communism in power in Russia, Italian fascism and the League of Nations all grew out of the war. Whether the peace of 1919 led straight to another war is still debated by historians."
 source: skutki-i-wojny-swiatowej
-sourceHash: 4be116465d6ace555872a8d7acc32186b281f01b
+sourceHash: 21c9217eccf6bc82c24aeae00eb68fdc8746a8ee
 ---
 
-According to various tallies, the First World War killed between 8.5 and 11 million soldiers and between 5 and 13 million civilians, and right after it the Spanish flu pandemic swept the world. Four empires fell, the Russian, German, Austro-Hungarian and Ottoman, and new states rose on their ruins, among them a reborn Poland. The Paris Peace Conference imposed treaties on the defeated, of which the most important, the Treaty of Versailles, is still argued over. The war left behind debts, inflation and millions of invalids, but also votes for women in many countries, the League of Nations and new movements, communist and fascist, that shaped the rest of the century.
+According to various tallies, the First World War killed between 8.5 and 11 million soldiers and between 5 and 13 million civilians, and right after it the Spanish flu pandemic swept the world. Four empires fell, the Russian, German, Austro-Hungarian and Ottoman, and new states rose on their ruins, among them a reborn Poland. The Paris Peace Conference imposed treaties on the defeated, of which the most important, the Treaty of Versailles, is still argued over. The war left behind debts, inflation and millions of invalids, but also votes for [women](/tematy/kobiety-w-czasie-i-wojny-swiatowej) in many countries, the League of Nations and new movements, communist and fascist, that shaped the rest of the century.
 
 ## The human cost
 
@@ -30,7 +30,7 @@ A separate catastrophe was the [Spanish flu](https://pl.wikipedia.org/wiki/Pande
 
 The war swept away four dynasties that had ruled Central and Eastern Europe and the Middle East for centuries: the Romanovs, the Hohenzollerns, the Habsburgs and the Ottomans. None of them survived the war, though Russia collapsed before it ended and the Ottoman Empire lingered on for several years.
 
-Russia fell first. On 12 March 1917 the Petrograd garrison went over to the strikers (the [February Revolution](/rewolucja-lutowa)), and on 15 March Nicholas II [renounced the throne](/abdykacja-mikolaja-ii) for himself and his son. The Provisional Government proclaimed a republic, but on 7 November the Bolsheviks seized power (the [October Revolution](/rewolucja-pazdziernikowa)), and their government, the Council of People's Commissars, was headed by Vladimir Lenin.
+Russia fell first. On 12 March 1917 the Petrograd garrison went over to the strikers (the [February Revolution](/rewolucja-lutowa)), and on 15 March Nicholas II [renounced the throne](/abdykacja-mikolaja-ii) for himself and his son. The Provisional Government proclaimed a republic, but on 7 November the [Bolsheviks](/tematy/rewolucje-w-rosji-1917) seized power (the [October Revolution](/rewolucja-pazdziernikowa)), and their government, the Council of People's Commissars, was headed by Vladimir Lenin.
 
 In January 1918 the Bolsheviks dispersed Russia's first freely elected parliament, and on 3 March Soviet Russia signed the [Treaty of Brest-Litovsk](/traktat-brzeski) with the Central Powers. It lost Poland, Lithuania, Courland, Livonia, Estonia, Finland and Ukraine, and according to frequently quoted figures some 56 million people lived in the lands it gave up. In July the Bolsheviks [murdered the former tsar and his family](/zamordowanie-rodziny-carskiej). The country sank into a civil war that claimed more than seven million lives.
 

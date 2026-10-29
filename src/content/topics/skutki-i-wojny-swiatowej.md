@@ -24,7 +24,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Aftermath_of_World_War_I"
 ---
 
-I wojna światowa pochłonęła według różnych zestawień od 8,5 do 11 milionów żołnierzy i od 5 do 13 milionów cywilów, a tuż po niej świat spustoszyła pandemia grypy hiszpanki. Upadły cztery imperia: rosyjskie, niemieckie, austro-węgierskie i osmańskie, a na ich gruzach powstały nowe państwa, w tym odrodzona Polska. Konferencja pokojowa w Paryżu narzuciła pokonanym traktaty, z których najważniejszy, wersalski, do dziś budzi spory. Wojna zostawiła po sobie długi, inflację i miliony inwalidów, ale też prawa wyborcze dla kobiet w wielu krajach, Ligę Narodów oraz nowe ruchy, komunistyczny i faszystowski, które zaważyły na losach całego stulecia.
+I wojna światowa pochłonęła według różnych zestawień od 8,5 do 11 milionów żołnierzy i od 5 do 13 milionów cywilów, a tuż po niej świat spustoszyła pandemia grypy hiszpanki. Upadły cztery imperia: rosyjskie, niemieckie, austro-węgierskie i osmańskie, a na ich gruzach powstały nowe państwa, w tym odrodzona Polska. Konferencja pokojowa w Paryżu narzuciła pokonanym traktaty, z których najważniejszy, wersalski, do dziś budzi spory. Wojna zostawiła po sobie długi, inflację i miliony inwalidów, ale też prawa wyborcze dla [kobiet](/tematy/kobiety-w-czasie-i-wojny-swiatowej) w wielu krajach, Ligę Narodów oraz nowe ruchy, komunistyczny i faszystowski, które zaważyły na losach całego stulecia.
 
 ## Bilans ludzki
 
@@ -42,7 +42,7 @@ Osobną katastrofą była pandemia [grypy hiszpanki](https://pl.wikipedia.org/wi
 
 Wojna zmiotła cztery monarchie, które przez stulecia rządziły Europą Środkową i Wschodnią oraz Bliskim Wschodem: Romanowów, Hohenzollernów, Habsburgów i Osmanów. Żadna z nich nie przetrwała wojny, choć Rosja upadła jeszcze przed jej końcem, a imperium osmańskie dogorywało kilka lat.
 
-Pierwsza runęła Rosja. 12 marca 1917 roku garnizon Piotrogrodu przeszedł na stronę strajkujących ([rewolucja lutowa](/rewolucja-lutowa)), a 15 marca Mikołaj II [zrzekł się tronu](/abdykacja-mikolaja-ii) za siebie i syna. Rząd Tymczasowy proklamował republikę, ale 7 listopada władzę zdobyli bolszewicy ([rewolucja październikowa](/rewolucja-pazdziernikowa)), a ich rządem, Radą Komisarzy Ludowych, pokierował Włodzimierz Lenin.
+Pierwsza runęła Rosja. 12 marca 1917 roku garnizon Piotrogrodu przeszedł na stronę strajkujących ([rewolucja lutowa](/rewolucja-lutowa)), a 15 marca Mikołaj II [zrzekł się tronu](/abdykacja-mikolaja-ii) za siebie i syna. Rząd Tymczasowy proklamował republikę, ale 7 listopada władzę zdobyli [bolszewicy](/tematy/rewolucje-w-rosji-1917) ([rewolucja październikowa](/rewolucja-pazdziernikowa)), a ich rządem, Radą Komisarzy Ludowych, pokierował Włodzimierz Lenin.
 
 W styczniu 1918 roku bolszewicy rozpędzili pierwszy wolno wybrany parlament Rosji, a 3 marca Rosja Radziecka podpisała z państwami centralnymi [traktat brzeski](/traktat-brzeski). Straciła Polskę, Litwę, Kurlandię, Inflanty, Estonię, Finlandię i Ukrainę, a według często przytaczanych danych na oderwanych ziemiach mieszkało około 56 milionów ludzi. W lipcu bolszewicy [zamordowali byłego cara z rodziną](/zamordowanie-rodziny-carskiej). Kraj pogrążył się w wojnie domowej, która pochłonęła ponad siedem milionów ofiar.
 

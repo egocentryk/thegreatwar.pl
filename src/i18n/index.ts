@@ -48,12 +48,14 @@ export const enPath = {
   timeline: (slug: string) => `/en/${slug}`,
   battles: (slug: string) => `/en/battles/${slug}`,
   people: (slug: string) => `/en/people/${slug}`,
+  topics: (slug: string) => `/en/topics/${slug}`,
 }
 
 export const plPath = {
   timeline: (id: string) => `/${id}`,
   battles: (id: string) => `/bitwy/${id}`,
   people: (id: string) => `/postacie/${id}`,
+  topics: (id: string) => `/tematy/${id}`,
 }
 
 type Kind = keyof typeof enPath
@@ -62,15 +64,17 @@ type Kind = keyof typeof enPath
 let mapsPromise: Promise<Record<Kind, Map<string, string>>> | undefined
 export function enSlugMaps() {
   mapsPromise ??= (async () => {
-    const [t, b, p] = await Promise.all([
+    const [t, b, p, g] = await Promise.all([
       getCollection("timelineEn", ({ data }) => !data.draft),
       getCollection("battlesEn", ({ data }) => !data.draft),
       getCollection("peopleEn", ({ data }) => !data.draft),
+      getCollection("topicsEn", ({ data }) => !data.draft),
     ])
     return {
       timeline: new Map(t.map((e) => [e.data.source.id, e.id])),
       battles: new Map(b.map((e) => [e.data.source.id, e.id])),
       people: new Map(p.map((e) => [e.data.source.id, e.id])),
+      topics: new Map(g.map((e) => [e.data.source.id, e.id])),
     }
   })()
   return mapsPromise
@@ -121,10 +125,16 @@ export async function rewriteEnHtml(html: string) {
         if (url) return `<a href="${url}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`
       }
-      const internal = href.match(/^\/(?:(bitwy|postacie)\/)?([a-z0-9-]+)(#[^"]*)?$/)
+      const internal = href.match(/^\/(?:(bitwy|postacie|tematy)\/)?([a-z0-9-]+)(#[^"]*)?$/)
       if (internal) {
         const kind: Kind =
-          internal[1] === "bitwy" ? "battles" : internal[1] === "postacie" ? "people" : "timeline"
+          internal[1] === "bitwy"
+            ? "battles"
+            : internal[1] === "postacie"
+              ? "people"
+              : internal[1] === "tematy"
+                ? "topics"
+                : "timeline"
         const slug = maps[kind].get(internal[2])
         if (slug) return `<a href="${enPath[kind](slug)}${internal[3] ?? ""}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`

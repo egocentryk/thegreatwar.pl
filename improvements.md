@@ -1779,9 +1779,7 @@ New here (expansion-plan.md §A4, second batch; brief `scripts/society/BRIEF2.md
   Glossary: okopy, ziemia niczyja, wojna pozycyjna → the trenches guide;
   racjonowanie → the women guide.
 
-**Later:** guides can't link each other yet — `rewriteEnHtml` doesn't map
-`/tematy/…` to `/en/topics/…` (an English guide would point at the Polish
-one). Extend it before guides cross-link.
+**Done (§30):** guides can link each other.
 
 ### Writers' notes (for the review list)
 
@@ -1810,6 +1808,24 @@ Owner's choice of three proposals. The homepage section repeated the full
 - Every guide's panel is in the HTML; a script features a random one on
   each visit and hides it from the list (without JavaScript: the first).
 - `TopicCards.astro` is now only the /tematy list (its homepage mode removed).
+
+## 30. Guides link each other (2026-10-29)
+
+- `rewriteEnHtml` (`src/i18n/index.ts`) maps `/tematy/<id>` to the English
+  guide, like `/bitwy/` and `/postacie/` (`enPath.topics`, `plPath.topics`,
+  `topicsEn` in `enSlugMaps`). Before, an English guide linking another
+  guide would have sent readers to the Polish one, so no guide did.
+- `scripts/topics/check.py` checks `/tematy/` links (the target guide must
+  exist); the guide brief allows them.
+- 15 cross-links in the guides, PL and EN, each on a phrase already in the
+  text (first unlinked mention, never a new sentence), reviewed in context:
+  e.g. "linia okopów" → Życie w okopach, "czołgi" → Nowe rodzaje broni,
+  "bolszewicy" → Rewolucje w Rosji, "ziemie polskie" → Wojna na ziemiach
+  polskich, "nieograniczona wojna podwodna" → Wojna podwodna. Two candidates
+  were dropped for the wrong sense ("niepodległość" of Finland and the
+  Baltics; "skutkiem" meaning "as a result").
+
+**Port to thesecondwar.pl:** with the guides (§24).
 
 ---
 

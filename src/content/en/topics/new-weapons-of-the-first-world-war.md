@@ -9,10 +9,10 @@ brief:
   - "Aircraft went from reconnaissance to fighter combat and the bombing of cities, and on 1 April 1918 the British Royal Air Force was formed."
   - "Unrestricted submarine warfare, resumed on 1 February 1917, nearly cut Britain off from its supplies, but convoys stopped it, and it brought the United States into the war."
 source: nowe-rodzaje-broni-w-i-wojnie-swiatowej
-sourceHash: f4803712ea33cb86be95ecf86b4048e101d417da
+sourceHash: 6378ce4b574745539affb8d42221cf0c38354ead
 ---
 
-The First World War was the first great industrial war, in which machines and factories decided the fate of battles. Quick-firing artillery, machine guns and barbed-wire entanglements gave defenders so great an advantage that in the autumn of 1914 the Western Front froze in the trenches. Trying to get it moving again, both sides turned to weapons that were new or had never before been used on a large scale: poison gas, flamethrowers, tanks, fighter and bomber aircraft, airships and submarines. None of them won the war on its own, but together they changed the way war was fought on land, in the air and at sea.
+The First World War was the first great industrial war, in which machines and factories decided the fate of battles. Quick-firing artillery, machine guns and barbed-wire entanglements gave defenders so great an advantage that in the autumn of 1914 the Western Front froze in the [trenches](/tematy/zycie-w-okopach). Trying to get it moving again, both sides turned to weapons that were new or had never before been used on a large scale: poison gas, flamethrowers, tanks, fighter and bomber aircraft, airships and submarines. None of them won the war on its own, but together they changed the way war was fought on land, in the air and at sea.
 
 ## Artillery and the machine gun
 

@@ -53,7 +53,7 @@ Body, 1,800–2,800 words:
   `/<timeline-slug>`, `/bitwy/<slug>` and `/postacie/<slug>` at their first
   mention. No date restriction here: a guide may link any article. Link at
   least 20 of our pages; 40–50 is fine when the text needs them (person
-  pages included). There is no hard cap. Use pl.wikipedia (checked: exists, not a disambiguation page,
+  pages included). There is no hard cap. Other guides may be linked as `/tematy/<slug>` (the build maps them to the English guide). Use pl.wikipedia (checked: exists, not a disambiguation page,
   right subject) only for things we have no page for. First mention only, no
   duplicate targets.
 - No pointer sentences ("więcej w artykule…"). The links carry the reader.

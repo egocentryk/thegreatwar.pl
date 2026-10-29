@@ -25,13 +25,13 @@ sources:
   - "https://en.wikipedia.org/wiki/Collapse_of_the_Imperial_German_Army"
 ---
 
-Niemcy przegrały I wojnę światową, bo nie zdołały jej szybko rozstrzygnąć, a długiej wojny na wyczerpanie przeciw koalicji mającej więcej ludzi i zasobów nie mogły wygrać. Klęska nad Marną w 1914 roku skazała je na wojnę na dwóch frontach, blokada morska głodziła kraj, a wielkie bitwy na wyniszczenie wykrwawiły armię. Nieograniczona wojna podwodna wciągnęła do wojny Stany Zjednoczone. Wiosną 1918 roku Ludendorff postawił wszystko na ofensywy na zachodzie, a gdy zawiodły, sprzymierzeni zepchnęli Niemców do odwrotu, sojusznicy Niemiec złożyli broń, a w kraju wybuchła rewolucja.
+Niemcy przegrały I wojnę światową, bo nie zdołały jej szybko rozstrzygnąć, a długiej wojny na wyczerpanie przeciw koalicji mającej więcej ludzi i zasobów nie mogły wygrać. Klęska nad Marną w 1914 roku skazała je na wojnę na dwóch frontach, blokada morska głodziła kraj, a wielkie bitwy na wyniszczenie wykrwawiły armię. Nieograniczona [wojna podwodna](/tematy/wojna-podwodna-1914-1918) wciągnęła do wojny Stany Zjednoczone. Wiosną 1918 roku Ludendorff postawił wszystko na ofensywy na zachodzie, a gdy zawiodły, sprzymierzeni zepchnęli Niemców do odwrotu, sojusznicy Niemiec złożyli broń, a w kraju wybuchła rewolucja.
 
 ## Wojna na dwa fronty i plan, który zawiódł
 
 Niemiecki plan wojny zakładał, że w wojnie na dwa fronty Niemcy najpierw szybko rozbiją Francję, obchodząc jej umocnioną granicę przez Belgię, a dopiero potem zwrócą się przeciw Rosji. We wrześniu 1914 roku Francuzi i Brytyjczycy zatrzymali Niemców [nad Marną](/bitwy/pierwsza-bitwa-nad-marna), a 9 września armie niemieckiego prawego skrzydła [zaczęły odwrót](/niemcy-wycofuja-sie-znad-marny). Plan szybkiego pokonania Francji upadł. Szef sztabu generalnego [Helmuth von Moltke](/postacie/helmuth-von-moltke) został [odsunięty od dowodzenia](/falkenhayn-zastepuje-moltkego), a Niemcy byli skazani na długą wojnę na dwóch frontach, której ich sztabowcy najbardziej się obawiali.
 
-Po [wyścigu do morza](/bitwy/wyscig-do-morza) od wybrzeża belgijskiego po granicę Szwajcarii ciągnęła się nieprzerwana linia okopów. Następca Moltkego, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), uważał, że Niemcy nie zdołają rozbić wszystkich przeciwników naraz, i prowadził wojnę na wyczerpanie. W takiej wojnie liczyli się ludzie i zasoby. Niemcy zmobilizowały w czasie wojny, zależnie od zestawienia, od 11 do 13,25 miliona żołnierzy, ale sama Rosja od 12 do 15,38 miliona, a Francja od 7,94 do 8,41 miliona.
+Po [wyścigu do morza](/bitwy/wyscig-do-morza) od wybrzeża belgijskiego po granicę Szwajcarii ciągnęła się nieprzerwana linia [okopów](/tematy/zycie-w-okopach). Następca Moltkego, [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), uważał, że Niemcy nie zdołają rozbić wszystkich przeciwników naraz, i prowadził wojnę na wyczerpanie. W takiej wojnie liczyli się ludzie i zasoby. Niemcy zmobilizowały w czasie wojny, zależnie od zestawienia, od 11 do 13,25 miliona żołnierzy, ale sama Rosja od 12 do 15,38 miliona, a Francja od 7,94 do 8,41 miliona.
 
 ## Blokada i głód
 
@@ -39,7 +39,7 @@ Od pierwszych miesięcy wojny brytyjska flota odcinała Niemcy od handlu zamorsk
 
 Blokada odcięła Niemcy od importu żywności. Państwo przejęło skup i rozdział zboża i zbudowało system kartek i przydziałów, którym kierował między innymi przyszły kanclerz [Georg Michaelis](/postacie/georg-michaelis). Zimą z 1916 na 1917 rok zawiódł zbiór ziemniaków i mieszkańcy miast musieli żywić się brukwią. Ten okres przeszedł do historii jako „zima brukwiowa” (Steckrübenwinter). Przydziały spadały chwilami do 1000 kalorii dziennie, a ludzie szukali żywności na czarnym rynku, na który mało kogo było stać.
 
-Według różnych szacunków blokada zabiła od 0,3 do 0,76 miliona ludzi. Wojenny niemiecki urząd zdrowia podawał 763 000 ofiar głodu i chorób, a badanie z 1928 roku 424 000. Blokada trwała jeszcze po rozejmie i ostatnie ograniczenia zniesiono dopiero 12 lipca 1919 roku, po podpisaniu traktatu wersalskiego.
+Według różnych szacunków blokada zabiła od 0,3 do 0,76 miliona ludzi. Wojenny niemiecki urząd zdrowia podawał 763 000 ofiar głodu i chorób, a badanie z 1928 roku 424 000. Blokada trwała jeszcze po rozejmie i ostatnie ograniczenia zniesiono dopiero 12 lipca 1919 roku, po podpisaniu [traktatu wersalskiego](/tematy/skutki-i-wojny-swiatowej).
 
 ## Wyniszczenie
 

@@ -22,7 +22,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Dazzle_camouflage"
 ---
 
-I wojna światowa była pierwszą wielką wojną przemysłową, w której o losie bitew decydowały maszyny i fabryki. Szybkostrzelna artyleria, karabiny maszynowe i zasieki z drutu kolczastego dały obrońcom tak wielką przewagę, że jesienią 1914 roku front zachodni zastygł w okopach. Próbując go ruszyć, obie strony sięgnęły po broń nową albo dotąd nieużywaną na wielką skalę: gaz bojowy, miotacze ognia, czołgi, samoloty myśliwskie i bombowe, sterowce i okręty podwodne. Żadna z nich nie wygrała wojny sama, ale razem zmieniły sposób walki na lądzie, w powietrzu i na morzu.
+I wojna światowa była pierwszą wielką wojną przemysłową, w której o losie bitew decydowały maszyny i fabryki. Szybkostrzelna artyleria, karabiny maszynowe i zasieki z drutu kolczastego dały obrońcom tak wielką przewagę, że jesienią 1914 roku front zachodni zastygł w [okopach](/tematy/zycie-w-okopach). Próbując go ruszyć, obie strony sięgnęły po broń nową albo dotąd nieużywaną na wielką skalę: gaz bojowy, miotacze ognia, czołgi, samoloty myśliwskie i bombowe, sterowce i okręty podwodne. Żadna z nich nie wygrała wojny sama, ale razem zmieniły sposób walki na lądzie, w powietrzu i na morzu.
 
 ## Artyleria i karabin maszynowy
 

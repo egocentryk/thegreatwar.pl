@@ -20,7 +20,7 @@ Checks: every paragraph (every block of the body that is not a heading) has an
 evidence entry; every quote from our content is found verbatim in its file;
 every quoted URL is listed in the guide's `sources:`; every number in a
 paragraph appears in one of its quotes; every internal link points to an
-existing page; every number in the "W skrócie" points appears in the body.
+existing page (an article, battle, person or another guide); every number in the "W skrócie" points appears in the body.
 Web quotes cannot be re-checked offline: they are the writer's record of what
 the opened page says.
 """
@@ -88,7 +88,8 @@ def check(repo, slug):
     pages = {os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/timeline/**/*.md", recursive=True)}
     pages |= {"bitwy/" + os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/battles/*/*.md")}
     pages |= {"postacie/" + os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/postacie/*.md")}
-    for ref in re.findall(r"\]\(/((?:bitwy/|postacie/)?[a-z0-9-]+)(?:#[^)]*)?\)", body):
+    pages |= {"tematy/" + os.path.basename(f)[:-3] for f in glob.glob(f"{repo}/src/content/topics/*.md")}
+    for ref in re.findall(r"\]\(/((?:bitwy/|postacie/|tematy/)?[a-z0-9-]+)(?:#[^)]*)?\)", body):
         if ref not in pages:
             problems.append(f"link to a page that doesn't exist: /{ref}")
     if len(sources) < 4:
