@@ -2,7 +2,7 @@
 title: Poland regains independence
 summary: On 11 November 1918 the Regency Council handed Piłsudski command of the army, while Warsaw disarmed the Germans. The day became Independence Day.
 source: odzyskanie-niepodleglosci-przez-polske
-sourceHash: a3be3b6dedf6a9c3b8613a91fa10a91e36cc2510
+sourceHash: 53af8722d84e5cfce7f936230a89685e08190cf6
 brief:
   - "On the evening of 11 November 1918 in Warsaw the Regency Council handed Józef Piłsudski military authority and supreme command of the Polish armed forces. That same morning Germany signed the armistice near Compiègne."
   - "From the evening of 10 November, the day Piłsudski returned from Magdeburg, Polish soldiers and inhabitants disarmed the German garrison. About 30,000 Germans left Warsaw over the following days."
@@ -27,7 +27,7 @@ That day the socialists of the [PPS](https://pl.wikipedia.org/wiki/Polska_Partia
 
 ## The regents' proclamation
 
-The regents, Archbishop [Aleksander Kakowski](/postacie/aleksander-kakowski), Prince [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) and [Józef Ostrowski](https://pl.wikipedia.org/wiki/Józef_Ostrowski_(regent)), had for several weeks been governing without the occupiers' consent, ever since they [announced on 7 October](/deklaracja-rady-regencyjnej) their will to create an independent Poland. By early November, however, their authority was very weak. Józef Świeżyński's government had refused them obedience and been dismissed, and the left in Lublin was demanding the dissolution of the Council. On the evening of 11 November, between five and ten, the regents deliberated in the flat of the ailing Ostrowski. At about eight Piłsudski joined them.
+The regents, Archbishop [Aleksander Kakowski](/postacie/aleksander-kakowski), Prince [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) and [Józef Ostrowski](/postacie/jozef-ostrowski), had for several weeks been governing without the occupiers' consent, ever since they [announced on 7 October](/deklaracja-rady-regencyjnej) their will to create an independent Poland. By early November, however, their authority was very weak. Józef Świeżyński's government had refused them obedience and been dismissed, and the left in Lublin was demanding the dissolution of the Council. On the evening of 11 November, between five and ten, the regents deliberated in the flat of the ailing Ostrowski. At about eight Piłsudski joined them.
 
 They decided to hand him the army. The proclamation "The Regency Council to the Polish Nation" read:
 

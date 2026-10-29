@@ -9,7 +9,7 @@ sides:
     commanders: []
 result: Insurgent victory. By mid-January 1919 they held most of the province, and the armistice signed at Trier on 16 February barred the Germans from attacking the Poles and drew a demarcation line. The Treaty of Versailles gave Poland almost all of Greater Poland.
 source: powstanie-wielkopolskie
-sourceHash: 04ce209380f019dc1b3479ff1c529bef7e472da9
+sourceHash: 72e3a0bc3dbc44d175f2653c301059070786c7e9
 brief:
   - "The Greater Poland uprising broke out in Poznań on 27 December 1918, during Paderewski's visit, when a German procession tore down Polish and Allied flags and shots were fired outside the Bazar hotel."
   - "The Poles of the Prussian Province of Posen had long resisted Germanisation. The Supreme People's Council counted on the peace conference, but conspirators had been stockpiling arms and preparing units for weeks."
@@ -46,7 +46,7 @@ Mid-January brought stabilisation. Most of the province was in Polish hands, but
 
 ## The Greater Poland Army
 
-Officers were scarce, because the Germans had rarely promoted Poles. The NRL therefore turned to Warsaw, and with the consent of [Józef Piłsudski](/postacie/jozef-pilsudski) command was taken by General [Józef Dowbor-Muśnicki](https://pl.wikipedia.org/wiki/Józef_Dowbor-Muśnicki), former commander of the I Polish Corps in Russia. According to his biography he arrived in Poznań on 8 January and on 16 January took over the duties of commander-in-chief from Taczak. Many officers from the former Russian army followed him. The volunteer units were turned into a regular army: on 17 January the conscription of men born in 1897–1899 was announced, and on 18 January the line of battle was divided into fronts: northern, western, south-western (near Leszno) and southern. On 26 January, on Wilhelmplatz, renamed [Freedom Square](https://pl.wikipedia.org/wiki/Plac_Wolności_w_Poznaniu), the soldiers took the oath. Thus arose the nucleus of the [Greater Poland Army](https://pl.wikipedia.org/wiki/Armia_Wielkopolska), which by the spring numbered several tens of thousands of soldiers.
+Officers were scarce, because the Germans had rarely promoted Poles. The NRL therefore turned to Warsaw, and with the consent of [Józef Piłsudski](/postacie/jozef-pilsudski) command was taken by General [Józef Dowbor-Muśnicki](/postacie/jozef-dowbor-musnicki), former commander of the I Polish Corps in Russia. According to his biography he arrived in Poznań on 8 January and on 16 January took over the duties of commander-in-chief from Taczak. Many officers from the former Russian army followed him. The volunteer units were turned into a regular army: on 17 January the conscription of men born in 1897–1899 was announced, and on 18 January the line of battle was divided into fronts: northern, western, south-western (near Leszno) and southern. On 26 January, on Wilhelmplatz, renamed [Freedom Square](https://pl.wikipedia.org/wiki/Plac_Wolności_w_Poznaniu), the soldiers took the oath. Thus arose the nucleus of the [Greater Poland Army](https://pl.wikipedia.org/wiki/Armia_Wielkopolska), which by the spring numbered several tens of thousands of soldiers.
 
 ## German counter-offensive
 

@@ -2,10 +2,10 @@
 title: Decree establishing the Provisional Council of State
 summary: On 6 December 1916 Beseler and Kuk's decree on the Provisional Council of State was published. Its Polish members, named by the occupiers, were only to advise.
 source: dekret-o-utworzeniu-tymczasowej-rady-stanu
-sourceHash: 0435ac9be4de90f5eca2943f787bcb8235e35b2d
+sourceHash: aecb50420194ca2cc10ab9a7e2a1dbc516ce7d80
 ---
 
-On 6 December 1916 the official journals of both occupation governorates, the German one in Warsaw and the Austro-Hungarian one in Lublin, published the ordinance "on the provisional Council of State in the Kingdom of Poland". It was signed "by Supreme command" of the two emperors by the governors-general [Hans Hartwig von Beseler](/postacie/hans-von-beseler) and [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk). The document is dated 26 November 1916, which is why that date appears in some works. In accordance with its last paragraph, however, it acquired legal force only on the day of publication, that is, 6 December. It was the first concrete step after the [Act of 5 November](/akt-5-listopada), in which the emperors of Germany and Austria-Hungary had announced the creation of a Kingdom of Poland.
+On 6 December 1916 the official journals of both occupation governorates, the German one in Warsaw and the Austro-Hungarian one in Lublin, published the ordinance "on the provisional Council of State in the Kingdom of Poland". It was signed "by Supreme command" of the two emperors by the governors-general [Hans Hartwig von Beseler](/postacie/hans-von-beseler) and [Karl Kuk](/postacie/karl-kuk). The document is dated 26 November 1916, which is why that date appears in some works. In accordance with its last paragraph, however, it acquired legal force only on the day of publication, that is, 6 December. It was the first concrete step after the [Act of 5 November](/akt-5-listopada), in which the emperors of Germany and Austria-Hungary had announced the creation of a Kingdom of Poland.
 
 ## Composition
 

@@ -2,10 +2,10 @@
 title: Piłsudski returns to Warsaw
 summary: On the morning of 10 November 1918 Józef Piłsudski, freed from Magdeburg, arrived in Warsaw. A dozen people met him; by evening he was talking to the regents.
 source: pilsudski-wraca-do-warszawy
-sourceHash: 19516790ee601686ea1e0e869f2a024d785f87f5
+sourceHash: 126a5c794bc97221ac8dc2c12fa96d266ca06738
 ---
 
-Early on the morning of Sunday 10 November 1918 a train from Berlin pulled into the [Vienna Station](https://pl.wikipedia.org/wiki/Dworzec_Wiedeński_w_Warszawie) in Warsaw. From it stepped [Józef Piłsudski](/postacie/jozef-pilsudski) and his chief of staff from the days of the Legions, [Kazimierz Sosnkowski](https://pl.wikipedia.org/wiki/Kazimierz_Sosnkowski), for more than a year prisoners of the Germans. According to the *Kurier Warszawski* the train arrived at 7.30, according to some studies at seven. Only a dozen or so people were waiting on the platform: the regent [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) with his adjutant, the commandant of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), Colonel [Adam Koc](https://pl.wikipedia.org/wiki/Adam_Koc), a few POW officers and the journalist Wacław Czarski, who described the welcome in the press. By evening all Warsaw knew of the Commandant's arrival.
+Early on the morning of Sunday 10 November 1918 a train from Berlin pulled into the [Vienna Station](https://pl.wikipedia.org/wiki/Dworzec_Wiedeński_w_Warszawie) in Warsaw. From it stepped [Józef Piłsudski](/postacie/jozef-pilsudski) and his chief of staff from the days of the Legions, [Kazimierz Sosnkowski](/postacie/kazimierz-sosnkowski), for more than a year prisoners of the Germans. According to the *Kurier Warszawski* the train arrived at 7.30, according to some studies at seven. Only a dozen or so people were waiting on the platform: the regent [Zdzisław Lubomirski](/postacie/zdzislaw-lubomirski) with his adjutant, the commandant of the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), Colonel [Adam Koc](https://pl.wikipedia.org/wiki/Adam_Koc), a few POW officers and the journalist Wacław Czarski, who described the welcome in the press. By evening all Warsaw knew of the Commandant's arrival.
 
 ## Free
 
@@ -23,7 +23,7 @@ That day, or according to some accounts the next, socialists of the PPS wanted t
 
 ## First talks
 
-At 4.30 p.m. in the archbishop's palace (the [Borch Palace](https://pl.wikipedia.org/wiki/Pałac_Borchów_w_Warszawie)) Piłsudski attended a meeting of the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna). The regents, Archbishop [Aleksander Kakowski](/postacie/aleksander-kakowski), Lubomirski and [Józef Ostrowski](https://pl.wikipedia.org/wiki/Józef_Ostrowski_(regent)), knew that after Germany's collapse they could not hold power on their own. The Commandant then met the presidium of the government and established telegraphic contact with the [Lublin government](/rzad-lubelski), which did not recognise the regents but regarded Piłsudski as its own.
+At 4.30 p.m. in the archbishop's palace (the [Borch Palace](https://pl.wikipedia.org/wiki/Pałac_Borchów_w_Warszawie)) Piłsudski attended a meeting of the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna). The regents, Archbishop [Aleksander Kakowski](/postacie/aleksander-kakowski), Lubomirski and [Józef Ostrowski](/postacie/jozef-ostrowski), knew that after Germany's collapse they could not hold power on their own. The Commandant then met the presidium of the government and established telegraphic contact with the [Lublin government](/rzad-lubelski), which did not recognise the regents but regarded Piłsudski as its own.
 
 The most urgent matter, however, was the German garrison. Some 30,000 German soldiers were stationed in Warsaw, and in the whole German Government General, by Polish estimates, between 60,000 and 80,000. As everywhere in Germany, the soldiers here had elected a soldiers' council (Soldatenrat), which constituted itself on the evening of 10 November in the former viceroy's palace. They wanted only to go home. Still on 10 November, or according to some studies on the morning of 11 November, Piłsudski met its representatives. He promised them a safe return home if they handed over their weapons and offered no resistance.
 

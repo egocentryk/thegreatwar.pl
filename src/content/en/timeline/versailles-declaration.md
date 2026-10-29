@@ -2,7 +2,7 @@
 title: Versailles declaration
 summary: On 3 June 1918 at Versailles the French, British and Italian prime ministers made a united, independent Poland with access to the sea a condition of peace.
 source: deklaracja-wersalska
-sourceHash: c9d12fad5ec49d001ac77c91ade775941f63a2d5
+sourceHash: 42152205d2d34d038578ddae069d063de0994206
 brief:
   - "On 3 June 1918 at Versailles the prime ministers Clemenceau, Lloyd George and Orlando declared that a united and independent Polish state with free access to the sea was one of the conditions of a just peace."
   - "The declaration was drawn up on the margins of the Supreme War Council's session in days of crisis, with the Germans on the Marne. The United States, formally only an \"associated power\", did not sign it."
@@ -39,7 +39,7 @@ The caution was largely the work of Italy. As late as mid-May the Foreign Minist
 
 ## Reactions
 
-In the occupied Kingdom of Poland the press, subject to wartime censorship, played down the significance of the declaration. According to Polish studies, the German side replied that the Central Powers would themselves decide Poland's fate in agreement with its lawful representatives, and the government of [Jan Kanty Steczkowski](https://pl.wikipedia.org/wiki/Jan_Kanty_Steczkowski), at the demand of Governor-General [Hans von Beseler](/postacie/hans-von-beseler), declared in mid-June that the Versailles resolution would not change its co-operation with the Central Powers. For the Polish National Committee, by contrast, the declaration was proof that linking the Polish cause with Entente policy bore fruit. In September the Committee obtained political authority over the Polish army in France, and in October Britain and Italy recognised it as an autonomous, allied and co-belligerent army.
+In the occupied Kingdom of Poland the press, subject to wartime censorship, played down the significance of the declaration. According to Polish studies, the German side replied that the Central Powers would themselves decide Poland's fate in agreement with its lawful representatives, and the government of [Jan Kanty Steczkowski](/postacie/jan-kanty-steczkowski), at the demand of Governor-General [Hans von Beseler](/postacie/hans-von-beseler), declared in mid-June that the Versailles resolution would not change its co-operation with the Central Powers. For the Polish National Committee, by contrast, the declaration was proof that linking the Polish cause with Entente policy bore fruit. In September the Committee obtained political authority over the Polish army in France, and in October Britain and Italy recognised it as an autonomous, allied and co-belligerent army.
 
 ## Significance
 

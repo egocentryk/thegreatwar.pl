@@ -47,7 +47,7 @@ Szacunki są rozbieżne, bo obie strony przez cały czas ściągały posiłki. W
 
 Straty obu stron trudno ustalić. Rosjanie ogłosili, że w czasie kontrnatarcia wzięli do niewoli od kilku do kilkunastu tysięcy Niemców. Liczba 14 tysięcy jeńców, podawana w rosyjskich komunikatach, obejmuje zapewne całą operację, łącznie z walkami na przedpolu. Niemcy z kolei liczyli rosyjskich jeńców wziętych w Przasnyszu i wcześniej na około 10–12 tysięcy. Szacunki strat ogółem bardzo się różnią: według polskiej Wikipedii Rosjanie stracili około 67 tysięcy, a Niemcy około 38 tysięcy ludzi, natomiast rosyjski historyk Aleksiej Olejnikow podaje około 40 tysięcy strat rosyjskich i około 60 tysięcy niemieckich. Obie liczby odnoszą się do dłuższego okresu niż sześć dni walki o miasto.
 
-Ciężko ucierpiał sam Przasnysz i okoliczne wsie. Według polskich opracowań zniszczeniu uległa większość zabudowy miasta. Wśród rosyjskich oficerów walczących pod Przasnyszem był pułkownik [Józef Dowbor-Muśnicki](https://pl.wikipedia.org/wiki/Józef_Dowbor-Muśnicki), późniejszy dowódca I Korpusu Polskiego w Rosji i powstania wielkopolskiego, który dowodził tu 14 Syberyjskim Pułkiem Strzelców i został ciężko ranny.
+Ciężko ucierpiał sam Przasnysz i okoliczne wsie. Według polskich opracowań zniszczeniu uległa większość zabudowy miasta. Wśród rosyjskich oficerów walczących pod Przasnyszem był pułkownik [Józef Dowbor-Muśnicki](/postacie/jozef-dowbor-musnicki), późniejszy dowódca I Korpusu Polskiego w Rosji i powstania wielkopolskiego, który dowodził tu 14 Syberyjskim Pułkiem Strzelców i został ciężko ranny.
 
 ## Znaczenie
 

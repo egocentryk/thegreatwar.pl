@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-6 grudnia 1916 roku dzienniki rozporządzeń obu okupacyjnych gubernatorstw, niemieckiego w Warszawie i austro-węgierskiego w Lublinie, ogłosiły rozporządzenie „o tymczasowej Radzie Stanu w Królestwie Polskiem”. Podpisali je „na rozkaz Najwyższy” obu cesarzy generał-gubernatorzy [Hans Hartwig von Beseler](/postacie/hans-von-beseler) i [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk). Dokument nosi datę 26 listopada 1916 roku i stąd w części opracowań pojawia się ta data. Moc prawną zyskał jednak, zgodnie z ostatnim paragrafem, dopiero w dniu ogłoszenia, czyli 6 grudnia. Był to pierwszy konkretny krok po [akcie 5 listopada](/akt-5-listopada), w którym cesarze Niemiec i Austro-Węgier zapowiedzieli utworzenie Królestwa Polskiego.
+6 grudnia 1916 roku dzienniki rozporządzeń obu okupacyjnych gubernatorstw, niemieckiego w Warszawie i austro-węgierskiego w Lublinie, ogłosiły rozporządzenie „o tymczasowej Radzie Stanu w Królestwie Polskiem”. Podpisali je „na rozkaz Najwyższy” obu cesarzy generał-gubernatorzy [Hans Hartwig von Beseler](/postacie/hans-von-beseler) i [Karl Kuk](/postacie/karl-kuk). Dokument nosi datę 26 listopada 1916 roku i stąd w części opracowań pojawia się ta data. Moc prawną zyskał jednak, zgodnie z ostatnim paragrafem, dopiero w dniu ogłoszenia, czyli 6 grudnia. Był to pierwszy konkretny krok po [akcie 5 listopada](/akt-5-listopada), w którym cesarze Niemiec i Austro-Węgier zapowiedzieli utworzenie Królestwa Polskiego.
 
 ## Skład
 

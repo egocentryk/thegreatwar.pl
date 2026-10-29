@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Kuryłówka in Podolia (Russian Empire)
 deathPlace: New York
 source: ignacy-jan-paderewski
-sourceHash: ef36eea7701dbcff07ae33682f304e31fc0499e9
+sourceHash: 427180d2985ca31690dfe0cdd464e5ca57fb04d8
 ---
 
 In 1914 Ignacy Jan Paderewski was the most famous Pole in the world, but he was no politician. He was known as a pianist who filled the largest concert halls of Europe and America. The war made a diplomat of him. First he raised money for the victims of the war in the Polish lands; then he used his fame and his access to the most important people in Washington to persuade President [Woodrow Wilson](/postacie/woodrow-wilson) and his adviser [Edward House](/postacie/edward-house) that the United States should support an independent Poland. As the representative in America of the [Polish National Committee](/powstanie-komitetu-narodowego-polskiego) he won the Polish diaspora over to it and helped recruit volunteers for the Polish army in France. In December 1918 he came home as a man trusted by the Allies and brought about a compromise between [Józef Piłsudski](/postacie/jozef-pilsudski) and [Roman Dmowski](/postacie/roman-dmowski). In 1919, as prime minister, he signed the Treaty of Versailles.
@@ -19,7 +19,7 @@ Even before the war Paderewski showed that art could serve politics. He paid for
 
 ## 1914–1916: relief for Poland
 
-The outbreak of war found him in Switzerland. The first task he set himself was relief for the population of the Polish lands, devastated by the passing fronts. In January 1915, together with [Henryk Sienkiewicz](https://pl.wikipedia.org/wiki/Henryk_Sienkiewicz), he founded in Vevey the [General Committee for the Relief of War Victims in Poland](https://pl.wikipedia.org/wiki/Szwajcarski_Komitet_Generalny_Pomocy_Ofiarom_Wojny_w_Polsce), of which he became vice-president. In London a fund was set up for the relief of war victims in Poland, and its concert in July 1915 was graced by the premiere of *Polonia* by [Edward Elgar](https://pl.wikipedia.org/wiki/Edward_Elgar), who dedicated the work to Paderewski.
+The outbreak of war found him in Switzerland. The first task he set himself was relief for the population of the Polish lands, devastated by the passing fronts. In January 1915, together with [Henryk Sienkiewicz](/postacie/henryk-sienkiewicz), he founded in Vevey the [General Committee for the Relief of War Victims in Poland](https://pl.wikipedia.org/wiki/Szwajcarski_Komitet_Generalny_Pomocy_Ofiarom_Wojny_w_Polsce), of which he became vice-president. In London a fund was set up for the relief of war victims in Poland, and its concert in July 1915 was graced by the premiere of *Polonia* by [Edward Elgar](https://pl.wikipedia.org/wiki/Edward_Elgar), who dedicated the work to Paderewski.
 
 On 15 April 1915 Paderewski arrived by sea in New York. For the next two years he toured the United States, speaking about Poland before every concert. He raised money, organised committees and won over the [Polish Americans](https://pl.wikipedia.org/wiki/Polonia_w_Stanach_Zjednoczonych), hitherto divided into feuding organisations. On his initiative an American committee of the fund for the relief of war victims in Poland was set up. Food relief, however, proved hard to deliver: the British did not want to weaken the blockade, and the Germans would not accept the Allies' conditions and in the summer of 1916 [rejected the supply plan](/niemcy-odrzucaja-pomoc-zywnosciowa-dla-polski).
 

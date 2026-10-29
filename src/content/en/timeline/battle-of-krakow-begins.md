@@ -2,7 +2,7 @@
 title: Battle of Kraków begins
 summary: In mid-November 1914 the Russians neared the fortress of Kraków. On 16 November the Austro-Hungarian Fourth Army sallied out and hit their Ninth Army's flank.
 source: poczatek-bitwy-pod-krakowem
-sourceHash: 0f241fa4e0bbbaca57b266113ef5becfe3f95e60
+sourceHash: aeac076d9a098dd045940a66d5374d44e07c74b3
 ---
 
 A British chronology of the war gives 15 November 1914 as the day the Battle of Kraków began. The Russian armies were by then already on the approaches to the [fortress of Kraków](https://pl.wikipedia.org/wiki/Twierdza_Kraków), and the Austro-Hungarian command was completing preparations for a counter-attack. The attack itself began at dawn the next day, which is why most accounts, including the Polish Wikipedia, date the beginning of the [battle](https://pl.wikipedia.org/wiki/Pierwsza_bitwa_o_Kraków) to 16 November.
@@ -11,7 +11,7 @@ A British chronology of the war gives 15 November 1914 as the day the Battle of 
 
 After the failed offensive on the Vistula, the Austro-Hungarian armies fell back at the beginning of November as far as Kraków. They were followed by the Russian Fourth and Ninth Armies, advancing north of the Vistula towards Silesia, and by the Third Army of General [Radko Dimitriev](/postacie/radko-dimitriew), which was moving west from Tarnów on the southern side of the river. On 9 November the first Cossack patrol appeared before the forts. Around 14 November General Platon Lechitsky's Ninth Army reached the line Wolbrom – Skała – Słomniki – Proszowice, between a dozen and several dozen kilometres from the city.
 
-Kraków prepared for a siege. At the beginning of November the fortress commandant, General [Karl Kuk](https://pl.wikipedia.org/wiki/Karl_Kuk), ordered the compulsory evacuation of inhabitants who did not have food supplies for three months. Roughly a third of the population left the city. On 17 November the city gates were closed, and no one was allowed to enter Kraków even for a short stay.
+Kraków prepared for a siege. At the beginning of November the fortress commandant, General [Karl Kuk](/postacie/karl-kuk), ordered the compulsory evacuation of inhabitants who did not have food supplies for three months. Roughly a third of the population left the city. On 17 November the city gates were closed, and no one was allowed to enter Kraków even for a short stay.
 
 ## The blow from the fortress
 

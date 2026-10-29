@@ -2,7 +2,7 @@
 title: Benedict XV elected pope
 summary: On 3 September 1914 the conclave elected Cardinal Giacomo della Chiesa pope. As Benedict XV he called for peace and helped victims throughout the war.
 source: benedykt-xv-wybrany-papiezem
-sourceHash: 967b207c25b950bd56adb1812fd2d06b6893c9b9
+sourceHash: b69dbf3e24937727141c41d8001fff947b78a512
 ---
 
 On 3 September 1914 the cardinals gathered in the Sistine Chapel elected a new pope. He was the Archbishop of Bologna, Cardinal Giacomo della Chiesa, who took the name [Benedict XV](https://pl.wikipedia.org/wiki/Benedykt_XV). He succeeded [Pius X](/smierc-papieza-piusa-x), who had died two weeks earlier. The Catholic Church received a new head at a moment when the Catholics of France, Belgium, Germany and Austria-Hungary were fighting one another at the front.
@@ -27,7 +27,7 @@ His most important initiative was a peace note dated 1 August 1917 and addressed
 
 ## Benedict XV and Poland
 
-Poles have a special reason to remember Benedict XV. In April 1915, on his instructions, Cardinal Gasparri approached the Bishop of Kraków, [Adam Stefan Sapieha](https://pl.wikipedia.org/wiki/Adam_Stefan_Sapieha), with a proposal that the Polish bishops appeal to the Catholics of the world for help for the Polish lands devastated by the war. The pope ordered a collection in all the Catholic churches of the world. It took place on 21 November 1915 and was one of the largest relief efforts for Poland during the war. It was supported, among others, by [Henryk Sienkiewicz](https://pl.wikipedia.org/wiki/Henryk_Sienkiewicz), who from Switzerland directed the committee for aid to the victims of the war in Poland.
+Poles have a special reason to remember Benedict XV. In April 1915, on his instructions, Cardinal Gasparri approached the Bishop of Kraków, [Adam Stefan Sapieha](https://pl.wikipedia.org/wiki/Adam_Stefan_Sapieha), with a proposal that the Polish bishops appeal to the Catholics of the world for help for the Polish lands devastated by the war. The pope ordered a collection in all the Catholic churches of the world. It took place on 21 November 1915 and was one of the largest relief efforts for Poland during the war. It was supported, among others, by [Henryk Sienkiewicz](/postacie/henryk-sienkiewicz), who from Switzerland directed the committee for aid to the victims of the war in Poland.
 
 In his peace note of 1917 the pope listed among the questions to be settled the fate of the lands of the former Kingdom of Poland, writing that its noble historical traditions and its sufferings, especially during this war, ought to win it the sympathy of nations. In April 1918 he appointed the prefect of the Vatican Library, Father Achille Ratti, apostolic visitor to Poland. Ratti arrived in Warsaw in May 1918, and in June 1919 became the first nuncio in independent Poland. In 1922, after Benedict XV's death, he was himself elected pope as [Pius XI](https://pl.wikipedia.org/wiki/Pius_XI).
 

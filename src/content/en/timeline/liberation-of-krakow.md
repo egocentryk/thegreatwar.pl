@@ -2,7 +2,7 @@
 title: Liberation of Kraków
 summary: On 31 October 1918 Polish soldiers of the Austro-Hungarian army disarmed the Kraków garrison without a shot. The Austrian command handed power to the Poles.
 source: wyzwolenie-krakowa
-sourceHash: cae62c3564f4a9336cdaf4626f55c3ef5d494567
+sourceHash: de29ed9c812058844c715063870ca91199021be2
 brief:
   - "On 31 October 1918 Polish soldiers of the Austro-Hungarian army and conspirators disarmed the barracks in Podgórze without a single shot and by midday had taken control of the centre of Kraków."
   - "On 28 October Polish deputies chaired by Wincenty Witos set up the Polish Liquidation Commission in Kraków, but the declaration remained on paper and Colonel Bolesław Roja held back the order to rise."
@@ -19,7 +19,7 @@ The monarchy was falling apart before everyone's eyes. [Emperor Karl's manifesto
 
 On 28 October more than sixty Polish deputies and politicians gathered in the Kraków city hall. The peasant leader [Wincenty Witos](/postacie/wincenty-witos) was elected chairman, and his deputies were [Aleksander Skarbek](https://pl.wikipedia.org/wiki/Aleksander_Skarbek), the mayor of Tarnów [Tadeusz Tertil](https://pl.wikipedia.org/wiki/Tadeusz_Tertil), the socialist [Ignacy Daszyński](/postacie/ignacy-daszynski) and Father [Józef Londzin](https://pl.wikipedia.org/wiki/Józef_Londzin) from Cieszyn Silesia. The assembly declared that the Polish lands of the former Austrian partition belonged to the Polish state and set up the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna) for Galicia and Cieszyn Silesia. It was to exercise provisional authority and hand it over to a future all-Polish government. The debates were stormy. The sharpest disputes concerned the attitude to the [Regency Council](/deklaracja-rady-regencyjnej) in Warsaw, to which the left and the peasant party did not want to submit, and whether the Galician authorities should sit in Kraków or in Lwów. For this reason not even the membership of the commission was settled, and its duties were taken over by the presidium of the assembly.
 
-For the time being the declaration of 28 October remained on paper. The Austrian authorities did not react, and according to Polish studies there were close to 12,000 soldiers of the Austro-Hungarian army of various nationalities in the city. The leader of the Polish military conspiracy in Kraków, Colonel [Bolesław Roja](https://pl.wikipedia.org/wiki/Bolesław_Roja), a former commander of a Legions regiment, held back the order to rise, waiting for political decisions.
+For the time being the declaration of 28 October remained on paper. The Austrian authorities did not react, and according to Polish studies there were close to 12,000 soldiers of the Austro-Hungarian army of various nationalities in the city. The leader of the Polish military conspiracy in Kraków, Colonel [Bolesław Roja](/postacie/boleslaw-roja), a former commander of a Legions regiment, held back the order to rise, waiting for political decisions.
 
 ## The night at Płaszów
 

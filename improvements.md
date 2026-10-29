@@ -1596,7 +1596,70 @@ same kind of question (przyczyny, skutki, okupacja, Zagłada).
   2–3.5 million, ~1 million Poles (Chwalba, war-numbers); English guides
   use both "Lemberg" and "Lwów" — pick one.
 
----
+## 25. Polish thread: 29 Polish person pages with portraits (2026-10-29)
+
+New here (expansion-plan.md §A3, first part).
+
+- 29 person pages, PL and EN (`src/content/postacie/`, `src/content/en/people/`),
+  ~850–1,400 words each, sources opened and read (iPSB/PSB where it loaded,
+  IPN, dzieje.pl, museum and journal articles: Annales UMCS, Klio, Dzieje
+  Najnowsze, Niepodległość i Pamięć, Galicja…). Chosen by how often our
+  articles already mention them, plus a few central to the Polish story:
+  - Regency and governments: Kucharzewski, Józef Ostrowski,
+    Steczkowski, Mikułowski-Pomorski, Świeżyński, Ponikowski, Stecki,
+    Moraczewski, Studnicki, Thugutt;
+  - the military: Rydz-Śmigły, Sosnkowski, Sikorski, Zygmunt Zieliński,
+    Dowbor-Muśnicki, Szeptycki, Tadeusz Rozwadowski, Roja, and Aleksandra
+    Szczerbińska (later Piłsudska; the brief's "Szczepanowska" was wrong);
+  - Galicia, Vienna, the KNP, the Prussian partition: Bobrzyński, Biliński,
+    Juliusz Leo, Wasilewski, Seyda, Maurycy Zamoyski, Trąmpczyński,
+    Sienkiewicz; and two non-Poles central to it: Karl Kuk (Lublin) and
+    Adam Tarnowski (Austro-Hungarian ambassador in Washington).
+  Polish person pages: 9 → 36 (Kuk and Tarnowski are Austro-Hungarian; 271 people in all).
+- Portraits for all 29: the main image of the person's pl.wikipedia page,
+  all public domain on Commons (`src/data/person-photos.json`,
+  `node scripts/person-photos.mjs --write <slugs>`); six seated or
+  half-length photos framed by hand (`frame` in the JSON): Ostrowski, Leo,
+  Kuk, Biliński, Studnicki, Trąmpczyński.
+- `scripts/wiki-to-internal.py` now also converts person links (a page's
+  `wikiTitles`; no date rule) in timeline articles, battle pages, topic
+  guides and person pages, and their English files: 54 pages now link the
+  new people (Ostrowski 8, Dowbor-Muśnicki 7, Sosnkowski, Kuk, Tarnowski 5…).
+- Brief: `scripts/people/BRIEF.md`; workflow.md §2 and §4 updated (counts,
+  the link and portrait scripts).
+
+**Later:** Mikułowski-Pomorski (photo c. 1894) and Bobrzyński (an 1888
+engraving) have portraits from long before the war; look for later ones.
+
+### Writers' notes (for the review list)
+
+- `sejm-dzielnicowy-w-poznaniu`: Bolesław Krysiewicz chaired "the
+  presidium" — of the Sejm, not the NRL? Several biographies make
+  Trąmpczyński president of the NRL (8 XII 1918); the page says "some
+  biographers".
+- `postacie/ignacy-jan-paderewski`: the Vevey committee was founded in
+  Lausanne (9 I 1915) and moved to Vevey at the end of January.
+- `1915/05/panstwa-centralne-zdobywaja-jaroslaw`: "według polskich
+  opracowań" Rozwadowski commanded the 12th Division's artillery; Kułacz
+  (Klio 2022, archives): Dobner, then Riedl; Rozwadowski's post unclear
+  (the Gorlice battle page already follows Kułacz).
+- `wyzwolenie-krakowa`: Antoni Stawarz in the 93rd vs "austriacki 9 pp"
+  (Kozłowska).
+- `bitwa-pod-rarancza`: the Austrians arrested Zieliński with his staff vs
+  his own legionnaires detained him first (Przystanek Historia).
+- Kucharzewski: resignation 11 II (our article, pl.wiki) vs 12 II (Goclon);
+  cabinet papers handed over 13 XII (our article) vs 2 I 1918 (Goclon).
+- Ponikowski's provisional government: 27 II 1918 (our articles) vs 17 II
+  (Warsaw Polytechnic biography).
+- Thugutt: the January 1919 coup on the night of 4–5 I (our articles) vs
+  5–6 I (Marcinkowska).
+- Tarnowski left the USA in the first half of May 1917 (Horčička: sailed
+  8 V; en.wiki 4 V); `1917/04/austro-wegry-zrywaja-stosunki-z-usa` says
+  "na przełomie kwietnia i maja".
+- pl.wikipedia errors avoided: Karl_Kuk (Act of 5 November proclaimed in
+  Warsaw — it was Lublin), Tadeusz_Rozwadowski (Gorlice role as fact,
+  anachronisms), Stanisław_Szeptycki (Polska Siła Zbrojna command),
+  Maurycy_Zamoyski (joined the KNP in 1918 — he was a founder in 1917).
 
 ## Roadmap (checklist)
 
@@ -1674,6 +1737,8 @@ finished, tick it here and add its section above.
   East Africa) and campaign navigation on every battle page (§23)
 - [x] Topic guides ("Tematy"): causes, results, the Polish question, new
   weapons, PL/EN, with "Temat" boxes on 125 pages (§24)
+- [x] Polish thread, part 1: 29 Polish person pages with portraits, PL/EN;
+  54 pages now link them (§25)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

@@ -147,6 +147,11 @@ The plan:
   wartime fate in the Polish lands is missing: deportations of 1915, the
   occupation, the Lwów pogrom of XI 1918.
 - Effort: about 1.5–2M tokens as one "sprawa polska" batch.
+- **Done 2026-10-29 (part 1):** 29 Polish person pages with portraits, PL
+  and EN; Polish person pages 9 → 36 (improvements.md §25). Next (part 2):
+  the timeline articles — POW, the Prussian partition (Korfanty's Reichstag
+  speech, the NRL), Cieszyn, Jews and Lithuanians in the Polish lands, the
+  Ochotnicza Legia Kobiet, the women's vote of 28 XI 1918.
 
 ### A4. Society, home front and culture
 

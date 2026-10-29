@@ -9,7 +9,7 @@ sides:
     commanders: [Nikolai Ruzsky, Aleksandr Litvinov, Pavel Plehve]
 result: Russian victory. The Germans took Przasnysz on 24 February, but lost it on 27 February to a Russian counter-attack and fell back towards the East Prussian border.
 source: pierwsza-bitwa-pod-przasnyszem
-sourceHash: 2349c90ebd3116d94e64636e6d4a499275214294
+sourceHash: 0cd67770236caacea142c15169149c687a5aa62a
 ---
 
 The First Battle of Przasnysz was the most important episode of the fighting that took place in February 1915 in northern Masovia, south of the border of East Prussia. While the [Winter Battle](/bitwy/zimowa-bitwa-na-mazurach) was under way in Masuria, the German army group of General [Max von Gallwitz](/postacie/max-von-gallwitz) struck at [Przasnysz](https://pl.wikipedia.org/wiki/Przasnysz), an important junction of roads leading to the [Narew](https://pl.wikipedia.org/wiki/Narew). The Germans encircled the town and took it on 24 February, capturing thousands of prisoners. Within a few days, however, the Russians brought up fresh Siberian corps, went over to the counter-attack and retook Przasnysz on 27 February. According to Polish works, the Entente press called this victory "the Marne of the Eastern Front".
@@ -42,7 +42,7 @@ Estimates vary, because both sides were bringing up reinforcements the whole tim
 
 The losses of both sides are hard to establish. The Russians announced that during the counter-attack they had taken from several thousand to over ten thousand Germans prisoner. The figure of 14,000 prisoners given in Russian communiqués probably covers the whole operation, including the fighting in the approaches. The Germans, for their part, counted the Russian prisoners taken in Przasnysz and earlier at about 10,000–12,000. Estimates of total losses vary widely: according to the Polish Wikipedia the Russians lost about 67,000 and the Germans about 38,000 men, whereas the Russian historian Aleksei Oleinikov gives about 40,000 Russian and about 60,000 German losses. Both figures refer to a longer period than the six days of fighting for the town.
 
-Przasnysz itself and the surrounding villages suffered badly. According to Polish works, most of the town's buildings were destroyed. Among the Russian officers fighting at Przasnysz was Colonel [Józef Dowbor-Muśnicki](https://pl.wikipedia.org/wiki/Józef_Dowbor-Muśnicki), later commander of the I Polish Corps in Russia and of the Greater Poland Uprising, who commanded the 14th Siberian Rifle Regiment here and was badly wounded.
+Przasnysz itself and the surrounding villages suffered badly. According to Polish works, most of the town's buildings were destroyed. Among the Russian officers fighting at Przasnysz was Colonel [Józef Dowbor-Muśnicki](/postacie/jozef-dowbor-musnicki), later commander of the I Polish Corps in Russia and of the Greater Poland Uprising, who commanded the 14th Siberian Rifle Regiment here and was badly wounded.
 
 ## Significance
 
