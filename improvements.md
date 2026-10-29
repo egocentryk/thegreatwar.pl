@@ -1798,6 +1798,21 @@ one). Extend it before guides cross-link.
   Geographic); who demanded the vote from Piłsudski: Moraczewska (our
   article) or Budzińska-Tylicka (National Geographic) — the guide names both.
 
+## 29. Homepage topics: one featured guide and a list (2026-10-29)
+
+Owner's choice of three proposals. The homepage section repeated the full
+/tematy list (12 entries with summaries and sections, about two screens).
+
+- `HomeTopics.astro` (homepage only): one guide in a panel (number and
+  title, the question, the opening answer, "7 rozdziałów · 24 daty · ok.
+  13 min", "Czytaj →") beside a numbered one-line list of the other
+  questions and "Wszystkie tematy →"; about a third of the old height.
+- Every guide's panel is in the HTML; a script features a random one on
+  each visit and hides it from the list (without JavaScript: the first).
+- `TopicCards.astro` is now only the /tematy list (its homepage mode removed).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked

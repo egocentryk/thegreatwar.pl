@@ -1,0 +1,114 @@
+---
+// Homepage teaser of the topic guides (utils/topics.ts): one featured guide
+// in a panel (its question, the opening answer, sections, dates, reading
+// time) beside a numbered list of the other questions. Every guide's panel
+// is in the HTML; a script picks a different one on each visit (without
+// JavaScript the first is shown) and hides it from the list.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { plural, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { localTopics, readingList } from "@/utils/topics"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const topics = await Promise.all(
+  (await localTopics(lang)).map(async (topic, index) => ({
+    ...topic,
+    number: String(index + 1).padStart(2, "0"),
+    dates: (await readingList(topic, lang)).length,
+  })),
+)
+
+const t = {
+  pl: {
+    eyebrow: "Tematy",
+    lead: "Najważniejsze pytania o Wielką Wojnę.",
+    topic: "Temat",
+    read: "Czytaj →",
+    all: "Wszystkie tematy →",
+    minutes: (n: number) => `ok. ${n} min`,
+  },
+  en: {
+    eyebrow: "Topics",
+    lead: "The big questions about the Great War.",
+    topic: "Topic",
+    read: "Read →",
+    all: "All topics →",
+    minutes: (n: number) => `about ${n} min`,
+  },
+}[lang]
+const chapters = (n: number) => `${n} ${plural(lang, n, ["rozdział", "rozdziały", "rozdziałów"], ["section", "sections"])}`
+const dates = (n: number) => `${n} ${plural(lang, n, ["data", "daty", "dat"], ["date", "dates"])}`
+---
+
+{
+  topics.length > 0 && (
+    <section id="tematy" data-home-topics>
+      <SectionHeading eyebrow={t.eyebrow} count={topics.length} />
+      <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">{t.lead}</p>
+
+      <div class="mt-8 grid gap-x-12 gap-y-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
+        <div>
+          {topics.map((topic, index) => (
+            <a
+              href={topic.href}
+              data-topic-panel={index}
+              hidden={index !== 0}
+              class="group border-line bg-surface hover:border-signal flex h-full flex-col rounded-sm border p-6 transition-colors sm:p-8"
+            >
+              <span class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">
+                {t.topic} <span class="text-signal">{topic.number}</span> · {topic.title}
+              </span>
+              <span class="font-display text-ink group-hover:text-signal mt-4 block text-3xl leading-tight text-balance transition-colors sm:text-4xl">
+                {topic.question}
+              </span>
+              <span class="text-ink-soft mt-5 block leading-7">{topic.summary}</span>
+              <span class="text-ink-soft mt-auto flex flex-wrap items-center gap-x-3 gap-y-1 pt-6 font-mono text-[11px]">
+                <span>{chapters(topic.sections.length)}</span>
+                <span aria-hidden="true">·</span>
+                <span>{dates(topic.dates)}</span>
+                <span aria-hidden="true">·</span>
+                <span>{t.minutes(Math.max(5, Math.round(topic.minutes)))}</span>
+                <span class="text-signal ml-auto">{t.read}</span>
+              </span>
+            </a>
+          ))}
+        </div>
+
+        <div class="flex flex-col">
+          <ol class="border-line border-t">
+            {topics.map((topic, index) => (
+              <li class="border-line border-b" data-topic-item={index} hidden={index === 0}>
+                <a href={topic.href} class="group grid grid-cols-[2rem_minmax(0,1fr)] items-baseline gap-x-3 py-2.5">
+                  <span class="text-signal font-mono text-xs">{topic.number}</span>
+                  <span class="text-ink group-hover:text-signal leading-snug transition-colors">{topic.question}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+          <a href={paths(lang).topics} class="text-ink-soft hover:text-signal mt-4 self-end font-mono text-xs transition-colors">
+            {t.all}
+          </a>
+        </div>
+      </div>
+    </section>
+  )
+}
+
+<script>
+  // A different featured guide on each visit; it leaves the list.
+  function pick() {
+    const root = document.querySelector<HTMLElement>("[data-home-topics]")
+    if (!root) return
+    const panels = root.querySelectorAll<HTMLElement>("[data-topic-panel]")
+    const items = root.querySelectorAll<HTMLElement>("[data-topic-item]")
+    const chosen = Math.floor(Math.random() * panels.length)
+    panels.forEach((panel, i) => (panel.hidden = i !== chosen))
+    items.forEach((item, i) => (item.hidden = i === chosen))
+  }
+  pick()
+  document.addEventListener("astro:page-load", pick)
+</script>

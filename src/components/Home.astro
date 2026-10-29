@@ -9,7 +9,7 @@ import RandomEvents from "@/components/RandomEvents.astro"
 import RandomPeople from "@/components/RandomPeople.astro"
 import ReadingPath from "@/components/ReadingPath.astro"
 import SeriesCards from "@/components/SeriesCards.astro"
-import TopicCards from "@/components/TopicCards.astro"
+import HomeTopics from "@/components/HomeTopics.astro"
 import Search from "@/components/Search.astro"
 import SupportBand from "@/components/SupportBand.astro"
 import SupportCard from "@/components/SupportCard.astro"
@@ -164,7 +164,7 @@ const t = {
 
   {READING_PATH.length > 0 && <ReadingPath lang={lang} />}
 
-  <TopicCards lang={lang} section />
+  <HomeTopics lang={lang} />
 
   {Object.keys(FRONT_NOTES).length > 0 && <Fronts lang={lang} />}
 
