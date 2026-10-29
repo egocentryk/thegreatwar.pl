@@ -1,0 +1,93 @@
+---
+// Cards linking every themed series (data/series.ts). On the homepage with a
+// section heading, on /serie as the page's list.
+import SectionHeading from "@/components/SectionHeading.astro"
+import { plural, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { allSeries } from "@/utils/series"
+
+interface Props {
+  lang?: Lang
+  // Homepage: heading, lead and a link to /serie.
+  section?: boolean
+  // Homepage side column: a compact list, no own container.
+  compact?: boolean
+}
+
+const { lang = "pl", section = false, compact = false } = Astro.props
+const series = await allSeries(lang)
+
+const t = {
+  pl: {
+    eyebrow: "Serie",
+    lead: "Wybrane wątki wojny, tekst po tekście.",
+    all: "Wszystkie serie →",
+    reading: (min: number) => `ok. ${min} min`,
+  },
+  en: {
+    eyebrow: "Series",
+    lead: "Threads of the war, one article after another.",
+    all: "All series →",
+    reading: (min: number) => `about ${min} min`,
+  },
+}[lang]
+const texts = (n: number) => `${n} ${plural(lang, n, ["tekst", "teksty", "tekstów"], ["article", "articles"])}`
+---
+
+<section class:list={[!compact && "mx-auto max-w-6xl px-6", section && !compact ? "pb-20" : ""]}>
+  {
+    section && (
+      <>
+        <SectionHeading eyebrow={t.eyebrow} count={series.length} />
+        <div class="flex flex-wrap items-end justify-between gap-4">
+          <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">{t.lead}</p>
+          <a href={paths(lang).series} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">
+            {t.all}
+          </a>
+        </div>
+      </>
+    )
+  }
+
+  {
+    compact ? (
+      <ul class="border-line mt-8 border-t">
+        {series.map((item) => (
+          <li class="border-line border-b">
+            <a href={item.href} class="group block py-3">
+              <span class="text-ink-soft block font-mono text-[10px] tracking-[0.15em] uppercase">
+                {item.years} · {texts(item.steps.length + (item.overview ? 1 : 0))}
+              </span>
+              <span class="text-ink group-hover:text-signal mt-0.5 block leading-snug transition-colors">{item.title} →</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+  <ul class:list={["grid grid-cols-1 gap-3 sm:grid-cols-2", section && "mt-8"]}>
+      {
+        series.map((item) => (
+          <li class="min-w-0">
+            <a
+              href={item.href}
+              class="group border-line bg-surface hover:border-signal flex h-full flex-col rounded-sm border p-5 transition-all hover:-translate-y-0.5"
+            >
+              <span class="text-ink-soft flex flex-wrap gap-x-2 font-mono text-[10px] tracking-[0.15em] uppercase">
+                <span>{item.years}</span>
+                <span aria-hidden="true">·</span>
+                <span>{texts(item.steps.length + (item.overview ? 1 : 0))}</span>
+                <span aria-hidden="true">·</span>
+                <span>{t.reading(Math.round(item.minutes / 5) * 5)}</span>
+              </span>
+              <span class="font-display text-ink group-hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+                {item.title}
+              </span>
+              <span class="text-ink-soft mt-2 block text-sm leading-6">{item.lead}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+    )
+  }
+</section>

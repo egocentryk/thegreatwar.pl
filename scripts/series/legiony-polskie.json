@@ -1,0 +1,133 @@
+{
+  "slug": "legiony-polskie",
+  "slugEn": "polish-legions",
+  "title": "Legiony Polskie",
+  "titleEn": "The Polish Legions",
+  "lead": "Od Kadrówki przez Łowczówek i Kostiuchnówkę po Rarańczę i Kaniów.",
+  "leadEn": "From the Cadre Company through Łowczówek and Kostiuchnówka to Rarańcza and Kaniów.",
+  "intro": [
+    {"text": "6 sierpnia 1914 roku z Krakowa wyruszyła Pierwsza Kompania Kadrowa Józefa Piłsudskiego, a kilka tygodni później powstały Legiony Polskie, walczące u boku armii austro-węgierskiej.",
+     "quotes": [
+       {"file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md", "quote": "Tego samego dnia, 6 sierpnia 1914 roku, Pierwsza Kompania Kadrowa utworzona przez Józefa Piłsudskiego wyruszyła z Krakowa i przekroczyła granicę Królestwa Polskiego."},
+       {"file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md", "quote": "Kilka tygodni później na bazie oddziałów strzeleckich powstały Legiony Polskie, walczące u boku armii austro-węgierskiej."}
+     ]},
+    {"text": "Legioniści bili się z Rosjanami w Królestwie, w Karpatach i na Wołyniu, a pod Łowczówkiem pokazali, że stali się pełnowartościowym wojskiem.",
+     "quotes": [
+       {"file": "src/content/timeline/1914/10/austriacy-odbijaja-syhot.md", "quote": "Była to pierwsza walka Legionów w Karpatach Wschodnich."},
+       {"file": "src/content/battles/1914/bitwa-pod-lowczowkiem.md", "quote": "Bój pokazał, że ochotnicze oddziały Piłsudskiego stały się pełnowartościowym wojskiem."},
+       {"file": "src/content/timeline/1916/11/akt-5-listopada.md", "quote": "W lipcu, po walkach na Wołyniu, zażądał zwolnienia ze służby na znak protestu przeciw traktowaniu Legionów"}
+     ]},
+    {"text": "Niemcy chcieli zrobić z nich zaczątek armii polskiej u swego boku, ale w lipcu 1917 roku legioniści I i III Brygady odmówili przysięgi, a Piłsudski trafił do Magdeburga.",
+     "quotes": [
+       {"file": "src/content/timeline/1917/07/aresztowanie-pilsudskiego.md", "quote": "Plan generał-gubernatora Hansa Hartwiga von Beselera, który chciał zbudować u boku Niemiec liczną armię polską, legł w gruzach."},
+       {"file": "src/content/timeline/1917/07/kryzys-przysiegowy.md", "quote": "9 lipca 1917 legioniści I i III Brygady na wezwanie Piłsudskiego odmówili przysięgi na braterstwo broni z Niemcami i Austro-Węgrami."},
+       {"file": "src/content/timeline/1917/07/aresztowanie-pilsudskiego.md", "quote": "Komendant trafił na ponad rok do Magdeburga."}
+     ]},
+    {"text": "Seria prowadzi od wymarszu Kadrówki przez Krzywopłoty, Łowczówek i Kostiuchnówkę, kryzys przysięgowy i aresztowanie Komendanta po przebicie się II Brygady pod Rarańczą i ostatni bój legionistów Hallera pod Kaniowem.",
+     "quotes": [
+       {"file": "src/content/timeline/1918/02/bitwa-pod-rarancza.md", "quote": "W nocy z 15 na 16 lutego 1918 II Brygada Legionów pułkownika Hallera przebiła się pod Rarańczą przez front austriacki"},
+       {"file": "src/content/battles/1918/bitwa-pod-kaniowem.md", "quote": "Bitwa pod Kaniowem była ostatnią bitwą II Korpusu Polskiego, polskiej formacji powstałej z żołnierzy dawnej armii rosyjskiej i z legionistów, którzy w lutym 1918 roku przebili się pod Rarańczą przez front austriacki."}
+     ]}
+  ],
+  "introEn": [
+    {"text": "On 6 August 1914 Józef Piłsudski's First Cadre Company set out from Kraków, and a few weeks later the Polish Legions were formed to fight alongside the Austro-Hungarian army.",
+     "quotes": [
+       {"file": "src/content/en/timeline/austria-hungary-declares-war-on-russia.md", "quote": "On the same day, 6 August 1914, the First Cadre Company formed by Józef Piłsudski set out from Kraków and crossed the border of the Kingdom of Poland."},
+       {"file": "src/content/en/timeline/austria-hungary-declares-war-on-russia.md", "quote": "A few weeks later the Polish Legions, fighting alongside the Austro-Hungarian army, were formed on the basis of the Riflemen's units."}
+     ]},
+    {"text": "The legionaries fought the Russians in the Kingdom, in the Carpathians and in Volhynia, and at Łowczówek they showed that they had become a fully fledged army.",
+     "quotes": [
+       {"file": "src/content/en/timeline/austro-hungarians-retake-maramarossziget.md", "quote": "It was the first action of the Legions in the Eastern Carpathians."},
+       {"file": "src/content/en/battles/battle-of-lowczowek.md", "quote": "The fight showed that Piłsudski's volunteer units had become a fully fledged army."},
+       {"file": "src/content/en/timeline/act-of-5-november.md", "quote": "In July, after the fighting in Volhynia, he had demanded his discharge in protest at the treatment of the Legions"}
+     ]},
+    {"text": "Germany wanted to make them the core of a Polish army at its side, but in July 1917 the legionaries of the I and III Brigades refused the oath, and Piłsudski ended up in Magdeburg.",
+     "quotes": [
+       {"file": "src/content/en/timeline/arrest-of-pilsudski.md", "quote": "The plan of Governor-General Hans Hartwig von Beseler, who wanted to build a large Polish army at Germany's side, lay in ruins."},
+       {"file": "src/content/en/timeline/oath-crisis.md", "quote": "On 9 July 1917, at Piłsudski's call, I and III Brigade legionaries refused an oath of brotherhood in arms with Germany and Austria-Hungary."},
+       {"file": "src/content/en/timeline/arrest-of-pilsudski.md", "quote": "The Commandant spent over a year in Magdeburg."}
+     ]},
+    {"text": "The series runs from the march of the Cadre Company through Krzywopłoty, Łowczówek and Kostiuchnówka, the oath crisis and the Commandant's arrest to the Second Brigade's breakthrough at Rarańcza and the last fight of Haller's legionaries at Kaniów.",
+     "quotes": [
+       {"file": "src/content/en/timeline/battle-of-rarancza.md", "quote": "On the night of 15–16 February 1918 Colonel Haller's Second Brigade of the Legions broke through the Austrian front at Rarańcza in protest at the Ukraine peace."},
+       {"file": "src/content/en/battles/battle-of-kaniow.md", "quote": "The Battle of Kaniów was the last battle of the Polish II Corps, a Polish formation made up of soldiers of the former Russian army and of legionnaires who in February 1918 had broken through the Austrian front at Rarańcza."}
+     ]}
+  ],
+  "steps": [
+    {"ref": "austro-wegry-wypowiadaja-wojne-rosji",
+     "note": {"pl": "Punkt wyjścia: w dniu, w którym dwaj zaborcy stają przeciw sobie, Pierwsza Kompania Kadrowa Piłsudskiego wyrusza z Krakowa i przekracza granicę Królestwa Polskiego.",
+              "en": "The starting point: on the day two partitioning powers go to war with each other, Piłsudski's First Cadre Company sets out from Kraków and crosses into the Kingdom of Poland."},
+     "quote": {"pl": "Tego samego dnia, 6 sierpnia 1914 roku, Pierwsza Kompania Kadrowa utworzona przez Józefa Piłsudskiego wyruszyła z Krakowa i przekroczyła granicę Królestwa Polskiego.",
+               "en": "On the same day, 6 August 1914, the First Cadre Company formed by Józef Piłsudski set out from Kraków and crossed the border of the Kingdom of Poland."}},
+    {"ref": "odwrot-austro-wegier-w-galicji",
+     "note": {"pl": "Pierwszy kryzys Legionów: przy odwrocie z Galicji Legion Wschodni się rozpada, a tylko żołnierze skupieni wokół Hallera składają przysięgę i wchodzą do nowego 3 Pułku.",
+              "en": "The Legions' first crisis: in the retreat from Galicia the Eastern Legion falls apart, and only the men around Haller take the oath and join the new 3rd Regiment."},
+     "quote": {"pl": "Tylko część żołnierzy, między innymi wokół kapitana Józefa Hallera, złożyła przysięgę i weszła do nowo tworzonego 3 Pułku Legionów Polskich.",
+               "en": "Only some of the soldiers, among them those around Captain Józef Haller, took the oath and joined the newly formed 3rd Regiment of the Polish Legions."}},
+    {"ref": "bitwy/bitwa-pod-warszawa-i-deblinem",
+     "note": {"pl": "Legioniści Piłsudskiego w wielkiej jesiennej bitwie nad Wisłą: pod Laskami i Anielinem staczają jedną ze swoich pierwszych dużych bitew z Rosjanami.",
+              "en": "Piłsudski's legionaries in the great autumn battle on the Vistula: at Laski and Anielin they fight one of their first large battles with the Russians."},
+     "quote": {"pl": "W dniach 22–26 października legioniści Piłsudskiego walczyli w bitwie pod Laskami i Anielinem koło dzisiejszych Pionek, jednej ze swoich pierwszych dużych bitew z Rosjanami.",
+               "en": "On 22–26 October Piłsudski's legionaries fought in the Battle of Laski and Anielin near present-day Pionki, one of their first large battles with the Russians."}},
+    {"ref": "austriacy-odbijaja-syhot",
+     "note": {"pl": "Druga gałąź Legionów, przyszła II Brygada, zaczyna wojnę w Karpatach: potyczka pod Syhotem to pierwsza walka Legionów w Karpatach Wschodnich.",
+              "en": "The other branch of the Legions, the future Second Brigade, begins its war in the Carpathians: the skirmish near Máramarossziget is the Legions' first action in the Eastern Carpathians."},
+     "quote": {"pl": "Była to pierwsza walka Legionów w Karpatach Wschodnich.",
+               "en": "It was the first action of the Legions in the Eastern Carpathians."}},
+    {"ref": "rosjanie-zajmuja-stanislawow",
+     "note": {"pl": "Mołotków, jedna z pierwszych dużych i najkrwawszych bitew Legionów z Rosjanami, zatrzymuje jesienny marsz karpackich pułków na Stanisławów.",
+              "en": "Mołotków, one of the first large and bloodiest battles of the Legions against the Russians, halts the Carpathian regiments' autumn advance on Stanisławów."},
+     "quote": {"pl": "Bitwa pod Mołotkowem była jedną z pierwszych dużych i zarazem najkrwawszych bitew Legionów z Rosjanami.",
+               "en": "The Battle of Mołotków was one of the first large, and at the same time bloodiest, battles of the Legions against the Russians."}},
+    {"ref": "bitwy/bitwa-pod-krakowem",
+     "note": {"pl": "W bitwie pod Krakowem Legiony zyskują pierwszą legendę: bój pod Krzywopłotami przechodzi do ich tradycji jako „legionowe Termopile”.",
+              "en": "In the Battle of Kraków the Legions gain their first legend: the fight at Krzywopłoty passes into their tradition as \"the Legions' Thermopylae\"."},
+     "quote": {"pl": "Bitwa pod Krzywopłotami przeszła do legendy Legionów jako „legionowe Termopile”.",
+               "en": "The Battle of Krzywopłoty passed into the legend of the Legions as \"the Legions' Thermopylae\"."}},
+    {"ref": "bitwy/bitwa-pod-limanowa",
+     "note": {"pl": "Zwycięstwo pod Limanową otwiera Legionom Nowy Sącz, gdzie oddziały Piłsudskiego zostają przekształcone w I Brygadę Legionów Polskich.",
+              "en": "Victory at Limanowa opens Nowy Sącz to the Legions, and there Piłsudski's units are reorganised into the First Brigade of the Polish Legions."},
+     "quote": {"pl": "Tam, 19 grudnia, jego oddziały przekształcono w I Brygadę Legionów Polskich.",
+               "en": "There, on 19 December, his units were reorganised into the First Brigade of the Polish Legions."}},
+    {"ref": "bitwy/bitwa-pod-lowczowkiem",
+     "note": {"pl": "Pierwszy bój I Brygady, toczony także w Wigilię, pokazuje, że ochotnicze oddziały Piłsudskiego stały się pełnowartościowym wojskiem.",
+              "en": "The First Brigade's first battle, fought on Christmas Eve too, shows that Piłsudski's volunteer units have become a fully fledged army."},
+     "quote": {"pl": "Bój pokazał, że ochotnicze oddziały Piłsudskiego stały się pełnowartościowym wojskiem.",
+               "en": "The fight showed that Piłsudski's volunteer units had become a fully fledged army."}},
+    {"ref": "austriacy-zdobywaja-stanislawow",
+     "note": {"pl": "Karpacka zima Legionów: grupa podpułkownika Hallera, późniejsza II Brygada, bierze udział w zimowej ofensywie, która na krótko odbiera Rosjanom Stanisławów.",
+              "en": "The Legions' Carpathian winter: Lieutenant Colonel Haller's group, the later Second Brigade, takes part in the winter offensive that briefly wins back Stanisławów."},
+     "quote": {"pl": "W ofensywie na Stanisławów brali udział także polscy legioniści z grupy podpułkownika Józefa Hallera, późniejszej II Brygady Legionów.",
+               "en": "Polish Legionnaires of the group of Lieutenant Colonel Józef Haller, the later II Brigade of the Legions, also took part in the offensive against Stanisławów."}},
+    {"ref": "bitwy/ofensywa-brusilowa",
+     "note": {"pl": "Legiony w ofensywie Brusiłowa: Kostiuchnówka kosztuje je około 2 tysięcy zabitych i rannych i staje się jedną z najważniejszych bitew w ich tradycji.",
+              "en": "The Legions in the Brusilov offensive: Kostiuchnówka costs them about 2,000 killed and wounded and becomes one of the most important battles in their tradition."},
+     "quote": {"pl": "Bitwa pod Kostiuchnówką kosztowała legionistów około 2 tysięcy zabitych i rannych i stała się jedną z najważniejszych bitew w ich tradycji.",
+               "en": "The Battle of Kostiuchnówka cost the legionaries about 2,000 killed and wounded and became one of the most important battles in their tradition."}},
+    {"ref": "akt-5-listopada",
+     "note": {"pl": "Legiony zmieniają się w Polski Korpus Posiłkowy, Piłsudski odchodzi z wojska, a manifest cesarzy ma przede wszystkim dać państwom centralnym polskiego rekruta.",
+              "en": "The Legions become the Polish Auxiliary Corps, Piłsudski leaves the army, and the emperors' manifesto is above all meant to give the Central Powers Polish recruits."},
+     "quote": {"pl": "Legiony przemianowano we wrześniu na Polski Korpus Posiłkowy.",
+               "en": "In September the Legions were renamed the Polish Auxiliary Corps."}},
+    {"ref": "kryzys-przysiegowy",
+     "note": {"pl": "Punkt zwrotny serii: odmowa przysięgi przez I i III Brygadę kończy Legiony w dotychczasowej postaci i współpracę Piłsudskiego z państwami centralnymi.",
+              "en": "The turning point of the series: the refusal of the I and III Brigades to swear ends the Legions in their existing form and Piłsudski's cooperation with the Central Powers."},
+     "quote": {"pl": "Tak zaczął się kryzys przysięgowy, koniec Legionów Polskich w dotychczasowej postaci i zarazem koniec współpracy Piłsudskiego z państwami centralnymi.",
+               "en": "So began the oath crisis, the end of the Polish Legions in their existing form and at the same time the end of Piłsudski's cooperation with the Central Powers."}},
+    {"ref": "aresztowanie-pilsudskiego",
+     "note": {"pl": "Twórca Legionów staje się więźniem Niemiec: Komendant spędza ponad rok w Magdeburgu, a niewola czyni go symbolem walki o niepodległość.",
+              "en": "The creator of the Legions becomes a prisoner of Germany: the Commandant spends over a year in Magdeburg, and captivity makes him a symbol of the struggle for independence."},
+     "quote": {"pl": "Więzień Magdeburga był odtąd ofiarą Niemców i symbolem walki o niepodległość przeciw wszystkim trzem zaborcom.",
+               "en": "From then on the prisoner of Magdeburg was a victim of the Germans and a symbol of the struggle for independence against all three partitioning powers."}},
+    {"ref": "bitwa-pod-rarancza",
+     "note": {"pl": "Zerwanie II Brygady z Austrią: po raz pierwszy polskie oddziały walczące u boku państw centralnych otwarcie zrywają z nimi z bronią w ręku.",
+              "en": "The Second Brigade's break with Austria: for the first time Polish units fighting alongside the Central Powers openly break with them, arms in hand."},
+     "quote": {"pl": "Po raz pierwszy polskie oddziały walczące u boku państw centralnych otwarcie zerwały z nimi z bronią w ręku.",
+               "en": "For the first time Polish units fighting alongside the Central Powers openly broke with them, arms in hand."}},
+    {"ref": "bitwy/bitwa-pod-kaniowem",
+     "note": {"pl": "Koniec drogi legionistów Hallera: w II Korpusie Polskim stawiają opór Niemcom pod Kaniowem, który staje się symbolem zbrojnego sprzeciwu wobec państw centralnych.",
+              "en": "The end of the road for Haller's legionaries: in the Polish II Corps they resist the Germans at Kaniów, which becomes a symbol of armed opposition to the Central Powers."},
+     "quote": {"pl": "Militarnie było to drobne starcie na marginesie wielkiej wojny, ale w polskiej pamięci Kaniów stał się symbolem zbrojnego sprzeciwu wobec państw centralnych.",
+               "en": "Militarily it was a minor clash on the margins of the Great War, but in Polish memory Kaniów became a symbol of armed opposition to the Central Powers."}}
+  ]
+}

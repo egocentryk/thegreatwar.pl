@@ -1,0 +1,328 @@
+{
+  "slug": "droga-do-niepodleglosci",
+  "slugEn": "road-to-independence",
+  "title": "Droga do niepodległości",
+  "titleEn": "The road to independence",
+  "lead": "Sprawa polska od obietnic zaborców po własne państwo.",
+  "leadEn": "The Polish question, from the partitioning powers' promises to a state of its own.",
+  "intro": [
+    {
+      "text": "Wojna, w której trzy państwa zaborcze stanęły przeciw sobie, po raz pierwszy od rozbiorów uczyniła sprawę polską przedmiotem międzynarodowej rywalizacji.",
+      "quotes": [
+        {
+          "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+          "quote": "Polacy mieszkali w trzech zaborach i służyli w trzech armiach, które teraz walczyły ze sobą."
+        },
+        {
+          "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+          "quote": "po raz pierwszy od rozbiorów sprawa polska stała się przedmiotem międzynarodowej rywalizacji, a mocarstwa zaczęły licytować się obietnicami wobec Polaków"
+        }
+      ]
+    },
+    {
+      "text": "Mocarstwa licytowały się obietnicami: od autonomii pod berłem cara po zjednoczoną i niepodległą Polskę z dostępem do morza.",
+      "quotes": [
+        {
+          "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+          "quote": "obiecując zjednoczenie ziem polskich pod berłem cara i autonomię"
+        },
+        {
+          "file": "src/content/timeline/1918/06/deklaracja-wersalska.md",
+          "quote": "„Utworzenie zjednoczonego i niepodległego państwa polskiego z wolnym dostępem do morza stanowi jeden z warunków trwałego i sprawiedliwego pokoju oraz panowania prawa w Europie”"
+        }
+      ]
+    },
+    {
+      "text": "Jesienią 1918 roku, gdy wszystkie trzy mocarstwa zaborcze przegrały wojnę albo się rozpadły, Polacy sami przejęli władzę w Krakowie, Lublinie i Warszawie.",
+      "quotes": [
+        {
+          "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+          "quote": "Wszystkie trzy mocarstwa, które pod koniec XVIII wieku rozebrały Rzeczpospolitą, przegrały wojnę albo się rozpadły."
+        },
+        {
+          "file": "src/content/timeline/1918/10/wyzwolenie-krakowa.md",
+          "quote": "31 października 1918 roku Kraków przeszedł w ręce polskie."
+        },
+        {
+          "file": "src/content/timeline/1918/11/rzad-lubelski.md",
+          "quote": "W nocy z 6 na 7 listopada 1918 roku na ulicach Lublina rozklejono afisze z manifestem nowej władzy."
+        }
+      ]
+    },
+    {
+      "text": "Nowe państwo nie miało jednak ani granic, ani uznania mocarstw, a o Lwów i Galicję Wschodnią trzeba było walczyć.",
+      "quotes": [
+        {
+          "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+          "quote": "Państwo, które rodziło się w Warszawie, nie miało jednak ani granic, ani uznanego rządu, ani uznania mocarstw."
+        },
+        {
+          "file": "src/content/battles/1918/obrona-lwowa-1918.md",
+          "quote": "Wojna o miasto i całą Galicję Wschodnią dopiero się jednak zaczynała."
+        }
+      ]
+    },
+    {
+      "text": "Seria prowadzi od odezwy wielkiego księcia Mikołaja przez akt 5 listopada, orędzia Wilsona i Radę Regencyjną po 11 listopada, obronę Lwowa i powstanie wielkopolskie.",
+      "quotes": [
+        {
+          "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+          "quote": "Dokument przeszedł do historii jako akt 5 listopada."
+        },
+        {
+          "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+          "quote": "11 listopada pozostaje jednak dniem, w którym Polacy świętują niepodległość."
+        }
+      ]
+    }
+  ],
+  "introEn": [
+    {
+      "text": "A war in which the three partitioning powers fought one another made the Polish question, for the first time since the partitions, an object of international rivalry.",
+      "quotes": [
+        {
+          "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+          "quote": "The Poles lived in three partitions and served in three armies, which were now fighting one another."
+        },
+        {
+          "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+          "quote": "for the first time since the partitions the Polish question became the object of international rivalry, and the powers began to outbid one another with promises to the Poles."
+        }
+      ]
+    },
+    {
+      "text": "The powers outbid one another with promises, from autonomy under the Tsar to a united and independent Poland with access to the sea.",
+      "quotes": [
+        {
+          "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+          "quote": "promising to unite the Polish lands under the Tsar with autonomy"
+        },
+        {
+          "file": "src/content/en/timeline/versailles-declaration.md",
+          "quote": "made a united, independent Poland with access to the sea a condition of peace"
+        }
+      ]
+    },
+    {
+      "text": "In the autumn of 1918, when all three partitioning powers had lost the war or fallen apart, the Poles took power themselves in Kraków, Lublin and Warsaw.",
+      "quotes": [
+        {
+          "file": "src/content/en/timeline/poland-regains-independence.md",
+          "quote": "All three powers that had partitioned the Commonwealth at the end of the 18th century had lost the war or fallen apart."
+        },
+        {
+          "file": "src/content/en/timeline/liberation-of-krakow.md",
+          "quote": "On 31 October 1918 Kraków passed into Polish hands."
+        },
+        {
+          "file": "src/content/en/timeline/lublin-government.md",
+          "quote": "On the night of 6/7 November 1918 the pro-independence left set up the Provisional People's Government of the Republic of Poland in Lublin under Daszyński."
+        }
+      ]
+    },
+    {
+      "text": "Yet the new state had no borders and no recognition from the powers, and Lwów and Eastern Galicia had to be fought for.",
+      "quotes": [
+        {
+          "file": "src/content/en/timeline/poland-regains-independence.md",
+          "quote": "The state being born in Warsaw, however, had no borders, no recognised government and no recognition from the powers."
+        },
+        {
+          "file": "src/content/en/battles/defence-of-lwow.md",
+          "quote": "The war for the city and for the whole of Eastern Galicia, however, was only beginning."
+        }
+      ]
+    },
+    {
+      "text": "The series runs from Grand Duke Nicholas's proclamation through the Act of 5 November, Wilson's addresses and the Regency Council to 11 November, the defence of Lwów and the Greater Poland uprising.",
+      "quotes": [
+        {
+          "file": "src/content/en/timeline/act-of-5-november.md",
+          "quote": "The document went down in history as the Act of 5 November."
+        },
+        {
+          "file": "src/content/en/timeline/poland-regains-independence.md",
+          "quote": "Yet 11 November remains the day on which Poles celebrate their independence."
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "ref": "odezwa-wielkiego-ksiecia-mikolaja-do-polakow",
+      "note": {
+        "pl": "Punkt wyjścia: Rosja obiecuje zjednoczyć ziemie polskie, a sprawa polska staje się przedmiotem licytacji mocarstw.",
+        "en": "The starting point: Russia promises to unite the Polish lands, and the Polish question becomes something the powers bid for."
+      },
+      "quote": {
+        "pl": "po raz pierwszy od rozbiorów sprawa polska stała się przedmiotem międzynarodowej rywalizacji, a mocarstwa zaczęły licytować się obietnicami wobec Polaków",
+        "en": "for the first time since the partitions the Polish question became the object of international rivalry, and the powers began to outbid one another with promises to the Poles."
+      }
+    },
+    {
+      "ref": "akt-5-listopada",
+      "note": {
+        "pl": "Państwa centralne obiecują Polakom państwo, choć tylko „samodzielne”; z tego aktu wyrośnie Rada Regencyjna, która odda władzę Piłsudskiemu.",
+        "en": "The Central Powers promise the Poles a state, if only a “self-governing” one; from this act grows the Regency Council that will hand power to Piłsudski."
+      },
+      "quote": {
+        "pl": "To właśnie Rada Regencyjna, wyrosła z aktu 5 listopada, przekazała w listopadzie 1918 roku władzę Piłsudskiemu w odradzającym się niepodległym państwie.",
+        "en": "It was the Regency Council, which grew out of the Act of 5 November, that in November 1918 handed power to Piłsudski in the reborn independent state."
+      }
+    },
+    {
+      "ref": "pierwsze-posiedzenie-tymczasowej-rady-stanu",
+      "note": {
+        "pl": "Pierwsza polska instytucja w okupowanym Królestwie: mianowana i doradcza, ale pierwszy raz od dziesięcioleci przygotowuje po polsku instytucje państwa.",
+        "en": "The first Polish body in the occupied Kingdom: appointed and advisory, but for the first time in decades preparing state institutions in Polish."
+      },
+      "quote": {
+        "pl": "po raz pierwszy od dziesięcioleci Polacy mogli oficjalnie, pod polską nazwą i po polsku, przygotowywać przyszłe instytucje własnego państwa",
+        "en": "for the first time in decades Poles could officially, under a Polish name and in Polish, prepare the future institutions of their own state."
+      }
+    },
+    {
+      "ref": "pokoj-bez-zwyciestwa",
+      "note": {
+        "pl": "Głos spoza Europy: prezydent USA idzie dalej niż obietnice obu stron wojny i mówi o Polsce zjednoczonej i niepodległej.",
+        "en": "A voice from outside Europe: the US president goes further than the promises of either side and speaks of a united and independent Poland."
+      },
+      "quote": {
+        "pl": "Wilson poszedł dalej niż one, bo mówił o Polsce zjednoczonej i niepodległej.",
+        "en": "Wilson went further than either, for he spoke of a united and independent Poland."
+      }
+    },
+    {
+      "ref": "odezwa-rzadu-tymczasowego-do-polakow",
+      "note": {
+        "pl": "Rosja, która uważała sprawę polską za swoją wewnętrzną, sama uznaje prawo Polski do niepodległości i otwiera drogę zachodnim sojusznikom.",
+        "en": "Russia, which had treated the Polish question as its internal affair, itself recognises Poland's right to independence, freeing the Western Allies to speak."
+      },
+      "quote": {
+        "pl": "Mocarstwo, które od rozbiorów najbardziej upierało się, że sprawa polska jest jego sprawą wewnętrzną, samo uznało prawo Polski do niepodległości.",
+        "en": "The power that since the partitions had insisted most stubbornly that the Polish question was its internal affair had itself recognised Poland's right to independence."
+      }
+    },
+    {
+      "ref": "powstanie-komitetu-narodowego-polskiego",
+      "note": {
+        "pl": "Obóz Dmowskiego zyskuje reprezentację w państwach Ententy, pomyślaną jako zalążek rządu odbudowanej Polski.",
+        "en": "Dmowski's camp gains a representation in the Entente countries, conceived as the nucleus of a government of a restored Poland."
+      },
+      "quote": {
+        "pl": "Komitet miał być polską reprezentacją polityczną w państwach Ententy, a w przyszłości, jak liczył Dmowski, zalążkiem rządu odbudowanej Polski.",
+        "en": "The committee was to be the Polish political representation in the Entente countries and, as Dmowski hoped, the nucleus of a future government of a restored Poland."
+      }
+    },
+    {
+      "ref": "rada-regencyjna-obejmuje-wladze",
+      "note": {
+        "pl": "Regenci obejmują władzę z nadania Berlina i Wiednia, ale ich przysięga nie wspomina ani słowem o mocarstwach okupacyjnych.",
+        "en": "The regents take office by grace of Berlin and Vienna, yet their oath makes no mention whatsoever of the occupying powers."
+      },
+      "quote": {
+        "pl": "Historycy zwracają uwagę, że przysięgi nie składano na niczyje ręce, a jej tekst nie wspominał ani słowem o mocarstwach okupacyjnych.",
+        "en": "Historians point out that the oath was not sworn into anyone's hands and that its text made no mention whatsoever of the occupying powers."
+      }
+    },
+    {
+      "ref": "czternascie-punktow-wilsona",
+      "note": {
+        "pl": "Trzynasty punkt czyni niepodległą Polskę z dostępem do morza oficjalnym celem wojny Stanów Zjednoczonych.",
+        "en": "The thirteenth point makes an independent Poland with access to the sea an official war aim of the United States."
+      },
+      "quote": {
+        "pl": "Teraz niepodległa Polska z dostępem do morza i międzynarodowymi gwarancjami stała się oficjalnym celem wojny Stanów Zjednoczonych.",
+        "en": "Now an independent Poland with access to the sea and international guarantees became an official war aim of the United States."
+      }
+    },
+    {
+      "ref": "deklaracja-wersalska",
+      "note": {
+        "pl": "Francja, Wielka Brytania i Włochy pierwszy raz wspólnie wpisują zjednoczoną Polskę do warunków przyszłego pokoju.",
+        "en": "France, Britain and Italy for the first time jointly make a united Poland one of the conditions of the future peace."
+      },
+      "quote": {
+        "pl": "Po raz pierwszy Francja, Wielka Brytania i Włochy wspólnie i publicznie wpisały odbudowę zjednoczonej Polski do warunków przyszłego pokoju.",
+        "en": "For the first time France, Britain and Italy jointly and publicly included the restoration of a united Poland among the conditions of the future peace."
+      }
+    },
+    {
+      "ref": "deklaracja-rady-regencyjnej",
+      "note": {
+        "pl": "Pierwszy raz od rozbiorów władza na ziemiach polskich ogłasza za cel pełną niepodległość i zaczyna działać bez oglądania się na Berlin i Wiedeń.",
+        "en": "For the first time since the partitions an authority on Polish soil declares full independence its aim and begins acting without looking to Berlin and Vienna."
+      },
+      "quote": {
+        "pl": "Pierwszy raz od rozbiorów władza działająca na ziemiach polskich ogłosiła publicznie, że jej celem jest pełna niepodległość i zjednoczenie wszystkich ziem polskich, i zaczęła tworzyć państwo bez oglądania się na Berlin i Wiedeń.",
+        "en": "For the first time since the partitions an authority operating on Polish soil publicly declared that its aim was full independence and the unification of all Polish lands, and began building a state without looking to Berlin and Vienna."
+      }
+    },
+    {
+      "ref": "wyzwolenie-krakowa",
+      "note": {
+        "pl": "Kraków sam zrzuca obce panowanie w rozpadzie monarchii Habsburgów, zanim o jego losie zdecydowano w Wiedniu, Warszawie czy Paryżu.",
+        "en": "Kraków throws off foreign rule by its own efforts as the Habsburg monarchy collapses, before Vienna, Warsaw or Paris can decide its fate."
+      },
+      "quote": {
+        "pl": "Dawna stolica Polski była jednym z pierwszych miast, które w rozpadzie monarchii Habsburgów same zrzuciły obce panowanie, zanim ktokolwiek zdołał zdecydować o ich losie w Wiedniu, Warszawie czy Paryżu.",
+        "en": "The former Polish capital was one of the first cities that, as the Habsburg monarchy disintegrated, threw off foreign rule by their own efforts, before anyone in Vienna, Warsaw or Paris could decide their fate."
+      }
+    },
+    {
+      "ref": "bitwy/obrona-lwowa-1918",
+      "note": {
+        "pl": "Niepodległość od pierwszych dni oznacza walkę o granice: Lwów zostaje przy Polsce, ale wojna o Galicję Wschodnią dopiero się zaczyna.",
+        "en": "From its first days independence means fighting for borders: Lwów stays Polish, but the war for Eastern Galicia is only beginning."
+      },
+      "quote": {
+        "pl": "Wojna o miasto i całą Galicję Wschodnią dopiero się jednak zaczynała.",
+        "en": "The war for the city and for the whole of Eastern Galicia, however, was only beginning."
+      }
+    },
+    {
+      "ref": "rzad-lubelski",
+      "note": {
+        "pl": "Lewica niepodległościowa nie czeka na regentów: w Lublinie powstaje pierwszy rząd, który nazywa swoje państwo republiką.",
+        "en": "The pro-independence left will not wait for the regents: in Lublin the first government forms that calls its state a republic."
+      },
+      "quote": {
+        "pl": "Pierwszy raz od rozbiorów na ziemiach polskich powstał rząd, który nazwał swoje państwo republiką.",
+        "en": "For the first time since the partitions, a government had been formed on Polish soil that called its state a republic."
+      }
+    },
+    {
+      "ref": "odzyskanie-niepodleglosci-przez-polske",
+      "note": {
+        "pl": "Symboliczna data: polska władza przejmuje wojsko w stolicy w dniu, w którym wojna kończy się klęską ostatniego z zaborców.",
+        "en": "The symbolic date: Polish authority takes over the army in the capital on the day the war ends with the defeat of the last partitioning power."
+      },
+      "quote": {
+        "pl": "Na rzecz 11 listopada przemawiało to, że tego dnia polska władza przejęła wojsko w stolicy, a jednocześnie wielka wojna zakończyła się klęską ostatniego z zaborców.",
+        "en": "In favour of 11 November was the fact that on that day Polish authority took over the army in the capital, while at the same time the Great War ended with the defeat of the last of the partitioning powers."
+      }
+    },
+    {
+      "ref": "rozwiazanie-rady-regencyjnej",
+      "note": {
+        "pl": "Koniec regencji: organ powołany przez Berlin i Wiedeń przestaje istnieć, a na czele odradzającego się państwa staje jeden człowiek.",
+        "en": "The end of the regency: the body set up by Berlin and Vienna ceases to exist, and a single man stands at the head of the reviving state."
+      },
+      "quote": {
+        "pl": "Organ powołany w 1917 roku przez Berlin i Wiedeń przestał istnieć, a na czele odradzającego się państwa stanął jeden człowiek.",
+        "en": "The body set up in 1917 by Berlin and Vienna ceased to exist, and a single man stood at the head of the reviving state."
+      }
+    },
+    {
+      "ref": "bitwy/powstanie-wielkopolskie",
+      "note": {
+        "pl": "Zamknięcie serii w zaborze pruskim: Polacy przejmują władzę w większej części Wielkopolski, zanim konferencja pokojowa zacznie mówić o granicach.",
+        "en": "The series ends in the Prussian partition: the Poles take power in most of Greater Poland before the peace conference begins discussing borders."
+      },
+      "quote": {
+        "pl": "Zanim konferencja pokojowa zaczęła rozmawiać o granicach, Polacy faktycznie przejęli władzę w większej części Wielkopolski i stworzyli własne wojsko.",
+        "en": "Before the peace conference began discussing borders, the Poles had in fact taken power in most of Greater Poland and created their own army."
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "wojna-na-ziemiach-polskich",
+  "slugEn": "war-on-polish-soil",
+  "title": "Wojna na ziemiach polskich",
+  "titleEn": "The war on Polish soil",
+  "lead": "Bitwy, oblężenia i okupacje, które przetoczyły się przez polskie miasta i wsie.",
+  "leadEn": "The battles, sieges and occupations that swept through Polish towns and villages.",
+  "intro": [
+    {"text": "Od 1 sierpnia 1914 roku wojna na froncie wschodnim toczyła się na ziemiach polskich, a Polacy służyli w armiach trzech zaborców po przeciwnych stronach.",
+     "quotes": [
+       {"file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md", "quote": "Wraz z wypowiedzeniem przez Niemcy wojny Rosji 1 sierpnia 1914 roku granica między oboma imperiami stała się linią frontu."},
+       {"file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md", "quote": "Na froncie wschodnim wojna zaczynała się więc na ziemiach polskich."},
+       {"file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md", "quote": "Mieszkańcy trzech zaborów służyli w armiach Rosji, Niemiec i Austro-Węgier, a więc po przeciwnych stronach frontu."}
+     ]},
+    {"text": "W pierwszych miesiącach Rosjanie zajęli Lwów i oblegli Przemyśl, a Niemcy doszli pod Warszawę i zajęli Łódź.",
+     "quotes": [
+       {"file": "src/content/battles/1914/bitwa-galicyjska.md", "quote": "Austro-Węgry straciły Lwów i większą część Galicji, wycofały się za San, a potem za Dunajec, pozostawiając oblężoną twierdzę Przemyśl."},
+       {"file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md", "quote": "Doszły nad Wisłę, a niemieckie oddziały stanęły kilkanaście kilometrów od Warszawy."},
+       {"file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md", "quote": "W niedzielę 6 grudnia 1914 roku wojska niemieckie wkroczyły do Łodzi."}
+     ]},
+    {"text": "Przełamanie pod Gorlicami w maju 1915 roku odwróciło losy wojny: w czerwcu państwa centralne odzyskały Przemyśl i Lwów, a latem Rosjanie musieli opuścić całe Królestwo Polskie.",
+     "quotes": [
+       {"file": "src/content/battles/1915/bitwa-pod-gorlicami.md", "quote": "2 maja 1915 wojska niemieckie i austro-węgierskie Mackensena przełamały pod Gorlicami front rosyjskiej 3 Armii."},
+       {"file": "src/content/battles/1915/bitwa-pod-gorlicami.md", "quote": "W następnych tygodniach wojska państw centralnych doszły do Sanu, w czerwcu odzyskały Przemyśl i Lwów, a latem Rosjanie musieli opuścić całe Królestwo Polskie."}
+     ]},
+    {"text": "Cofając się, Rosjanie wywozili fabryki, pustoszyli kraj i wysiedlali ludność, a na zajętych ziemiach Niemcy i Austriacy zaprowadzili własne rządy.",
+     "quotes": [
+       {"file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md", "quote": "Z fabryk demontowano maszyny i wysyłano je w głąb Rosji razem z surowcami i częścią robotników."},
+       {"file": "src/content/timeline/1915/07/koniec-bitwy-pod-biskupicami.md", "quote": "Pustoszenie kraju przed nadejściem przeciwnika i przymusowe wysiedlanie ludności były w tych tygodniach częścią rosyjskiego odwrotu z Królestwa Polskiego."},
+       {"file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md", "quote": "24 sierpnia utworzyli Generalne Gubernatorstwo Warszawskie, obejmujące zajętą przez nich część Królestwa Polskiego"}
+     ]},
+    {"text": "Seria prowadzi od zburzenia Kalisza przez Galicję, Przemyśl, Łódź i Limanową po Gorlice, upadek Warszawy i falę bieżeństwa.",
+     "quotes": [
+       {"file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md", "quote": "Zburzenie Kalisza stało się jednym z pierwszych i najbardziej wstrząsających przykładów przemocy wobec ludności cywilnej w czasie Wielkiej Wojny."},
+       {"file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md", "quote": "Była to część wielkiej fali bieżeństwa, która ogarnęła w 1915 roku zachodnie gubernie Rosji."}
+     ]}
+  ],
+  "introEn": [
+    {"text": "From 1 August 1914 the war on the Eastern Front was fought on Polish soil, and Poles served in the armies of all three partitioning powers, on opposite sides.",
+     "quotes": [
+       {"file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md", "quote": "When Germany declared war on Russia on 1 August 1914, the border between the two empires became a front line."},
+       {"file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md", "quote": "On the Eastern Front, therefore, the war began on Polish soil."},
+       {"file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md", "quote": "The inhabitants of the three partitions served in the armies of Russia, Germany and Austria-Hungary, and so on opposite sides of the front."}
+     ]},
+    {"text": "In the first months the Russians took Lemberg and besieged Przemyśl, while the Germans came within reach of Warsaw and took Łódź.",
+     "quotes": [
+       {"file": "src/content/en/battles/battle-of-galicia.md", "quote": "Austria-Hungary lost Lemberg and most of Galicia and withdrew behind the San, then behind the Dunajec, leaving the fortress of Przemyśl under siege."},
+       {"file": "src/content/en/battles/battle-of-warsaw-and-deblin.md", "quote": "They reached the Vistula, and German units stood a dozen or so kilometres from Warsaw."},
+       {"file": "src/content/en/timeline/germans-take-lodz.md", "quote": "On Sunday 6 December 1914 German troops marched into Łódź."}
+     ]},
+    {"text": "The breakthrough at Gorlice in May 1915 turned the tide: in June the Central Powers recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland.",
+     "quotes": [
+       {"file": "src/content/en/battles/battle-of-gorlice.md", "quote": "On 2 May 1915 Mackensen's German and Austro-Hungarian troops broke the Russian Third Army's front at Gorlice."},
+       {"file": "src/content/en/battles/battle-of-gorlice.md", "quote": "In the following weeks the troops of the Central Powers reached the San, in June they recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland."}
+     ]},
+    {"text": "As they withdrew, the Russians carried factory machinery east, laid waste to the country and deported the population, and in the occupied lands the Germans and Austrians set up their own rule.",
+     "quotes": [
+       {"file": "src/content/en/timeline/germans-occupy-warsaw.md", "quote": "Machinery was dismantled in factories and sent into the interior of Russia together with raw materials and some of the workers."},
+       {"file": "src/content/en/timeline/end-of-the-battle-of-biskupice.md", "quote": "Laying waste to the country before the enemy arrived and forcibly deporting the population were in those weeks part of the Russian retreat from the Kingdom of Poland."},
+       {"file": "src/content/en/timeline/germans-occupy-warsaw.md", "quote": "On 24 August they created the Government General of Warsaw, covering the part of the Kingdom of Poland they had occupied"}
+     ]},
+    {"text": "The series runs from the destruction of Kalisz through Galicia, Przemyśl, Łódź and Limanowa to Gorlice, the fall of Warsaw and the wave of bezhenstvo.",
+     "quotes": [
+       {"file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md", "quote": "The destruction of Kalisz became one of the first and most shocking examples of violence against civilians in the Great War."},
+       {"file": "src/content/en/timeline/germans-take-bialystok.md", "quote": "This was part of the great wave of bezhenstvo, the refugee exodus that swept the western governorates of Russia in 1915."}
+     ]}
+  ],
+  "steps": [
+    {"ref": "pierwsze-walki-na-granicy-krolestwa-polskiego",
+     "note": {"pl": "Punkt wyjścia: granica zaborów staje się linią frontu, a zburzenie Kalisza otwiera listę przemocy wobec ludności cywilnej w tej wojnie.",
+              "en": "The starting point: the partition border becomes a front line, and the destruction of Kalisz opens the list of violence against civilians in this war."},
+     "quote": {"pl": "Zburzenie Kalisza stało się jednym z pierwszych i najbardziej wstrząsających przykładów przemocy wobec ludności cywilnej w czasie Wielkiej Wojny.",
+               "en": "The destruction of Kalisz became one of the first and most shocking examples of violence against civilians in the Great War."}},
+    {"ref": "bitwy/bitwa-galicyjska",
+     "note": {"pl": "Pierwsza wielka bitwa toczona prawie w całości na ziemiach polskich, w której Polacy walczą po obu stronach frontu.",
+              "en": "The first great battle fought almost entirely on Polish lands, with Poles fighting on both sides of the front."},
+     "quote": {"pl": "Prawie cała bitwa toczyła się na ziemiach polskich, a Polacy walczyli w niej po obu stronach frontu.",
+               "en": "Almost the entire battle was fought on Polish lands, and Poles fought in it on both sides of the front."}},
+    {"ref": "rosjanie-zdobywaja-lwow",
+     "note": {"pl": "Pierwszy reżim okupacyjny w serii: zajęte ziemie Galicji i Bukowiny przechodzą pod rosyjski zarząd generał-gubernatorstwa z siedzibą we Lwowie.",
+              "en": "The first occupation regime in the series: the occupied lands of Galicia and Bukovina are placed under a Russian governorate-general based in Lemberg."},
+     "quote": {"pl": "Zajęte ziemie Galicji i Bukowiny oddano pod zarząd generał-gubernatorstwa.",
+               "en": "The occupied lands of Galicia and Bukovina were placed under a governorate-general."}},
+    {"ref": "poczatek-oblezenia-przemysla",
+     "note": {"pl": "Zaczyna się pierwsze oblężenie Przemyśla: w okrążeniu zostaje ponad 120 tysięcy żołnierzy i kilkanaście tysięcy cywilów.",
+              "en": "The first siege of Przemyśl begins: more than 120,000 soldiers and over ten thousand civilians are shut in the fortress."},
+     "quote": {"pl": "W jej murach znalazło się ponad 120 tysięcy żołnierzy i kilkanaście tysięcy cywilów.",
+               "en": "Within its walls were more than 120,000 soldiers and over ten thousand civilians."}},
+    {"ref": "bitwy/bitwa-pod-warszawa-i-deblinem",
+     "note": {"pl": "Wojna dochodzi do serca Królestwa Polskiego: dla mieszkańców bitwa oznacza przejście frontu przez ich domy dwa razy w ciągu miesiąca.",
+              "en": "The war reaches the heart of the Kingdom of Poland: for its inhabitants the battle means the front passing through their homes twice within a month."},
+     "quote": {"pl": "Dla mieszkańców Królestwa Polskiego bitwa oznaczała przejście frontu przez ich domy dwa razy w ciągu miesiąca.",
+               "en": "For the inhabitants of the Kingdom of Poland the battle meant the front passing through their homes twice within a month."}},
+    {"ref": "bitwy/bitwa-pod-lodzia",
+     "note": {"pl": "Wielka bitwa manewrowa toczy się wokół Łodzi, a samo miasto jest pod ostrzałem: według milicji ginie w nim 135 cywilów.",
+              "en": "A great battle of manoeuvre is fought around Łódź, and the city itself is shelled: according to the militia, 135 civilians are killed there."},
+     "quote": {"pl": "Według sprawozdania milicji w czasie bitwy zginęło w mieście 135 cywilów, a 99 zostało rannych.",
+               "en": "According to the militia's report, 135 civilians were killed in the city during the battle and 99 wounded."}},
+    {"ref": "bitwy/bitwa-pod-limanowa",
+     "note": {"pl": "Zwycięstwo Austriaków odsuwa Rosjan od Krakowa i ustala front na Dunajcu i Białej, gdzie przetrwa on do przełamania pod Gorlicami.",
+              "en": "The Austrian victory pushes the Russians back from Kraków and fixes the front on the Dunajec and the Biała, where it holds until the breakthrough at Gorlice."},
+     "quote": {"pl": "Front przesunął się o kilkadziesiąt kilometrów na wschód i zatrzymał na linii Dunajca i Białej, gdzie z niewielkimi zmianami przetrwał do maja 1915 roku i przełamania pod Gorlicami.",
+               "en": "The front moved several dozen kilometres east and came to rest on the line of the Dunajec and the Biała, where with minor changes it remained until May 1915 and the breakthrough at Gorlice."}},
+    {"ref": "niemcy-zajmuja-lodz",
+     "note": {"pl": "Jak wyglądała okupacja w praktyce: w Łodzi Niemcy rekwirują wszystko, co przyda się armii i niemieckiemu przemysłowi.",
+              "en": "What occupation meant in practice: in Łódź the Germans requisition everything that might be of use to the army and to German industry."},
+     "quote": {"pl": "Okupanci zaczęli rekwirować wszystko, co mogło się przydać armii i niemieckiemu przemysłowi.",
+               "en": "The occupiers began requisitioning everything that might be of use to the army and to German industry."}},
+    {"ref": "bitwy/walki-nad-rawka-i-bzura",
+     "note": {"pl": "Front zamiera w okopach na zachód od Warszawy; najbardziej cierpi Sochaczew, który przez siedem miesięcy leży na samej linii frontu nad Bzurą.",
+              "en": "The front freezes in trenches west of Warsaw; Sochaczew suffers most, lying for seven months on the very front line on the Bzura."},
+     "quote": {"pl": "Najbardziej ucierpiał Sochaczew, który przez siedem miesięcy leżał na samej linii frontu nad Bzurą.",
+               "en": "Sochaczew suffered most, lying for seven months on the very front line on the Bzura."}},
+    {"ref": "kapitulacja-przemysla",
+     "note": {"pl": "Finał drugiego oblężenia: wygłodzona załoga niszczy umocnienia i poddaje się Rosjanom w jednej z największych kapitulacji tej wojny.",
+              "en": "The end of the second siege: the starving garrison destroys the fortifications and surrenders to the Russians in one of the largest capitulations of the war."},
+     "quote": {"pl": "Po ponad czterech miesiącach drugiego oblężenia, po klęsce odsieczy w Karpatach i nieudanej próbie przebicia się z okrążenia, wygłodzona załoga generała Hermanna Kusmanka von Burgneustädten zniszczyła umocnienia i poddała się Rosjanom. Była to jedna z największych kapitulacji tej wojny",
+               "en": "After more than four months of the second siege, after the failure of the relief offensive in the Carpathians and a failed attempt to break out of the encirclement, the starving garrison of General Hermann Kusmanek von Burgneustädten destroyed the fortifications and surrendered to the Russians. It was one of the largest capitulations of the war"}},
+    {"ref": "bitwy/bitwa-pod-gorlicami",
+     "note": {"pl": "Punkt zwrotny serii: po przełamaniu Rosjanie tracą Przemyśl i Lwów, a latem muszą opuścić całe Królestwo Polskie.",
+              "en": "The turning point of the series: after the breakthrough the Russians lose Przemyśl and Lemberg, and in the summer have to abandon the whole Kingdom of Poland."},
+     "quote": {"pl": "W następnych tygodniach wojska państw centralnych doszły do Sanu, w czerwcu odzyskały Przemyśl i Lwów, a latem Rosjanie musieli opuścić całe Królestwo Polskie.",
+               "en": "In the following weeks the troops of the Central Powers reached the San, in June they recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland."}},
+    {"ref": "austro-wegrzy-odbijaja-lwow",
+     "note": {"pl": "Zamyka wątek z 3 września 1914 roku: Lwów wraca pod władzę Austro-Węgier po rosyjskiej okupacji, która trwała 293 dni.",
+              "en": "It closes the thread of 3 September 1914: Lemberg returns to Austro-Hungarian rule after a Russian occupation that lasted 293 days."},
+     "quote": {"pl": "Tak skończyła się okupacja, która zaczęła się 3 września 1914 roku i trwała 293 dni.",
+               "en": "So ended the occupation that had begun on 3 September 1914 and lasted 293 days."}},
+    {"ref": "koniec-bitwy-pod-biskupicami",
+     "note": {"pl": "Pokazuje, jak wyglądał rosyjski odwrót z Królestwa Polskiego: pustoszenie kraju przed nadejściem przeciwnika i przymusowe wysiedlanie ludności.",
+              "en": "It shows what the Russian retreat from the Kingdom of Poland looked like: the country laid waste before the enemy arrived and the population forcibly deported."},
+     "quote": {"pl": "Pustoszenie kraju przed nadejściem przeciwnika i przymusowe wysiedlanie ludności były w tych tygodniach częścią rosyjskiego odwrotu z Królestwa Polskiego.",
+               "en": "Laying waste to the country before the enemy arrived and forcibly deporting the population were in those weeks part of the Russian retreat from the Kingdom of Poland."}},
+    {"ref": "niemcy-zajmuja-warszawe",
+     "note": {"pl": "Koniec rosyjskiej Warszawy i nowy porządek: Niemcy tworzą Generalne Gubernatorstwo Warszawskie z generałem Beselerem na czele.",
+              "en": "The end of Russian Warsaw and a new order: the Germans create the Government General of Warsaw under General Beseler."},
+     "quote": {"pl": "24 sierpnia utworzyli Generalne Gubernatorstwo Warszawskie, obejmujące zajętą przez nich część Królestwa Polskiego, a jego szefem został generał Hans Hartwig von Beseler, zdobywca Antwerpii.",
+               "en": "On 24 August they created the Government General of Warsaw, covering the part of the Kingdom of Poland they had occupied, and its head became General Hans Hartwig von Beseler, the conqueror of Antwerp."}},
+    {"ref": "niemcy-zajmuja-bialystok",
+     "note": {"pl": "Bieżeństwo z bliska: z Białegostoku wyjeżdża większość prawosławnych mieszkańców, część wielkiej fali uchodźców, która w 1915 roku ogarnęła zachodnie gubernie Rosji.",
+              "en": "Bezhenstvo close up: most of Białystok's Orthodox inhabitants leave, part of the great refugee exodus that swept the western governorates of Russia in 1915."},
+     "quote": {"pl": "Razem z wojskiem i urzędnikami wyjechała większość prawosławnych mieszkańców, wystraszonych oficjalną propagandą o okrucieństwach Niemców. Była to część wielkiej fali bieżeństwa, która ogarnęła w 1915 roku zachodnie gubernie Rosji.",
+               "en": "Together with the army and the officials, most of the Orthodox inhabitants left, frightened by official propaganda about German atrocities. This was part of the great wave of bezhenstvo, the refugee exodus that swept the western governorates of Russia in 1915."}}
+  ]
+}

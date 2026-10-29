@@ -1,0 +1,34 @@
+---
+// "Z serii" in the article and battle sidebars: the themed series
+// (data/series.ts) the page belongs to and its place in it. Smaller screens
+// get SeriesBox under the text instead.
+import type { Lang } from "@/i18n"
+import { seriesOf } from "@/utils/series"
+
+interface Props {
+  // Polish id: a timeline slug, or "bitwy/<slug>" for a battle page.
+  ref: string
+  lang?: Lang
+}
+
+const { ref, lang = "pl" } = Astro.props
+const found = await seriesOf(ref, lang)
+const t = {
+  pl: { series: "Z serii", part: (i: number, n: number) => `część ${i} z ${n}` },
+  en: { series: "From the series", part: (i: number, n: number) => `part ${i} of ${n}` },
+}[lang]
+---
+
+{
+  found.map(({ series, index }) => (
+    <div class="border-line border-t pt-5">
+      <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">
+        {t.series}
+        {index >= 0 && ` · ${t.part(index + 1, series.steps.length)}`}
+      </p>
+      <a href={series.href} class="font-display text-ink hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+        {series.title} →
+      </a>
+    </div>
+  ))
+}

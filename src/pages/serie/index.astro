@@ -1,0 +1,35 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import SeriesCards from "@/components/SeriesCards.astro"
+import { paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { allSeries } from "@/utils/series"
+
+const description =
+  "Wybrane wątki I wojny światowej jako serie artykułów do czytania po kolei: lato 1914, Legiony Polskie, droga do niepodległości, wojna na ziemiach polskich, Verdun, Somma, Rosja 1917 i ostatni rok wojny."
+const series = await allSeries("pl")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: paths("pl").series,
+  name: "Serie",
+  description,
+  items: series.map((item) => item.href),
+})
+---
+
+<BaseLayout title="Serie artykułów" description={description} alternates={{ en: paths("en").series }} jsonLd={jsonLd}>
+  <section class="mx-auto max-w-6xl px-6 pt-16 sm:pt-24">
+    <SectionHeading eyebrow="Serie" count={series.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
+      Wybrane wątki wojny, tekst po tekście.
+    </p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+      Każda seria to artykuły z kroniki ułożone w kolejności, w jakiej warto je czytać, z krótkim wstępem i osią
+      czasu.
+    </p>
+  </section>
+  <div class="pt-10 pb-24">
+    <SeriesCards />
+  </div>
+</BaseLayout>

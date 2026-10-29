@@ -13,6 +13,7 @@ import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
+import SeriesBox from "@/components/SeriesBox.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
 import { formatDate } from "@/utils/formatDate"
@@ -208,6 +209,9 @@ const glossaryTerms = termsIn(entry.body ?? "", "en", source.id)
             <PersonPreviews body={entry.body ?? ""} lang="en" />
           </div>
 
+          <div class="lg:hidden">
+            <SeriesBox ref={source.id} lang="en" />
+          </div>
           <Sources sources={source.data.sources} lang="en" />
           <ReportError title={title} lang="en" />
           <div class="lg:hidden">
@@ -249,6 +253,7 @@ const glossaryTerms = termsIn(entry.body ?? "", "en", source.id)
         <ArticleSidebar
           class="pt-10"
           lang="en"
+          id={source.id}
           date={date}
           body={entry.body ?? ""}
           battleId={battle?.id}

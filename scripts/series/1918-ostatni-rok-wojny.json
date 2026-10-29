@@ -1,0 +1,148 @@
+{
+  "slug": "1918-ostatni-rok-wojny",
+  "slugEn": "1918-the-last-year",
+  "title": "1918: ostatni rok wojny",
+  "titleEn": "1918: The Last Year of the War",
+  "lead": "Od ofensywy wiosennej po rozejm w Compiègne: jak państwa centralne przegrały wojnę.",
+  "leadEn": "From the spring offensive to Compiègne: how the Central Powers lost the war.",
+  "intro": [
+    {"text": "Po wyjściu Rosji z wojny Niemcy przerzucili dywizje na zachód i wiosną 1918 roku w kolejnych ofensywach próbowali rozstrzygnąć wojnę przed przybyciem Amerykanów.",
+     "quotes": [
+       {"file": "src/content/battles/1918/operacja-michael.md", "quote": "Po wyjściu Rosji z wojny Niemcy przerzucili na zachód dywizje ze wschodu."},
+       {"file": "src/content/battles/1918/operacja-michael.md", "quote": "Operacja Michael, trwająca od 21 marca do 5 kwietnia 1918 roku, była pierwszą i największą z niemieckich ofensyw wiosennych, którymi Ludendorff chciał rozstrzygnąć wojnę przed przybyciem Amerykanów."}
+     ]},
+    {"text": "Doszli aż nad Marnę, ale w lipcu kontrofensywa Focha wyparła ich z występu, a inicjatywa na froncie zachodnim przeszła w ręce sprzymierzonych.",
+     "quotes": [
+       {"file": "src/content/battles/1918/trzecia-bitwa-nad-aisne.md", "quote": "Niemcy zajęli Soissons, a 30 maja doszli do Marny."},
+       {"file": "src/content/battles/1918/druga-bitwa-nad-marna.md", "quote": "15 lipca – 6 sierpnia 1918 ostatnia niemiecka ofensywa nad Marną załamała się, a kontrofensywa Focha wyparła Niemców z występu między Soissons a Reims."},
+       {"file": "src/content/battles/1918/druga-bitwa-nad-marna.md", "quote": "Inicjatywa na froncie zachodnim przeszła w ich ręce do końca wojny."}
+     ]},
+    {"text": "Bitwa pod Amiens otworzyła ofensywę stu dni, a klęska na Linii Hindenburga przyczyniła się do tego, że Ludendorff zażądał rozejmu.",
+     "quotes": [
+       {"file": "src/content/battles/1918/bitwa-pod-amiens.md", "quote": "Bitwa otworzyła ofensywę stu dni, w której sprzymierzeni nie zatrzymali się aż do rozejmu."},
+       {"file": "src/content/battles/1918/bitwy-o-linie-hindenburga.md", "quote": "Klęska na tej pozycji była jedną z przyczyn, dla których 29 września Ludendorff zażądał natychmiastowego rozejmu."}
+     ]},
+    {"text": "Jesienią z wojny wychodziły kolejno Bułgaria, Turcja i Austro-Węgry.",
+     "quotes": [
+       {"file": "src/content/timeline/1918/09/rozejm-w-salonikach.md", "quote": "Bułgaria jako pierwsza z państw centralnych wyszła z wojny"},
+       {"file": "src/content/timeline/1918/10/rozejm-w-mudros.md", "quote": "Turcja jako druga z państw centralnych wyszła z wojny"},
+       {"file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md", "quote": "a monarchia Habsburgów wyszła z wojny"}
+     ]},
+    {"text": "Seria prowadzi od operacji Michael przez drugą bitwę nad Marną, Amiens i Linię Hindenburga, rozejmy Bułgarii, Turcji i Austro-Węgier oraz rewolucję w Niemczech po rozejm w Compiègne.",
+     "quotes": [
+       {"file": "src/content/timeline/1918/11/bunt-w-kilonii.md", "quote": "Plan ostatniej bitwy, który miał ocalić honor floty, doprowadził do rewolucji listopadowej i upadku cesarstwa."},
+       {"file": "src/content/timeline/1918/11/rozejm-w-compiegne.md", "quote": "Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą"}
+     ]}
+  ],
+  "introEn": [
+    {"text": "With Russia leaving the war, Germany moved divisions west and in the spring of 1918 tried, in one offensive after another, to decide the war before the Americans arrived.",
+     "quotes": [
+       {"file": "src/content/en/battles/operation-michael.md", "quote": "With Russia leaving the war, Germany moved divisions west from the east."},
+       {"file": "src/content/en/battles/operation-michael.md", "quote": "Operation Michael, from 21 March to 5 April 1918, was the first and largest of the German spring offensives, with which Ludendorff hoped to decide the war before the Americans arrived."}
+     ]},
+    {"text": "The Germans got as far as the Marne, but in July Foch's counter-offensive drove them from the salient, and the initiative on the Western Front passed to the Allies.",
+     "quotes": [
+       {"file": "src/content/en/battles/third-battle-of-the-aisne.md", "quote": "The Germans took Soissons and on 30 May reached the Marne."},
+       {"file": "src/content/en/battles/second-battle-of-the-marne.md", "quote": "From 15 July to 6 August 1918 the last German offensive on the Marne collapsed, and Foch's counter-offensive drove the Germans from the Soissons–Reims salient."},
+       {"file": "src/content/en/battles/second-battle-of-the-marne.md", "quote": "The initiative on the Western Front passed to them until the end of the war."}
+     ]},
+    {"text": "The Battle of Amiens opened the Hundred Days Offensive, and the defeat on the Hindenburg Line helped push Ludendorff to demand an armistice.",
+     "quotes": [
+       {"file": "src/content/en/battles/battle-of-amiens.md", "quote": "The battle opened the Hundred Days Offensive, in which the Allies did not halt until the armistice."},
+       {"file": "src/content/en/battles/battles-of-the-hindenburg-line.md", "quote": "The defeat on this position was one of the reasons why on 29 September Ludendorff demanded an immediate armistice."}
+     ]},
+    {"text": "In the autumn Bulgaria, Turkey and Austria-Hungary left the war one after another.",
+     "quotes": [
+       {"file": "src/content/en/timeline/armistice-of-salonica.md", "quote": "Bulgaria was the first of the Central Powers to leave the war"},
+       {"file": "src/content/en/timeline/armistice-of-mudros.md", "quote": "Turkey became the second of the Central Powers to leave the war"},
+       {"file": "src/content/en/timeline/armistice-of-villa-giusti.md", "quote": "the Habsburg monarchy left the war"}
+     ]},
+    {"text": "The series runs from Operation Michael through the Second Battle of the Marne, Amiens and the Hindenburg Line, the armistices with Bulgaria, Turkey and Austria-Hungary and the revolution in Germany to the Armistice of Compiègne.",
+     "quotes": [
+       {"file": "src/content/en/timeline/kiel-mutiny.md", "quote": "The plan for a last battle, meant to save the honour of the fleet, led to the November Revolution and the fall of the empire."},
+       {"file": "src/content/en/timeline/armistice-of-compiegne.md", "quote": "Germany signed an armistice with the Entente in Foch's railway carriage in the Forest of Compiègne"}
+     ]}
+  ],
+  "steps": [
+    {"ref": "bitwy/operacja-michael",
+     "note": {"pl": "Otwiera serię: pierwsza i największa z ofensyw wiosennych, którymi Ludendorff chciał rozstrzygnąć wojnę, zanim na front dotrą Amerykanie.",
+              "en": "It opens the series: the first and largest of the spring offensives, with which Ludendorff hoped to decide the war before the Americans arrived."},
+     "quote": {"pl": "była pierwszą i największą z niemieckich ofensyw wiosennych, którymi Ludendorff chciał rozstrzygnąć wojnę przed przybyciem Amerykanów",
+               "en": "was the first and largest of the German spring offensives, with which Ludendorff hoped to decide the war before the Americans arrived"}},
+    {"ref": "konferencja-w-doullens",
+     "note": {"pl": "Odpowiedź sprzymierzonych na przełamanie frontu: po raz pierwszy wojska brytyjskie i francuskie we Francji miały nad sobą jednego człowieka. Foch na razie tylko koordynował, nie rozkazywał.",
+              "en": "The Allied answer to the breakthrough: for the first time the British and French forces in France had one man above them. For now Foch could only coordinate, not issue orders."},
+     "quote": {"pl": "Po raz pierwszy wojska brytyjskie i francuskie we Francji miały nad sobą jednego człowieka, choć Foch mógł tylko koordynować, a nie rozkazywać.",
+               "en": "For the first time the British and French forces in France had one man above them, though Foch could only coordinate, not issue orders."}},
+    {"ref": "bitwy/bitwa-nad-lys-1918",
+     "note": {"pl": "Druga ofensywa wiosenna, tym razem we Flandrii: Niemcy rozbili Portugalczyków i zdobyli Kemmel, ale znów nie osiągnęli celu, Hazebrouck i portów nad La Manche.",
+              "en": "The second spring offensive, this time in Flanders: the Germans routed the Portuguese and took Kemmel, but again fell short of their goal, Hazebrouck and the Channel ports."},
+     "quote": {"pl": "Niemcy uderzyli we Flandrii, rozbili Portugalczyków i zdobyli Kemmel, ale nie przebili się do Hazebrouck ani do portów nad La Manche.",
+               "en": "the Germans struck in Flanders, routed the Portuguese and took Kemmel, but failed to break through to Hazebrouck or the Channel ports"}},
+    {"ref": "bitwy/trzecia-bitwa-nad-aisne",
+     "note": {"pl": "Największe zaskoczenie wiosny i marsz nad Marnę okazały się dla Niemców pułapką: utknęli w trudnym do zaopatrzenia występie i zużyli dywizje przeznaczone do uderzenia we Flandrii.",
+              "en": "The spring's greatest surprise and the march to the Marne proved a trap for the Germans: they were stuck in a salient hard to supply and used up the divisions meant for Flanders."},
+     "quote": {"pl": "Zwycięstwo okazało się dla Niemców pułapką: utknęli w głębokim, trudnym do zaopatrzenia występie i zużyli dywizje przygotowane do decydującego uderzenia we Flandrii.",
+               "en": "Victory proved a trap for the Germans: they were stuck in a deep salient that was hard to supply, and used up the divisions prepared for the decisive blow in Flanders."}},
+    {"ref": "bitwy/druga-bitwa-nad-marna",
+     "note": {"pl": "Punkt zwrotny roku: ostatnia niemiecka ofensywa załamała się, a kontrofensywa Focha była pierwszym wielkim zwycięstwem sprzymierzonych. Ludendorff musiał przejść do obrony.",
+              "en": "The turning point of the year: the last German offensive collapsed, and Foch's counter-offensive was the first great Allied victory. Ludendorff had to go over to the defensive."},
+     "quote": {"pl": "Bitwa była pierwszym wielkim zwycięstwem sprzymierzonych i zwrotem wojny na zachodzie: Ludendorff musiał porzucić ofensywę we Flandrii i przejść do obrony.",
+               "en": "The battle was the first great Allied victory and the turn of the war in the west: Ludendorff had to give up the offensive in Flanders and go over to the defensive."}},
+    {"ref": "bitwy/bitwa-pod-amiens",
+     "note": {"pl": "„Czarny dzień armii niemieckiej”: po tym uderzeniu Ludendorff przestał myśleć o ofensywie, a sprzymierzeni zaczęli ofensywę stu dni, w której nie zatrzymali się aż do rozejmu.",
+              "en": "After this blow Ludendorff concluded that a new offensive was no longer conceivable, and the Allies began the Hundred Days Offensive, in which they did not halt until the armistice."},
+     "quote": {"pl": "Ludendorff nazwał 8 sierpnia „czarnym dniem armii niemieckiej” i uznał, że o nowej ofensywie nie można już myśleć. Bitwa otworzyła ofensywę stu dni, w której sprzymierzeni nie zatrzymali się aż do rozejmu.",
+               "en": "concluded that a new offensive was no longer conceivable. The battle opened the Hundred Days Offensive, in which the Allies did not halt until the armistice."}},
+    {"ref": "bitwy/bitwy-o-linie-hindenburga",
+     "note": {"pl": "Przełamanie najsilniejszej niemieckiej pozycji przesądziło, że wojna skończy się w 1918 roku, a nie w 1919.",
+              "en": "Breaking the strongest German line settled that the war would end in 1918 and not in 1919."},
+     "quote": {"pl": "Bitwy przesądziły, że wojna skończy się w 1918 roku, a nie w 1919.",
+               "en": "The battles settled that the war would end in 1918 and not in 1919."}},
+    {"ref": "ludendorff-zada-rozejmu",
+     "note": {"pl": "Moment, w którym niemieckie naczelne dowództwo samo przyznało, że wojny nie da się prowadzić dalej i Niemcy muszą natychmiast poprosić o rozejm.",
+              "en": "The moment the German Supreme Army Command itself admitted that the war could no longer be continued and that Germany must immediately ask for an armistice."},
+     "quote": {"pl": "Hindenburg i Ludendorff oznajmili cesarzowi i ministrowi spraw zagranicznych, że wojny nie da się prowadzić dalej i Niemcy muszą natychmiast poprosić o rozejm.",
+               "en": "told the Kaiser and the foreign secretary that the war could no longer be continued and that Germany must immediately ask for an armistice."}},
+    {"ref": "rozejm-w-salonikach",
+     "note": {"pl": "Pierwsze z państw centralnych wychodzi z wojny. Kapitulacja Bułgarii odcięła Imperium Osmańskie od Niemiec i odsłoniła Austro-Węgry.",
+              "en": "The first of the Central Powers leaves the war, cutting the Ottoman Empire off from Germany and exposing Austria-Hungary."},
+     "quote": {"pl": "Bułgaria jako pierwsza z państw centralnych wyszła z wojny, co odcięło Imperium Osmańskie od Niemiec i odsłoniło Austro-Węgry.",
+               "en": "Bulgaria was the first of the Central Powers to leave the war, cutting the Ottoman Empire off from Germany and exposing Austria-Hungary."}},
+    {"ref": "noty-pokojowe-do-wilsona",
+     "note": {"pl": "Pierwszy krok do rozejmu: Berlin i Wiedeń proszą Wilsona o rokowania na podstawie czternastu punktów, co otwiera trwającą cały październik wymianę not.",
+              "en": "The first step towards the armistice: Berlin and Vienna ask Wilson for talks based on the Fourteen Points, opening an exchange of notes that lasted the whole of October."},
+     "quote": {"pl": "zapoczątkowała trwającą cały październik wymianę not i stała się pierwszym krokiem do rozejmu z 11 listopada.",
+               "en": "it opened an exchange of notes lasting the whole of October and became the first step towards the armistice of 11 November."}},
+    {"ref": "bitwy/bitwa-pod-vittorio-veneto",
+     "note": {"pl": "Ostatnia bitwa armii austro-węgierskiej: Austro-Węgry weszły w nią jako jedno państwo, a wyszły z niej jako kilka nowych państw.",
+              "en": "The last battle of the Austro-Hungarian army: Austria-Hungary entered it as one state and came out of it as several new states."},
+     "quote": {"pl": "Austro-Węgry, które weszły w bitwę jako jedno państwo, wyszły z niej jako kilka nowych państw.",
+               "en": "Austria-Hungary, which had entered the battle as one state, came out of it as several new states."}},
+    {"ref": "rozejm-w-mudros",
+     "note": {"pl": "Turcja jako druga z państw centralnych wychodzi z wojny, a rozejm otwiera drogę do podziału imperium.",
+              "en": "Turkey becomes the second of the Central Powers to leave the war, and the armistice opens the way to the partition of the empire."},
+     "quote": {"pl": "Turcja jako druga z państw centralnych wyszła z wojny. Rozejm otworzył drogę do podziału imperium.",
+               "en": "Turkey became the second of the Central Powers to leave the war. The armistice opened the way to the partition of the empire."}},
+    {"ref": "bunt-w-kilonii",
+     "note": {"pl": "Iskra rewolucji: plan ostatniej bitwy, który miał ocalić honor floty, wywołał bunt marynarzy, a ten doprowadził do rewolucji listopadowej i upadku cesarstwa.",
+              "en": "The spark of the revolution: a plan for a last battle to save the fleet's honour provoked a sailors' mutiny that led to the November Revolution and the fall of the empire."},
+     "quote": {"pl": "Plan ostatniej bitwy, który miał ocalić honor floty, doprowadził do rewolucji listopadowej i upadku cesarstwa.",
+               "en": "The plan for a last battle, meant to save the honour of the fleet, led to the November Revolution and the fall of the empire."}},
+    {"ref": "rozejm-w-villa-giusti",
+     "note": {"pl": "Habsburgowie wychodzą z wojny: Austro-Węgry podpisują rozejm jako państwo w stanie rozpadu, a ich armia cofa się w nieładzie.",
+              "en": "The Habsburgs leave the war: Austria-Hungary signs the armistice as a state in dissolution, its army retreating in disorder."},
+     "quote": {"pl": "Austro-Węgry wychodziły z wojny jako państwo w stanie rozpadu, a ich armia cofała się w nieładzie.",
+               "en": "Austria-Hungary was leaving the war as a state in dissolution, its army retreating in disorder."}},
+    {"ref": "rewolucja-w-berlinie",
+     "note": {"pl": "Rewolucja dociera do Berlina i obala cesarstwo: kanclerz ogłasza abdykację cesarza i oddaje władzę Ebertowi, a Scheidemann proklamuje republikę.",
+              "en": "The revolution reaches Berlin and brings down the empire: the chancellor announces the Kaiser's abdication and hands power to Ebert, and Scheidemann proclaims a republic."},
+     "quote": {"pl": "rewolucja dotarła do Berlina. Kanclerz ogłosił abdykację cesarza i oddał władzę Ebertowi, a Scheidemann proklamował republikę.",
+               "en": "the revolution reached Berlin. The chancellor announced the Kaiser's abdication and handed power to Ebert; Scheidemann proclaimed a republic."}},
+    {"ref": "rozejm-w-compiegne",
+     "note": {"pl": "Ostatni krok: rozejm nie kończył formalnie wojny, ale odbierał Niemcom możliwość jej wznowienia, a 11 listopada stał się dniem pamięci o poległych.",
+              "en": "The last step: the armistice did not formally end the war, but it deprived Germany of the ability to resume it, and 11 November became a day of remembrance for the fallen."},
+     "quote": {"pl": "Rozejm nie kończył formalnie wojny, ale odbierał Niemcom możliwość jej wznowienia. Stan wojny zakończył dopiero traktat wersalski, a 11 listopada stał się dniem pamięci o poległych.",
+               "en": "The armistice did not formally end the war, but it deprived Germany of the ability to resume it. The state of war was ended only by the Treaty of Versailles, and 11 November became a day of remembrance for the fallen."}}
+  ]
+}

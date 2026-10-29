@@ -85,6 +85,8 @@ export function paths(lang: Lang) {
     // Anchor of a front on the battles page.
     frontAnchor: (name: string) => slugify(en ? frontEn(name) : name),
     people: en ? "/en/people" : "/postacie",
+    series: en ? "/en/series" : "/serie",
+    seriesPage: (slug: string) => (en ? `/en/series/${slug}` : `/serie/${slug}`),
     search: en ? "/en/search" : "/szukaj",
     // Folder of the homepage calendar files (utils/calendarPool.ts).
     leaves: en ? "/en/kartki" : "/kartki",

@@ -8,6 +8,7 @@ import RandomBattles from "@/components/RandomBattles.astro"
 import RandomEvents from "@/components/RandomEvents.astro"
 import RandomPeople from "@/components/RandomPeople.astro"
 import ReadingPath from "@/components/ReadingPath.astro"
+import SeriesCards from "@/components/SeriesCards.astro"
 import Search from "@/components/Search.astro"
 import SupportBand from "@/components/SupportBand.astro"
 import SupportCard from "@/components/SupportCard.astro"
@@ -20,6 +21,7 @@ import {
   TURNING_POINTS,
   WAR_YEARS,
 } from "@/data/homepage"
+import { SERIES } from "@/data/series"
 import { type Lang } from "@/i18n"
 import { localBattles, localEvents, paths } from "@/i18n/local"
 import { SITE } from "@/site.config"
@@ -159,7 +161,10 @@ const t = {
 
   <div class="grid gap-x-16 gap-y-20 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,1fr)]">
     {POLISH_THREAD.length > 0 && <PolishThread lang={lang} />}
-    {allBattles.length > 0 && <RandomBattles lang={lang} />}
+    <div class="space-y-20">
+      {SERIES.length > 0 && <SeriesCards lang={lang} section compact />}
+      {allBattles.length > 0 && <RandomBattles lang={lang} />}
+    </div>
   </div>
 
   {allTimeline.length > 0 && <RandomEvents lang={lang} />}

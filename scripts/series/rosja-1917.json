@@ -1,0 +1,339 @@
+{
+ "slug": "rosja-1917",
+ "slugEn": "russia-1917",
+ "title": "Rosja 1917",
+ "titleEn": "Russia 1917",
+ "lead": "Od upadku caratu przez przewrót bolszewicki po pokój brzeski.",
+ "leadEn": "From the fall of tsarism through the Bolshevik coup to the peace of Brest.",
+ "intro": [
+  {
+   "text": "W marcu 1917 roku zbuntował się garnizon Piotrogrodu, car zrzekł się tronu, a władzę objął Rząd Tymczasowy, który musiał dzielić ją z radami.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "12 marca 1917 roku, w poniedziałek, w Piotrogrodzie zbuntowały się wojska garnizonu."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Trzy dni później Mikołaj II zrzekł się tronu, a władzę objął Rząd Tymczasowy."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Tak zrodziła się „dwuwładza”, która miała określać losy Rosji przez następne miesiące."
+    }
+   ]
+  },
+  {
+   "text": "Nieudana ofensywa Kiereńskiego i sprawa Korniłowa podkopały ten rząd, a największymi wygranymi okazali się bolszewicy, którzy w listopadzie przejęli władzę.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "Mało który historyk wątpi dziś, że nieudana ofensywa była jednym z gwoździ do trumny Rządu Tymczasowego."
+    },
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "Największymi wygranymi okazali się bolszewicy."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "7 listopada 1917 roku (25 października według kalendarza juliańskiego) bolszewicy przejęli władzę w Piotrogrodzie."
+    }
+   ]
+  },
+  {
+   "text": "Lenin zawarł z państwami centralnymi rozejm, a po niemieckiej ofensywie przyjął w Brześciu pokój podyktowany siłą.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-faustschlag.md",
+     "quote": "Operacja Faustschlag przekształciła nieudane rokowania w pokój dyktowany."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Rosja wyszła z wojny na warunkach podyktowanych jej siłą."
+    }
+   ]
+  },
+  {
+   "text": "Na wschodzie skończyła się wojna, a Niemcy mogli przerzucać dywizje na zachód.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Na wschodzie zakończyła się tego dnia wojna"
+    },
+    {
+     "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+     "quote": "W ciągu następnych tygodni mogli przerzucać na zachód kolejne dywizje i przygotowywać wielką ofensywę wiosenną."
+    }
+   ]
+  },
+  {
+   "text": "Seria prowadzi od rewolucji lutowej przez dni lipcowe, pucz Korniłowa i przewrót bolszewicki po traktat brzeski i bunt Legionu Czechosłowackiego, jeden z punktów zwrotnych wojny domowej.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "Bunt legionu, który chciał tylko wyjechać z Rosji, stał się jednym z punktów zwrotnych wojny domowej."
+    }
+   ]
+  }
+ ],
+ "introEn": [
+  {
+   "text": "In March 1917 the Petrograd garrison mutinied, the Tsar renounced the throne and power passed to the Provisional Government, which had to share it with the soviets.",
+   "quotes": [
+    {
+     "file": "src/content/en/timeline/february-revolution.md",
+     "quote": "On Monday 12 March 1917 the garrison troops in Petrograd mutinied."
+    },
+    {
+     "file": "src/content/en/timeline/february-revolution.md",
+     "quote": "Three days later Nicholas II renounced the throne and power passed to the Provisional Government."
+    },
+    {
+     "file": "src/content/en/timeline/february-revolution.md",
+     "quote": "Thus was born the \"dual power\" that was to shape Russia's fate over the following months."
+    }
+   ]
+  },
+  {
+   "text": "The failed Kerensky Offensive and the Kornilov affair undermined that government, and the biggest winners were the Bolsheviks, who seized power in November.",
+   "quotes": [
+    {
+     "file": "src/content/en/battles/kerensky-offensive.md",
+     "quote": "Few historians today doubt that the failed offensive was one of the nails in the coffin of the Provisional Government."
+    },
+    {
+     "file": "src/content/en/timeline/collapse-of-the-kornilov-affair.md",
+     "quote": "The biggest winners turned out to be the Bolsheviks."
+    },
+    {
+     "file": "src/content/en/timeline/october-revolution.md",
+     "quote": "On 7 November 1917 (25 October in the Julian calendar) the Bolsheviks seized power in Petrograd."
+    }
+   ]
+  },
+  {
+   "text": "Lenin concluded an armistice with the Central Powers, and after a German offensive accepted at Brest a peace dictated by force.",
+   "quotes": [
+    {
+     "file": "src/content/en/battles/operation-faustschlag.md",
+     "quote": "Operation Faustschlag turned failed negotiations into a dictated peace."
+    },
+    {
+     "file": "src/content/en/timeline/treaty-of-brest-litovsk.md",
+     "quote": "Russia left the war on terms dictated to it by force."
+    }
+   ]
+  },
+  {
+   "text": "The war in the east was over, and Germany could move divisions to the west.",
+   "quotes": [
+    {
+     "file": "src/content/en/timeline/treaty-of-brest-litovsk.md",
+     "quote": "That day the war in the east, which since August 1914 had claimed millions of victims, came to an end."
+    },
+    {
+     "file": "src/content/en/timeline/armistice-of-brest-litovsk.md",
+     "quote": "In the following weeks they could transfer more and more divisions to the West and prepare the great spring offensive."
+    }
+   ]
+  },
+  {
+   "text": "The series runs from the February Revolution through the July Days, the Kornilov affair and the Bolshevik coup to the Treaty of Brest-Litovsk and the revolt of the Czechoslovak Legion, one of the turning points of the civil war.",
+   "quotes": [
+    {
+     "file": "src/content/en/timeline/revolt-of-the-czechoslovak-legion.md",
+     "quote": "The revolt of a legion that only wanted to leave Russia became one of the turning points of the civil war."
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "ref": "rewolucja-lutowa",
+   "note": {
+    "pl": "Punkt wyjścia serii: bunt garnizonu kończy władzę cara w stolicy, a w Pałacu Taurydzkim rodzi się „dwuwładza” Dumy i Rady, która określi następne miesiące.",
+    "en": "The starting point of the series: the garrison's mutiny ends tsarist rule in the capital, and in the Tauride Palace the \"dual power\" of Duma and Soviet is born, shaping the months ahead."
+   },
+   "quote": {
+    "pl": "Tak zrodziła się „dwuwładza”, która miała określać losy Rosji przez następne miesiące.",
+    "en": "Thus was born the \"dual power\" that was to shape Russia's fate over the following months."
+   }
+  },
+  {
+   "ref": "abdykacja-mikolaja-ii",
+   "note": {
+    "pl": "Koniec monarchii: cara skłaniają do abdykacji nie rewolucjoniści, lecz jego własni generałowie, przekonani, że tylko tak opanują rewolucję i dalej poprowadzą wojnę.",
+    "en": "The end of the monarchy: the Tsar is brought to abdicate not by revolutionaries but by his own generals, convinced that only this will master the revolution and keep the war going."
+   },
+   "quote": {
+    "pl": "Do decyzji skłonili go nie rewolucjoniści, lecz jego własni generałowie, którzy uznali, że tylko odejście cesarza pozwoli opanować rewolucję w stolicy i dalej prowadzić wojnę.",
+    "en": "He was brought to this decision not by revolutionaries but by his own generals, who had concluded that only the Emperor's departure would make it possible to master the revolution in the capital and go on fighting the war."
+   }
+  },
+  {
+   "ref": "lenin-wraca-do-piotrogrodu",
+   "note": {
+    "pl": "Na scenę wchodzi Lenin: Niemcy przewożą go przez swoje terytorium, licząc, że ten nieprzejednany przeciwnik wojny osłabi Rosję od środka.",
+    "en": "Lenin enters the stage: the Germans carry him across their territory, hoping that this implacable opponent of the war will weaken Russia from within."
+   },
+   "quote": {
+    "pl": "Niemcy liczyli, że jeden z najbardziej nieprzejednanych przeciwników wojny osłabi Rosję od środka.",
+    "en": "The Germans hoped that one of the most implacable opponents of the war would weaken Russia from within."
+   }
+  },
+  {
+   "ref": "bitwy/ofensywa-kierenskiego",
+   "note": {
+    "pl": "Ostatnia ofensywa armii rosyjskiej miała wzmocnić rewolucyjną Rosję, a stała się jednym z gwoździ do trumny Rządu Tymczasowego.",
+    "en": "The Russian army's last offensive was meant to strengthen revolutionary Russia, and became instead one of the nails in the coffin of the Provisional Government."
+   },
+   "quote": {
+    "pl": "Mało który historyk wątpi dziś, że nieudana ofensywa była jednym z gwoździ do trumny Rządu Tymczasowego.",
+    "en": "Few historians today doubt that the failed offensive was one of the nails in the coffin of the Provisional Government."
+   }
+  },
+  {
+   "ref": "dni-lipcowe-w-piotrogrodzie",
+   "note": {
+    "pl": "Zbrojny zryw w stolicy kończy się porażką bolszewików, ale Lenin wyciąga z niego wniosek, że władzę trzeba zdobyć zbrojnym powstaniem.",
+    "en": "The armed rising in the capital ends in defeat for the Bolsheviks, but Lenin draws the lesson that power must be taken by an armed rising."
+   },
+   "quote": {
+    "pl": "Lenin wyciągnął z lipca wniosek, że władzy nie da się już przejąć pokojowo przez rady, w których przewagę mają umiarkowani socjaliści, i że trzeba przygotować zbrojne powstanie.",
+    "en": "Lenin drew the lesson from July that power could no longer be taken peacefully through soviets dominated by moderate socialists, and that an armed rising had to be prepared."
+   }
+  },
+  {
+   "ref": "upadek-tarnopola-i-stanislawowa",
+   "note": {
+    "pl": "Klęska letniego natarcia: armia cofa się w nieładzie, a z Tarnopolem i Stanisławowem przepadają wszystkie zdobycze ofensywy Brusiłowa i ofensywy Kiereńskiego.",
+    "en": "The summer offensive ends in defeat: the army retreats in disorder, and with Tarnopol and Stanislau all the gains of the Brusilov and Kerensky offensives are lost."
+   },
+   "quote": {
+    "pl": "Utrata obu miast oznaczała, że wszystkie zdobycze ofensywy Brusiłowa i letniego natarcia z 1917 roku przepadły.",
+    "en": "The loss of both towns meant that all the gains of the Brusilov offensive and of the summer offensive of 1917 had been lost."
+   }
+  },
+  {
+   "ref": "bitwy/bitwa-o-ryge",
+   "note": {
+    "pl": "Upadek Rygi budzi w Piotrogrodzie strach przed marszem Niemców na stolicę, a kilka dni później spór Korniłowa z Kiereńskim przeradza się w sprawę Korniłowa.",
+    "en": "The fall of Riga raises fears in Petrograd of a German march on the capital, and a few days later the quarrel between Kornilov and Kerensky turns into the Kornilov affair."
+   },
+   "quote": {
+    "pl": "Kilka dni po bitwie spór naczelnego wodza z premierem Aleksandrem Kiereńskim przerodził się w sprawę Korniłowa.",
+    "en": "A few days after the battle the dispute between the commander-in-chief and the Prime Minister, Alexander Kerensky, turned into the Kornilov affair."
+   }
+  },
+  {
+   "ref": "pucz-kornilowa",
+   "note": {
+    "pl": "Punkt zwrotny rewolucji: Kiereński bierze słowa przywiezione z Mohylewa za ultimatum, widzi spisek i w nocy odwołuje naczelnego wodza.",
+    "en": "A turning point of the revolution: Kerensky takes the message brought from Mogilev for an ultimatum, sees a conspiracy and dismisses the commander-in-chief during the night."
+   },
+   "quote": {
+    "pl": "Tego samego wieczoru premier, przekonany, że ma do czynienia ze spiskiem, kazał aresztować Lwowa, a w nocy odwołał Korniłowa ze stanowiska.",
+    "en": "That same evening the premier, convinced that he was dealing with a conspiracy, had Lvov arrested, and during the night he dismissed Kornilov from his post."
+   }
+  },
+  {
+   "ref": "upadek-puczu-kornilowa",
+   "note": {
+    "pl": "Z obrony stolicy przed Korniłowem największą korzyść wynoszą bolszewicy, a Czerwona Gwardia zachowuje broń wydaną do tej walki.",
+    "en": "The Bolsheviks gain most from the defence of the capital against Kornilov, and the Red Guard keeps the weapons issued for the fight."
+   },
+   "quote": {
+    "pl": "Największymi wygranymi okazali się bolszewicy. To oni najskuteczniej organizowali obronę stolicy, a Czerwona Gwardia zachowała broń wydaną do walki z Korniłowem.",
+    "en": "The biggest winners turned out to be the Bolsheviks. It was they who had organised the defence of the capital most effectively, and the Red Guard kept the weapons issued for the fight against Kornilov."
+   }
+  },
+  {
+   "ref": "rewolucja-pazdziernikowa",
+   "note": {
+    "pl": "Przewrót bolszewicki: oddziały Rady Piotrogrodzkiej niemal bez walki zajmują najważniejsze punkty stolicy, a ich komitet ogłasza obalenie Rządu Tymczasowego.",
+    "en": "The Bolshevik coup: the Petrograd Soviet's units take the key points of the capital almost without a fight, and their committee announces that the Provisional Government is overthrown."
+   },
+   "quote": {
+    "pl": "O dziesiątej rano komitet ogłosił, że Rząd Tymczasowy został obalony.",
+    "en": "At ten in the morning the committee announced that the Provisional Government had been overthrown."
+   }
+  },
+  {
+   "ref": "powstanie-rady-komisarzy-ludowych",
+   "note": {
+    "pl": "Nowa władza dostaje rząd Lenina i dekret o pokoju, który ten traktuje poważnie – od Smolnego prowadzi prosta droga do rokowań w Brześciu.",
+    "en": "The new regime gets Lenin's government and the Decree on Peace, which he takes seriously: the road from the Smolny leads straight to the talks at Brest-Litovsk."
+   },
+   "quote": {
+    "pl": "Droga, która rozpoczęła się w Smolnym, prowadziła do rokowań z państwami centralnymi w Brześciu Litewskim.",
+    "en": "The road that began at the Smolny led to negotiations with the Central Powers at Brest-Litovsk."
+   }
+  },
+  {
+   "ref": "rozejm-w-brzesciu",
+   "note": {
+    "pl": "Front wschodni milknie, a dla Niemców rozejm jest wielkim zwycięstwem strategicznym: mogą przerzucać dywizje na zachód przed ofensywą wiosenną.",
+    "en": "The Eastern Front falls silent, and for the Germans the armistice is a great strategic victory: they can move divisions to the West before the spring offensive."
+   },
+   "quote": {
+    "pl": "Dla Niemców rozejm był wielkim zwycięstwem strategicznym. W ciągu następnych tygodni mogli przerzucać na zachód kolejne dywizje i przygotowywać wielką ofensywę wiosenną.",
+    "en": "For the Germans the armistice was a great strategic victory. In the following weeks they could transfer more and more divisions to the West and prepare the great spring offensive."
+   }
+  },
+  {
+   "ref": "rozpedzenie-konstytuanty",
+   "note": {
+    "pl": "Bolszewicy rozpędzają Zgromadzenie Ustawodawcze, na które Rosja czekała od upadku caratu, i gaśnie nadzieja na demokratyczne zakończenie rewolucji.",
+    "en": "The Bolsheviks disperse the Constituent Assembly that Russia had awaited since the fall of tsarism, and the hope of a democratic end to the revolution dies."
+   },
+   "quote": {
+    "pl": "19 stycznia 1918 roku pozostał w historii Rosji dniem, w którym zgasła nadzieja na demokratyczne zakończenie rewolucji.",
+    "en": "19 January 1918 remained in Russian history as the day on which the hope of a democratic end to the revolution died."
+   }
+  },
+  {
+   "ref": "pokoj-brzeski-z-ukraina",
+   "note": {
+    "pl": "Państwa centralne zawierają pokój z Ukrainą, a nazajutrz Trocki ogłasza, że Rosja kończy wojnę, ale pokoju na niemieckich warunkach nie podpisze.",
+    "en": "The Central Powers make peace with Ukraine, and the next day Trotsky declares that Russia is ending the war but will not sign a peace on German terms."
+   },
+   "quote": {
+    "pl": "Dzień po podpisaniu traktatu w Brześciu Trocki oświadczył, że Rosja kończy wojnę, ale pokoju na niemieckich warunkach nie podpisze.",
+    "en": "The day after the signing of the treaty at Brest Trotsky declared that Russia was ending the war, but would not sign a peace on German terms."
+   }
+  },
+  {
+   "ref": "bitwy/operacja-faustschlag",
+   "note": {
+    "pl": "Odpowiedź Niemiec: wypowiadają rozejm i ruszają na wschód, armia rosyjska prawie nie stawia oporu, a nieudane rokowania zamieniają się w pokój dyktowany.",
+    "en": "Germany's answer: it ends the armistice and advances east, the Russian army barely resists, and failed negotiations turn into a dictated peace."
+   },
+   "quote": {
+    "pl": "Operacja Faustschlag przekształciła nieudane rokowania w pokój dyktowany.",
+    "en": "Operation Faustschlag turned failed negotiations into a dictated peace."
+   }
+  },
+  {
+   "ref": "traktat-brzeski",
+   "note": {
+    "pl": "Koniec wojny na wschodzie: po „ani wojnie, ani pokoju” Trockiego i niemieckiej ofensywie Rosja wychodzi z wojny na warunkach podyktowanych jej siłą.",
+    "en": "The end of the war in the east: after Trotsky's \"neither war nor peace\" and the German offensive, Russia leaves the war on terms dictated to it by force."
+   },
+   "quote": {
+    "pl": "Po trzech miesiącach rokowań, przerwanych w lutym przez „ani wojnę, ani pokój” Trockiego i niemiecką ofensywę, Rosja wyszła z wojny na warunkach podyktowanych jej siłą.",
+    "en": "After three months of negotiations, broken off in February by Trotsky's \"neither war nor peace\" and the German offensive, Russia left the war on terms dictated to it by force."
+   }
+  },
+  {
+   "ref": "bunt-legionu-czechoslowackiego",
+   "note": {
+    "pl": "Epilog serii: Czechosłowacy, którzy chcieli tylko wyjechać z Rosji, nie oddają broni, a ich bunt staje się jednym z punktów zwrotnych wojny domowej.",
+    "en": "The epilogue: the Czechoslovaks, who only wanted to leave Russia, keep their weapons, and their revolt becomes one of the turning points of the civil war."
+   },
+   "quote": {
+    "pl": "Bunt legionu, który chciał tylko wyjechać z Rosji, stał się jednym z punktów zwrotnych wojny domowej.",
+    "en": "The revolt of a legion that only wanted to leave Russia became one of the turning points of the civil war."
+   }
+  }
+ ]
+}

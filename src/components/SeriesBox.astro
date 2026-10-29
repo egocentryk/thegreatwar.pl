@@ -1,0 +1,64 @@
+---
+// "Z serii": under an article or battle page that belongs to a themed series
+// (data/series.ts), its place in the series and the previous and next text.
+import type { Lang } from "@/i18n"
+import { seriesOf } from "@/utils/series"
+
+interface Props {
+  // Polish id: a timeline slug, or "bitwy/<slug>" for a battle page.
+  ref: string
+  lang?: Lang
+}
+
+const { ref, lang = "pl" } = Astro.props
+const found = await seriesOf(ref, lang)
+
+const t = {
+  pl: {
+    eyebrow: "Z serii",
+    part: (i: number, n: number) => `część ${i} z ${n}`,
+    overview: "wprowadzenie do serii",
+    previous: "← Poprzednia",
+    next: "Następna →",
+    start: "Zacznij serię →",
+  },
+  en: {
+    eyebrow: "From the series",
+    part: (i: number, n: number) => `part ${i} of ${n}`,
+    overview: "introduction to the series",
+    previous: "← Previous",
+    next: "Next →",
+    start: "Start the series →",
+  },
+}[lang]
+---
+
+{
+  found.map(({ series, index, previous, next }) => (
+    <aside class="border-line bg-surface mt-12 max-w-2xl rounded-sm border p-5">
+      <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">
+        {t.eyebrow} · {index >= 0 ? t.part(index + 1, series.steps.length) : t.overview}
+      </p>
+      <a href={series.href} class="font-display text-ink hover:text-signal mt-1 block text-lg transition-colors">
+        {series.title}
+      </a>
+      <p class="text-ink-soft mt-1 text-sm leading-6">{series.lead}</p>
+      <div class="mt-4 grid gap-3 font-mono text-xs sm:grid-cols-2">
+        {previous ? (
+          <a href={previous.href} class="text-ink-soft hover:text-signal min-w-0 transition-colors">
+            <span class="block">{t.previous}</span>
+            <span class="text-ink mt-0.5 block truncate font-sans text-sm">{previous.title}</span>
+          </a>
+        ) : (
+          <span />
+        )}
+        {next && (
+          <a href={next.href} class="text-ink-soft hover:text-signal min-w-0 transition-colors sm:text-right">
+            <span class="block">{index >= 0 ? t.next : t.start}</span>
+            <span class="text-ink mt-0.5 block truncate font-sans text-sm">{next.title}</span>
+          </a>
+        )}
+      </div>
+    </aside>
+  ))
+}

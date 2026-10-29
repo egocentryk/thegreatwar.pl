@@ -28,6 +28,7 @@ export const NAV_LINKS = [
   { label: "Oś czasu", href: "/timeline" },
   { label: "Bitwy", href: "/bitwy" },
   { label: "Postacie", href: "/postacie" },
+  { label: "Serie", href: "/serie" },
   { label: "Słownik", href: "/slownik" },
   { label: "O Projekcie", href: "/about" },
 ] as const
@@ -36,6 +37,7 @@ export const NAV_LINKS_EN = [
   { label: "Timeline", href: "/en/timeline" },
   { label: "Battles", href: "/en/battles" },
   { label: "People", href: "/en/people" },
+  { label: "Series", href: "/en/series" },
   { label: "Glossary", href: "/en/glossary" },
   { label: "About", href: "/en/about" },
 ] as const

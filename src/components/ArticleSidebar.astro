@@ -1,12 +1,13 @@
 ---
 // Right-hand column of an event article on wide screens (lg+): the date with
 // the neighbouring events, "W skrócie", the people linked in the text with
-// their portraits, the battle with its locator map, and a support card that
+// their portraits, the battle with its locator map, the series, and a support card that
 // stays in view while the text scrolls. On smaller screens the page shows
 // "W skrócie" and the support card below the text instead, so this column is
 // hidden there.
 import { Image } from "astro:assets"
 import BattleLocator from "@/components/BattleLocator.astro"
+import SidebarSeries from "@/components/SidebarSeries.astro"
 import SidebarSupport from "@/components/SidebarSupport.astro"
 import { locale, type Lang } from "@/i18n"
 import { localBattles, localPeople } from "@/i18n/local"
@@ -21,6 +22,8 @@ interface Neighbour {
 
 interface Props {
   lang?: Lang
+  // Polish timeline slug, for the series the article belongs to.
+  id: string
   date: Date
   // Markdown body; English bodies keep the Polish link targets.
   body: string
@@ -32,7 +35,7 @@ interface Props {
   class?: string
 }
 
-const { lang = "pl", date, body, battleId, brief = [], previous, next, class: className } = Astro.props
+const { lang = "pl", id, date, body, battleId, brief = [], previous, next, class: className } = Astro.props
 const en = lang === "en"
 const loc = locale(lang)
 
@@ -176,6 +179,8 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
       </div>
     )
   }
+
+  <SidebarSeries ref={id} lang={lang} />
 
   <SidebarSupport lang={lang} />
 </aside>

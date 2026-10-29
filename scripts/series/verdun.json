@@ -1,0 +1,170 @@
+{
+  "slug": "verdun",
+  "slugEn": "verdun",
+  "title": "Verdun 1916",
+  "titleEn": "Verdun 1916",
+  "lead": "Dziesięć miesięcy walki o wzgórza nad Mozą, francuski symbol całej wojny.",
+  "leadEn": "Ten months of fighting for the heights above the Meuse, France's symbol of the war.",
+  "intro": [
+    {"text": "21 lutego 1916 roku Niemcy uderzyli pod Verdun po ostrzale z ponad 1200 dział, a 25 lutego niemal bez walki weszli do fortu Douaumont.",
+     "quotes": [
+       {"file": "src/content/timeline/1916/02/poczatek-bitwy-pod-verdun.md", "quote": "Rankiem 21 lutego 1916 roku ponad 1200 niemieckich dział otworzyło ogień na francuskie pozycje na północ od Verdun."},
+       {"file": "src/content/timeline/1916/02/poczatek-bitwy-pod-verdun.md", "quote": "25 lutego Niemcy niemal bez walki weszli do fortu Douaumont, a dowództwo pod Verdun objął gen. Pétain."}
+     ]},
+    {"text": "Bitwa, która miała trwać kilka tygodni, przerodziła się w walkę na wyniszczenie: Niemcy zdobyli jeszcze fort Vaux i doszli pod fort Souville, ale miasta nie wzięli.",
+     "quotes": [
+       {"file": "src/content/timeline/1916/02/poczatek-bitwy-pod-verdun.md", "quote": "Bitwa, która miała trwać kilka tygodni, przerodziła się w walkę na wyniszczenie."},
+       {"file": "src/content/timeline/1916/06/niemcy-zdobywaja-thiaumont.md", "quote": "Do południa Niemcy zdobyli umocnienie Thiaumont, większą część wsi Fleury i doszli pod fort Souville, kilka kilometrów od cytadeli Verdun."},
+       {"file": "src/content/timeline/1916/12/koniec-bitwy-pod-verdun.md", "quote": "Niemcy nie zdobyli Verdun, a Francja obroniła miasto, ale się wykrwawiła."}
+     ]},
+    {"text": "Jesienią Francuzi Nivelle’a i Mangina odbili forty Douaumont i Vaux, a 18 grudnia skończyła się najdłuższa bitwa tej wojny.",
+     "quotes": [
+       {"file": "src/content/battles/1916/pierwsza-ofensywna-bitwa-pod-verdun.md", "quote": "Francuzi Nivelle’a i Mangina odbili forty Douaumont i Vaux"},
+       {"file": "src/content/timeline/1916/12/koniec-bitwy-pod-verdun.md", "quote": "18 grudnia 1916 żuawi odbili ferme Les Chambrettes. Tak skończyło się grudniowe natarcie Mangina i trwająca od lutego bitwa pod Verdun, najdłuższa w tej wojnie."}
+     ]},
+    {"text": "Żadna ze stron nie osiągnęła celu, ale Verdun stało się dla Francuzów symbolem całej wojny.",
+     "quotes": [
+       {"file": "src/content/timeline/1916/12/koniec-bitwy-pod-verdun.md", "quote": "Żadna ze stron nie osiągnęła swego celu: Niemcy nie zdobyli Verdun, a Francja obroniła miasto, ale się wykrwawiła. Verdun stało się dla Francuzów symbolem całej wojny"}
+     ]},
+    {"text": "Seria prowadzi od pierwszego ostrzału przez Douaumont, Vaux, Thiaumont i odsiecz nad Sommą po jesienne kontrnatarcia, awans Nivelle’a i koniec bitwy.",
+     "quotes": [
+       {"file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md", "quote": "Wielka ofensywa uzgodniona w Chantilly miała przede wszystkim odciążyć Francuzów pod Verdun."},
+       {"file": "src/content/timeline/1916/12/nivelle-naczelnym-wodzem.md", "quote": "Dowództwo armii francuskich we Francji objął Nivelle w miejsce Joffre'a."}
+     ]}
+  ],
+  "introEn": [
+    {"text": "On 21 February 1916 the Germans attacked at Verdun after a bombardment from more than 1,200 guns, and on 25 February they entered Fort Douaumont almost without a fight.",
+     "quotes": [
+       {"file": "src/content/en/timeline/start-of-the-battle-of-verdun.md", "quote": "On the morning of 21 February 1916 more than 1,200 German guns opened fire on the French positions north of Verdun."},
+       {"file": "src/content/en/timeline/start-of-the-battle-of-verdun.md", "quote": "On 25 February the Germans entered Fort Douaumont almost without a fight, and General Pétain took over command at Verdun."}
+     ]},
+    {"text": "The battle, meant to last a few weeks, turned into a struggle of attrition: the Germans went on to take Fort Vaux and reached Fort Souville, but never took the city.",
+     "quotes": [
+       {"file": "src/content/en/timeline/start-of-the-battle-of-verdun.md", "quote": "The battle, meant to last a few weeks, turned into a struggle of attrition."},
+       {"file": "src/content/en/timeline/germans-capture-thiaumont.md", "quote": "By midday the Germans had taken the Thiaumont work, most of the village of Fleury and reached Fort Souville, a few kilometres from the citadel of Verdun."},
+       {"file": "src/content/en/timeline/end-of-the-battle-of-verdun.md", "quote": "the Germans did not take Verdun, and France held the city but bled for it."}
+     ]},
+    {"text": "In the autumn the French under Nivelle and Mangin retook Forts Douaumont and Vaux, and on 18 December the longest battle of the war came to an end.",
+     "quotes": [
+       {"file": "src/content/en/battles/first-offensive-battle-of-verdun.md", "quote": "The French under Nivelle and Mangin retook Forts Douaumont and Vaux"},
+       {"file": "src/content/en/timeline/end-of-the-battle-of-verdun.md", "quote": "On 18 December 1916 Zouaves retook Les Chambrettes farm, ending Mangin's December attack and the Battle of Verdun, under way since February, the war's longest."}
+     ]},
+    {"text": "Neither side achieved its aim, but Verdun became for the French a symbol of the whole war.",
+     "quotes": [
+       {"file": "src/content/en/timeline/end-of-the-battle-of-verdun.md", "quote": "Neither side achieved its aim: the Germans did not take Verdun, and France held the city but bled for it. Verdun became for the French a symbol of the whole war"}
+     ]},
+    {"text": "The series runs from the first bombardment through Douaumont, Vaux, Thiaumont and the relief on the Somme to the autumn counter-offensives, Nivelle's promotion and the end of the battle.",
+     "quotes": [
+       {"file": "src/content/en/timeline/first-day-on-the-somme.md", "quote": "The great offensive agreed at Chantilly was above all meant to relieve the French at Verdun."},
+       {"file": "src/content/en/timeline/nivelle-becomes-commander-in-chief.md", "quote": "Nivelle replaced Joffre in command of the French armies in France."}
+     ]}
+  ],
+  "overview": "bitwy/bitwa-pod-verdun",
+  "steps": [
+    {"ref": "poczatek-bitwy-pod-verdun",
+     "note": {
+       "pl": "Punkt wyjścia serii: ostrzał z ponad 1200 dział otwiera bitwę, która z przerwami trwała do grudnia 1916 roku.",
+       "en": "The starting point of the series: a bombardment from more than 1,200 guns opens a battle that, with pauses, lasted until December 1916."},
+     "quote": {
+       "pl": "Rankiem 21 lutego 1916 roku ponad 1200 niemieckich dział otworzyło ogień na francuskie pozycje na północ od Verdun. Zaczęła się bitwa, która z przerwami trwała do grudnia 1916 roku.",
+       "en": "On the morning of 21 February 1916 more than 1,200 German guns opened fire on the French positions north of Verdun. A battle began that, with pauses, lasted until December 1916."}},
+    {"ref": "niemcy-zdobywaja-fort-douaumont",
+     "note": {
+       "pl": "Największy fort Verdun pada bez walki, ale tego samego dnia Francuzi postanawiają bronić prawego brzegu Mozy, a obronę miasta obejmuje Pétain.",
+       "en": "Verdun's largest fort falls without a fight, but that same day the French decide to hold the right bank of the Meuse, and Pétain takes over the defence."},
+     "quote": {
+       "pl": "Tego samego dnia francuskie dowództwo postanowiło jednak bronić prawego brzegu [Mozy](https://pl.wikipedia.org/wiki/Moza), a w nocy obronę Verdun objął generał [Philippe Pétain](/postacie/philippe-petain).",
+       "en": "That same day, however, the French command decided to defend the right bank of the [Meuse](https://pl.wikipedia.org/wiki/Moza), and that night General [Philippe Pétain](/postacie/philippe-petain) took over the defence of Verdun."}},
+    {"ref": "trzecia-konferencja-w-chantilly",
+     "note": {
+       "pl": "Verdun zmienia plany sprzymierzonych: w Chantilly postanawiają, że wspólna ofensywa ruszy jak najszybciej, by zdjąć nacisk z Verdun.",
+       "en": "Verdun changes the Allies' plans: at Chantilly they agree that the joint offensive must start as soon as possible to take the pressure off Verdun."},
+     "quote": {
+       "pl": "Konferencja jednogłośnie uznała, że ogólna ofensywa wszystkich sprzymierzonych powinna zacząć się z możliwie najmniejszym opóźnieniem, by zdjąć nacisk z Verdun, a jej datę mieli uzgodnić między sobą naczelni wodzowie.",
+       "en": "The conference unanimously agreed that a general offensive by all the Allies should begin with the least possible delay in order to take the pressure off Verdun, its date to be agreed among the commanders-in-chief."}},
+    {"ref": "poczatek-bitwy-nad-jeziorem-narocz",
+     "note": {
+       "pl": "Verdun odbija się na froncie wschodnim: Rosjanie uderzają, by odciążyć Francuzów, i już pierwszego dnia ponoszą ciężkie straty, nic nie zdobywając.",
+       "en": "Verdun echoes on the Eastern Front: the Russians attack to relieve the French and on the very first day suffer heavy losses for no gain."},
+     "quote": {
+       "pl": "18 marca 1916 rosyjska 2 Armia uderzyła na Niemców nad jeziorem Narocz, by odciążyć Verdun. Pierwszego dnia straciła ponad 15 tysięcy ludzi i nic nie zdobyła.",
+       "en": "On 18 March 1916 the Russian 2nd Army attacked the Germans at Lake Naroch to relieve Verdun. On the first day it lost more than 15,000 men and gained nothing."}},
+    {"ref": "koniec-plagi-fokkerow",
+     "note": {
+       "pl": "Bitwa w powietrzu: nad Verdun niemieckie samoloty oślepiają francuską artylerię, i to tu Francuzi pierwsi odbierają Niemcom przewagę.",
+       "en": "The battle in the air: over Verdun German aircraft blind the French artillery, and it is here that the French are the first to wrest superiority from them."},
+     "quote": {
+       "pl": "Pierwsi odebrali Niemcom przewagę Francuzi, i to tam, gdzie była im najbardziej potrzebna. Gdy 21 lutego 1916 roku zaczęła się [bitwa pod Verdun](/bitwy/bitwa-pod-verdun), niemieckie samoloty opanowały niebo nad polem bitwy, a francuska artyleria straciła oczy.",
+       "en": "The first to wrest superiority from the Germans were the French, and precisely where they needed it most. When the [Battle of Verdun](/bitwy/bitwa-pod-verdun) began on 21 February 1916, German aircraft took control of the sky over the battlefield and the French artillery lost its eyes."}},
+    {"ref": "niemcy-zdobywaja-fort-vaux",
+     "note": {
+       "pl": "Ostatni fort zdobyty przez Niemców po walce w jego korytarzach: po upadku Vaux stają o kilka kilometrów od miasta, przed ostatnimi wzgórzami.",
+       "en": "The last fort the Germans take, after a fight in its corridors: with Vaux fallen they stand a few kilometres from the city, before the last heights."},
+     "quote": {
+       "pl": "Po upadku Vaux Niemcy byli już tylko o kilka kilometrów od miasta i zaczęli przygotowywać natarcie na ostatnie wzgórza przed nim: Thiaumont, Fleury i Souville.",
+       "en": "After the fall of Vaux the Germans were only a few kilometres from the city and began preparing an attack on the last heights before it: Thiaumont, Fleury and Souville."}},
+    {"ref": "niemcy-zdobywaja-thiaumont",
+     "note": {
+       "pl": "Najgroźniejszy dzień bitwy od lutego: Francuzi zatrzymują natarcie, a Nivelle wydaje rozkaz, z którego rodzi się hasło „Ils ne passeront pas”.",
+       "en": "The most dangerous day of the battle since February: the French halt the attack, and Nivelle issues the order that gives rise to \"Ils ne passeront pas\"."},
+     "quote": {
+       "pl": "Był to najgroźniejszy dzień bitwy od lutego. Francuzi zdołali jednak zatrzymać natarcie, a dowódca 2 Armii, generał [Robert Nivelle](/postacie/robert-nivelle), wydał tego dnia rozkaz, z którego zrodziło się hasło „Ils ne passeront pas” („Nie przejdą”).",
+       "en": "It was the most dangerous day of the battle since February. The French nevertheless managed to halt the attack, and the commander of the Second Army, General [Robert Nivelle](/postacie/robert-nivelle), issued an order that day which gave rise to the slogan \"Ils ne passeront pas\" (\"They shall not pass\")."}},
+    {"ref": "pierwszy-dzien-bitwy-nad-somma",
+     "note": {
+       "pl": "Obiecana w Chantilly odsiecz nadchodzi: rusza wielka ofensywa nad Sommą, która miała przede wszystkim odciążyć Francuzów pod Verdun.",
+       "en": "The relief promised at Chantilly arrives: the great Somme offensive opens, meant above all to relieve the French at Verdun."},
+     "quote": {
+       "pl": "Wielka ofensywa uzgodniona w Chantilly miała przede wszystkim odciążyć Francuzów pod Verdun.",
+       "en": "The great offensive agreed at Chantilly was above all meant to relieve the French at Verdun."}},
+    {"ref": "hindenburg-szefem-sztabu-generalnego",
+     "note": {
+       "pl": "Autor ataku traci stanowisko: plan Falkenhayna załamał się, bo Verdun nie padło, a sprzymierzeni uderzyli nad Sommą i na wschodzie.",
+       "en": "The author of the attack is dismissed: Falkenhayn's plan has collapsed, because Verdun did not fall and the Allies struck on the Somme and in the east."},
+     "quote": {
+       "pl": "Plan Falkenhayna załamał się latem 1916 roku: Verdun nie padło, alianci uderzyli nad Sommą, a ofensywa Brusiłowa rozbiła front austro-węgierski.",
+       "en": "Falkenhayn's plan collapsed in the summer of 1916: Verdun did not fall, the Allies attacked on the Somme and the Brusilov offensive shattered the Austro-Hungarian front."}},
+    {"ref": "koniec-francuskiej-obrony-pod-verdun",
+     "note": {
+       "pl": "Granica między obroną a natarciem: Francuzi odbijają Fleury, a Niemcy przestają szukać rozstrzygnięcia nad Mozą.",
+       "en": "The line between defence and attack: the French retake Fleury, and the Germans stop seeking a decision on the Meuse."},
+     "quote": {
+       "pl": "W sierpniu Francuzi odbili Fleury, a Niemcy przestali szukać rozstrzygnięcia nad Mozą.",
+       "en": "In August the French retook Fleury and the Germans stopped seeking a decision on the Meuse."}},
+    {"ref": "bitwy/pierwsza-ofensywna-bitwa-pod-verdun",
+     "note": {
+       "pl": "Jesienne kontrnatarcie w jednym tekście: dwa starannie przygotowane uderzenia Nivelle'a i Mangina, którymi Francuzi zakończyli bitwę.",
+       "en": "The autumn counter-offensive in one text: the two carefully prepared blows by Nivelle and Mangin with which the French brought the battle to a close."},
+     "quote": {
+       "pl": "Pierwsza ofensywna bitwa pod Verdun to jesienne kontrnatarcie, którym Francuzi zakończyli [bitwę pod Verdun](/bitwy/bitwa-pod-verdun).",
+       "en": "The First Offensive Battle of Verdun was the autumn counter-offensive with which the French brought the [Battle of Verdun](/bitwy/bitwa-pod-verdun) to a close."}},
+    {"ref": "francuzi-odbijaja-fort-douaumont",
+     "note": {
+       "pl": "Zwrot bitwy: fort stracony w lutym wraca do Francuzów, a krótkie natarcie za ruchomą zaporą czyni z Nivelle'a i Mangina bohaterów.",
+       "en": "The turn of the battle: the fort lost in February returns to the French, and a short attack behind a creeping barrage makes heroes of Nivelle and Mangin."},
+     "quote": {
+       "pl": "Sukces uczynił z Nivelle'a i Mangina bohaterów, a metoda krótkiego natarcia za ruchomą zaporą wydawała się receptą na zwycięstwo.",
+       "en": "The success made heroes of Nivelle and Mangin, and a short attack behind a creeping barrage seemed a recipe for victory."}},
+    {"ref": "francuzi-odbijaja-fort-vaux",
+     "note": {
+       "pl": "Role się odwracają: Niemcy opuszczają odcięty fort, a Francuzi odzyskują w praktyce pozycje z czwartego dnia bitwy.",
+       "en": "The roles are reversed: the Germans abandon the cut-off fort, and the French in practice recover the positions of the fourth day of the battle."},
+     "quote": {
+       "pl": "Jak zauważał przewodnik Michelin, wraz z fortem Vaux odzyskali w praktyce pozycje, które zajmowali 24 lutego, w czwartym dniu [bitwy pod Verdun](/bitwy/bitwa-pod-verdun).",
+       "en": "As the Michelin guide noted, together with Fort Vaux they had in practice recovered the positions they had held on 24 February, the fourth day of the [Battle of Verdun](/bitwy/bitwa-pod-verdun)."}},
+    {"ref": "nivelle-naczelnym-wodzem",
+     "note": {
+       "pl": "Skutek Verdun w dowództwie: zwycięzca spod Douaumont zastępuje Joffre'a, przekonany, że jego metodę można zastosować na dużo większą skalę.",
+       "en": "Verdun's effect on the high command: the victor of Douaumont replaces Joffre, convinced that his method can be applied on a much larger scale."},
+     "quote": {
+       "pl": "Po odbiciu fortów Douaumont i Vaux Nivelle był przekonany, że znalazł metodę przełamania frontu, którą można zastosować na dowolnym odcinku i na dużo większą skalę.",
+       "en": "After the recapture of Forts Douaumont and Vaux, Nivelle was convinced that he had found a method of breaking through the front that could be applied on any sector and on a much larger scale."}},
+    {"ref": "koniec-bitwy-pod-verdun",
+     "note": {
+       "pl": "Koniec i bilans najdłuższej bitwy wojny: żadna ze stron nie osiągnęła celu, a Verdun stało się dla Francuzów symbolem całej wojny.",
+       "en": "The end and the reckoning of the war's longest battle: neither side achieved its aim, and Verdun became for the French a symbol of the whole war."},
+     "quote": {
+       "pl": "Żadna ze stron nie osiągnęła swego celu: Niemcy nie zdobyli Verdun, a Francja obroniła miasto, ale się wykrwawiła. Verdun stało się dla Francuzów symbolem całej wojny, a Nivelle oparł na jego metodzie plan ofensywy 1917 roku.",
+       "en": "Neither side achieved its aim: the Germans did not take Verdun, and France held the city but bled for it. Verdun became for the French a symbol of the whole war, and Nivelle based his 1917 offensive plan on its method."}}
+  ]
+}

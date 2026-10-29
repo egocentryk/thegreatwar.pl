@@ -7,6 +7,7 @@
 import { Image } from "astro:assets"
 import type { ImageMetadata } from "astro"
 import BattleLocator from "@/components/BattleLocator.astro"
+import SidebarSeries from "@/components/SidebarSeries.astro"
 import SidebarSupport from "@/components/SidebarSupport.astro"
 import { locale, type Lang } from "@/i18n"
 import { formatDateRange } from "@/utils/formatDate"
@@ -129,6 +130,8 @@ const label = "text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase"
       </div>
     )
   }
+
+  <SidebarSeries ref={`bitwy/${id}`} lang={lang} />
 
   <SidebarSupport lang={lang} />
 </aside>

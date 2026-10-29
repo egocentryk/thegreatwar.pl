@@ -1,0 +1,16 @@
+---
+import SeriesPage from "@/components/SeriesPage.astro"
+import { SERIES, type Series } from "@/data/series"
+
+export function getStaticPaths() {
+  return SERIES.map((series) => ({ params: { slug: series.slug }, props: { series } }))
+}
+
+interface Props {
+  series: Series
+}
+
+const { series } = Astro.props
+---
+
+<SeriesPage series={series} />

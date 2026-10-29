@@ -1339,6 +1339,62 @@ Ported from thesecondwar.pl (`seo.md` §9).
   timeline instead.
 
 **When series exist here:** switch the second link back to `to.series`.
+(Done in §21.)
+
+---
+
+## 21. Reading series ("Serie") (2026-10-29)
+
+Ported from thesecondwar.pl (`seo.md` §8, `roadmap.md` §3).
+
+- Code as there: `src/data/series.ts`, `src/utils/series.ts`,
+  `SeriesPage.astro`, `SeriesCards.astro`, `SeriesBox.astro`; pages
+  `/serie`, `/serie/<slug>`, `/en/series`, `/en/series/<slugEn>`;
+  `paths().series` / `seriesPage`. "Serie" / "Series" in the top menu; the
+  compact list on the homepage beside the Polish thread (with the random
+  battles under it); the key dates page links to the series again.
+- New here: `SidebarSeries.astro`, the "Z serii · część X z N" entry in the
+  article and battle sidebars on wide screens (`ArticleSidebar` takes the
+  Polish `id` for it); `SeriesBox` stays under the text on smaller screens.
+  On thesecondwar.pl the same block sits inside `SidebarExtras`.
+- Eight series, 126 steps, PL/EN, each with an intro and a "why read this"
+  note per step: Lato 1914, Legiony Polskie, Droga do niepodległości, Wojna
+  na ziemiach polskich, Verdun 1916 (overview: `bitwy/bitwa-pod-verdun`),
+  Bitwa nad Sommą (overview: `bitwy/bitwa-nad-somma`), Rosja 1917, 1918:
+  ostatni rok wojny.
+- **How:** one writer agent per series (brief in `scripts/series/BRIEF.md`).
+  Drafts in `scripts/series/<slug>.json`: every intro sentence backed by
+  verbatim quotes, every note by one verbatim quote from its own article in
+  the same language. `scripts/series/check.py` checks the quotes, the
+  numbers, the English pages, the date order and 8–18 steps, then writes
+  `src/data/series.ts`:
+
+      python3 -I scripts/series/check.py . --build src/data/series.ts scripts/series/{lato-1914,legiony-polskie,droga-do-niepodleglosci,wojna-na-ziemiach-polskich,verdun,bitwa-nad-somma,rosja-1917,1918-ostatni-rok-wojny}.json
+
+  (The file order is the order of the series on the pages.)
+
+**Port back to thesecondwar.pl:** the checker (notes there were
+quote-checked by an uncommitted script).
+
+### Writers' notes (for the review list)
+
+- Verdun: Fort Vaux abandoned 2 XI (`pierwsza-ofensywna-bitwa-pod-verdun`)
+  vs article dated 3 XI (consistent: left 2 XI, entered 3 XI); "Nivelle’a"
+  (curly) in the battle summary vs "Nivelle'a" in the articles.
+- Somme: Delville Wood figures differ between `bitwa-nad-somma` (3100+ in,
+  780 at roll call) and `bitwa-o-las-delville` (121 officers + 3032 men,
+  ~750); Bean's quote worded differently in `bitwa-nad-somma` and
+  `bitwa-o-grzbiet-pozieres`; EN "Flers–Courcelette" (en dash) vs
+  "Flers-Courcelette" elsewhere.
+- 1918: `rozejm-w-salonikach` dated 30 IX, signed 29 IX (fighting stopped
+  30 IX); "d’Espérey" curly in PL, straight in EN.
+- Legions (EN): "legionaries" vs "legionnaires"; "Second Brigade" vs
+  "II Brigade"; "von Pflanzer-Baltin" in `austrians-take-stanislawow`.
+- Polish soil: Przemyśl civilians "kilkanaście tysięcy" in the lead of
+  `poczatek-oblezenia-przemysla` vs 18–30 thousand later; Łódź civilian
+  deaths "ponad stu" (`niemcy-zajmuja-lodz`) vs 135/155 (battle page).
+- Summer 1914: Liège "almost two weeks" (summary) vs "a few days"
+  (`bitwa-graniczna`).
 
 ---
 
@@ -1412,6 +1468,7 @@ finished, tick it here and add its section above.
 - [x] Glossary ("Słownik"): 84 terms PL/EN with hover cards in the text (§18)
 - [x] "Rok w skrócie": quote-checked intros on the five year pages, PL/EN (§19)
 - [x] Key dates page: all 262 milestones on one printable page, PL/EN (§20)
+- [x] Reading series: 8 series, 126 steps with quote-checked notes, PL/EN (§21)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

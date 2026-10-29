@@ -11,6 +11,7 @@ import ArticleFigure from "@/components/ArticleFigure.astro"
 import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
+import SeriesBox from "@/components/SeriesBox.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
 import { paths } from "@/i18n/local"
@@ -272,6 +273,9 @@ const glossaryTerms = termsIn(battle.body ?? "", "pl", `bitwy/${battle.id}`)
             <PersonPreviews body={battle.body ?? ""} lang="pl" />
           </div>
 
+          <div class="lg:hidden">
+            <SeriesBox ref={`bitwy/${battle.id}`} />
+          </div>
           <Sources sources={battle.data.sources} />
           <ReportError title={title} />
           <div class="lg:hidden">

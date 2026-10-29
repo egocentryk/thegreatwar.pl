@@ -1,0 +1,35 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import SeriesCards from "@/components/SeriesCards.astro"
+import { paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { allSeries } from "@/utils/series"
+
+const description =
+  "Threads of the First World War as series of articles to read in order: summer 1914, the Polish Legions, the road to independence, the war on Polish soil, Verdun, the Somme, Russia 1917 and the last year of the war."
+const series = await allSeries("en")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: paths("en").series,
+  name: "Series",
+  description,
+  items: series.map((item) => item.href),
+})
+---
+
+<BaseLayout title="Reading series" description={description} lang="en" alternates={{ pl: paths("pl").series }} jsonLd={jsonLd}>
+  <section class="mx-auto max-w-6xl px-6 pt-16 sm:pt-24">
+    <SectionHeading eyebrow="Series" count={series.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">
+      Threads of the war, one article after another.
+    </p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+      Each series is a set of articles from the chronicle in the order worth reading them, with a short introduction
+      and a timeline.
+    </p>
+  </section>
+  <div class="pt-10 pb-24">
+    <SeriesCards lang="en" />
+  </div>
+</BaseLayout>
