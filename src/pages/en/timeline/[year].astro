@@ -7,6 +7,7 @@ import { localBattles, localEvents } from "@/i18n/local"
 import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
 import { periodMeta } from "@/utils/periodMeta"
 import { listPageLd } from "@/utils/jsonLd"
+import yearIntros from "@/data/year-intros.json"
 
 export async function getStaticPaths() {
   const timelineByYear = groupTimelineEntries(await localEvents("en"), "en-GB")
@@ -18,6 +19,8 @@ export async function getStaticPaths() {
 const allTimeline = await localEvents("en")
 const timelineByYear = groupTimelineEntries(allTimeline, "en-GB")
 const activeYear = Number(Astro.params.year)
+// "Rok w skrócie" (data/year-intros.json), written from the year's own articles.
+const intro = (yearIntros as Record<string, { pl: string[]; en: string[] }>)[String(activeYear)]?.en ?? []
 // The year's key battles lead the description, the ones with the most
 // articles first.
 const articlesPerBattle = new Map<string, number>()
@@ -58,6 +61,6 @@ const jsonLd = listPageLd(Astro.site!, {
 >
   <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
     <SectionHeading eyebrow="Timeline" count={allTimeline.length} />
-    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} heading={meta.heading} lang="en" />
+    <TimelineArchive activeYear={activeYear} timelineByYear={timelineByYear} heading={meta.heading} intro={intro} lang="en" />
   </section>
 </BaseLayout>

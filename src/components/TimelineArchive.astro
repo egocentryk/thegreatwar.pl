@@ -28,6 +28,8 @@ interface Props {
   // Year and month pages: the year heading becomes the page's <h1> with this
   // text ("1916", "Marzec 1916").
   heading?: string
+  // Year pages: "Rok w skrócie", paragraphs shown under the heading.
+  intro?: string[]
   lang?: Lang
 }
 
@@ -39,6 +41,7 @@ const {
   showBackLink = true,
   renderAllYears = false,
   heading,
+  intro = [],
   lang = "pl",
 } = Astro.props
 const YearHeading = heading ? "h1" : "h2"
@@ -159,14 +162,38 @@ function groupEntriesByDay(
 
           return (
             <section>
-              <div class="flex items-baseline justify-between gap-4">
-                <YearHeading class="font-display text-ink text-3xl font-medium sm:text-4xl">
-                  {heading ?? yearGroup.year}
-                </YearHeading>
-                {heading && <PrintButton lang={lang} />}
-              </div>
+              {intro.length === 0 && (
+                <div class="flex items-baseline justify-between gap-4">
+                  <YearHeading class="font-display text-ink text-3xl font-medium sm:text-4xl">
+                    {heading ?? yearGroup.year}
+                  </YearHeading>
+                  {heading && <PrintButton lang={lang} />}
+                </div>
+              )}
 
-              <div class="mt-6 space-y-8">
+              {/* With an intro: the year and its intro in a left column that
+                  stays in view, the months beside it on wide screens. */}
+              <div class:list={[intro.length > 0 && "lg:grid lg:grid-cols-[minmax(0,22rem)_minmax(0,1fr)] lg:gap-12"]}>
+              {intro.length > 0 && (
+                <div class="lg:sticky lg:top-24 lg:self-start print:static">
+                  <div class="flex items-baseline justify-between gap-4">
+                    <YearHeading class="font-display text-ink text-3xl font-medium sm:text-4xl">
+                      {heading ?? yearGroup.year}
+                    </YearHeading>
+                    {heading && <PrintButton lang={lang} />}
+                  </div>
+                  <div class="border-signal mt-6 max-w-2xl space-y-4 border-l-2 pl-5 lg:max-h-[calc(100vh-13rem)] lg:overflow-y-auto print:max-h-none">
+                    <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
+                      {lang === "en" ? "The year in brief" : "Rok w skrócie"}
+                    </p>
+                    {intro.map((paragraph) => (
+                      <p class="text-ink leading-7 lg:text-[15px] lg:leading-6">{paragraph}</p>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              <div class="mt-6 min-w-0 space-y-8">
                 {visibleMonths.map((monthGroup) => (
                   <section class="tl-month">
                     {(() => {
@@ -250,6 +277,7 @@ function groupEntriesByDay(
                     </a>
                   </div>
                 )}
+              </div>
               </div>
             </section>
           )

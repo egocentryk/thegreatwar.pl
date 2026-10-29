@@ -1,0 +1,609 @@
+{
+ "year": 1917,
+ "pl": [
+  [
+   {
+    "text": "1 lutego 1917 roku Niemcy rozpoczęli nieograniczoną wojnę podwodną, w której zatapiali bez ostrzeżenia także statki pod banderą neutralną.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+      "quote": "1 lutego 1917 roku weszła w życie zapowiedź"
+     },
+     {
+      "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+      "quote": "W strefach wokół Wielkiej Brytanii, Francji i Włoch oraz na wschodnim Morzu Śródziemnym okręty podwodne miały odtąd zatapiać bez ostrzeżenia każdy napotkany statek, także pod banderą neutralną."
+     },
+     {
+      "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+      "quote": "Rozpoczynała się nieograniczona wojna podwodna"
+     }
+    ]
+   },
+   {
+    "text": "W Rosji wybuchła rewolucja lutowa: 12 marca zbuntował się garnizon Piotrogrodu, a 15 marca car Mikołaj II zrzekł się tronu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+      "quote": "12 marca 1917 roku, w poniedziałek, w Piotrogrodzie zbuntowały się wojska garnizonu"
+     },
+     {
+      "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+      "quote": "Ten dzień uważa się za rozstrzygający moment rewolucji lutowej"
+     },
+     {
+      "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+      "quote": "15 marca 1917 roku"
+     },
+     {
+      "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+      "quote": "car Mikołaj II podpisał akt zrzeczenia się tronu"
+     }
+    ]
+   },
+   {
+    "text": "6 kwietnia do wojny z Niemcami przystąpiły Stany Zjednoczone.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+      "quote": "6 kwietnia 1917 roku, w Wielki Piątek, Stany Zjednoczone przystąpiły do wojny z Niemcami."
+     }
+    ]
+   },
+   {
+    "text": "We Francji Kanadyjczycy 9 kwietnia zdobyli prawie cały grzbiet Vimy, ale ofensywa Nivelle'a, rozpoczęta 16 kwietnia na Chemin des Dames, nie przyniosła obiecanego przełomu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/04/szturm-na-grzbiet-vimy.md",
+      "quote": "9 kwietnia 1917 roku, w Poniedziałek Wielkanocny"
+     },
+     {
+      "file": "src/content/timeline/1917/04/szturm-na-grzbiet-vimy.md",
+      "quote": "Kanadyjczycy w ciągu kilku godzin zajęli prawie cały grzbiet"
+     },
+     {
+      "file": "src/content/timeline/1917/04/poczatek-ofensywy-nivellea.md",
+      "quote": "16 kwietnia 1917 roku o szóstej rano"
+     },
+     {
+      "file": "src/content/timeline/1917/04/zalamanie-ofensywy-nivellea.md",
+      "quote": "Pięć dni po rozpoczęciu natarcia na Chemin des Dames było już jasne, że wielka ofensywa Nivelle'a nie przyniesie obiecanego przełomu"
+     }
+    ]
+   },
+   {
+    "text": "W maju i czerwcu przez kilkadziesiąt francuskich dywizji przetoczyła się fala buntów.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/05/poczatek-buntow-w-armii-francuskiej.md",
+      "quote": "Był to początek fali buntów, które w maju i czerwcu przetoczyły się przez kilkadziesiąt francuskich dywizji"
+     }
+    ]
+   },
+   {
+    "text": "1 lipca ruszyła ofensywa Kiereńskiego, ale po niemieckim kontruderzeniu z 19 lipca Rosjanie stracili prawie całą Galicję.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/07/poczatek-ofensywy-kierenskiego.md",
+      "quote": "1 lipca 1917 roku (18 czerwca według kalendarza juliańskiego) armia rewolucyjnej Rosji rozpoczęła swoją pierwszą i ostatnią wielką ofensywę"
+     },
+     {
+      "file": "src/content/timeline/1917/07/poczatek-ofensywy-kierenskiego.md",
+      "quote": "ofensywy Kiereńskiego"
+     },
+     {
+      "file": "src/content/timeline/1917/07/poczatek-kontrofensywy-w-galicji-wschodniej.md",
+      "quote": "19 lipca 1917 Niemcy uderzyli pod Złoczowem"
+     },
+     {
+      "file": "src/content/timeline/1917/07/koniec-kontrofensywy-w-galicji-wschodniej.md",
+      "quote": "Rosjanie stracili prawie całą Galicję"
+     }
+    ]
+   },
+   {
+    "text": "31 lipca Brytyjczycy rozpoczęli trzecią bitwę pod Ypres, która do 10 listopada przesunęła front o około 7 km.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/07/poczatek-trzeciej-bitwy-pod-ypres.md",
+      "quote": "31 lipca 1917 roku o 3.50 nad ranem"
+     },
+     {
+      "file": "src/content/timeline/1917/07/poczatek-trzeciej-bitwy-pod-ypres.md",
+      "quote": "Tak zaczęła się trzecia bitwa pod Ypres"
+     },
+     {
+      "file": "src/content/timeline/1917/11/koniec-trzeciej-bitwy-pod-ypres.md",
+      "quote": "10 listopada 1917 roku"
+     },
+     {
+      "file": "src/content/timeline/1917/11/koniec-trzeciej-bitwy-pod-ypres.md",
+      "quote": "armia brytyjska przesunęła front o około 7 km, zdobyła grzbiet Passchendaele"
+     }
+    ]
+   },
+   {
+    "text": "24 października Niemcy i Austro-Węgry przełamały front włoski pod Caporetto i odrzuciły Włochów aż nad Piawę.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/10/poczatek-bitwy-pod-caporetto.md",
+      "quote": "24 października 1917 roku"
+     },
+     {
+      "file": "src/content/timeline/1917/10/poczatek-bitwy-pod-caporetto.md",
+      "quote": "wspólna ofensywa Niemiec i Austro-Węgier przeciw Włochom"
+     },
+     {
+      "file": "src/content/timeline/1917/10/poczatek-bitwy-pod-caporetto.md",
+      "quote": "Do wieczora włoski front był rozerwany"
+     },
+     {
+      "file": "src/content/timeline/1917/11/wlosi-wycofuja-sie-za-piawe.md",
+      "quote": "odwrót armii włoskiej znad Soczy, najpierw za Tagliamento, a potem przez równinę Friuli i Wenecji aż nad Piawę"
+     }
+    ]
+   },
+   {
+    "text": "7 listopada bolszewicy przejęli władzę w Piotrogrodzie.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+      "quote": "7 listopada 1917 roku (25 października według kalendarza juliańskiego) bolszewicy przejęli władzę w Piotrogrodzie"
+     }
+    ]
+   },
+   {
+    "text": "20 listopada Brytyjczycy uderzyli pod Cambrai kilkuset czołgami, a 9 grudnia Jerozolima poddała się wojskom generała Allenby'ego.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/11/poczatek-bitwy-pod-cambrai.md",
+      "quote": "We wtorek 20 listopada 1917 roku"
+     },
+     {
+      "file": "src/content/timeline/1917/11/poczatek-bitwy-pod-cambrai.md",
+      "quote": "Na czele piechoty jechało kilkaset czołgów"
+     },
+     {
+      "file": "src/content/timeline/1917/12/kapitulacja-jerozolimy.md",
+      "quote": "9 grudnia 1917 roku, w niedzielę, Jerozolima poddała się wojskom generała sir Edmunda Allenby'ego"
+     }
+    ]
+   },
+   {
+    "text": "15 grudnia w Brześciu Litewskim Rosja zawarła rozejm z państwami centralnymi i faktycznie wyszła z wojny.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+      "quote": "15 grudnia 1917 roku"
+     },
+     {
+      "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+      "quote": "pełnomocnicy rosyjskiego naczelnego dowództwa podpisali z przedstawicielami dowództw Niemiec, Austro-Węgier, Bułgarii i Turcji układ o zawieszeniu broni"
+     },
+     {
+      "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+      "quote": "oznaczało to faktyczne wyjście z wojny"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Dla Polski rok zaczął się 14 stycznia inauguracją Tymczasowej Rady Stanu, polskiego organu powołanego przez okupantów.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/01/pierwsze-posiedzenie-tymczasowej-rady-stanu.md",
+      "quote": "14 stycznia 1917 roku na Zamku Królewskim w Warszawie zainaugurowała działalność Tymczasowa Rada Stanu, polski organ powołany przez okupantów"
+     }
+    ]
+   },
+   {
+    "text": "22 stycznia prezydent Wilson opowiedział się za zjednoczoną i niepodległą Polską, a 30 marca rosyjski Rząd Tymczasowy uznał prawo Polaków do niepodległego państwa, połączonego jednak z Rosją „wolnym sojuszem wojskowym”.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/01/pokoj-bez-zwyciestwa.md",
+      "quote": "22 stycznia 1917 roku prezydent Stanów Zjednoczonych Woodrow Wilson niespodziewanie stanął przed Senatem"
+     },
+     {
+      "file": "src/content/timeline/1917/01/pokoj-bez-zwyciestwa.md",
+      "quote": "Opowiedział się też za zjednoczoną i niepodległą Polską."
+     },
+     {
+      "file": "src/content/timeline/1917/03/odezwa-rzadu-tymczasowego-do-polakow.md",
+      "quote": "30 marca 1917 roku (17 marca według kalendarza juliańskiego) urzędowy dziennik rosyjskiego Rządu Tymczasowego"
+     },
+     {
+      "file": "src/content/timeline/1917/03/odezwa-rzadu-tymczasowego-do-polakow.md",
+      "quote": "po raz pierwszy oficjalnie uznała prawo Polaków do niepodległego państwa"
+     },
+     {
+      "file": "src/content/timeline/1917/03/odezwa-rzadu-tymczasowego-do-polakow.md",
+      "quote": "Państwo to miało być jednak połączone z Rosją „wolnym sojuszem wojskowym”"
+     }
+    ]
+   },
+   {
+    "text": "4 czerwca Francja zgodziła się na utworzenie autonomicznej armii polskiej, walczącej pod polskim sztandarem.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/06/dekret-o-utworzeniu-armii-polskiej-we-francji.md",
+      "quote": "4 czerwca 1917 roku prezydent Francji Raymond Poincaré podpisał w Paryżu dekret"
+     },
+     {
+      "file": "src/content/timeline/1917/06/dekret-o-utworzeniu-armii-polskiej-we-francji.md",
+      "quote": "autonomiczną armię polską, podległą rozkazom francuskiego naczelnego dowództwa i walczącą pod sztandarem polskim"
+     }
+    ]
+   },
+   {
+    "text": "9 i 11 lipca legioniści I i III Brygady na wezwanie Piłsudskiego odmówili przysięgi na „braterstwo broni” z Niemcami i Austro-Węgrami i zostali internowani.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/07/aresztowanie-pilsudskiego.md",
+      "quote": "9 i 11 lipca, legioniści I i III Brygady na wezwanie Piłsudskiego odmówili przysięgi na „braterstwo broni” z Niemcami i Austro-Węgrami, a niemieckie władze okupacyjne rozbroiły ich i internowały"
+     }
+    ]
+   },
+   {
+    "text": "W nocy z 21 na 22 lipca Niemcy aresztowali Piłsudskiego, którego uwięzili potem w Magdeburgu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/07/aresztowanie-pilsudskiego.md",
+      "quote": "W nocy z 21 na 22 lipca 1917 roku niemieccy żandarmi aresztowali w Warszawie Józefa Piłsudskiego"
+     },
+     {
+      "file": "src/content/timeline/1917/07/aresztowanie-pilsudskiego.md",
+      "quote": "Ostatnim miejscem uwięzienia Piłsudskiego był Magdeburg"
+     }
+    ]
+   },
+   {
+    "text": "15 sierpnia w Lozannie powstał Komitet Narodowy Polski z Romanem Dmowskim na czele, uznany następnie przez Francję, Wielką Brytanię, Włochy i Stany Zjednoczone.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/08/powstanie-komitetu-narodowego-polskiego.md",
+      "quote": "15 sierpnia 1917 roku w szwajcarskiej Lozannie grupa polskich polityków powołała Komitet Narodowy Polski"
+     },
+     {
+      "file": "src/content/timeline/1917/08/powstanie-komitetu-narodowego-polskiego.md",
+      "quote": "Jego prezesem wybrano Romana Dmowskiego"
+     },
+     {
+      "file": "src/content/timeline/1917/11/stany-zjednoczone-uznaja-komitet-narodowy-polski.md",
+      "quote": "Stany Zjednoczone dołączyły w ten sposób do Francji, Wielkiej Brytanii i Włoch"
+     }
+    ]
+   },
+   {
+    "text": "Rada Stanu ustąpiła 25 sierpnia, a patent z 12 września przekazał najwyższą władzę w Królestwie Polskim Radzie Regencyjnej, wprowadzonej w urząd 27 października.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/09/patent-o-radzie-regencyjnej.md",
+      "quote": "25 sierpnia członkowie Rady złożyli mandaty"
+     },
+     {
+      "file": "src/content/timeline/1917/09/patent-o-radzie-regencyjnej.md",
+      "quote": "12 września 1917 roku"
+     },
+     {
+      "file": "src/content/timeline/1917/09/patent-o-radzie-regencyjnej.md",
+      "quote": "najwyższa władza państwowa w Królestwie Polskim"
+     },
+     {
+      "file": "src/content/timeline/1917/10/rada-regencyjna-obejmuje-wladze.md",
+      "quote": "27 października 1917 roku w Warszawie uroczyście wprowadzono w urząd Radę Regencyjną"
+     }
+    ]
+   },
+   {
+    "text": "26 listopada regenci powołali na szefa rządu Jana Kucharzewskiego.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1917/11/rzad-kucharzewskiego.md",
+      "quote": "26 listopada 1917 roku Rada Regencyjna powołała 41-letniego historyka i prawnika Jana Kucharzewskiego na stanowisko prezydenta ministrów, czyli szefa rządu"
+     }
+    ]
+   }
+  ]
+ ],
+ "en": [
+  [
+   {
+    "text": "On 1 February 1917 Germany began unrestricted submarine warfare, sinking without warning even ships under a neutral flag.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/unrestricted-submarine-warfare-begins.md",
+      "quote": "On 1 February 1917 the announcement that Germany had made the day before came into force."
+     },
+     {
+      "file": "src/content/en/timeline/unrestricted-submarine-warfare-begins.md",
+      "quote": "submarines were from now on to sink without warning every ship they encountered, including those under a neutral flag."
+     }
+    ]
+   },
+   {
+    "text": "In Russia the February Revolution broke out: on 12 March the Petrograd garrison mutinied, and on 15 March Tsar Nicholas II renounced the throne.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/february-revolution.md",
+      "quote": "On Monday 12 March 1917 the garrison troops in Petrograd mutinied."
+     },
+     {
+      "file": "src/content/en/timeline/february-revolution.md",
+      "quote": "This day is regarded as the decisive moment of the February Revolution"
+     },
+     {
+      "file": "src/content/en/timeline/abdication-of-nicholas-ii.md",
+      "quote": "On 15 March 1917 (2 March in the Julian calendar)"
+     },
+     {
+      "file": "src/content/en/timeline/abdication-of-nicholas-ii.md",
+      "quote": "Tsar Nicholas II signed an act renouncing the throne"
+     }
+    ]
+   },
+   {
+    "text": "On 6 April the United States entered the war against Germany.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/united-states-declares-war-on-germany.md",
+      "quote": "On 6 April 1917, Good Friday, the United States entered the war against Germany."
+     }
+    ]
+   },
+   {
+    "text": "In France the Canadians took almost the whole of Vimy Ridge on 9 April, but the Nivelle offensive, launched on the Chemin des Dames on 16 April, did not bring the promised breakthrough.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/assault-on-vimy-ridge.md",
+      "quote": "On 9 April 1917, Easter Monday"
+     },
+     {
+      "file": "src/content/en/timeline/assault-on-vimy-ridge.md",
+      "quote": "Within a few hours the Canadians took almost the whole ridge"
+     },
+     {
+      "file": "src/content/en/timeline/nivelle-offensive-begins.md",
+      "quote": "At six in the morning on 16 April 1917"
+     },
+     {
+      "file": "src/content/en/timeline/collapse-of-the-nivelle-offensive.md",
+      "quote": "Five days after the start of the attack on the Chemin des Dames it was already clear that the great Nivelle offensive would not bring the promised breakthrough"
+     }
+    ]
+   },
+   {
+    "text": "In May and June a wave of mutinies swept through several dozen French divisions.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/start-of-the-french-army-mutinies.md",
+      "quote": "It was the beginning of a wave of mutinies that in May and June swept through several dozen French divisions"
+     }
+    ]
+   },
+   {
+    "text": "On 1 July the Kerensky Offensive began, but after the German counter-blow of 19 July the Russians were driven out of almost all of Eastern Galicia.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/kerensky-offensive-begins.md",
+      "quote": "On 1 July 1917 (18 June in the Julian calendar) the army of revolutionary Russia began its first and last great offensive."
+     },
+     {
+      "file": "src/content/en/timeline/kerensky-offensive-begins.md",
+      "quote": "Kerensky Offensive begins"
+     },
+     {
+      "file": "src/content/en/timeline/counter-offensive-in-eastern-galicia-begins.md",
+      "quote": "dating the blow to 19 July"
+     },
+     {
+      "file": "src/content/en/timeline/counter-offensive-in-eastern-galicia-begins.md",
+      "quote": "So began the counter-offensive which within ten days drove the Russians out of almost all of Eastern Galicia."
+     }
+    ]
+   },
+   {
+    "text": "On 31 July the British opened the Third Battle of Ypres in Flanders, which by 10 November had moved the front forward about 7 km.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/third-battle-of-ypres-begins.md",
+      "quote": "At 3.50 a.m. on 31 July 1917"
+     },
+     {
+      "file": "src/content/en/timeline/third-battle-of-ypres-begins.md",
+      "quote": "So began the Third Battle of Ypres"
+     },
+     {
+      "file": "src/content/en/timeline/end-of-the-third-battle-of-ypres.md",
+      "quote": "On 10 November 1917"
+     },
+     {
+      "file": "src/content/en/timeline/end-of-the-third-battle-of-ypres.md",
+      "quote": "the British army had moved the front forward about 7 km and taken the Passchendaele ridge"
+     }
+    ]
+   },
+   {
+    "text": "On 24 October Germany and Austria-Hungary broke through the Italian front at Caporetto and drove the Italians back to the Piave.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/battle-of-caporetto-begins.md",
+      "quote": "At two in the morning on 24 October 1917"
+     },
+     {
+      "file": "src/content/en/timeline/battle-of-caporetto-begins.md",
+      "quote": "The joint offensive of Germany and Austria-Hungary against Italy had begun"
+     },
+     {
+      "file": "src/content/en/timeline/battle-of-caporetto-begins.md",
+      "quote": "By evening the Italian front had been torn open"
+     },
+     {
+      "file": "src/content/en/timeline/italians-withdraw-behind-the-piave.md",
+      "quote": "the retreat of the Italian Army from the Isonzo that had been going on since 27 October, first behind the Tagliamento and then across the plain of Friuli and Venetia to the Piave"
+     }
+    ]
+   },
+   {
+    "text": "On 7 November the Bolsheviks seized power in Petrograd.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/october-revolution.md",
+      "quote": "On 7 November 1917 (25 October in the Julian calendar) the Bolsheviks seized power in Petrograd."
+     }
+    ]
+   },
+   {
+    "text": "On 20 November the British attacked at Cambrai with several hundred tanks, and on 9 December Jerusalem surrendered to General Allenby's troops.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/battle-of-cambrai-begins.md",
+      "quote": "On Tuesday 20 November 1917"
+     },
+     {
+      "file": "src/content/en/timeline/battle-of-cambrai-begins.md",
+      "quote": "Several hundred tanks drove ahead of the infantry"
+     },
+     {
+      "file": "src/content/en/timeline/surrender-of-jerusalem.md",
+      "quote": "On Sunday 9 December 1917 Jerusalem surrendered to the troops of General Sir Edmund Allenby."
+     }
+    ]
+   },
+   {
+    "text": "On 15 December Russia concluded an armistice with the Central Powers at Brest-Litovsk and in practice left the war.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/armistice-of-brest-litovsk.md",
+      "quote": "On 15 December 1917 (2 December in the Julian calendar)"
+     },
+     {
+      "file": "src/content/en/timeline/armistice-of-brest-litovsk.md",
+      "quote": "plenipotentiaries of the Russian supreme command signed an armistice agreement with representatives of the commands of Germany, Austria-Hungary, Bulgaria and Turkey"
+     },
+     {
+      "file": "src/content/en/timeline/armistice-of-brest-litovsk.md",
+      "quote": "this meant leaving the war in practice"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "For Poland the year began on 14 January, when the Provisional Council of State, a Polish body set up by the occupiers, was inaugurated in Warsaw.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/first-session-of-the-provisional-council-of-state.md",
+      "quote": "On 14 January 1917 the Provisional Council of State, a Polish body set up by the occupiers to prepare the institutions of the future Kingdom of Poland, was inaugurated at the Royal Castle in Warsaw."
+     }
+    ]
+   },
+   {
+    "text": "On 22 January President Wilson spoke of a united and independent Poland, and on 30 March the Russian Provisional Government recognised the Poles' right to an independent state, joined to Russia, however, by a \"free military alliance\".",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/peace-without-victory.md",
+      "quote": "On 22 January 1917 the President of the United States, Woodrow Wilson, unexpectedly appeared before the Senate"
+     },
+     {
+      "file": "src/content/en/timeline/peace-without-victory.md",
+      "quote": "he spoke of a united and independent Poland"
+     },
+     {
+      "file": "src/content/en/timeline/provisional-government-proclamation-to-the-poles.md",
+      "quote": "On 30 March 1917 (17 March by the Julian calendar) the official gazette of the Russian Provisional Government"
+     },
+     {
+      "file": "src/content/en/timeline/provisional-government-proclamation-to-the-poles.md",
+      "quote": "for the first time officially recognised the Poles' right to an independent state"
+     },
+     {
+      "file": "src/content/en/timeline/provisional-government-proclamation-to-the-poles.md",
+      "quote": "This state was, however, to be joined to Russia by a \"free military alliance\""
+     }
+    ]
+   },
+   {
+    "text": "On 4 June France agreed to the creation of an autonomous Polish army fighting under the Polish flag.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/decree-creating-the-polish-army-in-france.md",
+      "quote": "On 4 June 1917 the President of France, Raymond Poincaré, signed in Paris a decree"
+     },
+     {
+      "file": "src/content/en/timeline/decree-creating-the-polish-army-in-france.md",
+      "quote": "an autonomous Polish army, subordinate to the orders of the French high command and fighting under the Polish flag"
+     }
+    ]
+   },
+   {
+    "text": "On 9 and 11 July legionaries of the I and III Brigades, at Piłsudski's call, refused to swear an oath of \"brotherhood in arms\" with Germany and Austria-Hungary, and were interned.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/arrest-of-pilsudski.md",
+      "quote": "on 9 and 11 July, legionaries of the I and III Brigades, at Piłsudski's call, had refused to swear an oath of \"brotherhood in arms\" with Germany and Austria-Hungary, and the German occupation authorities had disarmed and interned them"
+     }
+    ]
+   },
+   {
+    "text": "On the night of 21–22 July the Germans arrested Piłsudski, who was later imprisoned in Magdeburg.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/arrest-of-pilsudski.md",
+      "quote": "On the night of 21–22 July 1917 German gendarmes arrested in Warsaw Józef Piłsudski"
+     },
+     {
+      "file": "src/content/en/timeline/arrest-of-pilsudski.md",
+      "quote": "Piłsudski's last place of imprisonment was Magdeburg"
+     }
+    ]
+   },
+   {
+    "text": "On 15 August the Polish National Committee was founded in Lausanne under Roman Dmowski, and was then recognised by France, Britain, Italy and the United States.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/polish-national-committee-founded.md",
+      "quote": "On 15 August 1917, in Lausanne in Switzerland, a group of Polish politicians set up the Polish National Committee"
+     },
+     {
+      "file": "src/content/en/timeline/polish-national-committee-founded.md",
+      "quote": "Its president was Roman Dmowski"
+     },
+     {
+      "file": "src/content/en/timeline/united-states-recognises-the-polish-national-committee.md",
+      "quote": "The United States thus joined France, Britain and Italy."
+     }
+    ]
+   },
+   {
+    "text": "The Council of State resigned on 25 August, and the patent of 12 September gave supreme authority in the Kingdom of Poland to a Regency Council, installed in office on 27 October.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/patent-on-the-regency-council.md",
+      "quote": "on 25 August the members of the Council resigned their seats"
+     },
+     {
+      "file": "src/content/en/timeline/patent-on-the-regency-council.md",
+      "quote": "On 12 September 1917"
+     },
+     {
+      "file": "src/content/en/timeline/patent-on-the-regency-council.md",
+      "quote": "supreme state authority in the Kingdom of Poland"
+     },
+     {
+      "file": "src/content/en/timeline/regency-council-takes-office.md",
+      "quote": "On 27 October 1917 the Regency Council was solemnly installed in office in Warsaw."
+     }
+    ]
+   },
+   {
+    "text": "On 26 November the regents appointed Jan Kucharzewski head of the government.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/kucharzewski-government.md",
+      "quote": "On 26 November 1917 the Regency Council appointed the 41-year-old historian and lawyer Jan Kucharzewski to the post of president of ministers, that is, head of the government"
+     }
+    ]
+   }
+  ]
+ ]
+}

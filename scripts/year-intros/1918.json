@@ -1,0 +1,689 @@
+{
+  "year": 1918,
+  "pl": [
+    [
+      {
+        "text": "8 stycznia 1918 roku prezydent Woodrow Wilson ogłosił czternaście punktów, a 3 marca Rosja Radziecka podpisała w Brześciu pokój z państwami centralnymi i wyszła z wojny.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/01/czternascie-punktow-wilsona.md",
+            "quote": "8 stycznia 1918 roku prezydent Stanów Zjednoczonych Woodrow Wilson"
+          },
+          {
+            "file": "src/content/timeline/1918/01/czternascie-punktow-wilsona.md",
+            "quote": "czternaście punktów Wilsona"
+          },
+          {
+            "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+            "quote": "3 marca 1918 roku, w niedzielę, w Białym Pałacu Twierdzy Brzeskiej delegacja Rosji Radzieckiej podpisała traktat pokojowy z Niemcami, Austro-Węgrami, Bułgarią i Turcją"
+          },
+          {
+            "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+            "quote": "Rosja wyszła z wojny"
+          }
+        ]
+      },
+      {
+        "text": "21 marca Erich Ludendorff rozpoczął operację Michael, pierwszą z ofensyw, którymi chciał wygrać wojnę, zanim do Francji dotrą Amerykanie.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/03/poczatek-operacji-michael.md",
+            "quote": "21 marca 1918 roku, w czwartek"
+          },
+          {
+            "file": "src/content/timeline/1918/03/poczatek-operacji-michael.md",
+            "quote": "Tak zaczęła się operacja Michael, pierwsza z wielkich ofensyw, którymi Erich Ludendorff chciał wygrać wojnę, zanim do Francji dotrą masy żołnierzy amerykańskich"
+          }
+        ]
+      },
+      {
+        "text": "Kolejne uderzenia przyszły we Flandrii, nad Aisne i 15 lipca nad Marną.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/04/foch-naczelnym-wodzem.md",
+            "quote": "niemiecką ofensywą we Flandrii"
+          },
+          {
+            "file": "src/content/timeline/1918/05/poczatek-trzeciej-bitwy-nad-aisne.md",
+            "quote": "Tak zaczęła się trzecia wielka ofensywa wiosny 1918 roku"
+          },
+          {
+            "file": "src/content/timeline/1918/07/poczatek-drugiej-bitwy-nad-marna.md",
+            "quote": "15 lipca 1918 roku, kilka minut po północy"
+          },
+          {
+            "file": "src/content/timeline/1918/07/poczatek-drugiej-bitwy-nad-marna.md",
+            "quote": "na zachód od miasta przeszły wprawdzie Marnę"
+          }
+        ]
+      },
+      {
+        "text": "Wspólnym wodzem sprzymierzonych został tymczasem generał Ferdinand Foch.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/04/foch-naczelnym-wodzem.md",
+            "quote": "generał Ferdinand Foch otrzymał tytuł „naczelnego wodza armii sojuszniczych we Francji”"
+          },
+          {
+            "file": "src/content/timeline/1918/04/foch-naczelnym-wodzem.md",
+            "quote": "armie sojusznicze na froncie zachodnim miały wspólnego wodza"
+          }
+        ]
+      },
+      {
+        "text": "18 lipca kontrofensywa Mangina odebrała Niemcom inicjatywę, a 8 sierpnia pod Amiens nastał „czarny dzień armii niemieckiej”.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/07/kontrofensywa-mangina.md",
+            "quote": "18 lipca 1918 roku o 4.35"
+          },
+          {
+            "file": "src/content/timeline/1918/07/kontrofensywa-mangina.md",
+            "quote": "Inicjatywa na froncie zachodnim, którą Niemcy trzymali od 21 marca, przeszła w ręce sprzymierzonych"
+          },
+          {
+            "file": "src/content/timeline/1918/08/poczatek-bitwy-pod-amiens.md",
+            "quote": "8 sierpnia był „czarnym dniem armii niemieckiej w historii tej wojny”"
+          }
+        ]
+      },
+      {
+        "text": "We wrześniu Allenby rozbił Turków pod Megiddo, Bułgaria jako pierwsza z państw centralnych złożyła broń, a 29 września Brytyjczycy uderzyli na Linię Hindenburga.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/09/poczatek-bitwy-pod-megiddo.md",
+            "quote": "Tak zaczęła się ostatnia wielka ofensywa generała Edmunda Allenby'ego w Palestynie"
+          },
+          {
+            "file": "src/content/timeline/1918/09/poczatek-bitwy-pod-megiddo.md",
+            "quote": "Turecka 8 Armia przestała tego dnia istnieć jako zorganizowana siła"
+          },
+          {
+            "file": "src/content/timeline/1918/09/rozejm-w-salonikach.md",
+            "quote": "jako pierwsze z państw centralnych złożyło broń"
+          },
+          {
+            "file": "src/content/timeline/1918/09/poczatek-bitwy-o-kanal-saint-quentin.md",
+            "quote": "29 września 1918 roku o 5.50 rano brytyjska 4 Armia generała Henry'ego Rawlinsona uderzyła na Linię Hindenburga"
+          }
+        ]
+      },
+      {
+        "text": "Tego samego dnia Hindenburg i Ludendorff zażądali, by Niemcy natychmiast poprosiły o rozejm.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+            "quote": "29 września 1918 roku w Spa"
+          },
+          {
+            "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+            "quote": "wojny nie da się już prowadzić dalej i że Niemcy muszą natychmiast poprosić o rozejm"
+          },
+          {
+            "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+            "quote": "Feldmarszałek Paul von Hindenburg i generał Erich Ludendorff"
+          }
+        ]
+      },
+      {
+        "text": "30 października rozejm podpisała Turcja, a 3 listopada pokonane pod Vittorio Veneto Austro-Węgry.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+            "quote": "30 października 1918 roku o 21.40"
+          },
+          {
+            "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+            "quote": "Turcja jako drugie po Bułgarii z państw centralnych wyszła z wojny"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md",
+            "quote": "3 listopada 1918 roku w willi hrabiego Vettora Giustiego del Giardino na przedmieściach Padwy austro-węgierska komisja rozejmowa generała piechoty Viktora Webera von Webenau podpisała rozejm z aliantami"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md",
+            "quote": "ich armia od kilku dni cofała się w nieładzie przed Włochami, Brytyjczykami i Francuzami"
+          }
+        ]
+      },
+      {
+        "text": "9 listopada upadło Cesarstwo Niemieckie, a 11 listopada rozejm w lesie Compiègne zakończył wielką wojnę na zachodzie.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+            "quote": "9 listopada 1918 roku w ciągu kilku godzin upadło Cesarstwo Niemieckie"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+            "quote": "11 listopada 1918 roku kilka minut po piątej rano"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+            "quote": "przedstawiciele Niemiec podpisali układ o zawieszeniu broni"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+            "quote": "wielka wojna na zachodzie dobiegła końca"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "Dla Polski rok zaczął się od trzynastego punktu Wilsona, który żądał niepodległego państwa z dostępem do morza, ale 9 lutego państwa centralne oddały Ukrainie Chełmszczyznę, co Polacy nazwali „czwartym rozbiorem”.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/01/czternascie-punktow-wilsona.md",
+            "quote": "Punkt trzynasty żądał niepodległej Polski na ziemiach bezspornie polskich, z wolnym dostępem do morza"
+          },
+          {
+            "file": "src/content/timeline/1918/02/pokoj-brzeski-z-ukraina.md",
+            "quote": "9 lutego 1918 roku"
+          },
+          {
+            "file": "src/content/timeline/1918/02/pokoj-brzeski-z-ukraina.md",
+            "quote": "odcinała od ziem polskich Chełmszczyznę i część Podlasia"
+          },
+          {
+            "file": "src/content/timeline/1918/02/pokoj-brzeski-z-ukraina.md",
+            "quote": "Dla Polaków był to „czwarty rozbiór”"
+          }
+        ]
+      },
+      {
+        "text": "W proteście część II Brygady Legionów przebiła się pod Rarańczą przez front, a 11 maja Niemcy rozbili pod Kaniowem II Korpus Polski generała Józefa Hallera.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/02/bitwa-pod-rarancza.md",
+            "quote": "Był to zbrojny protest polskich żołnierzy armii austro-węgierskiej"
+          },
+          {
+            "file": "src/content/timeline/1918/02/bitwa-pod-rarancza.md",
+            "quote": "przebić się przez linię austro-węgierską pod wsią Rarańczą"
+          },
+          {
+            "file": "src/content/timeline/1918/02/bitwa-pod-rarancza.md",
+            "quote": "część brygady"
+          },
+          {
+            "file": "src/content/timeline/1918/05/walki-pod-kaniowem.md",
+            "quote": "W nocy z 10 na 11 maja 1918 roku, w strugach deszczu, niemiecka piechota zaatakowała kwatery II Korpusu Polskiego"
+          },
+          {
+            "file": "src/content/timeline/1918/07/general-haller-we-francji.md",
+            "quote": "dowódca rozbitego dwa miesiące wcześniej pod Kaniowem II Korpusu Polskiego"
+          }
+        ]
+      },
+      {
+        "text": "3 czerwca premierzy Francji, Wielkiej Brytanii i Włoch uznali w Wersalu niepodległą Polskę za jeden z warunków trwałego i sprawiedliwego pokoju, a 4 października Haller został naczelnym wodzem Armii Polskiej.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/06/deklaracja-wersalska.md",
+            "quote": "3 czerwca 1918 roku w Wersalu"
+          },
+          {
+            "file": "src/content/timeline/1918/06/deklaracja-wersalska.md",
+            "quote": "Utworzenie zjednoczonego i niepodległego państwa polskiego z wolnym dostępem do morza stanowi jeden z warunków trwałego i sprawiedliwego pokoju"
+          },
+          {
+            "file": "src/content/timeline/1918/06/deklaracja-wersalska.md",
+            "quote": "Po raz pierwszy Francja, Wielka Brytania i Włochy wspólnie i publicznie wpisały odbudowę zjednoczonej Polski do warunków przyszłego pokoju"
+          },
+          {
+            "file": "src/content/timeline/1918/10/haller-naczelnym-wodzem.md",
+            "quote": "4 października 1918 roku"
+          },
+          {
+            "file": "src/content/timeline/1918/10/haller-naczelnym-wodzem.md",
+            "quote": "mianował generała Józefa Hallera naczelnym wodzem Armii Polskiej"
+          },
+          {
+            "file": "src/content/timeline/1918/06/deklaracja-wersalska.md",
+            "quote": "stanowi jeden z warunków trwałego i sprawiedliwego pokoju"
+          }
+        ]
+      },
+      {
+        "text": "7 października Rada Regencyjna przemówiła w imieniu niepodległej Polski, 31 października Kraków przeszedł w ręce polskie, a 7 listopada w Lublinie powstał rząd Ignacego Daszyńskiego.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/10/deklaracja-rady-regencyjnej.md",
+            "quote": "7 października 1918 roku w Warszawie Rada Regencyjna"
+          },
+          {
+            "file": "src/content/timeline/1918/10/deklaracja-rady-regencyjnej.md",
+            "quote": "po raz pierwszy przemówił w imieniu niepodległej Polski"
+          },
+          {
+            "file": "src/content/timeline/1918/10/wyzwolenie-krakowa.md",
+            "quote": "31 października 1918 roku Kraków przeszedł w ręce polskie"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rzad-lubelski.md",
+            "quote": "W nocy z 6 na 7 listopada 1918 roku"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rzad-lubelski.md",
+            "quote": "Tymczasowego Rządu Ludowego Republiki Polskiej, na którego czele stanął galicyjski socjalista Ignacy Daszyński"
+          }
+        ]
+      },
+      {
+        "text": "10 listopada wrócił do Warszawy z niemieckiego więzienia Józef Piłsudski, a 11 listopada, gdy w mieście rozbrajano niemiecki garnizon, Rada Regencyjna przekazała mu władzę wojskową.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/11/pilsudski-wraca-do-warszawy.md",
+            "quote": "W niedzielę 10 listopada 1918 roku"
+          },
+          {
+            "file": "src/content/timeline/1918/11/pilsudski-wraca-do-warszawy.md",
+            "quote": "Wysiedli z niego Józef Piłsudski i jego szef sztabu z czasów Legionów, Kazimierz Sosnkowski, od kilkunastu miesięcy więźniowie Niemców"
+          },
+          {
+            "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+            "quote": "11 listopada 1918 roku wieczorem w Warszawie Rada Regencyjna przekazała Józefowi Piłsudskiemu władzę wojskową"
+          },
+          {
+            "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+            "quote": "rozbrajali w mieście niemiecki garnizon"
+          }
+        ]
+      },
+      {
+        "text": "Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/11/odzyskanie-niepodleglosci-przez-polske.md",
+            "quote": "Ten dzień przyjęto później za symboliczną datę odzyskania niepodległości."
+          }
+        ]
+      },
+      {
+        "text": "14 listopada regenci oddali Piłsudskiemu całą władzę, a 16 listopada zawiadomił on świat o istnieniu niepodległego państwa polskiego.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/11/rozwiazanie-rady-regencyjnej.md",
+            "quote": "14 listopada 1918 roku trzej regenci"
+          },
+          {
+            "file": "src/content/timeline/1918/11/rozwiazanie-rady-regencyjnej.md",
+            "quote": "Całą posiadaną władzę zwierzchnią przekazali Józefowi Piłsudskiemu"
+          },
+          {
+            "file": "src/content/timeline/1918/11/notyfikacja-pilsudskiego.md",
+            "quote": "16 listopada 1918 roku Józef Piłsudski podpisał w Warszawie depeszę, w której jako „wódz naczelny armii polskiej” zawiadomił świat o istnieniu niepodległego państwa polskiego"
+          }
+        ]
+      },
+      {
+        "text": "Od 1 listopada Polacy walczyli z Ukraińcami o Lwów, który opanowali 22 listopada, a 27 grudnia w Poznaniu wybuchło powstanie wielkopolskie.",
+        "quotes": [
+          {
+            "file": "src/content/timeline/1918/11/poczatek-walk-o-lwow.md",
+            "quote": "Tak zaczęła się trzytygodniowa walka o miasto i wojna polsko-ukraińska"
+          },
+          {
+            "file": "src/content/timeline/1918/11/poczatek-walk-o-lwow.md",
+            "quote": "1 listopada 1918 roku mieszkańcy Lwowa"
+          },
+          {
+            "file": "src/content/timeline/1918/11/polacy-zdobywaja-lwow.md",
+            "quote": "Rankiem 22 listopada 1918 roku Lwów znalazł się w rękach polskich"
+          },
+          {
+            "file": "src/content/timeline/1918/12/wybuch-powstania-wielkopolskiego.md",
+            "quote": "27 grudnia 1918 roku, późnym popołudniem, na ulicach Poznania padły strzały, od których zaczęło się powstanie wielkopolskie"
+          }
+        ]
+      }
+    ]
+  ],
+  "en": [
+    [
+      {
+        "text": "On 8 January 1918 President Woodrow Wilson announced his Fourteen Points, and on 3 March Soviet Russia signed peace with the Central Powers at Brest and left the war.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/wilsons-fourteen-points.md",
+            "quote": "On 8 January 1918 the President of the United States, Woodrow Wilson"
+          },
+          {
+            "file": "src/content/en/timeline/wilsons-fourteen-points.md",
+            "quote": "Wilson's Fourteen Points"
+          },
+          {
+            "file": "src/content/en/timeline/treaty-of-brest-litovsk.md",
+            "quote": "On Sunday 3 March 1918, in the White Palace of the Brest Fortress, the delegation of Soviet Russia signed a peace treaty with Germany, Austria-Hungary, Bulgaria and Turkey"
+          },
+          {
+            "file": "src/content/en/timeline/treaty-of-brest-litovsk.md",
+            "quote": "Russia left the war"
+          }
+        ]
+      },
+      {
+        "text": "On 21 March Erich Ludendorff launched Operation Michael, the first of the offensives with which he meant to win the war before the Americans reached France.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/operation-michael-begins.md",
+            "quote": "On Thursday 21 March 1918"
+          },
+          {
+            "file": "src/content/en/timeline/operation-michael-begins.md",
+            "quote": "So began Operation Michael, the first of the great offensives with which Erich Ludendorff meant to win the war before masses of American soldiers reached France"
+          }
+        ]
+      },
+      {
+        "text": "Further blows followed in Flanders, on the Aisne and, on 15 July, on the Marne.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/foch-becomes-allied-commander-in-chief.md",
+            "quote": "the German offensive in Flanders"
+          },
+          {
+            "file": "src/content/en/timeline/third-battle-of-the-aisne-begins.md",
+            "quote": "So began the third great offensive of spring 1918"
+          },
+          {
+            "file": "src/content/en/timeline/second-battle-of-the-marne-begins.md",
+            "quote": "On 15 July 1918, a few minutes after midnight"
+          },
+          {
+            "file": "src/content/en/timeline/second-battle-of-the-marne-begins.md",
+            "quote": "west of the city, although they crossed the Marne"
+          }
+        ]
+      },
+      {
+        "text": "Meanwhile General Ferdinand Foch became the common commander of the Allied armies.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/foch-becomes-allied-commander-in-chief.md",
+            "quote": "General Ferdinand Foch received the title of \"commander-in-chief of the Allied armies in France\""
+          },
+          {
+            "file": "src/content/en/timeline/foch-becomes-allied-commander-in-chief.md",
+            "quote": "the Allied armies on the Western Front had a common commander"
+          }
+        ]
+      },
+      {
+        "text": "On 18 July Mangin's counter-offensive took the initiative from the Germans, and 8 August at Amiens became \"the black day of the German Army\".",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/mangins-counter-offensive.md",
+            "quote": "On 18 July 1918 at 4.35 a.m."
+          },
+          {
+            "file": "src/content/en/timeline/mangins-counter-offensive.md",
+            "quote": "The initiative on the Western Front, which the Germans had held since 21 March, passed into Allied hands"
+          },
+          {
+            "file": "src/content/en/timeline/battle-of-amiens-begins.md",
+            "quote": "8 August was \"the black day of the German Army in the history of this war\""
+          }
+        ]
+      },
+      {
+        "text": "In September Allenby destroyed the Turkish front at Megiddo, Bulgaria became the first of the Central Powers to lay down its arms, and on 29 September the British attacked the Hindenburg Line.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/battle-of-megiddo-begins.md",
+            "quote": "So began the last great offensive of General Edmund Allenby in Palestine"
+          },
+          {
+            "file": "src/content/en/timeline/battle-of-megiddo-begins.md",
+            "quote": "his infantry had broken through the entire Turkish trench system by the sea"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-salonica.md",
+            "quote": "was the first of the Central Powers to lay down its arms"
+          },
+          {
+            "file": "src/content/en/timeline/battle-of-the-st-quentin-canal-begins.md",
+            "quote": "At 5.50 a.m. on 29 September 1918 General Henry Rawlinson's British Fourth Army attacked the Hindenburg Line"
+          }
+        ]
+      },
+      {
+        "text": "That same day Hindenburg and Ludendorff demanded that Germany immediately ask for an armistice.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/ludendorff-demands-an-armistice.md",
+            "quote": "On 29 September 1918 at Spa"
+          },
+          {
+            "file": "src/content/en/timeline/ludendorff-demands-an-armistice.md",
+            "quote": "Germany must immediately ask for an armistice"
+          },
+          {
+            "file": "src/content/en/timeline/ludendorff-demands-an-armistice.md",
+            "quote": "Field Marshal Paul von Hindenburg and General Erich Ludendorff"
+          }
+        ]
+      },
+      {
+        "text": "Turkey signed an armistice on 30 October, and Austria-Hungary, beaten at Vittorio Veneto, on 3 November.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/armistice-of-mudros.md",
+            "quote": "At 9.40 p.m. on 30 October 1918"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-mudros.md",
+            "quote": "Turkey became the second of the Central Powers, after Bulgaria, to leave the war"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-villa-giusti.md",
+            "quote": "On 3 November 1918"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-villa-giusti.md",
+            "quote": "signed an armistice with the Allies"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-villa-giusti.md",
+            "quote": "its army had been retreating in disorder before the Italians, British and French"
+          }
+        ]
+      },
+      {
+        "text": "On 9 November the German Empire collapsed, and on 11 November the armistice signed in the Forest of Compiègne ended the Great War in the west.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/revolution-in-berlin.md",
+            "quote": "On 9 November 1918 the German Empire collapsed within a few hours"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-compiegne.md",
+            "quote": "On 11 November 1918, a few minutes after five in the morning"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-compiegne.md",
+            "quote": "the representatives of Germany signed an agreement on the cessation of hostilities"
+          },
+          {
+            "file": "src/content/en/timeline/armistice-of-compiegne.md",
+            "quote": "the Great War in the west was over"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "For Poland the year began with Wilson's thirteenth point, which demanded an independent state with free access to the sea, but on 9 February the Central Powers gave Ukraine the Chełm Land, which the Poles called the \"fourth partition\".",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/wilsons-fourteen-points.md",
+            "quote": "The thirteenth point demanded an independent Poland on territories inhabited by indisputably Polish populations, with free access to the sea"
+          },
+          {
+            "file": "src/content/en/timeline/peace-of-brest-litovsk-with-ukraine.md",
+            "quote": "On 9 February 1918"
+          },
+          {
+            "file": "src/content/en/timeline/peace-of-brest-litovsk-with-ukraine.md",
+            "quote": "received a border which cut off Chełm Land and part of Podlasie from the Polish lands"
+          },
+          {
+            "file": "src/content/en/timeline/peace-of-brest-litovsk-with-ukraine.md",
+            "quote": "For the Poles it was the \"fourth partition\""
+          }
+        ]
+      },
+      {
+        "text": "In protest, part of the Second Brigade of the Legions broke through the front at Rarańcza, and on 11 May the Germans crushed General Józef Haller's Polish II Corps at Kaniów.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/battle-of-rarancza.md",
+            "quote": "It was an armed protest by Polish soldiers of the Austro-Hungarian army"
+          },
+          {
+            "file": "src/content/en/timeline/battle-of-rarancza.md",
+            "quote": "break through the Austro-Hungarian line near the village of Rarańcza"
+          },
+          {
+            "file": "src/content/en/timeline/battle-of-rarancza.md",
+            "quote": "part of the brigade"
+          },
+          {
+            "file": "src/content/en/timeline/fighting-at-kaniow.md",
+            "quote": "In the night of 10/11 May 1918, in pouring rain, German infantry attacked the quarters of the Polish II Corps"
+          },
+          {
+            "file": "src/content/en/timeline/fighting-at-kaniow.md",
+            "quote": "the corps of General Józef Haller"
+          },
+          {
+            "file": "src/content/en/timeline/fighting-at-kaniow.md",
+            "quote": "the end of their corps"
+          }
+        ]
+      },
+      {
+        "text": "On 3 June the prime ministers of France, Britain and Italy declared at Versailles that an independent Poland was one of the conditions of a solid and just peace, and on 4 October Haller was appointed commander-in-chief of the Polish Army.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/versailles-declaration.md",
+            "quote": "On 3 June 1918 at Versailles"
+          },
+          {
+            "file": "src/content/en/timeline/versailles-declaration.md",
+            "quote": "The creation of a united and independent Polish state with free access to the sea constitutes one of the conditions of a solid and just peace"
+          },
+          {
+            "file": "src/content/en/timeline/versailles-declaration.md",
+            "quote": "For the first time France, Britain and Italy jointly and publicly included the restoration of a united Poland among the conditions of the future peace"
+          },
+          {
+            "file": "src/content/en/timeline/haller-becomes-commander-in-chief.md",
+            "quote": "On 4 October 1918"
+          },
+          {
+            "file": "src/content/en/timeline/haller-becomes-commander-in-chief.md",
+            "quote": "appointed General Józef Haller commander-in-chief of the Polish Army"
+          },
+          {
+            "file": "src/content/en/timeline/versailles-declaration.md",
+            "quote": "conditions of a solid and just peace"
+          }
+        ]
+      },
+      {
+        "text": "On 7 October the Regency Council spoke in the name of an independent Poland, on 31 October Kraków passed into Polish hands, and on 7 November a government under Ignacy Daszyński was proclaimed in Lublin.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/declaration-of-the-regency-council.md",
+            "quote": "On 7 October 1918 in Warsaw the Regency Council"
+          },
+          {
+            "file": "src/content/en/timeline/declaration-of-the-regency-council.md",
+            "quote": "spoke for the first time in the name of an independent Poland"
+          },
+          {
+            "file": "src/content/en/timeline/liberation-of-krakow.md",
+            "quote": "On 31 October 1918 Kraków passed into Polish hands."
+          },
+          {
+            "file": "src/content/en/timeline/lublin-government.md",
+            "quote": "On the night of 6/7 November 1918 posters with the manifesto of a new authority were put up on the streets of Lublin"
+          },
+          {
+            "file": "src/content/en/timeline/lublin-government.md",
+            "quote": "headed by the Galician socialist Ignacy Daszyński"
+          }
+        ]
+      },
+      {
+        "text": "On 10 November Józef Piłsudski returned to Warsaw from German captivity, and on 11 November, as the German garrison was being disarmed, the Regency Council handed him military authority.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/pilsudski-returns-to-warsaw.md",
+            "quote": "Early on the morning of Sunday 10 November 1918"
+          },
+          {
+            "file": "src/content/en/timeline/pilsudski-returns-to-warsaw.md",
+            "quote": "for more than a year prisoners of the Germans"
+          },
+          {
+            "file": "src/content/en/timeline/poland-regains-independence.md",
+            "quote": "On the evening of 11 November 1918 in Warsaw the Regency Council handed Józef Piłsudski military authority"
+          },
+          {
+            "file": "src/content/en/timeline/poland-regains-independence.md",
+            "quote": "disarming the German garrison in the city"
+          }
+        ]
+      },
+      {
+        "text": "This day was later adopted as the symbolic date of the recovery of independence.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/poland-regains-independence.md",
+            "quote": "This day was later adopted as the symbolic date of the recovery of independence."
+          }
+        ]
+      },
+      {
+        "text": "On 14 November the regents handed Piłsudski all their authority, and on 16 November he notified the world of the existence of an independent Polish state.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/dissolution-of-the-regency-council.md",
+            "quote": "On 14 November 1918 the three regents"
+          },
+          {
+            "file": "src/content/en/timeline/dissolution-of-the-regency-council.md",
+            "quote": "They handed all the supreme authority they held to Józef Piłsudski"
+          },
+          {
+            "file": "src/content/en/timeline/pilsudskis-notification.md",
+            "quote": "On 16 November 1918 Józef Piłsudski signed in Warsaw a telegram in which, as \"commander-in-chief of the Polish army\", he notified the world of the existence of an independent Polish state"
+          }
+        ]
+      },
+      {
+        "text": "From 1 November the Poles fought the Ukrainians for Lwów, which they took on 22 November, and on 27 December the Greater Poland Uprising broke out in Poznań.",
+        "quotes": [
+          {
+            "file": "src/content/en/timeline/fighting-for-lwow-begins.md",
+            "quote": "On 1 November 1918 the inhabitants of Lwów"
+          },
+          {
+            "file": "src/content/en/timeline/fighting-for-lwow-begins.md",
+            "quote": "Thus began the three-week struggle for the city and the Polish–Ukrainian War"
+          },
+          {
+            "file": "src/content/en/timeline/poles-take-lwow.md",
+            "quote": "On the morning of 22 November 1918 Lwów was in Polish hands"
+          },
+          {
+            "file": "src/content/en/timeline/outbreak-of-the-greater-poland-uprising.md",
+            "quote": "Late in the afternoon of 27 December 1918 shots rang out in the streets of Poznań, and with them the Greater Poland Uprising began"
+          }
+        ]
+      }
+    ]
+  ]
+}

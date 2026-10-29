@@ -1,0 +1,485 @@
+{
+ "year": 1916,
+ "pl": [
+  [
+   {
+    "text": "W nocy z 8 na 9 stycznia 1916 roku ostatni żołnierze brytyjscy odpłynęli spod przylądka Helles i kampania gallipolijska skończyła się klęską Ententy.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/01/koniec-ewakuacji-gallipoli.md",
+      "quote": "W nocy z 8 na 9 stycznia 1916 roku ostatni żołnierze brytyjscy odpłynęli spod przylądka Helles."
+     },
+     {
+      "file": "src/content/timeline/1916/01/koniec-ewakuacji-gallipoli.md",
+      "quote": "kampania gallipolijska skończyła się klęską Ententy"
+     }
+    ]
+   },
+   {
+    "text": "16 lutego Rosjanie zajęli Erzurum, a 29 kwietnia, po 147 dniach oblężenia, brytyjski garnizon Al-Kutu poddał się Turkom.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/02/rosjanie-zdobywaja-erzurum.md",
+      "quote": "16 lutego 1916 Kozacy wjechali do opuszczonego przez Turków Erzurum."
+     },
+     {
+      "file": "src/content/timeline/1916/04/kapitulacja-al-kutu.md",
+      "quote": "29 kwietnia 1916 głodujący garnizon Al-Kutu poddał się Turkom. Po 147 dniach oblężenia"
+     }
+    ]
+   },
+   {
+    "text": "21 lutego Niemcy uderzyli pod Verdun, a bitwa przerodziła się w walkę na wyniszczenie, która trwała do 18 grudnia.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/02/poczatek-bitwy-pod-verdun.md",
+      "quote": "Rankiem 21 lutego 1916 roku ponad 1200 niemieckich dział otworzyło ogień na francuskie pozycje na północ od Verdun."
+     },
+     {
+      "file": "src/content/timeline/1916/02/poczatek-bitwy-pod-verdun.md",
+      "quote": "przerodziła się w walkę na wyniszczenie"
+     },
+     {
+      "file": "src/content/timeline/1916/12/koniec-bitwy-pod-verdun.md",
+      "quote": "18 grudnia 1916 roku batalion francuskich żuawów odbił ruiny ferme Les Chambrettes na północ od Verdun. Był to ostatni akt grudniowego natarcia generała Charles'a Mangina i koniec bitwy pod Verdun."
+     }
+    ]
+   },
+   {
+    "text": "24 kwietnia w Dublinie wybuchło powstanie wielkanocne, a 31 maja zaczęła się bitwa jutlandzka, największa bitwa morska tej wojny.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/04/wybuch-powstania-wielkanocnego.md",
+      "quote": "Wybuch powstania wielkanocnego"
+     },
+     {
+      "file": "src/content/timeline/1916/04/wybuch-powstania-wielkanocnego.md",
+      "quote": "24 kwietnia 1916 roku, w Poniedziałek Wielkanocny, irlandzcy nacjonaliści zajęli kilkanaście budynków w centrum Dublina."
+     },
+     {
+      "file": "src/content/timeline/1916/05/poczatek-bitwy-jutlandzkiej.md",
+      "quote": "31 maja 1916 roku na Morzu Północnym zaczęła się największa bitwa morska I wojny światowej."
+     }
+    ]
+   },
+   {
+    "text": "4 czerwca ruszyła ofensywa Brusiłowa, która rozbiła znaczną część armii austro-węgierskiej, a 5 czerwca pod Medyną zaczęło się powstanie arabskie.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/06/poczatek-ofensywy-brusilowa.md",
+      "quote": "4 czerwca 1916 roku rosyjski Front Południowo-Zachodni generała Aleksieja Brusiłowa rozpoczął wielką ofensywę przeciw Austro-Węgrom."
+     },
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "ofensywa Brusiłowa rozbiła znaczną część armii austro-węgierskiej"
+     },
+     {
+      "file": "src/content/timeline/1916/06/poczatek-powstania-arabskiego.md",
+      "quote": "5 czerwca 1916 synowie szarifa Mekki, Ali i Fajsal, ogłosili pod Medyną niezależność Arabów od Turków. Tak zaczęło się powstanie arabskie."
+     }
+    ]
+   },
+   {
+    "text": "1 lipca Brytyjczycy i Francuzi uderzyli nad Sommą, a armia brytyjska straciła tego dnia 57 tysięcy ludzi.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+      "quote": "1 lipca 1916 Brytyjczycy i Francuzi uderzyli nad Sommą. Francuzi i prawe skrzydło brytyjskie odnieśli sukces, ale armia brytyjska straciła 57 tysięcy ludzi."
+     }
+    ]
+   },
+   {
+    "text": "27 sierpnia do wojny po stronie Ententy przystąpiła Rumunia, a 29 sierpnia szefem Sztabu Generalnego został Hindenburg, z Ludendorffem jako zastępcą.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/08/rumunia-wypowiada-wojne-austro-wegrom.md",
+      "quote": "27 sierpnia 1916 roku rada koronna w Bukareszcie zatwierdziła wejście Rumunii do wojny po stronie Ententy."
+     },
+     {
+      "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+      "quote": "29 sierpnia 1916 Wilhelm II odwołał Falkenhayna. Szefem Sztabu Generalnego Armii Polowej został Hindenburg, a jego zastępcą Ludendorff."
+     }
+    ]
+   },
+   {
+    "text": "Bitwa nad Sommą, w której 15 września po raz pierwszy weszły do boju czołgi, skończyła się 18 listopada bez przełamania frontu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/09/poczatek-bitwy-pod-flers-courcelette.md",
+      "quote": "15 września 1916 nad Sommą do boju po raz pierwszy weszły czołgi."
+     },
+     {
+      "file": "src/content/timeline/1916/11/koniec-bitwy-nad-somma.md",
+      "quote": "18 listopada 1916 roku brytyjska 5 Armia przeprowadziła nad rzeką Ancre, w śnieżnej zamieci, ostatnie natarcie bitwy nad Sommą"
+     },
+     {
+      "file": "src/content/timeline/1916/11/koniec-bitwy-nad-somma.md",
+      "quote": "nie przełamali frontu"
+     }
+    ]
+   },
+   {
+    "text": "21 listopada zmarł cesarz Franciszek Józef I, a 6 grudnia Niemcy weszli bez walki do Bukaresztu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/11/smierc-franciszka-jozefa.md",
+      "quote": "21 listopada 1916 w pałacu Schönbrunn zmarł 86-letni cesarz Franciszek Józef I"
+     },
+     {
+      "file": "src/content/timeline/1916/12/upadek-bukaresztu.md",
+      "quote": "6 grudnia 1916 wojska Falkenhayna i Mackensena weszły bez walki do Bukaresztu."
+     }
+    ]
+   },
+   {
+    "text": "12 grudnia Niemcy i ich sojusznicy zaproponowali Entencie rokowania pokojowe, które Ententa odrzuciła 30 grudnia.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/12/niemiecka-oferta-pokojowa.md",
+      "quote": "12 grudnia 1916 Niemcy i ich sojusznicy zaproponowali Entencie rokowania pokojowe."
+     },
+     {
+      "file": "src/content/timeline/1916/12/niemiecka-oferta-pokojowa.md",
+      "quote": "Ententa odrzuciła ofertę 30 grudnia 1916 roku"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Dla Polski był to rok, w którym Polacy walczyli po obu stronach frontu: Legiony po stronie austro-węgierskiej, a Brygada Strzelców Polskich w armii rosyjskiej.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1916/bitwa-pod-baranowiczami.md",
+      "quote": "w szeregach armii rosyjskiej służyła tu Brygada Strzelców Polskich. W tych samych dniach, po drugiej stronie Polesia, Legiony Polskie walczyły po stronie austro-węgierskiej"
+     }
+    ]
+   },
+   {
+    "text": "W lipcu brygady Legionów przez trzy dni powstrzymywały natarcie Rosjan pod Kostiuchnówką, tracąc około 2 tysięcy zabitych i rannych.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+      "quote": "natarcie rosyjskiego XLVI Korpusu przez trzy dni powstrzymywały brygady Legionów Polskich"
+     },
+     {
+      "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+      "quote": "Bitwa pod Kostiuchnówką kosztowała legionistów około 2 tysięcy zabitych i rannych"
+     },
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "w bitwie pod Kostiuchnówką w lipcu 1916 roku"
+     }
+    ]
+   },
+   {
+    "text": "Po walkach na Wołyniu Józef Piłsudski na znak protestu przeciw traktowaniu Legionów zażądał zwolnienia ze służby, a we wrześniu Legiony przemianowano na Polski Korpus Posiłkowy.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "W lipcu, po walkach na Wołyniu, zażądał zwolnienia ze służby na znak protestu przeciw traktowaniu Legionów, a pod koniec września Austriacy przyjęli jego dymisję."
+     },
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "Legiony przemianowano we wrześniu na Polski Korpus Posiłkowy."
+     }
+    ]
+   },
+   {
+    "text": "5 listopada w Warszawie i Lublinie ogłoszono manifest cesarzy Niemiec i Austro-Węgier zapowiadający utworzenie Królestwa Polskiego, „samodzielnego”, ale bez króla, rządu i granic.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "5 listopada 1916 w Warszawie i Lublinie ogłoszono manifest cesarzy Niemiec i Austro-Węgier zapowiadający utworzenie Królestwa Polskiego"
+     },
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "Nowe państwo nazwano „samodzielnym”, a nie niepodległym. Nie miało króla, rządu, konstytucji ani wyznaczonych granic"
+     }
+    ]
+   },
+   {
+    "text": "9 listopada okupanci wezwali Polaków do zaciągu ochotniczego, co wywołało oburzenie, a ochotników zgłosiło się niewielu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "Już 9 listopada Beseler i Kuk wezwali Polaków do zaciągu ochotniczego, zanim powstał jakikolwiek polski rząd. Wywołało to oburzenie"
+     },
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "Ochotników zgłosiło się niewielu."
+     }
+    ]
+   },
+   {
+    "text": "6 grudnia ogłoszono rozporządzenie o Tymczasowej Radzie Stanu, której członkowie mieli tylko doradzać.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "6 grudnia 1916 roku ogłosili rozporządzenie o Tymczasowej Radzie Stanu"
+     },
+     {
+      "file": "src/content/timeline/1916/12/dekret-o-utworzeniu-tymczasowej-rady-stanu.md",
+      "quote": "Mianowani przez okupantów Polacy mieli tylko doradzać."
+     }
+    ]
+   },
+   {
+    "text": "Rosja zaprotestowała przeciw aktowi, a 25 grudnia car Mikołaj II zaliczył do celów wojny utworzenie wolnej Polski ze wszystkich trzech zaborów.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+      "quote": "Rząd rosyjski zaprotestował 15 listopada"
+     },
+     {
+      "file": "src/content/timeline/1916/12/rozkaz-mikolaja-ii-w-sprawie-polski.md",
+      "quote": "25 grudnia 1916 car Mikołaj II w rozkazie do armii i floty zaliczył do celów wojny utworzenie wolnej Polski ze wszystkich trzech zaborów."
+     }
+    ]
+   }
+  ]
+ ],
+ "en": [
+  [
+   {
+    "text": "On the night of 8–9 January 1916 the last British troops sailed from Cape Helles and the Gallipoli campaign ended in Allied defeat.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/end-of-the-evacuation-of-gallipoli.md",
+      "quote": "On the night of 8–9 January 1916 the last British troops sailed from Cape Helles."
+     },
+     {
+      "file": "src/content/en/timeline/end-of-the-evacuation-of-gallipoli.md",
+      "quote": "the Gallipoli campaign ended in Allied defeat"
+     }
+    ]
+   },
+   {
+    "text": "On 16 February the Russians took Erzurum, and on 29 April, after a siege of 147 days, the British garrison of Kut surrendered to the Turks.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/russians-capture-erzurum.md",
+      "quote": "On 16 February 1916 Cossacks rode into Erzurum, left by the Turks."
+     },
+     {
+      "file": "src/content/en/timeline/surrender-of-kut.md",
+      "quote": "On 29 April 1916 the starving garrison of Kut surrendered to the Turks."
+     },
+     {
+      "file": "src/content/en/timeline/surrender-of-kut.md",
+      "quote": "after a siege of 147 days, General Charles Townshend surrendered Kut on the Tigris to the Ottoman forces"
+     }
+    ]
+   },
+   {
+    "text": "On 21 February the Germans attacked at Verdun, and the battle turned into a struggle of attrition that lasted until 18 December.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/start-of-the-battle-of-verdun.md",
+      "quote": "On the morning of 21 February 1916 more than 1,200 German guns opened fire on the French positions north of Verdun."
+     },
+     {
+      "file": "src/content/en/timeline/start-of-the-battle-of-verdun.md",
+      "quote": "turned into a struggle of attrition"
+     },
+     {
+      "file": "src/content/en/timeline/end-of-the-battle-of-verdun.md",
+      "quote": "On 18 December 1916 a battalion of French Zouaves retook the ruins of Les Chambrettes farm north of Verdun. It was the last act of General Charles Mangin's December attack and the end of the Battle of Verdun."
+     }
+    ]
+   },
+   {
+    "text": "On 24 April the Easter Rising broke out in Dublin, and on 31 May the Battle of Jutland, the largest naval battle of the war, began.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/outbreak-of-the-easter-rising.md",
+      "quote": "Outbreak of the Easter Rising"
+     },
+     {
+      "file": "src/content/en/timeline/outbreak-of-the-easter-rising.md",
+      "quote": "On 24 April 1916, Easter Monday, Irish nationalists seized a dozen or so buildings in the centre of Dublin."
+     },
+     {
+      "file": "src/content/en/timeline/start-of-the-battle-of-jutland.md",
+      "quote": "On 31 May 1916 the largest naval battle of the First World War began in the North Sea."
+     }
+    ]
+   },
+   {
+    "text": "On 4 June the Brusilov offensive began, shattering a large part of the Austro-Hungarian army, and on 5 June the Arab Revolt began near Medina.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/brusilov-offensive-begins.md",
+      "quote": "On 4 June 1916 General Aleksei Brusilov's Russian South-Western Front began a great offensive against Austria-Hungary."
+     },
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "Brusilov offensive shattered a large part of the Austro-Hungarian army"
+     },
+     {
+      "file": "src/content/en/timeline/start-of-the-arab-revolt.md",
+      "quote": "On 5 June 1916 the sons of the Sharif of Mecca, Ali and Faisal, proclaimed near Medina the Arabs' independence from the Turks. Thus began the Arab Revolt."
+     }
+    ]
+   },
+   {
+    "text": "On 1 July the British and French attacked on the Somme, and the British Army lost 57,000 men that day.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/first-day-on-the-somme.md",
+      "quote": "On 1 July 1916 the British and French attacked on the Somme. The French and the British right succeeded, but the British Army lost 57,000 men."
+     }
+    ]
+   },
+   {
+    "text": "On 27 August Romania entered the war on the side of the Entente, and on 29 August Hindenburg became Chief of the General Staff, with Ludendorff as his deputy.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/romania-declares-war-on-austria-hungary.md",
+      "quote": "On 27 August 1916 a crown council in Bucharest approved Romania's entry into the war on the side of the Entente."
+     },
+     {
+      "file": "src/content/en/timeline/hindenburg-becomes-chief-of-the-general-staff.md",
+      "quote": "On 29 August 1916 Wilhelm II dismissed Falkenhayn. Hindenburg became Chief of the General Staff of the Field Army, with Ludendorff as his deputy."
+     }
+    ]
+   },
+   {
+    "text": "The Battle of the Somme, in which tanks went into action for the first time on 15 September, ended on 18 November without a breakthrough.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/start-of-the-battle-of-flers-courcelette.md",
+      "quote": "On 15 September 1916 tanks went into battle for the first time, on the Somme."
+     },
+     {
+      "file": "src/content/en/timeline/end-of-the-battle-of-the-somme.md",
+      "quote": "On 18 November 1916 the British Fifth Army carried out the last attack of the Battle of the Somme"
+     },
+     {
+      "file": "src/content/en/timeline/end-of-the-battle-of-the-somme.md",
+      "quote": "they had not broken through"
+     }
+    ]
+   },
+   {
+    "text": "On 21 November Emperor Franz Joseph I died, and on 6 December the Germans entered Bucharest unopposed.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/death-of-franz-joseph.md",
+      "quote": "On 21 November 1916 the 86-year-old Emperor Franz Joseph I died at Schönbrunn"
+     },
+     {
+      "file": "src/content/en/timeline/fall-of-bucharest.md",
+      "quote": "On 6 December 1916 Falkenhayn's and Mackensen's troops entered Bucharest unopposed."
+     }
+    ]
+   },
+   {
+    "text": "On 12 December Germany and her allies proposed peace negotiations to the Entente, which rejected the offer on 30 December.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/german-peace-offer.md",
+      "quote": "On 12 December 1916 Germany and her allies proposed peace negotiations to the Entente."
+     },
+     {
+      "file": "src/content/en/timeline/german-peace-offer.md",
+      "quote": "The Entente rejected the offer on 30 December 1916"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "For Poland it was a year in which Poles fought on both sides of the front: the Legions on the Austro-Hungarian side and the Polish Rifle Brigade in the Russian army.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/battle-of-baranovichi.md",
+      "quote": "the Polish Rifle Brigade served here in the ranks of the Russian army. In the same days, on the other side of Polesia, the Polish Legions fought on the Austro-Hungarian side"
+     }
+    ]
+   },
+   {
+    "text": "In July brigades of the Legions held up the Russian attack at Kostiuchnówka for three days, losing about 2,000 killed and wounded.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/brusilov-offensive.md",
+      "quote": "the attack of the Russian XLVI Corps was held up for three days by brigades of the Polish Legions"
+     },
+     {
+      "file": "src/content/en/battles/brusilov-offensive.md",
+      "quote": "The Battle of Kostiuchnówka cost the legionaries about 2,000 killed and wounded"
+     },
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "at the Battle of Kostiuchnówka in July 1916"
+     }
+    ]
+   },
+   {
+    "text": "After the fighting in Volhynia Józef Piłsudski demanded his discharge in protest at the treatment of the Legions, and in September the Legions were renamed the Polish Auxiliary Corps.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "In July, after the fighting in Volhynia, he had demanded his discharge in protest at the treatment of the Legions, and at the end of September the Austrians accepted his resignation."
+     },
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "In September the Legions were renamed the Polish Auxiliary Corps."
+     }
+    ]
+   },
+   {
+    "text": "On 5 November a manifesto of the German and Austrian emperors was proclaimed in Warsaw and Lublin, promising a Kingdom of Poland, called self-governing but without a king, a government or borders.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "On 5 November 1916 a manifesto of the German and Austrian emperors was proclaimed in Warsaw and Lublin, promising a Kingdom of Poland"
+     },
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "The new state was called self-governing (samodzielne), not sovereign. It had no king, no government, no constitution and no fixed borders"
+     }
+    ]
+   },
+   {
+    "text": "As early as 9 November the occupiers called on the Poles to volunteer, which caused indignation, and few volunteers came forward.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "As early as 9 November Beseler and Kuk called on the Poles to volunteer, before any Polish government existed. This caused indignation"
+     },
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "Few volunteers came forward."
+     }
+    ]
+   },
+   {
+    "text": "On 6 December the occupiers proclaimed an ordinance on the Provisional Council of State, whose members were only to advise.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "On 6 December 1916 they proclaimed an ordinance on the Provisional Council of State"
+     },
+     {
+      "file": "src/content/en/timeline/decree-establishing-the-provisional-council-of-state.md",
+      "quote": "Its Polish members, named by the occupiers, were only to advise."
+     }
+    ]
+   },
+   {
+    "text": "Russia protested against the act, and on 25 December Tsar Nicholas II listed among Russia's war aims the creation of a free Poland from all three partitions.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/act-of-5-november.md",
+      "quote": "The Russian government protested on 15 November"
+     },
+     {
+      "file": "src/content/en/timeline/nicholas-iis-order-on-poland.md",
+      "quote": "On 25 December 1916 Tsar Nicholas II, in an order to the army and navy, listed among Russia's war aims the creation of a free Poland from all three partitions."
+     }
+    ]
+   }
+  ]
+ ]
+}

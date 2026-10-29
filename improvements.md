@@ -1271,6 +1271,57 @@ above all those with thin sourcing below.
 
 ---
 
+## 19. "Rok w skrócie / The year in brief" on year pages (2026-10-29)
+
+Ported from thesecondwar.pl (`roadmap.md` §6, commit `1a05d79f`).
+
+- `src/data/year-intros.json`: an intro for each of 1914–1918, two
+  paragraphs (the war that year, then "Dla Polski"), Polish 309–330 words,
+  English 393–433. Every fact comes from the year's own articles.
+- `TimelineArchive.astro` takes an `intro` prop. With an intro, the year
+  heading (with its print button) and the intro form a left column that
+  stays in view on wide screens (`lg:sticky`, scrolls on its own if taller
+  than the screen), and the months run beside it; smaller screens keep both
+  above the months. Month pages and `/timeline` show no intro. The two year
+  pages read their language from the JSON.
+- **How:** one writer agent per year, with the second site's brief. Each
+  sentence carries 1–4 verbatim quotes from the year's articles (Polish
+  sentences from Polish files, English from English files).
+  `scripts/year-intros/check.py` checks every quote against its file (links
+  stripped) and that every number in a sentence appears in its quotes, then
+  builds the JSON. The drafts with their quotes are kept beside it
+  (`scripts/year-intros/19xx.json`), so an intro can be edited and checked
+  again:
+
+      python3 -I scripts/year-intros/check.py . --build src/data/year-intros.json scripts/year-intros/19*.json
+
+- One fix after review: the Versailles declaration (1918) now reads
+  "trwałego i sprawiedliwego pokoju" / "a solid and just peace", as both
+  articles quote it (the drafts had "trwałego" vs "just").
+
+**Port back to thesecondwar.pl:** the checker and the kept drafts (that
+site's checker was not committed); the print button beside the heading
+when an intro is shown.
+
+**Later:** re-write a year's intro when its articles change a lot.
+
+### Writers' notes (dates worded around; for the review list)
+
+- 1914: Marne end 10 IX (`koniec-bitwy-nad-marna`) vs 6–12 IX (battle
+  page); Tannenberg 26–30 VIII (battle page) vs 31 VIII (timeline); Łódź
+  ends 6 XII (battle page) vs 15 XII (`koniec-bitwy-pod-lodzia`).
+- 1915: Gorlice summary "armii Mackensena" (singular) vs brief "armie"
+  (plural).
+- 1916: `battles/1916/ofensywa-brusilowa` link text "Kościuchnówka" vs
+  "Kostiuchnówka" in the text; the EN battle page likewise.
+- 1917: no contradictions; the articles already flag disputed dates
+  (Kerensky offensive, US recognition of the KNP, Piłsudski's arrest).
+- 1918: no contradictions; articles flag Lwów 22 vs 23 XI, Piłsudski's
+  arrival 7.00 vs 7.30, the Bulgarian request 24 vs 25 IX, the flag
+  ceremony at Mailly vs Brienne-le-Château.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1339,6 +1390,7 @@ finished, tick it here and add its section above.
   people in the text (§16)
 - [x] Homepage "Ludzie Wielkiej Wojny": six rotating people with portraits (§17)
 - [x] Glossary ("Słownik"): 84 terms PL/EN with hover cards in the text (§18)
+- [x] "Rok w skrócie": quote-checked intros on the five year pages, PL/EN (§19)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

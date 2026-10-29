@@ -1,0 +1,485 @@
+{
+ "year": 1914,
+ "pl": [
+  [
+   {
+    "text": "28 czerwca w Sarajewie Gavrilo Princip zastrzelił arcyksięcia Franciszka Ferdynanda, następcę tronu austro-węgierskiego.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md",
+      "quote": "28 czerwca 1914 Gavrilo Princip zastrzelił arcyksięcia Franciszka Ferdynanda"
+     },
+     {
+      "file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md",
+      "quote": "następca tronu austro-węgierskiego"
+     }
+    ]
+   },
+   {
+    "text": "Austro-Węgry, którym Wilhelm II obiecał pełne wsparcie, 23 lipca wręczyły Serbii ultimatum, a 28 lipca wypowiedziały jej wojnę.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/07/kajzer-obiecuje-austro-wegrom-pelne-poparcie.md",
+      "quote": "Wilhelm II obiecał Austro-Węgrom pełne wsparcie przeciw Serbii"
+     },
+     {
+      "file": "src/content/timeline/1914/07/austro-wegry-przesylaja-ultimatum-serbii.md",
+      "quote": "23 lipca 1914 Austro-Węgry wręczyły Serbii ultimatum"
+     },
+     {
+      "file": "src/content/timeline/1914/07/austro-wegry-wypowiadaja-wojne-serbii.md",
+      "quote": "28 lipca 1914 Austro-Węgry wypowiedziały Serbii wojnę telegramem"
+     }
+    ]
+   },
+   {
+    "text": "Na początku sierpnia Niemcy wypowiedziały wojnę Rosji i Francji i wkroczyły do Belgii, a 4 sierpnia w stanie wojny z Niemcami znalazła się Wielka Brytania z całym imperium.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md",
+      "quote": "1 sierpnia 1914 Niemcy ogłosiły mobilizację powszechną, a wieczorem wypowiedziały wojnę Rosji"
+     },
+     {
+      "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-francji.md",
+      "quote": "3 sierpnia 1914 Niemcy wypowiedziały wojnę Francji"
+     },
+     {
+      "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+      "quote": "Niemcy zapowiedziały Belgii użycie siły i wkroczyły na jej terytorium"
+     },
+     {
+      "file": "src/content/timeline/1914/08/wielka-brytania-wypowiada-wojne-niemcom.md",
+      "quote": "4 sierpnia 1914 o godzinie 23 czasu londyńskiego minął termin ultimatum. Wielka Brytania i całe jej imperium znalazły się w stanie wojny z Niemcami."
+     }
+    ]
+   },
+   {
+    "text": "Na zachodzie Francuzi i Brytyjczycy we wrześniu zatrzymali Niemców nad Marną i zmusili ich do odwrotu, a niemiecki plan szybkiego zwycięstwa upadł.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+      "quote": "We wrześniu 1914 Francuzi i Brytyjczycy zatrzymali Niemców na froncie od Paryża po Verdun i zmusili ich do odwrotu. Upadł plan szybkiego zwycięstwa."
+     },
+     {
+      "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+      "quote": "Pierwsza bitwa nad Marną"
+     }
+    ]
+   },
+   {
+    "text": "Jesienią alianci obronili Ypres, a pod koniec roku front zastygł w linii okopów od morza po Szwajcarię.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1914/pierwsza-bitwa-pod-ypres.md",
+      "quote": "Od 19 października do 22 listopada 1914 alianci obronili Ypres"
+     },
+     {
+      "file": "src/content/timeline/1914/12/rozejm-bozonarodzeniowy.md",
+      "quote": "Pod koniec 1914 roku front zachodni zastygł w linii okopów od morza po Szwajcarię."
+     }
+    ]
+   },
+   {
+    "text": "Na wschodzie Niemcy rozbili pod Tannenbergiem rosyjską 2 Armię, ale Rosja pobiła główne siły Austro-Węgier w Galicji, 3 września zajęła Lwów i oblegała Przemyśl.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1914/bitwa-pod-tannenbergiem.md",
+      "quote": "Rosyjska 2 Armia Samsonowa została okrążona i rozbita na południu Prus Wschodnich."
+     },
+     {
+      "file": "src/content/battles/1914/bitwa-galicyjska.md",
+      "quote": "Rosja pobiła główne siły Austro-Węgier w Galicji"
+     },
+     {
+      "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+      "quote": "3 września 1914 wojska rosyjskie wkroczyły bez walki do Lwowa"
+     },
+     {
+      "file": "src/content/timeline/1914/09/poczatek-oblezenia-przemysla.md",
+      "quote": "Zaczęło się pierwsze oblężenie jednej z największych twierdz Europy."
+     }
+    ]
+   },
+   {
+    "text": "23 sierpnia wojnę Niemcom wypowiedziała Japonia, a 29 października okręty osmańskie ostrzelały rosyjskie porty nad Morzem Czarnym i Turcja weszła do wojny.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/08/japonia-wypowiada-wojne-niemcom.md",
+      "quote": "23 sierpnia 1914 Japonia wypowiedziała wojnę Niemcom."
+     },
+     {
+      "file": "src/content/timeline/1914/10/turecka-flota-atakuje-rosje.md",
+      "quote": "29 października 1914 okręty osmańskie admirała Souchona bez wypowiedzenia wojny ostrzelały rosyjskie porty nad Morzem Czarnym. Turcja weszła do wojny."
+     }
+    ]
+   },
+   {
+    "text": "Serbia, najechana przez Austro-Węgry po raz trzeci, w grudniu wyparła je z kraju, a 15 grudnia Serbowie wrócili do Belgradu.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1914/bitwa-nad-kolubara.md",
+      "quote": "Jesienią 1914 Austro-Węgry po raz trzeci najechały Serbię i zajęły Belgrad. W grudniu serbska kontrofensywa spod Suvoboru wyparła je z całego kraju."
+     },
+     {
+      "file": "src/content/battles/1914/bitwa-nad-kolubara.md",
+      "quote": "15 grudnia Serbowie wrócili do Belgradu"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Dla Polaków wojna miała szczególnie dramatyczny wymiar, bo mieszkańcy trzech zaborów służyli w armiach Rosji, Niemiec i Austro-Węgier, po przeciwnych stronach frontu.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+      "quote": "Dla Polaków wojna miała szczególnie dramatyczny wymiar. Mieszkańcy trzech zaborów służyli w armiach Rosji, Niemiec i Austro-Węgier, a więc po przeciwnych stronach frontu."
+     }
+    ]
+   },
+   {
+    "text": "1 sierpnia granica niemiecko-rosyjska, biegnąca przez ziemie polskie, stała się linią frontu, a Niemcy spalili i ostrzelali Kalisz.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+      "quote": "1 sierpnia 1914 granica niemiecko-rosyjska, biegnąca przez ziemie polskie, stała się linią frontu."
+     },
+     {
+      "file": "src/content/timeline/1914/08/niemcy-niszcza-lowanium.md",
+      "quote": "Kalisza, który Niemcy spalili i ostrzelali na początku sierpnia 1914 roku"
+     }
+    ]
+   },
+   {
+    "text": "6 sierpnia z Krakowa wyruszyła Pierwsza Kompania Kadrowa Józefa Piłsudskiego, 16 sierpnia w Krakowie powstał Naczelny Komitet Narodowy, a z oddziałów strzeleckich utworzono Legiony Polskie, walczące u boku armii austro-węgierskiej.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md",
+      "quote": "6 sierpnia 1914 roku, Pierwsza Kompania Kadrowa utworzona przez Józefa Piłsudskiego wyruszyła z Krakowa"
+     },
+     {
+      "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+      "quote": "16 sierpnia w Krakowie powstał Naczelny Komitet Narodowy"
+     },
+     {
+      "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md",
+      "quote": "Kilka tygodni później na bazie oddziałów strzeleckich powstały"
+     },
+     {
+      "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md",
+      "quote": "walczące u boku armii austro-węgierskiej"
+     }
+    ]
+   },
+   {
+    "text": "Rosja odpowiedziała odezwą wielkiego księcia Mikołaja Mikołajewicza, który 14 sierpnia obiecał zjednoczenie ziem polskich pod berłem cara.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+      "quote": "14 sierpnia 1914 roku naczelny wódz armii rosyjskiej, wielki książę Mikołaj Mikołajewicz, wydał odezwę do Polaków."
+     },
+     {
+      "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+      "quote": "obiecując zjednoczenie ziem polskich pod berłem cara"
+     },
+     {
+      "file": "src/content/timeline/1914/08/odezwa-wielkiego-ksiecia-mikolaja-do-polakow.md",
+      "quote": "Odezwa była odpowiedzią na szczególną sytuację."
+     }
+    ]
+   },
+   {
+    "text": "Jesienią przez Królestwo Polskie przechodziły wielkie bitwy: w październiku Niemcy doszli pod Warszawę, a 6 grudnia zajęli Łódź.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+      "quote": "Jesienią 1914 Niemcy i Austriacy uderzyli przez Królestwo Polskie na Warszawę i Dęblin."
+     },
+     {
+      "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+      "quote": "12 października Niemcy stanęli na przedpolach Warszawy"
+     },
+     {
+      "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+      "quote": "6 grudnia 1914 do opuszczonej przez Rosjan Łodzi weszły wojska niemieckie."
+     }
+    ]
+   },
+   {
+    "text": "W Galicji Austriacy obronili Kraków i pod Limanową odepchnęli Rosjan za Dunajec.",
+    "quotes": [
+     {
+      "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+      "quote": "Kraków pozostał w rękach austriackich"
+     },
+     {
+      "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+      "quote": "Po dziesięciu dniach walk pod Łapanowem i Limanową Rosjanie cofnęli się za Dunajec."
+     }
+    ]
+   },
+   {
+    "text": "Legiony walczyły pod Laskami i Anielinem, pod Mołotkowem i pod Krzywopłotami, a w dniach 22–25 grudnia I Brygada stoczyła pod Łowczówkiem najcięższy bój oddziałów Piłsudskiego w 1914 roku.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1914/10/kontrofensywa-austro-wegier-w-galicji.md",
+      "quote": "stoczyły ciężką bitwę pod Laskami i Anielinem"
+     },
+     {
+      "file": "src/content/timeline/1914/10/rosjanie-zajmuja-stanislawow.md",
+      "quote": "Bitwa pod Mołotkowem była jedną z pierwszych dużych i zarazem najkrwawszych bitew Legionów z Rosjanami."
+     },
+     {
+      "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+      "quote": "Pod Krzywopłotami dwa bataliony Legionów przez dwa dni odpierały rosyjskie ataki."
+     },
+     {
+      "file": "src/content/battles/1914/bitwa-pod-lowczowkiem.md",
+      "quote": "W dniach 22–25 grudnia 1914 roku I Brygada Legionów Polskich stoczyła na wzgórzach nad Białą, na południe od Tarnowa, najcięższy bój oddziałów Piłsudskiego w 1914 roku."
+     }
+    ]
+   }
+  ]
+ ],
+ "en": [
+  [
+   {
+    "text": "On 28 June in Sarajevo Gavrilo Princip shot Archduke Franz Ferdinand, heir to the Austro-Hungarian throne.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md",
+      "quote": "On 28 June 1914 Gavrilo Princip shot Archduke Franz Ferdinand"
+     },
+     {
+      "file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md",
+      "quote": "heir to the Austro-Hungarian throne"
+     }
+    ]
+   },
+   {
+    "text": "Promised full support by Wilhelm II, Austria-Hungary handed Serbia an ultimatum on 23 July and declared war on it on 28 July.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/kaiser-promises-austria-hungary-full-support.md",
+      "quote": "Wilhelm II promised Austria-Hungary full support against Serbia"
+     },
+     {
+      "file": "src/content/en/timeline/austria-hungary-delivers-an-ultimatum-to-serbia.md",
+      "quote": "On 23 July 1914 Austria-Hungary handed Serbia an ultimatum"
+     },
+     {
+      "file": "src/content/en/timeline/austria-hungary-declares-war-on-serbia.md",
+      "quote": "On 28 July 1914 Austria-Hungary declared war on Serbia by telegram."
+     }
+    ]
+   },
+   {
+    "text": "In early August Germany declared war on Russia and France and entered Belgium, and on 4 August Britain and its whole empire found themselves at war with Germany.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/germany-mobilises-and-declares-war-on-russia.md",
+      "quote": "On 1 August 1914 Germany ordered general mobilisation and in the evening declared war on Russia."
+     },
+     {
+      "file": "src/content/en/timeline/germany-declares-war-on-france.md",
+      "quote": "On 3 August 1914 Germany declared war on France"
+     },
+     {
+      "file": "src/content/en/timeline/germany-declares-war-on-belgium.md",
+      "quote": "Germany announced to Belgium that it would use force and entered its territory."
+     },
+     {
+      "file": "src/content/en/timeline/britain-declares-war-on-germany.md",
+      "quote": "At 11 p.m. London time on 4 August 1914 the ultimatum expired. Britain and its whole empire found themselves at war with Germany."
+     }
+    ]
+   },
+   {
+    "text": "In the west the French and British halted the Germans on the Marne in September and forced them to retreat, and the German plan for a quick victory collapsed.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/first-battle-of-the-marne.md",
+      "quote": "In September 1914 the French and British halted the Germans on a front from Paris to Verdun and forced them to retreat. The plan for a quick victory collapsed."
+     },
+     {
+      "file": "src/content/en/battles/first-battle-of-the-marne.md",
+      "quote": "The First Battle of the Marne"
+     }
+    ]
+   },
+   {
+    "text": "In the autumn the Allies held Ypres, and by the end of the year the Western Front had congealed into a line of trenches from the sea to Switzerland.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/first-battle-of-ypres.md",
+      "quote": "From 19 October to 22 November 1914 the Allies held Ypres"
+     },
+     {
+      "file": "src/content/en/timeline/christmas-truce.md",
+      "quote": "By the end of 1914 the Western Front had congealed into a line of trenches from the sea to Switzerland."
+     }
+    ]
+   },
+   {
+    "text": "In the east the Germans destroyed the Russian Second Army at Tannenberg, but Russia beat the main Austro-Hungarian forces in Galicia, took Lemberg on 3 September and laid siege to Przemyśl.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/battle-of-tannenberg.md",
+      "quote": "Samsonov's Russian Second Army was encircled and destroyed in the south of East Prussia."
+     },
+     {
+      "file": "src/content/en/battles/battle-of-galicia.md",
+      "quote": "Russia beat the main Austro-Hungarian forces in Galicia"
+     },
+     {
+      "file": "src/content/en/timeline/russians-take-lemberg.md",
+      "quote": "On 3 September 1914 Russian troops entered Lemberg"
+     },
+     {
+      "file": "src/content/en/timeline/first-siege-of-przemysl-begins.md",
+      "quote": "The first siege of one of the largest fortresses in Europe began."
+     }
+    ]
+   },
+   {
+    "text": "On 23 August Japan declared war on Germany, and on 29 October Ottoman warships shelled Russian Black Sea ports and Turkey entered the war.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/japan-declares-war-on-germany.md",
+      "quote": "On 23 August 1914 Japan declared war on Germany."
+     },
+     {
+      "file": "src/content/en/timeline/ottoman-fleet-attacks-russian-ports.md",
+      "quote": "On 29 October 1914 Admiral Souchon's Ottoman warships shelled Russian Black Sea ports without a declaration of war. Turkey entered the war."
+     }
+    ]
+   },
+   {
+    "text": "Serbia, invaded by Austria-Hungary for the third time, drove the invader out in December, and on 15 December the Serbs returned to Belgrade.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/battle-of-kolubara.md",
+      "quote": "In autumn 1914 Austria-Hungary invaded Serbia for the third time and took Belgrade. In December a Serbian counter-offensive from Suvobor drove it out."
+     },
+     {
+      "file": "src/content/en/battles/battle-of-kolubara.md",
+      "quote": "On 15 December the Serbs returned to Belgrade"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "For Poles the war had a particularly dramatic dimension, as the inhabitants of the three partitions served in the armies of Russia, Germany and Austria-Hungary, on opposite sides of the front.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
+      "quote": "For Poles the war had a particularly dramatic dimension. The inhabitants of the three partitions served in the armies of Russia, Germany and Austria-Hungary, and so on opposite sides of the front."
+     }
+    ]
+   },
+   {
+    "text": "On 1 August the German-Russian border, running through Polish lands, became a front line, and from 4 August the Germans subjected Kalisz to bombardment, executions and arson.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
+      "quote": "On 1 August 1914 the German-Russian border, running through Polish lands, became a front line."
+     },
+     {
+      "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
+      "quote": "For Kalisz the arrival of the Germans proved tragic. From 4 August the town suffered artillery bombardment, executions and arson."
+     }
+    ]
+   },
+   {
+    "text": "On 6 August Józef Piłsudski's First Cadre Company set out from Kraków, on 16 August the Supreme National Committee was founded in Kraków, and the Riflemen's units became the Polish Legions, fighting alongside the Austro-Hungarian army.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/austria-hungary-declares-war-on-russia.md",
+      "quote": "On the same day, 6 August 1914, the First Cadre Company formed by Józef Piłsudski set out from Kraków"
+     },
+     {
+      "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+      "quote": "on 16 August the Supreme National Committee was founded in Kraków"
+     },
+     {
+      "file": "src/content/en/timeline/austria-hungary-declares-war-on-russia.md",
+      "quote": "fighting alongside the Austro-Hungarian army, were formed on the basis of the Riflemen's units"
+     }
+    ]
+   },
+   {
+    "text": "Russia responded with a proclamation by Grand Duke Nicholas Nikolaevich, who on 14 August promised to unite the Polish lands under the Tsar.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+      "quote": "On 14 August 1914 the commander-in-chief of the Russian army, Grand Duke Nicholas Nikolaevich, issued a proclamation to the Poles."
+     },
+     {
+      "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+      "quote": "promising to unite the Polish lands under the Tsar"
+     },
+     {
+      "file": "src/content/en/timeline/grand-duke-nicholas-issues-a-proclamation-to-the-poles.md",
+      "quote": "The proclamation was a response to a peculiar situation."
+     }
+    ]
+   },
+   {
+    "text": "In the autumn great battles passed through the Kingdom of Poland: in October the Germans reached the approaches to Warsaw, and on 6 December they took Łódź.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/battle-of-warsaw-and-deblin.md",
+      "quote": "In autumn 1914 the Germans and Austrians struck through the Kingdom of Poland at Warsaw and Dęblin."
+     },
+     {
+      "file": "src/content/en/battles/battle-of-warsaw-and-deblin.md",
+      "quote": "on 12 October the Germans reached the approaches to Warsaw"
+     },
+     {
+      "file": "src/content/en/timeline/germans-take-lodz.md",
+      "quote": "On 6 December 1914 German troops entered Łódź, abandoned by the Russians."
+     }
+    ]
+   },
+   {
+    "text": "In Galicia the Austrians held Kraków, and after the Battle of Limanowa the Russians fell back behind the Dunajec.",
+    "quotes": [
+     {
+      "file": "src/content/en/battles/battle-of-krakow.md",
+      "quote": "Kraków remained in Austrian hands"
+     },
+     {
+      "file": "src/content/en/battles/battle-of-limanowa.md",
+      "quote": "On 12 December they left Nowy Sącz and fell back behind the Dunajec."
+     },
+     {
+      "file": "src/content/en/battles/battle-of-limanowa.md",
+      "quote": "The Battle of Limanowa"
+     }
+    ]
+   },
+   {
+    "text": "The Legions fought at Laski and Anielin, Mołotków and Krzywopłoty, and on 22–25 December the First Brigade fought at Łowczówek the hardest battle of Piłsudski's troops in 1914.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/austria-hungary-launches-a-counter-offensive-in-galicia.md",
+      "quote": "fought the hard Battle of Laski and Anielin"
+     },
+     {
+      "file": "src/content/en/timeline/russians-take-stanislawow.md",
+      "quote": "The Battle of Mołotków was one of the first large, and at the same time bloodiest, battles of the Legions against the Russians."
+     },
+     {
+      "file": "src/content/en/battles/battle-of-krakow.md",
+      "quote": "At Krzywopłoty two Legion battalions held off Russian attacks for two days."
+     },
+     {
+      "file": "src/content/en/battles/battle-of-lowczowek.md",
+      "quote": "On 22–25 December 1914 the First Brigade of the Polish Legions fought on the hills above the Biała, south of Tarnów, the hardest battle of Piłsudski's troops in 1914."
+     }
+    ]
+   }
+  ]
+ ]
+}
