@@ -1,0 +1,171 @@
+{
+  "uboats": {
+    "title": "Niemieckie okręty podwodne 1914–1918",
+    "titleEn": "German U-boats 1914–1918",
+    "unit": "okrętów",
+    "unitEn": "boats",
+    "note": "Okręty podwodne Kaiserliche Marine (typy U, UB, UC i UA), bez okrętów austro-węgierskich i bez jednostek ukończonych po rozejmie. Źródła liczą różnie: jedne tylko okręty operacyjne, inne wszystkie wprowadzone do służby, a do strat jedne wliczają okręty samozatopione na Adriatyku i we Flandrii jesienią 1918 roku oraz wypadki, inne nie. Przedział to rozrzut liczb w podanych źródłach.",
+    "noteEn": "Submarines of the Imperial German Navy (U, UB, UC and UA types), excluding Austro-Hungarian boats and boats completed after the armistice. Sources count differently: some only operational boats, others every boat commissioned, and some include in the losses the boats scuttled in the Adriatic and Flanders in autumn 1918 and accidents, others do not. The range is the spread of figures in the cited sources.",
+    "rows": [
+      {
+        "label": "W służbie w latach 1914–1918",
+        "labelEn": "In service 1914–1918",
+        "low": 351,
+        "high": 375,
+        "note": "Z okrętami sprzed wojny. Clodfelter: 351 okrętów operacyjnych (24 w 1914 r. + 327 wprowadzonych do służby w czasie wojny); historycrunch: zbudowano 373; uboat.net: 375",
+        "noteEn": "Incl. pre-war boats. Clodfelter: 351 operational boats (24 in 1914 + 327 commissioned during the war); historycrunch: 373 built; uboat.net: 375",
+        "sources": [
+          "https://en.wikipedia.org/wiki/U-boat_campaign",
+          "https://uboat.net/wwi/boats/",
+          "https://www.historycrunch.com/german-submarines-u-boats-in-world-war-i.html"
+        ]
+      },
+      {
+        "label": "Stracone ogółem",
+        "labelEn": "Lost to all causes",
+        "low": 202,
+        "high": 217,
+        "note": "uboat.net: 202 (z samozatopionymi przy ewakuacji Poli, Kotoru i Flandrii); Clodfelter: 217 (178 w walce i 39 z innych przyczyn)",
+        "noteEn": "uboat.net: 202 (incl. boats scuttled when Pola, Cattaro and Flanders were evacuated); Clodfelter: 217 (178 in action and 39 other losses)",
+        "sources": [
+          "https://uboat.net/wwi/fates/losses.html",
+          "https://en.wikipedia.org/wiki/U-boat_campaign"
+        ]
+      },
+      {
+        "label": "Zatopione przez nieprzyjaciela",
+        "labelEn": "Sunk by the enemy",
+        "low": 178,
+        "high": 178,
+        "note": "Według Clodfeltera 41 na minach, 30 bombami głębinowymi i 13 przez statki-pułapki; zginęło ok. 5 tys. członków załóg",
+        "noteEn": "Per Clodfelter, 41 by mines, 30 by depth charges and 13 by Q-ships; about 5,000 crewmen were killed",
+        "sources": [
+          "https://en.wikipedia.org/wiki/U-boat_campaign",
+          "https://www.worldhistory.org/U-Boat/",
+          "https://www.historyhit.com/facts-about-submarine-warfare-in-world-war-one/",
+          "https://www.historycrunch.com/german-submarines-u-boats-in-world-war-i.html"
+        ]
+      },
+      {
+        "label": "W służbie w chwili rozejmu",
+        "labelEn": "In service at the armistice",
+        "low": 134,
+        "high": 134,
+        "note": "Stan na koniec 1918 r. według Clodfeltera",
+        "noteEn": "Strength at the end of 1918 per Clodfelter",
+        "sources": [
+          "https://en.wikipedia.org/wiki/U-boat_campaign",
+          "https://www.historyhit.com/facts-about-submarine-warfare-in-world-war-one/"
+        ]
+      },
+      {
+        "label": "W służbie w sierpniu 1914",
+        "labelEn": "In service in August 1914",
+        "low": 20,
+        "high": 24,
+        "note": "World History Encyclopedia: 20 okrętów zdolnych do działań; Clodfelter: 24",
+        "noteEn": "World History Encyclopedia: 20 operational boats; Clodfelter: 24",
+        "sources": [
+          "https://www.worldhistory.org/U-Boat/",
+          "https://en.wikipedia.org/wiki/U-boat_campaign"
+        ]
+      }
+    ]
+  },
+  "aircraftProduction": {
+    "title": "Produkcja samolotów 1914–1918",
+    "titleEn": "Aircraft production 1914–1918",
+    "unit": "sztuk",
+    "unitEn": "aircraft",
+    "note": "Samoloty wyprodukowane w danym kraju w czasie jego udziału w wojnie (Włochy od 1915 r., Rosja do 1917 r., USA – jak zaznaczono), wszystkie typy: bojowe, rozpoznawcze i szkolne. Wielka Brytania bez dominiów. Zestawienia różnią się tym, czy liczą tylko płatowce przyjęte przez wojsko i jak ujmują 1914 i koniec 1918 roku; przedział to rozrzut liczb w podanych źródłach.",
+    "noteEn": "Aircraft built in each country while it was at war (Italy from 1915, Russia to 1917, the USA as marked), all types: combat, reconnaissance and trainers. United Kingdom without the Dominions. Tallies differ in whether they count only airframes accepted by the military and in how they treat 1914 and late 1918; the range is the spread of figures in the cited sources.",
+    "rows": [
+      {
+        "label": "Francja",
+        "labelEn": "France",
+        "low": 52000,
+        "high": 67987,
+        "note": "Francuska Wikipedia: 52 tys. samolotów i 90 tys. silników; The Aerodrome: 67 987",
+        "noteEn": "French Wikipedia: 52,000 aircraft and 90,000 engines; The Aerodrome: 67,987",
+        "sources": [
+          "https://fr.wikipedia.org/wiki/A%C3%A9ronautique_militaire",
+          "https://theaerodrome.com/aircraft/statistics.php"
+        ]
+      },
+      {
+        "label": "Wielka Brytania",
+        "labelEn": "United Kingdom",
+        "low": 52000,
+        "high": 58144,
+        "note": "Imperial War Museum (za Wikipedią): 52 tys.; The Aerodrome: 58 144",
+        "noteEn": "Imperial War Museum (via Wikipedia): 52,000; The Aerodrome: 58,144",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Economic_history_of_World_War_I",
+          "https://theaerodrome.com/aircraft/statistics.php"
+        ]
+      },
+      {
+        "label": "Niemcy",
+        "labelEn": "Germany",
+        "low": 47637,
+        "high": 48537,
+        "note": "Deutsches Historisches Museum: ponad 47 tys. z 35 wytwórni; niemiecka Wikipedia: 47 637 i 40 449 silników; The Aerodrome: 48 537",
+        "noteEn": "Deutsches Historisches Museum: over 47,000 from 35 firms; German Wikipedia: 47,637 and 40,449 engines; The Aerodrome: 48,537",
+        "sources": [
+          "https://www.dhm.de/archiv/ausstellungen/der-erste-weltkrieg/rooms/luftkrieg.htm",
+          "https://de.wikipedia.org/wiki/Deutsche_Flugzeugindustrie_im_Ersten_Weltkrieg",
+          "https://theaerodrome.com/aircraft/statistics.php"
+        ]
+      },
+      {
+        "label": "Włochy",
+        "labelEn": "Italy",
+        "low": 18000,
+        "high": 20000,
+        "note": "1915–1918; Wikipedia: ok. 18 tys. w trzy lata wojny (artykuł o lotnictwie austro-węgierskim) i 20 tys. (artykuł o lotnictwie włoskim); The Aerodrome: 20 tys.",
+        "noteEn": "1915–1918; Wikipedia: about 18,000 in three years of war (article on Austro-Hungarian aviation) and 20,000 (article on Italian aviation); The Aerodrome: 20,000",
+        "sources": [
+          "https://theaerodrome.com/aircraft/statistics.php",
+          "https://en.wikipedia.org/wiki/Corpo_Aeronautico_Militare",
+          "https://en.wikipedia.org/wiki/Austro-Hungarian_Aviation_Troops"
+        ]
+      },
+      {
+        "label": "Stany Zjednoczone",
+        "labelEn": "United States",
+        "low": 15000,
+        "high": 16168,
+        "note": "The Aerodrome: 15 tys.; Assembly Magazine: 2148 w 1917 i 14 020 w 1918 r. (razem 16 168, za pełne lata kalendarzowe)",
+        "noteEn": "The Aerodrome: 15,000; Assembly Magazine: 2,148 in 1917 and 14,020 in 1918 (16,168 together, full calendar years)",
+        "sources": [
+          "https://theaerodrome.com/aircraft/statistics.php",
+          "https://assemblymag.com/articles/84151-the-dawn-of-aeroplane-assembly"
+        ]
+      },
+      {
+        "label": "Austro-Węgry",
+        "labelEn": "Austria-Hungary",
+        "low": 5180,
+        "high": 5431,
+        "note": "Wikipedia: 5180 w czterech latach wojny (gdzie indziej ok. 5430); The Aerodrome: 5431",
+        "noteEn": "Wikipedia: 5,180 in four years of war (elsewhere about 5,430); The Aerodrome: 5,431",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Austro-Hungarian_Aviation_Troops",
+          "https://theaerodrome.com/aircraft/statistics.php"
+        ]
+      },
+      {
+        "label": "Rosja",
+        "labelEn": "Russia",
+        "low": 4700,
+        "high": 5000,
+        "note": "1914–1917; The Aerodrome: 4700; Wikipedia: ok. 5 tys. samolotów i 4 tys. silników",
+        "noteEn": "1914–1917; The Aerodrome: 4,700; Wikipedia: about 5,000 aircraft and 4,000 engines",
+        "sources": [
+          "https://theaerodrome.com/aircraft/statistics.php",
+          "https://en.wikipedia.org/wiki/Imperial_Russian_Air_Service"
+        ]
+      }
+    ]
+  }
+}

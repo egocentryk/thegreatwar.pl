@@ -1398,6 +1398,57 @@ quote-checked by an uncommitted script).
 
 ---
 
+## 22. "Wojna w liczbach" (2026-10-29)
+
+Ported from thesecondwar.pl (`seo.md` §16).
+
+- Code as there: `WarInNumbers.astro`, `RangeBars.astro`,
+  `utils/warNumbers.ts`, pages `/wojna-w-liczbach` and `/en/war-in-numbers`,
+  a link in the homepage hero. Sections and texts rewritten for WWI.
+- `src/data/war-numbers.json`: four headline figures (military dead
+  8,5–11 mln, civilian dead 5–13 mln without the 1918 flu, mobilised
+  65–70 mln, 1568 days from 28 VII 1914 to 11 XI 1918) and nine charts:
+  military deaths by country (11), deaths as % of the 1914 population (10),
+  Poles under arms by army and formation (8), Polish losses and refugees
+  (5), men mobilised (11), the costliest battles (10, Isonzo I–XI and
+  Caporetto apart so Caporetto isn't counted twice), Verdun and the Somme
+  by side (5), U-boats (5), aircraft production (7).
+- **How:** five research agents (brief in `scripts/war-numbers/BRIEF.md`),
+  each row with ≥ 2 sources opened and read, at least one not Wikipedia;
+  disputed figures as ranges. `scripts/war-numbers/merge.py` checks the
+  rules and writes the JSON from the parts (`scripts/war-numbers/*.json`).
+- Left out for thin sourcing: Gorlice–Tarnów casualties, merchant shipping
+  sunk by flag, artillery and shell production, Polish civilian deaths (one
+  estimate only), Spanish flu deaths (not a war loss), buildings destroyed.
+- Britannica, IWM, 1914-1918-online, nzhistory and PWN refused automated
+  reading; several rows (spring offensive, Isonzo, Marne, Brusilov, aircraft
+  of Italy, the USA, Austria-Hungary and Russia) rest on popular sites plus
+  Wikipedia. A pass with those sources would strengthen them.
+
+**Port back to thesecondwar.pl:** `merge.py` (the same checks there).
+
+### Conflicts with our articles (for the review list)
+
+- `battles/1917/dwunasta-bitwa-nad-isonzo`: 293 tys. Italian prisoners
+  (Austrian official history) vs 265–275 tys. in the sources.
+- `battles/1917/dziesiata-bitwa-nad-isonzo`: Isonzo Army losses 76 300 vs
+  ~125 tys. (en.wikipedia per-battle table).
+- `battles/1914/pierwsza-bitwa-nad-marna`: ~250 tys. German losses vs
+  298 tys. (Clodfelter).
+- `battles/1916/bitwa-pod-verdun`: French 360–380 tys., German 330–340 tys.
+  vs upper estimates 400 and 355 tys.; `trzecia-bitwa-pod-ypres`: British
+  245–275 tys. vs NAM ~300 tys.
+- `timeline/1918/05/walki-pod-kaniowem`: II Corps "about 12 tys." (Polish
+  Army Museum) vs 6 918 on 1 V 1918 (CAW, Wrzosek).
+- `timeline/1917/10/wlochy-uznaja-komitet-narodowy-polski`: over 30 tys.
+  from the camps in Italy vs ~25 tys. (pl.wikipedia).
+- `battles/1918/powstanie-wielkopolskie`: "kilkaset tysięcy" Poles in the
+  German army vs 800–850 tys.
+- `timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna`: 111
+  boats in II 1917 (British official history) vs 105 (Morrow).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -1469,6 +1520,7 @@ finished, tick it here and add its section above.
 - [x] "Rok w skrócie": quote-checked intros on the five year pages, PL/EN (§19)
 - [x] Key dates page: all 262 milestones on one printable page, PL/EN (§20)
 - [x] Reading series: 8 series, 126 steps with quote-checked notes, PL/EN (§21)
+- [x] "Wojna w liczbach": 4 headline figures and 9 sourced charts, PL/EN (§22)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

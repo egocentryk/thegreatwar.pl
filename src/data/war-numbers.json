@@ -1,0 +1,1056 @@
+{
+ "headline": {
+  "title": "Wojna w liczbach",
+  "titleEn": "The war in numbers",
+  "unit": "różne",
+  "unitEn": "various",
+  "note": "Cztery najważniejsze liczby; jednostka w etykiecie lub nocie każdego wiersza.",
+  "noteEn": "Four key figures; unit given in each row's label or note.",
+  "rows": [
+   {
+    "label": "Polegli i zmarli żołnierze",
+    "labelEn": "Military deaths",
+    "low": 8500000,
+    "high": 11000000,
+    "note": "Osoby; zabici, zmarli z ran i chorób we wszystkich armiach. Dane Departamentu Wojny USA (1924): 8,54 mln; najczęściej 9–10 mln; Wikipedia: do 11 mln (ZPE: 8,4–11,8 mln)",
+    "noteEn": "People; killed, died of wounds and disease in all armies. US War Department (1924): 8.54 m; most often 9–10 m; Wikipedia: up to 11 m (ZPE: 8.4–11.8 m)",
+    "sources": [
+     "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Zmarli cywile",
+    "labelEn": "Civilian deaths",
+    "low": 5000000,
+    "high": 13000000,
+    "note": "Osoby; z ofiarami głodu, chorób, masakr i ludobójstwa Ormian, bez ofiar pandemii grypy 1918 r. (hiszpanki). AFP: 5–10 mln; Wikipedia: 6–13 mln; USHMM: do 13 mln",
+    "noteEn": "People; incl. deaths from famine, disease, massacres and the Armenian genocide, excl. the 1918 influenza pandemic. AFP: 5–10 m; Wikipedia: 6–13 m; USHMM: up to 13 m",
+    "sources": [
+     "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+     "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Zmobilizowani we wszystkich armiach",
+    "labelEn": "Men mobilised in all armies",
+    "low": 65000000,
+    "high": 70000000,
+    "note": "Osoby; łącznie przez całą wojnę. Departament Wojny USA (1924): 65 mln w 16 głównych państwach; AFP: ok. 70 mln",
+    "noteEn": "People; total over the whole war. US War Department (1924): 65 m in the 16 main belligerents; AFP: c. 70 m",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers"
+    ]
+   },
+   {
+    "label": "Dni wojny",
+    "labelEn": "Days of war",
+    "low": 1568,
+    "high": 1568,
+    "note": "Od wypowiedzenia wojny Serbii przez Austro-Węgry 28 VII 1914 do rozejmu w Compiègne 11 XI 1918 włącznie (obliczone: 1567 dni różnicy + 1)",
+    "noteEn": "From Austria-Hungary's declaration of war on Serbia, 28 Jul 1914, to the Armistice of Compiègne, 11 Nov 1918, inclusive (computed: 1,567 days apart + 1)",
+    "sources": []
+   }
+  ]
+ },
+ "mobilised": {
+  "title": "Zmobilizowani według państw",
+  "titleEn": "Men mobilised by country",
+  "unit": "osób",
+  "unitEn": "people",
+  "note": "Wszyscy mężczyźni powołani do sił zbrojnych w latach 1914–1918 (nie stan w jednym momencie). Niższe wartości to zwykle dane Departamentu Wojny USA z 1924 r., wyższe to odpowiedzi rządów na ankietę Międzynarodowego Biura Pracy (1924) lub nowsze szacunki; przedział to rozrzut tych źródeł. Imperium Brytyjskie z dominiami i Indiami.",
+  "noteEn": "All men called into the armed forces in 1914–1918 (not the strength at any one time). Low values are usually the US War Department figures of 1924, high values the governments' replies to the International Labour Office questionnaire (1924) or later estimates; the range is the spread of these sources. British Empire incl. the Dominions and India.",
+  "rows": [
+   {
+    "label": "Rosja",
+    "labelEn": "Russia",
+    "low": 12000000,
+    "high": 15378000,
+    "note": "Departament Wojny USA: 12 mln; MBP: 15,07 mln; Kriwoszejew: 15,38 mln (ZPE: 15,8 mln)",
+    "noteEn": "US War Dept.: 12 m; ILO: 15.07 m; Krivosheev: 15.38 m (ZPE: 15.8 m)",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Niemcy",
+    "labelEn": "Germany",
+    "low": 11000000,
+    "high": 13250000,
+    "note": "Departament Wojny USA: 11 mln; rząd niemiecki dla MBP: 13,25 mln (AFP: 13 mln, ZPE: 14 mln)",
+    "noteEn": "US War Dept.: 11 m; German government to the ILO: 13.25 m (AFP: 13 m, ZPE: 14 m)",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Austro-Węgry",
+    "labelEn": "Austria-Hungary",
+    "low": 7800000,
+    "high": 9000000,
+    "note": "Departament Wojny USA: 7,8 mln; rząd austriacki dla MBP: 9 mln (tyle też AFP i ZPE)",
+    "noteEn": "US War Dept.: 7.8 m; Austrian government to the ILO: 9 m (also AFP and ZPE)",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Imperium Brytyjskie",
+    "labelEn": "British Empire",
+    "low": 8904467,
+    "high": 8904467,
+    "note": "Z dominiami i Indiami; sama Wielka Brytania ok. 5,7 mln (ZPE)",
+    "noteEn": "Incl. the Dominions and India; Great Britain alone c. 5.7 m (ZPE)",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers"
+    ]
+   },
+   {
+    "label": "Francja",
+    "labelEn": "France",
+    "low": 7935000,
+    "high": 8410000,
+    "note": "MBP: 7,94 mln; Departament Wojny USA: 8,41 mln (AFP i ZPE: 8 mln)",
+    "noteEn": "ILO: 7.94 m; US War Dept.: 8.41 m (AFP and ZPE: 8 m)",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Włochy",
+    "labelEn": "Italy",
+    "low": 5615000,
+    "high": 5615000,
+    "note": "Departament Wojny USA i MBP zgodnie",
+    "noteEn": "US War Dept. and ILO agree",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Stany Zjednoczone",
+    "labelEn": "United States",
+    "low": 4272521,
+    "high": 4355000,
+    "note": "Rząd USA dla MBP: 4,27 mln; Departament Wojny USA: 4,36 mln",
+    "noteEn": "US government to the ILO: 4.27 m; US War Dept.: 4.36 m",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Imperium Osmańskie",
+    "labelEn": "Ottoman Empire",
+    "low": 2850000,
+    "high": 2850000,
+    "note": "Departament Wojny USA i osmańska statystyka urzędowa z 1922 r. zgodnie",
+    "noteEn": "US War Dept. and the Ottoman official statistics of 1922 agree",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Bułgaria",
+    "labelEn": "Bulgaria",
+    "low": 1200000,
+    "high": 1200000,
+    "note": "Departament Wojny USA; rząd bułgarski podał MBP tylko 400 tys.",
+    "noteEn": "US War Dept.; the Bulgarian government reported only 400 k to the ILO",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Rumunia",
+    "labelEn": "Romania",
+    "low": 750000,
+    "high": 1000000,
+    "note": "Departament Wojny USA: 750 tys.; MBP: 1 mln",
+    "noteEn": "US War Dept.: 750 k; ILO: 1 m",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   },
+   {
+    "label": "Serbia",
+    "labelEn": "Serbia",
+    "low": 707343,
+    "high": 1008240,
+    "note": "Departament Wojny USA: 707 tys.; rząd jugosłowiański dla MBP: 1,01 mln",
+    "noteEn": "US War Dept.: 707 k; Yugoslav government to the ILO: 1.01 m",
+    "sources": [
+     "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "https://www.spartacus-educational.com/FWWarmies1914.htm",
+     "https://en.wikipedia.org/wiki/World_War_I_casualties"
+    ]
+   }
+  ]
+ },
+ "militaryDeaths": {
+  "title": "Polegli żołnierze według państw",
+  "titleEn": "Military deaths by country",
+  "unit": "osób",
+  "unitEn": "people",
+  "note": "Żołnierze polegli, zmarli z ran, z chorób i w niewoli oraz zaginieni uznani za zmarłych, w latach 1914–1918 (Imperium Brytyjskie i USA według urzędowych zestawień obejmujących też pierwsze lata powojenne); bez ofiar cywilnych. Imperium Brytyjskie łącznie z dominiami, Indiami i koloniami. Przedział to rozrzut poważnych szacunków: dolną granicę wyznaczają zwykle zestawienia z lat 20. (m.in. Departamentu Wojny USA z 1924 r.), górną późniejsze historie oficjalne i badania (Urlanis, Krywoszejew, Erickson).",
+  "noteEn": "Soldiers killed in action, died of wounds, of disease and in captivity, and missing presumed dead, 1914–1918 (British Empire and US per official tallies that also cover the first post-war years); civilians excluded. British Empire including the Dominions, India and the colonies. The range is the spread of serious estimates: the low end is usually the 1920s tallies (e.g. the US War Department's of 1924), the high end later official histories and research (Urlanis, Krivosheev, Erickson).",
+  "rows": [
+   {
+    "label": "Niemcy",
+    "labelEn": "Germany",
+    "low": 1773700,
+    "high": 2037000,
+    "note": "Departament Wojny USA (1924): 1,77 mln; niemiecka historia oficjalna (1934): 2,04 mln",
+    "noteEn": "US War Department (1924): 1.77 m; German official history (1934): 2.04 m",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+    ]
+   },
+   {
+    "label": "Rosja",
+    "labelEn": "Russia",
+    "low": 1700000,
+    "high": 2254369,
+    "note": "Dane z 1918 r. i Departament Wojny USA: 1,7 mln; Urlanis: 1,81 mln; Krywoszejew: 2,25 mln (z zaginionymi uznanymi za zmarłych)",
+    "noteEn": "1918 data and US War Department: 1.7 m; Urlanis: 1.81 m; Krivosheev: 2.25 m (incl. missing presumed dead)",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+    ]
+   },
+   {
+    "label": "Francja",
+    "labelEn": "France",
+    "low": 1357800,
+    "high": 1397800,
+    "note": "Raport rządowy z 1919 r.: 1,36 mln zabitych i zaginionych w armii do 11 XI 1918; z marynarką i zmarłymi z ran po rozejmie 1,40 mln; z wojskami kolonialnymi",
+    "noteEn": "1919 government report: 1.36 m army dead and missing to 11 Nov 1918; 1.40 m with the navy and post-armistice deaths from wounds; incl. colonial troops",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm"
+    ]
+   },
+   {
+    "label": "Austro-Węgry",
+    "labelEn": "Austria-Hungary",
+    "low": 1100000,
+    "high": 1494200,
+    "note": "Urlanis: 1,1 mln; Departament Wojny USA: 1,2 mln; austriacka historia oficjalna: 1,49 mln, w tym 478 tys. zmarłych w niewoli",
+    "noteEn": "Urlanis: 1.1 m; US War Department: 1.2 m; Austrian official history: 1.49 m, incl. 478,000 died as POWs",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+    ]
+   },
+   {
+    "label": "Imperium Brytyjskie",
+    "labelEn": "British Empire",
+    "low": 908371,
+    "high": 1100000,
+    "note": "War Office (1922): 908 tys. w wojskach lądowych; CWGC upamiętnia ponad 1,1 mln zmarłych z całej Wspólnoty (z marynarką, do 1921 r.); same Wyspy Brytyjskie: ok. 744 tys.",
+    "noteEn": "War Office (1922): 908,000 in the land forces; the CWGC commemorates over 1.1 m Commonwealth dead (incl. navy, to 1921); British Isles alone: c. 744,000",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm",
+     "https://www.gov.uk/government/news/in-war-and-peace-honouring-the-contribution-of-the-commonwealth"
+    ]
+   },
+   {
+    "label": "Imperium Osmańskie",
+    "labelEn": "Ottoman Empire",
+    "low": 325000,
+    "high": 771844,
+    "note": "Statystyka osmańska z 1922 r.: 325 tys.; Erickson (na podstawie archiwów): 772 tys., w tym 467 tys. zmarłych z chorób",
+    "noteEn": "Ottoman statistics of 1922: 325,000; Erickson (from the archives): 772,000, incl. 467,000 died of disease",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm"
+    ]
+   },
+   {
+    "label": "Włochy",
+    "labelEn": "Italy",
+    "low": 460000,
+    "high": 651000,
+    "note": "War Office: 460 tys.; dane rządu włoskiego: 651 tys., z inwalidami zmarłymi do kwietnia 1920 r.",
+    "noteEn": "War Office: 460,000; Italian government: 651,000, incl. invalids who died up to April 1920",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm",
+     "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+    ]
+   },
+   {
+    "label": "Serbia",
+    "labelEn": "Serbia",
+    "low": 127500,
+    "high": 450000,
+    "note": "Ellis i Cox: 127,5 tys.; Urlanis: 278 tys. (z Czarnogórą); szacunki serbskie: do 450 tys. Podawane w zestawieniach z 1924 r. 45 tys. uchodzi za mocno zaniżone",
+    "noteEn": "Ellis & Cox: 127,500; Urlanis: 278,000 (with Montenegro); Serbian estimates: up to 450,000. The 45,000 of the 1924 tallies is regarded as far too low",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm"
+    ]
+   },
+   {
+    "label": "Rumunia",
+    "labelEn": "Romania",
+    "low": 250000,
+    "high": 335706,
+    "note": "Rząd rumuński (1924): 250 tys.; Departament Wojny USA i War Office: 336 tys.",
+    "noteEn": "Romanian government (1924): 250,000; US War Department and War Office: 336,000",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm"
+    ]
+   },
+   {
+    "label": "Stany Zjednoczone",
+    "labelEn": "United States",
+    "low": 116516,
+    "high": 116708,
+    "note": "Departament Obrony: 116,5 tys., w tym 53,4 tys. poległych w walce i 63,1 tys. zmarłych poza walką",
+    "noteEn": "Department of Defense: 116,500, incl. 53,400 battle deaths and 63,100 other deaths",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm"
+    ]
+   },
+   {
+    "label": "Bułgaria",
+    "labelEn": "Bulgaria",
+    "low": 87500,
+    "high": 101950,
+    "note": "Bułgarskie Ministerstwo Wojny: 87,5 tys.; Ellis i Cox: 102 tys.",
+    "noteEn": "Bulgarian War Office: 87,500; Ellis & Cox: 102,000",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://necrometrics.com/20c5m.htm"
+    ]
+   }
+  ]
+ },
+ "deathsShare": {
+  "title": "Straty w stosunku do liczby ludności",
+  "titleEn": "Deaths as a share of the pre-war population",
+  "unit": "%",
+  "unitEn": "%",
+  "note": "Zabici i zmarli żołnierze oraz cywile (także ofiary głodu i chorób wywołanych wojną, a w Imperium Osmańskim ludobójstwa Ormian) jako odsetek ludności z 1914 r. w granicach z 1914 r. Podstawa w zestawieniu Wikipedii: Niemcy 64,9 mln, Austro-Węgry 51,4 mln, Wielka Brytania 45,4 mln, Francja 39,6 mln, Włochy 35,6 mln, Imperium Osmańskie 21,3 mln, Rumunia 7,5 mln, Grecja 4,8 mln, Serbia 4,5 mln, Bułgaria 5,5 mln. Przedział to rozrzut między tym zestawieniem a danymi Centre européen Robert Schuman, które różnią się liczbą ofiar cywilnych. Tylko państwa, dla których odsetek podają oba źródła.",
+  "noteEn": "Military and civilian dead (incl. deaths from war-induced famine and disease and, in the Ottoman Empire, the Armenian genocide) as a share of the 1914 population within 1914 borders. Population base in the Wikipedia table: Germany 64.9 m, Austria-Hungary 51.4 m, UK 45.4 m, France 39.6 m, Italy 35.6 m, Ottoman Empire 21.3 m, Romania 7.5 m, Greece 4.8 m, Serbia 4.5 m, Bulgaria 5.5 m. The range is the spread between that table and the Centre européen Robert Schuman data, which differ in civilian death totals. Only countries for which both sources give the share.",
+  "rows": [
+   {
+    "label": "Serbia",
+    "labelEn": "Serbia",
+    "low": 16.1,
+    "high": 27.8,
+    "note": "Od 750 tys. do 1,25 mln ofiar; górna granica to szacunki serbskie",
+    "noteEn": "750,000 to 1.25 m dead; the high end is the Serbian estimate",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360",
+     "https://interactive.guim.co.uk/uploader/embed/2018/11/ww1_deaths-zip/giv-3902rY0El511k1UO"
+    ]
+   },
+   {
+    "label": "Imperium Osmańskie",
+    "labelEn": "Ottoman Empire",
+    "low": 13.3,
+    "high": 15.4,
+    "note": "Z ofiarami ludobójstwa Ormian",
+    "noteEn": "Incl. victims of the Armenian genocide",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Rumunia",
+    "labelEn": "Romania",
+    "low": 7.7,
+    "high": 9.1,
+    "note": "",
+    "noteEn": "",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Francja",
+    "labelEn": "France",
+    "low": 4.3,
+    "high": 4.4,
+    "note": "",
+    "noteEn": "",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Niemcy",
+    "labelEn": "Germany",
+    "low": 3.4,
+    "high": 4.3,
+    "note": "Rozrzut wynika z liczby ofiar blokady (0,3–0,76 mln)",
+    "noteEn": "Spread depends on the blockade death toll (0.3–0.76 m)",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Austro-Węgry",
+    "labelEn": "Austria-Hungary",
+    "low": 3.0,
+    "high": 4.0,
+    "note": "",
+    "noteEn": "",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Grecja",
+    "labelEn": "Greece",
+    "low": 3.2,
+    "high": 3.7,
+    "note": "",
+    "noteEn": "",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Włochy",
+    "labelEn": "Italy",
+    "low": 3.0,
+    "high": 3.7,
+    "note": "",
+    "noteEn": "",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Bułgaria",
+    "labelEn": "Bulgaria",
+    "low": 3.4,
+    "high": 3.4,
+    "note": "",
+    "noteEn": "",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   },
+   {
+    "label": "Wielka Brytania",
+    "labelEn": "United Kingdom",
+    "low": 1.9,
+    "high": 2.2,
+    "note": "W zestawieniu Wikipedii z koloniami, bez dominiów i Indii",
+    "noteEn": "In the Wikipedia table incl. colonies, excl. Dominions and India",
+    "sources": [
+     "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "https://mapasmilhaud.com/en/?p=2360"
+    ]
+   }
+  ]
+ },
+ "polesUnderArms": {
+  "title": "Polacy pod bronią 1914–1918",
+  "titleEn": "Poles under arms, 1914–1918",
+  "unit": "osób",
+  "unitEn": "people",
+  "note": "Wiersze armii zaborczych to Polacy powołani w ciągu całej wojny (nie stan w jednej chwili); wiersze formacji polskich to łączna liczba ochotników albo najwyższy stan, jak opisano przy każdym. Wiersze się nie sumują: pierwszy to całość, a wielu żołnierzy przechodziło z armii zaborczych (i z niewoli) do formacji polskich. Zakres to rozrzut szacunków w źródłach; dane o armiach zaborczych są bardzo przybliżone, bo żadna z nich nie liczyła żołnierzy według narodowości.",
+  "noteEn": "The partitioning-power rows count Poles called up over the whole war (not strength at one moment); the Polish-formation rows give the total number of volunteers or the peak strength, as stated for each. Rows are not additive: the first is the total, and many soldiers passed from the partitioning armies (and from POW camps) into the Polish formations. The range is the spread of estimates in the sources; the partitioning-army figures are very rough, as none of these armies counted soldiers by nationality.",
+  "rows": [
+   {
+    "label": "Ogółem w armiach państw zaborczych",
+    "labelEn": "Total in the partitioning powers' armies",
+    "low": 2900000,
+    "high": 3400000,
+    "note": "Wrzosek (za S. Dąbrowskim): co najmniej 2,9 mln; „Zarys dziejów Polski” (red. J. Tazbir): 3,4 mln; MHP: ponad 3 mln",
+    "noteEn": "Wrzosek (after S. Dąbrowski): at least 2.9 m; 'Zarys dziejów Polski' (ed. J. Tazbir): 3.4 m; Museum of Polish History: over 3 m",
+    "sources": [
+     "https://dzieje.pl/node/9224",
+     "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+     "https://dzieje.pl/node/17125",
+     "https://forsal.pl/gospodarka/polityka/artykuly/8003350,miliony-poleglych-zaraza-i-gospodarczy-kataklizm-tak-wygladala-polsk.html"
+    ]
+   },
+   {
+    "label": "Armia rosyjska",
+    "labelEn": "Russian army",
+    "low": 1200000,
+    "high": 2000000,
+    "note": "Tazbir: 1,2 mln; MHP: ok. 2 mln; wiosną 1917 r. służyło w niej, według Wrzoska, ok. 500 tys. Polaków",
+    "noteEn": "Tazbir: 1.2 m; Museum of Polish History: c. 2 m; in spring 1917 c. 500 k Poles were serving in it, per Wrzosek",
+    "sources": [
+     "https://dzieje.pl/node/9224",
+     "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+     "https://en.wikipedia.org/wiki/Poland_in_World_War_I",
+     "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf"
+    ]
+   },
+   {
+    "label": "Armia austro-węgierska",
+    "labelEn": "Austro-Hungarian army",
+    "low": 1400000,
+    "high": 1500000,
+    "note": "Tazbir: 1,4 mln; MHP: niemal 1,5 mln",
+    "noteEn": "Tazbir: 1.4 m; Museum of Polish History: almost 1.5 m",
+    "sources": [
+     "https://dzieje.pl/node/9224",
+     "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+     "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+    ]
+   },
+   {
+    "label": "Armia niemiecka",
+    "labelEn": "German army",
+    "low": 800000,
+    "high": 850000,
+    "note": "Tazbir: 800 tys.; MHP: 850 tys. (na obu frontach); angielska Wikipedia podaje bez źródła 700 tys.",
+    "noteEn": "Tazbir: 800 k; Museum of Polish History: 850 k (on both fronts); English Wikipedia gives an unsourced 700 k",
+    "sources": [
+     "https://dzieje.pl/node/9224",
+     "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+     "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+    ]
+   },
+   {
+    "label": "Armia Polska we Francji (Błękitna Armia)",
+    "labelEn": "Polish Army in France (Blue Army)",
+    "low": 17000,
+    "high": 70000,
+    "note": "17 tys. w listopadzie 1918 (Wrzosek, MHP); w 1919 r. do kraju przewieziono 68 433 żołnierzy (Wrzosek), ok. 70 tys. według większości szacunków; większość wstąpiła po zawieszeniu broni, m.in. ok. 25 tys. jeńców z Włoch",
+    "noteEn": "17 k in November 1918 (Wrzosek, Museum of Polish History); 68,433 soldiers were shipped home in 1919 (Wrzosek), c. 70 k by most estimates; most joined after the Armistice, including c. 25 k POWs from Italy",
+    "sources": [
+     "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+     "https://dzieje.pl/node/17125",
+     "https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji"
+    ]
+   },
+   {
+    "label": "Legiony Polskie",
+    "labelEn": "Polish Legions",
+    "low": 30000,
+    "high": 40000,
+    "note": "Wszyscy, którzy przeszli przez Legiony: MHP 30 tys.; dzieje.pl 35–40 tys.; Wrzosek ponad 40 tys.; najwyższy stan jesienią 1915 r. ponad 25 tys. (Wrzosek)",
+    "noteEn": "Everyone who passed through the Legions: Museum of Polish History 30 k; dzieje.pl 35–40 k; Wrzosek over 40 k; peak strength in autumn 1915 over 25 k (Wrzosek)",
+    "sources": [
+     "https://dzieje.pl/node/17125",
+     "https://dzieje.pl/aktualnosci/kalendarium-legionow-polskich",
+     "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf"
+    ]
+   },
+   {
+    "label": "I Korpus Polski w Rosji",
+    "labelEn": "I Polish Corps in Russia",
+    "low": 23661,
+    "high": 29000,
+    "note": "Najwyższy stan: ok. 29 tys. w połowie stycznia 1918 r. (Wrzosek: „nie więcej niż 29 tys.”); po walkach z bolszewikami stopniał o połowę, w maju 1918 r. 23 661 ludzi (Bagiński)",
+    "noteEn": "Peak strength: c. 29 k in mid-January 1918 (Wrzosek: 'no more than 29 k'); halved in the fighting with the Bolsheviks, 23,661 men in May 1918 (Bagiński)",
+    "sources": [
+     "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+     "https://pl.wikipedia.org/wiki/I_Korpus_Polski_w_Rosji"
+    ]
+   },
+   {
+    "label": "II Korpus Polski w Rosji",
+    "labelEn": "II Polish Corps in Russia",
+    "low": 6918,
+    "high": 7000,
+    "note": "Przed Kaniowem: 651 oficerów i 6267 szeregowych (stan z 1 maja 1918 r., Wrzosek za CAW); w marcu 1918 r. ponad 7 tys., w tym ok. 1,5 tys. z II Brygady Legionów",
+    "noteEn": "Before Kaniów: 651 officers and 6,267 other ranks (strength on 1 May 1918, Wrzosek after the Central Military Archives); over 7 k in March 1918, incl. c. 1.5 k from the Legions' II Brigade",
+    "sources": [
+     "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+     "https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji"
+    ]
+   }
+  ]
+ },
+ "polandLosses": {
+  "title": "Straty Polaków i ziem polskich 1914–1918",
+  "titleEn": "Losses of Poles and the Polish lands, 1914–1918",
+  "unit": "osób",
+  "unitEn": "people",
+  "note": "Polacy we wszystkich armiach oraz ludność ziem polskich (zabór rosyjski, austriacki i pruski). Wiersze się nie sumują: polegli i ranni to żołnierze, dalej uchodźcy i wysiedleni (w tym podzbiór: Polacy wśród bieżeńców). Wszystkie liczby to szacunki, często mocno zaokrąglone; zakres to rozrzut szacunków w źródłach. Ofiar cywilnych nie podajemy: nie znaleźliśmy dwóch niezależnych szacunków.",
+  "noteEn": "Poles in all armies and the population of the Polish lands (Russian, Austrian and Prussian partitions). Rows are not additive: killed and wounded are soldiers, then refugees and deportees (incl. a subset: Poles among the bieżeńcy). All figures are estimates, often heavily rounded; the range is the spread of estimates in the sources. Civilian deaths are not shown: we found no two independent estimates.",
+  "rows": [
+   {
+    "label": "Polegli, zmarli i zaginieni żołnierze (wszystkie armie)",
+    "labelEn": "Soldiers killed, died or missing (all armies)",
+    "low": 385000,
+    "high": 530000,
+    "note": "Nałęcz: 385 tys.; MHP i Zamoyski: ok. 450 tys.; Wrzosek: ok. 530 tys. (armia austro-węgierska ponad 220 tys., rosyjska ok. 200 tys., niemiecka ponad 110 tys.); Chwalba: 350–400 tys. poległych i zmarłych z ran, bez ofiar chorób",
+    "noteEn": "Nałęcz: 385 k; Museum of Polish History and Zamoyski: c. 450 k; Wrzosek: c. 530 k (Austro-Hungarian army over 220 k, Russian c. 200 k, German over 110 k); Chwalba: 350–400 k killed and died of wounds, excluding disease",
+    "sources": [
+     "https://dzieje.pl/node/9224",
+     "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+     "https://dzieje.pl/node/106132",
+     "https://forsal.pl/gospodarka/polityka/artykuly/8003350,miliony-poleglych-zaraza-i-gospodarczy-kataklizm-tak-wygladala-polsk.html",
+     "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+    ]
+   },
+   {
+    "label": "Ranni żołnierze",
+    "labelEn": "Wounded soldiers",
+    "low": 900000,
+    "high": 1000000,
+    "note": "Zamoyski: ok. 900 tys.; Bideleux i Jeffries: ok. 1 mln",
+    "noteEn": "Zamoyski: c. 900 k; Bideleux and Jeffries: c. 1 m",
+    "sources": [
+     "https://www.rp.pl/plus-minus/art4946811-przeoczona-swiatowa",
+     "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+    ]
+   },
+   {
+    "label": "Bieżeńcy i wysiedleni w głąb Rosji (1915, wszystkie narodowości)",
+    "labelEn": "Refugees and deportees into Russia (1915, all nationalities)",
+    "low": 2000000,
+    "high": 3500000,
+    "note": "Z Królestwa i zachodnich guberni, głównie prawosławni chłopi: A. Prymaka-Oniszk nawet 2 mln z ziem polskich; Chwalba 3,5 mln z Królestwa i zaboru rosyjskiego; niektórzy badacze do 5 mln",
+    "noteEn": "From Congress Poland and the western provinces, mostly Orthodox peasants: A. Prymaka-Oniszk up to 2 m from the Polish lands; Chwalba 3.5 m from Congress Poland and the Russian partition; some researchers up to 5 m",
+    "sources": [
+     "https://dzieje.pl/node/65557",
+     "https://dzieje.pl/node/106132"
+    ]
+   },
+   {
+    "label": "w tym Polacy",
+    "labelEn": "of whom Poles",
+    "low": 1000000,
+    "high": 1200000,
+    "note": "Chwalba: ok. jedna trzecia z 3,5 mln; PAP (za D. Sulą i A. Walaszkiem): ok. miliona wygnańców i uwięzionych, „szacunek bardzo niedokładny”; Kruszyński: ok. miliona Polaków z Królestwa i Galicji",
+    "noteEn": "Chwalba: c. a third of 3.5 m; PAP (after D. Sula and A. Walaszek): c. a million exiles and prisoners, 'a very rough estimate'; Kruszyński: c. a million Poles from Congress Poland and Galicia",
+    "sources": [
+     "https://dzieje.pl/node/106132",
+     "https://dzieje.pl/aktualnosci/przeciez-polska-nie-co-rok-powstaje-powroty-do-niepodleglej",
+     "https://ceeol.com/search/article-detail?id=757966"
+    ]
+   },
+   {
+    "label": "Uchodźcy i ewakuowani z Galicji (1914–1915)",
+    "labelEn": "Refugees and evacuees from Galicia (1914–1915)",
+    "low": 900000,
+    "high": 1000000,
+    "note": "W głąb monarchii habsburskiej, Polacy, Żydzi i Rusini: Chwalba ok. 900 tys.; K. Ruszała: niespełna milion w czterech falach",
+    "noteEn": "Into the Habsburg interior, Poles, Jews and Ruthenians: Chwalba c. 900 k; K. Ruszała: just under a million in four waves",
+    "sources": [
+     "https://dzieje.pl/node/106132",
+     "https://ceureviewofbooks.com/review/galician-refugees-during-the-first-world-war/"
+    ]
+   }
+  ]
+ },
+ "battleCasualties": {
+  "title": "Najkrwawsze bitwy i kampanie",
+  "titleEn": "The costliest battles and campaigns",
+  "unit": "osób",
+  "unitEn": "people",
+  "note": "Straty obu stron łącznie: zabici, ranni, zaginieni i wzięci do niewoli (bez chorych, chyba że zaznaczono). Liczby dla każdej strony pochodzą z różnych opracowań i często obejmują nieco inne okresy, więc sumy są przybliżone. Przedział to rozrzut poważnych szacunków w podanych źródłach; skrajne liczby, odrzucane przez większość historyków, wymieniono w uwagach. Dwunastą bitwę nad Isonzo (Caporetto) pokazano osobno, a wiersz „Bitwy nad Isonzo” obejmuje bitwy od pierwszej do jedenastej.",
+  "noteEn": "Casualties of both sides combined: killed, wounded, missing and taken prisoner (sick excluded unless noted). Each side's figure comes from different works, often covering slightly different periods, so the totals are approximate. The range is the spread of serious estimates in the cited sources; outliers rejected by most historians are mentioned in the row notes. The Twelfth Battle of the Isonzo (Caporetto) is shown separately, and the \"Battles of the Isonzo\" row covers the first to the eleventh battle.",
+  "rows": [
+   {
+    "label": "Ofensywa Brusiłowa",
+    "labelEn": "Brusilov offensive",
+    "low": 1950000,
+    "high": 2940000,
+    "note": "Czerwiec–wrzesień 1916; Rosjanie ok. 1–1,44 mln, państwa centralne ok. 0,95–1,5 mln; dane rosyjskie za pierwsze sześć tygodni: ok. 0,5 mln strat rosyjskich",
+    "noteEn": "June–September 1916; Russians c. 1–1.44 m, Central Powers c. 0.95–1.5 m; Russian archival data for the first six weeks only: c. 0.5 m Russian casualties",
+    "sources": [
+     "https://www.historyofwar.org/articles/battles_kovel_stanislav.html",
+     "https://www.mentalfloss.com/history/world-war-i/wwi-centennial-russians-resume-brusilov-offensive",
+     "https://en.wikipedia.org/wiki/Brusilov_offensive",
+     "https://pl.wikipedia.org/wiki/Ofensywa_Brusiłowa"
+    ]
+   },
+   {
+    "label": "Ofensywa wiosenna 1918",
+    "labelEn": "German spring offensive 1918",
+    "low": 1550000,
+    "high": 1660000,
+    "note": "21 marca – 18 lipca 1918; sprzymierzeni ok. 863 tys. (Churchill), Niemcy 688 tys. (Reichsarchiv wg Churchilla) do ok. 800 tys.",
+    "noteEn": "21 March – 18 July 1918; Allies c. 863 k (Churchill), Germans 688 k (Reichsarchiv via Churchill) to c. 800 k",
+    "sources": [
+     "https://vimyridge.valourcanada.ca/the-road-to-vimy-ridge/ending-the-war/kaiserschlacht/",
+     "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "https://pl.wikipedia.org/wiki/Ofensywa_wiosenna_1918"
+    ]
+   },
+   {
+    "label": "Bitwa nad Sommą",
+    "labelEn": "Battle of the Somme",
+    "low": 1070000,
+    "high": 1225000,
+    "note": "Imperium Brytyjskie ok. 420 tys., Francuzi ok. 200 tys., Niemcy od ok. 450 do 600 tys.; Miles (1938) podawał dla Niemców 660–680 tys.",
+    "noteEn": "British Empire c. 420 k, French c. 200 k, Germans c. 450–600 k; Miles (1938) gave 660–680 k for the Germans",
+    "sources": [
+     "https://www.nam.ac.uk/explore/battle-somme",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+    ]
+   },
+   {
+    "label": "Bitwy nad Isonzo I–XI",
+    "labelEn": "Battles of the Isonzo I–XI",
+    "low": 1095000,
+    "high": 1146000,
+    "note": "Czerwiec 1915 – wrzesień 1917, bez Caporetto; Włosi ok. 645 tys., Austro-Węgry ok. 450–500 tys.; z dwunastą bitwą razem ok. 1,5 mln",
+    "noteEn": "June 1915 – September 1917, without Caporetto; Italians c. 645 k, Austria-Hungary c. 450–500 k; with the Twelfth Battle c. 1.5 m in all",
+    "sources": [
+     "https://warhistoryonline.com/newsbreak/the-12-battles-of-the-isonzo-led-to-over-one-million-casualties-between-the-austro-hungarian-and-italian-armies.html",
+     "https://en.wikipedia.org/wiki/Battles_of_the_Isonzo"
+    ]
+   },
+   {
+    "label": "Bitwa pod Verdun",
+    "labelEn": "Battle of Verdun",
+    "low": 712000,
+    "high": 755000,
+    "note": "21 lutego – grudzień 1916; Francuzi ok. 377–400 tys., Niemcy ok. 333–355 tys.; najczęściej przytaczane 714 tys. (Heer i Naumann)",
+    "noteEn": "21 February – December 1916; French c. 377–400 k, Germans c. 333–355 k; the most cited total is 714 k (Heer and Naumann)",
+    "sources": [
+     "https://memorial-verdun.fr/en/ressources/la-bataille-de-verdun",
+     "https://en.wikipedia.org/wiki/Battle_of_Verdun",
+     "https://pl.wikipedia.org/wiki/Bitwa_pod_Verdun"
+    ]
+   },
+   {
+    "label": "Kampania gallipolijska",
+    "labelEn": "Gallipoli campaign",
+    "low": 475000,
+    "high": 589000,
+    "note": "Kwiecień 1915 – styczeń 1916; sprzymierzeni ponad 220–300 tys., Turcy ok. 255–289 tys.; część liczb obejmuje ewakuowanych chorych",
+    "noteEn": "April 1915 – January 1916; Allies over 220–300 k, Ottomans c. 255–289 k; some figures include evacuated sick",
+    "sources": [
+     "https://www.nam.ac.uk/explore/gallipoli",
+     "https://en.wikipedia.org/wiki/Gallipoli_campaign"
+    ]
+   },
+   {
+    "label": "Trzecia bitwa pod Ypres",
+    "labelEn": "Third Battle of Ypres",
+    "low": 457000,
+    "high": 560000,
+    "note": "Lipiec–listopad 1917; Imperium Brytyjskie ok. 240–300 tys., Niemcy ok. 217–260 tys.; wyższe szacunki (Wolff, Edmonds) są odrzucane",
+    "noteEn": "July–November 1917; British Empire c. 240–300 k, Germans c. 217–260 k; higher estimates (Wolff, Edmonds) are rejected",
+    "sources": [
+     "https://www.nam.ac.uk/explore/battle-passchendaele",
+     "https://en.wikipedia.org/wiki/Battle_of_Passchendaele"
+    ]
+   },
+   {
+    "label": "Pierwsza bitwa nad Marną",
+    "labelEn": "First Battle of the Marne",
+    "low": 500000,
+    "high": 561000,
+    "note": "Wrzesień 1914; Francuzi ok. 250 tys., Niemcy ok. 250–298 tys., Brytyjczycy ok. 13 tys.",
+    "noteEn": "September 1914; French c. 250 k, Germans c. 250–298 k, British c. 13 k",
+    "sources": [
+     "https://www.historycrunch.com/first-battle-of-the-marne-in-world-war-i.html",
+     "https://www.worldatlas.com/articles/what-was-the-first-battle-of-marne.html",
+     "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne"
+    ]
+   },
+   {
+    "label": "Dwunasta bitwa nad Isonzo (Caporetto)",
+    "labelEn": "Twelfth Battle of the Isonzo (Caporetto)",
+    "low": 375000,
+    "high": 388000,
+    "note": "Październik–listopad 1917; Włosi 10–13 tys. zabitych, 30 tys. rannych i 265–275 tys. jeńców, państwa centralne ok. 70 tys.",
+    "noteEn": "October–November 1917; Italians 10–13 k killed, 30 k wounded and 265–275 k prisoners, Central Powers c. 70 k",
+    "sources": [
+     "https://www.worldatlas.com/articles/what-was-the-battle-of-caporetto.html",
+     "https://en.wikipedia.org/wiki/Battle_of_Caporetto"
+    ]
+   },
+   {
+    "label": "Ofensywa Moza-Argonne",
+    "labelEn": "Meuse–Argonne offensive",
+    "low": 287000,
+    "high": 318000,
+    "note": "26 września – 11 listopada 1918; Amerykanie 117–122 tys., Francuzi ok. 70 tys., Niemcy 100–126 tys.",
+    "noteEn": "26 September – 11 November 1918; Americans 117–122 k, French c. 70 k, Germans 100–126 k",
+    "sources": [
+     "https://www.historyofwar.org/articles/battles_meuse_argonne.html",
+     "https://en.wikipedia.org/wiki/Meuse%E2%80%93Argonne_offensive"
+    ]
+   }
+  ]
+ },
+ "verdunSomme": {
+  "title": "Verdun i Somma: straty według armii",
+  "titleEn": "Verdun and the Somme: casualties by army",
+  "unit": "osób",
+  "unitEn": "people",
+  "note": "Zabici, ranni, zaginieni i wzięci do niewoli w 1916 roku: Verdun od 21 lutego do grudnia, Somma od 1 lipca do 18 listopada. Imperium Brytyjskie to armia brytyjska z wojskami dominiów i Indii. Przedział to rozrzut szacunków w podanych źródłach; straty niemieckie nad Sommą są najbardziej sporne.",
+  "noteEn": "Killed, wounded, missing and taken prisoner in 1916: Verdun from 21 February to December, the Somme from 1 July to 18 November. British Empire means the British Army with Dominion and Indian troops. The range is the spread of estimates in the cited sources; German losses on the Somme are the most disputed.",
+  "rows": [
+   {
+    "label": "Somma – Niemcy",
+    "labelEn": "Somme – Germany",
+    "low": 450000,
+    "high": 600000,
+    "note": "NAM: co najmniej 450 tys.; Harris: ok. 500 tys.; Sheffield: ok. 600 tys.; Miles (1938): 660–680 tys., uznawane za zawyżone",
+    "noteEn": "NAM: at least 450 k; Harris: c. 500 k; Sheffield: c. 600 k; Miles (1938): 660–680 k, considered too high",
+    "sources": [
+     "https://www.nam.ac.uk/explore/battle-somme",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+    ]
+   },
+   {
+    "label": "Somma – Imperium Brytyjskie",
+    "labelEn": "Somme – British Empire",
+    "low": 420000,
+    "high": 420000,
+    "note": "Brytyjska historia oficjalna (Miles): 419 654",
+    "noteEn": "British official history (Miles): 419,654",
+    "sources": [
+     "https://www.nam.ac.uk/explore/battle-somme",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+    ]
+   },
+   {
+    "label": "Verdun – Francja",
+    "labelEn": "Verdun – France",
+    "low": 377000,
+    "high": 400000,
+    "note": "Heer i Naumann: 377 231; Mémorial de Verdun: 163 tys. zabitych oraz 216 tys. rannych",
+    "noteEn": "Heer and Naumann: 377,231; Mémorial de Verdun: 163 k dead and 216 k wounded",
+    "sources": [
+     "https://memorial-verdun.fr/en/ressources/la-bataille-de-verdun",
+     "https://en.wikipedia.org/wiki/Battle_of_Verdun"
+    ]
+   },
+   {
+    "label": "Verdun – Niemcy",
+    "labelEn": "Verdun – Germany",
+    "low": 333000,
+    "high": 355000,
+    "note": "Heer i Naumann: 337 tys.; Mémorial de Verdun: 143 tys. zabitych oraz 190 tys. rannych",
+    "noteEn": "Heer and Naumann: 337 k; Mémorial de Verdun: 143 k dead and 190 k wounded",
+    "sources": [
+     "https://memorial-verdun.fr/en/ressources/la-bataille-de-verdun",
+     "https://en.wikipedia.org/wiki/Battle_of_Verdun"
+    ]
+   },
+   {
+    "label": "Somma – Francja",
+    "labelEn": "Somme – France",
+    "low": 194000,
+    "high": 204000,
+    "note": "Edmonds: 194 451; Wendt: 202 567; Miles: 204 253",
+    "noteEn": "Edmonds: 194,451; Wendt: 202,567; Miles: 204,253",
+    "sources": [
+     "https://www.nam.ac.uk/explore/battle-somme",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+    ]
+   }
+  ]
+ },
+ "uboats": {
+  "title": "Niemieckie okręty podwodne 1914–1918",
+  "titleEn": "German U-boats 1914–1918",
+  "unit": "okrętów",
+  "unitEn": "boats",
+  "note": "Okręty podwodne Kaiserliche Marine (typy U, UB, UC i UA), bez okrętów austro-węgierskich i bez jednostek ukończonych po rozejmie. Źródła liczą różnie: jedne tylko okręty operacyjne, inne wszystkie wprowadzone do służby, a do strat jedne wliczają okręty samozatopione na Adriatyku i we Flandrii jesienią 1918 roku oraz wypadki, inne nie. Przedział to rozrzut liczb w podanych źródłach.",
+  "noteEn": "Submarines of the Imperial German Navy (U, UB, UC and UA types), excluding Austro-Hungarian boats and boats completed after the armistice. Sources count differently: some only operational boats, others every boat commissioned, and some include in the losses the boats scuttled in the Adriatic and Flanders in autumn 1918 and accidents, others do not. The range is the spread of figures in the cited sources.",
+  "rows": [
+   {
+    "label": "W służbie w latach 1914–1918",
+    "labelEn": "In service 1914–1918",
+    "low": 351,
+    "high": 375,
+    "note": "Z okrętami sprzed wojny. Clodfelter: 351 okrętów operacyjnych (24 w 1914 r. + 327 wprowadzonych do służby w czasie wojny); historycrunch: zbudowano 373; uboat.net: 375",
+    "noteEn": "Incl. pre-war boats. Clodfelter: 351 operational boats (24 in 1914 + 327 commissioned during the war); historycrunch: 373 built; uboat.net: 375",
+    "sources": [
+     "https://en.wikipedia.org/wiki/U-boat_campaign",
+     "https://uboat.net/wwi/boats/",
+     "https://www.historycrunch.com/german-submarines-u-boats-in-world-war-i.html"
+    ]
+   },
+   {
+    "label": "Stracone ogółem",
+    "labelEn": "Lost to all causes",
+    "low": 202,
+    "high": 217,
+    "note": "uboat.net: 202 (z samozatopionymi przy ewakuacji Poli, Kotoru i Flandrii); Clodfelter: 217 (178 w walce i 39 z innych przyczyn)",
+    "noteEn": "uboat.net: 202 (incl. boats scuttled when Pola, Cattaro and Flanders were evacuated); Clodfelter: 217 (178 in action and 39 other losses)",
+    "sources": [
+     "https://uboat.net/wwi/fates/losses.html",
+     "https://en.wikipedia.org/wiki/U-boat_campaign"
+    ]
+   },
+   {
+    "label": "Zatopione przez nieprzyjaciela",
+    "labelEn": "Sunk by the enemy",
+    "low": 178,
+    "high": 178,
+    "note": "Według Clodfeltera 41 na minach, 30 bombami głębinowymi i 13 przez statki-pułapki; zginęło ok. 5 tys. członków załóg",
+    "noteEn": "Per Clodfelter, 41 by mines, 30 by depth charges and 13 by Q-ships; about 5,000 crewmen were killed",
+    "sources": [
+     "https://en.wikipedia.org/wiki/U-boat_campaign",
+     "https://www.worldhistory.org/U-Boat/",
+     "https://www.historyhit.com/facts-about-submarine-warfare-in-world-war-one/",
+     "https://www.historycrunch.com/german-submarines-u-boats-in-world-war-i.html"
+    ]
+   },
+   {
+    "label": "W służbie w chwili rozejmu",
+    "labelEn": "In service at the armistice",
+    "low": 134,
+    "high": 134,
+    "note": "Stan na koniec 1918 r. według Clodfeltera",
+    "noteEn": "Strength at the end of 1918 per Clodfelter",
+    "sources": [
+     "https://en.wikipedia.org/wiki/U-boat_campaign",
+     "https://www.historyhit.com/facts-about-submarine-warfare-in-world-war-one/"
+    ]
+   },
+   {
+    "label": "W służbie w sierpniu 1914",
+    "labelEn": "In service in August 1914",
+    "low": 20,
+    "high": 24,
+    "note": "World History Encyclopedia: 20 okrętów zdolnych do działań; Clodfelter: 24",
+    "noteEn": "World History Encyclopedia: 20 operational boats; Clodfelter: 24",
+    "sources": [
+     "https://www.worldhistory.org/U-Boat/",
+     "https://en.wikipedia.org/wiki/U-boat_campaign"
+    ]
+   }
+  ]
+ },
+ "aircraftProduction": {
+  "title": "Produkcja samolotów 1914–1918",
+  "titleEn": "Aircraft production 1914–1918",
+  "unit": "sztuk",
+  "unitEn": "aircraft",
+  "note": "Samoloty wyprodukowane w danym kraju w czasie jego udziału w wojnie (Włochy od 1915 r., Rosja do 1917 r., USA – jak zaznaczono), wszystkie typy: bojowe, rozpoznawcze i szkolne. Wielka Brytania bez dominiów. Zestawienia różnią się tym, czy liczą tylko płatowce przyjęte przez wojsko i jak ujmują 1914 i koniec 1918 roku; przedział to rozrzut liczb w podanych źródłach.",
+  "noteEn": "Aircraft built in each country while it was at war (Italy from 1915, Russia to 1917, the USA as marked), all types: combat, reconnaissance and trainers. United Kingdom without the Dominions. Tallies differ in whether they count only airframes accepted by the military and in how they treat 1914 and late 1918; the range is the spread of figures in the cited sources.",
+  "rows": [
+   {
+    "label": "Francja",
+    "labelEn": "France",
+    "low": 52000,
+    "high": 67987,
+    "note": "Francuska Wikipedia: 52 tys. samolotów i 90 tys. silników; The Aerodrome: 67 987",
+    "noteEn": "French Wikipedia: 52,000 aircraft and 90,000 engines; The Aerodrome: 67,987",
+    "sources": [
+     "https://fr.wikipedia.org/wiki/A%C3%A9ronautique_militaire",
+     "https://theaerodrome.com/aircraft/statistics.php"
+    ]
+   },
+   {
+    "label": "Wielka Brytania",
+    "labelEn": "United Kingdom",
+    "low": 52000,
+    "high": 58144,
+    "note": "Imperial War Museum (za Wikipedią): 52 tys.; The Aerodrome: 58 144",
+    "noteEn": "Imperial War Museum (via Wikipedia): 52,000; The Aerodrome: 58,144",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Economic_history_of_World_War_I",
+     "https://theaerodrome.com/aircraft/statistics.php"
+    ]
+   },
+   {
+    "label": "Niemcy",
+    "labelEn": "Germany",
+    "low": 47637,
+    "high": 48537,
+    "note": "Deutsches Historisches Museum: ponad 47 tys. z 35 wytwórni; niemiecka Wikipedia: 47 637 i 40 449 silników; The Aerodrome: 48 537",
+    "noteEn": "Deutsches Historisches Museum: over 47,000 from 35 firms; German Wikipedia: 47,637 and 40,449 engines; The Aerodrome: 48,537",
+    "sources": [
+     "https://www.dhm.de/archiv/ausstellungen/der-erste-weltkrieg/rooms/luftkrieg.htm",
+     "https://de.wikipedia.org/wiki/Deutsche_Flugzeugindustrie_im_Ersten_Weltkrieg",
+     "https://theaerodrome.com/aircraft/statistics.php"
+    ]
+   },
+   {
+    "label": "Włochy",
+    "labelEn": "Italy",
+    "low": 18000,
+    "high": 20000,
+    "note": "1915–1918; Wikipedia: ok. 18 tys. w trzy lata wojny (artykuł o lotnictwie austro-węgierskim) i 20 tys. (artykuł o lotnictwie włoskim); The Aerodrome: 20 tys.",
+    "noteEn": "1915–1918; Wikipedia: about 18,000 in three years of war (article on Austro-Hungarian aviation) and 20,000 (article on Italian aviation); The Aerodrome: 20,000",
+    "sources": [
+     "https://theaerodrome.com/aircraft/statistics.php",
+     "https://en.wikipedia.org/wiki/Corpo_Aeronautico_Militare",
+     "https://en.wikipedia.org/wiki/Austro-Hungarian_Aviation_Troops"
+    ]
+   },
+   {
+    "label": "Stany Zjednoczone",
+    "labelEn": "United States",
+    "low": 15000,
+    "high": 16168,
+    "note": "The Aerodrome: 15 tys.; Assembly Magazine: 2148 w 1917 i 14 020 w 1918 r. (razem 16 168, za pełne lata kalendarzowe)",
+    "noteEn": "The Aerodrome: 15,000; Assembly Magazine: 2,148 in 1917 and 14,020 in 1918 (16,168 together, full calendar years)",
+    "sources": [
+     "https://theaerodrome.com/aircraft/statistics.php",
+     "https://assemblymag.com/articles/84151-the-dawn-of-aeroplane-assembly"
+    ]
+   },
+   {
+    "label": "Austro-Węgry",
+    "labelEn": "Austria-Hungary",
+    "low": 5180,
+    "high": 5431,
+    "note": "Wikipedia: 5180 w czterech latach wojny (gdzie indziej ok. 5430); The Aerodrome: 5431",
+    "noteEn": "Wikipedia: 5,180 in four years of war (elsewhere about 5,430); The Aerodrome: 5,431",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Austro-Hungarian_Aviation_Troops",
+     "https://theaerodrome.com/aircraft/statistics.php"
+    ]
+   },
+   {
+    "label": "Rosja",
+    "labelEn": "Russia",
+    "low": 4700,
+    "high": 5000,
+    "note": "1914–1917; The Aerodrome: 4700; Wikipedia: ok. 5 tys. samolotów i 4 tys. silników",
+    "noteEn": "1914–1917; The Aerodrome: 4,700; Wikipedia: about 5,000 aircraft and 4,000 engines",
+    "sources": [
+     "https://theaerodrome.com/aircraft/statistics.php",
+     "https://en.wikipedia.org/wiki/Imperial_Russian_Air_Service"
+    ]
+   }
+  ]
+ }
+}

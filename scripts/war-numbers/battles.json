@@ -1,0 +1,207 @@
+{
+  "battleCasualties": {
+    "title": "Najkrwawsze bitwy i kampanie",
+    "titleEn": "The costliest battles and campaigns",
+    "unit": "osób",
+    "unitEn": "people",
+    "note": "Straty obu stron łącznie: zabici, ranni, zaginieni i wzięci do niewoli (bez chorych, chyba że zaznaczono). Liczby dla każdej strony pochodzą z różnych opracowań i często obejmują nieco inne okresy, więc sumy są przybliżone. Przedział to rozrzut poważnych szacunków w podanych źródłach; skrajne liczby, odrzucane przez większość historyków, wymieniono w uwagach. Dwunastą bitwę nad Isonzo (Caporetto) pokazano osobno, a wiersz „Bitwy nad Isonzo” obejmuje bitwy od pierwszej do jedenastej.",
+    "noteEn": "Casualties of both sides combined: killed, wounded, missing and taken prisoner (sick excluded unless noted). Each side's figure comes from different works, often covering slightly different periods, so the totals are approximate. The range is the spread of serious estimates in the cited sources; outliers rejected by most historians are mentioned in the row notes. The Twelfth Battle of the Isonzo (Caporetto) is shown separately, and the \"Battles of the Isonzo\" row covers the first to the eleventh battle.",
+    "rows": [
+      {
+        "label": "Ofensywa Brusiłowa",
+        "labelEn": "Brusilov offensive",
+        "low": 1950000,
+        "high": 2940000,
+        "note": "Czerwiec–wrzesień 1916; Rosjanie ok. 1–1,44 mln, państwa centralne ok. 0,95–1,5 mln; dane rosyjskie za pierwsze sześć tygodni: ok. 0,5 mln strat rosyjskich",
+        "noteEn": "June–September 1916; Russians c. 1–1.44 m, Central Powers c. 0.95–1.5 m; Russian archival data for the first six weeks only: c. 0.5 m Russian casualties",
+        "sources": [
+          "https://www.historyofwar.org/articles/battles_kovel_stanislav.html",
+          "https://www.mentalfloss.com/history/world-war-i/wwi-centennial-russians-resume-brusilov-offensive",
+          "https://en.wikipedia.org/wiki/Brusilov_offensive",
+          "https://pl.wikipedia.org/wiki/Ofensywa_Brusiłowa"
+        ]
+      },
+      {
+        "label": "Ofensywa wiosenna 1918",
+        "labelEn": "German spring offensive 1918",
+        "low": 1550000,
+        "high": 1660000,
+        "note": "21 marca – 18 lipca 1918; sprzymierzeni ok. 863 tys. (Churchill), Niemcy 688 tys. (Reichsarchiv wg Churchilla) do ok. 800 tys.",
+        "noteEn": "21 March – 18 July 1918; Allies c. 863 k (Churchill), Germans 688 k (Reichsarchiv via Churchill) to c. 800 k",
+        "sources": [
+          "https://vimyridge.valourcanada.ca/the-road-to-vimy-ridge/ending-the-war/kaiserschlacht/",
+          "https://en.wikipedia.org/wiki/German_spring_offensive",
+          "https://pl.wikipedia.org/wiki/Ofensywa_wiosenna_1918"
+        ]
+      },
+      {
+        "label": "Bitwa nad Sommą",
+        "labelEn": "Battle of the Somme",
+        "low": 1070000,
+        "high": 1225000,
+        "note": "Imperium Brytyjskie ok. 420 tys., Francuzi ok. 200 tys., Niemcy od ok. 450 do 600 tys.; Miles (1938) podawał dla Niemców 660–680 tys.",
+        "noteEn": "British Empire c. 420 k, French c. 200 k, Germans c. 450–600 k; Miles (1938) gave 660–680 k for the Germans",
+        "sources": [
+          "https://www.nam.ac.uk/explore/battle-somme",
+          "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+        ]
+      },
+      {
+        "label": "Bitwy nad Isonzo I–XI",
+        "labelEn": "Battles of the Isonzo I–XI",
+        "low": 1095000,
+        "high": 1146000,
+        "note": "Czerwiec 1915 – wrzesień 1917, bez Caporetto; Włosi ok. 645 tys., Austro-Węgry ok. 450–500 tys.; z dwunastą bitwą razem ok. 1,5 mln",
+        "noteEn": "June 1915 – September 1917, without Caporetto; Italians c. 645 k, Austria-Hungary c. 450–500 k; with the Twelfth Battle c. 1.5 m in all",
+        "sources": [
+          "https://warhistoryonline.com/newsbreak/the-12-battles-of-the-isonzo-led-to-over-one-million-casualties-between-the-austro-hungarian-and-italian-armies.html",
+          "https://en.wikipedia.org/wiki/Battles_of_the_Isonzo"
+        ]
+      },
+      {
+        "label": "Bitwa pod Verdun",
+        "labelEn": "Battle of Verdun",
+        "low": 712000,
+        "high": 755000,
+        "note": "21 lutego – grudzień 1916; Francuzi ok. 377–400 tys., Niemcy ok. 333–355 tys.; najczęściej przytaczane 714 tys. (Heer i Naumann)",
+        "noteEn": "21 February – December 1916; French c. 377–400 k, Germans c. 333–355 k; the most cited total is 714 k (Heer and Naumann)",
+        "sources": [
+          "https://memorial-verdun.fr/en/ressources/la-bataille-de-verdun",
+          "https://en.wikipedia.org/wiki/Battle_of_Verdun",
+          "https://pl.wikipedia.org/wiki/Bitwa_pod_Verdun"
+        ]
+      },
+      {
+        "label": "Kampania gallipolijska",
+        "labelEn": "Gallipoli campaign",
+        "low": 475000,
+        "high": 589000,
+        "note": "Kwiecień 1915 – styczeń 1916; sprzymierzeni ponad 220–300 tys., Turcy ok. 255–289 tys.; część liczb obejmuje ewakuowanych chorych",
+        "noteEn": "April 1915 – January 1916; Allies over 220–300 k, Ottomans c. 255–289 k; some figures include evacuated sick",
+        "sources": [
+          "https://www.nam.ac.uk/explore/gallipoli",
+          "https://en.wikipedia.org/wiki/Gallipoli_campaign"
+        ]
+      },
+      {
+        "label": "Trzecia bitwa pod Ypres",
+        "labelEn": "Third Battle of Ypres",
+        "low": 457000,
+        "high": 560000,
+        "note": "Lipiec–listopad 1917; Imperium Brytyjskie ok. 240–300 tys., Niemcy ok. 217–260 tys.; wyższe szacunki (Wolff, Edmonds) są odrzucane",
+        "noteEn": "July–November 1917; British Empire c. 240–300 k, Germans c. 217–260 k; higher estimates (Wolff, Edmonds) are rejected",
+        "sources": [
+          "https://www.nam.ac.uk/explore/battle-passchendaele",
+          "https://en.wikipedia.org/wiki/Battle_of_Passchendaele"
+        ]
+      },
+      {
+        "label": "Pierwsza bitwa nad Marną",
+        "labelEn": "First Battle of the Marne",
+        "low": 500000,
+        "high": 561000,
+        "note": "Wrzesień 1914; Francuzi ok. 250 tys., Niemcy ok. 250–298 tys., Brytyjczycy ok. 13 tys.",
+        "noteEn": "September 1914; French c. 250 k, Germans c. 250–298 k, British c. 13 k",
+        "sources": [
+          "https://www.historycrunch.com/first-battle-of-the-marne-in-world-war-i.html",
+          "https://www.worldatlas.com/articles/what-was-the-first-battle-of-marne.html",
+          "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne"
+        ]
+      },
+      {
+        "label": "Dwunasta bitwa nad Isonzo (Caporetto)",
+        "labelEn": "Twelfth Battle of the Isonzo (Caporetto)",
+        "low": 375000,
+        "high": 388000,
+        "note": "Październik–listopad 1917; Włosi 10–13 tys. zabitych, 30 tys. rannych i 265–275 tys. jeńców, państwa centralne ok. 70 tys.",
+        "noteEn": "October–November 1917; Italians 10–13 k killed, 30 k wounded and 265–275 k prisoners, Central Powers c. 70 k",
+        "sources": [
+          "https://www.worldatlas.com/articles/what-was-the-battle-of-caporetto.html",
+          "https://en.wikipedia.org/wiki/Battle_of_Caporetto"
+        ]
+      },
+      {
+        "label": "Ofensywa Moza-Argonne",
+        "labelEn": "Meuse–Argonne offensive",
+        "low": 287000,
+        "high": 318000,
+        "note": "26 września – 11 listopada 1918; Amerykanie 117–122 tys., Francuzi ok. 70 tys., Niemcy 100–126 tys.",
+        "noteEn": "26 September – 11 November 1918; Americans 117–122 k, French c. 70 k, Germans 100–126 k",
+        "sources": [
+          "https://www.historyofwar.org/articles/battles_meuse_argonne.html",
+          "https://en.wikipedia.org/wiki/Meuse%E2%80%93Argonne_offensive"
+        ]
+      }
+    ]
+  },
+  "verdunSomme": {
+    "title": "Verdun i Somma: straty według armii",
+    "titleEn": "Verdun and the Somme: casualties by army",
+    "unit": "osób",
+    "unitEn": "people",
+    "note": "Zabici, ranni, zaginieni i wzięci do niewoli w 1916 roku: Verdun od 21 lutego do grudnia, Somma od 1 lipca do 18 listopada. Imperium Brytyjskie to armia brytyjska z wojskami dominiów i Indii. Przedział to rozrzut szacunków w podanych źródłach; straty niemieckie nad Sommą są najbardziej sporne.",
+    "noteEn": "Killed, wounded, missing and taken prisoner in 1916: Verdun from 21 February to December, the Somme from 1 July to 18 November. British Empire means the British Army with Dominion and Indian troops. The range is the spread of estimates in the cited sources; German losses on the Somme are the most disputed.",
+    "rows": [
+      {
+        "label": "Somma – Niemcy",
+        "labelEn": "Somme – Germany",
+        "low": 450000,
+        "high": 600000,
+        "note": "NAM: co najmniej 450 tys.; Harris: ok. 500 tys.; Sheffield: ok. 600 tys.; Miles (1938): 660–680 tys., uznawane za zawyżone",
+        "noteEn": "NAM: at least 450 k; Harris: c. 500 k; Sheffield: c. 600 k; Miles (1938): 660–680 k, considered too high",
+        "sources": [
+          "https://www.nam.ac.uk/explore/battle-somme",
+          "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+        ]
+      },
+      {
+        "label": "Somma – Imperium Brytyjskie",
+        "labelEn": "Somme – British Empire",
+        "low": 420000,
+        "high": 420000,
+        "note": "Brytyjska historia oficjalna (Miles): 419 654",
+        "noteEn": "British official history (Miles): 419,654",
+        "sources": [
+          "https://www.nam.ac.uk/explore/battle-somme",
+          "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+        ]
+      },
+      {
+        "label": "Verdun – Francja",
+        "labelEn": "Verdun – France",
+        "low": 377000,
+        "high": 400000,
+        "note": "Heer i Naumann: 377 231; Mémorial de Verdun: 163 tys. zabitych oraz 216 tys. rannych",
+        "noteEn": "Heer and Naumann: 377,231; Mémorial de Verdun: 163 k dead and 216 k wounded",
+        "sources": [
+          "https://memorial-verdun.fr/en/ressources/la-bataille-de-verdun",
+          "https://en.wikipedia.org/wiki/Battle_of_Verdun"
+        ]
+      },
+      {
+        "label": "Verdun – Niemcy",
+        "labelEn": "Verdun – Germany",
+        "low": 333000,
+        "high": 355000,
+        "note": "Heer i Naumann: 337 tys.; Mémorial de Verdun: 143 tys. zabitych oraz 190 tys. rannych",
+        "noteEn": "Heer and Naumann: 337 k; Mémorial de Verdun: 143 k dead and 190 k wounded",
+        "sources": [
+          "https://memorial-verdun.fr/en/ressources/la-bataille-de-verdun",
+          "https://en.wikipedia.org/wiki/Battle_of_Verdun"
+        ]
+      },
+      {
+        "label": "Somma – Francja",
+        "labelEn": "Somme – France",
+        "low": 194000,
+        "high": 204000,
+        "note": "Edmonds: 194 451; Wendt: 202 567; Miles: 204 253",
+        "noteEn": "Edmonds: 194,451; Wendt: 202,567; Miles: 204,253",
+        "sources": [
+          "https://www.nam.ac.uk/explore/battle-somme",
+          "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+        ]
+      }
+    ]
+  }
+}

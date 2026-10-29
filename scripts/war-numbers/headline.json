@@ -1,0 +1,216 @@
+{
+  "headline": {
+    "title": "Wojna w liczbach",
+    "titleEn": "The war in numbers",
+    "unit": "różne",
+    "unitEn": "various",
+    "note": "Cztery najważniejsze liczby; jednostka w etykiecie lub nocie każdego wiersza.",
+    "noteEn": "Four key figures; unit given in each row's label or note.",
+    "rows": [
+      {
+        "label": "Polegli i zmarli żołnierze",
+        "labelEn": "Military deaths",
+        "low": 8500000,
+        "high": 11000000,
+        "note": "Osoby; zabici, zmarli z ran i chorób we wszystkich armiach. Dane Departamentu Wojny USA (1924): 8,54 mln; najczęściej 9–10 mln; Wikipedia: do 11 mln (ZPE: 8,4–11,8 mln)",
+        "noteEn": "People; killed, died of wounds and disease in all armies. US War Department (1924): 8.54 m; most often 9–10 m; Wikipedia: up to 11 m (ZPE: 8.4–11.8 m)",
+        "sources": [
+          "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Zmarli cywile",
+        "labelEn": "Civilian deaths",
+        "low": 5000000,
+        "high": 13000000,
+        "note": "Osoby; z ofiarami głodu, chorób, masakr i ludobójstwa Ormian, bez ofiar pandemii grypy 1918 r. (hiszpanki). AFP: 5–10 mln; Wikipedia: 6–13 mln; USHMM: do 13 mln",
+        "noteEn": "People; incl. deaths from famine, disease, massacres and the Armenian genocide, excl. the 1918 influenza pandemic. AFP: 5–10 m; Wikipedia: 6–13 m; USHMM: up to 13 m",
+        "sources": [
+          "https://encyclopedia.ushmm.org/content/en/article/world-war-i",
+          "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Zmobilizowani we wszystkich armiach",
+        "labelEn": "Men mobilised in all armies",
+        "low": 65000000,
+        "high": 70000000,
+        "note": "Osoby; łącznie przez całą wojnę. Departament Wojny USA (1924): 65 mln w 16 głównych państwach; AFP: ok. 70 mln",
+        "noteEn": "People; total over the whole war. US War Department (1924): 65 m in the 16 main belligerents; AFP: c. 70 m",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers"
+        ]
+      },
+      {
+        "label": "Dni wojny",
+        "labelEn": "Days of war",
+        "low": 1568,
+        "high": 1568,
+        "note": "Od wypowiedzenia wojny Serbii przez Austro-Węgry 28 VII 1914 do rozejmu w Compiègne 11 XI 1918 włącznie (obliczone: 1567 dni różnicy + 1)",
+        "noteEn": "From Austria-Hungary's declaration of war on Serbia, 28 Jul 1914, to the Armistice of Compiègne, 11 Nov 1918, inclusive (computed: 1,567 days apart + 1)",
+        "sources": []
+      }
+    ]
+  },
+  "mobilised": {
+    "title": "Zmobilizowani według państw",
+    "titleEn": "Men mobilised by country",
+    "unit": "osób",
+    "unitEn": "people",
+    "note": "Wszyscy mężczyźni powołani do sił zbrojnych w latach 1914–1918 (nie stan w jednym momencie). Niższe wartości to zwykle dane Departamentu Wojny USA z 1924 r., wyższe to odpowiedzi rządów na ankietę Międzynarodowego Biura Pracy (1924) lub nowsze szacunki; przedział to rozrzut tych źródeł. Imperium Brytyjskie z dominiami i Indiami.",
+    "noteEn": "All men called into the armed forces in 1914–1918 (not the strength at any one time). Low values are usually the US War Department figures of 1924, high values the governments' replies to the International Labour Office questionnaire (1924) or later estimates; the range is the spread of these sources. British Empire incl. the Dominions and India.",
+    "rows": [
+      {
+        "label": "Rosja",
+        "labelEn": "Russia",
+        "low": 12000000,
+        "high": 15378000,
+        "note": "Departament Wojny USA: 12 mln; MBP: 15,07 mln; Kriwoszejew: 15,38 mln (ZPE: 15,8 mln)",
+        "noteEn": "US War Dept.: 12 m; ILO: 15.07 m; Krivosheev: 15.38 m (ZPE: 15.8 m)",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Niemcy",
+        "labelEn": "Germany",
+        "low": 11000000,
+        "high": 13250000,
+        "note": "Departament Wojny USA: 11 mln; rząd niemiecki dla MBP: 13,25 mln (AFP: 13 mln, ZPE: 14 mln)",
+        "noteEn": "US War Dept.: 11 m; German government to the ILO: 13.25 m (AFP: 13 m, ZPE: 14 m)",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Austro-Węgry",
+        "labelEn": "Austria-Hungary",
+        "low": 7800000,
+        "high": 9000000,
+        "note": "Departament Wojny USA: 7,8 mln; rząd austriacki dla MBP: 9 mln (tyle też AFP i ZPE)",
+        "noteEn": "US War Dept.: 7.8 m; Austrian government to the ILO: 9 m (also AFP and ZPE)",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Imperium Brytyjskie",
+        "labelEn": "British Empire",
+        "low": 8904467,
+        "high": 8904467,
+        "note": "Z dominiami i Indiami; sama Wielka Brytania ok. 5,7 mln (ZPE)",
+        "noteEn": "Incl. the Dominions and India; Great Britain alone c. 5.7 m (ZPE)",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://www.rte.ie/news/2018/1107/1008936-world-war-one-numbers"
+        ]
+      },
+      {
+        "label": "Francja",
+        "labelEn": "France",
+        "low": 7935000,
+        "high": 8410000,
+        "note": "MBP: 7,94 mln; Departament Wojny USA: 8,41 mln (AFP i ZPE: 8 mln)",
+        "noteEn": "ILO: 7.94 m; US War Dept.: 8.41 m (AFP and ZPE: 8 m)",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Włochy",
+        "labelEn": "Italy",
+        "low": 5615000,
+        "high": 5615000,
+        "note": "Departament Wojny USA i MBP zgodnie",
+        "noteEn": "US War Dept. and ILO agree",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Stany Zjednoczone",
+        "labelEn": "United States",
+        "low": 4272521,
+        "high": 4355000,
+        "note": "Rząd USA dla MBP: 4,27 mln; Departament Wojny USA: 4,36 mln",
+        "noteEn": "US government to the ILO: 4.27 m; US War Dept.: 4.36 m",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Imperium Osmańskie",
+        "labelEn": "Ottoman Empire",
+        "low": 2850000,
+        "high": 2850000,
+        "note": "Departament Wojny USA i osmańska statystyka urzędowa z 1922 r. zgodnie",
+        "noteEn": "US War Dept. and the Ottoman official statistics of 1922 agree",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Bułgaria",
+        "labelEn": "Bulgaria",
+        "low": 1200000,
+        "high": 1200000,
+        "note": "Departament Wojny USA; rząd bułgarski podał MBP tylko 400 tys.",
+        "noteEn": "US War Dept.; the Bulgarian government reported only 400 k to the ILO",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Rumunia",
+        "labelEn": "Romania",
+        "low": 750000,
+        "high": 1000000,
+        "note": "Departament Wojny USA: 750 tys.; MBP: 1 mln",
+        "noteEn": "US War Dept.: 750 k; ILO: 1 m",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      },
+      {
+        "label": "Serbia",
+        "labelEn": "Serbia",
+        "low": 707343,
+        "high": 1008240,
+        "note": "Departament Wojny USA: 707 tys.; rząd jugosłowiański dla MBP: 1,01 mln",
+        "noteEn": "US War Dept.: 707 k; Yugoslav government to the ILO: 1.01 m",
+        "sources": [
+          "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+          "https://www.spartacus-educational.com/FWWarmies1914.htm",
+          "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        ]
+      }
+    ]
+  }
+}

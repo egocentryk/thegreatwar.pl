@@ -1,0 +1,190 @@
+{
+  "polesUnderArms": {
+    "title": "Polacy pod bronią 1914–1918",
+    "titleEn": "Poles under arms, 1914–1918",
+    "unit": "osób",
+    "unitEn": "people",
+    "note": "Wiersze armii zaborczych to Polacy powołani w ciągu całej wojny (nie stan w jednej chwili); wiersze formacji polskich to łączna liczba ochotników albo najwyższy stan, jak opisano przy każdym. Wiersze się nie sumują: pierwszy to całość, a wielu żołnierzy przechodziło z armii zaborczych (i z niewoli) do formacji polskich. Zakres to rozrzut szacunków w źródłach; dane o armiach zaborczych są bardzo przybliżone, bo żadna z nich nie liczyła żołnierzy według narodowości.",
+    "noteEn": "The partitioning-power rows count Poles called up over the whole war (not strength at one moment); the Polish-formation rows give the total number of volunteers or the peak strength, as stated for each. Rows are not additive: the first is the total, and many soldiers passed from the partitioning armies (and from POW camps) into the Polish formations. The range is the spread of estimates in the sources; the partitioning-army figures are very rough, as none of these armies counted soldiers by nationality.",
+    "rows": [
+      {
+        "label": "Ogółem w armiach państw zaborczych",
+        "labelEn": "Total in the partitioning powers' armies",
+        "low": 2900000,
+        "high": 3400000,
+        "note": "Wrzosek (za S. Dąbrowskim): co najmniej 2,9 mln; „Zarys dziejów Polski” (red. J. Tazbir): 3,4 mln; MHP: ponad 3 mln",
+        "noteEn": "Wrzosek (after S. Dąbrowski): at least 2.9 m; 'Zarys dziejów Polski' (ed. J. Tazbir): 3.4 m; Museum of Polish History: over 3 m",
+        "sources": [
+          "https://dzieje.pl/node/9224",
+          "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+          "https://dzieje.pl/node/17125",
+          "https://forsal.pl/gospodarka/polityka/artykuly/8003350,miliony-poleglych-zaraza-i-gospodarczy-kataklizm-tak-wygladala-polsk.html"
+        ]
+      },
+      {
+        "label": "Armia rosyjska",
+        "labelEn": "Russian army",
+        "low": 1200000,
+        "high": 2000000,
+        "note": "Tazbir: 1,2 mln; MHP: ok. 2 mln; wiosną 1917 r. służyło w niej, według Wrzoska, ok. 500 tys. Polaków",
+        "noteEn": "Tazbir: 1.2 m; Museum of Polish History: c. 2 m; in spring 1917 c. 500 k Poles were serving in it, per Wrzosek",
+        "sources": [
+          "https://dzieje.pl/node/9224",
+          "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+          "https://en.wikipedia.org/wiki/Poland_in_World_War_I",
+          "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf"
+        ]
+      },
+      {
+        "label": "Armia austro-węgierska",
+        "labelEn": "Austro-Hungarian army",
+        "low": 1400000,
+        "high": 1500000,
+        "note": "Tazbir: 1,4 mln; MHP: niemal 1,5 mln",
+        "noteEn": "Tazbir: 1.4 m; Museum of Polish History: almost 1.5 m",
+        "sources": [
+          "https://dzieje.pl/node/9224",
+          "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+          "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+        ]
+      },
+      {
+        "label": "Armia niemiecka",
+        "labelEn": "German army",
+        "low": 800000,
+        "high": 850000,
+        "note": "Tazbir: 800 tys.; MHP: 850 tys. (na obu frontach); angielska Wikipedia podaje bez źródła 700 tys.",
+        "noteEn": "Tazbir: 800 k; Museum of Polish History: 850 k (on both fronts); English Wikipedia gives an unsourced 700 k",
+        "sources": [
+          "https://dzieje.pl/node/9224",
+          "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+          "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+        ]
+      },
+      {
+        "label": "Armia Polska we Francji (Błękitna Armia)",
+        "labelEn": "Polish Army in France (Blue Army)",
+        "low": 17000,
+        "high": 70000,
+        "note": "17 tys. w listopadzie 1918 (Wrzosek, MHP); w 1919 r. do kraju przewieziono 68 433 żołnierzy (Wrzosek), ok. 70 tys. według większości szacunków; większość wstąpiła po zawieszeniu broni, m.in. ok. 25 tys. jeńców z Włoch",
+        "noteEn": "17 k in November 1918 (Wrzosek, Museum of Polish History); 68,433 soldiers were shipped home in 1919 (Wrzosek), c. 70 k by most estimates; most joined after the Armistice, including c. 25 k POWs from Italy",
+        "sources": [
+          "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+          "https://dzieje.pl/node/17125",
+          "https://pl.wikipedia.org/wiki/Armia_Polska_we_Francji"
+        ]
+      },
+      {
+        "label": "Legiony Polskie",
+        "labelEn": "Polish Legions",
+        "low": 30000,
+        "high": 40000,
+        "note": "Wszyscy, którzy przeszli przez Legiony: MHP 30 tys.; dzieje.pl 35–40 tys.; Wrzosek ponad 40 tys.; najwyższy stan jesienią 1915 r. ponad 25 tys. (Wrzosek)",
+        "noteEn": "Everyone who passed through the Legions: Museum of Polish History 30 k; dzieje.pl 35–40 k; Wrzosek over 40 k; peak strength in autumn 1915 over 25 k (Wrzosek)",
+        "sources": [
+          "https://dzieje.pl/node/17125",
+          "https://dzieje.pl/aktualnosci/kalendarium-legionow-polskich",
+          "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf"
+        ]
+      },
+      {
+        "label": "I Korpus Polski w Rosji",
+        "labelEn": "I Polish Corps in Russia",
+        "low": 23661,
+        "high": 29000,
+        "note": "Najwyższy stan: ok. 29 tys. w połowie stycznia 1918 r. (Wrzosek: „nie więcej niż 29 tys.”); po walkach z bolszewikami stopniał o połowę, w maju 1918 r. 23 661 ludzi (Bagiński)",
+        "noteEn": "Peak strength: c. 29 k in mid-January 1918 (Wrzosek: 'no more than 29 k'); halved in the fighting with the Bolsheviks, 23,661 men in May 1918 (Bagiński)",
+        "sources": [
+          "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+          "https://pl.wikipedia.org/wiki/I_Korpus_Polski_w_Rosji"
+        ]
+      },
+      {
+        "label": "II Korpus Polski w Rosji",
+        "labelEn": "II Polish Corps in Russia",
+        "low": 6918,
+        "high": 7000,
+        "note": "Przed Kaniowem: 651 oficerów i 6267 szeregowych (stan z 1 maja 1918 r., Wrzosek za CAW); w marcu 1918 r. ponad 7 tys., w tym ok. 1,5 tys. z II Brygady Legionów",
+        "noteEn": "Before Kaniów: 651 officers and 6,267 other ranks (strength on 1 May 1918, Wrzosek after the Central Military Archives); over 7 k in March 1918, incl. c. 1.5 k from the Legions' II Brigade",
+        "sources": [
+          "https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/892/1/BTH_10_2012_Wrzosek.pdf",
+          "https://pl.wikipedia.org/wiki/II_Korpus_Polski_w_Rosji"
+        ]
+      }
+    ]
+  },
+  "polandLosses": {
+    "title": "Straty Polaków i ziem polskich 1914–1918",
+    "titleEn": "Losses of Poles and the Polish lands, 1914–1918",
+    "unit": "osób",
+    "unitEn": "people",
+    "note": "Polacy we wszystkich armiach oraz ludność ziem polskich (zabór rosyjski, austriacki i pruski). Wiersze się nie sumują: polegli i ranni to żołnierze, dalej uchodźcy i wysiedleni (w tym podzbiór: Polacy wśród bieżeńców). Wszystkie liczby to szacunki, często mocno zaokrąglone; zakres to rozrzut szacunków w źródłach. Ofiar cywilnych nie podajemy: nie znaleźliśmy dwóch niezależnych szacunków.",
+    "noteEn": "Poles in all armies and the population of the Polish lands (Russian, Austrian and Prussian partitions). Rows are not additive: killed and wounded are soldiers, then refugees and deportees (incl. a subset: Poles among the bieżeńcy). All figures are estimates, often heavily rounded; the range is the spread of estimates in the sources. Civilian deaths are not shown: we found no two independent estimates.",
+    "rows": [
+      {
+        "label": "Polegli, zmarli i zaginieni żołnierze (wszystkie armie)",
+        "labelEn": "Soldiers killed, died or missing (all armies)",
+        "low": 385000,
+        "high": 530000,
+        "note": "Nałęcz: 385 tys.; MHP i Zamoyski: ok. 450 tys.; Wrzosek: ok. 530 tys. (armia austro-węgierska ponad 220 tys., rosyjska ok. 200 tys., niemiecka ponad 110 tys.); Chwalba: 350–400 tys. poległych i zmarłych z ran, bez ofiar chorób",
+        "noteEn": "Nałęcz: 385 k; Museum of Polish History and Zamoyski: c. 450 k; Wrzosek: c. 530 k (Austro-Hungarian army over 220 k, Russian c. 200 k, German over 110 k); Chwalba: 350–400 k killed and died of wounds, excluding disease",
+        "sources": [
+          "https://dzieje.pl/node/9224",
+          "https://dzieje.pl/artykulyhistoryczne/koniec-czasu-oswojonego-wielka-wojna-1914-1918",
+          "https://dzieje.pl/node/106132",
+          "https://forsal.pl/gospodarka/polityka/artykuly/8003350,miliony-poleglych-zaraza-i-gospodarczy-kataklizm-tak-wygladala-polsk.html",
+          "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+        ]
+      },
+      {
+        "label": "Ranni żołnierze",
+        "labelEn": "Wounded soldiers",
+        "low": 900000,
+        "high": 1000000,
+        "note": "Zamoyski: ok. 900 tys.; Bideleux i Jeffries: ok. 1 mln",
+        "noteEn": "Zamoyski: c. 900 k; Bideleux and Jeffries: c. 1 m",
+        "sources": [
+          "https://www.rp.pl/plus-minus/art4946811-przeoczona-swiatowa",
+          "https://en.wikipedia.org/wiki/Poland_in_World_War_I"
+        ]
+      },
+      {
+        "label": "Bieżeńcy i wysiedleni w głąb Rosji (1915, wszystkie narodowości)",
+        "labelEn": "Refugees and deportees into Russia (1915, all nationalities)",
+        "low": 2000000,
+        "high": 3500000,
+        "note": "Z Królestwa i zachodnich guberni, głównie prawosławni chłopi: A. Prymaka-Oniszk nawet 2 mln z ziem polskich; Chwalba 3,5 mln z Królestwa i zaboru rosyjskiego; niektórzy badacze do 5 mln",
+        "noteEn": "From Congress Poland and the western provinces, mostly Orthodox peasants: A. Prymaka-Oniszk up to 2 m from the Polish lands; Chwalba 3.5 m from Congress Poland and the Russian partition; some researchers up to 5 m",
+        "sources": [
+          "https://dzieje.pl/node/65557",
+          "https://dzieje.pl/node/106132"
+        ]
+      },
+      {
+        "label": "w tym Polacy",
+        "labelEn": "of whom Poles",
+        "low": 1000000,
+        "high": 1200000,
+        "note": "Chwalba: ok. jedna trzecia z 3,5 mln; PAP (za D. Sulą i A. Walaszkiem): ok. miliona wygnańców i uwięzionych, „szacunek bardzo niedokładny”; Kruszyński: ok. miliona Polaków z Królestwa i Galicji",
+        "noteEn": "Chwalba: c. a third of 3.5 m; PAP (after D. Sula and A. Walaszek): c. a million exiles and prisoners, 'a very rough estimate'; Kruszyński: c. a million Poles from Congress Poland and Galicia",
+        "sources": [
+          "https://dzieje.pl/node/106132",
+          "https://dzieje.pl/aktualnosci/przeciez-polska-nie-co-rok-powstaje-powroty-do-niepodleglej",
+          "https://ceeol.com/search/article-detail?id=757966"
+        ]
+      },
+      {
+        "label": "Uchodźcy i ewakuowani z Galicji (1914–1915)",
+        "labelEn": "Refugees and evacuees from Galicia (1914–1915)",
+        "low": 900000,
+        "high": 1000000,
+        "note": "W głąb monarchii habsburskiej, Polacy, Żydzi i Rusini: Chwalba ok. 900 tys.; K. Ruszała: niespełna milion w czterech falach",
+        "noteEn": "Into the Habsburg interior, Poles, Jews and Ruthenians: Chwalba c. 900 k; K. Ruszała: just under a million in four waves",
+        "sources": [
+          "https://dzieje.pl/node/106132",
+          "https://ceureviewofbooks.com/review/galician-refugees-during-the-first-world-war/"
+        ]
+      }
+    ]
+  }
+}

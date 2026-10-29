@@ -1,0 +1,116 @@
+---
+// "Wojna w liczbach" / "The war in numbers": key figures and ranked charts
+// from data/war-numbers.json (utils/warNumbers.ts). Every figure is sourced;
+// disputed ones are shown as ranges.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import RangeBars from "@/components/RangeBars.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import type { Lang } from "@/i18n"
+import { listPageLd } from "@/utils/jsonLd"
+import { WAR_NUMBERS, formatRange, warNumbersPath } from "@/utils/warNumbers"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const en = lang === "en"
+const D = WAR_NUMBERS
+const headline = D.headline
+
+const sections = [
+  {
+    id: "ofiary",
+    eyebrow: { pl: "Ofiary", en: "Deaths" },
+    lead: { pl: "Pierwsza wojna, która pochłonęła miliony żołnierzy.", en: "The first war to kill soldiers by the million." },
+    charts: [["militaryDeaths"], ["deathsShare"]],
+  },
+  {
+    id: "polska",
+    eyebrow: { pl: "Polacy", en: "Poles" },
+    lead: {
+      pl: "Polacy walczyli w armiach trzech zaborców, często po przeciwnych stronach frontu.",
+      en: "Poles fought in the armies of all three partitioning powers, often on opposite sides of the front.",
+    },
+    charts: [["polesUnderArms"], ["polandLosses"]],
+  },
+  {
+    id: "armie",
+    eyebrow: { pl: "Armie i bitwy", en: "Armies and battles" },
+    lead: { pl: "Ilu ludzi powołano pod broń – i ile kosztowały największe bitwy.", en: "How many were called up – and what the greatest battles cost." },
+    charts: [["mobilised"], ["battleCasualties"], ["verdunSomme"]],
+  },
+  {
+    id: "morze-i-produkcja",
+    eyebrow: { pl: "Morze i produkcja", en: "The sea and production" },
+    lead: { pl: "Wojna podwodna i wojna fabryk.", en: "The submarine war and the war of factories." },
+    charts: [["uboats"], ["merchantLosses"], ["aircraftProduction"], ["artilleryProduction"], ["shellProduction"]],
+  },
+]
+  .map((s) => ({ ...s, charts: s.charts.flat().filter((id) => D[id]) }))
+  .filter((s) => s.charts.length > 0)
+
+const t = {
+  pl: {
+    title: "Wojna w liczbach",
+    lead: "Straty ludzkie, armie, bitwy i produkcja wojenna w liczbach. Wiele z nich jest spornych: tam, gdzie źródła się różnią, pokazujemy rozrzut szacunków, a przy każdym wykresie – źródła.",
+    description: "I wojna światowa w liczbach: polegli według państw, Polacy w armiach zaborców, zmobilizowani, straty w największych bitwach, wojna podwodna i produkcja wojenna. Każda liczba ze źródłami.",
+  },
+  en: {
+    title: "The war in numbers",
+    lead: "Human losses, armies, battles and war production in figures. Many are disputed: where sources differ we show the range of estimates, and every chart lists its sources.",
+    description: "The First World War in numbers: military deaths by country, Poles in the partitioning powers' armies, men mobilised, losses in the greatest battles, the submarine war and war production. Every figure sourced.",
+  },
+}[lang]
+
+const jsonLd = listPageLd(Astro.site!, { lang, path: warNumbersPath(lang), name: t.title, description: t.description })
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+  lang={lang}
+  alternates={en ? { pl: warNumbersPath("pl") } : { en: warNumbersPath("en") }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow={t.title} level={1} />
+    <p class="font-display text-ink max-w-3xl text-2xl leading-snug text-balance sm:text-3xl">{t.lead}</p>
+
+    {
+      headline && (
+        <dl class="mt-10 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          {headline.rows.map((row) => (
+            <div class="border-line bg-surface rounded-sm border p-5">
+              <dt class="text-ink-soft font-mono text-[10px] tracking-[0.15em] uppercase">{en ? row.labelEn : row.label}</dt>
+              <dd class="font-display text-ink mt-2 text-4xl leading-none font-medium tracking-tight">
+                {formatRange(row.low, row.high, en ? "people" : "osób", lang)}
+              </dd>
+              {(en ? row.noteEn : row.note) && <dd class="text-ink-soft mt-2 text-xs leading-5">{en ? row.noteEn : row.note}</dd>}
+            </div>
+          ))}
+        </dl>
+      )
+    }
+
+    <nav class="text-ink-soft mt-8 flex flex-wrap gap-x-5 gap-y-1 font-mono text-xs" aria-label={t.title}>
+      {sections.map((s) => <a href={`#${s.id}`} class="hover:text-signal transition-colors">{s.eyebrow[lang]}</a>)}
+    </nav>
+
+    <div class="mt-16 space-y-20">
+      {
+        sections.map((s) => (
+          <section id={s.id}>
+            <SectionHeading eyebrow={s.eyebrow[lang]} />
+            <p class="font-display text-ink text-2xl leading-snug text-balance sm:text-3xl">{s.lead[lang]}</p>
+            <div class:list={["mt-8 grid gap-x-16 gap-y-14", s.charts.length > 1 && "lg:grid-cols-2"]}>
+              {s.charts.map((id) => (
+                <RangeBars data={D[id]} lang={lang} keepOrder={id === "polandLosses" || id === "verdunSomme"} />
+              ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

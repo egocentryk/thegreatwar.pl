@@ -1,0 +1,280 @@
+{
+  "militaryDeaths": {
+    "title": "Polegli żołnierze według państw",
+    "titleEn": "Military deaths by country",
+    "unit": "osób",
+    "unitEn": "people",
+    "note": "Żołnierze polegli, zmarli z ran, z chorób i w niewoli oraz zaginieni uznani za zmarłych, w latach 1914–1918 (Imperium Brytyjskie i USA według urzędowych zestawień obejmujących też pierwsze lata powojenne); bez ofiar cywilnych. Imperium Brytyjskie łącznie z dominiami, Indiami i koloniami. Przedział to rozrzut poważnych szacunków: dolną granicę wyznaczają zwykle zestawienia z lat 20. (m.in. Departamentu Wojny USA z 1924 r.), górną późniejsze historie oficjalne i badania (Urlanis, Krywoszejew, Erickson).",
+    "noteEn": "Soldiers killed in action, died of wounds, of disease and in captivity, and missing presumed dead, 1914–1918 (British Empire and US per official tallies that also cover the first post-war years); civilians excluded. British Empire including the Dominions, India and the colonies. The range is the spread of serious estimates: the low end is usually the 1920s tallies (e.g. the US War Department's of 1924), the high end later official histories and research (Urlanis, Krivosheev, Erickson).",
+    "rows": [
+      {
+        "label": "Niemcy",
+        "labelEn": "Germany",
+        "low": 1773700,
+        "high": 2037000,
+        "note": "Departament Wojny USA (1924): 1,77 mln; niemiecka historia oficjalna (1934): 2,04 mln",
+        "noteEn": "US War Department (1924): 1.77 m; German official history (1934): 2.04 m",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+        ]
+      },
+      {
+        "label": "Rosja",
+        "labelEn": "Russia",
+        "low": 1700000,
+        "high": 2254369,
+        "note": "Dane z 1918 r. i Departament Wojny USA: 1,7 mln; Urlanis: 1,81 mln; Krywoszejew: 2,25 mln (z zaginionymi uznanymi za zmarłych)",
+        "noteEn": "1918 data and US War Department: 1.7 m; Urlanis: 1.81 m; Krivosheev: 2.25 m (incl. missing presumed dead)",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+        ]
+      },
+      {
+        "label": "Francja",
+        "labelEn": "France",
+        "low": 1357800,
+        "high": 1397800,
+        "note": "Raport rządowy z 1919 r.: 1,36 mln zabitych i zaginionych w armii do 11 XI 1918; z marynarką i zmarłymi z ran po rozejmie 1,40 mln; z wojskami kolonialnymi",
+        "noteEn": "1919 government report: 1.36 m army dead and missing to 11 Nov 1918; 1.40 m with the navy and post-armistice deaths from wounds; incl. colonial troops",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm"
+        ]
+      },
+      {
+        "label": "Austro-Węgry",
+        "labelEn": "Austria-Hungary",
+        "low": 1100000,
+        "high": 1494200,
+        "note": "Urlanis: 1,1 mln; Departament Wojny USA: 1,2 mln; austriacka historia oficjalna: 1,49 mln, w tym 478 tys. zmarłych w niewoli",
+        "noteEn": "Urlanis: 1.1 m; US War Department: 1.2 m; Austrian official history: 1.49 m, incl. 478,000 died as POWs",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+        ]
+      },
+      {
+        "label": "Imperium Brytyjskie",
+        "labelEn": "British Empire",
+        "low": 908371,
+        "high": 1100000,
+        "note": "War Office (1922): 908 tys. w wojskach lądowych; CWGC upamiętnia ponad 1,1 mln zmarłych z całej Wspólnoty (z marynarką, do 1921 r.); same Wyspy Brytyjskie: ok. 744 tys.",
+        "noteEn": "War Office (1922): 908,000 in the land forces; the CWGC commemorates over 1.1 m Commonwealth dead (incl. navy, to 1921); British Isles alone: c. 744,000",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm",
+          "https://www.gov.uk/government/news/in-war-and-peace-honouring-the-contribution-of-the-commonwealth"
+        ]
+      },
+      {
+        "label": "Imperium Osmańskie",
+        "labelEn": "Ottoman Empire",
+        "low": 325000,
+        "high": 771844,
+        "note": "Statystyka osmańska z 1922 r.: 325 tys.; Erickson (na podstawie archiwów): 772 tys., w tym 467 tys. zmarłych z chorób",
+        "noteEn": "Ottoman statistics of 1922: 325,000; Erickson (from the archives): 772,000, incl. 467,000 died of disease",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm"
+        ]
+      },
+      {
+        "label": "Włochy",
+        "labelEn": "Italy",
+        "low": 460000,
+        "high": 651000,
+        "note": "War Office: 460 tys.; dane rządu włoskiego: 651 tys., z inwalidami zmarłymi do kwietnia 1920 r.",
+        "noteEn": "War Office: 460,000; Italian government: 651,000, incl. invalids who died up to April 1920",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm",
+          "https://zpe.gov.pl/a/skutki-i-wojny-swiatowej/D12umRNaj"
+        ]
+      },
+      {
+        "label": "Serbia",
+        "labelEn": "Serbia",
+        "low": 127500,
+        "high": 450000,
+        "note": "Ellis i Cox: 127,5 tys.; Urlanis: 278 tys. (z Czarnogórą); szacunki serbskie: do 450 tys. Podawane w zestawieniach z 1924 r. 45 tys. uchodzi za mocno zaniżone",
+        "noteEn": "Ellis & Cox: 127,500; Urlanis: 278,000 (with Montenegro); Serbian estimates: up to 450,000. The 45,000 of the 1924 tallies is regarded as far too low",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm"
+        ]
+      },
+      {
+        "label": "Rumunia",
+        "labelEn": "Romania",
+        "low": 250000,
+        "high": 335706,
+        "note": "Rząd rumuński (1924): 250 tys.; Departament Wojny USA i War Office: 336 tys.",
+        "noteEn": "Romanian government (1924): 250,000; US War Department and War Office: 336,000",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm"
+        ]
+      },
+      {
+        "label": "Stany Zjednoczone",
+        "labelEn": "United States",
+        "low": 116516,
+        "high": 116708,
+        "note": "Departament Obrony: 116,5 tys., w tym 53,4 tys. poległych w walce i 63,1 tys. zmarłych poza walką",
+        "noteEn": "Department of Defense: 116,500, incl. 53,400 battle deaths and 63,100 other deaths",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm"
+        ]
+      },
+      {
+        "label": "Bułgaria",
+        "labelEn": "Bulgaria",
+        "low": 87500,
+        "high": 101950,
+        "note": "Bułgarskie Ministerstwo Wojny: 87,5 tys.; Ellis i Cox: 102 tys.",
+        "noteEn": "Bulgarian War Office: 87,500; Ellis & Cox: 102,000",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://necrometrics.com/20c5m.htm"
+        ]
+      }
+    ]
+  },
+  "deathsShare": {
+    "title": "Straty w stosunku do liczby ludności",
+    "titleEn": "Deaths as a share of the pre-war population",
+    "unit": "%",
+    "unitEn": "%",
+    "note": "Zabici i zmarli żołnierze oraz cywile (także ofiary głodu i chorób wywołanych wojną, a w Imperium Osmańskim ludobójstwa Ormian) jako odsetek ludności z 1914 r. w granicach z 1914 r. Podstawa w zestawieniu Wikipedii: Niemcy 64,9 mln, Austro-Węgry 51,4 mln, Wielka Brytania 45,4 mln, Francja 39,6 mln, Włochy 35,6 mln, Imperium Osmańskie 21,3 mln, Rumunia 7,5 mln, Grecja 4,8 mln, Serbia 4,5 mln, Bułgaria 5,5 mln. Przedział to rozrzut między tym zestawieniem a danymi Centre européen Robert Schuman, które różnią się liczbą ofiar cywilnych. Tylko państwa, dla których odsetek podają oba źródła.",
+    "noteEn": "Military and civilian dead (incl. deaths from war-induced famine and disease and, in the Ottoman Empire, the Armenian genocide) as a share of the 1914 population within 1914 borders. Population base in the Wikipedia table: Germany 64.9 m, Austria-Hungary 51.4 m, UK 45.4 m, France 39.6 m, Italy 35.6 m, Ottoman Empire 21.3 m, Romania 7.5 m, Greece 4.8 m, Serbia 4.5 m, Bulgaria 5.5 m. The range is the spread between that table and the Centre européen Robert Schuman data, which differ in civilian death totals. Only countries for which both sources give the share.",
+    "rows": [
+      {
+        "label": "Serbia",
+        "labelEn": "Serbia",
+        "low": 16.1,
+        "high": 27.8,
+        "note": "Od 750 tys. do 1,25 mln ofiar; górna granica to szacunki serbskie",
+        "noteEn": "750,000 to 1.25 m dead; the high end is the Serbian estimate",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360",
+          "https://interactive.guim.co.uk/uploader/embed/2018/11/ww1_deaths-zip/giv-3902rY0El511k1UO"
+        ]
+      },
+      {
+        "label": "Imperium Osmańskie",
+        "labelEn": "Ottoman Empire",
+        "low": 13.3,
+        "high": 15.4,
+        "note": "Z ofiarami ludobójstwa Ormian",
+        "noteEn": "Incl. victims of the Armenian genocide",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Rumunia",
+        "labelEn": "Romania",
+        "low": 7.7,
+        "high": 9.1,
+        "note": "",
+        "noteEn": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Francja",
+        "labelEn": "France",
+        "low": 4.3,
+        "high": 4.4,
+        "note": "",
+        "noteEn": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Niemcy",
+        "labelEn": "Germany",
+        "low": 3.4,
+        "high": 4.3,
+        "note": "Rozrzut wynika z liczby ofiar blokady (0,3–0,76 mln)",
+        "noteEn": "Spread depends on the blockade death toll (0.3–0.76 m)",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Austro-Węgry",
+        "labelEn": "Austria-Hungary",
+        "low": 3.0,
+        "high": 4.0,
+        "note": "",
+        "noteEn": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Grecja",
+        "labelEn": "Greece",
+        "low": 3.2,
+        "high": 3.7,
+        "note": "",
+        "noteEn": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Włochy",
+        "labelEn": "Italy",
+        "low": 3.0,
+        "high": 3.7,
+        "note": "",
+        "noteEn": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Bułgaria",
+        "labelEn": "Bulgaria",
+        "low": 3.4,
+        "high": 3.4,
+        "note": "",
+        "noteEn": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      },
+      {
+        "label": "Wielka Brytania",
+        "labelEn": "United Kingdom",
+        "low": 1.9,
+        "high": 2.2,
+        "note": "W zestawieniu Wikipedii z koloniami, bez dominiów i Indii",
+        "noteEn": "In the Wikipedia table incl. colonies, excl. Dominions and India",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_War_I_casualties",
+          "https://mapasmilhaud.com/en/?p=2360"
+        ]
+      }
+    ]
+  }
+}

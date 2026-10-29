@@ -1,0 +1,183 @@
+---
+// A ranked horizontal bar chart for "Wojna w liczbach" (data/war-numbers.json).
+// Disputed figures are ranges: the solid bar runs to the low estimate and a
+// lighter step of the same hue extends it to the high one. Values sit at the
+// bar tips, a tooltip carries the row's note, and a table with every source
+// opens below the chart.
+import type { Lang } from "@/i18n"
+import { formatRange, type Dataset } from "@/utils/warNumbers"
+
+interface Props {
+  data: Dataset
+  lang?: Lang
+  // Keep the data's order instead of ranking by the high estimate.
+  keepOrder?: boolean
+}
+
+const { data, lang = "pl", keepOrder = false } = Astro.props
+const en = lang === "en"
+const rows = keepOrder ? data.rows : [...data.rows].sort((a, b) => b.high - a.high)
+const max = Math.max(...rows.map((r) => r.high))
+const unit = en ? data.unitEn : data.unit
+const value = (low: number, high: number) => formatRange(low, high, unit, lang)
+const hasRange = rows.some((r) => r.low !== r.high)
+
+const t = {
+  pl: { low: "dolny szacunek", range: "rozrzut szacunków", table: "Tabela i źródła", label: "", from: "od", to: "do", sources: "Źródła" },
+  en: { low: "low estimate", range: "range of estimates", table: "Table and sources", label: "", from: "from", to: "to", sources: "Sources" },
+}[lang]
+---
+
+<figure class="war-chart" data-war-chart>
+  <figcaption>
+    <p class="font-display text-ink text-xl leading-snug">{en ? data.titleEn : data.title}</p>
+    <p class="text-ink-soft mt-1 text-sm leading-6">{en ? data.noteEn : data.note}</p>
+    {
+      hasRange && (
+        <p class="text-ink-soft mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[10px]">
+          <span class="flex items-center gap-1.5">
+            <span class="bar-key bar-low" aria-hidden="true" />
+            {t.low}
+          </span>
+          <span class="flex items-center gap-1.5">
+            <span class="bar-key bar-ext" aria-hidden="true" />
+            {t.range}
+          </span>
+        </p>
+      )
+    }
+  </figcaption>
+
+  <ol class="mt-5 space-y-2.5" role="list">
+    {
+      rows.map((row) => (
+        <li
+          class="war-row grid grid-cols-[8.5rem_minmax(0,1fr)] items-center gap-3 sm:grid-cols-[12rem_minmax(0,1fr)]"
+          tabindex="0"
+          data-tip={`${en ? row.labelEn : row.label}: ${value(row.low, row.high)}${(en ? row.noteEn : row.note) ? ` — ${en ? row.noteEn : row.note}` : ""}`}
+        >
+          <span class="text-ink text-right text-sm leading-tight">{en ? row.labelEn : row.label}</span>
+          <span class="flex min-w-0 items-center gap-2">
+            <span class="relative block h-4 shrink-0" style={`width: calc((100% - 7.5rem) * ${row.high / max})`} aria-hidden="true">
+              <span class="bar-low absolute inset-y-0 left-0" style={`width: ${row.high ? ((row.low / row.high) * 100).toFixed(2) : 0}%`} />
+              {row.high > row.low && (
+                <span class="bar-ext absolute inset-y-0" style={`left: calc(${((row.low / row.high) * 100).toFixed(2)}% + 2px); right: 0`} />
+              )}
+            </span>
+            <span class="text-ink-soft shrink-0 font-mono text-[11px] whitespace-nowrap">{value(row.low, row.high)}</span>
+          </span>
+        </li>
+      ))
+    }
+  </ol>
+
+  <details class="mt-4">
+    <summary class="text-ink-soft hover:text-signal cursor-pointer font-mono text-[11px] transition-colors">{t.table}</summary>
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full min-w-[32rem] text-left text-xs">
+        <thead class="text-ink-soft font-mono text-[10px] uppercase">
+          <tr>
+            <th class="py-1.5 pr-3 font-normal"></th>
+            <th class="py-1.5 pr-3 text-right font-normal">{t.from}</th>
+            <th class="py-1.5 pr-3 text-right font-normal">{t.to}</th>
+            <th class="py-1.5 font-normal">{t.sources}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((row) => (
+              <tr class="border-line border-t align-top">
+                <td class="text-ink py-1.5 pr-3">
+                  {en ? row.labelEn : row.label}
+                  {(en ? row.noteEn : row.note) && <span class="text-ink-soft block">{en ? row.noteEn : row.note}</span>}
+                </td>
+                <td class="text-ink py-1.5 pr-3 text-right font-mono tabular-nums">{row.low.toLocaleString(en ? "en-GB" : "pl-PL")}</td>
+                <td class="text-ink py-1.5 pr-3 text-right font-mono tabular-nums">{row.high.toLocaleString(en ? "en-GB" : "pl-PL")}</td>
+                <td class="py-1.5">
+                  {row.sources.map((src, i) => (
+                    <>
+                      {i > 0 && " · "}
+                      <a href={src} rel="noopener nofollow" target="_blank" class="text-ink-soft hover:text-signal underline-offset-2 hover:underline">
+                        {new URL(src).hostname.replace(/^www\./, "")}
+                      </a>
+                    </>
+                  ))}
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style>
+  .bar-low {
+    background: var(--signal);
+    border-radius: 0 4px 4px 0;
+  }
+  .bar-ext {
+    background: color-mix(in oklab, var(--signal) 32%, var(--paper));
+    border-radius: 0 4px 4px 0;
+  }
+  .bar-key {
+    display: inline-block;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 2px;
+  }
+  .war-row {
+    outline: none;
+  }
+  .war-row:hover .bar-low,
+  .war-row:focus-visible .bar-low {
+    filter: brightness(1.12);
+  }
+  .war-row:focus-visible {
+    box-shadow: 0 0 0 2px var(--signal);
+    border-radius: 2px;
+  }
+</style>
+
+<script>
+  // One tooltip for every chart row on the page: the row's value and note.
+  let tip: HTMLElement | undefined
+  function initTips() {
+    document.querySelectorAll<HTMLElement>("[data-war-chart] [data-tip]").forEach((row) => {
+      const show = () => {
+        tip ??= Object.assign(document.createElement("div"), { className: "war-tip", role: "tooltip" })
+        if (!tip.isConnected) document.body.append(tip)
+        tip.textContent = row.dataset.tip ?? ""
+        tip.hidden = false
+        const r = row.getBoundingClientRect()
+        const width = Math.min(320, window.innerWidth - 32)
+        tip.style.width = `${width}px`
+        tip.style.left = `${Math.max(16, Math.min(r.left + window.scrollX + r.width / 3, window.scrollX + window.innerWidth - width - 16))}px`
+        tip.style.top = `${r.bottom + window.scrollY + 6}px`
+      }
+      const hide = () => tip && (tip.hidden = true)
+      row.addEventListener("mouseenter", show)
+      row.addEventListener("focus", show)
+      row.addEventListener("mouseleave", hide)
+      row.addEventListener("blur", hide)
+    })
+  }
+  document.addEventListener("astro:page-load", initTips)
+</script>
+
+<style is:global>
+  .war-tip {
+    position: absolute;
+    z-index: 50;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    background: var(--paper);
+    color: var(--ink);
+    padding: 0.5rem 0.75rem;
+    font-size: 0.75rem;
+    line-height: 1.15rem;
+    box-shadow: 0 10px 30px -12px color-mix(in oklab, var(--ink) 30%, transparent);
+    pointer-events: none;
+  }
+</style>
