@@ -73,11 +73,12 @@ is **no article on the causes and none on the results** today.
   quote-checked by script, and anything beyond them is sourced (≥ 2
   sources, opened and read).
 - Effort: about 150–250k tokens per guide with research and translation.
-- **Done 2026-10-29:** the page type and the first four guides, numbers
-  1–4 above (improvements.md §24). Next: Życie w okopach, Front wschodni na
-  ziemiach polskich, Wojna podwodna, Rewolucje w Rosji, Ludobójstwo Ormian,
-  Kobiety w czasie wojny, Państwa centralne i Ententa, Dlaczego Niemcy
-  przegrały.
+- **Done 2026-10-29:** the page type and eight guides: causes, results,
+  sprawa polska, new weapons, the war on Polish soil, the Russian
+  revolutions, the submarine war, why Germany lost (improvements.md §24).
+  Next: Państwa centralne i Ententa, Ludobójstwo Ormian; then Życie w
+  okopach and Kobiety w czasie wojny after the A4 society batch gives them
+  articles to link.
 
 ### A2. Before the war: "Droga do wojny 1871–1914"
 

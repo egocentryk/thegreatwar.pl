@@ -70,7 +70,7 @@ Na przełomie 1916 i 1917 roku admiralicja i Naczelne Dowództwo przekonały ces
 
 Ratunkiem okazały się konwoje. Admiralicja długo uważała, że skupisko statków będzie łatwym celem, a okrętów eskorty zabraknie, ale w obliczu rekordowych strat wiosną 1917 roku zgodziła się na próby. [14 czerwca](/admiralicja-zatwierdza-system-konwojow) admirał [John Jellicoe](/postacie/john-jellicoe) zatwierdził plan regularnych konwojów, a 2 lipca z Hampton Roads wyszedł pierwszy z nich. Okręt podwodny trudniej znajdował grupę niż pojedyncze statki, a atakując, narażał się na kontratak eskorty. U-Booty ginęły też na minach, od bomb głębinowych i w starciach ze statkami-pułapkami.
 
-W latach 1914–1918 w służbie niemieckiej marynarki było, zależnie od sposobu liczenia, od 351 do 375 okrętów podwodnych. Straciła ich od 202 do 217, w tym 178 w walce, a zginęło około 5 tysięcy członków załóg. Według serwisu uboat.net U-Booty zatopiły 7677 statków handlowych. Po rozejmie Niemcy musieli wydać aliantom wszystkie okręty podwodne zdolne do pływania: [20 listopada 1918 roku](/kapitulacja-u-bootow) pierwsze 20 poddało się pod Harwich.
+W latach 1914–1918 w służbie niemieckiej marynarki było, zależnie od sposobu liczenia, od 351 do 375 okrętów podwodnych. Straciła ich od 202 do 217, w tym 178 w walce, a zginęło około 5 tysięcy członków załóg. U-Booty zatopiły prawie 5 tysięcy statków handlowych. Po rozejmie Niemcy musieli wydać aliantom wszystkie okręty podwodne zdolne do pływania: [20 listopada 1918 roku](/kapitulacja-u-bootow) pierwsze 20 poddało się pod Harwich.
 
 ## Inne nowości
 

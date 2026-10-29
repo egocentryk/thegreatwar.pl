@@ -18,6 +18,9 @@ edit any other repo file, don't run the build, don't commit.
   them.** Where a source contradicts one of our articles, write what is
   certain, and report the conflict.
 - Tone and length model for a long text: `src/content/battles/1916/bitwa-nad-somma.md`.
+- The four published guides in `src/content/topics/` (and their evidence in
+  `scripts/topics/*.json`): match their form, and don't contradict them
+  where your topic overlaps.
 
 ## The Polish guide: `src/content/topics/<slug>.md`
 
@@ -26,6 +29,7 @@ Front matter, this order:
 ```yaml
 ---
 title: Przyczyny I wojny światowej
+question: "Dlaczego wybuchła I wojna światowa?"   # the question as readers search it; headline on /tematy
 summary: ≤160 chars, answers the question in one sentence (shown under the title and in search results)
 brief:
   - "3–5 points, each one sentence, numbers only as the body gives them"
@@ -47,8 +51,9 @@ Body, 1,800–2,800 words:
   it, if there is a real debate (attribute views: "Fritz Fischer uważał…").
 - **Links:** link our pages generously, since this is the hub. Use
   `/<timeline-slug>`, `/bitwy/<slug>` and `/postacie/<slug>` at their first
-  mention. No date restriction here: a guide may link any article. Link 15–40
-  of our pages. Use pl.wikipedia (checked: exists, not a disambiguation page,
+  mention. No date restriction here: a guide may link any article. Link at
+  least 20 of our pages; 40–50 is fine when the text needs them (person
+  pages included). There is no hard cap. Use pl.wikipedia (checked: exists, not a disambiguation page,
   right subject) only for things we have no page for. First mention only, no
   duplicate targets.
 - No pointer sentences ("więcej w artykule…"). The links carry the reader.
@@ -82,8 +87,8 @@ Check until it prints `0 problem(s)`:
 
 ## English: `src/content/en/topics/<english-slug>.md`
 
-Translate per `translation-brief.md`: front matter only `title`, `summary`,
-`brief`, `source: <polish-slug>` (no order, updated, series, authors,
+Translate per `translation-brief.md`: front matter only `title`, `question`,
+`summary`, `brief`, `source: <polish-slug>` (no order, updated, series, authors,
 sources). Links byte for byte as in Polish. Then this must print nothing for
 your file:
 

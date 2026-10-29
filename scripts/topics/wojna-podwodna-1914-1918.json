@@ -1,0 +1,714 @@
+{
+ "slug": "wojna-podwodna-1914-1918",
+ "paragraphs": [
+  {
+   "start": "Niemcy sięgnęły po nieograniczoną wojnę podwodną, bo",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na przełomie 1916 i 1917 roku admiralicja i Naczelne Dowództwo przekonały cesarza, że zatapianie około 600 tysięcy ton miesięcznie zmusi Wielką Brytanię do pokoju w ciągu pół roku. Od 1 lutego 1917 roku U-Booty atakowały bez ostrzeżenia wszystkie statki w strefach wokół Wielkiej Brytanii, Francji, Włoch i na wschodnim Morzu Śródziemnym. Straty żeglugi były ogromne, ale konwoje odwróciły sytuację, a decyzja ta przyczyniła się do przystąpienia USA do wojny w kwietniu 1917 roku."
+    },
+    {
+     "file": "src/content/timeline/1916/03/dymisja-alfreda-von-tirpitza.md",
+     "quote": "Po wybuchu wojny okazało się jednak, że zbudowana przez niego Flota Pełnomorska nie może rzucić wyzwania przeważającej Royal Navy."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Na początku wojny Niemcy mieli niewiele okrętów podwodnych, ale już 22 września 1914 roku U-9 zatopił w ciągu godziny trzy brytyjskie krążowniki. W lutym 1915 roku Niemcy ogłosili wody wokół Wysp Brytyjskich strefą wojenną; zatopienie Lusitanii w maju 1915 roku i kolejne incydenty z ofiarami wśród Amerykanów zmusiły ich do ograniczenia ataków. 1 lutego 1917 roku wznowili nieograniczoną wojnę podwodną, licząc, że głodem zmuszą Wielką Brytanię do pokoju, zanim pomoże jej Ameryka. Straty żeglugi były ogromne, dopóki od połowy 1917 roku nie wprowadzono konwojów."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Grupa statków handlowych lub transportowców płynących razem pod osłoną okrętów wojennych. Brytyjska Admiralicja wprowadziła regularne konwoje w 1917 roku i okazały się one najskuteczniejszą obroną przed U-Bootami."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Nieograniczona wojna podwodna nie przyniosła Niemcom zwycięstwa, za to sprowadziła na front zachodni armię Stanów Zjednoczonych."
+    }
+   ]
+  },
+  {
+   "start": "Na początku wojny niemiecka marynarka miała, zależnie",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "World History Encyclopedia: 20 okrętów zdolnych do działań; Clodfelter: 24"
+    },
+    {
+     "file": "src/content/timeline/1914/09/zatoniecie-aboukir-hogue-i-cressy.md",
+     "quote": "category: Działania zbrojne front: Wojna na morzu date: 1914-09-22 authors: [Łukasz Skowroń] dayOrder: 5 tags: [Royal Navy, Kaiserliche Marine, okręty podwodne, Morze Północne] milestone: false draft: false --- Rano 22 września 1914 roku na Morzu Północnym, u wybrzeży Holandii, niemiecki okręt podwodny U-9 zatopił kolejno trzy brytyjskie krążowniki pancerne: Aboukir, Hogue i Cressy. Cała akcja trwała nieco ponad godzinę. Zginęło 1459 marynarzy, więcej niż w bitwie pod Trafalgarem."
+    },
+    {
+     "file": "src/content/timeline/1914/09/zatoniecie-aboukir-hogue-i-cressy.md",
+     "quote": "Dowodził nim kapitanlejtnant Otto Weddigen."
+    },
+    {
+     "file": "src/content/timeline/1914/09/zatoniecie-aboukir-hogue-i-cressy.md",
+     "quote": "Zaledwie dwa tygodnie wcześniej U-21 zatopił krążownik Pathfinder, ale teraz jeden niewielki okręt podwodny w ciągu godziny zniszczył trzy duże krążowniki."
+    },
+    {
+     "file": "src/content/timeline/1914/09/zatoniecie-aboukir-hogue-i-cressy.md",
+     "quote": "Obie strony przekonały się, że okręt podwodny, jeszcze niedawno uważany za broń pomocniczą, może zagrozić nawet dużym okrętom wojennym."
+    }
+   ]
+  },
+  {
+   "start": "Równocześnie trwała wojna o handel. Wielka Brytania",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/11/morze-polnocne-strefa-wojenna.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1914-11-02 authors: [Łukasz Skowroń] dayOrder: 2 tags: [Wielka Brytania, blokada morska, Morze Północne, neutralność] milestone: false draft: false --- 2 listopada 1914 roku brytyjska Admiralicja ogłosiła, że całe Morze Północne należy odtąd uważać za obszar wojskowy."
+    },
+    {
+     "file": "src/content/timeline/1914/11/morze-polnocne-strefa-wojenna.md",
+     "quote": "Kierując żeglugę neutralną wąskimi, wyznaczonymi szlakami przez Cieśninę Kaletańską, Royal Navy mogła łatwiej zatrzymywać i przeszukiwać statki płynące do Holandii i Skandynawii w poszukiwaniu kontrabandy, zgodnie z zasadami ogłoszonymi kilka dni wcześniej."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Wielka Brytania nie zamknęła niemieckich portów bezpośrednio, lecz prowadziła blokadę oddaloną: patrole między Szetlandami a Norwegią i w cieśninie Dover zatrzymywały statki i kierowały je do kontroli. Listy kontrabandy stopniowo rozszerzano, a rozporządzenie z 11 marca 1915 roku, wydane w odwecie za niemiecką strefę wojenną, pozwalało zatrzymywać wszelkie towary zmierzające do Niemiec lub z nich pochodzące. Od 1916 roku blokadą kierowało osobne ministerstwo, a umowy z państwami neutralnymi ograniczały odsprzedaż towarów Niemcom."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Blokada pogłębiła w Niemczech i Austro-Węgrzech niedobory żywności i surowców; liczbę cywilnych ofiar głodu i chorób szacuje się na kilkaset tysięcy. Niemcy przedstawiali wojnę podwodną jako odpowiedź na nią. Blokadę utrzymano po rozejmie, do lipca 1919 roku. Słowem „blokada” określa się też blokady innych wybrzeży, np. Grecji czy Kamerunu."
+    },
+    {
+     "file": "src/content/timeline/1915/02/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich.md",
+     "quote": "Dotąd U-Booty atakowały statki handlowe rzadko i zwykle w zgodzie z prawem pryzowym, jak w październiku 1914 roku dowódca U-17, który przed zatopieniem brytyjskiego parowca Glitra kazał załodze zejść do szalup."
+    }
+   ]
+  },
+  {
+   "start": "4 lutego 1915 roku Niemcy ogłosili wody wokół",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/02/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1915-02-04 authors: [Łukasz Skowroń] dayOrder: 1 tags: [Niemcy, okręty podwodne, blokada morska, neutralność] milestone: false draft: false --- 4 lutego 1915 roku w Berlinie ogłoszono, że wody wokół Wielkiej Brytanii i Irlandii, łącznie z całym kanałem La Manche, stają się obszarem wojennym. Od 18 lutego każdy napotkany tam nieprzyjacielski statek handlowy miał zostać zniszczony, nawet jeśli, jak zaznaczono, nie zawsze będzie można przy tym uniknąć niebezpieczeństwa dla załóg i pasażerów."
+    },
+    {
+     "file": "src/content/timeline/1915/02/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich.md",
+     "quote": "Jego głównym rzecznikiem był Pohl."
+    },
+    {
+     "file": "src/content/timeline/1915/02/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich.md",
+     "quote": "Na początku 1915 roku Niemcy mieli nieco ponad dwadzieścia okrętów podwodnych zdolnych do działań na wodach brytyjskich, a część z nich stała w remontach. Rejs z portów niemieckich lub z bazy w okupowanej Belgii zabierał wiele dni, więc u wybrzeży Wysp Brytyjskich mogło jednocześnie operować zwykle zaledwie kilka okrętów."
+    },
+    {
+     "file": "src/content/timeline/1915/03/brytyjskie-rozporzadzenie-odwetowe.md",
+     "quote": "category: Dyplomacja date: 1915-03-11 authors: [Łukasz Skowroń] dayOrder: 1 tags: [Wielka Brytania, blokada morska, neutralność, Stany Zjednoczone] milestone: false draft: false --- 11 marca 1915 roku król Jerzy V wydał na posiedzeniu Tajnej Rady dwa akty, które zaostrzały brytyjską wojnę gospodarczą przeciwko Niemcom."
+    },
+    {
+     "file": "src/content/timeline/1915/03/brytyjskie-rozporzadzenie-odwetowe.md",
+     "quote": "Żaden statek handlowy nie mógł kontynuować podróży do portu niemieckiego."
+    }
+   ]
+  },
+  {
+   "start": "Problem leżał w prawie morskim. Wymagało ono, by okręt",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Prawo morskie wymagało, by okręt zatrzymał statek handlowy, przeszukał go i przed zatopieniem zapewnił bezpieczeństwo załodze. Okręt podwodny, mały i bezbronny na powierzchni, nie mógł tego robić bez ryzyka. 4 lutego 1915 roku Niemcy ogłosili wody wokół Wysp Brytyjskich strefą wojenną. Zatopienie Lusitanii w maju 1915 roku, a potem Arabica i Sussexa, wywołały ostre protesty Stanów Zjednoczonych i Niemcy kilka razy ograniczali kampanię."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Prawo morskie wymagało, by okręt zatrzymał statek handlowy, przeszukał go i przed zatopieniem zapewnił bezpieczeństwo załodze. Okręt podwodny, mały i bezbronny na powierzchni, nie mógł tego robić bez ryzyka. 4 lutego 1915 roku Niemcy ogłosili wody wokół Wysp Brytyjskich strefą wojenną. Zatopienie Lusitanii w maju 1915 roku, a potem Arabica i Sussexa, wywołały ostre protesty Stanów Zjednoczonych i Niemcy kilka razy ograniczali kampanię."
+    },
+    {
+     "file": "src/content/timeline/1916/03/poczatek-rozszerzonej-wojny-podwodnej.md",
+     "quote": "Coraz więcej brytyjskich statków handlowych pływało z działem na rufie, więc nowe reguły obejmowały coraz większą część floty handlowej."
+    },
+    {
+     "file": "src/content/timeline/1915/02/poczatek-niemieckiej-blokady-podwodnej.md",
+     "quote": "Zatapianie statków bez ostrzeżenia, a nieraz razem z ludźmi, wywoływało oburzenie w państwach neutralnych, zwłaszcza w Stanach Zjednoczonych."
+    },
+    {
+     "file": "src/content/timeline/1915/02/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich.md",
+     "quote": "Rząd Stanów Zjednoczonych, pod przewodnictwem prezydenta Woodrowa Wilsona, odpowiedział 10 lutego ostrą notą, ostrzegając, że za zniszczenie amerykańskich statków lub śmierć amerykańskich obywateli pociągnie Niemcy do „ścisłej odpowiedzialności”."
+    }
+   ]
+  },
+  {
+   "start": "7 maja 1915 roku U-20 kapitanlejtnanta Walthera Schwiegera",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/zatopienie-lusitanii.md",
+     "quote": "Stany Zjednoczone nie przystąpiły wtedy do wojny, ale duża część amerykańskiej opinii trwale odwróciła się od Niemiec.\" --- 7 maja 1915 roku około godziny 14.10 niemiecki okręt podwodny U-20 storpedował u południowych wybrzeży Irlandii, kilkanaście mil morskich od przylądka Old Head of Kinsale, brytyjski liniowiec Lusitania."
+    },
+    {
+     "file": "src/content/timeline/1915/05/zatopienie-lusitanii.md",
+     "quote": "Statek zatonął w ciągu 18 minut.\" - \"Niemcy od lutego uważali wody wokół Wysp Brytyjskich za strefę wojenną. Ambasada niemiecka ostrzegała w nowojorskich gazetach, że pasażerowie statków brytyjskich płyną na własne ryzyko.\" - \"Kapitanlejtnant Walther Schwieger wystrzelił jedną torpedę, po której nastąpiła druga, silna eksplozja. Jej przyczyna do dziś pozostaje sporna.\" - \"Zginęło prawie 1200 osób, w tym niemal 100 dzieci i ponad stu Amerykanów."
+    },
+    {
+     "file": "src/content/timeline/1915/09/niemcy-ustepuja-w-sprawie-wojny-podwodnej.md",
+     "quote": "Chodziło o tajny rozkaz z czerwca, wydany po Lusitanii, który zakazywał dowódcom U-Bootów atakowania dużych statków pasażerskich bez ostrzeżenia."
+    },
+    {
+     "file": "src/content/timeline/1915/08/zatopienie-statku-arabic.md",
+     "quote": "category: Działania zbrojne front: Wojna na morzu date: 1915-08-19 authors: [Natalia] dayOrder: 2 tags: [okręty podwodne, Stany Zjednoczone, Niemcy, marynarka handlowa] milestone: false draft: false --- Rano 19 sierpnia 1915 roku niemiecki okręt podwodny U-24 storpedował bez ostrzeżenia brytyjski liniowiec Arabic linii White Star, płynący z Liverpoolu do Nowego Jorku. Do trafienia doszło około godziny 9.15–9.30, mniej więcej 50 mil morskich na południe od Kinsale, niedaleko miejsca, w którym trzy miesiące wcześniej zatonęła Lusitania. Statek poszedł na dno w ciągu około dziesięciu minut. Zginęły według większości źródeł 44 osoby."
+    },
+    {
+     "file": "src/content/timeline/1915/09/niemcy-ustepuja-w-sprawie-wojny-podwodnej.md",
+     "quote": "W Berlinie zrozumiano, że tym razem grozi zerwanie stosunków ze Stanami Zjednoczonymi."
+    }
+   ]
+  },
+  {
+   "start": "1 września 1915 roku ambasador Johann Heinrich von",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/09/niemcy-ustepuja-w-sprawie-wojny-podwodnej.md",
+     "quote": "category: Dyplomacja front: Wojna na morzu date: 1915-09-01 authors: [Natalia] dayOrder: 2 tags: [okręty podwodne, Stany Zjednoczone, Niemcy, Theobald von Bethmann Hollweg] milestone: false draft: false --- 1 września 1915 roku niemiecki ambasador w Waszyngtonie Johann Heinrich von Bernstorff spotkał się rano z sekretarzem stanu Robertem Lansingiem, a jeszcze tego samego dnia potwierdził na piśmie to, co mu powiedział."
+    },
+    {
+     "file": "src/content/timeline/1915/09/niemcy-ustepuja-w-sprawie-wojny-podwodnej.md",
+     "quote": "Jego instrukcje w sprawie odpowiedzi na ostatnią amerykańską notę w sprawie Lusitanii zawierały, jak napisał, następujące zdanie: „Liniowce nie będą zatapiane przez nasze okręty podwodne bez ostrzeżenia i bez zapewnienia bezpieczeństwa życia osób niewalczących, pod warunkiem że nie będą próbowały uciekać ani stawiać oporu”."
+    },
+    {
+     "file": "src/content/timeline/1915/09/niemcy-ustepuja-w-sprawie-wojny-podwodnej.md",
+     "quote": "Na początku września Bachmanna zastąpił na stanowisku szefa sztabu admiralicji Henning von Holtzendorff, uważany za bliższego kanclerzowi. Rezygnacji Tirpitza cesarz nie przyjął. 18 września nowy szef sztabu nakazał w praktyce wstrzymać działania okrętów podwodnych na wodach wokół Wysp Brytyjskich i ograniczyć je do Morza Północnego, gdzie miały działać według zasad prawa pryzowego."
+    },
+    {
+     "file": "src/content/timeline/1915/02/poczatek-niemieckiej-blokady-podwodnej.md",
+     "quote": "Straty nie zagrażały jednak zaopatrzeniu Wielkiej Brytanii, która miała największą flotę handlową świata."
+    },
+    {
+     "file": "src/content/timeline/1915/02/poczatek-niemieckiej-blokady-podwodnej.md",
+     "quote": "Pierwsza niemiecka kampania wojny podwodnej miała trwać do jesieni 1915 roku i doprowadzić do najpoważniejszego kryzysu w stosunkach Berlina z Waszyngtonem od początku wojny."
+    }
+   ]
+  },
+  {
+   "start": "O wojnę podwodną przez dwa lata spierali się w Berlinie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Rozpoczynała się nieograniczona wojna podwodna, której domagały się od dwóch lat niemiecka marynarka i od pół roku Naczelne Dowództwo."
+    },
+    {
+     "file": "src/content/timeline/1916/03/dymisja-alfreda-von-tirpitza.md",
+     "quote": "Coraz głośniej domagał się więc bezwzględnego użycia okrętów podwodnych przeciw brytyjskiej żegludze."
+    },
+    {
+     "file": "src/content/timeline/1915/02/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich.md",
+     "quote": "Obawiał się, że uderzenie w żeglugę neutralną popchnie przeciwko Niemcom Stany Zjednoczone, Włochy i Rumunię w chwili, gdy sytuacja na lądzie wciąż nie była rozstrzygnięta."
+    },
+    {
+     "file": "src/content/timeline/1915/09/niemcy-ustepuja-w-sprawie-wojny-podwodnej.md",
+     "quote": "Rozstrzygnąć miał Wilhelm II."
+    }
+   ]
+  },
+  {
+   "start": "Na początku 1916 roku spór wybuchł na nowo. Memoriał",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/03/dymisja-alfreda-von-tirpitza.md",
+     "quote": "## Narada bez sekretarza stanu Na początku 1916 roku spór wybuchł na nowo."
+    },
+    {
+     "file": "src/content/timeline/1916/03/poczatek-rozszerzonej-wojny-podwodnej.md",
+     "quote": "Memoriał jego sztabu z 7 stycznia zapewniał, że po zniesieniu wszystkich ograniczeń opór Wielkiej Brytanii zostanie złamany najpóźniej w ciągu sześciu miesięcy."
+    },
+    {
+     "file": "src/content/timeline/1916/03/poczatek-rozszerzonej-wojny-podwodnej.md",
+     "quote": "Poparli to sekretarz stanu marynarki Alfred von Tirpitz i szef Sztabu Generalnego Erich von Falkenhayn, który przygotowywał już uderzenie pod Verdun i uważał, że Wielkiej Brytanii nie da się pokonać na lądzie."
+    },
+    {
+     "file": "src/content/timeline/1916/03/dymisja-alfreda-von-tirpitza.md",
+     "quote": "Kanclerz zgodził się tylko na zaostrzenie kampanii przeciw uzbrojonym statkom handlowym, obowiązujące od końca lutego. Ostateczną decyzję cesarz Wilhelm II podjął na naradzie z udziałem kanclerza, Falkenhayna i szefa sztabu admiralicji Henninga von Holtzendorffa. Tirpitz datuje ją na 6 marca. Sekretarza stanu marynarki na nią nie wezwano."
+    },
+    {
+     "file": "src/content/timeline/1916/03/poczatek-rozszerzonej-wojny-podwodnej.md",
+     "quote": "Według wspomnień Tirpitza o dalszym kursie rozstrzygnęła 6 marca narada u cesarza Wilhelma II z udziałem kanclerza, Falkenhayna i Holtzendorffa."
+    }
+   ]
+  },
+  {
+   "start": "Już 24 marca UB-29 z Flotylli Flandria storpedował",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/03/storpedowanie-statku-sussex.md",
+     "quote": "4 maja Berlin ustąpił i złożył „przyrzeczenie Sussex”, że nie będzie zatapiać statków handlowych bez ostrzeżenia.\" --- 24 marca 1916 roku, około trzeciej po południu, niemiecki okręt podwodny UB-29 storpedował bez ostrzeżenia w kanale La Manche statek pasażerski Sussex, płynący z Folkestone do Dieppe. Wybuch oderwał dziób statku, ale Sussex utrzymał się na wodzie i został odholowany do Boulogne. Zginęło co najmniej 50 osób, według niektórych szacunków nawet 80–100. Brytyjska chronologia wojny nazywa Sussex statkiem brytyjskim, ale prom należał od 1914 roku do francuskich kolei państwowych i pływał pod banderą francuską. Wśród rannych byli obywatele Stanów Zjednoczonych i ten atak wywołał najpoważniejszy od czasów Lusitanii kryzys w stosunkach amerykańsko-niemieckich."
+    },
+    {
+     "file": "src/content/timeline/1916/03/storpedowanie-statku-sussex.md",
+     "quote": "Zginęło co najmniej 50 osób, ranni byli też Amerykanie."
+    },
+    {
+     "file": "src/content/timeline/1916/03/storpedowanie-statku-sussex.md",
+     "quote": "Okręt podwodny, mały UB-29 z Flotylli Flandria, dowodzony przez porucznika marynarki Herberta Pustkuchena, napotkał prom między przylądkiem Dungeness a Boulogne."
+    },
+    {
+     "file": "src/content/timeline/1916/04/nota-usa-w-sprawie-sussexa.md",
+     "quote": "category: Dyplomacja front: Wojna na morzu date: 1916-04-18 authors: [Łukasz Skowroń] dayOrder: 1 tags: [Stany Zjednoczone, Niemcy, okręty podwodne, Woodrow Wilson] milestone: false draft: false --- 18 kwietnia 1916 roku o szóstej wieczorem sekretarz stanu Robert Lansing wysłał telegraficznie do ambasadora Stanów Zjednoczonych w Berlinie, Jamesa W."
+    },
+    {
+     "file": "src/content/timeline/1916/04/nota-usa-w-sprawie-sussexa.md",
+     "quote": "4 maja Niemcy ustąpili i zobowiązali się, że okręty podwodne nie będą zatapiać statków handlowych bez ostrzeżenia i bez ratowania ludzi, zastrzegając jednocześnie, że oczekują od Waszyngtonu nacisku na Wielką Brytanię w sprawie blokady."
+    }
+   ]
+  },
+  {
+   "start": "Dowódca Floty Pełnomorskiej admirał Reinhard Scheer",
+   "quotes": [
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Gdy po storpedowaniu Sussexa okręty podwodne miały atakować statki handlowe tylko według prawa pryzowego, odwołał je z wojny handlowej, uznając, że w takiej formie jest ona dla nich zbyt niebezpieczna."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "W raporcie dla cesarza z 4 lipca napisał jednak, że nawet najbardziej udana bitwa nie zmusi Wielkiej Brytanii do pokoju i że może to zrobić tylko wojna podwodna przeciw jej handlowi, prowadzona bez ograniczeń."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Jesienią 1916 roku ich pozycja się wzmocniła."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Nowi szefowie armii, Paul von Hindenburg i Erich Ludendorff, po krwawych bitwach pod Verdun i nad Sommą nie wierzyli w zwycięstwo na lądzie."
+    }
+   ]
+  },
+  {
+   "start": "22 grudnia 1916 roku Holtzendorff przesłał Hindenburgowi",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "22 grudnia szef sztabu admiralicji admirał Henning von Holtzendorff przesłał Hindenburgowi obszerny memoriał."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Jeśli okręty podwodne będą zatapiać bez ograniczeń 600 tysięcy ton miesięcznie, a co najmniej dwie piąte neutralnych armatorów ze strachu przestanie pływać do Anglii, to po pięciu miesiącach brytyjski handel morski zmaleje o 39 procent."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Według admirała wyjątkową szansę dawał światowy nieurodzaj zbóż w 1916 roku."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Wniosek był jasny: nieograniczona wojna podwodna, rozpoczęta w porę, zmusi Wielką Brytanię do pokoju przed żniwami, czyli przed 1 sierpnia 1917 roku, a ryzyko zerwania z Ameryką trzeba przyjąć, „bo nie mamy innego wyjścia”."
+    }
+   ]
+  },
+  {
+   "start": "Bethmann Hollweg prosił o zwłokę przynajmniej do",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Kanclerz Theobald von Bethmann Hollweg prosił o zwłokę przynajmniej do odpowiedzi Ententy na niemiecką ofertę pokojową."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Wicekanclerz Karl Helfferich uważał rachunki admiralicji za czystą spekulację, zwłaszcza że całkowicie pomijały zasoby Ameryki."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Następnego dnia rano Bethmann Hollweg przez około godzinę bezskutecznie przekonywał generałów, a wieczorem 9 stycznia, na naradzie u cesarza Wilhelma II w pszczyńskim zamku, nie podjął już prawdziwej walki."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "„Wojna podwodna to ostatnia karta."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Cesarz wydał rozkaz, by nieograniczona wojna podwodna zaczęła się 1 lutego z całą siłą."
+    }
+   ]
+  },
+  {
+   "start": "31 stycznia Bernstorff zawiadomił Waszyngton, że w",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Niemcy zawiadamiali w niej, że od 1 lutego w strefach wokół Wielkiej Brytanii, Francji i Włoch oraz na wschodnim Morzu Śródziemnym będą „wszelkimi środkami” zatrzymywać całą żeglugę, także państw neutralnych. Każdy statek napotkany w tych strefach miał zostać zatopiony bez ostrzeżenia."
+    },
+    {
+     "url": "https://archive.org/details/navaloperations04corb",
+     "quote": "In February 1917 the German Government had 111 boats available for active operations"
+    },
+    {
+     "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+     "quote": "Neutralni armatorzy zatrzymali swoje statki w portach. category: Działania zbrojne front: Wojna na morzu date: 1917-02-01 authors: [Łukasz Skowroń] dayOrder: 3 tags: [Niemcy, okręty podwodne, Wielka Brytania, neutralność] milestone: false draft: false --- 1 lutego 1917 roku weszła w życie zapowiedź, którą Niemcy ogłosili dzień wcześniej."
+    },
+    {
+     "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+     "quote": "Według brytyjskiej historii oficjalnej w wyniku działań nieprzyjaciela zatonęły w tym miesiącu statki o łącznej pojemności około 540 tysięcy ton, z czego ponad 310 tysięcy brytyjskich."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Wojna podwodna sprowadziła za to na front zachodni armię Stanów Zjednoczonych.\" --- 31 stycznia 1917 roku po południu niemiecki ambasador w Waszyngtonie hrabia Johann Heinrich von Bernstorff wręczył sekretarzowi stanu Robertowi Lansingowi notę swojego rządu z dwoma memoriałami."
+    }
+   ]
+  },
+  {
+   "start": "Stany Zjednoczone odpowiedziały szybko. 3 lutego",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/02/usa-zrywaja-stosunki-z-niemcami.md",
+     "quote": "Neutralne państwa Europy poprzestały na protestach, cieplej odpowiedziały Brazylia i inne kraje Ameryki Łacińskiej.\" - \"Zerwanie otworzyło drogę do wojny: po publikacji telegramu Zimmermanna i zatopieniu kilku amerykańskich statków w marcu Stany Zjednoczone 6 kwietnia 1917 roku wypowiedziały Niemcom wojnę.\" --- 3 lutego 1917 roku o drugiej po południu prezydent Woodrow Wilson stanął w sali Izby Reprezentantów przed połączonymi izbami Kongresu i oznajmił, że Stany Zjednoczone zrywają wszelkie stosunki dyplomatyczne z Cesarstwem Niemieckim."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Do tej samej depeszy dołączono telegram Zimmermanna z propozycją sojuszu dla Meksyku."
+    },
+    {
+     "file": "src/content/timeline/1917/01/telegram-zimmermanna.md",
+     "quote": "O jednym Niemcy nie wiedzieli: brytyjski wywiad morski przechwycił depeszę już 16 stycznia, a nazajutrz rano znał jej sens."
+    },
+    {
+     "file": "src/content/timeline/1917/02/publikacja-telegramu-zimmermanna.md",
+     "quote": "W czwartek 1 marca prawie wszystkie wielkie dzienniki amerykańskie wyszły z wielkimi tytułami na całą szerokość pierwszej strony."
+    },
+    {
+     "file": "src/content/timeline/1917/02/usa-zrywaja-stosunki-z-niemcami.md",
+     "quote": "Ambasador Bernstorff otrzymał paszporty, a Gerarda odwołano z Berlina.\" - \"Była to odpowiedź na ogłoszenie przez Niemcy nieograniczonej wojny podwodnej."
+    }
+   ]
+  },
+  {
+   "start": "Gdy w marcu U-Booty zatopiły kolejne amerykańskie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Pod koniec lutego Brytyjczycy przekazali Amerykanom telegram Zimmermanna, a w marcu okręty podwodne zatopiły kilka amerykańskich statków."
+    },
+    {
+     "file": "src/content/timeline/1917/04/wilson-prosi-kongres-o-wypowiedzenie-wojny.md",
+     "quote": "category: Polityka date: 1917-04-02 authors: [Natalia] dayOrder: 1 tags: [Stany Zjednoczone, Woodrow Wilson, Niemcy, okręty podwodne] milestone: false draft: false --- 2 kwietnia 1917 roku wieczorem prezydent Woodrow Wilson stanął przed połączonymi izbami Kongresu i poprosił, by uznały postępowanie rządu niemieckiego za „nic innego jak wojnę” przeciw rządowi i narodowi Stanów Zjednoczonych."
+    },
+    {
+     "file": "src/content/timeline/1917/04/wilson-prosi-kongres-o-wypowiedzenie-wojny.md",
+     "quote": "Orędzie trwało 36 minut i zawierało zdanie, które przeszło do historii: „Świat musi stać się bezpieczny dla demokracji”."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "category: Dyplomacja date: 1917-04-06 authors: [Łukasz Skowroń] dayOrder: 2 tags: [Stany Zjednoczone, Niemcy, Woodrow Wilson, okręty podwodne] milestone: true draft: false brief: - \"6 kwietnia 1917 roku, w Wielki Piątek, Izba Reprezentantów przyjęła stosunkiem głosów 373 do 50 rezolucję wojenną, a prezydent Woodrow Wilson ją podpisał."
+    },
+    {
+     "file": "src/content/timeline/1917/04/wilson-prosi-kongres-o-wypowiedzenie-wojny.md",
+     "quote": "Niemiecka wojna podwodna przeciw handlowi to według niego „wojna przeciw ludzkości”."
+    }
+   ]
+  },
+  {
+   "start": "Kwiecień 1917 roku był najgorszym miesiącem całej",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/05/komitet-do-spraw-konwojow.md",
+     "quote": "## Kwietniowa katastrofa i błędne liczby Do tej decyzji doprowadził kwiecień 1917 roku, najgorszy miesiąc w całej wojnie podwodnej. Niemieckie okręty podwodne, które od lutego prowadziły nieograniczoną wojnę podwodną, zatopiły w nim według różnych zestawień od około 835 do ponad 860 tysięcy ton statków, najwięcej na podejściach do Wysp Brytyjskich."
+    },
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "In all the world's tonnage was reduced by 881,000 tons gross, of which 847,000 tons was accounted for by the submarines, and the rest by mines. [...] GROSS TONNAGE OF MERCHANT SHIPPING LOST THROUGH ENEMY ACTION, TO NOVEMBER 11TH, 1918 [...] 1917 [...] April: British 545,282; World Total 881,027"
+    },
+    {
+     "url": "https://warhistory.org/article/crisis-of-the-submarine-war-1917-part-i",
+     "quote": "464,599 tons in February; 507,001 in March; a stunning 834,549 tons sunk in April."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/U-boat_campaign",
+     "quote": "860,000 tons in April, when Britain's supplies of wheat shrank to six weeks worth."
+    },
+    {
+     "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+     "quote": "W kwietniu straty sięgnęły 880 tysięcy ton, najwięcej w całej wojnie."
+    }
+   ]
+  },
+  {
+   "start": "Admiralicja pod kierunkiem Johna Jellicoe'a długo",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Konwoje znano od wieków, a od 1914 roku osłaniano nimi transporty wojska, na przykład z Australii i Nowej Zelandii. Statków handlowych długo jednak nie konwojowano: Admiralicja uważała, że skupisko statków będzie łatwym celem, że kapitanowie nie utrzymają szyku, a okrętów eskorty zabraknie. W obliczu rekordowych strat wiosną 1917 roku zgodziła się na próby; pierwszy konwój z Gibraltaru dopłynął w maju bez strat."
+    },
+    {
+     "file": "src/content/timeline/1917/05/amerykanskie-niszczyciele-w-queenstown.md",
+     "quote": "## Rejs przez Atlantyk O przysłanie wszystkich niszczycieli, jakie Ameryka mogła wydzielić, prosił od pierwszych dni kwietnia kontradmirał William Sims, który przyjechał do Londynu i poznał prawdziwe straty brytyjskiej żeglugi."
+    },
+    {
+     "file": "src/content/timeline/1917/05/amerykanskie-niszczyciele-w-queenstown.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1917-05-04 authors: [Łukasz Skowroń] dayOrder: 1 tags: [Stany Zjednoczone, Royal Navy, okręty podwodne, Irlandia] milestone: false draft: false --- 4 maja 1917 roku do Queenstown na południowym wybrzeżu Irlandii wpłynęło sześć amerykańskich niszczycieli: Wadsworth, Conyngham, Porter, McDougal, Davis i Wainwright."
+    },
+    {
+     "file": "src/content/timeline/1917/05/komitet-do-spraw-konwojow.md",
+     "quote": "26 kwietnia szef wydziału zwalczania okrętów podwodnych kontradmirał Alexander Duff napisał w memoriale do Pierwszego Lorda Morskiego, admirała Johna Jellicoe’a, że nadszedł czas, by być gotowym do wprowadzenia konwojów w każdej chwili. Jellicoe zgodził się następnego dnia na próbę. 30 kwietnia Lloyd George, w porozumieniu z Pierwszym Lordem Admiralicji Edwardem Carsonem, przyjechał do Admiralicji."
+    },
+    {
+     "file": "src/content/timeline/1917/05/komitet-do-spraw-konwojow.md",
+     "quote": "W swoich wspomnieniach napisał, że zapowiedział tam „stanowcze działanie” w sprawie konwojów i że dopiero perspektywa, że zostaną przegłosowani we własnym gmachu, zmusiła admirałów do ustępstw. Ta wersja na długo weszła do podręczników. Historycy marynarki zwracają jednak uwagę, że decyzja o próbie zapadła już przed wizytą premiera."
+    }
+   ]
+  },
+  {
+   "start": "10 maja z Gibraltaru wyszedł pierwszy próbny konwój",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/05/komitet-do-spraw-konwojow.md",
+     "quote": "Statki płynące z Morza Śródziemnego zatrzymano od 6 maja w Gibraltarze, a 10 maja wyszło stamtąd w szyku 17 parowców, płynących ze średnią prędkością około 6,5 węzła. Przez najgroźniejsze wody przy Gibraltarze osłaniały je uzbrojone jachty, a na oceanie dwa statki-pułapki, Mavis i Rule. Na ostatnim, najniebezpieczniejszym odcinku przed kanałem La Manche czekały na nich niszczyciele i wodnosamolot z wysp Scilly. 20 maja konwój dotarł do Plymouth bez strat (część opracowań podaje 22 maja, gdy statki płynące dalej na wschód osiągnęły kotwicowisko Downs), o dwa dni szybciej, niż gdyby statki płynęły pojedynczo okrężnymi trasami."
+    },
+    {
+     "file": "src/content/timeline/1917/05/komitet-do-spraw-konwojow.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1917-05-17 authors: [Łukasz Skowroń] dayOrder: 2 tags: [Royal Navy, okręty podwodne, marynarka handlowa, John Jellicoe] milestone: false draft: false --- 17 maja 1917 roku brytyjska Admiralicja powołała komitet, który miał opracować ogólny plan prowadzenia statków handlowych w konwojach na szlakach oceanicznych."
+    },
+    {
+     "file": "src/content/timeline/1917/06/admiralicja-zatwierdza-system-konwojow.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1917-06-14 authors: [Łukasz Skowroń] dayOrder: 1 tags: [Royal Navy, okręty podwodne, marynarka handlowa, John Jellicoe] milestone: false draft: false --- 14 czerwca 1917 roku Pierwszy Lord Morski, admirał John Jellicoe, formalnie zatwierdził raport komitetu do spraw konwojów, który Admiralicja powołała w połowie maja."
+    },
+    {
+     "file": "src/content/timeline/1917/07/pierwszy-regularny-konwoj.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1917-07-02 authors: [Łukasz Skowroń] dayOrder: 2 tags: [Royal Navy, okręty podwodne, marynarka handlowa, Stany Zjednoczone] milestone: false draft: false --- 2 lipca 1917 roku z Hampton Roads w Wirginii wyszedł w morze konwój oznaczony w brytyjskich dokumentach jako HH 6."
+    },
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "From the institution of the Atlantic convoys in July, to October 27th, 1,500 ships had arrived safely in convoys from North America, Dakar, Sierra Leone, and Gibraltar, against 24 which had been sunk"
+    }
+   ]
+  },
+  {
+   "start": "Dlaczego U-Booty przegrały? Okręt podwodny trudniej",
+   "quotes": [
+    {
+     "file": "src/data/glossary.json",
+     "quote": "W czerwcu Admiralicja zatwierdziła system, a od lipca konwoje wychodziły regularnie z Ameryki Północnej, Gibraltaru i Dakaru. Przez ocean prowadziły je krążowniki, a na podejściach do Wysp Brytyjskich niszczyciele. Okręt podwodny trudniej znajdował grupę niż pojedyncze statki, a atakując, narażał się na kontratak eskorty. Straty w konwojach okazały się niewielkie i w 1918 roku zagrożenie ze strony U-Bootów wyraźnie zmalało."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Według Clodfeltera 41 na minach, 30 bombami głębinowymi i 13 przez statki-pułapki; zginęło ok. 5 tys. członków załóg"
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "If one keeps in mind that at any given time one-third of all U-boats were undergoing repair and refit, and another one-third were going to or returning from the war zones, this meant for 1917 that on average a mere 32 boats were on patrol in the North Sea, the English Channel, the Irish Sea, and the Atlantic Ocean to bring Britain \"to its knees.\""
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "Whereas an internal study by Lieutenant Ulrich-Eberhard Blum of the Submarine Inspectorate at Kiel in May-June 1914 had estimated that at least 222 U-boats would be required for an underwater offensive against shipping in the waters surrounding the British Isles, Germany never even remotely approached this figure."
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "Germany's unrestricted submarine campaign was limited in large measure only by inadequate force size."
+    }
+   ]
+  },
+  {
+   "start": "Na początku 1918 roku Niemcy mieli w służbie więcej",
+   "quotes": [
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "At the beginning of 1918 they had more \"front boats\" in commission than in the submarines' \"banner month,\" April 1917"
+    },
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "For the three months ending July 31st the combined figures averaged 271,000 tons a month, 43,000 tons less than in the preceding quarter, and less by 60 per cent. than the average losses suffered during the first three months of unrestricted sinkings."
+    },
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "as the convoy system was gradually extended to cover a larger and larger proportion of the sailings"
+    },
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "The most significant feature of the situation was that the progress of replacement had at last begun to keep pace with the wastage."
+    }
+   ]
+  },
+  {
+   "start": "Brytyjczycy próbowali uderzyć w bazy. Okręty podwodne",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Z Brugii do morza prowadziły dwa kanały: dłuższy i płytszy do Ostendy oraz główny, ze śluzami, do Zeebrugge."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "category: Działania zbrojne front: Wojna na morzu date: 1918-04-23 authors: [Łukasz Skowroń] dayOrder: 3 tags: [Royal Navy, Kaiserliche Marine, Belgia, okręty podwodne] milestone: true draft: false brief: - \"Tuż po północy 23 kwietnia 1918 roku, w dzień świętego Jerzego, okręty brytyjskiego Patrolu Dover zaatakowały okupowane przez Niemców porty Zeebrugge i Ostendę na wybrzeżu Belgii.\" - \"Wiceadmirał Roger Keyes chciał zatopić w wejściach do kanałów stare krążowniki wypełnione betonem, by niemieckie okręty podwodne i torpedowce nie mogły wychodzić z bazy w Brugii.\" - \"W Zeebrugge krążownik Vindictive przybił do mola i wysadził desant, okręt podwodny C3 wysadził wiadukt, a blokowce Intrepid i Iphigenia zatonęły w kanale."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Celem operacji, przygotowanej przez wiceadmirała Rogera Keyesa, było zatopienie w wejściach do kanałów starych krążowników wypełnionych betonem, tak by niemieckie okręty podwodne i torpedowce nie mogły wychodzić w morze ze swojej bazy w Brugii. W Zeebrugge stary krążownik Vindictive przybił do wielkiego mola i wysadził desant, okręt podwodny wysadził w powietrze wiadukt łączący molo z lądem, a dwa okręty blokujące zatonęły w kanale. Pod Ostendą blokowce minęły wejście do portu i osiadły na mieliźnie."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Przyszedł w czasie, gdy nad Lys Niemcy spychali Brytyjczyków coraz bliżej portów kanału La Manche, a wiadomość, że marynarka wdarła się do silnie bronionych niemieckich portów, wywołała w Wielkiej Brytanii i w krajach Ententy ogromny entuzjazm. Keyesa już 24 kwietnia podniesiono do godności rycerza komandora Orderu Łaźni, a Carpenter, Sandford, Dean, Harrison i Bradford z Iris, obaj ostatni pośmiertnie, oraz trzech innych uczestników Krzyż Wiktorii. Część z nich, między innymi dla Carpentera, przyznano zgodnie ze statutem odznaczenia w głosowaniu uczestników walki. Druga próba zablokowania Ostendy, z udziałem samego Vindictive, odbyła się w nocy z 9 na 10 maja."
+    },
+    {
+     "file": "src/content/timeline/1918/04/rajd-na-zeebrugge.md",
+     "quote": "Niemcy pogłębili przejście obok wraków, a już 25 kwietnia pierwszy okręt podwodny znów wyszedł przez Zeebrugge.\" - \"Rajd, przeprowadzony w czasie walk nad Lys, wywołał w Wielkiej Brytanii ogromny entuzjazm."
+    }
+   ]
+  },
+  {
+   "start": "W sierpniu 1918 roku Scheer stanął na czele nowego",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/08/dymisja-capellego.md",
+     "quote": "11 sierpnia Wilhelm II mianował jego następcą Scheera i zgodził się na utworzenie przy sztabie admiralicji Seekriegsleitung, czyli kierownictwa wojny morskiej, z szerokimi uprawnieniami rozkazodawczymi."
+    },
+    {
+     "file": "src/content/timeline/1918/08/dymisja-capellego.md",
+     "quote": "category: Polityka front: Wojna na morzu date: 1918-08-13 authors: [Natalia] dayOrder: 1 tags: [Niemcy, Kaiserliche Marine, okręty podwodne, Wilhelm II] milestone: false draft: false --- 13 sierpnia 1918 roku, jak podaje brytyjska chronologia wojny, admirał Eduard von Capelle złożył dymisję z urzędu sekretarza stanu w Urzędzie Marynarki Rzeszy (Reichsmarineamt)."
+    },
+    {
+     "file": "src/content/timeline/1918/08/dymisja-capellego.md",
+     "quote": "Nowy kierownik urzędu miał przygotować tak zwany program Scheera, czyli zwiększenie produkcji okrętów podwodnych z niespełna 13 do 36 miesięcznie do jesieni 1919 roku, opracowywany wspólnie z przemysłem pod przewodem Hugona Stinnesa. Behncke nie utrzymał się jednak długo. Według historyka Wilhelma Deista pod koniec września Scheer, powołując się na niezadowolenie przemysłowców, uzyskał u cesarza jego odwołanie, a urząd objął dotychczasowy szef Urzędu U-Bootów, wiceadmirał Ernst Ritter von Mann. Program Scheera, zakrojony na skalę porównywalną z armijnym programem Hindenburga, nie miał już szans na realizację, bo do końca wojny zostały niespełna trzy miesiące."
+    },
+    {
+     "file": "src/content/timeline/1918/10/belgowie-odbijaja-brugie.md",
+     "quote": "Gdy front zaczął się zbliżać, Niemcy pospiesznie odwołali okręty podwodne do kraju, a 5 października zatopili kilka niezdolnych do drogi, między innymi UB-59 w Zeebrugge i UB-40 w Ostendzie."
+    },
+    {
+     "file": "src/content/timeline/1918/10/belgowie-odbijaja-brugie.md",
+     "quote": "category: Działania zbrojne front: Front zachodni battle: bitwa-pod-kortrijk date: 1918-10-19 authors: [Łukasz Skowroń] dayOrder: 1 tags: [Belgia, Wielka Brytania, Niemcy, Albert I] milestone: false draft: false --- 19 października 1918 roku wojska belgijskie weszły do Brugii i zajęły jej port morski Zeebrugge."
+    }
+   ]
+  },
+  {
+   "start": "Ostatnim wielkim ciosem U-Bootów było zatopienie statku",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/10/zatopienie-leinstera.md",
+     "quote": "category: Działania zbrojne front: Wojna na morzu date: 1918-10-10 authors: [Łukasz Skowroń] dayOrder: 2 tags: [Irlandia, Wielka Brytania, okręty podwodne, Kaiserliche Marine] milestone: false draft: false --- 10 października 1918 roku, tuż przed dziesiątą rano, niemiecki okręt podwodny UB-123 storpedował na Morzu Irlandzkim irlandzki statek pocztowy Leinster, który godzinę wcześniej wyszedł z Kingstown pod Dublinem do Holyhead w Walii. Statek zatonął kilka kilometrów na wschód od latarniowca Kish, u wejścia do Zatoki Dublińskiej. Według najnowszych ustaleń zginęło około 560–570 osób, żołnierzy, pielęgniarek, urzędników pocztowych i cywilów, kobiet i dzieci."
+    },
+    {
+     "file": "src/content/timeline/1918/10/zatopienie-leinstera.md",
+     "quote": "Kilka dni później, w nocie z 14 października, Wilson wytknął Niemcom, że w chwili, gdy proszą o pokój, ich okręty podwodne topią statki pasażerskie, a nawet łodzie, w których ratują się rozbitkowie."
+    },
+    {
+     "file": "src/content/timeline/1918/10/druga-nota-wilsona.md",
+     "quote": "## Statki i spalone miasta Wilson oświadczył też, że ani Stany Zjednoczone, ani ich sojusznicy nie zgodzą się na rozejm, dopóki niemieckie siły zbrojne nie zaprzestaną „bezprawnych i nieludzkich praktyk”."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "Około 20–21 października, w czasie wymiany not z prezydentem Wilsonem, admirał Reinhard Scheer odwołał wszystkie okręty podwodne do baz i zakazał im atakowania statków handlowych."
+    },
+    {
+     "file": "src/content/postacie/reinhard-scheer.md",
+     "quote": "Operację odwołano, a bunt w Kilonii rozlał się w ciągu kilku dni na całe Niemcy."
+    }
+   ]
+  },
+  {
+   "start": "Zgodnie z rozejmem w Compiègne Niemcy musieli wydać",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "Okręty nawodne miały zostać tylko internowane do czasu decyzji konferencji pokojowej, ale okręty podwodne Niemcy musieli w ciągu 14 dni wydać aliantom na stałe, wszystkie, jakie były zdolne do pływania."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "category: Wojsko front: Wojna na morzu date: 1918-11-20 authors: [Łukasz Skowroń] dayOrder: 2 tags: [okręty podwodne, Kaiserliche Marine, Royal Navy, Wielka Brytania] milestone: false draft: false --- 20 listopada 1918 roku u wybrzeży hrabstwa Essex poddała się pierwsza grupa niemieckich okrętów podwodnych."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "Dwadzieścia U-Bootów, które dwa dni wcześniej wyszły z Wilhelmshaven, przepłynęło Morze Północne i w umówionym miejscu spotkało się z okrętami zespołu z Harwich, którym dowodził kontradmirał Reginald Tyrwhitt."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "Według większości źródeł do kwietnia 1919 roku Niemcy wydali w Harwich łącznie 176 okrętów podwodnych, które stanęły na rzece w szeregu długim na około 3 kilometry i zyskały wśród miejscowych przydomek „aleja U-Bootów”."
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "Część pokazywano potem publiczności w brytyjskich portach, część przekazano Francji, Japonii i innym sojusznikom, a większość poszła na złom."
+    }
+   ]
+  },
+  {
+   "start": "W latach 1914–1918 w służbie niemieckiej marynarki było",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Z okrętami sprzed wojny. Clodfelter: 351 okrętów operacyjnych (24 w 1914 r. + 327 wprowadzonych do służby w czasie wojny); historycrunch: zbudowano 373; uboat.net: 375"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "uboat.net: 202 (z samozatopionymi przy ewakuacji Poli, Kotoru i Flandrii); Clodfelter: 217 (178 w walce i 39 z innych przyczyn)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Według Clodfeltera 41 na minach, 30 bombami głębinowymi i 13 przez statki-pułapki; zginęło ok. 5 tys. członków załóg"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"W służbie w chwili rozejmu\", \"labelEn\": \"In service at the armistice\", \"low\": 134,"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Okręty podwodne Kaiserliche Marine (typy U, UB, UC i UA), bez okrętów austro-węgierskich i bez jednostek ukończonych po rozejmie. Źródła liczą różnie: jedne tylko okręty operacyjne, inne wszystkie wprowadzone do służby, a do strat jedne wliczają okręty samozatopione na Adriatyku i we Flandrii jesienią 1918 roku oraz wypadki, inne nie. Przedział to rozrzut liczb w podanych źródłach."
+    }
+   ]
+  },
+  {
+   "start": "U-Booty zatopiły prawie 5 tysięcy statków o łącznej",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/U-boat_campaign",
+     "quote": "German U-boats sank almost 5,000 ships with over 12 million gross register tonnage"
+    },
+    {
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "Kapitulacja zamknęła wojnę podwodną, w której według serwisu uboat.net Niemcy zatopili około 5 tysięcy statków i stracili 178 okrętów i około 5 tysięcy marynarzy."
+    },
+    {
+     "url": "https://uboat.net/wwi/",
+     "quote": "View our ships attacked database of over 7,400 ships in 7,600 incidents."
+    },
+    {
+     "url": "https://uboat.net/wwi/ships_hit/losses_year.html",
+     "quote": "Note: The figures include all ships hit (sunk, damaged, captured etc.)."
+    },
+    {
+     "url": "https://archive.org/details/seabornetrade03char",
+     "quote": "the monthly wastage had long continued to exceed appreciably the replacement of shipping"
+    }
+   ]
+  },
+  {
+   "start": "Czy nieograniczona wojna podwodna była największym",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Wniosek był jasny: nieograniczona wojna podwodna, rozpoczęta w porę, zmusi Wielką Brytanię do pokoju przed żniwami, czyli przed 1 sierpnia 1917 roku, a ryzyko zerwania z Ameryką trzeba przyjąć, „bo nie mamy innego wyjścia”. Kanclerz Theobald von Bethmann Hollweg prosił o zwłokę przynajmniej do odpowiedzi Ententy na niemiecką ofertę pokojową. Wicekanclerz Karl Helfferich uważał rachunki admiralicji za czystą spekulację, zwłaszcza że całkowicie pomijały zasoby Ameryki."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "„Wojna podwodna to ostatnia karta."
+    },
+    {
+     "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-811",
+     "quote": "The German leadership reckoned with American entry but calculated that this assistance would come too late."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Blokada pogłębiła w Niemczech i Austro-Węgrzech niedobory żywności i surowców; liczbę cywilnych ofiar głodu i chorób szacuje się na kilkaset tysięcy. Niemcy przedstawiali wojnę podwodną jako odpowiedź na nią. Blokadę utrzymano po rozejmie, do lipca 1919 roku. Słowem „blokada” określa się też blokady innych wybrzeży, np. Grecji czy Kamerunu."
+    },
+    {
+     "file": "src/data/glossary.json",
+     "quote": "Blokada pogłębiła w Niemczech i Austro-Węgrzech niedobory żywności i surowców; liczbę cywilnych ofiar głodu i chorób szacuje się na kilkaset tysięcy. Niemcy przedstawiali wojnę podwodną jako odpowiedź na nią. Blokadę utrzymano po rozejmie, do lipca 1919 roku. Słowem „blokada” określa się też blokady innych wybrzeży, np. Grecji czy Kamerunu."
+    }
+   ]
+  },
+  {
+   "start": "Historyk Holger Herwig z Uniwersytetu w Calgary",
+   "quotes": [
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "Quantitatively, the Admiralty Staff's predictions proved extremely accurate. [...] But Britain had not been \"brought to its knees\" by August 1, 1917."
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "First, Holtzendorff and his experts failed to appreciate that a modern industrial state can tap into almost inexhaustible lines of credits [...] Then, as expected, on April 6 the United States entered the war, thereby turning the tide against Germany."
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "London introduced mild forms of rationing, and by adding other types of flour to wheat created a so-called \"war bread\" that in 1917-8 saved about thirteen weeks' consumption of wheat flour."
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "gave county officials the power to force farmers to put about 1 million acres of grasslands under the plow; [...] Nor did they anticipate that London could requisition neutral and interned German ships"
+    },
+    {
+     "url": "https://jmss.org/article/view/57619/43290",
+     "quote": "I have suggested that while the rhetoric was \"total,\" the reality was limited. [...] Germany's unrestricted submarine campaign was limited in large measure only by inadequate force size."
+    }
+   ]
+  }
+ ]
+}

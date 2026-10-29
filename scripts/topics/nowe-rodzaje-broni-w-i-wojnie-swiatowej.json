@@ -448,12 +448,16 @@
      "quote": "zginęło ok. 5 tys. członków załóg"
     },
     {
-     "url": "https://uboat.net/wwi/boats/",
-     "quote": "During 1914-1918 375 U-boats sank about 7,677 merchant ships (15,717,187 tons)."
+     "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
+     "quote": "20 listopada 1918 pierwsze 20 niemieckich okrętów podwodnych poddało się pod Harwich zespołowi kontradmirała Tyrwhitta."
     },
     {
      "file": "src/content/timeline/1918/11/kapitulacja-u-bootow.md",
-     "quote": "20 listopada 1918 pierwsze 20 niemieckich okrętów podwodnych poddało się pod Harwich zespołowi kontradmirała Tyrwhitta."
+     "quote": "Kapitulacja zamknęła wojnę podwodną, w której według serwisu uboat.net Niemcy zatopili około 5 tysięcy statków i stracili 178 okrętów i około 5 tysięcy marynarzy."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/U-boat_campaign",
+     "quote": "German U-boats sank almost 5,000 ships with over 12 million gross register tonnage"
     }
    ]
   },

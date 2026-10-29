@@ -1,0 +1,823 @@
+{
+ "slug": "dlaczego-niemcy-przegraly-wojne",
+ "paragraphs": [
+  {
+   "start": "Niemcy przegrały I wojnę światową, bo nie zdołały jej s",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Operacja Michael, trwająca od 21 marca do 5 kwietnia 1918 roku, była pierwszą i największą z niemieckich ofensyw wiosennych, którymi Ludendorff chciał rozstrzygnąć wojnę przed przybyciem Amerykanów."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 11 mln; rząd niemiecki dla MBP: 13,25 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 12 mln; MBP: 15,07 mln; Kriwoszejew: 15,38 mln"
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+     "quote": "stoczona we wrześniu 1914 roku"
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+     "quote": "Niemcy zostali skazani na długą wojnę na dwóch frontach, której ich sztabowcy najbardziej się obawiali."
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "Wojnę podwodną Niemcy przedstawiali jako odpowiedź na brytyjską blokadę morską, ale to właśnie ona wciągnęła do wojny Stany Zjednoczone."
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "21 marca Erich Ludendorff rozpoczął operację Michael, pierwszą z ofensyw, którymi chciał wygrać wojnę, zanim do Francji dotrą Amerykanie."
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "We wrześniu Allenby rozbił Turków pod Megiddo, Bułgaria jako pierwsza z państw centralnych złożyła broń, a 29 września Brytyjczycy uderzyli na Linię Hindenburga. Tego samego dnia Hindenburg i Ludendorff zażądali, by Niemcy natychmiast poprosiły o rozejm."
+    }
+   ]
+  },
+  {
+   "start": "Niemiecki plan wojny zakładał, że w wojnie na dwa front",
+   "quotes": [
+    {
+     "file": "src/content/topics/przyczyny-i-wojny-swiatowej.md",
+     "quote": "przewidział, że w wojnie na dwa fronty Niemcy najpierw rozbiją Francję, obchodząc jej silnie umocnioną granicę przez Belgię i Holandię, a dopiero potem zwrócą się przeciw Rosji"
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-wycofuja-sie-znad-marny.md",
+     "quote": "9 września 1914 roku armie niemieckiego prawego skrzydła zaczęły się wycofywać znad Marny."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+     "quote": "Niemiecki plan pokonania Francji w kilka tygodni upadł"
+    },
+    {
+     "file": "src/content/timeline/1914/09/falkenhayn-zastepuje-moltkego.md",
+     "quote": "generał Helmuth von Moltke, szef Sztabu Generalnego Armii Polowej, został odsunięty od dowodzenia armią niemiecką"
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+     "quote": "Niemcy zostali skazani na długą wojnę na dwóch frontach, której ich sztabowcy najbardziej się obawiali."
+    }
+   ]
+  },
+  {
+   "start": "Po wyścigu do morza od wybrzeża belgijskiego po granicę",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+     "quote": "Pod koniec 1914 roku od wybrzeża belgijskiego po granicę Szwajcarii ciągnęła się nieprzerwana linia okopów."
+    },
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "Uważał, że Niemcy nie zdołają rozbić wszystkich przeciwników naraz, i prowadził wojnę na wyczerpanie"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 11 mln; rząd niemiecki dla MBP: 13,25 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 12 mln; MBP: 15,07 mln; Kriwoszejew: 15,38 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "MBP: 7,94 mln; Departament Wojny USA: 8,41 mln"
+    }
+   ]
+  },
+  {
+   "start": "Od pierwszych miesięcy wojny brytyjska flota odcinała N",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/11/morze-polnocne-strefa-wojenna.md",
+     "quote": "2 listopada 1914 roku brytyjska Admiralicja ogłosiła, że całe Morze Północne należy odtąd uważać za obszar wojskowy."
+    },
+    {
+     "file": "src/content/timeline/1915/03/brytyjskie-rozporzadzenie-odwetowe.md",
+     "quote": "11 marca 1915 Wielka Brytania wydała rozporządzenie o zatrzymywaniu towarów płynących do Niemiec i z Niemiec"
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "Wojnę podwodną Niemcy przedstawiali jako odpowiedź na brytyjską blokadę morską"
+    }
+   ]
+  },
+  {
+   "start": "Blokada odcięła Niemcy od importu żywności. Państwo prz",
+   "quotes": [
+    {
+     "file": "src/content/postacie/georg-michaelis.md",
+     "quote": "Blokada morska odcięła Niemcy od importu żywności, a państwo musiało przejąć skup i rozdział zboża."
+    },
+    {
+     "file": "src/content/postacie/georg-michaelis.md",
+     "quote": "Jego urząd stał się jednym z filarów systemu kartek i przydziałów"
+    },
+    {
+     "file": "src/content/postacie/georg-michaelis.md",
+     "quote": "Pod koniec 1916 roku doradzał w tych sprawach rządom Austro-Węgier i Turcji. W lutym 1917 roku, w środku „zimy brukwiowej”, został pruskim komisarzem do spraw wyżywienia."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "That period became known as the Steckrübenwinter or Turnip Winter."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/alltagsleben/kohlruebenwinter-191617",
+     "quote": "wurden 1915 Rationierung und Zwangsbewirtschaftung von Nahrungsmitteln eingeführt."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/alltagsleben/kohlruebenwinter-191617",
+     "quote": "Die Kartoffelernte lag nur bei 50 Prozent des durchschnittlichen Ertrags."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/alltagsleben/kohlruebenwinter-191617",
+     "quote": "so fiel die Zufuhr 1917 meist unter 1.000 Kalorien."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/alltagsleben/kohlruebenwinter-191617",
+     "quote": "Schleichhandel und Wuchergeschäfte blühten."
+    }
+   ]
+  },
+  {
+   "start": "Według różnych szacunków blokada zabiła od 0,3 do 0,76 ",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Rozrzut wynika z liczby ofiar blokady (0,3–0,76 mln)"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/alltagsleben/kohlruebenwinter-191617",
+     "quote": "schätzungsweise bis zu 700.000 Menschen an Hunger und Unterernährung."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "763,000 German civilians had already died from starvation and disease caused by the blockade."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "An academic study done in 1928 put the death toll at 424,000."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "The blockade would therefore continue until Germany would sign a formal peace agreement."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "The remaining restrictions were finally lifted on 12 July 1919 after Germany had signed the Treaty of Versailles."
+    }
+   ]
+  },
+  {
+   "start": "W lutym 1916 roku Falkenhayn rozpoczął natarcie pod Ver",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "W lutym 1916 roku rozpoczął natarcie pod Verdun, które miało wykrwawić armię francuską."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-verdun.md",
+     "quote": "Niemcy nie opanowali wzgórz nad Mozą, a sami ponieśli straty porównywalne z francuskimi."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Francuzi ok. 377–400 tys., Niemcy ok. 333–355 tys."
+    },
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "1 lipca Brytyjczycy i Francuzi uderzyli nad Sommą, a na wschodzie ofensywa Brusiłowa rozbiła front austro-węgierski."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Imperium Brytyjskie ok. 420 tys., Francuzi ok. 200 tys., Niemcy od ok. 450 do 600 tys."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "do końca bitwy wykrwawiło się to, co pozostało ze starej, wyszkolonej w czasie pokoju niemieckiej piechoty"
+    }
+   ]
+  },
+  {
+   "start": "29 sierpnia 1916 roku cesarz odwołał Falkenhayna, a nac",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "29 sierpnia 1916 roku w Pszczynie na Górnym Śląsku, gdzie mieściła się wtedy niemiecka kwatera główna, cesarz Wilhelm II odwołał generała Ericha von Falkenhayna"
+    },
+    {
+     "file": "src/content/timeline/1916/08/hindenburg-szefem-sztabu-generalnego.md",
+     "quote": "Już 31 sierpnia Hindenburg i Ludendorff przedstawili żądania gwałtownego zwiększenia produkcji broni i amunicji, znane jako program Hindenburga."
+    },
+    {
+     "file": "src/content/postacie/paul-von-hindenburg.md",
+     "quote": "Program Hindenburga miał podwoić produkcję amunicji i potroić produkcję dział oraz karabinów maszynowych, a ustawa o pomocniczej służbie ojczyźnie z grudnia 1916 roku obejmowała obowiązkiem pracy wszystkich mężczyzn od 17 do 60 lat."
+    },
+    {
+     "file": "src/content/postacie/wilhelm-groener.md",
+     "quote": "przy pruskim ministerstwie wojny utworzono Urząd Wojenny (Kriegsamt), a jego szefem, w stopniu generała porucznika, został Groener. Urząd miał kierować surowcami, uzbrojeniem i siłą roboczą całego kraju."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/industrie-und-wirtschaft/hilfspflichtgesetz",
+     "quote": "zur Erhöhung der eigenen Rekrutierungszahlen und zur massiven Ausweitung der deutschen Rüstungsproduktion"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/industrie-und-wirtschaft/hilfspflichtgesetz",
+     "quote": "zwischen dem vollendeten 16. und 60. Lebensjahr"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/industrie-und-wirtschaft/hilfspflichtgesetz",
+     "quote": "einen erheblichen Kohlemangel auslöste und dadurch zu gravierenden Transportproblemen führte"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/industrie-und-wirtschaft/hilfspflichtgesetz",
+     "quote": "eine wesentliche Steigerung der Rüstungsproduktion wurde damit zunächst aber nicht erreicht"
+    }
+   ]
+  },
+  {
+   "start": "Armia coraz trudniej uzupełniała straty. Wiosną 1917 ro",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "tak wykrwawiła armię niemiecką, że wiosną 1917 roku Niemcy wycofali się na nową, krótszą linię obrony."
+    },
+    {
+     "file": "src/content/postacie/paul-von-hindenburg.md",
+     "quote": "którą Brytyjczycy nazwali Linią Hindenburga"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA (1924): 1,77 mln; niemiecka historia oficjalna (1934): 2,04 mln"
+    }
+   ]
+  },
+  {
+   "start": "Wyjściem z położenia miała być wojna podwodna. 31 stycz",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "31 stycznia 1917 Niemcy zawiadomili USA, że od następnego dnia ich okręty podwodne będą bez ostrzeżenia zatapiać wszystkie statki wokół Wysp Brytyjskich."
+    },
+    {
+     "file": "src/content/timeline/1917/02/poczatek-nieograniczonej-wojny-podwodnej.md",
+     "quote": "W strefach wokół Wielkiej Brytanii, Francji i Włoch oraz na wschodnim Morzu Śródziemnym okręty podwodne miały odtąd zatapiać bez ostrzeżenia każdy napotkany statek, także pod banderą neutralną. Admirał Henning von Holtzendorff obiecywał, że w ten sposób zmusi Wielką Brytanię do pokoju w ciągu pięciu miesięcy."
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "Niemcy zawiadamiali w niej, że od 1 lutego"
+    },
+    {
+     "file": "src/content/timeline/1917/01/telegram-zimmermanna.md",
+     "quote": "ambasada Niemiec w Waszyngtonie przekazała do Meksyku tajną ofertę sojuszu przeciw USA"
+    },
+    {
+     "file": "src/content/timeline/1917/02/publikacja-telegramu-zimmermanna.md",
+     "quote": "Wieczorem 28 lutego 1917 Departament Stanu przekazał agencji AP tekst telegramu Zimmermanna. Nazajutrz niemiecka oferta dla Meksyku trafiła na pierwsze strony."
+    },
+    {
+     "file": "src/content/timeline/1917/04/usa-wypowiadaja-wojne-niemcom.md",
+     "quote": "6 kwietnia 1917 Izba Reprezentantów przyjęła rezolucję wojenną, a Wilson ją podpisał. Stany Zjednoczone znalazły się w stanie wojny z Niemcami."
+    }
+   ]
+  },
+  {
+   "start": "Wojna podwodna nie złamała Wielkiej Brytanii. W kwietni",
+   "quotes": [
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "W kwietniu zatopiły, zależnie od zestawienia, od około 835 do 880 tysięcy ton, najwięcej w całej wojnie."
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "Ratunkiem okazały się konwoje."
+    },
+    {
+     "file": "src/content/timeline/1917/04/kongres-uchwala-pobor-do-wojska.md",
+     "quote": "28 kwietnia 1917 obie izby Kongresu przyjęły ustawy o powiększeniu armii przez pobór."
+    },
+    {
+     "file": "src/content/timeline/1917/04/kongres-uchwala-pobor-do-wojska.md",
+     "quote": "Do końca wojny w ten sposób powołano do wojska około 2,8 miliona Amerykanów"
+    },
+    {
+     "file": "src/content/timeline/1917/06/pierwsi-amerykanscy-zolnierze-we-francji.md",
+     "quote": "26 czerwca 1917 w Saint-Nazaire zeszli na ląd pierwsi żołnierze amerykańskiej 1 Dywizji."
+    },
+    {
+     "file": "src/content/postacie/woodrow-wilson.md",
+     "quote": "Latem 1918 roku do Francji przypływało nawet po 10 tysięcy Amerykanów dziennie, a do listopada było ich tam blisko dwa miliony."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "quote": "In July 1918, the Allies regained their numerical advantage with the arrival of American troops."
+    }
+   ]
+  },
+  {
+   "start": "Wyjście Rosji z wojny dało Niemcom ostatnią szansę. 3 m",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 Rosja Radziecka podpisała w Brześciu pokój z państwami centralnymi."
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Przez zimę Niemcy przerzucali na zachód dywizje z Rosji i Włoch. Według brytyjskiej historii oficjalnej liczba niemieckich dywizji we Francji i Belgii wzrosła od listopada 1917 roku ze 150 do 192 w dniu 21 marca."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "quote": "About a million German soldiers remained tied up"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "którymi Erich Ludendorff chciał rozstrzygnąć wojnę, zanim do Francji dotrą masy wojsk amerykańskich"
+    }
+   ]
+  },
+  {
+   "start": "Operacja Michael, rozpoczęta 21 marca, była największym",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Operacja Michael, trwająca od 21 marca do 5 kwietnia 1918 roku"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Pod względem taktycznym operacja Michael była największym sukcesem na froncie zachodnim od 1914 roku. W ciągu szesnastu dni Niemcy posunęli się o ponad 60 kilometrów"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "21 marca, po huraganowym ostrzale, ponad sześćdziesiąt dywizji ruszyło w gęstej mgle. Oddziały szturmowe przeszły przez brytyjskie linie"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Niemcy posunęli się o ponad 60 kilometrów i wzięli około 75 tysięcy jeńców brytyjskich, ale nie rozdzielili armii sprzymierzonych."
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Kryzys sprawił, że 26 marca w Doullens sprzymierzeni powierzyli Fochowi koordynację działań swoich armii."
+    },
+    {
+     "file": "src/content/timeline/1918/04/foch-naczelnym-wodzem.md",
+     "quote": "14 kwietnia 1918 gen. Foch otrzymał tytuł naczelnego wodza armii sojuszniczych we Francji."
+    }
+   ]
+  },
+  {
+   "start": "Kolejne uderzenia przyszły nad Lys we Flandrii, gdzie m",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-nad-lys-1918.md",
+     "quote": "W czasie bitwy marszałek Douglas Haig wydał swój najsłynniejszy rozkaz, w którym wzywał żołnierzy do walki „plecami do muru”."
+    },
+    {
+     "file": "src/content/battles/1918/trzecia-bitwa-nad-aisne.md",
+     "quote": "a 30 maja doszli do Marny"
+    },
+    {
+     "file": "src/content/battles/1918/trzecia-bitwa-nad-aisne.md",
+     "quote": "francuskie odwody i pierwsze dywizje amerykańskie zamknęły drogę na Paryż"
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "15 lipca 1918 roku trzy niemieckie armie uderzyły po obu stronach Reims w piątej i ostatniej wielkiej ofensywie niemieckiej 1918 roku."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "Francuzi znali dzień i godzinę ataku."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "18 lipca Foch rzucił kontrofensywę na zachodnie skrzydło występu."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "Inicjatywa na froncie zachodnim przeszła w ich ręce do końca wojny."
+    }
+   ]
+  },
+  {
+   "start": "Ofensywy zawiodły z kilku powodów. Niemcy nie mieli ruc",
+   "quotes": [
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/fruehjahrsoffensive-1918",
+     "quote": "Die physische Erschöpfung der deutschen Soldaten, mangelhafte Nachschub- und Reserveversorgung"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/fruehjahrsoffensive-1918",
+     "quote": "der größer werdende Frontbogen verschlechterte die Nachschubversorgung für die deutschen Verbände erheblich"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "quote": "The Germans also failed to arm their forces with a mobile exploitation force, such as cavalry, to exploit gains quickly."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "quote": "The fast-moving stormtrooper units could not carry enough food and ammunition to sustain themselves for long"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "quote": "The territorial gains were in the form of salients which greatly increased the length of the line"
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "głodni żołnierze w wielu miejscach zatrzymywali się, by plądrować brytyjskie magazyny"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "21 marca – 18 lipca 1918; sprzymierzeni ok. 863 tys. (Churchill), Niemcy 688 tys. (Reichsarchiv wg Churchilla) do ok. 800 tys."
+    },
+    {
+     "file": "src/content/battles/1918/trzecia-bitwa-nad-aisne.md",
+     "quote": "Monografia dodaje, że w przeciwieństwie do sprzymierzonych Niemcy nie mieli już czym uzupełnić poległych."
+    },
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Niemcy stracili najwięcej w najlepszych dywizjach szturmowych, których nie mieli czym zastąpić."
+    }
+   ]
+  },
+  {
+   "start": "8 sierpnia Brytyjczycy i Francuzi uderzyli pod Amiens. ",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "Rankiem 8 sierpnia 1918 roku brytyjska 4 Armia generała Henry'ego Rawlinsona, w której główną siłę stanowiły Korpus Kanadyjski i Korpus Australijski, uderzyła we mgle, bez wcześniejszego przygotowania artyleryjskiego, z ponad czterystoma czołgami bojowymi"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "Do wieczora sprzymierzeni posunęli się w środku o 12–13 kilometrów i wzięli około 15 tysięcy jeńców."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "„czarnym dniem armii niemieckiej w historii tej wojny”"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "że całe oddziały poddawały się pojedynczym jeźdźcom, że niektórzy oficerowie stracili władzę nad żołnierzami, a cofający się żołnierze wołali do dywizji idących na front „łamistrajki” i „przedłużacze wojny”"
+    },
+    {
+     "file": "src/content/timeline/1918/08/narada-w-spa.md",
+     "quote": "14 sierpnia 1918 rada koronna w Spa uznała, że Niemcy nie wygrają wojny militarnie. Postanowiono szukać pokoju, ale dopiero w „stosownej chwili”."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/die-schlacht-bei-amiens-1918",
+     "quote": "dass die Kampfmoral der deutschen Soldaten gebrochen war"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/die-schlacht-bei-amiens-1918",
+     "quote": "überzeugt, dass der Krieg mit militärischen Mitteln nicht mehr zu gewinnen war"
+    }
+   ]
+  },
+  {
+   "start": "Foch nie dał Niemcom odpocząć. Haig doszedł do wniosku,",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "Foch nie dał Niemcom odpocząć."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "Haig wyciągnął z tego wniosek, że zamiast przebijać się przez coraz silniejszą obronę, trzeba uderzać w nowym miejscu."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hundred_Days_Offensive",
+     "quote": "Foch planned a series of concentric attacks"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-saint-mihiel.md",
+     "quote": "12 września 1918 roku 1 Armia generała Johna Pershinga"
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "26 września 1918 roku amerykańska 1 Armia generała Johna Pershinga uderzyła na północ"
+    },
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "27 września Brytyjczycy i Kanadyjczycy sforsowali Kanał du Nord przed Cambrai, a 28 września Belgowie, Brytyjczycy i Francuzi w jeden dzień odzyskali pod Ypres cały teren"
+    },
+    {
+     "file": "src/content/battles/1918/bitwy-o-linie-hindenburga.md",
+     "quote": "brytyjska 1, 3 i 4 Armia, a z nimi Kanadyjczycy, Australijczycy, Nowozelandczycy i dwie dywizje amerykańskie, zdobyły najsilniejszą niemiecką pozycję na froncie zachodnim"
+    }
+   ]
+  },
+  {
+   "start": "Sprzymierzeni wygrywali, bo nauczyli się walczyć inacze",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwa-pod-amiens.md",
+     "quote": "Bitwa pokazała też, że armia brytyjska nauczyła się walczyć na nowo. Zaskoczenie, ogień bez wstrzeliwania dział, masy czołgów, lotnictwo i dokładnie przygotowana logistyka pozwoliły przełamać front w ciągu kilku godzin."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "Kontrofensywa z 18 lipca pokazała z kolei, jak walczyć dalej: zaskoczenie zamiast wielodniowego ostrzału, wał ogniowy, masy czołgów"
+    },
+    {
+     "file": "src/content/topics/nowe-rodzaje-broni-w-i-wojnie-swiatowej.md",
+     "quote": "Pod Hamel 4 lipca Australijczycy generała Johna Monasha z czołgami Mark V zdobyli swój cel w około półtorej godziny."
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-moza-argonne.md",
+     "quote": "Główna rola w zwycięskiej jesieni 1918 roku przypadła armiom brytyjskim i francuskim, które wzięły znacznie więcej jeńców i zajęły więcej terenu. Ofensywa nad Mozą przyciągnęła jednak dziesiątki dywizji niemieckich"
+    }
+   ]
+  },
+  {
+   "start": "Armia niemiecka topniała. W ofensywie stu dni, od 8 sie",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Hundred_Days_Offensive",
+     "quote": "8 August – 11 November 1918 (95 days)"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hundred_Days_Offensive",
+     "quote": "188,700 prisoners, 2,840 guns"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Hundred_Days_Offensive",
+     "quote": "French: 139,000 prisoners, 1,880 guns"
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "bataliony były osłabione stratami i grypą"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Collapse_of_the_Imperial_German_Army",
+     "quote": "about 800,000 to 1,000,000 soldiers refused to follow the orders of their military superiors"
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "jeńcy brani po 15 lipca nie wierzyli już w obiecywany zwycięski pokój"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/die-schlacht-bei-amiens-1918",
+     "quote": "die Grippe, die seit Frühjahr 1918 alle Armeen heimsuchte"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/die-schlacht-bei-amiens-1918",
+     "quote": "zu Tausenden resigniert ergaben"
+    }
+   ]
+  },
+  {
+   "start": "Jesienią rozpadał się cały blok państw centralnych. 15 ",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/ofensywa-nad-wardarem.md",
+     "quote": "15 września Serbowie i Francuzi przełamali bułgarskie pozycje pod Dobrym Polem"
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-nad-wardarem.md",
+     "quote": "pościg, który w dwa tygodnie rozciął bułgarski front na dwie części"
+    },
+    {
+     "file": "src/content/timeline/1918/09/rozejm-w-salonikach.md",
+     "quote": "29 września 1918 Bułgaria podpisała w Salonikach rozejm z Ententą."
+    },
+    {
+     "file": "src/content/timeline/1918/09/rozejm-w-salonikach.md",
+     "quote": "Imperium Osmańskie zostało odcięte lądem od Niemiec, a Austro-Węgry odsłonięte od południa."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-megiddo.md",
+     "quote": "19–25 września 1918 Allenby przełamał front turecki"
+    },
+    {
+     "file": "src/content/timeline/1918/10/rozejm-w-mudros.md",
+     "quote": "30 października 1918 na pancerniku „Agamemnon” w Mudros Imperium Osmańskie podpisało rozejm z Ententą."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-vittorio-veneto.md",
+     "quote": "rozbili armię austro-węgierską, która rozpadła się wraz z monarchią Habsburgów"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md",
+     "quote": "3 listopada 1918 pod Padwą Austro-Węgry podpisały rozejm z aliantami."
+    }
+   ]
+  },
+  {
+   "start": "Klęska Bułgarii i natarcia na zachodzie przesądziły spr",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/bitwy-o-linie-hindenburga.md",
+     "quote": "Przełamanie zbiegło się z klęską Bułgarii na froncie macedońskim i z natarciem Amerykanów i Francuzów w Argonnach."
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/die-schlacht-bei-amiens-1918",
+     "quote": "Am 29. September 1918 gestand Ludendorff gegenüber der Reichsregierung die Ausweglosigkeit ein"
+    },
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "29 września 1918 w Spa Hindenburg i Ludendorff zażądali natychmiastowej prośby o rozejm. Cesarz zgodził się na apel do Wilsona i na rząd parlamentarny."
+    },
+    {
+     "file": "src/content/timeline/1918/10/noty-pokojowe-do-wilsona.md",
+     "quote": "Książę Max, mianowany kanclerzem dzień wcześniej, uważał pośpiech za błąd."
+    },
+    {
+     "file": "src/content/timeline/1918/10/noty-pokojowe-do-wilsona.md",
+     "quote": "W nocy z 3 na 4 października 1918 roku nowy kanclerz Rzeszy, książę Max von Baden, wysłał przez Szwajcarię notę do prezydenta Stanów Zjednoczonych Woodrowa Wilsona."
+    },
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "Wymiana not ciągnęła się przez cały październik"
+    },
+    {
+     "file": "src/content/timeline/1918/10/dymisja-ludendorffa.md",
+     "quote": "W połowie miesiąca generał patrzył na położenie inaczej."
+    },
+    {
+     "file": "src/content/timeline/1918/10/dymisja-ludendorffa.md",
+     "quote": "26 października 1918 cesarz przyjął dymisję generała Ericha Ludendorffa. Kanclerz zażądał jej po rozkazie, w którym wojsko odrzuciło trzecią notę Wilsona."
+    },
+    {
+     "file": "src/content/timeline/1918/10/dymisja-ludendorffa.md",
+     "quote": "W nocie z 23 października prezydent Wilson"
+    }
+   ]
+  },
+  {
+   "start": "Tymczasem admirałowie, bez wiedzy rządu, szykowali Flot",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "Rządu księcia Maksa Badeńskiego, który właśnie zabiegał o rozejm, o niczym nie poinformowano."
+    },
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "nie zamierzali ginąć w „rejsie śmierci” na kilka dni przed końcem wojny"
+    },
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "3 listopada 1918 patrol w Kilonii strzelał do pochodu marynarzy i robotników. Nazajutrz miasto było w rękach rad żołnierskich."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+     "quote": "9 listopada 1918 rewolucja dotarła do Berlina. Kanclerz ogłosił abdykację cesarza i oddał władzę Ebertowi, a Scheidemann proklamował republikę."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+     "quote": "generał Wilhelm Groener oznajmił cesarzowi, że armia nie pójdzie już za nim"
+    }
+   ]
+  },
+  {
+   "start": "11 listopada o świcie niemieccy delegaci, wśród nich se",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Za Niemcy podpisali sekretarz stanu Matthias Erzberger"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "W ciągu 15 dni Niemcy musieli ewakuować Belgię, Francję, Luksemburg oraz Alzację-Lotaryngię"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Armia niemiecka musiała wydać 5000 dział, 25 tysięcy karabinów maszynowych"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Na morzu Niemcy mieli w ciągu 14 dni wydać wszystkie okręty podwodne, a 6 krążowników liniowych, 10 pancerników, 8 krążowników lekkich i 50 najnowszych niszczycieli floty pełnomorskiej rozbroić i internować"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Blokada morska Niemiec pozostawała w mocy"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Układ nie przesądzał granic ani odszkodowań, ale odbierał Niemcom możliwość wznowienia wojny."
+    }
+   ]
+  },
+  {
+   "start": "Decyzja o prośbie o rozejm zaskoczyła polityków, którym",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "Decyzja z 29 września zaskoczyła polityków, którym od miesięcy mówiono o rychłym zwycięstwie."
+    },
+    {
+     "file": "src/content/timeline/1918/10/dymisja-ludendorffa.md",
+     "quote": "według której niepokonana w polu armia została zdradzona przez polityków w kraju"
+    },
+    {
+     "file": "src/content/timeline/1917/07/rezolucja-pokojowa-reichstagu.md",
+     "quote": "19 lipca 1917 Reichstag"
+    },
+    {
+     "file": "src/content/timeline/1917/07/rezolucja-pokojowa-reichstagu.md",
+     "quote": "Skrajna prawica uznała natomiast rezolucję za pierwszy krok do „ciosu w plecy” zadanego armii."
+    },
+    {
+     "file": "src/content/timeline/1918/10/max-badenski-kanclerzem.md",
+     "quote": "Generał Erich Ludendorff mówił 1 października swoim oficerom, że ludzie, którzy doprowadzili do takiego położenia, powinni teraz „zjeść zupę, którą nawarzyli”."
+    },
+    {
+     "file": "src/content/timeline/1918/10/max-badenski-kanclerzem.md",
+     "quote": "3 października 1918 kanclerzem Rzeszy"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Stab-in-the-back_myth",
+     "quote": "On 18 November 1919, Ludendorff and Hindenburg appeared before the Committee of Inquiry into Guilt for World War I"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Stab-in-the-back_myth",
+     "quote": "As an English general has very truly said, the German Army was 'stabbed in the back'"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende",
+     "quote": "am 18. November 1919 vor dem Untersuchungsausschuss der Nationalversammlung"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende",
+     "quote": "von hinten erdolcht worden"
+    }
+   ]
+  },
+  {
+   "start": "Historycy zgodnie odrzucają tę legendę. To Hindenburg i",
+   "quotes": [
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende",
+     "quote": "erkannt, dass die erschöpften deutschen Streitkräfte zur weiteren Kriegsführung nicht mehr imstande waren"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende",
+     "quote": "weshalb sie durch die Reichsregierung Waffenstillstandverhandlungen aufnehmen ließ"
+    },
+    {
+     "url": "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende",
+     "quote": "Vor allem die Parteien der extremen Rechten"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Stab-in-the-back_myth",
+     "quote": "unanimously reject the myth."
+    },
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "29 września 1918 roku w Spa, belgijskim uzdrowisku, w którym mieściła się niemiecka kwatera główna, przywódcy armii oznajmili cesarzowi i ministrowi spraw zagranicznych, że wojny nie da się już prowadzić dalej i że Niemcy muszą natychmiast poprosić o rozejm."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Stab-in-the-back_myth",
+     "quote": "point to lack of further Imperial German Army reserves"
+    },
+    {
+     "file": "src/content/timeline/1918/09/rozejm-w-salonikach.md",
+     "quote": "W ciągu następnych sześciu tygodni rozejmy podpisały kolejno Imperium Osmańskie, Austro-Węgry i Niemcy."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_spring_offensive",
+     "quote": "In July 1918, the Allies regained their numerical advantage with the arrival of American troops."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "Część historyków zwraca uwagę, że polecenie podpisania przyszło w praktyce od naczelnego dowództwa, a nowy rząd Eberta jedynie je potwierdził."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+     "quote": "Ta legenda ciążyła nad Republiką Weimarską przez całe jej istnienie."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Adolf Hitler wykorzystał tę urazę w drodze do władzy."
+    }
+   ]
+  },
+  {
+   "start": "Spór toczy się dziś o co innego: co ważyło najwięcej. B",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "All scholars agree that the blockade made a large contribution to the outcome of the war."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Blockade_of_Germany_(1914–1919)",
+     "quote": "Others hold that the armistice on 11 November was forced primarily by events on the Western Front."
+    },
+    {
+     "file": "src/content/timeline/1918/09/ludendorff-zada-rozejmu.md",
+     "quote": "czy żądanie rozejmu było wybuchem paniki przemęczonego generała, czy chłodną kalkulacją, by przerzucić odpowiedzialność za klęskę na parlament"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Collapse_of_the_Imperial_German_Army",
+     "quote": "verdeckter Militärstreik or hidden army strike"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Stab-in-the-back_myth",
+     "quote": "that Germany had already lost the war militarily by late 1918."
+    }
+   ]
+  }
+ ]
+}

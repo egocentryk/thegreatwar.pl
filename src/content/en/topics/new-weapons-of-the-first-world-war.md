@@ -9,7 +9,7 @@ brief:
   - "Aircraft went from reconnaissance to fighter combat and the bombing of cities, and on 1 April 1918 the British Royal Air Force was formed."
   - "Unrestricted submarine warfare, resumed on 1 February 1917, nearly cut Britain off from its supplies, but convoys stopped it, and it brought the United States into the war."
 source: nowe-rodzaje-broni-w-i-wojnie-swiatowej
-sourceHash: 7b1388752219d995ad506101828380fe52645029
+sourceHash: c7a17e1831247b4d7aba1fc7ece1f5ed2907d04b
 ---
 
 The First World War was the first great industrial war, in which machines and factories decided the fate of battles. Quick-firing artillery, machine guns and barbed-wire entanglements gave defenders so great an advantage that in the autumn of 1914 the Western Front froze in the trenches. Trying to get it moving again, both sides turned to weapons that were new or had never before been used on a large scale: poison gas, flamethrowers, tanks, fighter and bomber aircraft, airships and submarines. None of them won the war on its own, but together they changed the way war was fought on land, in the air and at sea.
@@ -60,7 +60,7 @@ At the turn of 1916 and 1917 the Admiralty and the Supreme Army Command convince
 
 Convoys proved to be the remedy. For a long time the Admiralty believed that a mass of ships would be an easy target and that there would not be enough escorts, but faced with record losses in the spring of 1917 it agreed to trials. [On 14 June](/admiralicja-zatwierdza-system-konwojow) Admiral [John Jellicoe](/postacie/john-jellicoe) approved the plan for regular convoys, and on 2 July the first of them left Hampton Roads. A submarine found it harder to locate a group than single ships, and when it attacked, it exposed itself to a counter-attack by the escort. U-boats were also lost to mines, depth charges and fights with Q-ships.
 
-In 1914–1918, depending on how they are counted, between 351 and 375 submarines served in the German navy. It lost between 202 and 217 of them, 178 in action, and about 5,000 crew members were killed. According to uboat.net, U-boats sank 7,677 merchant ships. After the Armistice Germany had to hand over to the Allies all submarines able to put to sea: [on 20 November 1918](/kapitulacja-u-bootow) the first 20 surrendered off Harwich.
+In 1914–1918, depending on how they are counted, between 351 and 375 submarines served in the German navy. It lost between 202 and 217 of them, 178 in action, and about 5,000 crew members were killed. The U-boats sank almost 5,000 merchant ships. After the Armistice Germany had to hand over to the Allies all submarines able to put to sea: [on 20 November 1918](/kapitulacja-u-bootow) the first 20 surrendered off Harwich.
 
 ## Other innovations
 

@@ -1,0 +1,748 @@
+{
+ "slug": "rewolucje-w-rosji-1917",
+ "paragraphs": [
+  {
+   "start": "Rewolucje w Rosji w 1917 roku to dwa przewroty",
+   "quotes": [
+    {
+     "file": "src/data/series.ts",
+     "quote": "W marcu 1917 roku zbuntował się garnizon Piotrogrodu, car zrzekł się tronu, a władzę objął Rząd Tymczasowy, który musiał dzielić ją z radami. Nieudana ofensywa Kiereńskiego i sprawa Korniłowa podkopały ten rząd, a największymi wygranymi okazali się bolszewicy"
+    },
+    {
+     "file": "src/content/timeline/1917/07/dni-lipcowe-w-piotrogrodzie.md",
+     "quote": "nie potrafił spełnić żadnego z wielkich oczekiwań: ani pokoju, ani ziemi dla chłopów"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "7 listopada 1917 roku (25 października według kalendarza juliańskiego) bolszewicy przejęli władzę w Piotrogrodzie."
+    },
+    {
+     "file": "src/content/timeline/1918/01/rozpedzenie-konstytuanty.md",
+     "quote": "Zgromadzenie, na które Rosja czekała od obalenia caratu i które wyłoniono w pierwszych w jej dziejach powszechnych wyborach, obradowało niespełna trzynaście godzin."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 roku, w niedzielę, w Białym Pałacu Twierdzy Brzeskiej delegacja Rosji Radzieckiej podpisała traktat pokojowy z Niemcami, Austro-Węgrami, Bułgarią i Turcją."
+    }
+   ]
+  },
+  {
+   "start": "Rosja weszła do wojny na początku sierpnia 1914",
+   "quotes": [
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "Na początku sierpnia Niemcy wypowiedziały wojnę Rosji i Francji i wkroczyły do Belgii, a 4 sierpnia w stanie wojny z Niemcami znalazła się Wielka Brytania z całym imperium. Na zachodzie Francuzi i Brytyjczycy we wrześniu zatrzymali Niemców nad Marną i zmusili ich do odwrotu, a niemiecki plan szybkiego zwycięstwa upadł. Jesienią alianci obronili Ypres, a pod koniec roku front zastygł w linii okopów od morza po Szwajcarię. Na wschodzie Niemcy rozbili pod Tannenbergiem rosyjską 2 Armię, ale Rosja pobiła główne siły Austro-Węgier w Galicji, 3 września zajęła Lwów"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-tannenbergiem.md",
+     "quote": "rozegrała się pod koniec sierpnia 1914 roku"
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "2 maja 1915 roku, po kilku godzinach ostrzału z ponad tysiąca dział i moździerzy, nowa niemiecka 11 Armia generała Augusta von Mackensena"
+    },
+    {
+     "file": "src/content/topics/sprawa-polska-w-czasie-i-wojny-swiatowej.md",
+     "quote": "Latem Rosja straciła Galicję, Królestwo Polskie i część Litwy. 5 sierpnia do opuszczonej przez Rosjan Warszawy weszły wojska niemieckie i skończyło się trwające od 1815 roku rosyjskie panowanie. Odchodząc, Rosjanie wywieźli urzędy, uniwersytet i maszyny fabryczne, a na wschód ciągnęła fala uchodźców, nazywana bieżeństwem."
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "i Rosja, od 1,7 do 2,25 miliona"
+    }
+   ]
+  },
+  {
+   "start": "5 września 1915 roku car przyjechał",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/09/mikolaj-ii-obejmuje-naczelne-dowodztwo.md",
+     "quote": "5 września 1915 roku (23 sierpnia według kalendarza juliańskiego) car Mikołaj II przyjechał do kwatery głównej, czyli Stawki, pod Mohylewem i sam objął naczelne dowództwo armii rosyjskiej."
+    },
+    {
+     "file": "src/content/postacie/mikolaj-ii.md",
+     "quote": "wbrew niemal wszystkim ministrom, odsunął od dowództwa wuja i pojechał do Kwatery Głównej, przez co odpowiadał odtąd osobiście za każdą klęskę"
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Autorytet monarchii podkopywały ciągłe zmiany ministrów i pogłoski o wpływach Grigorija Rasputina i „niemieckiej” cesarzowej Aleksandry Fiodorowny. Zabójstwo Rasputina pod koniec 1916 roku niczego nie zmieniło. Car oddał rząd Nikołajowi Golicynowi, który sam nie chciał tego urzędu"
+    },
+    {
+     "file": "src/content/postacie/pawiel-milukow.md",
+     "quote": "w listopadzie 1916 roku wygłosił mowę „głupota czy zdrada?”"
+    },
+    {
+     "file": "src/content/timeline/1916/12/zabojstwo-rasputina.md",
+     "quote": "Nad ranem 30 grudnia 1916 roku"
+    }
+   ]
+  },
+  {
+   "start": "Wojna rujnowała też gospodarkę.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Inflacja zjadała płace, a zawodzący transport sprawiał, że w miastach brakowało chleba i opału, choć zboża w kraju nie brakowało."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Ofensywa Brusiłowa była największym zwycięstwem armii rosyjskiej w I wojnie światowej i jednym z największych przełamań frontu w całej wojnie. 4 czerwca 1916 roku"
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "w kolejnych, coraz krwawszych natarciach latem i jesienią stracili setki tysięcy ludzi"
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Sprzymierzeni, którzy w lutym obradowali na konferencji w Piotrogrodzie, wyjechali z niepokojem, ale bez przekonania, że rewolucja jest blisko."
+    }
+   ]
+  },
+  {
+   "start": "8 marca 1917 roku, w Międzynarodowy Dzień Kobiet",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/strajki-i-demonstracje-w-piotrogrodzie.md",
+     "quote": "8 marca 1917 roku, w czwartek, w Piotrogrodzie obchodzono Międzynarodowy Dzień Kobiet."
+    },
+    {
+     "file": "src/content/timeline/1917/03/strajki-i-demonstracje-w-piotrogrodzie.md",
+     "quote": "Rano robotnice kilku fabryk włókienniczych w robotniczej dzielnicy na Wyborskiej Stronie, na prawym brzegu Newy, porzuciły jednak pracę i ruszyły do sąsiednich zakładów metalowych"
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "12 marca 1917 roku, w poniedziałek, w Piotrogrodzie zbuntowały się wojska garnizonu. Od czterech dni miasto ogarniały strajki i demonstracje, a dzień wcześniej żołnierze strzelali do tłumu. Teraz pułk po pułku przyłączał się do robotników. Do wieczora powstańcy opanowali większą część stolicy, zdobyli arsenał, otworzyli więzienia"
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Bunt zaczął oddział szkolny batalionu zapasowego Wołyńskiego Pułku Gwardii, który zabił swojego dowódcę."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Garnizon Piotrogrodu liczył około 160 tysięcy żołnierzy, ale nie byli to gwardziści sprzed wojny, którzy w większości polegli na froncie. Zapasowe bataliony pułków gwardii składały się z rekrutów i rekonwalescentów, którzy po kilku tygodniach szkolenia mieli iść na front. Upychano ich w przepełnionych koszarach, a oficerów było niewielu i byli to często ludzie przypadkowi. Policja liczyła zaledwie około 3,5 tysiąca ludzi."
+    }
+   ]
+  },
+  {
+   "start": "Tego samego dnia w Pałacu Taurydzkim powstały",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "W Pałacu Taurydzkim powstały tego dnia Komitet Tymczasowy Dumy z Michaiłem Rodzianką na czele i Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich. Tak zrodziła się „dwuwładza”."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "W innym skrzydle tego samego pałacu działacze socjalistyczni, głównie mienszewicy"
+    },
+    {
+     "file": "src/content/timeline/1917/03/rozkaz-nr-1.md",
+     "quote": "14 marca 1917 roku (1 marca według kalendarza juliańskiego) Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich uchwaliła dokument, który przeszedł do historii jako rozkaz nr 1. Był skierowany do garnizonu Piotrogrodu, „wszystkich żołnierzy gwardii, armii, artylerii i floty”, do natychmiastowego wykonania. Nakazywał wybór komitetów żołnierskich we wszystkich oddziałach, oddawał broń pod ich kontrolę i stanowił, że w sprawach politycznych żołnierze podlegają Radzie."
+    },
+    {
+     "file": "src/content/timeline/1917/03/powstanie-rzadu-tymczasowego.md",
+     "quote": "15 marca 1917 roku (2 marca według kalendarza juliańskiego) po południu w Sali Katarzyny Pałacu Taurydzkiego przywódca kadetów Pawieł Milukow ogłosił tłumowi żołnierzy i robotników skład nowego rządu Rosji. Na jego czele stanął książę Gieorgij Lwow, sam Milukow objął sprawy zagraniczne, a Aleksandr Guczkow ministerstwo wojny i marynarki. Gabinet nazwał się Rządem Tymczasowym, bo miał rządzić tylko do czasu, gdy o ustroju państwa rozstrzygnie wybrane przez cały naród Zgromadzenie Ustawodawcze."
+    },
+    {
+     "url": "https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)",
+     "quote": "Rada na własną rękę administrowała i stanowiła prawa, częstokroć nie informując o tym nawet rządu"
+    }
+   ]
+  },
+  {
+   "start": "Car próbował wrócić z Mohylewa do Carskiego Sioła",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+     "quote": "Po buncie garnizonu w Piotrogrodzie car próbował wrócić z Mohylewa do Carskiego Sioła, ale jego pociąg zawrócono. W Pskowie gen. Ruzski przekonywał go do rządu odpowiedzialnego przed Dumą."
+    },
+    {
+     "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+     "quote": "Rodzianko uznał to ustępstwo za spóźnione, a gen. Aleksiejew zapytał dowódców frontów o zdanie. Wszyscy, z wielkim księciem Mikołajem Mikołajewiczem i gen. Brusiłowem, opowiedzieli się za abdykacją."
+    },
+    {
+     "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+     "quote": "Późnym wieczorem 15 marca 1917 w Pskowie Mikołaj II zrzekł się tronu za siebie i syna na rzecz brata Michała. Następnego dnia Michał odmówił przyjęcia korony."
+    },
+    {
+     "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+     "quote": "16 marca Michał odmówił przyjęcia korony do czasu decyzji Zgromadzenia Ustawodawczego. Ponad trzystuletnie panowanie Romanowów dobiegło końca"
+    },
+    {
+     "file": "src/content/timeline/1917/09/rosja-republika.md",
+     "quote": "14 września 1917 roku (1 września według kalendarza juliańskiego) Rząd Tymczasowy ogłosił, że „porządek państwowy, którym rządzi się Państwo Rosyjskie, jest porządkiem republikańskim”, i proklamował Republikę Rosyjską."
+    }
+   ]
+  },
+  {
+   "start": "Najbardziej dzieliła rząd i Radę wojna.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/04/rzad-tymczasowy-o-celach-wojny.md",
+     "quote": "9 kwietnia 1917 roku (27 marca według kalendarza juliańskiego) rosyjski Rząd Tymczasowy zatwierdził tekst deklaracji o celach wojny."
+    },
+    {
+     "file": "src/content/timeline/1917/04/rzad-tymczasowy-o-celach-wojny.md",
+     "quote": "nie przemocą dokonany zabór cudzych ziem, lecz utrwalenie trwałego pokoju na zasadzie samostanowienia narodów”. Deklaracja była pierwszym kompromisem między rządem a Radą Piotrogrodzką w sprawie, która dzieliła je najbardziej."
+    },
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "Hasło „pokoju bez aneksji i kontrybucji” nie było nowe. Głosiła je od wiosny Rada Piotrogrodzka"
+    },
+    {
+     "file": "src/content/timeline/1917/05/kryzys-kwietniowy.md",
+     "quote": "3 maja 1917 roku (20 kwietnia według kalendarza juliańskiego) piotrogrodzkie gazety wydrukowały notę, którą minister spraw zagranicznych Pawieł Milukow dwa dni wcześniej rozesłał rządom sprzymierzonym. Zapewniał w niej, że rewolucja nie osłabiła udziału Rosji we wspólnej walce i że naród rosyjski chce doprowadzić wojnę „do zdecydowanego zwycięstwa”. W koszarach i fabrykach odczytano to jako zdradę obietnic złożonych przez rząd miesiąc wcześniej. Jeszcze tego dnia uzbrojone oddziały garnizonu przemaszerowały pod siedzibę Rządu Tymczasowego"
+    },
+    {
+     "file": "src/content/timeline/1917/05/kryzys-kwietniowy.md",
+     "quote": "W połowie maja odeszli z niego Guczkow i Milukow, a 18 maja powstał pierwszy rząd koalicyjny z udziałem socjalistów, w którym tekę ministra wojny objął Aleksander Kiereński."
+    }
+   ]
+  },
+  {
+   "start": "Tymczasem 16 kwietnia na Dworzec Fiński",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/04/lenin-wraca-do-piotrogrodu.md",
+     "quote": "16 kwietnia 1917 Lenin przyjechał na Dworzec Fiński w Piotrogrodzie. Przez Niemcy jechał za zgodą Berlina w wagonie zwanym „zaplombowanym”."
+    },
+    {
+     "file": "src/content/timeline/1917/04/lenin-wraca-do-piotrogrodu.md",
+     "quote": "przywódca bolszewików Włodzimierz Lenin"
+    },
+    {
+     "file": "src/content/timeline/1917/04/lenin-wraca-do-piotrogrodu.md",
+     "quote": "Niemcy liczyli, że jeden z najbardziej nieprzejednanych przeciwników wojny osłabi Rosję od środka."
+    },
+    {
+     "file": "src/content/timeline/1917/04/lenin-wraca-do-piotrogrodu.md",
+     "quote": "Następnego dnia, 17 kwietnia, Lenin przedstawił bolszewikom w Pałacu Taurydzkim swój program, ogłoszony kilka dni później w „Prawdzie” i znany jako tezy kwietniowe. Żadnego poparcia dla Rządu Tymczasowego, żadnych ustępstw na rzecz „rewolucyjnego defensywizmu”, cała władza w ręce rad, wyjaśnianie masom, że bez obalenia kapitału nie da się zakończyć wojny prawdziwie demokratycznym pokojem. Większość socjalistów, także wielu bolszewików, uznała to za szaleństwo."
+    },
+    {
+     "file": "src/content/timeline/1917/04/lenin-wraca-do-piotrogrodu.md",
+     "quote": "W kwietniu 1917 roku Lenin stał na czele niewielkiej partii, która w Radzie Piotrogrodzkiej była w mniejszości."
+    }
+   ]
+  },
+  {
+   "start": "Rząd uznał, że zwycięstwo wzmocni rewolucyjną Rosję",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "Rząd Tymczasowy, naciskany przez sojuszników i przekonany, że zwycięstwo wzmocni rewolucyjną Rosję i przywróci dyscyplinę w wojsku, rzucił do natarcia armie Frontu Południowo-Zachodniego."
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "1 lipca 1917 roku piechota 11 i 7 Armii zaatakowała między Zborowem a Brzeżanami. Pod Koniuchami i Zborowem Rosjanie i walcząca u ich boku brygada czechosłowacka rozbili dwie austro-węgierskie dywizje"
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "Od 6 lipca uderzała na południe od Dniestru 8 Armia generała Ławra Korniłowa. Przełamała front pod Stanisławowem, zdobyła Halicz i Kałusz, lecz nad wezbraną Łomnicą zatrzymały ją niemieckie posiłki. Rosyjskie oddziały coraz częściej odmawiały pójścia do ataku. W połowie lipca ofensywa wygasła"
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "19 lipca Niemcy i Austriacy uderzyli spod Złoczowa. Rozprzężona 11 Armia uciekła, a w ciągu kilkunastu dni Rosjanie stracili prawie całą Galicję Wschodnią"
+    },
+    {
+     "file": "src/content/timeline/1917/07/upadek-tarnopola-i-stanislawowa.md",
+     "quote": "25 lipca, w dniu upadku Tarnopola, Rząd Tymczasowy przywrócił na froncie karę śmierci."
+    }
+   ]
+  },
+  {
+   "start": "W tych samych dniach w stolicy wybuchły zamieszki.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/07/dni-lipcowe-w-piotrogrodzie.md",
+     "quote": "16 lipca 1917 roku (3 lipca według kalendarza juliańskiego) wieczorem na ulice Piotrogrodu wyszli z bronią w ręku żołnierze 1 Pułku Karabinów Maszynowych, a za nimi inne oddziały garnizonu i tysiące robotników. Nazajutrz dołączyli do nich marynarze z Kronsztadu. Przez dwa dni wielotysięczne tłumy krążyły po mieście z hasłem „Cała władza w ręce rad!”"
+    },
+    {
+     "file": "src/content/timeline/1917/07/dni-lipcowe-w-piotrogrodzie.md",
+     "quote": "Zryw, znany jako dni lipcowe lub kryzys lipcowy, nie miał jednak ani jasnego celu, ani zdecydowanego przywództwa. 18 lipca było już po wszystkim. Rząd ogłosił, że bolszewicy działają na zlecenie Niemiec"
+    },
+    {
+     "file": "src/content/timeline/1917/07/dni-lipcowe-w-piotrogrodzie.md",
+     "quote": "a w sierpniu przedostał się do Finlandii. Kamieniew trafił do więzienia. Trocki, który zażądał, by potraktowano go tak samo jak Lenina, został aresztowany na początku sierpnia."
+    },
+    {
+     "file": "src/content/timeline/1917/07/kierenski-premierem-rosji.md",
+     "quote": "21 lipca 1917 roku (8 lipca według kalendarza juliańskiego) premierem, a dokładniej ministrem-przewodniczącym Rządu Tymczasowego, został Aleksander Kiereński."
+    },
+    {
+     "file": "src/content/timeline/1917/07/kornilow-naczelnym-wodzem.md",
+     "quote": "31 lipca 1917 roku (18 lipca według kalendarza juliańskiego) rosyjski Rząd Tymczasowy odwołał naczelnego wodza, generała Aleksieja Brusiłowa, i mianował na jego miejsce generała piechoty Ławra Korniłowa"
+    }
+   ]
+  },
+  {
+   "start": "Generał domagał się kary śmierci także na tyłach",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/09/pucz-kornilowa.md",
+     "quote": "Generał domagał się kary śmierci także na tyłach, ograniczenia roli komitetów żołnierskich, militaryzacji kolei i przemysłu zbrojeniowego. Premier, który musiał się liczyć z radami, zwlekał."
+    },
+    {
+     "file": "src/content/timeline/1917/09/pucz-kornilowa.md",
+     "quote": "3 września Niemcy rzeczywiście weszli do Rygi."
+    },
+    {
+     "file": "src/content/timeline/1917/09/pucz-kornilowa.md",
+     "quote": "Następnego dnia generał odmówił złożenia dowództwa, a kawaleria Krymowa się nie zatrzymała.\" - \"Historycy do dziś spierają się, czy był to spisek prawicy, czy nieporozumienie wykorzystane przez Kiereńskiego. Mark Steinberg nazwał całą sprawę „dziwną mieszaniną spisku i zamętu”.\" --- 8 września 1917 roku (26 sierpnia według kalendarza juliańskiego) po południu do gabinetu premiera Aleksandra Kiereńskiego w Pałacu Zimowym przyszedł Władimir Nikołajewicz Lwow, poseł do Dumy i były oberprokurator Świętego Synodu w pierwszym Rządzie Tymczasowym. Wracał prosto z Mohylewa, z kwatery naczelnego wodza, generała Ławra Korniłowa. Przywiózł coś, co Kiereński zrozumiał jako ultimatum: generał żąda wprowadzenia stanu wojennego w Piotrogrodzie, przekazania mu całej władzy wojskowej i cywilnej oraz dymisji wszystkich ministrów. Tego samego wieczoru premier, przekonany, że ma do czynienia ze spiskiem, kazał aresztować Lwowa, a w nocy odwołał Korniłowa ze stanowiska. Tak zaczęła się sprawa Korniłowa, nazywana też buntem albo puczem Korniłowa, jeden z punktów zwrotnych rewolucji rosyjskiej. ## Premier i generał Konflikt narastał od końca lipca, gdy Kiereński powierzył Korniłowowi naczelne dowództwo. Generał domagał się kary śmierci także na tyłach, ograniczenia roli komitetów żołnierskich, militaryzacji kolei i przemysłu zbrojeniowego. Premier, który musiał się liczyć z radami, zwlekał. Na Naradzie Państwowej w Moskwie pod koniec sierpnia prawica powitała Korniłowa jak zbawcę, a on sam ostrzegł, że bez zmiany polityki Rosja straci Rygę. 3 września Niemcy rzeczywiście weszli do Rygi. Upadek miasta jedni odczytali jako dowód rozkładu armii, inni jako pretekst do „zaprowadzenia porządku”. Mimo wzajemnej nieufności Kiereński i Korniłow próbowali się porozumieć. Pośredniczył faktycznie kierujący ministerstwem wojny Boris Sawinkow, który 5 i 6 września (23–24 sierpnia st. st.) przebywał w Mohylewie. Uzgodnił z generałem, że Piotrogrodzki Okręg Wojskowy zostanie podporządkowany Stawce, ale sama stolica pozostanie w gestii rządu, oraz że do miasta przybędzie korpus kawalerii, który w razie potrzeby wprowadzi stan wojenny i obroni rząd przed bolszewikami. Rząd obawiał się powtórki dni lipcowych. Sawinkow prosił, by korpusem nie dowodził znany z monarchistycznych poglądów generał Aleksandr Krymow i by nie wysyłać Kaukaskiej Tubylczej Dywizji Konnej, zwanej Dziką Dywizją. Korniłow nie zmienił jednak swoich rozkazów. 3 Korpus Kawalerii i Dzika Dywizja, skupione w rejonie Wielkich Łuków i Newla, ruszyły w stronę Piotrogrodu, a dowództwo całej wyprawy otrzymał właśnie Krymow. Według jego tajnego rozkazu w razie wystąpienia bolszewików miał zająć stolicę, rozbroić garnizon i ludność i rozpędzić rady. W Stawce dyskutowano już o składzie nowego rządu z Korniłowem na czele. ## Misja Lwowa W tę rozgrywkę wmieszał się Lwow, człowiek dobrej woli, ale gadatliwy i skłonny do przeceniania własnej roli. Po raz pierwszy odwiedził Kiereńskiego 4 września (22 sierpnia st. st.). Przedstawiał się jako wysłannik wpływowych kół społecznych i namawiał premiera do poszerzenia rządu o polityków prawicy. Co mu Kiereński odpowiedział, do dziś pozostaje sporne. Premier zeznawał później, że chciał tylko wybadać, co się za Lwowem kryje. Lwow twierdził, że otrzymał zgodę na rozmowy w sprawie przebudowy rządu. Wieczorem 6 i rano 7 września (24–25 sierpnia st. st.) rozmawiał w Mohylewie z Korniłowem, któremu z kolei przedstawił się jako osobisty wysłannik premiera. Generał uznał, że Kiereński jest gotów ustąpić. Powiedział Lwowowi, że widzi wyjście w stanie wojennym w Piotrogrodzie i skupieniu całej władzy w rękach naczelnego wodza, „oczywiście do Zgromadzenia Ustawodawczego”. Kiereńskiemu proponował tekę ministra sprawiedliwości, Sawinkowowi ministerstwo wojny. Dodał, że nie ręczy za ich życie w Piotrogrodzie, i zapraszał obu do Stawki, gdzie miał im zapewnić bezpieczeństwo. Po powrocie Lwow przyszedł do Kiereńskiego w Pałacu Zimowym. Według premiera rozmowa zaczęła się kilka minut po piątej po południu. Lwow przedstawił słowa generała w formie, która brzmiała jak ultimatum, a na prośbę Kiereńskiego spisał je na kartce: Korniłow proponuje ogłosić stan wojenny w Piotrogrodzie, przekazać całą władzę wojskową i cywilną naczelnemu wodzowi i odwołać wszystkich ministrów, łącznie z premierem, do czasu utworzenia nowego gabinetu przez naczelnego wodza. Ostrzegał też Kiereńskiego, by nie jechał do Mohylewa. Później Lwow zapewniał, że przekazał jedynie „różne życzenia w sensie wzmocnienia władzy”. ## Rozmowa przez aparat Hughesa Kiereński, z zawodu adwokat, postanowił zdobyć dowód. Około ósmej wieczorem wraz ze współpracownikiem Wasilijem Wyrubowem połączył się z Korniłowem bezpośrednią linią telegraficzną z budynku ministerstwa wojny. Lwow miał być przy tym obecny, ale się spóźnił. Generał czekał przy aparacie kilkanaście minut, więc premier zaczął rozmowę sam, przedstawiając się jako Kiereński i Lwow jednocześnie. Zapytał, czy może działać zgodnie z informacjami przekazanymi przez Lwowa, a potem, występując jako Lwow, czy owa „określona decyzja” ma zostać wykonana. Korniłow, przekonany, że rozmawia o wcześniej uzgodnionych sprawach, odpowiedział, że potwierdza obraz sytuacji przedstawiony Lwowowi i „usilnie prosi” premiera o przyjazd do Mohylewa, najlepiej razem z Sawinkowem, i to „w każdym razie”. Kiereński zapowiedział, że wyjedzie następnego dnia. Ani razu nie wymienił konkretnych żądań. Dla premiera odpowiedzi generała były potwierdzeniem spisku. Zwolennicy Korniłowa uznali później tę rozmowę za prowokację: generał potwierdzał przecież tylko zaproszenie do Stawki, a nie ultimatum, którego treści nikt w rozmowie nie przytoczył. Po powrocie do pałacu Kiereński kazał Lwowowi powtórzyć całą historię w obecności ukrytego za zasłoną świadka, wysokiego urzędnika stołecznej milicji, a potem około dziesiątej wieczorem oznajmił mu, że jest aresztowany. Lwow spędził noc pod strażą w sąsiednim pokoju. ## Nocne posiedzenie rządu Kiereński poinformował o wszystkim wicepremiera Nikołaja Niekrasowa i Sawinkowa, który bezskutecznie namawiał go do bezpośrednich rozmów z generałem. W nocy zwołał ministrów i nazwał postępowanie naczelnego wodza buntem. Według niektórych relacji posiedzenie było burzliwe, a Kiereński zażądał dla siebie nadzwyczajnych pełnomocnictw. Ministrowie przekazali mu w końcu pełnię władzy do opanowania sytuacji i oddali się do jego dyspozycji. Ministrowie z partii kadetów, którzy już wcześniej zapowiadali odejście, złożyli dymisję i przestali przychodzić do urzędów, nie chcąc brać udziału w rozprawie z generałem, na którego liczyli. W nocy z 8 na 9 września do Mohylewa poszedł telegram bez numeru, podpisany po prostu „Kiereński”. Premier nakazywał Korniłowowi natychmiast przekazać obowiązki szefowi sztabu, generałowi Aleksandrowi Łukomskiemu, i przyjechać do Piotrogrodu. Zgodnie z prawem odwołanie naczelnego wodza wymagało decyzji całego rządu. W Stawce, gdzie kilka godzin wcześniej panowało przekonanie, że wszystko idzie gładko, telegram wzięto najpierw za fałszerstwo. Korniłow zdążył jeszcze zawiadomić Piotrogród, że korpus Krymowa stanie pod Piotrogrodem 10 września (28 sierpnia st. st.), a stan wojenny należy ogłosić dzień później. ## Spisek czy nieporozumienie Następnego dnia generał odmówił złożenia dowództwa, Łukomski odmówił jego przejęcia, a Korniłow wezwał naród do ratowania ojczyzny przed rządem, który według niego działał „pod naciskiem bolszewickiej większości rad” w zgodzie z planami niemieckiego sztabu. Kawaleria Krymowa nie zatrzymała się."
+    },
+    {
+     "file": "src/content/timeline/1917/09/pucz-kornilowa.md",
+     "quote": "8 września 1917 roku (26 sierpnia według kalendarza juliańskiego) po południu do gabinetu premiera Aleksandra Kiereńskiego w Pałacu Zimowym przyszedł Władimir Nikołajewicz Lwow, poseł do Dumy i były oberprokurator Świętego Synodu w pierwszym Rządzie Tymczasowym. Wracał prosto z Mohylewa, z kwatery naczelnego wodza, generała Ławra Korniłowa. Przywiózł coś, co Kiereński zrozumiał jako ultimatum: generał żąda wprowadzenia stanu wojennego w Piotrogrodzie, przekazania mu całej władzy wojskowej i cywilnej oraz dymisji wszystkich ministrów. Tego samego wieczoru premier, przekonany, że ma do czynienia ze spiskiem, kazał aresztować Lwowa, a w nocy odwołał Korniłowa ze stanowiska. Tak zaczęła się sprawa Korniłowa"
+    }
+   ]
+  },
+  {
+   "start": "Bunt rozpadł się bez walki.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "Kolejarze rozbierali tory i kierowali eszelony na boczne linie, a na każdej stacji czekali agitatorzy z rad"
+    },
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "14 września 1917 roku (1 września według kalendarza juliańskiego) w Mohylewie generał Michaił Aleksiejew, nowy szef sztabu naczelnego wodza, formalnie aresztował generała Ławra Korniłowa"
+    },
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "Bunt, który przed tygodniem wstrząsnął Rosją, skończył się bez jednego wystrzału."
+    },
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "Największymi wygranymi okazali się bolszewicy. To oni najskuteczniej organizowali obronę stolicy, a Czerwona Gwardia zachowała broń wydaną do walki z Korniłowem."
+    },
+    {
+     "file": "src/content/timeline/1917/09/upadek-puczu-kornilowa.md",
+     "quote": "W ciągu kilku tygodni bolszewicy przejęli rady obu stolic. Kiereński, który wyszedł ze sprawy Korniłowa jako zwycięzca, w rzeczywistości stracił zaufanie zarówno prawicy, jak i lewicy."
+    }
+   ]
+  },
+  {
+   "start": "Lenin od końca września nalegał",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "od końca września nalegał w listach do Komitetu Centralnego, że trzeba natychmiast brać władzę. 23 października (10 października st. st.) Komitet Centralny uchwalił, że powstanie zbrojne jest na porządku dnia."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Przewodniczącym Rady Piotrogrodzkiej został na początku października Lew Trocki."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Narzędziem przewrotu stał się Komitet Wojskowo-Rewolucyjny."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "a jego działaniami w praktyce kierował Trocki"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Kiedy władzę w koszarach przejęli komisarze rady, rząd został bez wojska w stolicy, zanim padł pierwszy strzał."
+    }
+   ]
+  },
+  {
+   "start": "W nocy z 6 na 7 listopada oddziały komitetu",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "a ściślej w nocy z 6 na 7 listopada"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "W nocy i w ciągu dnia oddziały Komitetu Wojskowo-Rewolucyjnego Rady Piotrogrodzkiej, czyli czerwonogwardziści, żołnierze garnizonu i marynarze Floty Bałtyckiej, niemal bez walki zajęły mosty, dworce, telegraf, centralę telefoniczną, elektrownię i Bank Państwowy. O dziesiątej rano komitet ogłosił, że Rząd Tymczasowy został obalony. Premier Aleksander Kiereński wyjechał z miasta szukać wojska na froncie, a jego ministrowie, zamknięci w Pałacu Zimowym, czekali na pomoc, która nie nadeszła. Około 2.10 w nocy z 7 na 8 listopada pałac został zajęty, a ministrowie aresztowani."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Szturm, który późniejsze radzieckie filmy przedstawiały jako masowy bój, był w gruncie rzeczy długim, chaotycznym oblężeniem prawie bezbronnego budynku."
+    },
+    {
+     "file": "src/content/timeline/1917/11/bitwa-pod-pulkowem.md",
+     "quote": "Kilkuset kozaków generała Piotra Krasnowa, z którymi szedł na stolicę obalony premier Aleksander Kiereński, uderzyło na pozycje czerwonogwardzistów, żołnierzy i marynarzy Floty Bałtyckiej. Po całodziennej walce kozacy się wycofali."
+    },
+    {
+     "file": "src/content/timeline/1917/11/ucieczka-kierenskiego.md",
+     "quote": "uciekł z pałacu w Gatczynie. Przebrany za marynarza"
+    }
+   ]
+  },
+  {
+   "start": "8 listopada II Wszechrosyjski Zjazd Rad",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "8 listopada 1917 roku (26 października według kalendarza juliańskiego) wieczorem w Smolnym zebrał się na drugie posiedzenie II Wszechrosyjski Zjazd Rad. Dobę wcześniej bolszewicy obalili Rząd Tymczasowy, a w nocy zajęli Pałac Zimowy. Teraz zjazd miał dać nowej władzy program i rząd. Uchwalił dekret o pokoju, dekret o ziemi i powołał „tymczasowy rząd robotniczo-chłopski”, Radę Komisarzy Ludowych, zwaną z rosyjska Sownarkomem. Jej przewodniczącym został Włodzimierz Lenin, który zajął miejsce Aleksandra Kiereńskiego. Ludowym komisarzem spraw zagranicznych, następcą Michaiła Tereszczenki, został Lew Trocki."
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "mienszewicy, prawicowi eserowcy i delegaci Bundu potępili przewrót jako „spisek wojskowy” i opuścili salę"
+    },
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "proponował wszystkim walczącym narodom i ich rządom natychmiastowe rozpoczęcie rokowań o sprawiedliwy, demokratyczny pokój, „bez aneksji i bez kontrybucji”"
+    },
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "Dekret o ziemi znosił natychmiast i bez odszkodowania obszarniczą własność ziemi."
+    },
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "Był to w istocie program rolny eserowców, których Rząd Tymczasowy nie zdążył albo nie chciał przeprowadzić. Lenin odpowiadał na zarzuty krótko: niech tak będzie, nieważne, kto go napisał, demokratyczny rząd nie może pomijać woli ludu. Dekret w gruncie rzeczy zatwierdzał to, co chłopi w wielu guberniach już robili"
+    }
+   ]
+  },
+  {
+   "start": "Zgodnie z obietnicą rewolucji lutowej 25 listopada",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/wybory-do-konstytuanty.md",
+     "quote": "25 listopada 1917 roku (12 listopada według kalendarza juliańskiego) w Piotrogrodzie i w większości okręgów Rosji zaczęły się wybory do Wszechrosyjskiego Zgromadzenia Ustawodawczego, zwanego Konstytuantą. Miało ono, zgodnie z obietnicą rewolucji lutowej, rozstrzygnąć o ustroju państwa. Były to pierwsze w dziejach Rosji powszechne, równe, tajne i bezpośrednie wybory, w których głosowały także kobiety."
+    },
+    {
+     "file": "src/content/timeline/1917/11/wybory-do-konstytuanty.md",
+     "quote": "Zdecydowanie wygrali je eserowcy, partia chłopów."
+    },
+    {
+     "file": "src/content/timeline/1917/11/wybory-do-konstytuanty.md",
+     "quote": "około 38 procent głosów, a razem z ukraińskimi eserowcami i innymi listami pokrewnymi około połowy. Bolszewicy dostali około 23–24 procent."
+    },
+    {
+     "file": "src/content/timeline/1918/01/otwarcie-konstytuanty.md",
+     "quote": "18 stycznia 1918 roku (5 stycznia według kalendarza juliańskiego) w Pałacu Taurydzkim w Piotrogrodzie zebrało się wreszcie Wszechrosyjskie Zgromadzenie Ustawodawcze."
+    },
+    {
+     "file": "src/content/timeline/1918/01/rozpedzenie-konstytuanty.md",
+     "quote": "19 stycznia 1918 roku (6 stycznia według kalendarza juliańskiego) o świcie w Pałacu Taurydzkim w Piotrogrodzie dowódca warty, marynarz anarchista, przerwał obrady Wszechrosyjskiego Zgromadzenia Ustawodawczego. Posłowie rozeszli się, umówieni na wieczór, ale do sali już nie wrócili. Jeszcze tego samego dnia rząd Lenina postanowił rozwiązać Konstytuantę, a w nocy zatwierdził to najwyższy organ władzy radzieckiej. Zgromadzenie, na które Rosja czekała od obalenia caratu i które wyłoniono w pierwszych w jej dziejach powszechnych wyborach, obradowało niespełna trzynaście godzin. Był to koniec rosyjskiej demokracji parlamentarnej zrodzonej w rewolucji lutowej."
+    }
+   ]
+  },
+  {
+   "start": "Lenin traktował dekret o pokoju poważnie.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/powstanie-rady-komisarzy-ludowych.md",
+     "quote": "Tymczasem Lenin traktował dekret o pokoju poważnie."
+    },
+    {
+     "file": "src/content/timeline/1917/11/bolszewicy-proponuja-rozejm.md",
+     "quote": "W nocy z 20 na 21 listopada 1917 roku (z 7 na 8 listopada według kalendarza juliańskiego) Rada Komisarzy Ludowych wysłała radiotelegram do Stawki w Mohylewie. Nakazała w nim pełniącemu obowiązki naczelnego wodza generałowi Nikołajowi Duchoninowi, by zwrócił się do dowództwa armii nieprzyjacielskich z propozycją wstrzymania wszelkich działań wojennych"
+    },
+    {
+     "file": "src/content/timeline/1917/12/smierc-duchonina.md",
+     "quote": "Rano 3 grudnia 1917 roku (20 listopada według kalendarza juliańskiego) do Mohylewa, siedziby rosyjskiej Stawki, przyjechał pociągiem nowy naczelny wódz z nominacji bolszewików, chorąży Nikołaj Krylenko, z eskortą marynarzy. Miasto zajęto bez walki. Generał Nikołaj Duchonin, który od ucieczki Kiereńskiego pełnił obowiązki naczelnego wodza, a od 22 listopada był formalnie odwołany za odmowę rozpoczęcia rokowań o rozejm, został aresztowany i odwieziony do wagonu Krylenki na stacji. Kilka godzin później już nie żył. Tłum żołnierzy i marynarzy wywlókł go z wagonu i zabił na peronie."
+    },
+    {
+     "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+     "quote": "15 grudnia 1917 roku (2 grudnia według kalendarza juliańskiego) w Brześciu Litewskim, w kwaterze niemieckiego naczelnego dowództwa na wschodzie, pełnomocnicy rosyjskiego naczelnego dowództwa podpisali z przedstawicielami dowództw Niemiec, Austro-Węgier, Bułgarii i Turcji układ o zawieszeniu broni."
+    },
+    {
+     "file": "src/content/timeline/1917/12/poczatek-rokowan-pokojowych-w-brzesciu.md",
+     "quote": "22 grudnia 1917 roku (9 grudnia według kalendarza juliańskiego) o czwartej po południu w Brześciu Litewskim rozpoczęło się pierwsze posiedzenie plenarne konferencji pokojowej"
+    }
+   ]
+  },
+  {
+   "start": "Od stycznia delegacji radzieckiej przewodniczył",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/01/trocki-w-brzesciu.md",
+     "quote": "Delegację Rosji Sowieckiej reprezentował komisarz ludowy spraw zagranicznych Lew Trocki."
+    },
+    {
+     "file": "src/content/timeline/1918/02/ani-wojna-ani-pokoj.md",
+     "quote": "utknęły na sprawie granicy. Przewodniczący delegacji radzieckiej Lew Trocki wygłosił tego dnia oświadczenie, które przeszło do historii jako formuła „ani wojna, ani pokój”: Rosja kończy wojnę i demobilizuje armię, ale traktatu na warunkach niemieckich nie podpisze."
+    },
+    {
+     "file": "src/content/timeline/1918/02/ani-wojna-ani-pokoj.md",
+     "quote": "polecił 9 lutego sekretarzowi stanu Richardowi von Kühlmannowi przedstawić Trockiemu ultimatum z krótkim terminem, żądające zrzeczenia się przez Rosję nie tylko Kurlandii i Litwy, lecz także Inflant i Estonii."
+    },
+    {
+     "file": "src/content/timeline/1918/02/pokoj-brzeski-z-ukraina.md",
+     "quote": "9 lutego 1918 roku (27 stycznia według kalendarza juliańskiego) około drugiej w nocy w cytadeli Brześcia Litewskiego podpisano pierwszy traktat pokojowy tej wojny. Niemcy, Austro-Węgry, Bułgaria i Turcja zawarły pokój z Ukraińską Republiką Ludową"
+    },
+    {
+     "file": "src/content/timeline/1918/02/ani-wojna-ani-pokoj.md",
+     "quote": "Na sali zapadła cisza. Według relacji uczestników przerwał ją generał Max Hoffmann okrzykiem „Unerhört!” („Niesłychane!”)."
+    }
+   ]
+  },
+  {
+   "start": "18 lutego Niemcy ruszyli na wschód.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-faustschlag.md",
+     "quote": "Niemcy wypowiedzieli rozejm i 18 lutego 1918 roku ruszyli na wschód. Rozpadająca się armia rosyjska prawie nie stawiała oporu. Niewielkie oddziały, przewożone koleją od stacji do stacji, w ciągu kilku dni zajęły miasta, o które w latach 1915–1917 toczono wielomiesięczne bitwy. Ofensywa zmusiła rząd Włodzimierza Lenina do przyjęcia znacznie cięższych warunków niż te, które odrzucał w styczniu"
+    },
+    {
+     "file": "src/content/timeline/1918/02/niemcy-zajmuja-rewel-i-pskow.md",
+     "quote": "Tego dnia wojska niemieckie weszły do Rewla (Tallinna), stolicy guberni estońskiej i głównej bazy rosyjskiej Floty Bałtyckiej. Wcześniej, około drugiej w nocy, Niemcy opanowali Psków"
+    },
+    {
+     "file": "src/content/timeline/1918/02/bolszewicy-godza-sie-na-pokoj.md",
+     "quote": "W nocy z 18 na 19 lutego 1918 rząd Lenina zawiadomił przez radio Berlin, że podpisze pokój na warunkach z Brześcia. Niemcy nie przerwali jednak ofensywy. category: Dyplomacja front: Front wschodni date: 1918-02-19 authors: [Natalia] dayOrder: 1 tags: [Rosja, Niemcy, Włodzimierz Lenin, inicjatywy pokojowe] milestone: false draft: false --- W nocy z 18 na 19 lutego 1918 roku radiostacja w Carskim Siole nadała do rządu Rzeszy w Berlinie depeszę Rady Komisarzy Ludowych. Rząd radziecki protestował w niej, że Niemcy skierowali wojska przeciw republice, która ogłosiła koniec wojny i demobilizowała armię, choć żadna ze stron nie wypowiedziała rozejmu z siedmiodniowym uprzedzeniem, jak wymagał układ z 15 grudnia. „W zaistniałych okolicznościach” Rada uznawała się jednak za zmuszoną formalnie oświadczyć, że jest gotowa podpisać pokój na warunkach podyktowanych w Brześciu Litewskim przez delegacje Poczwórnego Przymierza. Szczegółową odpowiedź na niemieckie warunki obiecywała przesłać niezwłocznie. Depeszę podpisali Włodzimierz Lenin i Lew Trocki."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Według często przytaczanych danych na oderwanych ziemiach mieszkało około 56 milionów ludzi, mniej więcej jedna trzecia ludności europejskiej części cesarstwa."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 roku, w niedzielę, w Białym Pałacu Twierdzy Brzeskiej delegacja Rosji Radzieckiej podpisała traktat pokojowy z Niemcami, Austro-Węgrami, Bułgarią i Turcją. Po trzech miesiącach rokowań, przerwanych w lutym przez „ani wojnę, ani pokój” Trockiego i niemiecką ofensywę, Rosja wyszła z wojny na warunkach podyktowanych jej siłą. Wyrzekła się zwierzchnictwa nad Polską, Litwą i Kurlandią, zgodziła się opuścić Inflanty, Estonię, Finlandię i Ukrainę oraz oddać Turcji okręgi Karsu, Ardahanu i Batumi."
+    }
+   ]
+  },
+  {
+   "start": "Spór o pokój omal nie rozbił partii",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-faustschlag.md",
+     "quote": "Z obawy przed nowym niemieckim uderzeniem rząd radziecki postanowił 26 lutego przenieść się do Moskwy, co zrobił w marcu. Spór o pokój omal nie rozbił partii bolszewickiej, ale umocnił pozycję Lenina, który jako jedyny od początku przewidywał taki rozwój wypadków."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Po stronie radzieckiej uczynił to w połowie marca Nadzwyczajny Zjazd Rad w Moskwie"
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Sprawa pokoju rozbiła koalicję rządową, bo lewicowi eserowcy opuścili Radę Komisarzy Ludowych."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "Brzeski pokój przetrwał niespełna dziewięć miesięcy."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "W rozejmie z Compiègne 11 listopada 1918 roku Niemcy musiały wyrzec się traktatu brzeskiego, a 13 listopada Wszechrosyjski Centralny Komitet Wykonawczy uznał go za nieważny."
+    }
+   ]
+  },
+  {
+   "start": "Przeciwnicy bolszewików zbierali się na południu",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/02/poczatek-marszu-lodowego.md",
+     "quote": "22 lutego 1918 roku generał Ławr Korniłow wydał rozkaz opuszczenia Rostowa nad Donem. W nocy z 22 na 23 lutego główne siły Armii Ochotniczej wyszły z miasta"
+    },
+    {
+     "file": "src/content/timeline/1918/02/poczatek-marszu-lodowego.md",
+     "quote": "Tak zaczął się pierwszy marsz kubański, który przeszedł do historii jako marsz lodowy i stał się legendą białych."
+    },
+    {
+     "file": "src/content/timeline/1918/01/powolanie-armii-czerwonej.md",
+     "quote": "28 stycznia 1918 roku (15 stycznia według kalendarza juliańskiego) Rada Komisarzy Ludowych przyjęła dekret o utworzeniu Robotniczo-Chłopskiej Armii Czerwonej."
+    },
+    {
+     "file": "src/content/timeline/1917/12/powolanie-czeka.md",
+     "quote": "20 grudnia 1917 roku (7 grudnia według kalendarza juliańskiego) Rada Komisarzy Ludowych w Smolnym wysłuchała sprawozdania Feliksa Dzierżyńskiego o tym, jak walczyć z „sabotażem” i kontrrewolucją. Na tym samym posiedzeniu powołała Wszechrosyjską Komisję Nadzwyczajną przy Radzie Komisarzy Ludowych do Walki z Kontrrewolucją i Sabotażem, w skrócie WCzK, a potocznie Czeka. Przewodniczącym został Dzierżyński."
+    }
+   ]
+  },
+  {
+   "start": "Punktem zwrotnym okazał się bunt Korpusu",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "25 maja 1918 roku komisarz ludowy do spraw wojskowych Lew Trocki rozesłał telegram do wszystkich rad wzdłuż linii kolejowej od Penzy do Omska. Nakazywał w nim, pod groźbą surowej kary, rozbroić żołnierzy Korpusu Czechosłowackiego, którzy jechali przez Rosję do Władywostoku, by stamtąd popłynąć do Francji."
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "nie oddali broni i w ciągu kilku dni opanowali najważniejsze odcinki Kolei Transsyberyjskiej. Bunt legionu, który chciał tylko wyjechać z Rosji, stał się jednym z punktów zwrotnych wojny domowej."
+    },
+    {
+     "file": "src/content/timeline/1918/01/rozpedzenie-konstytuanty.md",
+     "quote": "Latem 1918 roku w Samarze grupa jej posłów utworzyła Komucz, Komitet Członków Zgromadzenia Ustawodawczego, jeden z ośrodków walki z bolszewikami"
+    },
+    {
+     "file": "src/content/timeline/1918/05/bunt-legionu-czechoslowackiego.md",
+     "quote": "8 czerwca Czechosłowacy zajęli Samarę, gdzie powstał antybolszewicki rząd eserowców, Komucz."
+    },
+    {
+     "file": "src/content/timeline/1918/07/zamordowanie-rodziny-carskiej.md",
+     "quote": "W nocy z 16 na 17 lipca 1918 roku w piwnicy domu inżyniera Nikołaja Ipatiewa w Jekaterynburgu na Uralu bolszewicki pluton egzekucyjny zastrzelił i dobił bagnetami byłego cesarza Mikołaja II, jego żonę Aleksandrę Fiodorowną, ich pięcioro dzieci oraz czworo ludzi, którzy towarzyszyli im w niewoli."
+    }
+   ]
+  },
+  {
+   "start": "30 sierpnia 1918 roku w Moskwie padły strzały",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/08/zamach-na-lenina.md",
+     "quote": "30 sierpnia 1918 roku był najczarniejszym dniem bolszewików od przejęcia władzy."
+    },
+    {
+     "file": "src/content/timeline/1918/08/zamach-na-lenina.md",
+     "quote": "Wieczorem w Moskwie, po wiecu w zakładach Michelsona, padły strzały do przewodniczącego Rady Komisarzy Ludowych Włodzimierza Lenina. Dwie kule trafiły go w szyję i ramię, a przez kilka dni nie było pewne, czy przeżyje. Na miejscu zatrzymano eserkę Fanny Kapłan."
+    },
+    {
+     "file": "src/content/timeline/1918/09/czerwony-terror.md",
+     "quote": "5 września 1918 roku Rada Komisarzy Ludowych na posiedzeniu na Kremlu wysłuchała sprawozdania przewodniczącego Czeki Feliksa Dzierżyńskiego i przyjęła krótką uchwałę „O czerwonym terrorze”."
+    },
+    {
+     "file": "src/content/timeline/1918/11/zamach-kolczaka.md",
+     "quote": "W nocy z 17 na 18 listopada 1918 roku oficerowie kozaccy aresztowali w Omsku eserowskich członków Ogólnorosyjskiego Rządu Tymczasowego, zwanego Dyrektoriatem. Rano Rada Ministrów przejęła pełnię władzy i przekazała ją wiceadmirałowi Aleksandrowi Kołczakowi, awansując go zarazem na pełnego admirała. Kołczak przyjął tytuł Najwyższego Władcy"
+    },
+    {
+     "file": "src/content/topics/skutki-i-wojny-swiatowej.md",
+     "quote": "Kraj pogrążył się w wojnie domowej, która pochłonęła ponad siedem milionów ofiar."
+    }
+   ]
+  },
+  {
+   "start": "Dla Ententy przewrót bolszewicki oznaczał",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Dla ententy przewrót oznaczał groźbę, że jej wschodni sojusznik wycofa się z wojny. Dla Niemiec była to nadzieja, że wreszcie będą mogły przerzucić dywizje ze wschodu na zachód."
+    },
+    {
+     "file": "src/content/timeline/1918/03/poczatek-operacji-michael.md",
+     "quote": "Po pokoju z Rosją i zimowym przerzucie dywizji ze wschodu zebrali do natarcia 63 dywizje."
+    },
+    {
+     "file": "src/content/battles/1918/operacja-faustschlag.md",
+     "quote": "Dla Niemiec było to zwycięstwo pozorne. Zajęte ziemie trzeba było obsadzić i pilnować, a zboże z Ukrainy okazało się znacznie skromniejsze od oczekiwań. Na wschodzie zostały dziesiątki dywizji, których zabrakło w wiosennej ofensywie na zachodzie."
+    }
+   ]
+  },
+  {
+   "start": "Dla Polaków upadek caratu był przełomem.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/odezwa-rady-piotrogrodzkiej-do-polakow.md",
+     "quote": "27 marca 1917 roku (14 marca według kalendarza juliańskiego) Piotrogrodzka Rada Delegatów Robotniczych i Żołnierskich uchwaliła krótką odezwę „Do narodu polskiego”. Ogłosiła w niej, że Polska ma prawo do całkowitej niepodległości."
+    },
+    {
+     "file": "src/content/timeline/1917/03/odezwa-rzadu-tymczasowego-do-polakow.md",
+     "quote": "30 marca 1917 roku (17 marca według kalendarza juliańskiego) urzędowy dziennik rosyjskiego Rządu Tymczasowego opublikował odezwę zaczynającą się od słowa „Polacy”. Rosja, która od półtora wieku panowała nad większą częścią ziem polskich, po raz pierwszy oficjalnie uznała prawo Polaków do niepodległego państwa, utworzonego „ze wszystkich ziem zamieszkanych w większości przez naród polski”. Państwo to miało być jednak połączone z Rosją „wolnym sojuszem wojskowym”"
+    },
+    {
+     "file": "src/content/topics/sprawa-polska-w-czasie-i-wojny-swiatowej.md",
+     "quote": "Dopóki trwał sojusz z carem, rządy Francji i Wielkiej Brytanii traktowały sprawę polską jako wewnętrzną sprawę Rosji."
+    },
+    {
+     "file": "src/content/topics/sprawa-polska-w-czasie-i-wojny-swiatowej.md",
+     "quote": "Wielka Brytania zapewniła Rząd Tymczasowy, że w pełni popiera zasadę niepodległej i zjednoczonej Polski"
+    }
+   ]
+  },
+  {
+   "start": "Rewolucja otworzyła też drogę polskiemu wojsku",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "W odwodzie 7 Armii stała też polska dywizja strzelców, sformowana z Polaków służących w armii rosyjskiej"
+    },
+    {
+     "file": "src/content/timeline/1917/07/upadek-tarnopola-i-stanislawowa.md",
+     "quote": "Pod wsią Krechowce ułani przez kilka godzin szarżowali konno i walczyli pieszo. Według meldunku Mościckiego pułk stracił jednego oficera i 31 ułanów zabitych oraz 46 rannych. Nowy dowódca Frontu Południowo-Zachodniego, generał Ławr Korniłow, podziękował mu telegraficznie, a pułk zaczęto nazywać krechowieckim. Napis „Krechowce 24 VII 1917” znalazł się później na jednej z tablic Grobu Nieznanego Żołnierza w Warszawie."
+    },
+    {
+     "file": "src/content/timeline/1918/01/i-korpus-polski-przeciw-bolszewikom.md",
+     "quote": "Korpus powstał latem 1917 roku z inicjatywy Naczelnego Polskiego Komitetu Wojskowego, czyli Naczpolu, z Polaków służących w armii rosyjskiej. Sztab mieścił się w Mińsku, a oddziały rozłożono na rozległym obszarze między Mińskiem, Smoleńskiem a Homlem. W połowie stycznia 1918 roku korpus liczył około 29 tysięcy ludzi w trzech dywizjach strzelców, z ułanami i Legią Oficerską, utworzoną w grudniu z nadliczbowych oficerów. Miał walczyć z Niemcami u boku Rosji i sprzymierzonych. Po rewolucji październikowej Dowbor-Muśnicki ogłosił, że nie będzie się mieszać w wewnętrzne spory rosyjskie, ale w jego wojsku nie było komitetów rewolucyjnych, a oficerowie zachowali władzę. Krylenko, który objął naczelne dowództwo po zamordowaniu Duchonina, zażądał „demokratyzacji” korpusu, czyli wybieralnych dowódców. Dowbor odmówił. W styczniu bolszewicy aresztowali w Piotrogrodzie część członków Naczpolu, odcięli korpus od zaopatrzenia i kazali go rozformować."
+    },
+    {
+     "file": "src/content/timeline/1918/01/i-korpus-polski-przeciw-bolszewikom.md",
+     "quote": "25 stycznia 1918 roku (12 stycznia według kalendarza juliańskiego) w południe upłynął termin"
+    },
+    {
+     "file": "src/content/topics/sprawa-polska-w-czasie-i-wojny-swiatowej.md",
+     "quote": "I Korpus Polski generała Józefa Dowbor-Muśnickiego już w styczniu odmówił rozbrojenia i stanął do walki z bolszewikami, a 11 maja Niemcy otoczyli i zaatakowali II Korpus pod Kaniowem"
+    }
+   ]
+  },
+  {
+   "start": "Rosja posługiwała się kalendarzem juliańskim",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Rosja posługiwała się wówczas kalendarzem juliańskim, który w XX wieku opóźniał się o 13 dni wobec gregoriańskiego, obowiązującego w niemal całej Europie. Według rosyjskiego kalendarza rozruchy zaczęły się 23 lutego, a garnizon zbuntował się 27 lutego. Dlatego rewolucję, która według naszego kalendarza wybuchła w marcu, nazywa się lutową. Z tego samego powodu przewrót bolszewicki z 7 listopada 1917 roku przeszedł do historii jako rewolucja październikowa. Rosja przeszła na kalendarz gregoriański dopiero w lutym 1918 roku."
+    },
+    {
+     "file": "src/content/timeline/1917/03/abdykacja-mikolaja-ii.md",
+     "quote": "15 marca 1917 roku (2 marca według kalendarza juliańskiego)"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "7 listopada 1917 roku (25 października według kalendarza juliańskiego)"
+    },
+    {
+     "file": "src/content/timeline/1918/02/rosja-przyjmuje-kalendarz-gregorianski.md",
+     "quote": "Dzień wcześniej, w środę, kalendarze w Piotrogrodzie i Moskwie pokazywały 31 stycznia. Następny dzień, czwartek, nie był jednak 1 lutego, lecz 14 lutego."
+    }
+   ]
+  },
+  {
+   "start": "Mniej sporów budzi rewolucja lutowa.",
+   "quotes": [
+    {
+     "url": "https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)",
+     "quote": "Katalizatorem rewolucji był przede wszystkim udział imperium w I wojnie światowej."
+    },
+    {
+     "url": "https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)",
+     "quote": "Wzrastały ceny żywności, co doprowadziło do pogorszenia się nastrojów społecznych."
+    },
+    {
+     "file": "src/content/timeline/1917/03/rewolucja-lutowa.md",
+     "quote": "Rewolucję nazywano potem „bezkrwawą”, ale tak nie było. Według zestawień Ziemgoru, organizacji ziemstw i miast, w dniach przewrotu na ulicach Piotrogrodu zginęło lub zostało rannych około 1440 osób"
+    },
+    {
+     "url": "https://pl.wikipedia.org/wiki/Rewolucja_lutowa_(1917)",
+     "quote": "Sytuacja na froncie i braki żywnościowe wzmagały niezadowolenie społeczne, które koncentrowało się na carycy"
+    },
+    {
+     "url": "https://dzieje.pl/node/67585",
+     "quote": "Dr hab. Piotr Osęka: To zależy z jakiego okresu historii PRL pochodzi podręcznik. W okresie stalinowskim podręczniki szczególnie skupiały się na historii ruchu robotniczego. Dlatego wojna 1920 r. znikała z ich narracji lub była przedstawiana jako starcie reżimu burżuazyjno-obszarniczej Polski z siłami postępu. Później historia była przedstawiana w nieco bardziej wyważony sposób, choć nigdy nie mówiła prawdy, czyli nie stwierdzała, że wydarzenia z listopada 1917 r. nie były rewolucją, ale typowym zamachem stanu. Prawdziwa rewolucja miała miejsce w lutym, gdy obalono reżym carski."
+    }
+   ]
+  },
+  {
+   "start": "O październik historycy spierają się",
+   "quotes": [
+    {
+     "url": "https://dzieje.pl/node/67585",
+     "quote": "zazwyczaj nie nazywano „rewolucją październikową”, ale „Wielką Socjalistyczną Rewolucją Październikową”"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rewolucja-pazdziernikowa.md",
+     "quote": "Przeciwnicy od początku mówili o zamachu stanu jednej partii"
+    },
+    {
+     "url": "https://apcz.umk.pl/KLIOPL/article/view/KlioPL.2016.06",
+     "quote": "Zaprezentowane refleksje zostały osnute wokół pytania o charakter tego przełomu – czy był on rewolucją społeczną, stanowiącą wynik niezadowolenia mas, chęci zmiany własnej kondycji ekonomicznej i socjalnej, wiążącej się z nowymi potrzebami kulturowymi, czy też zamachem stanu będącym rezultatem działania wąskiej, partyjnej elity zintegrowanej wokół wodza"
+    },
+    {
+     "url": "https://apcz.umk.pl/KLIOPL/article/view/KlioPL.2016.06",
+     "quote": "Instytut Historyczny Uniwersytetu Warszawskiego"
+    },
+    {
+     "url": "https://dzieje.pl/aktualnosci/rewolucyjny-rok-1917-marcowy-numer-magazynu-mowia-wieki",
+     "quote": "Jak stwierdza rosyjski historyk Borys Sokołow, wbrew późniejszemu propagandowemu obrazowi były one niemal bezkrwawe. Mimo to w jego opinii „rewolucji październikowej w żadnym razie nie można sprowadzać do banalnego przewrotu wojskowego. Aby przeciwstawić się bolszewikom, Rząd Tymczasowy potrzebował nie mniej masowego poparcia zarówno społecznego, jak i wojskowego. Nie miał go w październiku 1917 r. i to właśnie przesądziło o jego obaleniu"
+    }
+   ]
+  },
+  {
+   "start": "Podobnie ocenia się dni lipcowe.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/07/dni-lipcowe-w-piotrogrodzie.md",
+     "quote": "Według Richarda Pipesa była to nieudana próba zamachu stanu. Większość historyków, jak Rabinowitch i William Chamberlin, uważa raczej, że ruch wyszedł od rozgoryczonych żołnierzy i robotników"
+    },
+    {
+     "file": "src/content/timeline/1917/07/dni-lipcowe-w-piotrogrodzie.md",
+     "quote": "Według historyka Alexandra Rabinowitcha"
+    },
+    {
+     "file": "src/content/timeline/1918/01/rozpedzenie-konstytuanty.md",
+     "quote": "uważał, że w pewnym sensie bolszewicy objęli rządy w Rosji nie tyle w październiku 1917, co w styczniu 1918 roku, bo dopiero wtedy pokazali, że nie zamierzają liczyć się z wolą wyborców."
+    },
+    {
+     "url": "https://dzieje.pl/node/67585",
+     "quote": "Wydarzenia z listopada 1917 r. były początkiem krwawych rządów komunistów, które pochłonęły miliony ofiar."
+    }
+   ]
+  }
+ ]
+}

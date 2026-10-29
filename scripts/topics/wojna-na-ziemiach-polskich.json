@@ -1,0 +1,980 @@
+{
+ "slug": "wojna-na-ziemiach-polskich",
+ "paragraphs": [
+  {
+   "start": "Od 1 sierpnia 1914 roku wojna na froncie wschodnim",
+   "quotes": [
+    {
+     "file": "src/data/series.ts",
+     "quote": "Od 1 sierpnia 1914 roku wojna na froncie wschodnim toczyła się na ziemiach polskich, a Polacy służyli w armiach trzech zaborców po przeciwnych stronach."
+    },
+    {
+     "file": "src/data/series.ts",
+     "quote": "Przełamanie pod Gorlicami w maju 1915 roku odwróciło losy wojny: w czerwcu państwa centralne odzyskały Przemyśl i Lwów, a latem Rosjanie musieli opuścić całe Królestwo Polskie. Cofając się, Rosjanie wywozili fabryki, pustoszyli kraj i wysiedlali ludność, a na zajętych ziemiach Niemcy i Austriacy zaprowadzili własne rządy."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "4 czerwca 1916 roku cztery armie"
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "1 lipca 1917 roku piechota 11 i 7 Armii zaatakowała"
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "najbardziej zniszczonym regionem Europy jest odrodzona Polska, gdyż na blisko 90 proc. jej obszaru toczyły się działania wojenne"
+    }
+   ]
+  },
+  {
+   "start": "W 1914 roku ziemie polskie należały do trzech mocarstw",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "Wraz z wypowiedzeniem przez Niemcy wojny Rosji 1 sierpnia 1914 roku granica między oboma imperiami stała się linią frontu."
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "Rosyjskie plany wojenne nie przewidywały obrony zachodniej części Królestwa Polskiego, wysuniętej daleko między Prusy a Austro-Węgry. Wojska carskie wycofały się więc z przygranicznych miast"
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "2 sierpnia do opuszczonego przez Rosjan Kalisza wkroczył batalion pruskiego pułku piechoty, a 3 sierpnia pierwsi niemieccy żołnierze pojawili się w Częstochowie."
+    },
+    {
+     "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md",
+     "quote": "Po raz pierwszy od rozbiorów dwa państwa zaborcze stanęły do walki przeciw sobie. Tego samego dnia, 6 sierpnia 1914 roku"
+    }
+   ]
+  },
+  {
+   "start": "Dla Kalisza wkroczenie Niemców okazało się tragiczne",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "Dla Kalisza wkroczenie Niemców okazało się tragiczne. Od 4 sierpnia miasto padło ofiarą ostrzału artyleryjskiego, egzekucji i podpaleń. W ciągu kilku tygodni niemal całe historyczne centrum zostało zniszczone, a większość mieszkańców uciekła."
+    },
+    {
+     "file": "src/data/series.ts",
+     "quote": "zburzenie Kalisza otwiera listę przemocy wobec ludności cywilnej w tej wojnie"
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "Mieszkańcy trzech zaborów służyli w armiach Rosji, Niemiec i Austro-Węgier, a więc po przeciwnych stronach frontu."
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "W 1914 r. w czasie Bożego Narodzenia podczas walk w Karpatach oraz w Królestwie Polskim Polacy w rosyjskich mundurach oraz Polacy w austro-węgierskich mundurach, świętowali razem Wigilię, dzieląc się chlebem czy opłatkiem."
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "Dlatego też dowództwa trzech armii zdecydowanie zakazały wspólnego świętowania."
+    }
+   ]
+  },
+  {
+   "start": "Największa bitwa pierwszych tygodni rozegrała się",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "od 23 sierpnia do 11 września 1914 roku zmierzyły się główne siły Austro-Węgier i Rosji. Walki toczyły się na froncie długości około 300–400 kilometrów, od Wisły po Dniestr"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Wzięło w nich udział blisko dwa miliony żołnierzy. Armie austro-węgierskie zaczęły od zwycięstw pod Kraśnikiem i Komarowem, ale w tym samym czasie Rosjanie rozbili ich słabsze prawe skrzydło nad Złotą i Gniłą Lipą i 3 września zajęli Lwów. Próba odbicia miasta pod Gródkiem i Rawą Ruską oraz klęska pod Tarnawką zakończyły kampanię odwrotem za San."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Pod koniec września cofnęły się dalej, za Dunajec i Białą oraz w Karpaty."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Według różnych autorów Austro-Węgry straciły od około 320 do 400 tysięcy żołnierzy zabitych, rannych, zaginionych i wziętych do niewoli"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Straty rosyjskie szacuje się zwykle na około 225–250 tysięcy ludzi"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Prawie cała bitwa toczyła się na ziemiach polskich, a Polacy walczyli w niej po obu stronach frontu. W armii austro-węgierskiej służyli w pułkach z Galicji, z okręgów korpusów krakowskiego, przemyskiego i lwowskiego, a w armii rosyjskiej jako poborowi z Królestwa Polskiego."
+    }
+   ]
+  },
+  {
+   "start": "3 września Rosjanie weszli bez walki do Lwowa",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "3 września 1914 roku do Lwowa, stolicy austriackiej Galicji, wkroczyły wojska rosyjskie. Miasto nie było bronione."
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "Zajęte ziemie Galicji i Bukowiny oddano pod zarząd generał-gubernatorstwa. Na jego czele stanął hrabia Gieorgij Bobrinski"
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "oświadczył, że Galicja Wschodnia jest „rdzenną częścią jedynej, wielkiej Rusi”"
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "Zamknięto ukraińskie gazety, towarzystwa, czytelnie i księgarnie."
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "aresztowano greckokatolickiego metropolitę lwowskiego Andrzeja Szeptyckiego"
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "27 września 1914 roku rosyjscy żołnierze dokonali we Lwowie pogromu ludności żydowskiej"
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "Magistrat pod kierunkiem Rutowskiego, polski w składzie, starał się przede wszystkim chronić mieszkańców. Organizował miejskie kuchnie, które wydawały dziennie dziesiątki tysięcy obiadów, pomoc dla uchodźców i opiekę nad rannymi, a w sporach z okupantem bronił samorządu miasta."
+    },
+    {
+     "file": "src/content/timeline/1914/09/rosjanie-zdobywaja-lwow.md",
+     "quote": "Rosyjska okupacja trwała 293 dni."
+    }
+   ]
+  },
+  {
+   "start": "Na drodze Rosjan została twierdza Przemyśl",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/poczatek-oblezenia-przemysla.md",
+     "quote": "W jej murach znalazło się ponad 120 tysięcy żołnierzy i kilkanaście tysięcy cywilów."
+    },
+    {
+     "file": "src/content/timeline/1914/09/poczatek-oblezenia-przemysla.md",
+     "quote": "Źródła podają, że w okrążeniu znalazło się od około 18 do 30 tysięcy ludności cywilnej"
+    },
+    {
+     "file": "src/content/battles/1914/pierwsze-oblezenie-przemysla.md",
+     "quote": "Rosyjska 3 Armia generała Radko Dimitriewa próbowała zdobyć twierdzę szturmem, ale w dniach 5–8 października poniosła ciężkie straty i niczego nie osiągnęła."
+    },
+    {
+     "file": "src/content/timeline/1914/09/poczatek-oblezenia-przemysla.md",
+     "quote": "9 października do twierdzy dotarły pierwsze oddziały kawalerii austro-węgierskiej 3 Armii"
+    },
+    {
+     "file": "src/content/battles/1914/drugie-oblezenie-przemysla.md",
+     "quote": "Tym razem Rosjanie nie próbowali zdobywać fortów szturmem, lecz postanowili wziąć załogę głodem. Przez całą zimę Austro-Węgry próbowały przebić się do Przemyśla przez Karpaty i straciły w tych walkach setki tysięcy ludzi."
+    },
+    {
+     "file": "src/content/battles/1914/drugie-oblezenie-przemysla.md",
+     "quote": "Załoga zaczęła zabijać konie."
+    },
+    {
+     "file": "src/content/battles/1914/drugie-oblezenie-przemysla.md",
+     "quote": "W mieście brakowało soli, mydła, świec, zapałek"
+    },
+    {
+     "file": "src/content/battles/1914/drugie-oblezenie-przemysla.md",
+     "quote": "a w mieście wybuchła epidemia cholery"
+    },
+    {
+     "file": "src/content/timeline/1914/09/poczatek-oblezenia-przemysla.md",
+     "quote": "22 marca 1915 roku, po nieudanej próbie wyrwania się z okrążenia, Kusmanek wysadził forty, mosty i magazyny i poddał twierdzę. Do rosyjskiej niewoli poszło około 117–120 tysięcy żołnierzy"
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec września 1914 roku niemiecka 9 Armia",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Pod koniec września niemiecka 9 Armia i austro-węgierska 1 Armia ruszyły ze Śląska i z zachodniej Galicji na północny wschód, by odciągnąć Rosjan od pokonanej armii habsburskiej. Doszły nad Wisłę, a niemieckie oddziały stanęły kilkanaście kilometrów od Warszawy. Rosjanie zgromadzili tu jednak znacznie większe siły, sforsowali Wisłę i zmusili przeciwnika do odwrotu"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Na tej stronie przyjmujemy daty 28 września – 8 listopada 1914 roku"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Dla mieszkańców Królestwa Polskiego bitwa oznaczała przejście frontu przez ich domy dwa razy w ciągu miesiąca. Wojska obu stron rekwirowały żywność, konie i podwody, a wsie na liniach walk nad Wisłą, pod Kozienicami, Grójcem i Warszawą legły w gruzach."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "Warszawa po raz pierwszy doświadczyła bombardowań z powietrza. W najtragiczniejszym z nalotów, 19 października, zginęło według polskiej Wikipedii 18 osób. Wycofujący się Niemcy niszczyli kolej i mosty"
+    }
+   ]
+  },
+  {
+   "start": "W listopadzie 9 Armia, już pod dowództwem",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-warszawa-i-deblinem.md",
+     "quote": "1 listopada Hindenburg został naczelnym dowódcą na froncie wschodnim, a dowództwo 9 Armii objął Mackensen."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "uderzyła spod Torunia w bok rosyjskich armii, które szykowały się do marszu na Śląsk, i niemal zamknęła je w kotle pod Łodzią. Po kilku dniach to Niemcy znaleźli się w okrążeniu, z którego wyrwali się pod Brzezinami."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "była jedną z największych bitew manewrowych pierwszej wojny światowej"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Na tej stronie przyjmujemy daty 11 listopada – 6 grudnia 1914 roku."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Od 18 listopada na miasto spadały pociski"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Według sprawozdania milicji w czasie bitwy zginęło w mieście 135 cywilów, a 99 zostało rannych. Inne źródła podają 155 zabitych. Zniszczonych lub uszkodzonych zostało około 300 budynków."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Wszystkie większe gmachy zajęli ranni"
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "W niedzielę 6 grudnia 1914 roku wojska niemieckie wkroczyły do Łodzi."
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "Drugie co do wielkości miasto Królestwa Polskiego"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "zaczęła się trwająca do listopada 1918 roku niemiecka okupacja miasta"
+    }
+   ]
+  },
+  {
+   "start": "Na południu Rosjanie podeszli pod Kraków",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+     "quote": "Na początku listopada wobec zbliżania się Rosjan ogłoszono przymusową ewakuację. Z miasta wyjechała mniej więcej jedna trzecia mieszkańców. Na przedpolu twierdzy palono wsie"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+     "quote": "16 listopada austro-węgierska 4 Armia wyszła z twierdzy i uderzyła w bok Rosjan."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-krakowem.md",
+     "quote": "Żadna ze stron nie odniosła rozstrzygającego sukcesu."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+     "quote": "uderzyła z doliny Raby w bok i na tyły rosyjskiej 3 Armii, idącej na Kraków. Walki toczyły się w śniegu i mrozie"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+     "quote": "Po dziesięciu dniach, gdy z Karpat nadeszła druga armia austro-węgierska, Rosjanie musieli się wycofać za Dunajec."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+     "quote": "zatrzymał na linii Dunajca i Białej, gdzie z niewielkimi zmianami przetrwał do maja 1915 roku"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-limanowa.md",
+     "quote": "wśród wsi Limanowszczyzny i Sądecczyzny. Mieszkańcy przeżyli przemarsze obu armii, rekwizycje, ostrzał i pożary."
+    }
+   ]
+  },
+  {
+   "start": "Na północy Rosjanie cofnęli się nad Bzurę",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-nad-bzura.md",
+     "quote": "od końca listopada do połowy grudnia 1914 roku"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Walki nad Rawką i Bzurą to siedem miesięcy wojny pozycyjnej na zachodnim Mazowszu, kilkadziesiąt kilometrów od Warszawy."
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Front nie przesunął się o więcej niż kilka kilometrów"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Niemcy po raz pierwszy na dużą skalę użyli broni chemicznej"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Walki skończyły się dopiero w lipcu 1915 roku"
+    },
+    {
+     "file": "src/content/timeline/1915/01/niemiecki-atak-gazowy-pod-bolimowem.md",
+     "quote": "Rankiem 31 stycznia 1915 roku niemiecka artyleria otworzyła ogień na rosyjskie okopy nad Rawką, w okolicach Bolimowa. Wśród zwykłych pocisków na pozycje rosyjskie spadło około 18 tysięcy pocisków wypełnionych środkiem łzawiącym."
+    },
+    {
+     "file": "src/content/timeline/1915/01/niemiecki-atak-gazowy-pod-bolimowem.md",
+     "quote": "w mroźnym powietrzu gaz prawie nie parował"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "rozpoczął się nad ranem 31 maja. Na pozycje rosyjskie spłynęło ponad 240 ton chloru"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "po ataku 31 maja zatrutych zostało około 9 tysięcy rosyjskich żołnierzy"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Mieszkańców wsi leżących na linii okopów wysiedlono"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Najbardziej ucierpiał Sochaczew, który przez siedem miesięcy leżał na samej linii frontu nad Bzurą. Według danych zebranych po wojnie artyleria zniszczyła całkowicie 64 procent jego budynków"
+    }
+   ]
+  },
+  {
+   "start": "2 maja 1915 roku, po kilku godzinach ostrzału",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "2 maja 1915 roku, po kilku godzinach ostrzału z ponad tysiąca dział i moździerzy, nowa niemiecka 11 Armia generała Augusta von Mackensena, wsparta przez armie austro-węgierskie"
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "W ciągu czterech dni obrona rosyjska rozpadła się na całej głębokości"
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "jednym z nielicznych w całej wojnie przypadków, gdy natarcie przełamało ustabilizowany front okopów"
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "przełamanie frontu okopów, po którym obrońca nie zdołał zbudować nowej linii"
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "W rosyjskich szeregach służyło wielu poborowych z Królestwa Polskiego, a po stronie austro-węgierskiej w natarciu wzięła udział 12 Dywizja Piechoty z Krakowa, złożona w większości z Polaków"
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "Gorlice przez kilka miesięcy leżały na linii frontu i po bitwie były w dużej części ruiną. Wsie na pogórzu zostały zniszczone przez ostrzał i pożary."
+    }
+   ]
+  },
+  {
+   "start": "3 czerwca wojska niemieckie i austro-węgierskie",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/odbicie-przemysla.md",
+     "quote": "3 czerwca 1915 roku nad ranem do miasta weszły pierwsze oddziały niemieckie, a kilka godzin później austro-węgierskie. Rosyjskie rządy w Przemyślu trwały 73 dni."
+    },
+    {
+     "file": "src/content/battles/1915/odbicie-lwowa.md",
+     "quote": "Biegła ona wzdłuż rzeki Wereszycy"
+    },
+    {
+     "file": "src/content/battles/1915/odbicie-lwowa.md",
+     "quote": "22 czerwca 1915 roku Rosjanie opuścili stolicę Galicji"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "wkroczyły wojska austro-węgierskiej 2 Armii generała Eduarda von Böhm-Ermollego"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "19 czerwca rosyjskie władze zabrały ze sobą zakładników"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "Wśród wywiezionych był Tadeusz Rutowski"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "a razem z nimi wyjeżdżali galicyjscy moskalofile"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "W okolicznych wsiach cofające się wojska paliły zabudowania"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "austriackie władze wojskowe szybko zaczęły aresztować podejrzanych o sprzyjanie Rosji, często na podstawie donosów"
+    },
+    {
+     "file": "src/content/timeline/1915/06/austro-wegrzy-odbijaja-lwow.md",
+     "quote": "Do tego doszły wojenne rekwizycje żywności, odzieży i metali."
+    }
+   ]
+  },
+  {
+   "start": "Teraz przyszła kolej na Królestwo.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/07/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie.md",
+     "quote": "13 lipca 1915 roku o świcie"
+    },
+    {
+     "file": "src/content/timeline/1915/07/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie.md",
+     "quote": "uderzenie znad granicy Prus Wschodnich prosto na południe, przez Narew"
+    },
+    {
+     "file": "src/content/timeline/1915/07/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie.md",
+     "quote": "miał wznowić marsz na północ, w stronę Lublina, Chełma i Brześcia"
+    },
+    {
+     "file": "src/content/timeline/1915/07/koniec-bitwy-pod-biskupicami.md",
+     "quote": "30 lipca 1915 roku o świcie"
+    },
+    {
+     "file": "src/content/timeline/1915/07/koniec-bitwy-pod-biskupicami.md",
+     "quote": "Jej najbardziej znanym skutkiem była utrata Lublina przez Rosjan."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "Rosyjskie armie w środkowej Polsce znalazły się w głębokim worku, zagrożone od trzech stron."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "zdecydował się wycofać 2 i 4 Armię za Wisłę"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "5 sierpnia 1915 roku nad ranem wycofujący się Rosjanie wysadzili mosty na Wiśle, a kilka godzin później od zachodu do Warszawy weszły pierwsze oddziały niemieckiej 9 Armii feldmarszałka księcia Leopolda Bawarskiego"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "razem z twierdzą Iwangród, zajętą przez Austro-Węgrów dzień wcześniej"
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "5 sierpnia do opuszczonej przez Rosjan Warszawy weszły wojska niemieckie i skończyło się trwające od 1815 roku rosyjskie panowanie."
+    }
+   ]
+  },
+  {
+   "start": "W kolejnych tygodniach padały następne twierdze.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "w kolejnych tygodniach padły kolejne twierdze na linii Niemna, Narwi i Bugu"
+    },
+    {
+     "file": "src/content/battles/1915/oblezenie-nowogieorgijewska.md",
+     "quote": "Nowogieorgijewsk, dzisiejszy Modlin, był największą twierdzą Imperium Rosyjskiego."
+    },
+    {
+     "file": "src/content/battles/1915/oblezenie-nowogieorgijewska.md",
+     "quote": "20 sierpnia 1915 roku komendant twierdzy, generał kawalerii Nikołaj Bobyr, podpisał akt poddania. Do niewoli poszła cała załoga."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "22 sierpnia Rosjanie opuścili Osowiec"
+    },
+    {
+     "file": "src/content/battles/1915/obrona-osowca.md",
+     "quote": "W 1915 roku broniła się przez ponad pół roku."
+    },
+    {
+     "file": "src/content/battles/1915/obrona-osowca.md",
+     "quote": "Nie została zdobyta."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "w nocy na 26 sierpnia państwa centralne weszły do Brześcia Litewskiego"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "26 sierpnia 1915 roku niemiecki komunikat wojenny donosił"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "„nasze czołówki dotarły do Białegostoku”"
+    },
+    {
+     "file": "src/content/timeline/1915/07/poczatek-wielkiej-ofensywy-panstw-centralnych-na-wschodzie.md",
+     "quote": "Do jesieni Rosjanie opuścili całe Królestwo Polskie"
+    }
+   ]
+  },
+  {
+   "start": "Wielki odwrót z 1915 roku był zarazem katastrofą",
+   "quotes": [
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "Dla Polski był to rok wielkiego odwrotu armii rosyjskiej, który objął całe ziemie polskie."
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "Latem Rosja straciła Galicję, Królestwo Polskie i część Litwy"
+    },
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "Armia rosyjska, cofając się pod naporem wojsk niemieckich, przyjęła wówczas taktykę tzw. spalonej ziemi, z pozostawianych terenów wyganiając ludność, a majątek przejmując lub niszcząc."
+    },
+    {
+     "file": "src/content/timeline/1915/07/koniec-bitwy-pod-biskupicami.md",
+     "quote": "Austro-węgierski komunikat z tego dnia zarzucał wycofującym się Rosjanom, że niszczą osady i palą nawet zboże na polach."
+    },
+    {
+     "file": "src/content/timeline/1915/07/koniec-bitwy-pod-biskupicami.md",
+     "quote": "30 lipca 1915 roku"
+    },
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "Bieżeństwo (z ros. uchodźstwo) to masowa ucieczki ludności głównie (choć nie tylko) wyznania prawosławnego latem i wczesną jesienią 1915 r. przed nadciągającą armią niemiecką."
+    },
+    {
+     "url": "https://www.rp.pl/kraj/art4407971-przywrocic-pamiec-o-biezencach-uchodzcach-sprzed-wieku",
+     "quote": "Przede wszystkim wielki odwrót dotyczył jednak chłopstwa."
+    },
+    {
+     "url": "https://www.rp.pl/kraj/art4407971-przywrocic-pamiec-o-biezencach-uchodzcach-sprzed-wieku",
+     "quote": "Byli to mieszkańcy nie tylko Podlasia i Lubelszczyzny"
+    },
+    {
+     "url": "https://www.rp.pl/kraj/art4407971-przywrocic-pamiec-o-biezencach-uchodzcach-sprzed-wieku",
+     "quote": "Propaganda władz carskich mówiła, że Niemcy będą okrutni wobec ludności cywilnej"
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "Natomiast z Królestwa Polskiego i zaboru rosyjskiego 3,5 mln ludzi zostało zmuszonych do wyjazdu w głąb Rosji. Około 1/3 stanowili Polacy."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "A. Prymaka-Oniszk nawet 2 mln z ziem polskich"
+    }
+   ]
+  },
+  {
+   "start": "Razem z ludnością Rosjanie wywozili urzędy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "Wywożono urzędy, archiwa i instytucje państwowe."
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "Odchodząc, Rosjanie wywieźli urzędy, uniwersytet i maszyny fabryczne"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "Z fabryk demontowano maszyny i wysyłano je w głąb Rosji razem z surowcami i częścią robotników."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "Przed odejściem Rosjanie podpalili dworce Petersburski i Terespolski na Pradze"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "było jednym z największych ośrodków przemysłu włókienniczego w Imperium Rosyjskim"
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "Rosjanie zniszczyli wieże ciśnień, część elektrowni, urządzenia kolejowe i wiadukt nad torami. Białystok na długie lata przestał być miastem przemysłowym."
+    },
+    {
+     "url": "https://www.rp.pl/kraj/art4407971-przywrocic-pamiec-o-biezencach-uchodzcach-sprzed-wieku",
+     "quote": "Jednak przed dotarciem na miejsce wśród bieżeńców szerzyły się choroby zakaźne"
+    },
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "Duża część uchodźców nie przeżyła wygnania."
+    },
+    {
+     "url": "https://www.rp.pl/kraj/art4407971-przywrocic-pamiec-o-biezencach-uchodzcach-sprzed-wieku",
+     "quote": "Po zakończeniu wojny wracali w rodzinne strony, gdzie zastali spalone wsie."
+    }
+   ]
+  },
+  {
+   "start": "Uciekali także mieszkańcy Galicji.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Dla ludności cywilnej, polskiej, ukraińskiej i żydowskiej, bitwa oznaczała przemarsze wojsk, rekwizycje, spalone wsie i masową ucieczkę. Setki tysięcy uchodźców ruszyły na zachód, do Krakowa i dalej w głąb monarchii."
+    },
+    {
+     "url": "https://ceureviewofbooks.com/review/galician-refugees-during-the-first-world-war/",
+     "quote": "The subsequent forced evacuations of Lviv, Przemyśl, and Kraków (each discussed in turn) were chaotic, disorganized, and hurried"
+    },
+    {
+     "url": "https://ceureviewofbooks.com/review/galician-refugees-during-the-first-world-war/",
+     "quote": "Other waves of movement took place in response to the Brusilov and Kerensky campaigns of 1916 and 1917. The author provides his best estimate of the numbers (under a million refugees during the four waves)"
+    },
+    {
+     "url": "https://ceureviewofbooks.com/review/galician-refugees-during-the-first-world-war/",
+     "quote": "Kamil Ruszała has painstakingly pieced this story together"
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "Z Galicji uciekło lub zostało do tego zmuszonych ok. 900 tys. cywilnych osób."
+    },
+    {
+     "url": "https://ceureviewofbooks.com/review/galician-refugees-during-the-first-world-war/",
+     "quote": "A system of barrack-filled camps imperfectly organized along national lines overwhelmed the local communities. These were towns, or even cities, within towns: Gmünd’s camp alone housed over 28,000 refugees, as compared to its local population of 4500"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-galicyjska.md",
+     "quote": "Wycofujące się wojska austro-węgierskie aresztowały, a niekiedy rozstrzeliwały Rusinów podejrzanych o sympatie prorosyjskie."
+    }
+   ]
+  },
+  {
+   "start": "24 sierpnia 1915 roku Niemcy utworzyli",
+   "quotes": [
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "24 sierpnia Niemcy utworzyli Generalne Gubernatorstwo Warszawskie."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "jego szefem został generał Hans Hartwig von Beseler"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "On 24 August 1915, it became the new administrative headquarters and seat of the Generalgouvernement Warsaw."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "The south-eastern part of Congress Poland, directly attached to and encompassing areas east of the Vistula was administered by Austria-Hungary. There, on 25 August 1915, the Militärgeneralgouvernement Kielce was established, renamed on 1 October 1915 to the Militärgeneralgouvernement Lublin"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "With 48,000 square kilometres and a population of about 3.5 million, it was much smaller than the German area of 62,000 square kilometres and a population of 6 million."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "A smaller part of Poland around the cities of Augustów and Białystok remained under the rule of the military command Ober Ost."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-bialystok.md",
+     "quote": "Białystok trafił pod niemiecki zarząd wojskowy na terenach dawnych guberni zachodnich, kierowany przez dowództwo frontu wschodniego Hindenburga i Ludendorffa."
+    }
+   ]
+  },
+  {
+   "start": "Okupanci traktowali kraj przede wszystkim jako",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "In particular, the occupied territories represented an essential source of foodstuffs for the German home front hit by the blockade."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "the German attitude was also characterized by a tendency to massively exploit local natural resources and manpower"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "Requisitions were the main tool employed from the very beginning of the occupation."
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "W niedzielę 6 grudnia 1914 roku"
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "Okupanci zaczęli rekwirować wszystko, co mogło się przydać armii i niemieckiemu przemysłowi. Z fabryk wywożono surowce, tkaniny, maszyny, części z mosiądzu i miedzi, silniki i pasy transmisyjne."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "Any trade in wheat, rye or barley was prohibited."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "Until November 1918, requisitioned meat was more than 400,000 head of cattle, 100,000 pigs and 26,500 sheep."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "In the second half of 1916, for example, one requisition unit in Kalisz reported having sent to Germany almost 25 million eggs."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "Poles had to work in Germany and foodstuff was exported"
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "Tysiące robotników wyjechały później do pracy w Niemczech, dobrowolnie lub pod przymusem."
+    }
+   ]
+  },
+  {
+   "start": "Skutkiem był głód.",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "which led to severe hunger especially in Warsaw and Lodz"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "a bread-card system were introduced at the beginning of the occupation"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "By December 1915, the daily bread ration in cites was set at 145g. No less than 15 percent of barley flour and 35 percent of potato starch was to be used for bread baking."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "The ration in Warsaw – which was essentially blockaded, with incoming traffic stringently searched for hidden food – diminished to 50g per week by the end of 1916."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "At the end of April 1918, the ministry was abolished, its agenda being taken over by the Ministry of Internal Affairs. The overall situation, however, did not improve. Due to the increasing lack of adequate supplies, daily bread rations fell to 80g per person."
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "Łódzki przemysł włókienniczy, który przed wojną sprzedawał swoje wyroby przede wszystkim w Rosji, zamarł już w pierwszych tygodniach wojny."
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "Odcięta od rosyjskiego rynku i ograbiona z surowców Łódź pogrążyła się w nędzy. Do maja 1915 roku liczba ludzi bez pracy i środków do życia wzrosła do około 250 tysięcy."
+    },
+    {
+     "file": "src/content/timeline/1914/12/niemcy-zajmuja-lodz.md",
+     "quote": "w czasie wojny liczba mieszkańców Łodzi spadła o ponad ćwierć miliona, niemal o połowę"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "By 1916, about 100,000 people had lunch daily at public canteens."
+    }
+   ]
+  },
+  {
+   "start": "Pomoc z zewnątrz nie nadeszła.",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/07/niemcy-odrzucaja-pomoc-zywnosciowa-dla-polski.md",
+     "quote": "29 lipca 1916 roku"
+    },
+    {
+     "file": "src/content/timeline/1916/07/niemcy-odrzucaja-pomoc-zywnosciowa-dla-polski.md",
+     "quote": "Zadania podjął się Herbert Hoover, szef Komisji Pomocy dla Belgii"
+    },
+    {
+     "file": "src/content/timeline/1916/07/niemcy-odrzucaja-pomoc-zywnosciowa-dla-polski.md",
+     "quote": "Obie strony obwiniały się nawzajem, a zorganizowana na wzór belgijskiej akcja dostaw żywności z Ameryki do okupowanego Królestwa nie doszła do skutku."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "Jednocześnie Niemcy, chcąc zjednać sobie Polaków, zgodzili się na to, czego carskie władze odmawiały od dziesięcioleci. 15 listopada 1915 roku otwarto polskojęzyczny Uniwersytet Warszawski i Politechnikę Warszawską."
+    },
+    {
+     "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+     "quote": "W niedzielę 5 listopada 1916 roku"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rzad-kucharzewskiego.md",
+     "quote": "Od 1 września 1917 roku do polskich rąk należało sądownictwo"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rzad-kucharzewskiego.md",
+     "quote": "szkolnictwo wszystkich stopni"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/food-and-nutrition-east-central-europe/",
+     "quote": "in 1917, responsibility for supplies for civilians was handed over to Polish administration"
+    },
+    {
+     "file": "src/content/timeline/1917/11/rzad-kucharzewskiego.md",
+     "quote": "sprawy zagraniczne i wojsko pozostały w ich rękach"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/generalgouvernement-warschau/",
+     "quote": "As neither Germany nor Austria-Hungary were willing to share their power"
+    }
+   ]
+  },
+  {
+   "start": "Po wielkim odwrocie front odsunął się na wschód",
+   "quotes": [
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "Dla Polski był to rok, w którym Polacy walczyli po obu stronach frontu: Legiony po stronie austro-węgierskiej, a Brygada Strzelców Polskich w armii rosyjskiej."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "4 czerwca 1916 roku cztery armie"
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Rosjanie w kilka dni przerwali front pod Łuckiem i nad Dniestrem, zajęli Łuck, a potem Czerniowce i niemal całą Bukowinę."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "natarcie rosyjskiego XLVI Korpusu przez trzy dni powstrzymywały brygady Legionów Polskich. Bitwa pod Kostiuchnówką kosztowała legionistów około 2 tysięcy zabitych i rannych"
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "4 lipca 3 i 8 Armia uderzyły na północnym skrzydle, nad Styrem."
+    },
+    {
+     "file": "src/content/battles/1916/ofensywa-brusilowa.md",
+     "quote": "Wojska Linsingena musiały się jednak cofnąć za Stochód"
+    },
+    {
+     "file": "src/content/timeline/1916/08/rosjanie-ponownie-zdobywaja-stanislawow.md",
+     "quote": "Rano 11 sierpnia 1916 roku"
+    }
+   ]
+  },
+  {
+   "start": "Ostatni raz front przeszedł przez Galicję Wschodnią",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "Ich celem był Lwów. Po dwóch dniach ognia artylerii 1 lipca 1917 roku piechota 11 i 7 Armii zaatakowała"
+    },
+    {
+     "file": "src/content/timeline/1917/07/bitwa-pod-zborowem.md",
+     "quote": "2 lipca 1917 czechosłowacka brygada w armii rosyjskiej przełamała pod Zborowem front austro-węgierski."
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "W odwodzie 7 Armii stała też polska dywizja strzelców, sformowana z Polaków służących w armii rosyjskiej"
+    },
+    {
+     "file": "src/content/battles/1917/ofensywa-kierenskiego.md",
+     "quote": "Rosyjskie oddziały coraz częściej odmawiały pójścia do ataku. W połowie lipca ofensywa wygasła"
+    },
+    {
+     "file": "src/content/battles/1917/kontrofensywa-w-galicji-wschodniej.md",
+     "quote": "19 lipca 1917 roku niemieckie dywizje"
+    },
+    {
+     "file": "src/content/battles/1917/kontrofensywa-w-galicji-wschodniej.md",
+     "quote": "25 lipca Niemcy weszli do Tarnopola"
+    },
+    {
+     "file": "src/content/battles/1917/kontrofensywa-w-galicji-wschodniej.md",
+     "quote": "Pod koniec lipca front stanął nad Zbruczem, rzeką graniczną między Galicją a Rosją."
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec 1917 roku Rosja zawarła",
+   "quotes": [
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "15 grudnia w Brześciu Litewskim Rosja zawarła rozejm z państwami centralnymi i faktycznie wyszła z wojny."
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "1 lutego 1917 roku"
+    },
+    {
+     "file": "src/content/timeline/1918/10/wyzwolenie-krakowa.md",
+     "quote": "31 października 1918 polscy żołnierze armii austro-węgierskiej bez jednego strzału rozbroili garnizon Krakowa."
+    },
+    {
+     "file": "src/content/timeline/1918/11/pilsudski-wraca-do-warszawy.md",
+     "quote": "W Warszawie stało około 30 tysięcy niemieckich żołnierzy"
+    },
+    {
+     "file": "src/data/year-intros.json",
+     "quote": "a 11 listopada, gdy w mieście rozbrajano niemiecki garnizon"
+    },
+    {
+     "file": "src/content/battles/1918/obrona-lwowa-1918.md",
+     "quote": "1–22 listopada 1918 polscy ochotnicy, w dużej części młodzież, przez trzy tygodnie bronili się we Lwowie przed Ukraińcami"
+    }
+   ]
+  },
+  {
+   "start": "Straty znamy tylko z szacunków",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "dane o armiach zaborczych są bardzo przybliżone, bo żadna z nich nie liczyła żołnierzy według narodowości"
+    },
+    {
+     "file": "src/content/topics/sprawa-polska-w-czasie-i-wojny-swiatowej.md",
+     "quote": "W armiach wszystkich stron poległo, zmarło lub zaginęło od 385 do 530 tysięcy Polaków: Tomasz Nałęcz podaje 385 tysięcy, Muzeum Historii Polski około 450 tysięcy, a Mieczysław Wrzosek około 530 tysięcy."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Nałęcz: 385 tys.; MHP i Zamoyski: ok. 450 tys.; Wrzosek: ok. 530 tys."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Zamoyski: ok. 900 tys.; Bideleux i Jeffries: ok. 1 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Bieżeńcy i wysiedleni w głąb Rosji (1915, wszystkie narodowości)"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "A. Prymaka-Oniszk nawet 2 mln z ziem polskich; Chwalba 3,5 mln z Królestwa i zaboru rosyjskiego"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Kruszyński: ok. miliona Polaków z Królestwa i Galicji"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Chwalba ok. 900 tys.; K. Ruszała: niespełna milion w czterech falach"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Ofiar cywilnych nie podajemy: nie znaleźliśmy dwóch niezależnych szacunków."
+    }
+   ]
+  },
+  {
+   "start": "Według Chwalby największe zniszczenia",
+   "quotes": [
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "Jednak największe straty były w dwóch regionach – na Bałkanach oraz na ziemiach dawnej Rzeczypospolitej. Wynikało to z rodzaju wojny – na tych dwóch obszarach nie było wojny pozycyjnej, tak jak na Zachodzie, tylko wojska przesuwały się parokrotnie na wschód i na zachód. Taki walec niszczył dosłownie wszystko."
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "W 1919 r. na zaproszenie Ignacego J. Paderewskiego do Polski przyjechał Herbert Hoover, przyszły prezydent Stanów Zjednoczonych. Zobaczył, jak to wszystko wygląda – że tysiące dzieci nie mają co jeść i w co się ubrać, a tysiące rodzin nie ma gdzie mieszkać."
+    },
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "w latach 1916–1918 austro-węgierski wydział grobów wojennych w Krakowie zbudował w Galicji Zachodniej ponad 400 cmentarzy wojennych"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-pod-lodzia.md",
+     "quote": "Pamiątką tych walk jest blisko 180 cmentarzy wojennych w regionie łódzkim."
+    }
+   ]
+  },
+  {
+   "start": "Przez dziesięciolecia ta wojna była w Polsce",
+   "quotes": [
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "Według niej, z perspektywy państwa polskiego najważniejszym wydarzeniem I wojny św. było odzyskanie niepodległości."
+    },
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "Zwróciła uwagę, że bieżeństwo dotyczyło przede wszystkim ludności prawosławnej"
+    },
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "Mówiła, że bieżeństwo dotyczyło przede wszystkim chłopów, którzy nie zostawili wspomnień, listów, pamiętników czy dokumentów."
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Dla wielu mieszkańców Mazowsza była to wojna obca, „wojna zaborców”, co sprawiło, że pamięć o niej na długo przygasła."
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Przez dziesięciolecia front nad Rawką był w Polsce niemal zapomniany."
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "Historię w wydaniu światowym piszą głównie historycy zachodni z perspektywy doświadczeń własnych państw i narodów, dlatego cierpienia mieszkańców Polski i jej zniszczenia, podobnie jak Serbii, są tematem odległym, rzadko obecnym w narracji historycznej czy publicystyce."
+    },
+    {
+     "url": "https://dzieje.pl/node/106132",
+     "quote": "w ostatnich latach dzięki wysiłkowi polskich historyków i publikacjom zagranicznym badaczy zagranicznych"
+    },
+    {
+     "file": "src/content/battles/1914/walki-nad-rawka-i-bzura.md",
+     "quote": "Archeolodzy badają zachowane w lesie okopy i schrony"
+    },
+    {
+     "url": "https://dzieje.pl/node/19081",
+     "quote": "W Białymstoku zainaugurowano w piątek obchody setnej rocznicy tzw. bieżeństwa"
+    }
+   ]
+  }
+ ]
+}

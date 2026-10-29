@@ -1565,6 +1565,37 @@ same kind of question (przyczyny, skutki, okupacja, Zagłada).
   links (Lenin, Ebert, Masaryk, Ludendorff…) and battle links; they can be
   added back.
 
+### Second batch (same day): guides 5–8
+
+- Wojna na ziemiach polskich, Rewolucje w Rosji 1917, Wojna podwodna
+  1914–1918, Dlaczego Niemcy przegrały wojnę; PL and EN, 2,077–2,642 words,
+  53–81 links to our pages (the brief now says "at least 20, no cap" and
+  has the `question:` field). Eight guides in all; the "Temat" box is on
+  271 pages in each language.
+- Two guides went back for sources: "Rewolucje" had web quotes taken from
+  the fetch tool's summary; they were re-checked against the raw pages and
+  the debate section got a UW article (Kulecka, *Klio*). "Dlaczego Niemcy
+  przegrały" had only en.wikipedia; five LeMO (Deutsches Historisches
+  Museum) pages now back most web claims. The first batch's "Sprawa polska"
+  web quotes were re-checked against the raw pages: 4 of 4 verbatim.
+- Fixed in "Nowe rodzaje broni": "U-Booty zatopiły 7677 statków" (uboat.net
+  counts ships hit, also damaged and captured) → "prawie 5 tysięcy".
+- April 1917 shipping losses (the three conflicting U-boat articles):
+  Fayle, *Seaborne Trade* III: 881,027 tons lost to enemy action, of which
+  ~847,000 to submarines (the rest mines); 834,549 / 860,000 come from
+  unsourced secondary works. Suggested fixes, not made:
+  `1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna` "ponad 860
+  tysięcy" → "zależnie od zestawienia od około 835 do ponad 880 tysięcy";
+  `1917/02/poczatek-nieograniczonej-wojny-podwodnej` "880 tysięcy" is
+  right (all enemy action); `1917/05/komitet-do-spraw-konwojow` "z innych
+  przyczyn" → "razem z ofiarami min".
+- Other notes: `1918/08/dymisja-capellego` quotes Scheer's ~500,000 tons a
+  month in summer 1918 vs Fayle's 271,000 average (attributed, not wrong);
+  the University of Warsaw evacuated to Rostov-on-Don (our article) vs
+  Ryazan (rp.pl); bieżeństwo 3 million incl. 500,000 Poles (rp.pl) vs
+  2–3.5 million, ~1 million Poles (Chwalba, war-numbers); English guides
+  use both "Lemberg" and "Lwów" — pick one.
+
 ---
 
 ## Roadmap (checklist)
