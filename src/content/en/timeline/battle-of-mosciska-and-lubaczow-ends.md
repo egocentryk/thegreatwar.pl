@@ -2,7 +2,7 @@
 title: Battle of Mościska and Lubaczów ends
 summary: On 15 June 1915 Mackensen's armies broke the second Russian line at Nahaczów and Oleszyce. Brusilov ordered a retreat to the Gródek line in front of Lviv.
 source: koniec-bitwy-pod-mosciskami-i-lubaczowem
-sourceHash: 2cfc28f90e17f604fbda0860682a845a1a03be23
+sourceHash: b7d6d72bc97047f48bd0a569980b799ab7638d21
 ---
 
 On 15 June 1915, according to the British chronology of the war, the Battle of [Mościska](https://pl.wikipedia.org/wiki/Mościska) and [Lubaczów](https://pl.wikipedia.org/wiki/Lubaczów) came to an end. Three days after the [crossing at Sieniawa](/poczatek-bitwy-pod-mosciskami-i-lubaczowem) and two days after the start of the main attack, the troops of General [August von Mackensen](/postacie/august-von-mackensen) broke through the second line of the Russian defence. That day the commander of the Russian [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)), General [Aleksei Brusilov](/postacie/aleksiej-brusilow), ordered a retreat to the last fortified line in front of [Lviv](https://pl.wikipedia.org/wiki/Lwów).

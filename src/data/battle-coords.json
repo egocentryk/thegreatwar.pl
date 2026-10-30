@@ -6,7 +6,7 @@
   },
   "atak-na-lowestoft-i-yarmouth": {
     "lat": 52.5,
-    "lon": 2.0,
+    "lon": 2,
     "source": "manual"
   },
   "bitwa-galicyjska": {
@@ -150,7 +150,7 @@
     "source": "en:Battle of the Sambre (1918)"
   },
   "bitwa-nad-sanem": {
-    "lat": 50.0,
+    "lat": 50,
     "lon": 22.7,
     "source": "manual"
   },
@@ -649,6 +649,11 @@
     "lon": 3.15,
     "source": "manual"
   },
+  "bitwa-pod-kostiuchnowka": {
+    "lat": 51.3431,
+    "lon": 25.7597,
+    "source": "pl:Bitwa pod Kostiuchnówką"
+  },
   "bitwa-pod-kosturino": {
     "lat": 41.3572,
     "lon": 22.6094,
@@ -816,7 +821,12 @@
   },
   "bitwa-pod-noyon-1918": {
     "lat": 49.58,
-    "lon": 3.0,
+    "lon": 3,
+    "source": "manual"
+  },
+  "bitwa-pod-rarancza-1915": {
+    "lat": 48.3372,
+    "lon": 26.0667,
     "source": "manual"
   },
   "bitwa-pod-poelcappelle": {
@@ -1145,8 +1155,8 @@
     "source": "manual"
   },
   "kampania-mezopotamska": {
-    "lat": 33.0,
-    "lon": 45.0,
+    "lat": 33,
+    "lon": 45,
     "source": "manual"
   },
   "kampania-serbska-1914": {
@@ -1160,8 +1170,8 @@
     "source": "manual"
   },
   "kampania-wschodnioafrykanska": {
-    "lat": -7.0,
-    "lon": 36.0,
+    "lat": -7,
+    "lon": 36,
     "source": "manual"
   },
   "kontrofensywa-w-galicji-wschodniej": {
@@ -1310,12 +1320,12 @@
     "source": "manual"
   },
   "ofensywa-stu-dni": {
-    "lat": 50.0,
+    "lat": 50,
     "lon": 3.3,
     "source": "manual"
   },
   "ofensywa-trapezuncka": {
-    "lat": 41.0,
+    "lat": 41,
     "lon": 40.2,
     "source": "manual"
   },
@@ -1480,7 +1490,7 @@
     "source": "manual"
   },
   "podboj-serbii": {
-    "lat": 44.0,
+    "lat": 44,
     "lon": 20.9,
     "source": "manual"
   },
@@ -1551,7 +1561,7 @@
   },
   "trzecia-proba-odsieczy-al-kutu": {
     "lat": 32.5,
-    "lon": 46.0,
+    "lon": 46,
     "source": "manual"
   },
   "walki-nad-niemnem": {

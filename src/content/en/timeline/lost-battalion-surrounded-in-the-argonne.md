@@ -1,0 +1,24 @@
+---
+title: Lost Battalion surrounded in the Argonne
+summary: On 3 October 1918 Germans trapped Major Whittlesey's force of the 77th Division in the Argonne's Charlevaux ravine. The press called it the "Lost Battalion".
+source: zaginiony-batalion-okrazony-w-argonnach
+sourceHash: 692f1ce494fc0c67efc39eca3acf72831a9fdab6
+---
+
+On the morning of 3 October 1918, deep in the forests of the [Argonne](https://pl.wikipedia.org/wiki/Argonny), it became clear that several hundred soldiers of the American 77th Division were cut off from their own lines. The day before, during the [Meuse-Argonne offensive](/poczatek-ofensywy-moza-argonne), a force under Major Charles Whittlesey had broken through the German positions and, as ordered, halted in the Charlevaux ravine, north-east of [Binarville](https://pl.wikipedia.org/wiki/Binarville). During the night the Germans closed the gap behind it, and the neighbouring units, American and French, were unable to fight their way through to it. Newspapers in the United States soon called the trapped men the ["Lost Battalion"](https://pl.wikipedia.org/wiki/Zagubiony_Batalion).
+
+## An advance "regardless of losses"
+
+The 77th Division, made up mostly of draftees from [New York](https://pl.wikipedia.org/wiki/Nowy_Jork), many of them from Manhattan's immigrant districts, had been pushing through the Argonne since 26 September, a dense forest where trenches, wire and machine-gun nests had stretched [since 1914](/legion-garibaldiego-w-argonnach). Its left flank was exposed, because the French west of the forest were making no progress. On 2 October the attack stalled once more in front of a German line. The divisional commander, General Robert Alexander, then ordered the whole line to advance to the road from Binarville to La Viergette, "regardless of losses" and of the exposed flanks. According to his report the advance began at about 12.30 p.m. after a short artillery bombardment.
+
+The attack succeeded only on the left. Six companies of the 308th Infantry from its 1st and 2nd Battalions, with two machine-gun sections of the 306th Machine Gun Battalion, found a weakly held spot at the bottom of a ravine running north and passed through the German belt of trenches and wire. They were led by Whittlesey, a New York lawyer before the war and commander of the 1st Battalion, while the 2nd Battalion was commanded by Captain George McMurtry. At about 6 p.m. the force reached its objective. Whittlesey reported that it had lost about 90 men on the way and had taken 2 German officers, 28 men and 3 machine guns. For the night the soldiers dug in on a steep slope below the road, about half a kilometre east of the Charlevaux mill, with a stream below and a cliff above them. They had no greatcoats or blankets, and food for a day, or at most two according to the divisional commander.
+
+## The trap
+
+Their neighbours did not follow. The 307th Infantry on the right was stopped in front of the defences in the Bois de la Naza, and the French on the left in front of the position at La Palette. During the night the Germans of the 76th Reserve Division, which had relieved the 2nd Landwehr Division here on 1 October, reoccupied the trenches the Americans had crossed and strung wire across the bottom of the ravine. At dawn on 3 October Whittlesey sent Company E back to help, from the rear, the two companies left on the western side of the ravine. The company ran into the Germans and only one platoon returned to the trapped force. At about the same time, around 7 a.m., Captain Nelson Holderman's Company K of the 307th Infantry, about 80 men, got through to them. Soon afterwards the Germans broke up the chain of runner posts linking the force with the rear. From then on, the only link with the regiment was [carrier pigeons](https://pl.wikipedia.org/wiki/Gołąb_pocztowy).
+
+On the evening of 3 October the Germans surrounded the slope and showered it with grenades from all sides, including from the cliff above the road. The Americans, who were saving ammunition, answered only with a volley when the attackers rose to charge, and the attack broke down. During the day the 154th Brigade, to which the 308th Infantry belonged, attacked three times without success to break through to them.
+
+## How many were there
+
+The strength of the force is given in different ways. The history of the 77th Division published in 1919 speaks of 679 men who entered the ravine, and the historian of the episode Robert Laplander of nearly 700. Most accounts, including Whittlesey's Medal of Honor citation, which mentions 463 officers and men of the 308th Infantry plus Company K, give about 550 men. General Alexander disliked the name "Lost Battalion". He wrote that the force had not lost its way but had gone where it was ordered and held on until the rest of the division reached it. The trapped men would have to hold out for four more days.

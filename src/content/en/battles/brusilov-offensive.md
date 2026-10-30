@@ -9,7 +9,7 @@ sides:
     commanders: [Franz Conrad von Hötzendorf, Alexander von Linsingen, Archduke Joseph Ferdinand, Eduard von Böhm-Ermolli, Felix von Bothmer, Karl von Pflanzer-Baltin]
 result: Russian victory. The Austro-Hungarian front was broken in Volhynia and Bukovina, and the Russians recovered Lutsk, Czernowitz and Bukovina. They did not reach their operational objectives, Kovel and Lviv.
 source: ofensywa-brusilowa
-sourceHash: 419e123a51dbb24ee51736a60bde5cc50fe25534
+sourceHash: 79267edf57c40cb3ee263dc725240e29cb962017
 brief:
   - "On 4 June 1916 the four armies of General Aleksei Brusilov's South-Western Front struck simultaneously from Volhynia to Bukovina. It was the greatest victory of the Russian army in the First World War."
   - "The offensive was meant only as a subsidiary blow supporting the attack of Evert's Western Front. The Austrian offensive at Asiago brought the date forward, as the Italians begged the Russians for quick help."

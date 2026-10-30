@@ -1,0 +1,24 @@
+---
+title: Battle of Rarańcza ends
+summary: On 15 June 1915 XI Corps fell back to the Rokitna and the Second Brigade dug in at Rarańcza, where the uhlans killed in the charge at Rokitna were buried.
+source: koniec-bitwy-pod-rarancza
+sourceHash: 0dbbaf398639cf859416ec1ade7ac27fd7db9d75
+---
+
+On 15 June 1915 the command of the Austro-Hungarian XI Corps ordered its troops back to the hills on the right bank of the Rokitna stream, on the border of Bukovina and Bessarabia. The [Second Brigade of the Polish Legions](https://pl.wikipedia.org/wiki/II_Brygada_Legionów_Polskich) took over a sector at [Rarańcza](https://pl.wikipedia.org/wiki/Ridkiwci) 6–7 kilometres wide, from Hill 218 to Hill 262 on the southern edge of Toporivtsi. This ended the fighting that had begun [three days earlier](/poczatek-bitwy-pod-rarancza) in front of the Russian trenches above the village of [Rokitna](https://pl.wikipedia.org/wiki/Rokytne_(obwód_czerniowiecki)). The same day, in the cemetery at Rarańcza, the legionaries buried the uhlans who had been killed in the most famous episode of that fighting, the [charge at Rokitna](https://pl.wikipedia.org/wiki/Szarża_pod_Rokitną).
+
+## The charge of 13 June
+
+On the morning of 13 June the brigade's infantry was still held up at the stream below Rokitna, and the neighbouring Austro-Hungarian 42nd Infantry Division had stalled in its attack. The corps commander, General Ignaz Korda, demanded decisive action from the legionaries. The brigade's chief of staff, the Hungarian Captain Karol Vagas, ignored reports from the infantry commanders that it was impossible to attack in daylight, and at around midday ordered the uhlans to attack. At about 1 p.m. Rittmeister [Zbigniew Dunin-Wąsowicz](https://pl.wikipedia.org/wiki/Zbigniew_Dunin-Wąsowicz) left the 3rd Squadron in reserve and led the 2nd Squadron, a little over 60 sabres strong, against the Russian trenches.
+
+The uhlans jumped three lines of trenches under fire from the front and from both flanks. They were also hit by the Austrian batteries, which were supporting the infantry and knew nothing of the charge. Dunin-Wąsowicz was killed at the last line. The infantry, which most probably did not receive the order in time, did not follow the uhlans. According to the IPN booklet the charge lasted 13 minutes, according to Radio Kraków a quarter of an hour to twenty minutes. According to the booklet's author, Juliusz S. Tym, of the 65 participants 49 were lost, and 15 were killed on the spot or died of wounds the same day. The book *Szlakiem bojowym Legionów*, published by the brigade's officers that same year, wrote that only twenty of sixty came back unhurt. Three officers were killed: Dunin-Wąsowicz, Lieutenant [Jerzy Topór-Kisielnicki](https://pl.wikipedia.org/wiki/Jerzy_Topór-Kisielnicki) and Second Lieutenant Roman Włodek.
+
+## The Russian withdrawal and the return to the Rokitna
+
+After the charge, quiet fell along the brigade's whole sector. In the evening of 13 June the Russians began preparing to withdraw, and during the night of 13–14 June they abandoned the hills at Rokitna and Sankowce. Units of XI Corps reached the line Ryngacz–Szyszkowce, and during the night of 14–15 June the legionaries made a raid on Dynowiec. The corps, however, went no further. On 15 June its command pulled the troops back behind the Rokitna, more or less to where the legionaries had stood on 12 June. The Second Brigade stayed on this sector of the front, in relatively quiet conditions, until October, when it was moved to Volhynia.
+
+## The funeral at Rarańcza
+
+In the cemetery at Rarańcza 15 graves and 15 wooden coffins were prepared. According to the 1915 book, the first, the Rittmeister's coffin, was covered with a red cloth bearing the white eagle, and an uhlan helmet was laid on it. The service was conducted by the chaplain of the 3rd Regiment, Father [Józef Panaś](https://pl.wikipedia.org/wiki/Józef_Panaś). Over the graves spoke Sergeant Major Stanisław Sokołowski, who had been wounded in the charge: "Here are our comrades – sent to their deaths, they rode in full awareness of it, yet not one turned his horse back." Colonel [Zygmunt Zieliński](/postacie/zygmunt-zielinski) went round all the graves and threw a handful of earth on each coffin. According to Wojciech Grochowalski he did not speak, because he wept the whole time. Officers of the corps staff, sent to pay the fallen their honours, were present. Among the mourners stood Lieutenant Łuszczewski, weeping for his son Bronisław.
+
+The participants compared the charge to [Somosierra](https://pl.wikipedia.org/wiki/Bitwa_pod_Somosierrą). On 24 June the brigade commander, Colonel [Ferdinand Küttner](https://pl.wikipedia.org/wiki/Ferdynand_Küttner), decorated its participants, posthumously too, and on 28 June the Legions Command announced in an order that the charge of the 2nd Squadron "henceforth stands worthily beside Somosierra".

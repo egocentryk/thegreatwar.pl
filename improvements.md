@@ -2360,6 +2360,46 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 43. The Legions 1915–1916 and the Lost Battalion (2026-10-30)
+
+- Gaps found while collecting voices, filled PL/EN (brief
+  `scripts/briefs/legions-and-argonne.md`, checker `expand.py`, 0 problems):
+  - **Rarańcza 1915:** battle page `bitwa-pod-rarancza-1915` (12–15 VI
+    1915, phase 1915-gorlice; the slug avoids the 1918 article) and the
+    start/end articles (12 and 15 VI), with the uhlans' charge at Rokitna.
+  - **Volhynia 1915:** `legiony-zdobywaja-kukle` (22 X),
+    `legiony-zdobywaja-kamieniuche` (27 X; sources 27–29 X),
+    `legiony-zdobywaja-polska-gore` (10 XI; the name dates from this
+    capture). No battle page: no single fight supports one.
+  - **Kostiuchnówka:** battle page `bitwa-pod-kostiuchnowka` (4–6 VII 1916,
+    phase 1916-front-wschodni) and the start/end articles.
+  - **The Lost Battalion:** `zaginiony-batalion-okrazony-w-argonnach` (3 X
+    1918) and `odsiecz-dla-zaginionego-batalionu` (7 X), under the
+    Meuse-Argonne battle; "Go to hell" presented as legend.
+- Wiring: 9 pages now link the Kostiuchnówka battle page instead of
+  pl.wikipedia (`wiki-to-internal.py`); Piłsudski's page and the "Sprawa
+  polska" guide link the Volhynia articles; Zieliński's page and the 1918
+  Rarańcza article link the 1915 battle; the two Kostiuchnówka voices moved
+  to `koniec-bitwy-pod-kostiuchnowka`; "Kościuchnówką" → "Kostiuchnówką" on
+  the Brusilov page; Mościska articles reordered (dayOrder 2) on 12 and 15
+  VI 1915. Map coordinates: Kostiuchnówka from pl.wiki, Rarańcza by hand
+  (the village, today Ridkiwci).
+- Milestones (owner): the Kostiuchnówka battle page and its 4 VII article,
+  each with a "W skrócie" of four points, PL/EN.
+
+### Writers' notes (for the review list)
+
+- `postacie/kazimierz-sosnkowski`: "dowodził jedną z grup I Brygady nad
+  Styrem" in autumn 1915; Klimecki gives the detached group to Rydz-Śmigły.
+- The Russian XLVI Corps at Kostiuchnówka was in Lesh's 3rd Army (ru.wiki
+  after Kersnovsky), not Kaledin's 8th (pl.wiki infobox).
+- `timeline/1918/02/bitwa-pod-rarancza` has no `sources:` yet.
+- pl.wiki traps: `Zaginiony_batalion` is the 2001 film (use
+  `Zagubiony_Batalion`); `Nikołaj_Istomin` is an NKVD officer; `Polska_Góra`
+  and `Wołczeck` are disambiguation pages; the village is `Kamienucha`.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2458,6 +2498,7 @@ finished, tick it here and add its section above.
 - [x] Country pages "Kraje w wojnie": 16 states, PL/EN (§40)
 - [x] "Głosy z frontu": pilot (12 voices, VIII 1914) and batches 1–8: 354 voices, VIII 1914 – XII 1918 (§41)
 - [x] English edition: Lviv instead of Lemberg/Lwów (§42)
+- [x] Legions 1915–1916 (Rarańcza, Volhynia, Kostiuchnówka) and the Lost Battalion (§43)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

@@ -6,7 +6,7 @@ front: Front wschodni
 battle: bitwa-pod-mosciskami-i-lubaczowem
 date: 1915-06-15
 authors: [Natalia]
-dayOrder: 1
+dayOrder: 2
 tags: [Niemcy, Austro-Węgry, Rosja, Galicja]
 milestone: false
 draft: false
