@@ -5,7 +5,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro"
 import { locale, type Lang } from "@/i18n"
 import { localPeople, paths } from "@/i18n/local"
 import { counterpart, isThin, LABELS, yearLinks, type Group, type Kind } from "@/utils/filteredPages"
-import { groupTimelineEntries, WAR_START_YEAR } from "@/utils/groupTimelineEntries"
+import { groupTimelineEntries, warYear } from "@/utils/groupTimelineEntries"
 import { listPageLd } from "@/utils/jsonLd"
 import { listMeta } from "@/utils/periodMeta"
 import { getPeople, personByName } from "@/utils/people"
@@ -27,7 +27,7 @@ const label = LABELS[kind][lang]
 const years = yearLinks(entries, base)
 const activeYear = years ? (year ?? years[0].year) : undefined
 const timelineByYear = groupTimelineEntries(entries, locale(lang)).filter(
-  (yearGroup) => activeYear === undefined || Math.max(yearGroup.year, WAR_START_YEAR) === activeYear,
+  (yearGroup) => activeYear === undefined || warYear(yearGroup.year) === activeYear,
 )
 const shown = timelineByYear.flatMap((yearGroup) => yearGroup.months.flatMap((month) => month.entries))
 // Count, years and key events (utils/periodMeta.ts): of the whole list on its

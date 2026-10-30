@@ -21,6 +21,7 @@ thegreatwar.pl is a **Polish-language chronicle of the First World War**, built 
 | Battle phases (groups on the /bitwy page) | `src/data/battlePhases.ts` |
 | Article page | `src/pages/[id].astro` |
 | Country pages ("Kraje w wojnie") | `src/content/countries/<slug>.md` (EN `src/content/en/countries/`) → `/kraje/<slug>`; battles, people, key dates and figures are listed automatically by `name` (`src/utils/countries.ts`). Brief `scripts/briefs/countries.md`, checker `topics.py --countries` |
+| Era after the war ("Po wojnie", 1919–1923) | articles in `src/content/timeline/<YYYY>/…`; years after `WAR_END_YEAR` share `/timeline/po-wojnie` (`/en/timeline/after-the-war`) like the pre-war era (`eraOf` in `src/utils/groupTimelineEntries.ts`). Scope: the wars that carried the Great War on and Poland's borders to 15 III 1923; the political road to WWII belongs to thesecondwar.pl. Brief `scripts/briefs/after-the-war.md` |
 | Era before the war ("Przed wojną", 1879–1913) | articles in `src/content/timeline/<YYYY>/…` like any other; years before `WAR_START_YEAR` (`src/utils/groupTimelineEntries.ts`) get no year or month pages: they share `/timeline/przed-wojna` (`/en/timeline/before-the-war`), `paths().year/month` link there, and they stay out of "On this day" and the random days. Brief: `scripts/briefs/before-the-war.md`. Scope: European and Polish origins only; Asia before 1914 belongs to thesecondwar.pl |
 | Persistent memory (rules) | `~/.claude/projects/-Users-lukaszskowron-Code-astro-thegreatwar-pl/memory/` (`MEMORY.md` is the index) |
 

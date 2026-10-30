@@ -269,6 +269,12 @@ export const PHASES_EN: Record<
     intro:
       "When the Bolsheviks broke off the negotiations at Brest-Litovsk, declaring that they would neither fight nor sign a peace, Germany and Austria-Hungary renounced the armistice and advanced east. Within two weeks, meeting almost no resistance from the disintegrating Russian army, they occupied Livonia, Estonia and much of Belarus, and on 1 March entered Kiev. By May they had occupied the whole of Ukraine. The offensive forced Lenin to accept far harsher peace terms, signed on 3 March 1918.",
   },
+  "1920-wojna-polsko-bolszewicka": {
+    title: "1919–1921: The Polish–Soviet War",
+    dates: "from February 1919 to March 1921",
+    intro:
+      "In the east the Great War did not end on 11 November 1918. As the Germans withdrew from the lands of the former Russian Empire, the reborn Polish army and the Red Army moved into the gap. Clashes in February 1919 grew into a war over where Poland's border would run and whether the revolution would reach the West. After the Kyiv offensive and Tukhachevsky's advance, it was decided by the Battle of Warsaw in August and the Battle of the Niemen in September 1920. Peace was signed at Riga in March 1921.",
+  },
   "1917-front-wloski": {
     title: "1917: The Italian front",
     dates: "from May 1917",

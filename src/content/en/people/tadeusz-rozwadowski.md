@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Babin near Kałusz (Galicia, Austria-Hungary)
 deathPlace: Warsaw
 source: tadeusz-rozwadowski
-sourceHash: 2bfb4ae43ea9831ae43abf14fba39b67c0fa0d3b
+sourceHash: 689a20bc32a63f23c3d600234a8f085166234df9
 ---
 
 Tadeusz Jordan Rozwadowski was one of the highest-ranking Poles in the Austro-Hungarian army, an artilleryman and inventor who in 1916 was pensioned off for defending the population of Galicia. In October 1918 the Regency Council in Warsaw made him the first chief of the General Staff of the Polish Army, and from November 1918 to March 1919 he commanded the defence of Lviv, besieged by the Ukrainians. He is best known as chief of staff during the Battle of Warsaw in 1920 and as Piłsudski's opponent in May 1926. His biography, however, has become overgrown with legends. Polish tradition credited him with a decisive role in breaking the front at Gorlice in 1915, while newer research based on Austrian records shows that on the key days of that battle he held no command post.
@@ -39,7 +39,7 @@ At the end of December 1918 he repulsed a great Ukrainian assault on the city. I
 
 ## After the war
 
-In Paris he sought the support of the Powers on the question of Eastern Galicia and an alliance with Romania, and in the autumn of 1919 he helped to form a squadron of American volunteer airmen. On 22 July 1920 Piłsudski again appointed him chief of the General Staff, and in this post he conducted the [Battle of Warsaw](https://pl.wikipedia.org/wiki/Bitwa_Warszawska). Later he was inspector-general of cavalry. In May 1926 he commanded the government troops against Piłsudski's coup. After the [May Coup](https://pl.wikipedia.org/wiki/Przewrót_majowy) he was held in prison for a year without a verdict, and during that time wrote his memoirs of the Great War. He was released in May 1927 with his health broken and died in Warsaw on 18 October 1928. In accordance with his wishes he was buried in the Cemetery of the Defenders of Lviv.
+In Paris he sought the support of the Powers on the question of Eastern Galicia and an alliance with Romania, and in the autumn of 1919 he helped to form a squadron of American volunteer airmen. On 22 July 1920 Piłsudski again appointed him chief of the General Staff, and in this post he conducted the [Battle of Warsaw](/bitwy/bitwa-warszawska). Later he was inspector-general of cavalry. In May 1926 he commanded the government troops against Piłsudski's coup. After the [May Coup](https://pl.wikipedia.org/wiki/Przewrót_majowy) he was held in prison for a year without a verdict, and during that time wrote his memoirs of the Great War. He was released in May 1927 with his health broken and died in Warsaw on 18 October 1928. In accordance with his wishes he was buried in the Cemetery of the Defenders of Lviv.
 
 ## Assessment
 

@@ -4,7 +4,7 @@ import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { locale, type Lang } from "@/i18n"
 import { localEvents } from "@/i18n/local"
-import { groupTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
+import { groupTimelineEntries, isOutsideWar } from "@/utils/groupTimelineEntries"
 
 interface Props {
   lang?: Lang
@@ -13,8 +13,8 @@ interface Props {
 const { lang = "pl" } = Astro.props
 const allTimeline = await localEvents(lang)
 const timelineByYear = groupTimelineEntries(allTimeline, locale(lang))
-// The years before the war have their own page, "Przed wojną".
-const defaultYear = timelineByYear.find((group) => !isPreWar(group.year))?.year
+// The years before and after the war have their own era pages.
+const defaultYear = timelineByYear.find((group) => !isOutsideWar(group.year))?.year
 ---
 
 <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">

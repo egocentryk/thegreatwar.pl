@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Brzeżany (Austria-Hungary)
 deathPlace: Warsaw
 source: edward-rydz-smigly
-sourceHash: 788f2b00fdece477b8ef1faf94fb080ebccf3c2a
+sourceHash: b7ceddb2319d6e2dfa9da7ceca7805b52b1ef3c6
 ---
 
 Edward Rydz, known during the Great War mainly by his pseudonym "Śmigły", was one of the ablest line officers the Legions produced. A painter by training, for three years he commanded the 1st Infantry Regiment of the First Brigade, the most experienced unit of [Józef Piłsudski](/postacie/jozef-pilsudski). His greatest role, however, came while the Commandant sat in a German prison. From the summer of 1917 Rydz led the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), the underground that in November 1918 disarmed the partitioning powers' troops and carried the independence left to power. In the Lublin government of [Ignacy Daszyński](/postacie/ignacy-daszynski) he was minister of war. He later became a Marshal of Poland and commander-in-chief in 1939, but that part of his life lies outside the Great War.
@@ -41,7 +41,7 @@ Piłsudski, who [returned to Warsaw on 10 November](/pilsudski-wraca-do-warszawy
 
 ## After the war
 
-In 1919 Rydz commanded in Volhynia, and in April led the Legions division that took Wilno. At the turn of 1919 and 1920 he directed the Polish-Latvian operation that recaptured Daugavpils from the Bolsheviks. In the [Polish-Soviet War](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka) his 3rd Army took Kyiv on 7 May 1920, and in August he commanded the right wing of the strike group on the Wieprz. In 1920, under a law allowing a military pseudonym to be added to a surname, he took the surname Rydz-Śmigły, and later used the form Śmigły-Rydz. After Piłsudski's death in 1935 he became Inspector General of the Armed Forces, in 1936 Marshal of Poland, and on 1 September 1939 commander-in-chief. After the September defeat he was interned in Romania, from where in the autumn of 1941 he made his way through Hungary to occupied Warsaw. He died there on 2 December 1941 and was buried at Powązki under the assumed name Adam Zawisza.
+In 1919 Rydz commanded in Volhynia, and in April led the Legions division that took Wilno. At the turn of 1919 and 1920 he directed the Polish-Latvian operation that recaptured Daugavpils from the Bolsheviks. In the [Polish-Soviet War](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka) his 3rd Army took Kyiv on 7 May 1920, and in August he commanded the right wing of the [strike group on the Wieprz](/kontruderzenie-znad-wieprza). In 1920, under a law allowing a military pseudonym to be added to a surname, he took the surname Rydz-Śmigły, and later used the form Śmigły-Rydz. After Piłsudski's death in 1935 he became Inspector General of the Armed Forces, in 1936 Marshal of Poland, and on 1 September 1939 commander-in-chief. After the September defeat he was interned in Romania, from where in the autumn of 1941 he made his way through Hungary to occupied Warsaw. He died there on 2 December 1941 and was buried at Powązki under the assumed name Adam Zawisza.
 
 ## Assessment
 

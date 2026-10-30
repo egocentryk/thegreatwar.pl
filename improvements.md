@@ -2400,6 +2400,59 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 44. "Po wojnie": the war after the war, 1919–1923 (2026-10-30)
+
+- Owner chose A6 option (a): this site covers the armed conflicts that
+  carried the Great War on, above all Poland's wars for its borders, up to
+  the recognition of the eastern border (15 III 1923); thesecondwar.pl keeps
+  the political road to the next war (and was not edited).
+- 53 timeline articles and 2 battle pages, PL/EN (brief
+  `scripts/briefs/after-the-war.md`, checker `expand.py`, 0 problems), by
+  seven writers: Eastern Galicia and Vilnius 1919; Cieszyn, Trier,
+  Versailles for Poland, Pomerania and the Warmia–Masuria plebiscite; the
+  Silesian uprisings and plebiscite; the Polish–Soviet war in two parts
+  (battle pages `bitwa-warszawska` and `bitwa-nad-niemnem`, new phase
+  `1920-wojna-polsko-bolszewicka`); the Russian Civil War and the Allied
+  intervention; Ireland, the Baltic, the Greco-Turkish war, Klaipėda.
+- Era code generalised: `eraOf` / `isOutsideWar` / `warYear` in
+  `groupTimelineEntries.ts`; `paths().eraAfter`; "Po wojnie" / "After the
+  war" last in the year menu; `/timeline/po-wojnie`,
+  `/en/timeline/after-the-war` with its own "W skrócie"
+  (`scripts/evidence/year-intros/po-wojnie.json`). Post-war years are kept
+  out of the homepage period, "On this day" and the random days; split tag
+  lists fold them into 1918. The battle map's year chips come from the data
+  (a 1920 chip); the battle Gantt chart (`/bitwy/os-czasu`) keeps to the war
+  years. Map coordinates for the 1920 battles by hand (Warsaw, Grodno).
+- Links in: 9 person pages via `wiki-to-internal.py` (new `EVENTS` entries
+  for the uprisings, plebiscites, Trier, Riga, Żeligowski…), hand links on
+  Denikin, Gajda, Rydz-Śmigły, Yudenich and the "Skutki" guide. 1918
+  articles cannot link forward (workflow rule). New tags: "wojna
+  polsko-bolszewicka", "powstania śląskie", "wojna domowa w Rosji".
+- Owner decisions: milestones (with "W skrócie", PL/EN) for Versailles for
+  Poland, the start of the Polish–Soviet war, the Battle of Warsaw page and
+  its start, the Peace of Riga, the third Silesian uprising, the division of
+  Upper Silesia, the end of the Polish–Ukrainian war, Vilnius 1919 and the
+  1923 recognition; the end of the siege of Lviv stays on 19 III 1919 (the
+  corridor reopened; the text explains 22 V).
+
+### Writers' notes (for the review list)
+
+- `1918/12/bolszewicy-zajmuja-minsk`: Red Army entry 10 XII vs 11 XII
+  (pl.wiki).
+- `postacie/aleksandr-kolczak`: "po dziewięciu dniach przesłuchań" — the
+  interrogations ran ~2 weeks (perhaps nine sessions).
+- Sources' errors not repeated: dzieje.pl dates Neuilly 27 X (27 XI) and
+  Belina's order "16 marca" (16 IV); Przystanek Historia dates the
+  Białystok agreement 5 I (5 II); en.wiki's "2,500 rebels killed" (IPN:
+  all dead).
+- pl.wiki traps: `Traktat_ryski` is a disambiguation page (use
+  `Traktat_ryski_(1921)`); `Seán_Treacy`, `Ligowo`, `Krasnaja_Gorka`,
+  `Wiatka` (the river), `Centrum_Polityczne`, `Erskine_Childers` (the son)
+  are other subjects; `Wacław_Iwaszkiewicz`, `Stryj`, `Sakarya`, `Narwa`,
+  `Teodozja`, `Bitwa_pod_Kiesią` are disambiguations.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2499,6 +2552,7 @@ finished, tick it here and add its section above.
 - [x] "Głosy z frontu": pilot (12 voices, VIII 1914) and batches 1–8: 354 voices, VIII 1914 – XII 1918 (§41)
 - [x] English edition: Lviv instead of Lemberg/Lwów (§42)
 - [x] Legions 1915–1916 (Rarańcza, Volhynia, Kostiuchnówka) and the Lost Battalion (§43)
+- [x] "Po wojnie": the war after the war 1919–1923, 53 articles and 2 battle pages, PL/EN (§44)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

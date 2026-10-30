@@ -6,6 +6,7 @@ import { BATTLE_PHASES } from "@/data/battlePhases"
 import { BATTLE_PARENTS } from "@/data/battleParents"
 import { frontEn, locale, type Lang } from "@/i18n"
 import { localBattles, paths, type LocalBattle } from "@/i18n/local"
+import { isOutsideWar } from "@/utils/groupTimelineEntries"
 import { formatDateRange } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
 
@@ -14,7 +15,9 @@ interface Props {
 }
 
 const { lang = "pl" } = Astro.props
-const battles = await localBattles(lang)
+// The war's battles only: those starting after 1918 ("Po wojnie") would
+// stretch the axis and squeeze the war years; they are on /bitwy and the map.
+const battles = (await localBattles(lang)).filter((battle) => !isOutsideWar(battle.data.startDate.getUTCFullYear()))
 const byId = new Map(battles.map((battle) => [battle.id, battle]))
 
 // The parent list must name existing battles; a typo there fails the build.

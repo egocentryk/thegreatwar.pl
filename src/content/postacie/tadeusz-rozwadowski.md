@@ -54,7 +54,7 @@ Pod koniec grudnia 1918 roku odparł wielki ukraiński szturm na miasto. W stycz
 
 ## Po wojnie
 
-W Paryżu zabiegał o poparcie mocarstw w sprawie Galicji Wschodniej i o sojusz z Rumunią, a jesienią 1919 roku pomógł utworzyć eskadrę amerykańskich lotników ochotników. 22 lipca 1920 roku Piłsudski mianował go ponownie szefem Sztabu Generalnego i na tym stanowisku przeprowadził [bitwę warszawską](https://pl.wikipedia.org/wiki/Bitwa_Warszawska). Potem był generalnym inspektorem jazdy. W maju 1926 roku dowodził wojskami rządowymi przeciw zamachowcom Piłsudskiego. Po [przewrocie majowym](https://pl.wikipedia.org/wiki/Przewrót_majowy) był przez rok więziony bez wyroku, w tym czasie spisał wspomnienia z wielkiej wojny. Wyszedł na wolność w maju 1927 roku z podupadłym zdrowiem i zmarł w Warszawie 18 października 1928 roku. Pochowano go, zgodnie z jego wolą, na Cmentarzu Obrońców Lwowa.
+W Paryżu zabiegał o poparcie mocarstw w sprawie Galicji Wschodniej i o sojusz z Rumunią, a jesienią 1919 roku pomógł utworzyć eskadrę amerykańskich lotników ochotników. 22 lipca 1920 roku Piłsudski mianował go ponownie szefem Sztabu Generalnego i na tym stanowisku przeprowadził [bitwę warszawską](/bitwy/bitwa-warszawska). Potem był generalnym inspektorem jazdy. W maju 1926 roku dowodził wojskami rządowymi przeciw zamachowcom Piłsudskiego. Po [przewrocie majowym](https://pl.wikipedia.org/wiki/Przewrót_majowy) był przez rok więziony bez wyroku, w tym czasie spisał wspomnienia z wielkiej wojny. Wyszedł na wolność w maju 1927 roku z podupadłym zdrowiem i zmarł w Warszawie 18 października 1928 roku. Pochowano go, zgodnie z jego wolą, na Cmentarzu Obrońców Lwowa.
 
 ## Ocena
 

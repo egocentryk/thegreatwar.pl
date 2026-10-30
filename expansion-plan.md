@@ -250,6 +250,11 @@ writing anything for 1919+.** Either way, the 1918 articles both sites
 have (Compiègne, the German revolution, the Greater Poland Uprising)
 should link to each other (§B8).
 
+- **Done 2026-10-30 (owner chose (a)):** the era "Po wojnie" with 53
+  articles and the Warsaw and Niemen battle pages, 1919–1923; split with
+  thesecondwar.pl: armed conflicts and Poland's borders here, the
+  political road to the next war there (improvements.md §44).
+
 ### A7. Smaller, steady additions
 
 - Glossary: 84 terms. Add the A1–A4 terms (Związek Strzelecki, POW,

@@ -9,7 +9,7 @@ brief:
   - "The war left debts, inflation and millions of invalids, widows and orphans, but it also hastened votes for women in many countries."
   - "Communism in power in Russia, Italian fascism and the League of Nations all grew out of the war. Whether the peace of 1919 led straight to another war is still debated by historians."
 source: skutki-i-wojny-swiatowej
-sourceHash: 21c9217eccf6bc82c24aeae00eb68fdc8746a8ee
+sourceHash: bbc89806cb3e1d49cb9fb58ab00d60df641e25c2
 ---
 
 According to various tallies, the First World War killed between 8.5 and 11 million soldiers and between 5 and 13 million civilians, and right after it the Spanish flu pandemic swept the world. Four empires fell, the Russian, German, Austro-Hungarian and Ottoman, and new states rose on their ruins, among them a reborn Poland. The Paris Peace Conference imposed treaties on the defeated, of which the most important, the Treaty of Versailles, is still argued over. The war left behind debts, inflation and millions of invalids, but also votes for [women](/tematy/kobiety-w-czasie-i-wojny-swiatowej) in many countries, the League of Nations and new movements, communist and fascist, that shaped the rest of the century.
@@ -78,7 +78,7 @@ Millions of soldiers came home, and according to AFP between five and six millio
 
 ## Politics and ideologies
 
-The war was supposed to bring a flowering of democracy, but it strengthened radicals of left and right. In Russia the Bolsheviks built the first communist state and wanted world revolution, which from March 1919 the Communist International set out to support. In Germany the [Communist Party of Germany](/zalozenie-kpd) was founded as early as 30 December 1918, and in 1919 communist republics were proclaimed in Hungary (20 March) and in Bavaria (in April). The revolutionary wave ebbed only after the defeat of the Red Army at Warsaw in August 1920.
+The war was supposed to bring a flowering of democracy, but it strengthened radicals of left and right. In Russia the Bolsheviks built the first communist state and wanted world revolution, which from March 1919 the Communist International set out to support. In Germany the [Communist Party of Germany](/zalozenie-kpd) was founded as early as 30 December 1918, and in 1919 communist republics were proclaimed in Hungary (20 March) and in Bavaria (in April). The revolutionary wave ebbed only after the [defeat of the Red Army at Warsaw](/bitwy/bitwa-warszawska) in August 1920.
 
 Fascism, too, grew out of disillusionment with the war. Italians felt they had not received the lands they had counted on and spoke of a "mutilated victory". The dispute over [Fiume](/wlosi-w-fiume), seized in September 1919 by veterans and nationalists led by the poet Gabriele D'Annunzio, inflamed feelings. In 1919 Benito Mussolini, who had been expelled from the Socialist Party in 1914, founded the Fasci di Combattimento, at first dominated by veterans. In 1921 he turned them into the National Fascist Party. From 1922 he ruled Italy, having borrowed from D'Annunzio the title "Duce" and the black shirts.
 

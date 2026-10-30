@@ -30,6 +30,6 @@ const jsonLd = listPageLd(Astro.site!, {
 <BaseLayout jsonLd={jsonLd} title={heading} description={description} lang="en" alternates={{ pl: paths("pl").era }}>
   <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
     <SectionHeading eyebrow="Timeline" count={allTimeline.length} />
-    <TimelineArchive era timelineByYear={timelineByYear} heading={heading} intro={intro} lang="en" />
+    <TimelineArchive era="pre" timelineByYear={timelineByYear} heading={heading} intro={intro} lang="en" />
   </section>
 </BaseLayout>

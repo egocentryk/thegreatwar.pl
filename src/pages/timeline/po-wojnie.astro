@@ -1,0 +1,44 @@
+---
+import { getCollection } from "astro:content"
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import { eraOf, groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { localEvents, paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import yearIntros from "@/data/year-intros.json"
+
+// "Wojna po wojnie": every article after 1918 on one page, the wars that
+// carried the Great War on; the year menu shows it as "Po wojnie"
+// (TimelineArchive.astro).
+const isPost = (d: Date) => eraOf(d.getUTCFullYear()) === "post"
+const allTimeline = await getCollection("timeline", ({ data }) => !data.draft)
+const timelineByYear = groupTimelineEntries(allTimeline)
+const eraEntries = allTimeline.filter((entry) => isPost(entry.data.date))
+const eraYears = timelineByYear.filter((group) => eraOf(group.year) === "post").map((group) => group.year)
+const span = eraYears.length ? `${eraYears[0]}–${eraYears.at(-1)}` : ""
+const heading = `Wojna po wojnie ${span}`
+const intro = (yearIntros as Record<string, { pl: string[]; en: string[] }>)["po-wojnie"]?.pl ?? []
+const description = `Wojny, które przedłużyły Wielką Wojnę, w ${eraEntries.length} artykułach z lat ${span}: walki o granice Polski, wojna polsko-bolszewicka, powstania śląskie, wojna domowa w Rosji i konflikty nowych państw.`
+const hasEnglish = (await localEvents("en")).some((entry) => isPost(entry.data.date))
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "pl",
+  path: paths("pl").eraAfter,
+  name: heading,
+  description,
+  trail: [{ name: "Oś czasu", path: "/timeline" }],
+  items: eraEntries.map((entry) => `/${entry.id}`),
+})
+---
+
+<BaseLayout
+  jsonLd={jsonLd}
+  title={heading}
+  description={description}
+  alternates={hasEnglish ? { en: paths("en").eraAfter } : {}}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow="Oś czasu" count={allTimeline.length} />
+    <TimelineArchive era="post" timelineByYear={timelineByYear} heading={heading} intro={intro} />
+  </section>
+</BaseLayout>

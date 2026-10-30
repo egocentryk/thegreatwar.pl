@@ -1,0 +1,29 @@
+---
+title: Conference of Ambassadors divides Upper Silesia
+summary: On 20 October 1921 the Conference of Ambassadors adopted the League of Nations plan to divide Upper Silesia. Poland got 29% of the area and most mines.
+source: rada-ambasadorow-dzieli-gorny-slask
+sourceHash: ea1cde5d4c7bf8053da90fa4fe28647ca7d23bc8
+brief:
+  - "On 20 October 1921 the Conference of Ambassadors in Paris approved the division of Upper Silesia between Poland and Germany prepared by the Council of the League of Nations. The dispute ended in a settlement far more favourable to Poland than had been expected in the spring."
+  - "After the plebiscite France wanted to give Poland the whole industrial district, while Britain and Italy offered only the districts of Pszczyna and Rybnik and scraps of the Katowice district. The third uprising showed the determination of the Polish Upper Silesians, and the matter was referred to the League of Nations."
+  - "Poland received 29 per cent of the plebiscite area and 46 per cent of its population, but 53 of the 67 mines and most of the steelworks. It got Katowice, Królewska Huta, Rybnik and Pszczyna, while Bytom, Gliwice and Zabrze stayed in Germany."
+  - "In Germany the decision was seen as an injustice, and at the end of October Joseph Wirth's cabinet resigned. Economic matters and the protection of minorities were settled by the Geneva Convention of 15 May 1922, concluded for 15 years."
+---
+
+On 20 October 1921 the [Conference of Ambassadors](https://pl.wikipedia.org/wiki/Rada_Ambasadorów) in Paris approved the division of Upper Silesia between Poland and Germany prepared by the Council of the [League of Nations](https://pl.wikipedia.org/wiki/Liga_Narodów), and handed the decision to the representatives of both governments. Poland received the smaller part of the plebiscite area, but the part it wanted most: most of the industrial district around Katowice, with most of the mines and steelworks. Half a year after [the lost plebiscite](/plebiscyt-na-gornym-slasku) and a few months after [the third uprising](/wybuch-trzeciego-powstania-slaskiego), the dispute over Upper Silesia ended in a settlement far more favourable to Poland than had been expected in the spring.
+
+## The Great Powers at odds
+
+After the plebiscite the Allies could not agree. France wanted to give Poland the whole of eastern Upper Silesia with the industrial district, because it was keen to weaken Germany and strengthen its ally in the east. [David Lloyd George](/postacie/david-lloyd-george)'s Britain and Italy proposed giving Poland only the agricultural districts of Pszczyna and Rybnik and scraps of the Katowice district. London feared French predominance on the Continent and accepted the German argument that without Silesian industry the Weimar Republic would not pay reparations.
+
+The uprising changed the situation. The fighting, including [the Battle of Annaberg](/bitwa-o-gore-swietej-anny), went on until June, and by 5 July both sides had withdrawn their units from the plebiscite area. It showed the Allies how determined the Polish Upper Silesians were. When the Supreme Council met in Paris on 8 August, France, Britain and Italy again failed to agree. It was therefore decided to refer the matter to the League of Nations. Its Council entrusted it to a committee of representatives of four states not involved in the dispute, according to the English Wikipedia Belgium, Brazil, China and Spain. On 12 October the committee presented its report with a draft border and the principles on which the division was to be made. The Conference of Ambassadors, the executive body of the peace conference made up of the Great Powers' ambassadors in Paris and chaired by the Frenchman Jules Cambon, adopted it on 20 October.
+
+## A border through the industrial district
+
+According to figures cited by dzieje.pl and Polish Radio, Poland received 29 per cent of the plebiscite area, which covered more than 11,000 square kilometres, and 46 per cent of its population of over two million. This territory contained 53 of the 67 mines, 22 of the 37 blast furnaces and 9 of the 14 steelworks. The Polish Wikipedia, counting ore mines as well, gives 72 of 91 mines. Poland received Katowice, Królewska Huta, Świętochłowice, Mysłowice, Tarnowskie Góry, Lubliniec, Rybnik and Pszczyna, although most of the towns had voted for Germany in the plebiscite. Bytom, Gliwice, Zabrze, Racibórz and Opole remained in Germany, as did Góra Świętej Anny. The new border cut straight across a closely integrated industrial basin, dividing estates, factory grounds, power lines, water mains and roads. In the area awarded to Poland, 55.7 per cent of those voting in the plebiscite had chosen Poland.
+
+Economic matters and the protection of minorities on both sides of the border were to be settled by a separate Polish–German agreement for a transitional period. The negotiations, held in Geneva, ended on 15 May 1922 with the signing of the [Geneva Convention](https://pl.wikipedia.org/wiki/Konwencja_genewska_o_Górnym_Śląsku), concluded for 15 years.
+
+## Reactions
+
+In Germany the decision was received as a wrong and a breach of the plebiscite verdict. The German side protested, and at the end of October, in the wake of the Upper Silesian question, the first cabinet of Chancellor [Joseph Wirth](https://pl.wikipedia.org/wiki/Joseph_Wirth) resigned. Throughout the interwar period the partition of Silesia remained in Germany one of the symbols of the "Versailles diktat". In Poland it was greeted with joy. According to the IPN historian Grzegorz Bębnik, the Conference of Ambassadors' decision was an unquestionable success for the Polish side, because the great majority of Upper Silesian industry ended up within the borders of the Republic. For the Polish administration and army to take over the awarded lands, however, there were still eight months to wait.

@@ -11,7 +11,7 @@
 import { getCollection, type CollectionEntry } from "astro:content"
 import { categoryEn, enPath, frontEn, plPath, translatedTimeline, type Lang } from "@/i18n"
 import { CURATED_EN } from "@/i18n/data-en"
-import { compareTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
+import { compareTimelineEntries, eraOf, type Era } from "@/utils/groupTimelineEntries"
 import { getPeople } from "@/utils/people"
 import { requireBattle, requireTimeline } from "@/utils/requireEntry"
 import { slugify } from "@/utils/slugify"
@@ -74,15 +74,26 @@ export interface LocalPerson {
 // Page URLs in each language.
 export function paths(lang: Lang) {
   const en = lang === "en"
-  const era = en ? "/en/timeline/before-the-war" : "/timeline/przed-wojna"
+  const eras: Record<Era, string> = {
+    pre: en ? "/en/timeline/before-the-war" : "/timeline/przed-wojna",
+    post: en ? "/en/timeline/after-the-war" : "/timeline/po-wojnie",
+  }
   return {
     home: en ? "/en" : "/",
     timeline: en ? "/en/timeline" : "/timeline",
-    // The years before the war share one page; a month there is an anchor.
-    era,
-    year: (year: number | string) => (isPreWar(year) ? era : `${en ? "/en" : ""}/timeline/${year}`),
-    month: (year: number | string, month: string) =>
-      isPreWar(year) ? `${era}#${year}-${month}` : `${en ? "/en" : ""}/timeline/${year}/${month}`,
+    // The years before and after the war share one page per era; a month
+    // there is an anchor.
+    era: eras.pre,
+    eraAfter: eras.post,
+    eraPage: (era: Era) => eras[era],
+    year: (year: number | string) => {
+      const era = eraOf(year)
+      return era ? eras[era] : `${en ? "/en" : ""}/timeline/${year}`
+    },
+    month: (year: number | string, month: string) => {
+      const era = eraOf(year)
+      return era ? `${eras[era]}#${year}-${month}` : `${en ? "/en" : ""}/timeline/${year}/${month}`
+    },
     battles: en ? "/en/battles" : "/bitwy",
     front: (name: string) => (en ? `/en/front/${slugify(frontEn(name))}` : `/front/${slugify(name)}`),
     // Anchor of a front on the battles page.

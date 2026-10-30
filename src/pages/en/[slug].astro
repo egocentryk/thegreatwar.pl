@@ -28,7 +28,7 @@ import {
   translatedTimeline,
 } from "@/i18n"
 import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
-import { isPreWar } from "@/utils/groupTimelineEntries"
+import { eraOf } from "@/utils/groupTimelineEntries"
 import { paths } from "@/i18n/local"
 import { pageEntities } from "@/utils/pageEntities"
 
@@ -91,7 +91,7 @@ const jsonLd = [
     { name: "Home", path: "/en" },
     { name: "Timeline", path: "/en/timeline" },
     {
-      name: isPreWar(date.getUTCFullYear()) ? "Before the war" : String(date.getUTCFullYear()),
+      name: ((era) => (era ? { pre: "Before the war", post: "After the war" }[era] : String(date.getUTCFullYear())))(eraOf(date.getUTCFullYear())),
       path: paths("en").year(date.getUTCFullYear()),
     },
     { name: title, path: pagePath },

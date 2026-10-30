@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Dąbrowa Tarnowska (Galicia, Austria-Hungary)
 deathPlace: Kraków
 source: jan-kanty-steczkowski
-sourceHash: 2262f0cc5de1935258003420465d33c2960fb3a1
+sourceHash: 56d00ec63581f30fb42331fbbe362a796d6f1109
 ---
 
 Jan Kanty Steczkowski was a Lviv lawyer and banker who during the war brought his financial experience to Warsaw. In the first government of the [Kingdom of Poland](https://pl.wikipedia.org/wiki/Królestwo_Polskie_(1917–1918)) he built the treasury ministry from scratch, and in April 1918 the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) entrusted him with leading the whole government. He was a conservative, an Austrian subject and a member of the Viennese House of Lords. He reckoned that the Central Powers would win the war and that Poland had to come to terms with them on the best possible conditions. In a secret note of 29 April 1918 he offered them a military alliance and agreed to territorial concessions. When its content came to light in August, there was an outcry in the Kingdom, and Steczkowski had to step down. In reborn Poland he returned to finance: he was minister of the treasury in Wincenty Witos's government and president of Bank Gospodarstwa Krajowego.
@@ -39,7 +39,7 @@ On 25 August 1918 the content of the note was published by the *[Berliner Tagebl
 
 ## After the war
 
-Steczkowski remained in the service of the state as a financier. At the turn of 1920 and 1921 he took part in the peace negotiations with Soviet Russia in Riga, which ended with the [Treaty of Riga](https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)). On 26 November 1920 he became minister of the treasury in the first government of [Wincenty Witos](/postacie/wincenty-witos) and held the post until 13 September 1921. He was director of the Polish State Loan Bank, which issued the Polish currency until the Bank of Poland was founded, and in 1922–1927 president of [Bank Gospodarstwa Krajowego](https://pl.wikipedia.org/wiki/Bank_Gospodarstwa_Krajowego). He belonged to the conservative [Party of the National Right](https://pl.wikipedia.org/wiki/Stronnictwo_Prawicy_Narodowej). He died in Kraków on 3 September 1929. His ashes were placed in the family tomb in Nagoszyn.
+Steczkowski remained in the service of the state as a financier. At the turn of 1920 and 1921 he took part in the peace negotiations with Soviet Russia in Riga, which ended with the [Treaty of Riga](/pokoj-ryski). On 26 November 1920 he became minister of the treasury in the first government of [Wincenty Witos](/postacie/wincenty-witos) and held the post until 13 September 1921. He was director of the Polish State Loan Bank, which issued the Polish currency until the Bank of Poland was founded, and in 1922–1927 president of [Bank Gospodarstwa Krajowego](https://pl.wikipedia.org/wiki/Bank_Gospodarstwa_Krajowego). He belonged to the conservative [Party of the National Right](https://pl.wikipedia.org/wiki/Stronnictwo_Prawicy_Narodowej). He died in Kraków on 3 September 1929. His ashes were placed in the family tomb in Nagoszyn.
 
 ## Assessment
 

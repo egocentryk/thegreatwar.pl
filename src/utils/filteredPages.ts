@@ -2,7 +2,7 @@ import type { GetStaticPaths } from "astro"
 import { categoryEn, frontEn, type Lang } from "@/i18n"
 import { tagEn } from "@/i18n/data-en"
 import { localEvents, type LocalEvent } from "@/i18n/local"
-import { WAR_START_YEAR } from "@/utils/groupTimelineEntries"
+import { warYear } from "@/utils/groupTimelineEntries"
 import { slugify } from "@/utils/slugify"
 
 // Timeline pages for one tag, category, author or front, in both languages
@@ -89,9 +89,9 @@ export function groups(kind: Kind, lang: Lang): Promise<Group[]> {
 
 type Dated = { data: { date: Date } }
 
-// Year of an entry in a split list; the years before the war count as the
-// first war year, so they stay on the main page.
-export const listYear = (date: Date) => Math.max(date.getUTCFullYear(), WAR_START_YEAR)
+// Year of an entry in a split list; years outside the war count as the
+// nearest war year (utils/groupTimelineEntries.ts).
+export const listYear = (date: Date) => warYear(date.getUTCFullYear())
 
 export interface YearLink {
   year: number

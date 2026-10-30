@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Jurczyce near Kraków (Austria-Hungary)
 deathPlace: London
 source: jozef-haller
-sourceHash: ca778b040069791435b4779028a9a0feb92b32b2
+sourceHash: fdcfeec6f3a38076e653e33fe0bd151fde573833
 ---
 
 During the Great War Józef Haller travelled a road that no other Polish commander travelled. He began in 1914 as an organiser of volunteers at Austria's side, for three years fought in the Legions against Russia, and in February 1918, at the head of the Second Brigade, broke through the Austrian front at Rarańcza in protest against the Peace of Brest-Litovsk. In May his Polish II Corps fought the Germans at Kaniów, and he himself reached France via Moscow and Murmansk, where the Polish National Committee of [Roman Dmowski](/postacie/roman-dmowski) made him commander-in-chief of the Polish Army. Thus a legionnaire who in 1917 had sworn an oath of brotherhood in arms with the Central Powers became the leader of a Polish army on the side of the Entente. The Blue Army, called Haller's Army after him, returned home in 1919 as the best-equipped part of the Polish Army. Haller was more a soldier than a politician, but his choices of 1918–1919 tied him for life to the National camp and set him against [Józef Piłsudski](/postacie/jozef-pilsudski).
@@ -47,7 +47,7 @@ After the agreement of 28 September, which recognised [the Polish Army as allied
 
 The army grew fastest after the armistice, when tens of thousands of Poles from prisoner-of-war camps in France and Italy were enlisted in it. According to most estimates about 70,000 soldiers passed through the Blue Army. Its transport home became a matter of dispute. Dmowski and the French wanted to send it through Danzig, which would have meant a Polish fait accompli on the Baltic. In the face of opposition from the Germans, the British and the Americans, it went by train through Germany. The first transports crossed the border on the night of 19–20 April 1919, and on 21 April Haller arrived in Warsaw, where he was welcomed as a hero. Piłsudski, with whom his paths had parted two years earlier in the dispute over the oath, greeted the army's arrival by telegram, and the Blue Army, equipped by the French with artillery, aircraft and Renault tanks, became part of the Polish Army.
 
-In May and June 1919 part of Haller's army fought the Ukrainians in Eastern Galicia, although the Entente had stipulated that these troops were to serve against the Bolsheviks, not the Ukrainians. In October Haller took command of the Pomeranian Front, which at the beginning of 1920 took over for Poland the Pomerania awarded to it in the Treaty of Versailles. On 10 February 1920 at Puck he performed the symbolic [wedding of Poland to the sea](https://pl.wikipedia.org/wiki/Zaślubiny_Polski_z_morzem).
+In May and June 1919 part of Haller's army fought the Ukrainians in Eastern Galicia, although the Entente had stipulated that these troops were to serve against the Bolsheviks, not the Ukrainians. In October Haller took command of the Pomeranian Front, which at the beginning of 1920 took over for Poland the Pomerania awarded to it in the Treaty of Versailles. On 10 February 1920 at Puck he performed the symbolic [wedding of Poland to the sea](/zaslubiny-polski-z-morzem).
 
 ## After the war
 

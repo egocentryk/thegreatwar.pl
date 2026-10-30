@@ -2,7 +2,7 @@ import type { APIRoute, GetStaticPaths } from "astro"
 import type { Lang } from "@/i18n"
 import { locale } from "@/i18n"
 import { localEvents } from "@/i18n/local"
-import { isPreWar } from "@/utils/groupTimelineEntries"
+import { isOutsideWar } from "@/utils/groupTimelineEntries"
 import {
   SHARD_COUNT,
   toCalendarLeaf,
@@ -38,7 +38,7 @@ function dayBefore(monthDay: string) {
 async function leavesOf(lang: Lang) {
   // "On this day" and the random pages are days of the war, 1914–1918.
   return (await localEvents(lang))
-    .filter((entry) => !isPreWar(entry.data.date.getUTCFullYear()))
+    .filter((entry) => !isOutsideWar(entry.data.date.getUTCFullYear()))
     .map((entry) => toCalendarLeaf(entry, locale(lang)))
 }
 

@@ -56,7 +56,9 @@ const fronts = Object.entries(FRONT_STYLE)
     count: battles.filter((item) => item.style.key === style.key).length,
   }))
   .filter((front) => front.count > 0)
-const years = [1914, 1915, 1916, 1917, 1918]
+// One chip per year with a battle (the war's years, and 1920 for the
+// Polish–Soviet war).
+const years = [...new Set(battles.map(({ battle }) => battle.data.startDate.getUTCFullYear()))].sort()
 const iso = (date: Date) => date.toISOString().slice(0, 10)
 
 const t = {

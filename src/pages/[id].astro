@@ -25,7 +25,7 @@ import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
-import { compareTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
+import { compareTimelineEntries, eraOf } from "@/utils/groupTimelineEntries"
 import { paths } from "@/i18n/local"
 import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
 import { listUrl } from "@/utils/filteredPages"
@@ -111,7 +111,7 @@ const jsonLd = [
     { name: "Strona główna", path: "/" },
     { name: "Oś czasu", path: "/timeline" },
     {
-      name: isPreWar(date.getUTCFullYear()) ? "Przed wojną" : String(date.getUTCFullYear()),
+      name: ((era) => (era ? { pre: "Przed wojną", post: "Po wojnie" }[era] : String(date.getUTCFullYear())))(eraOf(date.getUTCFullYear())),
       path: paths("pl").year(date.getUTCFullYear()),
     },
     { name: title, path: pagePath },

@@ -1,0 +1,36 @@
+---
+import TimelineArchive from "@/components/TimelineArchive.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import { eraOf, groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { localEvents, paths } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import yearIntros from "@/data/year-intros.json"
+
+// "The war after the war": every translated article after 1918 on one page;
+// the year menu shows it as "After the war" (TimelineArchive.astro).
+const isPost = (d: Date) => eraOf(d.getUTCFullYear()) === "post"
+const allTimeline = await localEvents("en")
+const timelineByYear = groupTimelineEntries(allTimeline, "en-GB")
+const eraEntries = allTimeline.filter((entry) => isPost(entry.data.date))
+const eraYears = timelineByYear.filter((group) => eraOf(group.year) === "post").map((group) => group.year)
+const span = eraYears.length ? `${eraYears[0]}–${eraYears.at(-1)}` : ""
+const heading = `The war after the war, ${span}`
+const intro = (yearIntros as Record<string, { pl: string[]; en: string[] }>)["po-wojnie"]?.en ?? []
+const description = `The wars that carried the Great War on, in ${eraEntries.length} articles from ${span}: Poland's wars for its borders, the Polish–Soviet war, the Silesian uprisings, the Russian Civil War and the new states' conflicts.`
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: paths("en").eraAfter,
+  name: heading,
+  description,
+  trail: [{ name: "Timeline", path: "/en/timeline" }],
+  items: eraEntries.map((entry) => entry.href),
+})
+---
+
+<BaseLayout jsonLd={jsonLd} title={heading} description={description} lang="en" alternates={{ pl: paths("pl").eraAfter }}>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow="Timeline" count={allTimeline.length} />
+    <TimelineArchive era="post" timelineByYear={timelineByYear} heading={heading} intro={intro} lang="en" />
+  </section>
+</BaseLayout>

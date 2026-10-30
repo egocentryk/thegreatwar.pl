@@ -354,6 +354,14 @@ export const BATTLE_PHASES = [
       "Gdy bolszewicy zerwali rokowania w Brześciu Litewskim, ogłaszając, że nie będą ani walczyć, ani podpisywać pokoju, Niemcy i Austro-Węgrzy wypowiedzieli rozejm i ruszyli na wschód. W ciągu dwóch tygodni, prawie bez oporu rozpadającej się armii rosyjskiej, zajęli Inflanty, Estonię i dużą część Białorusi, a 1 marca wkroczyli do Kijowa. Do maja okupowali całą Ukrainę. Ofensywa zmusiła Lenina do przyjęcia o wiele cięższych warunków pokoju, podpisanego 3 marca 1918 roku.",
   },
   {
+    slug: "1920-wojna-polsko-bolszewicka",
+    title: "1919–1921: Wojna polsko-bolszewicka",
+    front: "Front wschodni",
+    dates: "od lutego 1919 do marca 1921",
+    intro:
+      "Wielka Wojna nie skończyła się na wschodzie 11 listopada 1918 roku. Gdy Niemcy wycofywali się z ziem dawnego Imperium Rosyjskiego, w powstałą lukę weszły odradzające się wojsko polskie i Armia Czerwona. Starcia z lutego 1919 roku przerodziły się w wojnę o to, gdzie przebiegnie granica Polski i czy rewolucja przejdzie na Zachód. Po wyprawie kijowskiej i ofensywie Tuchaczewskiego rozstrzygnęły ją Bitwa Warszawska w sierpniu i bitwa nad Niemnem we wrześniu 1920 roku. Pokój podpisano w Rydze w marcu 1921 roku.",
+  },
+  {
     slug: "1917-front-wloski",
     title: "1917: Front włoski",
     front: "Front włoski",

@@ -54,7 +54,7 @@ Poparcia [pasywistów](https://pl.wikipedia.org/wiki/Pasywiści), ugrupowań, kt
 
 ## Po wojnie
 
-Steczkowski pozostał w służbie państwa jako finansista. Na przełomie 1920 i 1921 roku uczestniczył w rokowaniach pokojowych z Rosją Radziecką w Rydze, zakończonych [traktatem ryskim](https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)). 26 listopada 1920 roku objął tekę ministra skarbu w pierwszym rządzie [Wincentego Witosa](/postacie/wincenty-witos) i sprawował ją do 13 września 1921 roku. Był dyrektorem Polskiej Krajowej Kasy Pożyczkowej, która do powstania Banku Polskiego emitowała polską walutę, a w latach 1922–1927 prezesem [Banku Gospodarstwa Krajowego](https://pl.wikipedia.org/wiki/Bank_Gospodarstwa_Krajowego). Należał do konserwatywnego [Stronnictwa Prawicy Narodowej](https://pl.wikipedia.org/wiki/Stronnictwo_Prawicy_Narodowej). Zmarł w Krakowie 3 września 1929 roku. Jego prochy złożono w rodzinnym grobowcu w Nagoszynie.
+Steczkowski pozostał w służbie państwa jako finansista. Na przełomie 1920 i 1921 roku uczestniczył w rokowaniach pokojowych z Rosją Radziecką w Rydze, zakończonych [traktatem ryskim](/pokoj-ryski). 26 listopada 1920 roku objął tekę ministra skarbu w pierwszym rządzie [Wincentego Witosa](/postacie/wincenty-witos) i sprawował ją do 13 września 1921 roku. Był dyrektorem Polskiej Krajowej Kasy Pożyczkowej, która do powstania Banku Polskiego emitowała polską walutę, a w latach 1922–1927 prezesem [Banku Gospodarstwa Krajowego](https://pl.wikipedia.org/wiki/Bank_Gospodarstwa_Krajowego). Należał do konserwatywnego [Stronnictwa Prawicy Narodowej](https://pl.wikipedia.org/wiki/Stronnictwo_Prawicy_Narodowej). Zmarł w Krakowie 3 września 1929 roku. Jego prochy złożono w rodzinnym grobowcu w Nagoszynie.
 
 ## Ocena
 

@@ -58,6 +58,24 @@ EVENTS = {
     "Traktat_w_Bukareszcie_(1913)": "pokoj-bukaresztenski-konczy-druga-wojne-balkanska",
     "Związek_Walki_Czynnej": "powstaje-zwiazek-walki-czynnej",
     "Związek_Strzelecki": "powstaje-zwiazek-strzelecki",
+    # After the war ("Po wojnie", 1919–1923); generic links (the whole
+    # Polish–Soviet or Polish–Ukrainian war, the Treaty of Versailles) stay.
+    "Wojna_polsko-czechosłowacka": "czechoslowacja-atakuje-slask-cieszynski",
+    "Rozejm_w_Trewirze": "rozejm-w-trewirze",
+    "Zaślubiny_Polski_z_morzem": "zaslubiny-polski-z-morzem",
+    "Plebiscyt_na_Warmii,_Mazurach_i_Powiślu": "plebiscyt-na-warmii-mazurach-i-powislu",
+    "I_powstanie_śląskie": "wybuch-pierwszego-powstania-slaskiego",
+    "II_powstanie_śląskie": "wybuch-drugiego-powstania-slaskiego",
+    "III_powstanie_śląskie": "wybuch-trzeciego-powstania-slaskiego",
+    "Plebiscyt_na_Górnym_Śląsku": "plebiscyt-na-gornym-slasku",
+    "Powstanie_sejneńskie": "powstanie-sejnenskie",
+    "Ofensywa_czortkowska": "ofensywa-czortkowska",
+    "Wyprawa_kijowska": "poczatek-wyprawy-kijowskiej",
+    "Rada_Obrony_Państwa": "powstanie-rady-obrony-panstwa",
+    "Bitwa_pod_Zadwórzem": "bitwa-pod-zadworzem",
+    "Bunt_Żeligowskiego": "bunt-zeligowskiego",
+    "Traktat_ryski_(1921)": "pokoj-ryski",
+    "Powstanie_kłajpedzkie": "powstanie-w-klajpedzie",
     "Komisja_Tymczasowa_Skonfederowanych_Stronnictw_Niepodległościowych": "powstaje-komisja-tymczasowa-skonfederowanych-stronnictw-niepodleglosciowych",
 }
 

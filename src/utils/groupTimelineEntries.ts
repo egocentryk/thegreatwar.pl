@@ -58,10 +58,19 @@ export function compareTimelineEntries(a: Dated, b: Dated) {
   return compareSameDayOrder(a, b)
 }
 
-// The chronicle proper starts in 1914. Earlier articles ("Droga do wojny",
-// 1879–1913) share one era page instead of a page per year and month.
+// The chronicle proper covers 1914–1918. Articles outside it share an era
+// page instead of a page per year and month: "Przed wojną" (1879–1913) and
+// "Po wojnie" (1919–1923, the wars that carried the Great War on).
 export const WAR_START_YEAR = 1914
-export const isPreWar = (year: number | string) => Number(year) < WAR_START_YEAR
+export const WAR_END_YEAR = 1918
+export type Era = "pre" | "post"
+export const eraOf = (year: number | string): Era | undefined =>
+  Number(year) < WAR_START_YEAR ? "pre" : Number(year) > WAR_END_YEAR ? "post" : undefined
+export const isPreWar = (year: number | string) => eraOf(year) === "pre"
+export const isOutsideWar = (year: number | string) => eraOf(year) !== undefined
+// A year as the war's year menus show it: years outside the war go with the
+// nearest war year (split tag and category lists keep them on its page).
+export const warYear = (year: number) => Math.min(Math.max(year, WAR_START_YEAR), WAR_END_YEAR)
 
 export function getTimelineMonthSlug(month: number) {
   return String(month + 1).padStart(2, "0")

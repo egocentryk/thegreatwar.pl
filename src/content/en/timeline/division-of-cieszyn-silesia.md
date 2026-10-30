@@ -1,0 +1,26 @@
+---
+title: Division of Cieszyn Silesia
+summary: On 28 July 1920 the Conference of Ambassadors split Cieszyn Silesia along the Olza with no plebiscite. Czechoslovakia got the Karviná coalfield and Třinec.
+source: podzial-slaska-cieszynskiego
+sourceHash: a4a06e92abdacbdea91a9d37ae416d07cd020de1
+---
+
+On 28 July 1920 in Paris the [Conference of Ambassadors](https://pl.wikipedia.org/wiki/Rada_Ambasadorów) of the victorious Powers settled the Polish–Czechoslovak dispute over [Cieszyn Silesia](https://pl.wikipedia.org/wiki/Śląsk_Cieszyński), Spiš and Orava. The plebiscite announced more than a year earlier was never held. In the Cieszyn region the border was drawn largely along the [Olza](https://pl.wikipedia.org/wiki/Olza_(rzeka)), and Czechoslovakia received the Karviná coalfield, the ironworks at [Třinec](https://pl.wikipedia.org/wiki/Trzyniec), [Jablunkov](https://pl.wikipedia.org/wiki/Jabłonków) and the western part of Cieszyn itself. The decision was taken as the Red Army was approaching Warsaw, and Poland was in no position to oppose it.
+
+## From war to plebiscite
+
+Since the [Czechoslovak attack of January 1919](/czechoslowacja-atakuje-slask-cieszynski), the Cieszyn region had been divided by a demarcation line fixed in Paris on 3 February 1919. The land was split into zones, and an international control commission sat in Cieszyn. Talks between the two states brought no agreement: in the summer of 1919 the Poles proposed a plebiscite in the districts of Cieszyn and Frysztat. In the end the peace conference ordered a vote in Cieszyn Silesia, Spiš and Orava. Tension on the ground kept rising, however, and relations between Warsaw and Prague were also soured by Czech railwaymen, who from the autumn of 1919 held up shipments of arms to Poland from Italy and France.
+
+The Powers began to look for a solution other than a plebiscite. On 4 May 1920 the Conference of Ambassadors, at the request of the plebiscite commission, postponed the vote for two months, and on 5 June, at France's request, it decided to submit the matter to arbitration by King Albert of the Belgians. The arbitration never took place, because the Czechoslovak parliament would not agree to it. The Conference therefore returned to the plebiscite, but in the meantime Poland's position had changed dramatically. On 4 July the [Tukhachevsky offensive](/ofensywa-tuchaczewskiego) began and the Polish front in Belarus started to fall back.
+
+## Spa
+
+On 10 July, at the [Spa Conference](https://pl.wikipedia.org/wiki/Konferencja_w_Spa), Prime Minister [Władysław Grabski](https://pl.wikipedia.org/wiki/Władysław_Grabski), who had come to ask the Powers for help against the Bolsheviks, signed an agreement under which Poland accepted that the Powers alone would decide on the disputed territories. That same day Grabski and the Czechoslovak foreign minister, [Edvard Beneš](/postacie/edvard-benes), signed a joint declaration accepting their ruling. Poland's consent was made conditional on Czechoslovakia remaining neutral in the war with Soviet Russia and allowing military transports to Poland to pass through its territory. Grabski regarded this as a success. According to the IPN historian Sebastian Pilarski, he did not know that Beneš had received assurances from the Powers that the ruling would favour Prague.
+
+## The line on the Olza
+
+The decision of the Conference of Ambassadors of 28 July gave Czechoslovakia the western part of Cieszyn, on the left bank of the Olza, today's [Český Těšín](https://pl.wikipedia.org/wiki/Czeski_Cieszyn), as well as Frysztat, Karviná with its coalfield, Třinec and Jablunkov, and the railway from Cieszyn to the Jablunkov Pass, a section of the Košice–Bohumín Railway. According to Pilarski, Poland received 1,002 of the 2,220 km² of Cieszyn Silesia and 142,000 of its 435,000 inhabitants. About 100,000 Poles were left on the Czechoslovak side. The Polish National Council of the Duchy of Cieszyn, in its last proclamation of 4 August, wrote of two thirds of the region's population, including about 190,000 Poles, being handed over to the Czechs. In [Spiš](https://pl.wikipedia.org/wiki/Spisz) and [Orava](https://pl.wikipedia.org/wiki/Orawa_(region)) Poland received 27 villages with about 30,000 inhabitants, and Czechoslovakia 44 villages with about 40,000.
+
+[Ignacy Jan Paderewski](/postacie/ignacy-jan-paderewski), the Polish delegate in Paris, signed the decision but lodged a sharp written protest. He wrote that the ruling "has dug between the two nations a chasm that nothing can fill", and explained that he accepted it only for fear of a break with the Allies. In Poland the decision was called a "vivisection" on the living body of the nation. Poles believed that the Powers had exploited their defeats at the front, while the Czechs, who had hoped for the whole of Cieszyn Silesia, were not satisfied either.
+
+Czechoslovakia declared its neutrality only on 9 August, and it went on blocking arms shipments to Poland. That same day the National Council of the Duchy of Cieszyn ended its work, and on 10 August the regular state administration took over the Polish part of the region. The division on the Olza poisoned Polish–Czechoslovak relations for almost twenty years. In October 1938, after the Munich Agreement, Poland seized Trans-Olza.

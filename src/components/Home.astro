@@ -25,7 +25,7 @@ import {
 import { SERIES } from "@/data/series"
 import { type Lang } from "@/i18n"
 import { localBattles, localEvents, paths } from "@/i18n/local"
-import { isPreWar } from "@/utils/groupTimelineEntries"
+import { isOutsideWar } from "@/utils/groupTimelineEntries"
 import { SITE } from "@/site.config"
 
 interface Props {
@@ -37,7 +37,7 @@ const to = paths(lang)
 const allTimeline = await localEvents(lang)
 const allBattles = await localBattles(lang)
 // Covered period, e.g. "VI 1914 – XII 1918", from the first and last entry
-// of the war (the articles before 1914 are on the "Przed wojną" page).
+// of the war (articles before 1914 and after 1918 are on their era pages).
 const romanMonths = [
   "I",
   "II",
@@ -53,7 +53,7 @@ const romanMonths = [
   "XII",
 ]
 const dates = allTimeline
-  .filter((entry) => !isPreWar(entry.data.date.getUTCFullYear()))
+  .filter((entry) => !isOutsideWar(entry.data.date.getUTCFullYear()))
   .map((entry) => entry.data.date.valueOf())
 const firstDate = new Date(Math.min(...dates))
 const lastDate = new Date(Math.max(...dates))

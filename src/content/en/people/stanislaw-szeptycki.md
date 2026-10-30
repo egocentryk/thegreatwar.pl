@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Przyłbice (Galicia, Austria-Hungary)
 deathPlace: Korczyna
 source: stanislaw-szeptycki
-sourceHash: 8587c39c33146601f9afbc3b6c46ac3a779d8a1b
+sourceHash: fe0ae200680d61f8ead2c53c16cf0ff1bfe4615b
 ---
 
 Count Stanisław Szeptycki was the only Pole who exercised occupation authority in the Kingdom of Poland during the Great War. A professional General Staff officer of the Austro-Hungarian army, a grandson of [Aleksander Fredro](https://pl.wikipedia.org/wiki/Aleksander_Fredro) and brother of the Greek Catholic metropolitan of Lviv, in 1916 he transferred at his own request to the Legions and became their commandant. From May 1917, as governor-general in Lublin, he pursued a policy meant to win the Poles over to Austria, while at the same time supporting the nascent Polish state institutions. When in February 1918 the Central Powers promised the Chełm Land to Ukraine, he resigned. In November 1918 he joined the Polish Army and, as chief of the General Staff, built it from the ground up together with [Józef Piłsudski](/postacie/jozef-pilsudski), with whom he later came into sharp conflict.
@@ -37,7 +37,7 @@ On 1 November 1918 he joined the Polish Army. On 4 November the Regency Council 
 
 ## After the war
 
-From April 1919 he commanded the Lithuanian-Belarusian Front, whose troops took Minsk in August. In 1920 he commanded the 4th Army and then the North-Eastern Front, which in July was falling back before Tukhachevsky's offensive. On 1 August, ill with dysentery and in conflict with Piłsudski, he left his post. In 1921 a special commission cleared him of the charges over the retreat. As army inspector in Kraków he supported the [Third Silesian Uprising](https://pl.wikipedia.org/wiki/III_powstanie_śląskie) in 1921, and in 1923 he was minister of military affairs in Wincenty Witos's government and established Polish Soldiers' Day. During the May Coup he sided with the legal authorities, and in June 1926 he was retired. He settled at Korczyna near Krosno. In 1945, at the age of 78, he was for a few months president of the Polish Red Cross. He died at Korczyna on 9 October 1950.
+From April 1919 he commanded the Lithuanian-Belarusian Front, whose troops took Minsk in August. In 1920 he commanded the 4th Army and then the North-Eastern Front, which in July was falling back before Tukhachevsky's offensive. On 1 August, ill with dysentery and in conflict with Piłsudski, he left his post. In 1921 a special commission cleared him of the charges over the retreat. As army inspector in Kraków he supported the [Third Silesian Uprising](/wybuch-trzeciego-powstania-slaskiego) in 1921, and in 1923 he was minister of military affairs in Wincenty Witos's government and established Polish Soldiers' Day. During the May Coup he sided with the legal authorities, and in June 1926 he was retired. He settled at Korczyna near Krosno. In 1945, at the age of 78, he was for a few months president of the Polish Red Cross. He died at Korczyna on 9 October 1950.
 
 ## Assessment
 

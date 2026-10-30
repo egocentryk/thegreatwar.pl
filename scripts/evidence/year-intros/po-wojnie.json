@@ -1,0 +1,229 @@
+{
+ "year": "po-wojnie",
+ "pl": [
+  [
+   {
+    "text": "Na wschodzie Wielka Wojna nie skończyła się wraz z rozejmem: 14 lutego 1919 roku po raz pierwszy starły się regularne oddziały Wojska Polskiego i Armii Czerwonej.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1919/02/poczatek-wojny-polsko-bolszewickiej.md",
+      "quote": "14 lutego 1919 pod Mostami nad Niemnem i pod Berezą Kartuską po raz pierwszy starły się regularne oddziały Wojska Polskiego i Armii Czerwonej"
+     }
+    ]
+   },
+   {
+    "text": "16 lutego 1919 roku w Trewirze alianci nakazali Niemcom wstrzymać ataki na Polaków w Poznańskiem, a 28 czerwca w Wersalu Polska odzyskała Wielkopolskę i Pomorze.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1919/02/rozejm-w-trewirze.md",
+      "quote": "16 lutego 1919 w Trewirze alianci przedłużyli rozejm z Niemcami i nakazali im wstrzymać ataki na Polaków w Poznańskiem"
+     },
+     {
+      "file": "src/content/timeline/1919/06/polska-podpisuje-traktat-wersalski.md",
+      "quote": "28 czerwca 1919 Paderewski i Dmowski podpisali w Wersalu traktat pokojowy z Niemcami. Polska odzyskała Wielkopolskę i Pomorze"
+     }
+    ]
+   },
+   {
+    "text": "17 lipca 1919 roku ustały walki z Ukraińcami i cała Galicja Wschodnia znalazła się w rękach polskich.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1919/07/koniec-wojny-polsko-ukrainskiej.md",
+      "quote": "W połowie lipca 1919 Ukraińska Armia Halicka wycofała się za Zbrucz, a 17 lipca walki ustały. Cała Galicja Wschodnia znalazła się w rękach polskich"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Wojnę z bolszewikami przesądził rok 1920: po wyprawie kijowskiej z 25 kwietnia front Tuchaczewskiego uderzył 4 lipca i zmusił Polaków do odwrotu, aż 16 sierpnia grupa Piłsudskiego ruszyła znad Wieprza na tyły armii sowieckich nacierających na Warszawę.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1920/04/poczatek-wyprawy-kijowskiej.md",
+      "quote": "25 kwietnia 1920 wojska polskie i ukraińskie uderzyły na Armię Czerwoną"
+     },
+     {
+      "file": "src/content/timeline/1920/07/ofensywa-tuchaczewskiego.md",
+      "quote": "4 lipca 1920 o świcie sowiecki Front Zachodni Tuchaczewskiego uderzył na Białorusi. W trzy dni przełamał polską obronę nad Autą i zmusił Polaków do odwrotu"
+     },
+     {
+      "file": "src/content/timeline/1920/08/kontruderzenie-znad-wieprza.md",
+      "quote": "16 sierpnia 1920 grupa uderzeniowa Piłsudskiego ruszyła znad Wieprza, rozbiła Grupę Mozyrską i wyszła na tyły armii sowieckich nacierających na Warszawę"
+     }
+    ]
+   },
+   {
+    "text": "Pokój podpisany w Rydze 18 marca 1921 roku zakończył wojnę i wyznaczył wschodnią granicę Polski.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1921/03/pokoj-ryski.md",
+      "quote": "18 marca 1921 Polska oraz Rosja i Ukraina Radziecka podpisały w Rydze traktat pokoju. Kończył on wojnę polsko-bolszewicką i wyznaczał wschodnią granicę Polski"
+     }
+    ]
+   },
+   {
+    "text": "O Górny Śląsk zdecydowały plebiscyt z 20 marca 1921 roku i trzy powstania, a 20 października 1921 roku Rada Ambasadorów dała Polsce 29 procent obszaru i większość kopalń i hut.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1921/03/plebiscyt-na-gornym-slasku.md",
+      "quote": "20 marca 1921 Górnoślązacy głosowali, czy region ma należeć do Polski, czy do Niemiec"
+     },
+     {
+      "file": "src/content/timeline/1921/10/rada-ambasadorow-dzieli-gorny-slask.md",
+      "quote": "20 października 1921 Rada Ambasadorów przyjęła podział Górnego Śląska według projektu Ligi Narodów. Polska dostała 29 procent obszaru i większość kopalń i hut"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "W Rosji wojna domowa skończyła się klęską białych: 7 lutego 1920 roku bolszewicy rozstrzelali admirała Kołczaka, a 14 listopada ostatnie statki białych opuściły Sewastopol.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1920/02/rozstrzelanie-kolczaka.md",
+      "quote": "Nad ranem 7 lutego 1920 w Irkucku bolszewicy rozstrzelali admirała Kołczaka"
+     },
+     {
+      "file": "src/content/timeline/1920/11/ewakuacja-armii-wrangla-z-krymu.md",
+      "quote": "14 listopada 1920 ostatnie statki białych opuściły Sewastopol"
+     }
+    ]
+   },
+   {
+    "text": "6 grudnia 1921 roku Irlandia podpisała traktat, który czynił ją dominium, a 9 września 1922 roku turecka kawaleria wjechała do Smyrny.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1921/12/traktat-angielsko-irlandzki.md",
+      "quote": "6 grudnia 1921 roku w Londynie delegaci Irlandii podpisali traktat z rządem brytyjskim. Irlandia miała zostać dominium"
+     },
+     {
+      "file": "src/content/timeline/1922/09/turcy-odbijaja-smyrne.md",
+      "quote": "9 września 1922 roku turecka kawaleria wjechała do Smyrny"
+     }
+    ]
+   },
+   {
+    "text": "Wątek zamyka 15 marca 1923 roku: Rada Ambasadorów uznała wschodnie granice Polski z Rosją i Litwą oraz polską suwerenność nad Galicją Wschodnią i Wileńszczyzną.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1923/03/rada-ambasadorow-uznaje-wschodnia-granice-polski.md",
+      "quote": "15 marca 1923 roku Rada Ambasadorów uznała wschodnie granice Polski z Rosją i Litwą oraz polską suwerenność nad Galicją Wschodnią i Wileńszczyzną"
+     }
+    ]
+   }
+  ]
+ ],
+ "en": [
+  [
+   {
+    "text": "In the east the Great War did not end with the armistice: on 14 February 1919 regular units of the Polish Army and the Red Army clashed for the first time.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/start-of-the-polish-soviet-war.md",
+      "quote": "On 14 February 1919, at Mosty on the Niemen and at Bereza Kartuska, regular units of the Polish Army and the Red Army clashed for the first time"
+     }
+    ]
+   },
+   {
+    "text": "On 16 February 1919 at Trier the Allies ordered Germany to stop attacking the Poles in Posen, and on 28 June at Versailles Poland regained Greater Poland and Pomerania.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/armistice-of-trier.md",
+      "quote": "On 16 February 1919 at Trier the Allies extended the armistice with Germany and ordered it to stop attacking the Poles in Posen"
+     },
+     {
+      "file": "src/content/en/timeline/poland-signs-the-treaty-of-versailles.md",
+      "quote": "On 28 June 1919 Paderewski and Dmowski signed the peace with Germany at Versailles. Poland regained Greater Poland and Pomerania"
+     }
+    ]
+   },
+   {
+    "text": "On 17 July 1919 the fighting with the Ukrainians ceased, and the whole of Eastern Galicia was in Polish hands.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/end-of-the-polish-ukrainian-war.md",
+      "quote": "In mid-July 1919 the Ukrainian Galician Army withdrew beyond the Zbruch, and on 17 July the fighting ceased. The whole of Eastern Galicia was in Polish hands"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "The war with the Bolsheviks was decided in 1920: after the Kiev offensive of 25 April, Tukhachevsky's front attacked on 4 July and forced the Poles to retreat, until on 16 August Piłsudski's strike group set off from the Wieprz into the rear of the Soviet armies attacking Warsaw.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/start-of-the-kiev-offensive.md",
+      "quote": "On 25 April 1920 Polish and Ukrainian troops struck the Red Army"
+     },
+     {
+      "file": "src/content/en/timeline/tukhachevskys-offensive.md",
+      "quote": "At dawn on 4 July 1920 Tukhachevsky's Western Front attacked in Belarus. In three days it broke the Polish defence on the Auta and forced the Poles to retreat"
+     },
+     {
+      "file": "src/content/en/timeline/counter-offensive-from-the-wieprz.md",
+      "quote": "On 16 August 1920 Piłsudski's strike group set off from the Wieprz, routed the Mozyr Group and came out in the rear of the Soviet armies attacking Warsaw"
+     }
+    ]
+   },
+   {
+    "text": "The peace signed at Riga on 18 March 1921 ended the war and fixed Poland's eastern border.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/peace-of-riga.md",
+      "quote": "On 18 March 1921 Poland and Soviet Russia and Ukraine signed a peace treaty in Riga. It ended the Polish–Soviet War and fixed Poland's eastern border"
+     }
+    ]
+   },
+   {
+    "text": "Upper Silesia was decided by the plebiscite of 20 March 1921 and three uprisings, and on 20 October 1921 the Conference of Ambassadors gave Poland 29% of the area and most of the mines.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/upper-silesia-plebiscite.md",
+      "quote": "On 20 March 1921 Upper Silesians voted on whether the region should belong to Poland or Germany"
+     },
+     {
+      "file": "src/content/en/timeline/conference-of-ambassadors-divides-upper-silesia.md",
+      "quote": "On 20 October 1921 the Conference of Ambassadors adopted the League of Nations plan to divide Upper Silesia. Poland got 29% of the area and most mines"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "In Russia the Civil War ended in the Whites' defeat: on 7 February 1920 the Bolsheviks shot Admiral Kolchak, and on 14 November the last White ships left Sevastopol.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/execution-of-kolchak.md",
+      "quote": "Early on 7 February 1920 in Irkutsk the Bolsheviks shot Admiral Kolchak"
+     },
+     {
+      "file": "src/content/en/timeline/wrangels-army-evacuates-the-crimea.md",
+      "quote": "On 14 November 1920 the last White ships left Sevastopol"
+     }
+    ]
+   },
+   {
+    "text": "On 6 December 1921 Ireland signed a treaty that made it a dominion, and on 9 September 1922 Turkish cavalry rode into Smyrna.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/anglo-irish-treaty.md",
+      "quote": "On 6 December 1921 in London the Irish delegates signed a treaty with the British government. Ireland was to become a dominion"
+     },
+     {
+      "file": "src/content/en/timeline/turks-retake-smyrna.md",
+      "quote": "On 9 September 1922 Turkish cavalry rode into Smyrna"
+     }
+    ]
+   },
+   {
+    "text": "The thread closes on 15 March 1923, when the Conference of Ambassadors recognised Poland's eastern borders with Russia and Lithuania and its sovereignty over Eastern Galicia and Vilna.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/conference-of-ambassadors-recognises-polands-eastern-border.md",
+      "quote": "On 15 March 1923 the Conference of Ambassadors recognised Poland's eastern borders with Russia and Lithuania and its sovereignty over Eastern Galicia and Vilna"
+     }
+    ]
+   }
+  ]
+ ]
+}

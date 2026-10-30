@@ -139,6 +139,11 @@
     "lon": 21.3,
     "source": "manual"
   },
+  "bitwa-nad-niemnem": {
+    "lat": 53.6694,
+    "lon": 23.8131,
+    "source": "manual"
+  },
   "bitwa-nad-ourcq": {
     "lat": 49.05,
     "lon": 2.95,
@@ -824,15 +829,15 @@
     "lon": 3,
     "source": "manual"
   },
-  "bitwa-pod-rarancza-1915": {
-    "lat": 48.3372,
-    "lon": 26.0667,
-    "source": "manual"
-  },
   "bitwa-pod-poelcappelle": {
     "lat": 50.922,
     "lon": 2.963,
     "source": "en:Battle of Poelcappelle"
+  },
+  "bitwa-pod-rarancza-1915": {
+    "lat": 48.3372,
+    "lon": 26.0667,
+    "source": "manual"
   },
   "bitwa-pod-rosieres": {
     "lat": 50.0167,
@@ -993,6 +998,11 @@
     "lat": 57.75,
     "lon": 23.5,
     "source": "pl:Bitwa w Zatoce Ryskiej"
+  },
+  "bitwa-warszawska": {
+    "lat": 52.2297,
+    "lon": 21.0122,
+    "source": "manual"
   },
   "bitwy-nad-isonzo": {
     "lat": 45.95,

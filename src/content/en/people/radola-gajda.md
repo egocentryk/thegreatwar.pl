@@ -6,7 +6,7 @@ country: Czechoslovakia
 birthPlace: Kotor (Dalmatia, Austria)
 deathPlace: Prague
 source: radola-gajda
-sourceHash: 2bf0ceb980b6434cc0deaabaaed549acd9528d1a
+sourceHash: 7b52880bd2aded96fe7c970097e8e6faa41e2757
 ---
 
 Radola Gajda was the most daring and the most controversial commander of the Czechoslovak forces in Russia. In 1915 he was serving as a reservist in the Austro-Hungarian army, and by September 1918, at the age of 26, he was a general. In the spring and summer of 1918 his troops seized the central section of the Trans-Siberian Railway and fought their way east beyond Lake Baikal. He later entered the service of Admiral [Alexander Kolchak](/postacie/aleksandr-kolczak), took Perm in December 1918 and commanded the Siberian Army. His life story, full of changed names, false titles and sudden reversals, ends less gloriously: in independent Czechoslovakia he became the leader of the fascist movement.
@@ -35,7 +35,7 @@ At the end of November his Yekaterinburg group struck at Perm, forestalling an a
 
 ## Fall from favour with Kolchak
 
-In the spring of 1919 the Siberian Army advanced west, towards Vyatka and Kazan, in the hope of linking up with the Allied forces in northern Russia. When the offensive of the neighbouring Western Army collapsed under the blows of the Reds, Gajda refused to shift his forces to help it, and his relations with Kolchak and his staff quickly deteriorated. At the beginning of July 1919 the admiral removed him from command, and in September dismissed him from the service and stripped him of his Russian decorations. On 17 November 1919 Gajda placed himself at the head of a Socialist Revolutionary uprising against Kolchak in Vladivostok. It was crushed the next day, and Gajda was released at the demand of the Allied missions on condition that he leave Russia.
+In the spring of 1919 [the Siberian Army advanced west](/wiosenna-ofensywa-kolczaka), towards Vyatka and Kazan, in the hope of linking up with the Allied forces in northern Russia. When the offensive of the neighbouring Western Army collapsed under the blows of the Reds, Gajda refused to shift his forces to help it, and his relations with Kolchak and his staff quickly deteriorated. At the beginning of July 1919 the admiral removed him from command, and in September dismissed him from the service and stripped him of his Russian decorations. On 17 November 1919 Gajda placed himself at the head of a Socialist Revolutionary uprising against Kolchak in Vladivostok. It was crushed the next day, and Gajda was released at the demand of the Allied missions on condition that he leave Russia.
 
 ## After the war
 

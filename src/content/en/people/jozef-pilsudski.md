@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Zułów in the Vilna region (Russian Empire)
 deathPlace: Warsaw
 source: jozef-pilsudski
-sourceHash: 616f79f33bd48e377d9f48a4b836979887c98440
+sourceHash: d74ed5989d2f6e744050c5334fb4dda23057cf28
 ---
 
 Józef Piłsudski entered the Great War as the leader of a handful of Galician riflemen and emerged from it as the head of the reviving Polish state. For years he had foreseen a conflict between the partitioning powers, and he staked his hopes on Austria-Hungary against Russia, which he regarded as the main enemy. On 6 August 1914 his company marched into the Kingdom of Poland, and for the next two years he commanded the First Brigade of the Polish Legions, fighting alongside the Central Powers. When Russia was falling apart and Germany wanted a Polish army without a Polish government, he broke with the Germans and in July 1917 ended up in a German prison. Freed in the days of the revolution in Germany, he returned to Warsaw on 10 November 1918 and within a few days took control of the army and the state. To some he was the creator of independence; to others, especially the National Democrats, he was a man who had backed the wrong horse and only by good luck managed to change mounts in time. The dispute accompanied him to the end of his life and continues to this day.
@@ -47,7 +47,7 @@ Within a few days Piłsudski had become the arbiter of Polish politics. On 16 No
 
 ## After the war
 
-As Chief of State and Commander-in-Chief Piłsudski led Poland in the wars over its borders, above all in the [Polish–Soviet War](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka). In March 1920 he was made a marshal, and in August his counter-stroke from the Wieprz decided the victory in the [Battle of Warsaw](https://pl.wikipedia.org/wiki/Bitwa_Warszawska). In December 1922 he handed power to the first president, and in 1923 he withdrew from public life to Sulejówek. In May 1926 he returned to power through a [coup d'état](https://pl.wikipedia.org/wiki/Przewrót_majowy) and until his death, as minister of military affairs, inspector general of the armed forces and twice prime minister, was the de facto leader of the state. He died on 12 May 1935 at the Belweder. He was buried in a crypt at Wawel, and his heart in the Rasos cemetery in Vilnius.
+As Chief of State and Commander-in-Chief Piłsudski led Poland in the wars over its borders, above all in the [Polish–Soviet War](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka). In March 1920 he was made a marshal, and in August his counter-stroke from the Wieprz decided the victory in the [Battle of Warsaw](/bitwy/bitwa-warszawska). In December 1922 he handed power to the first president, and in 1923 he withdrew from public life to Sulejówek. In May 1926 he returned to power through a [coup d'état](https://pl.wikipedia.org/wiki/Przewrót_majowy) and until his death, as minister of military affairs, inspector general of the armed forces and twice prime minister, was the de facto leader of the state. He died on 12 May 1935 at the Belweder. He was buried in a crypt at Wawel, and his heart in the Rasos cemetery in Vilnius.
 
 ## Assessment
 

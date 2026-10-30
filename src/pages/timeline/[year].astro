@@ -3,7 +3,7 @@ import { getCollection } from "astro:content"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
-import { groupTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
+import { groupTimelineEntries, isOutsideWar } from "@/utils/groupTimelineEntries"
 import { localBattles, localEvents } from "@/i18n/local"
 import { periodMeta } from "@/utils/periodMeta"
 import { listPageLd } from "@/utils/jsonLd"
@@ -13,7 +13,7 @@ export async function getStaticPaths() {
   const entries = await getCollection("timeline", ({ data }) => !data.draft)
   const timelineByYear = groupTimelineEntries(entries)
 
-  return timelineByYear.filter((yearGroup) => !isPreWar(yearGroup.year)).map((yearGroup) => ({
+  return timelineByYear.filter((yearGroup) => !isOutsideWar(yearGroup.year)).map((yearGroup) => ({
     params: { year: String(yearGroup.year) },
   }))
 }

@@ -3,13 +3,13 @@ import TimelineArchive from "@/components/TimelineArchive.astro"
 import SectionHeading from "@/components/SectionHeading.astro"
 import BaseLayout from "@/layouts/BaseLayout.astro"
 import { localEvents } from "@/i18n/local"
-import { groupTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
+import { groupTimelineEntries, isOutsideWar } from "@/utils/groupTimelineEntries"
 import { periodMeta } from "@/utils/periodMeta"
 import { listPageLd } from "@/utils/jsonLd"
 
 export async function getStaticPaths() {
   const timelineByYear = groupTimelineEntries(await localEvents("en"), "en-GB")
-  return timelineByYear.filter((yearGroup) => !isPreWar(yearGroup.year)).flatMap((yearGroup) =>
+  return timelineByYear.filter((yearGroup) => !isOutsideWar(yearGroup.year)).flatMap((yearGroup) =>
     yearGroup.months.map((monthGroup) => ({
       params: { year: String(yearGroup.year), month: monthGroup.slug },
     })),
