@@ -244,6 +244,7 @@ should link to each other (§B8).
 
 - Glossary: 84 terms. Add the A1–A4 terms (Związek Strzelecki, POW,
   ochotnicza legia, hiszpanka, Paryska armata, U-Boot types…).
+  **Done 2026-10-30:** 50 terms, 134 in all (improvements.md §35).
 - New series once A2–A5 exist:
   - Droga do wojny
   - Wojna na morzu

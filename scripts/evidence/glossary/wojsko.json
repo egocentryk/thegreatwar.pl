@@ -1,0 +1,368 @@
+[
+ {
+  "slug": "askarysi",
+  "slugEn": "askaris",
+  "term": "Askarysi",
+  "termEn": "Askaris",
+  "category": "wojsko",
+  "pattern": "\\baskary\\w*",
+  "patternEn": "\\baskaris?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Afrykańscy żołnierze wojsk kolonialnych, zwłaszcza niemieckiej Schutztruppe i brytyjskich King's African Rifles. W Afryce Wschodniej stanowili trzon obu armii przez całą wojnę.",
+  "shortEn": "African soldiers of the colonial forces, above all the German Schutztruppe and the British King's African Rifles. In East Africa they formed the core of both armies throughout the war.",
+  "long": [
+   "Słowo askari w suahili i arabskim znaczy „żołnierz”. W Niemieckiej Afryce Wschodniej askarysów werbowano od lat 90. XIX wieku; służyli w kompaniach polowych pod niemieckimi oficerami i podoficerami, a z rodzinami, tragarzami i służbą tworzyli wędrowne obozy. W sierpniu 1914 roku Schutztruppe miała około 2,5 tysiąca askarysów, a w 1916 roku, według różnych opracowań, około 14–18 tysięcy ludzi, w ogromnej większości Afrykanów. Askarysami nazywano też żołnierzy brytyjskich King's African Rifles: z trzech batalionów i około 2,3 tysiąca Afrykanów w 1914 roku urosły one do 22 batalionów i ponad 30 tysięcy żołnierzy w 1918 roku.",
+   "Askarysi Lettow-Vorbecka przez cztery lata prowadzili wojnę manewrową w Niemieckiej Afryce Wschodniej, Mozambiku i Rodezji. Ubywało ich w walkach, przez choroby, niewolę i dezercje; gdy 25 listopada 1918 roku pod Abercorn oddział złożył broń, liczył 1168 askarysów i około 155 Europejczyków. Jeszcze większe straty poniosła ludność cywilna i tragarze, których po stronie brytyjskiej zmarło według szacunków około 90–95 tysięcy. W Niemczech z „wiernych askarysów” zrobiono potem kolonialną legendę."
+  ],
+  "longEn": [
+   "The word askari means \"soldier\" in Swahili and Arabic. In German East Africa askaris were recruited from the 1890s; they served in field companies under German officers and NCOs, and with their families, porters and servants formed travelling camps. In August 1914 the Schutztruppe had about 2,500 askaris, and in 1916, according to various studies, some 14,000–18,000 men, the great majority of them Africans. Soldiers of the British King's African Rifles were also called askaris: from three battalions and about 2,300 Africans in 1914 they grew to 22 battalions and more than 30,000 men in 1918.",
+   "Lettow-Vorbeck's askaris waged a war of manoeuvre for four years in German East Africa, Mozambique and Rhodesia. Their numbers fell through fighting, disease, capture and desertion; when the force laid down its arms at Abercorn on 25 November 1918 it counted 1,168 askaris and about 155 Europeans. Civilians and porters suffered even more: on the British side alone an estimated 90,000–95,000 porters died. In Germany the \"loyal askaris\" later became a colonial legend."
+  ],
+  "see": [
+   "bitwy/kampania-wschodnioafrykanska",
+   "kapitulacja-lettow-vorbecka",
+   "poczatek-dzialan-wojennych-w-afryce-wschodniej",
+   "bitwy/bitwa-pod-tanga",
+   "postacie/paul-von-lettow-vorbeck"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Askari",
+   "https://en.wikipedia.org/wiki/King%27s_African_Rifles",
+   "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_I)",
+   "https://www.westernfrontassociation.com/world-war-i-articles/november-1918-in-east-africa/"
+  ]
+ },
+ {
+  "slug": "schutztruppe",
+  "slugEn": "schutztruppe",
+  "term": "Schutztruppe",
+  "termEn": "Schutztruppe",
+  "category": "wojsko",
+  "pattern": "Schutztrupp\\w*",
+  "patternEn": "Schutztrupp\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niemieckie wojska kolonialne w Afryce, złożone z niemieckich oficerów i w większości afrykańskich żołnierzy. W latach 1914–1918 broniły kolonii, najdłużej w Afryce Wschodniej pod Lettow-Vorbeckiem.",
+  "shortEn": "Germany's colonial troops in Africa, made up of German officers and mostly African soldiers. In 1914–1918 they defended the colonies, longest of all in East Africa under Lettow-Vorbeck.",
+  "long": [
+   "Schutztruppe („wojsko ochronne”) utworzono w Niemieckiej Afryce Wschodniej ustawą z 1891 roku, a w Kamerunie i Niemieckiej Afryce Południowo-Zachodniej w 1895 roku. Podlegały władzom kolonialnym Rzeszy, a nie armii pruskiej. We wschodniej Afryce i w Kamerunie tworzyły je kompanie polowe afrykańskich askarysów z niemieckimi oficerami i podoficerami, w Afryce Południowo-Zachodniej żołnierze niemieccy; Togo miało tylko policję. W 1914 roku wschodnioafrykańska Schutztruppe liczyła około 2,5 tysiąca askarysów i kilkuset Europejczyków, a kameruńska około 1,6–1,9 tysiąca ludzi.",
+   "W Afryce Południowo-Zachodniej Schutztruppe skapitulowała przed wojskami Związku Południowej Afryki 9 lipca 1915 roku, a z Kamerunu jej główne siły przeszły w lutym 1916 roku do neutralnej Gwinei Hiszpańskiej. Najdłużej walczyła w Afryce Wschodniej pod dowództwem Paula von Lettow-Vorbecka: uzupełniona osadnikami, marynarzami i nowymi askarysami, przez cztery lata wiązała znacznie większe siły brytyjskie, belgijskie i portugalskie. Złożyła broń dopiero 25 listopada 1918 roku pod Abercorn w Rodezji Północnej, dwa tygodnie po rozejmie w Europie."
+  ],
+  "longEn": [
+   "The Schutztruppe (\"protection force\") was set up in German East Africa by a law of 1891, and in Kamerun and German South West Africa in 1895. It came under the Reich's colonial authorities rather than the Prussian army. In East Africa and Kamerun it consisted of field companies of African askaris with German officers and NCOs, in South West Africa of German soldiers; Togo had only a police force. In 1914 the East African Schutztruppe numbered about 2,500 askaris and a few hundred Europeans, and that of Kamerun about 1,600–1,900 men.",
+   "In South West Africa the Schutztruppe surrendered to the forces of the Union of South Africa on 9 July 1915, and in February 1916 its main body in Kamerun crossed into neutral Spanish Guinea. It fought longest in East Africa under Paul von Lettow-Vorbeck: reinforced with settlers, sailors and new askaris, for four years it tied down much larger British, Belgian and Portuguese forces. It laid down its arms only on 25 November 1918 at Abercorn in Northern Rhodesia, two weeks after the armistice in Europe."
+  ],
+  "see": [
+   "kapitulacja-lettow-vorbecka",
+   "kapitulacja-niemieckiej-afryki-poludniowo-zachodniej",
+   "niemcy-przechodza-do-gwinei-hiszpanskiej",
+   "bitwy/kampania-wschodnioafrykanska",
+   "postacie/paul-von-lettow-vorbeck",
+   "postacie/heinrich-schnee"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schutztruppe",
+   "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_I)",
+   "https://www.westernfrontassociation.com/world-war-i-articles/november-1918-in-east-africa/"
+  ]
+ },
+ {
+  "slug": "kozacy",
+  "slugEn": "cossacks",
+  "term": "Kozacy",
+  "termEn": "Cossacks",
+  "category": "wojsko",
+  "pattern": "\\b[Kk]oza[ck]\\w*",
+  "patternEn": "\\bCossacks?\\b(?!\\*)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wspólnoty wojskowe z pogranicza Rosji, służące w zamian za ziemię. W I wojnie światowej dawały carskiej armii setki sotni konnicy, a w latach 1917–1918 stały się ważną siłą antybolszewicką.",
+  "shortEn": "Military communities from Russia's borderlands that served in return for land. In the First World War they gave the Tsar's army hundreds of cavalry squadrons, and in 1917–1918 became a major anti-Bolshevik force.",
+  "long": [
+   "Kozacy wywodzili się ze zbiegłych chłopów i wolnych ludzi, którzy od XV–XVI wieku osiedlali się na stepowym pograniczu, nad Dnieprem, Donem i Jaikiem. W Imperium Rosyjskim tworzyli odrębny stan, podzielony na wojska kozackie, od Dońskiego, Kubańskiego i Terskiego po Amurskie i Ussuryjskie. Ziemię dostawali w zamian za obowiązkową służbę: każdy Kozak stawał z własnym koniem, mundurem i bronią białą, karabin dawało państwo. W 1914 roku wystawili kilkaset sotni konnicy, a do 1916 roku około 160 pułków.",
+   "Na froncie Kozacy prowadzili rozpoznanie, osłaniali skrzydła i ścigali przeciwnika, a w Persji i na Kaukazie byli główną siłą rosyjskiej konnicy; osobną formacją była Perska Brygada Kozacka szacha. Władze używały ich też do tłumienia rozruchów, ale w lutym 1917 roku Kozacy w Piotrogrodzie przestali bronić caratu. Po przewrocie bolszewickim atamani Kozaków dońskich, Aleksiej Kaledin, a potem Piotr Krasnow, stanęli na czele oporu, a w 1918 roku nad Donem i Kubaniem powstały kozackie państwa. Władza radziecka zniosła stan kozacki, a w 1919 roku rozpoczęła represje zwane rozkozaczaniem."
+  ],
+  "longEn": [
+   "The Cossacks descended from runaway peasants and free men who from the 15th–16th centuries settled on the steppe frontier, along the Dnieper, the Don and the Yaik. In the Russian Empire they formed a separate estate divided into Cossack hosts, from the Don, Kuban and Terek to the Amur and Ussuri. They received land in return for compulsory service: every Cossack reported with his own horse, uniform and sword, while the state supplied the rifle. In 1914 they fielded several hundred cavalry sotnias, and by 1916 about 160 regiments.",
+   "At the front Cossacks scouted, covered the flanks and pursued the enemy, and in Persia and the Caucasus they were the main strength of the Russian cavalry; the Shah's Persian Cossack Brigade was a separate formation. They were also used against unrest, but in February 1917 the Cossacks in Petrograd stopped defending tsardom. After the Bolshevik coup the atamans of the Don Cossacks, Alexei Kaledin and then Pyotr Krasnov, led the resistance, and in 1918 Cossack states arose on the Don and the Kuban. Soviet power abolished the Cossack estate and in 1919 began the repression known as de-Cossackisation."
+  ],
+  "see": [
+   "niepodleglosc-donu",
+   "bitwa-pod-pulkowem",
+   "kozacy-lacza-sie-z-brytyjczykami-nad-tygrysem",
+   "samobojstwo-kaledina",
+   "postacie/lawr-kornilow",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cossacks",
+   "https://www.historyofwar.org/articles/weapons_cossackww1.html"
+  ]
+ },
+ {
+  "slug": "armia-wschodu",
+  "slugEn": "army-of-the-orient",
+  "term": "Armia Wschodu",
+  "termEn": "Army of the Orient",
+  "category": "wojsko",
+  "pattern": "Armi\\w* Wschodu\\b|Armée d['’]Orient",
+  "patternEn": "Arm(?:y|ies) of the Orient|Armée d['’]Orient",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Francuska armia (Armée d'Orient) wysłana jesienią 1915 roku do Salonik, trzon wielonarodowych sił Ententy na froncie macedońskim. Jej ofensywa we wrześniu 1918 roku wyprowadziła Bułgarię z wojny.",
+  "shortEn": "The French army (Armée d'Orient) sent to Salonika in autumn 1915, the core of the Entente's multinational forces on the Macedonian front. Its offensive in September 1918 knocked Bulgaria out of the war.",
+  "long": [
+   "Armię Wschodu utworzono jesienią 1915 roku z dywizji spod Gallipoli i z Francji; od 5 października jej oddziały lądowały w Salonikach, by pomóc Serbii. Dowodził nią generał Maurice Sarrail, który w styczniu 1916 roku objął też dowództwo nad Brytyjczykami w Salonikach, a od sierpnia 1916 roku był głównodowodzącym Armii Sprzymierzonych na Wschodzie (Armées alliées en Orient). Należały do nich wojska francuskie, brytyjskie, serbskie, włoskie, rosyjskie, a od 1917 roku greckie, w 1916 roku około 400 tysięcy żołnierzy. Francuską armią dowodzili odtąd osobni generałowie, m.in. Paul Grossetti i Paul Henrys.",
+   "Przez prawie trzy lata front w Macedonii prawie się nie ruszał, a największym wrogiem była malaria: od czerwca do grudnia 1916 roku zachorowała na nią ponad połowa żołnierzy francuskich. Po Sarrailu dowodzili Adolphe Guillaumat (od grudnia 1917 roku) i Louis Franchet d'Espèrey (od czerwca 1918 roku), który 15 września 1918 roku przełamał front pod Dobrym Polem. Bułgaria podpisała rozejm 29 września. Według francuskiego ministerstwa obrony w Armii Wschodu walczyło blisko 300 tysięcy Francuzów, z których ponad 50 tysięcy nie wróciło."
+  ],
+  "longEn": [
+   "The Army of the Orient was formed in autumn 1915 from divisions brought from Gallipoli and from France; from 5 October its units landed at Salonika to help Serbia. It was commanded by General Maurice Sarrail, who in January 1916 also took command of the British at Salonika and from August 1916 was commander-in-chief of the Allied Armies of the Orient (Armées alliées en Orient). These comprised French, British, Serbian, Italian, Russian and, from 1917, Greek troops, about 400,000 men in 1916. The French army itself was from then on led by separate generals, among them Paul Grossetti and Paul Henrys.",
+   "For almost three years the Macedonian front hardly moved, and the worst enemy was malaria: from June to December 1916 more than half of the French soldiers caught it. After Sarrail came Adolphe Guillaumat (from December 1917) and Louis Franchet d'Espèrey (from June 1918), who on 15 September 1918 broke through the front at Dobro Pole. Bulgaria signed an armistice on 29 September. According to the French defence ministry, nearly 300,000 Frenchmen fought in the Army of the Orient, and more than 50,000 of them did not return."
+  ],
+  "see": [
+   "ladowanie-ententy-w-salonikach",
+   "sarrail-dowodca-wszystkich-wojsk-ententy-w-salonikach",
+   "odwolanie-sarraila",
+   "bitwy/ofensywa-nad-wardarem",
+   "postacie/maurice-sarrail",
+   "postacie/louis-franchet-d-esperey"
+  ],
+  "sources": [
+   "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/premiere-guerre-mondiale/combattre-combats/fronts-2",
+   "https://www.pasteur.fr/fr/journal-recherche/actualites/pasteuriens-grande-guerre-paludisme-armee-orient",
+   "https://en.wikipedia.org/wiki/Allied_Army_of_the_Orient"
+  ]
+ },
+ {
+  "slug": "kawaleria-wielbladzia",
+  "slugEn": "camel-troops",
+  "term": "Kawaleria wielbłądzia",
+  "termEn": "Camel troops",
+  "category": "wojsko",
+  "pattern": "Brygad\\w* Wielbłądzi\\w*|Korpus\\w* Wielbłądzi\\w*|[Kk]awaleri\\w* wielbłądzi\\w*|(?:kawaleri\\w*|pułk\\w*|oddzia\\w*|jednostk\\w*|kompani\\w*|żołnierz\\w*|jeźdźc\\w*) na wielbłądach",
+  "patternEn": "Camel Corps|camel (?:troops|cavalry|regiments?|units|riders)|\\bcameliers\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Oddziały jeżdżące na wielbłądach, używane na pustyniach Egiptu, Synaju, Palestyny, Arabii i Sudanu. Najsłynniejsza była brytyjska Imperialna Brygada Wielbłądzia, ale wielbłądników mieli też Turcy i Arabowie.",
+  "shortEn": "Units mounted on camels, used in the deserts of Egypt, Sinai, Palestine, Arabia and the Sudan. The best known was the British Imperial Camel Corps Brigade, but the Turks and Arabs had camel troops too.",
+  "long": [
+   "Wielbłąd unosił około 145 kilogramów i mógł iść kilka dni bez wody, więc na pustyni sprawdzał się lepiej niż koń. Żołnierze na wielbłądach walczyli zwykle pieszo, jak piechota konna. W styczniu 1916 roku Brytyjczycy utworzyli w Egipcie pierwsze kompanie wielbłądzie z Australijczyków, którzy wrócili z Gallipoli, do walki z bractwem Sanusijja na Pustyni Zachodniej. 19 grudnia 1916 roku powstała z nich Imperialna Brygada Wielbłądzia: bataliony brytyjski, nowozelandzki i dwa australijskie, od 3 do ponad 4 tysięcy ludzi i blisko 4 tysiące wielbłądów. Walczyła pod Magdhabą, Gazą, Beer Szewą i Ammanem.",
+   "Wcześniej istniały już Korpus Wielbłądzi armii egipskiej, który w 1916 roku walczył w Darfurze, i Korpus Wielbłądzi z indyjskiego księstwa Bikaner, który w 1915 roku bronił Kanału Sueskiego. Pułki na wielbłądach mieli też Turcy, na Synaju i w Mezopotamii, a arabscy jeźdźcy na wielbłądach zdobyli w 1917 roku Akabę. W czerwcu 1918 roku, gdy front przeniósł się w góry i doliny Palestyny, Australijczyków z brygady przesadzono na konie i utworzono z nich pułki lekkiej konnicy; ostatnie kompanie brytyjskie rozwiązano w 1919 roku."
+  ],
+  "longEn": [
+   "A camel could carry about 145 kilograms and go several days without water, so in the desert it did better than a horse. Camel troops usually fought on foot, like mounted infantry. In January 1916 the British raised the first camel companies in Egypt from Australians back from Gallipoli, to fight the Senussi in the Western Desert. On 19 December 1916 they were formed into the Imperial Camel Corps Brigade: a British, a New Zealand and two Australian battalions, between 3,000 and over 4,000 men according to different figures, and nearly 4,000 camels. It fought at Magdhaba, Rafah, Gaza, Beersheba and Amman.",
+   "Before it there were already the Egyptian Army's Camel Corps, which fought in Darfur in 1916, and the Camel Corps of the Indian princely state of Bikaner, which defended the Suez Canal in 1915. The Turks also had camel regiments, in Sinai and in Mesopotamia, and Arab camel riders took Aqaba in 1917. In June 1918, when the front moved into the hills and valleys of Palestine, the brigade's Australians were put on horses and formed into light horse regiments; the last British companies were disbanded in 1919."
+  ],
+  "see": [
+   "poczatek-walk-w-oazie-dachla",
+   "potyczka-pod-magdhaba",
+   "wojska-sudanskie-wkraczaja-do-darfuru",
+   "arabowie-zdobywaja-akabe",
+   "bitwy/kampania-synajsko-palestynska"
+  ],
+  "sources": [
+   "https://www.awm.gov.au/learn/schools/resources/1916/imperial-camel-corps",
+   "https://en.wikipedia.org/wiki/Imperial_Camel_Corps",
+   "https://en.wikipedia.org/wiki/Bikaner_Camel_Corps"
+  ]
+ },
+ {
+  "slug": "yildirim",
+  "slugEn": "yildirim-army-group",
+  "term": "Yıldırım",
+  "termEn": "Yıldırım Army Group",
+  "category": "wojsko",
+  "pattern": "Y[ıi]ld[ıi]r[ıi]m",
+  "patternEn": "Y[ıi]ld[ıi]r[ıi]m",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Osmańsko-niemiecka grupa armii („Błyskawica”, niem. Heeresgruppe F) utworzona w 1917 roku, by odbić Bagdad. Skierowana do Palestyny, broniła jej przed Allenbym i została rozbita pod Megiddo w 1918 roku.",
+  "shortEn": "The Ottoman-German army group (\"Lightning\", German Heeresgruppe F) formed in 1917 to retake Baghdad. Sent to Palestine instead, it defended it against Allenby and was destroyed at Megiddo in 1918.",
+  "long": [
+   "Po utracie Bagdadu w marcu 1917 roku Enver Pasza postanowił go odzyskać z pomocą Niemiec. Na naradzie w Aleppo w czerwcu 1917 roku ustalono, że nowa 7 Armia ruszy wzdłuż Eufratu, a wesprze ją niemiecki Korpus Azjatycki, przez Turków zwany „Pasza II”: tylko trzy bataliony piechoty, ale dużo artylerii, karabinów maszynowych, moździerzy, samolotów i samochodów. Dowództwo grupy objął latem 1917 roku Erich von Falkenhayn. Nazwa Yıldırım, „Błyskawica”, była przydomkiem sułtana Bajazyda I. Falkenhayn uznał, że większe niebezpieczeństwo grozi w Palestynie, i we wrześniu wymógł przerzucenie tam 7 Armii.",
+   "Jesienią 1917 roku grupa straciła Beer Szewę i Gazę, a w grudniu Jerozolimę. W lutym 1918 roku odwołano Falkenhayna, a dowództwo objął Otto Liman von Sanders; datę podaje się różnie, od 24 lutego do 1 marca. We wrześniu 1918 roku jej 4, 7 i 8 Armia zostały rozbite pod Megiddo. 31 października resztki przejął Mustafa Kemal, a po rozejmie w Mudros grupę rozwiązano 7 listopada 1918 roku."
+  ],
+  "longEn": [
+   "After losing Baghdad in March 1917, Enver Pasha decided to retake it with German help. At a conference in Aleppo in June 1917 it was agreed that a new Seventh Army would advance along the Euphrates, supported by the German Asia Corps, which the Turks called \"Pasha II\": only three infantry battalions, but plenty of artillery, machine guns, mortars, aircraft and motor transport. Erich von Falkenhayn took command of the group in the summer of 1917. The name Yıldırım, \"Lightning\", had been the nickname of Sultan Bayezid I. Falkenhayn concluded that the greater danger lay in Palestine, and in September obtained the transfer of the Seventh Army there.",
+   "In the autumn of 1917 the group lost Beersheba and Gaza, and in December Jerusalem. In February 1918 Falkenhayn was recalled and Otto Liman von Sanders took command; the date is given variously, from 24 February to 1 March. In September 1918 its Fourth, Seventh and Eighth Armies were destroyed at Megiddo. On 31 October Mustafa Kemal took over what was left, and after the Armistice of Mudros the group was dissolved on 7 November 1918."
+  ],
+  "see": [
+   "bitwy/kampania-synajsko-palestynska",
+   "poczatek-trzeciej-bitwy-o-gaze",
+   "bitwy/bitwa-pod-megiddo",
+   "postacie/erich-von-falkenhayn",
+   "postacie/otto-liman-von-sanders"
+  ],
+  "sources": [
+   "https://archive.org/details/historyofgreatwa0000unse_z8h9",
+   "https://en.wikipedia.org/wiki/Yildirim_Army_Group",
+   "https://tr.wikipedia.org/wiki/Yıldırım_Orduları_Grubu",
+   "https://en.wikipedia.org/wiki/Asia_Corps"
+  ]
+ },
+ {
+  "slug": "krzyz-wiktorii",
+  "slugEn": "victoria-cross",
+  "term": "Krzyż Wiktorii",
+  "termEn": "Victoria Cross",
+  "category": "wojsko",
+  "pattern": "Krzyż\\w* Wiktorii|Victoria Cross",
+  "patternEn": "Victoria Cross\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Najwyższe brytyjskie odznaczenie za odwagę w obliczu nieprzyjaciela, ustanowione w 1856 roku. W I wojnie światowej przyznano je ponad 600 razy żołnierzom z całego Imperium Brytyjskiego.",
+  "shortEn": "Britain's highest award for gallantry in the face of the enemy, instituted in 1856. In the First World War it was awarded more than 600 times to servicemen from across the British Empire.",
+  "long": [
+   "Królowa Wiktoria ustanowiła Krzyż Wiktorii 29 stycznia 1856 roku, z mocą wsteczną od 1854 roku, za czyny z wojny krymskiej. Brązowy krzyż z napisem „For Valour” („Za męstwo”) przysługiwał wszystkim stopniom, od szeregowca do generała, od 1867 roku także żołnierzom kolonialnym, a od 1911 roku indyjskim. Według tradycji odlewano go z brązu rosyjskich dział zdobytych pod Sewastopolem; badania wykazały jednak, że metal krzyży wykonywanych od grudnia 1914 roku pochodził z dział chińskich. Początkowo nie nadawano go pośmiertnie; zasadę zmieniono na początku XX wieku, a formalnie zapisano w statucie dopiero w 1920 roku.",
+   "Wielka wojna przyniosła najwięcej nadań w historii odznaczenia: według różnych zestawień 626 lub 628 z łącznie 1358. Około jednej czwartej przyznano pośmiertnie. Dostawali je Brytyjczycy, Kanadyjczycy, Australijczycy, Nowozelandczycy i żołnierze indyjscy, piechurzy, marynarze i lotnicy. Jeden dzień walk przynosił czasem kilka krzyży: za 2 września 1918 roku, przełamanie linii Drocourt–Quéant, otrzymało go siedmiu Kanadyjczyków. Lekarz Noel Chavasse dostał go dwukrotnie, za drugim razem pośmiertnie."
+  ],
+  "longEn": [
+   "Queen Victoria instituted the Victoria Cross on 29 January 1856, backdated to 1854 to cover deeds of the Crimean War. The bronze cross inscribed \"For Valour\" was open to all ranks, from private to general, from 1867 also to colonial troops and from 1911 to Indian soldiers. Tradition has it that it was cast from the bronze of Russian guns captured at Sevastopol; research has shown, however, that the metal of the crosses made from December 1914 came from Chinese guns. At first it was not awarded posthumously; the rule changed in the early 20th century and was formally written into the warrant only in 1920.",
+   "The Great War brought the most awards in the decoration's history: 626 or 628 out of 1,358 in all, depending on the count. About a quarter were posthumous. They went to British, Canadian, Australian, New Zealand and Indian soldiers, infantrymen, sailors and airmen. A single day of fighting sometimes brought several: seven Canadians received it for 2 September 1918, the breaking of the Drocourt–Quéant Line. The doctor Noel Chavasse won it twice, the second time posthumously."
+  ],
+  "see": [
+   "przelamanie-linii-drocourt-queant",
+   "bitwy/bitwa-o-linie-drocourt-queant",
+   "kanadyjczycy-zdobywaja-passchendaele",
+   "brytyjczycy-zdobywaja-wzgorze-60"
+  ],
+  "sources": [
+   "https://www.nam.ac.uk/explore/victoria-cross",
+   "https://en.wikipedia.org/wiki/Victoria_Cross"
+  ]
+ },
+ {
+  "slug": "pour-le-merite",
+  "slugEn": "pour-le-merite",
+  "term": "Pour le Mérite",
+  "termEn": "Pour le Mérite",
+  "category": "wojsko",
+  "pattern": "Pour le Mérite",
+  "patternEn": "Pour le Mérite|Blue Max",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Najwyższy pruski order wojskowy, nadawany wyłącznie oficerom. W I wojnie światowej dostawali go dowódcy za zwycięstwa, a także lotnicy i dowódcy okrętów podwodnych; nazywano go „Niebieskim Maksem”.",
+  "shortEn": "Prussia's highest military order, awarded only to officers. In the First World War it went to commanders for victories and also to airmen and U-boat captains; it was nicknamed the \"Blue Max\".",
+  "long": [
+   "Order ustanowił w 1740 roku król pruski Fryderyk II, nadając mu francuską nazwę „Za zasługę”. Wcześniej otrzymywali go także cywile, ale od 1810 roku przyznawano go tylko oficerom za zasługi wojenne, a w 1813 roku dodano wyższy stopień, liście dębu. W 1842 roku Fryderyk Wilhelm IV utworzył osobną klasę pokojową dla uczonych i artystów, której pierwszym kanclerzem był Alexander von Humboldt; istnieje ona do dziś. Order wojskowy, emaliowany na niebiesko krzyż noszony na szyi, był najbardziej pożądanym odznaczeniem armii pruskiej i cesarskiej marynarki.",
+   "W sierpniu 1914 roku jako jedni z pierwszych dostali go Erich Ludendorff i Otto von Emmich za zdobycie Liège. Ponad jedną trzecią wojennych nadań otrzymali generałowie i admirałowie, a około jednej czwartej młodsi oficerowie, wśród nich dowódcy U-Bootów, sterowców i lotnicy. 12 stycznia 1916 roku jako pierwsi lotnicy dostali go Oswald Boelcke i Max Immelmann, od którego imienia wziął się przydomek orderu. Nadawano go też oficerom państw sojuszniczych, np. Bułgarowi Nikole Żekowowi. Z upadkiem monarchii w listopadzie 1918 roku przestano go przyznawać."
+  ],
+  "longEn": [
+   "The order was founded in 1740 by King Frederick II of Prussia, who gave it the French name \"For Merit\". Civilians had also received it, but from 1810 it was awarded only to officers for war service, and in 1813 a higher grade, the oak leaves, was added. In 1842 Frederick William IV created a separate peace class for scholars and artists, whose first chancellor was Alexander von Humboldt; it still exists today. The military order, a blue-enamelled cross worn at the neck, was the most coveted decoration of the Prussian army and the Imperial Navy.",
+   "In August 1914 Erich Ludendorff and Otto von Emmich were among the first to receive it, for the capture of Liège. More than a third of the wartime awards went to generals and admirals, and about a quarter to junior officers, among them U-boat and airship commanders and airmen. On 12 January 1916 Oswald Boelcke and Max Immelmann became the first airmen to receive it, and Immelmann's first name gave the order its nickname. It was also awarded to officers of allied states, such as the Bulgarian Nikola Zhekov. With the fall of the monarchy in November 1918 it ceased to be awarded."
+  ],
+  "see": [
+   "smierc-maxa-immelmanna",
+   "wojska-niemieckie-zajmuja-liege",
+   "postacie/oswald-boelcke",
+   "postacie/manfred-von-richthofen"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pour_le_M%C3%A9rite",
+   "https://de.wikipedia.org/wiki/Pour_le_Mérite",
+   "https://www.orden-pourlemerite.de/"
+  ]
+ },
+ {
+  "slug": "wojna-minowa",
+  "slugEn": "tunnel-warfare",
+  "term": "Wojna minowa",
+  "termEn": "Tunnel warfare",
+  "category": "wojsko",
+  "pattern": "\\bpodkop(?:y|ów|ami|ach|om)?\\b|\\bpodkop\\w* się\\b|\\btunelarz\\w*|[Kk]ompani\\w* [Tt]unelow\\w*|sztoln\\w* minow\\w*|pod \\w+ sztoln\\w*|chodnik\\w* (?:minow|przeciwminow)\\w*|\\b(?:walk|wojn|prac)\\w* minersk\\w*|podziemn\\w* wojn\\w* minow\\w*|wojn\\w* minow\\w* pod ziemią|\\bmin(?:a|y|ę|ą|ie|ami|ach|om)?\\b (?:\\w+ )?pod (?:\\w+ )?(?:okop|pozycj)\\w*|\\bmin(?:a|y|ę|ą|ie|ami|ach|om)?\\b podłożon\\w*|\\bpodkładan\\w* min\\b|\\bpodkładano min\\w*|\\blej\\w* po min\\w*|\\bkrater\\w* (?:po )?min\\w*",
+  "patternEn": "\\btunnell?ers\\b|[Tt]unnell?ing [Cc]ompan\\w*|underground mine warfare|mine war underground|(?:counter)?mine galler\\w*|mine craters?|mine shafts|\\bmines? (?:laid |dug )?(?:in tunnels )?under (?:the )?\\w+(?:'s)? (?:trenches|lines?|positions)|blew (?:the )?mines|fired (?:\\w+ )?mines? under|digging mines|sapping towards|sap its way towards",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Drążenie tuneli pod pozycje przeciwnika, by wysadzić je ogromnymi ładunkami wybuchowymi, i podziemna walka z jego minerami. Najsłynniejsze miny wybuchły pod Messines, nad Sommą i na Col di Lana.",
+  "shortEn": "Digging tunnels under enemy positions to blow them up with huge explosive charges, and fighting the enemy's miners underground. The best-known mines went off at Messines, on the Somme and on Col di Lana.",
+  "long": [
+   "Podkopy znano z dawnych oblężeń twierdz, a na froncie zachodnim wróciły, gdy wojna zamieniła się w oblężenie wzdłuż linii okopów. Pierwsi miny pod okopy przeciwnika podłożyli Niemcy jesienią 1914 roku; 20 grudnia wysadzili dziesięć pod Festubert. W lutym 1915 roku Brytyjczycy, z inicjatywy posła i przedsiębiorcy Johna Nortona-Griffithsa, zaczęli tworzyć kompanie tunelowe Royal Engineers z zawodowych górników; w połowie 1916 roku było ich 25 brytyjskich i siedem z dominiów, w szczytowym okresie około 25 tysięcy ludzi. Obie strony drążyły chodniki, komory minowe i kontrminy i nasłuchiwały pod ziemią przeciwnika.",
+   "Największe miny odpalano na początku wielkich natarć: 1 lipca 1916 roku nad Sommą, w tym Lochnagar pod La Boisselle, i 7 czerwca 1917 roku pod Messines, gdzie 19 min z około 450 tonami amonalu zabiło według szacunków około 10 tysięcy Niemców. Pod wzgórzem Vauquois Francuzi i Niemcy odpalili ponad 500 min, a w Dolomitach Włosi i Austriacy wysadzali szczyty, jak Col di Lana w kwietniu 1916 roku. Od drugiej połowy 1917 roku miny traciły znaczenie, a tunelarze budowali głównie schrony."
+  ],
+  "longEn": [
+   "Mining was known from the sieges of old, and on the Western Front it returned when the war turned into a siege along the trench lines. The Germans were the first to lay mines under enemy trenches, in the autumn of 1914; on 20 December they blew ten at Festubert. In February 1915 the British, at the urging of the MP and contractor John Norton-Griffiths, began forming Royal Engineers tunnelling companies from professional miners; by mid-1916 there were 25 British and seven Dominion companies, at their peak about 25,000 men. Both sides dug galleries, mine chambers and countermines and listened for the enemy underground.",
+   "The largest mines were fired at the start of great offensives: on 1 July 1916 on the Somme, among them Lochnagar at La Boisselle, and on 7 June 1917 at Messines, where 19 mines with about 450 tons of ammonal killed an estimated 10,000 Germans. Under the hill of Vauquois the French and Germans fired more than 500 mines, and in the Dolomites Italians and Austrians blew up mountain tops, such as Col di Lana in April 1916. From the second half of 1917 mines lost their importance, and the tunnellers mostly built dugouts."
+  ],
+  "see": [
+   "bitwy/bitwa-pod-messines-1917",
+   "wybuch-miny-lochnagar",
+   "bitwy/walki-o-wzgorze-60",
+   "bitwy/walki-o-col-di-lana",
+   "postacie/herbert-plumer",
+   "tematy/zycie-w-okopach"
+  ],
+  "sources": [
+   "https://www.lochnagarcrater.org/history/military-mining/",
+   "https://www.nam.ac.uk/explore/weapons-western-front",
+   "https://en.wikipedia.org/wiki/Mining_(military)",
+   "https://en.wikipedia.org/wiki/Battle_of_Messines_(1917)"
+  ]
+ },
+ {
+  "slug": "zasieki",
+  "slugEn": "barbed-wire",
+  "term": "Zasieki",
+  "termEn": "Barbed wire",
+  "category": "wojsko",
+  "pattern": "\\b[Zz]asiek\\w*|[Dd]rut\\w* kolczast\\w*",
+  "patternEn": "[Bb]arbed[- ]wire\\b|wire entanglements?|\\bentanglements\\b|(?:uncut|intact|German) wire\\b|belts of wire\\b|through the wire\\b|trenches and wire\\b|\\b(?:cut|cutting|destroy|destroyed|flattened) the wire\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Pasy drutu kolczastego na palikach przed okopami, które zatrzymywały atakującą piechotę pod ogniem obrońców. Ich przecięcie było jednym z głównych zadań artylerii, a od 1916 roku także czołgów.",
+  "shortEn": "Belts of barbed wire on stakes in front of the trenches, which held up attacking infantry under the defenders' fire. Cutting them was a main task of the artillery and, from 1916, of tanks.",
+  "long": [
+   "Drut kolczasty opatentował w 1874 roku Amerykanin Joseph Glidden; jako przeszkoda wojskowa dał się poznać m.in. w oblężeniu Port Artur w 1904 roku, gdzie artyleria z trudem go niszczyła. W wojnie pozycyjnej zasieki stały przed każdą linią okopów, w pasach głębokich na kilka, a miejscami na kilkanaście metrów. Ustawiano je tak, by kierowały atakujących pod ogień karabinów maszynowych, i dość daleko od okopu, by przeciwnik nie mógł z nich rzucić do niego granatem. Stawiały je i naprawiały nocą grupy na ziemi niczyjej, z czasem na wkręcanych stalowych palikach, które nie wymagały hałaśliwego wbijania.",
+   "Zasieki były tanie, łatwe do naprawy i odporne na ostrzał: pociski często tylko przerzucały drut z miejsca na miejsce. Nieprzecięte zasieki zatrzymały wiele natarć, m.in. brytyjskie 1 lipca 1916 roku nad Sommą. Artyleria uczyła się je niszczyć, w czym pomogły zapalniki wybuchające przy zetknięciu z ziemią, a saperzy używali nożyc i wydłużonych ładunków wybuchowych. Najskuteczniej pasy drutu przełamywały czołgi, które miażdżyły je gąsienicami, jak pod Cambrai w 1917 roku i pod Amiens w 1918 roku."
+  ],
+  "longEn": [
+   "Barbed wire was patented in 1874 by the American Joseph Glidden; as a military obstacle it made its name among other places in the siege of Port Arthur in 1904, where artillery struggled to destroy it. In trench warfare entanglements stood in front of every trench line, in belts several and in places more than ten metres deep. They were laid so as to channel attackers into machine-gun fire, and far enough from the trench that the enemy could not throw grenades into it from the wire. They were put up and repaired at night by parties in no man's land, in time on screw pickets that needed no noisy hammering.",
+   "Wire was cheap, easy to repair and resistant to shelling: shells often just tossed it from place to place. Uncut wire stopped many attacks, among them the British one on 1 July 1916 on the Somme. The artillery learned to destroy it, helped by fuzes that burst on contact with the ground, and engineers used wire cutters and elongated explosive charges. Tanks were the most effective at breaking through, crushing the wire under their tracks, as at Cambrai in 1917 and at Amiens in 1918."
+  ],
+  "see": [
+   "tematy/zycie-w-okopach",
+   "pierwszy-dzien-bitwy-nad-somma",
+   "bitwy/bitwa-pod-cambrai-1917",
+   "bitwy/bitwa-pod-amiens",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://www.nam.ac.uk/explore/weapons-western-front",
+   "https://en.wikipedia.org/wiki/Barbed_wire",
+   "https://en.wikipedia.org/wiki/Minenwerfer"
+  ]
+ },
+ {
+  "slug": "mozdzierz-okopowy",
+  "slugEn": "trench-mortar",
+  "term": "Moździerz okopowy",
+  "termEn": "Trench mortar",
+  "category": "bron",
+  "pattern": "moździerz\\w*\\]? okopow\\w*|moździerz\\w* \\[?Stokes\\w*|[Mm]inenwerfer\\w*|\\bmiotacz\\w* min\\b|\\bbombomiotacz\\w*",
+  "patternEn": "[Tt]rench[- ]mortars?|\\[?Stokes\\]? mortars?|[Mm]inenwerfer\\w*|\\bmine[- ]throwers?",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Lekkie działo o krótkiej lufie, strzelające stromo z okopu na krótki dystans. Niemcy nazywali je Minenwerfer, Brytyjczycy używali moździerzy Stokesa; w wojnie pozycyjnej miała je każda dywizja.",
+  "shortEn": "A light, short-barrelled gun firing at a steep angle from a trench over a short range. The Germans called it the Minenwerfer, the British used the Stokes mortar; in trench warfare every division had them.",
+  "long": [
+   "Niemcy, po doświadczeniach oblężenia Port Artur, gdzie ciężka artyleria nie radziła sobie z zasiekami i schronami, od 1907 roku przygotowywali z firmą Rheinmetall krótkolufowe moździerze dla saperów. W 1914 roku armia niemiecka miała 160 minenwerferów, ciężkich kalibru 25 cm i średnich 17 cm, a lekki model 7,58 cm szybko wszedł do masowej produkcji. Inne armie musiały improwizować. Brytyjczyk Wilfred Stokes zaprojektował w styczniu 1915 roku prosty moździerz kalibru 81 mm: pocisk wpuszczony do lufy sam odpalał się o iglicę, a działo strzelało do 20–25 razy na minutę na odległość od około 700 metrów do ponad kilometra, zależnie od źródła.",
+   "Moździerze okopowe były lekkie i strzelały z okopu, więc nadawały się do niszczenia gniazd karabinów maszynowych, zasieków i stanowisk strzelców wyborowych na bliskim dystansie. Ich liczba rosła we wszystkich armiach: w 1918 roku Niemcy mieli blisko 16 tysięcy minenwerferów, a w Wielkiej Brytanii wyprodukowano ponad 11 tysięcy moździerzy Stokesa. Rozejm w Compiègne nakazał Niemcom wydać 3 tysiące moździerzy okopowych, a konstrukcja Stokesa stała się wzorem dla moździerzy piechoty."
+  ],
+  "longEn": [
+   "After the siege of Port Arthur, where heavy artillery struggled against barbed wire and bunkers, the Germans worked with Rheinmetall from 1907 on short-barrelled mortars for their engineers. In 1914 the German army had 160 Minenwerfer, heavy 25 cm and medium 17 cm, and a light 7.58 cm model soon went into mass production. Other armies had to improvise. The Briton Wilfred Stokes designed a simple 81 mm mortar in January 1915: a bomb dropped down the barrel fired itself on a striker, and the weapon could fire 20–25 rounds a minute at ranges from about 700 metres to over a kilometre, depending on the source.",
+   "Trench mortars were light and fired from inside the trench, so they suited the destruction of machine-gun nests, wire and sniper posts at close range. Their numbers grew in every army: in 1918 the Germans had nearly 16,000 Minenwerfer, and Britain produced more than 11,000 Stokes mortars. The Compiègne armistice required Germany to hand over 3,000 trench mortars, and the Stokes design became the model for infantry mortars."
+  ],
+  "see": [
+   "bitwy/bitwa-o-ryge",
+   "bitwy/druga-bitwa-w-szampanii",
+   "pierwszy-dzien-bitwy-nad-somma",
+   "rozejm-w-compiegne",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Minenwerfer",
+   "https://en.wikipedia.org/wiki/Stokes_mortar",
+   "https://www.nam.ac.uk/explore/weapons-western-front"
+  ]
+ }
+]

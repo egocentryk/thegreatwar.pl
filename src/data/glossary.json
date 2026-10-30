@@ -811,8 +811,8 @@
   "term": "Artyleria ciężka",
   "termEn": "Heavy artillery",
   "category": "bron",
-  "pattern": "\\bhaubic\\w*|\\bmoździerz\\w*(?! okopow)|Grub\\w* Bert\\w*",
-  "patternEn": "\\bhowitzers?\\b|\\bmortars?\\b|Big Bertha",
+  "pattern": "\\bhaubic\\w*|\\bmoździerz\\w*(?!\\]? okopow|\\]? Stokes)",
+  "patternEn": "\\bhowitzers?\\b|(?<!trench )(?<!trench-)(?<!Stokes )\\bmortars?\\b",
   "expansion": "",
   "expansionEn": "",
   "short": "Działa dużego kalibru, zwłaszcza haubice i moździerze strzelające stromotorowo ciężkimi pociskami. W I wojnie światowej burzyły forty i umocnienia polowe; najsłynniejsza była niemiecka Gruba Berta kalibru 420 mm.",
@@ -2132,8 +2132,8 @@
   "term": "Rajder",
   "termEn": "Commerce raider",
   "category": "morze",
-  "pattern": "\\brajder\\w*|krążownik\\w* pomocnicz\\w*",
-  "patternEn": "\\braiders?\\b|auxiliary cruisers?",
+  "pattern": "\\brajder\\w*",
+  "patternEn": "\\braiders?\\b",
   "expansion": "",
   "expansionEn": "",
   "short": "Okręt nawodny zwalczający żeglugę handlową przeciwnika na odległych morzach. W I wojnie światowej były to niemieckie krążowniki, jak Emden, i uzbrojone statki handlowe, czyli krążowniki pomocnicze, jak Möwe czy Wolf.",
@@ -2750,6 +2750,1733 @@
    "https://en.wikipedia.org/wiki/No_man%27s_land",
    "https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/stellungskrieg",
    "https://pl.wikipedia.org/wiki/Wojna_pozycyjna"
+  ]
+ },
+ {
+  "slug": "gruba-berta",
+  "slugEn": "big-bertha",
+  "term": "Gruba Berta",
+  "termEn": "Big Bertha",
+  "category": "bron",
+  "pattern": "Grub\\w* Bert\\w*",
+  "patternEn": "Big Berthas?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niemiecki moździerz oblężniczy kalibru 420 mm z zakładów Kruppa. W 1914 roku rozbijał forty Liège, Namuru, Maubeuge i Antwerpii, a w 1915 roku pomagał zdobywać twierdze rosyjskie, m.in. Kowno i Nowogieorgijewsk.",
+  "shortEn": "A German 42 cm siege mortar built by Krupp. In 1914 it smashed the forts of Liège, Namur, Maubeuge and Antwerp, and in 1915 it helped take Russian fortresses such as Kovno and Novogeorgievsk.",
+  "long": [
+   "Krupp zbudował przed wojną dwa typy moździerza kalibru 42 cm: ciężki, ustawiany na betonowym fundamencie Gamma-Gerät i lżejszy, kołowy M-Gerät, który przewożono koleją i ciągnikami. Ten drugi ważył około 42 ton i wystrzeliwał pociski o masie do ponad tony na odległość około 9 km, kilka na godzinę. Liczba zbudowanych egzemplarzy różni się w źródłach, od kilkunastu do około 30. Nazwa Dicke Bertha, czyli Gruba Berta, powstała wśród żołnierzy w sierpniu 1914 roku, zapewne od imienia Berthy Krupp, właścicielki firmy.",
+   "Pod Liège moździerze 42 cm, razem z austro-węgierskimi moździerzami Škody kalibru 30,5 cm, zmusiły do kapitulacji fort Pontisse, a 15 sierpnia 1914 roku pocisk trafił w magazyn amunicji fortu Loncin. Potem burzyły forty Namuru, Maubeuge i Antwerpii, a w 1915 roku ostrzeliwały Przemyśl, Osowiec, Kowno i Nowogieorgijewsk. Pod Verdun w 1916 roku nie przebijały już nowoczesnych fortów z betonu. Alianci nazywali Grubą Bertą także inne niemieckie ciężkie działa, a paryżanie w 1918 roku działo dalekonośne."
+  ],
+  "longEn": [
+   "Before the war Krupp built two types of 42 cm mortar: the heavy Gamma-Gerät, set on a concrete foundation, and the lighter wheeled M-Gerät, moved by rail and tractor. The latter weighed about 42 tonnes and fired shells of over a tonne to about 9 km, a few an hour. Sources differ on how many were built, from a dozen or so to about 30. The name Dicke Bertha, Big Bertha, arose among the troops in August 1914, probably after Bertha Krupp, the owner of the firm.",
+   "At Liège the 42 cm mortars, together with Austro-Hungarian 30.5 cm Škoda mortars, forced Fort Pontisse to surrender, and on 15 August 1914 a shell hit the magazine of Fort Loncin. They went on to smash the forts of Namur, Maubeuge and Antwerp, and in 1915 shelled Przemyśl, Osowiec, Kovno and Novogeorgievsk. At Verdun in 1916 they could no longer pierce modern concrete forts. The Allies called other heavy German guns Big Bertha too, and in 1918 Parisians gave the name to the long-range gun."
+  ],
+  "see": [
+   "padaja-ostatnie-forty-liege",
+   "bitwy/bitwa-pod-liege",
+   "bitwy/oblezenie-antwerpii",
+   "bitwy/oblezenie-kowna",
+   "ostrzal-paryza-z-dziala-dalekonosnego",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)",
+   "https://pl.wikipedia.org/wiki/Gruba_Berta",
+   "https://historynet.com/?p=13690293"
+  ]
+ },
+ {
+  "slug": "dzialo-paryskie",
+  "slugEn": "paris-gun",
+  "term": "Działo paryskie",
+  "termEn": "Paris Gun",
+  "category": "bron",
+  "pattern": "\\b[Dd]ział\\w* paryski\\w*|\\b[Dd]ział\\w* dalekonośn\\w*|[Oo]strza\\w* Paryża",
+  "patternEn": "Paris [Gg]un|\\blong-range guns?\\b|[Ss]helling of Paris",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niemieckie działo dalekonośne kalibru 21 cm, które od 23 marca do 9 sierpnia 1918 roku ostrzeliwało Paryż z odległości ponad 100 km. Paryżanie nazywali je „Bertą”, mylnie łącząc je z Grubą Bertą.",
+  "shortEn": "A German 21 cm long-range gun that shelled Paris from more than 100 km away between 23 March and 9 August 1918. Parisians called it \"Bertha\", wrongly linking it with Big Bertha.",
+  "long": [
+   "Działo zbudowały zakłady Kruppa: w zużyte lufy okrętowych dział kalibru 38 cm wstawiono długie wkładki kalibru 21 cm, a lufa z przedłużeniem mierzyła ponad 30 metrów. Pocisk ważący około 100 kg wznosił się na wysokość około 40 km, gdzie rzadkie powietrze prawie nie stawiało oporu, i spadał po około trzech minutach lotu. Każdy strzał zdzierał gwint, więc lufy przewiercano na większy kaliber i wymieniano. Obsługiwali je marynarze pod dowództwem wiceadmirała Maximiliana Rogge, a Niemcy nazywali je też działem cesarza Wilhelma.",
+   "Pierwsze pociski spadły na Paryż 23 marca 1918 roku, dwa dni po rozpoczęciu wiosennej ofensywy, z lasu koło Crépy pod Laon. 29 marca pocisk trafił w kościół św. Gerwazego i Protazego w czasie nabożeństwa i zabił około 90 osób. Ostrzał z przerwami, z kolejnych stanowisk, trwał do 9 sierpnia. Według paryskiej prefektury policji spadło 367 pocisków, które zabiły 256 osób i raniły 620; niemieckie dane mówią o około 320 strzałach. Działo miało łamać morale paryżan, ale nie zmieniło przebiegu wojny, a żadne nie wpadło w ręce aliantów."
+  ],
+  "longEn": [
+   "The gun was built by Krupp: long 21 cm liners were inserted into worn 38 cm naval gun barrels, and with its extension the barrel was over 30 metres long. The shell, weighing about 100 kg, rose to some 40 km, where the thin air offered almost no resistance, and came down after about three minutes. Each shot stripped the rifling, so barrels were rebored to a larger calibre and replaced. Sailors under Vice-Admiral Maximilian Rogge manned it, and the Germans also called it the Kaiser Wilhelm Gun.",
+   "The first shells fell on Paris on 23 March 1918, two days after the spring offensive began, fired from woods near Crépy, outside Laon. On 29 March a shell hit the church of Saint-Gervais-Saint-Protais during a service and killed about 90 people. The shelling went on, with breaks and from successive positions, until 9 August. According to the Paris police prefecture 367 shells fell, killing 256 people and wounding 620; German figures speak of about 320 rounds. The gun was meant to break Parisian morale but did not change the course of the war, and the Allies never captured one."
+  ],
+  "see": [
+   "ostrzal-paryza-z-dziala-dalekonosnego",
+   "pocisk-trafia-w-kosciol-saint-gervais",
+   "ostatni-ostrzal-paryza",
+   "bitwy/operacja-michael",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Gun",
+   "https://pl.wikipedia.org/wiki/Działo_paryskie",
+   "https://historynet.com/paris-under-the-gun/"
+  ],
+  "exclude": [
+   "bitwy/bitwa-nad-avre",
+   "bitwy/pierwsza-bitwa-pod-arras-1918",
+   "bitwy/siodma-bitwa-nad-isonzo",
+   "poczatek-bitwy-pod-hazebrouck",
+   "poczatek-trzeciej-bitwy-nad-aisne",
+   "bitwy/obrona-osowca",
+   "brytyjczycy-zajmuja-jerycho",
+   "brytyjczycy-zajmuja-kilose",
+   "poczatek-szostej-bitwy-nad-isonzo"
+  ]
+ },
+ {
+  "slug": "bombowiec",
+  "slugEn": "bomber",
+  "term": "Bombowiec",
+  "termEn": "Bomber",
+  "category": "bron",
+  "pattern": "\\bbombow\\w*|\\b(?<!-)Goth(?:a|y|ę|ą|om|ów|ami|ach)?\\b|Riesenflugzeug\\w*|Handley Page\\w*|\\bCaproni\\w*|Ilj\\w* Murom\\w*",
+  "patternEn": "\\bbombers?\\b|\\b(?<!-)(?<!and )Gothas?\\b|Riesenflugzeug\\w*|Handley Page|\\bCaproni\\w*|Ilya Muromets",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Samolot przeznaczony do zrzucania bomb na cele za frontem i na zapleczu. W I wojnie światowej ciężkie bombowce, jak rosyjskie Ilja Muromiec, włoskie Caproni i niemieckie Gothy, atakowały też miasta.",
+  "shortEn": "An aircraft built to drop bombs on targets behind the front and in the rear. In the First World War heavy bombers such as the Russian Ilya Muromets, the Italian Caproni and the German Gotha also attacked cities.",
+  "long": [
+   "Pierwsze bomby zrzucano w 1914 roku z samolotów rozpoznawczych; już w sierpniu francuskie Voisiny zaatakowały hangary sterowców pod Metz. Pierwszym ciężkim bombowcem był czterosilnikowy Ilja Muromiec Igora Sikorskiego: rosyjska eskadra wykonała nim pierwszy nalot w lutym 1915 roku, a do rewolucji, według różnych źródeł, od ponad 350 do ponad 400 lotów bojowych. Od sierpnia 1915 roku Włosi bombardowali tyły austro-węgierskie Capronimi, a Francuzi i Brytyjczycy tworzyli eskadry do nalotów na niemiecki przemysł.",
+   "W maju 1917 roku dwusilnikowe Gothy zastąpiły sterowce w nalotach na Anglię; 13 czerwca czternaście z nich zbombardowało Londyn w biały dzień. Od jesieni latały nocą, wspierane przez ogromne Riesenflugzeuge, czyli giganty. Do maja 1918 roku niemieckie samoloty zabiły w Wielkiej Brytanii ponad 830 osób i raniły blisko 2000. Naloty wymusiły przebudowę obrony powietrznej i przyczyniły się do utworzenia RAF. Brytyjczycy odpowiadali nalotami Handley Page'ów, a od czerwca 1918 roku Independent Force bombardowała zakłady i miasta w Niemczech."
+  ],
+  "longEn": [
+   "The first bombs were dropped in 1914 from reconnaissance aircraft; as early as August French Voisins attacked airship sheds near Metz. The first heavy bomber was Igor Sikorsky's four-engined Ilya Muromets: a Russian squadron flew its first raid in February 1915 and, according to different sources, more than 350 to more than 400 combat sorties before the revolution. From August 1915 the Italians bombed the Austro-Hungarian rear with Capronis, while the French and British formed squadrons to raid German industry.",
+   "In May 1917 twin-engined Gothas replaced airships in the raids on England; on 13 June fourteen of them bombed London in broad daylight. From the autumn they flew by night, joined by the huge Riesenflugzeuge, the Giants. By May 1918 German aeroplanes had killed more than 830 people in Britain and wounded nearly 2,000. The raids forced a reorganisation of air defence and contributed to the creation of the RAF. The British replied with Handley Page raids, and from June 1918 the Independent Force bombed factories and towns in Germany."
+  ],
+  "see": [
+   "nalot-gothow-na-londyn",
+   "nalot-gigantow-na-londyn",
+   "utworzenie-independent-force",
+   "francuski-nalot-na-zaklady-kruppa",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://centennialofflight.net/essay/Air_Power/WWI_Bombing/AP3.htm",
+   "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_I"
+  ],
+  "exclude": [
+   "bitwy/bitwa-o-grzbiet-thiepval",
+   "bitwy/bitwa-o-sari-bair",
+   "bitwy/bitwa-pod-bullecourt",
+   "bitwy/bitwa-pod-morval",
+   "bitwy/walki-o-wzgorze-60",
+   "koniec-bitwy-o-las-delville",
+   "koniec-bitwy-o-sari-bair",
+   "koniec-bitwy-pod-cambrai",
+   "koniec-bitwy-pod-dojranem",
+   "koniec-bitwy-pod-festubert",
+   "poczatek-bitwy-o-grzbiet-thiepval",
+   "poczatek-bitwy-pod-flers-courcelette",
+   "poczatek-bitwy-pod-guillemont",
+   "poczatek-bitwy-pod-morval",
+   "wigilijny-szturm-na-al-kut"
+  ]
+ },
+ {
+  "slug": "wodnosamolot",
+  "slugEn": "seaplane",
+  "term": "Wodnosamolot",
+  "termEn": "Seaplane",
+  "category": "bron",
+  "pattern": "\\bwodnosamol\\w*|\\bhydroplan\\w*",
+  "patternEn": "\\bseaplanes?\\b|\\bflying boats?\\b|\\bfloatplanes?\\b|\\bhydroplanes?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Samolot startujący z wody i na nią wodujący, na pływakach lub z kadłubem w kształcie łodzi. W I wojnie światowej prowadził rozpoznanie morskie, tropił U-Booty, bombardował, a w 1915 roku zaatakował statek torpedą.",
+  "shortEn": "An aircraft that takes off from and lands on water, on floats or with a boat-shaped hull. In the First World War it scouted at sea, hunted U-boats and bombed, and in 1915 it attacked a ship with a torpedo.",
+  "long": [
+   "Pierwszy udany lot wodnosamolotu wykonał Francuz Henri Fabre w marcu 1910 roku, a Amerykanin Glenn Curtiss zbudował wkrótce pierwsze łodzie latające. Floty chętnie je przyjęły, bo nie potrzebowały lotnisk: startowały z wody w portach albo z okrętów-baz, które opuszczały je dźwigiem za burtę. We wrześniu 1914 roku japońskie wodnosamoloty z okrętu Wakamiya bombardowały Tsingtao, a w Boże Narodzenie brytyjskie, z przerobionych promów, zaatakowały bazę sterowców w Cuxhaven.",
+   "12 sierpnia 1915 roku Charles Edmonds na wodnosamolocie Short 184 zrzucił torpedę na turecki statek na Morzu Marmara, choć cel był już wcześniej unieruchomiony przez okręt podwodny. Short 184 z okrętu Engadine był jedynym brytyjskim samolotem w bitwie jutlandzkiej. Do końca wojny wodnosamoloty i łodzie latające, jak brytyjskie Felixstowe, patrolowały morza w poszukiwaniu U-Bootów i sterowców; własne miały też floty niemiecka, austro-węgierska, włoska i rosyjska. Startom przeszkadzała jednak fala, więc rosło znaczenie samolotów startujących z pokładu."
+  ],
+  "longEn": [
+   "The Frenchman Henri Fabre made the first successful seaplane flight in March 1910, and the American Glenn Curtiss soon built the first flying boats. Navies took to them readily, since they needed no airfields: they took off from the water in harbours or from carriers that lowered them over the side by crane. In September 1914 Japanese seaplanes from the Wakamiya bombed Tsingtao, and on Christmas Day British ones, carried by converted ferries, attacked the airship base at Cuxhaven.",
+   "On 12 August 1915 Charles Edmonds, flying a Short 184 seaplane, dropped a torpedo on a Turkish ship in the Sea of Marmara, although the target had already been crippled by a submarine. A Short 184 from Engadine was the only British aircraft at the Battle of Jutland. Until the end of the war seaplanes and flying boats, such as the British Felixstowes, patrolled the seas looking for U-boats and airships; the German, Austro-Hungarian, Italian and Russian navies had their own. Waves, however, hampered take-offs, so aircraft flying from a deck grew in importance."
+  ],
+  "see": [
+   "pierwszy-statek-zatopiony-torpeda-z-wodnosamolotu",
+   "nalot-na-cuxhaven",
+   "poczatek-bitwy-jutlandzkiej",
+   "bitwy/oblezenie-tsingtao",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seaplane",
+   "https://en.wikipedia.org/wiki/Short_Type_184",
+   "https://www.gracesguide.co.uk/Short_Type_184",
+   "https://en.wikipedia.org/wiki/Seaplane_tender"
+  ]
+ },
+ {
+  "slug": "samochod-pancerny",
+  "slugEn": "armoured-car",
+  "term": "Samochód pancerny",
+  "termEn": "Armoured car",
+  "category": "bron",
+  "pattern": "[Ss]amoch\\w* pancern\\w*",
+  "patternEn": "[Aa]rmou?red cars?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Opancerzony pojazd kołowy, uzbrojony zwykle w karabin maszynowy w obrotowej wieżyczce. W I wojnie światowej mało przydatny wśród okopów, sprawdzał się tam, gdzie front był ruchomy, zwłaszcza na pustyniach.",
+  "shortEn": "An armoured wheeled vehicle, usually armed with a machine gun in a revolving turret. Of little use among the trenches of the First World War, it proved itself where the front was fluid, above all in the desert.",
+  "long": [
+   "Pierwsze uzbrojone samochody zbudowano na przełomie XIX i XX wieku, a w 1914 roku Belgowie użyli bojowo opancerzonych samochodów Minerva. Brytyjskie lotnictwo marynarki (RNAS) jesienią 1914 roku zarekwirowało podwozia Rolls-Royce'a Silver Ghost i osadziło na nich pancerne nadwozia z wieżyczką i karabinem maszynowym Vickers; w czasie wojny powstało około 120 takich wozów. Własne samochody pancerne miały też armie rosyjska, francuska, niemiecka i austro-węgierska. Pancerz chronił tylko przed pociskami karabinowymi i odłamkami.",
+   "Okopy, leje i zasieki szybko odebrały im znaczenie na froncie zachodnim, ale na otwartym terenie pozostały cenne. W Egipcie w marcu 1916 roku samochody pancerne księcia Westminsteru rozbiły siły bractwa Sanusijja i uwolniły jeńców z zatopionego statku Tara, a T. E. Lawrence nazwał swoje Rolls-Royce'y „cenniejszymi od rubinów”. W Mezopotamii i Palestynie w latach 1917–1918 ścigały cofające się wojska tureckie. Szczególnie przydatne były na froncie wschodnim, a w wojnie domowej w Rosji i w wojnie polsko-bolszewickiej stały się bronią powszechną."
+  ],
+  "longEn": [
+   "The first armed cars were built around the turn of the twentieth century, and in 1914 the Belgians used armoured Minerva cars in combat. In autumn 1914 the Royal Naval Air Service requisitioned Rolls-Royce Silver Ghost chassis and fitted them with armoured bodies, a turret and a Vickers machine gun; about 120 were built during the war. The Russian, French, German and Austro-Hungarian armies also had armoured cars. Their armour protected only against rifle bullets and splinters.",
+   "Trenches, craters and wire soon made them irrelevant on the Western Front, but in open country they remained valuable. In Egypt in March 1916 the Duke of Westminster's armoured cars routed the Senussi and freed the prisoners from the sunken ship Tara, and T. E. Lawrence called his Rolls-Royces \"more valuable than rubies\". In Mesopotamia and Palestine in 1917–1918 they pursued retreating Turkish troops. They were particularly useful on the Eastern Front, and in the Russian Civil War and the Polish-Soviet War they became a common weapon."
+  ],
+  "see": [
+   "brytyjczycy-odzyskuja-as-sallum",
+   "walki-w-oazie-siwa",
+   "bitwy/bitwa-pod-chan-al-baghdadi",
+   "bitwy/bitwa-pod-megiddo",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rolls-Royce_Armoured_Car",
+   "https://en.wikipedia.org/wiki/Armored_car_(military)",
+   "https://pl.wikipedia.org/wiki/Samochód_pancerny",
+   "https://www.awm.gov.au/collection/C1026"
+  ]
+ },
+ {
+  "slug": "szrapnel",
+  "slugEn": "shrapnel-shell",
+  "term": "Szrapnel",
+  "termEn": "Shrapnel shell",
+  "category": "bron",
+  "pattern": "\\b[Ss]zrapnel\\w*",
+  "patternEn": "\\b[Ss]hrapnel\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Pocisk artyleryjski wypełniony ołowianymi kulkami, które zapalnik czasowy uwalniał w powietrzu przed celem. Skuteczny przeciw piechocie na otwartym terenie, w wojnie okopowej ustępował pociskom burzącym.",
+  "shortEn": "An artillery shell filled with lead balls that a time fuze released in the air in front of the target. Effective against infantry in the open, in trench warfare it gave way to high-explosive shells.",
+  "long": [
+   "Pocisk opracował pod koniec XVIII wieku brytyjski oficer artylerii Henry Shrapnel, a armia brytyjska przyjęła go w 1803 roku. Szrapnel miał skorupę wypełnioną ołowianymi kulkami i niewielki ładunek prochu. Zapalnik czasowy rozrywał go przed celem lub nad nim, a kulki leciały dalej z prędkością pocisku, raniąc żołnierzy na dużej przestrzeni. W 1914 roku był podstawowym pociskiem dział polowych wszystkich armii; brytyjskie działa polowe do października 1914 roku strzelały wyłącznie szrapnelami.",
+   "W wojnie pozycyjnej szrapnel okazał się mało skuteczny: nie niszczył okopów ani schronów, a zasieki przecinał tylko przy bardzo dokładnym ustawieniu zapalnika. Armie przechodziły więc na pociski burzące, choć Brytyjczycy długo zachowali duży udział szrapneli, co zaważyło m.in. pod Aubers w 1915 roku i nad Sommą w 1916 roku. Szrapnele zostały jednak w ruchomych zaporach ogniowych osłaniających piechotę. Polski generał Tadeusz Rozwadowski skonstruował granato-szrapnel, wybuchający w powietrzu i przy uderzeniu. Potocznie szrapnelem nazywa się dziś każdy odłamek."
+  ],
+  "longEn": [
+   "The shell was devised at the end of the eighteenth century by the British artillery officer Henry Shrapnel, and the British army adopted it in 1803. A shrapnel shell had a case filled with lead balls and a small powder charge. The time fuze burst it in front of or above the target, and the balls flew on at the shell's speed, wounding soldiers over a wide area. In 1914 it was the main field-gun round of every army; British field guns fired nothing but shrapnel until October 1914.",
+   "In trench warfare shrapnel proved of little use: it did not destroy trenches or dugouts, and it cut wire only if the fuze was set very precisely. Armies therefore turned to high explosive, although the British long kept a large share of shrapnel, which told at Aubers in 1915 and on the Somme in 1916. Shrapnel remained in the creeping barrages that covered the infantry. The Polish general Tadeusz Rozwadowski designed a shell that burst both in the air and on impact. Today any shell splinter is loosely called shrapnel."
+  ],
+  "see": [
+   "bitwy/bitwa-o-grzbiet-aubers",
+   "postacie/tadeusz-rozwadowski",
+   "bitwy/bitwa-pod-nonne-bosschen",
+   "tematy/zycie-w-okopach"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrapnel_shell",
+   "https://en.rcamuseum.com/a-rusty-shrapnel-round/"
+  ]
+ },
+ {
+  "slug": "dzialo-kolejowe",
+  "slugEn": "railway-gun",
+  "term": "Działo kolejowe",
+  "termEn": "Railway gun",
+  "category": "bron",
+  "pattern": "[Dd]ział\\w* kolejow\\w*|[Hh]aubic\\w* kolejow\\w*|lawet\\w* kolejow\\w*|platform\\w* kolejow\\w*",
+  "patternEn": "railway (?:guns?|howitzers?|mountings?)\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Ciężkie działo na specjalnej lawecie kolejowej, przewożone i zwykle strzelające z torów. W I wojnie światowej najczęściej przerobione działo okrętowe, używane do ostrzału fortów, węzłów i miast za frontem.",
+  "shortEn": "A heavy gun on a special railway mounting, moved and usually fired from the track. In the First World War it was most often a converted naval gun, used to shell forts, rail junctions and towns behind the front.",
+  "long": [
+   "Pomysł znano od XIX wieku, ale rozwinął się w wojnie pozycyjnej, gdy potrzebowano dział cięższych, niż mogły przewieźć drogi. Na wagonach montowano przede wszystkim zbędne działa okrętowe i nadbrzeżne. Lufę naprowadzano, przesuwając wagon po łuku toru albo obracając lawetę, a odrzut przy największych kalibrach przejmowały kotwy i podpory lub cały wagon, przetaczający się po szynach. Najwięcej typów i kalibrów miała Francja, po niej Niemcy i Wielka Brytania; w 1918 roku do Francji trafiły też amerykańskie działa okrętowe kalibru 14 cali.",
+   "W październiku 1916 roku dwie francuskie haubice kolejowe kalibru 400 mm przebiły stropy fortu Douaumont, co ułatwiło jego odbicie 24 października. Latem 1918 roku Niemcy ostrzeliwali Amiens z odległości około 25 km z działa kalibru 28 cm, przerobionego z działa okrętowego z 1904 roku. 8 sierpnia 1918 roku ten skład zdobyto pod Harbonnières, a lufę ma dziś Australijski Pomnik Wojenny w Canberze. Także działo paryskie dowożono koleją na przygotowane stanowiska."
+  ],
+  "longEn": [
+   "The idea dated from the nineteenth century but flourished in trench warfare, when guns heavier than the roads could carry were needed. Above all surplus naval and coast-defence guns were mounted on wagons. The barrel was aimed by moving the wagon along a curved track or by turning the mounting, while on the largest calibres the recoil was taken by anchors and struts or by the whole wagon rolling back along the rails. France had the most types and calibres, followed by Germany and Britain; in 1918 American 14-inch naval guns also reached France.",
+   "In October 1916 two French 400 mm railway howitzers pierced the roofs of Fort Douaumont, which helped retake it on 24 October. In summer 1918 the Germans shelled Amiens from about 25 km with a 28 cm gun converted from a naval gun of 1904. On 8 August 1918 this train was captured near Harbonnières, and its barrel is now at the Australian War Memorial in Canberra. The Paris Gun, too, was brought to its prepared positions by rail."
+  ],
+  "see": [
+   "francuzi-odbijaja-fort-douaumont",
+   "poczatek-bitwy-pod-amiens",
+   "bitwy/pierwsza-ofensywna-bitwa-pod-verdun",
+   "niemieccy-parlamentariusze-u-focha",
+   "postacie/charles-mangin"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Railway_gun",
+   "https://awm.gov.au/exhibitions/1918/battles/amiensgun",
+   "https://actualites.musee-armee.fr/expositions-en/lhyperbataille-de-verdun-sixieme-episode-les-offensives-francaises-19-octobre-15-decembre-1916-2/?lang=en"
+  ]
+ },
+ {
+  "slug": "krazownik-pomocniczy",
+  "slugEn": "auxiliary-cruiser",
+  "term": "Krążownik pomocniczy",
+  "termEn": "Auxiliary cruiser",
+  "category": "morze",
+  "pattern": "krążownik\\w* pomocnicz\\w*",
+  "patternEn": "[Aa]uxiliary cruisers?|[Aa]rmed merchant cruisers?",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Statek handlowy, zwykle szybki liniowiec pasażerski, uzbrojony i wcielony do floty wojennej. Brytyjczycy używali ich do patroli blokady i eskorty, Niemcy przede wszystkim jako rajderów na szlakach handlowych.",
+  "shortEn": "A merchant ship, usually a fast passenger liner, armed and taken into a navy. Britain used them for blockade patrols and escort work, Germany above all as raiders on the trade routes.",
+  "long": [
+   "Jeszcze przed wojną Wielka Brytania i Niemcy porozumiewały się z armatorami, by budowali szybkie statki, na których w razie wojny można ustawić działa. W sierpniu 1914 roku obie floty zarekwirowały dziesiątki liniowców, uzbroiły je w lekkie działa i obsadziły załogami marynarki. Krążownik pomocniczy był okrętem wojennym, w odróżnieniu od statku handlowego uzbrojonego tylko do obrony. 14 września 1914 roku pod wyspą Trindade starły się dwa takie okręty: brytyjska Carmania zatopiła niemiecki Cap Trafalgar, upodobniony do niej przez przemalowanie.",
+   "Brytyjskie krążowniki pomocnicze tworzyły trzon 10 Eskadry Krążowników, która od 1914 do listopada 1917 roku pilnowała wód na północ od Szkocji i skontrolowała prawie 13 tysięcy statków; dziesięć z nich zatonęło. Służyły też do eskortowania konwojów i jako transportowce. Niemieckie krążowniki pomocnicze z 1914 roku, jak Kaiser Wilhelm der Grosse, Kronprinz Wilhelm czy Prinz Eitel Friedrich, szybko zatopiono lub internowano, a od 1915 roku na morze wychodziły skromniejsze, zamaskowane frachtowce, jak Möwe i Wolf."
+  ],
+  "longEn": [
+   "Even before the war Britain and Germany came to terms with shipowners to build fast ships that could mount guns in wartime. In August 1914 both navies requisitioned dozens of liners, armed them with light guns and manned them with naval crews. An auxiliary cruiser was a warship, unlike a merchant ship armed only for self-defence. On 14 September 1914 two such ships met off the island of Trindade: the British Carmania sank the German Cap Trafalgar, which had been repainted to look like her.",
+   "British auxiliary cruisers formed the core of the 10th Cruiser Squadron, which from 1914 to November 1917 watched the waters north of Scotland and inspected almost 13,000 ships; ten of them were lost. They also escorted convoys and served as transports. Germany's auxiliary cruisers of 1914, such as Kaiser Wilhelm der Grosse, Kronprinz Wilhelm and Prinz Eitel Friedrich, were soon sunk or interned, and from 1915 more modest, disguised freighters such as Möwe and Wolf put to sea."
+  ],
+  "see": [
+   "krazownik-pomocniczy-kaiser-wilhelm-der-grosse-wyplywa-na-atlantyk",
+   "carmania-zatapia-cap-trafalgar",
+   "internowanie-kronprinz-wilhelm",
+   "mowe-wyplywa-w-pierwszy-rejs",
+   "niemiecka-nota-o-uzbrojonych-statkach-handlowych"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armed_merchant_cruiser",
+   "https://en.wikipedia.org/wiki/Northern_Patrol",
+   "https://www.rmg.co.uk/collections/objects/rmgc-object-204091",
+   "https://naval-history.net/WW1Battle-HMS_Carmania_v_SMS_Cap_Trafalgar_1914.htm"
+  ]
+ },
+ {
+  "slug": "kontrabanda",
+  "slugEn": "contraband",
+  "term": "Kontrabanda wojenna",
+  "termEn": "Contraband of war",
+  "category": "morze",
+  "pattern": "\\b[Kk]ontraband\\w*",
+  "patternEn": "\\b[Cc]ontraband\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Towary, które strona wojująca może zatrzymać i skonfiskować na morzu, także na statku neutralnym, jeśli płyną do przeciwnika. Rozszerzanie list kontrabandy było głównym prawnym narzędziem blokady Niemiec.",
+  "shortEn": "Goods that a belligerent may stop and confiscate at sea, even on a neutral ship, if they are bound for the enemy. Widening the contraband lists was the main legal instrument of the blockade of Germany.",
+  "long": [
+   "Deklaracja londyńska z 26 lutego 1909 roku, uzgodniona przez dziesięć państw morskich, dzieliła towary na trzy grupy. Kontrabandę bezwzględną, czyli broń, amunicję i sprzęt wojskowy, można było zająć w drodze do nieprzyjaciela, także przez port neutralny. Kontrabandę względną, towary podwójnego użytku, jak żywność, paliwo czy złoto, tylko w drodze do sił lub władz przeciwnika i nie przez port neutralny. Na liście wolnej były m.in. surowce włókiennicze, kauczuk i rudy. Deklaracji nikt nie ratyfikował, bo odrzuciła ją brytyjska Izba Lordów.",
+   "W sierpniu 1914 roku Wielka Brytania i Francja ogłosiły, że będą ją stosować z własnymi zmianami. W kolejnych miesiącach przenosiły towary z listy wolnej i względnej na bezwzględną, a kontrabandę względną zatrzymywały także w drodze do portów neutralnych, jeśli jej celem były Niemcy. Państwa neutralne, zwłaszcza Stany Zjednoczone i Holandia, protestowały. 7 lipca 1916 roku sojusznicy odstąpili od deklaracji, a pod koniec wojny niemal każdy ładunek płynący do Niemiec traktowano jak kontrabandę."
+  ],
+  "longEn": [
+   "The Declaration of London of 26 February 1909, agreed by ten naval powers, divided goods into three groups. Absolute contraband, meaning arms, ammunition and military equipment, could be seized on its way to the enemy, even via a neutral port. Conditional contraband, dual-use goods such as food, fuel or gold, only on its way to the enemy's forces or government and not via a neutral port. The free list included textile raw materials, rubber and ores. No one ratified the Declaration, because the British House of Lords rejected it.",
+   "In August 1914 Britain and France announced that they would apply it with their own changes. In the following months they moved goods from the free and conditional lists to the absolute one, and seized conditional contraband even on its way to neutral ports if it was bound for Germany. Neutral countries, especially the United States and the Netherlands, protested. On 7 July 1916 the Allies abandoned the Declaration, and by the end of the war almost any cargo bound for Germany was treated as contraband."
+  ],
+  "see": [
+   "wielka-brytania-oglasza-liste-kontrabandy-wojennej",
+   "nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska",
+   "francja-deklaracja-londynska-z-modyfikacjami",
+   "uchylenie-deklaracji-londynskiej",
+   "tematy/wojna-podwodna-1914-1918"
+  ],
+  "sources": [
+   "https://lagen.nu/icrc/255",
+   "https://history.state.gov/historicaldocuments/frus1914Supp/d369",
+   "https://en.wikipedia.org/wiki/Contraband"
+  ]
+ },
+ {
+  "slug": "niszczyciel",
+  "slugEn": "destroyer",
+  "term": "Niszczyciel",
+  "termEn": "Destroyer",
+  "category": "morze",
+  "pattern": "\\b[Nn]iszczyciel(?!sk)\\w*(?! niepodległ)|\\b[Tt]orpedow(?:iec|c\\w*)",
+  "patternEn": "\\b[Dd]estroyers?\\b(?! of the indep)|\\b[Tt]orpedo[- ]boats?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Szybki, lekki okręt uzbrojony w działa i torpedy, pierwotnie przeznaczony do zwalczania torpedowców. W I wojnie światowej osłaniał floty, atakował torpedami, a od 1917 roku eskortował konwoje i tropił U-Booty.",
+  "shortEn": "A fast, light warship armed with guns and torpedoes, originally meant to fight torpedo boats. In the First World War it screened fleets, made torpedo attacks and from 1917 escorted convoys and hunted U-boats.",
+  "long": [
+   "Gdy torpeda samobieżna dała małym torpedowcom szansę na zatopienie pancernika, floty zaczęły budować większe i szybsze okręty do ich zwalczania. W latach 90. XIX wieku Royal Navy wprowadziła z inicjatywy Johna Fishera niszczyciele torpedowców, jak Havock, które same też przenosiły torpedy i dotrzymywały kroku flocie. Niemcy nie rozróżniali obu klas: do końca wojny budowali torpedowce, które w praktyce były niszczycielami, i oznaczali je literą stoczni i numerem.",
+   "W 1914 roku niszczyciele miały chronić własne pancerniki przed atakiem torpedowym i same atakować flotę przeciwnika; w bitwie jutlandzkiej walczyło blisko 80 brytyjskich niszczycieli i około 60 niemieckich torpedowców. Wojna podwodna zmieniła ich zadania: z dziobami wzmocnionymi do taranowania, bombami głębinowymi i hydrofonami patrolowały wody przybrzeżne, a od 1917 roku eskortowały konwoje. 4 maja 1917 roku do Queenstown przypłynęło pierwszych sześć amerykańskich niszczycieli. Wielka Brytania straciła w wojnie 67 niszczycieli, wiele w kolizjach i na skałach."
+  ],
+  "longEn": [
+   "When the self-propelled torpedo gave small torpedo boats the chance to sink a battleship, navies began building larger, faster ships to fight them. In the 1890s the Royal Navy, prompted by John Fisher, introduced torpedo-boat destroyers such as Havock, which also carried torpedoes and could keep up with the fleet. Germany made no distinction between the two classes: until the end of the war it built torpedo boats that were in practice destroyers, identified by a builder's letter and a number.",
+   "In 1914 destroyers were to protect their own battleships from torpedo attack and to attack the enemy fleet themselves; nearly 80 British destroyers and about 60 German torpedo boats fought at Jutland. Submarine warfare changed their tasks: with bows strengthened for ramming, depth charges and hydrophones, they patrolled coastal waters and from 1917 escorted convoys. On 4 May 1917 the first six American destroyers reached Queenstown. Britain lost 67 destroyers in the war, many in collisions and on rocks."
+  ],
+  "see": [
+   "amerykanskie-niszczyciele-w-queenstown",
+   "pierwszy-niemiecki-rajd-niszczycieli-w-ciesninie-kaletanskiej",
+   "japonskie-niszczyciele-na-morzu-srodziemnym",
+   "bitwy/bitwa-jutlandzka",
+   "tematy/wojna-podwodna-1914-1918"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Destroyer",
+   "https://www.militarytimes.com/military-honor/world-war-i/2017/04/06/world-war-i-and-the-navy-the-u-boat-threat-leads-to-game-changing-innovations/"
+  ]
+ },
+ {
+  "slug": "statek-szpitalny",
+  "slugEn": "hospital-ship",
+  "term": "Statek szpitalny",
+  "termEn": "Hospital ship",
+  "category": "morze",
+  "pattern": "[Ss]tat[ek]\\w* szpitaln\\w*|[Oo]kręt\\w* szpitaln\\w*",
+  "patternEn": "[Hh]ospital ships?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Statek oznaczony czerwonym krzyżem, przewożący rannych i chorych, chroniony prawem wojennym przed atakiem. W I wojnie światowej ponad dwadzieścia zatonęło od min i torped, m.in. Britannic i Llandovery Castle.",
+  "shortEn": "A ship marked with a red cross, carrying the sick and wounded, protected from attack by the laws of war. Over twenty were sunk by mines and torpedoes in the First World War, among them Britannic and Llandovery Castle.",
+  "long": [
+   "Status statków szpitalnych określała X konwencja haska z 1907 roku: miały pomagać rannym wszystkich stron, nie mogły służyć celom wojskowym ani przeszkadzać okrętom przeciwnika, a strony wojujące mogły je kontrolować. Na służbę szpitalną przerabiano głównie liniowce pasażerskie, malowane na biało, z dużymi czerwonymi krzyżami, nocą oświetlonymi. Najwięcej miała ich Wielka Brytania, która przewoziła nimi rannych z Francji, Gallipoli, Salonik i Bliskiego Wschodu.",
+   "Niemcy zarzucali aliantom, że statki szpitalne wożą żołnierzy i amunicję, i w czasie nieograniczonej wojny podwodnej U-Booty atakowały je także torpedami. Największy z nich, Britannic, siostrzany statek Titanica, zatonął 21 listopada 1916 roku na Morzu Egejskim na minie postawionej przez U-73; zginęło 30 osób. Najwięcej ofiar pochłonęło storpedowanie kanadyjskiego Llandovery Castle 27 czerwca 1918 roku: zginęły 234 osoby, w tym 14 pielęgniarek, a U-86 ostrzelał łodzie ratunkowe. Po wojnie sąd w Lipsku skazał za to dwóch oficerów okrętu."
+  ],
+  "longEn": [
+   "The status of hospital ships was set by the Tenth Hague Convention of 1907: they were to help the wounded of all sides, could not serve military purposes or hinder enemy warships, and belligerents could inspect them. Mostly passenger liners were converted, painted white with large red crosses lit up at night. Britain had the most, using them to carry the wounded from France, Gallipoli, Salonika and the Middle East.",
+   "Germany accused the Allies of using hospital ships to carry troops and munitions, and during unrestricted submarine warfare U-boats also torpedoed them. The largest, Britannic, sister ship of the Titanic, sank on 21 November 1916 in the Aegean on a mine laid by U-73; 30 people died. The heaviest loss was the torpedoing of the Canadian Llandovery Castle on 27 June 1918: 234 people died, among them 14 nurses, and U-86 fired on the lifeboats. After the war a court in Leipzig convicted two of the submarine's officers."
+  ],
+  "see": [
+   "zatoniecie-statku-szpitalnego-britannic",
+   "zatopienie-llandovery-castle",
+   "zatoniecie-statku-szpitalnego-anglia",
+   "storpedowanie-statku-szpitalnego-asturias",
+   "tematy/wojna-podwodna-1914-1918"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_hospital_ships_sunk_in_World_War_I",
+   "https://www.canjsurg.ca/content/61/3/155"
+  ]
+ },
+ {
+  "slug": "okret-baza-wodnosamolotow",
+  "slugEn": "seaplane-carrier",
+  "term": "Okręt-baza wodnosamolotów",
+  "termEn": "Seaplane carrier",
+  "category": "morze",
+  "pattern": "[Oo]kręt\\w*-baz\\w* wodnosamol\\w*|[Tt]ransportow\\w* wodnosamol\\w*|\\blotniskow\\w*",
+  "patternEn": "[Ss]eaplane (?:carriers?|tenders?)\\b|[Aa]ircraft carriers?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Okręt przewożący wodnosamoloty, opuszczający je na wodę i podejmujący po locie, zwykle przebudowany statek. Z nich wyrósł lotniskowiec: w 1918 roku samoloty z HMS Furious zbombardowały bazę sterowców w Tondern.",
+  "shortEn": "A ship, usually a converted merchantman, that carried seaplanes, lowered them onto the water and hoisted them back. It led to the aircraft carrier: in 1918 aircraft from HMS Furious bombed the airship base at Tondern.",
+  "long": [
+   "Pierwsze były francuski Foudre z 1911 roku i brytyjski krążownik Hermes, przebudowany w 1913 roku. W sierpniu 1914 roku Admiralicja przejęła szybkie promy z kanału La Manche, Engadine, Rivierę i Empress, z których wodnosamoloty zaatakowały w Boże Narodzenie bazę sterowców w Cuxhaven. Ark Royal, przebudowany jeszcze w stoczni, wspierał operację w Dardanelach, a z Ben-my-Chree wystartował w sierpniu 1915 roku pierwszy samolot torpedowy. Okręty-bazy wodnosamolotów mieli też Rosjanie na Morzu Czarnym, Japończycy i Niemcy.",
+   "Okręt musiał się zatrzymać, by opuścić lub podjąć samolot, co przy fali bywało niemożliwe. Brytyjczycy próbowali więc startów z pokładu: Campania miała pokład startowy, a lekki krążownik liniowy Furious w 1917 roku dostał na dziobie hangar i pokład, na którym 2 sierpnia Edwin Dunning jako pierwszy wylądował na płynącym okręcie. 19 lipca 1918 roku Sopwith Camele z Furiousa zniszczyły w Tondern sterowce L 54 i L 60. We wrześniu 1918 roku wszedł do służby Argus, z pokładem na całej długości."
+  ],
+  "longEn": [
+   "The first were the French Foudre of 1911 and the British cruiser Hermes, converted in 1913. In August 1914 the Admiralty took over fast cross-Channel ferries, Engadine, Riviera and Empress, whose seaplanes attacked the airship base at Cuxhaven on Christmas Day. Ark Royal, converted while still on the stocks, supported the Dardanelles operation, and in August 1915 the first torpedo aircraft took off from Ben-my-Chree. The Russians in the Black Sea, the Japanese and the Germans also had seaplane carriers.",
+   "The ship had to stop to lower or recover an aircraft, which in a swell could be impossible. So the British tried taking off from a deck: Campania had a flying-off deck, and in 1917 the light battlecruiser Furious was given a hangar and deck forward, on which on 2 August Edwin Dunning made the first landing on a ship under way. On 19 July 1918 Sopwith Camels from Furious destroyed the airships L 54 and L 60 at Tondern. In September 1918 Argus, with a full-length flight deck, entered service."
+  ],
+  "see": [
+   "zatoniecie-hms-hermes",
+   "nalot-na-cuxhaven",
+   "zatoniecie-campanii",
+   "ostatni-nalot-zeppelinow",
+   "zniszczenie-sterowca-l-23"
+  ],
+  "sources": [
+   "https://www.historyofwar.org/articles/lists_carriers_british_WWI.html",
+   "https://historynet.com/the-tondern-raid/",
+   "https://en.wikipedia.org/wiki/Seaplane_tender"
+  ]
+ },
+ {
+  "slug": "rekwizycje",
+  "slugEn": "requisitions",
+  "term": "Rekwizycje",
+  "termEn": "Requisitions",
+  "category": "okupacja",
+  "pattern": "\\b[Rr]ekwi[zr]\\w*|\\bzarekwir\\w*",
+  "patternEn": "\\b[Rr]equisition\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Przymusowe zabieranie przez wojsko lub państwo żywności, koni, surowców, maszyn czy statków na potrzeby wojny, za pokwitowaniem lub zaniżoną zapłatą. Na ziemiach okupowanych pogłębiały nędzę i głód.",
+  "shortEn": "The compulsory taking of food, horses, raw materials, machinery or ships by an army or state for the needs of the war, against a receipt or an artificially low price. In occupied lands they deepened poverty and hunger.",
+  "long": [
+   "Konwencja haska z 1907 roku pozwalała okupantowi żądać od ludności świadczeń w naturze tylko na potrzeby armii okupacyjnej, w miarę zasobów kraju, za gotówkę albo pokwitowanie. W praktyce wojska wszystkich stron od pierwszych tygodni wojny rekwirowały żywność, konie, podwody i kwatery, a front przechodzący przez Galicję, Królestwo Polskie, Serbię czy północną Francję zostawiał ogołocone wsie. Państwa rekwirowały też statki handlowe, samochody, a nawet londyńskie autobusy.",
+   "Gdy wojna się przeciągnęła, okupanci zastąpili doraźne zabieranie kontyngentami, cenami urzędowymi i monopolami. W Warszawie Niemcy już w sierpniu 1915 roku zarządzili rekwizycję metali, skór, wełny i chemikaliów, a maszyny wywożono do Rzeszy. W austro-węgierskim gubernatorstwie lubelskim do wsi, która nie oddała kontyngentu, wysyłano wojskowych rekwizytorów. Płacono po cenach dalekich od rynkowych, więc według Stephana Lehnstaedta była to w istocie częściowa rekwizycja. W Belgii rekwizycje surowców i wywóz maszyn przyczyniły się do bezrobocia sięgającego 650 tysięcy osób."
+  ],
+  "longEn": [
+   "The Hague Convention of 1907 allowed an occupier to demand contributions in kind from the population only for the needs of the army of occupation, in proportion to the country's resources, against cash or a receipt. In practice the armies of every side requisitioned food, horses, carts and quarters from the first weeks of the war, and the front passing through Galicia, the Kingdom of Poland, Serbia or northern France left villages stripped bare. States also requisitioned merchant ships, motor cars and even London buses.",
+   "As the war dragged on, occupiers replaced ad hoc seizures with quotas, official prices and monopolies. In Warsaw the Germans ordered the requisitioning of metals, leather, wool and chemicals as early as August 1915, and machinery was shipped to the Reich. In the Austro-Hungarian government-general of Lublin, military requisitioners were sent to any village that failed to deliver its quota. Payment was at prices far below the market, so in Stephan Lehnstaedt's view it was in effect a partial requisition. In Belgium the requisitioning of raw materials and removal of machinery helped push unemployment up to 650,000."
+  ],
+  "see": [
+   "glod-w-warszawie-i-lodzi",
+   "niemcy-zajmuja-lodz",
+   "wielka-brytania-zezwala-na-rekwizycje-statkow",
+   "postacie/karl-kuk",
+   "tematy/wojna-na-ziemiach-polskich"
+  ],
+  "sources": [
+   "https://rcin.org.pl//Content/47217/PDF/WA303_63644_A507-DN-R-45-1_Lehnstaedt.pdf",
+   "https://avalon.law.yale.edu/20th_century/hague04.asp",
+   "https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_I",
+   "https://pl.wikipedia.org/wiki/Rekwizycja"
+  ],
+  "exclude": [
+   "postacie/philipp-scheidemann"
+  ]
+ },
+ {
+  "slug": "propaganda-wojenna",
+  "slugEn": "war-propaganda",
+  "term": "Propaganda wojenna",
+  "termEn": "War propaganda",
+  "category": "okupacja",
+  "pattern": "\\b[Pp]ropagand\\w*",
+  "patternEn": "\\b[Pp]ropagand\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Planowe kształtowanie opinii własnego społeczeństwa, sojuszników, neutralnych i wroga przez prasę, plakaty, broszury, filmy i ulotki. W tej wojnie po raz pierwszy prowadziły ją na masową skalę urzędy państwowe.",
+  "shortEn": "The systematic shaping of the opinion of one's own public, allies, neutrals and the enemy through the press, posters, pamphlets, films and leaflets. In this war state agencies ran it on a mass scale for the first time.",
+  "long": [
+   "Od sierpnia 1914 roku walczące państwa wydawały barwne księgi dokumentów, które miały dowieść, że wojnę narzucił im przeciwnik; Niemcy opublikowały Białą Księgę już 4 sierpnia. W Wielkiej Brytanii tajne biuro w Wellington House, kierowane przez Charlesa Mastermana, pozyskało znanych pisarzy i do lutego 1916 roku rozesłało za granicę około 7 milionów broszur, głównie z myślą o Stanach Zjednoczonych. Opublikowany w maju 1915 roku raport Bryce'a o zbrodniach w Belgii, oparty na około 1200 zeznaniach, był jednym z jej najskuteczniejszych narzędzi.",
+   "Z czasem propaganda stała się zadaniem rządów. Brytyjczycy utworzyli w lutym 1917 roku Departament Informacji Johna Buchana, a w marcu 1918 roku Ministerstwo Informacji lorda Beaverbrooka; w USA od 1917 roku działał Komitet Informacji Publicznej George'a Creela. Propaganda posługiwała się filmem, plakatem i karykaturą, a ulotki zrzucano nad okopami przeciwnika. Wiele opowieści o okrucieństwach okazało się później przesadzonych lub zmyślonych."
+  ],
+  "longEn": [
+   "From August 1914 the belligerents published coloured books of documents meant to prove that the enemy had forced the war on them; Germany issued its White Book as early as 4 August. In Britain the secret bureau at Wellington House, run by Charles Masterman, recruited well-known writers and by February 1916 had sent about 7 million pamphlets abroad, aimed above all at the United States. The Bryce Report on atrocities in Belgium, published in May 1915 and based on about 1,200 depositions, was one of its most effective tools.",
+   "In time propaganda became a task of governments. Britain set up John Buchan's Department of Information in February 1917 and Lord Beaverbrook's Ministry of Information in March 1918; in the USA George Creel's Committee on Public Information worked from 1917. Propaganda used film, posters and cartoons, and leaflets were dropped over the enemy's trenches. Many atrocity stories later turned out to be exaggerated or invented."
+  ],
+  "see": [
+   "ministerstwo-informacji",
+   "raport-brycea",
+   "premiera-filmu-bitwa-nad-somma",
+   "rozstrzelanie-edith-cavell",
+   "sultan-oglasza-dzihad",
+   "postacie/edward-carson"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Propaganda_in_World_War_I",
+   "https://en.wikipedia.org/wiki/British_propaganda_during_World_War_I",
+   "https://historynet.com/?p=13742239"
+  ],
+  "exclude": [
+   "bitwy/bitwa-pod-langemarck",
+   "postacie/august-von-mackensen",
+   "postacie/oswald-boelcke",
+   "niemcy-zajmuja-rewel-i-pskow",
+   "postacie/jozef-stalin",
+   "postacie/feliks-dzierzynski",
+   "postacie/jozef-pilsudski",
+   "postacie/charles-mangin",
+   "postacie/raymond-poincare",
+   "postacie/aleksandra-szczerbinska"
+  ]
+ },
+ {
+  "slug": "cenzura",
+  "slugEn": "censorship",
+  "term": "Cenzura",
+  "termEn": "Censorship",
+  "category": "okupacja",
+  "pattern": "\\b[Cc]enzur\\w*|\\b[Cc]enzor\\w*",
+  "patternEn": "\\b[Cc]ensor\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wojskowa i państwowa kontrola prasy, listów, telegramów i widowisk, która miała ukryć przed wrogiem informacje wojskowe i chronić morale. W czasie wojny wprowadziły ją wszystkie walczące państwa i okupanci.",
+  "shortEn": "Military and state control of the press, letters, telegrams and performances, meant to hide military information from the enemy and protect morale. In the war every belligerent and every occupier introduced it.",
+  "long": [
+   "Podstawą cenzury były ustawy wojenne i stan oblężenia. We Francji opierała się na ustawie o stanie oblężenia z 1849 roku i uchwalonej bez debaty ustawie z 5 sierpnia 1914 roku o niedyskrecjach prasy, w Wielkiej Brytanii na ustawie o obronie królestwa z 8 sierpnia 1914 roku, a w Niemczech na stanie oblężenia, który oddawał cenzurę dowódcom okręgów wojskowych. W Austrii od lipca 1914 roku obowiązywała cenzura prewencyjna, a o wojnie wolno było pisać tylko na podstawie komunikatów oficjalnych.",
+   "Cenzorzy czytali listy z frontu i wykreślali z gazet ruchy i liczebność wojsk, katastrofy i straty, a często także krytykę rządu. Francuskie dzienniki wychodziły z białymi plamami po usuniętych tekstach, a cenzurę przedstawiano jako „Anastazję” z nożycami. Na okupowanych ziemiach polskich, litewskich i belgijskich cenzura okupanta blokowała publikację politycznych uchwał i deklaracji. Złagodzenie cenzury było jednym z żądań opozycji, a we Francji trwała do 1919 roku."
+  ],
+  "longEn": [
+   "Censorship rested on wartime laws and the state of siege. In France it was based on the state of siege law of 1849 and the law of 5 August 1914 on press indiscretions, passed without debate; in Britain on the Defence of the Realm Act of 8 August 1914; and in Germany on the state of siege, which placed censorship in the hands of the military district commanders. In Austria preventive censorship was in force from July 1914, and the war could be written about only on the basis of official communiqués.",
+   "Censors read letters from the front and struck out of newspapers troop movements and numbers, disasters and losses, and often criticism of the government as well. French dailies appeared with blank spaces where texts had been cut, and censorship was caricatured as \"Anastasie\" with her scissors. In the occupied Polish, Lithuanian and Belgian lands the occupier's censors blocked the publication of political resolutions and declarations. Easing censorship was one of the opposition's demands, and in France it lasted until 1919."
+  ],
+  "see": [
+   "ustawa-o-obronie-krolestwa",
+   "zabojstwo-premiera-stuergkha",
+   "dymisja-korbera",
+   "ogien-barbussea-z-nagroda-goncourtow",
+   "deklaracja-taryby"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Defence_of_the_Realm_Act_1914",
+   "https://expo-grande-guerre-biu-cujas.univ-paris1.fr/?p=7134",
+   "https://quotidien-parisiens-grande-guerre.paris.fr/en/chapitre_anastasie.html"
+  ],
+  "exclude": [
+   "postacie/aleksiej-brusilow",
+   "postacie/lord-derby",
+   "postacie/masatake-terauchi"
+  ]
+ },
+ {
+  "slug": "czerwony-krzyz",
+  "slugEn": "red-cross",
+  "term": "Czerwony Krzyż",
+  "termEn": "Red Cross",
+  "category": "okupacja",
+  "pattern": "Czerwon\\w* Krzyż\\w*",
+  "patternEn": "Red Cross",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Ruch pomocy ofiarom wojny: Międzynarodowy Komitet Czerwonego Krzyża w Genewie i narodowe towarzystwa. Prowadził szpitale i transport rannych, a jego agencja w Genewie szukała jeńców i zaginionych.",
+  "shortEn": "The movement for aid to war victims: the International Committee of the Red Cross in Geneva and the national societies. It ran hospitals and carried the wounded, and its Geneva agency traced prisoners and the missing.",
+  "long": [
+   "Komitet powstał w Genewie w 1863 roku, a w 1914 roku działało około 45 narodowych towarzystw. Jesienią 1914 roku MKCK otworzył w genewskim Muzeum Rath Międzynarodową Agencję Jeńców Wojennych, w której pod koniec roku pracowało około 1200 osób, głównie kobiet. Jej kartoteka liczyła do 1923 roku około 7 milionów kart i pomogła ustalić los 2–2,5 miliona jeńców (szacunki się różnią). Delegaci odwiedzili ponad 500 obozów, a Komitet pośredniczył w wymianie i internowaniu w Szwajcarii rannych jeńców. W 1917 roku otrzymał Pokojową Nagrodę Nobla.",
+   "Narodowe towarzystwa prowadziły szpitale, pociągi i statki szpitalne, a znak czerwonego krzyża miał je chronić, co nie zawsze się udawało. Polacy nie mieli własnego towarzystwa: działały tu Czerwone Krzyże rosyjski i austriacki, a w 1915 roku MKCK utworzył na czas wojny tymczasową sekcję polską. Polski Czerwony Krzyż powstał 18 stycznia 1919 roku, a MKCK uznał go w lipcu tego roku."
+  ],
+  "longEn": [
+   "The Committee was founded in Geneva in 1863, and by 1914 there were about 45 national societies. In the autumn of 1914 the ICRC opened the International Prisoners-of-War Agency in Geneva's Musée Rath, where about 1,200 people, mostly women, were working by the end of the year. By 1923 its card index held about 7 million cards and had helped establish the fate of 2 to 2.5 million prisoners (estimates vary). Its delegates visited more than 500 camps, and the Committee helped arrange exchanges and internment in Switzerland of wounded prisoners. In 1917 it received the Nobel Peace Prize.",
+   "The national societies ran hospitals, hospital trains and hospital ships, and the red cross emblem was meant to protect them, which did not always work. The Poles had no society of their own: the Russian and Austrian Red Cross worked in their lands, and in 1915 the ICRC set up a temporary Polish section for the duration of the war. The Polish Red Cross was founded on 18 January 1919 and recognised by the ICRC that July."
+  ],
+  "see": [
+   "doniesienia-o-porozumieniu-w-sprawie-jencow-w-szwajcarii",
+   "samochody-rentgenowskie-marii-sklodowskiej-curie",
+   "zatopienie-statku-szpitalnego-portugal",
+   "postacie/max-von-baden",
+   "tematy/kobiety-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+   "https://www.swissinfo.ch/eng/war-record_how-the-icrc-stood-by-first-world-war-prisoners/38367030",
+   "https://pl.wikipedia.org/wiki/Polski_Czerwony_Krzyż"
+  ]
+ },
+ {
+  "slug": "pozyczki-wojenne",
+  "slugEn": "war-loans",
+  "term": "Pożyczki wojenne",
+  "termEn": "War loans",
+  "category": "okupacja",
+  "pattern": "[Pp]ożycz\\w* wojenn\\w*|[Oo]bligacj\\w* wojenn\\w*|[Pp]ożycz\\w* narodow\\w*|[Pp]ożycz\\w* wewnętrzn\\w*|Liberty Loan\\w*|Kriegsanleihe\\w*",
+  "patternEn": "[Ww]ar [Ll]oans?\\b|[Ww]ar [Bb]onds?\\b|Liberty (?:Loan|Bond)s?\\b|[Nn]ational [Ll]oans?\\b|[Dd]omestic [Ll]oans?\\b|Kriegsanleihe\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Długoterminowe pożyczki, które walczące państwa zaciągały u własnych obywateli, sprzedając im obligacje w wielkich kampaniach propagandowych. Pokryły znaczną część kosztów wojny i zostawiły ogromny dług.",
+  "shortEn": "Long-term loans that the belligerents raised from their own citizens by selling them bonds in great propaganda campaigns. They covered a large part of the cost of the war and left an enormous debt.",
+  "long": [
+   "Żadne państwo nie mogło sfinansować wojny z samych podatków, więc rządy pożyczały od obywateli, banków i firm. Wielka Brytania wypuściła w 1914 roku pożyczkę wojenną na 350 milionów funtów nominalnie, w 1915 roku drugą na 4,5 procent, a w 1917 roku trzecią na 5 procent, która przyniosła około 2 miliardów funtów, w tym tylko 845 milionów nowych pieniędzy. Niemcy od września 1914 roku co pół roku ogłaszały kolejną Kriegsanleihe; dziewięć pożyczek dało około 97 miliardów marek. Austro-Węgry emitowały pożyczki co listopad i maj, a Francja rozpisała pierwszą pożyczkę narodową w listopadzie 1915 roku.",
+   "Sprzedaż obligacji wspierały plakaty, wiece, filmy i gwiazdy kina. W Stanach Zjednoczonych cztery pożyczki wolności (Liberty Loans) z lat 1917–1918 i pożyczka zwycięstwa z 1919 roku przyniosły około 17 miliardów dolarów, a na potrzeby trzeciej wydrukowano około 9 milionów plakatów. W Kanadzie pierwsza pożyczka zwycięstwa z 1917 roku dała 398 milionów dolarów."
+  ],
+  "longEn": [
+   "No state could finance the war from taxes alone, so governments borrowed from citizens, banks and firms. Britain issued a war loan of £350 million at face value in 1914, a second at 4.5 per cent in 1915 and a third at 5 per cent in 1917, which raised about £2 billion, of which only £845 million was new money. From September 1914 Germany launched a new Kriegsanleihe every six months; the nine loans raised about 97 billion marks. Austria-Hungary issued loans every November and May, and France floated its first national loan in November 1915.",
+   "Bond sales were promoted with posters, rallies, films and film stars. In the United States four Liberty Loans in 1917–1918 and the Victory Loan of 1919 raised about $17 billion, and some 9 million posters were printed for the third alone. In Canada the first Victory Loan of 1917 brought in $398 million."
+  ],
+  "see": [
+   "ponowne-otwarcie-gieldy-londynskiej",
+   "postacie/andrew-bonar-law",
+   "postacie/alexandre-ribot",
+   "noty-pokojowe-do-wilsona",
+   "zatopienie-llandovery-castle"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/War_bond",
+   "https://en.wikipedia.org/wiki/Liberty_bond",
+   "https://germanhistorydocs.org/de/das-wilhelminische-kaiserreich-und-der-erste-weltkrieg-1890-1918/ghdi:image-2138"
+  ],
+  "exclude": [
+   "bulgaria-zaciaga-pozyczke-w-niemieckich-bankach",
+   "traktat-sojuszniczy-w-sofii"
+  ]
+ },
+ {
+  "slug": "prawa-wyborcze-kobiet",
+  "slugEn": "womens-suffrage",
+  "term": "Prawa wyborcze kobiet",
+  "termEn": "Women's suffrage",
+  "category": "okupacja",
+  "pattern": "\\b[Ss]ufraży\\w*|[Pp]raw\\w* wyborcz\\w* (?:\\w+ ){0,2}kobiet\\w*|[Pp]raw\\w* głosu (?:\\w+ ){0,2}kobiet\\w*|[Kk]obiet\\w* (?:\\w+ ){0,3}praw\\w* (?:wyborcz|głosu)\\w*|dla obu płci|[Pp]olk\\w* (?:\\w+ ){0,3}praw\\w* wyborcz\\w*",
+  "patternEn": "\\b[Ss]uffragists?\\b|\\b[Ss]uffragettes?\\b|[Ww]omen['’]s suffrage|[Ww]omen the vote|[Vv]otes? (?:for|to) women|women (?:\\w+ ){0,3}right to vote|suffrage (?:\\w+ ){0,3}(?:both sexes|women)|women (?:\\w+ ){0,2}(?:could|would|might) vote",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Prawo kobiet do głosowania i kandydowania w wyborach. Sufrażystki walczyły o nie od XIX wieku, a w latach 1917–1918, także dzięki wojennej pracy kobiet, zdobyły je m.in. w Rosji, Wielkiej Brytanii, Niemczech i Polsce.",
+  "shortEn": "The right of women to vote and stand for election. Suffragists had fought for it since the 19th century, and in 1917–1918, helped by women's war work, they won it in Russia, Britain, Germany and Poland, among others.",
+  "long": [
+   "Przed wojną kobiety głosowały w wyborach krajowych tylko w nielicznych państwach; w 1915 roku dołączyła do nich Dania. W czasie wojny kobiety zastąpiły mężczyzn w fabrykach, transporcie, urzędach i szpitalach, a ruchy sufrażystek w większości poparły wysiłek wojenny, co osłabiło argumenty przeciwników. W 1917 roku prawa wyborcze kobietom przyznała rewolucyjna Rosja, a Kanada najpierw krewnym żołnierzy i kobietom w służbie. 6 lutego 1918 roku brytyjska ustawa o reprezentacji ludu dała głos kobietom od 30 lat spełniającym warunki majątkowe, około 8,4 miliona.",
+   "Upadek monarchii przyniósł prawa wyborcze kobietom w Niemczech, gdzie zapowiedziano je 12 listopada 1918 roku, i w Austrii. W Polsce dekret Józefa Piłsudskiego z 28 listopada 1918 roku o ordynacji do Sejmu Ustawodawczego przyznał prawo głosu „każdemu obywatelowi Państwa bez różnicy płci”, który ukończył 21 lat; polskie działaczki domagały się go od początku stulecia. W Sejmie Ustawodawczym zasiadło osiem posłanek. Stany Zjednoczone przyznały kobietom prawo głosu w 1920 roku, a Francja dopiero w 1944 roku."
+  ],
+  "longEn": [
+   "Before the war women voted in national elections in only a handful of countries; Denmark joined them in 1915. During the war women replaced men in factories, transport, offices and hospitals, and most suffrage movements backed the war effort, which weakened their opponents' arguments. In 1917 revolutionary Russia gave women the vote, and Canada gave it first to soldiers' relatives and to women in the forces. On 6 February 1918 the British Representation of the People Act gave the vote to women over 30 who met property conditions, about 8.4 million.",
+   "The fall of the monarchies brought women the vote in Germany, where it was announced on 12 November 1918, and in Austria. In Poland Józef Piłsudski's decree of 28 November 1918 on elections to the Legislative Sejm gave the vote to \"every citizen of the State regardless of sex\" aged 21 or over; Polish activists had demanded it since the turn of the century. Eight women sat in the Legislative Sejm. The United States gave women the vote in 1920, and France only in 1944."
+  ],
+  "see": [
+   "polki-otrzymuja-prawa-wyborcze",
+   "brytyjki-otrzymuja-prawo-glosu",
+   "kobiety-w-niemczech-otrzymuja-prawa-wyborcze",
+   "marsz-kobiet-o-prawo-do-sluzby",
+   "rzad-moraczewskiego",
+   "tematy/kobiety-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://dzieje.pl/aktualnosci/sejm-ustawodawczy-kobiet",
+   "https://en.wikipedia.org/wiki/Women%27s_suffrage",
+   "https://en.wikipedia.org/wiki/Timeline_of_women%27s_suffrage"
+  ]
+ },
+ {
+  "slug": "cmentarze-wojenne",
+  "slugEn": "war-cemeteries",
+  "term": "Cmentarze wojenne",
+  "termEn": "War cemeteries",
+  "category": "okupacja",
+  "pattern": "[Cc]mentarz\\w* wojenn\\w*|[Cc]mentarz\\w* wojskow\\w*|[Kk]omisj\\w* [Gg]robów [Ww]ojennych|wydział\\w* grobów wojennych",
+  "patternEn": "[Ww]ar [Cc]emeter\\w*|[Mm]ilitary [Cc]emeter\\w*|[Ww]ar [Gg]raves [Cc]ommission|war graves department",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Cmentarze żołnierzy poległych w wojnie, zakładane przez państwa i urzędy grobów wojennych. Na ziemiach polskich to m.in. ponad 400 cmentarzy zbudowanych przez Austro-Węgry w Galicji Zachodniej w latach 1916–1918.",
+  "shortEn": "Cemeteries for soldiers killed in the war, laid out by states and war graves agencies. In the Polish lands they include more than 400 cemeteries built by Austria-Hungary in Western Galicia in 1916–1918.",
+  "long": [
+   "Poległych chowano najpierw tam, gdzie padli. W grudniu 1915 roku austro-węgierskie Ministerstwo Wojny utworzyło wydział grobów wojennych, którego oddział w Krakowie w latach 1916–1918 ekshumował i identyfikował zabitych z walk 1914–1915, m.in. spod Gorlic i Limanowej, i zbudował w Galicji Zachodniej ponad 400 cmentarzy. W większości leżą obok siebie żołnierze obu stron: Austriacy, Węgrzy, Niemcy, Polacy, Czesi, Rosjanie i inni. Projektowali je m.in. Słowak Dušan Jurkovič, autor około 35 nekropolii, Jan Szczepkowski, Hans Mayr i Heinrich Scholz.",
+   "Na zachodzie Fabian Ware, kierujący oddziałem Brytyjskiego Czerwonego Krzyża, zaczął w 1914 roku rejestrować groby, a w marcu 1915 roku jego praca stała się wojskową Komisją Rejestracji Grobów. 21 maja 1917 roku powstała Imperialna Komisja Grobów Wojennych, dziś Komisja Grobów Wojennych Wspólnoty Narodów. Zgodnie z raportem Frederica Kenyona z listopada 1918 roku ciał nie sprowadzano do kraju, a wszyscy polegli, bez względu na stopień, dostawali jednakowe nagrobki."
+  ],
+  "longEn": [
+   "The dead were first buried where they fell. In December 1915 the Austro-Hungarian War Ministry set up a war graves department, whose Kraków branch in 1916–1918 exhumed and identified the dead of the fighting of 1914–1915, including Gorlice and Limanowa, and built more than 400 cemeteries in Western Galicia. In most of them soldiers of both sides lie side by side: Austrians, Hungarians, Germans, Poles, Czechs, Russians and others. Their designers included the Slovak Dušan Jurkovič, author of about 35 of them, Jan Szczepkowski, Hans Mayr and Heinrich Scholz.",
+   "In the west Fabian Ware, head of a British Red Cross unit, began recording graves in 1914, and in March 1915 his work became the army's Graves Registration Commission. On 21 May 1917 the Imperial War Graves Commission was established, today the Commonwealth War Graves Commission. Following Frederic Kenyon's report of November 1918, bodies were not brought home, and all the dead, regardless of rank, received identical headstones."
+  ],
+  "see": [
+   "bitwy/bitwa-pod-gorlicami",
+   "bitwy/bitwa-pod-lowczowkiem",
+   "bitwy/bitwa-pod-limanowa",
+   "fowke-adiutantem-generalnym-bef",
+   "pierwsze-posiedzenie-imperialnego-gabinetu-wojennego",
+   "tematy/wojna-na-ziemiach-polskich"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Zachodniogalicyjskie_cmentarze_wojenne",
+   "https://dzieje.pl/node/41480",
+   "https://polishorigins.com/blog/war-cemeteries-in-western-galicia/",
+   "https://en.wikipedia.org/wiki/Commonwealth_War_Graves_Commission"
+  ],
+  "exclude": [
+   "postacie/andranik-ozanian"
+  ]
+ },
+ {
+  "slug": "liga-narodow",
+  "slugEn": "league-of-nations",
+  "term": "Liga Narodów",
+  "termEn": "League of Nations",
+  "category": "polityka",
+  "pattern": "\\bLig\\w* Narodów",
+  "patternEn": "League of Nations",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Organizacja międzynarodowa powołana na konferencji pokojowej w Paryżu w 1919 roku, by rozstrzygać spory między państwami i zapobiegać wojnom. Jej pakt stał się pierwszą częścią traktatu wersalskiego.",
+  "shortEn": "The international organisation created at the Paris Peace Conference in 1919 to settle disputes between states and prevent war. Its Covenant formed the first part of the Treaty of Versailles.",
+  "long": [
+   "Pomysł stałego związku państw, który zastąpiłby wojnę arbitrażem, dojrzewał w czasie wojny w kręgach liberalnych i socjalistycznych w Wielkiej Brytanii i Stanach Zjednoczonych. Prezydent Woodrow Wilson mówił o lidze pokoju już w styczniu 1917 roku, a ostatni z jego czternastu punktów z 8 stycznia 1918 roku zapowiadał „ogólny związek narodów”, który miał gwarantować niezależność i całość terytorialną państw wielkich i małych. Projekty przygotowywali m.in. Robert Cecil, Jan Smuts i Edward House.",
+   "Pakt Ligi, wpisany do traktatu wersalskiego jako jego część I, wszedł w życie 10 stycznia 1920 roku. Siedzibą została Genewa, a organami Zgromadzenie wszystkich członków, Rada z udziałem wielkich mocarstw i stały Sekretariat. Członkowie zobowiązali się szanować nawzajem swoją całość terytorialną, a wobec agresora stosować sankcje. Liga nadzorowała mandaty i Wolne Miasto Gdańsk, ale osłabiała ją nieobecność Stanów Zjednoczonych, których Senat odrzucił traktat. Formalnie rozwiązano ją w 1946 roku."
+  ],
+  "longEn": [
+   "The idea of a permanent association of states that would replace war with arbitration grew during the war in liberal and socialist circles in Britain and the United States. President Woodrow Wilson spoke of a league for peace as early as January 1917, and the last of his Fourteen Points of 8 January 1918 called for a \"general association of nations\" to guarantee the independence and territorial integrity of great and small states alike. Drafts were prepared by, among others, Robert Cecil, Jan Smuts and Edward House.",
+   "The Covenant of the League, written into the Treaty of Versailles as its Part I, came into force on 10 January 1920. Its seat was Geneva, and its organs were an Assembly of all members, a Council including the great powers and a permanent Secretariat. Members pledged to respect one another's territorial integrity and to apply sanctions against an aggressor. The League supervised the mandates and the Free City of Danzig, but it was weakened by the absence of the United States, whose Senate rejected the treaty. It was formally dissolved in 1946."
+  ],
+  "see": [
+   "czternascie-punktow-wilsona",
+   "wilson-przybywa-do-europy",
+   "pokoj-bez-zwyciestwa",
+   "konferencja-socjalistow-w-londynie",
+   "postacie/robert-cecil",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+   "https://history.state.gov/milestones/1914-1920/league",
+   "https://pl.wikipedia.org/wiki/Liga_Narodów"
+  ]
+ },
+ {
+  "slug": "traktat-wersalski",
+  "slugEn": "treaty-of-versailles",
+  "term": "Traktat wersalski",
+  "termEn": "Treaty of Versailles",
+  "category": "polityka",
+  "pattern": "[Tt]raktat\\w* wersalsk\\w*",
+  "patternEn": "Treaty of Versailles|Versailles [Tt]reaty",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Traktat pokojowy między Niemcami a państwami sprzymierzonymi i stowarzyszonymi, podpisany 28 czerwca 1919 roku w Wersalu. Formalnie zakończył wojnę z Niemcami i przyznał Polsce większość Wielkopolski i Pomorza.",
+  "shortEn": "The peace treaty between Germany and the Allied and Associated Powers, signed at Versailles on 28 June 1919. It formally ended the war with Germany and gave Poland most of Greater Poland and Pomerania.",
+  "long": [
+   "Warunki ustaliły na konferencji pokojowej w Paryżu zwycięskie mocarstwa, a delegacji niemieckiej pozostało je przyjąć. Traktat, liczący 440 artykułów, podpisano w Sali Lustrzanej pałacu wersalskiego 28 czerwca 1919 roku, w piątą rocznicę zamachu w Sarajewie, a wszedł w życie 10 stycznia 1920 roku. Do tego czasu obowiązywał przedłużany rozejm z Compiègne. Część I traktatu stanowił pakt Ligi Narodów.",
+   "Niemcy oddały Francji Alzację i Lotaryngię, a Polsce większość Wielkopolski i Pomorza; o Górnym Śląsku, Warmii i Mazurach miały zdecydować plebiscyty, a Gdańsk stał się wolnym miastem. Straty terytorialne Niemiec szacuje się na 10–13 procent przedwojennego obszaru, zależnie od sposobu liczenia. Niemcy utraciły też wszystkie kolonie, armię ograniczono do 100 tysięcy żołnierzy, bez czołgów, lotnictwa i okrętów podwodnych, a Nadrenię zdemilitaryzowano. Artykuł 231 obarczał Niemcy i ich sojuszników odpowiedzialnością za szkody wojenne i stał się podstawą reparacji. Senat Stanów Zjednoczonych traktatu nie ratyfikował."
+  ],
+  "longEn": [
+   "The terms were settled by the victorious powers at the Paris Peace Conference, and the German delegation could only accept them. The treaty, with 440 articles, was signed in the Hall of Mirrors at the Palace of Versailles on 28 June 1919, the fifth anniversary of the Sarajevo assassination, and came into force on 10 January 1920. Until then the repeatedly extended Armistice of Compiègne remained in force. Part I of the treaty was the Covenant of the League of Nations.",
+   "Germany ceded Alsace-Lorraine to France and most of Greater Poland and Pomerania to Poland; plebiscites were to decide Upper Silesia, Warmia and Masuria, and Danzig became a free city. Germany's territorial losses are estimated at 10 to 13 per cent of its pre-war area, depending on the method of counting. It also lost all its colonies, its army was limited to 100,000 men without tanks, aircraft or submarines, and the Rhineland was demilitarised. Article 231 held Germany and its allies responsible for the war damage and became the basis for reparations. The United States Senate did not ratify the treaty."
+  ],
+  "see": [
+   "rozejm-w-compiegne",
+   "przedluzenie-rozejmu",
+   "bitwy/powstanie-wielkopolskie",
+   "postacie/georges-clemenceau",
+   "postacie/ignacy-jan-paderewski",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://history.state.gov/milestones/1914-1920/paris-peace",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F",
+   "https://pl.wikipedia.org/wiki/Traktat_wersalski",
+   "https://dzieje.pl/galerie/wystawa-o-traktacie-wersalskim"
+  ]
+ },
+ {
+  "slug": "paryska-konferencja-pokojowa",
+  "slugEn": "paris-peace-conference",
+  "term": "Paryska konferencja pokojowa",
+  "termEn": "Paris Peace Conference",
+  "category": "polityka",
+  "pattern": "[Kk]onferencj\\w* pokojow\\w* (?:w Paryżu|w 1919)|[Pp]arysk\\w* konferencj\\w* pokojow\\w*|amerykańsk\\w* delegacj\\w* na konferencj\\w* pokojow\\w*",
+  "patternEn": "Paris Peace Conference|[Pp]eace [Cc]onference in Paris|[Pp]eace [Cc]onference (?:of|in) 1919|American delegation to the peace conference",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Konferencja zwycięskich mocarstw i ich sojuszników, obradująca w Paryżu od 18 stycznia 1919 do stycznia 1920 roku. Przygotowała traktaty pokojowe z pokonanymi państwami i pakt Ligi Narodów.",
+  "shortEn": "The conference of the victorious powers and their allies, held in Paris from 18 January 1919 to January 1920. It drew up the peace treaties with the defeated states and the Covenant of the League of Nations.",
+  "long": [
+   "Konferencję otwarto 18 stycznia 1919 roku. Wzięły w niej udział delegacje 27 państw, a licząc przedstawicieli narodów bez własnego państwa, ponad 30, ale nie pokonani ani Rosja Sowiecka. Najważniejsze decyzje zapadały w gronie przywódców wielkich mocarstw, tzw. wielkiej czwórki: Woodrowa Wilsona, Davida Lloyda George'a, Georges'a Clemenceau i Vittoria Emanuele Orlanda, a szczegóły opracowywały 52 komisje. Polskę reprezentowali Roman Dmowski i Ignacy Jan Paderewski.",
+   "Na konferencji powstały traktaty z Niemcami (Wersal, 28 czerwca 1919), Austrią (Saint-Germain, 10 września 1919), Bułgarią (Neuilly, 27 listopada 1919), Węgrami (Trianon, 4 czerwca 1920) i Turcją (Sèvres, 10 sierpnia 1920). W czasie wojny przyszła konferencja pokojowa była punktem odniesienia dla wszystkich roszczeń: tajne układy sojuszników, obietnice dla Japonii, Włoch czy Rumunii i programy ruchów narodowych miały się rozstrzygnąć właśnie tam. Wiele z nich wywołało w Paryżu ostre spory, jak sprawa Fiume czy Szantungu."
+  ],
+  "longEn": [
+   "The conference opened on 18 January 1919. Delegations from 27 states took part, more than 30 if representatives of stateless nations are counted, but not the defeated powers or Soviet Russia. The key decisions were taken by the leaders of the great powers, the so-called Big Four: Woodrow Wilson, David Lloyd George, Georges Clemenceau and Vittorio Emanuele Orlando, while the details were worked out by 52 commissions. Poland was represented by Roman Dmowski and Ignacy Jan Paderewski.",
+   "The conference produced the treaties with Germany (Versailles, 28 June 1919), Austria (Saint-Germain, 10 September 1919), Bulgaria (Neuilly, 27 November 1919), Hungary (Trianon, 4 June 1920) and Turkey (Sèvres, 10 August 1920). During the war the future peace conference was the reference point for every claim: the Allies' secret agreements, the promises to Japan, Italy or Romania and the programmes of national movements were all to be settled there. Many of them led to bitter disputes in Paris, such as the questions of Fiume and Shantung."
+  ],
+  "see": [
+   "wilson-przybywa-do-europy",
+   "rada-narodowa-fiume",
+   "powstanie-komitetu-narodowego-polskiego",
+   "postacie/roman-dmowski",
+   "postacie/georges-clemenceau",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919–1920)",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F",
+   "https://dzieje.pl/galerie/wystawa-o-traktacie-wersalskim",
+   "https://history.state.gov/milestones/1914-1920/paris-peace"
+  ]
+ },
+ {
+  "slug": "system-mandatowy",
+  "slugEn": "mandate-system",
+  "term": "System mandatowy",
+  "termEn": "Mandate system",
+  "category": "polityka",
+  "pattern": "\\bmandat\\w*\\]? (?:Ligi|klasy|nad)\\b|\\b(?:terytori|kraj|system)\\w* mandat\\w*|\\b(?:pod|brytyjsk\\w*|francusk\\w*|belgijsk\\w*|japońsk\\w*) mandat\\w*|\\bmandat\\w* (?:Francji|Wielkiej Brytanii)\\b|spraw mandatów|kolonii i mandatów",
+  "patternEn": "League of Nations mandates?|\\bmandated territor\\w*|\\bmandate system|[Cc]lass C \\[?mandates?|\\b(?:British|French|Belgian|Japanese) \\[?mandates?\\b|\\bmandates? (?:over|for)\\b|\\bmandates administered|colonies and mandates|commission on mandates",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Zarząd dawnymi koloniami niemieckimi i ziemiami arabskimi Imperium Osmańskiego, powierzony po wojnie zwycięskim państwom w imieniu Ligi Narodów. Mandaty dzielono na trzy klasy: A, B i C.",
+  "shortEn": "The administration of Germany's former colonies and the Ottoman Empire's Arab lands, entrusted after the war to victorious states on behalf of the League of Nations. Mandates were divided into classes A, B and C.",
+  "long": [
+   "System przyjęto na konferencji pokojowej w Paryżu jako kompromis między zasadą Wilsona, by zdobyczy nie anektować, a żądaniami mocarstw i dominiów, które chciały zatrzymać terytoria zajęte w czasie wojny. Ideę rozwinął Jan Smuts, a artykuł 22 paktu Ligi Narodów nazwał opiekę nad ludami tych ziem „świętym posłannictwem cywilizacji”. Państwo mandatariusz składało Radzie Ligi coroczne sprawozdania, które badała Stała Komisja Mandatów.",
+   "Mandaty klasy A, uznane za bliskie niepodległości, objęły ziemie arabskie: Syria i Liban przypadły Francji, Irak, Palestyna i Transjordania Wielkiej Brytanii. Klasa B to dawne kolonie w Afryce: Togo i Kamerun, podzielone między Francję i Wielką Brytanię, Tanganika i belgijska Ruanda-Urundi. Do klasy C, rządzonej jak część własnego terytorium, należały Afryka Południowo-Zachodnia, Nowa Gwinea, Samoa i wyspy na północ od równika, przyznane Japonii. W praktyce wiele mandatów przypominało kolonie. Hasło nie dotyczy mandatu w zwykłym, poselskim znaczeniu."
+  ],
+  "longEn": [
+   "The system was adopted at the Paris Peace Conference as a compromise between Wilson's principle that conquests should not be annexed and the demands of the great powers and the dominions, which wanted to keep territories occupied during the war. Jan Smuts developed the idea, and Article 22 of the Covenant of the League of Nations called the care of the peoples of these lands \"a sacred trust of civilisation\". The mandatory power submitted annual reports to the League Council, which were examined by the Permanent Mandates Commission.",
+   "Class A mandates, considered close to independence, covered the Arab lands: Syria and Lebanon went to France, Iraq, Palestine and Transjordan to Britain. Class B covered former colonies in Africa: Togoland and Cameroon, divided between France and Britain, Tanganyika and Belgian Ruanda-Urundi. Class C, governed as part of the mandatory's own territory, included South West Africa, New Guinea, Samoa and the islands north of the equator, awarded to Japan. In practice many mandates resembled colonies. The term does not cover a mandate in the ordinary, electoral sense."
+  ],
+  "see": [
+   "porozumienie-sykes-picot",
+   "postacie/jan-smuts",
+   "kapitulacja-niemieckiej-afryki-poludniowo-zachodniej",
+   "japonczycy-zajmuja-yap",
+   "porozumienie-w-sprawie-togo",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+   "https://en.wikipedia.org/wiki/League_of_Nations_mandate",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F"
+  ]
+ },
+ {
+  "slug": "reparacje",
+  "slugEn": "reparations",
+  "term": "Reparacje",
+  "termEn": "Reparations",
+  "category": "polityka",
+  "pattern": "\\breparacj\\w*",
+  "patternEn": "\\b[Rr]eparations\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Odszkodowania, które pokonane państwa centralne miały wypłacić zwycięzcom za szkody wojenne. Zasadę przyjęto w nocie Lansinga z listopada 1918 roku, a kwotę dla Niemiec ustalono w 1921 roku.",
+  "shortEn": "The compensation the defeated Central Powers were to pay the victors for war damage. The principle was accepted in the Lansing Note of November 1918, and Germany's sum was fixed in 1921.",
+  "long": [
+   "Już w czasie wojny sprzymierzeni żądali od Niemiec odbudowy Belgii i zajętych ziem Francji, odróżniając ją od dawnej kontrybucji wojennej. W nocie Lansinga z 5 listopada 1918 roku, która przyjmowała czternaście punktów za podstawę pokoju, zastrzegli, że Niemcy wynagrodzą wszystkie szkody wyrządzone ludności cywilnej i jej mieniu „na lądzie, na morzu i z powietrza”. Rozejm nie przesądził kwoty. Traktat wersalski w artykule 231 obarczył Niemcy i ich sojuszników odpowiedzialnością za straty, a jej wysokość miała ustalić Komisja Odszkodowań.",
+   "W maju 1921 roku komisja określiła zobowiązania na 132 miliardy marek w złocie, z czego bezwarunkowo należne było 50 miliardów. Spór o spłaty doprowadził w 1923 roku do zajęcia Zagłębia Ruhry, potem do planów Dawesa (1924) i Younga (1929), a konferencja w Lozannie w 1932 roku praktycznie je zakończyła. Ile Niemcy naprawdę zapłaciły, ocenia się różnie: od około 17–20 miliardów marek według historyków i samej komisji do prawie 68 miliardów według rządu niemieckiego. Reparacje nałożono też na Bułgarię, Austrię i Węgry, ale zapłaciły one niewiele."
+  ],
+  "longEn": [
+   "Already during the war the Allies demanded that Germany restore Belgium and the occupied parts of France, distinguishing this from an old-style war indemnity. In the Lansing Note of 5 November 1918, which accepted the Fourteen Points as the basis of peace, they stipulated that Germany would make compensation for all damage done to the civilian population and its property \"by land, by sea and from the air\". The armistice did not fix a sum. In Article 231 the Treaty of Versailles held Germany and its allies responsible for the losses, and the amount was left to the Reparation Commission.",
+   "In May 1921 the commission set the liability at 132 billion gold marks, of which 50 billion were payable unconditionally. Payment disputes led to the occupation of the Ruhr in 1923, then to the Dawes (1924) and Young (1929) plans, and the Lausanne conference of 1932 effectively ended them. Estimates of what Germany actually paid vary: from about 17 to 20 billion marks according to historians and the commission to almost 68 billion according to the German government. Reparations were also imposed on Bulgaria, Austria and Hungary, but they paid little."
+  ],
+  "see": [
+   "nota-lansinga",
+   "lloyd-george-o-celach-wojny",
+   "deklaracja-z-sainte-adresse",
+   "rozejm-w-compiegne",
+   "postacie/raymond-poincare",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_War_I_reparations",
+   "https://history.state.gov/milestones/1914-1920/paris-peace",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F"
+  ]
+ },
+ {
+  "slug": "wojny-balkanskie",
+  "slugEn": "balkan-wars",
+  "term": "Wojny bałkańskie",
+  "termEn": "Balkan Wars",
+  "category": "polityka",
+  "pattern": "[Ww]ojn\\w* bałkańsk\\w*",
+  "patternEn": "Balkan [Ww]ars?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Dwie wojny z lat 1912–1913: państwa Ligi Bałkańskiej odebrały Turcji prawie całe jej ziemie w Europie, a potem Bułgaria przegrała z dawnymi sojusznikami spór o Macedonię. Zostawiły napięcia, które wybuchły w 1914 roku.",
+  "shortEn": "Two wars of 1912–1913: the Balkan League states took almost all of Turkey's European lands, and then Bulgaria lost a war with its former allies over Macedonia. They left tensions that exploded in 1914.",
+  "long": [
+   "Bułgaria, Serbia, Grecja i Czarnogóra zawarły w 1912 roku sojusz wymierzony w Imperium Osmańskie, zwany Ligą Bałkańską. 8 października Czarnogóra wypowiedziała Turcji wojnę, a dziewięć dni później dołączyli jej sojusznicy. Turcy przegrali w Macedonii i Tracji, Grecy zajęli Saloniki, a Bułgarzy doszli pod Konstantynopol. Pokój londyński z 30 maja 1913 roku zostawił Turcji w Europie tylko skrawek Tracji, a mocarstwa zgodziły się utworzyć niepodległą Albanię.",
+   "Bułgaria, niezadowolona z podziału Macedonii, w nocy z 29 na 30 czerwca 1913 roku zaatakowała Serbię i Grecję. Przeciw niej wystąpiły też Rumunia i Turcja, która odzyskała Adrianopol. Pokój bukareszteński z 10 sierpnia 1913 roku odebrał Bułgarii większość zdobyczy w Macedonii i południową Dobrudżę. Serbia podwoiła obszar i ludność, co Austro-Węgry uznały za zagrożenie, a Bułgaria i Turcja, szukając odwetu, przyłączyły się w czasie wielkiej wojny do państw centralnych. Wielu dowódców z lat 1914–1918 zdobywało doświadczenie właśnie w tych wojnach."
+  ],
+  "longEn": [
+   "Bulgaria, Serbia, Greece and Montenegro formed an alliance against the Ottoman Empire in 1912, known as the Balkan League. On 8 October Montenegro declared war on Turkey, and its allies followed nine days later. The Turks were defeated in Macedonia and Thrace, the Greeks took Salonika and the Bulgarians reached the approaches to Constantinople. The Treaty of London of 30 May 1913 left Turkey only a strip of Thrace in Europe, and the great powers agreed to create an independent Albania.",
+   "Dissatisfied with the division of Macedonia, Bulgaria attacked Serbia and Greece on the night of 29–30 June 1913. Romania and Turkey, which recovered Adrianople, also turned against it. The Treaty of Bucharest of 10 August 1913 stripped Bulgaria of most of its gains in Macedonia and of southern Dobruja. Serbia doubled its territory and population, which Austria-Hungary saw as a threat, while Bulgaria and Turkey, seeking revenge, joined the Central Powers in the Great War. Many commanders of 1914–1918 gained their experience in these wars."
+  ],
+  "see": [
+   "stan-wojny-miedzy-serbia-a-turcja",
+   "postacie/radomir-putnik",
+   "postacie/radko-dimitriew",
+   "postacie/konstantyn-i",
+   "tematy/przyczyny-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://centuryireland.rte.ie/centuryireland/articles/what-were-the-balkans-wars",
+   "https://pl.wikipedia.org/wiki/Wojny_bałkańskie"
+  ],
+  "exclude": [
+   "grecja-odrzuca-prosbe-serbii-o-pomoc"
+  ]
+ },
+ {
+  "slug": "kryzysy-marokanskie",
+  "slugEn": "moroccan-crises",
+  "term": "Kryzysy marokańskie",
+  "termEn": "Moroccan crises",
+  "category": "polityka",
+  "pattern": "[Kk]ryzys\\w* marokańsk\\w*|[Kk]ryzys\\w* agadirsk\\w*",
+  "patternEn": "Moroccan [Cc]ris[ie]s|Agadir [Cc]risis",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Dwa kryzysy z lat 1905–1906 i 1911, w których Niemcy próbowały podważyć wpływy Francji w Maroku. Oba zakończyły się ich porażką i zacieśniły współpracę Francji z Wielką Brytanią.",
+  "shortEn": "Two crises, in 1905–1906 and 1911, in which Germany tried to undermine French influence in Morocco. Both ended in German defeat and drew France and Britain closer together.",
+  "long": [
+   "Pierwszy kryzys wywołała wizyta Wilhelma II w Tangerze 31 marca 1905 roku. Cesarz poparł niezależność sułtana, choć entente cordiale z 1904 roku uznawała Maroko za strefę wpływów Francji. Pod naciskiem Niemiec ustąpił francuski minister spraw zagranicznych Théophile Delcassé, ale na konferencji w Algeciras w 1906 roku Niemcy, wspierane tylko przez Austro-Węgry, znalazły się w izolacji, a Francja i Hiszpania dostały nadzór nad marokańską policją. W czasie kryzysu Brytyjczycy i Francuzi zaczęli rozmowy sztabowe.",
+   "Drugi kryzys, zwany agadirskim, zaczął się, gdy wiosną 1911 roku Francuzi wysłali wojska do Fezu, a Niemcy 1 lipca skierowały do Agadiru kanonierkę „Panther”, żądając rekompensaty. 21 lipca David Lloyd George ostrzegł w Mansion House, że Wielka Brytania nie da się upokorzyć. Układem z 4 listopada 1911 roku Niemcy uznały francuskie zwierzchnictwo nad Marokiem w zamian za część Konga Francuskiego, przyłączoną do Kamerunu, a w 1912 roku traktat feski ustanowił francuski protektorat. Kryzys zbliżył Wielką Brytanię i Francję także na morzu."
+  ],
+  "longEn": [
+   "The first crisis was set off by Wilhelm II's visit to Tangier on 31 March 1905. The Kaiser backed the Sultan's independence, although the Entente Cordiale of 1904 recognised Morocco as a French sphere of influence. Under German pressure the French Foreign Minister Théophile Delcassé resigned, but at the Algeciras conference in 1906 Germany, supported only by Austria-Hungary, found itself isolated, and France and Spain were given charge of the Moroccan police. During the crisis British and French staff talks began.",
+   "The second, or Agadir, crisis began when the French sent troops to Fez in the spring of 1911 and Germany sent the gunboat Panther to Agadir on 1 July, demanding compensation. On 21 July David Lloyd George warned at the Mansion House that Britain would not accept humiliation. By the agreement of 4 November 1911 Germany recognised French control of Morocco in return for part of the French Congo, added to Cameroon, and in 1912 the Treaty of Fez established a French protectorate. The crisis also drew Britain and France together at sea."
+  ],
+  "see": [
+   "wielka-brytania-uznaje-traktat-feski",
+   "delcasse-ministrem-spraw-zagranicznych",
+   "general-dobell-dowodca-wyprawy-do-kamerunu",
+   "postacie/wilhelm-ii",
+   "postacie/edward-grey",
+   "tematy/przyczyny-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://www.ebsco.com/research-starters/history/tangier-crisis/",
+   "https://en.wikipedia.org/wiki/Agadir_Crisis"
+  ]
+ },
+ {
+  "slug": "gabinet-wojenny",
+  "slugEn": "war-cabinet",
+  "term": "Gabinet wojenny",
+  "termEn": "War Cabinet",
+  "category": "polityka",
+  "pattern": "[Gg]abinet\\w* [Ww]ojenn\\w*",
+  "patternEn": "[Ww]ar [Cc]abinets?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wąskie gremium rządu kierujące prowadzeniem wojny. Najczęściej chodzi o pięcioosobowy brytyjski Gabinet Wojenny Davida Lloyda George'a z lat 1916–1919 i o Imperialny Gabinet Wojenny z udziałem dominiów.",
+  "shortEn": "A small body within a government that directs the conduct of a war. Most often it means David Lloyd George's five-member British War Cabinet of 1916–1919 and the Imperial War Cabinet with the dominions.",
+  "long": [
+   "W Wielkiej Brytanii wojną kierowały kolejno Rada Wojenna, Komitet Dardanelski i od listopada 1915 roku Komitet Wojenny, ale ich decyzje musiał zatwierdzać cały, 23-osobowy rząd. Lloyd George, który w grudniu 1916 roku zastąpił Herberta Asquitha, oddał władzę pięcioosobowemu Gabinetowi Wojennemu, zebranemu po raz pierwszy 9 grudnia. Zasiedli w nim premier, Andrew Bonar Law, lord Curzon, lord Milner i Arthur Henderson, później m.in. Jan Smuts, Edward Carson i Austen Chamberlain. Sekretariat Maurice'a Hankeya prowadził pierwsze protokoły posiedzeń brytyjskiego rządu.",
+   "Od marca 1917 roku z premierami dominiów i przedstawicielami Indii obradował Imperialny Gabinet Wojenny. Jego trzy sesje trwały do stycznia 1919 roku, a w Paryżu przekształcił się w delegację imperium. Brytyjski Gabinet Wojenny zebrał się ostatni raz 27 października 1919 roku. Na jego wzór małe gabinety lub komitety wojenne tworzyły też inne państwa: Francja w grudniu 1916 roku, Belgia, Kanada w 1917 roku, a w październiku 1918 roku Niemcy kanclerza Maxa Badeńskiego."
+  ],
+  "longEn": [
+   "In Britain the war was directed in turn by the War Council, the Dardanelles Committee and, from November 1915, the War Committee, but their decisions had to be approved by the full Cabinet of 23 ministers. Lloyd George, who replaced Herbert Asquith in December 1916, handed power to a five-member War Cabinet, which first met on 9 December. Its members were the Prime Minister, Andrew Bonar Law, Lord Curzon, Lord Milner and Arthur Henderson, later joined by Jan Smuts, Edward Carson and Austen Chamberlain, among others. Maurice Hankey's secretariat kept the first minutes of British Cabinet meetings.",
+   "From March 1917 the Imperial War Cabinet met with the dominion prime ministers and representatives of India. Its three sessions lasted until January 1919, and in Paris it became the British Empire delegation. The British War Cabinet met for the last time on 27 October 1919. Other states created small war cabinets or war committees on its model: France in December 1916, Belgium, Canada in 1917 and, in October 1918, the Germany of Chancellor Max von Baden."
+  ],
+  "see": [
+   "gabinet-wojenny",
+   "lloyd-george-premierem",
+   "pierwsze-posiedzenie-imperialnego-gabinetu-wojennego",
+   "nivelle-naczelnym-wodzem",
+   "postacie/maurice-hankey",
+   "postacie/david-lloyd-george"
+  ],
+  "sources": [
+   "https://history.blog.gov.uk/2016/12/09/9-december-1916-david-lloyd-george-introduces-minuted-cabinet-meetings-and-instigates-the-cabinet-office",
+   "https://en.wikipedia.org/wiki/War_cabinet",
+   "https://en.wikipedia.org/wiki/Imperial_War_Cabinet"
+  ]
+ },
+ {
+  "slug": "akt-5-listopada",
+  "slugEn": "act-of-5-november",
+  "term": "Akt 5 listopada",
+  "termEn": "Act of 5 November",
+  "category": "sprawa-polska",
+  "pattern": "[Aa]kt\\w* 5 listopada|[Aa]kt\\w* dwóch cesarzy|[Mm]anifest\\w* dwóch cesarzy",
+  "patternEn": "Act of 5 November|Two Emperors['’] (?:Act|Manifesto)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Manifest cesarzy Niemiec i Austro-Węgier z 5 listopada 1916 roku, zapowiadający Królestwo Polskie z ziem zabranych Rosji, bez króla, rządu i granic. Miał przede wszystkim dać państwom centralnym polskiego rekruta.",
+  "shortEn": "The proclamation by the emperors of Germany and Austria-Hungary of 5 November 1916 announcing a Kingdom of Poland on lands taken from Russia, with no king, government or borders, chiefly to win Polish recruits.",
+  "long": [
+   "Akt, zwany też aktem dwóch cesarzy, ogłosili jednocześnie w Warszawie i Lublinie generał-gubernatorzy Hans von Beseler i Karl Kuk. Królestwo miało być państwem „samodzielnym”, a nie niepodległym, z dziedziczną monarchią i konstytucją, związanym z obu mocarstwami; granice i władze odłożono na później. Decyzję wymusił po stratach 1916 roku Ludendorff, który według części opracowań liczył na 350 tysięcy polskich żołnierzy. Ogłoszony 9 listopada zaciąg ochotniczy, zanim powstał jakikolwiek polski rząd, dał zaledwie kilka tysięcy ludzi.",
+   "Rosja i jej sojusznicy zaprotestowali, ale sprawa polska przestała być wewnętrzną sprawą Rosji. W grudniu car zapowiedział wolną Polskę z trzech zaborów, a w marcu 1917 roku niepodległość Polski uznał rosyjski Rząd Tymczasowy. W Królestwie akt otworzył drogę pierwszym polskim instytucjom: Tymczasowej Radzie Stanu (styczeń 1917) i Radzie Regencyjnej (październik 1917), która w listopadzie 1918 roku przekazała władzę Piłsudskiemu."
+  ],
+  "longEn": [
+   "The act, also called the act of the two emperors, was proclaimed simultaneously in Warsaw and Lublin by the Governors-General Hans von Beseler and Karl Kuk. The Kingdom was to be a \"self-governing\" rather than an independent state, a hereditary constitutional monarchy bound to both powers; its borders and authorities were left for later. The decision was forced through after the losses of 1916 by Ludendorff, who according to some studies expected 350,000 Polish soldiers. The call for volunteers of 9 November, issued before any Polish government existed, brought in only a few thousand men.",
+   "Russia and its allies protested, but the Polish question was no longer an internal Russian affair. In December the Tsar promised a free Poland made up of all three partitions, and in March 1917 the Russian Provisional Government recognised Polish independence. In the Kingdom the act opened the way to the first Polish institutions: the Provisional Council of State (January 1917) and the Regency Council (October 1917), which handed power to Piłsudski in November 1918."
+  ],
+  "see": [
+   "akt-5-listopada",
+   "pierwsze-posiedzenie-tymczasowej-rady-stanu",
+   "patent-o-radzie-regencyjnej",
+   "rozkaz-mikolaja-ii-w-sprawie-polski",
+   "postacie/hans-von-beseler",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Akt_5_listopada",
+   "https://polishhistory.pl/the-act-of-5-november-1916-and-its-consequences/"
+  ]
+ },
+ {
+  "slug": "zwiazek-strzelecki",
+  "slugEn": "riflemens-association",
+  "term": "Związek Strzelecki",
+  "termEn": "Riflemen's Association",
+  "category": "sprawa-polska",
+  "pattern": "[Zz]wiąz\\w* [Ss]trzeleck\\w*|[Dd]rużyn\\w* [Ss]trzeleck\\w*|Związ\\w* Walki Czynnej|oddział\\w* strzeleck\\w*",
+  "patternEn": "Riflemen['’]s Association|Rifle Squads|Union of Active Struggle|Polish rifle units",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Jawna organizacja paramilitarna obozu Piłsudskiego w Galicji, założona w 1910 roku jako zaplecze tajnego Związku Walki Czynnej. Jej „strzelcy” utworzyli w sierpniu 1914 roku zalążek Legionów Polskich.",
+  "shortEn": "The legal paramilitary organisation of Piłsudski's camp in Galicia, founded in 1910 as a front for the secret Union of Active Struggle. In August 1914 its Riflemen formed the nucleus of the Polish Legions.",
+  "long": [
+   "W 1908 roku we Lwowie powstał z inicjatywy Józefa Piłsudskiego konspiracyjny Związek Walki Czynnej, szkolący kadry przyszłego powstania przeciw Rosji. Korzystając z austriackich przepisów o ochotniczym szkoleniu strzeleckim, w 1910 roku utworzył on legalne przybudówki: Związek Strzelecki we Lwowie i Towarzystwo „Strzelec” w Krakowie. Komendantem głównym był Piłsudski, szefem sztabu Kazimierz Sosnkowski. Obok działały Polskie Drużyny Strzeleckie, założone w 1911 roku przez młodzież z „Zarzewia”, o tym samym programie i podobnym wyszkoleniu.",
+   "Według różnych danych Związek liczył w 1914 roku od 6,4 do 8 tysięcy wyszkolonych członków, a Drużyny około 6 tysięcy. Z nich wyszła 6 sierpnia 1914 roku Pierwsza Kompania Kadrowa, a potem I Brygada Legionów. W Królestwie Polskim warszawskie Drużyny i Związek Walki Czynnej połączyły się jesienią 1914 roku w Polską Organizację Wojskową. Słowo „strzelcy” pozostało potocznym określeniem żołnierzy Piłsudskiego."
+  ],
+  "longEn": [
+   "In 1908 the clandestine Union of Active Struggle was founded in Lwów on Józef Piłsudski's initiative to train cadres for a future rising against Russia. Using Austrian rules on voluntary rifle training, in 1910 it set up legal offshoots: the Riflemen's Association in Lwów and the \"Strzelec\" society in Kraków. Piłsudski was commandant-in-chief and Kazimierz Sosnkowski chief of staff. Alongside them worked the Polish Rifle Squads, founded in 1911 by young people of the \"Zarzewie\" movement, with the same programme and similar training.",
+   "According to various figures the Association had between 6,400 and 8,000 trained members in 1914, and the Squads about 6,000. From them came the First Cadre Company, which marched out on 6 August 1914, and then the I Brigade of the Legions. In the Kingdom of Poland the Warsaw Squads and the Union of Active Struggle merged in the autumn of 1914 into the Polish Military Organisation. \"Riflemen\" remained the common name for Piłsudski's soldiers."
+  ],
+  "see": [
+   "powstanie-polskiej-organizacji-wojskowej",
+   "austro-wegry-wypowiadaja-wojne-rosji",
+   "postacie/jozef-pilsudski",
+   "postacie/kazimierz-sosnkowski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://dzieje.pl/aktualnosci/zwiazek-strzelecki",
+   "https://pl.wikipedia.org/wiki/Związek_Strzelecki",
+   "https://pl.wikipedia.org/wiki/Polskie_Drużyny_Strzeleckie",
+   "https://en.wikipedia.org/wiki/Union_of_Active_Struggle"
+  ]
+ },
+ {
+  "slug": "sokol",
+  "slugEn": "polish-falcons",
+  "term": "Sokół",
+  "termEn": "Sokół (Polish Falcons)",
+  "category": "sprawa-polska",
+  "pattern": "„Sok(?:ół|oła|ole|ołem|ołu)”|[Dd]rużyn\\w* [Ss]okol\\w*",
+  "patternEn": "[\"“]Sokół[\"”]|Sokół Field Squads|Polish Falcons",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Polskie Towarzystwo Gimnastyczne „Sokół”, założone w 1867 roku we Lwowie. W czasie wojny jego członkowie trafiali do Legionów, ochotniczych formacji we Francji i Armii Hallera, a w 1918 roku do powstania wielkopolskiego.",
+  "shortEn": "The Polish Gymnastic Society \"Sokół\" (Falcon), founded in Lwów in 1867. In the war its members joined the Legions, the volunteer units in France and Haller's Army, and in 1918 the Greater Poland Uprising.",
+  "long": [
+   "„Sokół” powstał we Lwowie w 1867 roku na wzór czeskiego Sokoła Miroslava Tyrša. Pod hasłem gimnastyki szerzył ducha narodowego i karność, od 1884 roku działał w zaborze pruskim, a od 1905 roku także w Królestwie. Przed wojną miał ponad 800 gniazd i kilkadziesiąt tysięcy członków. Po zjeździe grunwaldzkim w 1910 roku tworzył Polowe Drużyny Sokole, szkolone wojskowo; w Galicji stał bliżej Narodowej Demokracji i rywalizował ze strzelcami Piłsudskiego.",
+   "W sierpniu 1914 roku sokoli z Małopolski poszli głównie do II Brygady Legionów, w której służył Józef Haller, a we Francji wstąpili do Legii Cudzoziemskiej. Amerykański „Sokół” od lat przygotowywał przyszłych żołnierzy i w 1917 roku otworzył szkołę oficerską; przez obóz w Niagara-on-the-Lake przeszło około 25 tysięcy ochotników, z których blisko 23 tysiące (według innych danych około 20,7 tysiąca) popłynęło do Armii Polskiej we Francji. W grudniu 1918 roku sokoli walczyli w powstaniu wielkopolskim."
+  ],
+  "longEn": [
+   "\"Sokół\" was founded in Lwów in 1867 on the model of Miroslav Tyrš's Czech Sokol. Under the banner of gymnastics it fostered national spirit and discipline, from 1884 in the Prussian partition and from 1905 also in the Kingdom of Poland. Before the war it had more than 800 branches and tens of thousands of members. After the Grunwald rally of 1910 it formed the Sokół Field Squads with military training; in Galicia it stood closer to the National Democrats and competed with Piłsudski's Riflemen.",
+   "In August 1914 the Falcons of Galicia went mainly into the II Brigade of the Legions, where Józef Haller served, and in France they joined the Foreign Legion. The American \"Sokół\" had long been preparing future soldiers and in 1917 opened an officer school; about 25,000 volunteers passed through the camp at Niagara-on-the-Lake, of whom nearly 23,000 (about 20,700 by other figures) sailed for the Polish Army in France. In December 1918 Falcons fought in the Greater Poland Uprising."
+  ],
+  "see": [
+   "dekret-o-utworzeniu-armii-polskiej-we-francji",
+   "wybuch-powstania-wielkopolskiego",
+   "postacie/jozef-haller",
+   "postacie/boleslaw-roja",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Gimnastyczne_„Sokół”",
+   "https://www.polishmuseumofamerica.org/wp-content/uploads/virtual_exhibit/vex1/"
+  ]
+ },
+ {
+  "slug": "naczelna-rada-ludowa",
+  "slugEn": "supreme-peoples-council",
+  "term": "Naczelna Rada Ludowa",
+  "termEn": "Supreme People's Council",
+  "category": "sprawa-polska",
+  "pattern": "Naczeln\\w* Rad\\w* Ludow\\w*",
+  "patternEn": "Supreme People['’]s Council",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Polska władza w zaborze pruskim, ujawniona w Poznaniu w listopadzie 1918 roku. Kierowała ruchem polskim w Wielkopolsce, na Pomorzu i Śląsku, a po wybuchu powstania wielkopolskiego przejęła władzę na wyzwolonych ziemiach.",
+  "shortEn": "The Polish authority in the Prussian partition, which emerged in Poznań in November 1918. It led the Poles of Greater Poland, Pomerania and Silesia, and after the Greater Poland Uprising ruled the liberated lands.",
+  "long": [
+   "Rada wyrosła z tajnego Centralnego Komitetu Obywatelskiego, działającego w Poznaniu od 1916 roku, z przewagą Narodowej Demokracji i oparciem w Komitecie Narodowym Polskim w Paryżu. Po rewolucji w Niemczech i rozejmie ujawniła się 11 listopada 1918 roku jako Rada Ludowa, 12 listopada wyłoniła Tymczasowy Komisariat (Stanisław Adamski, Wojciech Korfanty, Adam Poszwiński), a 14 listopada przyjęła nazwę Naczelnej Rady Ludowej. W terenie tworzono powiatowe rady ludowe i Straż Ludową.",
+   "Sejm Dzielnicowy, obradujący w Poznaniu 3–5 grudnia 1918 roku, wybrał nowy skład Rady i uznał ją za zwierzchnią władzę Polaków w Niemczech. Jej przywódcy chcieli czekać na decyzję konferencji pokojowej, ale po wybuchu powstania wielkopolskiego 27 grudnia objęli kierownictwo cywilne i wojskowe na wyzwolonych ziemiach. Rada działała do sierpnia 1919 roku, gdy jej zadania przejęło Ministerstwo byłej Dzielnicy Pruskiej; na Górnym Śląsku jej podkomisariat pracował dłużej."
+  ],
+  "longEn": [
+   "The Council grew out of the secret Central Citizens' Committee, active in Poznań from 1916, dominated by the National Democrats and backed by the Polish National Committee in Paris. After the revolution in Germany and the armistice it emerged on 11 November 1918 as the People's Council, on 12 November chose a Provisional Commissariat (Stanisław Adamski, Wojciech Korfanty, Adam Poszwiński), and on 14 November took the name Supreme People's Council. Local people's councils and a People's Guard were set up in the districts.",
+   "The Provincial Sejm, meeting in Poznań on 3–5 December 1918, elected a new Council and recognised it as the supreme authority of the Poles in Germany. Its leaders wanted to wait for the peace conference, but after the Greater Poland Uprising broke out on 27 December they took civil and military control of the liberated lands. The Council lasted until August 1919, when the Ministry of the Former Prussian Partition took over its tasks; in Upper Silesia its sub-commissariat worked longer."
+  ],
+  "see": [
+   "powstanie-naczelnej-rady-ludowej",
+   "sejm-dzielnicowy-w-poznaniu",
+   "wybuch-powstania-wielkopolskiego",
+   "bitwy/powstanie-wielkopolskie",
+   "postacie/wojciech-korfanty",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa",
+   "https://dzieje.pl/node/97379"
+  ]
+ },
+ {
+  "slug": "rada-polska-zjednoczenia-miedzypartyjnego",
+  "slugEn": "polish-council-of-inter-party-union",
+  "term": "Rada Polska Zjednoczenia Międzypartyjnego",
+  "termEn": "Polish Council of Inter-Party Union",
+  "category": "sprawa-polska",
+  "pattern": "Rad\\w* Polsk\\w* Zjednoczeni\\w* Międzypartyjn\\w*",
+  "patternEn": "Polish Council of Inter-?[Pp]arty Union",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Porozumienie polskich stronnictw narodowych i konserwatywnych w Rosji z siedzibą w Moskwie, związane z Komitetem Narodowym Polskim w Paryżu. W 1918 roku pomagało tworzyć polskie wojsko po stronie Ententy.",
+  "shortEn": "A union of Polish national and conservative parties in Russia, based in Moscow and linked to the Polish National Committee in Paris. In 1918 it helped to raise Polish troops on the Entente side.",
+  "long": [
+   "Rada powstała na Polskim Zjeździe Politycznym w Moskwie, zwołanym przez prawicę w sierpniu 1917 roku (część opracowań wiąże jej początki z 1916 rokiem); kontynuowała pracę Komitetu Narodowego Polskiego, ewakuowanego w 1915 roku z Warszawy do Rosji. Przeważali w niej narodowi demokraci i realiści; prezesem był Stanisław Wojciechowski, a sprawami zagranicznymi kierowali Stanisław Grabski i Józef Wielowieyski. Od jesieni 1917 roku uznawała paryski Komitet Narodowy Polski za przedstawicielstwo Polski na Zachodzie i stawiała na zwycięstwo Ententy.",
+   "Po przewrocie bolszewickim Rada wspierała polskie korpusy, sprzeciwiała się ich podporządkowaniu Radzie Regencyjnej i próbowała ratować I Korpus przed rozbrojeniem. Po pokoju brzeskim pomagała przerzucać żołnierzy do armii polskiej we Francji. 15 czerwca 1918 roku zawarła w Moskwie umowę z Józefem Hallerem, który stanął na czele jej Komisji Wojskowej; polskie oddziały na wschodzie miały być częścią armii we Francji. Wkrótce Rada przerwała działalność pod presją bolszewików."
+  ],
+  "longEn": [
+   "The Council was formed at the Polish Political Congress in Moscow, called by the right in August 1917 (some accounts date its origins to 1916); it continued the work of the Polish National Committee, evacuated from Warsaw to Russia in 1915. National Democrats and Realists predominated; its president was Stanisław Wojciechowski, and Stanisław Grabski and Józef Wielowieyski ran its foreign affairs. From the autumn of 1917 it recognised the Paris Polish National Committee as Poland's representation in the West and staked everything on an Entente victory.",
+   "After the Bolshevik coup the Council supported the Polish corps, opposed placing them under the Regency Council and tried to save the I Corps from disarmament. After the Treaty of Brest-Litovsk it helped to send soldiers on to the Polish army in France. On 15 June 1918 in Moscow it concluded an agreement with Józef Haller, who became head of its Military Commission; Polish units in the east were to be part of the army in France. Soon afterwards the Council ceased its activity under Bolshevik pressure."
+  ],
+  "see": [
+   "general-haller-we-francji",
+   "walki-pod-kaniowem",
+   "powstanie-komitetu-narodowego-polskiego",
+   "postacie/jozef-haller",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Rada_Polska_Zjednoczenia_Międzypartyjnego",
+   "https://czasopisma.ipn.gov.pl/index.php/pis/article/download/96/93/98"
+  ]
+ },
+ {
+  "slug": "ukrainska-centralna-rada",
+  "slugEn": "central-rada",
+  "term": "Ukraińska Centralna Rada",
+  "termEn": "Ukrainian Central Rada",
+  "category": "rewolucja",
+  "pattern": "Centraln(?:a|ej|ą) Rad\\w*|[Uu]kraińsk\\w* Rad\\w* Centraln\\w*",
+  "patternEn": "Central Rada|Kiev Rada|Little Rada",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Ukraiński parlament rewolucyjny, powstały w Kijowie w marcu 1917 roku pod przewodnictwem Mychajła Hruszewskiego. Proklamował Ukraińską Republikę Ludową i jej niepodległość, a w kwietniu 1918 roku obalili go Niemcy.",
+  "shortEn": "The Ukrainian revolutionary parliament formed in Kyiv in March 1917 under Mykhailo Hrushevsky. It proclaimed the Ukrainian People's Republic and its independence, and was overthrown by the Germans in April 1918.",
+  "long": [
+   "Rada powstała 17 marca 1917 roku w Kijowie z inicjatywy ukraińskich stronnictw i organizacji; przewodniczącym wybrano Mychajła Hruszewskiego. Z około 150 członków po kwietniowym kongresie narodowym urosła latem do ponad 800 deputowanych, a bieżące sprawy prowadziła Mała Rada. Ogłaszała swoje decyzje w uniwersałach: I (czerwiec 1917) zapowiadał autonomię, a porozumienie z Rządem Tymczasowym z lipca uznało jej Sekretariat Generalny za władzę na Ukrainie. III Uniwersał z 20 listopada 1917 roku proklamował Ukraińską Republikę Ludową.",
+   "IV Uniwersał, datowany na 22 stycznia 1918 roku, ogłosił niepodległość. W lutym delegacja Rady zawarła w Brześciu pokój z państwami centralnymi, a sama Rada, wypędzona z Kijowa przez bolszewików 8–9 lutego, wróciła tam pod ochroną wojsk niemieckich i austro-węgierskich. Socjalistyczna polityka rolna i spory o dostawy zboża skłóciły ją z okupantami. 29 kwietnia 1918 roku, w dniu przewrotu hetmana Skoropadskiego, Rada przestała istnieć."
+  ],
+  "longEn": [
+   "The Rada was formed in Kyiv on 17 March 1917 on the initiative of Ukrainian parties and organisations, with Mykhailo Hrushevsky elected chairman. From some 150 members after the national congress in April it grew by summer to over 800 deputies, while the Little Rada handled current business. It announced its decisions in Universals: the First (June 1917) declared autonomy, and the agreement with the Provisional Government in July recognised its General Secretariat as the authority in Ukraine. The Third Universal of 20 November 1917 proclaimed the Ukrainian People's Republic.",
+   "The Fourth Universal, dated 22 January 1918, declared independence. In February the Rada's delegation made peace with the Central Powers at Brest, and the Rada itself, driven out of Kyiv by the Bolsheviks on 8–9 February, returned under the protection of German and Austro-Hungarian troops. Its socialist land policy and disputes over grain deliveries set it against the occupiers. On 29 April 1918, the day of Hetman Skoropadsky's coup, the Rada ceased to exist."
+  ],
+  "see": [
+   "ukrainska-republika-ludowa",
+   "iv-uniwersal",
+   "pokoj-brzeski-z-ukraina",
+   "skoropadski-hetmanem",
+   "postacie/mychajlo-hruszewski",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CE%5CCentralRada.htm",
+   "https://en.wikipedia.org/wiki/Central_Council_of_Ukraine"
+  ]
+ },
+ {
+  "slug": "hetmanat",
+  "slugEn": "hetmanate",
+  "term": "Hetmanat",
+  "termEn": "Hetmanate",
+  "category": "rewolucja",
+  "pattern": "\\b[Hh]etma[nń]\\w*\\b(?! Chair)|Państw\\w* Ukraińsk\\w*",
+  "patternEn": "\\b[Hh]etman\\w*\\b(?! Chair)|Ukrainian State",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Państwo Ukraińskie hetmana Pawła Skoropadskiego, utworzone w kwietniu 1918 roku przewrotem pod niemiecką okupacją. Konserwatywne i zależne od Niemców, upadło w grudniu 1918 roku po powstaniu Dyrektoriatu.",
+  "shortEn": "The Ukrainian State of Hetman Pavlo Skoropadsky, created by a coup under German occupation in April 1918. Conservative and dependent on Germany, it fell in December 1918 to the Directorate's uprising.",
+  "long": [
+   "29 kwietnia 1918 roku zjazd ziemian w Kijowie obwołał generała Pawła Skoropadskiego hetmanem Ukrainy; nawiązywał tym do kozackiej tradycji XVII–XVIII wieku. Przewrót poparli Niemcy, niezadowoleni z Centralnej Rady i dostaw zboża. Hetman skupił w swoich rękach władzę ustawodawczą i wykonawczą, unieważnił reformy Rady, przywrócił prywatną własność ziemi i ograniczył swobody. Pierwszy rząd utworzył Fedir Łyzohub.",
+   "Hetmanat zbudował administrację i służbę dyplomatyczną, założył uniwersytety w Kijowie i Kamieńcu Podolskim oraz Ukraińską Akademię Nauk, ale opierał się na wojskach okupacyjnych. Wieś, gnębiona rekwizycjami i karnymi ekspedycjami, burzyła się, a socjaliści skupili się w Ukraińskim Związku Narodowym. Po klęsce państw centralnych Skoropadski ogłosił w listopadzie federację z niebolszewicką Rosją. Wybuchło powstanie Dyrektoriatu i 14 grudnia 1918 roku hetman zrzekł się władzy."
+  ],
+  "longEn": [
+   "On 29 April 1918 a congress of landowners in Kyiv proclaimed General Pavlo Skoropadsky Hetman of Ukraine, reviving a Cossack title of the 17th and 18th centuries. The coup was backed by the Germans, who were dissatisfied with the Central Rada and with grain deliveries. The Hetman concentrated legislative and executive power in his own hands, annulled the Rada's reforms, restored private ownership of land and curbed civil liberties. The first government was formed by Fedir Lyzohub.",
+   "The Hetmanate built an administration and a diplomatic service and founded universities in Kyiv and Kamianets-Podilskyi and the Ukrainian Academy of Sciences, but it rested on the occupying armies. The countryside, oppressed by requisitions and punitive expeditions, rose in revolt, and the socialists rallied in the Ukrainian National Union. After the defeat of the Central Powers Skoropadsky proclaimed a federation with a non-Bolshevik Russia in November. The Directorate's uprising broke out, and on 14 December 1918 the Hetman gave up power."
+  ],
+  "see": [
+   "skoropadski-hetmanem",
+   "upadek-hetmanatu",
+   "rzad-lyzohuba",
+   "powstanie-petlury",
+   "postacie/pawlo-skoropadski"
+  ],
+  "sources": [
+   "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CH%5CE%5CHetmangovernment.htm",
+   "https://pl.wikipedia.org/wiki/Hetmanat_(1918)"
+  ]
+ },
+ {
+  "slug": "bataliony-smierci",
+  "slugEn": "death-battalions",
+  "term": "Bataliony śmierci",
+  "termEn": "Battalions of death",
+  "category": "rewolucja",
+  "pattern": "[Bb]atalion\\w* [Śś]mierci|rewolucyjn\\w* batalion\\w* szturmow\\w*|batalion\\w* uderzeniow\\w*|[Kk]obiec\\w* batalion\\w*|[Dd]rużyn\\w* śmierci",
+  "patternEn": "[Bb]attalions? of [Dd]eath|[Dd]eath [Bb]attalions?|[Ss]hock battalions?|[Ww]omen['’]s [Bb]attalion",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Ochotnicze oddziały uderzeniowe armii rosyjskiej z 1917 roku, także kobiece, które miały porwać do walki zdemoralizowane wojsko. Najsłynniejszy był kobiecy batalion śmierci Marii Boczkariowej.",
+  "shortEn": "Volunteer shock units of the Russian army in 1917, some of them made up of women, meant to carry a demoralised army into battle. The best known was Maria Bochkareva's women's battalion of death.",
+  "long": [
+   "Po rewolucji lutowej armia rosyjska rozpadała się, a Rząd Tymczasowy szykował letnią ofensywę. W maju 1917 roku na Froncie Południowo-Zachodnim zrodził się pomysł ochotniczych oddziałów, które przysięgały walczyć do ostatniej kropli krwi; Brusiłow jako naczelny wódz polecił tworzyć „rewolucyjne bataliony szturmowe”, zwane też batalionami śmierci. W czerwcu każdy oddział, który przyjął taką uchwałę, mógł przybrać tę nazwę; do października było ich ponad sto.",
+   "Weteranka Maria Boczkariowa uzyskała zgodę Kiereńskiego na kobiecy batalion. Z ponad 2 tysięcy ochotniczek zatrzymała około 300; w lipcu 1917 roku poszły do ataku pod Smorgonią i straciły kilkadziesiąt kobiet zabitych i rannych. Powstały kolejne oddziały kobiece; według szacunków służyło w nich od 4 do ponad 6 tysięcy kobiet. Kompania jednego z nich broniła w październiku Pałacu Zimowego. Bolszewicy rozwiązali formacje kobiece pod koniec 1917 roku, a bataliony uderzeniowe rozpadły się wraz z armią."
+  ],
+  "longEn": [
+   "After the February Revolution the Russian army was falling apart while the Provisional Government prepared a summer offensive. In May 1917 the South-Western Front produced the idea of volunteer units sworn to fight to the last drop of blood; as commander-in-chief, Brusilov ordered the formation of \"revolutionary shock battalions\", also called battalions of death. In June any unit that adopted such a resolution was allowed to take the name; by October there were over a hundred.",
+   "The veteran soldier Maria Bochkareva won Kerensky's consent for a women's battalion. Of over 2,000 volunteers she kept about 300; in July 1917 they attacked near Smorgon and lost several dozen women killed and wounded. More women's units followed; estimates put the number of women who served in them at between 4,000 and over 6,000. A company of one of them defended the Winter Palace in October. The Bolsheviks disbanded the women's units at the end of 1917, and the shock battalions disintegrated with the army."
+  ],
+  "see": [
+   "kobiecy-batalion-smierci",
+   "brusilow-naczelnym-wodzem",
+   "bitwy/ofensywa-kierenskiego",
+   "rewolucja-pazdziernikowa",
+   "tematy/kobiety-w-czasie-i-wojny-swiatowej",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://historycooperative.org/journal/my-death-for-the-motherland-is-happiness-women-patriotism-and-soldiering-in-russias-great-war-1914-1917/",
+   "https://en.wikipedia.org/wiki/Women%27s_Battalion"
+  ]
+ },
+ {
+  "slug": "ochrana",
+  "slugEn": "okhrana",
+  "term": "Ochrana",
+  "termEn": "Okhrana",
+  "category": "rewolucja",
+  "pattern": "\\b[Oo]chran(?:a|y|ie|ę|ą)\\b",
+  "patternEn": "\\bOkhrana\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Carska policja polityczna, tropiąca rewolucjonistów za pomocą agentów i prowokatorów. Jej siedzibę w Piotrogrodzie spalono w czasie rewolucji lutowej 1917 roku, a Rząd Tymczasowy ją rozwiązał.",
+  "shortEn": "The Tsarist political police, which hunted revolutionaries with informers and agents provocateurs. Its Petrograd headquarters was burned in the February Revolution of 1917, and the Provisional Government abolished it.",
+  "long": [
+   "Ochrana, formalnie Oddział Ochrony Bezpieczeństwa i Porządku Publicznego, powstała w 1880–1881 roku, po zamachach na Aleksandra II, w ramach Departamentu Policji Ministerstwa Spraw Wewnętrznych; współpracowała z Samodzielnym Korpusem Żandarmów. Miała oddziały w Petersburgu, Moskwie i Warszawie oraz agenturę zagraniczną w Paryżu. Przeglądała korespondencję, prowadziła kartoteki i werbowała informatorów w partiach rewolucyjnych. Ich liczbę szacuje się bardzo różnie, od niespełna 2 tysięcy do ponad 20 tysięcy.",
+   "Najsłynniejszymi agentami byli przywódca Organizacji Bojowej eserowców Jewno Azef i Roman Malinowski, szef frakcji bolszewickiej w Dumie, z którego donosu zesłano Stalina i Swierdłowa. Po zabójstwie Rasputina w grudniu 1916 roku śledztwo prowadził szef Ochrany. 27 lutego (12 marca) 1917 roku tłum zdobył i spalił jej gmach w Piotrogrodzie, a Rząd Tymczasowy rozwiązał całą policję polityczną. W grudniu 1917 roku bolszewicy utworzyli własną, Czekę."
+  ],
+  "longEn": [
+   "The Okhrana, formally the Department for the Protection of Public Security and Order, was created in 1880–1881, after the attempts on Alexander II, within the Police Department of the Ministry of the Interior; it worked with the Special Corps of Gendarmes. It had branches in St Petersburg, Moscow and Warsaw and a foreign agency in Paris. It opened private mail, kept card indexes and recruited informers in the revolutionary parties. Estimates of their number vary widely, from fewer than 2,000 to over 20,000.",
+   "Its most famous agents were Yevno Azef, head of the Socialist Revolutionaries' Combat Organisation, and Roman Malinovsky, leader of the Bolshevik group in the Duma, whose denunciation sent Stalin and Sverdlov into exile. After Rasputin's murder in December 1916 the head of the Okhrana led the investigation. On 27 February (12 March) 1917 a crowd stormed and burned its building in Petrograd, and the Provisional Government abolished the whole political police. In December 1917 the Bolsheviks created their own, the Cheka."
+  ],
+  "see": [
+   "rewolucja-lutowa",
+   "zabojstwo-rasputina",
+   "rosyjscy-parlamentariusze-za-liniami-niemieckimi",
+   "postacie/jozef-stalin",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Department_for_Protecting_the_Public_Security_and_Order",
+   "https://spartacus-educational.com/RUSokhrana.htm"
+  ]
+ },
+ {
+  "slug": "rewolucja-listopadowa",
+  "slugEn": "german-revolution",
+  "term": "Rewolucja listopadowa",
+  "termEn": "November Revolution",
+  "category": "rewolucja",
+  "pattern": "[Rr]ewolucj\\w* listopadow\\w*|[Rr]ewolucj\\w* w Niemczech|[Rr]ewolucj\\w* niemieck\\w*|[Bb]unt\\w* (?:marynarzy )?w Kilonii|[Rr]ewolucj\\w* w Kilonii",
+  "patternEn": "November Revolution|[Rr]evolution in Germany|German [Rr]evolution\\b|Kiel mutiny|mutiny (?:at|in) Kiel",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Rewolucja w Niemczech jesienią 1918 roku, zaczęta buntem marynarzy w Kilonii. Rady robotnicze i żołnierskie przejęły władzę w miastach, 9 listopada upadło cesarstwo, a Niemcy stały się republiką.",
+  "shortEn": "The revolution in Germany in the autumn of 1918, begun by the sailors' mutiny at Kiel. Workers' and soldiers' councils took power in the cities, the Empire fell on 9 November and Germany became a republic.",
+  "long": [
+   "Pod koniec października 1918 roku dowództwo marynarki chciało wysłać flotę do ostatniej bitwy z Brytyjczykami. Marynarze w Wilhelmshaven odmówili, a ponad tysiąc z nich aresztowano. 3 listopada patrol zastrzelił w Kilonii demonstrantów żądających ich uwolnienia, a wieczorem 4 listopada miasto było w rękach buntowników, którzy utworzyli pierwszą radę robotniczą i żołnierską. W ciągu kilku dni rady przejęły władzę w niemal wszystkich wielkich miastach, 7 listopada w Monachium proklamowano Republikę Bawarską.",
+   "9 listopada rewolucja dotarła do Berlina: kanclerz ogłosił abdykację Wilhelma II i oddał urząd Friedrichowi Ebertowi, a Scheidemann proklamował republikę. Władzę objęła Rada Pełnomocników Ludowych (SPD i USPD), która 11 listopada zawarła rozejm, a porozumienie Eberta z Groenerem zapewniło jej poparcie armii. Grudniowy zjazd rad opowiedział się za Zgromadzeniem Narodowym, wybranym 19 stycznia 1919 roku, a styczniowe powstanie skrajnej lewicy zostało stłumione."
+  ],
+  "longEn": [
+   "At the end of October 1918 the naval command wanted to send the fleet into a last battle with the British. The sailors at Wilhelmshaven refused, and more than a thousand were arrested. On 3 November a patrol in Kiel shot demonstrators demanding their release, and by the evening of 4 November the town was in the hands of the mutineers, who formed the first workers' and soldiers' council. Within days councils had taken power in almost every large city, and on 7 November the Bavarian Republic was proclaimed in Munich.",
+   "On 9 November the revolution reached Berlin: the chancellor announced Wilhelm II's abdication and handed office to Friedrich Ebert, and Scheidemann proclaimed the republic. Power passed to the Council of People's Deputies (SPD and USPD), which concluded the armistice on 11 November, while Ebert's pact with Groener secured the army's support. The December congress of councils opted for a National Assembly, elected on 19 January 1919, and the January rising of the far left was crushed."
+  ],
+  "see": [
+   "rewolucja-w-berlinie",
+   "bunt-w-kilonii",
+   "zjazd-rad-w-berlinie",
+   "abdykacja-wilhelma-ii",
+   "postacie/friedrich-ebert",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
+  ],
+  "sources": [
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819.html",
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/matrosenaufstand-1918"
+  ],
+  "exclude": [
+   "ani-wojna-ani-pokoj",
+   "bitwy/operacja-faustschlag",
+   "bolszewicy-godza-sie-na-pokoj",
+   "postacie/gieorgij-cziczerin",
+   "postacie/jozef-stalin",
+   "postacie/lew-trocki"
+  ]
+ },
+ {
+  "slug": "zwiazek-spartakusa",
+  "slugEn": "spartacus-league",
+  "term": "Związek Spartakusa",
+  "termEn": "Spartacus League",
+  "category": "rewolucja",
+  "pattern": "[Ss]partakus\\w*",
+  "patternEn": "Spartac\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Rewolucyjne skrzydło niemieckiej lewicy, przeciwne wojnie, z Karlem Liebknechtem i Różą Luksemburg na czele. Na przełomie 1918 i 1919 roku stało się trzonem Komunistycznej Partii Niemiec.",
+  "shortEn": "The revolutionary wing of the German left, opposed to the war and led by Karl Liebknecht and Rosa Luxemburg. At the turn of 1918 and 1919 it became the core of the Communist Party of Germany.",
+  "long": [
+   "Grupa wyrosła z opozycji wobec poparcia SPD dla kredytów wojennych i polityki rozejmu wewnętrznego. Od 1915 roku nazywano ją od pisma Gruppe Internationale, a od konferencji 1 stycznia 1916 roku wydawała nielegalne „Listy Spartakusa”, od których wzięła nazwę. Liebknecht i Luksemburg większość wojny spędzili w więzieniu, pracą kierował Leo Jogiches. W 1917 roku Związek wszedł do USPD, zachowując odrębność, i wzywał do strajków, między innymi w styczniu 1918 roku.",
+   "Wpływy spartakusowców były niewielkie. 9 listopada 1918 roku Liebknecht ogłosił „wolną socjalistyczną republikę”, a pismo „Die Rote Fahne” domagało się oddania całej władzy radom, ale grudniowy zjazd rad wybrał wybory do Zgromadzenia Narodowego. Na zjeździe od 30 grudnia 1918 do 1 stycznia 1919 roku Związek wraz z lewicowymi radykałami założył KPD. Styczniowe powstanie w Berlinie stłumiono, a 15 stycznia 1919 roku żołnierze freikorpsu zamordowali Liebknechta i Luksemburg."
+  ],
+  "longEn": [
+   "The group grew out of opposition to the SPD's support for war credits and the domestic truce. From 1915 it was named after its journal, the Gruppe Internationale, and after a conference on 1 January 1916 it published the illegal \"Spartacus Letters\", which gave it its name. Liebknecht and Luxemburg spent most of the war in prison, and Leo Jogiches ran its work. In 1917 the League joined the USPD while keeping its separate identity, and called for strikes, including in January 1918.",
+   "The Spartacists' influence was small. On 9 November 1918 Liebknecht proclaimed a \"free socialist republic\", and their paper Die Rote Fahne demanded all power for the councils, but the December congress of councils chose elections to a National Assembly. At a congress from 30 December 1918 to 1 January 1919 the League and other left-wing radicals founded the KPD. The January rising in Berlin was crushed, and on 15 January 1919 Freikorps soldiers murdered Liebknecht and Luxemburg."
+  ],
+  "see": [
+   "zalozenie-kpd",
+   "liebknecht-glosuje-przeciw-kredytom-wojennym",
+   "strajk-styczniowy-w-niemczech",
+   "rewolucja-w-berlinie",
+   "zjazd-rad-w-berlinie",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
+  ],
+  "sources": [
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/spartakusbund",
+   "https://en.wikipedia.org/wiki/Spartacus_League"
+  ]
+ },
+ {
+  "slug": "legenda-o-ciosie-w-plecy",
+  "slugEn": "stab-in-the-back-myth",
+  "term": "Legenda o ciosie w plecy",
+  "termEn": "Stab-in-the-back myth",
+  "category": "rewolucja",
+  "pattern": "[Ll]egend\\w* o „?ciosie w plecy|„cios\\w* w plecy”|Dolchsto\\w*|pchnęl\\w* nożem w plecy|armii nóż w plecy",
+  "patternEn": "[Ss]tab-in-the-back|\"stab in the back\"|stabbed in the back|Dolchsto\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Powojenny mit, według którego niepokonana w polu armia niemiecka została zdradzona przez polityków, socjalistów i rewolucjonistów w kraju. Głosili go Hindenburg i Ludendorff, a wykorzystała skrajna prawica.",
+  "shortEn": "The post-war myth that the German army, undefeated in the field, had been betrayed by politicians, socialists and revolutionaries at home. Hindenburg and Ludendorff spread it, and the far right exploited it.",
+  "long": [
+   "Pod koniec września 1918 roku to naczelne dowództwo, uznając, że armia nie może dalej walczyć, zażądało od rządu rozmów o rozejm; Ludendorff mówił, że politycy mają teraz „zjeść zupę, którą nawarzyli”. Gdy rozejm podpisali cywile, a wojsko wróciło do kraju w porządku, łatwo było przerzucić winę na tyły. Obraz armii zdradzonej przez strajki, pokojową rezolucję Reichstagu i rewolucję listopadową pojawił się w prasie już w kilka tygodni po wojnie.",
+   "18 listopada 1919 roku Hindenburg zeznał przed komisją śledczą Zgromadzenia Narodowego, że armia została „pchnięta sztyletem w plecy”, powołując się na słowa angielskiego generała. Legenda stała się stałym elementem propagandy prawicy przeciw Republice Weimarskiej i „zbrodniarzom listopadowym”, takim jak Erzberger, a z czasem nabrała charakteru antysemickiego. Przejęli ją naziści. Historycy ją odrzucają: o klęsce zdecydowały wyczerpanie rezerw, upadek sojuszników i przewaga Ententy."
+  ],
+  "longEn": [
+   "At the end of September 1918 it was the Supreme Army Command that, judging that the army could not fight on, demanded that the government seek an armistice; Ludendorff said the politicians must now \"eat the soup they have cooked for us\". When civilians signed the armistice and the army marched home in good order, it was easy to shift the blame to the home front. The image of an army betrayed by strikes, the Reichstag peace resolution and the November Revolution appeared in the press within weeks of the war's end.",
+   "On 18 November 1919 Hindenburg told the National Assembly's committee of inquiry that the army had been \"stabbed in the back\", citing the words of an English general. The legend became a staple of right-wing propaganda against the Weimar Republic and the \"November criminals\" such as Erzberger, and in time took on an antisemitic character. The Nazis adopted it. Historians reject it: the defeat was decided by exhausted reserves, the collapse of Germany's allies and the Entente's superiority."
+  ],
+  "see": [
+   "ludendorff-zada-rozejmu",
+   "rewolucja-w-berlinie",
+   "rozejm-w-compiegne",
+   "postacie/paul-von-hindenburg",
+   "postacie/erich-ludendorff",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
+  ],
+  "sources": [
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende.html",
+   "https://en.wikipedia.org/wiki/Stab-in-the-back_myth"
+  ]
+ },
+ {
+  "slug": "askarysi",
+  "slugEn": "askaris",
+  "term": "Askarysi",
+  "termEn": "Askaris",
+  "category": "wojsko",
+  "pattern": "\\baskary\\w*",
+  "patternEn": "\\baskaris?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Afrykańscy żołnierze wojsk kolonialnych, zwłaszcza niemieckiej Schutztruppe i brytyjskich King's African Rifles. W Afryce Wschodniej stanowili trzon obu armii przez całą wojnę.",
+  "shortEn": "African soldiers of the colonial forces, above all the German Schutztruppe and the British King's African Rifles. In East Africa they formed the core of both armies throughout the war.",
+  "long": [
+   "Słowo askari w suahili i arabskim znaczy „żołnierz”. W Niemieckiej Afryce Wschodniej askarysów werbowano od lat 90. XIX wieku; służyli w kompaniach polowych pod niemieckimi oficerami i podoficerami, a z rodzinami, tragarzami i służbą tworzyli wędrowne obozy. W sierpniu 1914 roku Schutztruppe miała około 2,5 tysiąca askarysów, a w 1916 roku, według różnych opracowań, około 14–18 tysięcy ludzi, w ogromnej większości Afrykanów. Askarysami nazywano też żołnierzy brytyjskich King's African Rifles: z trzech batalionów i około 2,3 tysiąca Afrykanów w 1914 roku urosły one do 22 batalionów i ponad 30 tysięcy żołnierzy w 1918 roku.",
+   "Askarysi Lettow-Vorbecka przez cztery lata prowadzili wojnę manewrową w Niemieckiej Afryce Wschodniej, Mozambiku i Rodezji. Ubywało ich w walkach, przez choroby, niewolę i dezercje; gdy 25 listopada 1918 roku pod Abercorn oddział złożył broń, liczył 1168 askarysów i około 155 Europejczyków. Jeszcze większe straty poniosła ludność cywilna i tragarze, których po stronie brytyjskiej zmarło według szacunków około 90–95 tysięcy. W Niemczech z „wiernych askarysów” zrobiono potem kolonialną legendę."
+  ],
+  "longEn": [
+   "The word askari means \"soldier\" in Swahili and Arabic. In German East Africa askaris were recruited from the 1890s; they served in field companies under German officers and NCOs, and with their families, porters and servants formed travelling camps. In August 1914 the Schutztruppe had about 2,500 askaris, and in 1916, according to various studies, some 14,000–18,000 men, the great majority of them Africans. Soldiers of the British King's African Rifles were also called askaris: from three battalions and about 2,300 Africans in 1914 they grew to 22 battalions and more than 30,000 men in 1918.",
+   "Lettow-Vorbeck's askaris waged a war of manoeuvre for four years in German East Africa, Mozambique and Rhodesia. Their numbers fell through fighting, disease, capture and desertion; when the force laid down its arms at Abercorn on 25 November 1918 it counted 1,168 askaris and about 155 Europeans. Civilians and porters suffered even more: on the British side alone an estimated 90,000–95,000 porters died. In Germany the \"loyal askaris\" later became a colonial legend."
+  ],
+  "see": [
+   "bitwy/kampania-wschodnioafrykanska",
+   "kapitulacja-lettow-vorbecka",
+   "poczatek-dzialan-wojennych-w-afryce-wschodniej",
+   "bitwy/bitwa-pod-tanga",
+   "postacie/paul-von-lettow-vorbeck"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Askari",
+   "https://en.wikipedia.org/wiki/King%27s_African_Rifles",
+   "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_I)",
+   "https://www.westernfrontassociation.com/world-war-i-articles/november-1918-in-east-africa/"
+  ]
+ },
+ {
+  "slug": "schutztruppe",
+  "slugEn": "schutztruppe",
+  "term": "Schutztruppe",
+  "termEn": "Schutztruppe",
+  "category": "wojsko",
+  "pattern": "Schutztrupp\\w*",
+  "patternEn": "Schutztrupp\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niemieckie wojska kolonialne w Afryce, złożone z niemieckich oficerów i w większości afrykańskich żołnierzy. W latach 1914–1918 broniły kolonii, najdłużej w Afryce Wschodniej pod Lettow-Vorbeckiem.",
+  "shortEn": "Germany's colonial troops in Africa, made up of German officers and mostly African soldiers. In 1914–1918 they defended the colonies, longest of all in East Africa under Lettow-Vorbeck.",
+  "long": [
+   "Schutztruppe („wojsko ochronne”) utworzono w Niemieckiej Afryce Wschodniej ustawą z 1891 roku, a w Kamerunie i Niemieckiej Afryce Południowo-Zachodniej w 1895 roku. Podlegały władzom kolonialnym Rzeszy, a nie armii pruskiej. We wschodniej Afryce i w Kamerunie tworzyły je kompanie polowe afrykańskich askarysów z niemieckimi oficerami i podoficerami, w Afryce Południowo-Zachodniej żołnierze niemieccy; Togo miało tylko policję. W 1914 roku wschodnioafrykańska Schutztruppe liczyła około 2,5 tysiąca askarysów i kilkuset Europejczyków, a kameruńska około 1,6–1,9 tysiąca ludzi.",
+   "W Afryce Południowo-Zachodniej Schutztruppe skapitulowała przed wojskami Związku Południowej Afryki 9 lipca 1915 roku, a z Kamerunu jej główne siły przeszły w lutym 1916 roku do neutralnej Gwinei Hiszpańskiej. Najdłużej walczyła w Afryce Wschodniej pod dowództwem Paula von Lettow-Vorbecka: uzupełniona osadnikami, marynarzami i nowymi askarysami, przez cztery lata wiązała znacznie większe siły brytyjskie, belgijskie i portugalskie. Złożyła broń dopiero 25 listopada 1918 roku pod Abercorn w Rodezji Północnej, dwa tygodnie po rozejmie w Europie."
+  ],
+  "longEn": [
+   "The Schutztruppe (\"protection force\") was set up in German East Africa by a law of 1891, and in Kamerun and German South West Africa in 1895. It came under the Reich's colonial authorities rather than the Prussian army. In East Africa and Kamerun it consisted of field companies of African askaris with German officers and NCOs, in South West Africa of German soldiers; Togo had only a police force. In 1914 the East African Schutztruppe numbered about 2,500 askaris and a few hundred Europeans, and that of Kamerun about 1,600–1,900 men.",
+   "In South West Africa the Schutztruppe surrendered to the forces of the Union of South Africa on 9 July 1915, and in February 1916 its main body in Kamerun crossed into neutral Spanish Guinea. It fought longest in East Africa under Paul von Lettow-Vorbeck: reinforced with settlers, sailors and new askaris, for four years it tied down much larger British, Belgian and Portuguese forces. It laid down its arms only on 25 November 1918 at Abercorn in Northern Rhodesia, two weeks after the armistice in Europe."
+  ],
+  "see": [
+   "kapitulacja-lettow-vorbecka",
+   "kapitulacja-niemieckiej-afryki-poludniowo-zachodniej",
+   "niemcy-przechodza-do-gwinei-hiszpanskiej",
+   "bitwy/kampania-wschodnioafrykanska",
+   "postacie/paul-von-lettow-vorbeck",
+   "postacie/heinrich-schnee"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schutztruppe",
+   "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_I)",
+   "https://www.westernfrontassociation.com/world-war-i-articles/november-1918-in-east-africa/"
+  ]
+ },
+ {
+  "slug": "kozacy",
+  "slugEn": "cossacks",
+  "term": "Kozacy",
+  "termEn": "Cossacks",
+  "category": "wojsko",
+  "pattern": "\\b[Kk]oza[ck]\\w*",
+  "patternEn": "\\bCossacks?\\b(?!\\*)",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wspólnoty wojskowe z pogranicza Rosji, służące w zamian za ziemię. W I wojnie światowej dawały carskiej armii setki sotni konnicy, a w latach 1917–1918 stały się ważną siłą antybolszewicką.",
+  "shortEn": "Military communities from Russia's borderlands that served in return for land. In the First World War they gave the Tsar's army hundreds of cavalry squadrons, and in 1917–1918 became a major anti-Bolshevik force.",
+  "long": [
+   "Kozacy wywodzili się ze zbiegłych chłopów i wolnych ludzi, którzy od XV–XVI wieku osiedlali się na stepowym pograniczu, nad Dnieprem, Donem i Jaikiem. W Imperium Rosyjskim tworzyli odrębny stan, podzielony na wojska kozackie, od Dońskiego, Kubańskiego i Terskiego po Amurskie i Ussuryjskie. Ziemię dostawali w zamian za obowiązkową służbę: każdy Kozak stawał z własnym koniem, mundurem i bronią białą, karabin dawało państwo. W 1914 roku wystawili kilkaset sotni konnicy, a do 1916 roku około 160 pułków.",
+   "Na froncie Kozacy prowadzili rozpoznanie, osłaniali skrzydła i ścigali przeciwnika, a w Persji i na Kaukazie byli główną siłą rosyjskiej konnicy; osobną formacją była Perska Brygada Kozacka szacha. Władze używały ich też do tłumienia rozruchów, ale w lutym 1917 roku Kozacy w Piotrogrodzie przestali bronić caratu. Po przewrocie bolszewickim atamani Kozaków dońskich, Aleksiej Kaledin, a potem Piotr Krasnow, stanęli na czele oporu, a w 1918 roku nad Donem i Kubaniem powstały kozackie państwa. Władza radziecka zniosła stan kozacki, a w 1919 roku rozpoczęła represje zwane rozkozaczaniem."
+  ],
+  "longEn": [
+   "The Cossacks descended from runaway peasants and free men who from the 15th–16th centuries settled on the steppe frontier, along the Dnieper, the Don and the Yaik. In the Russian Empire they formed a separate estate divided into Cossack hosts, from the Don, Kuban and Terek to the Amur and Ussuri. They received land in return for compulsory service: every Cossack reported with his own horse, uniform and sword, while the state supplied the rifle. In 1914 they fielded several hundred cavalry sotnias, and by 1916 about 160 regiments.",
+   "At the front Cossacks scouted, covered the flanks and pursued the enemy, and in Persia and the Caucasus they were the main strength of the Russian cavalry; the Shah's Persian Cossack Brigade was a separate formation. They were also used against unrest, but in February 1917 the Cossacks in Petrograd stopped defending tsardom. After the Bolshevik coup the atamans of the Don Cossacks, Alexei Kaledin and then Pyotr Krasnov, led the resistance, and in 1918 Cossack states arose on the Don and the Kuban. Soviet power abolished the Cossack estate and in 1919 began the repression known as de-Cossackisation."
+  ],
+  "see": [
+   "niepodleglosc-donu",
+   "bitwa-pod-pulkowem",
+   "kozacy-lacza-sie-z-brytyjczykami-nad-tygrysem",
+   "samobojstwo-kaledina",
+   "postacie/lawr-kornilow",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cossacks",
+   "https://www.historyofwar.org/articles/weapons_cossackww1.html"
+  ]
+ },
+ {
+  "slug": "armia-wschodu",
+  "slugEn": "army-of-the-orient",
+  "term": "Armia Wschodu",
+  "termEn": "Army of the Orient",
+  "category": "wojsko",
+  "pattern": "Armi\\w* Wschodu\\b|Armée d['’]Orient",
+  "patternEn": "Arm(?:y|ies) of the Orient|Armée d['’]Orient",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Francuska armia (Armée d'Orient) wysłana jesienią 1915 roku do Salonik, trzon wielonarodowych sił Ententy na froncie macedońskim. Jej ofensywa we wrześniu 1918 roku wyprowadziła Bułgarię z wojny.",
+  "shortEn": "The French army (Armée d'Orient) sent to Salonika in autumn 1915, the core of the Entente's multinational forces on the Macedonian front. Its offensive in September 1918 knocked Bulgaria out of the war.",
+  "long": [
+   "Armię Wschodu utworzono jesienią 1915 roku z dywizji spod Gallipoli i z Francji; od 5 października jej oddziały lądowały w Salonikach, by pomóc Serbii. Dowodził nią generał Maurice Sarrail, który w styczniu 1916 roku objął też dowództwo nad Brytyjczykami w Salonikach, a od sierpnia 1916 roku był głównodowodzącym Armii Sprzymierzonych na Wschodzie (Armées alliées en Orient). Należały do nich wojska francuskie, brytyjskie, serbskie, włoskie, rosyjskie, a od 1917 roku greckie, w 1916 roku około 400 tysięcy żołnierzy. Francuską armią dowodzili odtąd osobni generałowie, m.in. Paul Grossetti i Paul Henrys.",
+   "Przez prawie trzy lata front w Macedonii prawie się nie ruszał, a największym wrogiem była malaria: od czerwca do grudnia 1916 roku zachorowała na nią ponad połowa żołnierzy francuskich. Po Sarrailu dowodzili Adolphe Guillaumat (od grudnia 1917 roku) i Louis Franchet d'Espèrey (od czerwca 1918 roku), który 15 września 1918 roku przełamał front pod Dobrym Polem. Bułgaria podpisała rozejm 29 września. Według francuskiego ministerstwa obrony w Armii Wschodu walczyło blisko 300 tysięcy Francuzów, z których ponad 50 tysięcy nie wróciło."
+  ],
+  "longEn": [
+   "The Army of the Orient was formed in autumn 1915 from divisions brought from Gallipoli and from France; from 5 October its units landed at Salonika to help Serbia. It was commanded by General Maurice Sarrail, who in January 1916 also took command of the British at Salonika and from August 1916 was commander-in-chief of the Allied Armies of the Orient (Armées alliées en Orient). These comprised French, British, Serbian, Italian, Russian and, from 1917, Greek troops, about 400,000 men in 1916. The French army itself was from then on led by separate generals, among them Paul Grossetti and Paul Henrys.",
+   "For almost three years the Macedonian front hardly moved, and the worst enemy was malaria: from June to December 1916 more than half of the French soldiers caught it. After Sarrail came Adolphe Guillaumat (from December 1917) and Louis Franchet d'Espèrey (from June 1918), who on 15 September 1918 broke through the front at Dobro Pole. Bulgaria signed an armistice on 29 September. According to the French defence ministry, nearly 300,000 Frenchmen fought in the Army of the Orient, and more than 50,000 of them did not return."
+  ],
+  "see": [
+   "ladowanie-ententy-w-salonikach",
+   "sarrail-dowodca-wszystkich-wojsk-ententy-w-salonikach",
+   "odwolanie-sarraila",
+   "bitwy/ofensywa-nad-wardarem",
+   "postacie/maurice-sarrail",
+   "postacie/louis-franchet-d-esperey"
+  ],
+  "sources": [
+   "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/premiere-guerre-mondiale/combattre-combats/fronts-2",
+   "https://www.pasteur.fr/fr/journal-recherche/actualites/pasteuriens-grande-guerre-paludisme-armee-orient",
+   "https://en.wikipedia.org/wiki/Allied_Army_of_the_Orient"
+  ]
+ },
+ {
+  "slug": "kawaleria-wielbladzia",
+  "slugEn": "camel-troops",
+  "term": "Kawaleria wielbłądzia",
+  "termEn": "Camel troops",
+  "category": "wojsko",
+  "pattern": "Brygad\\w* Wielbłądzi\\w*|Korpus\\w* Wielbłądzi\\w*|[Kk]awaleri\\w* wielbłądzi\\w*|(?:kawaleri\\w*|pułk\\w*|oddzia\\w*|jednostk\\w*|kompani\\w*|żołnierz\\w*|jeźdźc\\w*) na wielbłądach",
+  "patternEn": "Camel Corps|camel (?:troops|cavalry|regiments?|units|riders)|\\bcameliers\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Oddziały jeżdżące na wielbłądach, używane na pustyniach Egiptu, Synaju, Palestyny, Arabii i Sudanu. Najsłynniejsza była brytyjska Imperialna Brygada Wielbłądzia, ale wielbłądników mieli też Turcy i Arabowie.",
+  "shortEn": "Units mounted on camels, used in the deserts of Egypt, Sinai, Palestine, Arabia and the Sudan. The best known was the British Imperial Camel Corps Brigade, but the Turks and Arabs had camel troops too.",
+  "long": [
+   "Wielbłąd unosił około 145 kilogramów i mógł iść kilka dni bez wody, więc na pustyni sprawdzał się lepiej niż koń. Żołnierze na wielbłądach walczyli zwykle pieszo, jak piechota konna. W styczniu 1916 roku Brytyjczycy utworzyli w Egipcie pierwsze kompanie wielbłądzie z Australijczyków, którzy wrócili z Gallipoli, do walki z bractwem Sanusijja na Pustyni Zachodniej. 19 grudnia 1916 roku powstała z nich Imperialna Brygada Wielbłądzia: bataliony brytyjski, nowozelandzki i dwa australijskie, od 3 do ponad 4 tysięcy ludzi i blisko 4 tysiące wielbłądów. Walczyła pod Magdhabą, Gazą, Beer Szewą i Ammanem.",
+   "Wcześniej istniały już Korpus Wielbłądzi armii egipskiej, który w 1916 roku walczył w Darfurze, i Korpus Wielbłądzi z indyjskiego księstwa Bikaner, który w 1915 roku bronił Kanału Sueskiego. Pułki na wielbłądach mieli też Turcy, na Synaju i w Mezopotamii, a arabscy jeźdźcy na wielbłądach zdobyli w 1917 roku Akabę. W czerwcu 1918 roku, gdy front przeniósł się w góry i doliny Palestyny, Australijczyków z brygady przesadzono na konie i utworzono z nich pułki lekkiej konnicy; ostatnie kompanie brytyjskie rozwiązano w 1919 roku."
+  ],
+  "longEn": [
+   "A camel could carry about 145 kilograms and go several days without water, so in the desert it did better than a horse. Camel troops usually fought on foot, like mounted infantry. In January 1916 the British raised the first camel companies in Egypt from Australians back from Gallipoli, to fight the Senussi in the Western Desert. On 19 December 1916 they were formed into the Imperial Camel Corps Brigade: a British, a New Zealand and two Australian battalions, between 3,000 and over 4,000 men according to different figures, and nearly 4,000 camels. It fought at Magdhaba, Rafah, Gaza, Beersheba and Amman.",
+   "Before it there were already the Egyptian Army's Camel Corps, which fought in Darfur in 1916, and the Camel Corps of the Indian princely state of Bikaner, which defended the Suez Canal in 1915. The Turks also had camel regiments, in Sinai and in Mesopotamia, and Arab camel riders took Aqaba in 1917. In June 1918, when the front moved into the hills and valleys of Palestine, the brigade's Australians were put on horses and formed into light horse regiments; the last British companies were disbanded in 1919."
+  ],
+  "see": [
+   "poczatek-walk-w-oazie-dachla",
+   "potyczka-pod-magdhaba",
+   "wojska-sudanskie-wkraczaja-do-darfuru",
+   "arabowie-zdobywaja-akabe",
+   "bitwy/kampania-synajsko-palestynska"
+  ],
+  "sources": [
+   "https://www.awm.gov.au/learn/schools/resources/1916/imperial-camel-corps",
+   "https://en.wikipedia.org/wiki/Imperial_Camel_Corps",
+   "https://en.wikipedia.org/wiki/Bikaner_Camel_Corps"
+  ]
+ },
+ {
+  "slug": "yildirim",
+  "slugEn": "yildirim-army-group",
+  "term": "Yıldırım",
+  "termEn": "Yıldırım Army Group",
+  "category": "wojsko",
+  "pattern": "Y[ıi]ld[ıi]r[ıi]m",
+  "patternEn": "Y[ıi]ld[ıi]r[ıi]m",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Osmańsko-niemiecka grupa armii („Błyskawica”, niem. Heeresgruppe F) utworzona w 1917 roku, by odbić Bagdad. Skierowana do Palestyny, broniła jej przed Allenbym i została rozbita pod Megiddo w 1918 roku.",
+  "shortEn": "The Ottoman-German army group (\"Lightning\", German Heeresgruppe F) formed in 1917 to retake Baghdad. Sent to Palestine instead, it defended it against Allenby and was destroyed at Megiddo in 1918.",
+  "long": [
+   "Po utracie Bagdadu w marcu 1917 roku Enver Pasza postanowił go odzyskać z pomocą Niemiec. Na naradzie w Aleppo w czerwcu 1917 roku ustalono, że nowa 7 Armia ruszy wzdłuż Eufratu, a wesprze ją niemiecki Korpus Azjatycki, przez Turków zwany „Pasza II”: tylko trzy bataliony piechoty, ale dużo artylerii, karabinów maszynowych, moździerzy, samolotów i samochodów. Dowództwo grupy objął latem 1917 roku Erich von Falkenhayn. Nazwa Yıldırım, „Błyskawica”, była przydomkiem sułtana Bajazyda I. Falkenhayn uznał, że większe niebezpieczeństwo grozi w Palestynie, i we wrześniu wymógł przerzucenie tam 7 Armii.",
+   "Jesienią 1917 roku grupa straciła Beer Szewę i Gazę, a w grudniu Jerozolimę. W lutym 1918 roku odwołano Falkenhayna, a dowództwo objął Otto Liman von Sanders; datę podaje się różnie, od 24 lutego do 1 marca. We wrześniu 1918 roku jej 4, 7 i 8 Armia zostały rozbite pod Megiddo. 31 października resztki przejął Mustafa Kemal, a po rozejmie w Mudros grupę rozwiązano 7 listopada 1918 roku."
+  ],
+  "longEn": [
+   "After losing Baghdad in March 1917, Enver Pasha decided to retake it with German help. At a conference in Aleppo in June 1917 it was agreed that a new Seventh Army would advance along the Euphrates, supported by the German Asia Corps, which the Turks called \"Pasha II\": only three infantry battalions, but plenty of artillery, machine guns, mortars, aircraft and motor transport. Erich von Falkenhayn took command of the group in the summer of 1917. The name Yıldırım, \"Lightning\", had been the nickname of Sultan Bayezid I. Falkenhayn concluded that the greater danger lay in Palestine, and in September obtained the transfer of the Seventh Army there.",
+   "In the autumn of 1917 the group lost Beersheba and Gaza, and in December Jerusalem. In February 1918 Falkenhayn was recalled and Otto Liman von Sanders took command; the date is given variously, from 24 February to 1 March. In September 1918 its Fourth, Seventh and Eighth Armies were destroyed at Megiddo. On 31 October Mustafa Kemal took over what was left, and after the Armistice of Mudros the group was dissolved on 7 November 1918."
+  ],
+  "see": [
+   "bitwy/kampania-synajsko-palestynska",
+   "poczatek-trzeciej-bitwy-o-gaze",
+   "bitwy/bitwa-pod-megiddo",
+   "postacie/erich-von-falkenhayn",
+   "postacie/otto-liman-von-sanders"
+  ],
+  "sources": [
+   "https://archive.org/details/historyofgreatwa0000unse_z8h9",
+   "https://en.wikipedia.org/wiki/Yildirim_Army_Group",
+   "https://tr.wikipedia.org/wiki/Yıldırım_Orduları_Grubu",
+   "https://en.wikipedia.org/wiki/Asia_Corps"
+  ]
+ },
+ {
+  "slug": "krzyz-wiktorii",
+  "slugEn": "victoria-cross",
+  "term": "Krzyż Wiktorii",
+  "termEn": "Victoria Cross",
+  "category": "wojsko",
+  "pattern": "Krzyż\\w* Wiktorii|Victoria Cross",
+  "patternEn": "Victoria Cross\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Najwyższe brytyjskie odznaczenie za odwagę w obliczu nieprzyjaciela, ustanowione w 1856 roku. W I wojnie światowej przyznano je ponad 600 razy żołnierzom z całego Imperium Brytyjskiego.",
+  "shortEn": "Britain's highest award for gallantry in the face of the enemy, instituted in 1856. In the First World War it was awarded more than 600 times to servicemen from across the British Empire.",
+  "long": [
+   "Królowa Wiktoria ustanowiła Krzyż Wiktorii 29 stycznia 1856 roku, z mocą wsteczną od 1854 roku, za czyny z wojny krymskiej. Brązowy krzyż z napisem „For Valour” („Za męstwo”) przysługiwał wszystkim stopniom, od szeregowca do generała, od 1867 roku także żołnierzom kolonialnym, a od 1911 roku indyjskim. Według tradycji odlewano go z brązu rosyjskich dział zdobytych pod Sewastopolem; badania wykazały jednak, że metal krzyży wykonywanych od grudnia 1914 roku pochodził z dział chińskich. Początkowo nie nadawano go pośmiertnie; zasadę zmieniono na początku XX wieku, a formalnie zapisano w statucie dopiero w 1920 roku.",
+   "Wielka wojna przyniosła najwięcej nadań w historii odznaczenia: według różnych zestawień 626 lub 628 z łącznie 1358. Około jednej czwartej przyznano pośmiertnie. Dostawali je Brytyjczycy, Kanadyjczycy, Australijczycy, Nowozelandczycy i żołnierze indyjscy, piechurzy, marynarze i lotnicy. Jeden dzień walk przynosił czasem kilka krzyży: za 2 września 1918 roku, przełamanie linii Drocourt–Quéant, otrzymało go siedmiu Kanadyjczyków. Lekarz Noel Chavasse dostał go dwukrotnie, za drugim razem pośmiertnie."
+  ],
+  "longEn": [
+   "Queen Victoria instituted the Victoria Cross on 29 January 1856, backdated to 1854 to cover deeds of the Crimean War. The bronze cross inscribed \"For Valour\" was open to all ranks, from private to general, from 1867 also to colonial troops and from 1911 to Indian soldiers. Tradition has it that it was cast from the bronze of Russian guns captured at Sevastopol; research has shown, however, that the metal of the crosses made from December 1914 came from Chinese guns. At first it was not awarded posthumously; the rule changed in the early 20th century and was formally written into the warrant only in 1920.",
+   "The Great War brought the most awards in the decoration's history: 626 or 628 out of 1,358 in all, depending on the count. About a quarter were posthumous. They went to British, Canadian, Australian, New Zealand and Indian soldiers, infantrymen, sailors and airmen. A single day of fighting sometimes brought several: seven Canadians received it for 2 September 1918, the breaking of the Drocourt–Quéant Line. The doctor Noel Chavasse won it twice, the second time posthumously."
+  ],
+  "see": [
+   "przelamanie-linii-drocourt-queant",
+   "bitwy/bitwa-o-linie-drocourt-queant",
+   "kanadyjczycy-zdobywaja-passchendaele",
+   "brytyjczycy-zdobywaja-wzgorze-60"
+  ],
+  "sources": [
+   "https://www.nam.ac.uk/explore/victoria-cross",
+   "https://en.wikipedia.org/wiki/Victoria_Cross"
+  ]
+ },
+ {
+  "slug": "pour-le-merite",
+  "slugEn": "pour-le-merite",
+  "term": "Pour le Mérite",
+  "termEn": "Pour le Mérite",
+  "category": "wojsko",
+  "pattern": "Pour le Mérite",
+  "patternEn": "Pour le Mérite|Blue Max",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Najwyższy pruski order wojskowy, nadawany wyłącznie oficerom. W I wojnie światowej dostawali go dowódcy za zwycięstwa, a także lotnicy i dowódcy okrętów podwodnych; nazywano go „Niebieskim Maksem”.",
+  "shortEn": "Prussia's highest military order, awarded only to officers. In the First World War it went to commanders for victories and also to airmen and U-boat captains; it was nicknamed the \"Blue Max\".",
+  "long": [
+   "Order ustanowił w 1740 roku król pruski Fryderyk II, nadając mu francuską nazwę „Za zasługę”. Wcześniej otrzymywali go także cywile, ale od 1810 roku przyznawano go tylko oficerom za zasługi wojenne, a w 1813 roku dodano wyższy stopień, liście dębu. W 1842 roku Fryderyk Wilhelm IV utworzył osobną klasę pokojową dla uczonych i artystów, której pierwszym kanclerzem był Alexander von Humboldt; istnieje ona do dziś. Order wojskowy, emaliowany na niebiesko krzyż noszony na szyi, był najbardziej pożądanym odznaczeniem armii pruskiej i cesarskiej marynarki.",
+   "W sierpniu 1914 roku jako jedni z pierwszych dostali go Erich Ludendorff i Otto von Emmich za zdobycie Liège. Ponad jedną trzecią wojennych nadań otrzymali generałowie i admirałowie, a około jednej czwartej młodsi oficerowie, wśród nich dowódcy U-Bootów, sterowców i lotnicy. 12 stycznia 1916 roku jako pierwsi lotnicy dostali go Oswald Boelcke i Max Immelmann, od którego imienia wziął się przydomek orderu. Nadawano go też oficerom państw sojuszniczych, np. Bułgarowi Nikole Żekowowi. Z upadkiem monarchii w listopadzie 1918 roku przestano go przyznawać."
+  ],
+  "longEn": [
+   "The order was founded in 1740 by King Frederick II of Prussia, who gave it the French name \"For Merit\". Civilians had also received it, but from 1810 it was awarded only to officers for war service, and in 1813 a higher grade, the oak leaves, was added. In 1842 Frederick William IV created a separate peace class for scholars and artists, whose first chancellor was Alexander von Humboldt; it still exists today. The military order, a blue-enamelled cross worn at the neck, was the most coveted decoration of the Prussian army and the Imperial Navy.",
+   "In August 1914 Erich Ludendorff and Otto von Emmich were among the first to receive it, for the capture of Liège. More than a third of the wartime awards went to generals and admirals, and about a quarter to junior officers, among them U-boat and airship commanders and airmen. On 12 January 1916 Oswald Boelcke and Max Immelmann became the first airmen to receive it, and Immelmann's first name gave the order its nickname. It was also awarded to officers of allied states, such as the Bulgarian Nikola Zhekov. With the fall of the monarchy in November 1918 it ceased to be awarded."
+  ],
+  "see": [
+   "smierc-maxa-immelmanna",
+   "wojska-niemieckie-zajmuja-liege",
+   "postacie/oswald-boelcke",
+   "postacie/manfred-von-richthofen"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pour_le_M%C3%A9rite",
+   "https://de.wikipedia.org/wiki/Pour_le_Mérite",
+   "https://www.orden-pourlemerite.de/"
+  ]
+ },
+ {
+  "slug": "wojna-minowa",
+  "slugEn": "tunnel-warfare",
+  "term": "Wojna minowa",
+  "termEn": "Tunnel warfare",
+  "category": "wojsko",
+  "pattern": "\\bpodkop(?:y|ów|ami|ach|om)?\\b|\\bpodkop\\w* się\\b|\\btunelarz\\w*|[Kk]ompani\\w* [Tt]unelow\\w*|sztoln\\w* minow\\w*|pod \\w+ sztoln\\w*|chodnik\\w* (?:minow|przeciwminow)\\w*|\\b(?:walk|wojn|prac)\\w* minersk\\w*|podziemn\\w* wojn\\w* minow\\w*|wojn\\w* minow\\w* pod ziemią|\\bmin(?:a|y|ę|ą|ie|ami|ach|om)?\\b (?:\\w+ )?pod (?:\\w+ )?(?:okop|pozycj)\\w*|\\bmin(?:a|y|ę|ą|ie|ami|ach|om)?\\b podłożon\\w*|\\bpodkładan\\w* min\\b|\\bpodkładano min\\w*|\\blej\\w* po min\\w*|\\bkrater\\w* (?:po )?min\\w*",
+  "patternEn": "\\btunnell?ers\\b|[Tt]unnell?ing [Cc]ompan\\w*|underground mine warfare|mine war underground|(?:counter)?mine galler\\w*|mine craters?|mine shafts|\\bmines? (?:laid |dug )?(?:in tunnels )?under (?:the )?\\w+(?:'s)? (?:trenches|lines?|positions)|blew (?:the )?mines|fired (?:\\w+ )?mines? under|digging mines|sapping towards|sap its way towards",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Drążenie tuneli pod pozycje przeciwnika, by wysadzić je ogromnymi ładunkami wybuchowymi, i podziemna walka z jego minerami. Najsłynniejsze miny wybuchły pod Messines, nad Sommą i na Col di Lana.",
+  "shortEn": "Digging tunnels under enemy positions to blow them up with huge explosive charges, and fighting the enemy's miners underground. The best-known mines went off at Messines, on the Somme and on Col di Lana.",
+  "long": [
+   "Podkopy znano z dawnych oblężeń twierdz, a na froncie zachodnim wróciły, gdy wojna zamieniła się w oblężenie wzdłuż linii okopów. Pierwsi miny pod okopy przeciwnika podłożyli Niemcy jesienią 1914 roku; 20 grudnia wysadzili dziesięć pod Festubert. W lutym 1915 roku Brytyjczycy, z inicjatywy posła i przedsiębiorcy Johna Nortona-Griffithsa, zaczęli tworzyć kompanie tunelowe Royal Engineers z zawodowych górników; w połowie 1916 roku było ich 25 brytyjskich i siedem z dominiów, w szczytowym okresie około 25 tysięcy ludzi. Obie strony drążyły chodniki, komory minowe i kontrminy i nasłuchiwały pod ziemią przeciwnika.",
+   "Największe miny odpalano na początku wielkich natarć: 1 lipca 1916 roku nad Sommą, w tym Lochnagar pod La Boisselle, i 7 czerwca 1917 roku pod Messines, gdzie 19 min z około 450 tonami amonalu zabiło według szacunków około 10 tysięcy Niemców. Pod wzgórzem Vauquois Francuzi i Niemcy odpalili ponad 500 min, a w Dolomitach Włosi i Austriacy wysadzali szczyty, jak Col di Lana w kwietniu 1916 roku. Od drugiej połowy 1917 roku miny traciły znaczenie, a tunelarze budowali głównie schrony."
+  ],
+  "longEn": [
+   "Mining was known from the sieges of old, and on the Western Front it returned when the war turned into a siege along the trench lines. The Germans were the first to lay mines under enemy trenches, in the autumn of 1914; on 20 December they blew ten at Festubert. In February 1915 the British, at the urging of the MP and contractor John Norton-Griffiths, began forming Royal Engineers tunnelling companies from professional miners; by mid-1916 there were 25 British and seven Dominion companies, at their peak about 25,000 men. Both sides dug galleries, mine chambers and countermines and listened for the enemy underground.",
+   "The largest mines were fired at the start of great offensives: on 1 July 1916 on the Somme, among them Lochnagar at La Boisselle, and on 7 June 1917 at Messines, where 19 mines with about 450 tons of ammonal killed an estimated 10,000 Germans. Under the hill of Vauquois the French and Germans fired more than 500 mines, and in the Dolomites Italians and Austrians blew up mountain tops, such as Col di Lana in April 1916. From the second half of 1917 mines lost their importance, and the tunnellers mostly built dugouts."
+  ],
+  "see": [
+   "bitwy/bitwa-pod-messines-1917",
+   "wybuch-miny-lochnagar",
+   "bitwy/walki-o-wzgorze-60",
+   "bitwy/walki-o-col-di-lana",
+   "postacie/herbert-plumer",
+   "tematy/zycie-w-okopach"
+  ],
+  "sources": [
+   "https://www.lochnagarcrater.org/history/military-mining/",
+   "https://www.nam.ac.uk/explore/weapons-western-front",
+   "https://en.wikipedia.org/wiki/Mining_(military)",
+   "https://en.wikipedia.org/wiki/Battle_of_Messines_(1917)"
+  ]
+ },
+ {
+  "slug": "zasieki",
+  "slugEn": "barbed-wire",
+  "term": "Zasieki",
+  "termEn": "Barbed wire",
+  "category": "wojsko",
+  "pattern": "\\b[Zz]asiek\\w*|[Dd]rut\\w* kolczast\\w*",
+  "patternEn": "[Bb]arbed[- ]wire\\b|wire entanglements?|\\bentanglements\\b|(?:uncut|intact|German) wire\\b|belts of wire\\b|through the wire\\b|trenches and wire\\b|\\b(?:cut|cutting|destroy|destroyed|flattened) the wire\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Pasy drutu kolczastego na palikach przed okopami, które zatrzymywały atakującą piechotę pod ogniem obrońców. Ich przecięcie było jednym z głównych zadań artylerii, a od 1916 roku także czołgów.",
+  "shortEn": "Belts of barbed wire on stakes in front of the trenches, which held up attacking infantry under the defenders' fire. Cutting them was a main task of the artillery and, from 1916, of tanks.",
+  "long": [
+   "Drut kolczasty opatentował w 1874 roku Amerykanin Joseph Glidden; jako przeszkoda wojskowa dał się poznać m.in. w oblężeniu Port Artur w 1904 roku, gdzie artyleria z trudem go niszczyła. W wojnie pozycyjnej zasieki stały przed każdą linią okopów, w pasach głębokich na kilka, a miejscami na kilkanaście metrów. Ustawiano je tak, by kierowały atakujących pod ogień karabinów maszynowych, i dość daleko od okopu, by przeciwnik nie mógł z nich rzucić do niego granatem. Stawiały je i naprawiały nocą grupy na ziemi niczyjej, z czasem na wkręcanych stalowych palikach, które nie wymagały hałaśliwego wbijania.",
+   "Zasieki były tanie, łatwe do naprawy i odporne na ostrzał: pociski często tylko przerzucały drut z miejsca na miejsce. Nieprzecięte zasieki zatrzymały wiele natarć, m.in. brytyjskie 1 lipca 1916 roku nad Sommą. Artyleria uczyła się je niszczyć, w czym pomogły zapalniki wybuchające przy zetknięciu z ziemią, a saperzy używali nożyc i wydłużonych ładunków wybuchowych. Najskuteczniej pasy drutu przełamywały czołgi, które miażdżyły je gąsienicami, jak pod Cambrai w 1917 roku i pod Amiens w 1918 roku."
+  ],
+  "longEn": [
+   "Barbed wire was patented in 1874 by the American Joseph Glidden; as a military obstacle it made its name among other places in the siege of Port Arthur in 1904, where artillery struggled to destroy it. In trench warfare entanglements stood in front of every trench line, in belts several and in places more than ten metres deep. They were laid so as to channel attackers into machine-gun fire, and far enough from the trench that the enemy could not throw grenades into it from the wire. They were put up and repaired at night by parties in no man's land, in time on screw pickets that needed no noisy hammering.",
+   "Wire was cheap, easy to repair and resistant to shelling: shells often just tossed it from place to place. Uncut wire stopped many attacks, among them the British one on 1 July 1916 on the Somme. The artillery learned to destroy it, helped by fuzes that burst on contact with the ground, and engineers used wire cutters and elongated explosive charges. Tanks were the most effective at breaking through, crushing the wire under their tracks, as at Cambrai in 1917 and at Amiens in 1918."
+  ],
+  "see": [
+   "tematy/zycie-w-okopach",
+   "pierwszy-dzien-bitwy-nad-somma",
+   "bitwy/bitwa-pod-cambrai-1917",
+   "bitwy/bitwa-pod-amiens",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://www.nam.ac.uk/explore/weapons-western-front",
+   "https://en.wikipedia.org/wiki/Barbed_wire",
+   "https://en.wikipedia.org/wiki/Minenwerfer"
+  ]
+ },
+ {
+  "slug": "mozdzierz-okopowy",
+  "slugEn": "trench-mortar",
+  "term": "Moździerz okopowy",
+  "termEn": "Trench mortar",
+  "category": "bron",
+  "pattern": "moździerz\\w*\\]? okopow\\w*|moździerz\\w* \\[?Stokes\\w*|[Mm]inenwerfer\\w*|\\bmiotacz\\w* min\\b|\\bbombomiotacz\\w*",
+  "patternEn": "[Tt]rench[- ]mortars?|\\[?Stokes\\]? mortars?|[Mm]inenwerfer\\w*|\\bmine[- ]throwers?",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Lekkie działo o krótkiej lufie, strzelające stromo z okopu na krótki dystans. Niemcy nazywali je Minenwerfer, Brytyjczycy używali moździerzy Stokesa; w wojnie pozycyjnej miała je każda dywizja.",
+  "shortEn": "A light, short-barrelled gun firing at a steep angle from a trench over a short range. The Germans called it the Minenwerfer, the British used the Stokes mortar; in trench warfare every division had them.",
+  "long": [
+   "Niemcy, po doświadczeniach oblężenia Port Artur, gdzie ciężka artyleria nie radziła sobie z zasiekami i schronami, od 1907 roku przygotowywali z firmą Rheinmetall krótkolufowe moździerze dla saperów. W 1914 roku armia niemiecka miała 160 minenwerferów, ciężkich kalibru 25 cm i średnich 17 cm, a lekki model 7,58 cm szybko wszedł do masowej produkcji. Inne armie musiały improwizować. Brytyjczyk Wilfred Stokes zaprojektował w styczniu 1915 roku prosty moździerz kalibru 81 mm: pocisk wpuszczony do lufy sam odpalał się o iglicę, a działo strzelało do 20–25 razy na minutę na odległość od około 700 metrów do ponad kilometra, zależnie od źródła.",
+   "Moździerze okopowe były lekkie i strzelały z okopu, więc nadawały się do niszczenia gniazd karabinów maszynowych, zasieków i stanowisk strzelców wyborowych na bliskim dystansie. Ich liczba rosła we wszystkich armiach: w 1918 roku Niemcy mieli blisko 16 tysięcy minenwerferów, a w Wielkiej Brytanii wyprodukowano ponad 11 tysięcy moździerzy Stokesa. Rozejm w Compiègne nakazał Niemcom wydać 3 tysiące moździerzy okopowych, a konstrukcja Stokesa stała się wzorem dla moździerzy piechoty."
+  ],
+  "longEn": [
+   "After the siege of Port Arthur, where heavy artillery struggled against barbed wire and bunkers, the Germans worked with Rheinmetall from 1907 on short-barrelled mortars for their engineers. In 1914 the German army had 160 Minenwerfer, heavy 25 cm and medium 17 cm, and a light 7.58 cm model soon went into mass production. Other armies had to improvise. The Briton Wilfred Stokes designed a simple 81 mm mortar in January 1915: a bomb dropped down the barrel fired itself on a striker, and the weapon could fire 20–25 rounds a minute at ranges from about 700 metres to over a kilometre, depending on the source.",
+   "Trench mortars were light and fired from inside the trench, so they suited the destruction of machine-gun nests, wire and sniper posts at close range. Their numbers grew in every army: in 1918 the Germans had nearly 16,000 Minenwerfer, and Britain produced more than 11,000 Stokes mortars. The Compiègne armistice required Germany to hand over 3,000 trench mortars, and the Stokes design became the model for infantry mortars."
+  ],
+  "see": [
+   "bitwy/bitwa-o-ryge",
+   "bitwy/druga-bitwa-w-szampanii",
+   "pierwszy-dzien-bitwy-nad-somma",
+   "rozejm-w-compiegne",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Minenwerfer",
+   "https://en.wikipedia.org/wiki/Stokes_mortar",
+   "https://www.nam.ac.uk/explore/weapons-western-front"
   ]
  }
 ]

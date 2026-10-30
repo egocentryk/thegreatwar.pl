@@ -12,6 +12,7 @@ the briefs given to the writers who produce it are in `scripts/briefs/`.
 | `series.py` | reading series: every note backed by a verbatim quote from its own article, steps exist in both languages and are in date order; builds `src/data/series.ts` | `python3 -I scripts/checks/series.py . scripts/evidence/series/<slug>.json` (add `--build src/data/series.ts` and every file in display order to write) |
 | `topics.py` | topic guides: every paragraph backed by quotes (our articles verbatim, web pages listed in `sources:`), numbers in their quotes, internal links exist | `python3 -I scripts/checks/topics.py . <slug> [more…]` |
 | `expand.py` | expanded short articles: front matter unchanged except `sources`/`summary`/`brief`, minimum length, 3–12 sources (2+ not Wikipedia), pl.wikipedia-only external links, internal links only backwards in time, "W skrócie" numbers in the body | `python3 -I scripts/checks/expand.py . <slug> [bitwy/<slug>] [more…]` |
+| `glossary.py` | new glossary terms: fields, lengths, 2–6 sources (1+ not Wikipedia), related pages exist, patterns compile and match ≥ 3 pages per language (prints samples to spot false positives); `--merge` appends them to `src/data/glossary.json` | `python3 -I scripts/checks/glossary.py . scripts/evidence/glossary/*.json [--merge]` |
 | `war-numbers.py` | "Wojna w liczbach": every row ≥ 2 sources, one not Wikipedia, low ≤ high; merges the parts into `src/data/war-numbers.json` | `python3 -I scripts/checks/war-numbers.py [--write]` |
 
 Other tools in `scripts/` change content rather than check it:

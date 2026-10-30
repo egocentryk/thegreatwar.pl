@@ -1,0 +1,403 @@
+[
+ {
+  "slug": "akt-5-listopada",
+  "slugEn": "act-of-5-november",
+  "term": "Akt 5 listopada",
+  "termEn": "Act of 5 November",
+  "category": "sprawa-polska",
+  "pattern": "[Aa]kt\\w* 5 listopada|[Aa]kt\\w* dwóch cesarzy|[Mm]anifest\\w* dwóch cesarzy",
+  "patternEn": "Act of 5 November|Two Emperors['’] (?:Act|Manifesto)",
+  "short": "Manifest cesarzy Niemiec i Austro-Węgier z 5 listopada 1916 roku, zapowiadający Królestwo Polskie z ziem zabranych Rosji, bez króla, rządu i granic. Miał przede wszystkim dać państwom centralnym polskiego rekruta.",
+  "shortEn": "The proclamation by the emperors of Germany and Austria-Hungary of 5 November 1916 announcing a Kingdom of Poland on lands taken from Russia, with no king, government or borders, chiefly to win Polish recruits.",
+  "long": [
+   "Akt, zwany też aktem dwóch cesarzy, ogłosili jednocześnie w Warszawie i Lublinie generał-gubernatorzy Hans von Beseler i Karl Kuk. Królestwo miało być państwem „samodzielnym”, a nie niepodległym, z dziedziczną monarchią i konstytucją, związanym z obu mocarstwami; granice i władze odłożono na później. Decyzję wymusił po stratach 1916 roku Ludendorff, który według części opracowań liczył na 350 tysięcy polskich żołnierzy. Ogłoszony 9 listopada zaciąg ochotniczy, zanim powstał jakikolwiek polski rząd, dał zaledwie kilka tysięcy ludzi.",
+   "Rosja i jej sojusznicy zaprotestowali, ale sprawa polska przestała być wewnętrzną sprawą Rosji. W grudniu car zapowiedział wolną Polskę z trzech zaborów, a w marcu 1917 roku niepodległość Polski uznał rosyjski Rząd Tymczasowy. W Królestwie akt otworzył drogę pierwszym polskim instytucjom: Tymczasowej Radzie Stanu (styczeń 1917) i Radzie Regencyjnej (październik 1917), która w listopadzie 1918 roku przekazała władzę Piłsudskiemu."
+  ],
+  "longEn": [
+   "The act, also called the act of the two emperors, was proclaimed simultaneously in Warsaw and Lublin by the Governors-General Hans von Beseler and Karl Kuk. The Kingdom was to be a \"self-governing\" rather than an independent state, a hereditary constitutional monarchy bound to both powers; its borders and authorities were left for later. The decision was forced through after the losses of 1916 by Ludendorff, who according to some studies expected 350,000 Polish soldiers. The call for volunteers of 9 November, issued before any Polish government existed, brought in only a few thousand men.",
+   "Russia and its allies protested, but the Polish question was no longer an internal Russian affair. In December the Tsar promised a free Poland made up of all three partitions, and in March 1917 the Russian Provisional Government recognised Polish independence. In the Kingdom the act opened the way to the first Polish institutions: the Provisional Council of State (January 1917) and the Regency Council (October 1917), which handed power to Piłsudski in November 1918."
+  ],
+  "see": [
+   "akt-5-listopada",
+   "pierwsze-posiedzenie-tymczasowej-rady-stanu",
+   "patent-o-radzie-regencyjnej",
+   "rozkaz-mikolaja-ii-w-sprawie-polski",
+   "postacie/hans-von-beseler",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Akt_5_listopada",
+   "https://polishhistory.pl/the-act-of-5-november-1916-and-its-consequences/"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "zwiazek-strzelecki",
+  "slugEn": "riflemens-association",
+  "term": "Związek Strzelecki",
+  "termEn": "Riflemen's Association",
+  "category": "sprawa-polska",
+  "pattern": "[Zz]wiąz\\w* [Ss]trzeleck\\w*|[Dd]rużyn\\w* [Ss]trzeleck\\w*|Związ\\w* Walki Czynnej|oddział\\w* strzeleck\\w*",
+  "patternEn": "Riflemen['’]s Association|Rifle Squads|Union of Active Struggle|Polish rifle units",
+  "short": "Jawna organizacja paramilitarna obozu Piłsudskiego w Galicji, założona w 1910 roku jako zaplecze tajnego Związku Walki Czynnej. Jej „strzelcy” utworzyli w sierpniu 1914 roku zalążek Legionów Polskich.",
+  "shortEn": "The legal paramilitary organisation of Piłsudski's camp in Galicia, founded in 1910 as a front for the secret Union of Active Struggle. In August 1914 its Riflemen formed the nucleus of the Polish Legions.",
+  "long": [
+   "W 1908 roku we Lwowie powstał z inicjatywy Józefa Piłsudskiego konspiracyjny Związek Walki Czynnej, szkolący kadry przyszłego powstania przeciw Rosji. Korzystając z austriackich przepisów o ochotniczym szkoleniu strzeleckim, w 1910 roku utworzył on legalne przybudówki: Związek Strzelecki we Lwowie i Towarzystwo „Strzelec” w Krakowie. Komendantem głównym był Piłsudski, szefem sztabu Kazimierz Sosnkowski. Obok działały Polskie Drużyny Strzeleckie, założone w 1911 roku przez młodzież z „Zarzewia”, o tym samym programie i podobnym wyszkoleniu.",
+   "Według różnych danych Związek liczył w 1914 roku od 6,4 do 8 tysięcy wyszkolonych członków, a Drużyny około 6 tysięcy. Z nich wyszła 6 sierpnia 1914 roku Pierwsza Kompania Kadrowa, a potem I Brygada Legionów. W Królestwie Polskim warszawskie Drużyny i Związek Walki Czynnej połączyły się jesienią 1914 roku w Polską Organizację Wojskową. Słowo „strzelcy” pozostało potocznym określeniem żołnierzy Piłsudskiego."
+  ],
+  "longEn": [
+   "In 1908 the clandestine Union of Active Struggle was founded in Lwów on Józef Piłsudski's initiative to train cadres for a future rising against Russia. Using Austrian rules on voluntary rifle training, in 1910 it set up legal offshoots: the Riflemen's Association in Lwów and the \"Strzelec\" society in Kraków. Piłsudski was commandant-in-chief and Kazimierz Sosnkowski chief of staff. Alongside them worked the Polish Rifle Squads, founded in 1911 by young people of the \"Zarzewie\" movement, with the same programme and similar training.",
+   "According to various figures the Association had between 6,400 and 8,000 trained members in 1914, and the Squads about 6,000. From them came the First Cadre Company, which marched out on 6 August 1914, and then the I Brigade of the Legions. In the Kingdom of Poland the Warsaw Squads and the Union of Active Struggle merged in the autumn of 1914 into the Polish Military Organisation. \"Riflemen\" remained the common name for Piłsudski's soldiers."
+  ],
+  "see": [
+   "powstanie-polskiej-organizacji-wojskowej",
+   "austro-wegry-wypowiadaja-wojne-rosji",
+   "postacie/jozef-pilsudski",
+   "postacie/kazimierz-sosnkowski",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://dzieje.pl/aktualnosci/zwiazek-strzelecki",
+   "https://pl.wikipedia.org/wiki/Związek_Strzelecki",
+   "https://pl.wikipedia.org/wiki/Polskie_Drużyny_Strzeleckie",
+   "https://en.wikipedia.org/wiki/Union_of_Active_Struggle"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "sokol",
+  "slugEn": "polish-falcons",
+  "term": "Sokół",
+  "termEn": "Sokół (Polish Falcons)",
+  "category": "sprawa-polska",
+  "pattern": "„Sok(?:ół|oła|ole|ołem|ołu)”|[Dd]rużyn\\w* [Ss]okol\\w*",
+  "patternEn": "[\"“]Sokół[\"”]|Sokół Field Squads|Polish Falcons",
+  "short": "Polskie Towarzystwo Gimnastyczne „Sokół”, założone w 1867 roku we Lwowie. W czasie wojny jego członkowie trafiali do Legionów, ochotniczych formacji we Francji i Armii Hallera, a w 1918 roku do powstania wielkopolskiego.",
+  "shortEn": "The Polish Gymnastic Society \"Sokół\" (Falcon), founded in Lwów in 1867. In the war its members joined the Legions, the volunteer units in France and Haller's Army, and in 1918 the Greater Poland Uprising.",
+  "long": [
+   "„Sokół” powstał we Lwowie w 1867 roku na wzór czeskiego Sokoła Miroslava Tyrša. Pod hasłem gimnastyki szerzył ducha narodowego i karność, od 1884 roku działał w zaborze pruskim, a od 1905 roku także w Królestwie. Przed wojną miał ponad 800 gniazd i kilkadziesiąt tysięcy członków. Po zjeździe grunwaldzkim w 1910 roku tworzył Polowe Drużyny Sokole, szkolone wojskowo; w Galicji stał bliżej Narodowej Demokracji i rywalizował ze strzelcami Piłsudskiego.",
+   "W sierpniu 1914 roku sokoli z Małopolski poszli głównie do II Brygady Legionów, w której służył Józef Haller, a we Francji wstąpili do Legii Cudzoziemskiej. Amerykański „Sokół” od lat przygotowywał przyszłych żołnierzy i w 1917 roku otworzył szkołę oficerską; przez obóz w Niagara-on-the-Lake przeszło około 25 tysięcy ochotników, z których blisko 23 tysiące (według innych danych około 20,7 tysiąca) popłynęło do Armii Polskiej we Francji. W grudniu 1918 roku sokoli walczyli w powstaniu wielkopolskim."
+  ],
+  "longEn": [
+   "\"Sokół\" was founded in Lwów in 1867 on the model of Miroslav Tyrš's Czech Sokol. Under the banner of gymnastics it fostered national spirit and discipline, from 1884 in the Prussian partition and from 1905 also in the Kingdom of Poland. Before the war it had more than 800 branches and tens of thousands of members. After the Grunwald rally of 1910 it formed the Sokół Field Squads with military training; in Galicia it stood closer to the National Democrats and competed with Piłsudski's Riflemen.",
+   "In August 1914 the Falcons of Galicia went mainly into the II Brigade of the Legions, where Józef Haller served, and in France they joined the Foreign Legion. The American \"Sokół\" had long been preparing future soldiers and in 1917 opened an officer school; about 25,000 volunteers passed through the camp at Niagara-on-the-Lake, of whom nearly 23,000 (about 20,700 by other figures) sailed for the Polish Army in France. In December 1918 Falcons fought in the Greater Poland Uprising."
+  ],
+  "see": [
+   "dekret-o-utworzeniu-armii-polskiej-we-francji",
+   "wybuch-powstania-wielkopolskiego",
+   "postacie/jozef-haller",
+   "postacie/boleslaw-roja",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Gimnastyczne_„Sokół”",
+   "https://www.polishmuseumofamerica.org/wp-content/uploads/virtual_exhibit/vex1/"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "naczelna-rada-ludowa",
+  "slugEn": "supreme-peoples-council",
+  "term": "Naczelna Rada Ludowa",
+  "termEn": "Supreme People's Council",
+  "category": "sprawa-polska",
+  "pattern": "Naczeln\\w* Rad\\w* Ludow\\w*",
+  "patternEn": "Supreme People['’]s Council",
+  "short": "Polska władza w zaborze pruskim, ujawniona w Poznaniu w listopadzie 1918 roku. Kierowała ruchem polskim w Wielkopolsce, na Pomorzu i Śląsku, a po wybuchu powstania wielkopolskiego przejęła władzę na wyzwolonych ziemiach.",
+  "shortEn": "The Polish authority in the Prussian partition, which emerged in Poznań in November 1918. It led the Poles of Greater Poland, Pomerania and Silesia, and after the Greater Poland Uprising ruled the liberated lands.",
+  "long": [
+   "Rada wyrosła z tajnego Centralnego Komitetu Obywatelskiego, działającego w Poznaniu od 1916 roku, z przewagą Narodowej Demokracji i oparciem w Komitecie Narodowym Polskim w Paryżu. Po rewolucji w Niemczech i rozejmie ujawniła się 11 listopada 1918 roku jako Rada Ludowa, 12 listopada wyłoniła Tymczasowy Komisariat (Stanisław Adamski, Wojciech Korfanty, Adam Poszwiński), a 14 listopada przyjęła nazwę Naczelnej Rady Ludowej. W terenie tworzono powiatowe rady ludowe i Straż Ludową.",
+   "Sejm Dzielnicowy, obradujący w Poznaniu 3–5 grudnia 1918 roku, wybrał nowy skład Rady i uznał ją za zwierzchnią władzę Polaków w Niemczech. Jej przywódcy chcieli czekać na decyzję konferencji pokojowej, ale po wybuchu powstania wielkopolskiego 27 grudnia objęli kierownictwo cywilne i wojskowe na wyzwolonych ziemiach. Rada działała do sierpnia 1919 roku, gdy jej zadania przejęło Ministerstwo byłej Dzielnicy Pruskiej; na Górnym Śląsku jej podkomisariat pracował dłużej."
+  ],
+  "longEn": [
+   "The Council grew out of the secret Central Citizens' Committee, active in Poznań from 1916, dominated by the National Democrats and backed by the Polish National Committee in Paris. After the revolution in Germany and the armistice it emerged on 11 November 1918 as the People's Council, on 12 November chose a Provisional Commissariat (Stanisław Adamski, Wojciech Korfanty, Adam Poszwiński), and on 14 November took the name Supreme People's Council. Local people's councils and a People's Guard were set up in the districts.",
+   "The Provincial Sejm, meeting in Poznań on 3–5 December 1918, elected a new Council and recognised it as the supreme authority of the Poles in Germany. Its leaders wanted to wait for the peace conference, but after the Greater Poland Uprising broke out on 27 December they took civil and military control of the liberated lands. The Council lasted until August 1919, when the Ministry of the Former Prussian Partition took over its tasks; in Upper Silesia its sub-commissariat worked longer."
+  ],
+  "see": [
+   "powstanie-naczelnej-rady-ludowej",
+   "sejm-dzielnicowy-w-poznaniu",
+   "wybuch-powstania-wielkopolskiego",
+   "bitwy/powstanie-wielkopolskie",
+   "postacie/wojciech-korfanty",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Naczelna_Rada_Ludowa",
+   "https://dzieje.pl/node/97379"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "rada-polska-zjednoczenia-miedzypartyjnego",
+  "slugEn": "polish-council-of-inter-party-union",
+  "term": "Rada Polska Zjednoczenia Międzypartyjnego",
+  "termEn": "Polish Council of Inter-Party Union",
+  "category": "sprawa-polska",
+  "pattern": "Rad\\w* Polsk\\w* Zjednoczeni\\w* Międzypartyjn\\w*",
+  "patternEn": "Polish Council of Inter-?[Pp]arty Union",
+  "short": "Porozumienie polskich stronnictw narodowych i konserwatywnych w Rosji z siedzibą w Moskwie, związane z Komitetem Narodowym Polskim w Paryżu. W 1918 roku pomagało tworzyć polskie wojsko po stronie Ententy.",
+  "shortEn": "A union of Polish national and conservative parties in Russia, based in Moscow and linked to the Polish National Committee in Paris. In 1918 it helped to raise Polish troops on the Entente side.",
+  "long": [
+   "Rada powstała na Polskim Zjeździe Politycznym w Moskwie, zwołanym przez prawicę w sierpniu 1917 roku (część opracowań wiąże jej początki z 1916 rokiem); kontynuowała pracę Komitetu Narodowego Polskiego, ewakuowanego w 1915 roku z Warszawy do Rosji. Przeważali w niej narodowi demokraci i realiści; prezesem był Stanisław Wojciechowski, a sprawami zagranicznymi kierowali Stanisław Grabski i Józef Wielowieyski. Od jesieni 1917 roku uznawała paryski Komitet Narodowy Polski za przedstawicielstwo Polski na Zachodzie i stawiała na zwycięstwo Ententy.",
+   "Po przewrocie bolszewickim Rada wspierała polskie korpusy, sprzeciwiała się ich podporządkowaniu Radzie Regencyjnej i próbowała ratować I Korpus przed rozbrojeniem. Po pokoju brzeskim pomagała przerzucać żołnierzy do armii polskiej we Francji. 15 czerwca 1918 roku zawarła w Moskwie umowę z Józefem Hallerem, który stanął na czele jej Komisji Wojskowej; polskie oddziały na wschodzie miały być częścią armii we Francji. Wkrótce Rada przerwała działalność pod presją bolszewików."
+  ],
+  "longEn": [
+   "The Council was formed at the Polish Political Congress in Moscow, called by the right in August 1917 (some accounts date its origins to 1916); it continued the work of the Polish National Committee, evacuated from Warsaw to Russia in 1915. National Democrats and Realists predominated; its president was Stanisław Wojciechowski, and Stanisław Grabski and Józef Wielowieyski ran its foreign affairs. From the autumn of 1917 it recognised the Paris Polish National Committee as Poland's representation in the West and staked everything on an Entente victory.",
+   "After the Bolshevik coup the Council supported the Polish corps, opposed placing them under the Regency Council and tried to save the I Corps from disarmament. After the Treaty of Brest-Litovsk it helped to send soldiers on to the Polish army in France. On 15 June 1918 in Moscow it concluded an agreement with Józef Haller, who became head of its Military Commission; Polish units in the east were to be part of the army in France. Soon afterwards the Council ceased its activity under Bolshevik pressure."
+  ],
+  "see": [
+   "general-haller-we-francji",
+   "walki-pod-kaniowem",
+   "powstanie-komitetu-narodowego-polskiego",
+   "postacie/jozef-haller",
+   "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Rada_Polska_Zjednoczenia_Międzypartyjnego",
+   "https://czasopisma.ipn.gov.pl/index.php/pis/article/download/96/93/98"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "ukrainska-centralna-rada",
+  "slugEn": "central-rada",
+  "term": "Ukraińska Centralna Rada",
+  "termEn": "Ukrainian Central Rada",
+  "category": "rewolucja",
+  "pattern": "Centraln(?:a|ej|ą) Rad\\w*|[Uu]kraińsk\\w* Rad\\w* Centraln\\w*",
+  "patternEn": "Central Rada|Kiev Rada|Little Rada",
+  "short": "Ukraiński parlament rewolucyjny, powstały w Kijowie w marcu 1917 roku pod przewodnictwem Mychajła Hruszewskiego. Proklamował Ukraińską Republikę Ludową i jej niepodległość, a w kwietniu 1918 roku obalili go Niemcy.",
+  "shortEn": "The Ukrainian revolutionary parliament formed in Kyiv in March 1917 under Mykhailo Hrushevsky. It proclaimed the Ukrainian People's Republic and its independence, and was overthrown by the Germans in April 1918.",
+  "long": [
+   "Rada powstała 17 marca 1917 roku w Kijowie z inicjatywy ukraińskich stronnictw i organizacji; przewodniczącym wybrano Mychajła Hruszewskiego. Z około 150 członków po kwietniowym kongresie narodowym urosła latem do ponad 800 deputowanych, a bieżące sprawy prowadziła Mała Rada. Ogłaszała swoje decyzje w uniwersałach: I (czerwiec 1917) zapowiadał autonomię, a porozumienie z Rządem Tymczasowym z lipca uznało jej Sekretariat Generalny za władzę na Ukrainie. III Uniwersał z 20 listopada 1917 roku proklamował Ukraińską Republikę Ludową.",
+   "IV Uniwersał, datowany na 22 stycznia 1918 roku, ogłosił niepodległość. W lutym delegacja Rady zawarła w Brześciu pokój z państwami centralnymi, a sama Rada, wypędzona z Kijowa przez bolszewików 8–9 lutego, wróciła tam pod ochroną wojsk niemieckich i austro-węgierskich. Socjalistyczna polityka rolna i spory o dostawy zboża skłóciły ją z okupantami. 29 kwietnia 1918 roku, w dniu przewrotu hetmana Skoropadskiego, Rada przestała istnieć."
+  ],
+  "longEn": [
+   "The Rada was formed in Kyiv on 17 March 1917 on the initiative of Ukrainian parties and organisations, with Mykhailo Hrushevsky elected chairman. From some 150 members after the national congress in April it grew by summer to over 800 deputies, while the Little Rada handled current business. It announced its decisions in Universals: the First (June 1917) declared autonomy, and the agreement with the Provisional Government in July recognised its General Secretariat as the authority in Ukraine. The Third Universal of 20 November 1917 proclaimed the Ukrainian People's Republic.",
+   "The Fourth Universal, dated 22 January 1918, declared independence. In February the Rada's delegation made peace with the Central Powers at Brest, and the Rada itself, driven out of Kyiv by the Bolsheviks on 8–9 February, returned under the protection of German and Austro-Hungarian troops. Its socialist land policy and disputes over grain deliveries set it against the occupiers. On 29 April 1918, the day of Hetman Skoropadsky's coup, the Rada ceased to exist."
+  ],
+  "see": [
+   "ukrainska-republika-ludowa",
+   "iv-uniwersal",
+   "pokoj-brzeski-z-ukraina",
+   "skoropadski-hetmanem",
+   "postacie/mychajlo-hruszewski",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CE%5CCentralRada.htm",
+   "https://en.wikipedia.org/wiki/Central_Council_of_Ukraine"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "hetmanat",
+  "slugEn": "hetmanate",
+  "term": "Hetmanat",
+  "termEn": "Hetmanate",
+  "category": "rewolucja",
+  "pattern": "\\b[Hh]etma[nń]\\w*\\b(?! Chair)|Państw\\w* Ukraińsk\\w*",
+  "patternEn": "\\b[Hh]etman\\w*\\b(?! Chair)|Ukrainian State",
+  "short": "Państwo Ukraińskie hetmana Pawła Skoropadskiego, utworzone w kwietniu 1918 roku przewrotem pod niemiecką okupacją. Konserwatywne i zależne od Niemców, upadło w grudniu 1918 roku po powstaniu Dyrektoriatu.",
+  "shortEn": "The Ukrainian State of Hetman Pavlo Skoropadsky, created by a coup under German occupation in April 1918. Conservative and dependent on Germany, it fell in December 1918 to the Directorate's uprising.",
+  "long": [
+   "29 kwietnia 1918 roku zjazd ziemian w Kijowie obwołał generała Pawła Skoropadskiego hetmanem Ukrainy; nawiązywał tym do kozackiej tradycji XVII–XVIII wieku. Przewrót poparli Niemcy, niezadowoleni z Centralnej Rady i dostaw zboża. Hetman skupił w swoich rękach władzę ustawodawczą i wykonawczą, unieważnił reformy Rady, przywrócił prywatną własność ziemi i ograniczył swobody. Pierwszy rząd utworzył Fedir Łyzohub.",
+   "Hetmanat zbudował administrację i służbę dyplomatyczną, założył uniwersytety w Kijowie i Kamieńcu Podolskim oraz Ukraińską Akademię Nauk, ale opierał się na wojskach okupacyjnych. Wieś, gnębiona rekwizycjami i karnymi ekspedycjami, burzyła się, a socjaliści skupili się w Ukraińskim Związku Narodowym. Po klęsce państw centralnych Skoropadski ogłosił w listopadzie federację z niebolszewicką Rosją. Wybuchło powstanie Dyrektoriatu i 14 grudnia 1918 roku hetman zrzekł się władzy."
+  ],
+  "longEn": [
+   "On 29 April 1918 a congress of landowners in Kyiv proclaimed General Pavlo Skoropadsky Hetman of Ukraine, reviving a Cossack title of the 17th and 18th centuries. The coup was backed by the Germans, who were dissatisfied with the Central Rada and with grain deliveries. The Hetman concentrated legislative and executive power in his own hands, annulled the Rada's reforms, restored private ownership of land and curbed civil liberties. The first government was formed by Fedir Lyzohub.",
+   "The Hetmanate built an administration and a diplomatic service and founded universities in Kyiv and Kamianets-Podilskyi and the Ukrainian Academy of Sciences, but it rested on the occupying armies. The countryside, oppressed by requisitions and punitive expeditions, rose in revolt, and the socialists rallied in the Ukrainian National Union. After the defeat of the Central Powers Skoropadsky proclaimed a federation with a non-Bolshevik Russia in November. The Directorate's uprising broke out, and on 14 December 1918 the Hetman gave up power."
+  ],
+  "see": [
+   "skoropadski-hetmanem",
+   "upadek-hetmanatu",
+   "rzad-lyzohuba",
+   "powstanie-petlury",
+   "postacie/pawlo-skoropadski"
+  ],
+  "sources": [
+   "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CH%5CE%5CHetmangovernment.htm",
+   "https://pl.wikipedia.org/wiki/Hetmanat_(1918)"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "bataliony-smierci",
+  "slugEn": "death-battalions",
+  "term": "Bataliony śmierci",
+  "termEn": "Battalions of death",
+  "category": "rewolucja",
+  "pattern": "[Bb]atalion\\w* [Śś]mierci|rewolucyjn\\w* batalion\\w* szturmow\\w*|batalion\\w* uderzeniow\\w*|[Kk]obiec\\w* batalion\\w*|[Dd]rużyn\\w* śmierci",
+  "patternEn": "[Bb]attalions? of [Dd]eath|[Dd]eath [Bb]attalions?|[Ss]hock battalions?|[Ww]omen['’]s [Bb]attalion",
+  "short": "Ochotnicze oddziały uderzeniowe armii rosyjskiej z 1917 roku, także kobiece, które miały porwać do walki zdemoralizowane wojsko. Najsłynniejszy był kobiecy batalion śmierci Marii Boczkariowej.",
+  "shortEn": "Volunteer shock units of the Russian army in 1917, some of them made up of women, meant to carry a demoralised army into battle. The best known was Maria Bochkareva's women's battalion of death.",
+  "long": [
+   "Po rewolucji lutowej armia rosyjska rozpadała się, a Rząd Tymczasowy szykował letnią ofensywę. W maju 1917 roku na Froncie Południowo-Zachodnim zrodził się pomysł ochotniczych oddziałów, które przysięgały walczyć do ostatniej kropli krwi; Brusiłow jako naczelny wódz polecił tworzyć „rewolucyjne bataliony szturmowe”, zwane też batalionami śmierci. W czerwcu każdy oddział, który przyjął taką uchwałę, mógł przybrać tę nazwę; do października było ich ponad sto.",
+   "Weteranka Maria Boczkariowa uzyskała zgodę Kiereńskiego na kobiecy batalion. Z ponad 2 tysięcy ochotniczek zatrzymała około 300; w lipcu 1917 roku poszły do ataku pod Smorgonią i straciły kilkadziesiąt kobiet zabitych i rannych. Powstały kolejne oddziały kobiece; według szacunków służyło w nich od 4 do ponad 6 tysięcy kobiet. Kompania jednego z nich broniła w październiku Pałacu Zimowego. Bolszewicy rozwiązali formacje kobiece pod koniec 1917 roku, a bataliony uderzeniowe rozpadły się wraz z armią."
+  ],
+  "longEn": [
+   "After the February Revolution the Russian army was falling apart while the Provisional Government prepared a summer offensive. In May 1917 the South-Western Front produced the idea of volunteer units sworn to fight to the last drop of blood; as commander-in-chief, Brusilov ordered the formation of \"revolutionary shock battalions\", also called battalions of death. In June any unit that adopted such a resolution was allowed to take the name; by October there were over a hundred.",
+   "The veteran soldier Maria Bochkareva won Kerensky's consent for a women's battalion. Of over 2,000 volunteers she kept about 300; in July 1917 they attacked near Smorgon and lost several dozen women killed and wounded. More women's units followed; estimates put the number of women who served in them at between 4,000 and over 6,000. A company of one of them defended the Winter Palace in October. The Bolsheviks disbanded the women's units at the end of 1917, and the shock battalions disintegrated with the army."
+  ],
+  "see": [
+   "kobiecy-batalion-smierci",
+   "brusilow-naczelnym-wodzem",
+   "bitwy/ofensywa-kierenskiego",
+   "rewolucja-pazdziernikowa",
+   "tematy/kobiety-w-czasie-i-wojny-swiatowej",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://historycooperative.org/journal/my-death-for-the-motherland-is-happiness-women-patriotism-and-soldiering-in-russias-great-war-1914-1917/",
+   "https://en.wikipedia.org/wiki/Women%27s_Battalion"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "ochrana",
+  "slugEn": "okhrana",
+  "term": "Ochrana",
+  "termEn": "Okhrana",
+  "category": "rewolucja",
+  "pattern": "\\b[Oo]chran(?:a|y|ie|ę|ą)\\b",
+  "patternEn": "\\bOkhrana\\b",
+  "short": "Carska policja polityczna, tropiąca rewolucjonistów za pomocą agentów i prowokatorów. Jej siedzibę w Piotrogrodzie spalono w czasie rewolucji lutowej 1917 roku, a Rząd Tymczasowy ją rozwiązał.",
+  "shortEn": "The Tsarist political police, which hunted revolutionaries with informers and agents provocateurs. Its Petrograd headquarters was burned in the February Revolution of 1917, and the Provisional Government abolished it.",
+  "long": [
+   "Ochrana, formalnie Oddział Ochrony Bezpieczeństwa i Porządku Publicznego, powstała w 1880–1881 roku, po zamachach na Aleksandra II, w ramach Departamentu Policji Ministerstwa Spraw Wewnętrznych; współpracowała z Samodzielnym Korpusem Żandarmów. Miała oddziały w Petersburgu, Moskwie i Warszawie oraz agenturę zagraniczną w Paryżu. Przeglądała korespondencję, prowadziła kartoteki i werbowała informatorów w partiach rewolucyjnych. Ich liczbę szacuje się bardzo różnie, od niespełna 2 tysięcy do ponad 20 tysięcy.",
+   "Najsłynniejszymi agentami byli przywódca Organizacji Bojowej eserowców Jewno Azef i Roman Malinowski, szef frakcji bolszewickiej w Dumie, z którego donosu zesłano Stalina i Swierdłowa. Po zabójstwie Rasputina w grudniu 1916 roku śledztwo prowadził szef Ochrany. 27 lutego (12 marca) 1917 roku tłum zdobył i spalił jej gmach w Piotrogrodzie, a Rząd Tymczasowy rozwiązał całą policję polityczną. W grudniu 1917 roku bolszewicy utworzyli własną, Czekę."
+  ],
+  "longEn": [
+   "The Okhrana, formally the Department for the Protection of Public Security and Order, was created in 1880–1881, after the attempts on Alexander II, within the Police Department of the Ministry of the Interior; it worked with the Special Corps of Gendarmes. It had branches in St Petersburg, Moscow and Warsaw and a foreign agency in Paris. It opened private mail, kept card indexes and recruited informers in the revolutionary parties. Estimates of their number vary widely, from fewer than 2,000 to over 20,000.",
+   "Its most famous agents were Yevno Azef, head of the Socialist Revolutionaries' Combat Organisation, and Roman Malinovsky, leader of the Bolshevik group in the Duma, whose denunciation sent Stalin and Sverdlov into exile. After Rasputin's murder in December 1916 the head of the Okhrana led the investigation. On 27 February (12 March) 1917 a crowd stormed and burned its building in Petrograd, and the Provisional Government abolished the whole political police. In December 1917 the Bolsheviks created their own, the Cheka."
+  ],
+  "see": [
+   "rewolucja-lutowa",
+   "zabojstwo-rasputina",
+   "rosyjscy-parlamentariusze-za-liniami-niemieckimi",
+   "postacie/jozef-stalin",
+   "tematy/rewolucje-w-rosji-1917"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Department_for_Protecting_the_Public_Security_and_Order",
+   "https://spartacus-educational.com/RUSokhrana.htm"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "rewolucja-listopadowa",
+  "slugEn": "german-revolution",
+  "term": "Rewolucja listopadowa",
+  "termEn": "November Revolution",
+  "category": "rewolucja",
+  "pattern": "[Rr]ewolucj\\w* listopadow\\w*|[Rr]ewolucj\\w* w Niemczech|[Rr]ewolucj\\w* niemieck\\w*|[Bb]unt\\w* (?:marynarzy )?w Kilonii|[Rr]ewolucj\\w* w Kilonii",
+  "patternEn": "November Revolution|[Rr]evolution in Germany|German [Rr]evolution\\b|Kiel mutiny|mutiny (?:at|in) Kiel",
+  "short": "Rewolucja w Niemczech jesienią 1918 roku, zaczęta buntem marynarzy w Kilonii. Rady robotnicze i żołnierskie przejęły władzę w miastach, 9 listopada upadło cesarstwo, a Niemcy stały się republiką.",
+  "shortEn": "The revolution in Germany in the autumn of 1918, begun by the sailors' mutiny at Kiel. Workers' and soldiers' councils took power in the cities, the Empire fell on 9 November and Germany became a republic.",
+  "long": [
+   "Pod koniec października 1918 roku dowództwo marynarki chciało wysłać flotę do ostatniej bitwy z Brytyjczykami. Marynarze w Wilhelmshaven odmówili, a ponad tysiąc z nich aresztowano. 3 listopada patrol zastrzelił w Kilonii demonstrantów żądających ich uwolnienia, a wieczorem 4 listopada miasto było w rękach buntowników, którzy utworzyli pierwszą radę robotniczą i żołnierską. W ciągu kilku dni rady przejęły władzę w niemal wszystkich wielkich miastach, 7 listopada w Monachium proklamowano Republikę Bawarską.",
+   "9 listopada rewolucja dotarła do Berlina: kanclerz ogłosił abdykację Wilhelma II i oddał urząd Friedrichowi Ebertowi, a Scheidemann proklamował republikę. Władzę objęła Rada Pełnomocników Ludowych (SPD i USPD), która 11 listopada zawarła rozejm, a porozumienie Eberta z Groenerem zapewniło jej poparcie armii. Grudniowy zjazd rad opowiedział się za Zgromadzeniem Narodowym, wybranym 19 stycznia 1919 roku, a styczniowe powstanie skrajnej lewicy zostało stłumione."
+  ],
+  "longEn": [
+   "At the end of October 1918 the naval command wanted to send the fleet into a last battle with the British. The sailors at Wilhelmshaven refused, and more than a thousand were arrested. On 3 November a patrol in Kiel shot demonstrators demanding their release, and by the evening of 4 November the town was in the hands of the mutineers, who formed the first workers' and soldiers' council. Within days councils had taken power in almost every large city, and on 7 November the Bavarian Republic was proclaimed in Munich.",
+   "On 9 November the revolution reached Berlin: the chancellor announced Wilhelm II's abdication and handed office to Friedrich Ebert, and Scheidemann proclaimed the republic. Power passed to the Council of People's Deputies (SPD and USPD), which concluded the armistice on 11 November, while Ebert's pact with Groener secured the army's support. The December congress of councils opted for a National Assembly, elected on 19 January 1919, and the January rising of the far left was crushed."
+  ],
+  "see": [
+   "rewolucja-w-berlinie",
+   "bunt-w-kilonii",
+   "zjazd-rad-w-berlinie",
+   "abdykacja-wilhelma-ii",
+   "postacie/friedrich-ebert",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
+  ],
+  "sources": [
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819.html",
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/matrosenaufstand-1918"
+  ],
+  "exclude": [
+   "ani-wojna-ani-pokoj",
+   "bitwy/operacja-faustschlag",
+   "bolszewicy-godza-sie-na-pokoj",
+   "postacie/gieorgij-cziczerin",
+   "postacie/jozef-stalin",
+   "postacie/lew-trocki"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "zwiazek-spartakusa",
+  "slugEn": "spartacus-league",
+  "term": "Związek Spartakusa",
+  "termEn": "Spartacus League",
+  "category": "rewolucja",
+  "pattern": "[Ss]partakus\\w*",
+  "patternEn": "Spartac\\w*",
+  "short": "Rewolucyjne skrzydło niemieckiej lewicy, przeciwne wojnie, z Karlem Liebknechtem i Różą Luksemburg na czele. Na przełomie 1918 i 1919 roku stało się trzonem Komunistycznej Partii Niemiec.",
+  "shortEn": "The revolutionary wing of the German left, opposed to the war and led by Karl Liebknecht and Rosa Luxemburg. At the turn of 1918 and 1919 it became the core of the Communist Party of Germany.",
+  "long": [
+   "Grupa wyrosła z opozycji wobec poparcia SPD dla kredytów wojennych i polityki rozejmu wewnętrznego. Od 1915 roku nazywano ją od pisma Gruppe Internationale, a od konferencji 1 stycznia 1916 roku wydawała nielegalne „Listy Spartakusa”, od których wzięła nazwę. Liebknecht i Luksemburg większość wojny spędzili w więzieniu, pracą kierował Leo Jogiches. W 1917 roku Związek wszedł do USPD, zachowując odrębność, i wzywał do strajków, między innymi w styczniu 1918 roku.",
+   "Wpływy spartakusowców były niewielkie. 9 listopada 1918 roku Liebknecht ogłosił „wolną socjalistyczną republikę”, a pismo „Die Rote Fahne” domagało się oddania całej władzy radom, ale grudniowy zjazd rad wybrał wybory do Zgromadzenia Narodowego. Na zjeździe od 30 grudnia 1918 do 1 stycznia 1919 roku Związek wraz z lewicowymi radykałami założył KPD. Styczniowe powstanie w Berlinie stłumiono, a 15 stycznia 1919 roku żołnierze freikorpsu zamordowali Liebknechta i Luksemburg."
+  ],
+  "longEn": [
+   "The group grew out of opposition to the SPD's support for war credits and the domestic truce. From 1915 it was named after its journal, the Gruppe Internationale, and after a conference on 1 January 1916 it published the illegal \"Spartacus Letters\", which gave it its name. Liebknecht and Luxemburg spent most of the war in prison, and Leo Jogiches ran its work. In 1917 the League joined the USPD while keeping its separate identity, and called for strikes, including in January 1918.",
+   "The Spartacists' influence was small. On 9 November 1918 Liebknecht proclaimed a \"free socialist republic\", and their paper Die Rote Fahne demanded all power for the councils, but the December congress of councils chose elections to a National Assembly. At a congress from 30 December 1918 to 1 January 1919 the League and other left-wing radicals founded the KPD. The January rising in Berlin was crushed, and on 15 January 1919 Freikorps soldiers murdered Liebknecht and Luxemburg."
+  ],
+  "see": [
+   "zalozenie-kpd",
+   "liebknecht-glosuje-przeciw-kredytom-wojennym",
+   "strajk-styczniowy-w-niemczech",
+   "rewolucja-w-berlinie",
+   "zjazd-rad-w-berlinie",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
+  ],
+  "sources": [
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/spartakusbund",
+   "https://en.wikipedia.org/wiki/Spartacus_League"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ },
+ {
+  "slug": "legenda-o-ciosie-w-plecy",
+  "slugEn": "stab-in-the-back-myth",
+  "term": "Legenda o ciosie w plecy",
+  "termEn": "Stab-in-the-back myth",
+  "category": "rewolucja",
+  "pattern": "[Ll]egend\\w* o „?ciosie w plecy|„cios\\w* w plecy”|Dolchsto\\w*|pchnęl\\w* nożem w plecy|armii nóż w plecy",
+  "patternEn": "[Ss]tab-in-the-back|\"stab in the back\"|stabbed in the back|Dolchsto\\w*",
+  "short": "Powojenny mit, według którego niepokonana w polu armia niemiecka została zdradzona przez polityków, socjalistów i rewolucjonistów w kraju. Głosili go Hindenburg i Ludendorff, a wykorzystała skrajna prawica.",
+  "shortEn": "The post-war myth that the German army, undefeated in the field, had been betrayed by politicians, socialists and revolutionaries at home. Hindenburg and Ludendorff spread it, and the far right exploited it.",
+  "long": [
+   "Pod koniec września 1918 roku to naczelne dowództwo, uznając, że armia nie może dalej walczyć, zażądało od rządu rozmów o rozejm; Ludendorff mówił, że politycy mają teraz „zjeść zupę, którą nawarzyli”. Gdy rozejm podpisali cywile, a wojsko wróciło do kraju w porządku, łatwo było przerzucić winę na tyły. Obraz armii zdradzonej przez strajki, pokojową rezolucję Reichstagu i rewolucję listopadową pojawił się w prasie już w kilka tygodni po wojnie.",
+   "18 listopada 1919 roku Hindenburg zeznał przed komisją śledczą Zgromadzenia Narodowego, że armia została „pchnięta sztyletem w plecy”, powołując się na słowa angielskiego generała. Legenda stała się stałym elementem propagandy prawicy przeciw Republice Weimarskiej i „zbrodniarzom listopadowym”, takim jak Erzberger, a z czasem nabrała charakteru antysemickiego. Przejęli ją naziści. Historycy ją odrzucają: o klęsce zdecydowały wyczerpanie rezerw, upadek sojuszników i przewaga Ententy."
+  ],
+  "longEn": [
+   "At the end of September 1918 it was the Supreme Army Command that, judging that the army could not fight on, demanded that the government seek an armistice; Ludendorff said the politicians must now \"eat the soup they have cooked for us\". When civilians signed the armistice and the army marched home in good order, it was easy to shift the blame to the home front. The image of an army betrayed by strikes, the Reichstag peace resolution and the November Revolution appeared in the press within weeks of the war's end.",
+   "On 18 November 1919 Hindenburg told the National Assembly's committee of inquiry that the army had been \"stabbed in the back\", citing the words of an English general. The legend became a staple of right-wing propaganda against the Weimar Republic and the \"November criminals\" such as Erzberger, and in time took on an antisemitic character. The Nazis adopted it. Historians reject it: the defeat was decided by exhausted reserves, the collapse of Germany's allies and the Entente's superiority."
+  ],
+  "see": [
+   "ludendorff-zada-rozejmu",
+   "rewolucja-w-berlinie",
+   "rozejm-w-compiegne",
+   "postacie/paul-von-hindenburg",
+   "postacie/erich-ludendorff",
+   "tematy/dlaczego-niemcy-przegraly-wojne"
+  ],
+  "sources": [
+   "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende.html",
+   "https://en.wikipedia.org/wiki/Stab-in-the-back_myth"
+  ],
+  "expansion": "",
+  "expansionEn": ""
+ }
+]

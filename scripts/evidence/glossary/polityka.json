@@ -1,0 +1,276 @@
+[
+ {
+  "slug": "liga-narodow",
+  "slugEn": "league-of-nations",
+  "term": "Liga Narodów",
+  "termEn": "League of Nations",
+  "category": "polityka",
+  "pattern": "\\bLig\\w* Narodów",
+  "patternEn": "League of Nations",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Organizacja międzynarodowa powołana na konferencji pokojowej w Paryżu w 1919 roku, by rozstrzygać spory między państwami i zapobiegać wojnom. Jej pakt stał się pierwszą częścią traktatu wersalskiego.",
+  "shortEn": "The international organisation created at the Paris Peace Conference in 1919 to settle disputes between states and prevent war. Its Covenant formed the first part of the Treaty of Versailles.",
+  "long": [
+   "Pomysł stałego związku państw, który zastąpiłby wojnę arbitrażem, dojrzewał w czasie wojny w kręgach liberalnych i socjalistycznych w Wielkiej Brytanii i Stanach Zjednoczonych. Prezydent Woodrow Wilson mówił o lidze pokoju już w styczniu 1917 roku, a ostatni z jego czternastu punktów z 8 stycznia 1918 roku zapowiadał „ogólny związek narodów”, który miał gwarantować niezależność i całość terytorialną państw wielkich i małych. Projekty przygotowywali m.in. Robert Cecil, Jan Smuts i Edward House.",
+   "Pakt Ligi, wpisany do traktatu wersalskiego jako jego część I, wszedł w życie 10 stycznia 1920 roku. Siedzibą została Genewa, a organami Zgromadzenie wszystkich członków, Rada z udziałem wielkich mocarstw i stały Sekretariat. Członkowie zobowiązali się szanować nawzajem swoją całość terytorialną, a wobec agresora stosować sankcje. Liga nadzorowała mandaty i Wolne Miasto Gdańsk, ale osłabiała ją nieobecność Stanów Zjednoczonych, których Senat odrzucił traktat. Formalnie rozwiązano ją w 1946 roku."
+  ],
+  "longEn": [
+   "The idea of a permanent association of states that would replace war with arbitration grew during the war in liberal and socialist circles in Britain and the United States. President Woodrow Wilson spoke of a league for peace as early as January 1917, and the last of his Fourteen Points of 8 January 1918 called for a \"general association of nations\" to guarantee the independence and territorial integrity of great and small states alike. Drafts were prepared by, among others, Robert Cecil, Jan Smuts and Edward House.",
+   "The Covenant of the League, written into the Treaty of Versailles as its Part I, came into force on 10 January 1920. Its seat was Geneva, and its organs were an Assembly of all members, a Council including the great powers and a permanent Secretariat. Members pledged to respect one another's territorial integrity and to apply sanctions against an aggressor. The League supervised the mandates and the Free City of Danzig, but it was weakened by the absence of the United States, whose Senate rejected the treaty. It was formally dissolved in 1946."
+  ],
+  "see": [
+   "czternascie-punktow-wilsona",
+   "wilson-przybywa-do-europy",
+   "pokoj-bez-zwyciestwa",
+   "konferencja-socjalistow-w-londynie",
+   "postacie/robert-cecil",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+   "https://history.state.gov/milestones/1914-1920/league",
+   "https://pl.wikipedia.org/wiki/Liga_Narodów"
+  ]
+ },
+ {
+  "slug": "traktat-wersalski",
+  "slugEn": "treaty-of-versailles",
+  "term": "Traktat wersalski",
+  "termEn": "Treaty of Versailles",
+  "category": "polityka",
+  "pattern": "[Tt]raktat\\w* wersalsk\\w*",
+  "patternEn": "Treaty of Versailles|Versailles [Tt]reaty",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Traktat pokojowy między Niemcami a państwami sprzymierzonymi i stowarzyszonymi, podpisany 28 czerwca 1919 roku w Wersalu. Formalnie zakończył wojnę z Niemcami i przyznał Polsce większość Wielkopolski i Pomorza.",
+  "shortEn": "The peace treaty between Germany and the Allied and Associated Powers, signed at Versailles on 28 June 1919. It formally ended the war with Germany and gave Poland most of Greater Poland and Pomerania.",
+  "long": [
+   "Warunki ustaliły na konferencji pokojowej w Paryżu zwycięskie mocarstwa, a delegacji niemieckiej pozostało je przyjąć. Traktat, liczący 440 artykułów, podpisano w Sali Lustrzanej pałacu wersalskiego 28 czerwca 1919 roku, w piątą rocznicę zamachu w Sarajewie, a wszedł w życie 10 stycznia 1920 roku. Do tego czasu obowiązywał przedłużany rozejm z Compiègne. Część I traktatu stanowił pakt Ligi Narodów.",
+   "Niemcy oddały Francji Alzację i Lotaryngię, a Polsce większość Wielkopolski i Pomorza; o Górnym Śląsku, Warmii i Mazurach miały zdecydować plebiscyty, a Gdańsk stał się wolnym miastem. Straty terytorialne Niemiec szacuje się na 10–13 procent przedwojennego obszaru, zależnie od sposobu liczenia. Niemcy utraciły też wszystkie kolonie, armię ograniczono do 100 tysięcy żołnierzy, bez czołgów, lotnictwa i okrętów podwodnych, a Nadrenię zdemilitaryzowano. Artykuł 231 obarczał Niemcy i ich sojuszników odpowiedzialnością za szkody wojenne i stał się podstawą reparacji. Senat Stanów Zjednoczonych traktatu nie ratyfikował."
+  ],
+  "longEn": [
+   "The terms were settled by the victorious powers at the Paris Peace Conference, and the German delegation could only accept them. The treaty, with 440 articles, was signed in the Hall of Mirrors at the Palace of Versailles on 28 June 1919, the fifth anniversary of the Sarajevo assassination, and came into force on 10 January 1920. Until then the repeatedly extended Armistice of Compiègne remained in force. Part I of the treaty was the Covenant of the League of Nations.",
+   "Germany ceded Alsace-Lorraine to France and most of Greater Poland and Pomerania to Poland; plebiscites were to decide Upper Silesia, Warmia and Masuria, and Danzig became a free city. Germany's territorial losses are estimated at 10 to 13 per cent of its pre-war area, depending on the method of counting. It also lost all its colonies, its army was limited to 100,000 men without tanks, aircraft or submarines, and the Rhineland was demilitarised. Article 231 held Germany and its allies responsible for the war damage and became the basis for reparations. The United States Senate did not ratify the treaty."
+  ],
+  "see": [
+   "rozejm-w-compiegne",
+   "przedluzenie-rozejmu",
+   "bitwy/powstanie-wielkopolskie",
+   "postacie/georges-clemenceau",
+   "postacie/ignacy-jan-paderewski",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://history.state.gov/milestones/1914-1920/paris-peace",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F",
+   "https://pl.wikipedia.org/wiki/Traktat_wersalski",
+   "https://dzieje.pl/galerie/wystawa-o-traktacie-wersalskim"
+  ]
+ },
+ {
+  "slug": "paryska-konferencja-pokojowa",
+  "slugEn": "paris-peace-conference",
+  "term": "Paryska konferencja pokojowa",
+  "termEn": "Paris Peace Conference",
+  "category": "polityka",
+  "pattern": "[Kk]onferencj\\w* pokojow\\w* (?:w Paryżu|w 1919)|[Pp]arysk\\w* konferencj\\w* pokojow\\w*|amerykańsk\\w* delegacj\\w* na konferencj\\w* pokojow\\w*",
+  "patternEn": "Paris Peace Conference|[Pp]eace [Cc]onference in Paris|[Pp]eace [Cc]onference (?:of|in) 1919|American delegation to the peace conference",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Konferencja zwycięskich mocarstw i ich sojuszników, obradująca w Paryżu od 18 stycznia 1919 do stycznia 1920 roku. Przygotowała traktaty pokojowe z pokonanymi państwami i pakt Ligi Narodów.",
+  "shortEn": "The conference of the victorious powers and their allies, held in Paris from 18 January 1919 to January 1920. It drew up the peace treaties with the defeated states and the Covenant of the League of Nations.",
+  "long": [
+   "Konferencję otwarto 18 stycznia 1919 roku. Wzięły w niej udział delegacje 27 państw, a licząc przedstawicieli narodów bez własnego państwa, ponad 30, ale nie pokonani ani Rosja Sowiecka. Najważniejsze decyzje zapadały w gronie przywódców wielkich mocarstw, tzw. wielkiej czwórki: Woodrowa Wilsona, Davida Lloyda George'a, Georges'a Clemenceau i Vittoria Emanuele Orlanda, a szczegóły opracowywały 52 komisje. Polskę reprezentowali Roman Dmowski i Ignacy Jan Paderewski.",
+   "Na konferencji powstały traktaty z Niemcami (Wersal, 28 czerwca 1919), Austrią (Saint-Germain, 10 września 1919), Bułgarią (Neuilly, 27 listopada 1919), Węgrami (Trianon, 4 czerwca 1920) i Turcją (Sèvres, 10 sierpnia 1920). W czasie wojny przyszła konferencja pokojowa była punktem odniesienia dla wszystkich roszczeń: tajne układy sojuszników, obietnice dla Japonii, Włoch czy Rumunii i programy ruchów narodowych miały się rozstrzygnąć właśnie tam. Wiele z nich wywołało w Paryżu ostre spory, jak sprawa Fiume czy Szantungu."
+  ],
+  "longEn": [
+   "The conference opened on 18 January 1919. Delegations from 27 states took part, more than 30 if representatives of stateless nations are counted, but not the defeated powers or Soviet Russia. The key decisions were taken by the leaders of the great powers, the so-called Big Four: Woodrow Wilson, David Lloyd George, Georges Clemenceau and Vittorio Emanuele Orlando, while the details were worked out by 52 commissions. Poland was represented by Roman Dmowski and Ignacy Jan Paderewski.",
+   "The conference produced the treaties with Germany (Versailles, 28 June 1919), Austria (Saint-Germain, 10 September 1919), Bulgaria (Neuilly, 27 November 1919), Hungary (Trianon, 4 June 1920) and Turkey (Sèvres, 10 August 1920). During the war the future peace conference was the reference point for every claim: the Allies' secret agreements, the promises to Japan, Italy or Romania and the programmes of national movements were all to be settled there. Many of them led to bitter disputes in Paris, such as the questions of Fiume and Shantung."
+  ],
+  "see": [
+   "wilson-przybywa-do-europy",
+   "rada-narodowa-fiume",
+   "powstanie-komitetu-narodowego-polskiego",
+   "postacie/roman-dmowski",
+   "postacie/georges-clemenceau",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919–1920)",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F",
+   "https://dzieje.pl/galerie/wystawa-o-traktacie-wersalskim",
+   "https://history.state.gov/milestones/1914-1920/paris-peace"
+  ]
+ },
+ {
+  "slug": "system-mandatowy",
+  "slugEn": "mandate-system",
+  "term": "System mandatowy",
+  "termEn": "Mandate system",
+  "category": "polityka",
+  "pattern": "\\bmandat\\w*\\]? (?:Ligi|klasy|nad)\\b|\\b(?:terytori|kraj|system)\\w* mandat\\w*|\\b(?:pod|brytyjsk\\w*|francusk\\w*|belgijsk\\w*|japońsk\\w*) mandat\\w*|\\bmandat\\w* (?:Francji|Wielkiej Brytanii)\\b|spraw mandatów|kolonii i mandatów",
+  "patternEn": "League of Nations mandates?|\\bmandated territor\\w*|\\bmandate system|[Cc]lass C \\[?mandates?|\\b(?:British|French|Belgian|Japanese) \\[?mandates?\\b|\\bmandates? (?:over|for)\\b|\\bmandates administered|colonies and mandates|commission on mandates",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Zarząd dawnymi koloniami niemieckimi i ziemiami arabskimi Imperium Osmańskiego, powierzony po wojnie zwycięskim państwom w imieniu Ligi Narodów. Mandaty dzielono na trzy klasy: A, B i C.",
+  "shortEn": "The administration of Germany's former colonies and the Ottoman Empire's Arab lands, entrusted after the war to victorious states on behalf of the League of Nations. Mandates were divided into classes A, B and C.",
+  "long": [
+   "System przyjęto na konferencji pokojowej w Paryżu jako kompromis między zasadą Wilsona, by zdobyczy nie anektować, a żądaniami mocarstw i dominiów, które chciały zatrzymać terytoria zajęte w czasie wojny. Ideę rozwinął Jan Smuts, a artykuł 22 paktu Ligi Narodów nazwał opiekę nad ludami tych ziem „świętym posłannictwem cywilizacji”. Państwo mandatariusz składało Radzie Ligi coroczne sprawozdania, które badała Stała Komisja Mandatów.",
+   "Mandaty klasy A, uznane za bliskie niepodległości, objęły ziemie arabskie: Syria i Liban przypadły Francji, Irak, Palestyna i Transjordania Wielkiej Brytanii. Klasa B to dawne kolonie w Afryce: Togo i Kamerun, podzielone między Francję i Wielką Brytanię, Tanganika i belgijska Ruanda-Urundi. Do klasy C, rządzonej jak część własnego terytorium, należały Afryka Południowo-Zachodnia, Nowa Gwinea, Samoa i wyspy na północ od równika, przyznane Japonii. W praktyce wiele mandatów przypominało kolonie. Hasło nie dotyczy mandatu w zwykłym, poselskim znaczeniu."
+  ],
+  "longEn": [
+   "The system was adopted at the Paris Peace Conference as a compromise between Wilson's principle that conquests should not be annexed and the demands of the great powers and the dominions, which wanted to keep territories occupied during the war. Jan Smuts developed the idea, and Article 22 of the Covenant of the League of Nations called the care of the peoples of these lands \"a sacred trust of civilisation\". The mandatory power submitted annual reports to the League Council, which were examined by the Permanent Mandates Commission.",
+   "Class A mandates, considered close to independence, covered the Arab lands: Syria and Lebanon went to France, Iraq, Palestine and Transjordan to Britain. Class B covered former colonies in Africa: Togoland and Cameroon, divided between France and Britain, Tanganyika and Belgian Ruanda-Urundi. Class C, governed as part of the mandatory's own territory, included South West Africa, New Guinea, Samoa and the islands north of the equator, awarded to Japan. In practice many mandates resembled colonies. The term does not cover a mandate in the ordinary, electoral sense."
+  ],
+  "see": [
+   "porozumienie-sykes-picot",
+   "postacie/jan-smuts",
+   "kapitulacja-niemieckiej-afryki-poludniowo-zachodniej",
+   "japonczycy-zajmuja-yap",
+   "porozumienie-w-sprawie-togo",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+   "https://en.wikipedia.org/wiki/League_of_Nations_mandate",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F"
+  ]
+ },
+ {
+  "slug": "reparacje",
+  "slugEn": "reparations",
+  "term": "Reparacje",
+  "termEn": "Reparations",
+  "category": "polityka",
+  "pattern": "\\breparacj\\w*",
+  "patternEn": "\\b[Rr]eparations\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Odszkodowania, które pokonane państwa centralne miały wypłacić zwycięzcom za szkody wojenne. Zasadę przyjęto w nocie Lansinga z listopada 1918 roku, a kwotę dla Niemiec ustalono w 1921 roku.",
+  "shortEn": "The compensation the defeated Central Powers were to pay the victors for war damage. The principle was accepted in the Lansing Note of November 1918, and Germany's sum was fixed in 1921.",
+  "long": [
+   "Już w czasie wojny sprzymierzeni żądali od Niemiec odbudowy Belgii i zajętych ziem Francji, odróżniając ją od dawnej kontrybucji wojennej. W nocie Lansinga z 5 listopada 1918 roku, która przyjmowała czternaście punktów za podstawę pokoju, zastrzegli, że Niemcy wynagrodzą wszystkie szkody wyrządzone ludności cywilnej i jej mieniu „na lądzie, na morzu i z powietrza”. Rozejm nie przesądził kwoty. Traktat wersalski w artykule 231 obarczył Niemcy i ich sojuszników odpowiedzialnością za straty, a jej wysokość miała ustalić Komisja Odszkodowań.",
+   "W maju 1921 roku komisja określiła zobowiązania na 132 miliardy marek w złocie, z czego bezwarunkowo należne było 50 miliardów. Spór o spłaty doprowadził w 1923 roku do zajęcia Zagłębia Ruhry, potem do planów Dawesa (1924) i Younga (1929), a konferencja w Lozannie w 1932 roku praktycznie je zakończyła. Ile Niemcy naprawdę zapłaciły, ocenia się różnie: od około 17–20 miliardów marek według historyków i samej komisji do prawie 68 miliardów według rządu niemieckiego. Reparacje nałożono też na Bułgarię, Austrię i Węgry, ale zapłaciły one niewiele."
+  ],
+  "longEn": [
+   "Already during the war the Allies demanded that Germany restore Belgium and the occupied parts of France, distinguishing this from an old-style war indemnity. In the Lansing Note of 5 November 1918, which accepted the Fourteen Points as the basis of peace, they stipulated that Germany would make compensation for all damage done to the civilian population and its property \"by land, by sea and from the air\". The armistice did not fix a sum. In Article 231 the Treaty of Versailles held Germany and its allies responsible for the losses, and the amount was left to the Reparation Commission.",
+   "In May 1921 the commission set the liability at 132 billion gold marks, of which 50 billion were payable unconditionally. Payment disputes led to the occupation of the Ruhr in 1923, then to the Dawes (1924) and Young (1929) plans, and the Lausanne conference of 1932 effectively ended them. Estimates of what Germany actually paid vary: from about 17 to 20 billion marks according to historians and the commission to almost 68 billion according to the German government. Reparations were also imposed on Bulgaria, Austria and Hungary, but they paid little."
+  ],
+  "see": [
+   "nota-lansinga",
+   "lloyd-george-o-celach-wojny",
+   "deklaracja-z-sainte-adresse",
+   "rozejm-w-compiegne",
+   "postacie/raymond-poincare",
+   "tematy/skutki-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_War_I_reparations",
+   "https://history.state.gov/milestones/1914-1920/paris-peace",
+   "https://zpe.gov.pl/a/system-wersalski/D7Q1XVG6F"
+  ]
+ },
+ {
+  "slug": "wojny-balkanskie",
+  "slugEn": "balkan-wars",
+  "term": "Wojny bałkańskie",
+  "termEn": "Balkan Wars",
+  "category": "polityka",
+  "pattern": "[Ww]ojn\\w* bałkańsk\\w*",
+  "patternEn": "Balkan [Ww]ars?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Dwie wojny z lat 1912–1913: państwa Ligi Bałkańskiej odebrały Turcji prawie całe jej ziemie w Europie, a potem Bułgaria przegrała z dawnymi sojusznikami spór o Macedonię. Zostawiły napięcia, które wybuchły w 1914 roku.",
+  "shortEn": "Two wars of 1912–1913: the Balkan League states took almost all of Turkey's European lands, and then Bulgaria lost a war with its former allies over Macedonia. They left tensions that exploded in 1914.",
+  "long": [
+   "Bułgaria, Serbia, Grecja i Czarnogóra zawarły w 1912 roku sojusz wymierzony w Imperium Osmańskie, zwany Ligą Bałkańską. 8 października Czarnogóra wypowiedziała Turcji wojnę, a dziewięć dni później dołączyli jej sojusznicy. Turcy przegrali w Macedonii i Tracji, Grecy zajęli Saloniki, a Bułgarzy doszli pod Konstantynopol. Pokój londyński z 30 maja 1913 roku zostawił Turcji w Europie tylko skrawek Tracji, a mocarstwa zgodziły się utworzyć niepodległą Albanię.",
+   "Bułgaria, niezadowolona z podziału Macedonii, w nocy z 29 na 30 czerwca 1913 roku zaatakowała Serbię i Grecję. Przeciw niej wystąpiły też Rumunia i Turcja, która odzyskała Adrianopol. Pokój bukareszteński z 10 sierpnia 1913 roku odebrał Bułgarii większość zdobyczy w Macedonii i południową Dobrudżę. Serbia podwoiła obszar i ludność, co Austro-Węgry uznały za zagrożenie, a Bułgaria i Turcja, szukając odwetu, przyłączyły się w czasie wielkiej wojny do państw centralnych. Wielu dowódców z lat 1914–1918 zdobywało doświadczenie właśnie w tych wojnach."
+  ],
+  "longEn": [
+   "Bulgaria, Serbia, Greece and Montenegro formed an alliance against the Ottoman Empire in 1912, known as the Balkan League. On 8 October Montenegro declared war on Turkey, and its allies followed nine days later. The Turks were defeated in Macedonia and Thrace, the Greeks took Salonika and the Bulgarians reached the approaches to Constantinople. The Treaty of London of 30 May 1913 left Turkey only a strip of Thrace in Europe, and the great powers agreed to create an independent Albania.",
+   "Dissatisfied with the division of Macedonia, Bulgaria attacked Serbia and Greece on the night of 29–30 June 1913. Romania and Turkey, which recovered Adrianople, also turned against it. The Treaty of Bucharest of 10 August 1913 stripped Bulgaria of most of its gains in Macedonia and of southern Dobruja. Serbia doubled its territory and population, which Austria-Hungary saw as a threat, while Bulgaria and Turkey, seeking revenge, joined the Central Powers in the Great War. Many commanders of 1914–1918 gained their experience in these wars."
+  ],
+  "see": [
+   "stan-wojny-miedzy-serbia-a-turcja",
+   "postacie/radomir-putnik",
+   "postacie/radko-dimitriew",
+   "postacie/konstantyn-i",
+   "tematy/przyczyny-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://centuryireland.rte.ie/centuryireland/articles/what-were-the-balkans-wars",
+   "https://pl.wikipedia.org/wiki/Wojny_bałkańskie"
+  ],
+  "exclude": [
+   "grecja-odrzuca-prosbe-serbii-o-pomoc"
+  ]
+ },
+ {
+  "slug": "kryzysy-marokanskie",
+  "slugEn": "moroccan-crises",
+  "term": "Kryzysy marokańskie",
+  "termEn": "Moroccan crises",
+  "category": "polityka",
+  "pattern": "[Kk]ryzys\\w* marokańsk\\w*|[Kk]ryzys\\w* agadirsk\\w*",
+  "patternEn": "Moroccan [Cc]ris[ie]s|Agadir [Cc]risis",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Dwa kryzysy z lat 1905–1906 i 1911, w których Niemcy próbowały podważyć wpływy Francji w Maroku. Oba zakończyły się ich porażką i zacieśniły współpracę Francji z Wielką Brytanią.",
+  "shortEn": "Two crises, in 1905–1906 and 1911, in which Germany tried to undermine French influence in Morocco. Both ended in German defeat and drew France and Britain closer together.",
+  "long": [
+   "Pierwszy kryzys wywołała wizyta Wilhelma II w Tangerze 31 marca 1905 roku. Cesarz poparł niezależność sułtana, choć entente cordiale z 1904 roku uznawała Maroko za strefę wpływów Francji. Pod naciskiem Niemiec ustąpił francuski minister spraw zagranicznych Théophile Delcassé, ale na konferencji w Algeciras w 1906 roku Niemcy, wspierane tylko przez Austro-Węgry, znalazły się w izolacji, a Francja i Hiszpania dostały nadzór nad marokańską policją. W czasie kryzysu Brytyjczycy i Francuzi zaczęli rozmowy sztabowe.",
+   "Drugi kryzys, zwany agadirskim, zaczął się, gdy wiosną 1911 roku Francuzi wysłali wojska do Fezu, a Niemcy 1 lipca skierowały do Agadiru kanonierkę „Panther”, żądając rekompensaty. 21 lipca David Lloyd George ostrzegł w Mansion House, że Wielka Brytania nie da się upokorzyć. Układem z 4 listopada 1911 roku Niemcy uznały francuskie zwierzchnictwo nad Marokiem w zamian za część Konga Francuskiego, przyłączoną do Kamerunu, a w 1912 roku traktat feski ustanowił francuski protektorat. Kryzys zbliżył Wielką Brytanię i Francję także na morzu."
+  ],
+  "longEn": [
+   "The first crisis was set off by Wilhelm II's visit to Tangier on 31 March 1905. The Kaiser backed the Sultan's independence, although the Entente Cordiale of 1904 recognised Morocco as a French sphere of influence. Under German pressure the French Foreign Minister Théophile Delcassé resigned, but at the Algeciras conference in 1906 Germany, supported only by Austria-Hungary, found itself isolated, and France and Spain were given charge of the Moroccan police. During the crisis British and French staff talks began.",
+   "The second, or Agadir, crisis began when the French sent troops to Fez in the spring of 1911 and Germany sent the gunboat Panther to Agadir on 1 July, demanding compensation. On 21 July David Lloyd George warned at the Mansion House that Britain would not accept humiliation. By the agreement of 4 November 1911 Germany recognised French control of Morocco in return for part of the French Congo, added to Cameroon, and in 1912 the Treaty of Fez established a French protectorate. The crisis also drew Britain and France together at sea."
+  ],
+  "see": [
+   "wielka-brytania-uznaje-traktat-feski",
+   "delcasse-ministrem-spraw-zagranicznych",
+   "general-dobell-dowodca-wyprawy-do-kamerunu",
+   "postacie/wilhelm-ii",
+   "postacie/edward-grey",
+   "tematy/przyczyny-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://www.ebsco.com/research-starters/history/tangier-crisis/",
+   "https://en.wikipedia.org/wiki/Agadir_Crisis"
+  ]
+ },
+ {
+  "slug": "gabinet-wojenny",
+  "slugEn": "war-cabinet",
+  "term": "Gabinet wojenny",
+  "termEn": "War Cabinet",
+  "category": "polityka",
+  "pattern": "[Gg]abinet\\w* [Ww]ojenn\\w*",
+  "patternEn": "[Ww]ar [Cc]abinets?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wąskie gremium rządu kierujące prowadzeniem wojny. Najczęściej chodzi o pięcioosobowy brytyjski Gabinet Wojenny Davida Lloyda George'a z lat 1916–1919 i o Imperialny Gabinet Wojenny z udziałem dominiów.",
+  "shortEn": "A small body within a government that directs the conduct of a war. Most often it means David Lloyd George's five-member British War Cabinet of 1916–1919 and the Imperial War Cabinet with the dominions.",
+  "long": [
+   "W Wielkiej Brytanii wojną kierowały kolejno Rada Wojenna, Komitet Dardanelski i od listopada 1915 roku Komitet Wojenny, ale ich decyzje musiał zatwierdzać cały, 23-osobowy rząd. Lloyd George, który w grudniu 1916 roku zastąpił Herberta Asquitha, oddał władzę pięcioosobowemu Gabinetowi Wojennemu, zebranemu po raz pierwszy 9 grudnia. Zasiedli w nim premier, Andrew Bonar Law, lord Curzon, lord Milner i Arthur Henderson, później m.in. Jan Smuts, Edward Carson i Austen Chamberlain. Sekretariat Maurice'a Hankeya prowadził pierwsze protokoły posiedzeń brytyjskiego rządu.",
+   "Od marca 1917 roku z premierami dominiów i przedstawicielami Indii obradował Imperialny Gabinet Wojenny. Jego trzy sesje trwały do stycznia 1919 roku, a w Paryżu przekształcił się w delegację imperium. Brytyjski Gabinet Wojenny zebrał się ostatni raz 27 października 1919 roku. Na jego wzór małe gabinety lub komitety wojenne tworzyły też inne państwa: Francja w grudniu 1916 roku, Belgia, Kanada w 1917 roku, a w październiku 1918 roku Niemcy kanclerza Maxa Badeńskiego."
+  ],
+  "longEn": [
+   "In Britain the war was directed in turn by the War Council, the Dardanelles Committee and, from November 1915, the War Committee, but their decisions had to be approved by the full Cabinet of 23 ministers. Lloyd George, who replaced Herbert Asquith in December 1916, handed power to a five-member War Cabinet, which first met on 9 December. Its members were the Prime Minister, Andrew Bonar Law, Lord Curzon, Lord Milner and Arthur Henderson, later joined by Jan Smuts, Edward Carson and Austen Chamberlain, among others. Maurice Hankey's secretariat kept the first minutes of British Cabinet meetings.",
+   "From March 1917 the Imperial War Cabinet met with the dominion prime ministers and representatives of India. Its three sessions lasted until January 1919, and in Paris it became the British Empire delegation. The British War Cabinet met for the last time on 27 October 1919. Other states created small war cabinets or war committees on its model: France in December 1916, Belgium, Canada in 1917 and, in October 1918, the Germany of Chancellor Max von Baden."
+  ],
+  "see": [
+   "gabinet-wojenny",
+   "lloyd-george-premierem",
+   "pierwsze-posiedzenie-imperialnego-gabinetu-wojennego",
+   "nivelle-naczelnym-wodzem",
+   "postacie/maurice-hankey",
+   "postacie/david-lloyd-george"
+  ],
+  "sources": [
+   "https://history.blog.gov.uk/2016/12/09/9-december-1916-david-lloyd-george-introduces-minuted-cabinet-meetings-and-instigates-the-cabinet-office",
+   "https://en.wikipedia.org/wiki/War_cabinet",
+   "https://en.wikipedia.org/wiki/Imperial_War_Cabinet"
+  ]
+ }
+]

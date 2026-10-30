@@ -1,0 +1,425 @@
+[
+ {
+  "slug": "gruba-berta",
+  "slugEn": "big-bertha",
+  "term": "Gruba Berta",
+  "termEn": "Big Bertha",
+  "category": "bron",
+  "pattern": "Grub\\w* Bert\\w*",
+  "patternEn": "Big Berthas?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niemiecki moździerz oblężniczy kalibru 420 mm z zakładów Kruppa. W 1914 roku rozbijał forty Liège, Namuru, Maubeuge i Antwerpii, a w 1915 roku pomagał zdobywać twierdze rosyjskie, m.in. Kowno i Nowogieorgijewsk.",
+  "shortEn": "A German 42 cm siege mortar built by Krupp. In 1914 it smashed the forts of Liège, Namur, Maubeuge and Antwerp, and in 1915 it helped take Russian fortresses such as Kovno and Novogeorgievsk.",
+  "long": [
+   "Krupp zbudował przed wojną dwa typy moździerza kalibru 42 cm: ciężki, ustawiany na betonowym fundamencie Gamma-Gerät i lżejszy, kołowy M-Gerät, który przewożono koleją i ciągnikami. Ten drugi ważył około 42 ton i wystrzeliwał pociski o masie do ponad tony na odległość około 9 km, kilka na godzinę. Liczba zbudowanych egzemplarzy różni się w źródłach, od kilkunastu do około 30. Nazwa Dicke Bertha, czyli Gruba Berta, powstała wśród żołnierzy w sierpniu 1914 roku, zapewne od imienia Berthy Krupp, właścicielki firmy.",
+   "Pod Liège moździerze 42 cm, razem z austro-węgierskimi moździerzami Škody kalibru 30,5 cm, zmusiły do kapitulacji fort Pontisse, a 15 sierpnia 1914 roku pocisk trafił w magazyn amunicji fortu Loncin. Potem burzyły forty Namuru, Maubeuge i Antwerpii, a w 1915 roku ostrzeliwały Przemyśl, Osowiec, Kowno i Nowogieorgijewsk. Pod Verdun w 1916 roku nie przebijały już nowoczesnych fortów z betonu. Alianci nazywali Grubą Bertą także inne niemieckie ciężkie działa, a paryżanie w 1918 roku działo dalekonośne."
+  ],
+  "longEn": [
+   "Before the war Krupp built two types of 42 cm mortar: the heavy Gamma-Gerät, set on a concrete foundation, and the lighter wheeled M-Gerät, moved by rail and tractor. The latter weighed about 42 tonnes and fired shells of over a tonne to about 9 km, a few an hour. Sources differ on how many were built, from a dozen or so to about 30. The name Dicke Bertha, Big Bertha, arose among the troops in August 1914, probably after Bertha Krupp, the owner of the firm.",
+   "At Liège the 42 cm mortars, together with Austro-Hungarian 30.5 cm Škoda mortars, forced Fort Pontisse to surrender, and on 15 August 1914 a shell hit the magazine of Fort Loncin. They went on to smash the forts of Namur, Maubeuge and Antwerp, and in 1915 shelled Przemyśl, Osowiec, Kovno and Novogeorgievsk. At Verdun in 1916 they could no longer pierce modern concrete forts. The Allies called other heavy German guns Big Bertha too, and in 1918 Parisians gave the name to the long-range gun."
+  ],
+  "see": [
+   "padaja-ostatnie-forty-liege",
+   "bitwy/bitwa-pod-liege",
+   "bitwy/oblezenie-antwerpii",
+   "bitwy/oblezenie-kowna",
+   "ostrzal-paryza-z-dziala-dalekonosnego",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)",
+   "https://pl.wikipedia.org/wiki/Gruba_Berta",
+   "https://historynet.com/?p=13690293"
+  ]
+ },
+ {
+  "slug": "dzialo-paryskie",
+  "slugEn": "paris-gun",
+  "term": "Działo paryskie",
+  "termEn": "Paris Gun",
+  "category": "bron",
+  "pattern": "\\b[Dd]ział\\w* paryski\\w*|\\b[Dd]ział\\w* dalekonośn\\w*|[Oo]strza\\w* Paryża",
+  "patternEn": "Paris [Gg]un|\\blong-range guns?\\b|[Ss]helling of Paris",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Niemieckie działo dalekonośne kalibru 21 cm, które od 23 marca do 9 sierpnia 1918 roku ostrzeliwało Paryż z odległości ponad 100 km. Paryżanie nazywali je „Bertą”, mylnie łącząc je z Grubą Bertą.",
+  "shortEn": "A German 21 cm long-range gun that shelled Paris from more than 100 km away between 23 March and 9 August 1918. Parisians called it \"Bertha\", wrongly linking it with Big Bertha.",
+  "long": [
+   "Działo zbudowały zakłady Kruppa: w zużyte lufy okrętowych dział kalibru 38 cm wstawiono długie wkładki kalibru 21 cm, a lufa z przedłużeniem mierzyła ponad 30 metrów. Pocisk ważący około 100 kg wznosił się na wysokość około 40 km, gdzie rzadkie powietrze prawie nie stawiało oporu, i spadał po około trzech minutach lotu. Każdy strzał zdzierał gwint, więc lufy przewiercano na większy kaliber i wymieniano. Obsługiwali je marynarze pod dowództwem wiceadmirała Maximiliana Rogge, a Niemcy nazywali je też działem cesarza Wilhelma.",
+   "Pierwsze pociski spadły na Paryż 23 marca 1918 roku, dwa dni po rozpoczęciu wiosennej ofensywy, z lasu koło Crépy pod Laon. 29 marca pocisk trafił w kościół św. Gerwazego i Protazego w czasie nabożeństwa i zabił około 90 osób. Ostrzał z przerwami, z kolejnych stanowisk, trwał do 9 sierpnia. Według paryskiej prefektury policji spadło 367 pocisków, które zabiły 256 osób i raniły 620; niemieckie dane mówią o około 320 strzałach. Działo miało łamać morale paryżan, ale nie zmieniło przebiegu wojny, a żadne nie wpadło w ręce aliantów."
+  ],
+  "longEn": [
+   "The gun was built by Krupp: long 21 cm liners were inserted into worn 38 cm naval gun barrels, and with its extension the barrel was over 30 metres long. The shell, weighing about 100 kg, rose to some 40 km, where the thin air offered almost no resistance, and came down after about three minutes. Each shot stripped the rifling, so barrels were rebored to a larger calibre and replaced. Sailors under Vice-Admiral Maximilian Rogge manned it, and the Germans also called it the Kaiser Wilhelm Gun.",
+   "The first shells fell on Paris on 23 March 1918, two days after the spring offensive began, fired from woods near Crépy, outside Laon. On 29 March a shell hit the church of Saint-Gervais-Saint-Protais during a service and killed about 90 people. The shelling went on, with breaks and from successive positions, until 9 August. According to the Paris police prefecture 367 shells fell, killing 256 people and wounding 620; German figures speak of about 320 rounds. The gun was meant to break Parisian morale but did not change the course of the war, and the Allies never captured one."
+  ],
+  "see": [
+   "ostrzal-paryza-z-dziala-dalekonosnego",
+   "pocisk-trafia-w-kosciol-saint-gervais",
+   "ostatni-ostrzal-paryza",
+   "bitwy/operacja-michael",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Gun",
+   "https://pl.wikipedia.org/wiki/Działo_paryskie",
+   "https://historynet.com/paris-under-the-gun/"
+  ],
+  "exclude": [
+   "bitwy/bitwa-nad-avre",
+   "bitwy/pierwsza-bitwa-pod-arras-1918",
+   "bitwy/siodma-bitwa-nad-isonzo",
+   "poczatek-bitwy-pod-hazebrouck",
+   "poczatek-trzeciej-bitwy-nad-aisne",
+   "bitwy/obrona-osowca",
+   "brytyjczycy-zajmuja-jerycho",
+   "brytyjczycy-zajmuja-kilose",
+   "poczatek-szostej-bitwy-nad-isonzo"
+  ]
+ },
+ {
+  "slug": "bombowiec",
+  "slugEn": "bomber",
+  "term": "Bombowiec",
+  "termEn": "Bomber",
+  "category": "bron",
+  "pattern": "\\bbombow\\w*|\\b(?<!-)Goth(?:a|y|ę|ą|om|ów|ami|ach)?\\b|Riesenflugzeug\\w*|Handley Page\\w*|\\bCaproni\\w*|Ilj\\w* Murom\\w*",
+  "patternEn": "\\bbombers?\\b|\\b(?<!-)(?<!and )Gothas?\\b|Riesenflugzeug\\w*|Handley Page|\\bCaproni\\w*|Ilya Muromets",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Samolot przeznaczony do zrzucania bomb na cele za frontem i na zapleczu. W I wojnie światowej ciężkie bombowce, jak rosyjskie Ilja Muromiec, włoskie Caproni i niemieckie Gothy, atakowały też miasta.",
+  "shortEn": "An aircraft built to drop bombs on targets behind the front and in the rear. In the First World War heavy bombers such as the Russian Ilya Muromets, the Italian Caproni and the German Gotha also attacked cities.",
+  "long": [
+   "Pierwsze bomby zrzucano w 1914 roku z samolotów rozpoznawczych; już w sierpniu francuskie Voisiny zaatakowały hangary sterowców pod Metz. Pierwszym ciężkim bombowcem był czterosilnikowy Ilja Muromiec Igora Sikorskiego: rosyjska eskadra wykonała nim pierwszy nalot w lutym 1915 roku, a do rewolucji, według różnych źródeł, od ponad 350 do ponad 400 lotów bojowych. Od sierpnia 1915 roku Włosi bombardowali tyły austro-węgierskie Capronimi, a Francuzi i Brytyjczycy tworzyli eskadry do nalotów na niemiecki przemysł.",
+   "W maju 1917 roku dwusilnikowe Gothy zastąpiły sterowce w nalotach na Anglię; 13 czerwca czternaście z nich zbombardowało Londyn w biały dzień. Od jesieni latały nocą, wspierane przez ogromne Riesenflugzeuge, czyli giganty. Do maja 1918 roku niemieckie samoloty zabiły w Wielkiej Brytanii ponad 830 osób i raniły blisko 2000. Naloty wymusiły przebudowę obrony powietrznej i przyczyniły się do utworzenia RAF. Brytyjczycy odpowiadali nalotami Handley Page'ów, a od czerwca 1918 roku Independent Force bombardowała zakłady i miasta w Niemczech."
+  ],
+  "longEn": [
+   "The first bombs were dropped in 1914 from reconnaissance aircraft; as early as August French Voisins attacked airship sheds near Metz. The first heavy bomber was Igor Sikorsky's four-engined Ilya Muromets: a Russian squadron flew its first raid in February 1915 and, according to different sources, more than 350 to more than 400 combat sorties before the revolution. From August 1915 the Italians bombed the Austro-Hungarian rear with Capronis, while the French and British formed squadrons to raid German industry.",
+   "In May 1917 twin-engined Gothas replaced airships in the raids on England; on 13 June fourteen of them bombed London in broad daylight. From the autumn they flew by night, joined by the huge Riesenflugzeuge, the Giants. By May 1918 German aeroplanes had killed more than 830 people in Britain and wounded nearly 2,000. The raids forced a reorganisation of air defence and contributed to the creation of the RAF. The British replied with Handley Page raids, and from June 1918 the Independent Force bombed factories and towns in Germany."
+  ],
+  "see": [
+   "nalot-gothow-na-londyn",
+   "nalot-gigantow-na-londyn",
+   "utworzenie-independent-force",
+   "francuski-nalot-na-zaklady-kruppa",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://centennialofflight.net/essay/Air_Power/WWI_Bombing/AP3.htm",
+   "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_I"
+  ],
+  "exclude": [
+   "bitwy/bitwa-o-grzbiet-thiepval",
+   "bitwy/bitwa-o-sari-bair",
+   "bitwy/bitwa-pod-bullecourt",
+   "bitwy/bitwa-pod-morval",
+   "bitwy/walki-o-wzgorze-60",
+   "koniec-bitwy-o-las-delville",
+   "koniec-bitwy-o-sari-bair",
+   "koniec-bitwy-pod-cambrai",
+   "koniec-bitwy-pod-dojranem",
+   "koniec-bitwy-pod-festubert",
+   "poczatek-bitwy-o-grzbiet-thiepval",
+   "poczatek-bitwy-pod-flers-courcelette",
+   "poczatek-bitwy-pod-guillemont",
+   "poczatek-bitwy-pod-morval",
+   "wigilijny-szturm-na-al-kut"
+  ]
+ },
+ {
+  "slug": "wodnosamolot",
+  "slugEn": "seaplane",
+  "term": "Wodnosamolot",
+  "termEn": "Seaplane",
+  "category": "bron",
+  "pattern": "\\bwodnosamol\\w*|\\bhydroplan\\w*",
+  "patternEn": "\\bseaplanes?\\b|\\bflying boats?\\b|\\bfloatplanes?\\b|\\bhydroplanes?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Samolot startujący z wody i na nią wodujący, na pływakach lub z kadłubem w kształcie łodzi. W I wojnie światowej prowadził rozpoznanie morskie, tropił U-Booty, bombardował, a w 1915 roku zaatakował statek torpedą.",
+  "shortEn": "An aircraft that takes off from and lands on water, on floats or with a boat-shaped hull. In the First World War it scouted at sea, hunted U-boats and bombed, and in 1915 it attacked a ship with a torpedo.",
+  "long": [
+   "Pierwszy udany lot wodnosamolotu wykonał Francuz Henri Fabre w marcu 1910 roku, a Amerykanin Glenn Curtiss zbudował wkrótce pierwsze łodzie latające. Floty chętnie je przyjęły, bo nie potrzebowały lotnisk: startowały z wody w portach albo z okrętów-baz, które opuszczały je dźwigiem za burtę. We wrześniu 1914 roku japońskie wodnosamoloty z okrętu Wakamiya bombardowały Tsingtao, a w Boże Narodzenie brytyjskie, z przerobionych promów, zaatakowały bazę sterowców w Cuxhaven.",
+   "12 sierpnia 1915 roku Charles Edmonds na wodnosamolocie Short 184 zrzucił torpedę na turecki statek na Morzu Marmara, choć cel był już wcześniej unieruchomiony przez okręt podwodny. Short 184 z okrętu Engadine był jedynym brytyjskim samolotem w bitwie jutlandzkiej. Do końca wojny wodnosamoloty i łodzie latające, jak brytyjskie Felixstowe, patrolowały morza w poszukiwaniu U-Bootów i sterowców; własne miały też floty niemiecka, austro-węgierska, włoska i rosyjska. Startom przeszkadzała jednak fala, więc rosło znaczenie samolotów startujących z pokładu."
+  ],
+  "longEn": [
+   "The Frenchman Henri Fabre made the first successful seaplane flight in March 1910, and the American Glenn Curtiss soon built the first flying boats. Navies took to them readily, since they needed no airfields: they took off from the water in harbours or from carriers that lowered them over the side by crane. In September 1914 Japanese seaplanes from the Wakamiya bombed Tsingtao, and on Christmas Day British ones, carried by converted ferries, attacked the airship base at Cuxhaven.",
+   "On 12 August 1915 Charles Edmonds, flying a Short 184 seaplane, dropped a torpedo on a Turkish ship in the Sea of Marmara, although the target had already been crippled by a submarine. A Short 184 from Engadine was the only British aircraft at the Battle of Jutland. Until the end of the war seaplanes and flying boats, such as the British Felixstowes, patrolled the seas looking for U-boats and airships; the German, Austro-Hungarian, Italian and Russian navies had their own. Waves, however, hampered take-offs, so aircraft flying from a deck grew in importance."
+  ],
+  "see": [
+   "pierwszy-statek-zatopiony-torpeda-z-wodnosamolotu",
+   "nalot-na-cuxhaven",
+   "poczatek-bitwy-jutlandzkiej",
+   "bitwy/oblezenie-tsingtao",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seaplane",
+   "https://en.wikipedia.org/wiki/Short_Type_184",
+   "https://www.gracesguide.co.uk/Short_Type_184",
+   "https://en.wikipedia.org/wiki/Seaplane_tender"
+  ]
+ },
+ {
+  "slug": "samochod-pancerny",
+  "slugEn": "armoured-car",
+  "term": "Samochód pancerny",
+  "termEn": "Armoured car",
+  "category": "bron",
+  "pattern": "[Ss]amoch\\w* pancern\\w*",
+  "patternEn": "[Aa]rmou?red cars?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Opancerzony pojazd kołowy, uzbrojony zwykle w karabin maszynowy w obrotowej wieżyczce. W I wojnie światowej mało przydatny wśród okopów, sprawdzał się tam, gdzie front był ruchomy, zwłaszcza na pustyniach.",
+  "shortEn": "An armoured wheeled vehicle, usually armed with a machine gun in a revolving turret. Of little use among the trenches of the First World War, it proved itself where the front was fluid, above all in the desert.",
+  "long": [
+   "Pierwsze uzbrojone samochody zbudowano na przełomie XIX i XX wieku, a w 1914 roku Belgowie użyli bojowo opancerzonych samochodów Minerva. Brytyjskie lotnictwo marynarki (RNAS) jesienią 1914 roku zarekwirowało podwozia Rolls-Royce'a Silver Ghost i osadziło na nich pancerne nadwozia z wieżyczką i karabinem maszynowym Vickers; w czasie wojny powstało około 120 takich wozów. Własne samochody pancerne miały też armie rosyjska, francuska, niemiecka i austro-węgierska. Pancerz chronił tylko przed pociskami karabinowymi i odłamkami.",
+   "Okopy, leje i zasieki szybko odebrały im znaczenie na froncie zachodnim, ale na otwartym terenie pozostały cenne. W Egipcie w marcu 1916 roku samochody pancerne księcia Westminsteru rozbiły siły bractwa Sanusijja i uwolniły jeńców z zatopionego statku Tara, a T. E. Lawrence nazwał swoje Rolls-Royce'y „cenniejszymi od rubinów”. W Mezopotamii i Palestynie w latach 1917–1918 ścigały cofające się wojska tureckie. Szczególnie przydatne były na froncie wschodnim, a w wojnie domowej w Rosji i w wojnie polsko-bolszewickiej stały się bronią powszechną."
+  ],
+  "longEn": [
+   "The first armed cars were built around the turn of the twentieth century, and in 1914 the Belgians used armoured Minerva cars in combat. In autumn 1914 the Royal Naval Air Service requisitioned Rolls-Royce Silver Ghost chassis and fitted them with armoured bodies, a turret and a Vickers machine gun; about 120 were built during the war. The Russian, French, German and Austro-Hungarian armies also had armoured cars. Their armour protected only against rifle bullets and splinters.",
+   "Trenches, craters and wire soon made them irrelevant on the Western Front, but in open country they remained valuable. In Egypt in March 1916 the Duke of Westminster's armoured cars routed the Senussi and freed the prisoners from the sunken ship Tara, and T. E. Lawrence called his Rolls-Royces \"more valuable than rubies\". In Mesopotamia and Palestine in 1917–1918 they pursued retreating Turkish troops. They were particularly useful on the Eastern Front, and in the Russian Civil War and the Polish-Soviet War they became a common weapon."
+  ],
+  "see": [
+   "brytyjczycy-odzyskuja-as-sallum",
+   "walki-w-oazie-siwa",
+   "bitwy/bitwa-pod-chan-al-baghdadi",
+   "bitwy/bitwa-pod-megiddo",
+   "tematy/nowe-rodzaje-broni-w-i-wojnie-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rolls-Royce_Armoured_Car",
+   "https://en.wikipedia.org/wiki/Armored_car_(military)",
+   "https://pl.wikipedia.org/wiki/Samochód_pancerny",
+   "https://www.awm.gov.au/collection/C1026"
+  ]
+ },
+ {
+  "slug": "szrapnel",
+  "slugEn": "shrapnel-shell",
+  "term": "Szrapnel",
+  "termEn": "Shrapnel shell",
+  "category": "bron",
+  "pattern": "\\b[Ss]zrapnel\\w*",
+  "patternEn": "\\b[Ss]hrapnel\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Pocisk artyleryjski wypełniony ołowianymi kulkami, które zapalnik czasowy uwalniał w powietrzu przed celem. Skuteczny przeciw piechocie na otwartym terenie, w wojnie okopowej ustępował pociskom burzącym.",
+  "shortEn": "An artillery shell filled with lead balls that a time fuze released in the air in front of the target. Effective against infantry in the open, in trench warfare it gave way to high-explosive shells.",
+  "long": [
+   "Pocisk opracował pod koniec XVIII wieku brytyjski oficer artylerii Henry Shrapnel, a armia brytyjska przyjęła go w 1803 roku. Szrapnel miał skorupę wypełnioną ołowianymi kulkami i niewielki ładunek prochu. Zapalnik czasowy rozrywał go przed celem lub nad nim, a kulki leciały dalej z prędkością pocisku, raniąc żołnierzy na dużej przestrzeni. W 1914 roku był podstawowym pociskiem dział polowych wszystkich armii; brytyjskie działa polowe do października 1914 roku strzelały wyłącznie szrapnelami.",
+   "W wojnie pozycyjnej szrapnel okazał się mało skuteczny: nie niszczył okopów ani schronów, a zasieki przecinał tylko przy bardzo dokładnym ustawieniu zapalnika. Armie przechodziły więc na pociski burzące, choć Brytyjczycy długo zachowali duży udział szrapneli, co zaważyło m.in. pod Aubers w 1915 roku i nad Sommą w 1916 roku. Szrapnele zostały jednak w ruchomych zaporach ogniowych osłaniających piechotę. Polski generał Tadeusz Rozwadowski skonstruował granato-szrapnel, wybuchający w powietrzu i przy uderzeniu. Potocznie szrapnelem nazywa się dziś każdy odłamek."
+  ],
+  "longEn": [
+   "The shell was devised at the end of the eighteenth century by the British artillery officer Henry Shrapnel, and the British army adopted it in 1803. A shrapnel shell had a case filled with lead balls and a small powder charge. The time fuze burst it in front of or above the target, and the balls flew on at the shell's speed, wounding soldiers over a wide area. In 1914 it was the main field-gun round of every army; British field guns fired nothing but shrapnel until October 1914.",
+   "In trench warfare shrapnel proved of little use: it did not destroy trenches or dugouts, and it cut wire only if the fuze was set very precisely. Armies therefore turned to high explosive, although the British long kept a large share of shrapnel, which told at Aubers in 1915 and on the Somme in 1916. Shrapnel remained in the creeping barrages that covered the infantry. The Polish general Tadeusz Rozwadowski designed a shell that burst both in the air and on impact. Today any shell splinter is loosely called shrapnel."
+  ],
+  "see": [
+   "bitwy/bitwa-o-grzbiet-aubers",
+   "postacie/tadeusz-rozwadowski",
+   "bitwy/bitwa-pod-nonne-bosschen",
+   "tematy/zycie-w-okopach"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrapnel_shell",
+   "https://en.rcamuseum.com/a-rusty-shrapnel-round/"
+  ]
+ },
+ {
+  "slug": "dzialo-kolejowe",
+  "slugEn": "railway-gun",
+  "term": "Działo kolejowe",
+  "termEn": "Railway gun",
+  "category": "bron",
+  "pattern": "[Dd]ział\\w* kolejow\\w*|[Hh]aubic\\w* kolejow\\w*|lawet\\w* kolejow\\w*|platform\\w* kolejow\\w*",
+  "patternEn": "railway (?:guns?|howitzers?|mountings?)\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Ciężkie działo na specjalnej lawecie kolejowej, przewożone i zwykle strzelające z torów. W I wojnie światowej najczęściej przerobione działo okrętowe, używane do ostrzału fortów, węzłów i miast za frontem.",
+  "shortEn": "A heavy gun on a special railway mounting, moved and usually fired from the track. In the First World War it was most often a converted naval gun, used to shell forts, rail junctions and towns behind the front.",
+  "long": [
+   "Pomysł znano od XIX wieku, ale rozwinął się w wojnie pozycyjnej, gdy potrzebowano dział cięższych, niż mogły przewieźć drogi. Na wagonach montowano przede wszystkim zbędne działa okrętowe i nadbrzeżne. Lufę naprowadzano, przesuwając wagon po łuku toru albo obracając lawetę, a odrzut przy największych kalibrach przejmowały kotwy i podpory lub cały wagon, przetaczający się po szynach. Najwięcej typów i kalibrów miała Francja, po niej Niemcy i Wielka Brytania; w 1918 roku do Francji trafiły też amerykańskie działa okrętowe kalibru 14 cali.",
+   "W październiku 1916 roku dwie francuskie haubice kolejowe kalibru 400 mm przebiły stropy fortu Douaumont, co ułatwiło jego odbicie 24 października. Latem 1918 roku Niemcy ostrzeliwali Amiens z odległości około 25 km z działa kalibru 28 cm, przerobionego z działa okrętowego z 1904 roku. 8 sierpnia 1918 roku ten skład zdobyto pod Harbonnières, a lufę ma dziś Australijski Pomnik Wojenny w Canberze. Także działo paryskie dowożono koleją na przygotowane stanowiska."
+  ],
+  "longEn": [
+   "The idea dated from the nineteenth century but flourished in trench warfare, when guns heavier than the roads could carry were needed. Above all surplus naval and coast-defence guns were mounted on wagons. The barrel was aimed by moving the wagon along a curved track or by turning the mounting, while on the largest calibres the recoil was taken by anchors and struts or by the whole wagon rolling back along the rails. France had the most types and calibres, followed by Germany and Britain; in 1918 American 14-inch naval guns also reached France.",
+   "In October 1916 two French 400 mm railway howitzers pierced the roofs of Fort Douaumont, which helped retake it on 24 October. In summer 1918 the Germans shelled Amiens from about 25 km with a 28 cm gun converted from a naval gun of 1904. On 8 August 1918 this train was captured near Harbonnières, and its barrel is now at the Australian War Memorial in Canberra. The Paris Gun, too, was brought to its prepared positions by rail."
+  ],
+  "see": [
+   "francuzi-odbijaja-fort-douaumont",
+   "poczatek-bitwy-pod-amiens",
+   "bitwy/pierwsza-ofensywna-bitwa-pod-verdun",
+   "niemieccy-parlamentariusze-u-focha",
+   "postacie/charles-mangin"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Railway_gun",
+   "https://awm.gov.au/exhibitions/1918/battles/amiensgun",
+   "https://actualites.musee-armee.fr/expositions-en/lhyperbataille-de-verdun-sixieme-episode-les-offensives-francaises-19-octobre-15-decembre-1916-2/?lang=en"
+  ]
+ },
+ {
+  "slug": "krazownik-pomocniczy",
+  "slugEn": "auxiliary-cruiser",
+  "term": "Krążownik pomocniczy",
+  "termEn": "Auxiliary cruiser",
+  "category": "morze",
+  "pattern": "krążownik\\w* pomocnicz\\w*",
+  "patternEn": "[Aa]uxiliary cruisers?|[Aa]rmed merchant cruisers?",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Statek handlowy, zwykle szybki liniowiec pasażerski, uzbrojony i wcielony do floty wojennej. Brytyjczycy używali ich do patroli blokady i eskorty, Niemcy przede wszystkim jako rajderów na szlakach handlowych.",
+  "shortEn": "A merchant ship, usually a fast passenger liner, armed and taken into a navy. Britain used them for blockade patrols and escort work, Germany above all as raiders on the trade routes.",
+  "long": [
+   "Jeszcze przed wojną Wielka Brytania i Niemcy porozumiewały się z armatorami, by budowali szybkie statki, na których w razie wojny można ustawić działa. W sierpniu 1914 roku obie floty zarekwirowały dziesiątki liniowców, uzbroiły je w lekkie działa i obsadziły załogami marynarki. Krążownik pomocniczy był okrętem wojennym, w odróżnieniu od statku handlowego uzbrojonego tylko do obrony. 14 września 1914 roku pod wyspą Trindade starły się dwa takie okręty: brytyjska Carmania zatopiła niemiecki Cap Trafalgar, upodobniony do niej przez przemalowanie.",
+   "Brytyjskie krążowniki pomocnicze tworzyły trzon 10 Eskadry Krążowników, która od 1914 do listopada 1917 roku pilnowała wód na północ od Szkocji i skontrolowała prawie 13 tysięcy statków; dziesięć z nich zatonęło. Służyły też do eskortowania konwojów i jako transportowce. Niemieckie krążowniki pomocnicze z 1914 roku, jak Kaiser Wilhelm der Grosse, Kronprinz Wilhelm czy Prinz Eitel Friedrich, szybko zatopiono lub internowano, a od 1915 roku na morze wychodziły skromniejsze, zamaskowane frachtowce, jak Möwe i Wolf."
+  ],
+  "longEn": [
+   "Even before the war Britain and Germany came to terms with shipowners to build fast ships that could mount guns in wartime. In August 1914 both navies requisitioned dozens of liners, armed them with light guns and manned them with naval crews. An auxiliary cruiser was a warship, unlike a merchant ship armed only for self-defence. On 14 September 1914 two such ships met off the island of Trindade: the British Carmania sank the German Cap Trafalgar, which had been repainted to look like her.",
+   "British auxiliary cruisers formed the core of the 10th Cruiser Squadron, which from 1914 to November 1917 watched the waters north of Scotland and inspected almost 13,000 ships; ten of them were lost. They also escorted convoys and served as transports. Germany's auxiliary cruisers of 1914, such as Kaiser Wilhelm der Grosse, Kronprinz Wilhelm and Prinz Eitel Friedrich, were soon sunk or interned, and from 1915 more modest, disguised freighters such as Möwe and Wolf put to sea."
+  ],
+  "see": [
+   "krazownik-pomocniczy-kaiser-wilhelm-der-grosse-wyplywa-na-atlantyk",
+   "carmania-zatapia-cap-trafalgar",
+   "internowanie-kronprinz-wilhelm",
+   "mowe-wyplywa-w-pierwszy-rejs",
+   "niemiecka-nota-o-uzbrojonych-statkach-handlowych"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armed_merchant_cruiser",
+   "https://en.wikipedia.org/wiki/Northern_Patrol",
+   "https://www.rmg.co.uk/collections/objects/rmgc-object-204091",
+   "https://naval-history.net/WW1Battle-HMS_Carmania_v_SMS_Cap_Trafalgar_1914.htm"
+  ]
+ },
+ {
+  "slug": "kontrabanda",
+  "slugEn": "contraband",
+  "term": "Kontrabanda wojenna",
+  "termEn": "Contraband of war",
+  "category": "morze",
+  "pattern": "\\b[Kk]ontraband\\w*",
+  "patternEn": "\\b[Cc]ontraband\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Towary, które strona wojująca może zatrzymać i skonfiskować na morzu, także na statku neutralnym, jeśli płyną do przeciwnika. Rozszerzanie list kontrabandy było głównym prawnym narzędziem blokady Niemiec.",
+  "shortEn": "Goods that a belligerent may stop and confiscate at sea, even on a neutral ship, if they are bound for the enemy. Widening the contraband lists was the main legal instrument of the blockade of Germany.",
+  "long": [
+   "Deklaracja londyńska z 26 lutego 1909 roku, uzgodniona przez dziesięć państw morskich, dzieliła towary na trzy grupy. Kontrabandę bezwzględną, czyli broń, amunicję i sprzęt wojskowy, można było zająć w drodze do nieprzyjaciela, także przez port neutralny. Kontrabandę względną, towary podwójnego użytku, jak żywność, paliwo czy złoto, tylko w drodze do sił lub władz przeciwnika i nie przez port neutralny. Na liście wolnej były m.in. surowce włókiennicze, kauczuk i rudy. Deklaracji nikt nie ratyfikował, bo odrzuciła ją brytyjska Izba Lordów.",
+   "W sierpniu 1914 roku Wielka Brytania i Francja ogłosiły, że będą ją stosować z własnymi zmianami. W kolejnych miesiącach przenosiły towary z listy wolnej i względnej na bezwzględną, a kontrabandę względną zatrzymywały także w drodze do portów neutralnych, jeśli jej celem były Niemcy. Państwa neutralne, zwłaszcza Stany Zjednoczone i Holandia, protestowały. 7 lipca 1916 roku sojusznicy odstąpili od deklaracji, a pod koniec wojny niemal każdy ładunek płynący do Niemiec traktowano jak kontrabandę."
+  ],
+  "longEn": [
+   "The Declaration of London of 26 February 1909, agreed by ten naval powers, divided goods into three groups. Absolute contraband, meaning arms, ammunition and military equipment, could be seized on its way to the enemy, even via a neutral port. Conditional contraband, dual-use goods such as food, fuel or gold, only on its way to the enemy's forces or government and not via a neutral port. The free list included textile raw materials, rubber and ores. No one ratified the Declaration, because the British House of Lords rejected it.",
+   "In August 1914 Britain and France announced that they would apply it with their own changes. In the following months they moved goods from the free and conditional lists to the absolute one, and seized conditional contraband even on its way to neutral ports if it was bound for Germany. Neutral countries, especially the United States and the Netherlands, protested. On 7 July 1916 the Allies abandoned the Declaration, and by the end of the war almost any cargo bound for Germany was treated as contraband."
+  ],
+  "see": [
+   "wielka-brytania-oglasza-liste-kontrabandy-wojennej",
+   "nowa-brytyjska-lista-kontrabandy-i-deklaracja-londynska",
+   "francja-deklaracja-londynska-z-modyfikacjami",
+   "uchylenie-deklaracji-londynskiej",
+   "tematy/wojna-podwodna-1914-1918"
+  ],
+  "sources": [
+   "https://lagen.nu/icrc/255",
+   "https://history.state.gov/historicaldocuments/frus1914Supp/d369",
+   "https://en.wikipedia.org/wiki/Contraband"
+  ]
+ },
+ {
+  "slug": "niszczyciel",
+  "slugEn": "destroyer",
+  "term": "Niszczyciel",
+  "termEn": "Destroyer",
+  "category": "morze",
+  "pattern": "\\b[Nn]iszczyciel(?!sk)\\w*(?! niepodległ)|\\b[Tt]orpedow(?:iec|c\\w*)",
+  "patternEn": "\\b[Dd]estroyers?\\b(?! of the indep)|\\b[Tt]orpedo[- ]boats?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Szybki, lekki okręt uzbrojony w działa i torpedy, pierwotnie przeznaczony do zwalczania torpedowców. W I wojnie światowej osłaniał floty, atakował torpedami, a od 1917 roku eskortował konwoje i tropił U-Booty.",
+  "shortEn": "A fast, light warship armed with guns and torpedoes, originally meant to fight torpedo boats. In the First World War it screened fleets, made torpedo attacks and from 1917 escorted convoys and hunted U-boats.",
+  "long": [
+   "Gdy torpeda samobieżna dała małym torpedowcom szansę na zatopienie pancernika, floty zaczęły budować większe i szybsze okręty do ich zwalczania. W latach 90. XIX wieku Royal Navy wprowadziła z inicjatywy Johna Fishera niszczyciele torpedowców, jak Havock, które same też przenosiły torpedy i dotrzymywały kroku flocie. Niemcy nie rozróżniali obu klas: do końca wojny budowali torpedowce, które w praktyce były niszczycielami, i oznaczali je literą stoczni i numerem.",
+   "W 1914 roku niszczyciele miały chronić własne pancerniki przed atakiem torpedowym i same atakować flotę przeciwnika; w bitwie jutlandzkiej walczyło blisko 80 brytyjskich niszczycieli i około 60 niemieckich torpedowców. Wojna podwodna zmieniła ich zadania: z dziobami wzmocnionymi do taranowania, bombami głębinowymi i hydrofonami patrolowały wody przybrzeżne, a od 1917 roku eskortowały konwoje. 4 maja 1917 roku do Queenstown przypłynęło pierwszych sześć amerykańskich niszczycieli. Wielka Brytania straciła w wojnie 67 niszczycieli, wiele w kolizjach i na skałach."
+  ],
+  "longEn": [
+   "When the self-propelled torpedo gave small torpedo boats the chance to sink a battleship, navies began building larger, faster ships to fight them. In the 1890s the Royal Navy, prompted by John Fisher, introduced torpedo-boat destroyers such as Havock, which also carried torpedoes and could keep up with the fleet. Germany made no distinction between the two classes: until the end of the war it built torpedo boats that were in practice destroyers, identified by a builder's letter and a number.",
+   "In 1914 destroyers were to protect their own battleships from torpedo attack and to attack the enemy fleet themselves; nearly 80 British destroyers and about 60 German torpedo boats fought at Jutland. Submarine warfare changed their tasks: with bows strengthened for ramming, depth charges and hydrophones, they patrolled coastal waters and from 1917 escorted convoys. On 4 May 1917 the first six American destroyers reached Queenstown. Britain lost 67 destroyers in the war, many in collisions and on rocks."
+  ],
+  "see": [
+   "amerykanskie-niszczyciele-w-queenstown",
+   "pierwszy-niemiecki-rajd-niszczycieli-w-ciesninie-kaletanskiej",
+   "japonskie-niszczyciele-na-morzu-srodziemnym",
+   "bitwy/bitwa-jutlandzka",
+   "tematy/wojna-podwodna-1914-1918"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Destroyer",
+   "https://www.militarytimes.com/military-honor/world-war-i/2017/04/06/world-war-i-and-the-navy-the-u-boat-threat-leads-to-game-changing-innovations/"
+  ]
+ },
+ {
+  "slug": "statek-szpitalny",
+  "slugEn": "hospital-ship",
+  "term": "Statek szpitalny",
+  "termEn": "Hospital ship",
+  "category": "morze",
+  "pattern": "[Ss]tat[ek]\\w* szpitaln\\w*|[Oo]kręt\\w* szpitaln\\w*",
+  "patternEn": "[Hh]ospital ships?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Statek oznaczony czerwonym krzyżem, przewożący rannych i chorych, chroniony prawem wojennym przed atakiem. W I wojnie światowej ponad dwadzieścia zatonęło od min i torped, m.in. Britannic i Llandovery Castle.",
+  "shortEn": "A ship marked with a red cross, carrying the sick and wounded, protected from attack by the laws of war. Over twenty were sunk by mines and torpedoes in the First World War, among them Britannic and Llandovery Castle.",
+  "long": [
+   "Status statków szpitalnych określała X konwencja haska z 1907 roku: miały pomagać rannym wszystkich stron, nie mogły służyć celom wojskowym ani przeszkadzać okrętom przeciwnika, a strony wojujące mogły je kontrolować. Na służbę szpitalną przerabiano głównie liniowce pasażerskie, malowane na biało, z dużymi czerwonymi krzyżami, nocą oświetlonymi. Najwięcej miała ich Wielka Brytania, która przewoziła nimi rannych z Francji, Gallipoli, Salonik i Bliskiego Wschodu.",
+   "Niemcy zarzucali aliantom, że statki szpitalne wożą żołnierzy i amunicję, i w czasie nieograniczonej wojny podwodnej U-Booty atakowały je także torpedami. Największy z nich, Britannic, siostrzany statek Titanica, zatonął 21 listopada 1916 roku na Morzu Egejskim na minie postawionej przez U-73; zginęło 30 osób. Najwięcej ofiar pochłonęło storpedowanie kanadyjskiego Llandovery Castle 27 czerwca 1918 roku: zginęły 234 osoby, w tym 14 pielęgniarek, a U-86 ostrzelał łodzie ratunkowe. Po wojnie sąd w Lipsku skazał za to dwóch oficerów okrętu."
+  ],
+  "longEn": [
+   "The status of hospital ships was set by the Tenth Hague Convention of 1907: they were to help the wounded of all sides, could not serve military purposes or hinder enemy warships, and belligerents could inspect them. Mostly passenger liners were converted, painted white with large red crosses lit up at night. Britain had the most, using them to carry the wounded from France, Gallipoli, Salonika and the Middle East.",
+   "Germany accused the Allies of using hospital ships to carry troops and munitions, and during unrestricted submarine warfare U-boats also torpedoed them. The largest, Britannic, sister ship of the Titanic, sank on 21 November 1916 in the Aegean on a mine laid by U-73; 30 people died. The heaviest loss was the torpedoing of the Canadian Llandovery Castle on 27 June 1918: 234 people died, among them 14 nurses, and U-86 fired on the lifeboats. After the war a court in Leipzig convicted two of the submarine's officers."
+  ],
+  "see": [
+   "zatoniecie-statku-szpitalnego-britannic",
+   "zatopienie-llandovery-castle",
+   "zatoniecie-statku-szpitalnego-anglia",
+   "storpedowanie-statku-szpitalnego-asturias",
+   "tematy/wojna-podwodna-1914-1918"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_hospital_ships_sunk_in_World_War_I",
+   "https://www.canjsurg.ca/content/61/3/155"
+  ]
+ },
+ {
+  "slug": "okret-baza-wodnosamolotow",
+  "slugEn": "seaplane-carrier",
+  "term": "Okręt-baza wodnosamolotów",
+  "termEn": "Seaplane carrier",
+  "category": "morze",
+  "pattern": "[Oo]kręt\\w*-baz\\w* wodnosamol\\w*|[Tt]ransportow\\w* wodnosamol\\w*|\\blotniskow\\w*",
+  "patternEn": "[Ss]eaplane (?:carriers?|tenders?)\\b|[Aa]ircraft carriers?\\b",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Okręt przewożący wodnosamoloty, opuszczający je na wodę i podejmujący po locie, zwykle przebudowany statek. Z nich wyrósł lotniskowiec: w 1918 roku samoloty z HMS Furious zbombardowały bazę sterowców w Tondern.",
+  "shortEn": "A ship, usually a converted merchantman, that carried seaplanes, lowered them onto the water and hoisted them back. It led to the aircraft carrier: in 1918 aircraft from HMS Furious bombed the airship base at Tondern.",
+  "long": [
+   "Pierwsze były francuski Foudre z 1911 roku i brytyjski krążownik Hermes, przebudowany w 1913 roku. W sierpniu 1914 roku Admiralicja przejęła szybkie promy z kanału La Manche, Engadine, Rivierę i Empress, z których wodnosamoloty zaatakowały w Boże Narodzenie bazę sterowców w Cuxhaven. Ark Royal, przebudowany jeszcze w stoczni, wspierał operację w Dardanelach, a z Ben-my-Chree wystartował w sierpniu 1915 roku pierwszy samolot torpedowy. Okręty-bazy wodnosamolotów mieli też Rosjanie na Morzu Czarnym, Japończycy i Niemcy.",
+   "Okręt musiał się zatrzymać, by opuścić lub podjąć samolot, co przy fali bywało niemożliwe. Brytyjczycy próbowali więc startów z pokładu: Campania miała pokład startowy, a lekki krążownik liniowy Furious w 1917 roku dostał na dziobie hangar i pokład, na którym 2 sierpnia Edwin Dunning jako pierwszy wylądował na płynącym okręcie. 19 lipca 1918 roku Sopwith Camele z Furiousa zniszczyły w Tondern sterowce L 54 i L 60. We wrześniu 1918 roku wszedł do służby Argus, z pokładem na całej długości."
+  ],
+  "longEn": [
+   "The first were the French Foudre of 1911 and the British cruiser Hermes, converted in 1913. In August 1914 the Admiralty took over fast cross-Channel ferries, Engadine, Riviera and Empress, whose seaplanes attacked the airship base at Cuxhaven on Christmas Day. Ark Royal, converted while still on the stocks, supported the Dardanelles operation, and in August 1915 the first torpedo aircraft took off from Ben-my-Chree. The Russians in the Black Sea, the Japanese and the Germans also had seaplane carriers.",
+   "The ship had to stop to lower or recover an aircraft, which in a swell could be impossible. So the British tried taking off from a deck: Campania had a flying-off deck, and in 1917 the light battlecruiser Furious was given a hangar and deck forward, on which on 2 August Edwin Dunning made the first landing on a ship under way. On 19 July 1918 Sopwith Camels from Furious destroyed the airships L 54 and L 60 at Tondern. In September 1918 Argus, with a full-length flight deck, entered service."
+  ],
+  "see": [
+   "zatoniecie-hms-hermes",
+   "nalot-na-cuxhaven",
+   "zatoniecie-campanii",
+   "ostatni-nalot-zeppelinow",
+   "zniszczenie-sterowca-l-23"
+  ],
+  "sources": [
+   "https://www.historyofwar.org/articles/lists_carriers_british_WWI.html",
+   "https://historynet.com/the-tondern-raid/",
+   "https://en.wikipedia.org/wiki/Seaplane_tender"
+  ]
+ }
+]

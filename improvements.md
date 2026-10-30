@@ -1968,6 +1968,63 @@ Owner's request ("don't make a mess in the repo").
   forts fell by 16 VIII" vs 16–17 VIII. The Mons, Charleroi, Ardennes,
   Lorraine and Miluza battle pages are ~400 words: next candidates.
 
+## 35. Glossary, second batch: 50 terms (2026-10-30)
+
+- `src/data/glossary.json`: 84 → 134 terms, PL/EN (brief
+  `scripts/briefs/glossary.md`, entries in `scripts/evidence/glossary/`,
+  checker and merge `scripts/checks/glossary.py`). Candidates were chosen
+  by how many articles use them (a count over all articles, battles and
+  people); each new term matches at least 3 pages per language.
+  - Sprawa polska: Akt 5 listopada, Związek Strzelecki, Sokół, Naczelna
+    Rada Ludowa, Rada Polska Zjednoczenia Międzypartyjnego.
+  - Wojsko: askarysi, Schutztruppe, Kozacy, Armia Wschodu, kawaleria
+    wielbłądzia, Yıldırım, Krzyż Wiktorii, Pour le Mérite, wojna minowa,
+    zasieki.
+  - Broń: Gruba Berta, działo paryskie, bombowiec, wodnosamolot, samochód
+    pancerny, szrapnel, działo kolejowe, moździerz okopowy.
+  - Morze: krążownik pomocniczy, kontrabanda wojenna, niszczyciel, statek
+    szpitalny, okręt-baza wodnosamolotów.
+  - Polityka: Liga Narodów, traktat wersalski, paryska konferencja
+    pokojowa, system mandatowy, reparacje, wojny bałkańskie, kryzysy
+    marokańskie, gabinet wojenny.
+  - Rewolucja: Ukraińska Centralna Rada, Hetmanat, bataliony śmierci,
+    Ochrana, rewolucja listopadowa, Związek Spartakusa, legenda o ciosie
+    w plecy.
+  - Ludność: rekwizycje, propaganda wojenna, cenzura, Czerwony Krzyż,
+    pożyczki wojenne, prawa wyborcze kobiet, cmentarze wojenne (the West
+    Galician cemeteries first).
+- Dropped: Trójprzymierze (already in `panstwa-centralne`), nerwica
+  frontowa (under 3 pages).
+- Existing patterns narrowed so they don't mark the new terms: `haubica`
+  no longer matches Gruba Berta, trench or Stokes mortars (also when a link
+  splits "[moździerzy] okopowych"); `rajder` no longer matches auxiliary
+  cruisers.
+- The checker now also rejects pattern escapes that JavaScript's `u` flag
+  refuses (`\"` passed Python but broke two English patterns).
+- Collisions handled by the writers (examples for the port): "Liga
+  Narodowa" (Dmowski) vs Liga Narodów; parliamentary vs League mandates;
+  "konferencja pokojowa" also means Brest, Bucharest, The Hague; "wojna
+  minowa" at sea; "bombers" = grenade throwers in English battle pages
+  (15 excluded); "działa dalekonośne" in general (9 excluded); Askari the
+  surname; the destroyer *Cossack*; "rewolucja w Niemczech" hoped for by
+  the Bolsheviks (6 excluded); propaganda and censorship outside the war
+  (Nazi, Soviet, Boer War: excluded).
+
+**Port back to thesecondwar.pl:** the checker (`scripts/checks/glossary.py`:
+page counts, sample matches, JS-escape check, `--merge`).
+
+### Writers' notes (for the review list)
+
+- `1917/08/francja-uznaje-komitet-narodowy-polski` (PL/EN): the Rada Polska
+  Zjednoczenia Międzypartyjnego "w Piotrogrodzie"; its seat was Moscow (pl.wiki,
+  Tarasiuk/IPN; our Haller and Kaniów articles say Moscow).
+- Liman von Sanders took over Yıldırım 1 III 1918 (our articles) vs 24/25 II
+  (en/tr.wiki); the entry says "24 II – 1 III".
+- Thin sourcing: Pour le Mérite (no non-Wikipedia WWI source), Kozacy,
+  Ochrana (Spartacus Educational), niszczyciel, bombowiec, samochód
+  pancerny, wodnosamolot, reparation payments (Wikipedia only). Britannica,
+  IWM, 1914-1918-online, nzhistory and PWN again refused automated reading.
+
 ---
 
 ## Roadmap (checklist)
@@ -2060,6 +2117,7 @@ finished, tick it here and add its section above.
   from the guides and the series (§33)
 - [x] Short articles expanded: 10 milestones and 20 key events, with
   sources, PL/EN (§34)
+- [x] Glossary, second batch: 50 terms (134 in all), PL/EN (§35)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

@@ -1,0 +1,265 @@
+[
+ {
+  "slug": "rekwizycje",
+  "slugEn": "requisitions",
+  "term": "Rekwizycje",
+  "termEn": "Requisitions",
+  "category": "okupacja",
+  "pattern": "\\b[Rr]ekwi[zr]\\w*|\\bzarekwir\\w*",
+  "patternEn": "\\b[Rr]equisition\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Przymusowe zabieranie przez wojsko lub państwo żywności, koni, surowców, maszyn czy statków na potrzeby wojny, za pokwitowaniem lub zaniżoną zapłatą. Na ziemiach okupowanych pogłębiały nędzę i głód.",
+  "shortEn": "The compulsory taking of food, horses, raw materials, machinery or ships by an army or state for the needs of the war, against a receipt or an artificially low price. In occupied lands they deepened poverty and hunger.",
+  "long": [
+   "Konwencja haska z 1907 roku pozwalała okupantowi żądać od ludności świadczeń w naturze tylko na potrzeby armii okupacyjnej, w miarę zasobów kraju, za gotówkę albo pokwitowanie. W praktyce wojska wszystkich stron od pierwszych tygodni wojny rekwirowały żywność, konie, podwody i kwatery, a front przechodzący przez Galicję, Królestwo Polskie, Serbię czy północną Francję zostawiał ogołocone wsie. Państwa rekwirowały też statki handlowe, samochody, a nawet londyńskie autobusy.",
+   "Gdy wojna się przeciągnęła, okupanci zastąpili doraźne zabieranie kontyngentami, cenami urzędowymi i monopolami. W Warszawie Niemcy już w sierpniu 1915 roku zarządzili rekwizycję metali, skór, wełny i chemikaliów, a maszyny wywożono do Rzeszy. W austro-węgierskim gubernatorstwie lubelskim do wsi, która nie oddała kontyngentu, wysyłano wojskowych rekwizytorów. Płacono po cenach dalekich od rynkowych, więc według Stephana Lehnstaedta była to w istocie częściowa rekwizycja. W Belgii rekwizycje surowców i wywóz maszyn przyczyniły się do bezrobocia sięgającego 650 tysięcy osób."
+  ],
+  "longEn": [
+   "The Hague Convention of 1907 allowed an occupier to demand contributions in kind from the population only for the needs of the army of occupation, in proportion to the country's resources, against cash or a receipt. In practice the armies of every side requisitioned food, horses, carts and quarters from the first weeks of the war, and the front passing through Galicia, the Kingdom of Poland, Serbia or northern France left villages stripped bare. States also requisitioned merchant ships, motor cars and even London buses.",
+   "As the war dragged on, occupiers replaced ad hoc seizures with quotas, official prices and monopolies. In Warsaw the Germans ordered the requisitioning of metals, leather, wool and chemicals as early as August 1915, and machinery was shipped to the Reich. In the Austro-Hungarian government-general of Lublin, military requisitioners were sent to any village that failed to deliver its quota. Payment was at prices far below the market, so in Stephan Lehnstaedt's view it was in effect a partial requisition. In Belgium the requisitioning of raw materials and removal of machinery helped push unemployment up to 650,000."
+  ],
+  "see": [
+   "glod-w-warszawie-i-lodzi",
+   "niemcy-zajmuja-lodz",
+   "wielka-brytania-zezwala-na-rekwizycje-statkow",
+   "postacie/karl-kuk",
+   "tematy/wojna-na-ziemiach-polskich"
+  ],
+  "sources": [
+   "https://rcin.org.pl//Content/47217/PDF/WA303_63644_A507-DN-R-45-1_Lehnstaedt.pdf",
+   "https://avalon.law.yale.edu/20th_century/hague04.asp",
+   "https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_I",
+   "https://pl.wikipedia.org/wiki/Rekwizycja"
+  ],
+  "exclude": [
+   "postacie/philipp-scheidemann"
+  ]
+ },
+ {
+  "slug": "propaganda-wojenna",
+  "slugEn": "war-propaganda",
+  "term": "Propaganda wojenna",
+  "termEn": "War propaganda",
+  "category": "okupacja",
+  "pattern": "\\b[Pp]ropagand\\w*",
+  "patternEn": "\\b[Pp]ropagand\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Planowe kształtowanie opinii własnego społeczeństwa, sojuszników, neutralnych i wroga przez prasę, plakaty, broszury, filmy i ulotki. W tej wojnie po raz pierwszy prowadziły ją na masową skalę urzędy państwowe.",
+  "shortEn": "The systematic shaping of the opinion of one's own public, allies, neutrals and the enemy through the press, posters, pamphlets, films and leaflets. In this war state agencies ran it on a mass scale for the first time.",
+  "long": [
+   "Od sierpnia 1914 roku walczące państwa wydawały barwne księgi dokumentów, które miały dowieść, że wojnę narzucił im przeciwnik; Niemcy opublikowały Białą Księgę już 4 sierpnia. W Wielkiej Brytanii tajne biuro w Wellington House, kierowane przez Charlesa Mastermana, pozyskało znanych pisarzy i do lutego 1916 roku rozesłało za granicę około 7 milionów broszur, głównie z myślą o Stanach Zjednoczonych. Opublikowany w maju 1915 roku raport Bryce'a o zbrodniach w Belgii, oparty na około 1200 zeznaniach, był jednym z jej najskuteczniejszych narzędzi.",
+   "Z czasem propaganda stała się zadaniem rządów. Brytyjczycy utworzyli w lutym 1917 roku Departament Informacji Johna Buchana, a w marcu 1918 roku Ministerstwo Informacji lorda Beaverbrooka; w USA od 1917 roku działał Komitet Informacji Publicznej George'a Creela. Propaganda posługiwała się filmem, plakatem i karykaturą, a ulotki zrzucano nad okopami przeciwnika. Wiele opowieści o okrucieństwach okazało się później przesadzonych lub zmyślonych."
+  ],
+  "longEn": [
+   "From August 1914 the belligerents published coloured books of documents meant to prove that the enemy had forced the war on them; Germany issued its White Book as early as 4 August. In Britain the secret bureau at Wellington House, run by Charles Masterman, recruited well-known writers and by February 1916 had sent about 7 million pamphlets abroad, aimed above all at the United States. The Bryce Report on atrocities in Belgium, published in May 1915 and based on about 1,200 depositions, was one of its most effective tools.",
+   "In time propaganda became a task of governments. Britain set up John Buchan's Department of Information in February 1917 and Lord Beaverbrook's Ministry of Information in March 1918; in the USA George Creel's Committee on Public Information worked from 1917. Propaganda used film, posters and cartoons, and leaflets were dropped over the enemy's trenches. Many atrocity stories later turned out to be exaggerated or invented."
+  ],
+  "see": [
+   "ministerstwo-informacji",
+   "raport-brycea",
+   "premiera-filmu-bitwa-nad-somma",
+   "rozstrzelanie-edith-cavell",
+   "sultan-oglasza-dzihad",
+   "postacie/edward-carson"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Propaganda_in_World_War_I",
+   "https://en.wikipedia.org/wiki/British_propaganda_during_World_War_I",
+   "https://historynet.com/?p=13742239"
+  ],
+  "exclude": [
+   "bitwy/bitwa-pod-langemarck",
+   "postacie/august-von-mackensen",
+   "postacie/oswald-boelcke",
+   "niemcy-zajmuja-rewel-i-pskow",
+   "postacie/jozef-stalin",
+   "postacie/feliks-dzierzynski",
+   "postacie/jozef-pilsudski",
+   "postacie/charles-mangin",
+   "postacie/raymond-poincare",
+   "postacie/aleksandra-szczerbinska"
+  ]
+ },
+ {
+  "slug": "cenzura",
+  "slugEn": "censorship",
+  "term": "Cenzura",
+  "termEn": "Censorship",
+  "category": "okupacja",
+  "pattern": "\\b[Cc]enzur\\w*|\\b[Cc]enzor\\w*",
+  "patternEn": "\\b[Cc]ensor\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Wojskowa i państwowa kontrola prasy, listów, telegramów i widowisk, która miała ukryć przed wrogiem informacje wojskowe i chronić morale. W czasie wojny wprowadziły ją wszystkie walczące państwa i okupanci.",
+  "shortEn": "Military and state control of the press, letters, telegrams and performances, meant to hide military information from the enemy and protect morale. In the war every belligerent and every occupier introduced it.",
+  "long": [
+   "Podstawą cenzury były ustawy wojenne i stan oblężenia. We Francji opierała się na ustawie o stanie oblężenia z 1849 roku i uchwalonej bez debaty ustawie z 5 sierpnia 1914 roku o niedyskrecjach prasy, w Wielkiej Brytanii na ustawie o obronie królestwa z 8 sierpnia 1914 roku, a w Niemczech na stanie oblężenia, który oddawał cenzurę dowódcom okręgów wojskowych. W Austrii od lipca 1914 roku obowiązywała cenzura prewencyjna, a o wojnie wolno było pisać tylko na podstawie komunikatów oficjalnych.",
+   "Cenzorzy czytali listy z frontu i wykreślali z gazet ruchy i liczebność wojsk, katastrofy i straty, a często także krytykę rządu. Francuskie dzienniki wychodziły z białymi plamami po usuniętych tekstach, a cenzurę przedstawiano jako „Anastazję” z nożycami. Na okupowanych ziemiach polskich, litewskich i belgijskich cenzura okupanta blokowała publikację politycznych uchwał i deklaracji. Złagodzenie cenzury było jednym z żądań opozycji, a we Francji trwała do 1919 roku."
+  ],
+  "longEn": [
+   "Censorship rested on wartime laws and the state of siege. In France it was based on the state of siege law of 1849 and the law of 5 August 1914 on press indiscretions, passed without debate; in Britain on the Defence of the Realm Act of 8 August 1914; and in Germany on the state of siege, which placed censorship in the hands of the military district commanders. In Austria preventive censorship was in force from July 1914, and the war could be written about only on the basis of official communiqués.",
+   "Censors read letters from the front and struck out of newspapers troop movements and numbers, disasters and losses, and often criticism of the government as well. French dailies appeared with blank spaces where texts had been cut, and censorship was caricatured as \"Anastasie\" with her scissors. In the occupied Polish, Lithuanian and Belgian lands the occupier's censors blocked the publication of political resolutions and declarations. Easing censorship was one of the opposition's demands, and in France it lasted until 1919."
+  ],
+  "see": [
+   "ustawa-o-obronie-krolestwa",
+   "zabojstwo-premiera-stuergkha",
+   "dymisja-korbera",
+   "ogien-barbussea-z-nagroda-goncourtow",
+   "deklaracja-taryby"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Defence_of_the_Realm_Act_1914",
+   "https://expo-grande-guerre-biu-cujas.univ-paris1.fr/?p=7134",
+   "https://quotidien-parisiens-grande-guerre.paris.fr/en/chapitre_anastasie.html"
+  ],
+  "exclude": [
+   "postacie/aleksiej-brusilow",
+   "postacie/lord-derby",
+   "postacie/masatake-terauchi"
+  ]
+ },
+ {
+  "slug": "czerwony-krzyz",
+  "slugEn": "red-cross",
+  "term": "Czerwony Krzyż",
+  "termEn": "Red Cross",
+  "category": "okupacja",
+  "pattern": "Czerwon\\w* Krzyż\\w*",
+  "patternEn": "Red Cross",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Ruch pomocy ofiarom wojny: Międzynarodowy Komitet Czerwonego Krzyża w Genewie i narodowe towarzystwa. Prowadził szpitale i transport rannych, a jego agencja w Genewie szukała jeńców i zaginionych.",
+  "shortEn": "The movement for aid to war victims: the International Committee of the Red Cross in Geneva and the national societies. It ran hospitals and carried the wounded, and its Geneva agency traced prisoners and the missing.",
+  "long": [
+   "Komitet powstał w Genewie w 1863 roku, a w 1914 roku działało około 45 narodowych towarzystw. Jesienią 1914 roku MKCK otworzył w genewskim Muzeum Rath Międzynarodową Agencję Jeńców Wojennych, w której pod koniec roku pracowało około 1200 osób, głównie kobiet. Jej kartoteka liczyła do 1923 roku około 7 milionów kart i pomogła ustalić los 2–2,5 miliona jeńców (szacunki się różnią). Delegaci odwiedzili ponad 500 obozów, a Komitet pośredniczył w wymianie i internowaniu w Szwajcarii rannych jeńców. W 1917 roku otrzymał Pokojową Nagrodę Nobla.",
+   "Narodowe towarzystwa prowadziły szpitale, pociągi i statki szpitalne, a znak czerwonego krzyża miał je chronić, co nie zawsze się udawało. Polacy nie mieli własnego towarzystwa: działały tu Czerwone Krzyże rosyjski i austriacki, a w 1915 roku MKCK utworzył na czas wojny tymczasową sekcję polską. Polski Czerwony Krzyż powstał 18 stycznia 1919 roku, a MKCK uznał go w lipcu tego roku."
+  ],
+  "longEn": [
+   "The Committee was founded in Geneva in 1863, and by 1914 there were about 45 national societies. In the autumn of 1914 the ICRC opened the International Prisoners-of-War Agency in Geneva's Musée Rath, where about 1,200 people, mostly women, were working by the end of the year. By 1923 its card index held about 7 million cards and had helped establish the fate of 2 to 2.5 million prisoners (estimates vary). Its delegates visited more than 500 camps, and the Committee helped arrange exchanges and internment in Switzerland of wounded prisoners. In 1917 it received the Nobel Peace Prize.",
+   "The national societies ran hospitals, hospital trains and hospital ships, and the red cross emblem was meant to protect them, which did not always work. The Poles had no society of their own: the Russian and Austrian Red Cross worked in their lands, and in 1915 the ICRC set up a temporary Polish section for the duration of the war. The Polish Red Cross was founded on 18 January 1919 and recognised by the ICRC that July."
+  ],
+  "see": [
+   "doniesienia-o-porozumieniu-w-sprawie-jencow-w-szwajcarii",
+   "samochody-rentgenowskie-marii-sklodowskiej-curie",
+   "zatopienie-statku-szpitalnego-portugal",
+   "postacie/max-von-baden",
+   "tematy/kobiety-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+   "https://www.swissinfo.ch/eng/war-record_how-the-icrc-stood-by-first-world-war-prisoners/38367030",
+   "https://pl.wikipedia.org/wiki/Polski_Czerwony_Krzyż"
+  ]
+ },
+ {
+  "slug": "pozyczki-wojenne",
+  "slugEn": "war-loans",
+  "term": "Pożyczki wojenne",
+  "termEn": "War loans",
+  "category": "okupacja",
+  "pattern": "[Pp]ożycz\\w* wojenn\\w*|[Oo]bligacj\\w* wojenn\\w*|[Pp]ożycz\\w* narodow\\w*|[Pp]ożycz\\w* wewnętrzn\\w*|Liberty Loan\\w*|Kriegsanleihe\\w*",
+  "patternEn": "[Ww]ar [Ll]oans?\\b|[Ww]ar [Bb]onds?\\b|Liberty (?:Loan|Bond)s?\\b|[Nn]ational [Ll]oans?\\b|[Dd]omestic [Ll]oans?\\b|Kriegsanleihe\\w*",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Długoterminowe pożyczki, które walczące państwa zaciągały u własnych obywateli, sprzedając im obligacje w wielkich kampaniach propagandowych. Pokryły znaczną część kosztów wojny i zostawiły ogromny dług.",
+  "shortEn": "Long-term loans that the belligerents raised from their own citizens by selling them bonds in great propaganda campaigns. They covered a large part of the cost of the war and left an enormous debt.",
+  "long": [
+   "Żadne państwo nie mogło sfinansować wojny z samych podatków, więc rządy pożyczały od obywateli, banków i firm. Wielka Brytania wypuściła w 1914 roku pożyczkę wojenną na 350 milionów funtów nominalnie, w 1915 roku drugą na 4,5 procent, a w 1917 roku trzecią na 5 procent, która przyniosła około 2 miliardów funtów, w tym tylko 845 milionów nowych pieniędzy. Niemcy od września 1914 roku co pół roku ogłaszały kolejną Kriegsanleihe; dziewięć pożyczek dało około 97 miliardów marek. Austro-Węgry emitowały pożyczki co listopad i maj, a Francja rozpisała pierwszą pożyczkę narodową w listopadzie 1915 roku.",
+   "Sprzedaż obligacji wspierały plakaty, wiece, filmy i gwiazdy kina. W Stanach Zjednoczonych cztery pożyczki wolności (Liberty Loans) z lat 1917–1918 i pożyczka zwycięstwa z 1919 roku przyniosły około 17 miliardów dolarów, a na potrzeby trzeciej wydrukowano około 9 milionów plakatów. W Kanadzie pierwsza pożyczka zwycięstwa z 1917 roku dała 398 milionów dolarów."
+  ],
+  "longEn": [
+   "No state could finance the war from taxes alone, so governments borrowed from citizens, banks and firms. Britain issued a war loan of £350 million at face value in 1914, a second at 4.5 per cent in 1915 and a third at 5 per cent in 1917, which raised about £2 billion, of which only £845 million was new money. From September 1914 Germany launched a new Kriegsanleihe every six months; the nine loans raised about 97 billion marks. Austria-Hungary issued loans every November and May, and France floated its first national loan in November 1915.",
+   "Bond sales were promoted with posters, rallies, films and film stars. In the United States four Liberty Loans in 1917–1918 and the Victory Loan of 1919 raised about $17 billion, and some 9 million posters were printed for the third alone. In Canada the first Victory Loan of 1917 brought in $398 million."
+  ],
+  "see": [
+   "ponowne-otwarcie-gieldy-londynskiej",
+   "postacie/andrew-bonar-law",
+   "postacie/alexandre-ribot",
+   "noty-pokojowe-do-wilsona",
+   "zatopienie-llandovery-castle"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/War_bond",
+   "https://en.wikipedia.org/wiki/Liberty_bond",
+   "https://germanhistorydocs.org/de/das-wilhelminische-kaiserreich-und-der-erste-weltkrieg-1890-1918/ghdi:image-2138"
+  ],
+  "exclude": [
+   "bulgaria-zaciaga-pozyczke-w-niemieckich-bankach",
+   "traktat-sojuszniczy-w-sofii"
+  ]
+ },
+ {
+  "slug": "prawa-wyborcze-kobiet",
+  "slugEn": "womens-suffrage",
+  "term": "Prawa wyborcze kobiet",
+  "termEn": "Women's suffrage",
+  "category": "okupacja",
+  "pattern": "\\b[Ss]ufraży\\w*|[Pp]raw\\w* wyborcz\\w* (?:\\w+ ){0,2}kobiet\\w*|[Pp]raw\\w* głosu (?:\\w+ ){0,2}kobiet\\w*|[Kk]obiet\\w* (?:\\w+ ){0,3}praw\\w* (?:wyborcz|głosu)\\w*|dla obu płci|[Pp]olk\\w* (?:\\w+ ){0,3}praw\\w* wyborcz\\w*",
+  "patternEn": "\\b[Ss]uffragists?\\b|\\b[Ss]uffragettes?\\b|[Ww]omen['’]s suffrage|[Ww]omen the vote|[Vv]otes? (?:for|to) women|women (?:\\w+ ){0,3}right to vote|suffrage (?:\\w+ ){0,3}(?:both sexes|women)|women (?:\\w+ ){0,2}(?:could|would|might) vote",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Prawo kobiet do głosowania i kandydowania w wyborach. Sufrażystki walczyły o nie od XIX wieku, a w latach 1917–1918, także dzięki wojennej pracy kobiet, zdobyły je m.in. w Rosji, Wielkiej Brytanii, Niemczech i Polsce.",
+  "shortEn": "The right of women to vote and stand for election. Suffragists had fought for it since the 19th century, and in 1917–1918, helped by women's war work, they won it in Russia, Britain, Germany and Poland, among others.",
+  "long": [
+   "Przed wojną kobiety głosowały w wyborach krajowych tylko w nielicznych państwach; w 1915 roku dołączyła do nich Dania. W czasie wojny kobiety zastąpiły mężczyzn w fabrykach, transporcie, urzędach i szpitalach, a ruchy sufrażystek w większości poparły wysiłek wojenny, co osłabiło argumenty przeciwników. W 1917 roku prawa wyborcze kobietom przyznała rewolucyjna Rosja, a Kanada najpierw krewnym żołnierzy i kobietom w służbie. 6 lutego 1918 roku brytyjska ustawa o reprezentacji ludu dała głos kobietom od 30 lat spełniającym warunki majątkowe, około 8,4 miliona.",
+   "Upadek monarchii przyniósł prawa wyborcze kobietom w Niemczech, gdzie zapowiedziano je 12 listopada 1918 roku, i w Austrii. W Polsce dekret Józefa Piłsudskiego z 28 listopada 1918 roku o ordynacji do Sejmu Ustawodawczego przyznał prawo głosu „każdemu obywatelowi Państwa bez różnicy płci”, który ukończył 21 lat; polskie działaczki domagały się go od początku stulecia. W Sejmie Ustawodawczym zasiadło osiem posłanek. Stany Zjednoczone przyznały kobietom prawo głosu w 1920 roku, a Francja dopiero w 1944 roku."
+  ],
+  "longEn": [
+   "Before the war women voted in national elections in only a handful of countries; Denmark joined them in 1915. During the war women replaced men in factories, transport, offices and hospitals, and most suffrage movements backed the war effort, which weakened their opponents' arguments. In 1917 revolutionary Russia gave women the vote, and Canada gave it first to soldiers' relatives and to women in the forces. On 6 February 1918 the British Representation of the People Act gave the vote to women over 30 who met property conditions, about 8.4 million.",
+   "The fall of the monarchies brought women the vote in Germany, where it was announced on 12 November 1918, and in Austria. In Poland Józef Piłsudski's decree of 28 November 1918 on elections to the Legislative Sejm gave the vote to \"every citizen of the State regardless of sex\" aged 21 or over; Polish activists had demanded it since the turn of the century. Eight women sat in the Legislative Sejm. The United States gave women the vote in 1920, and France only in 1944."
+  ],
+  "see": [
+   "polki-otrzymuja-prawa-wyborcze",
+   "brytyjki-otrzymuja-prawo-glosu",
+   "kobiety-w-niemczech-otrzymuja-prawa-wyborcze",
+   "marsz-kobiet-o-prawo-do-sluzby",
+   "rzad-moraczewskiego",
+   "tematy/kobiety-w-czasie-i-wojny-swiatowej"
+  ],
+  "sources": [
+   "https://dzieje.pl/aktualnosci/sejm-ustawodawczy-kobiet",
+   "https://en.wikipedia.org/wiki/Women%27s_suffrage",
+   "https://en.wikipedia.org/wiki/Timeline_of_women%27s_suffrage"
+  ]
+ },
+ {
+  "slug": "cmentarze-wojenne",
+  "slugEn": "war-cemeteries",
+  "term": "Cmentarze wojenne",
+  "termEn": "War cemeteries",
+  "category": "okupacja",
+  "pattern": "[Cc]mentarz\\w* wojenn\\w*|[Cc]mentarz\\w* wojskow\\w*|[Kk]omisj\\w* [Gg]robów [Ww]ojennych|wydział\\w* grobów wojennych",
+  "patternEn": "[Ww]ar [Cc]emeter\\w*|[Mm]ilitary [Cc]emeter\\w*|[Ww]ar [Gg]raves [Cc]ommission|war graves department",
+  "expansion": "",
+  "expansionEn": "",
+  "short": "Cmentarze żołnierzy poległych w wojnie, zakładane przez państwa i urzędy grobów wojennych. Na ziemiach polskich to m.in. ponad 400 cmentarzy zbudowanych przez Austro-Węgry w Galicji Zachodniej w latach 1916–1918.",
+  "shortEn": "Cemeteries for soldiers killed in the war, laid out by states and war graves agencies. In the Polish lands they include more than 400 cemeteries built by Austria-Hungary in Western Galicia in 1916–1918.",
+  "long": [
+   "Poległych chowano najpierw tam, gdzie padli. W grudniu 1915 roku austro-węgierskie Ministerstwo Wojny utworzyło wydział grobów wojennych, którego oddział w Krakowie w latach 1916–1918 ekshumował i identyfikował zabitych z walk 1914–1915, m.in. spod Gorlic i Limanowej, i zbudował w Galicji Zachodniej ponad 400 cmentarzy. W większości leżą obok siebie żołnierze obu stron: Austriacy, Węgrzy, Niemcy, Polacy, Czesi, Rosjanie i inni. Projektowali je m.in. Słowak Dušan Jurkovič, autor około 35 nekropolii, Jan Szczepkowski, Hans Mayr i Heinrich Scholz.",
+   "Na zachodzie Fabian Ware, kierujący oddziałem Brytyjskiego Czerwonego Krzyża, zaczął w 1914 roku rejestrować groby, a w marcu 1915 roku jego praca stała się wojskową Komisją Rejestracji Grobów. 21 maja 1917 roku powstała Imperialna Komisja Grobów Wojennych, dziś Komisja Grobów Wojennych Wspólnoty Narodów. Zgodnie z raportem Frederica Kenyona z listopada 1918 roku ciał nie sprowadzano do kraju, a wszyscy polegli, bez względu na stopień, dostawali jednakowe nagrobki."
+  ],
+  "longEn": [
+   "The dead were first buried where they fell. In December 1915 the Austro-Hungarian War Ministry set up a war graves department, whose Kraków branch in 1916–1918 exhumed and identified the dead of the fighting of 1914–1915, including Gorlice and Limanowa, and built more than 400 cemeteries in Western Galicia. In most of them soldiers of both sides lie side by side: Austrians, Hungarians, Germans, Poles, Czechs, Russians and others. Their designers included the Slovak Dušan Jurkovič, author of about 35 of them, Jan Szczepkowski, Hans Mayr and Heinrich Scholz.",
+   "In the west Fabian Ware, head of a British Red Cross unit, began recording graves in 1914, and in March 1915 his work became the army's Graves Registration Commission. On 21 May 1917 the Imperial War Graves Commission was established, today the Commonwealth War Graves Commission. Following Frederic Kenyon's report of November 1918, bodies were not brought home, and all the dead, regardless of rank, received identical headstones."
+  ],
+  "see": [
+   "bitwy/bitwa-pod-gorlicami",
+   "bitwy/bitwa-pod-lowczowkiem",
+   "bitwy/bitwa-pod-limanowa",
+   "fowke-adiutantem-generalnym-bef",
+   "pierwsze-posiedzenie-imperialnego-gabinetu-wojennego",
+   "tematy/wojna-na-ziemiach-polskich"
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Zachodniogalicyjskie_cmentarze_wojenne",
+   "https://dzieje.pl/node/41480",
+   "https://polishorigins.com/blog/war-cemeteries-in-western-galicia/",
+   "https://en.wikipedia.org/wiki/Commonwealth_War_Graves_Commission"
+  ],
+  "exclude": [
+   "postacie/andranik-ozanian"
+  ]
+ }
+]
