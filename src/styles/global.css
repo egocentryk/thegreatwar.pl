@@ -137,7 +137,12 @@
   /* The browser skips layout and paint of months outside the viewport until
      they scroll near it (find-in-page and anchors still work). "auto" keeps
      the real height once a month has been rendered. */
+  /* content-visibility also clips painting to the box, and the line with its
+     dots sits on the box's left edge: room for the dots (the milestone dot
+     with its halo reaches 10.5px left of the line), pulled back so nothing
+     moves. */
   .tl-month {
+    @apply -ml-3 pl-3;
     content-visibility: auto;
     contain-intrinsic-size: auto 1200px;
   }
@@ -174,11 +179,12 @@
     @apply text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs;
   }
   /* Read articles (reading progress, ReadingProgress.astro): a check mark
-     and a softer title, on screen only. The mark is silent for screen
-     readers, which get "(przeczytane)" from the script instead. */
+     and a dimmed entry, on screen only; the mark keeps its full colour. It
+     is silent for screen readers, which get "(przeczytane)" from the script
+     instead. */
   @media screen {
-    .is-read :is(.tl-title, .tl-title-key) {
-      @apply text-ink-soft;
+    .is-read :is(.tl-title, .tl-title-key, .tl-summary, .tl-key-label) {
+      @apply text-ink-soft/55;
     }
     .is-read:hover :is(.tl-title, .tl-title-key) {
       @apply text-signal;

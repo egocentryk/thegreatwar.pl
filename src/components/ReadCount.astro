@@ -9,9 +9,12 @@ interface Props {
 const { class: className } = Astro.props
 ---
 
-<div data-read-count hidden class:list={["text-ink-soft font-mono text-xs print:hidden", className]}>
-  <span data-read-count-text></span>
-  <span aria-hidden="true" class="bg-line mt-1.5 block h-0.5 w-40 max-w-full overflow-hidden rounded-full">
+<div data-read-count hidden class:list={["text-ink-soft w-56 max-w-full font-mono text-xs print:hidden", className]}>
+  <span class="flex items-baseline justify-between gap-3">
+    <span data-read-count-text></span>
+    <span data-read-percent class="text-signal"></span>
+  </span>
+  <span aria-hidden="true" class="bg-line mt-1.5 block h-0.5 w-full overflow-hidden rounded-full">
     <span data-read-bar class="bg-signal block h-full w-0 transition-[width]"></span>
   </span>
 </div>

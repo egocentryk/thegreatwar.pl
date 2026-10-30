@@ -63,8 +63,15 @@
       const done = [...all].filter((id) => ids.has(id)).length
       counter.hidden = !on || all.size === 0
       counter.querySelector("[data-read-count-text]")!.textContent = t().count(done, all.size)
-      const bar = counter.querySelector<HTMLElement>("[data-read-bar]")!
-      bar.style.width = `${all.size ? (done / all.size) * 100 : 0}%`
+      const share = all.size ? done / all.size : 0
+      // Whole percent; "<1%" rather than "0%" once anything is read.
+      counter.querySelector("[data-read-percent]")!.textContent =
+        share > 0 && share < 0.01
+          ? "<1%"
+          : new Intl.NumberFormat(lang() === "en" ? "en-GB" : "pl", { style: "percent", maximumFractionDigits: 0 }).format(
+              share,
+            )
+      counter.querySelector<HTMLElement>("[data-read-bar]")!.style.width = `${share * 100}%`
     })
   }
 

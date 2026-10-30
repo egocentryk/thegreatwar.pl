@@ -2478,9 +2478,11 @@ page counts, sample matches, JS-escape check, `--merge`).
 - Lists: every timeline list goes through `TimelineMonth.astro` (year,
   month, era, tag, category, front, author and overview pages); its links
   carry `data-read-id` (the Polish id, on English lists too). Read entries
-  get a ✓ and a softer title on screen only (global.css `.is-read`), and
-  "(przeczytane)" / "(read)" for screen readers.
-- Counters (`ReadCount.astro`): "Przeczytane: X z Y" with a thin bar under
+  get a ✓ in full colour and the whole entry dimmed (title, summary and
+  label at ink-soft/55, owner's request) on screen only (global.css
+  `.is-read`), and "(przeczytane)" / "(read)" for screen readers.
+- Counters (`ReadCount.astro`): "Przeczytane: X z Y", the percentage on
+  the right ("<1%" rather than "0%" once anything is read), a thin bar under
   each year heading and the era headings, counted from the links in its
   `[data-read-scope]` section, so no extra data is downloaded.
 - Settings page `/postep-czytania`, `/en/reading-progress` (noindex,
@@ -2493,6 +2495,19 @@ page counts, sample matches, JS-escape check, `--merge`).
   storage and no visible change. No script errors; light and dark checked.
 - Next stages: series progress with "Czytaj dalej", guide progress; then
   export/import between devices.
+
+---
+
+## 46. Timeline dots cut in half (2026-10-31)
+
+- The dots on the timeline line showed only their right half. Cause:
+  `content-visibility: auto` on `.tl-month` (§1, performance) also turns on
+  paint containment, which clips everything drawn outside the month's box,
+  and the line sits on the box's left edge. Fix in global.css: `.tl-month`
+  gets `-ml-3 pl-3`, room for the dots (the milestone dot with its halo
+  reaches 10.5px left of the line) with no change to the layout. Checked at
+  1280 and 390px.
+- Port note: thesecondwar.pl has the same `.tl-month` rule if it took §1.
 
 ---
 
