@@ -2,7 +2,7 @@
 title: Germans withdraw from the Ancre
 summary: On 25 February 1917 the British took Serre and Pys on the Ancre, abandoned by the Germans, in the first stage of the German retreat to the Hindenburg Line.
 source: niemcy-wycofuja-sie-znad-ancre
-sourceHash: e92ad92dc9d976792ebeb336294c5b871e82473e
+sourceHash: c9cde0ab9b50884ec7bdf04a521c8470c201b8ae
 brief:
   - "On 25 February 1917 soldiers of the British Fifth Army entered Serre and Pys on the Ancre without a fight. The Germans, who had held these positions since the start of the Somme, had vanished from Le Transloy to Serre."
   - "Kaiser Wilhelm II had approved a plan to withdraw to a new position on 4 February, but Below's 1st Army, exhausted by the winter fighting, could not wait until March. On 18 February Rupprecht ordered it back to Riegel I."
@@ -10,7 +10,7 @@ brief:
   - "It was the first stage of the great German retreat to the Hindenburg Line. In mid-March the Germans withdrew along the whole front from Arras to Soissons, and on 17 March the Australians entered Bapaume."
 ---
 
-On 25 February 1917 soldiers of the British Fifth Army entered Serre without a fight, a village on the river [Ancre](https://pl.wikipedia.org/wiki/Ancre) against which attack after attack had broken for more than half a year. South of the river they occupied [Pys](https://pl.wikipedia.org/wiki/Pys), reached the outskirts of [Miraumont](https://pl.wikipedia.org/wiki/Miraumont) and got to [Warlencourt](https://pl.wikipedia.org/wiki/Warlencourt-Eaucourt). The Germans, who had held these positions since the beginning of the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą), had simply vanished. Along a stretch of more than ten kilometres, from Le Transloy to Serre, the British had almost no contact with them anywhere. Nobody knew it yet, but this was the first step of the great German retreat to a new position, which the British called the Hindenburg Line.
+On 25 February 1917 soldiers of the British Fifth Army entered Serre without a fight, a village on the river [Ancre](https://pl.wikipedia.org/wiki/Ancre) against which attack after attack had broken for more than half a year. South of the river they occupied [Pys](https://pl.wikipedia.org/wiki/Pys), reached the outskirts of [Miraumont](https://pl.wikipedia.org/wiki/Miraumont) and got to [Warlencourt](https://pl.wikipedia.org/wiki/Warlencourt-Eaucourt). The Germans, who had held these positions since the beginning of the [Battle of the Somme](/bitwy/bitwa-nad-somma), had simply vanished. Along a stretch of more than ten kilometres, from Le Transloy to Serre, the British had almost no contact with them anywhere. Nobody knew it yet, but this was the first step of the great German retreat to a new position, which the British called the Hindenburg Line.
 
 ## Winter fighting on the Ancre
 

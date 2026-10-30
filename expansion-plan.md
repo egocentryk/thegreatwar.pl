@@ -292,6 +292,9 @@ The single largest SEO opportunity. Our dated articles rank for specific
 events, while the high-volume queries ("przyczyny I wojny światowej",
 "skutki…", "broń…", "Polska w I wojnie światowej") have no page here.
 
+**Done 2026-10-29:** delivered as A1, the 13 topic guides at `/tematy`
+(`/en/topics`), which answer exactly these queries.
+
 ### B2. Link to ourselves, not to Wikipedia
 
 **163 links in 141 articles point to pl.wikipedia for 39 topics we have
@@ -312,6 +315,14 @@ been run for them yet (improvements.md §23). The campaign pages (A5) moved
 63 more articles to internal links. Person links (`wikiTitles`) are not
 covered by the script yet. Each new page from A3 and A5 makes more links
 internal.
+
+**Done 2026-10-30:** the script was run over everything (battles, people
+and, since A2, pre-war events): the last 14 files converted, and a dry
+run now finds nothing more to change (improvements.md §37). The 211 links
+it keeps are by design: 165 in articles dated before the page they would
+link (no forward links), 38 on the page itself, 8 to an article's own
+battle. Rerun `python3 -I scripts/wiki-to-internal.py` after adding battle,
+person or event pages.
 
 ### B3. Search Console and Bing Webmaster Tools
 

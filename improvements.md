@@ -2099,6 +2099,21 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 37. Wikipedia links to our own pages: the rest (2026-10-30)
+
+- `scripts/wiki-to-internal.py --write` over all content: the last 14
+  files (11 timeline articles, 3 battle pages, PL and EN) now link our
+  battle and person pages (Somme, Brusilov, Verdun, Loos, Yser, Jutland,
+  Coronel, Tannenberg, Michael, François Anthoine). A dry run now reports
+  0 files; the 211 links kept are forward links in time (165), a page's
+  own subject (38) or an article's own battle (8).
+- Closes expansion-plan B2; B1 (topic guides) was already delivered as A1.
+- Port note: run the script after every batch that adds battle, person or
+  event pages; dry run first, then `--write`, then re-stamp the English
+  files it lists.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2191,6 +2206,7 @@ finished, tick it here and add its section above.
   sources, PL/EN (§34)
 - [x] Glossary, second batch: 50 terms (134 in all), PL/EN (§35)
 - [x] Before the war: "Przed wojną" era page, 20 articles 1879–1913, PL/EN (§36)
+- [x] Wikipedia links to our own pages: the last 14 files (§37)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

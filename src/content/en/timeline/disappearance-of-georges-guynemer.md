@@ -2,7 +2,7 @@
 title: Disappearance of Georges Guynemer
 summary: On 11 September 1917 Captain Georges Guynemer, a French ace with 53 victories, went missing over Poelkapelle. His body and aircraft were never found.
 source: zaginiecie-georgesa-guynemera
-sourceHash: fd92f66982ace323901f1cfe2242ce4a7ade906d
+sourceHash: 088d76c29581520a6f715f2952f6ad65a386aa6d
 ---
 
 On the morning of 11 September 1917 Captain [Georges Guynemer](https://pl.wikipedia.org/wiki/Georges_Guynemer), France's most famous airman, took off on patrol from the aerodrome at [Saint-Pol-sur-Mer](https://pl.wikipedia.org/wiki/Saint-Pol-sur-Mer) near Dunkirk. He did not return. He was last seen over [Poelkapelle](https://pl.wikipedia.org/wiki/Poelkapelle) in Flanders, diving on a German reconnaissance aircraft. Neither his body nor the wreckage of his aircraft was ever found. He was 22 years old and had 53 confirmed victories (some tallies give 54).
@@ -13,4 +13,4 @@ In the summer of 1917 his squadron was moved to Flanders to support the British 
 
 For two weeks France did not know his fate. The squadron command listed him as missing, and the War Ministry announced it publicly only on 25 September. The Germans credited the victory to Lieutenant [Kurt Wissemann](https://pl.wikipedia.org/wiki/Kurt_Wissemann) of [Jagdstaffel 3](https://pl.wikipedia.org/wiki/Jagdstaffel_3), who was himself killed just over a fortnight later. According to German accounts, Guynemer's aircraft crashed behind the German lines and his body was identified, but artillery fire over the battlefield prevented his burial, and every trace of him was lost.
 
-The absence of a grave made Guynemer's legend grow even greater. The commander of the French First Army, General [François Anthoine](https://pl.wikipedia.org/wiki/François_Anthoine), wrote in his posthumous citation: "Legendary hero, fallen at the height of glory in the sky after three years of ardent struggle." His motto, "Faire face" ("Face up"), is used today by the French air force academy, and after the war a monument to him was erected in Poelkapelle, a column topped with a stork.
+The absence of a grave made Guynemer's legend grow even greater. The commander of the French First Army, General [François Anthoine](/postacie/francois-anthoine), wrote in his posthumous citation: "Legendary hero, fallen at the height of glory in the sky after three years of ardent struggle." His motto, "Faire face" ("Face up"), is used today by the French air force academy, and after the war a monument to him was erected in Poelkapelle, a column topped with a stork.

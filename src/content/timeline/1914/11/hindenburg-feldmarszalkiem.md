@@ -15,7 +15,7 @@ draft: false
 
 ## Trzy miesiące kariery
 
-Jeszcze w sierpniu 1914 roku Hindenburg był generałem w stanie spoczynku. [Wezwany z emerytury](/hindenburg-obejmuje-dowodztwo-8-armii), objął dowództwo 8 Armii w Prusach Wschodnich i jeszcze w trakcie bitwy pod [Tannenbergiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Tannenbergiem) otrzymał stopień generała pułkownika. Jesienią poprowadził 9 Armię w ofensywie na Warszawę, a 1 listopada [został naczelnym dowódcą na wschodzie](/hindenburg-naczelnym-dowodca-na-wschodzie), czyli Oberbefehlshaber Ost, w skrócie Ober Ost.
+Jeszcze w sierpniu 1914 roku Hindenburg był generałem w stanie spoczynku. [Wezwany z emerytury](/hindenburg-obejmuje-dowodztwo-8-armii), objął dowództwo 8 Armii w Prusach Wschodnich i jeszcze w trakcie bitwy pod [Tannenbergiem](/bitwy/bitwa-pod-tannenbergiem) otrzymał stopień generała pułkownika. Jesienią poprowadził 9 Armię w ofensywie na Warszawę, a 1 listopada [został naczelnym dowódcą na wschodzie](/hindenburg-naczelnym-dowodca-na-wschodzie), czyli Oberbefehlshaber Ost, w skrócie Ober Ost.
 
 Awans przyszedł w czasie [bitwy pod Łodzią](/bitwy/bitwa-pod-lodzia). Nie przyniosła ona Niemcom wielkiego zwycięstwa, na które liczyli, a 24 listopada okrążona grupa generała Reinharda von Scheffera-Boyadela ledwie wyrwała się z kotła pod Brzezinami. Udało się jednak powstrzymać rosyjską ofensywę na Śląsk, a niemiecka propaganda przedstawiała walki w Królestwie Polskim jako kolejny sukces zwycięzcy spod Tannenbergu. Mniej więcej w tym samym czasie jego szef sztabu [Erich Ludendorff](/postacie/erich-ludendorff) został awansowany do stopnia generała porucznika.
 

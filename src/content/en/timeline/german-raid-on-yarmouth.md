@@ -2,7 +2,7 @@
 title: German raid on Yarmouth
 summary: On 3 November 1914 Hipper's German battlecruisers shelled the coast near Yarmouth and laid mines. The British submarine D5 sank on one of them.
 source: niemiecki-rajd-na-yarmouth
-sourceHash: 675f62921c8bd1b0825f9332de5f1139cf39ca75
+sourceHash: ebf1d82b79d19314c6cf711dcdf1d252c6f0a052
 ---
 
 On the morning of 3 November 1914 German battlecruisers appeared off the coast of Norfolk and shelled the area around [Great Yarmouth](https://pl.wikipedia.org/wiki/Great_Yarmouth). It was the first sortie by large German warships to the English coast since the beginning of the war. The [raid on Yarmouth](https://pl.wikipedia.org/wiki/Bombardowanie_Yarmouth) did little damage, but it showed that the German fleet could approach the British coast with impunity.
@@ -23,7 +23,7 @@ Meanwhile *Stralsund* was laying mines. At about 7.40 a.m. the German ships fire
 
 Three British submarines set out from Yarmouth in pursuit: *E10*, *D3* and [*D5*](https://pl.wikipedia.org/wiki/HMS_D5). None managed to attack. *D5* struck a mine and sank. Only four or five men were saved, including her commander, Lieutenant-Commander Godfrey Herbert, and about 20 sailors were killed. It is most often assumed that the mine came from the field laid by *Stralsund*, although according to some sources the submarine hit a drifting British mine. Several fishing boats also sank on *Stralsund*'s minefield the same day.
 
-The British reacted late. The Admiralty at first believed that the raid was meant to divert attention from another, more serious attack, and only later sent Vice-Admiral [David Beatty](/postacie/david-beatty)'s battlecruisers to intercept. By then the Germans were far away. In Britain the raid itself was quickly overshadowed, because almost at the same time news arrived of the British squadron's defeat at the [Battle of Coronel](https://pl.wikipedia.org/wiki/Bitwa_pod_Coronelem).
+The British reacted late. The Admiralty at first believed that the raid was meant to divert attention from another, more serious attack, and only later sent Vice-Admiral [David Beatty](/postacie/david-beatty)'s battlecruisers to intercept. By then the Germans were far away. In Britain the raid itself was quickly overshadowed, because almost at the same time news arrived of the British squadron's defeat at the [Battle of Coronel](/bitwy/bitwa-pod-coronelem).
 
 ## A Pyrrhic success
 
