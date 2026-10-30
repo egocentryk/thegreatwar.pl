@@ -15,6 +15,7 @@ import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
 import SeriesBox from "@/components/SeriesBox.astro"
 import VoiceBox from "@/components/VoiceBox.astro"
+import ReadStatus from "@/components/ReadStatus.astro"
 import TopicBox from "@/components/TopicBox.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
@@ -216,6 +217,7 @@ const glossaryTerms = termsIn(entry.body ?? "", "en", source.id)
             <PersonPreviews body={entry.body ?? ""} lang="en" />
           </div>
 
+          <ReadStatus id={source.id} body={entry.body ?? ""} lang="en" />
           <VoiceBox ref={source.id} lang="en" />
 
           <div class="lg:hidden">

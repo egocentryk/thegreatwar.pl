@@ -286,7 +286,10 @@ should link to each other (§B8).
 - "Front w ruchu": the front lines month by month on the battle map.
 - "Głosy z frontu": **Done 2026-10-30**, 354 first-hand quotes on 301
   articles, VIII 1914 – XII 1918 (improvements.md §41). Not yet in the menu.
-- Reading progress ("przeczytane", per year and series), in the browser.
+- Reading progress ("przeczytane", per year and series), in the browser:
+  **stage 1 done 2026-10-31** (opt-in; lists, year counters, article line,
+  settings; improvements.md §45). Stage 2: series and guides; stage 3:
+  export/import.
 - "Dokumenty": key primary sources in Polish translation with commentary.
 - "Formacje polskie": the Legion brigades, Bayonne, the Puławy legion, the
   Polish corps in Russia, Haller's army.

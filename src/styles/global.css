@@ -173,6 +173,21 @@
   .tl-summary {
     @apply text-ink-soft mt-1 block text-[11px] leading-5 sm:text-xs;
   }
+  /* Read articles (reading progress, ReadingProgress.astro): a check mark
+     and a softer title, on screen only. The mark is silent for screen
+     readers, which get "(przeczytane)" from the script instead. */
+  @media screen {
+    .is-read :is(.tl-title, .tl-title-key) {
+      @apply text-ink-soft;
+    }
+    .is-read:hover :is(.tl-title, .tl-title-key) {
+      @apply text-signal;
+    }
+    .is-read :is(.tl-title, .tl-title-key)::before {
+      content: "✓\00a0" / "";
+      @apply text-signal font-normal;
+    }
+  }
 }
 
 /* Battle timeline (BattleTimeline.astro): one row per battle, a sticky name

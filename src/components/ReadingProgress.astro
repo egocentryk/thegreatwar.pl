@@ -1,0 +1,182 @@
+---
+// Reading progress (utils/readingProgress.ts): one script for every page,
+// in BaseLayout. The HTML is the same for every reader; this marks read
+// articles in the lists (TimelineMonth: data-read-id), fills the counters
+// (ReadCount), runs the line under an article (ReadStatus) and the settings
+// page (/postep-czytania). Readers who never turn it on see no change.
+---
+
+<script>
+  import * as progress from "@/utils/readingProgress"
+
+  const T = {
+    pl: {
+      readSr: " (przeczytane)",
+      count: (done: number, all: number) => `Przeczytane: ${done} z ${all}`,
+      on: "Włączone",
+      off: "Wyłączone",
+      turnOn: "Włącz",
+      turnOff: "Wyłącz i usuń postęp",
+      total: (n: number) =>
+        `${n} ${n === 1 ? "przeczytany artykuł" : [2, 3, 4].includes(n % 10) && ![12, 13, 14].includes(n % 100) ? "przeczytane artykuły" : "przeczytanych artykułów"}`,
+      confirmClear: "Usunąć cały zapisany postęp czytania?",
+      confirmOff: "Wyłączyć zapamiętywanie i usunąć zapisany postęp?",
+    },
+    en: {
+      readSr: " (read)",
+      count: (done: number, all: number) => `Read: ${done} of ${all}`,
+      on: "On",
+      off: "Off",
+      turnOn: "Turn on",
+      turnOff: "Turn off and delete progress",
+      total: (n: number) => `${n} ${n === 1 ? "article" : "articles"} read`,
+      confirmClear: "Delete all saved reading progress?",
+      confirmOff: "Stop remembering and delete the saved progress?",
+    },
+  }
+  const lang = () => (document.documentElement.lang === "en" ? "en" : "pl")
+  const t = () => T[lang()]
+
+  // Lists: a mark on every read article, and text for screen readers.
+  function markLists(ids: Set<string>) {
+    document.querySelectorAll<HTMLElement>("[data-read-id]").forEach((link) => {
+      const read = ids.has(link.dataset.readId!)
+      link.classList.toggle("is-read", read)
+      const sr = link.querySelector(".read-sr")
+      if (read && !sr) {
+        const span = document.createElement("span")
+        span.className = "read-sr sr-only"
+        span.textContent = t().readSr
+        link.append(span)
+      } else if (!read && sr) sr.remove()
+    })
+  }
+
+  // Counters: read articles out of those listed in their section.
+  function fillCounters(ids: Set<string>) {
+    const on = progress.status() === "on"
+    document.querySelectorAll<HTMLElement>("[data-read-count]").forEach((counter) => {
+      const scope = counter.closest("[data-read-scope]") ?? document
+      const all = new Set(
+        [...scope.querySelectorAll<HTMLElement>("[data-read-id]")].map((link) => link.dataset.readId!),
+      )
+      const done = [...all].filter((id) => ids.has(id)).length
+      counter.hidden = !on || all.size === 0
+      counter.querySelector("[data-read-count-text]")!.textContent = t().count(done, all.size)
+      const bar = counter.querySelector<HTMLElement>("[data-read-bar]")!
+      bar.style.width = `${all.size ? (done / all.size) * 100 : 0}%`
+    })
+  }
+
+  // The line under an article: the offer, "mark as read" or "read on …".
+  function showStatus() {
+    const box = document.querySelector<HTMLElement>("[data-read-status]")
+    if (!box) return
+    const state = progress.status()
+    const readOn = progress.readOn(box.dataset.readStatus!)
+    const shown =
+      !progress.available() || state === "off" ? undefined : state === "unasked" ? "offer" : readOn ? "read" : "unread"
+    box.hidden = !shown
+    box.querySelectorAll<HTMLElement>("[data-state]").forEach((part) => {
+      part.hidden = part.dataset.state !== shown
+    })
+    const date = box.querySelector("[data-read-date]")
+    if (date && readOn) {
+      date.textContent = new Intl.DateTimeFormat(lang() === "en" ? "en-GB" : "pl", {
+        day: "numeric",
+        month: "long",
+        year: "numeric",
+      }).format(readOn)
+    }
+  }
+
+  // The settings page.
+  function showSettings() {
+    const panel = document.querySelector<HTMLElement>("[data-read-settings]")
+    if (!panel) return
+    const usable = progress.available()
+    panel.querySelector<HTMLElement>("[data-read-unavailable]")!.hidden = usable
+    panel.querySelector<HTMLElement>("[data-read-controls]")!.hidden = !usable
+    if (!usable) return
+    const on = progress.status() === "on"
+    panel.querySelector("[data-read-state]")!.textContent = on ? t().on : t().off
+    panel.querySelector("[data-read-action=toggle]")!.textContent = on ? t().turnOff : t().turnOn
+    panel.querySelector("[data-read-total]")!.textContent = t().total(progress.readIds().size)
+    panel.querySelector<HTMLElement>("[data-read-when-on]")!.hidden = !on
+  }
+
+  function refresh() {
+    const ids = progress.readIds()
+    markLists(ids)
+    fillCounters(ids)
+    showStatus()
+    showSettings()
+    watchArticleEnd()
+  }
+
+  // An article counts as read once the reader reaches the end of its text,
+  // and not before a minimum time on the page (data-read-min, seconds, from
+  // its length), so opening a short article and leaving at once doesn't count.
+  // Once the reader marks or unmarks it by hand, their choice stands until
+  // the next visit.
+  let stopWatching = () => {}
+  const view = { openedAt: performance.now(), manual: false }
+  function watchArticleEnd() {
+    stopWatching()
+    const box = document.querySelector<HTMLElement>("[data-read-status]")
+    const end = document.querySelector("[data-read-end]")
+    const id = box?.dataset.readStatus
+    if (!box || !end || !id || view.manual || progress.status() !== "on" || progress.readOn(id)) return
+    let timer: number | undefined
+    const observer = new IntersectionObserver((records) => {
+      if (!records.some((record) => record.isIntersecting) || timer !== undefined) return
+      const wait = Math.max(0, Number(box.dataset.readMin ?? 0) * 1000 - (performance.now() - view.openedAt))
+      timer = window.setTimeout(() => {
+        progress.mark(id, true)
+        refresh()
+      }, wait)
+    })
+    observer.observe(end)
+    stopWatching = () => {
+      observer.disconnect()
+      window.clearTimeout(timer)
+      stopWatching = () => {}
+    }
+  }
+
+  document.addEventListener("click", (event) => {
+    const button = (event.target as Element).closest<HTMLElement>("[data-read-action]")
+    if (!button) return
+    const id = document.querySelector<HTMLElement>("[data-read-status]")?.dataset.readStatus
+    switch (button.dataset.readAction) {
+      case "enable":
+        progress.setOn(true)
+        break
+      case "decline":
+        progress.setOn(false)
+        break
+      case "mark":
+      case "unmark":
+        if (id) progress.mark(id, button.dataset.readAction === "mark")
+        view.manual = true
+        break
+      case "toggle":
+        if (progress.status() !== "on") progress.setOn(true)
+        else if (window.confirm(t().confirmOff)) progress.setOn(false)
+        break
+      case "clear":
+        if (window.confirm(t().confirmClear)) progress.clearRead()
+        break
+    }
+    refresh()
+  })
+
+  progress.onChange(refresh)
+  document.addEventListener("astro:before-swap", () => stopWatching())
+  // astro:page-load fires on the first load and after every client-side navigation.
+  document.addEventListener("astro:page-load", () => {
+    view.openedAt = performance.now()
+    view.manual = false
+    refresh()
+  })
+</script>

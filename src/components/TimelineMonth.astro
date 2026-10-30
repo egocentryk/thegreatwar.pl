@@ -60,7 +60,7 @@ const dayGroups = month.entries.reduce<Array<{ day: string; entries: ArchiveEntr
             <ul>
               {dayGroup.entries.map((entry) => (
                 <li class="tl-entry">
-                  <a href={entry.href ?? `/${entry.id}`} class="group block min-w-0">
+                  <a href={entry.href ?? `/${entry.id}`} data-read-id={entry.id} class="group block min-w-0">
                     {entry.data.milestone && <span class="tl-key-label">{milestoneLabel}</span>}
                     <span class={entry.data.milestone ? "tl-title-key" : "tl-title"}>{entry.data.title}</span>
                     <span class="tl-summary">{entry.data.summary}</span>

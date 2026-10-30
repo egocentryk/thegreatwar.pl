@@ -1,0 +1,66 @@
+---
+// The line under an article's text (ReadingProgress.astro): the one-time
+// offer to remember read articles, then "mark as read" or "read on …".
+// Hidden in the HTML; shown by the script, never in print.
+import type { Lang } from "@/i18n"
+
+interface Props {
+  // The Polish id, also on the English page: one record for both languages.
+  id: string
+  body: string
+  lang?: Lang
+}
+
+const { id, body, lang = "pl" } = Astro.props
+// Minimum time on the page before reaching the end counts as reading it:
+// about 20 words a second (a quick skim), between 8 seconds and a minute.
+const words = body.split(/\s+/).length
+const minSeconds = Math.min(60, Math.max(8, Math.round(words / 20)))
+const t = {
+  pl: {
+    offer: "Zapamiętywać przeczytane artykuły? Tylko w tej przeglądarce, nic nie wysyłamy.",
+    yes: "Tak",
+    no: "Nie, dziękuję",
+    more: "Jak to działa",
+    mark: "Oznacz jako przeczytane",
+    read: "Przeczytane",
+    undo: "cofnij",
+    settings: "/postep-czytania",
+  },
+  en: {
+    offer: "Remember the articles you have read? Only in this browser; nothing is sent anywhere.",
+    yes: "Yes",
+    no: "No, thanks",
+    more: "How it works",
+    mark: "Mark as read",
+    read: "Read",
+    undo: "undo",
+    settings: "/en/reading-progress",
+  },
+}[lang]
+const button = "text-signal cursor-pointer hover:underline"
+---
+
+<span data-read-end aria-hidden="true"></span>
+<div
+  data-read-status={id}
+  data-read-min={minSeconds}
+  hidden
+  class="border-line text-ink-soft mt-10 max-w-2xl border-y py-3 font-mono text-xs print:hidden"
+>
+  <p data-state="offer" hidden class="flex flex-wrap items-baseline gap-x-4 gap-y-2">
+    <span>{t.offer}</span>
+    <span class="flex gap-4">
+      <button type="button" data-read-action="enable" class={button}>{t.yes}</button>
+      <button type="button" data-read-action="decline" class="hover:text-ink cursor-pointer">{t.no}</button>
+      <a href={t.settings} class="hover:text-ink">{t.more}</a>
+    </span>
+  </p>
+  <p data-state="unread" hidden>
+    <button type="button" data-read-action="mark" class={button}>{t.mark}</button>
+  </p>
+  <p data-state="read" hidden class="flex items-baseline justify-between gap-4">
+    <span><span aria-hidden="true" class="text-signal">✓</span> {t.read} · <span data-read-date></span></span>
+    <button type="button" data-read-action="unmark" class="hover:text-ink cursor-pointer">{t.undo}</button>
+  </p>
+</div>

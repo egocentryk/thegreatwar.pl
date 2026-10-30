@@ -1,0 +1,17 @@
+---
+// "Przeczytane: 34 z 488" with a thin bar: the read articles among those
+// listed in the nearest [data-read-scope] (ReadingProgress.astro). Hidden
+// unless the reader has turned reading progress on.
+interface Props {
+  class?: string
+}
+
+const { class: className } = Astro.props
+---
+
+<div data-read-count hidden class:list={["text-ink-soft font-mono text-xs print:hidden", className]}>
+  <span data-read-count-text></span>
+  <span aria-hidden="true" class="bg-line mt-1.5 block h-0.5 w-40 max-w-full overflow-hidden rounded-full">
+    <span data-read-bar class="bg-signal block h-full w-0 transition-[width]"></span>
+  </span>
+</div>

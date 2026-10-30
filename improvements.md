@@ -2453,6 +2453,49 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 45. Reading progress, stage 1 (2026-10-31)
+
+- Owner approved the proposal with its recommendations: off until the
+  reader turns it on; an article counts as read at the end of its text;
+  the switch in the footer and offered once under an article.
+- Kept only in the browser: `localStorage` key `tgw:reading`,
+  `{ v: 1, on, read: { <Polish id>: <day number> } }`
+  (`src/utils/readingProgress.ts`). No server, cookies or analytics. Every
+  read and write is in try/catch; with storage blocked the feature hides
+  itself. `on: false` records a "no", so the offer is not shown again;
+  turning it off deletes the list. The version lets the format change later.
+- One script for every page (`ReadingProgress.astro`, in `BaseLayout`),
+  run on `astro:page-load`; open tabs follow each other through the
+  `storage` event. The HTML is the same for every reader: the status line
+  and counters are `hidden` until the script shows them, so readers who
+  never turn it on see nothing and search engines see the same page.
+- Article pages, PL and EN (`ReadStatus.astro`, under the text): the
+  offer, then "Oznacz jako przeczytane", or "✓ Przeczytane · <date> ·
+  cofnij". Reaching `[data-read-end]` counts after a minimum time on the
+  page (words ÷ 20 s, between 8 and 60 s), so opening a short article and
+  leaving doesn't count. A manual mark or undo stops the automatic mark for
+  that visit (the first test found undo being re-marked at once).
+- Lists: every timeline list goes through `TimelineMonth.astro` (year,
+  month, era, tag, category, front, author and overview pages); its links
+  carry `data-read-id` (the Polish id, on English lists too). Read entries
+  get a ✓ and a softer title on screen only (global.css `.is-read`), and
+  "(przeczytane)" / "(read)" for screen readers.
+- Counters (`ReadCount.astro`): "Przeczytane: X z Y" with a thin bar under
+  each year heading and the era headings, counted from the links in its
+  `[data-read-scope]` section, so no extra data is downloaded.
+- Settings page `/postep-czytania`, `/en/reading-progress` (noindex,
+  `ReadingSettings.astro`): how it works, the status, the total, "Wyłącz i
+  usuń postęp" and "Usuń zapisany postęp"; footer link "Postęp czytania" /
+  "Reading progress" (footer links now wrap on phones).
+- Tested in headless Chromium: offer → on → automatic mark → undo stays →
+  manual mark → year-page ✓ and counter → the English list and article
+  share the record → settings → off deletes it; a fresh visitor gets no
+  storage and no visible change. No script errors; light and dark checked.
+- Next stages: series progress with "Czytaj dalej", guide progress; then
+  export/import between devices.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2553,6 +2596,9 @@ finished, tick it here and add its section above.
 - [x] English edition: Lviv instead of Lemberg/Lwów (§42)
 - [x] Legions 1915–1916 (Rarańcza, Volhynia, Kostiuchnówka) and the Lost Battalion (§43)
 - [x] "Po wojnie": the war after the war 1919–1923, 53 articles and 2 battle pages, PL/EN (§44)
+- [x] Reading progress, stage 1: opt-in, in the browser only; ✓ in timeline lists, year counters, article status line, settings page (§45)
+- [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
+- [ ] Reading progress, stage 3: export/import between devices
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

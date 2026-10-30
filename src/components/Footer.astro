@@ -28,8 +28,9 @@ const en = Astro.url.pathname === "/en" || Astro.url.pathname.startsWith("/en/")
       </svg>
     </p>
 
-    <nav class="flex items-center gap-4" aria-label="Links">
+    <nav class="flex flex-wrap items-center gap-x-4 gap-y-2" aria-label="Links">
       <a href={en ? "/en/about" : "/about"} class="hover:text-signal transition-colors">{en ? "About" : "O projekcie"}</a>
+      <a href={en ? "/en/reading-progress" : "/postep-czytania"} class="hover:text-signal transition-colors">{en ? "Reading progress" : "Postęp czytania"}</a>
       {
         SITE.footerLinks.map((link) => (
           <a href={link.href} class="hover:text-signal transition-colors">

@@ -1,0 +1,78 @@
+---
+// "Postęp czytania" / "Reading progress": what it does, where it is kept,
+// and the switch. Used by /postep-czytania and /en/reading-progress; the
+// controls are run by ReadingProgress.astro.
+import type { Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const t = {
+  pl: {
+    eyebrow: "Ustawienia",
+    title: "Postęp czytania",
+    lead: "Strona może zapamiętywać przeczytane artykuły. Na osi czasu są wtedy oznaczone znakiem ✓, a przy każdym roku widać, ile z niego już przeczytano.",
+    how: "Jak to działa",
+    points: [
+      "Artykuł liczy się jako przeczytany, gdy dojdziesz do końca jego tekstu. Pod tekstem możesz też oznaczyć go ręcznie albo cofnąć oznaczenie.",
+      "Postęp jest zapisany tylko w tej przeglądarce, na tym urządzeniu. Nie wysyłamy go nigdzie, nie mamy kont użytkowników ani statystyk, które by go odczytywały.",
+      "Artykuł przeczytany po polsku jest przeczytany także w wersji angielskiej, i odwrotnie.",
+      "Po wyczyszczeniu danych przeglądarki lub w trybie prywatnym postęp znika.",
+    ],
+    state: "Stan:",
+    clear: "Usuń zapisany postęp",
+    unavailable: "Ta przeglądarka nie pozwala stronie niczego zapisywać (na przykład w trybie prywatnym), więc postęp czytania jest niedostępny.",
+    back: "← Oś czasu",
+  },
+  en: {
+    eyebrow: "Settings",
+    title: "Reading progress",
+    lead: "The site can remember which articles you have read. They are then marked with ✓ on the timeline, and each year shows how much of it you have already covered.",
+    how: "How it works",
+    points: [
+      "An article counts as read when you reach the end of its text. Below the text you can also mark it by hand, or undo the mark.",
+      "Your progress is stored only in this browser, on this device. It is never sent anywhere: there are no user accounts and no analytics that read it.",
+      "An article read in English counts as read in the Polish edition too, and the other way round.",
+      "Clearing the browser's data, or private browsing, removes it.",
+    ],
+    state: "Status:",
+    clear: "Delete saved progress",
+    unavailable: "This browser does not let the site store anything (in private browsing, for example), so reading progress is not available.",
+    back: "← Timeline",
+  },
+}[lang]
+const button =
+  "border-line hover:border-signal hover:text-signal cursor-pointer rounded-sm border px-3 py-1.5 font-mono text-xs transition-colors"
+---
+
+<section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+  <a href={paths(lang).timeline} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors">{t.back}</a>
+  <p class="text-ink-soft mt-6 mb-6 font-mono text-xs tracking-[0.2em] uppercase">{t.eyebrow}</p>
+  <h1 class="font-display text-ink max-w-xl text-3xl font-medium sm:text-4xl">{t.title}</h1>
+
+  <div class="prose prose-sm sm:prose-base mt-8 max-w-xl">
+    <p>{t.lead}</p>
+    <h2>{t.how}</h2>
+    <ul>{t.points.map((point) => <li>{point}</li>)}</ul>
+  </div>
+
+  <div data-read-settings class="border-line mt-10 max-w-xl border-t pt-6">
+    <p data-read-unavailable hidden class="text-ink-soft text-sm">{t.unavailable}</p>
+    {/* Filled in by the script; without it the page is only the text above. */}
+    <div data-read-controls hidden class="space-y-4">
+      <p class="font-mono text-xs">
+        <span class="text-ink-soft">{t.state}</span> <span data-read-state class="text-ink"></span>
+      </p>
+      <p data-read-total class="font-display text-ink text-2xl"></p>
+      <div class="flex flex-wrap gap-3">
+        <button type="button" data-read-action="toggle" class={button}></button>
+        <span data-read-when-on hidden>
+          <button type="button" data-read-action="clear" class={button}>{t.clear}</button>
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
