@@ -1,11 +1,11 @@
 ---
 title: Battle of Mościska and Lubaczów ends
-summary: On 15 June 1915 Mackensen's armies broke the second Russian line at Nahaczów and Oleszyce. Brusilov ordered a retreat to the Gródek line in front of Lemberg.
+summary: On 15 June 1915 Mackensen's armies broke the second Russian line at Nahaczów and Oleszyce. Brusilov ordered a retreat to the Gródek line in front of Lviv.
 source: koniec-bitwy-pod-mosciskami-i-lubaczowem
 sourceHash: 2cfc28f90e17f604fbda0860682a845a1a03be23
 ---
 
-On 15 June 1915, according to the British chronology of the war, the Battle of [Mościska](https://pl.wikipedia.org/wiki/Mościska) and [Lubaczów](https://pl.wikipedia.org/wiki/Lubaczów) came to an end. Three days after the [crossing at Sieniawa](/poczatek-bitwy-pod-mosciskami-i-lubaczowem) and two days after the start of the main attack, the troops of General [August von Mackensen](/postacie/august-von-mackensen) broke through the second line of the Russian defence. That day the commander of the Russian [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)), General [Aleksei Brusilov](/postacie/aleksiej-brusilow), ordered a retreat to the last fortified line in front of [Lemberg](https://pl.wikipedia.org/wiki/Lwów).
+On 15 June 1915, according to the British chronology of the war, the Battle of [Mościska](https://pl.wikipedia.org/wiki/Mościska) and [Lubaczów](https://pl.wikipedia.org/wiki/Lubaczów) came to an end. Three days after the [crossing at Sieniawa](/poczatek-bitwy-pod-mosciskami-i-lubaczowem) and two days after the start of the main attack, the troops of General [August von Mackensen](/postacie/august-von-mackensen) broke through the second line of the Russian defence. That day the commander of the Russian [8th Army](https://pl.wikipedia.org/wiki/8_Armia_(Imperium_Rosyjskie)), General [Aleksei Brusilov](/postacie/aleksiej-brusilow), ordered a retreat to the last fortified line in front of [Lviv](https://pl.wikipedia.org/wiki/Lwów).
 
 ## Two days of attack
 
@@ -19,6 +19,6 @@ According to the Austrian official history, the 11th Army alone had taken 34,000
 
 ## Retreat to Gródek
 
-Brusilov no longer had the strength for a battle in the open field. According to Austrian figures, many of his divisions numbered 2,000–3,000 bayonets, and some regiments had dwindled to the strength of a battalion or a company. Ivanov ordered him to stop the enemy on the roads to [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska) and Lemberg. Brusilov judged that he could do so only on a fortified position and ordered his corps to retreat to a long-prepared line running from the Rawa Ruska area through Magierów and [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) along the [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca). On this same line, in September 1914, the [Battle of Gródek and Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska) had been fought.
+Brusilov no longer had the strength for a battle in the open field. According to Austrian figures, many of his divisions numbered 2,000–3,000 bayonets, and some regiments had dwindled to the strength of a battalion or a company. Ivanov ordered him to stop the enemy on the roads to [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska) and Lviv. Brusilov judged that he could do so only on a fortified position and ordered his corps to retreat to a long-prepared line running from the Rawa Ruska area through Magierów and [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) along the [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca). On this same line, in September 1914, the [Battle of Gródek and Rawa Ruska](/bitwy/bitwa-pod-grodkiem-i-rawa-ruska) had been fought.
 
-During the night the Russians abandoned their positions. When the troops of the 2nd Army went in to the assault before dawn on 16 June, they found mostly empty trenches. Only Lubaczów, defended by Siberian units, still had to be taken that day. The struggle for Lemberg was beginning.
+During the night the Russians abandoned their positions. When the troops of the 2nd Army went in to the assault before dawn on 16 June, they found mostly empty trenches. Only Lubaczów, defended by Siberian units, still had to be taken that day. The struggle for Lviv was beginning.

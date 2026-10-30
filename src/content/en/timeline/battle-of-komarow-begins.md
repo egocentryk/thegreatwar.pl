@@ -17,6 +17,6 @@ The first blow fell on the Russian XXV Corps near Zamość. The Austro-Hungarian
 
 ## What the following days brought
 
-The battle lasted until 2 September. The Austro-Hungarians almost encircled Plehve's army, but at the last moment the Russians slipped away behind the Bug, losing many soldiers and prisoners. Auffenberg won a victory for which he later received the title of baron with the honorific "von Komarów". It did not, however, change the fate of the whole campaign, because in eastern Galicia the Russians were at the same time pushing the weaker Austro-Hungarian armies back towards Lemberg.
+The battle lasted until 2 September. The Austro-Hungarians almost encircled Plehve's army, but at the last moment the Russians slipped away behind the Bug, losing many soldiers and prisoners. Auffenberg won a victory for which he later received the title of baron with the honorific "von Komarów". It did not, however, change the fate of the whole campaign, because in eastern Galicia the Russians were at the same time pushing the weaker Austro-Hungarian armies back towards Lviv.
 
 The fighting took place on Polish soil, and Poles served in both armies. Six years later, in 1920, another [Battle of Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem) was fought in the same area, this time between Polish cavalry and Budyonny's Cavalry Army.

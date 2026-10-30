@@ -321,7 +321,7 @@
     ]
    },
    {
-    "text": "In the east the Germans destroyed the Russian Second Army at Tannenberg, but Russia beat the main Austro-Hungarian forces in Galicia, took Lemberg on 3 September and laid siege to Przemyśl.",
+    "text": "In the east the Germans destroyed the Russian Second Army at Tannenberg, but Russia beat the main Austro-Hungarian forces in Galicia, took Lviv on 3 September and laid siege to Przemyśl.",
     "quotes": [
      {
       "file": "src/content/en/battles/battle-of-tannenberg.md",
@@ -333,7 +333,7 @@
      },
      {
       "file": "src/content/en/timeline/russians-take-lemberg.md",
-      "quote": "On 3 September 1914 Russian troops entered Lemberg"
+      "quote": "On 3 September 1914 Russian troops entered Lviv"
      },
      {
       "file": "src/content/en/timeline/first-siege-of-przemysl-begins.md",

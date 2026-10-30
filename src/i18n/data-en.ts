@@ -195,7 +195,7 @@ export const PHASES_EN: Record<
     title: "1914: The Battle of Galicia",
     dates: "23 August – 11 September 1914",
     intro:
-      "At the same time as the fighting in East Prussia, the main forces of Austria-Hungary and Russia clashed in the south of the front. The Austro-Hungarian armies struck north from Galicia into the Kingdom of Poland and won initial victories at Kraśnik and Komarów. Meanwhile the Russians were advancing from the east on Lemberg, which they took at the beginning of September. Threatened with encirclement, the Austro-Hungarian forces withdrew behind the San, leaving the besieged fortress of Przemyśl behind them. It was one of the largest battles of the entire war, and most of the fighting took place on Polish soil.",
+      "At the same time as the fighting in East Prussia, the main forces of Austria-Hungary and Russia clashed in the south of the front. The Austro-Hungarian armies struck north from Galicia into the Kingdom of Poland and won initial victories at Kraśnik and Komarów. Meanwhile the Russians were advancing from the east on Lviv, which they took at the beginning of September. Threatened with encirclement, the Austro-Hungarian forces withdrew behind the San, leaving the besieged fortress of Przemyśl behind them. It was one of the largest battles of the entire war, and most of the fighting took place on Polish soil.",
   },
   "1914-daleki-wschod-i-pacyfik": {
     title: "1914: The Far East and the Pacific",
@@ -492,9 +492,9 @@ export const CURATED_EN: Record<string, { title: string; summary: string }> = {
       "On 19 October 1914 a British advance on Menin ran into fresh German corps. So began the First Battle of Ypres.",
   },
   "timeline:poczatek-walk-o-lwow": {
-    title: "Fighting for Lwów begins",
+    title: "Fighting for Lviv begins",
     summary:
-      "On the night to 1 November 1918 Ukrainian soldiers seized Lwów and proclaimed it capital of a Ukrainian state. That same day its Polish residents took up arms.",
+      "On the night to 1 November 1918 Ukrainian soldiers seized Lviv and proclaimed it capital of a Ukrainian state. That same day its Polish residents took up arms.",
   },
   "timeline:rewolucja-lutowa": {
     title: "February Revolution",
@@ -714,7 +714,7 @@ export const TAGS_EN: Record<string, string> = {
   "Ludwik Battenberg": "Prince Louis of Battenberg",
   "Luigi Cadorna": "Luigi Cadorna",
   "Luksemburg": "Luxembourg",
-  "Lwów": "Lemberg",
+  "Lwów": "Lviv",
   "Maria Adelajda": "Marie-Adélaïde",
   "Marie Émile Fayolle": "Marie Émile Fayolle",
   "Maroko": "Morocco",

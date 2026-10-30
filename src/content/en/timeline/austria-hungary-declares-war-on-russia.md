@@ -6,7 +6,7 @@ sourceHash: 16deadae0d6607b585ac6bfb5e70c22230dd6602
 brief:
   - "On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg, Count Friedrich Szápáry, handed Sergey Sazonov a declaration of war on Russia."
   - "Austria-Hungary was the last of the great powers in the east to declare war, as it was still mobilising and had sent part of its forces against Serbia. Germany had declared war on Russia on 1 August."
-  - "Galicia became the monarchy's main front. After initial successes at Kraśnik and Komarów the Austro-Hungarian army suffered a heavy defeat, and in early September the Russians took Lemberg."
+  - "Galicia became the monarchy's main front. After initial successes at Kraśnik and Komarów the Austro-Hungarian army suffered a heavy defeat, and in early September the Russians took Lviv."
   - "For the first time since the partitions two of the partitioning powers went to war against each other. On the same day Józef Piłsudski's First Cadre Company set out from Kraków."
   - "For the Habsburg monarchy it meant a war on two fronts, against Serbia and Russia, for which its army was not prepared."
 ---
@@ -19,7 +19,7 @@ Although the whole crisis had begun with Vienna's dispute with Belgrade and with
 
 ## The front in Galicia
 
-The declaration of war meant that the main front of Austria-Hungary became [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)), a border province inhabited largely by Poles and Ukrainians. It was there, at the end of August, that great battles with the Russian army were fought. After initial successes at [Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) and [Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)), the Austro-Hungarian army suffered a heavy defeat. In early September the Russians took [Lemberg](https://pl.wikipedia.org/wiki/Lwów), and soon afterwards laid siege to the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl).
+The declaration of war meant that the main front of Austria-Hungary became [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)), a border province inhabited largely by Poles and Ukrainians. It was there, at the end of August, that great battles with the Russian army were fought. After initial successes at [Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) and [Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)), the Austro-Hungarian army suffered a heavy defeat. In early September the Russians took [Lviv](https://pl.wikipedia.org/wiki/Lwów), and soon afterwards laid siege to the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl).
 
 ## The Polish dimension of the war
 

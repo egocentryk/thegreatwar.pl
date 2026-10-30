@@ -15,9 +15,9 @@ On the same day the German corps of General Felix von Bothmer approached Stryj, 
 
 ## The new Russian line
 
-The reports of 15 May left no doubt that the Russians had halted their retreat. Their [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) under General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow), the same army that had besieged Przemyśl in the winter and moved into the Carpathians in the spring, dug in on a line running from the area of Perehińsko through the approaches to Dolina and Stryj to the hills east and north of Drohobycz. Further west, beyond the marshes of the Wielkie Błoto, stretched the positions of the Russian Eighth Army, which covered the approaches to Przemyśl and Lemberg.
+The reports of 15 May left no doubt that the Russians had halted their retreat. Their [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) under General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow), the same army that had besieged Przemyśl in the winter and moved into the Carpathians in the spring, dug in on a line running from the area of Perehińsko through the approaches to Dolina and Stryj to the hills east and north of Drohobycz. Further west, beyond the marshes of the Wielkie Błoto, stretched the positions of the Russian Eighth Army, which covered the approaches to Przemyśl and Lviv.
 
-The stakes were high. Stryj was an important railway junction, through which ran the line from Hungary across the Carpathians to Lemberg. The area of Drohobycz and Borysław was the most important oil field in Galicia and in the whole Habsburg monarchy. For the Russians, holding this line meant covering the flank of the armies fighting on the San and in front of Przemyśl.
+The stakes were high. Stryj was an important railway junction, through which ran the line from Hungary across the Carpathians to Lviv. The area of Drohobycz and Borysław was the most important oil field in Galicia and in the whole Habsburg monarchy. For the Russians, holding this line meant covering the flank of the armies fighting on the San and in front of Przemyśl.
 
 ## Fruitless attacks
 

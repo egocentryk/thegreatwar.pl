@@ -22,7 +22,7 @@ A British chronology of the war records the start of the battle under 7 Septembe
 
 ## Background
 
-On 23–25 August Dankl's army defeated the Russian Fourth Army in the [Battle of Kraśnik](/bitwy/bitwa-pod-krasnikiem) and followed it northwards. At the beginning of September its leading units stood on the hills of the [Lublin Upland](https://pl.wikipedia.org/wiki/Wyżyna_Lubelska), on the approaches to Lublin. They got no further, however. The Austro-Hungarian command was focused on the east, around Lemberg, where the Russians were winning successes, and could not reinforce Dankl.
+On 23–25 August Dankl's army defeated the Russian Fourth Army in the [Battle of Kraśnik](/bitwy/bitwa-pod-krasnikiem) and followed it northwards. At the beginning of September its leading units stood on the hills of the [Lublin Upland](https://pl.wikipedia.org/wiki/Wyżyna_Lubelska), on the approaches to Lublin. They got no further, however. The Austro-Hungarian command was focused on the east, around Lviv, where the Russians were winning successes, and could not reinforce Dankl.
 
 The Russians, on the contrary, were strengthening their northern wing. The new commander of the Fourth Army, General [Aleksei Evert](/postacie/aleksiej-ewert), received fresh corps, including the [Guards](https://pl.wikipedia.org/wiki/Gwardia_Imperium_Rosyjskiego) Corps, made up of elite regiments stationed in peacetime in St Petersburg, and the Grenadier Corps. On the Vistula the new Ninth Army of General Platon Lechitsky was deploying. On 3 September the command of the Russian South-Western Front ordered a general advance towards the lower San.
 
@@ -42,6 +42,6 @@ Reliable figures for losses in the battle itself are lacking. Local studies stat
 
 ## Significance
 
-The Battle of Tarnawka undid Dankl's August success. The breakthrough south of Lublin, together with the defeats at Lemberg and Rawa Ruska, forced Austria-Hungary to break off the Battle of Galicia and retreat behind the San, and then further, behind the Dunajec. The Russians took most of Eastern Galicia and surrounded the fortress of Przemyśl.
+The Battle of Tarnawka undid Dankl's August success. The breakthrough south of Lublin, together with the defeats at Lviv and Rawa Ruska, forced Austria-Hungary to break off the Battle of Galicia and retreat behind the San, and then further, behind the Dunajec. The Russians took most of Eastern Galicia and surrounded the fortress of Przemyśl.
 
 The fighting at Tarnawka, like the other battles of this campaign, took place on Polish soil. Many Poles fought on both sides, as conscripts of the Russian and Austro-Hungarian armies, and the villages of the Lublin region were badly damaged.

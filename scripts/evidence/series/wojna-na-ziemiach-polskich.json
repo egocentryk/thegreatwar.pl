@@ -103,11 +103,11 @@
       ]
     },
     {
-      "text": "In the first months the Russians took Lemberg and besieged Przemyśl, while the Germans came within reach of Warsaw and took Łódź.",
+      "text": "In the first months the Russians took Lviv and besieged Przemyśl, while the Germans came within reach of Warsaw and took Łódź.",
       "quotes": [
         {
           "file": "src/content/en/battles/battle-of-galicia.md",
-          "quote": "Austria-Hungary lost Lemberg and most of Galicia and withdrew behind the San, then behind the Dunajec, leaving the fortress of Przemyśl under siege."
+          "quote": "Austria-Hungary lost Lviv and most of Galicia and withdrew behind the San, then behind the Dunajec, leaving the fortress of Przemyśl under siege."
         },
         {
           "file": "src/content/en/battles/battle-of-warsaw-and-deblin.md",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "text": "The breakthrough at Gorlice in May 1915 turned the tide: in June the Central Powers recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland.",
+      "text": "The breakthrough at Gorlice in May 1915 turned the tide: in June the Central Powers recovered Przemyśl and Lviv, and in the summer the Russians had to abandon the whole Kingdom of Poland.",
       "quotes": [
         {
           "file": "src/content/en/battles/battle-of-gorlice.md",
@@ -128,7 +128,7 @@
         },
         {
           "file": "src/content/en/battles/battle-of-gorlice.md",
-          "quote": "In the following weeks the troops of the Central Powers reached the San, in June they recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland."
+          "quote": "In the following weeks the troops of the Central Powers reached the San, in June they recovered Przemyśl and Lviv, and in the summer the Russians had to abandon the whole Kingdom of Poland."
         }
       ]
     },
@@ -190,7 +190,7 @@
       "ref": "rosjanie-zdobywaja-lwow",
       "note": {
         "pl": "Pierwszy reżim okupacyjny w serii: zajęte ziemie Galicji i Bukowiny przechodzą pod rosyjski zarząd generał-gubernatorstwa z siedzibą we Lwowie.",
-        "en": "The first occupation regime in the series: the occupied lands of Galicia and Bukovina are placed under a Russian governorate-general based in Lemberg."
+        "en": "The first occupation regime in the series: the occupied lands of Galicia and Bukovina are placed under a Russian governorate-general based in Lviv."
       },
       "quote": {
         "pl": "Zajęte ziemie Galicji i Bukowiny oddano pod zarząd generał-gubernatorstwa.",
@@ -278,18 +278,18 @@
       "ref": "bitwy/bitwa-pod-gorlicami",
       "note": {
         "pl": "Punkt zwrotny serii: po przełamaniu Rosjanie tracą Przemyśl i Lwów, a latem muszą opuścić całe Królestwo Polskie.",
-        "en": "The turning point of the series: after the breakthrough the Russians lose Przemyśl and Lemberg, and in the summer have to abandon the whole Kingdom of Poland."
+        "en": "The turning point of the series: after the breakthrough the Russians lose Przemyśl and Lviv, and in the summer have to abandon the whole Kingdom of Poland."
       },
       "quote": {
         "pl": "W następnych tygodniach wojska państw centralnych doszły do Sanu, w czerwcu odzyskały Przemyśl i Lwów, a latem Rosjanie musieli opuścić całe Królestwo Polskie.",
-        "en": "In the following weeks the troops of the Central Powers reached the San, in June they recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland."
+        "en": "In the following weeks the troops of the Central Powers reached the San, in June they recovered Przemyśl and Lviv, and in the summer the Russians had to abandon the whole Kingdom of Poland."
       }
     },
     {
       "ref": "austro-wegrzy-odbijaja-lwow",
       "note": {
         "pl": "Zamyka wątek z 3 września 1914 roku: Lwów wraca pod władzę Austro-Węgier po rosyjskiej okupacji, która trwała 293 dni.",
-        "en": "It closes the thread of 3 September 1914: Lemberg returns to Austro-Hungarian rule after a Russian occupation that lasted 293 days."
+        "en": "It closes the thread of 3 September 1914: Lviv returns to Austro-Hungarian rule after a Russian occupation that lasted 293 days."
       },
       "quote": {
         "pl": "Tak skończyła się okupacja, która zaczęła się 3 września 1914 roku i trwała 293 dni.",

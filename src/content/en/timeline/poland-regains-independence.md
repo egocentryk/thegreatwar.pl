@@ -7,7 +7,7 @@ brief:
   - "On the evening of 11 November 1918 in Warsaw the Regency Council handed Józef Piłsudski military authority and supreme command of the Polish armed forces. That same morning Germany signed the armistice near Compiègne."
   - "From the evening of 10 November, the day Piłsudski returned from Magdeburg, Polish soldiers and inhabitants disarmed the German garrison. About 30,000 Germans left Warsaw over the following days."
   - "The already weak regents decided to hand Piłsudski the army and announced that they would place supreme authority in the hands of a future national government. A day later they entrusted him with forming it."
-  - "All three partitioning powers had lost the war or fallen apart, but the new state still had no borders and no recognised government, and in Lwów the Poles were fighting the Ukrainians."
+  - "All three partitioning powers had lost the war or fallen apart, but the new state still had no borders and no recognised government, and in Lviv the Poles were fighting the Ukrainians."
   - "The recovery of independence took weeks, but 11 November was adopted as the symbolic date. The act of 23 April 1937 established National Independence Day, which was restored in 1989."
 ---
 
@@ -41,7 +41,7 @@ In the west that day the guns fell silent at eleven in the morning. The Habsburg
 
 Jędrzej Moraczewski, a minister in the Lublin government and soon prime minister, recalled the joy of those days in these words: "It is impossible to convey the intoxication, the frenzy of joy that seized the Polish population at that moment. After 120 years the cordons had burst. 'They' were gone. Freedom! Independence! Unification! A state of our own!"
 
-The state being born in Warsaw, however, had no borders, no recognised government and no recognition from the powers. The Entente regarded the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) in Paris as Poland's representative. In Kraków the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna) governed, in [Lwów](/poczatek-walk-o-lwow) the Poles had been fighting the Ukrainians for ten days, and Greater Poland, Pomerania and Silesia remained within Germany. In the east the troops of the German Ober Ost still stood, with the Bolsheviks approaching behind them. The struggle for the borders was to go on for several more years.
+The state being born in Warsaw, however, had no borders, no recognised government and no recognition from the powers. The Entente regarded the [Polish National Committee](https://pl.wikipedia.org/wiki/Komitet_Narodowy_Polski_(1917–1919)) in Paris as Poland's representative. In Kraków the [Polish Liquidation Commission](https://pl.wikipedia.org/wiki/Polska_Komisja_Likwidacyjna) governed, in [Lviv](/poczatek-walk-o-lwow) the Poles had been fighting the Ukrainians for ten days, and Greater Poland, Pomerania and Silesia remained within Germany. In the east the troops of the German Ober Ost still stood, with the Bolsheviks approaching behind them. The struggle for the borders was to go on for several more years.
 
 ## Why 11 November
 

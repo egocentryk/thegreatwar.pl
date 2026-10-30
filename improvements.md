@@ -2341,6 +2341,25 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 42. English edition: Lviv (2026-10-30)
+
+- Owner's rule: the English name of the city is **Lviv** (Lemberg is
+  German, Lwów Polish). Replaced in 138 English files (articles, battles,
+  people, guides: Lemberg 311×, Lwów 158×, plus `location`/`result`/`role`
+  fields), the English glossary texts, `data-en.ts` (phase intro, homepage
+  texts, the tag name) and, through their evidence, the English year
+  intros and series (rebuilt; checkers 0 problems).
+- Kept: established battle names ("the Battle of Lemberg" for 1914,
+  "Battles of Lemberg"), historical proper names (Lwów Eaglets, Lwów
+  Polytechnic), words inside quotations and the voices, link targets
+  (pl.wikipedia URLs stay byte for byte as in Polish), and "Lvov" for the
+  people (Georgy and Vladimir Lvov) and the Russian "Galich–Lvov operation".
+- The English tag page moved from `/en/tag/lemberg` to `/en/tag/lviv`;
+  `vercel.json` redirects the old URL (301). Rule recorded in
+  `translation-brief.md`.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2437,7 +2456,8 @@ finished, tick it here and add its section above.
 - [x] Known errors: Rada Polska seat, Gete and Liège details, guide summary (§38)
 - [x] Five 1914 battle pages expanded: Mons, Charleroi, Ardennes, Lorraine, Mulhouse (§39)
 - [x] Country pages "Kraje w wojnie": 16 states, PL/EN (§40)
-- [x] "Głosy z frontu": pilot (12 voices, VIII 1914) batches 1–8: 354 voices, VIII 1914 – XII 1918 (§41)
+- [x] "Głosy z frontu": pilot (12 voices, VIII 1914) and batches 1–8: 354 voices, VIII 1914 – XII 1918 (§41)
+- [x] English edition: Lviv instead of Lemberg/Lwów (§42)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

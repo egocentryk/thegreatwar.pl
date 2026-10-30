@@ -15,7 +15,7 @@ It was one of the most multinational cities of the monarchy. Jews, who formed th
 
 ## The occupation of the city
 
-At the turn of August and September 1914 the Austro-Hungarian armies lost the battles in eastern Galicia and were retreating west. On 3 September [the Russians took Lemberg](/rosjanie-zdobywaja-lwow). Bukovina, defended only by a few units, was left without cover. The provincial authorities and some of the inhabitants left Czernowitz, and the mayor, Salo Weisselberger, surrendered the city without a fight. The Russians occupied Czernowitz and most of the province. During the occupation they deported several prominent citizens, including the mayor himself, into the interior of Russia as hostages.
+At the turn of August and September 1914 the Austro-Hungarian armies lost the battles in eastern Galicia and were retreating west. On 3 September [the Russians took Lviv](/rosjanie-zdobywaja-lwow). Bukovina, defended only by a few units, was left without cover. The provincial authorities and some of the inhabitants left Czernowitz, and the mayor, Salo Weisselberger, surrendered the city without a fight. The Russians occupied Czernowitz and most of the province. During the occupation they deported several prominent citizens, including the mayor himself, into the interior of Russia as hostages.
 
 ## The city changes hands
 

@@ -9,7 +9,7 @@ The British chronology of the war gives 15 November 1914 as the start of the sec
 
 ## Retreat into the Carpathians
 
-In October the Austro-Hungarian Third Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) had relieved Przemyśl and tried to advance further towards Lemberg. After the failure of the Central Powers on the Vistula, however, it had to withdraw. In mid-November it took up positions on the Carpathian ridge, on a line from the [Uzhok Pass](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) to Zborov near Bardejov, and the Russians closed the ring around Przemyśl for the second time. The Russian Eighth Army of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) was attacking the passes. Under its pressure, on 18 November the Austrians had to fall back still further, which drew after it the retreat of further units on neighbouring sectors of the front.
+In October the Austro-Hungarian Third Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) had relieved Przemyśl and tried to advance further towards Lviv. After the failure of the Central Powers on the Vistula, however, it had to withdraw. In mid-November it took up positions on the Carpathian ridge, on a line from the [Uzhok Pass](https://pl.wikipedia.org/wiki/Przełęcz_Użocka) to Zborov near Bardejov, and the Russians closed the ring around Przemyśl for the second time. The Russian Eighth Army of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) was attacking the passes. Under its pressure, on 18 November the Austrians had to fall back still further, which drew after it the retreat of further units on neighbouring sectors of the front.
 
 ## The Russians in the Laborec valley
 

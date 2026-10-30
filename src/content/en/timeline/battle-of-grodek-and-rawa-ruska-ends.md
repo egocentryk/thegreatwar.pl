@@ -1,6 +1,6 @@
 ---
 title: Battle of Gródek and Rawa Ruska ends
-summary: On 11 September 1914 the Austro-Hungarian bid to retake Lemberg failed. The Russians broke the front at Rawa Ruska; Conrad ordered a retreat behind the San.
+summary: On 11 September 1914 the Austro-Hungarian bid to retake Lviv failed. The Russians broke the front at Rawa Ruska; Conrad ordered a retreat behind the San.
 source: koniec-bitwy-pod-grodkiem-i-rawa-ruska
 sourceHash: 558d094b762ea7e92c4c93dee068d0ed79df80cd
 ---
@@ -9,7 +9,7 @@ On 11 September 1914 the Battle of Gródek and Rawa Ruska, called the Second Bat
 
 ## A failed counter-offensive
 
-After the loss of Lemberg Conrad decided to reverse the course of the campaign. The Fourth Army of General [Moritz von Auffenberg](https://pl.wikipedia.org/wiki/Moritz_Auffenberg), victorious at Komarów, was to strike from the north, and the Third and Second Armies from the west, from the river [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca) near [Gródek Jagielloński](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)). At Rawa Ruska, however, Auffenberg's army ran into the corps of the Russian Third Army marching west and became bogged down in heavy fighting. [The general attack begun on 8 September](/poczatek-bitwy-pod-grodkiem-i-rawa-ruska) on the Wereszyca brought only local successes. The Russian Eighth Army of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) went through difficult moments but held its front, and by 10 September the Austro-Hungarian attack had petered out.
+After the loss of Lviv Conrad decided to reverse the course of the campaign. The Fourth Army of General [Moritz von Auffenberg](https://pl.wikipedia.org/wiki/Moritz_Auffenberg), victorious at Komarów, was to strike from the north, and the Third and Second Armies from the west, from the river [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca) near [Gródek Jagielloński](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)). At Rawa Ruska, however, Auffenberg's army ran into the corps of the Russian Third Army marching west and became bogged down in heavy fighting. [The general attack begun on 8 September](/poczatek-bitwy-pod-grodkiem-i-rawa-ruska) on the Wereszyca brought only local successes. The Russian Eighth Army of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) went through difficult moments but held its front, and by 10 September the Austro-Hungarian attack had petered out.
 
 ## The threat of encirclement
 

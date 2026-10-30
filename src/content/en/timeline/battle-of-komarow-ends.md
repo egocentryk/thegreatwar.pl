@@ -15,7 +15,7 @@ That did not happen, however. The commanders of the Austro-Hungarian wings, alar
 
 ## Victory without a decision
 
-Komarów was, together with Kraśnik, the greatest success of the Austro-Hungarian army in the first weeks of the war. Auffenberg became a hero of the monarchy, and in 1915 he received the title of baron with the predicate "von Komarów". The victory did not, however, change the course of the campaign. In eastern Galicia the Russians defeated the weaker Austro-Hungarian armies [on the Złota Lipa and Gniła Lipa](/koniec-bitwy-nad-zlota-lipa) and were approaching Lemberg. Conrad immediately turned Auffenberg's tired troops south, towards [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska), to save the capital of Galicia.
+Komarów was, together with Kraśnik, the greatest success of the Austro-Hungarian army in the first weeks of the war. Auffenberg became a hero of the monarchy, and in 1915 he received the title of baron with the predicate "von Komarów". The victory did not, however, change the course of the campaign. In eastern Galicia the Russians defeated the weaker Austro-Hungarian armies [on the Złota Lipa and Gniła Lipa](/koniec-bitwy-nad-zlota-lipa) and were approaching Lviv. Conrad immediately turned Auffenberg's tired troops south, towards [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska), to save the capital of Galicia.
 
 ## War in the Zamość region
 

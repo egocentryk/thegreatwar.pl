@@ -17,4 +17,4 @@ On 25 August Dankl's troops reached Kraśnik. A Russian counter-attack on the Ja
 
 After the defeat in Serbia, Kraśnik was the Austro-Hungarian army's first victory of the war. Dankl became a hero, and news of the success was received in Vienna with relief. On the Russian side General Saltza lost his command, and his place was taken by General [Aleksei Evert](/postacie/aleksiej-ewert).
 
-The victory also secured the left flank of the neighbouring Austro-Hungarian Fourth Army, which on 26 August began the Battle of Komarów. The successes in the north proved short-lived, however. In eastern Galicia the Russians were routing the weaker Austro-Hungarian armies, and at the beginning of September they took Lemberg.
+The victory also secured the left flank of the neighbouring Austro-Hungarian Fourth Army, which on 26 August began the Battle of Komarów. The successes in the north proved short-lived, however. In eastern Galicia the Russians were routing the weaker Austro-Hungarian armies, and at the beginning of September they took Lviv.

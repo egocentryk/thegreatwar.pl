@@ -1,3 +1,6 @@
 {
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/en/tag/lemberg", "destination": "/en/tag/lviv", "permanent": true }
+  ]
 }

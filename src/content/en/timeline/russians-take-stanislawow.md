@@ -11,7 +11,7 @@ The British chronology of the war records under 30 October 1914 the capture of [
 
 Stanisławów, today the Ukrainian Ivano-Frankivsk, was one of the largest towns of Eastern Galicia, the seat of a district, a garrison and an important railway junction at the foot of the Carpathians. In 1910 it had more than 33,000 inhabitants. Almost half of them were Jews. Alongside them lived chiefly Poles, as well as Ukrainians (Ruthenians), Germans and Armenians.
 
-After the defeats in the [battles of Galicia](/bitwy/bitwa-galicyjska), in the same days in which [the Russians took Lemberg](/rosjanie-zdobywaja-lwow), the Austrians abandoned the town without a fight and withdrew into the mountains. The Russians entered Stanisławów on 30 August according to some sources, on 3 September according to others. The town came under Russian military administration, which bore down particularly hard on the Jewish population.
+After the defeats in the [battles of Galicia](/bitwy/bitwa-galicyjska), in the same days in which [the Russians took Lviv](/rosjanie-zdobywaja-lwow), the Austrians abandoned the town without a fight and withdrew into the mountains. The Russians entered Stanisławów on 30 August according to some sources, on 3 September according to others. The town came under Russian military administration, which bore down particularly hard on the Jewish population.
 
 ## Legionnaires near Stanisławów
 

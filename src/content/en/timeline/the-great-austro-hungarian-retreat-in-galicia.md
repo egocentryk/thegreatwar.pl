@@ -9,9 +9,9 @@ On the evening of 11 September 1914 the chief of the Austro-Hungarian General St
 
 ## From victories to defeat
 
-The campaign had begun promisingly in August. In the north, in the Kingdom of Poland, the Austro-Hungarian armies won the battles of Kraśnik and [Komarów](/bitwy/bitwa-pod-komarowem), and Conrad hoped to crush the Russians between the Vistula and the Bug. Meanwhile, in eastern Galicia, superior Russian forces defeated the weaker Third Army on the Złota Lipa and Gniła Lipa and [on 3 September took Lemberg](/rosjanie-zdobywaja-lwow), the capital of the province.
+The campaign had begun promisingly in August. In the north, in the Kingdom of Poland, the Austro-Hungarian armies won the battles of Kraśnik and [Komarów](/bitwy/bitwa-pod-komarowem), and Conrad hoped to crush the Russians between the Vistula and the Bug. Meanwhile, in eastern Galicia, superior Russian forces defeated the weaker Third Army on the Złota Lipa and Gniła Lipa and [on 3 September took Lviv](/rosjanie-zdobywaja-lwow), the capital of the province.
 
-Conrad still tried to reverse the course of the campaign. He turned Auffenberg's victorious army south from Komarów and from 8 September threw his forces into an attack at Gródek Jagielloński and Rawa Ruska in order to retake Lemberg. The attack stalled, and in the meantime the Russian armies broke through the front of General Viktor Dankl's First Army at Tarnawka and pushed into the gap between the Austro-Hungarian armies. On 11 September, when the Russians broke the defences at Rawa Ruska and their cavalry appeared in the rear of the Fourth Army, Conrad had no choice left. His armies were threatened with encirclement and with being cut off from the crossings over the San.
+Conrad still tried to reverse the course of the campaign. He turned Auffenberg's victorious army south from Komarów and from 8 September threw his forces into an attack at Gródek Jagielloński and Rawa Ruska in order to retake Lviv. The attack stalled, and in the meantime the Russian armies broke through the front of General Viktor Dankl's First Army at Tarnawka and pushed into the gap between the Austro-Hungarian armies. On 11 September, when the Russians broke the defences at Rawa Ruska and their cavalry appeared in the rear of the Fourth Army, Conrad had no choice left. His armies were threatened with encirclement and with being cut off from the crossings over the San.
 
 ## Retreat in rain and mud
 
@@ -31,13 +31,13 @@ The Battle of Galicia and the retreat were a catastrophe for Austria-Hungary. We
 
 ## Refugees
 
-Hundreds of thousands of civilians moved west with the army. Officials, landowners, townspeople and peasants fled, and Galician Jews, who feared Russian violence and pogroms, were especially numerous. Their fears were not unfounded. At the end of September Russian soldiers carried out a pogrom in Lemberg. The refugees went to Kraków and from there to Vienna, Moravia, Bohemia and other lands of the monarchy, where the authorities set up camps and aid stations for them. Many of them returned home only after Galicia was recaptured in 1915, or later.
+Hundreds of thousands of civilians moved west with the army. Officials, landowners, townspeople and peasants fled, and Galician Jews, who feared Russian violence and pogroms, were especially numerous. Their fears were not unfounded. At the end of September Russian soldiers carried out a pogrom in Lviv. The refugees went to Kraków and from there to Vienna, Moravia, Bohemia and other lands of the monarchy, where the authorities set up camps and aid stations for them. Many of them returned home only after Galicia was recaptured in 1915, or later.
 
 The retreat also brought suffering to those who stayed behind. The withdrawing troops requisitioned food and horses, and the Ukrainian population, suspected of pro-Russian sympathies, faced arrests and sometimes summary executions. In the occupied lands the Russians introduced their own military administration.
 
 ## Poles in the retreat
 
-Polish volunteer formations took part in the retreat. The Eastern Legion, formed in Lemberg, had been evacuated west before the city fell. Under the influence of agitation by opponents of cooperation with Austria, most of the volunteers went home, and on 21 September at Mszana Dolna the decision was taken to dissolve the [Eastern Legion](https://pl.wikipedia.org/wiki/Legion_Wschodni). Only some of the soldiers, among them those around Captain Józef Haller, took the oath and joined the newly formed 3rd Regiment of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)).
+Polish volunteer formations took part in the retreat. The Eastern Legion, formed in Lviv, had been evacuated west before the city fell. Under the influence of agitation by opponents of cooperation with Austria, most of the volunteers went home, and on 21 September at Mszana Dolna the decision was taken to dissolve the [Eastern Legion](https://pl.wikipedia.org/wiki/Legion_Wschodni). Only some of the soldiers, among them those around Captain Józef Haller, took the oath and joined the newly formed 3rd Regiment of the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)).
 
 The 1st Regiment of the Legions under [Józef Piłsudski](/postacie/jozef-pilsudski), which had been operating in the Kielce region since August, covered the northern flank of the retreating Austro-Hungarian armies against Russian cavalry on the Vistula, near [Nowy Korczyn](https://pl.wikipedia.org/wiki/Nowy_Korczyn), in the second half of September. In October the legionaries took part in the Central Powers' counter-offensive on the Vistula.
 
@@ -49,4 +49,4 @@ The September retreat was not the last. In October German and Austro-Hungarian f
 
 The defeat in Galicia changed Austria-Hungary's position in the war. Within a few weeks the monarchy's army lost a large part of its pre-war cadres and never regained its former strength. From then on it depended more and more on help from Germany, which had to send its troops to the Eastern Front to rescue its ally. Russia won the richest part of Galicia and stood at the foot of the Carpathians, from where it could threaten Hungary, and in its propaganda it presented the occupied lands as recovered "Russian" land. In the eyes of Russian public opinion, the victory in Galicia offset the defeat at Tannenberg.
 
-Russian rule in Galicia lasted until the spring and summer of 1915, when, after the breakthrough at Gorlice, the armies of the Central Powers recaptured Przemyśl and Lemberg.
+Russian rule in Galicia lasted until the spring and summer of 1915, when, after the breakthrough at Gorlice, the armies of the Central Powers recaptured Przemyśl and Lviv.

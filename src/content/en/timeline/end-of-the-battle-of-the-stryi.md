@@ -23,4 +23,4 @@ The same day, on the army's right wing, the Russians, forewarned moreover by an 
 
 ## What came next
 
-The Battle of the Stryi therefore did not end in any clear decision on 11 June. The next day Bothmer took Żydaczów, and Szurmay's corps again went over to the attack. At the same time, a few dozen kilometres to the north-west, a new offensive by Mackensen began, which was to decide the fate of Lemberg and the whole of eastern Galicia. The fighting on the Dniester, however, went on. The South Army crossed the river at Żurawno for good only in the second half of June.
+The Battle of the Stryi therefore did not end in any clear decision on 11 June. The next day Bothmer took Żydaczów, and Szurmay's corps again went over to the attack. At the same time, a few dozen kilometres to the north-west, a new offensive by Mackensen began, which was to decide the fate of Lviv and the whole of eastern Galicia. The fighting on the Dniester, however, went on. The South Army crossed the river at Żurawno for good only in the second half of June.

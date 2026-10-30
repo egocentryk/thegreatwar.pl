@@ -219,7 +219,7 @@ export const SERIES: Series[] = [
     intro:
       "Wojna, w której trzy państwa zaborcze stanęły przeciw sobie, po raz pierwszy od rozbiorów uczyniła sprawę polską przedmiotem międzynarodowej rywalizacji. Mocarstwa licytowały się obietnicami: od autonomii pod berłem cara po zjednoczoną i niepodległą Polskę z dostępem do morza. Jesienią 1918 roku, gdy wszystkie trzy mocarstwa zaborcze przegrały wojnę albo się rozpadły, Polacy sami przejęli władzę w Krakowie, Lublinie i Warszawie. Nowe państwo nie miało jednak ani granic, ani uznania mocarstw, a o Lwów i Galicję Wschodnią trzeba było walczyć. Seria prowadzi od odezwy wielkiego księcia Mikołaja przez akt 5 listopada, orędzia Wilsona i Radę Regencyjną po 11 listopada, obronę Lwowa i powstanie wielkopolskie.",
     introEn:
-      "A war in which the three partitioning powers fought one another made the Polish question, for the first time since the partitions, an object of international rivalry. The powers outbid one another with promises, from autonomy under the Tsar to a united and independent Poland with access to the sea. In the autumn of 1918, when all three partitioning powers had lost the war or fallen apart, the Poles took power themselves in Kraków, Lublin and Warsaw. Yet the new state had no borders and no recognition from the powers, and Lwów and Eastern Galicia had to be fought for. The series runs from Grand Duke Nicholas's proclamation through the Act of 5 November, Wilson's addresses and the Regency Council to 11 November, the defence of Lwów and the Greater Poland uprising.",
+      "A war in which the three partitioning powers fought one another made the Polish question, for the first time since the partitions, an object of international rivalry. The powers outbid one another with promises, from autonomy under the Tsar to a united and independent Poland with access to the sea. In the autumn of 1918, when all three partitioning powers had lost the war or fallen apart, the Poles took power themselves in Kraków, Lublin and Warsaw. Yet the new state had no borders and no recognition from the powers, and Lviv and Eastern Galicia had to be fought for. The series runs from Grand Duke Nicholas's proclamation through the Act of 5 November, Wilson's addresses and the Regency Council to 11 November, the defence of Lviv and the Greater Poland uprising.",
     steps: [
       "odezwa-wielkiego-ksiecia-mikolaja-do-polakow",
       "akt-5-listopada",
@@ -291,7 +291,7 @@ export const SERIES: Series[] = [
       },
       "bitwy/obrona-lwowa-1918": {
         pl: "Niepodległość od pierwszych dni oznacza walkę o granice: Lwów zostaje przy Polsce, ale wojna o Galicję Wschodnią dopiero się zaczyna.",
-        en: "From its first days independence means fighting for borders: Lwów stays Polish, but the war for Eastern Galicia is only beginning.",
+        en: "From its first days independence means fighting for borders: Lviv stays Polish, but the war for Eastern Galicia is only beginning.",
       },
       "rzad-lubelski": {
         pl: "Lewica niepodległościowa nie czeka na regentów: w Lublinie powstaje pierwszy rząd, który nazywa swoje państwo republiką.",
@@ -325,7 +325,7 @@ export const SERIES: Series[] = [
     intro:
       "Od 1 sierpnia 1914 roku wojna na froncie wschodnim toczyła się na ziemiach polskich, a Polacy służyli w armiach trzech zaborców po przeciwnych stronach. W pierwszych miesiącach Rosjanie zajęli Lwów i oblegli Przemyśl, a Niemcy doszli pod Warszawę i zajęli Łódź. Przełamanie pod Gorlicami w maju 1915 roku odwróciło losy wojny: w czerwcu państwa centralne odzyskały Przemyśl i Lwów, a latem Rosjanie musieli opuścić całe Królestwo Polskie. Cofając się, Rosjanie wywozili fabryki, pustoszyli kraj i wysiedlali ludność, a na zajętych ziemiach Niemcy i Austriacy zaprowadzili własne rządy. Seria prowadzi od zburzenia Kalisza przez Galicję, Przemyśl, Łódź i Limanową po Gorlice, upadek Warszawy i falę bieżeństwa.",
     introEn:
-      "From 1 August 1914 the war on the Eastern Front was fought on Polish soil, and Poles served in the armies of all three partitioning powers, on opposite sides. In the first months the Russians took Lemberg and besieged Przemyśl, while the Germans came within reach of Warsaw and took Łódź. The breakthrough at Gorlice in May 1915 turned the tide: in June the Central Powers recovered Przemyśl and Lemberg, and in the summer the Russians had to abandon the whole Kingdom of Poland. As they withdrew, the Russians carried factory machinery east, laid waste to the country and deported the population, and in the occupied lands the Germans and Austrians set up their own rule. The series runs from the destruction of Kalisz through Galicia, Przemyśl, Łódź and Limanowa to Gorlice, the fall of Warsaw and the wave of bezhenstvo.",
+      "From 1 August 1914 the war on the Eastern Front was fought on Polish soil, and Poles served in the armies of all three partitioning powers, on opposite sides. In the first months the Russians took Lviv and besieged Przemyśl, while the Germans came within reach of Warsaw and took Łódź. The breakthrough at Gorlice in May 1915 turned the tide: in June the Central Powers recovered Przemyśl and Lviv, and in the summer the Russians had to abandon the whole Kingdom of Poland. As they withdrew, the Russians carried factory machinery east, laid waste to the country and deported the population, and in the occupied lands the Germans and Austrians set up their own rule. The series runs from the destruction of Kalisz through Galicia, Przemyśl, Łódź and Limanowa to Gorlice, the fall of Warsaw and the wave of bezhenstvo.",
     steps: [
       "pierwsze-walki-na-granicy-krolestwa-polskiego",
       "bitwy/bitwa-galicyjska",
@@ -354,7 +354,7 @@ export const SERIES: Series[] = [
       },
       "rosjanie-zdobywaja-lwow": {
         pl: "Pierwszy reżim okupacyjny w serii: zajęte ziemie Galicji i Bukowiny przechodzą pod rosyjski zarząd generał-gubernatorstwa z siedzibą we Lwowie.",
-        en: "The first occupation regime in the series: the occupied lands of Galicia and Bukovina are placed under a Russian governorate-general based in Lemberg.",
+        en: "The first occupation regime in the series: the occupied lands of Galicia and Bukovina are placed under a Russian governorate-general based in Lviv.",
       },
       "poczatek-oblezenia-przemysla": {
         pl: "Zaczyna się pierwsze oblężenie Przemyśla: w okrążeniu zostaje ponad 120 tysięcy żołnierzy i kilkanaście tysięcy cywilów.",
@@ -386,11 +386,11 @@ export const SERIES: Series[] = [
       },
       "bitwy/bitwa-pod-gorlicami": {
         pl: "Punkt zwrotny serii: po przełamaniu Rosjanie tracą Przemyśl i Lwów, a latem muszą opuścić całe Królestwo Polskie.",
-        en: "The turning point of the series: after the breakthrough the Russians lose Przemyśl and Lemberg, and in the summer have to abandon the whole Kingdom of Poland.",
+        en: "The turning point of the series: after the breakthrough the Russians lose Przemyśl and Lviv, and in the summer have to abandon the whole Kingdom of Poland.",
       },
       "austro-wegrzy-odbijaja-lwow": {
         pl: "Zamyka wątek z 3 września 1914 roku: Lwów wraca pod władzę Austro-Węgier po rosyjskiej okupacji, która trwała 293 dni.",
-        en: "It closes the thread of 3 September 1914: Lemberg returns to Austro-Hungarian rule after a Russian occupation that lasted 293 days.",
+        en: "It closes the thread of 3 September 1914: Lviv returns to Austro-Hungarian rule after a Russian occupation that lasted 293 days.",
       },
       "koniec-bitwy-pod-biskupicami": {
         pl: "Pokazuje, jak wyglądał rosyjski odwrót z Królestwa Polskiego: pustoszenie kraju przed nadejściem przeciwnika i przymusowe wysiedlanie ludności.",
