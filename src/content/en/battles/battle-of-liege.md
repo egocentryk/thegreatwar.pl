@@ -7,12 +7,12 @@ sides:
     commanders: [Otto von Emmich, Erich Ludendorff]
   - name: Belgium
     commanders: [Gérard Leman]
-result: German victory. All the forts had fallen by 16 August.
+result: German victory. The last forts fell on 16 and 17 August.
 source: bitwa-pod-liege
-sourceHash: f0a23dc67940204337639186472c629335e327cb
+sourceHash: e1bba9e8d9aa3be675bef0c3ca33af17bc0b7855
 ---
 
-The [Battle of Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) was the first major engagement on the Western Front. It began on 4 August 1914, the day of the German invasion of [Belgium](https://pl.wikipedia.org/wiki/Belgia), and lasted until 16 August, when the last Belgian forts fell.
+The [Battle of Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) was the first major engagement on the Western Front. It began on 4 August 1914, the day of the German invasion of [Belgium](https://pl.wikipedia.org/wiki/Belgia), and lasted until 16–17 August, when the last Belgian forts fell.
 
 ## A fortress on the road to France
 
@@ -26,7 +26,7 @@ On 4 August German troops crossed the border at Gemmenich and moved towards the 
 
 One of the brigades managed to break through the line of defence. When its commander was killed, the staff officer [Erich Ludendorff](/postacie/erich-ludendorff) took over its direction. On 7 August his soldiers entered the city and occupied the citadel. King Albert I had earlier withdrawn the Belgian field division from Liège to prevent its encirclement. The forts, cut off from one another, nevertheless continued to hold out.
 
-To destroy them the Germans brought up heavy siege artillery: 420 mm mortars, known as ["Big Berthas"](https://pl.wikipedia.org/wiki/M-Gerät), and Austro-Hungarian 305 mm Škoda mortars. From 12 August their shells smashed the concrete vaults of the forts. On 15 August a shell hit the ammunition store of Fort Loncin. The explosion destroyed the fort and buried a large part of the garrison, and General Leman, badly concussed, was taken prisoner. On 16 August the last forts capitulated.
+To destroy them the Germans brought up heavy siege artillery: 420 mm mortars, known as ["Big Berthas"](https://pl.wikipedia.org/wiki/M-Gerät), and Austro-Hungarian 305 mm Škoda mortars. From 12 August their shells smashed the concrete vaults of the forts. On 15 August a shell hit the ammunition store of Fort Loncin. The explosion destroyed the fort and buried a large part of the garrison, and General Leman, badly concussed, was taken prisoner. The last forts capitulated on 16 and 17 August.
 
 ## Significance
 

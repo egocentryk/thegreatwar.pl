@@ -4,19 +4,19 @@ summary: Pierwsza bitwa na froncie zachodnim. Belgijskie forty wokół Liège pr
 front: Front zachodni
 phase: 1914-pierwsze-starcia
 startDate: 1914-08-04
-endDate: 1914-08-16
+endDate: 1914-08-17
 location: Liège i pierścień fortów w dolinie Mozy, Belgia
 sides:
   - name: Niemcy
     commanders: [Otto von Emmich, Erich Ludendorff]
   - name: Belgia
     commanders: [Gérard Leman]
-result: Zwycięstwo Niemiec. Wszystkie forty padły do 16 sierpnia.
+result: Zwycięstwo Niemiec. Ostatnie forty padły 16 i 17 sierpnia.
 authors: [Łukasz Skowroń]
 tags: [Liège, Belgia, Niemcy, Erich Ludendorff]
 ---
 
-[Bitwa pod Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) była pierwszym wielkim starciem na froncie zachodnim. Zaczęła się 4 sierpnia 1914 roku, w dniu niemieckiej inwazji na [Belgię](https://pl.wikipedia.org/wiki/Belgia), i trwała do 16 sierpnia, gdy padły ostatnie belgijskie forty.
+[Bitwa pod Liège](https://pl.wikipedia.org/wiki/Bitwa_pod_Liège) była pierwszym wielkim starciem na froncie zachodnim. Zaczęła się 4 sierpnia 1914 roku, w dniu niemieckiej inwazji na [Belgię](https://pl.wikipedia.org/wiki/Belgia), i trwała do 16–17 sierpnia, gdy padły ostatnie belgijskie forty.
 
 ## Twierdza na drodze do Francji
 
@@ -30,7 +30,7 @@ Niemcy nie zamierzali prowadzić długiego oblężenia. Specjalne zgrupowanie sz
 
 Jednej z brygad udało się przedrzeć przez linię obrony. Gdy jej dowódca zginął, kierowanie nią przejął oficer sztabowy [Erich Ludendorff](/postacie/erich-ludendorff). 7 sierpnia jego żołnierze wkroczyli do miasta i zajęli cytadelę. Król Albert I wycofał wcześniej belgijską dywizję polową z Liège, by nie dopuścić do jej okrążenia. Forty, odcięte od siebie, broniły się jednak dalej.
 
-Do ich zniszczenia Niemcy sprowadzili ciężką artylerię oblężniczą: moździerze kalibru 420 mm, nazywane [„Grubymi Bertami”](https://pl.wikipedia.org/wiki/M-Gerät), oraz austro-węgierskie moździerze Škody kalibru 305 mm. Od 12 sierpnia ich pociski kruszyły betonowe sklepienia fortów. 15 sierpnia pocisk trafił w skład amunicji fortu Loncin. Eksplozja zniszczyła fort i pogrzebała dużą część załogi, a ciężko kontuzjowany generał Leman dostał się do niewoli. 16 sierpnia skapitulowały ostatnie forty.
+Do ich zniszczenia Niemcy sprowadzili ciężką artylerię oblężniczą: moździerze kalibru 420 mm, nazywane [„Grubymi Bertami”](https://pl.wikipedia.org/wiki/M-Gerät), oraz austro-węgierskie moździerze Škody kalibru 305 mm. Od 12 sierpnia ich pociski kruszyły betonowe sklepienia fortów. 15 sierpnia pocisk trafił w skład amunicji fortu Loncin. Eksplozja zniszczyła fort i pogrzebała dużą część załogi, a ciężko kontuzjowany generał Leman dostał się do niewoli. Ostatnie forty skapitulowały 16 i 17 sierpnia.
 
 ## Znaczenie
 

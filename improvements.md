@@ -2114,6 +2114,27 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 38. Three known errors fixed (2026-10-30)
+
+- `1917/09/francja-uznaje-komitet-narodowy-polski` (PL/EN): the Rada Polska
+  Zjednoczenia Międzypartyjnego sat in Moscow, not Petrograd (pl.wiki: set
+  up at a congress in Moscow; our Haller and Kaniów articles agree). From
+  §35's notes.
+- Battle pages checked against the Belgian official account (*The War of
+  1914: Military Operations of Belgium*, 1915, archive.org
+  `warof1914militar01belg`): `bitwa-nad-gete` — the 2nd Brigade held
+  Hautem-Sainte-Marguerite "till late in the evening" and covered the
+  division's withdrawal; the "16.30" retreat is now given as some studies'
+  version, and Tienen was taken before that attack, not "in the evening".
+  `bitwa-pod-liege` — "the last of the forts fell on the 16th and 17th
+  August": result, text and `endDate` (16 → 17 VIII) changed; also
+  `bitwa-graniczna` ("held out until 16–17 August"). PL/EN. From §34's
+  notes.
+- Guide "Sprawa polska": the summary no longer repeats the question's
+  "Jak" ("Wojna trzech zaborców doprowadziła…"; EN "A war between…").
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2207,6 +2228,7 @@ finished, tick it here and add its section above.
 - [x] Glossary, second batch: 50 terms (134 in all), PL/EN (§35)
 - [x] Before the war: "Przed wojną" era page, 20 articles 1879–1913, PL/EN (§36)
 - [x] Wikipedia links to our own pages: the last 14 files (§37)
+- [x] Known errors: Rada Polska seat, Gete and Liège details, guide summary (§38)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

@@ -1,7 +1,7 @@
 ---
 title: The Polish question in the First World War
 question: "How did Poland regain its independence?"
-summary: "How a war between the three partitioning powers led to Poland's rebirth: from the Legions and the Act of 5 November to Versailles and 11 November 1918."
+summary: "A war between the three partitioning powers led to Poland's rebirth: from the Legions and the Act of 5 November to Versailles and 11 November 1918."
 brief:
   - "For the first time since the partitions the three partitioning powers fought one another, and Poles served in their armies on opposite sides of the front."
   - "Piłsudski bet on Austria-Hungary and the Legions, Dmowski on Russia and the Entente, and later on the Polish National Committee in Paris."
@@ -9,7 +9,7 @@ brief:
   - "On 11 November 1918 the Regency Council handed the army over to Piłsudski, but the borders, Lwów and Greater Poland still had to be fought for."
   - "According to various estimates, between 385,000 and 530,000 Poles were killed, died or went missing in the armies of all sides."
 source: sprawa-polska-w-czasie-i-wojny-swiatowej
-sourceHash: 7c6b6f580d6f79a42abf7a2f4e487192f17be0e9
+sourceHash: 25e90b2bef6f1f7c7e6f64551a5ca668bf9f0f48
 ---
 
 The Polish question in 1914–1918 was the road from the partitions to an independent state. A war in which the three partitioning powers fought one another made the Polish question, for the first time since the partitions, an object of international rivalry: Russia, the Central Powers, and later the Entente and the United States outbid one another with promises to the Poles. Poles fought in the armies of the partitioning powers and in formations of their own, and their politicians bet on opposite camps. In the autumn of 1918, when all three partitioning powers had lost the war or fallen apart, the Poles took power themselves in Kraków, Lublin and Warsaw, and on 11 November the [Regency Council](https://pl.wikipedia.org/wiki/Rada_Regencyjna) handed military authority to [Józef Piłsudski](/postacie/jozef-pilsudski).

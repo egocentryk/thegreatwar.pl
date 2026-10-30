@@ -1,7 +1,7 @@
 ---
 title: Sprawa polska w czasie I wojny światowej
 question: "Jak Polska odzyskała niepodległość?"
-summary: "Jak wojna trzech zaborców doprowadziła do odrodzenia Polski: od Legionów i aktu 5 listopada po Wersal, Radę Regencyjną i 11 listopada 1918."
+summary: "Wojna trzech zaborców doprowadziła do odrodzenia Polski: od Legionów i aktu 5 listopada po Wersal, Radę Regencyjną i 11 listopada 1918."
 brief:
   - "Po raz pierwszy od rozbiorów trzy państwa zaborcze walczyły ze sobą, a Polacy służyli w ich armiach po przeciwnych stronach frontu."
   - "Piłsudski postawił na Austro-Węgry i Legiony, Dmowski na Rosję i Ententę, a potem na Komitet Narodowy Polski w Paryżu."

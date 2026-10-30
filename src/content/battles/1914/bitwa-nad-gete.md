@@ -30,7 +30,7 @@ Belgowie czekali nad Gete na nadejście Francuzów i Brytyjczyków, którzy jedn
 
 Rankiem 18 sierpnia niemiecka piechota uderzyła na belgijskie placówki nad Gete. Pod Budingen i Geetbets na północy broniły się szwadrony pułku Przewodników, a na południe od nich, w rejonie Tienen, 1 Dywizja. Najcięższe walki stoczyły jej dwie brygady mieszane pod Sint-Margriete-Houtem (fr. Hautem-Sainte-Marguerite) i Grimde. Około 2200 belgijskich piechurów, słabo wyszkolonych i uzbrojonych, stanęło tam naprzeciw niemieckiej 18 Dywizji Piechoty z IX Korpusu, kilkakrotnie liczniejszej i dysponującej znacznie silniejszą artylerią.
 
-Belgowie bronili się przez całe popołudnie. Niemiecka artyleria stopniowo uciszyła ich nieliczne działa, a piechota zajmowała kolejne wsie. Około godziny 16.30 dowódca brygady nakazał odwrót, a wieczorem Niemcy weszli do Tienen. Straty były dotkliwe. Według różnych źródeł obie belgijskie brygady straciły od około 1200 do 1600 ludzi w zabitych, rannych i wziętych do niewoli. Na cmentarzu wojskowym w Sint-Margriete-Houtem pochowano kilkuset poległych.
+Belgowie bronili się przez całe popołudnie. Niemiecka artyleria stopniowo uciszyła ich nieliczne działa, a piechota zajmowała kolejne wsie. Według belgijskiej historii oficjalnej Niemcy zajęli Tienen i zaatakowali pozycje pod Sint-Margriete-Houtem od czoła i z flanki, a 2 Brygada stawiała zacięty opór do późnego wieczora, dzięki czemu reszta dywizji zdołała oderwać się od nieprzyjaciela. Część opracowań podaje, że rozkaz odwrotu wydano już około 16.30. Straty były dotkliwe. Według różnych źródeł obie belgijskie brygady straciły od około 1200 do 1600 ludzi w zabitych, rannych i wziętych do niewoli. Na cmentarzu wojskowym w Sint-Margriete-Houtem pochowano kilkuset poległych.
 
 ## Decyzja króla
 
