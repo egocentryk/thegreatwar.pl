@@ -256,7 +256,9 @@ should link to each other (§B8).
   ochotnicza legia, hiszpanka, Paryska armata, U-Boot types…).
   **Done 2026-10-30:** 50 terms, 134 in all (improvements.md §35).
 - New series once A2–A5 exist:
-  - Droga do wojny
+  - ~~Droga do wojny~~ dropped 2026-10-30 (owner): the "Przed wojną" era
+    page already lists the pre-war articles in order, and "Lato 1914"
+    covers the July crisis.
   - Wojna na morzu
   - Gallipoli
   - Bliski Wschód i powstanie arabskie
