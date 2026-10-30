@@ -265,8 +265,9 @@ should link to each other (§B8).
 - Short articles: 247 are under 300 words. Expand the milestone ones first
   when sourcing them (`planned-improvements.md` §1).
   **Done 2026-10-29:** the 10 short milestones and 20 key short articles,
-  with sources (improvements.md §34). Next: the ~400-word 1914 battle
-  pages (Mons, Charleroi, the Ardennes, Lorraine, Miluza).
+  with sources (improvements.md §34). **Done 2026-10-30:** the five
+  ~400-word 1914 battle pages (Mons, Charleroi, the Ardennes, Lorraine,
+  Miluza), now 1,300–1,500 words with sources (§39).
 
 ---
 

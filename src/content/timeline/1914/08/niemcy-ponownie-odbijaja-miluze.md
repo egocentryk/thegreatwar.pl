@@ -16,9 +16,9 @@ draft: false
 
 ## Rozkaz odwrotu
 
-O losie Miluzy przesądziły wydarzenia na innych odcinkach frontu. Po klęskach Francuzów w Lotaryngii, Ardenach i pod Charleroi naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) potrzebował każdej dywizji do obrony północnej Francji. Już 22 sierpnia część sił Armii Alzacji przekazano sąsiedniej 1 Armii, a 24 sierpnia główne siły VII Korpusu i jedną dywizję rezerwową zaczęto przewozić koleją na zachód, w rejon Sommy. Tam weszły w skład tworzonej właśnie 6 Armii.
+O losie Miluzy przesądziły wydarzenia na innych odcinkach frontu. Po klęskach Francuzów w Lotaryngii, Ardenach i pod Charleroi naczelny wódz [Joseph Joffre](/postacie/joseph-joffre) potrzebował każdej dywizji do obrony północnej Francji. Główne siły VII Korpusu i jedną dywizję rezerwową przewożono wkrótce koleją na zachód, w rejon Sommy. Tam weszły w skład tworzonej właśnie 6 Armii.
 
-Osłabiona Armia Alzacji generała [Paula Pau](https://pl.wikipedia.org/wiki/Paul_Pau) nie mogła utrzymać zdobytego terenu. Francuzi opuścili Miluzę, a także [Altkirch](https://pl.wikipedia.org/wiki/Altkirch) i większość zajętej wcześniej południowej Alzacji, i wycofali się na linię osłaniającą [Belfort](https://pl.wikipedia.org/wiki/Belfort). Źródła podają różne daty ewakuacji miasta, od 24 do 26 sierpnia. 28 sierpnia Armię Alzacji rozwiązano.
+Osłabiona Armia Alzacji generała [Paula Pau](https://pl.wikipedia.org/wiki/Paul_Pau) nie mogła utrzymać zdobytego terenu. Francuzi opuścili Miluzę, a także [Altkirch](https://pl.wikipedia.org/wiki/Altkirch) i większość zajętej wcześniej południowej Alzacji, i wycofali się na linię osłaniającą [Belfort](https://pl.wikipedia.org/wiki/Belfort). Źródła podają różne daty ewakuacji miasta, od 24 do 26 sierpnia. Armię Alzacji rozwiązano 25 lub 26 sierpnia, bo źródła podają różne daty.
 
 ## Koniec nadziei
 

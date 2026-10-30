@@ -2135,6 +2135,45 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 39. Five 1914 battle pages expanded (2026-10-30)
+
+- Mons, Charleroi, the Ardennes, Lorraine and Mulhouse (Miluza): 305–395
+  → 1,317–1,500 words, PL and EN, each with the battle-page sections
+  (Nazwa i daty, Tło, the course, Straty, Znaczenie) and 5–8 `sources:`
+  (Edmonds, Der Weltkrieg vol. 1, Lanrezac, Spears, the Michelin guide,
+  regimental accounts; Gallica blocked automated reading, so the French
+  official history could not be used). Brief `scripts/briefs/expand-short.md`,
+  checker `scripts/checks/expand.py` (0 problems).
+- Corrections in the old texts: Lorraine — no deliberate German trap
+  (Der Weltkrieg: Rupprecht dropped the withdrawal behind the Saar and
+  attacked on 20 VIII); Mons — the canal salient held by the 4th
+  Middlesex and 4th Royal Fusiliers, the "first and last soldier" at St
+  Symphorien hedged, the Angels of Mons traced to Machen's story;
+  Mulhouse — the Army of Alsace disbanded 25 or 26 VIII (not 28 VIII; also
+  in `niemcy-ponownie-odbijaja-miluze`, where an unverified 22 VIII
+  hand-over was removed), Mulhouse back in France on 17 XI 1918; Ardennes —
+  a forward link to the Meuse battle page removed. `bitwa-graniczna`:
+  Lunéville taken 22–23 VIII.
+
+### Writers' notes (for the review list)
+
+- `bitwa-pod-miluza` endDate 25 VIII: the French evacuation is dated
+  24–26 VIII; 26 VIII is better supported (Der Weltkrieg, en.wiki). Kept,
+  with the uncertainty in "Nazwa i daty".
+- `poczatek-bitwy-pod-charleroi`: "French intelligence counted five German
+  corps north of the Meuse against thirteen"; Edmonds p. 52 says the Allied
+  command was correctly informed of the German corps in Belgium.
+- `oblezenie-namuru`: the Belgian 4th Division left "in the evening" of
+  23 VIII; Spears relays a midday evacuation.
+- `poczatek-bitwy-w-ardenach`: 63 civilians killed at Tintigny vs 93 shot
+  (2e RIC account); the Semois bridge "destroyed" vs shelled and
+  impassable.
+- The two Morhange–Sarrebourg timeline articles still say the Germans
+  "deliberately withdrew, drawing the French in"; Der Weltkrieg shows the
+  plan was dropped (the battle page now says so).
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2229,6 +2268,7 @@ finished, tick it here and add its section above.
 - [x] Before the war: "Przed wojną" era page, 20 articles 1879–1913, PL/EN (§36)
 - [x] Wikipedia links to our own pages: the last 14 files (§37)
 - [x] Known errors: Rada Polska seat, Gete and Liège details, guide summary (§38)
+- [x] Five 1914 battle pages expanded: Mons, Charleroi, Ardennes, Lorraine, Mulhouse (§39)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:
