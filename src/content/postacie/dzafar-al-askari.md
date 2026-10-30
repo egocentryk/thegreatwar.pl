@@ -28,7 +28,7 @@ Dżafar al-Askari przeszedł w czasie wielkiej wojny drogę, jakiej nie przeszed
 
 Urodził się 15 września 1885 roku w Bagdadzie. Część źródeł podaje jako miejsce urodzenia Kirkuk, a polska Wikipedia rok 1887. Jego ojciec był pułkownikiem armii osmańskiej, a przydomek „al-Askari” rodzina wywodziła od wsi Askar pod Kirkukiem, gdzie przed wiekami osiedlił się jej przodek. Dorastał w Mosulu. Uczył się w szkole wojskowej w Bagdadzie, a w latach 1901–1904 w akademii wojskowej w Konstantynopolu, po której jako podporucznik trafił do 6 Armii w Iraku. Po rewolucji młodotureckiej znalazł się w pierwszej grupie oficerów wysłanych na szkolenie do Niemiec i w latach 1910–1912 służył w Berlinie i w badeńskim pułku grenadierów w Karlsruhe.
 
-Na wieść o wybuchu [wojny bałkańskiej](https://pl.wikipedia.org/wiki/I_wojna_bałkańska) wrócił do kraju, dowodził kompanią i w październiku 1912 roku został ranny. Potem pracował w sztabie korpusu, którego szefem był [Enver](/postacie/enver-pasza), uczył w szkole oficerskiej w Aleppo i zdał egzamin do akademii sztabu generalnego. Był rosłym, tęgim, towarzyskim człowiekiem, znał kilka języków i według wielu relacji z łatwością zjednywał sobie ludzi, także przeciwników.
+Na wieść o wybuchu [wojny bałkańskiej](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska) wrócił do kraju, dowodził kompanią i w październiku 1912 roku został ranny. Potem pracował w sztabie korpusu, którego szefem był [Enver](/postacie/enver-pasza), uczył w szkole oficerskiej w Aleppo i zdał egzamin do akademii sztabu generalnego. Był rosłym, tęgim, towarzyskim człowiekiem, znał kilka języków i według wielu relacji z łatwością zjednywał sobie ludzi, także przeciwników.
 
 ## Sanusijja
 

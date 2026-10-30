@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Stara Zagora (Ottoman Empire, now Bulgaria)
 deathPlace: Plovdiv
 source: stefan-toszew
-sourceHash: d575be6bd1eb2ef7ccc803d011e412d6ba3f1dfd
+sourceHash: 737c75dcfe509e6371ef15d814342f43bc8ba6ec
 ---
 
 Stefan Toshev was the commander who gave Bulgaria its most celebrated victory of the Great War. In September 1916 his 3rd Army took the Romanian fortress of Turtucaia on the Danube in a few days, captured nearly 30,000 soldiers and within a few weeks wrested southern Dobruja from Romania, land that Bulgaria had lost in 1913. He was also a stubborn and proud officer who did not want to be a mere executor of a German field marshal's orders. His disputes with [August von Mackensen](/postacie/august-von-mackensen) cost him his command before the Dobruja campaign was over. After the war he defended with his pen the honour of the Bulgarian army against what German generals wrote about it.
@@ -17,7 +17,7 @@ He was born on 18 December 1859 in [Stara Zagora](https://pl.wikipedia.org/wiki/
 
 In the [Serbo-Bulgarian War](https://pl.wikipedia.org/wiki/Wojna_serbsko-bułgarska) of 1885 he commanded a battalion as a captain. He covered the retreat from Tran and then took part in the counter-attack at Slivnitsa, where, according to a Russian biographer, he was wounded in both legs. For this war he received the order "For Bravery". His "Letters from the War of 1885" are regarded as the first Bulgarian war memoirs in which the author wrote openly about his own mistakes. Over the next quarter of a century he commanded regiments, a brigade and divisions, and in 1904 he became a major general.
 
-In the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska) he led the 1st Sofia Infantry Division, known as the "iron" division. In October 1912 his division won the engagement at Gechkinli and Seliolu that opened the [Battle of Kırk Kilise](https://pl.wikipedia.org/wiki/Bitwa_pod_Kırklareli), and then fought at Lüleburgaz and on the Çatalca lines. Even then Toshev clashed with his superiors when he felt they were halting a pursuit or ordering attacks without preparation. In the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) he commanded the 5th Army at [Kyustendil](https://pl.wikipedia.org/wiki/Kiustendił), which stopped the Serbs advancing into the interior of Bulgaria. In August 1913 he was promoted to lieutenant general. He took his country's defeat and the Peace of Bucharest very hard, and blamed them on the government and the high command, not the soldiers.
+In the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska) he led the 1st Sofia Infantry Division, known as the "iron" division. In October 1912 his division won the engagement at Gechkinli and Seliolu that opened the [Battle of Kırk Kilise](https://pl.wikipedia.org/wiki/Bitwa_pod_Kırklareli), and then fought at Lüleburgaz and on the Çatalca lines. Even then Toshev clashed with his superiors when he felt they were halting a pursuit or ordering attacks without preparation. In the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) he commanded the 5th Army at [Kyustendil](https://pl.wikipedia.org/wiki/Kiustendił), which stopped the Serbs advancing into the interior of Bulgaria. In August 1913 he was promoted to lieutenant general. He took his country's defeat and the Peace of Bucharest very hard, and blamed them on the government and the high command, not the soldiers.
 
 ## 1915–1916: guard on the Danube
 

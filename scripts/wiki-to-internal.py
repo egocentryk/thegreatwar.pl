@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Point pl.wikipedia links at our own battle and person pages.
+"""Point pl.wikipedia links at our own battle, person and event pages.
 
 Usage: python3 -I scripts/wiki-to-internal.py [--write] [--only slug,slug]
 
@@ -7,7 +7,8 @@ A link `[text](https://pl.wikipedia.org/wiki/<Title>)` becomes
 `[text](/bitwy/<slug>)` when <Title> is one of our battle pages (its title
 with underscores, or an alias in ALIASES, where pl.wiki names a campaign
 differently), or `[text](/postacie/<slug>)` when <Title> is in a person
-page's `wikiTitles`. Timeline articles, battle pages, topic guides and person
+page's `wikiTitles`, or `[text](/<slug>)` when <Title> is in EVENTS (a
+timeline article about the same event). Timeline articles, battle pages, topic guides and person
 pages are edited; the English file of the same page gets the same edit
 (English bodies keep the Polish link targets; the build maps them).
 
@@ -16,6 +17,8 @@ The workflow's link rules are kept (workflow.md §4, "Links"):
   battle's start date on, a battle page whose own start is on or after the
   target's); guides and person pages are not dated and may link any battle;
 - people: no date rule (person pages are reference pages);
+- events: only from content dated after the event (guides and person
+  pages: always);
 - never the page itself, never a timeline article's own `battle`;
 - no duplicate: skipped if the file already links the target page.
 
@@ -35,6 +38,27 @@ ALIASES = {
     "Ofensywa_Nivelle’a": "ofensywa-nivellea",
     "Ofensywa_stu_dni": "ofensywa-stu-dni",
     "Bitwy_nad_Isonzo": "bitwy-nad-isonzo",
+}
+
+# pl.wikipedia title -> our timeline article about that event, for events
+# with no battle page: the articles before the war ("Przed wojną").
+EVENTS = {
+    "Dwuprzymierze": "niemcy-i-austro-wegry-zawieraja-dwuprzymierze",
+    "Trójprzymierze": "niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze",
+    "Sojusz_francusko-rosyjski": "wchodzi-w-zycie-sojusz-francusko-rosyjski",
+    "Entente_cordiale": "wielka-brytania-i-francja-zawieraja-entente-cordiale",
+    "HMS_Dreadnought_(1906)": "wodowanie-hms-dreadnought",
+    "Kryzys_bośniacki": "austro-wegry-oglaszaja-aneksje-bosni-i-hercegowiny",
+    "Wojna_włosko-turecka": "wybucha-wojna-wlosko-turecka",
+    "I_wojna_bałkańska": "czarnogora-rozpoczyna-pierwsza-wojne-balkanska",
+    "II_wojna_bałkańska": "bulgaria-rozpoczyna-druga-wojne-balkanska",
+    "Traktat_reasekuracyjny": "niemcy-nie-odnawiaja-traktatu-reasekuracyjnego",
+    "Traktat_w_Algeciras": "konferencja-w-algeciras-konczy-pierwszy-kryzys-marokanski",
+    "Traktat_londyński_(1913)": "traktat-londynski-konczy-pierwsza-wojne-balkanska",
+    "Traktat_w_Bukareszcie_(1913)": "pokoj-bukaresztenski-konczy-druga-wojne-balkanska",
+    "Związek_Walki_Czynnej": "powstaje-zwiazek-walki-czynnej",
+    "Związek_Strzelecki": "powstaje-zwiazek-strzelecki",
+    "Komisja_Tymczasowa_Skonfederowanych_Stronnictw_Niepodległościowych": "powstaje-komisja-tymczasowa-skonfederowanych-stronnictw-niepodleglosciowych",
 }
 
 LINK = re.compile(r"\]\((https://pl\.wikipedia\.org/wiki/((?:[^()\s#]|\([^()\s]*\))+))\)")
@@ -70,6 +94,12 @@ def main():
             title = title.strip().strip("\"'")
             if title:
                 targets[title] = ("postacie", os.path.basename(f)[:-3])
+    events = {}  # slug -> date
+    for f in glob.glob(f"{ROOT}/src/content/timeline/**/*.md", recursive=True):
+        events[os.path.basename(f)[:-3]] = front(open(f, encoding="utf-8").read())["date"]
+    for title, slug in EVENTS.items():
+        if slug in events:
+            targets[title] = ("", slug)
     if only:
         targets = {t: v for t, v in targets.items() if v[1] in only}
 
@@ -101,29 +131,32 @@ def main():
                 continue
             prefix, target = targets[title]
             why = None
-            own = {"battles": "bitwy", "postacie": "postacie"}.get(kind)
+            own = {"battles": "bitwy", "postacie": "postacie", "timeline": ""}.get(kind)
+            href = f"/{prefix}/{target}" if prefix else f"/{target}"
             if own == prefix and target == slug:
                 why = "own page"
             elif prefix == "bitwy" and kind == "timeline" and d.get("battle") == target:
                 why = "the article's own battle"
-            elif f"](/{prefix}/{target})" in text:
+            elif f"]({href})" in text:
                 why = "already linked"
             elif prefix == "bitwy" and when and when < battles[target]:
                 why = f"dated {when}, before the battle ({battles[target]})"
+            elif not prefix and when and when <= events[target]:
+                why = f"dated {when}, not after the event ({events[target]})"
             if why:
                 skipped.append((os.path.relpath(f, ROOT), target, why))
-            elif (url, prefix, target) not in edits:
-                edits.append((url, prefix, target))
+            elif (url, href, target) not in edits:
+                edits.append((url, href, target))
         if not edits:
             continue
         en_path = en_of.get((EN_DIR[kind], slug))
         en_text = open(en_path, encoding="utf-8").read() if en_path else None
-        for url, prefix, target in edits:
-            text = text.replace(f"]({url})", f"](/{prefix}/{target})", 1)
+        for url, href, target in edits:
+            text = text.replace(f"]({url})", f"]({href})", 1)
             if en_text is not None:
                 if f"]({url})" not in en_text:
                     sys.exit(f"{en_path}: link {url} missing in English; fix by hand first")
-                en_text = en_text.replace(f"]({url})", f"](/{prefix}/{target})", 1)
+                en_text = en_text.replace(f"]({url})", f"]({href})", 1)
         changed.append((os.path.relpath(f, ROOT), en_path and os.path.relpath(en_path, ROOT), [t for _, _, t in edits]))
         if write:
             open(f, "w", encoding="utf-8").write(text)

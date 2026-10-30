@@ -2,7 +2,7 @@
 title: Germany declares war on Romania
 summary: On 28 August 1916 Germany declared war on Romania, a day after it turned against Austria-Hungary. The surprise at Pless cost Falkenhayn his post.
 source: niemcy-wypowiadaja-wojne-rumunii
-sourceHash: 75a7f137da5cdc621735bcfb20c068b71fb4f43a
+sourceHash: b465e71fe16dc7f4d3f2c091b29d634fbacc4688
 brief:
   - "On 28 August 1916 Germany declared war on Romania, less than a day after Romania had declared war on Austria-Hungary and its advance guards had crossed the Carpathian passes."
   - "Since 1883 Romania had been bound by a secret alliance with Austria-Hungary and Germany, but in 1914 it declared neutrality, and on 17 August 1916 Prime Minister Ion I.C. Brătianu signed a treaty with the Entente."
@@ -17,7 +17,7 @@ On the same day Italy, which had been fighting Austria-Hungary for more than a y
 
 ## An alliance that ceased to exist
 
-The German note spoke of broken treaties for good reason. In 1883 Romania had concluded a secret alliance with Austria-Hungary, which Germany joined on the same day. It bound Bucharest to the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze) and was renewed several times, most recently in 1913. The guarantor of this policy was King [Carol I](https://pl.wikipedia.org/wiki/Karol_I_Rumuński), a prince of the Catholic line of the [Hohenzollerns](https://pl.wikipedia.org/wiki/Hohenzollernowie) of [Sigmaringen](https://pl.wikipedia.org/wiki/Sigmaringen). In the summer of 1914, however, the Crown Council, against the king's wishes, decided that the alliance was defensive and did not apply, since Austria-Hungary had itself started the war without consulting Bucharest. Romania declared neutrality, and after [Carol's death](/umiera-krol-rumunii-karol-i) in October 1914 the throne passed to his nephew [Ferdinand I](/postacie/ferdynand-i-rumunski).
+The German note spoke of broken treaties for good reason. In 1883 Romania had concluded a secret alliance with Austria-Hungary, which Germany joined on the same day. It bound Bucharest to the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze) and was renewed several times, most recently in 1913. The guarantor of this policy was King [Carol I](https://pl.wikipedia.org/wiki/Karol_I_Rumuński), a prince of the Catholic line of the [Hohenzollerns](https://pl.wikipedia.org/wiki/Hohenzollernowie) of [Sigmaringen](https://pl.wikipedia.org/wiki/Sigmaringen). In the summer of 1914, however, the Crown Council, against the king's wishes, decided that the alliance was defensive and did not apply, since Austria-Hungary had itself started the war without consulting Bucharest. Romania declared neutrality, and after [Carol's death](/umiera-krol-rumunii-karol-i) in October 1914 the throne passed to his nephew [Ferdinand I](/postacie/ferdynand-i-rumunski).
 
 The new king was also a Hohenzollern born in Sigmaringen, brought up and educated in Germany. His wife, Queen Marie, a granddaughter of Queen Victoria, openly favoured the Entente, and the prime minister, [Ion I.C. Brătianu](/postacie/ion-bratianu), had for two years been negotiating with it over the price of entering the war. For [Wilhelm II](/postacie/wilhelm-ii) a kinsman's turning against the Central Powers was a personal affront. According to an often repeated, though poorly documented, account, the Kaiser had Ferdinand's name struck from the register of the House of Hohenzollern.
 

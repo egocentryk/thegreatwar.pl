@@ -15,7 +15,7 @@ draft: false
 
 ## Książę z nadania mocarstw
 
-Albania ogłosiła niepodległość od Imperium Osmańskiego w listopadzie 1912 roku, w czasie [I wojny bałkańskiej](https://pl.wikipedia.org/wiki/I_wojna_bałkańska). Wielkie mocarstwa uznały nowe państwo w 1913 roku i postanowiły, że na jego czele stanie monarcha wybrany przez nie same. Wybór padł na Wilhelma zu Wied, niemieckiego arystokratę, oficera armii pruskiej, związanego z dworami w Berlinie i Bukareszcie. Książę nie znał Albanii ani jej języka. Przybył do Durrës, tymczasowej stolicy, 7 marca 1914 roku. Albańczycy nazywali go *mbret*, czyli królem, choć on sam używał tytułu księcia.
+Albania ogłosiła niepodległość od Imperium Osmańskiego w listopadzie 1912 roku, w czasie [I wojny bałkańskiej](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska). Wielkie mocarstwa uznały nowe państwo w 1913 roku i postanowiły, że na jego czele stanie monarcha wybrany przez nie same. Wybór padł na Wilhelma zu Wied, niemieckiego arystokratę, oficera armii pruskiej, związanego z dworami w Berlinie i Bukareszcie. Książę nie znał Albanii ani jej języka. Przybył do Durrës, tymczasowej stolicy, 7 marca 1914 roku. Albańczycy nazywali go *mbret*, czyli królem, choć on sam używał tytułu księcia.
 
 Nowe [Księstwo Albanii](https://pl.wikipedia.org/wiki/Księstwo_Albanii) było słabe od pierwszego dnia. Nie miało armii ani pieniędzy, a porządku pilnowała żandarmeria dowodzona przez oficerów holenderskich. Na południu grecka ludność Epiru Północnego ogłosiła autonomię. Sąsiedzi, a także Włochy i Austro-Węgry, rywalizowali o wpływy w kraju.
 

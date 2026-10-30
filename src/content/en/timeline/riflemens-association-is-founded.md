@@ -1,0 +1,24 @@
+---
+title: Riflemen's Association is founded
+summary: In April 1910 the open Riflemen's Association was founded in Lwów, and in December the "Strzelec" society in Kraków. The secret ZWC gained a legal cover.
+source: powstaje-zwiazek-strzelecki
+sourceHash: b3396d3cc50f1b24286eafd85507f123c0b7a634
+---
+
+On 23 April 1910 the [Riflemen's Association](https://pl.wikipedia.org/wiki/Związek_Strzelecki) (Związek Strzelecki) was founded in Lwów, a society officially registered by the Austrian authorities as an organisation with social and educational aims. In reality it was a military school. It was set up by the secret [Union of Active Struggle](/powstaje-zwiazek-walki-czynnej), which for two years had been training cadres for a future rising against Russia underground and now gained a legal cover. The dates given in the literature differ: the Museum of Polish History and one of the IPN chronologies give 23 April, another IPN chronology 25 April, while Mateusz Drozdowski in the international encyclopedia *1914-1918-online* writes that the governor's office had already permitted the association on 23 March. At the end of the year the Lwów organisation gained a sister in Kraków, the "Strzelec" (Rifleman) society, which the authorities recognised on 1 December 1910.
+
+## A loophole in Austrian law
+
+The ZWC underground grew slowly. In 1910 it had just over two hundred members, and its legal status was unclear. When the police arrested several activists by mistake, it became clear that preparations aimed at Russia could no longer be hidden. According to Drozdowski, the way out was suggested by Austrian intelligence officers themselves, among them Captain [Józef Rybak](https://pl.wikipedia.org/wiki/Józef_Rybak): lawful rifle associations. The legal basis was the associations act of 15 November 1867 and a 1909 regulation of the Austrian Ministry of Land Defence which encouraged voluntary rifle training for civilians. After the [annexation of Bosnia](/austro-wegry-oglaszaja-aneksje-bosni-i-hercegowiny) and the sharp clash with Russia, Vienna had reasons to tolerate the Polish riflemen, and it rejected Russian diplomatic protests against their activity.
+
+The Lwów association was headed by an Executive with the engineer [Władysław Sikorski](/postacie/wladyslaw-sikorski) as president. [Kazimierz Sosnkowski](/postacie/kazimierz-sosnkowski) also sat on it. The Kraków "Strzelec" was founded by the zoologist Eugeniusz Kiernik, and one of its co-founders was the painter [Włodzimierz Tetmajer](https://pl.wikipedia.org/wiki/Włodzimierz_Tetmajer), who organised its exercises at Bronowice. Formally these were two separate societies, but in fact both were run by the ZWC Executive. From 1912 they came under a common Headquarters in Lwów, with [Józef Piłsudski](/postacie/jozef-pilsudski) as commandant and Sosnkowski as chief of staff. There were district commands in Lwów, Kraków and Rzeszów, and clandestine commands in the Kingdom of Poland and abroad.
+
+## The Riflemen
+
+Training was given at three levels: lower courses for privates, intermediate ones for NCOs and higher ones for officers. The highest level taught tactics, military history, knowledge of the Russian army, field fortification, topography and the planning of guerrilla warfare in the Kingdom. The riflemen trained early in the morning, on Sundays and at summer camps, because the exercises could not interfere with study and work. Weapons were bought openly from the Dzikowski firm in Lwów or obtained unofficially from army depots. The army made its rifle ranges available, and sometimes instructors. Uniforms were made at the members' own expense, so only some of them, mainly officers, were fully kitted out. Almost all wore the *maciejówka* cap with an uncrowned eagle.
+
+The movement grew quickly. According to Drozdowski, the associations had about 600 riflemen in 1912 and 7,239 in June 1914. Other counts give between 6,400 and nearly 8,000 members at the outbreak of the war. At first students and secondary-school pupils predominated; later workers and peasants joined.
+
+## Imitators
+
+The riflemen's success drew in other circles. In July 1911 young people from ["Zarzewie"](https://pl.wikipedia.org/wiki/Organizacja_Młodzieży_Niepodległościowej_„Zarzewie”) founded the [Polish Rifle Squads](https://pl.wikipedia.org/wiki/Polskie_Drużyny_Strzeleckie) in Lwów, which soon began to cooperate with the Association. Among village youth the [Bartosz Squads](https://pl.wikipedia.org/wiki/Drużyny_Bartoszowe) had been active since 1908, and ["Sokół"](https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Gimnastyczne_„Sokół”), closer to the National Democrats, formed the Sokół Field Squads in 1912. Drozdowski estimates that all these organisations together trained about 30,000 people before the war. In August 1914 Piłsudski's riflemen provided the company that was the first to march into the Kingdom.

@@ -2,7 +2,7 @@
 title: Turkey declares war on Romania
 summary: On 30 August 1916 Turkey announced that, together with Germany and Bulgaria, it was declaring war on Romania. Enver Pasha was readying a corps for Dobruja.
 source: turcja-wypowiada-wojne-rumunii
-sourceHash: 2389354334e49214a56b742d42bd7bd55108298c
+sourceHash: fc7de0806dfeea48a1236ae4831eff8f276f1113
 brief:
   - "On 30 August 1916 the American chargé d'affaires in Constantinople reported that Turkey, together with Germany and Bulgaria, was declaring war on Romania. Other sources give 29 August or 1 September."
   - "Wallachia and Moldavia had been vassal principalities of the Ottoman Empire for several hundred years. In the first year of the war Romania closed the route across its territory to German military transports for Turkey."
@@ -22,7 +22,7 @@ The British chronology of the war records the Turkish declaration under 30 Augus
 
 The Turks and the Romanians had known each other for centuries. Wallachia and Moldavia, from which Romania was formed in the 19th century, had been vassal principalities of the Ottoman Empire for several hundred years. Romania broke its last ties during the [Russo-Turkish War](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-turecka_(1877–1878)) in 1877. It then proclaimed its independence, and its troops under Prince [Carol](https://pl.wikipedia.org/wiki/Karol_I_Rumuński) fought alongside the Russians at Plevna. The [Congress of Berlin](https://pl.wikipedia.org/wiki/Kongres_berliński) in 1878 recognised Romania's independence and gave it the northern part of [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża), until then an Ottoman province, in exchange for southern Bessarabia, which Russia took.
 
-Dobruja retained a large Muslim population from Turkish times, Turks and Tatars, and there were mosques in its small towns. In 1913, during the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska), the Romanians and the Turks had in fact found themselves on the same side, against Bulgaria. Romanian troops then advanced to the outskirts of Sofia, and the Turks retook [Adrianople](https://pl.wikipedia.org/wiki/Edirne). The [Treaty of Bucharest](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1913)) gave Romania southern Dobruja. Three years later Turkey was fighting shoulder to shoulder with Bulgaria, with which it had [come to terms in September 1915](/traktat-sojuszniczy-w-sofii) when Bulgaria joined the Central Powers, while Romania had sided with Russia, the Turks' age-old enemy.
+Dobruja retained a large Muslim population from Turkish times, Turks and Tatars, and there were mosques in its small towns. In 1913, during the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska), the Romanians and the Turks had in fact found themselves on the same side, against Bulgaria. Romanian troops then advanced to the outskirts of Sofia, and the Turks retook [Adrianople](https://pl.wikipedia.org/wiki/Edirne). The [Treaty of Bucharest](/pokoj-bukaresztenski-konczy-druga-wojne-balkanska) gave Romania southern Dobruja. Three years later Turkey was fighting shoulder to shoulder with Bulgaria, with which it had [come to terms in September 1915](/traktat-sojuszniczy-w-sofii) when Bulgaria joined the Central Powers, while Romania had sided with Russia, the Turks' age-old enemy.
 
 ## Ammunition for the Dardanelles
 

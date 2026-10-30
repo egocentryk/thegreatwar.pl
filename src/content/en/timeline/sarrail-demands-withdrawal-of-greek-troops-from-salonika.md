@@ -2,7 +2,7 @@
 title: Sarrail demands the withdrawal of Greek troops from Salonika
 summary: On 9 December 1915 General Sarrail put the Entente's demands to a Greek envoy. He wanted to fortify Salonika, remove the Greeks and take over Fort Karaburun.
 source: sarrail-zada-wycofania-wojsk-greckich-z-salonik
-sourceHash: 33ac18489858c5ecd1b4e9c377f628b01cdb39be
+sourceHash: 744a5866cd812fe61c2c15c44eacd35f9ab9f2aa
 ---
 
 On 9 December 1915, or 26 November by the Julian calendar, the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), and the commander of the British troops, General Bryan Mahon, received a Greek staff officer, Lieutenant-Colonel Pallis, at [Salonika](https://pl.wikipedia.org/wiki/Saloniki). He had been sent from Athens to settle with the Allied military how the Entente's demands were to be met in practice. Sarrail set them out to him bluntly. The most important of them was that the Greek troops must leave Salonika.
@@ -23,4 +23,4 @@ Sarrail did not wait for a reply. He ordered reconnaissance patrols to be sent o
 
 The demands came at a moment when the future of the whole expedition was still uncertain. At the Calais conference on 4 December the British had demanded the evacuation of Salonika, and on 8 and 9 December even the disembarkation of the British 28th Division was halted. At the military conference at Chantilly on 6 December, however, the representatives of France, Russia, Italy and Serbia opposed evacuation, and on 9 December [Edward Grey](/postacie/edward-grey) and Lord Kitchener came to Paris. They decided not to reopen the dispute over whether to stay and to discuss only how best to secure the troops at Salonika. On 10 December the French ambassador in Rome, Camille Barrère, informed Sonnino that the British and French ministers had agreed in Paris on the steps needed to maintain and defend the expeditionary force. The Entente ministers in Athens were to notify the Greek government, counting on the promise of King [Constantine I](/postacie/konstantyn-i) that the Greek troops would offer no resistance and that he himself would at most protest.
 
-Greece, however, did not want to give up Salonika. It was one of the largest cities of the kingdom and the most important port of its north, won only three years earlier in the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska), and its evacuation by the army would look like a renunciation of sovereignty. The reply from Athens came two days later.
+Greece, however, did not want to give up Salonika. It was one of the largest cities of the kingdom and the most important port of its north, won only three years earlier in the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska), and its evacuation by the army would look like a renunciation of sovereignty. The reply from Athens came two days later.

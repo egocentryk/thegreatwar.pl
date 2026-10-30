@@ -2,7 +2,7 @@
 title: Battle of Florina begins
 summary: On 17 August 1916 the Bulgarian 1st Army attacked the Serbs in western Macedonia and took Greek Florina the same day, forestalling Sarrail's offensive.
 source: poczatek-bitwy-pod-florina
-sourceHash: 3db1679630d53e90cfb012cac8aa798b67f9d47b
+sourceHash: 83288d5489db8791d5c4e510591e156ec29cc978
 ---
 
 On 17 August 1916 the Bulgarian 1st Army of General [Kliment Boyadzhiev](https://pl.wikipedia.org/wiki/Kliment_Bojadżiew) went over to the attack on the western wing of the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki). The columns set off during the night of 16/17 August, and according to Bulgarian studies, at about 4.30 p.m. soldiers of the 30th Sheynovo Infantry Regiment entered the Greek town of [Florina](https://pl.wikipedia.org/wiki/Florina), which the Bulgarians called Lerin. On the same day in Bucharest Romania signed with the Entente powers a [treaty and a military convention](/traktat-rumunii-z-ententa), in which the Allies undertook to begin an offensive in Macedonia three days later. The Bulgarians forestalled them. The British official history of the operations in Macedonia, Bulgarian studies and Serbian accounts all give 17 August as the start of the attack; the Austrian official history gives 18 August.
@@ -19,4 +19,4 @@ Further east, in the mountains above the [Moglena](https://pl.wikipedia.org/wiki
 
 ## On both wings
 
-The attack at Florina was part of a wider plan. At the eastern end of the front the Bulgarian Second Army was to enter Greek Eastern Macedonia, which Bulgaria had lost after the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska), and advance to the [Struma](https://pl.wikipedia.org/wiki/Struma). Its attack from the area of [Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) began during the night of 17/18 August. The Greek army, [demobilised](/demobilizacja-armii-greckiej) at the Entente's demand, offered no resistance. For several more days Sarrail held to his original plan and sent the Serbian Vardar Division to the threatened sector at Florina. The next day the Serbs tried to retake the lost ground, but the battle was only just getting under way.
+The attack at Florina was part of a wider plan. At the eastern end of the front the Bulgarian Second Army was to enter Greek Eastern Macedonia, which Bulgaria had lost after the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska), and advance to the [Struma](https://pl.wikipedia.org/wiki/Struma). Its attack from the area of [Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) began during the night of 17/18 August. The Greek army, [demobilised](/demobilizacja-armii-greckiej) at the Entente's demand, offered no resistance. For several more days Sarrail held to his original plan and sent the Serbian Vardar Division to the threatened sector at Florina. The next day the Serbs tried to retake the lost ground, but the battle was only just getting under way.

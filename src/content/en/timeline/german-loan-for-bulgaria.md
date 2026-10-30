@@ -2,14 +2,14 @@
 title: German loan for Bulgaria
 summary: According to the British chronology, on 3 February 1915 Bulgaria negotiated £3 million in Germany. Athens and the Entente capitals took it as a bad sign.
 source: niemiecka-pozyczka-dla-bulgarii
-sourceHash: e1ca12b024ceaab8aa573e5a9c1a384c694f1cdf
+sourceHash: ed9cae29d3419fb69116c6da430d8ad1018cc110
 ---
 
 The British chronology of the war records under 3 February 1915 that the government of [Bulgaria](https://pl.wikipedia.org/wiki/Carstwo_Bułgarii) had negotiated a loan of 3 million pounds sterling in Germany, or about 75 million francs. This was not, however, the first German money for Sofia. Sources disagree as to whether it was a new loan or an advance or further tranche of the large credit that Bulgaria had taken out in Germany just before the outbreak of war. Some works mention the payment of an instalment of 150 million from that credit.
 
 ## The loan of July 1914
 
-Bulgaria had emerged from the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) defeated and in debt. The government of Prime Minister [Vasil Radoslavov](/postacie/wasil-radoslawow) also sought money in France, but the talks with Paris came to nothing. In July 1914 the loan was granted by a consortium of German banks led by the Berlin Disconto-Gesellschaft. It amounted to 500 million gold leva (the lev was then equal to the franc), paid out in two series of 250 million, for 50 years at 5 per cent. The terms were harsh. The German consortium received the right to build a port at Porto Lagos on the Aegean and a railway leading to it, and to take over the state coal mines at Pernik and Bobov Dol. Ratification in the National Assembly took place in mid-July amid scandal, with shouting and brawls by the opposition, and its legality was questioned for a long time afterwards.
+Bulgaria had emerged from the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) defeated and in debt. The government of Prime Minister [Vasil Radoslavov](/postacie/wasil-radoslawow) also sought money in France, but the talks with Paris came to nothing. In July 1914 the loan was granted by a consortium of German banks led by the Berlin Disconto-Gesellschaft. It amounted to 500 million gold leva (the lev was then equal to the franc), paid out in two series of 250 million, for 50 years at 5 per cent. The terms were harsh. The German consortium received the right to build a port at Porto Lagos on the Aegean and a railway leading to it, and to take over the state coal mines at Pernik and Bobov Dol. Ratification in the National Assembly took place in mid-July amid scandal, with shouting and brawls by the opposition, and its legality was questioned for a long time afterwards.
 
 ## Money and politics
 

@@ -31,15 +31,23 @@
    "quotes": [
     {
      "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
-     "quote": "Wraz z wypowiedzeniem przez Niemcy wojny Rosji 1 sierpnia 1914 roku granica między oboma imperiami stała się linią frontu."
+     "quote": "1 sierpnia 1914 granica niemiecko-rosyjska, biegnąca przez ziemie polskie, stała się linią frontu."
     },
     {
      "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
-     "quote": "Rosyjskie plany wojenne nie przewidywały obrony zachodniej części Królestwa Polskiego, wysuniętej daleko między Prusy a Austro-Węgry. Wojska carskie wycofały się więc z przygranicznych miast"
+     "quote": "Rosyjskie plany wojenne nie przewidywały obrony zachodniej części Królestwa Polskiego, wysuniętej daleko między Prusy a Austro-Węgry."
     },
     {
      "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
-     "quote": "2 sierpnia do opuszczonego przez Rosjan Kalisza wkroczył batalion pruskiego pułku piechoty, a 3 sierpnia pierwsi niemieccy żołnierze pojawili się w Częstochowie."
+     "quote": "wojska carskie wycofały się z pasa przygranicznego przylegającego do Wielkopolski i Śląska"
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "w nocy z 2 na 3 sierpnia do miasta wkroczyła kompania 155 pułku piechoty z Ostrowa Wielkopolskiego, a za nią reszta batalionu majora Hermanna Preuskera"
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "3 sierpnia pierwsi niemieccy żołnierze wkroczyli do Częstochowy"
     },
     {
      "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-rosji.md",
@@ -52,7 +60,19 @@
    "quotes": [
     {
      "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
-     "quote": "Dla Kalisza wkroczenie Niemców okazało się tragiczne. Od 4 sierpnia miasto padło ofiarą ostrzału artyleryjskiego, egzekucji i podpaleń. W ciągu kilku tygodni niemal całe historyczne centrum zostało zniszczone, a większość mieszkańców uciekła."
+     "quote": "Dla Kalisza wkroczenie Niemców okazało się tragiczne."
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "4 sierpnia wycofał wojsko z miasta i kazał je ostrzelać z artylerii"
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "Kolejne dni przyniosły egzekucje, aresztowanie około 800 mężczyzn, podpalenie ratusza i od 9 sierpnia systematyczne burzenie miasta, które trwało do 22 sierpnia"
+    },
+    {
+     "file": "src/content/timeline/1914/08/pierwsze-walki-na-granicy-krolestwa-polskiego.md",
+     "quote": "Zniszczono niemal całe historyczne śródmieście, z wyjątkiem kościołów, a wielu mieszkańców uciekło."
     },
     {
      "file": "src/data/series.ts",

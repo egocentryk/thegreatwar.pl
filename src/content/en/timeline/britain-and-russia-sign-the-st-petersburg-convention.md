@@ -1,0 +1,26 @@
+---
+title: Britain and Russia sign the St Petersburg convention
+summary: On 31 August 1907 Nicolson and Izvolsky signed a convention on Persia, Afghanistan and Tibet. It ended the Great Game and completed the Triple Entente.
+source: wielka-brytania-i-rosja-podpisuja-konwencje-petersburska
+sourceHash: 2c580453d70dd17ca97fae688d0a9359b08e60f2
+---
+
+On 31 August 1907 (18 August in the Julian calendar) in St Petersburg the British Ambassador, [Arthur Nicolson](https://pl.wikipedia.org/wiki/Arthur_Nicolson), and the Russian Foreign Minister, [Alexander Izvolsky](https://pl.wikipedia.org/wiki/Aleksandr_Izwolski), signed a convention "relating to Persia, Afghanistan and Tibet". The [Anglo-Russian Convention](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) ended the rivalry of the two empires in Asia, which had lasted for decades and was known as the [Great Game](https://pl.wikipedia.org/wiki/Wielka_Gra). It was not an alliance, but together with the [Franco-Russian alliance](/wchodzi-w-zycie-sojusz-francusko-rosyjski) and the [Entente Cordiale](/wielka-brytania-i-francja-zawieraja-entente-cordiale) it formed the arrangement that contemporaries called the Triple Entente.
+
+## The road to agreement
+
+In the last decades of the 19th century Russia advanced through Central Asia towards the frontiers of India, and in the long run it seemed to the British a greater danger to the empire than Germany. The years 1904–1905 changed the situation. Russia, defeated by Japan and shaken by revolution, had to rebuild its army and navy, while London, already bound by its agreement with France, Russia's ally, was looking for a way to make India and its interests in the Persian Gulf permanently secure. The Liberal [Edward Grey](/postacie/edward-grey), during the election campaign on 20 October 1905, declared that if Russia respected British possessions in Asia, no government in London would obstruct it in Europe. In December he became Foreign Secretary. On 29 August 1907 Nicolson telegraphed to London that the final texts had gone to Emperor [Nicholas II](/postacie/mikolaj-ii) and that the signature would take place on Saturday.
+
+## The three parts of the convention
+
+The most important part concerned [Persia](https://pl.wikipedia.org/wiki/Iran). The two governments undertook to respect its "integrity and independence", and at the same time divided it, without using the word "sphere". Britain promised not to seek political or commercial concessions, such as railways, banks, telegraphs, roads or insurance, north of a line running from Qasr-e Shirin through [Isfahan](https://pl.wikipedia.org/wiki/Isfahan) and Yazd to the point where the Russian and Afghan frontiers met. Russia promised the same south-east of a line from the Afghan frontier through [Kerman](https://pl.wikipedia.org/wiki/Kerman) to [Bandar Abbas](https://pl.wikipedia.org/wiki/Bandar-e_Abbas). The Russian part, with Tehran, was much larger than the British one. The belt in between remained open to both sides.
+
+In the part on [Afghanistan](https://pl.wikipedia.org/wiki/Afganistan) the British government declared that it had no intention of changing its political status and would not encourage the Afghans to take measures threatening Russia. Russia recognised Afghanistan as "outside the sphere of Russian influence", undertook to conduct its political relations with it only through London and not to send any agents there. This part was to come into force only with the consent of the Emir, [Habibullah](https://pl.wikipedia.org/wiki/Habibullah_Chan), who had not been consulted beforehand. On [Tibet](https://pl.wikipedia.org/wiki/Tybet_(region)) both sides recognised the suzerainty of China and promised not to interfere in its internal affairs, not to send representatives to Lhasa and not to seek concessions there.
+
+In a letter to Nicolson of 29 August, in which he authorised him to sign the convention, Grey explained that the Persian Gulf was not among the regions covered by the agreement. He also recalled that during the negotiations Russia had not denied Britain's special interests in the Persian Gulf, and gave an assurance that London would continue to work for "the preservation of the status quo in the Gulf and the maintenance of British trade". Ratifications were exchanged on 23 September, and on 26 September the text was made public.
+
+## Significance
+
+Nobody asked the Persians. The Shah's government, in a country torn since 1905 by the constitutional revolution, learnt of the agreement after it had been signed and refused to recognise the division, and Iranian nationalists, who had seen Britain as a model of freedom, felt betrayed. In practice the two powers now began to intervene jointly in Persian politics.
+
+In Europe the convention meant something else. The German historian Günther Kronenbitter writes that the agreement, although it dealt only with spheres of influence in Asia, opened the way to a general alignment of British and Russian interests and was the capstone of cooperation between France, Britain and Russia. No one knew, however, how durable this [Entente](https://pl.wikipedia.org/wiki/Ententa) would prove in a great war. In Berlin the agreements of 1904 and 1907 were increasingly seen as the encirclement of Germany, which soon served as an argument for further naval expansion.

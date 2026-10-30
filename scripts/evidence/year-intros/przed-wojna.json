@@ -1,0 +1,323 @@
+{
+ "year": "przed-wojna",
+ "pl": [
+  [
+   {
+    "text": "7 października 1879 roku Niemcy i Austro-Węgry zawarły tajny sojusz obronny przeciw Rosji, a 20 maja 1882 roku przystąpiły do niego Włochy.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1879/10/niemcy-i-austro-wegry-zawieraja-dwuprzymierze.md",
+      "quote": "7 października 1879 Niemcy i Austro-Węgry podpisały w Wiedniu tajny sojusz obronny przeciw Rosji"
+     },
+     {
+      "file": "src/content/timeline/1882/05/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze.md",
+      "quote": "20 maja 1882 w Wiedniu Włochy przystąpiły do sojuszu z Niemcami i Austro-Węgrami"
+     }
+    ]
+   },
+   {
+    "text": "Po odejściu Bismarcka Berlin nie odnowił tajnego traktatu z Rosją, a 4 stycznia 1894 roku Francja i Rosja stały się sojusznikami.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1890/06/niemcy-nie-odnawiaja-traktatu-reasekuracyjnego.md",
+      "quote": "Po odejściu Bismarcka Berlin odrzucił rosyjskie prośby o jego odnowienie"
+     },
+     {
+      "file": "src/content/timeline/1894/01/wchodzi-w-zycie-sojusz-francusko-rosyjski.md",
+      "quote": "4 stycznia 1894 wymiana listów w Petersburgu nadała moc wiążącą tajnej konwencji wojskowej z 1892 roku. Francja i Rosja stały się sojusznikami"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Od 1898 roku Niemcy budowały flotę bojową, a w 1906 roku Brytyjczycy zwodowali HMS Dreadnought, pierwszy pancernik z samymi ciężkimi działami.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1898/04/niemcy-uchwalaja-pierwsza-ustawe-morska.md",
+      "quote": "10 kwietnia 1898 Wilhelm II podpisał pierwszą ustawę o flocie Tirpitza"
+     },
+     {
+      "file": "src/content/timeline/1898/04/niemcy-uchwalaja-pierwsza-ustawe-morska.md",
+      "quote": "dała początek niemieckiej flocie bojowej"
+     },
+     {
+      "file": "src/content/timeline/1906/02/wodowanie-hms-dreadnought.md",
+      "quote": "10 lutego 1906 Edward VII zwodował w Portsmouth HMS Dreadnought, pierwszy pancernik z samymi ciężkimi działami"
+     }
+    ]
+   },
+   {
+    "text": "Wielka Brytania zawarła układy kolonialne z Francją w 1904 roku i z Rosją w 1907 roku, co dopełniło trójporozumienie.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1904/04/wielka-brytania-i-francja-zawieraja-entente-cordiale.md",
+      "quote": "8 kwietnia 1904 Lansdowne i Cambon podpisali w Londynie układy kolonialne"
+     },
+     {
+      "file": "src/content/timeline/1907/08/wielka-brytania-i-rosja-podpisuja-konwencje-petersburska.md",
+      "quote": "31 sierpnia 1907 Nicolson i Izwolski podpisali w Petersburgu konwencję o Persji, Afganistanie i Tybecie"
+     },
+     {
+      "file": "src/content/timeline/1907/08/wielka-brytania-i-rosja-podpisuja-konwencje-petersburska.md",
+      "quote": "dopełniła trójporozumienie"
+     }
+    ]
+   },
+   {
+    "text": "Niemcy dwukrotnie próbowały podważyć pozycję Francji w Maroku, w Tangerze w 1905 roku i w Agadirze w 1911 roku, ale w Algeciras poparły je tylko Austro-Węgry.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1905/03/wilhelm-ii-laduje-w-tangerze.md",
+      "quote": "31 marca 1905 Wilhelm II zszedł na ląd w Tangerze"
+     },
+     {
+      "file": "src/content/timeline/1905/03/wilhelm-ii-laduje-w-tangerze.md",
+      "quote": "Był to otwarty sprzeciw wobec planów Francji"
+     },
+     {
+      "file": "src/content/timeline/1911/07/niemiecka-kanonierka-panther-wplywa-do-agadiru.md",
+      "quote": "1 lipca 1911 niemiecka kanonierka „Panther” stanęła w zamkniętym porcie Agadir. Berlin chciał wymusić na Francji ustępstwa"
+     },
+     {
+      "file": "src/content/timeline/1906/04/konferencja-w-algeciras-konczy-pierwszy-kryzys-marokanski.md",
+      "quote": "Niemcy, poparte tylko przez Austro-Węgry, nie zdołały podważyć pozycji Francji"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Na początku października 1908 roku Wiedeń ogłosił aneksję Bośni i Hercegowiny, a Serbia powołała rezerwistów.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1908/10/austro-wegry-oglaszaja-aneksje-bosni-i-hercegowiny.md",
+      "quote": "Na początku października 1908 Wiedeń ogłosił aneksję Bośni i Hercegowiny"
+     },
+     {
+      "file": "src/content/timeline/1908/10/austro-wegry-oglaszaja-aneksje-bosni-i-hercegowiny.md",
+      "quote": "Serbia powołała rezerwistów"
+     }
+    ]
+   },
+   {
+    "text": "Wojna, którą 29 września 1911 roku Włochy wypowiedziały Imperium Osmańskiemu, odsłoniła słabość Turcji i ośmieliła państwa bałkańskie.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1911/09/wybucha-wojna-wlosko-turecka.md",
+      "quote": "29 września 1911 Włochy wypowiedziały wojnę Imperium Osmańskiemu"
+     },
+     {
+      "file": "src/content/timeline/1911/09/wybucha-wojna-wlosko-turecka.md",
+      "quote": "Słabość Turcji ośmieliła państwa bałkańskie"
+     }
+    ]
+   },
+   {
+    "text": "Po wojnie rozpoczętej 8 października 1912 roku Turcja oddała 30 maja 1913 roku sojusznikom bałkańskim ziemie w Europie na zachód od linii Enos–Midia.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1912/10/czarnogora-rozpoczyna-pierwsza-wojne-balkanska.md",
+      "quote": "8 października 1912 Czarnogóra wypowiedziała wojnę Turcji"
+     },
+     {
+      "file": "src/content/timeline/1913/05/traktat-londynski-konczy-pierwsza-wojne-balkanska.md",
+      "quote": "30 maja 1913 Turcja oddała sojusznikom bałkańskim ziemie w Europie na zachód od linii Enos–Midia"
+     }
+    ]
+   },
+   {
+    "text": "W nocy z 29 na 30 czerwca 1913 roku Bułgarzy uderzyli na Serbów i Greków, a pokój z 10 sierpnia odebrał Bułgarii południową Dobrudżę i większość Macedonii.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1913/06/bulgaria-rozpoczyna-druga-wojne-balkanska.md",
+      "quote": "W nocy z 29 na 30 czerwca 1913 Bułgarzy bez wypowiedzenia wojny uderzyli na Serbów i Greków w Macedonii"
+     },
+     {
+      "file": "src/content/timeline/1913/08/pokoj-bukaresztenski-konczy-druga-wojne-balkanska.md",
+      "quote": "10 sierpnia 1913 Bułgaria podpisała w Bukareszcie pokój z Rumunią, Serbią, Grecją i Czarnogórą. Straciła południową Dobrudżę i większość Macedonii"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Polscy niepodległościowcy szykowali się w tym czasie do walki z Rosją: w czerwcu 1908 roku we Lwowie powstał tajny Związek Walki Czynnej, w kwietniu 1910 roku jawny Związek Strzelecki, a 10 listopada 1912 roku w Wiedniu Komisja Tymczasowa stronnictw z Galicji i Królestwa.",
+    "quotes": [
+     {
+      "file": "src/content/timeline/1908/06/powstaje-zwiazek-walki-czynnej.md",
+      "quote": "W czerwcu 1908 w mieszkaniu Kazimierza Sosnkowskiego we Lwowie założono tajny Związek Walki Czynnej, szkołę kadr przyszłego powstania przeciw Rosji"
+     },
+     {
+      "file": "src/content/timeline/1910/04/powstaje-zwiazek-strzelecki.md",
+      "quote": "W kwietniu 1910 we Lwowie powstał jawny Związek Strzelecki"
+     },
+     {
+      "file": "src/content/timeline/1912/11/powstaje-komisja-tymczasowa-skonfederowanych-stronnictw-niepodleglosciowych.md",
+      "quote": "10 listopada 1912 w Wiedniu stronnictwa niepodległościowe z Galicji i Królestwa utworzyły Komisję Tymczasową, by przygotować zbrojne wystąpienie przeciw Rosji"
+     }
+    ]
+   }
+  ]
+ ],
+ "en": [
+  [
+   {
+    "text": "On 7 October 1879 Germany and Austria-Hungary concluded a secret defensive alliance against Russia, and on 20 May 1882 Italy joined it.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/germany-and-austria-hungary-conclude-the-dual-alliance.md",
+      "quote": "On 7 October 1879 Germany and Austria-Hungary signed a secret defensive alliance against Russia in Vienna"
+     },
+     {
+      "file": "src/content/en/timeline/germany-austria-hungary-and-italy-conclude-the-triple-alliance.md",
+      "quote": "On 20 May 1882 in Vienna Italy joined the alliance of Germany and Austria-Hungary"
+     }
+    ]
+   },
+   {
+    "text": "After Bismarck's departure Berlin did not renew its secret treaty with Russia, and on 4 January 1894 France and Russia became allies.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/germany-does-not-renew-the-reinsurance-treaty.md",
+      "quote": "After Bismarck's departure Berlin rejected Russian requests to renew it"
+     },
+     {
+      "file": "src/content/en/timeline/franco-russian-alliance-comes-into-force.md",
+      "quote": "On 4 January 1894 an exchange of letters in St Petersburg made the secret military convention of 1892 binding. France and Russia became allies"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "From 1898 Germany built a battle fleet, and in 1906 the British launched HMS Dreadnought, the first battleship with only heavy guns.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/germany-passes-its-first-navy-law.md",
+      "quote": "On 10 April 1898 Wilhelm II signed Tirpitz's first Navy Law"
+     },
+     {
+      "file": "src/content/en/timeline/germany-passes-its-first-navy-law.md",
+      "quote": "laid the foundation of the German battle fleet"
+     },
+     {
+      "file": "src/content/en/timeline/launch-of-hms-dreadnought.md",
+      "quote": "On 10 February 1906 Edward VII launched HMS Dreadnought at Portsmouth, the first battleship with only heavy guns"
+     }
+    ]
+   },
+   {
+    "text": "Britain concluded colonial agreements with France in 1904 and with Russia in 1907, which completed the Triple Entente.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/britain-and-france-conclude-the-entente-cordiale.md",
+      "quote": "On 8 April 1904 Lansdowne and Cambon signed colonial agreements in London"
+     },
+     {
+      "file": "src/content/en/timeline/britain-and-russia-sign-the-st-petersburg-convention.md",
+      "quote": "On 31 August 1907 Nicolson and Izvolsky signed a convention on Persia, Afghanistan and Tibet"
+     },
+     {
+      "file": "src/content/en/timeline/britain-and-russia-sign-the-st-petersburg-convention.md",
+      "quote": "completed the Triple Entente"
+     }
+    ]
+   },
+   {
+    "text": "Germany twice tried to undermine France's position in Morocco, at Tangier in 1905 and at Agadir in 1911, but at Algeciras only Austria-Hungary backed it.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/wilhelm-ii-lands-at-tangier.md",
+      "quote": "On 31 March 1905 Wilhelm II went ashore at Tangier"
+     },
+     {
+      "file": "src/content/en/timeline/wilhelm-ii-lands-at-tangier.md",
+      "quote": "openly challenging French plans"
+     },
+     {
+      "file": "src/content/en/timeline/german-gunboat-panther-enters-agadir.md",
+      "quote": "On 1 July 1911 the German gunboat Panther anchored in the closed port of Agadir to force concessions from France"
+     },
+     {
+      "file": "src/content/en/timeline/algeciras-conference-ends-the-first-moroccan-crisis.md",
+      "quote": "Germany, backed only by Austria-Hungary, failed to undermine France's position"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "In early October 1908 Vienna announced the annexation of Bosnia and Herzegovina, and Serbia called up reservists.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/austria-hungary-announces-the-annexation-of-bosnia-and-herzegovina.md",
+      "quote": "In early October 1908 Vienna announced the annexation of Bosnia and Herzegovina"
+     },
+     {
+      "file": "src/content/en/timeline/austria-hungary-announces-the-annexation-of-bosnia-and-herzegovina.md",
+      "quote": "Serbia called up reservists"
+     }
+    ]
+   },
+   {
+    "text": "The war that Italy declared on the Ottoman Empire on 29 September 1911 exposed Turkey's weakness and emboldened the Balkan states.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/italo-turkish-war-breaks-out.md",
+      "quote": "On 29 September 1911 Italy declared war on the Ottoman Empire"
+     },
+     {
+      "file": "src/content/en/timeline/italo-turkish-war-breaks-out.md",
+      "quote": "Turkey's weakness emboldened the Balkan states"
+     }
+    ]
+   },
+   {
+    "text": "After a war that began on 8 October 1912, Turkey ceded to the Balkan allies on 30 May 1913 its European lands west of the Enos–Midia line.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/montenegro-starts-the-first-balkan-war.md",
+      "quote": "On 8 October 1912 Montenegro declared war on Turkey"
+     },
+     {
+      "file": "src/content/en/timeline/treaty-of-london-ends-the-first-balkan-war.md",
+      "quote": "On 30 May 1913 Turkey ceded to the Balkan allies its European lands west of the Enos–Midia line"
+     }
+    ]
+   },
+   {
+    "text": "On the night of 29–30 June 1913 the Bulgarians attacked the Serbs and Greeks, and the peace of 10 August took Southern Dobruja and most of Macedonia from Bulgaria.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/bulgaria-starts-the-second-balkan-war.md",
+      "quote": "On the night of 29–30 June 1913 the Bulgarians attacked the Serbs and Greeks in Macedonia without declaring war"
+     },
+     {
+      "file": "src/content/en/timeline/treaty-of-bucharest-ends-the-second-balkan-war.md",
+      "quote": "On 10 August 1913 Bulgaria signed peace in Bucharest with Romania, Serbia, Greece and Montenegro. It lost Southern Dobruja and most of Macedonia"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "text": "Meanwhile Polish supporters of independence prepared to fight Russia: in June 1908 the secret Union of Active Struggle was founded in Lwów, in April 1910 the open Riflemen's Association, and on 10 November 1912 in Vienna a Temporary Commission of parties from Galicia and the Kingdom.",
+    "quotes": [
+     {
+      "file": "src/content/en/timeline/union-of-active-struggle-is-founded.md",
+      "quote": "In June 1908 the secret Union of Active Struggle was founded in Kazimierz Sosnkowski's flat in Lwów"
+     },
+     {
+      "file": "src/content/en/timeline/riflemens-association-is-founded.md",
+      "quote": "In April 1910 the open Riflemen's Association was founded in Lwów"
+     },
+     {
+      "file": "src/content/en/timeline/temporary-commission-of-confederated-independence-parties-is-founded.md",
+      "quote": "On 10 November 1912 in Vienna independence parties from Galicia and the Kingdom formed a Temporary Commission to prepare an armed rising against Russia"
+     }
+    ]
+   }
+  ]
+ ]
+}

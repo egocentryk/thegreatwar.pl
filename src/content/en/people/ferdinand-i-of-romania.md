@@ -6,7 +6,7 @@ country: Romania
 birthPlace: Sigmaringen (Germany)
 deathPlace: Sinaia
 source: ferdynand-i-rumunski
-sourceHash: 8564a375ad71d2e0956d2d400fe1848767ca5d1a
+sourceHash: 0d6a66060d1c3f78da75a547e83b06b4aadb85f5
 ---
 
 Ferdinand I was the second King of Romania and one of the most remarkable monarchs of the Great War. A German prince of the Catholic line of the Hohenzollerns, brought up in Swabia, in 1916 he signed the declaration of war on Austria-Hungary knowing that it meant war with Germany, his family's homeland. The 1916 campaign ended in disaster: Romania lost its capital and two-thirds of its territory, and the king and the government took refuge in Jassy. Yet Ferdinand survived defeat, occupation, the collapse of his Russian ally and a humiliating peace that he never ratified. When the war ended, he ruled a state twice the size it had been in 1914. The Romanians called him "the Loyal", because he kept the oath he had sworn to his new homeland, and "the Unifier" (Întregitorul).
@@ -17,7 +17,7 @@ He was born on 24 August 1865 in [Sigmaringen](https://pl.wikipedia.org/wiki/Sig
 
 The first years were not easy. In 1891 he fell in love with one of the queen's ladies-in-waiting, the poet Elena Văcărescu, and King Carol, regarding marriage to a subject as impossible, ended the romance and sent his nephew on a tour of Europe in search of a suitable wife. On 10 January 1893 Ferdinand married [Marie](/postacie/maria-rumunska) of Edinburgh at Sigmaringen, a granddaughter of Britain's Queen Victoria and of Tsar Alexander II. They had six children, among them the future King [Carol II](https://pl.wikipedia.org/wiki/Karol_II_Rumuński). The marriage of convenience was not a happy one, and the beautiful, energetic and ambitious Marie, linked by a close friendship to Prince [Barbu Știrbey](https://pl.wikipedia.org/wiki/Barbu_Știrbey), soon overshadowed her husband. In 1897 Ferdinand nearly died of typhoid fever.
 
-The heir to the throne aroused little enthusiasm. He was educated, well read, knew several languages and was passionate about botany, but in public he was awkward, spoke clumsily and found it hard to make decisions. Behind his back he was called "poor Fritz". Carol I kept him away from politics. Ferdinand made a career in the army, and in the summer of 1913, during the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska), he was in formal command of the Romanian troops that advanced deep into Bulgaria almost without a fight.
+The heir to the throne aroused little enthusiasm. He was educated, well read, knew several languages and was passionate about botany, but in public he was awkward, spoke clumsily and found it hard to make decisions. Behind his back he was called "poor Fritz". Carol I kept him away from politics. Ferdinand made a career in the army, and in the summer of 1913, during the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska), he was in formal command of the Romanian troops that advanced deep into Bulgaria almost without a fight.
 
 ## Neutrality (1914–1916)
 

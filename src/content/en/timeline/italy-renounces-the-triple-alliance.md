@@ -2,10 +2,10 @@
 title: Italy renounces the Triple Alliance
 summary: On 4 May 1915 the Italian ambassador in Vienna delivered a note declaring the alliance with Austria-Hungary void. The government kept the step secret.
 source: wlochy-wypowiadaja-trojprzymierze
-sourceHash: 55455eb5891d88dd4f3253d55b7f6d6de533418d
+sourceHash: bd864602299ac9969fcf7fcf44bfb0c82b11298e
 ---
 
-On 4 May 1915 the Italian ambassador in Vienna, the Duke Giuseppe Avarna, handed the Austro-Hungarian foreign minister, Baron [István Burián](/postacie/istvan-burian), a note from his government. In it Italy declared that it regarded its alliance with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) as broken. The foreign minister [Sidney Sonnino](/postacie/sidney-sonnino) had sent the instruction from Rome the day before, which is why some studies, and also the Polish Wikipedia, give 3 May as the date of the renunciation of the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze). The Italian government itself, in its later declaration of war, wrote that the reasons for this decision had been communicated to Vienna on 4 May.
+On 4 May 1915 the Italian ambassador in Vienna, the Duke Giuseppe Avarna, handed the Austro-Hungarian foreign minister, Baron [István Burián](/postacie/istvan-burian), a note from his government. In it Italy declared that it regarded its alliance with [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry) as broken. The foreign minister [Sidney Sonnino](/postacie/sidney-sonnino) had sent the instruction from Rome the day before, which is why some studies, and also the Polish Wikipedia, give 3 May as the date of the renunciation of the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). The Italian government itself, in its later declaration of war, wrote that the reasons for this decision had been communicated to Vienna on 4 May.
 
 ## The content of the note
 

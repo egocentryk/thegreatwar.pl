@@ -6,7 +6,7 @@ country: Russia
 birthPlace: Gradets (Bulgaria)
 deathPlace: Pyatigorsk
 source: radko-dimitriew
-sourceHash: d2464205481b907d36f0b3da4e35a098fc0d3742
+sourceHash: 7f96eb48872e3ea730147af56d146488aa43f7aa
 ---
 
 Radko Dimitriev was one of the most famous Bulgarian generals, the victor over the Turks in the First Balkan War, and during the First World War a general of the Russian army. When war broke out in 1914 he gave up his post as Bulgaria's envoy in St Petersburg and joined the army that he regarded as the army of his country's liberators. For more than half a year he commanded the Russian Third Army: he besieged Przemyśl, approached Kraków and fought in the Carpathians. In May 1915 it was his army that took the main blow of the Germans and Austrians at Gorlice and was shattered, and he himself lost his command. When a few months later Bulgaria sided with the Central Powers, Dimitriev remained in Russian service. He was killed in 1918 as a hostage of the Bolsheviks.
@@ -17,7 +17,7 @@ He was born on 24 September 1859 (according to the Julian calendar then used by 
 
 He was an ardent Russophile. In August 1886 he was among the conspirators who forced Prince [Alexander of Battenberg](https://pl.wikipedia.org/wiki/Aleksander_I_Battenberg) to abdicate. After [Stefan Stambolov](https://pl.wikipedia.org/wiki/Stefan_Stambołow) took power he had to flee, and after a failed officers' mutiny in Silistra in 1887 he joined the Russian army and served in the Caucasus for more than ten years. He returned to Bulgaria in 1898, after Sofia's reconciliation with St Petersburg. From 1904 to 1907 he was chief of the Bulgarian general staff.
 
-In the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska) he commanded the Bulgarian Third Army, which in the autumn of 1912 routed the Turks at Lozengrad ([Kırklareli](https://pl.wikipedia.org/wiki/Bitwa_pod_Kırklareli)) and Lüleburgaz. These victories made him a national hero, although the assault on the lines at [Çatalca](https://pl.wikipedia.org/wiki/Bitwa_pod_Czataldżą_(1912)), which he directed, ended in failure. In the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) in 1913 he replaced General Savov as de facto commander-in-chief, but did not reverse the defeat. Bulgarian historians accuse him of rash decisions that worsened the army's position. In the autumn of 1913 he became envoy in St Petersburg. In the summer of 1914, at the urging of the Russian foreign minister [Sergey Sazonov](/postacie/siergiej-sazonow), he tried to persuade the government in Sofia to side with Russia and Serbia.
+In the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska) he commanded the Bulgarian Third Army, which in the autumn of 1912 routed the Turks at Lozengrad ([Kırklareli](https://pl.wikipedia.org/wiki/Bitwa_pod_Kırklareli)) and Lüleburgaz. These victories made him a national hero, although the assault on the lines at [Çatalca](https://pl.wikipedia.org/wiki/Bitwa_pod_Czataldżą_(1912)), which he directed, ended in failure. In the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) in 1913 he replaced General Savov as de facto commander-in-chief, but did not reverse the defeat. Bulgarian historians accuse him of rash decisions that worsened the army's position. In the autumn of 1913 he became envoy in St Petersburg. In the summer of 1914, at the urging of the Russian foreign minister [Sergey Sazonov](/postacie/siergiej-sazonow), he tried to persuade the government in Sofia to side with Russia and Serbia.
 
 ## 1914: Galicia
 

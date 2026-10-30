@@ -2,21 +2,8 @@
 import PrintButton from "@/components/PrintButton.astro"
 import type { Lang } from "@/i18n"
 import { paths } from "@/i18n/local"
-import type { TimelineYearGroup } from "@/utils/groupTimelineEntries"
-
-// Collection entries (Polish pages) or localised events (src/i18n/local.ts),
-// which carry their own href.
-type ArchiveEntry = {
-  id: string
-  href?: string
-  data: {
-    title: string
-    summary: string
-    date: Date
-    dayOrder?: number
-    milestone: boolean
-  }
-}
+import TimelineMonth from "@/components/TimelineMonth.astro"
+import { isPreWar, type ArchiveEntry, type TimelineYearGroup } from "@/utils/groupTimelineEntries"
 
 interface Props {
   activeYear?: number
@@ -30,6 +17,9 @@ interface Props {
   heading?: string
   // Year pages: "Rok w skrócie", paragraphs shown under the heading.
   intro?: string[]
+  // The era page: every year before the war under one heading, each year
+  // with its months (utils/groupTimelineEntries.ts, WAR_START_YEAR).
+  era?: boolean
   lang?: Lang
 }
 
@@ -42,6 +32,7 @@ const {
   renderAllYears = false,
   heading,
   intro = [],
+  era = false,
   lang = "pl",
 } = Astro.props
 const YearHeading = heading ? "h1" : "h2"
@@ -50,45 +41,35 @@ const t = {
   pl: {
     years: "Lata",
     months: "Miesiące",
-    milestone: "Kluczowe wydarzenie",
     backToYear: "wróć do roku",
+    era: "Przed wojną",
+    yearIntro: "Rok w skrócie",
+    eraIntro: "W skrócie",
   },
   en: {
     years: "Years",
     months: "Months",
-    milestone: "Key event",
     backToYear: "back to",
+    era: "Before the war",
+    yearIntro: "The year in brief",
+    eraIntro: "In brief",
   },
 }[lang]
-const years = timelineByYear.map((yearGroup) => yearGroup.year)
-const activeGroup =
-  timelineByYear.find((yearGroup) => yearGroup.year === activeYear) ??
-  timelineByYear[0]
-const visibleYearGroups = renderAllYears
-  ? timelineByYear
-  : activeGroup
-    ? [activeGroup]
-    : []
-
-function groupEntriesByDay(
-  entries: Props["timelineByYear"][number]["months"][number]["entries"],
-) {
-  return entries.reduce<Array<{ day: string; entries: typeof entries }>>(
-    (groups, entry) => {
-      const day = entry.data.date.getUTCDate().toString().padStart(2, "0")
-      const lastGroup = groups.at(-1)
-
-      if (lastGroup?.day === day) {
-        lastGroup.entries.push(entry)
-        return groups
-      }
-
-      groups.push({ day, entries: [entry] })
-      return groups
-    },
-    [],
-  )
-}
+// The years before the war appear in the menu as one item, the era page.
+const hasEra = timelineByYear.some((yearGroup) => isPreWar(yearGroup.year))
+const years = timelineByYear.map((yearGroup) => yearGroup.year).filter((year) => !isPreWar(year))
+const activeGroup = era
+  ? undefined
+  : (timelineByYear.find((yearGroup) => yearGroup.year === activeYear) ??
+    timelineByYear.find((yearGroup) => !isPreWar(yearGroup.year)) ??
+    timelineByYear[0])
+const visibleYearGroups = era
+  ? timelineByYear.filter((yearGroup) => isPreWar(yearGroup.year))
+  : renderAllYears
+    ? timelineByYear
+    : activeGroup
+      ? [activeGroup]
+      : []
 ---
 
 {
@@ -100,6 +81,15 @@ function groupEntriesByDay(
             class="font-display flex flex-wrap gap-x-6 gap-y-2 text-2xl leading-none font-medium sm:gap-x-8 sm:text-3xl"
             aria-label={t.years}
           >
+            {hasEra && (
+              <a
+                href={to.era}
+                aria-current={era ? "page" : undefined}
+                class:list={["transition-colors", era ? "text-signal" : "text-ink-soft hover:text-ink"]}
+              >
+                {t.era}
+              </a>
+            )}
             {years.map((year) => (
               <a
                 href={to.year(year)}
@@ -151,6 +141,42 @@ function groupEntriesByDay(
         </div>
       )}
 
+      {era && (
+        <section class="mt-10">
+          {/* The era: its heading and intro once, then each year with its
+              months, as in the year pages' two-column layout. */}
+          <div class="lg:grid lg:grid-cols-[minmax(0,22rem)_minmax(0,1fr)] lg:gap-12">
+            <div class="lg:sticky lg:top-24 lg:self-start print:static">
+              <div class="flex items-baseline justify-between gap-4">
+                <h1 class="font-display text-ink text-3xl font-medium sm:text-4xl">{heading ?? t.era}</h1>
+                <PrintButton lang={lang} />
+              </div>
+              {intro.length > 0 && (
+                <div class="border-signal mt-6 max-w-2xl space-y-4 border-l-2 pl-5 lg:max-h-[calc(100vh-13rem)] lg:overflow-y-auto print:max-h-none">
+                  <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{t.eraIntro}</p>
+                  {intro.map((paragraph) => (
+                    <p class="text-ink leading-7 lg:text-[15px] lg:leading-6">{paragraph}</p>
+                  ))}
+                </div>
+              )}
+            </div>
+            <div class="mt-6 min-w-0 space-y-12 lg:mt-0">
+              {visibleYearGroups.map((yearGroup) => (
+                <section>
+                  <h2 class="font-display text-ink text-2xl font-medium sm:text-3xl">{yearGroup.year}</h2>
+                  <div class="mt-4 space-y-8">
+                    {yearGroup.months.map((monthGroup) => (
+                      <TimelineMonth year={yearGroup.year} month={monthGroup} anchor lang={lang} />
+                    ))}
+                  </div>
+                </section>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {!era && (
       <div class={showYearNav ? "mt-10" : "mt-6 space-y-12"}>
         {visibleYearGroups.map((yearGroup) => {
           const visibleMonths =
@@ -184,7 +210,7 @@ function groupEntriesByDay(
                   </div>
                   <div class="border-signal mt-6 max-w-2xl space-y-4 border-l-2 pl-5 lg:max-h-[calc(100vh-13rem)] lg:overflow-y-auto print:max-h-none">
                     <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">
-                      {lang === "en" ? "The year in brief" : "Rok w skrócie"}
+                      {t.yearIntro}
                     </p>
                     {intro.map((paragraph) => (
                       <p class="text-ink leading-7 lg:text-[15px] lg:leading-6">{paragraph}</p>
@@ -195,76 +221,12 @@ function groupEntriesByDay(
 
               <div class="mt-6 min-w-0 space-y-8">
                 {visibleMonths.map((monthGroup) => (
-                  <section class="tl-month">
-                    {(() => {
-                      const dayGroups = groupEntriesByDay(monthGroup.entries)
-
-                      return (
-                        <>
-                          <h3>
-                            <a
-                              href={to.month(yearGroup.year, monthGroup.slug)}
-                              aria-current={
-                                !renderAllYears &&
-                                monthGroup.slug === activeMonth
-                                  ? "page"
-                                  : undefined
-                              }
-                              class:list={[
-                                "font-mono text-[10px] tracking-[0.2em] uppercase transition-colors",
-                                !renderAllYears &&
-                                monthGroup.slug === activeMonth
-                                  ? "text-signal"
-                                  : "text-signal hover:text-ink",
-                              ]}
-                            >
-                              {monthGroup.label}
-                            </a>
-                          </h3>
-
-                          <ul class="border-line mt-3 border-l pl-5">
-                            {dayGroups.map((dayGroup) => (
-                              <li class="tl-day">
-                                <span
-                                  aria-hidden="true"
-                                  class={
-                                    dayGroup.entries.some((entry) => entry.data.milestone)
-                                      ? "tl-dot-key"
-                                      : "tl-dot"
-                                  }
-                                />
-                                <div class="tl-day-grid">
-                                  <span class="tl-day-num">{dayGroup.day}</span>
-                                  <div>
-                                    <ul>
-                                      {dayGroup.entries.map((entry) => (
-                                        <li class="tl-entry">
-                                          <a
-                                            href={entry.href ?? `/${entry.id}`}
-                                            class="group block min-w-0"
-                                          >
-                                            {entry.data.milestone && (
-                                              <span class="tl-key-label">{t.milestone}</span>
-                                            )}
-                                            <span
-                                              class={entry.data.milestone ? "tl-title-key" : "tl-title"}
-                                            >
-                                              {entry.data.title}
-                                            </span>
-                                            <span class="tl-summary">{entry.data.summary}</span>
-                                          </a>
-                                        </li>
-                                      ))}
-                                    </ul>
-                                  </div>
-                                </div>
-                              </li>
-                            ))}
-                          </ul>
-                        </>
-                      )
-                    })()}
-                  </section>
+                  <TimelineMonth
+                    year={yearGroup.year}
+                    month={monthGroup}
+                    current={!renderAllYears && monthGroup.slug === activeMonth}
+                    lang={lang}
+                  />
                 ))}
 
                 {showBackLink && !renderAllYears && activeMonth && (
@@ -283,6 +245,7 @@ function groupEntriesByDay(
           )
         })}
       </div>
+      )}
     </>
   )
 }

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 24 maja 1915 roku, że Niemcy zerwały stosunki dyplomatyczne z Włochami. Dzień wcześniej Włochy [wypowiedziały wojnę Austro-Węgrom](/wlochy-wypowiadaja-wojne-austro-wegrom), ale nie Niemcom, z którymi przez ponad trzydzieści lat łączyło je [trójprzymierze](https://pl.wikipedia.org/wiki/Trójprzymierze). Berlin nie czekał. Według opublikowanych później włoskich dokumentów dyplomatycznych ambasador Niemiec w Rzymie zawiadomił ministra spraw zagranicznych [Sidneya Sonnina](/postacie/sidney-sonnino), że żąda paszportów, ponieważ otrzymał wiadomość, iż Włochy uważają się za będące w stanie wojny z Austro-Węgrami. Taką samą notę złożył poseł Bawarii, która utrzymywała w Rzymie własne przedstawicielstwo.
+Brytyjska chronologia wojny notuje pod 24 maja 1915 roku, że Niemcy zerwały stosunki dyplomatyczne z Włochami. Dzień wcześniej Włochy [wypowiedziały wojnę Austro-Węgrom](/wlochy-wypowiadaja-wojne-austro-wegrom), ale nie Niemcom, z którymi przez ponad trzydzieści lat łączyło je [trójprzymierze](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Berlin nie czekał. Według opublikowanych później włoskich dokumentów dyplomatycznych ambasador Niemiec w Rzymie zawiadomił ministra spraw zagranicznych [Sidneya Sonnina](/postacie/sidney-sonnino), że żąda paszportów, ponieważ otrzymał wiadomość, iż Włochy uważają się za będące w stanie wojny z Austro-Węgrami. Taką samą notę złożył poseł Bawarii, która utrzymywała w Rzymie własne przedstawicielstwo.
 
 ## Wyjazd ambasadorów
 

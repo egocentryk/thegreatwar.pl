@@ -2,14 +2,14 @@
 title: Polish Military Organisation founded
 summary: On 22 October 1914 Piłsudski's envoy Tadeusz Żuliński took command of the riflemen's underground in Warsaw and named it the Polish Military Organisation.
 source: powstanie-polskiej-organizacji-wojskowej
-sourceHash: edf7251988a3f34a6cf885ba9bc850031f26647b
+sourceHash: 47966e3f5c67327fd998ee81e6aa161afdf402e6
 ---
 
 On 22 October 1914 in Warsaw, Second Lieutenant [Tadeusz Żuliński](https://pl.wikipedia.org/wiki/Tadeusz_Józef_Żuliński), the envoy of [Józef Piłsudski](/postacie/jozef-pilsudski), took command of the riflemen's underground that had been active since August and gave it the name [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa) (POW). This date is taken as the beginning of the POW, an organisation that for the next four years was Piłsudski's base in the Russian partition and in November 1918 became one of the main forces taking power from the occupiers.
 
 ## Riflemen cut off from Kraków
 
-Before the war two secret organisations in Warsaw gave young people military training with a view to fighting Russia. The [Polish Rifle Squads](https://pl.wikipedia.org/wiki/Polskie_Drużyny_Strzeleckie) had about 400 members and the [Union of Active Struggle](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej), linked to Piłsudski, about 300. When war broke out, their people found themselves on the Russian side of the front, cut off from their Galician commands. On 6 August the [First Cadre Company](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) set out from Kraków into the Kingdom, but the rising against Russia that Piłsudski had counted on did not happen, and the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) fought under Austro-Hungarian command.
+Before the war two secret organisations in Warsaw gave young people military training with a view to fighting Russia. The [Polish Rifle Squads](https://pl.wikipedia.org/wiki/Polskie_Drużyny_Strzeleckie) had about 400 members and the [Union of Active Struggle](/powstaje-zwiazek-walki-czynnej), linked to Piłsudski, about 300. When war broke out, their people found themselves on the Russian side of the front, cut off from their Galician commands. On 6 August the [First Cadre Company](https://pl.wikipedia.org/wiki/Pierwsza_Kompania_Kadrowa) set out from Kraków into the Kingdom, but the rising against Russia that Piłsudski had counted on did not happen, and the [Polish Legions](https://pl.wikipedia.org/wiki/Legiony_Polskie_(1914–1918)) fought under Austro-Hungarian command.
 
 In early August [Karol Rybasiewicz](https://pl.wikipedia.org/wiki/Karol_Rybasiewicz) of the Rifle Squads and [Adam Koc](https://pl.wikipedia.org/wiki/Adam_Koc) of the Union of Active Struggle came from Galicia to Warsaw. According to the Polish Wikipedia, the two organisations merged on 10 August. The new body, at first without a name and also called the Polish Military Union, was headed by Rybasiewicz, with Koc as his deputy. It recognised Piłsudski's authority and expected orders from him. It trained its members, collected weapons and gathered intelligence. In October, when the Germans approached the city during the [Battle of Warsaw and Dęblin](/bitwy/bitwa-pod-warszawa-i-deblinem), it prepared to act in case they took it.
 

@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Zbaraż (Galicia, Austria-Hungary)
 deathPlace: Bystra near Bielsko
 source: ignacy-daszynski
-sourceHash: 32de4e944b02e3459ca85d031ea374d48608b827
+sourceHash: c2440018991c15aab6e2ca6f48cd57727f48f876
 ---
 
 For more than twenty years Ignacy Daszyński was the best-known Polish socialist in the Habsburg monarchy and one of the finest orators in the Vienna parliament. In 1914, together with his political friend [Józef Piłsudski](/postacie/jozef-pilsudski), he bet on Austria-Hungary against Russia, joined the leadership of the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) and defended the Legions in Vienna and Berlin. When the hopes of solving the Polish question at the side of the Central Powers came to nothing, he demanded an independent and united Poland ever more sharply from the parliamentary rostrum. In November 1918 he headed the Lublin government, the first Polish government to call its state a republic, and after a few days handed power to Piłsudski. Throughout his life he combined socialism with patriotism, which won him the respect of some and the dislike of others, both on the right and on the far left.
@@ -17,7 +17,7 @@ He was born on 26 October 1866 in Zbaraż in Podolia, into an impoverished noble
 
 In 1897, after a partial democratisation of the electoral law, he was elected to the [Imperial Council](https://pl.wikipedia.org/wiki/Rada_Państwa_(Austria)) in Vienna and, with one break, sat in it until the end of the monarchy. His speeches, sharp and witty, against the Galician conservatives, the abuses of the administration and the restrictions on freedom, were printed by the press throughout the country, partly because parliamentary immunity protected from the censor what could not be written in a newspaper. He fought for universal suffrage, which was introduced in the Austrian half of the monarchy in 1907.
 
-Unlike many European socialists, he did not regard the national question as obsolete. From the beginning of the twentieth century he worked with Piłsudski, whose writings "Naprzód" printed. In 1912 the PPSD joined the [Provisional Commission of Confederated Independence Parties](https://pl.wikipedia.org/wiki/Komisja_Tymczasowa_Skonfederowanych_Stronnictw_Niepodległościowych), which prepared the Poles to take part in the expected war against Russia. Daszyński helped legalise the riflemen's associations and co-wrote the resolution stating that in a conflict between Austria-Hungary and Russia "all the forces of the Polish nation should turn against Russian tsardom", the oppressor of most of the nation. He hoped that the war would spark a rising in the Kingdom of Poland.
+Unlike many European socialists, he did not regard the national question as obsolete. From the beginning of the twentieth century he worked with Piłsudski, whose writings "Naprzód" printed. In 1912 the PPSD joined the [Provisional Commission of Confederated Independence Parties](/powstaje-komisja-tymczasowa-skonfederowanych-stronnictw-niepodleglosciowych), which prepared the Poles to take part in the expected war against Russia. Daszyński helped legalise the riflemen's associations and co-wrote the resolution stating that in a conflict between Austria-Hungary and Russia "all the forces of the Polish nation should turn against Russian tsardom", the oppressor of most of the nation. He hoped that the war would spark a rising in the Kingdom of Poland.
 
 ## 1914: with the Legions
 

@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Whittingehame (Scotland)
 deathPlace: Woking (England)
 source: arthur-balfour
-sourceHash: a9673542da8fa7ae2e43a193dde15226d568b385
+sourceHash: 2aab58956408e02e93b89b4789b620d566967e60
 ---
 
 Arthur James Balfour was one of the few politicians who influenced British war policy throughout the war, even though he began it as a member of the opposition. A former Conservative Prime Minister, a philosopher and a master of parliamentary debate, in 1914 he joined [Herbert Henry Asquith](/postacie/herbert-henry-asquith)'s War Council, in May 1915 he replaced [Winston Churchill](/postacie/winston-churchill) at the Admiralty, and in December 1916, in [David Lloyd George](/postacie/david-lloyd-george)'s government, he took over the Foreign Office. In that post he passed the Zimmermann telegram to the Americans, went to Washington after the United States entered the war, and signed the declaration on a "national home" for the Jews in Palestine that bears his name to this day.
@@ -15,7 +15,7 @@ Arthur James Balfour was one of the few politicians who influenced British war p
 
 He was born on 25 July 1848 at Whittingehame in the Scottish county of East Lothian, into a very wealthy family. His mother came from the Cecil family, and his uncle, Lord [Salisbury](https://pl.wikipedia.org/wiki/Robert_Gascoyne-Cecil_(3._markiz_Salisbury)), was a long-serving Conservative Prime Minister. After Eton and Trinity College, Cambridge, Balfour entered the House of Commons in 1874. For a long time he was regarded as a dilettante who dabbled in politics between philosophy, music and tennis, but as Chief Secretary for Ireland in 1887–1891 he surprised everyone with a toughness for which the Irish nationalists called him "Bloody Balfour".
 
-In July 1902 he succeeded his uncle as Prime Minister. His government concluded the [Entente cordiale](https://pl.wikipedia.org/wiki/Entente_cordiale) with France, and Balfour himself created the Committee of Imperial Defence, which from then on brought politicians, admirals and generals together in planning for war. He supported the naval reforms of Admiral [John Fisher](/postacie/john-fisher). A split among the Conservatives in the dispute over tariffs led him to hand power to the Liberals in December 1905, and in the 1906 election he suffered a heavy defeat. He led the party until 1911, when, after lost elections and the struggle over the powers of the House of Lords, he made way for Andrew Bonar Law. He nevertheless remained one of the most respected politicians in the country.
+In July 1902 he succeeded his uncle as Prime Minister. His government concluded the [Entente cordiale](/wielka-brytania-i-francja-zawieraja-entente-cordiale) with France, and Balfour himself created the Committee of Imperial Defence, which from then on brought politicians, admirals and generals together in planning for war. He supported the naval reforms of Admiral [John Fisher](/postacie/john-fisher). A split among the Conservatives in the dispute over tariffs led him to hand power to the Liberals in December 1905, and in the 1906 election he suffered a heavy defeat. He led the party until 1911, when, after lost elections and the struggle over the powers of the House of Lords, he made way for Andrew Bonar Law. He nevertheless remained one of the most respected politicians in the country.
 
 ## An opposition man in the War Council
 

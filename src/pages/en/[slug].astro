@@ -27,6 +27,8 @@ import {
   translatedTimeline,
 } from "@/i18n"
 import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
+import { isPreWar } from "@/utils/groupTimelineEntries"
+import { paths } from "@/i18n/local"
 import { pageEntities } from "@/utils/pageEntities"
 
 type AssetImage = {
@@ -87,7 +89,10 @@ const jsonLd = [
   breadcrumbLd(Astro.site!, [
     { name: "Home", path: "/en" },
     { name: "Timeline", path: "/en/timeline" },
-    { name: String(date.getUTCFullYear()), path: `/en/timeline/${date.getUTCFullYear()}` },
+    {
+      name: isPreWar(date.getUTCFullYear()) ? "Before the war" : String(date.getUTCFullYear()),
+      path: paths("en").year(date.getUTCFullYear()),
+    },
     { name: title, path: pagePath },
   ]),
 ]

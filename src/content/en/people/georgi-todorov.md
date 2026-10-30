@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Bolhrad (Bessarabia, now Ukraine)
 deathPlace: Sofia
 source: georgi-todorow
-sourceHash: b0401d07fda2ce5e30539f54ee990677e2b9c064
+sourceHash: 6e654599ded2b4aa04ec18cc03fd8e0f1afefdd9
 ---
 
 Georgi Todorov belonged to the generation of Bulgarian generals who as young volunteers had fought to free their country from Turkish rule and then led its army in three successive wars. In autumn 1915 he commanded the Second Army, which within a few weeks occupied Serbian Macedonia, cut the railway from Salonika and prevented the Serbs from joining up with the Entente troops. After this success he held the front against Sarrail's armies for almost three years. As fate would have it, in the critical days of September 1918, in the absence of the sick commander-in-chief, it was he who stood at the head of the Bulgarian army when the front broke at Dobro Pole. His signature was on the letter in which Bulgaria asked for a suspension of hostilities.
@@ -17,7 +17,7 @@ He was born on 22 August 1858 (10 August in the Julian calendar) at [Bolhrad](ht
 
 When Serbia attacked Bulgaria in 1885, he broke off his studies and returned home. In the [Serbo-Bulgarian War](https://pl.wikipedia.org/wiki/Wojna_serbsko-bułgarska) he commanded the so-called Flying Detachment in the Vidin area and successfully delayed the Serbs advancing on the fortress. A year later he supported the officers who overthrew Prince Alexander of Battenberg, and was briefly dismissed from the army, but he soon returned. He graduated from the St Petersburg academy in 1890. For years he commanded a regiment and a brigade, and in 1910, already a major-general, he took over the 7th Rila Infantry Division at Dupnitsa.
 
-In the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska) his division first advanced down the Struma valley towards Salonika and was then transferred to Thrace. At the beginning of 1913, in the [Battle of Bulair](https://pl.wikipedia.org/wiki/Bitwa_pod_Bulair) at the neck of the Gallipoli peninsula, it repulsed a Turkish attack. On the Turkish side [Mustafa Kemal](/postacie/mustafa-kemal) fought there as a staff officer. In the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) Todorov's division fought the Serbs at Kalimantsi in Macedonia. In April 1915 the general became inspector of one of the army districts, and in August he was promoted to lieutenant-general.
+In the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska) his division first advanced down the Struma valley towards Salonika and was then transferred to Thrace. At the beginning of 1913, in the [Battle of Bulair](https://pl.wikipedia.org/wiki/Bitwa_pod_Bulair) at the neck of the Gallipoli peninsula, it repulsed a Turkish attack. On the Turkish side [Mustafa Kemal](/postacie/mustafa-kemal) fought there as a staff officer. In the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) Todorov's division fought the Serbs at Kalimantsi in Macedonia. In April 1915 the general became inspector of one of the army districts, and in August he was promoted to lieutenant-general.
 
 ## 1915: Macedonia
 

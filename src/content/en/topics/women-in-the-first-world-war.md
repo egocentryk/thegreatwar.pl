@@ -9,14 +9,14 @@ brief:
   - "British women won the vote on 6 February 1918, German women on 12 November 1918 and Polish women on 28 November 1918."
   - "After the armistice most women lost their wartime jobs, and historians still argue whether the war liberated them or changed their lives only for a while."
 source: kobiety-w-czasie-i-wojny-swiatowej
-sourceHash: a0a19bdf2d3ede38df5a1a494222d1fc8545c6d3
+sourceHash: 9e45fa1f1fbd304fc3d3f627ca07ef67a48576d7
 ---
 
 The war changed women's lives in every belligerent country, though less lastingly than many believed at the time. When millions of men went to the front, women replaced them in munitions factories, on trams, in offices and on the land, ran homes and farms, nursed the wounded, and in the second half of the war even joined auxiliary military services. It was they who stood in queues for bread and potatoes and felt the hunger of the home front most keenly. After the armistice many of them lost their jobs, but in Britain, Germany, Poland and other countries women received the vote for the first time.
 
 ## The war comes home
 
-Mobilisation in the summer of 1914 took millions of men from their homes. [France](/francja-zarzadza-powszechna-mobilizacje) called up more than three million men in the first weeks of August and, according to the historian Peggy Bette, 8 million over the whole war, or 60 per cent of economically active men. It was much the same in [Germany](/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji) and [Russia](/rosja-rozpoczyna-powszechna-mobilizacje). Overnight, many families lost their main breadwinner. All the belligerent states therefore introduced separation allowances for soldiers' families, paid directly to their dependants. In Germany, by the end of 1915, an estimated 4 million families were receiving them.
+Mobilisation in the summer of 1914 took millions of men from their homes. [France](/francja-zarzadza-powszechna-mobilizacje) called up nearly three million men in the first weeks of August and, according to the historian Peggy Bette, 8 million over the whole war, or 60 per cent of economically active men. It was much the same in [Germany](/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji) and [Russia](/rosja-rozpoczyna-powszechna-mobilizacje). Overnight, many families lost their main breadwinner. All the belligerent states therefore introduced separation allowances for soldiers' families, paid directly to their dependants. In Germany, by the end of 1915, an estimated 4 million families were receiving them.
 
 The allowances were rarely enough, and in the first months of the war many women lost their jobs in the chaos the war caused in the economy. In France, on 7 August 1914, Prime Minister [René Viviani](https://pl.wikipedia.org/wiki/René_Viviani) called on peasant women to finish the harvest and prepare the fields for the next crops. According to Bette, 3,200,000 female farm workers and farmers' wives took the place of three million farmers called up into the army, often without their draught animals, which the army had requisitioned. Soldiers' wives, mothers and sisters wrote them letters and sent parcels of food and warm clothing. This correspondence was one of the few links between the front and home.
 

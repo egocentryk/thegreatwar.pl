@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: London
 deathPlace: Fallodon (Northumberland)
 source: edward-grey
-sourceHash: 75aacf650b438068dabe454abb9892368cad43a7
+sourceHash: bb3d4f538bc1c898a83205595dded1385d2f2c69
 ---
 
 Sir Edward Grey directed British foreign policy for eleven years, from December 1905 to December 1916, longer without a break than anyone before or since. It was he who built the agreements with France and Russia, who in July 1914 tried to stop the war with a conference of the powers, and who on 3 August made the speech in the House of Commons that convinced Parliament and a divided government that Britain could not leave France and Belgium to their fate. During the war he conducted the secret diplomacy of the Entente: he negotiated Italy's entry, courted the Balkan states, promised Constantinople to Russia and signed the agreement partitioning Asiatic Turkey. Weary and losing his sight, he left the government together with Asquith.
@@ -17,7 +17,7 @@ He was born on 25 April 1862 in London into a family with strong Whig and Libera
 
 In private he was a countryman, an angler and an ornithologist, author of a book on fly fishing. He had little command of foreign languages and was reluctant to travel abroad. In February 1906, a few weeks after taking over the ministry, he lost his beloved wife Dorothy in a carriage accident.
 
-As Foreign Secretary in the governments of [Henry Campbell-Bannerman](https://pl.wikipedia.org/wiki/Henry_Campbell-Bannerman) and, from 1908, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), he continued the rapprochement with France begun by the [Entente Cordiale](https://pl.wikipedia.org/wiki/Entente_cordiale). During the Moroccan crises he backed Paris and agreed to secret staff talks, of which most of the Cabinet knew nothing for years. In 1907 he concluded the [agreement with Russia](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) on Persia, Afghanistan and Tibet. In November 1912 he exchanged letters with the French ambassador [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon) in which the two countries promised to consult each other in the event of a threat, but without any commitment to fight together. He always stressed that Britain kept a free hand. During the Balkan Wars he chaired the conference of ambassadors in London, which helped to avert a war between the powers. That success was his model in July 1914.
+As Foreign Secretary in the governments of [Henry Campbell-Bannerman](https://pl.wikipedia.org/wiki/Henry_Campbell-Bannerman) and, from 1908, [Herbert Henry Asquith](/postacie/herbert-henry-asquith), he continued the rapprochement with France begun by the [Entente Cordiale](/wielka-brytania-i-francja-zawieraja-entente-cordiale). During the Moroccan crises he backed Paris and agreed to secret staff talks, of which most of the Cabinet knew nothing for years. In 1907 he concluded the [agreement with Russia](https://pl.wikipedia.org/wiki/Porozumienie_rosyjsko-angielskie) on Persia, Afghanistan and Tibet. In November 1912 he exchanged letters with the French ambassador [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon) in which the two countries promised to consult each other in the event of a threat, but without any commitment to fight together. He always stressed that Britain kept a free hand. During the Balkan Wars he chaired the conference of ambassadors in London, which helped to avert a war between the powers. That success was his model in July 1914.
 
 ## The July Crisis
 

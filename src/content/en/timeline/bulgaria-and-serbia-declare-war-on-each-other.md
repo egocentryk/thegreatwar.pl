@@ -2,7 +2,7 @@
 title: Bulgaria and Serbia declare war on each other
 summary: On 14 October 1915 Tsar Ferdinand issued a manifesto on war with Serbia. Bulgaria joined the Central Powers and struck at Serbia from the east.
 source: bulgaria-i-serbia-wypowiadaja-sobie-wojne
-sourceHash: c386be192118ea651d7d65b70e0254e12a8bef23
+sourceHash: 2733a86acd5707a0007750b8a28a4b937be1e7e9
 brief:
   - "On 14 October 1915 Tsar Ferdinand issued a manifesto on war with Serbia. Bulgaria entered the war on the side of the Central Powers, which had promised it the whole of Serbian Macedonia."
   - "The manifesto presented Bulgaria as the victim of Serbian aggression, but this was a pretext. According to the Austro-Hungarian official history, the Bulgarians provoked the frontier clash of 11 October."
@@ -16,7 +16,7 @@ The British chronology of the war records that on this day Bulgaria and Serbia d
 
 ## The manifesto
 
-The manifesto was signed by the Tsar and countersigned by all the ministers, headed by the prime minister, [Vasil Radoslavov](/postacie/wasil-radoslawow). It presented Bulgaria as the victim of aggression. Both warring groups of powers, the Tsar said, had recognised the great wrong done to the Bulgarians by the partition of Macedonia after the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska), and both agreed that the greater part of that land should belong to Bulgaria. Only "our perfidious neighbour, Serbia" had remained unmoved by the advice of its friends and allies, and in its envy and greed had attacked Bulgarian territory, so that "our gallant troops" had to defend their own soil.
+The manifesto was signed by the Tsar and countersigned by all the ministers, headed by the prime minister, [Vasil Radoslavov](/postacie/wasil-radoslawow). It presented Bulgaria as the victim of aggression. Both warring groups of powers, the Tsar said, had recognised the great wrong done to the Bulgarians by the partition of Macedonia after the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska), and both agreed that the greater part of that land should belong to Bulgaria. Only "our perfidious neighbour, Serbia" had remained unmoved by the advice of its friends and allies, and in its envy and greed had attacked Bulgarian territory, so that "our gallant troops" had to defend their own soil.
 
 "The European war is drawing to a close," Ferdinand proclaimed. The victorious armies of the Central Powers were already in Serbia and advancing rapidly. The Tsar called on the nation and the army to defend the country "defiled by a perfidious neighbour" and to free "our enslaved brothers" from the Serbian yoke. "Our cause is just and holy," he wrote, and he ordered the army to drive the enemy from the kingdom's borders and crush him together with the troops of the central empires.
 

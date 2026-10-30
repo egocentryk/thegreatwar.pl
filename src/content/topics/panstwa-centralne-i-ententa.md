@@ -22,7 +22,7 @@ W I wojnie światowej walczyły ze sobą dwie koalicje. Po jednej stronie stały
 
 ## Dwa bloki przed 1914 rokiem
 
-Rdzeniem państw centralnych był sojusz Niemiec z Austro-Węgrami z 1879 roku, który po przystąpieniu Włoch w 1882 roku stał się [trójprzymierzem](https://pl.wikipedia.org/wiki/Trójprzymierze). Do bloku dołączyła w 1883 roku także Rumunia. Po drugiej stronie stanęły sojusz francusko-rosyjski z 1892 roku, brytyjsko-francuska entente cordiale z 1904 roku i układ brytyjsko-rosyjski z 1907 roku. Tylko pierwszy z nich był sojuszem wojskowym, dwa pozostałe rozgraniczały strefy wpływów, stąd nazwa trójporozumienie, czyli ententa.
+Rdzeniem państw centralnych był sojusz Niemiec z Austro-Węgrami z 1879 roku, który po przystąpieniu Włoch w 1882 roku stał się [trójprzymierzem](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Do bloku dołączyła w 1883 roku także Rumunia. Po drugiej stronie stanęły sojusz francusko-rosyjski z 1892 roku, brytyjsko-francuska entente cordiale z 1904 roku i układ brytyjsko-rosyjski z 1907 roku. Tylko pierwszy z nich był sojuszem wojskowym, dwa pozostałe rozgraniczały strefy wpływów, stąd nazwa trójporozumienie, czyli ententa.
 
 Oba bloki były w założeniu obronne, a latem 1914 roku nie wszyscy ich członkowie stanęli do walki. Nazwa „państwa centralne” wzięła się z położenia Niemiec i Austro-Węgier w środku Europy. Słowo „ententa” oznaczało w czasie wojny już nie tylko trzy mocarstwa, lecz całą koalicję ich sojuszników. 5 września 1914 roku Wielka Brytania, Francja i Rosja zobowiązały się w [pakcie londyńskim](/pakt-londynski), że nie zawrą odrębnego pokoju. Ententa stała się wtedy formalnym sojuszem wojennym.
 

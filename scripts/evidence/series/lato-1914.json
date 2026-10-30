@@ -9,36 +9,66 @@
     {
       "text": "28 czerwca 1914 roku w Sarajewie Gavrilo Princip zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę.",
       "quotes": [
-        {"file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md", "quote": "28 czerwca 1914 roku w Sarajewie Gavrilo Princip, dziewiętnastoletni bośniacki Serb związany z Młodą Bośnią, zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię."}
+        {
+          "file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md",
+          "quote": "28 czerwca 1914 roku w Sarajewie Gavrilo Princip, dziewiętnastoletni bośniacki Serb związany z Młodą Bośnią, zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię."
+        }
       ]
     },
     {
       "text": "Wiedeń, pewny poparcia Niemiec, postawił Serbii ultimatum i 28 lipca wypowiedział jej wojnę, a w ciągu tygodnia konflikt wciągnął wszystkie wielkie mocarstwa.",
       "quotes": [
-        {"file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md", "quote": "Wiedeń postanowił wykorzystać zamach do rozprawy z Serbią: 5 i 6 lipca uzyskał „czek in blanco” od Niemiec, 23 lipca postawił Serbii ultimatum, a 28 lipca 1914 roku wypowiedział jej wojnę."},
-        {"file": "src/content/timeline/1914/07/austro-wegry-wypowiadaja-wojne-serbii.md", "quote": "Konflikt, który Wiedeń chciał ograniczyć do krótkiej rozprawy z sąsiadem, w ciągu tygodnia wciągnął wszystkie wielkie mocarstwa Europy."}
+        {
+          "file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md",
+          "quote": "Wiedeń postanowił wykorzystać zamach do rozprawy z Serbią: 5 i 6 lipca uzyskał „czek in blanco” od Niemiec, 23 lipca postawił Serbii ultimatum, a 28 lipca 1914 roku wypowiedział jej wojnę."
+        },
+        {
+          "file": "src/content/timeline/1914/07/austro-wegry-wypowiadaja-wojne-serbii.md",
+          "quote": "Konflikt, który Wiedeń chciał ograniczyć do krótkiej rozprawy z sąsiadem, w ciągu tygodnia wciągnął wszystkie wielkie mocarstwa Europy."
+        }
       ]
     },
     {
       "text": "Niemiecki plan wojenny zakładał, że główne uderzenie spadnie najpierw na Francję, a wkroczenie do Belgii przesądziło o przystąpieniu do wojny Wielkiej Brytanii.",
       "quotes": [
-        {"file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md", "quote": "ich plan wojenny zakładał, że główne uderzenie spadnie najpierw na Francję, zanim Rosja zdąży w pełni zmobilizować swoje siły."},
-        {"file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md", "quote": "a 4 sierpnia wkroczyły do Belgii, co przesądziło o przystąpieniu do wojny Wielkiej Brytanii."}
+        {
+          "file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md",
+          "quote": "ich plan wojenny zakładał, że główne uderzenie spadnie najpierw na Francję, zanim Rosja zdąży w pełni zmobilizować swoje siły."
+        },
+        {
+          "file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md",
+          "quote": "a 4 sierpnia wkroczyły do Belgii, co przesądziło o przystąpieniu do wojny Wielkiej Brytanii."
+        }
       ]
     },
     {
       "text": "W sierpniu francuskie ofensywy załamały się, a alianci zaczęli wielki odwrót, ale we wrześniu zatrzymali Niemców od Paryża po Verdun i upadł plan szybkiego zwycięstwa.",
       "quotes": [
-        {"file": "src/content/battles/1914/bitwa-graniczna.md", "quote": "W sierpniu 1914 francuskie ofensywy w Alzacji, Lotaryngii i Ardenach załamały się, a Niemcy przeszli przez Belgię. Alianci zaczęli wielki odwrót."},
-        {"file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md", "quote": "We wrześniu 1914 Francuzi i Brytyjczycy zatrzymali Niemców na froncie od Paryża po Verdun i zmusili ich do odwrotu. Upadł plan szybkiego zwycięstwa."}
+        {
+          "file": "src/content/battles/1914/bitwa-graniczna.md",
+          "quote": "W sierpniu 1914 francuskie ofensywy w Alzacji, Lotaryngii i Ardenach załamały się, a Niemcy przeszli przez Belgię. Alianci zaczęli wielki odwrót."
+        },
+        {
+          "file": "src/content/battles/1914/pierwsza-bitwa-nad-marna.md",
+          "quote": "We wrześniu 1914 Francuzi i Brytyjczycy zatrzymali Niemców na froncie od Paryża po Verdun i zmusili ich do odwrotu. Upadł plan szybkiego zwycięstwa."
+        }
       ]
     },
     {
       "text": "Seria prowadzi od zamachu w Sarajewie przez kryzys lipcowy, łańcuch wypowiedzeń wojny i pierwsze bitwy w Belgii, Francji i Prusach Wschodnich po odwrót Niemców znad Marny.",
       "quotes": [
-        {"file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md", "quote": "Gavrilo Princip zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię, uruchamiając kryzys lipcowy."},
-        {"file": "src/content/battles/1914/bitwa-pod-tannenbergiem.md", "quote": "Rosyjska 2 Armia Samsonowa została okrążona i rozbita na południu Prus Wschodnich."},
-        {"file": "src/content/timeline/1914/09/niemcy-wycofuja-sie-znad-marny.md", "quote": "niemieckie 1 i 2 Armia rozpoczęły odwrót znad Marny."}
+        {
+          "file": "src/content/timeline/1914/06/arcyksiaze-franciszek-ferdynand-zamordowany-w-sarajewie.md",
+          "quote": "Gavrilo Princip zastrzelił arcyksięcia Franciszka Ferdynanda i jego żonę Zofię, uruchamiając kryzys lipcowy."
+        },
+        {
+          "file": "src/content/battles/1914/bitwa-pod-tannenbergiem.md",
+          "quote": "Rosyjska 2 Armia Samsonowa została okrążona i rozbita na południu Prus Wschodnich."
+        },
+        {
+          "file": "src/content/timeline/1914/09/niemcy-wycofuja-sie-znad-marny.md",
+          "quote": "niemieckie 1 i 2 Armia rozpoczęły odwrót znad Marny."
+        }
       ]
     }
   ],
@@ -46,36 +76,66 @@
     {
       "text": "On 28 June 1914 in Sarajevo, Gavrilo Princip shot Archduke Franz Ferdinand and his wife Sophie.",
       "quotes": [
-        {"file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md", "quote": "On 28 June 1914 in Sarajevo, Gavrilo Princip, a nineteen-year-old Bosnian Serb linked to Young Bosnia, shot Archduke Franz Ferdinand and his wife Sophie."}
+        {
+          "file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md",
+          "quote": "On 28 June 1914 in Sarajevo, Gavrilo Princip, a nineteen-year-old Bosnian Serb linked to Young Bosnia, shot Archduke Franz Ferdinand and his wife Sophie."
+        }
       ]
     },
     {
       "text": "Vienna, sure of Germany's backing, sent Serbia an ultimatum and declared war on 28 July, and within a week the conflict drew all the great powers of Europe into war.",
       "quotes": [
-        {"file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md", "quote": "Vienna chose to use the killing to settle accounts with Serbia: it won Germany's \\\"blank cheque\\\" on 5 and 6 July, sent Serbia an ultimatum on 23 July and declared war on 28 July 1914."},
-        {"file": "src/content/en/timeline/austria-hungary-declares-war-on-serbia.md", "quote": "A conflict that Vienna had wanted to confine to a short reckoning with its neighbour drew all the great powers of Europe into war within a week."}
+        {
+          "file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md",
+          "quote": "Vienna chose to use the killing to settle accounts with Serbia: it won Germany's \\\"blank cheque\\\" on 5 and 6 July, sent Serbia an ultimatum on 23 July and declared war on 28 July 1914."
+        },
+        {
+          "file": "src/content/en/timeline/austria-hungary-declares-war-on-serbia.md",
+          "quote": "A conflict that Vienna had wanted to confine to a short reckoning with its neighbour drew all the great powers of Europe into war within a week."
+        }
       ]
     },
     {
       "text": "The German war plan assumed that the main blow would fall first on France, and the invasion of Belgium settled Great Britain's entry into the war.",
       "quotes": [
-        {"file": "src/content/en/timeline/germany-mobilises-and-declares-war-on-russia.md", "quote": "its war plan assumed that the main blow would fall first on France, before Russia could fully mobilise its forces."},
-        {"file": "src/content/en/timeline/germany-mobilises-and-declares-war-on-russia.md", "quote": "and on 4 August it entered Belgium, which settled Great Britain's entry into the war."}
+        {
+          "file": "src/content/en/timeline/germany-mobilises-and-declares-war-on-russia.md",
+          "quote": "its war plan assumed that the main blow would fall first on France, before Russia could fully mobilise its forces."
+        },
+        {
+          "file": "src/content/en/timeline/germany-mobilises-and-declares-war-on-russia.md",
+          "quote": "and on 4 August it entered Belgium, which settled Great Britain's entry into the war."
+        }
       ]
     },
     {
       "text": "In August the French offensives collapsed and the Allies began the Great Retreat, but in September they halted the Germans from Paris to Verdun and the plan for a quick victory collapsed.",
       "quotes": [
-        {"file": "src/content/en/battles/battle-of-the-frontiers.md", "quote": "In August 1914 the French offensives in Alsace, Lorraine and the Ardennes collapsed and the Germans swept through Belgium. The Allies began the Great Retreat."},
-        {"file": "src/content/en/battles/first-battle-of-the-marne.md", "quote": "In September 1914 the French and British halted the Germans on a front from Paris to Verdun and forced them to retreat. The plan for a quick victory collapsed."}
+        {
+          "file": "src/content/en/battles/battle-of-the-frontiers.md",
+          "quote": "In August 1914 the French offensives in Alsace, Lorraine and the Ardennes collapsed and the Germans swept through Belgium. The Allies began the Great Retreat."
+        },
+        {
+          "file": "src/content/en/battles/first-battle-of-the-marne.md",
+          "quote": "In September 1914 the French and British halted the Germans on a front from Paris to Verdun and forced them to retreat. The plan for a quick victory collapsed."
+        }
       ]
     },
     {
       "text": "The series runs from the Sarajevo assassination through the July Crisis, the chain of declarations of war and the first battles in Belgium, France and East Prussia to the German retreat from the Marne.",
       "quotes": [
-        {"file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md", "quote": "Gavrilo Princip shot Archduke Franz Ferdinand and his wife Sophie, setting off the July Crisis."},
-        {"file": "src/content/en/battles/battle-of-tannenberg.md", "quote": "Samsonov's Russian Second Army was encircled and destroyed in the south of East Prussia."},
-        {"file": "src/content/en/timeline/germans-retreat-from-the-marne.md", "quote": "the German 1st and 2nd Armies began to retreat from the Marne"}
+        {
+          "file": "src/content/en/timeline/archduke-franz-ferdinand-assassinated-in-sarajevo.md",
+          "quote": "Gavrilo Princip shot Archduke Franz Ferdinand and his wife Sophie, setting off the July Crisis."
+        },
+        {
+          "file": "src/content/en/battles/battle-of-tannenberg.md",
+          "quote": "Samsonov's Russian Second Army was encircled and destroyed in the south of East Prussia."
+        },
+        {
+          "file": "src/content/en/timeline/germans-retreat-from-the-marne.md",
+          "quote": "the German 1st and 2nd Armies began to retreat from the Marne"
+        }
       ]
     }
   ],
@@ -153,8 +213,8 @@
         "en": "Germany demands passage through neutral Belgium. This ultimatum becomes one of the key reasons why Great Britain enters the war."
       },
       "quote": {
-        "pl": "Ultimatum z 2 sierpnia stało się jednym z kluczowych powodów, dla których do wojny przystąpiła Wielka Brytania.",
-        "en": "The ultimatum of 2 August became one of the key reasons why Great Britain entered the war."
+        "pl": "O ultimatum wobec Belgii następnego dnia dowiedziała się brytyjska Izba Gmin i to ono przesądziło o stanowisku Londynu.",
+        "en": "The next day the British House of Commons learned of the ultimatum to Belgium, and it was this that decided London's position."
       }
     },
     {

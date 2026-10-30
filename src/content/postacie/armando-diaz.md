@@ -26,7 +26,7 @@ Armando Diaz objął dowództwo armii włoskiej 8 listopada 1917 roku, gdy po kl
 
 ## Przed wojną
 
-Urodził się 5 grudnia 1861 roku w [Neapolu](https://pl.wikipedia.org/wiki/Neapol), w rodzinie oficera marynarki pochodzenia hiszpańskiego. Ukończył neapolitańską szkołę wojskową Nunziatella i akademię artylerii w Turynie, a w 1884 roku rozpoczął służbę w artylerii polowej. W 1894 roku ukończył szkołę wojenną z pierwszą lokatą i przez następne lata przeplatał służbę w sztabie generalnym z dowodzeniem batalionem i pułkiem. W czasie [wojny włosko-tureckiej](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka) dowodził w Libii 93 pułkiem piechoty i w 1912 roku został ranny pod Zanzurem. Po powrocie pracował w sekretariacie szefa sztabu generała Alberta Pollia, a po jego nagłej śmierci w lipcu 1914 roku pozostał przy nowym szefie sztabu, [Luigim Cadornie](/postacie/luigi-cadorna).
+Urodził się 5 grudnia 1861 roku w [Neapolu](https://pl.wikipedia.org/wiki/Neapol), w rodzinie oficera marynarki pochodzenia hiszpańskiego. Ukończył neapolitańską szkołę wojskową Nunziatella i akademię artylerii w Turynie, a w 1884 roku rozpoczął służbę w artylerii polowej. W 1894 roku ukończył szkołę wojenną z pierwszą lokatą i przez następne lata przeplatał służbę w sztabie generalnym z dowodzeniem batalionem i pułkiem. W czasie [wojny włosko-tureckiej](/wybucha-wojna-wlosko-turecka) dowodził w Libii 93 pułkiem piechoty i w 1912 roku został ranny pod Zanzurem. Po powrocie pracował w sekretariacie szefa sztabu generała Alberta Pollia, a po jego nagłej śmierci w lipcu 1914 roku pozostał przy nowym szefie sztabu, [Luigim Cadornie](/postacie/luigi-cadorna).
 
 ## Pod Cadorną
 

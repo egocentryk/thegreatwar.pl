@@ -20,7 +20,7 @@ Brytyjska chronologia wojny odnotowuje mianowanie Sonnina pod datą 3 listopada.
 
 Urodził się w 1847 roku w [Pizie](https://pl.wikipedia.org/wiki/Piza). Jego ojciec był włoskim Żydem, który przeszedł na anglikanizm, a matka Walijką. Z wykształcenia prawnik, zasłynął jako badacz nędzy chłopów sycylijskich, a potem jako polityk liberalnej prawicy i minister skarbu. Dwukrotnie był premierem, w 1906 oraz na przełomie 1909 i 1910 roku, ale żaden z jego rządów nie przetrwał dłużej niż kilka miesięcy. Uchodził za człowieka nieprzejednanego, surowego i małomównego, ale też uczciwego i pracowitego.
 
-W pierwszych dniach wojny Sonnino uważał, że Włochy powinny dochować wierności [trójprzymierzu](https://pl.wikipedia.org/wiki/Trójprzymierze). Szybko jednak przyjął rację Salandry i San Giuliana: neutralność daje czas na uzbrojenie armii i pozwala czekać na najlepszą okazję. Jako minister kontynuował politykę „świętego egoizmu”, czyli targowania się z obiema stronami o jak najwyższą cenę za włoską neutralność albo za przystąpienie do wojny.
+W pierwszych dniach wojny Sonnino uważał, że Włochy powinny dochować wierności [trójprzymierzu](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Szybko jednak przyjął rację Salandry i San Giuliana: neutralność daje czas na uzbrojenie armii i pozwala czekać na najlepszą okazję. Jako minister kontynuował politykę „świętego egoizmu”, czyli targowania się z obiema stronami o jak najwyższą cenę za włoską neutralność albo za przystąpienie do wojny.
 
 ## Droga do traktatu londyńskiego
 

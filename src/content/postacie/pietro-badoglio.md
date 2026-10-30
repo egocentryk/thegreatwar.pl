@@ -26,7 +26,7 @@ Pietro Badoglio zrobił w czasie pierwszej wojny światowej karierę bez precede
 
 ## Przed wojną
 
-Urodził się 28 września 1871 roku w Grazzano Monferrato w Piemoncie, w rodzinie skromnych właścicieli ziemskich. Wieś, w której później zmarł, nosi dziś jego nazwisko. Ukończył akademię artylerii i inżynierii w Turynie, w 1890 roku został podporucznikiem artylerii. Po klęsce pod Aduą w 1896 roku zgłosił się na ochotnika do Erytrei, gdzie spędził ponad dwa lata. Po powrocie ukończył szkołę wojenną, służył w sztabie generalnym w Rzymie i dał się poznać jako oficer inteligentny i pracowity, choć szorstki i skryty. W czasie [wojny włosko-tureckiej](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka) w Libii pracował w sztabie korpusu, przygotował udaną operację pod Zanzurem i za zasługi wojenne awansował na majora. 25 lutego 1915 roku, gdy Włochy szykowały się do wojny, został podpułkownikiem sztabu generalnego.
+Urodził się 28 września 1871 roku w Grazzano Monferrato w Piemoncie, w rodzinie skromnych właścicieli ziemskich. Wieś, w której później zmarł, nosi dziś jego nazwisko. Ukończył akademię artylerii i inżynierii w Turynie, w 1890 roku został podporucznikiem artylerii. Po klęsce pod Aduą w 1896 roku zgłosił się na ochotnika do Erytrei, gdzie spędził ponad dwa lata. Po powrocie ukończył szkołę wojenną, służył w sztabie generalnym w Rzymie i dał się poznać jako oficer inteligentny i pracowity, choć szorstki i skryty. W czasie [wojny włosko-tureckiej](/wybucha-wojna-wlosko-turecka) w Libii pracował w sztabie korpusu, przygotował udaną operację pod Zanzurem i za zasługi wojenne awansował na majora. 25 lutego 1915 roku, gdy Włochy szykowały się do wojny, został podpułkownikiem sztabu generalnego.
 
 ## Monte Sabotino
 

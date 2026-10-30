@@ -2,10 +2,10 @@
 title: Germany breaks off relations with Italy
 summary: On 24 May 1915 Germany broke off diplomatic relations with Italy, which had declared war on Austria-Hungary. Yet Berlin and Rome did not go to war.
 source: niemcy-zrywaja-stosunki-z-wlochami
-sourceHash: c436942a8d9c9babddfc6b211dfffc1e6b94d06f
+sourceHash: 5a9ee48231139ad8f35af2f5ae9d5a7f91e8c8b8
 ---
 
-The British chronology of the war records under 24 May 1915 that Germany broke off diplomatic relations with Italy. The day before, Italy had [declared war on Austria-Hungary](/wlochy-wypowiadaja-wojne-austro-wegrom), but not on Germany, to which it had been bound for more than thirty years by the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze). Berlin did not wait. According to Italian diplomatic documents published later, the German ambassador in Rome informed the Foreign Minister, [Sidney Sonnino](/postacie/sidney-sonnino), that he was asking for his passports, since he had received word that Italy considered itself to be at war with Austria-Hungary. An identical note was delivered by the minister of Bavaria, which maintained its own legation in Rome.
+The British chronology of the war records under 24 May 1915 that Germany broke off diplomatic relations with Italy. The day before, Italy had [declared war on Austria-Hungary](/wlochy-wypowiadaja-wojne-austro-wegrom), but not on Germany, to which it had been bound for more than thirty years by the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Berlin did not wait. According to Italian diplomatic documents published later, the German ambassador in Rome informed the Foreign Minister, [Sidney Sonnino](/postacie/sidney-sonnino), that he was asking for his passports, since he had received word that Italy considered itself to be at war with Austria-Hungary. An identical note was delivered by the minister of Bavaria, which maintained its own legation in Rome.
 
 ## The ambassadors leave
 

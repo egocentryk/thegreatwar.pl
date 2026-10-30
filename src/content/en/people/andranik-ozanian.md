@@ -6,7 +6,7 @@ country: Armenia
 birthPlace: Şebinkarahisar (Ottoman Empire)
 deathPlace: Richardson Springs (California, United States)
 source: andranik-ozanian
-sourceHash: 68551af6bda995bf6158ad0674b52b02577afcfc
+sourceHash: f9b0e29e2af8b19564d214971039cd151d77ba6c
 ---
 
 Andranik Ozanian, known simply as Andranik or General (Armenian: zoravar) Andranik, was the most famous Armenian guerrilla of the turn of the 19th and 20th centuries and one of the most legendary figures in the history of his nation. For more than a decade he fought Ottoman and Kurdish forces in the mountains of Turkish Armenia, in the Balkan War he fought on the side of Bulgaria, and during the Great War he commanded a unit of Armenian volunteers in the Russian army. In 1918, when the Russian army fell apart and the Turks advanced into Transcaucasia, he defended Erzurum, and then, refusing to recognise the peace concluded by the young Republic of Armenia, he fought on his own account in Nakhichevan and Zangezur. For Armenians he is a national hero. Azerbaijani historians, and some Western ones, hold his units responsible for violence against the Muslim population.
@@ -17,7 +17,7 @@ He was born on 25 February 1865 in [Şebinkarahisar](https://pl.wikipedia.org/wi
 
 During the [Hamidian massacres](https://pl.wikipedia.org/wiki/Masakry_hamidiańskie) of 1894–1896 he defended villages around [Muş](https://pl.wikipedia.org/wiki/Muş) and in the mountains of Sasun together with other fedayi (Armenian guerrillas), and after the death of the famous leader Aghbiur Serob in 1899 he took command of the local bands. He won fame with his escape in 1901 from the Monastery of the Holy Apostles near Muş, which was besieged by the army. In 1904 he led the uprising in Sasun, bloodily suppressed by the Ottoman army. He crossed Persia to the Caucasus and then left for Europe. In 1907 he broke with the Dashnaks when they decided to co-operate with the Young Turks against the Sultan. He never returned to the party, and this aversion weighed on his later relations with the authorities of Armenia.
 
-He settled in Bulgaria. In the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska), together with [Garegin Nzhdeh](https://pl.wikipedia.org/wiki/Garegin_Nyżdeh), he commanded a company of about 230 Armenian volunteers in the Macedonian-Adrianopolitan Corps of the Bulgarian army. He was described at the time by [Leon Trotsky](/postacie/lew-trocki), then a war correspondent. Andranik received a Bulgarian order for bravery, but when Bulgaria went to war with its former allies he disbanded the company and settled in a village near [Varna](https://pl.wikipedia.org/wiki/Warna).
+He settled in Bulgaria. In the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska), together with [Garegin Nzhdeh](https://pl.wikipedia.org/wiki/Garegin_Nyżdeh), he commanded a company of about 230 Armenian volunteers in the Macedonian-Adrianopolitan Corps of the Bulgarian army. He was described at the time by [Leon Trotsky](/postacie/lew-trocki), then a war correspondent. Andranik received a Bulgarian order for bravery, but when Bulgaria went to war with its former allies he disbanded the company and settled in a village near [Varna](https://pl.wikipedia.org/wiki/Warna).
 
 ## 1914–1916: the volunteer unit
 

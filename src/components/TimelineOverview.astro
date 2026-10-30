@@ -1,10 +1,10 @@
 ---
-// The whole timeline, opened at its first year. Used by /timeline and /en/timeline.
+// The whole timeline, opened at its first war year. Used by /timeline and /en/timeline.
 import SectionHeading from "@/components/SectionHeading.astro"
 import TimelineArchive from "@/components/TimelineArchive.astro"
 import { locale, type Lang } from "@/i18n"
 import { localEvents } from "@/i18n/local"
-import { groupTimelineEntries } from "@/utils/groupTimelineEntries"
+import { groupTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
 
 interface Props {
   lang?: Lang
@@ -13,7 +13,8 @@ interface Props {
 const { lang = "pl" } = Astro.props
 const allTimeline = await localEvents(lang)
 const timelineByYear = groupTimelineEntries(allTimeline, locale(lang))
-const defaultYear = timelineByYear[0]?.year
+// The years before the war have their own page, "Przed wojną".
+const defaultYear = timelineByYear.find((group) => !isPreWar(group.year))?.year
 ---
 
 <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">

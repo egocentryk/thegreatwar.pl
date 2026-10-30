@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Brzeżany (Austria-Hungary)
 deathPlace: Warsaw
 source: edward-rydz-smigly
-sourceHash: ed8859a37f80781fb047c4c5f66e48266c6b272e
+sourceHash: d6e3682b121b2ba990b11cad858839a8cb8ffe4d
 ---
 
 Edward Rydz, known during the Great War mainly by his pseudonym "Śmigły", was one of the ablest line officers the Legions produced. A painter by training, for three years he commanded the 1st Infantry Regiment of the First Brigade, the most experienced unit of [Józef Piłsudski](/postacie/jozef-pilsudski). His greatest role, however, came while the Commandant sat in a German prison. From the summer of 1917 Rydz led the [Polish Military Organisation](https://pl.wikipedia.org/wiki/Polska_Organizacja_Wojskowa), the underground that in November 1918 disarmed the partitioning powers' troops and carried the independence left to power. In the Lublin government of [Ignacy Daszyński](/postacie/ignacy-daszynski) he was minister of war. He later became a Marshal of Poland and commander-in-chief in 1939, but that part of his life lies outside the Great War.
@@ -15,7 +15,7 @@ Edward Rydz, known during the Great War mainly by his pseudonym "Śmigły", was 
 
 He was born on 11 March 1886 in [Brzeżany](https://pl.wikipedia.org/wiki/Brzeżany) in Eastern Galicia. His father, an uhlan NCO and later a police sergeant, died when Edward was two, and his mother when he was ten. He was brought up by his poor grandfather and then by a friendly family of the intelligentsia, thanks to whom he was able to study. In 1905 he passed his school-leaving examination at the Brzeżany gymnasium, where he belonged to youth independence organisations, and began studying at the [Academy of Fine Arts](https://pl.wikipedia.org/wiki/Akademia_Sztuk_Pięknych_im._Jana_Matejki_w_Krakowie) in Kraków under Leon Wyczółkowski and Teodor Axentowicz.
 
-In 1908 he joined the [Union of Active Struggle](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej), the secret military organisation of Piłsudski's camp. In 1910–1911 he did his one-year service in the Austro-Hungarian army in Vienna, which he treated as a school for the future struggle for independence. In the Riflemen's movement he used the pseudonym "Śmigły". In 1912 he completed the officer courses of the Riflemen's Association and ran a Riflemen's course in Kraków, and in 1913 he became commandant of the Lwów district and editor of the monthly "Strzelec". He returned to the Academy and finished his studies just before the war. Piłsudski already thought highly of him.
+In 1908 he joined the [Union of Active Struggle](/powstaje-zwiazek-walki-czynnej), the secret military organisation of Piłsudski's camp. In 1910–1911 he did his one-year service in the Austro-Hungarian army in Vienna, which he treated as a school for the future struggle for independence. In the Riflemen's movement he used the pseudonym "Śmigły". In 1912 he completed the officer courses of the Riflemen's Association and ran a Riflemen's course in Kraków, and in 1913 he became commandant of the Lwów district and editor of the monthly "Strzelec". He returned to the Academy and finished his studies just before the war. Piłsudski already thought highly of him.
 
 ## 1914–1916: in the First Brigade
 

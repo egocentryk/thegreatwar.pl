@@ -9,7 +9,7 @@ sides:
     commanders: [Arthur Arz von Straußenburg, Erich von Falkenhayn]
 result: Central Powers victory. By mid-October the Romanians had been driven out of almost all of Transylvania, but their armies withdrew behind the Carpathians and held the passes.
 source: bitwa-o-siedmiogrod
-sourceHash: 3be657b7c6a19938358f1d011067c7f3f82a4b09
+sourceHash: f89f042401d49f125b42e8d08fa5675b04d2a19b
 brief:
   - "On the evening of 27 August 1916, at the hour of the declaration of war on Austria-Hungary, three Romanian armies set off through the Carpathian passes into Transylvania, whose conquest was the aim of the whole war."
   - "General Arz von Straußenburg's weak units fell back, and on 29 August the Romanians took Brașov, but the offensive soon lost momentum and after the defeat in Dobruja the Romanian command halted it."
@@ -36,7 +36,7 @@ Austria-Hungary had long reckoned with Romania's entry into the war, but after t
 
 ## Forces and plans
 
-According to the Austrian official history, the Romanian army at the moment of entering the war numbered about 564,000 men in the field, in 20 infantry divisions (in September three more were created by division) and two cavalry divisions. It had about 1,300 guns, of which only about 760 were modern. It lacked heavy artillery, machine guns, ammunition and experience. It had last fought in the short and almost bloodless campaign against Bulgaria in the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) in 1913.
+According to the Austrian official history, the Romanian army at the moment of entering the war numbered about 564,000 men in the field, in 20 infantry divisions (in September three more were created by division) and two cavalry divisions. It had about 1,300 guns, of which only about 760 were modern. It lacked heavy artillery, machine guns, ammunition and experience. It had last fought in the short and almost bloodless campaign against Bulgaria in the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) in 1913.
 
 The war plan, known in the literature as "Hypothesis Z" and drawn up under the direction of the Chief of the General Staff, General Vasile Zottu, sent three quarters of the army into Transylvania. The Northern (Fourth) Army of General [Constantin Prezan](/postacie/constantin-prezan) was to cross the passes of the [Eastern Carpathians](https://pl.wikipedia.org/wiki/Karpaty_Wschodnie) into the basins of the Székely Land, the Second Army of General [Alexandru Averescu](/postacie/alexandru-averescu) was to take Brașov and the valley of the [Olt](https://pl.wikipedia.org/wiki/Aluta) near [Făgăraș](https://pl.wikipedia.org/wiki/Fogarasz), and the First Army of General Ioan Culcer was to cross the [Southern Carpathians](https://pl.wikipedia.org/wiki/Karpaty_Południowe) near Sibiu, in the Jiu valley and on the Danube near [Orșova](https://pl.wikipedia.org/wiki/Orszowa). The three armies were then to make a great wheel to the west, seize the line of the Mureș and, after about six weeks, stand before Cluj and at the gates of the [Great Hungarian Plain](https://pl.wikipedia.org/wiki/Wielka_Nizina_Węgierska). The Third Army was meanwhile to defend the Danube and Dobruja against the Bulgarians. The Austrian official history notes that the plan took no account at all of the participation of German troops.
 

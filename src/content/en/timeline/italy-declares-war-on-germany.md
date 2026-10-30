@@ -2,7 +2,7 @@
 title: Italy declares war on Germany
 summary: On 27 August 1916 Sonnino sent a declaration through the Swiss government that from 28 August Italy considered itself at war with Germany.
 source: wlochy-wypowiadaja-wojne-niemcom
-sourceHash: a0e6c8f0e4a053709f19d1c4319e559d8ff6bdd7
+sourceHash: 45e600f57e25eea6e877fe19f7cbf218f0cc9ce9
 brief:
   - "On 27 August 1916 the Italian foreign minister, Sidney Sonnino, sent a declaration through the Swiss government that from 28 August Italy considered itself at war with Germany."
   - "Italy had been fighting Austria-Hungary since May 1915 but was formally at peace with Germany. In practice the two stood on opposite sides, and in 1916 both hardened their economic measures."
@@ -17,7 +17,7 @@ At the same time [Romania declared war on Austria-Hungary](/rumunia-wypowiada-wo
 
 ## The war that was not
 
-Italy had been fighting Austria-Hungary since May 1915. It had [declared war](/wlochy-wypowiadaja-wojne-austro-wegrom) only on the Habsburg monarchy, although only a few weeks earlier it had still been bound to Vienna and Berlin by the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze). Later the Italians declared war on the Ottoman Empire and Bulgaria, but not on Germany. Berlin [broke off diplomatic relations with Rome](/niemcy-zrywaja-stosunki-z-wlochami), the ambassadors left, and Switzerland took over the protection of both states' interests. Yet neither side declared war.
+Italy had been fighting Austria-Hungary since May 1915. It had [declared war](/wlochy-wypowiadaja-wojne-austro-wegrom) only on the Habsburg monarchy, although only a few weeks earlier it had still been bound to Vienna and Berlin by the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). Later the Italians declared war on the Ottoman Empire and Bulgaria, but not on Germany. Berlin [broke off diplomatic relations with Rome](/niemcy-zrywaja-stosunki-z-wlochami), the ambassadors left, and Switzerland took over the protection of both states' interests. Yet neither side declared war.
 
 This state of affairs suited the government of [Antonio Salandra](/postacie/antonio-salandra). It presented the war as the final act of the country's unification, a struggle for Trento and Trieste against the age-old enemy in Vienna. Italy had no border disputes with Germany, but it did have strong economic ties: German capital was present in Italian banks and industry, and many Italian workers had worked in Germany before the war. As late as 21 May 1915 the German ambassador, Prince [Bernhard von Bülow](https://pl.wikipedia.org/wiki/Bernhard_von_Bülow), had brought about an agreement concluded by the Secretary of State [Gottlieb von Jagow](https://pl.wikipedia.org/wiki/Gottlieb_von_Jagow) with the Italian ambassador in Berlin, Riccardo Bollati. In it both states undertook to respect the private property and rights of the other side's citizens.
 

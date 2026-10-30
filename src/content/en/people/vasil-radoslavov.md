@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Lovech (Ottoman Empire, now Bulgaria)
 deathPlace: Berlin (Germany)
 source: wasil-radoslawow
-sourceHash: 1255b9311759053466c0ce4deffbc6bbd74a6be7
+sourceHash: 004231237b13e018ee4be7a22c9426a3fee3abaf
 ---
 
 Vasil Radoslavov was Prime Minister of Bulgaria for almost the whole of its war, from July 1913 to June 1918, and for most of that time he also directed its diplomacy. An experienced lawyer and leader of the Liberals, known after him as Radoslavists, he had admired Germany and distrusted Russia since his youth. Together with Tsar [Ferdinand I](/postacie/ferdynand-i-koburg) he kept the country neutral for a year while negotiating with both sides, and on 6 September 1915 he signed the alliance with Germany that hurled Bulgaria against Serbia. He fell in the spring of 1918, when the peace with Romania disappointed the Bulgarians. After the war he fled to Germany, and at home he was convicted in absentia as one of those guilty of the second national catastrophe.
@@ -17,7 +17,7 @@ He was born on 27 July 1854 (15 July in the Julian calendar) in [Lovech](https:/
 
 He was one of the young leaders of the Liberal Party. From 1884 to 1886 he was Minister of Justice in the government of [Petko Karavelov](https://pl.wikipedia.org/wiki/Petko_Karawełow). After the coup of August 1886 and the abdication of Prince Alexander of Battenberg he became head of the government and, at 32, the youngest prime minister in Bulgaria's history. He stepped down in July 1887 amid accusations of corruption, and his supporters formed a separate [Liberal Party, known as the Radoslavists](https://pl.wikipedia.org/wiki/Partia_Liberalna_(radosławiści)). For years it was in opposition to the government of [Stefan Stambolov](https://pl.wikipedia.org/wiki/Stefan_Stambołow). In 1899–1900 Radoslavov was Minister of the Interior and at that time suppressed peasant revolts against a new tax. For abuses during this period a state court sentenced him in 1903 to several months in prison, but he was soon amnestied.
 
-He returned to power after the defeat in the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska). On 17 July 1913 the Tsar entrusted him with a coalition government of three liberal parties, which had to conclude the humiliating [Peace of Bucharest](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1913)). From December 1913 Radoslavov also headed the Ministry of Foreign Affairs. According to historians, the Tsar valued him precisely for his hostility to Russia, which was blamed for the defeat, and the two worked closely together on foreign policy. The government had little support in parliament and had to dissolve the chamber several times before it won a majority there.
+He returned to power after the defeat in the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska). On 17 July 1913 the Tsar entrusted him with a coalition government of three liberal parties, which had to conclude the humiliating [Peace of Bucharest](/pokoj-bukaresztenski-konczy-druga-wojne-balkanska). From December 1913 Radoslavov also headed the Ministry of Foreign Affairs. According to historians, the Tsar valued him precisely for his hostility to Russia, which was blamed for the defeat, and the two worked closely together on foreign policy. The government had little support in parliament and had to dissolve the chamber several times before it won a majority there.
 
 ## Summer 1914: German money
 

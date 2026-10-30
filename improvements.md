@@ -2027,6 +2027,78 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 36. Before the war: the "Przed wojną" era, 20 articles (2026-10-30)
+
+- 20 timeline articles, 1879–1913, PL and EN (brief
+  `scripts/briefs/before-the-war.md`, checked with `scripts/checks/expand.py`):
+  the alliances (Dual Alliance, Triple Alliance, the Reinsurance Treaty's
+  lapse, the Franco-Russian alliance), Britain and the naval race (first
+  Navy Law, Entente cordiale, HMS Dreadnought, the 1907 convention), the
+  crises (Tangier, Algeciras, Bosnia, Agadir), the Balkans (the
+  Italo-Turkish war, both Balkan Wars, the treaties of London and
+  Bucharest) and the Polish preparations (ZWC, Związek Strzelecki, KTSSN).
+  468–673 words, 3–8 sources each; no milestones, no battle pages, no
+  `front`. Two new tags: "wojny bałkańskie", "kryzysy marokańskie".
+- Scope agreed with the owner: thesecondwar.pl covers the roots of WWII in
+  Asia from 1895 (Queen Min, Portsmouth, Korea), so this era is European
+  and Polish only; the Russo-Japanese War gets a clause at most.
+- One era page instead of a page per year: `/timeline/przed-wojna`,
+  `/en/timeline/before-the-war`, "Przed wojną" / "Before the war" first in
+  the year menu. `WAR_START_YEAR` / `isPreWar` in
+  `src/utils/groupTimelineEntries.ts`; `paths().year()` and `.month()`
+  send pre-war years to the era page (months as anchors `#1908-10`), so
+  breadcrumbs, person-page and glossary lists link correctly; year and
+  month pages are not generated for those years. The era page reuses the
+  year-page layout (heading and "W skrócie" in a sticky column, years and
+  months beside it); the month list is now its own component,
+  `TimelineMonth.astro`.
+- Kept to the war itself: `/timeline` opens at 1914, the homepage period
+  ("VI 1914 – XII 1918"), "On this day" and the random days skip pre-war
+  articles (`calendarPool.ts`); long tag/category lists keep pre-war
+  entries on their first page (`listYear` in `filteredPages.ts`).
+- "W skrócie" for the era: `scripts/evidence/year-intros/przed-wojna.json`
+  (`"year": "przed-wojna"`), every sentence backed by quotes, built into
+  `src/data/year-intros.json` with the year intros.
+- Links into the era: `wiki-to-internal.py` gained `EVENTS` (pl.wiki title →
+  timeline article, linked only from later content): 94 files (articles,
+  battles, guides, people, PL and EN) now link our articles for the Dual
+  and Triple Alliances, the Franco-Russian alliance, the Entente cordiale,
+  Dreadnought, the Bosnian crisis, the Italo-Turkish and Balkan Wars, the
+  1913 treaties, ZWC, Związek Strzelecki and KTSSN. Glossary main pages
+  moved to the new articles for kryzysy marokańskie, wojny bałkańskie,
+  Związek Strzelecki and drednot; ententa and państwa centralne list them.
+- Fixes from the writers' research: Serbia "nearly doubled its territory"
+  (not territory and population) in the causes guide and the glossary; the
+  Balkan allies joined on 18 X (glossary); the second Moroccan crisis ended
+  in November (guide); KTSSN, not the Galician "Komisja Skonfederowanych…",
+  appointed Piłsudski on 1 XII 1912 (person page); Adrianople went back to
+  Turkey by the September 1913 treaty, not Bucharest (Ferdinand page).
+- Regression fixed: the §34 rewrites had broken 25 verbatim quotes in the
+  guide, series and year-intro evidence (checkers now 0 problems). Two
+  guide sentences changed to match the corrected articles: French
+  mobilisation "nearly three million", Kalisz "many inhabitants fled" (by
+  22 VIII). Port note: after rewriting articles, re-run `topics.py`,
+  `series.py` and `year-intros.py`.
+
+### Writers' notes (for the review list)
+
+- Dates the writers chose where sources differ: ZWC 17 VI 1908 (only MHP
+  gives the day); Związek Strzelecki 23 IV 1910 (also 25 IV, and 23 III for
+  the permit); Bosnia 6 X 1908 (4, 5, 6 and 7 X all in the literature);
+  Bulgaria's attack 29 VI 1913 (the night of 29/30); Navy Law 10 IV 1898
+  (the law itself; Reichstag vote late March).
+- `postacie/konstantyn-i` and `elefterios-wenizelos`: Greece's territory
+  "nearly doubled" in 1913; sources give about +68%.
+- `panstwa-centralne-i-ententa` and glossary `ententa`: "sojusz
+  francusko-rosyjski z 1892 roku" — the convention was signed in 1892 but
+  binding only from 4 I 1894.
+- pl.wiki pages missing for Aehrenthal, Kiderlen-Waechter, Holstein,
+  Giers, Kálnoky, Narodna Odbrana, Bregalnica, Kilkis, the 1913 Treaty of
+  Constantinople; "SMS Panther", "Mansion House", "Sazonow", "Tybet" are
+  disambiguation pages.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2118,6 +2190,7 @@ finished, tick it here and add its section above.
 - [x] Short articles expanded: 10 milestones and 20 key events, with
   sources, PL/EN (§34)
 - [x] Glossary, second batch: 50 terms (134 in all), PL/EN (§35)
+- [x] Before the war: "Przed wojną" era page, 20 articles 1879–1913, PL/EN (§36)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

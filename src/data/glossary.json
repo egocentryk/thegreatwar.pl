@@ -477,8 +477,8 @@
    "In the war dreadnoughts formed the core of the British Grand Fleet and the German High Seas Fleet, but both sides avoided risking them. The only great clash of dreadnought fleets was the Battle of Jutland in 1916. Older, less valuable battleships were sent on secondary tasks, such as bombarding the coast at the Dardanelles, where several were sunk by mines and torpedoes. Superiority in dreadnoughts let Britain maintain its naval blockade of Germany."
   ],
   "see": [
+   "wodowanie-hms-dreadnought",
    "bitwy/bitwa-jutlandzka",
-   "poczatek-bitwy-jutlandzkiej",
    "amerykanskie-pancerniki-w-grand-fleet",
    "postacie/john-fisher",
    "tematy/przyczyny-i-wojny-swiatowej"
@@ -602,10 +602,10 @@
   ],
   "see": [
    "pakt-londynski",
+   "wielka-brytania-i-francja-zawieraja-entente-cordiale",
+   "wielka-brytania-i-rosja-podpisuja-konwencje-petersburska",
    "deklaracja-wersalska",
-   "japonia-przystepuje-do-paktu-londynskiego",
    "traktat-rumunii-z-ententa",
-   "ententa-odrzuca-niemiecka-oferte-pokojowa",
    "tematy/panstwa-centralne-i-ententa"
   ],
   "sources": [
@@ -1817,10 +1817,10 @@
   ],
   "see": [
    "traktat-sojuszniczy-w-sofii",
+   "niemcy-i-austro-wegry-zawieraja-dwuprzymierze",
    "tajny-sojusz-niemiec-i-imperium-osmanskiego",
    "wlochy-wypowiadaja-trojprzymierze",
    "akt-5-listopada",
-   "panstwa-centralne-atakuja-serbie",
    "tematy/panstwa-centralne-i-ententa"
   ],
   "sources": [
@@ -3623,18 +3623,19 @@
   "short": "Dwie wojny z lat 1912–1913: państwa Ligi Bałkańskiej odebrały Turcji prawie całe jej ziemie w Europie, a potem Bułgaria przegrała z dawnymi sojusznikami spór o Macedonię. Zostawiły napięcia, które wybuchły w 1914 roku.",
   "shortEn": "Two wars of 1912–1913: the Balkan League states took almost all of Turkey's European lands, and then Bulgaria lost a war with its former allies over Macedonia. They left tensions that exploded in 1914.",
   "long": [
-   "Bułgaria, Serbia, Grecja i Czarnogóra zawarły w 1912 roku sojusz wymierzony w Imperium Osmańskie, zwany Ligą Bałkańską. 8 października Czarnogóra wypowiedziała Turcji wojnę, a dziewięć dni później dołączyli jej sojusznicy. Turcy przegrali w Macedonii i Tracji, Grecy zajęli Saloniki, a Bułgarzy doszli pod Konstantynopol. Pokój londyński z 30 maja 1913 roku zostawił Turcji w Europie tylko skrawek Tracji, a mocarstwa zgodziły się utworzyć niepodległą Albanię.",
-   "Bułgaria, niezadowolona z podziału Macedonii, w nocy z 29 na 30 czerwca 1913 roku zaatakowała Serbię i Grecję. Przeciw niej wystąpiły też Rumunia i Turcja, która odzyskała Adrianopol. Pokój bukareszteński z 10 sierpnia 1913 roku odebrał Bułgarii większość zdobyczy w Macedonii i południową Dobrudżę. Serbia podwoiła obszar i ludność, co Austro-Węgry uznały za zagrożenie, a Bułgaria i Turcja, szukając odwetu, przyłączyły się w czasie wielkiej wojny do państw centralnych. Wielu dowódców z lat 1914–1918 zdobywało doświadczenie właśnie w tych wojnach."
+   "Bułgaria, Serbia, Grecja i Czarnogóra zawarły w 1912 roku sojusz wymierzony w Imperium Osmańskie, zwany Ligą Bałkańską. 8 października Czarnogóra wypowiedziała Turcji wojnę, a 18 października dołączyli do niej sojusznicy. Turcy przegrali w Macedonii i Tracji, Grecy zajęli Saloniki, a Bułgarzy doszli pod Konstantynopol. Pokój londyński z 30 maja 1913 roku zostawił Turcji w Europie tylko skrawek Tracji, a mocarstwa zgodziły się utworzyć niepodległą Albanię.",
+   "Bułgaria, niezadowolona z podziału Macedonii, w nocy z 29 na 30 czerwca 1913 roku zaatakowała Serbię i Grecję. Przeciw niej wystąpiły też Rumunia i Turcja, która odzyskała Adrianopol. Pokój bukareszteński z 10 sierpnia 1913 roku odebrał Bułgarii większość zdobyczy w Macedonii i południową Dobrudżę. Serbia prawie podwoiła obszar, co Austro-Węgry uznały za zagrożenie, a Bułgaria i Turcja, szukając odwetu, przyłączyły się w czasie wielkiej wojny do państw centralnych. Wielu dowódców z lat 1914–1918 zdobywało doświadczenie właśnie w tych wojnach."
   ],
   "longEn": [
-   "Bulgaria, Serbia, Greece and Montenegro formed an alliance against the Ottoman Empire in 1912, known as the Balkan League. On 8 October Montenegro declared war on Turkey, and its allies followed nine days later. The Turks were defeated in Macedonia and Thrace, the Greeks took Salonika and the Bulgarians reached the approaches to Constantinople. The Treaty of London of 30 May 1913 left Turkey only a strip of Thrace in Europe, and the great powers agreed to create an independent Albania.",
-   "Dissatisfied with the division of Macedonia, Bulgaria attacked Serbia and Greece on the night of 29–30 June 1913. Romania and Turkey, which recovered Adrianople, also turned against it. The Treaty of Bucharest of 10 August 1913 stripped Bulgaria of most of its gains in Macedonia and of southern Dobruja. Serbia doubled its territory and population, which Austria-Hungary saw as a threat, while Bulgaria and Turkey, seeking revenge, joined the Central Powers in the Great War. Many commanders of 1914–1918 gained their experience in these wars."
+   "Bulgaria, Serbia, Greece and Montenegro formed an alliance against the Ottoman Empire in 1912, known as the Balkan League. On 8 October Montenegro declared war on Turkey, and its allies followed on 18 October. The Turks were defeated in Macedonia and Thrace, the Greeks took Salonika and the Bulgarians reached the approaches to Constantinople. The Treaty of London of 30 May 1913 left Turkey only a strip of Thrace in Europe, and the great powers agreed to create an independent Albania.",
+   "Dissatisfied with the division of Macedonia, Bulgaria attacked Serbia and Greece on the night of 29–30 June 1913. Romania and Turkey, which recovered Adrianople, also turned against it. The Treaty of Bucharest of 10 August 1913 stripped Bulgaria of most of its gains in Macedonia and of southern Dobruja. Serbia nearly doubled its territory, which Austria-Hungary saw as a threat, while Bulgaria and Turkey, seeking revenge, joined the Central Powers in the Great War. Many commanders of 1914–1918 gained their experience in these wars."
   ],
   "see": [
-   "stan-wojny-miedzy-serbia-a-turcja",
+   "czarnogora-rozpoczyna-pierwsza-wojne-balkanska",
+   "bulgaria-rozpoczyna-druga-wojne-balkanska",
+   "pokoj-bukaresztenski-konczy-druga-wojne-balkanska",
    "postacie/radomir-putnik",
    "postacie/radko-dimitriew",
-   "postacie/konstantyn-i",
    "tematy/przyczyny-i-wojny-swiatowej"
   ],
   "sources": [
@@ -3666,11 +3667,11 @@
    "The second, or Agadir, crisis began when the French sent troops to Fez in the spring of 1911 and Germany sent the gunboat Panther to Agadir on 1 July, demanding compensation. On 21 July David Lloyd George warned at the Mansion House that Britain would not accept humiliation. By the agreement of 4 November 1911 Germany recognised French control of Morocco in return for part of the French Congo, added to Cameroon, and in 1912 the Treaty of Fez established a French protectorate. The crisis also drew Britain and France together at sea."
   ],
   "see": [
+   "wilhelm-ii-laduje-w-tangerze",
+   "konferencja-w-algeciras-konczy-pierwszy-kryzys-marokanski",
+   "niemiecka-kanonierka-panther-wplywa-do-agadiru",
    "wielka-brytania-uznaje-traktat-feski",
-   "delcasse-ministrem-spraw-zagranicznych",
-   "general-dobell-dowodca-wyprawy-do-kamerunu",
    "postacie/wilhelm-ii",
-   "postacie/edward-grey",
    "tematy/przyczyny-i-wojny-swiatowej"
   ],
   "sources": [
@@ -3766,8 +3767,9 @@
    "According to various figures the Association had between 6,400 and 8,000 trained members in 1914, and the Squads about 6,000. From them came the First Cadre Company, which marched out on 6 August 1914, and then the I Brigade of the Legions. In the Kingdom of Poland the Warsaw Squads and the Union of Active Struggle merged in the autumn of 1914 into the Polish Military Organisation. \"Riflemen\" remained the common name for Piłsudski's soldiers."
   ],
   "see": [
+   "powstaje-zwiazek-strzelecki",
+   "powstaje-zwiazek-walki-czynnej",
    "powstanie-polskiej-organizacji-wojskowej",
-   "austro-wegry-wypowiadaja-wojne-rosji",
    "postacie/jozef-pilsudski",
    "postacie/kazimierz-sosnkowski",
    "tematy/sprawa-polska-w-czasie-i-wojny-swiatowej"

@@ -13,7 +13,7 @@ const jsonLd = listPageLd(Astro.site!, {
   path: Astro.url.pathname.replace(/(.)\/+$/, "$1"),
   name: "Timeline",
   description,
-  items: groupTimelineEntries(await localEvents("en")).map((group) => paths("en").year(group.year)),
+  items: [...new Set(groupTimelineEntries(await localEvents("en")).map((group) => paths("en").year(group.year)))],
 })
 ---
 

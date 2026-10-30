@@ -2,10 +2,10 @@
 title: Italy declares neutrality
 summary: On 3 August 1914 Italy declared its neutrality, holding that the Triple Alliance did not oblige it to join a war started by Austria-Hungary.
 source: wlochy-oglaszaja-neutralnosc
-sourceHash: bbdd52c2c6ad4cbf52884b6a778d8f347a1efb26
+sourceHash: a53a04ecdb65a51e21faee427b5c73739b7369fb
 ---
 
-On 3 August 1914 the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) declared its neutrality in the war that was just engulfing Europe. The decision had been taken the day before by the government of Prime Minister [Antonio Salandra](/postacie/antonio-salandra) and Foreign Minister the Marquis Antonino di San Giuliano. It was a blow to Germany and [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry), with which Italy had formed the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze) since 1882. On the same day Germany [declared war on France](/niemcy-wypowiadaja-wojne-francji), and Italy, formally its ally, stayed on the sidelines.
+On 3 August 1914 the [Kingdom of Italy](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)) declared its neutrality in the war that was just engulfing Europe. The decision had been taken the day before by the government of Prime Minister [Antonio Salandra](/postacie/antonio-salandra) and Foreign Minister the Marquis Antonino di San Giuliano. It was a blow to Germany and [Austria-Hungary](https://pl.wikipedia.org/wiki/Austro-Węgry), with which Italy had formed the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze) since 1882. On the same day Germany [declared war on France](/niemcy-wypowiadaja-wojne-francji), and Italy, formally its ally, stayed on the sidelines.
 
 ## The declaration
 

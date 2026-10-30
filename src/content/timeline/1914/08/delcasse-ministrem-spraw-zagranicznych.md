@@ -14,7 +14,7 @@ draft: false
 
 ## Architekt porozumienia z Brytanią
 
-Delcassé, radykalny deputowany z departamentu Ariège, był już ministrem spraw zagranicznych w latach 1898–1905. Zaczynał w trudnym momencie: [incydent w Faszodzie](https://pl.wikipedia.org/wiki/Incydent_w_Faszodzie) postawił Francję i Wielką Brytanię na krawędzi wojny. Delcassé wycofał się z tego sporu, a następnie konsekwentnie zbliżał Francję do Londynu. W 1904 roku doprowadził do zawarcia [Entente cordiale](https://pl.wikipedia.org/wiki/Entente_cordiale), porozumienia kończącego kolonialne spory obu państw. Zabiegał też o uznanie przez Włochy francuskich interesów w Maroku. W 1905 roku, podczas pierwszego kryzysu marokańskiego, pod naciskiem Niemiec musiał ustąpić. Później był ministrem marynarki, a w latach 1913–1914 ambasadorem w Petersburgu.
+Delcassé, radykalny deputowany z departamentu Ariège, był już ministrem spraw zagranicznych w latach 1898–1905. Zaczynał w trudnym momencie: [incydent w Faszodzie](https://pl.wikipedia.org/wiki/Incydent_w_Faszodzie) postawił Francję i Wielką Brytanię na krawędzi wojny. Delcassé wycofał się z tego sporu, a następnie konsekwentnie zbliżał Francję do Londynu. W 1904 roku doprowadził do zawarcia [Entente cordiale](/wielka-brytania-i-francja-zawieraja-entente-cordiale), porozumienia kończącego kolonialne spory obu państw. Zabiegał też o uznanie przez Włochy francuskich interesów w Maroku. W 1905 roku, podczas pierwszego kryzysu marokańskiego, pod naciskiem Niemiec musiał ustąpić. Później był ministrem marynarki, a w latach 1913–1914 ambasadorem w Petersburgu.
 
 ## Dyplomacja wojenna
 

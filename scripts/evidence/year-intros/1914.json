@@ -374,7 +374,11 @@
     "quotes": [
      {
       "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
-      "quote": "For Poles the war had a particularly dramatic dimension. The inhabitants of the three partitions served in the armies of Russia, Germany and Austria-Hungary, and so on opposite sides of the front."
+      "quote": "For the Poles the war had a particularly dramatic dimension."
+     },
+     {
+      "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
+      "quote": "Inhabitants of the three partitions served in the armies of Russia, Germany and Austria-Hungary, and so on opposite sides of the front."
      }
     ]
    },
@@ -387,7 +391,15 @@
      },
      {
       "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
-      "quote": "For Kalisz the arrival of the Germans proved tragic. From 4 August the town suffered artillery bombardment, executions and arson."
+      "quote": "For Kalisz the arrival of the Germans proved tragic."
+     },
+     {
+      "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
+      "quote": "on 4 August withdrew his troops from the town and had it shelled by artillery"
+     },
+     {
+      "file": "src/content/en/timeline/first-fighting-on-the-border-of-the-kingdom-of-poland.md",
+      "quote": "The following days brought executions, the arrest of some 800 men, the burning of the town hall"
      }
     ]
    },

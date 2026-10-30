@@ -9,14 +9,14 @@ brief:
   - "Many Latin American states only broke off relations with Germany, and eight of the twenty declared war."
   - "Russia and Romania left the war at the turn of 1917 and 1918, and in autumn 1918 Bulgaria, Turkey, Austria-Hungary and Germany signed armistices one after another."
 source: panstwa-centralne-i-ententa
-sourceHash: 687b503332bbbe47aa5403e7d2ed54a8e5b28ba4
+sourceHash: 5b47c4d054adfb176482eca9d2fa49097b6fd99d
 ---
 
 The First World War was fought between two coalitions. On one side stood the Central Powers: Germany and Austria-Hungary, joined by the Ottoman Empire in autumn 1914 and by Bulgaria in October 1915. On the other stood the Entente: France, Russia and Britain with its whole empire, and with them Serbia, Belgium and Japan, later Italy, Romania, Portugal and Greece, and from 1917 the United States, which fought as an "associated power" without a formal alliance. Many states of Latin America, Asia and Africa also sided with the enemies of the Central Powers, though some of them only broke off diplomatic relations. The war began with [Austria-Hungary's declaration of war on Serbia](/austro-wegry-wypowiadaja-wojne-serbii) on 28 July 1914 and ended with the armistices of autumn 1918.
 
 ## Two blocs before 1914
 
-The core of the Central Powers was the alliance of Germany and Austria-Hungary of 1879, which became the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze) when Italy joined in 1882. Romania attached itself to the bloc in 1883. On the other side stood the Franco-Russian alliance of 1892, the Anglo-French Entente Cordiale of 1904 and the Anglo-Russian agreement of 1907. Only the first was a military alliance; the other two settled spheres of influence, hence the name Triple Entente.
+The core of the Central Powers was the alliance of Germany and Austria-Hungary of 1879, which became the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze) when Italy joined in 1882. Romania attached itself to the bloc in 1883. On the other side stood the Franco-Russian alliance of 1892, the Anglo-French Entente Cordiale of 1904 and the Anglo-Russian agreement of 1907. Only the first was a military alliance; the other two settled spheres of influence, hence the name Triple Entente.
 
 Both blocs were defensive in design, and in the summer of 1914 not all their members went to war. The name "Central Powers" came from the position of Germany and Austria-Hungary in the middle of Europe. In wartime the word "Entente" no longer meant just the three powers but the whole coalition of their allies. On 5 September 1914 Britain, France and Russia pledged in the [Pact of London](/pakt-londynski) not to make a separate peace. The Entente then became a formal wartime alliance.
 

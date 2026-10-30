@@ -6,6 +6,20 @@ type TimelineEntry = CollectionEntry<"timeline">
 // localised events of src/i18n/local.ts.
 type Dated = { data: { date: Date; dayOrder?: number } }
 
+// What the timeline lists show of an entry: collection entries (Polish
+// pages) or localised events (src/i18n/local.ts), which carry their own href.
+export type ArchiveEntry = {
+  id: string
+  href?: string
+  data: {
+    title: string
+    summary: string
+    date: Date
+    dayOrder?: number
+    milestone: boolean
+  }
+}
+
 export interface TimelineMonthGroup<T extends Dated = TimelineEntry> {
   month: number
   slug: string
@@ -43,6 +57,11 @@ export function compareTimelineEntries(a: Dated, b: Dated) {
 
   return compareSameDayOrder(a, b)
 }
+
+// The chronicle proper starts in 1914. Earlier articles ("Droga do wojny",
+// 1879–1913) share one era page instead of a page per year and month.
+export const WAR_START_YEAR = 1914
+export const isPreWar = (year: number | string) => Number(year) < WAR_START_YEAR
 
 export function getTimelineMonthSlug(month: number) {
   return String(month + 1).padStart(2, "0")

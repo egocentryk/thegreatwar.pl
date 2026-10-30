@@ -6,6 +6,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro"
 import {
   getTimelineMonthSlug,
   groupTimelineEntries,
+  isPreWar,
 } from "@/utils/groupTimelineEntries"
 import { localEvents } from "@/i18n/local"
 import { periodMeta } from "@/utils/periodMeta"
@@ -15,7 +16,7 @@ export async function getStaticPaths() {
   const entries = await getCollection("timeline", ({ data }) => !data.draft)
   const timelineByYear = groupTimelineEntries(entries)
 
-  return timelineByYear.flatMap((yearGroup) =>
+  return timelineByYear.filter((yearGroup) => !isPreWar(yearGroup.year)).flatMap((yearGroup) =>
     yearGroup.months.map((monthGroup) => ({
       params: {
         year: String(yearGroup.year),

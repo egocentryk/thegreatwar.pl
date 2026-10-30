@@ -24,7 +24,8 @@ import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
 import { formatDate } from "@/utils/formatDate"
 import { slugify } from "@/utils/slugify"
-import { compareTimelineEntries } from "@/utils/groupTimelineEntries"
+import { compareTimelineEntries, isPreWar } from "@/utils/groupTimelineEntries"
+import { paths } from "@/i18n/local"
 import { articleLd, breadcrumbLd } from "@/utils/jsonLd"
 import { listUrl } from "@/utils/filteredPages"
 import { pageEntities } from "@/utils/pageEntities"
@@ -108,7 +109,10 @@ const jsonLd = [
   breadcrumbLd(Astro.site!, [
     { name: "Strona główna", path: "/" },
     { name: "Oś czasu", path: "/timeline" },
-    { name: String(date.getUTCFullYear()), path: `/timeline/${date.getUTCFullYear()}` },
+    {
+      name: isPreWar(date.getUTCFullYear()) ? "Przed wojną" : String(date.getUTCFullYear()),
+      path: paths("pl").year(date.getUTCFullYear()),
+    },
     { name: title, path: pagePath },
   ]),
 ]

@@ -21,7 +21,7 @@ brief:
 
 ## Za sojusznikiem
 
-Z formalnego punktu widzenia Wiedeń nie musiał iść za Berlinem. [Dwuprzymierze](https://pl.wikipedia.org/wiki/Dwuprzymierze) z 1879 roku było sojuszem obronnym, skierowanym przede wszystkim przeciw Rosji, i nie zobowiązywało Austro-Węgier do wojny z każdym przeciwnikiem Niemiec. Wojna nie przenosiła się też automatycznie na wszystkich członków koalicji. Włochy walczyły z Austro-Węgrami od maja 1915 roku, a z Niemcami przez ponad rok utrzymywały formalnie pokój.
+Z formalnego punktu widzenia Wiedeń nie musiał iść za Berlinem. [Dwuprzymierze](/niemcy-i-austro-wegry-zawieraja-dwuprzymierze) z 1879 roku było sojuszem obronnym, skierowanym przede wszystkim przeciw Rosji, i nie zobowiązywało Austro-Węgier do wojny z każdym przeciwnikiem Niemiec. Wojna nie przenosiła się też automatycznie na wszystkich członków koalicji. Włochy walczyły z Austro-Węgrami od maja 1915 roku, a z Niemcami przez ponad rok utrzymywały formalnie pokój.
 
 W praktyce jednak Austro-Węgry, w 1916 roku coraz bardziej zależne od Niemiec, nie mogły utrzymywać zwykłych stosunków z państwem, z którym ich sojusznik prowadził wojnę. Spór z Portugalią dotyczył zresztą także Wiednia. Portugalczycy zarekwirowali nie tylko statki niemieckie, ale też dwa austro-węgierskie, a [zajęcie statków na Tagu](/portugalia-zajmuje-niemieckie-statki) było bezpośrednią przyczyną niemieckiego wypowiedzenia wojny.
 

@@ -17,7 +17,7 @@ brief:
   - "W nocy z 23 na 24 maja otwarto front włoski, od przełęczy Stelvio po Adriatyk. Wojna trwała trzy i pół roku i według różnych szacunków kosztowała Włochy od około 600 do 650 tysięcy żołnierzy."
 ---
 
-23 maja 1915 roku, w niedzielę, około kwadransa po trzeciej po południu, włoski ambasador w Wiedniu, książę Giuseppe Avarna, przekazał austro-węgierskiemu ministrowi spraw zagranicznych, baronowi [Istvánowi Buriánowi](/postacie/istvan-burian), wypowiedzenie wojny. [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)), które przez ponad trzydzieści lat było sojusznikiem monarchii habsburskiej w [trójprzymierzu](https://pl.wikipedia.org/wiki/Trójprzymierze), stanęło do walki po stronie Ententy.
+23 maja 1915 roku, w niedzielę, około kwadransa po trzeciej po południu, włoski ambasador w Wiedniu, książę Giuseppe Avarna, przekazał austro-węgierskiemu ministrowi spraw zagranicznych, baronowi [Istvánowi Buriánowi](/postacie/istvan-burian), wypowiedzenie wojny. [Królestwo Włoch](https://pl.wikipedia.org/wiki/Królestwo_Włoch_(1861–1946)), które przez ponad trzydzieści lat było sojusznikiem monarchii habsburskiej w [trójprzymierzu](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), stanęło do walki po stronie Ententy.
 
 ## Deklaracja
 

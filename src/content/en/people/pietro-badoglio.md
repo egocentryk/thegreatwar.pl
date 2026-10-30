@@ -6,14 +6,14 @@ country: Italy
 birthPlace: Grazzano Monferrato, now Grazzano Badoglio (Italy)
 deathPlace: Grazzano Badoglio (Italy)
 source: pietro-badoglio
-sourceHash: 3ad07f497d383c2ee4fdc5551d4edc69679d814c
+sourceHash: 543ab0d10aa0ff788f88b9ef08eff323fc06a5bb
 ---
 
 During the First World War Pietro Badoglio made a career without precedent in the Italian Army: in February 1915 he was a staff lieutenant-colonel, and by the autumn of 1917 a lieutenant-general and corps commander. He made his name with the carefully prepared capture of Monte Sabotino on the Isonzo in August 1916. A year later his XXVII Corps found itself at the very centre of the breakthrough at Caporetto, yet Badoglio not only escaped responsibility but became deputy to the new chief of staff, General Armando Diaz. As his right-hand man he helped rebuild the army and win the victory at Vittorio Veneto, and on 3 November 1918 he signed the armistice with Austria-Hungary on behalf of the Allies. His later path, from the conquest of Ethiopia to the fall of Mussolini in 1943, has made him to this day one of the most controversial figures in twentieth-century Italian history.
 
 ## Before the war
 
-He was born on 28 September 1871 at Grazzano Monferrato in Piedmont, into a family of modest landowners. The village, where he later died, now bears his name. He graduated from the artillery and engineering academy in Turin and in 1890 became a second lieutenant of artillery. After the defeat at Adwa in 1896 he volunteered for Eritrea, where he spent more than two years. On his return he completed the war college, served on the general staff in Rome and made himself known as an intelligent and hard-working officer, though brusque and reserved. During the [Italo-Turkish War](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka) in Libya he worked on a corps staff, prepared the successful operation at Zanzur and was promoted to major for war merit. On 25 February 1915, as Italy prepared for war, he became a lieutenant-colonel of the general staff.
+He was born on 28 September 1871 at Grazzano Monferrato in Piedmont, into a family of modest landowners. The village, where he later died, now bears his name. He graduated from the artillery and engineering academy in Turin and in 1890 became a second lieutenant of artillery. After the defeat at Adwa in 1896 he volunteered for Eritrea, where he spent more than two years. On his return he completed the war college, served on the general staff in Rome and made himself known as an intelligent and hard-working officer, though brusque and reserved. During the [Italo-Turkish War](/wybucha-wojna-wlosko-turecka) in Libya he worked on a corps staff, prepared the successful operation at Zanzur and was promoted to major for war merit. On 25 February 1915, as Italy prepared for war, he became a lieutenant-colonel of the general staff.
 
 ## Monte Sabotino
 

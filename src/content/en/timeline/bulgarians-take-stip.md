@@ -2,7 +2,7 @@
 title: Bulgarians take Štip
 summary: Around 19 October 1915 the Bulgarians advancing down the Bregalnica valley took Štip, opening the Ovče Pole and the road to the Vardar and the Salonika railway.
 source: bulgarzy-zajmuja-sztip
-sourceHash: 160e12b069fe7ad09c37636147cf0a676d84ed60
+sourceHash: c35093d2dca0234258988bbc854259bf6064eeb4
 ---
 
 The British chronology of the war records under 19 October 1915 the capture by the Bulgarians of [Štip](https://pl.wikipedia.org/wiki/Sztip), a town on the [Bregalnica](https://pl.wikipedia.org/wiki/Bregałnica) in the eastern part of Serbian Macedonia. The Austro-Hungarian official history, which describes the course of the campaign most precisely, does not give the day the Bulgarians entered the town. It follows from it, however, that Štip must have been in their hands by that day at the latest, because on 19 October the Bulgarian cavalry division, which was moving down the Bregalnica valley behind the infantry, had already reached the Vardar near Veles.
@@ -15,6 +15,6 @@ The Serbs defended eastern Macedonia with weak forces. The command of the troops
 
 ## A town with a past
 
-For the Bulgarians Štip was a special place. In the autumn of 1912, during the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska), the town fell to the Serbs, and in the [Second Balkan War](https://pl.wikipedia.org/wiki/II_wojna_bałkańska) in 1913 the Bulgarians suffered a defeat in the Bregalnica area after which they lost almost all of Macedonia. Now the Bulgarian army was returning to these parts with the promise, written into the [September treaty with Germany](/traktat-sojuszniczy-w-sofii), that after the war these lands would go to Bulgaria. Many soldiers from Macedonia served in its ranks, and in Sofia a new 11th Division was being formed from Macedonian refugees.
+For the Bulgarians Štip was a special place. In the autumn of 1912, during the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska), the town fell to the Serbs, and in the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska) in 1913 the Bulgarians suffered a defeat in the Bregalnica area after which they lost almost all of Macedonia. Now the Bulgarian army was returning to these parts with the promise, written into the [September treaty with Germany](/traktat-sojuszniczy-w-sofii), that after the war these lands would go to Bulgaria. Many soldiers from Macedonia served in its ranks, and in Sofia a new 11th Division was being formed from Macedonian refugees.
 
 Taking the Bregalnica valley opened the Bulgarians' road to the Vardar, into the very middle of the Serbian line of communications with Salonika. As early as 17 October the Serbian detachment guarding the railway in the Vardar valley was summoned north, to Veles, and its place was taken by the French of General [Maurice Sarrail](/postacie/maurice-sarrail), who had [landed at Salonika](/ladowanie-ententy-w-salonikach) and were moving up the river. At the end of October the main forces of the 11th Division gathered in the Štip area, and the town became the base of the Bulgarian troops fighting the French at Krivolak.

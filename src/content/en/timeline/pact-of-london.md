@@ -2,7 +2,7 @@
 title: Pact of London
 summary: On 5 September 1914 in London Britain, France and Russia pledged not to make a separate peace. The Entente became a formal wartime alliance.
 source: pakt-londynski
-sourceHash: e94bc317b5fe0c52cad039e6d0e524cbb7a98d69
+sourceHash: 6a073515e920c6a0f93e97998d345266724038aa
 ---
 
 On 5 September 1914 in London representatives of Britain, France and Russia signed a short declaration in which the three governments undertook not to conclude a separate peace with the Central Powers. This document, known as the Declaration of London or the Pact of London, turned the [Entente](https://pl.wikipedia.org/wiki/Ententa) into a formal wartime alliance. Some works give the date as 4 September, but the published text is dated 5 September.
@@ -13,7 +13,7 @@ The name easily leads to confusion. The pact of 1914 has nothing to do with the 
 
 ## From understanding to alliance
 
-Before the war the Entente was not a full alliance. France and Russia had been bound since the 1890s by a [military alliance](https://pl.wikipedia.org/wiki/Sojusz_francusko-rosyjski), but Britain's agreements with France in 1904 and with Russia in 1907 dealt mainly with colonial matters and contained no military commitments. In August 1914 the three powers found themselves at war on the same side, but each separately. Formally nothing prevented any of them from making a separate peace if the war went badly.
+Before the war the Entente was not a full alliance. France and Russia had been bound since the 1890s by a [military alliance](/wchodzi-w-zycie-sojusz-francusko-rosyjski), but Britain's agreements with France in 1904 and with Russia in 1907 dealt mainly with colonial matters and contained no military commitments. In August 1914 the three powers found themselves at war on the same side, but each separately. Formally nothing prevented any of them from making a separate peace if the war went badly.
 
 And the war was going badly. At the beginning of September the Germans stood before Paris, the French government had left for Bordeaux, and the Russian army had been defeated at Tannenberg. At such a moment the Allies wanted to reassure one another that no one would withdraw from the fight. The declaration was signed in London by the British Foreign Secretary [Sir Edward Grey](/postacie/edward-grey), the French ambassador [Paul Cambon](https://pl.wikipedia.org/wiki/Paul_Cambon) and the Russian ambassador, Count Alexander Benckendorff.
 

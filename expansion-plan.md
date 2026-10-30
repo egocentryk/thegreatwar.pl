@@ -110,6 +110,16 @@ The plan:
   are built from the data.
 - Effort: about 3–4M tokens, as one batch with the usual writer and
   fact-check pipeline (workflow.md).
+- **Done 2026-10-30 (slim version, owner's choice):** 20 articles
+  1879–1913 on one era page, "Przed wojną" (`/timeline/przed-wojna`), with
+  its own "W skrócie"; no Balkan battle pages, no Schlieffen article (the
+  glossary and the causes guide cover it). Improvements.md §36.
+- **Boundary with thesecondwar.pl (owner, 2026-10-30):** the sister site
+  covers the roots of the Second World War in Asia from 1895 (Queen Min,
+  Portsmouth 1905, Korea 1910). Before 1914 this site covers only the
+  European and Polish origins of the Great War; Asia stays there, so the
+  two sites don't duplicate topics. Don't edit the sister project from
+  here without the owner's say-so.
 
 ### A3. The Polish thread: gaps on a Polish site
 

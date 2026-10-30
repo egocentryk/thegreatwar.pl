@@ -2,14 +2,14 @@
 title: Wilhelm of Wied leaves Albania
 summary: On 3 September 1914 Prince Wilhelm of Wied, ruler of Albania by the will of the great powers, sailed from Durrës. His six-month reign had ended in failure.
 source: wilhelm-wied-opuszcza-albanie
-sourceHash: d8839f0c8bbf619c8790dcf0c3fac3fc68aafe7a
+sourceHash: cefe2570543cd022ed852a251499a55ccdd2f42a
 ---
 
 On 3 September 1914 Prince [Wilhelm of Wied](https://pl.wikipedia.org/wiki/Wilhelm_zu_Wied), the ruler of Albania, left his country. With his wife, Princess [Sophie](https://pl.wikipedia.org/wiki/Zofia_Schönburg-Waldenburg), and part of the government, he boarded an Italian ship in the port of [Durrës](https://pl.wikipedia.org/wiki/Durrës) (according to some sources it was the *Misurata*) and sailed towards Venice. After only six months of rule he left the country sunk in rebellion and chaos.
 
 ## A prince appointed by the powers
 
-Albania had declared independence from the Ottoman Empire in November 1912, during the [First Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska). The great powers recognised the new state in 1913 and decided that it would be headed by a monarch of their own choosing. The choice fell on Wilhelm of Wied, a German aristocrat and Prussian army officer with ties to the courts of Berlin and Bucharest. The prince knew neither Albania nor its language. He arrived in Durrës, the provisional capital, on 7 March 1914. The Albanians called him *mbret*, meaning king, although he himself used the title of prince.
+Albania had declared independence from the Ottoman Empire in November 1912, during the [First Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska). The great powers recognised the new state in 1913 and decided that it would be headed by a monarch of their own choosing. The choice fell on Wilhelm of Wied, a German aristocrat and Prussian army officer with ties to the courts of Berlin and Bucharest. The prince knew neither Albania nor its language. He arrived in Durrës, the provisional capital, on 7 March 1914. The Albanians called him *mbret*, meaning king, although he himself used the title of prince.
 
 The new [Principality of Albania](https://pl.wikipedia.org/wiki/Księstwo_Albanii) was weak from the first day. It had neither an army nor money, and order was kept by a gendarmerie commanded by Dutch officers. In the south the Greek population of Northern Epirus proclaimed autonomy. The neighbours, as well as Italy and Austria-Hungary, competed for influence in the country.
 

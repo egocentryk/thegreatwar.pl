@@ -2,14 +2,14 @@
 title: Fisher returns to the Admiralty
 summary: On 30 October 1914 the 73-year-old Admiral John Fisher became First Sea Lord again. He replaced Prince Louis of Battenberg.
 source: fisher-pierwszym-lordem-morskim
-sourceHash: 379714991f3adcb57846c9cc49ad27338d04ea43
+sourceHash: 94811c1daf823abd6bb7440a655751e3329243b3
 ---
 
 On 30 October 1914 Admiral Lord [John Fisher](/postacie/john-fisher) took up for the second time the post of First Sea Lord, the most senior officer of the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). He replaced Prince Louis of Battenberg, who the day before [had stepped down under pressure from anti-German feeling](/ludwik-battenberg-ustepuje). Fisher was 73, but *The Times* of London wrote that he had never been younger or more energetic.
 
 ## Creator of the modern fleet
 
-Fisher was born in 1841 in Ceylon and joined the navy as a boy of thirteen, still in the age of sail. He had already been First Sea Lord in 1904–1910. At that time he carried out deep and controversial reforms: he withdrew dozens of obsolete ships from service, concentrated the fleet in home waters against Germany and brought about the construction of the revolutionary battleship [HMS *Dreadnought*](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)), as well as the first battlecruisers. He supported the development of submarines and the fleet's switch from coal to oil fuel. He had as many ardent supporters as bitter enemies.
+Fisher was born in 1841 in Ceylon and joined the navy as a boy of thirteen, still in the age of sail. He had already been First Sea Lord in 1904–1910. At that time he carried out deep and controversial reforms: he withdrew dozens of obsolete ships from service, concentrated the fleet in home waters against Germany and brought about the construction of the revolutionary battleship [HMS *Dreadnought*](/wodowanie-hms-dreadnought), as well as the first battlecruisers. He supported the development of submarines and the fleet's switch from coal to oil fuel. He had as many ardent supporters as bitter enemies.
 
 ## Churchill and Fisher
 

@@ -6,7 +6,7 @@ country: Italy
 birthPlace: Genoa (Italy)
 deathPlace: Turin (Italy)
 source: emanuele-filiberto-d-aosta
-sourceHash: 7625e202b894ab0107bdf5c29faffc2a8eccc8f9
+sourceHash: 170224e4d2d74012d53682d971826fa1f4dc7321
 ---
 
 Emanuele Filiberto, the second Duke of Aosta, was the only one of the Italian army commanders of May 1915 to keep his post until the end of the war. From the first day of fighting against Austria-Hungary in May 1915 to the armistice in November 1918 he commanded the 3rd Army, which fought the bloodiest of the Isonzo battles on the Karst plateau and at Gorizia, and then defended the lower Piave. His army took Gorizia in August 1916, and in the autumn of 1917, when the neighbouring 2nd Army was disintegrating at Caporetto, it withdrew in good order to the Piave. Hence the nickname of the "undefeated duke" (Duca invitto) and the "undefeated army". As a cousin of King [Victor Emmanuel III](/postacie/wiktor-emanuel-iii) and, for some years, a possible heir to the throne, he was also a political figure: to some a symbol of victory in the war, to the king a rival whose popularity caused unease.
@@ -15,7 +15,7 @@ Emanuele Filiberto, the second Duke of Aosta, was the only one of the Italian ar
 
 He was born on 13 January 1869 in [Genoa](https://pl.wikipedia.org/wiki/Genua), the eldest son of Amedeo, Duke of Aosta, the younger son of King [Victor Emmanuel II](https://pl.wikipedia.org/wiki/Wiktor_Emanuel_II). When in 1870 the Cortes elected his father King of Spain as [Amadeo I](https://pl.wikipedia.org/wiki/Amadeusz_I_Sabaudzki), the little Emanuele Filiberto became Prince of Asturias, heir to the Spanish throne. After his father's abdication in 1873 the family returned to Italy. In 1890, after Amedeo's death, he inherited the title of Duke of Aosta and took his seat in the Senate. Because his first cousin, the heir to the throne Victor Emmanuel, long had no son, the Duke of Aosta stood next in line to the crown after him, and after the assassination of King Umberto in 1900, until the birth of the new king's son in 1904, he was heir presumptive. In 1895 he married [Hélène of Orléans](https://pl.wikipedia.org/wiki/Helena_Orleańska), daughter of the French pretender to the throne, despite the disapproval of Queen Margherita and some politicians.
 
-He began his military career at the academy in Turin, and in 1888 became a lieutenant of artillery. He was promoted quickly, as befitted a member of the dynasty: by 1897 he was already a general, in 1905 a corps commander in Naples, where the ducal couple kept a splendid court in the Capodimonte palace, and in 1910 he was raised to the rank of army commander. He had no combat experience, however. The government did not allow him to go either to Abyssinia in 1896 or to Libya during the [war with Turkey](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka).
+He began his military career at the academy in Turin, and in 1888 became a lieutenant of artillery. He was promoted quickly, as befitted a member of the dynasty: by 1897 he was already a general, in 1905 a corps commander in Naples, where the ducal couple kept a splendid court in the Capodimonte palace, and in 1910 he was raised to the rank of army commander. He had no combat experience, however. The government did not allow him to go either to Abyssinia in 1896 or to Libya during the [war with Turkey](/wybucha-wojna-wlosko-turecka).
 
 ## The Isonzo and the Karst
 

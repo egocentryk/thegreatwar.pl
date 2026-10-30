@@ -25,6 +25,7 @@ import {
 import { SERIES } from "@/data/series"
 import { type Lang } from "@/i18n"
 import { localBattles, localEvents, paths } from "@/i18n/local"
+import { isPreWar } from "@/utils/groupTimelineEntries"
 import { SITE } from "@/site.config"
 
 interface Props {
@@ -35,7 +36,8 @@ const { lang = "pl" } = Astro.props
 const to = paths(lang)
 const allTimeline = await localEvents(lang)
 const allBattles = await localBattles(lang)
-// Covered period, e.g. "VI 1914 – XII 1918", from the first and last entry.
+// Covered period, e.g. "VI 1914 – XII 1918", from the first and last entry
+// of the war (the articles before 1914 are on the "Przed wojną" page).
 const romanMonths = [
   "I",
   "II",
@@ -50,7 +52,9 @@ const romanMonths = [
   "XI",
   "XII",
 ]
-const dates = allTimeline.map((entry) => entry.data.date.valueOf())
+const dates = allTimeline
+  .filter((entry) => !isPreWar(entry.data.date.getUTCFullYear()))
+  .map((entry) => entry.data.date.valueOf())
 const firstDate = new Date(Math.min(...dates))
 const lastDate = new Date(Math.max(...dates))
 const monthLabel = (d: Date) => romanMonths[d.getUTCMonth()]

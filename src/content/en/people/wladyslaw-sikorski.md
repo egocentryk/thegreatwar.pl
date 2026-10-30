@@ -6,7 +6,7 @@ country: Poland
 birthPlace: Tuszów Narodowy (Austria-Hungary)
 deathPlace: Gibraltar
 source: wladyslaw-sikorski
-sourceHash: 28251535bf593de8ac423924e06af8511bd1c9ec
+sourceHash: 350e2093219d13f081295bcf1be84f203fb94759
 ---
 
 Władysław Sikorski went down in history as prime minister and commander-in-chief during the Second World War, but his road began in the Legions. An engineer from Lwów and a co-founder of the Riflemen's movement, in August 1914 he became head of the Military Department of the [Supreme National Committee](https://pl.wikipedia.org/wiki/Naczelny_Komitet_Narodowy) and for two years was responsible for the organisation, recruitment and rear services of the Polish Legions. He believed that a Polish army had to be built at Austria's side, and this set him at odds with [Józef Piłsudski](/postacie/jozef-pilsudski), who from 1915 made the expansion of the Legions conditional on political concessions from the Central Powers. The dispute, which began during the Great War, lasted throughout the interwar years. Yet when in February 1918 Austria and Germany handed the Chełm region to Ukraine, Sikorski broke with Austria and ended up in an internment camp. In the autumn of 1918 he was organising Polish troops in Galicia.
@@ -15,7 +15,7 @@ Władysław Sikorski went down in history as prime minister and commander-in-chi
 
 He was born on 20 May 1881 in Tuszów Narodowy near Mielec, into the family of an organist and teacher who died when Władysław was four. He studied at the teachers' seminary in Rzeszów and then at a gymnasium in Lwów. He studied road and bridge engineering at the Lwów Polytechnic. After his studies he worked as an engineer, among other things on the regulation of the San, and ran construction ventures. In 1904–1905 he did his one-year military service in the Austro-Hungarian army and became a reserve second lieutenant.
 
-In Lwów he drew close to Piłsudski's camp. In 1908 he was one of the co-founders of the [Union of Active Struggle](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej) and lectured in its school. In 1910 he co-founded the Riflemen's Association in Lwów, which according to the IPN he chaired. He was active in the Polish Progressive Party, and on its behalf from 1912 directed military affairs in the [Provisional Commission of Confederated Independence Parties](https://pl.wikipedia.org/wiki/Komisja_Tymczasowa_Skonfederowanych_Stronnictw_Niepodległościowych), which coordinated preparations for the struggle against Russia.
+In Lwów he drew close to Piłsudski's camp. In 1908 he was one of the co-founders of the [Union of Active Struggle](/powstaje-zwiazek-walki-czynnej) and lectured in its school. In 1910 he co-founded the Riflemen's Association in Lwów, which according to the IPN he chaired. He was active in the Polish Progressive Party, and on its behalf from 1912 directed military affairs in the [Provisional Commission of Confederated Independence Parties](/powstaje-komisja-tymczasowa-skonfederowanych-stronnictw-niepodleglosciowych), which coordinated preparations for the struggle against Russia.
 
 ## The NKN Military Department
 

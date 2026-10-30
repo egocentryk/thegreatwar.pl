@@ -14,7 +14,7 @@ draft: false
 
 ## Twórca nowoczesnej floty
 
-Fisher urodził się w 1841 roku na Cejlonie i wstąpił do marynarki jako trzynastoletni chłopiec, jeszcze w epoce żaglowców. Pierwszym Lordem Morskim był już w latach 1904–1910. Przeprowadził wtedy głębokie i kontrowersyjne reformy: wycofał ze służby dziesiątki przestarzałych okrętów, skoncentrował flotę na wodach ojczystych przeciw Niemcom i doprowadził do budowy rewolucyjnego pancernika [HMS Dreadnought](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)), a także pierwszych krążowników liniowych. Popierał rozwój okrętów podwodnych i przejście floty z węgla na paliwo płynne. Miał tylu zagorzałych zwolenników, co zaciekłych wrogów.
+Fisher urodził się w 1841 roku na Cejlonie i wstąpił do marynarki jako trzynastoletni chłopiec, jeszcze w epoce żaglowców. Pierwszym Lordem Morskim był już w latach 1904–1910. Przeprowadził wtedy głębokie i kontrowersyjne reformy: wycofał ze służby dziesiątki przestarzałych okrętów, skoncentrował flotę na wodach ojczystych przeciw Niemcom i doprowadził do budowy rewolucyjnego pancernika [HMS Dreadnought](/wodowanie-hms-dreadnought), a także pierwszych krążowników liniowych. Popierał rozwój okrętów podwodnych i przejście floty z węgla na paliwo płynne. Miał tylu zagorzałych zwolenników, co zaciekłych wrogów.
 
 ## Churchill i Fisher
 

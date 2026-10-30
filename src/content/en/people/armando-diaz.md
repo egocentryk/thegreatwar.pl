@@ -6,14 +6,14 @@ country: Italy
 birthPlace: Naples (Italy)
 deathPlace: Rome
 source: armando-diaz
-sourceHash: 0a03288855e89509dd15a7be11f80c494fa91b98
+sourceHash: 68fdf7ba09f1a2c4e162642fe996af0f05109e31
 ---
 
 Armando Diaz took command of the Italian Army on 8 November 1917, when after the defeat at Caporetto it was falling back to the Piave, having lost hundreds of thousands of men and nearly half its artillery. Within a year he turned it into an army that in June 1918 repulsed Austria-Hungary's last great offensive and in October routed it at Vittorio Veneto. He was neither a brilliant nor a daring commander. He was, however, the opposite of his predecessor, Luigi Cadorna: he cared for his soldiers, trusted his subordinates and worked with the government and the Allies. Foch and some Italian politicians criticised him for the caution with which he delayed the final offensive, but in Italy he was remembered as the "Duke of Victory", the author of the bulletin announcing the end of the war with Austria on 4 November 1918.
 
 ## Before the war
 
-He was born on 5 December 1861 in [Naples](https://pl.wikipedia.org/wiki/Neapol), into the family of a naval officer of Spanish descent. He graduated from the Nunziatella military school in Naples and the artillery academy in Turin, and in 1884 began service in the field artillery. In 1894 he graduated first in his class from the war college, and over the following years alternated service on the general staff with command of a battalion and a regiment. During the [Italo-Turkish War](https://pl.wikipedia.org/wiki/Wojna_włosko-turecka) he commanded the 93rd Infantry Regiment in Libya and was wounded at Zanzur in 1912. On his return he worked in the secretariat of the chief of staff, General Alberto Pollio, and after Pollio's sudden death in July 1914 remained with the new chief of staff, [Luigi Cadorna](/postacie/luigi-cadorna).
+He was born on 5 December 1861 in [Naples](https://pl.wikipedia.org/wiki/Neapol), into the family of a naval officer of Spanish descent. He graduated from the Nunziatella military school in Naples and the artillery academy in Turin, and in 1884 began service in the field artillery. In 1894 he graduated first in his class from the war college, and over the following years alternated service on the general staff with command of a battalion and a regiment. During the [Italo-Turkish War](/wybucha-wojna-wlosko-turecka) he commanded the 93rd Infantry Regiment in Libya and was wounded at Zanzur in 1912. On his return he worked in the secretariat of the chief of staff, General Alberto Pollio, and after Pollio's sudden death in July 1914 remained with the new chief of staff, [Luigi Cadorna](/postacie/luigi-cadorna).
 
 ## Under Cadorna
 

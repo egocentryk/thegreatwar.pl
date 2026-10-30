@@ -20,6 +20,7 @@ thegreatwar.pl is a **Polish-language chronicle of the First World War**, built 
 | Schema (source of truth for front-matter) | `src/content.config.ts` |
 | Battle phases (groups on the /bitwy page) | `src/data/battlePhases.ts` |
 | Article page | `src/pages/[id].astro` |
+| Era before the war ("Przed wojną", 1879–1913) | articles in `src/content/timeline/<YYYY>/…` like any other; years before `WAR_START_YEAR` (`src/utils/groupTimelineEntries.ts`) get no year or month pages: they share `/timeline/przed-wojna` (`/en/timeline/before-the-war`), `paths().year/month` link there, and they stay out of "On this day" and the random days. Brief: `scripts/briefs/before-the-war.md`. Scope: European and Polish origins only; Asia before 1914 belongs to thesecondwar.pl |
 | Persistent memory (rules) | `~/.claude/projects/-Users-lukaszskowron-Code-astro-thegreatwar-pl/memory/` (`MEMORY.md` is the index) |
 
 Entry ids come **from the filename only** (folders are ignored), so every slug must be **unique across all folders** of a collection.

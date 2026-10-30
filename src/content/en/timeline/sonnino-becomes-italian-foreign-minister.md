@@ -2,7 +2,7 @@
 title: Sonnino becomes Italian foreign minister
 summary: In early November 1914 Baron Sidney Sonnino took over the Italian foreign ministry. Six months later he signed the secret Treaty of London with the Entente.
 source: sonnino-ministrem-spraw-zagranicznych
-sourceHash: 6694987c8aafb2e9bfe23a22101e2f29d8ad9757
+sourceHash: 1f22e2bebfbf85a580d0c0f230328c6194bd849c
 ---
 
 At the beginning of November 1914 Baron [Sidney Sonnino](/postacie/sidney-sonnino) became Italy's Minister of Foreign Affairs. He replaced the Prime Minister, [Antonio Salandra](/postacie/antonio-salandra), who had been temporarily in charge of diplomacy since the [death of Antonino di San Giuliano](/umiera-antonino-di-san-giuliano) in mid-October. The appointment was part of the [reshuffle of the government](/rekonstrukcja-rzadu-salandry) that Salandra had begun at the end of October.
@@ -15,7 +15,7 @@ The British chronology of the war records Sonnino's appointment under 3 November
 
 He was born in 1847 in [Pisa](https://pl.wikipedia.org/wiki/Piza). His father was an Italian Jew who had converted to Anglicanism, and his mother was Welsh. A lawyer by training, he made his name as a researcher into the poverty of the Sicilian peasants, and later as a politician of the liberal right and Minister of the Treasury. He was twice Prime Minister, in 1906 and at the turn of 1909 and 1910, but neither of his governments lasted more than a few months. He was considered uncompromising, stern and taciturn, but also honest and hard-working.
 
-In the first days of the war Sonnino believed that Italy should remain faithful to the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze). He soon accepted, however, the reasoning of Salandra and San Giuliano: neutrality gave time to arm the army and made it possible to wait for the best opportunity. As minister he continued the policy of "sacred egoism", that is, bargaining with both sides for the highest possible price for Italian neutrality or for entry into the war.
+In the first days of the war Sonnino believed that Italy should remain faithful to the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze). He soon accepted, however, the reasoning of Salandra and San Giuliano: neutrality gave time to arm the army and made it possible to wait for the best opportunity. As minister he continued the policy of "sacred egoism", that is, bargaining with both sides for the highest possible price for Italian neutrality or for entry into the war.
 
 ## The road to the Treaty of London
 

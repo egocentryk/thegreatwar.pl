@@ -2,7 +2,7 @@
 title: Italy signs the Treaty of London
 summary: On 26 April 1915 Italy signed a secret pact with the Entente in London. In return for lands on the Adriatic it pledged to enter the war within a month.
 source: wlochy-podpisuja-pakt-londynski
-sourceHash: 4f1a0c59803b909b2ca7b5241e009713c09bb564
+sourceHash: c1a7d49688290a7c9732661cc152d1de76febbb5
 ---
 
 On 26 April 1915 in London representatives of four states signed a secret agreement under which Italy was to enter the war on the side of the Entente. The signatures were those of the British Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey), and the ambassadors of France, [Paul Cambon](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), of Russia, Count Alexander Benckendorff, and of Italy, the Marquis Guglielmo Imperiali. In Polish literature the document is most often called the [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)), in Italian literature the Pact of London (Patto di Londra).
@@ -11,7 +11,7 @@ On the same day the four signatories signed a declaration in which they undertoo
 
 ## The road to London
 
-In August 1914 Italy, although bound to Germany and Austria-Hungary by the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze), [declared neutrality](/wlochy-oglaszaja-neutralnosc). In the autumn the Prime Minister, [Antonio Salandra](/postacie/antonio-salandra), announced that the country would be guided by "sacred egoism", that is, solely by its own interest. From November foreign policy was conducted by [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych). He bargained with both sides. From Vienna he demanded the compensation that the Triple Alliance treaty promised Italy, above all the Trentino, inhabited by Italians. Austria-Hungary long procrastinated, and when it finally agreed to concessions, they were too modest for Rome and were to take effect only after the war.
+In August 1914 Italy, although bound to Germany and Austria-Hungary by the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), [declared neutrality](/wlochy-oglaszaja-neutralnosc). In the autumn the Prime Minister, [Antonio Salandra](/postacie/antonio-salandra), announced that the country would be guided by "sacred egoism", that is, solely by its own interest. From November foreign policy was conducted by [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych). He bargained with both sides. From Vienna he demanded the compensation that the Triple Alliance treaty promised Italy, above all the Trentino, inhabited by Italians. Austria-Hungary long procrastinated, and when it finally agreed to concessions, they were too modest for Rome and were to take effect only after the war.
 
 The Entente could offer more, because it was promising other people's land. On 4 March 1915 Imperiali presented Grey with sixteen Italian conditions. The most difficult question proved to be [Dalmatia](https://pl.wikipedia.org/wiki/Dalmacja). The Russian Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), opposed handing Italy a coast inhabited by Slavs, which Serbia, Russia's ally, was counting on. The deadlock was broken by the French Foreign Minister, Théophile Delcassé, who proposed limiting the Italian demands in Dalmatia in exchange for full rights to the [Dodecanese](https://pl.wikipedia.org/wiki/Dodekanez). At the beginning of April the Prime Minister, Herbert Asquith, presented a draft agreement, and in the middle of the month Sonnino accepted it with minor amendments.
 

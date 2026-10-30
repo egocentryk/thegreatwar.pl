@@ -2,7 +2,7 @@
 title: Austria-Hungary at war with Portugal
 summary: On 15 March 1916 Austria-Hungary followed Germany and broke with Portugal. The two were now at war, though by contemporary sources with no separate declaration.
 source: austro-wegry-w-stanie-wojny-z-portugalia
-sourceHash: 459c629e9be2e72a7e100f8b2cda1b24db3881ff
+sourceHash: 590e7084f9d56cfd7ccf694a76b9f2c679a6216b
 brief:
   - "On 15 March 1916 Austria-Hungary followed Germany and broke off diplomatic relations with Portugal. The British chronology of the war also records an Austro-Hungarian declaration of war under that date."
   - "Contemporary sources, such as the American minister's cable from Lisbon, speak only of a breach of relations. It seems Vienna handed over no separate declaration, and the state of war followed from Germany's war with Portugal."
@@ -16,7 +16,7 @@ Contemporary sources, however, describe the matter more cautiously. On 16 March 
 
 ## Following the ally
 
-Formally, Vienna did not have to follow Berlin. The [Dual Alliance](https://pl.wikipedia.org/wiki/Dwuprzymierze) of 1879 was a defensive alliance, directed above all against Russia, and did not oblige Austria-Hungary to go to war with every enemy of Germany. Nor did war automatically extend to all members of a coalition. Italy had been fighting Austria-Hungary since May 1915, while for more than a year it formally remained at peace with Germany.
+Formally, Vienna did not have to follow Berlin. The [Dual Alliance](/niemcy-i-austro-wegry-zawieraja-dwuprzymierze) of 1879 was a defensive alliance, directed above all against Russia, and did not oblige Austria-Hungary to go to war with every enemy of Germany. Nor did war automatically extend to all members of a coalition. Italy had been fighting Austria-Hungary since May 1915, while for more than a year it formally remained at peace with Germany.
 
 In practice, however, Austria-Hungary, increasingly dependent on Germany in 1916, could not maintain normal relations with a state with which its ally was at war. The dispute with Portugal also concerned Vienna directly. The Portuguese had requisitioned not only German ships but also two Austro-Hungarian ones, and the [seizure of the ships in the Tagus](/portugalia-zajmuje-niemieckie-statki) was the immediate cause of Germany's declaration of war.
 

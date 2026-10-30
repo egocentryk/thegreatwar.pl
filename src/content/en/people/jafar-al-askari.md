@@ -6,7 +6,7 @@ country: Hejaz
 birthPlace: Baghdad (Ottoman Empire)
 deathPlace: Baghdad
 source: dzafar-al-askari
-sourceHash: 97ea43526649da87b45e6e770b0ff14e487453a8
+sourceHash: 7259157bf4487f675d7813d46b493385087931bb
 ---
 
 During the Great War Ja'far al-Askari travelled a road that probably no other officer travelled: he fought first against the British, and then at their side. An Arab from Baghdad, educated in Constantinople and in Germany, in 1915 he organised and led the forces of the [Senussi](https://pl.wikipedia.org/wiki/Sanusijja) order in their expedition against the western border of Egypt. In February 1916 he was taken prisoner at Agagia. In a Cairo prison, shaken by the executions of Arab activists in Syria, he decided to join the revolt of the Sharif of Mecca. From 1917 he commanded the regular units of the Arab Northern Army of Emir [Faisal](/postacie/fajsal-i), with which he fought at Petra, Tafilah and Ma'an, up to the taking of Syria. After the war he helped build the Iraqi army and state, was twice Prime Minister of Iraq, and was killed in 1936 during the country's first military coup.
@@ -15,7 +15,7 @@ During the Great War Ja'far al-Askari travelled a road that probably no other of
 
 He was born on 15 September 1885 in Baghdad. Some sources give Kirkuk as his birthplace, and the Polish Wikipedia gives 1887 as the year. His father was a colonel in the Ottoman army, and the family derived the name "al-Askari" from the village of Askar near Kirkuk, where an ancestor had settled centuries before. He grew up in Mosul. He studied at the military school in Baghdad and in 1901–1904 at the military academy in Constantinople, after which he joined the 6th Army in Iraq as a second lieutenant. After the Young Turk Revolution he was among the first group of officers sent for training in Germany, and in 1910–1912 he served in Berlin and in a Baden grenadier regiment in Karlsruhe.
 
-On news of the outbreak of the [Balkan War](https://pl.wikipedia.org/wiki/I_wojna_bałkańska) he returned home, commanded a company and was wounded in October 1912. He then worked on the staff of a corps whose chief was [Enver](/postacie/enver-pasza), taught at the officers' school in Aleppo and passed the entrance examination for the general staff academy. He was a tall, stout, sociable man, knew several languages and, by many accounts, easily won people over, opponents included.
+On news of the outbreak of the [Balkan War](/czarnogora-rozpoczyna-pierwsza-wojne-balkanska) he returned home, commanded a company and was wounded in October 1912. He then worked on the staff of a corps whose chief was [Enver](/postacie/enver-pasza), taught at the officers' school in Aleppo and passed the entrance examination for the general staff academy. He was a tall, stout, sociable man, knew several languages and, by many accounts, easily won people over, opponents included.
 
 ## The Senussi
 

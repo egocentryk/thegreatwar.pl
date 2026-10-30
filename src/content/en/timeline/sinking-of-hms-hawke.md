@@ -2,7 +2,7 @@
 title: Sinking of HMS Hawke
 summary: On 15 October 1914 Otto Weddigen's U-9 sank the British cruiser Hawke in the North Sea. More than 520 sailors were killed and about 70 survived.
 source: zatoniecie-hms-hawke
-sourceHash: a65c9a497284714e2a3f59c136a2698f31311024
+sourceHash: 10e9e9f2fb474703c671e8cce75e12cfc9a0c885
 ---
 
 Before noon on 15 October 1914 the German submarine [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) torpedoed the British cruiser [*Hawke*](https://pl.wikipedia.org/wiki/HMS_Hawke_(1891)) in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), off the coast of Scotland. The ship capsized and sank within a few minutes. More than 520 officers and men were killed. U-9 was commanded by Kapitänleutnant [Otto Weddigen](https://pl.wikipedia.org/wiki/Otto_Weddigen), who three weeks earlier had [sunk the cruisers *Aboukir*, *Hogue* and *Cressy*](/zatoniecie-aboukir-hogue-i-cressy).
@@ -25,6 +25,6 @@ For a long time the other cruisers did not know of the disaster. Only after 1 p.
 
 ## Consequences
 
-The sinking of *Hawke* was another blow to the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), moved the cruiser patrol lines further north and west, away from the areas where U-boats were operating. Weddigen's fame in Germany grew even greater. On 24 October the Kaiser awarded him Prussia's highest military order, the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). He was killed in March 1915, when his new boat, U-29, was rammed by the battleship [*Dreadnought*](https://pl.wikipedia.org/wiki/HMS_Dreadnought_(1906)).
+The sinking of *Hawke* was another blow to the [Royal Navy](https://pl.wikipedia.org/wiki/Royal_Navy). Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the [Grand Fleet](https://pl.wikipedia.org/wiki/Grand_Fleet), moved the cruiser patrol lines further north and west, away from the areas where U-boats were operating. Weddigen's fame in Germany grew even greater. On 24 October the Kaiser awarded him Prussia's highest military order, the [Pour le Mérite](https://pl.wikipedia.org/wiki/Pour_le_Mérite). He was killed in March 1915, when his new boat, U-29, was rammed by the battleship [*Dreadnought*](/wodowanie-hms-dreadnought).
 
 The wreck of *Hawke* was found in August 2024 by British amateur divers of the Lost in Waters Deep team, about 110 kilometres east of Fraserburgh in north-east Scotland, at a depth of about 110 metres. In November 2024 the Royal Navy confirmed its identity. The wreck is a war grave.

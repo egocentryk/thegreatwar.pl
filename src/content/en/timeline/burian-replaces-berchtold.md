@@ -2,14 +2,14 @@
 title: Burián replaces Berchtold
 summary: On 13 January 1915 Baron István Burián replaced Count Berchtold as Austro-Hungarian foreign minister. Berchtold had to go for being ready to yield to Italy.
 source: burian-zastepuje-berchtolda
-sourceHash: 4ef7f7a4ccc0d8bc62bfcf6b64a3d5c4a84b500f
+sourceHash: 46b8bcc748b0427256621ee998ab313673e0d368
 ---
 
 On 13 January 1915 Count [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) ceased to be foreign minister of Austria-Hungary. His successor was a Hungarian, Baron [István Burián](/postacie/istvan-burian), a close associate of the Hungarian prime minister, Count [István Tisza](/postacie/istvan-tisza). The change at the head of the Habsburg monarchy's diplomacy was the result of a dispute over how to respond to Italy's demands.
 
 ## The dispute over compensation
 
-Italy, formally an ally of Austria-Hungary and Germany in the [Triple Alliance](https://pl.wikipedia.org/wiki/Trójprzymierze), had declared neutrality in August 1914. It soon began to bargain over the price of maintaining it. At the beginning of December 1914 the new foreign minister, [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych), invoked Article VII of the alliance treaty in a note to Vienna. Under it, if Austria-Hungary altered the status quo in the Balkans, even by a temporary occupation, Italy was entitled to compensation. In Rome's view the war with Serbia was exactly such a case. Rome made no secret that what it wanted above all were the Austrian lands inhabited by Italians, especially [Trentino](https://pl.wikipedia.org/wiki/Trydent_(prowincja)).
+Italy, formally an ally of Austria-Hungary and Germany in the [Triple Alliance](/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze), had declared neutrality in August 1914. It soon began to bargain over the price of maintaining it. At the beginning of December 1914 the new foreign minister, [Sidney Sonnino](/sonnino-ministrem-spraw-zagranicznych), invoked Article VII of the alliance treaty in a note to Vienna. Under it, if Austria-Hungary altered the status quo in the Balkans, even by a temporary occupation, Italy was entitled to compensation. In Rome's view the war with Serbia was exactly such a case. Rome made no secret that what it wanted above all were the Austrian lands inhabited by Italians, especially [Trentino](https://pl.wikipedia.org/wiki/Trydent_(prowincja)).
 
 Vienna long delayed. The Germans, on the other hand, applied pressure, fearing that Italy would join the Entente. In the second half of December the former chancellor [Bernhard von Bülow](https://pl.wikipedia.org/wiki/Bernhard_von_Bülow), who openly favoured concessions, arrived in Rome as a special envoy. Berchtold finally gave way. At the turn of the year he came to the conclusion that the cession of Trentino was a price worth paying for Italian neutrality.
 
