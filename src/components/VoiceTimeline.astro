@@ -1,0 +1,195 @@
+---
+// "Głosy z frontu" in the timeline's look (the tl-* classes of
+// global.css): one year per page with the year and month menus, months as
+// sections, a dot for each day and the day's voices beside it. A voice
+// shows the title of its article as the link (as timeline entries do), the
+// quote, its author, role, kind and source, and folds the original of a
+// translation. /glosy shows the first year with the intro;
+// /glosy/1915 … the others.
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { locale, type Lang } from "@/i18n"
+import { localEvents, localPeople } from "@/i18n/local"
+import { listPageLd } from "@/utils/jsonLd"
+import { kindLabel, quoteIn, VOICE_YEARS, VOICES, voicesOfYear, voicesPath, type Voice } from "@/utils/voices"
+
+interface Props {
+  year: number
+  lang?: Lang
+}
+
+const { year, lang = "pl" } = Astro.props
+const en = lang === "en"
+const first = year === VOICE_YEARS[0]
+const events = new Map((await localEvents(lang)).map((e) => [e.id, e]))
+const people = new Map((await localPeople(lang)).map((p) => [p.id, p.href]))
+
+// Months, then days, as in TimelineArchive.astro.
+const monthName = new Intl.DateTimeFormat(locale(lang), { month: "long", timeZone: "UTC" })
+type Day = { day: string; voices: Voice[] }
+const months: { slug: string; label: string; days: Day[]; count: number }[] = []
+for (const v of voicesOfYear(year)) {
+  const slug = v.date.slice(5, 7)
+  let month = months.find((m) => m.slug === slug)
+  if (!month) {
+    month = { slug, label: monthName.format(new Date(`${v.date.slice(0, 7)}-01T00:00:00Z`)), days: [], count: 0 }
+    months.push(month)
+  }
+  const day = v.date.slice(8, 10)
+  let group = month.days.at(-1)
+  if (group?.day !== day) {
+    group = { day, voices: [] }
+    month.days.push(group)
+  }
+  group.voices.push(v)
+  month.count++
+}
+
+const t = en
+  ? {
+      eyebrow: "Voices from the front",
+      lead: "The war in the words of those who lived through it.",
+      text: `${VOICES.length} short quotes from diaries, letters, memoirs, speeches and orders of the time, each beside the event it belongs to. Every quote comes from a public-domain text we have read; quotes in other languages are translated and their originals are given.`,
+      title: first ? "Voices from the front" : `Voices from the front, ${year}`,
+      years: "Years",
+      months: "Months",
+      original: "Original",
+      source: "source",
+    }
+  : {
+      eyebrow: "Głosy z frontu",
+      lead: "Wojna słowami tych, którzy ją przeżyli.",
+      text: `${VOICES.length} krótkich cytatów z ówczesnych dzienników, listów, wspomnień, przemówień i rozkazów, każdy przy wydarzeniu, którego dotyczy. Każdy pochodzi z przeczytanego przez nas tekstu w domenie publicznej; cytaty obcojęzyczne tłumaczymy i podajemy oryginał.`,
+      title: first ? "Głosy z frontu" : `Głosy z frontu, ${year}`,
+      years: "Lata",
+      months: "Miesiące",
+      original: "Oryginał",
+      source: "źródło",
+    }
+const path = voicesPath(lang, year)
+const jsonLd = listPageLd(Astro.site!, {
+  lang,
+  path,
+  name: t.title,
+  description: t.text,
+  trail: first ? [] : [{ name: t.eyebrow, path: voicesPath(lang) }],
+  items: months.flatMap((m) => m.days.flatMap((d) => d.voices.map((v) => `${path}#${v.id}`))),
+})
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.text}
+  lang={lang}
+  alternates={en ? { pl: voicesPath("pl", year) } : { en: voicesPath("en", year) }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 pb-24 sm:pt-24">
+    <SectionHeading eyebrow={t.eyebrow} count={VOICES.length} level={first ? 1 : 2} />
+    {
+      first && (
+        <>
+          <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">{t.lead}</p>
+          <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">{t.text}</p>
+        </>
+      )
+    }
+
+    <div class="border-line mt-10 space-y-4 border-b pb-4 font-mono print:hidden">
+      <nav class="font-display flex flex-wrap gap-x-6 gap-y-2 text-2xl leading-none font-medium sm:gap-x-8 sm:text-3xl" aria-label={t.years}>
+        {
+          VOICE_YEARS.map((y) => (
+            <a
+              href={voicesPath(lang, y)}
+              aria-current={y === year ? "page" : undefined}
+              class:list={["transition-colors", y === year ? "text-signal" : "text-ink-soft hover:text-ink"]}
+            >
+              {y}
+            </a>
+          ))
+        }
+      </nav>
+      <nav class="flex flex-wrap items-center gap-x-2 gap-y-2 text-[9px] tracking-[0.2em] uppercase" aria-label={`${t.months} ${year}`}>
+        {
+          months.map((m, i) => (
+            <>
+              {i > 0 && <span aria-hidden="true" class="text-ink-soft">·</span>}
+              <a href={`#${year}-${m.slug}`} class="text-ink-soft hover:text-ink transition-colors">
+                {m.label} <span class="text-signal">{m.count}</span>
+              </a>
+            </>
+          ))
+        }
+      </nav>
+    </div>
+
+    <div class="mt-10">
+      {
+        first ? (
+          <h2 class="font-display text-ink text-3xl font-medium sm:text-4xl">{year}</h2>
+        ) : (
+          <h1 class="font-display text-ink text-3xl font-medium sm:text-4xl">{year}</h1>
+        )
+      }
+      <div class="mt-6 space-y-8">
+        {
+          months.map((m) => (
+            <section class="tl-month scroll-mt-24" id={`${year}-${m.slug}`}>
+              <h3 class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{m.label}</h3>
+              <ul class="border-line mt-3 border-l pl-5">
+                {m.days.map((d) => (
+                  <li class="tl-day">
+                    <span aria-hidden="true" class="tl-dot" />
+                    <div class="tl-day-grid">
+                      <span class="tl-day-num">{d.day}</span>
+                      <ul>
+                        {d.voices.map((v) => {
+                          const quote = quoteIn(v, lang)
+                          const article = events.get(v.article)
+                          const personHref = v.person ? people.get(v.person) : undefined
+                          return (
+                            <li class="tl-entry scroll-mt-24" id={v.id}>
+                              {article ? (
+                                <a href={article.href} class="group block">
+                                  <span class="tl-title font-display text-xl leading-snug font-medium">{article.data.title}</span>
+                                </a>
+                              ) : null}
+                              <blockquote class="border-signal/50 text-ink/85 mt-3 border-l-2 pl-4 text-[15px] leading-7 italic">
+                                {en ? `“${quote.text}”` : `„${quote.text}”`}
+                              </blockquote>
+                              <p class="tl-summary">
+                                —{" "}
+                                {personHref ? (
+                                  <a href={personHref} class="text-ink hover:text-signal transition-colors">{v.author}</a>
+                                ) : (
+                                  <span class="text-ink">{v.author}</span>
+                                )}
+                                , {en ? v.roleEn : v.role} · {kindLabel(v.kind, lang)} ·{" "}
+                                <a href={v.source} class="hover:text-signal underline transition-colors" title={v.sourceTitle} rel="noopener">
+                                  {t.source} ↗
+                                </a>
+                              </p>
+                              {quote.translated && (
+                                <details class="mt-1">
+                                  <summary class="text-ink-soft hover:text-signal cursor-pointer font-mono text-[11px]">
+                                    {t.original} ({v.originalLang})
+                                  </summary>
+                                  <p class="text-ink-soft mt-1 text-sm leading-6 italic" lang={v.originalLang}>{v.original}</p>
+                                </details>
+                              )}
+                            </li>
+                          )
+                        })}
+                      </ul>
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+

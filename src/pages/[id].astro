@@ -19,6 +19,7 @@ import InBrief from "@/components/InBrief.astro"
 import { articleImage } from "@/utils/articleImages"
 import ReportError from "@/components/ReportError.astro"
 import SeriesBox from "@/components/SeriesBox.astro"
+import VoiceBox from "@/components/VoiceBox.astro"
 import TopicBox from "@/components/TopicBox.astro"
 import Sources from "@/components/Sources.astro"
 import SupportCard from "@/components/SupportCard.astro"
@@ -272,6 +273,8 @@ const glossaryTerms = termsIn(entry.body ?? "", "pl", entry.id)
             <GlossaryMarks terms={glossaryTerms} lang="pl" />
             <PersonPreviews body={entry.body ?? ""} lang="pl" />
           </div>
+
+          <VoiceBox ref={entry.id} />
 
           <div class="lg:hidden">
             <TopicBox ref={entry.id} />

@@ -1,0 +1,17 @@
+---
+import VoiceTimeline from "@/components/VoiceTimeline.astro"
+import { VOICE_YEARS } from "@/utils/voices"
+
+// The first year is shown on /glosy itself.
+export function getStaticPaths() {
+  return VOICE_YEARS.slice(1).map((year) => ({ params: { year: String(year) }, props: { year } }))
+}
+
+interface Props {
+  year: number
+}
+
+const { year } = Astro.props
+---
+
+<VoiceTimeline year={year} lang="en" />

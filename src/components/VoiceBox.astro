@@ -1,0 +1,67 @@
+---
+// "Głos z frontu" under an article's text: the article's first-hand quotes
+// (utils/voices.ts), each with its author, role, kind, date and source; a
+// translated quote can unfold its original. Renders nothing when the article
+// has none.
+import { locale, type Lang } from "@/i18n"
+import { localPeople } from "@/i18n/local"
+import { formatDate } from "@/utils/formatDate"
+import { kindLabel, quoteIn, voiceHref, voicesFor } from "@/utils/voices"
+
+interface Props {
+  // Polish id of the article.
+  ref: string
+  lang?: Lang
+}
+
+const { ref, lang = "pl" } = Astro.props
+const en = lang === "en"
+const voices = voicesFor(ref)
+const people = new Map((await localPeople(lang)).map((p) => [p.id, p.href]))
+const t = en
+  ? { eyebrow: voices.length > 1 ? "Voices from the front" : "A voice from the front", source: "source", original: "Original", translated: "Translated", all: "All voices from the front →" }
+  : { eyebrow: voices.length > 1 ? "Głosy z frontu" : "Głos z frontu", source: "źródło", original: "Oryginał", translated: "Tłumaczenie", all: "Wszystkie głosy z frontu →" }
+---
+
+{
+  voices.length > 0 && (
+    <section class="mt-10 max-w-2xl" aria-label={t.eyebrow}>
+      <p class="text-signal font-mono text-[10px] tracking-[0.2em] uppercase">{t.eyebrow}</p>
+      <div class="mt-3 space-y-6">
+        {voices.map((v) => {
+          const quote = quoteIn(v, lang)
+          const href = v.person ? people.get(v.person) : undefined
+          return (
+            <figure class="border-signal border-l-2 pl-5">
+              <blockquote class="font-display text-ink text-xl leading-snug">{en ? `“${quote.text}”` : `„${quote.text}”`}</blockquote>
+              <figcaption class="text-ink-soft mt-3 text-sm leading-6">
+                —{" "}
+                {href ? (
+                  <a href={href} class="text-ink hover:text-signal transition-colors">{v.author}</a>
+                ) : (
+                  <span class="text-ink">{v.author}</span>
+                )}
+                , {en ? v.roleEn : v.role}
+                <span class="mt-1 block font-mono text-[11px]">
+                  {kindLabel(v.kind, lang)} · {formatDate(new Date(`${v.date}T00:00:00Z`), "long", undefined, locale(lang))} ·{" "}
+                  <a href={v.source} class="hover:text-signal underline transition-colors" title={v.sourceTitle} rel="noopener">
+                    {t.source} ↗
+                  </a>
+                </span>
+              </figcaption>
+              {quote.translated && (
+                <details class="mt-2">
+                  <summary class="text-ink-soft hover:text-signal cursor-pointer font-mono text-[11px]">
+                    {t.translated} · {t.original} ({v.originalLang})
+                  </summary>
+                  <p class="text-ink-soft mt-2 text-sm leading-6 italic" lang={v.originalLang}>{v.original}</p>
+                </details>
+              )}
+            </figure>
+          )
+        })}
+      </div>
+      <a href={voiceHref(voices[0], lang)} class="text-signal mt-4 inline-block font-mono text-xs hover:underline print:hidden">{t.all}</a>
+    </section>
+  )
+}

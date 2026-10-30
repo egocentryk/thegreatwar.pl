@@ -2227,6 +2227,120 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 41. "Głosy z frontu", pilot: August 1914 (2026-10-30)
+
+- 12 first-hand quotes for August 1914 (`src/data/voices.json`), from 8
+  nations, 4 Polish: Piłsudski, Luboń-Kamiński's diary of the Kadrówka,
+  Grand Duke Nicholas's proclamation, Bandrowski in Lwów, Mildred Aldrich,
+  Albert I, Giraudoux, Hoffmann, Bloem, Smith-Dorrien, Gibson at Leuven,
+  Paléologue/Sazonov after Tannenberg. Public domain only (author died
+  1955 or earlier); every quote copied from a digitised text (Wikisource,
+  archive.org, Gutenberg), with the original language kept for translations.
+- Data and check: brief `scripts/briefs/voices.md`, evidence
+  `scripts/evidence/voices/`, checker and merge `scripts/checks/voices.py`
+  (fields, article exists and is within 10 days, at most 2 per article,
+  author's death year, 15–70 words, Polish/English text matches the
+  original, source not Wikipedia).
+- Display: `VoiceBox.astro` under the article text (PL and EN), with the
+  original of a translated quote folded under it; `/glosy` and
+  `/en/voices` (`VoiceList.astro`) list all voices. Not in the menu yet: a
+  pilot for the owner to judge before scaling up.
+- Batch 1 (IX 1914 – III 1915, owner chose "key articles first, then
+  months"): 31 more voices, 43 in all. Three groups (Western Front;
+  Flanders, the sea and home fronts; the East, Polish lands and Ottoman
+  fronts), 6 Polish voices (Piłsudski ×3, Żeromski, Bandrowski, a Lublin
+  woman via Kondruszkin), Witkop's *Kriegsbriefe gefallener Studenten*,
+  Gleichen, Lintier, Moltke's letters, Macnaughtan, Michaelsburg in
+  Przemyśl. Two duplicates dropped at merge. The checker now has an
+  `odezwa` kind and compares long quotes correctly (`autojunk=False`).
+  Key articles left without a voice (no public-domain source found):
+  Grand Couronné, Albert, Artois, Arras, Armentières, first Champagne,
+  Messines, Langemarck, Nonne Bosschen, Givenchy, Łowczówek; no Serbian or
+  Belgian voice yet.
+- Owner's rules after batch 1: no cap on voices per author; orders,
+  letters and proclamations may be up to 14 days from their article (the
+  checker enforces it). Added Piłsudski's order after Łowczówek.
+- Batch 2 (IV – XII 1915): 37 voices, 81 in all. Western Front (McCrae,
+  Lauriat on the Lusitania, Seeger, Sorley, Chapin, Gibson on Cavell, Boelcke),
+  the south (Hamilton, Beeston at Anzac, Knapp at Van, Rößler on the
+  Armenians, Boselli, Borsi, Stobart in Serbia, Żostow, Townshend at Kut),
+  the East (Słomka, Orkan, Rodziewiczówna, Gippius, Pares, Hoffmann,
+  Michaelsburg). One weak voice (a reaction piece, not first-hand) dropped.
+  No public-domain voice found for Hill 60, Gravenstafel, Frezenberg,
+  Aubers, second Artois, Le Linge, the first raid on London, Salonika,
+  Italy's war on Turkey, the Gallipoli evacuation, Rarańcza, the Legions in
+  Volhynia. Van: our article has Cevdet demanding about 4,000 men, Knapp
+  3,000.
+- Batch 3 (I – VIII 1916): 42 voices, 123 in all, four groups. Verdun and
+  the home fronts (Raynal at Fort Vaux, Stephens and Mrs Norway in Dublin,
+  Jellicoe, the Kaiser's Skagerrak speech, Earl Russell on conscription),
+  the Somme (Seeger, Olive Dent, Carver, Lee, H. E. Williams before
+  Fromelles, the Raws brothers, Schmidt at Guillemont), the south (King
+  Nikola, Bell on Kut and Mecca, Townshend, Fahreddin, the Sharif's
+  proclamation, Brett Young, Barzini at Gorizia, Queen Marie, King
+  Ferdinand), the East (Brusilov, Hoffmann, Daszyński, Piłsudski on
+  Kostiuchnówka and on the second anniversary). One undated retrospective
+  sketch dropped. Weakest source: Lee's letter, from a memorial website's
+  transcription. Content gap: no article on Kostiuchnówka / Polska Góra
+  (VII 1916); its voices sit on `koniec-bitwy-pod-baranowiczami`. No voice
+  for Lochnagar, Bazentin, the Sussex, the Gallipoli evacuation, Lovćen,
+  Mora, Kilimanjaro, Sykes–Picot, Portugal.
+- Batches 4–8 (IX 1916 – XII 1918, owner: "cover the whole war"): 231
+  voices, **354 in all**, on 301 articles (150 of the 260 key articles
+  since VIII 1914), 185 authors, 15 languages (en 167, de 60, pl 53, fr
+  34, ru 19, it 10, and ro, uk, bg, zh, pt, cs, tr, sk, hu). Groups by
+  theatre plus a Polish group for 1917–1918; two batches ran in parallel,
+  each writer told the other groups' key articles. Highlights: Reed,
+  Beatty and Gippius in Petrograd, Czernin and Hoffmann at Brest, Rommel
+  at Caporetto, Weizmann on the Balfour Declaration, Lawrence at Aqaba,
+  Megiddo and Damascus, Monash, Owen's last letters, Nicholas II's last
+  diary entries, Lloyd George on 11 XI, Słomka on 1 XI 1918, Rzepecki in
+  Poznań.
+- Rules added on the way: quote originals, or a period translation only if
+  its translator is named and died by 1955, or unnamed and published by
+  1955 (anonymous: 70 years from publication); `died: null` with a
+  `licence` note for texts freed by their heirs (Durville, PD-heirs on
+  Commons) and for official documents (Regency Council, Provisional Council
+  of State, governments, IV Universal, Alba Iulia; Polish copyright act
+  art. 4) — 17 such voices. A guessed death year is not accepted.
+- Overlaps cleaned at merge: duplicate ids renamed, four voices dropped
+  where two groups chose the same articles (batch 4), two weak voices
+  dropped (not first-hand, undated).
+- For the owner: Tormay (Hungarian, Villa Giusti) wrote a far-right,
+  antisemitic diary; the quote is soldiers' talk, flagged in `why`.
+- Content gaps found: no article on Kostiuchnówka (VII 1916), the Lost
+  Battalion, Rarańcza 1915, the Legions in Volhynia 1915.
+- Possible fixes to our articles reported by the writers (for the review
+  list): Compiègne signing at 5.12–5.20 (Erzberger) vs "kilka minut po
+  piątej"; the Kucharzewski cabinet resigned 11/12 II and the Regency
+  Council's proclamation is dated 14 II (not 13 II); Piłsudski reached
+  Warsaw 12 vs 15 XII 1916; Selous buried under a baobab (Buchanan), not a
+  tamarind; Van: Cevdet's demand 4,000 vs 3,000 men; Rommel's "over 1,000
+  guns" at Tolmein vs "setki dział"; Daszyński on the 27/28 V 1917 votes;
+  Arleux zero hour 4.25 vs 4.30.
+- Display redesign (owner: the single page with 354 voices was far too
+  long; a hub with card grids was tried and rejected; chose "like the
+  timeline"): `VoiceTimeline.astro` uses the timeline's own `tl-*` classes —
+  year and month menus, months as sections, a dot and day number per day.
+  Each voice is headed by the title of its article as a real link (as
+  timeline entries are; owner: link the article, not a toggle, for SEO),
+  then the full quote, author (person page link), role, kind and source;
+  the original of a translation is folded. Full container width. `/glosy` shows 1914 with the
+  intro (as `/timeline` opens at its first year), `/glosy/1915` … the other
+  years; an article's box links to its voice there (`voiceHref`, `#<id>`). Linked from the homepage next to "Wojna w liczbach"
+  ("Głosy z frontu →" / "Voices from the front →"); not in the main menu.
+
+### Writers' notes (for the review list)
+
+- `bitwa-pod-le-cateau`: Wilson's call "about 7.00" and Smith-Dorrien's
+  "too late" reply follow the Official History; his memoir has 6.45, a
+  reply that he would try to break off, and Wilson's "Good luck to you;
+  yours is the first cheerful voice I have heard for three days."
+- No first-hand Kalisz voice found whose author certainly died by 1955
+  (the 1914 "Na zgliszczach Kalisza" is signed only "W. Z.").
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2323,6 +2437,7 @@ finished, tick it here and add its section above.
 - [x] Known errors: Rada Polska seat, Gete and Liège details, guide summary (§38)
 - [x] Five 1914 battle pages expanded: Mons, Charleroi, Ardennes, Lorraine, Mulhouse (§39)
 - [x] Country pages "Kraje w wojnie": 16 states, PL/EN (§40)
+- [x] "Głosy z frontu": pilot (12 voices, VIII 1914) batches 1–8: 354 voices, VIII 1914 – XII 1918 (§41)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

@@ -142,12 +142,14 @@ const t = {
           <dd class="font-display text-ink mt-1 text-2xl">{coveredUntil}</dd>
         </div>
       </dl>
-      <a
-        href={lang === "en" ? "/en/war-in-numbers" : "/wojna-w-liczbach"}
-        class="text-signal -mt-6 inline-block font-mono text-xs hover:underline"
-      >
-        {lang === "en" ? "The war in numbers →" : "Wojna w liczbach →"}
-      </a>
+      <p class="-mt-6 flex flex-wrap gap-x-6 gap-y-2 font-mono text-xs">
+        <a href={lang === "en" ? "/en/war-in-numbers" : "/wojna-w-liczbach"} class="text-signal hover:underline">
+          {lang === "en" ? "The war in numbers →" : "Wojna w liczbach →"}
+        </a>
+        <a href={lang === "en" ? "/en/voices" : "/glosy"} class="text-signal hover:underline">
+          {lang === "en" ? "Voices from the front →" : "Głosy z frontu →"}
+        </a>
+      </p>
 
       <div class="[&>aside]:mt-0 [&>aside]:max-w-none">
         <SupportCard lang={lang} variant="home" stacked />
