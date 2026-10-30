@@ -1,0 +1,301 @@
+---
+// One country page (utils/countries.ts): title and lead, side and the dates
+// it was at war, "W skrócie", its figures from "Wojna w liczbach", the text
+// with a contents list, then what the site has on it: key battles (all
+// battles folded), people, key dates and a link to all its articles. Used by
+// /kraje/<id> and /en/countries/<slug>.
+import { render } from "astro:content"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import GlossaryMarks from "@/components/GlossaryMarks.astro"
+import InBrief from "@/components/InBrief.astro"
+import PersonPreviews from "@/components/PersonPreviews.astro"
+import ReportError from "@/components/ReportError.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import SidebarSupport from "@/components/SidebarSupport.astro"
+import Sources from "@/components/Sources.astro"
+import SupportCard from "@/components/SupportCard.astro"
+import { locale, plural, rewriteEnHtml, sideEn, type Lang } from "@/i18n"
+import { paths } from "@/i18n/local"
+import { countryFacts, type LocalCountry } from "@/utils/countries"
+import { formatDate, formatDateRange } from "@/utils/formatDate"
+import { termsIn } from "@/utils/glossary"
+import { breadcrumbLd, topicLd } from "@/utils/jsonLd"
+import { pageEntities } from "@/utils/pageEntities"
+import { slugify } from "@/utils/slugify"
+import { formatRange, warNumbersPath } from "@/utils/warNumbers"
+
+interface Props {
+  country: LocalCountry
+  lang?: Lang
+}
+
+const { country, lang = "pl" } = Astro.props
+const en = lang === "en"
+const to = paths(lang)
+const loc = locale(lang)
+const { source } = country
+const { Content, headings } = await render(country.entry)
+const html = en ? await rewriteEnHtml(country.entry.rendered?.html ?? "") : undefined
+const contents = headings.filter((h) => h.depth === 2)
+const facts = await countryFacts(country, lang)
+const glossaryTerms = termsIn(country.entry.body ?? "", lang, source.id)
+const updated = formatDate(source.data.updated, "long", undefined, loc)
+const atWar = `${formatDate(source.data.entered, "long", undefined, loc)} – ${formatDate(source.data.left, "long", undefined, loc)}`
+// Key battles are listed; with many battles the rest fold away.
+const shownBattles = facts.keyBattles.length >= 3 ? facts.keyBattles : facts.battles.slice(0, 12)
+const moreBattles = facts.battles.filter((b) => !shownBattles.includes(b))
+
+const t = {
+  pl: {
+    back: "← Wszystkie kraje",
+    eyebrow: "Kraje w wojnie",
+    side: "Strona",
+    atWar: "W wojnie",
+    contents: "W tym tekście",
+    numbers: "W liczbach",
+    numbersMore: "Wojna w liczbach →",
+    battles: "Bitwy",
+    moreBattles: (n: number) => `Pozostałe bitwy (${n})`,
+    people: "Postacie",
+    dates: "Najważniejsze daty",
+    all: (n: number) => `Wszystkie artykuły (${n}) →`,
+    updated: "Aktualizacja",
+    authors: (n: number) => (n > 1 ? "Autorzy" : "Autor"),
+    countries: "Kraje",
+  },
+  en: {
+    back: "← All countries",
+    eyebrow: "Countries at war",
+    side: "Side",
+    atWar: "At war",
+    contents: "On this page",
+    numbers: "In numbers",
+    numbersMore: "The war in numbers →",
+    battles: "Battles",
+    moreBattles: (n: number) => `Other battles (${n})`,
+    people: "People",
+    dates: "Key dates",
+    all: (n: number) => `All articles (${n}) →`,
+    updated: "Updated",
+    authors: (n: number) => (n > 1 ? "Authors" : "Author"),
+    countries: "Countries",
+  },
+}[lang]
+const articlesWord = (n: number) => plural(lang, n, ["artykuł", "artykuły", "artykułów"], ["article", "articles"])
+
+const entities = await pageEntities(Astro.site!, lang, { body: source.body ?? "" })
+const jsonLd = [
+  topicLd(Astro.site!, {
+    ...entities,
+    lang,
+    path: country.href,
+    title: country.title,
+    summary: country.summary,
+    updated: source.data.updated,
+    authors: source.data.authors,
+  }),
+  breadcrumbLd(Astro.site!, [
+    { name: en ? "Home" : "Strona główna", path: to.home },
+    { name: t.countries, path: to.countries },
+    { name: country.title, path: country.href },
+  ]),
+]
+---
+
+<BaseLayout
+  jsonLd={jsonLd}
+  title={country.title}
+  description={country.summary}
+  lang={lang}
+  alternates={country.alternate ? (en ? { pl: country.alternate } : { en: country.alternate }) : {}}
+>
+  <article class="pt-16 pb-24 sm:pt-24">
+    <div class="mx-auto max-w-6xl px-6">
+      <a href={to.countries} class="text-ink-soft hover:text-signal font-mono text-xs transition-colors print:hidden">{t.back}</a>
+
+      <p class="text-signal mt-6 font-mono text-[10px] tracking-[0.2em] uppercase">{t.eyebrow}</p>
+      <h1 class="font-display text-ink mt-3 max-w-3xl text-3xl font-medium text-balance sm:text-4xl">{country.title}</h1>
+      <p class="text-ink mt-4 max-w-2xl text-lg leading-8">{country.summary}</p>
+
+      <dl class="border-line text-ink-soft mt-6 flex flex-wrap gap-x-8 gap-y-2 border-y py-4 font-mono text-xs">
+        <div><dt class="inline">{t.side}: </dt><dd class="text-ink inline">{en ? sideEn(source.data.side) : source.data.side}</dd></div>
+        <div><dt class="inline">{t.atWar}: </dt><dd class="text-ink inline">{atWar}</dd></div>
+        <div>
+          <dt class="inline">{t.authors(source.data.authors.length)}: </dt>
+          <dd class="inline">
+            {
+              source.data.authors.map((name, index) => (
+                <>
+                  {index > 0 && ", "}
+                  <a href={`/${en ? "en/author" : "autor"}/${slugify(name)}`} class="text-ink hover:text-signal transition-colors">
+                    {name}
+                  </a>
+                </>
+              ))
+            }
+          </dd>
+        </div>
+        <div><dt class="inline">{t.updated}: </dt><dd class="inline">{updated}</dd></div>
+      </dl>
+
+      <div class="lg:grid lg:grid-cols-[minmax(0,42rem)_minmax(0,1fr)] lg:gap-12 xl:gap-16">
+        <div class="min-w-0">
+          <InBrief points={country.brief} lang={lang} />
+
+          {
+            facts.numbers.length > 0 && (
+              <section class="mt-8 max-w-2xl" aria-label={t.numbers}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.numbers}</p>
+                <dl class="mt-3 grid gap-px overflow-hidden border border-line bg-line sm:grid-cols-3">
+                  {facts.numbers.map(({ dataset, row }) => (
+                    <div class="bg-paper p-4">
+                      <dt class="text-ink-soft text-xs leading-5">{en ? dataset.titleEn : dataset.title}</dt>
+                      <dd class="font-display text-ink mt-1 text-2xl">
+                        {formatRange(row.low, row.high, en ? dataset.unitEn : dataset.unit, lang)}
+                      </dd>
+                    </div>
+                  ))}
+                </dl>
+                <a href={warNumbersPath(lang)} class="text-signal mt-2 inline-block font-mono text-xs hover:underline">{t.numbersMore}</a>
+              </section>
+            )
+          }
+
+          {
+            contents.length > 2 && (
+              <nav class="border-line mt-8 max-w-2xl border-l-2 pl-5 lg:hidden" aria-label={t.contents}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.contents}</p>
+                <ol class="mt-2 space-y-1 text-sm">
+                  {contents.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-ink hover:text-signal transition-colors">{h.text}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            )
+          }
+
+          <div class="prose prose-sm sm:prose-base mt-10 max-w-2xl [&>*:nth-child(2)]:mt-0" data-glossary-scope>
+            {en ? <Fragment set:html={html} /> : <Content />}
+            <GlossaryMarks terms={glossaryTerms} lang={lang} />
+            <PersonPreviews body={country.entry.body ?? ""} lang={lang} />
+          </div>
+
+          <Sources sources={source.data.sources} lang={lang} />
+          <ReportError title={country.title} lang={lang} />
+          <div class="lg:hidden">
+            <SupportCard lang={lang} />
+          </div>
+        </div>
+
+        <aside class="hidden space-y-8 pt-10 lg:block print:hidden">
+          {
+            contents.length > 2 && (
+              <nav aria-label={t.contents}>
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">{t.contents}</p>
+                <ol class="mt-3 space-y-2 text-sm">
+                  {contents.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-ink hover:text-signal leading-snug transition-colors">{h.text}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            )
+          }
+          {
+            facts.tagHref && (
+              <div class="border-line border-t pt-5">
+                <p class="text-ink-soft font-mono text-[10px] tracking-[0.2em] uppercase">
+                  {facts.articles} {articlesWord(facts.articles)}
+                </p>
+                <a href={facts.tagHref} class="font-display text-ink hover:text-signal mt-2 block text-lg leading-snug transition-colors">
+                  {t.all(facts.articles)}
+                </a>
+              </div>
+            )
+          }
+          <SidebarSupport lang={lang} />
+        </aside>
+      </div>
+
+      {
+        facts.battles.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow={t.battles} count={facts.battles.length} />
+            <ol class="border-line border-t">
+              {shownBattles.map((b) => (
+                <li class="border-line border-b">
+                  <a href={b.href} class="group grid gap-x-4 py-3 sm:grid-cols-[13rem_1fr]">
+                    <span class="text-ink-soft font-mono text-xs leading-6">{formatDateRange(b.data.startDate, b.data.endDate, loc)}</span>
+                    <span class="min-w-0">
+                      <span class="text-ink group-hover:text-signal block transition-colors">{b.data.title}</span>
+                      <span class="text-ink-soft mt-0.5 block text-sm leading-6">{b.data.summary}</span>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+            {moreBattles.length > 0 && (
+              <details class="mt-4">
+                <summary class="text-signal cursor-pointer font-mono text-xs">{t.moreBattles(moreBattles.length)}</summary>
+                <ul class="mt-3 grid gap-x-8 gap-y-1.5 text-sm sm:grid-cols-2">
+                  {moreBattles.map((b) => (
+                    <li class="min-w-0">
+                      <a href={b.href} class="group flex gap-3">
+                        <span class="text-ink-soft w-24 shrink-0 font-mono text-[11px] leading-6">
+                          {formatDate(b.data.startDate, "long", undefined, loc)}
+                        </span>
+                        <span class="text-ink group-hover:text-signal truncate leading-6 transition-colors">{b.data.title}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            )}
+          </section>
+        )
+      }
+
+      {
+        facts.people.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow={t.people} count={facts.people.length} />
+            <ul class="grid gap-x-8 gap-y-3 sm:grid-cols-2 lg:grid-cols-3">
+              {facts.people.map((p) => (
+                <li class="min-w-0">
+                  <a href={p.href} class="group block">
+                    <span class="text-ink group-hover:text-signal block transition-colors">{p.data.name}</span>
+                    <span class="text-ink-soft block text-sm leading-6">{p.data.role}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        facts.keyDates.length > 0 && (
+          <section class="mt-16">
+            <SectionHeading eyebrow={t.dates} count={facts.keyDates.length} />
+            <ol class="border-line border-t">
+              {facts.keyDates.map((e) => (
+                <li class="border-line border-b">
+                  <a href={e.href} class="group grid gap-x-4 py-3 sm:grid-cols-[13rem_1fr]">
+                    <span class="text-ink-soft font-mono text-xs leading-6">{formatDate(e.data.date, "long", undefined, loc)}</span>
+                    <span class="text-ink group-hover:text-signal min-w-0 transition-colors">{e.data.title}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+            {facts.tagHref && (
+              <a href={facts.tagHref} class="text-signal mt-4 inline-block font-mono text-xs hover:underline">{t.all(facts.articles)}</a>
+            )}
+          </section>
+        )
+      }
+    </div>
+  </article>
+</BaseLayout>

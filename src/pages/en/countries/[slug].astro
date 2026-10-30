@@ -1,0 +1,16 @@
+---
+import CountryPage from "@/components/CountryPage.astro"
+import { localCountries, type LocalCountry } from "@/utils/countries"
+
+export async function getStaticPaths() {
+  return (await localCountries("en")).map((country) => ({ params: { slug: country.slug }, props: { country } }))
+}
+
+interface Props {
+  country: LocalCountry
+}
+
+const { country } = Astro.props
+---
+
+<CountryPage country={country} lang="en" />

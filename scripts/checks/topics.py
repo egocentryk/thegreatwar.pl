@@ -3,6 +3,10 @@
 file (scripts/evidence/topics/<slug>.json).
 
 Usage: python3 -I scripts/checks/topics.py . <slug> [more slugs...]
+       python3 -I scripts/checks/topics.py . --countries <slug> [more...]
+       (country pages: src/content/countries/<slug>.md against
+       scripts/evidence/countries/<slug>.json, the same format and checks,
+       plus at least 2 sources outside Wikipedia)
 
 Evidence format:
 {
@@ -42,8 +46,8 @@ def split(path):
 
 def check(repo, slug):
     problems = []
-    guide = os.path.join(repo, "src/content/topics", f"{slug}.md")
-    ev_path = os.path.join(repo, "scripts/evidence/topics", f"{slug}.json")
+    guide = os.path.join(repo, "src/content", KIND, f"{slug}.md")
+    ev_path = os.path.join(repo, "scripts/evidence", KIND, f"{slug}.json")
     if not os.path.exists(guide) or not os.path.exists(ev_path):
         return [f"missing {guide if not os.path.exists(guide) else ev_path}"]
     fm, body = split(guide)
@@ -94,6 +98,8 @@ def check(repo, slug):
             problems.append(f"link to a page that doesn't exist: /{ref}")
     if len(sources) < 4:
         problems.append(f"{len(sources)} sources (want at least 4)")
+    if KIND == "countries" and sum("wikipedia.org" not in u for u in sources) < 2:
+        problems.append("fewer than 2 sources outside Wikipedia")
     body_nums = set(numbers(norm(body)))
     for point in brief:
         for n in numbers(point):
@@ -104,8 +110,13 @@ def check(repo, slug):
     print(f"{slug}: {words} words, {len(blocks)} paragraphs, {len(sources)} sources, {internal} internal links")
     return problems
 
+KIND = "topics"
+
 def main():
+    global KIND
     repo, slugs = sys.argv[1], sys.argv[2:]
+    if slugs and slugs[0] == "--countries":
+        KIND, slugs = "countries", slugs[1:]
     total = 0
     for slug in slugs:
         problems = check(repo, slug)

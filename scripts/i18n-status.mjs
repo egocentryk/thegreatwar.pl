@@ -18,7 +18,7 @@ import { readFileSync, writeFileSync, readdirSync, statSync } from "node:fs"
 import { join, basename } from "node:path"
 
 const ROOT = new URL("..", import.meta.url).pathname
-const KINDS = { timeline: "timeline", battles: "battles", people: "postacie", topics: "topics" }
+const KINDS = { timeline: "timeline", battles: "battles", people: "postacie", topics: "topics", countries: "countries" }
 const stampArg = process.argv.find((a) => a.startsWith("--stamp"))
 const stampOne = stampArg?.includes("=") ? stampArg.split("=")[1] : null
 const ci = process.argv.includes("--ci")
@@ -45,7 +45,10 @@ let total = 0
 let stale = 0
 let missingCount = 0
 for (const [kind, plDir] of Object.entries(KINDS)) {
-  const plFiles = new Map(walk(join(ROOT, "src/content", plDir)).map((f) => [basename(f, ".md"), f]))
+  let plFiles = new Map()
+  try {
+    plFiles = new Map(walk(join(ROOT, "src/content", plDir)).map((f) => [basename(f, ".md"), f]))
+  } catch {}
   let enFiles = []
   try {
     enFiles = walk(join(ROOT, "src/content/en", kind))

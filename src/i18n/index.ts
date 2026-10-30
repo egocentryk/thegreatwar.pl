@@ -49,6 +49,7 @@ export const enPath = {
   battles: (slug: string) => `/en/battles/${slug}`,
   people: (slug: string) => `/en/people/${slug}`,
   topics: (slug: string) => `/en/topics/${slug}`,
+  countries: (slug: string) => `/en/countries/${slug}`,
 }
 
 export const plPath = {
@@ -56,6 +57,7 @@ export const plPath = {
   battles: (id: string) => `/bitwy/${id}`,
   people: (id: string) => `/postacie/${id}`,
   topics: (id: string) => `/tematy/${id}`,
+  countries: (id: string) => `/kraje/${id}`,
 }
 
 type Kind = keyof typeof enPath
@@ -64,17 +66,19 @@ type Kind = keyof typeof enPath
 let mapsPromise: Promise<Record<Kind, Map<string, string>>> | undefined
 export function enSlugMaps() {
   mapsPromise ??= (async () => {
-    const [t, b, p, g] = await Promise.all([
+    const [t, b, p, g, c] = await Promise.all([
       getCollection("timelineEn", ({ data }) => !data.draft),
       getCollection("battlesEn", ({ data }) => !data.draft),
       getCollection("peopleEn", ({ data }) => !data.draft),
       getCollection("topicsEn", ({ data }) => !data.draft),
+      getCollection("countriesEn", ({ data }) => !data.draft),
     ])
     return {
       timeline: new Map(t.map((e) => [e.data.source.id, e.id])),
       battles: new Map(b.map((e) => [e.data.source.id, e.id])),
       people: new Map(p.map((e) => [e.data.source.id, e.id])),
       topics: new Map(g.map((e) => [e.data.source.id, e.id])),
+      countries: new Map(c.map((e) => [e.data.source.id, e.id])),
     }
   })()
   return mapsPromise
@@ -108,7 +112,8 @@ export function enWikiUrl(plTitle: string) {
 const PL_MARK = ' <span class="lang-mark" title="W języku polskim / in Polish">(PL)</span>'
 
 // Rewrites the links of a rendered English article:
-//   /slug, /bitwy/slug, /postacie/slug -> English page if translated,
+//   /slug, /bitwy/slug, /postacie/slug, /tematy/slug, /kraje/slug -> English
+//     page if translated,
 //     otherwise kept and marked (PL);
 //   pl.wikipedia -> en.wikipedia if there is a counterpart,
 //     otherwise kept and marked (PL).
@@ -125,7 +130,7 @@ export async function rewriteEnHtml(html: string) {
         if (url) return `<a href="${url}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`
       }
-      const internal = href.match(/^\/(?:(bitwy|postacie|tematy)\/)?([a-z0-9-]+)(#[^"]*)?$/)
+      const internal = href.match(/^\/(?:(bitwy|postacie|tematy|kraje)\/)?([a-z0-9-]+)(#[^"]*)?$/)
       if (internal) {
         const kind: Kind =
           internal[1] === "bitwy"
@@ -134,7 +139,9 @@ export async function rewriteEnHtml(html: string) {
               ? "people"
               : internal[1] === "tematy"
                 ? "topics"
-                : "timeline"
+                : internal[1] === "kraje"
+                  ? "countries"
+                  : "timeline"
         const slug = maps[kind].get(internal[2])
         if (slug) return `<a href="${enPath[kind](slug)}${internal[3] ?? ""}"${attrs}>${text}</a>`
         return `${whole}${PL_MARK}`

@@ -145,6 +145,36 @@ const people = defineCollection({
     }),
 })
 
+// "countries" live in src/content/countries/*.md and are served at /kraje/<id>:
+// one page per belligerent state. Like the guides they are reference pages:
+// they may link any article, battle or person page. The page lists the
+// state's battles, people, key dates and figures automatically by its `name`
+// (a tag, a `country` of person pages, a word in battle sides, a row label of
+// data/war-numbers.json).
+const countries = defineCollection({
+  loader: glob({ base: "./src/content/countries", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({
+    // The state as the site's tags name it: "Serbia", "Imperium Osmańskie".
+    name: z.string(),
+    title: z.string(),
+    summary: z.string().max(160),
+    brief: z.array(z.string()).max(5).default([]),
+    side: z.enum(["Ententa", "Państwa centralne"]),
+    // In the war: the first day at war, the day it stopped fighting
+    // (armistice, separate peace or capitulation).
+    entered: z.coerce.date(),
+    left: z.coerce.date(),
+    // Other row labels for it in data/war-numbers.json ("Imperium Brytyjskie").
+    numbersAs: z.array(z.string()).default([]),
+    // Position on /kraje within its side (lower first).
+    order: z.number().int(),
+    updated: z.coerce.date(),
+    authors: z.array(z.string()).min(1),
+    sources: z.array(z.url()).default([]),
+    draft: z.boolean().default(false),
+  }),
+})
+
 // "topics" live in src/content/topics/*.md and are served at /tematy/<id>:
 // long guides to one broad question ("Przyczyny I wojny światowej"). Not
 // tied to a date, so they may link any article, battle or person; every
@@ -225,4 +255,20 @@ const topicsEn = defineCollection({
   schema: z.object({ ...enBase, question: z.string(), source: reference("topics") }),
 })
 
-export const collections = { timeline, battles, people, topics, timelineEn, battlesEn, peopleEn, topicsEn }
+const countriesEn = defineCollection({
+  loader: glob({ base: "./src/content/en/countries", pattern: "**/*.md", generateId: idFromFilename }),
+  schema: z.object({ ...enBase, name: z.string(), source: reference("countries") }),
+})
+
+export const collections = {
+  timeline,
+  battles,
+  people,
+  topics,
+  countries,
+  timelineEn,
+  battlesEn,
+  peopleEn,
+  topicsEn,
+  countriesEn,
+}

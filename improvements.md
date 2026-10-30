@@ -2174,6 +2174,59 @@ page counts, sample matches, JS-escape check, `--merge`).
 
 ---
 
+## 40. Country pages, "Kraje w wojnie" (2026-10-30)
+
+- New collection `countries` (`src/content/countries/<slug>.md`, English
+  `src/content/en/countries/`), pages `/kraje`, `/kraje/<slug>`,
+  `/en/countries`, `/en/countries/<slug>`: 16 belligerents (Serbia,
+  Montenegro, Romania, Greece, France, the UK, Russia, Belgium, Japan,
+  Italy, Portugal, the US; Germany, Austria-Hungary, the Ottoman Empire,
+  Bulgaria), 1,016–1,242 words each, PL and EN, every paragraph backed by
+  verbatim quotes (`scripts/evidence/countries/`), 4–7 sources each, at
+  least 2 not Wikipedia (mostly 1914-1918-online). Brief
+  `scripts/briefs/countries.md`.
+- Front matter: `name` (the state as the tags name it), `side`,
+  `entered` / `left` (first day at war, day it stopped fighting; the text
+  explains armistice vs peace), `numbersAs` (other labels in
+  war-numbers.json, e.g. "Imperium Brytyjskie"), `order`, `updated`.
+- The page lists by itself, matched on `name` (`src/utils/countries.ts`):
+  its figures from "Wojna w liczbach" (mobilised, military deaths, share of
+  population), its battle pages (a side's name mentions the state; key
+  battles shown, the rest folded), its person pages (`country:`), its key
+  dates (milestones with its tag) and a link to all its tagged articles.
+  `CountryPage.astro`, `CountryCards.astro` (the index in two columns,
+  Entente and Central Powers).
+- Wiring: "Kraje" / "Countries" in the header; a link on /timeline next to
+  "Tematy"; tag pages of a state link its country page; `/kraje/<slug>`
+  links map to English (`rewriteEnHtml`); `i18n-status.mjs` knows the new
+  kind; `topics.py --countries <slug>` checks the pages (the guides' rules
+  plus 2 sources outside Wikipedia).
+- Port note: thesecondwar.pl can reuse the whole set (collection, util,
+  component, checker flag) with its own states.
+
+### Writers' notes (for the review list)
+
+- `1918/11/zgromadzenie-w-podgoricy`: 26 XI (ours) vs 24 XI (1914-1918-online).
+- `rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii`: 23 XI 1916 (ours)
+  vs 24 XI (1914-1918-online).
+- `kapitulacja-greckiego-iv-korpusu-w-kawali`: surrendered to the Germans
+  (ours) vs to the Bulgarian army (Hassiotis).
+- Romania in 1914-1918-online: Bucharest fell 9 XII 1916 (ours 6 XII),
+  Focșani 7 XII 1917 (ours 9 XII), Mărăști 24 VII (ours 22 VII).
+- Dobro Pole 14 IX (1914-1918-online) vs 15 IX (ours: bombardment 14th,
+  attack 15th); Bulgarian mobilisation 15 IX 1915 vs our 21/22 IX;
+  Przemyśl garrison 110,000 (encyclopedia) vs our ~120,000 prisoners.
+- Radomir republic: proclaimed by Stamboliyski (pl.wiki) vs Daskalov
+  (`postacie/aleksandyr-malinow`).
+- Portugal: Naulila incident 19 X and battle 18 XII 1914 (ours) vs both in
+  December (encyclopedia); Lettow-Vorbeck nine vs ten months in
+  Mozambique; Austria-Hungary's "declaration" of 15 III 1916 (en.wiki) vs
+  none (ours).
+- `brytyjczycy-odbijaja-mons`: title says "Brytyjczycy", the summary says
+  the Canadians entered Mons.
+
+---
+
 ## Roadmap (checklist)
 
 The full improvement plan, agreed with the owner on 2026-10-26. A checked
@@ -2269,6 +2322,7 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links to our own pages: the last 14 files (§37)
 - [x] Known errors: Rada Polska seat, Gete and Liège details, guide summary (§38)
 - [x] Five 1914 battle pages expanded: Mons, Charleroi, Ardennes, Lorraine, Mulhouse (§39)
+- [x] Country pages "Kraje w wojnie": 16 states, PL/EN (§40)
 
 ### 5. Template leftovers and code health
 - [ ] Replace the starter leftovers:

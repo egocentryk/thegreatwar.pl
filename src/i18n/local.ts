@@ -90,6 +90,8 @@ export function paths(lang: Lang) {
     people: en ? "/en/people" : "/postacie",
     topics: en ? "/en/topics" : "/tematy",
     topicPage: (slug: string) => (en ? `/en/topics/${slug}` : `/tematy/${slug}`),
+    countries: en ? "/en/countries" : "/kraje",
+    countryPage: (slug: string) => (en ? `/en/countries/${slug}` : `/kraje/${slug}`),
     series: en ? "/en/series" : "/serie",
     seriesPage: (slug: string) => (en ? `/en/series/${slug}` : `/serie/${slug}`),
     search: en ? "/en/search" : "/szukaj",

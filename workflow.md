@@ -20,6 +20,7 @@ thegreatwar.pl is a **Polish-language chronicle of the First World War**, built 
 | Schema (source of truth for front-matter) | `src/content.config.ts` |
 | Battle phases (groups on the /bitwy page) | `src/data/battlePhases.ts` |
 | Article page | `src/pages/[id].astro` |
+| Country pages ("Kraje w wojnie") | `src/content/countries/<slug>.md` (EN `src/content/en/countries/`) → `/kraje/<slug>`; battles, people, key dates and figures are listed automatically by `name` (`src/utils/countries.ts`). Brief `scripts/briefs/countries.md`, checker `topics.py --countries` |
 | Era before the war ("Przed wojną", 1879–1913) | articles in `src/content/timeline/<YYYY>/…` like any other; years before `WAR_START_YEAR` (`src/utils/groupTimelineEntries.ts`) get no year or month pages: they share `/timeline/przed-wojna` (`/en/timeline/before-the-war`), `paths().year/month` link there, and they stay out of "On this day" and the random days. Brief: `scripts/briefs/before-the-war.md`. Scope: European and Polish origins only; Asia before 1914 belongs to thesecondwar.pl |
 | Persistent memory (rules) | `~/.claude/projects/-Users-lukaszskowron-Code-astro-thegreatwar-pl/memory/` (`MEMORY.md` is the index) |
 

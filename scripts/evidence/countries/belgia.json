@@ -1,0 +1,407 @@
+{
+ "slug": "belgia",
+ "paragraphs": [
+  {
+   "start": "Belgia weszła do I wojny światowej nie z własnego w",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "Jej jedyną „winą” było położenie na drodze, którą niemiecki plan Schlieffena przewidywał dla głównego uderzenia na Francję."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "4 sierpnia 1914 Niemcy zapowiedziały Belgii użycie siły i wkroczyły na jej terytorium. Kanclerz przyznał, że łamie prawo międzynarodowe."
+    },
+    {
+     "file": "src/content/timeline/1916/02/deklaracja-z-sainte-adresse.md",
+     "quote": "Gwarantami belgijskiej niepodległości i neutralności były od traktatu londyńskiego z 1839 roku Wielka Brytania, Francja, Rosja, Austria i Prusy."
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-zapowiada-obrone-neutralnosci-belgii.md",
+     "quote": "Londyn zapowiedział wsparcie dla Belgów."
+    },
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "Król Belgów, który w 1914 roku odrzucił niemieckie ultimatum i przez cztery lata dowodził armią nad Yser. W 1918 roku poprowadził ofensywę wyzwolenia Flandrii."
+    }
+   ]
+  },
+  {
+   "start": "Neutralność Belgii gwarantował od 1839 roku trakta",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/02/deklaracja-z-sainte-adresse.md",
+     "quote": "Gwarantami belgijskiej niepodległości i neutralności były od traktatu londyńskiego z 1839 roku Wielka Brytania, Francja, Rosja, Austria i Prusy."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "In 1914, Belgium was the most densely populated state in the world, with as many inhabitants as Canada (7.6 million) on a small landmass."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "In 1908, Belgium had become a colonial power with the takeover of Leopold II, King of the Belgians (1835-1909) “Congo Free State,”"
+    },
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "Wobec narastającego napięcia w Europie popierał rozbudowę armii. W 1913 roku parlament uchwalił, przy jego wsparciu, powszechny obowiązek służby wojskowej."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Belgium_in_World_War_I",
+     "quote": "the plan was to have an army of 340,000 men by 1926."
+    }
+   ]
+  },
+  {
+   "start": "24 lipca 1914 roku rząd ogłosił, że obroni swoją n",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/07/belgia-oswiadcza-ze-obroni-swoja-neutralnosc.md",
+     "quote": "24 lipca 1914 rząd Belgii ogłosił, że w razie wojny podtrzyma swoją neutralność bez względu na konsekwencje."
+    },
+    {
+     "file": "src/content/timeline/1914/07/belgia-zarzadza-mobilizacje.md",
+     "quote": "31 lipca 1914 rząd Belgii zarządził powszechną mobilizację armii"
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-stawiaja-belgii-ultimatum.md",
+     "quote": "Wieczorem 2 sierpnia 1914 Niemcy zażądały od Belgii zgody na przemarsz swoich wojsk, dając jej 12 godzin na odpowiedź."
+    },
+    {
+     "file": "src/content/timeline/1914/08/belgia-odrzuca-niemieckie-zadania.md",
+     "quote": "Rano 3 sierpnia 1914 Belgia odrzuciła niemieckie ultimatum. Uznała, że zgoda na przemarsz wojsk oznaczałaby utratę honoru narodu."
+    }
+   ]
+  },
+  {
+   "start": "4 sierpnia o godzinie 6 rano niemiecki poseł zapow",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "4 sierpnia 1914 roku o godzinie 6 rano niemiecki poseł w Brukseli wręczył belgijskiemu ministrowi spraw zagranicznych krótką notę."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "Dwie godziny później wojska niemieckie przekroczyły granicę."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "Przyznał, że wkroczenie do Belgii jest sprzeczne z prawem międzynarodowym"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wielka-brytania-wypowiada-wojne-niemcom.md",
+     "quote": "4 sierpnia 1914 o godzinie 23 czasu londyńskiego minął termin ultimatum. Wielka Brytania i całe jej imperium znalazły się w stanie wojny z Niemcami."
+    },
+    {
+     "file": "src/content/timeline/1914/08/austro-wegry-wypowiadaja-wojne-belgii.md",
+     "quote": "Notę o stanie wojny Belgowie otrzymali jednak 28 sierpnia."
+    }
+   ]
+  },
+  {
+   "start": "Forty Liège wstrzymywały Niemców przez niemal dwa",
+   "quotes": [
+    {
+     "file": "src/content/battles/1914/bitwa-pod-liege.md",
+     "quote": "Belgijskie forty wokół Liège przez niemal dwa tygodnie wstrzymywały marsz armii niemieckiej."
+    },
+    {
+     "file": "src/content/timeline/1914/08/padaja-ostatnie-forty-liege.md",
+     "quote": "16 sierpnia 1914 skapitulowały ostatnie forty Liège, zniszczone przez ciężką artylerię."
+    },
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "odwrót do Antwerpii, oddając bez walki Brukselę, ale ratując armię, jedyną siłę zbrojną państwa."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zajmuja-bruksele.md",
+     "quote": "20 sierpnia 1914 wojska niemieckie wkroczyły do Brukseli, ogłoszonej miastem otwartym."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-zdobywaja-namur.md",
+     "quote": "25 sierpnia 1914 skapitulowały ostatnie forty Namuru."
+    }
+   ]
+  },
+  {
+   "start": "Najeźdźcy, przekonani o istnieniu cywilnych partyz",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/niemcy-niszcza-lowanium.md",
+     "quote": "powszechna wiara w cywilnych partyzantów"
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-niszcza-lowanium.md",
+     "quote": "W nocy z 25 na 26 sierpnia 1914 Niemcy podpalili belgijskie Lowanium i jego słynną bibliotekę uniwersytecką."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "The invading armies killed 5,500 civilians – mostly men, but women and children as well."
+    },
+    {
+     "file": "src/content/timeline/1915/05/raport-brycea.md",
+     "quote": "brytyjska komisja lorda Bryce'a ogłosiła raport o niemieckich zbrodniach w Belgii. Stał się jednym z najgłośniejszych dokumentów propagandy."
+    }
+   ]
+  },
+  {
+   "start": "Z Antwerpii Belgowie zagrażali skrzydłu Niemców ma",
+   "quotes": [
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "Z twierdzy Belgowie zagrażali skrzydłu Niemców maszerujących na Francję."
+    },
+    {
+     "file": "src/content/battles/1914/oblezenie-antwerpii.md",
+     "quote": "Od 27 września do 10 października 1914 Niemcy oblegali Antwerpię, ostatnią twierdzę Belgii. Miasto padło, ale armia belgijska wymknęła się nad Yser."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "Another 30,000 escaped to Holland, where they were interned for the duration."
+    },
+    {
+     "file": "src/content/timeline/1914/10/rzad-belgijski-w-hawrze.md",
+     "quote": "Osiadł w Sainte-Adresse, a Francja przyznała zajętym przez niego budynkom eksterytorialność."
+    }
+   ]
+  },
+  {
+   "start": "Armia, która dotarła nad Yser, liczyła według różn",
+   "quotes": [
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "Liczyła według różnych szacunków od 50 do 70 tysięcy wyczerpanych żołnierzy"
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-nad-yser.md",
+     "quote": "Od 16 października do 10 listopada 1914 Belgowie i Francuzi bronili linii Yser."
+    },
+    {
+     "file": "src/content/battles/1914/bitwa-nad-yser.md",
+     "quote": "przed nową niemiecką 4 Armią. Wspierali ją francuscy fizylierzy marynarki, a od strony morza brytyjskie okręty. Po dwóch tygodniach walk, gdy Niemcy przeszli już przez rzekę, Belgowie otworzyli śluzy w Nieuport i wpuścili morze na nisko położoną równinę."
+    },
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "ocaliła niewielki pas ziemi z Veurne, De Panne i Poperinge."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-pod-ypres.md",
+     "quote": "Od 19 października do 22 listopada 1914 alianci obronili Ypres przed nowymi armiami niemieckimi."
+    }
+   ]
+  },
+  {
+   "start": "Za zalaną równiną front zamarł na prawie cztery la",
+   "quotes": [
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "zamieszkał z królową Elżbietą w nadmorskim De Panne i przez całą wojnę nie odwiedził siedziby rządu."
+    },
+    {
+     "file": "src/content/timeline/1916/02/deklaracja-z-sainte-adresse.md",
+     "quote": "Belgia nie przystąpiła do londyńskiego układu sojuszników o niezawieraniu odrębnego pokoju, bo chciała pozostać w wojnie państwem neutralnym, którego neutralność pogwałcono, a nie zwykłym członkiem koalicji."
+    },
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "Nie zgadzał się na wielkie ofensywy na wzór Sommy czy Passchendaele i nie chciał oddawać wojsk pod obce rozkazy."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "Subsequently, conscripts from unoccupied West Flanders joined as did the volunteers who managed to escape the occupied country via the Netherlands and, from 1916, conscripted refugees."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Belgium_in_World_War_I",
+     "quote": "During the war young men volunteered to serve, so by 1918 the total force had returned to 170,000."
+    }
+   ]
+  },
+  {
+   "start": "W Afryce Force Publique, kolonialna armia Konga do",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Belgium_in_World_War_I",
+     "quote": "Congolese forces, under Belgian officers, fought German colonial forces in the Cameroons and seized control of the western third of German East Africa, advancing as far as the town at Tabora. The League of Nations in 1925 made Belgium the trustee of this territory (modern Rwanda and Burundi) as the mandate of Ruanda-Urundi."
+    },
+    {
+     "file": "src/content/timeline/1916/09/belgowie-zajmuja-tabore.md",
+     "quote": "Brygada Północna pułkownika Philippe'a Molitora, która wiosną zajęła Ruandę"
+    },
+    {
+     "file": "src/content/timeline/1916/08/belgowie-zajmuja-udzidzi.md",
+     "quote": "Na przełomie lipca i sierpnia 1916 belgijska Brygada Południowa zajęła bez walki Udżidżi i Kigomę nad Tanganiką"
+    },
+    {
+     "file": "src/content/timeline/1916/09/belgowie-zajmuja-tabore.md",
+     "quote": "19 września 1916 roku wojska Force Publique, kolonialnej armii Konga Belgijskiego, zajęły bez walki Taborę, największe miasto w głębi Niemieckiej Afryki Wschodniej."
+    }
+   ]
+  },
+  {
+   "start": "Większością okupowanego kraju rządziło niemieckie",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "The area closest to the front, comprising some 22 percent of the occupied population, formed the Etappengebiet."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "This was an exclusively military and much more repressive regime under the command of the German Fourth Army."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "Still, some 600,000 Belgians remained abroad until the Armistice."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_I",
+     "quote": "Francqui used his acquaintance with Herbert Hoover, the future American president, to collect food and other relief through an American organisation, the Commission for Relief in Belgium (CRB), which was then distributed within Belgium by the CNSA."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "From December 1914, the occupied country had to pay a monthly war tax of 40 million francs, twenty times the sum total of all pre-war direct and indirect taxes. The monthly tax rose to 50 million, then 60 million francs."
+    }
+   ]
+  },
+  {
+   "start": "W październiku 1916 roku Niemcy zaczęli wywozić be",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_I",
+     "quote": "the German administration began actively considering the idea of forcibly deporting Belgian workers to Germany to resolve the problem."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "After worldwide protest (including in the Reichstag), it was halted in February 1917 for the Government-General, but continued until war’s end in the Etappengebiet."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "A high point was the creation, in October 1916, of the all-Flemish University of Ghent."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_I",
+     "quote": "In February 1917, a Raad van Vlaanderen (RVV or the \"Council of Flanders\") was formed with tacit German support."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/German_occupation_of_Belgium_during_World_War_I",
+     "quote": "On 22 December 1917, without prior consultation with the occupation authorities, the RVV declared Flanders to be independent"
+    }
+   ]
+  },
+  {
+   "start": "Mimo elektrycznego ogrodzenia na granicy z Holandi",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "(Even after the completion of the electric fence on the Belgian-Dutch border, some 25,000 people were smuggled out – twenty per day."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "In protest against the occupation regime’s protection of activists – magistrates who had arrested two leading activists were deported to German prisons – the judiciary went on strike from February 1918 to the Armistice."
+    },
+    {
+     "file": "src/content/timeline/1915/10/rozstrzelanie-edith-cavell.md",
+     "quote": "12 października 1915 Niemcy rozstrzelali w Brukseli brytyjską pielęgniarkę Edith Cavell, która pomagała alianckim żołnierzom uciekać z okupowanej Belgii."
+    }
+   ]
+  },
+  {
+   "start": "Rząd na wygnaniu zabiegał o pewność, że Belgia zas",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/02/deklaracja-z-sainte-adresse.md",
+     "quote": "14 lutego 1916 Francja, Wielka Brytania i Rosja zobowiązały się nie kończyć wojny, dopóki Belgia nie odzyska niepodległości i nie dostanie odszkodowania."
+    },
+    {
+     "file": "src/content/timeline/1916/04/deklaracja-z-hawru.md",
+     "quote": "obiecały Belgii, że po wojnie zachowa Kongo w obecnych granicach i dostanie odszkodowanie."
+    },
+    {
+     "file": "src/content/timeline/1918/05/cooreman-premierem-belgii.md",
+     "quote": "31 maja 1918 ustąpił premier Belgii Charles de Broqueville. Na czele rządu na wygnaniu stanął katolik Gérard Cooreman"
+    },
+    {
+     "file": "src/content/timeline/1918/01/hymans-ministrem-spraw-zagranicznych.md",
+     "quote": "którego koledzy podejrzewali o skłonność do kompromisowego pokoju."
+    },
+    {
+     "file": "src/content/timeline/1918/09/niemiecka-oferta-pokojowa-dla-belgii.md",
+     "quote": "15 września 1918 świat obiegła wieść, że Niemcy złożyły Belgii propozycję pokoju. Rząd w Hawrze ją odrzucił"
+    }
+   ]
+  },
+  {
+   "start": "We wrześniu 1918 roku król Albert objął dowództwo",
+   "quotes": [
+    {
+     "file": "src/content/postacie/albert-i.md",
+     "quote": "9 września ustalono, że pokieruje utworzoną Grupą Armii Flandria, złożoną z armii belgijskiej, brytyjskiej 2 Armii generała Herberta Plumera i dywizji francuskich. Szefem jej sztabu został francuski generał Jean Degoutte. 28 września Grupa Armii uderzyła spod Ypres i w ciągu jednego dnia odzyskała grzbiet Passchendaele"
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-kortrijk.md",
+     "quote": "14–19 października 1918 Grupa Armii Flandria przełamała niemiecki front, odbiła Roeselare, Menen i Kortrijk"
+    },
+    {
+     "file": "src/content/timeline/1918/10/belgowie-odbijaja-brugie.md",
+     "quote": "19 października 1918 Belgowie weszli do Brugii i Zeebrugge, a Brytyjczycy do Kortrijk. Następnego dnia całe wybrzeże Belgii było wolne od Niemców."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/belgium/",
+     "quote": "it played a significant role in what would become the liberation offensive, from its departure from the Yser on 28 September to the Armistice, by which time it had reached the Scheldt."
+    }
+   ]
+  },
+  {
+   "start": "W połowie listopada Belgowie wrócili do Brukseli,",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/belgowie-wracaja-do-brukseli.md",
+     "quote": "W połowie listopada 1918 ostatni Niemcy opuścili Brukselę, wrócił burmistrz Max, a do stolicy weszli żołnierze belgijscy."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rzad-belgijski-w-brukseli.md",
+     "quote": "21 listopada 1918 władzę w Belgii objął rząd jedności narodowej Léona Delacroix"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rzad-belgijski-w-brukseli.md",
+     "quote": "Następnego dnia, 22 listopada, król Albert wjechał uroczyście do Brukseli na czele swoich wojsk, a w parlamencie zapowiedział w mowie tronowej równe prawo wyborcze dla wszystkich mężczyzn."
+    }
+   ]
+  },
+  {
+   "start": "Według danych rządu belgijskiego w Europie zginęło",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "quote": "Belgian government figures for military losses in Europe were 40,367 (26,338 killed, died of wounds or accidents and 14,029 died of disease or missing). In Africa: 2,620 soldiers were killed and 15,650 porters died. The combined total for Europe and Africa is 58,637."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "quote": "In 1924, the Belgian government in a reply to a questionnaire from the International Labour Office, an agency of the League of Nations, reported 365,000 men mobilized and 40,936 dead and missing in World War I."
+    },
+    {
+     "url": "https://www.libraryofsocialscience.com/ideologies/resources/white-first-world-war-casualties/",
+     "quote": "Belgium 267,000 13,716"
+    }
+   ]
+  },
+  {
+   "start": "Zmarłych cywilów rząd liczył na 23 700, w tym 6000",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "quote": "Civilian deaths according to Belgian government statistics were 23,700 (6,000 killed in the 1914 German massacres and 17,700 victims in prisons, deportations and by military tribunals)."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Belgium_in_World_War_I",
+     "quote": "Belgium was given much less than it wanted, with a total payment of three billion German gold marks"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Belgium_in_World_War_I",
+     "quote": "Belgium also received a small slice of territory in the east of the country (known as Eupen-Malmedy) from Germany, which remains part of the country to this day."
+    }
+   ]
+  }
+ ]
+}

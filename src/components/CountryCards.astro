@@ -1,0 +1,50 @@
+---
+// The country pages (utils/countries.ts) in two columns, the Entente and the
+// Central Powers: name, the dates it was at war, the summary and how much
+// the site has on it. Used by /kraje and /en/countries.
+import { locale, plural, sideEn, type Lang } from "@/i18n"
+import { countryFacts, localCountries, SIDES } from "@/utils/countries"
+import { formatDate } from "@/utils/formatDate"
+
+interface Props {
+  lang?: Lang
+}
+
+const { lang = "pl" } = Astro.props
+const loc = locale(lang)
+const countries = await Promise.all(
+  (await localCountries(lang)).map(async (country) => ({ ...country, facts: await countryFacts(country, lang) })),
+)
+const groups = SIDES.map((side) => ({ side, items: countries.filter((c) => c.source.data.side === side) })).filter(
+  (g) => g.items.length > 0,
+)
+const short = (d: Date) => formatDate(d, "long", undefined, loc)
+const counts = (articles: number, battles: number) =>
+  `${articles} ${plural(lang, articles, ["artykuł", "artykuły", "artykułów"], ["article", "articles"])} · ${battles} ${plural(lang, battles, ["bitwa", "bitwy", "bitew"], ["battle", "battles"])}`
+---
+
+<div class="mx-auto grid max-w-6xl gap-12 px-6 lg:grid-cols-2">
+  {
+    groups.map((group) => (
+      <section>
+        <h2 class="font-display text-ink border-line border-b pb-3 text-2xl font-medium">
+          {lang === "en" ? sideEn(group.side) : group.side}
+        </h2>
+        <ol>
+          {group.items.map((c) => (
+            <li class="border-line border-b">
+              <a href={c.href} class="group block py-5">
+                <span class="font-display text-ink group-hover:text-signal block text-xl transition-colors">{c.name}</span>
+                <span class="text-ink-soft mt-1 block font-mono text-[11px]">
+                  {short(c.source.data.entered)} – {short(c.source.data.left)}
+                </span>
+                <span class="text-ink-soft mt-2 block leading-7">{c.summary}</span>
+                <span class="text-ink-soft mt-2 block font-mono text-[11px]">{counts(c.facts.articles, c.facts.battles.length)}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+</div>

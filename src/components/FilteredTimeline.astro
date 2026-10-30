@@ -9,6 +9,7 @@ import { groupTimelineEntries, WAR_START_YEAR } from "@/utils/groupTimelineEntri
 import { listPageLd } from "@/utils/jsonLd"
 import { listMeta } from "@/utils/periodMeta"
 import { getPeople, personByName } from "@/utils/people"
+import { localCountries } from "@/utils/countries"
 
 // Timeline page for a single tag, category, author or front, in either
 // language (utils/filteredPages.ts). Long lists are split by year: `year` is
@@ -49,6 +50,9 @@ const title = `${label}: ${name}${year ? ` (${year})` : ""}`
 const subject = `${name.charAt(0).toUpperCase()}${name.slice(1)}${year ? ` (${year})` : ""}`
 const pageTitle =
   kind === "author" ? title : lang === "en" ? `${subject} in the First World War` : `${subject} – I wojna światowa`
+// A tag that names a state leads to its country page (utils/countries.ts).
+const country =
+  kind === "tag" ? (await localCountries(lang)).find((c) => c.source.data.name === group.key) : undefined
 // The same list in the other language, when it exists.
 const other = await counterpart(kind, lang, group.key, year)
 const alternates = other ? { [lang === "pl" ? "en" : "pl"]: other } : undefined
@@ -91,6 +95,13 @@ const jsonLd = listPageLd(Astro.site!, {
       person && (
         <a href={person.href} class="text-signal -mt-7 mb-10 block w-fit font-mono text-xs hover:underline">
           {lang === "en" ? "Person page" : "Strona postaci"}: {person.data.name} →
+        </a>
+      )
+    }
+    {
+      country && (
+        <a href={country.href} class="text-signal -mt-7 mb-10 block w-fit font-mono text-xs hover:underline">
+          {country.title} →
         </a>
       )
     }

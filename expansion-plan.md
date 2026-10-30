@@ -255,15 +255,14 @@ should link to each other (§B8).
 - Glossary: 84 terms. Add the A1–A4 terms (Związek Strzelecki, POW,
   ochotnicza legia, hiszpanka, Paryska armata, U-Boot types…).
   **Done 2026-10-30:** 50 terms, 134 in all (improvements.md §35).
-- New series once A2–A5 exist:
-  - ~~Droga do wojny~~ dropped 2026-10-30 (owner): the "Przed wojną" era
-    page already lists the pre-war articles in order, and "Lato 1914"
-    covers the July crisis.
-  - Wojna na morzu
-  - Gallipoli
-  - Bliski Wschód i powstanie arabskie
-  - Kobiety na wojnie
-  - Gaz i nowa broń
+- New series: **dropped 2026-10-30 (owner).** The ideas are covered
+  already: Droga do wojny by the "Przed wojną" era page and "Lato 1914";
+  Kobiety na wojnie and Gaz i nowa broń by their guides (A1); Gallipoli and
+  Bliski Wschód by the campaign overviews (A5); Wojna na morzu partly by
+  the U-boat guide, the naval battle pages and the front page. The one gap
+  is the surface war at sea (Coronel, the Falklands, Jutland, the blockade,
+  the raiders): if wanted, a guide "Wojna na morzu 1914–1918", not a
+  series.
 - Short articles: 247 are under 300 words. Expand the milestone ones first
   when sourcing them (`planned-improvements.md` §1).
   **Done 2026-10-29:** the 10 short milestones and 20 key short articles,
@@ -272,6 +271,23 @@ should link to each other (§B8).
   Miluza), now 1,300–1,500 words with sources (§39).
 
 ---
+
+### A8. New ideas (proposed 2026-10-30)
+
+- **Country pages, "Kraje w wojnie":** **Done 2026-10-30**, 16 states
+  (improvements.md §40).
+- "Tymczasem na innych frontach": what happened the same week elsewhere, on
+  every article.
+- "Front w ruchu": the front lines month by month on the battle map.
+- "Głosy z frontu": dated quotes from public-domain diaries and letters.
+- Reading progress ("przeczytane", per year and series), in the browser.
+- "Dokumenty": key primary sources in Polish translation with commentary.
+- "Formacje polskie": the Legion brigades, Bayonne, the Puławy legion, the
+  Polish corps in Russia, Haller's army.
+- "Dla nauczycieli": printable lesson sheets per guide, matched to the
+  curriculum; quizzes ("Sprawdź się") from the key dates and the glossary.
+- A public errata page ("Poprawki"), an open dataset (CSV/JSON), an
+  embeddable "Ten dzień w Wielkiej Wojnie" widget.
 
 ## B. SEO
 

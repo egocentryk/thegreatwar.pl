@@ -1,0 +1,39 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import CountryCards from "@/components/CountryCards.astro"
+import SectionHeading from "@/components/SectionHeading.astro"
+import { paths } from "@/i18n/local"
+import { localCountries } from "@/utils/countries"
+import { listPageLd } from "@/utils/jsonLd"
+
+const description =
+  "The states of the First World War, each on one page: when and why it went to war, its fronts, battles, people, losses and how the war ended for it."
+const countries = await localCountries("en")
+const jsonLd = listPageLd(Astro.site!, {
+  lang: "en",
+  path: paths("en").countries,
+  name: "Countries at war",
+  description,
+  items: countries.map((country) => country.href),
+})
+---
+
+<BaseLayout
+  title="Countries in the First World War"
+  description={description}
+  lang="en"
+  alternates={{ pl: paths("pl").countries }}
+  jsonLd={jsonLd}
+>
+  <section class="mx-auto max-w-6xl px-6 pt-16 sm:pt-24">
+    <SectionHeading eyebrow="Countries at war" count={countries.length} level={1} />
+    <p class="font-display text-ink max-w-xl text-2xl leading-snug sm:text-3xl">Each state's war.</p>
+    <p class="text-ink-soft mt-4 max-w-2xl text-sm leading-6">
+      Why and when it went to war, what it fought for, how the war ended for it and what it cost. Below the text, its
+      battles, people and key dates from the chronicle.
+    </p>
+  </section>
+  <div class="pt-10 pb-24">
+    <CountryCards lang="en" />
+  </div>
+</BaseLayout>

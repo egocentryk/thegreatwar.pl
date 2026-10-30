@@ -1,0 +1,369 @@
+{
+ "slug": "wlochy",
+ "paragraphs": [
+  {
+   "start": "Włochy, od 1882 roku związane z Niemcami i Austro-",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "3 sierpnia 1914 roku Królestwo Włoch ogłosiło neutralność w wojnie, która właśnie ogarniała Europę. Decyzję podjął dzień wcześniej rząd premiera Antonia Salandry i ministra spraw zagranicznych markiza Antonina di San Giuliano. Był to cios dla Niemiec i Austro-Węgier, z którymi Włochy od 1882 roku tworzyły trójprzymierze."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "26 kwietnia premier Antonio Salandra i Sonnino podpisali w Londynie układ z Ententą, w którym Włochy zobowiązały się przystąpić do wojny w ciągu miesiąca w zamian za obietnicę Trydentu, Triestu, Istrii i części Dalmacji."
+    },
+    {
+     "file": "src/content/battles/1915/bitwy-nad-isonzo.md",
+     "quote": "Od czerwca 1915 do września 1917 Włosi jedenaście razy uderzali nad Soczą. Zdobyli Gorycję, ale nie Triest, a dwunasta bitwa zepchnęła ich nad Piawę."
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "War Office: 460 tys.; dane rządu włoskiego: 651 tys., z inwalidami zmarłymi do kwietnia 1920 r."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-vittorio-veneto.md",
+     "quote": "24 października – 4 listopada 1918 Włosi i ich sojusznicy przeszli Piawę i rozbili armię austro-węgierską, która rozpadła się wraz z monarchią Habsburgów."
+    }
+   ]
+  },
+  {
+   "start": "20 maja 1882 roku Włochy przystąpiły do sojuszu z ",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1882/05/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze.md",
+     "quote": "20 maja 1882 w Wiedniu Włochy przystąpiły do sojuszu z Niemcami i Austro-Węgrami. Tajny traktat obiecywał im pomoc, gdyby zaatakowała je Francja."
+    },
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "Włochy od dawna rywalizowały z Austro-Węgrami, a wiele włoskich środowisk domagało się przyłączenia Trydentu i Triestu, zamieszkanych w dużej części przez Włochów, lecz należących do monarchii habsburskiej."
+    },
+    {
+     "file": "src/content/timeline/1911/09/wybucha-wojna-wlosko-turecka.md",
+     "quote": "29 września 1911 Włochy wypowiedziały wojnę Imperium Osmańskiemu, by zdobyć Trypolitanię i Cyrenajkę."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Na Morzu Egejskim otrzymywały na własność Dodekanez, okupowany od wojny z Turcją w 1912 roku."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "During the Italo-Turkish War in Libya (1911–1912), the Italian military suffered equipment and munition shortages not yet repaired before Italian entry into the Great War."
+    }
+   ]
+  },
+  {
+   "start": "3 sierpnia 1914 roku rząd Antonia Salandry ogłosił",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "Trójprzymierze było sojuszem obronnym: zobowiązywało sygnatariuszy do pomocy tylko w razie napaści na jednego z nich. Tymczasem to Austro-Węgry postawiły Serbii ultimatum i wypowiedziały jej wojnę"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "3 sierpnia 1914 roku Królestwo Włoch ogłosiło neutralność w wojnie, która właśnie ogarniała Europę. Decyzję podjął dzień wcześniej rząd premiera Antonia Salandry"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "Wiedeń nie uprzedził jednak Rzymu o ultimatum wobec Serbii."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Premier Antonio Salandra zapowiedział jesienią, że kraj będzie się kierował „świętym egoizmem”, czyli wyłącznie własnym interesem. Od listopada politykę zagraniczną prowadził Sidney Sonnino. Targował się z obiema stronami."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Austro-Węgry długo zwlekały, a gdy wreszcie zgodziły się na ustępstwa, były one dla Rzymu zbyt skromne i miały wejść w życie dopiero po wojnie. Ententa mogła zaoferować więcej, bo obiecywała cudze ziemie."
+    }
+   ]
+  },
+  {
+   "start": "26 kwietnia 1915 roku Włochy podpisały w Londynie ",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "26 kwietnia 1915 roku w Londynie przedstawiciele czterech państw podpisali tajny układ, na mocy którego Włochy miały przystąpić do wojny po stronie Ententy."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Po zwycięskiej wojnie Włochy miały otrzymać Trydent i południowy Tyrol z granicą na przełęczy Brenner, Triest, Gorycję i Gradyskę oraz całą Istrię"
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Do tego dochodziła północna część Dalmacji z Zadarem i Szybenikiem oraz większość wysp dalmatyńskich."
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Według obliczeń historyków na obszarach, których domagał się Rzym, żyło około 650 tysięcy Włochów, ale też ponad 700 tysięcy Słoweńców i Chorwatów oraz około 230 tysięcy Niemców z Tyrolu."
+    }
+   ]
+  },
+  {
+   "start": "Większość posłów, skupiona wokół byłego premiera G",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Większość posłów, skupiona wokół byłego premiera Giovanniego Giolittiego, opowiadała się za neutralnością. Na początku maja Włochy wypowiedziały trójprzymierze, a w połowie miesiąca kraj przeżył ostry kryzys. Salandra podał się do dymisji, ale król jej nie przyjął, a ulice wielkich miast opanowały manifestacje zwolenników wojny."
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-trojprzymierze.md",
+     "quote": "4 maja 1915 włoski ambasador w Wiedniu przekazał notę, w której Włochy uznały sojusz z Austro-Węgrami za nieważny."
+    },
+    {
+     "file": "src/content/timeline/1915/05/dymisja-rzadu-salandry.md",
+     "quote": "13 maja 1915 premier Antonio Salandra i szef MSZ Sidney Sonnino podali się do dymisji."
+    }
+   ]
+  },
+  {
+   "start": "23 maja 1915 roku ambasador w Wiedniu przekazał wy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "oświadczał w imieniu króla, że od następnego dnia Włochy uważają się za będące w stanie wojny z Austro-Węgrami"
+    },
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "23 maja 1915 roku, w niedzielę, około kwadransa po trzeciej po południu, włoski ambasador w Wiedniu"
+    },
+    {
+     "file": "src/content/timeline/1915/08/wlochy-wypowiadaja-wojne-turcji.md",
+     "quote": "Od 21 sierpnia Włochy były w stanie wojny z Imperium Osmańskim."
+    },
+    {
+     "file": "src/content/timeline/1915/10/rosja-i-wlochy-wypowiadaja-wojne-bulgarii.md",
+     "quote": "19 października 1915 ogłoszono manifest Mikołaja II o wojnie z Bułgarią, „zdrajczynią sprawy słowiańskiej”. Tego dnia wojnę Bułgarii wypowiedziały też Włochy."
+    },
+    {
+     "file": "src/content/timeline/1916/08/wlochy-wypowiadaja-wojne-niemcom.md",
+     "quote": "27 sierpnia 1916 Sonnino przekazał przez rząd Szwajcarii deklarację, że od 28 sierpnia Włochy uważają się za będące w stanie wojny z Niemcami."
+    }
+   ]
+  },
+  {
+   "start": "Front włoski ciągnął się przez Alpy od przełęczy S",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1915/05/wlochy-wypowiadaja-wojne-austro-wegrom.md",
+     "quote": "ciągnął się przez Alpy od przełęczy Stelvio po wybrzeże Adriatyku"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "The main Italian effort was to be concentrated in the Isonzo and Vipava valleys and on the Karst Plateau, in the direction of Ljubljana."
+    },
+    {
+     "file": "src/content/battles/1915/bitwy-nad-isonzo.md",
+     "quote": "Od czerwca 1915 do września 1917 Włosi jedenaście razy uderzali nad Soczą. Zdobyli Gorycję, ale nie Triest"
+    },
+    {
+     "file": "src/content/timeline/1916/08/wlosi-zdobywaja-gorycje.md",
+     "quote": "9 sierpnia 1916 wojska włoskie wkroczyły do Gorycji, opuszczonej nocą przez Austriaków. Było to pierwsze duże miasto Austro-Węgier zdobyte przez Włochów."
+    },
+    {
+     "file": "src/content/battles/1915/bitwy-nad-isonzo.md",
+     "quote": "Włosi stracili w pierwszych jedenastu bitwach około 645 tysięcy zabitych, rannych i zaginionych"
+    }
+   ]
+  },
+  {
+   "start": "W Alpach okopy kopano w skałach i lodowcach, nawet",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "Trenches had to be dug also in the Alpine rocks and glaciers instead of in the mud, and often up to 3,000 m (9,800 ft) of altitude."
+    },
+    {
+     "file": "src/content/battles/1915/walki-o-col-di-lana.md",
+     "quote": "Od lipca 1915 Włosi szturmowali w Dolomitach szczyt Col di Lana. Zdobyli go dopiero w nocy na 18 kwietnia 1916, wysadzając go miną wydrążoną w skale."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-asiago.md",
+     "quote": "Wiosną 1916 Conrad uderzył z Tyrolu, by zejść na równinę Wenecji i odciąć Włochów nad Soczą. Zajął Asiago i Arsiero, ale utknął na ostatnich grzbietach."
+    },
+    {
+     "file": "src/content/timeline/1914/12/wlosi-laduja-we-wlorze.md",
+     "quote": "Pod koniec grudnia 1914 neutralne Włochy obsadziły albański port Wlora."
+    },
+    {
+     "file": "src/content/timeline/1916/08/wlosi-laduja-w-salonikach.md",
+     "quote": "11 sierpnia 1916 w Salonikach zaczęła się wyładowywać włoska 35 Dywizja"
+    }
+   ]
+  },
+  {
+   "start": "24 października 1917 roku Niemcy i Austriacy przeł",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/dwunasta-bitwa-nad-isonzo.md",
+     "quote": "24 października – 9 listopada 1917 Niemcy i Austriacy przełamali front pod Caporetto i zepchnęli Włochów nad Piawę."
+    },
+    {
+     "file": "src/content/battles/1915/bitwy-nad-isonzo.md",
+     "quote": "W dwunastej bitwie Włosi stracili według różnych opracowań od 10 do 13 tysięcy zabitych, około 30 tysięcy rannych i od 265 do blisko 300 tysięcy jeńców, a także ponad 3 tysiące dział, prawie połowę swojej artylerii."
+    },
+    {
+     "file": "src/content/timeline/1918/04/wlosi-na-froncie-zachodnim.md",
+     "quote": "Po klęsce pod Caporetto jesienią 1917 roku do Włoch przyjechało sześć dywizji francuskich i pięć brytyjskich"
+    },
+    {
+     "file": "src/content/timeline/1917/11/dymisja-cadorny.md",
+     "quote": "8 listopada 1917 król Wiktor Emanuel III odwołał gen. Luigiego Cadornę po klęsce pod Caporetto. Nowym szefem sztabu armii włoskiej został gen. Armando Diaz."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "the Italian Government called to arms the so-called 99 Boys (Ragazzi del '99); the new class of conscripts born in 1899"
+    }
+   ]
+  },
+  {
+   "start": "W czerwcu 1918 roku Austro-Węgry uderzyły po raz o",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-piawa.md",
+     "quote": "15–24 czerwca 1918 Austro-Węgry uderzyły na Asiago, Grappę i przez Piawę. Przeszły rzekę, ale wezbrana Piawa i kontrataki zmusiły je do odwrotu."
+    },
+    {
+     "file": "src/content/timeline/1918/06/zatopienie-szent-istvana.md",
+     "quote": "10 czerwca 1918 kuter MAS 15 Luigiego Rizza storpedował pod Premudą drednot Szent István."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "On 24 October 1918, the anniversary of Caporetto, Italy launched the battle of Vittorio Veneto: Italian troops achieved a breakthrough, recovered the territory previously lost, and moved into Trento and Trieste by the time fighting ended on November 4 (a date celebrated as National Unity Day in Italy). The centuries-old Habsburg Empire collapsed."
+    },
+    {
+     "file": "src/content/battles/1918/bitwa-pod-vittorio-veneto.md",
+     "quote": "Różne źródła podają od około 400 do 480 tysięcy jeńców"
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-villa-giusti.md",
+     "quote": "3 listopada 1918 roku w willi hrabiego Vettora Giustiego del Giardino na przedmieściach Padwy austro-węgierska komisja rozejmowa generała piechoty Viktora Webera von Webenau podpisała rozejm z aliantami. W ich imieniu podpisał go zastępca szefa włoskiego sztabu generalnego generał porucznik Pietro Badoglio. Walki na lądzie, morzu i w powietrzu miały ustać nazajutrz, 4 listopada, o 15.00."
+    }
+   ]
+  },
+  {
+   "start": "Poza własnym frontem Włosi walczyli też we Francji",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/04/wlosi-na-froncie-zachodnim.md",
+     "quote": "Do 27 kwietnia 1918 do Francji przyjechał włoski II Korpus gen. Albricciego"
+    },
+    {
+     "file": "src/content/timeline/1918/04/wlosi-na-froncie-zachodnim.md",
+     "quote": "W lipcu, w drugiej bitwie nad Marną, bronił doliny rzeki Ardre pod Bligny, na drodze do Épernay, i stracił blisko jedną trzecią stanu. Jesienią ścigał wycofujących się Niemców przez Chemin des Dames aż pod Mozę. Według włoskich danych straty Włochów we Francji w 1918 roku wyniosły 4375 zabitych i 6359 rannych."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "Italian armed forces were also involved in the Western Front (taking part in the Second Battle of the Marne, around Bligny, and in the subsequent Hundred Days Offensive)"
+    },
+    {
+     "file": "src/content/battles/1918/ofensywa-stu-dni.md",
+     "quote": "8 sierpnia – 11 listopada 1918 sprzymierzeni pod wodzą Focha w serii natarć zepchnęli Niemców z Linii Hindenburga ku Mozie i zmusili ich do rozejmu."
+    }
+   ]
+  },
+  {
+   "start": "Włochy weszły do wojny podzielone. Partia Socjalis",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/social-conflict-and-control-protest-and-repression-italy/",
+     "quote": "the Socialist Party (the only one in Western Europe which had not supported the war)"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/social-conflict-and-control-protest-and-repression-italy/",
+     "quote": "the period 1915-1918 was entirely marked by a thick web of anti-war protests"
+    },
+    {
+     "file": "src/content/timeline/1914/08/wlochy-oglaszaja-neutralnosc.md",
+     "quote": "Włochy zależały od importu surowców, a nawet 90 procent węgla sprowadzały z Wielkiej Brytanii"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Italy_in_World_War_I",
+     "quote": "Far more decisive to the war effort than their troops was the Allies economic assistance by providing strategic materials (steel, coal and crops"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/social-conflict-and-control-protest-and-repression-italy/",
+     "quote": "The most marked instances of labour unrest took place above all between the spring and summer of 1917, with strikes and clashes which culminated in the August Turin riots. As in the February Revolution in Russia , the revolt in Turin was also triggered by a rationing protest"
+    }
+   ]
+  },
+  {
+   "start": "Rząd jedności narodowej Paola Boselliego, utworzon",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/06/boselli-premierem-wloch.md",
+     "quote": "W połowie czerwca 1916 król powierzył 78-letniemu Paolowi Boselliemu utworzenie rządu. Powstał gabinet jedności narodowej"
+    },
+    {
+     "file": "src/content/timeline/1917/10/dymisja-boselliego.md",
+     "quote": "25 października 1917 roku, po kilkudniowej burzliwej debacie, włoska Izba Deputowanych odmówiła zaufania rządowi Paola Boselliego."
+    },
+    {
+     "file": "src/content/timeline/1917/10/orlando-premierem-wloch.md",
+     "quote": "Dzień wcześniej Niemcy zajęli Udine"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/social-conflict-and-control-protest-and-repression-italy/",
+     "quote": "The defeat at Caporetto in autumn 1917 made the Italian war defensive; it highlighted the gap between large sectors of the population and military intervention, and forced the country to adopt a more committed total mobilization. Of prime importance was the start of a more intensive rationing mobilization"
+    },
+    {
+     "file": "src/content/timeline/1917/10/orlando-premierem-wloch.md",
+     "quote": "22 grudnia Orlando wezwał w parlamencie do oporu słowami „Resistere! resistere! resistere!” (Wytrwać! wytrwać! wytrwać!), które stały się hasłem tej zimy."
+    }
+   ]
+  },
+  {
+   "start": "30 października 1917 roku, w czasie klęski pod Cap",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/10/wlochy-uznaja-komitet-narodowy-polski.md",
+     "quote": "30 października 1917, w czasie klęski pod Caporetto, Włochy uznały paryski Komitet Narodowy Polski. Jego przedstawicielem w Rzymie został Konstanty Skirmunt."
+    },
+    {
+     "file": "src/content/timeline/1917/10/wlochy-uznaja-komitet-narodowy-polski.md",
+     "quote": "W obozach jenieckich na całym Półwyspie Apenińskim przebywały tysiące Polaków wziętych do niewoli w mundurach armii austro-węgierskiej."
+    },
+    {
+     "file": "src/content/timeline/1917/10/wlochy-uznaja-komitet-narodowy-polski.md",
+     "quote": "Sonnino zgodził się na formowanie oddziałów polskich z jeńców dopiero we wrześniu 1918 roku. Z obozów we Włoszech wyszło potem ponad 30 tysięcy żołnierzy Armii Polskiej, w większości wysłanych do Francji, do armii generała Hallera."
+    }
+   ]
+  },
+  {
+   "start": "Włochy zmobilizowały 5 615 000 żołnierzy. Brytyjsk",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"label\": \"Włochy\", \"labelEn\": \"Italy\", \"low\": 5615000, \"high\": 5615000,"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "War Office: 460 tys.; dane rządu włoskiego: 651 tys., z inwalidami zmarłymi do kwietnia 1920 r."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/war-losses-italy/",
+     "quote": "The prisoners amounted to just under 600,000, of whom 19,507 were officers"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/war-losses-italy/",
+     "quote": "The number of prisoners who died during the war is striking: 90,000 to 100,000"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/World_War_I_casualties",
+     "quote": "According to a demographic study there were 1,021,000 indirect deaths in Italy (589,000 deaths due to wartime privations and 432,000 in the Spanish flu pandemic). Another estimate of the demographic loss of the civilian population in the Italy during the war, put total excess deaths at 324,000 not including an additional 300,000 Spanish flu deaths."
+    }
+   ]
+  },
+  {
+   "start": "Na konferencji pokojowej Orlando zasiadał w „wielk",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/10/orlando-premierem-wloch.md",
+     "quote": "na konferencji pokojowej w Paryżu zasiadał obok Wilsona, Lloyda George'a i Clemenceau w gronie „wielkiej czwórki”"
+    },
+    {
+     "file": "src/content/timeline/1915/04/wlochy-podpisuja-pakt-londynski.md",
+     "quote": "Po wojnie obietnice z Londynu zderzyły się z zasadą samostanowienia narodów, której bronił prezydent Stanów Zjednoczonych Woodrow Wilson, i z roszczeniami nowego państwa Serbów, Chorwatów i Słoweńców. Włochy otrzymały Trydent, południowy Tyrol, Triest i Istrię, ale z Dalmacji dostały tylko Zadar i kilka wysp. Niespełnione nadzieje i spór o Fiume, którego w Londynie Włochom wcale nie obiecano, zrodziły mit „okaleczonego zwycięstwa”, na którym wyrósł włoski faszyzm."
+    }
+   ]
+  }
+ ]
+}

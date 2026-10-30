@@ -30,6 +30,9 @@ const defaultYear = timelineByYear.find((group) => !isPreWar(group.year))?.year
     <a href={lang === "en" ? "/en/topics" : "/tematy"} class="text-ink-soft hover:text-signal transition-colors">
       {lang === "en" ? "Topics: the big questions →" : "Tematy: najważniejsze pytania →"}
     </a>
+    <a href={lang === "en" ? "/en/countries" : "/kraje"} class="text-ink-soft hover:text-signal transition-colors">
+      {lang === "en" ? "Countries at war →" : "Kraje w wojnie →"}
+    </a>
   </p>
   {
     defaultYear && (

@@ -1,0 +1,381 @@
+{
+ "slug": "niemcy",
+ "paragraphs": [
+  {
+   "start": "Niemcy weszły do wojny 1 sierpnia 1914 roku, gdy",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/08/niemcy-oglaszaja-mobilizacje-i-wypowiadaja-wojne-rosji.md",
+     "quote": "1 sierpnia 1914 Niemcy ogłosiły mobilizację powszechną, a wieczorem wypowiedziały wojnę Rosji."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-francji.md",
+     "quote": "3 sierpnia 1914 Niemcy wypowiedziały wojnę Francji, powołując się na zmyślone francuskie naloty. Rozpoczęła się wojna na dwa fronty."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Niemcy przegrały I wojnę światową, bo nie zdołały jej szybko rozstrzygnąć, a długiej wojny na wyczerpanie przeciw koalicji mającej więcej ludzi i zasobów nie mogły wygrać. Klęska nad Marną w 1914 roku skazała je na wojnę na dwóch frontach, blokada morska głodziła kraj, a wielkie bitwy na wyniszczenie wykrwawiły armię."
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 Rosja Radziecka podpisała w Brześciu pokój z państwami centralnymi."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą."
+    }
+   ]
+  },
+  {
+   "start": "Podstawą niemieckiej polityki był sojusz z Austro",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1879/10/niemcy-i-austro-wegry-zawieraja-dwuprzymierze.md",
+     "quote": "7 października 1879 Niemcy i Austro-Węgry podpisały w Wiedniu tajny sojusz obronny przeciw Rosji."
+    },
+    {
+     "file": "src/content/timeline/1882/05/niemcy-austro-wegry-i-wlochy-zawieraja-trojprzymierze.md",
+     "quote": "20 maja 1882 w Wiedniu Włochy przystąpiły do sojuszu z Niemcami i Austro-Węgrami."
+    },
+    {
+     "file": "src/content/timeline/1890/06/niemcy-nie-odnawiaja-traktatu-reasekuracyjnego.md",
+     "quote": "18 czerwca 1890 wygasł tajny traktat niemiecko-rosyjski z 1887 roku. Po odejściu Bismarcka Berlin odrzucił rosyjskie prośby o jego odnowienie."
+    },
+    {
+     "file": "src/content/timeline/1894/01/wchodzi-w-zycie-sojusz-francusko-rosyjski.md",
+     "quote": "4 stycznia 1894 wymiana listów w Petersburgu nadała moc wiążącą tajnej konwencji wojskowej z 1892 roku. Francja i Rosja stały się sojusznikami."
+    },
+    {
+     "url": "https://pl.wikipedia.org/wiki/Plan_Schlieffena",
+     "quote": "w 1905 roku przez feldmarszałka Alfreda von Schlieffena … Atak na Francję zakładał szeroki manewr oskrzydlający przez neutralną Belgię. … Plan niemiecki zakładał pokonanie Francji w ciągu 6 tygodni od mobilizacji armii niemieckiej."
+    }
+   ]
+  },
+  {
+   "start": "Za panowania cesarza Wilhelma II",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1898/04/niemcy-uchwalaja-pierwsza-ustawe-morska.md",
+     "quote": "10 kwietnia 1898 Wilhelm II podpisał pierwszą ustawę o flocie Tirpitza. Ustaliła ona stan floty na 19 pancerników i dała początek niemieckiej flocie bojowej."
+    },
+    {
+     "file": "src/content/timeline/1905/03/wilhelm-ii-laduje-w-tangerze.md",
+     "quote": "31 marca 1905 Wilhelm II zszedł na ląd w Tangerze i zapewnił, że widzi w sułtanie Maroka niezależnego władcę. Był to otwarty sprzeciw wobec planów Francji."
+    },
+    {
+     "file": "src/content/timeline/1911/07/niemiecka-kanonierka-panther-wplywa-do-agadiru.md",
+     "quote": "1 lipca 1911 niemiecka kanonierka „Panther” stanęła w zamkniętym porcie Agadir. Berlin chciał wymusić na Francji ustępstwa."
+    },
+    {
+     "file": "src/content/timeline/1906/04/konferencja-w-algeciras-konczy-pierwszy-kryzys-marokanski.md",
+     "quote": "7 kwietnia 1906 w Algeciras podpisano akt generalny w sprawie Maroka. Niemcy, poparte tylko przez Austro-Węgry, nie zdołały podważyć pozycji Francji."
+    }
+   ]
+  },
+  {
+   "start": "Po zamachu w Sarajewie",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/07/kajzer-obiecuje-austro-wegrom-pelne-poparcie.md",
+     "quote": "5 lipca 1914 Wilhelm II obiecał Austro-Węgrom pełne wsparcie przeciw Serbii"
+    },
+    {
+     "file": "src/content/timeline/1914/07/niemcy-wysylaja-ultimatum-do-rosji.md",
+     "quote": "31 lipca 1914 Niemcy zażądały od Rosji wstrzymania mobilizacji w ciągu 12 godzin."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-francji.md",
+     "quote": "3 sierpnia 1914 Niemcy wypowiedziały wojnę Francji, powołując się na zmyślone francuskie naloty."
+    },
+    {
+     "file": "src/content/timeline/1914/08/belgia-odrzuca-niemieckie-zadania.md",
+     "quote": "Rano 3 sierpnia 1914 Belgia odrzuciła niemieckie ultimatum."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wypowiadaja-wojne-belgii.md",
+     "quote": "4 sierpnia 1914 Niemcy zapowiedziały Belgii użycie siły i wkroczyły na jej terytorium. Kanclerz przyznał, że łamie prawo międzynarodowe."
+    }
+   ]
+  },
+  {
+   "start": "Cele wojenne spisano dopiero w czasie wojny. W pro",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Septemberprogramm",
+     "quote": "drafted on 9 September 1914 by the Chancellor's private secretary, Kurt Riezler"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Septemberprogramm",
+     "quote": "should cede some northern territory … should become a vassal state … Buffer states would be created in territory carved out of the western Russian Empire"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/germany/",
+     "quote": "Among other aims, Bethmann Hollweg demanded the downgrading of Belgium to the status of a German “vassal state”, the reduction of France to a middle-ranking power, the establishment of a mid-European economic association under German leadership"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Septemberprogramm",
+     "quote": "was based on the Lebensraum philosophy"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/war-aims-and-war-aims-discussions-germany/",
+     "quote": "Current research thus often emphasizes that the so-called Septemberprogramm of 9 September 1914 does not constitute a coherent concept, but rather a loose array of demands attributed to various groups."
+    }
+   ]
+  },
+  {
+   "start": "Plan wojny zawiódł we wrześniu 1914 roku. Francuzi",
+   "quotes": [
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "We wrześniu 1914 roku Francuzi i Brytyjczycy zatrzymali Niemców nad Marną, a 9 września armie niemieckiego prawego skrzydła zaczęły odwrót. Plan szybkiego pokonania Francji upadł. Szef sztabu generalnego Helmuth von Moltke został odsunięty od dowodzenia, a Niemcy byli skazani na długą wojnę na dwóch frontach, której ich sztabowcy najbardziej się obawiali. Po wyścigu do morza od wybrzeża belgijskiego po granicę Szwajcarii ciągnęła się nieprzerwana linia okopów. Następca Moltkego, Erich von Falkenhayn"
+    },
+    {
+     "file": "src/content/timeline/1914/08/hindenburg-obejmuje-dowodztwo-8-armii.md",
+     "quote": "23 sierpnia 1914 wezwany z emerytury generał Paul von Hindenburg objął dowództwo 8 Armii w Prusach Wschodnich. Szefem sztabu został Ludendorff."
+    },
+    {
+     "file": "src/content/postacie/erich-ludendorff.md",
+     "quote": "jako szef sztabu Paula von Hindenburga poprowadził armię niemiecką do zwycięstw nad Rosjanami pod Tannenbergiem i nad jeziorami mazurskimi"
+    },
+    {
+     "file": "src/content/timeline/1914/11/kapitulacja-tsingtao.md",
+     "quote": "niemiecka twierdza Tsingtao skapitulowała. Niemcy stracili jedyną bazę w Azji Wschodniej."
+    },
+    {
+     "file": "src/content/postacie/paul-von-lettow-vorbeck.md",
+     "quote": "Dowódca Schutztruppe w Niemieckiej Afryce Wschodniej. Przez ponad cztery lata wymykał się wielokrotnie silniejszym aliantom i złożył broń dopiero po rozejmie."
+    }
+   ]
+  },
+  {
+   "start": "W 1915 roku wojska Augusta von Mackensena",
+   "quotes": [
+    {
+     "file": "src/content/battles/1915/bitwa-pod-gorlicami.md",
+     "quote": "2 maja 1915 wojska niemieckie i austro-węgierskie Mackensena przełamały pod Gorlicami front rosyjskiej 3 Armii."
+    },
+    {
+     "file": "src/content/timeline/1915/08/niemcy-zajmuja-warszawe.md",
+     "quote": "5 sierpnia 1915 do Warszawy, opuszczonej nocą przez Rosjan, weszły wojska niemieckiej 9 Armii."
+    },
+    {
+     "file": "src/content/battles/1915/podboj-serbii.md",
+     "quote": "Jesienią 1915 Niemcy i Austro-Węgry od północy, a Bułgaria od wschodu zajęły Serbię."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "W lutym 1916 roku Falkenhayn rozpoczął natarcie pod Verdun, które miało wykrwawić armię francuską. Plan się nie powiódł: Niemcy nie opanowali wzgórz nad Mozą, a sami ponieśli straty porównywalne z francuskimi, około 333–355 tysięcy ludzi wobec 377–400 tysięcy po stronie francuskiej. Latem Brytyjczycy i Francuzi uderzyli nad Sommą, a na wschodzie ofensywa Brusiłowa rozbiła front austro-węgierski. Nad Sommą Niemcy stracili od około 450 do 600 tysięcy ludzi. Jak przyznawały niemieckie opracowania, do końca bitwy wykrwawiło się to, co pozostało ze starej, wyszkolonej w czasie pokoju piechoty. 29 sierpnia 1916 roku cesarz odwołał Falkenhayna, a naczelne dowództwo objęli feldmarszałek Paul von Hindenburg i generał Erich Ludendorff"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-jutlandzka.md",
+     "quote": "31 maja – 1 czerwca 1916 Grand Fleet starła się z Flotą Pełnomorską. Brytyjczycy stracili więcej okrętów, ale Niemcy uciekli i nie przełamali ich przewagi."
+    }
+   ]
+  },
+  {
+   "start": "W 1917 roku Niemcy na zachodzie cofnęli się na Li",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/odwrot-na-linie-hindenburga.md",
+     "quote": "Od 22 lutego do początku kwietnia 1917 Niemcy cofnęli się znad Ancre i Sommy na Linię Hindenburga"
+    },
+    {
+     "file": "src/content/timeline/1917/01/niemcy-oglaszaja-nieograniczona-wojne-podwodna.md",
+     "quote": "31 stycznia 1917 Niemcy zawiadomili USA, że od następnego dnia ich okręty podwodne będą bez ostrzeżenia zatapiać wszystkie statki wokół Wysp Brytyjskich."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Wyjściem z położenia miała być wojna podwodna."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Do tego doszedł telegram Zimmermanna, tajna oferta sojuszu dla Meksyku przeciw USA, opublikowany w Stanach Zjednoczonych na przełomie lutego i marca. 6 kwietnia 1917 roku prezydent Woodrow Wilson podpisał rezolucję Kongresu i Stany Zjednoczone przystąpiły do wojny z Niemcami."
+    }
+   ]
+  },
+  {
+   "start": "Na wschodzie Berlin pozwolił Leninowi przejechać",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/04/lenin-wraca-do-piotrogrodu.md",
+     "quote": "16 kwietnia 1917 Lenin przyjechał na Dworzec Fiński w Piotrogrodzie. Przez Niemcy jechał za zgodą Berlina"
+    },
+    {
+     "file": "src/content/timeline/1917/12/rozejm-w-brzesciu.md",
+     "quote": "15 grudnia 1917 w Brześciu Litewskim Rosja Sowiecka i państwa centralne podpisały rozejm"
+    },
+    {
+     "file": "src/content/timeline/1918/03/traktat-brzeski.md",
+     "quote": "3 marca 1918 Rosja Radziecka podpisała w Brześciu pokój z państwami centralnymi. Straciła Polskę, Litwę, Kurlandię, Inflanty, Estonię, Finlandię i Ukrainę."
+    }
+   ]
+  },
+  {
+   "start": "W sierpniu 1914 roku za kredytami wojennymi głosow",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/germany/",
+     "quote": "“We will not desert the Fatherland in the hour of danger” was now the credo of the SPD, all of whose deputies approved war credits and emergency wartime legislation with the rest of the Reichstag on 4 August 1914."
+    },
+    {
+     "file": "src/content/timeline/1914/12/liebknecht-glosuje-przeciw-kredytom-wojennym.md",
+     "quote": "2 grudnia 1914 Reichstag uchwalił kolejne 5 mld marek kredytów wojennych. Jedynym posłem, który głosował przeciw, był socjaldemokrata Karl Liebknecht."
+    },
+    {
+     "file": "src/content/timeline/1915/02/kartki-na-chleb-w-niemczech.md",
+     "quote": "22 lutego 1915 berlińczycy dostali pierwsze kartki na chleb, po 2 kilogramy tygodniowo na osobę. Odcięte blokadą Niemcy zaczęły racjonować żywność."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/germany/",
+     "quote": "Economic and consumer shortages reached their high point in the notorious “turnip winter” of 1916-17."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Zimą z 1916 na 1917 rok zawiódł zbiór ziemniaków i mieszkańcy miast musieli żywić się brukwią. Ten okres przeszedł do historii jako „zima brukwiowa” (Steckrübenwinter). Przydziały spadały chwilami do 1000 kalorii dziennie, a ludzie szukali żywności na czarnym rynku, na który mało kogo było stać. Według różnych szacunków blokada zabiła od 0,3 do 0,76 miliona ludzi."
+    }
+   ]
+  },
+  {
+   "start": "Hindenburg i Ludendorff zażądali gwałtownego zwięk",
+   "quotes": [
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Już 31 sierpnia zażądali gwałtownego zwiększenia produkcji broni i amunicji, znanego jako program Hindenburga. Miał on podwoić produkcję amunicji i potroić produkcję dział oraz karabinów maszynowych, a ustawa o pomocniczej służbie ojczyźnie z grudnia 1916 roku objęła obowiązkiem pracy wszystkich mężczyzn od 17 do 60 lat."
+    },
+    {
+     "file": "src/content/timeline/1917/07/michaelis-kanclerzem-rzeszy.md",
+     "quote": "14 lipca 1917 kanclerzem Rzeszy został Georg Michaelis. Zastąpił Bethmanna Hollwega, którego obalili wodzowie armii z pomocą posłów Reichstagu."
+    },
+    {
+     "file": "src/content/timeline/1917/07/rezolucja-pokojowa-reichstagu.md",
+     "quote": "19 lipca 1917 Reichstag głosami socjaldemokratów, Centrum i postępowców wezwał do pokoju porozumienia bez wymuszonych nabytków terytorialnych."
+    },
+    {
+     "file": "src/content/timeline/1917/08/bunt-w-niemieckiej-flocie.md",
+     "quote": "2 sierpnia 1917 około 600 marynarzy pancernika Prinzregent Luitpold zeszło samowolnie na ląd w Wilhelmshaven"
+    },
+    {
+     "file": "src/content/timeline/1918/01/strajk-styczniowy-w-niemczech.md",
+     "quote": "28 stycznia 1918 stanęły berlińskie zakłady zbrojeniowe. Strajkowało 400 tysięcy robotników, w całych Niemczech około miliona. Żądali pokoju i demokracji."
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec sierpnia 1915 roku Niemcy utworzyli w z",
+   "quotes": [
+    {
+     "file": "src/content/postacie/hans-von-beseler.md",
+     "quote": "Pod koniec sierpnia 1915 roku Niemcy utworzyli w zajętej przez siebie części Królestwa Polskiego Generalne Gubernatorstwo Warszawskie, a Beseler został jego szefem."
+    },
+    {
+     "file": "src/content/postacie/hans-von-beseler.md",
+     "quote": "Chciał zbudować u boku Niemiec państwo polskie z armią."
+    },
+    {
+     "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+     "quote": "5 listopada 1916 w Warszawie i Lublinie ogłoszono manifest cesarzy Niemiec i Austro-Węgier zapowiadający utworzenie Królestwa Polskiego, bez króla i granic."
+    },
+    {
+     "file": "src/content/timeline/1916/11/akt-5-listopada.md",
+     "quote": "armia narodowa miały powstać dopiero po zawarciu pokoju"
+    },
+    {
+     "file": "src/content/timeline/1917/09/patent-o-radzie-regencyjnej.md",
+     "quote": "12 września 1917 Niemcy i Austro-Węgry wydały patent, który oddawał władzę w Królestwie Polskim trzyosobowej Radzie Regencyjnej. Pod ścisłą kontrolą okupantów."
+    }
+   ]
+  },
+  {
+   "start": "Polacy z zaboru pruskiego służyli w armii niemieck",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Wrzosek: ok. 530 tys. (armia austro-węgierska ponad 220 tys., rosyjska ok. 200 tys., niemiecka ponad 110 tys.)"
+    },
+    {
+     "file": "src/content/postacie/wojciech-korfanty.md",
+     "quote": "poseł do Reichstagu, który 25 października 1918 zażądał dla Polski ziem zaboru pruskiego"
+    },
+    {
+     "file": "src/content/battles/1918/powstanie-wielkopolskie.md",
+     "quote": "27 grudnia 1918 – 16 lutego 1919 Polacy w pruskiej Prowincji Poznańskiej chwycili za broń"
+    }
+   ]
+  },
+  {
+   "start": "Pokój na wschodzie dał Niemcom ostatnią szansę. 21",
+   "quotes": [
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Wyjście Rosji z wojny dało Niemcom ostatnią szansę."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-germany/",
+     "quote": "Between 21 March and 18 July, the front in France was shattered by a series of German offensives that resulted in the German line being pushed forward up to sixty kilometers. The attack brought the German armies to the gates of Amiens and Château-Thierry."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-marna.md",
+     "quote": "15 lipca – 6 sierpnia 1918 ostatnia niemiecka ofensywa nad Marną załamała się"
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "8 sierpnia Brytyjczycy i Francuzi uderzyli pod Amiens. Brytyjska 4 Armia generała Henry'ego Rawlinsona, z Korpusem Kanadyjskim i Korpusem Australijskim jako główną siłą, ruszyła we mgle, bez wcześniejszego przygotowania artyleryjskiego, z ponad czterystoma czołgami. Do wieczora sprzymierzeni posunęli się o 12–13 kilometrów i wzięli około 15 tysięcy jeńców. Ludendorff nazwał ten dzień „czarnym dniem armii niemieckiej”. Dowiadywał się, że całe oddziały poddawały się pojedynczym jeźdźcom, a cofający się żołnierze wołali do idących na front „łamistrajki”. 14 sierpnia rada koronna w Spa uznała, że wojny nie da się wygrać militarnie, ale postanowiła szukać pokoju dopiero w „stosownej chwili”."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "29 września w Spa Hindenburg i Ludendorff zażądali natychmiastowej prośby o rozejm, a cesarz zgodził się na apel do Wilsona i na rząd parlamentarny. Nowy kanclerz, książę Max von Baden, uważał pośpiech za błąd, ale ustąpił i w nocy z 3 na 4 października wysłał notę do Wilsona."
+    }
+   ]
+  },
+  {
+   "start": "3 listopada w Kilonii zaczęła s",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/11/bunt-w-kilonii.md",
+     "quote": "3 listopada 1918 patrol w Kilonii strzelał do pochodu marynarzy i robotników. Nazajutrz miasto było w rękach rad żołnierskich. Zaczęła się rewolucja."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rewolucja-w-berlinie.md",
+     "quote": "9 listopada 1918 rewolucja dotarła do Berlina. Kanclerz ogłosił abdykację cesarza i oddał władzę Ebertowi, a Scheidemann proklamował republikę."
+    },
+    {
+     "file": "src/content/timeline/1918/11/cesarz-wilhelm-w-holandii.md",
+     "quote": "10 listopada 1918 Wilhelm II opuścił Spa i przekroczył granicę holenderską w Eijsden. Rząd Holandii, neutralnego kraju, udzielił mu schronienia."
+    },
+    {
+     "file": "src/content/timeline/1918/11/rozejm-w-compiegne.md",
+     "quote": "11 listopada 1918 o świcie Niemcy podpisali w wagonie Focha w lesie Compiègne rozejm z Ententą. O 11.00 na froncie zachodnim ucichły działa."
+    },
+    {
+     "url": "https://pl.wikipedia.org/wiki/Traktat_wersalski",
+     "quote": "28 czerwca 1919 roku … Alzację i północno-wschodnią Lotaryngię … większą część Wielkopolski … niemieckie terytoria kolonialne rozdzielono pomiędzy zwycięzców … 100 tys. żołnierzy … 132 mld marek w złocie"
+    }
+   ]
+  },
+  {
+   "start": "Niemcy zmobilizowały w czasie wojny od 11 milionów",
+   "quotes": [
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA: 11 mln; rząd niemiecki dla MBP: 13,25 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "Departament Wojny USA (1924): 1,77 mln; niemiecka historia oficjalna (1934): 2,04 mln"
+    },
+    {
+     "file": "src/data/war-numbers.json",
+     "quote": "\"low\": 3.4, \"high\": 4.3, \"note\": \"Rozrzut wynika z liczby ofiar blokady (0,3–0,76 mln)\""
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Na tym gruncie wyrosła legenda o „ciosie w plecy”: niepokonana w polu armia miała zostać zdradzona przez polityków i rewolucjonistów w kraju."
+    },
+    {
+     "file": "src/content/topics/dlaczego-niemcy-przegraly-wojne.md",
+     "quote": "Historycy zgodnie odrzucają tę legendę. To Hindenburg i Ludendorff 29 września oznajmili cesarzowi, że wojny nie da się prowadzić dalej, i zażądali rozejmu."
+    }
+   ]
+  }
+ ]
+}
