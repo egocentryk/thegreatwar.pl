@@ -2,10 +2,10 @@
 title: Germans capture Jasin
 summary: On the morning of 19 January 1915 the Jasin garrison, out of ammunition and water, surrendered to Lettow-Vorbeck. 276 Indian and African soldiers were captured.
 source: niemcy-zdobywaja-jasin
-sourceHash: 3c11a62edc239fabb019b71ab518ef65451bb385
+sourceHash: 3d44f99e537887e6fb4e9a3f7f73653c20213d51
 ---
 
-On the morning of 19 January 1915 the British garrison of Jasin, a border plantation in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), surrendered. Since dawn [the previous day](/niemiecki-atak-na-jasin) about 300 Indian soldiers had been holding out in a redoubt surrounded by nine companies under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Attempts to relieve them from the British camp on the Umba river had failed.
+On the morning of 19 January 1915 the British garrison of Jasin, a border plantation in [German East Africa](/bitwy/kampania-wschodnioafrykanska), surrendered. Since dawn [the previous day](/niemiecki-atak-na-jasin) about 300 Indian soldiers had been holding out in a redoubt surrounded by nine companies under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Attempts to relieve them from the British camp on the Umba river had failed.
 
 ## The surrender
 

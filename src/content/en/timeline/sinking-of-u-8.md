@@ -2,10 +2,10 @@
 title: Sinking of U-8
 summary: On 4 March 1915 British destroyers destroyed the German submarine U-8 in the Strait of Dover after it had been detected thanks to indicator nets.
 source: zatopienie-u-8
-sourceHash: 61952aa4e1d3518839ca54008b0c71d31d1ba75d
+sourceHash: 40f9fdf924c2b4e6242727fefe124a6c3c0ea431
 ---
 
-On 4 March 1915 in the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) destroyers of the British Dover Patrol hunted down and destroyed the German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny) U-8. Her entire crew of 29 men were taken prisoner. The British chronology of the war records this day as the first case in which indicator nets helped to destroy a U-boat.
+On 4 March 1915 in the [Strait of Dover](/miejsca/ciesnina-kaletanska) destroyers of the British Dover Patrol hunted down and destroyed the German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny) U-8. Her entire crew of 29 men were taken prisoner. The British chronology of the war records this day as the first case in which indicator nets helped to destroy a U-boat.
 
 ## Nets in the strait
 

@@ -21,7 +21,7 @@ Rząd francuski polecił Sarrailowi już 25 listopada, by zaczął umacniać Sal
 
 ## Cztery żądania
 
-Według brytyjskiej historii oficjalnej kampanii macedońskiej Sarrail powtórzył to, czego sprzymierzeni domagali się już drogą dyplomatyczną. Po pierwsze, wojska Ententy muszą mieć prawo umocnić pozycję do obrony Salonik. Po drugie, wojska greckie mają opuścić miasto. Po trzecie, na południe od jeziora Dojran, po obu stronach drogi odwrotu sprzymierzonych, trzeba utworzyć strefę neutralną. Po czwarte, Grecy mają oddać fort Kara Burun i baterię przy ujściu [Wardaru](https://pl.wikipedia.org/wiki/Wardar), które osłaniały wejście na redę Salonik. Pallis przesłał te żądania do Aten.
+Według brytyjskiej historii oficjalnej kampanii macedońskiej Sarrail powtórzył to, czego sprzymierzeni domagali się już drogą dyplomatyczną. Po pierwsze, wojska Ententy muszą mieć prawo umocnić pozycję do obrony Salonik. Po drugie, wojska greckie mają opuścić miasto. Po trzecie, na południe od jeziora Dojran, po obu stronach drogi odwrotu sprzymierzonych, trzeba utworzyć strefę neutralną. Po czwarte, Grecy mają oddać fort Kara Burun i baterię przy ujściu [Wardaru](/miejsca/wardar), które osłaniały wejście na redę Salonik. Pallis przesłał te żądania do Aten.
 
 Sarrail nie czekał na odpowiedź. Polecił wysłać następnego dnia patrole rozpoznawcze, by wybrały linię obrony wokół miasta, a przebywający wtedy w Salonikach generał Charles Monro, który [od końca listopada dowodził](/monro-naczelnym-dowodca-na-morzu-srodziemnym) wojskami brytyjskimi na wschodzie Morza Śródziemnego, kazał Mahonowi zrobić to samo.
 

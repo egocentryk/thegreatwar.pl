@@ -2,10 +2,10 @@
 title: Fighting to retake Przemyśl begins
 summary: On 24 May 1915 Mackensen's army struck at Radymno to cut Przemyśl off from the east. The Russians lost Radymno and thousands of men as prisoners.
 source: poczatek-walk-o-odbicie-przemysla
-sourceHash: 9869781278521c0b47fe294713da82cc2c4533cf
+sourceHash: a34f20b737927756e9721d9a50919a421725d528
 ---
 
-On 24 May 1915 German and Austro-Hungarian troops began the fighting to recover the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl), which the Russians had [taken](/kapitulacja-przemysla) two months earlier. The main blow of the day was the attack by General [August von Mackensen](/postacie/august-von-mackensen)'s German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka) on the eastern bank of the [San](https://pl.wikipedia.org/wiki/San), north of the fortress. By the evening the Russians had lost [Radymno](https://pl.wikipedia.org/wiki/Radymno) and several nearby villages, and thousands of their soldiers had been taken prisoner. The British chronology of the war records the start of the battle for Przemyśl under this date.
+On 24 May 1915 German and Austro-Hungarian troops began the fighting to recover the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl), which the Russians had [taken](/kapitulacja-przemysla) two months earlier. The main blow of the day was the attack by General [August von Mackensen](/postacie/august-von-mackensen)'s German [Eleventh Army](/sily-zbrojne/11-armia-niemiecka) on the eastern bank of the [San](/miejsca/san), north of the fortress. By the evening the Russians had lost [Radymno](https://pl.wikipedia.org/wiki/Radymno) and several nearby villages, and thousands of their soldiers had been taken prisoner. The British chronology of the war records the start of the battle for Przemyśl under this date.
 
 ## A fortress on the flank
 

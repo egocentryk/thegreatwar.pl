@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-23 czerwca 1918 roku do nabrzeża w [Murmańsku](https://pl.wikipedia.org/wiki/Murmańsk) przybił transportowiec City of Marseilles. Przywiózł dwa brytyjskie zgrupowania oznaczone kryptonimami „Syren” i „Elope”. Generał [Frederick Poole](/postacie/frederick-poole), od miesiąca [dowódca sił sojuszniczych na północy Rosji](/poole-w-murmansku), w swoim raporcie podał, że tego dnia przybyły sztaby i oddziały obu zgrupowań. „Syren” dowodził generał major Charles Maynard. Miał pozostać w Murmańsku i pod ogólnym zwierzchnictwem Poole'a objąć dowództwo wojsk w tym rejonie. „Elope” pod komendą generała brygady Roberta Finlaysona była misją złożoną ze sztabu i instruktorów. Miała towarzyszyć Poole'owi do [Archangielska](https://pl.wikipedia.org/wiki/Archangielsk), gdzie zamierzano zorganizować i wyszkolić nowe wojsko rosyjskie do walki z Niemcami.
+23 czerwca 1918 roku do nabrzeża w [Murmańsku](/miejsca/murmansk) przybił transportowiec City of Marseilles. Przywiózł dwa brytyjskie zgrupowania oznaczone kryptonimami „Syren” i „Elope”. Generał [Frederick Poole](/postacie/frederick-poole), od miesiąca [dowódca sił sojuszniczych na północy Rosji](/poole-w-murmansku), w swoim raporcie podał, że tego dnia przybyły sztaby i oddziały obu zgrupowań. „Syren” dowodził generał major Charles Maynard. Miał pozostać w Murmańsku i pod ogólnym zwierzchnictwem Poole'a objąć dowództwo wojsk w tym rejonie. „Elope” pod komendą generała brygady Roberta Finlaysona była misją złożoną ze sztabu i instruktorów. Miała towarzyszyć Poole'owi do [Archangielska](/miejsca/archangielsk), gdzie zamierzano zorganizować i wyszkolić nowe wojsko rosyjskie do walki z Niemcami.
 
 ## Mała siła na wielkie zadanie
 

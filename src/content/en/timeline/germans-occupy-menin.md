@@ -2,10 +2,10 @@
 title: Germans occupy Menin
 summary: The British chronology records the German capture of Menin on the Lys around 9 October 1914. Belgian sources date the town's occupation from 14 October.
 source: niemcy-zajmuja-menin
-sourceHash: 6ca70c645a84a3ff3cf41234dd6f80975c42ec19
+sourceHash: d79e2bc7dee6ae57ff46375d0454878bea9fee52
 ---
 
-Under the date 9 October 1914, with the reservation that the date is approximate, the British chronology of the war records the German occupation of [Menin](https://pl.wikipedia.org/wiki/Menen) (Menen in Flemish). This small town in West Flanders lies on the river [Leie](https://pl.wikipedia.org/wiki/Leie) (French: Lys), which forms the border with France at this point. One of the main roads to [Ypres](/miejsca/ypres), some 20 kilometres to the north-west, ran through Menin.
+Under the date 9 October 1914, with the reservation that the date is approximate, the British chronology of the war records the German occupation of [Menin](https://pl.wikipedia.org/wiki/Menen) (Menen in Flemish). This small town in West Flanders lies on the river [Leie](/miejsca/leie) (French: Lys), which forms the border with France at this point. One of the main roads to [Ypres](/miejsca/ypres), some 20 kilometres to the north-west, ran through Menin.
 
 ## Cavalry on the Leie
 

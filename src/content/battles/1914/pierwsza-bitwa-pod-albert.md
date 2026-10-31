@@ -17,7 +17,7 @@ tags: [Francja, Niemcy, wyścig do morza, Pikardia]
 milestone: false
 ---
 
-Pierwsza bitwa pod [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) była drugim, po [bitwie w Pikardii](/bitwy/pierwsza-bitwa-w-pikardii), dużym starciem [wyścigu do morza](/bitwy/wyscig-do-morza). Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Po kilku dniach walk żadna ze stron nie zdobyła przewagi, a wojska okopały się na wzgórzach między Albert a [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Na tych samych polach w lipcu 1916 roku Brytyjczycy i Francuzi rozpoczęli [bitwę nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
+Pierwsza bitwa pod [Albert](/miejsca/albert) była drugim, po [bitwie w Pikardii](/bitwy/pierwsza-bitwa-w-pikardii), dużym starciem [wyścigu do morza](/bitwy/wyscig-do-morza). Francuska 2 Armia generała [Noëla de Castelnau](/postacie/noel-de-castelnau) i niemiecka 6 Armia księcia [Rupprechta Bawarskiego](/postacie/rupprecht-bawarski) próbowały obejść się nawzajem na północ od [Sommy](/miejsca/somma). Po kilku dniach walk żadna ze stron nie zdobyła przewagi, a wojska okopały się na wzgórzach między Albert a [Bapaume](/miejsca/bapaume). Na tych samych polach w lipcu 1916 roku Brytyjczycy i Francuzi rozpoczęli [bitwę nad Sommą](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
 
 ## Daty bitwy
 
@@ -33,9 +33,9 @@ Niemiecki szef sztabu generalnego, generał [Erich von Falkenhayn](/postacie/eri
 
 ## Przebieg walk
 
-**25 września.** Francuska 2 Armia ruszyła z okolic Albert na wschód. Zamiast otwartego skrzydła natrafiła na niemieckie kolumny idące w przeciwnym kierunku. Na południe od Sommy XXI Korpus i I Bawarski Korpus przeprawiły się przez rzekę w okolicach [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)) i nacierały na zachód.
+**25 września.** Francuska 2 Armia ruszyła z okolic Albert na wschód. Zamiast otwartego skrzydła natrafiła na niemieckie kolumny idące w przeciwnym kierunku. Na południe od Sommy XXI Korpus i I Bawarski Korpus przeprawiły się przez rzekę w okolicach [Péronne](/miejsca/peronne) i nacierały na zachód.
 
-**26–27 września.** Niemcy zajęli Bapaume. Bawarska dywizja rozbiła francuskie oddziały terytorialne i posuwała się na zachód przez Combles, Guillemont i Montauban w stronę Albert. XIV Korpus Rezerwowy nacierał wzdłuż starej rzymskiej drogi z Bapaume do Albert i 27 września dotarł do [Thiepval](https://pl.wikipedia.org/wiki/Thiepval) na wzgórzach nad rzeką [Ancre](https://pl.wikipedia.org/wiki/Ancre). Francuzi, zasilani przez kolejne oddziały, bronili się coraz silniej.
+**26–27 września.** Niemcy zajęli Bapaume. Bawarska dywizja rozbiła francuskie oddziały terytorialne i posuwała się na zachód przez Combles, Guillemont i Montauban w stronę Albert. XIV Korpus Rezerwowy nacierał wzdłuż starej rzymskiej drogi z Bapaume do Albert i 27 września dotarł do [Thiepval](https://pl.wikipedia.org/wiki/Thiepval) na wzgórzach nad rzeką [Ancre](/miejsca/somma). Francuzi, zasilani przez kolejne oddziały, bronili się coraz silniej.
 
 **28 września.** Niemcy próbowali przebić się do Albert i dalej w stronę Amiens. Francuska piechota i artyleria zatrzymały ich na linii biegnącej od [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) przez [Fricourt](https://pl.wikipedia.org/wiki/Fricourt) po Thiepval. Samo Albert znalazło się pod ostrzałem niemieckiej artylerii, który zniszczył znaczną część miasta.
 

@@ -21,7 +21,7 @@ Rebelia szybko przyniosła mu osobisty dramat. Na początku listopada w potyczce
 
 ## Ucieczka na zachód
 
-Kilka dni później De Wet musiał przyznać, że powstanie w Oranii upadło. Z garstką wiernych ludzi ruszył na zachód. Chciał przedostać się przez [Kalahari](https://pl.wikipedia.org/wiki/Kalahari) do [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) i połączyć się z Manie Maritzem, który już w październiku przeszedł na stronę Niemców. Uciekinierzy przeprawili się przez rzekę Vaal i jechali konno przez rzadko zaludnione pogranicze dawnego Beczuanalandu Brytyjskiego.
+Kilka dni później De Wet musiał przyznać, że powstanie w Oranii upadło. Z garstką wiernych ludzi ruszył na zachód. Chciał przedostać się przez [Kalahari](https://pl.wikipedia.org/wiki/Kalahari) do [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia) i połączyć się z Manie Maritzem, który już w październiku przeszedł na stronę Niemców. Uciekinierzy przeprawili się przez rzekę Vaal i jechali konno przez rzadko zaludnione pogranicze dawnego Beczuanalandu Brytyjskiego.
 
 Tym razem dawna taktyka zawiodła. Wojska rządowe ścigały go nie tylko konno, ale także samochodami. Kolumna pułkownika Coena Britsa korzystała z pojazdów, które przewoziły żołnierzy znacznie szybciej, niż mogły jechać zmęczone konie rebeliantów. Według relacji jakiś informator doniósł komendantowi Jorriemu Jordaanowi, gdzie ukrywają się wyczerpani uciekinierzy. Jordaan otoczył farmę Waterbury, około 20 kilometrów od Morokweng, i De Wet skapitulował.
 

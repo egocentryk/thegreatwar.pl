@@ -2,10 +2,10 @@
 title: Battle of Narungombe
 summary: On 19 July 1917 the Kilwa columns assaulted the German trenches at Narungombe all day. The Germans withdrew at night, but the British lost more than 600 men.
 source: bitwa-pod-narungombe
-sourceHash: 440c81e8a32ab506ca4aa384dc94af93ab800bd6
+sourceHash: 31f9129f4c40bdc72230a067d6c316003d676cd9
 ---
 
-At six in the morning on 19 July 1917 three British columns advanced on the German trenches at Narungombe, among hills and tall grass about 50 kilometres south of [Kilwa](/brytyjczycy-zajmuja-kilwe) in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The fighting lasted until dusk and was one of the hardest of the whole campaign. The Germans repulsed attack after attack but abandoned the position during the night. The British won the coveted wells, but at the cost of more than 600 killed, wounded and missing.
+At six in the morning on 19 July 1917 three British columns advanced on the German trenches at Narungombe, among hills and tall grass about 50 kilometres south of [Kilwa](/brytyjczycy-zajmuja-kilwe) in [German East Africa](/bitwy/kampania-wschodnioafrykanska). The fighting lasted until dusk and was one of the hardest of the whole campaign. The Germans repulsed attack after attack but abandoned the position during the night. The British won the coveted wells, but at the cost of more than 600 killed, wounded and missing.
 
 ## The pursuit from Kilwa
 

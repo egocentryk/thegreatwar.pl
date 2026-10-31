@@ -9,10 +9,10 @@ sides:
     commanders: [Georgi Todorov, Dimitar Geshov]
 result: Bulgarian victory. The 10th Division lost its positions and eight guns but withdrew in good order. On 12 December the Entente troops left Serbia and returned to Greece.
 source: bitwa-pod-kosturino
-sourceHash: 332aa597668716ed0a27cac396f8758e6282f8d7
+sourceHash: 283ad8645a3f97c252337894523c25d0716b4239
 ---
 
-The Battle of Kosturino was the first serious clash between British troops and the Bulgarians and the closing act of the Entente's failed expedition to help Serbia. When the French began to withdraw from the [Vardar](https://pl.wikipedia.org/wiki/Wardar) valley at the beginning of December 1915, the frost-exhausted British 10th (Irish) Division was covering their right flank on the bare ridges near the village of Kosturino, some fifteen kilometres south of [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). The Bulgarian Second Army attacked it in thick fog. On 7 December it broke through the front of two Irish battalions, and on 8 December it forced the whole division to retreat. Over the next four days the British and French, pursued by the Bulgarians, withdrew over the Dedeli pass and from around [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija) across the Greek border. The battle belonged to the final phase of the Central Powers' [conquest of Serbia](/bitwy/podboj-serbii).
+The Battle of Kosturino was the first serious clash between British troops and the Bulgarians and the closing act of the Entente's failed expedition to help Serbia. When the French began to withdraw from the [Vardar](/miejsca/wardar) valley at the beginning of December 1915, the frost-exhausted British 10th (Irish) Division was covering their right flank on the bare ridges near the village of Kosturino, some fifteen kilometres south of [Strumica](https://pl.wikipedia.org/wiki/Strumica_(miasto)). The Bulgarian Second Army attacked it in thick fog. On 7 December it broke through the front of two Irish battalions, and on 8 December it forced the whole division to retreat. Over the next four days the British and French, pursued by the Bulgarians, withdrew over the Dedeli pass and from around [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija) across the Greek border. The battle belonged to the final phase of the Central Powers' [conquest of Serbia](/bitwy/podboj-serbii).
 
 ## Name and dates
 

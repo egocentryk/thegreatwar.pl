@@ -2,10 +2,10 @@
 title: British take Kilosa
 summary: On 22 August 1916 exhausted men of van Deventer's 2nd Division entered Kilosa, a Central Railway station in East Africa abandoned by the Germans.
 source: brytyjczycy-zajmuja-kilose
-sourceHash: 836cdec7165fc0c87a474598e0f33a3ce77ad5c9
+sourceHash: 203d9c3530b8bc9fbca11da4395963b0a2f92e4f
 ---
 
-On 22 August 1916 the South African 2nd Division of General Jacob van Deventer took without a fight [Kilosa](https://pl.wikipedia.org/wiki/Kilosa), a station on the Central Railway in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), lying at the mouth of a mountain gorge, almost 300 kilometres by rail from Dar es Salaam. According to the British official history (Hordern), at dawn the infantry of the 9th and 10th South African Infantry found the German trenches on the hills before the town empty and saw Kilosa below them. At 7 a.m. the first mounted troops entered it, and in the course of the day van Deventer quartered most of his division there. So ended one of the hardest marches of the whole campaign.
+On 22 August 1916 the South African 2nd Division of General Jacob van Deventer took without a fight [Kilosa](https://pl.wikipedia.org/wiki/Kilosa), a station on the Central Railway in [German East Africa](/bitwy/kampania-wschodnioafrykanska), lying at the mouth of a mountain gorge, almost 300 kilometres by rail from Dar es Salaam. According to the British official history (Hordern), at dawn the infantry of the 9th and 10th South African Infantry found the German trenches on the hills before the town empty and saw Kilosa below them. At 7 a.m. the first mounted troops entered it, and in the course of the day van Deventer quartered most of his division there. So ended one of the hardest marches of the whole campaign.
 
 ## Twelve days in the mountains
 

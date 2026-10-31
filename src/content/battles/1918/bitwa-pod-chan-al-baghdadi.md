@@ -17,7 +17,7 @@ tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania, jeńcy wojenni]
 milestone: false
 ---
 
-Bitwa pod Chan al-Baghdadi była ostatnią dużą operacją Brytyjczyków nad [Eufratem](https://pl.wikipedia.org/wiki/Eufrat) w czasie [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Pół roku po [zwycięstwie pod Ramadi](/brytyjczycy-zdobywaja-ramadi) ta sama brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga powtórzyła tamten manewr na większą skalę. 26 marca 1918 roku piechota związała Turków walką od czoła, a 11 Brygada Kawalerii z samochodami pancernymi obeszła ich przez pustynię i zamknęła drogę odwrotu. W nocy turecka próba przebicia się załamała się, a o świcie 27 marca tysiące żołnierzy wywiesiło białe flagi. W pościgu Brytyjczycy doszli aż do Any i jeszcze dalej, odbijając po drodze dwóch własnych oficerów wziętych dwa dni wcześniej do niewoli.
+Bitwa pod Chan al-Baghdadi była ostatnią dużą operacją Brytyjczyków nad [Eufratem](/miejsca/eufrat) w czasie [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Pół roku po [zwycięstwie pod Ramadi](/brytyjczycy-zdobywaja-ramadi) ta sama brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga powtórzyła tamten manewr na większą skalę. 26 marca 1918 roku piechota związała Turków walką od czoła, a 11 Brygada Kawalerii z samochodami pancernymi obeszła ich przez pustynię i zamknęła drogę odwrotu. W nocy turecka próba przebicia się załamała się, a o świcie 27 marca tysiące żołnierzy wywiesiło białe flagi. W pościgu Brytyjczycy doszli aż do Any i jeszcze dalej, odbijając po drodze dwóch własnych oficerów wziętych dwa dni wcześniej do niewoli.
 
 ## Nazwa i daty
 

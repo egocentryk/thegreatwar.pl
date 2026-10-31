@@ -2,10 +2,10 @@
 title: Loss of Zeppelin L 19
 summary: On 2 February 1916 the airship L 19, back from a raid on the Midlands, sank in the North Sea. The trawler King Stephen refused to help; 16 airmen died.
 source: utrata-sterowca-l-19
-sourceHash: 9b03a83db4fbc919ea9fb81799119d206e3aae56
+sourceHash: 8f8be787531aeaef4f02508eb8e968074fa92ced
 ---
 
-On the morning of 2 February 1916 the British fishing trawler *King Stephen* of [Grimsby](https://pl.wikipedia.org/wiki/Grimsby) came upon the wreck of the German airship L 19 in the middle of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne). Airmen were crowded on top of the half-submerged envelope, calling for rescue. The skipper, William Martin, refused to take them on board and sailed away. A few hours later the airship sank with its entire crew of 16 under Kapitänleutnant Odo Loewe (Löwe in some sources). The manner of the airmen's death provoked a controversy that echoed in the press around the world.
+On the morning of 2 February 1916 the British fishing trawler *King Stephen* of [Grimsby](https://pl.wikipedia.org/wiki/Grimsby) came upon the wreck of the German airship L 19 in the middle of the [North Sea](/miejsca/morze-polnocne). Airmen were crowded on top of the half-submerged envelope, calling for rescue. The skipper, William Martin, refused to take them on board and sailed away. A few hours later the airship sank with its entire crew of 16 under Kapitänleutnant Odo Loewe (Löwe in some sources). The manner of the airmen's death provoked a controversy that echoed in the press around the world.
 
 ## The last flight
 

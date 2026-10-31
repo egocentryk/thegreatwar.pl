@@ -2,7 +2,7 @@
 title: Relief of Przemyśl
 summary: On 9 October 1914 cavalry of General Boroević's Third Army reached Przemyśl. After a failed assault the Russians drew back from the fortress behind the San.
 source: odsiecz-przemysla
-sourceHash: 1da554a95912aa30f6eb2561d06b44055ba6e955
+sourceHash: df2b029c10967cb036fe592c1b1d9940b051e0e7
 ---
 
 On 9 October 1914, according to a British chronology of the war, relief reached the besieged [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl). That day the first patrol of Austro-Hungarian cavalry from the [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) of General [Svetozar Boroević](/postacie/svetozar-boroevic) reached the western edge of the fortifications, while the Russian troops were pulling back from the forts. The end of the siege was, however, spread over several days. Polish accounts usually give 10 October, when the Russians withdrew along the whole line, and some English-language ones 11 October. The main relief forces entered Przemyśl on 11–12 October.
@@ -11,7 +11,7 @@ On 9 October 1914, according to a British chronology of the war, relief reached 
 
 The Russian Third Army of General [Radko Dimitriev](/postacie/radko-dimitriew) had still been storming the fortress on 5–8 October and had suffered heavy losses. By then the Austro-Hungarian armies, which at the beginning of the month had launched a [counter-offensive in Galicia](/kontrofensywa-austro-wegier-w-galicji), were already approaching from the west. General [Aleksei Brusilov](/postacie/aleksiej-brusilow), who was then directing a group of Russian armies in Galicia, later recalled that another five or six days were needed to take the forts, while the approaching enemy was four days' march away. That was why he broke off the assault.
 
-The Russians did not accept battle in front of the fortress. North of Przemyśl Dimitriev's troops withdrew to the east bank of the [San](https://pl.wikipedia.org/wiki/San) and destroyed the bridges behind them. Some of them still held on to the west bank at [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), which the Austrians recovered on 11–12 October. South of the fortress Brusilov's Eighth Army occupied prepared positions on the hills stretching as far as Stary Sambor. The siege was over, but the right wing of Brusilov's army stood almost under the forts themselves.
+The Russians did not accept battle in front of the fortress. North of Przemyśl Dimitriev's troops withdrew to the east bank of the [San](/miejsca/san) and destroyed the bridges behind them. Some of them still held on to the west bank at [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), which the Austrians recovered on 11–12 October. South of the fortress Brusilov's Eighth Army occupied prepared positions on the hills stretching as far as Stary Sambor. The siege was over, but the right wing of Brusilov's army stood almost under the forts themselves.
 
 ## Joy in the city
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje pod datą 17 grudnia 1914 roku, że na Kaukazie rozpoczęła się ofensywa turecka, a Turcy odbili Köprüköy, wieś nad [Araksem](https://pl.wikipedia.org/wiki/Araks) na drodze do [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). Opracowania nie potwierdzają tej informacji. Köprüköy pozostawało w rękach osmańskich od połowy listopada, gdy kontratak 3 Armii [zepchnął Rosjan](/turcy-odbijaja-koprukoy) w rejon wsi Azap, a [doniesienie o ponownym zajęciu wsi przez Rosjan](/rzekome-ponowne-zajecie-koprukoy) z 22 listopada nie znajduje potwierdzenia w źródłach. W grudniu nie było więc czego odbijać. Wielka ofensywa turecka, która skończyła się katastrofą pod Sarykamyszem, ruszyła dopiero 22 grudnia.
+Brytyjska chronologia wojny podaje pod datą 17 grudnia 1914 roku, że na Kaukazie rozpoczęła się ofensywa turecka, a Turcy odbili Köprüköy, wieś nad [Araksem](https://pl.wikipedia.org/wiki/Araks) na drodze do [Erzurum](/miejsca/erzurum). Opracowania nie potwierdzają tej informacji. Köprüköy pozostawało w rękach osmańskich od połowy listopada, gdy kontratak 3 Armii [zepchnął Rosjan](/turcy-odbijaja-koprukoy) w rejon wsi Azap, a [doniesienie o ponownym zajęciu wsi przez Rosjan](/rzekome-ponowne-zajecie-koprukoy) z 22 listopada nie znajduje potwierdzenia w źródłach. W grudniu nie było więc czego odbijać. Wielka ofensywa turecka, która skończyła się katastrofą pod Sarykamyszem, ruszyła dopiero 22 grudnia.
 
 ## Enver na froncie
 

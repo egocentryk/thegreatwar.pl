@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 lipca 1916 roku wojska brytyjsko-indyjskie zajęły bez walki [Tangę](https://pl.wikipedia.org/wiki/Tanga), port na północnym wybrzeżu [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) i końcowy przystanek kolei usambarskiej. Ta sama Tanga w listopadzie 1914 roku była miejscem [jednej z najdotkliwszych brytyjskich porażek](/bitwy/bitwa-pod-tanga) w całej wojnie. Tym razem Niemcy nie bronili miasta. Indyjska piechota weszła do niego od zachodu, a marynarze z okrętów [Royal Navy](/sily-zbrojne/royal-navy) od strony morza.
+7 lipca 1916 roku wojska brytyjsko-indyjskie zajęły bez walki [Tangę](https://pl.wikipedia.org/wiki/Tanga), port na północnym wybrzeżu [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska) i końcowy przystanek kolei usambarskiej. Ta sama Tanga w listopadzie 1914 roku była miejscem [jednej z najdotkliwszych brytyjskich porażek](/bitwy/bitwa-pod-tanga) w całej wojnie. Tym razem Niemcy nie bronili miasta. Indyjska piechota weszła do niego od zachodu, a marynarze z okrętów [Royal Navy](/sily-zbrojne/royal-navy) od strony morza.
 
 ## Port pozostawiony na boku
 

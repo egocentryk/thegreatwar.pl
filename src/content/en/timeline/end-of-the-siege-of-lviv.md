@@ -2,10 +2,10 @@
 title: End of the siege of Lviv
 summary: On 19 March 1919 Polish units, among them Konarzewski's Greater Poland troops, retook the Przemyśl–Lviv railway and broke the Ukrainian ring round the city.
 source: koniec-oblezenia-lwowa
-sourceHash: 180258211c09bbb81bf3b244625cbec7f5c284b1
+sourceHash: 73893dacde6a0af9ee8d6257a6a8948231ed0c43
 ---
 
-On 19 March 1919 Polish units broke through the Ukrainian positions near [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) and recovered the railway line from [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl) to [Lviv](https://pl.wikipedia.org/wiki/Lwów), the only route by which soldiers, ammunition and food could reach the city. That day the commander of the Polish forces in Eastern Galicia, General [Wacław Iwaszkiewicz](https://pl.wikipedia.org/wiki/Wacław_Iwaszkiewicz-Rudoszański), announced the victory in an order of the day and singled out for praise the units that had come from Greater Poland. The Ukrainian ring round Lviv, closed at the beginning of March, had been broken. In Polish memory this fighting went down as the relief of Lviv, and for the first time in months the city was no longer cut off from the rest of the country.
+On 19 March 1919 Polish units broke through the Ukrainian positions near [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) and recovered the railway line from [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl) to [Lviv](/miejsca/lwow), the only route by which soldiers, ammunition and food could reach the city. That day the commander of the Polish forces in Eastern Galicia, General [Wacław Iwaszkiewicz](https://pl.wikipedia.org/wiki/Wacław_Iwaszkiewicz-Rudoszański), announced the victory in an order of the day and singled out for praise the units that had come from Greater Poland. The Ukrainian ring round Lviv, closed at the beginning of March, had been broken. In Polish memory this fighting went down as the relief of Lviv, and for the first time in months the city was no longer cut off from the rest of the country.
 
 ## Half a year surrounded
 

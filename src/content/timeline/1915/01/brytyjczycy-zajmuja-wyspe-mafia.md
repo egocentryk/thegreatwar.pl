@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 12 stycznia 1915 roku zajęcie przez Brytyjczyków wyspy [Mafia](https://pl.wikipedia.org/wiki/Mafia_(wyspa)), należącej do [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Według dziennika działań brytyjskich oddziałów desant wylądował już 10 stycznia, a główna walka rozegrała się następnego dnia. Data 12 stycznia odpowiada zapewne kapitulacji niemieckich władz wyspy lub dniu, w którym dotarła o niej wiadomość.
+Brytyjska chronologia wojny notuje pod 12 stycznia 1915 roku zajęcie przez Brytyjczyków wyspy [Mafia](https://pl.wikipedia.org/wiki/Mafia_(wyspa)), należącej do [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Według dziennika działań brytyjskich oddziałów desant wylądował już 10 stycznia, a główna walka rozegrała się następnego dnia. Data 12 stycznia odpowiada zapewne kapitulacji niemieckich władz wyspy lub dniu, w którym dotarła o niej wiadomość.
 
 ## Wyspa naprzeciw delty
 

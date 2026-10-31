@@ -2,7 +2,7 @@
 title: Peace of Brest-Litovsk with Ukraine
 summary: On 9 February 1918 the Central Powers made peace with the Ukrainian People's Republic at Brest. For grain they promised it Chełm Land, angering the Poles.
 source: pokoj-brzeski-z-ukraina
-sourceHash: b422efbe613b49e69845d0f1527f9d5494d9036c
+sourceHash: 5882a20bc98244879828d9028218e6fb2e3e83ea
 brief:
   - "On 9 February 1918 at Brest-Litovsk Germany, Austria-Hungary, Bulgaria and Turkey signed the first peace treaty of the war, with the Ukrainian People's Republic. Czernin called it the \"bread peace\"."
   - "Vienna faced the spectre of famine, so Emperor Karl accepted the Ukrainian terms. Ukraine promised the Central Powers its grain surplus, which the Rada guaranteed at a minimum of one million tonnes."
@@ -11,7 +11,7 @@ brief:
   - "Vienna soon announced that Chełm Land's fate would be settled by a commission with Polish participation, but the Poles' trust in the Central Powers could not be rebuilt. Ukraine was occupied by German and Austro-Hungarian troops."
 ---
 
-On 9 February 1918 (27 January by the Julian calendar), at about two in the morning, the first [peace treaty](https://pl.wikipedia.org/wiki/Traktat_brzeski_(9_lutego_1918)) of this war was signed in the citadel of [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć). Germany, Austria-Hungary, Bulgaria and Turkey made peace with the Ukrainian People's Republic, which [a week earlier](/uznanie-ukrainy-przez-panstwa-centralne) they had recognised as an independent state. The Austro-Hungarian Foreign Minister, Count [Ottokar Czernin](/postacie/ottokar-czernin), who had worked for this agreement from the first days of the negotiations, called it the "bread peace" (*Brotfrieden*). Ukraine promised grain to starving Vienna and Berlin, and in return received a border which cut off [Chełm Land](https://pl.wikipedia.org/wiki/Gubernia_chełmska) and part of Podlasie from the Polish lands. For the Poles it was the "fourth partition".
+On 9 February 1918 (27 January by the Julian calendar), at about two in the morning, the first [peace treaty](https://pl.wikipedia.org/wiki/Traktat_brzeski_(9_lutego_1918)) of this war was signed in the citadel of [Brest-Litovsk](/miejsca/brzesc). Germany, Austria-Hungary, Bulgaria and Turkey made peace with the Ukrainian People's Republic, which [a week earlier](/uznanie-ukrainy-przez-panstwa-centralne) they had recognised as an independent state. The Austro-Hungarian Foreign Minister, Count [Ottokar Czernin](/postacie/ottokar-czernin), who had worked for this agreement from the first days of the negotiations, called it the "bread peace" (*Brotfrieden*). Ukraine promised grain to starving Vienna and Berlin, and in return received a border which cut off [Chełm Land](https://pl.wikipedia.org/wiki/Gubernia_chełmska) and part of Podlasie from the Polish lands. For the Poles it was the "fourth partition".
 
 ## A signing in the spotlight
 

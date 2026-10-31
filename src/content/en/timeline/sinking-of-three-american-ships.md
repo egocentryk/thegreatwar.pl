@@ -2,14 +2,14 @@
 title: Sinking of three American ships
 summary: Between 16 and 18 March 1917 German submarines sank the ships Vigilancia, City of Memphis and Illinois. Fifteen men died on the Vigilancia.
 source: zatopienie-trzech-amerykanskich-statkow
-sourceHash: 9cc87dec44a172b8cdff536a38e8ebea64a2c0cf
+sourceHash: d3c7ca549e85aab2194383a204f89f812e9dcc67
 ---
 
 On Sunday 18 March 1917 word came from London that German submarines had sunk three American ships in three days: the *Vigilancia*, the *City of Memphis* and the *Illinois*. A week earlier, on 12 March, the steamer [*Algonquin*](/usa-uzbrajaja-statki-handlowe) had gone down after being shelled without warning, but all her men had survived. This time Americans had died. When on 3 February President [Woodrow Wilson](/postacie/woodrow-wilson) [broke off relations with Germany](/usa-zrywaja-stosunki-z-niemcami), he had declared that he would believe in its hostile intentions only when he saw "overt acts". In Washington it was felt that he had now seen them.
 
 ## *Vigilancia*
 
-The steamer *Vigilancia*, of just over 4,100 gross register tons, left New York for [Le Havre](https://pl.wikipedia.org/wiki/Hawr) on 28 February with a general cargo, including sugar and foodstuffs. At about ten in the morning of 16 March, roughly 145 miles west of [Bishop Rock](https://pl.wikipedia.org/wiki/Bishop_Rock), she was struck without any warning by a torpedo from the submarine U-70 under Kapitänleutnant Otto Wünsche. According to the crew's statements, forwarded to Washington by the American consul in [Plymouth](https://pl.wikipedia.org/wiki/Plymouth), the ship was sailing under the American flag, with clear markings on her sides, and sank in seven minutes. Fifteen men drowned while the boats were being lowered, six of them Americans. The rest spent more than two days in the boats before reaching the [Isles of Scilly](https://pl.wikipedia.org/wiki/Scilly). The first reports spoke of 14 missing out of a crew of 43; the consul later gave the number of dead as 15.
+The steamer *Vigilancia*, of just over 4,100 gross register tons, left New York for [Le Havre](/miejsca/hawr) on 28 February with a general cargo, including sugar and foodstuffs. At about ten in the morning of 16 March, roughly 145 miles west of [Bishop Rock](https://pl.wikipedia.org/wiki/Bishop_Rock), she was struck without any warning by a torpedo from the submarine U-70 under Kapitänleutnant Otto Wünsche. According to the crew's statements, forwarded to Washington by the American consul in [Plymouth](https://pl.wikipedia.org/wiki/Plymouth), the ship was sailing under the American flag, with clear markings on her sides, and sank in seven minutes. Fifteen men drowned while the boats were being lowered, six of them Americans. The rest spent more than two days in the boats before reaching the [Isles of Scilly](https://pl.wikipedia.org/wiki/Scilly). The first reports spoke of 14 missing out of a crew of 43; the consul later gave the number of dead as 15.
 
 ## *City of Memphis*
 

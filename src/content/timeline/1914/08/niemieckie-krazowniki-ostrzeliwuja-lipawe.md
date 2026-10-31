@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1914 roku, dzień po wypowiedzeniu wojny Rosji, wojna dotarła na [Morze Bałtyckie](https://pl.wikipedia.org/wiki/Morze_Bałtyckie). Dwa niemieckie krążowniki lekkie, Augsburg i [Magdeburg](https://pl.wikipedia.org/wiki/SMS_Magdeburg_(1911)), pojawiły się przed rosyjskim portem [Lipawa](https://pl.wikipedia.org/wiki/Lipawa), nazywanym wówczas po niemiecku Libau, na wybrzeżu [Kurlandii](https://pl.wikipedia.org/wiki/Kurlandia).
+2 sierpnia 1914 roku, dzień po wypowiedzeniu wojny Rosji, wojna dotarła na [Morze Bałtyckie](https://pl.wikipedia.org/wiki/Morze_Bałtyckie). Dwa niemieckie krążowniki lekkie, Augsburg i [Magdeburg](https://pl.wikipedia.org/wiki/SMS_Magdeburg_(1911)), pojawiły się przed rosyjskim portem [Lipawa](https://pl.wikipedia.org/wiki/Lipawa), nazywanym wówczas po niemiecku Libau, na wybrzeżu [Kurlandii](/miejsca/kurlandia).
 
 Okręty podzieliły się zadaniami. Magdeburg ostrzelał port, a Augsburg postawił przed jego wejściem zagrodę minową. W ówczesnych kronikach ostrzał przypisywano Augsburgowi, a samą akcję uważa się za pierwsze strzały oddane przez niemiecką flotę przeciw Rosji. Była to zarazem jedna z pierwszych operacji morskich całej wojny.
 

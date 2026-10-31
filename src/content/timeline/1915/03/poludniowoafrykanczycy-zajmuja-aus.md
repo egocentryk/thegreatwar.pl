@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 30 marca 1915 roku zajęcie [Aus](https://pl.wikipedia.org/wiki/Aus) przez wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Ta niewielka osada w górach na skraju pustyni Namib, przy linii kolejowej z Lüderitzbucht do [Keetmanshoop](https://pl.wikipedia.org/wiki/Keetmanshoop), była najsilniej umocnioną niemiecką pozycją na południu [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Niemcy oddali ją jednak bez walki.
+Brytyjska chronologia wojny notuje pod 30 marca 1915 roku zajęcie [Aus](https://pl.wikipedia.org/wiki/Aus) przez wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Ta niewielka osada w górach na skraju pustyni Namib, przy linii kolejowej z Lüderitzbucht do [Keetmanshoop](https://pl.wikipedia.org/wiki/Keetmanshoop), była najsilniej umocnioną niemiecką pozycją na południu [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Niemcy oddali ją jednak bez walki.
 
 ## Sześć miesięcy na pustyni
 

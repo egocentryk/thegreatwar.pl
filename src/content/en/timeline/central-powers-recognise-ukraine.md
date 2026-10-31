@@ -2,10 +2,10 @@
 title: Central Powers recognise Ukraine
 summary: On 1 February 1918 at Brest Czernin declared that the Central Powers recognised the Ukrainian People's Republic as an independent, sovereign state.
 source: uznanie-ukrainy-przez-panstwa-centralne
-sourceHash: 0f8623a657eea9716b1364550ecd9b2d82abaf5f
+sourceHash: eabab6e2bd723a4f67c959911fe552864d5150d5
 ---
 
-On 1 February 1918 (19 January in the Julian calendar), towards the end of a plenary session of the peace conference at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć), the Austro-Hungarian foreign minister, Count [Ottokar Czernin](/postacie/ottokar-czernin), spoke on behalf of the delegations of the four allied powers: Germany, Austria-Hungary, Bulgaria and Turkey. He recalled that on 12 January they had recognised the delegation of the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada) as an independent representation of the Ukrainian People's Republic. Now, he declared, they saw no reason to withdraw or restrict that recognition; on the contrary, they recognised "already now the Ukrainian People's Republic as an independent, free and sovereign state, capable of concluding international agreements on its own". Ukraine, which had proclaimed full independence only a few days earlier, thus obtained its first formal recognition from foreign powers.
+On 1 February 1918 (19 January in the Julian calendar), towards the end of a plenary session of the peace conference at [Brest-Litovsk](/miejsca/brzesc), the Austro-Hungarian foreign minister, Count [Ottokar Czernin](/postacie/ottokar-czernin), spoke on behalf of the delegations of the four allied powers: Germany, Austria-Hungary, Bulgaria and Turkey. He recalled that on 12 January they had recognised the delegation of the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada) as an independent representation of the Ukrainian People's Republic. Now, he declared, they saw no reason to withdraw or restrict that recognition; on the contrary, they recognised "already now the Ukrainian People's Republic as an independent, free and sovereign state, capable of concluding international agreements on its own". Ukraine, which had proclaimed full independence only a few days earlier, thus obtained its first formal recognition from foreign powers.
 
 ## The dispute over who speaks for Ukraine
 

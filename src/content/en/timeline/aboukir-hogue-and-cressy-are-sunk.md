@@ -2,10 +2,10 @@
 title: Aboukir, Hogue and Cressy are sunk
 summary: On 22 September 1914 the German U-9 sank three British armoured cruisers in about an hour. Almost 1,500 sailors were killed.
 source: zatoniecie-aboukir-hogue-i-cressy
-sourceHash: 619ac847c1c106461f0b2583eca011fd324921a3
+sourceHash: d38b3b5684409f8eea70debddb8facac9cba1d14
 ---
 
-On the morning of 22 September 1914, in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) off the coast of the Netherlands, the German submarine [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) sank three British [armoured cruisers](https://pl.wikipedia.org/wiki/Krążownik_pancerny) one after another: [*Aboukir*](https://pl.wikipedia.org/wiki/HMS_Aboukir_(1900)), [*Hogue*](https://pl.wikipedia.org/wiki/HMS_Hogue_(1900)) and [*Cressy*](https://pl.wikipedia.org/wiki/HMS_Cressy_(1899)). The whole action lasted little more than an hour. 1,459 sailors were killed, more than at the Battle of Trafalgar. It was one of the heaviest defeats suffered by the [Royal Navy](/sily-zbrojne/royal-navy) in this war and the first great victory of the German U-boats.
+On the morning of 22 September 1914, in the [North Sea](/miejsca/morze-polnocne) off the coast of the Netherlands, the German submarine [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) sank three British [armoured cruisers](https://pl.wikipedia.org/wiki/Krążownik_pancerny) one after another: [*Aboukir*](https://pl.wikipedia.org/wiki/HMS_Aboukir_(1900)), [*Hogue*](https://pl.wikipedia.org/wiki/HMS_Hogue_(1900)) and [*Cressy*](https://pl.wikipedia.org/wiki/HMS_Cressy_(1899)). The whole action lasted little more than an hour. 1,459 sailors were killed, more than at the Battle of Trafalgar. It was one of the heaviest defeats suffered by the [Royal Navy](/sily-zbrojne/royal-navy) in this war and the first great victory of the German U-boats.
 
 ## The "live bait squadron"
 

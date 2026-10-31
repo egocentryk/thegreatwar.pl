@@ -2,10 +2,10 @@
 title: Germans occupy Armentières, Hazebrouck, Merville and Estaires
 summary: A British chronicle records the German capture of four towns in French Flanders on 9 October 1914. In reality these were cavalry raids.
 source: niemcy-zajmuja-armentieres-i-hazebrouck
-sourceHash: acd0205d7cb36a0953c6f04daf84659896c7a8ed
+sourceHash: 7fb435607c43b5b8032f50706ad33a72faf7b26e
 ---
 
-A British chronicle of the war records under 9 October 1914 the German capture of [Armentières](https://pl.wikipedia.org/wiki/Armentières), [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)) and [Estaires](https://pl.wikipedia.org/wiki/Estaires), towns in French Flanders between Lille and Saint-Omer. In the first half of October there was still no continuous front here. German cavalry corps were roaming the plain along the river [Leie](https://pl.wikipedia.org/wiki/Leie) (in French, the Lys), trying to outflank the Allied left wing and reach the coast. Local sources and the British official history show, however, that each of these towns had a different fate.
+A British chronicle of the war records under 9 October 1914 the German capture of [Armentières](https://pl.wikipedia.org/wiki/Armentières), [Hazebrouck](/miejsca/hazebrouck), [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)) and [Estaires](https://pl.wikipedia.org/wiki/Estaires), towns in French Flanders between Lille and Saint-Omer. In the first half of October there was still no continuous front here. German cavalry corps were roaming the plain along the river [Leie](/miejsca/leie) (in French, the Lys), trying to outflank the Allied left wing and reach the coast. Local sources and the British official history show, however, that each of these towns had a different fate.
 
 Furthest west went General von Hollen's IV Cavalry Corps. On 7 October it [passed through Ypres](/niemiecka-kawaleria-w-ypres), and on the afternoon of 8 October its columns entered [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)) and set off towards Hazebrouck, an important railway junction. Near the town they ran into French Territorial units and cavalry, and on 9 October the corps fell back to Bailleul. The sources do not confirm that the Germans took Hazebrouck itself at that time. At most, patrols made forays into the area around the town.
 

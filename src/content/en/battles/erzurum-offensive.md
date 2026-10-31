@@ -9,7 +9,7 @@ sides:
     commanders: [Mahmud Kâmil Pasha, Abdul Kerim Pasha]
 result: Decisive Russian victory. The Ottoman 3rd Army was broken at Köprüköy, and on 16 February 1916 the Russians took the fortress of Erzurum, capturing more than 300 guns.
 source: ofensywa-erzurumska
-sourceHash: 8239e333812223f7679b4ac6ebcd7a53df2942c2
+sourceHash: adac226763a0cda6535cc6b77d1338f55615c1ca
 brief:
   - "The Erzurum offensive, from 10 January to 16 February 1916, was the greatest victory of the Russian Caucasus Army in the First World War. In the depths of winter General Nikolai Yudenich attacked the Ottoman 3rd Army."
   - "Yudenich wanted to break the 3rd Army before the divisions freed by the evacuation of Gallipoli could reach it. Preparations were made in the greatest secrecy, and the Turks expected calm until spring."
@@ -18,7 +18,7 @@ brief:
   - "The Ottoman army in the Caucasus was broken, although it was not encircled. The fall of Erzurum opened the way for the Russians into the interior of Anatolia, towards Trebizond and Erzincan."
 ---
 
-The Erzurum offensive was the greatest victory of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) in the First World War. In the depths of winter, when deep snow lay in the mountains of the [Armenian Highlands](https://pl.wikipedia.org/wiki/Wyżyna_Armeńska) and the Turks expected calm until spring, General [Nikolai Yudenich](/postacie/nikolaj-judenicz) attacked the Ottoman 3rd Army. In the Battle of Köprüköy, from 10 to 19 January 1916, he broke through its fortified lines and threw it back behind the forts of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). After three weeks of preparation, on 11 February, the Russians struck at the fortress itself, which was considered impregnable. On the morning of 16 February Cossacks rode into the city. The defeat opened the way for the Russians into the interior of Anatolia, towards Trebizond and Erzincan.
+The Erzurum offensive was the greatest victory of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) in the First World War. In the depths of winter, when deep snow lay in the mountains of the [Armenian Highlands](https://pl.wikipedia.org/wiki/Wyżyna_Armeńska) and the Turks expected calm until spring, General [Nikolai Yudenich](/postacie/nikolaj-judenicz) attacked the Ottoman 3rd Army. In the Battle of Köprüköy, from 10 to 19 January 1916, he broke through its fortified lines and threw it back behind the forts of [Erzurum](/miejsca/erzurum). After three weeks of preparation, on 11 February, the Russians struck at the fortress itself, which was considered impregnable. On the morning of 16 February Cossacks rode into the city. The defeat opened the way for the Russians into the interior of Anatolia, towards Trebizond and Erzincan.
 
 ## Name and dates
 

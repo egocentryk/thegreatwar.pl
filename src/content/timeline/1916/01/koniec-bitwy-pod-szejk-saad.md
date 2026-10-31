@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 stycznia 1916 roku pod Szejk Saad nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) panował względny spokój. Po dwóch dniach krwawych walk wojska generała Fentona Aylmera, idące na odsiecz oblężonemu [Al-Kutowi](https://pl.wikipedia.org/wiki/Al-Kut), były tak wyczerpane, że Aylmer odwołał zaplanowane natarcie. Tureccy obrońcy wykorzystali noc z 8 na 9 stycznia, by wycofać się w górę rzeki. 9 stycznia po południu Brytyjczycy zajęli Szejk Saad bez walki. Bitwa zakończyła się więc brytyjskim zwycięstwem, ale nie tym rozstrzygającym, na które liczono, i za wysoką cenę.
+8 stycznia 1916 roku pod Szejk Saad nad [Tygrysem](/miejsca/tygrys) panował względny spokój. Po dwóch dniach krwawych walk wojska generała Fentona Aylmera, idące na odsiecz oblężonemu [Al-Kutowi](/miejsca/al-kut), były tak wyczerpane, że Aylmer odwołał zaplanowane natarcie. Tureccy obrońcy wykorzystali noc z 8 na 9 stycznia, by wycofać się w górę rzeki. 9 stycznia po południu Brytyjczycy zajęli Szejk Saad bez walki. Bitwa zakończyła się więc brytyjskim zwycięstwem, ale nie tym rozstrzygającym, na które liczono, i za wysoką cenę.
 
 ## Siódmy stycznia
 

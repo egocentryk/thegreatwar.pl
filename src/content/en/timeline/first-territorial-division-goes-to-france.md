@@ -2,10 +2,10 @@
 title: First Territorial division goes to France
 summary: At the end of February 1915 the North Midland Division began crossing to France. It was the first complete division of the Territorial Force at the front.
 source: pierwsza-dywizja-terytorialna-jedzie-do-francji
-sourceHash: 6f4e520189bb959b70e1484f68c21fb7a6d1c660
+sourceHash: 74d0402ef8784707c8e6407443033eba96c5d3a6
 ---
 
-According to the British chronology of the war, on 24 February 1915 the North Midland Division left England, the first division of the volunteer Territorial Force to be sent complete to the Western Front. The crossing took a dozen or so days. Billeting parties landed at [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) as early as 23 February, the first infantry battalions reached France on 25 February, and the rest, mainly through [Le Havre](https://pl.wikipedia.org/wiki/Hawr), by the beginning of March. By 8 March the whole division was concentrated in Flanders.
+According to the British chronology of the war, on 24 February 1915 the North Midland Division left England, the first division of the volunteer Territorial Force to be sent complete to the Western Front. The crossing took a dozen or so days. Billeting parties landed at [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) as early as 23 February, the first infantry battalions reached France on 25 February, and the rest, mainly through [Le Havre](/miejsca/hawr), by the beginning of March. By 8 March the whole division was concentrated in Flanders.
 
 ## Volunteers from the Midlands
 

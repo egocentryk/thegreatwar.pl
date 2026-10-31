@@ -2,14 +2,14 @@
 title: The cruiser Königsberg in the Firth of Forth
 summary: On 15 November 1918 the cruiser Königsberg brought Rear-Admiral Meurer to the Firth of Forth to agree with Beatty how Germany would hand over its fleet.
 source: krazownik-konigsberg-w-zatoce-forth
-sourceHash: 6a5e276ac5f03273641b07d2994f0bf833e881a3
+sourceHash: f0653a517176368b40997e87e0d64d048464f899
 ---
 
 On 15 November 1918 the German light cruiser *Königsberg* entered the [Firth of Forth](https://pl.wikipedia.org/wiki/Firth_of_Forth) in Scotland, where the British [Grand Fleet](/sily-zbrojne/grand-fleet) lay. She brought Rear-Admiral Hugo Meurer, the plenipotentiary of the German navy, who was to settle with the commander of the Grand Fleet, Admiral [David Beatty](/postacie/david-beatty), how the naval terms of the [Armistice of Compiègne](/rozejm-w-compiegne) were to be carried out. In the evening, between seven and eight, Meurer and his staff went aboard Beatty's flagship, the battleship [*Queen Elizabeth*](https://pl.wikipedia.org/wiki/HMS_Queen_Elizabeth_(1913)). A British chronology of the war records this meeting under 15–16 November, because the talks began on the evening of 15 November and ended the following day.
 
 ## Who was to hand over the fleet
 
-The armistice of 11 November required Germany to hand over all its submarines to the Allies within 14 days, and within 7 days to disarm and hand over for internment the newest surface ships of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska): 10 battleships, 6 battlecruisers, 8 light cruisers and 50 destroyers. They were to go to a neutral port or, if none could be found, to an Allied port. Norway and Spain refused, so the First Sea Lord, Admiral Rosslyn Wemyss, persuaded the Allied admirals to intern the ships at the main base of the Grand Fleet, [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in Orkney. Carrying out these terms was entrusted to Beatty.
+The armistice of 11 November required Germany to hand over all its submarines to the Allies within 14 days, and within 7 days to disarm and hand over for internment the newest surface ships of the [High Seas Fleet](/sily-zbrojne/flota-pelnomorska): 10 battleships, 6 battlecruisers, 8 light cruisers and 50 destroyers. They were to go to a neutral port or, if none could be found, to an Allied port. Norway and Spain refused, so the First Sea Lord, Admiral Rosslyn Wemyss, persuaded the Allied admirals to intern the ships at the main base of the Grand Fleet, [Scapa Flow](/miejsca/scapa-flow) in Orkney. Carrying out these terms was entrusted to Beatty.
 
 The difficulty was that no one knew who in Germany still gave orders to the fleet. Since the [Kiel mutiny](/bunt-w-kilonii) the ships had been run by sailors' councils, and in Berlin power had passed to the government of Friedrich Ebert. The British Admiralty decided to deal with the old command. Beatty called by wireless on the commander of the High Seas Fleet, Admiral [Franz von Hipper](/postacie/franz-von-hipper), to send a flag officer to Rosyth. At noon on 13 November the reply came that Rear-Admiral Meurer would come in the cruiser *Königsberg*.
 

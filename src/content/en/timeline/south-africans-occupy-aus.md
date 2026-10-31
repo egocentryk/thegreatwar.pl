@@ -2,10 +2,10 @@
 title: South Africans occupy Aus
 summary: At the end of March 1915 the Germans abandoned fortified Aus without a fight. General McKenzie's Central Force opened its way into the south of the colony.
 source: poludniowoafrykanczycy-zajmuja-aus
-sourceHash: 45fffb8873868fb246a8bc2853bc3937d4453adb
+sourceHash: 59aae678168065c1d929f2da5de5c389b5a4e0d8
 ---
 
-A British chronology of the war records under 30 March 1915 the occupation of [Aus](https://pl.wikipedia.org/wiki/Aus) by the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). This small settlement in the mountains on the edge of the Namib desert, on the railway from Lüderitzbucht to [Keetmanshoop](https://pl.wikipedia.org/wiki/Keetmanshoop), was the most strongly fortified German position in the south of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). The Germans nevertheless gave it up without a fight.
+A British chronology of the war records under 30 March 1915 the occupation of [Aus](https://pl.wikipedia.org/wiki/Aus) by the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). This small settlement in the mountains on the edge of the Namib desert, on the railway from Lüderitzbucht to [Keetmanshoop](https://pl.wikipedia.org/wiki/Keetmanshoop), was the most strongly fortified German position in the south of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The Germans nevertheless gave it up without a fight.
 
 ## Six months in the desert
 

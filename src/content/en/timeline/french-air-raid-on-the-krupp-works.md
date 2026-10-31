@@ -2,10 +2,10 @@
 title: French air raid on the Krupp works
 summary: On 24 September 1916 two French airmen in modified Sopwiths flew from near Verdun to Essen and bombed the Krupp works. They returned without loss.
 source: francuski-nalot-na-zaklady-kruppa
-sourceHash: 836f16018fa9a446a72837081db94e93bbf6074a
+sourceHash: f63014c337e6895225e1eaf192d683188588f340
 ---
 
-On 24 September 1916 two French aircraft bombed the [Krupp](https://pl.wikipedia.org/wiki/Friedrich_Krupp_(przedsiębiorstwo)) armaments works in [Essen](https://pl.wikipedia.org/wiki/Essen), in the heart of the [Ruhr](https://pl.wikipedia.org/wiki/Zagłębie_Ruhry). The British chronology of the war records it briefly: "Krupp's works at Essen bombed by French aeroplanes". Behind this sentence lies a daring raid by two airmen: Captain Louis Robert de Beauchamp, commander of escadrille N 23, and Lieutenant Pierre Daucourt. They flew single-seat aircraft from the airfield at [Lemmes](https://pl.wikipedia.org/wiki/Lemmes), south of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). According to French studies, the whole route, there and back, was about 700 kilometres.
+On 24 September 1916 two French aircraft bombed the [Krupp](https://pl.wikipedia.org/wiki/Friedrich_Krupp_(przedsiębiorstwo)) armaments works in [Essen](https://pl.wikipedia.org/wiki/Essen), in the heart of the [Ruhr](https://pl.wikipedia.org/wiki/Zagłębie_Ruhry). The British chronology of the war records it briefly: "Krupp's works at Essen bombed by French aeroplanes". Behind this sentence lies a daring raid by two airmen: Captain Louis Robert de Beauchamp, commander of escadrille N 23, and Lieutenant Pierre Daucourt. They flew single-seat aircraft from the airfield at [Lemmes](https://pl.wikipedia.org/wiki/Lemmes), south of [Verdun](/bitwy/bitwa-pod-verdun). According to French studies, the whole route, there and back, was about 700 kilometres.
 
 ## Modified Sopwiths
 

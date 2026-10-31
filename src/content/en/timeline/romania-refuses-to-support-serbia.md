@@ -2,7 +2,7 @@
 title: Romania refuses to support Serbia
 summary: According to the British chronology, on 25 January 1915 Romania rejected an Entente idea to help Serbia with Greece. Bucharest would not act without Bulgaria.
 source: rumunia-odmawia-wsparcia-serbii
-sourceHash: 628bbfbdbdecfcf22a76c089359af1cf98f5270c
+sourceHash: 3a5031bf166590652736eb07589b77938bb8d804
 ---
 
 The British chronology of the war records under 25 January 1915 that [Romania](/kraje/rumunia) rejected the Entente's suggestion that it come to Serbia's aid together with Greece. This was a direct consequence of the [British offer to Greece](/brytyjska-oferta-dla-grecji) made the day before. The Greek prime minister, [Eleftherios Venizelos](/postacie/elefterios-wenizelos), considered that without Romania's cooperation his country could not risk war, and King Constantine I made his consent conditional on it. Athens therefore approached Bucharest with a proposal for joint action, and the Entente supported it.
@@ -13,7 +13,7 @@ The reply of the prime minister, [Ion I. C. Brătianu](/postacie/ion-bratianu), 
 
 Romania had its own reasons for caution. Its war aim was [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), not the fate of Macedonia, over which its neighbours were quarrelling. The [secret agreement with Russia](/tajne-porozumienie-rosji-i-rumunii) of autumn 1914 promised it this acquisition in return for benevolent neutrality, without the need to enter the war at once. Brătianu wanted to choose the moment of entering the war himself and to pay as little as possible for it. Helping Serbia would have meant entering the war in the middle of winter, with an army that still lacked artillery and ammunition.
 
-Above all, however, Bulgaria was feared. In 1913 Romania had taken Southern [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża) from it, and in Bucharest it was expected that the Bulgarians would want to win it back as soon as the Romanian army became engaged elsewhere. The Entente tried to draw Sofia to its side with promises of territory, but the Romanians had no intention of giving up their own gains for that. Without Bulgaria, let alone against it, joint action by Romania and Greece was too risky for Brătianu.
+Above all, however, Bulgaria was feared. In 1913 Romania had taken Southern [Dobruja](/miejsca/dobrudza) from it, and in Bucharest it was expected that the Bulgarians would want to win it back as soon as the Romanian army became engaged elsewhere. The Entente tried to draw Sofia to its side with promises of territory, but the Romanians had no intention of giving up their own gains for that. Without Bulgaria, let alone against it, joint action by Romania and Greece was too risky for Brătianu.
 
 ## Waiting for a better moment
 

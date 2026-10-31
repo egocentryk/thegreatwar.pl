@@ -2,10 +2,10 @@
 title: Surrender of German South West Africa
 summary: On 9 July 1915 at Khorab Governor Seitz and Lt-Col. Franke signed the surrender to Gen. Botha. Germany lost the colony and its troops laid down their arms.
 source: kapitulacja-niemieckiej-afryki-poludniowo-zachodniej
-sourceHash: 76dfdb89736756baf8801437b1ac9d5c177b8ee5
+sourceHash: 39a84416658fb00939cd168b908c65cb9eec740e
 ---
 
-On 9 July 1915, at the "Kilo 500" milestone on the railway line from Swakopmund to [Tsumeb](https://pl.wikipedia.org/wiki/Tsumeb), near Khorab farm north of [Otavi](https://pl.wikipedia.org/wiki/Otavi), the armed forces of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) surrendered to the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The instrument of surrender was signed by Governor Theodor Seitz and the commander of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), Lieutenant-Colonel Victor Franke, and on the victors' side by the Union's prime minister and commander-in-chief, General [Louis Botha](/postacie/louis-botha). The campaign, which had begun in September 1914 with the [landing at Lüderitzbucht](/poludniowoafrykanczycy-zajmuja-luderitzbucht), ended after less than a year.
+On 9 July 1915, at the "Kilo 500" milestone on the railway line from Swakopmund to [Tsumeb](https://pl.wikipedia.org/wiki/Tsumeb), near Khorab farm north of [Otavi](https://pl.wikipedia.org/wiki/Otavi), the armed forces of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia) surrendered to the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The instrument of surrender was signed by Governor Theodor Seitz and the commander of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), Lieutenant-Colonel Victor Franke, and on the victors' side by the Union's prime minister and commander-in-chief, General [Louis Botha](/postacie/louis-botha). The campaign, which had begun in September 1914 with the [landing at Lüderitzbucht](/poludniowoafrykanczycy-zajmuja-luderitzbucht), ended after less than a year.
 
 ## Surrounded at Khorab
 

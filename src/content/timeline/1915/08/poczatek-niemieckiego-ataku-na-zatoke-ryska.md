@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 sierpnia 1915 roku (26 lipca według kalendarza juliańskiego) przed świtem niemieckie trałowce weszły do [Cieśniny Irbe](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), między wybrzeżem [Kurlandii](https://pl.wikipedia.org/wiki/Kurlandia) a wyspą [Saremą](https://pl.wikipedia.org/wiki/Sarema). Zaczęły przecierać drogę przez rosyjskie pola minowe do [Zatoki Ryskiej](https://pl.wikipedia.org/wiki/Zatoka_Ryska). Była to pierwsza z dwóch prób, które przeszły do historii jako bitwa w Zatoce Ryskiej.
+8 sierpnia 1915 roku (26 lipca według kalendarza juliańskiego) przed świtem niemieckie trałowce weszły do [Cieśniny Irbe](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), między wybrzeżem [Kurlandii](/miejsca/kurlandia) a wyspą [Saremą](https://pl.wikipedia.org/wiki/Sarema). Zaczęły przecierać drogę przez rosyjskie pola minowe do [Zatoki Ryskiej](https://pl.wikipedia.org/wiki/Zatoka_Ryska). Była to pierwsza z dwóch prób, które przeszły do historii jako bitwa w Zatoce Ryskiej.
 
 ## Flota z Morza Północnego
 

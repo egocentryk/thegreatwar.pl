@@ -21,7 +21,7 @@ brief:
 
 ## Impas nad Aisne
 
-W połowie września armie niemieckie, wycofane znad Marny, zatrzymały się na wzgórzach nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Francuzi i Brytyjczycy przez kilka dni bezskutecznie próbowali zepchnąć je z tych pozycji. Gdy [bitwa nad Aisne dobiegła końca](/koniec-bitwy-nad-aisne), obie strony zaczęły się okopywać. Front ciągnął się już od granicy szwajcarskiej do okolic [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), ale dalej na zachód i północ nie było żadnej linii. Między Oise a kanałem La Manche rozciągał się obszar, na którym stały tylko nieliczne oddziały kawalerii i wojsk terytorialnych.
+W połowie września armie niemieckie, wycofane znad Marny, zatrzymały się na wzgórzach nad rzeką [Aisne](/miejsca/aisne). Francuzi i Brytyjczycy przez kilka dni bezskutecznie próbowali zepchnąć je z tych pozycji. Gdy [bitwa nad Aisne dobiegła końca](/koniec-bitwy-nad-aisne), obie strony zaczęły się okopywać. Front ciągnął się już od granicy szwajcarskiej do okolic [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), ale dalej na zachód i północ nie było żadnej linii. Między Oise a kanałem La Manche rozciągał się obszar, na którym stały tylko nieliczne oddziały kawalerii i wojsk terytorialnych.
 
 Dowódcy obu stron doszli do tego samego wniosku. Skoro nie da się przełamać frontu, trzeba go obejść. Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), już od 17 września kazał francuskiej 6 Armii nacierać na północ od Oise, w okolicach Noyon, ale Niemcy szybko zatrzymali to natarcie. Joffre postanowił więc zgromadzić dalej na zachodzie nową armię, która uderzy na otwarte niemieckie skrzydło.
 
@@ -41,7 +41,7 @@ Niemiecka kolej nie nadążała jednak z przewozami. 22 września naprzeciw Fran
 
 22 września korpusy Castelnau przeszły rzeczkę Avre i ruszyły na wschód i północny wschód, na linii od [Lassigny](https://pl.wikipedia.org/wiki/Lassigny) przez [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) po [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes). Celem było wyjście na tyły Niemców walczących nad Oise i Aisne. W pierwszym dniu Francuzi zepchnęli przeciwnika z części pozycji, ale nie znaleźli przed sobą pustki, na którą liczyli. Niemcy bronili się twardo i czekali na posiłki.
 
-W kolejnych dniach sytuacja się odwróciła. 23 i 24 września przybył niemiecki XVIII Korpus, zdjęty z frontu pod Reims, i razem z II Korpusem przeszedł do kontrataku. Ciężkie walki toczyły się pod Roye, Lassigny i na drogach prowadzących do [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)). Francuzi musieli oddać część zdobytego terenu, a na północnym skrzydle ich kawaleria i dywizje terytorialne wycofały się za [Sommę](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Do 26 września siły obu stron się wyczerpały i wojska zaczęły się okopywać.
+W kolejnych dniach sytuacja się odwróciła. 23 i 24 września przybył niemiecki XVIII Korpus, zdjęty z frontu pod Reims, i razem z II Korpusem przeszedł do kontrataku. Ciężkie walki toczyły się pod Roye, Lassigny i na drogach prowadzących do [Péronne](/miejsca/peronne). Francuzi musieli oddać część zdobytego terenu, a na północnym skrzydle ich kawaleria i dywizje terytorialne wycofały się za [Sommę](/miejsca/somma). Do 26 września siły obu stron się wyczerpały i wojska zaczęły się okopywać.
 
 ## Znaczenie
 

@@ -2,14 +2,14 @@
 title: Air raid on Chatham
 summary: On the night of 3 September 1917 Gothas bombed Chatham. Two bombs hit a naval barracks hall where several hundred men were sleeping. About 130 sailors died.
 source: nalot-na-chatham
-sourceHash: 3792e4569980d86775c47b134adbada17e94de9d
+sourceHash: 785fa18b31795662855064fe28a59d55202bf4c6
 ---
 
 On the night of 3/4 September 1917 German Gotha bombers attacked England after dark for the first time. Their target was the main [Royal Navy](/sily-zbrojne/royal-navy) base on the River [Medway](https://pl.wikipedia.org/wiki/Medway_(rzeka)) at [Chatham](https://pl.wikipedia.org/wiki/Chatham_(Wielka_Brytania)). Two bombs fell on the glass roof of the drill hall in the naval barracks, where several hundred sailors were sleeping in hammocks. About 130 of them were killed. According to the British historian of the raids Ian Castle, no other single hit on one target in Britain during this war caused so many casualties.
 
 ## The Gothas' first night expedition
 
-After the failure of the daylight raid [of 22 August](/ostatni-dzienny-nalot-na-anglie), Captain Rudolf Kleine's bomber wing Kagohl 3, based near [Ghent](https://pl.wikipedia.org/wiki/Gandawa), underwent brief training in night flying. The day before, another German unit [had bombed Dover by night](/nocny-nalot-na-dover), but the raid on Chatham was the first planned night attack by the Gothas. Kleine called for volunteers. Five bombers took off, his own among them, one after another at intervals of several minutes, because flying in formation in the dark risked collisions. One machine turned back with engine trouble.
+After the failure of the daylight raid [of 22 August](/ostatni-dzienny-nalot-na-anglie), Captain Rudolf Kleine's bomber wing Kagohl 3, based near [Ghent](/miejsca/gandawa), underwent brief training in night flying. The day before, another German unit [had bombed Dover by night](/nocny-nalot-na-dover), but the raid on Chatham was the first planned night attack by the Gothas. Kleine called for volunteers. Five bombers took off, his own among them, one after another at intervals of several minutes, because flying in formation in the dark risked collisions. One machine turned back with engine trouble.
 
 At about 10.35 p.m. two aircraft crossed the coast over [Westgate-on-Sea](https://pl.wikipedia.org/wiki/Westgate-on-Sea). One dropped its bombs on fields near [Margate](https://pl.wikipedia.org/wiki/Margate), breaking only windows, and turned back out to sea. The other bombers flew over the Thames estuary and the Isle of Sheppey. At about 11.10 p.m. the first bombs fell on marshes and gardens around Chatham. A few minutes later, according to the clock on the tower, which stopped at 11.12 p.m., the drill hall of the naval barracks was hit.
 

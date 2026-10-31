@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny odnotowała pod datą 5 września 1914 roku zajęcie [Reims](https://pl.wikipedia.org/wiki/Reims) przez wojska niemieckie. W rzeczywistości Niemcy wkroczyli do miasta dzień wcześniej, 4 września, i 5 września było ono już całkowicie w ich rękach. Reims, stolica Szampanii, miało dla Francuzów szczególne znaczenie: w tutejszej katedrze przez stulecia koronowano królów Francji.
+Brytyjska kronika wojny odnotowała pod datą 5 września 1914 roku zajęcie [Reims](/miejsca/reims) przez wojska niemieckie. W rzeczywistości Niemcy wkroczyli do miasta dzień wcześniej, 4 września, i 5 września było ono już całkowicie w ich rękach. Reims, stolica Szampanii, miało dla Francuzów szczególne znaczenie: w tutejszej katedrze przez stulecia koronowano królów Francji.
 
 ## Miasto bez obrony
 

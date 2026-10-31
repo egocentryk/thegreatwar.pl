@@ -2,7 +2,7 @@
 title: Central Powers retake Brașov
 summary: On 9 October 1916, after two days of street fighting, German and Hungarian troops took Brașov. The Romanian Second Army fell back at night to the passes.
 source: panstwa-centralne-odbijaja-braszow
-sourceHash: fe019845aaf263a0f64fb25436e09fe44493035c
+sourceHash: f6bc95181f3ffc2a2c3298f60861c1cf3032a9eb
 ---
 
 On the morning of 9 October 1916 German and Hungarian troops occupied the whole of [Brașov](https://pl.wikipedia.org/wiki/Braszów), Kronstadt in German, Brassó in Hungarian. The Romanian Second Army, which since 7 October had been defending the city and the plain of the [Burzenland](https://pl.wikipedia.org/wiki/Burzenland) against the German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), had withdrawn during the night towards the Carpathian passes. The Austrian official history writes that on that day the rising sun "shone over the Burzenland on a field of Allied victory". In Romania, where the [Julian calendar](/slownik/kalendarz-julianski) was still in use, it was 26 September.
@@ -19,6 +19,6 @@ According to the Austrian official history, in Brașov the victors captured abou
 
 ## What came next
 
-After the defeat Crăiniceanu lost his command, and General [Alexandru Averescu](/postacie/alexandru-averescu) once again took charge of the Second Army. According to the Austrian official history, still on 9 October the new commander concluded that at the mouths of the passes his troops would be destroyed by German heavy artillery, and ordered a defence deeper in the mountain valleys. In a report to the King he wrote of the soldiers' dejection and warned that if the enemy did not give him time, a further retreat would be necessary. Falkenhayn, meanwhile, decided to pursue the Romanians through all the passes between the Red Tower Pass and the Buzău Pass and to cross the mountains together with them, in the direction of [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt).
+After the defeat Crăiniceanu lost his command, and General [Alexandru Averescu](/postacie/alexandru-averescu) once again took charge of the Second Army. According to the Austrian official history, still on 9 October the new commander concluded that at the mouths of the passes his troops would be destroyed by German heavy artillery, and ordered a defence deeper in the mountain valleys. In a report to the King he wrote of the soldiers' dejection and warned that if the enemy did not give him time, a further retreat would be necessary. Falkenhayn, meanwhile, decided to pursue the Romanians through all the passes between the Red Tower Pass and the Buzău Pass and to cross the mountains together with them, in the direction of [Bucharest](/miejsca/bukareszt).
 
 This hope was not fulfilled. Fatigue was also telling on the victors, and the Romanians managed to man the fortifications on the frontier. The victory at Brașov, which sealed the Romanians' defeat in [Transylvania](https://pl.wikipedia.org/wiki/Siedmiogród), opened a new stage of the campaign: several weeks of fighting for the Carpathian passes.

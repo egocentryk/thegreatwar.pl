@@ -2,10 +2,10 @@
 title: Mine barrage off the Belgian coast
 summary: On 24 April 1916 Admiral Bacon's ships laid a double line of mines and a belt of mine nets off Zeebrugge against the submarines from Flanders.
 source: zapora-minowa-u-wybrzezy-belgii
-sourceHash: fca3fa0b5074871dcf78dae36e97dc2d91815575
+sourceHash: 7fe51e4d53e723e2e8f1333a737f07258871d649
 ---
 
-On 24 April 1916, Easter Monday, British ships laid off the coast of occupied Belgium a barrage of mines and mine nets nearly 30 kilometres long. It was meant to hamper the sorties of the submarines of the German [Flanders Flotilla](https://pl.wikipedia.org/wiki/Flotylla_Flandria) from [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) and [Ostend](https://pl.wikipedia.org/wiki/Ostenda), which for months had been sinking ships and laying mines on the approaches to Dover, the Thames and the French ports. The operation was planned and led by the commander of the Dover Patrol, Admiral Reginald Bacon.
+On 24 April 1916, Easter Monday, British ships laid off the coast of occupied Belgium a barrage of mines and mine nets nearly 30 kilometres long. It was meant to hamper the sorties of the submarines of the German [Flanders Flotilla](https://pl.wikipedia.org/wiki/Flotylla_Flandria) from [Zeebrugge](/miejsca/zeebrugge) and [Ostend](/miejsca/ostenda), which for months had been sinking ships and laying mines on the approaches to Dover, the Thames and the French ports. The operation was planned and led by the commander of the Dover Patrol, Admiral Reginald Bacon.
 
 ## Bacon's plan
 

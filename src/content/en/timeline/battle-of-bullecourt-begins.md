@@ -2,7 +2,7 @@
 title: Battle of Bullecourt begins
 summary: On 3 May 1917 the Australians broke into the Hindenburg Line east of Bullecourt. The 6th Brigade held the breach, but the British 62nd Division's attack failed.
 source: poczatek-bitwy-pod-bullecourt
-sourceHash: 030d9955336344ee0844df3bd834a5144a709b46
+sourceHash: 2db1e2f00ef1c8ddf5008f98a2676dee781b0d21
 brief:
   - "On 3 May 1917 General Hubert Gough's Fifth Army attacked the Hindenburg Line at Bullecourt for the second time. It was part of the last great British effort in the Battle of Arras."
   - "On 11 April the 4th Australian Division had lost more than three thousand men here behind tanks that failed. This time the Australians refused to work with tanks, and the attack was based on the artillery."
@@ -11,7 +11,7 @@ brief:
   - "The foothold could neither easily be abandoned nor held without taking the village, so Haig decided to fight on. A two-week, exceptionally bloody battle of attrition began."
 ---
 
-Early on the morning of 3 May 1917 General [Hubert Gough](/postacie/hubert-gough)'s Fifth Army attacked the Hindenburg Line at [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt) for the second time, a dozen or so kilometres south-east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). The attack began at 3.45 a.m., at the same moment as the [Third Battle of the Scarpe](/poczatek-trzeciej-bitwy-nad-scarpe) to the north of it, and was part of the last great British effort in the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). The chronology on which our calendar is based gives 2 May as the start of the battle, but the British official history and the Australian War Memorial agree in dating the assault to 3 May. The day brought the British only one lasting gain: a small foothold which the Australian 6th Brigade won and held in the trenches of the Hindenburg Line east of the village. From it grew a two-week, exceptionally bloody battle.
+Early on the morning of 3 May 1917 General [Hubert Gough](/postacie/hubert-gough)'s Fifth Army attacked the Hindenburg Line at [Bullecourt](https://pl.wikipedia.org/wiki/Bullecourt) for the second time, a dozen or so kilometres south-east of [Arras](/miejsca/arras). The attack began at 3.45 a.m., at the same moment as the [Third Battle of the Scarpe](/poczatek-trzeciej-bitwy-nad-scarpe) to the north of it, and was part of the last great British effort in the [Battle of Arras](/bitwy/bitwa-pod-arras-1917). The chronology on which our calendar is based gives 2 May as the start of the battle, but the British official history and the Australian War Memorial agree in dating the assault to 3 May. The day brought the British only one lasting gain: a small foothold which the Australian 6th Brigade won and held in the trenches of the Hindenburg Line east of the village. From it grew a two-week, exceptionally bloody battle.
 
 ## The second attempt
 

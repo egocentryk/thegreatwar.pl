@@ -15,7 +15,7 @@ Wczesnym popołudniem 29 stycznia 1915 roku u brzegów wyspy [Walney](https://pl
 
 ## Przez kanał La Manche
 
-U-21 dowodził kapitanlejtnant Otto Hersing, który we wrześniu 1914 roku [zatopił krążownik Pathfinder](/zatoniecie-hms-pathfinder), pierwszy okręt wojenny zatopiony torpedą wystrzeloną z okrętu podwodnego. Około 22 stycznia Hersing wyruszył w nowy rejs. Zamiast okrążać Wyspy Brytyjskie od północy, przeprowadził okręt przez [Cieśninę Kaletańską](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) i kanał La Manche, a potem skierował się na północ, na Morze Irlandzkie.
+U-21 dowodził kapitanlejtnant Otto Hersing, który we wrześniu 1914 roku [zatopił krążownik Pathfinder](/zatoniecie-hms-pathfinder), pierwszy okręt wojenny zatopiony torpedą wystrzeloną z okrętu podwodnego. Około 22 stycznia Hersing wyruszył w nowy rejs. Zamiast okrążać Wyspy Brytyjskie od północy, przeprowadził okręt przez [Cieśninę Kaletańską](/miejsca/ciesnina-kaletanska) i kanał La Manche, a potem skierował się na północ, na Morze Irlandzkie.
 
 ## Kilka strzałów
 

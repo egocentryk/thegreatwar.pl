@@ -2,7 +2,7 @@
 title: Romania breaks off relations with Bulgaria
 summary: On the evening of 30 August 1916 the Romanian minister in Sofia asked for his passports and broke off ties. Two days later Bulgaria declared war on Romania.
 source: rumunia-zrywa-stosunki-z-bulgaria
-sourceHash: fa6e57adc30a0b8d005ef013cf2f08eb79d37189
+sourceHash: a043dbd95da4122e44e80350547dd9b6322774c7
 ---
 
 On the evening of 30 August 1916 the Romanian minister in [Sofia](https://pl.wikipedia.org/wiki/Sofia), Gheorghe Derussi, asked for his passports and notified the Bulgarian government that diplomatic relations were broken off. According to a communiqué that the Bulgarian legation in Berlin received from Sofia, relations between the two states were broken off by the Romanian side at 6 p.m. In [Romania](/kraje/rumunia), which still used the [Julian calendar](/slownik/kalendarz-julianski), it was 17 August. [Bulgaria](/kraje/bulgaria) had already gone over to the Gregorian calendar in the spring of 1916.
@@ -15,7 +15,7 @@ Bucharest did not want a war with Bulgaria. The treaty with the Entente which Pr
 
 ## The Dobruja and the year 1913
 
-There was, however, little chance of peaceful coexistence. In 1913, during the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska), while the Bulgarian army was fighting the Serbs and Greeks, Romanian troops marched into Bulgaria almost unopposed and approached Sofia. The [Treaty of Bucharest](/pokoj-bukaresztenski-konczy-druga-wojne-balkanska) then gave Romania the southern part of the [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża), with [Silistra](https://pl.wikipedia.org/wiki/Silistra), [Tutrakan](https://pl.wikipedia.org/wiki/Tutrakan) and Balchik. The Bulgarians regarded this as a stab in the back and never reconciled themselves to the loss. When they concluded their alliance with the Central Powers, they negotiated that if Romania came out against them or their allies, they would recover the lands lost in 1913.
+There was, however, little chance of peaceful coexistence. In 1913, during the [Second Balkan War](/bulgaria-rozpoczyna-druga-wojne-balkanska), while the Bulgarian army was fighting the Serbs and Greeks, Romanian troops marched into Bulgaria almost unopposed and approached Sofia. The [Treaty of Bucharest](/pokoj-bukaresztenski-konczy-druga-wojne-balkanska) then gave Romania the southern part of the [Dobruja](/miejsca/dobrudza), with [Silistra](https://pl.wikipedia.org/wiki/Silistra), [Tutrakan](https://pl.wikipedia.org/wiki/Tutrakan) and Balchik. The Bulgarians regarded this as a stab in the back and never reconciled themselves to the loss. When they concluded their alliance with the Central Powers, they negotiated that if Romania came out against them or their allies, they would recover the lands lost in 1913.
 
 Relations had been deteriorating for months. In the note which Prime Minister [Vasil Radoslavov](/postacie/wasil-radoslawow) handed to Derussi on 1 September, the Bulgarians listed their grievances: the hostility of the Romanian press, the holding up of goods in transit to Bulgaria and of supplies of salt and oil, harassment of Bulgarians in Romania, the closing of the border on 3 July 1916 and increasingly frequent border incidents. They also claimed that the Bulgarian minister in Bucharest, [Simeon Radev](https://pl.wikipedia.org/wiki/Simeon_Radew), had been unable to communicate with his government since 26 August and had later been handed his passports. This was, of course, one side's version.
 

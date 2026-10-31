@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 czerwca 1915 roku brytyjska flotylla rzeczna zajęła bez walki [Al-Amarę](https://pl.wikipedia.org/wiki/Al-Amara) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), około 140 kilometrów rzeką powyżej Al-Kurny. Był to finał pościgu, który zaczął się dwa dni wcześniej, gdy Turcy po [drugiej bitwie pod Al-Kurną](/bitwy/druga-bitwa-pod-al-kurna) porzucili pozycje na zalanych mokradłach i uciekli na północ. Miasto zdobyli nie żołnierze 6 Dywizji (Poona), lecz kilka małych uzbrojonych statków, na których płynęli generał Charles Townshend, dowódca flotylli komandor Wilfrid Nunn i główny oficer polityczny wojsk w [Mezopotamii](/bitwy/kampania-mezopotamska) Percy Cox. Piechota została daleko w tyle.
+3 czerwca 1915 roku brytyjska flotylla rzeczna zajęła bez walki [Al-Amarę](https://pl.wikipedia.org/wiki/Al-Amara) nad [Tygrysem](/miejsca/tygrys), około 140 kilometrów rzeką powyżej Al-Kurny. Był to finał pościgu, który zaczął się dwa dni wcześniej, gdy Turcy po [drugiej bitwie pod Al-Kurną](/bitwy/druga-bitwa-pod-al-kurna) porzucili pozycje na zalanych mokradłach i uciekli na północ. Miasto zdobyli nie żołnierze 6 Dywizji (Poona), lecz kilka małych uzbrojonych statków, na których płynęli generał Charles Townshend, dowódca flotylli komandor Wilfrid Nunn i główny oficer polityczny wojsk w [Mezopotamii](/bitwy/kampania-mezopotamska) Percy Cox. Piechota została daleko w tyle.
 
 ## Wyścig z piechotą
 
@@ -27,6 +27,6 @@ Po południu od północnego wschodu nadciągnęło około dwóch tysięcy turec
 
 ## Następne dni
 
-Rankiem 4 czerwca, gdy Arabowie zorientowali się, jak słaba jest załoga, i zaczęli plądrować miasto, przypłynął batalion pułku Norfolk i przywrócił porządek. Po południu nadeszły następne oddziały, a wieczorem do Al-Amary przybył Nixon. Kolumna wycofująca się z Arabistanu rozpadła się, a jej resztki, nękane przez Arabów, dotarły małymi grupami do [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut). Według brytyjskiej historii oficjalnej w całej operacji od 31 maja Turcy stracili 1773 jeńców, a Brytyjczycy tylko czterech zabitych i 21 rannych.
+Rankiem 4 czerwca, gdy Arabowie zorientowali się, jak słaba jest załoga, i zaczęli plądrować miasto, przypłynął batalion pułku Norfolk i przywrócił porządek. Po południu nadeszły następne oddziały, a wieczorem do Al-Amary przybył Nixon. Kolumna wycofująca się z Arabistanu rozpadła się, a jej resztki, nękane przez Arabów, dotarły małymi grupami do [Al-Kutu](/miejsca/al-kut). Według brytyjskiej historii oficjalnej w całej operacji od 31 maja Turcy stracili 1773 jeńców, a Brytyjczycy tylko czterech zabitych i 21 rannych.
 
 Al-Amara, stosunkowo nowe miasto liczące 10–12 tysięcy mieszkańców, leżała przy głównym szlaku handlowym do [Persji](https://pl.wikipedia.org/wiki/Iran). Była suchsza i zdrowsza od Basry, więc Brytyjczycy urządzili w niej szpitale wojskowe. Upał był jednak straszny i choroby szybko dziesiątkowały wojsko. Kilka dni po zwycięstwie zachorował sam Townshend i wyjechał na leczenie do Indii, a dowództwo 6 Dywizji objął tymczasowo generał Walter Delamain. Nixon już szykował następny krok, marsz na An-Nasirijję nad Eufratem.

@@ -2,10 +2,10 @@
 title: Destruction of airship L 23
 summary: On 21 August 1917 off Denmark a Sopwith Pup flown off the cruiser HMS Yarmouth shot down the airship L 23. The whole crew was killed.
 source: zniszczenie-sterowca-l-23
-sourceHash: b23ff0a60e7234776401b12047680c492c75cd39
+sourceHash: 8f239c8d507a833d2040c001ae159a4162dce130
 ---
 
-On the morning of 21 August 1917 the German naval airship L 23 fell in flames into the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) off the western coast of [Jutland](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki). It was shot down by a single-seat [Sopwith Pup](https://pl.wikipedia.org/wiki/Sopwith_Pup) fighter that had taken off from a platform on the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) HMS *Yarmouth*. It was flown by Flight Sub-Lieutenant Bernard Arthur Smart. The airship's whole crew was killed. This is thought to have been the first time an aircraft flown off a ship at sea destroyed an enemy aircraft.
+On the morning of 21 August 1917 the German naval airship L 23 fell in flames into the [North Sea](/miejsca/morze-polnocne) off the western coast of [Jutland](https://pl.wikipedia.org/wiki/Półwysep_Jutlandzki). It was shot down by a single-seat [Sopwith Pup](https://pl.wikipedia.org/wiki/Sopwith_Pup) fighter that had taken off from a platform on the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) HMS *Yarmouth*. It was flown by Flight Sub-Lieutenant Bernard Arthur Smart. The airship's whole crew was killed. This is thought to have been the first time an aircraft flown off a ship at sea destroyed an enemy aircraft.
 
 L 23 had been in service since April 1916 and was one of the fleet's busiest airships. According to German records it made several dozen reconnaissance flights over the sea and three raids on England. In April 1917 it became famous for an unusual feat: it stopped the Norwegian sailing ship *Royal*, carrying timber for England, put a prize crew aboard and sent her to Germany. Naval airships such as L 23 were the eyes of the High Seas Fleet. They watched for British ships and scouted ahead of every operation. The Grand Fleet was therefore looking for a way to destroy them far from the English coast, beyond the range of land-based aircraft and [flying boats](/zniszczenie-sterowca-l-43).
 

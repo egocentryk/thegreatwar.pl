@@ -2,10 +2,10 @@
 title: Belgians retake Ghent
 summary: On 10 November 1918 the Germans left Ghent and the Belgians entered the city. The occupation of the capital of East Flanders, in place since 1914, was over.
 source: belgowie-odbijaja-gandawe
-sourceHash: 685ca5a1ebec80de01fc5c1deeb5d622a55ea226
+sourceHash: 47d8b903a7821de7d24bb576402985054d12c847
 ---
 
-On 10 November 1918 the last German units withdrew from [Ghent](https://pl.wikipedia.org/wiki/Gandawa), and Belgian soldiers entered the city. The British chronology of the war records the recapture of Ghent by Belgian troops under this date, and the Ghent city museum likewise states that the Germans finally left the city on 10 November. So ended the occupation that had begun on [12 October 1914](/niemcy-zajmuja-gandawe), when the Germans marched into the city after the Allies had abandoned it following the fighting at Melle. Ghent, one of the largest cities in Belgium and the capital of East Flanders, regained its freedom the day before the armistice.
+On 10 November 1918 the last German units withdrew from [Ghent](/miejsca/gandawa), and Belgian soldiers entered the city. The British chronology of the war records the recapture of Ghent by Belgian troops under this date, and the Ghent city museum likewise states that the Germans finally left the city on 10 November. So ended the occupation that had begun on [12 October 1914](/niemcy-zajmuja-gandawe), when the Germans marched into the city after the Allies had abandoned it following the fighting at Melle. Ghent, one of the largest cities in Belgium and the capital of East Flanders, regained its freedom the day before the armistice.
 
 ## The last weeks of fighting
 

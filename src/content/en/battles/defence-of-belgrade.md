@@ -9,10 +9,10 @@ sides:
     commanders: [August von Mackensen, Hermann Kövess, Eugen von Falkenhayn, Viktor von Scheuchenstuel]
 result: Central Powers victory. After two days of fighting for the bridgeheads on the Sava and Danube the defenders withdrew from the city, and on 9 October 1915 Austro-Hungarian and German troops occupied Belgrade.
 source: obrona-belgradu
-sourceHash: 85be890d7a1bb4ad1cdc294475f5558f21f0851e
+sourceHash: e954287f9909fd4460df276859d3535eba0ba398
 ---
 
-The defence of [Belgrade](https://pl.wikipedia.org/wiki/Belgrad) in the autumn of 1915 was the first act of the Central Powers' [conquest of Serbia](/bitwy/podboj-serbii). The Serbian capital lay right on the border, where the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) flows into the [Danube](https://pl.wikipedia.org/wiki/Dunaj), opposite [Zemun](https://pl.wikipedia.org/wiki/Zemun), then Austro-Hungarian. From the first hours of the war it had been shelled from the other bank, and in December 1914 it had already once, for less than two weeks, [fallen into Austrian hands](/austriacy-zajmuja-belgrad). This time the handful of its defenders faced the Austro-Hungarian Third Army, reinforced by a German corps and the heaviest artillery. After two days and nights of fierce fighting on the river banks, in which the Serbs several times tried to drive the landing force back into the water, the city fell on 9 October 1915.
+The defence of [Belgrade](/miejsca/belgrad) in the autumn of 1915 was the first act of the Central Powers' [conquest of Serbia](/bitwy/podboj-serbii). The Serbian capital lay right on the border, where the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) flows into the [Danube](https://pl.wikipedia.org/wiki/Dunaj), opposite [Zemun](https://pl.wikipedia.org/wiki/Zemun), then Austro-Hungarian. From the first hours of the war it had been shelled from the other bank, and in December 1914 it had already once, for less than two weeks, [fallen into Austrian hands](/austriacy-zajmuja-belgrad). This time the handful of its defenders faced the Austro-Hungarian Third Army, reinforced by a German corps and the heaviest artillery. After two days and nights of fierce fighting on the river banks, in which the Serbs several times tried to drive the landing force back into the water, the city fell on 9 October 1915.
 
 ## Name and dates
 

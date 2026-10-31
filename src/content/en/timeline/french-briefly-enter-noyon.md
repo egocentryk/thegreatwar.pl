@@ -2,10 +2,10 @@
 title: French briefly enter Noyon
 summary: On 21 September 1914 General Castelnau's troops entered Noyon but could not hold it. The town remained in German hands until March 1917.
 source: francuzi-odzyskuja-noyon
-sourceHash: 4d49e54b3205183a1d96e07222d0d9c3ac161f1f
+sourceHash: d28909c454c0c52250ea2bebd144fe83bca835d3
 ---
 
-A British chronology of the war records under 21 September 1914 the recapture by the French of [Noyon](https://pl.wikipedia.org/wiki/Noyon), a town on the Oise that the [Germans had occupied at the end of August](/niemcy-zajmuja-noyon). According to some French studies French units did indeed enter the town that day. It was not, however, a lasting recapture of Noyon. The French could not hold on there, and the town remained in German hands for the next two and a half years.
+A British chronology of the war records under 21 September 1914 the recapture by the French of [Noyon](/miejsca/noyon), a town on the Oise that the [Germans had occupied at the end of August](/niemcy-zajmuja-noyon). According to some French studies French units did indeed enter the town that day. It was not, however, a lasting recapture of Noyon. The French could not hold on there, and the town remained in German hands for the next two and a half years.
 
 ## Outflanking the German wing
 

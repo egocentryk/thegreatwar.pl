@@ -21,7 +21,7 @@ Cel wyprawy trzymano w tajemnicy. [Imperium Osmańskie](/kraje/imperium-osmanski
 
 ## Ropa z Abadanu
 
-Najważniejszym zadaniem brygady była ochrona rafinerii Anglo-Persian Oil Company na wyspie [Abadan](https://pl.wikipedia.org/wiki/Abadan), jej zbiorników i rurociągu. Rafineria leżała na perskim brzegu rzeki [Szatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab), naprzeciw osmańskiego terytorium, i w razie wojny łatwo mogła paść ofiarą tureckiego ataku. Była ważna dla Wielkiej Brytanii, która od 1914 roku była większościowym udziałowcem spółki, a jej flota przechodziła z węgla na ropę. Rozkazy przewidywały też osłonę lądowania kolejnych oddziałów. Zajęcie [Basry](https://pl.wikipedia.org/wiki/Basra) dopuszczano dopiero wtedy, gdyby doszło do wojny z Turcją.
+Najważniejszym zadaniem brygady była ochrona rafinerii Anglo-Persian Oil Company na wyspie [Abadan](https://pl.wikipedia.org/wiki/Abadan), jej zbiorników i rurociągu. Rafineria leżała na perskim brzegu rzeki [Szatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab), naprzeciw osmańskiego terytorium, i w razie wojny łatwo mogła paść ofiarą tureckiego ataku. Była ważna dla Wielkiej Brytanii, która od 1914 roku była większościowym udziałowcem spółki, a jej flota przechodziła z węgla na ropę. Rozkazy przewidywały też osłonę lądowania kolejnych oddziałów. Zajęcie [Basry](/miejsca/basra) dopuszczano dopiero wtedy, gdyby doszło do wojny z Turcją.
 
 Wyprawa miała też znaczenie polityczne. Brytyjczycy chcieli pokazać szejkom znad Zatoki, zwłaszcza władcy Mohammery i emirowi Kuwejtu, że mogą liczyć na brytyjską ochronę. Obawiano się, że jeśli Turcy przystąpią do wojny i ogłoszą świętą wojnę, bierność Wielkiej Brytanii może zachwiać jej pozycją w świecie muzułmańskim, także w samych Indiach.
 

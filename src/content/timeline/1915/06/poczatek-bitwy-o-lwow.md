@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-17 czerwca 1915 roku wojska niemieckie i austro-węgierskie stanęły przed ostatnią dużą rosyjską pozycją, która osłaniała [Lwów](https://pl.wikipedia.org/wiki/Lwów). Biegła ona wzdłuż rzeki [Wereszycy](https://pl.wikipedia.org/wiki/Wereszyca) i jej stawów, od Dniestru przez [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) po [Janów](https://pl.wikipedia.org/wiki/Iwano-Frankowe), a dalej przez wzgórza pod [Magierowem](https://pl.wikipedia.org/wiki/Magierów_(Ukraina)) w stronę [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska). W Gródku przez cały dzień toczyły się walki uliczne. Brytyjska chronologia wojny notuje pod tą datą początek trzeciej bitwy o Lwów.
+17 czerwca 1915 roku wojska niemieckie i austro-węgierskie stanęły przed ostatnią dużą rosyjską pozycją, która osłaniała [Lwów](/miejsca/lwow). Biegła ona wzdłuż rzeki [Wereszycy](https://pl.wikipedia.org/wiki/Wereszyca) i jej stawów, od Dniestru przez [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) po [Janów](https://pl.wikipedia.org/wiki/Iwano-Frankowe), a dalej przez wzgórza pod [Magierowem](https://pl.wikipedia.org/wiki/Magierów_(Ukraina)) w stronę [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska). W Gródku przez cały dzień toczyły się walki uliczne. Brytyjska chronologia wojny notuje pod tą datą początek trzeciej bitwy o Lwów.
 
 ## Pościg
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-4 grudnia 1914 roku wojska Indyjskiego Korpusu Ekspedycyjnego „D” zaatakowały tureckie pozycje pod [Al-Kurną](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), u zbiegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Właśnie tam wycofali się Turcy po utracie [Basry](/brytyjczycy-zajmuja-basre), a generał porucznik Arthur Barrett postanowił ich stamtąd wyprzeć. Pierwszy dzień walk przyniósł Brytyjczykom zdobycie przedmieść po drugiej stronie rzeki, ale nie samego miasta.
+4 grudnia 1914 roku wojska Indyjskiego Korpusu Ekspedycyjnego „D” zaatakowały tureckie pozycje pod [Al-Kurną](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), u zbiegu [Tygrysu](/miejsca/tygrys) i [Eufratu](/miejsca/eufrat). Właśnie tam wycofali się Turcy po utracie [Basry](/brytyjczycy-zajmuja-basre), a generał porucznik Arthur Barrett postanowił ich stamtąd wyprzeć. Pierwszy dzień walk przyniósł Brytyjczykom zdobycie przedmieść po drugiej stronie rzeki, ale nie samego miasta.
 
 ## Wyprawa Frazera
 

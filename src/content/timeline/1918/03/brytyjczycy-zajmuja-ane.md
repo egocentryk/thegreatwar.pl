@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 marca 1918 roku o 8.30 rano brytyjskie [samochody pancerne](https://pl.wikipedia.org/wiki/Samochód_pancerny) przejechały bez walki przez [Anę](https://pl.wikipedia.org/wiki/Ana), miasto nad [Eufratem](https://pl.wikipedia.org/wiki/Eufrat) około 80 kilometrów powyżej Chan al-Baghdadi. Między dziesiątą a jedenastą dotarła tam 11 Brygada Kawalerii generała R.A. Casselsa i piechota przewożona furgonetkami. Był to finał pościgu po [bitwie pod Chan al-Baghdadi](/bitwy/bitwa-pod-chan-al-baghdadi), w której 15 Dywizja generała Harry'ego Brookinga [okrążyła](/walki-pod-chan-al-baghdadi) i rozbiła turecką 50 Dywizję. Tak daleko w górę Eufratu wojska brytyjskie jeszcze nie dotarły. Brytyjska chronologia wojny notuje jej zajęcie pod 28 marca, a historia oficjalna F.J. Moberly'ego podaje nawet godzinę.
+28 marca 1918 roku o 8.30 rano brytyjskie [samochody pancerne](https://pl.wikipedia.org/wiki/Samochód_pancerny) przejechały bez walki przez [Anę](https://pl.wikipedia.org/wiki/Ana), miasto nad [Eufratem](/miejsca/eufrat) około 80 kilometrów powyżej Chan al-Baghdadi. Między dziesiątą a jedenastą dotarła tam 11 Brygada Kawalerii generała R.A. Casselsa i piechota przewożona furgonetkami. Był to finał pościgu po [bitwie pod Chan al-Baghdadi](/bitwy/bitwa-pod-chan-al-baghdadi), w której 15 Dywizja generała Harry'ego Brookinga [okrążyła](/walki-pod-chan-al-baghdadi) i rozbiła turecką 50 Dywizję. Tak daleko w górę Eufratu wojska brytyjskie jeszcze nie dotarły. Brytyjska chronologia wojny notuje jej zajęcie pod 28 marca, a historia oficjalna F.J. Moberly'ego podaje nawet godzinę.
 
 ## Pościg
 

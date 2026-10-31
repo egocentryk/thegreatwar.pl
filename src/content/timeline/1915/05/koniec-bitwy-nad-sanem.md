@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-23 maja 1915 roku według brytyjskiej chronologii wojny zakończyła się bitwa nad [Sanem](https://pl.wikipedia.org/wiki/San). Przez tydzień, od [wejścia Niemców do Jarosławia](/poczatek-bitwy-nad-sanem), wojska państw centralnych walczyły o przeprawy i przyczółki na wschodnim brzegu rzeki, a Rosjanie próbowali je z powrotem zepchnąć. Ostatnie dni przed 23 maja minęły jednak względnie spokojnie. Front się ustabilizował, a obie strony szykowały się do kolejnego starcia, które miało rozstrzygnąć los [Przemyśla](https://pl.wikipedia.org/wiki/Przemyśl).
+23 maja 1915 roku według brytyjskiej chronologii wojny zakończyła się bitwa nad [Sanem](/miejsca/san). Przez tydzień, od [wejścia Niemców do Jarosławia](/poczatek-bitwy-nad-sanem), wojska państw centralnych walczyły o przeprawy i przyczółki na wschodnim brzegu rzeki, a Rosjanie próbowali je z powrotem zepchnąć. Ostatnie dni przed 23 maja minęły jednak względnie spokojnie. Front się ustabilizował, a obie strony szykowały się do kolejnego starcia, które miało rozstrzygnąć los [Przemyśla](https://pl.wikipedia.org/wiki/Przemyśl).
 
 ## Nieudane kontrataki
 

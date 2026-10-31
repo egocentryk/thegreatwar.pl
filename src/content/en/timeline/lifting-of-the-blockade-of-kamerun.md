@@ -2,10 +2,10 @@
 title: Lifting of the blockade of Kamerun
 summary: On 29 February 1916, after the end of the fighting in Kamerun, the Allies lifted the blockade of its coast, declared in April 1915.
 source: zniesienie-blokady-kamerunu
-sourceHash: af56869f3661b68021ec50323ae4b63d20cdd00d
+sourceHash: 1183aa5f37078c8d7541912b42ffe262c0ed164e
 ---
 
-On 29 February 1916 the Allies lifted the [naval blockade](/slownik/blokada) of the coast of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). According to the British official history of the war at sea (Newbolt, *Naval Operations*) it was done that day by the French Commander Carré, the senior naval officer of the blockading force. The official history of the land campaign (Moberly, *Togoland and the Cameroons*) states that the blockade was finally lifted on 1 March, and that on one stretch of the coast it had ceased to apply as early as 11 January. The sources thus differ by one day.
+On 29 February 1916 the Allies lifted the [naval blockade](/slownik/blokada) of the coast of [German Kamerun](/miejsca/kamerun). According to the British official history of the war at sea (Newbolt, *Naval Operations*) it was done that day by the French Commander Carré, the senior naval officer of the blockading force. The official history of the land campaign (Moberly, *Togoland and the Cameroons*) states that the blockade was finally lifted on 1 March, and that on one stretch of the coast it had ceased to apply as early as 11 January. The sources thus differ by one day.
 
 ## The blockade did its job
 

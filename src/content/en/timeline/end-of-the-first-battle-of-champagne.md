@@ -2,10 +2,10 @@
 title: End of the First Battle of Champagne
 summary: On 17 March 1915 the French broke off their offensive in Champagne. After three months of fighting they had gained a strip 2–3 km deep, losing over 90,000 men.
 source: koniec-pierwszej-bitwy-w-szampanii
-sourceHash: f0f1b17c27c63bc2a2f32f155d68d31ff0081853
+sourceHash: 5224edbc28f0065d9031a3a5d81829836c98f13f
 ---
 
-On 17 March 1915 the French Fourth Army halted its offensive in [Champagne](https://pl.wikipedia.org/wiki/Szampania). The commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), instructed the army's commander, General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), to end the attack and consolidate the positions won. So ended the First Battle of Champagne, which [had begun on 20 December 1914](/poczatek-pierwszej-bitwy-w-szampanii). For nearly three months, in rain, frost and mud, the French had stormed the German trenches east of [Reims](https://pl.wikipedia.org/wiki/Reims), but they had not broken through the front.
+On 17 March 1915 the French Fourth Army halted its offensive in [Champagne](https://pl.wikipedia.org/wiki/Szampania). The commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), instructed the army's commander, General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary), to end the attack and consolidate the positions won. So ended the First Battle of Champagne, which [had begun on 20 December 1914](/poczatek-pierwszej-bitwy-w-szampanii). For nearly three months, in rain, frost and mud, the French had stormed the German trenches east of [Reims](/miejsca/reims), but they had not broken through the front.
 
 ## The last attack
 

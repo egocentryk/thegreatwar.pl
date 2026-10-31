@@ -2,10 +2,10 @@
 title: Naval operations off Duala begin
 summary: On 7 September 1914 British warships began operations at the mouth of the Wouri, preparing the Allied attack on Duala, the main port of German Kamerun.
 source: operacje-morskie-pod-duala
-sourceHash: fa53b0ffcfd9cf19d8eb7f8c4713f0c74d9375aa
+sourceHash: 3cffca8737986f93aede1789cbade5f92b25284d
 ---
 
-The British chronology of the war records under the date 7 September 1914 the start of naval operations off the coast of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), near [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)). Royal Navy ships were to open the way to the port for the land forces preparing to invade the colony.
+The British chronology of the war records under the date 7 September 1914 the start of naval operations off the coast of [German Kamerun](/miejsca/kamerun), near [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)). Royal Navy ships were to open the way to the port for the land forces preparing to invade the colony.
 
 ## Objective: Duala
 

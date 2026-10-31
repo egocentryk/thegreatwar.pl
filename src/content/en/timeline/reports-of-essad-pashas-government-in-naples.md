@@ -2,12 +2,12 @@
 title: Reports of Essad Pasha's government in Naples
 summary: A British chronology records the move of Essad Pasha's government to Naples on 28 February 1916. Sources show that Rome was only proposing the city to him.
 source: doniesienia-o-rzadzie-esada-paszy-w-neapolu
-sourceHash: 9423a1ea66651aaacf8a7d319835b5bb9aa27aa9
+sourceHash: 929962f6c16d2c75371c6c8497a6c7921e88420d
 ---
 
 A British chronology of the war records under 28 February 1916 that the Albanian provisional government of [Essad Pasha Toptani](/postacie/esad-pasza-toptani) had established its seat in [Naples](https://pl.wikipedia.org/wiki/Neapol). Four days earlier Essad had [left Durrës](/rzad-esada-paszy-opuszcza-durres) aboard an Italian destroyer, and on 27 February the town was [taken by the Austrians](/austriacy-zajmuja-durres). The available sources, however, describe no formal act of 28 February. They rather show a government without a country, whose head travelled between Italy and France over the following weeks.
 
-Essad first sailed to [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), and on 26 February arrived in [Rome](https://pl.wikipedia.org/wiki/Rzym). He was accompanied by only a few people. About three hundred of his soldiers were to reach Italy on a separate steamer. The Italian government had been trying for weeks to ensure that the pasha took refuge in Italy itself, and not in Vlorë, where an Italian corps was stationed, nor under the protection of the French, who had also offered to evacuate him. Italian commanders and diplomats suspected that France wanted to gain influence over Essad in order to weaken Italy's position in Albania.
+Essad first sailed to [Brindisi](/miejsca/brindisi), and on 26 February arrived in [Rome](https://pl.wikipedia.org/wiki/Rzym). He was accompanied by only a few people. About three hundred of his soldiers were to reach Italy on a separate steamer. The Italian government had been trying for weeks to ensure that the pasha took refuge in Italy itself, and not in Vlorë, where an Italian corps was stationed, nor under the protection of the French, who had also offered to evacuate him. Italian commanders and diplomats suspected that France wanted to gain influence over Essad in order to weaken Italy's position in Albania.
 
 The pasha did not stay long in Rome. According to Reuters, as early as Tuesday 29 February he arrived in [Nice](https://pl.wikipedia.org/wiki/Nicea), where his wife lived, and announced that he would stay there until his presence was needed in Albania again. In March he returned to Rome, and at the turn of March and April he went to Paris, where on 3 April he was received by the Prime Minister, [Aristide Briand](/postacie/aristide-briand). From there he planned to go on to London.
 

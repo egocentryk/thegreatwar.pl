@@ -2,10 +2,10 @@
 title: Second clash at Krivolak
 summary: At the end of October 1915 the Bulgarians attacked the French bridgehead on the Kara Hodjali heights above the Vardar. After a grenade fight they were repulsed.
 source: druga-potyczka-pod-krivolakiem
-sourceHash: 9f457bd24dee8c317dbf460c69080022e415c631
+sourceHash: b9a30995082ae68731e08403bb7ecadd2fe9e102
 ---
 
-The British chronology of the war records under 30 October 1915 a second action at Krivolak on the [Vardar](https://pl.wikipedia.org/wiki/Wardar). The French 57th Infantry Division, which in the last days of October had [reached Krivolak](/poczatek-walk-pod-krivolakiem), had already crossed the river and occupied the heights on its eastern bank that dominated the valley. The Bulgarians tried to push it off them. The British and Austrian official histories do not describe this fight separately, and its date has to be reconstructed from more general accounts. It is known, however, that it was the beginning of increasingly heavy Bulgarian attacks on the French bridgehead, which in the first days of November cost the attackers bloody losses.
+The British chronology of the war records under 30 October 1915 a second action at Krivolak on the [Vardar](/miejsca/wardar). The French 57th Infantry Division, which in the last days of October had [reached Krivolak](/poczatek-walk-pod-krivolakiem), had already crossed the river and occupied the heights on its eastern bank that dominated the valley. The Bulgarians tried to push it off them. The British and Austrian official histories do not describe this fight separately, and its date has to be reconstructed from more general accounts. It is known, however, that it was the beginning of increasingly heavy Bulgarian attacks on the French bridgehead, which in the first days of November cost the attackers bloody losses.
 
 ## The bridgehead on Kara Hodjali
 
@@ -15,7 +15,7 @@ According to Buchan, two days later the Bulgarians, realising what they had lost
 
 ## The Bulgarians bring up reinforcements
 
-For the time being the French faced a brigade of the Bulgarian 7th Infantry Division, part of the Second Army of General [Georgi Todorov](/postacie/georgi-todorow). According to the Austrian official history, on 30 October one of this division's brigades occupied [Veles](https://pl.wikipedia.org/wiki/Wełes) and the heights west of it, and the next day moved towards the mouth of the [Crna](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) on the Vardar, where it seized an important railway bridge. The Bulgarians also began to bring up from near [Štip](https://pl.wikipedia.org/wiki/Sztip) two brigades of the 11th Division, earlier called the Macedonian Legion. It was a newly raised formation, still without combat experience and not fully trained.
+For the time being the French faced a brigade of the Bulgarian 7th Infantry Division, part of the Second Army of General [Georgi Todorov](/postacie/georgi-todorow). According to the Austrian official history, on 30 October one of this division's brigades occupied [Veles](https://pl.wikipedia.org/wiki/Wełes) and the heights west of it, and the next day moved towards the mouth of the [Crna](/miejsca/crna-reka) on the Vardar, where it seized an important railway bridge. The Bulgarians also began to bring up from near [Štip](https://pl.wikipedia.org/wiki/Sztip) two brigades of the 11th Division, earlier called the Macedonian Legion. It was a newly raised formation, still without combat experience and not fully trained.
 
 The French did not have large forces. The whole 57th Division, commanded since 23 October by General Paul Leblois, had to hold about 25 kilometres of front along the Vardar, from Gradec to Krivolak. Only the ferry still led across the river. To the south-east, near the Bulgarian border, General Maurice Bailloud's 156th Division covered the railway near Strumica station, and the British had only just received permission to cross the Serbian border and relieve some of the French units by [Lake Doiran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)).
 

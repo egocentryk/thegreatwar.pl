@@ -2,7 +2,7 @@
 title: End of the Battle of the Marne
 summary: On 10 September 1914 the British and French pursued the retreating Germans. British historiography regards this day as the end of the Battle of the Marne.
 source: koniec-bitwy-nad-marna
-sourceHash: 05aea8ca4907d63ce35deebcd93813d70633f6b3
+sourceHash: 635448a32757f09ba5f7eb7cb4307f33c94b1dea
 ---
 
 On 10 September 1914 the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) and the neighbouring French armies advanced north behind the retreating Germans. The fighting was now only with the rearguards covering the retreat of the German 1st and 2nd Armies. The British chronology of the war regards this day as the end of the [Battle of the Marne](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną), the largest and most important battle of 1914.
@@ -17,7 +17,7 @@ The pursuit was not fast. The Allied soldiers, who had been marching and fightin
 
 The Battle of the Marne has no single, generally accepted end date. The British fought on the Marne for a shorter time than the French and measure the battle by their own part in it. The British official history and the British nomenclature of battles close it on 10 September, the day on which the Expeditionary Force passed from fighting to pursuit. According to that history, the fighting from 6 to 10 September cost the Expeditionary Force about 1,700 killed, wounded and missing. Other studies, counting a longer period, give much higher figures.
 
-French tradition measures the battle by the operations of the whole front, from Paris to Verdun. On 11 September the Chief of the German General Staff, [Helmuth von Moltke](/postacie/helmuth-von-moltke), toured the headquarters of his armies in the centre and in the east and ordered the 3rd, 4th and 5th Armies to retreat as well. By 12–13 September the Germans had withdrawn to the heights north of the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) and begun to dig in there. That is why in France the end of the battle is most often set at 12 or 13 September. The British count the next battle, on the Aisne, from 12 September.
+French tradition measures the battle by the operations of the whole front, from Paris to Verdun. On 11 September the Chief of the German General Staff, [Helmuth von Moltke](/postacie/helmuth-von-moltke), toured the headquarters of his armies in the centre and in the east and ordered the 3rd, 4th and 5th Armies to retreat as well. By 12–13 September the Germans had withdrawn to the heights north of the river [Aisne](/miejsca/aisne) and begun to dig in there. That is why in France the end of the battle is most often set at 12 or 13 September. The British count the next battle, on the Aisne, from 12 September.
 
 ## The Miracle of the Marne
 

@@ -2,10 +2,10 @@
 title: Germans cross the border of the Union of South Africa
 summary: In August 1914 a detachment from German South West Africa took up positions on the South African side of the border, near Nakob.
 source: niemcy-przekraczaja-granice-zwiazku-poludniowej-afryki
-sourceHash: 0dd26e8f29d8efd0dea9fa928030d2eb44127915
+sourceHash: 3a1da0f1158966c0048fd284d7e41fa3c248ba01
 ---
 
-Around 21 August 1914 a detachment of troops from [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia), today's Namibia, crossed the border of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The Germans occupied a hill near the post of Nakob, on the desert borderland along the [Orange River](https://pl.wikipedia.org/wiki/Oranje), and began digging trenches there.
+Around 21 August 1914 a detachment of troops from [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia), today's Namibia, crossed the border of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The Germans occupied a hill near the post of Nakob, on the desert borderland along the [Orange River](https://pl.wikipedia.org/wiki/Oranje), and began digging trenches there.
 
 ## A disputed date
 

@@ -2,10 +2,10 @@
 title: Provisional partition of Kamerun
 summary: In early March 1916 London and Paris agreed a provisional partition of conquered Kamerun. The Picot line gave France almost the whole colony, including Duala.
 source: tymczasowy-podzial-kamerunu
-sourceHash: 56ae62cdda332e1732c03d476bb25be42546ac65
+sourceHash: 95035c5414d87c76c896eadebb8db98cb4f2eadc
 ---
 
-A British chronology of the war records under 3 March 1916 that the governments of France and Great Britain concluded an agreement on the provisional administration of conquered [Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). The exact date is uncertain, because the partition was agreed in several steps. Historians who have studied the British archives point to talks in London with the participation of the French diplomat François Georges-Picot, held from 23 February. According to some studies the dividing line was drawn on the map on 4 March, and the negotiations were concluded on 6 March. The formal convention on the administration of the conquered territory, as the British official history of the war at sea (Newbolt, *Naval Operations*) states, was signed only on 29 March.
+A British chronology of the war records under 3 March 1916 that the governments of France and Great Britain concluded an agreement on the provisional administration of conquered [Kamerun](/miejsca/kamerun). The exact date is uncertain, because the partition was agreed in several steps. Historians who have studied the British archives point to talks in London with the participation of the French diplomat François Georges-Picot, held from 23 February. According to some studies the dividing line was drawn on the map on 4 March, and the negotiations were concluded on 6 March. The formal convention on the administration of the conquered territory, as the British official history of the war at sea (Newbolt, *Naval Operations*) states, was signed only on 29 March.
 
 ## The trouble with joint administration
 

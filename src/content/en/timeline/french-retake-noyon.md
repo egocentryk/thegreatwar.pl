@@ -2,10 +2,10 @@
 title: French retake Noyon
 summary: On 29 August 1918 Humbert's French Third Army retook Noyon, lost in March. That day the French ended the Second Battle of Noyon and the Third Battle of Picardy.
 source: francuzi-odbijaja-noyon
-sourceHash: 75f48c9960b556e536d7ea168941576e75edaed0
+sourceHash: 144ee4abf1522435a80170afa0e15bc694329eef
 ---
 
-On 29 August 1918 the French [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Francja)) of General Georges Humbert retook [Noyon](https://pl.wikipedia.org/wiki/Noyon) on the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). The town, which the German Eighteenth Army had [taken on 25 March](/niemcy-zdobywaja-noyon) during Operation Michael, had lain on the front line for five months, and French artillery on the surrounding hills had reduced it to ruins. The British official history, summarising the French one, notes briefly that the Third Army "had heavy fighting and did not advance much, but Noyon was captured". This date is also given by a British chronology of the war and by the captions of French military photographs of those days. Some French sources, however, including the state website on places of remembrance, regard 30 August, when the French took the heights overlooking the town, as the day of its final liberation. On the same day the French considered the Second Battle of Noyon closed, and with it the Third Battle of Picardy, begun on 8 August at Amiens.
+On 29 August 1918 the French [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Francja)) of General Georges Humbert retook [Noyon](/miejsca/noyon) on the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)). The town, which the German Eighteenth Army had [taken on 25 March](/niemcy-zdobywaja-noyon) during Operation Michael, had lain on the front line for five months, and French artillery on the surrounding hills had reduced it to ruins. The British official history, summarising the French one, notes briefly that the Third Army "had heavy fighting and did not advance much, but Noyon was captured". This date is also given by a British chronology of the war and by the captions of French military photographs of those days. Some French sources, however, including the state website on places of remembrance, regard 30 August, when the French took the heights overlooking the town, as the day of its final liberation. On the same day the French considered the Second Battle of Noyon closed, and with it the Third Battle of Picardy, begun on 8 August at Amiens.
 
 ## The German retreat
 

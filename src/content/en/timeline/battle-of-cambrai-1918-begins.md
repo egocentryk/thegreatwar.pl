@@ -2,7 +2,7 @@
 title: Battle of Cambrai begins
 summary: On 8 October 1918 the British Third and Fourth Armies and the Americans attacked between Sequehart and Cambrai. At Niergnies the Germans used captured tanks.
 source: poczatek-bitwy-pod-cambrai-1918
-sourceHash: 53bc57beb9c46b5b6f23432fabd1b2066ebdc0f8
+sourceHash: f53ede5e443c83c1964557c88dc003a34f819f93
 brief:
   - "At 4.30 a.m. on 8 October 1918 General Julian Byng's British Third Army, and forty minutes later General Rawlinson's Fourth Army, attacked on a front of more than 27 kilometres from Sequehart to the outskirts of Cambrai."
   - "Five days earlier the Fourth Army had broken into the Beaurevoir Line, so only unfinished trenches and villages turned into machine-gun nests stood before the Allies. The Germans were preparing to withdraw."
@@ -11,7 +11,7 @@ brief:
   - "By evening the Allies had advanced five to six kilometres, and eight thousand prisoners had been sent back to the cages. During the night of 8–9 October the Germans began withdrawing to the Hermann Position and left Cambrai."
 ---
 
-At 4.30 a.m. on 8 October 1918 the British Third Army of General [Julian Byng](/postacie/julian-byng), and forty minutes later the Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson), attacked the Germans on a front of more than 27 kilometres, from Sequehart north of Saint-Quentin to the southern outskirts of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Five days earlier the Fourth Army had [broken into the Beaurevoir Line](/poczatek-bitwy-o-linie-beaurevoir), the last prepared position of the Hindenburg system. Now all that stood before the British and the American 30th Division fighting at their side were unfinished trenches, villages turned into machine-gun nests and the reserves of worn-out German divisions. By evening the Allies had advanced five to six kilometres and taken several thousand prisoners. At Niergnies, south of Cambrai, one of the last tank-versus-tank clashes of the war took place, as the Germans threw previously captured British tanks into a counter-attack. The Battle of Cambrai had begun, the last of the [battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga).
+At 4.30 a.m. on 8 October 1918 the British Third Army of General [Julian Byng](/postacie/julian-byng), and forty minutes later the Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson), attacked the Germans on a front of more than 27 kilometres, from Sequehart north of Saint-Quentin to the southern outskirts of [Cambrai](/miejsca/cambrai). Five days earlier the Fourth Army had [broken into the Beaurevoir Line](/poczatek-bitwy-o-linie-beaurevoir), the last prepared position of the Hindenburg system. Now all that stood before the British and the American 30th Division fighting at their side were unfinished trenches, villages turned into machine-gun nests and the reserves of worn-out German divisions. By evening the Allies had advanced five to six kilometres and taken several thousand prisoners. At Niergnies, south of Cambrai, one of the last tank-versus-tank clashes of the war took place, as the Germans threw previously captured British tanks into a counter-attack. The Battle of Cambrai had begun, the last of the [battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga).
 
 ## Before the attack
 

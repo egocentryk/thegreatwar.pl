@@ -23,7 +23,7 @@ Nie wiadomo dokładnie, kto i w jakich okolicznościach zredagował odpowiedź z
 
 Tego samego dnia minister spraw zagranicznych [Edward Grey](/postacie/edward-grey) odpowiadał w Izbie Gmin na pytanie o zamiary Bułgarii. Powiedział, że według oficjalnych zapewnień Sofii Bułgaria przyjęła postawę zbrojnej neutralności i nie ma wrogich zamiarów wobec sąsiadów. W Wielkiej Brytanii, mówił, nie ma wrogości wobec Bułgarii, a jest „tradycyjnie ciepłe uczucie sympatii” dla jej narodu. Dopóki Bułgarzy nie staną po stronie wrogów, nie ma mowy o użyciu brytyjskich sił przeciw ich interesom. Jeśli jednak ich mobilizacja okaże się wstępem do agresji, Wielka Brytania udzieli przyjaciołom na Bałkanach wszelkiego wsparcia „bez zastrzeżeń”. Celem brytyjskiej polityki było porozumienie państw bałkańskich, w którym „uzasadnione aspiracje” każdego z nich znalazłyby zaspokojenie.
 
-W Atenach słowa Greya, docierające w skróconych i zniekształconych relacjach, wywołały burzę. Grecy od miesięcy obawiali się, że Ententa kupi Bułgarię ich kosztem, oddając jej [Kawalę](https://pl.wikipedia.org/wiki/Kawala). Teraz zaczęli podejrzewać, że wojska Ententy mają zająć Macedonię i przekazać ją Bułgarom.
+W Atenach słowa Greya, docierające w skróconych i zniekształconych relacjach, wywołały burzę. Grecy od miesięcy obawiali się, że Ententa kupi Bułgarię ich kosztem, oddając jej [Kawalę](/miejsca/kawala). Teraz zaczęli podejrzewać, że wojska Ententy mają zająć Macedonię i przekazać ją Bułgarom.
 
 ## Odwołanie odmowy
 

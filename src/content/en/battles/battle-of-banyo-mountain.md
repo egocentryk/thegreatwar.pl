@@ -9,10 +9,10 @@ sides:
     commanders: [Adolf Schipper]
 result: British victory. The Nigerians took the summit, and most of the German garrison were killed, wounded or captured while trying to break out.
 source: bitwa-o-gore-banyo
-sourceHash: e6a48803da30b36915a37b1b30071ec085b6eb72
+sourceHash: 0382cc410932f91e502023619783d9c94fbaa9d6
 ---
 
-The Battle of Banyo Mountain was the hardest fighting of the autumn offensive by British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) in the northern part of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). The Germans had turned a solitary, steep mountain near the town of [Banyo](https://pl.wikipedia.org/wiki/Banyo) into a fortress meant to hold out until the end of the war, just as the garrison on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) had held out for more than a year. General Frederick Cunliffe attacked it on 4 November 1915 with four companies of Nigerian infantry. After two days of climbing from boulder to boulder, under fire and amid exploding dynamite charges, his soldiers stood on the summit at dawn on 6 November. The fall of Banyo opened the way south for the British, towards [Jaunde](https://pl.wikipedia.org/wiki/Jaunde).
+The Battle of Banyo Mountain was the hardest fighting of the autumn offensive by British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) in the northern part of [German Kamerun](/miejsca/kamerun). The Germans had turned a solitary, steep mountain near the town of [Banyo](https://pl.wikipedia.org/wiki/Banyo) into a fortress meant to hold out until the end of the war, just as the garrison on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) had held out for more than a year. General Frederick Cunliffe attacked it on 4 November 1915 with four companies of Nigerian infantry. After two days of climbing from boulder to boulder, under fire and amid exploding dynamite charges, his soldiers stood on the summit at dawn on 6 November. The fall of Banyo opened the way south for the British, towards [Jaunde](https://pl.wikipedia.org/wiki/Jaunde).
 
 ## Name and dates
 

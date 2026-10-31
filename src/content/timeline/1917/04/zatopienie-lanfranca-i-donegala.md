@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 17 kwietnia 1917 roku z [Hawru](https://pl.wikipedia.org/wiki/Hawr) do [Southampton](https://pl.wikipedia.org/wiki/Southampton) wypłynęły dwa statki z rannymi z frontu zachodniego, Lanfranc i Donegal. Oba miały eskortę i oba zostały storpedowane bez ostrzeżenia przez niemieckie okręty podwodne. Zginęło łącznie około 75–80 osób, w większości ranni żołnierze. Wśród ofiar byli także Niemcy: na pokładzie Lanfranca płynęło 167 rannych niemieckich [jeńców](https://pl.wikipedia.org/wiki/Jeniec_wojenny). Brytyjska chronologia wojny nazywa oba statki transportowcami sanitarnymi, a nie [statkami szpitalnymi](/slownik/statek-szpitalny). To rozróżnienie miało w kwietniu 1917 roku duże znaczenie.
+Wieczorem 17 kwietnia 1917 roku z [Hawru](/miejsca/hawr) do [Southampton](https://pl.wikipedia.org/wiki/Southampton) wypłynęły dwa statki z rannymi z frontu zachodniego, Lanfranc i Donegal. Oba miały eskortę i oba zostały storpedowane bez ostrzeżenia przez niemieckie okręty podwodne. Zginęło łącznie około 75–80 osób, w większości ranni żołnierze. Wśród ofiar byli także Niemcy: na pokładzie Lanfranca płynęło 167 rannych niemieckich [jeńców](https://pl.wikipedia.org/wiki/Jeniec_wojenny). Brytyjska chronologia wojny nazywa oba statki transportowcami sanitarnymi, a nie [statkami szpitalnymi](/slownik/statek-szpitalny). To rozróżnienie miało w kwietniu 1917 roku duże znaczenie.
 
 ## Statki bez czerwonych krzyży
 

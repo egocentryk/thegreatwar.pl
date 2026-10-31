@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 stycznia 1916 roku wojska brytyjskie weszły do [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), ostatniej siedziby niemieckich władz [Kamerunu](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Według brytyjskiej historii oficjalnej o 11.30 centralna kolumna podpułkownika Haywooda, część sił pułkownika Gorgesa, zajęła fort w Jaunde, nie napotykając oporu. Miasto było puste. Niemieckie władze, cywile i większość wojsk kolonialnych wycofali się wcześniej na południe. Zdobycie Jaunde, celu dwóch alianckich ofensyw, nie zakończyło jednak kampanii w Kamerunie.
+1 stycznia 1916 roku wojska brytyjskie weszły do [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), ostatniej siedziby niemieckich władz [Kamerunu](/miejsca/kamerun). Według brytyjskiej historii oficjalnej o 11.30 centralna kolumna podpułkownika Haywooda, część sił pułkownika Gorgesa, zajęła fort w Jaunde, nie napotykając oporu. Miasto było puste. Niemieckie władze, cywile i większość wojsk kolonialnych wycofali się wcześniej na południe. Zdobycie Jaunde, celu dwóch alianckich ofensyw, nie zakończyło jednak kampanii w Kamerunie.
 
 ## Ostatni etap marszu
 

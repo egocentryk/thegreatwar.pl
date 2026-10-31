@@ -2,10 +2,10 @@
 title: Serbian government moves from Belgrade to Niš
 summary: On 25 July 1914 Regent Alexander decided to move Serbia's government, parliament and administration to Niš, which became the country's wartime capital.
 source: rzad-serbski-przeniesiony-z-belgradu-do-niszu
-sourceHash: 070e0e7aa8e6a6b7c6aca74d630d6e48e7dc85fc
+sourceHash: 130de9dc42cb8d148339a3369218ec48a44a12aa
 ---
 
-On 25 July 1914, the day the Austro-Hungarian ultimatum expired, Regent [Alexander Karađorđević](/postacie/aleksander-i-karadziordziewic) decided to move the most important institutions of the [Kingdom of Serbia](/kraje/serbia) from [Belgrade](https://pl.wikipedia.org/wiki/Belgrad) to [Niš](https://pl.wikipedia.org/wiki/Nisz). The government, the Skupština (the parliament), the state administration and the diplomatic corps were to go to the city in the south of the country. The evacuation began that same day.
+On 25 July 1914, the day the Austro-Hungarian ultimatum expired, Regent [Alexander Karađorđević](/postacie/aleksander-i-karadziordziewic) decided to move the most important institutions of the [Kingdom of Serbia](/kraje/serbia) from [Belgrade](/miejsca/belgrad) to [Niš](https://pl.wikipedia.org/wiki/Nisz). The government, the Skupština (the parliament), the state administration and the diplomatic corps were to go to the city in the south of the country. The evacuation began that same day.
 
 The reason was obvious. Belgrade lay right on the border with [Austria-Hungary](/kraje/austro-wegry), at the confluence of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and the [Danube](https://pl.wikipedia.org/wiki/Dunaj), opposite Austro-Hungarian [Zemun](https://pl.wikipedia.org/wiki/Zemun). In the event of war the capital would be within range of enemy artillery and river monitors. Niš was much farther from the border and also lay on the main railway line running to the south of the country, which made communications and supply easier.
 

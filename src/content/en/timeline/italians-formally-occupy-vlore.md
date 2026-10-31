@@ -2,10 +2,10 @@
 title: Italians formally occupy Vlorë
 summary: The British chronology says the Italians formally occupied Vlorë on 29 May 1915. They had held it since December 1914; at war, it became their base.
 source: wlosi-formalnie-zajmuja-wlore
-sourceHash: 3a4cb64f0560d760d447ddd875643a0bd483b509
+sourceHash: f6ce813b5c9ab2c89fdc978d1b736916649687d9
 ---
 
-The British chronology of the war records briefly under 29 May 1915 that the Albanian port of [Vlorë](https://pl.wikipedia.org/wiki/Wlora) was "formally occupied by Italian forces". The Italians, however, had been there for half a year. They had occupied the island of [Sazan](https://pl.wikipedia.org/wiki/Sazan) at the entrance to the Bay of Vlorë at the end of October 1914, and [in December sailors landed in the town itself](/wlosi-laduja-we-wlorze), followed by a regiment of [Bersaglieri](https://pl.wikipedia.org/wiki/Bersalierzy) with mountain artillery. We have not been able to establish what act lies behind the entry for 29 May. Neither the published Italian diplomatic documents nor the accounts available to us mention a proclamation, an annexation or a change in the town's administration on that day. What is known is that after Italy entered the war the nature of this presence changed completely.
+The British chronology of the war records briefly under 29 May 1915 that the Albanian port of [Vlorë](/miejsca/wlora) was "formally occupied by Italian forces". The Italians, however, had been there for half a year. They had occupied the island of [Sazan](https://pl.wikipedia.org/wiki/Sazan) at the entrance to the Bay of Vlorë at the end of October 1914, and [in December sailors landed in the town itself](/wlosi-laduja-we-wlorze), followed by a regiment of [Bersaglieri](https://pl.wikipedia.org/wiki/Bersalierzy) with mountain artillery. We have not been able to establish what act lies behind the entry for 29 May. Neither the published Italian diplomatic documents nor the accounts available to us mention a proclamation, an annexation or a change in the town's administration on that day. What is known is that after Italy entered the war the nature of this presence changed completely.
 
 ## From neutral occupation to war base
 

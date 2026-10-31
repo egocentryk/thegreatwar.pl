@@ -17,7 +17,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Bitwa_o_Lwów_(1918–1919)"
 ---
 
-19 marca 1919 roku polskie oddziały przełamały ukraińskie pozycje pod [Gródkiem](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) i odzyskały linię kolejową z [Przemyśla](https://pl.wikipedia.org/wiki/Przemyśl) do [Lwowa](https://pl.wikipedia.org/wiki/Lwów), jedyną drogę, którą mogli do niego docierać żołnierze, amunicja i żywność. Tego dnia dowódca polskich wojsk w Galicji Wschodniej, generał [Wacław Iwaszkiewicz](https://pl.wikipedia.org/wiki/Wacław_Iwaszkiewicz-Rudoszański), ogłosił w rozkazie zwycięstwo i szczególnie pochwalił oddziały przybyłe z Wielkopolski. Ukraiński pierścień wokół Lwowa, zaciśnięty na początku marca, został rozerwany. W polskiej pamięci te walki przeszły do historii jako odsiecz Lwowa, a miasto po raz pierwszy od miesięcy przestało być odcięte od reszty kraju.
+19 marca 1919 roku polskie oddziały przełamały ukraińskie pozycje pod [Gródkiem](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) i odzyskały linię kolejową z [Przemyśla](https://pl.wikipedia.org/wiki/Przemyśl) do [Lwowa](/miejsca/lwow), jedyną drogę, którą mogli do niego docierać żołnierze, amunicja i żywność. Tego dnia dowódca polskich wojsk w Galicji Wschodniej, generał [Wacław Iwaszkiewicz](https://pl.wikipedia.org/wiki/Wacław_Iwaszkiewicz-Rudoszański), ogłosił w rozkazie zwycięstwo i szczególnie pochwalił oddziały przybyłe z Wielkopolski. Ukraiński pierścień wokół Lwowa, zaciśnięty na początku marca, został rozerwany. W polskiej pamięci te walki przeszły do historii jako odsiecz Lwowa, a miasto po raz pierwszy od miesięcy przestało być odcięte od reszty kraju.
 
 ## Półroczne okrążenie
 

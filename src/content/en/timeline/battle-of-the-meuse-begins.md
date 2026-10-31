@@ -2,7 +2,7 @@
 title: Battle of the Meuse begins
 summary: On 25 August 1914 the French Fourth Army, pulled back from the Ardennes, took post behind the Meuse from Mézières to Stenay. The fight for the crossings began.
 source: poczatek-bitwy-nad-moza
-sourceHash: 391b12e10449c3888c3bf67a9863bf478bb90d05
+sourceHash: cb11ab399327fd9737491a896c121cbd57ca8bd4
 brief:
   - "On 25 August 1914 the French Fourth Army of General Fernand de Langle de Cary, beaten in the Ardennes, took up positions behind the Meuse from near Mézières to Stenay. The fight for the crossings began."
   - "That day Joffre issued General Instruction No. 2: the armies were to fall back gradually while a new army formed near Amiens. A breach of the Fourth Army's line could have cut the French front in two."
@@ -32,7 +32,7 @@ The fighting soon spread along the whole line of the river. On 27 August the Ger
 
 ## What came next
 
-On 28 August the Fourth Army launched a counter-attack, trying to push the Germans back across the Meuse. In several places it achieved local successes, but in the evening came the order for a further retreat to the line of the River [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). The disappointed soldiers had to abandon positions they had been defending successfully. That same day, on the left wing, the Moroccan Division fought a bloody action at [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) against Hausen's troops, who were trying to drive a wedge between the Fourth and Fifth Armies.
+On 28 August the Fourth Army launched a counter-attack, trying to push the Germans back across the Meuse. In several places it achieved local successes, but in the evening came the order for a further retreat to the line of the River [Aisne](/miejsca/aisne). The disappointed soldiers had to abandon positions they had been defending successfully. That same day, on the left wing, the Moroccan Division fought a bloody action at [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) against Hausen's troops, who were trying to drive a wedge between the Fourth and Fifth Armies.
 
 ## Significance
 

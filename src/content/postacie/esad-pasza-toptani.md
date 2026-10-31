@@ -23,7 +23,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Essad_Toptani"
 ---
 
-Esad Pasza Toptani był najbardziej wpływowym, a zarazem najbardziej znienawidzonym przez rodaków albańskim politykiem lat wielkiej wojny. Możnowładca ze środkowej Albanii i były generał osmański, jesienią 1914 roku wrócił z wygnania z serbskimi pieniędzmi, zajął [Durrës](https://pl.wikipedia.org/wiki/Durrës) i stanął na czele rządu, którego władza rzadko sięgała daleko poza to miasto. Opierał się kolejno na Serbii, Włoszech i Francji, a gdy w lutym 1916 roku nadeszli Austriacy, odpłynął do Italii. Resztę wojny spędził jako szef rządu bez kraju, najpierw we Włoszech i we Francji, potem w Salonikach. Wielu Albańczyków do dziś uważa go za symbol zdrady, w Serbii pamiętany jest jako sojusznik z najcięższych dni 1915 roku.
+Esad Pasza Toptani był najbardziej wpływowym, a zarazem najbardziej znienawidzonym przez rodaków albańskim politykiem lat wielkiej wojny. Możnowładca ze środkowej Albanii i były generał osmański, jesienią 1914 roku wrócił z wygnania z serbskimi pieniędzmi, zajął [Durrës](/miejsca/durres) i stanął na czele rządu, którego władza rzadko sięgała daleko poza to miasto. Opierał się kolejno na Serbii, Włoszech i Francji, a gdy w lutym 1916 roku nadeszli Austriacy, odpłynął do Italii. Resztę wojny spędził jako szef rządu bez kraju, najpierw we Włoszech i we Francji, potem w Salonikach. Wielu Albańczyków do dziś uważa go za symbol zdrady, w Serbii pamiętany jest jako sojusznik z najcięższych dni 1915 roku.
 
 ## Przed wojną
 

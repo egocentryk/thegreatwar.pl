@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 września 1914 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) zajęły port Lüderitzbucht, dzisiejsze [Lüderitz](https://pl.wikipedia.org/wiki/Lüderitz), na wybrzeżu [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Brytyjska chronologia wojny podkreśla, że było to pierwsze niemieckie terytorium, na które weszły wojska Związku. Niemcy nie bronili miasta.
+19 września 1914 roku wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) zajęły port Lüderitzbucht, dzisiejsze [Lüderitz](https://pl.wikipedia.org/wiki/Lüderitz), na wybrzeżu [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Brytyjska chronologia wojny podkreśla, że było to pierwsze niemieckie terytorium, na które weszły wojska Związku. Niemcy nie bronili miasta.
 
 ## Plan inwazji
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 września 1914 roku wojska niemieckie zajęły [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), małe miasto nad [Sommą](https://pl.wikipedia.org/wiki/Somma_(rzeka)) w Pikardii, ważne ze względu na przeprawy przez rzekę. Nie był to pierwszy raz. Niemcy weszli do Péronne już 28 sierpnia, w czasie marszu na Paryż, a opuścili je po bitwie nad Marną, w połowie września. Francuskie opracowania podają, że wrócili 23 września. Brytyjska chronologia notuje zajęcie miasta dzień później.
+24 września 1914 roku wojska niemieckie zajęły [Péronne](/miejsca/peronne), małe miasto nad [Sommą](/miejsca/somma) w Pikardii, ważne ze względu na przeprawy przez rzekę. Nie był to pierwszy raz. Niemcy weszli do Péronne już 28 sierpnia, w czasie marszu na Paryż, a opuścili je po bitwie nad Marną, w połowie września. Francuskie opracowania podają, że wrócili 23 września. Brytyjska chronologia notuje zajęcie miasta dzień później.
 
 Péronne znalazło się na drodze [wyścigu do morza](/bitwy/wyscig-do-morza). Obie strony przesuwały wojska na północ, próbując obejść skrzydło przeciwnika. Niemcy skierowali w ten rejon XXI Korpus i I Bawarski Korpus, które miały przedłużyć front na północ i odepchnąć Francuzów za Sommę. Bawarczycy dotarli pod Péronne 24 września, a w następnych dniach przeprawili się przez rzekę i nacierali na zachód, w stronę Albert.
 

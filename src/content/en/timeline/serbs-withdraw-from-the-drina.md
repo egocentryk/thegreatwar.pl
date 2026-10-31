@@ -2,7 +2,7 @@
 title: Serbs withdraw from the Drina
 summary: On the night of 30–31 October 1914 the Serbian Second Army left its trenches in Mačva on the lower Drina. A retreat began that took the Serbs to the Kolubara.
 source: serbowie-wycofuja-sie-znad-driny
-sourceHash: 55b3ced48860fcb0d0d4065df014c235426176ea
+sourceHash: ee55b9651c5e205ca38167b663256d1e27057c18
 ---
 
 The British chronology of the war records under 30 October 1914 the start of the Serbian withdrawal from the Drina line. This date agrees with Serbian sources. That day the Serbian Supreme Command ordered the Second Army of Vojvoda [Stepa Stepanović](/postacie/stepa-stepanovic) to abandon its positions in the lowland [Mačva](https://pl.wikipedia.org/wiki/Mačva), between the lower Drina and the Sava, and fall back to previously prepared positions in the Cer range, where in August the Serbs had [won their first victory](/bitwy/bitwa-na-gorze-cer).
@@ -23,4 +23,4 @@ Without ammunition for their own guns, the Serbs could no longer hold their posi
 
 The abandonment of Mačva was only the beginning. Most studies date Potiorek's third offensive from 5–6 November, when after a heavy artillery preparation both his armies moved off, the Fifth Army from Mačva and the Sixth Army from the mountains above the middle Drina. Deprived of ammunition, the Serbian armies were unable to hold even the ridges they had been fighting for since September and began to retreat into the interior. On 15 November the Austro-Hungarians entered [Valjevo](https://pl.wikipedia.org/wiki/Valjevo), and the Serbs withdrew to the line of the river [Kolubara](https://pl.wikipedia.org/wiki/Kolubara), its tributary the Ljig and Mount Suvobor.
 
-Soon they had to give up the capital as well. On 2 December Austro-Hungarian troops marched into the abandoned [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). Potiorek was convinced that Serbia was beaten. Meanwhile ammunition supplies from the allies had at last reached the country, and the very next day the Serbs went over to a counter-offensive which, in the [Battle of Kolubara](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą), drove the invaders out of the country by mid-December.
+Soon they had to give up the capital as well. On 2 December Austro-Hungarian troops marched into the abandoned [Belgrade](/miejsca/belgrad). Potiorek was convinced that Serbia was beaten. Meanwhile ammunition supplies from the allies had at last reached the country, and the very next day the Serbs went over to a counter-offensive which, in the [Battle of Kolubara](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą), drove the invaders out of the country by mid-December.

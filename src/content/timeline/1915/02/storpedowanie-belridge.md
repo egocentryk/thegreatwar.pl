@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 lutego 1915 roku w [Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska), kilkanaście kilometrów na południe od [Folkestone](https://pl.wikipedia.org/wiki/Folkestone), eksplozja wstrząsnęła norweskim [tankowcem](https://pl.wikipedia.org/wiki/Zbiornikowiec) Belridge. Statek nie zatonął i dotarł do portu. Był pierwszym statkiem neutralnym zaatakowanym przez U-Boota po tym, jak dzień wcześniej [weszła w życie niemiecka strefa wojenna](/poczatek-niemieckiej-blokady-podwodnej) wokół Wysp Brytyjskich.
+19 lutego 1915 roku w [Cieśninie Kaletańskiej](/miejsca/ciesnina-kaletanska), kilkanaście kilometrów na południe od [Folkestone](https://pl.wikipedia.org/wiki/Folkestone), eksplozja wstrząsnęła norweskim [tankowcem](https://pl.wikipedia.org/wiki/Zbiornikowiec) Belridge. Statek nie zatonął i dotarł do portu. Był pierwszym statkiem neutralnym zaatakowanym przez U-Boota po tym, jak dzień wcześniej [weszła w życie niemiecka strefa wojenna](/poczatek-niemieckiej-blokady-podwodnej) wokół Wysp Brytyjskich.
 
 ## Ropa dla Amsterdamu
 

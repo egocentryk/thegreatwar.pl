@@ -2,7 +2,7 @@
 title: Sinking of the cruiser Arethusa
 summary: On 11 February 1916 the cruiser Arethusa, Commodore Tyrwhitt's flagship, struck a mine off Harwich. She could not be towed in and was wrecked on a shoal.
 source: zatoniecie-krazownika-arethusa
-sourceHash: 731a09380e4fba7d70291dcbb09d14834ee988a0
+sourceHash: e1fd2a9cfb79b194e77cf9e410f419a228dc33ca
 ---
 
 On 11 February 1916 the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Arethusa*, the flagship of Commodore [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt), struck a mine just before returning to her base at [Harwich](https://pl.wikipedia.org/wiki/Harwich). The explosion occurred near the North Cutler buoy, on the approach to the harbour opposite [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). The mine had been laid shortly before by the German minelaying submarine [UC-7](https://pl.wikipedia.org/wiki/SM_UC-7). The damaged ship could not be towed in. Wind and sea drove her onto a shoal, where she broke in two.
@@ -11,7 +11,7 @@ On 11 February 1916 the British [light cruiser](https://pl.wikipedia.org/wiki/Kr
 
 *Arethusa* was returning from a sortie that had turned out to be unnecessary. On 9 and 10 February the Admiralty received signs that the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) was preparing some operation, and then that light cruisers and destroyers had come out of the Jade heading west. Expecting a raid on the English coast, the Admiralty sent out David Beatty's battlecruisers from Rosyth and Tyrwhitt's force from Harwich. The Germans meanwhile struck on the night of 10/11 February at a flotilla of sloops sweeping channels east of the [Dogger Bank](https://pl.wikipedia.org/wiki/Dogger_Bank). They sank the sloop *Arabis*, while the other three sloops managed to escape. The German destroyers then returned to base. The British official naval history judges that this was only a strong patrol, one of the first signs of activity by the new commander of the German fleet, Admiral [Reinhard Scheer](/postacie/reinhard-scheer).
 
-When it became clear that nothing more threatened, Tyrwhitt was ordered back. He led his cruisers to Harwich by a channel believed to be clear. Shortly before, according to the British official history only a day or two before the cruisers' return, the channel had been mined by UC-7, a small submarine of the [Flanders Flotilla](https://pl.wikipedia.org/wiki/Flotylla_Flandria), operating from [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge). Such boats carried only 12 mines, but they laid them where the British least expected them, on the approaches to harbours and in the Thames estuary.
+When it became clear that nothing more threatened, Tyrwhitt was ordered back. He led his cruisers to Harwich by a channel believed to be clear. Shortly before, according to the British official history only a day or two before the cruisers' return, the channel had been mined by UC-7, a small submarine of the [Flanders Flotilla](https://pl.wikipedia.org/wiki/Flotylla_Flandria), operating from [Zeebrugge](/miejsca/zeebrugge). Such boats carried only 12 mines, but they laid them where the British least expected them, on the approaches to harbours and in the Thames estuary.
 
 ## Loss of the ship
 

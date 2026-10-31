@@ -11,7 +11,7 @@ sides:
     commanders: [Alexander von Kluck, Karl von Bülow, Josias von Heeringen]
 result: Inconclusive. The Germans held the heights north of the Aisne and the front froze into a line of trenches. Both sides began the race to the sea.
 source: pierwsza-bitwa-nad-aisne
-sourceHash: 8f394c21e2be1d23506d232b715d05cfb5473519
+sourceHash: f8423f84315a14a5481405e14825026d38318e1b
 brief:
   - "The First Battle of the Aisne, fought on 12–15 September 1914 in northern France, followed directly from the Battle of the Marne. The fighting on the river, however, went on until about 28 September."
   - "The Germans retreating from the Marne halted on a strong position on the Chemin des Dames ridge. General Joffre was convinced that the enemy was beaten and would continue to fall back."
@@ -20,7 +20,7 @@ brief:
   - "The battle is regarded as the beginning of trench warfare on the Western Front. With frontal attacks failing, both sides tried to turn the enemy's flank, which began the race to the sea."
 ---
 
-The First Battle of the Aisne, fought in September 1914 in northern France, followed directly from the [Battle of the Marne](/bitwy/pierwsza-bitwa-nad-marna). The French and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), pursuing the retreating German armies, came up against an enemy on the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) who had halted on a strong position and had no intention of giving it up. Several days of attacks brought no breakthrough. Soldiers on both sides began to dig trenches, and the war of manoeuvre on the Western Front came to an end. The battle is widely regarded as the beginning of the trench warfare that lasted in the west almost until the end of the war.
+The First Battle of the Aisne, fought in September 1914 in northern France, followed directly from the [Battle of the Marne](/bitwy/pierwsza-bitwa-nad-marna). The French and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), pursuing the retreating German armies, came up against an enemy on the river [Aisne](/miejsca/aisne) who had halted on a strong position and had no intention of giving it up. Several days of attacks brought no breakthrough. Soldiers on both sides began to dig trenches, and the war of manoeuvre on the Western Front came to an end. The battle is widely regarded as the beginning of the trench warfare that lasted in the west almost until the end of the war.
 
 ## Dates of the battle
 
@@ -36,11 +36,11 @@ The Allies pursued the Germans slowly. The troops were exhausted after the long 
 
 Between Compiègne and [Berry-au-Bac](https://pl.wikipedia.org/wiki/Berry-au-Bac) the Aisne flows from east to west. It is about 30 metres wide and too deep to ford. The flat floor of the valley is roughly one and a half kilometres wide on each side of the river. Above it rise steep wooded slopes about 100 metres high, cut by side valleys, and at the top stretches a plateau.
 
-East of [Soissons](https://pl.wikipedia.org/wiki/Soissons) this plateau forms a long, narrow ridge between the Aisne and the small river [Ailette](https://pl.wikipedia.org/wiki/Ailette). Along its crest runs the Chemin des Dames road, the "Ladies' Way", named after the daughters of King Louis XV, for whom it was laid out in the 18th century. From the ridge the defenders could see the whole valley and fire on the crossings, while they themselves, hidden behind the edge of the plateau and in the woods, were hard to spot. The attackers first had to cross the river and then climb the exposed slopes.
+East of [Soissons](/miejsca/soissons) this plateau forms a long, narrow ridge between the Aisne and the small river [Ailette](https://pl.wikipedia.org/wiki/Ailette). Along its crest runs the Chemin des Dames road, the "Ladies' Way", named after the daughters of King Louis XV, for whom it was laid out in the 18th century. From the ridge the defenders could see the whole valley and fire on the crossings, while they themselves, hidden behind the edge of the plateau and in the woods, were hard to spot. The attackers first had to cross the river and then climb the exposed slopes.
 
 ## Forces
 
-On the western flank, from Compiègne to Soissons, the French Sixth Army under General [Michel-Joseph Maunoury](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) attacked. In the centre, between Soissons and Bourg, advanced the British Expeditionary Force of Field Marshal [John French](/postacie/john-french), made up of three corps: I Corps under General [Douglas Haig](/postacie/douglas-haig), II Corps under General Horace Smith-Dorrien and III Corps under General William Pulteney, as well as a cavalry division. To the right of the British, as far as [Reims](https://pl.wikipedia.org/wiki/Reims), attacked the French Fifth Army under General [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey), and further east other French armies.
+On the western flank, from Compiègne to Soissons, the French Sixth Army under General [Michel-Joseph Maunoury](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) attacked. In the centre, between Soissons and Bourg, advanced the British Expeditionary Force of Field Marshal [John French](/postacie/john-french), made up of three corps: I Corps under General [Douglas Haig](/postacie/douglas-haig), II Corps under General Horace Smith-Dorrien and III Corps under General William Pulteney, as well as a cavalry division. To the right of the British, as far as [Reims](/miejsca/reims), attacked the French Fifth Army under General [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey), and further east other French armies.
 
 On the German side, Kluck held the line from the Oise to the area of Soissons and Vailly. East of him, near Reims, stood Bülow's army. The sector between them, at the eastern end of the Chemin des Dames ridge, was almost empty at the start of the battle, screened mainly by cavalry. The Germans assigned to it the new Seventh Army under General [Josias von Heeringen](https://pl.wikipedia.org/wiki/Josias_von_Heeringen), formed from troops brought by rail from Alsace and Lorraine. Its units, however, were not due to arrive for several days.
 

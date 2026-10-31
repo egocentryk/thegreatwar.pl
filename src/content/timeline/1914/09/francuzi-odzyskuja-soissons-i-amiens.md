@@ -11,11 +11,11 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje, że 13 września 1914 roku wojska francuskie ponownie zajęły [Soissons](https://pl.wikipedia.org/wiki/Soissons) i [Amiens](/miejsca/amiens). Oba miasta Niemcy zajęli na przełomie sierpnia i września, w czasie marszu na Paryż, a opuścili je po klęsce nad Marną. Ich okupacja trwała niespełna dwa tygodnie.
+Brytyjska chronologia wojny podaje, że 13 września 1914 roku wojska francuskie ponownie zajęły [Soissons](/miejsca/soissons) i [Amiens](/miejsca/amiens). Oba miasta Niemcy zajęli na przełomie sierpnia i września, w czasie marszu na Paryż, a opuścili je po klęsce nad Marną. Ich okupacja trwała niespełna dwa tygodnie.
 
 ## Soissons
 
-[Niemcy weszli do Soissons](/niemcy-zajmuja-soissons) 1–2 września. Po bitwie nad Marną wojska niemieckiej 1 Armii wycofały się na północny brzeg rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) i zajęły wzgórza górujące nad miastem. 12 września do Soissons weszły oddziały francuskiej 6 Armii, w tym wojska afrykańskie, wspierane ogniem brytyjskiej artylerii. Część źródeł podaje, że ostatnie niemieckie oddziały opuściły miasto dopiero 13 września, i tę datę przyjęła brytyjska chronologia.
+[Niemcy weszli do Soissons](/niemcy-zajmuja-soissons) 1–2 września. Po bitwie nad Marną wojska niemieckiej 1 Armii wycofały się na północny brzeg rzeki [Aisne](/miejsca/aisne) i zajęły wzgórza górujące nad miastem. 12 września do Soissons weszły oddziały francuskiej 6 Armii, w tym wojska afrykańskie, wspierane ogniem brytyjskiej artylerii. Część źródeł podaje, że ostatnie niemieckie oddziały opuściły miasto dopiero 13 września, i tę datę przyjęła brytyjska chronologia.
 
 Wyzwolenie nie przyniosło miastu spokoju. Niemcy okopali się na wzgórzach po drugiej stronie rzeki, zaledwie kilka kilometrów od centrum, i Soissons stało się miastem przyfrontowym, ostrzeliwanym przez niemiecką artylerię. W styczniu 1915 roku Francuzi próbowali odepchnąć przeciwnika od miasta. Bitwa pod [Crouy](https://pl.wikipedia.org/wiki/Crouy), stoczona w dniach 8–14 stycznia, zaczęła się od francuskiego sukcesu, ale niemiecki kontratak zepchnął Francuzów z powrotem za Aisne. Porażka, nazwana we Francji „sprawą Soissons”, wywołała obawy przed nowym niemieckim marszem na Paryż. Samo miasto pozostało jednak w rękach francuskich.
 

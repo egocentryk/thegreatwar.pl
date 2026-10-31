@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ivanov, Nikolai Ruzsky, Aleksei Brusilov, Pavel Plehve]
 result: Russian victory. The Austro-Hungarian counter-offensive collapsed, and on 11 September Conrad ordered a retreat behind the San, leaving the fortress of Przemyśl behind the front.
 source: bitwa-pod-grodkiem-i-rawa-ruska
-sourceHash: 85474881aa4292415a22e6631a586c9c574b72f4
+sourceHash: 3763153312768c9c7e472da76a39952fb95ce407
 ---
 
-The Battle of Gródek and Rawa Ruska was the last, decisive stage of the [Battle of Galicia](/bitwy/bitwa-galicyjska). In September 1914 the Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), tried to recover [Lviv](https://pl.wikipedia.org/wiki/Lwów), lost a few days earlier. His armies struck at the Russians on a front some hundred kilometres long, from around [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska) in the north to the Dniester in the south. The counter-offensive failed, and its defeat forced Austria-Hungary to give up most of Galicia.
+The Battle of Gródek and Rawa Ruska was the last, decisive stage of the [Battle of Galicia](/bitwy/bitwa-galicyjska). In September 1914 the Chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), tried to recover [Lviv](/miejsca/lwow), lost a few days earlier. His armies struck at the Russians on a front some hundred kilometres long, from around [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska) in the north to the Dniester in the south. The counter-offensive failed, and its defeat forced Austria-Hungary to give up most of Galicia.
 
 ## Name and dates
 

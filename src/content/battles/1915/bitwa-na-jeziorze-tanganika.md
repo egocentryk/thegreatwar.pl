@@ -17,7 +17,7 @@ tags: [Royal Navy, Kaiserliche Marine, Niemiecka Afryka Wschodnia, Kongo Belgijs
 milestone: false
 ---
 
-Bitwa na jeziorze Tanganika to dwa małe starcia, w których brytyjska flotylla, sprowadzona z Anglii przez pół Afryki, odebrała Niemcom panowanie na jeziorze [Tanganika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)). Od początku wojny po tym długim na ponad 600 km jeziorze, oddzielającym [Niemiecką Afrykę Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) od [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie), pływały bez przeszkód niemieckie uzbrojone parowce. 26 grudnia 1915 roku dwie brytyjskie motorówki, Mimi i Toutou, zdobyły niemiecką kanonierkę Kingani, a 9 lutego 1916 roku, razem z przemianowaną na Fifi zdobyczą, zatopiły drugą, Hedwig von Wissmann. W żadnym z tych starć nie zginął ani jeden Brytyjczyk.
+Bitwa na jeziorze Tanganika to dwa małe starcia, w których brytyjska flotylla, sprowadzona z Anglii przez pół Afryki, odebrała Niemcom panowanie na jeziorze [Tanganika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)). Od początku wojny po tym długim na ponad 600 km jeziorze, oddzielającym [Niemiecką Afrykę Wschodnią](/bitwy/kampania-wschodnioafrykanska) od [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie), pływały bez przeszkód niemieckie uzbrojone parowce. 26 grudnia 1915 roku dwie brytyjskie motorówki, Mimi i Toutou, zdobyły niemiecką kanonierkę Kingani, a 9 lutego 1916 roku, razem z przemianowaną na Fifi zdobyczą, zatopiły drugą, Hedwig von Wissmann. W żadnym z tych starć nie zginął ani jeden Brytyjczyk.
 
 ## Nazwa i daty
 

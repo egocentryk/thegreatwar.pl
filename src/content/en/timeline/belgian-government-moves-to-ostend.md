@@ -2,10 +2,10 @@
 title: Belgian government moves to Ostend
 summary: On 7 October 1914 the Belgian government left Antwerp and moved to Ostend. The army was withdrawing across the Scheldt and residents fled the bombardment.
 source: rzad-belgijski-przenosi-sie-do-ostendy
-sourceHash: 328ae2a530702a3d75a7905669c0d77d85485d4d
+sourceHash: cb4c35ee24176529ce02d4951d677ae1347c0229
 ---
 
-On 7 October 1914 the Belgian government left besieged [Antwerp](/miejsca/antwerpia) and moved to [Ostend](https://pl.wikipedia.org/wiki/Ostenda) on the North Sea coast. On the same day King [Albert I](/postacie/albert-i) left the city, and the field army was crossing the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) to the west. Antwerp, since August the refuge of the army, the King and the state authorities, was left to its own resources. Its evacuation began.
+On 7 October 1914 the Belgian government left besieged [Antwerp](/miejsca/antwerpia) and moved to [Ostend](/miejsca/ostenda) on the North Sea coast. On the same day King [Albert I](/postacie/albert-i) left the city, and the field army was crossing the [Scheldt](https://pl.wikipedia.org/wiki/Skalda) to the west. Antwerp, since August the refuge of the army, the King and the state authorities, was left to its own resources. Its evacuation began.
 
 ## The end of hopes of a defence
 
@@ -17,7 +17,7 @@ The reinforcements did not, however, change the fate of the defence. On the nigh
 
 Early in the morning of 7 October the members of Prime Minister Charles de Broqueville's government, the representatives of foreign states and the officials of the central administration sailed from Antwerp to Ostend. Some English-language accounts state that the government left as early as 3 October, in line with the original decision. Belgian sources indicate, however, that the departure was postponed after Churchill's arrival and did not take place until 7 October.
 
-King Albert I left the city in the afternoon of the same day. He drove across a pontoon bridge over the Scheldt and joined the retreating army. Its divisions had been crossing to the left bank of the river since the night of 6–7 October and were marching towards [Ghent](https://pl.wikipedia.org/wiki/Gandawa). Further to the south-west, at Schoonaarde, the Germans crossed the Scheldt that day, but were unable to cut off the Belgians' line of retreat.
+King Albert I left the city in the afternoon of the same day. He drove across a pontoon bridge over the Scheldt and joined the retreating army. Its divisions had been crossing to the left bank of the river since the night of 6–7 October and were marching towards [Ghent](/miejsca/gandawa). Further to the south-west, at Schoonaarde, the Germans crossed the Scheldt that day, but were unable to cut off the Belgians' line of retreat.
 
 ## The flight of the inhabitants
 
@@ -25,4 +25,4 @@ The departure of the authorities and the march of the troops caused panic in the
 
 ## From Ostend to Le Havre
 
-The government's stay in Ostend lasted only a few days. After the fall of Antwerp the Belgian army withdrew to the river Yser, and Ostend found itself just behind the front line. On 13 October the ministers and officials sailed aboard the ferry *Pieter de Coninck* to [Le Havre](https://pl.wikipedia.org/wiki/Hawr) in France. The Belgian government settled in nearby [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), where it remained until the end of the war. King Albert I did not leave the country. He stayed with the army in the last strip of free Belgium on the Yser.
+The government's stay in Ostend lasted only a few days. After the fall of Antwerp the Belgian army withdrew to the river Yser, and Ostend found itself just behind the front line. On 13 October the ministers and officials sailed aboard the ferry *Pieter de Coninck* to [Le Havre](/miejsca/hawr) in France. The Belgian government settled in nearby [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), where it remained until the end of the war. King Albert I did not leave the country. He stayed with the army in the last strip of free Belgium on the Yser.

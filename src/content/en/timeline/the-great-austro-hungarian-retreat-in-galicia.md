@@ -2,10 +2,10 @@
 title: The great Austro-Hungarian retreat in Galicia
 summary: On 11 September 1914 Conrad ordered the Austro-Hungarian armies back behind the San, then the Dunajec. Russia took most of Galicia and besieged Przemyśl.
 source: odwrot-austro-wegier-w-galicji
-sourceHash: 9389014d2f2f3c8dfcc2581a4b62f1c1d272eca7
+sourceHash: d530e93118eccad7804a240265cbdbe5c063e8f6
 ---
 
-On the evening of 11 September 1914 the chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), ordered the four armies fighting in Galicia to make a general retreat behind the river [San](https://pl.wikipedia.org/wiki/San). It was the end of the [Battle of Galicia](/bitwy/bitwa-galicyjska), the Habsburg monarchy's first great campaign against Russia. Over the following weeks the Austro-Hungarian forces fell back more than 150 kilometres, behind the Dunajec and into the Carpathians, and the Russian armies occupied most of Galicia. For the Poles, Ukrainians and Jews who lived there, the war rolled over their homes in full force for the first time.
+On the evening of 11 September 1914 the chief of the Austro-Hungarian General Staff, [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf), ordered the four armies fighting in Galicia to make a general retreat behind the river [San](/miejsca/san). It was the end of the [Battle of Galicia](/bitwy/bitwa-galicyjska), the Habsburg monarchy's first great campaign against Russia. Over the following weeks the Austro-Hungarian forces fell back more than 150 kilometres, behind the Dunajec and into the Carpathians, and the Russian armies occupied most of Galicia. For the Poles, Ukrainians and Jews who lived there, the war rolled over their homes in full force for the first time.
 
 ## From victories to defeat
 

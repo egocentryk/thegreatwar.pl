@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje, że 12 czerwca 1916 roku, 30 maja według kalendarza juliańskiego, którego używała wtedy Rosja, wojska rosyjskie zajęły [Zaleszczyki](https://pl.wikipedia.org/wiki/Zaleszczyki). To niewielkie miasto powiatowe we wschodniej Galicji leży w ciasnej pętli [Dniestru](https://pl.wikipedia.org/wiki/Dniestr), na jego lewym, północnym brzegu. Na drugim brzegu zaczynała się już Bukowina. Rosjanie nie musieli o miasto walczyć. Austro-węgierska historia oficjalna podaje, że załoga opuściła przyczółek w nocy z 10 na 11 czerwca, a dokładnego dnia wejścia Rosjan nie notuje. O wszystkim przesądziła klęska, jaką austro-węgierska [7 Armia](https://pl.wikipedia.org/wiki/7_Armia_(austro-węgierska)) poniosła 10 czerwca kilkanaście kilometrów dalej, na południowym brzegu rzeki.
+Brytyjska chronologia wojny podaje, że 12 czerwca 1916 roku, 30 maja według kalendarza juliańskiego, którego używała wtedy Rosja, wojska rosyjskie zajęły [Zaleszczyki](https://pl.wikipedia.org/wiki/Zaleszczyki). To niewielkie miasto powiatowe we wschodniej Galicji leży w ciasnej pętli [Dniestru](/miejsca/dniestr), na jego lewym, północnym brzegu. Na drugim brzegu zaczynała się już Bukowina. Rosjanie nie musieli o miasto walczyć. Austro-węgierska historia oficjalna podaje, że załoga opuściła przyczółek w nocy z 10 na 11 czerwca, a dokładnego dnia wejścia Rosjan nie notuje. O wszystkim przesądziła klęska, jaką austro-węgierska [7 Armia](https://pl.wikipedia.org/wiki/7_Armia_(austro-węgierska)) poniosła 10 czerwca kilkanaście kilometrów dalej, na południowym brzegu rzeki.
 
 ## Przyczółek nad Dniestrem
 

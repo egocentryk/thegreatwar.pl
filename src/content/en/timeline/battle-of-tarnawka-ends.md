@@ -2,10 +2,10 @@
 title: Battle of Tarnawka ends
 summary: On 9 September 1914 the fighting at Tarnawka south of Lublin ended. Broken by the Russians, Dankl's army began to retreat southwards towards the San.
 source: koniec-bitwy-pod-tarnawka
-sourceHash: 1e9059058b5fae1424f4713db34ba24e57689f8b
+sourceHash: 93804b67cc6d06f8361ad5325daa6586be73a963
 ---
 
-On 9 September 1914 the three-day Battle of Tarnawka, fought in the fields a dozen or so kilometres south of [Lublin](https://pl.wikipedia.org/wiki/Lublin), came to an end. The Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl), broken by superior Russian forces, began to withdraw southwards, towards Kraśnik and the [San](https://pl.wikipedia.org/wiki/San).
+On 9 September 1914 the three-day Battle of Tarnawka, fought in the fields a dozen or so kilometres south of [Lublin](https://pl.wikipedia.org/wiki/Lublin), came to an end. The Austro-Hungarian First Army of General [Viktor Dankl](/postacie/victor-dankl), broken by superior Russian forces, began to withdraw southwards, towards Kraśnik and the [San](/miejsca/san).
 
 ## The breakthrough
 

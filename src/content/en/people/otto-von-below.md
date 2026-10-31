@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Danzig (Prussia)
 deathPlace: Besenhausen near Göttingen
 source: otto-von-below
-sourceHash: df3d48c3f3d86c810c7efcbf22f77049465bc95c
+sourceHash: bfc3fa9f5e582694371cac52cd4cb3bbebed2daf
 ---
 
 Otto von Below commanded on more fronts in the First World War than almost any other German general. He fought in East Prussia in 1914, led the advance into Lithuania and Courland in 1915, defended the Macedonian front in 1916 and Arras in 1917, and in March 1918 his army struck in the great Spring Offensive. His name, however, is associated above all with one battle: in October 1917 the German and Austro-Hungarian 14th Army under his command broke through the Italian front at Caporetto and threw the Italians back as far as the Piave. He is sometimes confused with his cousin, General Fritz von Below, who in 1916 commanded the German defence on the Somme.
@@ -25,7 +25,7 @@ At the end of May 1915 the Germans combined the forces operating in Lithuania an
 
 ## 1916–1917: Macedonia and Arras
 
-In October 1916 Below took over the German army group on the Macedonian front, made up of the German 11th Army and Bulgarian armies. He arrived just as the French, Serbs and Russians were attacking towards [Bitola](https://pl.wikipedia.org/wiki/Bitola) in the [battle on the Crna](/bitwy/bitwa-nad-czarna-rzeka-i-o-bitole). He held out in the bend of the Crna for several weeks, often visiting the front line in person. When, however, the Allies, above all the Serbs, broke into the hills in the bend of the river, he decided to give up Bitola, despite the opposition of the Bulgarian commander-in-chief, General [Nikola Zhekov](/postacie/nikola-zekow). He withdrew his troops to a new line north of the city, which the Allies were unable to break. In April 1917 he handed over command to General [Friedrich von Scholtz](https://pl.wikipedia.org/wiki/Friedrich_von_Scholtz).
+In October 1916 Below took over the German army group on the Macedonian front, made up of the German 11th Army and Bulgarian armies. He arrived just as the French, Serbs and Russians were attacking towards [Bitola](/miejsca/bitola) in the [battle on the Crna](/bitwy/bitwa-nad-czarna-rzeka-i-o-bitole). He held out in the bend of the Crna for several weeks, often visiting the front line in person. When, however, the Allies, above all the Serbs, broke into the hills in the bend of the river, he decided to give up Bitola, despite the opposition of the Bulgarian commander-in-chief, General [Nikola Zhekov](/postacie/nikola-zekow). He withdrew his troops to a new line north of the city, which the Allies were unable to break. In April 1917 he handed over command to General [Friedrich von Scholtz](https://pl.wikipedia.org/wiki/Friedrich_von_Scholtz).
 
 He was summoned to France, where after the defeat at Vimy and Arras the commander of the German 6th Army, General [Ludwig von Falkenhausen](https://pl.wikipedia.org/wiki/Ludwig_von_Falkenhausen), had been dismissed. Below took over the 6th Army at the end of April 1917 (sources give 23 or 28 April), and his chief of staff, Colonel Fritz von Loßberg, built a defence in depth based on counter-attacks by reserve divisions. Further British attacks [at Arras](/bitwy/bitwa-pod-arras-1917) achieved little. In August, however, his army lost [Hill 70](/bitwy/bitwa-o-wzgorze-70) near Lens to the Canadians.
 

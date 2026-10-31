@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-15 sierpnia 1916 roku oddział desantowy brytyjskiej marynarki wojennej zajął [Bagamoyo](https://pl.wikipedia.org/wiki/Bagamoyo), port na wybrzeżu [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), około 75 kilometrów na północ od [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam). Wbrew oczekiwaniom wojska lądowego Niemcy bronili miasta, ale walka trwała krótko. Po południu w Bagamoyo panował już spokój, a w rękach Brytyjczyków znalazło się po raz pierwszy w otwartej walce działo z krążownika Königsberg.
+15 sierpnia 1916 roku oddział desantowy brytyjskiej marynarki wojennej zajął [Bagamoyo](https://pl.wikipedia.org/wiki/Bagamoyo), port na wybrzeżu [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), około 75 kilometrów na północ od [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam). Wbrew oczekiwaniom wojska lądowego Niemcy bronili miasta, ale walka trwała krótko. Po południu w Bagamoyo panował już spokój, a w rękach Brytyjczyków znalazło się po raz pierwszy w otwartej walce działo z krążownika Königsberg.
 
 ## Stara stolica
 

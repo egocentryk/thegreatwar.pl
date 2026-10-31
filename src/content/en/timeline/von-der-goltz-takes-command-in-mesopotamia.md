@@ -2,10 +2,10 @@
 title: Von der Goltz takes command in Mesopotamia
 summary: On 12 December 1915 Field Marshal Colmar von der Goltz reached Nureddin's headquarters before besieged Kut and forbade further assaults, opting for a blockade.
 source: von-der-goltz-dowodca-w-mezopotamii
-sourceHash: bae1fee36ff30b7d998f1979783d4d1eb7b561da
+sourceHash: ffe45efe4a4f3b9b35dd3eb4d6951ac33726cab0
 ---
 
-On 12 December 1915 the German Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz), commander of the Ottoman Sixth Army, arrived at the headquarters of Colonel [Nureddin Bey](/postacie/nureddin-pasza) before [Kut](https://pl.wikipedia.org/wiki/Al-Kut). For several days the Turks had been besieging there General Charles Townshend's British division, which after the [battle of Ctesiphon](/bitwy/bitwa-pod-ktezyfonem) had [fallen back](/odwrot-spod-ktezyfonu) as far as this town on the Tigris. The date is given by Lieutenant-Colonel Hans von Kiesling, a German officer on Goltz's staff, whom the British official history cites. The day of the field marshal's arrival in [Baghdad](/miejsca/bagdad) is less certain. Some accounts, based on Turkish sources, give 21 December, which is hard to reconcile with Kiesling's account. The British chronology of the war places his assumption of command on 24 November, when Goltz was still on his way.
+On 12 December 1915 the German Field Marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz), commander of the Ottoman Sixth Army, arrived at the headquarters of Colonel [Nureddin Bey](/postacie/nureddin-pasza) before [Kut](/miejsca/al-kut). For several days the Turks had been besieging there General Charles Townshend's British division, which after the [battle of Ctesiphon](/bitwy/bitwa-pod-ktezyfonem) had [fallen back](/odwrot-spod-ktezyfonu) as far as this town on the Tigris. The date is given by Lieutenant-Colonel Hans von Kiesling, a German officer on Goltz's staff, whom the British official history cites. The day of the field marshal's arrival in [Baghdad](/miejsca/bagdad) is less certain. Some accounts, based on Turkish sources, give 21 December, which is hard to reconcile with Kiesling's account. The British chronology of the war places his assumption of command on 24 November, when Goltz was still on his way.
 
 ## A long journey
 

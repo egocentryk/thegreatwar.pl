@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 czerwca 1915 roku zakończył się pierwszy aliancki marsz na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde) w [Kamerunie Niemieckim](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Według raportu generała Charlesa Dobella, dowódcy brytyjsko-francuskiej wyprawy, dopiero tego dnia ustały ataki Niemców na wycofujące się wojska, a alianckie posterunki umocniły się w Ngwe i nad rzeką Kele w So Dibanga, czyli tam, skąd w kwietniu i maju zaczynał się marsz. O wstrzymaniu natarcia Dobell [zdecydował 7 czerwca](/alianci-rezygnuja-z-marszu-na-jaunde), ale odwrót okazał się trudniejszy niż ostatnie tygodnie natarcia.
+28 czerwca 1915 roku zakończył się pierwszy aliancki marsz na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde) w [Kamerunie Niemieckim](/miejsca/kamerun). Według raportu generała Charlesa Dobella, dowódcy brytyjsko-francuskiej wyprawy, dopiero tego dnia ustały ataki Niemców na wycofujące się wojska, a alianckie posterunki umocniły się w Ngwe i nad rzeką Kele w So Dibanga, czyli tam, skąd w kwietniu i maju zaczynał się marsz. O wstrzymaniu natarcia Dobell [zdecydował 7 czerwca](/alianci-rezygnuja-z-marszu-na-jaunde), ale odwrót okazał się trudniejszy niż ostatnie tygodnie natarcia.
 
 ## Utracony konwój
 

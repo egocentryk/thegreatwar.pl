@@ -2,10 +2,10 @@
 title: Capitulation of Garua
 summary: On 10 June 1915, after a failed breakout and a mutiny of his African troops, Capt. von Crailsheim gave up Garua unconditionally. The Allies took 37 Germans.
 source: kapitulacja-garui
-sourceHash: 377fdc5ec82b14a54bd3097d85272057add9a1f5
+sourceHash: e2765d42a53b3b8a1844078886452054ea0397b6
 ---
 
-On 10 June 1915 Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)), the German fortress on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river in the north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), capitulated. The commandant of the fortress, Captain von Crailsheim, surrendered unconditionally to the British and French troops of Lieutenant-Colonel Frederick Cunliffe and Colonel Brisset, who since 31 May had been [shelling the forts with heavy guns](/poczatek-oblezenia-garui) and approaching them by trenches.
+On 10 June 1915 Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)), the German fortress on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river in the north of [German Kamerun](/miejsca/kamerun), capitulated. The commandant of the fortress, Captain von Crailsheim, surrendered unconditionally to the British and French troops of Lieutenant-Colonel Frederick Cunliffe and Colonel Brisset, who since 31 May had been [shelling the forts with heavy guns](/poczatek-oblezenia-garui) and approaching them by trenches.
 
 By 6 June the besiegers had cut the garrison off from all supplies, and local people reported a shortage of food in the fortress. On the morning of 10 June the Allied trenches were only about a thousand yards (less than a kilometre) from Fort A. It was then that Cunliffe learned that the night before the Germans had left the fortress in full strength, with their transport and ammunition, and had tried to cross the Benue. The river, however, was in flood, fifteen men drowned and Crailsheim turned back. Cunliffe ordered his mounted units to close the ring around the forts and a British company to occupy the south bank of the river. After 1.15 p.m. the Allied heavy guns, especially a French 95 mm gun, again opened fire on the German positions.
 

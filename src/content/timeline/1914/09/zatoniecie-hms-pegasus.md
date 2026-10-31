@@ -15,7 +15,7 @@ draft: false
 
 ## Okręt w naprawie
 
-Pegasus był starym, niewielkim [krążownikiem pancernopokładowym](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy), zbudowanym pod koniec XIX wieku. Od początku wojny wraz z innymi okrętami patrolował wybrzeże [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) i uczestniczył w działaniach, które zapoczątkował [sierpniowy ostrzał Dar es Salaam](/poczatek-dzialan-wojennych-w-afryce-wschodniej). We wrześniu jego wyeksploatowane kotły i maszyny wymagały pilnego remontu. Dowódca, komandor John Ingles, zawinął więc do Zanzibaru, brytyjskiego protektoratu u wybrzeży Afryki, i rozpoczął naprawę. Okręt stał w porcie z rozebraną częścią maszyn, niezdolny do szybkiego wyjścia w morze.
+Pegasus był starym, niewielkim [krążownikiem pancernopokładowym](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy), zbudowanym pod koniec XIX wieku. Od początku wojny wraz z innymi okrętami patrolował wybrzeże [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska) i uczestniczył w działaniach, które zapoczątkował [sierpniowy ostrzał Dar es Salaam](/poczatek-dzialan-wojennych-w-afryce-wschodniej). We wrześniu jego wyeksploatowane kotły i maszyny wymagały pilnego remontu. Dowódca, komandor John Ingles, zawinął więc do Zanzibaru, brytyjskiego protektoratu u wybrzeży Afryki, i rozpoczął naprawę. Okręt stał w porcie z rozebraną częścią maszyn, niezdolny do szybkiego wyjścia w morze.
 
 Königsberg, dowodzony przez komandora Maxa Looffa, od początku wojny krążył po zachodniej części Oceanu Indyjskiego. Już 6 sierpnia zatopił brytyjski statek handlowy City of Winchester. Looff dowiedział się, że w Zanzibarze stoi brytyjski okręt, i postanowił go zaatakować.
 

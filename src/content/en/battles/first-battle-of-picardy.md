@@ -9,14 +9,14 @@ sides:
     commanders: [Erich von Falkenhayn, Alexander von Kluck, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. Neither side outflanked the enemy's wing, and the front settled between the Oise and the Somme. The fighting moved further north.
 source: pierwsza-bitwa-w-pikardii
-sourceHash: f38ff9e5033432e5ec2d1f7ff3c7629e9d9683c4
+sourceHash: 96c899a5f177b8a74d9d4cdc18e08be18b340365
 ---
 
 The First Battle of [Picardy](https://pl.wikipedia.org/wiki/Pikardia), fought on 22–26 September 1914, was the first major clash of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). The French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) tried to outflank from the west the open wing of the German armies, which had halted on the Aisne. It ran, however, into German corps being moved to the same area with an identical intention. Instead of an outflanking manoeuvre there was a series of frontal clashes, after which the front shifted another section northwards.
 
 ## Dates of the battle
 
-On this page we adopt the dates 22–26 September 1914, given by French historiography (French *bataille de Picardie*) and most modern studies. The limits are, however, conventional. Fighting north of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) had been going on since about 17 September, when the French Sixth Army tried to outflank the German wing around [Noyon](https://pl.wikipedia.org/wiki/Noyon), and the clashes at Roye and Lassigny dragged on into the beginning of October. From 25 September the main weight of the fighting shifted further north, to the area of Albert and Bapaume. That fighting is usually described as a separate [Battle of Albert](/bitwy/pierwsza-bitwa-pod-albert).
+On this page we adopt the dates 22–26 September 1914, given by French historiography (French *bataille de Picardie*) and most modern studies. The limits are, however, conventional. Fighting north of the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) had been going on since about 17 September, when the French Sixth Army tried to outflank the German wing around [Noyon](/miejsca/noyon), and the clashes at Roye and Lassigny dragged on into the beginning of October. From 25 September the main weight of the fighting shifted further north, to the area of Albert and Bapaume. That fighting is usually described as a separate [Battle of Albert](/bitwy/pierwsza-bitwa-pod-albert).
 
 ## Background: the open wing
 
@@ -34,7 +34,7 @@ In this contest for the flank much depended on the railways. The French had thei
 
 **22 September.** The French Second Army moved off east and north-east, crossing the small river Avre. Its corps advanced on a line from [Lassigny](https://pl.wikipedia.org/wiki/Lassigny) through [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) to [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes). Facing them were the German II Corps, which had only just arrived from the Aisne, and IX Reserve Corps, forming the extreme right wing of Kluck's army. The French managed to push the Germans out of some positions, but resistance grew by the hour.
 
-**23–24 September.** New German forces reached the battlefield. XVIII Corps, taken from the front at Reims, covered several dozen kilometres in a forced march and together with II Corps launched a counter-attack. The heaviest fighting took place around Roye, Lassigny and on the roads leading to [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)). The French had to give up some of the ground they had gained. On the northern wing their cavalry and territorial divisions were unable to hold on east of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)).
+**23–24 September.** New German forces reached the battlefield. XVIII Corps, taken from the front at Reims, covered several dozen kilometres in a forced march and together with II Corps launched a counter-attack. The heaviest fighting took place around Roye, Lassigny and on the roads leading to [Péronne](/miejsca/peronne). The French had to give up some of the ground they had gained. On the northern wing their cavalry and territorial divisions were unable to hold on east of the [Somme](/miejsca/somma).
 
 **25–26 September.** The attacking strength of both sides was exhausted. The French halted the German counter-attacks, and the troops of both sides began to dig in. After further local clashes at the turn of September and October the front settled on a line running roughly from Ribécourt on the Oise through the area of Lassigny and Roye northwards, towards the Somme. By then the corps of the German 6th Army were already arriving north of the Somme, and the French Second Army was extending its line towards Albert. There, from 25 September, another battle began.
 
@@ -44,6 +44,6 @@ Losses in this battle cannot be established precisely. The fighting merged smoot
 
 ## Significance
 
-The First Battle of Picardy brought no decision, but it set the pattern for the following weeks. Every attempt to outflank the enemy ended in a frontal clash with fresh forces arriving from the opposite side, and the new section of the front froze into trenches. After Picardy came the turn of Albert, then [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), and in October Flanders. The race ended only on the North Sea coast.
+The First Battle of Picardy brought no decision, but it set the pattern for the following weeks. Every attempt to outflank the enemy ended in a frontal clash with fresh forces arriving from the opposite side, and the new section of the front froze into trenches. After Picardy came the turn of Albert, then [Arras](/miejsca/arras), and in October Flanders. The race ended only on the North Sea coast.
 
 The line that settled in Picardy at the end of September 1914 survived in little-changed form until the spring of 1917, when the Germans withdrew to the previously prepared Hindenburg Line. These lands again became the scene of great battles in 1918, during the German spring offensive and the Allied offensive that brought the war to an end.

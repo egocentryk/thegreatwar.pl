@@ -2,10 +2,10 @@
 title: Serbian government moves to Brindisi
 summary: In mid-January 1916 Pašić's government left threatened Scutari and sailed to Brindisi in Italy. A few days later it moved on from there to Corfu.
 source: rzad-serbski-przenosi-sie-do-brindisi
-sourceHash: ce00d1ee4f170950a7233a5ca9991de98e05e0ed
+sourceHash: d2138f8705a3efc8498ff791279223977bc304eb
 ---
 
-The British chronology of the war records under 15 January 1916 the transfer of the Serbian government to [Brindisi](https://pl.wikipedia.org/wiki/Brindisi) in Italy. Since the beginning of December 1915 Prime Minister [Nikola Pašić](/postacie/nikola-pasic) and his ministers had been [working in Scutari](/rzad-serbski-w-szkodrze), in northern Albania, which they had reached after the retreat through the mountains. According to the historian of Albania Owen Pearson, the ministers and the diplomatic corps boarded the Italian ship *Città di Bari* at San Giovanni di Medua on 14 January, and it took them to Brindisi. French chronological tables also state that the government left Scutari on 14 January. A dispatch from Brindisi of 17 January, published in the "New York Times", reported that several dozen members of the government and officials had arrived there from Scutari, together with the ministers of the Allied powers accredited to the King of Serbia.
+The British chronology of the war records under 15 January 1916 the transfer of the Serbian government to [Brindisi](/miejsca/brindisi) in Italy. Since the beginning of December 1915 Prime Minister [Nikola Pašić](/postacie/nikola-pasic) and his ministers had been [working in Scutari](/rzad-serbski-w-szkodrze), in northern Albania, which they had reached after the retreat through the mountains. According to the historian of Albania Owen Pearson, the ministers and the diplomatic corps boarded the Italian ship *Città di Bari* at San Giovanni di Medua on 14 January, and it took them to Brindisi. French chronological tables also state that the government left Scutari on 14 January. A dispatch from Brindisi of 17 January, published in the "New York Times", reported that several dozen members of the government and officials had arrived there from Scutari, together with the ministers of the Allied powers accredited to the King of Serbia.
 
 ## Why they had to flee
 

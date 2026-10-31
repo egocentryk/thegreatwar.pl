@@ -40,7 +40,7 @@ Rano 9 września lotnicy donieśli, że brytyjskie kolumny przekraczają Marnę 
 
 ## Decyzja w Mareuil
 
-Hentsch dotarł do Mareuil około 11.30 (niektóre źródła podają późniejszą godzinę). Nie rozmawiał z samym Kluckiem, lecz z jego szefem sztabu, generałem Hermannem von Kuhlem. Przedstawił mu położenie 2 Armii i oświadczył, w imieniu naczelnego dowództwa, że 1 Armia musi się wycofać. Kuhl był zaskoczony. Nad Ourcq jego wojska właśnie nacierały na lewe skrzydło Maunoury'ego i sądził, że zwycięstwo jest blisko. Wobec odwrotu Bülowa i luki na lewym skrzydle nie miał jednak wyjścia. Około 14.00 1 Armia otrzymała rozkaz odwrotu na północ, w stronę [Soissons](https://pl.wikipedia.org/wiki/Soissons) i rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)).
+Hentsch dotarł do Mareuil około 11.30 (niektóre źródła podają późniejszą godzinę). Nie rozmawiał z samym Kluckiem, lecz z jego szefem sztabu, generałem Hermannem von Kuhlem. Przedstawił mu położenie 2 Armii i oświadczył, w imieniu naczelnego dowództwa, że 1 Armia musi się wycofać. Kuhl był zaskoczony. Nad Ourcq jego wojska właśnie nacierały na lewe skrzydło Maunoury'ego i sądził, że zwycięstwo jest blisko. Wobec odwrotu Bülowa i luki na lewym skrzydle nie miał jednak wyjścia. Około 14.00 1 Armia otrzymała rozkaz odwrotu na północ, w stronę [Soissons](/miejsca/soissons) i rzeki [Aisne](/miejsca/aisne).
 
 ## Brytyjczycy nad Marną
 

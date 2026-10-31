@@ -2,10 +2,10 @@
 title: Austrians occupy Belgrade
 summary: On 2 December 1914 Austro-Hungarian troops took abandoned Belgrade without a fight. The same day the Serbian command issued the order for a counter-offensive.
 source: austriacy-zajmuja-belgrad
-sourceHash: ee9fb51d9d13594cbbeb291831fd050f4d7757eb
+sourceHash: 936c945e1c4e694339c196f34ebf06a5a2f1bd16
 ---
 
-On 2 December 1914 Austro-Hungarian troops occupied [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). Serbian units had [left the capital two days earlier](/serbowie-opuszczaja-belgrad), so the city passed into enemy hands without a fight. The British chronology of the war states that the Austrians crossed the Danube to do so. In fact the first units crossed from [Semlin](https://pl.wikipedia.org/wiki/Zemun), which lies opposite Belgrade, over the mouth of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), which flows into the [Danube](https://pl.wikipedia.org/wiki/Dunaj) beneath the walls of the fortress.
+On 2 December 1914 Austro-Hungarian troops occupied [Belgrade](/miejsca/belgrad). Serbian units had [left the capital two days earlier](/serbowie-opuszczaja-belgrad), so the city passed into enemy hands without a fight. The British chronology of the war states that the Austrians crossed the Danube to do so. In fact the first units crossed from [Semlin](https://pl.wikipedia.org/wiki/Zemun), which lies opposite Belgrade, over the mouth of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), which flows into the [Danube](https://pl.wikipedia.org/wiki/Dunaj) beneath the walls of the fortress.
 
 ## The night crossing
 

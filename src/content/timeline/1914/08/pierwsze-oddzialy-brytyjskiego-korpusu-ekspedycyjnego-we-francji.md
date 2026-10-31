@@ -15,7 +15,7 @@ draft: false
 
 ## Przygotowania na miejscu
 
-Zanim do Francji mogły przypłynąć dziesiątki tysięcy żołnierzy z końmi, działami i zaopatrzeniem, trzeba było przygotować porty, magazyny, obozy i transport kolejowy. Tym zajęły się pierwsze oddziały i oficerowie sztabowi. Głównymi portami wyładunkowymi stały się [Hawr](https://pl.wikipedia.org/wiki/Hawr), [Boulogne-sur-Mer](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) i [Rouen](https://pl.wikipedia.org/wiki/Rouen). Wojska wypływały głównie z [Southampton](https://pl.wikipedia.org/wiki/Southampton).
+Zanim do Francji mogły przypłynąć dziesiątki tysięcy żołnierzy z końmi, działami i zaopatrzeniem, trzeba było przygotować porty, magazyny, obozy i transport kolejowy. Tym zajęły się pierwsze oddziały i oficerowie sztabowi. Głównymi portami wyładunkowymi stały się [Hawr](/miejsca/hawr), [Boulogne-sur-Mer](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) i [Rouen](https://pl.wikipedia.org/wiki/Rouen). Wojska wypływały głównie z [Southampton](https://pl.wikipedia.org/wiki/Southampton).
 
 ## Przeprawa
 

@@ -2,10 +2,10 @@
 title: Secret alliance between Germany and the Ottoman Empire
 summary: Contemporary chronicles record the secret alliance of Germany and Turkey under 4 August 1914. The treaty had in fact been signed in Constantinople on 2 August.
 source: tajny-sojusz-niemiec-i-imperium-osmanskiego
-sourceHash: c227d6b9bea8f498dd12485065772adda5912c87
+sourceHash: 058a70adc756ced65280e3dbf0f6ecac164cb348
 ---
 
-British chronicles of the war recorded the conclusion of a secret alliance between [Germany](/kraje/niemcy) and the [Ottoman Empire](/kraje/imperium-osmanskie) under the date of 4 August 1914. In fact the treaty had been signed two days earlier, on 2 August, in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol), the day after Germany declared war on Russia. It was signed on the German side by the ambassador, Baron Hans von Wangenheim, and on the Ottoman side by the Grand Vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
+British chronicles of the war recorded the conclusion of a secret alliance between [Germany](/kraje/niemcy) and the [Ottoman Empire](/kraje/imperium-osmanskie) under the date of 4 August 1914. In fact the treaty had been signed two days earlier, on 2 August, in [Constantinople](/miejsca/konstantynopol), the day after Germany declared war on Russia. It was signed on the German side by the ambassador, Baron Hans von Wangenheim, and on the Ottoman side by the Grand Vizier, [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
 
 ## The road to the treaty
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-17 października 1918 roku wojska niemieckie, cofające się na całym froncie od Morza Północnego po Douai, oddały bez walki trzy miasta, które okupowały od jesieni 1914 roku: belgijski port [Ostendę](https://pl.wikipedia.org/wiki/Ostenda) oraz francuskie [Douai](https://pl.wikipedia.org/wiki/Douai) i [Lille](https://pl.wikipedia.org/wiki/Lille). Odwrót wymusiły zwycięstwa sprzymierzonych na obu skrzydłach. We Flandrii trzy dni wcześniej ruszyła [ofensywa grupy armii króla Alberta](/bitwy/bitwa-pod-kortrijk), a na południu Brytyjczycy przełamali Linię Hindenburga i zbliżali się do Le Cateau. 16 października niemieckie naczelne dowództwo zgodziło się na odwrót armii stojących między wybrzeżem a Douai na nową linię obrony, pozycję Hermanna.
+17 października 1918 roku wojska niemieckie, cofające się na całym froncie od Morza Północnego po Douai, oddały bez walki trzy miasta, które okupowały od jesieni 1914 roku: belgijski port [Ostendę](/miejsca/ostenda) oraz francuskie [Douai](/miejsca/douai) i [Lille](https://pl.wikipedia.org/wiki/Lille). Odwrót wymusiły zwycięstwa sprzymierzonych na obu skrzydłach. We Flandrii trzy dni wcześniej ruszyła [ofensywa grupy armii króla Alberta](/bitwy/bitwa-pod-kortrijk), a na południu Brytyjczycy przełamali Linię Hindenburga i zbliżali się do Le Cateau. 16 października niemieckie naczelne dowództwo zgodziło się na odwrót armii stojących między wybrzeżem a Douai na nową linię obrony, pozycję Hermanna.
 
 ## Ostenda
 

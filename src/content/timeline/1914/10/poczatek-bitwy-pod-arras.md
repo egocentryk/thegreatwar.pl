@@ -17,7 +17,7 @@ brief:
   - "Francuski plan obejścia okazał się nie do wykonania i Maud'huy musiał bronić samego Arras. Wsie na wschód od miasta odbili dopiero Brytyjczycy w kwietniu 1917 roku."
 ---
 
-1 października 1914 roku rozpoczęła się [bitwa pod Arras](https://pl.wikipedia.org/wiki/Bitwa_pod_Arras_(1914)). Tego dnia na odcinku między [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) a Douai niemal jednocześnie weszły do walki trzy korpusy niemieckiej 6 Armii. Natrafiły na francuskie zgrupowanie generała Louisa de Maud'huy, które samo szykowało się do natarcia. Zamiast obejść skrzydło przeciwnika, Francuzi musieli bronić Arras.
+1 października 1914 roku rozpoczęła się [bitwa pod Arras](https://pl.wikipedia.org/wiki/Bitwa_pod_Arras_(1914)). Tego dnia na odcinku między [Arras](/miejsca/arras) a Douai niemal jednocześnie weszły do walki trzy korpusy niemieckiej 6 Armii. Natrafiły na francuskie zgrupowanie generała Louisa de Maud'huy, które samo szykowało się do natarcia. Zamiast obejść skrzydło przeciwnika, Francuzi musieli bronić Arras.
 
 ## Nazwa i daty
 

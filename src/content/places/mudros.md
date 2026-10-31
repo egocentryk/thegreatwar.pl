@@ -14,7 +14,7 @@ front: Bliski Wschód
 lat: 39.85
 lon: 25.27
 radiusKm: 20
-wikiTitles: ["Mudros"]
+wikiTitles: ["Mudros", "Limnos"]
 updated: 2026-10-31
 authors: [Natalia]
 sources:

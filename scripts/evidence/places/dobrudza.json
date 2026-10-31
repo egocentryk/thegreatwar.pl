@@ -1,0 +1,66 @@
+{"slug": "dobrudza", "paragraphs": [
+ {"start": "Dobrudża, kraina między dolnym Dunajem a Morzem",
+  "quotes": [
+   {"url": "https://en.wikipedia.org/wiki/Dobruja", "quote": "It is situated between the lower Danube River and the Black Sea"},
+   {"url": "https://en.wikipedia.org/wiki/Dobruja", "quote": "In August 1913, after the Second Balkan War, Bulgaria lost Southern Dobruja"},
+   {"file": "src/content/countries/bulgaria.md", "quote": "1 września 1916 roku Bułgaria wypowiedziała wojnę Rumunii, by odzyskać Dobrudżę."},
+   {"file": "src/content/timeline/1918/12/bulgarzy-opuszczaja-dobrudze.md", "quote": "Kraina między dolnym Dunajem a Morzem Czarnym była pod okupacją od jesieni 1916 roku, gdy wojska niemieckie, bułgarskie i tureckie pod wodzą Augusta von Mackensena wkroczyły do niej od południa. Na początku stycznia 1917 roku ostatni Rosjanie wycofali się za Dunaj. Według pokoju bukareszteńskiego z maja 1918 roku Bułgaria odzyskiwała południową Dobrudżę"},
+   {"file": "src/content/timeline/1916/09/bulgaria-wypowiada-wojne-rumunii.md", "quote": "Klęska państw centralnych oddała ją jednak z powrotem Rumunii."}
+  ]},
+ {"start": "Północna Dobrudża z Konstancą, głównym portem",
+  "quotes": [
+   {"url": "https://revista.acadsudest.ro/sites/default/files/sites/default/files/articole/2022_12_Cain.pdf", "quote": "The inhabitants of Northern Dobruja were granted the right to vote at the 1912 elections, after more than three decades they had been under Romanian administration"},
+   {"file": "src/content/timeline/1916/10/bulgarzy-i-niemcy-zdobywaja-konstance.md", "quote": "głównego portu Rumunii nad Morzem Czarnym"},
+   {"file": "src/content/timeline/1916/09/bulgaria-wypowiada-wojne-rumunii.md", "quote": "W 1913 roku, w czasie II wojny bałkańskiej, Rumunia wkroczyła do Bułgarii, gdy jej armia walczyła z Serbami i Grekami, a traktat w Bukareszcie oddał Rumunom południową Dobrudżę, nazywaną przez nich Kadrylaterem. Był to obszar ponad 7 tysięcy kilometrów kwadratowych z Silistrą, Tutrakanem, Bazardżikiem (dzisiejszym Dobriczem)"},
+   {"file": "src/content/timeline/1918/06/dymisja-radoslawowa.md", "quote": "a we wrześniu 1915 roku podpisał w Sofii sojusz z Niemcami, który wprowadził Bułgarię do wojny"},
+   {"file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md", "quote": "Gdyby do wojny przeciw Bułgarii lub jej sojusznikom przystąpiła Rumunia, Bułgaria mogła odzyskać Dobrudżę utraconą w 1913 roku."}
+  ]},
+ {"start": "Konwencja wojskowa z Ententą obiecywała Rumunii",
+  "quotes": [
+   {"file": "src/content/timeline/1916/08/rosjanie-wkraczaja-do-dobrudzy.md", "quote": "Rosyjską pomoc dla Dobrudży przewidywała konwencja wojskowa, którą Rumunia podpisała z Ententą 17 sierpnia: w chwili mobilizacji Rosja miała wysłać tam dwie dywizje piechoty i dywizję kawalerii. Było to znacznie mniej, niż Rumuni chcieli."},
+   {"file": "src/content/timeline/1916/08/rosjanie-wkraczaja-do-dobrudzy.md", "quote": "27 sierpnia 1916 roku, w dniu, w którym Rumunia wypowiedziała wojnę Austro-Węgrom, pierwszy rosyjski oddział przeprawił się przez Dunaj pod Isaccea i wkroczył do Dobrudży."},
+   {"file": "src/content/timeline/1916/08/rosjanie-wkraczaja-do-dobrudzy.md", "quote": "Na czele nowego 47 Korpusu stanął generał Andriej Zajonczkowski."},
+   {"file": "src/content/timeline/1916/08/rosjanie-wkraczaja-do-dobrudzy.md", "quote": "z jeńców wziętych przez Rosjan z armii austro-węgierskiej"},
+   {"file": "src/content/timeline/1916/08/rosjanie-wkraczaja-do-dobrudzy.md", "quote": "Zajonczkowski pisał później, że cały rumuński plan wojny opierał się na błędnym założeniu, iż Bułgaria nie wypowie Rumunii wojny."}
+  ]},
+ {"start": "W nocy z 1 na 2 września bułgarska 3 Armia",
+  "quotes": [
+   {"file": "src/content/timeline/1916/09/panstwa-centralne-wkraczaja-do-dobrudzy.md", "quote": "W nocy z 1 na 2 września 1916 bułgarska 3 Armia Toszewa przekroczyła granicę Dobrudży na całej długości i rozdzieliła rumuńskie garnizony."},
+   {"file": "src/content/countries/rumunia.md", "quote": "6 września skapitulowała twierdza Tutrakan, a do niewoli trafiło około 28 tysięcy Rumunów. Klęska wstrząsnęła krajem i ofensywę w Siedmiogrodzie wstrzymano."},
+   {"file": "src/content/timeline/1916/09/niemcy-i-bulgarzy-zdobywaja-silistre.md", "quote": "Rumuni opuścili miasto bez walki, a zwycięzcy weszli do pustej twierdzy."},
+   {"file": "src/content/timeline/1916/09/niemcy-i-bulgarzy-zdobywaja-silistre.md", "quote": "Tego samego dnia rumuńskie dowództwo utworzyło z nich osobną armię Dobrudży pod dowództwem Zajonczkowskiego"},
+   {"file": "src/content/timeline/1916/10/bulgarzy-i-niemcy-zdobywaja-konstance.md", "quote": "front w Dobrudży zatrzymał się na linii od Rasovej nad Dunajem przez Cobadin i Topraisar po jezioro Tuzla nad morzem, kilkanaście kilometrów na południe od linii kolejowej z Cernavodă do Konstancy"}
+  ]},
+ {"start": "Druga ofensywa Mackensena ruszyła 19 października.",
+  "quotes": [
+   {"file": "src/content/timeline/1916/10/bulgarzy-i-niemcy-zdobywaja-konstance.md", "quote": "Ofensywa ruszyła 19 października o świcie"},
+   {"file": "src/content/timeline/1916/10/bulgarzy-i-niemcy-zdobywaja-konstance.md", "quote": "22 października 1916 roku około południa do Konstancy, głównego portu Rumunii nad Morzem Czarnym, weszły kolumny piechoty niemieckiej i bułgarskiej oraz bułgarska kawaleria. Miasto było puste. Wojska rumuńskie i rosyjskie wycofały się z niego poprzedniej nocy, a nad portem unosił się dym."},
+   {"file": "src/content/timeline/1916/10/bulgarzy-zdobywaja-cernavode.md", "quote": "Tak czy inaczej przeprawa została przerwana, a Dunaj oddzielił odtąd Dobrudżę od reszty kraju."},
+   {"file": "src/content/timeline/1917/01/koniec-walk-w-dobrudzy.md", "quote": "Mackensen zostawił tu tylko bułgarską 3 Armię z tureckim VI Korpusem, a resztę wojsk przerzucił nad Dunaj, skąd uderzył na Bukareszt."},
+   {"file": "src/content/timeline/1917/01/koniec-walk-w-dobrudzy.md", "quote": "5 stycznia 1917 roku ostatnie oddziały rosyjskie przeprawiły się przez Dunaj pod Văcăreni do Besarabii, a Dobrudża, poza deltą Dunaju, znalazła się w całości w rękach państw centralnych."}
+  ]},
+ {"start": "Wojna w Dobrudży była też wojną sąsiadów.",
+  "quotes": [
+   {"file": "src/content/timeline/1916/09/panstwa-centralne-wkraczaja-do-dobrudzy.md", "quote": "Według źródeł bułgarskich rumuńskie władze już w sierpniu zaczęły internować w głębi kraju Bułgarów i Turków z Dobrudży uznanych za nielojalnych."},
+   {"url": "https://www.bta.bg/en/news/962237-september-7-1940-under-treaty-of-craiova-romania-cedes-southern-dobrudzha-bac", "quote": "up to 40,000 peaceful civilians are taken to concentration camps in Moldova"},
+   {"file": "src/content/timeline/1916/09/panstwa-centralne-wkraczaja-do-dobrudzy.md", "quote": "Według Kirițescu bułgarscy mieszkańcy wsi strzelali do rumuńskich żołnierzy i atakowali ich siekierami i widłami, co wywołało surowe represje."},
+   {"file": "src/content/timeline/1916/10/bulgarzy-i-niemcy-zdobywaja-konstance.md", "quote": "Kirițescu, piszący z perspektywy rumuńskiej, opisuje grabieże"},
+   {"file": "src/content/timeline/1917/11/smierc-elsie-inglis.md", "quote": "W sierpniu 1916 roku Inglis popłynęła z nowym oddziałem do Odessy, by leczyć żołnierzy 1 Serbskiej Dywizji Ochotniczej."}
+  ]},
+ {"start": "Bułgarzy uważali całą Dobrudżę za swoją, ale",
+  "quotes": [
+   {"file": "src/content/timeline/1918/05/pokoj-w-bukareszcie.md", "quote": "7 maja 1918 w Bukareszcie rząd Marghilomana podpisał pokój z państwami centralnymi."},
+   {"file": "src/content/timeline/1918/05/pokoj-w-bukareszcie.md", "quote": "Rumunia oddawała Bułgarii południową Dobrudżę, którą zdobyła w 1913 roku po drugiej wojnie bałkańskiej, wraz z „poprawką granicy”, czyli pasem północnej Dobrudży aż mniej więcej po linię Rasova–Agigea. Resztę krainy, aż do Dunaju i jego południowego ramienia Świętego Jerzego, Rumunia cedowała na rzecz wszystkich czterech państw centralnych łącznie."},
+   {"file": "src/content/timeline/1918/06/dymisja-radoslawowa.md", "quote": "Imperium Osmańskie żądało za zgodę na oddanie Bułgarii północnej Dobrudży zwrotu ziem nad Maricą"},
+   {"file": "src/content/timeline/1918/06/dymisja-radoslawowa.md", "quote": "21 czerwca 1918 car Ferdynand powołał rząd Aleksandyra Malinowa. Ustąpił gabinet Radosławowa, który wprowadził Bułgarię do wojny i zawiódł w sprawie Dobrudży."},
+   {"url": "https://en.wikipedia.org/wiki/Treaty_of_Bucharest_(1918)", "quote": "regarding the transfer of the jointly administered zone in Northern Dobruja to Bulgaria, was signed in Berlin on 24 September 1918, by Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria"}
+  ]},
+ {"start": "Na wiele się to nie zdało. Bułgaria podpisała",
+  "quotes": [
+   {"file": "src/content/timeline/1918/12/bulgarzy-opuszczaja-dobrudze.md", "quote": "Po powrocie Rumunii do wojny 10 listopada niewielkie oddziały rumuńskie przeprawiły się z Gałacza i spod Reni do północnej Dobrudży."},
+   {"file": "src/content/timeline/1918/12/bulgarzy-opuszczaja-dobrudze.md", "quote": "Na przełomie listopada i grudnia w Konstancy urzędował już rumuński prefekt D. N. Negulescu."},
+   {"file": "src/content/timeline/1918/12/bulgarzy-opuszczaja-dobrudze.md", "quote": "Brytyjska chronologia wojny notuje pod 3 grudnia 1918 roku, że ostatnie wojska bułgarskie opuściły Dobrudżę."},
+   {"file": "src/content/timeline/1918/12/bulgarzy-opuszczaja-dobrudze.md", "quote": "W południowej Dobrudży, zamieszkanej w większości przez Bułgarów i Turków, rumuńskie władze wracały stopniowo i z trudem. Według meldunku rumuńskiego oficera z 16 grudnia w Bazardżiku urzędników przyjęto z otwartą wrogością. Brytyjska 26 Dywizja zajęła niebawem porty Dobrudży i stacjonowała także w jej południowej części."},
+   {"file": "src/content/timeline/1918/12/bulgarzy-opuszczaja-dobrudze.md", "quote": "Granicę z 1913 roku potwierdził traktat w Neuilly-sur-Seine, podpisany przez Bułgarię 27 listopada 1919 roku."}
+  ]}
+]}

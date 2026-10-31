@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 24 października 1915 roku pierwszą potyczkę pod Krivolakiem w Macedonii. Krivolak był wsią ze stacją kolejową nad [Wardarem](https://pl.wikipedia.org/wiki/Wardar), na linii z [Salonik](/miejsca/saloniki) do Serbii, około 13 kilometrów na wschód od ujścia [Crnej Reki](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) i około 30 kilometrów na południowy wschód od [Wełesu](https://pl.wikipedia.org/wiki/Wełes). W ostatnich dniach października dotarła tu francuska 57 Dywizja Piechoty, najdalej wysunięty oddział sił Ententy, które miały przyjść z pomocą Serbii. Pod Krivolakiem po raz pierwszy zetknęła się z Bułgarami. Przebieg tych pierwszych starć źródła opisują bardzo skąpo i nie zgadzają się co do dat.
+Brytyjska chronologia wojny notuje pod 24 października 1915 roku pierwszą potyczkę pod Krivolakiem w Macedonii. Krivolak był wsią ze stacją kolejową nad [Wardarem](/miejsca/wardar), na linii z [Salonik](/miejsca/saloniki) do Serbii, około 13 kilometrów na wschód od ujścia [Crnej Reki](/miejsca/crna-reka) i około 30 kilometrów na południowy wschód od [Wełesu](https://pl.wikipedia.org/wiki/Wełes). W ostatnich dniach października dotarła tu francuska 57 Dywizja Piechoty, najdalej wysunięty oddział sił Ententy, które miały przyjść z pomocą Serbii. Pod Krivolakiem po raz pierwszy zetknęła się z Bułgarami. Przebieg tych pierwszych starć źródła opisują bardzo skąpo i nie zgadzają się co do dat.
 
 ## Wyścig do Wełesu
 

@@ -2,10 +2,10 @@
 title: British take Amara
 summary: On 3 June 1915 a few British launches carrying Townshend sailed up the Tigris to Amara. Over a thousand Turkish soldiers surrendered to a handful of sailors.
 source: brytyjczycy-zajmuja-al-amare
-sourceHash: d55dea5f624308a0b98191411b3be4ee4017d8f3
+sourceHash: ea988a52d8929647295a616a249de4c6508e7518
 ---
 
-On 3 June 1915 a British river flotilla took [Amara](https://pl.wikipedia.org/wiki/Al-Amara) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) without a fight, about 140 kilometres upriver from Qurna. It was the finale of a pursuit that had begun two days earlier, when the Turks, after the [second battle of Qurna](/bitwy/druga-bitwa-pod-al-kurna), abandoned their positions in the flooded marshes and fled north. The town was taken not by the soldiers of the 6th (Poona) Division but by a few small armed vessels carrying General Charles Townshend, the flotilla commander Captain Wilfrid Nunn, and the chief political officer of the forces in [Mesopotamia](/bitwy/kampania-mezopotamska), Percy Cox. The infantry had been left far behind.
+On 3 June 1915 a British river flotilla took [Amara](https://pl.wikipedia.org/wiki/Al-Amara) on the [Tigris](/miejsca/tygrys) without a fight, about 140 kilometres upriver from Qurna. It was the finale of a pursuit that had begun two days earlier, when the Turks, after the [second battle of Qurna](/bitwy/druga-bitwa-pod-al-kurna), abandoned their positions in the flooded marshes and fled north. The town was taken not by the soldiers of the 6th (Poona) Division but by a few small armed vessels carrying General Charles Townshend, the flotilla commander Captain Wilfrid Nunn, and the chief political officer of the forces in [Mesopotamia](/bitwy/kampania-mezopotamska), Percy Cox. The infantry had been left far behind.
 
 ## A race with the infantry
 
@@ -21,6 +21,6 @@ In the afternoon about two thousand Turkish soldiers, part of the units withdraw
 
 ## The following days
 
-On the morning of 4 June, when the Arabs realised how weak the garrison was and began to loot the town, a battalion of the Norfolk Regiment arrived and restored order. In the afternoon further units came up, and in the evening Nixon reached Amara. The column withdrawing from Arabistan disintegrated, and its remnants, harassed by Arabs, reached [Kut](https://pl.wikipedia.org/wiki/Al-Kut) in small groups. According to the British official history, in the whole operation since 31 May the Turks lost 1,773 prisoners, and the British only four killed and 21 wounded.
+On the morning of 4 June, when the Arabs realised how weak the garrison was and began to loot the town, a battalion of the Norfolk Regiment arrived and restored order. In the afternoon further units came up, and in the evening Nixon reached Amara. The column withdrawing from Arabistan disintegrated, and its remnants, harassed by Arabs, reached [Kut](/miejsca/al-kut) in small groups. According to the British official history, in the whole operation since 31 May the Turks lost 1,773 prisoners, and the British only four killed and 21 wounded.
 
 Amara, a relatively new town of 10,000–12,000 inhabitants, lay on the main trade route to [Persia](https://pl.wikipedia.org/wiki/Iran). It was drier and healthier than Basra, so the British set up military hospitals there. The heat, however, was terrible, and disease quickly decimated the troops. A few days after the victory Townshend himself fell ill and left for treatment in India, and command of the 6th Division was taken over temporarily by General Walter Delamain. Nixon was already preparing the next step, a march on Nasiriyah on the Euphrates.

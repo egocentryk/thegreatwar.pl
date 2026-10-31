@@ -2,10 +2,10 @@
 title: Attack on Mount Banyo
 summary: On 4 November 1915, in fog, four Nigerian companies under Cunliffe attacked the fortified Mount Banyo in Kamerun. At night the Germans threw dynamite at them.
 source: atak-na-gore-banyo
-sourceHash: a7d6c25b49bc994cccf2339a1b7af504e7103954
+sourceHash: 4e20977064e05d17c9394efb430819eb808afc34
 ---
 
-At dawn on 4 November 1915 four infantry companies of the Nigeria Regiment began to climb Mount Banyo in the north-west of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). On its summit and slopes a German garrison had dug in, intending to hold out there until the end of the war. The attack was led by General Frederick Cunliffe, commander of the British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria), who a few weeks earlier had [stormed the mountain above Mora in vain](/nieudany-szturm-na-more). This time he had prepared carefully and was reckoning on a fight lasting several days.
+At dawn on 4 November 1915 four infantry companies of the Nigeria Regiment began to climb Mount Banyo in the north-west of [German Kamerun](/miejsca/kamerun). On its summit and slopes a German garrison had dug in, intending to hold out there until the end of the war. The attack was led by General Frederick Cunliffe, commander of the British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria), who a few weeks earlier had [stormed the mountain above Mora in vain](/nieudany-szturm-na-more). This time he had prepared carefully and was reckoning on a fight lasting several days.
 
 The Nigerians had entered the town of [Banyo](https://pl.wikipedia.org/wiki/Banyo) without a fight as early as 24 October. The Germans did not defend it; instead the whole garrison, about 23 Europeans and 200 African soldiers under Captain Adolf Schipper, took refuge on an isolated mountain a few kilometres to the east. It rose some 370 metres above the surrounding country, and its steep slopes were covered with huge boulders. According to the British official history, the Germans linked them with some three hundred stone walls, built small redoubts on every projecting point and stored grain, cattle and water in cement tanks on the summit. Cunliffe decided that if he wanted to go on south towards [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), he had to risk an assault.
 

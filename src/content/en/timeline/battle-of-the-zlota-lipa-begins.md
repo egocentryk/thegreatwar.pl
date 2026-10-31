@@ -2,10 +2,10 @@
 title: Battle of the Złota Lipa begins
 summary: On 26 August 1914 the Austro-Hungarian Third Army attacked east of Lviv and collided with the much stronger armies of Ruzsky and Brusilov.
 source: poczatek-bitwy-nad-zlota-lipa
-sourceHash: 5dadf867dbbb8a6e7b570a97874987f0cc961172
+sourceHash: 499c3255f8cc49c816572479f179b4a11a725c25
 ---
 
-On 26 August 1914, east of [Lviv](https://pl.wikipedia.org/wiki/Lwów), on the river [Złota Lipa](https://pl.wikipedia.org/wiki/Złota_Lipa), a battle began between the Austro-Hungarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) of General Rudolf von Brudermann and the Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow). It was part of the great [Battle of Galicia](/bitwy/bitwa-galicyjska). In English-language literature this fighting is often called the first Battle of Lemberg or the Battle of the Gniła Lipa.
+On 26 August 1914, east of [Lviv](/miejsca/lwow), on the river [Złota Lipa](https://pl.wikipedia.org/wiki/Złota_Lipa), a battle began between the Austro-Hungarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) of General Rudolf von Brudermann and the Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow). It was part of the great [Battle of Galicia](/bitwy/bitwa-galicyjska). In English-language literature this fighting is often called the first Battle of Lemberg or the Battle of the Gniła Lipa.
 
 ## A weak right wing
 

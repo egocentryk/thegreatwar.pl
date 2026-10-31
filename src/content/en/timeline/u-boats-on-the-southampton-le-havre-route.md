@@ -2,10 +2,10 @@
 title: U-boats on the Southampton–Le Havre route
 summary: On 13 October 1914 a British torpedo boat came upon a German submarine off the Isle of Wight. The Admiralty diverted the Canadian convoy to Plymouth.
 source: u-booty-na-trasie-southampton-hawr
-sourceHash: 5f34831e507bf64b8ad3a06a7982c1b798523e90
+sourceHash: 80d33c38827c27e0c59117537d5628c52df7029c
 ---
 
-On the afternoon of 13 October 1914 the British Torpedo Boat No. 116 of the Portsmouth local defence flotilla sighted a German submarine off the eastern tip of the Isle of [Wight](https://pl.wikipedia.org/wiki/Wight), near Culver Cliff. A British chronicle of the events of the war recorded this as the first appearance of a German submarine on the route from [Southampton](https://pl.wikipedia.org/wiki/Southampton) to [Le Havre](https://pl.wikipedia.org/wiki/Hawr). Southampton was the main port from which troop and supply transports sailed for France, and Le Havre was just becoming the main British base on the Continent again.
+On the afternoon of 13 October 1914 the British Torpedo Boat No. 116 of the Portsmouth local defence flotilla sighted a German submarine off the eastern tip of the Isle of [Wight](https://pl.wikipedia.org/wiki/Wight), near Culver Cliff. A British chronicle of the events of the war recorded this as the first appearance of a German submarine on the route from [Southampton](https://pl.wikipedia.org/wiki/Southampton) to [Le Havre](/miejsca/hawr). Southampton was the main port from which troop and supply transports sailed for France, and Le Havre was just becoming the main British base on the Continent again.
 
 The submarine was little more than a kilometre from the torpedo boat. The British made for it at full speed and opened fire, but the U-boat managed to dive. According to the British official history of the war at sea, it was a matter of a few seconds that prevented it from being rammed. That same day the French reported a submarine near [Cherbourg](https://pl.wikipedia.org/wiki/Cherbourg-en-Cotentin), and a day or two earlier another off Cape [Gris-Nez](https://pl.wikipedia.org/wiki/Cap_Gris-Nez). Even before this, fearing German submarines, the British had [mined part of the sea off the Belgian coast](/brytyjczycy-stawiaja-miny-u-wybrzezy-belgii) to protect the routes across the Channel.
 

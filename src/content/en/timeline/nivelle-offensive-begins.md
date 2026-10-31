@@ -2,7 +2,7 @@
 title: Nivelle offensive begins
 summary: At 6 a.m. on 16 April 1917 the French attacked on the Chemin des Dames. Meant to break through in two days, by evening they were stuck below the ridge.
 source: poczatek-ofensywy-nivellea
-sourceHash: 4003b78814b63344899ca3fffe9adfe7800945cf
+sourceHash: 52f0c41f697c1e470b1b6bc4cd825fbe2c2d52de
 brief:
   - "At six in the morning on 16 April 1917 the French infantry attacked the Chemin des Dames ridge on a front of about 40 kilometres, from Laffaux near Soissons to Courcy near Reims."
   - "General Robert Nivelle promised a breakthrough within 24, or at most 48, hours. Generals Micheler and Pétain were not sure of it, and the Germans had known about the offensive for weeks."
@@ -11,7 +11,7 @@ brief:
   - "By evening the French held in most places only the first line of German trenches, although they took more than 10,000 prisoners. The name Chemin des Dames became in France a symbol of senseless slaughter."
 ---
 
-At six in the morning on 16 April 1917, a cold and misty Monday, the French infantry went over the top on a front of about 40 kilometres, from Laffaux near [Soissons](https://pl.wikipedia.org/wiki/Soissons) to Courcy near [Reims](https://pl.wikipedia.org/wiki/Reims). The main blow of the [Nivelle offensive](/bitwy/ofensywa-nivellea), which France had been awaiting all winter, had begun. Two armies of General Alfred Micheler's Reserve Army Group, General [Charles Mangin](/postacie/charles-mangin)'s Sixth and General Olivier Mazel's Fifth, were to pass with one violent blow through the whole system of German fortifications on the Chemin des Dames ridge and on the plain along the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). The commander-in-chief, General [Robert Nivelle](/postacie/robert-nivelle), promised a breakthrough within 24, or at most 48, hours. In his order to the troops he wrote: "The hour has come! Confidence! Courage! Long live France!"
+At six in the morning on 16 April 1917, a cold and misty Monday, the French infantry went over the top on a front of about 40 kilometres, from Laffaux near [Soissons](/miejsca/soissons) to Courcy near [Reims](/miejsca/reims). The main blow of the [Nivelle offensive](/bitwy/ofensywa-nivellea), which France had been awaiting all winter, had begun. Two armies of General Alfred Micheler's Reserve Army Group, General [Charles Mangin](/postacie/charles-mangin)'s Sixth and General Olivier Mazel's Fifth, were to pass with one violent blow through the whole system of German fortifications on the Chemin des Dames ridge and on the plain along the [Aisne](/miejsca/aisne). The commander-in-chief, General [Robert Nivelle](/postacie/robert-nivelle), promised a breakthrough within 24, or at most 48, hours. In his order to the troops he wrote: "The hour has come! Confidence! Courage! Long live France!"
 
 ## A plan for one day
 

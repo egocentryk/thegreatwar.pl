@@ -2,10 +2,10 @@
 title: Austro-Hungarian raid on Durrës
 summary: On 29 December 1915 the cruiser Helgoland and five destroyers raided Durrës. Two destroyers sank on mines and the rest barely escaped pursuit.
 source: austro-wegierski-rajd-na-durres
-sourceHash: 068dfae3af9e0d3f08fda2a5773b34e2d5236dc0
+sourceHash: a17b08ee2d6c7623f3091980a4e334ce70f62e2a
 ---
 
-On 29 December 1915 the Austro-Hungarian light cruiser [SMS *Helgoland*](https://pl.wikipedia.org/wiki/SMS_Helgoland_(1912)) and five [*Tátra*-class](https://pl.wikipedia.org/wiki/Niszczyciele_typu_Tátra) destroyers again raided the Albanian port of [Durrës](https://pl.wikipedia.org/wiki/Durrës). The [previous raid](/austro-wegierska-eskadra-ostrzeliwuje-durres), on 6 December, had cost the Entente only a few sailing vessels. This time the Italians, who had [occupied the town a few days earlier](/wlosi-obsadzaja-durres), already had batteries on the hills and a minefield off the port. The Austrians sank a steamer and two sailing vessels in the roadstead, and during the night on their way the French submarine *Monge*, but two of their destroyers, *Lika* and *Triglav*, ran onto mines. *Lika* sank at once. The damaged *Triglav* had to be abandoned after several hours under tow. The rest of the force was chased until dusk by British and Italian cruisers from [Brindisi](https://pl.wikipedia.org/wiki/Brindisi).
+On 29 December 1915 the Austro-Hungarian light cruiser [SMS *Helgoland*](https://pl.wikipedia.org/wiki/SMS_Helgoland_(1912)) and five [*Tátra*-class](https://pl.wikipedia.org/wiki/Niszczyciele_typu_Tátra) destroyers again raided the Albanian port of [Durrës](/miejsca/durres). The [previous raid](/austro-wegierska-eskadra-ostrzeliwuje-durres), on 6 December, had cost the Entente only a few sailing vessels. This time the Italians, who had [occupied the town a few days earlier](/wlosi-obsadzaja-durres), already had batteries on the hills and a minefield off the port. The Austrians sank a steamer and two sailing vessels in the roadstead, and during the night on their way the French submarine *Monge*, but two of their destroyers, *Lika* and *Triglav*, ran onto mines. *Lika* sank at once. The damaged *Triglav* had to be abandoned after several hours under tow. The rest of the force was chased until dusk by British and Italian cruisers from [Brindisi](/miejsca/brindisi).
 
 ## A slow alarm
 

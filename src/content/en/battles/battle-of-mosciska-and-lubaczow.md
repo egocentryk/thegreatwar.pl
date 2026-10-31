@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ivanov, Aleksei Brusilov, Leonid Lesh]
 result: Central Powers victory. The Russian positions east of Przemyśl were broken, and Brusilov's 8th Army fell back to the fortified line of the Gródek and the Wereszyca before Lviv.
 source: bitwa-pod-mosciskami-i-lubaczowem
-sourceHash: b41bab30ce340ab20badb354540993f772b8623e
+sourceHash: 2e54c1b9a064059ebead0b1114fb8f7679dc55b5
 ---
 
-The Battle of Mościska and Lubaczów opened the road to Lviv. After the [recapture of Przemyśl](/bitwy/odbicie-przemysla) the Russians halted a dozen or so kilometres east of the fortress, on the hills near [Mościska](https://pl.wikipedia.org/wiki/Mościska) and in the forests along the [Lubaczówka](https://pl.wikipedia.org/wiki/Lubaczówka). General [August von Mackensen](/postacie/august-von-mackensen), who now commanded three armies, the German 11th and the Austro-Hungarian 2nd and 4th, spent more than a week bringing up reinforcements and ammunition. On 12 June 1915 the troops of his left wing crossed the San and the Lubaczówka near [Sieniawa](https://pl.wikipedia.org/wiki/Sieniawa), and on 13 June, after a hurricane bombardment, the attack began along the whole front. After three days of heavy fighting the Russian [8th Army](/sily-zbrojne/8-armia-rosyjska) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) had to fall back to the last fortified line before [Lviv](https://pl.wikipedia.org/wiki/Lwów).
+The Battle of Mościska and Lubaczów opened the road to Lviv. After the [recapture of Przemyśl](/bitwy/odbicie-przemysla) the Russians halted a dozen or so kilometres east of the fortress, on the hills near [Mościska](https://pl.wikipedia.org/wiki/Mościska) and in the forests along the [Lubaczówka](https://pl.wikipedia.org/wiki/Lubaczówka). General [August von Mackensen](/postacie/august-von-mackensen), who now commanded three armies, the German 11th and the Austro-Hungarian 2nd and 4th, spent more than a week bringing up reinforcements and ammunition. On 12 June 1915 the troops of his left wing crossed the San and the Lubaczówka near [Sieniawa](https://pl.wikipedia.org/wiki/Sieniawa), and on 13 June, after a hurricane bombardment, the attack began along the whole front. After three days of heavy fighting the Russian [8th Army](/sily-zbrojne/8-armia-rosyjska) of General [Aleksei Brusilov](/postacie/aleksiej-brusilow) had to fall back to the last fortified line before [Lviv](/miejsca/lwow).
 
 ## Name and dates
 

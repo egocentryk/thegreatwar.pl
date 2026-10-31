@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 września 1914 roku zakończyła się trzydniowa bitwa pod Tarnawką, stoczona na polach kilkanaście kilometrów na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Austro-węgierska 1 Armia generała [Victora Dankla](/postacie/victor-dankl), przełamana przez przeważające siły rosyjskie, zaczęła się wycofywać na południe, w stronę Kraśnika i [Sanu](https://pl.wikipedia.org/wiki/San).
+9 września 1914 roku zakończyła się trzydniowa bitwa pod Tarnawką, stoczona na polach kilkanaście kilometrów na południe od [Lublina](https://pl.wikipedia.org/wiki/Lublin). Austro-węgierska 1 Armia generała [Victora Dankla](/postacie/victor-dankl), przełamana przez przeważające siły rosyjskie, zaczęła się wycofywać na południe, w stronę Kraśnika i [Sanu](/miejsca/san).
 
 ## Przełamanie
 

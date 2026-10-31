@@ -2,10 +2,10 @@
 title: Allies advance on Garua
 summary: In April 1915 Col. Cunliffe brought reinforcements and a naval gun to Garua. The Allies began to tighten the ring around the German fortress in Kamerun.
 source: alianci-ruszaja-na-garue
-sourceHash: c1bab5b0d79f1a278f920bb6f891d032b29fa1bc
+sourceHash: 7315884ea1597475b5cf036d5dbe3ae356117c66
 ---
 
-The British chronology of the war records under 17 April 1915 the start of the Allied operations intended to capture Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)), a German fortress on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river in the north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). In these days Lieutenant-Colonel Frederick Cunliffe was marching on Garua from Nigeria with reinforcements and a heavy gun. According to the British official history of the campaign, he set out from [Yola](https://pl.wikipedia.org/wiki/Yola_(miasto)) on 12 April and reached the camp before Garua on 18 April.
+The British chronology of the war records under 17 April 1915 the start of the Allied operations intended to capture Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)), a German fortress on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river in the north of [German Kamerun](/miejsca/kamerun). In these days Lieutenant-Colonel Frederick Cunliffe was marching on Garua from Nigeria with reinforcements and a heavy gun. According to the British official history of the campaign, he set out from [Yola](https://pl.wikipedia.org/wiki/Yola_(miasto)) on 12 April and reached the camp before Garua on 18 April.
 
 ## A fortress that could not be taken
 

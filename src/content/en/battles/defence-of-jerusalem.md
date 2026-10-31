@@ -9,10 +9,10 @@ sides:
     commanders: [Erich von Falkenhayn, Fevzi Pasha, Ali Fuad Bey]
 result: British victory. The Turkish attack on Jerusalem broke down on 27 December, and by 30 December XX Corps had pushed the front between a few and about ten kilometres north, beyond El Bireh, Ramallah and Beitin.
 source: obrona-jerozolimy
-sourceHash: 9e93f6d2ead50a00e54cfc786bd73ae3b13230f2
+sourceHash: 4a85c07923034ea9be27fdb7fa41f936c3d8db4a
 ---
 
-The Defence of Jerusalem was the last battle of the 1917 Palestine campaign. Two and a half weeks after the surrender of [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima), [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), the German commander of the Ottoman "Yıldırım" Army Group, tried to retake the Holy City. On the night of 26/27 December 1917 Turkish divisions attacked the British positions along the road to [Nablus](https://pl.wikipedia.org/wiki/Nablus), north of the city. The British, however, knew their plan from intercepted wireless messages and from prisoners. Lieutenant-General Sir Philip Chetwode's XX Corps beat off attacks around the hill of Tell el Ful all day, and at the same time, following a plan prepared in advance, struck the western flank of the Turks. The next day it went over to the attack along the whole front, and by 30 December it had driven the Turks back beyond [El Bireh](https://pl.wikipedia.org/wiki/Al-Bira) and [Ramallah](https://pl.wikipedia.org/wiki/Ramallah). Jerusalem was safe.
+The Defence of Jerusalem was the last battle of the 1917 Palestine campaign. Two and a half weeks after the surrender of [Jerusalem](/miejsca/jerozolima), [Erich von Falkenhayn](/postacie/erich-von-falkenhayn), the German commander of the Ottoman "Yıldırım" Army Group, tried to retake the Holy City. On the night of 26/27 December 1917 Turkish divisions attacked the British positions along the road to [Nablus](https://pl.wikipedia.org/wiki/Nablus), north of the city. The British, however, knew their plan from intercepted wireless messages and from prisoners. Lieutenant-General Sir Philip Chetwode's XX Corps beat off attacks around the hill of Tell el Ful all day, and at the same time, following a plan prepared in advance, struck the western flank of the Turks. The next day it went over to the attack along the whole front, and by 30 December it had driven the Turks back beyond [El Bireh](https://pl.wikipedia.org/wiki/Al-Bira) and [Ramallah](https://pl.wikipedia.org/wiki/Ramallah). Jerusalem was safe.
 
 ## Name and dates
 

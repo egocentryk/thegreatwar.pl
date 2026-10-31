@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 sierpnia 1914 roku z [Indii Brytyjskich](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) wyruszył pierwszy oddział Indyjskiego Korpusu Ekspedycyjnego „C”, 29 Pułk Pendżabski. Według ówczesnych kronik był to pierwszy oddział armii indyjskiej, który w tej wojnie opuścił Indie, by walczyć na którymkolwiek froncie. Jego celem była [Brytyjska Afryka Wschodnia](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia).
+19 sierpnia 1914 roku z [Indii Brytyjskich](https://pl.wikipedia.org/wiki/Indie_Brytyjskie) wyruszył pierwszy oddział Indyjskiego Korpusu Ekspedycyjnego „C”, 29 Pułk Pendżabski. Według ówczesnych kronik był to pierwszy oddział armii indyjskiej, który w tej wojnie opuścił Indie, by walczyć na którymkolwiek froncie. Jego celem była [Brytyjska Afryka Wschodnia](/bitwy/kampania-wschodnioafrykanska).
 
 ## Obrona brytyjskiej kolonii
 

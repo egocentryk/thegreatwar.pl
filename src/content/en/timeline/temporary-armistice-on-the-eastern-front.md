@@ -2,10 +2,10 @@
 title: Temporary armistice on the Eastern Front
 summary: On 5 December 1917 at Brest-Litovsk Russia and the Central Powers signed a ten-day ceasefire, from 7 to 17 December. Talks were suspended for a week.
 source: rozejm-tymczasowy-na-froncie-wschodnim
-sourceHash: 386a4ea2949dbc3fdda9ed8e03d97594d9d22548
+sourceHash: 3a8258605c3c07f03fc289c9ca0eaa8fc7397e81
 ---
 
-On 5 December 1917 at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć) the plenipotentiaries of the supreme commands of Germany, Austria-Hungary, Bulgaria and Turkey on the one side and of the Russian supreme command on the other signed a ceasefire along the whole of their common front. Thus ended the [first round of negotiations](/poczatek-rokowan-rozejmowych-w-brzesciu). Fighting was to stop for ten days, and the delegations were to return to the table on 12 December. The British chronology of the war records the armistice under 6 December; it came into force on 7 December, and by 8 December all fighting on the Eastern Front had ceased.
+On 5 December 1917 at [Brest-Litovsk](/miejsca/brzesc) the plenipotentiaries of the supreme commands of Germany, Austria-Hungary, Bulgaria and Turkey on the one side and of the Russian supreme command on the other signed a ceasefire along the whole of their common front. Thus ended the [first round of negotiations](/poczatek-rokowan-rozejmowych-w-brzesciu). Fighting was to stop for ten days, and the delegations were to return to the table on 12 December. The British chronology of the war records the armistice under 6 December; it came into force on 7 December, and by 8 December all fighting on the Eastern Front had ceased.
 
 ## The terms
 

@@ -2,7 +2,7 @@
 title: Battle of the Aisne begins
 summary: On 12 September 1914 the British and French, pursuing the Germans after the Marne, reached the Aisne. The Germans dug in on the heights beyond the river.
 source: poczatek-bitwy-nad-aisne
-sourceHash: e6af79c167e7e166f0389deb62deb927ae32ba41
+sourceHash: 64c91133338948c946b7fc14fd9ea648705fc99a
 brief:
   - "On 12 September 1914 the French and the British Expeditionary Force, pursuing the Germans after the Marne, reached the Aisne. The Germans had stopped retreating and held the heights on the north bank."
   - "The Germans chose a strong position: steep slopes and the Chemin des Dames ridge, which overlooked the whole valley. Joffre, however, believed they were still retreating and ordered the river to be forced."
@@ -11,7 +11,7 @@ brief:
   - "On the Aisne the pursuit after the Marne ended and trench warfare began. Both sides started looking for an open flank further north, setting off the so-called Race to the Sea."
 ---
 
-On 12 September 1914 the French troops and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), which for several days had been pursuing the German armies defeated on the Marne, reached the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) between Compiègne and Berry-au-Bac. There they ran into an enemy who had stopped retreating. The Germans had occupied the heights on the north bank of the river and decided to defend them. Thus began the First Battle of the Aisne, the first great battle of this war in which both sides began to dig into the ground.
+On 12 September 1914 the French troops and the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), which for several days had been pursuing the German armies defeated on the Marne, reached the river [Aisne](/miejsca/aisne) between Compiègne and Berry-au-Bac. There they ran into an enemy who had stopped retreating. The Germans had occupied the heights on the north bank of the river and decided to defend them. Thus began the First Battle of the Aisne, the first great battle of this war in which both sides began to dig into the ground.
 
 ## After the Battle of the Marne
 
@@ -21,7 +21,7 @@ The German command looked for a line on which the pursuit could be halted. It ch
 
 ## 12 September: reaching the river
 
-On 12 September the Allies reached the Aisne along the whole of its middle course. On the left flank the French Sixth Army of General [Michel-Joseph Maunoury](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) was approaching the river on the stretch from Compiègne to [Soissons](https://pl.wikipedia.org/wiki/Soissons), and its African troops entered Soissons, abandoned by the Germans, that day. In the centre the British under Field Marshal [Sir John French](/postacie/john-french) crossed the small river Vesle and, after a day's march in pouring rain, halted on the heights on the south side of the Aisne. In the evening the 11th Brigade of the British 4th Division crossed the damaged bridge at [Venizel](https://pl.wikipedia.org/wiki/Venizel), near Soissons. To the right of the British the French Fifth Army of General [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey) was pressing north towards the Aisne and Reims.
+On 12 September the Allies reached the Aisne along the whole of its middle course. On the left flank the French Sixth Army of General [Michel-Joseph Maunoury](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) was approaching the river on the stretch from Compiègne to [Soissons](/miejsca/soissons), and its African troops entered Soissons, abandoned by the Germans, that day. In the centre the British under Field Marshal [Sir John French](/postacie/john-french) crossed the small river Vesle and, after a day's march in pouring rain, halted on the heights on the south side of the Aisne. In the evening the 11th Brigade of the British 4th Division crossed the damaged bridge at [Venizel](https://pl.wikipedia.org/wiki/Venizel), near Soissons. To the right of the British the French Fifth Army of General [Louis Franchet d'Espérey](/postacie/louis-franchet-d-esperey) was pressing north towards the Aisne and Reims.
 
 The Commander-in-Chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), believed that the Germans were still retreating and that it was enough to continue the pursuit. The orders for 13 September called for forcing the river and pressing on northwards, towards [Laon](https://pl.wikipedia.org/wiki/Laon).
 

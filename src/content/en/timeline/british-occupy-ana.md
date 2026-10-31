@@ -2,10 +2,10 @@
 title: British occupy Ana
 summary: On 28 March 1918 British armoured cars drove unopposed into Ana on the Euphrates, and beyond the town freed two officers whom the Turks had taken prisoner.
 source: brytyjczycy-zajmuja-ane
-sourceHash: 2740739880d900751e5b1f7d868acf56c3ebdb34
+sourceHash: 0bec2b297ed350d72af26aa5f4a1a358374be4bb
 ---
 
-At 8.30 a.m. on 28 March 1918 British [armoured cars](https://pl.wikipedia.org/wiki/Samochód_pancerny) drove unopposed through [Ana](https://pl.wikipedia.org/wiki/Ana), a town on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) about 80 kilometres above Khan al-Baghdadi. Between ten and eleven the 11th Cavalry Brigade of General R.A. Cassels arrived there, together with infantry carried in vans. This was the finale of the pursuit after the [Battle of Khan al-Baghdadi](/bitwy/bitwa-pod-chan-al-baghdadi), in which General Harry Brooking's 15th Division had [encircled](/walki-pod-chan-al-baghdadi) and destroyed the Turkish 50th Division. British troops had never yet got so far up the Euphrates. A British chronology of the war records the town's occupation under 28 March, and F.J. Moberly's official history even gives the hour.
+At 8.30 a.m. on 28 March 1918 British [armoured cars](https://pl.wikipedia.org/wiki/Samochód_pancerny) drove unopposed through [Ana](https://pl.wikipedia.org/wiki/Ana), a town on the [Euphrates](/miejsca/eufrat) about 80 kilometres above Khan al-Baghdadi. Between ten and eleven the 11th Cavalry Brigade of General R.A. Cassels arrived there, together with infantry carried in vans. This was the finale of the pursuit after the [Battle of Khan al-Baghdadi](/bitwy/bitwa-pod-chan-al-baghdadi), in which General Harry Brooking's 15th Division had [encircled](/walki-pod-chan-al-baghdadi) and destroyed the Turkish 50th Division. British troops had never yet got so far up the Euphrates. A British chronology of the war records the town's occupation under 28 March, and F.J. Moberly's official history even gives the hour.
 
 ## The pursuit
 

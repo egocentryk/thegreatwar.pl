@@ -11,7 +11,7 @@ sides:
     commanders: [Helmuth von Moltke, Alexander von Kluck, Karl von Bülow]
 result: Strategic victory for France and the United Kingdom. The Germans withdrew to the Aisne and the plan for a quick defeat of France collapsed.
 source: pierwsza-bitwa-nad-marna
-sourceHash: 80d3a2c32e83f6adef495587f95bcbaf5da07e31
+sourceHash: c996abc9db28b6360006a9bbd5e0571b405bc219
 brief:
   - "The First Battle of the Marne, fought on 6–12 September 1914 on a front from the outskirts of Paris to Verdun, was one of the most important battles of the First World War. Nearly two million soldiers fought in it."
   - "After two weeks of Allied retreat General Kluck turned to pass east of Paris and exposed his flank. General Joffre ordered a general counter-offensive, and Maunoury's Sixth Army struck on the Ourcq."
@@ -70,7 +70,7 @@ The role of Hentsch remains controversial to this day. Some saw him as the man w
 
 ## Retreat to the Aisne
 
-On 9 September the German right wing began to withdraw northwards. In the following days the retreat spread to the armies in the centre and in the east as well. The Allies followed the Germans, but exhausted, without fresh reserves and in dreadful weather, they were unable to turn the enemy's retreat into a rout. By 12–13 September the Germans had fallen back several dozen kilometres, to the heights above the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), and dug in there. Attempts to drive them from these positions in the days that followed failed.
+On 9 September the German right wing began to withdraw northwards. In the following days the retreat spread to the armies in the centre and in the east as well. The Allies followed the Germans, but exhausted, without fresh reserves and in dreadful weather, they were unable to turn the enemy's retreat into a rout. By 12–13 September the Germans had fallen back several dozen kilometres, to the heights above the river [Aisne](/miejsca/aisne), and dug in there. Attempts to drive them from these positions in the days that followed failed.
 
 ## Losses
 

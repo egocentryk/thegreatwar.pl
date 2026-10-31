@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 września 1914 roku zakończyła się obrona Abercorn, dzisiejszej [Mbali](https://pl.wikipedia.org/wiki/Mbala), najdalej na północ wysuniętej placówki brytyjskiej [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna). Od 5 września garstka policjantów [broniła się tu](/obrona-abercorn) przed kilkusetosobowym oddziałem z [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).
+9 września 1914 roku zakończyła się obrona Abercorn, dzisiejszej [Mbali](https://pl.wikipedia.org/wiki/Mbala), najdalej na północ wysuniętej placówki brytyjskiej [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna). Od 5 września garstka policjantów [broniła się tu](/obrona-abercorn) przed kilkusetosobowym oddziałem z [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska).
 
 Tego dnia do Abercorn dotarła wyczekiwana odsiecz: ponad stu żołnierzy Policji Rodezji Północnej pod dowództwem majora Henry'ego Stennetta, którzy przybyli forsownym marszem z głębi kolonii. Załoga wzrosła do około 230 ludzi z trzema karabinami maszynowymi. Gdy Niemcy ponownie zaatakowali, zostali odparci. Według części źródeł ich oddziałem dowodził lekarz wojskowy, Oberarzt Westhofen.
 

@@ -2,10 +2,10 @@
 title: The French take Rethel
 summary: On 6 November 1918 the French entered ruined Rethel on the Aisne. The Germans, threatened along the whole front, were already falling back to the Meuse.
 source: francuzi-zajmuja-rethel
-sourceHash: 9f0932aed7834a5a40e00a8c7640ae1e2a3696ae
+sourceHash: 51adc2ca9f8c28e85f5034b44c201fb82bcd48dc
 ---
 
-On 6 November 1918 French troops entered [Rethel](https://pl.wikipedia.org/wiki/Rethel), a small town on the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) in the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny_(departament)) department. The British chronology of the war records the recapture of Rethel by the French on that day. Most accounts give the same date, although 5 November is also found. The town had been in German hands since 31 August 1914. The Ardennes was the only department of France that the Germans occupied in its entirety throughout the war.
+On 6 November 1918 French troops entered [Rethel](https://pl.wikipedia.org/wiki/Rethel), a small town on the river [Aisne](/miejsca/aisne) in the [Ardennes](https://pl.wikipedia.org/wiki/Ardeny_(departament)) department. The British chronology of the war records the recapture of Rethel by the French on that day. Most accounts give the same date, although 5 November is also found. The town had been in German hands since 31 August 1914. The Ardennes was the only department of France that the Germans occupied in its entirety throughout the war.
 
 Rethel lay on an important road and rail junction between Reims and Mézières. As early as the winter of 1914 the French Fourth Army, attacking in the [First Battle of Champagne](/bitwy/pierwsza-bitwa-w-szampanii), was supposed to advance in its direction, but never even came near it. For the next four years the front stood several dozen kilometres south of the town. This changed only in the autumn of 1918. After the great Franco-American attack of 26 September, the Germans fell back to the Aisne in October and [took up a new position there](/koniec-bitwy-w-szampanii-i-argonnach). In the Rethel area two French armies met: General Henri Gouraud's Fourth Army, attacking from Vouziers, and the Fifth Army of General [Adolphe Guillaumat](/postacie/adolphe-guillaumat), which in October had forced the Suippe and west of the town had in places crossed the Aisne as well. For several weeks the front here ran along the river.
 

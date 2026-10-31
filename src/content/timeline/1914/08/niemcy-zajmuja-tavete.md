@@ -11,11 +11,11 @@ milestone: false
 draft: false
 ---
 
-15 sierpnia 1914 roku oddział niemiecki liczący około 300 żołnierzy przekroczył granicę [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), dzisiejszej [Kenii](https://pl.wikipedia.org/wiki/Kenia), i zajął przygraniczny posterunek [Taveta](https://pl.wikipedia.org/wiki/Taveta) u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). Była to pierwsza niemiecka akcja zaczepna w Afryce Wschodniej.
+15 sierpnia 1914 roku oddział niemiecki liczący około 300 żołnierzy przekroczył granicę [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), dzisiejszej [Kenii](https://pl.wikipedia.org/wiki/Kenia), i zajął przygraniczny posterunek [Taveta](https://pl.wikipedia.org/wiki/Taveta) u stóp [Kilimandżaro](/bitwy/kampania-wschodnioafrykanska). Była to pierwsza niemiecka akcja zaczepna w Afryce Wschodniej.
 
 ## Rozkaz Lettow-Vorbecka
 
-Uderzenie przygotował dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Wbrew gubernatorowi [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), który liczył na zachowanie neutralności kolonii, Lettow-Vorbeck chciał prowadzić aktywną wojnę. Jego celem było związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie.
+Uderzenie przygotował dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Wbrew gubernatorowi [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), który liczył na zachowanie neutralności kolonii, Lettow-Vorbeck chciał prowadzić aktywną wojnę. Jego celem było związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie.
 
 Oddziałem, który zajął Tavetę, dowodził kapitan Tom von Prince, weteran walk kolonialnych i dowódca ochotników rekrutowanych spośród niemieckich osadników. Brytyjska załoga posterunku była nieliczna i wycofała się bez większego oporu.
 

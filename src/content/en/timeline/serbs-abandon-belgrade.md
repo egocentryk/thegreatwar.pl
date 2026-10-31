@@ -2,10 +2,10 @@
 title: Serbs abandon Belgrade
 summary: On 30 November 1914 Serbian troops left Belgrade to shorten the front on the Kolubara. Two days later the Austro-Hungarians entered the abandoned capital.
 source: serbowie-opuszczaja-belgrad
-sourceHash: fab4af47de36a16b1b8b03e711133e655d70f7bb
+sourceHash: a85ad9cae85e806d46844d04e546ff9edf61cb8e
 ---
 
-On 30 November 1914 the Serbian units defending [Belgrade](https://pl.wikipedia.org/wiki/Belgrad) left the capital and withdrew south. According to some sources the retreat began as early as the night of 29–30 November, according to Serbian studies on the morning of 30 November. The city was not taken in battle. The Serbian high command gave it up voluntarily to save the army, which for two weeks had been struggling to hold off the third Austro-Hungarian offensive on the [Kolubara](https://pl.wikipedia.org/wiki/Kolubara) river.
+On 30 November 1914 the Serbian units defending [Belgrade](/miejsca/belgrad) left the capital and withdrew south. According to some sources the retreat began as early as the night of 29–30 November, according to Serbian studies on the morning of 30 November. The city was not taken in battle. The Serbian high command gave it up voluntarily to save the army, which for two weeks had been struggling to hold off the third Austro-Hungarian offensive on the [Kolubara](https://pl.wikipedia.org/wiki/Kolubara) river.
 
 ## A front too long
 

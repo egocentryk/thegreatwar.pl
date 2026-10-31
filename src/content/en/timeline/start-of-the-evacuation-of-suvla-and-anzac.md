@@ -2,7 +2,7 @@
 title: Start of the evacuation of Suvla and Anzac
 summary: On the night of 18/19 December 1915 half of the last garrisons left Suvla and Anzac. Next day the remaining troops staged an ordinary day for the Turks.
 source: poczatek-ewakuacji-suvli-i-anzac
-sourceHash: 7ca3cdd6a0b95bad14f6f11bed2ca825c43e2057
+sourceHash: 170c6651831234e80ee0b5a5c6d87169346dce12
 brief:
   - "The British chronology records under 19 December 1915 the start of the evacuation of the Suvla and Anzac bridgeheads at Gallipoli. In reality troops had been taken off them since 8 December."
   - "Over ten nights the garrisons of the two bridgeheads were reduced from more than 80,000 to about 40,000 men. The remaining soldiers were to embark in two nights without the Turks noticing anything."
@@ -14,7 +14,7 @@ The British chronology of the war records under 19 December 1915 the start of th
 
 ## The first night
 
-After dark on 18 December the first units set off for the beaches in complete silence, without smoking. At the assembly points they were divided into groups of 400 men, the capacity of a motor landing lighter, known to the British as a "beetle". At the same time ships were quietly approaching from the islands of [Imbros](https://pl.wikipedia.org/wiki/Imroz) and [Lemnos](https://pl.wikipedia.org/wiki/Limnos). By about seven in the evening the lighters were already waiting at the piers. At Anzac the anchors were not dropped but lowered, so that the rattle of the chains would not be heard. Among the ships was the old battleship *Mars*, which took 2,000 soldiers off Anzac that night. The destroyer *Rattlesnake* lay off Gaba Tepe and shone her searchlight towards a Turkish observation post to dazzle it.
+After dark on 18 December the first units set off for the beaches in complete silence, without smoking. At the assembly points they were divided into groups of 400 men, the capacity of a motor landing lighter, known to the British as a "beetle". At the same time ships were quietly approaching from the islands of [Imbros](https://pl.wikipedia.org/wiki/Imroz) and [Lemnos](/miejsca/mudros). By about seven in the evening the lighters were already waiting at the piers. At Anzac the anchors were not dropped but lowered, so that the rattle of the chains would not be heard. Among the ships was the old battleship *Mars*, which took 2,000 soldiers off Anzac that night. The destroyer *Rattlesnake* lay off Gaba Tepe and shone her searchlight towards a Turkish observation post to dazzle it.
 
 Everything went according to plan. From Anzac 9,900 men were taken off in three trips, and from Suvla, by half past three in the morning, about 11,000 men and nearly half of the remaining guns. There were no casualties. A full moon veiled by light cloud made the march easier, and towards morning a mist hid the deserted beaches. The Turks went on strengthening their positions, and two Turkish deserters even came over to IX Corps at Suvla during the night. Before dawn all the ships had vanished from sight.
 

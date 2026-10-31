@@ -2,10 +2,10 @@
 title: End of the Second Offensive Battle of Verdun
 summary: On 15 December 1917, by French nomenclature, the Second Offensive Battle of Verdun ended. By autumn the fighting was only for positions on the right bank.
 source: koniec-drugiej-ofensywnej-bitwy-pod-verdun
-sourceHash: d46b5b5c1a652f75ef108b159dbf8db03e6105bf
+sourceHash: e1428469001ce2b26fa07aec4b1b70e94fe550b9
 ---
 
-15 December 1917 is the date that the British chronology of the war, following French battle nomenclature, gives as the end of the "Second Offensive Battle of [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza))". No major action was fought at Verdun that day. The date closes the period that began with the [attack of 20 August](/poczatek-drugiej-ofensywnej-bitwy-pod-verdun), when the French Second Army retook the Mort-Homme, Hill 304, the Côte du Talou and Hill 344 within a few days. From the autumn the fighting here was only to hold and improve the positions won, mainly on the right bank of the [Meuse](/miejsca/moza). In mid-December the commander who had prepared the August attack also left Verdun: General [Adolphe Guillaumat](/postacie/adolphe-guillaumat) was appointed [to succeed General Sarrail](/odwolanie-sarraila) at the head of the Allied forces on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki).
+15 December 1917 is the date that the British chronology of the war, following French battle nomenclature, gives as the end of the "Second Offensive Battle of [Verdun](/bitwy/bitwa-pod-verdun)". No major action was fought at Verdun that day. The date closes the period that began with the [attack of 20 August](/poczatek-drugiej-ofensywnej-bitwy-pod-verdun), when the French Second Army retook the Mort-Homme, Hill 304, the Côte du Talou and Hill 344 within a few days. From the autumn the fighting here was only to hold and improve the positions won, mainly on the right bank of the [Meuse](/miejsca/moza). In mid-December the commander who had prepared the August attack also left Verdun: General [Adolphe Guillaumat](/postacie/adolphe-guillaumat) was appointed [to succeed General Sarrail](/odwolanie-sarraila) at the head of the Allied forces on the [Salonika front](https://pl.wikipedia.org/wiki/Front_salonicki).
 
 ## Autumn on the right bank
 

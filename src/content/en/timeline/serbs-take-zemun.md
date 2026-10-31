@@ -2,10 +2,10 @@
 title: Serbs take Zemun
 summary: On 10 September 1914 Serbian troops crossed the Sava and took Zemun, the Austro-Hungarian town opposite Belgrade. Regent Alexander rode into it.
 source: serbowie-zajmuja-zemun
-sourceHash: 84b8d4fbcdb9a7cbbf63bc0d4645c525fa3c3956
+sourceHash: 1be6583ccebb79d0d2e8d774da0cf80ef462ba67
 ---
 
-On 10 September 1914 Serbian units crossed the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and took [Zemun](https://pl.wikipedia.org/wiki/Zemun), called Semlin in German and British sources of the time. The town lay in [Syrmia](https://pl.wikipedia.org/wiki/Srem), at the confluence of the Sava and the Danube, directly opposite [Belgrade](https://pl.wikipedia.org/wiki/Belgrad), and at that time belonged to Austria-Hungary. It was the most spectacular success of the Serbian offensive in Syrmia.
+On 10 September 1914 Serbian units crossed the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and took [Zemun](https://pl.wikipedia.org/wiki/Zemun), called Semlin in German and British sources of the time. The town lay in [Syrmia](https://pl.wikipedia.org/wiki/Srem), at the confluence of the Sava and the Danube, directly opposite [Belgrade](/miejsca/belgrad), and at that time belonged to Austria-Hungary. It was the most spectacular success of the Serbian offensive in Syrmia.
 
 ## The town opposite the capital
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny podaje pod datą 22 listopada 1914 roku, że wojska rosyjskie ponownie zajęły Köprüköy, wieś nad górnym [Araksem](https://pl.wikipedia.org/wiki/Araks) na drodze z granicy do twierdzy [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). Dostępne opracowania, rosyjskie, tureckie i anglojęzyczne, nie potwierdzają tej informacji. Według nich Rosjanie nie wrócili do Köprüköy aż do 1916 roku.
+Brytyjska chronologia wojny podaje pod datą 22 listopada 1914 roku, że wojska rosyjskie ponownie zajęły Köprüköy, wieś nad górnym [Araksem](https://pl.wikipedia.org/wiki/Araks) na drodze z granicy do twierdzy [Erzurum](/miejsca/erzurum). Dostępne opracowania, rosyjskie, tureckie i anglojęzyczne, nie potwierdzają tej informacji. Według nich Rosjanie nie wrócili do Köprüköy aż do 1916 roku.
 
 ## Po ofensywie Bergmanna
 

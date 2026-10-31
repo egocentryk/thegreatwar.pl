@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wydarzeń wojny odnotowała pod datą 17 października 1914 roku próbę wtargnięcia niemieckich okrętów podwodnych do [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow), głównej bazy [Grand Fleet](/sily-zbrojne/grand-fleet) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady). W rzeczywistości żaden U-Boot nie wszedł wtedy do bazy. Brytyjczycy przeżyli jednak dwa dni alarmu, który zdecydował o losach floty na kolejne tygodnie.
+Brytyjska kronika wydarzeń wojny odnotowała pod datą 17 października 1914 roku próbę wtargnięcia niemieckich okrętów podwodnych do [Scapa Flow](/miejsca/scapa-flow), głównej bazy [Grand Fleet](/sily-zbrojne/grand-fleet) na [Orkadach](https://pl.wikipedia.org/wiki/Orkady). W rzeczywistości żaden U-Boot nie wszedł wtedy do bazy. Brytyjczycy przeżyli jednak dwa dni alarmu, który zdecydował o losach floty na kolejne tygodnie.
 
 Nerwowość miała swoje podstawy. 15 października niemiecki [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) [zatopił krążownik Hawke](/zatoniecie-hms-hawke) niedaleko wybrzeży Szkocji. Następnego dnia, 16 października, po południu, niszczyciele patrolujące wschodnie wejście do cieśniny [Pentland Firth](https://pl.wikipedia.org/wiki/Pentland_Firth), oddzielającej Orkady od Szkocji, zameldowały, że zostały zaatakowane przez okręt podwodny. Torpeda minęła niszczyciele Nymphe i Alarm, a Nymphe próbował staranować napastnika. Był to najpewniej właśnie U-9, któremu udało się ujść.
 

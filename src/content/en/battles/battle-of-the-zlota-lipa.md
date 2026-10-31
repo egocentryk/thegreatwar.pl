@@ -9,10 +9,10 @@ sides:
     commanders: [Rudolf von Brudermann, Hermann Kövess]
 result: Russian victory. The Austro-Hungarians withdrew beyond Lviv, which the Russians occupied on 3 September 1914.
 source: bitwa-nad-zlota-lipa
-sourceHash: 1050114b05934c7b260c23eef5a99b2c95bec20c
+sourceHash: 7db387348922319327ff9178e1c243f138e4316f
 ---
 
-The Battle of the Złota Lipa, fought on 26–30 August 1914 east of [Lviv](https://pl.wikipedia.org/wiki/Lwów), was one of the key engagements of the [Battle of Galicia](/bitwy/bitwa-galicyjska). In it the Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow) routed the Austro-Hungarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) of General Rudolf von Brudermann and the army group of General [Hermann Kövess](/postacie/hermann-kovess), opening the way to the capital of Galicia.
+The Battle of the Złota Lipa, fought on 26–30 August 1914 east of [Lviv](/miejsca/lwow), was one of the key engagements of the [Battle of Galicia](/bitwy/bitwa-galicyjska). In it the Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow) routed the Austro-Hungarian [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) of General Rudolf von Brudermann and the army group of General [Hermann Kövess](/postacie/hermann-kovess), opening the way to the capital of Galicia.
 
 ## Name and dates
 

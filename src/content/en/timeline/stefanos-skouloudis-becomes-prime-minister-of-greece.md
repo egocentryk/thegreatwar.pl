@@ -2,14 +2,14 @@
 title: Stefanos Skouloudis becomes prime minister of Greece
 summary: After the fall of the Zaimis government King Constantine gave power to the 76-year-old banker Stefanos Skouloudis. A few days later he dissolved parliament.
 source: stefanos-skuludis-premierem-grecji
-sourceHash: 7e4e75fb6dd255748f828c5d06523aee449de8fa
+sourceHash: bed5dd8f2a2317818b9ccf557ed0319875beede9
 ---
 
 Two days after the Chamber of Deputies [brought down the government of Alexandros Zaimis](/dymisja-rzadu-zaimisa), King [Constantine I](/postacie/konstantyn-i) found a new prime minister. The British chronology of the war and some authors, including the British writer G. F. Abbott in a book published in 1917, give 6 November 1915 as the date of the appointment. Greek lists of governments, the New York monthly "Current History" and the Italian minister in Athens, Carlo De Bosdari, who cabled Rome on 7 November that the "crisis is resolved", point to 7 November, that is 25 October by the Julian calendar. Most likely [Stefanos Skouloudis](/postacie/stefanos-skuludis) was given the task on 6 November and the government took office the next day.
 
 ## A banker from Constantinople
 
-Skouloudis was 76 and one of the oldest men in Greek politics. He was born in 1838 in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) into a merchant family from Crete. He made his fortune in trade and banking: he worked for the great Ralli trading house, and in 1871 co-founded the Bank of Constantinople. From 1876 he lived in Athens. He was a member of parliament, envoy in Madrid, minister of the navy in Charilaos Trikoupis's government and, in 1897, after the defeat in the [war with Turkey](https://pl.wikipedia.org/wiki/Wojna_grecko-turecka_(1897)), the foreign minister who negotiated with the Turks. In 1912 Venizelos sent him to the London peace conference after the First Balkan War. According to Abbott he had three times declined the premiership and agreed only at the king's insistent urging, because he considered it his duty.
+Skouloudis was 76 and one of the oldest men in Greek politics. He was born in 1838 in [Constantinople](/miejsca/konstantynopol) into a merchant family from Crete. He made his fortune in trade and banking: he worked for the great Ralli trading house, and in 1871 co-founded the Bank of Constantinople. From 1876 he lived in Athens. He was a member of parliament, envoy in Madrid, minister of the navy in Charilaos Trikoupis's government and, in 1897, after the defeat in the [war with Turkey](https://pl.wikipedia.org/wiki/Wojna_grecko-turecka_(1897)), the foreign minister who negotiated with the Turks. In 1912 Venizelos sent him to the London peace conference after the First Balkan War. According to Abbott he had three times declined the premiership and agreed only at the king's insistent urging, because he considered it his duty.
 
 ## The same government, a new prime minister
 

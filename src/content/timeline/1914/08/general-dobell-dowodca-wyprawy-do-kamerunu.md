@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-23 sierpnia 1914 roku generał brygady Charles Macpherson Dobell został wyznaczony na dowódcę alianckich wojsk lądowych, które miały zająć [Kamerun Niemiecki](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Pod jego rozkazami miały walczyć oddziały brytyjskie i francuskie, przede wszystkim afrykańscy żołnierze z sąsiednich kolonii.
+23 sierpnia 1914 roku generał brygady Charles Macpherson Dobell został wyznaczony na dowódcę alianckich wojsk lądowych, które miały zająć [Kamerun Niemiecki](/miejsca/kamerun). Pod jego rozkazami miały walczyć oddziały brytyjskie i francuskie, przede wszystkim afrykańscy żołnierze z sąsiednich kolonii.
 
 ## Kamerun celem aliantów
 

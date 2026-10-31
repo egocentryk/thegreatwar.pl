@@ -2,10 +2,10 @@
 title: Destruction of L 53
 summary: On 11 August 1918 off Terschelling a Camel launched from a lighter towed by a destroyer shot down L 53, the last Zeppelin shot down in the war.
 source: zniszczenie-l-53
-sourceHash: 2037169ffca57a5333cd10f0e6edecfdcceb15c8
+sourceHash: 30ed4f5de35b3ac2e2ed21b03a367401657c71de
 ---
 
-On the morning of 11 August 1918, over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), the German naval airship L 53 fell in flames. She was shot down by Lieutenant Stuart Culley of the Royal Air Force, who had taken off in a [Sopwith Camel](https://pl.wikipedia.org/wiki/Sopwith_Camel) fighter from a flat lighter towed behind the British [destroyer](https://pl.wikipedia.org/wiki/Niszczyciel) HMS *Redoubt*. The whole crew of the airship, commanded by Eduard Prölss, was killed, 19 men according to most sources. The British chronology of the war noted that she was the last German airship destroyed in the war.
+On the morning of 11 August 1918, over the [North Sea](/miejsca/morze-polnocne) near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), the German naval airship L 53 fell in flames. She was shot down by Lieutenant Stuart Culley of the Royal Air Force, who had taken off in a [Sopwith Camel](https://pl.wikipedia.org/wiki/Sopwith_Camel) fighter from a flat lighter towed behind the British [destroyer](https://pl.wikipedia.org/wiki/Niszczyciel) HMS *Redoubt*. The whole crew of the airship, commanded by Eduard Prölss, was killed, 19 men according to most sources. The British chronology of the war noted that she was the last German airship destroyed in the war.
 
 On the evening of 10 August four light cruisers and over a dozen destroyers under [Reginald Tyrwhitt](https://pl.wikipedia.org/wiki/Reginald_Tyrwhitt) sailed from Harwich. They were to reconnoitre the German minefields in the Heligoland Bight. Some of the destroyers were towing lighters with seaplanes, and *Redoubt* a lighter with the Camel. The British had only recently begun testing this way of taking fighters to sea. Culley had made the first successful take-off from a towed lighter only on 1 August. An aircraft from such a lighter could reach the airships that patrolled the Heligoland Bight at high altitude, beyond the reach of ships' guns. It was a step further than a year earlier, when a fighter launched from a platform on a cruiser had [destroyed L 23](/zniszczenie-sterowca-l-23).
 

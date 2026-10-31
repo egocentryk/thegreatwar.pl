@@ -2,10 +2,10 @@
 title: British capture Ramadi
 summary: On 28 September 1917 General Brooking's 15th Division surrounded the Turks at Ramadi on the Euphrates. Next day Ahmed Bey surrendered with over 3,400 men.
 source: brytyjczycy-zdobywaja-ramadi
-sourceHash: 60eb8f8b6457ccb0d6f09048607acb38c7e0eb0d
+sourceHash: f18f616b0d20243a0e1571471dbac0c9d60bc7eb
 ---
 
-On 28 September 1917 General Harry Brooking's British-Indian 15th Division attacked the Turkish positions at [Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi) on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). By evening the infantry had taken the heights south of the town, and the cavalry had closed the Turks' line of retreat to the west. On the morning of 29 September the Turkish garrison laid down its arms. The British chronology of the war calls this engagement the "action of Ramadi" and dates it to 28–29 September. Two and a half months earlier, [in the July heat](/atak-na-ramadi), a smaller column under Lieutenant-Colonel Haldane had been repulsed from the same trenches, losing more men to heatstroke than to enemy fire.
+On 28 September 1917 General Harry Brooking's British-Indian 15th Division attacked the Turkish positions at [Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi) on the [Euphrates](/miejsca/eufrat). By evening the infantry had taken the heights south of the town, and the cavalry had closed the Turks' line of retreat to the west. On the morning of 29 September the Turkish garrison laid down its arms. The British chronology of the war calls this engagement the "action of Ramadi" and dates it to 28–29 September. Two and a half months earlier, [in the July heat](/atak-na-ramadi), a smaller column under Lieutenant-Colonel Haldane had been repulsed from the same trenches, losing more men to heatstroke than to enemy fire.
 
 ## Why Ramadi
 

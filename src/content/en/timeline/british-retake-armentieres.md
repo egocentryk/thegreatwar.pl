@@ -2,10 +2,10 @@
 title: The British retake Armentières
 summary: On 17 October 1914 the British III Corps entered Armentières, hastily abandoned by the Germans. The town remained in Allied hands until 1918.
 source: brytyjczycy-odbijaja-armentieres
-sourceHash: 5a4aa7b522378e8627fcb593cc96999cd89df7f1
+sourceHash: e6009e4926340c496fdd04a25aa3c829b78eb1ff
 ---
 
-On 17 October 1914 British troops entered [Armentières](https://pl.wikipedia.org/wiki/Armentières), an industrial town on the river [Leie](https://pl.wikipedia.org/wiki/Leie) (French: Lys), close to the Belgian border. The Germans, who had [taken it a week earlier](/niemcy-zajmuja-armentieres-i-hazebrouck), withdrew in haste, leaving behind only small groups of soldiers who fired from the houses. For the British III Corps of General William Pulteney this was one of the last successes of the advance that had begun four days earlier at Meteren and had brought it [through Bailleul](/brytyjczycy-zajmuja-bailleul) to the Lys.
+On 17 October 1914 British troops entered [Armentières](https://pl.wikipedia.org/wiki/Armentières), an industrial town on the river [Leie](/miejsca/leie) (French: Lys), close to the Belgian border. The Germans, who had [taken it a week earlier](/niemcy-zajmuja-armentieres-i-hazebrouck), withdrew in haste, leaving behind only small groups of soldiers who fired from the houses. For the British III Corps of General William Pulteney this was one of the last successes of the advance that had begun four days earlier at Meteren and had brought it [through Bailleul](/brytyjczycy-zajmuja-bailleul) to the Lys.
 
 ## The crossing and the entry into the town
 

@@ -2,14 +2,14 @@
 title: Essad Pasha's government in Salonika
 summary: The British chronology records under 20 September 1916 the move of Essad Pasha's government to Salonika. The French had shipped him there in late August.
 source: rzad-esada-paszy-w-salonikach
-sourceHash: acd183c87f7bb3f3f188f2a59646aacc92fa1ac3
+sourceHash: d50da37507ce81b6b18dbf3278b80e19ad1912c4
 ---
 
 The British chronology of the war records under 20 September 1916 that the Albanian government of [Essad Pasha Toptani](/postacie/esad-pasza-toptani) established its seat in [Salonika](/miejsca/saloniki), where the Entente troops were stationed. Essad was not a new guest in the city at the time. Documents later published by General [Maurice Sarrail](/postacie/maurice-sarrail), commander-in-chief of the Allied armies on the Salonika front, show that the French had brought him there by warship as early as the end of August. No formal act of 20 September could be found in the sources. What is certain is that by September his court, which called itself the government of Albania, was already operating in Salonika.
 
 ## Half a year of wandering
 
-Since [February 1916](/rzad-esada-paszy-opuszcza-durres), when he had sailed from [Durrës](https://pl.wikipedia.org/wiki/Durrës) on an Italian destroyer ahead of the advancing Austrians, Essad had been a prime minister without a country. He stayed in Rome, in Nice, where his wife lived, and in Paris. The Italian government wanted to keep him at hand and under control. In April the foreign minister, Sidney Sonnino, offered him a monthly allowance and advised him to settle in Naples, on condition that other states would not keep their representatives with him. Essad did not accept this role. He felt closer to Serbia, with which he had been bound by a secret alliance since 1914, and to France, which as early as February had offered to evacuate him on its ships.
+Since [February 1916](/rzad-esada-paszy-opuszcza-durres), when he had sailed from [Durrës](/miejsca/durres) on an Italian destroyer ahead of the advancing Austrians, Essad had been a prime minister without a country. He stayed in Rome, in Nice, where his wife lived, and in Paris. The Italian government wanted to keep him at hand and under control. In April the foreign minister, Sidney Sonnino, offered him a monthly allowance and advised him to settle in Naples, on condition that other states would not keep their representatives with him. Essad did not accept this role. He felt closer to Serbia, with which he had been bound by a secret alliance since 1914, and to France, which as early as February had offered to evacuate him on its ships.
 
 ## By cruiser from Toulon
 
@@ -19,6 +19,6 @@ The Albanian unit turned out to be much smaller than announced. Sarrail estimate
 
 ## France's Albanian card
 
-For Italy, Essad's presence in Salonika was a challenge. Rome regarded Albania as its sphere of influence and since the end of 1914 had occupied [Vlorë](https://pl.wikipedia.org/wiki/Wlora), where a whole Italian corps now stood. The Italians suspected that France was backing the Pasha in order to weaken their position in the Balkans. Sarrail explained that in central Albania Essad had many supporters who could thwart the plans of Italy or Austria. According to Villari, French intelligence, though sceptical, did not want to reject the Pasha, who assured them that he could raise a rising in the territories occupied by Austria-Hungary.
+For Italy, Essad's presence in Salonika was a challenge. Rome regarded Albania as its sphere of influence and since the end of 1914 had occupied [Vlorë](/miejsca/wlora), where a whole Italian corps now stood. The Italians suspected that France was backing the Pasha in order to weaken their position in the Balkans. Sarrail explained that in central Albania Essad had many supporters who could thwart the plans of Italy or Austria. According to Villari, French intelligence, though sceptical, did not want to reject the Pasha, who assured them that he could raise a rising in the territories occupied by Austria-Hungary.
 
 No such rising ever took place. Essad's unit, known as the tabor, later fought alongside the French in the valley of the Shkumbin river, and Sarrail praised its part in skirmishes. Villari claimed, on the other hand, that the Pasha rendered the Allies no useful service. Essad remained in Salonika for a long time as one of several rival claimants to power over Albania, maintained by the Allies.

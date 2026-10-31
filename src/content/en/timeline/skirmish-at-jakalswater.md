@@ -2,10 +2,10 @@
 title: Skirmish at Jakalswater
 summary: On 20 March 1915 Botha's troops attacked the Germans at Riet, Pforte and Jakalswater. They took key wells on the edge of the Namib and over 200 prisoners.
 source: potyczka-pod-jakalswater
-sourceHash: 09cb84d7af1748fc0ad7d31b00f6005c87dbd83d
+sourceHash: 0045a91eae3b8923b6216ef986f3f1200aa30417
 ---
 
-On 20 March 1915 the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) under their prime minister and commander-in-chief, [Louis Botha](/postacie/louis-botha), struck at the German defensive line in the valley of the [Swakop](https://pl.wikipedia.org/wiki/Swakop) river, in [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). The British chronology of the war calls this engagement the skirmish at Jakalswater, but that day fighting took place simultaneously in three places: at Riet, Pforte and Jakalswater. South African historians consider this action one of the most important of the whole campaign.
+On 20 March 1915 the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) under their prime minister and commander-in-chief, [Louis Botha](/postacie/louis-botha), struck at the German defensive line in the valley of the [Swakop](https://pl.wikipedia.org/wiki/Swakop) river, in [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The British chronology of the war calls this engagement the skirmish at Jakalswater, but that day fighting took place simultaneously in three places: at Riet, Pforte and Jakalswater. South African historians consider this action one of the most important of the whole campaign.
 
 ## The fight for water
 

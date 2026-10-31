@@ -2,10 +2,10 @@
 title: The Battle of Tanga ends
 summary: On 5 November 1914 the beaten Force "B" re-embarked at Tanga, leaving weapons and ammunition on the shore. The defeat cost General Aitken his command.
 source: koniec-bitwy-pod-tanga
-sourceHash: 24f103ddbf961c0e27cf75f19864c1c00523f4f2
+sourceHash: 11e988d77bbd35550a577701788f72869c188d81
 ---
 
-On 5 November 1914 Indian Expeditionary Force "B" finished re-embarking on the transports lying off [Tanga](https://pl.wikipedia.org/wiki/Tanga). So ended the expedition that had [sailed from Bombay on 16 October](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki) to conquer the whole of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Major-General Arthur Aitken's roughly 8,000 soldiers had been defeated by about a thousand askaris under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck).
+On 5 November 1914 Indian Expeditionary Force "B" finished re-embarking on the transports lying off [Tanga](https://pl.wikipedia.org/wiki/Tanga). So ended the expedition that had [sailed from Bombay on 16 October](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki) to conquer the whole of [German East Africa](/bitwy/kampania-wschodnioafrykanska). Major-General Arthur Aitken's roughly 8,000 soldiers had been defeated by about a thousand askaris under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck).
 
 ## After the defeat of 4 November
 

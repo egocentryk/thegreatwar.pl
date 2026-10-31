@@ -2,14 +2,14 @@
 title: Italian fleet begins operations in the Adriatic
 summary: On 25 May 1915 Italian sailors took the Austrian post at Porto Buso. The day before, the Austro-Hungarian fleet had shelled Ancona and the Italian coast.
 source: flota-wloska-rozpoczyna-dzialania-na-adriatyku
-sourceHash: ee2e22dbca743f236294710f1958b9da2bd1a750
+sourceHash: c12064e6d7afc40b03cec67b9b73be049efe6ac3
 ---
 
 The British chronology of the war records under 25 May 1915 that the Italian fleet began operations in the [Adriatic](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). Italy [declared war on Austria-Hungary](/wlochy-wypowiadaja-wojne-austro-wegrom) on 23 May, and the state of war took effect from 24 May. The first clashes at sea therefore broke out as early as the night of 23–24 May, and it was not the Italians but the Austrians who struck first and hardest. On 25 May Italian sailors occupied the post at Porto Buso, which had been shelled the day before, and communiqués from Rome announced the fleet's first successes.
 
 ## Two fleets on one sea
 
-In May 1915 the Italian navy, the [Regia Marina](https://pl.wikipedia.org/wiki/Regia_Marina), had several modern dreadnoughts, older battleships, armoured cruisers, about sixty destroyers and nearly twenty submarines. Since August 1914 the main forces had been stationed at [Taranto](https://pl.wikipedia.org/wiki/Tarent) as the Armata Navale under the Duke of the Abruzzi, [Luigi Amedeo of Savoy](https://pl.wikipedia.org/wiki/Luigi_Amedeo_di_Savoia), the well-known traveller and polar explorer. The lighter ships were concentrated at [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), while a destroyer flotilla based at [Venice](https://pl.wikipedia.org/wiki/Wenecja) was to support the army advancing eastwards.
+In May 1915 the Italian navy, the [Regia Marina](https://pl.wikipedia.org/wiki/Regia_Marina), had several modern dreadnoughts, older battleships, armoured cruisers, about sixty destroyers and nearly twenty submarines. Since August 1914 the main forces had been stationed at [Taranto](https://pl.wikipedia.org/wiki/Tarent) as the Armata Navale under the Duke of the Abruzzi, [Luigi Amedeo of Savoy](https://pl.wikipedia.org/wiki/Luigi_Amedeo_di_Savoia), the well-known traveller and polar explorer. The lighter ships were concentrated at [Brindisi](/miejsca/brindisi), while a destroyer flotilla based at [Venice](https://pl.wikipedia.org/wiki/Wenecja) was to support the army advancing eastwards.
 
 Italy's Adriatic coast was flat, almost without good harbours and exposed to attack. The eastern, Austrian shore was indented, full of islands and sheltered bays in which the enemy's bases lay hidden: [Pola](https://pl.wikipedia.org/wiki/Pula), [Sebenico](https://pl.wikipedia.org/wiki/Szybenik) and the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska). The chief of staff of the Italian navy, Admiral Paolo Thaon di Revel, wanted to save the heavy ships for a decisive battle and to fight day to day with destroyers, submarines and mines. The Austro-Hungarian fleet commander, Admiral [Anton Haus](https://pl.wikipedia.org/wiki/Anton_Haus), likewise had no intention of risking his battleships in an open engagement with the superior forces of the Italians and their allies. Instead he decided to strike quickly, before the enemy could organise himself.
 

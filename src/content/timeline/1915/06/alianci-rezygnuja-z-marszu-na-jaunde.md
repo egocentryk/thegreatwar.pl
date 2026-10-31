@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-7 czerwca 1915 roku generał Charles Dobell, dowódca brytyjsko-francuskiej wyprawy w [Kamerunie Niemieckim](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), postanowił przerwać natarcie na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), siedzibę niemieckich władz kolonii. Kolumna pułkownika Mayera, która od początku maja [przedzierała się od rzeki Kele w głąb lasu](/pierwszy-marsz-na-jaunde), miała się zatrzymać i cofnąć nad rzekę Ndupe. Decyzję podjął w [Duali](https://pl.wikipedia.org/wiki/Duala_(miasto)), po tym jak z Brazzaville nie nadeszły żadne wieści o francuskich wojskach generała Josepha Aymericha, które miały uderzyć na Jaunde od południowego wschodu.
+7 czerwca 1915 roku generał Charles Dobell, dowódca brytyjsko-francuskiej wyprawy w [Kamerunie Niemieckim](/miejsca/kamerun), postanowił przerwać natarcie na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), siedzibę niemieckich władz kolonii. Kolumna pułkownika Mayera, która od początku maja [przedzierała się od rzeki Kele w głąb lasu](/pierwszy-marsz-na-jaunde), miała się zatrzymać i cofnąć nad rzekę Ndupe. Decyzję podjął w [Duali](https://pl.wikipedia.org/wiki/Duala_(miasto)), po tym jak z Brazzaville nie nadeszły żadne wieści o francuskich wojskach generała Josepha Aymericha, które miały uderzyć na Jaunde od południowego wschodu.
 
 ## Dziewiętnaście dni w lesie
 

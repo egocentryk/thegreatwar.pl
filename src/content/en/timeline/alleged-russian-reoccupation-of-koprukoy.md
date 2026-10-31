@@ -2,10 +2,10 @@
 title: Alleged Russian reoccupation of Köprüköy
 summary: The British chronology records the Russian reoccupation of Köprüköy on 22 November 1914. Studies do not confirm it. The Caucasus front went quiet.
 source: rzekome-ponowne-zajecie-koprukoy
-sourceHash: 315d3ff1c930c9c3dc9e7f2a70e145fcedd6a7e0
+sourceHash: 0d622157cf1577c1aabf7dd4478b0baed405e8a9
 ---
 
-The British chronology of the war states under 22 November 1914 that Russian troops reoccupied Köprüköy, a village on the upper [Aras](https://pl.wikipedia.org/wiki/Araks) on the road from the border to the fortress of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). The available studies, Russian, Turkish and English-language, do not confirm this. According to them the Russians did not return to Köprüköy until 1916.
+The British chronology of the war states under 22 November 1914 that Russian troops reoccupied Köprüköy, a village on the upper [Aras](https://pl.wikipedia.org/wiki/Araks) on the road from the border to the fortress of [Erzurum](/miejsca/erzurum). The available studies, Russian, Turkish and English-language, do not confirm this. According to them the Russians did not return to Köprüköy until 1916.
 
 ## After the Bergmann offensive
 

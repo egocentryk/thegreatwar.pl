@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 25–26 kwietnia 1915 roku starcie pod Gibeonem, stacją kolejową i osadą w południowej części [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Według oficjalnej relacji południowoafrykańskiej walka zaczęła się jednak w nocy z 26 na 27 kwietnia, a rozstrzygnęła rankiem 27 kwietnia. Niektóre opracowania podają 28 kwietnia. Konne brygady generała brygady Sir Duncana McKenziego rozbiły tam niemieckie oddziały, które wycofywały się z południa kolonii na północ.
+Brytyjska chronologia wojny notuje pod 25–26 kwietnia 1915 roku starcie pod Gibeonem, stacją kolejową i osadą w południowej części [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Według oficjalnej relacji południowoafrykańskiej walka zaczęła się jednak w nocy z 26 na 27 kwietnia, a rozstrzygnęła rankiem 27 kwietnia. Niektóre opracowania podają 28 kwietnia. Konne brygady generała brygady Sir Duncana McKenziego rozbiły tam niemieckie oddziały, które wycofywały się z południa kolonii na północ.
 
 ## Pościg
 

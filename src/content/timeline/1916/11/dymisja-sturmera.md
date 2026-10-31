@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-24 listopada 1916 roku (11 listopada według kalendarza juliańskiego) prasa piotrogrodzka ogłosiła, że przewodniczący Rady Ministrów, czyli premier Rosji, [Boris Stürmer](/postacie/boris-sturmer), odszedł ze stanowiska. Stracił też kierowane od lipca ministerstwo spraw zagranicznych. Decyzję podjął dzień wcześniej, 23 listopada (10 listopada według kalendarza juliańskiego), car [Mikołaj II](/postacie/mikolaj-ii) w Kwaterze Głównej w [Mohylewie](https://pl.wikipedia.org/wiki/Mohylew). Nowym premierem został Aleksandr Trepow, dotychczasowy minister komunikacji. Brytyjska chronologia wojny notuje zmianę pod 24 listopada, dniem oficjalnego ogłoszenia.
+24 listopada 1916 roku (11 listopada według kalendarza juliańskiego) prasa piotrogrodzka ogłosiła, że przewodniczący Rady Ministrów, czyli premier Rosji, [Boris Stürmer](/postacie/boris-sturmer), odszedł ze stanowiska. Stracił też kierowane od lipca ministerstwo spraw zagranicznych. Decyzję podjął dzień wcześniej, 23 listopada (10 listopada według kalendarza juliańskiego), car [Mikołaj II](/postacie/mikolaj-ii) w Kwaterze Głównej w [Mohylewie](/miejsca/mohylew). Nowym premierem został Aleksandr Trepow, dotychczasowy minister komunikacji. Brytyjska chronologia wojny notuje zmianę pod 24 listopada, dniem oficjalnego ogłoszenia.
 
 ## „Głupota czy zdrada?”
 

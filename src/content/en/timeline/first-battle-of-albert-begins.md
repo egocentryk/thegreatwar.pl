@@ -2,7 +2,7 @@
 title: First Battle of Albert begins
 summary: In September 1914 the French and Germans clashed at Albert and Bapaume. On the heights above the Somme a front formed that held until the Somme battle of 1916.
 source: poczatek-pierwszej-bitwy-pod-albert
-sourceHash: e6c46c600c3e3e0fd1d10a115b26617c9a6aa017
+sourceHash: a92b4a72330478f21f21ae0434ab5d296f6e6209
 brief:
   - "On 22 September 1914, according to the British chronology of the war, the First Battle of Albert began in the Somme department. Most modern historians date the battle proper to 25–29 September."
   - "After the indecisive Battle of the Aisne both sides tried to turn the enemy's open flank. General Noël de Castelnau's French Second Army and Crown Prince Rupprecht of Bavaria's German Sixth Army clashed north of the Somme."
@@ -10,7 +10,7 @@ brief:
   - "The fighting ended without a decision, and the front between Albert and Bapaume survived almost unchanged until the summer of 1916. It was here, on 1 July 1916, that the Battle of the Somme began."
 ---
 
-On 22 September 1914, according to the British chronology of the war, the First Battle of [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) began, named after a small town in the Somme department. The French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and the German Sixth Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) tried to outflank each other north of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). The fighting ended on 29 September without a decision, and the front that then formed between Albert and [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) survived almost unchanged until the summer of 1916.
+On 22 September 1914, according to the British chronology of the war, the First Battle of [Albert](/miejsca/albert) began, named after a small town in the Somme department. The French Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and the German Sixth Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) tried to outflank each other north of the [Somme](/miejsca/somma). The fighting ended on 29 September without a decision, and the front that then formed between Albert and [Bapaume](/miejsca/bapaume) survived almost unchanged until the summer of 1916.
 
 ## When did the battle begin?
 
@@ -24,12 +24,12 @@ The chief of the German General Staff, General [Erich von Falkenhayn](/postacie/
 
 ## The fighting at Albert
 
-On 25 September the French advanced east from the Albert area. Instead of an open flank they ran into German columns coming towards them. The next day the Germans took Bapaume. The Bavarians routed French territorial units and advanced towards Albert through the villages of Combles, Guillemont and Montauban. XIV Reserve Corps attacked along the old Roman road linking Bapaume with Albert and on 27 September reached [Thiepval](https://pl.wikipedia.org/wiki/Thiepval), on the heights above the river [Ancre](https://pl.wikipedia.org/wiki/Ancre).
+On 25 September the French advanced east from the Albert area. Instead of an open flank they ran into German columns coming towards them. The next day the Germans took Bapaume. The Bavarians routed French territorial units and advanced towards Albert through the villages of Combles, Guillemont and Montauban. XIV Reserve Corps attacked along the old Roman road linking Bapaume with Albert and on 27 September reached [Thiepval](https://pl.wikipedia.org/wiki/Thiepval), on the heights above the river [Ancre](/miejsca/somma).
 
 On 28 September the Germans tried to break through to Albert and on towards Amiens. French infantry and artillery stopped them on a line from [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) through [Fricourt](https://pl.wikipedia.org/wiki/Fricourt) to Thiepval. On 29 September the Germans took Fricourt but could advance no further, and French counter-attacks almost retook the village. The exhausted troops of both sides began to dig trenches where the end of the fighting found them. Albert itself, shelled by German artillery, was largely destroyed.
 
 ## The Somme front
 
-After the battle the fighting moved further north, to [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), and then to Flanders. The front between the Somme and the Ancre fell quiet and for almost two years was considered one of the quietest sectors of the Western Front. The Germans used this time to build powerful fortifications on the heights, with deep dugouts cut into the chalk. In 1915 the British took over this sector from the French.
+After the battle the fighting moved further north, to [Arras](/miejsca/arras), and then to Flanders. The front between the Somme and the Ancre fell quiet and for almost two years was considered one of the quietest sectors of the Western Front. The Germans used this time to build powerful fortifications on the heights, with deep dugouts cut into the chalk. In 1915 the British took over this sector from the French.
 
 It was here, on 1 July 1916, that the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą) began, one of the bloodiest battles in history. The villages fought over in September 1914, such as Thiepval, Fricourt, [Mametz](https://pl.wikipedia.org/wiki/Mametz_(Somma)) and Montauban, became symbols of that battle for the British. Today a memorial stands at Thiepval commemorating more than 72,000 British and South African soldiers who died on the Somme and have no known grave.

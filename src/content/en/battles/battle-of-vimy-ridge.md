@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Ludwig von Falkenhausen, Karl von Fasbender]
 result: Canadian victory. The Canadian Corps took the whole of Vimy Ridge, and the Germans withdrew onto the Douai plain, to the Oppy–Méricourt line. There was no breakthrough.
 source: bitwa-o-grzbiet-vimy
-sourceHash: ea6eba1d3d6033c722d1ee8faf0894f0b7d539a8
+sourceHash: a2463d89ee7aba56d132c85cc93348685873e18f
 brief:
   - "The Battle of Vimy Ridge, fought on 9–12 April 1917, was the northern part of the British offensive at Arras. The ridge had been in German hands since 1914, and the French had twice failed to take it in 1915."
   - "Lieutenant-General Julian Byng's Canadian Corps prepared the attack with great care: rehearsals on a full-size model of the ground, subways through the chalk and a bombardment of more than a million shells."
@@ -26,7 +26,7 @@ We date the Battle of Vimy Ridge to 9–12 April 1917: from the attack of the Ca
 
 ## Background
 
-Vimy Ridge runs for several kilometres from the valley of the small River Souchez in the north to the outskirts of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) in the south. To the west it rises gently across open fields; to the east it falls steeply towards the flat plain of [Douai](https://pl.wikipedia.org/wiki/Douai), which it overlooks by about 60 metres. Its highest points are Hill 145 (named from its height in metres) in the central part and Hill 135 above the village of [Thélus](https://pl.wikipedia.org/wiki/Thélus) in the south. Whoever held the ridge could see Lens, Douai and the approaches to Arras. The Germans took it in October 1914, and from then on it shielded the coalfield around Lens. The Canadian official history calls it the keystone of the German defences, linking the new [Hindenburg Line](/bitwy/odwrot-na-linie-hindenburga) with the lines running north towards the coast.
+Vimy Ridge runs for several kilometres from the valley of the small River Souchez in the north to the outskirts of [Arras](/miejsca/arras) in the south. To the west it rises gently across open fields; to the east it falls steeply towards the flat plain of [Douai](/miejsca/douai), which it overlooks by about 60 metres. Its highest points are Hill 145 (named from its height in metres) in the central part and Hill 135 above the village of [Thélus](https://pl.wikipedia.org/wiki/Thélus) in the south. Whoever held the ridge could see Lens, Douai and the approaches to Arras. The Germans took it in October 1914, and from then on it shielded the coalfield around Lens. The Canadian official history calls it the keystone of the German defences, linking the new [Hindenburg Line](/bitwy/odwrot-na-linie-hindenburga) with the lines running north towards the coast.
 
 The French Tenth Army attacked the ridge twice. In [May 1915](/bitwy/druga-bitwa-w-artois) the Moroccan Division reached the crest in its first assault but, without reserves, could not hold it. In [September](/bitwy/trzecia-bitwa-w-artois) the French took [Souchez](https://pl.wikipedia.org/wiki/Souchez) and part of the slopes, but the ridge remained in German hands. In March 1916 the British took over the sector. Their tunnelling companies won the mine war underground, but above ground the Germans had the upper hand, and in [May 1916](/niemiecki-atak-na-grzbiet-vimy) they captured a stretch of British trenches at the foot of the crest.
 

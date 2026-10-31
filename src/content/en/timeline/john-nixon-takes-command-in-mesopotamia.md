@@ -2,14 +2,14 @@
 title: John Nixon takes command in Mesopotamia
 summary: On 18 March 1915 General Sir John Nixon became commander of the British forces in Mesopotamia. Force D was to grow to two divisions.
 source: john-nixon-dowodca-w-mezopotamii
-sourceHash: 3cf6f48feb4f86ffedab94d10e37523f567e9c40
+sourceHash: 15a2a88f9b01e54fc5e3237993b034db527d7beb
 ---
 
 On 18 March 1915 General Sir John Nixon was appointed commander-in-chief of the British and Indian forces in [Mesopotamia](https://pl.wikipedia.org/wiki/Mezopotamia). He replaced Lieutenant-General Arthur Barrett, who since November 1914 had [commanded Indian Expeditionary Force D](/barrett-obejmuje-dowodztwo-w-mezopotamii). The change was linked to the expansion of the forces on the Persian Gulf. An army corps of two infantry divisions was to be formed from a single division.
 
 ## A growing threat
 
-After [taking Qurna](/brytyjczycy-zajmuja-al-kurne) in December 1914 the British controlled Basra and the whole course of the Shatt al-Arab. The Turks, however, would not accept this loss. At the turn of 1914 and 1915 command in Mesopotamia was taken over by the energetic Lieutenant-Colonel Süleyman Askerî, who began to gather regular troops and volunteers from the Arab tribes in order to retake [Basra](https://pl.wikipedia.org/wiki/Basra). There was also concern about the situation in the neighbouring Persian province of Arabistan, through which ran the pipeline carrying oil to the refinery at [Abadan](https://pl.wikipedia.org/wiki/Abadan). In February 1915 some of the local Arab tribes, incited by Turkish and German agents, cut the pipeline and attacked the oil installations north of Ahvaz.
+After [taking Qurna](/brytyjczycy-zajmuja-al-kurne) in December 1914 the British controlled Basra and the whole course of the Shatt al-Arab. The Turks, however, would not accept this loss. At the turn of 1914 and 1915 command in Mesopotamia was taken over by the energetic Lieutenant-Colonel Süleyman Askerî, who began to gather regular troops and volunteers from the Arab tribes in order to retake [Basra](/miejsca/basra). There was also concern about the situation in the neighbouring Persian province of Arabistan, through which ran the pipeline carrying oil to the refinery at [Abadan](https://pl.wikipedia.org/wiki/Abadan). In February 1915 some of the local Arab tribes, incited by Turkish and German agents, cut the pipeline and attacked the oil installations north of Ahvaz.
 
 The Government of India, which was responsible for the Mesopotamian expedition, decided to send further brigades to the Persian Gulf. Together with the units already in Mesopotamia they were to form a new 12th Indian Division. A force of two divisions now required a corps headquarters.
 

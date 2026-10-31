@@ -17,7 +17,7 @@ Rankiem 27 maja 1915 roku do [Tarentu](https://pl.wikipedia.org/wiki/Tarent), g�
 
 Rejs z Malty przebiegł spokojnie, ale ostrożnie. Według dziennika okrętowego Implacable około 4 rano okręty minęły latarnię na przylądku Santa Maria di Leuca, na samym „obcasie” włoskiego buta, a od 6 płynęły zygzakiem, by utrudnić atak okrętom podwodnym. Miesiąc wcześniej w tych wodach [austro-węgierski U-5 zatopił francuski krążownik Léon Gambetta](/zatopienie-krazownika-leon-gambetta). Około 9 eskadra stanęła na zewnętrznym akwenie portu, Mar Grande, gdzie na pokład wszedł włoski urzędnik. Potem Implacable przepłynął kanałem do wewnętrznej, dobrze osłoniętej laguny Mar Piccolo i około 10 stanął na beczce. Jeszcze tego samego dnia przyjął z węglowca 240 ton węgla.
 
-Brytyjskie lekkie krążowniki Dublin, Dartmouth, Amethyst i Sapphire, również odesłane spod Dardaneli, trafiły do [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), skąd okręty włoskie i sojusznicze miały patrolować południowy Adriatyk. Amethyst, który przypłynął do Tarentu z zapasami dla eskadry, następnego dnia odszedł do Brindisi. Stały tam już włoskie zespoły krążowników i flotylle niszczycieli.
+Brytyjskie lekkie krążowniki Dublin, Dartmouth, Amethyst i Sapphire, również odesłane spod Dardaneli, trafiły do [Brindisi](/miejsca/brindisi), skąd okręty włoskie i sojusznicze miały patrolować południowy Adriatyk. Amethyst, który przypłynął do Tarentu z zapasami dla eskadry, następnego dnia odszedł do Brindisi. Stały tam już włoskie zespoły krążowników i flotylle niszczycieli.
 
 ## Sojusznicy pod włoską flagą dowódczą
 

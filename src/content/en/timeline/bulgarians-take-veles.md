@@ -2,10 +2,10 @@
 title: Bulgarians take Veles
 summary: Around 20 October 1915 Bulgarian cavalry took Veles on the Vardar. The Salonika–Skopje railway was cut and the Serbs were cut off from the French.
 source: bulgarzy-zajmuja-weles
-sourceHash: f5aea5f1b9800e2a9fd0ca4d79ea0026f771a558
+sourceHash: e6ea16c44a5fb8d3e03ebe65d09e2e66451e4025
 ---
 
-The British chronology of the war records under 21 October 1915 the capture by the Bulgarians of [Veles](https://pl.wikipedia.org/wiki/Wełes), a town on the [Vardar](https://pl.wikipedia.org/wiki/Wardar), then also known by its Turkish name of Köprülü. Other sources point to a day or two earlier. According to the Austro-Hungarian official history, the Bulgarian cavalry division reached Veles as early as 19 October. The British history of the war published by Nelson states that the town fell on 20 October, and Serbian studies say that by that day the Bulgarian Second Army had reached Kumanovo and Veles.
+The British chronology of the war records under 21 October 1915 the capture by the Bulgarians of [Veles](https://pl.wikipedia.org/wiki/Wełes), a town on the [Vardar](/miejsca/wardar), then also known by its Turkish name of Köprülü. Other sources point to a day or two earlier. According to the Austro-Hungarian official history, the Bulgarian cavalry division reached Veles as early as 19 October. The British history of the war published by Nelson states that the town fell on 20 October, and Serbian studies say that by that day the Bulgarian Second Army had reached Kumanovo and Veles.
 
 ## The key to the Vardar valley
 

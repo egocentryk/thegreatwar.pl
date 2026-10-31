@@ -2,10 +2,10 @@
 title: The British retake Armentières again
 summary: In early October 1918 the Germans abandoned Armentières, taken in April on the Lys. The British returned to a town that had been reduced to ruins.
 source: brytyjczycy-ponownie-odbijaja-armentieres
-sourceHash: bedaa91bceb10d21e3d84d55f8a2c6e6f33c3c48
+sourceHash: 1a25e9d23cd67db1379fc5f1194a2f4a705a962a
 ---
 
-On 3 October 1918 [Armentières](https://pl.wikipedia.org/wiki/Armentières), a textile town on the River [Lys](https://pl.wikipedia.org/wiki/Leie) by the Franco-Belgian border, was once again in British hands. The Germans [had taken it on 11 April 1918](/niemcy-zajmuja-armentieres-i-merville), during the Lys offensive, when the British 34th Division abandoned the gas-poisoned ruins. Before that the town had lain for three and a half years just behind the British front, ever since III Corps [retook it in October 1914](/brytyjczycy-odbijaja-armentieres). This time the British returned without a fight, because the Germans withdrew of their own accord.
+On 3 October 1918 [Armentières](https://pl.wikipedia.org/wiki/Armentières), a textile town on the River [Lys](/miejsca/leie) by the Franco-Belgian border, was once again in British hands. The Germans [had taken it on 11 April 1918](/niemcy-zajmuja-armentieres-i-merville), during the Lys offensive, when the British 34th Division abandoned the gas-poisoned ruins. Before that the town had lain for three and a half years just behind the British front, ever since III Corps [retook it in October 1914](/brytyjczycy-odbijaja-armentieres). This time the British returned without a fight, because the Germans withdrew of their own accord.
 
 The withdrawal was the result of German defeats on other sectors of the front. At the end of September the Allies had struck in Flanders near Ypres and at the Hindenburg Line near Cambrai and Saint-Quentin, and the projecting German salient between the Lys and Lens had become superfluous and threatened from both sides. According to the British official history (James Edmonds, *Military Operations France and Belgium 1918*, vol. V), the German Sixth Army, whose roads through Armentières, Frelinghien and Warneton were under fire from the heavy artillery of the British XV Corps, evacuated Armentières and neighbouring [Erquinghem-Lys](https://pl.wikipedia.org/wiki/Erquinghem-Lys) on the night of 1–2 October. At the same time it began to fall back on a front some 27 kilometres long, from Armentières to Lens, to the line of the Haute Deûle canal.
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 czerwca 1915 roku, po nieudanym natarciu na grzbiet [Vimy](https://pl.wikipedia.org/wiki/Vimy), generał [Ferdinand Foch](/postacie/ferdinand-foch) wstrzymał ofensywę francuskiej 10 Armii na północ od [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Tak zakończyła się druga bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), która [zaczęła się 9 maja](/poczatek-drugiej-bitwy-w-artois) od przełamania niemieckich linii i wejścia Dywizji Marokańskiej na grzbiet. Drugie wielkie natarcie, przygotowywane przez cały czerwiec, miało powtórzyć tamten sukces i tym razem utrzymać zdobyty teren. Po trzech dniach walk Francuzi stali w tym samym miejscu co przed nim.
+18 czerwca 1915 roku, po nieudanym natarciu na grzbiet [Vimy](https://pl.wikipedia.org/wiki/Vimy), generał [Ferdinand Foch](/postacie/ferdinand-foch) wstrzymał ofensywę francuskiej 10 Armii na północ od [Arras](/miejsca/arras). Tak zakończyła się druga bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), która [zaczęła się 9 maja](/poczatek-drugiej-bitwy-w-artois) od przełamania niemieckich linii i wejścia Dywizji Marokańskiej na grzbiet. Drugie wielkie natarcie, przygotowywane przez cały czerwiec, miało powtórzyć tamten sukces i tym razem utrzymać zdobyty teren. Po trzech dniach walk Francuzi stali w tym samym miejscu co przed nim.
 
 ## Przygotowania
 

@@ -2,7 +2,7 @@
 title: End of the Battle of the Somme
 summary: On 18 November 1916, in the first snowstorm of winter, the British attacked on the Ancre for the last time. After four and a half months the Somme was over.
 source: koniec-bitwy-nad-somma
-sourceHash: 049159673fe495d32291d03139e4b92e7b1d9776
+sourceHash: b8f35b2c101997dd9568af52f9ad00a67092b2ba
 brief:
   - "On 18 November 1916 the British Fifth Army carried out the last attack of the Battle of the Somme, begun on 1 July, on the river Ancre in a blizzard."
   - "The Canadians and British took two German trenches on the ridge above Grandcourt, but north of the river the attack broke down, and the next day rain flooded the battlefield."
@@ -23,7 +23,7 @@ The same day Haig, just back from Paris, gathered his army commanders for the fi
 
 ## The balance in ground
 
-On the map the result of five months of fighting looked modest. North of the Somme the Allies had pushed the Germans off the whole range of high ground between Albert and Bapaume and from Thiepval to Combles, but at their furthest point they were about ten kilometres from the start line of 1 July. French accounts state that north of the river the front moved about 12 kilometres, and south of it about 8. Neither [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) nor [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), the objectives of the first days, had been taken. The front had not been broken, and the cavalry, which was to pour into the breach, never once got a real chance.
+On the map the result of five months of fighting looked modest. North of the Somme the Allies had pushed the Germans off the whole range of high ground between Albert and Bapaume and from Thiepval to Combles, but at their furthest point they were about ten kilometres from the start line of 1 July. French accounts state that north of the river the front moved about 12 kilometres, and south of it about 8. Neither [Bapaume](/miejsca/bapaume) nor [Péronne](/miejsca/peronne), the objectives of the first days, had been taken. The front had not been broken, and the cavalry, which was to pour into the breach, never once got a real chance.
 
 The state of the troops on both sides, on the other hand, was dreadful. In a report to London of 21 November Haig described the ground on the Somme as "a morass, in places almost bottomless", through which food and ammunition were brought up with enormous difficulty, and the men were so exhausted by carrying supplies and repairing trenches that they had to be relieved often. In the same report he calculated that on 17 November the infantry of his 55 divisions in France was more than 90,000 men short of full establishment. On the German side, regiments came out of the line as mere remnants. According to the history of one of them, which had held out at Grandcourt, the regiment went into battle more than 3,000 strong and on 19 November came out of it about 1,250 strong.
 

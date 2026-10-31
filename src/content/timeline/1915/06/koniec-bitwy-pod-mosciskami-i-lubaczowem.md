@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-15 czerwca 1915 roku według brytyjskiej chronologii wojny zakończyła się bitwa pod [Mościskami](https://pl.wikipedia.org/wiki/Mościska) i [Lubaczowem](https://pl.wikipedia.org/wiki/Lubaczów). Trzy dni po [przeprawie pod Sieniawą](/poczatek-bitwy-pod-mosciskami-i-lubaczowem) i dwa dni po rozpoczęciu głównego natarcia wojska generała [Augusta von Mackensena](/postacie/august-von-mackensen) przełamały drugą linię rosyjskiej obrony. Tego dnia dowódca rosyjskiej [8 Armii](/sily-zbrojne/8-armia-rosyjska), generał [Aleksiej Brusiłow](/postacie/aleksiej-brusilow), nakazał odwrót na ostatnią umocnioną linię przed [Lwowem](https://pl.wikipedia.org/wiki/Lwów).
+15 czerwca 1915 roku według brytyjskiej chronologii wojny zakończyła się bitwa pod [Mościskami](https://pl.wikipedia.org/wiki/Mościska) i [Lubaczowem](https://pl.wikipedia.org/wiki/Lubaczów). Trzy dni po [przeprawie pod Sieniawą](/poczatek-bitwy-pod-mosciskami-i-lubaczowem) i dwa dni po rozpoczęciu głównego natarcia wojska generała [Augusta von Mackensena](/postacie/august-von-mackensen) przełamały drugą linię rosyjskiej obrony. Tego dnia dowódca rosyjskiej [8 Armii](/sily-zbrojne/8-armia-rosyjska), generał [Aleksiej Brusiłow](/postacie/aleksiej-brusilow), nakazał odwrót na ostatnią umocnioną linię przed [Lwowem](/miejsca/lwow).
 
 ## Dwa dni natarcia
 

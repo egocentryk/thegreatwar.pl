@@ -15,7 +15,7 @@ draft: false
 
 ## Podwójne kierownictwo
 
-Na początku wojny War Office miało pełne ręce roboty z wysyłaniem do Francji Brytyjskiego Korpusu Ekspedycyjnego. Wojska do działań przeciw [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) miały więc dostarczyć Indie. Indyjski Korpus Ekspedycyjny „C” generała Jamesa Stewarta, który przybył [we wrześniu](/general-stewart-dowodca-w-afryce-wschodniej) do obrony [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), podlegał po przybyciu ministerstwu kolonii za pośrednictwem gubernatora kolonii. Korpus „B” generała Arthura Aitkena, wysłany z Indii, by zdobyć niemiecką kolonię, kierowany był z kolei przez India Office i dowództwo armii w Indiach. Ta podwójna zależność utrudniała planowanie i obciążała dowódców na miejscu.
+Na początku wojny War Office miało pełne ręce roboty z wysyłaniem do Francji Brytyjskiego Korpusu Ekspedycyjnego. Wojska do działań przeciw [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska) miały więc dostarczyć Indie. Indyjski Korpus Ekspedycyjny „C” generała Jamesa Stewarta, który przybył [we wrześniu](/general-stewart-dowodca-w-afryce-wschodniej) do obrony [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), podlegał po przybyciu ministerstwu kolonii za pośrednictwem gubernatora kolonii. Korpus „B” generała Arthura Aitkena, wysłany z Indii, by zdobyć niemiecką kolonię, kierowany był z kolei przez India Office i dowództwo armii w Indiach. Ta podwójna zależność utrudniała planowanie i obciążała dowódców na miejscu.
 
 ## Po Tandze
 

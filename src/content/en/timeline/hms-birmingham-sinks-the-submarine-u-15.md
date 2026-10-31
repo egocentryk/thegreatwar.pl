@@ -2,10 +2,10 @@
 title: HMS Birmingham sinks the submarine U-15
 summary: On 9 August 1914 the British cruiser Birmingham rammed and sank U-15 off Fair Isle. It was the first U-boat sunk by a warship.
 source: hms-birmingham-zatapia-u-15
-sourceHash: c80830d5b96bd2e7ba7b40a37f6aa0a8000714f6
+sourceHash: be74cf59ba4f2e318da8311f085533ed594922c6
 ---
 
-On 9 August 1914 in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), near the island of [Fair Isle](https://pl.wikipedia.org/wiki/Fair_Isle) between Orkney and [Shetland](https://pl.wikipedia.org/wiki/Szetlandy), the British light cruiser HMS *Birmingham* rammed and sank the German submarine [U-15](https://pl.wikipedia.org/wiki/SM_U-15_(1911)). It was the first German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny) sunk by an enemy warship.
+On 9 August 1914 in the [North Sea](/miejsca/morze-polnocne), near the island of [Fair Isle](https://pl.wikipedia.org/wiki/Fair_Isle) between Orkney and [Shetland](https://pl.wikipedia.org/wiki/Szetlandy), the British light cruiser HMS *Birmingham* rammed and sank the German submarine [U-15](https://pl.wikipedia.org/wiki/SM_U-15_(1911)). It was the first German [submarine](https://pl.wikipedia.org/wiki/Okręt_podwodny) sunk by an enemy warship.
 
 ## Hunting the Grand Fleet
 

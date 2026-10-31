@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 12 kwietnia 1915 roku, że rząd francuski powiadomił rząd rosyjski o przyjęciu rosyjskich roszczeń do [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol). Dokumenty carskiego ministerstwa spraw zagranicznych, opublikowane przez władze sowieckie w latach 20., datują ten krok o dwa dni wcześniej. 10 kwietnia, czyli 28 marca według obowiązującego w Rosji kalendarza juliańskiego, ambasada francuska w Piotrogrodzie przekazała ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) notę werbalną, w której Francja zgadzała się na rosyjskie żądania. Skąd w chronologii wzięła się późniejsza data, nie udało się ustalić.
+Brytyjska chronologia wojny notuje pod 12 kwietnia 1915 roku, że rząd francuski powiadomił rząd rosyjski o przyjęciu rosyjskich roszczeń do [Konstantynopola](/miejsca/konstantynopol). Dokumenty carskiego ministerstwa spraw zagranicznych, opublikowane przez władze sowieckie w latach 20., datują ten krok o dwa dni wcześniej. 10 kwietnia, czyli 28 marca według obowiązującego w Rosji kalendarza juliańskiego, ambasada francuska w Piotrogrodzie przekazała ministrowi spraw zagranicznych [Siergiejowi Sazonowowi](/postacie/siergiej-sazonow) notę werbalną, w której Francja zgadzała się na rosyjskie żądania. Skąd w chronologii wzięła się późniejsza data, nie udało się ustalić.
 
 ## Zgoda pod warunkiem
 

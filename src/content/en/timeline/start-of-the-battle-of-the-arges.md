@@ -2,10 +2,10 @@
 title: Start of the Battle of the Argeș
 summary: On 1 December 1916 General Prezan’s Romanian strike group hit the flank of the Danube Army near Bucharest. But the Germans captured the Romanian battle plan.
 source: poczatek-bitwy-nad-argesem
-sourceHash: f94b585335d69583075be2271fee894bffee0dc4
+sourceHash: 73b3978c146b94cc144abd0ab95bf0bfc1fdfbd7
 ---
 
-On 1 December 1916 the Romanian army made its last attempt to save [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). General [Constantin Prezan](/postacie/constantin-prezan)'s strike group attacked the left flank and rear of General Robert Kosch's [Danube Army](https://pl.wikipedia.org/wiki/Armia_Dunaju), which a week earlier had [crossed the Danube](/mackensen-przekracza-dunaj) and was advancing along the road from Alexandria towards the capital. Between the Neajlov and [Argeș](https://pl.wikipedia.org/wiki/Ardżesz) rivers, a few dozen kilometres south-west of Bucharest, the largest battle of the Romanian campaign began. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 18 November.
+On 1 December 1916 the Romanian army made its last attempt to save [Bucharest](/miejsca/bukareszt). General [Constantin Prezan](/postacie/constantin-prezan)'s strike group attacked the left flank and rear of General Robert Kosch's [Danube Army](https://pl.wikipedia.org/wiki/Armia_Dunaju), which a week earlier had [crossed the Danube](/mackensen-przekracza-dunaj) and was advancing along the road from Alexandria towards the capital. Between the Neajlov and [Argeș](https://pl.wikipedia.org/wiki/Ardżesz) rivers, a few dozen kilometres south-west of Bucharest, the largest battle of the Romanian campaign began. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 18 November.
 
 ## Prezan's plan
 

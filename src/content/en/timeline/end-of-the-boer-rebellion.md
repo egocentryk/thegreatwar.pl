@@ -2,10 +2,10 @@
 title: End of the Boer rebellion
 summary: A British chronology records the end of the organised rebellion in South Africa on 28 December 1914. The last rebels laid down their arms in February 1915.
 source: koniec-rebelii-burskiej
-sourceHash: 675661e6f92ccdadf56ca57d195c099781543cfc
+sourceHash: b67e7803450cf9c04e75c3cce9c1f3180643956c
 ---
 
-A British chronology of the war records under 28 December 1914 the end of the organised rebellion in the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The date does not correspond to any particular battle or surrender. Rather, it marks the moment when no larger rebel unit was fighting on the Union's territory any longer. The revolt had not entirely died out, however. Generals Manie Maritz and Jan Kemp, supported by the Germans, went on fighting on the border of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) for more than a month.
+A British chronology of the war records under 28 December 1914 the end of the organised rebellion in the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The date does not correspond to any particular battle or surrender. Rather, it marks the moment when no larger rebel unit was fighting on the Union's territory any longer. The revolt had not entirely died out, however. Generals Manie Maritz and Jan Kemp, supported by the Germans, went on fighting on the border of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia) for more than a month.
 
 ## Collapse of the rising in the Orange Free State and the Transvaal
 

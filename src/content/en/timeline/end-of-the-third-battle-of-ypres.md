@@ -2,7 +2,7 @@
 title: End of the Third Battle of Ypres
 summary: On 10 November 1917, in pouring rain, the Canadians took the heights north of Passchendaele. This attack ended the Flanders offensive that had begun on 31 July.
 source: koniec-trzeciej-bitwy-pod-ypres
-sourceHash: abca0ddd921ca9c725ade8208b5045d24bdd22f5
+sourceHash: 8a987f34e2bcb019507dee4c86bced420f1598c5
 ---
 
 On 10 November 1917, shortly after six in the morning and in pouring rain, the Canadian 2nd Brigade and the British 1st Division went into the attack on the heights north of the village of [Passchendaele](https://pl.wikipedia.org/wiki/Passendale_(Zonnebeke)), which the Canadians had [taken four days earlier](/kanadyjczycy-zdobywaja-passchendaele). The Canadians reached their objectives and held them under hurricane fire, while the British on their left wing were driven back. It was the last large attack of the Third Battle of Ypres, which the British Battles Nomenclature Committee closed on precisely this date. After three and a half months of fighting in the mud the British army had moved the front forward about 7 km and taken the Passchendaele ridge, but had reached neither [Roeselare](https://pl.wikipedia.org/wiki/Roeselare) nor the Belgian coast. Each side lost about a quarter of a million men, and the dispute over the purpose of this offensive continues to this day.
@@ -21,7 +21,7 @@ Field Marshal [Douglas Haig](/postacie/douglas-haig) wanted the whole ridge as f
 
 ## The balance
 
-The offensive, which was to have broken the front, reached the railway junction at Roeselare and taken from the Germans the submarine bases at [Ostend](https://pl.wikipedia.org/wiki/Ostenda) and [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge), ended with the capture of a few kilometres of shell-torn ground. The Canadian official history speaks of an advance of a mere four and a half miles, or about 7 km. The British now held a narrow, waterlogged salient around Passchendaele, under fire from three sides. According to Haig, since the end of July they had taken in Flanders 24,065 prisoners, 74 guns, 941 machine guns and 138 trench mortars.
+The offensive, which was to have broken the front, reached the railway junction at Roeselare and taken from the Germans the submarine bases at [Ostend](/miejsca/ostenda) and [Zeebrugge](/miejsca/zeebrugge), ended with the capture of a few kilometres of shell-torn ground. The Canadian official history speaks of an advance of a mere four and a half miles, or about 7 km. The British now held a narrow, waterlogged salient around Passchendaele, under fire from three sides. According to Haig, since the end of July they had taken in Flanders 24,065 prisoners, 74 guns, 941 machine guns and 138 trench mortars.
 
 The losses are disputed to this day. The British official history by James Edmonds, of 1948, gave 244,897 killed, wounded and missing on the British and dominion side, and the historians Robin Prior and Trevor Wilson estimate them at about 275,000. The German ten-day casualty returns of the Fourth Army give about 217,000 from the second half of July to the end of the year, and the British historian Nick Lloyd, citing the German medical statistics, gives about 236,000 from 1 August to 10 November. Edmonds, adding the lightly wounded, estimated the German losses at as many as 400,000, a figure most historians do not accept.
 

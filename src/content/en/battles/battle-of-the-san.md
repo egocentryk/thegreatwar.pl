@@ -9,10 +9,10 @@ sides:
     commanders: [Nikolai Ivanov, Radko Dimitriev, Aleksei Brusilov]
 result: Central Powers victory. The Germans and Austrians held bridgeheads on the east bank of the San and repulsed Russian counter-attacks, but did not yet break the river line.
 source: bitwa-nad-sanem
-sourceHash: 5ecce388b8f7cfb738e2c241bd3f4610ff1446ea
+sourceHash: 1366636a10e250a3870449234320ca9ede628f48
 ---
 
-The Battle of the San was the second stage of the great Central Powers offensive in Galicia that had begun with the [breakthrough at Gorlice](/bitwy/bitwa-pod-gorlicami). After two weeks of retreat, in mid-May 1915 the Russian armies halted on the line of the [San](https://pl.wikipedia.org/wiki/San), where they were to stop, refit and go over to a counter-offensive. But General [August von Mackensen](/postacie/august-von-mackensen)'s German [11th Army](/sily-zbrojne/11-armia-niemiecka) [won a bridgehead at Jarosław](/panstwa-centralne-zdobywaja-jaroslaw), crossed the river and for a week beat off Russian counter-attacks. The Russians still held their positions at Radymno and Przemyśl, but they could not push the enemy back across the San. The bridgeheads won in those days served Mackensen as the base for the attack that at the end of May shattered the defence on the river.
+The Battle of the San was the second stage of the great Central Powers offensive in Galicia that had begun with the [breakthrough at Gorlice](/bitwy/bitwa-pod-gorlicami). After two weeks of retreat, in mid-May 1915 the Russian armies halted on the line of the [San](/miejsca/san), where they were to stop, refit and go over to a counter-offensive. But General [August von Mackensen](/postacie/august-von-mackensen)'s German [11th Army](/sily-zbrojne/11-armia-niemiecka) [won a bridgehead at Jarosław](/panstwa-centralne-zdobywaja-jaroslaw), crossed the river and for a week beat off Russian counter-attacks. The Russians still held their positions at Radymno and Przemyśl, but they could not push the enemy back across the San. The bridgeheads won in those days served Mackensen as the base for the attack that at the end of May shattered the defence on the river.
 
 ## Name and dates
 

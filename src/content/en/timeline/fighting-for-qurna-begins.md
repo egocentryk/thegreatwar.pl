@@ -2,10 +2,10 @@
 title: Fighting for Qurna begins
 summary: On 4 December 1914 Indian troops landed near Qurna and drove the Turks out of the village of Muzaira, but failed to cross the Tigris and returned to camp.
 source: poczatek-walk-o-al-kurne
-sourceHash: e0b8bebf5e186491f80ec3d06f3b7be20dc6a796
+sourceHash: bb8349ab0aab4a3c2ee067fa392d255e773d15f9
 ---
 
-On 4 December 1914 troops of Indian Expeditionary Force "D" attacked the Turkish positions at [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), at the confluence of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). It was there that the Turks had withdrawn after the loss of [Basra](/brytyjczycy-zajmuja-basre), and Lieutenant-General Arthur Barrett decided to drive them out. The first day of fighting brought the British the capture of the suburbs on the other side of the river, but not of the town itself.
+On 4 December 1914 troops of Indian Expeditionary Force "D" attacked the Turkish positions at [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), at the confluence of the [Tigris](/miejsca/tygrys) and the [Euphrates](/miejsca/eufrat). It was there that the Turks had withdrawn after the loss of [Basra](/brytyjczycy-zajmuja-basre), and Lieutenant-General Arthur Barrett decided to drive them out. The first day of fighting brought the British the capture of the suburbs on the other side of the river, but not of the town itself.
 
 ## Frazer's expedition
 

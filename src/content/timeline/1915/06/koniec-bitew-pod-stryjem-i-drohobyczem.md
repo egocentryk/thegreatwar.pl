@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny zamyka 3 czerwca 1915 roku bitwy pod Stryjem i Drohobyczem, które według niej [zaczęły się 18 maja](/poczatek-bitew-pod-stryjem-i-drohobyczem). Tego dnia na przedgórzu Karpat Wschodnich nie było już zwartej rosyjskiej linii obrony. Po upadku [Stryja](https://pl.wikipedia.org/wiki/Stryj_(miasto)) 31 maja rosyjskie oddziały, które jeszcze trzymały się na wschód i na północ od [Drohobycza](https://pl.wikipedia.org/wiki/Drohobycz), odeszły w stronę [Dniestru](https://pl.wikipedia.org/wiki/Dniestr), a wojska niemiecko-austriackiej [Armii Południowej](/sily-zbrojne/armia-poludniowa) szły ich śladem. Walki na tym odcinku były częścią szerszej [bitwy nad Stryjem](/bitwy/bitwa-nad-stryjem), która trwała jeszcze do 11 czerwca.
+Brytyjska chronologia wojny zamyka 3 czerwca 1915 roku bitwy pod Stryjem i Drohobyczem, które według niej [zaczęły się 18 maja](/poczatek-bitew-pod-stryjem-i-drohobyczem). Tego dnia na przedgórzu Karpat Wschodnich nie było już zwartej rosyjskiej linii obrony. Po upadku [Stryja](https://pl.wikipedia.org/wiki/Stryj_(miasto)) 31 maja rosyjskie oddziały, które jeszcze trzymały się na wschód i na północ od [Drohobycza](https://pl.wikipedia.org/wiki/Drohobycz), odeszły w stronę [Dniestru](/miejsca/dniestr), a wojska niemiecko-austriackiej [Armii Południowej](/sily-zbrojne/armia-poludniowa) szły ich śladem. Walki na tym odcinku były częścią szerszej [bitwy nad Stryjem](/bitwy/bitwa-nad-stryjem), która trwała jeszcze do 11 czerwca.
 
 ## Pościg spod Drohobycza
 

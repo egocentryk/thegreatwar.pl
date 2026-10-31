@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 września 1914 roku oddziały serbskie przeprawiły się przez [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i zajęły [Zemun](https://pl.wikipedia.org/wiki/Zemun), w ówczesnych źródłach niemieckich i brytyjskich nazywany Semlin. Miasto leżało w [Sremie](https://pl.wikipedia.org/wiki/Srem), u ujścia Sawy do Dunaju, dokładnie naprzeciw [Belgradu](https://pl.wikipedia.org/wiki/Belgrad), i należało wtedy do Austro-Węgier. Był to najbardziej widowiskowy sukces serbskiej ofensywy w Sremie.
+10 września 1914 roku oddziały serbskie przeprawiły się przez [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i zajęły [Zemun](https://pl.wikipedia.org/wiki/Zemun), w ówczesnych źródłach niemieckich i brytyjskich nazywany Semlin. Miasto leżało w [Sremie](https://pl.wikipedia.org/wiki/Srem), u ujścia Sawy do Dunaju, dokładnie naprzeciw [Belgradu](/miejsca/belgrad), i należało wtedy do Austro-Węgier. Był to najbardziej widowiskowy sukces serbskiej ofensywy w Sremie.
 
 ## Miasto naprzeciw stolicy
 

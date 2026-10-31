@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny odnotowała pod datą 14 września 1914 roku opuszczenie [Reims](https://pl.wikipedia.org/wiki/Reims) przez wojska niemieckie. W rzeczywistości Niemcy wycofali się z miasta dwa dni wcześniej, 12 września, a rankiem 13 września weszły do niego oddziały francuskiej 5 Armii. 14 września był za to pierwszym dniem, w którym niemiecka artyleria zaczęła systematycznie ostrzeliwać odzyskane miasto. Radość z wyzwolenia trwała więc bardzo krótko.
+Brytyjska kronika wojny odnotowała pod datą 14 września 1914 roku opuszczenie [Reims](/miejsca/reims) przez wojska niemieckie. W rzeczywistości Niemcy wycofali się z miasta dwa dni wcześniej, 12 września, a rankiem 13 września weszły do niego oddziały francuskiej 5 Armii. 14 września był za to pierwszym dniem, w którym niemiecka artyleria zaczęła systematycznie ostrzeliwać odzyskane miasto. Radość z wyzwolenia trwała więc bardzo krótko.
 
 ## Koniec okupacji
 

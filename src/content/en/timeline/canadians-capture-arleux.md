@@ -2,7 +2,7 @@
 title: Canadians capture Arleux
 summary: On 28 April 1917 the Canadian 2nd Brigade took Arleux-en-Gohelle, the day's only success, as British attacks at Rœux, Gavrelle and Oppy failed.
 source: kanadyjczycy-zdobywaja-arleux
-sourceHash: d9cbe4fa0d77a46f816caacc1e2dbadfb28a85c5
+sourceHash: 2c944a33b841fb6872864526a744aa5c5b8fe78b
 brief:
   - "On 28 April 1917 six British and Canadian divisions attacked near Arras on a front about 10 km long. Almost everywhere the attack broke down."
   - "It was a subsidiary attack: Douglas Haig kept the Battle of Arras going to help Nivelle, whose offensive on the Aisne had failed. The British divisions, in action for three weeks, were greatly weakened."
@@ -11,7 +11,7 @@ brief:
   - "According to the Canadian official history Canadian losses approached 1,000 men, and they took about 450 prisoners. The captured salient became the base for their attack on Fresnoy on 3 May."
 ---
 
-At 4.25 a.m. on 28 April 1917 the British and Canadians once again went into the attack near [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Six divisions attacked on a front about 10 km long, from Monchy-le-Preux on the Scarpe to the village of [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle) at the foot of Vimy Ridge. Almost everywhere the attack broke down. The exception was the 2nd Brigade of the 1st Canadian Division, which in less than two hours went through the German loop of trenches, took the ruins of Arleux and held them against counter-attacks. The British official history called this "the only tangible success of the whole operation".
+At 4.25 a.m. on 28 April 1917 the British and Canadians once again went into the attack near [Arras](/miejsca/arras). Six divisions attacked on a front about 10 km long, from Monchy-le-Preux on the Scarpe to the village of [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle) at the foot of Vimy Ridge. Almost everywhere the attack broke down. The exception was the 2nd Brigade of the 1st Canadian Division, which in less than two hours went through the German loop of trenches, took the ruins of Arleux and held them against counter-attacks. The British official history called this "the only tangible success of the whole operation".
 
 ## An attack for the sake of an ally
 

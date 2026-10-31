@@ -2,10 +2,10 @@
 title: Warneford destroys airship LZ 37
 summary: On 7 June 1915 British airman Reginald Warneford bombed the airship LZ 37 in mid-air over Ghent. The burning wreck fell on a convent in Sint-Amandsberg.
 source: warneford-niszczy-sterowiec-lz-37
-sourceHash: 6e80f26de2d8b19e8e4a1a14a190177252f5ecd5
+sourceHash: b31a7432c41eef921608cd230276c6f96e20dfd0
 ---
 
-Before dawn on 7 June 1915 Reginald Warneford, a 23-year-old pilot of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), attacked the German army airship LZ 37 over [Ghent](https://pl.wikipedia.org/wiki/Gandawa). Bombs dropped from his single-seat [Morane-Saulnier L](https://pl.wikipedia.org/wiki/Morane-Saulnier_L) monoplane set fire to the hydrogen in the [airship](/slownik/sterowiec), which crashed in flames onto the buildings of [Sint-Amandsberg](https://pl.wikipedia.org/wiki/Sint-Amandsberg), a suburban municipality of Ghent. The same night two other British naval airmen destroyed in its shed at [Evere](https://pl.wikipedia.org/wiki/Evere) near Brussels the airship [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), which a week earlier had [been the first to bomb London](/pierwszy-nalot-sterowca-na-londyn).
+Before dawn on 7 June 1915 Reginald Warneford, a 23-year-old pilot of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), attacked the German army airship LZ 37 over [Ghent](/miejsca/gandawa). Bombs dropped from his single-seat [Morane-Saulnier L](https://pl.wikipedia.org/wiki/Morane-Saulnier_L) monoplane set fire to the hydrogen in the [airship](/slownik/sterowiec), which crashed in flames onto the buildings of [Sint-Amandsberg](https://pl.wikipedia.org/wiki/Sint-Amandsberg), a suburban municipality of Ghent. The same night two other British naval airmen destroyed in its shed at [Evere](https://pl.wikipedia.org/wiki/Evere) near Brussels the airship [LZ 38](https://pl.wikipedia.org/wiki/LZ_38), which a week earlier had [been the first to bomb London](/pierwszy-nalot-sterowca-na-londyn).
 
 ## Night over Flanders
 
@@ -15,7 +15,7 @@ The British naval airmen of No. 1 Wing, stationed at [Dunkirk](https://pl.wikipe
 
 ## Duel over Ghent
 
-Warneford spotted LZ 37 near [Ostend](https://pl.wikipedia.org/wiki/Ostenda) and set off in pursuit. The airship's crew fired at the aircraft with machine guns, so the pilot climbed to get above the enemy. According to his report, at about 2.25 a.m. he was well behind the airship and high above it, at about 11,000 feet (3.4 km). He switched off his engine, glided down over the airship and at about 7,000 feet (2.1 km) released his bombs. The last of them set the envelope alight. The explosion threw the aircraft about so violently that for a moment it turned upside down.
+Warneford spotted LZ 37 near [Ostend](/miejsca/ostenda) and set off in pursuit. The airship's crew fired at the aircraft with machine guns, so the pilot climbed to get above the enemy. According to his report, at about 2.25 a.m. he was well behind the airship and high above it, at about 11,000 feet (3.4 km). He switched off his engine, glided down over the airship and at about 7,000 feet (2.1 km) released his bombs. The last of them set the envelope alight. The explosion threw the aircraft about so violently that for a moment it turned upside down.
 
 The burning LZ 37 fell on Sint-Amandsberg. The wreckage crashed onto a square in the centre of the municipality and onto the buildings of a nearby convent of the Visitation sisters, which housed a school. Eight of the nine crew members were killed, among them van der Haegen. Only the helmsman, Alfred Mühler, survived. The gondola he was in struck the convent roof, and he himself fell through the roof into a bedroom and landed on an empty bed. With minor burns he managed to get out of the burning building. According to Belgian local historians, one nun was killed on the ground, and in the nearby béguinage a nine-year-old girl. Some British sources speak of two nuns killed.
 

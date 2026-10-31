@@ -2,10 +2,10 @@
 title: Destruction of airship L 43
 summary: On the morning of 14 June 1917 a British flying boat from Felixstowe shot down the naval airship L 43 near the island of Vlieland. The whole crew was killed.
 source: zniszczenie-sterowca-l-43
-sourceHash: 20bd4b828f8908938e211444b3138beed5bcf9c1
+sourceHash: 1f8a73e9ca596bb24c976d81c840a270da1c109c
 ---
 
-On the morning of 14 June 1917 the German naval airship *L 43* fell in flames over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), near the Dutch island of [Vlieland](https://pl.wikipedia.org/wiki/Vlieland). It was shot down by a twin-engined Curtiss H.12 "Large America" [flying boat](https://pl.wikipedia.org/wiki/Łódź_latająca) from the naval air station at [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). The whole crew was killed, together with the commander, Kapitänleutnant Hermann Kraushaar. It was the second airship destroyed in this way within a month. On 14 May a flying boat from Great Yarmouth had shot down [*L 22* off Terschelling](/zniszczenie-sterowca-l-22).
+On the morning of 14 June 1917 the German naval airship *L 43* fell in flames over the [North Sea](/miejsca/morze-polnocne), near the Dutch island of [Vlieland](https://pl.wikipedia.org/wiki/Vlieland). It was shot down by a twin-engined Curtiss H.12 "Large America" [flying boat](https://pl.wikipedia.org/wiki/Łódź_latająca) from the naval air station at [Felixstowe](https://pl.wikipedia.org/wiki/Felixstowe). The whole crew was killed, together with the commander, Kapitänleutnant Hermann Kraushaar. It was the second airship destroyed in this way within a month. On 14 May a flying boat from Great Yarmouth had shot down [*L 22* off Terschelling](/zniszczenie-sterowca-l-22).
 
 *L 43* was a new ship, which first took to the air in March 1917. She served mainly for reconnaissance over the sea. On 4 May she bombed, without success and from a great height, a British force including the Australian cruiser [HMAS *Sydney*](https://pl.wikipedia.org/wiki/HMAS_Sydney_(1912)), which in turn fired at the airship without success. On the night of 23/24 May she took part in a raid on England. According to H. A. Jones's British official history of the air war, she dropped 38 bombs on fields and villages in Suffolk and Norfolk, killing one person. Kraushaar was an experienced commander. According to German records he had made several dozen flights in various airships, and in the autumn of 1916 he had bombed Nottingham in *L 17*.
 

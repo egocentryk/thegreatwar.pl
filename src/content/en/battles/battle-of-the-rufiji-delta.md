@@ -9,10 +9,10 @@ sides:
     commanders: [Max Looff]
 result: British victory. The cruiser Königsberg was wrecked and scuttled by her own crew, but the Germans salvaged her guns and used them in the fighting on land.
 source: bitwa-w-delcie-rufiji
-sourceHash: 78cb692e9af81619bd9dee9f0322325770d4416d
+sourceHash: cdbdffdcbdcd8269309ec8ec6ae05d5e236e210f
 ---
 
-The battle of the Rufiji Delta ended the Royal Navy's hunt, lasting more than eight months, for the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), hidden in the backwaters of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) River on the coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Large ships could not reach her across the shallows, so the Admiralty sent two shallow-draught [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)), *Severn* and *Mersey*, to Africa. On 6 and 11 July 1915 they went deep into the delta and shelled the cruiser from a range of about 10 km, their fire directed by airmen in aircraft circling over the jungle. The second time *Königsberg* was wrecked, and Commander Max Looff ordered her blown up. It was one of the first actions in which ships fired at an unseen target solely on the basis of corrections passed from the air.
+The battle of the Rufiji Delta ended the Royal Navy's hunt, lasting more than eight months, for the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), hidden in the backwaters of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) River on the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska). Large ships could not reach her across the shallows, so the Admiralty sent two shallow-draught [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)), *Severn* and *Mersey*, to Africa. On 6 and 11 July 1915 they went deep into the delta and shelled the cruiser from a range of about 10 km, their fire directed by airmen in aircraft circling over the jungle. The second time *Königsberg* was wrecked, and Commander Max Looff ordered her blown up. It was one of the first actions in which ships fired at an unseen target solely on the basis of corrections passed from the air.
 
 ## Name and dates
 

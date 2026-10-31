@@ -2,7 +2,7 @@
 title: Surrender of Jerusalem
 summary: On 9 December 1917, after the Turks fled overnight, Jerusalem's mayor went out to the British with a white flag. The city surrendered without a fight or damage.
 source: kapitulacja-jerozolimy
-sourceHash: 589de83d8a2248a616c899fa6d1a813417acd29a
+sourceHash: c84357d1710f4b9eb9d8988fede6a6b1d3b0e0fe
 brief:
   - "On 9 December 1917 Jerusalem surrendered without a fight to the troops of General Sir Edmund Allenby. After four hundred years of Ottoman rule the Holy City passed into British hands."
   - "The day before, the British 60th and 74th Divisions had taken the Turkish defences west of the city. Allenby did not want to fight in the city itself, and in the night its defenders fled north and east."
@@ -11,7 +11,7 @@ brief:
   - "For the Ottoman Empire it was a painful loss of prestige, and for the Entente good news at a gloomy time after Caporetto. Lloyd George received Jerusalem two weeks before Christmas."
 ---
 
-On Sunday 9 December 1917 [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima) surrendered to the troops of General Sir [Edmund Allenby](/postacie/edmund-allenby). There was no assault and no street fighting. The day before, the British had taken the Turkish defences west of the city, and in the night its defenders had fled. In the morning the mayor, Hussein Salim al-Husseini, went out with a white flag to meet the British, carrying the Ottoman governor's letter surrendering the city, and for several hours looked for someone willing to accept it. After four hundred years of Ottoman rule the Holy City of Christians, Jews and Muslims passed into British hands, and none of its holy places was damaged.
+On Sunday 9 December 1917 [Jerusalem](/miejsca/jerozolima) surrendered to the troops of General Sir [Edmund Allenby](/postacie/edmund-allenby). There was no assault and no street fighting. The day before, the British had taken the Turkish defences west of the city, and in the night its defenders had fled. In the morning the mayor, Hussein Salim al-Husseini, went out with a white flag to meet the British, carrying the Ottoman governor's letter surrendering the city, and for several hours looked for someone willing to accept it. After four hundred years of Ottoman rule the Holy City of Christians, Jews and Muslims passed into British hands, and none of its holy places was damaged.
 
 ## The city before the surrender
 

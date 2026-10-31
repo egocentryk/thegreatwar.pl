@@ -2,10 +2,10 @@
 title: Battle of Kara Urgan begins
 summary: In early January 1915 the Ottoman XI Corps attacked the Russians at Kara Urgan, on the road from Erzurum to Sarikamish. Then Enver Pasha left the front.
 source: poczatek-bitwy-pod-kara-urgan
-sourceHash: c8ebdc0987f540b62d5d3df58e9381e67ba1450a
+sourceHash: 8b47fb0214d67dfc9b6e34419b7d0f8686a4da3d
 ---
 
-A British chronology of the war records under 8 January 1915 the beginning of the Battle of Kara Urgan (Turkish Karaurgan). This village lay on the old Russo-Turkish border, on the road from [Erzurum](https://pl.wikipedia.org/wiki/Erzurum) to Sarikamish, about 40 kilometres from the town. Here the Ottoman XI Corps fought the Russian rearguard of General [Nikolai Yudenich](/postacie/nikolaj-judenicz). The battle was the last stage of the struggle at Sarikamish. Fighting in this area had been going on since the last days of December. The date of 8 January does, however, roughly agree with a report by the new commander of the Third Army, Hafız Hakkı, who wrote on 13 January of six days of bloody fighting in the XI Corps sector.
+A British chronology of the war records under 8 January 1915 the beginning of the Battle of Kara Urgan (Turkish Karaurgan). This village lay on the old Russo-Turkish border, on the road from [Erzurum](/miejsca/erzurum) to Sarikamish, about 40 kilometres from the town. Here the Ottoman XI Corps fought the Russian rearguard of General [Nikolai Yudenich](/postacie/nikolaj-judenicz). The battle was the last stage of the struggle at Sarikamish. Fighting in this area had been going on since the last days of December. The date of 8 January does, however, roughly agree with a report by the new commander of the Third Army, Hafız Hakkı, who wrote on 13 January of six days of bloody fighting in the XI Corps sector.
 
 ## XI Corps on the Aras
 

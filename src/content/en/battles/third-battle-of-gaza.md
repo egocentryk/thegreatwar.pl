@@ -9,10 +9,10 @@ sides:
     commanders: [Erich von Falkenhayn, Friedrich Kress von Kressenstein, Fevzi Pasha, Refet Bey, İsmet Bey]
 result: British victory. Allenby took Beersheba and broke the left wing of the Turkish line, and on the night of 6/7 November the Turks abandoned Gaza and fell back northwards.
 source: trzecia-bitwa-o-gaze
-sourceHash: a597f3defd63109a5d6d7fa4a1cebe853a2e095e
+sourceHash: 8dd7ccc07fb97492a0a65664ac7fb67f7bbdb927
 ---
 
-The Third Battle of Gaza decided the fate of southern Palestine. After two failed assaults in the spring of 1917, the front had stood for six months on the Gaza–[Beersheba](https://pl.wikipedia.org/wiki/Beer_Szewa) line. General Sir [Edmund Allenby](/postacie/edmund-allenby), commander of the Egyptian Expeditionary Force since June, did not strike this time at the strongest point of the Turkish defences. For several days he shelled [Gaza](https://pl.wikipedia.org/wiki/Gaza_(miasto)) from land and sea to confirm the enemy's belief that the town was his objective, while moving most of his army to the other, desert flank. On 31 October he took Beersheba together with its wells, on 1 and 2 November he attacked the western defences of Gaza, and on 6 November he broke the Turkish line at Tel esh Sheria. On the night of 6/7 November the Turks abandoned Gaza, and the next morning the British entered the empty, ruined town. The road to [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima) lay open.
+The Third Battle of Gaza decided the fate of southern Palestine. After two failed assaults in the spring of 1917, the front had stood for six months on the Gaza–[Beersheba](https://pl.wikipedia.org/wiki/Beer_Szewa) line. General Sir [Edmund Allenby](/postacie/edmund-allenby), commander of the Egyptian Expeditionary Force since June, did not strike this time at the strongest point of the Turkish defences. For several days he shelled [Gaza](https://pl.wikipedia.org/wiki/Gaza_(miasto)) from land and sea to confirm the enemy's belief that the town was his objective, while moving most of his army to the other, desert flank. On 31 October he took Beersheba together with its wells, on 1 and 2 November he attacked the western defences of Gaza, and on 6 November he broke the Turkish line at Tel esh Sheria. On the night of 6/7 November the Turks abandoned Gaza, and the next morning the British entered the empty, ruined town. The road to [Jerusalem](/miejsca/jerozolima) lay open.
 
 ## Name and dates
 

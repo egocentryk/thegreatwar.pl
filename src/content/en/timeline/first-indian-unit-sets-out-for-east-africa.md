@@ -2,10 +2,10 @@
 title: First Indian unit sets out for East Africa
 summary: On 19 August 1914 the 29th Punjabis left India, the first unit of an Indian expeditionary force sent to the front. Its destination was East Africa.
 source: pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej
-sourceHash: 8af6a5219c43abdf5e94384f94aded5c0fb01181
+sourceHash: 5eb8b258709c90438b324ec36832456c8e997eb5
 ---
 
-On 19 August 1914 the first unit of Indian Expeditionary Force "C", the 29th Punjabis, set out from [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). According to contemporary chronicles, it was the first unit of the Indian Army to leave India in this war to fight on any front. Its destination was [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia).
+On 19 August 1914 the first unit of Indian Expeditionary Force "C", the 29th Punjabis, set out from [British India](https://pl.wikipedia.org/wiki/Indie_Brytyjskie). According to contemporary chronicles, it was the first unit of the Indian Army to leave India in this war to fight on any front. Its destination was [British East Africa](/bitwy/kampania-wschodnioafrykanska).
 
 ## Defending a British colony
 

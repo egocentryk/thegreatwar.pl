@@ -17,7 +17,7 @@ draft: false
 
 Podstawą propozycji były postanowienia [konferencji berlińskiej](https://pl.wikipedia.org/wiki/Konferencja_berlińska_(1884–1885)) z lat 1884–1885. Mocarstwa kolonialne ustanowiły wtedy w Afryce Środkowej rozległą strefę wolnego handlu, obejmującą dorzecze Konga i sąsiednie tereny, aż po wybrzeże Oceanu Indyjskiego. Akt końcowy konferencji przewidywał, że w razie wojny państwa posiadające tam kolonie mogą uzgodnić ich neutralność, by nie przenosić konfliktu na afrykańskie terytoria.
 
-Belgia miała szczególny powód, by z tej możliwości skorzystać. Jej wojska walczyły z niemiecką inwazją w Europie, a Kongo, ogromna kolonia przejęta od króla Leopolda II, sąsiadowało z [Niemiecką Afryką Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) i [Kamerunem](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Wojna w Afryce Środkowej groziła zniszczeniami i buntami, a słabe siły kolonialne nie były przygotowane do dużych działań.
+Belgia miała szczególny powód, by z tej możliwości skorzystać. Jej wojska walczyły z niemiecką inwazją w Europie, a Kongo, ogromna kolonia przejęta od króla Leopolda II, sąsiadowało z [Niemiecką Afryką Wschodnią](/bitwy/kampania-wschodnioafrykanska) i [Kamerunem](/miejsca/kamerun). Wojna w Afryce Środkowej groziła zniszczeniami i buntami, a słabe siły kolonialne nie były przygotowane do dużych działań.
 
 ## Brak zgody
 

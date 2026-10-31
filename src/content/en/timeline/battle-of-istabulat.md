@@ -2,10 +2,10 @@
 title: Battle of Istabulat
 summary: On 21–22 April 1917 Cobbe's I Corps, in heat and a sandstorm, drove the Turkish XVIII Corps from Istabulat on the Tigris. The road to Samarra lay open.
 source: bitwa-pod-istabulat
-sourceHash: 1ae8e63b2a861ef0494d9f5593b45901f40b09ea
+sourceHash: 5a2478ae6fdb9bd2785b8f4e92880df42f9268e0
 ---
 
-On 21 and 22 April 1917 at Istabulat, on the right bank of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) about 20 kilometres by rail south of [Samarra](https://pl.wikipedia.org/wiki/Samarra), the troops of General Alexander Cobbe fought one of the hardest battles of the spring campaign in Mesopotamia. The British chronology of the war records it under 22 April as the *Action of Istabulat*, lasting two days. Facing the British was the Turkish XVIII Corps, which since the [action at Mushahida](/potyczka-pod-muszahida) had been falling back along the Baghdad–Samarra railway. This time the Turks decided to stand. Prisoners later stated that the Istabulat position was to have been their main line of defence on the Tigris for the whole hot summer.
+On 21 and 22 April 1917 at Istabulat, on the right bank of the [Tigris](/miejsca/tygrys) about 20 kilometres by rail south of [Samarra](https://pl.wikipedia.org/wiki/Samarra), the troops of General Alexander Cobbe fought one of the hardest battles of the spring campaign in Mesopotamia. The British chronology of the war records it under 22 April as the *Action of Istabulat*, lasting two days. Facing the British was the Turkish XVIII Corps, which since the [action at Mushahida](/potyczka-pod-muszahida) had been falling back along the Baghdad–Samarra railway. This time the Turks decided to stand. Prisoners later stated that the Istabulat position was to have been their main line of defence on the Tigris for the whole hot summer.
 
 ## A position on the canal
 

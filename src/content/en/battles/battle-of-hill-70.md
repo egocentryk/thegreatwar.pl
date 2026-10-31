@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Otto von Below]
 result: Canadian victory. The Canadians took and held Hill 70, inflicting heavy losses on the Germans and tying down their reserves, but did not take Lens, which remained in German hands until the autumn of 1918.
 source: bitwa-o-wzgorze-70
-sourceHash: 7088966204f9e43f3448fd2e8105001ed1fbf974
+sourceHash: 44f2516a480733cc44b66819801343fbaa825d89
 brief:
   - "The Battle of Hill 70, fought above Lens on 15–25 August 1917, was the first battle of the Canadian Corps under a Canadian commander, General Arthur Currie."
   - "The attack was meant to draw German reserves away from Flanders. Currie persuaded his superiors to attack Hill 70 instead of Lens, since the Germans would have to retake it under Canadian artillery fire."
@@ -26,7 +26,7 @@ The name "Battle of Hill 70" and the dates 15–25 August 1917 were fixed after 
 
 ## Background
 
-Lens, the centre of the most densely built-up coalfield in France, had been in German hands since October 1914. After the [capture of Vimy Ridge](/bitwy/bitwa-o-grzbiet-vimy) in April 1917 the Germans fell back onto the plain, and the town found itself in a projecting salient of their front, under the fire of British artillery, which reduced it to ruins. The British already knew Hill 70, a treeless chalk hump in the northern suburbs: in September 1915, in the [Battle of Loos](/bitwy/bitwa-pod-loos), the Scottish 15th Division had crossed its summit but had been unable to hold it. From the hill one could see the whole of Lens and the [Douai](https://pl.wikipedia.org/wiki/Douai) plain far behind the German lines.
+Lens, the centre of the most densely built-up coalfield in France, had been in German hands since October 1914. After the [capture of Vimy Ridge](/bitwy/bitwa-o-grzbiet-vimy) in April 1917 the Germans fell back onto the plain, and the town found itself in a projecting salient of their front, under the fire of British artillery, which reduced it to ruins. The British already knew Hill 70, a treeless chalk hump in the northern suburbs: in September 1915, in the [Battle of Loos](/bitwy/bitwa-pod-loos), the Scottish 15th Division had crossed its summit but had been unable to hold it. From the hill one could see the whole of Lens and the [Douai](/miejsca/douai) plain far behind the German lines.
 
 In the spring of 1917, after the failure of the French offensive on the Aisne, the British commander-in-chief, [Douglas Haig](/postacie/douglas-haig), was preparing a great offensive in Flanders. The other armies were meanwhile to tie down the Germans on their own sectors. General Henry Horne's First Army planned an attack on Lens with three corps on a front from Gavrelle to Hill 70, but as the heavy artillery left for the north it had to scale down its intentions. In June the Canadians and the British I Corps fought on both sides of the little Souchez river south-west of Lens and took most of the village of [Avion](https://pl.wikipedia.org/wiki/Avion), but the attack on Hill 70, which I Corps was to carry out, was postponed for lack of guns.
 

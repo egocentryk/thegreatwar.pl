@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 marca 1918 roku brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga zajęła bez walki miasto [Hit](https://pl.wikipedia.org/wiki/Hit_(miasto)) nad [Eufratem](https://pl.wikipedia.org/wiki/Eufrat), około 50 kilometrów w górę rzeki od Ramadi. Poprzedniego dnia brytyjskie patrole stwierdziły, że Turcy opuścili zarówno miasto, jak i swoją główną pozycję za nim. Nazajutrz, 10 marca, Brytyjczycy weszli do Sahilii, położonej według Candlera około 25 kilometrów dalej. Turecka 50 Dywizja cofnęła się do Chan al-Baghdadi, około 35 kilometrów powyżej Hitu, a brytyjskie samoloty przez cały dzień obrzucały bombami i ostrzeliwały jej kolumny. Datę 9 marca podają zgodnie brytyjska chronologia wojny, historia oficjalna kampanii i korespondent wojenny Edmund Candler.
+9 marca 1918 roku brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga zajęła bez walki miasto [Hit](https://pl.wikipedia.org/wiki/Hit_(miasto)) nad [Eufratem](/miejsca/eufrat), około 50 kilometrów w górę rzeki od Ramadi. Poprzedniego dnia brytyjskie patrole stwierdziły, że Turcy opuścili zarówno miasto, jak i swoją główną pozycję za nim. Nazajutrz, 10 marca, Brytyjczycy weszli do Sahilii, położonej według Candlera około 25 kilometrów dalej. Turecka 50 Dywizja cofnęła się do Chan al-Baghdadi, około 35 kilometrów powyżej Hitu, a brytyjskie samoloty przez cały dzień obrzucały bombami i ostrzeliwały jej kolumny. Datę 9 marca podają zgodnie brytyjska chronologia wojny, historia oficjalna kampanii i korespondent wojenny Edmund Candler.
 
 ## Po Ramadi
 

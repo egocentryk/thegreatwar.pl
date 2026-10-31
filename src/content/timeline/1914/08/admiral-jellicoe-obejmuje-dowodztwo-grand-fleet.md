@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-4 sierpnia 1914 roku, w dniu przystąpienia Wielkiej Brytanii do wojny, główne siły [Royal Navy](/sily-zbrojne/royal-navy) otrzymały nową nazwę i nowego dowódcę. Dotychczasową Flotę Macierzystą przemianowano na [Grand Fleet](/sily-zbrojne/grand-fleet), a dowództwo nad nią objął admirał sir [John Jellicoe](/postacie/john-jellicoe). Flota stacjonowała w bazie [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) na Orkadach, dokąd przeszła kilka dni wcześniej.
+4 sierpnia 1914 roku, w dniu przystąpienia Wielkiej Brytanii do wojny, główne siły [Royal Navy](/sily-zbrojne/royal-navy) otrzymały nową nazwę i nowego dowódcę. Dotychczasową Flotę Macierzystą przemianowano na [Grand Fleet](/sily-zbrojne/grand-fleet), a dowództwo nad nią objął admirał sir [John Jellicoe](/postacie/john-jellicoe). Flota stacjonowała w bazie [Scapa Flow](/miejsca/scapa-flow) na Orkadach, dokąd przeszła kilka dni wcześniej.
 
 Jellicoe zastąpił admirała sir George'a Callaghana, który dowodził flotą przez ostatnie lata pokoju. Pierwszy Lord Admiralicji [Winston Churchill](/postacie/winston-churchill) i admirał John Fisher uważali jednak, że Callaghan nie nadaje się do kierowania flotą w czasie wojny. Zmiana, przeprowadzona w ostatniej chwili, była dla Callaghana bolesna, a sam Jellicoe przyjął nominację niechętnie, ze względu na szacunek dla poprzednika.
 

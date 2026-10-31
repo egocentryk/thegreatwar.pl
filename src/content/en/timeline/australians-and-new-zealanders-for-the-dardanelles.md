@@ -2,7 +2,7 @@
 title: Australians and New Zealanders for the Dardanelles
 summary: On 20 February 1915 Kitchener ordered General Birdwood's 30,000 or so Australians and New Zealanders to prepare for operations at the Dardanelles.
 source: australijczycy-i-nowozelandczycy-dla-dardaneli
-sourceHash: c7316bb2fd8b3bc967528ac7b819d2e2e5249eb7
+sourceHash: b1638d5eff6ab434220dd4713b28b88fe6c1f923
 ---
 
 On 20 February 1915 the Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), sent a telegram to [General John Maxwell](/general-maxwell-dowodca-w-egipcie), commander of the British forces in Egypt. He instructed him to warn about 30,000 soldiers from Australia and New Zealand, under the command of General William Birdwood, to prepare for operations at the [Dardanelles](/miejsca/dardanele). The day before, British and French ships had [begun bombarding the forts at the entrance to the strait](/poczatek-ataku-floty-na-dardanele).
@@ -15,7 +15,7 @@ Kitchener argued that the soldiers from Egypt would reach the Dardanelles sooner
 
 ## The content of the order
 
-The soldiers were to form two divisions: the 1st Australian Division of General William Bridges and the New Zealand and Australian Division of General Alexander Godley. Together they made up Birdwood's corps, called after the initial letters of its English name [ANZAC](https://pl.wikipedia.org/wiki/Australian_and_New_Zealand_Army_Corps). Kitchener warned Maxwell that the transports would reach [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) about 9 March. He told him, however, to get in touch at once with Vice-Admiral Sackville Carden, commanding the fleet at the Dardanelles, because Carden might need troops earlier. Maxwell did not have to wait for the ships from England. He was to collect whatever he could on the spot and send part of the troops without delay to the island of [Lemnos](https://pl.wikipedia.org/wiki/Limnos), where the fleet was setting up its base. That same day the Admiralty ordered several ships in the vicinity to be sent to Alexandria so that they could take on troops by 27 February.
+The soldiers were to form two divisions: the 1st Australian Division of General William Bridges and the New Zealand and Australian Division of General Alexander Godley. Together they made up Birdwood's corps, called after the initial letters of its English name [ANZAC](https://pl.wikipedia.org/wiki/Australian_and_New_Zealand_Army_Corps). Kitchener warned Maxwell that the transports would reach [Alexandria](https://pl.wikipedia.org/wiki/Aleksandria) about 9 March. He told him, however, to get in touch at once with Vice-Admiral Sackville Carden, commanding the fleet at the Dardanelles, because Carden might need troops earlier. Maxwell did not have to wait for the ships from England. He was to collect whatever he could on the spot and send part of the troops without delay to the island of [Lemnos](/miejsca/mudros), where the fleet was setting up its base. That same day the Admiralty ordered several ships in the vicinity to be sent to Alexandria so that they could take on troops by 27 February.
 
 ## What came next
 

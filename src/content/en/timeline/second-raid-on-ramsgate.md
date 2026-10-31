@@ -2,14 +2,14 @@
 title: Second raid on Ramsgate
 summary: In the night of 26–27 April 1917 German torpedo boats from Flanders shelled Ramsgate. Two people were killed and more than 20 houses were damaged.
 source: drugi-rajd-na-ramsgate
-sourceHash: 7fe637ba6176804c04993c0c93f89cbe01fc9bb3
+sourceHash: f28b2a78e454a6ccff4ab57080e659b385e39a7f
 ---
 
 In the night of 26–27 April 1917 several German torpedo boats from Flanders, in practice modern destroyers, approached [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) on the coast of [Kent](https://pl.wikipedia.org/wiki/Kent) from the sea and shelled the town. The British chronology of the war calls this action the second German destroyer raid on Ramsgate. The first had been the [raid of 17–18 March](/rajd-na-ramsgate-i-broadstairs), when the Germans shelled Ramsgate and neighbouring Broadstairs. The memoirs of Vice-Admiral Reginald Bacon, commander of the forces at [Dover](https://pl.wikipedia.org/wiki/Dover), and the local press date the bombardment to the early hours of 27 April.
 
 ## After the defeat in the Strait
 
-A week earlier, [in the night of 20–21 April](/starcie-swifta-i-broke-a), the British flotilla leaders *Swift* and *Broke* had sunk two German torpedo boats in the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska). After this defeat the ships from Flanders stopped venturing deep into the Strait and looked for easier targets on its fringes. In the night of 24–25 April they shelled [Dunkirk](https://pl.wikipedia.org/wiki/Dunkierka) and sank the French destroyer *Étendard*, which was lost with all hands. Two nights later they struck at Ramsgate, the port at the entrance to the Downs anchorage, where ships sailing along the coast to and from London gathered.
+A week earlier, [in the night of 20–21 April](/starcie-swifta-i-broke-a), the British flotilla leaders *Swift* and *Broke* had sunk two German torpedo boats in the [Strait of Dover](/miejsca/ciesnina-kaletanska). After this defeat the ships from Flanders stopped venturing deep into the Strait and looked for easier targets on its fringes. In the night of 24–25 April they shelled [Dunkirk](https://pl.wikipedia.org/wiki/Dunkierka) and sank the French destroyer *Étendard*, which was lost with all hands. Two nights later they struck at Ramsgate, the port at the entrance to the Downs anchorage, where ships sailing along the coast to and from London gathered.
 
 ## The bombardment
 

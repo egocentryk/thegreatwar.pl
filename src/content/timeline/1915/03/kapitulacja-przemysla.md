@@ -22,7 +22,7 @@ Wieczorem 21 marca i w nocy artyleria twierdzy otworzyła ogień ze wszystkich d
 
 ## Wybuchy o świcie
 
-Nad ranem 22 marca saperzy zaczęli wysadzać umocnienia. Większość relacji podaje, że główne eksplozje nastąpiły około 6 rano. Oficer załogi, podpułkownik Emil Rottenwald, wspominał, że punktualnie o szóstej forty wyleciały w powietrze. Niektórzy mieszkańcy pisali w dziennikach o wybuchach już w środku nocy. Kolejno niszczono forty, wśród nich forty w Siedliskach, Optyni, Helichy, Duńkowiczkach i Orzechowcach, a także działa, składy amunicji i radiostację. Według rosyjskich akt wysadzono wszystkie mosty na [Sanie](https://pl.wikipedia.org/wiki/San) i [Wiarze](https://pl.wikipedia.org/wiki/Wiar) z wyjątkiem jednego drewnianego mostu w okolicach Krównik. W mieście z okien wypadały szyby, a nad twierdzą unosiły się dym i łuny pożarów.
+Nad ranem 22 marca saperzy zaczęli wysadzać umocnienia. Większość relacji podaje, że główne eksplozje nastąpiły około 6 rano. Oficer załogi, podpułkownik Emil Rottenwald, wspominał, że punktualnie o szóstej forty wyleciały w powietrze. Niektórzy mieszkańcy pisali w dziennikach o wybuchach już w środku nocy. Kolejno niszczono forty, wśród nich forty w Siedliskach, Optyni, Helichy, Duńkowiczkach i Orzechowcach, a także działa, składy amunicji i radiostację. Według rosyjskich akt wysadzono wszystkie mosty na [Sanie](/miejsca/san) i [Wiarze](https://pl.wikipedia.org/wiki/Wiar) z wyjątkiem jednego drewnianego mostu w okolicach Krównik. W mieście z okien wypadały szyby, a nad twierdzą unosiły się dym i łuny pożarów.
 
 ## Białe flagi
 

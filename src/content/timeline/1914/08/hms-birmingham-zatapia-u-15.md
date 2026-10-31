@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 sierpnia 1914 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), w pobliżu wyspy [Fair Isle](https://pl.wikipedia.org/wiki/Fair_Isle) między Orkadami a [Szetlandami](https://pl.wikipedia.org/wiki/Szetlandy), brytyjski krążownik lekki HMS Birmingham staranował i zatopił niemiecki okręt podwodny [U-15](https://pl.wikipedia.org/wiki/SM_U-15_(1911)). Był to pierwszy niemiecki [okręt podwodny](https://pl.wikipedia.org/wiki/Okręt_podwodny) zatopiony przez nieprzyjacielski okręt wojenny.
+9 sierpnia 1914 roku na [Morzu Północnym](/miejsca/morze-polnocne), w pobliżu wyspy [Fair Isle](https://pl.wikipedia.org/wiki/Fair_Isle) między Orkadami a [Szetlandami](https://pl.wikipedia.org/wiki/Szetlandy), brytyjski krążownik lekki HMS Birmingham staranował i zatopił niemiecki okręt podwodny [U-15](https://pl.wikipedia.org/wiki/SM_U-15_(1911)). Był to pierwszy niemiecki [okręt podwodny](https://pl.wikipedia.org/wiki/Okręt_podwodny) zatopiony przez nieprzyjacielski okręt wojenny.
 
 ## Polowanie na Grand Fleet
 

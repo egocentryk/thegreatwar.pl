@@ -2,14 +2,14 @@
 title: Indian Expeditionary Force "B" sails for Africa
 summary: On 16 October 1914 General Aitken's Indian Expeditionary Force "B" sailed from Bombay. Some 8,000 soldiers were to conquer German East Africa.
 source: indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki
-sourceHash: 81ad462d6849ec31ad543c29683b1b6656d4efd8
+sourceHash: 4b1c7d2fa57905290d868eb8070da286abeaa537
 ---
 
 On 16 October 1914 the transports carrying Indian Expeditionary Force "B" sailed from [Bombay](https://pl.wikipedia.org/wiki/Mumbaj). Some 8,000 soldiers under Major General Arthur Aitken, together with several thousand porters and followers, were bound for East Africa. Two days later they were joined at sea by ships from Karachi. The convoy was escorted by the old British battleship *Goliath*.
 
 ## The objective: the whole colony
 
-Unlike Force "C", sent earlier, which [since September](/oddzial-indyjski-przybywa-do-mombasy) had been defending [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), Force "B" was to attack. Aitken's orders stated plainly that the aim of the expedition was to bring the whole of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) under British control. The first step was to be the capture of the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga), the terminus of the German railway running towards Kilimanjaro. From there the British intended to strike into the interior of the colony, and later to take the capital, Dar es Salaam, as well.
+Unlike Force "C", sent earlier, which [since September](/oddzial-indyjski-przybywa-do-mombasy) had been defending [British East Africa](/bitwy/kampania-wschodnioafrykanska), Force "B" was to attack. Aitken's orders stated plainly that the aim of the expedition was to bring the whole of [German East Africa](/bitwy/kampania-wschodnioafrykanska) under British control. The first step was to be the capture of the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga), the terminus of the German railway running towards Kilimanjaro. From there the British intended to strike into the interior of the colony, and later to take the capital, Dar es Salaam, as well.
 
 ## Troops of uneven quality
 

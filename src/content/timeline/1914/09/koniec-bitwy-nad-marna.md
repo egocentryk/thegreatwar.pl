@@ -24,7 +24,7 @@ Pościg nie był szybki. Żołnierze sprzymierzonych, od blisko trzech tygodni m
 
 Bitwa nad Marną nie ma jednej, powszechnie przyjętej daty zakończenia. Brytyjczycy walczyli nad Marną krócej niż Francuzi i mierzą bitwę własnym udziałem w niej. Brytyjska historia oficjalna i brytyjska nomenklatura bitew zamykają ją 10 września, dniem, w którym Korpus Ekspedycyjny przeszedł od walki do pościgu. Według tej historii walki od 6 do 10 września kosztowały Korpus Ekspedycyjny około 1700 zabitych, rannych i zaginionych. Inne opracowania, liczące dłuższy okres, podają znacznie wyższe liczby.
 
-Francuska tradycja mierzy bitwę działaniami całego frontu, od Paryża po Verdun. 11 września szef niemieckiego sztabu generalnego [Helmuth von Moltke](/postacie/helmuth-von-moltke) objechał kwatery swoich armii w centrum i na wschodzie i nakazał odwrót także 3, 4 i 5 Armii. Do 12–13 września Niemcy wycofali się na wzgórza na północ od rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) i zaczęli się tam okopywać. Dlatego we Francji za koniec bitwy uznaje się najczęściej 12 albo 13 września. Kolejną bitwę, już nad Aisne, Brytyjczycy liczą od 12 września.
+Francuska tradycja mierzy bitwę działaniami całego frontu, od Paryża po Verdun. 11 września szef niemieckiego sztabu generalnego [Helmuth von Moltke](/postacie/helmuth-von-moltke) objechał kwatery swoich armii w centrum i na wschodzie i nakazał odwrót także 3, 4 i 5 Armii. Do 12–13 września Niemcy wycofali się na wzgórza na północ od rzeki [Aisne](/miejsca/aisne) i zaczęli się tam okopywać. Dlatego we Francji za koniec bitwy uznaje się najczęściej 12 albo 13 września. Kolejną bitwę, już nad Aisne, Brytyjczycy liczą od 12 września.
 
 ## Cud nad Marną
 

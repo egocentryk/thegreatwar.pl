@@ -2,10 +2,10 @@
 title: Allies take Yaoundé
 summary: On 1 January 1916 Col. Gorges's British column entered Yaoundé unopposed. The Germans had left the day before and were falling back south, towards Muni.
 source: alianci-zajmuja-jaunde
-sourceHash: 215322c7084d77f938cbb102501a8354b6829a75
+sourceHash: 9cabaf6b7f61d3b160153101ecefb187dfd666b9
 ---
 
-On 1 January 1916 British troops entered [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde), the last seat of the German authorities in [Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). According to the British official history, at 11.30 a.m. the central column of Lieutenant-Colonel Haywood, part of Colonel Gorges's force, occupied the fort at Yaoundé without meeting resistance. The town was empty. The German authorities, civilians and most of the colonial troops had withdrawn south earlier. The capture of Yaoundé, the objective of two Allied offensives, did not, however, end the campaign in Kamerun.
+On 1 January 1916 British troops entered [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde), the last seat of the German authorities in [Kamerun](/miejsca/kamerun). According to the British official history, at 11.30 a.m. the central column of Lieutenant-Colonel Haywood, part of Colonel Gorges's force, occupied the fort at Yaoundé without meeting resistance. The town was empty. The German authorities, civilians and most of the colonial troops had withdrawn south earlier. The capture of Yaoundé, the objective of two Allied offensives, did not, however, end the campaign in Kamerun.
 
 ## The last stage of the advance
 

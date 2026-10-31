@@ -2,10 +2,10 @@
 title: Romanian government returns to Bucharest
 summary: On 30 November 1918 trains from Iași brought the Romanian government and the Entente legations to Bucharest. The next day King Ferdinand entered the capital.
 source: rzad-rumunski-wraca-do-bukaresztu
-sourceHash: 4d5dcc390add9d1aa190218892e17f67dad86dc6
+sourceHash: c306e075865c38e50e157bae7078248256a09e90
 ---
 
-On 30 November 1918 (17 November by the Julian calendar, which Romania still used at the time) two trains carrying members of the government, the diplomatic missions and former ministers arrived in [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt) from [Iași](https://pl.wikipedia.org/wiki/Jassy). After almost two years, since the [authorities moved to Moldavia](/rzad-rumunski-przenosi-sie-do-jass) in December 1916, the capital was once again becoming the seat of government. After [Romania re-entered the war](/rumunia-wraca-do-wojny) and the armistice of 11 November, the German troops occupying the country had withdrawn from Bucharest and were leaving through Transylvania for Hungary. The British chronology of the war records under this day the restoration of the Romanian government in Bucharest.
+On 30 November 1918 (17 November by the Julian calendar, which Romania still used at the time) two trains carrying members of the government, the diplomatic missions and former ministers arrived in [Bucharest](/miejsca/bukareszt) from [Iași](https://pl.wikipedia.org/wiki/Jassy). After almost two years, since the [authorities moved to Moldavia](/rzad-rumunski-przenosi-sie-do-jass) in December 1916, the capital was once again becoming the seat of government. After [Romania re-entered the war](/rumunia-wraca-do-wojny) and the armistice of 11 November, the German troops occupying the country had withdrawn from Bucharest and were leaving through Transylvania for Hungary. The British chronology of the war records under this day the restoration of the Romanian government in Bucharest.
 
 ## The journey from Iași
 

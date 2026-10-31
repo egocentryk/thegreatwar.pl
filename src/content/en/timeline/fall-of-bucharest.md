@@ -2,7 +2,7 @@
 title: Fall of Bucharest
 summary: On 6 December 1916 Falkenhayn's and Mackensen's troops entered Bucharest unopposed. Ploiești fell the same day, and the cut-off Cerna Group laid down its arms.
 source: upadek-bukaresztu
-sourceHash: 93e59e63763ca34bb11c83f6bd3270cd97a62679
+sourceHash: d74e95f450c201bd9bf3943a5f717a3e5efc40e8
 brief:
   - "At noon on 6 December 1916 the first units of General Erich von Falkenhayn's German Ninth Army entered Bucharest. The Romanian capital surrendered without a fight."
   - "The city's fate had been decided a few days earlier by the Romanian defeat in the Battle of the Argeș. The government moved to Iași, and the high command concluded it could no longer defend Wallachia."
@@ -11,7 +11,7 @@ brief:
   - "Bucharest was the fourth enemy capital taken by the Central Powers and remained occupied until the end of the war. The Romanian army was not destroyed: rebuilt in Moldavia, it returned to the fight in the summer of 1917."
 ---
 
-At noon on 6 December 1916 the first units of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) entered [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt). The Romanian capital, which before the war had about 345,000 inhabitants, surrendered without a fight. The same day the Germans stormed [Ploiești](https://pl.wikipedia.org/wiki/Ploeszti), the centre of the oilfields, and on the Danube the Romanian Cerna Group, cut off from the rest of the army, capitulated. The Austrian official history called 6 December a day of "particular misfortune" for Romania. For the army group commander, Field Marshal [August von Mackensen](/postacie/august-von-mackensen), it was his 67th birthday. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 23 November.
+At noon on 6 December 1916 the first units of General [Erich von Falkenhayn](/postacie/erich-von-falkenhayn)'s German [Ninth Army](/sily-zbrojne/9-armia-niemiecka) entered [Bucharest](/miejsca/bukareszt). The Romanian capital, which before the war had about 345,000 inhabitants, surrendered without a fight. The same day the Germans stormed [Ploiești](https://pl.wikipedia.org/wiki/Ploeszti), the centre of the oilfields, and on the Danube the Romanian Cerna Group, cut off from the rest of the army, capitulated. The Austrian official history called 6 December a day of "particular misfortune" for Romania. For the army group commander, Field Marshal [August von Mackensen](/postacie/august-von-mackensen), it was his 67th birthday. In Romania, which reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), it was 23 November.
 
 ## After the defeat on the Argeș
 
@@ -27,7 +27,7 @@ The inhabitants lived through the last days in suspense. Constantin Kirițescu d
 
 On the morning of 5 December Mackensen, convinced that the city would not be defended, sent a German staff officer under a flag of truce to the fortress commandant with a demand that it surrender without a fight. The officer was driven to a headquarters far to the east of the city and sent back with the answer that Bucharest was an open city. When he returned to the German lines on the morning of 6 December, German flags were already flying over the north-eastern forts. Units of the German 6th Cavalry Division had occupied the undefended fort at [Mogoșoaia](https://pl.wikipedia.org/wiki/Mogoșoaia) around midnight, and the alerted troops of Kühne's and Schmettow's corps occupied the whole north-western sector of the ring. At noon the first units of the Ninth Army entered the city, and two German divisions of the Danube Army, the 11th Bavarian and the 217th, occupied the districts south of the Dâmbovița. The Turks and Bulgarians advanced between the forts and the Danube, and the Russian IV Corps fell back before them behind the river lines. According to Buchan, Mackensen rode into the city that same day, and he moved his headquarters to Bucharest on 11 December.
 
-Bucharest was, as the Austrian official history notes, the fourth enemy capital taken by the Central Powers, after [Brussels](https://pl.wikipedia.org/wiki/Bruksela), [Belgrade](https://pl.wikipedia.org/wiki/Belgrad) and [Cetinje](https://pl.wikipedia.org/wiki/Cetynia). In the city and in Ploiești the victors seized large stocks that made it easier for them to continue the campaign.
+Bucharest was, as the Austrian official history notes, the fourth enemy capital taken by the Central Powers, after [Brussels](https://pl.wikipedia.org/wiki/Bruksela), [Belgrade](/miejsca/belgrad) and [Cetinje](https://pl.wikipedia.org/wiki/Cetynia). In the city and in Ploiești the victors seized large stocks that made it easier for them to continue the campaign.
 
 ## Ploiești and the burning wells
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 czerwca 1915 roku według brytyjskiej chronologii wojny zaczęła się bitwa pod [Żydaczowem](https://pl.wikipedia.org/wiki/Żydaczów), miasteczkiem nad rzeką Stryj, tuż przed jej ujściem do [Dniestru](https://pl.wikipedia.org/wiki/Dniestr). Te same daty, 10–22 czerwca, podaje niemiecki urzędowy wykaz bitew, stosowany w historiach dywizji. Niemiecko-austriacka [Armia Południowa](/sily-zbrojne/armia-poludniowa) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen) ruszyła tego dnia do nowego natarcia wzdłuż Dniestru, w górę rzeki. Miało ono uderzyć w bok rosyjskich wojsk, które od dwóch dni spychały jej lewe skrzydło w stronę [Stryja](https://pl.wikipedia.org/wiki/Stryj_(miasto)).
+10 czerwca 1915 roku według brytyjskiej chronologii wojny zaczęła się bitwa pod [Żydaczowem](https://pl.wikipedia.org/wiki/Żydaczów), miasteczkiem nad rzeką Stryj, tuż przed jej ujściem do [Dniestru](/miejsca/dniestr). Te same daty, 10–22 czerwca, podaje niemiecki urzędowy wykaz bitew, stosowany w historiach dywizji. Niemiecko-austriacka [Armia Południowa](/sily-zbrojne/armia-poludniowa) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen) ruszyła tego dnia do nowego natarcia wzdłuż Dniestru, w górę rzeki. Miało ono uderzyć w bok rosyjskich wojsk, które od dwóch dni spychały jej lewe skrzydło w stronę [Stryja](https://pl.wikipedia.org/wiki/Stryj_(miasto)).
 
 ## Kryzys nad Dniestrem
 

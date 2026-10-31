@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 stycznia 1918 roku (21 grudnia 1917 st. st.) niemiecka radiostacja podała, że do [Brześcia Litewskiego](https://pl.wikipedia.org/wiki/Brześć) przybyła delegacja [Ukraińskiej Centralnej Rady](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada), by wziąć udział w rokowaniach pokojowych. Sekretarz stanu Richard von Kühlmann zapewnił w depeszy, że jest gotów rozmawiać w Brześciu z przedstawicielami Ukrainy. Część ukraińskich opracowań podaje, że delegaci dotarli na miejsce już 1 stycznia. Przyjechali w chwili, gdy konferencja stała pusta: delegacja bolszewicka siedziała w Piotrogrodzie i domagała się przeniesienia obrad do Sztokholmu, a ministrowie państw centralnych dopiero wracali ze swoich stolic.
+3 stycznia 1918 roku (21 grudnia 1917 st. st.) niemiecka radiostacja podała, że do [Brześcia Litewskiego](/miejsca/brzesc) przybyła delegacja [Ukraińskiej Centralnej Rady](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada), by wziąć udział w rokowaniach pokojowych. Sekretarz stanu Richard von Kühlmann zapewnił w depeszy, że jest gotów rozmawiać w Brześciu z przedstawicielami Ukrainy. Część ukraińskich opracowań podaje, że delegaci dotarli na miejsce już 1 stycznia. Przyjechali w chwili, gdy konferencja stała pusta: delegacja bolszewicka siedziała w Piotrogrodzie i domagała się przeniesienia obrad do Sztokholmu, a ministrowie państw centralnych dopiero wracali ze swoich stolic.
 
 ## Kto przyjechał
 

@@ -20,7 +20,7 @@ Austro-węgierskie panowanie w mieście trwało więc zaledwie dwa tygodnie. Woj
 
 Rosjanie mieli w Galicji gęstą sieć kolei i mogli przerzucać wojska znacznie szybciej. Już w drugiej połowie lutego na północ i zachód od Stanisławowa gromadziły się czołowe oddziały [9 Armii](https://pl.wikipedia.org/wiki/9_Armia_(Imperium_Rosyjskie)) generała Płatona Leczyckiego, wzmocnione jednostkami ściągniętymi z innych odcinków frontu. Według powojennego opracowania austriackiego, opublikowanego w Encyclopaedii Britannica, Leczycki ruszył do natarcia 28 lutego z czterema korpusami.
 
-Prawe skrzydło Pflanzera-Baltina, wyraźnie słabsze liczebnie, cofało się w walkach i oddało Stanisławów. Austriacy zatrzymali się dopiero na nowej linii na północ od [Obertyna](https://pl.wikipedia.org/wiki/Obertyn), między [Dniestrem](https://pl.wikipedia.org/wiki/Dniestr) a Karpatami. Utrzymali ją głównie dzięki temu, że właśnie 4 marca nadciągnął z pomocą XI Korpus, przewieziony z innego odcinka frontu. Pomogła też ofensywa austro-węgierskiej 2 Armii w Bieszczadach, która miała przebić się do Przemyśla i ściągnęła na siebie część rosyjskich rezerw.
+Prawe skrzydło Pflanzera-Baltina, wyraźnie słabsze liczebnie, cofało się w walkach i oddało Stanisławów. Austriacy zatrzymali się dopiero na nowej linii na północ od [Obertyna](https://pl.wikipedia.org/wiki/Obertyn), między [Dniestrem](/miejsca/dniestr) a Karpatami. Utrzymali ją głównie dzięki temu, że właśnie 4 marca nadciągnął z pomocą XI Korpus, przewieziony z innego odcinka frontu. Pomogła też ofensywa austro-węgierskiej 2 Armii w Bieszczadach, która miała przebić się do Przemyśla i ściągnęła na siebie część rosyjskich rezerw.
 
 ## Front nad Prutem
 

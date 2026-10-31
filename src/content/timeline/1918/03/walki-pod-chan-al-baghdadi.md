@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-26 marca 1918 roku brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga uderzyła na turecką 50 Dywizję pod Chan al-Baghdadi, starym zajazdem przy drodze do Aleppo, około 35 kilometrów w górę [Eufratu](https://pl.wikipedia.org/wiki/Eufrat) od [zajętego dwa tygodnie wcześniej Hitu](/brytyjczycy-zajmuja-hit). Pod Hitem Turcy wymknęli się bez walki. Tym razem nowy dowódca dywizji, Nazim Bej (w części relacji Nazmi Bej), postanowił stawić opór. Brytyjczycy właśnie na to liczyli. Przez cały dzień piechota spychała Turków z kolejnych pozycji, a 11 Brygada Kawalerii z samochodami pancernymi obchodziła ich przez pustynię. Wieczorem Turcy byli już okrążeni.
+26 marca 1918 roku brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga uderzyła na turecką 50 Dywizję pod Chan al-Baghdadi, starym zajazdem przy drodze do Aleppo, około 35 kilometrów w górę [Eufratu](/miejsca/eufrat) od [zajętego dwa tygodnie wcześniej Hitu](/brytyjczycy-zajmuja-hit). Pod Hitem Turcy wymknęli się bez walki. Tym razem nowy dowódca dywizji, Nazim Bej (w części relacji Nazmi Bej), postanowił stawić opór. Brytyjczycy właśnie na to liczyli. Przez cały dzień piechota spychała Turków z kolejnych pozycji, a 11 Brygada Kawalerii z samochodami pancernymi obchodziła ich przez pustynię. Wieczorem Turcy byli już okrążeni.
 
 ## Noc i ranek
 

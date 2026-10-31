@@ -75,7 +75,7 @@ Rola Hentscha do dziś budzi spory. Jedni widzieli w nim człowieka, który odda
 
 ## Odwrót nad Aisne
 
-9 września niemieckie prawe skrzydło zaczęło się wycofywać na północ. W kolejnych dniach odwrót objął także armie w centrum i na wschodzie. Sprzymierzeni posuwali się za Niemcami, ale wyczerpani, bez świeżych odwodów i przy fatalnej pogodzie, nie zdołali zamienić odwrotu przeciwnika w pogrom. Do 12–13 września Niemcy wycofali się o kilkadziesiąt kilometrów, na wzgórza nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), i tam się okopali. Próby zepchnięcia ich z tych pozycji w kolejnych dniach się nie powiodły.
+9 września niemieckie prawe skrzydło zaczęło się wycofywać na północ. W kolejnych dniach odwrót objął także armie w centrum i na wschodzie. Sprzymierzeni posuwali się za Niemcami, ale wyczerpani, bez świeżych odwodów i przy fatalnej pogodzie, nie zdołali zamienić odwrotu przeciwnika w pogrom. Do 12–13 września Niemcy wycofali się o kilkadziesiąt kilometrów, na wzgórza nad rzeką [Aisne](/miejsca/aisne), i tam się okopali. Próby zepchnięcia ich z tych pozycji w kolejnych dniach się nie powiodły.
 
 ## Straty
 

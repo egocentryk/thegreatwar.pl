@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 września 1915 roku generał Charles Dobell, dowódca brytyjsko-francuskiej wyprawy w [Kamerunie Niemieckim](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), wydał rozkaz do drugiego marszu na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), gdzie przeniosły się niemieckie władze kolonii. Kolumny brytyjska i francuska miały wyruszyć jednocześnie 6 października. W swoim raporcie Dobell pisał, że do 22 września przygotowania posunęły się na tyle, by można było ruszyć na wschód, dlatego część brytyjskich opracowań datuje na ten dzień początek drugiego marszu. Same walki zaczęły się jednak dopiero dwa tygodnie później.
+22 września 1915 roku generał Charles Dobell, dowódca brytyjsko-francuskiej wyprawy w [Kamerunie Niemieckim](/miejsca/kamerun), wydał rozkaz do drugiego marszu na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), gdzie przeniosły się niemieckie władze kolonii. Kolumny brytyjska i francuska miały wyruszyć jednocześnie 6 października. W swoim raporcie Dobell pisał, że do 22 września przygotowania posunęły się na tyle, by można było ruszyć na wschód, dlatego część brytyjskich opracowań datuje na ten dzień początek drugiego marszu. Same walki zaczęły się jednak dopiero dwa tygodnie później.
 
 ## Plan z Duali
 

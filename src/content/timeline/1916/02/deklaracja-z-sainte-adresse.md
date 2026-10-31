@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-W poniedziałek 14 lutego 1916 roku posłowie Francji, Wielkiej Brytanii i Rosji akredytowani przy królu Belgów przyszli do belgijskiego ministerstwa spraw zagranicznych w [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), nadmorskim przedmieściu [Hawru](https://pl.wikipedia.org/wiki/Hawr), gdzie od jesieni 1914 roku [urzędował rząd belgijski na wygnaniu](/rzad-belgijski-w-hawrze). W imieniu wszystkich trzech przemówił rosyjski poseł, książę Kudaszew (Koudacheff). Zwrócił się do ministra spraw zagranicznych, [barona Eugène'a Beyensa](/baron-beyens-ministrem-spraw-zagranicznych-belgii), i odczytał uroczystą deklarację trzech mocarstw.
+W poniedziałek 14 lutego 1916 roku posłowie Francji, Wielkiej Brytanii i Rosji akredytowani przy królu Belgów przyszli do belgijskiego ministerstwa spraw zagranicznych w [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), nadmorskim przedmieściu [Hawru](/miejsca/hawr), gdzie od jesieni 1914 roku [urzędował rząd belgijski na wygnaniu](/rzad-belgijski-w-hawrze). W imieniu wszystkich trzech przemówił rosyjski poseł, książę Kudaszew (Koudacheff). Zwrócił się do ministra spraw zagranicznych, [barona Eugène'a Beyensa](/baron-beyens-ministrem-spraw-zagranicznych-belgii), i odczytał uroczystą deklarację trzech mocarstw.
 
 ## Treść deklaracji
 

@@ -2,10 +2,10 @@
 title: British occupy Mafia Island
 summary: In January 1915 the British took the German island of Mafia off the Rufiji delta. It became a base against the cruiser Königsberg hidden in the delta.
 source: brytyjczycy-zajmuja-wyspe-mafia
-sourceHash: 123eac4b36bc2eef7144fb9a2381dde9f0df9bd4
+sourceHash: d8cb8a5508a7b85ad5bd29363c1c0b5747923d7f
 ---
 
-The British chronology of the war records under 12 January 1915 the occupation by the British of [Mafia](https://pl.wikipedia.org/wiki/Mafia_(wyspa)) island, part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). According to the war diary of the British units, the landing force went ashore as early as 10 January, and the main fight took place the following day. The date of 12 January probably corresponds to the surrender of the island's German authorities or to the day on which news of it arrived.
+The British chronology of the war records under 12 January 1915 the occupation by the British of [Mafia](https://pl.wikipedia.org/wiki/Mafia_(wyspa)) island, part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). According to the war diary of the British units, the landing force went ashore as early as 10 January, and the main fight took place the following day. The date of 12 January probably corresponds to the surrender of the island's German authorities or to the day on which news of it arrived.
 
 ## An island facing the delta
 

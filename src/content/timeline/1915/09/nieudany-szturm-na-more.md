@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 września 1915 roku nigeryjscy żołnierze generała Fredericka Cunliffe'a, wspierani przez Francuzów, zaatakowali niemiecką załogę broniącą się na górze nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) w północnej części [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Szturm załamał się kilkadziesiąt metrów od niemieckich szańców, a rankiem 9 września Cunliffe wycofał swoich ludzi. Był to co najmniej czwarty atak na Morę: po [pierwszym ataku z sierpnia 1914 roku](/pierwszy-atak-na-more) alianci jeszcze dwukrotnie, pod koniec października i na początku listopada 1914 roku, bezskutecznie próbowali wedrzeć się na górę.
+8 września 1915 roku nigeryjscy żołnierze generała Fredericka Cunliffe'a, wspierani przez Francuzów, zaatakowali niemiecką załogę broniącą się na górze nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) w północnej części [Kamerunu Niemieckiego](/miejsca/kamerun). Szturm załamał się kilkadziesiąt metrów od niemieckich szańców, a rankiem 9 września Cunliffe wycofał swoich ludzi. Był to co najmniej czwarty atak na Morę: po [pierwszym ataku z sierpnia 1914 roku](/pierwszy-atak-na-more) alianci jeszcze dwukrotnie, pod koniec października i na początku listopada 1914 roku, bezskutecznie próbowali wedrzeć się na górę.
 
 ## Rok blokady
 

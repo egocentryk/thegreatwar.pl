@@ -2,10 +2,10 @@
 title: British cross the Kamerun border from Nigeria
 summary: On 25 August 1914 British columns from Nigeria crossed the border of German Kamerun. The land campaign against the German colony had begun.
 source: brytyjczycy-przekraczaja-granice-kamerunu-od-nigerii
-sourceHash: f05a533004fae91d7b4a5ddaf367376ffd82b73c
+sourceHash: b01b59945df08bbdd2c11b109348e23b3b188269
 ---
 
-On 25 August 1914 British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) crossed the border of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). This began the land campaign against one of Germany's largest colonies in Africa, which was to last a year and a half.
+On 25 August 1914 British troops from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) crossed the border of [German Kamerun](/miejsca/kamerun). This began the land campaign against one of Germany's largest colonies in Africa, which was to last a year and a half.
 
 ## Three columns
 

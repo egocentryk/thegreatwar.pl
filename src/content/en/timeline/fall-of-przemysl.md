@@ -2,7 +2,7 @@
 title: Fall of Przemyśl
 summary: At dawn on 22 March 1915 the Przemyśl garrison blew up its forts and bridges, then raised white flags. About 120,000 men went into Russian captivity.
 source: kapitulacja-przemysla
-sourceHash: bd9aeca474a58c61c03041bf510b9e9bf1567b86
+sourceHash: 9ef94146c1c631738d45c88a99393f23c33d996d
 ---
 
 On 22 March 1915 the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) capitulated. After more than four months of the [second siege](/poczatek-drugiego-oblezenia-przemysla), after the failure of the relief offensive in the Carpathians and a failed attempt to break out of the encirclement, the starving garrison of General [Hermann Kusmanek von Burgneustädten](https://pl.wikipedia.org/wiki/Hermann_Kusmanek_von_Burgneustädten) destroyed the fortifications and surrendered to the Russians. It was one of the largest capitulations of the war and the most painful defeat of the Habsburg monarchy in the first year of fighting.
@@ -15,7 +15,7 @@ On the evening of 21 March and during the night the fortress artillery opened fi
 
 ## Explosions at dawn
 
-Early on 22 March sappers began blowing up the fortifications. Most accounts state that the main explosions came at about 6 a.m. An officer of the garrison, Lieutenant-Colonel Emil Rottenwald, recalled that at six o'clock sharp the forts went up into the air. Some inhabitants wrote in their diaries of explosions as early as the middle of the night. One after another the forts were destroyed, among them those at Siedliska, Optynia, Helicha, Duńkowiczki and Orzechowce, together with guns, ammunition depots and the radio station. According to Russian records all the bridges over the [San](https://pl.wikipedia.org/wiki/San) and the [Wiar](https://pl.wikipedia.org/wiki/Wiar) were blown up except one wooden bridge near Krówniki. In the town window panes fell out, and smoke and the glow of fires hung over the fortress.
+Early on 22 March sappers began blowing up the fortifications. Most accounts state that the main explosions came at about 6 a.m. An officer of the garrison, Lieutenant-Colonel Emil Rottenwald, recalled that at six o'clock sharp the forts went up into the air. Some inhabitants wrote in their diaries of explosions as early as the middle of the night. One after another the forts were destroyed, among them those at Siedliska, Optynia, Helicha, Duńkowiczki and Orzechowce, together with guns, ammunition depots and the radio station. According to Russian records all the bridges over the [San](/miejsca/san) and the [Wiar](https://pl.wikipedia.org/wiki/Wiar) were blown up except one wooden bridge near Krówniki. In the town window panes fell out, and smoke and the glow of fires hung over the fortress.
 
 ## White flags
 

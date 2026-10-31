@@ -2,7 +2,7 @@
 title: Torpedoing of the tanker Gulflight
 summary: On 1 May 1915 U-30 torpedoed the American tanker Gulflight off the Scilly Isles. She did not sink, but two seamen drowned and the master died of heart failure.
 source: storpedowanie-gulflight
-sourceHash: a384f8522f94f14d82081499e51b6e4000a78c8a
+sourceHash: 42271e6663a1d64425f1aeb9ef31bedc70e351ad
 ---
 
 On 1 May 1915 at about 12.50 p.m., some tens of kilometres west of the [Isles of Scilly](https://pl.wikipedia.org/wiki/Scilly) off the south-western tip of England, the German submarine [U-30](https://pl.wikipedia.org/wiki/SM_U-30_(1913)) torpedoed the American tanker *Gulflight*. The ship did not sink, but the attack cost three lives. She was the first ship under the flag of the United States to be torpedoed by a German submarine in this war.
@@ -19,6 +19,6 @@ In the confusion after the explosion two members of the crew jumped overboard an
 
 ## The first, but not the only one
 
-Describing *Gulflight* as the first American ship attacked in this war requires qualification. As early as [28 January 1915](/zatopienie-zaglowca-william-p-frye) the German auxiliary cruiser *Prinz Eitel Friedrich* had sunk the American sailing ship *William P. Frye*. In February the American steamers *Evelyn* and *Carib* sank on mines in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), and on 28 April a German aircraft dropped bombs on the American ship *Cushing*. *Gulflight* was, however, the first United States ship torpedoed by a U-boat. Earlier, [in March](/zatopienie-falaby), one American had died aboard the British ship *Falaba*, sunk by U-28.
+Describing *Gulflight* as the first American ship attacked in this war requires qualification. As early as [28 January 1915](/zatopienie-zaglowca-william-p-frye) the German auxiliary cruiser *Prinz Eitel Friedrich* had sunk the American sailing ship *William P. Frye*. In February the American steamers *Evelyn* and *Carib* sank on mines in the [North Sea](/miejsca/morze-polnocne), and on 28 April a German aircraft dropped bombs on the American ship *Cushing*. *Gulflight* was, however, the first United States ship torpedoed by a U-boat. Earlier, [in March](/zatopienie-falaby), one American had died aboard the British ship *Falaba*, sunk by U-28.
 
 The Germans later explained that the submarine's commander had taken the tanker for a ship escorted by British vessels and had noticed the American flag only after giving the order to fire the torpedo. The government in Berlin expressed regret and offered compensation. In Washington the Counselor of the State Department, [Robert Lansing](/postacie/robert-lansing), called for a firm response, but President [Woodrow Wilson](/postacie/woodrow-wilson) preferred to gather information first. Before the Germans had answered the questions about *Gulflight*, the matter was overshadowed by the sinking of the *Lusitania* six days later. The attack on the tanker was mentioned, alongside the attack on *Cushing* and the sinking of *Falaba*, in the first American note of protest of 13 May 1915.

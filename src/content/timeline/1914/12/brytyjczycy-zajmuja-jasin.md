@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 21 grudnia 1914 roku zajęcie przez wojska brytyjskie Jasinu, niemieckiej plantacji tuż za południową granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Tego dnia oddziały generała brygady Michaela Tighe'a przeprawiły się przez graniczną rzekę Umba i zajęły opuszczoną przez Niemców osadę Vanga. Sam Jasin, leżący zaledwie kilka kilometrów dalej, już na terytorium [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), zdobyto według brytyjskiej oficjalnej historii kampanii dopiero w Boże Narodzenie, 25 grudnia. Niektóre starsze opracowania podają nawet początek stycznia 1915 roku.
+Brytyjska chronologia wojny notuje pod 21 grudnia 1914 roku zajęcie przez wojska brytyjskie Jasinu, niemieckiej plantacji tuż za południową granicą [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Tego dnia oddziały generała brygady Michaela Tighe'a przeprawiły się przez graniczną rzekę Umba i zajęły opuszczoną przez Niemców osadę Vanga. Sam Jasin, leżący zaledwie kilka kilometrów dalej, już na terytorium [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), zdobyto według brytyjskiej oficjalnej historii kampanii dopiero w Boże Narodzenie, 25 grudnia. Niektóre starsze opracowania podają nawet początek stycznia 1915 roku.
 
 ## Pogranicze bez gospodarza
 

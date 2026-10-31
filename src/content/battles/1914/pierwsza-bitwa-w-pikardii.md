@@ -21,7 +21,7 @@ Pierwsza bitwa w [Pikardii](https://pl.wikipedia.org/wiki/Pikardia), stoczona w 
 
 ## Daty bitwy
 
-Na tej stronie przyjmujemy daty 22–26 września 1914 roku, podawane przez francuską historiografię (fr. *bataille de Picardie*) i większość współczesnych opracowań. Granice są jednak umowne. Walki na północ od [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) toczyły się już od około 17 września, gdy francuska 6 Armia próbowała obejść niemieckie skrzydło w okolicach [Noyon](https://pl.wikipedia.org/wiki/Noyon), a starcia pod Roye i Lassigny ciągnęły się jeszcze na początku października. Od 25 września główny ciężar walk przesunął się dalej na północ, w okolice Albert i Bapaume. Te walki opisuje się zwykle jako osobną [bitwę pod Albert](/bitwy/pierwsza-bitwa-pod-albert).
+Na tej stronie przyjmujemy daty 22–26 września 1914 roku, podawane przez francuską historiografię (fr. *bataille de Picardie*) i większość współczesnych opracowań. Granice są jednak umowne. Walki na północ od [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) toczyły się już od około 17 września, gdy francuska 6 Armia próbowała obejść niemieckie skrzydło w okolicach [Noyon](/miejsca/noyon), a starcia pod Roye i Lassigny ciągnęły się jeszcze na początku października. Od 25 września główny ciężar walk przesunął się dalej na północ, w okolice Albert i Bapaume. Te walki opisuje się zwykle jako osobną [bitwę pod Albert](/bitwy/pierwsza-bitwa-pod-albert).
 
 ## Tło: otwarte skrzydło
 
@@ -39,7 +39,7 @@ W tej rywalizacji o skrzydło wiele zależało od kolei. Francuzi dysponowali w�
 
 **22 września.** Francuska 2 Armia ruszyła na wschód i północny wschód, przekraczając rzeczkę Avre. Jej korpusy posuwały się na linii od [Lassigny](https://pl.wikipedia.org/wiki/Lassigny) przez [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) po [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes). Naprzeciw stanęły niemiecki II Korpus, który dopiero co nadszedł znad Aisne, oraz IX Korpus Rezerwowy, stanowiące skrajne prawe skrzydło armii Klucka. Francuzom udało się zepchnąć Niemców z części pozycji, ale opór rósł z każdą godziną.
 
-**23–24 września.** Na pole bitwy docierały nowe niemieckie siły. XVIII Korpus, zdjęty z frontu pod Reims, przeszedł forsownym marszem kilkadziesiąt kilometrów i razem z II Korpusem przeprowadził kontratak. Najcięższe walki toczyły się w okolicach Roye, Lassigny i na drogach prowadzących do [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)). Francuzi musieli oddać część zdobytego terenu. Na północnym skrzydle ich kawaleria i dywizje terytorialne nie zdołały utrzymać się na wschód od [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)).
+**23–24 września.** Na pole bitwy docierały nowe niemieckie siły. XVIII Korpus, zdjęty z frontu pod Reims, przeszedł forsownym marszem kilkadziesiąt kilometrów i razem z II Korpusem przeprowadził kontratak. Najcięższe walki toczyły się w okolicach Roye, Lassigny i na drogach prowadzących do [Péronne](/miejsca/peronne). Francuzi musieli oddać część zdobytego terenu. Na północnym skrzydle ich kawaleria i dywizje terytorialne nie zdołały utrzymać się na wschód od [Sommy](/miejsca/somma).
 
 **25–26 września.** Siła natarcia obu stron się wyczerpała. Francuzi zatrzymali niemieckie kontrataki, a wojska obu stron zaczęły się okopywać. Po kolejnych, lokalnych starciach na przełomie września i października front ustalił się na linii biegnącej mniej więcej od Ribécourt nad Oise przez okolice Lassigny i Roye na północ, w stronę Sommy. W tym czasie na północ od Sommy nadchodziły już korpusy 6 Armii niemieckiej, a francuska 2 Armia przedłużała swoją linię w stronę Albert. Tam, od 25 września, zaczęła się kolejna bitwa.
 
@@ -49,6 +49,6 @@ Strat w tej bitwie nie da się dokładnie ustalić. Walki płynnie przechodziły
 
 ## Znaczenie
 
-Pierwsza bitwa w Pikardii nie przyniosła rozstrzygnięcia, ale wyznaczyła schemat kolejnych tygodni. Każda próba obejścia przeciwnika kończyła się czołowym starciem ze świeżymi siłami, które nadciągały z przeciwnej strony, a nowy odcinek frontu zastygał w okopach. Po Pikardii przyszła kolej na Albert, potem [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), a w październiku na Flandrię. Wyścig zakończył się dopiero na wybrzeżu Morza Północnego.
+Pierwsza bitwa w Pikardii nie przyniosła rozstrzygnięcia, ale wyznaczyła schemat kolejnych tygodni. Każda próba obejścia przeciwnika kończyła się czołowym starciem ze świeżymi siłami, które nadciągały z przeciwnej strony, a nowy odcinek frontu zastygał w okopach. Po Pikardii przyszła kolej na Albert, potem [Arras](/miejsca/arras), a w październiku na Flandrię. Wyścig zakończył się dopiero na wybrzeżu Morza Północnego.
 
 Linia, która ustaliła się w Pikardii pod koniec września 1914 roku, przetrwała w niewiele zmienionym kształcie do wiosny 1917 roku, gdy Niemcy wycofali się na przygotowaną wcześniej Linię Hindenburga. Ziemie te stały się ponownie polem wielkich bitew w 1918 roku, podczas niemieckiej ofensywy wiosennej i sprzymierzonej ofensywy, która doprowadziła do końca wojny.

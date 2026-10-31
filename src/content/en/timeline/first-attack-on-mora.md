@@ -2,10 +2,10 @@
 title: First attack on Mora
 summary: On 27 August 1914 a British force from Nigeria attacked the German post on Mora mountain in northern Kamerun. It was repulsed; Mora held out until 1916.
 source: pierwszy-atak-na-more
-sourceHash: d21b937481f6739e4495288f25ef214e513cfff0
+sourceHash: ef17fa725a98e4eca3e38c003e79363117639f49
 ---
 
-On 27 August 1914 a British force from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) attacked the German post at [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) in the north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). The attack failed. It was the beginning of the fighting for Mora, which went on intermittently for a year and a half.
+On 27 August 1914 a British force from [Nigeria](https://pl.wikipedia.org/wiki/Nigeria) attacked the German post at [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) in the north of [German Kamerun](/miejsca/kamerun). The attack failed. It was the beginning of the fighting for Mora, which went on intermittently for a year and a half.
 
 ## A mountain fortress
 

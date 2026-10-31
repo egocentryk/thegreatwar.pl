@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-31 maja 1915 roku wojska brytyjskie i francuskie pod dowództwem podpułkownika Fredericka Cunliffe'a rozpoczęły ostatni etap walk o Garuę (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)), niemiecką twierdzę nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) na północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Od wielu miesięcy alianckie oddziały [obserwowały twierdzę i zaciskały wokół niej pierścień](/alianci-ruszaja-na-garue). Tego dnia po raz pierwszy uderzyły na nią ciężkie działa.
+31 maja 1915 roku wojska brytyjskie i francuskie pod dowództwem podpułkownika Fredericka Cunliffe'a rozpoczęły ostatni etap walk o Garuę (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)), niemiecką twierdzę nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) na północy [Kamerunu Niemieckiego](/miejsca/kamerun). Od wielu miesięcy alianckie oddziały [obserwowały twierdzę i zaciskały wokół niej pierścień](/alianci-ruszaja-na-garue). Tego dnia po raz pierwszy uderzyły na nią ciężkie działa.
 
 ## Na co czekał Cunliffe
 

@@ -2,10 +2,10 @@
 title: North Sea declared a war zone
 summary: On 2 November 1914 the Admiralty declared the whole North Sea a military area. From 5 November neutral ships were to sail through the English Channel.
 source: morze-polnocne-strefa-wojenna
-sourceHash: 166d262d20a1e0ea74e6e424182c34c8f8d5584c
+sourceHash: 1ec1b5120364ed91e7e6a41e347a459673bd3ffc
 ---
 
-On 2 November 1914 the British [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) announced that the whole of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) was henceforth to be regarded as a military area. The governments of neutral states were notified a day later, and in some sources, including the memoirs of Admiral John Jellicoe, the announcement is dated 3 November. The new rules were to apply from 5 November.
+On 2 November 1914 the British [Admiralty](https://pl.wikipedia.org/wiki/Admiralicja) announced that the whole of the [North Sea](/miejsca/morze-polnocne) was henceforth to be regarded as a military area. The governments of neutral states were notified a day later, and in some sources, including the memoirs of Admiral John Jellicoe, the announcement is dated 3 November. The new rules were to apply from 5 November.
 
 ## A response to German mines
 
@@ -17,7 +17,7 @@ The British claimed that the mines had been laid by merchant ships sailing under
 
 The announcement warned that in the North Sea the merchant and fishing vessels of all nations would be exposed to the gravest danger from the mines that it had been necessary to lay, and from warships searching the sea day and night for suspicious vessels. From 5 November every ship crossing the line from the northern tip of the [Hebrides](https://pl.wikipedia.org/wiki/Hebrydy) through the [Faroe Islands](https://pl.wikipedia.org/wiki/Wyspy_Owcze) to Iceland was to sail at its own risk.
 
-Ships bound for Norway, the Baltic, Denmark and the Netherlands were advised to sail through the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) and the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska). There they were to receive sailing directions leading along the east coast of England as far as the Farne Islands, and from there by a safe route to the Lindesnes lighthouse at the southern tip of Norway. The Admiralty warned that straying even a few miles from the prescribed route could have serious consequences. Only a month earlier the British [had announced their first minefield](/brytyjczycy-stawiaja-miny-u-wybrzezy-belgii) off the Belgian coast; now the warning covered the whole sea.
+Ships bound for Norway, the Baltic, Denmark and the Netherlands were advised to sail through the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) and the [Strait of Dover](/miejsca/ciesnina-kaletanska). There they were to receive sailing directions leading along the east coast of England as far as the Farne Islands, and from there by a safe route to the Lindesnes lighthouse at the southern tip of Norway. The Admiralty warned that straying even a few miles from the prescribed route could have serious consequences. Only a month earlier the British [had announced their first minefield](/brytyjczycy-stawiaja-miny-u-wybrzezy-belgii) off the Belgian coast; now the warning covered the whole sea.
 
 ## A step towards blockade
 

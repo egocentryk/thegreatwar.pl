@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-9 września 1914 roku pod [Karongą](https://pl.wikipedia.org/wiki/Karonga), osadą na północno-zachodnim brzegu [jeziora Niasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)), doszło do pierwszej poważnej bitwy na pograniczu brytyjskiego [protektoratu Niasa](https://pl.wikipedia.org/wiki/Niasa_(protektorat)), dzisiejszego Malawi, i [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Brytyjczycy odparli niemiecki atak i zadali napastnikom ciężkie straty.
+9 września 1914 roku pod [Karongą](https://pl.wikipedia.org/wiki/Karonga), osadą na północno-zachodnim brzegu [jeziora Niasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)), doszło do pierwszej poważnej bitwy na pograniczu brytyjskiego [protektoratu Niasa](https://pl.wikipedia.org/wiki/Niasa_(protektorat)), dzisiejszego Malawi, i [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Brytyjczycy odparli niemiecki atak i zadali napastnikom ciężkie straty.
 
 ## Wyprawa na Karongę
 

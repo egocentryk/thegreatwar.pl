@@ -2,7 +2,7 @@
 title: Action at Sphinxhaven
 summary: On 30 May 1915 a British expedition on Lake Nyasa took the German landing place of Sphinxhaven and finally disabled the steamer Hermann von Wissmann.
 source: starcie-w-sphinxhaven
-sourceHash: 75bfa0676b8b64f653023629a69394bdf7539c6e
+sourceHash: 91c2fb2aef65fc4d0f8614ec9ae58dc4bbad13c0
 ---
 
 On 30 May 1915 British armed steamers and soldiers of the King's African Rifles attacked Sphinxhaven (German: Sphinxhafen), a small landing place on the eastern, German shore of [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)) (today Liuli in Tanzania), named after rocks resembling a sphinx. Their target was the German steamer *Hermann von Wissmann*, named after the African explorer and governor [Hermann von Wissmann](https://pl.wikipedia.org/wiki/Hermann_von_Wissmann), the only German vessel on the lake. The British chronology of the war records the day as the British securing command of Lake Nyasa.
@@ -21,4 +21,4 @@ The *Hermann von Wissmann* lay on the shore, still with the damage from August 1
 
 ## Significance
 
-The action was small, but it removed the only threat to British shipping on the lake, which was used to supply the troops on the border of Nyasaland and [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Collins's askaris then disembarked at Vua and on 1 June joined the field force at Karonga, where in September 1914 [a German attack had been repulsed](/walki-pod-karonga). Dennistoun received the Distinguished Service Order (DSO) for the action. The British repaired the wreck of the *Hermann von Wissmann* only in 1918 and commissioned her under the name *King George*.
+The action was small, but it removed the only threat to British shipping on the lake, which was used to supply the troops on the border of Nyasaland and [German East Africa](/bitwy/kampania-wschodnioafrykanska). Collins's askaris then disembarked at Vua and on 1 June joined the field force at Karonga, where in September 1914 [a German attack had been repulsed](/walki-pod-karonga). Dennistoun received the Distinguished Service Order (DSO) for the action. The British repaired the wreck of the *Hermann von Wissmann* only in 1918 and commissioned her under the name *King George*.

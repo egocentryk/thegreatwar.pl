@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku brytyjski oddział z [Nigerii](https://pl.wikipedia.org/wiki/Nigeria) zaatakował niemiecką placówkę pod [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) na północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Atak się nie powiódł. Był to początek walk o Morę, które trwały z przerwami przez półtora roku.
+27 sierpnia 1914 roku brytyjski oddział z [Nigerii](https://pl.wikipedia.org/wiki/Nigeria) zaatakował niemiecką placówkę pod [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) na północy [Kamerunu Niemieckiego](/miejsca/kamerun). Atak się nie powiódł. Był to początek walk o Morę, które trwały z przerwami przez półtora roku.
 
 ## Twierdza na górze
 

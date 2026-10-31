@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-14 stycznia 1915 roku zakończyła się bitwa pod Soissons. Ostatnie francuskie oddziały wycofały się na południowy brzeg wezbranej rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), a Niemcy zajęli północne przedmieścia [Soissons](https://pl.wikipedia.org/wiki/Soissons) i wysunęli placówki nad rzekę. Bitwa, która [zaczęła się 8 stycznia](/poczatek-bitwy-pod-soissons) zdobyciem przez Francuzów wzgórza 132 nad wsią [Crouy](https://pl.wikipedia.org/wiki/Crouy), skończyła się ich wyraźną porażką.
+14 stycznia 1915 roku zakończyła się bitwa pod Soissons. Ostatnie francuskie oddziały wycofały się na południowy brzeg wezbranej rzeki [Aisne](/miejsca/aisne), a Niemcy zajęli północne przedmieścia [Soissons](/miejsca/soissons) i wysunęli placówki nad rzekę. Bitwa, która [zaczęła się 8 stycznia](/poczatek-bitwy-pod-soissons) zdobyciem przez Francuzów wzgórza 132 nad wsią [Crouy](https://pl.wikipedia.org/wiki/Crouy), skończyła się ich wyraźną porażką.
 
 ## Niemiecki kontratak
 

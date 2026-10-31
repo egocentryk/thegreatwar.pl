@@ -2,10 +2,10 @@
 title: Allies capture Duala
 summary: On 27 September 1914 British and French troops took Duala, the main port of German Kamerun. The Germans withdrew inland and fought on there until 1916.
 source: alianci-zdobywaja-duale
-sourceHash: 1c77e11d875108ff50807d76b7277a622db0cf81
+sourceHash: 3251c92795705a5888d52ae58b709593a1c82552
 ---
 
-On 27 September 1914 the German authorities surrendered [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)), the main port and largest town of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), together with Bonaberi on the other side of the river. The town was occupied by Anglo-French troops under the command of General Charles Dobell. The British chronology of the war records this event under the date 26–27 September, because the day before ships had shelled the town, and the capitulation followed the next day.
+On 27 September 1914 the German authorities surrendered [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)), the main port and largest town of [German Kamerun](/miejsca/kamerun), together with Bonaberi on the other side of the river. The town was occupied by Anglo-French troops under the command of General Charles Dobell. The British chronology of the war records this event under the date 26–27 September, because the day before ships had shelled the town, and the capitulation followed the next day.
 
 ## The road to Duala
 

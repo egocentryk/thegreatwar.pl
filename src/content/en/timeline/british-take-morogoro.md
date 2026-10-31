@@ -2,12 +2,12 @@
 title: British take Morogoro
 summary: On 26 August 1916 Smuts's troops entered Morogoro on the Central Railway. Lettow-Vorbeck declined battle and withdrew south through the Uluguru Mountains.
 source: brytyjczycy-zajmuja-morogoro
-sourceHash: ce4b71c90f4d43188d128952f65e5975e83a8ea9
+sourceHash: 027c7e309a29e9b91b21bf87e1fd809ca522e923
 ---
 
 On 26 August 1916 the troops of General [Jan Smuts](/postacie/jan-smuts) took [Morogoro](https://pl.wikipedia.org/wiki/Morogoro) without a fight, a town on the Central Railway about 200 kilometres by rail west of Dar es Salaam. In the morning Smuts sent forward the 2nd Rhodesia Regiment and two companies of the Indian 130th Baluchis. According to the British official history (Hordern), they reached the town in the afternoon and found that the last German rearguards had left a few hours earlier. A good many German civilians, mainly women and children, had stayed in Morogoro. Before the British arrived there had been looting and disorder in the town, but the Rhodesians quickly restored order. Smuts himself rode into Morogoro with his advanced headquarters the next day, 27 August.
 
-Morogoro, the seat of a German district since 1904, had grown after the railway arrived from Dar es Salaam and before the war was one of the main European centres of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) in the interior. It lies at the foot of the [Uluguru](https://pl.wikipedia.org/wiki/Uluguru) Mountains, a steep massif that closes the railway valley to the south. It was here that Smuts hoped at last to catch the main forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), which since March had slipped away from him at Kilimanjaro, in the Pare and Usambara Mountains, and in August in the [Nguru Mountains](/brytyjska-ofensywa-w-gorach-nguru) too.
+Morogoro, the seat of a German district since 1904, had grown after the railway arrived from Dar es Salaam and before the war was one of the main European centres of [German East Africa](/bitwy/kampania-wschodnioafrykanska) in the interior. It lies at the foot of the [Uluguru](https://pl.wikipedia.org/wiki/Uluguru) Mountains, a steep massif that closes the railway valley to the south. It was here that Smuts hoped at last to catch the main forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), which since March had slipped away from him at Kilimanjaro, in the Pare and Usambara Mountains, and in August in the [Nguru Mountains](/brytyjska-ofensywa-w-gorach-nguru) too.
 
 ## The plan to trap the Germans at Morogoro
 

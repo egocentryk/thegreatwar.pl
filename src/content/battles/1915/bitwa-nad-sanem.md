@@ -17,7 +17,7 @@ tags: [Niemcy, Austro-Węgry, Rosja, Galicja]
 milestone: false
 ---
 
-Bitwa nad Sanem była drugim etapem wielkiej ofensywy państw centralnych w Galicji, rozpoczętej [przełamaniem frontu pod Gorlicami](/bitwy/bitwa-pod-gorlicami). Po dwóch tygodniach odwrotu rosyjskie armie stanęły w połowie maja 1915 roku na linii [Sanu](https://pl.wikipedia.org/wiki/San), gdzie miały się zatrzymać, uzupełnić i przejść do kontrofensywy. Niemiecka [11 Armia](/sily-zbrojne/11-armia-niemiecka) generała [Augusta von Mackensena](/postacie/august-von-mackensen) [zdobyła jednak przyczółek w Jarosławiu](/panstwa-centralne-zdobywaja-jaroslaw), przeszła rzekę i przez tydzień odpierała rosyjskie kontrataki. Rosjanie utrzymali jeszcze pozycje pod Radymnem i Przemyślem, ale nie zdołali zepchnąć przeciwnika za San. Wywalczone w tych dniach przyczółki posłużyły Mackensenowi do natarcia, które pod koniec maja rozbiło obronę nad rzeką.
+Bitwa nad Sanem była drugim etapem wielkiej ofensywy państw centralnych w Galicji, rozpoczętej [przełamaniem frontu pod Gorlicami](/bitwy/bitwa-pod-gorlicami). Po dwóch tygodniach odwrotu rosyjskie armie stanęły w połowie maja 1915 roku na linii [Sanu](/miejsca/san), gdzie miały się zatrzymać, uzupełnić i przejść do kontrofensywy. Niemiecka [11 Armia](/sily-zbrojne/11-armia-niemiecka) generała [Augusta von Mackensena](/postacie/august-von-mackensen) [zdobyła jednak przyczółek w Jarosławiu](/panstwa-centralne-zdobywaja-jaroslaw), przeszła rzekę i przez tydzień odpierała rosyjskie kontrataki. Rosjanie utrzymali jeszcze pozycje pod Radymnem i Przemyślem, ale nie zdołali zepchnąć przeciwnika za San. Wywalczone w tych dniach przyczółki posłużyły Mackensenowi do natarcia, które pod koniec maja rozbiło obronę nad rzeką.
 
 ## Nazwa i daty
 

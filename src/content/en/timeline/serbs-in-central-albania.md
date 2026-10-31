@@ -2,10 +2,10 @@
 title: Serbs in central Albania
 summary: The British chronology records the Serbian capture of Durrës on 4 July 1915. In reality they held Tirana and Elbasan, but did not enter Esad's city.
 source: serbowie-w-srodkowej-albanii
-sourceHash: 6d730bcf757dc24f3417753fd81bc03fff6f556d
+sourceHash: 2940b124872d0a5865e912f10c1b51e98f64655e
 ---
 
-The British chronology of the war records under 4 July 1915 that Serbian troops occupied [Durrës](https://pl.wikipedia.org/wiki/Durrës), the seat of the government of [Esad Pasha Toptani](/postacie/esad-pasza-toptani). Under 17 July it adds that the Serbs left the town at the request of the Italian government, and under 31 August that they occupied it again. We have found no confirmation of any of these reports. The British expert on Albania Joseph Swire wrote in 1929 that the Serbs took control of the whole central part of the country, but by agreement with Esad and for fear of complications with Italy did not enter Durrës. This is confirmed by Italian diplomatic documents from the summer of 1915.
+The British chronology of the war records under 4 July 1915 that Serbian troops occupied [Durrës](/miejsca/durres), the seat of the government of [Esad Pasha Toptani](/postacie/esad-pasza-toptani). Under 17 July it adds that the Serbs left the town at the request of the Italian government, and under 31 August that they occupied it again. We have found no confirmation of any of these reports. The British expert on Albania Joseph Swire wrote in 1929 that the Serbs took control of the whole central part of the country, but by agreement with Esad and for fear of complications with Italy did not enter Durrës. This is confirmed by Italian diplomatic documents from the summer of 1915.
 
 ## An expedition against the insurgents
 

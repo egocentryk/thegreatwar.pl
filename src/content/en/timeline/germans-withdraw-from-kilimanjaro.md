@@ -2,10 +2,10 @@
 title: Germans withdraw from Kilimanjaro
 summary: On the night of 21–22 March 1916 Lettow-Vorbeck left his Ruvu positions and fell back along the Usambara Railway. Kilimanjaro passed to the British.
 source: niemcy-wycofuja-sie-spod-kilimandzaro
-sourceHash: 312ef66a2d592d188d932294e4b370208969ef14
+sourceHash: 4764b78e51d2970c12f7366c8ea5cebc3ed520e7
 ---
 
-During the night of 21–22 March 1916 the German units that had spent the whole day [repulsing the British at Kahe](/walki-pod-kahe) quietly left their trenches and moved south along the Usambara Railway, which ran from Moshi to the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). So ended the German defence of the [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro) region, the richest and healthiest corner of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), with its plantations and settler farms, which since the start of the war had been the main base of the German forces in the north of the colony.
+During the night of 21–22 March 1916 the German units that had spent the whole day [repulsing the British at Kahe](/walki-pod-kahe) quietly left their trenches and moved south along the Usambara Railway, which ran from Moshi to the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). So ended the German defence of the [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska) region, the richest and healthiest corner of [German East Africa](/bitwy/kampania-wschodnioafrykanska), with its plantations and settler farms, which since the start of the war had been the main base of the German forces in the north of the colony.
 
 The order to retreat was given by [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) when he received a report that British cavalry was coming round into his rear near Kisangire station, about 25 kilometres further south along the railway. When he himself reached Kisangire shortly after midnight, he discovered to his astonishment that the report was false. The retreat, however, was already under way. According to the British official history (Hordern), the Germans broke contact with the enemy, and reconnaissance later showed that they did not halt until Lembeni, at the foot of the Pare Mountains, where they set up a new defensive position. Behind them they left blown bridges and a disabled gun from the cruiser [*Königsberg*](/zniszczenie-krazownika-konigsberg).
 

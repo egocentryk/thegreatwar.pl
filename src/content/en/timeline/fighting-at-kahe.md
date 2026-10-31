@@ -2,10 +2,10 @@
 title: Fighting at Kahe
 summary: On 21 March 1916 van Deventer's horsemen took Kahe hill and station, while Sheppard's infantry stalled at the Soko Nassai. At night Lettow-Vorbeck withdrew.
 source: walki-pod-kahe
-sourceHash: 37420e8a6a0d18bafb3f26b0fc5d2fb2be0de79e
+sourceHash: a9b5740339b48aa0f4c58d5f85dc6704a0cd28f6
 ---
 
-On 21 March 1916 at Kahe, a station on the Usambara Railway south of [Moshi](https://pl.wikipedia.org/wiki/Moshi), the last battle of General [Jan Smuts](/postacie/jan-smuts)'s offensive at the foot of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro) was fought. After the capture of the [Latema Nek](/koniec-walk-pod-latema-nek) pass and the [occupation of Moshi](/brytyjczycy-zajmuja-moshi), the Germans had fallen back to a new position in dense bush between the Himo, Defu and Soko Nassai rivers, with its back to the Ruvu river, the upper course of the [Pangani](https://pl.wikipedia.org/wiki/Pangani). Smuts wanted to drive them out of it before the rainy season, because only then could he safely extend the railway and prepare a further advance into the interior of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).
+On 21 March 1916 at Kahe, a station on the Usambara Railway south of [Moshi](https://pl.wikipedia.org/wiki/Moshi), the last battle of General [Jan Smuts](/postacie/jan-smuts)'s offensive at the foot of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska) was fought. After the capture of the [Latema Nek](/koniec-walk-pod-latema-nek) pass and the [occupation of Moshi](/brytyjczycy-zajmuja-moshi), the Germans had fallen back to a new position in dense bush between the Himo, Defu and Soko Nassai rivers, with its back to the Ruvu river, the upper course of the [Pangani](https://pl.wikipedia.org/wiki/Pangani). Smuts wanted to drive them out of it before the rainy season, because only then could he safely extend the railway and prepare a further advance into the interior of [German East Africa](/bitwy/kampania-wschodnioafrykanska).
 
 ## First attempts
 

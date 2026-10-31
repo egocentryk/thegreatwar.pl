@@ -2,10 +2,10 @@
 title: British 7th Division lands in Belgium
 summary: On 6 October 1914 the British 7th Division, sent to help Antwerp, began landing at Zeebrugge. It came too late, but covered the Belgian army's retreat.
 source: brytyjska-7-dywizja-laduje-w-belgii
-sourceHash: de6f876e5792b2be65d7f036b9ef8be7ba73882f
+sourceHash: 6fe6ea0f213880a651d03030cdb43df3f21bde40
 ---
 
-On the morning of 6 October 1914 units of the British 7th Infantry Division began to come ashore at the Belgian port of [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge). In the following days the 3rd Cavalry Division also landed at Zeebrugge and [Ostend](https://pl.wikipedia.org/wiki/Ostenda). Both formations had been sent to Belgium to save besieged [Antwerp](/miejsca/antwerpia) together with the Belgian army.
+On the morning of 6 October 1914 units of the British 7th Infantry Division began to come ashore at the Belgian port of [Zeebrugge](/miejsca/zeebrugge). In the following days the 3rd Cavalry Division also landed at Zeebrugge and [Ostend](/miejsca/ostenda). Both formations had been sent to Belgium to save besieged [Antwerp](/miejsca/antwerpia) together with the Belgian army.
 
 ## A division from overseas garrisons
 
@@ -19,6 +19,6 @@ The first units came ashore at Zeebrugge at about 6.30 a.m. on 6 October, and th
 
 ## Covering the retreat
 
-Instead of going to the relief, Rawlinson's divisions had to cover the retreat. Part of the 7th Division was moved to the [Ghent](https://pl.wikipedia.org/wiki/Gandawa) area, where together with Belgian units and the French Marine Fusiliers Brigade it formed a screen for the columns falling back from Antwerp. On 11 October, as superior German forces approached from the east, the screen began to withdraw westwards.
+Instead of going to the relief, Rawlinson's divisions had to cover the retreat. Part of the 7th Division was moved to the [Ghent](/miejsca/gandawa) area, where together with Belgian units and the French Marine Fusiliers Brigade it formed a screen for the columns falling back from Antwerp. On 11 October, as superior German forces approached from the east, the screen began to withdraw westwards.
 
 On 14 October the 7th Division became the first British infantry division to enter [Ypres](/miejsca/ypres). A few days later it found itself in the very middle of the [First Battle of Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), in which for many days it defended a wide sector of the front against a much stronger enemy. The division suffered such heavy losses there that it regained its full fighting value only at the beginning of 1915.

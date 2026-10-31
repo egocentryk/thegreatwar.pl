@@ -16,7 +16,7 @@ draft: false
 
 ## Klucz do zachodniego brzegu Skaldy
 
-Znaczenie Dendermonde wynikało z położenia. Tędy prowadziła droga przez Skaldę na jej zachodni brzeg i dalej w stronę [Gandawy](https://pl.wikipedia.org/wiki/Gandawa) i wybrzeża. Przez ten obszar biegła łączność Antwerpii z portami nad kanałem La Manche, skąd mogła przyjść pomoc aliantów. Gdyby Niemcy przekroczyli tu Skaldę, mogliby odciąć twierdzę od zachodu, a armii belgijskiej zamknąć drogę odwrotu.
+Znaczenie Dendermonde wynikało z położenia. Tędy prowadziła droga przez Skaldę na jej zachodni brzeg i dalej w stronę [Gandawy](/miejsca/gandawa) i wybrzeża. Przez ten obszar biegła łączność Antwerpii z portami nad kanałem La Manche, skąd mogła przyjść pomoc aliantów. Gdyby Niemcy przekroczyli tu Skaldę, mogliby odciąć twierdzę od zachodu, a armii belgijskiej zamknąć drogę odwrotu.
 
 ## Miasto spalone we wrześniu
 

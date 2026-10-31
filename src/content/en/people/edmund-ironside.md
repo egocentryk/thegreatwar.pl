@@ -6,7 +6,7 @@ country: United Kingdom
 birthPlace: Edinburgh (Scotland)
 deathPlace: London
 source: edmund-ironside
-sourceHash: 51cfa3db4b430719e25c6f043991713f342c2077
+sourceHash: 3b08453dbefc1b5b3b83783bf9ec1163a628c8d4
 ---
 
 William Edmund Ironside, known to his fellow officers ironically as "Tiny", because he stood over 190 centimetres tall and weighed over a hundred kilograms, was one of the most colourful British officers of his generation. He spoke several languages fluently, including Russian. In the Great War he served for four years on staffs on the Western Front, longest as chief of staff of the 4th Canadian Division, with which he fought at Vimy and Passchendaele. In the autumn of 1918, aged 38, he took command of the Allied forces at Archangel and for a year waged a war against the Bolsheviks in the far north of Russia, which went on long after the armistice in the west. Later he commanded in Persia, and in 1939 he became Chief of the Imperial General Staff. When he was made a baron, he took the title Ironside of Archangel.
@@ -15,7 +15,7 @@ William Edmund Ironside, known to his fellow officers ironically as "Tiny", beca
 
 He was born on 6 May 1880 in [Edinburgh](https://pl.wikipedia.org/wiki/Edynburg) into the family of an army surgeon, who died when his son was an infant. His mother, living on a modest pension, travelled with him around the Continent, because life was cheaper there. This was the beginning of his knowledge of languages: as an adult he passed official interpreter's examinations in seven. He was educated at St Andrews and at Tonbridge, and in 1898 entered the Royal Military Academy, Woolwich. In June 1899 he was commissioned into the field artillery.
 
-In the [Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska) he was wounded three times. Towards the end of the war he was part of the escort that took General [Jan Smuts](/postacie/jan-smuts) to the peace negotiations. Afterwards, by his own account, he disguised himself as a Boer wagon driver and worked as a spy with the transport of the German forces in [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) until he was recognised. This adventure, whose details and date biographers give differently, gave rise to the legend that he was the model for Richard Hannay, the hero of John Buchan's spy novels. He later served in India and in South Africa, and in 1912 began his studies at the Staff College, Camberley.
+In the [Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska) he was wounded three times. Towards the end of the war he was part of the escort that took General [Jan Smuts](/postacie/jan-smuts) to the peace negotiations. Afterwards, by his own account, he disguised himself as a Boer wagon driver and worked as a spy with the transport of the German forces in [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia) until he was recognised. This adventure, whose details and date biographers give differently, gave rise to the legend that he was the model for Richard Hannay, the hero of John Buchan's spy novels. He later served in India and in South Africa, and in 1912 began his studies at the Staff College, Camberley.
 
 ## On the Western Front
 

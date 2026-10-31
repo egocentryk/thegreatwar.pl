@@ -2,10 +2,10 @@
 title: Fighting for Kondoa Irangi begins
 summary: In mid-April 1916 van Deventer's mounted troops, after a two-week march in the rain, reached Kondoa Irangi and on 17 April fought the Germans in the hills.
 source: poczatek-walk-o-kondoa-irangi
-sourceHash: f1b78d31df9ad06e91d983e4d1b8a7985add0eb9
+sourceHash: 0c1226f70e6eebe15e6f8ca72736f1c2db47189c
 ---
 
-On 17 April 1916 the South African Mounted Brigade of General Jacob van Deventer fought the Germans in the hills north of Kondoa Irangi, a settlement in the middle of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), about 200 kilometres in a straight line south of [Arusha](https://pl.wikipedia.org/wiki/Arusza). The British chronology of the war records under this date the beginning of the British attack on Kondoa Irangi. The sources divide this fighting somewhat differently. According to the British official history (Hordern), the brigade halted on 16 April about 11 kilometres from the settlement, on 17 April fought only minor skirmishes and made its actual attack on 18 April. The South African official history writes that the Germans were attacked as early as 16 April and that the fighting went on throughout the following day.
+On 17 April 1916 the South African Mounted Brigade of General Jacob van Deventer fought the Germans in the hills north of Kondoa Irangi, a settlement in the middle of [German East Africa](/bitwy/kampania-wschodnioafrykanska), about 200 kilometres in a straight line south of [Arusha](https://pl.wikipedia.org/wiki/Arusza). The British chronology of the war records under this date the beginning of the British attack on Kondoa Irangi. The sources divide this fighting somewhat differently. According to the British official history (Hordern), the brigade halted on 16 April about 11 kilometres from the settlement, on 17 April fought only minor skirmishes and made its actual attack on 18 April. The South African official history writes that the Germans were attacked as early as 16 April and that the fighting went on throughout the following day.
 
 ## A march through the rainy season
 

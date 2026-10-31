@@ -2,10 +2,10 @@
 title: British capture Nasiriyah
 summary: On 25 July 1915 General Gorringe's troops entered Nasiriyah, abandoned by the Turks at night after a lost battle. The whole Basra vilayet was in British hands.
 source: brytyjczycy-zdobywaja-an-nasirijje
-sourceHash: f593cf4154ca743cd75fc47df7ed3137c24e308b
+sourceHash: ce0f0262dd377427578237dbdb85053fd5b6f007
 ---
 
-On 25 July 1915 the British and Indian troops of General George Gorringe occupied [Nasiriyah](https://pl.wikipedia.org/wiki/An-Nasirijja) on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) without a fight. The Turks had abandoned the town during the night, after the British had broken through their positions a few kilometres downstream the day before. After almost a month of fighting in the heat and among the floodwaters of the lower Euphrates, the expedition which had [set out from Qurna at the end of June](/brytyjczycy-ruszaja-w-gore-eufratu) came to an end.
+On 25 July 1915 the British and Indian troops of General George Gorringe occupied [Nasiriyah](https://pl.wikipedia.org/wiki/An-Nasirijja) on the [Euphrates](/miejsca/eufrat) without a fight. The Turks had abandoned the town during the night, after the British had broken through their positions a few kilometres downstream the day before. After almost a month of fighting in the heat and among the floodwaters of the lower Euphrates, the expedition which had [set out from Qurna at the end of June](/brytyjczycy-ruszaja-w-gore-eufratu) came to an end.
 
 ## The last day of fighting
 
@@ -21,4 +21,4 @@ According to the British official history, Nasiriyah had about ten thousand inha
 
 The capture of Nasiriyah gave the British the whole of the Basra vilayet, which the Government of India had ordered General John Nixon to secure. The Turks lost the second route, besides the Tigris, by which they could threaten Basra. In his report Nixon wrote that seldom had troops had to campaign in worse heat, and praised the cooperation with the navy and the air reconnaissance before the battle. On 28 July King George V sent him congratulations for Gorringe's column.
 
-Yet another easy victory, however, strengthened Nixon's conviction that the Ottoman army in Mesopotamia was weak. His eyes were already turning up the Tigris, towards [Kut](https://pl.wikipedia.org/wiki/Al-Kut), where Turkish troops were gathering. The British took it in September, and in the autumn they set off for Baghdad.
+Yet another easy victory, however, strengthened Nixon's conviction that the Ottoman army in Mesopotamia was weak. His eyes were already turning up the Tigris, towards [Kut](/miejsca/al-kut), where Turkish troops were gathering. The British took it in September, and in the autumn they set off for Baghdad.

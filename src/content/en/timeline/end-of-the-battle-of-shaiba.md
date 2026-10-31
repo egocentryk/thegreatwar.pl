@@ -2,10 +2,10 @@
 title: End of the battle of Shaiba
 summary: On 14 April 1915 British and Indian troops took the Turkish trenches by Barjisiyah wood. The Turks fled Basra and their commander Süleyman Askerî shot himself.
 source: koniec-bitwy-pod-szuajba
-sourceHash: 88eb7132207144faf4b28e3bfc0c6e42da628942
+sourceHash: 9dfd6c179af405e6b8fa11b6832e07254ef32c0c
 ---
 
-On 14 April 1915 the battle of Shaiba, west of [Basra](https://pl.wikipedia.org/wiki/Basra), was decided. The British and Indian troops of General Charles Melliss came out of the camp where they had [been beating off attacks for two days](/poczatek-bitwy-pod-szuajba) and after a whole day of heavy fighting took the Turkish trenches in front of Barjisiyah wood. The Ottoman troops broke into disorderly flight, and their commander, Lieutenant-Colonel Süleyman Askerî, shot himself. It was the last Turkish attack to threaten Basra.
+On 14 April 1915 the battle of Shaiba, west of [Basra](/miejsca/basra), was decided. The British and Indian troops of General Charles Melliss came out of the camp where they had [been beating off attacks for two days](/poczatek-bitwy-pod-szuajba) and after a whole day of heavy fighting took the Turkish trenches in front of Barjisiyah wood. The Ottoman troops broke into disorderly flight, and their commander, Lieutenant-Colonel Süleyman Askerî, shot himself. It was the last Turkish attack to threaten Basra.
 
 ## The sortie of 13 April
 
@@ -25,6 +25,6 @@ For several hours a static exchange of fire went on in the heat. One of the comm
 
 The British did not pursue the enemy. The infantry was exhausted by three days of fighting and by the heat and almost out of ammunition, and the cavalry happened to be changing position. Melliss did not realise that the battle was won and expected the Turks to defend themselves in their main position by the wood. At 6 p.m. his troops returned to the camp, taking the wounded with them. The day cost them 1,062 killed and wounded, including 161 killed. Some battalions lost more than a quarter of their strength.
 
-The harshest pursuit of the Turks was carried out by their former allies. Once the outcome of the battle was decided, Arab warriors fell upon the fleeing units and plundered them. The Turks fell back in disorder all the way to Khamisiyah on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat), about 140 kilometres from Shaiba. The British official history, citing accounts, states that throughout the battle Askerî had a bed kept in Barjisiyah wood from which he could not move. After the defeat he gathered his officers, accused the Arabs of treachery and shot himself. Turkish sources give the date of his death as 14 April 1915. He was 30 or 31 years old. He had been born in 1884 in [Prizren](https://pl.wikipedia.org/wiki/Prizren), and before the war had fought in Libya against the Italians and in the Balkans.
+The harshest pursuit of the Turks was carried out by their former allies. Once the outcome of the battle was decided, Arab warriors fell upon the fleeing units and plundered them. The Turks fell back in disorder all the way to Khamisiyah on the [Euphrates](/miejsca/eufrat), about 140 kilometres from Shaiba. The British official history, citing accounts, states that throughout the battle Askerî had a bed kept in Barjisiyah wood from which he could not move. After the defeat he gathered his officers, accused the Arabs of treachery and shot himself. Turkish sources give the date of his death as 14 April 1915. He was 30 or 31 years old. He had been born in 1884 in [Prizren](https://pl.wikipedia.org/wiki/Prizren), and before the war had fought in Libya against the Italians and in the Balkans.
 
 The victory over Askerî secured Basra and the refinery at [Abadan](https://pl.wikipedia.org/wiki/Abadan). The defeat also affected the Turks' relations with the tribes. The Arabs, who had failed at Shaiba, lost faith in Turkish strength, and in the following months revolts against the Ottoman authorities broke out in the Shiite towns of central Iraq. The British, emboldened by their success, soon went over to the offensive up the Tigris and the Euphrates.

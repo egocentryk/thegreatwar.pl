@@ -17,7 +17,7 @@ tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania]
 milestone: false
 ---
 
-Bitwa pod Szejk Saad była pierwszą bitwą stoczoną przez brytyjskie wojska idące na odsiecz dywizji generała Charlesa Townshenda, [oblężonej w Al-Kucie](/bitwy/oblezenie-al-kutu) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). Pospiesznie zebrany Korpus Tygrysu generała Fentona Aylmera natrafił kilkadziesiąt kilometrów w dół rzeki od miasta na silną pozycję osmańską po obu brzegach. Przez trzy dni brytyjscy i indyjscy żołnierze atakowali przez płaską, pozbawioną osłon równinę, we mgle, w mirażu i w deszczu. Na prawym brzegu zdobyli tureckie okopy, na lewym utknęli przed nimi. W nocy z 8 na 9 stycznia Turcy wycofali się w porządku, a Aylmer, z wyczerpanym wojskiem i tysiącami rannych, których nie miał czym leczyć, nie mógł ich ścigać. Zwycięstwo kosztowało około 4 tysięcy ludzi.
+Bitwa pod Szejk Saad była pierwszą bitwą stoczoną przez brytyjskie wojska idące na odsiecz dywizji generała Charlesa Townshenda, [oblężonej w Al-Kucie](/bitwy/oblezenie-al-kutu) nad [Tygrysem](/miejsca/tygrys). Pospiesznie zebrany Korpus Tygrysu generała Fentona Aylmera natrafił kilkadziesiąt kilometrów w dół rzeki od miasta na silną pozycję osmańską po obu brzegach. Przez trzy dni brytyjscy i indyjscy żołnierze atakowali przez płaską, pozbawioną osłon równinę, we mgle, w mirażu i w deszczu. Na prawym brzegu zdobyli tureckie okopy, na lewym utknęli przed nimi. W nocy z 8 na 9 stycznia Turcy wycofali się w porządku, a Aylmer, z wyczerpanym wojskiem i tysiącami rannych, których nie miał czym leczyć, nie mógł ich ścigać. Zwycięstwo kosztowało około 4 tysięcy ludzi.
 
 ## Nazwa i daty
 

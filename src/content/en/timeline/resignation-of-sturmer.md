@@ -2,10 +2,10 @@
 title: Resignation of Stürmer
 summary: On 24 November 1916 the fall of Russian premier Boris Stürmer, accused of treason in the Duma, was announced. Transport Minister Alexander Trepov succeeded him.
 source: dymisja-sturmera
-sourceHash: 452e91eaba353572e506647d43f6568ff724950c
+sourceHash: cb157c61f5bf283051719cbf32cdfa16a0f8d4d4
 ---
 
-On 24 November 1916 (11 November in the Julian calendar) the Petrograd press announced that the Chairman of the Council of Ministers, that is the Prime Minister of Russia, [Boris Stürmer](/postacie/boris-sturmer), had left office. He also lost the Foreign Ministry, which he had headed since July. The decision had been taken the day before, 23 November (10 November in the Julian calendar), by Tsar [Nicholas II](/postacie/mikolaj-ii) at Stavka in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew). The new Prime Minister was Alexander Trepov, until then Minister of Transport. The British war chronology records the change under 24 November, the day of the official announcement.
+On 24 November 1916 (11 November in the Julian calendar) the Petrograd press announced that the Chairman of the Council of Ministers, that is the Prime Minister of Russia, [Boris Stürmer](/postacie/boris-sturmer), had left office. He also lost the Foreign Ministry, which he had headed since July. The decision had been taken the day before, 23 November (10 November in the Julian calendar), by Tsar [Nicholas II](/postacie/mikolaj-ii) at Stavka in [Mogilev](/miejsca/mohylew). The new Prime Minister was Alexander Trepov, until then Minister of Transport. The British war chronology records the change under 24 November, the day of the official announcement.
 
 ## "Stupidity or treason?"
 

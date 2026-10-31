@@ -9,7 +9,7 @@ sides:
     commanders: [Georg von der Marwitz]
 result: Allied victory. In about an hour and a half the Australian Corps took all its objectives on a front of about 5.5 km, capturing more than 1,600 prisoners. A German night counter-attack on 5 July was repulsed and the new line held.
 source: bitwa-pod-hamel
-sourceHash: 63ad6772aa69c320d7d88db34acf8e26da3e44ee
+sourceHash: f96b4363dee84467721cb54b1e77c6d37310a67e
 brief:
   - "On the morning of 4 July 1918 ten battalions of the Australian Corps, with sixty Mark V tanks and more than six hundred guns, took Hamel, Vaire and Hamel Woods and the ridge beyond them by the Somme."
   - "From these positions the Germans had watched and shelled the Australian rear. General John Monash planned the attack, and the tanks were to follow the barrage and help the infantry rather than replace it."
@@ -18,7 +18,7 @@ brief:
   - "Hamel showed how to combine infantry, tanks, artillery and aircraft in a surprise attack. The same methods, on a much larger scale, were used on 8 August 1918 at the Battle of Amiens."
 ---
 
-The Battle of Hamel was a small, carefully prepared attack by the Australian Corps on the German positions on the south bank of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)), east of Amiens. On the morning of 4 July 1918 ten battalions of Australian infantry, supported by sixty new British [Mark V](https://pl.wikipedia.org/wiki/Mark_V) tanks, more than six hundred guns and aircraft of the Royal Air Force, took the village of [Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)), Vaire and Hamel Woods and the ridge beyond them. Four companies of the American 33rd Division fought alongside the Australians, and the day of the attack was chosen deliberately: it was American [Independence Day](https://pl.wikipedia.org/wiki/Dzień_Niepodległości_(Stany_Zjednoczone)). General [John Monash](/postacie/john-monash), who planned the battle, later wrote that it was all over in 93 minutes. According to the Australian official historian Charles Bean it was the most successful Allied attack since the start of the great German offensive in March, and its methods became the model for the Battle of Amiens on 8 August 1918.
+The Battle of Hamel was a small, carefully prepared attack by the Australian Corps on the German positions on the south bank of the [Somme](/miejsca/somma), east of Amiens. On the morning of 4 July 1918 ten battalions of Australian infantry, supported by sixty new British [Mark V](https://pl.wikipedia.org/wiki/Mark_V) tanks, more than six hundred guns and aircraft of the Royal Air Force, took the village of [Hamel](https://pl.wikipedia.org/wiki/Le_Hamel_(Somma)), Vaire and Hamel Woods and the ridge beyond them. Four companies of the American 33rd Division fought alongside the Australians, and the day of the attack was chosen deliberately: it was American [Independence Day](https://pl.wikipedia.org/wiki/Dzień_Niepodległości_(Stany_Zjednoczone)). General [John Monash](/postacie/john-monash), who planned the battle, later wrote that it was all over in 93 minutes. According to the Australian official historian Charles Bean it was the most successful Allied attack since the start of the great German offensive in March, and its methods became the model for the Battle of Amiens on 8 August 1918.
 
 ## Name and dates
 

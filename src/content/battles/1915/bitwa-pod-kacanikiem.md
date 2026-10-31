@@ -17,7 +17,7 @@ tags: [Serbia, Bułgaria, Radomir Putnik]
 milestone: false
 ---
 
-Bitwa pod Kačanikiem była ostatnią próbą armii serbskiej, by przebić się z Kosowa na południe, do Skopje i do Francuzów nad Wardarem. Przez wąski wąwóz rzeki [Lepenac](https://pl.wikipedia.org/wiki/Lepenac_(rzeka)) prowadziła jedyna dobra droga i linia kolejowa z [Kosowego Pola](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) do doliny [Wardaru](https://pl.wikipedia.org/wiki/Wardar). Przez cały listopad 1915 roku słabe dywizje serbskie, złożone w dużej części z rekrutów, broniły jej przed bułgarską 2 Armią. Kiedy pod koniec miesiąca w Kosowie zebrały się główne siły serbskie, Putnik rzucił je do natarcia przez wąwóz. Po dwóch dniach ciężkich walk w śniegu Bułgarzy odparli Serbów, a Serbii została tylko droga przez góry Albanii.
+Bitwa pod Kačanikiem była ostatnią próbą armii serbskiej, by przebić się z Kosowa na południe, do Skopje i do Francuzów nad Wardarem. Przez wąski wąwóz rzeki [Lepenac](https://pl.wikipedia.org/wiki/Lepenac_(rzeka)) prowadziła jedyna dobra droga i linia kolejowa z [Kosowego Pola](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) do doliny [Wardaru](/miejsca/wardar). Przez cały listopad 1915 roku słabe dywizje serbskie, złożone w dużej części z rekrutów, broniły jej przed bułgarską 2 Armią. Kiedy pod koniec miesiąca w Kosowie zebrały się główne siły serbskie, Putnik rzucił je do natarcia przez wąwóz. Po dwóch dniach ciężkich walk w śniegu Bułgarzy odparli Serbów, a Serbii została tylko droga przez góry Albanii.
 
 ## Nazwa i daty
 

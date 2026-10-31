@@ -2,10 +2,10 @@
 title: End of the Battle of the Stryi
 summary: On 11 June 1915 the South Army, earlier pushed back over the Dniester, attacked again near Żydaczów. The British chronology ends the Stryi battle that day.
 source: koniec-bitwy-nad-stryjem
-sourceHash: e9ab2720577ccb67ff24e0ae663ef77c272c65b5
+sourceHash: 8d10adb422e56bca8b2ed793f5967d7522baff74
 ---
 
-The British chronology of the war records under 11 June 1915 the end of the battle on the [Stryi](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), which had been going on since 24 May. In those less than three weeks General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German–Austrian [South Army](/sily-zbrojne/armia-poludniowa) took the town of Stryi, reached the [Dniester](https://pl.wikipedia.org/wiki/Dniestr) and [entered Stanisławów](/austriacy-odbijaja-stanislawow). The last days of the battle, however, brought it a serious crisis. On 11 June Linsingen tried to master it with a new attack along the Dniester towards [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów).
+The British chronology of the war records under 11 June 1915 the end of the battle on the [Stryi](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), which had been going on since 24 May. In those less than three weeks General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German–Austrian [South Army](/sily-zbrojne/armia-poludniowa) took the town of Stryi, reached the [Dniester](/miejsca/dniestr) and [entered Stanisławów](/austriacy-odbijaja-stanislawow). The last days of the battle, however, brought it a serious crisis. On 11 June Linsingen tried to master it with a new attack along the Dniester towards [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów).
 
 ## After the Russian counter-offensive
 

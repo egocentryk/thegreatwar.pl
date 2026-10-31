@@ -2,10 +2,10 @@
 title: First attack on Sannaiyat
 summary: At dawn on 6 April 1916, after a night march, the 7th Division attacked the Turkish position at Sannaiyat. Fire halted it hundreds of metres short.
 source: pierwszy-atak-na-sannajjat
-sourceHash: edef29e20671f0ed9539db507d31d311d4434b9b
+sourceHash: 5c491e597107096f506d6b057f4bb23465e61a64
 ---
 
-At dawn on 6 April 1916 the British-Indian 7th Division of General George Younghusband attacked the Turkish position at Sannaiyat, on the left bank of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 24 kilometres downstream from besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut). The day before, the 13th Division had [taken the positions at Hanna and Fallahiyah](/walki-pod-fallahija), and the commander of the Tigris Corps, General George Gorringe, wanted to strike before the Turks had time to dig in. The attack broke down under machine-gun fire, a few hundred metres short of the Turkish trenches.
+At dawn on 6 April 1916 the British-Indian 7th Division of General George Younghusband attacked the Turkish position at Sannaiyat, on the left bank of the [Tigris](/miejsca/tygrys), about 24 kilometres downstream from besieged [Kut](/miejsca/al-kut). The day before, the 13th Division had [taken the positions at Hanna and Fallahiyah](/walki-pod-fallahija), and the commander of the Tigris Corps, General George Gorringe, wanted to strike before the Turks had time to dig in. The attack broke down under machine-gun fire, a few hundred metres short of the Turkish trenches.
 
 The plan relied on surprise. Airmen reported that the left flank of the Turkish position, by the Suwaikiya marsh, recently uncovered by the receding water, had no trenches yet. Under cover of darkness the 19th and 28th Brigades were to move along a Turkish communication trench that led from Fallahiyah straight to Sannaiyat and attack this flank at 4.55 a.m. The distance was estimated at about 4.5 kilometres. Younghusband had no time to carry out a reconnaissance, because the assault on Fallahiyah had been postponed to the evening, and a new sketch map, issued on 5 April, showed a distance more than a kilometre and a half greater. The British official history (Moberly, *The Campaign in Mesopotamia*) admits that this one was closer to the truth.
 

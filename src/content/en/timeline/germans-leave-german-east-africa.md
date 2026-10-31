@@ -2,10 +2,10 @@
 title: Germans leave German East Africa
 summary: At the beginning of December 1917 the British considered German East Africa conquered. Lettow-Vorbeck fought on in Mozambique, outside the colony.
 source: niemcy-opuszczaja-niemiecka-afryke-wschodnia
-sourceHash: e9965f0ed9b382e8b8f1f229746cd37654de6b87
+sourceHash: e99a594eeb2933d0c4051dde28ddfe3169e27bda
 ---
 
-At the turn of November and December 1917 there were no longer any organised German forces in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck)'s main column had [crossed the Rovuma on 25 November](/lettow-vorbeck-przekracza-rovume) and was marching into [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), and on 28 November [Captain Tafel's detachment surrendered](/kapitulacja-oddzialu-tafla), the last large body of the Schutztruppe on the northern side of the river. The British chronology of the war places the expulsion of the last German troops from the colony under 1 December, but states clearly that the date is approximate. No battle was fought that day. The date corresponds rather to the end of the period that General Jacob van Deventer, the British commander-in-chief in East Africa, described in his report to the Secretary of State for War as the last half-year of the campaign in the German colony, from 30 May to 1 December 1917.
+At the turn of November and December 1917 there were no longer any organised German forces in [German East Africa](/bitwy/kampania-wschodnioafrykanska). [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck)'s main column had [crossed the Rovuma on 25 November](/lettow-vorbeck-przekracza-rovume) and was marching into [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), and on 28 November [Captain Tafel's detachment surrendered](/kapitulacja-oddzialu-tafla), the last large body of the Schutztruppe on the northern side of the river. The British chronology of the war places the expulsion of the last German troops from the colony under 1 December, but states clearly that the date is approximate. No battle was fought that day. The date corresponds rather to the end of the period that General Jacob van Deventer, the British commander-in-chief in East Africa, described in his report to the Secretary of State for War as the last half-year of the campaign in the German colony, from 30 May to 1 December 1917.
 
 ## Van Deventer's balance sheet
 

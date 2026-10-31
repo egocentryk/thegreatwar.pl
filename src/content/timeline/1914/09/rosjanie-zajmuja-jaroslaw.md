@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 września 1914 roku austro-węgierska 3 Armia generała [Svetozara Boroevicia](/postacie/svetozar-boroevic) opuściła umocniony przyczółek w [Jarosławiu](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), ostatnią pozycję, jaką armia monarchii utrzymywała jeszcze na wschodnim brzegu [Sanu](https://pl.wikipedia.org/wiki/San). Miasto przeszło w ręce Rosjan.
+21 września 1914 roku austro-węgierska 3 Armia generała [Svetozara Boroevicia](/postacie/svetozar-boroevic) opuściła umocniony przyczółek w [Jarosławiu](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), ostatnią pozycję, jaką armia monarchii utrzymywała jeszcze na wschodnim brzegu [Sanu](/miejsca/san). Miasto przeszło w ręce Rosjan.
 
 ## Przyczółek nad Sanem
 

@@ -22,7 +22,7 @@ brief:
 
 Manifest był krótki. Car oznajmiał w nim poddanym, że Niemcy i Austro-Węgry, nie mogąc pokonać Rosji, sięgnęły po pomoc rządu osmańskiego i wciągnęły do wojny „zaślepioną przez nie Turcję”. Flota turecka pod wodzą Niemców „ośmieliła się zdradziecko napaść” na rosyjskie wybrzeże czarnomorskie, a car natychmiast polecił ambasadorowi opuścić Turcję. Rosja miała przyjąć to wystąpienie „starego ciemięzcy wiary chrześcijańskiej i wszystkich narodów słowiańskich” ze spokojem i ufnością w pomoc Bożą. Manifest przypominał, że rosyjski oręż już nieraz pokonywał Turków.
 
-Najważniejsze było jednak ostatnie zdanie. Car wyrażał przekonanie, że „nierozważne wmieszanie się” Turcji do wojny tylko przyspieszy fatalny dla niej bieg wydarzeń i otworzy Rosji drogę do rozwiązania „zadań historycznych na brzegach Morza Czarnego”, przekazanych jej przez przodków. W Rosji wszyscy rozumieli, co to znaczy: chodziło o [Konstantynopol](https://pl.wikipedia.org/wiki/Konstantynopol) i [cieśniny czarnomorskie](https://pl.wikipedia.org/wiki/Cieśniny_tureckie).
+Najważniejsze było jednak ostatnie zdanie. Car wyrażał przekonanie, że „nierozważne wmieszanie się” Turcji do wojny tylko przyspieszy fatalny dla niej bieg wydarzeń i otworzy Rosji drogę do rozwiązania „zadań historycznych na brzegach Morza Czarnego”, przekazanych jej przez przodków. W Rosji wszyscy rozumieli, co to znaczy: chodziło o [Konstantynopol](/miejsca/konstantynopol) i [cieśniny czarnomorskie](https://pl.wikipedia.org/wiki/Cieśniny_tureckie).
 
 ## Wojna, której Rosja nie szukała
 
@@ -32,6 +32,6 @@ Dla Rosji wojna z Turcją miała jednak także drugą stronę. Przez Bosfor i Da
 
 ## Nowy front
 
-Wypowiedzenie wojny otworzyło front na [Kaukazie](https://pl.wikipedia.org/wiki/Kampania_kaukaska), wzdłuż granicy rosyjsko-tureckiej w górach Armenii. Rosyjska Armia Kaukaska, osłabiona wysłaniem części wojsk na front niemiecki i austriacki, miała przede wszystkim bronić rosyjskiego Zakaukazia. W pierwszych dniach listopada jej korpus pod dowództwem generała Georgija Bergmanna przekroczył jednak granicę i ruszył w stronę [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), najważniejszej twierdzy tureckiej w tym regionie. Źródła różnią się co do tego, czy stało się to 1, czy 2 listopada.
+Wypowiedzenie wojny otworzyło front na [Kaukazie](https://pl.wikipedia.org/wiki/Kampania_kaukaska), wzdłuż granicy rosyjsko-tureckiej w górach Armenii. Rosyjska Armia Kaukaska, osłabiona wysłaniem części wojsk na front niemiecki i austriacki, miała przede wszystkim bronić rosyjskiego Zakaukazia. W pierwszych dniach listopada jej korpus pod dowództwem generała Georgija Bergmanna przekroczył jednak granicę i ruszył w stronę [Erzurum](/miejsca/erzurum), najważniejszej twierdzy tureckiej w tym regionie. Źródła różnią się co do tego, czy stało się to 1, czy 2 listopada.
 
 Na Morzu Czarnym rosyjska flota musiała się teraz liczyć z krążownikiem liniowym Yavuz Sultan Selim, dawnym Goebenem, silniejszym od każdego z jej pancerników. 5 listopada wojnę Turcji wypowiedziały Wielka Brytania i Francja, a sojusznicy Rosji zaczęli wkrótce rozmawiać o losie cieśnin. Kilka dni później Londyn zapewnił Piotrogród, że sprawa Konstantynopola i cieśnin zostanie rozwiązana zgodnie z rosyjskimi życzeniami.

@@ -2,10 +2,10 @@
 title: Skirmish at Tepe. The French enter Kamerun from Chad
 summary: On 25 August 1914 the British drove the Germans from the post at Tepe on the Benue, and French troops from Chad attacked the German fort at Kousséri.
 source: potyczka-pod-tepe-francuzi-wkraczaja-do-kamerunu
-sourceHash: e3d442dd97cc70df1f2c83a3734c0b314389a1e1
+sourceHash: fad0e4c77b1b95b500148e1edbc959f180d42cab
 ---
 
-On 25 August 1914 the fighting spread to the northern borderlands of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). The British clashed with the Germans at Tepe on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river, and French troops from [Chad](https://pl.wikipedia.org/wiki/Czad) crossed the colony's border. A British chronology of the war mentions both events in the same breath, but they were two separate actions, fought several hundred kilometres apart.
+On 25 August 1914 the fighting spread to the northern borderlands of [German Kamerun](/miejsca/kamerun). The British clashed with the Germans at Tepe on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river, and French troops from [Chad](https://pl.wikipedia.org/wiki/Czad) crossed the colony's border. A British chronology of the war mentions both events in the same breath, but they were two separate actions, fought several hundred kilometres apart.
 
 ## Tepe
 

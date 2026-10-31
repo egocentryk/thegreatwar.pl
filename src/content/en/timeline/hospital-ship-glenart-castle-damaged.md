@@ -2,10 +2,10 @@
 title: Hospital ship Glenart Castle damaged
 summary: On 1 March 1917 the hospital ship Glenart Castle, carrying over 500 wounded from France, struck a mine in the Channel. Everyone was saved and the ship survived.
 source: uszkodzenie-statku-szpitalnego-glenart-castle
-sourceHash: 4724e263afec8c8b36d7e243347738ab73b69cd1
+sourceHash: f43c80de3831b284abe315d5cd8d422f471491ef
 ---
 
-On the evening of 1 March 1917 the British [hospital ship](/slownik/statek-szpitalny) *Glenart Castle* was sailing from [Le Havre](https://pl.wikipedia.org/wiki/Hawr) to [Southampton](https://pl.wikipedia.org/wiki/Southampton) with wounded and sick soldiers from the front in France. At about 11.40 p.m., some 8 nautical miles north-west of the Owers lightship, stationed off [Selsey](https://pl.wikipedia.org/wiki/Selsey) Bill on the Sussex coast, a [mine](/slownik/mina-morska) exploded under the ship's stern on the starboard side. The British chronology of the war noted briefly that the ship had been damaged by a mine "between Havre and Southampton".
+On the evening of 1 March 1917 the British [hospital ship](/slownik/statek-szpitalny) *Glenart Castle* was sailing from [Le Havre](/miejsca/hawr) to [Southampton](https://pl.wikipedia.org/wiki/Southampton) with wounded and sick soldiers from the front in France. At about 11.40 p.m., some 8 nautical miles north-west of the Owers lightship, stationed off [Selsey](https://pl.wikipedia.org/wiki/Selsey) Bill on the Sussex coast, a [mine](/slownik/mina-morska) exploded under the ship's stern on the starboard side. The British chronology of the war noted briefly that the ship had been damaged by a mine "between Havre and Southampton".
 
 The *Glenart Castle* was a passenger steamer of about 6,800 gross register tons, built in 1900 by [Harland and Wolff](https://pl.wikipedia.org/wiki/Harland_and_Wolff) in [Belfast](https://pl.wikipedia.org/wiki/Belfast) as the *Galician* for the Union Line, which soon became part of the Union-Castle Line. She sailed to South Africa. In the first weeks of the war she was stopped in the Atlantic by a German warship, whose officers examined her papers, took prisoner two army officers travelling aboard and let the steamer go on her way. In the autumn of 1914 she was converted into a hospital ship and given a new name.
 

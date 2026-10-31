@@ -46,7 +46,7 @@ Langle de Cary postanowił zepchnąć Niemców z powrotem za Mozę. Rano francus
 
 Najgroźniejsza sytuacja powstała na lewym skrzydle. Armia Hausena próbowała wbić się między 4 Armię a 5 Armię Lanrezaca, która wycofywała się na zachodzie. Pod [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) Dywizja Marokańska z IX Korpusu broniła się przez cały dzień przed silniejszym przeciwnikiem. Według francuskich relacji straciła tego dnia około 3 tysięcy ludzi, ale zatrzymała Sasów.
 
-Wieczorem 28 sierpnia do 4 Armii dotarł rozkaz odwrotu na linię rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Żołnierze, którzy tego dnia odnieśli lokalne sukcesy, przyjęli go z rozczarowaniem. Odwrót rozpoczął się w nocy z 28 na 29 sierpnia, osłaniany przez IX Korpus. 3 Armia otrzymała rozkaz odwrotu dzień później.
+Wieczorem 28 sierpnia do 4 Armii dotarł rozkaz odwrotu na linię rzeki [Aisne](/miejsca/aisne). Żołnierze, którzy tego dnia odnieśli lokalne sukcesy, przyjęli go z rozczarowaniem. Odwrót rozpoczął się w nocy z 28 na 29 sierpnia, osłaniany przez IX Korpus. 3 Armia otrzymała rozkaz odwrotu dzień później.
 
 ## Straty
 

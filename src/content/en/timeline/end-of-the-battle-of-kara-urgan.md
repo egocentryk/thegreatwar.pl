@@ -2,7 +2,7 @@
 title: End of the battle of Kara Urgan
 summary: In mid-January 1915 the Russians forced the Ottoman XI Corps to retreat from Kara Urgan. It was the last act of the fighting for Sarikamish.
 source: koniec-bitwy-pod-kara-urgan
-sourceHash: 091151f029a5947e8f1bbb0daf019634166e2325
+sourceHash: 955b1285bd716774c1770bcc85308c3902169ec6
 ---
 
 A British chronology of the war records under 13 January 1915 the end of the battle of Kara Urgan, the last act of the fighting at Sarikamish. On that day the new commander of the Ottoman Third Army, General Hafız Hakkı, admitted in a report that his troops could no longer hold their positions. The retreat of the XI Corps itself, however, came a few days later, between 16 and 18 January, when a Russian detachment reached its rear.
@@ -15,7 +15,7 @@ The task went to Colonel Dovgirt, whose Turkestan riflemen had earlier withstood
 
 ## Hafız Hakkı's report
 
-On 13 January Hafız Hakkı sent [Enver Pasha](/postacie/enver-pasza), who had stopped at [Erzincan](https://pl.wikipedia.org/wiki/Erzincan) on his way to Constantinople, a report on the army's situation. He wrote that bloody fighting had been going on in the XI Corps sector for six days and that there were days when it lost a thousand soldiers. In two regiments, the 54th and the 98th, only five or six officers each had survived. In the north [Oltu](https://pl.wikipedia.org/wiki/Oltu) had fallen. A few days earlier the Russians had surrounded the remnants of the X Corps near the village of Bardız, taking more than 2,000 prisoners, and on 12 or 13 January (sources differ on the date) General Kalitin's detachment took the town. Hafız Hakkı proposed withdrawing the remaining soldiers to the Köprüköy line and, if the Russians kept up their advance, to the Höyükler hills in front of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). He also warned that holding Erzurum itself depended on the arrival of fresh troops.
+On 13 January Hafız Hakkı sent [Enver Pasha](/postacie/enver-pasza), who had stopped at [Erzincan](https://pl.wikipedia.org/wiki/Erzincan) on his way to Constantinople, a report on the army's situation. He wrote that bloody fighting had been going on in the XI Corps sector for six days and that there were days when it lost a thousand soldiers. In two regiments, the 54th and the 98th, only five or six officers each had survived. In the north [Oltu](https://pl.wikipedia.org/wiki/Oltu) had fallen. A few days earlier the Russians had surrounded the remnants of the X Corps near the village of Bardız, taking more than 2,000 prisoners, and on 12 or 13 January (sources differ on the date) General Kalitin's detachment took the town. Hafız Hakkı proposed withdrawing the remaining soldiers to the Köprüköy line and, if the Russians kept up their advance, to the Höyükler hills in front of [Erzurum](/miejsca/erzurum). He also warned that holding Erzurum itself depended on the arrival of fresh troops.
 
 ## Retreat of the XI Corps
 

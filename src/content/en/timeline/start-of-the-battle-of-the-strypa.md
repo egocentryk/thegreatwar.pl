@@ -2,7 +2,7 @@
 title: Start of the Battle of the Strypa
 summary: On 11 June 1916 the Russian 7th Army, having taken Buczacz, attacked Bothmer's South Army beyond the Strypa. A German counter-attack threw it back at Olesza.
 source: poczatek-bitwy-nad-strypa
-sourceHash: 2449dacde119293e8f14a6bad7703a973d7cadff
+sourceHash: 61f3cfa4ceab0323077aeaeffd029b1c902f656f
 ---
 
 A British chronology of the war records under 11 June 1916 the start of the battle on the [Strypa](https://pl.wikipedia.org/wiki/Strypa_(dopływ_Dniestru)), a river in eastern Galicia on which the front had stood since the autumn of 1915. On that day, 29 May by the Julian calendar then used in Russia, General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s [7th Army](https://pl.wikipedia.org/wiki/7_Armia_(Imperium_Rosyjskie)) struck beyond the Strypa at the right wing of General Felix von Bothmer's German-Austrian [South Army](/sily-zbrojne/armia-poludniowa). Fighting on the river, however, had been going on for several days already. Russian accounts count it as part of the Jazłowiec operation, dated from 6 to 17 June (24 May to 4 June by the Julian calendar).
@@ -15,7 +15,7 @@ On the morning of 6 June the Russian II Corps, led by the 3rd Turkestan Rifle Di
 
 ## Bothmer takes over the defence
 
-The Austro-Hungarian command feared that a gap would open between the 7th Army and the South Army. Pflanzer-Baltin, who on news of the defeat had been thinking of retreating behind the [Dniester](https://pl.wikipedia.org/wiki/Dniestr) as far as the Prut, was expressly forbidden to do so. At noon on 10 June VI Corps was placed under Bothmer. The Bavarian general ordered it to hold its positions at all costs, and from his modest reserves near [Podhajce](https://pl.wikipedia.org/wiki/Podhajce) he gathered three regiments and three batteries under Lieutenant-General von Oppeln-Bronikowski, commander of the German 48th Reserve Division.
+The Austro-Hungarian command feared that a gap would open between the 7th Army and the South Army. Pflanzer-Baltin, who on news of the defeat had been thinking of retreating behind the [Dniester](/miejsca/dniestr) as far as the Prut, was expressly forbidden to do so. At noon on 10 June VI Corps was placed under Bothmer. The Bavarian general ordered it to hold its positions at all costs, and from his modest reserves near [Podhajce](https://pl.wikipedia.org/wiki/Podhajce) he gathered three regiments and three batteries under Lieutenant-General von Oppeln-Bronikowski, commander of the German 48th Reserve Division.
 
 Shcherbachev meanwhile concluded that his exhausted II Corps could not attack further on the Barysz stream. He shifted the weight of the attack to the north. On 11 June XVI Corps was to cross the Strypa and push the enemy westwards, and XXII Corps was to join it. Russian cavalry waited to go through the breach towards Podhajce.
 

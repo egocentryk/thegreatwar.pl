@@ -2,10 +2,10 @@
 title: Fire at Reims Cathedral
 summary: On 19 September 1914 German shells set fire to Reims Cathedral, where the kings of France were crowned. The burning church became a symbol of wartime barbarity.
 source: pierwsze-ostrzelanie-katedry-w-reims
-sourceHash: 4c145f748e33753481b5c79d338716a204509d1f
+sourceHash: 4b6a6d3189867182ab5c6fc42dbdc5ae2a82bf52
 ---
 
-On 19 September 1914 German artillery shelled the centre of [Reims](https://pl.wikipedia.org/wiki/Reims), and shells struck the Gothic [Cathedral of Notre-Dame](https://pl.wikipedia.org/wiki/Katedra_w_Reims). In the afternoon the wooden scaffolding around one of the towers caught fire, and the flames spread to the roof and the interior of the church. The British chronicle of the war describes the event as the first bombardment of the cathedral. In fact shells had been falling near it for several days already, but it was on 19 September that the cathedral went up in flames. The image of the burning church, in which the kings of France had been crowned for centuries, shocked the world.
+On 19 September 1914 German artillery shelled the centre of [Reims](/miejsca/reims), and shells struck the Gothic [Cathedral of Notre-Dame](https://pl.wikipedia.org/wiki/Katedra_w_Reims). In the afternoon the wooden scaffolding around one of the towers caught fire, and the flames spread to the roof and the interior of the church. The British chronicle of the war describes the event as the first bombardment of the cathedral. In fact shells had been falling near it for several days already, but it was on 19 September that the cathedral went up in flames. The image of the burning church, in which the kings of France had been crowned for centuries, shocked the world.
 
 ## The coronation cathedral
 

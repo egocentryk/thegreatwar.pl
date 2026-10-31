@@ -2,10 +2,10 @@
 title: Capture of Mount Banyo
 summary: At dawn on 6 November 1915 Cunliffe's Nigerians reached the top of Mount Banyo in Kamerun. The German garrison fled at night in a storm, but most were caught.
 source: zdobycie-gory-banyo
-sourceHash: f99d8565fa6c53d567515c62ffd893fc17b7ee19
+sourceHash: 337fefca69ee9f93e57fa206a12aff449c0a3f9e
 ---
 
-At dawn on 6 November 1915 the Nigerian soldiers of General Frederick Cunliffe forced their way onto the summit of Mount Banyo in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). A white flag was flying over the German sangars, but most of the defenders were no longer manning them. So ended the three-day [assault on the mountain](/atak-na-gore-banyo), which the Germans had considered practically impregnable.
+At dawn on 6 November 1915 the Nigerian soldiers of General Frederick Cunliffe forced their way onto the summit of Mount Banyo in [German Kamerun](/miejsca/kamerun). A white flag was flying over the German sangars, but most of the defenders were no longer manning them. So ended the three-day [assault on the mountain](/atak-na-gore-banyo), which the Germans had considered practically impregnable.
 
 Throughout 5 November four companies of the Nigeria Regiment worked their way up slowly but steadily, outflanking one stone wall after another. According to H. C. O'Neill's account of 1918, the defenders rolled stones down on them, and the three British guns were beginning to run short of ammunition before a fresh supply arrived. By dusk all the companies were lying about 90 metres below the summit. At 5 p.m. the German commander concluded that the position could not be held and ordered the garrison to break through the ring of besiegers in small groups, with porters carrying the baggage and ammunition. All were then to assemble at Ngambe, far to the south. At about 7 p.m. a violent thunderstorm broke over the mountain, and under its cover the Germans and their African soldiers cautiously made their way down the slopes, slipping past the attacking companies.
 

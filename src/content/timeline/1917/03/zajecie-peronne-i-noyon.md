@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-18 marca 1917 roku sprzymierzeni zajęli dwa miasta, które od jesieni 1914 roku leżały tuż za niemieckim frontem. Na północy brytyjska 48 Dywizja weszła do [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)) nad [Sommą](https://pl.wikipedia.org/wiki/Somma_(rzeka)), a na południu Francuzi wkroczyli do [Noyon](https://pl.wikipedia.org/wiki/Noyon) nad Oise. Był to trzeci dzień niemieckiego odwrotu na Linię Hindenburga, a dla dużej części cofających się wojsk ostatni „dzień marszowy”. Wieczorem główne siły niemieckie naprzeciw brytyjskiej 4 Armii stały już za nową pozycją, zostawiając przed nią tylko straże tylne.
+18 marca 1917 roku sprzymierzeni zajęli dwa miasta, które od jesieni 1914 roku leżały tuż za niemieckim frontem. Na północy brytyjska 48 Dywizja weszła do [Péronne](/miejsca/peronne) nad [Sommą](/miejsca/somma), a na południu Francuzi wkroczyli do [Noyon](/miejsca/noyon) nad Oise. Był to trzeci dzień niemieckiego odwrotu na Linię Hindenburga, a dla dużej części cofających się wojsk ostatni „dzień marszowy”. Wieczorem główne siły niemieckie naprzeciw brytyjskiej 4 Armii stały już za nową pozycją, zostawiając przed nią tylko straże tylne.
 
 ## Péronne
 

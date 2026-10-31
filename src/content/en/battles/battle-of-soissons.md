@@ -9,7 +9,7 @@ sides:
     commanders: [Alexander von Kluck, Ewald von Lochow, Georg Wichura]
 result: German victory. The French lost Hill 132 and almost all of their bridgehead on the north bank of the Aisne. Soissons remained in their hands.
 source: bitwa-pod-soissons
-sourceHash: 0ca30d8233412cdfda22c85fe80e41bb8421151a
+sourceHash: f464dc054fce5a306d4db4ef807f96b41375d964
 brief:
   - "The Battle of Soissons, fought from 8 to 14 January 1915 on the north bank of the Aisne, was one of the first large battles of trench warfare on the Western Front. The French call it the Battle of Crouy."
   - "On 8 January troops under General Henri Berthelot took Hill 132 above Crouy. The Germans, who were themselves preparing an attack there, replied with a powerful counter-attack prepared by Colonel Hans von Seeckt."
@@ -18,7 +18,7 @@ brief:
   - "A defeat so close to Paris provoked sharp criticism of the French command, and Berthelot lost his command. For the Germans the carefully prepared, limited attack became the model for local attacks in positional warfare."
 ---
 
-The Battle of Soissons, fought from 8 to 14 January 1915, was one of the first large battles of trench warfare on the Western Front. It took place on the steep, ravine-cut heights on the north bank of the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), only a few kilometres from [Soissons](https://pl.wikipedia.org/wiki/Soissons) and about 100 kilometres from Paris. It began with a French success: troops of the French Sixth Army took Hill 132 above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy). It ended, however, in a French defeat. The Germans, who were themselves preparing an attack in this sector, replied with a powerful counter-attack, and the Aisne, swollen by heavy rain, swept away some of the bridges behind the French. Within a few days the French lost not only the ground they had won but almost the whole bridgehead they had held on the north bank of the river since September 1914.
+The Battle of Soissons, fought from 8 to 14 January 1915, was one of the first large battles of trench warfare on the Western Front. It took place on the steep, ravine-cut heights on the north bank of the river [Aisne](/miejsca/aisne), only a few kilometres from [Soissons](/miejsca/soissons) and about 100 kilometres from Paris. It began with a French success: troops of the French Sixth Army took Hill 132 above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy). It ended, however, in a French defeat. The Germans, who were themselves preparing an attack in this sector, replied with a powerful counter-attack, and the Aisne, swollen by heavy rain, swept away some of the bridges behind the French. Within a few days the French lost not only the ground they had won but almost the whole bridgehead they had held on the north bank of the river since September 1914.
 
 ## Name and dates
 

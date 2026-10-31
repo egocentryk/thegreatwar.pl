@@ -9,10 +9,10 @@ sides:
     commanders: [João Teixeira Pinto]
 result: German victory. The Portuguese garrison was destroyed and its commander killed, and the Germans captured weapons, ammunition, food and medicine that allowed them to carry on the war in Mozambique.
 source: bitwa-pod-ngomano
-sourceHash: 5ca478991686388dd8b958c3cb59ce29dd883199
+sourceHash: 2d086fee0fa40e7d17fddda670804ba80b54ab1c
 ---
 
-The Battle of Ngomano opened the last chapter of the war in East Africa. On 25 November 1917 the main force of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), driven out of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), forded the border river [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) and the same day attacked a newly established Portuguese camp at Ngomano, at the mouth of the [Lugenda](https://pl.wikipedia.org/wiki/Lugenda). After several hours of fighting the garrison, commanded by Major João Teixeira Pinto, ceased to exist. For the Germans, who were running out of ammunition, food and medicine, it was salvation: the booty from Ngomano rearmed them and allowed them to wage war on Portuguese territory until the end of 1918.
+The Battle of Ngomano opened the last chapter of the war in East Africa. On 25 November 1917 the main force of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), driven out of [German East Africa](/bitwy/kampania-wschodnioafrykanska), forded the border river [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) and the same day attacked a newly established Portuguese camp at Ngomano, at the mouth of the [Lugenda](https://pl.wikipedia.org/wiki/Lugenda). After several hours of fighting the garrison, commanded by Major João Teixeira Pinto, ceased to exist. For the Germans, who were running out of ammunition, food and medicine, it was salvation: the booty from Ngomano rearmed them and allowed them to wage war on Portuguese territory until the end of 1918.
 
 ## Name and dates
 

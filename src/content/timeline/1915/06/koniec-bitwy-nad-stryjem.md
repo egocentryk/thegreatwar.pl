@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 czerwca 1915 roku koniec bitwy nad [Stryjem](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), trwającej od 24 maja. W ciągu tych niespełna trzech tygodni niemiecko-austriacka [Armia Południowa](/sily-zbrojne/armia-poludniowa) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen) zdobyła miasto Stryj, doszła do [Dniestru](https://pl.wikipedia.org/wiki/Dniestr) i [weszła do Stanisławowa](/austriacy-odbijaja-stanislawow). Ostatnie dni bitwy przyniosły jej jednak poważny kryzys. 11 czerwca Linsingen próbował go opanować nowym natarciem wzdłuż Dniestru w stronę [Żydaczowa](https://pl.wikipedia.org/wiki/Żydaczów).
+Brytyjska chronologia wojny notuje pod 11 czerwca 1915 roku koniec bitwy nad [Stryjem](https://pl.wikipedia.org/wiki/Stryj_(rzeka)), trwającej od 24 maja. W ciągu tych niespełna trzech tygodni niemiecko-austriacka [Armia Południowa](/sily-zbrojne/armia-poludniowa) generała [Alexandra von Linsingena](/postacie/alexander-von-linsingen) zdobyła miasto Stryj, doszła do [Dniestru](/miejsca/dniestr) i [weszła do Stanisławowa](/austriacy-odbijaja-stanislawow). Ostatnie dni bitwy przyniosły jej jednak poważny kryzys. 11 czerwca Linsingen próbował go opanować nowym natarciem wzdłuż Dniestru w stronę [Żydaczowa](https://pl.wikipedia.org/wiki/Żydaczów).
 
 ## Po rosyjskim kontrnatarciu
 

@@ -2,14 +2,14 @@
 title: Allies return to Ypres
 summary: In mid-October 1914 Rawlinson's British IV Corps, falling back from Ghent, reached Ypres. French Territorial divisions took up positions beside it.
 source: alianci-wracaja-do-ypres
-sourceHash: d1da63a83ec5c369d497c97acf1825e1dc6040b9
+sourceHash: dc42586e144af23dfc296561e18584cea600793e
 ---
 
 The British chronicle of the war records under 13 October 1914 the occupation of [Ypres](/miejsca/ypres) by British troops. The old Flemish town had been without any garrison for several days. The German cavalry, which [had entered it on 7 October](/niemiecka-kawaleria-w-ypres), had left westwards the very next morning. Now British divisions were approaching from the north-east and French ones from the west. Accounts of the march suggest, however, that the main British forces entered the town only on 14 October.
 
 ## The march from Ghent
 
-Making for Ypres was General [Henry Rawlinson's](/postacie/henry-rawlinson) IV Corps: Major-General Thompson Capper's 7th Infantry Division and Major-General [Julian Byng's](/postacie/julian-byng) 3rd Cavalry Division. Both divisions [had landed at the beginning of October](/brytyjska-7-dywizja-laduje-w-belgii) at Zeebrugge and Ostend to save Antwerp, and after its fall had covered the retreat of the Belgian army. At 10 p.m. on 11 October the 7th Division marched out from [Ghent](https://pl.wikipedia.org/wiki/Gandawa), which superior German forces were enveloping from the east. By dawn its battalions stood in villages on the canal west of the city.
+Making for Ypres was General [Henry Rawlinson's](/postacie/henry-rawlinson) IV Corps: Major-General Thompson Capper's 7th Infantry Division and Major-General [Julian Byng's](/postacie/julian-byng) 3rd Cavalry Division. Both divisions [had landed at the beginning of October](/brytyjska-7-dywizja-laduje-w-belgii) at Zeebrugge and Ostend to save Antwerp, and after its fall had covered the retreat of the Belgian army. At 10 p.m. on 11 October the 7th Division marched out from [Ghent](/miejsca/gandawa), which superior German forces were enveloping from the east. By dawn its battalions stood in villages on the canal west of the city.
 
 On 12 October the division marched towards [Tielt](https://pl.wikipedia.org/wiki/Tielt), and on 13 October, in the rain, it covered some fifteen kilometres to [Roeselare](https://pl.wikipedia.org/wiki/Roeselare), about 20 kilometres north-east of Ypres. Some battalions arrived there only between 8 and 9 p.m. Byng's cavalry division covered the march from the north, advancing through [Torhout](https://pl.wikipedia.org/wiki/Torhout).
 

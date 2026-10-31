@@ -2,14 +2,14 @@
 title: First Indian soldiers at the front
 summary: A British chronicle records the arrival of the first Indian soldiers at the front on 19 October 1914. They entered the trenches at Messines on 22–23 October.
 source: pierwsi-zolnierze-indyjscy-na-froncie
-sourceHash: 7e765ba97edd4bce9c8b7a8790d6f93138b3705b
+sourceHash: 13daff9e296d5484352b961dbb50d7da7d32718b
 ---
 
 A British chronicle of the war records under 19 October 1914 the arrival at the front in Flanders of the first units of Indian Expeditionary Force "A". This was the Indian Lahore Division, which [had landed at Marseille in September](/korpus-indyjski-laduje-w-marsylii). In practice the date marks the start of the division's move north. The first soldiers from India entered the trenches a few days later, on 22 and 23 October.
 
 ## From Orléans to Flanders
 
-After landing at Marseille the Lahore Division spent several weeks completing its preparations in a camp near [Orléans](https://pl.wikipedia.org/wiki/Orlean). The soldiers were issued new rifles, and missing transport was made up with carts bought from French dealers. On 18 October the division, without the Sirhind Brigade, which had stayed in Egypt, boarded trains for the Saint-Omer area. Field Marshal John French wrote in his dispatch that the division reached its concentration area behind II Corps on 19 and 20 October. According to the British official history its units were still detraining on the night of 20/21 October near [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), where the [transfer of the British army from the Aisne had just been completed](/bef-konczy-przerzut-do-flandrii).
+After landing at Marseille the Lahore Division spent several weeks completing its preparations in a camp near [Orléans](https://pl.wikipedia.org/wiki/Orlean). The soldiers were issued new rifles, and missing transport was made up with carts bought from French dealers. On 18 October the division, without the Sirhind Brigade, which had stayed in Egypt, boarded trains for the Saint-Omer area. Field Marshal John French wrote in his dispatch that the division reached its concentration area behind II Corps on 19 and 20 October. According to the British official history its units were still detraining on the night of 20/21 October near [Hazebrouck](/miejsca/hazebrouck), where the [transfer of the British army from the Aisne had just been completed](/bef-konczy-przerzut-do-flandrii).
 
 The soldiers from India appeared at a moment when the British cavalry and infantry were already utterly exhausted and a great German offensive was beginning at Ypres and Armentières. The British command needed every battalion, so the division was not assembled as a whole but split up among the most threatened sectors.
 

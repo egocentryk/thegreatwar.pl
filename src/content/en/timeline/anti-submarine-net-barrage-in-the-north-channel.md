@@ -2,7 +2,7 @@
 title: Anti-submarine net barrage in the North Channel
 summary: On 22 February 1915 British drifters began laying nets in the North Channel to close the way for U-boats into the Irish Sea, to Liverpool and Glasgow.
 source: zapora-sieciowa-w-kanale-polnocnym
-sourceHash: d1ad661c2292cd104c8207a239e59bed6d1b7a4d
+sourceHash: af24c5dd3f95cec295f65e5fd64a7b5c316c98d1
 ---
 
 On 22 February 1915 in the [North Channel](https://pl.wikipedia.org/wiki/Kanał_Północny), the strait separating Ireland from Scotland, British fishing vessels laid anti-submarine nets for the first time. On the same day the Admiralty closed most of the strait to shipping. The barrage was meant to cut off the German U-boats' northern entrance to the [Irish Sea](https://pl.wikipedia.org/wiki/Morze_Irlandzkie), and with it the route to [Liverpool](https://pl.wikipedia.org/wiki/Liverpool), [Belfast](https://pl.wikipedia.org/wiki/Belfast) and [Glasgow](https://pl.wikipedia.org/wiki/Glasgow).
@@ -17,7 +17,7 @@ The narrowest part of the strait was chosen for the barrage, where the [Kintyre]
 
 So-called indicator nets were used. These were light nets of thin steel wire with a mesh about 3.5 metres wide, joined from sections about 90 metres long and suspended from floats. They were not meant to stop a submarine but to betray its presence. When a submerged U-boat ran into them, a section of net broke away and wrapped itself round the boat, and a buoy attached to it moved across the surface, showing the boat's track. The nets were laid by drifters, vessels designed for catching herring with long drift nets. They already had the necessary winches, and their crews knew how to handle nets.
 
-On 20 February command of the area, with its headquarters at [Larne](https://pl.wikipedia.org/wiki/Larne), was given to Admiral Charles Barlow. He was to receive 80 drifters, half of them armed, 18 armed trawlers and patrol yachts. As early as 16 February three destroyers had left [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) to patrol the strait. According to the instructions, a submarine wishing to pass through the net area would have to dive for a long time to a depth of at least 90 feet, about 27 metres, and would arrive near Larne with its batteries almost exhausted. Patrols were to be waiting for it there.
+On 20 February command of the area, with its headquarters at [Larne](https://pl.wikipedia.org/wiki/Larne), was given to Admiral Charles Barlow. He was to receive 80 drifters, half of them armed, 18 armed trawlers and patrol yachts. As early as 16 February three destroyers had left [Scapa Flow](/miejsca/scapa-flow) to patrol the strait. According to the instructions, a submarine wishing to pass through the net area would have to dive for a long time to a depth of at least 90 feet, about 27 metres, and would arrive near Larne with its batteries almost exhausted. Patrols were to be waiting for it there.
 
 On 22 February a warning to shipping was issued. Ships were forbidden to use the North Channel except for the passage south of [Rathlin](https://pl.wikipedia.org/wiki/Rathlin) Island. They could use it only between sunrise and sunset, and at night they were not to approach within four miles of the island.
 

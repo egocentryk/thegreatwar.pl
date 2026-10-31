@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-6 stycznia 1916 roku nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), kilka kilometrów w dół rzeki od osady Szejk Saad, wojska idące na odsiecz oblężonemu [Al-Kutowi](https://pl.wikipedia.org/wiki/Al-Kut) po raz pierwszy natknęły się na silną obronę osmańską. Straż przednia Korpusu Tygrysu, 7 Dywizja generała George'a Younghusbanda, [wyruszyła z Ali al-Gharbi](/poczatek-pierwszej-proby-odsieczy-al-kutu) dwa dni wcześniej. Miała tylko związać nieprzyjaciela do czasu nadejścia reszty korpusu generała Fentona Aylmera, ale zaatakowała na obu brzegach rzeki. Do wieczora natarcie utknęło kilkaset metrów przed tureckimi okopami.
+6 stycznia 1916 roku nad [Tygrysem](/miejsca/tygrys), kilka kilometrów w dół rzeki od osady Szejk Saad, wojska idące na odsiecz oblężonemu [Al-Kutowi](/miejsca/al-kut) po raz pierwszy natknęły się na silną obronę osmańską. Straż przednia Korpusu Tygrysu, 7 Dywizja generała George'a Younghusbanda, [wyruszyła z Ali al-Gharbi](/poczatek-pierwszej-proby-odsieczy-al-kutu) dwa dni wcześniej. Miała tylko związać nieprzyjaciela do czasu nadejścia reszty korpusu generała Fentona Aylmera, ale zaatakowała na obu brzegach rzeki. Do wieczora natarcie utknęło kilkaset metrów przed tureckimi okopami.
 
 ## Rozkazy i wątpliwości
 

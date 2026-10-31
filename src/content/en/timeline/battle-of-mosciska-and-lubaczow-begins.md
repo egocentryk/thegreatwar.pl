@@ -2,10 +2,10 @@
 title: Battle of Mościska and Lubaczów begins
 summary: On 12 June 1915 Mackensen's troops crossed the San and the Lubaczówka near Sieniawa. The battle that was to open the road to Lviv had begun.
 source: poczatek-bitwy-pod-mosciskami-i-lubaczowem
-sourceHash: 8304256ed10f5f7d738f08c270865fc48209b22d
+sourceHash: e4f439a610017f3879a603c4690f42c894a812b9
 ---
 
-Early on the morning of 12 June 1915 the artillery of the Austro-Hungarian [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) opened fire on the Russian positions on the eastern bank of the [San](https://pl.wikipedia.org/wiki/San) near [Sieniawa](https://pl.wikipedia.org/wiki/Sieniawa). German and Austro-Hungarian infantry crossed the river and the [Lubaczówka](https://pl.wikipedia.org/wiki/Lubaczówka), which flows into it, and broke into the Russian trenches. Thus began the Battle of [Mościska](https://pl.wikipedia.org/wiki/Mościska) and [Lubaczów](https://pl.wikipedia.org/wiki/Lubaczów), the next stage of the Central Powers' offensive in Galicia after the [recapture of Przemyśl](/bitwy/odbicie-przemysla). Its objective was [Lviv](https://pl.wikipedia.org/wiki/Lwów).
+Early on the morning of 12 June 1915 the artillery of the Austro-Hungarian [Fourth Army](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) opened fire on the Russian positions on the eastern bank of the [San](/miejsca/san) near [Sieniawa](https://pl.wikipedia.org/wiki/Sieniawa). German and Austro-Hungarian infantry crossed the river and the [Lubaczówka](https://pl.wikipedia.org/wiki/Lubaczówka), which flows into it, and broke into the Russian trenches. Thus began the Battle of [Mościska](https://pl.wikipedia.org/wiki/Mościska) and [Lubaczów](https://pl.wikipedia.org/wiki/Lubaczów), the next stage of the Central Powers' offensive in Galicia after the [recapture of Przemyśl](/bitwy/odbicie-przemysla). Its objective was [Lviv](/miejsca/lwow).
 
 ## The decision to march on Lviv
 

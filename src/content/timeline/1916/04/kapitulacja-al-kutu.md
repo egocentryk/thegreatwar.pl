@@ -18,7 +18,7 @@ brief:
   - "W Wielkiej Brytanii kapitulację przyjęto jako upokorzenie. Rozliczenie wyprawy doprowadziło latem do powołania Komisji Mezopotamskiej, a w Turcji zwycięstwo przypisano przede wszystkim Halilowi."
 ---
 
-29 kwietnia 1916 roku, po 147 dniach oblężenia, generał Charles Townshend poddał [Al-Kut](https://pl.wikipedia.org/wiki/Al-Kut) nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) wojskom osmańskim. Rano zniszczył działa i amunicję, a po południu Turcy weszli do miasta. Według brytyjskiej historii oficjalnej (Moberly, *The Campaign in Mesopotamia*, tom II) garnizon liczył tego dnia 13 309 ludzi: 10 061 żołnierzy, w tym 2592 brytyjskich i 6988 indyjskich szeregowych i podoficerów, oraz 3248 indyjskich pomocników (followers). Do kapitulacji nie zmusił ich szturm, tylko głód. Po porażce [trzeciej próby odsieczy](/bitwy/trzecia-proba-odsieczy-al-kutu) i nieudanym [rejsie statku Julnar](/rejs-statku-julnar) nie było już nadziei na ratunek.
+29 kwietnia 1916 roku, po 147 dniach oblężenia, generał Charles Townshend poddał [Al-Kut](/miejsca/al-kut) nad [Tygrysem](/miejsca/tygrys) wojskom osmańskim. Rano zniszczył działa i amunicję, a po południu Turcy weszli do miasta. Według brytyjskiej historii oficjalnej (Moberly, *The Campaign in Mesopotamia*, tom II) garnizon liczył tego dnia 13 309 ludzi: 10 061 żołnierzy, w tym 2592 brytyjskich i 6988 indyjskich szeregowych i podoficerów, oraz 3248 indyjskich pomocników (followers). Do kapitulacji nie zmusił ich szturm, tylko głód. Po porażce [trzeciej próby odsieczy](/bitwy/trzecia-proba-odsieczy-al-kutu) i nieudanym [rejsie statku Julnar](/rejs-statku-julnar) nie było już nadziei na ratunek.
 
 ## Ostatnie racje
 

@@ -2,10 +2,10 @@
 title: Clash of Swift and Broke
 summary: On the night of 20/21 April 1917 the British leaders Swift and Broke caught German torpedo boats in the Dover Strait and sank two of them, G 42 and G 85.
 source: starcie-swifta-i-broke-a
-sourceHash: 461bdb3047c5e3f84f31daf5e620220ac84f52cf
+sourceHash: 7b61157809631bc29985f991e892fdf18d25e75c
 ---
 
-On the night of 20 to 21 April 1917 German torpedo boats from Flanders once again entered the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska). They shelled [Calais](https://pl.wikipedia.org/wiki/Calais) and [Dover](https://pl.wikipedia.org/wiki/Dover), but on the way back they ran into two large British destroyers, *Swift* and *Broke*. In a fight lasting a few minutes, just after midnight on 21 April, the British sank two German ships, one of them by ramming. For the first time since the night raids began in the autumn of 1916, the Germans lost ships in the strait. In Polish the clash is sometimes called the [Battle of the Strait of Calais](https://pl.wikipedia.org/wiki/Bitwa_w_Cieśninie_Kaletańskiej), and in Britain the Second Battle of the Dover Strait.
+On the night of 20 to 21 April 1917 German torpedo boats from Flanders once again entered the [Strait of Dover](/miejsca/ciesnina-kaletanska). They shelled [Calais](https://pl.wikipedia.org/wiki/Calais) and [Dover](https://pl.wikipedia.org/wiki/Dover), but on the way back they ran into two large British destroyers, *Swift* and *Broke*. In a fight lasting a few minutes, just after midnight on 21 April, the British sank two German ships, one of them by ramming. For the first time since the night raids began in the autumn of 1916, the Germans lost ships in the strait. In Polish the clash is sometimes called the [Battle of the Strait of Calais](https://pl.wikipedia.org/wiki/Bitwa_w_Cieśninie_Kaletańskiej), and in Britain the Second Battle of the Dover Strait.
 
 ## The German plan
 

@@ -2,10 +2,10 @@
 title: End of the armistice in Montenegro
 summary: King Nicholas I left Montenegro and announced from Italy that he rejected the Austrian terms. Talks collapsed and Vienna threatened to resume fighting.
 source: koniec-rozejmu-w-czarnogorze
-sourceHash: ae3ff94279e145cfe31a43ffba1250f3aa8b72e2
+sourceHash: 36c38371015f91ae7f898c308c3963618f427777
 ---
 
-The British chronology of the war records under 20 January 1916 that the negotiations between Austria-Hungary and Montenegro had been broken off and the armistice had ceased to apply. The ceasefire had indeed lasted only a few days. After the [request for an armistice](/czarnogora-prosi-o-rozejm) of 11 January and the [capture of Cetinje](/austriacy-zajmuja-cetynie), on 16 January the Montenegrin government accepted Vienna's condition that the army lay down its arms, and on 17 January the Austro-Hungarian supreme command ordered hostilities to be halted. The negotiations collapsed, however, before anything was signed. On 19 January King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) left Montenegro, and according to the Austrian official history on 20 January he landed at [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), where he declared that he rejected all the terms and would fight on.
+The British chronology of the war records under 20 January 1916 that the negotiations between Austria-Hungary and Montenegro had been broken off and the armistice had ceased to apply. The ceasefire had indeed lasted only a few days. After the [request for an armistice](/czarnogora-prosi-o-rozejm) of 11 January and the [capture of Cetinje](/austriacy-zajmuja-cetynie), on 16 January the Montenegrin government accepted Vienna's condition that the army lay down its arms, and on 17 January the Austro-Hungarian supreme command ordered hostilities to be halted. The negotiations collapsed, however, before anything was signed. On 19 January King [Nicholas I](/postacie/mikolaj-i-petrowic-niegosz) left Montenegro, and according to the Austrian official history on 20 January he landed at [Brindisi](/miejsca/brindisi), where he declared that he rejected all the terms and would fight on.
 
 ## The King's hesitation
 

@@ -59,7 +59,7 @@ Armia Alzacji ruszyła 14 sierpnia, razem z wielką ofensywą 1 i 2 Armii w Lota
 
 Pau nie czuł się na siłach, by uderzyć na umocnione pozycje niemieckie pod Colmarem. Od 20 sierpnia jego armia stała na linii od Altkirch przez Miluzę po okolice na południe od Colmaru, a w Wogezach trzymała przełęcze. Przygotowania do dalszego natarcia przerwały wiadomości z innych frontów. 20 sierpnia załamała się ofensywa w Lotaryngii, a kilka dni później Francuzi przegrali w Ardenach i nad Sambrą. Według przewodnika Michelin od 23 sierpnia dalsze natarcie stało się niemożliwe.
 
-Joffre potrzebował wojsk na północy. Główne siły VII Korpusu przewożono koleją nad [Sommę](https://pl.wikipedia.org/wiki/Somma_(rzeka)), do tworzonej tam nowej armii. 8 Dywizję Kawalerii przydzielono 1 Armii, a 57 i 66 Dywizja Rezerwowa zostały na przedpolu Belfortu. Osłabione oddziały opuściły Miluzę i Sundgau bez walki i wycofały się na linię grzbietów Wogezów i na przedpole twierdzy. Już 24 sierpnia niemieccy lotnicy meldowali, że Francuzi odchodzą z okolic Miluzy. Niemiecka Landwehra wróciła do opuszczonego miasta bez walki. Tym razem miała je utrzymać do końca wojny.
+Joffre potrzebował wojsk na północy. Główne siły VII Korpusu przewożono koleją nad [Sommę](/miejsca/somma), do tworzonej tam nowej armii. 8 Dywizję Kawalerii przydzielono 1 Armii, a 57 i 66 Dywizja Rezerwowa zostały na przedpolu Belfortu. Osłabione oddziały opuściły Miluzę i Sundgau bez walki i wycofały się na linię grzbietów Wogezów i na przedpole twierdzy. Już 24 sierpnia niemieccy lotnicy meldowali, że Francuzi odchodzą z okolic Miluzy. Niemiecka Landwehra wróciła do opuszczonego miasta bez walki. Tym razem miała je utrzymać do końca wojny.
 
 ## Straty
 

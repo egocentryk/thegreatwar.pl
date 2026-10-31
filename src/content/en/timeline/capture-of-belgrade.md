@@ -2,10 +2,10 @@
 title: Capture of Belgrade
 summary: On 9 October 1915 the Serbs left their capital. The Habsburg flag flew over Kalemegdan, the Germans took the royal palace. Belgrade fell after three days.
 source: zdobycie-belgradu
-sourceHash: 0864c2cd3462f5676c627847faa499341b1881ec
+sourceHash: f27a8f819e0e8e3fe56ca9c5e1f797710901381d
 ---
 
-On 9 October 1915 Austro-Hungarian and German troops took [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). Three days earlier the artillery of General [Hermann Kövess](/postacie/hermann-kovess)'s army had opened [the Central Powers' attack on Serbia](/panstwa-centralne-atakuja-serbie), and on the night of 6–7 October his infantry [forced the Sava and the Danube](/forsowanie-sawy-i-dunaju) at the foot of the Serbian capital. For two days and nights the Austro-Hungarian 59th Infantry Division clung to the riverbank below the fortress, while the Serbs tried again and again to push it into the river. On the evening of 8 October, however, the landing force broke into the streets of the city, and in the west the German XXII Reserve Corps seized the crossings over the Sava and the Banovo brdo hill.
+On 9 October 1915 Austro-Hungarian and German troops took [Belgrade](/miejsca/belgrad). Three days earlier the artillery of General [Hermann Kövess](/postacie/hermann-kovess)'s army had opened [the Central Powers' attack on Serbia](/panstwa-centralne-atakuja-serbie), and on the night of 6–7 October his infantry [forced the Sava and the Danube](/forsowanie-sawy-i-dunaju) at the foot of the Serbian capital. For two days and nights the Austro-Hungarian 59th Infantry Division clung to the riverbank below the fortress, while the Serbs tried again and again to push it into the river. On the evening of 8 October, however, the landing force broke into the streets of the city, and in the west the German XXII Reserve Corps seized the crossings over the Sava and the Banovo brdo hill.
 
 ## The defenders withdraw
 

@@ -9,10 +9,10 @@ sides:
     commanders: [Halil Bey, Colmar von der Goltz, Ali İhsan Bey]
 result: Ottoman victory. The British took Hanna, Fallahiyah and Beit Aiessa but did not break the defences at Sannaiyat and Es Sinn. On 29 April Kut surrendered.
 source: trzecia-proba-odsieczy-al-kutu
-sourceHash: 393002230b245330160faa32186373b6abffbd51
+sourceHash: adadf99af6da2b1cae90b0600d8a87acb62f875b
 ---
 
-The third relief attempt was the last chance for General Charles Townshend's division, [besieged in Kut](/bitwy/oblezenie-al-kutu) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) since December 1915. After the [defeat at Dujaila](/bitwy/bitwa-pod-dudzajla) in March, the Anglo-Indian Tigris Corps, now commanded by General George Gorringe, received the fresh 13th Division, veterans of Gallipoli. On 5 April 1916 it took the trenches in the Hanna defile, abandoned by the Turks, and in the evening the position at Fallahiyah. The next Turkish line, at Sannaiyat, between the river and the marsh, withstood three attacks: on 6, 9 and 22 April. On the right bank the British took Beit Aiessa on 17 April, but during the night they had to beat off a violent Turkish counter-attack. All the while they were also fighting the swollen Tigris and the wind, which drove the water of the marshes onto their trenches. On the evening of 24 April the steamer Julnar tried to carry food into the town, but stuck at Magasis. Five days later Kut surrendered.
+The third relief attempt was the last chance for General Charles Townshend's division, [besieged in Kut](/bitwy/oblezenie-al-kutu) on the [Tigris](/miejsca/tygrys) since December 1915. After the [defeat at Dujaila](/bitwy/bitwa-pod-dudzajla) in March, the Anglo-Indian Tigris Corps, now commanded by General George Gorringe, received the fresh 13th Division, veterans of Gallipoli. On 5 April 1916 it took the trenches in the Hanna defile, abandoned by the Turks, and in the evening the position at Fallahiyah. The next Turkish line, at Sannaiyat, between the river and the marsh, withstood three attacks: on 6, 9 and 22 April. On the right bank the British took Beit Aiessa on 17 April, but during the night they had to beat off a violent Turkish counter-attack. All the while they were also fighting the swollen Tigris and the wind, which drove the water of the marshes onto their trenches. On the evening of 24 April the steamer Julnar tried to carry food into the town, but stuck at Magasis. Five days later Kut surrendered.
 
 ## Name and dates
 

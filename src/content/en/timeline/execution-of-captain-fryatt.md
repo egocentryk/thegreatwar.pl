@@ -2,7 +2,7 @@
 title: Execution of Captain Fryatt
 summary: On 27 July 1916 a German court martial in Bruges sentenced Captain Charles Fryatt, who in 1915 had tried to ram a U-boat. He was shot that evening.
 source: egzekucja-kapitana-fryatta
-sourceHash: cd62732e97557b3c709b1eb2c195243ddae711e2
+sourceHash: ad35a9e380832090624ab9a1d02e9d2f527030a8
 ---
 
 On 27 July 1916, in the town hall of [Bruges](https://pl.wikipedia.org/wiki/Brugia) in occupied Belgium, a field court martial of the German Marine Corps sentenced the British merchant navy captain Charles Fryatt to death. It found him guilty of having tried in March 1915, as a civilian who did not belong to the armed forces, to ram and destroy a German submarine. That same evening, at about seven, a firing squad shot him in Bruges. The sentence was carried out within a few hours of being pronounced. The captain's family in England believed at the time that he was safe in an internment camp.
@@ -15,7 +15,7 @@ In the spring of 1915 Fryatt twice escaped from U-boats. At the beginning of Mar
 
 ## In German hands
 
-On 23 June 1916 the *Brussels* sailed by night from [Hook of Holland](https://pl.wikipedia.org/wiki/Hoek_van_Holland) for Harwich with a cargo of food, mail and Belgian refugees on board. According to the crew's account someone was signalling with lights from the Dutch shore, and soon the ship was surrounded by five German torpedo boats. Fryatt ordered the passengers to prepare to take their places in the boats and the first officer to burn the secret papers. The Germans boarded, destroyed the wireless and took the ship to [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge), and then along the canal to Bruges. The crew were sent to the camp for interned civilians at Ruhleben near Berlin. After a few days, however, Fryatt and the first officer, William Hartnell, were sent back to Bruges and interrogated about the submarine Fryatt had supposedly sunk. The evidence against him was chiefly the Admiralty watch and articles from British newspapers of March and April 1915. In reality U-33 had not sunk. It was then operating in the Black Sea, where in March 1916 it [sank the Russian hospital ship *Portugal*](/zatopienie-statku-szpitalnego-portugal).
+On 23 June 1916 the *Brussels* sailed by night from [Hook of Holland](https://pl.wikipedia.org/wiki/Hoek_van_Holland) for Harwich with a cargo of food, mail and Belgian refugees on board. According to the crew's account someone was signalling with lights from the Dutch shore, and soon the ship was surrounded by five German torpedo boats. Fryatt ordered the passengers to prepare to take their places in the boats and the first officer to burn the secret papers. The Germans boarded, destroyed the wireless and took the ship to [Zeebrugge](/miejsca/zeebrugge), and then along the canal to Bruges. The crew were sent to the camp for interned civilians at Ruhleben near Berlin. After a few days, however, Fryatt and the first officer, William Hartnell, were sent back to Bruges and interrogated about the submarine Fryatt had supposedly sunk. The evidence against him was chiefly the Admiralty watch and articles from British newspapers of March and April 1915. In reality U-33 had not sunk. It was then operating in the Black Sea, where in March 1916 it [sank the Russian hospital ship *Portugal*](/zatopienie-statku-szpitalnego-portugal).
 
 ## Trial and sentence
 

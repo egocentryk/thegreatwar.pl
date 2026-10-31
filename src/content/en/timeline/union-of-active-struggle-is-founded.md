@@ -2,10 +2,10 @@
 title: Union of Active Struggle is founded
 summary: In June 1908 the secret Union of Active Struggle was founded in Kazimierz Sosnkowski's flat in Lviv, a school for the cadres of a future rising against Russia.
 source: powstaje-zwiazek-walki-czynnej
-sourceHash: 277117b2ea7b0deb0fd9e41ea36340ec6fc2fbb0
+sourceHash: 6398b2964d7677920772e3005d3429bd4b18673f
 ---
 
-In June 1908, in [Lviv](https://pl.wikipedia.org/wiki/Lwów), in the flat of the architecture student [Kazimierz Sosnkowski](/postacie/kazimierz-sosnkowski), the secret [Union of Active Struggle](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej) (Związek Walki Czynnej, ZWC) came into being. The Museum of Polish History gives the date as 17 June; other accounts say only June or the end of the month. The ZWC was not meant to kill anyone or rob cash transports. It was meant to teach. Its courses, held in the [Austrian partition](https://pl.wikipedia.org/wiki/Zabór_austriacki), were to produce the officers and NCOs of a rising that would break out in the Russian partition once the partitioning powers went to war with one another. On the centenary of its founding the Polish Sejm called it the first pro-independence paramilitary organisation, "the nucleus of the Polish Army".
+In June 1908, in [Lviv](/miejsca/lwow), in the flat of the architecture student [Kazimierz Sosnkowski](/postacie/kazimierz-sosnkowski), the secret [Union of Active Struggle](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej) (Związek Walki Czynnej, ZWC) came into being. The Museum of Polish History gives the date as 17 June; other accounts say only June or the end of the month. The ZWC was not meant to kill anyone or rob cash transports. It was meant to teach. Its courses, held in the [Austrian partition](https://pl.wikipedia.org/wiki/Zabór_austriacki), were to produce the officers and NCOs of a rising that would break out in the Russian partition once the partitioning powers went to war with one another. On the centenary of its founding the Polish Sejm called it the first pro-independence paramilitary organisation, "the nucleus of the Polish Army".
 
 ## From fighting squad to school
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-24 lutego 1917 roku wojska osmańskie porzuciły pozycje nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), których broniły od wiosny 1916 roku, i zaczęły odwrót w górę rzeki, ku [Bagdadowi](/miejsca/bagdad). [Al-Kut](https://pl.wikipedia.org/wiki/Al-Kut), gdzie dziesięć miesięcy wcześniej [skapitulowała dywizja generała Townshenda](/kapitulacja-al-kutu), został bez obrońców. Wieczorem generał [Frederick Stanley Maude](/postacie/frederick-maude) telegrafował, że ma w rękach wszystkie pozycje przeciwnika od Sannajjat po Al-Kut, a samo miasto, które ma już tylko znaczenie sentymentalne, „przechodzi automatycznie w nasze ręce, choć jeszcze go nie zajęliśmy”. Brytyjczycy weszli do niego dopiero następnego ranka.
+24 lutego 1917 roku wojska osmańskie porzuciły pozycje nad [Tygrysem](/miejsca/tygrys), których broniły od wiosny 1916 roku, i zaczęły odwrót w górę rzeki, ku [Bagdadowi](/miejsca/bagdad). [Al-Kut](/miejsca/al-kut), gdzie dziesięć miesięcy wcześniej [skapitulowała dywizja generała Townshenda](/kapitulacja-al-kutu), został bez obrońców. Wieczorem generał [Frederick Stanley Maude](/postacie/frederick-maude) telegrafował, że ma w rękach wszystkie pozycje przeciwnika od Sannajjat po Al-Kut, a samo miasto, które ma już tylko znaczenie sentymentalne, „przechodzi automatycznie w nasze ręce, choć jeszcze go nie zajęliśmy”. Brytyjczycy weszli do niego dopiero następnego ranka.
 
 ## Ostatni dzień bitwy
 

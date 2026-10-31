@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 września 1916 roku dwa francuskie samoloty zbombardowały zakłady zbrojeniowe [Kruppa](https://pl.wikipedia.org/wiki/Friedrich_Krupp_(przedsiębiorstwo)) w [Essen](https://pl.wikipedia.org/wiki/Essen), w sercu [Zagłębia Ruhry](https://pl.wikipedia.org/wiki/Zagłębie_Ruhry). Brytyjska chronologia wojny notuje to krótko: „zakłady Kruppa w Essen zbombardowane przez francuskie samoloty”. Za tym zdaniem kryje się śmiały wypad dwóch lotników: kapitana Louisa Roberta de Beauchampa, dowódcy eskadry N 23, i porucznika Pierre'a Daucourta. Polecieli oni na jednomiejscowych samolotach z lotniska w [Lemmes](https://pl.wikipedia.org/wiki/Lemmes), na południe od [Verdun](https://pl.wikipedia.org/wiki/Verdun_(Moza)). Według francuskich opracowań cała trasa, tam i z powrotem, liczyła około 700 kilometrów.
+24 września 1916 roku dwa francuskie samoloty zbombardowały zakłady zbrojeniowe [Kruppa](https://pl.wikipedia.org/wiki/Friedrich_Krupp_(przedsiębiorstwo)) w [Essen](https://pl.wikipedia.org/wiki/Essen), w sercu [Zagłębia Ruhry](https://pl.wikipedia.org/wiki/Zagłębie_Ruhry). Brytyjska chronologia wojny notuje to krótko: „zakłady Kruppa w Essen zbombardowane przez francuskie samoloty”. Za tym zdaniem kryje się śmiały wypad dwóch lotników: kapitana Louisa Roberta de Beauchampa, dowódcy eskadry N 23, i porucznika Pierre'a Daucourta. Polecieli oni na jednomiejscowych samolotach z lotniska w [Lemmes](https://pl.wikipedia.org/wiki/Lemmes), na południe od [Verdun](/bitwy/bitwa-pod-verdun). Według francuskich opracowań cała trasa, tam i z powrotem, liczyła około 700 kilometrów.
 
 ## Przerobione Sopwithy
 

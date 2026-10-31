@@ -2,16 +2,16 @@
 title: End of the battle of Sanok and Rzeszów
 summary: In mid-May 1915 the Russians withdrew from western Galicia behind the San. The Central Powers took Sanok and Rzeszów and 130,000–140,000 prisoners.
 source: koniec-bitwy-pod-sanokiem-i-rzeszowem
-sourceHash: c74d0b8bbc315b1e144c247042b44b98cd50c7e6
+sourceHash: 999fddf73a1efa6731b755bf837262dcd36190ac
 ---
 
-On 14 May 1915, according to the British chronology of the war, the battle of Sanok and Rzeszów ended. The Russian armies, which had been retreating through Galicia since the [breakthrough at Gorlice](/bitwy/bitwa-pod-gorlicami), were already behind the [San](https://pl.wikipedia.org/wiki/San), and the German and Austro-Hungarian forces were approaching the Russian bridgeheads on that river and Przemyśl. The Austrian historian Ernst Joly, who described this campaign in 1922, regarded the battle as over as early as 11 May, when the Russians crossed the San, and on the night of 11/12 May, when Rzeszów fell. In the following days the pursuit continued, interrupted by rearguard actions.
+On 14 May 1915, according to the British chronology of the war, the battle of Sanok and Rzeszów ended. The Russian armies, which had been retreating through Galicia since the [breakthrough at Gorlice](/bitwy/bitwa-pod-gorlicami), were already behind the [San](/miejsca/san), and the German and Austro-Hungarian forces were approaching the Russian bridgeheads on that river and Przemyśl. The Austrian historian Ernst Joly, who described this campaign in 1922, regarded the battle as over as early as 11 May, when the Russians crossed the San, and on the night of 11/12 May, when Rzeszów fell. In the following days the pursuit continued, interrupted by rearguard actions.
 
 ## The Russian line cracks
 
 The line on which General [Radko Dimitriev](/postacie/radko-dimitriew) wanted to halt the pursuit did not last more than a few days. On 9 May the Russians threw three fresh divisions into a counter-attack on the road to Sanok, but in the evening they had to give up Besko. On other sectors whole units went into captivity. Dimitriev reported that his army had been bled white. At dawn on 10 May the Russian XXI Corps attacked once more and threw back the 11th Bavarian Infantry Division, but the neighbouring corps were unable to support it and the front was broken again. In the afternoon Dimitriev ordered a retreat behind the San.
 
-On the same day the chief of staff of the South-Western Front, General Vladimir Dragomirov, wrote to Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) that the strategic position of the troops was hopeless. The front commander, General [Nikolai Ivanov](/postacie/nikolaj-iwanow), on his own responsibility issued in the evening an order for the Third, Fourth and Eighth Armies to retreat. During the night the high command agreed to the retreat, but demanded that the line of the San and the [Dniester](https://pl.wikipedia.org/wiki/Dniestr) be held at all costs. [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl), which the Russians had taken only [in March](/kapitulacja-przemysla), was no longer to be a fortress, but a fortified sector of the front.
+On the same day the chief of staff of the South-Western Front, General Vladimir Dragomirov, wrote to Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz) that the strategic position of the troops was hopeless. The front commander, General [Nikolai Ivanov](/postacie/nikolaj-iwanow), on his own responsibility issued in the evening an order for the Third, Fourth and Eighth Armies to retreat. During the night the high command agreed to the retreat, but demanded that the line of the San and the [Dniester](/miejsca/dniestr) be held at all costs. [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl), which the Russians had taken only [in March](/kapitulacja-przemysla), was no longer to be a fortress, but a fortified sector of the front.
 
 ## Sanok and Rzeszów
 

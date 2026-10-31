@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 lipca 1917 roku o szóstej rano trzy brytyjskie kolumny ruszyły na niemieckie okopy pod Narungombe, wśród wzgórz i wysokiej trawy, około 50 kilometrów na południe od [Kilwy](/brytyjczycy-zajmuja-kilwe) w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Walka trwała do zmroku i była jedną z najcięższych w całej kampanii. Niemcy odparli kolejne natarcia, ale w nocy opuścili pozycję. Brytyjczycy zdobyli upragnione studnie, lecz za cenę ponad 600 zabitych, rannych i zaginionych.
+19 lipca 1917 roku o szóstej rano trzy brytyjskie kolumny ruszyły na niemieckie okopy pod Narungombe, wśród wzgórz i wysokiej trawy, około 50 kilometrów na południe od [Kilwy](/brytyjczycy-zajmuja-kilwe) w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Walka trwała do zmroku i była jedną z najcięższych w całej kampanii. Niemcy odparli kolejne natarcia, ale w nocy opuścili pozycję. Brytyjczycy zdobyli upragnione studnie, lecz za cenę ponad 600 zabitych, rannych i zaginionych.
 
 ## Pościg od Kilwy
 

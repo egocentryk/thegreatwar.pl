@@ -2,7 +2,7 @@
 title: Russians take Kermanshah
 summary: At the end of February 1916 Baratov's corps entered abandoned Kermanshah. Persian nationalists, Germans and Turks fell back towards the Iraqi border.
 source: rosjanie-zajmuja-kermanszah
-sourceHash: 447b45860a30c2ffa30bb29f0da4bf6f0154c8b8
+sourceHash: 8213ca6e56531fb24d88c51fda6aa91493f478a5
 ---
 
 On 26 February 1916 units of General Nikolai Baratov's Russian expeditionary corps entered [Kermanshah](https://pl.wikipedia.org/wiki/Kermanszah_(miasto)), the main city of western Persia. Its defenders abandoned it without a fight. The date of 26 February is given by the British chronology of the war, by W.E.D. Allen and Paul Muratoff's history of the Caucasian wars and by the work of General Yevgeny Maslovsky, who writes of 13 February by the Julian calendar. The British official history of the Mesopotamian campaign places the capture of the city a day earlier, and the Iranian historian Iraj Nasseri, relying on Persian sources, a day later.
@@ -21,6 +21,6 @@ The émigrés, gendarmes, Germans and Turks retreated westwards, first to Kerend
 
 ## The Russians and the British
 
-Baratov's march was followed closely in Mesopotamia. General Percy Lake, commander of the British forces, asked on 9 February that the Russian Kermanshah column cooperate with the attempt to relieve besieged [Kut al-Amara](https://pl.wikipedia.org/wiki/Al-Kut). On 25 February Baratov informed him that he was marching on Kermanshah. The British official history notes, however, that this small column was hardly able to relieve the front on the Tigris. In mid-March the British Chief of the Imperial General Staff told Lake that the Russian march on Kermanshah had caused alarm in Baghdad.
+Baratov's march was followed closely in Mesopotamia. General Percy Lake, commander of the British forces, asked on 9 February that the Russian Kermanshah column cooperate with the attempt to relieve besieged [Kut al-Amara](/miejsca/al-kut). On 25 February Baratov informed him that he was marching on Kermanshah. The British official history notes, however, that this small column was hardly able to relieve the front on the Tigris. In mid-March the British Chief of the Imperial General Staff told Lake that the Russian march on Kermanshah had caused alarm in Baghdad.
 
 Baratov first had to sort out the supply of his troops, hundreds of kilometres from their bases. According to Allen and Muratoff, he did not resume the march towards the Iraqi border until 20 April, with no more than 5,000 men, and reached Qasr-e Shirin at the beginning of May, a few days after the surrender of Kut. In the summer of 1916 the Turkish XIII Corps forced them to retreat, and the Ottoman troops and Nezam os-Saltaneh's government returned to Kermanshah.

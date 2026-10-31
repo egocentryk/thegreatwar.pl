@@ -6,7 +6,7 @@ country: Germany
 birthPlace: Giebichenstein near Halle (Germany)
 deathPlace: Near Bapaume (France)
 source: oswald-boelcke
-sourceHash: 15c26cc41493873d481c36b0ec319405a54e9505
+sourceHash: 38dade323160ea6a6a68373eca9233747486639c
 ---
 
 Oswald Boelcke was the first airman to understand that fighting in the air was a separate kind of war, requiring its own tactics, its own units and special training. In the autumn of 1915, flying a Fokker monoplane with a machine gun firing through the propeller, he and Max Immelmann became the heroes of the "Fokker Scourge", and in January 1916 the two of them were the first airmen to receive the Pour le Mérite. In the summer of 1916 he set down the rules of air combat known as the "Dicta Boelcke" and advised gathering fighters into separate squadrons. He himself took command of one of the first of them, Jagdstaffel 2, which wrested air superiority over the Somme from the British. When he was killed in an accident on 28 October 1916, he was 25 years old and had 40 confirmed victories, more than any other pilot in the world. His pupils, led by Manfred von Richthofen, fought by his rules for the next two years.
@@ -17,7 +17,7 @@ Oswald Boelcke (originally Bölcke) was born on 19 May 1891 in Giebichenstein, t
 
 ## Reconnaissance pilot
 
-He passed his pilot's examination in mid-August 1914 and went to the Western Front, to a flying unit in which his brother was an observer. The brothers flew together over the front on reconnaissance missions, and Oswald quickly earned a reputation as an exceptional pilot. When disputes arose in the unit, the brothers were separated, and in the spring of 1915 Oswald was posted to the newly formed Feldflieger-Abteilung 62, which was moved to [Douai](https://pl.wikipedia.org/wiki/Douai). On 4 July 1915, still flying a two-seat reconnaissance aircraft, he won his first victory: after a half-hour fight his observer shot down a French aircraft.
+He passed his pilot's examination in mid-August 1914 and went to the Western Front, to a flying unit in which his brother was an observer. The brothers flew together over the front on reconnaissance missions, and Oswald quickly earned a reputation as an exceptional pilot. When disputes arose in the unit, the brothers were separated, and in the spring of 1915 Oswald was posted to the newly formed Feldflieger-Abteilung 62, which was moved to [Douai](/miejsca/douai). On 4 July 1915, still flying a two-seat reconnaissance aircraft, he won his first victory: after a half-hour fight his observer shot down a French aircraft.
 
 ## Fokker
 
@@ -45,7 +45,7 @@ On 16 September the squadron received the new [Albatros D.I](https://pl.wikipedi
 
 ## Death
 
-He was, however, exhausted. He was flying several times a day, suffered from asthma and, according to his comrades, was depressed. On the afternoon of 28 October 1916 six pilots of Jagdstaffel 2 attacked two British DH.2s of No. 24 Squadron over the area of [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). Boelcke and Böhme were chasing one of them when the other, fleeing from Richthofen, flashed between them. Both pulled up their machines and, screened by their wings, could not see each other. The undercarriage of Böhme's aircraft grazed the upper wing of Boelcke's Albatros. The damaged wing lost its lift, and the aircraft spun down to earth next to a German artillery battery. The impact was not very violent, but Boelcke had neither his straps fastened nor a helmet on and was killed instantly. Böhme, who landed safely, long could not come to terms with what had happened.
+He was, however, exhausted. He was flying several times a day, suffered from asthma and, according to his comrades, was depressed. On the afternoon of 28 October 1916 six pilots of Jagdstaffel 2 attacked two British DH.2s of No. 24 Squadron over the area of [Bapaume](/miejsca/bapaume). Boelcke and Böhme were chasing one of them when the other, fleeing from Richthofen, flashed between them. Both pulled up their machines and, screened by their wings, could not see each other. The undercarriage of Böhme's aircraft grazed the upper wing of Boelcke's Albatros. The damaged wing lost its lift, and the aircraft spun down to earth next to a German artillery battery. The impact was not very violent, but Boelcke had neither his straps fastened nor a helmet on and was killed instantly. Böhme, who landed safely, long could not come to terms with what had happened.
 
 A memorial service was held on 31 October in [Cambrai Cathedral](https://pl.wikipedia.org/wiki/Archikatedra_Matki_Bożej_Łaskawej_w_Cambrai) in the presence of the Crown Prince of Bavaria, [Rupprecht](/postacie/rupprecht-bawarski). A British aircraft dropped a wreath over the German lines with the dedication "To the memory of Captain Boelcke, our brave and chivalrous foe". He was buried on 2 November in Dessau with the honours due to great commanders. His squadron was thereafter named Jagdstaffel Boelcke.
 

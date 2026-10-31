@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 21 października 1915 roku zajęcie przez Bułgarów [Wełesu](https://pl.wikipedia.org/wiki/Wełes), miasta nad [Wardarem](https://pl.wikipedia.org/wiki/Wardar), znanego wtedy także pod turecką nazwą Köprülü. Inne źródła wskazują dzień lub dwa wcześniej. Według austro-węgierskiej historii oficjalnej bułgarska dywizja kawalerii dotarła do Wełesu już 19 października. Brytyjska historia wojny wydawana przez Nelsona podaje, że miasto padło 20 października, a serbskie opracowania mówią, że do tego dnia bułgarska 2 Armia doszła do Kumanowa i Wełesu.
+Brytyjska chronologia wojny notuje pod 21 października 1915 roku zajęcie przez Bułgarów [Wełesu](https://pl.wikipedia.org/wiki/Wełes), miasta nad [Wardarem](/miejsca/wardar), znanego wtedy także pod turecką nazwą Köprülü. Inne źródła wskazują dzień lub dwa wcześniej. Według austro-węgierskiej historii oficjalnej bułgarska dywizja kawalerii dotarła do Wełesu już 19 października. Brytyjska historia wojny wydawana przez Nelsona podaje, że miasto padło 20 października, a serbskie opracowania mówią, że do tego dnia bułgarska 2 Armia doszła do Kumanowa i Wełesu.
 
 ## Klucz do doliny Wardaru
 

@@ -2,7 +2,7 @@
 title: Start of the Kilimanjaro offensive
 summary: On 5 March 1916 General Stewart's 1st Division set off south from Longido. It was to go round Kilimanjaro from the west and cut off the German retreat.
 source: poczatek-ofensywy-kilimandzarskiej
-sourceHash: 7122d98cf37ceec6ca93d78cfac3d9f5218a861a
+sourceHash: 04efcdbc35ba5291ab878e7b060808b72c14a238
 brief:
   - "On 5 March 1916 General Stewart's 1st Division set off south from Longido mountain in British East Africa. This was the start of the offensive planned by the new commander-in-chief, Lieutenant-General Jan Smuts."
   - "The division was to go round Kilimanjaro from the west and come out in the rear of the Germans holding the gap at Taveta, cutting off their retreat. That is why it set out two days before the eastern columns."
@@ -10,7 +10,7 @@ brief:
   - "The 1st Division advanced slowly, in downpours and without news of the enemy. It reached Moshi only after the Germans had slipped away to the south."
 ---
 
-On the morning of 5 March 1916 Major-General James Marshall Stewart's 1st Division set off south from Longido mountain in [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), north-west of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro). This was the start of the offensive that the new commander-in-chief, Lieutenant-General [Jan Smuts](/postacie/jan-smuts), had [planned immediately after his arrival](/smuts-dowodca-w-afryce-wschodniej) in East Africa. The division had completed its concentration at Longido on 3 March. At this same place in November 1914 Stewart had [unsuccessfully attacked the Germans](/potyczka-pod-longido); now he was to push from the same direction deep into [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).
+On the morning of 5 March 1916 Major-General James Marshall Stewart's 1st Division set off south from Longido mountain in [British East Africa](/bitwy/kampania-wschodnioafrykanska), north-west of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska). This was the start of the offensive that the new commander-in-chief, Lieutenant-General [Jan Smuts](/postacie/jan-smuts), had [planned immediately after his arrival](/smuts-dowodca-w-afryce-wschodniej) in East Africa. The division had completed its concentration at Longido on 3 March. At this same place in November 1914 Stewart had [unsuccessfully attacked the Germans](/potyczka-pod-longido); now he was to push from the same direction deep into [German East Africa](/bitwy/kampania-wschodnioafrykanska).
 
 The division's task was the hardest in the whole plan. It was to go round the Kilimanjaro massif from the west, pass between it and Mount [Meru](https://pl.wikipedia.org/wiki/Meru_(wulkan)) and come out in the area of Boma Ngombe in the rear of the German forces defending the gap at Taveta. When Smuts's main forces struck from the east, Stewart was to cut off the Germans' line of retreat. That is why he set out two days before the eastern columns. His division included Indian units, among them the 29th Punjabis and the 129th Baluchis, as well as the 1st battalion of the African King's African Rifles, the settlers' volunteer cavalry of the East African Mounted Rifles and a battalion of the Cape Corps, made up of so-called Coloureds from South Africa. The British estimated the German forces on the western side of the mountain at about 800 rifles. In reality there were about 1,200 men there.
 

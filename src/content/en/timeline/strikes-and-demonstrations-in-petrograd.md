@@ -2,14 +2,14 @@
 title: Strikes and demonstrations in Petrograd
 summary: On 8 March 1917, Women's Day, the women workers of Petrograd took to the streets demanding bread. Within four days the protest drew in hundreds of thousands.
 source: strajki-i-demonstracje-w-piotrogrodzie
-sourceHash: 69ca4d8388b5f331b8f68d469961a8da857c9ce1
+sourceHash: 8925c572240bcd1ee4dd8e2178efef5c2e1b3112
 ---
 
 On Thursday 8 March 1917 Petrograd marked International [Women's Day](https://pl.wikipedia.org/wiki/Dzień_Kobiet). In Russia, which still used the Julian calendar, it was 23 February. Socialist organisations had planned rallies and speeches for the day, but nobody had called for a strike. In the morning, however, women workers at several textile mills in the working-class district of the Vyborg Side, on the right bank of the [Neva](https://pl.wikipedia.org/wiki/Newa), downed tools and marched to the neighbouring metalworks, calling on the men to join them. Thus began the unrest which in less than a week overthrew the monarchy.
 
 ## Bread queues
 
-For weeks the capital had been living in want. The freezing winter had immobilised hundreds of locomotives, snowdrifts had halted trains, and only part of the flour and fuel the city needed was getting through. Rumours went round that the authorities would introduce bread rationing. Long queues formed outside bakeries, in which women sometimes stood all night. The French ambassador, Maurice Paléologue, noted on 6 March that in a queue outside a bakery on Liteyny Prospekt he had been struck by the "sinister" faces of the poor. The day before the holiday the management of the great [Putilov Works](https://pl.wikipedia.org/wiki/Fabryka_Kirowa), where pay disputes had been going on for several weeks, announced a lockout, and tens of thousands of workers found themselves out on the street. That same day, 7 March, Tsar [Nicholas II](/postacie/mikolaj-ii) left [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) for General Headquarters at [Mogilev](https://pl.wikipedia.org/wiki/Mohylew), assured by the Interior Minister, [Alexander Protopopov](https://pl.wikipedia.org/wiki/Aleksandr_Protopopow), that the situation in the capital was under control.
+For weeks the capital had been living in want. The freezing winter had immobilised hundreds of locomotives, snowdrifts had halted trains, and only part of the flour and fuel the city needed was getting through. Rumours went round that the authorities would introduce bread rationing. Long queues formed outside bakeries, in which women sometimes stood all night. The French ambassador, Maurice Paléologue, noted on 6 March that in a queue outside a bakery on Liteyny Prospekt he had been struck by the "sinister" faces of the poor. The day before the holiday the management of the great [Putilov Works](https://pl.wikipedia.org/wiki/Fabryka_Kirowa), where pay disputes had been going on for several weeks, announced a lockout, and tens of thousands of workers found themselves out on the street. That same day, 7 March, Tsar [Nicholas II](/postacie/mikolaj-ii) left [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło) for General Headquarters at [Mogilev](/miejsca/mohylew), assured by the Interior Minister, [Alexander Protopopov](https://pl.wikipedia.org/wiki/Aleksandr_Protopopow), that the situation in the capital was under control.
 
 ## Thursday, 8 March
 

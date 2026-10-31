@@ -9,7 +9,7 @@ sides:
     commanders: [Crown Prince Wilhelm, Fritz von Below, Karl von Einem]
 result: Partial French success. The 4th Army took most of the Moronvilliers ridge and deprived the Germans of their observation points over the Champagne plain, but did not break the front, and the fighting for the summits went on for more than a month.
 source: trzecia-bitwa-w-szampanii
-sourceHash: 4a64db12b1593d93ef7dc9c58ec2441f6516daf4
+sourceHash: 951d7c545be570ecf2c94559c4afe30b957bcbfe
 brief:
   - "The Third Battle of Champagne, called by the French the Battle of the Hills, fought from 17 April to 20 May 1917, was a subsidiary attack of the Nivelle Offensive east of Reims."
   - "General François Anthoine's French 4th Army aimed at the Moronvilliers massif, from which the Germans had overlooked the whole Champagne plain since 1914. They held it in concrete shelters and tunnels cut into the chalk."
@@ -18,7 +18,7 @@ brief:
   - "The battle was the most successful part of the Nivelle Offensive and denied the Germans observation, but did not break the front. The hills also saw the first signs of the mutinies in the French army."
 ---
 
-The Third Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania), called by the French the Battle of the Hills (bataille des Monts), was part of the spring [Nivelle Offensive](/bitwy/ofensywa-nivellea). The day after the main blow on the Aisne and the Chemin des Dames, the French 4th Army of General [François Anthoine](/postacie/francois-anthoine) attacked the Moronvilliers massif east of [Reims](https://pl.wikipedia.org/wiki/Reims), a range of chalk hills from which the Germans had overlooked the whole plain around [Châlons](https://pl.wikipedia.org/wiki/Châlons-en-Champagne) since 1914. In the first days the French forced their way onto most of the summits and took several thousand prisoners, but the breakthrough the commander-in-chief had counted on did not come. The Germans held out in concrete shelters and in tunnels bored under the hills, and their counter-attacks won back part of the gains. The fighting for individual summits lasted until 20 May, when the French finally took Mont Cornillet, and hundreds of German soldiers died in the tunnel beneath it.
+The Third Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania), called by the French the Battle of the Hills (bataille des Monts), was part of the spring [Nivelle Offensive](/bitwy/ofensywa-nivellea). The day after the main blow on the Aisne and the Chemin des Dames, the French 4th Army of General [François Anthoine](/postacie/francois-anthoine) attacked the Moronvilliers massif east of [Reims](/miejsca/reims), a range of chalk hills from which the Germans had overlooked the whole plain around [Châlons](https://pl.wikipedia.org/wiki/Châlons-en-Champagne) since 1914. In the first days the French forced their way onto most of the summits and took several thousand prisoners, but the breakthrough the commander-in-chief had counted on did not come. The Germans held out in concrete shelters and in tunnels bored under the hills, and their counter-attacks won back part of the gains. The fighting for individual summits lasted until 20 May, when the French finally took Mont Cornillet, and hundreds of German soldiers died in the tunnel beneath it.
 
 ## Name and dates
 

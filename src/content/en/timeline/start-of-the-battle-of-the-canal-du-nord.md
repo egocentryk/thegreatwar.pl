@@ -2,7 +2,7 @@
 title: Start of the Battle of the Canal du Nord
 summary: At 5.20 a.m. on 27 September 1918 the Canadians crossed the dry Canal du Nord; by evening they held Bourlon Wood and the Third Army was in the Hindenburg Line.
 source: poczatek-bitwy-o-kanal-du-nord
-sourceHash: f4f29e6ec12e3055dfe3785296cba5f394a7c6f5
+sourceHash: e3719c2eb4430e6c2b6613d882b92deea28a4887
 brief:
   - "At 5.20 a.m. on 27 September 1918 General Arthur Currie's Canadian Corps and the left wing of the British Third Army attacked west of Cambrai. It was the second of the four blows planned by Marshal Foch."
   - "The Germans had flooded the marshes along the canal north of Sains-lès-Marquion, so Currie sent two divisions across its dry bed on a stretch less than two and a half kilometres wide and then fanned them out."
@@ -11,7 +11,7 @@ brief:
   - "That night the commander of the German Seventeenth Army ordered a retreat behind the river Sensée. The Canadians hoped to take Cambrai soon, but the Germans did not give up the city without hard fighting."
 ---
 
-At 5.20 a.m. on 27 September 1918 General [Arthur Currie](/postacie/arthur-currie)'s Canadian Corps and the left wing of the British Third Army attacked west of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). The Canadians crossed the dry bed of the unfinished Canal du Nord on a stretch less than two and a half kilometres wide and then fanned out to the north and east. By the evening they had taken two lines of defences, the village of [Bourlon](https://pl.wikipedia.org/wiki/Bourlon) and Bourlon Wood, and on the left wing had reached the road from Cambrai to [Douai](https://pl.wikipedia.org/wiki/Douai). South of them British corps fought their way through the maze of trenches of the Hindenburg Line at [Flesquières](https://pl.wikipedia.org/wiki/Flesquières). The day before, the Americans and French had [attacked between the Meuse and the Argonne](/poczatek-ofensywy-moza-argonne). Now came the turn of the second of the four blows planned by Marshal [Ferdinand Foch](/postacie/ferdinand-foch).
+At 5.20 a.m. on 27 September 1918 General [Arthur Currie](/postacie/arthur-currie)'s Canadian Corps and the left wing of the British Third Army attacked west of [Cambrai](/miejsca/cambrai). The Canadians crossed the dry bed of the unfinished Canal du Nord on a stretch less than two and a half kilometres wide and then fanned out to the north and east. By the evening they had taken two lines of defences, the village of [Bourlon](https://pl.wikipedia.org/wiki/Bourlon) and Bourlon Wood, and on the left wing had reached the road from Cambrai to [Douai](/miejsca/douai). South of them British corps fought their way through the maze of trenches of the Hindenburg Line at [Flesquières](https://pl.wikipedia.org/wiki/Flesquières). The day before, the Americans and French had [attacked between the Meuse and the Argonne](/poczatek-ofensywy-moza-argonne). Now came the turn of the second of the four blows planned by Marshal [Ferdinand Foch](/postacie/ferdinand-foch).
 
 ## The night before the attack
 

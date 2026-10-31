@@ -2,10 +2,10 @@
 title: New Zealanders retake Bapaume
 summary: On 29 August 1918 the Germans abandoned Bapaume by night after holding it against the Third Army for days. In the morning New Zealand patrols entered it.
 source: nowozelandczycy-odbijaja-bapaume
-sourceHash: dc3e6c551ca5c7065bab161f0193b9f81559bffd
+sourceHash: f407886c292ce65643c55230f5268ba5d156bbdb
 ---
 
-On the morning of 29 August 1918 patrols of the New Zealand Division entered [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). The Germans had abandoned the town during the night, without a fight, after several days of stubborn defence. Bapaume was changing hands for the fourth time in this war. The Germans had occupied it on 26 September 1914, in March 1917 it had been taken by the [Australians](/brytyjczycy-zajmuja-bapaume) when the Germans withdrew to the Hindenburg Line, and on the night of 24 March 1918 the British Third Army had [given it up without a fight](/niemcy-zdobywaja-bapaume-i-peronne) during the German offensive. Now the same Third Army of General [Julian Byng](/postacie/julian-byng) recovered it after eight days of attacks.
+On the morning of 29 August 1918 patrols of the New Zealand Division entered [Bapaume](/miejsca/bapaume). The Germans had abandoned the town during the night, without a fight, after several days of stubborn defence. Bapaume was changing hands for the fourth time in this war. The Germans had occupied it on 26 September 1914, in March 1917 it had been taken by the [Australians](/brytyjczycy-zajmuja-bapaume) when the Germans withdrew to the Hindenburg Line, and on the night of 24 March 1918 the British Third Army had [given it up without a fight](/niemcy-zdobywaja-bapaume-i-peronne) during the German offensive. Now the same Third Army of General [Julian Byng](/postacie/julian-byng) recovered it after eight days of attacks.
 
 ## A week before the town
 

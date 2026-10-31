@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-24 kwietnia 1916 roku, w Poniedziałek Wielkanocny, brytyjskie okręty postawiły na morzu przed wybrzeżem okupowanej Belgii zaporę z min i sieci minowych długą na blisko 30 kilometrów. Miała ona utrudnić wyjścia w morze okrętom podwodnym niemieckiej [Flotylli Flandria](https://pl.wikipedia.org/wiki/Flotylla_Flandria) z [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) i [Ostendy](https://pl.wikipedia.org/wiki/Ostenda), które od miesięcy zatapiały statki i stawiały miny na podejściach do Dover, Tamizy i portów francuskich. Operację zaplanował i prowadził dowódca Dover Patrol, admirał Reginald Bacon.
+24 kwietnia 1916 roku, w Poniedziałek Wielkanocny, brytyjskie okręty postawiły na morzu przed wybrzeżem okupowanej Belgii zaporę z min i sieci minowych długą na blisko 30 kilometrów. Miała ona utrudnić wyjścia w morze okrętom podwodnym niemieckiej [Flotylli Flandria](https://pl.wikipedia.org/wiki/Flotylla_Flandria) z [Zeebrugge](/miejsca/zeebrugge) i [Ostendy](/miejsca/ostenda), które od miesięcy zatapiały statki i stawiały miny na podejściach do Dover, Tamizy i portów francuskich. Operację zaplanował i prowadził dowódca Dover Patrol, admirał Reginald Bacon.
 
 ## Plan Bacona
 

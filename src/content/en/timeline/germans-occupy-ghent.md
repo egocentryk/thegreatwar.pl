@@ -2,10 +2,10 @@
 title: Germans occupy Ghent
 summary: On 12 October 1914 the Germans entered Ghent, abandoned by the Allies after the fighting at Melle. The city remained under occupation until November 1918.
 source: niemcy-zajmuja-gandawe
-sourceHash: 5862220138d13e4abff8c2fe0cc7cfaaa32a961a
+sourceHash: 803821d2ad087f38c8bc637a5961ef2f3cf605c3
 ---
 
-On 12 October 1914 German troops entered [Ghent](https://pl.wikipedia.org/wiki/Gandawa), one of the largest cities in Belgium and the capital of East Flanders. The previous evening the city had been abandoned by the Belgian, French and British troops which for three days had covered the retreat of the Belgian army from Antwerp here.
+On 12 October 1914 German troops entered [Ghent](/miejsca/gandawa), one of the largest cities in Belgium and the capital of East Flanders. The previous evening the city had been abandoned by the Belgian, French and British troops which for three days had covered the retreat of the Belgian army from Antwerp here.
 
 ## Covering the retreat
 

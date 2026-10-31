@@ -2,10 +2,10 @@
 title: Armistice negotiations open at Brest-Litovsk
 summary: On 3 December 1917 at Brest-Litovsk Adolph Joffe's Bolshevik delegation sat down to armistice talks with the Central Powers' officers under Gen. Hoffmann.
 source: poczatek-rokowan-rozejmowych-w-brzesciu
-sourceHash: 63374afed02aa02c9eeacbc0d4dd40617d94c05f
+sourceHash: c4cf9a96b13ee873026c325c6610a605f58cefb8
 ---
 
-On 3 December 1917 (20 November in the Julian calendar), at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć), in the headquarters of the German supreme command in the east, the first negotiations between the Bolshevik government and the Central Powers began. The Soviet delegation, which had crossed the front line the day before, came with a programme of general peace. On the other side of the table sat only military men, authorised to talk solely about an armistice. The British chronology of the war records under this date the first session of the armistice delegates of Russia, Germany, Austria-Hungary, Bulgaria and Turkey.
+On 3 December 1917 (20 November in the Julian calendar), at [Brest-Litovsk](/miejsca/brzesc), in the headquarters of the German supreme command in the east, the first negotiations between the Bolshevik government and the Central Powers began. The Soviet delegation, which had crossed the front line the day before, came with a programme of general peace. On the other side of the table sat only military men, authorised to talk solely about an armistice. The British chronology of the war records under this date the first session of the armistice delegates of Russia, Germany, Austria-Hungary, Bulgaria and Turkey.
 
 ## The front falls silent
 

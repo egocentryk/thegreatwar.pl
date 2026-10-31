@@ -17,7 +17,7 @@ brief:
   - "Wśród ciężko rannych był porucznik Bernard Montgomery. W nocy Niemcy wycofali się za Lys, a Brytyjczycy weszli 14 października do Bailleul i trzy dni później do Armentières, gdzie natarcie wkrótce się zatrzymało."
 ---
 
-13 października 1914 roku brytyjski III Korpus generała Williama Pulteneya ruszył do natarcia spod [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) we francuskiej Flandrii. Pod wsią [Méteren](https://pl.wikipedia.org/wiki/Méteren) natrafił na okopanych Niemców i dopiero po zmroku, po całym dniu walki w deszczu i mgle, zdobył ich pozycję. Tym starciem brytyjska nomenklatura rozpoczyna bitwę pod Armentières, w której III Korpus przez kolejne trzy tygodnie walczył w dolinie rzeki [Lys](https://pl.wikipedia.org/wiki/Leie).
+13 października 1914 roku brytyjski III Korpus generała Williama Pulteneya ruszył do natarcia spod [Hazebrouck](/miejsca/hazebrouck) we francuskiej Flandrii. Pod wsią [Méteren](https://pl.wikipedia.org/wiki/Méteren) natrafił na okopanych Niemców i dopiero po zmroku, po całym dniu walki w deszczu i mgle, zdobył ich pozycję. Tym starciem brytyjska nomenklatura rozpoczyna bitwę pod Armentières, w której III Korpus przez kolejne trzy tygodnie walczył w dolinie rzeki [Lys](/miejsca/leie).
 
 ## Droga do Hazebrouck
 

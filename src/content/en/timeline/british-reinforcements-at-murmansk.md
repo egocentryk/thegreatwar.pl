@@ -2,10 +2,10 @@
 title: British reinforcements at Murmansk
 summary: On 23 June 1918 General Charles Maynard's "Syren" force and the "Elope" mission, bound for Archangel, arrived at Murmansk. Together a few hundred men.
 source: posilki-brytyjskie-w-murmansku
-sourceHash: be58bf2550507e343e964ccb8f1c57091d601a34
+sourceHash: 751b3d4e8c33b9afc1e98abde7c0855e398b3d25
 ---
 
-On 23 June 1918 the transport *City of Marseilles* came alongside the quay at [Murmansk](https://pl.wikipedia.org/wiki/Murmańsk). She brought two British forces code-named "Syren" and "Elope". General [Frederick Poole](/postacie/frederick-poole), for a month [commander of the Allied forces in North Russia](/poole-w-murmansku), stated in his report that the headquarters and troops of both forces arrived that day. "Syren" was commanded by Major-General Charles Maynard. He was to remain at Murmansk and, under Poole's overall authority, take command of the troops in that area. "Elope", under Brigadier-General Robert Finlayson, was a mission made up of a staff and instructors. It was to accompany Poole to [Archangel](https://pl.wikipedia.org/wiki/Archangielsk), where it was intended to organise and train a new Russian army to fight the Germans.
+On 23 June 1918 the transport *City of Marseilles* came alongside the quay at [Murmansk](/miejsca/murmansk). She brought two British forces code-named "Syren" and "Elope". General [Frederick Poole](/postacie/frederick-poole), for a month [commander of the Allied forces in North Russia](/poole-w-murmansku), stated in his report that the headquarters and troops of both forces arrived that day. "Syren" was commanded by Major-General Charles Maynard. He was to remain at Murmansk and, under Poole's overall authority, take command of the troops in that area. "Elope", under Brigadier-General Robert Finlayson, was a mission made up of a staff and instructors. It was to accompany Poole to [Archangel](/miejsca/archangielsk), where it was intended to organise and train a new Russian army to fight the Germans.
 
 ## A small force for a great task
 

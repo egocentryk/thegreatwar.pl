@@ -2,10 +2,10 @@
 title: Neither war nor peace
 summary: On 10 February 1918 at Brest Trotsky said Russia was leaving the war and demobilising but would not sign an annexationist peace. The Germans were stunned.
 source: ani-wojna-ani-pokoj
-sourceHash: 8e106f728888e5a96fe7c15649b874bc9346697b
+sourceHash: 8f16dc915e9e27b207db26e9b40b2d94261bc271
 ---
 
-On 10 February 1918 (28 January in the Julian calendar), on a Sunday afternoon, the heads of the delegations to the peace conference met for the last time in [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć). The day before, the Central Powers had signed a [peace with the Ukrainian People's Republic](/pokoj-brzeski-z-ukraina), although Kiev was already in Bolshevik hands. The negotiations with Soviet Russia, [resumed](/wznowienie-rokowan-w-brzesciu) on 30 January, had stalled over the question of the frontier. That day the head of the Soviet delegation, [Leon Trotsky](/postacie/lew-trocki), made a statement that went down in history as the formula "neither war nor peace": Russia was ending the war and demobilising its army, but would not sign a treaty on German terms.
+On 10 February 1918 (28 January in the Julian calendar), on a Sunday afternoon, the heads of the delegations to the peace conference met for the last time in [Brest-Litovsk](/miejsca/brzesc). The day before, the Central Powers had signed a [peace with the Ukrainian People's Republic](/pokoj-brzeski-z-ukraina), although Kiev was already in Bolshevik hands. The negotiations with Soviet Russia, [resumed](/wznowienie-rokowan-w-brzesciu) on 30 January, had stalled over the question of the frontier. That day the head of the Soviet delegation, [Leon Trotsky](/postacie/lew-trocki), made a statement that went down in history as the formula "neither war nor peace": Russia was ending the war and demobilising its army, but would not sign a treaty on German terms.
 
 ## The last days of the negotiations
 

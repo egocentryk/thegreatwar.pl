@@ -2,10 +2,10 @@
 title: Lettow-Vorbeck crosses the Rovuma
 summary: On 25 November 1917 Lettow-Vorbeck forded the Rovuma into Mozambique and overran the Portuguese camp at Ngomano, capturing weapons, ammunition and medicines.
 source: lettow-vorbeck-przekracza-rovume
-sourceHash: 30723b8c41b322e1818807d1a81bb9319eeeb2b3
+sourceHash: 1aa90072a2932046938b47a1edb61ce1d1ca1d97
 ---
 
-Early on the morning of 25 November 1917 the advance guard of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) waded into the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma), the border river between [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), that is, Mozambique, and forded it. The crossing took place a little above the mouth of the [Lugenda](https://pl.wikipedia.org/wiki/Lugenda), where the Portuguese post of Ngomano stood on the southern bank. After three years of fighting the Schutztruppe left the colony it was meant to defend. That same day it overran the Portuguese garrison and captured supplies without which it could not have gone on fighting.
+Early on the morning of 25 November 1917 the advance guard of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) waded into the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma), the border river between [German East Africa](/bitwy/kampania-wschodnioafrykanska) and [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), that is, Mozambique, and forded it. The crossing took place a little above the mouth of the [Lugenda](https://pl.wikipedia.org/wiki/Lugenda), where the Portuguese post of Ngomano stood on the southern bank. After three years of fighting the Schutztruppe left the colony it was meant to defend. That same day it overran the Portuguese garrison and captured supplies without which it could not have gone on fighting.
 
 ## An army without ammunition
 

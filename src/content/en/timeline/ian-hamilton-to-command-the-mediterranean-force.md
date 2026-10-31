@@ -2,7 +2,7 @@
 title: Ian Hamilton to command the Mediterranean force
 summary: On 12 March 1915 Kitchener gave General Ian Hamilton command of the land forces that were to support the fleet attacking the Dardanelles.
 source: ian-hamilton-dowodca-sil-srodziemnomorskich
-sourceHash: d812c6f6812cba0bd0698176c7f30c1eeab1d6b0
+sourceHash: afe5e17de8f2a052c5489083f2403f4fc1a68ad6
 ---
 
 At about ten in the morning of 12 March 1915 the Secretary of State for War, [Lord Kitchener](/postacie/horatio-kitchener), summoned General [Ian Hamilton](/postacie/ian-hamilton) to his office. As Hamilton recorded in his diary, Kitchener wrote something at his desk for a moment, then raised his head and announced in a matter-of-fact tone: "We are sending a military force to support the fleet now at the Dardanelles, and you are to have command." So was born the Mediterranean Expeditionary Force, which six weeks later landed on the [Gallipoli](/bitwy/kampania-gallipolijska) peninsula.
@@ -17,7 +17,7 @@ Sending a senior general to the Dardanelles had been discussed since the beginni
 
 Kitchener listed the forces Hamilton was to receive. They were [General William Birdwood's Australians and New Zealanders](/australijczycy-i-nowozelandczycy-dla-dardaneli), about 30,000 men, the 29th Division, the Royal Naval Division and General Albert d'Amade's French division. Altogether this came to about 80,000 soldiers. The 29th Division, however, he regarded only as a loan. The command in France demanded it for itself, and Hamilton was to return it as soon as it was no longer needed.
 
-The minister was full of optimism. He hoped that the army would not have to land at all, because the fleet would force the straits on its own, and then [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) would fall. When the Director of Military Operations, General Charles Callwell, outlined a Greek plan for taking Gallipoli which assumed the use of about 150,000 men, Kitchener declared that half would be enough, because the Turks were busy elsewhere. He estimated the Turkish forces on the peninsula at 40,000. He believed that the southern tip of Gallipoli was open to a landing, because ships could shell it from two sides. About the enemy, the terrain and the plan of operations Hamilton learned almost nothing.
+The minister was full of optimism. He hoped that the army would not have to land at all, because the fleet would force the straits on its own, and then [Constantinople](/miejsca/konstantynopol) would fall. When the Director of Military Operations, General Charles Callwell, outlined a Greek plan for taking Gallipoli which assumed the use of about 150,000 men, Kitchener declared that half would be enough, because the Turks were busy elsewhere. He estimated the Turkish forces on the peninsula at 40,000. He believed that the southern tip of Gallipoli was open to a landing, because ships could shell it from two sides. About the enemy, the terrain and the plan of operations Hamilton learned almost nothing.
 
 ## Meagre instructions
 

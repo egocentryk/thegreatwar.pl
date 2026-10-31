@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-29 kwietnia 1916 roku francuski poseł przy rządzie belgijskim, [Antoni Kłobukowski](https://pl.wikipedia.org/wiki/Antoni_Kłobukowski), dyplomata polskiego pochodzenia i dawny gubernator generalny Indochin, wręczył belgijskiemu ministrowi spraw zagranicznych [baronowi Eugène'owi Beyensowi](/baron-beyens-ministrem-spraw-zagranicznych-belgii) deklarację w sprawie [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie). Belgijski rząd na wygnaniu [urzędował od jesieni 1914 roku](/rzad-belgijski-w-hawrze) w [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse) pod [Hawrem](https://pl.wikipedia.org/wiki/Hawr), stąd nazwa dokumentu. Rząd Republiki Francuskiej oświadczył w nim, że podczas rokowań pokojowych pomoże Belgii utrzymać Kongo w jego obecnych granicach i uzyskać dla kolonii osobne odszkodowanie za szkody poniesione w czasie wojny.
+29 kwietnia 1916 roku francuski poseł przy rządzie belgijskim, [Antoni Kłobukowski](https://pl.wikipedia.org/wiki/Antoni_Kłobukowski), dyplomata polskiego pochodzenia i dawny gubernator generalny Indochin, wręczył belgijskiemu ministrowi spraw zagranicznych [baronowi Eugène'owi Beyensowi](/baron-beyens-ministrem-spraw-zagranicznych-belgii) deklarację w sprawie [Konga Belgijskiego](https://pl.wikipedia.org/wiki/Kongo_Belgijskie). Belgijski rząd na wygnaniu [urzędował od jesieni 1914 roku](/rzad-belgijski-w-hawrze) w [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse) pod [Hawrem](/miejsca/hawr), stąd nazwa dokumentu. Rząd Republiki Francuskiej oświadczył w nim, że podczas rokowań pokojowych pomoże Belgii utrzymać Kongo w jego obecnych granicach i uzyskać dla kolonii osobne odszkodowanie za szkody poniesione w czasie wojny.
 
 ## Kto się podpisał
 
@@ -23,7 +23,7 @@ Dlaczego to Francja wystąpiła pierwsza? Deklaracja powoływała się na francu
 
 Deklaracja z Sainte-Adresse mówiła o niepodległości i odbudowie Belgii, ale nie wspominała o koloniach. Belgowie obawiali się, że na konferencji pokojowej Kongo stanie się przedmiotem przetargu. W Niemczech od początku wojny pojawiały się plany stworzenia niemieckiego imperium w Afryce Środkowej, w którym znalazłoby się miejsce także dla belgijskiej kolonii. Według amerykańskiej historyczki Sally Marks król [Albert I](/postacie/albert-i) nalegał na nowe zobowiązanie między innymi dlatego, że z Ameryki dochodziły propozycje, by Kongo sprzedać Niemcom, a uzyskane pieniądze przeznaczyć na odszkodowania dla Belgii.
 
-Belgia miała zresztą mocny argument: jej żołnierze walczyli w Afryce u boku sojuszników. Kolonialne wojska [Force Publique](https://pl.wikipedia.org/wiki/Force_Publique) brały udział w podboju Kamerunu, a w ostatnich dniach kwietnia 1916 roku belgijskie kolumny ruszyły z Konga na Ruandę w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Na początku maja zajęły [Kigali](https://pl.wikipedia.org/wiki/Kigali).
+Belgia miała zresztą mocny argument: jej żołnierze walczyli w Afryce u boku sojuszników. Kolonialne wojska [Force Publique](https://pl.wikipedia.org/wiki/Force_Publique) brały udział w podboju Kamerunu, a w ostatnich dniach kwietnia 1916 roku belgijskie kolumny ruszyły z Konga na Ruandę w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Na początku maja zajęły [Kigali](https://pl.wikipedia.org/wiki/Kigali).
 
 ## Co z tego wynikło
 

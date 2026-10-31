@@ -17,7 +17,7 @@ brief:
   - "Francuzi utrzymali Arras, ale Niemcy zdobyli Lens, ośrodek zagłębia węglowego, oraz wzgórza Vimy i Lorette. Grzbiet Vimy na trwałe odbili dopiero Kanadyjczycy w kwietniu 1917 roku."
 ---
 
-27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) i zagłębia węglowego wokół [Lens](https://pl.wikipedia.org/wiki/Lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.
+27 września 1914 roku rozpoczęła się pierwsza bitwa w [Artois](https://pl.wikipedia.org/wiki/Artois), kolejny etap tak zwanego [wyścigu do morza](/bitwy/wyscig-do-morza). Po walkach w Pikardii i pod Albert obie strony przeniosły swoje próby obejścia przeciwnika dalej na północ, w okolice [Arras](/miejsca/arras) i zagłębia węglowego wokół [Lens](https://pl.wikipedia.org/wiki/Lens). Bitwa trwała do 12 października. Francuzi obronili Arras, ale Niemcy opanowali Lens i wzgórza na północ od miasta, a front, który się tu ustalił, przetrwał z niewielkimi zmianami do 1917 roku.
 
 ## Nazwa i daty
 
@@ -25,7 +25,7 @@ Walki te opisuje się pod różnymi nazwami. Nazwę „pierwsza bitwa w Artois�
 
 ## Wyścig przesuwa się na północ
 
-Pod koniec września 1914 roku, po bitwach nad Marną i nad Aisne, front zachodni ciągnął się już od Szwajcarii do Sommy. Obie strony wciąż szukały otwartego skrzydła przeciwnika. [Pierwsza bitwa w Pikardii](/koniec-bitwy-w-pikardii) zakończyła się 26 września bez rozstrzygnięcia, a walki pod Albert też nie przyniosły przełomu. Tego samego dnia [Niemcy zajęli Bapaume](/niemcy-zajmuja-bapaume), położone przy drodze z Albert do Arras. Dalej na północ, między Arras, Lens i [Douai](https://pl.wikipedia.org/wiki/Douai), wciąż nie było ciągłej linii frontu. Stały tam tylko francuskie dywizje terytorialne, złożone ze starszych rezerwistów, i oddziały kawalerii obu stron.
+Pod koniec września 1914 roku, po bitwach nad Marną i nad Aisne, front zachodni ciągnął się już od Szwajcarii do Sommy. Obie strony wciąż szukały otwartego skrzydła przeciwnika. [Pierwsza bitwa w Pikardii](/koniec-bitwy-w-pikardii) zakończyła się 26 września bez rozstrzygnięcia, a walki pod Albert też nie przyniosły przełomu. Tego samego dnia [Niemcy zajęli Bapaume](/niemcy-zajmuja-bapaume), położone przy drodze z Albert do Arras. Dalej na północ, między Arras, Lens i [Douai](/miejsca/douai), wciąż nie było ciągłej linii frontu. Stały tam tylko francuskie dywizje terytorialne, złożone ze starszych rezerwistów, i oddziały kawalerii obu stron.
 
 Tego samego dnia Niemcy rozpoczęli oblężenie Antwerpii. Od tego, gdzie zatrzyma się front między Arras a morzem, zależały losy reszty Belgii i portów nad kanałem La Manche.
 

@@ -2,10 +2,10 @@
 title: Fighting for Lviv begins
 summary: On the night before 1 November 1918 Ukrainian soldiers seized Lviv and proclaimed it the capital of a Ukrainian state. That same day its Poles took up arms.
 source: poczatek-walk-o-lwow
-sourceHash: 2babc6ecd0076fad7837fc084d746d81070bf049
+sourceHash: ff5a234fbef09136efa61d94e26dda34f40fc126
 ---
 
-On 1 November 1918 the inhabitants of [Lviv](https://pl.wikipedia.org/wiki/Lwów) woke up in a different state. During the night Ukrainian soldiers of the Austro-Hungarian army, acting on the orders of the [Ukrainian National Council](https://pl.wikipedia.org/wiki/Ukraińska_Rada_Narodowa_(1918)), had occupied the most important buildings of the capital of Galicia without firing a shot, interned the Austrian governor and hung a blue-and-yellow flag from the town hall. A proclamation posted on the walls announced that a Ukrainian state had come into being on the Ukrainian lands of the monarchy, with its capital in Lviv. The Poles, who made up the majority of the city's inhabitants and regarded it as Polish, had no intention of accepting this. Before noon the first shots were fired in the western part of Lviv. Thus began the three-week struggle for the city and the [Polish–Ukrainian War](https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska), which lasted until the summer of 1919.
+On 1 November 1918 the inhabitants of [Lviv](/miejsca/lwow) woke up in a different state. During the night Ukrainian soldiers of the Austro-Hungarian army, acting on the orders of the [Ukrainian National Council](https://pl.wikipedia.org/wiki/Ukraińska_Rada_Narodowa_(1918)), had occupied the most important buildings of the capital of Galicia without firing a shot, interned the Austrian governor and hung a blue-and-yellow flag from the town hall. A proclamation posted on the walls announced that a Ukrainian state had come into being on the Ukrainian lands of the monarchy, with its capital in Lviv. The Poles, who made up the majority of the city's inhabitants and regarded it as Polish, had no intention of accepting this. Before noon the first shots were fired in the western part of Lviv. Thus began the three-week struggle for the city and the [Polish–Ukrainian War](https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska), which lasted until the summer of 1919.
 
 ## The race for Lviv
 

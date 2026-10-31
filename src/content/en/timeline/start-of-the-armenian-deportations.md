@@ -2,10 +2,10 @@
 title: The Armenian deportations begin
 summary: On 8 April 1915 the first convoy of deported Armenians left Zeytun in Cilicia. Deportations ordered by the Ottoman authorities turned into genocide.
 source: poczatek-deportacji-ormian
-sourceHash: 65d05ad0a67a8e698df97eddc74b67ca43bd8642
+sourceHash: e552e5c944ed7b2e8f2ba582df15461e756e9ea5
 ---
 
-In the spring of 1915 the authorities of the [Ottoman Empire](/kraje/imperium-osmanskie) began deporting the Armenian population, deportations which over the following months turned into mass killing, known today as the [Armenian genocide](/tematy/ludobojstwo-ormian). The British chronology of the war on which this site is based records the start of the deportations and massacres under 8 April 1915, with the reservation that the date is approximate. There was no single day on which it all began. On 8 April, according to most studies, the first convoy of deportees left Zeytun, a mountain town in [Cilicia](https://pl.wikipedia.org/wiki/Cylicja) whose population was the first Armenian community in the empire to be driven from its homes in its entirety. Armenians, however, commemorate the genocide on 24 April, the anniversary of the arrests of the Armenian elite in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol).
+In the spring of 1915 the authorities of the [Ottoman Empire](/kraje/imperium-osmanskie) began deporting the Armenian population, deportations which over the following months turned into mass killing, known today as the [Armenian genocide](/tematy/ludobojstwo-ormian). The British chronology of the war on which this site is based records the start of the deportations and massacres under 8 April 1915, with the reservation that the date is approximate. There was no single day on which it all began. On 8 April, according to most studies, the first convoy of deportees left Zeytun, a mountain town in [Cilicia](https://pl.wikipedia.org/wiki/Cylicja) whose population was the first Armenian community in the empire to be driven from its homes in its entirety. Armenians, however, commemorate the genocide on 24 April, the anniversary of the arrests of the Armenian elite in [Constantinople](/miejsca/konstantynopol).
 
 ## Background
 

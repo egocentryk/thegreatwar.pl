@@ -2,10 +2,10 @@
 title: Attack on Ramadi
 summary: On 11 July 1917 the British attacked the Turks at Ramadi on the Euphrates. In heat above 50 °C the attack stalled; heatstroke claimed more men than the enemy.
 source: atak-na-ramadi
-sourceHash: 974ecc4063f5cd80259e0cf824eee6db7729092b
+sourceHash: e9e18f2436198134d258b39aa898dc546bbae386
 ---
 
-On 11 July 1917 a British-Indian column under Lieutenant-Colonel Haldane attacked the Turkish trenches at [Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi), a town on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) a little over a hundred kilometres west of Baghdad. The British chronology of the war dates this action to 11–14 July, counting the withdrawal as well. The fighting took place in the hottest part of the Mesopotamian summer. According to F. J. Moberly's British official history of the Mesopotamian campaign, on 8 July the temperature in Baghdad shot up to more than 122 degrees Fahrenheit in the shade, that is more than 50 degrees Celsius, and in tents and dugouts it was a few degrees higher still. The British official and historian Arnold Wilson says that in the sun the thermometer showed about 71 degrees.
+On 11 July 1917 a British-Indian column under Lieutenant-Colonel Haldane attacked the Turkish trenches at [Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi), a town on the [Euphrates](/miejsca/eufrat) a little over a hundred kilometres west of Baghdad. The British chronology of the war dates this action to 11–14 July, counting the withdrawal as well. The fighting took place in the hottest part of the Mesopotamian summer. According to F. J. Moberly's British official history of the Mesopotamian campaign, on 8 July the temperature in Baghdad shot up to more than 122 degrees Fahrenheit in the shade, that is more than 50 degrees Celsius, and in tents and dugouts it was a few degrees higher still. The British official and historian Arnold Wilson says that in the sun the thermometer showed about 71 degrees.
 
 ## A raid instead of an offensive
 

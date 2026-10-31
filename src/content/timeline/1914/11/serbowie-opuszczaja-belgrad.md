@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-30 listopada 1914 roku oddziały serbskie broniące [Belgradu](https://pl.wikipedia.org/wiki/Belgrad) opuściły stolicę i wycofały się na południe. Według części źródeł odwrót zaczął się już w nocy z 29 na 30 listopada, według serbskich opracowań rankiem 30 listopada. Miasto nie zostało zdobyte w walce. Serbskie naczelne dowództwo oddało je dobrowolnie, by ratować armię, która od dwóch tygodni z trudem odpierała trzecią ofensywę austro-węgierską nad rzeką [Kolubarą](https://pl.wikipedia.org/wiki/Kolubara).
+30 listopada 1914 roku oddziały serbskie broniące [Belgradu](/miejsca/belgrad) opuściły stolicę i wycofały się na południe. Według części źródeł odwrót zaczął się już w nocy z 29 na 30 listopada, według serbskich opracowań rankiem 30 listopada. Miasto nie zostało zdobyte w walce. Serbskie naczelne dowództwo oddało je dobrowolnie, by ratować armię, która od dwóch tygodni z trudem odpierała trzecią ofensywę austro-węgierską nad rzeką [Kolubarą](https://pl.wikipedia.org/wiki/Kolubara).
 
 ## Front za długi
 

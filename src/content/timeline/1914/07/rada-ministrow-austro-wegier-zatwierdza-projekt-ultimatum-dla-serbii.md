@@ -9,7 +9,7 @@ milestone: false
 draft: false
 ---
 
-19 lipca 1914 roku austro-węgierska rada ministrów zatwierdziła projekt ultimatum, które kilka dni później miało zostać wręczone [Serbii](/kraje/serbia). Był to moment, w którym wcześniejsze polityczne decyzje zyskały już ostateczniejszy, konkretny kształt dyplomatyczny. Nie chodziło wyłącznie o sam fakt postawienia [Belgradowi](https://pl.wikipedia.org/wiki/Belgrad) ostrych żądań, lecz o takie dobranie ich treści, aby Serbia znalazła się w sytuacji niemal bez wyjścia.
+19 lipca 1914 roku austro-węgierska rada ministrów zatwierdziła projekt ultimatum, które kilka dni później miało zostać wręczone [Serbii](/kraje/serbia). Był to moment, w którym wcześniejsze polityczne decyzje zyskały już ostateczniejszy, konkretny kształt dyplomatyczny. Nie chodziło wyłącznie o sam fakt postawienia [Belgradowi](/miejsca/belgrad) ostrych żądań, lecz o takie dobranie ich treści, aby Serbia znalazła się w sytuacji niemal bez wyjścia.
 
 [Wiedniu](https://pl.wikipedia.org/wiki/Wiedeń) zależało, by dokument sprawiał wrażenie formalnie uzasadnionej reakcji na [zamach w Sarajewie](https://pl.wikipedia.org/wiki/Zamach_w_Sarajewie), ale równocześnie zawierał warunki trudne do pogodzenia z suwerennością państwa serbskiego. W praktyce oznaczało to, że ultimatum miało stworzyć [Austro-Węgrom](/kraje/austro-wegry) polityczne i moralne uzasadnienie dla późniejszej akcji wojskowej. Z punktu widzenia decydentów monarchii idealnym rozwiązaniem nie była spokojna ugoda, lecz odrzucenie lub tylko częściowe przyjęcie żądań przez Belgrad.
 

@@ -2,10 +2,10 @@
 title: German attack on Edéa
 summary: On 5 January 1915 the Germans attacked Edéa and Kopongo in Kamerun to push the Allies back from Yaoundé. Colonel Mayer's French garrison repulsed both attacks.
 source: niemiecki-atak-na-edee
-sourceHash: 7defdca3a7637d05eb95897fb5cb67f913c1c91f
+sourceHash: 4d667ffcd322e8da4831453c42be130227f25080
 ---
 
-On 5 January 1915 German colonial troops attacked [Edéa](https://pl.wikipedia.org/wiki/Edéa), a town on the [Sanaga](https://pl.wikipedia.org/wiki/Sanaga) river in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). It was defended by Colonel Mayer's French garrison, made up mainly of Senegalese tirailleurs. The attack broke down under the defenders' fire, and the Germans withdrew with heavy losses.
+On 5 January 1915 German colonial troops attacked [Edéa](https://pl.wikipedia.org/wiki/Edéa), a town on the [Sanaga](https://pl.wikipedia.org/wiki/Sanaga) river in [German Kamerun](/miejsca/kamerun). It was defended by Colonel Mayer's French garrison, made up mainly of Senegalese tirailleurs. The attack broke down under the defenders' fire, and the Germans withdrew with heavy losses.
 
 ## Zimmermann's counter-offensive
 

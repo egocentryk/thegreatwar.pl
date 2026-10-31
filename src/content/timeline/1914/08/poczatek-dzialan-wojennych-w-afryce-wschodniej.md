@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-8 sierpnia 1914 roku brytyjski krążownik HMS Astraea ostrzelał [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam), stolicę [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Celem była radiostacja, dzięki której niemieckie okręty na Oceanie Indyjskim utrzymywały łączność z lądem. Był to początek działań wojennych w Afryce Wschodniej, najdłuższej kampanii I wojny światowej.
+8 sierpnia 1914 roku brytyjski krążownik HMS Astraea ostrzelał [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam), stolicę [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Celem była radiostacja, dzięki której niemieckie okręty na Oceanie Indyjskim utrzymywały łączność z lądem. Był to początek działań wojennych w Afryce Wschodniej, najdłuższej kampanii I wojny światowej.
 
 ## Ostrzał i rozejm
 
@@ -21,7 +21,7 @@ Po ostrzale dowódca Astraei zgodził się na rozejm pod warunkiem, że Dar es S
 
 ## Lettow-Vorbeck
 
-Innego zdania był dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Uważał, że jego zadaniem jest związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie. Wbrew gubernatorowi przygotowywał się do wojny i w kolejnych miesiącach przeszedł do działań zaczepnych przeciw [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), dzisiejszej Kenii.
+Innego zdania był dowódca niemieckich wojsk kolonialnych, podpułkownik [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Uważał, że jego zadaniem jest związanie jak największych sił brytyjskich w Afryce, by nie mogły one walczyć w Europie. Wbrew gubernatorowi przygotowywał się do wojny i w kolejnych miesiącach przeszedł do działań zaczepnych przeciw [Brytyjskiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska), dzisiejszej Kenii.
 
 ## Najdłuższa kampania
 

@@ -2,7 +2,7 @@
 title: Battle of Cambrai
 summary: On 20 November 1917 hundreds of British tanks, with no preliminary bombardment, broke the Hindenburg Line at Cambrai. Over 4,000 prisoners were taken.
 source: poczatek-bitwy-pod-cambrai
-sourceHash: b138d97dfe517dadc4cacfa6553e521db581e989
+sourceHash: 8167f8f97c9843189d3d88fce9743fcc6b4dc1f7
 brief:
   - "On 20 November 1917 General Julian Byng's British Third Army attacked the Hindenburg Line at Cambrai without artillery preparation. Several hundred Mark IV tanks drove ahead of the infantry."
   - "The new method was the work of, among others, General Hugh Elles and J. F. C. Fuller, who wanted to use tanks in mass on dry ground. More than a thousand guns opened fire only at the moment of the attack."
@@ -11,7 +11,7 @@ brief:
   - "By evening more than four thousand prisoners had been taken, and church bells rang in Britain. The rejoicing was premature: on 30 November a German counter-attack took back most of the gains."
 ---
 
-On Tuesday 20 November 1917, at 6.20 a.m., on a front some ten kilometres long south-west of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), an attack began such as the Western Front had never seen. The British Third Army of General [Julian Byng](/postacie/julian-byng) assaulted the Hindenburg Line without a single shot of artillery preparation. Several hundred tanks drove ahead of the infantry to crush the wire, and more than a thousand guns opened fire only at the moment of the attack, aiming by maps and calculation. Surprise was complete. Within four hours the British had passed through the whole system of German defences, advanced five or six kilometres and by evening taken more than four thousand prisoners, at a cost many times lower than in the attacks in Flanders. Even so, the day's plan was not fulfilled: the attack stalled at Flesquières, the cavalry did not get across the canal, and Bourlon ridge remained in German hands.
+On Tuesday 20 November 1917, at 6.20 a.m., on a front some ten kilometres long south-west of [Cambrai](/miejsca/cambrai), an attack began such as the Western Front had never seen. The British Third Army of General [Julian Byng](/postacie/julian-byng) assaulted the Hindenburg Line without a single shot of artillery preparation. Several hundred tanks drove ahead of the infantry to crush the wire, and more than a thousand guns opened fire only at the moment of the attack, aiming by maps and calculation. Surprise was complete. Within four hours the British had passed through the whole system of German defences, advanced five or six kilometres and by evening taken more than four thousand prisoners, at a cost many times lower than in the attacks in Flanders. Even so, the day's plan was not fulfilled: the attack stalled at Flesquières, the cavalry did not get across the canal, and Bourlon ridge remained in German hands.
 
 ## Before dawn
 
@@ -51,6 +51,6 @@ By 6 p.m. the British had counted 102 officers and 4,109 men taken prisoner, and
 
 On the German side the 54th Division and its artillery had been almost destroyed, and the 20th Landwehr Division was in a similar state. First Quartermaster General [Erich Ludendorff](/postacie/erich-ludendorff), who had rather expected further attacks in Flanders, learned of the attack by telephone soon after eight and at once sent reinforcements to Cambrai from north and south, and the headquarters agreed that the Second Army of General [Georg von der Marwitz](/postacie/georg-von-der-marwitz) must restore the situation by counter-attack. In the evening the arriving battalions of the 107th Division filled the gaps in front of Cantaing, Noyelles and Masnières, while more divisions were on their way by rail from Flanders, the Aisne and Douai.
 
-At 4.30 p.m. [Douglas Haig](/postacie/douglas-haig) met Byng at [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)). The French divisions waiting near Péronne for the signal to pursue were to stay where they were. Haig agreed that the Third Army should attack again the next day, before the Germans gathered their strength. The main objective was to be Bourlon ridge, whose capture the orders for 21 November called a matter of "paramount importance". During the night, in rain and darkness, the Germans quietly abandoned Flesquières.
+At 4.30 p.m. [Douglas Haig](/postacie/douglas-haig) met Byng at [Albert](/miejsca/albert). The French divisions waiting near Péronne for the signal to pursue were to stay where they were. Haig agreed that the Third Army should attack again the next day, before the Germans gathered their strength. The main objective was to be Bourlon ridge, whose capture the orders for 21 November called a matter of "paramount importance". During the night, in rain and darkness, the Germans quietly abandoned Flesquières.
 
 A few days later church bells were rung in Britain to celebrate the victory at Cambrai. The rejoicing proved premature: the fighting for Bourlon ridge lasted more than a week, and on 30 November the Germans counter-attacked, taking back from the British most of what they had won on 20 November.

@@ -2,10 +2,10 @@
 title: Christmas Eve assault on Kut
 summary: On 24 December 1915 the Turks made their biggest assault on the Kut fort. Fighting lasted into the night; on Christmas Day the defenders held the ruined fort.
 source: wigilijny-szturm-na-al-kut
-sourceHash: 57974a3ffbcf37a5a82e040f0e2f1f3f06b7b1ca
+sourceHash: 1c1007036b4eaa8bdf5e934c53423d575044e419
 ---
 
-On Christmas Eve 1915 Ottoman troops launched their biggest assault on besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut). They struck at the fort in the northern corner of the British defences, above a bend of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). The fighting went on intermittently from the morning of 24 December until the early hours of 25 December. The Turks made their last attack at about 2.30 a.m. Christmas Day found the defenders in the ruins of the fort, among heaps of Turkish dead. The British chronology of the war places this event under 25 December. It was the last Turkish assault on Kut. From then on the Turks relied on hunger alone.
+On Christmas Eve 1915 Ottoman troops launched their biggest assault on besieged [Kut](/miejsca/al-kut). They struck at the fort in the northern corner of the British defences, above a bend of the [Tigris](/miejsca/tygrys). The fighting went on intermittently from the morning of 24 December until the early hours of 25 December. The Turks made their last attack at about 2.30 a.m. Christmas Day found the defenders in the ruins of the fort, among heaps of Turkish dead. The British chronology of the war places this event under 25 December. It was the last Turkish assault on Kut. From then on the Turks relied on hunger alone.
 
 ## Against Goltz's orders
 

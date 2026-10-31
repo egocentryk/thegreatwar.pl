@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 września 1914 roku armie austro-węgierskie ruszyły do natarcia na wschód, w stronę [Lwowa](https://pl.wikipedia.org/wiki/Lwów), utraconego pięć dni wcześniej. Główne walki toczyły się na linii rzeki [Wereszycy](https://pl.wikipedia.org/wiki/Wereszyca) i stawów pod [Gródkiem Jagiellońskim](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)), a od północy, w okolicach [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska), na zagrożone skrzydło Austriaków parła rosyjska 5 Armia. Była to ostatnia wielka próba odwrócenia losów [bitwy galicyjskiej](/bitwy/bitwa-galicyjska).
+8 września 1914 roku armie austro-węgierskie ruszyły do natarcia na wschód, w stronę [Lwowa](/miejsca/lwow), utraconego pięć dni wcześniej. Główne walki toczyły się na linii rzeki [Wereszycy](https://pl.wikipedia.org/wiki/Wereszyca) i stawów pod [Gródkiem Jagiellońskim](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)), a od północy, w okolicach [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska), na zagrożone skrzydło Austriaków parła rosyjska 5 Armia. Była to ostatnia wielka próba odwrócenia losów [bitwy galicyjskiej](/bitwy/bitwa-galicyjska).
 
 ## Nazwy bitwy
 

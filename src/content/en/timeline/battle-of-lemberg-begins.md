@@ -2,10 +2,10 @@
 title: The battle of Lemberg begins
 summary: On 17 June 1915 Mackensen's armies reached the last Russian line before Lviv. At Gródek on the Wereszyca street fighting went on all day.
 source: poczatek-bitwy-o-lwow
-sourceHash: e5fef610d188545c2cfc0b8ef5ebd2546eb8c55e
+sourceHash: d16ec903f3abc191e2a7ee3a6fc85f2dad7b072d
 ---
 
-On 17 June 1915 German and Austro-Hungarian troops stood before the last major Russian position covering [Lviv](https://pl.wikipedia.org/wiki/Lwów). It ran along the [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca) river and its ponds, from the Dniester through [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) to [Janów](https://pl.wikipedia.org/wiki/Iwano-Frankowe), and on through the hills near [Magierów](https://pl.wikipedia.org/wiki/Magierów_(Ukraina)) towards [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska). Street fighting went on in Gródek all day. The British chronology of the war records under this date the beginning of the third battle of Lemberg.
+On 17 June 1915 German and Austro-Hungarian troops stood before the last major Russian position covering [Lviv](/miejsca/lwow). It ran along the [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca) river and its ponds, from the Dniester through [Gródek](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)) to [Janów](https://pl.wikipedia.org/wiki/Iwano-Frankowe), and on through the hills near [Magierów](https://pl.wikipedia.org/wiki/Magierów_(Ukraina)) towards [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska). Street fighting went on in Gródek all day. The British chronology of the war records under this date the beginning of the third battle of Lemberg.
 
 ## The pursuit
 

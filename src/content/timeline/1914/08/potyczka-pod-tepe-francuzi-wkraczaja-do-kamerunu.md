@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku walki objęły północne pogranicze [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Brytyjczycy starli się z Niemcami pod Tepe nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)), a francuskie oddziały z [Czadu](https://pl.wikipedia.org/wiki/Czad) przekroczyły granicę kolonii. Brytyjska chronologia wojny wymienia oba wydarzenia jednym tchem, ale były to dwie odrębne akcje, prowadzone kilkaset kilometrów od siebie.
+25 sierpnia 1914 roku walki objęły północne pogranicze [Kamerunu Niemieckiego](/miejsca/kamerun). Brytyjczycy starli się z Niemcami pod Tepe nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)), a francuskie oddziały z [Czadu](https://pl.wikipedia.org/wiki/Czad) przekroczyły granicę kolonii. Brytyjska chronologia wojny wymienia oba wydarzenia jednym tchem, ale były to dwie odrębne akcje, prowadzone kilkaset kilometrów od siebie.
 
 ## Tepe
 

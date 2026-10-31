@@ -17,7 +17,7 @@ tags: [Rosja, Austro-Węgry, bitwa galicyjska, Lwów]
 milestone: false
 ---
 
-Bitwa pod Gródkiem i Rawą Ruską była ostatnim, rozstrzygającym etapem [bitwy galicyjskiej](/bitwy/bitwa-galicyjska). We wrześniu 1914 roku szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) próbował odzyskać utracony kilka dni wcześniej [Lwów](https://pl.wikipedia.org/wiki/Lwów). Jego armie uderzyły na Rosjan na froncie długości około stu kilometrów, od okolic [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska) na północy po Dniestr na południu. Kontrofensywa się nie powiodła, a jej klęska zmusiła Austro-Węgry do oddania większej części Galicji.
+Bitwa pod Gródkiem i Rawą Ruską była ostatnim, rozstrzygającym etapem [bitwy galicyjskiej](/bitwy/bitwa-galicyjska). We wrześniu 1914 roku szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) próbował odzyskać utracony kilka dni wcześniej [Lwów](/miejsca/lwow). Jego armie uderzyły na Rosjan na froncie długości około stu kilometrów, od okolic [Rawy Ruskiej](https://pl.wikipedia.org/wiki/Rawa_Ruska) na północy po Dniestr na południu. Kontrofensywa się nie powiodła, a jej klęska zmusiła Austro-Węgry do oddania większej części Galicji.
 
 ## Nazwa i daty
 

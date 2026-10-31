@@ -9,7 +9,7 @@ sides:
     commanders: [Erich Ludendorff, "Rupprecht, Crown Prince of Bavaria", Max von Boehn, Georg von der Marwitz, Otto von Below]
 result: Allied victory. The British Third Army advanced on average about 25 km and the Fourth Army 11–22 km. The Germans lost Albert, Bapaume, Péronne and the Somme line, and on 2 September the Supreme Army Command ordered a withdrawal to the Hindenburg Line.
 source: druga-bitwa-nad-somma-1918
-sourceHash: 6a9353790f23ddac7b5a998dd73d2f1ab7879679
+sourceHash: 4559907c6503d320ec62af0fcc34c709d8f94d19
 brief:
   - "The Second Battle of the Somme is the British name for the offensive in which, from 21 August to 3 September 1918, the British Third and Fourth Armies drove the Germans off the old 1916 Somme battlefield."
   - "After the Battle of Amiens Haig did not want to go on striking frontally south of the Somme. He shifted the weight of the offensive north, where on 21 August General Julian Byng's Third Army attacked in fog."
@@ -18,7 +18,7 @@ brief:
   - "It was the first battle in which the British Army moved to a continuous, mobile advance on a wide front. The German armies were losing men faster than they could replace them."
 ---
 
-The Second Battle of the Somme is the British name for the offensive in which, from 21 August to 3 September 1918, the British Third and Fourth Armies drove the Germans off the old 1916 Somme battlefield. After the [Battle of Amiens](/bitwy/bitwa-pod-amiens) on 8–11 August, Field Marshal [Douglas Haig](/postacie/douglas-haig) did not want to go on striking frontally at the ever stronger German defences south of the Somme. He shifted the weight of the offensive to the north, where on 21 August the Third Army of General [Julian Byng](/postacie/julian-byng) attacked. Within two weeks the British, Australians and New Zealanders retook [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)), [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) and [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)), captured Mont Saint-Quentin and took several tens of thousands of prisoners. Ground that in 1916 had been fought over for almost five months, and that the Germans had taken in a few days in March 1918, the Allies recovered in less than two weeks. On 2 September the German Supreme Army Command decided to pull its armies back to the Hindenburg Line, from which they had set out for the spring offensive.
+The Second Battle of the Somme is the British name for the offensive in which, from 21 August to 3 September 1918, the British Third and Fourth Armies drove the Germans off the old 1916 Somme battlefield. After the [Battle of Amiens](/bitwy/bitwa-pod-amiens) on 8–11 August, Field Marshal [Douglas Haig](/postacie/douglas-haig) did not want to go on striking frontally at the ever stronger German defences south of the Somme. He shifted the weight of the offensive to the north, where on 21 August the Third Army of General [Julian Byng](/postacie/julian-byng) attacked. Within two weeks the British, Australians and New Zealanders retook [Albert](/miejsca/albert), [Bapaume](/miejsca/bapaume) and [Péronne](/miejsca/peronne), captured Mont Saint-Quentin and took several tens of thousands of prisoners. Ground that in 1916 had been fought over for almost five months, and that the Germans had taken in a few days in March 1918, the Allies recovered in less than two weeks. On 2 September the German Supreme Army Command decided to pull its armies back to the Hindenburg Line, from which they had set out for the spring offensive.
 
 ## Name and dates
 

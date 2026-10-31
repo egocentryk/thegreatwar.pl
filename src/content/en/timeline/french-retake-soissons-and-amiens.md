@@ -2,14 +2,14 @@
 title: French retake Soissons and Amiens
 summary: In mid-September 1914 the Germans, retreating after the Battle of the Marne, left Soissons and Amiens. French troops returned to both cities.
 source: francuzi-odzyskuja-soissons-i-amiens
-sourceHash: 748978fbf91366e6fb6fad41a63be531c68c9693
+sourceHash: 44440346fc989b0d364e3c8a075fe60cf2079079
 ---
 
-The British chronology of the war records that on 13 September 1914 French troops reoccupied [Soissons](https://pl.wikipedia.org/wiki/Soissons) and [Amiens](/miejsca/amiens). The Germans had taken both cities at the turn of August and September, during their march on Paris, and left them after their defeat on the Marne. Their occupation lasted less than two weeks.
+The British chronology of the war records that on 13 September 1914 French troops reoccupied [Soissons](/miejsca/soissons) and [Amiens](/miejsca/amiens). The Germans had taken both cities at the turn of August and September, during their march on Paris, and left them after their defeat on the Marne. Their occupation lasted less than two weeks.
 
 ## Soissons
 
-[The Germans entered Soissons](/niemcy-zajmuja-soissons) on 1–2 September. After the Battle of the Marne the troops of the German First Army withdrew to the north bank of the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) and occupied the heights overlooking the city. On 12 September units of the French Sixth Army, including African troops, entered Soissons, supported by the fire of British artillery. Some sources state that the last German units left the city only on 13 September, and the British chronology adopted that date.
+[The Germans entered Soissons](/niemcy-zajmuja-soissons) on 1–2 September. After the Battle of the Marne the troops of the German First Army withdrew to the north bank of the [Aisne](/miejsca/aisne) and occupied the heights overlooking the city. On 12 September units of the French Sixth Army, including African troops, entered Soissons, supported by the fire of British artillery. Some sources state that the last German units left the city only on 13 September, and the British chronology adopted that date.
 
 Liberation did not bring the city peace. The Germans dug in on the heights on the other side of the river, only a few kilometres from the centre, and Soissons became a front-line city, shelled by German artillery. In January 1915 the French tried to push the enemy away from the city. The Battle of [Crouy](https://pl.wikipedia.org/wiki/Crouy), fought on 8–14 January, began with a French success, but a German counter-attack drove the French back across the Aisne. The defeat, called in France "the Soissons affair", raised fears of a new German march on Paris. The city itself, however, remained in French hands.
 

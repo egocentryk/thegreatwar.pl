@@ -2,10 +2,10 @@
 title: Essad Pasha's government leaves Durrës
 summary: On 24 February 1916, as the Austrians stormed the Italian lines at Durrës, Essad Pasha left for Italy on a destroyer. His government ceased to act in Albania.
 source: rzad-esada-paszy-opuszcza-durres
-sourceHash: 6c99c06e344860c71c78fd8d9f401dc790c278e5
+sourceHash: 0092ee27384ad9117c0fef828690d83a9eb97244
 ---
 
-On 24 February 1916 [Essad Pasha Toptani](/postacie/esad-pasza-toptani), head of the government that since [October 1914](/esad-pasza-tworzy-rzad-w-durres) had ruled central Albania from [Durrës](https://pl.wikipedia.org/wiki/Durrës), left the country. The day before, Austro-Hungarian troops had attacked the Italian positions in front of the town and pushed the defenders back onto the peninsula on which the port lies. On the afternoon of 24 February the Italian consul Piacentini reported from on board the destroyer *Impetuoso* that the evacuation of Durrës had begun and that at noon he had sailed for [Brindisi](https://pl.wikipedia.org/wiki/Brindisi) together with Essad, five members of his entourage, members of the Italian colony and the legation's archives. About three hundred of Essad's soldiers were to follow them by steamer.
+On 24 February 1916 [Essad Pasha Toptani](/postacie/esad-pasza-toptani), head of the government that since [October 1914](/esad-pasza-tworzy-rzad-w-durres) had ruled central Albania from [Durrës](/miejsca/durres), left the country. The day before, Austro-Hungarian troops had attacked the Italian positions in front of the town and pushed the defenders back onto the peninsula on which the port lies. On the afternoon of 24 February the Italian consul Piacentini reported from on board the destroyer *Impetuoso* that the evacuation of Durrës had begun and that at noon he had sailed for [Brindisi](/miejsca/brindisi) together with Essad, five members of his entourage, members of the Italian colony and the legation's archives. About three hundred of Essad's soldiers were to follow them by steamer.
 
 ## An ally without an army
 

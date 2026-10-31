@@ -11,7 +11,7 @@ sides:
     commanders: [Alexander von Kluck, Friedrich Sixt von Armin, Georg von der Marwitz]
 result: German tactical victory. The British lost the battlefield and 38 guns, but broke contact with the enemy and continued their retreat.
 source: bitwa-pod-le-cateau
-sourceHash: 2d5f641dcb041982b28d7ef56382272a401baca3
+sourceHash: e2ced1736bb24a04fb6aae5777965f334a1a9e08
 ---
 
 The [Battle of Le Cateau](https://pl.wikipedia.org/wiki/Bitwa_pod_Le_Cateau) was fought on 26 August 1914 in the Nord department of northern France. The British II Corps of General Horace Smith-Dorrien, reinforced by the 4th Division and cavalry, held out for most of the day against the German First Army of General [Alexander von Kluck](/postacie/alexander-von-kluck). It was the second battle of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), after the [Battle of Mons](/bitwy/bitwa-pod-mons), and one of the most important engagements of the great Allied retreat of August 1914.
@@ -28,7 +28,7 @@ About 40,000 soldiers fought on the British side: according to figures cited by 
 
 ## Course of the battle
 
-The British took up positions along the road from Le Cateau to [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). The right wing near Le Cateau was held by the 5th Division, the centre around [Caudry](https://pl.wikipedia.org/wiki/Caudry) by the 3rd Division, and the left wing by the 4th Division. The positions were occupied at night and in haste, without proper trenches or prepared lines of retreat.
+The British took up positions along the road from Le Cateau to [Cambrai](/miejsca/cambrai). The right wing near Le Cateau was held by the 5th Division, the centre around [Caudry](https://pl.wikipedia.org/wiki/Caudry) by the 3rd Division, and the left wing by the 4th Division. The positions were occupied at night and in haste, without proper trenches or prepared lines of retreat.
 
 The fighting began early in the morning on the right wing. The British artillery stood in the open, just behind the infantry, and fired over open sights at the advancing columns. The Germans replied with [indirect fire](https://pl.wikipedia.org/wiki/Ogień_pośredni) from concealed positions. At Le Cateau the outcome was decided by the artillery, not by the infantry's rifle fire as at Mons three days earlier. The British batteries suffered enormous losses, but they also inflicted them on the German infantry.
 

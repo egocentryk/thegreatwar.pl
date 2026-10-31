@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-12 czerwca 1915 roku nad ranem artyleria austro-węgierskiej [4 Armii](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) otworzyła ogień na rosyjskie pozycje na wschodnim brzegu [Sanu](https://pl.wikipedia.org/wiki/San) pod [Sieniawą](https://pl.wikipedia.org/wiki/Sieniawa). Niemiecka i austro-węgierska piechota przeszła rzekę oraz uchodzącą do niej [Lubaczówkę](https://pl.wikipedia.org/wiki/Lubaczówka) i wdarła się w rosyjskie okopy. Tak zaczęła się bitwa pod [Mościskami](https://pl.wikipedia.org/wiki/Mościska) i [Lubaczowem](https://pl.wikipedia.org/wiki/Lubaczów), następny po [odbiciu Przemyśla](/bitwy/odbicie-przemysla) etap ofensywy państw centralnych w Galicji. Jej celem był [Lwów](https://pl.wikipedia.org/wiki/Lwów).
+12 czerwca 1915 roku nad ranem artyleria austro-węgierskiej [4 Armii](https://pl.wikipedia.org/wiki/4_Armia_(austro-węgierska)) otworzyła ogień na rosyjskie pozycje na wschodnim brzegu [Sanu](/miejsca/san) pod [Sieniawą](https://pl.wikipedia.org/wiki/Sieniawa). Niemiecka i austro-węgierska piechota przeszła rzekę oraz uchodzącą do niej [Lubaczówkę](https://pl.wikipedia.org/wiki/Lubaczówka) i wdarła się w rosyjskie okopy. Tak zaczęła się bitwa pod [Mościskami](https://pl.wikipedia.org/wiki/Mościska) i [Lubaczowem](https://pl.wikipedia.org/wiki/Lubaczów), następny po [odbiciu Przemyśla](/bitwy/odbicie-przemysla) etap ofensywy państw centralnych w Galicji. Jej celem był [Lwów](/miejsca/lwow).
 
 ## Decyzja o marszu na Lwów
 

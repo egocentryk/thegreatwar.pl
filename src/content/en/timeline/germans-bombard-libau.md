@@ -2,10 +2,10 @@
 title: Germans bombard Libau
 summary: On 17 November 1914 German warships shelled Libau for several hours and sank ships at the harbour entrance to close it to submarines.
 source: niemcy-ostrzeliwuja-lipawe
-sourceHash: 5ea0343549f2ebe9801d1bac874bf94295e66efc
+sourceHash: e984d55211026036ba77a9de007fc4691209b8e6
 ---
 
-On the morning of 17 November 1914 a German squadron appeared off [Libau](https://pl.wikipedia.org/wiki/Lipawa), a Russian port in [Courland](https://pl.wikipedia.org/wiki/Kurlandia), then called Libava in Russian. For several hours the ships shelled the town and harbour, and in the harbour entrances the Germans sank several old ships to block it. It was the German fleet's second attack on Libau, after the [bombardment of 2 August](/niemieckie-krazowniki-ostrzeliwuja-lipawe).
+On the morning of 17 November 1914 a German squadron appeared off [Libau](https://pl.wikipedia.org/wiki/Lipawa), a Russian port in [Courland](/miejsca/kurlandia), then called Libava in Russian. For several hours the ships shelled the town and harbour, and in the harbour entrances the Germans sank several old ships to block it. It was the German fleet's second attack on Libau, after the [bombardment of 2 August](/niemieckie-krazowniki-ostrzeliwuja-lipawe).
 
 ## A port the Germans feared
 

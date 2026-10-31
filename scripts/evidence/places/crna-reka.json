@@ -1,0 +1,72 @@
+{
+ "slug": "crna-reka",
+ "paragraphs": [
+  {"start": "Crna Reka, w części naszych artykułów Czarna Rzeka",
+   "quotes": [
+    {"url": "https://en.wikipedia.org/wiki/Crna_River_(Vardar)", "quote": "It is a right tributary of the Vardar River. It runs through much of the south and west of the country."},
+    {"url": "https://en.wikipedia.org/wiki/Crna_River_(Vardar)", "quote": "It enters the Pelagonia valley at the village of Buchin and then flows through the village Sopotnica, and southwards through the plains east of Bitola. At Brod (Novaci Municipality) it turns northeast. It leaves the Pelagonia valley at the Staravina village and goes in the biggest canyon in North Macedonia, the Skočivir valley and flows into the Vardar River between Rosoman and Gradsko."},
+    {"file": "src/content/timeline/1915/12/francuzi-opuszczaja-krivolak.md", "quote": "Na początku grudnia 1915 Francuzi wycofali się spod Krivolaku i z pętli Wardaru i Crnej Reki, zanim Bułgarzy zdążyli na nich uderzyć."},
+    {"file": "src/content/battles/1916/bitwa-nad-czarna-rzeka-i-o-bitole.md", "quote": "Od 5 października do 11 grudnia 1916 Serbowie, Francuzi i Rosjanie szturmowali bułgarskie pozycje nad Czarną Rzeką."},
+    {"file": "src/content/timeline/1918/09/francuzi-zajmuja-prilep.md", "quote": "23 września 1918 roku wczesnym popołudniem do Prilepu wjechała francuska kawaleria."}
+   ]},
+  {"start": "Brytyjski historyk oficjalny Cyril Falls pisał, że Crna",
+   "quotes": [
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "The Crna presents a most curious spectacle, and reverses the normal behaviour of rivers. From north to south it runs past Monastir, a true river of the plains, slow, winding, and muddy. Then it apparently meets with a particularly hard rock formation and finds a natural rift in the massif overlooking its upper waters; for it turns northward in a great hairpin bend and enters a gloomy defile which bears it through the massif. Fed now by mountain streams, it becomes in wet weather a foaming torrent. Thence it emerges into the valley of the Vardar at its widest part"},
+    {"url": "https://en.wikipedia.org/wiki/Crna_River_(Vardar)", "quote": "Thus, the river makes a bend of almost 180 degrees east of Bitola."},
+    {"url": "https://en.wikipedia.org/wiki/Crna_River_(Vardar)", "quote": "At Brod (Novaci Municipality) it turns northeast."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "Gradsko lay at the junction of the Crna with the Vardar, and at that of the light railway from the Monastir front with the main line from Salonika to Niš"}
+   ]},
+  {"start": "Kto trzymał zakole, ten osłaniał Bitolę od wschodu",
+   "quotes": [
+    {"file": "src/content/battles/1916/bitwa-nad-czarna-rzeka-i-o-bitole.md", "quote": "Kto je trzymał, ten osłaniał Bitolę od wschodu i drogę z Bitoli do Prilepu."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "a fairly good road ran northward from it to Prilep, half-way between the upper and lower courses of the Crna and a very important road centre."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "the hills inside the bend of the Crna being as craggy as the rest, if not so high as those to the east"}
+   ]},
+  {"start": "Pierwszy raz rzeka stała się linią frontu",
+   "quotes": [
+    {"file": "src/content/timeline/1915/10/poczatek-walk-pod-krivolakiem.md", "quote": "Pod koniec października 1915 francuska 57 Dywizja dotarła nad Wardarem do Krivolaku, 30 km od Wełesu. Natknęła się tam na Bułgarów, ale do Serbów nie doszła."},
+    {"file": "src/content/timeline/1915/10/poczatek-walk-pod-krivolakiem.md", "quote": "około 13 kilometrów na wschód od ujścia Crnej Reki"},
+    {"file": "src/content/battles/1915/bitwa-pod-krivolakiem.md", "quote": "Drugi powstał nad Crną Reką pod wsią Wozarci, gdzie ocalał most."},
+    {"file": "src/content/timeline/1915/11/bulgarzy-zajmuja-przelecz-babuna-i-prilep.md", "quote": "Na początku listopada, w czasie walk pod Krivolakiem, przeszli na lewy brzeg Crnej Reki i nacierali na wzgórza z klasztorem Archanioła."},
+    {"file": "src/content/timeline/1915/11/bulgarzy-zajmuja-przelecz-babuna-i-prilep.md", "quote": "Według brytyjskiej historii oficjalnej kampanii macedońskiej było już jednak za późno. Około 10 listopada Bułgarzy przestali się interesować Serbami na przełęczy i zwrócili się przeciw Francuzom, a ci po ciężkich walkach pod Czyczewem przeszli do obrony. Serbskie oddziały na Babunie zostały same wobec znacznie liczniejszego przeciwnika."}
+   ]},
+  {"start": "20 listopada generał de Lardemelle wycofał",
+   "quotes": [
+    {"file": "src/content/battles/1915/bitwa-pod-krivolakiem.md", "quote": "20 listopada świeża brygada bułgarskiej 5 Dywizji zajęła wzgórza nad przyczółkiem pod Wozarci, a de Lardemelle wycofał wszystkie wojska za Crną Rekę, co bardzo rozgniewało Sarraila. Mosty na rzece wysadzono."},
+    {"file": "src/content/timeline/1915/12/francuzi-opuszczaja-krivolak.md", "quote": "Francuzi wymknęli się jednak, zanim Bułgarzy skończyli koncentrację."},
+    {"file": "src/content/timeline/1915/12/francuzi-opuszczaja-krivolak.md", "quote": "Rano 4 grudnia Bułgarzy przerzucili przez Crną Rekę mosty na kozłach i ruszyli za Francuzami czterema kolumnami. Byli już jednak spóźnieni."}
+   ]},
+  {"start": "Po wrześniowej ofensywie 1916 roku, gdy Serbowie",
+   "quotes": [
+    {"file": "src/content/timeline/1916/09/serbowie-zdobywaja-kajmakczalan.md", "quote": "W nocy z 2 na 3 października cofnęli się na umocnioną linię nad Czarną Rzeką, osłaniającą Bitolę."},
+    {"file": "src/content/battles/1916/bitwa-nad-czarna-rzeka-i-o-bitole.md", "quote": "Od 5 października do 11 grudnia 1916 Serbowie, Francuzi i Rosjanie szturmowali bułgarskie pozycje nad Czarną Rzeką. 19 listopada zajęli Bitolę."},
+    {"file": "src/content/battles/1916/bitwa-nad-czarna-rzeka-i-o-bitole.md", "quote": "W nocy z 7 na 8 października, jak pisze brytyjska historia oficjalna, Serbowie przedarli się przez rzekę między Brodem a Skočivirem"},
+    {"file": "src/content/postacie/zivojin-misic.md", "quote": "W bitwie nad Czarną Rzeką i o Bitolę Serbowie krok po kroku spychali Bułgarów i przysłane im z pomocą bataliony niemieckie, w śniegu, błocie i pod ciągłym ogniem."},
+    {"file": "src/content/battles/1916/bitwa-nad-czarna-rzeka-i-o-bitole.md", "quote": "W połowie listopada obrona na wschodnim skrzydle pękła i 19 listopada sprzymierzeni weszli do opuszczonej Bitoli, pierwszego większego miasta Serbii odzyskanego od jesieni 1915 roku."}
+   ]},
+  {"start": "Front zatrzymał się jednak kilka kilometrów dalej.",
+   "quotes": [
+    {"file": "src/content/battles/1917/bitwa-nad-wardarem-1917.md", "quote": "Najważniejszym punktem obrony było wzgórze 1050, które Niemcy i Bułgarzy trzymali od jesieni 1916 roku."},
+    {"file": "src/content/battles/1917/marcowa-ofensywa-w-macedonii.md", "quote": "W zakolu Czarnej Rzeki Włosi, którzy w lutym stracili po niemieckim ataku część pozycji na wzgórzu 1050, przeprowadzili 13 marca niewielką akcję."},
+    {"file": "src/content/battles/1917/bitwa-nad-wardarem-1917.md", "quote": "W maju 1917 Francuzi, Serbowie, Włosi i Rosjanie atakowali w Macedonii na zachód od Wardaru. Po dwóch tygodniach Sarrail przerwał ofensywę bez żadnych zdobyczy."},
+    {"file": "src/content/battles/1917/bitwa-nad-wardarem-1917.md", "quote": "W zakolu Czarnej Rzeki same natarcie 9 maja kosztowało Włochów 2400–2700 ludzi"},
+    {"file": "src/content/battles/1917/bitwa-nad-wardarem-1917.md", "quote": "Ostatni atak w zakolu ruszył 17 maja po czterech dniach ostrzału."}
+   ]},
+  {"start": "Front w zakolu przetrwał prawie dwa lata.",
+   "quotes": [
+    {"file": "src/content/battles/1916/bitwa-nad-czarna-rzeka-i-o-bitole.md", "quote": "Nowa linia na wzgórzach na północ od miasta, z pasmem Baba i wzgórzem 1248 na zachodzie oraz wzgórzem 1050 w zakolu, przetrwała niemal dwa lata."},
+    {"file": "src/content/battles/1918/bitwa-pod-dobrym-polem.md", "quote": "15–17 września 1918 Serbowie i Francuzi szturmem zdobyli górski grzbiet Dobro Pole–Sokol–Vetrenik i rozerwali bułgarski front w Macedonii."},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "17 września, gdy dowódca bułgarskiej 2 Dywizji bez rozkazu wycofał się za Crną Rekę, padła także trzecia."},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "Tymczasem serbska 1 Armia biła się o przeprawy przez Crną Rekę, francusko-grecka grupa pułkownika Rondeta do 20 września zdobyła masyw Dzena"},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "The First Army hammered at the line of the Crna between the Belašnica and Rasim Bey, but failed to establish a bridgehead anywhere, the few small bodies which managed to cross being pinned to their ground or driven back by counter-attacks."}
+   ]},
+  {"start": "21 września francuskie i greckie patrole znalazły",
+   "quotes": [
+    {"file": "src/content/timeline/1918/09/francuzi-zajmuja-prilep.md", "quote": "a 21 września Serbowie zeszli w dolinę Wardaru. Zagrożone było całe prawe skrzydło 11 Armii, które wciąż trzymało się pozycji między Bitolą a jeziorem Ochrydzkim. Tego samego dnia Francuzi i Grecy zobaczyli, że Bułgarzy opuszczają zakole Crnej Reki, a włoska 35 Dywizja zdobyła słynne wzgórze 1050, z którego nieprzyjaciel przez dwa lata patrzył na jej okopy."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "The Italian troops knew only too well the strength of that fortress, the equivalent on their front of the Grand Couronné on the British, but even they were amazed by the size of the chambers on the northern flank of the hill, hewn out of solid rock, absolutely impervious to artillery fire, and lit by electricity."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "On the 22nd good progress beyond the Crna was made by the First Army"},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "The bridge at Vozarci, captured intact, was a useful link between the two Armies."},
+    {"file": "src/content/timeline/1918/09/francuzi-zajmuja-prilep.md", "quote": "23 września 1918 francuska kawaleria wjechała do Prilepu, porzuconego przez Bułgarów i Niemców."}
+   ]}
+ ]
+}

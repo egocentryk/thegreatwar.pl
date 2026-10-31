@@ -2,10 +2,10 @@
 title: Battle of Ctesiphon begins
 summary: On 22 November 1915 Townshend's division took the first Turkish trench line at Ctesiphon, but a counter-attack stopped it before the second. Losses were huge.
 source: poczatek-bitwy-pod-ktezyfonem
-sourceHash: 59454e7afe58540803f9bba4a77b50af7d5fe86c
+sourceHash: 02255d42b4b65123492f7f9610989bc5f92a7aee
 ---
 
-On 22 November 1915 the British and Indian troops of General Charles Townshend attacked the Ottoman position at [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon), among the ruins of the ancient capital of the Parthians and Sasanians on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 35 kilometres from [Baghdad](/miejsca/bagdad). It was the last obstacle on the way to the city, on which Townshend's division [had been marching since 11 November](/poczatek-marszu-na-bagdad). By early afternoon the British and Indians had taken the whole first line of Turkish trenches on the left bank of the river. Then, however, a Turkish counter-attack drove them back from in front of the second line, and in the evening it turned out that only remnants were left of the three infantry brigades.
+On 22 November 1915 the British and Indian troops of General Charles Townshend attacked the Ottoman position at [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon), among the ruins of the ancient capital of the Parthians and Sasanians on the [Tigris](/miejsca/tygrys), about 35 kilometres from [Baghdad](/miejsca/bagdad). It was the last obstacle on the way to the city, on which Townshend's division [had been marching since 11 November](/poczatek-marszu-na-bagdad). By early afternoon the British and Indians had taken the whole first line of Turkish trenches on the left bank of the river. Then, however, a Turkish counter-attack drove them back from in front of the second line, and in the evening it turned out that only remnants were left of the three infantry brigades.
 
 ## Before the battle
 

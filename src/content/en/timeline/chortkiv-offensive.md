@@ -2,10 +2,10 @@
 title: Chortkiv offensive
 summary: On 7 June 1919 the Ukrainian Galician Army, pushed back to the Zbruch, unexpectedly attacked. The next day it took Czortków and advanced into Galicia.
 source: ofensywa-czortkowska
-sourceHash: 8038e60a23b398c0786e2d1abf2d73b115a7b0c4
+sourceHash: 1303425e54e4ce2bb5a3ed73697f676791b9cc4d
 ---
 
-On 7 June 1919 the [Ukrainian Galician Army](https://pl.wikipedia.org/wiki/Ukraińska_Armia_Halicka), which the Polish command considered beaten, attacked the Poles from the [Zbruch](https://pl.wikipedia.org/wiki/Zbrucz) and the [Dniester](https://pl.wikipedia.org/wiki/Dniestr). The next day it took [Czortków](https://pl.wikipedia.org/wiki/Czortków) (Chortkiv), from which the attack took its name. The Chortkiv offensive was the last Ukrainian attack in the war for Eastern Galicia. In three weeks it took from the Poles a large part of the country they had occupied in May and nearly brought the front back to Lviv.
+On 7 June 1919 the [Ukrainian Galician Army](https://pl.wikipedia.org/wiki/Ukraińska_Armia_Halicka), which the Polish command considered beaten, attacked the Poles from the [Zbruch](https://pl.wikipedia.org/wiki/Zbrucz) and the [Dniester](/miejsca/dniestr). The next day it took [Czortków](https://pl.wikipedia.org/wiki/Czortków) (Chortkiv), from which the attack took its name. The Chortkiv offensive was the last Ukrainian attack in the war for Eastern Galicia. In three weeks it took from the Poles a large part of the country they had occupied in May and nearly brought the front back to Lviv.
 
 ## In the triangle on the Zbruch
 

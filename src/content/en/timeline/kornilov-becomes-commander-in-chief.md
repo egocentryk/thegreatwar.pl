@@ -2,7 +2,7 @@
 title: Kornilov becomes commander-in-chief
 summary: On 31 July 1917 the Provisional Government dismissed Brusilov and gave the supreme command to General Kornilov, who at once set conditions for Kerensky.
 source: kornilow-naczelnym-wodzem
-sourceHash: bdc04db5aff389e9f91ec92ec9a27021c2ed710d
+sourceHash: 24b86009bf7c522e548c3168b2d85cd74a703b4c
 ---
 
 On 31 July 1917 (18 July in the Julian calendar) the Russian [Provisional Government](/powstanie-rzadu-tymczasowego) dismissed the commander-in-chief, General [Aleksei Brusilov](/postacie/aleksiej-brusilow), and appointed in his place General of Infantry [Lavr Kornilov](/postacie/lawr-kornilow), commander of the South-Western Front. The decision was pushed through by [Alexander Kerensky](/postacie/aleksander-kierenski), [prime minister](/kierenski-premierem-rosji) for ten days, who also kept the portfolio of minister of war. The dates in the sources differ slightly. Kerensky later wrote that the appointments were made on 18 July Old Style, whereas Kornilov himself in his testimony before the commission of inquiry, and after him General [Anton Denikin](/postacie/anton-denikin) and most Russian studies, give the date of the government's order as 19 July Old Style, that is 1 August.
@@ -15,7 +15,7 @@ As the front was crumbling, Kerensky, despite Brusilov's objections, gave Kornil
 
 ## The conference at Mogilev
 
-The change was decided by a conference at the [Stavka](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew) on 29 July (16 July Old Style). There Kerensky heard from the generals, among them Brusilov, the commander of the Western Front Denikin and the former commander-in-chief Mikhail Alekseyev, bitter accusations against revolutionary policy towards the army. Denikin spoke most sharply, listing for the minister how the committees and the declaration of soldiers' rights had destroyed discipline. Kornilov could not leave the front and sent his proposals by telegraph, but his programme was similar: the death penalty in the rear as well, a reduced role for the committees, and the restoration of the authority of commanders. Kerensky left Mogilev convinced that Brusilov was not in control of the situation. According to Denikin, Kerensky bet on Kornilov in an act of desperation: he did not agree with his views on the army, but he could no longer see anyone else.
+The change was decided by a conference at the [Stavka](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) in [Mogilev](/miejsca/mohylew) on 29 July (16 July Old Style). There Kerensky heard from the generals, among them Brusilov, the commander of the Western Front Denikin and the former commander-in-chief Mikhail Alekseyev, bitter accusations against revolutionary policy towards the army. Denikin spoke most sharply, listing for the minister how the committees and the declaration of soldiers' rights had destroyed discipline. Kornilov could not leave the front and sent his proposals by telegraph, but his programme was similar: the death penalty in the rear as well, a reduced role for the committees, and the restoration of the authority of commanders. Kerensky left Mogilev convinced that Brusilov was not in control of the situation. According to Denikin, Kerensky bet on Kornilov in an act of desperation: he did not agree with his views on the army, but he could no longer see anyone else.
 
 ## Conditions
 

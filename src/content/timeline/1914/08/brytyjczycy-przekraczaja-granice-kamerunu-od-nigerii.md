@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-25 sierpnia 1914 roku wojska brytyjskie z [Nigerii](https://pl.wikipedia.org/wiki/Nigeria) przekroczyły granicę [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Rozpoczęła się lądowa kampania przeciw jednej z największych niemieckich kolonii w Afryce, która miała potrwać półtora roku.
+25 sierpnia 1914 roku wojska brytyjskie z [Nigerii](https://pl.wikipedia.org/wiki/Nigeria) przekroczyły granicę [Kamerunu Niemieckiego](/miejsca/kamerun). Rozpoczęła się lądowa kampania przeciw jednej z największych niemieckich kolonii w Afryce, która miała potrwać półtora roku.
 
 ## Trzy kolumny
 

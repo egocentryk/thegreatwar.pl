@@ -2,10 +2,10 @@
 title: First Indian contingent arrives at Mombasa
 summary: On 1 September 1914 the first unit of Indian Expeditionary Force "C" reached Mombasa, sent to aid the weak forces of British East Africa.
 source: oddzial-indyjski-przybywa-do-mombasy
-sourceHash: c07158a1944e1a8d6b2bb949194c5ac7aa473153
+sourceHash: dba46119c9172b8f2b2e3a181746f1cc3b857d70
 ---
 
-On 1 September 1914 the first unit of Indian Expeditionary Force "C" arrived at the port of [Mombasa](https://pl.wikipedia.org/wiki/Mombasa), on the coast of [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). It was the 29th Punjabis, which [had set out from India on 19 August](/pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej) as the first unit of the Indian Army sent to the war.
+On 1 September 1914 the first unit of Indian Expeditionary Force "C" arrived at the port of [Mombasa](https://pl.wikipedia.org/wiki/Mombasa), on the coast of [British East Africa](/bitwy/kampania-wschodnioafrykanska). It was the 29th Punjabis, which [had set out from India on 19 August](/pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej) as the first unit of the Indian Army sent to the war.
 
 The help was urgently needed. At the start of the war the colony had only a few companies of the King's African Rifles and volunteers from among the settlers. The German forces of Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) had already occupied Taveta on the border and were threatening the Uganda Railway, which linked Mombasa with [Nairobi](https://pl.wikipedia.org/wiki/Nairobi) and Lake Victoria. It was the colony's most important line of communication.
 

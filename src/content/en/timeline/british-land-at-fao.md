@@ -2,7 +2,7 @@
 title: British land at Fao
 summary: On 6 November 1914 Indian troops, after a naval bombardment, landed at Fao on the Shatt al-Arab and took the Turkish fort. The Mesopotamian campaign began.
 source: ladowanie-w-fao
-sourceHash: df8f90a5d8d95c7b31efb4ba68ac014a55bf2c35
+sourceHash: 1580cfe65079584294116dfba6623b9dff275770
 ---
 
 On 6 November 1914, the day after [Great Britain declared war on the Ottoman Empire](/wielka-brytania-i-francja-wypowiadaja-wojne-turcji), British and Indian troops landed at Fao ([Al-Faw](https://pl.wikipedia.org/wiki/Al-Fau_(Irak))) at the mouth of the [Shatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab) on the [Persian Gulf](https://pl.wikipedia.org/wiki/Zatoka_Perska). It was the first land operation of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska).
@@ -25,4 +25,4 @@ The landing itself revealed the problems that were to plague the British in Meso
 
 On the same day the sloop HMS *Espiegle*, which had been guarding the river for several weeks, shelled and scattered Turkish troops entrenched opposite the island of [Abadan](https://pl.wikipedia.org/wiki/Abadan). This was the site of the Anglo-Persian Oil Company's refinery, the protection of which was the main aim of the whole expedition. Oil from Abadan was of enormous importance to Great Britain, because the Royal Navy was converting its newest ships from coal to oil.
 
-Over the following days Delamain's brigade sailed up the Shatt al-Arab and landed at Saniyah, on the Turkish bank, a few kilometres north of Abadan. Unloading in a strong wind and without suitable boats went on until 10 November. On the morning of 11 November several hundred Turks attacked the camp but were repulsed by the Mahrattas and Punjabis. Delamain did not pursue. He was waiting for the arrival of the main body of the force with General Arthur Barrett, with whom the British were to march on [Basra](https://pl.wikipedia.org/wiki/Basra).
+Over the following days Delamain's brigade sailed up the Shatt al-Arab and landed at Saniyah, on the Turkish bank, a few kilometres north of Abadan. Unloading in a strong wind and without suitable boats went on until 10 November. On the morning of 11 November several hundred Turks attacked the camp but were repulsed by the Mahrattas and Punjabis. Delamain did not pursue. He was waiting for the arrival of the main body of the force with General Arthur Barrett, with whom the British were to march on [Basra](/miejsca/basra).

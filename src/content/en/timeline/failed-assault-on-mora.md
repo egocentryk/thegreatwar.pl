@@ -2,10 +2,10 @@
 title: Failed assault on Mora
 summary: On 8 September 1915 General Cunliffe's troops stormed Mora mountain in northern Kamerun. The attack broke down a few dozen metres from the German sangars.
 source: nieudany-szturm-na-more
-sourceHash: 42b8129cc1c616212367d0f9d4ee1b12a4ab9f0d
+sourceHash: 04004d323edfcc02d0556ad8da6fe7708a69d89c
 ---
 
-On 8 September 1915 the Nigerian soldiers of General Frederick Cunliffe, supported by the French, attacked the German garrison holding out on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) in the northern part of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). The assault broke down a few dozen metres from the German sangars, and on the morning of 9 September Cunliffe withdrew his men. It was at least the fourth attack on Mora: after the [first attack of August 1914](/pierwszy-atak-na-more) the Allies had twice more, at the end of October and the beginning of November 1914, tried in vain to break onto the mountain.
+On 8 September 1915 the Nigerian soldiers of General Frederick Cunliffe, supported by the French, attacked the German garrison holding out on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) in the northern part of [German Kamerun](/miejsca/kamerun). The assault broke down a few dozen metres from the German sangars, and on the morning of 9 September Cunliffe withdrew his men. It was at least the fourth attack on Mora: after the [first attack of August 1914](/pierwszy-atak-na-more) the Allies had twice more, at the end of October and the beginning of November 1914, tried in vain to break onto the mountain.
 
 ## A year of blockade
 

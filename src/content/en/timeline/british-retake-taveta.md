@@ -2,10 +2,10 @@
 title: British retake Taveta
 summary: On 10 March 1916 South African horsemen drove the Germans out of Taveta below Kilimanjaro. The border settlement returned to British hands after 18 months.
 source: brytyjczycy-zajmuja-tavete
-sourceHash: dfd6a3915a1fb745b58f38da8d72d68f350f1137
+sourceHash: e184620b19fd77a40a245a0e8555340dfb81b584
 ---
 
-On the morning of 10 March 1916 the 2nd South African Horse, after a short, sharp skirmish, drove the Germans out of [Taveta](https://pl.wikipedia.org/wiki/Taveta) at the foot of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro). The border settlement in [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia) had been in German hands since [15 August 1914](/niemcy-zajmuja-tavete). For a year and a half it had served the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) as a forward base, from which detachments set out against the British railway running inland from Mombasa. Now, on the fifth day of Lieutenant-General [Jan Smuts](/postacie/jan-smuts)'s offensive, it was British again.
+On the morning of 10 March 1916 the 2nd South African Horse, after a short, sharp skirmish, drove the Germans out of [Taveta](https://pl.wikipedia.org/wiki/Taveta) at the foot of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska). The border settlement in [British East Africa](/bitwy/kampania-wschodnioafrykanska) had been in German hands since [15 August 1914](/niemcy-zajmuja-tavete). For a year and a half it had served the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) as a forward base, from which detachments set out against the British railway running inland from Mombasa. Now, on the fifth day of Lieutenant-General [Jan Smuts](/postacie/jan-smuts)'s offensive, it was British again.
 
 ## Outflanking instead of assault
 

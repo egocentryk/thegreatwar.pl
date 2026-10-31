@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 12 kwietnia 1915 roku początek pierwszego alianckiego marszu na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), miasto w głębi [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), gdzie po utracie Duali przeniosły się niemieckie władze kolonii. Według brytyjskiej oficjalnej historii kampanii francuska i brytyjska kolumna wyszły z [Edei](https://pl.wikipedia.org/wiki/Edéa) 10 i 11 kwietnia, a 14 kwietnia wywalczyły przeprawy przez rzekę Kele. Właściwe natarcie na Jaunde odłożono jednak do 1 maja.
+Brytyjska chronologia wojny notuje pod 12 kwietnia 1915 roku początek pierwszego alianckiego marszu na [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), miasto w głębi [Kamerunu Niemieckiego](/miejsca/kamerun), gdzie po utracie Duali przeniosły się niemieckie władze kolonii. Według brytyjskiej oficjalnej historii kampanii francuska i brytyjska kolumna wyszły z [Edei](https://pl.wikipedia.org/wiki/Edéa) 10 i 11 kwietnia, a 14 kwietnia wywalczyły przeprawy przez rzekę Kele. Właściwe natarcie na Jaunde odłożono jednak do 1 maja.
 
 ## Plan z Brazzaville
 

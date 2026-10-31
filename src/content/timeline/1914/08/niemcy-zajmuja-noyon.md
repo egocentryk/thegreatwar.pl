@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny, na której opiera się nasz kalendarz, podaje pod datą 26 sierpnia 1914 roku zajęcie przez Niemców [Noyon](https://pl.wikipedia.org/wiki/Noyon), miasta w departamencie [Oise](https://pl.wikipedia.org/wiki/Oise_(departament)), około 100 kilometrów na północ od Paryża. Ta data budzi jednak wątpliwości. Francuskie źródła, m.in. opracowania francuskiego ministerstwa obrony, podają, że Niemcy wkroczyli do Noyon dopiero 30 sierpnia. 26 sierpnia czołówki niemieckiej 1 Armii walczyły jeszcze pod [Le Cateau](/bitwa-pod-le-cateau), kilkadziesiąt kilometrów dalej na północ.
+Brytyjska chronologia wojny, na której opiera się nasz kalendarz, podaje pod datą 26 sierpnia 1914 roku zajęcie przez Niemców [Noyon](/miejsca/noyon), miasta w departamencie [Oise](https://pl.wikipedia.org/wiki/Oise_(departament)), około 100 kilometrów na północ od Paryża. Ta data budzi jednak wątpliwości. Francuskie źródła, m.in. opracowania francuskiego ministerstwa obrony, podają, że Niemcy wkroczyli do Noyon dopiero 30 sierpnia. 26 sierpnia czołówki niemieckiej 1 Armii walczyły jeszcze pod [Le Cateau](/bitwa-pod-le-cateau), kilkadziesiąt kilometrów dalej na północ.
 
 Noyon to stare miasto biskupie z gotycką katedrą. W 768 roku koronowano tu [Karola Wielkiego](https://pl.wikipedia.org/wiki/Karol_Wielki), a w 1509 roku urodził się tu [Jan Kalwin](https://pl.wikipedia.org/wiki/Jan_Kalwin). W ostatnich dniach sierpnia 1914 roku przez miasto przechodziły wycofujące się na południe oddziały Brytyjskiego Korpusu Ekspedycyjnego, a tuż za nimi nadciągali Niemcy.
 

@@ -2,14 +2,14 @@
 title: U-21 shells Walney Island
 summary: On 29 January 1915 the German submarine U-21 shelled Walney Island near Barrow-in-Furness. It was the first U-boat foray into the Irish Sea.
 source: u-21-ostrzeliwuje-wyspe-walney
-sourceHash: 69ed7815d1424961a1b3a786e4a0189b601b2c22
+sourceHash: 117cf2adbc858f08352a9a233b8727abd5f26e3e
 ---
 
 In the early afternoon of 29 January 1915, off [Walney Island](https://pl.wikipedia.org/wiki/Walney), which shelters the port of [Barrow-in-Furness](https://pl.wikipedia.org/wiki/Barrow-in-Furness) in north-west England, the German submarine [*U-21*](https://pl.wikipedia.org/wiki/SM_U-21_(1913)) surfaced. Her crew opened fire with the deck gun on the airship shed standing on the island. It was the first foray by German submarines into the [Irish Sea](https://pl.wikipedia.org/wiki/Morze_Irlandzkie), which U-boats had not reached until then.
 
 ## Through the English Channel
 
-*U-21* was commanded by Kapitänleutnant Otto Hersing, who in September 1914 had [sunk the cruiser *Pathfinder*](/zatoniecie-hms-pathfinder), the first warship sunk by a torpedo fired from a submarine. Around 22 January Hersing set out on a new patrol. Instead of going round the British Isles to the north, he took his boat through the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) and the English Channel, and then headed north into the Irish Sea.
+*U-21* was commanded by Kapitänleutnant Otto Hersing, who in September 1914 had [sunk the cruiser *Pathfinder*](/zatoniecie-hms-pathfinder), the first warship sunk by a torpedo fired from a submarine. Around 22 January Hersing set out on a new patrol. Instead of going round the British Isles to the north, he took his boat through the [Strait of Dover](/miejsca/ciesnina-kaletanska) and the English Channel, and then headed north into the Irish Sea.
 
 ## A few shots
 

@@ -2,7 +2,7 @@
 title: German airship off the English coast
 summary: On 15 December 1914 a German airship was sighted off the Humber estuary. It was the first confirmed presence of an enemy aircraft off the English coast.
 source: niemiecki-sterowiec-u-wybrzezy-anglii
-sourceHash: b790eeb9ed173abfaf3b149d047022710d2a8b14
+sourceHash: 423ea1594bbc0904c2a1ff19e527582c49285bad
 brief:
   - "On the afternoon of 15 December 1914 a German airship was sighted near the Humber estuary. Of many reports of enemy aircraft over England, it was the only one that could be confirmed."
   - "The British had feared Zeppelins for years. From September 1914 Churchill's Admiralty ran air defence, and from 1 October London was under a blackout."
@@ -27,7 +27,7 @@ The defence of the country itself was modest. When the navy took over the task, 
 
 ## The Imperial Navy's airships
 
-The Germans, however, were far from the raids the British feared. The Imperial Navy began the war with only one airship, L 3. By mid-December it had received more, L 4 to L 7, and L 8 was to be handed over a few days later. [Peter Strasser](/postacie/peter-strasser), head of the navy's airship service, was in favour of attacks on England, but the navy's airships served above all for reconnaissance over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), looking out for British warships for the fleet. The army's airships, several of which had already been lost in August, operated over the land front.
+The Germans, however, were far from the raids the British feared. The Imperial Navy began the war with only one airship, L 3. By mid-December it had received more, L 4 to L 7, and L 8 was to be handed over a few days later. [Peter Strasser](/postacie/peter-strasser), head of the navy's airship service, was in favour of attacks on England, but the navy's airships served above all for reconnaissance over the [North Sea](/miejsca/morze-polnocne), looking out for British warships for the fleet. The army's airships, several of which had already been lost in August, operated over the land front.
 
 Kaiser [Wilhelm II](/postacie/wilhelm-ii) also stood in the way. Although German public opinion had been demanding the bombing of England since the start of the war, the Kaiser for a long time refused to allow raids on the British Isles, and above all on London. According to many historians, he feared for the capital's historic buildings and for the lives of his relatives in the British royal family. The naval command obtained permission for attacks on military targets in England only at the beginning of January 1915, and London itself was to remain excluded from the raids for some time longer.
 

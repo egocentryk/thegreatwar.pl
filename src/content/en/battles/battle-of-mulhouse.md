@@ -9,7 +9,7 @@ sides:
     commanders: [Josias von Heeringen]
 result: German victory. The French withdrew from Mulhouse, keeping a small strip of southern Alsace.
 source: bitwa-pod-miluza
-sourceHash: 1274d5505fda4d07a328ef0a1601360bc8449383
+sourceHash: 8fbe948bf147b8c265a5b6ad8cd5a654de55d7f9
 ---
 
 The [Battle of Mulhouse](https://pl.wikipedia.org/wiki/Bitwa_pod_Miluzą_(1914)) was the first French offensive of the First World War. In August 1914 French troops twice advanced from the [Belfort](https://pl.wikipedia.org/wiki/Belfort) area into southern [Alsace](https://pl.wikipedia.org/wiki/Alzacja), then German territory, and twice took [Mulhouse](https://pl.wikipedia.org/wiki/Miluza), the largest town in that part of the province. The first time a German counter-attack drove them out after two days. The second time they captured the town after heavy fighting, but had to give it up without a fight when defeats in Lorraine and Belgium forced the high command to pull troops away to the north.
@@ -46,7 +46,7 @@ The Army of Alsace set out on 14 August, together with the great offensive of th
 
 Pau did not feel strong enough to attack the fortified German positions near Colmar. From 20 August his army held a line from Altkirch through Mulhouse to the area south of Colmar, and in the Vosges it held the passes. Preparations for a further advance were cut short by news from other fronts. On 20 August the offensive in Lorraine collapsed, and a few days later the French were defeated in the Ardennes and on the Sambre. According to the Michelin guide, a further advance became impossible from 23 August.
 
-Joffre needed troops in the north. The main body of VII Corps was moved by rail to the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)), to the new army being formed there. The 8th Cavalry Division was attached to the First Army, and the 57th and 66th Reserve Divisions remained in front of Belfort. The weakened units left Mulhouse and the Sundgau without a fight and withdrew to the line of the Vosges crests and the outworks of the fortress. As early as 24 August German airmen were reporting that the French were leaving the Mulhouse area. The German Landwehr returned to the abandoned town without a fight. This time it was to hold it until the end of the war.
+Joffre needed troops in the north. The main body of VII Corps was moved by rail to the [Somme](/miejsca/somma), to the new army being formed there. The 8th Cavalry Division was attached to the First Army, and the 57th and 66th Reserve Divisions remained in front of Belfort. The weakened units left Mulhouse and the Sundgau without a fight and withdrew to the line of the Vosges crests and the outworks of the fortress. As early as 24 August German airmen were reporting that the French were leaving the Mulhouse area. The German Landwehr returned to the abandoned town without a fight. This time it was to hold it until the end of the war.
 
 ## Casualties
 

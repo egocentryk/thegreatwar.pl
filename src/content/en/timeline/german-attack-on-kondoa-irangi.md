@@ -2,10 +2,10 @@
 title: German attack on Kondoa Irangi
 summary: On the night of 9–10 May 1916 Lettow-Vorbeck's askaris stormed van Deventer's positions at Kondoa Irangi several times. Every attack was beaten off.
 source: niemiecki-atak-na-kondoa-irangi
-sourceHash: 92aabdc8e870398522a070052584b87a110477ee
+sourceHash: dfe30bfaff4303b79d9b73c3a449471576b594e6
 ---
 
-On the evening of 9 May 1916 the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) attacked General Jacob van Deventer's 2nd Division at Kondoa Irangi, in the central part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The fighting lasted until the early hours of 10 May and ended in a German defeat. The British chronology of the war places this attack under 9 and 10 June, but this is a month out: the British official history (Hordern), the South African official history and General [Jan Smuts's](/postacie/jan-smuts) report of October 1916 all date it to the night of 9–10 May.
+On the evening of 9 May 1916 the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) attacked General Jacob van Deventer's 2nd Division at Kondoa Irangi, in the central part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). The fighting lasted until the early hours of 10 May and ended in a German defeat. The British chronology of the war places this attack under 9 and 10 June, but this is a month out: the British official history (Hordern), the South African official history and General [Jan Smuts's](/postacie/jan-smuts) report of October 1916 all date it to the night of 9–10 May.
 
 ## Lettow-Vorbeck changes front
 

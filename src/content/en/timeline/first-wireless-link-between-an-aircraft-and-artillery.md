@@ -2,10 +2,10 @@
 title: First wireless link between an aircraft and artillery
 summary: In September 1914 Royal Flying Corps airmen over the Aisne first directed artillery fire by wireless. It was the beginning of aerial artillery observation.
 source: pierwsza-lacznosc-radiowa-samolotu-z-artyleria
-sourceHash: 52bd60741e7fc51869472058eadf3662b4414ee9
+sourceHash: 4100f333db9ca2d28aff9f0f3fe23a81b47f2fa4
 ---
 
-The British chronology of the war gives 22 September 1914 as the date of the first use of [wireless telegraphy](https://pl.wikipedia.org/wiki/Telegrafia) for communication between an aircraft and the [artillery](https://pl.wikipedia.org/wiki/Artyleria). It was achieved by airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the British Army's air arm, during the fighting on the River [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)).
+The British chronology of the war gives 22 September 1914 as the date of the first use of [wireless telegraphy](https://pl.wikipedia.org/wiki/Telegrafia) for communication between an aircraft and the [artillery](https://pl.wikipedia.org/wiki/Artyleria). It was achieved by airmen of the [Royal Flying Corps](/sily-zbrojne/royal-flying-corps), the British Army's air arm, during the fighting on the River [Aisne](/miejsca/aisne).
 
 From the first weeks of the war British airmen had carried out reconnaissance and, as during the [retreat from Mons](/pierwszy-lotniczy-patrol-nad-odwrotem-brytyjczykow), supplied the command with valuable information about enemy movements. Reports, however, had to be delivered after landing or dropped to the ground in small bags. On the Aisne, where the front had frozen into trenches and the artillery of both sides was firing at unseen targets behind the hills, rapid communication from the air was needed.
 

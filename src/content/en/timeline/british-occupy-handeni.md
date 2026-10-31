@@ -2,10 +2,10 @@
 title: British occupy Handeni
 summary: On 18–19 June 1916 Smuts's troops entered Handeni without a fight. Major Kraut's Germans escaped encirclement and fell back along the road to Morogoro.
 source: brytyjczycy-zajmuja-handeni
-sourceHash: 1e6b6debee2b3bdfa765683774e6ccc40ed9a5a2
+sourceHash: 2f024936e9e689663e537f1f9b04bec8547b99c6
 ---
 
-In mid-June 1916 the troops of General [Jan Smuts](/postacie/jan-smuts) occupied [Handeni](https://pl.wikipedia.org/wiki/Handeni), an important road junction in the north-eastern part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The sources differ by one day. Smuts's report of October 1916 and the British chronology of the war give 19 June. The British official history (Hordern) writes that the column of Brigadier-General S. H. Sheppard entered Handeni without a fight as early as 10.30 a.m. on 18 June. Either way, the Germans abandoned the settlement without a battle.
+In mid-June 1916 the troops of General [Jan Smuts](/postacie/jan-smuts) occupied [Handeni](https://pl.wikipedia.org/wiki/Handeni), an important road junction in the north-eastern part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). The sources differ by one day. Smuts's report of October 1916 and the British chronology of the war give 19 June. The British official history (Hordern) writes that the column of Brigadier-General S. H. Sheppard entered Handeni without a fight as early as 10.30 a.m. on 18 June. Either way, the Germans abandoned the settlement without a battle.
 
 ## Across the waterless steppe
 

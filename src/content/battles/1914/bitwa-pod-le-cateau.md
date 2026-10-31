@@ -33,7 +33,7 @@ Po stronie brytyjskiej walczyło około 40 tysięcy żołnierzy: według zestawi
 
 ## Przebieg
 
-Brytyjczycy stanęli wzdłuż drogi z Le Cateau do [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). Prawe skrzydło przy Le Cateau trzymała 5 Dywizja, centrum w rejonie [Caudry](https://pl.wikipedia.org/wiki/Caudry) 3 Dywizja, a lewe skrzydło 4 Dywizja. Pozycje zajmowano w nocy i w pośpiechu, bez porządnych okopów i przygotowanych dróg odwrotu.
+Brytyjczycy stanęli wzdłuż drogi z Le Cateau do [Cambrai](/miejsca/cambrai). Prawe skrzydło przy Le Cateau trzymała 5 Dywizja, centrum w rejonie [Caudry](https://pl.wikipedia.org/wiki/Caudry) 3 Dywizja, a lewe skrzydło 4 Dywizja. Pozycje zajmowano w nocy i w pośpiechu, bez porządnych okopów i przygotowanych dróg odwrotu.
 
 Walka zaczęła się wczesnym rankiem na prawym skrzydle. Brytyjska artyleria stała w odkrytym terenie, tuż za piechotą, i strzelała na wprost do nacierających kolumn. Niemcy odpowiadali [ogniem pośrednim](https://pl.wikipedia.org/wiki/Ogień_pośredni) z ukrytych stanowisk. Pod Le Cateau o wyniku walki przesądziła artyleria, a nie karabinowy ogień piechoty, jak trzy dni wcześniej pod Mons. Brytyjskie baterie ponosiły ogromne straty, ale zadawały je także niemieckiej piechocie.
 

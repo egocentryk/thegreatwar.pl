@@ -2,10 +2,10 @@
 title: Second siege of Przemyśl begins
 summary: On 10 November 1914 the Russians again closed the ring around the fortress of Przemyśl. Some 130,000 soldiers and thousands of civilians were encircled.
 source: poczatek-drugiego-oblezenia-przemysla
-sourceHash: bc7ac800521ba41b5b33b5e2e87873cc403aa384
+sourceHash: df5e9c2de7be532e06f21ef6a0fd804159508556
 ---
 
-On 10 November 1914, according to the British chronology of the war, the second siege of the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) began. Barely a month after its [relief](/odsiecz-przemysla), Russian troops once again surrounded the fortress on the [San](https://pl.wikipedia.org/wiki/San). The encirclement took several days, so dates in the literature differ. Polish studies usually begin the second siege on 5 November, and other sources on 8 or 9 November, when the ring closed completely.
+On 10 November 1914, according to the British chronology of the war, the second siege of the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) began. Barely a month after its [relief](/odsiecz-przemysla), Russian troops once again surrounded the fortress on the [San](/miejsca/san). The encirclement took several days, so dates in the literature differ. Polish studies usually begin the second siege on 5 November, and other sources on 8 or 9 November, when the ring closed completely.
 
 ## The army leaves again
 

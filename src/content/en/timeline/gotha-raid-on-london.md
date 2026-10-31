@@ -2,7 +2,7 @@
 title: Gotha raid on London
 summary: On 13 June 1917 fourteen Gothas bombed the City and East End by day, killing 162 people, 18 of them children at a Poplar school. No bomber was lost.
 source: nalot-gothow-na-londyn
-sourceHash: 5f128f4d231ef17a2dd0ed868f72fc005c86d46b
+sourceHash: 99e806619c0ae45573fd5a80e1f6a98b795cc02c
 brief:
   - "Shortly before noon on 13 June 1917 fourteen Gotha G.IV bombers bombed the City of London, the docklands and the East End in broad daylight."
   - "According to the British official history 162 people were killed and 432 injured. It was the deadliest single air raid on Britain of the whole war."
@@ -15,7 +15,7 @@ Shortly before noon on Wednesday 13 June 1917 a formation of fourteen twin-engin
 
 ## The third attempt
 
-The bomber squadron Kagohl 3, commanded by Captain Ernst Brandenburg, had already twice tried to reach London. On 25 May it [turned back in front of cloud](/nalot-na-folkestone) and bombed Folkestone, and on 5 June it [flew straight for Sheerness](/nalot-na-sheerness). On 12 June the squadron's meteorologist at last forecast a clear day over the capital. The Gothas were fitted with extra fuel tanks so that they would not have to land on the Belgian coast on the way. On the morning of 13 June, according to Ian Castle, the British historian of the raids, 20 machines took off from airfields near [Ghent](https://pl.wikipedia.org/wiki/Gandawa). Two soon turned back with engine trouble.
+The bomber squadron Kagohl 3, commanded by Captain Ernst Brandenburg, had already twice tried to reach London. On 25 May it [turned back in front of cloud](/nalot-na-folkestone) and bombed Folkestone, and on 5 June it [flew straight for Sheerness](/nalot-na-sheerness). On 12 June the squadron's meteorologist at last forecast a clear day over the capital. The Gothas were fitted with extra fuel tanks so that they would not have to land on the Belgian coast on the way. On the morning of 13 June, according to Ian Castle, the British historian of the raids, 20 machines took off from airfields near [Ghent](/miejsca/gandawa). Two soon turned back with engine trouble.
 
 At about 10.45 a.m. one Gotha left the formation and dropped five bombs on [Margate](https://pl.wikipedia.org/wiki/Margate), injuring four people. Over Foulness Island three more broke away. Two bombed Shoeburyness, and the third flew over [Greenwich](https://pl.wikipedia.org/wiki/Greenwich), according to Castle probably on photographic reconnaissance. The main formation, fourteen Gothas flying in a diamond, headed straight for London. The roar of the engines was heard in many places ten minutes before the aircraft appeared. Many people came out of their homes and offices into the streets to watch the unusual sight, not thinking it was the enemy.
 

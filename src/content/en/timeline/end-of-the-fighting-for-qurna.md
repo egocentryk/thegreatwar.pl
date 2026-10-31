@@ -2,10 +2,10 @@
 title: End of the fighting for Qurna
 summary: On 8 December 1914 Indian troops crossed the Tigris above Qurna and threatened to cut off the garrison. That night Turkish envoys came to surrender.
 source: koniec-walk-o-al-kurne
-sourceHash: e5bb5aa81d408f2c1ff37ed8dce616aa5ad71a38
+sourceHash: 385479f13ba000e96c794a1a263176db5703d6f2
 ---
 
-On 8 December 1914 the fighting for [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) was decided. British and Indian troops crossed the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) above the town and placed themselves across the Turkish garrison's line of retreat. It was the last day of the fighting that had begun [on 4 December](/poczatek-walk-o-al-kurne). That same night the Turks sent envoys to the British.
+On 8 December 1914 the fighting for [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) was decided. British and Indian troops crossed the [Tigris](/miejsca/tygrys) above the town and placed themselves across the Turkish garrison's line of retreat. It was the last day of the fighting that had begun [on 4 December](/poczatek-walk-o-al-kurne). That same night the Turks sent envoys to the British.
 
 The day before, Brigadier-General Charles Fry, who had arrived with reinforcements, had retaken from the Turks the village of Muzaira on the left bank of the Tigris and reached the river opposite Qurna. During the night news came that some 1,500 Turks had left northwards by steamer, while about 800 men with four guns remained in the town. Fry decided to force the river.
 

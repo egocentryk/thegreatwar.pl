@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-O świcie 6 listopada 1915 roku nigeryjscy żołnierze generała Fredericka Cunliffe'a wdarli się na szczyt góry Banyo w [Kamerunie Niemieckim](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Nad niemieckimi szańcami powiewała biała flaga, ale większość obrońców już ich nie zajmowała. Tak skończył się trzydniowy [szturm na górę](/atak-na-gore-banyo), którą Niemcy uważali za praktycznie niezdobytą.
+O świcie 6 listopada 1915 roku nigeryjscy żołnierze generała Fredericka Cunliffe'a wdarli się na szczyt góry Banyo w [Kamerunie Niemieckim](/miejsca/kamerun). Nad niemieckimi szańcami powiewała biała flaga, ale większość obrońców już ich nie zajmowała. Tak skończył się trzydniowy [szturm na górę](/atak-na-gore-banyo), którą Niemcy uważali za praktycznie niezdobytą.
 
 Przez cały 5 listopada cztery kompanie Pułku Nigeryjskiego posuwały się w górę powoli, ale stale, obchodząc jeden kamienny murek po drugim. Według relacji H. C. O'Neilla z 1918 roku obrońcy spychali na nich kamienie, a trzem brytyjskim działom zaczynało brakować amunicji, zanim nadszedł nowy zapas. O zmierzchu wszystkie kompanie leżały już około 90 metrów poniżej szczytu. O 17.00 niemiecki dowódca uznał, że pozycji nie da się utrzymać, i rozkazał załodze przebijać się przez pierścień oblegających małymi grupami, z tragarzami niosącymi bagaż i amunicję. Wszyscy mieli się potem zebrać w Ngambe, daleko na południu. Około 19.00 nad górą rozpętała się gwałtowna burza z piorunami i pod jej osłoną Niemcy i ich afrykańscy żołnierze ostrożnie zeszli zboczami, mijając nacierające kompanie.
 

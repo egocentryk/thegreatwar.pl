@@ -2,10 +2,10 @@
 title: Battle of the Złota Lipa ends
 summary: On 30 August 1914 the Russians broke the Austro-Hungarian defence on the Gniła Lipa. Brudermann's army fell back beyond Lviv, opening the city to them.
 source: koniec-bitwy-nad-zlota-lipa
-sourceHash: 089d30051b17ea43a713f39fe2337d6a3698701c
+sourceHash: 6f78cdd43b7a287e0774faa86763c7e5919a6e4c
 ---
 
-On 30 August 1914 the Battle of the Złota Lipa came to an end; in English-language literature it is often called the first battle of Lemberg. The Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow) broke the defence of the Austro-Hungarian 3rd Army of General Rudolf von Brudermann on the river [Gniła Lipa](https://pl.wikipedia.org/wiki/Gniła_Lipa). The defeated Austrians withdrew beyond [Lviv](https://pl.wikipedia.org/wiki/Lwów), the capital of Galicia.
+On 30 August 1914 the Battle of the Złota Lipa came to an end; in English-language literature it is often called the first battle of Lemberg. The Russian armies of Generals [Nikolai Ruzsky](/postacie/nikolaj-ruzski) and [Aleksei Brusilov](/postacie/aleksiej-brusilow) broke the defence of the Austro-Hungarian 3rd Army of General Rudolf von Brudermann on the river [Gniła Lipa](https://pl.wikipedia.org/wiki/Gniła_Lipa). The defeated Austrians withdrew beyond [Lviv](/miejsca/lwow), the capital of Galicia.
 
 ## The second line of defence
 

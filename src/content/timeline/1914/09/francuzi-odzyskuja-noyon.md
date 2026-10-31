@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod datą 21 września 1914 roku odzyskanie przez Francuzów [Noyon](https://pl.wikipedia.org/wiki/Noyon), miasta nad Oise, które [Niemcy zajęli pod koniec sierpnia](/niemcy-zajmuja-noyon). Według części francuskich opracowań tego dnia oddziały francuskie rzeczywiście weszły do miasta. Nie było to jednak trwałe odzyskanie Noyon. Francuzi nie zdołali się w nim utrzymać, a miasto pozostało w rękach niemieckich przez kolejne dwa i pół roku.
+Brytyjska chronologia wojny odnotowuje pod datą 21 września 1914 roku odzyskanie przez Francuzów [Noyon](/miejsca/noyon), miasta nad Oise, które [Niemcy zajęli pod koniec sierpnia](/niemcy-zajmuja-noyon). Według części francuskich opracowań tego dnia oddziały francuskie rzeczywiście weszły do miasta. Nie było to jednak trwałe odzyskanie Noyon. Francuzi nie zdołali się w nim utrzymać, a miasto pozostało w rękach niemieckich przez kolejne dwa i pół roku.
 
 ## Obejść niemieckie skrzydło
 

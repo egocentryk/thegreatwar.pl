@@ -2,12 +2,12 @@
 title: Radoslavov resigns
 summary: On 21 June 1918 Tsar Ferdinand appointed Malinov's government. Radoslavov's cabinet, which took Bulgaria into the war and failed over Dobruja, stood down.
 source: dymisja-radoslawowa
-sourceHash: be376a8cdffae0e52f6de6fa2865ee22c0bff78f
+sourceHash: 633ca6bc65c96921a9a9e9d490ae243124eac54d
 ---
 
 On 21 June 1918 Tsar [Ferdinand I](/postacie/ferdynand-i-koburg), by decree no. 4, appointed a new Bulgarian government headed by [Aleksandar Malinov](/postacie/aleksandyr-malinow). The decree was published the next day in the official gazette, *Darzhaven vestnik*. That day the cabinet of [Vasil Radoslavov](/postacie/wasil-radoslawow), prime minister since July 1913 and also foreign minister, formally came to an end. The resignation itself had come a few days earlier. The German politician and former Vice-Chancellor [Karl Helfferich](https://pl.wikipedia.org/wiki/Karl_Helfferich) wrote in his memoirs of "the middle of June", some German works give 16 June, and the British chronology of the war recorded Radoslavov's resignation and Malinov's appointment under 18 June. Bulgaria was by then already using the Gregorian calendar, so these dates need no conversion.
 
-The departing politician was the man who had bound the country to Germany. Radoslavov, leader of the [Liberals known as the Radoslavists](https://pl.wikipedia.org/wiki/Partia_Liberalna_(radosławiści)), had kept both sides guessing for a year, and in September 1915 he signed in Sofia the [alliance with Germany](/traktat-sojuszniczy-w-sofii) that brought Bulgaria into the war. In the first years this brought great gains: Serbian Macedonia, eastern Serbia and, after the 1916 campaign, Dobruja. In the spring of 1918, however, the prime minister's prestige was wrecked precisely on [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża).
+The departing politician was the man who had bound the country to Germany. Radoslavov, leader of the [Liberals known as the Radoslavists](https://pl.wikipedia.org/wiki/Partia_Liberalna_(radosławiści)), had kept both sides guessing for a year, and in September 1915 he signed in Sofia the [alliance with Germany](/traktat-sojuszniczy-w-sofii) that brought Bulgaria into the war. In the first years this brought great gains: Serbian Macedonia, eastern Serbia and, after the 1916 campaign, Dobruja. In the spring of 1918, however, the prime minister's prestige was wrecked precisely on [Dobruja](/miejsca/dobrudza).
 
 ## Dobruja and the Turks
 

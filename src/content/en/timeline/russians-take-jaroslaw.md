@@ -2,10 +2,10 @@
 title: Russians take Jarosław
 summary: On 21 September 1914 the Austrians left the Jarosław bridgehead, their last on the east bank of the San. The Russians took the town; Przemyśl was under siege.
 source: rosjanie-zajmuja-jaroslaw
-sourceHash: 6c2b1ed6d3a00588e17bb13d766d2923ca2653ca
+sourceHash: 72d1b5179ba39706714d8ad5cbdd8203e717d188
 ---
 
-On 21 September 1914 the Austro-Hungarian Third Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) abandoned the fortified bridgehead at [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), the last position the Dual Monarchy's army still held on the east bank of the [San](https://pl.wikipedia.org/wiki/San). The town passed into Russian hands.
+On 21 September 1914 the Austro-Hungarian Third Army of General [Svetozar Boroević](/postacie/svetozar-boroevic) abandoned the fortified bridgehead at [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)), the last position the Dual Monarchy's army still held on the east bank of the [San](/miejsca/san). The town passed into Russian hands.
 
 ## A bridgehead on the San
 

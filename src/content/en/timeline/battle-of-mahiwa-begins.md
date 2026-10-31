@@ -2,10 +2,10 @@
 title: Battle of Mahiwa begins
 summary: On 16 October 1917 Lettow-Vorbeck struck the Nigerian Brigade at Mahiwa. Two of its battalions were surrounded and a third, sent to help, was driven back.
 source: poczatek-bitwy-pod-mahiwa
-sourceHash: 5d052f7f0673398b59c5c11be143b5572398d450
+sourceHash: 89ec08e047b83e5fc2c14c34936ec02e5c6906f3
 ---
 
-The British official chronology of the war records under 16 October 1917 the beginning of the "action of Nyangao" in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The participants called it the Battle of Mahiwa, after a place a few kilometres from Nyangao on the road from [Lindi](https://pl.wikipedia.org/wiki/Lindi) to Masasi, and counted it from the day before. As early as 15 October the Nigerian Brigade, which after a ten-day march through waterless hills had reached the Namupa mission, attacked Mahiwa from the north, while the columns from Lindi advanced from the east on Mtama. The real battle broke out, however, on 16 October, when [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) arrived on the battlefield with his reserve. By the evening two Nigerian battalions were surrounded on the Mahiwa river, and a third, which was coming to their aid with ammunition and food, had been driven back with heavy losses.
+The British official chronology of the war records under 16 October 1917 the beginning of the "action of Nyangao" in [German East Africa](/bitwy/kampania-wschodnioafrykanska). The participants called it the Battle of Mahiwa, after a place a few kilometres from Nyangao on the road from [Lindi](https://pl.wikipedia.org/wiki/Lindi) to Masasi, and counted it from the day before. As early as 15 October the Nigerian Brigade, which after a ten-day march through waterless hills had reached the Namupa mission, attacked Mahiwa from the north, while the columns from Lindi advanced from the east on Mtama. The real battle broke out, however, on 16 October, when [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) arrived on the battlefield with his reserve. By the evening two Nigerian battalions were surrounded on the Mahiwa river, and a third, which was coming to their aid with ammunition and food, had been driven back with heavy losses.
 
 ## The first day
 

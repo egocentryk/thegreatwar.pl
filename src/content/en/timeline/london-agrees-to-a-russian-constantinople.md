@@ -2,10 +2,10 @@
 title: London agrees to a Russian Constantinople
 summary: On 12 March 1915 Britain agreed that Russia would get Constantinople and the Straits after the war. In return it wanted, inter alia, Persia's neutral zone.
 source: londyn-godzi-sie-na-rosyjski-konstantynopol
-sourceHash: 1c6db012c9d5cacf683199332d35920b1c78e353
+sourceHash: f1602eafaa220646b3c4ec83368c8969f8d993f6
 ---
 
-On 12 March 1915, or 27 February by the Julian calendar, the British ambassador in Petrograd, George Buchanan, handed the Russian Foreign Minister [Sergey Sazonov](/postacie/siergiej-sazonow) his government's reply to the [Russian demand of 4 March](/rosja-zada-konstantynopola). Britain agreed that after a victorious war Russia would receive [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol), both shores of the Straits and the territories Sazonov had listed. The consent was not, however, unconditional.
+On 12 March 1915, or 27 February by the Julian calendar, the British ambassador in Petrograd, George Buchanan, handed the Russian Foreign Minister [Sergey Sazonov](/postacie/siergiej-sazonow) his government's reply to the [Russian demand of 4 March](/rosja-zada-konstantynopola). Britain agreed that after a victorious war Russia would receive [Constantinople](/miejsca/konstantynopol), both shores of the Straits and the territories Sazonov had listed. The consent was not, however, unconditional.
 
 ## A reversal of tradition
 

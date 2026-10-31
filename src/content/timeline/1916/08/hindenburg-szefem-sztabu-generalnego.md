@@ -31,7 +31,7 @@ Według relacji z otoczenia cesarza Wilhelm II przyjął tę wiadomość jak kat
 
 ## Narada w Pszczynie
 
-28 sierpnia Lyncker zatelefonował do kwatery Hindenburga w [Brześciu](https://pl.wikipedia.org/wiki/Brześć) i przekazał, że cesarz wzywa feldmarszałka i Ludendorffa do Pszczyny. Hindenburg wspominał, że jedynym wyjaśnieniem, jakie usłyszał, były słowa: „Sytuacja jest poważna!”. Spodziewał się krótkiej narady, więc zabrał tylko najpotrzebniejsze rzeczy. Po południu obaj generałowie wyjechali z Brześcia. Ludendorff pisał później, że nigdy już nie wrócili na front wschodni.
+28 sierpnia Lyncker zatelefonował do kwatery Hindenburga w [Brześciu](/miejsca/brzesc) i przekazał, że cesarz wzywa feldmarszałka i Ludendorffa do Pszczyny. Hindenburg wspominał, że jedynym wyjaśnieniem, jakie usłyszał, były słowa: „Sytuacja jest poważna!”. Spodziewał się krótkiej narady, więc zabrał tylko najpotrzebniejsze rzeczy. Po południu obaj generałowie wyjechali z Brześcia. Ludendorff pisał później, że nigdy już nie wrócili na front wschodni.
 
 Do Pszczyny przyjechali 29 sierpnia około dziesiątej rano. Na dworcu czekał na nich Lyncker i to od niego dowiedzieli się o swoich nowych stanowiskach. Przed zamkiem cesarz powitał Hindenburga jako szefa Sztabu Generalnego Armii Polowej, a Ludendorffa jako pierwszego generalnego kwatermistrza. Ludendorffowi zaproponowano najpierw tytuł „drugiego szefa sztabu”, ale go odrzucił, bo uważał, że szef sztabu może być tylko jeden. Zażądał za to, by miał współodpowiedzialność za wszystkie decyzje, i otrzymał takie zapewnienie. Hindenburg wspominał, że przy przekazaniu obowiązków Falkenhayn podał mu rękę ze słowami: „Niech Bóg pomoże panu i naszej ojczyźnie”.
 

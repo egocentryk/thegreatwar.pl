@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-16 lutego 1915 roku francuska kolumna dowodzona przez majora Miquelarda wkroczyła do [Oyem](https://pl.wikipedia.org/wiki/Oyem), niemieckiego posterunku na południu [Kamerunu](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Według brytyjskiej oficjalnej historii kampanii Niemcy opuścili miasto tego samego dnia, nie podejmując walki. Niektóre opracowania francuskie podają datę 17 lutego.
+16 lutego 1915 roku francuska kolumna dowodzona przez majora Miquelarda wkroczyła do [Oyem](https://pl.wikipedia.org/wiki/Oyem), niemieckiego posterunku na południu [Kamerunu](/miejsca/kamerun). Według brytyjskiej oficjalnej historii kampanii Niemcy opuścili miasto tego samego dnia, nie podejmując walki. Niektóre opracowania francuskie podają datę 17 lutego.
 
 ## Utracone ziemie Gabonu
 

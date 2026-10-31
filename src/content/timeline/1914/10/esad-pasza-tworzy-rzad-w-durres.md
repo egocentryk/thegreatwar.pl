@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Na początku października 1914 roku do [Durrës](https://pl.wikipedia.org/wiki/Durrës), tymczasowej stolicy Albanii, wkroczył [Esad Pasza Toptani](/postacie/esad-pasza-toptani). Zaledwie miesiąc po tym, jak [kraj opuścił książę Wilhelm zu Wied](/wilhelm-wied-opuszcza-albanie), dawny minister wojny wrócił z wygnania i stanął na czele nowego rządu. Brytyjska chronologia wojny notuje utworzenie tego rządu pod 4 października. Według innych źródeł Esad zajął Durrës do 3 października, a jako premier sprawował władzę od 5 października.
+Na początku października 1914 roku do [Durrës](/miejsca/durres), tymczasowej stolicy Albanii, wkroczył [Esad Pasza Toptani](/postacie/esad-pasza-toptani). Zaledwie miesiąc po tym, jak [kraj opuścił książę Wilhelm zu Wied](/wilhelm-wied-opuszcza-albanie), dawny minister wojny wrócił z wygnania i stanął na czele nowego rządu. Brytyjska chronologia wojny notuje utworzenie tego rządu pod 4 października. Według innych źródeł Esad zajął Durrës do 3 października, a jako premier sprawował władzę od 5 października.
 
 ## Powrót z wygnania
 
@@ -21,6 +21,6 @@ Z serbską pomocą Esad zebrał w okolicach Dibry kilka tysięcy zbrojnych i rus
 
 ## Między mocarstwami
 
-Rząd Esada był od początku zależny od zagranicy. Serbia i Włochy wspierały go, bo każde z tych państw liczyło na wpływy w Albanii. Pod koniec października Włosi zajęli wyspę Sazan, a w grudniu wylądowali we [Wlorze](https://pl.wikipedia.org/wiki/Wlora). Wśród Albańczyków Esad miał wielu przeciwników. Muzułmańscy powstańcy, którzy wcześniej walczyli z Wiedem, szybko zwrócili się także przeciwko niemu. W 1915 roku ograniczyli jego władzę niemal do samego Durrës, a ich bunt stłumiła dopiero serbska interwencja w czerwcu.
+Rząd Esada był od początku zależny od zagranicy. Serbia i Włochy wspierały go, bo każde z tych państw liczyło na wpływy w Albanii. Pod koniec października Włosi zajęli wyspę Sazan, a w grudniu wylądowali we [Wlorze](/miejsca/wlora). Wśród Albańczyków Esad miał wielu przeciwników. Muzułmańscy powstańcy, którzy wcześniej walczyli z Wiedem, szybko zwrócili się także przeciwko niemu. W 1915 roku ograniczyli jego władzę niemal do samego Durrës, a ich bunt stłumiła dopiero serbska interwencja w czerwcu.
 
 W 1915 roku Esad związał się ostatecznie z Ententą. Według części źródeł pod koniec tego roku wypowiedział wojnę Austro-Węgrom. Gdy zimą 1915 roku rozbita armia serbska wycofywała się przez Albanię ku wybrzeżu, jego ludzie jej pomagali. W lutym 1916 roku, gdy do Durrës zbliżały się wojska austro-węgierskie, Esad opuścił kraj. Resztę wojny spędził głównie w [Salonikach](/miejsca/saloniki), gdzie utrzymywał namiastkę rządu na wygnaniu. W 1920 roku w Paryżu zastrzelił go młody albański nacjonalista [Avni Rustemi](https://pl.wikipedia.org/wiki/Avni_Rustemi).

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 4 listopada 1914 roku, że wojska rosyjskie przekroczyły granicę turecką w Armenii i zajęły Azap. W rzeczywistości granicę przekroczyły już kilka dni wcześniej, w nocy z 1 na 2 listopada, zaraz po tym, jak [Rosja wypowiedziała Turcji wojnę](/rosja-wypowiada-wojne-turcji). 4 listopada był dniem, w którym Rosjanie osiągnęli cel pierwszego etapu działań: wzgórza w rejonie wsi Azap, na drodze z [Sarykamyszu](https://pl.wikipedia.org/wiki/Sarıkamış) do [Erzurum](https://pl.wikipedia.org/wiki/Erzurum).
+Brytyjska chronologia wojny odnotowuje pod 4 listopada 1914 roku, że wojska rosyjskie przekroczyły granicę turecką w Armenii i zajęły Azap. W rzeczywistości granicę przekroczyły już kilka dni wcześniej, w nocy z 1 na 2 listopada, zaraz po tym, jak [Rosja wypowiedziała Turcji wojnę](/rosja-wypowiada-wojne-turcji). 4 listopada był dniem, w którym Rosjanie osiągnęli cel pierwszego etapu działań: wzgórza w rejonie wsi Azap, na drodze z [Sarykamyszu](https://pl.wikipedia.org/wiki/Sarıkamış) do [Erzurum](/miejsca/erzurum).
 
 Na granicę ruszył oddział sarykamyski, zbudowany wokół 1 Kaukaskiego Korpusu Armii generała Georgija Bergmanna. Główne siły szły doliną [Araksu](https://pl.wikipedia.org/wiki/Araks) w stronę Köprüköy, brygada na prawym skrzydle kierowała się na północ, a kozacy na południe, do doliny Eleşkirt. Jeszcze dalej na południe oddział erywański, wspierany przez ochotników ormiańskich, maszerował na [Doğubayazıt](https://pl.wikipedia.org/wiki/Doğubayazıt) u stóp Araratu.
 

@@ -2,7 +2,7 @@
 title: Battle of the Hills begins
 summary: On 17 April 1917 the French 4th Army attacked the Moronvilliers hills east of Reims. Zouaves took Mont Sans Nom, but Cornillet held out.
 source: poczatek-bitwy-o-wzgorza
-sourceHash: 4c1ba49e7de16a308438e5d3ffc3605b6db3d91e
+sourceHash: dcac37ad260ba831c9085ff28c88ad1eeb7cac61
 brief:
   - "On 17 April 1917 General François Anthoine's French 4th Army attacked the Moronvilliers massif in Champagne, east of Reims. It was a subsidiary blow of the Nivelle Offensive."
   - "From the chalk hills, held since the autumn of 1914, the Germans overlooked the French rear. The defence was deep, and under Mont Cornillet and Mont Perthois lay tunnels the French did not know about."
@@ -10,7 +10,7 @@ brief:
   - "By evening the French had passed through the first position and taken more than 2,000 prisoners, but nowhere broke the front. Mont Cornillet fell only on 20 May."
 ---
 
-On 17 April 1917 at 4.45 a.m., still in darkness, in rain and snow, the French 4th Army of General [François Anthoine](/postacie/francois-anthoine) attacked the Moronvilliers massif in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](https://pl.wikipedia.org/wiki/Reims). It was the second, subsidiary blow of the [Nivelle Offensive](/bitwy/ofensywa-nivellea), delivered the day after the 5th and 6th Armies [went forward against the Chemin des Dames](/poczatek-ofensywy-nivellea). By evening the French had passed through the first German position, taken Mont Sans Nom and reached the summits of Mont Blond and Mont Cornillet. They took more than 2,000 prisoners, but nowhere broke the front, and on the western wing the attack stalled in the very first hours. The French called the fighting that began then the Battle of the Hills (bataille des Monts).
+On 17 April 1917 at 4.45 a.m., still in darkness, in rain and snow, the French 4th Army of General [François Anthoine](/postacie/francois-anthoine) attacked the Moronvilliers massif in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](/miejsca/reims). It was the second, subsidiary blow of the [Nivelle Offensive](/bitwy/ofensywa-nivellea), delivered the day after the 5th and 6th Armies [went forward against the Chemin des Dames](/poczatek-ofensywy-nivellea). By evening the French had passed through the first German position, taken Mont Sans Nom and reached the summits of Mont Blond and Mont Cornillet. They took more than 2,000 prisoners, but nowhere broke the front, and on the western wing the attack stalled in the very first hours. The French called the fighting that began then the Battle of the Hills (bataille des Monts).
 
 ## Hills above the plain
 

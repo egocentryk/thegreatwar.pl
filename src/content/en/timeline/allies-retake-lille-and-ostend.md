@@ -2,10 +2,10 @@
 title: Allies retake Lille and Ostend
 summary: On 17 October 1918 the Germans gave up Ostend, Douai and Lille unopposed. After four years the Belgian port and the largest city of northern France were free.
 source: alianci-odbijaja-lille-i-ostende
-sourceHash: ddfb03d5ce7f8a23df4e0cd96ff9a9c57377d310
+sourceHash: 37717b8b0da5bf621e52fda72a855a97c9400be6
 ---
 
-On 17 October 1918 the German armies, falling back along the whole front from the North Sea to Douai, gave up without a fight three towns they had occupied since the autumn of 1914: the Belgian port of [Ostend](https://pl.wikipedia.org/wiki/Ostenda) and the French towns of [Douai](https://pl.wikipedia.org/wiki/Douai) and [Lille](https://pl.wikipedia.org/wiki/Lille). The retreat was forced by Allied victories on both flanks. In Flanders the [offensive of King Albert's army group](/bitwy/bitwa-pod-kortrijk) had opened three days earlier, and in the south the British had broken the Hindenburg Line and were nearing Le Cateau. On 16 October the German Supreme Army Command agreed to the withdrawal of the armies standing between the coast and Douai to a new defensive line, the Hermann Position.
+On 17 October 1918 the German armies, falling back along the whole front from the North Sea to Douai, gave up without a fight three towns they had occupied since the autumn of 1914: the Belgian port of [Ostend](/miejsca/ostenda) and the French towns of [Douai](/miejsca/douai) and [Lille](https://pl.wikipedia.org/wiki/Lille). The retreat was forced by Allied victories on both flanks. In Flanders the [offensive of King Albert's army group](/bitwy/bitwa-pod-kortrijk) had opened three days earlier, and in the south the British had broken the Hindenburg Line and were nearing Le Cateau. On 16 October the German Supreme Army Command agreed to the withdrawal of the armies standing between the coast and Douai to a new defensive line, the Hermann Position.
 
 ## Ostend
 

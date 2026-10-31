@@ -9,7 +9,7 @@ sides:
     commanders: [Friedrich Kress von Kressenstein, İsmet Bey]
 result: British victory. Beersheba and most of its wells fell into British hands the same day. The British took almost 2,000 prisoners and 15 guns.
 source: bitwa-pod-beer-szewa
-sourceHash: e2ffd57e1cb46263f0564c98a50872bbceebcd2e
+sourceHash: af7fa9c03545a6c1168800d9be8a5f604b9a311c
 brief:
   - "The Battle of Beersheba, fought on 31 October 1917, opened General Edmund Allenby's autumn offensive in Palestine and broke the six-month deadlock on the Gaza – Beersheba line."
   - "Allenby decided to turn the Turkish line from the east. Water was the key: the army could fight on only if the town fell on the first day and its wells were captured intact."
@@ -58,7 +58,7 @@ The British lost relatively few men at Beersheba. According to the official hist
 
 ## Significance
 
-The capture of Beersheba on the first day opened the way for Allenby to turn the Turkish line. Kress, who had not believed İsmet's reports and had sent him no reinforcements, then made another mistake: he decided that the British would take the road through Hebron to Jerusalem, and moved part of his reserves from Gaza to the east. The wells of Beersheba were not enough for all the horses, however, and the rainwater in the nearby wadis quickly dried up, so the next blow had to be postponed for several days. In the meantime there was heavy fighting for Tel el Khuweilfe north of the town. On 6 November XX Corps broke through the positions at Tel esh Sheria, on the night of 6/7 November the Turks abandoned Gaza, and on 9 December [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima) surrendered.
+The capture of Beersheba on the first day opened the way for Allenby to turn the Turkish line. Kress, who had not believed İsmet's reports and had sent him no reinforcements, then made another mistake: he decided that the British would take the road through Hebron to Jerusalem, and moved part of his reserves from Gaza to the east. The wells of Beersheba were not enough for all the horses, however, and the rainwater in the nearby wadis quickly dried up, so the next blow had to be postponed for several days. In the meantime there was heavy fighting for Tel el Khuweilfe north of the town. On 6 November XX Corps broke through the positions at Tel esh Sheria, on the night of 6/7 November the Turks abandoned Gaza, and on 9 December [Jerusalem](/miejsca/jerozolima) surrendered.
 
 Falls considered that the charge of the 4th Brigade had an enormous effect on the morale of both sides. The British cavalry commanders became convinced that on this front a mounted attack could succeed even against entrenched infantry, and yeomen with swords repeated it in November at Huj and El Mughar. According to Gullett, the Turkish commander reported on the night after the battle that his men had fled because they were "terrified of the Australian cavalry".
 

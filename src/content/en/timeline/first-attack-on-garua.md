@@ -2,10 +2,10 @@
 title: First attack on Garua
 summary: On the night of 29–30 August 1914 British troops from Nigeria attacked the German forts at Garua in Kamerun. The attack was repulsed and its commander killed.
 source: pierwszy-atak-na-garue
-sourceHash: 1ac20d3e7bff54d22bfab67cf6dd91920baf4404
+sourceHash: 789f4e285b2ff75233e2b0384ecfeade1df717d2
 ---
 
-During the night of 29–30 August 1914 British troops from Nigeria attacked the German post at Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)) in the north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). The attack ended in defeat for the attackers. It was the first major battle of the Kamerun campaign.
+During the night of 29–30 August 1914 British troops from Nigeria attacked the German post at Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)) in the north of [German Kamerun](/miejsca/kamerun). The attack ended in defeat for the attackers. It was the first major battle of the Kamerun campaign.
 
 ## A fortress on the Benue
 

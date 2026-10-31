@@ -2,10 +2,10 @@
 title: Battle of Gródek and Rawa Ruska begins
 summary: On 8 September 1914 Conrad launched the Austro-Hungarian armies at Lviv via Gródek Jagielloński. The Russian Fifth Army threatened them from the north.
 source: poczatek-bitwy-pod-grodkiem-i-rawa-ruska
-sourceHash: 5def3d1f559f8855b12f84d3c0cfd08c9cfd7107
+sourceHash: 384c8b1a818f4cf2c473777ee36e88a7a0e0d712
 ---
 
-On 8 September 1914 the Austro-Hungarian armies went over to the attack eastwards, towards [Lviv](https://pl.wikipedia.org/wiki/Lwów), lost five days earlier. The main fighting took place on the line of the river [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca) and the ponds near [Gródek Jagielloński](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)), while from the north, around [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska), the Russian Fifth Army was pressing on the Austrians' threatened flank. It was the last great attempt to reverse the outcome of the [Battle of Galicia](/bitwy/bitwa-galicyjska).
+On 8 September 1914 the Austro-Hungarian armies went over to the attack eastwards, towards [Lviv](/miejsca/lwow), lost five days earlier. The main fighting took place on the line of the river [Wereszyca](https://pl.wikipedia.org/wiki/Wereszyca) and the ponds near [Gródek Jagielloński](https://pl.wikipedia.org/wiki/Gródek_(obwód_lwowski)), while from the north, around [Rawa Ruska](https://pl.wikipedia.org/wiki/Rawa_Ruska), the Russian Fifth Army was pressing on the Austrians' threatened flank. It was the last great attempt to reverse the outcome of the [Battle of Galicia](/bitwy/bitwa-galicyjska).
 
 ## Names of the battle
 

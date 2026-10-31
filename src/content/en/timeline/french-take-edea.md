@@ -2,10 +2,10 @@
 title: French take Edea
 summary: On 26 October 1914 Colonel Mayer's French troops took Edea on the Sanaga in Kamerun. The British helped them, and the Germans withdrew into the interior.
 source: francuzi-zajmuja-edee
-sourceHash: 7fc13f1cf8ca5ce2a6e6667318183a3a2b0b9281
+sourceHash: 1c490aa2fd9eccc51e6bf092f08eeb882c1b8654
 ---
 
-On the morning of 26 October 1914 Allied troops occupied [Edea](https://pl.wikipedia.org/wiki/Edéa), a town on the [Sanaga](https://pl.wikipedia.org/wiki/Sanaga) river in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). It lay on the railway running from Duala into the interior of the colony, and near it the railway crossed the Sanaga.
+On the morning of 26 October 1914 Allied troops occupied [Edea](https://pl.wikipedia.org/wiki/Edéa), a town on the [Sanaga](https://pl.wikipedia.org/wiki/Sanaga) river in [German Kamerun](/miejsca/kamerun). It lay on the railway running from Duala into the interior of the colony, and near it the railway crossed the Sanaga.
 
 After [the capture of Duala](/alianci-zdobywaja-duale) and [the taking of Yabassi](/brytyjczycy-zdobywaja-yabassi), General Charles Dobell, commander of the Anglo-French expedition, turned against Edea. He planned an attack from three directions. The main French column of Colonel Mayer, made up of Senegalese tirailleurs, set out around 20 October along the railway from the bridge at Japoma. A second column went by the Nyong river to Dehane and from there marched north. The third, the British river flotilla of Commander L. W. Braithwaite, was sent up the Sanaga. Dobell later wrote that getting the vessels up this difficult river was a remarkable feat.
 

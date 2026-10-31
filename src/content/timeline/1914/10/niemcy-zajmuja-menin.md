@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska kronika wojny odnotowuje pod datą 9 października 1914 roku, z zastrzeżeniem, że jest to data przybliżona, zajęcie przez Niemców [Menin](https://pl.wikipedia.org/wiki/Menen) (po flamandzku Menen). To niewielkie miasto w zachodniej Flandrii leży nad rzeką [Leie](https://pl.wikipedia.org/wiki/Leie) (fr. Lys), która tworzy w tym miejscu granicę z Francją. Przez Menin prowadziła jedna z głównych dróg do [Ypres](/miejsca/ypres), oddalonego o około 20 kilometrów na północny zachód.
+Brytyjska kronika wojny odnotowuje pod datą 9 października 1914 roku, z zastrzeżeniem, że jest to data przybliżona, zajęcie przez Niemców [Menin](https://pl.wikipedia.org/wiki/Menen) (po flamandzku Menen). To niewielkie miasto w zachodniej Flandrii leży nad rzeką [Leie](/miejsca/leie) (fr. Lys), która tworzy w tym miejscu granicę z Francją. Przez Menin prowadziła jedna z głównych dróg do [Ypres](/miejsca/ypres), oddalonego o około 20 kilometrów na północny zachód.
 
 ## Kawaleria nad Leie
 

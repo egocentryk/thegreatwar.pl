@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-30 września 1914 roku, według brytyjskiej kroniki wojny, wojska francuskie ponownie zajęły [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), stolicę [Artois](https://pl.wikipedia.org/wiki/Artois). Miasto nie było wtedy w rękach niemieckich, więc nie chodziło o jego odbicie, lecz o powrót regularnego wojska po miesiącu, w którym Arras pozostawało praktycznie bez obrony.
+30 września 1914 roku, według brytyjskiej kroniki wojny, wojska francuskie ponownie zajęły [Arras](/miejsca/arras), stolicę [Artois](https://pl.wikipedia.org/wiki/Artois). Miasto nie było wtedy w rękach niemieckich, więc nie chodziło o jego odbicie, lecz o powrót regularnego wojska po miesiącu, w którym Arras pozostawało praktycznie bez obrony.
 
 ## Miasto bez wojska
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-16 maja 1915 roku, wczesnym rankiem, do [Jarosławia](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)) weszły pierwsze oddziały niemieckiego Korpusu Gwardii. W nocy rosyjski XXIV Korpus, po dwóch dniach [walk o przyczółek](/panstwa-centralne-zdobywaja-jaroslaw), wycofał się na wschodni brzeg [Sanu](https://pl.wikipedia.org/wiki/San) i podpalił za sobą most. Jeszcze tego samego dnia Gwardia i austro-węgierski VI Korpus zaczęły przeprawiać się przez rzekę na pontonach. Brytyjska chronologia wojny uznaje 16 maja za pierwszy dzień bitwy nad Sanem, w której armie państw centralnych walczyły o przejście rzeki, a Rosjanie próbowali je zatrzymać.
+16 maja 1915 roku, wczesnym rankiem, do [Jarosławia](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)) weszły pierwsze oddziały niemieckiego Korpusu Gwardii. W nocy rosyjski XXIV Korpus, po dwóch dniach [walk o przyczółek](/panstwa-centralne-zdobywaja-jaroslaw), wycofał się na wschodni brzeg [Sanu](/miejsca/san) i podpalił za sobą most. Jeszcze tego samego dnia Gwardia i austro-węgierski VI Korpus zaczęły przeprawiać się przez rzekę na pontonach. Brytyjska chronologia wojny uznaje 16 maja za pierwszy dzień bitwy nad Sanem, w której armie państw centralnych walczyły o przejście rzeki, a Rosjanie próbowali je zatrzymać.
 
 ## Rubież, która miała wytrzymać
 

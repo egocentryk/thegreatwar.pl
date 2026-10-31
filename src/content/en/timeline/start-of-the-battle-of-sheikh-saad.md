@@ -2,10 +2,10 @@
 title: Start of the Battle of Sheikh Saad
 summary: On 6 January 1916 Younghusband's vanguard attacked the Turkish trenches at Sheikh Saad on both banks of the Tigris. It stalled and the Turks were reinforced.
 source: poczatek-bitwy-pod-szejk-saad
-sourceHash: d474331a963f5d29b2f89a869342a67fe8aa0549
+sourceHash: 01a817ef8231e87c11c40954ee17e250cb2e19c9
 ---
 
-On 6 January 1916 on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), a few kilometres downstream from the settlement of Sheikh Saad, the troops marching to relieve besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut) ran into strong Ottoman defences for the first time. The advanced guard of the Tigris Corps, General George Younghusband's 7th Division, had [set out from Ali al-Gharbi](/poczatek-pierwszej-proby-odsieczy-al-kutu) two days earlier. It was only to pin the enemy down until the rest of General Fenton Aylmer's corps arrived, but it attacked on both banks of the river. By evening the attack had stalled a few hundred metres short of the Turkish trenches.
+On 6 January 1916 on the [Tigris](/miejsca/tygrys), a few kilometres downstream from the settlement of Sheikh Saad, the troops marching to relieve besieged [Kut](/miejsca/al-kut) ran into strong Ottoman defences for the first time. The advanced guard of the Tigris Corps, General George Younghusband's 7th Division, had [set out from Ali al-Gharbi](/poczatek-pierwszej-proby-odsieczy-al-kutu) two days earlier. It was only to pin the enemy down until the rest of General Fenton Aylmer's corps arrived, but it attacked on both banks of the river. By evening the attack had stalled a few hundred metres short of the Turkish trenches.
 
 ## Orders and doubts
 

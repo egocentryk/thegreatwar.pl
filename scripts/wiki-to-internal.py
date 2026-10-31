@@ -47,6 +47,14 @@ ALIASES = {
     "Kras_(płaskowyż)": "bitwy-nad-isonzo",
     # The peninsula: its war is the campaign (links before it keep pl.wiki).
     "Gallipoli_(półwysep)": "kampania-gallipolijska",
+    # Colonies and a mountain whose war is the campaign (expansion-plan.md C,
+    # places batch 3); the city whose war is the battle; a village of the
+    # Somme battlefield.
+    "Niemiecka_Afryka_Wschodnia": "kampania-wschodnioafrykanska",
+    "Brytyjska_Afryka_Wschodnia": "kampania-wschodnioafrykanska",
+    "Kilimandżaro": "kampania-wschodnioafrykanska",
+    "Verdun_(Moza)": "bitwa-pod-verdun",
+    "Thiepval": "bitwa-nad-somma",
 }
 
 # pl.wikipedia title -> our timeline article about that event, for events

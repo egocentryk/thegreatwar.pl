@@ -2,10 +2,10 @@
 title: Trepov proclaims Russia's right to Constantinople
 summary: On 2 December 1916 Premier Alexander Trepov revealed in the Duma that the Allies had granted Russia Constantinople and the Straits. It was coolly received.
 source: trepow-oglasza-prawo-rosji-do-konstantynopola
-sourceHash: 997f6d103cf440836c05c7b7baa85a93280c9b64
+sourceHash: d6683d1bfdf09589275947a8f3f8dd5e4c719548
 ---
 
-On 2 December 1916 (19 November in the Julian calendar) the new Chairman of the Council of Ministers, that is, the prime minister of Russia, [Alexander Trepov](https://pl.wikipedia.org/wiki/Aleksandr_Triepow), appeared in the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) for the first time and read out his government's programme. Its most resounding sentence concerned war aims: Russia had concluded an agreement with its allies which established "in the most definite manner" its right to the Straits and [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol). The secret agreement of the spring of 1915 was made public for the first time, and, as the prime minister stressed, in agreement with the allies. In the same speech Trepov responded to the [Act of 5 November](/akt-5-listopada): he announced the restoration of a free Poland in indissoluble union with Russia.
+On 2 December 1916 (19 November in the Julian calendar) the new Chairman of the Council of Ministers, that is, the prime minister of Russia, [Alexander Trepov](https://pl.wikipedia.org/wiki/Aleksandr_Triepow), appeared in the [State Duma](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) for the first time and read out his government's programme. Its most resounding sentence concerned war aims: Russia had concluded an agreement with its allies which established "in the most definite manner" its right to the Straits and [Constantinople](/miejsca/konstantynopol). The secret agreement of the spring of 1915 was made public for the first time, and, as the prime minister stressed, in agreement with the allies. In the same speech Trepov responded to the [Act of 5 November](/akt-5-listopada): he announced the restoration of a free Poland in indissoluble union with Russia.
 
 ## Three attempts at the rostrum
 

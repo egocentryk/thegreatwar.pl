@@ -2,7 +2,7 @@
 title: Ottoman fleet attacks Russian ports
 summary: On 29 October 1914 Admiral Souchon's Ottoman warships shelled Russian Black Sea ports without a declaration of war. Turkey entered the war.
 source: turecka-flota-atakuje-rosje
-sourceHash: d2fc73e2934e1d26a4f3371403b5cc2690c1103f
+sourceHash: dc9d9b77850c5b89f5d89e30066b8a70a67b45fc
 brief:
   - "Before dawn on 29 October 1914 Ottoman warships shelled Russian Black Sea ports without a declaration of war: Odessa, Sevastopol, Feodosia and Novorossiysk. The raid was led by the German admiral Wilhelm Souchon."
   - "The Ottoman Empire had been secretly allied to Germany since August, but Grand Vizier Said Halim Pasha kept delaying entry into the war. Enver Pasha handed Souchon a secret order to attack, unknown to most of the government."
@@ -14,7 +14,7 @@ Before dawn on 29 October 1914 warships of the [Ottoman Empire](/kraje/imperium-
 
 ## The secret order
 
-Since the beginning of August the Ottoman Empire had been bound to Germany by a [secret alliance](/tajny-sojusz-niemiec-i-imperium-osmanskiego), yet the government in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) was still delaying its entry into the war. The Grand Vizier [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza) and some of the ministers wanted to stay neutral for as long as possible, pleading that the army was unprepared. Berlin pressed ever harder, and the Minister of War, [Enver Pasha](/postacie/enver-pasza), was in favour of war. Of the plans under consideration, one promised immediate results: an attack on the Russian [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska).
+Since the beginning of August the Ottoman Empire had been bound to Germany by a [secret alliance](/tajny-sojusz-niemiec-i-imperium-osmanskiego), yet the government in [Constantinople](/miejsca/konstantynopol) was still delaying its entry into the war. The Grand Vizier [Said Halim Pasha](https://pl.wikipedia.org/wiki/Said_Halim_Pasza) and some of the ministers wanted to stay neutral for as long as possible, pleading that the army was unprepared. Berlin pressed ever harder, and the Minister of War, [Enver Pasha](/postacie/enver-pasza), was in favour of war. Of the plans under consideration, one promised immediate results: an attack on the Russian [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska).
 
 A few days before the raid Enver handed Souchon written orders. The surviving document is dated 25 October, although some sources put the decision a day or several days earlier. The whole fleet was to "manoeuvre" in the Black Sea and attack the Russian fleet when a favourable opportunity arose. An attached secret order was even more explicit: the Turkish fleet was to win command of the Black Sea by force, seek out the Russian fleet and attack it wherever it found it, without a declaration of war. Neither the Grand Vizier nor most of the government knew of the order.
 

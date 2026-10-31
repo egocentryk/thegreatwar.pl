@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 8 na 9 października 1915 roku niemiecka załoga oblężona na górze nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)), na dalekiej północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), wykonała udany wypad. Jej żołnierze uchwycili się grzbietu Gauala, sąsiedniego wzniesienia, na którym wcześniej stały posterunki oblegających. Według brytyjskiej historii oficjalnej utrzymali się tam mimo wszystkich prób wyparcia ich aż do 6 grudnia.
+W nocy z 8 na 9 października 1915 roku niemiecka załoga oblężona na górze nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)), na dalekiej północy [Kamerunu Niemieckiego](/miejsca/kamerun), wykonała udany wypad. Jej żołnierze uchwycili się grzbietu Gauala, sąsiedniego wzniesienia, na którym wcześniej stały posterunki oblegających. Według brytyjskiej historii oficjalnej utrzymali się tam mimo wszystkich prób wyparcia ich aż do 6 grudnia.
 
 ## Oblężenie po wrześniowym szturmie
 

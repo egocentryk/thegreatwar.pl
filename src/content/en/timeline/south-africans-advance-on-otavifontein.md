@@ -2,10 +2,10 @@
 title: South Africans advance on Otavifontein
 summary: On 18–19 June 1915 Botha led the Union forces north from around Karibib towards the last Germans at Otavi. On 19 June Brits took Omaruru.
 source: poludniowoafrykanczycy-ruszaja-na-otavifontein
-sourceHash: 15f757d7d20cb3acc45ca2e878a9b545e8a7bb5c
+sourceHash: 7d8cab5ee75de3d8706f048a78ea6e7306e54465
 ---
 
-A British chronology of the war records under 19 June 1915 the start of the last offensive by the forces of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) in [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). The objective was the springs of Otavifontein near [Otavi](https://pl.wikipedia.org/wiki/Otavi), around which the last German forces had gathered. According to the South African official history the march north began a day earlier, on 18 June. On 19 June General Coen Brits's 1st Mounted Brigade occupied [Omaruru](https://pl.wikipedia.org/wiki/Omaruru), the first sizeable town on the way, which the Germans had abandoned without a fight.
+A British chronology of the war records under 19 June 1915 the start of the last offensive by the forces of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) in [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The objective was the springs of Otavifontein near [Otavi](https://pl.wikipedia.org/wiki/Otavi), around which the last German forces had gathered. According to the South African official history the march north began a day earlier, on 18 June. On 19 June General Coen Brits's 1st Mounted Brigade occupied [Omaruru](https://pl.wikipedia.org/wiki/Omaruru), the first sizeable town on the way, which the Germans had abandoned without a fight.
 
 ## Six weeks' pause
 

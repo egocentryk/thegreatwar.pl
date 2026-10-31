@@ -2,10 +2,10 @@
 title: Bulgarians leave Dobruja
 summary: In early December 1918 the last Bulgarian troops withdrew from Dobruja. Romanian administration returned to Constanța, and the British guarded the ports.
 source: bulgarzy-opuszczaja-dobrudze
-sourceHash: 46fe99be523409ac76c75033e9a93d60a0b892f4
+sourceHash: 76664b542b6ee269c1440cd136ab69db87cbde9c
 ---
 
-The British chronology of the war records under 3 December 1918 that the last Bulgarian troops left [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). The land between the lower [Danube](https://pl.wikipedia.org/wiki/Dunaj) and the Black Sea had been occupied since the autumn of 1916, when German, Bulgarian and Turkish troops under August von Mackensen [entered it from the south](/panstwa-centralne-wkraczaja-do-dobrudzy). At the beginning of January 1917 the last Russians [withdrew](/koniec-walk-w-dobrudzy) across the Danube. Under the [Treaty of Bucharest](/pokoj-w-bukareszcie) of May 1918 Bulgaria regained southern Dobruja, lost to Romania in 1913, and received a strip of land further north, while the rest of the region, up to the Danube delta, came under the joint rule of the four Central Powers. The Bulgarians, who had hoped for the whole of Dobruja, regarded this as a defeat.
+The British chronology of the war records under 3 December 1918 that the last Bulgarian troops left [Dobruja](/miejsca/dobrudza). The land between the lower [Danube](https://pl.wikipedia.org/wiki/Dunaj) and the Black Sea had been occupied since the autumn of 1916, when German, Bulgarian and Turkish troops under August von Mackensen [entered it from the south](/panstwa-centralne-wkraczaja-do-dobrudzy). At the beginning of January 1917 the last Russians [withdrew](/koniec-walk-w-dobrudzy) across the Danube. Under the [Treaty of Bucharest](/pokoj-w-bukareszcie) of May 1918 Bulgaria regained southern Dobruja, lost to Romania in 1913, and received a strip of land further north, while the rest of the region, up to the Danube delta, came under the joint rule of the four Central Powers. The Bulgarians, who had hoped for the whole of Dobruja, regarded this as a defeat.
 
 ## Armistice and dispute
 

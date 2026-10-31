@@ -2,7 +2,7 @@
 title: Russia and Italy declare war on Bulgaria
 summary: On 19 October 1915 Nicholas II's manifesto on war with Bulgaria, "betrayer of the Slav cause", was published. Italy also declared war on Bulgaria that day.
 source: rosja-i-wlochy-wypowiadaja-wojne-bulgarii
-sourceHash: 6ee10215fe9cb5b61076b291dc0298ce9963ae10
+sourceHash: c2a70695c8af57998f154c437871f2ce6b4c3316
 brief:
   - "On 19 October 1915 Nicholas II's manifesto on war with Bulgaria was published, and the government in Rome announced that Italy was at war with it. All the great powers of the Entente now stood against Bulgaria."
   - "The tsar called Bulgaria's attack on Serbia a betrayal of the Slav cause. He blamed \"the government of Ferdinand of Coburg\", which had yielded to German calculations and hostility towards the Serbs."
@@ -14,7 +14,7 @@ On 19 October 1915 [Russia](/kraje/rosja) and [Italy](/kraje/wlochy) joined the 
 
 ## The tsar's manifesto
 
-The manifesto was dated 5 October in the Julian calendar, which Russia then used, that is, 18 October in the Gregorian calendar. The tsar signed it at Stavka, the headquarters in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew), where since September he had [personally commanded the army](/mikolaj-ii-obejmuje-naczelne-dowodztwo). The next day, 6 (19) October, the text appeared in the official collection of laws and decrees. That is why most chronicles give the date as 19 October.
+The manifesto was dated 5 October in the Julian calendar, which Russia then used, that is, 18 October in the Gregorian calendar. The tsar signed it at Stavka, the headquarters in [Mogilev](/miejsca/mohylew), where since September he had [personally commanded the army](/mikolaj-ii-obejmuje-naczelne-dowodztwo). The next day, 6 (19) October, the text appeared in the official collection of laws and decrees. That is why most chronicles give the date as 19 October.
 
 It was one of the most personal documents of this war. "Treacherously prepared since the beginning of the war, and yet seemingly impossible, Bulgaria's betrayal of the Slav cause has been accomplished," the tsar proclaimed. "Bulgarian troops have attacked Our faithful ally Serbia, bleeding in the struggle with a stronger enemy." Russia and her allies, the manifesto went on, had warned "the government of Ferdinand of Coburg" against this fatal step, and the fulfilment of the Bulgarians' long-held aspirations, the annexation of [Macedonia](https://pl.wikipedia.org/wiki/Macedonia_(kraina_historyczna)), had been assured to them by another road, consistent with the interests of the Slav world. But "secret, selfish calculations suggested by the Germans and fratricidal hostility towards the Serbs" had prevailed. The manifesto did not call [Ferdinand](/postacie/ferdynand-i-koburg) tsar, only "Ferdinand of Coburg", recalling his German origins, and it laid the blame for the war on his government.
 

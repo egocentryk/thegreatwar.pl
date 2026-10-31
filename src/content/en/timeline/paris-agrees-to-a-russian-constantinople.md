@@ -2,10 +2,10 @@
 title: Paris agrees to a Russian Constantinople
 summary: In April 1915 France was the last to agree that Russia should receive Constantinople and the Straits after the war, on condition that its own plans were met.
 source: paryz-godzi-sie-na-rosyjski-konstantynopol
-sourceHash: 3ebabef279ef94818babb8060a3686c8065800e5
+sourceHash: 5b69511176f19c97aefdfde5212477dd72fe4fa0
 ---
 
-The British chronology of the war records under 12 April 1915 that the French government informed the Russian government that it accepted Russia's claims to [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol). The documents of the Tsarist foreign ministry, published by the Soviet authorities in the 1920s, date this step two days earlier. On 10 April, that is 28 March in the Julian calendar then in use in Russia, the French embassy in Petrograd handed the Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), a note verbale in which France agreed to the Russian demands. Where the later date in the chronology came from could not be established.
+The British chronology of the war records under 12 April 1915 that the French government informed the Russian government that it accepted Russia's claims to [Constantinople](/miejsca/konstantynopol). The documents of the Tsarist foreign ministry, published by the Soviet authorities in the 1920s, date this step two days earlier. On 10 April, that is 28 March in the Julian calendar then in use in Russia, the French embassy in Petrograd handed the Foreign Minister, [Sergey Sazonov](/postacie/siergiej-sazonow), a note verbale in which France agreed to the Russian demands. Where the later date in the chronology came from could not be established.
 
 ## Consent on conditions
 

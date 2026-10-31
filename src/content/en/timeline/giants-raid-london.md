@@ -2,14 +2,14 @@
 title: Giants raid London
 summary: On the night of 7 March 1918 German giant bombers attacked London without moonlight. A bomb weighing a ton destroyed houses in Warrington Crescent.
 source: nalot-gigantow-na-londyn
-sourceHash: 5e3623a9f3f574e44c813aae024cd36142cfe91d
+sourceHash: df20c7547c502e113172e427628c8542322db0ae
 ---
 
 On the night of 7–8 March 1918 German bombers again attacked [London](https://pl.wikipedia.org/wiki/Londyn). This time only the so-called Giants (Riesenflugzeuge) came, the largest aircraft to fly over England during the war. The night was moonless. Since the autumn of 1917, when the German bombers [had switched to night attacks](/pierwszy-nocny-nalot-gothow-na-londyn), they had flown over England almost exclusively on bright nights, around the full moon, because moonlight helped the airmen find their way. That night the sky was lit only by the aurora borealis. In London 21 people were killed, and the most victims were claimed by a single bomb weighing a ton, which fell on a quiet residential street in [Maida Vale](https://pl.wikipedia.org/wiki/Maida_Vale).
 
 ## Giants from Ghent
 
-The Giants belonged to Riesenflugzeug-Abteilung 501, a squadron commanded by Captain Richard von Bentivegni. It was based on airfields near [Ghent](https://pl.wikipedia.org/wiki/Gandawa) in occupied Belgium. From September 1917 it had flown over England together with the Gothas, and sometimes on its own. Most of its machines were four-engined Zeppelin-Staaken R.VI biplanes with a wingspan of over 42 metres, built at Staaken near Berlin. Their construction had been begun by [Count Zeppelin](/smierc-ferdinanda-von-zeppelina) himself. They could carry about a ton of bombs, or if required a single bomb weighing 1,000 kilograms. The Giants dropped the first such bomb on London on 16 February 1918. It hit a wing of the veterans' hospital in Chelsea and killed the family of one of its officers.
+The Giants belonged to Riesenflugzeug-Abteilung 501, a squadron commanded by Captain Richard von Bentivegni. It was based on airfields near [Ghent](/miejsca/gandawa) in occupied Belgium. From September 1917 it had flown over England together with the Gothas, and sometimes on its own. Most of its machines were four-engined Zeppelin-Staaken R.VI biplanes with a wingspan of over 42 metres, built at Staaken near Berlin. Their construction had been begun by [Count Zeppelin](/smierc-ferdinanda-von-zeppelina) himself. They could carry about a ton of bombs, or if required a single bomb weighing 1,000 kilograms. The Giants dropped the first such bomb on London on 16 February 1918. It hit a wing of the veterans' hospital in Chelsea and killed the family of one of its officers.
 
 On the evening of 7 March six Giants took off. One turned back before reaching the English coast because of engine failure. According to H. A. Jones's British official history of the air war, of the remaining five three reached London, the fourth got as far as [Luton](https://pl.wikipedia.org/wiki/Luton), and the fifth flew no further than [Billericay](https://pl.wikipedia.org/wiki/Billericay) in [Essex](https://pl.wikipedia.org/wiki/Essex). The bombs of the aircraft that did not reach the capital fell mainly on fields. One damaged a hotel and several houses in [Herne Bay](https://pl.wikipedia.org/wiki/Herne_Bay) in Kent.
 

@@ -2,10 +2,10 @@
 title: Surrender of Tafel's column
 summary: On 28 November 1917, on the Rovuma, Captain Tafel's column, which had failed to reach Lettow-Vorbeck, surrendered. About 1,300 men gave themselves up.
 source: kapitulacja-oddzialu-tafla
-sourceHash: 42b47209a568807c1437ca53e8eb9c751e576016
+sourceHash: a7492ec54122d82d053a1a44fd43e26122e902af
 ---
 
-On 28 November 1917, on the northern bank of the Rovuma, in the valley of the Mwiti stream, the column of Captain Theodor Tafel laid down its arms. It was the second-largest part of the German Schutztruppe in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). For several weeks Tafel had been fighting his way from the west of the colony to join [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). When he reached the agreed area, it turned out that the main German force had already left and [crossed the Rovuma](/lettow-vorbeck-przekracza-rovume) into Mozambique. Without food and without news of Lettow-Vorbeck's fate, Tafel surrendered to the British, even though two days earlier he had beaten them in a skirmish.
+On 28 November 1917, on the northern bank of the Rovuma, in the valley of the Mwiti stream, the column of Captain Theodor Tafel laid down its arms. It was the second-largest part of the German Schutztruppe in [German East Africa](/bitwy/kampania-wschodnioafrykanska). For several weeks Tafel had been fighting his way from the west of the colony to join [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). When he reached the agreed area, it turned out that the main German force had already left and [crossed the Rovuma](/lettow-vorbeck-przekracza-rovume) into Mozambique. Without food and without news of Lettow-Vorbeck's fate, Tafel surrendered to the British, even though two days earlier he had beaten them in a skirmish.
 
 ## The march from Mahenge
 

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-W piątek 20 kwietnia 1917 roku o kwadrans po pierwszej po południu dyrektor gabinetu osmańskiego ministra spraw zagranicznych Şevki Bej przywiózł do ambasady Stanów Zjednoczonych w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol) notę ministra Ahmeda Nesimiego. Stwierdzała ona, że skoro ambasada zawiadomiła 8 kwietnia o stanie wojny między Stanami Zjednoczonymi a Cesarstwem Niemieckim, rząd osmański, sojusznik Niemiec, „jest zmuszony zerwać stosunki dyplomatyczne z rządem Stanów Zjednoczonych Ameryki, począwszy od dnia dzisiejszego”. Opiekę nad amerykańskimi interesami w [Imperium Osmańskim](/kraje/imperium-osmanskie) przejęło poselstwo szwedzkie. Tak skończyły się stosunki nawiązane w 1831 roku. Przywrócono je dopiero w 1927 roku, z nową, republikańską Turcją.
+W piątek 20 kwietnia 1917 roku o kwadrans po pierwszej po południu dyrektor gabinetu osmańskiego ministra spraw zagranicznych Şevki Bej przywiózł do ambasady Stanów Zjednoczonych w [Konstantynopolu](/miejsca/konstantynopol) notę ministra Ahmeda Nesimiego. Stwierdzała ona, że skoro ambasada zawiadomiła 8 kwietnia o stanie wojny między Stanami Zjednoczonymi a Cesarstwem Niemieckim, rząd osmański, sojusznik Niemiec, „jest zmuszony zerwać stosunki dyplomatyczne z rządem Stanów Zjednoczonych Ameryki, począwszy od dnia dzisiejszego”. Opiekę nad amerykańskimi interesami w [Imperium Osmańskim](/kraje/imperium-osmanskie) przejęło poselstwo szwedzkie. Tak skończyły się stosunki nawiązane w 1831 roku. Przywrócono je dopiero w 1927 roku, z nową, republikańską Turcją.
 
 ## Ambasador w gorączce
 

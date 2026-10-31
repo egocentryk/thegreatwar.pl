@@ -9,10 +9,10 @@ sides:
     commanders: [Gustav Zimmer]
 result: British victory. The Germans lost the Kingani, captured, and the Hedwig von Wissmann, sunk, and with them control of Lake Tanganyika.
 source: bitwa-na-jeziorze-tanganika
-sourceHash: 1b7a167c0efa1137d04630562706d5eb11a92ea8
+sourceHash: 12fc42c03bfd3883f962d032c8c5ea269734b7d5
 ---
 
-The Battle for Lake Tanganyika consisted of two small actions in which a British flotilla, brought from England across half of Africa, wrested control of Lake [Tanganyika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)) from the Germans. Since the beginning of the war German armed steamers had sailed unchallenged on this lake, more than 600 km long, which separated [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) from the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie). On 26 December 1915 two British motor boats, *Mimi* and *Toutou*, captured the German gunboat *Kingani*, and on 9 February 1916, together with the prize renamed *Fifi*, they sank a second, the *Hedwig von Wissmann*. Not a single Briton was killed in either action.
+The Battle for Lake Tanganyika consisted of two small actions in which a British flotilla, brought from England across half of Africa, wrested control of Lake [Tanganyika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)) from the Germans. Since the beginning of the war German armed steamers had sailed unchallenged on this lake, more than 600 km long, which separated [German East Africa](/bitwy/kampania-wschodnioafrykanska) from the [Belgian Congo](https://pl.wikipedia.org/wiki/Kongo_Belgijskie). On 26 December 1915 two British motor boats, *Mimi* and *Toutou*, captured the German gunboat *Kingani*, and on 9 February 1916, together with the prize renamed *Fifi*, they sank a second, the *Hedwig von Wissmann*. Not a single Briton was killed in either action.
 
 ## Name and dates
 

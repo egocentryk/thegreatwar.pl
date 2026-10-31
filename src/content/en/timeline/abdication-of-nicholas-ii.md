@@ -2,7 +2,7 @@
 title: Abdication of Nicholas II
 summary: Late on 15 March 1917 at Pskov Nicholas II gave up the throne for himself and his son in favour of his brother Michael. The next day Michael declined the crown.
 source: abdykacja-mikolaja-ii
-sourceHash: 618eb2161d74b1ee71dcdfeeaf52ce449744190b
+sourceHash: e713ad074fbfe0a4d099542642b67265f2d42999
 brief:
   - "On 15 March 1917, in the saloon car of the imperial train at Pskov, Nicholas II renounced the throne for himself and his twelve-year-old son Alexei, handing the crown to his brother, Grand Duke Michael."
   - "After the Petrograd garrison mutinied, the Tsar tried to return from Mogilev to Tsarskoye Selo, but his train was turned back. At Pskov General Ruzsky urged him to appoint a government responsible to the Duma."
@@ -15,7 +15,7 @@ On 15 March 1917 (2 March in the Julian calendar), in the saloon car of the impe
 
 ## The train that never arrived
 
-When the garrison in Petrograd mutinied on 12 March, the Tsar was at [General Headquarters](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew). He had been [Commander-in-Chief](/mikolaj-ii-obejmuje-naczelne-dowodztwo) since September 1915 and spent most of his time there. He rejected requests to appoint a government enjoying the confidence of the Duma, sent a detachment under General Nikolai Ivanov against the capital and decided to return to his family at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło), where his children were ill with measles. The imperial trains left Mogilev early in the morning of 13 March. That day in Petrograd [the Golitsyn government fell](/upadek-rzadu-golicyna), and the deputy Alexander Bublikov, who had taken over the Ministry of Communications on behalf of the Provisional Committee of the Duma, could follow every movement of the Tsar's train.
+When the garrison in Petrograd mutinied on 12 March, the Tsar was at [General Headquarters](https://pl.wikipedia.org/wiki/Stawka_Naczelnego_Dowódcy) in [Mogilev](/miejsca/mohylew). He had been [Commander-in-Chief](/mikolaj-ii-obejmuje-naczelne-dowodztwo) since September 1915 and spent most of his time there. He rejected requests to appoint a government enjoying the confidence of the Duma, sent a detachment under General Nikolai Ivanov against the capital and decided to return to his family at [Tsarskoye Selo](https://pl.wikipedia.org/wiki/Carskie_Sioło), where his children were ill with measles. The imperial trains left Mogilev early in the morning of 13 March. That day in Petrograd [the Golitsyn government fell](/upadek-rzadu-golicyna), and the deputy Alexander Bublikov, who had taken over the Ministry of Communications on behalf of the Provisional Committee of the Duma, could follow every movement of the Tsar's train.
 
 During the night of 13–14 March, at the station of Malaya Vishera, about 160 kilometres from the capital, the Tsar was told that the stations further on were in the hands of mutinous soldiers. The train turned back and by a roundabout route, through [Dno](https://pl.wikipedia.org/wiki/Dno_(obwód_pskowski)), headed for Pskov, where the headquarters of the [Northern Front](https://pl.wikipedia.org/wiki/Front_Północny_(Imperium_Rosyjskie)) was located. It arrived there on 14 March at about seven in the evening. The Tsar noted in his diary that it had not been possible to get through to Tsarskoye Selo, and added: "Shame and disgrace!" Cut off from General Headquarters and from his family, for nearly two days he had only intermittent telegraph communication.
 

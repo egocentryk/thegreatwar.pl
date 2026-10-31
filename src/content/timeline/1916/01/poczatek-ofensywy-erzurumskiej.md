@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 11 stycznia 1916 roku początek rosyjskiej ofensywy w kierunku twierdzy [Erzurum](https://pl.wikipedia.org/wiki/Erzurum) we wschodniej Anatolii. Według historii wojen kaukaskich W.E.D. Allena i Pawła Muratowa pierwsze natarcie ruszyło dzień wcześniej, 10 stycznia, a 11 stycznia walki trwały w najlepsze. W Rosji, która posługiwała się wtedy [kalendarzem juliańskim](/slownik/kalendarz-julianski), był to 28 i 29 grudnia 1915 roku, dlatego w rosyjskich źródłach ofensywa zaczyna się jeszcze w starym roku. Dowódca rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz), celowo wybrał ten moment: prawosławne Boże Narodzenie i Nowy Rok, w środku surowej zimy na Wyżynie Armeńskiej, gdy nikt nie spodziewał się żadnych działań.
+Brytyjska chronologia wojny notuje pod 11 stycznia 1916 roku początek rosyjskiej ofensywy w kierunku twierdzy [Erzurum](/miejsca/erzurum) we wschodniej Anatolii. Według historii wojen kaukaskich W.E.D. Allena i Pawła Muratowa pierwsze natarcie ruszyło dzień wcześniej, 10 stycznia, a 11 stycznia walki trwały w najlepsze. W Rosji, która posługiwała się wtedy [kalendarzem juliańskim](/slownik/kalendarz-julianski), był to 28 i 29 grudnia 1915 roku, dlatego w rosyjskich źródłach ofensywa zaczyna się jeszcze w starym roku. Dowódca rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)), generał [Nikołaj Judenicz](/postacie/nikolaj-judenicz), celowo wybrał ten moment: prawosławne Boże Narodzenie i Nowy Rok, w środku surowej zimy na Wyżynie Armeńskiej, gdy nikt nie spodziewał się żadnych działań.
 
 ## Wyścig z czasem
 

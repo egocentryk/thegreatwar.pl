@@ -2,10 +2,10 @@
 title: Sinking of the *Warilda*
 summary: On 3 August 1918 UC-49 torpedoed the ambulance transport Warilda in the Channel as she carried wounded from Le Havre. 123 people died.
 source: zatopienie-warildy
-sourceHash: 4d81a5a98088cb13cbb1ca0bd29d7b6df34c7356
+sourceHash: 99760696d87ee621fced95ce3928505b1bed0990
 ---
 
-On the night of 2–3 August 1918 the ambulance transport *Warilda*, under escort, was sailing from [Le Havre](https://pl.wikipedia.org/wiki/Hawr) to [Southampton](https://pl.wikipedia.org/wiki/Southampton) with wounded from the Western Front. At about 1.35 a.m., roughly halfway across the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), she was hit by a torpedo from the German minelaying submarine [UC-49](https://pl.wikipedia.org/wiki/SM_UC-49), commanded by Oberleutnant zur See Hans Kükenthal. According to uboat.net the ship sank about 32 nautical miles south-south-west of the Owers lightship. There were 801 people on board, including more than six hundred wounded. 123 people died. These are the figures given by the Australian War Memorial and uboat.net, though some studies give slightly different ones.
+On the night of 2–3 August 1918 the ambulance transport *Warilda*, under escort, was sailing from [Le Havre](/miejsca/hawr) to [Southampton](https://pl.wikipedia.org/wiki/Southampton) with wounded from the Western Front. At about 1.35 a.m., roughly halfway across the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), she was hit by a torpedo from the German minelaying submarine [UC-49](https://pl.wikipedia.org/wiki/SM_UC-49), commanded by Oberleutnant zur See Hans Kükenthal. According to uboat.net the ship sank about 32 nautical miles south-south-west of the Owers lightship. There were 801 people on board, including more than six hundred wounded. 123 people died. These are the figures given by the Australian War Memorial and uboat.net, though some studies give slightly different ones.
 
 ## A ship from Australia
 

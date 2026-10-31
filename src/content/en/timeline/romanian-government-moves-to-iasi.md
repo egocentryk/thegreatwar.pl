@@ -2,10 +2,10 @@
 title: Romanian government moves to Iași
 summary: In late November and early December 1916 the ministries, court and Allied legations left Bucharest for Iași. Brătianu's cabinet left on 3 December.
 source: rzad-rumunski-przenosi-sie-do-jass
-sourceHash: 6aaf2f0de523aff81b665be151a97d9b9b02663d
+sourceHash: 9ae5400c478f1745efbb2ae46292d1fdc75da502
 ---
 
-The British chronology of the war records under 1 December 1916 that the Romanian government moved from [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt) to [Iași](https://pl.wikipedia.org/wiki/Jassy), the old capital of [Moldavia](https://pl.wikipedia.org/wiki/Mołdawia_(kraina_historyczna)), more than 300 kilometres to the north-east, right by the border with Russia. The move did not take place in a single day, however. It lasted several weeks. In the last days of November and at the beginning of December the ministries, the banks and the legations of the Allied states left Bucharest. The cabinet of Prime Minister [Ion I. C. Brătianu](/postacie/ion-bratianu) left the capital only on 3 December, when it had lost the [Battle of the Argeș](/bitwy/bitwa-nad-argesem). In Romania, which kept time by the [Julian calendar](/slownik/kalendarz-julianski), 1 December was 18 November.
+The British chronology of the war records under 1 December 1916 that the Romanian government moved from [Bucharest](/miejsca/bukareszt) to [Iași](https://pl.wikipedia.org/wiki/Jassy), the old capital of [Moldavia](https://pl.wikipedia.org/wiki/Mołdawia_(kraina_historyczna)), more than 300 kilometres to the north-east, right by the border with Russia. The move did not take place in a single day, however. It lasted several weeks. In the last days of November and at the beginning of December the ministries, the banks and the legations of the Allied states left Bucharest. The cabinet of Prime Minister [Ion I. C. Brătianu](/postacie/ion-bratianu) left the capital only on 3 December, when it had lost the [Battle of the Argeș](/bitwy/bitwa-nad-argesem). In Romania, which kept time by the [Julian calendar](/slownik/kalendarz-julianski), 1 December was 18 November.
 
 ## The evacuation of the capital
 

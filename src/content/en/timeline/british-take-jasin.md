@@ -2,10 +2,10 @@
 title: British take Jasin
 summary: At the end of December 1914 Gen. Michael Tighe's troops cleared the Germans from the British East Africa border and took Jasin on the Umba river.
 source: brytyjczycy-zajmuja-jasin
-sourceHash: 8f5067efd0b186121e6a91e1ba0e0ac38ba77da6
+sourceHash: 573f5c08ec921584ca98ad85f6db158d8bec5cfc
 ---
 
-A British chronology of the war records under 21 December 1914 the occupation by British troops of Jasin, a German plantation just beyond the southern border of [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). That day the troops of Brigadier-General Michael Tighe crossed the border river Umba and occupied the settlement of Vanga, abandoned by the Germans. Jasin itself, lying only a few kilometres further on, already in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), was taken according to the British official history of the campaign only on Christmas Day, 25 December. Some older works even give the beginning of January 1915.
+A British chronology of the war records under 21 December 1914 the occupation by British troops of Jasin, a German plantation just beyond the southern border of [British East Africa](/bitwy/kampania-wschodnioafrykanska). That day the troops of Brigadier-General Michael Tighe crossed the border river Umba and occupied the settlement of Vanga, abandoned by the Germans. Jasin itself, lying only a few kilometres further on, already in [German East Africa](/bitwy/kampania-wschodnioafrykanska), was taken according to the British official history of the campaign only on Christmas Day, 25 December. Some older works even give the beginning of January 1915.
 
 ## A border without a master
 

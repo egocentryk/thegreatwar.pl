@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 12 na 13 marca 1915 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), kilka mil na północ od przylądka [Flamborough Head](https://pl.wikipedia.org/wiki/Flamborough_Head), potężna eksplozja rozerwała dziób szwedzkiego parowca Hanna. Statek zatonął w ciągu pół godziny, zginęło sześciu marynarzy. Brytyjska Admiralicja uznała, że Hanna została storpedowana bez ostrzeżenia, a brytyjska chronologia wojny nazywa ją pierwszym statkiem neutralnym zatopionym przez niemiecki okręt podwodny. Do dziś nie ma jednak pewności, czy był to atak U-Boota.
+W nocy z 12 na 13 marca 1915 roku na [Morzu Północnym](/miejsca/morze-polnocne), kilka mil na północ od przylądka [Flamborough Head](https://pl.wikipedia.org/wiki/Flamborough_Head), potężna eksplozja rozerwała dziób szwedzkiego parowca Hanna. Statek zatonął w ciągu pół godziny, zginęło sześciu marynarzy. Brytyjska Admiralicja uznała, że Hanna została storpedowana bez ostrzeżenia, a brytyjska chronologia wojny nazywa ją pierwszym statkiem neutralnym zatopionym przez niemiecki okręt podwodny. Do dziś nie ma jednak pewności, czy był to atak U-Boota.
 
 ## Węgiel na Wyspy Kanaryjskie
 

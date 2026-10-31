@@ -2,14 +2,14 @@
 title: First units of the British Expeditionary Force in France
 summary: On 7 August 1914 the first British units landed in France. The main body of the expeditionary force crossed the Channel over the following days.
 source: pierwsze-oddzialy-brytyjskiego-korpusu-ekspedycyjnego-we-francji
-sourceHash: b77b96a9ce59707897292a5c5f3f244b127d3c05
+sourceHash: a7bafceb7d92acdb08061c46c7010071e16e06eb
 ---
 
 Contemporary chronicles of the war record 7 August 1914 as the day on which the first units of the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) landed on the French coast. These were small parties sent ahead to prepare for the reception of the main body. The mass transport of the army across the [English Channel](https://pl.wikipedia.org/wiki/La_Manche) began a few days later and lasted until the middle of August.
 
 ## Preparations on the spot
 
-Before tens of thousands of soldiers with horses, guns and supplies could arrive in France, ports, depots, camps and rail transport had to be prepared. This was the task of the first units and staff officers. The main ports of disembarkation were [Le Havre](https://pl.wikipedia.org/wiki/Hawr), [Boulogne-sur-Mer](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) and [Rouen](https://pl.wikipedia.org/wiki/Rouen). The troops sailed mainly from [Southampton](https://pl.wikipedia.org/wiki/Southampton).
+Before tens of thousands of soldiers with horses, guns and supplies could arrive in France, ports, depots, camps and rail transport had to be prepared. This was the task of the first units and staff officers. The main ports of disembarkation were [Le Havre](/miejsca/hawr), [Boulogne-sur-Mer](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) and [Rouen](https://pl.wikipedia.org/wiki/Rouen). The troops sailed mainly from [Southampton](https://pl.wikipedia.org/wiki/Southampton).
 
 ## The crossing
 

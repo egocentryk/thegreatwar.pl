@@ -15,7 +15,7 @@ W nocy z 26 na 27 kwietnia 1917 roku kilka niemieckich torpedowców z Flandrii, 
 
 ## Po klęsce w cieśninie
 
-Tydzień wcześniej, [w nocy z 20 na 21 kwietnia](/starcie-swifta-i-broke-a), brytyjskie lidery Swift i Broke zatopiły w [Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) dwa niemieckie torpedowce. Po tej porażce okręty z Flandrii przestały zapuszczać się w głąb cieśniny i szukały łatwiejszych celów na jej obrzeżach. W nocy z 24 na 25 kwietnia ostrzelały [Dunkierkę](https://pl.wikipedia.org/wiki/Dunkierka) i zatopiły francuski niszczyciel Étendard, który zginął z całą załogą. Dwie noce później uderzyły na Ramsgate, port u wejścia na kotwicowisko Downs, gdzie gromadziły się statki płynące wzdłuż wybrzeża do Londynu i z powrotem.
+Tydzień wcześniej, [w nocy z 20 na 21 kwietnia](/starcie-swifta-i-broke-a), brytyjskie lidery Swift i Broke zatopiły w [Cieśninie Kaletańskiej](/miejsca/ciesnina-kaletanska) dwa niemieckie torpedowce. Po tej porażce okręty z Flandrii przestały zapuszczać się w głąb cieśniny i szukały łatwiejszych celów na jej obrzeżach. W nocy z 24 na 25 kwietnia ostrzelały [Dunkierkę](https://pl.wikipedia.org/wiki/Dunkierka) i zatopiły francuski niszczyciel Étendard, który zginął z całą załogą. Dwie noce później uderzyły na Ramsgate, port u wejścia na kotwicowisko Downs, gdzie gromadziły się statki płynące wzdłuż wybrzeża do Londynu i z powrotem.
 
 ## Ostrzał
 

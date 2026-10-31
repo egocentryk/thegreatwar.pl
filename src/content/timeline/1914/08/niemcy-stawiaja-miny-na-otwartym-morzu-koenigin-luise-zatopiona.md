@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 4 na 5 sierpnia 1914 roku, zaledwie kilka godzin po wypowiedzeniu wojny przez Wielką Brytanię, niemiecki okręt Königin Luise postawił zagrodę minową na otwartym [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), około 30 mil od wybrzeża hrabstwa [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), na wschód od [Southwold](https://pl.wikipedia.org/wiki/Southwold). Miny zagrażały szlakom żeglugowym prowadzącym do ujścia [Tamizy](https://pl.wikipedia.org/wiki/Tamiza) i brytyjskich portów na wschodnim wybrzeżu.
+W nocy z 4 na 5 sierpnia 1914 roku, zaledwie kilka godzin po wypowiedzeniu wojny przez Wielką Brytanię, niemiecki okręt Königin Luise postawił zagrodę minową na otwartym [Morzu Północnym](/miejsca/morze-polnocne), około 30 mil od wybrzeża hrabstwa [Suffolk](https://pl.wikipedia.org/wiki/Suffolk), na wschód od [Southwold](https://pl.wikipedia.org/wiki/Southwold). Miny zagrażały szlakom żeglugowym prowadzącym do ujścia [Tamizy](https://pl.wikipedia.org/wiki/Tamiza) i brytyjskich portów na wschodnim wybrzeżu.
 
 ## Statek wycieczkowy na wojnie
 

@@ -2,10 +2,10 @@
 title: Germans cross into Spanish Guinea
 summary: On 17 February 1916 Kamerun's governor told Berlin he had taken refuge in Spanish Muni with his whole force. The last units had crossed two days earlier.
 source: niemcy-przechodza-do-gwinei-hiszpanskiej
-sourceHash: e562b001d9a69ce2b7e176c378b66d8991150878
+sourceHash: d81037ecf7147e7730ce66d9af94c83df194a57d
 ---
 
-On 17 February 1916 General Charles Dobell, commander of the British and French forces in [Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), forwarded an unusual telegram. At the request of the Spanish Governor-General of the island of Fernando Po (today [Bioko](https://pl.wikipedia.org/wiki/Bioko)) he passed on to the government in Berlin a report from the German governor of Kamerun, Karl Ebermaier. Ebermaier reported that lack of ammunition had forced him to leave the colony and take refuge on Spanish territory with his whole force, including the sick and wounded. The units had begun crossing the border on 4 February, and the details of their internment were just being settled. The British chronology of the war records the Germans' crossing into Spanish Guinea under 17 February, but according to the British official history (Moberly, *Togoland and the Cameroons*) the last German units had crossed the border as early as 15 February. The date of 17 February is the day on which the news officially left Africa.
+On 17 February 1916 General Charles Dobell, commander of the British and French forces in [Kamerun](/miejsca/kamerun), forwarded an unusual telegram. At the request of the Spanish Governor-General of the island of Fernando Po (today [Bioko](https://pl.wikipedia.org/wiki/Bioko)) he passed on to the government in Berlin a report from the German governor of Kamerun, Karl Ebermaier. Ebermaier reported that lack of ammunition had forced him to leave the colony and take refuge on Spanish territory with his whole force, including the sick and wounded. The units had begun crossing the border on 4 February, and the details of their internment were just being settled. The British chronology of the war records the Germans' crossing into Spanish Guinea under 17 February, but according to the British official history (Moberly, *Togoland and the Cameroons*) the last German units had crossed the border as early as 15 February. The date of 17 February is the day on which the news officially left Africa.
 
 ## The last fighting on the Ntem
 

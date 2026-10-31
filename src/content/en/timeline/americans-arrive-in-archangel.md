@@ -2,10 +2,10 @@
 title: Americans arrive in Archangel
 summary: On 4 September 1918 about 4,500 Americans, mainly of the 339th Infantry Regiment, arrived in Archangel. The British sent them straight to the front.
 source: amerykanie-w-archangielsku
-sourceHash: de259c609d4639589443ca08375c4fa4055b717a
+sourceHash: d6ce446a31bca081470b75181f43bb875e9a171b
 ---
 
-On 4 September 1918 at 10 a.m. three British transports, the *Somali*, *Tydeus* and *Nagoya*, dropped anchor in the [Dvina](https://pl.wikipedia.org/wiki/Dwina) opposite [Archangel](https://pl.wikipedia.org/wiki/Archangielsk). They brought American troops to northern Russia: the 339th Infantry Regiment, a battalion of the 310th Engineer Regiment, an ambulance company and a field hospital. They were commanded by Colonel George E. Stewart, a veteran of the fighting in the Philippines and of service in Alaska. According to the history of the US Navy, 4,600 men arrived; other authors give about 4,500. The British chronology of the war recorded under this date that the American contingent had landed at [Murmansk](https://pl.wikipedia.org/wiki/Murmańsk). This is a mistake. The transports sailed straight to Archangel, and according to the same naval history the first American soldiers to land at Murmansk, two companies of railwaymen, did so only in April 1919.
+On 4 September 1918 at 10 a.m. three British transports, the *Somali*, *Tydeus* and *Nagoya*, dropped anchor in the [Dvina](https://pl.wikipedia.org/wiki/Dwina) opposite [Archangel](/miejsca/archangielsk). They brought American troops to northern Russia: the 339th Infantry Regiment, a battalion of the 310th Engineer Regiment, an ambulance company and a field hospital. They were commanded by Colonel George E. Stewart, a veteran of the fighting in the Philippines and of service in Alaska. According to the history of the US Navy, 4,600 men arrived; other authors give about 4,500. The British chronology of the war recorded under this date that the American contingent had landed at [Murmansk](/miejsca/murmansk). This is a mistake. The transports sailed straight to Archangel, and according to the same naval history the first American soldiers to land at Murmansk, two companies of railwaymen, did so only in April 1919.
 
 ## "Detroit's Own"
 

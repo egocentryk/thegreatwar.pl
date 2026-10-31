@@ -9,7 +9,7 @@ sides:
     commanders: [Karl von Müller, Hellmuth von Mücke]
 result: Australian victory. The cruiser Emden was destroyed, and most of her crew were killed or captured. The landing party escaped on the schooner Ayesha.
 source: bitwa-kolo-wysp-kokosowych
-sourceHash: 62c5eb7b844f7aaa47b912d8c987f736b5a9bf51
+sourceHash: d99d3c0448a7d97f7ed757862624ba8d4e4e7e57
 brief:
   - "On 9 November 1914 in the Indian Ocean the Australian light cruiser Sydney caught the German cruiser Emden, which for two months had been wreaking havoc on the shipping lanes around India."
   - "Karl von Müller landed a party on Direction Island to destroy the cable and wireless station. The station staff managed to send a signal, which was picked up by a convoy not far away."
@@ -46,7 +46,7 @@ Sydney lost four killed, and the number of wounded is given by different sources
 
 ## Escape on the Ayesha
 
-Mücke's party remained on Direction Island and watched from the shore as their ship was destroyed. That same day the Germans seized the old, barely seaworthy schooner Ayesha, lying in the lagoon, and put to sea in her in the evening. So began one of the most extraordinary odysseys of the war. The schooner reached Dutch [Sumatra](https://pl.wikipedia.org/wiki/Sumatra), where in December the Germans transferred to a German steamer. They crossed the Arabian Sea to Arabia, and from there, fighting Bedouin along the way, made their way overland and by rail to [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol), which they reached in May 1915.
+Mücke's party remained on Direction Island and watched from the shore as their ship was destroyed. That same day the Germans seized the old, barely seaworthy schooner Ayesha, lying in the lagoon, and put to sea in her in the evening. So began one of the most extraordinary odysseys of the war. The schooner reached Dutch [Sumatra](https://pl.wikipedia.org/wiki/Sumatra), where in December the Germans transferred to a German steamer. They crossed the Arabian Sea to Arabia, and from there, fighting Bedouin along the way, made their way overland and by rail to [Constantinople](/miejsca/konstantynopol), which they reached in May 1915.
 
 ## Significance
 

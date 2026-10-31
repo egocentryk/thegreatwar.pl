@@ -2,10 +2,10 @@
 title: Russians take Lviv
 summary: On 3 September 1914 Russian troops entered Lviv, the capital of Galicia, without a fight. An occupation and Russification lasting until June 1915 began.
 source: rosjanie-zdobywaja-lwow
-sourceHash: 0c2aa5444e34251d5ec49018128ee2e305c08995
+sourceHash: 0b9a84c601b345a64ffcfd0e3b4fb13d66576639
 ---
 
-On 3 September 1914 Russian troops entered [Lviv](https://pl.wikipedia.org/wiki/Lwów), the capital of Austrian Galicia. The city was not defended. The day before, the last Austro-Hungarian units had left it, retreating west after the lost [Battle of the Złota Lipa](/bitwy/bitwa-nad-zlota-lipa). For the Poles it was a shock: one of the two most important centres of Polish national life under the partitions, alongside Kraków, had come under Russian rule. The occupation lasted almost ten months.
+On 3 September 1914 Russian troops entered [Lviv](/miejsca/lwow), the capital of Austrian Galicia. The city was not defended. The day before, the last Austro-Hungarian units had left it, retreating west after the lost [Battle of the Złota Lipa](/bitwy/bitwa-nad-zlota-lipa). For the Poles it was a shock: one of the two most important centres of Polish national life under the partitions, alongside Kraków, had come under Russian rule. The occupation lasted almost ten months.
 
 ## A city without defences
 

@@ -2,10 +2,10 @@
 title: British occupy Dar es Salaam
 summary: On 4 September 1916 Dar es Salaam, capital of German East Africa, surrendered without a fight to a British squadron and to columns that had come from Bagamoyo.
 source: brytyjczycy-zajmuja-dar-es-salaam
-sourceHash: 632cf909506325b331cc04eb507c09142797f302
+sourceHash: efd4be86736aab85890cf27b4ed62dd0cc2ff05c
 ---
 
-On 4 September 1916 [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam), the capital and main port of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), surrendered to the British without a single shot fired in its defence. In the morning the cruiser *Challenger*, under a white flag, approached Makatumbe island at the harbour entrance and sent the small vessel *Echo* into the town with a formal summons to surrender. At about eight o'clock the deputy mayor came out in her boat and accepted the terms, which guaranteed the inhabitants their lives and private property. Shortly afterwards the town was entered by soldiers of the Indian 129th Baluchis, who had marched in the advanced guard throughout.
+On 4 September 1916 [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam), the capital and main port of [German East Africa](/bitwy/kampania-wschodnioafrykanska), surrendered to the British without a single shot fired in its defence. In the morning the cruiser *Challenger*, under a white flag, approached Makatumbe island at the harbour entrance and sent the small vessel *Echo* into the town with a formal summons to surrender. At about eight o'clock the deputy mayor came out in her boat and accepted the terms, which guaranteed the inhabitants their lives and private property. Shortly afterwards the town was entered by soldiers of the Indian 129th Baluchis, who had marched in the advanced guard throughout.
 
 Two years earlier, in August 1914, the bombardment of Dar es Salaam by the cruiser *Astraea* had [begun the war in East Africa](/poczatek-dzialan-wojennych-w-afryce-wschodniej). Governor [Heinrich Schnee](/postacie/heinrich-schnee) had then wanted to spare the town and agreed to have it treated as open, while he himself moved inland, to [Morogoro](https://pl.wikipedia.org/wiki/Morogoro). When at the end of August 1916 General [Jan Smuts](/postacie/jan-smuts)'s troops [took Morogoro](/brytyjczycy-zajmuja-morogoro) and [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) withdrew with his force southwards, beyond the Uluguru Mountains, the capital on the coast was left practically undefended.
 

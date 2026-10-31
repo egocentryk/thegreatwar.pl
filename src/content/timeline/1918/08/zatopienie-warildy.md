@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 2 na 3 sierpnia 1918 roku z [Hawru](https://pl.wikipedia.org/wiki/Hawr) do [Southampton](https://pl.wikipedia.org/wiki/Southampton) płynął pod eskortą transportowiec sanitarny Warilda z rannymi z frontu zachodniego. Około 1.35, mniej więcej w połowie drogi przez [kanał La Manche](https://pl.wikipedia.org/wiki/La_Manche), trafiła go torpeda z niemieckiego podwodnego stawiacza min [UC-49](https://pl.wikipedia.org/wiki/SM_UC-49), dowodzonego przez porucznika marynarki Hansa Kükenthala. Według serwisu uboat.net statek zatonął około 32 mil morskich na południowy południowy zachód od latarniowca Owers. Na pokładzie było 801 osób, w tym ponad sześciuset rannych. Zginęło 123 ludzi. Takie liczby podają Australijski Pomnik Wojenny (Australian War Memorial) i uboat.net, choć w części opracowań pojawiają się nieco inne.
+W nocy z 2 na 3 sierpnia 1918 roku z [Hawru](/miejsca/hawr) do [Southampton](https://pl.wikipedia.org/wiki/Southampton) płynął pod eskortą transportowiec sanitarny Warilda z rannymi z frontu zachodniego. Około 1.35, mniej więcej w połowie drogi przez [kanał La Manche](https://pl.wikipedia.org/wiki/La_Manche), trafiła go torpeda z niemieckiego podwodnego stawiacza min [UC-49](https://pl.wikipedia.org/wiki/SM_UC-49), dowodzonego przez porucznika marynarki Hansa Kükenthala. Według serwisu uboat.net statek zatonął około 32 mil morskich na południowy południowy zachód od latarniowca Owers. Na pokładzie było 801 osób, w tym ponad sześciuset rannych. Zginęło 123 ludzi. Takie liczby podają Australijski Pomnik Wojenny (Australian War Memorial) i uboat.net, choć w części opracowań pojawiają się nieco inne.
 
 ## Statek z Australii
 

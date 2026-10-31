@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-7 października 1914 roku rząd Belgii opuścił oblężoną [Antwerpię](/miejsca/antwerpia) i przeniósł się do [Ostendy](https://pl.wikipedia.org/wiki/Ostenda) na wybrzeżu Morza Północnego. Tego samego dnia miasto opuścił król [Albert I](/postacie/albert-i), a armia polowa przeprawiała się przez [Skaldę](https://pl.wikipedia.org/wiki/Skalda) na zachód. Antwerpia, od sierpnia schronienie armii, króla i władz państwa, została zdana na własne siły. Zaczęła się jej ewakuacja.
+7 października 1914 roku rząd Belgii opuścił oblężoną [Antwerpię](/miejsca/antwerpia) i przeniósł się do [Ostendy](/miejsca/ostenda) na wybrzeżu Morza Północnego. Tego samego dnia miasto opuścił król [Albert I](/postacie/albert-i), a armia polowa przeprawiała się przez [Skaldę](https://pl.wikipedia.org/wiki/Skalda) na zachód. Antwerpia, od sierpnia schronienie armii, króla i władz państwa, została zdana na własne siły. Zaczęła się jej ewakuacja.
 
 ## Koniec nadziei na obronę
 
@@ -24,7 +24,7 @@ Posiłki nie zmieniły jednak losów obrony. W nocy z 5 na 6 października Niemc
 
 Wczesnym rankiem 7 października członkowie rządu premiera Charlesa de Broqueville'a, przedstawiciele obcych państw i urzędnicy administracji centralnej odpłynęli z Antwerpii do Ostendy. Część anglojęzycznych opracowań podaje, że rząd wyjechał już 3 października, zgodnie z pierwotną decyzją. Źródła belgijskie wskazują jednak, że wyjazd przełożono po przyjeździe Churchilla i doszedł on do skutku dopiero 7 października.
 
-Król Albert I opuścił miasto po południu tego samego dnia. Samochodem przejechał przez most pontonowy na Skaldzie i dołączył do wycofującej się armii. Jej dywizje przeprawiały się na lewy brzeg rzeki od nocy z 6 na 7 października i maszerowały w stronę [Gandawy](https://pl.wikipedia.org/wiki/Gandawa). Dalej na południowy zachód, pod Schoonaarde, Niemcy przeprawili się tego dnia przez Skaldę, ale nie zdołali zamknąć Belgom drogi odwrotu.
+Król Albert I opuścił miasto po południu tego samego dnia. Samochodem przejechał przez most pontonowy na Skaldzie i dołączył do wycofującej się armii. Jej dywizje przeprawiały się na lewy brzeg rzeki od nocy z 6 na 7 października i maszerowały w stronę [Gandawy](/miejsca/gandawa). Dalej na południowy zachód, pod Schoonaarde, Niemcy przeprawili się tego dnia przez Skaldę, ale nie zdołali zamknąć Belgom drogi odwrotu.
 
 ## Ucieczka mieszkańców
 
@@ -32,4 +32,4 @@ Wyjazd władz i przemarsz wojska wywołały w mieście panikę. Już od końca w
 
 ## Z Ostendy do Hawru
 
-Pobyt rządu w Ostendzie trwał zaledwie kilka dni. Po upadku Antwerpii armia belgijska wycofała się nad rzekę Yser, a Ostenda znalazła się tuż za linią frontu. 13 października ministrowie i urzędnicy odpłynęli na pokładzie promu Pieter de Coninck do francuskiego [Hawru](https://pl.wikipedia.org/wiki/Hawr). Rząd Belgii osiadł w pobliskim [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), gdzie pozostał do końca wojny. Król Albert I nie wyjechał z kraju. Został z armią w ostatnim skrawku wolnej Belgii nad Yser.
+Pobyt rządu w Ostendzie trwał zaledwie kilka dni. Po upadku Antwerpii armia belgijska wycofała się nad rzekę Yser, a Ostenda znalazła się tuż za linią frontu. 13 października ministrowie i urzędnicy odpłynęli na pokładzie promu Pieter de Coninck do francuskiego [Hawru](/miejsca/hawr). Rząd Belgii osiadł w pobliskim [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), gdzie pozostał do końca wojny. Król Albert I nie wyjechał z kraju. Został z armią w ostatnim skrawku wolnej Belgii nad Yser.

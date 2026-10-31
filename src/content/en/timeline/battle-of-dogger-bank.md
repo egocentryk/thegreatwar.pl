@@ -2,10 +2,10 @@
 title: Battle of Dogger Bank
 summary: On 24 January 1915 Beatty's battlecruisers intercepted Hipper's squadron in the North Sea. The German cruiser Blücher was sunk; the other Germans escaped.
 source: bitwa-na-dogger-bank
-sourceHash: b2b41da05bec0633a3df3d147693b27cd3768207
+sourceHash: 197f39931c99fc5296db3ce1923273eca3507e45
 ---
 
-On 24 January 1915 in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), near the [Dogger Bank](https://pl.wikipedia.org/wiki/Dogger_Bank), the British battlecruisers of Vice-Admiral [David Beatty](/postacie/david-beatty) clashed with the German squadron of Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper). After a pursuit of several hours the British sank the armoured cruiser *Blücher*, in which nearly 800 sailors died. Three German battlecruisers, however, managed to escape.
+On 24 January 1915 in the [North Sea](/miejsca/morze-polnocne), near the [Dogger Bank](https://pl.wikipedia.org/wiki/Dogger_Bank), the British battlecruisers of Vice-Admiral [David Beatty](/postacie/david-beatty) clashed with the German squadron of Rear-Admiral [Franz von Hipper](/postacie/franz-von-hipper). After a pursuit of several hours the British sank the armoured cruiser *Blücher*, in which nearly 800 sailors died. Three German battlecruisers, however, managed to escape.
 
 ## The trap
 

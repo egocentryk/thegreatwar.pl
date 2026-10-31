@@ -18,7 +18,7 @@ brief:
   - "Nad Aisne skończył się pościg po Marnie i zaczęła się wojna pozycyjna. Obie strony zaczęły szukać otwartego skrzydła na północy, co rozpoczęło tak zwany wyścig do morza."
 ---
 
-12 września 1914 roku wojska francuskie i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), które od kilku dni ścigały armie niemieckie pokonane nad Marną, dotarły nad rzekę [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), między Compiègne a Berry-au-Bac. Tam natrafiły na przeciwnika, który przestał się cofać. Niemcy zajęli wzgórza na północnym brzegu rzeki i postanowili się na nich bronić. Tak zaczęła się pierwsza bitwa nad Aisne, pierwsza wielka bitwa tej wojny, w której obie strony zaczęły się zakopywać w ziemi.
+12 września 1914 roku wojska francuskie i [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny), które od kilku dni ścigały armie niemieckie pokonane nad Marną, dotarły nad rzekę [Aisne](/miejsca/aisne), między Compiègne a Berry-au-Bac. Tam natrafiły na przeciwnika, który przestał się cofać. Niemcy zajęli wzgórza na północnym brzegu rzeki i postanowili się na nich bronić. Tak zaczęła się pierwsza bitwa nad Aisne, pierwsza wielka bitwa tej wojny, w której obie strony zaczęły się zakopywać w ziemi.
 
 ## Po bitwie nad Marną
 
@@ -28,7 +28,7 @@ Niemieckie dowództwo szukało linii, na której można by zatrzymać pościg. W
 
 ## 12 września: dotarcie nad rzekę
 
-12 września sprzymierzeni dotarli nad Aisne na całym jej środkowym biegu. Na lewym skrzydle francuska 6 Armia generała [Michela Josepha Maunoury'ego](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) zbliżała się do rzeki na odcinku od Compiègne po [Soissons](https://pl.wikipedia.org/wiki/Soissons), a jej wojska afrykańskie weszły tego dnia do opuszczonego przez Niemców Soissons. W centrum Brytyjczycy marszałka [Johna Frencha](/postacie/john-french) przekroczyli rzeczkę Vesle i po całodziennym marszu w ulewnym deszczu stanęli na wzgórzach po południowej stronie Aisne. Wieczorem 11 Brygada brytyjskiej 4 Dywizji przeszła przez uszkodzony most w [Venizel](https://pl.wikipedia.org/wiki/Venizel), niedaleko Soissons. Na prawo od Brytyjczyków francuska 5 Armia generała [Louisa Franchet d'Espérey](/postacie/louis-franchet-d-esperey) parła na północ w kierunku Aisne i Reims.
+12 września sprzymierzeni dotarli nad Aisne na całym jej środkowym biegu. Na lewym skrzydle francuska 6 Armia generała [Michela Josepha Maunoury'ego](https://pl.wikipedia.org/wiki/Michel_Joseph_Maunoury) zbliżała się do rzeki na odcinku od Compiègne po [Soissons](/miejsca/soissons), a jej wojska afrykańskie weszły tego dnia do opuszczonego przez Niemców Soissons. W centrum Brytyjczycy marszałka [Johna Frencha](/postacie/john-french) przekroczyli rzeczkę Vesle i po całodziennym marszu w ulewnym deszczu stanęli na wzgórzach po południowej stronie Aisne. Wieczorem 11 Brygada brytyjskiej 4 Dywizji przeszła przez uszkodzony most w [Venizel](https://pl.wikipedia.org/wiki/Venizel), niedaleko Soissons. Na prawo od Brytyjczyków francuska 5 Armia generała [Louisa Franchet d'Espérey](/postacie/louis-franchet-d-esperey) parła na północ w kierunku Aisne i Reims.
 
 Naczelny wódz armii francuskiej, generał [Joseph Joffre](/postacie/joseph-joffre), sądził, że Niemcy wciąż się cofają i że wystarczy kontynuować pościg. Rozkazy na 13 września nakazywały sforsować rzekę i iść dalej na północ, w stronę [Laon](https://pl.wikipedia.org/wiki/Laon).
 

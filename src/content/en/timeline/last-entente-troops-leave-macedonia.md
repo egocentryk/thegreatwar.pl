@@ -2,10 +2,10 @@
 title: Last Entente troops leave Macedonia
 summary: In mid-December 1915 the last Entente troops left Serbian Macedonia. The Bulgarians halted at the Greek border and the Allies fell back towards Salonika.
 source: ostatnie-wojska-ententy-opuszczaja-macedonie
-sourceHash: e1ccdc9c1a33fb5e8726a163821c04c9716f8627
+sourceHash: 7f5166c2edf155acde660197f8ad3b3e3ff8ad67
 ---
 
-A British chronology of the war records under 15 December 1915 that the last Allied troops in Macedonia withdrew into Greek territory. This refers to the Serbian part of Macedonia, that is, the valley of the [Vardar](https://pl.wikipedia.org/wiki/Wardar) north of the Greek border, which the French and British had entered in October and November to help the Serbs. The date needs explaining. According to the British and Austrian official histories, both the British troops, driven back from Kosturino and Dojran, and the French, falling back down the Vardar from [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija), had already crossed the border on 12 December. For the following days, however, strong rearguards stood just beyond the border, on the Greek side, on a position running from the southern shore of [Lake Dojran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)) westwards across the Vardar. Only on 15 December did General [Maurice Sarrail](/postacie/maurice-sarrail) order them to move away from the border southwards, towards [Salonika](/miejsca/saloniki).
+A British chronology of the war records under 15 December 1915 that the last Allied troops in Macedonia withdrew into Greek territory. This refers to the Serbian part of Macedonia, that is, the valley of the [Vardar](/miejsca/wardar) north of the Greek border, which the French and British had entered in October and November to help the Serbs. The date needs explaining. According to the British and Austrian official histories, both the British troops, driven back from Kosturino and Dojran, and the French, falling back down the Vardar from [Gevgelija](https://pl.wikipedia.org/wiki/Gewgelija), had already crossed the border on 12 December. For the following days, however, strong rearguards stood just beyond the border, on the Greek side, on a position running from the southern shore of [Lake Dojran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)) westwards across the Vardar. Only on 15 December did General [Maurice Sarrail](/postacie/maurice-sarrail) order them to move away from the border southwards, towards [Salonika](/miejsca/saloniki).
 
 ## Away from the border
 

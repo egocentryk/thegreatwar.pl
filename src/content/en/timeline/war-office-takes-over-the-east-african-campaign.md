@@ -2,14 +2,14 @@
 title: War Office takes over the East African campaign
 summary: On 22 November 1914, after the defeat at Tanga, direction of British operations in East Africa passed from the India Office to the War Office in London.
 source: war-office-przejmuje-kampanie-w-afryce-wschodniej
-sourceHash: fab25f4c758b1e5b49cccbcd97bf8433f0ff9774
+sourceHash: c5de335ea8d22469b1d31297902786752ffc356a
 ---
 
 On 22 November 1914 the British ministry of war, the [War Office](https://pl.wikipedia.org/wiki/War_Office), took over the direction of military operations in East Africa. Until then they had been the responsibility of the India Office, the ministry for Indian affairs, and of the Colonial Office. The change was a direct consequence of the [defeat at Tanga](/bitwy/bitwa-pod-tanga), where at the beginning of November Indian Expeditionary Force "B" had been beaten by the far less numerous troops of Lieutenant-Colonel Paul von Lettow-Vorbeck.
 
 ## Divided control
 
-At the start of the war the War Office had its hands full sending the British Expeditionary Force to France. Troops for operations against [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) were therefore to be provided by India. General James Stewart's Indian Expeditionary Force "C", which arrived [in September](/general-stewart-dowodca-w-afryce-wschodniej) to defend [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), came after its arrival under the Colonial Office through the colony's governor. Force "B" under General Arthur Aitken, sent from India to conquer the German colony, was directed in turn by the India Office and army headquarters in India. This dual chain of command hampered planning and burdened the commanders on the spot.
+At the start of the war the War Office had its hands full sending the British Expeditionary Force to France. Troops for operations against [German East Africa](/bitwy/kampania-wschodnioafrykanska) were therefore to be provided by India. General James Stewart's Indian Expeditionary Force "C", which arrived [in September](/general-stewart-dowodca-w-afryce-wschodniej) to defend [British East Africa](/bitwy/kampania-wschodnioafrykanska), came after its arrival under the Colonial Office through the colony's governor. Force "B" under General Arthur Aitken, sent from India to conquer the German colony, was directed in turn by the India Office and army headquarters in India. This dual chain of command hampered planning and burdened the commanders on the spot.
 
 ## After Tanga
 

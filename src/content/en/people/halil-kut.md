@@ -6,7 +6,7 @@ country: Ottoman Empire
 birthPlace: Constantinople (Ottoman Empire)
 deathPlace: Istanbul (Turkey)
 source: halil-kut
-sourceHash: 2a94efdc35f0f44b4de46dd3aee3b75567156efe
+sourceHash: ef5f8ba41fc412496e36b2935239436d6dc51e5c
 ---
 
 Halil, during the Great War first Halil Bey, then Halil Pasha, and from 1934 Halil Kut, was one of the "political soldiers" of the Committee of Union and Progress who, thanks to the Young Turk Revolution and their kinship with the powerful, rose quickly to the highest posts. He was the younger brother of the father of the minister of war [Enver Pasha](/postacie/enver-pasza), although he was a year younger than his nephew. He went down in history as the victor of Kut, where in April 1916 he accepted the surrender of more than 13,000 British and Indian soldiers of General Charles Townshend. A year later he lost Baghdad to the British, and in 1918 he commanded the troops that took Baku. Historians also count him among the perpetrators of the [Armenian genocide](/tematy/ludobojstwo-ormian), something he himself did not conceal in his memoirs.
@@ -23,7 +23,7 @@ The gravest accusation against Halil is linked to the Persian expedition and the
 
 ## Ctesiphon and Kut
 
-In the autumn of 1915 Halil was ordered to move from Bitlis to Iraq, where the British were advancing up the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) towards Baghdad. According to British intelligence his troops set out around mid-October. Halil reached the front on 25 November, as the [Battle of Ctesiphon](/bitwy/bitwa-pod-ktezyfonem) was drawing to a close, and took over XVIII Corps. The battle had been won by [Nureddin Bey](/postacie/nureddin-pasza), but Halil took part in the pursuit of the retreating Townshend and in the encirclement of his division at [Kut](https://pl.wikipedia.org/wiki/Al-Kut). From December the whole Sixth Army was commanded by the German field marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz).
+In the autumn of 1915 Halil was ordered to move from Bitlis to Iraq, where the British were advancing up the [Tigris](/miejsca/tygrys) towards Baghdad. According to British intelligence his troops set out around mid-October. Halil reached the front on 25 November, as the [Battle of Ctesiphon](/bitwy/bitwa-pod-ktezyfonem) was drawing to a close, and took over XVIII Corps. The battle had been won by [Nureddin Bey](/postacie/nureddin-pasza), but Halil took part in the pursuit of the retreating Townshend and in the encirclement of his division at [Kut](/miejsca/al-kut). From December the whole Sixth Army was commanded by the German field marshal [Colmar von der Goltz](/postacie/colmar-von-der-goltz).
 
 At the beginning of January 1916, as the British relief force approached, Halil replaced Nureddin at the head of the troops on the Tigris. According to Turkish works Enver's formal order was dated 20 January, but the British felt the change already after the [Battle of Sheikh Sa'ad](/bitwy/bitwa-pod-szejk-saad). The British official history surmises that it was Halil who halted the retreat and ordered the troops to dig in on the Wadi stream. Over the next three months his troops beat off one relief attempt after another: [on the Wadi](/bitwy/bitwa-nad-wadi), [in the Hanna defile](/bitwy/pierwsza-bitwa-pod-hanna), [at Dujaila](/bitwy/bitwa-pod-dudzajla), where on 8 March he moved reserves to the threatened flank in time, and in April in the [third relief attempt](/bitwy/trzecia-proba-odsieczy-al-kutu). On 10 March he called on Townshend to surrender, but Townshend refused.
 

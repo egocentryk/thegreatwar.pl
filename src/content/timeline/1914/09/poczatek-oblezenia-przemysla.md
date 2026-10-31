@@ -20,7 +20,7 @@ Podawane w literaturze daty różnią się o ponad tydzień, bo okrążanie twie
 
 ## Twierdza nad Sanem
 
-Przemyśl, stare miasto nad [Sanem](https://pl.wikipedia.org/wiki/San), leżał na głównej drodze i linii kolejowej łączącej Kraków ze Lwowem. Austriacy zaczęli go umacniać w latach 50. XIX wieku, a zasadniczą rozbudowę prowadzili od lat 70. i 80. Powstały dwa pierścienie umocnień. Zewnętrzny miał około 45 kilometrów obwodu i składał się z 17 fortów głównych oraz wielu mniejszych fortów, baterii i schronów. Wewnętrzny otaczał samo miasto. Według różnych zestawień w obu pierścieniach było łącznie około czterdziestu fortów.
+Przemyśl, stare miasto nad [Sanem](/miejsca/san), leżał na głównej drodze i linii kolejowej łączącej Kraków ze Lwowem. Austriacy zaczęli go umacniać w latach 50. XIX wieku, a zasadniczą rozbudowę prowadzili od lat 70. i 80. Powstały dwa pierścienie umocnień. Zewnętrzny miał około 45 kilometrów obwodu i składał się z 17 fortów głównych oraz wielu mniejszych fortów, baterii i schronów. Wewnętrzny otaczał samo miasto. Według różnych zestawień w obu pierścieniach było łącznie około czterdziestu fortów.
 
 Była to jednak twierdza w dużej mierze przestarzała. Większość fortów zbudowano w XIX wieku z cegły i kamienia, z myślą o artylerii tamtych czasów. Przed wojną brakowało pieniędzy na modernizację, więc latem 1914 roku żołnierze i tysiące robotników w pośpiechu kopali okopy, stawiali zasieki z drutu kolczastego i budowali nowe stanowiska artylerii między fortami. Wycięto lasy i zburzono całe wsie, które zasłaniały pole ostrzału. Ich mieszkańcy musieli opuścić domy.
 

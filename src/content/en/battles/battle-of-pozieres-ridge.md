@@ -9,7 +9,7 @@ sides:
     commanders: [Fritz von Below, Friedrich Sixt von Armin, Max von Boehn]
 result: A British victory bought at enormous cost. The Australians took Pozières and the crest of the ridge with the windmill, but did not capture Mouquet Farm. I ANZAC Corps lost about 23,000 men.
 source: bitwa-o-grzbiet-pozieres
-sourceHash: 975dac6b5d7d6a03c392825a7ed8ef5e1db8650d
+sourceHash: 6b7bc577b356dcc34a7b90bcac484ff68068d93a
 brief:
   - "The Battle of Pozières Ridge, fought from 23 July to 3 September 1916 as part of the Battle of the Somme, was the Australians' heaviest ordeal of the entire First World War."
   - "General Gough, commanding the Reserve Army, was given I ANZAC Corps to take Pozières on the Albert–Bapaume road, a village the British had attacked in vain for three weeks."
@@ -18,7 +18,7 @@ brief:
   - "I ANZAC Corps lost about 23,000 killed, wounded and missing, and the shortage of volunteers led Prime Minister Billy Hughes to a conscription referendum that divided Australia."
 ---
 
-The Battle of Pozières Ridge was the Australians' heaviest ordeal of the entire First World War. It was fought as part of the [Battle of the Somme](/bitwy/bitwa-nad-somma), in the centre of the British sector of the front, around the village of [Pozières](https://pl.wikipedia.org/wiki/Pozières) on the road from [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) to [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). On the night of 22–23 July 1916 the 1st Australian Division took the village, which the British had attacked in vain for three weeks. On 4 August the 2nd Australian Division won the crest of the ridge with the ruins of a windmill, one of the highest points of the battlefield. After that the three divisions of I ANZAC Corps took turns pushing north in a narrow wedge towards Mouquet Farm, to take the German stronghold of Thiepval from the rear. They did not capture the farm. When the Canadians relieved the Australians at the beginning of September, the latter had lost about 23,000 killed, wounded and missing in under seven weeks. The Australian official historian Charles Bean later wrote that the Pozières ridge is "more densely sown with Australian sacrifice than any other place on earth".
+The Battle of Pozières Ridge was the Australians' heaviest ordeal of the entire First World War. It was fought as part of the [Battle of the Somme](/bitwy/bitwa-nad-somma), in the centre of the British sector of the front, around the village of [Pozières](https://pl.wikipedia.org/wiki/Pozières) on the road from [Albert](/miejsca/albert) to [Bapaume](/miejsca/bapaume). On the night of 22–23 July 1916 the 1st Australian Division took the village, which the British had attacked in vain for three weeks. On 4 August the 2nd Australian Division won the crest of the ridge with the ruins of a windmill, one of the highest points of the battlefield. After that the three divisions of I ANZAC Corps took turns pushing north in a narrow wedge towards Mouquet Farm, to take the German stronghold of Thiepval from the rear. They did not capture the farm. When the Canadians relieved the Australians at the beginning of September, the latter had lost about 23,000 killed, wounded and missing in under seven weeks. The Australian official historian Charles Bean later wrote that the Pozières ridge is "more densely sown with Australian sacrifice than any other place on earth".
 
 ## Name and dates
 

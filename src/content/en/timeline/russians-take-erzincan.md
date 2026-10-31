@@ -2,10 +2,10 @@
 title: Russians take Erzincan
 summary: On 25 July 1916 the Russian 39th Division entered Erzincan, abandoned by the shattered Ottoman Third Army. It was the peak of Russian gains in Anatolia.
 source: rosjanie-zdobywaja-erzincan
-sourceHash: 01979b7244c07d89c499322dc894e4727e8e9bd1
+sourceHash: a8ff98e1e6d8f1674bf74e65caf03ae41a8b3da0
 ---
 
-On 25 July 1916 Russian troops entered [Erzincan](https://pl.wikipedia.org/wiki/Erzincan), an old town on the upper [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) that housed the headquarters of the Ottoman Third Army. The Turks abandoned it without a fight. The date is given consistently by the British chronology of the war, by the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, and by General Yevgeny Maslovsky of the staff of the Russian Caucasus Army, who writes of 12 July in the Julian calendar. The capture of Erzincan ended the July offensive of General [Nikolai Yudenich](/postacie/nikolaj-judenicz), in which in less than four weeks he shattered the Third Army of [Vehip Pasha](/postacie/wehib-pasza).
+On 25 July 1916 Russian troops entered [Erzincan](https://pl.wikipedia.org/wiki/Erzincan), an old town on the upper [Euphrates](/miejsca/eufrat) that housed the headquarters of the Ottoman Third Army. The Turks abandoned it without a fight. The date is given consistently by the British chronology of the war, by the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, and by General Yevgeny Maslovsky of the staff of the Russian Caucasus Army, who writes of 12 July in the Julian calendar. The capture of Erzincan ended the July offensive of General [Nikolai Yudenich](/postacie/nikolaj-judenicz), in which in less than four weeks he shattered the Third Army of [Vehip Pasha](/postacie/wehib-pasza).
 
 ## The pursuit
 

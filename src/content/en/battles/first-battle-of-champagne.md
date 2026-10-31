@@ -9,7 +9,7 @@ sides:
     commanders: [Erich von Falkenhayn, Karl von Einem]
 result: Inconclusive. The French advanced 2–3 kilometres in places and took Perthes-lès-Hurlus, but did not break through the German front.
 source: pierwsza-bitwa-w-szampanii
-sourceHash: b0ee04406b1ed423f6175467d1708b49f39da399
+sourceHash: c9d07b2f9940bc8d6ae75a99f2a10a8e35fbd1b2
 brief:
   - "The First Battle of Champagne, fought from 20 December 1914 to 17 March 1915, was the first great French offensive against fortified German positions on the Western Front."
   - "General Joffre wanted to strike the Noyon salient from two sides and threaten the German railways. General de Langle de Cary's French Fourth Army was to attack from Suippes towards Rethel."
@@ -18,7 +18,7 @@ brief:
   - "The offensive achieved none of its objectives, yet the French command became convinced that infantry well supported by artillery could break through the German lines."
 ---
 
-The First Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the first great French offensive against fortified German positions on the Western Front. For almost three months, from December 1914 to March 1915, the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) attacked the trenches of the German [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) on the chalk plains east of [Reims](https://pl.wikipedia.org/wiki/Reims). The fighting took place in rain, mud and frost around a few small villages: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus and Massiges. At best the French advanced 2–3 kilometres, and they paid for it with losses counted in tens of thousands of men.
+The First Battle of [Champagne](https://pl.wikipedia.org/wiki/Szampania) was the first great French offensive against fortified German positions on the Western Front. For almost three months, from December 1914 to March 1915, the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) attacked the trenches of the German [Third Army](https://pl.wikipedia.org/wiki/3_Armia_(Cesarstwo_Niemieckie)) on the chalk plains east of [Reims](/miejsca/reims). The fighting took place in rain, mud and frost around a few small villages: Souain, Perthes-lès-Hurlus, Mesnil-lès-Hurlus and Massiges. At best the French advanced 2–3 kilometres, and they paid for it with losses counted in tens of thousands of men.
 
 ## Name and dates
 
@@ -28,7 +28,7 @@ The sources agree on the end of the battle, but its beginning is dated in differ
 
 ## Background
 
-In mid-September 1914, after the [Battle of the Marne](/bitwy/pierwsza-bitwa-nad-marna), the Germans halted in Champagne on the hills north and east of Reims. When the fighting at Ypres died down at the end of November, the Western Front already ran as an unbroken line of trenches from the North Sea to Switzerland. In the middle of this line was a great salient, driven deep into France around [Noyon](https://pl.wikipedia.org/wiki/Noyon), less than a hundred kilometres from Paris.
+In mid-September 1914, after the [Battle of the Marne](/bitwy/pierwsza-bitwa-nad-marna), the Germans halted in Champagne on the hills north and east of Reims. When the fighting at Ypres died down at the end of November, the Western Front already ran as an unbroken line of trenches from the North Sea to Switzerland. In the middle of this line was a great salient, driven deep into France around [Noyon](/miejsca/noyon), less than a hundred kilometres from Paris.
 
 On 15 November the operations bureau of French headquarters presented the commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), with a plan for a winter offensive. The staff officers judged that the German offensive in the west was over and that the Germans were transferring several corps east, against Russia. They had to be attacked before they dug in, and not be allowed to weaken the French front further at the expense of the Russian ally. The plan provided for a two-sided blow at the Noyon salient: from the north, in Artois, the Tenth Army was to attack towards Cambrai, and from the south, in Champagne, the Fourth Army from Suippes towards [Rethel](https://pl.wikipedia.org/wiki/Rethel) and [Mézières](https://pl.wikipedia.org/wiki/Charleville-Mézières). If both attacks succeeded, they would threaten the railways supplying the German armies and force them to retreat. Joffre knew that heavy artillery and ammunition were lacking, but considered the offensive necessary. On other sectors, from Flanders, where an attack was made [at Wytschaete](/natarcie-pod-wytschaete) on 14 December, to the Vosges, subsidiary attacks were to be launched.
 

@@ -2,10 +2,10 @@
 title: Fighting at Mkaramo
 summary: On 9 June 1916 Sheppard's column fought Major Kraut's troops in dense bush on the Pangani. During the night the Germans withdrew towards Handeni.
 source: walki-pod-mkaramo
-sourceHash: e20cf513c04c5d2fc6d27fea2492833e551c36c4
+sourceHash: 47af6e4cd2576356e4f860189e6748726df680b9
 ---
 
-On 9 June 1916 the main column of General [Jan Smuts's](/postacie/jan-smuts) forces fought the Germans at Mkaramo on the [Pangani](https://pl.wikipedia.org/wiki/Pangani) river, in the north-eastern part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The British official history (Hordern) and Smuts's report spell the name Mkalamo. At this point the Pangani was crossed by a German field railway that ran south-west from Mombo station on the Usambara railway to Handeni. It was the only link between the German detachments in the Usambara Mountains and the main forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), then standing far to the west, [at Kondoa Irangi](/niemiecki-atak-na-kondoa-irangi).
+On 9 June 1916 the main column of General [Jan Smuts's](/postacie/jan-smuts) forces fought the Germans at Mkaramo on the [Pangani](https://pl.wikipedia.org/wiki/Pangani) river, in the north-eastern part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). The British official history (Hordern) and Smuts's report spell the name Mkalamo. At this point the Pangani was crossed by a German field railway that ran south-west from Mombo station on the Usambara railway to Handeni. It was the only link between the German detachments in the Usambara Mountains and the main forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), then standing far to the west, [at Kondoa Irangi](/niemiecki-atak-na-kondoa-irangi).
 
 ## The march along the Pangani
 

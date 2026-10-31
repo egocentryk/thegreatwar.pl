@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 sierpnia 1914 roku w belgijskim porcie [Ostenda](https://pl.wikipedia.org/wiki/Ostenda) zaczęła lądować brygada [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines), brytyjskiej piechoty morskiej. Tego samego dnia przyleciała tam eskadra lotnicza [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwa brytyjskiej marynarki wojennej. Była to pierwsza jednostka tej formacji, która przybyła na kontynent.
+27 sierpnia 1914 roku w belgijskim porcie [Ostenda](/miejsca/ostenda) zaczęła lądować brygada [Royal Marines](https://pl.wikipedia.org/wiki/Royal_Marines), brytyjskiej piechoty morskiej. Tego samego dnia przyleciała tam eskadra lotnicza [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service), lotnictwa brytyjskiej marynarki wojennej. Była to pierwsza jednostka tej formacji, która przybyła na kontynent.
 
 ## Demonstracja na belgijskim wybrzeżu
 

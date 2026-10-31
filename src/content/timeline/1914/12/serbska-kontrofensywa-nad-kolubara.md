@@ -32,6 +32,6 @@ Na północ od Mišicia do natarcia ruszyła 3 Armia generała [Pavle Jurišicia
 
 ## Uroczystość w Belgradzie
 
-Tymczasem w zajętym poprzedniego dnia [Belgradzie](https://pl.wikipedia.org/wiki/Belgrad) odbył się uroczysty wjazd wojsk 5 Armii, a według serbskich źródeł także defilada zwycięstwa. Telegram hołdowniczy do cesarza wywołał radość w całej monarchii. Delegacjom wojska i Flotylli Dunajskiej, które brały udział w uroczystości, przyznano dzień odpoczynku w mieście.
+Tymczasem w zajętym poprzedniego dnia [Belgradzie](/miejsca/belgrad) odbył się uroczysty wjazd wojsk 5 Armii, a według serbskich źródeł także defilada zwycięstwa. Telegram hołdowniczy do cesarza wywołał radość w całej monarchii. Delegacjom wojska i Flotylli Dunajskiej, które brały udział w uroczystości, przyznano dzień odpoczynku w mieście.
 
 Wieczorem w sztabie generała [Oskara Potiorka](/postacie/oskar-potiorek) uznano, że Serbowie przeprowadzili tylko lokalny wypad przeciwko XVI Korpusowi, połączony z pozorowanymi atakami w innych miejscach. Ruchliwość przeciwnika skłoniła jednak Potiorka do przyspieszenia własnych planów: 5 Armia miała zająć pozycje do natarcia już wieczorem 4 grudnia, a nie dzień później. O 19:45 wiadomość dotarła do generała Liboriusa von Franka. Obiecany dzień odpoczynku w Belgradzie odwołano.

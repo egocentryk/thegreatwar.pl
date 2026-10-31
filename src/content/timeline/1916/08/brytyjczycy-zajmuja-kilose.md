@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 sierpnia 1916 roku południowoafrykańska 2 Dywizja generała Jacoba van Deventera zajęła bez walki [Kilosę](https://pl.wikipedia.org/wiki/Kilosa), stację kolei centralnej w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), położoną u wylotu górskiego wąwozu, blisko 300 kilometrów linią kolejową od Dar es Salaam. Według brytyjskiej historii oficjalnej (Hordern) o świcie piechota 9 i 10 Batalionu Piechoty Południowoafrykańskiej znalazła niemieckie okopy na wzgórzach przed miastem puste i zobaczyła w dole Kilosę. O 7 rano weszły do niej pierwsze oddziały konne, a w ciągu dnia van Deventer rozlokował tam większość dywizji. Kończył się w ten sposób jeden z najcięższych marszów całej kampanii.
+22 sierpnia 1916 roku południowoafrykańska 2 Dywizja generała Jacoba van Deventera zajęła bez walki [Kilosę](https://pl.wikipedia.org/wiki/Kilosa), stację kolei centralnej w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska), położoną u wylotu górskiego wąwozu, blisko 300 kilometrów linią kolejową od Dar es Salaam. Według brytyjskiej historii oficjalnej (Hordern) o świcie piechota 9 i 10 Batalionu Piechoty Południowoafrykańskiej znalazła niemieckie okopy na wzgórzach przed miastem puste i zobaczyła w dole Kilosę. O 7 rano weszły do niej pierwsze oddziały konne, a w ciągu dnia van Deventer rozlokował tam większość dywizji. Kończył się w ten sposób jeden z najcięższych marszów całej kampanii.
 
 ## Dwanaście dni w górach
 

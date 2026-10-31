@@ -2,10 +2,10 @@
 title: Russians capture Köprüköy
 summary: On 17 January 1916 the Russians entered Köprüköy on the Aras, lost to the Turks in 1914. A breakthrough in the mountains forced the Third Army to retreat.
 source: rosjanie-zdobywaja-koprukoy
-sourceHash: 8e23ba8bfeb77a3ce67fbb05ca843fbd8ef1adf9
+sourceHash: 0c8cd429e7ab8e6456bce871dfaf5f09c2435339
 ---
 
-Late in the afternoon of 17 January 1916, units of General Vorobyov's Russian 4th Caucasian Rifle Division came down from the mountains and took Köprüköy, a village with an old stone bridge over the [Aras](https://pl.wikipedia.org/wiki/Araks), on the main road from Kars to [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). In the evening they were joined by the vanguard of the 39th Infantry Division, which had been storming the Turkish trenches in the valley for a week. The date of 17 January is given both by the British chronology of the war and by the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff. In Russia, where the [Julian calendar](/slownik/kalendarz-julianski) was still in force, it was 4 January.
+Late in the afternoon of 17 January 1916, units of General Vorobyov's Russian 4th Caucasian Rifle Division came down from the mountains and took Köprüköy, a village with an old stone bridge over the [Aras](https://pl.wikipedia.org/wiki/Araks), on the main road from Kars to [Erzurum](/miejsca/erzurum). In the evening they were joined by the vanguard of the 39th Infantry Division, which had been storming the Turkish trenches in the valley for a week. The date of 17 January is given both by the British chronology of the war and by the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff. In Russia, where the [Julian calendar](/slownik/kalendarz-julianski) was still in force, it was 4 January.
 
 The British chronology says that Köprüköy was taken "again". The Russians had been here before, in November 1914, when the troops of General Georgy Bergmann [reached Köprüköy](/rosjanie-zajmuja-koprukoy). A few days later, however, [a counter-attack by the Ottoman Third Army](/turcy-odbijaja-koprukoy) pushed them back almost to the border, and in December 1914 Köprüköy housed the headquarters from which Enver Pasha led the army to Sarikamish. For more than a year the Turks fortified the area. In the Pasin valley, along which the road to Erzurum ran, they built three lines of trenches with wire entanglements, and on the hills on both sides of the Aras they placed batteries that could enfilade the whole valley.
 

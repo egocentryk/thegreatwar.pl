@@ -2,7 +2,7 @@
 title: Foch becomes Allied commander-in-chief
 summary: On 14 April 1918 Foch became commander-in-chief of the Allied armies in France. That day at Abbeville he refused to relieve Haig's British divisions.
 source: foch-naczelnym-wodzem
-sourceHash: af426245e2fee67960bdcb18ed9bd0d047afd9ab
+sourceHash: 7480956426a485305902398e0f47a3d8f971b9a8
 brief:
   - "On 14 April 1918 General Ferdinand Foch received the title of commander-in-chief of the Allied armies in France, agreed by the French and British governments in an exchange of letters. The title gave him no new powers."
   - "The road to it began on 26 March at Doullens, where Foch was given the coordination of the armies, and on 3 April at Beauvais he was given strategic direction. The commanders-in-chief kept tactical control."
@@ -27,7 +27,7 @@ Foch's authority did not extend to the Belgian army. King [Albert I](/postacie/a
 
 ## The Abbeville meeting
 
-Meanwhile the news from Flanders was bad. [On 9 April](/poczatek-bitwy-nad-lys) the Germans attacked on the river Lys, broke the front of the Portuguese Corps and within a few days took Armentières, Merville and a large part of the plain in front of the railway junction of [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck). In an [order of the day](/rozkaz-plecami-do-muru) dated 11 April Haig wrote that his soldiers were fighting with their backs to the wall. The British divisions, most of them still worn out by the battle on the Somme, were melting away, and the distance separating the Germans from Calais and Dunkirk was shrinking. Foch sent north a cavalry corps and two infantry divisions under General Robillot, and the French Tenth Army of General [Paul Maistre](https://pl.wikipedia.org/wiki/Paul_Maistre) was marching to the Doullens area. For Haig this was not enough.
+Meanwhile the news from Flanders was bad. [On 9 April](/poczatek-bitwy-nad-lys) the Germans attacked on the river Lys, broke the front of the Portuguese Corps and within a few days took Armentières, Merville and a large part of the plain in front of the railway junction of [Hazebrouck](/miejsca/hazebrouck). In an [order of the day](/rozkaz-plecami-do-muru) dated 11 April Haig wrote that his soldiers were fighting with their backs to the wall. The British divisions, most of them still worn out by the battle on the Somme, were melting away, and the distance separating the Germans from Calais and Dunkirk was shrinking. Foch sent north a cavalry corps and two infantry divisions under General Robillot, and the French Tenth Army of General [Paul Maistre](https://pl.wikipedia.org/wiki/Paul_Maistre) was marching to the Doullens area. For Haig this was not enough.
 
 On Sunday 14 April, at 11 a.m., Haig, his chief of staff General Herbert Lawrence, Foch, his chief of staff General [Maxime Weygand](/postacie/maxime-weygand), the head of the British liaison mission to Foch, General John Du Cane, and Lord Milner, who had come over from England specially, met at Abbeville. Haig presented a note from his staff and explained that because of heavy losses the British divisions were vanishing before his eyes, and the remaining soldiers were utterly tired. The German reserves were intact, the British exhausted. The French reserves, meanwhile, stood too far away to stop the Germans if they made for Calais. Haig was convinced that the German high command intended to decide the war by destroying the British army.
 

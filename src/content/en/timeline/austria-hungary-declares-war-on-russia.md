@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Russia
 summary: On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg handed over the declaration of war. The monarchy's main front shifted to Galicia.
 source: austro-wegry-wypowiadaja-wojne-rosji
-sourceHash: f76e65a20e277a547a009b9bb32f6144b89b0b72
+sourceHash: 985ebcc0ef2c40c33df709f38f35596486a6ec21
 brief:
   - "On 6 August 1914 the Austro-Hungarian ambassador in St Petersburg, Count Friedrich Szápáry, handed Sergey Sazonov a declaration of war on Russia."
   - "Austria-Hungary was the last of the great powers in the east to declare war, as it was still mobilising and had sent part of its forces against Serbia. Germany had declared war on Russia on 1 August."
@@ -19,7 +19,7 @@ Although the whole crisis had begun with Vienna's dispute with Belgrade and with
 
 ## The front in Galicia
 
-The declaration of war meant that the main front of Austria-Hungary became [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)), a border province inhabited largely by Poles and Ukrainians. It was there, at the end of August, that great battles with the Russian army were fought. After initial successes at [Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) and [Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)), the Austro-Hungarian army suffered a heavy defeat. In early September the Russians took [Lviv](https://pl.wikipedia.org/wiki/Lwów), and soon afterwards laid siege to the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl).
+The declaration of war meant that the main front of Austria-Hungary became [Galicia](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)), a border province inhabited largely by Poles and Ukrainians. It was there, at the end of August, that great battles with the Russian army were fought. After initial successes at [Kraśnik](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) and [Komarów](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)), the Austro-Hungarian army suffered a heavy defeat. In early September the Russians took [Lviv](/miejsca/lwow), and soon afterwards laid siege to the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl).
 
 ## The Polish dimension of the war
 

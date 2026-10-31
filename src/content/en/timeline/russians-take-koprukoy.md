@@ -2,10 +2,10 @@
 title: Russians take Köprüköy
 summary: In the first week of November 1914 Russian troops reached Köprüköy on the road to Erzurum. The British chronology states that they took it on 6 November.
 source: rosjanie-zajmuja-koprukoy
-sourceHash: 986f63e5bd539e3548dda8affff032e32487cb47
+sourceHash: 42a939c8dfc66c4589ec718e05707881543f2fb1
 ---
 
-According to the British chronology of the war, on 6 November 1914 Russian troops took Köprüköy, a village on the upper [Aras](https://pl.wikipedia.org/wiki/Araks), roughly halfway between the border and the fortress of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). There was a stone bridge over the river there, carrying the main road from the Russian Caucasus into the interior of Anatolia. It was therefore an important crossing on the way to Erzurum.
+According to the British chronology of the war, on 6 November 1914 Russian troops took Köprüköy, a village on the upper [Aras](https://pl.wikipedia.org/wiki/Araks), roughly halfway between the border and the fortress of [Erzurum](/miejsca/erzurum). There was a stone bridge over the river there, carrying the main road from the Russian Caucasus into the interior of Anatolia. It was therefore an important crossing on the way to Erzurum.
 
 A few days earlier General Georgy Bergmann had [crossed the border](/rosjanie-wkraczaja-do-turcji) and reached the village of Azap without much difficulty. Instead of digging in on the line he had gained, as the plan envisaged, he led his corps further west. According to studies, the Russians arrived before Köprüköy between 4 and 6 November, and according to some of them took the village itself on 7 November. The sources do not agree here: some of them, including Polish Wikipedia, state that the Turkish units held their positions and the Russians failed to break through the defence.
 

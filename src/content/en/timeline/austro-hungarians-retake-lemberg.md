@@ -2,10 +2,10 @@
 title: Austro-Hungarians retake Lviv
 summary: On 22 June 1915 troops of the Austro-Hungarian Second Army entered Lviv. After 293 days the Russian occupation of the capital of Galicia came to an end.
 source: austro-wegrzy-odbijaja-lwow
-sourceHash: 78188709a4ad898afe95b3cd0a2f52074f6e0533
+sourceHash: 7cadb048237dbe83dedc41dd031307c144be2b94
 ---
 
-On 22 June 1915 troops of the Austro-Hungarian [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) under General [Eduard von Böhm-Ermolli](/postacie/eduard-von-bohm-ermolli) entered [Lviv](https://pl.wikipedia.org/wiki/Lwów), the capital of Austrian Galicia. In the morning his corps stormed the defences on the western approaches to the city, and at noon the last Russian units left it, heading east. So ended the occupation that had begun on [3 September 1914](/rosjanie-zdobywaja-lwow) and lasted 293 days. For the Central Powers it was one of their greatest successes in the east since the beginning of the war, and for the city's inhabitants the end of ten months of Russian rule.
+On 22 June 1915 troops of the Austro-Hungarian [Second Army](https://pl.wikipedia.org/wiki/2_Armia_(austro-węgierska)) under General [Eduard von Böhm-Ermolli](/postacie/eduard-von-bohm-ermolli) entered [Lviv](/miejsca/lwow), the capital of Austrian Galicia. In the morning his corps stormed the defences on the western approaches to the city, and at noon the last Russian units left it, heading east. So ended the occupation that had begun on [3 September 1914](/rosjanie-zdobywaja-lwow) and lasted 293 days. For the Central Powers it was one of their greatest successes in the east since the beginning of the war, and for the city's inhabitants the end of ten months of Russian rule.
 
 ## The final assault
 

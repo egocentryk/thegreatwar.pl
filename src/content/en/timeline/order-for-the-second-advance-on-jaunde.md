@@ -2,10 +2,10 @@
 title: Order for the second advance on Jaunde
 summary: On 22 September 1915 Gen. Dobell issued orders for a new advance on Jaunde in Kamerun. The British and French columns were to set off on 6 October.
 source: rozkaz-do-drugiego-marszu-na-jaunde
-sourceHash: ca2c46006ff097fe9f484d30c90bd34611360c34
+sourceHash: 0983c3d424d79bc1b772d276437ff903815b0e8c
 ---
 
-On 22 September 1915 General Charles Dobell, commander of the Anglo-French expedition in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), issued orders for the second advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), to which the German colonial authorities had moved. The British and French columns were to set off simultaneously on 6 October. In his report Dobell wrote that by 22 September preparations had advanced far enough to allow a move eastwards, which is why some British studies date the start of the second advance to that day. The fighting itself, however, did not begin until two weeks later.
+On 22 September 1915 General Charles Dobell, commander of the Anglo-French expedition in [German Kamerun](/miejsca/kamerun), issued orders for the second advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), to which the German colonial authorities had moved. The British and French columns were to set off simultaneously on 6 October. In his report Dobell wrote that by 22 September preparations had advanced far enough to allow a move eastwards, which is why some British studies date the start of the second advance to that day. The fighting itself, however, did not begin until two weeks later.
 
 ## The plan from Duala
 

@@ -2,10 +2,10 @@
 title: Germans occupy Libau
 summary: On 7 May 1915, supported by the fleet, the Germans entered Libau, a naval port in Courland. The Russian garrison withdrew, blowing up forts and depots.
 source: niemcy-zajmuja-lipawe
-sourceHash: 27a33fc8765e9f293f962fdabf6c05bfeb2ddb00
+sourceHash: 5e62d19695de59f4a84cb8b457f9700c319272ac
 ---
 
-On the evening of 7 May 1915 German troops entered [Libau](https://pl.wikipedia.org/wiki/Lipawa) (Liepāja), a Russian naval port on the coast of [Courland](https://pl.wikipedia.org/wiki/Kurlandia). The town was taken by a small detachment, supported from the sea by cruisers of the German Baltic forces. The Russian garrison put up no serious defence. It withdrew northwards, blowing up forts, ammunition dumps and bridges on its way. The Germans took full control of the town and its surroundings on the morning of 8 May, and that day the German war communiqué announced the capture of Libau. According to Latvian studies, German cavalry also occupied [Kuldīga](https://pl.wikipedia.org/wiki/Kuldyga), further inland, on 7 May.
+On the evening of 7 May 1915 German troops entered [Libau](https://pl.wikipedia.org/wiki/Lipawa) (Liepāja), a Russian naval port on the coast of [Courland](/miejsca/kurlandia). The town was taken by a small detachment, supported from the sea by cruisers of the German Baltic forces. The Russian garrison put up no serious defence. It withdrew northwards, blowing up forts, ammunition dumps and bridges on its way. The Germans took full control of the town and its surroundings on the morning of 8 May, and that day the German war communiqué announced the capture of Libau. According to Latvian studies, German cavalry also occupied [Kuldīga](https://pl.wikipedia.org/wiki/Kuldyga), further inland, on 7 May.
 
 ## The raid into Courland
 

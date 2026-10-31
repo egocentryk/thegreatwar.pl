@@ -6,14 +6,14 @@ country: German Empire
 birthPlace: Obernkirchen (now Lower Saxony)
 deathPlace: Marktredwitz (Bavaria)
 source: reinhard-scheer
-sourceHash: b6b8c499cc3368d688138852d57c13def9e5e559
+sourceHash: 0d2878ec868b00871f1cbe6c2681d9594fd72cfd
 ---
 
 Reinhard Scheer commanded the German High Seas Fleet in the only great clash of battle fleets of the First World War. At Jutland in 1916 his smaller fleet inflicted heavier losses on the British than it suffered itself, and twice broke out of a trap set by the Grand Fleet. Scheer soon concluded, however, that even the most successful battle at sea would not force Britain to make peace, and he became one of the loudest advocates of unrestricted submarine warfare, which in 1917 drew the United States into the war. In the last months of the war he directed the whole German war at sea. The plan for a final battle of the fleet, prepared by him and Hipper in October 1918, provoked a mutiny of the sailors with which the revolution in Germany began.
 
 ## Before the war
 
-He was born on 30 September 1863 in [Obernkirchen](https://pl.wikipedia.org/wiki/Obernkirchen) into a middle-class family, and thus without the aristocratic background and wealth that eased a career in the Imperial Navy. On 22 April 1879 he joined the [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) as a cadet. In the 1880s he served in Africa and the Far East, taking part among other things in an expedition against a local chief in [Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). At that time he became friends with [Henning von Holtzendorff](https://pl.wikipedia.org/wiki/Henning_von_Holtzendorff), later fleet commander and Chief of the Admiralty Staff, who supported his career for years.
+He was born on 30 September 1863 in [Obernkirchen](https://pl.wikipedia.org/wiki/Obernkirchen) into a middle-class family, and thus without the aristocratic background and wealth that eased a career in the Imperial Navy. On 22 April 1879 he joined the [Kaiserliche Marine](https://pl.wikipedia.org/wiki/Kaiserliche_Marine) as a cadet. In the 1880s he served in Africa and the Far East, taking part among other things in an expedition against a local chief in [Kamerun](/miejsca/kamerun). At that time he became friends with [Henning von Holtzendorff](https://pl.wikipedia.org/wiki/Henning_von_Holtzendorff), later fleet commander and Chief of the Admiralty Staff, who supported his career for years.
 
 Scheer made a name for himself as a specialist in torpedo weapons and torpedo-boat tactics. He attracted the attention of [Alfred von Tirpitz](/postacie/alfred-von-tirpitz), who as State Secretary brought him into the Imperial Naval Office. Scheer commanded a torpedo-boat flotilla, headed the office's central department and then commanded the battleship *Elsass*. From 1910 he was chief of staff of the High Seas Fleet under Holtzendorff, and was already working on principles for manoeuvring the whole fleet in battle. That same year he was promoted to rear admiral; in 1911–1912 he headed the department of the office that decided on the types of new ships, and at the beginning of 1913 he took over the II Battle Squadron. In December 1913 he became a vice admiral. He was stern and demanding, known in the navy as "the man with the iron mask", but he valued initiative and was not afraid of responsibility.
 

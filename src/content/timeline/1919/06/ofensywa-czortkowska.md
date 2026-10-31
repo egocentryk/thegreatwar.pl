@@ -17,7 +17,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Ofensywa_czortkowska"
 ---
 
-7 czerwca 1919 roku [Ukraińska Armia Halicka](https://pl.wikipedia.org/wiki/Ukraińska_Armia_Halicka), którą polskie dowództwo uważało za rozbitą, uderzyła na Polaków znad [Zbrucza](https://pl.wikipedia.org/wiki/Zbrucz) i [Dniestru](https://pl.wikipedia.org/wiki/Dniestr). Następnego dnia zdobyła [Czortków](https://pl.wikipedia.org/wiki/Czortków), od którego natarcie wzięło nazwę. Ofensywa czortkowska była ostatnim ukraińskim natarciem w wojnie o Galicję Wschodnią. Przez trzy tygodnie odebrała Polakom znaczną część kraju zajętego w maju i omal nie przeniosła frontu z powrotem pod Lwów.
+7 czerwca 1919 roku [Ukraińska Armia Halicka](https://pl.wikipedia.org/wiki/Ukraińska_Armia_Halicka), którą polskie dowództwo uważało za rozbitą, uderzyła na Polaków znad [Zbrucza](https://pl.wikipedia.org/wiki/Zbrucz) i [Dniestru](/miejsca/dniestr). Następnego dnia zdobyła [Czortków](https://pl.wikipedia.org/wiki/Czortków), od którego natarcie wzięło nazwę. Ofensywa czortkowska była ostatnim ukraińskim natarciem w wojnie o Galicję Wschodnią. Przez trzy tygodnie odebrała Polakom znaczną część kraju zajętego w maju i omal nie przeniosła frontu z powrotem pod Lwów.
 
 ## W trójkącie nad Zbruczem
 

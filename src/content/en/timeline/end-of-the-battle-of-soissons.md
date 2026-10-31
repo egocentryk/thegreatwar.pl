@@ -2,10 +2,10 @@
 title: End of the Battle of Soissons
 summary: On 14 January 1915 the French, driven off the heights at Crouy by a German counter-attack, fell back across the flooded Aisne, losing over 5,000 prisoners.
 source: koniec-bitwy-pod-soissons
-sourceHash: 7e1d5c22f5a9f90b89f9b6911963d105001de72e
+sourceHash: 6c62394502c8af9f1cef657e3a15c66a2d1cec95
 ---
 
-On 14 January 1915 the Battle of Soissons came to an end. The last French units withdrew to the south bank of the flooded river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), and the Germans occupied the northern suburbs of [Soissons](https://pl.wikipedia.org/wiki/Soissons) and pushed outposts forward to the river. The battle, which had [begun on 8 January](/poczatek-bitwy-pod-soissons) with the French capture of Hill 132 above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy), ended in a clear defeat for them.
+On 14 January 1915 the Battle of Soissons came to an end. The last French units withdrew to the south bank of the flooded river [Aisne](/miejsca/aisne), and the Germans occupied the northern suburbs of [Soissons](/miejsca/soissons) and pushed outposts forward to the river. The battle, which had [begun on 8 January](/poczatek-bitwy-pod-soissons) with the French capture of Hill 132 above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy), ended in a clear defeat for them.
 
 ## The German counter-attack
 

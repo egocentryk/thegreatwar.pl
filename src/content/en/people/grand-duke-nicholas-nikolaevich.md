@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: St Petersburg (Russian Empire)
 deathPlace: Antibes (France)
 source: mikolaj-mikolajewicz
-sourceHash: b2a1c604ed342841291b4c2cbf3e3a26f895d4c0
+sourceHash: 6c2e4aaf7c61a3a97d59df0eca9a1244b9a47a20
 ---
 
 Grand Duke Nicholas Nikolaevich Romanov, known in the family as "Nikolasha", was commander-in-chief of the Russian Army for the first thirteen months of the war. He was in command during the great victories over Austria-Hungary in Galicia and the heavy defeats in the clashes with the Germans, from Tannenberg to the Great Retreat of 1915. Almost two metres tall, stern and hot-tempered, he enjoyed a popularity in the army and in society that no other member of the dynasty had. That popularity eventually became one of the reasons for his fall: in September 1915 Tsar [Nicholas II](/postacie/mikolaj-ii) took command himself and sent his uncle to the Caucasus. In Poland his name is associated above all with the proclamation to the Poles of August 1914.
@@ -35,7 +35,7 @@ In May the Germans and Austrians broke through the front [at Gorlice](/bitwy/bit
 
 This period also weighs on his record in another way. The Stavka sought the culprits for the defeats among "internal enemies". The grand duke confirmed the death sentence on Colonel Sergei Myasoyedov, accused of espionage on dubious evidence, which fuelled spy mania in the country. With his consent Yanushkevich ordered Jews and German colonists to be deported from the frontline provinces, and during the retreat the property of the population to be destroyed and the people driven east. Hundreds of thousands of deportees and refugees ended up deep inside Russia. Historians regard these deportations as one of the darkest chapters of the Russian high command in this war.
 
-The defeats weakened the grand duke's position at court. Empress [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna) and [Grigori Rasputin](/postacie/grigorij-rasputin) had long distrusted him, and the tsar watched with unease as the Stavka received public delegations and meddled in civilian affairs. In June the grand duke also contributed to the [dismissal of Sukhomlinov](/dymisja-suchomlinowa). Despite the protest of eight ministers, on 5 September 1915 the tsar arrived at the Stavka in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew) and [took supreme command himself](/mikolaj-ii-obejmuje-naczelne-dowodztwo).
+The defeats weakened the grand duke's position at court. Empress [Alexandra Feodorovna](/postacie/aleksandra-fiodorowna) and [Grigori Rasputin](/postacie/grigorij-rasputin) had long distrusted him, and the tsar watched with unease as the Stavka received public delegations and meddled in civilian affairs. In June the grand duke also contributed to the [dismissal of Sukhomlinov](/dymisja-suchomlinowa). Despite the protest of eight ministers, on 5 September 1915 the tsar arrived at the Stavka in [Mogilev](/miejsca/mohylew) and [took supreme command himself](/mikolaj-ii-obejmuje-naczelne-dowodztwo).
 
 ## Viceroy of the Caucasus
 

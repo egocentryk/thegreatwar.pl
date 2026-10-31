@@ -12,11 +12,11 @@ milestone: false
 draft: false
 ---
 
-O świcie 18 stycznia 1915 roku niemieckie wojska kolonialne podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) uderzyły na Jasin, plantację palm kokosowych i sizalu tuż za granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Brytyjczycy [zajęli ją w Boże Narodzenie](/brytyjczycy-zajmuja-jasin) i od tej pory trzymali tam wysunięty posterunek. Główne siły generała brygady Michaela Tighe'a obozowały kilka kilometrów dalej na północ, nad graniczną rzeką Umba.
+O świcie 18 stycznia 1915 roku niemieckie wojska kolonialne podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) uderzyły na Jasin, plantację palm kokosowych i sizalu tuż za granicą [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Brytyjczycy [zajęli ją w Boże Narodzenie](/brytyjczycy-zajmuja-jasin) i od tej pory trzymali tam wysunięty posterunek. Główne siły generała brygady Michaela Tighe'a obozowały kilka kilometrów dalej na północ, nad graniczną rzeką Umba.
 
 ## Przygotowania
 
-Lettow-Vorbeck uznał obecność Brytyjczyków w Jasinie za zapowiedź marszu wzdłuż wybrzeża na [Tangę](https://pl.wikipedia.org/wiki/Tanga). Na początku stycznia osobiście obejrzał teren. Plan ataku pomógł mu przygotować oficer rezerwy, który przed wojną latami pracował na tej plantacji i znał każdą ścieżkę. Kompanie spod [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro) przewieziono koleją nad morze. 16 stycznia wysiadły pod Tangą i od razu ruszyły na północ. Wieczorem 17 stycznia dziewięć kompanii z dwoma działami polowymi zebrało się na plantacji Totohovu, około 11 kilometrów na południe od Jasinu.
+Lettow-Vorbeck uznał obecność Brytyjczyków w Jasinie za zapowiedź marszu wzdłuż wybrzeża na [Tangę](https://pl.wikipedia.org/wiki/Tanga). Na początku stycznia osobiście obejrzał teren. Plan ataku pomógł mu przygotować oficer rezerwy, który przed wojną latami pracował na tej plantacji i znał każdą ścieżkę. Kompanie spod [Kilimandżaro](/bitwy/kampania-wschodnioafrykanska) przewieziono koleją nad morze. 16 stycznia wysiadły pod Tangą i od razu ruszyły na północ. Wieczorem 17 stycznia dziewięć kompanii z dwoma działami polowymi zebrało się na plantacji Totohovu, około 11 kilometrów na południe od Jasinu.
 
 Niemiecki dowódca liczył, że atak na wysunięty posterunek wywabi główne siły Brytyjczyków z umocnionych obozów. Zamierzał rozbić je w buszu, gdy ruszą na pomoc. Dwie kompanie miały obejść Jasin z prawej strony, dwie z lewej, a jedna uderzyć wprost wzdłuż drogi. Za nią szły główne siły z kompanią europejską i działami. Na drodze z północnego zachodu, od Samanyi, czekał w zasadzce oddział arabskich ochotników.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 3 marca 1916 roku, że rządy Francji i Wielkiej Brytanii zawarły porozumienie o tymczasowej administracji zdobytego [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Dokładna data jest niepewna, bo podział uzgadniano w kilku krokach. Historycy badający brytyjskie archiwa wskazują na rozmowy w Londynie z udziałem francuskiego dyplomaty François Georges-Picota, prowadzone od 23 lutego. Według części opracowań linię podziału wyrysowano na mapie 4 marca, a rokowania zamknięto 6 marca. Formalną konwencję o zarządzie zdobytym terytorium, jak podaje brytyjska historia oficjalna wojny na morzu (Newbolt, *Naval Operations*), podpisano dopiero 29 marca.
+Brytyjska chronologia wojny notuje pod 3 marca 1916 roku, że rządy Francji i Wielkiej Brytanii zawarły porozumienie o tymczasowej administracji zdobytego [Kamerunu Niemieckiego](/miejsca/kamerun). Dokładna data jest niepewna, bo podział uzgadniano w kilku krokach. Historycy badający brytyjskie archiwa wskazują na rozmowy w Londynie z udziałem francuskiego dyplomaty François Georges-Picota, prowadzone od 23 lutego. Według części opracowań linię podziału wyrysowano na mapie 4 marca, a rokowania zamknięto 6 marca. Formalną konwencję o zarządzie zdobytym terytorium, jak podaje brytyjska historia oficjalna wojny na morzu (Newbolt, *Naval Operations*), podpisano dopiero 29 marca.
 
 ## Kłopot ze wspólnym zarządem
 

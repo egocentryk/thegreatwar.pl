@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-22 listopada 1914 roku główne siły Indyjskiego Korpusu Ekspedycyjnego „D” generała porucznika Arthura Barretta weszły do [Basry](https://pl.wikipedia.org/wiki/Basra), głównego miasta i portu osmańskiej prowincji nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska). Turcy oddali je bez walki. Zaledwie dwa tygodnie wcześniej Brytyjczycy [wylądowali w Fao](/ladowanie-w-fao) u ujścia [Szatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab), a teraz mieli w ręku najważniejszy punkt dolnej Mezopotamii. Formalne zajęcie miasta ogłoszono nazajutrz, 23 listopada.
+22 listopada 1914 roku główne siły Indyjskiego Korpusu Ekspedycyjnego „D” generała porucznika Arthura Barretta weszły do [Basry](/miejsca/basra), głównego miasta i portu osmańskiej prowincji nad [Zatoką Perską](https://pl.wikipedia.org/wiki/Zatoka_Perska). Turcy oddali je bez walki. Zaledwie dwa tygodnie wcześniej Brytyjczycy [wylądowali w Fao](/ladowanie-w-fao) u ujścia [Szatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab), a teraz mieli w ręku najważniejszy punkt dolnej Mezopotamii. Formalne zajęcie miasta ogłoszono nazajutrz, 23 listopada.
 
 ## Turcy opuszczają miasto
 
@@ -29,4 +29,4 @@ Barrett wysłał rzeką dwa bataliony 16 Brygady, 104 Pułk Strzelców Wellesley
 
 Zajęcie Basry zamknęło pierwszy etap [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Brytyjczycy zabezpieczyli rafinerię i rurociąg Anglo-Persian Oil Company w [Abadanie](https://pl.wikipedia.org/wiki/Abadan), panowali nad ujściem Szatt al-Arab i zdobyli port, przez który mogli zaopatrywać dalsze działania. Był to jeden z pierwszych wyraźnych brytyjskich sukcesów w tej wojnie. Londyński „Daily Mail” obwieścił go nagłówkiem „Kolejna czerwona plama na mapie”, nawiązując do koloru, którym zaznaczano posiadłości imperium.
 
-Łatwe zwycięstwo rozbudziło jednak apetyty. Już w grudniu Brytyjczycy ruszyli w górę rzeki na Al-Kurnę, a w Indiach coraz częściej mówiono o marszu na [Bagdad](/miejsca/bagdad). Ta pokusa doprowadziła w 1916 roku do kapitulacji brytyjskiej dywizji w oblężonym [Al-Kucie](https://pl.wikipedia.org/wiki/Al-Kut). Basra natomiast pozostała w brytyjskich rękach do końca wojny i stała się główną bazą wojsk walczących w Mezopotamii.
+Łatwe zwycięstwo rozbudziło jednak apetyty. Już w grudniu Brytyjczycy ruszyli w górę rzeki na Al-Kurnę, a w Indiach coraz częściej mówiono o marszu na [Bagdad](/miejsca/bagdad). Ta pokusa doprowadziła w 1916 roku do kapitulacji brytyjskiej dywizji w oblężonym [Al-Kucie](/miejsca/al-kut). Basra natomiast pozostała w brytyjskich rękach do końca wojny i stała się główną bazą wojsk walczących w Mezopotamii.

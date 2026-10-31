@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 15 stycznia 1916 roku przeniesienie rządu serbskiego do [Brindisi](https://pl.wikipedia.org/wiki/Brindisi) we Włoszech. Od początku grudnia 1915 roku premier [Nikola Pašić](/postacie/nikola-pasic) i jego ministrowie [urzędowali w Szkodrze](/rzad-serbski-w-szkodrze), w północnej Albanii, dokąd dotarli po odwrocie przez góry. Według historyka Albanii Owena Pearsona ministrowie i korpus dyplomatyczny wsiedli 14 stycznia w San Giovanni di Medua na włoski statek Città di Bari, który zabrał ich do Brindisi. Również francuskie zestawienia chronologiczne podają, że rząd opuścił Szkodrę 14 stycznia. Depesza z Brindisi z 17 stycznia, opublikowana w „New York Timesie”, donosiła, że przybyło tam ze Szkodry kilkudziesięciu członków rządu i urzędników razem z posłami państw sprzymierzonych akredytowanymi przy królu Serbii.
+Brytyjska chronologia wojny notuje pod 15 stycznia 1916 roku przeniesienie rządu serbskiego do [Brindisi](/miejsca/brindisi) we Włoszech. Od początku grudnia 1915 roku premier [Nikola Pašić](/postacie/nikola-pasic) i jego ministrowie [urzędowali w Szkodrze](/rzad-serbski-w-szkodrze), w północnej Albanii, dokąd dotarli po odwrocie przez góry. Według historyka Albanii Owena Pearsona ministrowie i korpus dyplomatyczny wsiedli 14 stycznia w San Giovanni di Medua na włoski statek Città di Bari, który zabrał ich do Brindisi. Również francuskie zestawienia chronologiczne podają, że rząd opuścił Szkodrę 14 stycznia. Depesza z Brindisi z 17 stycznia, opublikowana w „New York Timesie”, donosiła, że przybyło tam ze Szkodry kilkudziesięciu członków rządu i urzędników razem z posłami państw sprzymierzonych akredytowanymi przy królu Serbii.
 
 ## Dlaczego trzeba było uciekać
 

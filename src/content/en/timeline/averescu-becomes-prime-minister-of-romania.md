@@ -2,7 +2,7 @@
 title: Averescu becomes prime minister of Romania
 summary: On 9 February 1918 King Ferdinand asked General Averescu to form a government. The victor of Mărăști was to talk peace with the Central Powers.
 source: averescu-premierem-rumunii
-sourceHash: 5b653b31563ed9fa1255e708c508b8a619d14083
+sourceHash: 2b41b6b8e8ba9ceb2a209939a3f1d107684777ef
 ---
 
 On 9 February 1918 (27 January by the Julian calendar, then in force in Romania) King Ferdinand I entrusted General [Alexandru Averescu](/postacie/alexandru-averescu) with the task of forming a new government. The day before, the cabinet of [Ion I. C. Brătianu](/postacie/ion-bratianu) had resigned, unwilling to conduct the peace negotiations that the Central Powers demanded after [Field Marshal Mackensen's ultimatum](/niemieckie-ultimatum-dla-rumunii). The ministers of the new government were sworn in on 11 February (29 January Old Style). The British chronology of the war gives 9 February as the date of the appointment. On the same day at Brest-Litovsk the Central Powers [made peace with Ukraine](/pokoj-brzeski-z-ukraina), which isolated Romania still further.
@@ -13,4 +13,4 @@ The choice was not accidental. According to Romanian historians, it was Brătian
 
 The new government tried above all to gain time. According to the account of the Liberal politician Ion G. Duca, a delegation was sent to Mackensen asking for a thirty-day extension of the armistice, but only ten days could be obtained. In the second half of February Averescu himself went to [Buftea](https://pl.wikipedia.org/wiki/Buftea), near occupied Bucharest, for a talk with the field marshal. Romanian sources give different dates for this meeting, 18 or 22 February. Mackensen was reserved, and the general returned full of hopes that soon proved vain.
 
-The Averescu government did not gain much from playing for time. At the end of February the foreign ministers of Germany and Austria-Hungary joined the talks, and on 5 March Argetoianu signed at Buftea a preliminary peace in which Romania agreed to give up [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). A dozen or so days later Averescu stepped down. His place was taken by the pro-German Conservative [Alexandru Marghiloman](/postacie/alexandru-marghiloman), whose government concluded the [Treaty of Bucharest](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1918)) on 7 May 1918.
+The Averescu government did not gain much from playing for time. At the end of February the foreign ministers of Germany and Austria-Hungary joined the talks, and on 5 March Argetoianu signed at Buftea a preliminary peace in which Romania agreed to give up [Dobruja](/miejsca/dobrudza). A dozen or so days later Averescu stepped down. His place was taken by the pro-German Conservative [Alexandru Marghiloman](/postacie/alexandru-marghiloman), whose government concluded the [Treaty of Bucharest](https://pl.wikipedia.org/wiki/Traktat_w_Bukareszcie_(1918)) on 7 May 1918.

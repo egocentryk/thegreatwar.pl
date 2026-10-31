@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 września 1914 roku książę [Wilhelm zu Wied](https://pl.wikipedia.org/wiki/Wilhelm_zu_Wied), władca Albanii, opuścił swój kraj. Wraz z żoną, księżną [Zofią](https://pl.wikipedia.org/wiki/Zofia_Schönburg-Waldenburg), i częścią rządu wszedł w porcie w [Durrës](https://pl.wikipedia.org/wiki/Durrës) na pokład włoskiego okrętu (według części źródeł była to jednostka Misurata) i odpłynął w stronę Wenecji. Po zaledwie sześciu miesiącach rządów pozostawił kraj pogrążony w buncie i chaosie.
+3 września 1914 roku książę [Wilhelm zu Wied](https://pl.wikipedia.org/wiki/Wilhelm_zu_Wied), władca Albanii, opuścił swój kraj. Wraz z żoną, księżną [Zofią](https://pl.wikipedia.org/wiki/Zofia_Schönburg-Waldenburg), i częścią rządu wszedł w porcie w [Durrës](/miejsca/durres) na pokład włoskiego okrętu (według części źródeł była to jednostka Misurata) i odpłynął w stronę Wenecji. Po zaledwie sześciu miesiącach rządów pozostawił kraj pogrążony w buncie i chaosie.
 
 ## Książę z nadania mocarstw
 
@@ -31,4 +31,4 @@ Wyjeżdżając, książę nie abdykował. W odezwie do Albańczyków ogłosił, 
 
 ## Znaczenie
 
-Po wyjeździe księcia Albania rozpadła się na strefy wpływów. Na jesieni do Durrës wrócił Esad Pasza, który przejął władzę w środkowej części kraju. Południe zajęli Grecy, a jesienią i zimą 1914 roku Włosi obsadzili wyspę Sazan i port [Wlorę](https://pl.wikipedia.org/wiki/Wlora). Kraj, który miał być neutralnym buforem między Serbią, Grecją, Włochami i Austro-Węgrami, stał się w czasie wojny terenem przemarszów i okupacji obcych armii.
+Po wyjeździe księcia Albania rozpadła się na strefy wpływów. Na jesieni do Durrës wrócił Esad Pasza, który przejął władzę w środkowej części kraju. Południe zajęli Grecy, a jesienią i zimą 1914 roku Włosi obsadzili wyspę Sazan i port [Wlorę](/miejsca/wlora). Kraj, który miał być neutralnym buforem między Serbią, Grecją, Włochami i Austro-Węgrami, stał się w czasie wojny terenem przemarszów i okupacji obcych armii.

@@ -2,14 +2,14 @@
 title: Sinking of HMS Pegasus at Zanzibar
 summary: On 20 September 1914 the German cruiser Königsberg surprised the British cruiser Pegasus in Zanzibar harbour and sank her. Several dozen sailors were killed.
 source: zatoniecie-hms-pegasus
-sourceHash: ec67313501c1cf7444c324b123280aca2f29dce2
+sourceHash: 9c9a59419ac1c3784c1eebb912e58921416fb238
 ---
 
 At dawn on 20 September 1914 the German light cruiser [SMS *Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)) entered the harbour of the town of [Zanzibar](https://pl.wikipedia.org/wiki/Zanzibar_(miasto)) and attacked the British cruiser HMS *Pegasus* lying at anchor. Taken by surprise, the ship was unable to defend herself and sank after a short fight.
 
 ## A ship under repair
 
-*Pegasus* was an old, small [protected cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy), built at the end of the 19th century. From the start of the war she had been patrolling the coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) with other ships and had taken part in the operations begun by [the August bombardment of Dar es Salaam](/poczatek-dzialan-wojennych-w-afryce-wschodniej). In September her worn-out boilers and engines needed urgent repair. Her captain, Commander John Ingles, therefore put in at Zanzibar, a British protectorate off the coast of Africa, and began repairs. The ship lay in harbour with part of her machinery dismantled, unable to put to sea quickly.
+*Pegasus* was an old, small [protected cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancernopokładowy), built at the end of the 19th century. From the start of the war she had been patrolling the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska) with other ships and had taken part in the operations begun by [the August bombardment of Dar es Salaam](/poczatek-dzialan-wojennych-w-afryce-wschodniej). In September her worn-out boilers and engines needed urgent repair. Her captain, Commander John Ingles, therefore put in at Zanzibar, a British protectorate off the coast of Africa, and began repairs. The ship lay in harbour with part of her machinery dismantled, unable to put to sea quickly.
 
 *Königsberg*, commanded by Commander Max Looff, had been cruising the western Indian Ocean since the start of the war. As early as 6 August she had sunk the British merchant ship *City of Winchester*. Looff learned that a British warship was lying at Zanzibar and decided to attack her.
 

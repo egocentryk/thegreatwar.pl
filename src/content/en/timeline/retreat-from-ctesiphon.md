@@ -2,10 +2,10 @@
 title: Retreat from Ctesiphon
 summary: On the evening of 25 November 1915 Townshend pulled his bled-white division back from Ctesiphon to Lajj. The march on Baghdad was over; the retreat led to Kut.
 source: odwrot-spod-ktezyfonu
-sourceHash: e822f6e7b0abb4002b1e873a5bb0b15dee52927b
+sourceHash: b096c81cb9c44a28a2627410e822c037cd054d83
 ---
 
-On the evening of 25 November 1915 General Charles Townshend withdrew his division from the battlefield of [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon). At about 7.30 p.m., under cover of darkness, the troops left the ruins on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and at one in the morning, harassed only by Arabs, reached the camp and the ships at Lajj, some ten to fifteen kilometres downstream. Three days earlier Townshend had [taken the first line of Turkish trenches](/poczatek-bitwy-pod-ktezyfonem), but had lost nearly 4,500 men in doing so. The march on [Baghdad](/miejsca/bagdad) was over.
+On the evening of 25 November 1915 General Charles Townshend withdrew his division from the battlefield of [Ctesiphon](https://pl.wikipedia.org/wiki/Ktezyfon). At about 7.30 p.m., under cover of darkness, the troops left the ruins on the [Tigris](/miejsca/tygrys) and at one in the morning, harassed only by Arabs, reached the camp and the ships at Lajj, some ten to fifteen kilometres downstream. Three days earlier Townshend had [taken the first line of Turkish trenches](/poczatek-bitwy-pod-ktezyfonem), but had lost nearly 4,500 men in doing so. The march on [Baghdad](/miejsca/bagdad) was over.
 
 ## Two armies in uncertainty
 
@@ -23,4 +23,4 @@ Nixon had already sailed downstream with his staff, to Aziziyah, and received th
 
 The fate of the wounded was the most tragic. There were far more of them than had been expected, and they did not fit on the two steamers prepared for them. The doctors had to cram most of them onto six other ships and barges not equipped to carry the sick. There was a shortage of staff, medicines and dressings, and the journey downstream was going to be long. Nixon later explained that there had been no choice, because wounded left behind would have been murdered by Arab marauders.
 
-Lajj did not remain a halting place for long. On 26 November the Turks returned to their first line, and Nureddin sent cavalry and Arab detachments after the British. On 27 November Townshend learned that about 12,000 Turkish infantry were approaching and in a single night march fell back to Aziziyah. On 1 December he repulsed the Turks at Umm al-Tubul, and on 3 December his exhausted troops entered [Kut](https://pl.wikipedia.org/wiki/Al-Kut). There Townshend decided to stand and wait for relief. A few days later the Turks surrounded the town.
+Lajj did not remain a halting place for long. On 26 November the Turks returned to their first line, and Nureddin sent cavalry and Arab detachments after the British. On 27 November Townshend learned that about 12,000 Turkish infantry were approaching and in a single night march fell back to Aziziyah. On 1 December he repulsed the Turks at Umm al-Tubul, and on 3 December his exhausted troops entered [Kut](/miejsca/al-kut). There Townshend decided to stand and wait for relief. A few days later the Turks surrounded the town.

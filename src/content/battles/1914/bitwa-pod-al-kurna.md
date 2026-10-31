@@ -17,7 +17,7 @@ tags: [Indie Brytyjskie, Imperium Osmańskie, Wielka Brytania]
 milestone: false
 ---
 
-Bitwa pod Al-Kurną, w brytyjskiej historiografii nazywana „pierwszą akcją pod Kurną”, była ostatnim starciem pierwszej fazy [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Po zajęciu [Basry](/brytyjczycy-zajmuja-basre) Indyjski Korpus Ekspedycyjny „D” ruszył w górę rzeki, by wyprzeć Turków z [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), miasteczka u zbiegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Walki trwały z przerwami sześć dni. Zakończyły się kapitulacją tureckiego garnizonu, który dał się odciąć od drogi odwrotu na północ.
+Bitwa pod Al-Kurną, w brytyjskiej historiografii nazywana „pierwszą akcją pod Kurną”, była ostatnim starciem pierwszej fazy [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Po zajęciu [Basry](/brytyjczycy-zajmuja-basre) Indyjski Korpus Ekspedycyjny „D” ruszył w górę rzeki, by wyprzeć Turków z [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), miasteczka u zbiegu [Tygrysu](/miejsca/tygrys) i [Eufratu](/miejsca/eufrat). Walki trwały z przerwami sześć dni. Zakończyły się kapitulacją tureckiego garnizonu, który dał się odciąć od drogi odwrotu na północ.
 
 ## Dlaczego Al-Kurna
 
@@ -57,4 +57,4 @@ W wielu opracowaniach bitwa datowana jest na 3–9 grudnia, bo 3 grudnia oddzia�
 
 Zajęcie Al-Kurny zamknęło pierwszą fazę kampanii mezopotamskiej. W ciągu pięciu tygodni od [lądowania w Fao](/ladowanie-w-fao) korpus Barretta rozbił w kolejnych starciach tureckie siły w dolnej Mezopotamii, zabezpieczył rafinerię w Abadanie, Basrę i cały bieg Szatt al-Arab. Al-Kurna stała się wysuniętym posterunkiem na Tygrysie, osłaniającym Basrę od północy. Pokazy brytyjskiej siły nie uszły też uwagi plemion arabskich znad Zatoki Perskiej, na których przychylności zależało zarówno Brytyjczykom, jak i Turkom.
 
-Łatwość tych zwycięstw okazała się jednak zdradliwa. Utwierdziła Brytyjczyków w przekonaniu, że armia osmańska w Mezopotamii jest słaba, co w kolejnym roku skłoniło ich do coraz dalszych wypraw w górę Tygrysu, aż po klęskę pod [Al-Kutem](https://pl.wikipedia.org/wiki/Al-Kut) w 1916 roku.
+Łatwość tych zwycięstw okazała się jednak zdradliwa. Utwierdziła Brytyjczyków w przekonaniu, że armia osmańska w Mezopotamii jest słaba, co w kolejnym roku skłoniło ich do coraz dalszych wypraw w górę Tygrysu, aż po klęskę pod [Al-Kutem](/miejsca/al-kut) w 1916 roku.

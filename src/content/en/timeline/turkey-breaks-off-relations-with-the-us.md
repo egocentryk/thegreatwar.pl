@@ -2,10 +2,10 @@
 title: Turkey breaks off relations with the US
 summary: On 20 April 1917 the Ottoman Empire, as Germany's ally, broke off diplomatic relations with the United States. Ambassador Elkus was then ill with typhus.
 source: turcja-zrywa-stosunki-z-usa
-sourceHash: 6c06efc1113071beecd0ff5af1ea19e814391880
+sourceHash: ca5918eb3b6797787bb7e8abab695e3be28163e4
 ---
 
-On Friday 20 April 1917, at a quarter past one in the afternoon, Şevki Bey, the head of the Ottoman foreign minister's private office, brought to the United States embassy in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) a note from the minister, Ahmed Nesimi. It stated that since the embassy had announced on 8 April that a state of war existed between the United States and the German Empire, the Ottoman government, an ally of Germany, "is obliged to break off diplomatic relations with the Government of the United States of America, beginning from today". The Swedish legation took over the protection of American interests in the [Ottoman Empire](/kraje/imperium-osmanskie). Thus ended relations established in 1831. They were restored only in 1927, with the new, republican Turkey.
+On Friday 20 April 1917, at a quarter past one in the afternoon, Şevki Bey, the head of the Ottoman foreign minister's private office, brought to the United States embassy in [Constantinople](/miejsca/konstantynopol) a note from the minister, Ahmed Nesimi. It stated that since the embassy had announced on 8 April that a state of war existed between the United States and the German Empire, the Ottoman government, an ally of Germany, "is obliged to break off diplomatic relations with the Government of the United States of America, beginning from today". The Swedish legation took over the protection of American interests in the [Ottoman Empire](/kraje/imperium-osmanskie). Thus ended relations established in 1831. They were restored only in 1927, with the new, republican Turkey.
 
 ## An ambassador in fever
 

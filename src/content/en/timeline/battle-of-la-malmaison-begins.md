@@ -2,10 +2,10 @@
 title: Battle of La Malmaison begins
 summary: At 5.15 a.m. on 23 October 1917 the French Sixth Army attacked the western end of the Chemin des Dames. Zouaves took Fort La Malmaison; Chavignon fell too.
 source: poczatek-bitwy-pod-la-malmaison
-sourceHash: c1567a6ad927b119568c23b5944377dc55b3c278
+sourceHash: e7d7eb831c601d3b2d276353aa84863b042bf79b
 ---
 
-At 5.15 a.m. on 23 October 1917, in darkness, the French Sixth Army of General [Paul Maistre](https://pl.wikipedia.org/wiki/Paul_Maistre) attacked the western end of the Chemin des Dames ridge, between Vauxaillon and the farm of La Royère, about 15 km north-east of [Soissons](https://pl.wikipedia.org/wiki/Soissons). Six divisions of three corps, supported by more than sixty tanks, advanced behind a dense creeping barrage fired by about 1,800 guns. Before 6.30 a.m. Zouaves had taken the ruins of Fort La Malmaison, and in the afternoon the French came down from the plateau to the villages of Vaudesson and Chavignon above the valley of the [Ailette](https://pl.wikipedia.org/wiki/Ailette). In the evening General [Philippe Pétain](/postacie/philippe-petain) announced that more than 7,500 prisoners had been taken. It was the most successful day of the French army in 1917, achieved on the same ridge on which the [Nivelle offensive](/zalamanie-ofensywy-nivellea) had collapsed half a year earlier.
+At 5.15 a.m. on 23 October 1917, in darkness, the French Sixth Army of General [Paul Maistre](https://pl.wikipedia.org/wiki/Paul_Maistre) attacked the western end of the Chemin des Dames ridge, between Vauxaillon and the farm of La Royère, about 15 km north-east of [Soissons](/miejsca/soissons). Six divisions of three corps, supported by more than sixty tanks, advanced behind a dense creeping barrage fired by about 1,800 guns. Before 6.30 a.m. Zouaves had taken the ruins of Fort La Malmaison, and in the afternoon the French came down from the plateau to the villages of Vaudesson and Chavignon above the valley of the [Ailette](https://pl.wikipedia.org/wiki/Ailette). In the evening General [Philippe Pétain](/postacie/philippe-petain) announced that more than 7,500 prisoners had been taken. It was the most successful day of the French army in 1917, achieved on the same ridge on which the [Nivelle offensive](/zalamanie-ofensywy-nivellea) had collapsed half a year earlier.
 
 ## The night before the attack
 

@@ -2,10 +2,10 @@
 title: Central Powers enter Dobruja
 summary: On the night of 1–2 September 1916 Toshev's Bulgarian 3rd Army crossed the Dobruja border along its whole length and split the Romanian garrisons apart.
 source: panstwa-centralne-wkraczaja-do-dobrudzy
-sourceHash: 4e4391c02f1672ac3eeb270512dad743325c8211
+sourceHash: a47a6a73fbf2674a850dafbd32bb69c9a4c9fa5c
 ---
 
-On 2 September 1916, the day after [Bulgaria declared war on Romania](/bulgaria-wypowiada-wojne-rumunii), the troops of the Central Powers crossed the whole length of the border into southern [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża), the region the Bulgarians had lost to Romania in 1913. The Austrian official history states that the Bulgarians crossed the border on 1 September. The Romanian historian Constantin Kirițescu, who described this fighting in detail, writes that the Bulgarian offensive began all along the line on the night of 1–2 September. Skirmishes had in any case been taking place on both sides of the border for several days.
+On 2 September 1916, the day after [Bulgaria declared war on Romania](/bulgaria-wypowiada-wojne-rumunii), the troops of the Central Powers crossed the whole length of the border into southern [Dobruja](/miejsca/dobrudza), the region the Bulgarians had lost to Romania in 1913. The Austrian official history states that the Bulgarians crossed the border on 1 September. The Romanian historian Constantin Kirițescu, who described this fighting in detail, writes that the Bulgarian offensive began all along the line on the night of 1–2 September. Skirmishes had in any case been taking place on both sides of the border for several days.
 
 ## Mackensen's plan
 

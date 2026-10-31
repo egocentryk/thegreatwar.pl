@@ -39,7 +39,7 @@ Walki szybko objęły całą linię rzeki. 27 sierpnia Niemcy przeszli do ogóln
 
 ## Co dalej
 
-28 sierpnia 4 Armia przeprowadziła kontrnatarcie, próbując zepchnąć Niemców z powrotem za Mozę. W kilku miejscach odniosła lokalne sukcesy, ale wieczorem nadszedł rozkaz dalszego odwrotu na linię rzeki [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Zawiedzeni żołnierze musieli opuścić pozycje, których skutecznie bronili. Tego samego dnia na lewym skrzydle Dywizja Marokańska stoczyła krwawy bój pod [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) z wojskami Hausena, które próbowały wbić się między 4 i 5 Armię.
+28 sierpnia 4 Armia przeprowadziła kontrnatarcie, próbując zepchnąć Niemców z powrotem za Mozę. W kilku miejscach odniosła lokalne sukcesy, ale wieczorem nadszedł rozkaz dalszego odwrotu na linię rzeki [Aisne](/miejsca/aisne). Zawiedzeni żołnierze musieli opuścić pozycje, których skutecznie bronili. Tego samego dnia na lewym skrzydle Dywizja Marokańska stoczyła krwawy bój pod [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) z wojskami Hausena, które próbowały wbić się między 4 i 5 Armię.
 
 ## Znaczenie
 

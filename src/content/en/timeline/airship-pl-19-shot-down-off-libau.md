@@ -2,10 +2,10 @@
 title: Airship PL 19 shot down off Libau
 summary: At the end of January 1915 the German airship PL 19, damaged after a raid on Libau, came down in the Baltic. Seven airmen were taken prisoner by the Russians.
 source: sterowiec-pl-19-stracony-pod-lipawa
-sourceHash: acd48995fccd49349c579f2f28358166cd963e7e
+sourceHash: 0412d33e3678cb91ab739dcd6f15e921c035dd89
 ---
 
-The British chronology of the war records under 24 January 1915 the loss of the German [airship](/slownik/sterowiec) PL 19 near [Libau](https://pl.wikipedia.org/wiki/Lipawa), a Russian port in [Courland](https://pl.wikipedia.org/wiki/Kurlandia), then called Libava (Libau in German). The airship bombed the town, came down in the sea on the way back, and its crew was taken prisoner. Most studies, including German ones, and the Russian documents, however, give the date as 25 January (12 January according to the [Julian calendar](/slownik/kalendarz-julianski) then in use in Russia).
+The British chronology of the war records under 24 January 1915 the loss of the German [airship](/slownik/sterowiec) PL 19 near [Libau](https://pl.wikipedia.org/wiki/Lipawa), a Russian port in [Courland](/miejsca/kurlandia), then called Libava (Libau in German). The airship bombed the town, came down in the sea on the way back, and its crew was taken prisoner. Most studies, including German ones, and the Russian documents, however, give the date as 25 January (12 January according to the [Julian calendar](/slownik/kalendarz-julianski) then in use in Russia).
 
 ## An airship ordered by the British
 

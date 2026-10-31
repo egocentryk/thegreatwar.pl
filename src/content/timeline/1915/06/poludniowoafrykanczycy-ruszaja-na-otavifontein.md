@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 19 czerwca 1915 roku początek ostatniej ofensywy wojsk [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) w [Niemieckiej Afryce Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Celem były źródła Otavifontein pod [Otavi](https://pl.wikipedia.org/wiki/Otavi), wokół których zebrały się ostatnie siły niemieckie. Według oficjalnej historii południowoafrykańskiej marsz na północ zaczął się dzień wcześniej, 18 czerwca. 19 czerwca 1 Brygada Konna generała Coena Britsa zajęła [Omaruru](https://pl.wikipedia.org/wiki/Omaruru), pierwsze większe miasto na drodze, które Niemcy opuścili bez walki.
+Brytyjska chronologia wojny notuje pod 19 czerwca 1915 roku początek ostatniej ofensywy wojsk [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) w [Niemieckiej Afryce Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Celem były źródła Otavifontein pod [Otavi](https://pl.wikipedia.org/wiki/Otavi), wokół których zebrały się ostatnie siły niemieckie. Według oficjalnej historii południowoafrykańskiej marsz na północ zaczął się dzień wcześniej, 18 czerwca. 19 czerwca 1 Brygada Konna generała Coena Britsa zajęła [Omaruru](https://pl.wikipedia.org/wiki/Omaruru), pierwsze większe miasto na drodze, które Niemcy opuścili bez walki.
 
 ## Sześć tygodni przerwy
 

@@ -2,10 +2,10 @@
 title: Italians land at Vlorë
 summary: At the end of December 1914 neutral Italy occupied the Albanian port of Vlorë. Rome assured Vienna that the occupation was temporary.
 source: wlosi-laduja-we-wlorze
-sourceHash: 3cc35051e9673e0a7d6fc34e92a1f0f3860cd69e
+sourceHash: 64047a32df0c4089526c9afbda633e2fa81fca8b
 ---
 
-The British chronology of the war records under 26 December 1914 that an Italian detachment landed in the Albanian port of [Vlorë](https://pl.wikipedia.org/wiki/Wlora), and that the government in Rome notified Austria-Hungary of the temporary occupation of the town. According to Italian sources the first sailors went ashore as early as 25 December, and a few days later they were joined by a regiment of [Bersaglieri](https://pl.wikipedia.org/wiki/Bersalierzy) with a battery of mountain artillery. The Italians met no resistance.
+The British chronology of the war records under 26 December 1914 that an Italian detachment landed in the Albanian port of [Vlorë](/miejsca/wlora), and that the government in Rome notified Austria-Hungary of the temporary occupation of the town. According to Italian sources the first sailors went ashore as early as 25 December, and a few days later they were joined by a regiment of [Bersaglieri](https://pl.wikipedia.org/wiki/Bersalierzy) with a battery of mountain artillery. The Italians met no resistance.
 
 ## The key to the Adriatic
 

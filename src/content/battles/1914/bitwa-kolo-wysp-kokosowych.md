@@ -51,7 +51,7 @@ Sydney stracił czterech zabitych, a rannych było według różnych źródeł o
 
 ## Ucieczka na Ayesha
 
-Oddział Mückego pozostał na Direction Island i widział z brzegu, jak jego okręt ginie. Jeszcze tego samego dnia Niemcy zajęli stary, ledwo pływający szkuner Ayesha, stojący w lagunie, i wieczorem wyszli nim w morze. Zaczęła się jedna z najbardziej niezwykłych odysei wojny. Szkuner dotarł do holenderskiej [Sumatry](https://pl.wikipedia.org/wiki/Sumatra), gdzie w grudniu Niemcy przesiedli się na niemiecki parowiec. Przez Morze Arabskie dotarli do Arabii, a stamtąd, walcząc po drodze z Beduinami, przebili się lądem i koleją do [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol), dokąd przybyli w maju 1915 roku.
+Oddział Mückego pozostał na Direction Island i widział z brzegu, jak jego okręt ginie. Jeszcze tego samego dnia Niemcy zajęli stary, ledwo pływający szkuner Ayesha, stojący w lagunie, i wieczorem wyszli nim w morze. Zaczęła się jedna z najbardziej niezwykłych odysei wojny. Szkuner dotarł do holenderskiej [Sumatry](https://pl.wikipedia.org/wiki/Sumatra), gdzie w grudniu Niemcy przesiedli się na niemiecki parowiec. Przez Morze Arabskie dotarli do Arabii, a stamtąd, walcząc po drodze z Beduinami, przebili się lądem i koleją do [Konstantynopola](/miejsca/konstantynopol), dokąd przybyli w maju 1915 roku.
 
 ## Znaczenie
 

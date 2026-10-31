@@ -2,10 +2,10 @@
 title: Clash at Gibeon
 summary: In late April 1915 General McKenzie's mounted troops caught the retreating Germans at Gibeon. A night ambush failed, but in the morning the Germans were routed.
 source: starcie-pod-gibeonem
-sourceHash: 43e6cd1efd9c4bf1d0d9567c32e9c91e07a1a7c1
+sourceHash: 47712e3012cb2cfd782a39df21f1da65fbb89ab1
 ---
 
-The British chronology of the war records under 25–26 April 1915 a clash at Gibeon, a railway station and settlement in the southern part of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). According to the South African official account, however, the fighting began on the night of 26–27 April and was decided on the morning of 27 April. Some accounts give 28 April. The mounted brigades of Brigadier-General Sir Duncan McKenzie routed German units there that were withdrawing northwards from the south of the colony.
+The British chronology of the war records under 25–26 April 1915 a clash at Gibeon, a railway station and settlement in the southern part of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). According to the South African official account, however, the fighting began on the night of 26–27 April and was decided on the morning of 27 April. Some accounts give 28 April. The mounted brigades of Brigadier-General Sir Duncan McKenzie routed German units there that were withdrawing northwards from the south of the colony.
 
 ## The pursuit
 

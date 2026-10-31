@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 czerwca 1915 roku skapitulowała Garua (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)), niemiecka twierdza nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) na północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Komendant twierdzy, kapitan von Crailsheim, poddał się bez warunków brytyjsko-francuskim wojskom podpułkownika Fredericka Cunliffe'a i pułkownika Brisseta, które od 31 maja [ostrzeliwały forty z ciężkich dział](/poczatek-oblezenia-garui) i podchodziły do nich okopami.
+10 czerwca 1915 roku skapitulowała Garua (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)), niemiecka twierdza nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) na północy [Kamerunu Niemieckiego](/miejsca/kamerun). Komendant twierdzy, kapitan von Crailsheim, poddał się bez warunków brytyjsko-francuskim wojskom podpułkownika Fredericka Cunliffe'a i pułkownika Brisseta, które od 31 maja [ostrzeliwały forty z ciężkich dział](/poczatek-oblezenia-garui) i podchodziły do nich okopami.
 
 Do 6 czerwca oblegający odcięli załogę od wszelkiego zaopatrzenia, a miejscowi donosili o braku żywności w twierdzy. Rankiem 10 czerwca alianckie okopy były już około tysiąca jardów (niecały kilometr) od fortu A. Wtedy Cunliffe dowiedział się, że poprzedniej nocy Niemcy wyszli z twierdzy całą siłą, z taborem i amunicją, i próbowali przeprawić się przez Benue. Rzeka była jednak wezbrana, utonęło piętnastu ludzi i Crailsheim zawrócił. Cunliffe kazał konnym oddziałom zamknąć pierścień wokół fortów, a brytyjskiej kompanii obsadzić południowy brzeg rzeki. Po 13.15 alianckie ciężkie działa, zwłaszcza francuska armata kalibru 95 mm, znów otworzyły ogień na niemieckie pozycje.
 

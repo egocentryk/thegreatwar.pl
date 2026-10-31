@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Eberhard von Claer]
 result: German victory. The British and Indians held on to no part of the German trenches, and in a single day lost more than 11,600 killed, wounded and missing.
 source: bitwa-o-grzbiet-aubers
-sourceHash: a3f9f01d856f5919949d1d0beda2602ee0b69eff
+sourceHash: c0cb010c6fe826b8ce4f9ca6b8590ceed293826e
 brief:
   - "On 9 May 1915 General Douglas Haig's British First Army attacked Aubers Ridge to support the French offensive in Artois. The battle lasted one day."
   - "Haig wanted to repeat the Neuve-Chapelle method: two attacking groups and a short, forty-minute bombardment. The Germans, however, had learned from March and strengthened their breastworks, wire and machine-gun posts."
@@ -28,7 +28,7 @@ Aubers Ridge itself is a low rise a few kilometres long, running north-east from
 
 ## Background
 
-In the spring of 1915 the Germans were moving more and more divisions to the east, where on 1 May they began a great offensive [at Gorlice](/bitwy/bitwa-pod-gorlicami). The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), judged it a good moment to strike in the west. The main role was to be played by the French Tenth Army, which was to take Vimy Ridge north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). The British were to attack at the same time north of the La Bassée Canal, widen the breach and prevent the Germans from moving reserves from there against the French. On 6 April Joffre sent Field Marshal [Sir John French](/postacie/john-french) the details of the plan.
+In the spring of 1915 the Germans were moving more and more divisions to the east, where on 1 May they began a great offensive [at Gorlice](/bitwy/bitwa-pod-gorlicami). The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), judged it a good moment to strike in the west. The main role was to be played by the French Tenth Army, which was to take Vimy Ridge north of [Arras](/miejsca/arras). The British were to attack at the same time north of the La Bassée Canal, widen the breach and prevent the Germans from moving reserves from there against the French. On 6 April Joffre sent Field Marshal [Sir John French](/postacie/john-french) the details of the plan.
 
 The preparations were disrupted by the [Second Battle of Ypres](/bitwy/druga-bitwa-pod-ypres). From 22 April part of the forces earmarked for the attack, among them the Indian Lahore Division, was fighting in the Ypres salient, and French was worried about the fate of his Second Army. Even so, the offensive was not cancelled. The French set the start of the attack for 7 May and then for 8 May, but rain and mist led them, on the afternoon of 7 May, to postpone it to 9 May. It was then agreed that the French and British would attack on the same day, and not one after the other as had been planned earlier.
 

@@ -2,7 +2,7 @@
 title: Second Battle of Artois begins
 summary: On 9 May 1915 the French Tenth Army attacked near Arras. Pétain's corps reached Vimy Ridge in two hours, but without reserves it could not hold it.
 source: poczatek-drugiej-bitwy-w-artois
-sourceHash: 468bedd490d62e528e86c7fb5362a21b4ea5cd0d
+sourceHash: d9461b2ab5be42cacd8b9a11ce2719529a524be9
 brief:
   - "At 10 a.m. on 9 May 1915 General Victor d'Urbal's French Tenth Army attacked north of Arras towards the heights of Vimy. The Second Battle of Artois had begun."
   - "General Ferdinand Foch planned the offensive to exploit the transfer of German divisions to the east and to help the Russians. The French artillery methodically destroyed the German trenches for six days."
@@ -11,7 +11,7 @@ brief:
   - "The Germans quickly moved reserves to Vimy and surprise was lost. Bitter fighting for individual villages and hills began, and it was to last more than five weeks."
 ---
 
-At 10 a.m. on 9 May 1915 the French Tenth Army of General Victor d'Urbal went over to the attack north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). The objective was the heights of [Vimy](https://pl.wikipedia.org/wiki/Vimy), from which the Germans had been observing the whole area since [the autumn of 1914](/bitwy/pierwsza-bitwa-w-artois). Thus began the Second Battle of [Artois](https://pl.wikipedia.org/wiki/Artois), the largest Allied offensive in the west in the spring of 1915. On the morning of the same day, a few dozen kilometres further north, [the British attacked Aubers Ridge](/brytyjczycy-atakuja-grzbiet-aubers). The first hours brought the French a success not seen on the Western Front for months.
+At 10 a.m. on 9 May 1915 the French Tenth Army of General Victor d'Urbal went over to the attack north of [Arras](/miejsca/arras). The objective was the heights of [Vimy](https://pl.wikipedia.org/wiki/Vimy), from which the Germans had been observing the whole area since [the autumn of 1914](/bitwy/pierwsza-bitwa-w-artois). Thus began the Second Battle of [Artois](https://pl.wikipedia.org/wiki/Artois), the largest Allied offensive in the west in the spring of 1915. On the morning of the same day, a few dozen kilometres further north, [the British attacked Aubers Ridge](/brytyjczycy-atakuja-grzbiet-aubers). The first hours brought the French a success not seen on the Western Front for months.
 
 ## Six days of bombardment
 
@@ -19,7 +19,7 @@ The offensive was planned by General [Ferdinand Foch](/postacie/ferdinand-foch),
 
 ## On Vimy Ridge
 
-The greatest success in the centre was achieved by the XXXIII Corps of General [Philippe Pétain](/postacie/philippe-petain). Its Moroccan Division, in which soldiers of the [Foreign Legion](https://pl.wikipedia.org/wiki/Legia_Cudzoziemska), Algerian tirailleurs and Zouaves fought, went through all the German lines in one bound. In less than two hours it advanced about four kilometres, and at about 11 a.m. its leading units stood on Hill 140, the highest point of the ridge. Some groups even went down the other side as far as [Givenchy-en-Gohelle](https://pl.wikipedia.org/wiki/Givenchy-en-Gohelle). Before them lay the open plain of [Douai](https://pl.wikipedia.org/wiki/Douai). On their left the 77th Division reached the edge of [Souchez](https://pl.wikipedia.org/wiki/Souchez), and the 70th Division broke into the fortified village of [Carency](https://pl.wikipedia.org/wiki/Carency). On their right XX Corps took the hamlet of La Targette and 350 prisoners before noon, and in the afternoon broke into [Neuville-Saint-Vaast](https://pl.wikipedia.org/wiki/Neuville-Saint-Vaast), where by evening it had taken half the village.
+The greatest success in the centre was achieved by the XXXIII Corps of General [Philippe Pétain](/postacie/philippe-petain). Its Moroccan Division, in which soldiers of the [Foreign Legion](https://pl.wikipedia.org/wiki/Legia_Cudzoziemska), Algerian tirailleurs and Zouaves fought, went through all the German lines in one bound. In less than two hours it advanced about four kilometres, and at about 11 a.m. its leading units stood on Hill 140, the highest point of the ridge. Some groups even went down the other side as far as [Givenchy-en-Gohelle](https://pl.wikipedia.org/wiki/Givenchy-en-Gohelle). Before them lay the open plain of [Douai](/miejsca/douai). On their left the 77th Division reached the edge of [Souchez](https://pl.wikipedia.org/wiki/Souchez), and the 70th Division broke into the fortified village of [Carency](https://pl.wikipedia.org/wiki/Carency). On their right XX Corps took the hamlet of La Targette and 350 prisoners before noon, and in the afternoon broke into [Neuville-Saint-Vaast](https://pl.wikipedia.org/wiki/Neuville-Saint-Vaast), where by evening it had taken half the village.
 
 In the ranks of the Foreign Legion a Polish company of volunteers went into the attack; they were called the [Bayonne men](/polscy-ochotnicy-wstepuja-do-legii-cudzoziemskiej) because they had trained in Bayonne. It took German trenches near La Targette and Neuville-Saint-Vaast, but lost about three-quarters of its strength. Its French commander, Captain Osmont d'Amilly, was killed.
 

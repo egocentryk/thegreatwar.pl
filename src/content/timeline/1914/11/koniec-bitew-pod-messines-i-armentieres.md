@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 listopada 1914 roku zakończyły się, według ustalonej po wojnie brytyjskiej nomenklatury bitew, dwie równoległe bitwy we Flandrii: pod Messines, w której korpus kawalerii generała [Edmunda Allenby'ego](/postacie/edmund-allenby) bronił grzbietu na południe od [Ypres](/miejsca/ypres), oraz [pod Armentières](/bitwy/bitwa-pod-armentieres), gdzie brytyjski III Korpus generała Williama Pulteneya trzymał front w dolinie [Lys](https://pl.wikipedia.org/wiki/Leie). Data jest umowna. Walki na obu odcinkach trwały dalej, ale od tej pory brytyjska historiografia zalicza je do pierwszej bitwy pod Ypres.
+2 listopada 1914 roku zakończyły się, według ustalonej po wojnie brytyjskiej nomenklatury bitew, dwie równoległe bitwy we Flandrii: pod Messines, w której korpus kawalerii generała [Edmunda Allenby'ego](/postacie/edmund-allenby) bronił grzbietu na południe od [Ypres](/miejsca/ypres), oraz [pod Armentières](/bitwy/bitwa-pod-armentieres), gdzie brytyjski III Korpus generała Williama Pulteneya trzymał front w dolinie [Lys](/miejsca/leie). Data jest umowna. Walki na obu odcinkach trwały dalej, ale od tej pory brytyjska historiografia zalicza je do pierwszej bitwy pod Ypres.
 
 ## Wytschaete w rękach niemieckich
 

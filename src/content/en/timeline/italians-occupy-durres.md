@@ -2,10 +2,10 @@
 title: Italians occupy Durrës
 summary: In mid-December 1915 the Italian Savona Brigade reached Durrës in Albania from Vlorë. The port was to cover the supply and evacuation of the Serbian army.
 source: wlosi-obsadzaja-durres
-sourceHash: effc0df7f88f1b3a265bd94f34c58346c6940e04
+sourceHash: c6a8951cd47141e07ed3c5af8e85187818945f03
 ---
 
-The British chronology of the war records under 20 December 1915 the landing of Italian troops at [Durrës](https://pl.wikipedia.org/wiki/Durrës), the main port of central Albania. The Italian infantry did not, however, arrive there by ship, but came overland from [Vlorë](https://pl.wikipedia.org/wiki/Wlora). According to the war history of the Savona Brigade, its headquarters and the 15th Infantry Regiment reached Durrës on 19 December, while the British official history says that by 20 December the Italians had brought an infantry brigade here from Vlorë. Eight heavy guns and an anti-aircraft battery were brought by sea, however, and a minefield was laid off the port. Some Italian works, based on the account of the corps commander, state that the regiment left Vlorë on 3 December and reached Durrës as early as 9 December.
+The British chronology of the war records under 20 December 1915 the landing of Italian troops at [Durrës](/miejsca/durres), the main port of central Albania. The Italian infantry did not, however, arrive there by ship, but came overland from [Vlorë](/miejsca/wlora). According to the war history of the Savona Brigade, its headquarters and the 15th Infantry Regiment reached Durrës on 19 December, while the British official history says that by 20 December the Italians had brought an infantry brigade here from Vlorë. Eight heavy guns and an anti-aircraft battery were brought by sea, however, and a minefield was laid off the port. Some Italian works, based on the account of the corps commander, state that the regiment left Vlorë on 3 December and reached Durrës as early as 9 December.
 
 ## A special corps in Albania
 

@@ -2,10 +2,10 @@
 title: Northey's troops enter German East Africa
 summary: On 25 May 1916 four columns under General Northey were to surround German posts between Lakes Nyasa and Tanganyika. The Germans escaped from almost all.
 source: wojska-northeya-wkraczaja-do-niemieckiej-afryki-wschodniej
-sourceHash: 805d5d70be17a673604ab97b6efe74bdbd135625
+sourceHash: 69597f5dea393e8632ad13a1d9e70d80e8612592
 ---
 
-On 25 May 1916 the troops of Brigadier-General Edward Northey were to surround simultaneously four German posts on the south-western border of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), on the stretch between [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)) and [Lake Tanganyika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)). So began the British offensive from [Nyasaland](https://pl.wikipedia.org/wiki/Niasa_(protektorat)) and [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), today's Malawi and Zambia. The British chronology of the war gives this day as the beginning of the crossing of the border, but it was rather the day set for the encirclement of the posts. According to the British official history (Hordern), the first column crossed the border river Songwe as early as the evening of 20 May, and the others set out between 23 and 25 May.
+On 25 May 1916 the troops of Brigadier-General Edward Northey were to surround simultaneously four German posts on the south-western border of [German East Africa](/bitwy/kampania-wschodnioafrykanska), on the stretch between [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)) and [Lake Tanganyika](https://pl.wikipedia.org/wiki/Tanganika_(jezioro)). So began the British offensive from [Nyasaland](https://pl.wikipedia.org/wiki/Niasa_(protektorat)) and [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), today's Malawi and Zambia. The British chronology of the war gives this day as the beginning of the crossing of the border, but it was rather the day set for the encirclement of the posts. According to the British official history (Hordern), the first column crossed the border river Songwe as early as the evening of 20 May, and the others set out between 23 and 25 May.
 
 ## A new commander on an old frontier
 

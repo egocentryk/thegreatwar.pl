@@ -2,10 +2,10 @@
 title: Completion of the barrage in the Strait of Dover
 summary: In early April 1915 the barrage of mines and nets in the Strait of Dover came into full operation. The Germans soon forbade their U-boats this route.
 source: ukonczenie-zapory-w-ciesninie-kaletanskiej
-sourceHash: d3f32a533e7c7ee128de6bc88a68fa007f51624c
+sourceHash: dde2cb4481a27d131220aa544ace4a4e689e758e
 ---
 
-The British chronology of the war records under the date of 3 April 1915 the completion of the barrage in the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska), the shortest route from the North Sea to the English Channel. It is hard to point to a single event that would have concluded the work on that day. The barrage had been built in stages since the winter. At the beginning of April its first part, namely the minefields and a belt of indicator nets watched by drifters and destroyers of the Dover Patrol, was already fully in operation. The most ambitious element, a heavy net barrage across the whole strait, was still under construction.
+The British chronology of the war records under the date of 3 April 1915 the completion of the barrage in the [Strait of Dover](/miejsca/ciesnina-kaletanska), the shortest route from the North Sea to the English Channel. It is hard to point to a single event that would have concluded the work on that day. The barrage had been built in stages since the winter. At the beginning of April its first part, namely the minefields and a belt of indicator nets watched by drifters and destroyers of the Dover Patrol, was already fully in operation. The most ambitious element, a heavy net barrage across the whole strait, was still under construction.
 
 ## Mines and nets
 

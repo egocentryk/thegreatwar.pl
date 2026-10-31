@@ -2,10 +2,10 @@
 title: Battle of Mahiwa ends
 summary: On 19 October 1917 the fighting at Mahiwa died down. The British lost about 2,700 men; the victorious Lettow-Vorbeck could not replace his losses or ammunition.
 source: koniec-bitwy-pod-mahiwa
-sourceHash: f31d7ea5409f92a2f4cfac341791df82d9b9fa34
+sourceHash: f9f89fba05be3513ecb1c76741108b50bdcf9da0
 ---
 
-The British official chronology of the war gives 19 October 1917 as the last day of the "action of Nyangao" in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). In fact the last heavy fighting at Mahiwa took place a day earlier. On the evening of 18 October the columns from [Lindi](https://pl.wikipedia.org/wiki/Lindi) fell back to the hills at Nyangao, and the exhausted Nigerian Brigade, which had held out encircled for three days, broke out with its wounded and guns. On 19 October the British staged no more than an artillery demonstration, and [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) moved off in another direction with part of his force. The battle, which participants on both sides regarded as the biggest of the whole campaign, ended in a British defeat, but for the Germans too it was the beginning of the end of the fighting in their colony.
+The British official chronology of the war gives 19 October 1917 as the last day of the "action of Nyangao" in [German East Africa](/bitwy/kampania-wschodnioafrykanska). In fact the last heavy fighting at Mahiwa took place a day earlier. On the evening of 18 October the columns from [Lindi](https://pl.wikipedia.org/wiki/Lindi) fell back to the hills at Nyangao, and the exhausted Nigerian Brigade, which had held out encircled for three days, broke out with its wounded and guns. On 19 October the British staged no more than an artillery demonstration, and [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) moved off in another direction with part of his force. The battle, which participants on both sides regarded as the biggest of the whole campaign, ended in a British defeat, but for the Germans too it was the beginning of the end of the fighting in their colony.
 
 ## An order called off
 

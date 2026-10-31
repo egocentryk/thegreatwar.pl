@@ -2,10 +2,10 @@
 title: Siege of Garua begins
 summary: On 31 May 1915 British and French troops began bombarding the German fortress of Garua in Kamerun. Heavy guns quickly silenced its artillery.
 source: poczatek-oblezenia-garui
-sourceHash: ff285f73d6fd7922c9bf8cc1ac6638dafd6cb971
+sourceHash: f3c3e4f1b76d10f46219371cfe3bb55125fc582e
 ---
 
-On 31 May 1915 British and French troops under Lieutenant-Colonel Frederick Cunliffe began the final stage of the fighting for Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)), the German fortress on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river in the north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). For many months Allied units had [been watching the fortress and tightening the ring around it](/alianci-ruszaja-na-garue). That day heavy guns struck it for the first time.
+On 31 May 1915 British and French troops under Lieutenant-Colonel Frederick Cunliffe began the final stage of the fighting for Garua (today [Garoua](https://pl.wikipedia.org/wiki/Garoua)), the German fortress on the [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) river in the north of [German Kamerun](/miejsca/kamerun). For many months Allied units had [been watching the fortress and tightening the ring around it](/alianci-ruszaja-na-garue). That day heavy guns struck it for the first time.
 
 ## What Cunliffe was waiting for
 

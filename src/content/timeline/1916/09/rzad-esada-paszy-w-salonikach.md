@@ -15,7 +15,7 @@ Brytyjska chronologia wojny notuje pod 20 września 1916 roku, że albański rz�
 
 ## Pół roku tułaczki
 
-Od [lutego 1916 roku](/rzad-esada-paszy-opuszcza-durres), gdy przed nadciągającymi Austriakami odpłynął z [Durrës](https://pl.wikipedia.org/wiki/Durrës) włoskim niszczycielem, Esad był premierem bez kraju. Przebywał w Rzymie, w Nicei, gdzie mieszkała jego żona, i w Paryżu. Rząd włoski chciał go mieć u siebie i pod kontrolą. W kwietniu minister spraw zagranicznych Sidney Sonnino zaproponował mu miesięczną pensję i radził osiąść w Neapolu, pod warunkiem że inne państwa nie będą miały przy nim swoich przedstawicieli. Esad nie przyjął tej roli. Bliżej mu było do Serbii, z którą od 1914 roku łączył go tajny sojusz, i do Francji, która już w lutym proponowała mu ewakuację na swoich statkach.
+Od [lutego 1916 roku](/rzad-esada-paszy-opuszcza-durres), gdy przed nadciągającymi Austriakami odpłynął z [Durrës](/miejsca/durres) włoskim niszczycielem, Esad był premierem bez kraju. Przebywał w Rzymie, w Nicei, gdzie mieszkała jego żona, i w Paryżu. Rząd włoski chciał go mieć u siebie i pod kontrolą. W kwietniu minister spraw zagranicznych Sidney Sonnino zaproponował mu miesięczną pensję i radził osiąść w Neapolu, pod warunkiem że inne państwa nie będą miały przy nim swoich przedstawicieli. Esad nie przyjął tej roli. Bliżej mu było do Serbii, z którą od 1914 roku łączył go tajny sojusz, i do Francji, która już w lutym proponowała mu ewakuację na swoich statkach.
 
 ## Krążownikiem z Tulonu
 
@@ -25,6 +25,6 @@ Albański oddział okazał się dużo mniejszy, niż zapowiadano. Sarrail szacow
 
 ## Albańska karta Francji
 
-Dla Włoch obecność Esada w Salonikach była wyzwaniem. Rzym uważał Albanię za swoją strefę wpływów i od końca 1914 roku zajmował [Wlorę](https://pl.wikipedia.org/wiki/Wlora), gdzie stał teraz cały włoski korpus. Włosi podejrzewali, że Francja popiera paszę, by osłabić ich pozycję na Bałkanach. Sarrail tłumaczył, że w środkowej Albanii Esad miał wielu stronników, którzy mogli pokrzyżować plany Włoch albo Austrii. Według Villariego francuski wywiad, choć sceptyczny, nie chciał odrzucać paszy, który zapewniał, że potrafi wywołać powstanie na terenach zajętych przez Austro-Węgry.
+Dla Włoch obecność Esada w Salonikach była wyzwaniem. Rzym uważał Albanię za swoją strefę wpływów i od końca 1914 roku zajmował [Wlorę](/miejsca/wlora), gdzie stał teraz cały włoski korpus. Włosi podejrzewali, że Francja popiera paszę, by osłabić ich pozycję na Bałkanach. Sarrail tłumaczył, że w środkowej Albanii Esad miał wielu stronników, którzy mogli pokrzyżować plany Włoch albo Austrii. Według Villariego francuski wywiad, choć sceptyczny, nie chciał odrzucać paszy, który zapewniał, że potrafi wywołać powstanie na terenach zajętych przez Austro-Węgry.
 
 Do takiego powstania nigdy nie doszło. Oddział Esada, zwany taborem, walczył później u boku Francuzów w dolinie rzeki Shkumbin, a Sarrail chwalił jego udział w potyczkach. Villari twierdził natomiast, że pasza nie oddał sprzymierzonym żadnej użytecznej usługi. Esad jeszcze przez długi czas pozostawał w Salonikach jako jeden z kilku rywalizujących ze sobą pretendentów do władzy nad Albanią, utrzymywany przez sprzymierzonych.

@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-30 listopada 1918 roku (17 listopada według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia) do [Bukaresztu](https://pl.wikipedia.org/wiki/Bukareszt) przyjechały z [Jass](https://pl.wikipedia.org/wiki/Jassy) dwa pociągi z członkami rządu, przedstawicielstwami dyplomatycznymi i byłymi ministrami. Po blisko dwóch latach, od [przeniesienia władz do Mołdawii](/rzad-rumunski-przenosi-sie-do-jass) w grudniu 1916 roku, stolica znów stawała się siedzibą rządu. Po [powrocie Rumunii do wojny](/rumunia-wraca-do-wojny) i rozejmie z 11 listopada okupujące kraj wojska niemieckie wycofały się z Bukaresztu i odchodziły przez Siedmiogród na Węgry. Brytyjska chronologia wojny notuje pod tym dniem przywrócenie rządu rumuńskiego w Bukareszcie.
+30 listopada 1918 roku (17 listopada według kalendarza juliańskiego, którym posługiwała się wtedy Rumunia) do [Bukaresztu](/miejsca/bukareszt) przyjechały z [Jass](https://pl.wikipedia.org/wiki/Jassy) dwa pociągi z członkami rządu, przedstawicielstwami dyplomatycznymi i byłymi ministrami. Po blisko dwóch latach, od [przeniesienia władz do Mołdawii](/rzad-rumunski-przenosi-sie-do-jass) w grudniu 1916 roku, stolica znów stawała się siedzibą rządu. Po [powrocie Rumunii do wojny](/rumunia-wraca-do-wojny) i rozejmie z 11 listopada okupujące kraj wojska niemieckie wycofały się z Bukaresztu i odchodziły przez Siedmiogród na Węgry. Brytyjska chronologia wojny notuje pod tym dniem przywrócenie rządu rumuńskiego w Bukareszcie.
 
 ## Podróż z Jass
 

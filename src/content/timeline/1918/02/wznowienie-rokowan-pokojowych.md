@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 lutego 1918 roku wieczorem do [Brześcia Litewskiego](https://pl.wikipedia.org/wiki/Brześć) przyjechała nowa delegacja Rosji Sowieckiej. Jak sama zadepeszowała do Piotrogrodu, dotarła na miejsce o 8 wieczorem, choć niemieckie radio podawało, że już po południu. Tym razem nie przyjechała negocjować, tylko podpisać pokój, którego warunki Niemcy podyktowali w ultimatum. Ten finał poprzedziło pięć dramatycznych dni w Piotrogrodzie. Brytyjska chronologia wojny notuje osobno niemieckie ultimatum z 23 lutego, przyjęcie go przez bolszewików 24 lutego i wznowienie rokowań 28 lutego. Opisujemy je tutaj razem.
+28 lutego 1918 roku wieczorem do [Brześcia Litewskiego](/miejsca/brzesc) przyjechała nowa delegacja Rosji Sowieckiej. Jak sama zadepeszowała do Piotrogrodu, dotarła na miejsce o 8 wieczorem, choć niemieckie radio podawało, że już po południu. Tym razem nie przyjechała negocjować, tylko podpisać pokój, którego warunki Niemcy podyktowali w ultimatum. Ten finał poprzedziło pięć dramatycznych dni w Piotrogrodzie. Brytyjska chronologia wojny notuje osobno niemieckie ultimatum z 23 lutego, przyjęcie go przez bolszewików 24 lutego i wznowienie rokowań 28 lutego. Opisujemy je tutaj razem.
 
 ## Ultimatum
 

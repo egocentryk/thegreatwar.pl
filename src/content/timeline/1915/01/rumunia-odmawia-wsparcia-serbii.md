@@ -18,7 +18,7 @@ Odpowiedź premiera [Iona I.C. Brătianu](/postacie/ion-bratianu) była grzeczna
 
 Rumunia miała własne powody do ostrożności. Jej celem wojennym był [Siedmiogród](https://pl.wikipedia.org/wiki/Siedmiogród), a nie losy Macedonii, o którą spierali się sąsiedzi. [Tajne porozumienie z Rosją](/tajne-porozumienie-rosji-i-rumunii) z jesieni 1914 roku zapewniało jej ten nabytek w zamian za życzliwą neutralność, bez konieczności natychmiastowego przystąpienia do wojny. Brătianu chciał sam wybrać chwilę wejścia do wojny i zapłacić za nią jak najmniej. Pomoc dla Serbii oznaczałaby wejście do wojny w środku zimy, z armią, której wciąż brakowało artylerii i amunicji.
 
-Najbardziej obawiano się jednak Bułgarii. W 1913 roku Rumunia odebrała jej południową [Dobrudżę](https://pl.wikipedia.org/wiki/Dobrudża) i w Bukareszcie liczono się z tym, że Bułgarzy zechcą ją odzyskać, gdy tylko armia rumuńska zaangażuje się gdzie indziej. Ententa próbowała przeciągnąć Sofię na swoją stronę obietnicami nabytków, ale Rumuni nie zamierzali oddawać za to swoich zdobyczy. Bez Bułgarii, a tym bardziej przeciwko niej, wspólna akcja Rumunii i Grecji była dla Brătianu zbyt ryzykowna.
+Najbardziej obawiano się jednak Bułgarii. W 1913 roku Rumunia odebrała jej południową [Dobrudżę](/miejsca/dobrudza) i w Bukareszcie liczono się z tym, że Bułgarzy zechcą ją odzyskać, gdy tylko armia rumuńska zaangażuje się gdzie indziej. Ententa próbowała przeciągnąć Sofię na swoją stronę obietnicami nabytków, ale Rumuni nie zamierzali oddawać za to swoich zdobyczy. Bez Bułgarii, a tym bardziej przeciwko niej, wspólna akcja Rumunii i Grecji była dla Brătianu zbyt ryzykowna.
 
 ## Czekanie na lepszą chwilę
 

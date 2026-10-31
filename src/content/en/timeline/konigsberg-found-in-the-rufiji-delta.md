@@ -2,10 +2,10 @@
 title: Königsberg found in the Rufiji delta
 summary: At the end of October 1914 the British found the German cruiser Königsberg hidden in the Rufiji delta in East Africa and blockaded her.
 source: konigsberg-odnaleziony-w-delcie-rufiji
-sourceHash: 1012efba8882d2ebbbe878204ebc8933e34ae1dc
+sourceHash: 093ad69eab6c90a505fa03e5813d1b905b66cb0a
 ---
 
-At the end of October 1914 British cruisers found the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), hidden in the backwaters of the delta of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) river on the coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). A British chronology records the event under 31 October, but most accounts state that the ship was spotted as early as 30 October. From then on *Königsberg* was blockaded and could not return to the ocean.
+At the end of October 1914 British cruisers found the German light cruiser [*Königsberg*](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), hidden in the backwaters of the delta of the [Rufiji](https://pl.wikipedia.org/wiki/Rufidżi) river on the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska). A British chronology records the event under 31 October, but most accounts state that the ship was spotted as early as 30 October. From then on *Königsberg* was blockaded and could not return to the ocean.
 
 ## A hideout in the jungle
 

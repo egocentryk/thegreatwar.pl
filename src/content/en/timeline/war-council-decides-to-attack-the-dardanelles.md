@@ -2,7 +2,7 @@
 title: War Council decides to attack the Dardanelles
 summary: On 13 January 1915 the British War Council told the Admiralty to prepare a February naval expedition to the Dardanelles, aimed at Constantinople.
 source: rada-wojenna-decyduje-o-ataku-na-dardanele
-sourceHash: 596f1df1116c0458fe71688432d26dbcf17ebf48
+sourceHash: 035be88529c86f3118f9ebbfa69d21e2b1b35acb
 ---
 
 On 13 January 1915 the British War Council, the cabinet committee directing the conduct of the war, decided that the Admiralty would prepare a naval expedition against the [Dardanelles](/miejsca/dardanele) for February. The decision came less than two weeks after [Grand Duke Nicholas asked the British](/wielki-ksiaze-mikolaj-prosi-o-pomoc) to strike at Turkey to relieve the Russians in the Caucasus. In that time a loose idea of a "demonstration" had grown into a concrete plan to force the strait with ships alone.
@@ -21,7 +21,7 @@ The Secretary of State for War, [Lord Herbert Kitchener](/postacie/horatio-kitch
 
 ## An unclear resolution
 
-The conclusion of the meeting, written down by Asquith, read: the Admiralty should also prepare for a naval expedition in February to bombard and take the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) Peninsula, with [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) as its objective.
+The conclusion of the meeting, written down by Asquith, read: the Admiralty should also prepare for a naval expedition in February to bombard and take the [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)) Peninsula, with [Constantinople](/miejsca/konstantynopol) as its objective.
 
 The wording was unclear, to say the least. Ships could bombard forts, but they could not take a peninsula, let alone the Ottoman capital. That required land forces, and Kitchener did not intend to allot any for the time being. Nor did the resolution say what would happen next if the fleet entered the Sea of Marmara. It was assumed that the appearance of British battleships off Constantinople would cause a coup in Turkey or force it out of the war. The Council in any case left itself a way out. Preparations were to continue, but the final decision to launch the operation was taken only at the end of January.
 

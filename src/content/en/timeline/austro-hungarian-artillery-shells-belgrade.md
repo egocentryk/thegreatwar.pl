@@ -2,10 +2,10 @@
 title: Austro-Hungarian artillery shells Belgrade
 summary: On the night of 28–29 July 1914 Austro-Hungarian monitors and artillery shelled Belgrade. These were the first shots of the First World War.
 source: austro-wegierska-artyleria-ostrzeliwuje-belgrad
-sourceHash: f6dd6ad2d3fecc221cb7ef6e857c36fd8f891edc
+sourceHash: f4f5428edcaf5ade3e807906b662ac5085d8b06b
 ---
 
-A few hours after [Austria-Hungary](/kraje/austro-wegry) declared war on Serbia, the first shots were fired. Shortly after midnight on the night of 28–29 July 1914 the river [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) of the Austro-Hungarian Danube Flotilla – Bodrog, Temes and Szamos – opened fire towards [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). The salvoes from the deck of the Bodrog are regarded as the first shots of the First World War.
+A few hours after [Austria-Hungary](/kraje/austro-wegry) declared war on Serbia, the first shots were fired. Shortly after midnight on the night of 28–29 July 1914 the river [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) of the Austro-Hungarian Danube Flotilla – Bodrog, Temes and Szamos – opened fire towards [Belgrade](/miejsca/belgrad). The salvoes from the deck of the Bodrog are regarded as the first shots of the First World War.
 
 The capital of [Serbia](/kraje/serbia) lay right on the border, at the confluence of the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and the [Danube](https://pl.wikipedia.org/wiki/Dunaj). On the other bank of the Sava stood Austro-Hungarian [Zemun](https://pl.wikipedia.org/wiki/Zemun), and the two cities were linked by a railway bridge. The Serbs expected the enemy to try to use it. That same night a detachment under Major Vojislav Tankosić blew up the bridge before the Austrians could reach it. Tankosić was the very officer whose arrest had been demanded by the Austro-Hungarian ultimatum of 23 July, which accused him of taking part in preparing the Sarajevo assassination.
 

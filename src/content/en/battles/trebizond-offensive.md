@@ -9,7 +9,7 @@ sides:
     commanders: [Mahmud Kâmil Pasha, Vehip Pasha]
 result: Russian victory. The Turks withdrew from the whole Lazistan coast, and on 18 April 1916 the Russians entered the abandoned city of Trebizond without a fight.
 source: ofensywa-trapezuncka
-sourceHash: 66fb100da64f3284288297cae6c58c9cb356cbc1
+sourceHash: d90307fdf96f9ca8c6fe2024828937250da60588
 brief:
   - "The Trebizond offensive lasted from 5 February to 18 April 1916. General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast from the Russian border to Trebizond."
   - "Trebizond was the most important port of northern Anatolia, through which the Ottoman Third Army received men and supplies. Lyakhov was to pin down the Turks on the coast during Yudenich's Erzurum offensive."
@@ -18,7 +18,7 @@ brief:
   - "The operation showed how much command of the sea mattered, though it also exposed poor army–navy cooperation. Russia gained a port through which it could supply the troops fighting deep in Anatolia."
 ---
 
-The Trebizond offensive was one of the few successful combined army and navy operations of the First World War. For ten weeks, from February to April 1916, General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast, from the Russian border towards [Trebizond](https://pl.wikipedia.org/wiki/Trabzon). Ships of the [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska) shelled the Turkish trenches from the sea, and small landing parties came ashore behind each successive line of the defenders. When two brigades of Kuban Cossacks were brought in by sea in April, the Russians broke through the last line of defence on the Kara Dere river, and the Turks abandoned Trebizond without a fight. Russia gained a port through which it could supply the army standing at [Erzurum](https://pl.wikipedia.org/wiki/Erzurum).
+The Trebizond offensive was one of the few successful combined army and navy operations of the First World War. For ten weeks, from February to April 1916, General Vladimir Lyakhov's Coastal Detachment advanced along the steep Lazistan coast, from the Russian border towards [Trebizond](https://pl.wikipedia.org/wiki/Trabzon). Ships of the [Black Sea Fleet](https://pl.wikipedia.org/wiki/Flota_Czarnomorska) shelled the Turkish trenches from the sea, and small landing parties came ashore behind each successive line of the defenders. When two brigades of Kuban Cossacks were brought in by sea in April, the Russians broke through the last line of defence on the Kara Dere river, and the Turks abandoned Trebizond without a fight. Russia gained a port through which it could supply the army standing at [Erzurum](/miejsca/erzurum).
 
 ## Name and dates
 

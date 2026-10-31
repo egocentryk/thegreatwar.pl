@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-13 października 1914 roku rząd Belgii opuścił [Ostendę](https://pl.wikipedia.org/wiki/Ostenda) i odpłynął do Francji. Ministrowie, urzędnicy i dyplomaci wyruszyli na pokładzie promu Pieter de Coninck do [Hawru](https://pl.wikipedia.org/wiki/Hawr) w Normandii. Po kilkudniowym pobycie w Ostendzie władze Belgii musiały opuścić własny kraj. Na francuskiej ziemi miały pozostać aż do końca wojny.
+13 października 1914 roku rząd Belgii opuścił [Ostendę](/miejsca/ostenda) i odpłynął do Francji. Ministrowie, urzędnicy i dyplomaci wyruszyli na pokładzie promu Pieter de Coninck do [Hawru](/miejsca/hawr) w Normandii. Po kilkudniowym pobycie w Ostendzie władze Belgii musiały opuścić własny kraj. Na francuskiej ziemi miały pozostać aż do końca wojny.
 
 ## Ostenda zagrożona
 

@@ -9,7 +9,7 @@ sides:
     commanders: [Illarion Vorontsov-Dashkov, Alexander Myshlayevsky, Nikolai Yudenich, Georgy Berkhman]
 result: Decisive Russian victory. The Ottoman 3rd Army lost most of its soldiers, largely to frost and disease. IX Corps was captured, and the Turks long lost the capacity to attack in the Caucasus.
 source: bitwa-pod-sarykamyszem
-sourceHash: c5075787e13f5392cc3bec2a0db5b4d3bd2f1fe4
+sourceHash: 5220375884524f9a3f0fb3367a34a378fcd21f6c
 brief:
   - "The Battle of Sarikamish, fought from 22 December 1914 to 17 January 1915, was the first great battle on the Caucasus front and one of the greatest defeats in the history of the Ottoman army."
   - "Enver Pasha wanted to destroy the weakened Russian Caucasus Army and recover Kars, Ardahan and Batumi. When the 3rd Army's commander judged a winter offensive impracticable, Enver took command himself."
@@ -28,7 +28,7 @@ On this page we adopt the dates 22 December 1914 – 17 January 1915. On 22 Dece
 
 ## Background
 
-At the beginning of November 1914 the Russians entered Turkey and advanced towards [Erzurum](https://pl.wikipedia.org/wiki/Erzurum), but a counter-attack by the 3rd Army pushed them almost back to the border. The [Bergmann Offensive](/bitwy/ofensywa-bergmanna) ended in the first Turkish victory of this war. Enver Pasha concluded that the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) was weak, because its best corps were fighting the Germans and Austrians. He decided to destroy it with a single blow and recover the lands Turkey had lost after the [war with Russia of 1877–1878](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-turecka_(1877–1878)), including Kars, Ardahan and Batumi. He also counted on a victory rousing the Muslims of the Caucasus and opening the way to Persia and Central Asia.
+At the beginning of November 1914 the Russians entered Turkey and advanced towards [Erzurum](/miejsca/erzurum), but a counter-attack by the 3rd Army pushed them almost back to the border. The [Bergmann Offensive](/bitwy/ofensywa-bergmanna) ended in the first Turkish victory of this war. Enver Pasha concluded that the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) was weak, because its best corps were fighting the Germans and Austrians. He decided to destroy it with a single blow and recover the lands Turkey had lost after the [war with Russia of 1877–1878](https://pl.wikipedia.org/wiki/Wojna_rosyjsko-turecka_(1877–1878)), including Kars, Ardahan and Batumi. He also counted on a victory rousing the Muslims of the Caucasus and opening the way to Persia and Central Asia.
 
 At the beginning of December Enver left Constantinople for the front together with his chief of staff, the German general Friedrich Bronsart von Schellendorf. According to Turkish studies he reached the 3rd Army headquarters at Köprüköy in the middle of the month. Its commander, General [Hasan İzzet Pasha](https://pl.wikipedia.org/wiki/Hasan_İzzet_Pasza), considered a winter offensive in the mountains impracticable, because his soldiers had no warm clothing, food supplies or experience of such conditions. On the night of 18–19 December he resigned, and Enver took command of the army himself.
 

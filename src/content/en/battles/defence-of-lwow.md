@@ -9,7 +9,7 @@ sides:
     commanders: [Dmytro Vitovsky, Hryhoriy Kossak, Hnat Stefaniv]
 result: Polish victory. On the night of 21–22 November the Ukrainian forces left the city and on 22 November the Poles took Lviv. The Ukrainians, however, surrounded it on three sides and besieged it until May 1919.
 source: obrona-lwowa-1918
-sourceHash: 0bbe3ed6092c9a8b960e2a930f3b20e05573ec95
+sourceHash: 04a14df7b3052a70171e9da899dce8e054f497c5
 brief:
   - "On the night of 31 October to 1 November 1918 Ukrainian soldiers of the Austro-Hungarian army seized Lviv and proclaimed it the capital of a new Ukrainian state."
   - "As the Habsburg monarchy broke up, Poles and Ukrainians both laid claim to the capital of Galicia. The Ukrainians hurried their coup because a Polish Liquidation Commission was due on 1 November."
@@ -18,7 +18,7 @@ brief:
   - "A pogrom of the Jews followed the capture of the city, and the Ukrainians besieged Lviv until May 1919. The Defence of Lviv became one of the founding myths of the Second Polish Republic."
 ---
 
-The Defence of Lviv was the first clash of the [Polish–Ukrainian War](https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska) and one of the most extraordinary episodes of the end of the Great War. As the Habsburg monarchy broke up into nation states, two nations laid claim to the capital of Galicia at once. On the night of 31 October to 1 November 1918 Ukrainian soldiers of the Austro-Hungarian army seized [Lviv](https://pl.wikipedia.org/wiki/Lwów) and proclaimed it the capital of a new Ukrainian state. That same day the city's Polish inhabitants, most of them volunteers with no military training, took up arms. For three weeks fighting raged in the streets, schools, barracks and cemeteries, and on the Polish side grammar-school pupils, university students and scouts took part. They went down in history as the [Lwów Eaglets](https://pl.wikipedia.org/wiki/Orlęta_Lwowskie). On 20 November a relief force from Przemyśl fought its way into the city, and on the night of 21–22 November the Ukrainian troops withdrew from Lviv. The war for the city and for the whole of Eastern Galicia, however, was only beginning.
+The Defence of Lviv was the first clash of the [Polish–Ukrainian War](https://pl.wikipedia.org/wiki/Wojna_polsko-ukraińska) and one of the most extraordinary episodes of the end of the Great War. As the Habsburg monarchy broke up into nation states, two nations laid claim to the capital of Galicia at once. On the night of 31 October to 1 November 1918 Ukrainian soldiers of the Austro-Hungarian army seized [Lviv](/miejsca/lwow) and proclaimed it the capital of a new Ukrainian state. That same day the city's Polish inhabitants, most of them volunteers with no military training, took up arms. For three weeks fighting raged in the streets, schools, barracks and cemeteries, and on the Polish side grammar-school pupils, university students and scouts took part. They went down in history as the [Lwów Eaglets](https://pl.wikipedia.org/wiki/Orlęta_Lwowskie). On 20 November a relief force from Przemyśl fought its way into the city, and on the night of 21–22 November the Ukrainian troops withdrew from Lviv. The war for the city and for the whole of Eastern Galicia, however, was only beginning.
 
 ## Name and dates
 

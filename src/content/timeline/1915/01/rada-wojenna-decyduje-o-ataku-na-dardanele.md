@@ -27,7 +27,7 @@ Minister wojny [lord Herbert Kitchener](/postacie/horatio-kitchener) uznał, że
 
 ## Niejasna uchwała
 
-Wniosek z posiedzenia, spisany przez Asquitha, brzmiał: Admiralicja powinna również przygotować na luty wyprawę morską, która ma ostrzelać i zająć półwysep [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), z [Konstantynopolem](https://pl.wikipedia.org/wiki/Konstantynopol) jako celem.
+Wniosek z posiedzenia, spisany przez Asquitha, brzmiał: Admiralicja powinna również przygotować na luty wyprawę morską, która ma ostrzelać i zająć półwysep [Gallipoli](https://pl.wikipedia.org/wiki/Gallipoli_(półwysep)), z [Konstantynopolem](/miejsca/konstantynopol) jako celem.
 
 Sformułowanie było co najmniej niejasne. Okręty mogły ostrzelać forty, ale nie mogły zająć półwyspu, a tym bardziej stolicy osmańskiej. Do tego potrzebne były wojska lądowe, a Kitchener nie zamierzał ich na razie przydzielać. Uchwała nie mówiła też, co dalej, gdyby flota wpłynęła na Morze Marmara. Zakładano, że pojawienie się brytyjskich pancerników pod Konstantynopolem wywoła w Turcji przewrót albo zmusi ją do wyjścia z wojny. Rada zostawiła sobie zresztą furtkę. Przygotowania miały toczyć się dalej, ale ostateczną decyzję o rozpoczęciu operacji podjęto dopiero pod koniec stycznia.
 

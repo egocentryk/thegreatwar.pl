@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-31 października 1914 roku niemiecki okręt podwodny [U-27](https://pl.wikipedia.org/wiki/SM_U-27_(1913)), dowodzony przez kapitanlejtnanta Bernda Wegenera, storpedował w [Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska), kilkanaście kilometrów od [Calais](https://pl.wikipedia.org/wiki/Calais), brytyjski okręt Hermes. Był to pierwszy okręt przystosowany do przenoszenia samolotów, jaki utraciła brytyjska flota.
+31 października 1914 roku niemiecki okręt podwodny [U-27](https://pl.wikipedia.org/wiki/SM_U-27_(1913)), dowodzony przez kapitanlejtnanta Bernda Wegenera, storpedował w [Cieśninie Kaletańskiej](/miejsca/ciesnina-kaletanska), kilkanaście kilometrów od [Calais](https://pl.wikipedia.org/wiki/Calais), brytyjski okręt Hermes. Był to pierwszy okręt przystosowany do przenoszenia samolotów, jaki utraciła brytyjska flota.
 
 Hermes był starym krążownikiem, zwodowanym pod koniec XIX wieku. W 1913 roku przebudowano go na pierwszy w Royal Navy doświadczalny [okręt-bazę wodnosamolotów](https://pl.wikipedia.org/wiki/Okręt-baza_wodnosamolotów). Na dziobie zamontowano platformę startową, a na pokładzie brezentowe hangary i dźwig do podnoszenia maszyn z wody. Okręt mógł zabrać trzy [wodnosamoloty](https://pl.wikipedia.org/wiki/Wodnosamolot). Podczas letnich manewrów floty w 1913 roku próby wypadły obiecująco. Pokazały też, że samoloty zwiadowcze muszą mieć radiostacje, by ich obserwacje były przydatne.
 

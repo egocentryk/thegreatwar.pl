@@ -9,10 +9,10 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Erich von Falkenhayn]
 result: Inconclusive. The French held Arras, but the Germans took Lens, Vimy Ridge and Lorette. The fighting moved north, to La Bassée and Flanders.
 source: pierwsza-bitwa-w-artois
-sourceHash: 30b30399ccc07e857fbbd034263c27b7782ab189
+sourceHash: 976c48a9d66b782e71e495f1e691a4878317039a
 ---
 
-The First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza), the series of attempts to outflank the enemy's wing that in the autumn of 1914 pushed the Western Front ever further north. It was fought on 27 September – 12 October 1914 around [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), [Lens](https://pl.wikipedia.org/wiki/Lens) and the hills north of the town. Instead of outflanking the Germans, the French group of General Louis de Maud'huy, which became the Tenth Army during the battle, had to defend itself against an attack by the German Sixth Army. Arras remained in French hands, but the Germans took Lens and the heights of Vimy and Lorette, from which they dominated the surrounding area for years to come.
+The First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza), the series of attempts to outflank the enemy's wing that in the autumn of 1914 pushed the Western Front ever further north. It was fought on 27 September – 12 October 1914 around [Arras](/miejsca/arras), [Lens](https://pl.wikipedia.org/wiki/Lens) and the hills north of the town. Instead of outflanking the Germans, the French group of General Louis de Maud'huy, which became the Tenth Army during the battle, had to defend itself against an attack by the German Sixth Army. Arras remained in French hands, but the Germans took Lens and the heights of Vimy and Lorette, from which they dominated the surrounding area for years to come.
 
 ## Name and dates of the battle
 
@@ -22,7 +22,7 @@ The name "First Battle of Artois" is also used differently. Many studies, includ
 
 ## Background: another stage of the race
 
-At the end of September 1914 the Race to the Sea moved from [Picardy](/bitwy/pierwsza-bitwa-w-pikardii) to the Somme, where fighting was going on [at Albert](/bitwy/pierwsza-bitwa-pod-albert). North of these battlefields, between the Somme and the industrial coalfield around Lens and [Douai](https://pl.wikipedia.org/wiki/Douai), there was still no continuous front. The only troops there were French territorial divisions made up of older reservists and cavalry units of both sides. On 26 September the Germans took Bapaume, on the road from Albert to Arras.
+At the end of September 1914 the Race to the Sea moved from [Picardy](/bitwy/pierwsza-bitwa-w-pikardii) to the Somme, where fighting was going on [at Albert](/bitwy/pierwsza-bitwa-pod-albert). North of these battlefields, between the Somme and the industrial coalfield around Lens and [Douai](/miejsca/douai), there was still no continuous front. The only troops there were French territorial divisions made up of older reservists and cavalry units of both sides. On 26 September the Germans took Bapaume, on the road from Albert to Arras.
 
 The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), decided to assemble new forces in the Arras area, which were to strike east and north-east towards Douai and get into the German rear. At the end of September he formed a group under General Louis de Maud'huy, until then a corps commander. Sources give various dates for its formation, from 29 September to 1 October. At first it was formally subordinate to the Second Army of General [Noël de Castelnau](/postacie/noel-de-castelnau). It comprised X Corps, brought by rail from another sector of the front, reserve and territorial divisions, and later also XXI Corps of General [Paul Maistre](https://pl.wikipedia.org/wiki/Paul_Maistre). The northern wing was covered by the cavalry corps of General Louis Conneau.
 

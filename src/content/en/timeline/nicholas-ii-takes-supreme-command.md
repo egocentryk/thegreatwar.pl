@@ -2,7 +2,7 @@
 title: Nicholas II takes supreme command
 summary: On 5 September 1915 Nicholas II arrived at the Stavka in Mogilev and took command of the army. Grand Duke Nicholas left; Alekseyev became chief of staff.
 source: mikolaj-ii-obejmuje-naczelne-dowodztwo
-sourceHash: 021c4081d3a03340e7246e91d641f766703f043a
+sourceHash: dc4bfb989cc81e7ef6bfab65ff046682bb682941
 brief:
   - "On 5 September 1915 Tsar Nicholas II arrived at the Stavka near Mogilev and himself assumed supreme command of the Russian army. He replaced Grand Duke Nicholas Nikolaevich."
   - "By the summer of 1915 the army was retreating, and Russia had lost Galicia, the Kingdom of Poland and part of Lithuania. The Tsar believed his place was with the army; historians also point to the Empress and Rasputin."
@@ -11,7 +11,7 @@ brief:
   - "The ministers' warnings proved accurate: from then on the Tsar was personally responsible for every defeat and stayed far from the capital. In Petrograd the influence of the Empress and Rasputin over appointments grew."
 ---
 
-On 5 September 1915 (23 August by the Julian calendar) Tsar [Nicholas II](/postacie/mikolaj-ii) arrived at the headquarters, the Stavka, near [Mogilev](https://pl.wikipedia.org/wiki/Mohylew) and himself assumed supreme command of the Russian army. He replaced Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz), who had been commander-in-chief [since the beginning of the war](/wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej). The new commander-in-chief's chief of staff was General [Mikhail Alekseyev](/postacie/michail-aleksiejew), until then commander of the Western Front.
+On 5 September 1915 (23 August by the Julian calendar) Tsar [Nicholas II](/postacie/mikolaj-ii) arrived at the headquarters, the Stavka, near [Mogilev](/miejsca/mohylew) and himself assumed supreme command of the Russian army. He replaced Grand Duke [Nicholas Nikolaevich](/postacie/mikolaj-mikolajewicz), who had been commander-in-chief [since the beginning of the war](/wielki-ksiaze-mikolaj-naczelnym-wodzem-armii-rosyjskiej). The new commander-in-chief's chief of staff was General [Mikhail Alekseyev](/postacie/michail-aleksiejew), until then commander of the Western Front.
 
 In his order to the army and navy the Tsar announced: "Today I have taken command of all the land and sea forces in the theatre of war. With firm faith in the grace of God and with unshakeable confidence in final victory, we shall fulfil our sacred duty of defending the Fatherland to the end and shall not disgrace the Russian land." According to the Tsar's diary, he signed the order and the rescript to the Grand Duke the following day, but dated them 23 August.
 

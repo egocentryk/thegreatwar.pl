@@ -2,7 +2,7 @@
 title: Battle of Hill 70 begins
 summary: At dawn on 15 August 1917 the Canadian Corps took Hill 70 above Lens and then broke a series of German counter-attacks with artillery fire.
 source: poczatek-bitwy-o-wzgorze-70
-sourceHash: e2d2e86808c76093211a93fdc00c08c8a13dd3be
+sourceHash: 0447a0b3bb0dac8c4e142d6aa6a16dab28b52834
 brief:
   - "At 4.25 a.m. on 15 August 1917 two divisions of the Canadian Corps attacked Hill 70 above Lens. It was the corps' first battle under a Canadian commander, General Arthur Currie."
   - "The attack was meant to pin down the Germans while the Third Battle of Ypres went on in Flanders. Currie persuaded his superiors that instead of Lens they should take Hill 70, which dominated the town."
@@ -17,7 +17,7 @@ On 15 August 1917 at 4.25 a.m., as day was beginning to break, two divisions of 
 
 For two weeks the [Third Battle of Ypres](/bitwy/trzecia-bitwa-pod-ypres), the main British offensive of 1917, had been under way in Flanders. The attack, launched [on 31 July](/poczatek-trzeciej-bitwy-pod-ypres), had stalled in rain and mud. The other British armies were meanwhile to pin the Germans down on their own sectors so that they could not shift reserves north. On 7 July General Henry Horne's First Army passed on to Currie, who a month earlier had [taken command of the corps](/currie-dowodca-korpusu-kanadyjskiego), an order from the commander-in-chief, [Douglas Haig](/postacie/douglas-haig): take Lens, a ruined town at the heart of the French coalfield, and threaten an advance from there on Lille.
 
-Currie considered the order a mistake. The town lay in a basin and was dominated by two hills: Hill 70 to the north and the hill near [Sallaumines](https://pl.wikipedia.org/wiki/Sallaumines) to the south-east. Whoever took Lens while leaving the hills to the Germans would be sitting in ruins under their fire. At a conference on 10 July Currie persuaded Horne to make Hill 70 the main objective. The Canadians knew the place from history: in September 1915, in the [Battle of Loos](/bitwy/bitwa-pod-loos), the Scots had gone over the top of the hill but failed to hold it. Currie reckoned that the Germans would not accept the loss of a hill from which Lens and the [Douai](https://pl.wikipedia.org/wiki/Douai) plain far behind their lines could be seen. They would try to retake it, and every counter-attack on the open slope, in full view of the observers, would be smashed by the Canadian artillery. According to the plan the hill was to become a place of "killing by artillery".
+Currie considered the order a mistake. The town lay in a basin and was dominated by two hills: Hill 70 to the north and the hill near [Sallaumines](https://pl.wikipedia.org/wiki/Sallaumines) to the south-east. Whoever took Lens while leaving the hills to the Germans would be sitting in ruins under their fire. At a conference on 10 July Currie persuaded Horne to make Hill 70 the main objective. The Canadians knew the place from history: in September 1915, in the [Battle of Loos](/bitwy/bitwa-pod-loos), the Scots had gone over the top of the hill but failed to hold it. Currie reckoned that the Germans would not accept the loss of a hill from which Lens and the [Douai](/miejsca/douai) plain far behind their lines could be seen. They would try to retake it, and every counter-attack on the open slope, in full view of the observers, would be smashed by the Canadian artillery. According to the plan the hill was to become a place of "killing by artillery".
 
 ## Preparations
 

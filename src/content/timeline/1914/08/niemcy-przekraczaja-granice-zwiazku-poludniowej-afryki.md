@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Około 21 sierpnia 1914 roku oddział wojsk z [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia), dzisiejszej Namibii, przekroczył granicę [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Niemcy zajęli wzgórze w pobliżu posterunku Nakob, na pustynnym pograniczu nad rzeką [Oranje](https://pl.wikipedia.org/wiki/Oranje), i zaczęli budować tam okopy.
+Około 21 sierpnia 1914 roku oddział wojsk z [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia), dzisiejszej Namibii, przekroczył granicę [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Niemcy zajęli wzgórze w pobliżu posterunku Nakob, na pustynnym pograniczu nad rzeką [Oranje](https://pl.wikipedia.org/wiki/Oranje), i zaczęli budować tam okopy.
 
 ## Sporna data
 

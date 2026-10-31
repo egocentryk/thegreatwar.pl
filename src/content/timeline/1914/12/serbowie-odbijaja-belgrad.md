@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-15 grudnia 1914 roku wojska serbskie wróciły do [Belgradu](https://pl.wikipedia.org/wiki/Belgrad). Austro-Węgrzy, którzy [zajęli stolicę 2 grudnia](/austriacy-zajmuja-belgrad), utrzymali ją niespełna dwa tygodnie. W nocy z 14 na 15 grudnia ich 5 Armia przeprawiła się z powrotem za [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i Dunaj. Serbia została oczyszczona z wojsk najeźdźcy.
+15 grudnia 1914 roku wojska serbskie wróciły do [Belgradu](/miejsca/belgrad). Austro-Węgrzy, którzy [zajęli stolicę 2 grudnia](/austriacy-zajmuja-belgrad), utrzymali ją niespełna dwa tygodnie. W nocy z 14 na 15 grudnia ich 5 Armia przeprawiła się z powrotem za [Sawę](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) i Dunaj. Serbia została oczyszczona z wojsk najeźdźcy.
 
 Brytyjska chronologia wojny nazywa zakończoną tego dnia kampanię [drugą austriacką inwazją na Serbię](/bitwy/kampania-serbska-1914). Polska, serbska i niemiecka historiografia rozróżnia jednak trzy ofensywy z 1914 roku: sierpniową, zakończoną [klęską na górze Cer](/bitwy/bitwa-na-gorze-cer), wrześniową [nad Driną](/bitwy/bitwa-nad-drina) i listopadową, którą Serbowie rozbili nad Kolubarą. Tej rachuby trzymamy się także na naszej stronie.
 

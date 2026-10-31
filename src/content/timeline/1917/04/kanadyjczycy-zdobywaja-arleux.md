@@ -18,7 +18,7 @@ brief:
   - "Według kanadyjskiej historii oficjalnej straty Kanadyjczyków zbliżyły się do tysiąca ludzi, a wzięli około 450 jeńców. Zdobyty występ posłużył im za podstawę natarcia na Fresnoy 3 maja."
 ---
 
-28 kwietnia 1917 roku o 4.25 rano Brytyjczycy i Kanadyjczycy po raz kolejny ruszyli do natarcia pod [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). Na froncie długości około 10 km, od Monchy-le-Preux nad Scarpe po wieś [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle) u stóp grzbietu Vimy, zaatakowało sześć dywizji. Prawie wszędzie natarcie się załamało. Wyjątkiem była 2 Brygada 1 Dywizji Kanadyjskiej, która w niespełna dwie godziny przeszła przez niemiecką pętlę okopów, zajęła ruiny Arleux i utrzymała je mimo kontrataków. Brytyjska historia oficjalna nazwała to „jedynym namacalnym sukcesem całej operacji”.
+28 kwietnia 1917 roku o 4.25 rano Brytyjczycy i Kanadyjczycy po raz kolejny ruszyli do natarcia pod [Arras](/miejsca/arras). Na froncie długości około 10 km, od Monchy-le-Preux nad Scarpe po wieś [Arleux-en-Gohelle](https://pl.wikipedia.org/wiki/Arleux-en-Gohelle) u stóp grzbietu Vimy, zaatakowało sześć dywizji. Prawie wszędzie natarcie się załamało. Wyjątkiem była 2 Brygada 1 Dywizji Kanadyjskiej, która w niespełna dwie godziny przeszła przez niemiecką pętlę okopów, zajęła ruiny Arleux i utrzymała je mimo kontrataków. Brytyjska historia oficjalna nazwała to „jedynym namacalnym sukcesem całej operacji”.
 
 ## Natarcie na rzecz sojusznika
 

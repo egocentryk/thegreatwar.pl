@@ -17,7 +17,7 @@ tags: [Kamerun, kolonie niemieckie, Wielka Brytania, Niemcy]
 milestone: false
 ---
 
-Bitwa o górę Banyo była najcięższą walką jesiennej ofensywy wojsk brytyjskich z [Nigerii](https://pl.wikipedia.org/wiki/Nigeria) w północnej części [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Niemcy zamienili samotną, stromą górę koło miasta [Banyo](https://pl.wikipedia.org/wiki/Banyo) w twierdzę, która miała przetrwać do końca wojny, tak jak od ponad roku trwała załoga na górze nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)). Generał Frederick Cunliffe zaatakował ją 4 listopada 1915 roku czterema kompaniami nigeryjskiej piechoty. Po dwóch dniach wspinaczki od głazu do głazu, pod ogniem i wybuchami ładunków dynamitu, jego żołnierze o świcie 6 listopada stanęli na szczycie. Upadek Banyo otworzył Brytyjczykom drogę na południe, ku [Jaunde](https://pl.wikipedia.org/wiki/Jaunde).
+Bitwa o górę Banyo była najcięższą walką jesiennej ofensywy wojsk brytyjskich z [Nigerii](https://pl.wikipedia.org/wiki/Nigeria) w północnej części [Kamerunu Niemieckiego](/miejsca/kamerun). Niemcy zamienili samotną, stromą górę koło miasta [Banyo](https://pl.wikipedia.org/wiki/Banyo) w twierdzę, która miała przetrwać do końca wojny, tak jak od ponad roku trwała załoga na górze nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)). Generał Frederick Cunliffe zaatakował ją 4 listopada 1915 roku czterema kompaniami nigeryjskiej piechoty. Po dwóch dniach wspinaczki od głazu do głazu, pod ogniem i wybuchami ładunków dynamitu, jego żołnierze o świcie 6 listopada stanęli na szczycie. Upadek Banyo otworzył Brytyjczykom drogę na południe, ku [Jaunde](https://pl.wikipedia.org/wiki/Jaunde).
 
 ## Nazwa i daty
 

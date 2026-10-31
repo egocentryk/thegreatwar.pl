@@ -2,10 +2,10 @@
 title: British take Mpwapwa
 summary: On 11 August 1916 van Deventer's division entered Mpwapwa after two days of marching and fighting. The German rearguard held the hills and slipped away.
 source: brytyjczycy-zajmuja-mpwapwa
-sourceHash: e5acc3cc2dc72d0e3e14e88950d40360247d58ae
+sourceHash: e6a3a03f3a8468a1a2854fb0184b86d55d902911
 ---
 
-On 11 August 1916 the South African troops of General Jacob van Deventer's 2nd Division entered Mpwapwa, a former German administrative station in the central part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), north of the Central Railway. The Germans abandoned the settlement as the column approached, but their rearguard held out until evening on the hills beyond it. The British official history (Hordern) and the British chronology of the war give 11 August. The report of General [Jan Smuts](/postacie/jan-smuts) and the South African official history based on it shift everything by one day: they date the fight at Chunyu to 11 August and that at Mpwapwa to the evening of 12 August.
+On 11 August 1916 the South African troops of General Jacob van Deventer's 2nd Division entered Mpwapwa, a former German administrative station in the central part of [German East Africa](/bitwy/kampania-wschodnioafrykanska), north of the Central Railway. The Germans abandoned the settlement as the column approached, but their rearguard held out until evening on the hills beyond it. The British official history (Hordern) and the British chronology of the war give 11 August. The report of General [Jan Smuts](/postacie/jan-smuts) and the South African official history based on it shift everything by one day: they date the fight at Chunyu to 11 August and that at Mpwapwa to the evening of 12 August.
 
 ## East of Dodoma
 

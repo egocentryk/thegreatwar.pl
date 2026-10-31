@@ -2,7 +2,7 @@
 title: Austria-Hungary declares war on Serbia
 summary: On 28 July 1914 Austria-Hungary declared war on Serbia by telegram. That same night Belgrade was shelled and the First World War began.
 source: austro-wegry-wypowiadaja-wojne-serbii
-sourceHash: 7ae01938399b6095ffe90e3c73d8730f9cff479a
+sourceHash: 935b0f553d00f0c83429f3d80e4871c6e82661b9
 brief:
   - "On 28 July 1914, exactly a month after the assassination in Sarajevo, Austria-Hungary declared war on Serbia. For many historians this day marks the beginning of the First World War."
   - "Leopold Berchtold sent the declaration by telegram to Prime Minister Nikola Pašić in Niš, as diplomatic relations had been broken off three days earlier. It was the first time war had been declared by telegram."
@@ -17,7 +17,7 @@ On 28 July 1914, exactly a month after the assassination in Sarajevo, [Austria-H
 
 The decision was approved by Emperor [Franz Joseph I](/postacie/franciszek-jozef-i), who was still at his summer residence in [Bad Ischl](https://pl.wikipedia.org/wiki/Bad_Ischl). Because diplomatic relations with Serbia had been broken off three days earlier, there was no longer an Austro-Hungarian minister in Belgrade to deliver a note. Foreign Minister [Leopold Berchtold](https://pl.wikipedia.org/wiki/Leopold_Berchtold) therefore sent a telegram from Vienna at 11:10 a.m. to the Serbian prime minister, [Nikola Pašić](/postacie/nikola-pasic).
 
-The message, written in French, went over the ordinary telegraph network via [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt) as open, unencrypted text. It reached [Niš](https://pl.wikipedia.org/wiki/Nisz), where the Serbian government had moved, at about 12:30 p.m. In it Berchtold declared that the Serbian government had not given a satisfactory reply to the note of 23 July, and that the monarchy accordingly considered itself to be in a state of war with Serbia. It was the first time in history that war had been declared by telegram. The unusual form led Pašić at first to suspect a hoax and to seek confirmation that the document was genuine.
+The message, written in French, went over the ordinary telegraph network via [Bucharest](/miejsca/bukareszt) as open, unencrypted text. It reached [Niš](https://pl.wikipedia.org/wiki/Nisz), where the Serbian government had moved, at about 12:30 p.m. In it Berchtold declared that the Serbian government had not given a satisfactory reply to the note of 23 July, and that the monarchy accordingly considered itself to be in a state of war with Serbia. It was the first time in history that war had been declared by telegram. The unusual form led Pašić at first to suspect a hoax and to seek confirmation that the document was genuine.
 
 The telegram concerned only Austria-Hungary and Serbia. It made no mention of Russia, Germany, France or Great Britain, which reflects Vienna's hope that the war would remain local. Today it is inscribed on UNESCO's [Memory of the World](https://pl.wikipedia.org/wiki/Pamięć_Świata) register as one of the most important documents of the twentieth century.
 
@@ -29,7 +29,7 @@ Chancellor [Theobald von Bethmann Hollweg](/postacie/theobald-von-bethmann-hollw
 
 ## The first shots
 
-On the night of 28–29 July Austro-Hungarian artillery positioned in [Zemun](https://pl.wikipedia.org/wiki/Zemun) and river [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) on the Danube and the Sava shelled [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). The shells struck, among other places, a school, the Grand Hotel, cafés and banks. The Serbian capital, lying right on the border, found itself on the front line from the first hours of the war. On 28 July Franz Joseph also signed the manifesto "To My Peoples", in which he explained to his subjects why the monarchy had taken up arms.
+On the night of 28–29 July Austro-Hungarian artillery positioned in [Zemun](https://pl.wikipedia.org/wiki/Zemun) and river [monitors](https://pl.wikipedia.org/wiki/Monitor_(okręt)) on the Danube and the Sava shelled [Belgrade](/miejsca/belgrad). The shells struck, among other places, a school, the Grand Hotel, cafés and banks. The Serbian capital, lying right on the border, found itself on the front line from the first hours of the war. On 28 July Franz Joseph also signed the manifesto "To My Peoples", in which he explained to his subjects why the monarchy had taken up arms.
 
 The actual advance of troops into Serbia had to wait for mobilisation to be completed, and its first day was 28 July itself. The [Serbian campaign](https://pl.wikipedia.org/wiki/Kampania_serbska_(I_wojna_światowa)) began in earnest only in mid-August.
 

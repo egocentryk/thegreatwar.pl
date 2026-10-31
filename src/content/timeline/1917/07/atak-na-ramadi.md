@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-11 lipca 1917 roku brytyjsko-indyjska kolumna podpułkownika Haldane'a zaatakowała tureckie okopy pod [Ar-Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi), miastem nad [Eufratem](https://pl.wikipedia.org/wiki/Eufrat), nieco ponad sto kilometrów na zachód od Bagdadu. Brytyjska chronologia wojny datuje tę akcję na 11–14 lipca, licząc razem z odwrotem. Walczono w najgorętszym okresie mezopotamskiego lata. Według brytyjskiej historii oficjalnej kampanii mezopotamskiej F.J. Moberly'ego 8 lipca temperatura w Bagdadzie podskoczyła w cieniu do ponad 122 stopni Fahrenheita, czyli ponad 50 stopni Celsjusza, a w namiotach i ziemiankach była jeszcze o kilka stopni wyższa. Brytyjski urzędnik i historyk Arnold Wilson podaje, że na słońcu termometr pokazywał około 71 stopni.
+11 lipca 1917 roku brytyjsko-indyjska kolumna podpułkownika Haldane'a zaatakowała tureckie okopy pod [Ar-Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi), miastem nad [Eufratem](/miejsca/eufrat), nieco ponad sto kilometrów na zachód od Bagdadu. Brytyjska chronologia wojny datuje tę akcję na 11–14 lipca, licząc razem z odwrotem. Walczono w najgorętszym okresie mezopotamskiego lata. Według brytyjskiej historii oficjalnej kampanii mezopotamskiej F.J. Moberly'ego 8 lipca temperatura w Bagdadzie podskoczyła w cieniu do ponad 122 stopni Fahrenheita, czyli ponad 50 stopni Celsjusza, a w namiotach i ziemiankach była jeszcze o kilka stopni wyższa. Brytyjski urzędnik i historyk Arnold Wilson podaje, że na słońcu termometr pokazywał około 71 stopni.
 
 ## Wypad zamiast ofensywy
 

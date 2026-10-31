@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-4 marca 1915 roku w [Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) niszczyciele brytyjskiego Dover Patrol wytropiły i zniszczyły niemiecki [okręt podwodny](https://pl.wikipedia.org/wiki/Okręt_podwodny) U-8. Cała jego załoga, 29 ludzi, dostała się do niewoli. Brytyjska chronologia wojny odnotowuje ten dzień jako pierwszy przypadek, w którym sieci sygnalizacyjne pomogły zniszczyć U-Boota.
+4 marca 1915 roku w [Cieśninie Kaletańskiej](/miejsca/ciesnina-kaletanska) niszczyciele brytyjskiego Dover Patrol wytropiły i zniszczyły niemiecki [okręt podwodny](https://pl.wikipedia.org/wiki/Okręt_podwodny) U-8. Cała jego załoga, 29 ludzi, dostała się do niewoli. Brytyjska chronologia wojny odnotowuje ten dzień jako pierwszy przypadek, w którym sieci sygnalizacyjne pomogły zniszczyć U-Boota.
 
 ## Sieci w cieśninie
 

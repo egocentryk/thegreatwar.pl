@@ -2,10 +2,10 @@
 title: Sinking of the Swedish steamer Hanna
 summary: On 13 March 1915 the Swedish steamer Hanna sank off Yorkshire. The British held she was torpedoed, but she may have struck a German mine.
 source: zatopienie-szwedzkiego-parowca-hanna
-sourceHash: 6d79442f757887fc637e82e9dd5063d69ec3926b
+sourceHash: 1432d483005830637ba779a54ee78706576a9f19
 ---
 
-During the night of 12–13 March 1915 in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), a few miles north of [Flamborough Head](https://pl.wikipedia.org/wiki/Flamborough_Head), a powerful explosion tore open the bow of the Swedish steamer *Hanna*. The ship sank within half an hour and six sailors were killed. The British Admiralty concluded that *Hanna* had been torpedoed without warning, and the British chronology of the war calls her the first neutral ship sunk by a German submarine. To this day, however, it is not certain that this was a U-boat attack.
+During the night of 12–13 March 1915 in the [North Sea](/miejsca/morze-polnocne), a few miles north of [Flamborough Head](https://pl.wikipedia.org/wiki/Flamborough_Head), a powerful explosion tore open the bow of the Swedish steamer *Hanna*. The ship sank within half an hour and six sailors were killed. The British Admiralty concluded that *Hanna* had been torpedoed without warning, and the British chronology of the war calls her the first neutral ship sunk by a German submarine. To this day, however, it is not certain that this was a U-boat attack.
 
 ## Coal for the Canary Islands
 

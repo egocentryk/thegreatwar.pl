@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 25 listopada 1915 roku generał Charles Townshend wycofał swoją dywizję z pola bitwy pod [Ktezyfonem](https://pl.wikipedia.org/wiki/Ktezyfon). Około 19.30, pod osłoną ciemności, wojsko odeszło spod ruin nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i o pierwszej w nocy, niepokojone tylko przez Arabów, dotarło do obozu i statków w Lajj, kilkanaście kilometrów w dół rzeki. Trzy dni wcześniej Townshend [zdobył pierwszą linię tureckich okopów](/poczatek-bitwy-pod-ktezyfonem), ale stracił przy tym blisko 4,5 tysiąca ludzi. Marsz na [Bagdad](/miejsca/bagdad) się skończył.
+Wieczorem 25 listopada 1915 roku generał Charles Townshend wycofał swoją dywizję z pola bitwy pod [Ktezyfonem](https://pl.wikipedia.org/wiki/Ktezyfon). Około 19.30, pod osłoną ciemności, wojsko odeszło spod ruin nad [Tygrysem](/miejsca/tygrys) i o pierwszej w nocy, niepokojone tylko przez Arabów, dotarło do obozu i statków w Lajj, kilkanaście kilometrów w dół rzeki. Trzy dni wcześniej Townshend [zdobył pierwszą linię tureckich okopów](/poczatek-bitwy-pod-ktezyfonem), ale stracił przy tym blisko 4,5 tysiąca ludzi. Marsz na [Bagdad](/miejsca/bagdad) się skończył.
 
 ## Dwie armie w niepewności
 
@@ -30,4 +30,4 @@ Nixon odpłynął już ze sztabem w dół rzeki, do Azizijji, i dostał te meldu
 
 Najtragiczniejszy był los rannych. Było ich znacznie więcej, niż przewidywano, i nie zmieścili się na dwóch przygotowanych dla nich parowcach. Lekarze musieli upchnąć większość na sześciu innych statkach i barkach, nieprzygotowanych do przewozu chorych. Brakowało personelu, leków i opatrunków, a podróż w dół rzeki miała być długa. Nixon tłumaczył później, że nie było wyboru, bo rannych pozostawionych w tyle mordowaliby arabscy maruderzy.
 
-Lajj nie stało się postojem na długo. 26 listopada Turcy wrócili na swoją pierwszą linię, a Nureddin posłał za Brytyjczykami kawalerię i arabskie oddziały. 27 listopada Townshend dowiedział się o zbliżaniu się około 12 tysięcy tureckiej piechoty i w jednym nocnym marszu cofnął się do Azizijji. 1 grudnia odparł Turków pod Umm at-Tubul, a 3 grudnia jego wyczerpane wojsko weszło do [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut). Tam Townshend postanowił się bronić i czekać na odsiecz. Kilka dni później Turcy otoczyli miasto.
+Lajj nie stało się postojem na długo. 26 listopada Turcy wrócili na swoją pierwszą linię, a Nureddin posłał za Brytyjczykami kawalerię i arabskie oddziały. 27 listopada Townshend dowiedział się o zbliżaniu się około 12 tysięcy tureckiej piechoty i w jednym nocnym marszu cofnął się do Azizijji. 1 grudnia odparł Turków pod Umm at-Tubul, a 3 grudnia jego wyczerpane wojsko weszło do [Al-Kutu](/miejsca/al-kut). Tam Townshend postanowił się bronić i czekać na odsiecz. Kilka dni później Turcy otoczyli miasto.

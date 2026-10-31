@@ -2,10 +2,10 @@
 title: American battleships join the Grand Fleet
 summary: On 7 December 1917 Rear Admiral Rodman's four American dreadnoughts entered Scapa Flow. They joined the Grand Fleet as the 6th Battle Squadron.
 source: amerykanskie-pancerniki-w-grand-fleet
-sourceHash: ab37901bb5ad2600d1fd46ebf8458cc9d9595a25
+sourceHash: b94866502ea0cf1389147ac1f7873fe6a4043c49
 ---
 
-On 7 December 1917 four American [dreadnoughts](https://pl.wikipedia.org/wiki/Drednot), [New York](https://pl.wikipedia.org/wiki/USS_New_York_(BB-34)), [Wyoming](https://pl.wikipedia.org/wiki/USS_Wyoming_(BB-32)), [Florida](https://pl.wikipedia.org/wiki/USS_Florida_(BB-30)) and [Delaware](https://pl.wikipedia.org/wiki/USS_Delaware_(BB-28)), entered [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in the [Orkneys](https://pl.wikipedia.org/wiki/Orkady), the main base of the British [Grand Fleet](/sily-zbrojne/grand-fleet). They formed Battleship Division Nine of the Atlantic Fleet under Rear Admiral Hugh Rodman, who flew his flag in *New York*. In the early hours of that day the ships, earlier scattered by a storm, assembled off Cape Wrath in the north of Scotland, and later the same day they entered the base. On the same day Congress in Washington [declared war on Austria-Hungary](/usa-wypowiadaja-wojne-austro-wegrom). The British chronology of the war gives the date as 6 December.
+On 7 December 1917 four American [dreadnoughts](https://pl.wikipedia.org/wiki/Drednot), [New York](https://pl.wikipedia.org/wiki/USS_New_York_(BB-34)), [Wyoming](https://pl.wikipedia.org/wiki/USS_Wyoming_(BB-32)), [Florida](https://pl.wikipedia.org/wiki/USS_Florida_(BB-30)) and [Delaware](https://pl.wikipedia.org/wiki/USS_Delaware_(BB-28)), entered [Scapa Flow](/miejsca/scapa-flow) in the [Orkneys](https://pl.wikipedia.org/wiki/Orkady), the main base of the British [Grand Fleet](/sily-zbrojne/grand-fleet). They formed Battleship Division Nine of the Atlantic Fleet under Rear Admiral Hugh Rodman, who flew his flag in *New York*. In the early hours of that day the ships, earlier scattered by a storm, assembled off Cape Wrath in the north of Scotland, and later the same day they entered the base. On the same day Congress in Washington [declared war on Austria-Hungary](/usa-wypowiadaja-wojne-austro-wegrom). The British chronology of the war gives the date as 6 December.
 
 ## Why only now
 

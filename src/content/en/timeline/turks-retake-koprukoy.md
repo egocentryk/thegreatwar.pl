@@ -2,10 +2,10 @@
 title: Turks retake Köprüköy
 summary: In mid-November 1914 an Ottoman Third Army counter-offensive pushed the Russians from Köprüköy almost to the border, the first Turkish success in the Caucasus.
 source: turcy-odbijaja-koprukoy
-sourceHash: 41a6be96e50f5d46c2ff60d4e21168cc04b0a75f
+sourceHash: a372661c637336f2c4faae4073622853e4a4eea3
 ---
 
-A British chronology of the war records under 14 November 1914 that a Turkish counter-offensive retook Köprüköy, a village on the [Aras](https://pl.wikipedia.org/wiki/Araks) on the road to [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). According to studies, the decisive fighting took place a few days earlier. On 11 and 12 November the Ottoman Third Army forced the troops of General Georgy Bergmann to retreat from Köprüköy to the positions they had [occupied in the first days of the war](/rosjanie-wkraczaja-do-turcji), in the area of the village of Azap.
+A British chronology of the war records under 14 November 1914 that a Turkish counter-offensive retook Köprüköy, a village on the [Aras](https://pl.wikipedia.org/wiki/Araks) on the road to [Erzurum](/miejsca/erzurum). According to studies, the decisive fighting took place a few days earlier. On 11 and 12 November the Ottoman Third Army forced the troops of General Georgy Bergmann to retreat from Köprüköy to the positions they had [occupied in the first days of the war](/rosjanie-wkraczaja-do-turcji), in the area of the village of Azap.
 
 The counter-offensive began on 7 November on the orders of the Minister of War, [Enver Pasha](/postacie/enver-pasza). The commander of the Third Army, General [Hasan İzzet Pasha](https://pl.wikipedia.org/wiki/Hasan_İzzet_Pasza), first pinned the Russians down with XI Corps and then brought IX Corps and the cavalry into the battle. On 11 November the Turks attacked on both banks of the Aras and came out on the flank of Bergmann's troops. The Russians, who [a few days earlier had reached Köprüköy](/rosjanie-zajmuja-koprukoy), found themselves in danger of encirclement and had to withdraw.
 

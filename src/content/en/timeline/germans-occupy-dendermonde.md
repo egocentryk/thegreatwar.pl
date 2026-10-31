@@ -2,14 +2,14 @@
 title: Germans occupy Dendermonde
 summary: On 2 October 1914 the Germans again occupied ruined Dendermonde on the Scheldt, threatening the road by which the Belgian army could leave Antwerp.
 source: niemcy-zajmuja-dendermonde
-sourceHash: 78624f9c5d0b40779099bb8675ca36efd7c7b900
+sourceHash: 1f4ce0a4623c7479022f84a66d6caf6ebcf7008b
 ---
 
 On 2 October 1914, during the siege of [Antwerp](/miejsca/antwerpia), German troops once again occupied [Dendermonde](https://pl.wikipedia.org/wiki/Dendermonde) (French: Termonde). The town lies on the [Scheldt](https://pl.wikipedia.org/wiki/Skalda), where the river [Dender](https://pl.wikipedia.org/wiki/Dender) flows into it, some 25–30 kilometres south-west of Antwerp. Since the beginning of September it had changed hands several times, and by the time the Germans entered it again it was already largely a burnt-out ruin.
 
 ## The key to the west bank of the Scheldt
 
-Dendermonde's importance derived from its position. Through it ran the road across the Scheldt to its west bank and on towards [Ghent](https://pl.wikipedia.org/wiki/Gandawa) and the coast. Through this area ran Antwerp's communications with the Channel ports, from which Allied help could come. Had the Germans crossed the Scheldt here, they could have cut the fortress off from the west and closed the Belgian army's line of retreat.
+Dendermonde's importance derived from its position. Through it ran the road across the Scheldt to its west bank and on towards [Ghent](/miejsca/gandawa) and the coast. Through this area ran Antwerp's communications with the Channel ports, from which Allied help could come. Had the Germans crossed the Scheldt here, they could have cut the fortress off from the west and closed the Belgian army's line of retreat.
 
 ## A town burnt in September
 

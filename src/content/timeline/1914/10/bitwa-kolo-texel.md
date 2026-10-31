@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Po południu 17 października 1914 roku na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), kilkadziesiąt kilometrów na południowy zachód od holenderskiej wyspy [Texel](https://pl.wikipedia.org/wiki/Texel), brytyjski [krążownik lekki](https://pl.wikipedia.org/wiki/Krążownik_lekki) Undaunted i cztery niszczyciele dopadły cztery niemieckie [torpedowce](https://pl.wikipedia.org/wiki/Torpedowiec). W ciągu niespełna trzech godzin wszystkie niemieckie okręty poszły na dno. Zginęło ponad 200 niemieckich marynarzy, a Brytyjczycy mieli zaledwie kilku rannych.
+Po południu 17 października 1914 roku na [Morzu Północnym](/miejsca/morze-polnocne), kilkadziesiąt kilometrów na południowy zachód od holenderskiej wyspy [Texel](https://pl.wikipedia.org/wiki/Texel), brytyjski [krążownik lekki](https://pl.wikipedia.org/wiki/Krążownik_lekki) Undaunted i cztery niszczyciele dopadły cztery niemieckie [torpedowce](https://pl.wikipedia.org/wiki/Torpedowiec). W ciągu niespełna trzech godzin wszystkie niemieckie okręty poszły na dno. Zginęło ponad 200 niemieckich marynarzy, a Brytyjczycy mieli zaledwie kilku rannych.
 
 ## Wyprawa z miną na Tamizę
 

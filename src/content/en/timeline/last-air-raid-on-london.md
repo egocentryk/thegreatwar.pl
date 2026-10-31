@@ -2,14 +2,14 @@
 title: Last air raid on London
 summary: On the night of 19 May 1918 over 40 German bombers attacked London, killing 49 people. The Germans lost seven machines. It was their last raid on England.
 source: ostatni-nalot-na-londyn
-sourceHash: 113bb9cf5390c1c40474f62f9d4b6a2bede66518
+sourceHash: 5df2d29532ae5a79021895779564c34b1188dbfb
 ---
 
 On the night of 19–20 May 1918, from Whit Sunday to Whit Monday, German bombers carried out the largest raid on [London](https://pl.wikipedia.org/wiki/Londyn) of the whole war. In the moonlight several dozen Gothas and three Giants came in over Kent and [Essex](https://pl.wikipedia.org/wiki/Essex). The bombs killed 49 people in and around London. This time, however, the defences inflicted the heaviest losses of the entire campaign on the raiders: according to H. A. Jones's British official history of the war in the air, seven German machines were lost over England or off its coast. The raid proved to be the last attack by German aeroplanes on Great Britain.
 
 ## The largest raid
 
-The bombers belonged to Bombengeschwader 3, the squadron known in Germany as the Englandgeschwader, which since the spring of 1917 had been [bombing England](/nalot-gothow-na-londyn) from airfields near [Ghent](https://pl.wikipedia.org/wiki/Gandawa). Since February 1918 it had again been commanded by Captain Ernst Brandenburg, who had returned to duty after a serious crash in June 1917. According to the German documents cited by Jones, 43 aircraft took off: 38 twin-engined Gothas, most of them of the [Gotha G.V](https://pl.wikipedia.org/wiki/Gotha_G.V) type, three [Giants](/nalot-gigantow-na-londyn) of Riesenflugzeug-Abteilung 501 and two smaller aircraft. Together they carried 14.5 tonnes of bombs. The targets were London and [Dover](https://pl.wikipedia.org/wiki/Dover). The machines took off at intervals of about five minutes and attacked singly, without formation.
+The bombers belonged to Bombengeschwader 3, the squadron known in Germany as the Englandgeschwader, which since the spring of 1917 had been [bombing England](/nalot-gothow-na-londyn) from airfields near [Ghent](/miejsca/gandawa). Since February 1918 it had again been commanded by Captain Ernst Brandenburg, who had returned to duty after a serious crash in June 1917. According to the German documents cited by Jones, 43 aircraft took off: 38 twin-engined Gothas, most of them of the [Gotha G.V](https://pl.wikipedia.org/wiki/Gotha_G.V) type, three [Giants](/nalot-gigantow-na-londyn) of Riesenflugzeug-Abteilung 501 and two smaller aircraft. Together they carried 14.5 tonnes of bombs. The targets were London and [Dover](https://pl.wikipedia.org/wiki/Dover). The machines took off at intervals of about five minutes and attacked singly, without formation.
 
 From 10.42 p.m. until about 1.30 a.m. there was almost continuous aircraft movement over Kent and Essex. The British counted about 34 bombers over the coast, of which in their view thirteen reached London. German documents say that at least nineteen got as far as the capital.
 

@@ -2,10 +2,10 @@
 title: Russia demands Constantinople
 summary: On 4 March 1915 Sergey Sazonov asked Britain and France to agree that Constantinople and the Straits would be annexed to Russia after the war.
 source: rosja-zada-konstantynopola
-sourceHash: 140a3de0a27bb51c88832cb9cfdcc6481ee658d6
+sourceHash: cb4f2ac6008aa7d96afc0f0384b00f94d723c8ee
 ---
 
-On 4 March 1915, or 19 February by the Julian calendar then in use in Russia, the Russian foreign minister [Sergey Sazonov](/postacie/siergiej-sazonow) handed the British and French ambassadors in Petrograd, George Buchanan and Maurice Paléologue, a memorandum in the form of an aide-mémoire. In it the Russian government declared that as a result of the war it wished to annex [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol) and the [Black Sea straits](https://pl.wikipedia.org/wiki/Cieśniny_tureckie) to its state, and asked its allies for their consent. The British chronology of the war describes it as a circular telegram to the Entente governments. So began the exchange of notes later called the Constantinople Agreement or the Straits Agreement.
+On 4 March 1915, or 19 February by the Julian calendar then in use in Russia, the Russian foreign minister [Sergey Sazonov](/postacie/siergiej-sazonow) handed the British and French ambassadors in Petrograd, George Buchanan and Maurice Paléologue, a memorandum in the form of an aide-mémoire. In it the Russian government declared that as a result of the war it wished to annex [Constantinople](/miejsca/konstantynopol) and the [Black Sea straits](https://pl.wikipedia.org/wiki/Cieśniny_tureckie) to its state, and asked its allies for their consent. The British chronology of the war describes it as a circular telegram to the Entente governments. So began the exchange of notes later called the Constantinople Agreement or the Straits Agreement.
 
 ## What Russia wanted
 

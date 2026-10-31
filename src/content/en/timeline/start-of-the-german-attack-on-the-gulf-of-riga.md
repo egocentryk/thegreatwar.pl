@@ -2,10 +2,10 @@
 title: Start of the German attack on the Gulf of Riga
 summary: On 8 August 1915 German minesweepers began sweeping mines in the Irbe Strait. They lost two ships, and in the afternoon Admiral Schmidt broke off the attack.
 source: poczatek-niemieckiego-ataku-na-zatoke-ryska
-sourceHash: 5a411a09f0f126b05d91cd8a63742b4c6802651f
+sourceHash: 0de8058b7b0c975aeae412ea9a139803f28233bf
 ---
 
-Before dawn on 8 August 1915 (26 July by the Julian calendar) German minesweepers entered the [Irbe Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), between the coast of [Courland](https://pl.wikipedia.org/wiki/Kurlandia) and the island of [Ösel](https://pl.wikipedia.org/wiki/Sarema). They began clearing a path through the Russian minefields into the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). It was the first of two attempts that went down in history as the Battle of the Gulf of Riga.
+Before dawn on 8 August 1915 (26 July by the Julian calendar) German minesweepers entered the [Irbe Strait](https://pl.wikipedia.org/wiki/Cieśnina_Irbe), between the coast of [Courland](/miejsca/kurlandia) and the island of [Ösel](https://pl.wikipedia.org/wiki/Sarema). They began clearing a path through the Russian minefields into the [Gulf of Riga](https://pl.wikipedia.org/wiki/Zatoka_Ryska). It was the first of two attempts that went down in history as the Battle of the Gulf of Riga.
 
 ## A fleet from the North Sea
 

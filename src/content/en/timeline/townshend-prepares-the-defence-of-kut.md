@@ -2,14 +2,14 @@
 title: Townshend prepares the defence of Kut
 summary: From 4–5 December 1915 Townshend's division dug in at Kut. Over 6,000 inhabitants stayed in the town, and supplies were expected to last two months.
 source: townshend-przygotowuje-obrone-al-kutu
-sourceHash: 86ab6dc3f807ec1f65cf98511d2e0915dc310b73
+sourceHash: c3a4f1dac942f966fd1f1ee9e5aa945e9ea43713
 ---
 
 On 5 December 1915 the whole of General Charles Townshend's division took up spades. Two days earlier it had [entered Kut](/brytyjczycy-docieraja-do-al-kutu), where it was to wait for relief. The British soldiers had begun digging on 4 December, but the Indians, exhausted by the retreat, the piercing cold and the rain, were in Townshend's words fit only to eat and sleep. From 5 December, as the British official history (Moberly) records, the whole garrison was at work, day and night. On the same day the first Turkish shells fell on the town, on the fort and on the men digging.
 
 ## A peninsula in a bend of the Tigris
 
-[Kut](https://pl.wikipedia.org/wiki/Al-Kut) lay on a peninsula in a tight loop of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about three kilometres long and a kilometre and a half wide. On three sides it was protected by the river, 250–450 metres wide. The little town itself, in the south-western part of the peninsula, consisted of about 650 houses and mud huts, a covered bazaar and a few wool presses. It had about 6,000 inhabitants, mainly Arabs, but also Jews, [Mandaeans](https://pl.wikipedia.org/wiki/Mandejczycy) and Nestorians. The divisional doctor later called it the most insanitary place the British had occupied in Mesopotamia.
+[Kut](/miejsca/al-kut) lay on a peninsula in a tight loop of the [Tigris](/miejsca/tygrys), about three kilometres long and a kilometre and a half wide. On three sides it was protected by the river, 250–450 metres wide. The little town itself, in the south-western part of the peninsula, consisted of about 650 houses and mud huts, a covered bazaar and a few wool presses. It had about 6,000 inhabitants, mainly Arabs, but also Jews, [Mandaeans](https://pl.wikipedia.org/wiki/Mandejczycy) and Nestorians. The divisional doctor later called it the most insanitary place the British had occupied in Mesopotamia.
 
 The only ready-made defence was a barrier across the neck of the peninsula, built when Kut was still a depot on the road to Baghdad. It consisted of a fort with mud walls in the northern corner, above the bend of the river, and four blockhouses linked by barbed wire. The blockhouses were pulled down, as they would not have withstood artillery fire, and four redoubts were built in their place. Townshend would have preferred a shorter line, but he could not give up the fort: it commanded the river and was full of stores that there was no time to remove. The worst feature was a line of sandhills just north-west of the peninsula, too far away to be included in the defences and close enough to give cover to the enemy.
 

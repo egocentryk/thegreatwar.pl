@@ -2,10 +2,10 @@
 title: Serbs retake Belgrade again
 summary: On 1 November 1918 the Serbian First Army entered Belgrade, which the last Central Powers troops left that day across the Sava and Danube, blowing the bridges.
 source: serbowie-ponownie-odbijaja-belgrad
-sourceHash: 2ff482a4a6ce0bf1266c705a953b2ec757fd9340
+sourceHash: 4ff5cc44ea819986ea54e2b6c9f07ce5a74c5563
 ---
 
-On 1 November 1918 troops of the Serbian First Army under Vojvoda [Petar Bojović](/postacie/petar-bojovic) entered [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). The Serbian capital, [taken by the Germans and Austrians](/zdobycie-belgradu) in October 1915, had been occupied for three years. Serbia still used the Julian calendar, so in Serbian documents of those days the liberation of the city is dated 19 October. Today Belgrade celebrates the anniversary on 1 November.
+On 1 November 1918 troops of the Serbian First Army under Vojvoda [Petar Bojović](/postacie/petar-bojovic) entered [Belgrade](/miejsca/belgrad). The Serbian capital, [taken by the Germans and Austrians](/zdobycie-belgradu) in October 1915, had been occupied for three years. Serbia still used the Julian calendar, so in Serbian documents of those days the liberation of the city is dated 19 October. Today Belgrade celebrates the anniversary on 1 November.
 
 ## Pursuit to the Danube
 

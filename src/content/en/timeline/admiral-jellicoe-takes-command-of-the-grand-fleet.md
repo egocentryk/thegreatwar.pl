@@ -2,10 +2,10 @@
 title: Admiral Jellicoe takes command of the Grand Fleet
 summary: On 4 August 1914 the main force of the Royal Navy was renamed the Grand Fleet, and Admiral Sir John Jellicoe became its commander.
 source: admiral-jellicoe-obejmuje-dowodztwo-grand-fleet
-sourceHash: 1bf859ea7926612cb9f42a8cd097aaeb4426c5e8
+sourceHash: 78f25fab13a7ab3fd1f947d4b7713788a9a20c4f
 ---
 
-On 4 August 1914, the day Britain entered the war, the main force of the [Royal Navy](/sily-zbrojne/royal-navy) received a new name and a new commander. The existing Home Fleet was renamed the [Grand Fleet](/sily-zbrojne/grand-fleet), and Admiral Sir [John Jellicoe](/postacie/john-jellicoe) took command of it. The fleet was based at [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in the Orkneys, where it had moved a few days earlier.
+On 4 August 1914, the day Britain entered the war, the main force of the [Royal Navy](/sily-zbrojne/royal-navy) received a new name and a new commander. The existing Home Fleet was renamed the [Grand Fleet](/sily-zbrojne/grand-fleet), and Admiral Sir [John Jellicoe](/postacie/john-jellicoe) took command of it. The fleet was based at [Scapa Flow](/miejsca/scapa-flow) in the Orkneys, where it had moved a few days earlier.
 
 Jellicoe replaced Admiral Sir George Callaghan, who had commanded the fleet in the last years of peace. The First Lord of the Admiralty, [Winston Churchill](/postacie/winston-churchill), and Admiral John Fisher, however, considered Callaghan unsuited to leading the fleet in wartime. The last-minute change was painful for Callaghan, and Jellicoe himself accepted the appointment reluctantly, out of respect for his predecessor.
 

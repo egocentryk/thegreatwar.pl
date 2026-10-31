@@ -9,10 +9,10 @@ sides:
     commanders: [Halil Bey, Colmar von der Goltz]
 result: Ottoman victory. The attack broke down and the British lost 2,741 men. Aylmer halted further attacks and the first attempt to relieve Kut failed.
 source: pierwsza-bitwa-pod-hanna
-sourceHash: 698bd50a60a38b3a1dcd7ff17a09a7e8c570e9ec
+sourceHash: 68b0a57926d980c8f97f8d75439e6a8d0f8fb74f
 ---
 
-The First Battle of Hanna ended the first attempt to relieve the British-Indian division besieged in [Kut](https://pl.wikipedia.org/wiki/Al-Kut). After the [Battle of the Wadi](/bitwy/bitwa-nad-wadi) the Ottoman troops shut themselves up in the Hanna defile, a narrow strip of land between the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the Suwaikiya marsh, which could not be outflanked. Lieutenant-General Fenton Aylmer, pressed by the high command and convinced that the Kut garrison was running out of food, attacked frontally. On the morning of 21 January 1916, after a day of bombardment, the 7th Division advanced across open ground against trenches protected by barbed wire. A handful of soldiers of the Scottish Black Watch battalion and of the Indian Jats broke into the Turkish line, but without support they were driven out of it. Before noon a downpour began and the ground turned into a quagmire. The attack broke down, and the Tigris Corps lost 2,741 men.
+The First Battle of Hanna ended the first attempt to relieve the British-Indian division besieged in [Kut](/miejsca/al-kut). After the [Battle of the Wadi](/bitwy/bitwa-nad-wadi) the Ottoman troops shut themselves up in the Hanna defile, a narrow strip of land between the [Tigris](/miejsca/tygrys) and the Suwaikiya marsh, which could not be outflanked. Lieutenant-General Fenton Aylmer, pressed by the high command and convinced that the Kut garrison was running out of food, attacked frontally. On the morning of 21 January 1916, after a day of bombardment, the 7th Division advanced across open ground against trenches protected by barbed wire. A handful of soldiers of the Scottish Black Watch battalion and of the Indian Jats broke into the Turkish line, but without support they were driven out of it. Before noon a downpour began and the ground turned into a quagmire. The attack broke down, and the Tigris Corps lost 2,741 men.
 
 ## Name and dates
 

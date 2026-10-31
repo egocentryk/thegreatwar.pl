@@ -2,10 +2,10 @@
 title: Germans take the Gauala ridge
 summary: On the night of 8/9 October 1915 the besieged Mora mountain garrison took the Gauala ridge, from which the Allies had shelled German positions for a year.
 source: niemcy-zajmuja-grzbiet-gauala
-sourceHash: 989446232f088b4f1502f044f599da922b41b85c
+sourceHash: d36cb4b854dbe823068b7f009b6637afbec13ea9
 ---
 
-On the night of 8/9 October 1915 the German garrison besieged on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)), in the far north of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), made a successful sortie. Its soldiers seized the Gauala ridge, a neighbouring height on which the besiegers had previously had outposts. According to the British official history, they held on there despite every attempt to dislodge them until 6 December.
+On the night of 8/9 October 1915 the German garrison besieged on the mountain above [Mora](https://pl.wikipedia.org/wiki/Mora_(Kamerun)), in the far north of [German Kamerun](/miejsca/kamerun), made a successful sortie. Its soldiers seized the Gauala ridge, a neighbouring height on which the besiegers had previously had outposts. According to the British official history, they held on there despite every attempt to dislodge them until 6 December.
 
 ## The siege after the September assault
 

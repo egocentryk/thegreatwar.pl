@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 września 1914 roku niemiecka artyleria ostrzelała centrum [Reims](https://pl.wikipedia.org/wiki/Reims), a pociski trafiły w gotycką [katedrę Notre-Dame](https://pl.wikipedia.org/wiki/Katedra_w_Reims). Po południu zapaliły się drewniane rusztowania wokół jednej z wież, a ogień objął dach i wnętrze świątyni. Brytyjska kronika wojny opisuje to wydarzenie jako pierwsze bombardowanie katedry. W rzeczywistości pociski padały w jej pobliżu już od kilku dni, ale to 19 września katedra stanęła w płomieniach. Obraz płonącego kościoła, w którym przez stulecia koronowano królów Francji, wstrząsnął światem.
+19 września 1914 roku niemiecka artyleria ostrzelała centrum [Reims](/miejsca/reims), a pociski trafiły w gotycką [katedrę Notre-Dame](https://pl.wikipedia.org/wiki/Katedra_w_Reims). Po południu zapaliły się drewniane rusztowania wokół jednej z wież, a ogień objął dach i wnętrze świątyni. Brytyjska kronika wojny opisuje to wydarzenie jako pierwsze bombardowanie katedry. W rzeczywistości pociski padały w jej pobliżu już od kilku dni, ale to 19 września katedra stanęła w płomieniach. Obraz płonącego kościoła, w którym przez stulecia koronowano królów Francji, wstrząsnął światem.
 
 ## Katedra koronacyjna
 

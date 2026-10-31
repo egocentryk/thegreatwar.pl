@@ -25,7 +25,7 @@ Choć cały kryzys zaczął się od sporu Wiednia z Belgradem i od rosyjskiego p
 
 ## Front w Galicji
 
-Wypowiedzenie wojny oznaczało, że głównym frontem Austro-Węgier stała się [Galicja](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)), graniczna prowincja zamieszkana w dużej części przez Polaków i Ukraińców. To tam pod koniec sierpnia doszło do wielkich bitew z armią rosyjską. Po początkowych sukcesach pod [Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) i [Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) armia austro-węgierska poniosła ciężką klęskę. Na początku września Rosjanie zajęli [Lwów](https://pl.wikipedia.org/wiki/Lwów), a wkrótce potem oblegli [twierdzę Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl).
+Wypowiedzenie wojny oznaczało, że głównym frontem Austro-Węgier stała się [Galicja](https://pl.wikipedia.org/wiki/Galicja_(Europa_Środkowa)), graniczna prowincja zamieszkana w dużej części przez Polaków i Ukraińców. To tam pod koniec sierpnia doszło do wielkich bitew z armią rosyjską. Po początkowych sukcesach pod [Kraśnikiem](https://pl.wikipedia.org/wiki/Bitwa_pod_Kraśnikiem) i [Komarowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Komarowem_(1914)) armia austro-węgierska poniosła ciężką klęskę. Na początku września Rosjanie zajęli [Lwów](/miejsca/lwow), a wkrótce potem oblegli [twierdzę Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl).
 
 ## Polski wymiar wojny
 

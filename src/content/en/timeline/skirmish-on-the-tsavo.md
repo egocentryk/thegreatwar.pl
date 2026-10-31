@@ -2,14 +2,14 @@
 title: Skirmish on the Tsavo
 summary: On 6 September 1914 in the Tsavo valley in British East Africa, Indian and African soldiers clashed with Germans heading for the Uganda Railway.
 source: potyczka-nad-tsavo
-sourceHash: 90516676716371354c283c2fc56a95402e013b5e
+sourceHash: e025520d0fb21e0947ce8b90e9f4d34a54d55b39
 ---
 
-On 6 September 1914, in the valley of the Tsavo river in [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), today's Kenya, a German detachment clashed with soldiers of the 29th Punjabis and African riflemen of the King's African Rifles. It was one of the first actions fought by Indian troops in this war.
+On 6 September 1914, in the valley of the Tsavo river in [British East Africa](/bitwy/kampania-wschodnioafrykanska), today's Kenya, a German detachment clashed with soldiers of the 29th Punjabis and African riflemen of the King's African Rifles. It was one of the first actions fought by Indian troops in this war.
 
 ## The target: the Uganda Railway
 
-The most important artery of the British colony was the railway line from [Mombasa](https://pl.wikipedia.org/wiki/Mombasa) on the Indian Ocean to Lake Victoria. It ran not far from the border with [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), and near Tsavo station it crossed the river by a bridge. The Tsavo valley, overgrown with dense, thorny bush but supplied with water, was a convenient route for German raiding parties coming down from [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro) towards the line.
+The most important artery of the British colony was the railway line from [Mombasa](https://pl.wikipedia.org/wiki/Mombasa) on the Indian Ocean to Lake Victoria. It ran not far from the border with [German East Africa](/bitwy/kampania-wschodnioafrykanska), and near Tsavo station it crossed the river by a bridge. The Tsavo valley, overgrown with dense, thorny bush but supplied with water, was a convenient route for German raiding parties coming down from [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska) towards the line.
 
 At the end of August the German commander at Moshi sent a small detachment with orders to destroy or cut the railway and telegraph at Tsavo. At the beginning of September it was replaced by Captain Hans Schulz's 13th Field Company, more than 200 askaris with four machine guns. On the British side, two double companies of the [29th Punjabis](/pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej), which had disembarked at Mombasa a few days earlier, were stationed in the [Voi](https://pl.wikipedia.org/wiki/Voi) area.
 

@@ -2,7 +2,7 @@
 title: First Battle of Champagne begins
 summary: On 20 December 1914 the French Fourth Army attacked the German trenches in Champagne. The first great offensive against fortified lines in the west had begun.
 source: poczatek-pierwszej-bitwy-w-szampanii
-sourceHash: 7ed27bcadc69b83ae2268f38062565fbae251007
+sourceHash: fcec3e0ff109a736561150fdd8ce28261173b148
 brief:
   - "On 20 December 1914 the French Fourth Army of General Fernand de Langle de Cary attacked the German positions in Champagne, east of Reims. It was the first great Allied offensive against fortified trench lines."
   - "General Joffre wanted to exploit the move of German corps to the east. His plan was to attack the salient around Noyon from two sides and threaten the railways supplying the German armies."
@@ -10,13 +10,13 @@ brief:
   - "The fighting dragged on with breaks until 17 March 1915. The French advanced at best 2–3 kilometres, losing more than 90,000 killed, wounded and missing."
 ---
 
-On 20 December 1914 the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) began an attack on the German positions in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](https://pl.wikipedia.org/wiki/Reims). The British chronology of the war records under this date the start of the First Battle of Champagne. It was the first great Allied offensive against the fortified lines of trenches which since the autumn had cut across France from the sea to Switzerland. The first day brought the French only small gains, and the fighting then dragged on, with breaks, until mid-March 1915.
+On 20 December 1914 the French Fourth Army of General [Fernand de Langle de Cary](https://pl.wikipedia.org/wiki/Fernand_de_Langle_de_Cary) began an attack on the German positions in [Champagne](https://pl.wikipedia.org/wiki/Szampania), east of [Reims](/miejsca/reims). The British chronology of the war records under this date the start of the First Battle of Champagne. It was the first great Allied offensive against the fortified lines of trenches which since the autumn had cut across France from the sea to Switzerland. The first day brought the French only small gains, and the fighting then dragged on, with breaks, until mid-March 1915.
 
 ## Joffre's plan
 
 The commander-in-chief of the French army, General [Joseph Joffre](/postacie/joseph-joffre), did not intend to wait until spring to attack. In mid-November his staff judged that the Germans had ended their offensive in the west and were moving several corps to the east, where heavy fighting was going on in Poland. The French wanted to exploit this and at the same time prevent the Germans from weakening the French front further at the Russians' expense.
 
-The plan called for an attack from two sides on the great salient of the front that reached deep into France around [Noyon](https://pl.wikipedia.org/wiki/Noyon). From the north, in Artois, the Tenth Army was to attack, and from the south, in Champagne, the Fourth Army, towards [Rethel](https://pl.wikipedia.org/wiki/Rethel) and on to Mézières. If they managed to reach these towns, the railways supplying the German armies in France would be threatened. Subsidiary attacks were to go in on other sectors of the front. In Flanders an attack had already been made on 14 December [at Wytschaete](/natarcie-pod-wytschaete), and in Artois fighting had flared up on 17 December. Joffre knew that he was short of heavy guns and ammunition, but decided that he could not remain idle.
+The plan called for an attack from two sides on the great salient of the front that reached deep into France around [Noyon](/miejsca/noyon). From the north, in Artois, the Tenth Army was to attack, and from the south, in Champagne, the Fourth Army, towards [Rethel](https://pl.wikipedia.org/wiki/Rethel) and on to Mézières. If they managed to reach these towns, the railways supplying the German armies in France would be threatened. Subsidiary attacks were to go in on other sectors of the front. In Flanders an attack had already been made on 14 December [at Wytschaete](/natarcie-pod-wytschaete), and in Artois fighting had flared up on 17 December. Joffre knew that he was short of heavy guns and ammunition, but decided that he could not remain idle.
 
 ## The first day of the attack
 

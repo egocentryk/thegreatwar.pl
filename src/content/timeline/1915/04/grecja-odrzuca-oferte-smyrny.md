@@ -20,7 +20,7 @@ Szczegóły wojskowe miały ustalić sztaby w osobnej konwencji. Grecy zastrzegl
 
 ## Strach przed Bułgarią
 
-Za żądaniem gwarancji krył się strach przed Bułgarią. Ententa od miesięcy zabiegała o jej przystąpienie do wojny i była gotowa zapłacić za to ziemiami zdobytymi przez Serbię i Grecję w wojnach bałkańskich. W styczniu, w odpowiedzi na [brytyjską ofertę](/brytyjska-oferta-dla-grecji), ówczesny premier Elefterios Wenizelos sam zaproponował królowi oddanie Bułgarom [Kawali](https://pl.wikipedia.org/wiki/Kawala). Król [Konstantyn I](/postacie/konstantyn-i) i nowy rząd nie chcieli o tym słyszeć. Początkowo rozważali, by warunkiem greckiego udziału uczynić jednoczesne wejście do wojny Bułgarii. Gdy okazało się, że Sofia stawia żądania nie do przyjęcia, zastąpili ten warunek gwarancją granic.
+Za żądaniem gwarancji krył się strach przed Bułgarią. Ententa od miesięcy zabiegała o jej przystąpienie do wojny i była gotowa zapłacić za to ziemiami zdobytymi przez Serbię i Grecję w wojnach bałkańskich. W styczniu, w odpowiedzi na [brytyjską ofertę](/brytyjska-oferta-dla-grecji), ówczesny premier Elefterios Wenizelos sam zaproponował królowi oddanie Bułgarom [Kawali](/miejsca/kawala). Król [Konstantyn I](/postacie/konstantyn-i) i nowy rząd nie chcieli o tym słyszeć. Początkowo rozważali, by warunkiem greckiego udziału uczynić jednoczesne wejście do wojny Bułgarii. Gdy okazało się, że Sofia stawia żądania nie do przyjęcia, zastąpili ten warunek gwarancją granic.
 
 ## Ententa milczy
 

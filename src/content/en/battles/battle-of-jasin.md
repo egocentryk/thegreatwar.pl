@@ -9,10 +9,10 @@ sides:
     commanders: [Paul von Lettow-Vorbeck]
 result: German victory. The Jasin garrison surrendered and the British soon withdrew from the Umba valley. The Germans, however, suffered heavy losses.
 source: bitwa-pod-jasin
-sourceHash: db144102a4e2c488a413d3f0d0a7fe746b4065b2
+sourceHash: f4cb1d95379d2bb209de5e110994f162dbbd3fec
 ---
 
-The Battle of Jasin was the second major engagement in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), after [Tanga](/bitwy/bitwa-pod-tanga). Nine companies of German colonial troops under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) surrounded the British post at Jasin, a plantation just across the border of [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). The relief force could not break through, and after a day of fighting about 300 Indian soldiers surrendered. For Lettow-Vorbeck, however, it was a Pyrrhic victory. He lost so many officers and so much ammunition that he concluded he could not afford such battles again.
+The Battle of Jasin was the second major engagement in [German East Africa](/bitwy/kampania-wschodnioafrykanska), after [Tanga](/bitwy/bitwa-pod-tanga). Nine companies of German colonial troops under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) surrounded the British post at Jasin, a plantation just across the border of [British East Africa](/bitwy/kampania-wschodnioafrykanska). The relief force could not break through, and after a day of fighting about 300 Indian soldiers surrendered. For Lettow-Vorbeck, however, it was a Pyrrhic victory. He lost so many officers and so much ammunition that he concluded he could not afford such battles again.
 
 ## Name and dates
 
@@ -30,7 +30,7 @@ Lettow-Vorbeck saw this as the prelude to a march on [Tanga](https://pl.wikipedi
 
 Jasin was held by about 300 Indian soldiers in a carefully built and camouflaged redoubt: a company of the 101st Grenadiers and men of the 2nd Kashmir Rifles, troops of the Indian princely state of Jammu and Kashmir, with a King's African Rifles machine gun. They were commanded by Raghbir Singh, commander of the Kashmir battalion, supported by two British officers, Captains Hanson and Turner. About 40 Kashmiris manned a separate post at the sisal factory. In the camps on the Umba Tighe had several companies of the King's African Rifles, half a battalion of infantry from the Indian princely state of Jind, Indian infantry and two mountain guns. Lettow-Vorbeck, on the basis of documents captured later, estimated the British forces in the area at more than twenty companies.
 
-The Germans assembled nine companies of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), including a company made up of Europeans, a detachment of Arab volunteers and two field guns. According to some accounts this amounted to about 1,600 men, including about 250 Europeans. Most of the companies came by rail from the area of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro). On 16 January they detrained near Tanga, and on the evening of 17 January the whole force stood at the Totohovu plantation, about 11 kilometres south of Jasin.
+The Germans assembled nine companies of the [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), including a company made up of Europeans, a detachment of Arab volunteers and two field guns. According to some accounts this amounted to about 1,600 men, including about 250 Europeans. Most of the companies came by rail from the area of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska). On 16 January they detrained near Tanga, and on the evening of 17 January the whole force stood at the Totohovu plantation, about 11 kilometres south of Jasin.
 
 ## Course of the battle
 

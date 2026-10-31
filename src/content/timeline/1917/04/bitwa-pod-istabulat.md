@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 i 22 kwietnia 1917 roku pod Istabulat, na prawym brzegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) około 20 kilometrów linią kolejową na południe od [Samarry](https://pl.wikipedia.org/wiki/Samarra), wojska generała Alexandra Cobbe'a stoczyły jedną z najcięższych bitew wiosennej kampanii w Mezopotamii. Brytyjska chronologia wojny zapisuje ją pod 22 kwietnia jako potyczkę pod Istabulat (*Action of Istabulat*), trwającą dwa dni. Naprzeciw Brytyjczyków stał turecki XVIII Korpus, który od [potyczki pod Muszahidą](/potyczka-pod-muszahida) cofał się wzdłuż linii kolejowej z Bagdadu do Samarry. Tym razem Turcy postanowili się bronić. Jeńcy zeznali później, że pozycja pod Istabulat miała być ich główną linią obrony nad Tygrysem na całe gorące lato.
+21 i 22 kwietnia 1917 roku pod Istabulat, na prawym brzegu [Tygrysu](/miejsca/tygrys) około 20 kilometrów linią kolejową na południe od [Samarry](https://pl.wikipedia.org/wiki/Samarra), wojska generała Alexandra Cobbe'a stoczyły jedną z najcięższych bitew wiosennej kampanii w Mezopotamii. Brytyjska chronologia wojny zapisuje ją pod 22 kwietnia jako potyczkę pod Istabulat (*Action of Istabulat*), trwającą dwa dni. Naprzeciw Brytyjczyków stał turecki XVIII Korpus, który od [potyczki pod Muszahidą](/potyczka-pod-muszahida) cofał się wzdłuż linii kolejowej z Bagdadu do Samarry. Tym razem Turcy postanowili się bronić. Jeńcy zeznali później, że pozycja pod Istabulat miała być ich główną linią obrony nad Tygrysem na całe gorące lato.
 
 ## Pozycja nad kanałem
 

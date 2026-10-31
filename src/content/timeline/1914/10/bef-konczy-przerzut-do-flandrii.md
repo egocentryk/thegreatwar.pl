@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-19 października 1914 roku zakończył się przerzut [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) znad Aisne do Flandrii. Tego dnia ostatnie oddziały I Korpusu generała [Douglasa Haiga](/postacie/douglas-haig) wysiadły z pociągów i zebrały się między [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) a [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck). Operacja, którą Brytyjczycy [rozpoczęli na początku października](/bef-opuszcza-aisne), trwała więc ponad dwa tygodnie.
+19 października 1914 roku zakończył się przerzut [Brytyjskiego Korpusu Ekspedycyjnego](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) znad Aisne do Flandrii. Tego dnia ostatnie oddziały I Korpusu generała [Douglasa Haiga](/postacie/douglas-haig) wysiadły z pociągów i zebrały się między [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) a [Hazebrouck](/miejsca/hazebrouck). Operacja, którą Brytyjczycy [rozpoczęli na początku października](/bef-opuszcza-aisne), trwała więc ponad dwa tygodnie.
 
 I Korpus, złożony z 1 i 2 Dywizji, był ostatnim wielkim związkiem brytyjskim, który opuścił front nad Aisne. Jego żołnierze zeszli z okopów dopiero w nocy z 12 na 13 października, gdy pozostałe korpusy od kilku dni walczyły już na północy. II Korpus nacierał pod La Bassée, III Korpus odbił Armentières, a korpus kawalerii walczył o wzgórza wokół Messines. Pod Ypres stał od połowy miesiąca IV Korpus generała Henry'ego Rawlinsona, który przybył do Flandrii nie znad Aisne, lecz z Belgii.
 

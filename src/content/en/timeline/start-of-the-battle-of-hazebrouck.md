@@ -2,7 +2,7 @@
 title: Start of the Battle of Hazebrouck
 summary: On 12 April 1918 the German Sixth Army struck at Hazebrouck. It broke through at Pacaut and Doulieu, but the Guards and 5th Division held it at Nieppe Forest.
 source: poczatek-bitwy-pod-hazebrouck
-sourceHash: d656728241605438037b1367138a745ebe475c2d
+sourceHash: 17e839892227e478d00e06dfd6282465d81313b5
 brief:
   - "On 12 April 1918, the fourth day of the Battle of the Lys, the German Sixth Army struck towards Hazebrouck, the railway junction through which supplies for the British forces in Flanders passed."
   - "Had the Germans taken Hazebrouck or come close enough to keep it under fire, the British would probably have had to give up the whole Ypres salient, and perhaps fall back towards the coast."
@@ -11,7 +11,7 @@ brief:
   - "During the night the Australians of the 1st Australian Division began to arrive at Hazebrouck, and by dawn they had formed a new line behind the front of the British divisions."
 ---
 
-12 April 1918 was one of the most critical days of the spring of 1918 for the British Army. On the fourth day of the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918) the German Sixth Army opened with an attack towards [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), the railway junction through which supplies for the British forces in Flanders passed. Facing it were tired, intermingled divisions, many without their own artillery, with battalions led by junior officers. During the day the Germans made two breaches in the front, several kilometres deep, south of the Lys at Pacaut and north of it between Vieux-Berquin and Bailleul, and came within about 8 kilometres of Hazebrouck. The British official history records that for most of the day the line was not continuous, and divisional staffs, despite hourly reports from airmen, did not know where it ran. By the evening, however, the front was holding: before Nieppe Forest the fresh 5th Division, brought from Italy; at Vieux-Berquin the 4th Guards Brigade; and at Meteren improvised detachments of the 33rd Division. During the night the Australians began to arrive at Hazebrouck.
+12 April 1918 was one of the most critical days of the spring of 1918 for the British Army. On the fourth day of the [Battle of the Lys](/bitwy/bitwa-nad-lys-1918) the German Sixth Army opened with an attack towards [Hazebrouck](/miejsca/hazebrouck), the railway junction through which supplies for the British forces in Flanders passed. Facing it were tired, intermingled divisions, many without their own artillery, with battalions led by junior officers. During the day the Germans made two breaches in the front, several kilometres deep, south of the Lys at Pacaut and north of it between Vieux-Berquin and Bailleul, and came within about 8 kilometres of Hazebrouck. The British official history records that for most of the day the line was not continuous, and divisional staffs, despite hourly reports from airmen, did not know where it ran. By the evening, however, the front was holding: before Nieppe Forest the fresh 5th Division, brought from Italy; at Vieux-Berquin the 4th Guards Brigade; and at Meteren improvised detachments of the 33rd Division. During the night the Australians began to arrive at Hazebrouck.
 
 ## "The Amiens of the north"
 

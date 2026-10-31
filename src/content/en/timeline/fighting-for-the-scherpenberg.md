@@ -2,7 +2,7 @@
 title: Fighting for the Scherpenberg
 summary: On 29 April 1918 the Germans attacked the Scherpenberg and Mont Rouge. The French and British repulsed them, and that evening Ludendorff halted the offensive.
 source: walki-o-scherpenberg
-sourceHash: d3732db657e106b4a077c382b0612b37b1e4d34b
+sourceHash: ed0d0e9cfc7064996d5059c1404eb24247395682
 brief:
   - "On 29 April 1918, four days after the capture of the Kemmelberg, seven divisions of the German Fourth Army struck at the Scherpenberg and Mont Rouge to force the British to abandon Ypres."
   - "After a gas bombardment the Alpenkorps broke the French line, took Locre and reached the saddle between the hills. A false report even reached Haig that the Scherpenberg had fallen."
@@ -39,6 +39,6 @@ That same day the German Supreme Army Command set the date of the next blow. It 
 
 ## Outcome
 
-On the night of 29/30 April the fresh French 31st Division relieved the exhausted 154th Division and recaptured Locre. Local fighting for the nearby farms and the buildings of the Locre hospice went on into May, but the Germans never resumed their great offensive in Flanders. In the three weeks of Operation "Georgette" they had driven a dozen or so kilometres into the front and taken [Armentières](https://pl.wikipedia.org/wiki/Armentières), Bailleul and the Kemmelberg, but they had not taken [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), had not forced the British to abandon Ypres and had come no closer to the coast. The British official history gives over 82,000 British killed, wounded and missing for the fighting on the Lys from 9 to 30 April. French losses are estimated at about 30,000–35,000, and German losses, depending on the source, at 86,000–109,000 men.
+On the night of 29/30 April the fresh French 31st Division relieved the exhausted 154th Division and recaptured Locre. Local fighting for the nearby farms and the buildings of the Locre hospice went on into May, but the Germans never resumed their great offensive in Flanders. In the three weeks of Operation "Georgette" they had driven a dozen or so kilometres into the front and taken [Armentières](https://pl.wikipedia.org/wiki/Armentières), Bailleul and the Kemmelberg, but they had not taken [Hazebrouck](/miejsca/hazebrouck), had not forced the British to abandon Ypres and had come no closer to the coast. The British official history gives over 82,000 British killed, wounded and missing for the fighting on the Lys from 9 to 30 April. French losses are estimated at about 30,000–35,000, and German losses, depending on the source, at 86,000–109,000 men.
 
 After [Operation Michael](/bitwy/operacja-michael) it was the second offensive that brought the Germans territorial gains but no decision. Their best assault divisions had been bled white, and the Allied armies, under Foch's single command, had learnt to stop their attacks with defence in depth and rapid counter-attacks.

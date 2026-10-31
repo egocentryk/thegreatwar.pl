@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 17 listopada 1914 roku niemiecki zespół okrętów pojawił się przed [Lipawą](https://pl.wikipedia.org/wiki/Lipawa), rosyjskim portem w [Kurlandii](https://pl.wikipedia.org/wiki/Kurlandia), nazywanym wówczas Libawą (po niemiecku Libau). Okręty przez kilka godzin ostrzeliwały miasto i port, a w wejściach do portu Niemcy zatopili kilka starych statków, by go zablokować. Był to drugi atak niemieckiej floty na Lipawę po [ostrzale z 2 sierpnia](/niemieckie-krazowniki-ostrzeliwuja-lipawe).
+Rankiem 17 listopada 1914 roku niemiecki zespół okrętów pojawił się przed [Lipawą](https://pl.wikipedia.org/wiki/Lipawa), rosyjskim portem w [Kurlandii](/miejsca/kurlandia), nazywanym wówczas Libawą (po niemiecku Libau). Okręty przez kilka godzin ostrzeliwały miasto i port, a w wejściach do portu Niemcy zatopili kilka starych statków, by go zablokować. Był to drugi atak niemieckiej floty na Lipawę po [ostrzale z 2 sierpnia](/niemieckie-krazowniki-ostrzeliwuja-lipawe).
 
 ## Port, którego bali się Niemcy
 

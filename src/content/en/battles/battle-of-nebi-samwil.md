@@ -9,10 +9,10 @@ sides:
     commanders: [Erich von Falkenhayn, Fevzi Pasha, Ali Fuad Bey, İsmet Bey]
 result: Inconclusive. The British entered the hills and took and held Nebi Samwil, but did not reach the Jerusalem–Nablus road. On 24 November Allenby halted the advance until fresh divisions arrived.
 source: bitwa-o-nabi-samwil
-sourceHash: c15451ca820fa45af4ab13576bf6d23a01b3e5ec
+sourceHash: c02f37fa34da660df9920341bf82d3723838922b
 ---
 
-The Battle of Nebi Samwil was the first attempt by the troops of General Sir [Edmund Allenby](/postacie/edmund-allenby) to take [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima). After their victory on the coastal plain the British turned east, into the [Judaean Hills](https://pl.wikipedia.org/wiki/Wyżyna_Judzka). They did not want to fight for the Holy City itself. They intended to bypass it from the north and cut the only good road by which the Turks could supply it and withdraw from it, the road to [Nablus](https://pl.wikipedia.org/wiki/Nablus). For several days the three divisions of Lieutenant-General Edward Bulfin's XXI Corps pushed their way across trackless country, in cold rain and in summer uniforms. On the evening of 21 November the infantry took the hill of Nebi Samwil, with its mosque over the traditional tomb of the prophet Samuel, a few kilometres north-west of the city, and held it against fierce counter-attacks. It got no further. After two failed assaults on the village of El Jib, Allenby halted the advance on 24 November.
+The Battle of Nebi Samwil was the first attempt by the troops of General Sir [Edmund Allenby](/postacie/edmund-allenby) to take [Jerusalem](/miejsca/jerozolima). After their victory on the coastal plain the British turned east, into the [Judaean Hills](https://pl.wikipedia.org/wiki/Wyżyna_Judzka). They did not want to fight for the Holy City itself. They intended to bypass it from the north and cut the only good road by which the Turks could supply it and withdraw from it, the road to [Nablus](https://pl.wikipedia.org/wiki/Nablus). For several days the three divisions of Lieutenant-General Edward Bulfin's XXI Corps pushed their way across trackless country, in cold rain and in summer uniforms. On the evening of 21 November the infantry took the hill of Nebi Samwil, with its mosque over the traditional tomb of the prophet Samuel, a few kilometres north-west of the city, and held it against fierce counter-attacks. It got no further. After two failed assaults on the village of El Jib, Allenby halted the advance on 24 November.
 
 ## Name and dates
 

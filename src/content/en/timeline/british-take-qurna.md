@@ -2,10 +2,10 @@
 title: British take Qurna
 summary: On 9 December 1914 Subhi Bey, vali of Basra, surrendered Qurna. Over a thousand Turks were captured and the British took a town held to be the biblical Eden.
 source: brytyjczycy-zajmuja-al-kurne
-sourceHash: e229cd4ebf10b5130c57f2c0b222521803080dec
+sourceHash: 0fc607b5ddcc6c128d1646117677f1e6822b52ca
 ---
 
-On 9 December 1914 British and Indian troops occupied [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) at the confluence of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). The Turkish garrison, cut off the day before by [the Indians' crossing of the Tigris](/koniec-walk-o-al-kurne), surrendered without further fighting. The Turkish envoys had agreed to unconditional surrender during the night, and in the morning only the formalities remained.
+On 9 December 1914 British and Indian troops occupied [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) at the confluence of the [Tigris](/miejsca/tygrys) and the [Euphrates](/miejsca/eufrat). The Turkish garrison, cut off the day before by [the Indians' crossing of the Tigris](/koniec-walk-o-al-kurne), surrendered without further fighting. The Turkish envoys had agreed to unconditional surrender during the night, and in the morning only the formalities remained.
 
 ## The surrender
 

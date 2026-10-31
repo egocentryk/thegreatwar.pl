@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 stycznia 1915 roku niemieckie oddziały kolonialne zaatakowały [Edeę](https://pl.wikipedia.org/wiki/Edéa), miasto nad rzeką [Sanagą](https://pl.wikipedia.org/wiki/Sanaga) w [Kamerunie Niemieckim](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Bronił go francuski garnizon pułkownika Mayera, złożony głównie ze strzelców senegalskich. Natarcie załamało się w ogniu obrońców, a Niemcy wycofali się z ciężkimi stratami.
+5 stycznia 1915 roku niemieckie oddziały kolonialne zaatakowały [Edeę](https://pl.wikipedia.org/wiki/Edéa), miasto nad rzeką [Sanagą](https://pl.wikipedia.org/wiki/Sanaga) w [Kamerunie Niemieckim](/miejsca/kamerun). Bronił go francuski garnizon pułkownika Mayera, złożony głównie ze strzelców senegalskich. Natarcie załamało się w ogniu obrońców, a Niemcy wycofali się z ciężkimi stratami.
 
 ## Kontrofensywa Zimmermanna
 

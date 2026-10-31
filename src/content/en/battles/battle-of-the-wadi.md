@@ -9,10 +9,10 @@ sides:
     commanders: [Halil Bey, Colmar von der Goltz]
 result: Inconclusive. The frontal attack and the outflanking move were both halted. During the night the Turks withdrew unhindered to the Hanna defile, and the British occupied the Wadi position at a cost of 1,613 men.
 source: bitwa-nad-wadi
-sourceHash: 929ab9b2637be1db47ed500e3029c1bd3bf65cd9
+sourceHash: 3b3ff63c62450011aa88dcc519010c31e96e5a7e
 ---
 
-The Battle of the Wadi was the second engagement of the first attempt to relieve General Charles Townshend's division, besieged in [Kut](https://pl.wikipedia.org/wiki/Al-Kut) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). A week after the bloody [Battle of Sheikh Saad](/bitwy/bitwa-pod-szejk-saad) the Ottoman forces halted a few kilometres further upstream, behind the Wadi stream. The commander of the Tigris Corps, Lieutenant-General Fenton Aylmer, decided this time not to strike only from the front, but to turn their left flank and cut their line of retreat to the Hanna defile. On 13 January 1916, however, the outflanking move bogged down in the fire of Turkish trenches, dug hastily at right angles to the stream, and the frontal attack broke down with heavy losses. During the night the Turks withdrew unnoticed to a previously prepared position in the defile. The British occupied the battlefield, but instead of the victory Aylmer had hoped for, they faced an even stronger barrier.
+The Battle of the Wadi was the second engagement of the first attempt to relieve General Charles Townshend's division, besieged in [Kut](/miejsca/al-kut) on the [Tigris](/miejsca/tygrys). A week after the bloody [Battle of Sheikh Saad](/bitwy/bitwa-pod-szejk-saad) the Ottoman forces halted a few kilometres further upstream, behind the Wadi stream. The commander of the Tigris Corps, Lieutenant-General Fenton Aylmer, decided this time not to strike only from the front, but to turn their left flank and cut their line of retreat to the Hanna defile. On 13 January 1916, however, the outflanking move bogged down in the fire of Turkish trenches, dug hastily at right angles to the stream, and the frontal attack broke down with heavy losses. During the night the Turks withdrew unnoticed to a previously prepared position in the defile. The British occupied the battlefield, but instead of the victory Aylmer had hoped for, they faced an even stronger barrier.
 
 ## Name and dates
 

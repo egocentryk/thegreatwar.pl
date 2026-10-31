@@ -9,10 +9,10 @@ sides:
     commanders: [Subhi Bey]
 result: British victory. The Qurna garrison capitulated, and the British occupied the town and closed the first stage of the Mesopotamian campaign.
 source: bitwa-pod-al-kurna
-sourceHash: 4cffb0db738549e718b48c01eb79136647e7a45d
+sourceHash: f2a17d815a8036e8ee777b8f5faecbfe7c7caac0
 ---
 
-The Battle of Qurna, called in British historiography the "first action at Qurna", was the last engagement of the first phase of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). After the capture of [Basra](/brytyjczycy-zajmuja-basre), Indian Expeditionary Force "D" moved upriver to drive the Turks out of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), a small town at the confluence of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). The fighting lasted, with breaks, six days. It ended with the capitulation of the Turkish garrison, which had allowed itself to be cut off from its line of retreat to the north.
+The Battle of Qurna, called in British historiography the "first action at Qurna", was the last engagement of the first phase of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). After the capture of [Basra](/brytyjczycy-zajmuja-basre), Indian Expeditionary Force "D" moved upriver to drive the Turks out of [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), a small town at the confluence of the [Tigris](/miejsca/tygrys) and the [Euphrates](/miejsca/eufrat). The fighting lasted, with breaks, six days. It ended with the capitulation of the Turkish garrison, which had allowed itself to be cut off from its line of retreat to the north.
 
 ## Why Qurna
 
@@ -52,4 +52,4 @@ In many studies the battle is dated 3–9 December, because on 3 December Frazer
 
 The capture of Qurna closed the first phase of the Mesopotamian campaign. Within five weeks of the [landing at Fao](/ladowanie-w-fao), Barrett's corps had broken the Turkish forces in lower Mesopotamia in successive engagements and secured the refinery at Abadan, Basra and the whole course of the Shatt al-Arab. Qurna became a forward post on the Tigris, covering Basra from the north. The displays of British strength did not escape the notice of the Arab tribes of the Persian Gulf either, whose goodwill both the British and the Turks depended on.
 
-The ease of these victories proved treacherous, however. It confirmed the British in the belief that the Ottoman army in Mesopotamia was weak, which in the following year led them to ever more distant expeditions up the Tigris, up to the defeat at [Kut](https://pl.wikipedia.org/wiki/Al-Kut) in 1916.
+The ease of these victories proved treacherous, however. It confirmed the British in the belief that the Ottoman army in Mesopotamia was weak, which in the following year led them to ever more distant expeditions up the Tigris, up to the defeat at [Kut](/miejsca/al-kut) in 1916.

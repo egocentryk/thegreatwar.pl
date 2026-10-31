@@ -9,7 +9,7 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Georg Kraut]
 result: British victory. The Germans lost the Kilimanjaro area with Taveta and Moshi and fell back south along the railway, but their forces were not destroyed.
 source: ofensywa-kilimandzarska
-sourceHash: 9742a382691a9624c081248402fd16d67a2cb604
+sourceHash: 2a453942db597467a003c93495b1d5c3de8f88d8
 brief:
   - "The Kilimanjaro offensive, from 5 to 21 March 1916, was Lieutenant-General Jan Smuts's first major operation in East Africa and the first serious British advance into German East Africa since the start of the war."
   - "The Kilimanjaro area, with its plantations and the railway to Moshi, was the most important point of the front, and the Germans had held the border town of Taveta since August 1914. Smuts wanted to strike before the rains."
@@ -18,7 +18,7 @@ brief:
   - "The Germans lost the most valuable corner of their colony and were now on the defensive, but after the fight at Kahe on 21 March Lettow-Vorbeck withdrew south in good order. His forces were not destroyed."
 ---
 
-The Kilimanjaro offensive was Lieutenant-General [Jan Smuts](/postacie/jan-smuts)'s first major operation in East Africa and the first serious British advance into [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) since the start of the war. In less than three weeks of March 1916 British, South African and Indian troops drove the Germans from their positions at the foot of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro), recovered Taveta, occupied since August 1914, and took Moshi, the terminus of the railway running from the coast. Smuts hoped that a converging advance from two sides would encircle and destroy the main force of the commander of the German colonial troops, [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). It did not succeed: after several hard-fought engagements the Germans withdrew to the south, and soon afterwards the rainy season began.
+The Kilimanjaro offensive was Lieutenant-General [Jan Smuts](/postacie/jan-smuts)'s first major operation in East Africa and the first serious British advance into [German East Africa](/bitwy/kampania-wschodnioafrykanska) since the start of the war. In less than three weeks of March 1916 British, South African and Indian troops drove the Germans from their positions at the foot of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska), recovered Taveta, occupied since August 1914, and took Moshi, the terminus of the railway running from the coast. Smuts hoped that a converging advance from two sides would encircle and destroy the main force of the commander of the German colonial troops, [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). It did not succeed: after several hard-fought engagements the Germans withdrew to the south, and soon afterwards the rainy season began.
 
 ## Name and dates
 
@@ -28,7 +28,7 @@ We take the dates as 5–21 March 1916. On the morning of 5 March the 1st Divisi
 
 ## Background
 
-From the first weeks of the war the Kilimanjaro area was the most important point of the front in East Africa. In August 1914 the Germans [occupied the border town of Taveta](/niemcy-zajmuja-tavete) in [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), and from the area around the mountain they launched raids on the British railway from Mombasa to Nairobi. On the fertile slopes of Kilimanjaro and the neighbouring [Mount Meru](https://pl.wikipedia.org/wiki/Meru_(wulkan)) lay German plantations and settlements that fed the army. The Usambara Railway ran to Moshi from the port of Tanga. The British attempts of November 1914, the landing [at Tanga](/bitwy/bitwa-pod-tanga) and the [attack at Longido](/potyczka-pod-longido), ended in defeat, and throughout 1915 the British on this front were mostly on the defensive.
+From the first weeks of the war the Kilimanjaro area was the most important point of the front in East Africa. In August 1914 the Germans [occupied the border town of Taveta](/niemcy-zajmuja-tavete) in [British East Africa](/bitwy/kampania-wschodnioafrykanska), and from the area around the mountain they launched raids on the British railway from Mombasa to Nairobi. On the fertile slopes of Kilimanjaro and the neighbouring [Mount Meru](https://pl.wikipedia.org/wiki/Meru_(wulkan)) lay German plantations and settlements that fed the army. The Usambara Railway ran to Moshi from the port of Tanga. The British attempts of November 1914, the landing [at Tanga](/bitwy/bitwa-pod-tanga) and the [attack at Longido](/potyczka-pod-longido), ended in defeat, and throughout 1915 the British on this front were mostly on the defensive.
 
 The situation changed in the winter of 1915–16, when, after the end of the campaign in German South West Africa, reinforcements from the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) began to arrive in East Africa. On 12 February 1916 the troops of General Michael Tighe unsuccessfully attacked the German position on Salaita Hill, which covered the road to Taveta. A week later [Smuts took command](/smuts-dowodca-w-afryce-wschodniej). He decided to strike before the rainy season, which in this area usually began at the end of March, and on 25 February he received the government's approval in London.
 

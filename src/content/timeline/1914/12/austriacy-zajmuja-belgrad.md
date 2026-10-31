@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 grudnia 1914 roku wojska austro-węgierskie zajęły [Belgrad](https://pl.wikipedia.org/wiki/Belgrad). Oddziały serbskie [opuściły stolicę dwa dni wcześniej](/serbowie-opuszczaja-belgrad), więc miasto przeszło w ręce przeciwnika bez walki. Brytyjska chronologia wojny podaje, że Austriacy przekroczyli w tym celu Dunaj. W rzeczywistości pierwsze oddziały przeprawiły się z leżącego naprzeciw Belgradu [Zemunu](https://pl.wikipedia.org/wiki/Zemun) przez ujście [Sawy](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), która pod murami twierdzy wpada do [Dunaju](https://pl.wikipedia.org/wiki/Dunaj).
+2 grudnia 1914 roku wojska austro-węgierskie zajęły [Belgrad](/miejsca/belgrad). Oddziały serbskie [opuściły stolicę dwa dni wcześniej](/serbowie-opuszczaja-belgrad), więc miasto przeszło w ręce przeciwnika bez walki. Brytyjska chronologia wojny podaje, że Austriacy przekroczyli w tym celu Dunaj. W rzeczywistości pierwsze oddziały przeprawiły się z leżącego naprzeciw Belgradu [Zemunu](https://pl.wikipedia.org/wiki/Zemun) przez ujście [Sawy](https://pl.wikipedia.org/wiki/Sawa_(rzeka)), która pod murami twierdzy wpada do [Dunaju](https://pl.wikipedia.org/wiki/Dunaj).
 
 ## Nocna przeprawa
 

@@ -2,10 +2,10 @@
 title: Russians enter Dobruja
 summary: On 27 August 1916, the day Romania entered the war, the first units of Zayonchkovsky's Russian corps crossed the Danube into Dobruja.
 source: rosjanie-wkraczaja-do-dobrudzy
-sourceHash: c8fbc36be741f75ff12c3551a40a2fccd189b1fe
+sourceHash: bfec9506aa74cfb8b8fcc0b99845d733c78b2666
 ---
 
-On 27 August 1916, the day on which [Romania declared war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom), the first Russian detachment crossed the [Danube](https://pl.wikipedia.org/wiki/Dunaj) at [Isaccea](https://pl.wikipedia.org/wiki/Isaccea) and entered [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). So states the American historian Glenn Torrey, a scholar of the Romanian front. Russian studies likewise write that the corps entered Romania on 14 August by the [Julian calendar](/slownik/kalendarz-julianski), that is, 27 August by ours. The British chronology of the war places the crossing earlier, under 25 August. The movement then went on for many days. The American minister in Bucharest, Charles Vopicka, reported to Washington that the Romanians had agreed to let the Russians pass through their country around 1 September.
+On 27 August 1916, the day on which [Romania declared war on Austria-Hungary](/rumunia-wypowiada-wojne-austro-wegrom), the first Russian detachment crossed the [Danube](https://pl.wikipedia.org/wiki/Dunaj) at [Isaccea](https://pl.wikipedia.org/wiki/Isaccea) and entered [Dobruja](/miejsca/dobrudza). So states the American historian Glenn Torrey, a scholar of the Romanian front. Russian studies likewise write that the corps entered Romania on 14 August by the [Julian calendar](/slownik/kalendarz-julianski), that is, 27 August by ours. The British chronology of the war places the crossing earlier, under 25 August. The movement then went on for many days. The American minister in Bucharest, Charles Vopicka, reported to Washington that the Romanians had agreed to let the Russians pass through their country around 1 September.
 
 ## Two divisions instead of an army
 

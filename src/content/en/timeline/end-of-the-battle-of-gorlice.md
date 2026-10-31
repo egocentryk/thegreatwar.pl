@@ -2,7 +2,7 @@
 title: End of the battle of Gorlice
 summary: On 5 May 1915 the Russian Third Army, shattered at Gorlice and Biecz, was ordered back behind the Wisłoka. Counter-attacks failed and the front broke.
 source: koniec-bitwy-pod-gorlicami
-sourceHash: 1826089cd02175175c313c7f72c68354ff1ddf7a
+sourceHash: af86c75daaaf8ae18388fe5c9eb174411191af5b
 ---
 
 Late in the evening of 5 May 1915 the headquarters of the Russian [Third Army](/sily-zbrojne/3-armia-rosyjska) issued an order for the whole army to retreat behind the [Wisłoka](https://pl.wikipedia.org/wiki/Wisłoka). Four days after the [breakthrough at Gorlice](/poczatek-bitwy-pod-gorlicami) the Russian defence in the foothills between the Vistula and the Low Beskids had fallen apart, and the new divisions thrown into the fighting straight from the trains had been unable to rebuild it. According to the British chronology, the battle of Gorlice–Tarnów ended on that day. For the Russians it was only the beginning of a long retreat.
@@ -17,7 +17,7 @@ On 4 May the Russians tried to reverse the course of the battle. General Vladimi
 
 On 5 May General [Otto von Emmich's](https://pl.wikipedia.org/wiki/Otto_von_Emmich) German corps on the right wing of the Eleventh Army reached [Żmigród](https://pl.wikipedia.org/wiki/Nowy_Żmigród) and threw the Russians back across the Jasiołka river towards [Dukla](https://pl.wikipedia.org/wiki/Dukla). In doing so it threatened the lines of retreat of the Russian XII and XXIV Corps, which were still in the Low Beskids and had begun to give way before the Austro-Hungarian Third Army. Near Tarnów the Austrians were crossing the Biała.
 
-The headquarters of the South-Western Front, commanded by General [Nikolai Ivanov](/postacie/nikolaj-iwanow), argued to the high command that day that the only sensible course was to pull the whole front back behind the [San](https://pl.wikipedia.org/wiki/San). Stavka would not hear of it. Its representatives argued that the Third Army's defeat was not so serious, and that a retreat at a moment when Italy and Romania might join the Entente would be politically damaging. The Grand Duke categorically forbade the withdrawal of the Third Army and ordered it to dig in on the positions it held. At the front, however, this could no longer be done. At about 11 p.m. Dimitriev's headquarters issued the order to retreat behind the Wisłoka.
+The headquarters of the South-Western Front, commanded by General [Nikolai Ivanov](/postacie/nikolaj-iwanow), argued to the high command that day that the only sensible course was to pull the whole front back behind the [San](/miejsca/san). Stavka would not hear of it. Its representatives argued that the Third Army's defeat was not so serious, and that a retreat at a moment when Italy and Romania might join the Entente would be politically damaging. The Grand Duke categorically forbade the withdrawal of the Third Army and ordered it to dig in on the positions it held. At the front, however, this could no longer be done. At about 11 p.m. Dimitriev's headquarters issued the order to retreat behind the Wisłoka.
 
 ## The balance
 

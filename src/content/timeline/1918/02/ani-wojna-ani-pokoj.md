@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 lutego 1918 roku (28 stycznia według kalendarza juliańskiego), w niedzielne popołudnie, w [Brześciu Litewskim](https://pl.wikipedia.org/wiki/Brześć) zebrali się po raz ostatni przewodniczący delegacji na konferencję pokojową. Dzień wcześniej państwa centralne podpisały [pokój z Ukraińską Republiką Ludową](/pokoj-brzeski-z-ukraina), choć Kijów był już w rękach bolszewików. Rokowania z Rosją Sowiecką, [wznowione](/wznowienie-rokowan-w-brzesciu) 30 stycznia, utknęły na sprawie granicy. Przewodniczący delegacji radzieckiej [Lew Trocki](/postacie/lew-trocki) wygłosił tego dnia oświadczenie, które przeszło do historii jako formuła „ani wojna, ani pokój”: Rosja kończy wojnę i demobilizuje armię, ale traktatu na warunkach niemieckich nie podpisze.
+10 lutego 1918 roku (28 stycznia według kalendarza juliańskiego), w niedzielne popołudnie, w [Brześciu Litewskim](/miejsca/brzesc) zebrali się po raz ostatni przewodniczący delegacji na konferencję pokojową. Dzień wcześniej państwa centralne podpisały [pokój z Ukraińską Republiką Ludową](/pokoj-brzeski-z-ukraina), choć Kijów był już w rękach bolszewików. Rokowania z Rosją Sowiecką, [wznowione](/wznowienie-rokowan-w-brzesciu) 30 stycznia, utknęły na sprawie granicy. Przewodniczący delegacji radzieckiej [Lew Trocki](/postacie/lew-trocki) wygłosił tego dnia oświadczenie, które przeszło do historii jako formuła „ani wojna, ani pokój”: Rosja kończy wojnę i demobilizuje armię, ale traktatu na warunkach niemieckich nie podpisze.
 
 ## Ostatnie dni rokowań
 

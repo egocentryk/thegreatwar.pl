@@ -2,7 +2,7 @@
 title: Provisional government declares war on Germany and Bulgaria
 summary: On 23 November 1916 Venizelos's National Defence government in Salonika declared war on Germany and Bulgaria. Greece now had two governments, one at war.
 source: rzad-tymczasowy-wypowiada-wojne-niemcom-i-bulgarii
-sourceHash: 19bca69cf559a9ec77a1b044813ea86bea52e4f7
+sourceHash: c97eb04f57593d680deb6005dffbfe094a8f38c3
 brief:
   - "On 23 November 1916 the provisional government of National Defence in Salonika, headed by Eleftherios Venizelos, declared war on Germany and Bulgaria. Some sources give 24 or 25 November."
   - "Venizelos had waited more than six weeks, because the Allies would not recognise his government and Briand still hoped for an understanding with King Constantine I. War was not declared on Austria-Hungary or Turkey."
@@ -17,7 +17,7 @@ It was the first act since the outbreak of the war by which Greeks, albeit only 
 
 ## A government that waited
 
-The National Defence government had come into being in the autumn. At the end of August the Venizelists [seized power in Salonika](/przewrot-wenizelistow-w-salonikach), and at the end of September Venizelos and Kountouriotis [formed a provisional government on Crete](/rzad-tymczasowy-wenizelosa-na-krecie). On 9 October Venizelos [arrived in Salonika](/wenizelos-w-salonikach) and took his place at the head of the triumvirate. From the start he announced that his government would raise an army to fight the Bulgarians, who in the summer had occupied Greek eastern Macedonia with [Kavala](https://pl.wikipedia.org/wiki/Kawala) and since May had held [Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel). Yet he waited more than six weeks before formally declaring war.
+The National Defence government had come into being in the autumn. At the end of August the Venizelists [seized power in Salonika](/przewrot-wenizelistow-w-salonikach), and at the end of September Venizelos and Kountouriotis [formed a provisional government on Crete](/rzad-tymczasowy-wenizelosa-na-krecie). On 9 October Venizelos [arrived in Salonika](/wenizelos-w-salonikach) and took his place at the head of the triumvirate. From the start he announced that his government would raise an army to fight the Bulgarians, who in the summer had occupied Greek eastern Macedonia with [Kavala](/miejsca/kawala) and since May had held [Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel). Yet he waited more than six weeks before formally declaring war.
 
 The reason was the attitude of the Allies themselves. At the [Boulogne conference](/konferencja-w-boulogne-w-sprawie-grecji) on 20 October the British and French decided not to recognise the Salonika government officially, but to give it money. According to Falls, on 24 October London authorised its minister in Athens to deal with Venizelos through the consul-general on all matters concerning the districts and islands that had accepted his authority. The British would gladly have gone further, but the French Prime Minister [Aristide Briand](/postacie/aristide-briand) still hoped for an understanding with King [Constantine I](/postacie/konstantyn-i). At the beginning of November the French deputy Paul Bénazet negotiated an agreement with the King under which Athens was to hand over part of its arms to the Allies in return for guarantees that they would not reach the Venizelists. The Venizelist press, writes the British publicist George F. Abbott, a defender of the King, made no secret of its disappointment.
 

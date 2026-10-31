@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 28 grudnia 1914 roku koniec zorganizowanej rebelii w [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Data ta nie odpowiada żadnej konkretnej bitwie ani kapitulacji. Oznacza raczej moment, w którym na terytorium Związku nie walczył już żaden większy oddział buntowników. Bunt nie wygasł jednak całkowicie. Generałowie Manie Maritz i Jan Kemp, wspierani przez Niemców, walczyli na pograniczu [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) jeszcze przez ponad miesiąc.
+Brytyjska chronologia wojny notuje pod 28 grudnia 1914 roku koniec zorganizowanej rebelii w [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). Data ta nie odpowiada żadnej konkretnej bitwie ani kapitulacji. Oznacza raczej moment, w którym na terytorium Związku nie walczył już żaden większy oddział buntowników. Bunt nie wygasł jednak całkowicie. Generałowie Manie Maritz i Jan Kemp, wspierani przez Niemców, walczyli na pograniczu [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia) jeszcze przez ponad miesiąc.
 
 ## Upadek powstania w Oranii i Transwalu
 

@@ -2,10 +2,10 @@
 title: Péronne and Noyon taken
 summary: On 18 March 1917 the British entered the ruined town of Péronne and the French entered Noyon, the German-held town closest to Paris.
 source: zajecie-peronne-i-noyon
-sourceHash: aa460e23b0be3da4c0f049729cd1d9d6745d67f8
+sourceHash: d27331d1200e9ab32562a777741c1d0f1eba1b1d
 ---
 
-On 18 March 1917 the Allies took two towns that had lain just behind the German front since the autumn of 1914. In the north the British 48th Division entered [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)) on the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)), and in the south the French marched into [Noyon](https://pl.wikipedia.org/wiki/Noyon) on the Oise. It was the third day of the German retreat to the Hindenburg Line, and for a large part of the retreating troops the last "marching day". By evening the main German forces facing the British Fourth Army were already behind the new position, leaving only rearguards in front of it.
+On 18 March 1917 the Allies took two towns that had lain just behind the German front since the autumn of 1914. In the north the British 48th Division entered [Péronne](/miejsca/peronne) on the [Somme](/miejsca/somma), and in the south the French marched into [Noyon](/miejsca/noyon) on the Oise. It was the third day of the German retreat to the Hindenburg Line, and for a large part of the retreating troops the last "marching day". By evening the main German forces facing the British Fourth Army were already behind the new position, leaving only rearguards in front of it.
 
 ## Péronne
 

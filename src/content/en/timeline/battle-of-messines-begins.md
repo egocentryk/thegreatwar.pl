@@ -2,7 +2,7 @@
 title: Battle of Messines begins
 summary: On 12 October 1914 Allenby's British cavalry took the Mont des Cats in Flanders. The battle for the Messines ridge south of Ypres had begun.
 source: poczatek-bitwy-pod-messines
-sourceHash: b0235356d03cdb01a50c9c8ca6fde55fb49ff89e
+sourceHash: 04b93f003c978c28c2311cbf26e8e94121fee438
 brief:
   - "On 12 October 1914 General Edmund Allenby's British Cavalry Corps took the Mont des Cats in French Flanders. British nomenclature dates the start of the Battle of Messines from this day."
   - "Field Marshal French and General Foch had agreed on a joint advance eastwards. Allenby's cavalry was to cover the left flank of III Corps, facing General von Hollen's German IV Cavalry Corps."
@@ -14,7 +14,7 @@ On 12 October 1914 the British Cavalry Corps of General [Edmund Allenby](/postac
 
 ## Cavalry on the left flank
 
-Since the beginning of October the British Expeditionary Force had been [moving from the Aisne](/bef-opuszcza-aisne) to Flanders. The first to arrive were two cavalry divisions, which on 9 October were combined into a corps under Allenby. Behind them came the infantry corps. II Corps was already in action near La Bassée, and III Corps of General William Pulteney was just detraining at Saint-Omer and moving towards [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck).
+Since the beginning of October the British Expeditionary Force had been [moving from the Aisne](/bef-opuszcza-aisne) to Flanders. The first to arrive were two cavalry divisions, which on 9 October were combined into a corps under Allenby. Behind them came the infantry corps. II Corps was already in action near La Bassée, and III Corps of General William Pulteney was just detraining at Saint-Omer and moving towards [Hazebrouck](/miejsca/hazebrouck).
 
 On 10 October Field Marshal [John French](/postacie/john-french) agreed with General [Ferdinand Foch](/foch-obejmuje-dowodztwo-we-flandrii), who was coordinating the French armies in the north, on a joint advance eastwards. The British were to pass north of Lille and strike the German flank. Allenby's cavalry was to cover the left flank of III Corps, occupy the hills around Bailleul and push on towards Ypres.
 

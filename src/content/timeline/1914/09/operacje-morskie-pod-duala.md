@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod datą 7 września 1914 roku początek operacji morskich u wybrzeży [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), w pobliżu [Duali](https://pl.wikipedia.org/wiki/Duala_(miasto)). Okręty Royal Navy miały otworzyć drogę do portu wojskom lądowym, które szykowały się do inwazji na kolonię.
+Brytyjska chronologia wojny notuje pod datą 7 września 1914 roku początek operacji morskich u wybrzeży [Kamerunu Niemieckiego](/miejsca/kamerun), w pobliżu [Duali](https://pl.wikipedia.org/wiki/Duala_(miasto)). Okręty Royal Navy miały otworzyć drogę do portu wojskom lądowym, które szykowały się do inwazji na kolonię.
 
 ## Cel: Duala
 

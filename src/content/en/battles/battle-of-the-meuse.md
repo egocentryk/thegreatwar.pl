@@ -9,7 +9,7 @@ sides:
     commanders: ["Albrecht, Duke of Württemberg", Crown Prince Wilhelm, Max von Hausen]
 result: Tactical success for the French defence, strategically indecisive. The French delayed the Germans but, on Joffre's orders, withdrew to the Aisne.
 source: bitwa-nad-moza
-sourceHash: 33c0c13f90ed26d67dfc292a5a4abeb94aaa4470
+sourceHash: 297c18a6ca14d85f0055de4c85674a5b13d0d2a1
 ---
 
 The Battle of the [Meuse](/miejsca/moza) was fought at the end of August 1914 in north-eastern France, on the stretch of the river from around Mézières through [Sedan](https://pl.wikipedia.org/wiki/Sedan_(Francja)) to [Stenay](https://pl.wikipedia.org/wiki/Stenay) and [Dun-sur-Meuse](https://pl.wikipedia.org/wiki/Dun-sur-Meuse). The French 4th Army, with the 3rd Army on its right wing, defended the crossings against German troops pressing forward after their victory in the Ardennes. It was one of the first engagements in which the French, after a series of defeats in the [Battle of the Frontiers](/bitwy/bitwa-graniczna), defended themselves successfully.
@@ -42,7 +42,7 @@ Langle de Cary decided to push the Germans back across the Meuse. In the morning
 
 The most dangerous situation arose on the left wing. Hausen's army tried to drive a wedge between the 4th Army and Lanrezac's 5th Army, which was retreating to the west. At [Signy-l'Abbaye](https://pl.wikipedia.org/wiki/Signy-l’Abbaye) the Moroccan Division of IX Corps held out all day against a stronger enemy. According to French accounts it lost about 3,000 men that day, but it stopped the Saxons.
 
-On the evening of 28 August the 4th Army received the order to retreat to the line of the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). The soldiers, who had won local successes that day, received it with disappointment. The retreat began on the night of 28–29 August, covered by IX Corps. The 3rd Army received its order to retreat a day later.
+On the evening of 28 August the 4th Army received the order to retreat to the line of the river [Aisne](/miejsca/aisne). The soldiers, who had won local successes that day, received it with disappointment. The retreat began on the night of 28–29 August, covered by IX Corps. The 3rd Army received its order to retreat a day later.
 
 ## Losses
 

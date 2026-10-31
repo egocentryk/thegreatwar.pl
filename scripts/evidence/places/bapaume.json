@@ -1,0 +1,81 @@
+{
+ "slug": "bapaume",
+ "paragraphs": [
+  {
+   "start": "Bapaume to małe miasto w departamencie Pas-de-Cala",
+   "quotes": [
+    {"url": "https://en.wikipedia.org/wiki/Bapaume", "quote": "Bapaume (French pronunciation: [bapom] ; original Dutch name Batpalmen) is a commune in the Pas-de-Calais department"},
+    {"file": "src/content/timeline/1914/09/niemcy-zajmuja-bapaume.md", "quote": "niewielkie miasto w północnej Francji, leżące przy drodze z Albert do Cambrai"},
+    {"file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md", "quote": "szosa Péronne–Bapaume–Arras łączy oba skrzydła jego armii"},
+    {"file": "src/content/timeline/1918/08/nowozelandczycy-odbijaja-bapaume.md", "quote": "Bapaume zmieniało właściciela już czwarty raz w tej wojnie. Niemcy zajęli je 26 września 1914 roku, w marcu 1917 roku zajęli je Australijczycy, gdy Niemcy wycofali się na Linię Hindenburga, a nocą 24 marca 1918 roku brytyjska 3 Armia oddała je bez walki w czasie niemieckiej ofensywy."},
+    {"file": "src/content/timeline/1914/09/niemcy-zajmuja-bapaume.md", "quote": "W 1916 roku Bapaume było jednym z celów brytyjskiej ofensywy nad Sommą, ale Brytyjczycy nigdy do niego nie dotarli. Niemcy opuścili miasto dopiero w marcu 1917 roku"}
+   ]
+  },
+  {
+   "start": "Miasto leży na tak zwanym progu Bapaume, przejściu",
+   "quotes": [
+    {"url": "https://en.wikipedia.org/wiki/Bapaume", "quote": "Bapaume has been called the Seuil de Bapaume (Bapaume threshold) due to its position as a crossing point between Artois and the Flanders plain on one side, and the Somme valley and the Paris Basin on the other."},
+    {"url": "https://en.wikipedia.org/wiki/Bapaume", "quote": "The Battle of Bapaume was fought on 2 and 3 January 1871 during the Franco-Prussian War of 1870 on the territories of Biefvillers-lès-Bapaume and Bapaume. General Louis Léon César Faidherbe at the head of the Northern Army stopped the Prussians."},
+    {"file": "src/content/timeline/1914/09/niemcy-zajmuja-bapaume.md", "quote": "26 września 1914 roku wojska niemieckie zajęły Bapaume"},
+    {"file": "src/content/timeline/1914/09/niemcy-zajmuja-bapaume.md", "quote": "Na południe od miasta trwały wtedy walki pod Albert, a Niemcy nadciągali od wschodu, od strony Cambrai."},
+    {"file": "src/content/timeline/1914/09/niemcy-zajmuja-bapaume.md", "quote": "Francuzi nie zdołali odzyskać Bapaume. Front zatrzymał się kilkanaście kilometrów na zachód i południowy zachód od miasta, a Bapaume znalazło się na zapleczu niemieckich linii i stało się ważnym ośrodkiem niemieckiego zaplecza, z kwaterami sztabów i magazynami."}
+   ]
+  },
+  {
+   "start": "Latem 1916 roku Brytyjczycy mieli osiągnąć Bapaume",
+   "quotes": [
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "Latem 1916 roku miało ono być osiągnięte w pierwszych dniach ofensywy."},
+    {"file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md", "quote": "Na północ od drogi z Albert do Bapaume natarcie załamało się prawie wszędzie"},
+    {"file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md", "quote": "było w 1916 roku celem całej bitwy nad Sommą, którego armia brytyjska nie zdołała osiągnąć przez cztery i pół miesiąca walk."},
+    {"file": "src/content/battles/1916/bitwa-o-grzbiety-transloy.md", "quote": "Po wrześniowych sukcesach Haig liczył, że jeszcze w październiku wspólne uderzenie trzech armii przełamie niemiecką obronę przed Le Transloy i Bapaume."},
+    {"file": "src/content/battles/1916/bitwa-o-grzbiety-transloy.md", "quote": "1–18 października 1916 brytyjska 4 Armia nacierała nad Sommą w deszczu i błocie na Le Transloy. Zdobyła Eaucourt l’Abbaye i Le Sars, ale dalej nie doszła."},
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "Australijski historyk oficjalny Charles Bean porównał Bapaume do wzgórza Achi Baba w Gallipoli: oba miały być tylko etapem natarcia, a z czasem stały się celem samym w sobie."}
+   ]
+  },
+  {
+   "start": "Zimą Niemcy przygotowali odwrót na nową pozycję, Li",
+   "quotes": [
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "Główne załogi odeszły o 1.30 w nocy 17 marca"},
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "Do miasta weszły kompanie 30 Batalionu z 8 Brygady."},
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "Według niemieckich meldunków Bapaume zostało podpalone w 400 miejscach i zaminowane."},
+    {"url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/", "quote": "The Australian Corps’ entry into Bapaume on 17 March 1917, an objective of the first phase of the offensive in July 1916, marked the real end to the Battle of the Somme."}
+   ]
+  },
+  {
+   "start": "Ratusz, jeden z niewielu ocalałych budynków, uznan",
+   "quotes": [
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "Ratusz Bapaume, budynek z arkadami i balkonami, był jednym z niewielu, które przetrwały, i uznano go za bezpieczny po usunięciu miny z piwnic. Był to podstęp. Niemcy zostawili w nim drugi, ukryty ładunek z zapalnikiem chemicznym"},
+    {"file": "src/content/timeline/1917/03/brytyjczycy-zajmuja-bapaume.md", "quote": "W nocy z 25 na 26 marca ratusz wyleciał w powietrze, grzebiąc śpiących w nim ludzi, w większości Australijczyków, a także dwóch francuskich deputowanych z departamentu Pas-de-Calais, Raoula Briqueta i Alberta Tailliandiera."}
+   ]
+  },
+  {
+   "start": "W marcu 1918 roku wojna wróciła. W czasie operacji",
+   "quotes": [
+    {"file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md", "quote": "a Bapaume 3 Armia oddała bez walki późnym wieczorem 24 marca. Niemcy weszli do niego według historii ich własnych pułków dopiero około południa 25 marca."},
+    {"file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md", "quote": "dywizje generała Juliana Bynga cofały się przez pobojowisko z 1916 roku"},
+    {"file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md", "quote": "Według nich Bapaume zostało zdobyte „po ciężkich walkach” przez 1 Gwardyjską Dywizję Rezerwową i 20 Dywizję"},
+    {"url": "https://www.ww1cemeteries.com/bapaume-communal-cemetery.html", "quote": "It has given its name to the battles of the 24th-25th March, 1918, and the 31st August-3rd September, 1918."}
+   ]
+  },
+  {
+   "start": "W sierpniu 1918 roku sprzymierzeni ruszyli z powro",
+   "quotes": [
+    {"file": "src/content/battles/1918/druga-bitwa-nad-somma-1918.md", "quote": "21 sierpnia – 3 września 1918 brytyjska 3 i 4 Armia odepchnęły Niemców przez dawne pole bitwy nad Sommą, odbijając Albert, Bapaume i Péronne."},
+    {"file": "src/content/timeline/1918/08/nowozelandczycy-odbijaja-bapaume.md", "quote": "Niemcy ściągnęli jednak świeże dywizje i obsadzili ruiny oraz okoliczne wsie mnóstwem karabinów maszynowych."},
+    {"file": "src/content/timeline/1918/08/nowozelandczycy-odbijaja-bapaume.md", "quote": "27 i 28 sierpnia dowództwo zrezygnowało z kosztownego szturmu."},
+    {"file": "src/content/timeline/1918/08/nowozelandczycy-odbijaja-bapaume.md", "quote": "29 sierpnia 1918 Niemcy nocą opuścili Bapaume, którego od kilku dni bronili przed 3 Armią. Rano weszły do niego patrole Dywizji Nowozelandzkiej."},
+    {"url": "https://www.ww1cemeteries.com/bapaume-communal-cemetery.html", "quote": "It has given its name to the battles of the 24th-25th March, 1918, and the 31st August-3rd September, 1918."}
+   ]
+  },
+  {
+   "start": "Bapaume zostało ciężko zniszczone przez obie stron",
+   "quotes": [
+    {"url": "https://www.ww1cemeteries.com/bapaume-communal-cemetery.html", "quote": "It was severely damaged by both sides during the War."},
+    {"url": "https://en.wikipedia.org/wiki/Bapaume", "quote": "After the armistice the slow and dangerous work of demining began."},
+    {"url": "https://en.wikipedia.org/wiki/Bapaume", "quote": "The English city of Sheffield provided assistance for reconstruction."},
+    {"url": "https://www.ww1cemeteries.com/bapaume-communal-cemetery.html", "quote": "Bapaume was later \"adopted\" by the City of Sheffield."},
+    {"url": "https://www.ww1cemeteries.com/bapaume-communal-cemetery.html", "quote": "World War One Casualties: Australia 19, New Zealand 4, United Kingdom 1."}
+   ]
+  }
+ ]
+}

@@ -2,10 +2,10 @@
 title: End of the battle of Żydaczów
 summary: On 22 June 1915 the battle of Żydaczów ended. Threatened from the north, the Russians gave up the south bank of the Dniester; the South Army prepared to cross.
 source: koniec-bitwy-pod-zydaczowem
-sourceHash: 0485441f4b3a641de197b7840dce56f2faab8d9b
+sourceHash: 682a3f321a7abb2a626549cbf5235cbd92b021bf
 ---
 
-On 22 June 1915, the day Austro-Hungarian troops entered [Lviv](https://pl.wikipedia.org/wiki/Lwów), the battle of [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów) ended according to the British chronology of the war. The official German list of battles gives the same dates, 10–22 June. For almost two weeks General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) and General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s Russian [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) had fought for the south bank of the [Dniester](https://pl.wikipedia.org/wiki/Dniestr) between [Żurawno](https://pl.wikipedia.org/wiki/Żurawno) and [Mikołajów](https://pl.wikipedia.org/wiki/Mikołajów_(rejon_stryjski)). The decision, however, came from the north.
+On 22 June 1915, the day Austro-Hungarian troops entered [Lviv](/miejsca/lwow), the battle of [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów) ended according to the British chronology of the war. The official German list of battles gives the same dates, 10–22 June. For almost two weeks General [Alexander von Linsingen](/postacie/alexander-von-linsingen)'s German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) and General [Dmitry Shcherbachev](/postacie/dmitrij-szczerbaczow)'s Russian [Eleventh Army](https://pl.wikipedia.org/wiki/11_Armia_(Imperium_Rosyjskie)) had fought for the south bank of the [Dniester](/miejsca/dniestr) between [Żurawno](https://pl.wikipedia.org/wiki/Żurawno) and [Mikołajów](https://pl.wikipedia.org/wiki/Mikołajów_(rejon_stryjski)). The decision, however, came from the north.
 
 ## Żydaczów and the Russian counter-offensive
 

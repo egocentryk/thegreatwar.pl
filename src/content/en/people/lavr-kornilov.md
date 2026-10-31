@@ -6,7 +6,7 @@ country: Russian Empire
 birthPlace: Ust-Kamenogorsk (Russian Empire)
 deathPlace: near Yekaterinodar
 source: lawr-kornilow
-sourceHash: 9d7f31670b9726d1cae12946afb0cec93185b968
+sourceHash: 345414192ec866a9ae9960312fe1f1be018ef8ae
 ---
 
 General Lavr Kornilov was the most controversial Russian commander of the war. In 1914–1915 he made his name as a recklessly brave divisional commander, in 1916 all Russia talked of his escape from Austro-Hungarian captivity, and in the summer of 1917, after the defeat of the last Russian offensive, the government entrusted him with the supreme command. The right and the officers saw in him the man who would halt the disintegration of the army and the state. The left saw in him a would-be dictator. His September conflict with the prime minister Alexander Kerensky, known as the Kornilov affair or Kornilov putsch, ended in the general's defeat, but it weakened the Provisional Government still further and opened the way for the Bolsheviks' coup. After the October Revolution Kornilov co-founded the White Volunteer Army and was killed at its head in the spring of 1918.
@@ -39,7 +39,7 @@ Around 20–21 July the prime minister [Alexander Kerensky](/postacie/aleksander
 
 ## Commander-in-chief
 
-[On 31 July 1917](/kornilow-naczelnym-wodzem) Kerensky replaced Brusilov with Kornilov. The general at once set conditions: he would answer only "to his own conscience and to the whole people", the government would not interfere in his operational orders and appointments, and the measures to restore discipline would also cover the rear. The telegram reached the press. He took up his duties at the Stavka in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew) only on 9 August. His programme, supported by the commissar [Boris Savinkov](https://pl.wikipedia.org/wiki/Boris_Sawinkow), also included the death penalty in the rear, curbs on the role of the soldiers' committees and the militarisation of the railways and the munitions industry. Kerensky, who had to reckon with the soviets, delayed.
+[On 31 July 1917](/kornilow-naczelnym-wodzem) Kerensky replaced Brusilov with Kornilov. The general at once set conditions: he would answer only "to his own conscience and to the whole people", the government would not interfere in his operational orders and appointments, and the measures to restore discipline would also cover the rear. The telegram reached the press. He took up his duties at the Stavka in [Mogilev](/miejsca/mohylew) only on 9 August. His programme, supported by the commissar [Boris Savinkov](https://pl.wikipedia.org/wiki/Boris_Sawinkow), also included the death penalty in the rear, curbs on the role of the soldiers' committees and the militarisation of the railways and the munitions industry. Kerensky, who had to reckon with the soviets, delayed.
 
 At the [Moscow State Conference](/narada-panstwowa-w-moskwie) at the end of August officers carried Kornilov out of the station on their shoulders, and the right side of the hall gave him a standing ovation. The general spoke of the disintegration of the army and the fall in munitions production and warned that without a change of policy Russia would lose Riga. On 3 September the Germans did indeed [enter Riga](/bitwy/bitwa-o-ryge). The left suspected that the commander-in-chief had given up the city deliberately to have a pretext for a reckoning with the revolution. There is no evidence of this.
 

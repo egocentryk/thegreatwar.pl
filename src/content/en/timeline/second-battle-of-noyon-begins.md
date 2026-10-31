@@ -2,7 +2,7 @@
 title: Second Battle of Noyon begins
 summary: On 17 August 1918 Mangin's French Tenth Army attacked between the Oise and the Aisne to drive back German outposts. Three days later it struck in full strength.
 source: poczatek-drugiej-bitwy-pod-noyon
-sourceHash: 3e586074b49077f864c8227ff1ef6e85eee69a3c
+sourceHash: 43d9b1aacfa8ae80d39a40185ca27352d4810efc
 brief:
   - "On 17 August 1918 General Charles Mangin's French Tenth Army went into the attack on the wooded hills between the Oise and the Aisne. The French date the Second Battle of Noyon from this day."
   - "The Amiens offensive had slowed, so Foch decided to deal the Germans successive blows at different points of the front, leaving them no time to shift reserves. He demanded that the armies attack \"on 20 August at the latest\"."
@@ -11,7 +11,7 @@ brief:
   - "The attack was the first step towards extending the Allied offensive along the whole front. On 21 August the British Third Army attacked, and within two weeks the French reached the Ailette and recaptured Noyon."
 ---
 
-On the morning of 17 August 1918 the French Tenth Army of General [Charles Mangin](/postacie/charles-mangin) went into the attack on the wooded hills between the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) and the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), north-west of [Soissons](https://pl.wikipedia.org/wiki/Soissons). This was not yet the great blow, only the first of a series of preparatory attacks. By 8 a.m. two corps from the centre of the army had driven back the German outposts and taken the hills from which the main attack was to be launched a few days later. The French date the Second Battle of Noyon from this day; within two weeks it brought them to the river [Ailette](https://pl.wikipedia.org/wiki/Ailette) and into recaptured [Noyon](https://pl.wikipedia.org/wiki/Noyon). It was also the first step towards extending the offensive that the Allies had begun on 8 August at Amiens to the whole front from the Aisne to the Scarpe.
+On the morning of 17 August 1918 the French Tenth Army of General [Charles Mangin](/postacie/charles-mangin) went into the attack on the wooded hills between the [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) and the [Aisne](/miejsca/aisne), north-west of [Soissons](/miejsca/soissons). This was not yet the great blow, only the first of a series of preparatory attacks. By 8 a.m. two corps from the centre of the army had driven back the German outposts and taken the hills from which the main attack was to be launched a few days later. The French date the Second Battle of Noyon from this day; within two weeks it brought them to the river [Ailette](https://pl.wikipedia.org/wiki/Ailette) and into recaptured [Noyon](/miejsca/noyon). It was also the first step towards extending the offensive that the Allies had begun on 8 August at Amiens to the whole front from the Aisne to the Scarpe.
 
 ## After Amiens
 

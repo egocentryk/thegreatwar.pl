@@ -2,10 +2,10 @@
 title: Battle of Shaiba begins
 summary: On 12 April 1915 Turkish troops and the Arab allies of Süleyman Askerî attacked the British camp at Shaiba near Basra. The attacks were repulsed.
 source: poczatek-bitwy-pod-szuajba
-sourceHash: 14baaac8d6e0d22ac453b467532cf11f577f86b1
+sourceHash: 27c4ef87e8d62d1f9dfc19f20591ebda8cb6272b
 ---
 
-At dawn on 12 April 1915 Turkish troops attacked the fortified British camp at Shaiba, a dozen or so kilometres south-west of [Basra](https://pl.wikipedia.org/wiki/Basra). It was the largest Turkish attempt to recover lower [Mesopotamia](/bitwy/kampania-mezopotamska), lost in the autumn of 1914. All day and all night the defenders beat off successive attacks, while the British in Basra struggled to get reinforcements to them across the flooded desert. Only three days earlier General John Nixon had [taken over command in the Persian Gulf](/nixon-obejmuje-dowodztwo-w-mezopotamii).
+At dawn on 12 April 1915 Turkish troops attacked the fortified British camp at Shaiba, a dozen or so kilometres south-west of [Basra](/miejsca/basra). It was the largest Turkish attempt to recover lower [Mesopotamia](/bitwy/kampania-mezopotamska), lost in the autumn of 1914. All day and all night the defenders beat off successive attacks, while the British in Basra struggled to get reinforcements to them across the flooded desert. Only three days earlier General John Nixon had [taken over command in the Persian Gulf](/nixon-obejmuje-dowodztwo-w-mezopotamii).
 
 ## Askerî's forces
 

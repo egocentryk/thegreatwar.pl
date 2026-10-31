@@ -17,7 +17,7 @@ tags: [Francja, Serbia, Bułgaria, Niemcy]
 milestone: false
 ---
 
-Bitwa nad Wardarem to nazwa, pod którą brytyjska chronologia wojny zapisała główną część wiosennej ofensywy generała [Maurice'a Sarraila](/postacie/maurice-sarrail) w Macedonii. Naczelny dowódca wojsk sprzymierzonych na Bałkanach chciał przełamać front bułgarsko-niemiecki na zachód od [Wardaru](https://pl.wikipedia.org/wiki/Wardar): w zakolu [Czarnej Rzeki](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) mieli uderzyć Francuzi, Włosi i Rosjanie, w górach na wschód od zakola Serbowie, a pomocnicze natarcia miały związać przeciwnika pod [Bitolą](https://pl.wikipedia.org/wiki/Bitola) i nad samym Wardarem. Od 5 maja trwał ostrzał, 9 maja ruszyła piechota. Po pierwszym dniu było jasne, że ofensywa się nie udała. Kolejne ataki 11 i 17 maja niczego nie zmieniły, Serbowie zażądali przerwania walk i 21 maja Sarrail wydał taki rozkaz.
+Bitwa nad Wardarem to nazwa, pod którą brytyjska chronologia wojny zapisała główną część wiosennej ofensywy generała [Maurice'a Sarraila](/postacie/maurice-sarrail) w Macedonii. Naczelny dowódca wojsk sprzymierzonych na Bałkanach chciał przełamać front bułgarsko-niemiecki na zachód od [Wardaru](/miejsca/wardar): w zakolu [Czarnej Rzeki](/miejsca/crna-reka) mieli uderzyć Francuzi, Włosi i Rosjanie, w górach na wschód od zakola Serbowie, a pomocnicze natarcia miały związać przeciwnika pod [Bitolą](/miejsca/bitola) i nad samym Wardarem. Od 5 maja trwał ostrzał, 9 maja ruszyła piechota. Po pierwszym dniu było jasne, że ofensywa się nie udała. Kolejne ataki 11 i 17 maja niczego nie zmieniły, Serbowie zażądali przerwania walk i 21 maja Sarrail wydał taki rozkaz.
 
 ## Nazwa i daty
 

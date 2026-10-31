@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-17 kwietnia 1916 roku Południowoafrykańska Brygada Konna generała Jacoba van Deventera walczyła z Niemcami na wzgórzach na północ od Kondoa Irangi, osady w środku [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), około 200 kilometrów w linii prostej na południe od [Aruszy](https://pl.wikipedia.org/wiki/Arusza). Brytyjska chronologia wojny notuje pod tą datą początek brytyjskiego ataku na Kondoa Irangi. Źródła rozkładają te walki nieco inaczej. Według brytyjskiej historii oficjalnej (Hordern) brygada stanęła 16 kwietnia około 11 kilometrów od osady, 17 kwietnia toczyła tylko drobne potyczki, a właściwe natarcie przypuściła 18 kwietnia. Południowoafrykańska historia oficjalna pisze, że Niemców zaatakowano już 16 kwietnia, a walka trwała przez cały następny dzień.
+17 kwietnia 1916 roku Południowoafrykańska Brygada Konna generała Jacoba van Deventera walczyła z Niemcami na wzgórzach na północ od Kondoa Irangi, osady w środku [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), około 200 kilometrów w linii prostej na południe od [Aruszy](https://pl.wikipedia.org/wiki/Arusza). Brytyjska chronologia wojny notuje pod tą datą początek brytyjskiego ataku na Kondoa Irangi. Źródła rozkładają te walki nieco inaczej. Według brytyjskiej historii oficjalnej (Hordern) brygada stanęła 16 kwietnia około 11 kilometrów od osady, 17 kwietnia toczyła tylko drobne potyczki, a właściwe natarcie przypuściła 18 kwietnia. Południowoafrykańska historia oficjalna pisze, że Niemców zaatakowano już 16 kwietnia, a walka trwała przez cały następny dzień.
 
 ## Marsz przez porę deszczową
 

@@ -2,7 +2,7 @@
 title: First Battle of Picardy begins
 summary: On 22 September 1914 General de Castelnau's new French Second Army attacked north of the Oise. The Race to the Sea had begun.
 source: poczatek-pierwszej-bitwy-w-pikardii
-sourceHash: 57bb9fdf2ca418f38484042cf4f7ffe6133d31f3
+sourceHash: fb820fa9ed0ec502b988f63d171ce90a109e37cc
 brief:
   - "On 22 September 1914, north of the Oise, General Noël de Castelnau's newly formed French Second Army attacked to turn the German flank. It was the first major battle of the Race to the Sea and lasted until 26 September."
   - "After the deadlock on the Aisne the front ran from Switzerland to near Compiègne, with no line further west. The French moved troops over their own undamaged railways, while the German railways could not keep up."
@@ -14,7 +14,7 @@ On 22 September 1914 the First Battle of Picardy began in [Picardy](https://pl.w
 
 ## Deadlock on the Aisne
 
-In mid-September the German armies, withdrawn from the Marne, halted on the heights above the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). For several days the French and British tried in vain to drive them from these positions. When the [Battle of the Aisne came to an end](/koniec-bitwy-nad-aisne), both sides began to dig in. The front now ran from the Swiss border to the area of [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), but further west and north there was no line at all. Between the Oise and the English Channel lay an area held only by a few units of cavalry and territorial troops.
+In mid-September the German armies, withdrawn from the Marne, halted on the heights above the river [Aisne](/miejsca/aisne). For several days the French and British tried in vain to drive them from these positions. When the [Battle of the Aisne came to an end](/koniec-bitwy-nad-aisne), both sides began to dig in. The front now ran from the Swiss border to the area of [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), but further west and north there was no line at all. Between the Oise and the English Channel lay an area held only by a few units of cavalry and territorial troops.
 
 The commanders on both sides came to the same conclusion. If the front could not be broken, it had to be outflanked. The commander-in-chief of the French Army, General [Joseph Joffre](/postacie/joseph-joffre), had already ordered the French Sixth Army to attack north of the Oise, near Noyon, from 17 September, but the Germans quickly halted this attack. Joffre therefore decided to assemble a new army further west to strike the open German flank.
 
@@ -34,7 +34,7 @@ The German railways, however, could not keep up with the movements. On 22 Septem
 
 On 22 September Castelnau's corps crossed the small river Avre and moved east and north-east, on a line from [Lassigny](https://pl.wikipedia.org/wiki/Lassigny) through [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) to [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes). The aim was to get into the rear of the Germans fighting on the Oise and the Aisne. On the first day the French pushed the enemy out of some of his positions, but they did not find the empty space in front of them that they had counted on. The Germans defended themselves stubbornly and waited for reinforcements.
 
-In the following days the situation was reversed. On 23 and 24 September the German XVIII Corps, taken from the front at Reims, arrived and together with II Corps went over to the counter-attack. Heavy fighting took place at Roye and Lassigny and on the roads leading to [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)). The French had to give up some of the ground they had taken, and on the northern flank their cavalry and territorial divisions withdrew behind the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). By 26 September the forces of both sides were exhausted and the troops began to dig in.
+In the following days the situation was reversed. On 23 and 24 September the German XVIII Corps, taken from the front at Reims, arrived and together with II Corps went over to the counter-attack. Heavy fighting took place at Roye and Lassigny and on the roads leading to [Péronne](/miejsca/peronne). The French had to give up some of the ground they had taken, and on the northern flank their cavalry and territorial divisions withdrew behind the [Somme](/miejsca/somma). By 26 September the forces of both sides were exhausted and the troops began to dig in.
 
 ## Significance
 

@@ -2,7 +2,7 @@
 title: Hindenburg becomes Chief of the General Staff
 summary: On 29 August 1916 Wilhelm II dismissed Falkenhayn. Hindenburg became Chief of the General Staff of the Field Army, with Ludendorff as his deputy.
 source: hindenburg-szefem-sztabu-generalnego
-sourceHash: 60a1b3a5ff08a9d1137acac61c51d8da0d73e2d7
+sourceHash: 8868e0fc5a9886ac8b952ff439b5c40f80b8b4e0
 brief:
   - "On 29 August 1916 at Pless Kaiser Wilhelm II removed General Erich von Falkenhayn and appointed Field Marshal Paul von Hindenburg Chief of the General Staff of the Field Army."
   - "Falkenhayn's plan collapsed in the summer of 1916: Verdun did not fall, the Allies attacked on the Somme and the Brusilov offensive shattered the Austro-Hungarian front. Romania's entry on 27 August was the final blow."
@@ -26,7 +26,7 @@ According to accounts from the Kaiser's entourage, Wilhelm II received the news 
 
 ## The conference at Pless
 
-On 28 August Lyncker telephoned Hindenburg's headquarters at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć) and passed on that the Kaiser was summoning the field marshal and Ludendorff to Pless. Hindenburg recalled that the only explanation he heard was the words: "The situation is serious!" He expected a short conference, so he took only the barest necessities. In the afternoon the two generals left Brest-Litovsk. Ludendorff wrote later that they never returned to the Eastern Front.
+On 28 August Lyncker telephoned Hindenburg's headquarters at [Brest-Litovsk](/miejsca/brzesc) and passed on that the Kaiser was summoning the field marshal and Ludendorff to Pless. Hindenburg recalled that the only explanation he heard was the words: "The situation is serious!" He expected a short conference, so he took only the barest necessities. In the afternoon the two generals left Brest-Litovsk. Ludendorff wrote later that they never returned to the Eastern Front.
 
 They arrived at Pless on 29 August at about ten in the morning. Lyncker was waiting for them at the station, and it was from him that they learnt of their new posts. In front of the castle the Kaiser greeted Hindenburg as Chief of the General Staff of the Field Army, and Ludendorff as First Quartermaster General. Ludendorff had first been offered the title of "Second Chief of the General Staff", but he rejected it, because he believed there could be only one chief of staff. He demanded instead joint responsibility for all decisions, and received that assurance. Hindenburg recalled that when handing over his duties Falkenhayn gave him his hand with the words: "God help you and our Fatherland."
 

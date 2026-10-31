@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 14 stycznia 1915 roku zajęcie przez wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) miasta [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund), głównego portu [Niemieckiej Afryki Południowo-Zachodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). Niemcy nie bronili miasta. Źródła różnią się co do daty. Według części z nich oddział rozpoznawczy ruszył na Swakopmund 13 stycznia, niemiecka chronologia kolonii podaje 15 stycznia, a jedno z opracowań nawet 3 stycznia. Uroczyste przyłączenie miasta do Związku odbyło się 16 stycznia.
+Brytyjska chronologia wojny notuje pod 14 stycznia 1915 roku zajęcie przez wojska [Związku Południowej Afryki](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) miasta [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund), głównego portu [Niemieckiej Afryki Południowo-Zachodniej](/miejsca/niemiecka-afryka-poludniowo-zachodnia). Niemcy nie bronili miasta. Źródła różnią się co do daty. Według części z nich oddział rozpoznawczy ruszył na Swakopmund 13 stycznia, niemiecka chronologia kolonii podaje 15 stycznia, a jedno z opracowań nawet 3 stycznia. Uroczyste przyłączenie miasta do Związku odbyło się 16 stycznia.
 
 ## Port bez portu
 

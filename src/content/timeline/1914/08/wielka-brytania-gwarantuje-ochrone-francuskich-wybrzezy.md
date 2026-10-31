@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 sierpnia 1914 roku, po niemal trzygodzinnej, burzliwej dyskusji, brytyjski gabinet upoważnił ministra spraw zagranicznych [Edwarda Greya](/postacie/edward-grey) do złożenia Francji ważnej obietnicy. Po południu Grey przekazał ambasadorowi Francji [Paulowi Cambonowi](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), że jeśli niemiecka flota wpłynie na [Morze Północne](https://pl.wikipedia.org/wiki/Morze_Północne) lub do [kanału La Manche](https://pl.wikipedia.org/wiki/La_Manche), by atakować francuskie wybrzeża lub statki, [Royal Navy](/sily-zbrojne/royal-navy) udzieli Francji wszelkiej ochrony, jaka będzie w jej mocy.
+2 sierpnia 1914 roku, po niemal trzygodzinnej, burzliwej dyskusji, brytyjski gabinet upoważnił ministra spraw zagranicznych [Edwarda Greya](/postacie/edward-grey) do złożenia Francji ważnej obietnicy. Po południu Grey przekazał ambasadorowi Francji [Paulowi Cambonowi](https://pl.wikipedia.org/wiki/Pierre_Paul_Cambon), że jeśli niemiecka flota wpłynie na [Morze Północne](/miejsca/morze-polnocne) lub do [kanału La Manche](https://pl.wikipedia.org/wiki/La_Manche), by atakować francuskie wybrzeża lub statki, [Royal Navy](/sily-zbrojne/royal-navy) udzieli Francji wszelkiej ochrony, jaka będzie w jej mocy.
 
 Zobowiązanie wynikało z porozumień zawartych przed wojną. Od 1912 roku oba państwa uzgodniły podział zadań na morzu: główne siły francuskiej floty skupiono na Morzu Śródziemnym, a Brytyjczycy mieli czuwać nad wodami północnymi. Północne i zachodnie wybrzeża [Francji](/kraje/francja) pozostały dzięki temu niemal bez własnej osłony. Paryż argumentował, że Londyn ma moralny obowiązek ich bronić.
 

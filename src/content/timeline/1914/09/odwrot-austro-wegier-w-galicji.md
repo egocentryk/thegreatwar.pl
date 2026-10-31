@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 11 września 1914 roku szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) wydał czterem armiom walczącym w Galicji rozkaz ogólnego odwrotu za rzekę [San](https://pl.wikipedia.org/wiki/San). Był to koniec [bitwy galicyjskiej](/bitwy/bitwa-galicyjska), pierwszej wielkiej kampanii monarchii habsburskiej przeciw Rosji. W ciągu kolejnych tygodni wojska austro-węgierskie cofnęły się o ponad 150 kilometrów, aż za Dunajec i w Karpaty, a rosyjskie armie zajęły większą część Galicji. Dla mieszkających tu Polaków, Ukraińców i Żydów wojna po raz pierwszy przetoczyła się przez ich domy z całą siłą.
+Wieczorem 11 września 1914 roku szef austro-węgierskiego sztabu generalnego [Franz Conrad von Hötzendorf](/postacie/franz-conrad-von-hotzendorf) wydał czterem armiom walczącym w Galicji rozkaz ogólnego odwrotu za rzekę [San](/miejsca/san). Był to koniec [bitwy galicyjskiej](/bitwy/bitwa-galicyjska), pierwszej wielkiej kampanii monarchii habsburskiej przeciw Rosji. W ciągu kolejnych tygodni wojska austro-węgierskie cofnęły się o ponad 150 kilometrów, aż za Dunajec i w Karpaty, a rosyjskie armie zajęły większą część Galicji. Dla mieszkających tu Polaków, Ukraińców i Żydów wojna po raz pierwszy przetoczyła się przez ich domy z całą siłą.
 
 ## Od zwycięstw do klęski
 

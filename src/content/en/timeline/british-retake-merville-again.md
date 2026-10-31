@@ -2,10 +2,10 @@
 title: The British retake Merville again
 summary: On 19 August 1918 British Fifth Army troops entered Merville on the Lys, lost to the Germans in April. The Germans began to leave their Flanders salient.
 source: brytyjczycy-ponownie-odbijaja-merville
-sourceHash: 5340467d52e52b53500a62b7b18dc4fe0044f117
+sourceHash: b45ade4ab29ee76ba398c25e4ad8346f0a284fb2
 ---
 
-On 19 August 1918 British troops again entered [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)), a small town on the river [Leie](https://pl.wikipedia.org/wiki/Leie) (Lys) in French Flanders. The Germans had taken it [on the evening of 11 April](/niemcy-zajmuja-armentieres-i-merville), on the third day of the Battle of the Lys, and for more than four months had held it at the very tip of the salient their offensive had driven into the British front. Now they gave it up almost without a fight. It was the first clear sign that the Germans were abandoning the ground won in Flanders in the spring.
+On 19 August 1918 British troops again entered [Merville](https://pl.wikipedia.org/wiki/Merville_(Nord)), a small town on the river [Leie](/miejsca/leie) (Lys) in French Flanders. The Germans had taken it [on the evening of 11 April](/niemcy-zajmuja-armentieres-i-merville), on the third day of the Battle of the Lys, and for more than four months had held it at the very tip of the salient their offensive had driven into the British front. Now they gave it up almost without a fight. It was the first clear sign that the Germans were abandoning the ground won in Flanders in the spring.
 
 Merville was a place the British knew well. In October 1914 [British cavalry had retaken it](/brytyjczycy-odbijaja-merville), and for the next three and a half years it lay just behind the front. Until May 1915 it was a railhead for supplies; in the autumn of 1914 and 1915 it housed the headquarters of the Indian Corps; and later it was a centre of billets and hospitals, where British casualty clearing stations operated. In April 1918, as they entered the town, the Germans also shelled the hospital buildings. All summer the German divisions in the salient on the Lys endured incessant fire from British guns and, as Haig wrote, suffered heavy losses not only in the front line but also in the rear.
 

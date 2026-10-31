@@ -2,10 +2,10 @@
 title: Start of the march on Mosul
 summary: On 23 October 1918 Cobbe's I Corps faced the Turkish position at Fat-ha on the Tigris. That night the Turks left it, and the British set off for Mosul.
 source: poczatek-marszu-na-mosul
-sourceHash: 0e8a0a9053ba4e0362dfb7ac032da7f3b7c3dd20
+sourceHash: 533a4d11f04d58c5e425d8ad412e4f5772c49370
 ---
 
-On the morning of 23 October 1918 the Anglo-Indian I Corps of Lieutenant-General Alexander Cobbe completed its concentration before the Turkish position at Fat-ha, where the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) breaks through the Jebel Hamrin range of hills, about 55 kilometres north of [Tikrit](https://pl.wikipedia.org/wiki/Tikrit). The British chronology of the war records briefly under that date: "Beginning of British advance on Mosul". It was the last offensive of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). Its aim was to destroy the Turkish Tigris Group of the Sixth Army, which was covering [Mosul](https://pl.wikipedia.org/wiki/Mosul), before the war with Turkey ended.
+On the morning of 23 October 1918 the Anglo-Indian I Corps of Lieutenant-General Alexander Cobbe completed its concentration before the Turkish position at Fat-ha, where the [Tigris](/miejsca/tygrys) breaks through the Jebel Hamrin range of hills, about 55 kilometres north of [Tikrit](https://pl.wikipedia.org/wiki/Tikrit). The British chronology of the war records briefly under that date: "Beginning of British advance on Mosul". It was the last offensive of the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). Its aim was to destroy the Turkish Tigris Group of the Sixth Army, which was covering [Mosul](https://pl.wikipedia.org/wiki/Mosul), before the war with Turkey ended.
 
 ## A race with the armistice
 

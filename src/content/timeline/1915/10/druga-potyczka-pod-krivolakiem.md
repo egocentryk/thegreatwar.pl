@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 30 października 1915 roku drugą potyczkę pod Krivolakiem nad [Wardarem](https://pl.wikipedia.org/wiki/Wardar). Francuska 57 Dywizja Piechoty, która w ostatnich dniach października [dotarła do Krivolaku](/poczatek-walk-pod-krivolakiem), zdążyła już przeprawić się przez rzekę i zająć górujące nad doliną wzgórza na jej wschodnim brzegu. Bułgarzy próbowali ją stamtąd zepchnąć. Brytyjska i austriacka historia oficjalna nie opisują tej walki osobno, a jej datę trzeba odtwarzać z ogólniejszych relacji. Wiadomo jednak, że był to początek coraz cięższych bułgarskich ataków na francuski przyczółek, które w pierwszych dniach listopada przyniosły napastnikom krwawe straty.
+Brytyjska chronologia wojny notuje pod 30 października 1915 roku drugą potyczkę pod Krivolakiem nad [Wardarem](/miejsca/wardar). Francuska 57 Dywizja Piechoty, która w ostatnich dniach października [dotarła do Krivolaku](/poczatek-walk-pod-krivolakiem), zdążyła już przeprawić się przez rzekę i zająć górujące nad doliną wzgórza na jej wschodnim brzegu. Bułgarzy próbowali ją stamtąd zepchnąć. Brytyjska i austriacka historia oficjalna nie opisują tej walki osobno, a jej datę trzeba odtwarzać z ogólniejszych relacji. Wiadomo jednak, że był to początek coraz cięższych bułgarskich ataków na francuski przyczółek, które w pierwszych dniach listopada przyniosły napastnikom krwawe straty.
 
 ## Przyczółek na Kara Hodżali
 
@@ -22,7 +22,7 @@ Według Buchana dwa dni później Bułgarzy, rozumiejąc, co stracili, uderzyli 
 
 ## Bułgarzy ściągają posiłki
 
-Naprzeciw Francuzów stała na razie brygada bułgarskiej 7 Dywizji Piechoty, wchodzącej w skład 2 Armii generała [Georgiego Todorowa](/postacie/georgi-todorow). Według austriackiej historii oficjalnej 30 października jedna z brygad tej dywizji obsadziła [Wełes](https://pl.wikipedia.org/wiki/Wełes) i wzgórza na zachód od niego, a następnego dnia ruszyła w stronę ujścia [Crnej Reki](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) do Wardaru, gdzie zajęła ważny most kolejowy. Bułgarzy zaczęli też ściągać spod [Sztipu](https://pl.wikipedia.org/wiki/Sztip) dwie brygady 11 Dywizji, nazywanej wcześniej Legionem Macedońskim. Była to formacja dopiero co sformowana, jeszcze bez doświadczenia bojowego i nie w pełni wyszkolona.
+Naprzeciw Francuzów stała na razie brygada bułgarskiej 7 Dywizji Piechoty, wchodzącej w skład 2 Armii generała [Georgiego Todorowa](/postacie/georgi-todorow). Według austriackiej historii oficjalnej 30 października jedna z brygad tej dywizji obsadziła [Wełes](https://pl.wikipedia.org/wiki/Wełes) i wzgórza na zachód od niego, a następnego dnia ruszyła w stronę ujścia [Crnej Reki](/miejsca/crna-reka) do Wardaru, gdzie zajęła ważny most kolejowy. Bułgarzy zaczęli też ściągać spod [Sztipu](https://pl.wikipedia.org/wiki/Sztip) dwie brygady 11 Dywizji, nazywanej wcześniej Legionem Macedońskim. Była to formacja dopiero co sformowana, jeszcze bez doświadczenia bojowego i nie w pełni wyszkolona.
 
 Francuzi nie mieli dużych sił. Cała 57 Dywizja, którą od 23 października dowodził generał Paul Leblois, musiała obsadzać około 25 kilometrów frontu wzdłuż Wardaru, od Gradca po Krivolak. Przez rzekę wciąż prowadził tylko prom. Na południowym wschodzie, nad granicą bułgarską, 156 Dywizja generała Maurice'a Bailloud osłaniała kolej pod stacją Strumica, a Brytyjczycy dopiero dostali zgodę, by przekroczyć serbską granicę i zluzować część francuskich oddziałów nad [jeziorem Dojran](https://pl.wikipedia.org/wiki/Dojran_(jezioro)).
 

@@ -2,10 +2,10 @@
 title: General Dobell to command the Kamerun expedition
 summary: On 23 August 1914 General Charles Dobell was appointed commander of the Allied land forces against German Kamerun.
 source: general-dobell-dowodca-wyprawy-do-kamerunu
-sourceHash: 870c9348af15863642b8af89930652365b695036
+sourceHash: 09c0a2e5023b7d38117f6f534e6cbaf5aa4e0fe2
 ---
 
-On 23 August 1914 Brigadier-General Charles Macpherson Dobell was appointed commander of the Allied land forces that were to occupy [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). British and French units were to fight under his orders, chiefly African soldiers from the neighbouring colonies.
+On 23 August 1914 Brigadier-General Charles Macpherson Dobell was appointed commander of the Allied land forces that were to occupy [German Kamerun](/miejsca/kamerun). British and French units were to fight under his orders, chiefly African soldiers from the neighbouring colonies.
 
 ## Kamerun, an Allied target
 

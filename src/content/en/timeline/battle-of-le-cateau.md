@@ -2,7 +2,7 @@
 title: Battle of Le Cateau
 summary: On 26 August 1914 Smith-Dorrien's II Corps stood and fought at Le Cateau against the wishes of GHQ. It paid a high price but halted the German pursuit.
 source: bitwa-pod-le-cateau
-sourceHash: f890d3554aa5e92c595548e41094c73a831c0e4b
+sourceHash: e1a02eff9770798bf337db0f34b3e4c9ecbabeb5
 brief:
   - "On 26 August 1914 at Le Cateau the British II Corps of General Horace Smith-Dorrien fought a day-long battle against the German 1st Army, three days after the Battle of Mons."
   - "With his exhausted corps about to be caught by the Germans, Smith-Dorrien decided to stand and deal them a heavy blow. He did so against the wishes of Field Marshal John French, who wanted the retreat to continue."
@@ -27,7 +27,7 @@ The commander-in-chief, Field Marshal [John French](/postacie/john-french), mean
 
 ## The course of the battle
 
-The British took up positions along the road from Le Cateau to [Cambrai](https://pl.wikipedia.org/wiki/Cambrai), over a stretch of about 15 kilometres. On the right wing, right by Le Cateau, stood the 5th Division; in the centre, around Caudry, the 3rd Division; and on the left wing the 4th Division. The positions were chosen in haste and at night, and there was no time to prepare trenches. On the German side, units of IV Corps under General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin), the cavalry corps of General [Georg von der Marwitz](/postacie/georg-von-der-marwitz) and other formations of the 1st Army entered the fight one after another. Kluck believed that the British were fleeing westwards, towards the Channel ports, and did not at once grasp what he was facing.
+The British took up positions along the road from Le Cateau to [Cambrai](/miejsca/cambrai), over a stretch of about 15 kilometres. On the right wing, right by Le Cateau, stood the 5th Division; in the centre, around Caudry, the 3rd Division; and on the left wing the 4th Division. The positions were chosen in haste and at night, and there was no time to prepare trenches. On the German side, units of IV Corps under General [Friedrich Sixt von Armin](/postacie/friedrich-sixt-von-armin), the cavalry corps of General [Georg von der Marwitz](/postacie/georg-von-der-marwitz) and other formations of the 1st Army entered the fight one after another. Kluck believed that the British were fleeing westwards, towards the Channel ports, and did not at once grasp what he was facing.
 
 At Mons the outcome had been decided by the rifle fire of the British infantry, but at Le Cateau the artillery played the most important part. The British placed many batteries in the open, only a few dozen to two hundred metres behind the infantry line, so that they could fire directly at the advancing enemy. The Germans, by contrast, used [indirect fire](https://pl.wikipedia.org/wiki/Ogień_pośredni) from concealed positions. The British guns, in full view, were smothered with shells and their crews suffered enormous losses. Even so, the gunners kept firing to the end, and [shrapnel](https://pl.wikipedia.org/wiki/Szrapnel) cut down the German infantry advancing across open ground.
 

@@ -2,10 +2,10 @@
 title: British occupy Tikrit
 summary: On the night of 5–6 November 1917 the Turks abandoned Tikrit on the Tigris, burning their stores. The British took the town but returned to Samarra days later.
 source: brytyjczycy-zajmuja-tikrit
-sourceHash: dc1142c0cf9928f2d5885902d0518a5a13fb567f
+sourceHash: ff64f1ba6c77ee7c28cba63d60f6a289557349f8
 ---
 
-On 6 November 1917 British and Indian troops occupied [Tikrit](https://pl.wikipedia.org/wiki/Tikrit) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 150 kilometres north of [Baghdad](/miejsca/bagdad). The Turks gave up the town without a fight, but only after spending the whole of the previous day [defending the trenches in front of it](/walki-pod-tikritem). The British chronology of the war records the occupation of Tikrit under 6 November, as do the German general Otto Liman von Sanders in his memoirs and the American monthly *Current History*.
+On 6 November 1917 British and Indian troops occupied [Tikrit](https://pl.wikipedia.org/wiki/Tikrit) on the [Tigris](/miejsca/tygrys), about 150 kilometres north of [Baghdad](/miejsca/bagdad). The Turks gave up the town without a fight, but only after spending the whole of the previous day [defending the trenches in front of it](/walki-pod-tikritem). The British chronology of the war records the occupation of Tikrit under 6 November, as do the German general Otto Liman von Sanders in his memoirs and the American monthly *Current History*.
 
 On the evening of 5 November General Vere Fane's 7th Division held the captured stretch of the Turkish line south-west of the town. The commander of I Corps, General Alexander Cobbe, ordered it to hold its position and to push out patrols boldly. After reorganising, at one in the morning of 6 November, strong patrols set out to occupy a line north of Tikrit, running west from the bank of the Tigris. They met very little resistance. In the morning it turned out that the main Turkish force had withdrawn far to the north during the night. The British entered the walled town, built on a cliff that drops to the river in a sheer wall more than 25 metres high. According to tradition, the sultan [Saladin](https://pl.wikipedia.org/wiki/Saladyn) was born in Tikrit in the 12th century.
 

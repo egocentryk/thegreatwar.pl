@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-2 grudnia 1916 roku (19 listopada według kalendarza juliańskiego) nowy przewodniczący Rady Ministrów, czyli premier Rosji, [Aleksandr Trepow](https://pl.wikipedia.org/wiki/Aleksandr_Triepow), po raz pierwszy wystąpił w [Dumie Państwowej](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) i odczytał program swojego rządu. Najgłośniejsze zdanie dotyczyło celów wojny: Rosja zawarła z sojusznikami porozumienie, które „w sposób najbardziej stanowczy” ustaliło jej prawo do cieśnin i [Konstantynopola](https://pl.wikipedia.org/wiki/Konstantynopol). Tajny układ z wiosny 1915 roku po raz pierwszy ogłoszono publicznie, i to, jak podkreślił premier, w porozumieniu z sojusznikami. W tym samym przemówieniu Trepow odpowiedział na [akt 5 listopada](/akt-5-listopada): zapowiedział odbudowę wolnej Polski w nierozerwalnym związku z Rosją.
+2 grudnia 1916 roku (19 listopada według kalendarza juliańskiego) nowy przewodniczący Rady Ministrów, czyli premier Rosji, [Aleksandr Trepow](https://pl.wikipedia.org/wiki/Aleksandr_Triepow), po raz pierwszy wystąpił w [Dumie Państwowej](https://pl.wikipedia.org/wiki/Duma_Państwowa_(Imperium_Rosyjskie)) i odczytał program swojego rządu. Najgłośniejsze zdanie dotyczyło celów wojny: Rosja zawarła z sojusznikami porozumienie, które „w sposób najbardziej stanowczy” ustaliło jej prawo do cieśnin i [Konstantynopola](/miejsca/konstantynopol). Tajny układ z wiosny 1915 roku po raz pierwszy ogłoszono publicznie, i to, jak podkreślił premier, w porozumieniu z sojusznikami. W tym samym przemówieniu Trepow odpowiedział na [akt 5 listopada](/akt-5-listopada): zapowiedział odbudowę wolnej Polski w nierozerwalnym związku z Rosją.
 
 ## Trzy podejścia do trybuny
 

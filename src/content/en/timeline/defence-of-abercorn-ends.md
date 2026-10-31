@@ -2,10 +2,10 @@
 title: Defence of Abercorn ends
 summary: On 9 September 1914 relief reached Abercorn in Northern Rhodesia. The reinforced garrison beat off another German attack and the raiders fell back.
 source: koniec-obrony-abercorn
-sourceHash: 08bb8c4bb7dc1de637afe037dae23c259527ecb6
+sourceHash: 96766f292763000fd2cd8a6c98fb2b198251e810
 ---
 
-On 9 September 1914 the defence of Abercorn, today's [Mbala](https://pl.wikipedia.org/wiki/Mbala), the northernmost British outpost of [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), came to an end. Since 5 September a handful of police [had been holding out here](/obrona-abercorn) against a force several hundred strong from [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia).
+On 9 September 1914 the defence of Abercorn, today's [Mbala](https://pl.wikipedia.org/wiki/Mbala), the northernmost British outpost of [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), came to an end. Since 5 September a handful of police [had been holding out here](/obrona-abercorn) against a force several hundred strong from [German East Africa](/bitwy/kampania-wschodnioafrykanska).
 
 That day the long-awaited relief reached Abercorn: over a hundred soldiers of the Northern Rhodesia Police under Major Henry Stennett, who had arrived by forced march from the interior of the colony. The garrison grew to about 230 men with three machine guns. When the Germans attacked again, they were driven off. According to some sources their force was commanded by a military doctor, Oberarzt Westhofen.
 

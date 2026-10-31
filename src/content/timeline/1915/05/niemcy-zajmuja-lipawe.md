@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 7 maja 1915 roku niemieckie wojska weszły do [Lipawy](https://pl.wikipedia.org/wiki/Lipawa), po niemiecku Libau, rosyjskiego portu wojennego na wybrzeżu [Kurlandii](https://pl.wikipedia.org/wiki/Kurlandia). Miasto zdobył niewielki oddział, wspierany z morza przez krążowniki niemieckiej floty bałtyckiej. Rosyjski garnizon nie podjął poważnej obrony. Wycofał się na północ, wysadzając po drodze forty, składy amunicji i mosty. Pełną kontrolę nad miastem i jego okolicami Niemcy objęli rankiem 8 maja i tego dnia niemiecki komunikat wojenny ogłosił zdobycie Lipawy. Według łotewskich opracowań 7 maja niemiecka kawaleria zajęła też położoną w głębi lądu [Kuldygę](https://pl.wikipedia.org/wiki/Kuldyga).
+Wieczorem 7 maja 1915 roku niemieckie wojska weszły do [Lipawy](https://pl.wikipedia.org/wiki/Lipawa), po niemiecku Libau, rosyjskiego portu wojennego na wybrzeżu [Kurlandii](/miejsca/kurlandia). Miasto zdobył niewielki oddział, wspierany z morza przez krążowniki niemieckiej floty bałtyckiej. Rosyjski garnizon nie podjął poważnej obrony. Wycofał się na północ, wysadzając po drodze forty, składy amunicji i mosty. Pełną kontrolę nad miastem i jego okolicami Niemcy objęli rankiem 8 maja i tego dnia niemiecki komunikat wojenny ogłosił zdobycie Lipawy. Według łotewskich opracowań 7 maja niemiecka kawaleria zajęła też położoną w głębi lądu [Kuldygę](https://pl.wikipedia.org/wiki/Kuldyga).
 
 ## Wypad na Kurlandię
 

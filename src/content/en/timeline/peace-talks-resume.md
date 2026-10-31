@@ -2,10 +2,10 @@
 title: Peace talks resume
 summary: On 28 February 1918 a Soviet delegation under Sokolnikov reached Brest to sign peace on German terms. The Germans refused to halt their offensive.
 source: wznowienie-rokowan-pokojowych
-sourceHash: 129dc1b710dd03dbbc3e5ae05702ee148f2c93c2
+sourceHash: 180c52bc0018dd9fe6cfcd0e2a0d9b7ab00bfa6c
 ---
 
-On the evening of 28 February 1918 a new delegation of Soviet Russia arrived at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć). As it telegraphed to Petrograd itself, it reached its destination at 8 p.m., although German radio reported that it had arrived in the afternoon. This time it had not come to negotiate, but to sign a peace whose terms the Germans had dictated in an ultimatum. This finale was preceded by five dramatic days in Petrograd. A British chronology of the war records separately the German ultimatum of 23 February, its acceptance by the Bolsheviks on 24 February and the resumption of talks on 28 February. We describe them here together.
+On the evening of 28 February 1918 a new delegation of Soviet Russia arrived at [Brest-Litovsk](/miejsca/brzesc). As it telegraphed to Petrograd itself, it reached its destination at 8 p.m., although German radio reported that it had arrived in the afternoon. This time it had not come to negotiate, but to sign a peace whose terms the Germans had dictated in an ultimatum. This finale was preceded by five dramatic days in Petrograd. A British chronology of the war records separately the German ultimatum of 23 February, its acceptance by the Bolsheviks on 24 February and the resumption of talks on 28 February. We describe them here together.
 
 ## The ultimatum
 

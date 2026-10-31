@@ -2,14 +2,14 @@
 title: Pro-Austrian Albanians occupy Berat
 summary: In mid-February 1916 Essad Pasha's men gave up Berat. The town was taken by Albanian units allied with the Austrians, and soon the Bulgarians appeared there.
 source: proaustriaccy-albanczycy-zajmuja-berat
-sourceHash: ff43993f9ca0750d7b9889c57c9d05bb677682b1
+sourceHash: 912e937b17232dfaabcaabc66b2faef80de4a529
 ---
 
 The British chronology of the war records under 17 February 1916 the occupation of [Berat](https://pl.wikipedia.org/wiki/Berat) by Austro-Hungarian troops. The Austrian official history presents it differently. The regular Austro-Hungarian units were then still far to the north, before Durrës, and it was Albanians allied with them who reached Berat, overcoming the weak resistance of the supporters of [Essad Pasha Toptani](/postacie/esad-pasza-toptani). None of the available sources gives the exact day. All that is known is that Essad's men left the town before 13 February and that, according to the Austrian official history, Albanian units friendly to the Austrians were in Berat by 23 February at the latest.
 
 ## The collapse of Essad's power
 
-Berat, on the [Osum](https://pl.wikipedia.org/wiki/Osum) river, a former centre of Ottoman power in south-central Albania, lay on the road from the mountains towards [Vlorë](https://pl.wikipedia.org/wiki/Wlora), where the Italians [had been since December 1914](/wlosi-laduja-we-wlorze). Essad Pasha, who had [ruled in Durrës since the autumn of 1914](/esad-pasza-tworzy-rzad-w-durres), kept mercenaries here. His power, however, rested mainly on the support of the Serbs and the Italians. When in January and February 1916 the Serbian army sailed away from Albania and the Austrians were approaching from the north, it began to disintegrate rapidly.
+Berat, on the [Osum](https://pl.wikipedia.org/wiki/Osum) river, a former centre of Ottoman power in south-central Albania, lay on the road from the mountains towards [Vlorë](/miejsca/wlora), where the Italians [had been since December 1914](/wlosi-laduja-we-wlorze). Essad Pasha, who had [ruled in Durrës since the autumn of 1914](/esad-pasza-tworzy-rzad-w-durres), kept mercenaries here. His power, however, rested mainly on the support of the Serbs and the Italians. When in January and February 1916 the Serbian army sailed away from Albania and the Austrians were approaching from the north, it began to disintegrate rapidly.
 
 On 13 February the Italian consul in Durrës reported to Rome that Essad's mercenaries, most of them from districts already occupied by the Austrians, had left Berat and refused to withdraw to Vlorë. Essad admitted that he could now rely only on two or three hundred men personally devoted to him. According to the consul, the Austrians were supported by some six thousand Albanian volunteers, who were received sympathetically by the population. The governor of [Tirana](https://pl.wikipedia.org/wiki/Tirana), occupied by the Austrians, became Refik Bey Toptani, a bitter enemy of Essad and of the Italians.
 

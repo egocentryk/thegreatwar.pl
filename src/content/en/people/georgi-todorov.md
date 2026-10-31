@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Bolhrad (Bessarabia, now Ukraine)
 deathPlace: Sofia
 source: georgi-todorow
-sourceHash: 6e654599ded2b4aa04ec18cc03fd8e0f1afefdd9
+sourceHash: 5ead16c934f75cdc55d5f5bb79a566026a4bee32
 ---
 
 Georgi Todorov belonged to the generation of Bulgarian generals who as young volunteers had fought to free their country from Turkish rule and then led its army in three successive wars. In autumn 1915 he commanded the Second Army, which within a few weeks occupied Serbian Macedonia, cut the railway from Salonika and prevented the Serbs from joining up with the Entente troops. After this success he held the front against Sarrail's armies for almost three years. As fate would have it, in the critical days of September 1918, in the absence of the sick commander-in-chief, it was he who stood at the head of the Bulgarian army when the front broke at Dobro Pole. His signature was on the letter in which Bulgaria asked for a suspension of hostilities.
@@ -29,7 +29,7 @@ When the French of General [Maurice Sarrail](/postacie/maurice-sarrail) arrived 
 
 ## 1916–1917: the Struma and Dobruja
 
-Through the first half of 1916 the front in Macedonia hardly moved. Todorov, with his headquarters at Sveti Vrach, today's Sandanski, had his soldiers lay out a town park there that still exists. At the end of May Bulgarian and German troops [occupied the Greek Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) in the Struma valley. In August, when the First Army attacked on the western wing [at Florina](/bitwy/bitwa-pod-florina), the Second Army marched into Eastern Macedonia, which Bulgaria had lost in 1913. The Greeks, following orders from Athens, offered no resistance. The Bulgarians reached the Struma, and in September, after the [surrender of the Greek IV Corps](/kapitulacja-greckiego-iv-korpusu-w-kawali), entered [Kavala](https://pl.wikipedia.org/wiki/Kawala), a port Bulgaria had coveted since the Balkan Wars.
+Through the first half of 1916 the front in Macedonia hardly moved. Todorov, with his headquarters at Sveti Vrach, today's Sandanski, had his soldiers lay out a town park there that still exists. At the end of May Bulgarian and German troops [occupied the Greek Fort Rupel](/bulgarzy-i-niemcy-zajmuja-fort-rupel) in the Struma valley. In August, when the First Army attacked on the western wing [at Florina](/bitwy/bitwa-pod-florina), the Second Army marched into Eastern Macedonia, which Bulgaria had lost in 1913. The Greeks, following orders from Athens, offered no resistance. The Bulgarians reached the Struma, and in September, after the [surrender of the Greek IV Corps](/kapitulacja-greckiego-iv-korpusu-w-kawali), entered [Kavala](/miejsca/kawala), a port Bulgaria had coveted since the Balkan Wars.
 
 Todorov commanded the Second Army until the end of 1916. In 1917 he took over the Third Army, which stood in the Dobruja, conquered from the Romanians the year before. Bulgarian sources differ on the dates of this appointment. The front there was already quiet, because [in January 1917](/koniec-walk-w-dobrudzy) the fighting in northern Dobruja had died down. In August 1917 Todorov was promoted to general of infantry.
 

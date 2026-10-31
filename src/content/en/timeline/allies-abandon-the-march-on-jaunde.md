@@ -2,10 +2,10 @@
 title: Allies abandon the march on Jaunde
 summary: On 7 June 1915 Gen. Dobell, still without news of Aymerich's columns, halted the march on Jaunde. Col. Mayer's troops were to fall back to the Ndupe river.
 source: alianci-rezygnuja-z-marszu-na-jaunde
-sourceHash: 6dd24a1a61c2c6c4de7cdd0de955ad888f51ce4a
+sourceHash: 777e56ffbfdb1a057b1b38921971610c48b9455f
 ---
 
-On 7 June 1915 General Charles Dobell, commander of the Anglo-French expedition in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), decided to break off the advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), the seat of the colony's German administration. Colonel Mayer's column, which since the beginning of May had been [forcing its way from the Kele river into the forest](/pierwszy-marsz-na-jaunde), was to halt and fall back to the Ndupe river. He took the decision in [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) after no news arrived from Brazzaville about the French troops of General Joseph Aymerich, who were to strike at Jaunde from the south-east.
+On 7 June 1915 General Charles Dobell, commander of the Anglo-French expedition in [German Kamerun](/miejsca/kamerun), decided to break off the advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), the seat of the colony's German administration. Colonel Mayer's column, which since the beginning of May had been [forcing its way from the Kele river into the forest](/pierwszy-marsz-na-jaunde), was to halt and fall back to the Ndupe river. He took the decision in [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) after no news arrived from Brazzaville about the French troops of General Joseph Aymerich, who were to strike at Jaunde from the south-east.
 
 ## Nineteen days in the forest
 

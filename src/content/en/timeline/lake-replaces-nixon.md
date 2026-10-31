@@ -2,12 +2,12 @@
 title: Lake replaces Nixon
 summary: On 19 January 1916 Gen. Percy Lake took over command in Mesopotamia at Basra. The sick Gen. Nixon sailed away; the relief of Kut was stuck in the Tigris mud.
 source: lake-zastepuje-nixona
-sourceHash: fe4f49d133b410a8a25c7c558078c58d888acc10
+sourceHash: 1e7c40b76f0cd7030e731a443fb0a8359eb3550f
 ---
 
-On 19 January 1916 at [Basra](https://pl.wikipedia.org/wiki/Basra) General Sir John Nixon handed over command of the British and Indian forces in [Mesopotamia](/bitwy/kampania-mezopotamska) to Lieutenant-General Sir Percy Lake and sailed from Basra. This date is given by the British chronology of the war and the official history (Moberly). The 1917 report of the Mesopotamia Commission speaks of 18 January. Lake, until then chief of staff of the army in India, [had been appointed as successor](/percy-lake-mianowany-dowodca-w-mezopotamii) a few days earlier, when Nixon, seriously ill, had himself asked to be relieved.
+On 19 January 1916 at [Basra](/miejsca/basra) General Sir John Nixon handed over command of the British and Indian forces in [Mesopotamia](/bitwy/kampania-mezopotamska) to Lieutenant-General Sir Percy Lake and sailed from Basra. This date is given by the British chronology of the war and the official history (Moberly). The 1917 report of the Mesopotamia Commission speaks of 18 January. Lake, until then chief of staff of the army in India, [had been appointed as successor](/percy-lake-mianowany-dowodca-w-mezopotamii) a few days earlier, when Nixon, seriously ill, had himself asked to be relieved.
 
-Things were bad at the front. General Fenton Aylmer's Tigris Corps, advancing to the relief of Townshend's division in [Kut](https://pl.wikipedia.org/wiki/Al-Kut), stood before the Turkish trenches in the Hanna defile, between the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) and the marshes. It had been raining for several days. The swollen Wadi stream had swept away the bridges, the bridge over the Tigris had broken up again, and the ground had turned into a quagmire in which pack animals could barely move. The last instruction Nixon sent Aylmer, on 18 January, said that after reaching Kut the two corps were to hold the town together, since abandoning it along with its guns and stores would be a blow to prestige. Aylmer concluded that he had no choice but to attack Hanna as soon as possible.
+Things were bad at the front. General Fenton Aylmer's Tigris Corps, advancing to the relief of Townshend's division in [Kut](/miejsca/al-kut), stood before the Turkish trenches in the Hanna defile, between the [Tigris](/miejsca/tygrys) and the marshes. It had been raining for several days. The swollen Wadi stream had swept away the bridges, the bridge over the Tigris had broken up again, and the ground had turned into a quagmire in which pack animals could barely move. The last instruction Nixon sent Aylmer, on 18 January, said that after reaching Kut the two corps were to hold the town together, since abandoning it along with its guns and stores would be a blow to prestige. Aylmer concluded that he had no choice but to attack Hanna as soon as possible.
 
 ## Nixon's departure
 

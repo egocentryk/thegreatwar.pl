@@ -2,10 +2,10 @@
 title: Second Battle of Artois ends
 summary: On 18 June 1915 Foch halted the offensive near Arras. The last attack on Vimy Ridge failed, and the French had lost more than 100,000 men in the battle.
 source: koniec-drugiej-bitwy-w-artois
-sourceHash: d30d76b790210ab5db1cab24e830dcd76af7576d
+sourceHash: 72612371bf58a31ddd3371473ce6d397f4f80c61
 ---
 
-On 18 June 1915, after a failed attack on [Vimy](https://pl.wikipedia.org/wiki/Vimy) Ridge, General [Ferdinand Foch](/postacie/ferdinand-foch) halted the offensive of the French Tenth Army north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)). So ended the Second Battle of [Artois](https://pl.wikipedia.org/wiki/Artois), which had [begun on 9 May](/poczatek-drugiej-bitwy-w-artois) with a break through the German lines and the Moroccan Division reaching the ridge. A second great attack, prepared throughout June, was meant to repeat that success and this time hold the ground won. After three days of fighting the French stood where they had been before it.
+On 18 June 1915, after a failed attack on [Vimy](https://pl.wikipedia.org/wiki/Vimy) Ridge, General [Ferdinand Foch](/postacie/ferdinand-foch) halted the offensive of the French Tenth Army north of [Arras](/miejsca/arras). So ended the Second Battle of [Artois](https://pl.wikipedia.org/wiki/Artois), which had [begun on 9 May](/poczatek-drugiej-bitwy-w-artois) with a break through the German lines and the Moroccan Division reaching the ridge. A second great attack, prepared throughout June, was meant to repeat that success and this time hold the ground won. After three days of fighting the French stood where they had been before it.
 
 ## Preparations
 

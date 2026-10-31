@@ -2,7 +2,7 @@
 title: Battle of Armentières begins
 summary: On 13 October 1914 the British III Corps attacked the Germans at Meteren in Flanders. After a day's fighting in rain it took the village, losing over 700 men.
 source: poczatek-bitwy-pod-armentieres
-sourceHash: fdd37c90951df29a8cad462a83fedd4beefc56d5
+sourceHash: ed0225938efd505fc8ebe34214fd7a15967994e2
 brief:
   - "On 13 October 1914 General William Pulteney's British III Corps attacked from Hazebrouck and ran into entrenched Germans at Meteren. British nomenclature begins the Battle of Armentières with this engagement."
   - "III Corps was the last corps of the British Expeditionary Force to move to Flanders from the Aisne. With Allenby's cavalry it was to advance eastwards and pass to the north of Lille."
@@ -10,7 +10,7 @@ brief:
   - "Among the seriously wounded was Lieutenant Bernard Montgomery. That night the Germans withdrew behind the Lys, and the British entered Bailleul on 14 October and Armentières three days later, where the advance soon halted."
 ---
 
-On 13 October 1914 the British III Corps of General William Pulteney went over to the attack from [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) in French Flanders. At the village of [Méteren](https://pl.wikipedia.org/wiki/Méteren) it ran into entrenched Germans and only took their position after dark, after a whole day of fighting in rain and fog. British nomenclature begins the Battle of Armentières with this engagement, in which III Corps fought for the next three weeks in the valley of the river [Lys](https://pl.wikipedia.org/wiki/Leie).
+On 13 October 1914 the British III Corps of General William Pulteney went over to the attack from [Hazebrouck](/miejsca/hazebrouck) in French Flanders. At the village of [Méteren](https://pl.wikipedia.org/wiki/Méteren) it ran into entrenched Germans and only took their position after dark, after a whole day of fighting in rain and fog. British nomenclature begins the Battle of Armentières with this engagement, in which III Corps fought for the next three weeks in the valley of the river [Lys](/miejsca/leie).
 
 ## The road to Hazebrouck
 

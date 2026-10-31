@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod 26 grudnia 1914 roku, że włoski oddział wylądował w albańskim porcie [Wlora](https://pl.wikipedia.org/wiki/Wlora), a rząd w Rzymie zawiadomił Austro-Węgry o tymczasowej okupacji miasta. Według źródeł włoskich pierwsi marynarze zeszli na ląd już 25 grudnia, a kilka dni później dołączył do nich pułk [bersalierów](https://pl.wikipedia.org/wiki/Bersalierzy) z baterią artylerii górskiej. Włosi nie napotkali oporu.
+Brytyjska chronologia wojny odnotowuje pod 26 grudnia 1914 roku, że włoski oddział wylądował w albańskim porcie [Wlora](/miejsca/wlora), a rząd w Rzymie zawiadomił Austro-Węgry o tymczasowej okupacji miasta. Według źródeł włoskich pierwsi marynarze zeszli na ląd już 25 grudnia, a kilka dni później dołączył do nich pułk [bersalierów](https://pl.wikipedia.org/wiki/Bersalierzy) z baterią artylerii górskiej. Włosi nie napotkali oporu.
 
 ## Klucz do Adriatyku
 

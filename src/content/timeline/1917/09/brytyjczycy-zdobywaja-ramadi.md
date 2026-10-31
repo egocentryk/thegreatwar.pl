@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-28 września 1917 roku brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga uderzyła na tureckie pozycje pod [Ar-Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi) nad [Eufratem](https://pl.wikipedia.org/wiki/Eufrat). Do wieczora piechota zajęła wzgórza na południe od miasta, a kawaleria zamknęła Turkom drogę odwrotu na zachód. Rano 29 września turecki garnizon złożył broń. Brytyjska chronologia wojny nazywa to starcie „akcją pod Ramadi” i datuje je na 28–29 września. Dwa i pół miesiąca wcześniej, [w lipcowym upale](/atak-na-ramadi), mniejsza kolumna podpułkownika Haldane'a odbiła się od tych samych okopów, tracąc więcej ludzi przez udar cieplny niż od ognia nieprzyjaciela.
+28 września 1917 roku brytyjsko-indyjska 15 Dywizja generała Harry'ego Brookinga uderzyła na tureckie pozycje pod [Ar-Ramadi](https://pl.wikipedia.org/wiki/Ar-Ramadi) nad [Eufratem](/miejsca/eufrat). Do wieczora piechota zajęła wzgórza na południe od miasta, a kawaleria zamknęła Turkom drogę odwrotu na zachód. Rano 29 września turecki garnizon złożył broń. Brytyjska chronologia wojny nazywa to starcie „akcją pod Ramadi” i datuje je na 28–29 września. Dwa i pół miesiąca wcześniej, [w lipcowym upale](/atak-na-ramadi), mniejsza kolumna podpułkownika Haldane'a odbiła się od tych samych okopów, tracąc więcej ludzi przez udar cieplny niż od ognia nieprzyjaciela.
 
 ## Dlaczego Ramadi
 

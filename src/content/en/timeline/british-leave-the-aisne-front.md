@@ -2,10 +2,10 @@
 title: The British leave the Aisne front
 summary: On 3 October 1914 the British Expeditionary Force began secretly leaving the Aisne front. It was to move north, closer to the Channel ports.
 source: bef-opuszcza-aisne
-sourceHash: 811308989fce362d7e23becec7e308ccd87977f8
+sourceHash: 48db0f1f32304cf151dff8a7285b577904aa2477
 ---
 
-On 3 October 1914, according to the British chronology of the war, the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) began to leave its positions on the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) and move north. This date was given as the start of the operation by the force's commander, Field Marshal [John French](/postacie/john-french), in his dispatch. The British official history puts it slightly earlier: the first units withdrew from the front line as early as the night of 1–2 October.
+On 3 October 1914, according to the British chronology of the war, the [British Expeditionary Force](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) began to leave its positions on the [Aisne](/miejsca/aisne) and move north. This date was given as the start of the operation by the force's commander, Field Marshal [John French](/postacie/john-french), in his dispatch. The British official history puts it slightly earlier: the first units withdrew from the front line as early as the night of 1–2 October.
 
 ## Back to the left wing
 

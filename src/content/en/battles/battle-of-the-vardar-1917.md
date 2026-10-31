@@ -9,10 +9,10 @@ sides:
     commanders: [Friedrich von Scholtz, Arnold von Winckler, Dimitar Geshov]
 result: Central Powers victory. The Allies took only a few forward trenches and hill 1824, and the whole spring offensive cost them about 14,000 men, far more than the defenders.
 source: bitwa-nad-wardarem-1917
-sourceHash: 23723a7beb9bc62e9fcd98cf04dbe8404de3d523
+sourceHash: bd028637167ca4e664359379119b026c047ded2b
 ---
 
-The Battle of the Vardar is the name under which the British chronology of the war recorded the main part of General [Maurice Sarrail](/postacie/maurice-sarrail)'s spring offensive in Macedonia. The Allied commander-in-chief in the Balkans wanted to break the Bulgarian-German front west of the [Vardar](https://pl.wikipedia.org/wiki/Wardar): the French, Italians and Russians were to strike in the bend of the [Crna](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)), the Serbs in the mountains east of the bend, and subsidiary attacks were to pin the enemy down at [Bitola](https://pl.wikipedia.org/wiki/Bitola) and on the Vardar itself. The bombardment began on 5 May and the infantry went in on 9 May. After the first day it was clear that the offensive had failed. Further attacks on 11 and 17 May changed nothing, the Serbs demanded that the fighting be stopped, and on 21 May Sarrail gave that order.
+The Battle of the Vardar is the name under which the British chronology of the war recorded the main part of General [Maurice Sarrail](/postacie/maurice-sarrail)'s spring offensive in Macedonia. The Allied commander-in-chief in the Balkans wanted to break the Bulgarian-German front west of the [Vardar](/miejsca/wardar): the French, Italians and Russians were to strike in the bend of the [Crna](/miejsca/crna-reka), the Serbs in the mountains east of the bend, and subsidiary attacks were to pin the enemy down at [Bitola](/miejsca/bitola) and on the Vardar itself. The bombardment began on 5 May and the infantry went in on 9 May. After the first day it was clear that the offensive had failed. Further attacks on 11 and 17 May changed nothing, the Serbs demanded that the fighting be stopped, and on 21 May Sarrail gave that order.
 
 ## Name and dates
 

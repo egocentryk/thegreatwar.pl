@@ -2,10 +2,10 @@
 title: Sinking of HMS Hawke
 summary: On 15 October 1914 Otto Weddigen's U-9 sank the British cruiser Hawke in the North Sea. More than 520 sailors were killed and about 70 survived.
 source: zatoniecie-hms-hawke
-sourceHash: 7b1bbba1bb1f4bb5865aa6fb3e23c747802a6789
+sourceHash: 9f2a9a4b758c35ab95c4fb46115bcb67151b5c37
 ---
 
-Before noon on 15 October 1914 the German submarine [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) torpedoed the British cruiser [*Hawke*](https://pl.wikipedia.org/wiki/HMS_Hawke_(1891)) in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), off the coast of Scotland. The ship capsized and sank within a few minutes. More than 520 officers and men were killed. U-9 was commanded by Kapitänleutnant [Otto Weddigen](https://pl.wikipedia.org/wiki/Otto_Weddigen), who three weeks earlier had [sunk the cruisers *Aboukir*, *Hogue* and *Cressy*](/zatoniecie-aboukir-hogue-i-cressy).
+Before noon on 15 October 1914 the German submarine [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) torpedoed the British cruiser [*Hawke*](https://pl.wikipedia.org/wiki/HMS_Hawke_(1891)) in the [North Sea](/miejsca/morze-polnocne), off the coast of Scotland. The ship capsized and sank within a few minutes. More than 520 officers and men were killed. U-9 was commanded by Kapitänleutnant [Otto Weddigen](https://pl.wikipedia.org/wiki/Otto_Weddigen), who three weeks earlier had [sunk the cruisers *Aboukir*, *Hogue* and *Cressy*](/zatoniecie-aboukir-hogue-i-cressy).
 
 ## An old cruiser on patrol
 

@@ -2,10 +2,10 @@
 title: Allenby enters Jerusalem
 summary: On 11 December 1917 Allenby entered Jerusalem on foot through the Jaffa Gate and proclaimed martial law, promising to protect the holy places of three faiths.
 source: allenby-wkracza-do-jerozolimy
-sourceHash: ebd704ab3d4e1c686cba8ab465f851664b515e3a
+sourceHash: ec889d1c59ddcb8e5e190450790cb14806560acb
 ---
 
-At noon on 11 December 1917 General Sir [Edmund Allenby](/postacie/edmund-allenby), commander of the Egyptian Expeditionary Force, made his formal entry into [Jerusalem](https://pl.wikipedia.org/wiki/Jerozolima). In front of the Jaffa Gate he got out of his car and entered the Old City on foot. From the steps of the citadel his proclamation was read out in seven languages: the city was placed under martial law, and all the holy places of Christians, Jews and Muslims would be protected according to existing customs. Two days earlier, after [fighting on the western approaches](/bitwy/zdobycie-jerozolimy), the Turks had abandoned Jerusalem and the [mayor had surrendered it](/kapitulacja-jerozolimy) to the British. The whole ceremony was brief and carefully thought out. It was meant to show the world that the British were coming to the Holy City not as conquerors but as its guardians.
+At noon on 11 December 1917 General Sir [Edmund Allenby](/postacie/edmund-allenby), commander of the Egyptian Expeditionary Force, made his formal entry into [Jerusalem](/miejsca/jerozolima). In front of the Jaffa Gate he got out of his car and entered the Old City on foot. From the steps of the citadel his proclamation was read out in seven languages: the city was placed under martial law, and all the holy places of Christians, Jews and Muslims would be protected according to existing customs. Two days earlier, after [fighting on the western approaches](/bitwy/zdobycie-jerozolimy), the Turks had abandoned Jerusalem and the [mayor had surrendered it](/kapitulacja-jerozolimy) to the British. The whole ceremony was brief and carefully thought out. It was meant to show the world that the British were coming to the Holy City not as conquerors but as its guardians.
 
 ## Preparations
 

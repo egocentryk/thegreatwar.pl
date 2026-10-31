@@ -2,7 +2,7 @@
 title: Battle of Arras (1917) begins
 summary: On Easter Monday, 9 April 1917, the British and Canadians attacked at Arras. In one day they advanced 5 km and took thousands of prisoners.
 source: poczatek-bitwy-pod-arras-1917
-sourceHash: dbcdcd463decbb3476aad1aaf6df8c7f0f747edc
+sourceHash: 6d36581ca93482ac6fe8dc0ae14c3c97d7b6eab2
 brief:
   - "On Easter Monday, 9 April 1917, British and Canadian infantry attacked at Arras. The offensive was meant to draw in German reserves ahead of the French attack on the Aisne."
   - "Nearly 2,800 guns and howitzers were brought up, almost three times as many as the Germans had. Many soldiers waited for the signal in the cellars and chalk quarries beneath Arras."
@@ -11,7 +11,7 @@ brief:
   - "The British official history counted the day \"among the great days of the war\", but there was no breakthrough. In the following days the British advanced ever more slowly and suffered heavier losses."
 ---
 
-On 9 April 1917, [Easter Monday](https://pl.wikipedia.org/wiki/Poniedziałek_Wielkanocny), at 5.30 a.m., thousands of guns opened fire on a front more than twenty kilometres long around [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) in northern France, and the British and Canadian infantry went over the top. So began the great British spring offensive, which was meant to draw in the German reserves ahead of the French attack on the Aisne. The first day was one of the British Army's best days of the whole war. The British official history writes that Easter Monday 1917 "must be counted among the great days of the war": it was the most powerful and at the same time the most successful British attack yet carried out. North of the [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) river British troops advanced more than five kilometres, the furthest in a single day since the start of trench warfare, and the Canadians took almost the whole of Vimy Ridge.
+On 9 April 1917, [Easter Monday](https://pl.wikipedia.org/wiki/Poniedziałek_Wielkanocny), at 5.30 a.m., thousands of guns opened fire on a front more than twenty kilometres long around [Arras](/miejsca/arras) in northern France, and the British and Canadian infantry went over the top. So began the great British spring offensive, which was meant to draw in the German reserves ahead of the French attack on the Aisne. The first day was one of the British Army's best days of the whole war. The British official history writes that Easter Monday 1917 "must be counted among the great days of the war": it was the most powerful and at the same time the most successful British attack yet carried out. North of the [Scarpe](https://pl.wikipedia.org/wiki/Scarpe) river British troops advanced more than five kilometres, the furthest in a single day since the start of trench warfare, and the Canadians took almost the whole of Vimy Ridge.
 
 ## Before dawn
 
@@ -29,7 +29,7 @@ North of the Scarpe General [Charles Fergusson](https://pl.wikipedia.org/wiki/Ch
 
 South of the river VI Corps took [Tilloy](https://pl.wikipedia.org/wiki/Tilloy-lès-Mofflaines), where dozens of Germans came out with their hands up, and crossed Observation Ridge. When two battalions of the 12th Division came down from it into Battery Valley, a scene took place which, as the official history writes, was rare on this front: the whole valley was dotted with German batteries, some abandoned, others fleeing, and still others firing over open sights at the infantry from a few hundred metres. The British took them in rushes, covered by machine-gun fire. Further progress, however, was halted by fire from the defences at Feuchy Chapel on the road to Cambrai. Only the 15th (Scottish) Division took the Wancourt–Feuchy position on its sector, at about 5.30 p.m., with the help of the only tank that reached it. Most of the Third Army's 40 tanks stuck in the mud or were hit. On the right wing VII Corps, which attacked in succession from the left, went through the defences of Neuville-Vitasse and Telegraph Hill, but the two divisions facing the Hindenburg Line itself were halted by uncut wire.
 
-At the same time, in the north, the four divisions of the Canadian Corps, fighting together for the first time, stormed Vimy Ridge. By evening they had taken almost the whole ridge except Hill 145 and the hill at its northern end, captured more than 3,400 prisoners and opened up a view over the [Douai](https://pl.wikipedia.org/wiki/Douai) plain.
+At the same time, in the north, the four divisions of the Canadian Corps, fighting together for the first time, stormed Vimy Ridge. By evening they had taken almost the whole ridge except Hill 145 and the hill at its northern end, captured more than 3,400 prisoners and opened up a view over the [Douai](/miejsca/douai) plain.
 
 ## A lost opportunity
 

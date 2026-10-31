@@ -2,10 +2,10 @@
 title: Collapse of the Kornilov affair
 summary: On 13 September 1917 General Krymov shot himself in Petrograd; next day General Alekseyev arrested Kornilov in Mogilev. The revolt collapsed without a fight.
 source: upadek-puczu-kornilowa
-sourceHash: b62e591508ee7a94f36aa5c1bc34eede05dadd79
+sourceHash: 2246dc442636e9ebc851008d08486069723bd311
 ---
 
-On 14 September 1917 (1 September in the Julian calendar), in [Mogilev](https://pl.wikipedia.org/wiki/Mohylew), General [Mikhail Alekseyev](/postacie/michail-aleksiejew), the new chief of staff to the commander-in-chief, formally arrested General [Lavr Kornilov](/postacie/lawr-kornilow) and his closest associates. The day before, in Petrograd, General Aleksandr Krymov, commander of the troops sent against the capital, had shot himself. The revolt that [a week earlier](/pucz-kornilowa) had shaken Russia ended without a single shot being fired. The British chronology of the war records the collapse of the revolt under 13 September and Kornilov's surrender under 14 September.
+On 14 September 1917 (1 September in the Julian calendar), in [Mogilev](/miejsca/mohylew), General [Mikhail Alekseyev](/postacie/michail-aleksiejew), the new chief of staff to the commander-in-chief, formally arrested General [Lavr Kornilov](/postacie/lawr-kornilow) and his closest associates. The day before, in Petrograd, General Aleksandr Krymov, commander of the troops sent against the capital, had shot himself. The revolt that [a week earlier](/pucz-kornilowa) had shaken Russia ended without a single shot being fired. The British chronology of the war records the collapse of the revolt under 13 September and Kornilov's surrender under 14 September.
 
 ## The cavalry that melted away
 

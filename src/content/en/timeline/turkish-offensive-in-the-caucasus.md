@@ -2,10 +2,10 @@
 title: Turkish offensive in the Caucasus
 summary: The British chronology dates the start of the Turkish offensive in the Caucasus to 17 December 1914. In fact Enver Pasha was then finishing his preparations.
 source: turecka-ofensywa-na-kaukazie
-sourceHash: 55b81601c92b2436496cdec743755f5dab5e650e
+sourceHash: 2f7686b72200a81100005497f2420ccc1e29bc45
 ---
 
-The British chronology of the war states under 17 December 1914 that a Turkish offensive began in the Caucasus and that the Turks retook Köprüköy, a village on the [Aras](https://pl.wikipedia.org/wiki/Araks) on the road to [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). Studies do not confirm this. Köprüköy had remained in Ottoman hands since mid-November, when a counter-attack by the Third Army [pushed the Russians back](/turcy-odbijaja-koprukoy) to the area of the village of Azap, and the [report of the village being retaken by the Russians](/rzekome-ponowne-zajecie-koprukoy) on 22 November finds no confirmation in the sources. In December there was therefore nothing to retake. The great Turkish offensive, which ended in disaster at Sarikamish, did not begin until 22 December.
+The British chronology of the war states under 17 December 1914 that a Turkish offensive began in the Caucasus and that the Turks retook Köprüköy, a village on the [Aras](https://pl.wikipedia.org/wiki/Araks) on the road to [Erzurum](/miejsca/erzurum). Studies do not confirm this. Köprüköy had remained in Ottoman hands since mid-November, when a counter-attack by the Third Army [pushed the Russians back](/turcy-odbijaja-koprukoy) to the area of the village of Azap, and the [report of the village being retaken by the Russians](/rzekome-ponowne-zajecie-koprukoy) on 22 November finds no confirmation in the sources. In December there was therefore nothing to retake. The great Turkish offensive, which ended in disaster at Sarikamish, did not begin until 22 December.
 
 ## Enver at the front
 

@@ -2,7 +2,7 @@
 title: First day on the Somme
 summary: On 1 July 1916 the British and French attacked on the Somme. The French and the British right succeeded, but the British Army lost 57,000 men.
 source: pierwszy-dzien-bitwy-nad-somma
-sourceHash: 5cb85ba409e190abcfab51bb59d5433a41efc3c0
+sourceHash: c6cbccac3cee658d20d51bdec348be036a9bc381
 brief:
   - "At 7.30 a.m. on 1 July 1916 British infantry and the French Sixth Army attacked on the Somme. The great offensive agreed at Chantilly was above all meant to relieve the French at Verdun."
   - "The attack was preceded by seven days of bombardment, which could not reach the deep German dug-outs. The defenders got up in time and mowed down with machine guns the waves of infantry advancing at a steady walk."
@@ -11,7 +11,7 @@ brief:
   - "The British Army lost 57,470 men that day, including 19,240 killed and died of wounds, the bloodiest day in its history. For the British, 1 July 1916 became a symbol of the whole war."
 ---
 
-On Saturday 1 July 1916, at 7.30 a.m., British infantry left their trenches on a front more than 20 kilometres long, from [Gommecourt](https://pl.wikipedia.org/wiki/Gommecourt_(Pas-de-Calais)) in the north to [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) on the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). Beside them, on both banks of the river, the French Sixth Army moved off. So began the great offensive that the Allies had agreed [at Chantilly in December 1915](/druga-konferencja-w-chantilly) and which, after the [German attack at Verdun](/poczatek-bitwy-pod-verdun), was above all meant to relieve the French. The day ended in two different ways. In the south the French and the British right wing took all their objectives. North of the road from [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) to [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) the attack broke down almost everywhere under German machine-gun fire. According to the British official history, the British Army lost 57,470 men that day killed, wounded, missing and taken prisoner, including 19,240 killed and died of wounds. It was the bloodiest day in its history.
+On Saturday 1 July 1916, at 7.30 a.m., British infantry left their trenches on a front more than 20 kilometres long, from [Gommecourt](https://pl.wikipedia.org/wiki/Gommecourt_(Pas-de-Calais)) in the north to [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) on the [Somme](/miejsca/somma). Beside them, on both banks of the river, the French Sixth Army moved off. So began the great offensive that the Allies had agreed [at Chantilly in December 1915](/druga-konferencja-w-chantilly) and which, after the [German attack at Verdun](/poczatek-bitwy-pod-verdun), was above all meant to relieve the French. The day ended in two different ways. In the south the French and the British right wing took all their objectives. North of the road from [Albert](/miejsca/albert) to [Bapaume](/miejsca/bapaume) the attack broke down almost everywhere under German machine-gun fire. According to the British official history, the British Army lost 57,470 men that day killed, wounded, missing and taken prisoner, including 19,240 killed and died of wounds. It was the bloodiest day in its history.
 
 ## An army of volunteers
 
@@ -47,7 +47,7 @@ At Beaumont-Hamel the attack was made by the 29th Division, veterans of Gallipol
 
 ## Thiepval and the Ulster Division
 
-On the heights above the river [Ancre](https://pl.wikipedia.org/wiki/Ancre) X Corps attacked. At the village of Thiepval itself, turned into a fortress, the 32nd Division took only a scrap of trench in the Leipzig Redoubt. German machine guns in the ruins of the château held off the rest. The official history quotes the opinion that on that day Thiepval could only have been taken by bullet-proof soldiers.
+On the heights above the river [Ancre](/miejsca/somma) X Corps attacked. At the village of Thiepval itself, turned into a fortress, the 32nd Division took only a scrap of trench in the Leipzig Redoubt. German machine guns in the ruins of the château held off the rest. The official history quotes the opinion that on that day Thiepval could only have been taken by bullet-proof soldiers.
 
 Next to it, between Thiepval and the river, the 36th (Ulster) Division attacked, formed largely from volunteers of the Protestant movement that before the war had armed itself against Irish Home Rule. For its soldiers 1 July was the anniversary of the [Battle of the Boyne](https://pl.wikipedia.org/wiki/Bitwa_nad_Boyne) according to the old calendar. Their battalions crept before 7.30 to within a hundred metres of the German trenches and reached them before the defenders came out of the dug-outs. At about eight o'clock the Ulstermen broke into the great Schwaben Redoubt and took several hundred prisoners, and some of them got as far as the German second position at [Grandcourt](https://pl.wikipedia.org/wiki/Grandcourt_(Somma)). It was the largest breach in the German front north of the Bapaume road, but the neighbouring divisions did not move. Under fire from Thiepval and from Saint-Pierre-Divion, without ammunition or reinforcements, the Ulstermen beat off counter-attacks all afternoon. At about 10 p.m. the last defenders of the redoubt withdrew to the German front line. The division lost 5,104 men.
 

@@ -2,7 +2,7 @@
 title: Sinking of the cruiser Léon Gambetta
 summary: During the night of 26–27 April 1915 the Austro-Hungarian submarine U-5 sank the French cruiser Léon Gambetta at the mouth of the Adriatic. 684 men died.
 source: zatopienie-krazownika-leon-gambetta
-sourceHash: 3023df31ba1a58dfb6669942f10ff9e4767650bc
+sourceHash: 70ca596c291d1ae1016513e67228f82018bfbdbd
 ---
 
 During the night of 26–27 April 1915 the Austro-Hungarian submarine U-5 torpedoed the French [armoured cruiser](https://pl.wikipedia.org/wiki/Krążownik_pancerny) *Léon Gambetta*, which was patrolling the entrance to the [Adriatic Sea](https://pl.wikipedia.org/wiki/Morze_Adriatyckie). The torpedoes struck at about 12.40 a.m., and the ship sank within about ten minutes. 684 of her 821 crew were killed, among them the commander of the cruiser division, Rear-Admiral Victor Baptistin Sénès. The British chronology of the war places the sinking under 26 April, although the torpedoes struck after midnight, in the first minutes of 27 April.
@@ -17,7 +17,7 @@ The *Léon Gambetta* was the flagship of the 2nd Light Division, commanded by Re
 
 The small submarine U-5 had sailed from her base in the [Bay of Kotor](https://pl.wikipedia.org/wiki/Zatoka_Kotorska). She had recently come under the command of Lieutenant (Linienschiffsleutnant) [Georg von Trapp](https://pl.wikipedia.org/wiki/Georg_von_Trapp). Shortly after midnight he sighted the cruiser and fired two torpedoes from a range of about 500 metres. Both hit: one near the electrical generating room, the other near the boiler room. The ship lost power, listed to port and after about ten minutes capsized and sank.
 
-The darkness and the rapidly increasing list meant that only one boat could be lowered. Intended for 58 people, it took 108 survivors and reached Santa Maria di Leuca in the morning. Italian destroyers and torpedo boats from [Brindisi](https://pl.wikipedia.org/wiki/Brindisi) and [Taranto](https://pl.wikipedia.org/wiki/Tarent) picked up another 29 survivors and 58 bodies. 137 men survived. All the officers were killed, among them Admiral Sénès and Captain André. Some sources give a slightly different number of dead, but 684 killed is the figure most often accepted. The bodies of the recovered sailors were buried at [Castrignano del Capo](https://pl.wikipedia.org/wiki/Castrignano_del_Capo), to which Santa Maria di Leuca belongs. The Italians, still formally neutral, received the survivors very warmly.
+The darkness and the rapidly increasing list meant that only one boat could be lowered. Intended for 58 people, it took 108 survivors and reached Santa Maria di Leuca in the morning. Italian destroyers and torpedo boats from [Brindisi](/miejsca/brindisi) and [Taranto](https://pl.wikipedia.org/wiki/Tarent) picked up another 29 survivors and 58 bodies. 137 men survived. All the officers were killed, among them Admiral Sénès and Captain André. Some sources give a slightly different number of dead, but 684 killed is the figure most often accepted. The bodies of the recovered sailors were buried at [Castrignano del Capo](https://pl.wikipedia.org/wiki/Castrignano_del_Capo), to which Santa Maria di Leuca belongs. The Italians, still formally neutral, received the survivors very warmly.
 
 ## Consequences
 

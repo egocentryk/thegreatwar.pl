@@ -2,10 +2,10 @@
 title: Ukrainian delegation at Brest
 summary: On 3 January 1918 the Germans announced that a delegation of the Ukrainian Central Rada had arrived at Brest-Litovsk, wishing to negotiate peace on its own.
 source: delegacja-ukrainska-w-brzesciu
-sourceHash: f875069e06777fa3c6e546a416a8485fe48f8a6c
+sourceHash: 486561ee058da5f90fba0536a8b2d19c845ed82a
 ---
 
-On 3 January 1918 (21 December 1917 Old Style) the German wireless reported that a delegation of the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada) had arrived at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć) to take part in the peace negotiations. The Secretary of State, Richard von Kühlmann, gave an assurance in a telegram that he was ready to talk with representatives of Ukraine at Brest. Some Ukrainian studies state that the delegates had already arrived on 1 January. They came at a moment when the conference stood empty: the Bolshevik delegation was sitting in Petrograd demanding that the talks be moved to Stockholm, and the ministers of the Central Powers were only just returning from their capitals.
+On 3 January 1918 (21 December 1917 Old Style) the German wireless reported that a delegation of the [Ukrainian Central Rada](https://pl.wikipedia.org/wiki/Ukraińska_Centralna_Rada) had arrived at [Brest-Litovsk](/miejsca/brzesc) to take part in the peace negotiations. The Secretary of State, Richard von Kühlmann, gave an assurance in a telegram that he was ready to talk with representatives of Ukraine at Brest. Some Ukrainian studies state that the delegates had already arrived on 1 January. They came at a moment when the conference stood empty: the Bolshevik delegation was sitting in Petrograd demanding that the talks be moved to Stockholm, and the ministers of the Central Powers were only just returning from their capitals.
 
 ## Who came
 

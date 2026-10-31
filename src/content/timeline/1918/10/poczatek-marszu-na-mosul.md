@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 23 października 1918 roku brytyjsko-indyjski I Korpus generała porucznika Alexandra Cobbe'a zakończył koncentrację przed turecką pozycją pod Al-Fathą, gdzie [Tygrys](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) przebija się przez pasmo wzgórz Dżabal Hamrin, około 55 kilometrów na północ od [Tikritu](https://pl.wikipedia.org/wiki/Tikrit). Brytyjska chronologia wojny notuje pod tą datą krótko: „Początek brytyjskiego marszu na Mosul”. Była to ostatnia ofensywa [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Jej celem było rozbicie tureckiej Grupy Tygrysu z 6 Armii, osłaniającej [Mosul](https://pl.wikipedia.org/wiki/Mosul), zanim wojna z Turcją się skończy.
+Rankiem 23 października 1918 roku brytyjsko-indyjski I Korpus generała porucznika Alexandra Cobbe'a zakończył koncentrację przed turecką pozycją pod Al-Fathą, gdzie [Tygrys](/miejsca/tygrys) przebija się przez pasmo wzgórz Dżabal Hamrin, około 55 kilometrów na północ od [Tikritu](https://pl.wikipedia.org/wiki/Tikrit). Brytyjska chronologia wojny notuje pod tą datą krótko: „Początek brytyjskiego marszu na Mosul”. Była to ostatnia ofensywa [kampanii mezopotamskiej](/bitwy/kampania-mezopotamska). Jej celem było rozbicie tureckiej Grupy Tygrysu z 6 Armii, osłaniającej [Mosul](https://pl.wikipedia.org/wiki/Mosul), zanim wojna z Turcją się skończy.
 
 ## Wyścig z rozejmem
 

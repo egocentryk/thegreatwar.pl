@@ -9,7 +9,7 @@ sides:
     commanders: [Erich von Falkenhayn, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. The French took Souchez and part of the slopes of Vimy Ridge, advancing 1–3 kilometres, but did not take the ridge or break the front.
 source: trzecia-bitwa-w-artois
-sourceHash: 86e6ab0dcc266de742a205ba67910ac67bfdd80f
+sourceHash: f367a8148c5efa7dfce923af5eaaadd4a6df9ad6
 brief:
   - "From 25 September to 15 October 1915 General Victor d'Urbal's French 10th Army attacked Vimy Ridge north of Arras for the third time. It was the northern part of the Allied autumn offensive."
   - "Joffre saw Artois as a subsidiary attack to the main blow in Champagne, but General Ferdinand Foch was counting on a breakthrough towards Douai. This time the reserves were placed close to the front."
@@ -18,7 +18,7 @@ brief:
   - "The French advanced 1–3 kilometres and took Souchez, but Vimy Ridge remained in German hands. It was taken only by the Canadians in April 1917."
 ---
 
-The Third Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was the northern part of the great Allied autumn offensive on the Western Front in 1915. On 25 September General Victor d'Urbal's French 10th Army struck for the third time at the German positions north of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), to take [Vimy](https://pl.wikipedia.org/wiki/Vimy) Ridge and open the way to the [Douai](https://pl.wikipedia.org/wiki/Douai) plain. On the same day, on its left flank, the British attacked [at Loos](/bitwy/bitwa-pod-loos), and some 150 kilometres further south-east the main French attack began in Champagne. In Artois the attack was meant to be a subsidiary one, but General [Ferdinand Foch](/postacie/ferdinand-foch) was counting on a breakthrough. After several days of fighting the French took the ruined village of [Souchez](https://pl.wikipedia.org/wiki/Souchez), which they had been fighting for since May, and briefly reached the highest point of Vimy Ridge. For more they lacked men and ammunition, and the high command preferred to save them for Champagne.
+The Third Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) was the northern part of the great Allied autumn offensive on the Western Front in 1915. On 25 September General Victor d'Urbal's French 10th Army struck for the third time at the German positions north of [Arras](/miejsca/arras), to take [Vimy](https://pl.wikipedia.org/wiki/Vimy) Ridge and open the way to the [Douai](/miejsca/douai) plain. On the same day, on its left flank, the British attacked [at Loos](/bitwy/bitwa-pod-loos), and some 150 kilometres further south-east the main French attack began in Champagne. In Artois the attack was meant to be a subsidiary one, but General [Ferdinand Foch](/postacie/ferdinand-foch) was counting on a breakthrough. After several days of fighting the French took the ruined village of [Souchez](https://pl.wikipedia.org/wiki/Souchez), which they had been fighting for since May, and briefly reached the highest point of Vimy Ridge. For more they lacked men and ammunition, and the high command preferred to save them for Champagne.
 
 ## Name and dates
 

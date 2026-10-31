@@ -2,10 +2,10 @@
 title: Serbs retake Belgrade
 summary: On 15 December 1914 the last Austro-Hungarian units withdrew across the Sava and the Serbian army returned to Belgrade. The third invasion of Serbia had failed.
 source: serbowie-odbijaja-belgrad
-sourceHash: a15ed98e6f17f0e0a06d7e07a3b9ab0122da10d7
+sourceHash: 71521c42e634172a539f64eb1fade22dd99c3008
 ---
 
-On 15 December 1914 Serbian troops returned to [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). The Austro-Hungarians, who had [taken the capital on 2 December](/austriacy-zajmuja-belgrad), held it for less than two weeks. During the night of 14–15 December their Fifth Army crossed back over the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and the Danube. Serbia had been cleared of the invader's troops.
+On 15 December 1914 Serbian troops returned to [Belgrade](/miejsca/belgrad). The Austro-Hungarians, who had [taken the capital on 2 December](/austriacy-zajmuja-belgrad), held it for less than two weeks. During the night of 14–15 December their Fifth Army crossed back over the [Sava](https://pl.wikipedia.org/wiki/Sawa_(rzeka)) and the Danube. Serbia had been cleared of the invader's troops.
 
 The British chronology of the war calls the campaign that ended that day the [second Austrian invasion of Serbia](/bitwy/kampania-serbska-1914). Polish, Serbian and German historiography, however, distinguishes three offensives in 1914: the August one, which ended in [defeat on Mount Cer](/bitwy/bitwa-na-gorze-cer), the September one [on the Drina](/bitwy/bitwa-nad-drina), and the November one, which the Serbs smashed on the Kolubara. This is also the reckoning we follow on our site.
 

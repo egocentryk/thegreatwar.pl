@@ -2,10 +2,10 @@
 title: Defence of Abercorn
 summary: On 5 September 1914 troops from German East Africa crossed the border of Northern Rhodesia. The small garrison of Abercorn held out until relief arrived.
 source: obrona-abercorn
-sourceHash: 7eca7a5e123fd638b58b96f619a590c6867cee00
+sourceHash: 7483c5e46a0cb76d15145c104734f9972b8e9d2f
 ---
 
-On 5 September 1914 a force from [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) crossed the border of British [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), today's Zambia. Its objective was Abercorn, today [Mbala](https://pl.wikipedia.org/wiki/Mbala), the northernmost British outpost in this part of Africa. So began the defence of Abercorn, which lasted until 9 September.
+On 5 September 1914 a force from [German East Africa](/bitwy/kampania-wschodnioafrykanska) crossed the border of British [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), today's Zambia. Its objective was Abercorn, today [Mbala](https://pl.wikipedia.org/wiki/Mbala), the northernmost British outpost in this part of Africa. So began the defence of Abercorn, which lasted until 9 September.
 
 ## An outpost at the end of the world
 

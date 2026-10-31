@@ -14,6 +14,6 @@ draft: false
 
 Telegram nie był rozkazem rozpoczęcia wojny ani ogłoszeniem mobilizacji. Był krótkim, umownym sygnałem, który uruchamiał z góry przygotowane procedury. Od chwili jego otrzymania dowódcy flot i eskadr, zarówno w wodach macierzystych, jak i na odległych stacjach [Imperium brytyjskiego](/kraje/wielka-brytania), mieli traktować sytuację jako bezpośrednie zagrożenie wojną i przygotować swoje okręty do działań zgodnie z planami wojennymi.
 
-Decyzja zapadła w chwili, gdy Pierwsza Flota była już w drodze na północ. Tego samego dnia wyruszyła z Portland, a w nocy z 29 na 30 lipca przepłynęła bez świateł przez Cieśninę Kaletańską, kierując się do wojennej bazy w [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow). Telegram ostrzegawczy objął jednak całą Royal Navy, a nie tylko główną flotę.
+Decyzja zapadła w chwili, gdy Pierwsza Flota była już w drodze na północ. Tego samego dnia wyruszyła z Portland, a w nocy z 29 na 30 lipca przepłynęła bez świateł przez Cieśninę Kaletańską, kierując się do wojennej bazy w [Scapa Flow](/miejsca/scapa-flow). Telegram ostrzegawczy objął jednak całą Royal Navy, a nie tylko główną flotę.
 
 Churchill od kilku dni konsekwentnie przygotowywał marynarkę do wojny, zanim zdecydował o niej rząd. Wstrzymanie rozproszenia floty 26 lipca, przerzut do Scapa Flow i telegram ostrzegawczy z 29 lipca sprawiły, że Royal Navy, największa flota świata, była gotowa do działań, zanim [Wielka Brytania](/kraje/wielka-brytania) formalnie przystąpiła do wojny.

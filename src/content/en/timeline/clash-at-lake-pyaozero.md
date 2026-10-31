@@ -2,10 +2,10 @@
 title: Clash at Lake Pyaozero
 summary: In early October 1918 Red Finns of the Murmansk Legion routed the last White Finnish detachment at Lake Pyaozero in Karelia.
 source: starcie-nad-jeziorem-piaoziero
-sourceHash: f3c485a7a08a66a31f04cd4fbdd86ad0888b4af7
+sourceHash: 2dbcff47131ec3088ad0952ab2844109f1e6c7fb
 ---
 
-The British chronology of the war records under 3 October 1918 an "action near Lake Pyavozero" on the Murmansk front. This refers to [Pyaozero](https://pl.wikipedia.org/wiki/Piaoziero) (Finnish Pääjärvi), a large lake in northern Karelia, lying between the Murmansk railway and the Finnish border. Other available sources do not give an exact date. General Charles Maynard, commander of the Allied forces in the [Murmansk](https://pl.wikipedia.org/wiki/Murmańsk) area, wrote in his report to the War Office only that his troops had moved towards the lake in October.
+The British chronology of the war records under 3 October 1918 an "action near Lake Pyavozero" on the Murmansk front. This refers to [Pyaozero](https://pl.wikipedia.org/wiki/Piaoziero) (Finnish Pääjärvi), a large lake in northern Karelia, lying between the Murmansk railway and the Finnish border. Other available sources do not give an exact date. General Charles Maynard, commander of the Allied forces in the [Murmansk](/miejsca/murmansk) area, wrote in his report to the War Office only that his troops had moved towards the lake in October.
 
 The fighting here was done by a column sent out at the end of August from [Kandalaksha](https://pl.wikipedia.org/wiki/Kandałaksza). It was made up almost entirely of Red Finns of the [Murmansk Legion](https://pl.wikipedia.org/wiki/Legion_Murmański), refugees from the lost civil war in Finland, whom the British had armed and trained. They were commanded by a Canadian, Major Burton, and their units were led by British officers and NCOs. For several weeks the column skirmished with the White Finns, who had held outposts in northern Karelia since the spring. According to Maynard, in these skirmishes the legionaries proved "more than a match" for their compatriots from the opposing camp. The Whites eventually withdrew across the border.
 

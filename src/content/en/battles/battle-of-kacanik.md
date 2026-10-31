@@ -9,10 +9,10 @@ sides:
     commanders: [Georgi Todorov, Nikola Ribarov]
 result: Bulgarian victory. The Serbs long held the northern exit of the gorge, but their attempt to break through to Skopje and the French was repulsed. The Serbian army had to retreat through the mountains of Albania.
 source: bitwa-pod-kacanikiem
-sourceHash: fe844ff59ad6e0dc5430f725759b8feebf69f347
+sourceHash: a6aff0b054186d40f46ba73c319f633cb43c4e4b
 ---
 
-The Battle of Kačanik was the Serbian army's last attempt to break out of Kosovo southwards, to Skopje and to the French on the Vardar. Through the narrow gorge of the [Lepenac](https://pl.wikipedia.org/wiki/Lepenac_(rzeka)) ran the only good road and the railway from [Kosovo Polje](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) to the valley of the [Vardar](https://pl.wikipedia.org/wiki/Wardar). Throughout November 1915 weak Serbian divisions, made up largely of recruits, defended it against the Bulgarian Second Army. When the main Serbian forces gathered in Kosovo at the end of the month, Putnik threw them into an attack through the gorge. After two days of heavy fighting in the snow the Bulgarians repulsed the Serbs, and Serbia was left with only the road through the mountains of Albania.
+The Battle of Kačanik was the Serbian army's last attempt to break out of Kosovo southwards, to Skopje and to the French on the Vardar. Through the narrow gorge of the [Lepenac](https://pl.wikipedia.org/wiki/Lepenac_(rzeka)) ran the only good road and the railway from [Kosovo Polje](https://pl.wikipedia.org/wiki/Kosowe_Pole_(kotlina)) to the valley of the [Vardar](/miejsca/wardar). Throughout November 1915 weak Serbian divisions, made up largely of recruits, defended it against the Bulgarian Second Army. When the main Serbian forces gathered in Kosovo at the end of the month, Putnik threw them into an attack through the gorge. After two days of heavy fighting in the snow the Bulgarians repulsed the Serbs, and Serbia was left with only the road through the mountains of Albania.
 
 ## Name and dates
 

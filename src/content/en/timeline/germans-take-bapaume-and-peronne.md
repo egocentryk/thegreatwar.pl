@@ -2,7 +2,7 @@
 title: Germans take Bapaume and Péronne
 summary: On 24 March 1918 the Germans crossed the old Somme battlefield. Péronne was theirs, the British gave up Bapaume at night, and at Dury Pétain alarmed Haig.
 source: niemcy-zdobywaja-bapaume-i-peronne
-sourceHash: 51718f43339f5c710f9e862cb84a54af9444cf75
+sourceHash: da31d13f3adc449e27fd0938515206ef8e0b2754
 brief:
   - "On 24 March 1918, the fourth day of Operation Michael, the Germans crossed the old Somme battlefield. A British chronology records the taking of Bapaume and Péronne that day, but neither town was taken by storm."
   - "The British Fifth Army had left Péronne in the afternoon of 23 March, and the Third Army gave up Bapaume without a fight late on 24 March. The Germans entered it only at about noon on 25 March."
@@ -11,7 +11,7 @@ brief:
   - "The conversation is disputed, but it became clear that the two armies might move apart in opposite directions. Two days later the Allies met at Doullens."
 ---
 
-On 24 March 1918, Palm Sunday, the fourth day of the German [Operation Michael](/bitwy/operacja-michael) passed. Fog again lay in the valleys until 9–10 a.m. A British chronology of the war records under this date that German troops took [Bapaume](https://pl.wikipedia.org/wiki/Bapaume) and [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)). In reality the two towns did not fall on the same day, and neither was taken by storm. The British Fifth Army had already left Péronne in the afternoon of 23 March, and the Third Army gave up Bapaume without a fight late in the evening of 24 March. According to the histories of their own regiments, the Germans entered it only at about noon on 25 March. The loss of the two towns nevertheless closed a day on which the divisions of General [Julian Byng](/postacie/julian-byng) retreated across the battlefield of 1916 and the Germans forced their way into the gap between two British armies. That night, at Dury near Amiens, a conversation took place after which Field Marshal [Douglas Haig](/postacie/douglas-haig) concluded that the Allies' common front might fall apart.
+On 24 March 1918, Palm Sunday, the fourth day of the German [Operation Michael](/bitwy/operacja-michael) passed. Fog again lay in the valleys until 9–10 a.m. A British chronology of the war records under this date that German troops took [Bapaume](/miejsca/bapaume) and [Péronne](/miejsca/peronne). In reality the two towns did not fall on the same day, and neither was taken by storm. The British Fifth Army had already left Péronne in the afternoon of 23 March, and the Third Army gave up Bapaume without a fight late in the evening of 24 March. According to the histories of their own regiments, the Germans entered it only at about noon on 25 March. The loss of the two towns nevertheless closed a day on which the divisions of General [Julian Byng](/postacie/julian-byng) retreated across the battlefield of 1916 and the Germans forced their way into the gap between two British armies. That night, at Dury near Amiens, a conversation took place after which Field Marshal [Douglas Haig](/postacie/douglas-haig) concluded that the Allies' common front might fall apart.
 
 ## Towns taken a year before
 

@@ -2,10 +2,10 @@
 title: Germans take Albert, Chaulnes and Roye
 summary: On 26 March 1918 the Germans took Roye and Chaulnes south of the Somme, and in the evening entered the ruins of Albert with its famous "Leaning Virgin".
 source: niemcy-zajmuja-albert-chaulnes-i-roye
-sourceHash: fce46cd3d9a0b2d9ec746f9a3bf82c17f761bbd4
+sourceHash: 8683b54013eed132dd8651de93a3e81c6e1424dc
 ---
 
-On 26 March 1918, the sixth day of [Operation Michael](/bitwy/operacja-michael), the Germans took three towns in Picardy that had for years been associated with the Somme front: [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) and [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes) south of the river and [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) north of it. Two days after the [loss of Bapaume and Péronne](/niemcy-zdobywaja-bapaume-i-peronne) the British and French units were still falling back, though ever more slowly, while the German infantry, deprived of its artillery, which could not keep up across the old battlefield, was beginning to tire.
+On 26 March 1918, the sixth day of [Operation Michael](/bitwy/operacja-michael), the Germans took three towns in Picardy that had for years been associated with the Somme front: [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) and [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes) south of the river and [Albert](/miejsca/albert) north of it. Two days after the [loss of Bapaume and Péronne](/niemcy-zdobywaja-bapaume-i-peronne) the British and French units were still falling back, though ever more slowly, while the German infantry, deprived of its artillery, which could not keep up across the old battlefield, was beginning to tire.
 
 ## Roye and Chaulnes
 
@@ -15,7 +15,7 @@ Further north General Herbert Watts's XIX Corps, threatened with being outflanke
 
 ## Albert
 
-Albert, lying on the river [Ancre](https://pl.wikipedia.org/wiki/Ancre), had been just behind the front on the Allied side since [the autumn of 1914](/bitwy/pierwsza-bitwa-pod-albert), and in 1916 it was the main rear base of the British offensive on the Somme. Above the ruined town rose the tower of the neo-Byzantine basilica of Notre-Dame de Brebières with its gilded statue of the Virgin and Child. In January 1915 a shell hit the dome, and the statue tilted and hung almost horizontally over the street. The "Leaning Virgin" of Albert was known to millions of soldiers, and from postcards. Among the British and French the belief circulated that when it fell, the war would end.
+Albert, lying on the river [Ancre](/miejsca/somma), had been just behind the front on the Allied side since [the autumn of 1914](/bitwy/pierwsza-bitwa-pod-albert), and in 1916 it was the main rear base of the British offensive on the Somme. Above the ruined town rose the tower of the neo-Byzantine basilica of Notre-Dame de Brebières with its gilded statue of the Virgin and Child. In January 1915 a shell hit the dome, and the statue tilted and hung almost horizontally over the street. The "Leaning Virgin" of Albert was known to millions of soldiers, and from postcards. Among the British and French the belief circulated that when it fell, the war would end.
 
 On the night of 25–26 March V Corps of the British Third Army fell back behind the Ancre. Its command judged that it would be easier to defend the hills west of the town, and gave up the ruins of Albert without a fight. In the afternoon units of the German 3rd Naval Infantry Division and 54th Reserve Division appeared on the hills east of it. The German author Georg Goes later wrote that the basilica tower, with its twisted iron at the top, stood out sharply against the western sky. At about 5 p.m. the Germans entered the town, but when they tried to advance out of it westwards, along the roads to Amiens and Bouzincourt, they were stopped by British machine-gun fire from the high bank. Goes explained the failure of the further advance partly by the fact that the soldiers, who had been hungry for two days, found plentiful British food stocks in Albert, "drinks as well".
 

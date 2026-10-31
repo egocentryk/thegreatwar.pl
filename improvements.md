@@ -2834,6 +2834,63 @@ page counts, sample matches, JS-escape check, `--merge`).
   both given; Linsingen to Bothmer 8 VII vs 6 VII 1915, both given.
 - No person pages for Trenchard, Bothmer, Kaledin, Gurkha commanders.
 
+## 54. "Miejsca", batch 3: forty-seven places (2026-10-31)
+
+- Owner: "commit and 45 place pages". The places linked to pl.wikipedia
+  most often, checked against our battle and campaign pages first; 47
+  pages (Archangielsk and Murmańsk added), fifteen writers, three or four
+  pages each. 60 places in all.
+- Pages, PL/EN, `topics.py --places` 0 problems (copy check included):
+  Tygrys, Al-Kut, Eufrat, Basra, Konstantynopol, Erzurum, Jerozolima,
+  Kamerun, Niemiecka Afryka Południowo-Zachodnia, Arras, Douai, Cambrai,
+  Somma (with the Ancre), Albert, Bapaume, Péronne, Noyon, Soissons, Aisne,
+  Reims, Hazebrouck, Leie (Lys), Gandawa, Ostenda, Zeebrugge, Cieśnina
+  Kaletańska, Hawr, Morze Północne, Scapa Flow, Brindisi, Murmańsk, Wlora,
+  Durrës, Bitola, Wardar, Crna Reka, Kawala, Belgrad, Bukareszt, Dobrudża,
+  Lwów, San, Dniestr, Brześć, Mohylew, Kurlandia, Archangielsk (522–823
+  words, 11–30 internal links each).
+- No page where a campaign or battle page tells the war (rule of §49):
+  ALIASES `Niemiecka_Afryka_Wschodnia`, `Brytyjska_Afryka_Wschodnia`,
+  `Kilimandżaro` → `kampania-wschodnioafrykanska`, `Verdun_(Moza)` →
+  `bitwa-pod-verdun`, `Thiepval` → `bitwa-nad-somma`; `Limnos` added to
+  the Mudros page's `wikiTitles`.
+- `PlacePage.astro`: English names for the new states (Russia, Serbia,
+  Albania, Romania, Ukraine, Belarus, Latvia, Poland, Cameroon, Namibia,
+  North Macedonia, mixed ones, "wody międzynarodowe").
+- Names: the English pages follow the edition (Kut, Constantinople,
+  Kamerun, Lviv, Lys, Vlorë, Crna, Strait of Dover, Le Havre); the
+  writer's "Arkhangelsk" changed to "Archangel" (slug `archangel`), the
+  edition's form 147 times to 10. San's `in1914` set to Austria-Hungary
+  (the river ran inside Galicia).
+- Links: 1,396 now ours, 1,008 files, English restamped. Report: 23,745 →
+  22,349.
+- Checks: places, forces, glossary texts, guides, countries, series, year
+  intros 0; i18n 0 (3480 EN files); build 8110 pages; all 120 place pages
+  and both lists loaded at 390px: no overflow, no script errors.
+
+### Writers' notes (for the review list)
+
+- Lwów's siege: `battles/1918/obrona-lwowa-1918` (until May 1919) vs
+  `1919/03/koniec-oblezenia-lwowa` (broken 19 III 1919).
+- Jarosław 1914: `rosjanie-zajmuja-jaroslaw` (Russians left 5 X) vs
+  `odsiecz-przemysla` (retaken 11–12 X).
+- Przemyśl's prisoners: ~117,000 (`drugie-oblezenie-przemysla`) vs
+  ~120,000 (`kapitulacja-przemysla`).
+- Noyon 1914: entry 26 VIII / 30 VIII (our article) vs 1 IX (CWGC); the
+  French "fought without success" 15–18 IX vs `francuzi-odzyskuja-noyon`
+  (entered 21 IX).
+- Péronne 1918: the town taken by the 54th Battalion (5th Australian
+  Division, our article) vs the 2nd Division (CWGC); 1917: 48th Division
+  (ours) vs 40th and 48th (CWGC).
+- Cambrai: buildings destroyed "ponad tysiąc" (`zdobycie-cambrai`) vs 900
+  (tourist office) or 1,214–1,500 (en.wiki); liberation night 8–9 X vs
+  morning 9 X between two of our articles.
+- Murmańsk: `poole-w-murmansku` ~170 marines; other sources ~130.
+- Konstantynopol: Mehmed V died 3 VII (ours) vs 4 VII (Eraslan); 24 IV
+  1915 arrests 240–270 (ours) vs 235.
+- Archangel: one name across the English edition ("Archangel"); the
+  Polish "Archangielsk" is consistent.
+
 ---
 
 ## Roadmap (checklist)
@@ -2944,7 +3001,8 @@ finished, tick it here and add its section above.
 - [x] Wikipedia links: longer glossary texts, batch 1 (§51)
 - [x] Wikipedia links: "Siły zbrojne" pilot (§52)
 - [x] Wikipedia links: "Siły zbrojne" batch 2 (§53)
-- [ ] Wikipedia links: more place batches; "Siły zbrojne" batches; glossary batch 2 (expansion-plan.md C)
+- [x] Wikipedia links: "Miejsca" batch 3, 47 places (§54)
+- [ ] Wikipedia links: glossary batch 2; people and single articles; a menu entry for Miejsca and Siły zbrojne (expansion-plan.md C)
 - [ ] Reading progress, stage 2: series progress with "Czytaj dalej", guide progress
 - [ ] Reading progress, stage 3: export/import between devices
 

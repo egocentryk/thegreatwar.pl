@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 20 na 21 kwietnia 1917 roku niemieckie torpedowce z Flandrii po raz kolejny wpłynęły do [Cieśniny Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska). Ostrzelały [Calais](https://pl.wikipedia.org/wiki/Calais) i [Dover](https://pl.wikipedia.org/wiki/Dover), ale w drodze powrotnej natknęły się na dwa duże brytyjskie niszczyciele, Swift i Broke. W kilkuminutowej walce, już po północy 21 kwietnia, Brytyjczycy zatopili dwa niemieckie okręty, w tym jeden taranem. Po raz pierwszy od początku nocnych rajdów jesienią 1916 roku Niemcy stracili w cieśninie okręty. Starcie bywa po polsku nazywane [bitwą w Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Bitwa_w_Cieśninie_Kaletańskiej), a w Wielkiej Brytanii drugą bitwą w Cieśninie Dover.
+W nocy z 20 na 21 kwietnia 1917 roku niemieckie torpedowce z Flandrii po raz kolejny wpłynęły do [Cieśniny Kaletańskiej](/miejsca/ciesnina-kaletanska). Ostrzelały [Calais](https://pl.wikipedia.org/wiki/Calais) i [Dover](https://pl.wikipedia.org/wiki/Dover), ale w drodze powrotnej natknęły się na dwa duże brytyjskie niszczyciele, Swift i Broke. W kilkuminutowej walce, już po północy 21 kwietnia, Brytyjczycy zatopili dwa niemieckie okręty, w tym jeden taranem. Po raz pierwszy od początku nocnych rajdów jesienią 1916 roku Niemcy stracili w cieśninie okręty. Starcie bywa po polsku nazywane [bitwą w Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Bitwa_w_Cieśninie_Kaletańskiej), a w Wielkiej Brytanii drugą bitwą w Cieśninie Dover.
 
 ## Niemiecki plan
 

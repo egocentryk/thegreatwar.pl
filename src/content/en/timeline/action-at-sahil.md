@@ -2,7 +2,7 @@
 title: Action at Sahil
 summary: On 17 November 1914 two brigades of Gen. Barrett routed the main Turkish force at Sahil on the Shatt al-Arab in rain and mud. The road to Basra lay open.
 source: potyczka-pod-sahil
-sourceHash: 623d2b203305f24d713d2e246dc5a7a6492d200f
+sourceHash: 23bced262da9058d53224016478ce8446e960293
 ---
 
 On 17 November 1914 Indian Expeditionary Force "D" of Lieutenant-General Arthur Barrett fought its first real battle in Mesopotamia. Two days earlier the 16th Brigade of General Walter Delamain had [driven the Turks from Saihan](/potyczka-pod-saihan). Now, with the troops [Barrett had brought with him](/barrett-obejmuje-dowodztwo-w-mezopotamii) off the ships, the British attacked with their whole force. In the British chronology of the war the clash appears as an "action", although it was much larger and bloodier than all the earlier fighting on the [Shatt al-Arab](https://pl.wikipedia.org/wiki/Szatt_al-Arab).
@@ -19,4 +19,4 @@ The victory was clear but costly. British and Indian troops lost 54 killed and 4
 
 Many authors, including the British chronology, date the battle to 17 November. Some studies, however, give 19 November. The name of the place is sometimes written Sahil and sometimes Salih, and some authors treat the clash as part of a wider "battle for Basra" lasting from 11 to 22 November.
 
-The defeat at Sahil sealed the fate of [Basra](https://pl.wikipedia.org/wiki/Basra). The Turks fell back first to Baljaniya, halfway to the city, and after a few days also abandoned Basra itself, withdrawing further upriver.
+The defeat at Sahil sealed the fate of [Basra](/miejsca/basra). The Turks fell back first to Baljaniya, halfway to the city, and after a few days also abandoned Basra itself, withdrawing further upriver.

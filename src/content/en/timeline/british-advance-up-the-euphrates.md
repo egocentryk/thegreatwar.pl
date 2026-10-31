@@ -2,10 +2,10 @@
 title: British advance up the Euphrates
 summary: On 27 June 1915 Gen. Gorringe's flotilla and brigade crossed the Hammar Lake and set off up the Euphrates towards Nasiriyah. The first obstacle was a dam.
 source: brytyjczycy-ruszaja-w-gore-eufratu
-sourceHash: 75fc4d7df47308cb20a7a0ab231dc2f55f05d49d
+sourceHash: a092a4c27b5016ec8dfc5f3b7b6667df88d499f5
 ---
 
-On 27 June 1915 the British and Indian troops of General George Gorringe set off from the [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) area up the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat). Their objective was [Nasiriyah](https://pl.wikipedia.org/wiki/An-Nasirijja), the last important town of the Basra vilayet still in Turkish hands. After the [occupation of Amara](/brytyjczycy-zajmuja-al-amare) on the Tigris, the commander of British forces in [Mesopotamia](/bitwy/kampania-mezopotamska), General John Nixon, wanted in this way to close the second route by which the Turks could threaten Basra. The troops did not march across the desert but travelled by steamer and boat through the marshes of the lower Euphrates.
+On 27 June 1915 the British and Indian troops of General George Gorringe set off from the [Qurna](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) area up the [Euphrates](/miejsca/eufrat). Their objective was [Nasiriyah](https://pl.wikipedia.org/wiki/An-Nasirijja), the last important town of the Basra vilayet still in Turkish hands. After the [occupation of Amara](/brytyjczycy-zajmuja-al-amare) on the Tigris, the commander of British forces in [Mesopotamia](/bitwy/kampania-mezopotamska), General John Nixon, wanted in this way to close the second route by which the Turks could threaten Basra. The troops did not march across the desert but travelled by steamer and boat through the marshes of the lower Euphrates.
 
 ## Why Nasiriyah
 

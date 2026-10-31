@@ -2,10 +2,10 @@
 title: Declaration of Sainte-Adresse
 summary: On 14 February 1916 France, Britain and Russia undertook not to end the war until Belgium had regained its independence and received compensation.
 source: deklaracja-z-sainte-adresse
-sourceHash: 8efa3c09b26e1b82ded64a08f8af266264577bd2
+sourceHash: e76f41b79513cda2ec53641fd1603a8e95968a01
 ---
 
-On Monday 14 February 1916 the ministers of France, Great Britain and Russia accredited to the King of the Belgians came to the Belgian foreign ministry at [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), a seaside suburb of [Le Havre](https://pl.wikipedia.org/wiki/Hawr), where since the autumn of 1914 [the Belgian government in exile had been based](/rzad-belgijski-w-hawrze). The Russian minister, Prince Kudashev (Koudacheff), spoke on behalf of all three. He addressed the Minister of Foreign Affairs, [Baron Eugène Beyens](/baron-beyens-ministrem-spraw-zagranicznych-belgii), and read out the solemn declaration of the three powers.
+On Monday 14 February 1916 the ministers of France, Great Britain and Russia accredited to the King of the Belgians came to the Belgian foreign ministry at [Sainte-Adresse](https://pl.wikipedia.org/wiki/Sainte-Adresse), a seaside suburb of [Le Havre](/miejsca/hawr), where since the autumn of 1914 [the Belgian government in exile had been based](/rzad-belgijski-w-hawrze). The Russian minister, Prince Kudashev (Koudacheff), spoke on behalf of all three. He addressed the Minister of Foreign Affairs, [Baron Eugène Beyens](/baron-beyens-ministrem-spraw-zagranicznych-belgii), and read out the solemn declaration of the three powers.
 
 ## The text of the declaration
 

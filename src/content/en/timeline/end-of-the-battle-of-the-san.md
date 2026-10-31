@@ -2,10 +2,10 @@
 title: End of the Battle of the San
 summary: Until 23 May 1915 the Germans and Austrians held their San bridgeheads against Russian counter-attacks. Mackensen prepared to attack Radymno and Przemyśl.
 source: koniec-bitwy-nad-sanem
-sourceHash: ff6adec76f9521821e8d7bce2e1d5d35b4fa8a77
+sourceHash: cca496c05f4e99991293ebdfa2e9e59442d207d6
 ---
 
-According to the British chronology of the war, the battle of the [San](https://pl.wikipedia.org/wiki/San) ended on 23 May 1915. For a week, since [the Germans entered Jarosław](/poczatek-bitwy-nad-sanem), the Central Powers' troops had fought for the crossings and bridgeheads on the eastern bank of the river, while the Russians tried to throw them back. The last days before 23 May, however, passed relatively quietly. The front had stabilised, and both sides were preparing for the next clash, which was to decide the fate of [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl).
+According to the British chronology of the war, the battle of the [San](/miejsca/san) ended on 23 May 1915. For a week, since [the Germans entered Jarosław](/poczatek-bitwy-nad-sanem), the Central Powers' troops had fought for the crossings and bridgeheads on the eastern bank of the river, while the Russians tried to throw them back. The last days before 23 May, however, passed relatively quietly. The front had stabilised, and both sides were preparing for the next clash, which was to decide the fate of [Przemyśl](https://pl.wikipedia.org/wiki/Przemyśl).
 
 ## Failed counter-attacks
 

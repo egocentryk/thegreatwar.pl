@@ -2,10 +2,10 @@
 title: Explosion of the battleship Benedetto Brin
 summary: On 27 September 1915 the Italian battleship Benedetto Brin blew up in the harbour of Brindisi. More than 450 men were killed. Austrian sabotage was suspected.
 source: wybuch-pancernika-benedetto-brin
-sourceHash: 08a015b6421f392a2e8f5b6eabfb89ca21680634
+sourceHash: e9c7ead07f6dda49ec5e7abb2e8ad6c12dda4606
 ---
 
-At about 8 a.m. on 27 September 1915, in the roadstead of [Brindisi](https://pl.wikipedia.org/wiki/Brindisi), the Italian [battleship](https://pl.wikipedia.org/wiki/Pancernik) *Benedetto Brin* exploded. The blast tore apart the after magazine. The aft turret with its 305 mm guns was blown into the air and fell onto the port side, and the wrecked stern section quickly went under, dragging the whole ship to the bottom. It was the greatest loss so far suffered by the [Italian navy](https://pl.wikipedia.org/wiki/Regia_Marina) in this war, and it was suffered not in battle but in its own harbour.
+At about 8 a.m. on 27 September 1915, in the roadstead of [Brindisi](/miejsca/brindisi), the Italian [battleship](https://pl.wikipedia.org/wiki/Pancernik) *Benedetto Brin* exploded. The blast tore apart the after magazine. The aft turret with its 305 mm guns was blown into the air and fell onto the port side, and the wrecked stern section quickly went under, dragging the whole ship to the bottom. It was the greatest loss so far suffered by the [Italian navy](https://pl.wikipedia.org/wiki/Regia_Marina) in this war, and it was suffered not in battle but in its own harbour.
 
 *Benedetto Brin*, named after the nineteenth-century naval designer and minister of the navy, was one of the two battleships of the Regina Margherita class. She was built at the yard in [Castellammare di Stabia](https://pl.wikipedia.org/wiki/Castellammare_di_Stabia), launched in 1901 and commissioned into the fleet in 1905. During the Italo-Turkish War of 1911–1912 she supported the landing at Tripoli. By 1915 she was already obsolete compared with the new dreadnoughts. She served in the 3rd Division of the 2nd Squadron, and the division's commander, Rear-Admiral Ernesto Rubin de Cervin, flew his flag in her. Brindisi was one of the main bases from which the Italians and their allies watched the exit from the [Adriatic Sea](https://pl.wikipedia.org/wiki/Morze_Adriatyckie), after the fleet had lost the cruisers [*Amalfi*](/zatopienie-krazownika-amalfi) and [*Giuseppe Garibaldi*](/zatopienie-krazownika-giuseppe-garibaldi) in the Adriatic in the summer.
 

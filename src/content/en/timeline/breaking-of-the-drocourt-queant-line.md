@@ -2,7 +2,7 @@
 title: Breaking of the Drocourt–Quéant Line
 summary: On 2 September 1918 the Canadians broke the Drocourt–Quéant Line near Arras, and at noon the German command ordered a retreat to the Hindenburg Line.
 source: przelamanie-linii-drocourt-queant
-sourceHash: 9ee20582db4451efdc2fc2a215e85a81f8610427
+sourceHash: 9ae835e77a6005d17806b439f83b1d4cd8d591b5
 brief:
   - "At five in the morning on 2 September 1918 General Arthur Currie's Canadian Corps struck east of Arras at the Drocourt–Quéant Line, the strongest German position in the area and the northern extension of the Hindenburg Line."
   - "The Canadians had been advancing on this line for a week: on 26 August they attacked on the Scarpe and broke the Fresnes–Rouvroy Line. General Horne and Currie decided to attack only when everything was ready."
@@ -11,7 +11,7 @@ brief:
   - "From 1 to 3 September the corps lost more than 5,600 men and took about 6,000 prisoners, and seven Canadians received the Victoria Cross. Currie inclined to think it a greater victory than 8 August at Amiens."
 ---
 
-At five in the morning on 2 September 1918 the Canadian Corps of General [Arthur Currie](/postacie/arthur-currie) struck east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) at the Drocourt–Quéant Line, the strongest German position in the area and the northern extension of the Hindenburg Line. By evening the Canadians had passed through both its lines on a front of about 6.5 kilometres, taken the villages of Dury, Cagnicourt and Villers-lès-Cagnicourt and captured thousands of prisoners, while the British XVII Corps broke into the southern end of the position near Quéant. At about noon the German Supreme Army Command acknowledged defeat and ordered a retreat from the whole salient won in March. Currie wrote in his diary the next day that he was not sure whether 8 August at Amiens or this day had been the greater victory, but he inclined towards the latter.
+At five in the morning on 2 September 1918 the Canadian Corps of General [Arthur Currie](/postacie/arthur-currie) struck east of [Arras](/miejsca/arras) at the Drocourt–Quéant Line, the strongest German position in the area and the northern extension of the Hindenburg Line. By evening the Canadians had passed through both its lines on a front of about 6.5 kilometres, taken the villages of Dury, Cagnicourt and Villers-lès-Cagnicourt and captured thousands of prisoners, while the British XVII Corps broke into the southern end of the position near Quéant. At about noon the German Supreme Army Command acknowledged defeat and ordered a retreat from the whole salient won in March. Currie wrote in his diary the next day that he was not sure whether 8 August at Amiens or this day had been the greater victory, but he inclined towards the latter.
 
 ## The night before the assault
 

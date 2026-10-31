@@ -9,10 +9,10 @@ sides:
     commanders: [Nureddin Bey]
 result: British victory. The Turks abandoned the fortified Es Sinn position and withdrew to Ctesiphon. On 29 September the British took Kut, but failed to destroy the retreating army.
 source: pierwsza-bitwa-pod-al-kutem
-sourceHash: 21305e75b03c4b82858fca457f74881abcca8b77
+sourceHash: fc03bf0e93e4c4690203bcc811f29ffb19ecaa77
 ---
 
-The First Battle of Kut gave the British control of the middle course of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). General Charles Townshend's 6th (Poona) Division, reinforced by cavalry and part of the 12th Division, attacked the strongly fortified Turkish position at Es Sinn, a dozen or so kilometres below [Kut](https://pl.wikipedia.org/wiki/Al-Kut). Townshend feinted an attack along the river and sent his main force by night round the marshes against the enemy's left flank. On 28 September, after a whole day's fighting in heat and dust and without water, British and Indian troops took the Turkish redoubts north of the river and beat off the Turkish reserve. During the night the Turks abandoned all their positions and withdrew up the Tigris, and on 29 September the British entered Kut. They did not, however, manage to destroy the Ottoman army. A few days later it halted at Ctesiphon, halfway to Baghdad.
+The First Battle of Kut gave the British control of the middle course of the [Tigris](/miejsca/tygrys). General Charles Townshend's 6th (Poona) Division, reinforced by cavalry and part of the 12th Division, attacked the strongly fortified Turkish position at Es Sinn, a dozen or so kilometres below [Kut](/miejsca/al-kut). Townshend feinted an attack along the river and sent his main force by night round the marshes against the enemy's left flank. On 28 September, after a whole day's fighting in heat and dust and without water, British and Indian troops took the Turkish redoubts north of the river and beat off the Turkish reserve. During the night the Turks abandoned all their positions and withdrew up the Tigris, and on 29 September the British entered Kut. They did not, however, manage to destroy the Ottoman army. A few days later it halted at Ctesiphon, halfway to Baghdad.
 
 ## Name and dates
 

@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rano 6 października 1914 roku w belgijskim porcie [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge) zaczęły schodzić na ląd oddziały brytyjskiej 7 Dywizji Piechoty. W kolejnych dniach w Zeebrugge i [Ostendzie](https://pl.wikipedia.org/wiki/Ostenda) wylądowała także 3 Dywizja Kawalerii. Obie jednostki wysłano do Belgii, by razem z armią belgijską ratowały oblężoną [Antwerpię](/miejsca/antwerpia).
+Rano 6 października 1914 roku w belgijskim porcie [Zeebrugge](/miejsca/zeebrugge) zaczęły schodzić na ląd oddziały brytyjskiej 7 Dywizji Piechoty. W kolejnych dniach w Zeebrugge i [Ostendzie](/miejsca/ostenda) wylądowała także 3 Dywizja Kawalerii. Obie jednostki wysłano do Belgii, by razem z armią belgijską ratowały oblężoną [Antwerpię](/miejsca/antwerpia).
 
 ## Dywizja z zamorskich garnizonów
 
@@ -26,6 +26,6 @@ Pierwsze oddziały zeszły na ląd w Zeebrugge około 6.30 rano 6 października,
 
 ## Osłona odwrotu
 
-Zamiast iść na odsiecz, dywizje Rawlinsona musiały osłaniać odwrót. Część 7 Dywizji przesunięto w okolice [Gandawy](https://pl.wikipedia.org/wiki/Gandawa), gdzie razem z oddziałami belgijskimi i francuską brygadą fizylierów marynarki tworzyła osłonę dla cofających się spod Antwerpii kolumn. 11 października, gdy od wschodu nadciągały przeważające siły niemieckie, osłona zaczęła wycofywać się na zachód.
+Zamiast iść na odsiecz, dywizje Rawlinsona musiały osłaniać odwrót. Część 7 Dywizji przesunięto w okolice [Gandawy](/miejsca/gandawa), gdzie razem z oddziałami belgijskimi i francuską brygadą fizylierów marynarki tworzyła osłonę dla cofających się spod Antwerpii kolumn. 11 października, gdy od wschodu nadciągały przeważające siły niemieckie, osłona zaczęła wycofywać się na zachód.
 
 14 października 7 Dywizja jako pierwsza brytyjska dywizja piechoty weszła do [Ypres](/miejsca/ypres). Kilka dni później znalazła się w samym środku [pierwszej bitwy pod Ypres](https://pl.wikipedia.org/wiki/I_bitwa_pod_Ypres), w której przez wiele dni broniła szerokiego odcinka frontu przed znacznie silniejszym nieprzyjacielem. Dywizja poniosła tam tak ciężkie straty, że odzyskała pełną wartość bojową dopiero na początku 1915 roku.

@@ -2,10 +2,10 @@
 title: End of the first advance on Yaoundé
 summary: On 28 June 1915 German attacks on Col. Mayer's troops, withdrawn to the Kele line, ceased. The failed advance on Yaoundé cost the Allies over 300 casualties.
 source: koniec-pierwszego-marszu-na-jaunde
-sourceHash: 479f098e5128f78ccecaa62a033e0f8d118740b7
+sourceHash: 59f36100c11e2fb672d125fc74243fcd750270a6
 ---
 
-On 28 June 1915 the first Allied advance on [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde) in [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki) came to an end. According to the report of General Charles Dobell, commander of the Anglo-French expedition, only on that day did the German attacks on the withdrawing troops cease, and the Allied posts dug in at Ngwe and on the River Kele at So Dibanga, that is, where the advance had started in April and May. Dobell had [decided on 7 June](/alianci-rezygnuja-z-marszu-na-jaunde) to halt the advance, but the retreat proved harder than the last weeks of the advance.
+On 28 June 1915 the first Allied advance on [Yaoundé](https://pl.wikipedia.org/wiki/Jaunde) in [German Kamerun](/miejsca/kamerun) came to an end. According to the report of General Charles Dobell, commander of the Anglo-French expedition, only on that day did the German attacks on the withdrawing troops cease, and the Allied posts dug in at Ngwe and on the River Kele at So Dibanga, that is, where the advance had started in April and May. Dobell had [decided on 7 June](/alianci-rezygnuja-z-marszu-na-jaunde) to halt the advance, but the retreat proved harder than the last weeks of the advance.
 
 ## The lost convoy
 

@@ -2,10 +2,10 @@
 title: Marushevsky in Archangel
 summary: In November 1918 General Vladimir Marushevsky arrived in Archangel, taking command of the Northern Region's Russian troops and the post of governor-general.
 source: maruszewski-w-archangielsku
-sourceHash: ab01abf04495cc09c2f377d3e58d2123d0b14dda
+sourceHash: 32eeb9068919925d43431ee96d1a4a6d855ed410
 ---
 
-The British chronology of the war records under 20 November 1918 that General [Vladimir Marushevsky](https://pl.wikipedia.org/wiki/Władimir_Maruszewski) became governor-general and commander-in-chief of the Russian troops in northern Russia, at [Archangel](https://pl.wikipedia.org/wiki/Archangielsk). Russian accounts state that the general arrived in the city on 19 November and from that day acted as governor-general and commander of the troops of the Northern Region. He also joined Nikolai Tchaikovsky's [Provisional Government of the Northern Region](https://pl.wikipedia.org/wiki/Tymczasowy_Rząd_Obwodu_Północnego), in which he took charge of the departments of internal affairs, communications, and posts and telegraphs.
+The British chronology of the war records under 20 November 1918 that General [Vladimir Marushevsky](https://pl.wikipedia.org/wiki/Władimir_Maruszewski) became governor-general and commander-in-chief of the Russian troops in northern Russia, at [Archangel](/miejsca/archangielsk). Russian accounts state that the general arrived in the city on 19 November and from that day acted as governor-general and commander of the troops of the Northern Region. He also joined Nikolai Tchaikovsky's [Provisional Government of the Northern Region](https://pl.wikipedia.org/wiki/Tymczasowy_Rząd_Obwodu_Północnego), in which he took charge of the departments of internal affairs, communications, and posts and telegraphs.
 
 Marushevsky was 44 and had a brilliant career behind him. In 1916–1917 he commanded the 3rd Special Infantry Brigade, one of the Russian brigades sent to France. Its soldiers fought in the spring of 1917 in the [Nivelle Offensive](/bitwy/ofensywa-nivellea), and the command of the French Fifth Army commended the brigade in an order for its gallantry and training. In the autumn of 1917 Marushevsky became Chief of the General Staff, the last in the history of the old Russian army. After the Bolshevik coup he spent not quite two weeks in prison, accused of sabotaging the armistice negotiations with Germany. Released on parole, he fled to Finland, and in August 1918 he left for [Stockholm](https://pl.wikipedia.org/wiki/Sztokholm).
 

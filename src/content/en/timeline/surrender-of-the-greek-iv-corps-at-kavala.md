@@ -2,10 +2,10 @@
 title: Surrender of the Greek IV Corps at Kavala
 summary: On 11 September 1916 the Greek IV Corps, trapped in Kavala, gave itself up to the Germans to avoid Bulgarian captivity. The Bulgarians took the town next day.
 source: kapitulacja-greckiego-iv-korpusu-w-kawali
-sourceHash: 3185f00b9e15e26547c6f441456f8f242a4c65e3
+sourceHash: d1a53a426f5f05b0ce76544561f86afae6818c83
 ---
 
-On the evening of 11 September 1916, or 29 August by the Julian calendar then used in Greece, most of the Greek IV Corps, surrounded in [Kavala](https://pl.wikipedia.org/wiki/Kawala), laid down its arms and gave itself up to the Germans so as not to fall into Bulgarian captivity. This date is given by the British official history of the operations in Macedonia and by George F. Abbott and Paxton Hibben, and the Bulgarians entered the town the next day, 12 September. The British chronology of the war records the surrender of the corps only under 18 September, and the British official history of the naval war states that the formal surrender of the garrison took place on 19 September.
+On the evening of 11 September 1916, or 29 August by the Julian calendar then used in Greece, most of the Greek IV Corps, surrounded in [Kavala](/miejsca/kawala), laid down its arms and gave itself up to the Germans so as not to fall into Bulgarian captivity. This date is given by the British official history of the operations in Macedonia and by George F. Abbott and Paxton Hibben, and the Bulgarians entered the town the next day, 12 September. The British chronology of the war records the surrender of the corps only under 18 September, and the British official history of the naval war states that the formal surrender of the garrison took place on 19 September.
 
 ## A corps in a trap
 

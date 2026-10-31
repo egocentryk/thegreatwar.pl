@@ -2,10 +2,10 @@
 title: Wilhelm of Wied leaves Albania
 summary: On 3 September 1914 Prince Wilhelm of Wied, ruler of Albania by the will of the great powers, sailed from Durrës. His six-month reign had ended in failure.
 source: wilhelm-wied-opuszcza-albanie
-sourceHash: cefe2570543cd022ed852a251499a55ccdd2f42a
+sourceHash: d5d25e3759f713be96e6bb8d5ec4ae16ff021139
 ---
 
-On 3 September 1914 Prince [Wilhelm of Wied](https://pl.wikipedia.org/wiki/Wilhelm_zu_Wied), the ruler of Albania, left his country. With his wife, Princess [Sophie](https://pl.wikipedia.org/wiki/Zofia_Schönburg-Waldenburg), and part of the government, he boarded an Italian ship in the port of [Durrës](https://pl.wikipedia.org/wiki/Durrës) (according to some sources it was the *Misurata*) and sailed towards Venice. After only six months of rule he left the country sunk in rebellion and chaos.
+On 3 September 1914 Prince [Wilhelm of Wied](https://pl.wikipedia.org/wiki/Wilhelm_zu_Wied), the ruler of Albania, left his country. With his wife, Princess [Sophie](https://pl.wikipedia.org/wiki/Zofia_Schönburg-Waldenburg), and part of the government, he boarded an Italian ship in the port of [Durrës](/miejsca/durres) (according to some sources it was the *Misurata*) and sailed towards Venice. After only six months of rule he left the country sunk in rebellion and chaos.
 
 ## A prince appointed by the powers
 
@@ -25,4 +25,4 @@ On leaving, the prince did not abdicate. In a proclamation to the Albanians he a
 
 ## Significance
 
-After the prince's departure Albania broke up into spheres of influence. In the autumn Essad Pasha returned to Durrës and took power in the central part of the country. The Greeks occupied the south, and in the autumn and winter of 1914 the Italians occupied the island of Sazan and the port of [Vlorë](https://pl.wikipedia.org/wiki/Wlora). A country that was meant to be a neutral buffer between Serbia, Greece, Italy and Austria-Hungary became, during the war, a ground for the marches and occupations of foreign armies.
+After the prince's departure Albania broke up into spheres of influence. In the autumn Essad Pasha returned to Durrës and took power in the central part of the country. The Greeks occupied the south, and in the autumn and winter of 1914 the Italians occupied the island of Sazan and the port of [Vlorë](/miejsca/wlora). A country that was meant to be a neutral buffer between Serbia, Greece, Italy and Austria-Hungary became, during the war, a ground for the marches and occupations of foreign armies.

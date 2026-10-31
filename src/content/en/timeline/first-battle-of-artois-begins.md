@@ -2,7 +2,7 @@
 title: First Battle of Artois begins
 summary: On 27 September 1914 the Race to the Sea reached Artois. The French and Germans began fighting for Arras, Lens and the heights that shaped the front for years.
 source: poczatek-pierwszej-bitwy-w-artois
-sourceHash: 67e18cbb88997cc5aaae8925455abd4870f15c91
+sourceHash: dccfd16baa4bba2a094a25b54907185b7b0dd508
 brief:
   - "On 27 September 1914 the First Battle of Artois began, another stage of the Race to the Sea. According to the British chronology it lasted until 12 October, though other studies use other names and dates."
   - "There was still no continuous front between Arras, Lens and Douai. Joffre assembled General Louis de Maud'huy's forces around Arras, while Falkenhayn sent Crown Prince Rupprecht's Sixth Army there."
@@ -10,7 +10,7 @@ brief:
   - "The French held Arras, but the Germans won Lens, the centre of the coalfield, and the Vimy and Lorette heights. Vimy Ridge was permanently recaptured only by the Canadians in April 1917."
 ---
 
-On 27 September 1914 the First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) began, another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After the fighting in Picardy and at Albert, both sides moved their attempts to outflank the enemy further north, to the area around [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) and the coalfield around [Lens](https://pl.wikipedia.org/wiki/Lens). The battle lasted until 12 October. The French held Arras, but the Germans took Lens and the heights north of the town, and the front that settled here lasted with few changes until 1917.
+On 27 September 1914 the First Battle of [Artois](https://pl.wikipedia.org/wiki/Artois) began, another stage of the so-called [Race to the Sea](/bitwy/wyscig-do-morza). After the fighting in Picardy and at Albert, both sides moved their attempts to outflank the enemy further north, to the area around [Arras](/miejsca/arras) and the coalfield around [Lens](https://pl.wikipedia.org/wiki/Lens). The battle lasted until 12 October. The French held Arras, but the Germans took Lens and the heights north of the town, and the front that settled here lasted with few changes until 1917.
 
 ## Name and dates
 
@@ -18,7 +18,7 @@ This fighting is described under various names. The name "First Battle of Artois
 
 ## The race moves north
 
-At the end of September 1914, after the battles of the Marne and the Aisne, the Western Front already ran from Switzerland to the Somme. Both sides were still looking for the enemy's open flank. The [First Battle of Picardy](/koniec-bitwy-w-pikardii) ended on 26 September without a decision, and the fighting at Albert brought no breakthrough either. The same day [the Germans took Bapaume](/niemcy-zajmuja-bapaume), on the road from Albert to Arras. Further north, between Arras, Lens and [Douai](https://pl.wikipedia.org/wiki/Douai), there was still no continuous front line. Only French territorial divisions, made up of older reservists, and cavalry detachments of both sides stood there.
+At the end of September 1914, after the battles of the Marne and the Aisne, the Western Front already ran from Switzerland to the Somme. Both sides were still looking for the enemy's open flank. The [First Battle of Picardy](/koniec-bitwy-w-pikardii) ended on 26 September without a decision, and the fighting at Albert brought no breakthrough either. The same day [the Germans took Bapaume](/niemcy-zajmuja-bapaume), on the road from Albert to Arras. Further north, between Arras, Lens and [Douai](/miejsca/douai), there was still no continuous front line. Only French territorial divisions, made up of older reservists, and cavalry detachments of both sides stood there.
 
 On the same day the Germans began the siege of Antwerp. The fate of the rest of Belgium and of the Channel ports depended on where the front between Arras and the sea would come to a halt.
 

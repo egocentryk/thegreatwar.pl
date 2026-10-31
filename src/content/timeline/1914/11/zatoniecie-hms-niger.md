@@ -13,7 +13,7 @@ draft: false
 
 Około południa 11 listopada 1914 roku niemiecki okręt podwodny [U-12](https://pl.wikipedia.org/wiki/SM_U-12_(1910)) storpedował brytyjski okręt Niger, stojący na kotwicy około dwóch mil od mola w [Deal](https://pl.wikipedia.org/wiki/Deal_(Wielka_Brytania)) w hrabstwie Kent. Niger zatonął w pobliżu brzegu, na oczach mieszkańców miasteczka.
 
-Niger był starą [kanonierką torpedową](https://pl.wikipedia.org/wiki/Kanonierka_torpedowa) typu Alarm, zwodowaną w 1892 roku. Okręty tej klasy miały zwalczać torpedowce, ale szybko się zestarzały. W 1909 roku Niger przebudowano na [trałowiec](https://pl.wikipedia.org/wiki/Trałowiec). W chwili ataku stał na redzie Downs, osłoniętym kotwicowisku u wybrzeży Kentu, tuż przy [Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska), przez którą płynęły transporty do Francji.
+Niger był starą [kanonierką torpedową](https://pl.wikipedia.org/wiki/Kanonierka_torpedowa) typu Alarm, zwodowaną w 1892 roku. Okręty tej klasy miały zwalczać torpedowce, ale szybko się zestarzały. W 1909 roku Niger przebudowano na [trałowiec](https://pl.wikipedia.org/wiki/Trałowiec). W chwili ataku stał na redzie Downs, osłoniętym kotwicowisku u wybrzeży Kentu, tuż przy [Cieśninie Kaletańskiej](/miejsca/ciesnina-kaletanska), przez którą płynęły transporty do Francji.
 
 U-12 dowodził kapitanlejtnant Walther Forstmann. Niger był pierwszym okrętem, który zatopił. Forstmann stał się później jednym z najskuteczniejszych dowódców niemieckich okrętów podwodnych, głównie na Morzu Śródziemnym. Według części opracowań był to też pierwszy okręt aliancki zatopiony przez U-Boota operującego z portów w Belgii, których [Niemcy zajęli w październiku](/niemcy-zajmuja-ostende-i-zeebrugge).
 

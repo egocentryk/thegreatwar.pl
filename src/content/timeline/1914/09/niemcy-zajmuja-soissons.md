@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 września 1914 roku niemieckie oddziały dotarły do [Soissons](https://pl.wikipedia.org/wiki/Soissons), starego miasta biskupiego nad rzeką [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), około 100 kilometrów na północny wschód od Paryża. Źródła różnią się co do daty: pierwsze patrole weszły do miasta już 1 września, właściwe zajęcie Soissons następowało według części opracowań dzień później, 2 września.
+1 września 1914 roku niemieckie oddziały dotarły do [Soissons](/miejsca/soissons), starego miasta biskupiego nad rzeką [Aisne](/miejsca/aisne), około 100 kilometrów na północny wschód od Paryża. Źródła różnią się co do daty: pierwsze patrole weszły do miasta już 1 września, właściwe zajęcie Soissons następowało według części opracowań dzień później, 2 września.
 
 Przejście przez Aisne osłaniała grupa francuskich dywizji rezerwowych generała Valabrègue'a. W nocy z 31 sierpnia na 1 września wysłano też dywizję kawalerii, która miała jak najdłużej opóźniać nieprzyjaciela i dać piechocie czas na przeprawę. Wycofujący się Francuzi wysadzili dwa mosty na Aisne, lecz średniowieczny most Saint-Waast pozostał nietknięty. Niemcy zajęli miasto bez większej walki i od razu nałożyli na mieszkańców wysokie rekwizycje. Z tymi dniami wiąże się słynna opowieść o Jeanne Macherez, działaczce Czerwonego Krzyża, która pod nieobecność mera miała oświadczyć Niemcom: „Mer? To ja!” i przez kilkanaście dni występować w imieniu mieszkańców. Wojenna prasa uczyniła z niej bohaterkę, lecz część historyków uważa dziś tę historię za mocno przesadzoną.
 

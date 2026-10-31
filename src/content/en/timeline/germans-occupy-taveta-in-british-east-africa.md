@@ -2,14 +2,14 @@
 title: Germans occupy Taveta in British East Africa
 summary: On 15 August 1914 a German detachment under Tom von Prince crossed the border of British East Africa and took Taveta at the foot of Kilimanjaro.
 source: niemcy-zajmuja-tavete
-sourceHash: 712a7fcd38e028eb29b70fe825ab2c88dadb8021
+sourceHash: 0dea54b2ccde42c7e54a224ef56c323ed17df0ed
 ---
 
-On 15 August 1914 a German detachment of about 300 soldiers crossed the border of [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), present-day [Kenya](https://pl.wikipedia.org/wiki/Kenia), and took the border post of [Taveta](https://pl.wikipedia.org/wiki/Taveta) at the foot of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro). It was the first German offensive action in East Africa.
+On 15 August 1914 a German detachment of about 300 soldiers crossed the border of [British East Africa](/bitwy/kampania-wschodnioafrykanska), present-day [Kenya](https://pl.wikipedia.org/wiki/Kenia), and took the border post of [Taveta](https://pl.wikipedia.org/wiki/Taveta) at the foot of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska). It was the first German offensive action in East Africa.
 
 ## Lettow-Vorbeck's order
 
-The strike was prepared by the commander of the German colonial troops, Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Against the wishes of the governor of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), who hoped to keep the colony neutral, Lettow-Vorbeck wanted to wage an active war. His aim was to tie down as many British forces as possible in Africa so that they could not fight in Europe.
+The strike was prepared by the commander of the German colonial troops, Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Against the wishes of the governor of [German East Africa](/bitwy/kampania-wschodnioafrykanska), who hoped to keep the colony neutral, Lettow-Vorbeck wanted to wage an active war. His aim was to tie down as many British forces as possible in Africa so that they could not fight in Europe.
 
 The detachment that took Taveta was commanded by Captain Tom von Prince, a veteran of colonial fighting and commander of volunteers recruited from among the German settlers. The British garrison of the post was small and withdrew without much resistance.
 

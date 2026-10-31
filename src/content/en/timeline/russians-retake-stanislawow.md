@@ -2,7 +2,7 @@
 title: Russians retake Stanisławów
 summary: On 4 March 1915 the Russian 9th Army retook Stanisławów, captured by the Austrians two weeks earlier. The town stayed in Russian hands until June.
 source: rosjanie-odbijaja-stanislawow
-sourceHash: aa01de84e2ec5d8f326decf4297eeddd9155a750
+sourceHash: 3aaf4e80549a5e795df688bf0de9d20261e4acb5
 ---
 
 On 4 March 1915 Russian troops reoccupied [Stanisławów](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk), an important railway junction in eastern Galicia. This is the date given by the British chronology of the war, and Ukrainian studies of the town's history agree with it, according to which the second period of Russian rule in Stanisławów lasted from 4 March to 8 June 1915. Some texts give the date 19 February. This is the same day, counted according to the Julian calendar then in use in Russia.
@@ -13,7 +13,7 @@ Austro-Hungarian rule in the town thus lasted only two weeks. The troops of Gene
 
 The Russians had a dense railway network in Galicia and could move troops much faster. As early as the second half of February the leading units of General Platon Lechitsky's [9th Army](https://pl.wikipedia.org/wiki/9_Armia_(Imperium_Rosyjskie)), reinforced with formations brought in from other sectors of the front, were gathering north and west of Stanisławów. According to a post-war Austrian account published in the Encyclopaedia Britannica, Lechitsky went over to the attack on 28 February with four corps.
 
-Pflanzer-Baltin's right wing, clearly weaker in numbers, fell back fighting and gave up Stanisławów. The Austrians halted only on a new line north of [Obertyn](https://pl.wikipedia.org/wiki/Obertyn), between the [Dniester](https://pl.wikipedia.org/wiki/Dniestr) and the Carpathians. They held it mainly because on 4 March itself XI Corps, brought from another sector of the front, came up to help. Also helpful was the offensive of the Austro-Hungarian 2nd Army in the Bieszczady, which was to break through to Przemyśl and drew part of the Russian reserves upon itself.
+Pflanzer-Baltin's right wing, clearly weaker in numbers, fell back fighting and gave up Stanisławów. The Austrians halted only on a new line north of [Obertyn](https://pl.wikipedia.org/wiki/Obertyn), between the [Dniester](/miejsca/dniestr) and the Carpathians. They held it mainly because on 4 March itself XI Corps, brought from another sector of the front, came up to help. Also helpful was the offensive of the Austro-Hungarian 2nd Army in the Bieszczady, which was to break through to Przemyśl and drew part of the Russian reserves upon itself.
 
 ## The front on the Prut
 

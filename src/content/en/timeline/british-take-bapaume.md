@@ -2,10 +2,10 @@
 title: British take Bapaume
 summary: On 17 March 1917 the Australians entered burning Bapaume, goal of the Somme battle. The Germans gave it up without a fight, falling back to the Hindenburg Line.
 source: brytyjczycy-zajmuja-bapaume
-sourceHash: a3337913e1b9376cf8c473e111ce92840f8935a0
+sourceHash: b1d211a1aff5f05e0af5e95f253c67a7a58358de
 ---
 
-On the morning of 17 March 1917 soldiers of the Australian 5th Division entered [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), a small town in Artois towards which the British armies had been attacking for half a year in the [Battle of the Somme](/bitwy/bitwa-nad-somma). In the summer of 1916 it was supposed to be reached in the first days of the offensive. In time it became a goal in itself, which could not be reached despite the deaths of tens of thousands of soldiers. Now the Germans gave it up without a fight, withdrawing to the Hindenburg Line.
+On the morning of 17 March 1917 soldiers of the Australian 5th Division entered [Bapaume](/miejsca/bapaume), a small town in Artois towards which the British armies had been attacking for half a year in the [Battle of the Somme](/bitwy/bitwa-nad-somma). In the summer of 1916 it was supposed to be reached in the first days of the offensive. In time it became a goal in itself, which could not be reached despite the deaths of tens of thousands of soldiers. Now the Germans gave it up without a fight, withdrawing to the Hindenburg Line.
 
 The Germans held the trenches in front of Bapaume until the last moment. The main garrisons left at 1.30 a.m. on 17 March, on the second "marching day" of the retreat. They left behind patrols which until dawn fired rifles and sent up flares, pretending that the line was manned. Part of a battalion of the 5th Guard Grenadier Regiment held the ramparts of the old fortress for two hours to cover the passage of the 4th Guard Division through the town. The Australians had been waiting for this moment for several days. General John Gellibrand, commander of the 6th Brigade, even wanted to attack at 3 a.m. to surprise the retreating Germans, but the commander of the 2nd Division, General Nevill Smyth, would not allow it. At about 6 a.m. patrols of the 5th Division found that the front line was empty. It soon turned out that the second line, which just in front of Bapaume almost touched it, had also been abandoned.
 

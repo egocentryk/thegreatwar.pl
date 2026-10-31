@@ -2,14 +2,14 @@
 title: Seeadler sets sail
 summary: On 21 December 1916 Felix von Luckner's sailing ship Seeadler put to sea disguised as a Norwegian timber ship. She was the third raider sent out that winter.
 source: seeadler-wyplywa-w-rejs
-sourceHash: e49a6f52ec61981e564f195eb4c85e15d9520110
+sourceHash: 8bb2b607c98d5fa5e32e9a668349dc652aef160b
 ---
 
 On 21 December 1916 the German raider [*Seeadler*](https://pl.wikipedia.org/wiki/SMS_Seeadler_(1888)) (Sea Eagle), one of the last sailing ships in history to wage war at sea, put to sea. She was commanded by Kapitänleutnant Count [Felix von Luckner](https://pl.wikipedia.org/wiki/Felix_von_Luckner). The three-master, disguised as a Norwegian ship carrying timber to Australia, was to slip through the British blockade and sink Allied ships on the distant oceans. The British chronology of the war places her departure, with the reservation that the date is approximate, under 22 November. The British official history of the war at sea, German studies and Luckner's biographies all agree, however, on 21 December. *Seeadler* was the third German raider sent out onto the trade routes that winter, after the [auxiliary cruiser *Möwe*](/mowe-wyplywa-w-drugi-rejs) and the freighter *Wolf*.
 
 ## A sailing ship from Glasgow
 
-*Seeadler* began life as *Pass of Balmaha*, a steel sailing ship built in 1888 at Robert Duncan's yard in Port Glasgow in Scotland. When the war broke out she belonged to an American owner. In the summer of 1915 she was sailing with cotton from New York to [Archangel](https://pl.wikipedia.org/wiki/Archangielsk). A British auxiliary cruiser stopped her and, with a British prize crew on board, sent her to Kirkwall in the Orkneys, but on the way she was stopped by the German submarine *U-36*. Its commander judged the cotton to be contraband and sent the ship to [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). The British spent the whole voyage hidden in the hold.
+*Seeadler* began life as *Pass of Balmaha*, a steel sailing ship built in 1888 at Robert Duncan's yard in Port Glasgow in Scotland. When the war broke out she belonged to an American owner. In the summer of 1915 she was sailing with cotton from New York to [Archangel](/miejsca/archangielsk). A British auxiliary cruiser stopped her and, with a British prize crew on board, sent her to Kirkwall in the Orkneys, but on the way she was stopped by the German submarine *U-36*. Its commander judged the cotton to be contraband and sent the ship to [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). The British spent the whole voyage hidden in the hold.
 
 The German navy was then looking for a way to resume cruiser warfare on the oceans. Steamers lacked coal, because they no longer had overseas bases. A sailing ship needed no coal. At the Tecklenborg yard in [Geestemünde](https://pl.wikipedia.org/wiki/Geestemünde_(Bremerhaven)) *Pass of Balmaha* was given an auxiliary engine, fuel and water tanks, hidden quarters for prisoners and two 105 mm guns concealed behind drop-down bulwarks. On 2 December 1916 she was commissioned as *Seeadler*.
 

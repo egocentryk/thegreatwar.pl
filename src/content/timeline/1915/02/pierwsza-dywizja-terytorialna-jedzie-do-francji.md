@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Według brytyjskiej chronologii wojny 24 lutego 1915 roku Anglię opuściła dywizja North Midland, pierwsza dywizja ochotniczych Sił Terytorialnych (Territorial Force) wysłana w całości na front zachodni. Przeprawa trwała kilkanaście dni. Grupy przygotowujące kwatery zeszły na ląd w [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) już 23 lutego, pierwsze bataliony piechoty dotarły do Francji 25 lutego, a kolejne, głównie przez [Hawr](https://pl.wikipedia.org/wiki/Hawr), do początku marca. 8 marca cała dywizja była zgromadzona we Flandrii.
+Według brytyjskiej chronologii wojny 24 lutego 1915 roku Anglię opuściła dywizja North Midland, pierwsza dywizja ochotniczych Sił Terytorialnych (Territorial Force) wysłana w całości na front zachodni. Przeprawa trwała kilkanaście dni. Grupy przygotowujące kwatery zeszły na ląd w [Boulogne](https://pl.wikipedia.org/wiki/Boulogne-sur-Mer) już 23 lutego, pierwsze bataliony piechoty dotarły do Francji 25 lutego, a kolejne, głównie przez [Hawr](/miejsca/hawr), do początku marca. 8 marca cała dywizja była zgromadzona we Flandrii.
 
 ## Ochotnicy z Midlandów
 

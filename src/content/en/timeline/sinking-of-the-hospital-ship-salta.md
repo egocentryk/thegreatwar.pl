@@ -2,10 +2,10 @@
 title: Sinking of the hospital ship Salta
 summary: On 10 April 1917 the hospital ship Salta struck a mine laid by UC-26 off Le Havre and sank within minutes. Between 86 and 130 died, among them 9 nurses.
 source: zatopienie-statku-szpitalnego-salta
-sourceHash: 0b8cce21bc00bf946a048e4d7be16270a7042f43
+sourceHash: 1f0f9d93d87f8c7dead4769eff823532a5ec6f9d
 ---
 
-Late in the morning of 10 April 1917 the British [hospital ship](/slownik/statek-szpitalny) *Salta* struck a mine at the entrance to the port of [Le Havre](https://pl.wikipedia.org/wiki/Hawr) and sank within a few minutes. She was on her way to collect wounded, so there were no patients on board, only the crew and medical staff. Depending on the source, between 86 and about 130 people were killed, among them nine nurses. She was the second hospital ship lost to mines off Le Havre within half a year, after the [*Galeka*](/utrata-statku-szpitalnego-galeka) in October 1916.
+Late in the morning of 10 April 1917 the British [hospital ship](/slownik/statek-szpitalny) *Salta* struck a mine at the entrance to the port of [Le Havre](/miejsca/hawr) and sank within a few minutes. She was on her way to collect wounded, so there were no patients on board, only the crew and medical staff. Depending on the source, between 86 and about 130 people were killed, among them nine nurses. She was the second hospital ship lost to mines off Le Havre within half a year, after the [*Galeka*](/utrata-statku-szpitalnego-galeka) in October 1916.
 
 *Salta* was French by origin. She was built in 1911 at the shipyard in [La Seyne-sur-Mer](https://pl.wikipedia.org/wiki/La_Seyne-sur-Mer) near Toulon for the Marseille shipping company Société Générale de Transports Maritimes, which used her on its South American route. She took her name from the Argentine province and city. She measured about 7,300 gross register tons. In February 1915 she was chartered by the British Admiralty and converted into a hospital ship, painted white with a green band and red crosses. She was managed by the British Union-Castle Line. She belonged to the fleet of ships that ran between French ports and England, carrying wounded from the Western Front.
 

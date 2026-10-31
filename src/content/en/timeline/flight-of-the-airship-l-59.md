@@ -2,10 +2,10 @@
 title: Flight of the airship L 59
 summary: On 21 November 1917 the airship L 59 left Bulgaria with supplies for Lettow-Vorbeck. Recalled over Sudan, it returned after a 95-hour flight.
 source: lot-sterowca-l-59
-sourceHash: 179616b39cbb08fbb615e72ba167514960b43ede
+sourceHash: ffcebf0c8583c256db6008f120423252acb3f544
 ---
 
-On the morning of 21 November 1917 the German [airship](/slownik/sterowiec) L 59 took off from the airship base near [Yambol](https://pl.wikipedia.org/wiki/Jamboł) in Bulgaria. On board it carried a dozen or so tonnes of weapons, ammunition and medicines for the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), who for three years had been fighting in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), cut off from the world. It was to fly over the Mediterranean, Egypt and Sudan and land in East Africa, from which it was not meant to return. On 23 November, over Sudan, it received an order to turn back. On the morning of 25 November it returned to Yambol after a flight that had lasted about 95 hours and, according to German figures, was at the time the longest flight in the history of aviation.
+On the morning of 21 November 1917 the German [airship](/slownik/sterowiec) L 59 took off from the airship base near [Yambol](https://pl.wikipedia.org/wiki/Jamboł) in Bulgaria. On board it carried a dozen or so tonnes of weapons, ammunition and medicines for the forces of [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), who for three years had been fighting in [German East Africa](/bitwy/kampania-wschodnioafrykanska), cut off from the world. It was to fly over the Mediterranean, Egypt and Sudan and land in East Africa, from which it was not meant to return. On 23 November, over Sudan, it received an order to turn back. On the morning of 25 November it returned to Yambol after a flight that had lasted about 95 hours and, according to German figures, was at the time the longest flight in the history of aviation.
 
 ## "The China affair"
 

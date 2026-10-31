@@ -2,7 +2,7 @@
 title: Start of the French Army mutinies
 summary: 'On 3 May 1917 near Soissons about 1,000 men of the 2nd Colonial Division shouted "Down with the war!". After Nivelle''s defeat, mutinies swept the army.'
 source: poczatek-buntow-w-armii-francuskiej
-sourceHash: a3ce63aef0ebb9c849984c2579cb33850a7990f1
+sourceHash: 4de54123dd8008cf234d10718e1e243ca9c764dd
 brief:
   - "On 2 and 3 May 1917 at Saint-Bandry near Soissons about a thousand soldiers of the 2nd Colonial Infantry Division, ordered back to the front, sang the Internationale and shouted \"Down with the war!\"."
   - "The immediate cause was disappointment after the Nivelle offensive, which promised a breakthrough but within a few days cost more than a hundred thousand killed, wounded and missing. Soldiers also resented the lack of leave."
@@ -11,7 +11,7 @@ brief:
   - "The crisis was brought under control by General Philippe Pétain, who combined severity towards the ringleaders with reforms: regular leave, better food and the abandonment of costly attacks."
 ---
 
-On 2 and 3 May 1917 at Saint-Bandry, a village west of [Soissons](https://pl.wikipedia.org/wiki/Soissons) where the French 2nd Colonial Infantry Division was resting after the April fighting, the first large mutiny in the French Army broke out. The division had been ordered back to the front to take part in another attack on the Chemin des Dames. According to the tally of the French historian André Loez, about a thousand soldiers, mainly from the 43rd Colonial Infantry Regiment, gathered in their billets, sang [the Internationale](https://pl.wikipedia.org/wiki/Międzynarodówka_(pieśń)) and shouted "Down with the war!" ("À bas la guerre!"). Shots were fired, and anti-war leaflets circulated in the camp. It was not the first case of collective disobedience, but none before had been on such a scale. It was the beginning of a wave of mutinies that in May and June swept through several dozen French divisions and for a long time put France out of action for major offensives.
+On 2 and 3 May 1917 at Saint-Bandry, a village west of [Soissons](/miejsca/soissons) where the French 2nd Colonial Infantry Division was resting after the April fighting, the first large mutiny in the French Army broke out. The division had been ordered back to the front to take part in another attack on the Chemin des Dames. According to the tally of the French historian André Loez, about a thousand soldiers, mainly from the 43rd Colonial Infantry Regiment, gathered in their billets, sang [the Internationale](https://pl.wikipedia.org/wiki/Międzynarodówka_(pieśń)) and shouted "Down with the war!" ("À bas la guerre!"). Shots were fired, and anti-war leaflets circulated in the camp. It was not the first case of collective disobedience, but none before had been on such a scale. It was the beginning of a wave of mutinies that in May and June swept through several dozen French divisions and for a long time put France out of action for major offensives.
 
 ## The 2nd Colonial Division
 

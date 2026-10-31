@@ -2,10 +2,10 @@
 title: Austria-Hungary delivers an ultimatum to Serbia
 summary: On 23 July 1914 Austria-Hungary handed Serbia an ultimatum with a 48-hour deadline, making demands that struck at its sovereignty.
 source: austro-wegry-przesylaja-ultimatum-serbii
-sourceHash: 8eba207b8addbdc95937741b49e9e3320f4a04be
+sourceHash: aad39338c936a66abfee02c75931e0d6a1e67083
 ---
 
-On 23 July 1914 the government of [Austria-Hungary](/kraje/austro-wegry) took a step that openly carried the July Crisis into a new phase: an ultimatum to [Serbia](/kraje/serbia) was delivered in [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). The document was handed over by the Austro-Hungarian representative, Baron Wladimir Giesl von Gieslingen, and set a deadline for a reply of just 48 hours. The very shortness of that deadline was already a signal that this was not an ordinary exchange of diplomatic notes, but an attempt to force a swift and humiliating capitulation or to create a pretext for war.
+On 23 July 1914 the government of [Austria-Hungary](/kraje/austro-wegry) took a step that openly carried the July Crisis into a new phase: an ultimatum to [Serbia](/kraje/serbia) was delivered in [Belgrade](/miejsca/belgrad). The document was handed over by the Austro-Hungarian representative, Baron Wladimir Giesl von Gieslingen, and set a deadline for a reply of just 48 hours. The very shortness of that deadline was already a signal that this was not an ordinary exchange of diplomatic notes, but an attempt to force a swift and humiliating capitulation or to create a pretext for war.
 
 The ultimatum was worded so that Serbia could accept some of the demands only at the cost of its own independence. Vienna demanded, among other things, the suppression of anti-Austrian propaganda, the removal of named officials and officers, and the participation of Austro-Hungarian representatives in proceedings conducted on Serbian territory. It was this last element that struck hardest at the country's sovereignty, since it meant consenting to foreign interference in Serbia's internal police and judicial apparatus.
 

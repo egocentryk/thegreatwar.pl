@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 29 na 30 sierpnia 1914 roku oddziały brytyjskie z Nigerii zaatakowały niemiecką placówkę w Garui (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)) na północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Natarcie zakończyło się klęską napastników. Była to pierwsza poważna bitwa kampanii kameruńskiej.
+W nocy z 29 na 30 sierpnia 1914 roku oddziały brytyjskie z Nigerii zaatakowały niemiecką placówkę w Garui (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)) na północy [Kamerunu Niemieckiego](/miejsca/kamerun). Natarcie zakończyło się klęską napastników. Była to pierwsza poważna bitwa kampanii kameruńskiej.
 
 ## Twierdza nad Benue
 

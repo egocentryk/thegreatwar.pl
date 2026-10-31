@@ -23,7 +23,7 @@ brief:
   - "Zwycięstwo przekreśliło austro-węgierskie plany szybkiego pokonania Serbii, a Potiorek stracił dowództwo. Wycieńczony kraj padł jednak zimą ofiarą epidemii tyfusu plamistego."
 ---
 
-[Bitwa nad Kolubarą](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) była największym starciem na froncie bałkańskim w 1914 roku i jednym z najbardziej niespodziewanych zwycięstw pierwszego roku wojny. W listopadzie wojska [Austro-Węgier](/kraje/austro-wegry), po raz trzeci wkraczające do [Serbii](/kraje/serbia), zepchnęły wyczerpaną armię serbską w głąb kraju i 2 grudnia zajęły opuszczony [Belgrad](https://pl.wikipedia.org/wiki/Belgrad). Gdy w Wiedniu świętowano bliskie zwycięstwo, Serbowie, zaopatrzeni wreszcie w amunicję, przeszli do kontrofensywy. W niecałe dwa tygodnie rozbili armie generała [Oskara Potiorka](/postacie/oskar-potiorek) i wyparli je z całego kraju.
+[Bitwa nad Kolubarą](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) była największym starciem na froncie bałkańskim w 1914 roku i jednym z najbardziej niespodziewanych zwycięstw pierwszego roku wojny. W listopadzie wojska [Austro-Węgier](/kraje/austro-wegry), po raz trzeci wkraczające do [Serbii](/kraje/serbia), zepchnęły wyczerpaną armię serbską w głąb kraju i 2 grudnia zajęły opuszczony [Belgrad](/miejsca/belgrad). Gdy w Wiedniu świętowano bliskie zwycięstwo, Serbowie, zaopatrzeni wreszcie w amunicję, przeszli do kontrofensywy. W niecałe dwa tygodnie rozbili armie generała [Oskara Potiorka](/postacie/oskar-potiorek) i wyparli je z całego kraju.
 
 ## Nazwa i daty
 

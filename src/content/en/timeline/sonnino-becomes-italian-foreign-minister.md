@@ -2,7 +2,7 @@
 title: Sonnino becomes Italian foreign minister
 summary: In early November 1914 Baron Sidney Sonnino took over the Italian foreign ministry. Six months later he signed the secret Treaty of London with the Entente.
 source: sonnino-ministrem-spraw-zagranicznych
-sourceHash: 1f22e2bebfbf85a580d0c0f230328c6194bd849c
+sourceHash: 7ba4f19eee6b6564ce4034b0bcf4366881abc3ee
 ---
 
 At the beginning of November 1914 Baron [Sidney Sonnino](/postacie/sidney-sonnino) became Italy's Minister of Foreign Affairs. He replaced the Prime Minister, [Antonio Salandra](/postacie/antonio-salandra), who had been temporarily in charge of diplomacy since the [death of Antonino di San Giuliano](/umiera-antonino-di-san-giuliano) in mid-October. The appointment was part of the [reshuffle of the government](/rekonstrukcja-rzadu-salandry) that Salandra had begun at the end of October.
@@ -21,6 +21,6 @@ In the first days of the war Sonnino believed that Italy should remain faithful 
 
 In December 1914 Sonnino opened talks with Vienna. He invoked Article VII of the Triple Alliance treaty, which promised Italy compensation if Austria-Hungary gained new territory in the Balkans. He demanded lands inhabited by Italians, above all [Trentino](https://pl.wikipedia.org/wiki/Trydent-Górna_Adyga). Vienna long delayed, and its later offers were too modest for Rome and were to take effect only after the war.
 
-At the same time Sonnino explored what the Entente could offer. On 4 March 1915 the Italian ambassador in London, Marquis Guglielmo Imperiali, presented Italy's terms to the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey). After several weeks of bargaining, on 26 April 1915, the secret [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) was signed. The Entente promised Italy, among other things, Trentino and South Tyrol up to the Brenner Pass, Trieste, [Istria](https://pl.wikipedia.org/wiki/Istria), part of [Dalmatia](https://pl.wikipedia.org/wiki/Dalmacja) and the Albanian port of [Vlorë](https://pl.wikipedia.org/wiki/Wlora). The city of Fiume (now Rijeka) was not on the list. In May 1915 Italy entered the war against Austria-Hungary.
+At the same time Sonnino explored what the Entente could offer. On 4 March 1915 the Italian ambassador in London, Marquis Guglielmo Imperiali, presented Italy's terms to the Foreign Secretary, [Sir Edward Grey](/postacie/edward-grey). After several weeks of bargaining, on 26 April 1915, the secret [Treaty of London](https://pl.wikipedia.org/wiki/Traktat_londyński_(1915)) was signed. The Entente promised Italy, among other things, Trentino and South Tyrol up to the Brenner Pass, Trieste, [Istria](https://pl.wikipedia.org/wiki/Istria), part of [Dalmatia](https://pl.wikipedia.org/wiki/Dalmacja) and the Albanian port of [Vlorë](/miejsca/wlora). The city of Fiume (now Rijeka) was not on the list. In May 1915 Italy entered the war against Austria-Hungary.
 
 Sonnino directed Italian diplomacy until June 1919. At the Paris Peace Conference he stubbornly demanded the fulfilment of the London promises, and Fiume as well, which led to a sharp dispute with President [Woodrow Wilson](/postacie/woodrow-wilson).

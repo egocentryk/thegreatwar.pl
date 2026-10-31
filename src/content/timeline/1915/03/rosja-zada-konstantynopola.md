@@ -10,7 +10,7 @@ milestone: false
 draft: false
 ---
 
-4 marca 1915 roku, a według obowiązującego w Rosji kalendarza juliańskiego 19 lutego, rosyjski minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) wręczył ambasadorom Wielkiej Brytanii i Francji w Piotrogrodzie, Georgeowi Buchananowi i Maurice'owi Paléologue'owi, memoriał w formie aide-mémoire. Rząd rosyjski oświadczał w nim, że w wyniku wojny chce przyłączyć do swojego państwa [Konstantynopol](https://pl.wikipedia.org/wiki/Konstantynopol) i [cieśniny czarnomorskie](https://pl.wikipedia.org/wiki/Cieśniny_tureckie), i prosił sojuszników o zgodę. Brytyjska chronologia wojny opisuje to jako okólny telegram do rządów Ententy. Tak zaczęła się wymiana not, nazywana później porozumieniem konstantynopolskim albo porozumieniem w sprawie cieśnin.
+4 marca 1915 roku, a według obowiązującego w Rosji kalendarza juliańskiego 19 lutego, rosyjski minister spraw zagranicznych [Siergiej Sazonow](/postacie/siergiej-sazonow) wręczył ambasadorom Wielkiej Brytanii i Francji w Piotrogrodzie, Georgeowi Buchananowi i Maurice'owi Paléologue'owi, memoriał w formie aide-mémoire. Rząd rosyjski oświadczał w nim, że w wyniku wojny chce przyłączyć do swojego państwa [Konstantynopol](/miejsca/konstantynopol) i [cieśniny czarnomorskie](https://pl.wikipedia.org/wiki/Cieśniny_tureckie), i prosił sojuszników o zgodę. Brytyjska chronologia wojny opisuje to jako okólny telegram do rządów Ententy. Tak zaczęła się wymiana not, nazywana później porozumieniem konstantynopolskim albo porozumieniem w sprawie cieśnin.
 
 ## Czego chciała Rosja
 

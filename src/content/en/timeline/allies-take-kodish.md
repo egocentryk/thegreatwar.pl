@@ -2,10 +2,10 @@
 title: Allies take Kodish
 summary: On 30 December 1918 Americans of the 339th Infantry, backed by Canadian artillery, retook the village of Kodish from the Bolsheviks south of Archangel.
 source: alianci-zajmuja-kodysz
-sourceHash: 2d0cf2659bb95389bd7cf19c7c74a0807b463d2c
+sourceHash: 92276fdd7d3cc2dac9c197151d6389f66977916d
 ---
 
-On 30 December 1918 American soldiers of the 339th Infantry Regiment took Kodish, a village on the forest road from Seletskoe to Plesetskaya station, about 25 kilometres east of the railway from [Archangel](https://pl.wikipedia.org/wiki/Archangielsk) to [Vologda](https://pl.wikipedia.org/wiki/Wołogda). The village lay just beyond the Emtsa river, where since November the lines of the Allies and the Red Army had faced each other. The road through Kodish was important to both sides, because it made it possible to bypass the fortifications on the railway and come out in the enemy's rear at Plesetskaya, from which the Bolsheviks supplied their forces in the north.
+On 30 December 1918 American soldiers of the 339th Infantry Regiment took Kodish, a village on the forest road from Seletskoe to Plesetskaya station, about 25 kilometres east of the railway from [Archangel](/miejsca/archangielsk) to [Vologda](https://pl.wikipedia.org/wiki/Wołogda). The village lay just beyond the Emtsa river, where since November the lines of the Allies and the Red Army had faced each other. The road through Kodish was important to both sides, because it made it possible to bypass the fortifications on the railway and come out in the enemy's rear at Plesetskaya, from which the Bolsheviks supplied their forces in the north.
 
 The village had already been fought over in the autumn. In mid-October Americans of "K" and "L" Companies of the 339th, supported by Royal Marines and Canadian gunners, crossed the Emtsa, outflanked the Red positions and took Kodish. At the beginning of November the Bolsheviks counter-attacked, cutting off the forward outposts, and on 9 November the Americans withdrew behind the bridge over the river. There they wintered in blockhouses built by engineers of the 310th Regiment. After the armistice in the West the Reds tried to persuade them, with leaflets and speeches from the bridge, that the war was over and there was nothing left to fight for.
 

@@ -2,7 +2,7 @@
 title: Capture of Ginchy
 summary: On 9 September 1916 the Irish 16th Division took the ruins of Ginchy on the Somme in about two hours. Among the dead was the poet and former MP Tom Kettle.
 source: zdobycie-ginchy
-sourceHash: a535d7276f25599431be32d5e029cbb3433a8ef5
+sourceHash: 03e95cf88694b54e572d750f344619fccd1942c3
 brief:
   - "Towards evening on 9 September 1916 the Irish 16th Division took the ruins of Ginchy, the highest point of the ridge on the British right wing on the Somme."
   - "During the previous week the British 7th Division had three times broken into the village and three times lost it. The Irish of the 16th Division, mostly nationalist volunteers, were already worn out by Guillemont."
@@ -41,7 +41,7 @@ Tom Kettle was 36. He was the son of Andrew Kettle, one of the leaders of the Ir
 
 On 4 September, in the trenches near [Guillemont](https://pl.wikipedia.org/wiki/Guillemont), Kettle wrote the sonnet "To My Daughter Betty, the Gift of God". He ended it with the words that he and his comrades had died "not for flag, nor King, nor Emperor", but for a dream born in a herdsman's shed and for the secret Scripture of the poor. In a letter to a friend, the MP Joseph Devlin, he wrote that rest in France, which he loved, would not be a bad fate, and that by passing into silence he would in this way help Irish reconciliation.
 
-On 9 September Kettle led B Company of the 9th Battalion Royal Dublin Fusiliers into the attack. Accounts of his death differ. According to one he was hit, tried to get up and was struck again, this time fatally. An officer of his battalion wrote to his widow that he was shot through the heart while taking cover in a shell hole. Eighteen-year-old Second Lieutenant Emmet Dalton, the son of a friend of Kettle's, wrote from a field hospital that he was just behind him when a bullet struck him above his body armour, straight in the heart. Dalton was awarded the [Military Cross](https://pl.wikipedia.org/wiki/Krzyż_Wojskowy_(Wielka_Brytania)) for his conduct at Ginchy. Kettle's body was buried on the battlefield by soldiers of the Welsh Guards, but the grave was lost. His name is on the memorial to the missing at [Thiepval](https://pl.wikipedia.org/wiki/Thiepval). The Irish poet [George William Russell](https://pl.wikipedia.org/wiki/George_William_Russell) later wrote a poem in which he set Kettle's sacrifice beside that of the leaders of the Easter Rising.
+On 9 September Kettle led B Company of the 9th Battalion Royal Dublin Fusiliers into the attack. Accounts of his death differ. According to one he was hit, tried to get up and was struck again, this time fatally. An officer of his battalion wrote to his widow that he was shot through the heart while taking cover in a shell hole. Eighteen-year-old Second Lieutenant Emmet Dalton, the son of a friend of Kettle's, wrote from a field hospital that he was just behind him when a bullet struck him above his body armour, straight in the heart. Dalton was awarded the [Military Cross](https://pl.wikipedia.org/wiki/Krzyż_Wojskowy_(Wielka_Brytania)) for his conduct at Ginchy. Kettle's body was buried on the battlefield by soldiers of the Welsh Guards, but the grave was lost. His name is on the memorial to the missing at [Thiepval](/bitwy/bitwa-nad-somma). The Irish poet [George William Russell](https://pl.wikipedia.org/wiki/George_William_Russell) later wrote a poem in which he set Kettle's sacrifice beside that of the leaders of the Easter Rising.
 
 ## Night in Ginchy
 

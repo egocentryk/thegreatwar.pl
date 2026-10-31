@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 września 1914 roku oddział z [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) przekroczył granicę brytyjskiej [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna), dzisiejszej Zambii. Jego celem było Abercorn, dziś [Mbala](https://pl.wikipedia.org/wiki/Mbala), najdalej na północ wysunięta placówka brytyjska w tej części Afryki. Tak zaczęła się obrona Abercorn, która trwała do 9 września.
+5 września 1914 roku oddział z [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska) przekroczył granicę brytyjskiej [Rodezji Północnej](https://pl.wikipedia.org/wiki/Rodezja_Północna), dzisiejszej Zambii. Jego celem było Abercorn, dziś [Mbala](https://pl.wikipedia.org/wiki/Mbala), najdalej na północ wysunięta placówka brytyjska w tej części Afryki. Tak zaczęła się obrona Abercorn, która trwała do 9 września.
 
 ## Placówka na końcu świata
 

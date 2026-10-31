@@ -2,10 +2,10 @@
 title: British take Kilimatinde
 summary: On 31 July 1916 a South African column from van Deventer's division occupied Kilimatinde, a station near the Central Railway abandoned by the Germans.
 source: brytyjczycy-zajmuja-kilimatinde
-sourceHash: 2a3bdcc555323745b4abf17b6a1cbca0595f0791
+sourceHash: 0701caf17db4a77afe1a678e3ee13a88b113b50d
 ---
 
-On 31 July 1916 the small South African column of Lieutenant-Colonel H. J. Kirkpatrick entered Kilimatinde without a fight. It was a former German military station in the central part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The Germans had left it before the enemy arrived. Kilimatinde lay on a plateau between the escarpments of the [Rift Valley](https://pl.wikipedia.org/wiki/Wielkie_Rowy_Afrykańskie), near the Central Railway, which linked [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam) with [Tabora](https://pl.wikipedia.org/wiki/Tabora) and Lake Tanganyika. According to German studies, the station was founded in 1895 by Tom von Prince to guard the caravan route from the coast to Tabora. He was the same officer who was killed in November 1914 in the [Battle of Tanga](/bitwy/bitwa-pod-tanga).
+On 31 July 1916 the small South African column of Lieutenant-Colonel H. J. Kirkpatrick entered Kilimatinde without a fight. It was a former German military station in the central part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). The Germans had left it before the enemy arrived. Kilimatinde lay on a plateau between the escarpments of the [Rift Valley](https://pl.wikipedia.org/wiki/Wielkie_Rowy_Afrykańskie), near the Central Railway, which linked [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam) with [Tabora](https://pl.wikipedia.org/wiki/Tabora) and Lake Tanganyika. According to German studies, the station was founded in 1895 by Tom von Prince to guard the caravan route from the coast to Tabora. He was the same officer who was killed in November 1914 in the [Battle of Tanga](/bitwy/bitwa-pod-tanga).
 
 ## Van Deventer moves from Kondoa Irangi
 

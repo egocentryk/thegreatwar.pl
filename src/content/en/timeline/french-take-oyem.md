@@ -2,10 +2,10 @@
 title: French take Oyem
 summary: On 16 February 1915 a French column from Gabon took Oyem, abandoned by the Germans. The town lay in New Cameroon, ceded to Germany by France in 1911.
 source: francuzi-zajmuja-oyem
-sourceHash: edcf9dd8c764a9f3fff33cf1bd5244253026cb64
+sourceHash: b27bf261c55aadb886aace8b74c035dfc71a66df
 ---
 
-On 16 February 1915 a French column under Major Miquelard entered [Oyem](https://pl.wikipedia.org/wiki/Oyem), a German post in the south of [Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). According to the British official history of the campaign, the Germans abandoned the town the same day without a fight. Some French accounts give the date as 17 February.
+On 16 February 1915 a French column under Major Miquelard entered [Oyem](https://pl.wikipedia.org/wiki/Oyem), a German post in the south of [Kamerun](/miejsca/kamerun). According to the British official history of the campaign, the Germans abandoned the town the same day without a fight. Some French accounts give the date as 17 February.
 
 ## Gabon's lost lands
 

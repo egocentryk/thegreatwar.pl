@@ -2,10 +2,10 @@
 title: Belgian government in Le Havre
 summary: On 13 October 1914 the Belgian government sailed from Ostend to Le Havre. It settled in Sainte-Adresse, and France granted its buildings extraterritoriality.
 source: rzad-belgijski-w-hawrze
-sourceHash: 4d4e4fd59d38ede63e2d80138036ef8e0158c19a
+sourceHash: c288b7cff7f6826032c09e2065a0b2f191fbed25
 ---
 
-On 13 October 1914 the Belgian government left [Ostend](https://pl.wikipedia.org/wiki/Ostenda) and sailed for France. Ministers, officials and diplomats set out aboard the ferry *Pieter de Coninck* for [Le Havre](https://pl.wikipedia.org/wiki/Hawr) in Normandy. After a stay of a few days in Ostend, the Belgian authorities had to leave their own country. They were to remain on French soil until the end of the war.
+On 13 October 1914 the Belgian government left [Ostend](/miejsca/ostenda) and sailed for France. Ministers, officials and diplomats set out aboard the ferry *Pieter de Coninck* for [Le Havre](/miejsca/hawr) in Normandy. After a stay of a few days in Ostend, the Belgian authorities had to leave their own country. They were to remain on French soil until the end of the war.
 
 ## Ostend under threat
 

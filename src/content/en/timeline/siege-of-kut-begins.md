@@ -2,7 +2,7 @@
 title: Siege of Kut begins
 summary: On 7 December 1915 Ottoman troops began to surround Kut, where Townshend's division stood at bay. Nureddin called on the British to surrender.
 source: poczatek-oblezenia-al-kutu
-sourceHash: d59de2949ec32be98260ed12c0af941f152c6569
+sourceHash: 8c2505beef48c8d99e64aeaf91159578769e90d6
 brief:
   - "On 7 December 1915 the Ottoman troops of Colonel Nureddin Bey began closing the ring around Kut on the Tigris. Nureddin called on General Charles Townshend to surrender."
   - "Townshend wanted to withdraw to Ali al-Gharbi, but General John Nixon refused and promised reinforcements within a week. Townshend decided to stay, though he knew from history the fate of armies shut up in fortresses."
@@ -10,7 +10,7 @@ brief:
   - "The Turks were in no hurry to storm the town; they dug in and approached by saps. The garrison did not expect that nearly five months of siege lay ahead."
 ---
 
-On 7 December 1915 the Ottoman troops of Colonel [Nureddin Bey](/postacie/nureddin-pasza) began closing the ring around [Kut](https://pl.wikipedia.org/wiki/Al-Kut) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). According to the British official history (Moberly), Turkish forces estimated at a division with eight guns dug in on the right bank, north-west of the town. On the left bank, also to the north-west, there were about 1,500 men with guns, and a few kilometres upstream the greater part of two divisions. All day Turkish guns shelled the town. That day Nureddin sent General Charles Townshend a letter calling on him to surrender. Moberly notes briefly that only one answer was possible. This day is usually regarded as the beginning of the siege, which lasted almost five months.
+On 7 December 1915 the Ottoman troops of Colonel [Nureddin Bey](/postacie/nureddin-pasza) began closing the ring around [Kut](/miejsca/al-kut) on the [Tigris](/miejsca/tygrys). According to the British official history (Moberly), Turkish forces estimated at a division with eight guns dug in on the right bank, north-west of the town. On the left bank, also to the north-west, there were about 1,500 men with guns, and a few kilometres upstream the greater part of two divisions. All day Turkish guns shelled the town. That day Nureddin sent General Charles Townshend a letter calling on him to surrender. Moberly notes briefly that only one answer was possible. This day is usually regarded as the beginning of the siege, which lasted almost five months.
 
 ## The first day
 

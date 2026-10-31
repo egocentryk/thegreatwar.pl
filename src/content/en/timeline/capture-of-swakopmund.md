@@ -2,10 +2,10 @@
 title: Capture of Swakopmund
 summary: In mid-January 1915 Union of South Africa forces took Swakopmund, the main port of German South West Africa, without a fight.
 source: zajecie-swakopmund
-sourceHash: 3955736b9374e5c2c491d2edab016121a7ac1758
+sourceHash: d9c2a6935de28728024881c27716a6455d9d0690
 ---
 
-The British chronology of the war records under 14 January 1915 the capture by the forces of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) of the town of [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund), the main port of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). The Germans did not defend the town. Sources differ on the date. According to some of them, a reconnaissance force set out for Swakopmund on 13 January; the German chronology of the colony gives 15 January, and one study even 3 January. The ceremonial annexation of the town to the Union took place on 16 January.
+The British chronology of the war records under 14 January 1915 the capture by the forces of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) of the town of [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund), the main port of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The Germans did not defend the town. Sources differ on the date. According to some of them, a reconnaissance force set out for Swakopmund on 13 January; the German chronology of the colony gives 15 January, and one study even 3 January. The ceremonial annexation of the town to the Union took place on 16 January.
 
 ## A port without a harbour
 

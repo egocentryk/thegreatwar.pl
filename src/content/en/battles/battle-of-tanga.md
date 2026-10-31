@@ -9,7 +9,7 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Tom von Prince]
 result: German victory. Indian Expeditionary Force "B" withdrew to its ships, leaving weapons, ammunition and equipment on the shore.
 source: bitwa-pod-tanga
-sourceHash: 74c67c473e511219758e89366d6611f30ca12951
+sourceHash: d77a2810517509520bd87b1e79f7336a6d877213
 brief:
   - "On 2–5 November 1914 about 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force \"B\" tried to take the port of Tanga in German East Africa."
   - "Aitken underestimated the enemy, and his force was poorly trained and exhausted by the voyage. He also warned the Germans that the truce was ending, which let Lettow-Vorbeck bring up reinforcements by rail."
@@ -18,13 +18,13 @@ brief:
   - "The defeat ended British plans for a quick conquest of the colony. For four years Lettow-Vorbeck tied down far larger Allied forces in East Africa."
 ---
 
-The Battle of Tanga was the first major battle in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and one of the most humiliating British defeats of the whole war. About 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force "B" tried to take the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). They were beaten by roughly 1,000 soldiers of the German colonial forces, most of them African [askaris](/slownik/askarysi), under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Because of a swarm of wild bees that scattered some of the attackers on the decisive day, the battle is sometimes called the "Battle of the Bees".
+The Battle of Tanga was the first major battle in [German East Africa](/bitwy/kampania-wschodnioafrykanska) and one of the most humiliating British defeats of the whole war. About 8,000 soldiers of Major-General Arthur Aitken's Indian Expeditionary Force "B" tried to take the port of [Tanga](https://pl.wikipedia.org/wiki/Tanga). They were beaten by roughly 1,000 soldiers of the German colonial forces, most of them African [askaris](/slownik/askarysi), under Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck). Because of a swarm of wild bees that scattered some of the attackers on the decisive day, the battle is sometimes called the "Battle of the Bees".
 
 We take 2 November 1914 as the start of the battle. On the morning of that day a British cruiser arrived off Tanga, and in the evening the landing began. The actual fighting took place from 3 to 5 November, which is why many accounts give 3–5 November as the dates of the battle.
 
 ## Plan and preparations
 
-Force "B" [sailed from Bombay on 16 October](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki) with the task of bringing the whole German colony under British control. Tanga was the terminus of the railway running from the coast towards [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro) and was to be the starting point for a march inland. At the same time troops stationed in British East Africa were to attack the Germans at Longido, north of Kilimanjaro, and draw part of their forces there.
+Force "B" [sailed from Bombay on 16 October](/indyjski-korpus-ekspedycyjny-b-wyplywa-do-afryki) with the task of bringing the whole German colony under British control. Tanga was the terminus of the railway running from the coast towards [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska) and was to be the starting point for a march inland. At the same time troops stationed in British East Africa were to attack the Germans at Longido, north of Kilimanjaro, and draw part of their forces there.
 
 Aitken underestimated the enemy. He believed that Indian units would easily deal with African soldiers led by Germans. Yet his force was poorly prepared. Some of its battalions were among the worst trained in the Indian Army, some had received new rifles only before departure, and after two weeks on overcrowded ships many soldiers were sick and exhausted. Even so, [at Mombasa](/indyjski-korpus-ekspedycyjny-b-w-mombasie) Aitken did not let them go ashore and led the convoy straight on to Tanga. He also agreed that before the attack the Germans should be warned that the local truce of August was being ended, which robbed him of surprise.
 

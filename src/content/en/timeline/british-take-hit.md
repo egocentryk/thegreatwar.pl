@@ -2,10 +2,10 @@
 title: British take Hit
 summary: On 9 March 1918 the British Indian 15th Division took Hit on the Euphrates without a fight, after the Turks had abandoned it. A day later it entered Sahiliya.
 source: brytyjczycy-zajmuja-hit
-sourceHash: 305ccfd059b4c0e1e3b7ce2d1eca3a5f6a036078
+sourceHash: 01695c3e54a4262f46119bf21c85809f703892c2
 ---
 
-On 9 March 1918 the British Indian 15th Division of General Harry Brooking took the town of [Hit](https://pl.wikipedia.org/wiki/Hit_(miasto)) on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat), about 50 kilometres upstream from Ramadi, without a fight. The previous day British patrols had found that the Turks had abandoned both the town and their main position behind it. The next day, 10 March, the British entered Sahiliya, which according to Candler lay about 25 kilometres further on. The Turkish 50th Division fell back to Khan al-Baghdadi, about 35 kilometres above Hit, and British aircraft bombed and machine-gunned its columns all day. The date of 9 March is given consistently by the British chronology of the war, the official history of the campaign and the war correspondent Edmund Candler.
+On 9 March 1918 the British Indian 15th Division of General Harry Brooking took the town of [Hit](https://pl.wikipedia.org/wiki/Hit_(miasto)) on the [Euphrates](/miejsca/eufrat), about 50 kilometres upstream from Ramadi, without a fight. The previous day British patrols had found that the Turks had abandoned both the town and their main position behind it. The next day, 10 March, the British entered Sahiliya, which according to Candler lay about 25 kilometres further on. The Turkish 50th Division fell back to Khan al-Baghdadi, about 35 kilometres above Hit, and British aircraft bombed and machine-gunned its columns all day. The date of 9 March is given consistently by the British chronology of the war, the official history of the campaign and the war correspondent Edmund Candler.
 
 ## After Ramadi
 

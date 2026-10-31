@@ -2,10 +2,10 @@
 title: Bulgarians take Elbasan
 summary: At the turn of January and February 1916 the Bulgarians entered Elbasan in central Albania, forestalling the Austrians, their rivals for influence there.
 source: bulgarzy-zajmuja-elbasan
-sourceHash: 996c7df9028604a3e9481927320f8a0085e2675d
+sourceHash: 9577000f74745b04f2e60a4f5ea077ea49bb751b
 ---
 
-The British chronology of the war records under 2 February 1916 that Bulgarian troops occupied [Elbasan](https://pl.wikipedia.org/wiki/Elbasan), a town in the valley of the [Shkumbin](https://pl.wikipedia.org/wiki/Shkumbin) river in central Albania. The exact date is uncertain. According to the British historian Owen Pearson, a company of the Bulgarian 23rd Infantry Regiment under Captain Serafimov entered Elbasan as early as 29 January. In the West the news of the town's occupation appeared in the press in the first ten days of February, and on 13 February the Italian consul in [Durrës](https://pl.wikipedia.org/wiki/Durrës) wrote to Rome of the "Bulgarian occupation of Elbasan" as an accomplished fact. The Austrian official history, on the other hand, states that the Serbian Combined Division, which was covering the Serbs' retreat to the south, set off from the Elbasan area towards Vlorë only on 9 February. The Bulgarians therefore most probably entered the town with a small detachment while the last Serbian columns were still retreating in the area.
+The British chronology of the war records under 2 February 1916 that Bulgarian troops occupied [Elbasan](https://pl.wikipedia.org/wiki/Elbasan), a town in the valley of the [Shkumbin](https://pl.wikipedia.org/wiki/Shkumbin) river in central Albania. The exact date is uncertain. According to the British historian Owen Pearson, a company of the Bulgarian 23rd Infantry Regiment under Captain Serafimov entered Elbasan as early as 29 January. In the West the news of the town's occupation appeared in the press in the first ten days of February, and on 13 February the Italian consul in [Durrës](/miejsca/durres) wrote to Rome of the "Bulgarian occupation of Elbasan" as an accomplished fact. The Austrian official history, on the other hand, states that the Serbian Combined Division, which was covering the Serbs' retreat to the south, set off from the Elbasan area towards Vlorë only on 9 February. The Bulgarians therefore most probably entered the town with a small detachment while the last Serbian columns were still retreating in the area.
 
 ## The road from Macedonia to the Adriatic
 

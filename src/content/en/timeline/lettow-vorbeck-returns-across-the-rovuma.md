@@ -2,10 +2,10 @@
 title: Lettow-Vorbeck returns across the Rovuma
 summary: At the end of September 1918 Lettow-Vorbeck's force crossed the Rovuma and, after ten months in Mozambique, returned to German East Africa.
 source: lettow-vorbeck-wraca-za-rovume
-sourceHash: 5d22ba320f477a582b768d307713e58412b835ec
+sourceHash: 3bd0244cddcbe93cde1bc53d4a7e007ed068a05c
 ---
 
-At the end of September 1918 the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) reached the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) from the south and crossed to its northern bank. After ten months of marching and fighting in [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), the Germans once again stood on the soil of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), which they had left [in November 1917](/lettow-vorbeck-przekracza-rovume). The British chronology of the war records the return under 29 September. Lettow-Vorbeck himself wrote in his memoirs that his columns reached the river on 28 September and, after crossing to the German bank, halted for two days near Nagwamira.
+At the end of September 1918 the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) reached the [Rovuma](https://pl.wikipedia.org/wiki/Rovuma) from the south and crossed to its northern bank. After ten months of marching and fighting in [Portuguese East Africa](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Wschodnia), the Germans once again stood on the soil of [German East Africa](/bitwy/kampania-wschodnioafrykanska), which they had left [in November 1917](/lettow-vorbeck-przekracza-rovume). The British chronology of the war records the return under 29 September. Lettow-Vorbeck himself wrote in his memoirs that his columns reached the river on 28 September and, after crossing to the German bank, halted for two days near Nagwamira.
 
 ## Retreat from the Lúrio
 

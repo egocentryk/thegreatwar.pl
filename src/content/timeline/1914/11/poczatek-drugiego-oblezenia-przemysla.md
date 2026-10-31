@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-10 listopada 1914 roku, według brytyjskiej chronologii wojny, rozpoczęło się drugie oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl). Zaledwie miesiąc po [odsieczy](/odsiecz-przemysla) rosyjskie wojska znów otoczyły twierdzę nad [Sanem](https://pl.wikipedia.org/wiki/San). Okrążanie trwało kilka dni, dlatego daty w literaturze się różnią. Polskie opracowania zaczynają drugie oblężenie zwykle 5 listopada, a inne źródła 8 lub 9 listopada, gdy pierścień zamknął się całkowicie.
+10 listopada 1914 roku, według brytyjskiej chronologii wojny, rozpoczęło się drugie oblężenie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl). Zaledwie miesiąc po [odsieczy](/odsiecz-przemysla) rosyjskie wojska znów otoczyły twierdzę nad [Sanem](/miejsca/san). Okrążanie trwało kilka dni, dlatego daty w literaturze się różnią. Polskie opracowania zaczynają drugie oblężenie zwykle 5 listopada, a inne źródła 8 lub 9 listopada, gdy pierścień zamknął się całkowicie.
 
 ## Armia znów odchodzi
 

@@ -2,10 +2,10 @@
 title: Austro-Hungarian council of ministers approves the draft ultimatum to Serbia
 summary: On 19 July 1914 Vienna approved the draft ultimatum to Serbia, completing preparations for a diplomatic step meant to open the way to war.
 source: rada-ministrow-austro-wegier-zatwierdza-projekt-ultimatum-dla-serbii
-sourceHash: f46ad1b2337fa190a5c4c73345a1a1d9f164c32c
+sourceHash: b27a191630ddba9308129c1107dfcf76503a6b2a
 ---
 
-On 19 July 1914 the Austro-Hungarian council of ministers approved the draft ultimatum that was to be handed to [Serbia](/kraje/serbia) a few days later. This was the moment when earlier political decisions took on a more final, concrete diplomatic form. The point was not merely to present [Belgrade](https://pl.wikipedia.org/wiki/Belgrad) with harsh demands, but to choose their content so that Serbia would find itself in an almost hopeless position.
+On 19 July 1914 the Austro-Hungarian council of ministers approved the draft ultimatum that was to be handed to [Serbia](/kraje/serbia) a few days later. This was the moment when earlier political decisions took on a more final, concrete diplomatic form. The point was not merely to present [Belgrade](/miejsca/belgrad) with harsh demands, but to choose their content so that Serbia would find itself in an almost hopeless position.
 
 [Vienna](https://pl.wikipedia.org/wiki/Wiedeń) wanted the document to appear a formally justified response to the [Sarajevo assassination](https://pl.wikipedia.org/wiki/Zamach_w_Sarajewie), while at the same time containing conditions hard to reconcile with the sovereignty of the Serbian state. In practice this meant that the ultimatum was to give [Austria-Hungary](/kraje/austro-wegry) a political and moral justification for subsequent military action. From the point of view of the monarchy's decision-makers, the ideal outcome was not a peaceful settlement but Belgrade's rejection or only partial acceptance of the demands.
 

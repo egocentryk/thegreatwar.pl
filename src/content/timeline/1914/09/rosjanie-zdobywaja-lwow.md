@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-3 września 1914 roku do [Lwowa](https://pl.wikipedia.org/wiki/Lwów), stolicy austriackiej Galicji, wkroczyły wojska rosyjskie. Miasto nie było bronione. Dzień wcześniej opuściły je ostatnie oddziały austro-węgierskie, wycofujące się na zachód po przegranej [bitwie nad Złotą Lipą](/bitwy/bitwa-nad-zlota-lipa). Dla Polaków był to wstrząs: jedno z dwóch najważniejszych centrów polskiego życia narodowego pod zaborami, obok Krakowa, znalazło się pod władzą Rosji. Okupacja trwała prawie dziesięć miesięcy.
+3 września 1914 roku do [Lwowa](/miejsca/lwow), stolicy austriackiej Galicji, wkroczyły wojska rosyjskie. Miasto nie było bronione. Dzień wcześniej opuściły je ostatnie oddziały austro-węgierskie, wycofujące się na zachód po przegranej [bitwie nad Złotą Lipą](/bitwy/bitwa-nad-zlota-lipa). Dla Polaków był to wstrząs: jedno z dwóch najważniejszych centrów polskiego życia narodowego pod zaborami, obok Krakowa, znalazło się pod władzą Rosji. Okupacja trwała prawie dziesięć miesięcy.
 
 ## Miasto bez obrony
 

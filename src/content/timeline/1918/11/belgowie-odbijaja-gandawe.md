@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-10 listopada 1918 roku ostatnie oddziały niemieckie wycofały się z [Gandawy](https://pl.wikipedia.org/wiki/Gandawa), a do miasta weszli żołnierze belgijscy. Brytyjska chronologia wojny notuje pod tym dniem odbicie Gandawy przez wojska belgijskie, a gandawskie muzeum miejskie również podaje, że Niemcy ostatecznie opuścili miasto 10 listopada. Tak skończyła się okupacja, która zaczęła się [12 października 1914 roku](/niemcy-zajmuja-gandawe), gdy Niemcy wkroczyli do miasta opuszczonego przez aliantów po walkach pod Melle. Gandawa, jedno z największych miast Belgii i stolica Flandrii Wschodniej, odzyskała wolność na dzień przed zawieszeniem broni.
+10 listopada 1918 roku ostatnie oddziały niemieckie wycofały się z [Gandawy](/miejsca/gandawa), a do miasta weszli żołnierze belgijscy. Brytyjska chronologia wojny notuje pod tym dniem odbicie Gandawy przez wojska belgijskie, a gandawskie muzeum miejskie również podaje, że Niemcy ostatecznie opuścili miasto 10 listopada. Tak skończyła się okupacja, która zaczęła się [12 października 1914 roku](/niemcy-zajmuja-gandawe), gdy Niemcy wkroczyli do miasta opuszczonego przez aliantów po walkach pod Melle. Gandawa, jedno z największych miast Belgii i stolica Flandrii Wschodniej, odzyskała wolność na dzień przed zawieszeniem broni.
 
 ## Ostatnie tygodnie walk
 

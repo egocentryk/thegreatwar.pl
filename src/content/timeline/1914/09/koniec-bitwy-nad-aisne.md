@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-15 września 1914 roku zakończyła się, według brytyjskiej kroniki wojny, bitwa nad [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)). Brytyjczycy przyjęli później, że trwała ona od 12 do 15 września, choć walki na wzgórzach nad rzeką ciągnęły się aż do końca miesiąca. Po czterech dniach natarć stało się jasne, że alianci nie zepchną Niemców z zajętych pozycji. Obie strony zaczęły kopać okopy, a na froncie zachodnim rozpoczynała się [wojna pozycyjna](https://pl.wikipedia.org/wiki/Wojna_pozycyjna).
+15 września 1914 roku zakończyła się, według brytyjskiej kroniki wojny, bitwa nad [Aisne](/miejsca/aisne). Brytyjczycy przyjęli później, że trwała ona od 12 do 15 września, choć walki na wzgórzach nad rzeką ciągnęły się aż do końca miesiąca. Po czterech dniach natarć stało się jasne, że alianci nie zepchną Niemców z zajętych pozycji. Obie strony zaczęły kopać okopy, a na froncie zachodnim rozpoczynała się [wojna pozycyjna](https://pl.wikipedia.org/wiki/Wojna_pozycyjna).
 
 ## Natarcie na wzgórza
 

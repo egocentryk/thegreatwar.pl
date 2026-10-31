@@ -11,7 +11,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Max von Fabeck, Erich von Falkenhayn]
 result: German success without a breakthrough. The Germans took Messines, Wytschaete and the whole ridge, but the Allies held the front before Mount Kemmel.
 source: bitwa-pod-messines
-sourceHash: cac7066f19ffcf1732560b2a2ea95cfad8c0a290
+sourceHash: 7be0df72a0541970a78356ea92465560ffb1ccfe
 brief:
   - "The Battle of Messines, fought from 12 October to 2 November 1914 in Flanders, was one of the last stages of the Race to the Sea. It was fought mainly by the cavalry corps of General Edmund Allenby."
   - "In mid-October the British cavalrymen pushed the German cavalry off the hills of French Flanders and occupied a low ridge between Messines and Wytschaete, south of Ypres."
@@ -32,13 +32,13 @@ This battle should not be confused with the much better known [Battle of Messine
 
 ## Terrain
 
-West of Ypres and Bailleul runs a chain of isolated hills, from the Mont des Cats through the Mont Noir to [Mount Kemmel](https://pl.wikipedia.org/wiki/Kemmelberg). From the hills of Ypres a low ridge runs south, on which lie the villages of Wytschaete and Messines. It rises only a few dozen metres above the surrounding country, but on the flat Flemish plain it gives a view over the [Lys](https://pl.wikipedia.org/wiki/Leie) valley and the rear of the enemy's positions as far as Ypres. Whoever held it dominated the area.
+West of Ypres and Bailleul runs a chain of isolated hills, from the Mont des Cats through the Mont Noir to [Mount Kemmel](https://pl.wikipedia.org/wiki/Kemmelberg). From the hills of Ypres a low ridge runs south, on which lie the villages of Wytschaete and Messines. It rises only a few dozen metres above the surrounding country, but on the flat Flemish plain it gives a view over the [Lys](/miejsca/leie) valley and the rear of the enemy's positions as far as Ypres. Whoever held it dominated the area.
 
 The Lys, which here runs along the border between France and Belgium, was a serious obstacle for cavalry. The river is a dozen or more metres wide and too deep to ford, and its valley is cut up by ditches and marshy meadows. At this point the British official history quotes the medieval chronicler Froissart, who wrote as early as the 14th century that the Lys could be crossed only in a few places, because horses could not get near its marshy banks.
 
 ## Background
 
-At the beginning of October the British Expeditionary Force was moving from the Aisne to Flanders. On 9 October the two British cavalry divisions were combined into a cavalry corps under Allenby's command. It was to cover the arrival of General William Pulteney's III Corps at [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck) and advance on its left flank, towards Ypres. The British Commander-in-Chief, Field Marshal [John French](/postacie/john-french), agreed with General [Ferdinand Foch](/foch-obejmuje-dowodztwo-we-flandrii) that the Allied armies would move east and outflank the Germans by passing north of Lille.
+At the beginning of October the British Expeditionary Force was moving from the Aisne to Flanders. On 9 October the two British cavalry divisions were combined into a cavalry corps under Allenby's command. It was to cover the arrival of General William Pulteney's III Corps at [Hazebrouck](/miejsca/hazebrouck) and advance on its left flank, towards Ypres. The British Commander-in-Chief, Field Marshal [John French](/postacie/john-french), agreed with General [Ferdinand Foch](/foch-obejmuje-dowodztwo-we-flandrii) that the Allied armies would move east and outflank the Germans by passing north of Lille.
 
 On the German side the IV Cavalry Corps of General von Hollen, consisting of three cavalry divisions, was operating in this area, with its headquarters at [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)). At the beginning of October its horsemen had passed through Ypres and reached as far as Hazebrouck, but had fallen back to the hills around Bailleul. Meanwhile the infantry corps of the Sixth Army of [Crown Prince Rupprecht of Bavaria](/postacie/rupprecht-bawarski) were arriving from the south in the Lille area.
 

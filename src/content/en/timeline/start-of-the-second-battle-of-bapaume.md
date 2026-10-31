@@ -2,7 +2,7 @@
 title: Second Battle of Bapaume begins
 summary: On 31 August 1918 Australians attacked Mont Saint-Quentin above Péronne as the Third Army beat off counter-attacks beyond Bapaume. The battle began.
 source: poczatek-drugiej-bitwy-pod-bapaume
-sourceHash: 17bf8868e39661287e807863d5fec7b24c68d7f2
+sourceHash: 1755729648069f9f1778bd72872caff1bbd8b293
 brief:
   - "At 5 a.m. on 31 August 1918 a small Australian brigade attacked Mont Saint-Quentin, the hill commanding Péronne and the crossings of the Somme. The British Battles Nomenclature Committee dates the Second Battle of Bapaume from this day."
   - "From 21 August the British Third and Fourth Armies had pushed forward, and on the night of 28–29 August the Germans abandoned Bapaume. They hoped to hold a new line through Mont Saint-Quentin through the winter."
@@ -11,7 +11,7 @@ brief:
   - "On 1 September the Australians took Mont Saint-Quentin and almost all of Péronne. After the Drocourt–Quéant line was broken, the Germans decided to withdraw towards the Hindenburg Line."
 ---
 
-At 5 a.m. on 31 August 1918 a small Australian brigade attacked Mont Saint-Quentin, the hill commanding [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)) and the crossings of the Somme. Further north, on the hills beyond the newly recovered [Bapaume](https://pl.wikipedia.org/wiki/Bapaume), the divisions of General [Julian Byng's](/postacie/julian-byng) British Third Army were beating off German counter-attacks and preparing for the next attack. The British Battles Nomenclature Committee dates the Second Battle of Bapaume, which lasted until 3 September, from this day. The British chronology of the war places its start on 21 August, and Field Marshal [Douglas Haig](/postacie/douglas-haig) in his dispatch called the whole Third Army attack from 21 August to 1 September the "Battle of Bapaume". The committee, however, assigned the fighting of the first days to the Battle of Albert and kept the name Battle of Bapaume for the last stage, in which the Germans lost the line of the Somme.
+At 5 a.m. on 31 August 1918 a small Australian brigade attacked Mont Saint-Quentin, the hill commanding [Péronne](/miejsca/peronne) and the crossings of the Somme. Further north, on the hills beyond the newly recovered [Bapaume](/miejsca/bapaume), the divisions of General [Julian Byng's](/postacie/julian-byng) British Third Army were beating off German counter-attacks and preparing for the next attack. The British Battles Nomenclature Committee dates the Second Battle of Bapaume, which lasted until 3 September, from this day. The British chronology of the war places its start on 21 August, and Field Marshal [Douglas Haig](/postacie/douglas-haig) in his dispatch called the whole Third Army attack from 21 August to 1 September the "Battle of Bapaume". The committee, however, assigned the fighting of the first days to the Battle of Albert and kept the name Battle of Bapaume for the last stage, in which the Germans lost the line of the Somme.
 
 ## Ten days of advance
 

@@ -9,7 +9,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Max von Boehn, Otto von Below, Adolph von Carlowitz]
 result: Allied victory. The Third and Fourth Armies passed through the unfinished German positions into open country and took several thousand prisoners. On the night of 8/9 October the Germans began to retreat, and the Canadians and British occupied Cambrai.
 source: bitwa-pod-cambrai-1918
-sourceHash: dbdb5db6dc5f049a4708c98ffa96422c7b6cd570
+sourceHash: 19b97969bebcc7ed85d07ad60b07bd3e2c1fdb27
 brief:
   - "On 8 and 9 October 1918 General Julian Byng's British Third Army and General Henry Rawlinson's Fourth Army, with the American 30th Division, attacked on a front of more than 27 kilometres from Sequehart to the outskirts of Cambrai."
   - "After the breaking of the Hindenburg and Beaurevoir lines the Germans stood on the remnants of their fortifications, with exhausted reserves. Cambrai, an important railway junction, was surrounded by the British on three sides."
@@ -18,7 +18,7 @@ brief:
   - "The battle ended the fighting for the Hindenburg Line: no prepared fortifications now lay before the British as far as the Selle. On the day of the attack President Wilson sent the Germans his first reply to their armistice request."
 ---
 
-The Battle of Cambrai in October 1918 was the last of the [battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga). On the morning of 8 October the British Third Army of General [Julian Byng](/postacie/julian-byng) and the Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson), and with them the American 30th Division, attacked on a front of more than 27 kilometres from Sequehart to the southern outskirts of [Cambrai](https://pl.wikipedia.org/wiki/Cambrai). They passed through the last, unfinished German trenches and came out into open country, not dug up by trenches. The Germans counter-attacked, even with tanks captured earlier from the British, but in the evening or during the night their command ordered the armies to fall back to the rear Hermann Position. On the night of 8/9 October the Canadians crossed the Scheldt Canal north of the town, and their patrols and those of the British 57th Division met in Cambrai, which the Germans had tried to burn before leaving. The town, for which the British had fought in vain in the autumn of 1917, was French again after more than four years of occupation.
+The Battle of Cambrai in October 1918 was the last of the [battles of the Hindenburg Line](/bitwy/bitwy-o-linie-hindenburga). On the morning of 8 October the British Third Army of General [Julian Byng](/postacie/julian-byng) and the Fourth Army of General [Henry Rawlinson](/postacie/henry-rawlinson), and with them the American 30th Division, attacked on a front of more than 27 kilometres from Sequehart to the southern outskirts of [Cambrai](/miejsca/cambrai). They passed through the last, unfinished German trenches and came out into open country, not dug up by trenches. The Germans counter-attacked, even with tanks captured earlier from the British, but in the evening or during the night their command ordered the armies to fall back to the rear Hermann Position. On the night of 8/9 October the Canadians crossed the Scheldt Canal north of the town, and their patrols and those of the British 57th Division met in Cambrai, which the Germans had tried to burn before leaving. The town, for which the British had fought in vain in the autumn of 1917, was French again after more than four years of occupation.
 
 ## Name and dates
 

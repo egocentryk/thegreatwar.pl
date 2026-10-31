@@ -9,7 +9,7 @@ sides:
     commanders: [Oskar Potiorek, Liborius von Frank]
 result: Serbian victory. The Serbian counter-offensive routed Potiorek's armies, retook Valjevo and Belgrade and by mid-December drove the Austro-Hungarians out of the country.
 source: bitwa-nad-kolubara
-sourceHash: 1616f67652a221e0c6ce242c08a405cdd7c84e94
+sourceHash: 6856a69bf38a044dc2cd557d2a86104cf1572dfb
 brief:
   - "The Battle of Kolubara, fought from 16 November to 15 December 1914, was the largest engagement on the Balkan front in 1914. Austria-Hungary had then invaded Serbia for the third time."
   - "The exhausted Serbian army, almost without shells, fell back behind the Kolubara and into the mountains. General Živojin Mišić withdrew the First Army to rest it, and on 2 December Potiorek occupied abandoned Belgrade."
@@ -18,7 +18,7 @@ brief:
   - "The victory wrecked Austro-Hungarian plans for a quick defeat of Serbia, and Potiorek lost his command. In the winter, however, the exhausted country fell victim to an epidemic of typhus."
 ---
 
-The [Battle of Kolubara](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) was the largest engagement on the Balkan front in 1914 and one of the most unexpected victories of the first year of the war. In November the forces of [Austria-Hungary](/kraje/austro-wegry), entering [Serbia](/kraje/serbia) for the third time, pushed the exhausted Serbian army deep into the country and on 2 December occupied the abandoned city of [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). While Vienna was celebrating an imminent victory, the Serbs, at last supplied with ammunition, went over to the counter-offensive. In less than two weeks they routed the armies of General [Oskar Potiorek](/postacie/oskar-potiorek) and drove them out of the whole country.
+The [Battle of Kolubara](https://pl.wikipedia.org/wiki/Bitwa_nad_Kolubarą) was the largest engagement on the Balkan front in 1914 and one of the most unexpected victories of the first year of the war. In November the forces of [Austria-Hungary](/kraje/austro-wegry), entering [Serbia](/kraje/serbia) for the third time, pushed the exhausted Serbian army deep into the country and on 2 December occupied the abandoned city of [Belgrade](/miejsca/belgrad). While Vienna was celebrating an imminent victory, the Serbs, at last supplied with ammunition, went over to the counter-offensive. In less than two weeks they routed the armies of General [Oskar Potiorek](/postacie/oskar-potiorek) and drove them out of the whole country.
 
 ## Name and dates
 

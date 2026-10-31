@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-28 września 1915 roku wojska brytyjskie i indyjskie generała Charlesa Townshenda pokonały Turków pod Es-Sinn nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), około 11 kilometrów na wschód od [Al-Kutu](https://pl.wikipedia.org/wiki/Al-Kut). Po nocnym marszu wokół mokradeł kolumna generała Waltera Delamaina zdobyła reduty na lewym skrzydle tureckiej pozycji, a wieczorem odparła na bagnety nadciągający turecki odwód. Brytyjska historia oficjalna nazywa to starcie bitwą pod Kutem. Było to największe zwycięstwo Brytyjczyków w [Mezopotamii](/bitwy/kampania-mezopotamska) w 1915 roku, ale nie takie, na jakie liczył Townshend.
+28 września 1915 roku wojska brytyjskie i indyjskie generała Charlesa Townshenda pokonały Turków pod Es-Sinn nad [Tygrysem](/miejsca/tygrys), około 11 kilometrów na wschód od [Al-Kutu](/miejsca/al-kut). Po nocnym marszu wokół mokradeł kolumna generała Waltera Delamaina zdobyła reduty na lewym skrzydle tureckiej pozycji, a wieczorem odparła na bagnety nadciągający turecki odwód. Brytyjska historia oficjalna nazywa to starcie bitwą pod Kutem. Było to największe zwycięstwo Brytyjczyków w [Mezopotamii](/bitwy/kampania-mezopotamska) w 1915 roku, ale nie takie, na jakie liczył Townshend.
 
 ## Pozycja, której nie dało się wziąć od frontu
 

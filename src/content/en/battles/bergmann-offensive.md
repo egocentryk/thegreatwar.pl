@@ -9,10 +9,10 @@ sides:
     commanders: [Hasan İzzet Pasha]
 result: Ottoman victory. The Russians withdrew almost to their starting positions and held only a strip of land along the border. The success encouraged Enver Pasha to attack at Sarikamish.
 source: ofensywa-bergmanna
-sourceHash: 40847fdb22debb101c7eb20f3e6e655717f03936
+sourceHash: a66eeeba9283fe48a1e1343f2c0e3df7c253db12
 ---
 
-The Bergmann offensive was the first operation of Russian and Ottoman troops on the Caucasus front of the First World War. A few days after the [Ottoman fleet's attack on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea, units of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) under General Georgy Bergmann crossed the border and advanced up the valley of the [Aras](https://pl.wikipedia.org/wiki/Araks) towards Köprüköy, on the road to the fortress of [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). After a few days of easy progress they ran into a strong counter-attack by the Ottoman Third Army. The Russians had to fall back almost to the border, and the Turks won their first victory of this war.
+The Bergmann offensive was the first operation of Russian and Ottoman troops on the Caucasus front of the First World War. A few days after the [Ottoman fleet's attack on Russian ports](/turecka-flota-atakuje-rosje) on the Black Sea, units of the Russian [Caucasus Army](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) under General Georgy Bergmann crossed the border and advanced up the valley of the [Aras](https://pl.wikipedia.org/wiki/Araks) towards Köprüköy, on the road to the fortress of [Erzurum](/miejsca/erzurum). After a few days of easy progress they ran into a strong counter-attack by the Ottoman Third Army. The Russians had to fall back almost to the border, and the Turks won their first victory of this war.
 
 ## Name and dates
 

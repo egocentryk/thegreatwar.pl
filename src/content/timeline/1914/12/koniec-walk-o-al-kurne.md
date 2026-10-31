@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-8 grudnia 1914 roku rozstrzygnęły się walki o [Al-Kurnę](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)). Wojska brytyjskie i indyjskie przeprawiły się przez [Tygrys](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) powyżej miasta i stanęły na drodze odwrotu tureckiego garnizonu. Był to ostatni dzień walk, które zaczęły się [4 grudnia](/poczatek-walk-o-al-kurne). Jeszcze tej samej nocy Turcy wysłali do Brytyjczyków parlamentariuszy.
+8 grudnia 1914 roku rozstrzygnęły się walki o [Al-Kurnę](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)). Wojska brytyjskie i indyjskie przeprawiły się przez [Tygrys](/miejsca/tygrys) powyżej miasta i stanęły na drodze odwrotu tureckiego garnizonu. Był to ostatni dzień walk, które zaczęły się [4 grudnia](/poczatek-walk-o-al-kurne). Jeszcze tej samej nocy Turcy wysłali do Brytyjczyków parlamentariuszy.
 
 Dzień wcześniej generał brygady Charles Fry, który przybył z posiłkami, odbił z rąk Turków wioskę Muzaira na lewym brzegu Tygrysu i dotarł nad rzekę naprzeciw Al-Kurny. W nocy nadeszły wieści, że około 1,5 tysiąca Turków odpłynęło parowcami na północ, a w mieście zostało około 800 ludzi z czterema działami. Fry postanowił sforsować rzekę.
 

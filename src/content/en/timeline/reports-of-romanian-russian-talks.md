@@ -2,7 +2,7 @@
 title: Reports of Romanian–Russian talks
 summary: A British chronology records the start of Romanian–Russian talks on military aid on 22 January 1916. Other sources do not confirm that date.
 source: doniesienia-o-rozmowach-rumunii-z-rosja
-sourceHash: 2eb768e99d650c3922d192293bcac06678337e04
+sourceHash: 620042e3563beb388fca81187f201519e823150a
 ---
 
 A British chronology of the war records under 22 January 1916 that the government of [Romania](/kraje/rumunia) had opened negotiations with the Russian government on military aid. We have not been able to find in the available studies, Romanian, Austrian and Western, any specific diplomatic step on that day. It is worth remembering that Russia and Romania then reckoned time by the [Julian calendar](/slownik/kalendarz-julianski), in which 22 January corresponded to 9 January. The sources nevertheless allow us to reconstruct well why, at the turn of 1915 and 1916, the question of joint action by the two states came back onto the table, and how it stood in the winter of 1916.
@@ -21,6 +21,6 @@ At Russian headquarters the failure and news of the Romanian–German grain agre
 
 ## Talks without agreement
 
-In the talks on military cooperation, which dragged on through the first half of 1916, the two sides were far apart. The Romanians argued that they could not on their own defend several hundred kilometres of the Carpathians, the Danube line and [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża) as well, and wanted the Russians to take on the defence of Dobruja against the Bulgarians by sending an army of about 200,000 men there. Alekseyev replied that the outcome of the war would not be decided in Dobruja, and that he could not take such forces from the directions of Petrograd and Moscow. Instead he proposed sending about 10 divisions to Bukovina, on the left flank of his own front. According to Kirițescu, it was then said openly in Russian military circles that prolonging Romanian neutrality would be more advantageous for Russia than a new ally with a long border that was hard to defend.
+In the talks on military cooperation, which dragged on through the first half of 1916, the two sides were far apart. The Romanians argued that they could not on their own defend several hundred kilometres of the Carpathians, the Danube line and [Dobruja](/miejsca/dobrudza) as well, and wanted the Russians to take on the defence of Dobruja against the Bulgarians by sending an army of about 200,000 men there. Alekseyev replied that the outcome of the war would not be decided in Dobruja, and that he could not take such forces from the directions of Petrograd and Moscow. Instead he proposed sending about 10 divisions to Bukovina, on the left flank of his own front. According to Kirițescu, it was then said openly in Russian military circles that prolonging Romanian neutrality would be more advantageous for Russia than a new ally with a long border that was hard to defend.
 
 Agreement was reached only in the summer, after the successes of the [Brusilov offensive](https://pl.wikipedia.org/wiki/Ofensywa_Brusiłowa). On 17 August 1916 Romania signed a political treaty and a military convention with the Entente, and on 27 August declared war on Austria-Hungary. Russia then promised to send far fewer troops to Dobruja than the Romanians had demanded.

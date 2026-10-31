@@ -2,10 +2,10 @@
 title: Germans leave Reims
 summary: In mid-September 1914 the Germans withdrew from Reims but dug in on the nearby hills. On 14 September the shelling of the city began. It lasted four years.
 source: niemcy-opuszczaja-reims
-sourceHash: aed07ed8de2518c56254e20068392ecae2e0da77
+sourceHash: ef45612fc3787623847e8305278ff511c5674ec8
 ---
 
-The British chronicle of the war recorded under 14 September 1914 the evacuation of [Reims](https://pl.wikipedia.org/wiki/Reims) by German troops. In reality the Germans had withdrawn from the city two days earlier, on 12 September, and on the morning of 13 September units of the French Fifth Army entered it. 14 September was, however, the first day on which German artillery began systematically shelling the recovered city. The joy of liberation was therefore very short-lived.
+The British chronicle of the war recorded under 14 September 1914 the evacuation of [Reims](/miejsca/reims) by German troops. In reality the Germans had withdrawn from the city two days earlier, on 12 September, and on the morning of 13 September units of the French Fifth Army entered it. 14 September was, however, the first day on which German artillery began systematically shelling the recovered city. The joy of liberation was therefore very short-lived.
 
 ## End of the occupation
 

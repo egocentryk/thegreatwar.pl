@@ -1,0 +1,81 @@
+{
+ "slug": "wardar",
+ "paragraphs": [
+  {"start": "Wardar, po grecku Aksios, płynie z gór w zachodniej",
+   "quotes": [
+    {"url": "https://en.wikipedia.org/wiki/Vardar", "quote": "The river rises at Vrutok, a few kilometers southwest of Gostivar in North Macedonia. It passes through Gostivar, Skopje and into Veles, crosses the Greek border near Gevgelija, Polykastro and Axioupoli (\"town on the Axiós\"), before emptying into the Thermaic Gulf, west of Thessaloniki, in Central Macedonia in northern Greece."},
+    {"file": "src/content/timeline/1915/10/ladowanie-ententy-w-salonikach.md", "quote": "port i jedyna linia kolejowa doliną Wardaru były potrzebne obu stronom"},
+    {"file": "src/content/battles/1915/bitwa-pod-krivolakiem.md", "quote": "24 października – 3 grudnia 1915 Francuzi z Salonik bronili nad Wardarem przyczółków pod Krivolakiem. Bułgarzy odcięli ich od Serbów i zmusili do odwrotu."},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "Przez prawie trzy lata wojska Ententy stały w Macedonii niemal w miejscu"},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "We wrześniu 1918 armie sprzymierzone gen. Francheta d'Espéreya przełamały front w Macedonii, w dwa tygodnie doszły do Skopje i zmusiły Bułgarię do rozejmu."}
+   ]},
+  {"start": "Rzeka liczy 388 kilometrów, z czego 76 płynie przez",
+   "quotes": [
+    {"url": "https://en.wikipedia.org/wiki/Vardar", "quote": "It is 388 km (241 mi) long, out of which 76 km (47 mi) are in Greece"},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "It is the Vardar corridor which gives Salonika its strategic significance"},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "The mountains on three sides are of savage grandeur and as inaccessible as any in Europe, impassable for the purposes of trade or war except along the corridors cut by certain rivers."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "This route branches off at Niš from the still greater highway (along the Maritsa valley from Sofia to Adrianople) to Constantinople and the east. It follows the Southern Morava, crosses the watershed, and runs down the valley of the Vardar to Salonika. Along it is laid the Niš—Salonika railway."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "now in the Vardar valley, one of the great highways of history, there were only bridle-paths or the most primitive cart-tracks. There were no bridges over the river in Serbian territory up to Veles except those of the railway, and they were of steel, with the rails bolted to the traverses and no footway."}
+   ]},
+  {"start": "Po drugiej wojnie bałkańskiej pokój bukareszteński",
+   "quotes": [
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "Serbia extended her territories to include northern Macedonia, to just south of Monastir. Greece got all southern Macedonia to Kavalla, including that port."},
+    {"file": "src/content/timeline/1913/08/pokoj-bukaresztenski-konczy-druga-wojne-balkanska.md", "quote": "Straciła południową Dobrudżę i większość Macedonii."},
+    {"file": "src/content/timeline/1915/09/traktat-sojuszniczy-w-sofii.md", "quote": "6 września 1915 Bułgaria zawarła w Sofii tajny sojusz z Niemcami, a w Pszczynie konwencję wojskową. Za udział w ataku na Serbię miała dostać jej Macedonię."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "Bulgaria would win Macedonia and the Vardar corridor. It was “a bargain in valleys.”"}
+   ]},
+  {"start": "W październiku 1915 roku Bułgarzy uderzyli na Serbię",
+   "quotes": [
+    {"file": "src/content/timeline/1915/10/bulgarzy-zajmuja-weles.md", "quote": "Około 20 października 1915 bułgarska kawaleria zajęła Wełes nad Wardarem. Kolej z Salonik do Skopje została przecięta, a Serbowie odcięci od Francuzów."},
+    {"file": "src/content/timeline/1915/10/bulgarzy-zajmuja-kumanowo-i-skopje.md", "quote": "22 października 1915 roku oddziały bułgarskiej 2 Armii generała Georgiego Todorowa wkroczyły do Skopje"},
+    {"file": "src/content/timeline/1915/10/bulgarzy-zajmuja-weles.md", "quote": "Francuzi generała Maurice'a Sarraila posuwali się koleją w górę Wardaru"},
+    {"file": "src/content/timeline/1915/10/pierwsze-starcia-francuzow-z-bulgarami.md", "quote": "Pierwszą walkę z Bułgarami stoczyli 21 października pod stacją Strumica."}
+   ]},
+  {"start": "Przez ponad pięć tygodni dwie francuskie dywizje",
+   "quotes": [
+    {"file": "src/content/timeline/1915/12/francuzi-opuszczaja-krivolak.md", "quote": "Przez ponad pięć tygodni dwie dywizje francuskiej Armii Wschodu, 57 i 122, broniły tu przyczółków nad Wardarem i Crną Reką, czekając na połączenie z armią serbską."},
+    {"file": "src/content/timeline/1915/12/walki-pod-demir-kapija.md", "quote": "5 i 6 grudnia 1915 francuska straż tylna broniła przełomu Wardaru pod Demir Kapiją."},
+    {"file": "src/content/timeline/1915/12/ostatnie-wojska-ententy-opuszczaja-macedonie.md", "quote": "Według brytyjskiej i austriackiej historii oficjalnej granicę przekroczyły już 12 grudnia zarówno wojska brytyjskie, wyparte spod Kosturino i Dojranu, jak i francuskie"},
+    {"file": "src/content/timeline/1915/12/ostatnie-wojska-ententy-opuszczaja-macedonie.md", "quote": "Dopiero 15 grudnia generał Maurice Sarrail kazał im odejść od granicy na południe, ku Salonikom."},
+    {"file": "src/content/timeline/1915/12/ostatnie-wojska-ententy-opuszczaja-macedonie.md", "quote": "Bułgarzy stanęli na greckiej granicy, a sprzymierzeni cofnęli się pod Saloniki."}
+   ]},
+  {"start": "Przez prawie trzy lata front przecinał dolinę",
+   "quotes": [
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "Przez prawie trzy lata wojska Ententy stały w Macedonii niemal w miejscu"},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "the enemy’s advanced position between Lake Dojran and the Vardar, amid tumbled hills forming a barrier of immense strength, even though they were of no great height as mountains go in Macedonia."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "Then, west of the Vardar valley, the Serbian frontier followed a well-defined ridge running generally south-west to the great bend of the Crna below Monastir. Here, as everywhere, the actual frontier-line on the map had great strategic importance, because it was traced along the highest crests and because it was upon the frontier that the Bulgarians had halted."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-1", "quote": "Only on the two flanks, in the Struma valley on the east and the Crna valley on the west, was the ground in the least favourable to offensive action"},
+    {"file": "src/content/timeline/1916/05/zestrzelenie-sterowca-lz-85.md", "quote": "5 maja 1916 nad Salonikami pancernik Agamemnon zestrzelił niemiecki sterowiec LZ 85. Wrak spadł w bagna u ujścia Wardaru"}
+   ]},
+  {"start": "W 1917 roku sprzymierzeni dwa razy próbowali",
+   "quotes": [
+    {"file": "src/content/battles/1917/bitwa-pod-dojranem-1917.md", "quote": "Nocami 24/25 kwietnia i 8/9 maja 1917 Brytyjczycy szturmowali bułgarskie pozycje nad jeziorem Dojran. Stracili ok. 5 tys. ludzi i niemal nic nie zdobyli."},
+    {"file": "src/content/battles/1917/bitwa-nad-wardarem-1917.md", "quote": "Najcięższe walki toczyły się jednak nie nad Wardarem, lecz kilkadziesiąt kilometrów dalej na zachód, w zakolu Czarnej Rzeki i w górach nad kotliną Meglena."},
+    {"file": "src/content/battles/1917/bitwa-nad-wardarem-1917.md", "quote": "W nocy 5 maja francuska 122 Dywizja i grecka dywizja przesunęły linię naprzód na odcinku długim na prawie pięć kilometrów, miejscami o ponad 800 metrów. Zajęły głównie wysunięte posterunki."},
+    {"file": "src/content/battles/1918/bitwa-pod-skra.md", "quote": "30 maja 1918 greckie dywizje armii Wenizelosa, wsparte przez francuską artylerię, w kilka godzin zdobyły bułgarski występ Skra di Legen w Macedonii."},
+    {"file": "src/content/battles/1918/bitwa-pod-skra.md", "quote": "kilkanaście kilometrów na zachód od Wardaru"}
+   ]},
+  {"start": "Generał Louis Franchet d'Espérey oparł swój plan",
+   "quotes": [
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "Najczulszym punktem bułgarskiego frontu były dwie wsie nad Wardarem, Gradsko i Krivolak, około 55 kilometrów za linią frontu. Tam zbiegały się kolej z Salonik na północ, kolejka wąskotorowa z frontu pod Bitolą i drogi łączące oba skrzydła wojsk bułgarskich."},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "Bezpośrednia droga nad Wardar, przez silnie umocnione wzgórza pod Dojranem albo przez równinę pod Bitolą, była zamknięta, bo tam Bułgarzy byli najsilniejsi i tam się ich spodziewano."},
+    {"file": "src/content/battles/1918/bitwa-pod-dobrym-polem.md", "quote": "15–17 września 1918 Serbowie i Francuzi szturmem zdobyli górski grzbiet Dobro Pole–Sokol–Vetrenik i rozerwali bułgarski front w Macedonii."}
+   ]},
+  {"start": "Przed świtem 21 września Serbowie zobaczyli z gór",
+   "quotes": [
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "And so, before dawn on the 21st, the Serbians, looking down from the high ground into the valley of the Vardar, saw the glare of burning villages and depots, while ever and anon the crash of an explosion came to their ears as the enemy blew up an ammunition dump."},
+    {"url": "https://archive.org/details/military-operations-macedonia-vol-2", "quote": "That evening the heads of the columns reached the river"},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "21 września Serbowie zeszli w dolinę Wardaru, a w nocy z 21 na 22 września bułgarska 1 Armia opuściła pozycje pod Dojranem, nie pokonana w polu. Brytyjczycy i Grecy ruszyli w pościg"},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "23 września Serbowie sforsowali Wardar"},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "24 września, według Fallsa, Francuzi i Serbowie zajęli Gradsko, gdzie wzięli 19 dział i około 40 lokomotyw. Cel pierwszej fazy ofensywy był osiągnięty: bułgarski front został rozcięty."}
+   ]},
+  {"start": "Dalej szło się w górę rzeki.",
+   "quotes": [
+    {"file": "src/content/timeline/1918/09/serbowie-odbijaja-sztip-i-weles.md", "quote": "a 26 września serbska 1 Armia zajęła Wełes nad Wardarem"},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "29 września o świcie, we mgle, zaatakowała Skopje, rozbiła liczniejszą, ale słabą załogę i zajęła miasto. Korpus Flecka został odcięty."},
+    {"file": "src/content/timeline/1918/09/rozejm-w-salonikach.md", "quote": "francuska kawaleria wdarła się rano do Skopje i odcięła drogę odwrotu wojskom stojącym dalej na zachodzie"},
+    {"file": "src/content/timeline/1918/09/rozejm-w-salonikach.md", "quote": "29 września 1918 Bułgaria podpisała w Salonikach rozejm z Ententą."},
+    {"file": "src/content/battles/1918/ofensywa-nad-wardarem.md", "quote": "Był to pierwszy wyłom w bloku państw centralnych."}
+   ]}
+ ]
+}

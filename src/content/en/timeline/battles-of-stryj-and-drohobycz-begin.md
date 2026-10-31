@@ -2,7 +2,7 @@
 title: Battles of Stryj and Drohobycz begin
 summary: In mid-May 1915 the South Army came down from the Carpathians to Stryj and Drohobycz. The Russians stood there on a new line and repulsed attack after attack.
 source: poczatek-bitew-pod-stryjem-i-drohobyczem
-sourceHash: 951b182473889de26115d2399021214ea04a1329
+sourceHash: a1e643ebff49d4c79fecb76453dde8c46091377c
 ---
 
 The British chronology of the war records under 18 May 1915 the beginning of the battles of Stryj and Drohobycz. Behind this lies the fighting of the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen), which after the breakthrough at Gorlice came down from the Carpathians into the foothills and ran into a new Russian defensive line in front of [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)), [Dolina](https://pl.wikipedia.org/wiki/Dolina_(miasto)) and [Drohobycz](https://pl.wikipedia.org/wiki/Drohobycz). According to the Austrian official history, the first attacks on this line began as early as 16 May, and 18 May was the third day of attacks that brought no decision.
@@ -25,4 +25,4 @@ Between 16 and 18 May the attacks of Szurmay's corps near Drohobycz achieved alm
 
 Further east still, on the Prut and near Nadwórna, the Austro-Hungarian Seventh Army of General [Karl von Pflanzer-Baltin](/postacie/karl-pflanzer-baltin) was fighting hard in the same days. Neither its attack nor the Russian thrusts towards Kołomyja and Nadwórna succeeded, and around 20 May the fighting in this sector died down.
 
-Linsingen concluded that attacks made separately by individual corps at different points of the front would not break the Russians. He decided to concentrate as many forces as possible in one place and deliver a single powerful blow towards Stryj. The preparations took another week. Stryj fell on 31 May, and in the first days of June the Russians withdrew from this sector behind the [Dniester](https://pl.wikipedia.org/wiki/Dniestr). The British chronology closes the battles of Stryj and Drohobycz on 3 June.
+Linsingen concluded that attacks made separately by individual corps at different points of the front would not break the Russians. He decided to concentrate as many forces as possible in one place and deliver a single powerful blow towards Stryj. The preparations took another week. Stryj fell on 31 May, and in the first days of June the Russians withdrew from this sector behind the [Dniester](/miejsca/dniestr). The British chronology closes the battles of Stryj and Drohobycz on 3 June.

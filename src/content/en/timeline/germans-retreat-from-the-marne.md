@@ -2,7 +2,7 @@
 title: Germans retreat from the Marne
 summary: On 9 September 1914 the German 1st and 2nd Armies began to retreat from the Marne, sealed by Moltke's envoy Hentsch. The plan for a quick victory failed.
 source: niemcy-wycofuja-sie-znad-marny
-sourceHash: 75c5c50f49ac395db5d7615a49db436a7c5ac4f1
+sourceHash: 3203a113f194da581c6089c0b403b6d2847f03ff
 brief:
   - "On 9 September 1914 General Karl von Bülow's German 2nd Army, and a few hours later General Alexander von Kluck's 1st Army, began to withdraw from the Marne. That day the Battle of the Marne was decided."
   - "Kluck had moved corps to the Ourcq against Maunoury's 6th Army, opening a gap some 40–50 kilometres wide between him and Bülow. The British and the left wing of the French 5th Army were entering it."
@@ -33,7 +33,7 @@ On the morning of 9 September airmen reported that British columns were crossing
 
 ## The decision at Mareuil
 
-Hentsch reached Mareuil at about 11.30 a.m. (some sources give a later hour). He did not speak to Kluck himself but to his chief of staff, General Hermann von Kuhl. He described the position of the 2nd Army and declared, in the name of the Supreme Army Command, that the 1st Army must withdraw. Kuhl was surprised. On the Ourcq his troops were just attacking Maunoury's left wing, and he believed victory was close. Faced with Bülow's retreat and the gap on his left wing, however, he had no choice. At about 2 p.m. the 1st Army received the order to retreat north, towards [Soissons](https://pl.wikipedia.org/wiki/Soissons) and the River [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)).
+Hentsch reached Mareuil at about 11.30 a.m. (some sources give a later hour). He did not speak to Kluck himself but to his chief of staff, General Hermann von Kuhl. He described the position of the 2nd Army and declared, in the name of the Supreme Army Command, that the 1st Army must withdraw. Kuhl was surprised. On the Ourcq his troops were just attacking Maunoury's left wing, and he believed victory was close. Faced with Bülow's retreat and the gap on his left wing, however, he had no choice. At about 2 p.m. the 1st Army received the order to retreat north, towards [Soissons](/miejsca/soissons) and the River [Aisne](/miejsca/aisne).
 
 ## The British on the Marne
 

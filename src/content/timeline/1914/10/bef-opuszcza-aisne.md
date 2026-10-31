@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 października 1914 roku, według brytyjskiej kroniki wojny, [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) zaczął opuszczać swoje pozycje nad [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)) i przechodzić na północ. Tę datę jako początek operacji podał w swoim raporcie dowódca korpusu, marszałek [John French](/postacie/john-french). Brytyjska historia oficjalna przesuwa ją nieco wcześniej: pierwsze oddziały wycofały się z linii frontu już w nocy z 1 na 2 października.
+3 października 1914 roku, według brytyjskiej kroniki wojny, [Brytyjski Korpus Ekspedycyjny](/sily-zbrojne/brytyjski-korpus-ekspedycyjny) zaczął opuszczać swoje pozycje nad [Aisne](/miejsca/aisne) i przechodzić na północ. Tę datę jako początek operacji podał w swoim raporcie dowódca korpusu, marszałek [John French](/postacie/john-french). Brytyjska historia oficjalna przesuwa ją nieco wcześniej: pierwsze oddziały wycofały się z linii frontu już w nocy z 1 na 2 października.
 
 ## Powrót na lewe skrzydło
 

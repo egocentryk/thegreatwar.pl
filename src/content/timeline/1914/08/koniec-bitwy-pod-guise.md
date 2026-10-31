@@ -26,6 +26,6 @@ Obie strony przypisywały sobie sukces. Generał [Karl von Bülow](/postacie/kar
 
 ## Zwrot Klucka
 
-Najważniejsze skutki bitwy ujawniły się poza polem walki. Bülow zwrócił się do dowódcy sąsiedniej 1 Armii, generała [Alexandra von Klucka](/postacie/alexander-von-kluck), o pomoc w dobiciu 5 Armii. Wieczorem 30 sierpnia Kluck postanowił skręcić na południowy wschód, w kierunku [Noyon](https://pl.wikipedia.org/wiki/Noyon) i [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), zamiast obchodzić Paryż od zachodu. Następnego dnia naczelne dowództwo niemieckie zaakceptowało ten manewr.
+Najważniejsze skutki bitwy ujawniły się poza polem walki. Bülow zwrócił się do dowódcy sąsiedniej 1 Armii, generała [Alexandra von Klucka](/postacie/alexander-von-kluck), o pomoc w dobiciu 5 Armii. Wieczorem 30 sierpnia Kluck postanowił skręcić na południowy wschód, w kierunku [Noyon](/miejsca/noyon) i [Compiègne](https://pl.wikipedia.org/wiki/Compiègne), zamiast obchodzić Paryż od zachodu. Następnego dnia naczelne dowództwo niemieckie zaakceptowało ten manewr.
 
 Tym samym Niemcy odeszli od założeń [planu Schlieffena](/slownik/plan-schlieffena). Armia Klucka miała przejść na wschód od Paryża, wystawiając swój prawy bok na uderzenie francuskiej 6 Armii, gromadzonej w rejonie stolicy. Kilka dni później Joffre wykorzystał tę okazję w [bitwie nad Marną](https://pl.wikipedia.org/wiki/I_bitwa_nad_Marną). Początek walk opisujemy w artykule [Początek bitwy pod Guise](/poczatek-bitwy-pod-guise).

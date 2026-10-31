@@ -9,10 +9,10 @@ sides:
     commanders: [Nureddin Bey]
 result: British victory. On the night of 8/9 January the Turks withdrew upstream, but escaped destruction, while the relief force lost about 4,000 men and several days.
 source: bitwa-pod-szejk-saad
-sourceHash: 8b5e34b2f7109536b09c83cc1ab7c69520ad0f19
+sourceHash: a393d0a3490f4d64093c1ae488feec9013dd1db3
 ---
 
-The Battle of Sheikh Saad was the first battle fought by the British troops marching to relieve General Charles Townshend's division, [besieged at Kut](/bitwy/oblezenie-al-kutu) on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). General Fenton Aylmer's hastily assembled Tigris Corps came up against a strong Ottoman position on both banks several dozen kilometres downstream of the town. For three days British and Indian soldiers attacked across a flat plain without cover, in fog, mirage and rain. On the right bank they took the Turkish trenches, on the left bank they were held up in front of them. On the night of 8/9 January the Turks withdrew in good order, and Aylmer, with exhausted troops and thousands of wounded whom he had no means of treating, could not pursue them. The victory cost about 4,000 men.
+The Battle of Sheikh Saad was the first battle fought by the British troops marching to relieve General Charles Townshend's division, [besieged at Kut](/bitwy/oblezenie-al-kutu) on the [Tigris](/miejsca/tygrys). General Fenton Aylmer's hastily assembled Tigris Corps came up against a strong Ottoman position on both banks several dozen kilometres downstream of the town. For three days British and Indian soldiers attacked across a flat plain without cover, in fog, mirage and rain. On the right bank they took the Turkish trenches, on the left bank they were held up in front of them. On the night of 8/9 January the Turks withdrew in good order, and Aylmer, with exhausted troops and thousands of wounded whom he had no means of treating, could not pursue them. The victory cost about 4,000 men.
 
 ## Name and dates
 

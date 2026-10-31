@@ -2,10 +2,10 @@
 title: Battle of the San begins
 summary: On 16 May 1915 the Germans entered Jarosław and began crossing the San. On the river line the Russians were to halt the Central Powers' offensive in Galicia.
 source: poczatek-bitwy-nad-sanem
-sourceHash: 126e573596b4b6169481b452947e68c8a8520447
+sourceHash: 0c8cabf7a63788282a55b044d9242a52bc12ff24
 ---
 
-Early in the morning of 16 May 1915 the first units of the German Guard Corps entered [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)). During the night the Russian XXIV Corps, after two days of [fighting for the bridgehead](/panstwa-centralne-zdobywaja-jaroslaw), had withdrawn to the eastern bank of the [San](https://pl.wikipedia.org/wiki/San) and set fire to the bridge behind it. That same day the Guard and the Austro-Hungarian VI Corps began to cross the river on pontoons. The British chronology of the war regards 16 May as the first day of the battle of the San, in which the armies of the Central Powers fought to cross the river and the Russians tried to stop them.
+Early in the morning of 16 May 1915 the first units of the German Guard Corps entered [Jarosław](https://pl.wikipedia.org/wiki/Jarosław_(województwo_podkarpackie)). During the night the Russian XXIV Corps, after two days of [fighting for the bridgehead](/panstwa-centralne-zdobywaja-jaroslaw), had withdrawn to the eastern bank of the [San](/miejsca/san) and set fire to the bridge behind it. That same day the Guard and the Austro-Hungarian VI Corps began to cross the river on pontoons. The British chronology of the war regards 16 May as the first day of the battle of the San, in which the armies of the Central Powers fought to cross the river and the Russians tried to stop them.
 
 ## A line that was meant to hold
 

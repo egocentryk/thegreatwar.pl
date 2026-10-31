@@ -17,7 +17,7 @@ tags: [Niemiecka Afryka Wschodnia, Paul von Lettow-Vorbeck, Indie Brytyjskie, Wi
 milestone: false
 ---
 
-Bitwa pod Jasinem była drugim, po [Tandze](/bitwy/bitwa-pod-tanga), dużym starciem w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Dziewięć kompanii niemieckich wojsk kolonialnych pod dowództwem podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) otoczyło brytyjski posterunek w Jasinie, plantacji tuż za granicą [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). Odsiecz nie zdołała się przebić i po dobie walk około 300 żołnierzy indyjskich skapitulowało. Dla Lettow-Vorbecka było to jednak zwycięstwo pyrrusowe. Stracił tylu oficerów i tyle amunicji, że uznał, iż na podobne bitwy nie może sobie więcej pozwolić.
+Bitwa pod Jasinem była drugim, po [Tandze](/bitwy/bitwa-pod-tanga), dużym starciem w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Dziewięć kompanii niemieckich wojsk kolonialnych pod dowództwem podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) otoczyło brytyjski posterunek w Jasinie, plantacji tuż za granicą [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Odsiecz nie zdołała się przebić i po dobie walk około 300 żołnierzy indyjskich skapitulowało. Dla Lettow-Vorbecka było to jednak zwycięstwo pyrrusowe. Stracił tylu oficerów i tyle amunicji, że uznał, iż na podobne bitwy nie może sobie więcej pozwolić.
 
 ## Nazwa i daty
 
@@ -35,7 +35,7 @@ Lettow-Vorbeck widział w tym zapowiedź marszu na [Tangę](https://pl.wikipedia
 
 Jasinu broniło około 300 żołnierzy indyjskich w starannie zbudowanym i zamaskowanym szańcu: kompania 101 Pułku Grenadierów i żołnierze 2 Batalionu Strzelców Kaszmirskich, wojsk indyjskiego księstwa Dżammu i Kaszmir, z karabinem maszynowym King's African Rifles. Dowodził nimi Raghbir Singh, dowódca batalionu kaszmirskiego, a wspierali go dwaj brytyjscy oficerowie, kapitanowie Hanson i Turner. Około 40 Kaszmirczyków obsadzało osobny posterunek przy fabryce sizalu. W obozach nad Umbą Tighe miał kilka kompanii King's African Rifles, pół batalionu piechoty z indyjskiego księstwa Jind, piechotę indyjską i dwa działa górskie. Lettow-Vorbeck, na podstawie zdobytych później dokumentów, oceniał siły brytyjskie w okolicy na ponad dwadzieścia kompanii.
 
-Niemcy zebrali dziewięć kompanii [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), w tym kompanię złożoną z Europejczyków, oddział arabskich ochotników i dwa działa polowe. Według części opracowań było to około 1600 ludzi, w tym około 250 Europejczyków. Większość kompanii przyjechała koleją spod [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). 16 stycznia wysiadły pod Tangą, a wieczorem 17 stycznia całość stanęła na plantacji Totohovu, około 11 kilometrów na południe od Jasinu.
+Niemcy zebrali dziewięć kompanii [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe), w tym kompanię złożoną z Europejczyków, oddział arabskich ochotników i dwa działa polowe. Według części opracowań było to około 1600 ludzi, w tym około 250 Europejczyków. Większość kompanii przyjechała koleją spod [Kilimandżaro](/bitwy/kampania-wschodnioafrykanska). 16 stycznia wysiadły pod Tangą, a wieczorem 17 stycznia całość stanęła na plantacji Totohovu, około 11 kilometrów na południe od Jasinu.
 
 ## Przebieg bitwy
 

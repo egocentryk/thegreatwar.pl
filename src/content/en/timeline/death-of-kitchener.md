@@ -2,7 +2,7 @@
 title: Death of Kitchener
 summary: On 5 June 1916 the cruiser Hampshire, carrying Lord Kitchener to Russia, struck a mine off Orkney. The war minister died with almost all the crew; 12 survived.
 source: smierc-kitchenera
-sourceHash: 4dcdd5325361271cf133648de7942c7a4db6a71d
+sourceHash: 59e90fc0257b5efe9baf705785710cb63113d46f
 brief:
   - "On the evening of 5 June 1916, during a gale off the west coast of Orkney, the armoured cruiser Hampshire struck a mine and sank. On board, on his way to Russia, was the Secretary of State for War, Lord Kitchener."
   - "Kitchener was to head a military and financial mission to Russia, which was demanding arms and credits. His position in the government had been weakening for months."
@@ -15,13 +15,13 @@ On the evening of 5 June 1916, during a gale off the west coast of [Orkney](http
 
 ## Mission to Russia
 
-In the spring of 1916 Russia was demanding ever larger deliveries of arms and ammunition from Britain, as well as credits to buy them. London could not meet all these demands without breaking its financial commitments to other allies, but neither did it want to offend an ally that had been suffering enormous losses for two years. It was decided to send to Russia an envoy of the highest rank, who would explain British policy to the Russian ministers and discuss plans for joint action that year. The choice fell on Kitchener, whose authority abroad was almost as great as at home. Tsar [Nicholas II](/postacie/mikolaj-ii) welcomed the choice with delight and personally invited the field marshal. On 26 May Kitchener agreed to head the military and financial mission. Its destination was [Archangel](https://pl.wikipedia.org/wiki/Archangielsk), a port on the White Sea, from where the delegation was to travel on by rail.
+In the spring of 1916 Russia was demanding ever larger deliveries of arms and ammunition from Britain, as well as credits to buy them. London could not meet all these demands without breaking its financial commitments to other allies, but neither did it want to offend an ally that had been suffering enormous losses for two years. It was decided to send to Russia an envoy of the highest rank, who would explain British policy to the Russian ministers and discuss plans for joint action that year. The choice fell on Kitchener, whose authority abroad was almost as great as at home. Tsar [Nicholas II](/postacie/mikolaj-ii) welcomed the choice with delight and personally invited the field marshal. On 26 May Kitchener agreed to head the military and financial mission. Its destination was [Archangel](/miejsca/archangielsk), a port on the White Sea, from where the delegation was to travel on by rail.
 
 For Kitchener the journey was also a respite from his troubles at home. His position in the government had been weakening for months. Since December 1915 the government's adviser on strategy had no longer been he but the [Chief of the Imperial General Staff](/william-robertson-szefem-imperialnego-sztabu-generalnego), General William Robertson, and politicians and the press blamed the minister for the shell shortage and the failure at the Dardanelles.
 
 ## The last voyage of the Hampshire
 
-Kitchener and his suite arrived at [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) on 5 June. They lunched with Admiral [John Jellicoe](/postacie/john-jellicoe) aboard his flagship. The conversation was mainly about the [Battle of Jutland](/koniec-bitwy-jutlandzkiej), fought a few days earlier. The Hampshire, a cruiser of the Grand Fleet, which was now entrusted with carrying the mission, had also taken part in it. In the afternoon the guests went aboard her.
+Kitchener and his suite arrived at [Scapa Flow](/miejsca/scapa-flow) on 5 June. They lunched with Admiral [John Jellicoe](/postacie/john-jellicoe) aboard his flagship. The conversation was mainly about the [Battle of Jutland](/koniec-bitwy-jutlandzkiej), fought a few days earlier. The Hampshire, a cruiser of the Grand Fleet, which was now entrusted with carrying the mission, had also taken part in it. In the afternoon the guests went aboard her.
 
 A strong gale was blowing from the north-east. Jellicoe had three routes to choose from. He judged that the route along the eastern shores of Orkney was too exposed to the wind and that submarines had been sighted there in the preceding days, while on the route through the Pentland Firth the minesweepers had not managed to clear the channel in the storm. He therefore chose the route close to the west coast of the island of [Mainland](https://pl.wikipedia.org/wiki/Mainland_(Orkady)), normally used by the fleet's auxiliary vessels and sheltered from the seas in that wind. The Germans were not known ever to have laid mines so far north. Jellicoe was later criticised for this choice.
 

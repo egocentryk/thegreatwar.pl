@@ -2,7 +2,7 @@
 title: Third Battle of the Aisne begins
 summary: On 27 May 1918, after a bombardment by over 1,000 batteries, the Germans took the Chemin des Dames, broke British IX Corps and crossed the Aisne to the Vesle.
 source: poczatek-trzeciej-bitwy-nad-aisne
-sourceHash: a0f92c990083cae8c57c546592dd6c3ed1ad0acc
+sourceHash: dc0306a8cfd72200343770e28edc5e4838fec562
 brief:
   - "At one o'clock in the morning on 27 May 1918 the German artillery opened fire on the Aisne, between Reims and Soissons. So began the third great offensive of spring 1918, conceived by Ludendorff as a diversion."
   - "The sector was considered the quietest on the front, which is why four exhausted divisions of the British IX Corps had been sent there to rest. The French Sixth Army was commanded by General Denis Duchêne."
@@ -11,7 +11,7 @@ brief:
   - "It was one of the German army's greatest successes in the west. Over the following days the Germans reached the Marne, and the British official history lays the blame chiefly on Duchêne."
 ---
 
-On Monday 27 May 1918, at one o'clock in the morning, in total darkness, for there was no moon, the German artillery opened fire on the front along the river [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)), between Reims and Soissons. So began the third great offensive of spring 1918, which [Erich Ludendorff](/postacie/erich-ludendorff) had conceived as a diversionary blow to draw the French reserves away from Flanders. After two hours and forty minutes of the heaviest bombardment of the war, the German infantry advanced on the Chemin des Dames ridge, held by the French of General Denis Duchêne's Sixth Army and four exhausted divisions of the British IX Corps, sent here to rest after the battles of March and April. Within a few hours the Germans took the whole ridge, for which the French had fought throughout 1917, crossed the Aisne by undamaged bridges, and by evening stood on the Vesle, about 20 kilometres from their starting trenches. It was one of the greatest successes of the German army in the whole war in the west. Times are given as in the British official history, in Allied time, one hour behind German time.
+On Monday 27 May 1918, at one o'clock in the morning, in total darkness, for there was no moon, the German artillery opened fire on the front along the river [Aisne](/miejsca/aisne), between Reims and Soissons. So began the third great offensive of spring 1918, which [Erich Ludendorff](/postacie/erich-ludendorff) had conceived as a diversionary blow to draw the French reserves away from Flanders. After two hours and forty minutes of the heaviest bombardment of the war, the German infantry advanced on the Chemin des Dames ridge, held by the French of General Denis Duchêne's Sixth Army and four exhausted divisions of the British IX Corps, sent here to rest after the battles of March and April. Within a few hours the Germans took the whole ridge, for which the French had fought throughout 1917, crossed the Aisne by undamaged bridges, and by evening stood on the Vesle, about 20 kilometres from their starting trenches. It was one of the greatest successes of the German army in the whole war in the west. Times are given as in the British official history, in Allied time, one hour behind German time.
 
 ## The last evening
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod datą 3 kwietnia 1915 roku ukończenie zapory w [Cieśninie Kaletańskiej](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska), najkrótszej drodze z Morza Północnego do kanału La Manche. Trudno wskazać jedno wydarzenie, które tego dnia zamknęłoby prace. Zapora powstawała etapami od zimy. Na początku kwietnia jej pierwsza część, czyli pola minowe i pas sieci sygnalizacyjnych pilnowany przez kutry i niszczyciele Dover Patrol, działała już w pełnym zakresie. Najambitniejszy element, ciężka zapora sieciowa przegradzająca całą cieśninę, był dopiero w budowie.
+Brytyjska chronologia wojny odnotowuje pod datą 3 kwietnia 1915 roku ukończenie zapory w [Cieśninie Kaletańskiej](/miejsca/ciesnina-kaletanska), najkrótszej drodze z Morza Północnego do kanału La Manche. Trudno wskazać jedno wydarzenie, które tego dnia zamknęłoby prace. Zapora powstawała etapami od zimy. Na początku kwietnia jej pierwsza część, czyli pola minowe i pas sieci sygnalizacyjnych pilnowany przez kutry i niszczyciele Dover Patrol, działała już w pełnym zakresie. Najambitniejszy element, ciężka zapora sieciowa przegradzająca całą cieśninę, był dopiero w budowie.
 
 ## Miny i sieci
 

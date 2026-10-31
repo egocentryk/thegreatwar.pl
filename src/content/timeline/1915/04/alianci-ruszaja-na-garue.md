@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 17 kwietnia 1915 roku początek operacji alianckich wojsk, które miały zdobyć Garuę (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)), niemiecką twierdzę nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) na północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). W tych dniach pod Garuę maszerował z Nigerii podpułkownik Frederick Cunliffe z posiłkami i ciężkim działem. Według brytyjskiej oficjalnej historii kampanii wyruszył z [Yoli](https://pl.wikipedia.org/wiki/Yola_(miasto)) 12 kwietnia, a do obozu pod Garuą dotarł 18 kwietnia.
+Brytyjska chronologia wojny notuje pod 17 kwietnia 1915 roku początek operacji alianckich wojsk, które miały zdobyć Garuę (dziś [Garoua](https://pl.wikipedia.org/wiki/Garoua)), niemiecką twierdzę nad rzeką [Benue](https://pl.wikipedia.org/wiki/Benue_(rzeka)) na północy [Kamerunu Niemieckiego](/miejsca/kamerun). W tych dniach pod Garuę maszerował z Nigerii podpułkownik Frederick Cunliffe z posiłkami i ciężkim działem. Według brytyjskiej oficjalnej historii kampanii wyruszył z [Yoli](https://pl.wikipedia.org/wiki/Yola_(miasto)) 12 kwietnia, a do obozu pod Garuą dotarł 18 kwietnia.
 
 ## Twierdza, której nie dało się zdobyć
 

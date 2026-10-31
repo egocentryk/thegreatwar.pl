@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny odnotowuje pod datą 24 stycznia 1915 roku utratę niemieckiego [sterowca](/slownik/sterowiec) PL 19 w pobliżu [Lipawy](https://pl.wikipedia.org/wiki/Lipawa), rosyjskiego portu w [Kurlandii](https://pl.wikipedia.org/wiki/Kurlandia), nazywanego wówczas Libawą (po niemiecku Libau). Sterowiec zbombardował miasto, w drodze powrotnej spadł do morza, a jego załoga dostała się do niewoli. Większość opracowań, w tym niemieckich, oraz rosyjskie dokumenty podają jednak datę 25 stycznia (według obowiązującego wtedy w Rosji [kalendarza juliańskiego](/slownik/kalendarz-julianski) był to 12 stycznia).
+Brytyjska chronologia wojny odnotowuje pod datą 24 stycznia 1915 roku utratę niemieckiego [sterowca](/slownik/sterowiec) PL 19 w pobliżu [Lipawy](https://pl.wikipedia.org/wiki/Lipawa), rosyjskiego portu w [Kurlandii](/miejsca/kurlandia), nazywanego wówczas Libawą (po niemiecku Libau). Sterowiec zbombardował miasto, w drodze powrotnej spadł do morza, a jego załoga dostała się do niewoli. Większość opracowań, w tym niemieckich, oraz rosyjskie dokumenty podają jednak datę 25 stycznia (według obowiązującego wtedy w Rosji [kalendarza juliańskiego](/slownik/kalendarz-julianski) był to 12 stycznia).
 
 ## Sterowiec zamówiony przez Brytyjczyków
 

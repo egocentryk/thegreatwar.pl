@@ -2,7 +2,7 @@
 title: Demobilisation of the Greek army
 summary: On 27 June 1916 the Zaimis government demobilised the Greek army, as the Entente demanded. Released reservists began forming anti-Venizelist leagues.
 source: demobilizacja-armii-greckiej
-sourceHash: 24b73c6830ace078777632406ebd2b8110aa95b4
+sourceHash: eebc2c83d1002775e6e9c072b6c5b0bc94626da7
 ---
 
 A British chronology of the war records under 27 June 1916, that is 14 June by the Julian calendar then used in Greece, that the Greek government ordered a general [demobilisation](https://pl.wikipedia.org/wiki/Demobilizacja) of the army. The New York monthly "Current History" gives the same date. This was the first and most important point of the [note handed over on 21 June](/ultimatum-ententy-wobec-grecji) in Athens by the ministers of France, Britain and Russia. In it the powers demanded "real and complete demobilisation" and the placing of the army on a peace footing as soon as possible. The new Prime Minister, [Alexandros Zaimis](/postacie/aleksandros-zaimis), accepted all the conditions and now began to carry them out.
@@ -15,7 +15,7 @@ Athens took the first step itself. At the beginning of June the government of [S
 
 ## Going home
 
-After 27 June the soldiers dispersed to their homes. The British official history of operations in Macedonia records that in July Greek units from Eastern Macedonia sailed from [Kavala](https://pl.wikipedia.org/wiki/Kawala) to "Old Greece", while the few who lived in Salonika or on the [Chalkidiki peninsula](https://pl.wikipedia.org/wiki/Półwysep_Chalcydycki) were allowed to cross the [Struma](https://pl.wikipedia.org/wiki/Struma) above Lake Tachinos. The British official history of the war at sea states that the demobilisation proceeded slowly but, for several weeks, without friction.
+After 27 June the soldiers dispersed to their homes. The British official history of operations in Macedonia records that in July Greek units from Eastern Macedonia sailed from [Kavala](/miejsca/kawala) to "Old Greece", while the few who lived in Salonika or on the [Chalkidiki peninsula](https://pl.wikipedia.org/wiki/Półwysep_Chalcydycki) were allowed to cross the [Struma](https://pl.wikipedia.org/wiki/Struma) above Lake Tachinos. The British official history of the war at sea states that the demobilisation proceeded slowly but, for several weeks, without friction.
 
 The Entente, however, misjudged the mood of the returning soldiers. The British publicist George F. Abbott, who was sympathetic to the King, wrote that the reservists left Macedonia embittered by the distrust and humiliations they had suffered at Sarrail's hands, and on their way back to their villages shouted: "A black ballot for Venizelos!", that is, a vote against him. Alongside the demobilisation, reservists' leagues grew. The Panhellenic League of Reservists, founded in Athens at the beginning of June, spread across the whole country in the wake of the discharged soldiers, except for the areas controlled by the Entente, and according to Greek studies soon had about 200,000 members. It became the first mass royalist organisation, hostile to Venizelos and the Allies.
 

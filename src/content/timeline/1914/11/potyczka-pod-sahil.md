@@ -25,4 +25,4 @@ Zwycięstwo było wyraźne, ale kosztowne. Wojska brytyjskie i indyjskie straci�
 
 Wielu autorów, w tym brytyjska chronologia, datuje bitwę na 17 listopada. Niektóre opracowania podają jednak 19 listopada. Nazwa miejscowości bywa zapisywana jako Sahil albo Salih, a część autorów traktuje to starcie jako fragment szerszej „bitwy o Basrę”, trwającej od 11 do 22 listopada.
 
-Klęska pod Sahil przesądziła o losie [Basry](https://pl.wikipedia.org/wiki/Basra). Turcy cofnęli się najpierw do Baldżaniji, w połowie drogi do miasta, a po kilku dniach opuścili także samą Basrę, wycofując się dalej w górę rzeki.
+Klęska pod Sahil przesądziła o losie [Basry](/miejsca/basra). Turcy cofnęli się najpierw do Baldżaniji, w połowie drogi do miasta, a po kilku dniach opuścili także samą Basrę, wycofując się dalej w górę rzeki.

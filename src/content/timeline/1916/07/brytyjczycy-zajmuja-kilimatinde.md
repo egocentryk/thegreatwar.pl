@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-31 lipca 1916 roku mała kolumna południowoafrykańska podpułkownika H. J. Kirkpatricka weszła bez walki do Kilimatinde, dawnej niemieckiej stacji wojskowej w środkowej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Niemcy opuścili ją przed nadejściem przeciwnika. Kilimatinde leżało na płaskowyżu między krawędziami [rowu tektonicznego](https://pl.wikipedia.org/wiki/Wielkie_Rowy_Afrykańskie), w pobliżu kolei centralnej, która łączyła [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam) z [Taborą](https://pl.wikipedia.org/wiki/Tabora) i jeziorem Tanganika. Według niemieckich opracowań stację założył w 1895 roku Tom von Prince, by strzec szlaku karawanowego z wybrzeża do Tabory. Był to ten sam oficer, który w listopadzie 1914 roku zginął w [bitwie pod Tangą](/bitwy/bitwa-pod-tanga).
+31 lipca 1916 roku mała kolumna południowoafrykańska podpułkownika H. J. Kirkpatricka weszła bez walki do Kilimatinde, dawnej niemieckiej stacji wojskowej w środkowej części [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Niemcy opuścili ją przed nadejściem przeciwnika. Kilimatinde leżało na płaskowyżu między krawędziami [rowu tektonicznego](https://pl.wikipedia.org/wiki/Wielkie_Rowy_Afrykańskie), w pobliżu kolei centralnej, która łączyła [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam) z [Taborą](https://pl.wikipedia.org/wiki/Tabora) i jeziorem Tanganika. Według niemieckich opracowań stację założył w 1895 roku Tom von Prince, by strzec szlaku karawanowego z wybrzeża do Tabory. Był to ten sam oficer, który w listopadzie 1914 roku zginął w [bitwie pod Tangą](/bitwy/bitwa-pod-tanga).
 
 ## Van Deventer rusza znad Kondoa Irangi
 

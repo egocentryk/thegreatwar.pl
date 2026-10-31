@@ -9,10 +9,10 @@ sides:
     commanders: [Pavel Plehve, Mikhail Alekseyev]
 result: German victory. The Army of the Niemen took western Courland, Šiauliai (21 July) and Panevėžys (25 July) and captured about 27,000–30,000 prisoners, but the Russian Fifth Army escaped encirclement and withdrew eastwards.
 source: bitwa-pod-szawlami
-sourceHash: ec424b6f2eee8440d43b0cf6ea2d2a65fed2735f
+sourceHash: 1ac893fa4e96b85efbedc7a414b495df3ab25536
 ---
 
-The Battle of Šiauliai was the largest operation on the northern wing of the Eastern Front in the summer of 1915. When the German offensive [on the Narew](/bitwy/bitwa-nad-narwia-i-biebrza) got under way south of the East Prussian border, General [Otto von Below](/postacie/otto-von-below)'s Army of the Niemen struck in [Courland](https://pl.wikipedia.org/wiki/Kurlandia) and Lithuania at the Russian [Fifth Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)) of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe). The Germans forced the [Venta](https://pl.wikipedia.org/wiki/Windawa_(rzeka)), took western Courland within a few days, and then tried to encircle the Russian corps defending [Šiauliai](https://pl.wikipedia.org/wiki/Szawle). The ring did not close. The Russians abandoned Šiauliai on the night of 20–21 July, and on 25 July they lost [Panevėžys](https://pl.wikipedia.org/wiki/Poniewież), but the main forces of the Fifth Army slipped away to the east.
+The Battle of Šiauliai was the largest operation on the northern wing of the Eastern Front in the summer of 1915. When the German offensive [on the Narew](/bitwy/bitwa-nad-narwia-i-biebrza) got under way south of the East Prussian border, General [Otto von Below](/postacie/otto-von-below)'s Army of the Niemen struck in [Courland](/miejsca/kurlandia) and Lithuania at the Russian [Fifth Army](https://pl.wikipedia.org/wiki/5_Armia_(Imperium_Rosyjskie)) of General [Pavel Plehve](https://pl.wikipedia.org/wiki/Paweł_Plehwe). The Germans forced the [Venta](https://pl.wikipedia.org/wiki/Windawa_(rzeka)), took western Courland within a few days, and then tried to encircle the Russian corps defending [Šiauliai](https://pl.wikipedia.org/wiki/Szawle). The ring did not close. The Russians abandoned Šiauliai on the night of 20–21 July, and on 25 July they lost [Panevėžys](https://pl.wikipedia.org/wiki/Poniewież), but the main forces of the Fifth Army slipped away to the east.
 
 ## Name and dates
 

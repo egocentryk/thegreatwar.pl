@@ -15,7 +15,7 @@ draft: false
 
 ## Cel: cała kolonia
 
-W przeciwieństwie do wysłanego wcześniej Korpusu „C”, który [od września](/oddzial-indyjski-przybywa-do-mombasy) bronił [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), Korpus „B” miał atakować. Rozkaz dla Aitkena mówił wprost, że celem wyprawy jest podporządkowanie Brytyjczykom całej [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Pierwszym krokiem miało być zdobycie portu [Tanga](https://pl.wikipedia.org/wiki/Tanga), końcowej stacji niemieckiej kolei biegnącej w stronę Kilimandżaro. Stamtąd Brytyjczycy zamierzali uderzyć w głąb kolonii, a później zająć także stolicę, Dar es Salaam.
+W przeciwieństwie do wysłanego wcześniej Korpusu „C”, który [od września](/oddzial-indyjski-przybywa-do-mombasy) bronił [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), Korpus „B” miał atakować. Rozkaz dla Aitkena mówił wprost, że celem wyprawy jest podporządkowanie Brytyjczykom całej [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Pierwszym krokiem miało być zdobycie portu [Tanga](https://pl.wikipedia.org/wiki/Tanga), końcowej stacji niemieckiej kolei biegnącej w stronę Kilimandżaro. Stamtąd Brytyjczycy zamierzali uderzyć w głąb kolonii, a później zająć także stolicę, Dar es Salaam.
 
 ## Wojsko niejednakowej wartości
 

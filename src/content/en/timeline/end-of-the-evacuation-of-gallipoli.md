@@ -2,7 +2,7 @@
 title: End of the evacuation of Gallipoli
 summary: On the night of 8–9 January 1916 the last British troops sailed from Helles. After eight months of fighting the Gallipoli campaign ended in Allied defeat.
 source: koniec-ewakuacji-gallipoli
-sourceHash: ec711d5dd25827586e991dc641bc5a328c7ff617
+sourceHash: d9eca395a8a7fabec065a1697700fbaba496bdf7
 brief:
   - "On the night of 8–9 January 1916 the last British troops sailed from Cape Helles. Not a single Allied soldier remained on the Gallipoli peninsula."
   - "On the morning of 8 January fewer than 17,000 men were still on the cape. Admiral John de Robeck judged the weather fine, but in the evening a storm got up that made embarkation difficult."
@@ -29,7 +29,7 @@ Since 28 December more than 35,000 men, 127 guns and more than 3,600 horses and 
 
 ## The balance of the campaign
 
-The campaign, which was to have opened the Straits, taken [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol), knocked Turkey out of the war and linked Russia with her Western allies, ended in defeat. According to the British official history, almost half a million men were sent to the peninsula in all, including about 410,000 British and about 79,000 French. British losses, including the Australian, New Zealand and Indian troops, amounted to about 205,000 men, of whom about 115,000 were killed, wounded and missing, and about 90,000 were evacuated sick. About 43,000 British soldiers were killed, died or were taken prisoner. The French lost about 47,000 men.
+The campaign, which was to have opened the Straits, taken [Constantinople](/miejsca/konstantynopol), knocked Turkey out of the war and linked Russia with her Western allies, ended in defeat. According to the British official history, almost half a million men were sent to the peninsula in all, including about 410,000 British and about 79,000 French. British losses, including the Australian, New Zealand and Indian troops, amounted to about 205,000 men, of whom about 115,000 were killed, wounded and missing, and about 90,000 were evacuated sick. About 43,000 British soldiers were killed, died or were taken prisoner. The French lost about 47,000 men.
 
 Ottoman losses are much less certain. The Turkish official history, cited by the British history, gives about 250,000, and other Turkish sources as many as 350,000. The American historian Edward Erickson, who studied the Ottoman archives, calculated about 56,600 dead from all causes, about 97,000 wounded and injured, and about 11,000 missing and taken prisoner. The literature often accepts that, through wounds and disease, each side lost about a quarter of a million men.
 

@@ -2,7 +2,7 @@
 title: German submarine blockade begins
 summary: On 18 February 1915 the German war zone around the British Isles came into force. U-boats began hunting ships bound for British ports.
 source: poczatek-niemieckiej-blokady-podwodnej
-sourceHash: 71beecdb1ca0bddc638cfd76b8aaa553bbea606d
+sourceHash: abbed09e52c9486dc086165dc49faf90f2c9073a
 ---
 
 On 18 February 1915 the two-week deadline set in the German declaration of 4 February expired. The waters around Great Britain and Ireland, including the English Channel, became a [war zone](/niemcy-oglaszaja-strefe-wojenna-wokol-wysp-brytyjskich) in which German submarines were to sink enemy merchant ships without warning. In Britain and in Germany people spoke of the start of the submarine blockade of the British Isles.
@@ -15,7 +15,7 @@ The American warning made an impression in Berlin. According to some studies, in
 
 ## Preparations on both sides
 
-The British expected the U-boats to strike above all at the troop transports crossing the English Channel to France. On 18 February the Admiralty ordered the daytime sailings of the mail steamers from [Folkestone](https://pl.wikipedia.org/wiki/Folkestone) to Boulogne, Calais and [Dieppe](https://pl.wikipedia.org/wiki/Dieppe_(Francja)) to be stopped. From then on they were to sail only at night. In the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) drifters laid out newly introduced steel nets which were meant to detect submerged submarines. On 17 February a gale prevented them from putting to sea, but on the morning of 18 February some of them were back on station. In the afternoon something under water broke one of the nets and dragged it along for about five kilometres. Because of the dusk and the swell it could not be established whether it was a submarine.
+The British expected the U-boats to strike above all at the troop transports crossing the English Channel to France. On 18 February the Admiralty ordered the daytime sailings of the mail steamers from [Folkestone](https://pl.wikipedia.org/wiki/Folkestone) to Boulogne, Calais and [Dieppe](https://pl.wikipedia.org/wiki/Dieppe_(Francja)) to be stopped. From then on they were to sail only at night. In the [Strait of Dover](/miejsca/ciesnina-kaletanska) drifters laid out newly introduced steel nets which were meant to detect submerged submarines. On 17 February a gale prevented them from putting to sea, but on the morning of 18 February some of them were back on station. In the afternoon something under water broke one of the nets and dragged it along for about five kilometres. Because of the dusk and the swell it could not be established whether it was a submarine.
 
 The war zone paralysed some neutral shipping. In mid-February the Netherlands suspended the mail steamer sailings from [Flushing](https://pl.wikipedia.org/wiki/Vlissingen) to Folkestone and the lines linking Rotterdam with London and Le Havre. Other shipowners announced that their ships would sail as usual, but there were difficulties in insuring ships and cargoes, and seamen were reluctant to set out into the danger zone.
 

@@ -2,7 +2,7 @@
 title: Start of the battle of Soissons
 summary: On 8 January 1915 the French attacked German trenches on the heights above the Aisne north of Soissons. Moroccan tirailleurs took Hill 132 in minutes.
 source: poczatek-bitwy-pod-soissons
-sourceHash: 5cd901ff8d612584d6c069b44412e7cf0124e46b
+sourceHash: 3171bbddfc552cc557f9c19840e7f6feb1ec643b
 brief:
   - "On 8 January 1915 French infantry attacked the German trenches on the heights above the village of Crouy, a few kilometres north of Soissons. So began the Battle of Soissons."
   - "The French held a narrow bridgehead on the northern bank of the Aisne, overlooked by the Germans from the crest of the plateau. General Maunoury ordered General Henri Berthelot to take Hill 132."
@@ -10,11 +10,11 @@ brief:
   - "The French did not know that the Germans were preparing an attack here themselves. General von Lochow's III Corps decided to retake the heights, while the swollen Aisne threatened the bridges supplying the French."
 ---
 
-On 8 January 1915 French infantry attacked the German trenches on the heights above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy), a few kilometres north of [Soissons](https://pl.wikipedia.org/wiki/Soissons). On the first day the attack was a complete success: Moroccan tirailleurs and chasseurs à pied took Hill 132 and two lines of German trenches within a few minutes. So began the Battle of Soissons, called by the French the Battle of Crouy, which was to last a week and end quite differently from the way it began.
+On 8 January 1915 French infantry attacked the German trenches on the heights above the village of [Crouy](https://pl.wikipedia.org/wiki/Crouy), a few kilometres north of [Soissons](/miejsca/soissons). On the first day the attack was a complete success: Moroccan tirailleurs and chasseurs à pied took Hill 132 and two lines of German trenches within a few minutes. So began the Battle of Soissons, called by the French the Battle of Crouy, which was to last a week and end quite differently from the way it began.
 
 ## A bridgehead across the river
 
-Since September 1914, since the end of the [First Battle of the Aisne](/bitwy/pierwsza-bitwa-nad-aisne), the front at Soissons had hardly changed. The French, who had [retaken the town](/francuzi-odzyskuja-soissons-i-amiens) in mid-September, held a narrow bridgehead on the northern bank of the [Aisne](https://pl.wikipedia.org/wiki/Aisne_(rzeka)): the floor of the valley and the lower slopes between Crouy and Missy. The crest of the plateau remained in German hands. From its edge they watched the French trenches, the bridges over the river and the town itself, which their artillery shelled regularly. The French units in the bridgehead were supplied over a few bridges and footbridges, so their position was awkward and, in the event of a strong attack, dangerous.
+Since September 1914, since the end of the [First Battle of the Aisne](/bitwy/pierwsza-bitwa-nad-aisne), the front at Soissons had hardly changed. The French, who had [retaken the town](/francuzi-odzyskuja-soissons-i-amiens) in mid-September, held a narrow bridgehead on the northern bank of the [Aisne](/miejsca/aisne): the floor of the valley and the lower slopes between Crouy and Missy. The crest of the plateau remained in German hands. From its edge they watched the French trenches, the bridges over the river and the town itself, which their artillery shelled regularly. The French units in the bridgehead were supplied over a few bridges and footbridges, so their position was awkward and, in the event of a strong attack, dangerous.
 
 The ground favoured the defenders. The plateau above the Aisne is cut by deep ravines, and its slopes hide numerous caves and old quarries, in which both sides set up shelters and command posts. West of Crouy juts a spur known as Hill 132 or Montagne-Neuve, up which the road from Soissons towards Laon climbs in hairpin bends. The Germans who held it had a good view of the valley and the French rear.
 

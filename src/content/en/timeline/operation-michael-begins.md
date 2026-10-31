@@ -2,7 +2,7 @@
 title: Operation Michael begins
 summary: On 21 March 1918, after a five-hour bombardment and in thick fog, three German armies broke the British front on the Somme. The British lost over 38,000 men.
 source: poczatek-operacji-michael
-sourceHash: c77e2daa2d80cad064e147e06ea3221a28ebd35e
+sourceHash: cc2316adaf76fc25ed805981e6270f6fb7bb8b38
 brief:
   - "At 4.40 a.m. on 21 March 1918 more than six thousand German guns opened fire on a front from Croisilles to the Oise. So began Operation Michael, the first of Ludendorff's great offensives."
   - "Ludendorff meant to win the war before masses of Americans reached France. After the peace with Russia the Germans assembled 63 divisions, and some forty-three of them faced Gough's British Fifth Army."
@@ -11,7 +11,7 @@ brief:
   - "It was the second-worst day in the history of the British Army. For the first time since 1914 on the Western Front, a defence prepared in depth had been broken in a single day."
 ---
 
-On Thursday 21 March 1918, at 4.40 a.m., more than six thousand German guns and several thousand trench mortars opened fire on a front some 70–80 kilometres long, from Croisilles south-east of [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)) to the river [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) near La Fère. So began Operation Michael, the first of the great offensives with which [Erich Ludendorff](/postacie/erich-ludendorff) meant to win the war before masses of American soldiers reached France. After five hours of bombardment the German infantry advanced in thick fog against the British Fifth Army of General [Hubert Gough](/postacie/hubert-gough) and the right wing of the Third Army of General [Julian Byng](/postacie/julian-byng). By evening it had passed through almost the whole of Gough's forward zone and broken into the battle zone. It was the second-worst day in the history of the British Army, after [1 July 1916](/pierwszy-dzien-bitwy-nad-somma): the British lost about 38,500 men, including about 21,000 prisoners. Times are given according to the British official history.
+On Thursday 21 March 1918, at 4.40 a.m., more than six thousand German guns and several thousand trench mortars opened fire on a front some 70–80 kilometres long, from Croisilles south-east of [Arras](/miejsca/arras) to the river [Oise](https://pl.wikipedia.org/wiki/Oise_(rzeka)) near La Fère. So began Operation Michael, the first of the great offensives with which [Erich Ludendorff](/postacie/erich-ludendorff) meant to win the war before masses of American soldiers reached France. After five hours of bombardment the German infantry advanced in thick fog against the British Fifth Army of General [Hubert Gough](/postacie/hubert-gough) and the right wing of the Third Army of General [Julian Byng](/postacie/julian-byng). By evening it had passed through almost the whole of Gough's forward zone and broken into the battle zone. It was the second-worst day in the history of the British Army, after [1 July 1916](/pierwszy-dzien-bitwy-nad-somma): the British lost about 38,500 men, including about 21,000 prisoners. Times are given according to the British official history.
 
 ## Before dawn
 

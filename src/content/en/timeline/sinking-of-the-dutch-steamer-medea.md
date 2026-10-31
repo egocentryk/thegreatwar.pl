@@ -2,7 +2,7 @@
 title: Sinking of the Dutch steamer Medea
 summary: On 25 March 1915 the German U-28 stopped the Dutch steamer Medea, carrying oranges for London, in the Channel, searched her and sank her by gunfire.
 source: zatopienie-holenderskiego-parowca-medea
-sourceHash: 3fb2d26323df5172b774e6e74b8dfeea33b3bda5
+sourceHash: c3382c3e051804f1d1a6320fabfb6a560a80c0f8
 ---
 
 Before noon on 25 March 1915 the German submarine U-28 stopped the Dutch steamer Medea in the [English Channel](https://pl.wikipedia.org/wiki/La_Manche), south-east of [Beachy Head](https://pl.wikipedia.org/wiki/Beachy_Head). The Germans checked the ship's papers, ordered the crew into the boats and sank her by gunfire. No one was killed. The British chronology of the war records Medea as the first neutral ship sunk after being stopped and searched. She was also the first ship under a neutral flag that was without doubt sunk by a German submarine. It is not known whether the [Swedish steamer Hanna](/zatopienie-szwedzkiego-parowca-hanna), two weeks earlier, had been torpedoed or had struck a mine.
@@ -11,7 +11,7 @@ Before noon on 25 March 1915 the German submarine U-28 stopped the Dutch steamer
 
 Medea was a small steamer, built in 1913, of 1,235 gross register tons. She belonged to the Koninklijke Nederlandsche Stoomboot Maatschappij (KNSM) of [Amsterdam](https://pl.wikipedia.org/wiki/Amsterdam) and was commanded by Captain A. F. van Balkom. According to the owners' report she was sailing from [Valencia](https://pl.wikipedia.org/wiki/Walencja) to London with a cargo of oranges. The ship's name and nationality were painted on her sides in large letters, and the Dutch flag flew from her mast. Less than two weeks earlier the [Netherlands](https://pl.wikipedia.org/wiki/Holandia) had [warned foreign ships against masquerading under its flag](/holandia-ostrzega-przed-naduzywaniem-swojej-bandery), so that the Dutch colours would not lose their credibility. Those colours did not save Medea.
 
-Kapitänleutnant Georg-Günther von Forstner's U-28 had left Ostend on 21 March. On 18 March, on her previous patrol, the same boat had stopped two Dutch passenger ships in the North Sea, Batavier V and Zaanstroom, and ordered them to sail to German-occupied [Zeebrugge](https://pl.wikipedia.org/wiki/Zeebrugge), where both were detained.
+Kapitänleutnant Georg-Günther von Forstner's U-28 had left Ostend on 21 March. On 18 March, on her previous patrol, the same boat had stopped two Dutch passenger ships in the North Sea, Batavier V and Zaanstroom, and ordered them to sail to German-occupied [Zeebrugge](/miejsca/zeebrugge), where both were detained.
 
 ## Five minutes to abandon ship
 

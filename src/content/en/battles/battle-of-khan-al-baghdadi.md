@@ -9,10 +9,10 @@ sides:
     commanders: [Nazim Bey]
 result: British victory. The Turkish 50th Division was almost entirely destroyed and its commander taken prisoner. The British took more than 5,200 prisoners, occupied Haditha and Anah and destroyed the Turkish depots on the Euphrates.
 source: bitwa-pod-chan-al-baghdadi
-sourceHash: 2089ff8c760b91a509db395baab4ae0fc11b06ec
+sourceHash: e5983849a4f9dc078b0e01740d036c8110ddcafb
 ---
 
-The Battle of Khan al-Baghdadi was the last major British operation on the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) during the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). Half a year after the [victory at Ramadi](/brytyjczycy-zdobywaja-ramadi), the same Anglo-Indian 15th Division of General Harry Brooking repeated that manoeuvre on a larger scale. On 26 March 1918 the infantry pinned the Turks frontally, while the 11th Cavalry Brigade with armoured cars went round them through the desert and closed their line of retreat. During the night a Turkish attempt to break out collapsed, and at dawn on 27 March thousands of soldiers hung out white flags. In the pursuit the British reached Anah and went even further, on the way recapturing two of their own officers who had been taken prisoner two days earlier.
+The Battle of Khan al-Baghdadi was the last major British operation on the [Euphrates](/miejsca/eufrat) during the [Mesopotamian campaign](/bitwy/kampania-mezopotamska). Half a year after the [victory at Ramadi](/brytyjczycy-zdobywaja-ramadi), the same Anglo-Indian 15th Division of General Harry Brooking repeated that manoeuvre on a larger scale. On 26 March 1918 the infantry pinned the Turks frontally, while the 11th Cavalry Brigade with armoured cars went round them through the desert and closed their line of retreat. During the night a Turkish attempt to break out collapsed, and at dawn on 27 March thousands of soldiers hung out white flags. In the pursuit the British reached Anah and went even further, on the way recapturing two of their own officers who had been taken prisoner two days earlier.
 
 ## Name and dates
 

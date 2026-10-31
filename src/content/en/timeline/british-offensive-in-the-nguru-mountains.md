@@ -2,10 +2,10 @@
 title: British offensive in the Nguru Mountains
 summary: On 5 August 1916 Smuts's main force moved from the Lukigura into the Nguru Mountains to outflank the Germans at Ruhungu and cut their retreat to Morogoro.
 source: brytyjska-ofensywa-w-gorach-nguru
-sourceHash: 0f1a33b1f6f358759f2d3b4d60ab89a0512f46df
+sourceHash: e3a84a04842bb65acc02ddfd283150cb226af16d
 ---
 
-At dawn on 5 August 1916 the main force of General [Jan Smuts](/postacie/jan-smuts) resumed its march south through [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Since July it had been standing on the Msiha river, several dozen kilometres beyond [Handeni, taken in June](/brytyjczycy-zajmuja-handeni). Ahead of it lay the Nguru Mountains, and beyond them the valley of the Wami river and the road to [Morogoro](https://pl.wikipedia.org/wiki/Morogoro) on the Central Railway. Smuts did not want to attack the German positions frontally. He decided to outflank them in a wide arc through the mountains and close the Germans' line of retreat. The British chronology of the war records this day as the start of the march through the Nguru Mountains.
+At dawn on 5 August 1916 the main force of General [Jan Smuts](/postacie/jan-smuts) resumed its march south through [German East Africa](/bitwy/kampania-wschodnioafrykanska). Since July it had been standing on the Msiha river, several dozen kilometres beyond [Handeni, taken in June](/brytyjczycy-zajmuja-handeni). Ahead of it lay the Nguru Mountains, and beyond them the valley of the Wami river and the road to [Morogoro](https://pl.wikipedia.org/wiki/Morogoro) on the Central Railway. Smuts did not want to attack the German positions frontally. He decided to outflank them in a wide arc through the mountains and close the Germans' line of retreat. The British chronology of the war records this day as the start of the march through the Nguru Mountains.
 
 ## The position at Ruhungu
 

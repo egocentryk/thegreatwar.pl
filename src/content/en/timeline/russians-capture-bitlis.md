@@ -2,7 +2,7 @@
 title: Russians capture Bitlis
 summary: In early March 1916 General Abatsiev's Russian column took Bitlis, the gateway from Armenia to Mesopotamia, with a night bayonet attack in a snowstorm.
 source: rosjanie-zdobywaja-bitlis
-sourceHash: a6e4b59be24fafc2b866a4604c8222eefc444908
+sourceHash: 3ccd81c2ad5c0feeb61230783908768da0c7b53b
 ---
 
 The British chronology of the war and the British official history of the Mesopotamian campaign record under 2 March 1916 the Russian capture of [Bitlis](https://pl.wikipedia.org/wiki/Bitlis), a town in Turkish Armenia south-west of [Lake Van](https://pl.wikipedia.org/wiki/Wan_(jezioro)). The assault itself took place at night. According to the history of the Caucasian wars by W. E. D. Allen and Paul Muratoff, the Russian infantry attacked on the night of 2–3 March. General Evgeny Maslovsky, who served on the staff of the Caucasus Army, describes the night attack "on 17 February" by the Julian calendar, which corresponds to the night of 29 February – 1 March by the Gregorian. The sources thus agree on the course of the fighting but differ by a day or two on its date.
@@ -25,6 +25,6 @@ At three in the morning the Caucasian riflemen moved off in a blizzard without f
 
 Maslovsky also recorded a grim episode. At about noon Andranik's druzhina, which had been left in the rear before the attack, entered the town without orders. Some of its volunteers came from Bitlis and could not find their families, who had been murdered by the Turks. They broke into the hospital of the American mission, where many Turkish families had taken refuge, to take revenge on them. A sotnia of Cossacks was called in and put a stop to it, and the ringleaders were arrested.
 
-The Turks lost the race against time. According to Allen and Muratoff, as early as 1 March the first units of the reinforcements being transferred from the Dardanelles under the command of [Mustafa Kemal](/postacie/mustafa-kemal) began to reach Diyarbakır. They came too late to save the valleys of Muş and Bitlis, which these authors call the gateways to the Taurus and the middle Euphrates. News of the capture of Bitlis also reached the British garrison besieged in [Kut](https://pl.wikipedia.org/wiki/Al-Kut) and, according to the British official history, raised the soldiers' spirits.
+The Turks lost the race against time. According to Allen and Muratoff, as early as 1 March the first units of the reinforcements being transferred from the Dardanelles under the command of [Mustafa Kemal](/postacie/mustafa-kemal) began to reach Diyarbakır. They came too late to save the valleys of Muş and Bitlis, which these authors call the gateways to the Taurus and the middle Euphrates. News of the capture of Bitlis also reached the British garrison besieged in [Kut](/miejsca/al-kut) and, according to the British official history, raised the soldiers' spirits.
 
 With the capture of Bitlis the IV Caucasian Corps had accomplished its task and advanced no further. The Russians held the town until August 1916, when it was retaken by Mustafa Kemal's troops during the offensive of the Second Army.

@@ -2,10 +2,10 @@
 title: End of the Battle of Sheikh Saad
 summary: On 8 January 1916 Aylmer's exhausted troops did not renew their attack at Sheikh Saad. The Turks withdrew in the night; the British had lost about 4,000 men.
 source: koniec-bitwy-pod-szejk-saad
-sourceHash: 56806b0a145f38790ba7d153ff665cde134d637c
+sourceHash: bdfb13c362586d397023fdd399143ab4bd524414
 ---
 
-On 8 January 1916 relative quiet reigned at Sheikh Saad on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). After two days of bloody fighting, the troops of General Fenton Aylmer, marching to relieve besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut), were so exhausted that Aylmer called off the planned attack. The Turkish defenders used the night of 8/9 January to withdraw upstream. On the afternoon of 9 January the British occupied Sheikh Saad without a fight. The battle thus ended in a British victory, but not the decisive one that had been hoped for, and at too high a price.
+On 8 January 1916 relative quiet reigned at Sheikh Saad on the [Tigris](/miejsca/tygrys). After two days of bloody fighting, the troops of General Fenton Aylmer, marching to relieve besieged [Kut](/miejsca/al-kut), were so exhausted that Aylmer called off the planned attack. The Turkish defenders used the night of 8/9 January to withdraw upstream. On the afternoon of 9 January the British occupied Sheikh Saad without a fight. The battle thus ended in a British victory, but not the decisive one that had been hoped for, and at too high a price.
 
 ## The seventh of January
 

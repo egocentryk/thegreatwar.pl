@@ -2,10 +2,10 @@
 title: End of the fighting at Latema Nek
 summary: At dawn on 12 March 1916 the British saw their own men on the Latema ridge. The Germans had left the pass during the night and fallen back towards Kahe.
 source: koniec-walk-pod-latema-nek
-sourceHash: 13407506d905db2dfc9667a717ba6d84ff9a11b6
+sourceHash: 538fa83262eeac861d6f3afc87af72d4dd02da5d
 ---
 
-At dawn on 12 March 1916 British soldiers who had withdrawn during the night to the plain near [Taveta](https://pl.wikipedia.org/wiki/Taveta) saw their own troops on the ridge of the Latema and Reata hills. These were men written off during the night as missing. The Germans, who throughout the previous day had successfully defended the pass between the hills, had just left it. The road from Taveta into the interior of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), towards Moshi and Kahe, lay open before General [Jan Smuts](/postacie/jan-smuts).
+At dawn on 12 March 1916 British soldiers who had withdrawn during the night to the plain near [Taveta](https://pl.wikipedia.org/wiki/Taveta) saw their own troops on the ridge of the Latema and Reata hills. These were men written off during the night as missing. The Germans, who throughout the previous day had successfully defended the pass between the hills, had just left it. The road from Taveta into the interior of [German East Africa](/bitwy/kampania-wschodnioafrykanska), towards Moshi and Kahe, lay open before General [Jan Smuts](/postacie/jan-smuts).
 
 ## The order to withdraw
 
@@ -21,6 +21,6 @@ Assessments of this decision vary according to the source. Lettow-Vorbeck later 
 
 ## After the battle
 
-On 12 March van Deventer moved west, routed a weak German rearguard on the Himo river and secured the crossing at the site of a blown-up bridge. On the other side of [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro), General James Stewart's 1st Division, marching from Longido, was still standing at the bridge over the Sanya river, waiting for its belated mounted troops, despite another telegram from Smuts urging it on.
+On 12 March van Deventer moved west, routed a weak German rearguard on the Himo river and secured the crossing at the site of a blown-up bridge. On the other side of [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska), General James Stewart's 1st Division, marching from Longido, was still standing at the bridge over the Sanya river, waiting for its belated mounted troops, despite another telegram from Smuts urging it on.
 
 According to the official history, the fighting for Latema Nek cost the British about 270 men. The heaviest losses were suffered by the 3rd Battalion, King's African Rifles (81 men); no detailed figures are available for the South African battalions. Governor [Heinrich Schnee](/postacie/heinrich-schnee) put German losses at 123 men, including 17 killed, but the British official history considers this figure too low, as at least 40 bodies were found on the battlefield. The capture of the pass opened Smuts's way to Moshi, the terminus of the railway from Tanga, and further south towards Kahe, where Lettow-Vorbeck was preparing his next line of defence.

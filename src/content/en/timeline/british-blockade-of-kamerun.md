@@ -2,10 +2,10 @@
 title: British blockade of Kamerun
 summary: At midnight on 23–24 April 1915 the Allies declared a blockade of the Kamerun coast to cut the Germans off from supplies smuggled from Spanish Guinea.
 source: brytyjska-blokada-kamerunu
-sourceHash: 399a965745cee6695a1f440ce8d256a91dbb4ce2
+sourceHash: fb59733b22567ffa561edb1ca151288742034240
 ---
 
-At midnight on 23–24 April 1915 a formal [naval blockade](/slownik/blokada) of the coast of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki) came into force. It was declared on the instructions of the governments in London and Paris. It covered almost the entire coast of the colony, except for the mouth of the Kamerun River, where the Allied-held port of [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) lay, earlier declared an open port, and a strip of coast south of Spanish Muni.
+At midnight on 23–24 April 1915 a formal [naval blockade](/slownik/blokada) of the coast of [German Kamerun](/miejsca/kamerun) came into force. It was declared on the instructions of the governments in London and Paris. It covered almost the entire coast of the colony, except for the mouth of the Kamerun River, where the Allied-held port of [Duala](https://pl.wikipedia.org/wiki/Duala_(miasto)) lay, earlier declared an open port, and a strip of coast south of Spanish Muni.
 
 ## Smuggling through Muni
 

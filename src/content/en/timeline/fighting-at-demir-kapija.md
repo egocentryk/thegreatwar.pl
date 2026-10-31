@@ -2,10 +2,10 @@
 title: Fighting at Demir Kapija
 summary: On 5–6 December 1915 the French rearguard held the Vardar gorge at Demir Kapija. The Bulgarians tried to outrun them through the mountains and cut them off.
 source: walki-pod-demir-kapija
-sourceHash: 3fa020bea6a4929fbf604e9ea6ccda93e0483af2
+sourceHash: e9f5e907374c6528c828b1d08c92598faf6d6d5f
 ---
 
-The British chronology of the war records under 5 December 1915 fighting at [Demir Kapija](https://pl.wikipedia.org/wiki/Demir_Kapija), lasting until 6 December, during the French retreat from Serbia. Demir Kapija, Turkish for Iron Gate, is a narrow gorge of the [Vardar](https://pl.wikipedia.org/wiki/Wardar) through limestone rocks, some 15–20 kilometres south-east of Krivolak. Along the river ran the railway from Salonika to Serbia, cut into the walls of the gorge. There was no other road in the valley. Through this single gap two divisions of the French Army of the Orient, the 57th and 122nd, which on the night of 3–4 December had [left their positions at Krivolak](/francuzi-opuszczaja-krivolak), had to squeeze. The gorge was the first of the intermediate positions that General [Maurice Sarrail](/postacie/maurice-sarrail) had ordered to be fortified back in November.
+The British chronology of the war records under 5 December 1915 fighting at [Demir Kapija](https://pl.wikipedia.org/wiki/Demir_Kapija), lasting until 6 December, during the French retreat from Serbia. Demir Kapija, Turkish for Iron Gate, is a narrow gorge of the [Vardar](/miejsca/wardar) through limestone rocks, some 15–20 kilometres south-east of Krivolak. Along the river ran the railway from Salonika to Serbia, cut into the walls of the gorge. There was no other road in the valley. Through this single gap two divisions of the French Army of the Orient, the 57th and 122nd, which on the night of 3–4 December had [left their positions at Krivolak](/francuzi-opuszczaja-krivolak), had to squeeze. The gorge was the first of the intermediate positions that General [Maurice Sarrail](/postacie/maurice-sarrail) had ordered to be fortified back in November.
 
 ## Through the Iron Gate
 

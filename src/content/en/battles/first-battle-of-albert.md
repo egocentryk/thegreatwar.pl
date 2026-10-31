@@ -9,10 +9,10 @@ sides:
     commanders: [Erich von Falkenhayn, "Rupprecht, Crown Prince of Bavaria"]
 result: Inconclusive. In fighting that lasted until the end of September the Germans took Bapaume and Thiepval, but the French held Albert. The front set on the line Maricourt–Fricourt–Thiepval.
 source: pierwsza-bitwa-pod-albert
-sourceHash: 333d934dd36beddad7841986c1a5131339eb8669
+sourceHash: dbc141b7a362576732860e0706eb2115e8a43b25
 ---
 
-The First Battle of [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) was the second large engagement of the [Race to the Sea](/bitwy/wyscig-do-morza), after the [Battle of Picardy](/bitwy/pierwsza-bitwa-w-pikardii). The French 2nd Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and the German 6th Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) tried to outflank each other north of the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). After several days of fighting neither side had gained the upper hand, and the troops dug in on the hills between Albert and [Bapaume](https://pl.wikipedia.org/wiki/Bapaume). On the same fields in July 1916 the British and French began the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
+The First Battle of [Albert](/miejsca/albert) was the second large engagement of the [Race to the Sea](/bitwy/wyscig-do-morza), after the [Battle of Picardy](/bitwy/pierwsza-bitwa-w-pikardii). The French 2nd Army of General [Noël de Castelnau](/postacie/noel-de-castelnau) and the German 6th Army of Crown Prince [Rupprecht of Bavaria](/postacie/rupprecht-bawarski) tried to outflank each other north of the [Somme](/miejsca/somma). After several days of fighting neither side had gained the upper hand, and the troops dug in on the hills between Albert and [Bapaume](/miejsca/bapaume). On the same fields in July 1916 the British and French began the [Battle of the Somme](https://pl.wikipedia.org/wiki/Bitwa_nad_Sommą).
 
 ## Dates of the battle
 
@@ -28,9 +28,9 @@ The chief of the German General Staff, General [Erich von Falkenhayn](/postacie/
 
 ## Course of the fighting
 
-**25 September.** The French 2nd Army set out east from the area of Albert. Instead of an open flank it ran into German columns marching in the opposite direction. South of the Somme the XXI Corps and the I Bavarian Corps crossed the river near [Péronne](https://pl.wikipedia.org/wiki/Péronne_(Somma)) and attacked westwards.
+**25 September.** The French 2nd Army set out east from the area of Albert. Instead of an open flank it ran into German columns marching in the opposite direction. South of the Somme the XXI Corps and the I Bavarian Corps crossed the river near [Péronne](/miejsca/peronne) and attacked westwards.
 
-**26–27 September.** The Germans took Bapaume. A Bavarian division routed French Territorial units and advanced west through Combles, Guillemont and Montauban towards Albert. The XIV Reserve Corps attacked along the old Roman road from Bapaume to Albert and on 27 September reached [Thiepval](https://pl.wikipedia.org/wiki/Thiepval) on the heights above the River [Ancre](https://pl.wikipedia.org/wiki/Ancre). The French, reinforced by further units, defended themselves ever more strongly.
+**26–27 September.** The Germans took Bapaume. A Bavarian division routed French Territorial units and advanced west through Combles, Guillemont and Montauban towards Albert. The XIV Reserve Corps attacked along the old Roman road from Bapaume to Albert and on 27 September reached [Thiepval](https://pl.wikipedia.org/wiki/Thiepval) on the heights above the River [Ancre](/miejsca/somma). The French, reinforced by further units, defended themselves ever more strongly.
 
 **28 September.** The Germans tried to break through to Albert and on towards Amiens. French infantry and artillery stopped them on a line running from [Maricourt](https://pl.wikipedia.org/wiki/Maricourt) through [Fricourt](https://pl.wikipedia.org/wiki/Fricourt) to Thiepval. Albert itself came under German artillery fire, which destroyed a large part of the town.
 

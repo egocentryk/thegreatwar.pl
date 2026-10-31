@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-25 lipca 1915 roku wojska brytyjskie i indyjskie generała George'a Gorringe'a zajęły bez walki [An-Nasirijję](https://pl.wikipedia.org/wiki/An-Nasirijja) nad [Eufratem](https://pl.wikipedia.org/wiki/Eufrat). Turcy opuścili miasto w nocy, po tym jak dzień wcześniej Brytyjczycy przełamali ich pozycje kilka kilometrów niżej na rzece. Po niemal miesiącu walk w upale i na rozlewiskach dolnego Eufratu zakończyła się wyprawa, która [pod koniec czerwca](/brytyjczycy-ruszaja-w-gore-eufratu) wyruszyła z Al-Kurny.
+25 lipca 1915 roku wojska brytyjskie i indyjskie generała George'a Gorringe'a zajęły bez walki [An-Nasirijję](https://pl.wikipedia.org/wiki/An-Nasirijja) nad [Eufratem](/miejsca/eufrat). Turcy opuścili miasto w nocy, po tym jak dzień wcześniej Brytyjczycy przełamali ich pozycje kilka kilometrów niżej na rzece. Po niemal miesiącu walk w upale i na rozlewiskach dolnego Eufratu zakończyła się wyprawa, która [pod koniec czerwca](/brytyjczycy-ruszaja-w-gore-eufratu) wyruszyła z Al-Kurny.
 
 ## Ostatni dzień walk
 
@@ -28,4 +28,4 @@ An-Nasirijja liczyła według brytyjskiej historii oficjalnej około dziesięciu
 
 Zajęcie An-Nasirijji dało Brytyjczykom cały wilajet Basry, który rząd Indii kazał opanować generałowi Johnowi Nixonowi. Turcy stracili drugą, obok Tygrysu, drogę, którą mogli zagrozić Basrze. Nixon w raporcie pisał, że rzadko kiedy żołnierze musieli prowadzić kampanię w gorszym upale, i chwalił współpracę z marynarką oraz rozpoznanie lotnicze przed bitwą. 28 lipca król Jerzy V przesłał mu gratulacje dla kolumny Gorringe'a.
 
-Kolejne łatwe zwycięstwo umocniło jednak Nixona w przekonaniu, że armia osmańska w Mezopotamii jest słaba. Jego wzrok kierował się już w górę Tygrysu, ku [Al-Kut](https://pl.wikipedia.org/wiki/Al-Kut), gdzie zbierały się tureckie wojska. Brytyjczycy zajęli je we wrześniu, a jesienią ruszyli na Bagdad.
+Kolejne łatwe zwycięstwo umocniło jednak Nixona w przekonaniu, że armia osmańska w Mezopotamii jest słaba. Jego wzrok kierował się już w górę Tygrysu, ku [Al-Kut](/miejsca/al-kut), gdzie zbierały się tureckie wojska. Brytyjczycy zajęli je we wrześniu, a jesienią ruszyli na Bagdad.

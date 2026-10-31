@@ -17,7 +17,7 @@ tags: [Rosja, Imperium Osmańskie, Kaukaz]
 milestone: false
 ---
 
-Ofensywa Bergmanna była pierwszą operacją wojsk rosyjskich i osmańskich na froncie kaukaskim I wojny światowej. Kilka dni po [ataku floty osmańskiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym oddziały rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) pod dowództwem generała Georgija Bergmanna przekroczyły granicę i ruszyły doliną [Araksu](https://pl.wikipedia.org/wiki/Araks) w stronę Köprüköy, na drodze do twierdzy [Erzurum](https://pl.wikipedia.org/wiki/Erzurum). Po kilku dniach łatwych postępów natrafiły na silny kontratak osmańskiej 3 Armii. Rosjanie musieli się cofnąć niemal do granicy, a Turcy odnieśli pierwsze zwycięstwo w tej wojnie.
+Ofensywa Bergmanna była pierwszą operacją wojsk rosyjskich i osmańskich na froncie kaukaskim I wojny światowej. Kilka dni po [ataku floty osmańskiej na rosyjskie porty](/turecka-flota-atakuje-rosje) nad Morzem Czarnym oddziały rosyjskiej [Armii Kaukaskiej](https://pl.wikipedia.org/wiki/Armia_Kaukaska_(Imperium_Rosyjskie)) pod dowództwem generała Georgija Bergmanna przekroczyły granicę i ruszyły doliną [Araksu](https://pl.wikipedia.org/wiki/Araks) w stronę Köprüköy, na drodze do twierdzy [Erzurum](/miejsca/erzurum). Po kilku dniach łatwych postępów natrafiły na silny kontratak osmańskiej 3 Armii. Rosjanie musieli się cofnąć niemal do granicy, a Turcy odnieśli pierwsze zwycięstwo w tej wojnie.
 
 ## Nazwa i daty
 

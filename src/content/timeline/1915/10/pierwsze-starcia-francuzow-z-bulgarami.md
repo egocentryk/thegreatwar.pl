@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny, na której opiera się nasza oś czasu, notuje pod 13 października 1915 roku początek działań wojennych między Francuzami a Bułgarami w Macedonii. Tego dnia wojska francuskie dopiero zaczynały jednak wychodzić z [Salonik](/miejsca/saloniki) w stronę serbskiej granicy, a Francja i Bułgaria formalnie nie były jeszcze w stanie wojny. Według brytyjskiej historii oficjalnej kampanii macedońskiej i francuskiej historii oficjalnej pierwsza prawdziwa walka między Francuzami a Bułgarami rozegrała się 21 października koło stacji kolejowej Strumica nad [Wardarem](https://pl.wikipedia.org/wiki/Wardar). Hiszpański oficer sztabu, który obserwował tę kampanię z bułgarskiej strony i na którego powołuje się historia brytyjska, oraz austriacka historia oficjalna datują ją na 22 października.
+Brytyjska chronologia wojny, na której opiera się nasza oś czasu, notuje pod 13 października 1915 roku początek działań wojennych między Francuzami a Bułgarami w Macedonii. Tego dnia wojska francuskie dopiero zaczynały jednak wychodzić z [Salonik](/miejsca/saloniki) w stronę serbskiej granicy, a Francja i Bułgaria formalnie nie były jeszcze w stanie wojny. Według brytyjskiej historii oficjalnej kampanii macedońskiej i francuskiej historii oficjalnej pierwsza prawdziwa walka między Francuzami a Bułgarami rozegrała się 21 października koło stacji kolejowej Strumica nad [Wardarem](/miejsca/wardar). Hiszpański oficer sztabu, który obserwował tę kampanię z bułgarskiej strony i na którego powołuje się historia brytyjska, oraz austriacka historia oficjalna datują ją na 22 października.
 
 ## Francuzi ruszają w głąb Macedonii
 

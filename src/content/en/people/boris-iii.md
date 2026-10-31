@@ -6,7 +6,7 @@ country: Bulgaria
 birthPlace: Sofia
 deathPlace: Sofia
 source: borys-iii
-sourceHash: 904f263ed058cfd73a261d6a822aecaa1a381252
+sourceHash: 89b17d108066f637c14f1cf194e379dccc9df3ef
 ---
 
 Boris, Prince of Tarnovo, was during the Great War the heir to the Bulgarian throne and a young officer who took no great decisions. It was his father, Tsar [Ferdinand I](/postacie/ferdynand-i-koburg), who in 1915 brought the country into the war on Germany's side. Boris served at headquarters as a liaison officer, travelling between staffs, fronts and allies, and during the Romanian campaign he smoothed over disputes between Bulgarian and German commanders. His hour came in September 1918. When the Macedonian front collapsed, the heir to the throne went from regiment to regiment trying to stop the retreat, and won a popularity his father had never had. On 3 October 1918, after Ferdinand's abdication, he became tsar. Thanks to him Bulgaria was the only one of the defeated states to keep its monarchy.
@@ -37,7 +37,7 @@ On 3 October 1918 Ferdinand [signed the act of abdication](/abdykacja-ferdynanda
 
 Falls wrote that in the first days Bulgaria escaped an anti-dynastic revolution thanks to the German troops present in Sofia, and later thanks to the popularity that the heir to the throne's conduct had won him among the soldiers returning from the front and in the whole nation. In October and November foreign agencies several times reported a revolution and the [abdication of the young tsar](/falszywa-wiadomosc-o-abdykacji-borysa), but these were rumours. Of all the defeated states, Russia, Austria-Hungary, Germany, Turkey and Bulgaria, only in Bulgaria did the monarchy survive for long: the Ottoman sultanate was abolished in 1922.
 
-The first months of the reign were very difficult. Allied troops were stationed in the country, the army was being demobilised, and in November Malinov's government resigned in protest against the Romanian occupation of southern [Dobruja](https://pl.wikipedia.org/wiki/Dobrudża). The young tsar reigned in the shadow of strong politicians. In 1919 the leader of the Agrarians, [Aleksandar Stamboliyski](https://pl.wikipedia.org/wiki/Aleksandyr_Stambolijski), a recent rebel, became prime minister, and Boris managed to establish correct relations with him. On 27 November 1919 Bulgaria signed the [Treaty of Neuilly-sur-Seine](https://pl.wikipedia.org/wiki/Traktat_w_Neuilly-sur-Seine), which took away its access to the Aegean Sea and lands in the west, imposed heavy reparations and limited the army to 20,000 men.
+The first months of the reign were very difficult. Allied troops were stationed in the country, the army was being demobilised, and in November Malinov's government resigned in protest against the Romanian occupation of southern [Dobruja](/miejsca/dobrudza). The young tsar reigned in the shadow of strong politicians. In 1919 the leader of the Agrarians, [Aleksandar Stamboliyski](https://pl.wikipedia.org/wiki/Aleksandyr_Stambolijski), a recent rebel, became prime minister, and Boris managed to establish correct relations with him. On 27 November 1919 Bulgaria signed the [Treaty of Neuilly-sur-Seine](https://pl.wikipedia.org/wiki/Traktat_w_Neuilly-sur-Seine), which took away its access to the Aegean Sea and lands in the west, imposed heavy reparations and limited the army to 20,000 men.
 
 ## After the war
 

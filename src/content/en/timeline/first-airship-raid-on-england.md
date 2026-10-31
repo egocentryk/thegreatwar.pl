@@ -2,7 +2,7 @@
 title: First airship raid on England
 summary: On 19 January 1915 the airships L 3 and L 4 bombed Great Yarmouth, King's Lynn and Norfolk villages. Four people died. It was the first airship raid on England.
 source: pierwszy-nalot-sterowcow-na-anglie
-sourceHash: f4a693e32b9c0535f9a341e3be7a0bc740536aef
+sourceHash: ed38bdd32a3d2cf4eafc718feb881358cb3ce990
 brief:
   - "On the evening of 19 January 1915 the German naval airships L 3 and L 4 bombed Great Yarmouth, King's Lynn and several Norfolk villages. It was the first airship raid on Great Britain."
   - "Only at the beginning of January 1915 had Kaiser Wilhelm II agreed to attacks on military targets on the English coast, but not on London. The targets were the Humber area and the Thames estuary."
@@ -23,7 +23,7 @@ The naval command obtained his consent only at the beginning of January 1915. It
 
 On 19 January at about 11 a.m. L 3 and L 4 took off from the base at [Fuhlsbüttel](https://pl.wikipedia.org/wiki/Fuhlsbüttel) near Hamburg. L 3 was commanded by Kapitänleutnant Hans (Johann) Fritz, and L 4 by Kapitänleutnant Magnus Graf von Platen-Hallermund. Each carried eight 50-kilogram high-explosive bombs and incendiary bombs (sources give different numbers of them). Their target was the Humber. A third airship, L 6, commanded by Oberleutnant zur See Horst von Buttlar, set out from the base at Nordholz near [Cuxhaven](https://pl.wikipedia.org/wiki/Cuxhaven). Strasser himself was on board, and the airship was to attack the Thames estuary. After several hours of flight, near the Dutch island of [Terschelling](https://pl.wikipedia.org/wiki/Terschelling), a crankshaft broke in one of L 6's engines. In bad weather Buttlar and Strasser decided to turn back.
 
-The other two airships flew all day over the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne) in bad weather. An ever stronger north wind drove them southwards. When they reached the English coast after dark, they found themselves not over the Humber but over Norfolk, more than 100 kilometres further south. At about 8 p.m. they crossed the coastline between [Cromer](https://pl.wikipedia.org/wiki/Cromer) and Great Yarmouth. There they separated: L 3 turned south, and L 4 west, along the north coast of the county.
+The other two airships flew all day over the [North Sea](/miejsca/morze-polnocne) in bad weather. An ever stronger north wind drove them southwards. When they reached the English coast after dark, they found themselves not over the Humber but over Norfolk, more than 100 kilometres further south. At about 8 p.m. they crossed the coastline between [Cromer](https://pl.wikipedia.org/wiki/Cromer) and Great Yarmouth. There they separated: L 3 turned south, and L 4 west, along the north coast of the county.
 
 ## Bombs on Great Yarmouth
 

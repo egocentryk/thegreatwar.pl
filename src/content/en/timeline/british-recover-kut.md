@@ -2,10 +2,10 @@
 title: British recover Kut
 summary: On 24 February 1917 the Turks left Sannaiyat and Kut for Baghdad. On 25 February sailors from the gunboat Mantis raised the flag over the empty town.
 source: brytyjczycy-odzyskuja-al-kut
-sourceHash: f2c6bf03012f9c632c06b97c0641c6f938a41a31
+sourceHash: 80b6f35be99d5c6442ee561d10f8ee0feaf02435
 ---
 
-On 24 February 1917 the Ottoman forces abandoned the positions on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) they had held since the spring of 1916 and began to retreat upriver towards [Baghdad](/miejsca/bagdad). [Kut](https://pl.wikipedia.org/wiki/Al-Kut), where ten months earlier [General Townshend's division had surrendered](/kapitulacja-al-kutu), was left without defenders. In the evening General [Frederick Stanley Maude](/postacie/frederick-maude) telegraphed that he held all the enemy positions from Sannaiyat to Kut, and that the town itself, now of only sentimental importance, "passes automatically into our hands, although we have not yet occupied it". The British entered it only the next morning.
+On 24 February 1917 the Ottoman forces abandoned the positions on the [Tigris](/miejsca/tygrys) they had held since the spring of 1916 and began to retreat upriver towards [Baghdad](/miejsca/bagdad). [Kut](/miejsca/al-kut), where ten months earlier [General Townshend's division had surrendered](/kapitulacja-al-kutu), was left without defenders. In the evening General [Frederick Stanley Maude](/postacie/frederick-maude) telegraphed that he held all the enemy positions from Sannaiyat to Kut, and that the town itself, now of only sentimental importance, "passes automatically into our hands, although we have not yet occupied it". The British entered it only the next morning.
 
 ## The last day of the battle
 

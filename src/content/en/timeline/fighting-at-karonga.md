@@ -2,10 +2,10 @@
 title: Fighting at Karonga
 summary: On 9 September 1914 British troops repulsed a German attack on Karonga in Nyasaland, now Malawi, the first serious clash of the war in this part of Africa.
 source: walki-pod-karonga
-sourceHash: 74c096078639ecc42df76c0e743abb2f1b6faba9
+sourceHash: 578287cd7b107cea577a1b7e112048301b0473f9
 ---
 
-On 9 September 1914, at [Karonga](https://pl.wikipedia.org/wiki/Karonga), a settlement on the north-western shore of [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)), the first serious battle took place on the border between the British [Nyasaland Protectorate](https://pl.wikipedia.org/wiki/Niasa_(protektorat)), today's Malawi, and [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The British repulsed a German attack and inflicted heavy losses on the attackers.
+On 9 September 1914, at [Karonga](https://pl.wikipedia.org/wiki/Karonga), a settlement on the north-western shore of [Lake Nyasa](https://pl.wikipedia.org/wiki/Niasa_(jezioro)), the first serious battle took place on the border between the British [Nyasaland Protectorate](https://pl.wikipedia.org/wiki/Niasa_(protektorat)), today's Malawi, and [German East Africa](/bitwy/kampania-wschodnioafrykanska). The British repulsed a German attack and inflicted heavy losses on the attackers.
 
 ## The expedition against Karonga
 

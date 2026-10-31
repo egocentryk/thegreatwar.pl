@@ -2,10 +2,10 @@
 title: British cross the Tigris at Shumran
 summary: On 23 February 1917 men of the Norfolks and Gurkhas crossed the Tigris at Shumran in pontoons, and sappers built a bridge for a whole division in eight hours.
 source: brytyjczycy-forsuja-tygrys-pod-szumranem
-sourceHash: 106a21cedff568764c8d59cbbe27eb99160e99ab
+sourceHash: d9cc28c41d9d5588ac8c54019a21242ae1c7b2ca
 ---
 
-At dawn on 23 February 1917 British infantry crossed the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) on the Shumran peninsula, in a bend of the river about eleven kilometres west of [Kut](https://pl.wikipedia.org/wiki/Al-Kut). After two months of fighting on the right bank, the troops of General [Frederick Stanley Maude](/postacie/frederick-maude) at last stood on the same bank as the town and behind the Turkish positions. The British chronology of the war records the recapture of Kut under this date, but on that day the British had not yet entered the town. On 23 February they forced the river; during the night the commander of the Ottoman Sixth Army, Halil Pasha ([Halil Kut](/postacie/halil-kut)), ordered his troops to withdraw; on 24 February the Turks abandoned Sannaiyat and Kut; and British sailors raised the flag over the empty town only on the morning of 25 February. The crossing at Shumran nevertheless decided the town's fate, and many authors combine the two events into one.
+At dawn on 23 February 1917 British infantry crossed the [Tigris](/miejsca/tygrys) on the Shumran peninsula, in a bend of the river about eleven kilometres west of [Kut](/miejsca/al-kut). After two months of fighting on the right bank, the troops of General [Frederick Stanley Maude](/postacie/frederick-maude) at last stood on the same bank as the town and behind the Turkish positions. The British chronology of the war records the recapture of Kut under this date, but on that day the British had not yet entered the town. On 23 February they forced the river; during the night the commander of the Ottoman Sixth Army, Halil Pasha ([Halil Kut](/postacie/halil-kut)), ordered his troops to withdraw; on 24 February the Turks abandoned Sannaiyat and Kut; and British sailors raised the flag over the empty town only on the morning of 25 February. The crossing at Shumran nevertheless decided the town's fate, and many authors combine the two events into one.
 
 ## Feints
 

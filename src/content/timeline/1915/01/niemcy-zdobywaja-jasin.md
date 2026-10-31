@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-Rankiem 19 stycznia 1915 roku poddał się brytyjski garnizon Jasinu, przygranicznej plantacji w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Od świtu [poprzedniego dnia](/niemiecki-atak-na-jasin) około 300 żołnierzy indyjskich broniło się w szańcu otoczonym przez dziewięć kompanii podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). Próby odsieczy z brytyjskiego obozu nad rzeką Umba zawiodły.
+Rankiem 19 stycznia 1915 roku poddał się brytyjski garnizon Jasinu, przygranicznej plantacji w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska). Od świtu [poprzedniego dnia](/niemiecki-atak-na-jasin) około 300 żołnierzy indyjskich broniło się w szańcu otoczonym przez dziewięć kompanii podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck). Próby odsieczy z brytyjskiego obozu nad rzeką Umba zawiodły.
 
 ## Kapitulacja
 

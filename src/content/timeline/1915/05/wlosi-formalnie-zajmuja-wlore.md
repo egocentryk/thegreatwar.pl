@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 29 maja 1915 roku krótko, że albański port [Wlora](https://pl.wikipedia.org/wiki/Wlora) został „formalnie zajęty przez siły włoskie”. Włosi byli tam jednak od pół roku. Wyspę [Sazan](https://pl.wikipedia.org/wiki/Sazan) u wejścia do Zatoki Wlorskiej obsadzili pod koniec października 1914 roku, a [w grudniu wylądowali w samym mieście](/wlosi-laduja-we-wlorze) marynarze, a po nich pułk [bersalierów](https://pl.wikipedia.org/wiki/Bersalierzy) z artylerią górską. Nie udało nam się ustalić, jaki akt kryje się za zapisem z 29 maja. Ani opublikowane włoskie dokumenty dyplomatyczne, ani dostępne nam opracowania nie wspominają tego dnia o proklamacji, aneksji czy zmianie zarządu miasta. Wiadomo natomiast, że po wejściu Włoch do wojny charakter tej obecności całkowicie się zmienił.
+Brytyjska chronologia wojny notuje pod 29 maja 1915 roku krótko, że albański port [Wlora](/miejsca/wlora) został „formalnie zajęty przez siły włoskie”. Włosi byli tam jednak od pół roku. Wyspę [Sazan](https://pl.wikipedia.org/wiki/Sazan) u wejścia do Zatoki Wlorskiej obsadzili pod koniec października 1914 roku, a [w grudniu wylądowali w samym mieście](/wlosi-laduja-we-wlorze) marynarze, a po nich pułk [bersalierów](https://pl.wikipedia.org/wiki/Bersalierzy) z artylerią górską. Nie udało nam się ustalić, jaki akt kryje się za zapisem z 29 maja. Ani opublikowane włoskie dokumenty dyplomatyczne, ani dostępne nam opracowania nie wspominają tego dnia o proklamacji, aneksji czy zmianie zarządu miasta. Wiadomo natomiast, że po wejściu Włoch do wojny charakter tej obecności całkowicie się zmienił.
 
 ## Z neutralnej okupacji do bazy wojennej
 

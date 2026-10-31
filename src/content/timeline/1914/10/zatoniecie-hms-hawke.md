@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Przed południem 15 października 1914 roku niemiecki okręt podwodny [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) storpedował na [Morzu Północnym](https://pl.wikipedia.org/wiki/Morze_Północne), u wybrzeży Szkocji, brytyjski krążownik [Hawke](https://pl.wikipedia.org/wiki/HMS_Hawke_(1891)). Okręt przewrócił się i zatonął w ciągu kilku minut. Zginęło ponad 520 oficerów i marynarzy. Dowódcą U-9 był kapitanlejtnant [Otto Weddigen](https://pl.wikipedia.org/wiki/Otto_Weddigen), który trzy tygodnie wcześniej [zatopił krążowniki Aboukir, Hogue i Cressy](/zatoniecie-aboukir-hogue-i-cressy).
+Przed południem 15 października 1914 roku niemiecki okręt podwodny [U-9](https://pl.wikipedia.org/wiki/SM_U-9_(1910)) storpedował na [Morzu Północnym](/miejsca/morze-polnocne), u wybrzeży Szkocji, brytyjski krążownik [Hawke](https://pl.wikipedia.org/wiki/HMS_Hawke_(1891)). Okręt przewrócił się i zatonął w ciągu kilku minut. Zginęło ponad 520 oficerów i marynarzy. Dowódcą U-9 był kapitanlejtnant [Otto Weddigen](https://pl.wikipedia.org/wiki/Otto_Weddigen), który trzy tygodnie wcześniej [zatopił krążowniki Aboukir, Hogue i Cressy](/zatoniecie-aboukir-hogue-i-cressy).
 
 ## Stary krążownik na patrolu
 

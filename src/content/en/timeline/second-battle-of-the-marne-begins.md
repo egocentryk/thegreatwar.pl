@@ -2,7 +2,7 @@
 title: Second Battle of the Marne begins
 summary: On 15 July 1918 the Germans attacked either side of Reims. In Champagne they broke against Gouraud's defence; on the Marne they crossed at Dormans and stalled.
 source: poczatek-drugiej-bitwy-nad-marna
-sourceHash: 023e79f69563bcfa8f87f2288e509d9eb47948be
+sourceHash: 403f0c4cc1d856cfdc648518a1937cb499e8a812
 brief:
   - "A few minutes after midnight on 15 July 1918 the German artillery opened fire on both sides of Reims. The fifth and last great German offensive of the year, called a \"peace offensive\", was beginning."
   - "Ludendorff wanted to cut off Reims and draw the Allied reserves south before striking in Flanders. The secret was not kept: on 14 July the French took 27 prisoners and learned the hour of the bombardment."
@@ -11,7 +11,7 @@ brief:
   - "Foch refused to let the preparations for Mangin's counter-offensive be halted. The Germans soon broke off the attack, and three days after it began the initiative on the Western Front passed to the Allies."
 ---
 
-On 15 July 1918, a few minutes after midnight, thousands of German guns opened fire along a front more than 100 kilometres long, from near Château-Thierry on the Marne to the hills of Champagne east of Reims. The fifth and last great German offensive of the year was beginning. General [Erich Ludendorff](/postacie/erich-ludendorff) wanted to break the French front on both sides of [Reims](https://pl.wikipedia.org/wiki/Reims), cut off the city and draw the Allied reserves south before striking at the British in Flanders. The soldiers were told that this would be a "peace offensive" (*Friedensturm*) that would end the war. This time, however, the French knew the day and even the hour of the attack. East of Reims the German divisions broke against a defence that had drawn back before their blow, and west of the city, although they crossed the [Marne](https://pl.wikipedia.org/wiki/Marna), they stalled after a few kilometres. By evening the French command could consider that the worst was over.
+On 15 July 1918, a few minutes after midnight, thousands of German guns opened fire along a front more than 100 kilometres long, from near Château-Thierry on the Marne to the hills of Champagne east of Reims. The fifth and last great German offensive of the year was beginning. General [Erich Ludendorff](/postacie/erich-ludendorff) wanted to break the French front on both sides of [Reims](/miejsca/reims), cut off the city and draw the Allied reserves south before striking at the British in Flanders. The soldiers were told that this would be a "peace offensive" (*Friedensturm*) that would end the war. This time, however, the French knew the day and even the hour of the attack. East of Reims the German divisions broke against a defence that had drawn back before their blow, and west of the city, although they crossed the [Marne](https://pl.wikipedia.org/wiki/Marna), they stalled after a few kilometres. By evening the French command could consider that the worst was over.
 
 ## The plan and its betrayal
 

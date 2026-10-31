@@ -2,10 +2,10 @@
 title: Northern Force advances on Windhoek
 summary: In late February 1915 Botha's troops moved out of Swakopmund up the Swakop valley. The march across the Namib on the colonial capital, Windhoek, began.
 source: sily-polnocne-ruszaja-na-windhuk
-sourceHash: c648c54884510fbcff97b2eb21b9d047e4ccb52a
+sourceHash: 1bc1bb8e569eeb7e43af84b4febc924a3cadc7e5
 ---
 
-The British chronology of the war records under 22 February 1915 the start of the advance of the South African Northern Force from [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund) on [Windhoek](https://pl.wikipedia.org/wiki/Windhuk), the capital of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). South African accounts link the first operation to 23 February, when the troops of the prime minister and commander-in-chief, [Louis Botha](/postacie/louis-botha), pushed the German outposts away from the town into the desert. On 22 February, far to the south, the forces of General Duncan McKenzie, advancing from [Lüderitzbucht](/poludniowoafrykanczycy-zajmuja-luderitzbucht), took Garub station.
+The British chronology of the war records under 22 February 1915 the start of the advance of the South African Northern Force from [Swakopmund](https://pl.wikipedia.org/wiki/Swakopmund) on [Windhoek](https://pl.wikipedia.org/wiki/Windhuk), the capital of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). South African accounts link the first operation to 23 February, when the troops of the prime minister and commander-in-chief, [Louis Botha](/postacie/louis-botha), pushed the German outposts away from the town into the desert. On 22 February, far to the south, the forces of General Duncan McKenzie, advancing from [Lüderitzbucht](/poludniowoafrykanczycy-zajmuja-luderitzbucht), took Garub station.
 
 ## Botha takes command
 

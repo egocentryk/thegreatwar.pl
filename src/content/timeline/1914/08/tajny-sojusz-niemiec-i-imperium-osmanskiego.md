@@ -14,7 +14,7 @@ sources:
   - "https://en.wikipedia.org/wiki/German–Ottoman_alliance"
 ---
 
-Brytyjskie kroniki wojny odnotowywały pod datą 4 sierpnia 1914 roku zawarcie tajnego sojuszu między [Niemcami](/kraje/niemcy) a [Imperium Osmańskim](/kraje/imperium-osmanskie). W rzeczywistości traktat podpisano dwa dni wcześniej, 2 sierpnia, w [Konstantynopolu](https://pl.wikipedia.org/wiki/Konstantynopol), dzień po wypowiedzeniu przez Niemcy wojny Rosji. Ze strony niemieckiej podpisał go ambasador baron Hans von Wangenheim, a ze strony osmańskiej wielki wezyr [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
+Brytyjskie kroniki wojny odnotowywały pod datą 4 sierpnia 1914 roku zawarcie tajnego sojuszu między [Niemcami](/kraje/niemcy) a [Imperium Osmańskim](/kraje/imperium-osmanskie). W rzeczywistości traktat podpisano dwa dni wcześniej, 2 sierpnia, w [Konstantynopolu](/miejsca/konstantynopol), dzień po wypowiedzeniu przez Niemcy wojny Rosji. Ze strony niemieckiej podpisał go ambasador baron Hans von Wangenheim, a ze strony osmańskiej wielki wezyr [Said Halim Pasza](https://pl.wikipedia.org/wiki/Said_Halim_Pasza).
 
 ## Droga do traktatu
 

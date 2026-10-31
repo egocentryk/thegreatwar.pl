@@ -2,10 +2,10 @@
 title: British win at Kut
 summary: On 28 September 1915 Townshend's division skirted the marshes by night and took the Turkish redoubts at Es Sinn. That night the Turks fell back up the Tigris.
 source: brytyjczycy-wygrywaja-pod-al-kutem
-sourceHash: 7323849a413f3f6339178e05ecd981e7f21e248d
+sourceHash: 2e46754a9c11748e2c8f3981564c2eaa90bef331
 ---
 
-On 28 September 1915 the British and Indian troops of General Charles Townshend defeated the Turks at Es Sinn on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), about 11 kilometres east of [Kut](https://pl.wikipedia.org/wiki/Al-Kut). After a night march around the marshes, General Walter Delamain's column took the redoubts on the left flank of the Turkish position, and in the evening drove back an approaching Turkish reserve with the bayonet. The British official history calls this action the Battle of Kut. It was the greatest British victory in [Mesopotamia](/bitwy/kampania-mezopotamska) in 1915, but not the one Townshend had hoped for.
+On 28 September 1915 the British and Indian troops of General Charles Townshend defeated the Turks at Es Sinn on the [Tigris](/miejsca/tygrys), about 11 kilometres east of [Kut](/miejsca/al-kut). After a night march around the marshes, General Walter Delamain's column took the redoubts on the left flank of the Turkish position, and in the evening drove back an approaching Turkish reserve with the bayonet. The British official history calls this action the Battle of Kut. It was the greatest British victory in [Mesopotamia](/bitwy/kampania-mezopotamska) in 1915, but not the one Townshend had hoped for.
 
 ## A position that could not be taken from the front
 

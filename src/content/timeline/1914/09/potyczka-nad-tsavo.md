@@ -11,11 +11,11 @@ milestone: false
 draft: false
 ---
 
-6 września 1914 roku w dolinie rzeki Tsavo, w [Brytyjskiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), dzisiejszej Kenii, doszło do starcia między oddziałem niemieckim a żołnierzami 29 Pułku Pendżabskiego i afrykańskich strzelców King's African Rifles. Była to jedna z pierwszych walk wojsk indyjskich w tej wojnie.
+6 września 1914 roku w dolinie rzeki Tsavo, w [Brytyjskiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska), dzisiejszej Kenii, doszło do starcia między oddziałem niemieckim a żołnierzami 29 Pułku Pendżabskiego i afrykańskich strzelców King's African Rifles. Była to jedna z pierwszych walk wojsk indyjskich w tej wojnie.
 
 ## Cel: kolej ugandyjska
 
-Najważniejszą arterią brytyjskiej kolonii była linia kolejowa z [Mombasy](https://pl.wikipedia.org/wiki/Mombasa) nad Oceanem Indyjskim do Jeziora Wiktorii. Przebiegała niedaleko granicy z [Niemiecką Afryką Wschodnią](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia), a w okolicy stacji Tsavo przecinała rzekę po moście. Dolina Tsavo, porośnięta gęstym, kolczastym buszem, ale mająca wodę, była wygodną drogą dla niemieckich oddziałów wypadowych, schodzących spod [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro) w stronę torów.
+Najważniejszą arterią brytyjskiej kolonii była linia kolejowa z [Mombasy](https://pl.wikipedia.org/wiki/Mombasa) nad Oceanem Indyjskim do Jeziora Wiktorii. Przebiegała niedaleko granicy z [Niemiecką Afryką Wschodnią](/bitwy/kampania-wschodnioafrykanska), a w okolicy stacji Tsavo przecinała rzekę po moście. Dolina Tsavo, porośnięta gęstym, kolczastym buszem, ale mająca wodę, była wygodną drogą dla niemieckich oddziałów wypadowych, schodzących spod [Kilimandżaro](/bitwy/kampania-wschodnioafrykanska) w stronę torów.
 
 Pod koniec sierpnia niemiecki dowódca w Moshi wysłał niewielki oddział z zadaniem zniszczenia lub przerwania kolei i telegrafu pod Tsavo. Na początku września zastąpiła go 13 Kompania Polowa kapitana Hansa Schulza, licząca ponad 200 askarysów z czterema karabinami maszynowymi. Po stronie brytyjskiej w rejonie [Voi](https://pl.wikipedia.org/wiki/Voi) stały dwie podwójne kompanie [29 Pułku Pendżabskiego](/pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej), który kilka dni wcześniej wyładował się w Mombasie.
 

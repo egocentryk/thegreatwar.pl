@@ -6,10 +6,10 @@ country: Albania
 birthPlace: Tirana (Ottoman Empire, today Albania)
 deathPlace: Paris
 source: esad-pasza-toptani
-sourceHash: 742c936a8f8e4a747d759b1e2af200354689d71a
+sourceHash: 36939f53c1962d4583335c195521646ac5a21b6b
 ---
 
-Essad Pasha Toptani was the most influential and at the same time the most hated by his compatriots of all Albanian politicians of the Great War years. A magnate from central Albania and a former Ottoman general, in the autumn of 1914 he returned from exile with Serbian money, took [Durrës](https://pl.wikipedia.org/wiki/Durrës) and headed a government whose authority seldom reached far beyond that town. He relied in turn on Serbia, Italy and France, and when the Austrians arrived in February 1916 he sailed away to Italy. He spent the rest of the war as head of a government without a country, first in Italy and France, then in Salonika. Many Albanians still regard him as a symbol of treason; in Serbia he is remembered as an ally from the darkest days of 1915.
+Essad Pasha Toptani was the most influential and at the same time the most hated by his compatriots of all Albanian politicians of the Great War years. A magnate from central Albania and a former Ottoman general, in the autumn of 1914 he returned from exile with Serbian money, took [Durrës](/miejsca/durres) and headed a government whose authority seldom reached far beyond that town. He relied in turn on Serbia, Italy and France, and when the Austrians arrived in February 1916 he sailed away to Italy. He spent the rest of the war as head of a government without a country, first in Italy and France, then in Salonika. Many Albanians still regard him as a symbol of treason; in Serbia he is remembered as an ally from the darkest days of 1915.
 
 ## Before the war
 

@@ -12,13 +12,13 @@ milestone: false
 draft: false
 ---
 
-Rano 2 listopada 1914 roku przed portem [Tanga](https://pl.wikipedia.org/wiki/Tanga) w [Niemieckiej Afryce Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) pojawił się brytyjski krążownik HMS Fox. Za nim, poza zasięgiem wzroku z lądu, czekały transportowce z Indyjskim Korpusem Ekspedycyjnym „B” generała majora Arthura Aitkena, około 8 tysiącami żołnierzy. Zaczynała się bitwa, która miała otworzyć Brytyjczykom drogę w głąb niemieckiej kolonii.
+Rano 2 listopada 1914 roku przed portem [Tanga](https://pl.wikipedia.org/wiki/Tanga) w [Niemieckiej Afryce Wschodniej](/bitwy/kampania-wschodnioafrykanska) pojawił się brytyjski krążownik HMS Fox. Za nim, poza zasięgiem wzroku z lądu, czekały transportowce z Indyjskim Korpusem Ekspedycyjnym „B” generała majora Arthura Aitkena, około 8 tysiącami żołnierzy. Zaczynała się bitwa, która miała otworzyć Brytyjczykom drogę w głąb niemieckiej kolonii.
 
 ## Ostrzeżenie
 
 Dowódca krążownika, kapitan Francis Caulfeild, zszedł na ląd i spotkał się z miejscowym urzędnikiem, doktorem Auracherem. Oznajmił mu, że lokalny rozejm zawarty w sierpniu przez dowódców brytyjskich okrętów przestaje obowiązywać, i zażądał poddania miasta w ciągu godziny. Takie uprzedzenie Niemców ustalono 31 października [na naradzie w Mombasie](/indyjski-korpus-ekspedycyjny-b-w-mombasie), choć odbierało ono atakującym zaskoczenie.
 
-Auracher odpowiedział wymijająco, że musi porozumieć się z przełożonymi, i wrócił do miasta. Zamiast przygotowywać kapitulację, zaalarmował garnizon. Wiadomość dotarła do dowódcy niemieckich wojsk kolonialnych, podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), który przebywał z głównymi siłami u stóp [Kilimandżaro](https://pl.wikipedia.org/wiki/Kilimandżaro). Lettow-Vorbeck od razu zaczął przerzucać swoje kompanie koleją nad morze. Tanga była końcową stacją tej linii, co bardzo ułatwiło mu zadanie.
+Auracher odpowiedział wymijająco, że musi porozumieć się z przełożonymi, i wrócił do miasta. Zamiast przygotowywać kapitulację, zaalarmował garnizon. Wiadomość dotarła do dowódcy niemieckich wojsk kolonialnych, podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck), który przebywał z głównymi siłami u stóp [Kilimandżaro](/bitwy/kampania-wschodnioafrykanska). Lettow-Vorbeck od razu zaczął przerzucać swoje kompanie koleją nad morze. Tanga była końcową stacją tej linii, co bardzo ułatwiło mu zadanie.
 
 ## Stracone godziny
 

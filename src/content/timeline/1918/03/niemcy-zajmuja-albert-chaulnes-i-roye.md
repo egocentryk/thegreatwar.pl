@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-26 marca 1918 roku, szóstego dnia [operacji Michael](/bitwy/operacja-michael), Niemcy zajęli trzy miasta Pikardii, które od lat kojarzyły się z frontem nad Sommą: [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) i [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes) na południe od rzeki oraz [Albert](https://pl.wikipedia.org/wiki/Albert_(Francja)) na północ od niej. Dwa dni po [utracie Bapaume i Péronne](/niemcy-zdobywaja-bapaume-i-peronne) brytyjskie i francuskie oddziały wciąż się cofały, choć coraz wolniej, a niemiecka piechota, pozbawiona artylerii, która nie nadążała przez stare pole bitwy, zaczynała opadać z sił.
+26 marca 1918 roku, szóstego dnia [operacji Michael](/bitwy/operacja-michael), Niemcy zajęli trzy miasta Pikardii, które od lat kojarzyły się z frontem nad Sommą: [Roye](https://pl.wikipedia.org/wiki/Roye_(Somma)) i [Chaulnes](https://pl.wikipedia.org/wiki/Chaulnes) na południe od rzeki oraz [Albert](/miejsca/albert) na północ od niej. Dwa dni po [utracie Bapaume i Péronne](/niemcy-zdobywaja-bapaume-i-peronne) brytyjskie i francuskie oddziały wciąż się cofały, choć coraz wolniej, a niemiecka piechota, pozbawiona artylerii, która nie nadążała przez stare pole bitwy, zaczynała opadać z sił.
 
 ## Roye i Chaulnes
 
@@ -22,7 +22,7 @@ Dalej na północ XIX Korpus generała Herberta Wattsa, zagrożony obejściem od
 
 ## Albert
 
-Albert, położone nad rzeką [Ancre](https://pl.wikipedia.org/wiki/Ancre), od [jesieni 1914 roku](/bitwy/pierwsza-bitwa-pod-albert) leżało tuż za frontem po stronie sprzymierzonych, a w 1916 roku było głównym zapleczem brytyjskiej ofensywy nad Sommą. Nad zniszczonym miastem górowała wieża neobizantyjskiej bazyliki Notre-Dame de Brebières ze złoconą figurą Matki Boskiej z Dzieciątkiem. W styczniu 1915 roku pocisk trafił w kopułę, a figura przechyliła się i zawisła niemal poziomo nad ulicą. „Pochylona Madonna” z Albert była znana milionom żołnierzy i z pocztówek. Wśród Brytyjczyków i Francuzów krążyło przekonanie, że gdy spadnie, skończy się wojna.
+Albert, położone nad rzeką [Ancre](/miejsca/somma), od [jesieni 1914 roku](/bitwy/pierwsza-bitwa-pod-albert) leżało tuż za frontem po stronie sprzymierzonych, a w 1916 roku było głównym zapleczem brytyjskiej ofensywy nad Sommą. Nad zniszczonym miastem górowała wieża neobizantyjskiej bazyliki Notre-Dame de Brebières ze złoconą figurą Matki Boskiej z Dzieciątkiem. W styczniu 1915 roku pocisk trafił w kopułę, a figura przechyliła się i zawisła niemal poziomo nad ulicą. „Pochylona Madonna” z Albert była znana milionom żołnierzy i z pocztówek. Wśród Brytyjczyków i Francuzów krążyło przekonanie, że gdy spadnie, skończy się wojna.
 
 W nocy z 25 na 26 marca V Korpus brytyjskiej 3 Armii cofnął się za Ancre. Jego dowództwo uznało, że łatwiej będzie bronić się na wzgórzach na zachód od miasta, i oddało ruiny Albert bez walki. Po południu na wzgórzach na wschód od niego pojawiły się oddziały niemieckiej 3 Dywizji Piechoty Morskiej i 54 Dywizji Rezerwowej. Niemiecki autor Georg Goes pisał później, że wieża bazyliki z powykręcanym żelazem na szczycie odcinała się ostro na tle zachodniego nieba. Około 17 Niemcy weszli do miasta, ale gdy próbowali wyjść z niego na zachód, wzdłuż dróg do Amiens i Bouzincourt, zatrzymał ich ogień brytyjskich karabinów maszynowych z wysokiego brzegu. Goes tłumaczył niepowodzenie dalszego natarcia między innymi tym, że głodni od dwóch dni żołnierze znaleźli w Albert obfite brytyjskie zapasy żywności, „także napoje”.
 

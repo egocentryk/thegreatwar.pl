@@ -2,10 +2,10 @@
 title: Germans occupy Reims
 summary: At the beginning of September 1914 German troops occupied Reims. The occupation of the coronation city of the kings of France lasted just over a week.
 source: niemcy-zajmuja-reims
-sourceHash: 359e4e3ea196626c4ca51c87b6aa94f534c8a0f2
+sourceHash: 25447ca22770a2cb1bf031e61e3319b5dfc9cae7
 ---
 
-The British chronicle of the war recorded the capture of [Reims](https://pl.wikipedia.org/wiki/Reims) by German troops under 5 September 1914. In fact the Germans entered the city a day earlier, on 4 September, and by 5 September it was entirely in their hands. Reims, the capital of Champagne, had a special significance for the French: for centuries the kings of France had been crowned in its cathedral.
+The British chronicle of the war recorded the capture of [Reims](/miejsca/reims) by German troops under 5 September 1914. In fact the Germans entered the city a day earlier, on 4 September, and by 5 September it was entirely in their hands. Reims, the capital of Champagne, had a special significance for the French: for centuries the kings of France had been crowned in its cathedral.
 
 ## An undefended city
 

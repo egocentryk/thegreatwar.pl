@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-17 października 1914 roku wojska brytyjskie wkroczyły do [Armentières](https://pl.wikipedia.org/wiki/Armentières), przemysłowego miasta nad rzeką [Leie](https://pl.wikipedia.org/wiki/Leie) (fr. Lys), przy granicy belgijskiej. Niemcy, którzy [zajęli je przed tygodniem](/niemcy-zajmuja-armentieres-i-hazebrouck), wycofali się w pośpiechu, zostawiając tylko niewielkie grupki żołnierzy, które ostrzeliwały się z domów. Dla brytyjskiego III Korpusu generała Williama Pulteneya był to jeden z ostatnich sukcesów w natarciu, które zaczęło się cztery dni wcześniej pod Meteren i [przez Bailleul](/brytyjczycy-zajmuja-bailleul) doprowadziło go nad Lys.
+17 października 1914 roku wojska brytyjskie wkroczyły do [Armentières](https://pl.wikipedia.org/wiki/Armentières), przemysłowego miasta nad rzeką [Leie](/miejsca/leie) (fr. Lys), przy granicy belgijskiej. Niemcy, którzy [zajęli je przed tygodniem](/niemcy-zajmuja-armentieres-i-hazebrouck), wycofali się w pośpiechu, zostawiając tylko niewielkie grupki żołnierzy, które ostrzeliwały się z domów. Dla brytyjskiego III Korpusu generała Williama Pulteneya był to jeden z ostatnich sukcesów w natarciu, które zaczęło się cztery dni wcześniej pod Meteren i [przez Bailleul](/brytyjczycy-zajmuja-bailleul) doprowadziło go nad Lys.
 
 ## Przeprawa i wejście do miasta
 

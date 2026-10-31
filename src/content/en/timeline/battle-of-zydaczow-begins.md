@@ -2,10 +2,10 @@
 title: Battle of Żydaczów begins
 summary: On 10 June 1915 the South Army, thrown back over the Dniester the day before, struck upstream at Żydaczów, into the flank of the Russians advancing on Stryj.
 source: poczatek-bitwy-pod-zydaczowem
-sourceHash: 1ad5c264e00d3387a43217ce13cd5fec365e5c94
+sourceHash: 6e45e611c313889f5ee4e9988a86af7d8caf7737
 ---
 
-According to the British chronology of the war, 10 June 1915 saw the beginning of the battle of [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów), a small town on the river Stryj, just before it flows into the [Dniester](https://pl.wikipedia.org/wiki/Dniestr). The same dates, 10–22 June, are given by the official German list of battles used in divisional histories. On that day the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen) launched a new attack along the Dniester, upstream. It was meant to strike the flank of the Russian forces that for two days had been pushing its left wing back towards [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)).
+According to the British chronology of the war, 10 June 1915 saw the beginning of the battle of [Żydaczów](https://pl.wikipedia.org/wiki/Żydaczów), a small town on the river Stryj, just before it flows into the [Dniester](/miejsca/dniestr). The same dates, 10–22 June, are given by the official German list of battles used in divisional histories. On that day the German-Austrian [South Army](/sily-zbrojne/armia-poludniowa) of General [Alexander von Linsingen](/postacie/alexander-von-linsingen) launched a new attack along the Dniester, upstream. It was meant to strike the flank of the Russian forces that for two days had been pushing its left wing back towards [Stryj](https://pl.wikipedia.org/wiki/Stryj_(miasto)).
 
 ## Crisis on the Dniester
 

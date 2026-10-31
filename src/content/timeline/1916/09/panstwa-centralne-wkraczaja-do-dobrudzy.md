@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-2 września 1916 roku, dzień po tym, jak [Bułgaria wypowiedziała wojnę Rumunii](/bulgaria-wypowiada-wojne-rumunii), wojska państw centralnych wkroczyły na całej długości granicy do południowej [Dobrudży](https://pl.wikipedia.org/wiki/Dobrudża), krainy, którą Bułgarzy utracili na rzecz Rumunii w 1913 roku. Austriacka historia oficjalna podaje, że Bułgarzy przekroczyli granicę 1 września. Rumuński historyk Constantin Kirițescu, który szczegółowo opisał te walki, pisze, że bułgarska ofensywa na całej linii ruszyła w nocy z 1 na 2 września. Po obu stronach granicy już od kilku dni dochodziło zresztą do potyczek.
+2 września 1916 roku, dzień po tym, jak [Bułgaria wypowiedziała wojnę Rumunii](/bulgaria-wypowiada-wojne-rumunii), wojska państw centralnych wkroczyły na całej długości granicy do południowej [Dobrudży](/miejsca/dobrudza), krainy, którą Bułgarzy utracili na rzecz Rumunii w 1913 roku. Austriacka historia oficjalna podaje, że Bułgarzy przekroczyli granicę 1 września. Rumuński historyk Constantin Kirițescu, który szczegółowo opisał te walki, pisze, że bułgarska ofensywa na całej linii ruszyła w nocy z 1 na 2 września. Po obu stronach granicy już od kilku dni dochodziło zresztą do potyczek.
 
 ## Plan Mackensena
 

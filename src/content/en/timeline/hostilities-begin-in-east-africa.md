@@ -2,10 +2,10 @@
 title: Hostilities begin in East Africa
 summary: On 8 August 1914 the British cruiser Astraea shelled Dar es Salaam in German East Africa. A war began there that lasted until November 1918.
 source: poczatek-dzialan-wojennych-w-afryce-wschodniej
-sourceHash: 80803dc9e291fba64e059b3e381925446420942a
+sourceHash: f10e314100fc3bd0f8b1c16c03f8d6d7237f3269
 ---
 
-On 8 August 1914 the British cruiser HMS Astraea shelled [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam), the capital of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Its target was the wireless station through which German warships in the Indian Ocean kept in contact with the shore. This was the beginning of hostilities in East Africa, the longest campaign of the First World War.
+On 8 August 1914 the British cruiser HMS Astraea shelled [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam), the capital of [German East Africa](/bitwy/kampania-wschodnioafrykanska). Its target was the wireless station through which German warships in the Indian Ocean kept in contact with the shore. This was the beginning of hostilities in East Africa, the longest campaign of the First World War.
 
 ## Bombardment and truce
 
@@ -15,7 +15,7 @@ After the bombardment Astraea's captain agreed to a truce on condition that Dar 
 
 ## Lettow-Vorbeck
 
-The commander of the German colonial troops, Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), took a different view. He believed his task was to tie down as many British forces as possible in Africa, so that they could not fight in Europe. Against the governor's wishes he prepared for war, and in the following months he went over to offensive operations against [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), today's Kenya.
+The commander of the German colonial troops, Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck), took a different view. He believed his task was to tie down as many British forces as possible in Africa, so that they could not fight in Europe. Against the governor's wishes he prepared for war, and in the following months he went over to offensive operations against [British East Africa](/bitwy/kampania-wschodnioafrykanska), today's Kenya.
 
 ## The longest campaign
 

@@ -2,7 +2,7 @@
 title: Assault on Vimy Ridge
 summary: On 9 April 1917, in a snowstorm, four Canadian divisions attacked Vimy Ridge. By evening they held almost all of it except the highest point, Hill 145.
 source: szturm-na-grzbiet-vimy
-sourceHash: 71a8e924389fea75460638f5bc7de1a994aeb73e
+sourceHash: 11fe2244d3a0106e3dd0062eed111742f280b72e
 brief:
   - "On Easter Monday, 9 April 1917, the Canadian Corps attacked Vimy Ridge. For the first time all four Canadian divisions went into battle together."
   - "The ridge had been fought over for two and a half years, and in 1915 the French twice tried to take it. Lieutenant-General Julian Byng planned the attack to the minute, and every battalion rehearsed its task."
@@ -11,7 +11,7 @@ brief:
   - "In the first two days the Canadian Corps lost 7,707 men, but in a single day it took almost the whole ridge. Hill 145 fell on 10 April and the Pimple on 12 April."
 ---
 
-On 9 April 1917, Easter Monday, at 5.30 a.m., at the very moment the British Third Army went into the attack [at Arras](/poczatek-bitwy-pod-arras-1917), the Canadian Corps attacked Vimy Ridge to its north. For the first time in history all four Canadian divisions went into battle together, side by side, with soldiers from every province of the country. Before them lay a ridge that had been fought over for two and a half years: in 1915 the French [twice tried](/poczatek-drugiej-bitwy-w-artois) to take it and suffered enormous losses, and [in May 1916](/niemiecki-atak-na-grzbiet-vimy) the British lost some of their trenches here. Within a few hours the Canadians took almost the whole ridge and descended its eastern slope above the [Douai](https://pl.wikipedia.org/wiki/Douai) plain. By evening only the highest point, Hill 145, and the northern end of the ridge remained in German hands.
+On 9 April 1917, Easter Monday, at 5.30 a.m., at the very moment the British Third Army went into the attack [at Arras](/poczatek-bitwy-pod-arras-1917), the Canadian Corps attacked Vimy Ridge to its north. For the first time in history all four Canadian divisions went into battle together, side by side, with soldiers from every province of the country. Before them lay a ridge that had been fought over for two and a half years: in 1915 the French [twice tried](/poczatek-drugiej-bitwy-w-artois) to take it and suffered enormous losses, and [in May 1916](/niemiecki-atak-na-grzbiet-vimy) the British lost some of their trenches here. Within a few hours the Canadians took almost the whole ridge and descended its eastern slope above the [Douai](/miejsca/douai) plain. By evening only the highest point, Hill 145, and the northern end of the ridge remained in German hands.
 
 ## The night before the attack
 

@@ -1,0 +1,226 @@
+{
+ "slug": "somma",
+ "paragraphs": [
+  {
+   "start": "Somma to rzeka Pikardii w północnej Francji, długa",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Somme_(river)",
+     "quote": "The river is 245 km (152 mi) in length, from its source in the high ground of the former Arrouaise Forest at Fonsomme near Saint-Quentin, to the Bay of the Somme, in the English Channel."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The Picardy region in France was a theatre of war from 1914 to 1918. Fighting was concentrated on the Thiepval Ridge north of and the Santerre Plain south of a bend in the Somme and west of the market town of Péronne. The best remembered and most notorious of these battles is the 1916 Battle of the Somme"
+    },
+    {
+     "url": "https://wm.awm.gov.au/read/somme",
+     "quote": "For the British the Somme denotes a battle, but for the French it means a river and the département in northern France to which it gives its name."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The British and German armies fought on the same ground in 1918."
+    }
+   ]
+  },
+  {
+   "start": "Wojna dotarła nad Sommę już w sierpniu 1914 roku.",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "Fighting occurred near the Somme in the first month of the war. On 26 August 1914 a French reserve corps was surprised and routed at Moislans as the German army swept through northern France, pushing as far as Amiens."
+    },
+    {
+     "file": "src/content/timeline/1914/08/niemcy-wkraczaja-do-amiens.md",
+     "quote": "Francuzi wysadzili mosty na Sommie, ale samego miasta nie bronili."
+    },
+    {
+     "file": "src/content/battles/1914/wyscig-do-morza.md",
+     "quote": "Pod koniec września front zastygł na wzgórzach od Maricourt nad Sommą przez Fricourt po Thiepval."
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-w-pikardii.md",
+     "quote": "Pierwszy etap wyścigu do morza. We wrześniu 1914 Francuzi próbowali obejść Niemców od zachodu, między Oise a Sommą"
+    },
+    {
+     "file": "src/content/battles/1914/pierwsza-bitwa-pod-albert.md",
+     "quote": "niemiecka 6 Armia księcia Rupprechta Bawarskiego próbowały obejść się nawzajem na północ od Sommy"
+    }
+   ]
+  },
+  {
+   "start": "Na północ od Sommy front przecinał dolinę Ancre, ni",
+   "quotes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Ancre",
+     "quote": "Rising at Miraumont, a hamlet near the town of Albert, it flows into the Somme at Corbie."
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zajmuja-albert-chaulnes-i-roye.md",
+     "quote": "Albert, położone nad rzeką Ancre"
+    },
+    {
+     "file": "src/content/timeline/1914/09/poczatek-pierwszej-bitwy-pod-albert.md",
+     "quote": "Front między Sommą a Ancre ucichł i przez niemal dwa lata uchodził za jeden z najspokojniejszych odcinków frontu zachodniego. Niemcy wykorzystali ten czas, by zbudować na wzgórzach potężne umocnienia, z głębokimi schronami wykutymi w kredowym podłożu."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "It was these positions that the British army, which relieved the French north of the Somme in summer 1915, later attacked."
+    },
+    {
+     "url": "https://wm.awm.gov.au/read/somme",
+     "quote": "Its winding course and marshy banks were a serious a obstacle to military operations."
+    }
+   ]
+  },
+  {
+   "start": "Ofensywę nad Sommą sprzymierzeni zaplanowali tam,",
+   "quotes": [
+    {
+     "url": "https://wm.awm.gov.au/read/somme",
+     "quote": "On 14 February Joffre agreed with Sir John French’s successor, Haig, that the joint attack would take place where the armies met in Picardy"
+    },
+    {
+     "url": "https://wm.awm.gov.au/read/somme",
+     "quote": "He had allocated three armies to Foch, consisting of 39 infantry divisions plus three territorial divisions. The aim was to cross the Somme river, south of Péronne, supported by the British further north"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "After the French army was engaged at Verdun, the offensive shrank in ambition, as did the French army’s contribution, leaving the British to take the principal role in the attack on 1 July 1916."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "brytyjska 4 Armia i francuska 6 Armia uderzyły na niemieckie pozycje po obu stronach rzeki Sommy"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "General Marie-Émile Fayolle’s (1852-1928) Sixth Army employed more effective artillery-centred tactics"
+    }
+   ]
+  },
+  {
+   "start": "Pierwszy dzień przyniósł armii brytyjskiej 57 tysię",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1916/07/pierwszy-dzien-bitwy-nad-somma.md",
+     "quote": "Francuzi i prawe skrzydło brytyjskie odnieśli sukces, ale armia brytyjska straciła 57 tysięcy ludzi."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The French occupied the Flaucourt Plateau, strategic high ground south of the river, which enabled them to enfilade the German positions to the north with artillery fire."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "Od 1 lipca do 18 listopada 1916 Brytyjczycy i Francuzi nacierali nad Sommą. Zyskali najwyżej 10 km"
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-ancre.md",
+     "quote": "Bitwa nad Ancre była ostatnim wielkim natarciem brytyjskim w bitwie nad Sommą."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "It probably lost more than 500,000 casualties on top of those suffered at Verdun (the numbers are still disputed) and suffered a serious crisis of morale. The British suffered 420,000 and the French 202,000 casualties."
+    },
+    {
+     "url": "https://wm.awm.gov.au/read/somme",
+     "quote": "Yet, by the end of the battle, Britain and France had employed almost equal numbers of men, but the French gained more territory for little more than half the casualties."
+    }
+   ]
+  },
+  {
+   "start": "Od 22 lutego 1917 roku Niemcy cofali się znad Ancr",
+   "quotes": [
+    {
+     "file": "src/content/battles/1917/odwrot-na-linie-hindenburga.md",
+     "quote": "Od 22 lutego do początku kwietnia 1917 Niemcy cofnęli się znad Ancre i Sommy na Linię Hindenburga"
+    },
+    {
+     "file": "src/content/battles/1917/odwrot-na-linie-hindenburga.md",
+     "quote": "Niemcy wysadzali drogi, mosty i tory, burzyli miasta i wsie"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The Australian Corps’ entry into Bapaume on 17 March 1917, an objective of the first phase of the offensive in July 1916, marked the real end to the Battle of the Somme."
+    },
+    {
+     "file": "src/content/timeline/1917/03/zajecie-peronne-i-noyon.md",
+     "quote": "18 marca 1917 Brytyjczycy weszli do zburzonego Péronne"
+    },
+    {
+     "file": "src/content/timeline/1917/03/zajecie-peronne-i-noyon.md",
+     "quote": "dolina Sommy z kanałem, główną rzeką i bagnami pomiędzy nimi."
+    }
+   ]
+  },
+  {
+   "start": "21 marca 1918 roku Niemcy rozpoczęli operację Mich",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "21 marca – 5 kwietnia 1918 trzy armie niemieckie przełamały front brytyjski nad Sommą"
+    },
+    {
+     "file": "src/content/battles/1918/pierwsza-bitwa-pod-bapaume-1918.md",
+     "quote": "brytyjska 5 Armia cofnęła się za Sommę"
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md",
+     "quote": "Péronne brytyjska 5 Armia opuściła już po południu 23 marca"
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The wasteland of 1916 had reverted to nature, but remained a serious obstacle that slowed the German advance. The lines reformed on the heights at Villers-Bretonneux, where Australian and French forces defied all German attempts to push on to the rail junction at Amiens."
+    },
+    {
+     "file": "src/content/timeline/1918/04/walki-nad-ancre.md",
+     "quote": "5 kwietnia 1918 roku, szesnastego dnia operacji Michael, Niemcy po raz ostatni spróbowali przebić się do Amiens, uderzając na brytyjską 3 Armię nad doliną Ancre."
+    }
+   ]
+  },
+  {
+   "start": "Odwrót zaczął się w dolinie Sommy. 8 sierpnia spr",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "the 8–11 August Battle of Amiens-Montdidier in which Anglo-French forces disengaged Amiens by clearing the Santerre Plain"
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-somma-1918.md",
+     "quote": "od 21 sierpnia do 3 września 1918 roku brytyjska 3 i 4 Armia wyparły Niemców z dawnego pola bitwy nad Sommą z 1916 roku"
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-somma-1918.md",
+     "quote": "Linia Sommy wydawała się mocna. Rzeka płynie tu na północ szeroką, bagnistą doliną, a północną flankę Péronne osłania wzgórze Mont Saint-Quentin"
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-somma-1918.md",
+     "quote": "30 sierpnia australijska 2 Dywizja uchwyciła przyczółek za Sommą pod Cléry, a 31 sierpnia o 5.00 jej 5 Brygada, licząca zaledwie około 1300 ludzi, zaatakowała wzgórze z północnego zachodu."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-nad-somma-1918.md",
+     "quote": "następnego dnia, 1 września, 6 Brygada odbiła wzgórze, a 5 Dywizja wdarła się przez fosę do Péronne"
+    }
+   ]
+  },
+  {
+   "start": "Po wojnie wzgórza nad Ancre stały się miejscem pie",
+   "quotes": [
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The Thiepval Ridge and its environs remain a site of pilgrimage for Commonwealth nations, an evolving landscape of memory and commemoration."
+    },
+    {
+     "file": "src/content/timeline/1914/09/poczatek-pierwszej-bitwy-pod-albert.md",
+     "quote": "Dziś w Thiepval stoi pomnik upamiętniający ponad 72 tysiące żołnierzy brytyjskich i południowoafrykańskich, którzy zginęli nad Sommą i nie mają znanego grobu."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "The 1916 Somme offensive was Britain’s most costly and remains its most notorious First World War battle, while the French army’s major role and relative success in the offensive has been all but forgotten."
+    },
+    {
+     "url": "https://encyclopedia.1914-1918-online.net/article/somme-battles-of/",
+     "quote": "For France and Germany the Somme has less resonance because the ten-month struggle at Verdun symbolizes the war of attrition."
+    }
+   ]
+  }
+ ]
+}

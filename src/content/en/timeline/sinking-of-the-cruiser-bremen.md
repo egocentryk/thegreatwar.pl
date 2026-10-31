@@ -2,10 +2,10 @@
 title: Sinking of the cruiser Bremen
 summary: On 17 December 1915 the German light cruiser Bremen struck Russian mines off Windau and sank with the torpedo boat V 191. Some 200–250 sailors died.
 source: zatoniecie-krazownika-bremen
-sourceHash: 807f07742aaaa96a4f7679d2dca59eb7056eeee7
+sourceHash: 894f731c992b0b999cb1406e68fe3a741fa90296
 ---
 
-On the evening of 17 December 1915, in the Baltic, a few nautical miles from the German-occupied port of [Windau](https://pl.wikipedia.org/wiki/Windawa_(miasto)) in [Courland](https://pl.wikipedia.org/wiki/Kurlandia), the German [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) [*Bremen*](https://pl.wikipedia.org/wiki/SMS_Bremen) sank. The torpedo boat [*V 191*](https://pl.wikipedia.org/wiki/SMS_V_191) went down with her. The British chronology of the war states that *Bremen* was sunk by a British submarine. This, however, does not agree with either German or Russian sources. Both ships ran into a [minefield](https://pl.wikipedia.org/wiki/Zagroda_minowa) that Russian destroyers had laid there only the day before. The mistake is understandable, since in the autumn British submarines operating from Russian bases had sunk two German cruisers in the Baltic: [*Prinz Adalbert*](/zatopienie-krazownika-prinz-adalbert) off Libau and [*Undine*](/zatopienie-krazownika-undine) off the coast of Rügen.
+On the evening of 17 December 1915, in the Baltic, a few nautical miles from the German-occupied port of [Windau](https://pl.wikipedia.org/wiki/Windawa_(miasto)) in [Courland](/miejsca/kurlandia), the German [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) [*Bremen*](https://pl.wikipedia.org/wiki/SMS_Bremen) sank. The torpedo boat [*V 191*](https://pl.wikipedia.org/wiki/SMS_V_191) went down with her. The British chronology of the war states that *Bremen* was sunk by a British submarine. This, however, does not agree with either German or Russian sources. Both ships ran into a [minefield](https://pl.wikipedia.org/wiki/Zagroda_minowa) that Russian destroyers had laid there only the day before. The mistake is understandable, since in the autumn British submarines operating from Russian bases had sunk two German cruisers in the Baltic: [*Prinz Adalbert*](/zatopienie-krazownika-prinz-adalbert) off Libau and [*Undine*](/zatopienie-krazownika-undine) off the coast of Rügen.
 
 ## An old cruiser in the eastern Baltic
 

@@ -2,7 +2,7 @@
 title: Greece rejects the offer of Entente troops
 summary: On 28 September 1915 Athens thanked London for its offer of troops, deeming them unnecessary for now. A day later the Greeks asked for this reply to be ignored.
 source: grecja-odrzuca-oferte-wojsk-ententy
-sourceHash: 419bb43ca5c213cf973353f18fdf744747bb7035
+sourceHash: 9266dddfea2d48a3f293781bfa5f45c176b1b1f7
 ---
 
 On 28 September 1915 the British Foreign Office received from Athens a reply which the British official naval historian Julian Corbett called "staggering". The government of [Greece](/kraje/grecja) thanked it warmly for the offer to send troops to [Salonika](/miejsca/saloniki), but considered that there was at present no need to make use of it. It cited the declarations of the governments of Bulgaria and Serbia. The Bulgarians gave assurances that their mobilisation meant only armed neutrality, and the Serbs that they did not intend to attack first. Only the day before, Prime Minister [Eleftherios Venizelos](/postacie/elefterios-wenizelos) had reported that [the King had agreed to the arrival of the troops](/konstantyn-godzi-sie-na-ekspedycje-do-salonik), and had asked for them to come as quickly as possible.
@@ -17,7 +17,7 @@ It is not known exactly who drafted the reply of 28 September or in what circums
 
 On the same day the Foreign Secretary, Sir [Edward Grey](/postacie/edward-grey), answered a question in the House of Commons about Bulgaria's intentions. He said that according to Sofia's official assurances Bulgaria had adopted an attitude of armed neutrality and had no hostile intentions towards its neighbours. In Britain, he said, there was no hostility to Bulgaria, but "traditionally a warm feeling of sympathy" for its people. As long as the Bulgarians did not side with the enemy, there was no question of British forces being used against their interests. If, however, their mobilisation proved to be a prelude to aggression, Britain would give its friends in the Balkans all the support in its power "without reserve". The aim of British policy was an agreement among the Balkan states in which the "legitimate aspirations" of each of them would be satisfied.
 
-In Athens Grey's words, arriving in shortened and distorted reports, caused a storm. For months the Greeks had feared that the Entente would buy Bulgaria at their expense by handing it [Kavala](https://pl.wikipedia.org/wiki/Kawala). Now they began to suspect that the Entente troops were to occupy Macedonia and hand it over to the Bulgarians.
+In Athens Grey's words, arriving in shortened and distorted reports, caused a storm. For months the Greeks had feared that the Entente would buy Bulgaria at their expense by handing it [Kavala](/miejsca/kawala). Now they began to suspect that the Entente troops were to occupy Macedonia and hand it over to the Bulgarians.
 
 ## The refusal withdrawn
 

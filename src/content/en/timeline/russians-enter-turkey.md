@@ -2,10 +2,10 @@
 title: Russians enter Turkey
 summary: In early November 1914 Russian troops crossed the Turkish border in the Caucasus. By 4 November they had reached Azap, about 25 km inside Turkey.
 source: rosjanie-wkraczaja-do-turcji
-sourceHash: 6e92ef66dde25bf10d5ae1df4b1f9014ee0b5f7e
+sourceHash: 885f14ceccc46a05d3b30a2a33e8192601f7c24d
 ---
 
-The British chronology of the war records under 4 November 1914 that Russian troops crossed the Turkish border in Armenia and occupied Azap. In fact they had crossed the border a few days earlier, on the night of 1–2 November, immediately after [Russia declared war on Turkey](/rosja-wypowiada-wojne-turcji). 4 November was the day on which the Russians reached the objective of the first stage of operations: the heights around the village of Azap, on the road from [Sarikamish](https://pl.wikipedia.org/wiki/Sarıkamış) to [Erzurum](https://pl.wikipedia.org/wiki/Erzurum).
+The British chronology of the war records under 4 November 1914 that Russian troops crossed the Turkish border in Armenia and occupied Azap. In fact they had crossed the border a few days earlier, on the night of 1–2 November, immediately after [Russia declared war on Turkey](/rosja-wypowiada-wojne-turcji). 4 November was the day on which the Russians reached the objective of the first stage of operations: the heights around the village of Azap, on the road from [Sarikamish](https://pl.wikipedia.org/wiki/Sarıkamış) to [Erzurum](/miejsca/erzurum).
 
 The advance to the border was made by the Sarikamish detachment, built around General Georgy Bergmann's I Caucasian Army Corps. The main body moved along the valley of the [Aras](https://pl.wikipedia.org/wiki/Araks) towards Köprüköy, a brigade on the right wing headed north, and the Cossacks south, into the Eleşkirt valley. Further south still, the Erivan detachment, supported by Armenian volunteers, marched on [Doğubayazıt](https://pl.wikipedia.org/wiki/Doğubayazıt) at the foot of Ararat.
 

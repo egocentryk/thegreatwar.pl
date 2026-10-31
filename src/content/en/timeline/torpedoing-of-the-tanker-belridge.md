@@ -2,10 +2,10 @@
 title: Torpedoing of the tanker Belridge
 summary: On 19 February 1915 a German submarine torpedoed the Norwegian tanker Belridge in the Strait of Dover. The damaged ship managed to reach port.
 source: storpedowanie-belridge
-sourceHash: bc115f8f427eb29501ed847c58421ea417649252
+sourceHash: a25fd81d467e93072bbe7423ecc9a6852f8c97cd
 ---
 
-On 19 February 1915, in the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska), a dozen or so kilometres south of [Folkestone](https://pl.wikipedia.org/wiki/Folkestone), an explosion shook the Norwegian [tanker](https://pl.wikipedia.org/wiki/Zbiornikowiec) *Belridge*. The ship did not sink and reached port. She was the first neutral ship attacked by a U-boat after the German war zone around the British Isles [came into force](/poczatek-niemieckiej-blokady-podwodnej) the day before.
+On 19 February 1915, in the [Strait of Dover](/miejsca/ciesnina-kaletanska), a dozen or so kilometres south of [Folkestone](https://pl.wikipedia.org/wiki/Folkestone), an explosion shook the Norwegian [tanker](https://pl.wikipedia.org/wiki/Zbiornikowiec) *Belridge*. The ship did not sink and reached port. She was the first neutral ship attacked by a U-boat after the German war zone around the British Isles [came into force](/poczatek-niemieckiej-blokady-podwodnej) the day before.
 
 ## Oil for Amsterdam
 

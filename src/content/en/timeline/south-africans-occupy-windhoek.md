@@ -2,10 +2,10 @@
 title: South Africans occupy Windhoek
 summary: On 12 May 1915 Botha rode into Windhoek, surrendered without a fight by the town authorities. The capital of German South West Africa passed to the Union.
 source: poludniowoafrykanczycy-zajmuja-windhuk
-sourceHash: cbf784c3b1cff3fa60a04985be7e4e84392f981b
+sourceHash: 82246e9d5790206cd1b5f93497ab42b80f9e349e
 ---
 
-The British chronology of the war records under 13 May 1915 the occupation of [Windhoek](https://pl.wikipedia.org/wiki/Windhuk), the capital of [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia), by the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The South African official history and participants' accounts date the event a day earlier: on 12 May the town was handed over without a fight to the Union's Prime Minister and Commander-in-Chief, General [Louis Botha](/postacie/louis-botha). Some studies even give 5 May, but on that day Botha took Karibib, not the capital.
+The British chronology of the war records under 13 May 1915 the occupation of [Windhoek](https://pl.wikipedia.org/wiki/Windhuk), the capital of [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia), by the troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki). The South African official history and participants' accounts date the event a day earlier: on 12 May the town was handed over without a fight to the Union's Prime Minister and Commander-in-Chief, General [Louis Botha](/postacie/louis-botha). Some studies even give 5 May, but on that day Botha took Karibib, not the capital.
 
 ## The march on Karibib
 

@@ -2,10 +2,10 @@
 title: Germans take Brest-Litovsk
 summary: On 25 August 1915 Austro-Hungarian and German troops broke through the ring of forts at Brest-Litovsk. That night the Russians gave up the burning fortress.
 source: niemcy-zdobywaja-brzesc-litewski
-sourceHash: fc85c1290a6cb40533217f51e577f5e69e679fe4
+sourceHash: f4f305a07badd356caf720576a1370587ded62f0
 ---
 
-On 25 August 1915 the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group broke through the ring of forts of [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć), the largest Russian fortress on the [Bug](https://pl.wikipedia.org/wiki/Bug). During the night the Russians, who were preparing to leave in any case, abandoned the fortress, blowing up the fortifications and setting the town on fire. On the morning of 26 August the victors entered the citadel. That day the German war communiqué announced briefly: "The fortress of Brest-Litovsk has fallen." Although the British chronology credits its capture to the Germans, the Austro-Hungarians played the decisive role in the assault.
+On 25 August 1915 the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group broke through the ring of forts of [Brest-Litovsk](/miejsca/brzesc), the largest Russian fortress on the [Bug](https://pl.wikipedia.org/wiki/Bug). During the night the Russians, who were preparing to leave in any case, abandoned the fortress, blowing up the fortifications and setting the town on fire. On the morning of 26 August the victors entered the citadel. That day the German war communiqué announced briefly: "The fortress of Brest-Litovsk has fallen." Although the British chronology credits its capture to the Germans, the Austro-Hungarians played the decisive role in the assault.
 
 ## A fortress that was not defended
 

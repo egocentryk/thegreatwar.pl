@@ -1,0 +1,231 @@
+{
+ "slug": "peronne",
+ "paragraphs": [
+  {
+   "start": "Péronne, małe miasto warowne nad Sommą w Pikardii",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "24 września 1914 roku wojska niemieckie zajęły Péronne, małe miasto nad Sommą w Pikardii, ważne ze względu na przeprawy przez rzekę."
+    },
+    {
+     "file": "src/content/timeline/1918/09/australijczycy-zajmuja-peronne.md",
+     "quote": "Rzeka i jej bagniste rozlewiska miały osłaniać Niemców od zachodu"
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "Front zatrzymał się kilkanaście kilometrów na zachód od miasta, a Péronne na długo stało się niemieckim zapleczem, zamienionym w umocniony punkt oporu. W czasie bitwy nad Sommą w 1916 roku zostało ciężko zniszczone ostrzałem. Niemcy opuścili je w marcu 1917 roku, cofając się na Linię Hindenburga. Wrócili wiosną 1918 roku, a ostatecznie wyparli ich Australijczycy, którzy na przełomie sierpnia i września 1918 roku zdobyli wzgórze Mont Saint-Quentin nad miastem i samo Péronne."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "Nie zdobyli Bapaume ani Péronne, które miały być celem pierwszych dni ofensywy."
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md",
+     "quote": "starego miasta warownego nad Sommą"
+    }
+   ]
+  },
+  {
+   "start": "Mieszkańcy wiedzieli, co się zbliża.",
+   "quotes": [
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "By the end of August, the people of Péronne including councillors and the civil servants are fleeing by road or by train."
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "On August 28th, around 17:30, German infantrymen charge the streets, fire, and cause the first civilian casualties. For 18 days, the conquered city experiences plundering and fires. On September 15th 1914, the Germans retreat after the success of the Battle of the Marne."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "Niemcy weszli do Péronne już 28 sierpnia, w czasie marszu na Paryż, a opuścili je po bitwie nad Marną, w połowie września."
+    }
+   ]
+  },
+  {
+   "start": "Wrócili po kilku dniach, w czasie wyścigu do morza",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1914/09/francuzi-odzyskuja-noyon.md",
+     "quote": "Tymczasem na lewym skrzydle Francuzów zbierała się nowa 2 Armia generała Noëla de Castelnau, która 20 września rozpoczęła natarcie w kierunku Noyon i Péronne."
+    },
+    {
+     "file": "src/content/timeline/1914/09/koniec-bitwy-w-pikardii.md",
+     "quote": "Na pole bitwy docierały kolejne niemieckie korpusy, przerzucane z frontu nad Aisne i spod Reims."
+    },
+    {
+     "url": "https://www.ww1cemeteries.com/peronne-communal-cemetery-extension.html",
+     "quote": "Péronne was taken by the German on 24 September 1914."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "Francuskie opracowania podają, że wrócili 23 września. Brytyjska chronologia notuje zajęcie miasta dzień później."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "Bawarczycy dotarli pod Péronne 24 września, a w następnych dniach przeprawili się przez rzekę i nacierali na zachód, w stronę Albert. Front zatrzymał się kilkanaście kilometrów na zachód od miasta"
+    }
+   ]
+  },
+  {
+   "start": "Péronne stało się zapleczem niemieckiego frontu.",
+   "quotes": [
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "At the town hall, the clock is set on German time, and the Reich flag flaps upon the balcony. Appointed by the kommandantur, a local board represents the French authorities. On the lives of its members, it is responsible for public order. Péronne goes on living and its population almost returns to its pre war numbers thanks to the forced arrival of inhabitants from nearby villages along the front battle line."
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "Péronne, now occupied by 7 000 German soldiers, has to feed 3 500 civilians."
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "A Spanish and American food provision operation relieves the civilians from the harsh summer of 1915."
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "The occupying forces rob the city by imposing huge taxes. They seize all its valuables. The people of Péronne have to create a new currency to keep on trading."
+    }
+   ]
+  },
+  {
+   "start": "W 1916 roku Péronne, obok Bapaume, miało zostać",
+   "quotes": [
+    {
+     "file": "src/content/battles/1916/bitwa-nad-somma.md",
+     "quote": "Za tę cenę alianci posunęli się w najdalszym miejscu o około dziesięciu kilometrów. Nie zdobyli Bapaume ani Péronne, które miały być celem pierwszych dni ofensywy."
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "From June 24th 1916 Péronne is heavily shelled. Hundreds of inhabitants hide terrified in their cellars, hoping in vain for liberation. On July 22th 1916 the last citizens of Péronne are deported to the North and the « Aisne »."
+    },
+    {
+     "file": "src/content/battles/1916/bitwa-pod-albert-1916.md",
+     "quote": "9 lipca Kolonialni przełamali drugą pozycję niemiecką i zajęli Biaches pod samym Péronne, ale pod Barleux zostali odparci."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "W czasie bitwy nad Sommą w 1916 roku zostało ciężko zniszczone ostrzałem."
+    }
+   ]
+  },
+  {
+   "start": "W marcu 1917 roku Niemcy odeszli na Linię Hindenburga",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1917/03/zajecie-peronne-i-noyon.md",
+     "quote": "18 marca 1917 roku sprzymierzeni zajęli dwa miasta, które od jesieni 1914 roku leżały tuż za niemieckim frontem. Na północy brytyjska 48 Dywizja weszła do Péronne nad Sommą"
+    },
+    {
+     "file": "src/content/timeline/1917/03/zajecie-peronne-i-noyon.md",
+     "quote": "W bardzo ciemną i mroźną noc z 16 na 17 marca przeholowali po kanale sześć pontonów, piłując zatopione pnie i rozbijając lód grubości prawie czterech centymetrów"
+    },
+    {
+     "file": "src/content/timeline/1917/03/zajecie-peronne-i-noyon.md",
+     "quote": "wojska 48 Dywizji weszły do Péronne 18 marca o 7.00 rano i zajęły wzgórze Mont-Saint-Quentin na północ od miasta."
+    },
+    {
+     "file": "src/content/timeline/1917/03/zajecie-peronne-i-noyon.md",
+     "quote": "Brytyjska historia oficjalna opisuje Péronne, „niegdyś piękne miasteczko”, jako żałosny widok: fasady prawie wszystkich starych domów były wysadzone. Niemcy zostawili na jednym z budynków tablicę z napisem „Nicht ärgern, nur wundern!” („Nie złośćcie się, tylko się dziwcie!”)"
+    }
+   ]
+  },
+  {
+   "start": "Brytyjczycy utrzymali Péronne tylko przez rok.",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/operacja-michael.md",
+     "quote": "Przeciwko brytyjskiej 5 Armii generała Huberta Gougha"
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md",
+     "quote": "Péronne brytyjska 5 Armia opuściła już po południu 23 marca, a Bapaume 3 Armia oddała bez walki późnym wieczorem 24 marca."
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md",
+     "quote": "Péronne zostało opuszczone w pośpiechu, ale w porządku. 23 marca przez miasto, które tworzyło długi na ponad 2 kilometry przesmyk, przechodziły tłumy uchodźców, tabory i kolumny sanitarne ewakuujące szpitale i punkty opatrunkowe. Brytyjska historia oficjalna chwali organizację ruchu, ale wiele magazynów, nawet kantyny armii, trzeba było podpalić."
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md",
+     "quote": "24 marca 1918 roku, w Niedzielę Palmową, minął czwarty dzień niemieckiej operacji Michael. Mgła znów zalegała w dolinach do 9–10 rano. Brytyjska chronologia wojny zapisuje pod tą datą, że wojska niemieckie zajęły Bapaume i Péronne."
+    },
+    {
+     "file": "src/content/timeline/1918/03/niemcy-zdobywaja-bapaume-i-peronne.md",
+     "quote": "batalion niemiecki, który nocą zbudował kładkę obok zniszczonego mostu drogowego na południe od miasta, przeszedł rzekę żołnierz po żołnierzu"
+    }
+   ]
+  },
+  {
+   "start": "Pod koniec sierpnia, w ofensywie stu dni",
+   "quotes": [
+    {
+     "file": "src/content/battles/1918/druga-bitwa-pod-bapaume-1918.md",
+     "quote": "Niemcy stanęli wtedy na nowej linii: wzdłuż Sommy do Péronne, a dalej na północ przez wzgórza pod Mont Saint-Quentin, Morval, Le Transloy i Frémicourt. Liczyli, że utrzymają ją, a także leżącą dalej na północ linię Drocourt–Quéant, przez zimę."
+    },
+    {
+     "url": "https://www.awm.gov.au/visit/exhibitions/1918/battles/mtstquentin",
+     "quote": "Mont St Quentin stood out in the surrounding country, making it a perfect observation point"
+    },
+    {
+     "file": "src/content/timeline/1918/08/poczatek-drugiej-bitwy-pod-bapaume.md",
+     "quote": "Zamiast forsować Sommę pod samym Péronne, gdzie przeprawy blokowały rozlewiska i karabiny maszynowe, chciał przeprawić się kilka kilometrów dalej na zachód, pod Cléry, i zdobyć Mont Saint-Quentin od północnego zachodu."
+    },
+    {
+     "file": "src/content/timeline/1918/09/australijczycy-zajmuja-peronne.md",
+     "quote": "Dzień wcześniej australijska 5 Brygada zaatakowała wzgórze Mont Saint-Quentin, panujące nad miastem od północy, ale niemiecki kontratak zepchnął ją ze szczytu."
+    },
+    {
+     "file": "src/content/timeline/1918/09/australijczycy-zajmuja-peronne.md",
+     "quote": "Okazało się jednak, że fosę da się przejść po deskach i gruzach zburzonego mostu. 54 Batalion przeszedł na drugą stronę i o 8.40 był już w środku miasta."
+    },
+    {
+     "file": "src/content/timeline/1918/09/australijczycy-zajmuja-peronne.md",
+     "quote": "1 września 1918 roku Korpus Australijski generała Johna Monasha zdobył Péronne"
+    },
+    {
+     "file": "src/content/timeline/1918/08/poczatek-drugiej-bitwy-pod-bapaume.md",
+     "quote": "31 sierpnia 1918 roku o 5 rano niewielka australijska brygada uderzyła na Mont Saint-Quentin"
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "On September 2nd 1918 the Australian troops from the 2nd, 3rd and 5th divisions take Mont-Saint-Quentin and Péronne recovers its freedom."
+    }
+   ]
+  },
+  {
+   "start": "Za te walki Australijczycy dostali osiem",
+   "quotes": [
+    {
+     "file": "src/content/timeline/1918/09/australijczycy-zajmuja-peronne.md",
+     "quote": "Walki o Mont Saint-Quentin i Péronne przyniosły Australijczykom osiem Krzyży Wiktorii"
+    },
+    {
+     "file": "src/content/timeline/1918/09/australijczycy-zajmuja-peronne.md",
+     "quote": "Według australijskiej historii oficjalnej Charlesa Beana w ciągu trzech dni walk, od 31 sierpnia do 2 września, Australijczycy wzięli około 2600 jeńców, tracąc nieco ponad 3 tysiące ludzi. Monash pisał, że dowódca 4 Armii, generał Henry Rawlinson, nieraz nazywał tę operację najlepszym pojedynczym wyczynem wojennym tej wojny."
+    },
+    {
+     "file": "src/content/battles/1918/druga-bitwa-pod-bapaume-1918.md",
+     "quote": "Razem z przełamaniem linii Drocourt–Quéant zmusiło to Niemców do odwrotu za Canal du Nord, ku Linii Hindenburga."
+    }
+   ]
+  },
+  {
+   "start": "Zrujnowane miasto odbudowano",
+   "quotes": [
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "Identical reconstruction (or almost exactly as it was before),"
+    },
+    {
+     "url": "https://historial.fr/wp-content/uploads/2024/10/Tour-Reconstruction-of-the-city-of-Peronne-Teachers-handbook.pdf",
+     "quote": "medieval castle of Péronne dating back from the early 13th century."
+    },
+    {
+     "file": "src/content/timeline/1914/09/niemcy-zajmuja-peronne.md",
+     "quote": "Dziś w tutejszym zamku działa jedno z najważniejszych muzeów I wojny światowej, Historial de la Grande Guerre."
+    }
+   ]
+  }
+ ]
+}

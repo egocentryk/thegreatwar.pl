@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-26 sierpnia 1914 roku na wschód od [Lwowa](https://pl.wikipedia.org/wiki/Lwów), nad rzeką [Złotą Lipą](https://pl.wikipedia.org/wiki/Złota_Lipa), rozpoczęła się bitwa między austro-węgierską [3 Armią](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) generała Rudolfa von Brudermanna a rosyjskimi armiami generałów [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski) i [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow). Była to część wielkiej [bitwy galicyjskiej](/bitwy/bitwa-galicyjska). W literaturze anglojęzycznej te walki nazywa się często pierwszą bitwą pod Lwowem (Lemberg) albo bitwą nad Gniłą Lipą.
+26 sierpnia 1914 roku na wschód od [Lwowa](/miejsca/lwow), nad rzeką [Złotą Lipą](https://pl.wikipedia.org/wiki/Złota_Lipa), rozpoczęła się bitwa między austro-węgierską [3 Armią](https://pl.wikipedia.org/wiki/3_Armia_(austro-węgierska)) generała Rudolfa von Brudermanna a rosyjskimi armiami generałów [Nikołaja Ruzskiego](/postacie/nikolaj-ruzski) i [Aleksieja Brusiłowa](/postacie/aleksiej-brusilow). Była to część wielkiej [bitwy galicyjskiej](/bitwy/bitwa-galicyjska). W literaturze anglojęzycznej te walki nazywa się często pierwszą bitwą pod Lwowem (Lemberg) albo bitwą nad Gniłą Lipą.
 
 ## Słabe prawe skrzydło
 

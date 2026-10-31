@@ -2,10 +2,10 @@
 title: Fighting at Beit Aiessa
 summary: On 17 April 1916 the British took the Turkish position of Beit Aiessa on the Tigris. They beat off a big night counter-attack but lost 1,600 men and stalled.
 source: walki-pod-bajt-isa
-sourceHash: 571c8197dc00dab9771d574baeaeffd5f9ea374c
+sourceHash: 4403d04b435c6f286ed7780a54ea4bbaaaa50b2a
 ---
 
-On the morning of 18 April 1916, after a night of fighting, the last Turkish waves fell back from the British trenches at Beit Aiessa, on the right bank of the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)), less than 20 kilometres from besieged [Kut](https://pl.wikipedia.org/wiki/Al-Kut). The day before, General Henry Keary's British-Indian 3rd Division had taken the position in a swift attack. In the evening the Turks struck it harder than ever before in this campaign. The British beat off the counter-attack, but lost part of the ground they had gained and about 1,600 men, and their advance along the right bank towards Kut came to a standstill.
+On the morning of 18 April 1916, after a night of fighting, the last Turkish waves fell back from the British trenches at Beit Aiessa, on the right bank of the [Tigris](/miejsca/tygrys), less than 20 kilometres from besieged [Kut](/miejsca/al-kut). The day before, General Henry Keary's British-Indian 3rd Division had taken the position in a swift attack. In the evening the Turks struck it harder than ever before in this campaign. The British beat off the counter-attack, but lost part of the ground they had gained and about 1,600 men, and their advance along the right bank towards Kut came to a standstill.
 
 After two failed attacks on Sannaiyat, the last on [9 April](/drugi-atak-na-sannajjat), the command of the Tigris Corps shifted its effort to the right bank. General George Gorringe wanted to break through the Es Sinn position, the same one against which the [attempt to take the Dujaila Redoubt](/bitwy/bitwa-pod-dudzajla) had foundered in March. First, however, Beit Aiessa had to be taken, from where the Turks, cutting the river embankments, were flooding the ground in front. From 12 April the 3rd Division advanced, often knee-deep in water, through downpours and gales that time and again broke the dykes and flooded the trenches. By 16 April it had driven the Turks from their advanced posts and stood a few hundred metres in front of the main line.
 

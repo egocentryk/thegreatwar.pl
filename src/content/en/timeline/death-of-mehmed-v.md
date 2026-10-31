@@ -2,10 +2,10 @@
 title: Death of Mehmed V
 summary: On 3 July 1918 Sultan Mehmed V died in Constantinople. His brother Vahdettin succeeded him as Mehmed VI, the last sultan of the Ottoman Empire.
 source: smierc-mehmeda-v
-sourceHash: 5e7ca3f90aba445936514d389356a74a91f2a949
+sourceHash: 9e527632f6ed0eefd1056ebca7daee2f2b83b8c3
 ---
 
-On 3 July 1918 Sultan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V), ruler of the [Ottoman Empire](/kraje/imperium-osmanskie) and also [caliph](https://pl.wikipedia.org/wiki/Kalif), died in the Yıldız Palace in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol). He was 73, and Turkish sources give heart failure as the cause of death. He had reigned since April 1909. In the Ottoman calendar, which since 1917 had counted days and months in the same way as the Gregorian calendar, it was 3 July 1334. He was succeeded by his younger half-brother, the 57-year-old heir to the throne Mehmed Vahdettin, who took the name [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI).
+On 3 July 1918 Sultan [Mehmed V](https://pl.wikipedia.org/wiki/Mehmed_V), ruler of the [Ottoman Empire](/kraje/imperium-osmanskie) and also [caliph](https://pl.wikipedia.org/wiki/Kalif), died in the Yıldız Palace in [Constantinople](/miejsca/konstantynopol). He was 73, and Turkish sources give heart failure as the cause of death. He had reigned since April 1909. In the Ottoman calendar, which since 1917 had counted days and months in the same way as the Gregorian calendar, it was 3 July 1334. He was succeeded by his younger half-brother, the 57-year-old heir to the throne Mehmed Vahdettin, who took the name [Mehmed VI](https://pl.wikipedia.org/wiki/Mehmed_VI).
 
 ## A sultan without power
 

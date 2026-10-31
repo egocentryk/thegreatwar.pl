@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-27 września 1914 roku niemieckie władze poddały [Dualę](https://pl.wikipedia.org/wiki/Duala_(miasto)), główny port i największe miasto [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki), wraz z leżącym po drugiej stronie rzeki Bonaberi. Miasto zajęły wojska brytyjsko-francuskie pod dowództwem generała Charlesa Dobella. Brytyjska chronologia wojny notuje to wydarzenie pod datą 26–27 września, bo dzień wcześniej okręty ostrzelały miasto, a kapitulacja nastąpiła następnego dnia.
+27 września 1914 roku niemieckie władze poddały [Dualę](https://pl.wikipedia.org/wiki/Duala_(miasto)), główny port i największe miasto [Kamerunu Niemieckiego](/miejsca/kamerun), wraz z leżącym po drugiej stronie rzeki Bonaberi. Miasto zajęły wojska brytyjsko-francuskie pod dowództwem generała Charlesa Dobella. Brytyjska chronologia wojny notuje to wydarzenie pod datą 26–27 września, bo dzień wcześniej okręty ostrzelały miasto, a kapitulacja nastąpiła następnego dnia.
 
 ## Droga do Duali
 

@@ -2,10 +2,10 @@
 title: First advance on Jaunde
 summary: In April 1915 Col. Mayer's columns set out from Edea towards Jaunde, the capital of German Kamerun. On 14 April they fought their way across the Kele river.
 source: pierwszy-marsz-na-jaunde
-sourceHash: a9171bb923ecc9f3db9df3bba1c9e698dfe995c9
+sourceHash: a12bc8c7411b0d0a180cec4169a1236cd9e76af9
 ---
 
-The British chronology of the war records under 12 April 1915 the start of the first Allied advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), a town in the interior of [German Kamerun](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki) to which the German colonial authorities had moved after the loss of Duala. According to the British official history of the campaign, a French and a British column left [Edea](https://pl.wikipedia.org/wiki/Edéa) on 10 and 11 April, and on 14 April they fought their way across the Kele river. The real advance on Jaunde, however, was postponed until 1 May.
+The British chronology of the war records under 12 April 1915 the start of the first Allied advance on [Jaunde](https://pl.wikipedia.org/wiki/Jaunde), a town in the interior of [German Kamerun](/miejsca/kamerun) to which the German colonial authorities had moved after the loss of Duala. According to the British official history of the campaign, a French and a British column left [Edea](https://pl.wikipedia.org/wiki/Edéa) on 10 and 11 April, and on 14 April they fought their way across the Kele river. The real advance on Jaunde, however, was postponed until 1 May.
 
 ## A plan from Brazzaville
 

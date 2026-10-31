@@ -22,7 +22,7 @@ Szczerbaczow dowodził 7 Armią od października 1915 roku i prowadził ją już
 
 ## Bothmer przejmuje obronę
 
-Dowództwo austro-węgierskie obawiało się, że między 7 Armią a Armią Południową powstanie wyrwa. Pflanzer-Baltin, który na wieść o klęsce myślał o odwrocie za [Dniestr](https://pl.wikipedia.org/wiki/Dniestr) aż nad Prut, dostał wyraźny zakaz. W południe 10 czerwca VI Korpus podporządkowano Bothmerowi. Bawarski generał nakazał mu utrzymać pozycje za wszelką cenę, a ze swoich skromnych odwodów pod [Podhajcami](https://pl.wikipedia.org/wiki/Podhajce) zebrał trzy pułki i trzy baterie pod dowództwem generała porucznika von Oppeln-Bronikowskiego, dowódcy niemieckiej 48 Dywizji Rezerwowej.
+Dowództwo austro-węgierskie obawiało się, że między 7 Armią a Armią Południową powstanie wyrwa. Pflanzer-Baltin, który na wieść o klęsce myślał o odwrocie za [Dniestr](/miejsca/dniestr) aż nad Prut, dostał wyraźny zakaz. W południe 10 czerwca VI Korpus podporządkowano Bothmerowi. Bawarski generał nakazał mu utrzymać pozycje za wszelką cenę, a ze swoich skromnych odwodów pod [Podhajcami](https://pl.wikipedia.org/wiki/Podhajce) zebrał trzy pułki i trzy baterie pod dowództwem generała porucznika von Oppeln-Bronikowskiego, dowódcy niemieckiej 48 Dywizji Rezerwowej.
 
 Szczerbaczow uznał tymczasem, że jego wyczerpany II Korpus nie da rady atakować dalej nad potokiem Barysz. Ciężar natarcia przeniósł na północ. 11 czerwca XVI Korpus miał przejść Strypę i zepchnąć przeciwnika na zachód, a XXII Korpus miał się do niego przyłączyć. Rosyjska kawaleria czekała, by przez wyłom pójść na Podhajce.
 

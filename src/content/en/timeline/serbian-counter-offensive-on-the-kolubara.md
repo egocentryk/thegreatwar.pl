@@ -2,7 +2,7 @@
 title: Serbian counter-offensive on the Kolubara
 summary: On 3 December 1914 the Serbian army unexpectedly struck Potiorek's forces. The heaviest blow, by Mišić's First Army, fell on the Austro-Hungarian XVI Corps.
 source: serbska-kontrofensywa-nad-kolubara
-sourceHash: 309b7716cd40f6a6456f90aa57cc145ceafc8e9f
+sourceHash: 900e90fa0134b4fd1056881492f71e906991e101
 ---
 
 On 3 December 1914 the Serbian army went over to a counter-offensive against the Austro-Hungarian forces, which since the beginning of November had been pushing it back into the interior of the country. A British chronology of the war records the start of the Battle of the Kolubara under this date. Following Polish and Serbian historiography, we take it that the battle had been going on since mid-November, when the Austro-Hungarians reached the [Kolubara](https://pl.wikipedia.org/wiki/Kolubara) river, and that its decisive phase began on 3 December. Some studies, including the English Wikipedia, date the start of the counter-offensive to 2 December. On that day, however, [the orders were issued](/austriacy-zajmuja-belgrad), and the attack itself began the following morning.
@@ -25,6 +25,6 @@ The Second Army of Vojvoda [Stepa Stepanović](/postacie/stepa-stepanovic) tried
 
 ## Celebration in Belgrade
 
-Meanwhile, in [Belgrade](https://pl.wikipedia.org/wiki/Belgrad), taken the previous day, the troops of the Fifth Army made a ceremonial entry, and according to Serbian sources there was also a victory parade. The telegram of homage to the Emperor caused rejoicing throughout the monarchy. The delegations of the army and the Danube Flotilla that took part in the ceremony were granted a day of rest in the city.
+Meanwhile, in [Belgrade](/miejsca/belgrad), taken the previous day, the troops of the Fifth Army made a ceremonial entry, and according to Serbian sources there was also a victory parade. The telegram of homage to the Emperor caused rejoicing throughout the monarchy. The delegations of the army and the Danube Flotilla that took part in the ceremony were granted a day of rest in the city.
 
 In the evening General [Oskar Potiorek](/postacie/oskar-potiorek)'s headquarters concluded that the Serbs had carried out only a local sortie against XVI Corps, combined with feint attacks elsewhere. The enemy's activity nevertheless prompted Potiorek to bring forward his own plans: the Fifth Army was to take up its positions for the attack as early as the evening of 4 December, not a day later. At 7.45 p.m. the message reached General Liborius von Frank. The promised day of rest in Belgrade was cancelled.

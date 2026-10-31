@@ -11,7 +11,7 @@ sides:
     commanders: ["Rupprecht, Crown Prince of Bavaria", Maximilian von Laffert]
 result: Inconclusive. The British recovered Bailleul and Armentières but did not reach Lille. After German counter-attacks the front settled east of Armentières.
 source: bitwa-pod-armentieres
-sourceHash: 22bbc02b2f09ba4d7f2661b4a3564f63e198ea88
+sourceHash: c26104467ba728d5326a23c001818d6f034687fb
 brief:
   - "The Battle of Armentières was fought from 13 October to 2 November 1914 in French Flanders, in the valley of the Lys. It was fought mainly by the British III Corps of General William Pulteney."
   - "The British Expeditionary Force was moving north from the Aisne. Together with Allenby's cavalry, III Corps was to advance east, north of Lille, and outflank the German wing."
@@ -20,7 +20,7 @@ brief:
   - "The British did not recover Lille, but they stopped the Germans on the Lys line and held Armentières. The line that settled then survived almost unchanged until the spring of 1918."
 ---
 
-The Battle of Armentières was fought from 13 October to 2 November 1914 in French Flanders, in the valley of the river [Lys](https://pl.wikipedia.org/wiki/Leie). It was fought mainly by the British III Corps of General William Pulteney. In the first week the British went over to the attack, took Meteren, entered [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), crossed the Lys and occupied [Armentières](https://pl.wikipedia.org/wiki/Armentières). They could not, however, reach Lille. From 20 October superior German forces compelled them to go on the defensive, and until the end of the battle III Corps beat off successive attacks east of the town. The line that settled here at that time survived almost unchanged until the spring of 1918.
+The Battle of Armentières was fought from 13 October to 2 November 1914 in French Flanders, in the valley of the river [Lys](/miejsca/leie). It was fought mainly by the British III Corps of General William Pulteney. In the first week the British went over to the attack, took Meteren, entered [Bailleul](https://pl.wikipedia.org/wiki/Bailleul_(Nord)), crossed the Lys and occupied [Armentières](https://pl.wikipedia.org/wiki/Armentières). They could not, however, reach Lille. From 20 October superior German forces compelled them to go on the defensive, and until the end of the battle III Corps beat off successive attacks east of the town. The line that settled here at that time survived almost unchanged until the spring of 1918.
 
 ## Name and dates
 
@@ -28,7 +28,7 @@ The name and dates of the battle were fixed after the war by the British Battles
 
 ## Background
 
-At the beginning of October the British Expeditionary Force [left the Aisne front](/bef-opuszcza-aisne) and moved north, to the left flank of the French armies. III Corps, made up of the 4th and 6th Divisions, detrained at [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) on 10 and 11 October. From there, partly in French buses, it moved on 12 October to [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck), which [German cavalry had reached](/niemcy-zajmuja-armentieres-i-hazebrouck) a few days earlier. Together with Allenby's cavalry the British were to advance east, north of Lille, and outflank the German wing.
+At the beginning of October the British Expeditionary Force [left the Aisne front](/bef-opuszcza-aisne) and moved north, to the left flank of the French armies. III Corps, made up of the 4th and 6th Divisions, detrained at [Saint-Omer](https://pl.wikipedia.org/wiki/Saint-Omer_(Pas-de-Calais)) on 10 and 11 October. From there, partly in French buses, it moved on 12 October to [Hazebrouck](/miejsca/hazebrouck), which [German cavalry had reached](/niemcy-zajmuja-armentieres-i-hazebrouck) a few days earlier. Together with Allenby's cavalry the British were to advance east, north of Lille, and outflank the German wing.
 
 Facing them were the divisions of the German IV Cavalry Corps, reinforced with Jäger battalions and infantry. On the hills around Bailleul and Meteren they were to delay the Allied advance until the German infantry arrived. It was already close. On 12 October the Germans occupied Lille, and the Saxon XIX Corps of General Maximilian von Laffert and the Württemberg XIII Corps were approaching the area.
 

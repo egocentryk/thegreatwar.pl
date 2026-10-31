@@ -9,10 +9,10 @@ sides:
     commanders: [Paul von Lettow-Vorbeck, Kurt Wahle]
 result: German victory. The British lost about 2,700 men and fell back to Nyangao, but the Germans, who lost more than 500 men and most of their ammunition, had to leave the colony in November.
 source: bitwa-pod-mahiwa
-sourceHash: d08b5c18f190405e8cf17bf200bd41dd079c6d89
+sourceHash: fed69d0214c9401bb320ead6408dd8e88914901c
 ---
 
-The Battle of Mahiwa was the largest and bloodiest engagement of the campaign in [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). For four days, from 15 to 18 October 1917, British columns from [Lindi](https://pl.wikipedia.org/wiki/Lindi) and the Nigerian Brigade, which came up from the north, attacked the positions of General Kurt Wahle on the road from Lindi to Masasi. [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) himself came to Wahle's aid at the last moment with five companies. With about 1,500 men by his own reckoning, he beat off every attack, surrounded two Nigerian battalions for several days and inflicted on the enemy losses such as the British suffered in no other battle of this war in Africa. It was, however, a Pyrrhic victory. The Germans lost about a third of the men engaged, as well as most of their ammunition, and had nothing with which to make good these losses. Five weeks later Lettow-Vorbeck left the colony.
+The Battle of Mahiwa was the largest and bloodiest engagement of the campaign in [German East Africa](/bitwy/kampania-wschodnioafrykanska). For four days, from 15 to 18 October 1917, British columns from [Lindi](https://pl.wikipedia.org/wiki/Lindi) and the Nigerian Brigade, which came up from the north, attacked the positions of General Kurt Wahle on the road from Lindi to Masasi. [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) himself came to Wahle's aid at the last moment with five companies. With about 1,500 men by his own reckoning, he beat off every attack, surrounded two Nigerian battalions for several days and inflicted on the enemy losses such as the British suffered in no other battle of this war in Africa. It was, however, a Pyrrhic victory. The Germans lost about a third of the men engaged, as well as most of their ammunition, and had nothing with which to make good these losses. Five weeks later Lettow-Vorbeck left the colony.
 
 ## Name and dates
 

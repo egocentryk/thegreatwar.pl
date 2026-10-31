@@ -2,7 +2,7 @@
 title: Start of the Battle of the Matz
 summary: On 9 June 1918 the German Eighteenth Army struck between Montdidier and Noyon. The French knew the hour of attack, yet by evening lost 10 km in the centre.
 source: poczatek-bitwy-nad-matz
-sourceHash: b2f26b8d6c644baa82ab189903682ec96247bf30
+sourceHash: 7d6e26ad66cf5d0cdc62fdc73940e7c1f2a6e6e0
 brief:
   - "On 9 June 1918 General Oskar von Hutier's German Eighteenth Army attacked General Humbert's French Third Army on a front of more than 30 kilometres between Montdidier and Noyon. It was the fourth great offensive that spring, \"Gneisenau\"."
   - "The attack was meant to straighten the front between the Somme and Aisne salients and open the road to Compiègne. This time the preparations were open, and in the night of 8/9 June a deserter revealed the exact day and hour."
@@ -11,7 +11,7 @@ brief:
   - "This time the French front did not fall apart, and the troops fell back in good order. Fayolle gathered reserves for a counter-attack, which on 11 June was led by General Charles Mangin."
 ---
 
-On 9 June 1918 the German Eighteenth Army of General [Oskar von Hutier](/postacie/oskar-von-hutier) attacked the French Third Army of General Georges Humbert on a front of more than 30 kilometres between [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)) and [Noyon](https://pl.wikipedia.org/wiki/Noyon). The attack, code-named "Gneisenau", the fourth of the great German offensives that spring, was meant to straighten the front between two large salients driven into the Allied lines in March on the Somme and at the end of May on the Aisne, and to open the road to [Compiègne](https://pl.wikipedia.org/wiki/Compiègne). For the first time since March the French knew exactly when the Germans would strike, and yet the first day brought them another defeat. By evening the Germans had advanced about 10 kilometres in the centre, crossed the river Matz and taken more than 8,000 prisoners. This time, however, the French front did not fall apart.
+On 9 June 1918 the German Eighteenth Army of General [Oskar von Hutier](/postacie/oskar-von-hutier) attacked the French Third Army of General Georges Humbert on a front of more than 30 kilometres between [Montdidier](https://pl.wikipedia.org/wiki/Montdidier_(Somma)) and [Noyon](/miejsca/noyon). The attack, code-named "Gneisenau", the fourth of the great German offensives that spring, was meant to straighten the front between two large salients driven into the Allied lines in March on the Somme and at the end of May on the Aisne, and to open the road to [Compiègne](https://pl.wikipedia.org/wiki/Compiègne). For the first time since March the French knew exactly when the Germans would strike, and yet the first day brought them another defeat. By evening the Germans had advanced about 10 kilometres in the centre, crossed the river Matz and taken more than 8,000 prisoners. This time, however, the French front did not fall apart.
 
 ## Between the Somme and the Marne
 

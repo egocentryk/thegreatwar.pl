@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-9 grudnia 1914 roku wojska brytyjskie i indyjskie zajęły [Al-Kurnę](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) u zbiegu [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) i [Eufratu](https://pl.wikipedia.org/wiki/Eufrat). Turecki garnizon, odcięty dzień wcześniej przez [przeprawę Hindusów przez Tygrys](/koniec-walk-o-al-kurne), poddał się bez dalszej walki. Zgodę na bezwarunkową kapitulację tureccy parlamentariusze dali już w nocy, a rano trzeba było tylko dopełnić formalności.
+9 grudnia 1914 roku wojska brytyjskie i indyjskie zajęły [Al-Kurnę](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)) u zbiegu [Tygrysu](/miejsca/tygrys) i [Eufratu](/miejsca/eufrat). Turecki garnizon, odcięty dzień wcześniej przez [przeprawę Hindusów przez Tygrys](/koniec-walk-o-al-kurne), poddał się bez dalszej walki. Zgodę na bezwarunkową kapitulację tureccy parlamentariusze dali już w nocy, a rano trzeba było tylko dopełnić formalności.
 
 ## Kapitulacja
 

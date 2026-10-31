@@ -2,14 +2,14 @@
 title: German attack on Jasin
 summary: On 18 January 1915 nine of Lettow-Vorbeck's companies surrounded the British post at Jasin. A relief force from the camp on the Umba could not break through.
 source: niemiecki-atak-na-jasin
-sourceHash: affd23622bcdc4fd2eb44f299bcb3a50a3340382
+sourceHash: 88fc73cc212e5f2692bdafe3bc0451b6ac0af9f8
 ---
 
-At dawn on 18 January 1915 the German colonial troops of Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) attacked Jasin, a coconut and sisal plantation just across the border of [British East Africa](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia). The British had [taken it on Christmas Day](/brytyjczycy-zajmuja-jasin) and had since held a forward post there. The main forces of Brigadier-General Michael Tighe were encamped a few kilometres further north, on the border river Umba.
+At dawn on 18 January 1915 the German colonial troops of Lieutenant-Colonel [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) attacked Jasin, a coconut and sisal plantation just across the border of [British East Africa](/bitwy/kampania-wschodnioafrykanska). The British had [taken it on Christmas Day](/brytyjczycy-zajmuja-jasin) and had since held a forward post there. The main forces of Brigadier-General Michael Tighe were encamped a few kilometres further north, on the border river Umba.
 
 ## Preparations
 
-Lettow-Vorbeck saw the British presence at Jasin as a sign of an advance along the coast on [Tanga](https://pl.wikipedia.org/wiki/Tanga). At the beginning of January he inspected the ground in person. He was helped to prepare the plan of attack by a reserve officer who before the war had worked for years on that plantation and knew every path. Companies from around [Kilimanjaro](https://pl.wikipedia.org/wiki/Kilimandżaro) were brought by rail to the coast. On 16 January they detrained near Tanga and set off northwards at once. On the evening of 17 January nine companies with two field guns assembled at the Totohovu plantation, about 11 kilometres south of Jasin.
+Lettow-Vorbeck saw the British presence at Jasin as a sign of an advance along the coast on [Tanga](https://pl.wikipedia.org/wiki/Tanga). At the beginning of January he inspected the ground in person. He was helped to prepare the plan of attack by a reserve officer who before the war had worked for years on that plantation and knew every path. Companies from around [Kilimanjaro](/bitwy/kampania-wschodnioafrykanska) were brought by rail to the coast. On 16 January they detrained near Tanga and set off northwards at once. On the evening of 17 January nine companies with two field guns assembled at the Totohovu plantation, about 11 kilometres south of Jasin.
 
 The German commander hoped that an attack on the forward post would lure the main British forces out of their fortified camps. He intended to destroy them in the bush as they came to its relief. Two companies were to go round Jasin on the right, two on the left, and one was to strike straight along the road. Behind it came the main body with a European company and the guns. On the road from the north-west, from Samanya, a detachment of Arab volunteers lay in ambush.
 

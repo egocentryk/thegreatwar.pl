@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Pod koniec października 1914 roku brytyjskie krążowniki odnalazły niemiecki krążownik lekki [Königsberg](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), ukryty w rozlewiskach delty rzeki [Rufidżi](https://pl.wikipedia.org/wiki/Rufidżi) na wybrzeżu [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Brytyjska chronologia notuje to wydarzenie pod 31 października, ale większość opracowań podaje, że okręt dostrzeżono już 30 października. Od tej chwili Königsberg był zablokowany i nie mógł wrócić na ocean.
+Pod koniec października 1914 roku brytyjskie krążowniki odnalazły niemiecki krążownik lekki [Königsberg](https://pl.wikipedia.org/wiki/SMS_Königsberg_(1905)), ukryty w rozlewiskach delty rzeki [Rufidżi](https://pl.wikipedia.org/wiki/Rufidżi) na wybrzeżu [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Brytyjska chronologia notuje to wydarzenie pod 31 października, ale większość opracowań podaje, że okręt dostrzeżono już 30 października. Od tej chwili Königsberg był zablokowany i nie mógł wrócić na ocean.
 
 ## Kryjówka w dżungli
 

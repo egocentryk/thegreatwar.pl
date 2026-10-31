@@ -2,7 +2,7 @@
 title: Fighting at Kaniów
 summary: In the night of 10/11 May 1918 the Germans attacked the Polish II Corps at Kaniów. The Poles held out all day, but short of ammunition they capitulated.
 source: walki-pod-kaniowem
-sourceHash: 8cb8a6d377398a5ef762c6e049a0372ec85be889
+sourceHash: 8e5f3f9ee31360909cfd422bd4e2e34dd999d8d7
 brief:
   - "In the night of 10/11 May 1918 German infantry attacked without warning the quarters of General Józef Haller's Polish II Corps in villages west of Kaniów on the Dnieper."
   - "The Germans, ruling Ukraine after Hetman Skoropadsky's coup, did not want an independent Polish force in their rear. On 6 May General Zierold gave the Poles three hours to capitulate, then brought up more battalions."
@@ -37,6 +37,6 @@ On 12 May the Polish regiments laid down their arms. The Germans did not keep th
 
 ## Escape
 
-In the confusion after the capitulation some of the soldiers and officers slipped out of the encirclement, Haller among them. Prisoners escaped too. Machcewicz, captured by the Germans, escaped the following day and reported to the secret command of the former corps in [Kiev](https://pl.wikipedia.org/wiki/Kijów). The survivors sought a way to the Kuban, to the Volga or north to Murmansk. Haller made his way to Kiev, and on 12 June, accompanied by Captain Tadeusz Żółkiewski, arrived clandestinely in [Moscow](https://pl.wikipedia.org/wiki/Moskwa). There he came to an understanding with the [Polish Council of Inter-Party Union](https://pl.wikipedia.org/wiki/Rada_Polska_Zjednoczenia_Międzypartyjnego), and on 3 July he sailed from [Murmansk](https://pl.wikipedia.org/wiki/Murmańsk) via Scotland to France. By mid-July he was already in Paris, and in the autumn he took command of the Polish Army.
+In the confusion after the capitulation some of the soldiers and officers slipped out of the encirclement, Haller among them. Prisoners escaped too. Machcewicz, captured by the Germans, escaped the following day and reported to the secret command of the former corps in [Kiev](https://pl.wikipedia.org/wiki/Kijów). The survivors sought a way to the Kuban, to the Volga or north to Murmansk. Haller made his way to Kiev, and on 12 June, accompanied by Captain Tadeusz Żółkiewski, arrived clandestinely in [Moscow](https://pl.wikipedia.org/wiki/Moskwa). There he came to an understanding with the [Polish Council of Inter-Party Union](https://pl.wikipedia.org/wiki/Rada_Polska_Zjednoczenia_Międzypartyjnego), and on 3 July he sailed from [Murmansk](/miejsca/murmansk) via Scotland to France. By mid-July he was already in Paris, and in the autumn he took command of the Polish Army.
 
 Kaniów was the end of the Polish II Corps. Ten days later the Germans disbanded the Polish I Corps at Bobruisk, and in June the Austrians disarmed the remnants of the III Corps. The battle, lost and of no significance for the course of the front, nevertheless quickly grew into a symbol. Several regiments of the reborn Polish Army later bore the honorific "Kaniowski", and the inscription "Kaniów 11 V 1918" was placed on the Tomb of the Unknown Soldier in Warsaw.

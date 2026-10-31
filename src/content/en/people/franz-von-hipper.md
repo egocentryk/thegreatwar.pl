@@ -6,7 +6,7 @@ country: German Empire
 birthPlace: Weilheim (Bavaria)
 deathPlace: Hamburg-Othmarschen
 source: franz-von-hipper
-sourceHash: ed8994f589f06d6feeed048ab378173c671dfd14
+sourceHash: 77385376932278248168f27d00dc434669d970f8
 ---
 
 Franz Hipper, from 1916 Ritter von Hipper, commanded the German battlecruisers throughout the war, the fastest and most frequently engaged heavy ships of the Imperial Navy. His squadron shelled English towns, for which the British press called him a "baby-killer"; in January 1915 it escaped from a trap at Dogger Bank at the cost of the cruiser *Blücher*, and at Jutland it sank three British battlecruisers. He was regarded as one of the best naval commanders of the war, respected by his enemies as well. In August 1918 he took command of the High Seas Fleet, but his last plan, a great sortie by the fleet a few days before the armistice, ended in a mutiny of the sailors.
@@ -47,7 +47,7 @@ The sailors had no intention of dying a few days before the end of the war. On t
 
 ## After the war
 
-In the first months of the revolution Hipper, fearing the radicals, hid under an assumed name and frequently changed his whereabouts. When in June 1919 the crews scuttled the interned ships at [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow), he expressed his approval of the act in a letter. He settled in [Othmarschen](https://pl.wikipedia.org/wiki/Othmarschen) near Hamburg and lived in seclusion. Unlike Scheer, he wrote no memoirs, and his war diary remained in manuscript. He died on 25 May 1932 after a long illness, and the urn with his ashes was buried in his native Weilheim. Beatty, his old adversary, said after his death that he was bidding farewell to a gallant officer and a great seaman. The heavy cruiser [*Admiral Hipper*](https://pl.wikipedia.org/wiki/Admiral_Hipper), which entered service with the Kriegsmarine in 1939, was named after him.
+In the first months of the revolution Hipper, fearing the radicals, hid under an assumed name and frequently changed his whereabouts. When in June 1919 the crews scuttled the interned ships at [Scapa Flow](/miejsca/scapa-flow), he expressed his approval of the act in a letter. He settled in [Othmarschen](https://pl.wikipedia.org/wiki/Othmarschen) near Hamburg and lived in seclusion. Unlike Scheer, he wrote no memoirs, and his war diary remained in manuscript. He died on 25 May 1932 after a long illness, and the urn with his ashes was buried in his native Weilheim. Beatty, his old adversary, said after his death that he was bidding farewell to a gallant officer and a great seaman. The heavy cruiser [*Admiral Hipper*](https://pl.wikipedia.org/wiki/Admiral_Hipper), which entered service with the Kriegsmarine in 1939, was named after him.
 
 ## Assessment
 

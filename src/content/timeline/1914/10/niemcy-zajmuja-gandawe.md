@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-12 października 1914 roku wojska niemieckie weszły do [Gandawy](https://pl.wikipedia.org/wiki/Gandawa), jednego z największych miast Belgii i stolicy Flandrii Wschodniej. Poprzedniego wieczoru miasto opuściły wojska belgijskie, francuskie i brytyjskie, które przez trzy dni osłaniały tu odwrót armii belgijskiej spod Antwerpii.
+12 października 1914 roku wojska niemieckie weszły do [Gandawy](/miejsca/gandawa), jednego z największych miast Belgii i stolicy Flandrii Wschodniej. Poprzedniego wieczoru miasto opuściły wojska belgijskie, francuskie i brytyjskie, które przez trzy dni osłaniały tu odwrót armii belgijskiej spod Antwerpii.
 
 ## Osłona odwrotu
 

@@ -2,10 +2,10 @@
 title: End of the battle of the Crna
 summary: On 11 December 1916 the Allies broke off their offensive in Macedonia. The last Serbian and Russian attacks on Hill 1050 in the Crna bend decided nothing.
 source: koniec-bitwy-nad-czarna-rzeka
-sourceHash: af375f99f88a585b09179a83239e685ed356a140
+sourceHash: a08304aca445d6a916ea3564bd5905a6425704d7
 ---
 
-On 11 December 1916 the battle of the [Crna](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)), the last act of the Allied autumn offensive in Macedonia, came to an end. That day the Serbs and the newly arrived second Russian brigade once again attacked Hill 1050 in the mountainous bend of the river, east of [Bitola](https://pl.wikipedia.org/wiki/Bitola). As on the previous day, the attack decided nothing, and the highest summit remained in German and Bulgarian hands. According to the Austrian official history and Russian studies, it was on 11 December that the French commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), finally gave up any further offensive. The British official history of operations in Macedonia (Cyril Falls) presents it as the decision of the commander of the Allied forces in the Balkans himself, General [Maurice Sarrail](/postacie/maurice-sarrail), who resolved to break off the attacks and regroup his forces.
+On 11 December 1916 the battle of the [Crna](/miejsca/crna-reka), the last act of the Allied autumn offensive in Macedonia, came to an end. That day the Serbs and the newly arrived second Russian brigade once again attacked Hill 1050 in the mountainous bend of the river, east of [Bitola](/miejsca/bitola). As on the previous day, the attack decided nothing, and the highest summit remained in German and Bulgarian hands. According to the Austrian official history and Russian studies, it was on 11 December that the French commander-in-chief, General [Joseph Joffre](/postacie/joseph-joffre), finally gave up any further offensive. The British official history of operations in Macedonia (Cyril Falls) presents it as the decision of the commander of the Allied forces in the Balkans himself, General [Maurice Sarrail](/postacie/maurice-sarrail), who resolved to break off the attacks and regroup his forces.
 
 ## Three weeks after Bitola
 

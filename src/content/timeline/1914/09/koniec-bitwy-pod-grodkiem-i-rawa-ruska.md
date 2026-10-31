@@ -22,7 +22,7 @@ Po utracie Lwowa Conrad postanowił odwrócić losy kampanii. 4 Armia generała 
 
 O wyniku bitwy rozstrzygnęły wydarzenia na północnym skrzydle. Rosyjska 5 Armia generała [Pawła Plehwego](https://pl.wikipedia.org/wiki/Paweł_Plehwe), odtworzona po bitwie pod Komarowem, weszła w lukę między armią Auffenberga a cofającą się spod Lublina 1 Armią generała Victora Dankla i zagroziła tyłom całego austro-węgierskiego frontu. 11 września rosyjski XI Korpus przełamał obronę pod Rawą Ruską, a rosyjska kawaleria pojawiała się już za liniami 4 Armii.
 
-Conrad zrozumiał, że jego armiom grozi odcięcie od przepraw na Sanie. Wieczorem 11 września nakazał wszystkim armiom wycofanie się za [San](https://pl.wikipedia.org/wiki/San). Następnego dnia Rosjanie zajęli opuszczoną Rawę Ruską.
+Conrad zrozumiał, że jego armiom grozi odcięcie od przepraw na Sanie. Wieczorem 11 września nakazał wszystkim armiom wycofanie się za [San](/miejsca/san). Następnego dnia Rosjanie zajęli opuszczoną Rawę Ruską.
 
 ## Skutki
 

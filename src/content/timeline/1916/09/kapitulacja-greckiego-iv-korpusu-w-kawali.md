@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Wieczorem 11 września 1916 roku, czyli 29 sierpnia według kalendarza juliańskiego, którym posługiwała się Grecja, większość greckiego IV Korpusu, otoczonego w [Kawali](https://pl.wikipedia.org/wiki/Kawala), złożyła broń i oddała się w ręce Niemców, by nie trafić do bułgarskiej niewoli. Tę datę podają brytyjska historia oficjalna działań w Macedonii oraz George F. Abbott i Paxton Hibben, a Bułgarzy weszli do miasta następnego dnia, 12 września. Brytyjska chronologia wojny notuje kapitulację korpusu dopiero pod 18 września, a brytyjska historia oficjalna wojny na morzu podaje, że formalne poddanie garnizonu nastąpiło 19 września.
+Wieczorem 11 września 1916 roku, czyli 29 sierpnia według kalendarza juliańskiego, którym posługiwała się Grecja, większość greckiego IV Korpusu, otoczonego w [Kawali](/miejsca/kawala), złożyła broń i oddała się w ręce Niemców, by nie trafić do bułgarskiej niewoli. Tę datę podają brytyjska historia oficjalna działań w Macedonii oraz George F. Abbott i Paxton Hibben, a Bułgarzy weszli do miasta następnego dnia, 12 września. Brytyjska chronologia wojny notuje kapitulację korpusu dopiero pod 18 września, a brytyjska historia oficjalna wojny na morzu podaje, że formalne poddanie garnizonu nastąpiło 19 września.
 
 ## Korpus w pułapce
 

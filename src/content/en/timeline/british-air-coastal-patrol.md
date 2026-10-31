@@ -2,10 +2,10 @@
 title: British air coastal patrol
 summary: On 10 August 1914 British naval aviation began regular patrols over the east coast of England, watching for German warships and mines.
 source: brytyjski-lotniczy-patrol-wybrzeza
-sourceHash: 76751d991ce5b18d7ee14999707ec6faa0004933
+sourceHash: 3a10038b578c47fcb1c6236dec04ae7563cc3e9d
 ---
 
-Chronicles of the war from the time record under 10 August 1914 the creation of a British air coastal patrol. The day before, patrols had begun over the English Channel, protecting troop transports to France. Now the aeroplanes and airships of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) were to keep regular watch over the coasts of Great Britain, especially those facing the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne).
+Chronicles of the war from the time record under 10 August 1914 the creation of a British air coastal patrol. The day before, patrols had begun over the English Channel, protecting troop transports to France. Now the aeroplanes and airships of the [Royal Naval Air Service](/sily-zbrojne/royal-naval-air-service) were to keep regular watch over the coasts of Great Britain, especially those facing the [North Sea](/miejsca/morze-polnocne).
 
 ## Air stations by the sea
 

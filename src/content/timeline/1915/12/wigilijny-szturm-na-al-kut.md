@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-W Wigilię 1915 roku wojska osmańskie przypuściły największy szturm na oblężony [Al-Kut](https://pl.wikipedia.org/wiki/Al-Kut). Uderzyły na fort w północnym rogu brytyjskiej obrony, nad zakolem [Tygrysu](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)). Walka trwała z przerwami od rana 24 grudnia do wczesnych godzin 25 grudnia. Ostatni atak Turcy przypuścili około 2.30 w nocy. Boże Narodzenie zastało obrońców w ruinach fortu, wśród stosów tureckich zabitych. Brytyjska chronologia wojny umieszcza to wydarzenie pod 25 grudnia. Był to ostatni turecki szturm na Al-Kut. Od tej pory Turcy stawiali już tylko na głód.
+W Wigilię 1915 roku wojska osmańskie przypuściły największy szturm na oblężony [Al-Kut](/miejsca/al-kut). Uderzyły na fort w północnym rogu brytyjskiej obrony, nad zakolem [Tygrysu](/miejsca/tygrys). Walka trwała z przerwami od rana 24 grudnia do wczesnych godzin 25 grudnia. Ostatni atak Turcy przypuścili około 2.30 w nocy. Boże Narodzenie zastało obrońców w ruinach fortu, wśród stosów tureckich zabitych. Brytyjska chronologia wojny umieszcza to wydarzenie pod 25 grudnia. Był to ostatni turecki szturm na Al-Kut. Od tej pory Turcy stawiali już tylko na głód.
 
 ## Wbrew rozkazom Goltza
 

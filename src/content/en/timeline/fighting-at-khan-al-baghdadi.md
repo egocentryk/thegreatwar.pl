@@ -2,10 +2,10 @@
 title: Fighting at Khan al-Baghdadi
 summary: On 26 March 1918 the 15th Division's infantry took the Turkish trenches at Khan al-Baghdadi on the Euphrates; cavalry and armoured cars cut off the retreat.
 source: walki-pod-chan-al-baghdadi
-sourceHash: 492068c399c29051624991a8f70823908d5dac10
+sourceHash: 1f48542bd4a09bb1dc994366038e86e28f13dbcd
 ---
 
-On 26 March 1918 General Harry Brooking's Anglo-Indian 15th Division attacked the Turkish 50th Division at Khan al-Baghdadi, an old caravanserai on the road to Aleppo, about 35 kilometres up the [Euphrates](https://pl.wikipedia.org/wiki/Eufrat) from [Hit, occupied two weeks earlier](/brytyjczycy-zajmuja-hit). At Hit the Turks had slipped away without a fight. This time the new divisional commander, Nazim Bey (in some accounts Nazmi Bey), decided to make a stand. This was exactly what the British had been counting on. All day the infantry pushed the Turks from one position after another, while the 11th Cavalry Brigade with armoured cars went round them through the desert. By the evening the Turks were surrounded.
+On 26 March 1918 General Harry Brooking's Anglo-Indian 15th Division attacked the Turkish 50th Division at Khan al-Baghdadi, an old caravanserai on the road to Aleppo, about 35 kilometres up the [Euphrates](/miejsca/eufrat) from [Hit, occupied two weeks earlier](/brytyjczycy-zajmuja-hit). At Hit the Turks had slipped away without a fight. This time the new divisional commander, Nazim Bey (in some accounts Nazmi Bey), decided to make a stand. This was exactly what the British had been counting on. All day the infantry pushed the Turks from one position after another, while the 11th Cavalry Brigade with armoured cars went round them through the desert. By the evening the Turks were surrounded.
 
 ## Night and morning
 

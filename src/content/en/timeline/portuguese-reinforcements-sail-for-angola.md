@@ -2,14 +2,14 @@
 title: Portuguese reinforcements sail for Angola
 summary: In early December 1914 more Portuguese units sailed from Lisbon to Angola to strengthen the colony's defence against a German attack from the south.
 source: portugalskie-posilki-wyplywaja-do-angoli
-sourceHash: 1fe0faef5e2cd59c136508a9df47fa5b252ff8cf
+sourceHash: 39b1e0e4d98576cee499f0f2cf2a4059eef37d32
 ---
 
 The British chronology of the war records under 4 December 1914 the departure from [Lisbon](https://pl.wikipedia.org/wiki/Lizbona) of a Portuguese expeditionary force for [Angola](https://pl.wikipedia.org/wiki/Portugalska_Afryka_Zachodnia). It was the second, larger wave of reinforcements for the colony. Portuguese sources give different dates. According to the history of the navy, the passenger ships Ambaca and Peninsular left Lisbon with troops for Angola as early as 1 December, escorted by the cruiser Vasco da Gama, which off the [Canary Islands](https://pl.wikipedia.org/wiki/Wyspy_Kanaryjskie) handed them over to the cruiser São Gabriel. Another study speaks of two transports, dispatched on 3 and 11 December. What is certain is that the reinforcements set out at the beginning of December.
 
 ## Roçadas's request
 
-Since October Lieutenant-Colonel José Augusto Alves Roçadas's expedition, numbering about 1,400 men, had been stationed in Angola. It had been sent to guard the border with [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia), although Roçadas himself did not expect a German invasion. The situation changed after the incident at Naulila, where the Portuguese shot three Germans, and after the [German attack on the post at Cuangar](/niemcy-atakuja-angole). Roçadas concluded that the Germans would want revenge. Through the Ministry of the Colonies he asked Lisbon for substantial reinforcements.
+Since October Lieutenant-Colonel José Augusto Alves Roçadas's expedition, numbering about 1,400 men, had been stationed in Angola. It had been sent to guard the border with [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia), although Roçadas himself did not expect a German invasion. The situation changed after the incident at Naulila, where the Portuguese shot three Germans, and after the [German attack on the post at Cuangar](/niemcy-atakuja-angole). Roçadas concluded that the Germans would want revenge. Through the Ministry of the Colonies he asked Lisbon for substantial reinforcements.
 
 Part of the help had already reached him. On 5 November a battalion of marine infantry, about 550 strong, sailed from Lisbon on the ship Beira. On 23 November it landed at the port of [Moçâmedes](https://pl.wikipedia.org/wiki/Moçâmedes). At the same time the Portuguese parliament [authorised the government](/portugalia-zapowiada-wspolprace-z-wielka-brytania) to take part in the war at the side of Great Britain whenever it considered this necessary. Portugal, however, was not at war with Germany, and its army in Africa was above all to defend the colony.
 

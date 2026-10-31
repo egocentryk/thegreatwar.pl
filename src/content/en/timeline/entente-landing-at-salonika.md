@@ -2,7 +2,7 @@
 title: Entente landing at Salonika
 summary: On 5 October 1915 the French 156th Division and British 10th Division began landing at Salonika to save Serbia, but that day Venizelos's government fell.
 source: ladowanie-ententy-w-salonikach
-sourceHash: 13915beb8ccd71742aebc65763d4a9fb7e1bd19e
+sourceHash: 53e796d3044d69cfef20c145a0e1271d4603c52f
 brief:
   - "On 5 October 1915 the first French and British troops, brought from the Dardanelles, began to land at Salonika. They were to cross neutral Greece to the aid of threatened Serbia."
   - "The landing took place under a formal protest from the Greek government, but with the consent of Prime Minister Eleftherios Venizelos. The French division of General Maurice Bailloud was the first ashore."
@@ -19,7 +19,7 @@ The French were the first to land. Their division, commanded by General Maurice 
 
 The same day the headquarters of the British 29th Brigade and two battalions of the 10th Division landed: the 6th Battalion of the Royal Irish Rifles and the 6th Battalion of the Leinster Regiment. Some of them arrived aboard the battleship [HMS Albion](https://pl.wikipedia.org/wiki/HMS_Albion_(1898)), which had brought 1,500 men from [Mudros](/miejsca/mudros). Unloading was hurried and rather disorderly. The ships had been loaded at Mudros as quickly as possible, regardless of what went into which of them. The British had no transport and struggled to carry their tents to a camp set up by the road to [Serres](https://pl.wikipedia.org/wiki/Seres). Within a few days the entrance to the bay was closed by British anti-submarine nets. The people of Salonika received the soldiers with indifference, while the local merchants promptly raised their prices. The first days passed in torrential rain, and the camps quickly turned into a bog.
 
-The British delay had lasting consequences. The French, who had arrived first, took the best camp sites, rented buildings and took control of the railway. All this was hard to arrange, because the Greek mobilisation was under way in Macedonia, and the port and the only railway line, along the [Vardar](https://pl.wikipedia.org/wiki/Wardar) valley, were needed by both sides.
+The British delay had lasting consequences. The French, who had arrived first, took the best camp sites, rented buildings and took control of the railway. All this was hard to arrange, because the Greek mobilisation was under way in Macedonia, and the port and the only railway line, along the [Vardar](/miejsca/wardar) valley, were needed by both sides.
 
 ## News from Athens
 

@@ -2,10 +2,10 @@
 title: Mackensen crosses the Danube
 summary: On 23 November 1916, in fog, German, Bulgarian and Austro-Hungarian troops crossed the Danube from Svishtov to Zimnicea and set off for Bucharest.
 source: mackensen-przekracza-dunaj
-sourceHash: d416568d6fdbe7ecd7b5ba43e35c69a8bfdcfab6
+sourceHash: d0873400c7e6d9f2508eef9a4003fb9c85b35192
 ---
 
-On the morning of 23 November 1916 the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group began crossing the [Danube](https://pl.wikipedia.org/wiki/Dunaj) from Bulgarian [Svishtov](https://pl.wikipedia.org/wiki/Swisztow) to the Romanian bank near [Zimnicea](https://pl.wikipedia.org/wiki/Zimnicea). German, Bulgarian and Austro-Hungarian soldiers landed almost unhindered and by the evening had seized a bridgehead. From the south, alongside the Ninth Army attacking out of the mountains, the second arm of the pincers aimed at [Bucharest](https://pl.wikipedia.org/wiki/Bukareszt), about 100 kilometres from the crossing point, set off. In Romania, which kept time by the [Julian calendar](/slownik/kalendarz-julianski), it was 10 November.
+On the morning of 23 November 1916 the troops of Field Marshal [August von Mackensen](/postacie/august-von-mackensen)'s army group began crossing the [Danube](https://pl.wikipedia.org/wiki/Dunaj) from Bulgarian [Svishtov](https://pl.wikipedia.org/wiki/Swisztow) to the Romanian bank near [Zimnicea](https://pl.wikipedia.org/wiki/Zimnicea). German, Bulgarian and Austro-Hungarian soldiers landed almost unhindered and by the evening had seized a bridgehead. From the south, alongside the Ninth Army attacking out of the mountains, the second arm of the pincers aimed at [Bucharest](/miejsca/bukareszt), about 100 kilometres from the crossing point, set off. In Romania, which kept time by the [Julian calendar](/slownik/kalendarz-julianski), it was 10 November.
 
 ## Preparations
 

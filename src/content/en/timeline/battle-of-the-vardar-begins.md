@@ -2,10 +2,10 @@
 title: Battle of the Vardar begins
 summary: On 5 May 1917 French and Italian artillery began shelling positions in the Crna bend. On the Vardar the French and Greeks moved the front forward.
 source: poczatek-bitwy-nad-wardarem
-sourceHash: a42108f4b9309dedbb2de2a12b88259eafed7eab
+sourceHash: ee5a94cc3d92a93d209d717998afb23210f788da
 ---
 
-On 5 May 1917, west of the [Vardar](https://pl.wikipedia.org/wiki/Wardar), the main part of the spring offensive that General [Maurice Sarrail](/postacie/maurice-sarrail) had been preparing since the winter began. The British chronology of the war recorded this day as the start of the "Battle of the Vardar", although the most important fighting was to take place further west, in the bend of the [Crna](https://pl.wikipedia.org/wiki/Crna_Reka_(dopływ_Wardaru)) and in the mountains east of it. The infantry did not yet move that day. A bombardment lasting several days began, intended to destroy the wire and trenches before the assault.
+On 5 May 1917, west of the [Vardar](/miejsca/wardar), the main part of the spring offensive that General [Maurice Sarrail](/postacie/maurice-sarrail) had been preparing since the winter began. The British chronology of the war recorded this day as the start of the "Battle of the Vardar", although the most important fighting was to take place further west, in the bend of the [Crna](/miejsca/crna-reka) and in the mountains east of it. The infantry did not yet move that day. A bombardment lasting several days began, intended to destroy the wire and trenches before the assault.
 
 The offensive was almost a month late. It was originally to have begun on 12 April, but snowstorms, avalanches and landslides in the mountains several times forced the date to be postponed. General George Milne's British had already attacked [at Doiran](/poczatek-bitwy-pod-dojranem) on 24 April, in the belief that they were anticipating the main attack by only two days, and paid for it with more than 3,000 men. By 2 May Milne knew from Sarrail that the French artillery would begin its preparation on 5 May and that the attack would follow a few days later. The British were to strike again at Doiran on the evening of 8 May.
 

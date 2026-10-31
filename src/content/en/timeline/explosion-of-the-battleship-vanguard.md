@@ -2,10 +2,10 @@
 title: Explosion of the battleship Vanguard
 summary: Shortly before midnight on 9 July 1917 the British dreadnought Vanguard blew up in Scapa Flow. Of the 845 men aboard, only two survived.
 source: wybuch-na-pancerniku-vanguard
-sourceHash: 1fe1f3e7a3d9b00b9cb11e85841603c2221e688d
+sourceHash: cd428893c58bb79f8d8322ec79559bd8a4c779ea
 ---
 
-At 11.20 p.m. on 9 July 1917, in the main anchorage of the [Grand Fleet](/sily-zbrojne/grand-fleet) at [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) in the [Orkney Islands](https://pl.wikipedia.org/wiki/Orkady), the battleship *Vanguard* blew up. A series of explosions tore apart the middle of the ship, which sank almost instantly. 843 of the 845 men then aboard were killed. It was the deadliest of a series of internal explosions that destroyed British warships in their own harbours during this war.
+At 11.20 p.m. on 9 July 1917, in the main anchorage of the [Grand Fleet](/sily-zbrojne/grand-fleet) at [Scapa Flow](/miejsca/scapa-flow) in the [Orkney Islands](https://pl.wikipedia.org/wiki/Orkady), the battleship *Vanguard* blew up. A series of explosions tore apart the middle of the ship, which sank almost instantly. 843 of the 845 men then aboard were killed. It was the deadliest of a series of internal explosions that destroyed British warships in their own harbours during this war.
 
 *Vanguard* was a St Vincent-class [dreadnought](https://pl.wikipedia.org/wiki/Drednot), launched in 1909 at the Vickers yard in Barrow-in-Furness and commissioned in March 1910. Armed with ten 12-inch (305 mm) guns, by 1917 she was no longer among the fleet's most modern ships. She had served with the Grand Fleet since the beginning of the war, and at the [Battle of Jutland](/poczatek-bitwy-jutlandzkiej) in May 1916 she sailed in the battle line of the 4th Battle Squadron and fired, among other targets, at the crippled German cruiser *Wiesbaden*, without being damaged herself. She was commanded by Captain James Dick.
 

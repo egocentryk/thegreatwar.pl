@@ -2,14 +2,14 @@
 title: Boer rebellion begins
 summary: On 15 September 1914 General Beyers left the army of the Union of South Africa in protest against the war, and General De la Rey was killed by a police bullet.
 source: poczatek-rebelii-burskiej
-sourceHash: f6f861ebbe54ea55265aa924df52f1e0d6ddec23
+sourceHash: c14512423ba30135731feb08e5d0aece7f6551ff
 ---
 
 On 15 September 1914 a crisis began in the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) that grew into an armed revolt by part of the [Boers](https://pl.wikipedia.org/wiki/Burowie) against their own government. That day General Christiaan Beyers, commander of the Union's armed forces, resigned in protest against the planned war with Germany. In the evening General Koos de la Rey, one of the most respected heroes of the Boer War, was shot dead by the police. The rebellion, known after one of its leaders as the Maritz Rebellion, broke out openly a few weeks later.
 
 ## A war they did not want
 
-The Union of South Africa was a British dominion, created in 1910, only eight years after the end of the [Second Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska). The government was led by former Boer generals, Prime Minister [Louis Botha](/postacie/louis-botha) and Minister of Defence [Jan Smuts](/postacie/jan-smuts), who had staked everything on reconciliation with the British. When war broke out, they agreed at London's request to occupy neighbouring [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia). The news that [German troops had crossed the border](/niemcy-przekraczaja-granice-zwiazku-poludniowej-afryki) at Nakob helped to win over public opinion. At an extraordinary session in September parliament backed the government by a large majority.
+The Union of South Africa was a British dominion, created in 1910, only eight years after the end of the [Second Boer War](https://pl.wikipedia.org/wiki/II_wojna_burska). The government was led by former Boer generals, Prime Minister [Louis Botha](/postacie/louis-botha) and Minister of Defence [Jan Smuts](/postacie/jan-smuts), who had staked everything on reconciliation with the British. When war broke out, they agreed at London's request to occupy neighbouring [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia). The news that [German troops had crossed the border](/niemcy-przekraczaja-granice-zwiazku-poludniowej-afryki) at Nakob helped to win over public opinion. At an extraordinary session in September parliament backed the government by a large majority.
 
 Many [Afrikaners](https://pl.wikipedia.org/wiki/Afrykanerzy), however, thought otherwise. They remembered the concentration camps and burnt farms of a dozen or so years before. They did not want to fight for the British Empire, still less to attack the Germans, who had shown them sympathy during the Boer War. Some dreamed of using the war to restore the independent Boer republics.
 

@@ -2,14 +2,14 @@
 title: British lay mines off the Belgian coast
 summary: In early October 1914 the Royal Navy laid its first minefield in open waters, between the Goodwin Sands and Belgium, to protect the Channel routes.
 source: brytyjczycy-stawiaja-miny-u-wybrzezy-belgii
-sourceHash: e1e99ffb42a1dfe02d2b7b5dc34655fb35774652
+sourceHash: 13d969c676632a4f9a25aa970fc9e505277ccd42
 ---
 
-At the beginning of October 1914 the British [Royal Navy](/sily-zbrojne/royal-navy) laid a minefield in open waters for the first time in this war. The mines barred the southern edge of the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), east of the Goodwin Sands off the coast of Kent, towards the Belgian coast. Britain, which since August had accused the Germans of laying mines in the open sea, thus took up the same weapon, although unlike them it publicly announced which area was mined.
+At the beginning of October 1914 the British [Royal Navy](/sily-zbrojne/royal-navy) laid a minefield in open waters for the first time in this war. The mines barred the southern edge of the [North Sea](/miejsca/morze-polnocne), east of the Goodwin Sands off the coast of Kent, towards the Belgian coast. Britain, which since August had accused the Germans of laying mines in the open sea, thus took up the same weapon, although unlike them it publicly announced which area was mined.
 
 ## A response to German mines and submarines
 
-The Germans had been laying mines in the open sea from the first hours of the war. As early as 6 August the cruiser [HMS Amphion sank](/hms-amphion-zatopiony-na-minie) on a field laid by the minelayer Königin Luise. German submarines proved an even greater threat. On 22 September U-9 [sank three British armoured cruisers](/zatoniecie-aboukir-hogue-i-cressy) off the Dutch coast. The British feared that U-boats would break into the [Strait of Dover](https://pl.wikipedia.org/wiki/Cieśnina_Kaletańska) and attack the transports carrying troops and supplies to France, and soon to Belgium as well.
+The Germans had been laying mines in the open sea from the first hours of the war. As early as 6 August the cruiser [HMS Amphion sank](/hms-amphion-zatopiony-na-minie) on a field laid by the minelayer Königin Luise. German submarines proved an even greater threat. On 22 September U-9 [sank three British armoured cruisers](/zatoniecie-aboukir-hogue-i-cressy) off the Dutch coast. The British feared that U-boats would break into the [Strait of Dover](/miejsca/ciesnina-kaletanska) and attack the transports carrying troops and supplies to France, and soon to Belgium as well.
 
 On 2 October the Foreign Secretary, [Edward Grey](/postacie/edward-grey), instructed the British ambassador in Washington to inform the United States government that the German policy of minelaying and the activities of submarines had forced the Admiralty to take countermeasures. The area between latitudes 51°15′ and 51°40′ north and longitudes 1°35′ and 3° east was declared dangerous, a belt of sea from around the Goodwin Sands almost to the latitude of Ostend. According to some sources, on 3 October the Admiralty announced this warning publicly so that neutral ships could avoid the mined area.
 

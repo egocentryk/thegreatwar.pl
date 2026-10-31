@@ -2,10 +2,10 @@
 title: British take Bagamoyo
 summary: On 15 August 1916 sailors and marines landed at Bagamoyo, the former capital of German East Africa, and took the town after a short fight.
 source: brytyjczycy-zajmuja-bagamoyo
-sourceHash: 1d6a1ffe36b3b009fdb07ff99c5ee18c9ec9dcb9
+sourceHash: 47f6c33c95a2d08440549f4d803b8dcbee5566ee
 ---
 
-On 15 August 1916 a British naval landing party took [Bagamoyo](https://pl.wikipedia.org/wiki/Bagamoyo), a port on the coast of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) about 75 kilometres north of [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam). Contrary to the army's expectations, the Germans defended the town, but the fighting was short. By the afternoon Bagamoyo was quiet, and for the first time a gun from the cruiser *Königsberg* had fallen into British hands in open combat.
+On 15 August 1916 a British naval landing party took [Bagamoyo](https://pl.wikipedia.org/wiki/Bagamoyo), a port on the coast of [German East Africa](/bitwy/kampania-wschodnioafrykanska) about 75 kilometres north of [Dar es Salaam](https://pl.wikipedia.org/wiki/Dar_es_Salaam). Contrary to the army's expectations, the Germans defended the town, but the fighting was short. By the afternoon Bagamoyo was quiet, and for the first time a gun from the cruiser *Königsberg* had fallen into British hands in open combat.
 
 ## The old capital
 

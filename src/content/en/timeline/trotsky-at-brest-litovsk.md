@@ -2,10 +2,10 @@
 title: Trotsky at Brest-Litovsk
 summary: On 8 January 1918 peace talks resumed at Brest-Litovsk. The Soviet delegation was now led by Trotsky, who turned the sessions into a verbal duel with Kühlmann.
 source: trocki-w-brzesciu
-sourceHash: 24ab9915a1251e7b9323dd2218179b05f1dd35e4
+sourceHash: 3b3449de86467a17c57b0ef82154dfb0749680af
 ---
 
-On the afternoon of 8 January 1918 (26 December 1917 Old Style) the heads of the delegations to the peace conference met at [Brest-Litovsk](https://pl.wikipedia.org/wiki/Brześć). At the table sat the German Secretary of State Richard von Kühlmann, the Austro-Hungarian Foreign Minister Count [Ottokar Czernin](/postacie/ottokar-czernin), the Bulgarian Minister of Justice Popov, the Grand Vizier [Talat Pasha](/postacie/mehmet-talaat), who had arrived the previous night, and the representative of the Ukrainian Central Rada, [Vsevolod Holubovych](https://pl.wikipedia.org/wiki/Wsewołod_Hołubowycz). Soviet Russia's delegation was represented by the People's Commissar for Foreign Affairs, [Leon Trotsky](/postacie/lew-trocki). After a crisis lasting several days, in which the Central Powers had [announced the suspension of the talks](/zawieszenie-rokowan-w-brzesciu), the agenda was agreed and a plenary session was called for the following day. The second round of the Brest-Litovsk negotiations, which was to last until 10 February, had just begun.
+On the afternoon of 8 January 1918 (26 December 1917 Old Style) the heads of the delegations to the peace conference met at [Brest-Litovsk](/miejsca/brzesc). At the table sat the German Secretary of State Richard von Kühlmann, the Austro-Hungarian Foreign Minister Count [Ottokar Czernin](/postacie/ottokar-czernin), the Bulgarian Minister of Justice Popov, the Grand Vizier [Talat Pasha](/postacie/mehmet-talaat), who had arrived the previous night, and the representative of the Ukrainian Central Rada, [Vsevolod Holubovych](https://pl.wikipedia.org/wiki/Wsewołod_Hołubowycz). Soviet Russia's delegation was represented by the People's Commissar for Foreign Affairs, [Leon Trotsky](/postacie/lew-trocki). After a crisis lasting several days, in which the Central Powers had [announced the suspension of the talks](/zawieszenie-rokowan-w-brzesciu), the agenda was agreed and a plenary session was called for the following day. The second round of the Brest-Litovsk negotiations, which was to last until 10 February, had just begun.
 
 ## A new head of delegation
 

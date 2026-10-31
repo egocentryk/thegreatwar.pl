@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-21 kwietnia 1918 roku przed południem na wzgórzu nad doliną [Sommy](https://pl.wikipedia.org/wiki/Somma_(rzeka)), przy drodze z Bray do [Corbie](https://pl.wikipedia.org/wiki/Corbie), na północ od wsi [Vaux-sur-Somme](https://pl.wikipedia.org/wiki/Vaux-sur-Somme), rozbił się czerwony trójpłatowiec. Australijscy żołnierze, którzy do niego dobiegli, znaleźli w kabinie martwego albo konającego pilota. Był nim rotmistrz [Manfred von Richthofen](/postacie/manfred-von-richthofen), najskuteczniejszy lotnik myśliwski I wojny światowej, który dzień wcześniej odniósł swoje 79. i 80. zwycięstwo. Miał 25 lat. Niemiecka propaganda nazywała go „czerwonym lotnikiem bojowym”, od koloru jego samolotów, a przydomek „Czerwony Baron”, pod którym przeszedł do historii, upowszechnił się głównie po wojnie.
+21 kwietnia 1918 roku przed południem na wzgórzu nad doliną [Sommy](/miejsca/somma), przy drodze z Bray do [Corbie](https://pl.wikipedia.org/wiki/Corbie), na północ od wsi [Vaux-sur-Somme](https://pl.wikipedia.org/wiki/Vaux-sur-Somme), rozbił się czerwony trójpłatowiec. Australijscy żołnierze, którzy do niego dobiegli, znaleźli w kabinie martwego albo konającego pilota. Był nim rotmistrz [Manfred von Richthofen](/postacie/manfred-von-richthofen), najskuteczniejszy lotnik myśliwski I wojny światowej, który dzień wcześniej odniósł swoje 79. i 80. zwycięstwo. Miał 25 lat. Niemiecka propaganda nazywała go „czerwonym lotnikiem bojowym”, od koloru jego samolotów, a przydomek „Czerwony Baron”, pod którym przeszedł do historii, upowszechnił się głównie po wojnie.
 
 ## Ostatni lot
 

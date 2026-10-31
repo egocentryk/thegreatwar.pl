@@ -2,7 +2,7 @@
 title: Sarrail demands the withdrawal of Greek troops from Salonika
 summary: On 9 December 1915 General Sarrail put the Entente's demands to a Greek envoy. He wanted to fortify Salonika, remove the Greeks and take over Fort Karaburun.
 source: sarrail-zada-wycofania-wojsk-greckich-z-salonik
-sourceHash: b24a7a99d8d59c2f2e0f868da60d6d74629c524a
+sourceHash: db437787498095be4a0caf36041d3bdbbe80af7b
 ---
 
 On 9 December 1915, or 26 November by the Julian calendar, the commander of the French Army of the Orient, General [Maurice Sarrail](/postacie/maurice-sarrail), and the commander of the British troops, General Bryan Mahon, received a Greek staff officer, Lieutenant-Colonel Pallis, at [Salonika](/miejsca/saloniki). He had been sent from Athens to settle with the Allied military how the Entente's demands were to be met in practice. Sarrail set them out to him bluntly. The most important of them was that the Greek troops must leave Salonika.
@@ -15,7 +15,7 @@ The French government had instructed Sarrail as early as 25 November to begin fo
 
 ## Four demands
 
-According to the British official history of the Macedonian campaign, Sarrail repeated what the Allies had already demanded through diplomatic channels. First, the Entente troops must have the right to fortify a position for the defence of Salonika. Second, the Greek troops were to leave the city. Third, a neutral zone was to be created south of Lake Dojran, on both sides of the Allies' line of retreat. Fourth, the Greeks were to hand over Fort Karaburun and the battery at the mouth of the [Vardar](https://pl.wikipedia.org/wiki/Wardar), which covered the entrance to the Salonika roadstead. Pallis forwarded these demands to Athens.
+According to the British official history of the Macedonian campaign, Sarrail repeated what the Allies had already demanded through diplomatic channels. First, the Entente troops must have the right to fortify a position for the defence of Salonika. Second, the Greek troops were to leave the city. Third, a neutral zone was to be created south of Lake Dojran, on both sides of the Allies' line of retreat. Fourth, the Greeks were to hand over Fort Karaburun and the battery at the mouth of the [Vardar](/miejsca/wardar), which covered the entrance to the Salonika roadstead. Pallis forwarded these demands to Athens.
 
 Sarrail did not wait for a reply. He ordered reconnaissance patrols to be sent out the next day to choose a line of defence around the city, and General Charles Monro, then at Salonika, who [since the end of November had commanded](/monro-naczelnym-dowodca-na-morzu-srodziemnym) the British forces in the eastern Mediterranean, told Mahon to do the same.
 

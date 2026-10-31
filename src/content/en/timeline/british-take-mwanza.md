@@ -2,10 +2,10 @@
 title: British take Mwanza
 summary: On 14 July 1916 Charles Crewe's troops, carried by steamer across Lake Victoria, took Mwanza. The German garrison managed to withdraw to the south.
 source: brytyjczycy-zajmuja-mwanze
-sourceHash: a2eeffa05675650e63fbad779c75b32719067a7a
+sourceHash: d6268f8bdaa6a3a3bc710345a692911a66673a6f
 ---
 
-At about 3 p.m. on 14 July 1916 British soldiers entered [Mwanza](https://pl.wikipedia.org/wiki/Mwanza), the main German port and base on [Lake Victoria](https://pl.wikipedia.org/wiki/Jezioro_Wiktorii), in the north-western part of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). The town was taken by the troops of Brigadier-General Charles Crewe, carried across the lake by the steamers of the British flotilla. Most of the German garrison had withdrawn a few hours earlier.
+At about 3 p.m. on 14 July 1916 British soldiers entered [Mwanza](https://pl.wikipedia.org/wiki/Mwanza), the main German port and base on [Lake Victoria](https://pl.wikipedia.org/wiki/Jezioro_Wiktorii), in the north-western part of [German East Africa](/bitwy/kampania-wschodnioafrykanska). The town was taken by the troops of Brigadier-General Charles Crewe, carried across the lake by the steamers of the British flotilla. Most of the German garrison had withdrawn a few hours earlier.
 
 ## Crewe's plan
 

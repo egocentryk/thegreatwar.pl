@@ -2,10 +2,10 @@
 title: The Allies evacuate Archangel
 summary: On 27 September 1919 the last British soldiers boarded ship at Archangel and General Ironside sailed home. Only the White Russians were left at the front.
 source: alianci-ewakuuja-archangielsk
-sourceHash: b349246358cac1b38180d125466a45d2465a9408
+sourceHash: 16a0e90cfa80de945b3a013215f407ac3ef09183
 ---
 
-On the morning of 27 September 1919 the last British units left their positions on the [Dvina](https://pl.wikipedia.org/wiki/Dwina) near the village of Lyavlya and, covered by two monitors, sailed down to [Archangel](https://pl.wikipedia.org/wiki/Archangielsk), where transports were waiting for them. That day General [Edmund Ironside](/postacie/edmund-ironside) and his staff also went on board. The British Blue Book on the evacuation says that the embarkation was carried through "without any hitch", and Rear-Admiral John Green, commanding the ships in the White Sea, reported that some 8,000 British troops were embarked in the final evacuation of Archangel. So ended the Allied presence in Archangel, which they had [entered in August 1918](/alianci-w-archangielsku). Only the Russian troops of General [Yevgeny Miller](https://pl.wikipedia.org/wiki/Jewgienij_Miller) remained at the front. The last British troops sailed from Murmansk on 12 October.
+On the morning of 27 September 1919 the last British units left their positions on the [Dvina](https://pl.wikipedia.org/wiki/Dwina) near the village of Lyavlya and, covered by two monitors, sailed down to [Archangel](/miejsca/archangielsk), where transports were waiting for them. That day General [Edmund Ironside](/postacie/edmund-ironside) and his staff also went on board. The British Blue Book on the evacuation says that the embarkation was carried through "without any hitch", and Rear-Admiral John Green, commanding the ships in the White Sea, reported that some 8,000 British troops were embarked in the final evacuation of Archangel. So ended the Allied presence in Archangel, which they had [entered in August 1918](/alianci-w-archangielsku). Only the Russian troops of General [Yevgeny Miller](https://pl.wikipedia.org/wiki/Jewgienij_Miller) remained at the front. The last British troops sailed from Murmansk on 12 October.
 
 ## The decision to leave
 

@@ -2,7 +2,7 @@
 title: Capture of Christiaan de Wet
 summary: On 1 December 1914 at Waterbury farm near Vryburg a government force surrounded and captured Gen. Christiaan de Wet, one of the leaders of the Boer rebellion.
 source: schwytanie-christiaana-de-weta
-sourceHash: e000a35288c011e82c31457d725fb0045bcc4c0b
+sourceHash: e6e5382fdd2ca388464e3d2992f8512740ae66ee
 ---
 
 On 1 December 1914 at Waterbury farm, near [Vryburg](https://pl.wikipedia.org/wiki/Vryburg) in the northern Cape Province, government troops of the [Union of South Africa](https://pl.wikipedia.org/wiki/Związek_Południowej_Afryki) surrounded a small band of rebels. Its leader, General [Christiaan de Wet](https://pl.wikipedia.org/wiki/Christiaan_Rudolf_de_Wet), surrendered without a fight together with about fifty companions. Some sources give the date as 30 November, and one even as 2 December. The date most commonly accepted is 1 December.
@@ -15,7 +15,7 @@ The rebellion soon brought him personal tragedy. At the beginning of November hi
 
 ## Flight to the west
 
-A few days later De Wet had to admit that the rising in the Orange Free State had failed. With a handful of loyal men he set off westwards. He wanted to cross the [Kalahari](https://pl.wikipedia.org/wiki/Kalahari) into [German South West Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Południowo-Zachodnia) and join Manie Maritz, who had gone over to the Germans as early as October. The fugitives crossed the Vaal river and rode through the sparsely populated borderland of former British Bechuanaland.
+A few days later De Wet had to admit that the rising in the Orange Free State had failed. With a handful of loyal men he set off westwards. He wanted to cross the [Kalahari](https://pl.wikipedia.org/wiki/Kalahari) into [German South West Africa](/miejsca/niemiecka-afryka-poludniowo-zachodnia) and join Manie Maritz, who had gone over to the Germans as early as October. The fugitives crossed the Vaal river and rode through the sparsely populated borderland of former British Bechuanaland.
 
 This time the old tactics failed. The government troops pursued him not only on horseback but also in motor cars. Colonel Coen Brits's column used vehicles that carried the soldiers much faster than the rebels' tired horses could go. According to accounts, an informer told Commandant Jorrie Jordaan where the exhausted fugitives were hiding. Jordaan surrounded Waterbury farm, about 20 kilometres from Morokweng, and De Wet surrendered.
 

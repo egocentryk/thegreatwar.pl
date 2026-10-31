@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Brytyjska chronologia wojny notuje pod 20 grudnia 1915 roku lądowanie wojsk włoskich w [Durrës](https://pl.wikipedia.org/wiki/Durrës), głównym porcie środkowej Albanii. Włoska piechota nie przypłynęła tam jednak statkami, tylko przyszła lądem z [Wlory](https://pl.wikipedia.org/wiki/Wlora). Według historii wojennej brygady Savona jej dowództwo i 15 Pułk Piechoty dotarły do Durrës 19 grudnia, a brytyjska historia oficjalna pisze, że do 20 grudnia Włosi ściągnęli tu z Wlory brygadę piechoty. Morzem przywieziono natomiast osiem ciężkich dział i baterię przeciwlotniczą, a przed portem postawiono pole minowe. Część włoskich opracowań, opartych na relacji dowódcy korpusu, podaje, że pułk wyruszył z Wlory 3 grudnia i dotarł do Durrës już 9 grudnia.
+Brytyjska chronologia wojny notuje pod 20 grudnia 1915 roku lądowanie wojsk włoskich w [Durrës](/miejsca/durres), głównym porcie środkowej Albanii. Włoska piechota nie przypłynęła tam jednak statkami, tylko przyszła lądem z [Wlory](/miejsca/wlora). Według historii wojennej brygady Savona jej dowództwo i 15 Pułk Piechoty dotarły do Durrës 19 grudnia, a brytyjska historia oficjalna pisze, że do 20 grudnia Włosi ściągnęli tu z Wlory brygadę piechoty. Morzem przywieziono natomiast osiem ciężkich dział i baterię przeciwlotniczą, a przed portem postawiono pole minowe. Część włoskich opracowań, opartych na relacji dowódcy korpusu, podaje, że pułk wyruszył z Wlory 3 grudnia i dotarł do Durrës już 9 grudnia.
 
 ## Korpus specjalny w Albanii
 

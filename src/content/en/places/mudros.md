@@ -8,7 +8,7 @@ brief:
   - "Wounded and sick men from Gallipoli were treated in tented hospitals around the bay. According to one account, by October 1915 there were about 9,000 beds here."
   - "On 30 October 1918, aboard the battleship Agamemnon in Mudros harbour, the Ottoman Empire signed the armistice that ended its war with the Entente."
 source: mudros
-sourceHash: 226e2e45a426799a1b5444a233d18058abfb6dea
+sourceHash: d3c3b4e1bc1e8c01a77d938c1bb585b310caebb2
 ---
 
 Mudros is a large bay on the Greek island of Lemnos, in the northern Aegean Sea, about 50 kilometres from the mouth of the Dardanelles. In 1915 it became the base of the fleet and the troops who attacked the strait and fought on the Gallipoli peninsula, and camps and hospitals sprang up on its shores. British warships were stationed here until the end of the war. On 30 October 1918, aboard a battleship anchored in Mudros harbour, the [Ottoman Empire](/kraje/imperium-osmanskie) signed the armistice by which it left the war.

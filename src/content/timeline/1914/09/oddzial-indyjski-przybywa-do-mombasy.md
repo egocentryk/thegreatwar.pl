@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-1 września 1914 roku do portu w [Mombasie](https://pl.wikipedia.org/wiki/Mombasa), na wybrzeżu [Brytyjskiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Brytyjska_Afryka_Wschodnia), przypłynął pierwszy oddział Indyjskiego Korpusu Ekspedycyjnego „C”. Był to 29 Pułk Pendżabski, który [19 sierpnia wyruszył z Indii](/pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej) jako pierwsza jednostka armii indyjskiej wysłana na wojnę.
+1 września 1914 roku do portu w [Mombasie](https://pl.wikipedia.org/wiki/Mombasa), na wybrzeżu [Brytyjskiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska), przypłynął pierwszy oddział Indyjskiego Korpusu Ekspedycyjnego „C”. Był to 29 Pułk Pendżabski, który [19 sierpnia wyruszył z Indii](/pierwszy-oddzial-indyjski-wyrusza-do-afryki-wschodniej) jako pierwsza jednostka armii indyjskiej wysłana na wojnę.
 
 Pomoc była pilnie potrzebna. Kolonia dysponowała na początku wojny tylko kilkoma kompaniami King's African Rifles i ochotnikami spośród osadników. Niemieckie oddziały podpułkownika [Paula von Lettow-Vorbecka](/postacie/paul-von-lettow-vorbeck) zajęły już przygraniczną Tavetę i zagrażały Kolei Ugandyjskiej, która łączyła Mombasę z [Nairobi](https://pl.wikipedia.org/wiki/Nairobi) i Jeziorem Wiktorii. Była to najważniejsza arteria komunikacyjna kolonii.
 

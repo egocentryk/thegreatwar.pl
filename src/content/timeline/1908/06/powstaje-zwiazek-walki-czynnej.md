@@ -18,7 +18,7 @@ sources:
   - "https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej"
 ---
 
-W czerwcu 1908 roku we [Lwowie](https://pl.wikipedia.org/wiki/Lwów), w mieszkaniu studenta architektury [Kazimierza Sosnkowskiego](/postacie/kazimierz-sosnkowski), powstał tajny [Związek Walki Czynnej](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej). Muzeum Historii Polski podaje jako datę 17 czerwca, inne opracowania piszą tylko o czerwcu albo o końcu miesiąca. ZWC nie miał nikogo zabijać ani napadać na kasy. Miał uczyć. Z jego kursów, prowadzonych w [zaborze austriackim](https://pl.wikipedia.org/wiki/Zabór_austriacki), mieli wyjść oficerowie i podoficerowie powstania, które wybuchnie w zaborze rosyjskim, gdy zaborcy staną do wojny między sobą. Sejm RP nazwał go w stulecie powstania pierwszą niepodległościową organizacją paramilitarną, „stanowiącą zalążek Wojska Polskiego”.
+W czerwcu 1908 roku we [Lwowie](/miejsca/lwow), w mieszkaniu studenta architektury [Kazimierza Sosnkowskiego](/postacie/kazimierz-sosnkowski), powstał tajny [Związek Walki Czynnej](https://pl.wikipedia.org/wiki/Związek_Walki_Czynnej). Muzeum Historii Polski podaje jako datę 17 czerwca, inne opracowania piszą tylko o czerwcu albo o końcu miesiąca. ZWC nie miał nikogo zabijać ani napadać na kasy. Miał uczyć. Z jego kursów, prowadzonych w [zaborze austriackim](https://pl.wikipedia.org/wiki/Zabór_austriacki), mieli wyjść oficerowie i podoficerowie powstania, które wybuchnie w zaborze rosyjskim, gdy zaborcy staną do wojny między sobą. Sejm RP nazwał go w stulecie powstania pierwszą niepodległościową organizacją paramilitarną, „stanowiącą zalążek Wojska Polskiego”.
 
 ## Od bojówki do szkoły
 

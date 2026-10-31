@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-3 grudnia 1917 roku (20 listopada według kalendarza juliańskiego) w [Brześciu Litewskim](https://pl.wikipedia.org/wiki/Brześć), w kwaterze niemieckiego naczelnego dowództwa na wschodzie, rozpoczęły się pierwsze rokowania między rządem bolszewickim a państwami centralnymi. Delegacja radziecka, która dzień wcześniej przeszła przez linię frontu, przyjechała z programem powszechnego pokoju. Po drugiej stronie stołu siedzieli wyłącznie wojskowi, upoważnieni jedynie do rozmów o rozejmie. Brytyjska chronologia wojny notuje pod tą datą pierwszą sesję delegatów rozejmowych Rosji, Niemiec, Austro-Węgier, Bułgarii i Turcji.
+3 grudnia 1917 roku (20 listopada według kalendarza juliańskiego) w [Brześciu Litewskim](/miejsca/brzesc), w kwaterze niemieckiego naczelnego dowództwa na wschodzie, rozpoczęły się pierwsze rokowania między rządem bolszewickim a państwami centralnymi. Delegacja radziecka, która dzień wcześniej przeszła przez linię frontu, przyjechała z programem powszechnego pokoju. Po drugiej stronie stołu siedzieli wyłącznie wojskowi, upoważnieni jedynie do rozmów o rozejmie. Brytyjska chronologia wojny notuje pod tą datą pierwszą sesję delegatów rozejmowych Rosji, Niemiec, Austro-Węgier, Bułgarii i Turcji.
 
 ## Front cichnie
 

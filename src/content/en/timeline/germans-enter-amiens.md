@@ -2,14 +2,14 @@
 title: Germans enter Amiens
 summary: On 31 August 1914 troops of Kluck's army entered Amiens without a fight. The occupation lasted less than two weeks and ended after the Battle of the Marne.
 source: niemcy-wkraczaja-do-amiens
-sourceHash: e49f9ae50457bda4124e1d4485a073ba11414f49
+sourceHash: b15943e9942a3aad15c0bfb3c7413ad6e65af25f
 ---
 
 On 31 August 1914, at about 8 a.m., German troops entered [Amiens](/miejsca/amiens), the capital of the Somme department. The town, an important railway junction in northern France, lay in the path of the German right wing marching on Paris.
 
 ## An undefended town
 
-In the last days of August French territorial divisions and the first units of the Sixth Army that Joffre was forming stood in the Amiens area. In the face of the rapid advance of the German First Army under General [Alexander von Kluck](/postacie/alexander-von-kluck), they were withdrawn to the south. The French blew up the bridges over the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)) but did not defend the town itself. General Hans von Gronau's IV Reserve Corps entered Amiens, and according to witnesses its soldiers marched through the streets singing.
+In the last days of August French territorial divisions and the first units of the Sixth Army that Joffre was forming stood in the Amiens area. In the face of the rapid advance of the German First Army under General [Alexander von Kluck](/postacie/alexander-von-kluck), they were withdrawn to the south. The French blew up the bridges over the [Somme](/miejsca/somma) but did not defend the town itself. General Hans von Gronau's IV Reserve Corps entered Amiens, and according to witnesses its soldiers marched through the streets singing.
 
 ## Hostages and requisitions
 

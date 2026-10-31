@@ -9,7 +9,7 @@ milestone: false
 draft: false
 ---
 
-23 lipca 1914 roku rząd [Austro-Węgier](/kraje/austro-wegry) wykonał krok, który otwarcie przeniósł kryzys lipcowy w nową fazę: do [Belgradu](https://pl.wikipedia.org/wiki/Belgrad) przekazano ultimatum wobec [Serbii](/kraje/serbia). Dokument został wręczony przez austro-węgierskiego przedstawiciela barona Wladimira Giesla von Gieslingena i zawierał termin odpowiedzi wynoszący zaledwie 48 godzin. Sama krótkość tego terminu była już sygnałem, że nie chodzi o zwykłą wymianę dyplomatycznych not, lecz o wymuszenie szybkiej i upokarzającej kapitulacji albo stworzenie pretekstu do wojny.
+23 lipca 1914 roku rząd [Austro-Węgier](/kraje/austro-wegry) wykonał krok, który otwarcie przeniósł kryzys lipcowy w nową fazę: do [Belgradu](/miejsca/belgrad) przekazano ultimatum wobec [Serbii](/kraje/serbia). Dokument został wręczony przez austro-węgierskiego przedstawiciela barona Wladimira Giesla von Gieslingena i zawierał termin odpowiedzi wynoszący zaledwie 48 godzin. Sama krótkość tego terminu była już sygnałem, że nie chodzi o zwykłą wymianę dyplomatycznych not, lecz o wymuszenie szybkiej i upokarzającej kapitulacji albo stworzenie pretekstu do wojny.
 
 Treść ultimatum została ułożona tak, by Serbia mogła przyjąć część żądań tylko kosztem własnej niezależności. Wiedeń domagał się między innymi tłumienia propagandy antyaustriackiej, usunięcia wskazanych urzędników i oficerów oraz udziału przedstawicieli austro-węgierskich w działaniach prowadzonych na terytorium serbskim. To właśnie ten ostatni element szczególnie uderzał w suwerenność państwa, bo oznaczał zgodę na obcą ingerencję w wewnętrzny aparat policyjny i sądowy Serbii.
 

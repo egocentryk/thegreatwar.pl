@@ -2,12 +2,12 @@
 title: Grand Fleet leaves Scapa Flow
 summary: On 18 October 1914, fearing U-boats, the Grand Fleet began moving from Scapa Flow to Lough Swilly in Ireland and Loch na Keal on the island of Mull.
 source: grand-fleet-opuszcza-scapa-flow
-sourceHash: f814fe24c65458e95df7233bf1d27dab61efdf8d
+sourceHash: d1c595c199abd519637fdc819bc96c8f7894027e
 ---
 
 After the [alarm at Scapa Flow](/alarm-w-scapa-flow) on 16 and 17 October 1914, Admiral [John Jellicoe](/postacie/john-jellicoe), commander of the [Grand Fleet](/sily-zbrojne/grand-fleet), decided to move the fleet's main forces temporarily from the Orkneys to the west. Orders were issued at once, and over the following days the ships dispersed to new anchorages. The most powerful fleet in the world, whose task was to hold the German [High Seas Fleet](/sily-zbrojne/flota-pelnomorska) in check, left its base for fear of German submarines.
 
-Jellicoe later explained that since the U-boats could operate in northern waters, as the [sinking of the cruiser Hawke](/zatoniecie-hms-hawke) showed, an attempt to attack the fleet at anchor was only a matter of time. [Scapa Flow](https://pl.wikipedia.org/wiki/Scapa_Flow) as yet had no anti-submarine barriers at all, and battleships lying at anchor would be an easy target. Loch Ewe on the west coast of Scotland, where the fleet had already taken refuge in September, offered no security either. It was too deep for a barrier to be laid there with the fleet's own resources.
+Jellicoe later explained that since the U-boats could operate in northern waters, as the [sinking of the cruiser Hawke](/zatoniecie-hms-hawke) showed, an attempt to attack the fleet at anchor was only a matter of time. [Scapa Flow](/miejsca/scapa-flow) as yet had no anti-submarine barriers at all, and battleships lying at anchor would be an easy target. Loch Ewe on the west coast of Scotland, where the fleet had already taken refuge in September, offered no security either. It was too deep for a barrier to be laid there with the fleet's own resources.
 
 ## New anchorages
 

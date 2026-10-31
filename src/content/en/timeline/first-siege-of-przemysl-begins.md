@@ -2,7 +2,7 @@
 title: First siege of Przemyśl begins
 summary: On 24 September 1914 the Russian Third Army cut Przemyśl off from the Austro-Hungarian army. The first siege of one of the largest fortresses in Europe began.
 source: poczatek-oblezenia-przemysla
-sourceHash: 8a3ce8aebe80357129c51184cf48bf9efa5294cc
+sourceHash: fe6d3b0f9ec2f7b822ccd47a89920b0875970a46
 ---
 
 On 24 September 1914, according to the British chronology of the war, Russian troops cut off the [fortress of Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl) from the Austro-Hungarian armies retreating westwards. The first siege of one of the largest fortresses in Europe began. Within its walls were more than 120,000 soldiers and over ten thousand civilians. Przemyśl became a symbol of the war in Galicia, and for the next six months the whole Habsburg monarchy followed its fate.
@@ -13,7 +13,7 @@ The dates given in the literature differ by more than a week, because the encirc
 
 ## The fortress on the San
 
-Przemyśl, an old town on the [San](https://pl.wikipedia.org/wiki/San), lay on the main road and railway line linking Kraków with Lviv. The Austrians began fortifying it in the 1850s, and the main expansion was carried out from the 1870s and 1880s. Two rings of fortifications were built. The outer one was some 45 kilometres in circumference and consisted of 17 main forts and many smaller forts, batteries and shelters. The inner ring surrounded the town itself. According to various tallies there were some forty forts in the two rings combined.
+Przemyśl, an old town on the [San](/miejsca/san), lay on the main road and railway line linking Kraków with Lviv. The Austrians began fortifying it in the 1850s, and the main expansion was carried out from the 1870s and 1880s. Two rings of fortifications were built. The outer one was some 45 kilometres in circumference and consisted of 17 main forts and many smaller forts, batteries and shelters. The inner ring surrounded the town itself. According to various tallies there were some forty forts in the two rings combined.
 
 It was, however, a largely outdated fortress. Most of the forts had been built in the 19th century of brick and stone, with the artillery of that time in mind. Before the war there was no money for modernisation, so in the summer of 1914 soldiers and thousands of labourers hastily dug trenches, put up barbed-wire entanglements and built new artillery positions between the forts. Forests were cut down and whole villages that obstructed the field of fire were demolished. Their inhabitants had to leave their homes.
 

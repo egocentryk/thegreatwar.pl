@@ -2,10 +2,10 @@
 title: British naval mission leaves Turkey
 summary: In September 1914 the British naval mission of Admiral Arthur Limpus left Turkey. German officers took over the Ottoman fleet.
 source: brytyjska-misja-morska-opuszcza-turcje
-sourceHash: 1fd601a98fb44f39ca14d152ce079308d0c36f58
+sourceHash: a65919d5462c1ddf8c6e3d3cd52232bdc7656afb
 ---
 
-The British chronology of the war records under 17 September 1914 the departure of the British naval mission from the [Ottoman Empire](/kraje/imperium-osmanskie). It was headed by Vice-Admiral Arthur Limpus. According to most studies, the British officers had left the country by 15 September at the latest, and the date in the chronology may mark the moment the news reached London. Either way, it was the end of several years of the presence of British [Royal Navy](/sily-zbrojne/royal-navy) officers in [Constantinople](https://pl.wikipedia.org/wiki/Konstantynopol).
+The British chronology of the war records under 17 September 1914 the departure of the British naval mission from the [Ottoman Empire](/kraje/imperium-osmanskie). It was headed by Vice-Admiral Arthur Limpus. According to most studies, the British officers had left the country by 15 September at the latest, and the date in the chronology may mark the moment the news reached London. Either way, it was the end of several years of the presence of British [Royal Navy](/sily-zbrojne/royal-navy) officers in [Constantinople](/miejsca/konstantynopol).
 
 ## The British in the Turkish fleet
 

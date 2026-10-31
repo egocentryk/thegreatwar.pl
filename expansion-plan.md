@@ -495,8 +495,14 @@ The top 50 by kind:
 8. **"Siły zbrojne" batch 2:** 2026-10-31, twelve forces (Royal Navy,
    RNAS, RAF, BEF, the German 9th, 11th, 4th armies, Armia Południowa, the
    Russian 3rd and 8th armies, Legion Czechosłowacki, Gurkhowie), 375 links
-   (24,120 → 23,745; §53). Left: places (~45), glossary batch 2, people and
-   single articles (Persja, the Paris conference).
+   (24,120 → 23,745; §53).
+9. **"Miejsca" batch 3:** 2026-10-31, 47 places and five more titles to
+   campaign and battle pages, 1,396 links (23,745 → 22,349; §54); 60
+   places. Left: glossary batch 2, people (Viviani, Plehwe, Costa,
+   Woyrsch, Trenchard, Bothmer, Kaledin), single articles (Persja, the
+   Paris conference); the next places (Czerniowce, Lublin, Siedmiogród,
+   Nisz, Oise, Lipawa, Saint-Quentin, Lens, Dunaj, Prusy Wschodnie,
+   Armentières, Wilno) are under 20 links each.
 
 ### The plan
 

@@ -2,10 +2,10 @@
 title: Russians take Zaleszczyki
 summary: In June 1916, after the defeat at Okna, the Austrians gave up the Zaleszczyki bridgehead without a fight. A British chronology dates the Russian entry 12 June.
 source: rosjanie-zajmuja-zaleszczyki
-sourceHash: 8266d97fde443720784ad195c977825b99dd0465
+sourceHash: dbccc76f661e14b555bc8c0591ac5a12ea19557a
 ---
 
-The British chronology of the war states that on 12 June 1916, 30 May by the Julian calendar then used in Russia, Russian troops took [Zaleszczyki](https://pl.wikipedia.org/wiki/Zaleszczyki). This small district town in eastern Galicia lies in a tight loop of the [Dniester](https://pl.wikipedia.org/wiki/Dniestr), on its left, northern bank. On the other bank Bukovina began. The Russians did not have to fight for the town. The Austro-Hungarian official history states that the garrison abandoned the bridgehead during the night of 10–11 June, but does not record the exact day the Russians entered. Everything was decided by the defeat suffered on 10 June by the Austro-Hungarian [Seventh Army](https://pl.wikipedia.org/wiki/7_Armia_(austro-węgierska)) a dozen or so kilometres away, on the southern bank of the river.
+The British chronology of the war states that on 12 June 1916, 30 May by the Julian calendar then used in Russia, Russian troops took [Zaleszczyki](https://pl.wikipedia.org/wiki/Zaleszczyki). This small district town in eastern Galicia lies in a tight loop of the [Dniester](/miejsca/dniestr), on its left, northern bank. On the other bank Bukovina began. The Russians did not have to fight for the town. The Austro-Hungarian official history states that the garrison abandoned the bridgehead during the night of 10–11 June, but does not record the exact day the Russians entered. Everything was decided by the defeat suffered on 10 June by the Austro-Hungarian [Seventh Army](https://pl.wikipedia.org/wiki/7_Armia_(austro-węgierska)) a dozen or so kilometres away, on the southern bank of the river.
 
 ## The bridgehead on the Dniester
 

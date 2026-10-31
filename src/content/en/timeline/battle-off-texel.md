@@ -2,10 +2,10 @@
 title: Battle off Texel
 summary: On 17 October 1914 the British cruiser Undaunted and four destroyers sank four German torpedo boats off Texel that were on their way to lay mines.
 source: bitwa-kolo-texel
-sourceHash: 6e62701ead89145d5e5ec2f3db135e3f9b4b4ca4
+sourceHash: 7fd974eaef5bf7944a8f78d18f41c8f4461331e6
 ---
 
-On the afternoon of 17 October 1914, in the [North Sea](https://pl.wikipedia.org/wiki/Morze_Północne), a few dozen kilometres south-west of the Dutch island of [Texel](https://pl.wikipedia.org/wiki/Texel), the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Undaunted* and four destroyers caught four German [torpedo boats](https://pl.wikipedia.org/wiki/Torpedowiec). In less than three hours all the German vessels went to the bottom. More than 200 German sailors were killed, while the British had only a few wounded.
+On the afternoon of 17 October 1914, in the [North Sea](/miejsca/morze-polnocne), a few dozen kilometres south-west of the Dutch island of [Texel](https://pl.wikipedia.org/wiki/Texel), the British [light cruiser](https://pl.wikipedia.org/wiki/Krążownik_lekki) *Undaunted* and four destroyers caught four German [torpedo boats](https://pl.wikipedia.org/wiki/Torpedowiec). In less than three hours all the German vessels went to the bottom. More than 200 German sailors were killed, while the British had only a few wounded.
 
 ## A minelaying sortie to the Thames
 

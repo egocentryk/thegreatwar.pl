@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-24 maja 1915 roku wojska niemieckie i austro-węgierskie rozpoczęły walki o odzyskanie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl), którą dwa miesiące wcześniej [zajęli Rosjanie](/kapitulacja-przemysla). Głównym uderzeniem dnia było natarcie niemieckiej [11 Armii](/sily-zbrojne/11-armia-niemiecka) generała [Augusta von Mackensena](/postacie/august-von-mackensen) na wschodnim brzegu [Sanu](https://pl.wikipedia.org/wiki/San), na północ od twierdzy. Do wieczora Rosjanie stracili [Radymno](https://pl.wikipedia.org/wiki/Radymno) i kilka okolicznych wsi, a tysiące ich żołnierzy dostały się do niewoli. Brytyjska chronologia wojny notuje pod tą datą początek bitwy o Przemyśl.
+24 maja 1915 roku wojska niemieckie i austro-węgierskie rozpoczęły walki o odzyskanie [twierdzy Przemyśl](https://pl.wikipedia.org/wiki/Twierdza_Przemyśl), którą dwa miesiące wcześniej [zajęli Rosjanie](/kapitulacja-przemysla). Głównym uderzeniem dnia było natarcie niemieckiej [11 Armii](/sily-zbrojne/11-armia-niemiecka) generała [Augusta von Mackensena](/postacie/august-von-mackensen) na wschodnim brzegu [Sanu](/miejsca/san), na północ od twierdzy. Do wieczora Rosjanie stracili [Radymno](https://pl.wikipedia.org/wiki/Radymno) i kilka okolicznych wsi, a tysiące ich żołnierzy dostały się do niewoli. Brytyjska chronologia wojny notuje pod tą datą początek bitwy o Przemyśl.
 
 ## Twierdza w boku
 

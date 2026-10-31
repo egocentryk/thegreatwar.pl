@@ -2,14 +2,14 @@
 title: Serbs retake Štip and Veles
 summary: On 25 September 1918 Serbian cavalry entered Štip, abandoned by the Bulgarians, and on 26 September the Serbian First Army took Veles on the Vardar.
 source: serbowie-odbijaja-sztip-i-weles
-sourceHash: 99288e864809c1590701a323a60013aaed5a4592
+sourceHash: fa4d9faf144b225858b80ba2b9f794235832f6e6
 ---
 
 A British chronology of the war records under 25 September 1918 the Serbs' recapture of [Štip](https://pl.wikipedia.org/wiki/Sztip) and [Veles](https://pl.wikipedia.org/wiki/Wełes), two towns in Macedonia which the Bulgarians had taken in October 1915: [Štip around 19 October](/bulgarzy-zajmuja-sztip), and [Veles a day or two later](/bulgarzy-zajmuja-weles). The date is accurate only for the first of them. According to Cyril Falls's British official history, the Bulgarians abandoned Štip on the night of 24–25 September, and the Serbian Cavalry Division entered the town right behind them. Serbian accounts state that the cavalry took Štip on 25 September. Veles fell a day later: according to Falls and Serbian accounts, the Serbian First Army took it on 26 September, and the enemy's last rearguards left the eastern part of the town before dawn on 27 September.
 
 ## After the breakthrough
 
-Ten days earlier the Serbs and French had [broken through the front at Dobro Pole](/bitwy/bitwa-pod-dobrym-polem), and since then the Serbian armies had been advancing north. On 23 September the Serbian Second Army of Vojvoda [Stepa Stepanović](/postacie/stepa-stepanovic) crossed the [Vardar](https://pl.wikipedia.org/wiki/Wardar), and on 24 September the French and Serbs took Gradsko, where the railway from Salonika joined the light railway to [Prilep](/francuzi-zajmuja-prilep). The Bulgarian front had been cut in two. In the east the Yugoslav Division reached the ridge between the Vardar and the Kriva Lakavica river and opened the way to Štip for the Serbian cavalry. In the west the Serbian First Army of General [Petar Bojović](/postacie/petar-bojovic) advanced along both banks of the Vardar towards Veles, where the roads from Prilep over the Babuna Pass and from Gradsko converged. One of the two corps of the German Eleventh Army was retreating that way from the west.
+Ten days earlier the Serbs and French had [broken through the front at Dobro Pole](/bitwy/bitwa-pod-dobrym-polem), and since then the Serbian armies had been advancing north. On 23 September the Serbian Second Army of Vojvoda [Stepa Stepanović](/postacie/stepa-stepanovic) crossed the [Vardar](/miejsca/wardar), and on 24 September the French and Serbs took Gradsko, where the railway from Salonika joined the light railway to [Prilep](/francuzi-zajmuja-prilep). The Bulgarian front had been cut in two. In the east the Yugoslav Division reached the ridge between the Vardar and the Kriva Lakavica river and opened the way to Štip for the Serbian cavalry. In the west the Serbian First Army of General [Petar Bojović](/postacie/petar-bojovic) advanced along both banks of the Vardar towards Veles, where the roads from Prilep over the Babuna Pass and from Gradsko converged. One of the two corps of the German Eleventh Army was retreating that way from the west.
 
 ## Štip
 

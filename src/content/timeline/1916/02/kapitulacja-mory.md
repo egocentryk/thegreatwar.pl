@@ -16,7 +16,7 @@ brief:
   - "Do niewoli poszło według brytyjskiej historii oficjalnej 11 Niemców i 145 afrykańskich żołnierzy, którym alianci oddali honory wojskowe. Kolonię Brytyjczycy i Francuzi musieli teraz podzielić między siebie."
 ---
 
-18 lutego 1916 roku skapitulowała niemiecka załoga góry nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) na dalekiej północy [Kamerunu Niemieckiego](https://pl.wikipedia.org/wiki/Kamerun_Niemiecki). Kapitan Ernst von Raben bronił się tu od sierpnia 1914 roku, gdy jego kompania odparła [pierwszy atak aliantów](/pierwszy-atak-na-more). Poddał się na honorowych warunkach, dopiero gdy dowiedział się, że reszta niemieckich wojsk w Kamerunie [schroniła się w hiszpańskim Muni](/niemcy-przechodza-do-gwinei-hiszpanskiej). Według brytyjskiej historii oficjalnej (Moberly, *Togoland and the Cameroons*) kapitulacja Mory zakończyła kampanię w Kamerunie.
+18 lutego 1916 roku skapitulowała niemiecka załoga góry nad [Morą](https://pl.wikipedia.org/wiki/Mora_(Kamerun)) na dalekiej północy [Kamerunu Niemieckiego](/miejsca/kamerun). Kapitan Ernst von Raben bronił się tu od sierpnia 1914 roku, gdy jego kompania odparła [pierwszy atak aliantów](/pierwszy-atak-na-more). Poddał się na honorowych warunkach, dopiero gdy dowiedział się, że reszta niemieckich wojsk w Kamerunie [schroniła się w hiszpańskim Muni](/niemcy-przechodza-do-gwinei-hiszpanskiej). Według brytyjskiej historii oficjalnej (Moberly, *Togoland and the Cameroons*) kapitulacja Mory zakończyła kampanię w Kamerunie.
 
 ## Ostatnia zima na górze
 

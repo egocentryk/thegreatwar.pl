@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-14 lipca 1916 roku około trzeciej po południu brytyjscy żołnierze weszli do [Mwanzy](https://pl.wikipedia.org/wiki/Mwanza), głównego niemieckiego portu i bazy nad [Jeziorem Wiktorii](https://pl.wikipedia.org/wiki/Jezioro_Wiktorii), w północno-zachodniej części [Niemieckiej Afryki Wschodniej](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia). Miasto zajęły oddziały generała brygady Charlesa Crewe'a, przewiezione przez jezioro statkami brytyjskiej flotylli. Większość niemieckiej załogi wycofała się kilka godzin wcześniej.
+14 lipca 1916 roku około trzeciej po południu brytyjscy żołnierze weszli do [Mwanzy](https://pl.wikipedia.org/wiki/Mwanza), głównego niemieckiego portu i bazy nad [Jeziorem Wiktorii](https://pl.wikipedia.org/wiki/Jezioro_Wiktorii), w północno-zachodniej części [Niemieckiej Afryki Wschodniej](/bitwy/kampania-wschodnioafrykanska). Miasto zajęły oddziały generała brygady Charlesa Crewe'a, przewiezione przez jezioro statkami brytyjskiej flotylli. Większość niemieckiej załogi wycofała się kilka godzin wcześniej.
 
 ## Plan Crewe'a
 

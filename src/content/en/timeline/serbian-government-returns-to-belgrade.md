@@ -2,10 +2,10 @@
 title: The Serbian government returns to Belgrade
 summary: In late November and December 1918 the Serbian government returned to ruined Belgrade after over four years in exile, now as the government of a new kingdom.
 source: rzad-serbski-wraca-do-belgradu
-sourceHash: d5c9f654e1fc19c8e172295b09b53acf713b8d7a
+sourceHash: ed09be536780b7aa8d45e2994146426e70499bd4
 ---
 
-A British chronology of the war records under 9 December 1918 that the Serbian government re-established itself in [Belgrade](https://pl.wikipedia.org/wiki/Belgrad). The available accounts do not connect any particular act with that day. The government's return was not a single event but took several weeks, and Serbia was then still using the Julian calendar, under which 9 December was 26 November. What is known is that in December the government and the ministries were already working in the capital, which they had left in July 1914 when they [moved to Niš](/rzad-serbski-przeniesiony-z-belgradu-do-niszu).
+A British chronology of the war records under 9 December 1918 that the Serbian government re-established itself in [Belgrade](/miejsca/belgrad). The available accounts do not connect any particular act with that day. The government's return was not a single event but took several weeks, and Serbia was then still using the Julian calendar, under which 9 December was 26 November. What is known is that in December the government and the ministries were already working in the capital, which they had left in July 1914 when they [moved to Niš](/rzad-serbski-przeniesiony-z-belgradu-do-niszu).
 
 From the beginning of 1916 the seat of the government had been [Corfu](/rzad-serbski-na-korfu). After the breaking of the Salonica front and the [recapture of Belgrade](/serbowie-ponownie-odbijaja-belgrad) on 1 November, the ministers returned home by various routes. The American agent to the Serbian government, H. Percival Dodge, reported from Corfu on 12 November that the ministers were scattered between Paris, Corfu, Skopje and Belgrade. [Regent Alexander](/regent-aleksander-w-belgradzie) reached the capital before them and took up residence in the house of the merchant Krsmanović on Terazije. The deputies of the Serbian parliament mostly returned by way of Dubrovnik.
 

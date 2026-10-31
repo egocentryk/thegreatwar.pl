@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-5 grudnia 1917 roku w [Brześciu Litewskim](https://pl.wikipedia.org/wiki/Brześć) pełnomocnicy naczelnych dowództw Niemiec, Austro-Węgier, Bułgarii i Turcji z jednej strony oraz rosyjskiego z drugiej podpisali zawieszenie broni na całym wspólnym froncie. Tak zakończyła się [pierwsza runda rokowań](/poczatek-rokowan-rozejmowych-w-brzesciu). Walki miały ustać na dziesięć dni, a delegacje wrócić do stołu 12 grudnia. Brytyjska chronologia wojny notuje rozejm pod 6 grudnia, a wszedł on w życie 7 grudnia i do 8 grudnia na froncie wschodnim ustały wszelkie walki.
+5 grudnia 1917 roku w [Brześciu Litewskim](/miejsca/brzesc) pełnomocnicy naczelnych dowództw Niemiec, Austro-Węgier, Bułgarii i Turcji z jednej strony oraz rosyjskiego z drugiej podpisali zawieszenie broni na całym wspólnym froncie. Tak zakończyła się [pierwsza runda rokowań](/poczatek-rokowan-rozejmowych-w-brzesciu). Walki miały ustać na dziesięć dni, a delegacje wrócić do stołu 12 grudnia. Brytyjska chronologia wojny notuje rozejm pod 6 grudnia, a wszedł on w życie 7 grudnia i do 8 grudnia na froncie wschodnim ustały wszelkie walki.
 
 ## Warunki
 

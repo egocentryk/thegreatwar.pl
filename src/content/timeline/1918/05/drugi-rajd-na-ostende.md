@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-W nocy z 9 na 10 maja 1918 roku okręty brytyjskiego Patrolu Dover po raz drugi spróbowały zamknąć Niemcom wyjście z [Ostendy](https://pl.wikipedia.org/wiki/Ostenda), jednego z dwóch portów, przez które okręty podwodne i torpedowce z [Brugii](https://pl.wikipedia.org/wiki/Brugia) wychodziły w morze. Tym razem blokowcem był stary krążownik [Vindictive](https://pl.wikipedia.org/wiki/HMS_Vindictive_(1897)), który dwa i pół tygodnia wcześniej przybił do mola w Zeebrugge. W gęstej mgle i pod ogniem niemieckich baterii okręt wszedł między falochrony i został zatopiony przez własną załogę, ale ułożył się ukośnie do osi kanału i zamknął tylko część przejścia. Brytyjczycy stracili kilkudziesięciu zabitych, rannych i zaginionych, a za tę noc przyznano trzy [Krzyże Wiktorii](/slownik/krzyz-wiktorii).
+W nocy z 9 na 10 maja 1918 roku okręty brytyjskiego Patrolu Dover po raz drugi spróbowały zamknąć Niemcom wyjście z [Ostendy](/miejsca/ostenda), jednego z dwóch portów, przez które okręty podwodne i torpedowce z [Brugii](https://pl.wikipedia.org/wiki/Brugia) wychodziły w morze. Tym razem blokowcem był stary krążownik [Vindictive](https://pl.wikipedia.org/wiki/HMS_Vindictive_(1897)), który dwa i pół tygodnia wcześniej przybił do mola w Zeebrugge. W gęstej mgle i pod ogniem niemieckich baterii okręt wszedł między falochrony i został zatopiony przez własną załogę, ale ułożył się ukośnie do osi kanału i zamknął tylko część przejścia. Brytyjczycy stracili kilkudziesięciu zabitych, rannych i zaginionych, a za tę noc przyznano trzy [Krzyże Wiktorii](/slownik/krzyz-wiktorii).
 
 ## Druga próba
 

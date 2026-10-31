@@ -2,10 +2,10 @@
 title: Blockade of the coast of Greek Macedonia
 summary: In September 1916 the Allies declared a blockade of the Greek coast from the Struma to the Mesta, held by the Bulgarians. It also covered Kavala and its gulf.
 source: blokada-wybrzeza-macedonii-greckiej
-sourceHash: a61f08035ef4f205dcde6778e548274f67d98a36
+sourceHash: 0945e692daa59fea0799a1619e9d9b0f0649ac34
 ---
 
-The British chronology of the war records under 19 September 1916 that the Allies began a [naval blockade](/slownik/blokada) of the coast of Greek Macedonia from the mouth of the [Struma](https://pl.wikipedia.org/wiki/Struma) to the mouth of the [Mesta](https://pl.wikipedia.org/wiki/Mesta). Contemporary sources do not agree on this. *The American Year Book* writes that a blockade of the Greek coast from the mouth of the Struma to the Bulgarian frontier was declared by the French official gazette, the *Journal officiel*, of 20 September, as a measure directed against the Bulgarians, who had occupied [Kavala](https://pl.wikipedia.org/wiki/Kawala), although in the same yearbook's calendar the blockade appears under 16 September. According to *The Times History of the War*, it was announced on 20 September that the admiral commanding the Allied fleet had given notice of a blockade of the stretch between the mouth of the Mesta (Nestos) and the village of Chaiaghizi at the mouth of the Struma, which included the whole Gulf of Kavala.
+The British chronology of the war records under 19 September 1916 that the Allies began a [naval blockade](/slownik/blokada) of the coast of Greek Macedonia from the mouth of the [Struma](https://pl.wikipedia.org/wiki/Struma) to the mouth of the [Mesta](https://pl.wikipedia.org/wiki/Mesta). Contemporary sources do not agree on this. *The American Year Book* writes that a blockade of the Greek coast from the mouth of the Struma to the Bulgarian frontier was declared by the French official gazette, the *Journal officiel*, of 20 September, as a measure directed against the Bulgarians, who had occupied [Kavala](/miejsca/kawala), although in the same yearbook's calendar the blockade appears under 16 September. According to *The Times History of the War*, it was announced on 20 September that the admiral commanding the Allied fleet had given notice of a blockade of the stretch between the mouth of the Mesta (Nestos) and the village of Chaiaghizi at the mouth of the Struma, which included the whole Gulf of Kavala.
 
 ## A Greek shore in Bulgarian hands
 

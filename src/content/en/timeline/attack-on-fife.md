@@ -2,10 +2,10 @@
 title: Attack on Fife
 summary: On 1 November 1918 Lettow-Vorbeck struck the British post of Fife in Northern Rhodesia. The entrenched garrison held, and on 2 November the Germans left.
 source: atak-na-fife
-sourceHash: ad069ec17edbe9d7ec0eb3008a52c1c7956e4841
+sourceHash: 76d92a052065245ada2271047f47e85036a80069
 ---
 
-On the afternoon of 1 November 1918 the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) approached Fife, a British post just across the border of [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), present-day Zambia. A month after he had [returned across the Rovuma](/lettow-vorbeck-wraca-za-rovume), Lettow-Vorbeck passed through the south-western edge of [German East Africa](https://pl.wikipedia.org/wiki/Niemiecka_Afryka_Wschodnia) and entered the British colony with his column. Fife was an important supply hub: the road from Neu Langenburg in the north to Abercorn and Kasama ran through it, and there were large stores at the post.
+On the afternoon of 1 November 1918 the German [Schutztruppe](https://pl.wikipedia.org/wiki/Schutztruppe) of General [Paul von Lettow-Vorbeck](/postacie/paul-von-lettow-vorbeck) approached Fife, a British post just across the border of [Northern Rhodesia](https://pl.wikipedia.org/wiki/Rodezja_Północna), present-day Zambia. A month after he had [returned across the Rovuma](/lettow-vorbeck-wraca-za-rovume), Lettow-Vorbeck passed through the south-western edge of [German East Africa](/bitwy/kampania-wschodnioafrykanska) and entered the British colony with his column. Fife was an important supply hub: the road from Neu Langenburg in the north to Abercorn and Kasama ran through it, and there were large stores at the post.
 
 ## A race for the stores
 

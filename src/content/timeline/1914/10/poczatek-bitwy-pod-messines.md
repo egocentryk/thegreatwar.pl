@@ -21,7 +21,7 @@ brief:
 
 ## Kawaleria na lewym skrzydle
 
-Brytyjski Korpus Ekspedycyjny od początku października [przechodził znad Aisne](/bef-opuszcza-aisne) do Flandrii. Jako pierwsze dotarły na miejsce dwie dywizje kawalerii, które 9 października połączono w korpus pod dowództwem Allenby'ego. Za nimi szły korpusy piechoty. II Korpus wszedł już do walki pod La Bassée, a III Korpus generała Williama Pulteneya wyładowywał się właśnie w Saint-Omer i przechodził do [Hazebrouck](https://pl.wikipedia.org/wiki/Hazebrouck).
+Brytyjski Korpus Ekspedycyjny od początku października [przechodził znad Aisne](/bef-opuszcza-aisne) do Flandrii. Jako pierwsze dotarły na miejsce dwie dywizje kawalerii, które 9 października połączono w korpus pod dowództwem Allenby'ego. Za nimi szły korpusy piechoty. II Korpus wszedł już do walki pod La Bassée, a III Korpus generała Williama Pulteneya wyładowywał się właśnie w Saint-Omer i przechodził do [Hazebrouck](/miejsca/hazebrouck).
 
 10 października marszałek [John French](/postacie/john-french) uzgodnił z generałem [Ferdinandem Fochem](/foch-obejmuje-dowodztwo-we-flandrii), koordynującym działania armii francuskich na północy, wspólne natarcie na wschód. Brytyjczycy mieli przejść na północ od Lille i uderzyć na skrzydło Niemców. Kawaleria Allenby'ego miała osłaniać lewe skrzydło III Korpusu, zająć wzgórza wokół Bailleul i posuwać się w stronę Ypres.
 

@@ -11,7 +11,7 @@ milestone: false
 draft: false
 ---
 
-Nad ranem 5 maja 1916 roku niemiecki sterowiec wojskowy LZ 85 po raz trzeci nadleciał nad [Saloniki](/miejsca/saloniki), główną bazę wojsk Ententy na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). Tym razem w porcie czekały na niego okręty alianckie. Reflektor brytyjskiego pancernika Agamemnon wyłowił sterowiec z ciemności, a działa okrętu szybko go trafiły. LZ 85 opadł w bagna u ujścia [Wardaru](https://pl.wikipedia.org/wiki/Wardar), a jego załoga po krótkiej ucieczce przez moczary trafiła do niewoli. Na tym skończyły się naloty sterowców na Saloniki.
+Nad ranem 5 maja 1916 roku niemiecki sterowiec wojskowy LZ 85 po raz trzeci nadleciał nad [Saloniki](/miejsca/saloniki), główną bazę wojsk Ententy na [froncie salonickim](https://pl.wikipedia.org/wiki/Front_salonicki). Tym razem w porcie czekały na niego okręty alianckie. Reflektor brytyjskiego pancernika Agamemnon wyłowił sterowiec z ciemności, a działa okrętu szybko go trafiły. LZ 85 opadł w bagna u ujścia [Wardaru](/miejsca/wardar), a jego załoga po krótkiej ucieczce przez moczary trafiła do niewoli. Na tym skończyły się naloty sterowców na Saloniki.
 
 ## Sterowce nad Salonikami
 

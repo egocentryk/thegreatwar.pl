@@ -2,10 +2,10 @@
 title: Start of the British offensive on Kut
 summary: On 13 December 1916 the British shelled the Turkish positions at Kut and at night moved towards the Shatt al-Hai. Maude began the offensive to retake the town.
 source: poczatek-brytyjskiej-ofensywy-na-al-kut
-sourceHash: 7b004e7d4b5eba78b9fa1234a09d8206475b29d0
+sourceHash: 3a61a05b1293f321d9f424045dc2b4866559cc28
 ---
 
-On 13 December 1916 the British artillery on the [Tigris](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) shelled the Turkish trenches on the left bank of the river for two hours, while I Corps feigned crossings and preparations for an assault on the Sannaiyat position. It was a ruse. After dark the troops of General [Frederick Stanley Maude](/postacie/frederick-maude) began a night march on the right bank towards the Shatt al-Hai canal, south of [Kut](https://pl.wikipedia.org/wiki/Al-Kut). The British chronology of the war records the start of the offensive on the Tigris under 13 December. The British official history (Moberly, *The Campaign in Mesopotamia*, vol. III) dates the start of the battle to 14 December, when before dawn the cavalry and infantry crossed the Shatt al-Hai. Both days belong to the same operation: 13 December was the day of the feint and the move off, and 14 December the first day of the attack.
+On 13 December 1916 the British artillery on the [Tigris](/miejsca/tygrys) shelled the Turkish trenches on the left bank of the river for two hours, while I Corps feigned crossings and preparations for an assault on the Sannaiyat position. It was a ruse. After dark the troops of General [Frederick Stanley Maude](/postacie/frederick-maude) began a night march on the right bank towards the Shatt al-Hai canal, south of [Kut](/miejsca/al-kut). The British chronology of the war records the start of the offensive on the Tigris under 13 December. The British official history (Moberly, *The Campaign in Mesopotamia*, vol. III) dates the start of the battle to 14 December, when before dawn the cavalry and infantry crossed the Shatt al-Hai. Both days belong to the same operation: 13 December was the day of the feint and the move off, and 14 December the first day of the attack.
 
 ## Eight months after the surrender
 

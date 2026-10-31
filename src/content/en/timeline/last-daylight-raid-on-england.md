@@ -2,12 +2,12 @@
 title: Last daylight raid on England
 summary: On 22 August 1917 Gothas bombed Margate, Ramsgate and Dover. The defences shot down three of them, and the Germans gave up daylight raids on England.
 source: ostatni-dzienny-nalot-na-anglie
-sourceHash: a5e6ce007d3905bd4f9b1e5cdf694389d010c2e0
+sourceHash: e2498d11bd4801fbb9a8686d035d36189beede51
 ---
 
 Shortly before noon on 22 August 1917 German Gotha bombers attacked England in broad daylight for the last time in the war. They bombed the seaside towns of [Kent](https://pl.wikipedia.org/wiki/Kent): [Margate](https://pl.wikipedia.org/wiki/Margate), [Ramsgate](https://pl.wikipedia.org/wiki/Ramsgate) and [Dover](https://pl.wikipedia.org/wiki/Dover). This time the defences were ready. Anti-aircraft fire and dozens of fighters forced the bombers to change their plan, and three of them were shot down. Twelve people were killed. After this raid the Germans switched to night attacks.
 
-Captain Rudolf Kleine's bomber squadron took off from airfields around [Ghent](https://pl.wikipedia.org/wiki/Gandawa) at about 9 a.m. with fifteen Gothas. Some of the machines turned back with engine trouble. According to H. A. Jones's British official history of the air war, there were four of them. The British historian of the raids Ian Castle writes of five, including Kleine's own machine. Ten or eleven Gothas thus reached England. According to the testimony of an airman taken prisoner, the formation was to split up over the North Foreland: some were to fly along the Thames estuary to Sheerness or Southend, and the rest to Dover.
+Captain Rudolf Kleine's bomber squadron took off from airfields around [Ghent](/miejsca/gandawa) at about 9 a.m. with fifteen Gothas. Some of the machines turned back with engine trouble. According to H. A. Jones's British official history of the air war, there were four of them. The British historian of the raids Ian Castle writes of five, including Kleine's own machine. Ten or eleven Gothas thus reached England. According to the testimony of an airman taken prisoner, the formation was to split up over the North Foreland: some were to fly along the Thames estuary to Sheerness or Southend, and the rest to Dover.
 
 ## Bombs on Thanet
 

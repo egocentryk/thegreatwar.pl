@@ -2,7 +2,7 @@
 title: Austrians retake Stanisławów
 summary: On 8 June 1915 troops of the South Army entered Stanisławów without a fight, abandoned by the retreating Russian 9th Army. The second occupation was over.
 source: austriacy-odbijaja-stanislawow
-sourceHash: b32c69d9ed526e79a780846c78ced0be15fe54db
+sourceHash: f0288c2531f8a93c43b8007a7cde884c6cd6a9ba
 ---
 
 On 8 June 1915 the troops of the Central Powers entered [Stanisławów](https://pl.wikipedia.org/wiki/Iwano-Frankiwsk), one of the largest towns and an important railway junction of Eastern Galicia. The Russians, who had [retaken the town on 4 March](/rosjanie-odbijaja-stanislawow), abandoned it without a fight. This date is given consistently by the Austrian official history, the 1922 Encyclopaedia Britannica and Ukrainian studies of the town's history, according to which the second period of Russian rule in Stanisławów lasted from 4 March to 8 June 1915.
@@ -21,6 +21,6 @@ The Russians gave up Stanisławów because their [9th Army](https://pl.wikipedia
 
 ## After the capture of the town
 
-News of the occupation of Stanisławów reached South Army headquarters in Stryj on the evening of 8 June. Linsingen decided that his troops had accomplished their task in the east and resolved to shift the weight of the attack to the northern bank of the [Dniester](https://pl.wikipedia.org/wiki/Dniestr). He did not yet know that the same day the Russians had struck his left flank with fresh forces near Żydaczów and Mikołajów. As early as 9 June Gerok's corps had to hand over its positions near Stanisławów to the German 5th Cavalry Division and hurry to the aid of the threatened sector.
+News of the occupation of Stanisławów reached South Army headquarters in Stryj on the evening of 8 June. Linsingen decided that his troops had accomplished their task in the east and resolved to shift the weight of the attack to the northern bank of the [Dniester](/miejsca/dniestr). He did not yet know that the same day the Russians had struck his left flank with fresh forces near Żydaczów and Mikołajów. As early as 9 June Gerok's corps had to hand over its positions near Stanisławów to the German 5th Cavalry Division and hurry to the aid of the threatened sector.
 
 For the inhabitants of Stanisławów the end of Russian rule meant the end of the repression that during the second occupation had struck the Jews particularly hard. The Russian command ordered them to be deported in the wake of the retreating troops and hostages to be taken from among the most influential and wealthy, and according to Ukrainian historians of the town many were resettled on the left bank of the Dniester. Some of them returned home in the summer of 1915. The front did not, however, move away from the town at once. A few days later the Russians came up to its outskirts once more.

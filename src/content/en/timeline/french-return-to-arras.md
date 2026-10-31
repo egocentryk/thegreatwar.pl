@@ -2,10 +2,10 @@
 title: French return to Arras
 summary: On 30 September 1914 fresh French units of General de Maud'huy's group entered Arras. A day later heavy fighting began around the town.
 source: francuzi-wracaja-do-arras
-sourceHash: 51b180c0eb14dbcc1a967c8fca0f35ba977e509d
+sourceHash: 614c1076c5dd0692fefd5877a1b868b6973ae794
 ---
 
-On 30 September 1914, according to the British chronicle of the war, French troops reoccupied [Arras](https://pl.wikipedia.org/wiki/Arras_(Francja)), the capital of [Artois](https://pl.wikipedia.org/wiki/Artois). The town was not in German hands at the time, so this was not a recapture, but the return of regular troops after a month in which Arras had been practically undefended.
+On 30 September 1914, according to the British chronicle of the war, French troops reoccupied [Arras](/miejsca/arras), the capital of [Artois](https://pl.wikipedia.org/wiki/Artois). The town was not in German hands at the time, so this was not a recapture, but the return of regular troops after a month in which Arras had been practically undefended.
 
 ## A town without troops
 

@@ -2,7 +2,7 @@
 title: Fighting on the Avre
 summary: On 4 April 1918, in the rain, the Germans struck at Amiens. By evening they were at Villers-Bretonneux, but an Australian counter-attack threw them back.
 source: walki-nad-avre
-sourceHash: 9dcf3d29f33d8a98af7cd92fd10361c2c97a168c
+sourceHash: f1a6ef04e0313e91e1930315db8ad54e64fb4ef0
 brief:
   - "On 4 April 1918 the German 18th and 2nd Armies attacked towards Amiens in the rain on a front about 24 km long, from Grivesnes to the Somme. It was Michael's last attempt with a real chance of success."
   - "On the Avre General Debeney's French First Army fell back more than 3 km and lost several villages, but in the evening reinforcements arrived and the dent in the front stopped growing."
@@ -11,7 +11,7 @@ brief:
   - "The Germans pushed the Allies back 2–3 km but did not reach the line from which they could bombard the railway junction at Amiens. Ludendorff later wrote that the battle ended on 4 April."
 ---
 
-On 4 April 1918 the Germans tried for the last time during [Operation Michael](/bitwy/operacja-michael) to break through to [Amiens](/miejsca/amiens). After three days of preparation two armies, General [Oskar von Hutier's](/postacie/oskar-von-hutier) 18th Army and General [Georg von der Marwitz's](/postacie/georg-von-der-marwitz) 2nd Army, attacked on a front about 24 km long, from Grivesnes south of [Moreuil](https://pl.wikipedia.org/wiki/Moreuil) to the [Somme](https://pl.wikipedia.org/wiki/Somma_(rzeka)). It rained all day. The French on the [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) fell back several kilometres and lost several villages, and the British gave up ground on the Somme. In the afternoon the Germans came within a few hundred metres of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), the last high ground before Amiens. An evening counter-attack by the Australian 36th Battalion and several British battalions threw them back from the town. It was the last day on which the German drive on Amiens had a real chance of success.
+On 4 April 1918 the Germans tried for the last time during [Operation Michael](/bitwy/operacja-michael) to break through to [Amiens](/miejsca/amiens). After three days of preparation two armies, General [Oskar von Hutier's](/postacie/oskar-von-hutier) 18th Army and General [Georg von der Marwitz's](/postacie/georg-von-der-marwitz) 2nd Army, attacked on a front about 24 km long, from Grivesnes south of [Moreuil](https://pl.wikipedia.org/wiki/Moreuil) to the [Somme](/miejsca/somma). It rained all day. The French on the [Avre](https://pl.wikipedia.org/wiki/Avre_(dopływ_Sommy)) fell back several kilometres and lost several villages, and the British gave up ground on the Somme. In the afternoon the Germans came within a few hundred metres of [Villers-Bretonneux](https://pl.wikipedia.org/wiki/Villers-Bretonneux), the last high ground before Amiens. An evening counter-attack by the Australian 36th Battalion and several British battalions threw them back from the town. It was the last day on which the German drive on Amiens had a real chance of success.
 
 ## Before dawn
 

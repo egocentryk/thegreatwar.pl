@@ -12,7 +12,7 @@ milestone: false
 draft: false
 ---
 
-31 maja 1915 roku brytyjska 6 Dywizja (Poona) generała Charlesa Townshenda zaatakowała tureckie pozycje nad [Tygrysem](https://pl.wikipedia.org/wiki/Tygrys_(rzeka)) na północ od [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), zajętej przez Brytyjczyków [w grudniu 1914 roku](/bitwy/bitwa-pod-al-kurna). Brytyjska chronologia wojny nazywa to starcie „drugą akcją pod Kurną”. Rozpoczęło ono marsz w górę rzeki, który dowódca wojsk brytyjskich w [Mezopotamii](/bitwy/kampania-mezopotamska), generał John Nixon, zaplanował po zwycięstwie [pod Szuajbą](/bitwy/bitwa-pod-szuajba). Jego celem było położone wyżej nad Tygrysem miasto Al-Amara, ważny ośrodek osmańskiej administracji i handlu z Persją.
+31 maja 1915 roku brytyjska 6 Dywizja (Poona) generała Charlesa Townshenda zaatakowała tureckie pozycje nad [Tygrysem](/miejsca/tygrys) na północ od [Al-Kurny](https://pl.wikipedia.org/wiki/Al-Kurna_(Irak)), zajętej przez Brytyjczyków [w grudniu 1914 roku](/bitwy/bitwa-pod-al-kurna). Brytyjska chronologia wojny nazywa to starcie „drugą akcją pod Kurną”. Rozpoczęło ono marsz w górę rzeki, który dowódca wojsk brytyjskich w [Mezopotamii](/bitwy/kampania-mezopotamska), generał John Nixon, zaplanował po zwycięstwie [pod Szuajbą](/bitwy/bitwa-pod-szuajba). Jego celem było położone wyżej nad Tygrysem miasto Al-Amara, ważny ośrodek osmańskiej administracji i handlu z Persją.
 
 ## Natarcie w łodziach
 
